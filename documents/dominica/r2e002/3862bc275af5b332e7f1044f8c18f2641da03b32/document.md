@@ -14,7 +14,7 @@ ACT 11
 
 **SECTION**
 
-### PRELIMINARY
+## PRELIMINARY
 
 - 1. Short title and commencement.
 - 2. Interpretation.
@@ -22,9 +22,9 @@ ACT 11
 
 ## PARTI
 
-### ADMINISTRATION OF THE EDUCATION SYSTEM
+**ADMINISTRATION OF THE EDUCATION SYSTEM**
 
-#### DIVISION A
+### DIVISION A
 
 **RESPONSIBILITIES AND POWERS OF THE MINISTER**
 
@@ -32,14 +32,14 @@ ACT 11
 - 5. Powers of Minister.
 - 6. Annual report.
 
-#### DIVISION B
+### DIVISION B
 
 **RESPONSIBILITIES AND DUTIES CHIEF EDUCATION OFFICER**
 
 - 7. Duties of Chief Education Officer.
 - 8. Delegation of authority by Minister.
 
-#### DIVISION C
+### DIVISION C
 
 **ESTABLISHMENT AND FUNCTIONS OF THE EDUCATION ADVISORY BOARD AND COMMITTEES**
 
@@ -65,9 +65,9 @@ ACT 11
 
 ## PART II
 
-### RIGHTS AND RESPONSIBILITIES OF STUDENTS AND PARENTS
+**RIGHTS AND RESPONSIBILITIES OF STUDENTS AND PARENTS**
 
-#### DIVISION A
+### DIVISION A
 
 **STUDENTS RIGHTS AND RESPONSIBILITIES**
 
@@ -78,7 +78,7 @@ ACT 11
 - 18. Students accountable to teacher, principal and Ministry.
 - 19. Rights of students.
 
-#### DIVISION B
+### DIVISION B
 
 **PARENTS' RIGHTS AND RESPONSIBILITIES**
 
@@ -90,7 +90,7 @@ ACT 11
 - 25. School Committees.
 - 26. Wishes of parents to be considered in education of students.
 
-#### DIVISION C
+### DIVISION C
 
 **ADMISSION AND ATTENDANCE OF STUDENTS**
 
@@ -119,7 +119,7 @@ ACT 11
 - 34. Temporary or permanent closing of schools.
 - 35. Zoning of schools.
 
-#### DIVISION D
+### DIVISION D
 
 **ENFORCEMENT OF COMPULSORY SCHOOL ATTENDANCE**
 
@@ -136,7 +136,7 @@ ACT 11
 - 46. Compulsory school age and offences.
 - 47. Legal proceedings.
 
-#### DIVISION E
+### DIVISION E
 
 **DISCIPLINE, SUSPENSION AND EXPULSION OF STUDENTS**
 
@@ -161,9 +161,9 @@ ACT 11
 
 ## PART III
 
-### ADMINISTRATION OF SCHOOLS
+**ADMINISTRATION OF SCHOOLS**
 
-#### DIVISION A
+### DIVISION A
 
 **MANAGEMENT OF SCHOOLS**
 
@@ -177,7 +177,7 @@ ACT 11
 - 59. Submission of reports, statements and estimates.
 - 60. General or special directions.
 
-#### DIVISION B
+### DIVISION B
 
 **MANAGEMENT OF PUBLIC SECONDARY SCHOOLS**
 
@@ -190,7 +190,7 @@ ACT 11
 - 67. Annual report, statement of accounts of estimates.
 - 68. Minutes of Board receivable in evidence.
 
-#### DIVISION C
+### DIVISION C
 
 **MANAGEMENT OF ASSISTED PRIVATE SCHOOLS**
 
@@ -211,7 +211,7 @@ ACT 11
 
 145
 
-#### DIVISION D
+### DIVISION D
 
 **MANAGEMENT OF TERTIARY INSTITUTIONS**
 
@@ -221,15 +221,15 @@ ACT 11
 
 ## PART IV
 
-### CATEGORIES AND STAGES OF EDUCATION
+**CATEGORIES AND STAGES OF EDUCATION**
 
-#### DIVISION A
+### DIVISION A
 
 **THE FORMS AND STAGES OF EDUCATION**
 
 - 74. Stages of public education.
 
-#### DIVISION B
+### DIVISION B
 
 **PRE-PRIMARY EDUCATION SERVICES**
 
@@ -238,14 +238,14 @@ ACT 11
 - 77. Council on pre-primary education services.
 - 78. Regulations respecting pre-primary education services.
 
-#### DIVISION C
+### DIVISION C
 
 **HOME EDUCATION**
 
 - 79. Home education.
 - 80. Termination of programme.
 
-#### DIVISION D
+### DIVISION D
 
 **SPECIAL EDUCATION**
 
@@ -268,19 +268,19 @@ ACT 11
 
 ## PART V
 
-### CATEGORIES OF SCHOOLS
+**CATEGORIES OF SCHOOLS**
 
 **SECTION**
 
 - 85. Organisation of schools.
 
-#### DIVISION A
+### DIVISION A
 
 **PUBLIC SCHOOLS**
 
 - 86. Status of public schools.
 
-#### DIVISION B
+### DIVISION B
 
 **PRIVATE SCHOOLS**
 
@@ -328,7 +328,7 @@ ACT 11
 - 113. Disqualification of teachers.
 - 114. Prohibition of discrimination.
 
-#### DIVISION C
+### DIVISION C
 
 **ASSISTED PRIVATE SCHOOLS**
 
@@ -340,7 +340,7 @@ ACT 11
 
 ## PART VI
 
-### TECHNICAL AND VOCATIONAL EDUCATION AND TRAINING
+**TECHNICAL AND VOCATIONAL EDUCATION AND TRAINING**
 
 - 120. Establishment of Technical and Vocational Education and Training Council.
 - 121. Functions of the Council.
@@ -368,7 +368,7 @@ ACT 11
 
 ## PART VII
 
-### PROFESSIONAL DUTIES AND RESPONSIBILITIES OF TEACHERS AND PRINCIPALS
+**PROFESSIONAL DUTIES AND RESPONSIBILITIES OF TEACHERS AND PRINCIPALS**
 
 **SECTION**
 
@@ -381,7 +381,7 @@ ACT 11
 
 ## PART VIII
 
-### CURRICULUM AND ASSESSMENT OF STUDENTS
+**CURRICULUM AND ASSESSMENT OF STUDENTS**
 
 - 137. National curriculum.
 - 138. Core and foundation subjects.
@@ -392,9 +392,9 @@ ACT 11
 
 ## PART IX
 
-### INSPECTION AND REVIEW OF THE EDUCATION SYSTEM
+**INSPECTION AND REVIEW OF THE EDUCATION SYSTEM**
 
-#### DIVISION A
+### DIVISION A
 
 **INSPECTION OF SCHOOLS**
 
@@ -414,7 +414,7 @@ ACT 11
 
 149
 
-#### DIVISION B
+### DIVISION B
 
 **REVIEW OF THE EDUCATION SYSTEM**
 
@@ -425,7 +425,7 @@ ACT 11
 
 ## PART X
 
-### APPEALS
+**APPEALS**
 
 - 148. Establishment of Education Appeal Tribunal.
 - 149. Composition of Tribunal.
@@ -439,7 +439,7 @@ ACT 11
 
 ## PART XI
 
-### MISCELLANEOUS
+**MISCELLANEOUS**
 
 - 157. Vendors on school premises.
 - 158. Prohibition of sale of alcoholic beverages and tobacco.
@@ -471,9 +471,9 @@ ACT 11
 
 151
 
-# COMMONWEALTH OF DOMINICA
+**COMMONWEALTH OF DOMINICA**
 
-## ACT No. 11 OF 1997
+**ACT No. 11 OF 1997**
 
 I assent
 
@@ -485,7 +485,7 @@ C.A. SORHAINDO
 
 7th November, 1997.
 
-## AN ACT RESPECTING EDUCATION.
+# AN ACT RESPECTING EDUCATION.
 
 *(Gazetted 13th November, 1997.)*
 
@@ -495,7 +495,7 @@ BE IT ENACTED by the Parliament of the Commonwealth of Dominica as follows:
 
 1. This Act may be cited as the -
 
-**Short title and commencement.**
+#### Short title and commencement.
 
 **EDUCATION ACT 1997,**
 
@@ -513,7 +513,7 @@ EDUCATION
 
 ACT 11
 
-**Interpretation.**
+#### Interpretation.
 
 2. In this Act unless the context otherwise requires -
 
@@ -609,7 +609,7 @@ ACT 11
 
 “tertiary institution” means an institution that provides mainly tertiary education;
 
-**Statement of purpose.**
+#### Statement of purpose.
 
 3. The purpose of this Act is to provide for the orderly and coordinated development of a relevant, varied and comprehensive educational system in Dominica characterised by excellence.
 
@@ -627,9 +627,9 @@ ACT 11
 
 ## PART I
 
-### ADMINISTRATION OF THE EDUCATION SYSTEM
+**ADMINISTRATION OF THE EDUCATION SYSTEM**
 
-#### DIVISION A
+### DIVISION A
 
 **RESPONSIBILITIES AND POWERS OF THE MINISTER**
 
@@ -656,7 +656,7 @@ processing, computing;
 
 		(ii) critical and creative thinking skills for to- day's world;
 
-**Responsibilities of the Minister.**
+#### Responsibilities of the Minister.
 
 [[END OF PAGE 15]]
 
@@ -757,7 +757,7 @@ provision for the examination and testing of stu- dents and the award of certifi
 
 (k) actively encouraging the formation, functioning and development of students councils in all schools and a National Students Council.
 
-**Powers of Minister.**
+#### Powers of Minister.
 
 5. For the purpose of the performance of his responsibilities and duties under this Act, the Minister may -
 
@@ -801,13 +801,13 @@ cation provided that in the case of assisted private schools text-books for reli
 
 6. The Minister shall table in the House of Assembly an annual report on the state of education within twelve months of the end of the school year for which the report is made.
 
-**Annual report.**
+#### Annual report.
 
-#### DIVISION B
+### DIVISION B
 
 **RESPONSIBILITIES AND DUTIES OF CHIEF EDUCATION OFFICER**
 
-**Duties of Chief Education Officer.**
+#### Duties of Chief Education Officer.
 
 7. (1) The Chief Education Officer is, subject to section 4 and the directions of the Minister, responsible for the general adminis- tration of this Act.
 
@@ -846,7 +846,7 @@ personnel;
 
 		(j) perform such other duties under this Act as the Minister may from time to time assign to the Chief Education Officer.
 
-**Delegation of authority by Minister.**
+#### Delegation of authority by Minister.
 
 8. (1) The Minister may delegate in writing to the Chief Education Officer any responsibility or duty conferred on the Minister under this Act or Regulations, but this does not preclude
 
@@ -866,13 +866,13 @@ the Minister from exercising any or all of the duties so delegated where he cons
 
 (2) Where by this Act or any enactment made under this Act the Chief Education Officer is required or permitted to perform any duty, the Chief Education Officer may, after consulting the Perma- nent Secretary, authorise in writing an Education Officer or another public officer who is accountable to him to perform the duty.
 
-#### DIVISION C
+### DIVISION C
 
 **ESTABLISHMENT AND FUNCTIONS OF THE EDUCATION ADVISORY BOARD AND COMMITTEES**
 
 9. (1) The Minister shall establish a body to be called the Education Advisory Board.
 
-**Establishment of Education Advisory Board.**
+#### Establishment of Education Advisory Board.
 
 (2) The Board must consist of the following members:
 
@@ -927,7 +927,7 @@ community;
 
 (6) The First Schedule has effect with respect to the constitution and procedure of the Board and otherwise in relation thereto.
 
-**Functions of Advisory Board.**
+#### Functions of Advisory Board.
 
 10. The Board shall advise the Minister on matters -
 
@@ -937,7 +937,7 @@ community;
 
 	(c) on any matter relating to the promotion of education as the Minister refers to it.
 
-**Powers of the Board to hold public hearing.**
+#### Powers of the Board to hold public hearing.
 
 11. (1) Prior to advising the Minister on any matter concern- ing the promotion of education, the Board may, where it thinks advisable and with the approval of the Minister -
 
@@ -973,19 +973,19 @@ ACT 11
 
 ## PART II
 
-### RIGHTS AND RESPONSIBILITIES OF STUDENTS AND PARENTS
+**RIGHTS AND RESPONSIBILITIES OF STUDENTS AND PARENTS**
 
-#### DIVISION A
+### DIVISION A
 
 **STUDENTS RIGHTS AND RESPONSIBILITIES**
 
 14. Subject to available resources, all persons are entitled to receive an educational programme appropriate to their needs in accordance with the provisions of this Act and Regulations.
 
-**Minister not bound by advice of Board.**
+#### Minister not bound by advice of Board.
 
-**Special committees.**
+#### Special committees.
 
-**Right to education.**
+#### Right to education.
 
 [[END OF PAGE 23]]
 
@@ -999,7 +999,7 @@ EDUCATION
 
 ACT 11
 
-**Responsibility to students.**
+#### Responsibility to students.
 
 15. (1) The Chief Education Officer shall provide to every compulsory school-age person who resides in the State an educa- tional programme consistent with the requirements of this Act and Regulations.
 
@@ -1011,7 +1011,7 @@ ACT 11
 
 (3) Except in the case of a student who is transferred under section 53(1)(d), where a student is directed to attend an educa- tional programme pursuant to subsection (2)(b), the Government is responsible for the fees and costs, if any, consequent to the student's attendance at the educational programme.
 
-**Free tuition.**
+#### Free tuition.
 
 16. (1) Tuition fees consequent to the student's attendance for an educational programme at a public school under section 27 shall not be charged to the student or the parents of the student.
 
@@ -1021,7 +1021,7 @@ ACT 11
 
 		(b) other charges may be imposed at a public school or assisted private school with the written approval of the Minister.
 
-**Students responsibilities.**
+#### Students responsibilities.
 
 17. Every student enrolled in a public school or assisted private school shall –
 
@@ -1059,7 +1059,7 @@ ACT 11
 
 18. (1) Every student is accountable –
 
-**Students accountable to teacher, principal, and Ministry.**
+#### Students accountable to teacher, principal, and Ministry.
 
 	(a) to the teacher for his conduct on the school premises during school hours and during such hours as the teacher is in charge of the student in class or while engaged in authorised school activities conducted outside of school hours;
 
@@ -1085,18 +1085,17 @@ EDUCATION
 
 ACT 11
 
-## Rights of students.
+#### Rights of students.
 
 19. (1) Every student has a right to be treated with respect and dignity and in a fair and reasonable manner.
 
 (2) A student may express any religious, political, moral or other belief or opinion so long as the expression does not adversely affect the rights or education of other students, or the rights of other persons in the educational institution.
 
-## DIVISION B
+### DIVISION B
 
-## PARENTS' RIGHTS AND RESPONSIBILITIES
+**PARENTS' RIGHTS AND RESPONSIBILITIES**
 
-## Rights and responsibili-
-ties of parents.
+#### Rights and responsibilities of parents.
 
 20. (1) Subject to section 22, parents of students attending public schools and assisted private schools are entitled -
 
@@ -1150,9 +1149,9 @@ ACT 11
 
 167 167
 
-**Choice of education.**
+#### Choice of education.
 
-**Student records and reports.**
+#### Student records and reports.
 
 [[END OF PAGE 27]]
 
@@ -1186,7 +1185,7 @@ ACT 11
 
 is guilty of an offence and liable on summary conviction to a fine of one thousand dollars.
 
-**Damage to school property.**
+#### Damage to school property.
 
 23. (1) Every student in a public school or assisted private school shall take good care of the property placed at his disposal and where such property is to be returned, the property shall be returned in good condition at the end of the school activities on a day and time determined by the principal.
 
@@ -1220,7 +1219,7 @@ the parents of the student if a minor or from the student himself if the student
 
 24. (1) Parents and teachers may, in accordance with Regula- tions made under this Act form associations, to be known as Parent Teacher Associations.
 
-**Parent Teacher Associations.**
+#### Parent Teacher Associations.
 
 (2) The Minister shall encourage and assist in the formation of-
 
@@ -1250,7 +1249,7 @@ ACT 11
 
 (6) On the formation of a Parent Teacher Association, the names of the members of the executive shall be forwarded to the Chief Education Officer and thereafter after every election of a new executive.
 
-**School committees.**
+#### School committees.
 
 25. (1) Subject to subsection (2), where a Parent Teacher Association does not exist, the principal, in consultation with his staff may establish a school committee comprising such number of parents, teachers and members of the community as the principal determines.
 
@@ -1268,7 +1267,7 @@ ACT 11
 
 (5) On the formation of a Parent Teacher Association, the principal shall dissolve the school committee forthwith.
 
-**Wishes of parents to be considered in education of students.**
+#### Wishes of parents to be considered in education of students.
 
 26. The Minister shall, in the performance of his responsibili- ties and duties under this Act, have regard to the general principle that, so far as is compatible with the provision of efficient instruc- tion and training and the avoidance of unreasonable public ex- penditure, the wishes of parents formally conveyed to him are to be considered in the education of st dents.
 
@@ -1282,7 +1281,7 @@ EDUCATION
 
 ACT 11
 
-#### DIVISION C
+### DIVISION C
 
 **ADMISSION AND ATTENDANCE OF STUDENTS**
 
@@ -1304,11 +1303,11 @@ ACT 11
 
 171
 
-**Compulsory school attendance.**
+#### Compulsory school attendance.
 
-**Mode of admission.**
+#### Mode of admission.
 
-**Age limit for secondary schools.**
+#### Age limit for secondary schools.
 
 [[END OF PAGE 31]]
 
@@ -1334,7 +1333,7 @@ ACT 11
 
 (4) A student shall not, without the written permission of the Chief Education Officer, be retained in a public secondary school or an assisted private secondary school after the end of the school year in which he shall have reached the age of nineteen years.
 
-**Student's Register.**
+#### Student's Register.
 
 30. (1) The principal of every school shall maintain a register of students which shall be known as the Student's Register.
 
@@ -1409,13 +1408,13 @@ EDUCATION
 
 ACT 11
 
-**Effect of contagious diseases.**
+#### Effect of contagious diseases.
 
 32. (1) Subject to section 33, a student suffering from or exposed to a contagious disease shall not be admitted to or permitted to remain in any school.
 
 (2) Where the principal discovers, or has reason to sus- pect the presence of a contagious disease the principal shall immediately report the same to the parent of the student con- cerned, the Chief Education Officer, and the Chief Medical Officer.
 
-**Re-admission of student on production of medical certificate.**
+#### Re-admission of student on production of medical certificate.
 
 33. (1) A student who has been refused admission to a school on the ground that he is suffering from or exposed to a contagious disease shall not be re-admitted except upon production of a medical certificate from a medical practitioner registered under the Medical Act to the effect that such student is free from such disease and is unlikely to be a source of infection to other persons in the school.
 
@@ -1425,7 +1424,7 @@ Ch. 39:02.
 
 ·
 
-**Temporary or permanent closing of schools.**
+#### Temporary or permanent closing of schools.
 
 34. (1) Where -
 
@@ -1463,15 +1462,15 @@ ACT 11
 
 	(3) Residency of a student shall be determined by the residency of the student's parents.
 
-#### DIVISION D
+### DIVISION D
 
 **ENFORCEMENT OF COMPULSORY SCHOOL ATTENDANCE**
 
 36. Subject to section 37, the parents of every child of compul- sory school age shall ensure that the child receives an education by regular attendance at a school.
 
-**Duty of parents to enforce attendance.**
+#### Duty of parents to enforce attendance.
 
-**Valid excuses from attendance.**
+#### Valid excuses from attendance.
 
 37. (1) Subject to subsections (2) to (6), a child of compulsory school age is exempted from school attendance if
 
@@ -1545,11 +1544,11 @@ and the Chief Education Officer or the principal, as the case may be, may grant 
 
 	(a) enter the premises and make such inquiries as are necessary to determine whether section 36 is being
 
-**School attendance counsellors.**
+#### School attendance counsellors.
 
-**Responsibility of school attendance counsellor.**
+#### Responsibility of school attendance counsellor.
 
-**Power to enter premises and question children.**
+#### Power to enter premises and question children.
 
 [[END OF PAGE 37]]
 
@@ -1577,7 +1576,7 @@ complied with or whether anyone is in contravention of section 45 in relation to
 
 	(v) any other matter relevant to the inquiries re- ferred to in paragraph (a).
 
-**Offences against school attendance counsellors.**
+#### Offences against school attendance counsellors.
 
 41. (1) A person is guilty of an offence who -
 
@@ -1633,13 +1632,13 @@ concerning any matter mentioned in paragraph (b).
 
 		(f) report monthly or whenever necessary, to the relevant principals as regards cases of non-attendance reported to him under section 44(a).
 
-**Power to deliver absent student.**
+#### Power to deliver absent student.
 
-**Duties of school attendance counsellor.**
+#### Duties of school attendance counsellor.
 
 44. Every principal of a school shall -
 
-**Reports by principals.**
+#### Reports by principals.
 
 [[END OF PAGE 39]]
 
@@ -1659,13 +1658,13 @@ ACT 11
 
 (c) report in accordance with section 52 to the Chief Education Officer every case of suspension and ex- pulsion.
 
-**Liability of parent.**
+#### Liability of parent.
 
 45. (1) Subject to section 37, a parent of a child of compulsory school age, who neglects or refuses to cause the child to attend school is guilty of an offence and liable on summary conviction to a fine of one thousand dollars.
 
 (2) The Court may, instead of imposing a fine, require a person convicted of an offence under subsection (1) to enter into a bond not exceeding one thousand dollars, with one or more sureties to be approved by the Court, on condition that the person shall, after the expiration of five days, cause the child to attend school as required.
 
-**Compulsory school age and offences.**
+#### Compulsory school age and offences.
 
 46. (1) Subject to subsection (3), a person who employs a child of school age during the school year is guilty of an offence and liable on summary conviction to a fine of two thousand dollars.
 
@@ -1699,7 +1698,7 @@ Ch. 70:03.
 
 47. (1) Prosecutions under sections 45 and 46 may be instituted by the Chief Education Officer.
 
-**Legal proceedings.**
+#### Legal proceedings.
 
 (2) In prosecutions under sections 45 and 46 a statement as to the attendance or non-attendance at school of a child, signed or purporting to be signed by the principal of the school, is *prima facie* evidence of the facts stated therein.
 
@@ -1723,11 +1722,11 @@ ACT 11
 
 demeanour or from statements made by the person in direct examination or cross-examination.
 
-#### DIVISION E
+### DIVISION E
 
 **DISCIPLINE, SUSPENSION AND EXPULSION OF STUDENTS**
 
-**School rules to govern discipline.**
+#### School rules to govern discipline.
 
 48. (1) A public school or an assisted private school may, after consultation with its Board of Management provided that such a Board exists, introduce rules to govern the attire, conduct and discipline of students.
 
@@ -1743,7 +1742,7 @@ demeanour or from statements made by the person in direct examination or cross-e
 
 (5) Discipline of students shall be administered in accord- ance with this Act and Regulations, and the rules and procedures established by the Board of Management,or Chief Education Officer.
 
-**Corporal punishment.**
+#### Corporal punishment.
 
 49. (1) In the enforcement of discipline in public schools, assisted private schools and private schools degrading or injurious punishment shall not be administered.
 
@@ -1769,11 +1768,11 @@ by the principal for that purpose, in a manner which is in conformity with the g
 
 50. Notwithstanding section 49, the Minister may by Order, subject to affirmative resolution of the House, suspend or abolish corporal punishment in public schools and assisted private schools.
 
-**Abolition of corporal punishment.**
+#### Abolition of corporal punishment.
 
 51. (1) A principal may suspend a student for a period not exceeding two school days for any breach by the student of the responsibilities specified in section 17.
 
-**Suspension for minor offences.**
+#### Suspension for minor offences.
 
 (2) When a student has been suspended, the principal shall -
 
@@ -1785,7 +1784,7 @@ by the principal for that purpose, in a manner which is in conformity with the g
 
 52. (1) The principal of any public school or assisted private school may suspend a student for a period of more than two days but not exceeding ten school days for - -
 
-**Suspension for major offences.**
+#### Suspension for major offences.
 
 [[END OF PAGE 43]]
 
@@ -1837,7 +1836,7 @@ ACT 11
 
 53. (1) The Chief Education Officer may, after receipt of the report under section 52(4), order, after consultation with a legal officer of the Attorney General's Office and the Chairperson of the School Board if one exists, that –
 
-**Action by Chief Education Officer.**
+#### Action by Chief Education Officer.
 
 		(a) the student be placed on a suspension that exceeds ten school days and that ends at the end of the term or semester or school year, whichever occurs first;
 
@@ -1871,27 +1870,27 @@ ACT 11
 
 ## PART III
 
-### ADMINISTRATION OF SCHOOLS
+**ADMINISTRATION OF SCHOOLS**
 
-#### DIVISION A
+### DIVISION A
 
 **MANAGEMENT OF PUBLIC PRIMARY SCHOOLS**
 
-**Establishment and maintenance of primary schools.**
+#### Establishment and maintenance of primary schools.
 
 54. Primary schools that are public schools may be established and maintained in accordance with this Act and Regulations.
 
-**Management of public primary schools.**
+#### Management of public primary schools.
 
 55. All primary schools that are public schools are under the control of the Minister.
 
-**Boards of Management.**
+#### Boards of Management.
 
 56. (1) The Minister may by Notice, if he considers it neces- sary, appoint a Board of Management for any primary school that is a public school where it appears to him to be desirable to do so in the interest of economy, efficiency, and for the participation of the community in the management of education.
 
 (2) Notwithstanding subsection (1), the Minister may appoint one Board of Management to administer more than one primary school if he is satisfied that the general interest of education in the area in which these institutions are situated will be best served by a single Board.
 
-**Members of a Board of Management.**
+#### Members of a Board of Management.
 
 57. (1) A Board of Management appointed under section 56 must include the following members:
 
@@ -1934,7 +1933,7 @@ community development; and
 
 58. (1) Subject to subsection (2) a Board of Management appointed under section 56 shall be responsible for all or any of the following as the Minister may decide:
 
-**Functions of a Board of Management for a primary school.**
+#### Functions of a Board of Management for a primary school.
 
 (a) the control and management of -
 
@@ -1982,7 +1981,7 @@ ACT 11
 
 (2) In the performance of its functions under subsection (1)(a), (b), (c) and (d) the Board of Management shall consult the Chief Education Officer.
 
-**Submission of reports, statements and estimates.**
+#### Submission of reports, statements and estimates.
 
 59. Every Board of Management shall, after consultation with the principal, submit to the Chief Education Officer -
 
@@ -2018,7 +2017,7 @@ ACT 11
 
 60. Subject to this Act and Regulations, a Board of Manage- ment shall act in accordance with any general or special directions of the Minister concerning the exercise and performance of its functions under this Act.
 
-#### DIVISION B
+### DIVISION B
 
 **MANAGEMENT OF PUBLIC SECONDARY SCHOOLS**
 
@@ -2032,13 +2031,13 @@ ACT 11
 
 (3) A Board of Management appointed under subsection (1) must include the following members:
 
-**General or special directions.**
+#### General or special directions.
 
-**Application of Division.**
+#### Application of Division.
 
-**Management of public secondary schools.**
+#### Management of public secondary schools.
 
-**Establishment of Board of Management.**
+#### Establishment of Board of Management.
 
 [[END OF PAGE 49]]
 
@@ -2079,7 +2078,7 @@ community development; and
 
 (6) The provisions of the Second Schedule has effect in respect to the procedure and functions of a Board of Management established under subsection (1), and otherwise in relation thereto.
 
-**Functions of Board of Management for secondary schools.**
+#### Functions of Board of Management for secondary schools.
 
 64. (1) Subject to subsection (2), the functions of a Board of Management in relation to the school for which it is estab- lished are -
 
@@ -2141,7 +2140,7 @@ ACT 11
 
 (3) For the purpose of performing its function under subsection (1)(b) the Board of Management may appoint a Bursar who shall be paid from funds voted by Parliament.
 
-**Funds and resources of a Board of Management.**
+#### Funds and resources of a Board of Management.
 
 65. The funds and resources of a Board of Management are -
 
@@ -2153,7 +2152,7 @@ ACT 11
 
 	(d) moneys and other property derived by way of gift, bequest, trust, or donation, or in any other manner.
 
-**Accounts and audit.**
+#### Accounts and audit.
 
 66. (1) Every Board of Management established pursuant to sections 56 and 63 shall keep proper accounts of its transactions, and the accounts shall be audited annually by the Director of Audit or any person authorised by him in that behalf.
 
@@ -2177,7 +2176,7 @@ ACT 11
 
 193
 
-**Annual report, statement of accounts of estimates.**
+#### Annual report, statement of accounts of estimates.
 
 67. (1) Every Board of Management under this Division shall submit to the Minister --
 
@@ -2191,15 +2190,15 @@ ACT 11
 
 68. (1) Minutes of meetings of any Board of Management, established pursuant to sections 56 and 63 are, if duly signed by the chairperson, or deputy chairperson, receivable in evidence in all legal proceedings without further proof and every meeting of a Board of Management in respect of which minutes have been signed shall be deemed to have been duly convened and held, and all members present at the meeting shall be deemed to have been duly qualified to act.
 
-**Minutes of Board receivable in evidence.**
+#### Minutes of Board receivable in evidence.
 
-#### DIVISION C
+### DIVISION C
 
 **MANAGEMENT OF ASSISTED PRIVATE SCHOOLS**
 
 69. (1) Every primary school that is an assisted private school shall be administered by a Board of Management appointed by the Minister which shall consist of not more than nine persons ap- pointed as follows:
 
-**Management of assisted private primary schools.**
+#### Management of assisted private primary schools.
 
 (a) four persons including the chairperson nominated by the proprietor who owns the school;
 
@@ -2233,7 +2232,7 @@ ACT 11
 
 (5) Notwithstanding subsection (1) where an assisted private primary school is owned or managed by a religious community or body the Minister may, on the request of the proprietor or head of that religious community or body, delegate in writing his power of appointment to the proprietor or head of that religious community or body.
 
-**Management of assisted private secondary schools.**
+#### Management of assisted private secondary schools.
 
 70. (1) Every secondary school that is an assisted private school shall be administered by a Board of Management of not more than twelve members appointed by the Minister in the following manner:
 
@@ -2273,7 +2272,7 @@ ACT 11
 
 71. In addition to the functions conferred by the proprietors of an assisted private school, a Board of Management established under section 69,70 or 72 shall -
 
-**Proprietor of an assisted private school may add duties.**
+#### Proprietor of an assisted private school may add duties.
 
 (a) if the school for which the Board of Management is established is a primary school, perform the functions established under section 58 with whatever modifica- tions stipulated in the Agreement under section 116; and
 
@@ -2293,7 +2292,7 @@ ACT 11
 
 (i), and (j) with whatever modifications stipulated in the Agreement under section 116.
 
-**Appointment of joint Board of Management.**
+#### Appointment of joint Board of Management.
 
 72. (1) Notwithstanding sections 69 and 70, the Minister may appoint a Board of Management to administer more than one assisted private school if -
 
@@ -2323,13 +2322,13 @@ ACT 11
 
 197
 
-#### DIVISION D
+### DIVISION D
 
 **MANAGEMENT OF TERTIARY INSTITUTIONS**
 
 73. (1) The Minister may establish and maintain, in accordance with this Act and Regulations, colleges, technical institutions, universities and any other institution of higher education at such places as he may determine.
 
-**Establishment and management of tertiary institutions.**
+#### Establishment and management of tertiary institutions.
 
 (2) Any college, technical institution, or other tertiary institution in existence at the commencement of this Act shall be deemed to be established by this Act.
 
@@ -2376,13 +2375,13 @@ trainees.
 
 ## PART IV
 
-### CATEGORIES AND STAGES OF EDUCATION
+**CATEGORIES AND STAGES OF EDUCATION**
 
-#### DIVISION A
+### DIVISION A
 
 **THE FORMS AND STAGES OF EDUCATION**
 
-**Stages of public education.**
+#### Stages of public education.
 
 74. (1) Subject to subsection (2), the system of public educa- tion is in three stages, that is to say -
 
@@ -2416,9 +2415,9 @@ ACT 11
 
 (e) distance education.
 
-## DIVISION B
+### DIVISION B
 
-PRE-PRIMARY EDUCATION SERVICES
+**PRE-PRIMARY EDUCATION SERVICES**
 
 Establishment of pre-
 services. primary education
@@ -2429,11 +2428,11 @@ services. primary education
 
 76. A private school offering pre-primary education services shall develop and maintain policies and programmes consistent with the pre-primary education services, policies, programmes and plans prescribed by the Minister.
 
-**Programmes and policies.**
+#### Programmes and policies.
 
 77. (1) The Minister may, when he considers it necessary, establish a Council on Pre-primary Education to advise him on policies to guide the implementation of this Division.
 
-**Council on pre-primary education services..**
+#### Council on pre-primary education services..
 
 (2) Where a Council on Pre-primary Education is estab- lished, the Minister may by Order provide for its – -
 
@@ -2443,7 +2442,7 @@ services. primary education
 
 	(c) powers and functions.
 
-**Regulations respecting pre-primary education services.**
+#### Regulations respecting pre-primary education services.
 
 78. (1) The Minister may make Regulations generally for the proper carrying out of the purposes of this Division.
 
@@ -2480,11 +2479,11 @@ opment; and
 
 	(i) respecting the need for insurance or some other form of indemnification.
 
-#### DIVISION C
+### DIVISION C
 
 **HOME EDUCATION**
 
-**Home education.**
+#### Home education.
 
 79. (1) A parent of a student may provide, at home, a home education programme for the student if the parent complies with this section and the programme meets the goals and objectives set out in section 4(2).
 
@@ -2539,7 +2538,7 @@ ACT 11
 
 (c) provide the parent with recommendations which will assist the student in improving the level of achievement.
 
-**Termination of programme.**
+#### Termination of programme.
 
 	80. (1) Notwithstanding section 79(1), the Chief Education Officer shall in writing, terminate the home education programme if the Chief Education Officer is of the opinion, after considering the abilities of the student, that -
 
@@ -2551,11 +2550,11 @@ ACT 11
 
 (3) Where the parent disagrees with the decision of the Chief Education Officer made under subsection (1), the parent may appeal to the Education Appeal Tribunal established pursuant to this Act within fourteen days of the decision.
 
-#### DIVISION D
+### DIVISION D
 
 **SPECIAL EDUCATION**
 
-**Special education.**
+#### Special education.
 
 81. (1) The Chief Education Officer is responsible for provid- ing special education programmes for students of compulsory school age who by virtue of intellectual, communicative, behav- ioural, physical or multiple exceptionalities are in need of special education.
 
@@ -2579,7 +2578,7 @@ ACT 11
 
 82. (1) Before a determination regarding special education needs is made under subsection (2), the following procedures shall be followed:
 
-**Determination of special education needs.**
+#### Determination of special education needs.
 
 (a) the student shall be referred to the Chief Education Officer for a determination of the assessments that may be required to be performed;
 
@@ -2618,7 +2617,7 @@ ACT 11
 
 (6) Where there is more than one parent for a child, consultation with one parent shall be deemed to be compliance with any consultation requirements of this section.
 
-**Special needs appeals.**
+#### Special needs appeals.
 
 83. (1) Ifa disagreement arises respecting a decision concern- ing -
 
@@ -2655,7 +2654,7 @@ the parent, student, or Board of Management may, within fourteen days of the dec
 
 84. (1) The Minister may establish a Council on Special Education to advise him on guidelines for the implementation of this Division.
 
-**Council on Special Education.**
+#### Council on Special Education.
 
 (2) Where a Council on Special Education is established the Minister may by Order provide for its -
 
@@ -2679,7 +2678,7 @@ ACT 11
 
 ## PART V
 
-### CATEGORIES OF SCHOOLS
+**CATEGORIES OF SCHOOLS**
 
 **Organisation of schools.**
 
@@ -2691,24 +2690,23 @@ ACT 11
 
 	(c) assisted private schools.
 
-#### DIVISION A
+### DIVISION A
 
 **PUBLIC SCHOOLS**
 
-**Status of public schools.**
+#### Status of public schools.
 
 86. All public schools existing at the commencement of this Act shall be deemed to have been established by this Act and shall continue as public schools under this Act.
 
-## DIVISION B
+### DIVISION B
 
-PRIVATE SCHOOLS
+**PRIVATE SCHOOLS**
 
-## Interpretation.
+#### Interpretation.
 
 87. The word "school" or "institution" where used in this Division to refer to the subject of rights or obligations, means the person operating the school or institution to which the provision concerned applies.
 
-## Body without legal
-personality.
+#### Body without legal personality.
 
 88. (1) In the case of a body not endowed with legal person- ality, the provisions of this Act applies as if the body were endowed with legal personality.
 
@@ -2730,7 +2728,7 @@ ACT 11
 
 89. This Act applies to every private school dispensing all or some of the educational services belonging to one or more of the following categories:
 
-**Applicability.**
+#### Applicability.
 
 (a) pre-primary educational services;
 
@@ -2752,7 +2750,7 @@ education;
 
 (i) instructional services in vocational training at the tertiary level.
 
-**References and object.**
+#### References and object.
 
 90. (1) Section 89(a) to (d), (f) and (h) refers to education or instruction intended mainly to develop students' abilities in sub- jects preparing them for studies at the primary, secondary, post- secondary, tertiary or university level, as the case may be.
 
@@ -2760,7 +2758,7 @@ education;
 
 91. A person may not operate a private school to which this Act applies unless that person is the holder of a permit issued by the Minister, for the school or institution and the educational services or categories of educational services mentioned in section 89.
 
-**Registration.**
+#### Registration.
 
 [[END OF PAGE 67]]
 
@@ -2774,17 +2772,17 @@ EDUCATION
 
 ACT 11
 
-**Presumption.**
+#### Presumption.
 
 92. A person or body dispensing for profit or non-profit purposes, educational services for his or its own account as the case may be, shall be deemed to be operating a private school.
 
-**Existing private schools.**
+#### Existing private schools.
 
 93. (1) A person who, at the commencement of this Act, is operating a private school, shall, within twenty-four months of the commencement of this Act or such further period as the Minister may in writing allow, comply with section 91.
 
 (2) A person who contravenes subsection (1) is guilty of an offence and liable on summary conviction to a fine of one thousand dollars and six months imprisonment, and, in the case of a continuing offence is liable to a further fine of two hundred dollars for each day during which the offence continues after the first conviction.
 
-**Private Schools Register.**
+#### Private Schools Register.
 
 94. (1) The Chief Education Officer shall keep in such man- ner as may be prescribed, a register of private schools to be known as the Private Schools Register, in which must be entered the particulars of every private school in respect of which a permit has been issued by the Minister.
 
@@ -2792,13 +2790,13 @@ ACT 11
 
 (3) The Chief Education Officer shall certify any amend- ment to the Register and the amendment shall be published in the *Gazette*.
 
-**Application for registration.**
+#### Application for registration.
 
 95. (1) An application for a permit to establish a private school shall be made in the prescribed form by or on behalf of the proprietor of the private school and shall contain the prescribed information.
 
 (2) The Minister shall, upon the receipt of an application made under subsection (1) cause the private school to be inspected.
 
-**Requirements for registration.**
+#### Requirements for registration.
 
 96. Where a private school in respect of which an application is made under section 95 has been inspected, the Minister shall,
 
@@ -2852,11 +2850,11 @@ ACT 11
 
 (b) of his right of appeal under section 109.
 
-**Limitation on instruction.**
+#### Limitation on instruction.
 
 98. Notwithstanding section 91, the Minister may refuse to issue a permit authorising, in a primary school or in general education at the secondary school level, instructions limited to certain subjects or classes, or the Minister may subject the issue of such a permit to the conditions that he determines.
 
-**Number of students.**
+#### Number of students.
 
 99. (1) The Minister may determine the maximum number of students who may be admitted to educational services or catego- ries of educational services provided by a private school.
 
@@ -2864,7 +2862,7 @@ ACT 11
 
 (3) Where the applicant fails to determine such capacity, the Minister may refuse to issue the permit.
 
-**Content of permit.**
+#### Content of permit.
 
 100. The permit to establish a private school must mention -
 
@@ -2880,7 +2878,7 @@ ACT 11
 
 	(f) the maximum number of students who may be admit- ted under section 99.
 
-**Vocational education.**
+#### Vocational education.
 
 101. In respect of vocational education, the permit to establish a private school must specify, where it concerns -
 
@@ -2904,7 +2902,7 @@ ACT 11
 
 102. (1) On first issuance, a permit is valid for a period of three years.
 
-**Duration and renewal of permits.**
+#### Duration and renewal of permits.
 
 (2) The Minister shall renew for five years, and subse- quently for the same period, a permit held by a person who
 
@@ -2934,17 +2932,17 @@ EDUCATION
 
 ACT 11
 
-**Information.**
+#### Information.
 
-	105. (1) The holder of a permit shall inform the Minister -
+105. (1) The holder of a permit shall inform the Minister -
 
-		(a) of any change which renders the information pro- vided for the issue, renewal or modification of a permit inaccurate or incomplete;
+(a) of any change which renders the information pro- vided for the issue, renewal or modification of a permit inaccurate or incomplete;
 
-		(b) whenever the institution fails to provide all or some of the educational services mentioned in its permit.
+(b) whenever the institution fails to provide all or some of the educational services mentioned in its permit.
 
 (2) Every legal person or body holding a permit shall inform the Minister of any amalgamation, sale or transfer affecting it, as well as of any change in the name of the institution.
 
-**Visits to private schools.**
+#### Visits to private schools.
 
 106. (1) The Minister or the Chief Education Officer or any other person authorised in writing by the Minister or Chief Education Officer may for the purpose of making enquiries, carrying out inspections and discharging such other duties as are imposed on him by this Act and Regulations, enter the premises of any private school during the hours of operation of that school.
 
@@ -2952,15 +2950,15 @@ ACT 11
 
 (3) A person who in respect of any person specified under subsection (1) –
 
-	(a) obstructs that person in the performance of his duties;
+(a) obstructs that person in the performance of his duties;
 
-	(b) makes a false representation to that person; or
+(b) makes a false representation to that person; or
 
-	(c) refuses to furnish any information which that person may require under this Act or Regulations,
+(c) refuses to furnish any information which that person may require under this Act or Regulations,
 
 is guilty of an offence and liable on summary conviction to a fine of one thousand dollars.
 
-**Notice to comply.**
+#### Notice to comply.
 
 107. Where the Minister is satisfied that a private school reg- istered under this Act has ceased to be conducted in accordance with this Act or Regulations, the Minister may serve on the proprietor of the school a notice of that fact, requiring the propri-
 
@@ -2978,7 +2976,7 @@ ACT 11
 
 etor, within the time specified in the notice to conduct the school in accordance with this Act or the Regulations as the case may be.
 
-**Cancellation of registration.**
+#### Cancellation of registration.
 
 108. Where a proprietor who is served with a notice under section 107 fails, within the time specified in the notice or within such further time as the Minister allows, to comply with the notice, the Minister shall -
 
@@ -2992,7 +2990,7 @@ etor, within the time specified in the notice to conduct the school in accordanc
 
 109. (1) The proprietor of a private school which is refused a permit and registration pursuant to sections 96 and 97 or whose registration is cancelled under section 108(a) may, within thirty days of being notified of the refusal or cancellation, appeal to the Education Appeal Tribunal established pursuant to this Act against the refusal or cancellation, as the case may be.
 
-**Appeal.**
+#### Appeal.
 
 (2) In the case of a refusal, a proprietor may appeal on any of the following grounds:
 
@@ -3030,7 +3028,7 @@ ACT 11
 
 (6) Where an appeal is dismissed or withdrawn, cancella- tion of the registration of the private school or the refusal to grant a permit shall take effect from the date of the making of the order by the Education Appeal Tribunal dismissing the appeal, or the date of withdrawal of the appeal.
 
-**Registration and closure.**
+#### Registration and closure.
 
 110. (1) Where the registration of a private school is cancelled pursuant to section 108, the proprietor of the school may, if the proprietor has complied with the notice served on him under section 107, apply to the Minister for the re-registration of the school.
 
@@ -3068,13 +3066,13 @@ ACT 11
 
 215
 
-**Returns.**
+#### Returns.
 
-**Health and sanitation.**
+#### Health and sanitation.
 
-**Disqualification of teachers.**
+#### Disqualification of teachers.
 
-**Prohibition of discrimination.**
+#### Prohibition of discrimination.
 
 [[END OF PAGE 75]]
 
@@ -3088,11 +3086,11 @@ EDUCATION
 
 ACT 11
 
-#### DIVISION C
+### DIVISION C
 
 **ASSISTED PRIVATE SCHOOLS**
 
-**Definition of assisted private schools.**
+#### Definition of assisted private schools.
 
 115. Subject to section 116, an assisted private school is either -
 
@@ -3118,7 +3116,7 @@ ACT 11
 
 	(d) a school that is owned by the State and the Minister agrees that it should become an assisted private school for the purposes of its management.
 
-**Agreement to establish assisted private schools.**
+#### Agreement to establish assisted private schools.
 
 116. (1) Subject to this Act and Regulations, an assisted private school comes into existence by mutual agreement between the Minister and the proprietor of the school.
 
@@ -3156,9 +3154,9 @@ ACT 11
 
 (2) Where an assisted private school admits a student who does not subscribe to the religious beliefs of the religious commu- nity or body, the student, except with his consent or, if he is a person under the age of eighteen years, the consent of his parent, is not compelled or required to receive religious education or instruction
 
-**Publication of list of assisted private schools.**
+#### Publication of list of assisted private schools.
 
-**Religious education in assisted private schools.**
+#### Religious education in assisted private schools.
 
 [[END OF PAGE 77]]
 
@@ -3174,7 +3172,7 @@ ACT 11
 
 or take part in or attend any religious ceremony or observance prescribed under subsection (1).
 
-**Loans to assisted private schools.**
+#### Loans to assisted private schools.
 
 119. (1) Where the proprietor or the Board of Management of any assisted private school requires a loan for the purpose of improving or extending the buildings of the assisted private school or erecting a new school in substitution for any discontinued assisted private school, the proprietor or the Board of Management may apply to the Minister for a loan from the Government.
 
@@ -3182,9 +3180,9 @@ or take part in or attend any religious ceremony or observance prescribed under 
 
 ## PART VI
 
-### TECHNICAL AND VOCATIONAL EDUCATION AND TRAINING
+**TECHNICAL AND VOCATIONAL EDUCATION AND TRAINING**
 
-**Establishment of Technical and Vocational Education and Training Council.**
+#### Establishment of Technical and Vocational Education and Training Council.
 
 120. (1) The Minister may establish a Technical and Voca- tional Education and Training Council whose membership shall be as follows:
 
@@ -3226,7 +3224,7 @@ ACT 11
 
 121. The functions of the Technical and Vocational Education and Training Council are -
 
-**Functions of the Council.**
+#### Functions of the Council.
 
 (a) to advise the Minister generally on policy and legisla- tion relating to technical and vocational education and training;
 
@@ -3267,13 +3265,11 @@ tional education and training and the welfare of stu- dents, trainees and staff 
 
 (l) to carry out such other functions relating to technical and vocational education and training as the Minister may require.
 
-## Directions.
+#### Directions.
 
 122. The Minister may give directions of a general or specific nature to the Technical and Vocational Education and Training Council and it shall comply with those directions.
 
-## Appointment of
-committees and functions
-thereof.
+#### Appointment of committees and functions thereof.
 
 123. (1) The Technical and Vocational Education and Training Council may appoint committees to perform, in relation to techni- cal and vocational education and training -
 
@@ -3285,8 +3281,7 @@ thereof.
 
 (2) The provisions of the Fourth Schedule shall apply in respect of the procedure and function of committees and otherwise in relation thereto.
 
-## Additional functions of
-committee.
+#### Additional functions of committee.
 
 124. The additional functions of a committee appointed by the Technical and Vocational Education and Training Council are -
 
@@ -3314,7 +3309,7 @@ ACT 11
 
 (f) to recommend the terms applicable to persons wishing to obtain technical and vocational education and train- ing.
 
-**Training schemes.**
+#### Training schemes.
 
 125. (1) The Technical and Vocational Education and Training Council may, with the approval of the Minister and subject to section 122,formulate schemes for regulating training in any occu- pation.
 
@@ -3356,7 +3351,7 @@ ACT 11
 
 (5) A scheme may be amended by a subsequent scheme or by an Order made by the Technical and Vocational Education and Training Council with the approval of the Minister.
 
-**System for monitoring.**
+#### System for monitoring.
 
 126. Subject to the approval of the Minister, the Technical and Vocational Education and Training Council shall establish an effective system for monitoring the implementation of the techni- cal and vocational education and training strategy and plan.
 
@@ -3396,11 +3391,11 @@ Annual
 
 report.
 
-**National policy.**
+#### National policy.
 
-**Plans for technical and vocational education.**
+#### Plans for technical and vocational education.
 
-**Power to make Regulations respecting technical and vocational education and training.**
+#### Power to make Regulations respecting technical and vocational education and training.
 
 [[END OF PAGE 83]]
 
@@ -3451,11 +3446,11 @@ ACT 11
 
 ## PART VII
 
-### PROFESSIONAL DUTIES AND RESPONSIBILITIES OF TEACHERS AND PRINCIPALS
+**PROFESSIONAL DUTIES AND RESPONSIBILITIES OF TEACHERS AND PRINCIPALS**
 
 131. A person may not be employed as a teacher, principal or deputy principal in a public or assisted private school unless that person holds a valid qualification as established in Regulations made by the Minister.
 
-**Rights of teachers.**
+#### Rights of teachers.
 
 132. Every teacher has the right to -
 
@@ -3477,7 +3472,7 @@ ACT 11
 
 		(i) be provided with adequate clothing, tools and equip- ment when engaged in hazardous activities;
 
-**Qualifications of teachers.**
+#### Qualifications of teachers.
 
 225
 
@@ -3497,7 +3492,7 @@ EDUCATION
 
 (k) participate in the preparation of the school plan.
 
-**Exercise of general professional duties.**
+#### Exercise of general professional duties.
 
 133. A teacher shall -
 
@@ -3505,7 +3500,7 @@ EDUCATION
 
 (b) perform in accordance with any directions which may reasonably be given to him by the principal from time to time such additional duties as may reasonably be assigned to him.
 
-**Duties of teachers.**
+#### Duties of teachers.
 
 134. (1) Every teacher in a public school and an assisted private school shall -
 
@@ -3599,7 +3594,7 @@ ACT 11
 
 (2) A teacher who fails to perform any or a combination of the professional duties specified in subsection (1) is liable to disciplinary action in accordance with prescribed Regulations re- specting discipline.
 
-**Duties of deputy principal.**
+#### Duties of deputy principal.
 
 135. (1) A person appointed deputy principal in a public or an assisted private school, in addition to carrying out the professional duties of a school teacher, including those duties particularly assigned to him by the principal, shall -
 
@@ -3613,7 +3608,7 @@ ACT 11
 
 136. (1) Subject to the provisions of this Act, the principal of each public or assisted private school shall - -
 
-**General responsibilities of principals.**
+#### General responsibilities of principals.
 
 (a) furnish such returns as may be prescribed by the Minister by Regulations;
 
@@ -3716,9 +3711,9 @@ ACT 11
 
 ## PART VIII
 
-### CURRICULUM AND ASSESSMENT OF STUDENTS
+**CURRICULUM AND ASSESSMENT OF STUDENTS**
 
-**National curriculum.**
+#### National curriculum.
 
 137. (1) The Minister shall establish a national curriculum for public schools and assisted private schools.
 
@@ -3742,7 +3737,7 @@ ACT 11
 
 233
 
-**Core and foundation subjects.**
+#### Core and foundation subjects.
 
 138. (1) The curriculum for every public school and assisted private school must comprise core and foundation subjects and specify in relation to each of them -
 
@@ -3762,7 +3757,7 @@ ACT 11
 
 		(c) the period beginning at the same time as the school year in which the majority of students in his class attain the age of eleven and ending at the same time as the school year in which the majority of students in his class attain the age of twelve; and
 
-**Key stages of assessment.**
+#### Key stages of assessment.
 
 [[END OF PAGE 93]]
 
@@ -3786,7 +3781,7 @@ ACT 11
 
 	(5) The Minister may publish the results of the assess- ments together with a commentary thereon by the Chief Education Officer.
 
-**Notice of determination of attainment targets.**
+#### Notice of determination of attainment targets.
 
 140. (1) The Minister shall by Notice published in the Gazette establish -
 
@@ -3818,7 +3813,7 @@ ACT 11
 
 235
 
-**Subject panels.**
+#### Subject panels.
 
 141. (1) For the purpose of creating and revising the national curriculum from time to time, the Minister may constitute subject panels to develop syllabuses for the core and foundation subjects.
 
@@ -3840,7 +3835,7 @@ ACT 11
 
 142. (1) Subject to subsection (3), the school day in every public or assisted private school shall begin with collective worship by all students in attendance at the school, and the arrangements made shall provide for a single act of worship attended by all students unless the school premises are so constructed as to make it imprac- ticable to assemble for that purpose or it is more convenient to conduct such worship in the classrooms or otherwise.
 
-**Collective worship and religious education.**
+#### Collective worship and religious education.
 
 (2) It shall not be a condition of admission or attendance of any student in a public school or assisted private school that a student -
 
@@ -3866,13 +3861,13 @@ ACT 11
 
 ## PART IX
 
-### INSPECTION AND REVIEW OF THE EDUCATION SYSTEM
+**INSPECTION AND REVIEW OF THE EDUCATION SYSTEM**
 
-#### DIVISION A
+### DIVISION A
 
 **INSPECTION OF SCHOOLS**
 
-**Inspection of schools.**
+#### Inspection of schools.
 
 143. (1) The Chief Education Officer, an Education Officer, or a public officer authorised in writing by the Chief Education Officer or any other person authorised in writing by the Minister shall, at the times and in the manner prescribed, inspect public schools, assisted private schools and private schools.
 
@@ -3897,7 +3892,7 @@ ACT 11
 
 237
 
-**Schools to be opened for inspections and visits.**
+#### Schools to be opened for inspections and visits.
 
 144. The principal of a public school, an assisted private school and the proprietor, body or principal of a private school shall keep the school open at all times during school hours to visits and inspections —
 
@@ -3909,7 +3904,7 @@ ACT 11
 
 145. A person who -
 
-**Offences.**
+#### Offences.
 
 (a) prevents a person empowered or authorised under this Act from visiting or inspecting public schools, assisted private schools or private schools; or
 
@@ -3917,13 +3912,13 @@ ACT 11
 
 is guilty of an offence and liable on summary conviction to a fine of one thousand dollars and in the case of a second or subsequent conviction to six months imprisonment.
 
-#### DIVISION B
+### DIVISION B
 
 **REVIEW OF THE EDUCATION SYSTEM**
 
 146. (1) Every five years or as soon as practicable thereafter, Cabinet on the recommendation of the Minister, shall appoint an Education Review Committee of not more than five members to review and report on the education system of Dominica in accord- ance with section 147.
 
-**Appointment of Education Review Committee.**
+#### Appointment of Education Review Committee.
 
 (2) The Education Review Committee shall comprise -
 
@@ -3961,7 +3956,7 @@ and
 
 (e) such other member as the Cabinet in its discretion thinks fit.
 
-**Review and report of Education Review Committee.**
+#### Review and report of Education Review Committee.
 
 147. (1) The Education Review Committee shall review and report on -
 
@@ -4002,11 +3997,11 @@ EDUCATION
 
 ## PART X
 
-### APPEALS
+**APPEALS**
 
 148. (1) For the purposes of determining appeals under this Act, the Minister shall appoint an Education Appeal Tribunal.
 
-**Establishment of Education Appeal Tribunal.**
+#### Establishment of Education Appeal Tribunal.
 
 (2) The Minister shall appoint to the Education Appeal Tribunal --
 
@@ -4024,7 +4019,7 @@ EDUCATION
 
 149. (1) An appeal referred to the Education Appeal Tribunal shall be heard by the chairperson and two or more members chosen by the chairperson.
 
-**Composition of Tribunal.**
+#### Composition of Tribunal.
 
 [[END OF PAGE 99]]
 
@@ -4042,11 +4037,11 @@ ACT 11
 
 (3) The chairperson may call upon such experts or con- sultants as are considered advisable to report to the Education Appeal Tribunal.
 
-**Mediation.**
+#### Mediation.
 
 150. Prior to the consideration of an appeal by the Education Appeal Tribunal, the chairperson may appoint a mediator to attempt to settle the matter under appeal.
 
-**Procedure of Tribunal.**
+#### Procedure of Tribunal.
 
 151. (1) In considering the matter being appealed, the Educa- tion Appeal Tribunal may make any investigation it considers necessary.
 
@@ -4096,21 +4091,21 @@ ACT 11
 
 	(c) any other factor that appears to be relevant to the matter in dispute.
 
-**Final decision.**
+#### Final decision.
 
 154. The decision of the Education Appeal Tribunal shall be final and binding upon the parties to the appeal.
 
 155. (1) A copy of an order made by the Education Appeal Tribunal shall be filed with the Registrar of the High Court.
 
-**Matters to be considered.**
+#### Matters to be considered.
 
 156. A copy of the decision of the Education Appeal Tribunal shall be sent to the Minister and the parties to the appeal.
 
 (2) On the filing of a copy of an order with the Registrar of the High Court, the order has the same force and effect as if the order were an order of that Court.
 
-**Enforcement of order.**
+#### Enforcement of order.
 
-**Copy to the Minister and parties.**
+#### Copy to the Minister and parties.
 
 [[END OF PAGE 101]]
 
@@ -4126,9 +4121,9 @@ ACT 11
 
 ## PART XI
 
-### MISCELLANEOUS
+**MISCELLANEOUS**
 
-**Vendors on school premises.**
+#### Vendors on school premises.
 
 157. (1) A person may not sell or offer for sale any services, goods, food, beverages or any other item on school premises without the written permission of the Chief Education Officer.
 
@@ -4178,7 +4173,7 @@ without the written consent of the Chief Education Officer is guilty of an offen
 
 		(iii) disrupts any lawful activity conducted on the premises of the school;
 
-**Loitering, etc., on school premises.**
+#### Loitering, etc., on school premises.
 
 (d) in a public place causes or makes a noise that disturbs or is likely to disturb any lawful activity carried out on the premises of the school; or
 
@@ -4188,7 +4183,7 @@ is guilty of an offence and liable on summary conviction to a fine of two thousa
 
 243
 
-**Prohibition of sale of alcoholic beverages and tobacco.**
+#### Prohibition of sale of alcoholic beverages and tobacco.
 
 [[END OF PAGE 103]]
 
@@ -4204,7 +4199,7 @@ ACT 11
 
 (3) A prosecution for an offence under this section in relation to a public school or an assisted private school may be brought in the name of the Chief Education Officer.
 
-**Regulations.**
+#### Regulations.
 
 160. (1) Subject to the provisions of this Act, the Minister may make Regulations generally as he considers necessary or expedi- ent for carrying out the purposes of this Act.
 
@@ -4540,8 +4535,7 @@ son and at least two-thirds of the members of every sub-committee shall be membe
 
 ## THIRD SCHEDULE
 
-PROCEDURE OF TECHNICAL AND VOCATIONAL
-EDUCATION AND TRAINING COUNCIL
+### PROCEDURE OF TECHNICAL AND VOCATIONAL EDUCATION AND TRAINING COUNCIL
 
 **Definition.**
 
