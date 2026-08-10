@@ -1,6 +1,6 @@
 [[START OF PAGE 1]]
 
-Republic of Namibia Coat of Arms
+UNITY LIBERTY JUSTICE
 
 # GOVERNMENT GAZETTE
 
@@ -33,6 +33,8 @@ No. 16 of 2001: Education Act, 2001.
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+2 Government Gazette 27 December 2001 No.2673
 
 Act No. 16, 2001 EDUCATION ACT, 2001
 
@@ -113,6 +115,8 @@ Section
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+No.2673 Government Gazette 27 December 2001 3
 
 Act No. 16, 2001 EDUCATION ACT, 2001
 
@@ -212,6 +216,8 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 [[START OF PAGE 4]]
 
+4 Government Gazette 27 December 2001 No.2673
+
 Act No. 16, 2001 EDUCATION ACT, 2001
 
 ## PART X
@@ -290,6 +296,8 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 [[START OF PAGE 5]]
 
+No.2673 Government Gazette 27 December 2001 5
+
 Act No. 16, 2001
 
 **EDUCATION ACT, 2001**
@@ -344,6 +352,8 @@ Act No. 16, 2001
 
 [[START OF PAGE 6]]
 
+6 Government Gazette 27 December 2001 No.2673
+
 Act No. 16, 2001
 
 **EDUCATION ACT, 2001**
@@ -382,7 +392,7 @@ Act No. 16, 2001
 
 "school parent" means a parent of a learner of a school;
 
-"secondary school" means a school or part of a school in which basic cducation from the level of the eighth grade to the level of the twelfth grade is provided;
+"secondary school" means a school or part of a school in which basic education from the level of the eighth grade to the level of the twelfth grade is provided;
 
 "socio-economically disadvantaged learner" means a learner whose parent is, directly or indirectly, socially and economically disadvantaged as a consequence of social, economic, educational or employment imbalances;
 
@@ -393,6 +403,8 @@ Act No. 16, 2001
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+
+No.2673 Government Gazette 27 December 2001 7
 
 **Act No. 16, 2001               EDUCATION ACT, 2001**
 
@@ -437,6 +449,8 @@ Act No. 16, 2001
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+
+8 Government Gazette 27 December 2001 No.2673
 
 Act No. 16, 2001                    EDUCATION ACT, 2001
 
@@ -492,7 +506,7 @@ Act No. 16, 2001                    EDUCATION ACT, 2001
 
 [[START OF PAGE 9]]
 
-9
+No.2673 Government Gazette 27 December 2001 9
 
 Act No. 16, 2001 EDUCATION ACT, 2001
 
@@ -539,6 +553,8 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
+10 Government Gazette 27 December 2001 No.2673
 
 **Act No. 16, 2001                        EDUCATION ACT, 2001**
 
@@ -590,6 +606,8 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 [[START OF PAGE 11]]
 
+No.2673 Government Gazette 27 December 2001 11
+
 Act No. 16, 2001 EDUCATION ACT, 2001
 
 (12) The expenses of a Forum relating to the performance of its functions must be defrayed out of money appropriated for this purpose by Parliament.
@@ -628,11 +646,13 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 (f) one person nominated by the Council of the Namibia Qualifications Authority referred to in section 5 of the Namibia Qualifications Authority Act, 1996 (Act No. 29 of 1996);
 
-11
+
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+
+12 Government Gazette 27 December 2001 No.2673
 
 Act No. 16, 2001                **EDUCATION ACT, 2001**
 
@@ -680,6 +700,8 @@ Act No. 16, 2001                **EDUCATION ACT, 2001**
 
 [[START OF PAGE 13]]
 
+No.2673 Government Gazette 27 December 2001 13
+
 Act No. 16, 2001 **EDUCATION ACT, 2001**
 
 (e) is removed by the Minister under subsection (2).
@@ -722,11 +744,13 @@ Act No. 16, 2001 **EDUCATION ACT, 2001**
 
 (4) The Board is not divested of any power and function which has been delegated by it to a committee and may amend or set aside any decision of such a committee.
 
-13
+
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+
+14 Government Gazette 27 December 2001 No.2673
 
 Act No. 16, 2001 EDUCATION ACT, 2001
 
@@ -771,6 +795,8 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
+
+No.2673 Government Gazette 27 December 2001 15
 
 Act No. 16, 2001         EDUCATION ACT, 2001
 
@@ -819,6 +845,8 @@ Act No. 16, 2001         EDUCATION ACT, 2001
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+
+16 Government Gazette 27 December 2001 No.2673
 
 Act No. 16, 2001                      EDUCATION ACT, 2001
 
@@ -872,6 +900,8 @@ Act No. 16, 2001                      EDUCATION ACT, 2001
 
 [[START OF PAGE 17]]
 
+No.2673 Government Gazette 27 December 2001 17
+
 Act No. 16, 2001                       **EDUCATION ACT, 2001**
 
 (c) a treasurer.
@@ -919,6 +949,8 @@ Act No. 16, 2001                       **EDUCATION ACT, 2001**
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
+
+18 Government Gazette 27 December 2001 No.2673
 
 Act No. 16, 2001                **EDUCATION ACT, 2001**
 
@@ -970,6 +1002,8 @@ Act No. 16, 2001                **EDUCATION ACT, 2001**
 
 [[START OF PAGE 19]]
 
+No.2673 Government Gazette 27 December 2001 19
+
 **Act No. 16, 2001 EDUCATION ACT, 2001**
 
 (a) is guilty of misconduct or fails to comply with or contravenes this Act; or
@@ -1018,6 +1052,8 @@ Act No. 16, 2001                **EDUCATION ACT, 2001**
 
 [[START OF PAGE 20]]
 
+20 Government Gazette 27 December 2001 No.2673
+
 Act No. 16, 2001
 
 **EDUCATION ACT, 2001**
@@ -1060,6 +1096,8 @@ Act No. 16, 2001
 
 [[START OF PAGE 21]]
 
+No.2673 Government Gazette 27 December 2001 21
+
 Act No. 16, 2001 EDUCATION ACT, 2001
 
 (14) A school board must -
@@ -1082,9 +1120,9 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 (e) furnish a copy of the annual report adopted in terms of paragraph (d)(ii), to the Permanent Secretary.
 
-(15) A school board may not sell, exchange or otherwise encumber any movable or immovable property of a school acquired with the school development fund money without the Minister's approval
+(15) A school board may not sell, exchange or otherwise encumber any movable or immovable property of a school acquired with the school development fund money without the Minister's approval.
 
-(16)Despite anything to the contrary in any law -
+(16) Despite anything to the contrary in any law -
 
 (a) no tax or charge on income of a school development fund is payable by the fund; and
 
@@ -1106,11 +1144,13 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 (b) moneys donated or accruing to the Fund from any source; and
 
-21
+
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
+
+22 Government Gazette 27 December 2001 No.2673
 
 **Act No. 16, 2001                    EDUCATION ACT, 2001**
 
@@ -1130,7 +1170,7 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 ### Administration of Fund
 
-29. (1) The Permanent Secretary is, for the purposes of the State Finance Act , 1991 (Act No. 31 of 1991), the accounting officer of the Fund.
+29. (1) The Permanent Secretary is, for the purposes of the State Finance Act, 1991 (Act No. 31 of 1991), the accounting officer of the Fund.
 
 (2) The Permanent Secretary is responsible for the administration of the Fund, subject to the directions of the Minister given after consultation with the Advisory Council, and to the rules made under subsection (3).
 
@@ -1157,6 +1197,8 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
+
+No.2673 Government Gazette 27 December 2001 23
 
 Act No. 16, 2001                   EDUCATION ACT, 2001
 
@@ -1210,6 +1252,8 @@ Act No. 16, 2001                   EDUCATION ACT, 2001
 
 [[START OF PAGE 24]]
 
+24 Government Gazette 27 December 2001 No.2673
+
 Act No. 16, 2001                     EDUCATION ACT, 2001
 
 (2) The Minister may temporarily close any state school, class or hostel on the ground of health or public interest.
@@ -1232,7 +1276,7 @@ Act No. 16, 2001                     EDUCATION ACT, 2001
 
 ### Provision of curricula, syllabuses, books and other materials
 
-36. The Minister, after consultation with the Advisory Council, must determine the curricula, syllabuses, books and other educational materials and, subject to such conditions as the Minister may determine, provide such curricula, syllabuses, books and other materials to all state schools
+36. The Minister, after consultation with the Advisory Council, must determine the curricula, syllabuses, books and other educational materials and, subject to such conditions as the Minister may determine, provide such curricula, syllabuses, books and other materials to all state schools.
 
 ### School calendar and hours of instruction
 
@@ -1255,6 +1299,8 @@ Act No. 16, 2001                     EDUCATION ACT, 2001
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
+
+No.2673 Government Gazette 27 December 2001 25
 
 Act No. 16, 2001                     EDUCATION ACT, 2001
 
@@ -1301,6 +1347,8 @@ Act No. 16, 2001                     EDUCATION ACT, 2001
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
+
+28 Government Gazette 27 December 2001 No.2673
 
 Act No. 16, 2001
 
@@ -1350,7 +1398,7 @@ Act No. 16, 2001
 
 [[START OF PAGE 27]]
 
-29
+No.2673 Government Gazette 27 December 2001 29
 
 Act No. 16, 2001
 
@@ -1406,6 +1454,8 @@ Act No. 16, 2001
 
 [[START OF PAGE 28]]
 
+30 Government Gazette 27 December 2001 No.2673
+
 Act No. 16, 2001                   EDUCATION ACT, 2001
 
 ## PART IX
@@ -1414,7 +1464,7 @@ Act No. 16, 2001                   EDUCATION ACT, 2001
 
 ### Compulsory school attendance
 
-53. (1) Subject to subsection (2), school attendance is compulsory for every child from the beginning of the year in which the child attains the age of seven years, until-
+53. (1) Subject to subsection (2), school attendance is compulsory for every child from the beginning of the year in which the child attains the age of seven years, until -
 
 (a) the day the child completes primary education before reaching the age of 16 years; or
 
@@ -1440,7 +1490,7 @@ Act No. 16, 2001                   EDUCATION ACT, 2001
 
 54. (1) An application for admission of a learner to a state school must be made by the parent to the principal of the school in the prescribed form.
 
-(2) The principal must inform the applicant in writing of the outcome of the application, whether successful or not, and if the application is unsuccessful, the reasons must be provided
+(2) The principal must inform the applicant in writing of the outcome of the application, whether successful or not, and if the application is unsuccessful, the reasons must be provided.
 
 (3) The principal must notify the Minister in writing of any learner refused admission to the school on ground other than the school being full or the preferred subject choice not being offered at the school, and state that reason.
 
@@ -1449,6 +1499,8 @@ Act No. 16, 2001                   EDUCATION ACT, 2001
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
+
+No.2673 Government Gazette 27 December 2001 31
 
 **Act No. 16, 2001 EDUCATION ACT, 2001**
 
@@ -1492,11 +1544,13 @@ Act No. 16, 2001                   EDUCATION ACT, 2001
 
 (ii) the school board has recommended to the principal the cancellation thereof; or
 
-31
+
 
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
+
+32 Government Gazette 27 December 2001 No.2673
 
 Act No. 16, 2001
 
@@ -1544,6 +1598,8 @@ Act No. 16, 2001
 
 [[START OF PAGE 31]]
 
+No.2673 Government Gazette 27 December 2001 33
+
 Act No. 16, 2001
 
 **EDUCATION ACT, 2001**
@@ -1585,6 +1641,8 @@ Act No. 16, 2001
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
+
+34 Government Gazette 27 December 2001 No.2673
 
 Act No. 16, 2001                         EDUCATION ACT, 2001
 
@@ -1633,6 +1691,8 @@ Act No. 16, 2001                         EDUCATION ACT, 2001
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
+
+No.2673 Government Gazette 27 December 2001 35
 
 Act No. 16, 2001
 
@@ -1686,6 +1746,8 @@ Act No. 16, 2001
 
 [[START OF PAGE 34]]
 
+36 Government Gazette 27 December 2001 No.2673
+
 Act No. 16, 2001 EDUCATION ACT, 2001
 
 (2) Subject to section 64(5), the Minister may, after consultation with the Minister of Health and Social Services, cause an inspection and examination of the premises, buildings and accessories of any school or hostel to be carried out regarding any health hazard.
@@ -1734,6 +1796,8 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 [[START OF PAGE 35]]
 
+No.2673 Government Gazette 27 December 2001 37
+
 Act No. 16, 2001 EDUCATION ACT, 2001
 
 (g) the fees payable by persons enrolled for adult education or literacy programs or the fees payable in respect of any examinations or the issue of certificates to persons enrolled for such education or programs.
@@ -1779,6 +1843,8 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 [[END OF PAGE 35]]
 
 [[START OF PAGE 36]]
+
+38 Government Gazette 27 December 2001 No.2673
 
 Act No. 16, 2001                EDUCATION ACT, 2001
 
@@ -1830,7 +1896,7 @@ Act No. 16, 2001                EDUCATION ACT, 2001
 
 [[START OF PAGE 37]]
 
-39
+No.2673 Government Gazette 27 December 2001 39
 
 Act No. 16, 2001 EDUCATION ACT, 2001
 
@@ -1876,6 +1942,8 @@ of any rule made under section 15, or encourages another person to do so;
 
 [[START OF PAGE 38]]
 
+40 Government Gazette 27 December 2001 No.2673
+
 Act No. 16, 2001                EDUCATION ACT, 2001
 
 (a) in terms of subsection (1)(a) to (f), inclusive, is liable to a penalty not exceeding a fine of N$12 000 or a period of four years imprisonment, or both such fine and such imprisonment; or
@@ -1915,6 +1983,8 @@ Act No. 16, 2001                EDUCATION ACT, 2001
 [[END OF PAGE 38]]
 
 [[START OF PAGE 39]]
+
+No.2673 Government Gazette 27 December 2001 41
 
 Act No. 16, 2001 EDUCATION ACT, 2001
 
@@ -1960,11 +2030,13 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 (p) generally, any matter in respect of which the Minister considers it necessary or expedient to make regulations in order to achieve the objects of this Act.
 
-41
+
 
 [[END OF PAGE 39]]
 
 [[START OF PAGE 40]]
+
+42 Government Gazette 27 December 2001 No.2673
 
 Act No. 16, 2001 EDUCATION ACT, 2001
 
@@ -2000,7 +2072,7 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 [[START OF PAGE 41]]
 
-43
+No.2673 Government Gazette 27 December 2001 43
 
 Act No. 16, 2001 **EDUCATION ACT, 2001**
 
