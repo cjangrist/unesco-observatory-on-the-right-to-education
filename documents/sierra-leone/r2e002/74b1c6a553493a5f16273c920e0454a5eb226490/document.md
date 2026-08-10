@@ -2,19 +2,19 @@
 
 25
 
-# *THE NATIONAL COUNCIL FOR TECHNICAL, VOCATIONAL AND OTHER AWARDS ACT, 2001*
+# *THE NATIONAL COUNCIL FOR TECHNICAL, VOCATIONAL, AND OTHER AWARDS ACT, 2001*
 
-་་
+
 
 ## ARRANGEMENT OF SECTIONS
 
 *Sections*
 
-### PART I-PRELIMINARY
+### PART I—PRELIMINARY
 
 1. Interpretation.
 
-### PART II ESTABLISHMENT OF COUNCIL _
+### PART II—ESTABLISHMENT OF COUNCIL
 
 2. Establishment of the National Council for Technical, Vocational and other Academic Awards.
 
@@ -26,9 +26,9 @@
 
 6. Meetings of Council.
 
-"
 
-### PART III-FUNCTIONS OF COUNCIL
+
+### PART III—FUNCTIONS OF COUNCIL
 
 7. Functions of Council.
 
@@ -38,7 +38,7 @@
 
 10. Council to appoint committees.
 
-### PART IV ADMINISTRATIVE PROVISIONS -
+### PART IV—ADMINISTRATIVE PROVISIONS
 
 11. Director
 
@@ -78,11 +78,13 @@ Sierra Leone
 
 2001
 
-# The National Council for Technical, Vocational Short title. and other Academic Awards Act, 2001
+# The National Council for Technical, Vocational and other Academic Awards Act, 2001
+
+Short title.
 
 **Being an Act to establish the National Council for Technical, Vocational and other Academic Awards for the evaluation and certification of certain academic courses and programmes and to provide for certain related matters.**
 
-*[25th October, 2001]* Date of com-mencement.
+*[25th October, 2001]* Date of commencement.
 
 [[END OF PAGE 2]]
 
@@ -96,21 +98,21 @@ No. 10 *The National Council for Technical, Vocational and Other Awards Act*
 
 ENACTED by the President and Members of Parliament in this present Parliament assembled.
 
-## PART I-PRELIMINARY
+## PART I—PRELIMINARY
 
 Interpretation.
 
-**1.** In this Act, unless the context otherwise requires-
+**1.** In this Act, unless the context otherwise requires—
 
-“Council" means the National Council for Technical, Vocational and other Academic Awards established by section 2;
+“Council” means the National Council for Technical, Vocational and other Academic Awards established by section 2;
 
-“Institute of Education" means the Institute of Education set up on 1st July, 1968 as an arm of the University of Sierra Leone.
+“Institute of Education” means the Institute of Education set up on 1st July, 1968 as an arm of the University of Sierra Leone.
 
-"member" means member of the Council;
+“member” means member of the Council;
 
-"Minister" means the Minister responsible for education.
+“Minister” means the Minister responsible for education.
 
-## PART II - ESTABLISHMENT OF COUNCIL
+## PART II — ESTABLISHMENT OF COUNCIL
 
 Establishment of National Council for Technical, Vocational and other Academic Awards.
 
@@ -120,17 +122,17 @@ Establishment of National Council for Technical, Vocational and other Academic A
 
 Composition of Council.
 
-**3.** (1) The Council shall consist of -
+**3.** (1) The Council shall consist of—
 
 (a) a Chairman, who shall be a person of wide academic and administrative experience; and
 
-(b) the following members: -
+(b) the following members:—
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-}
+
 
 No. 10 *The National Council for Technical, Vocational*
 
@@ -140,7 +142,7 @@ No. 10 *The National Council for Technical, Vocational*
 
 *and Other Awards Act*
 
-(i) two representatives of the Council of heads of the technical and vocational institutions:
+(i) two representatives of the Council of heads of the technical and vocational institutions;
 
 (ii) four representatives each of Fourah Bay College and Njala University College respectively;
 
@@ -156,7 +158,7 @@ No. 10 *The National Council for Technical, Vocational*
 
 (viii) a representative of the Ministry responsible for labour; and
 
-(ix) four representatives each of four relevant bodies as the Minister shall determine, two of whom shall be womer..
+(ix) four representatives each of four relevant bodies as the Minister shall determine, two of whom shall be women.
 
 (2) The Chairman or any other member of the Council who is not a public officer shall be appointed by the Minister from among persons who are not under any legal disability from holding public office and shall serve for a period of three years but any such appointment may be renewed as and when necessary.
 
@@ -166,7 +168,7 @@ No. 10 *The National Council for Technical, Vocational*
 
 [[START OF PAGE 5]]
 
-M
+
 
 30
 
@@ -186,13 +188,13 @@ Remuneration of Chairman and other members of Council.
 
 Filling of vacancies.
 
-**5.** (1) Where the Chairman or a member of the Council dies, resigns, is removed from office or is absent from Sierra Leone for a continuous period exceeding three months or is by reason of illness unable to perform the functions of his office-
+**5.** (1) Where the Chairman or a member of the Council dies, resigns, is removed from office or is absent from Sierra Leone for a continuous period exceeding three months or is by reason of illness unable to perform the functions of his office—
 
 (a) the members of the Commission shall elect one of their number to act as Chairman until such time as the Chairman resumes his office or another is appointed in his stead; and
 
-(b) in the case of the member, the Chairman shall arrange, subject to this Act, to have another person, appointed, elected or nomiated to the Commission, as the case may be.
+(b) in the case of the member, the Chairman shall arrange, subject to this Act, to have another person, appointed, elected or nominated to the Commission, as the case may be.
 
-(2) Where a person is elected as Chairman or appointed as a member to fill a vacancy, he shall hold office for the remainder of the term of the previous Chairman or member and shall, subject to this Act, be eligible for re-appointment, re-election of re-nomination, as the case may be.
+(2) Where a person is elected as Chairman or appointed as a member to fill a vacancy, he shall hold office for the remainder of the term of the previous Chairman or member and shall, subject to this Act, be eligible for re-appointment, re-election or re-nomination, as the case may be.
 
 Meetings.
 
@@ -220,15 +222,15 @@ No. 10 *The National Council for Technical, Vocational and Other Awards Act*
 
 (7) Subject to this section, the Council shall regulate the procedure at its meetings.
 
-## PART III-FUNCTIONS OF COUNCIL
+## PART III—FUNCTIONS OF COUNCIL
 
 **7.** (1) The object for which the Council is established is to provide validation and certification services for award in certain specialized and professional programmes in tertiary education institutions.
 
 Functions of Council.
 
-(2) Without prejudice to the generality of subsection (1), it shall be the responsibility of the Council to-
+(2) Without prejudice to the generality of subsection (1), it shall be the responsibility of the Council to—
 
-(a) provide examination and validation services at the following levels: -
+(a) provide examination and validation services at the following levels:—
 
 (i) Teachers' Certificate;
 
@@ -242,7 +244,7 @@ Functions of Council.
 
 [[START OF PAGE 7]]
 
-I
+
 
 32
 
@@ -292,11 +294,13 @@ No. 10 *The National Council for Technical, Vocational and Other Awards Act*
 
 (2) The members of a committee appointed under subsection (1) shall be paid such allowances as may be determined by the Council.
 
-## PART IV-ADMINISTRATIVE PROVISIONS
+## PART IV—ADMINISTRATIVE PROVISIONS
 
-**11.** (1) The Council shall have an officer with the designation Director. of Director, appointed by the Council upon such terms and conditions as the Council shall determine.
+**11.** (1) The Council shall have an officer with the designation of Director, appointed by the Council upon such terms and conditions as the Council shall determine.
 
-(2) The Director shall be responsible to the Council for --
+Director.
+
+(2) The Director shall be responsible to the Council for—
 
 (a) the day-to-day administration of the Council;
 
@@ -306,21 +310,21 @@ No. 10 *The National Council for Technical, Vocational and Other Awards Act*
 
 (d) performing such other duties imposed on him by this Act or as the Council may direct.
 
-**12.** (1) There shall be appointed by the Council such other Other staff of employees as the Council may require for the efficient discharge of Council. its functions under this Act.
+**12.** (1) There shall be appointed by the Council such other employees as the Council may require for the efficient discharge of its functions under this Act.
+
+Other staff of Council.
 
 (2) Public officers may be seconded or otherwise give assistance to the Council.
 
-**13.** The activities of the Council shall be financed by a fund Funds of consisting of- Council.
+**13.** The activities of the Council shall be financed by a fund consisting of—
+
+Funds of Council.
 
 (a) monies appropriated by Parliament for the purposes of the Council;
 
-(b fees charged for the services of the Council. including examination fees;
+(b) fees charged for the services of the Council, including examination fees;
 
-K
 
-.3
-
-པམཀཱན
 
 [[END OF PAGE 8]]
 
@@ -394,6 +398,6 @@ J. A. CARPENTER,
 
 *Clerk of Parliament.*
 
-4411
+
 
 [[END OF PAGE 10]]
