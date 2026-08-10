@@ -23,7 +23,7 @@
 
 [[END OF PAGE 1]]
 
-2 LAWS OF DOMINICA Chap. 28:09 Council of Legal Education
+LAWS OF DOMINICA 2 Chap. 28:09 Council of Legal Education
 
 Note  on  Subsidiary Legislation
 This Chapter contains no Subsidiary Legislation.
@@ -128,7 +128,7 @@ The First Schedule which contains the Articles of the Agreement was amended by t
 
 Firstly, a University course of academic training in a Faculty of Law designed to give not only a background of general legal principles and techniques but an appreciation of relevant social science subjects including Caribbean history and contemporary Caribbean affairs.
 
-*L.R.O. 11/991*
+*L.R.O. 1/1991*
 
 [[END OF PAGE 5]]
 
@@ -164,17 +164,17 @@ There shall be a Council of Legal Education (hereinafter called “the Council�
 
 **LAWS OF DOMINICA** *Council of Legal Education* **Chap. 28:09** 7
 
-such territory two members of the fused profes-  si on nominated by their appropriate professional  body;
+such territory two members of the fused profession nominated by their appropriate professional body;
 
 - (vi) From each of the other participating territories  one member of the profession nominated by the  appropriate professional body.
-- (b) Each member of the Council appointed under para-  graphs (v) and (vi) of clause (a) above shall hold office  for three years from the date of his appointment and  shall be eligible for re-appointment. The effective date  of appointment of members under the said paragraphs  (v) and (vi) shall be the date on which the Council is  notified of the appointment.
+- (b) Each member of the Council appointed under paragraphs (v) and (vi) of clause (a) above shall hold office  for three years from the date of his appointment and  shall be eligible for re-appointment. The effective date  of appointment of members under the said paragraphs  (v) and (vi) shall be the date on which the Council is  notified of the appointment.
 - (c) Each member of the Council may be represented by an  alternate to be appointed, in the case of clause (a)(i)  above by the Dean, in the case of clause (a)(ii), (iii) and  (iv) by the member himself and in the case of clause  (a)(v) and (vi) by the body represented by the member.
-- (d) A casual vacancy, however, occurring in the case of a  member appointed under clause (a)(v) and (vi) may be  filled by the body appointing such member and the  persons appointed to fill such casual vacancy shall hold  office for the remainder of the period of the appoint-  ment of the member whose place he fills.
+- (d) A casual vacancy, however, occurring in the case of a  member appointed under clause (a)(v) and (vi) may be  filled by the body appointing such member and the  persons appointed to fill such casual vacancy shall hold  office for the remainder of the period of the appointment of the member whose place he fills.
 - (e) Any Committee of the Council shall have the power to  co-opt such person or persons as it thinks fit.
 
 ### 2. Legal Status
 
-The Council shall possess full juridical personality and, in  particular, full capacity –
+The Council shall possess full juridicial personality and, in  particular, full capacity –
 
 - (a) to contract;
 - (b) to acquire, and dispose of movable and immovable  property; and
@@ -186,7 +186,7 @@ The Council shall possess full juridical personality and, in  particular, full c
 
 [[START OF PAGE 8]]
 
-8 **Chap. 28:09** *Council of Legal Education*
+**LAWS OF DOMINICA** 8 **Chap. 28:09** *Council of Legal Education*
 
 ### 3. Functions and Powers
 
@@ -234,7 +234,7 @@ Every person who holds a University of the West Indies LL.B. degree shall be eli
 
 [[START OF PAGE 10]]
 
-10 **LAWS OF DOMINICA** **Chap. 28:09** *Council of Legal Education*
+**LAWS OF DOMINICA** 10 **Chap. 28:09** *Council of Legal Education*
 
 by the Council, that person shall be awarded by the Council a certificate herein referred to as a Legal Education Certificate.
 
@@ -265,7 +265,7 @@ shall be awarded, by the Council, a Legal Education Certificate.
 
 ## SAVING AND TRANSITIONAL PROVISIONS
 
-1. The Government of each of the participating territories agrees that the following persons shall be recognised as professionally quali-fied for admission to practice in its territory, namely —
+1. The Government of each of the participating territories agrees that the following persons shall be recognised as professionally qualified for admission to practice in its territory, namely —
 
 - (a) any national who was on 1st October, 1972 qualified to be admitted to practise as a solicitor or a barrister in that territory;
 - (b) any national who, prior to 1st January, 1985, had undergone or is undergoing or has been accepted for a course of legal training leading to a qualification such as is referred to in paragraph 2(b)(i) of Article 4 of this Agreement and obtains that qualification.
@@ -354,13 +354,13 @@ At the first meeting and as required thereafter the Council shall elect one of i
 
 West Indies and the University of Guyana and on behalf of Barbados, Guyana, Jamaica and Trinidad and Tobago.
 
-2. This Agreement shall be subject to ratification or acceptance by the contracting parties. Instruments of ratification or acceptance shall be deposited by the contracting parties with the depository who shall notify the other contracting parties.
+2. This Agreement shall be subject to ratification or acceptance by the contacting parties. Instruments of ratification or acceptance shall be deposited by the contracting parties with the depository who shall notify the other contracting parties.
 
 3. This Agreement shall be deposited with the Secretary-General of the Commonwealth Caribbean Regional Secretariat (herein called the “Depository”).
 
 4. The Depository shall transmit copies of this Agreement to each contracting party.
 
-### *Article II*
+### *Article 11*
 
 ## PARTICIPATION OF TERRITORIES OTHER THAN ORIGINAL SIGNATORIES
 
@@ -411,7 +411,7 @@ Done at Barbados this 25th day of November, 1970 in a single copy, which shall b
 
 ## PROTOCOL TO PROVIDE FOR THE RESERVATION MADE BY THE GOVERNMENT OF THE BAHAMAS TO PARAGRAPH I OF ARTICLE 5 OF THE AGREEMENT ESTABLISHING THE COUNCIL OF LEGAL EDUCATION.
 
-The contracting parties to the Agreement establishing the Council of Legal Education hereby agree that notwithstanding the provisions of paragraph I of Article 5, the Government of the Bahamas shall be able to admit to practice in the Bahamas persons holding qualifications other than Legal Education Certificate awarded by the Council of Legal Education. The Government of the Bahamas under-takes to review the position within five years of the coming into force of the Agreement with a view to implementing fully the provisions of paragraph I of Article 5.
+The contracting parties to the Agreement establishing the Council of Legal Education hereby agree that notwithstanding the provisions of paragraph I of Article 5, the Government of the Bahamas shall be able to admit to practice in the Bahamas persons holding qualifications other than Legal Education Certificate awarded by the Council of Legal Education. The Government of the Bahamas undertakes to review the position within five years of the coming into force of the Agreement with a view to implementing fully the provisions of paragraph 1 of Article 5.
 
 *L.R.O. 1/1991*
 
@@ -473,7 +473,7 @@ Annex ‘A’ of the Principal Agreement shall be amended by the addition after 
 
 [[START OF PAGE 18]]
 
-18 **Chap. 28:09** *Council of Legal Education*
+**LAWS OF DOMINICA** 18 **Chap. 28:09** *Council of Legal Education*
 
 ### *Article 5*
 
@@ -497,7 +497,7 @@ Annex ‘A’ of the Principal Agreement shall be amended by the addition after 
 
 ## ADMISSION TO LAW SCHOOLS
 
-Every person who holds a University of the West Indies L.L.B degree shall be eligible for admission to the Law Schools and every person who holds a degree of a University or Institution which is
+Every person who holds a University of the West Indies LL.B degree shall be eligible for admission to the Law Schools and every person who holds a degree of a University or Institution which is
 
 [[END OF PAGE 18]]
 
@@ -511,7 +511,7 @@ recognised by the Council as being equivalent to the University of the West Indi
 
 ## SAVING AND TRANSITIONAL PROVISIONS
 
-1. The Government of each of the participating territories agrees that the following persons shall be recognised as professionally qualified for admission to practise in its territory, namely –
+1. The Government of each of the participating territories agrees that the following persons shall be recognised as professionally qualified for admission to practice in its territory, namely –
 
 - (a) any national who is on 1st October, 1972 qualified to be admitted to practise as a solicitor or a barrister in that territory;
 - (b) any national who prior to 1st October, 1972 was undergoing or had been accepted for a course of legal training leading to any present qualification to practise and who satisfied the requirements of such course on or before 31st December, 1980;
@@ -533,9 +533,9 @@ In this Article “national” means a person who –
 
 [[START OF PAGE 20]]
 
-20 **LAWS OF DOMINICA** **Chap. 28:09** *Council of Legal Education*
+**LAWS OF DOMINICA** 20 **Chap. 28:09** *Council of Legal Education*
 
-Certificate fulfils the requirements for practise in its territory so far as institutional training and education are concerned and that (subject to the transitional provisions hereinafter contained and to any reciprocal arrangements that any of the said territories may hereafter make with any other country) no person shall be admitted to practise in that terri- tory who does not hold such certificate. But nothing herein contained shall prevent any territory from imposing additional qualifications as a condition of admission to practise therein.
+Certificate fulfils the requirements for practise in its territory so far as institutional training and education are concerned and that (subject to the transitional provisions hereinafter contained and to any reciprocal arrangements that any of the said territories may hereafter make with any other country) no person shall be admitted to practise in that territory who does not hold such certificate. But nothing herein contained shall prevent any territory from imposing additional qualifications as a condition of admission to practise therein.
 
 2. The forgoing provisions of this Article shall be subject to the terms of the Protocols to this Agreement which shall have effect for the purposes specified therein.
 
