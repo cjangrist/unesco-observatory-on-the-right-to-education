@@ -2,7 +2,7 @@
 
 "AÑO DEL BICENTENARIO DE LA PROCLAMACIÓN DE LA PRIMERA REPÚBLICA DEL SUR, EN EL PARAGUAY, UNA E INDIVISIBLE"
 
-Escudo Nacional del Paraguay
+
 
 # PODER LEGISLATIVO
 
@@ -28,27 +28,27 @@ Escudo Nacional del Paraguay
 
 - a) **Alumno con necesidades específicas de apoyo educativo:** Se considera a todo alumno que debido a: necesidades específicas de apoyo educativo: derivadas de discapacidad física, intelectual auditiva, visual y psicosocial, trastornos específicos de aprendizaje, altas capacidades intelectuales, incorporación tardía al sistema educativo, condiciones personales o de historia escolar, requiera de apoyos y/o ajustes para alcanzar el máximo desarrollo posible de sus capacidades personales.
 
-Firma
+
 
 - b) **Discapacidad:** Es una condición o situación por la cual una persona, con alguna deficiencia y con un entorno inapropiado por los diversos obstáculos y falta de apoyos necesarios, no puede realizar ciertas actividades o no puede "funcionar" en algunas cosas como otras personas de su edad.
 
-Firma
+
 
 - c) **Trastornos específicos de aprendizaje:** Constituyen un conjunto de problemas que interfieren significativamente en el rendimiento en la escuela, dificultando el adecuado progreso del niño y la consecución de las metas marcadas en los distintos planes educativos.
 
 - d) **Altas capacidades intelectuales:** Se considera que un alumno presenta necesidades específicas de apoyo educativo por alta capacidad intelectual cuando maneja y relaciona de manera simultánea y eficaz múltiples recursos cognitivos diferentes, de tipo lógico, numérico, espacial, de memoria, verbal y creativo, o bien destaca especialmente y de manera excepcional en el manejo de uno o varios de ellos.
 
-Firma
 
-Firma
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-Pág. 2/8
+"AÑO DEL BICENTENARIO DE LA PROCLAMACIÓN DE LA PRIMERA REPÚBLICA DEL SUR, EN EL PARAGUAY, UNA E INDIVISIBLE"
 
 # PODER LEGISLATIVO
+
+Pág. 2/8
 
 # LEY N° 5.136
 
@@ -66,7 +66,7 @@ Pág. 2/8
 
 - k) **Educación inclusiva:** Proceso sistémico de mejora e innovación educativa para promover la presencia, el rendimiento y la participación del alumnado en todas las instituciones del sistema educativo nacional donde son escolarizados, con particular atención a aquellos alumnos o alumnas más vulnerables a la exclusión, el fracaso escolar o la marginación, detectando y eliminando, para ello, las barreras que limitan dicho proceso.
 
-Firma
+
 
 - l) **Equidad educativa:** Significa que las escuelas deben acoger a todas las niñas, niños y adolescentes jóvenes y adultos, independientemente de sus condiciones personales, culturales económicas o sociales.
 
@@ -78,7 +78,7 @@ Firma
 
 - a) **No discriminación,** ni trato degradante, tanto dentro como fuera de la institución, por parte de ningún miembro de la comunidad educativa;
 
-Firma
+
 
 - b) **Respeto a la diferencia y reconocimiento de la discapacidad** como componente de la diversidad humana;
 
@@ -86,17 +86,17 @@ Firma
 
 - d) **Igualdad de derechos entre varones y mujeres;**
 
-Firma
 
-Firma
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-Pág. 3/8
+"AÑO DEL BICENTENARIO DE LA PROCLAMACIÓN DE LA PRIMERA REPÚBLICA DEL SUR, EN EL PARAGUAY, UNA E INDIVISIBLE"
 
 # PODER LEGISLATIVO
+
+Pág. 3/8
 
 # LEY N° 5.136
 
@@ -128,7 +128,7 @@ Pág. 3/8
 
 - h) La confidencialidad de informaciones psicopedagógicas u otras que así lo requieran;
 
-Firma
+
 
 - i) La atención, por parte de personal docente de la institución con el apoyo del equipo técnico conformado;
 
@@ -136,7 +136,7 @@ Firma
 
 - k) La sensibilización y orientación de las familias, tutores o encargados, respecto al derecho a la educación inclusiva;
 
-Firma
+
 
 - l) Los recursos presupuestarios para el sector público, privado y privado subvencionado, que demande el cumplimiento de lo establecido;
 
@@ -144,13 +144,17 @@ Firma
 
 - n) Supresión o remoción de barreras para el aprendizaje y la participación;
 
-Logo
 
-Firma
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+"AÑO DEL BICENTENARIO DE LA PROCLAMACIÓN DE LA PRIMERA REPÚBLICA DEL SUR, EN EL PARAGUAY, UNA E INDIVISIBLE"
+
+# PODER LEGISLATIVO
+
+Pág. 4/8
 
 # LEY N° 5.136
 
@@ -176,11 +180,11 @@ El Ministerio de Educación y Cultura, a través de sus órganos competentes, te
 
 **Artículo 7°.-** Facúltase al Ministerio de Educación y Cultura, la creación de equipos técnicos instalados en cada "Escuela Centro", asiento de las áreas educativas locales, para una atención profesional consistente en el apoyo técnico institucional que garantice la identificación y asistencia necesaria a los alumnos con necesidades específicas de apoyo educativo.
 
-Firma
+
 
 **Artículo 8°.-** Los equipos técnicos, referidos en el artículo 7° de la presente ley, estarán conformados por un psicólogo, un psicopedagogo, un fonoaudiólogo, un trabajador social, un terapista ocupacional y el especialista por discapacidad.
 
-Firma
+
 
 **Artículo 9°.-** Los docentes, en colaboración con los equipos técnicos, serán responsables de la elaboración y aplicación de los ajustes razonables individuales conforme a las orientaciones recibidas por la autoridad competente.
 
@@ -188,11 +192,11 @@ Firma
 
 ### DE LA EVALUACIÓN Y PROMOCIÓN
 
-Firma
+
 
 **Artículo 10.-** El proceso de evaluación de los alumnos con necesidades específicas de apoyo educativo será responsabilidad del equipo técnico institucional con la participación del docente y tendrá por finalidad determinar el nivel de competencia curricular, definir los ajustes razonables individuales y los requerimientos de apoyo.
 
-Firma
+
 
 [[END OF PAGE 4]]
 
@@ -200,9 +204,9 @@ Firma
 
 "AÑO DEL BICENTENARIO DE LA PROCLAMACIÓN DE LA PRIMERA REPÚBLICA DEL SUR, EN EL PARAGUAY, UNA E INDIVISIBLE"
 
-Pág. 5/8
-
 # PODER LEGISLATIVO
+
+Pág. 5/8
 
 # LEY N° 5.136
 
@@ -226,7 +230,7 @@ Pág. 5/8
 
 **Artículo 18.-** Son derechos de los alumnos:
 
-Firma 1
+
 
 - a) Los reconocidos en la Constitución Nacional y las Leyes;
 
@@ -234,19 +238,19 @@ Firma 1
 
 - c) La orientación y el estímulo permanente por los miembros de la comunidad educativa para que sus esfuerzos y dedicación sean valorados, a efectos de contribuir al pleno desarrollo de su personalidad;
 
-Firma 2
+
 
 - d) La protección contra todo tipo de discriminación, agresión física o moral, contra la violencia, los abusos o maltratos, infortunio familiar o accidente;
 
 - e) La participación libre e igualitaria en los centros de estudiantes u otras organizaciones estudiantiles legalmente constituidas;
 
-Firma 3
 
-Firma 4
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
+"AÑO DEL BICENTENARIO DE LA PROCLAMACIÓN DE LA PRIMERA REPÚBLICA DEL SUR, EN EL PARAGUAY, UNA E INDIVISIBLE"
 
 # PODER LEGISLATIVO
 
@@ -284,7 +288,7 @@ Pág. 6/8
 
 - a) El principio de la no discriminación en ninguna de sus formas;
 
-signature
+
 
 - b) La participación plena de mujeres y varones en los órganos de dirección; y,
 
@@ -296,7 +300,7 @@ signature
 
 **Artículo 21.-** El Ministerio de Educación y Cultura adoptará las medidas que correspondan para la modificación o ajustes de los planes y programas de formación continua de educadores en cuanto a la diversidad, a fin de que los mismos adquieran las multi-competencias necesarias para ejercer el derecho a:
 
-signature
+
 
 - a) Formación continua en Educación Inclusiva;
 
@@ -304,15 +308,17 @@ signature
 
 - c) Apoyo por parte de un equipo técnico;
 
-signatures
+
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-Pag. 7/8
+"AÑO DEL BICENTENARIO DE LA PROCLAMACIÓN DE LA PRIMERA REPÚBLICA DEL SUR, EN EL PARAGUAY, UNA E INDIVISIBLE"
 
 # PODER LEGISLATIVO
+
+Pág. 7/8
 
 # LEY N° 5.136
 
@@ -336,7 +342,7 @@ Son deberes de los educadores:
 
 - f) La incentivación constante para que entre todos los miembros de la comunidad educativa se cree una cultura inclusiva.
 
-### CAPITULO VIII
+### CAPÍTULO VIII
 
 ### DE LOS PADRES, MADRES Y TUTORES
 
@@ -350,7 +356,7 @@ Son deberes de los educadores:
 
 - d) Solicitar análisis cuali-cuantitativo, ayudas, apoyos, así como los ajustes razonables y un sistema de evaluación acorde a las barreras para el aprendizaje y la participación que experimentan sus hijos;
 
-Firma
+
 
 - e) Ser informados en forma periódica sobre la situación académica de sus hijos;
 
@@ -360,23 +366,23 @@ Firma
 
 **Artículo 23.-** Los padres, madres o tutores con relación a la educación de las personas que se encuentran bajo su responsabilidad, tienen la obligación de:
 
-Firma
+
 
 - a) Acompañar el proceso de enseñanza-aprendizaje;
 
 - b) Brindar información veraz y confiable, a fin de utilizarla en beneficio al alumno;
 
-Firma
 
-Firma
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-Pág. 8/8
+"AÑO DEL BICENTENARIO DE LA PROCLAMACIÓN DE LA PRIMERA REPÚBLICA DEL SUR, EN EL PARAGUAY, UNA E INDIVISIBLE"
 
 # PODER LEGISLATIVO
+
+Pág. 8/8
 
 # LEY N° 5.136
 
@@ -400,9 +406,7 @@ Pág. 8/8
 
 **Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a los veintiocho días del mes de agosto del año dos mil trece, y por la Honorable Cámara de Senadores, a los cinco días del mes de diciembre del año dos mil trece, quedando sancionado el mismo, de conformidad con lo dispuesto en el artículo 207, numeral 2 de la Constitución Nacional.**
 
-Signature of Juan Bartolomé Ramírez Brizuela
 
-Signature of Julio César Velázquez Tillería and Blanca Fonseca Legal
 
 **Juan Bartolomé Ramírez Brizuela**
 Presidente
@@ -412,7 +416,7 @@ H. Cámara de Diputados
 Presidente
 H. Cámara de Senadores
 
-Signature of Hugo L. Rubin G.
+
 
 **Hugo L. Rubin G.**
 Secretario Parlamentario
@@ -425,11 +429,11 @@ Téngase por Ley de la República, publíquese e insértese en el Registro Ofici
 
 **El Presidente de la República**
 
-Signature of Horacio Manuel Cartes Jara
+
 
 **Horacio Manuel Cartes Jara**
 
-Signature of Marta Justina Lafuente
+
 
 **Marta Justina Lafuente**
 Ministra de Educación y Cultura
