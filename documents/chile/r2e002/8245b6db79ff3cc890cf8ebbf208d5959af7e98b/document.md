@@ -639,8 +639,7 @@ Corresponderá exclusivamente a la respecto de las infracciones establecidas en 
 
 Superintendencia el ejercicio de la potestad sancionadora Para los efectos del ejercicio de dicha potestad sancionadora las personas e instituciones fiscalizadas podrán incurrir en infracciones gravísimas, graves, y leves.
 
-#### Artículo 53.-
-Son infracciones gravísimas:
+#### Artículo 53.- Son infracciones gravísimas:
 
 - Destinar los recursos de la institución de educación superior a fines distintos a los que le son propios de acuerdo a la ley y sus estatutos, en los términos establecidos en el artículo 65 de esta ley.
 
@@ -687,8 +686,7 @@ de:
 
 - La calidad o cantidad de la investigación que realiza la institución, así como su prestigio o posición internacional.
 
-#### Artículo 55.-
-Son infracciones graves:
+#### Artículo 55.- Son infracciones graves:
 
 - No remitir la información requerida por el Ministerio de Educación, la Subsecretaría de Educación Superior, el Consejo Nacional de Educación o la Comisión Nacional de Acreditación, en ejercicio de sus facultades legales, o hacerlo de forma tardía, incompleta o inexacta, de manera injustificada.
 
@@ -1351,13 +1349,15 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 ningún tipo de relación contractual, tener participación en la propiedad, o ser miembros de la asamblea o asociados en una institución de educación superior, ni ejercer funciones directivas en éstas, hasta doce meses después de haber participado en la evaluación externa de la institución respectiva.".
 
-##### 22) Sustitúyese el artículo 21 por el siguiente artículo 19 bis:
+22) Sustitúyese el artículo 21 por el siguiente artículo 19 bis:
 
-"Artículo 19 bis.- En el caso que la Comisión rechazare el informe presentado por los pares evaluadores, la institución podrá solicitar, dentro del plazo de 30 días contado desde la fecha de notificación del primer informe, la realización de una nueva evaluación por pares evaluadores distintos, designados en conformidad con lo establecido en el artículo anterior.".
+##### "Artículo 19 bis.-
+En el caso que la Comisión rechazare el informe presentado por los pares evaluadores, la institución podrá solicitar, dentro del plazo de 30 días contado desde la fecha de notificación del primer informe, la realización de una nueva evaluación por pares evaluadores distintos, designados en conformidad con lo establecido en el artículo anterior.".
 
-###### 23) Reemplázase el artículo 20 por el siguiente:
+23) Reemplázase el artículo 20 por el siguiente:
 
-"Artículo 20.- Se otorgará la acreditación institucional a las instituciones de educación superior que cumplan con los criterios y estándares de las dimensiones referidas en el inciso tercero del artículo 17, teniendo en consideración su misión y proyecto institucional. La acreditación institucional podrá ser de excelencia, avanzada o básica, en conformidad con los niveles de desarrollo progresivo que evidencien las instituciones.
+##### "Artículo 20.-
+Se otorgará la acreditación institucional a las instituciones de educación superior que cumplan con los criterios y estándares de las dimensiones referidas en el inciso tercero del artículo 17, teniendo en consideración su misión y proyecto institucional. La acreditación institucional podrá ser de excelencia, avanzada o básica, en conformidad con los niveles de desarrollo progresivo que evidencien las instituciones.
 
 En su pronunciamiento, la Comisión señalará el plazo en que la institución deberá someterse a un nuevo proceso de acreditación, el que podrá ser de 6 o 7 años en el caso de la acreditación de excelencia, de 4 o 5 años en la acreditación avanzada y de 3 años en la acreditación básica, sin perjuicio de lo establecido en el inciso siguiente. Con todo, sólo podrán someterse a un nuevo proceso de acreditación en un plazo de 7 años aquellas instituciones que cuenten con acreditación de la dimensión de investigación, creación y/o innovación.
 
@@ -1365,9 +1365,10 @@ Las instituciones reconocidas por el Estado acreditadas en el nivel básico sól
 
 La resolución final del proceso de acreditación institucional deberá contener un pronunciamiento respecto del Plan de Mejora del que trata el artículo 16 de la presente ley. El cumplimiento del Plan de Mejora será especialmente considerado por la Comisión en el siguiente proceso de acreditación institucional.".
 
-###### 24) Reemplázase el artículo 22 por el siguiente:
+24) Reemplázase el artículo 22 por el siguiente:
 
-"Artículo 22.- No se otorgará la acreditación institucional a las instituciones de educación superior que no cumplan con los criterios y estándares de calidad, según lo dispuesto en el artículo 20.
+##### "Artículo 22.-
+No se otorgará la acreditación institucional a las instituciones de educación superior que no cumplan con los criterios y estándares de calidad, según lo dispuesto en el artículo 20.
 
 Tampoco se otorgará la acreditación institucional a aquellas instituciones de educación superior que, habiendo obtenido por una vez consecutiva la acreditación institucional básica, no obtuvieren en el siguiente proceso al menos la acreditación avanzada.
 
@@ -1399,7 +1400,8 @@ Lo dispuesto en este artículo no se aplicará a las instituciones de educación
 
 - Incorpórase el siguiente artículo 25 ter, nuevo:
 
-"Artículo 25 ter.- Para efectos del cierre de una sede, carrera o programa, las instituciones de educación superior deberán presentar un Plan de Cierre a la Subsecretaría de Educación Superior, el que previamente deberá ser notificado a los estudiantes matriculados en la respectiva carrera.
+##### "Artículo 25 ter.-
+Para efectos del cierre de una sede, carrera o programa, las instituciones de educación superior deberán presentar un Plan de Cierre a la Subsecretaría de Educación Superior, el que previamente deberá ser notificado a los estudiantes matriculados en la respectiva carrera.
 
 - El Plan de Cierre deberá contener, al menos, lo siguiente:
 
@@ -1445,7 +1447,8 @@ Un reglamento del Ministerio de Educación regulará las materias que trata este
 
 - Reemplázase el artículo 27 por el siguiente:
 
-"Artículo 27.- Las carreras y programas de estudio conducentes a los títulos profesionales de Médico Cirujano, Cirujano Dentista, Profesor de Educación Básica, Profesor de Educación Media, Profesor de Educación Diferencial o Especial y Educador de Párvulos deberán someterse obligatoriamente al proceso de acreditación establecido en este párrafo.
+##### "Artículo 27.-
+Las carreras y programas de estudio conducentes a los títulos profesionales de Médico Cirujano, Cirujano Dentista, Profesor de Educación Básica, Profesor de Educación Media, Profesor de Educación Diferencial o Especial y Educador de Párvulos deberán someterse obligatoriamente al proceso de acreditación establecido en este párrafo.
 
 La acreditación de estas carreras y programas consistirá en la evaluación y verificación del cumplimiento de criterios y estándares de calidad, y tendrá por objeto certificar la calidad de las carreras y los programas ofrecidos por las instituciones autónomas de educación superior, en función de los propósitos declarados por la institución que los imparte y la normativa vigente que rige su ejercicio.
 
@@ -1483,7 +1486,8 @@ actividades académicas.".
 
 - Reemplázase el artículo 27 quáter por el siguiente:
 
-"Artículo 27 quáter.- La acreditación de las carreras y programas referidos en el artículo 27 será otorgada por la Comisión Nacional de Acreditación. Con todo, para efectos del financiamiento de dichas acreditaciones, se procederá de conformidad a lo dispuesto en el artículo 14.
+##### "Artículo 27 quáter.-
+La acreditación de las carreras y programas referidos en el artículo 27 será otorgada por la Comisión Nacional de Acreditación. Con todo, para efectos del financiamiento de dichas acreditaciones, se procederá de conformidad a lo dispuesto en el artículo 14.
 
 La decisión de acreditación adoptada por la Comisión Nacional de Acreditación será apelable ante el Consejo Nacional de Educación dentro del plazo de quince días hábiles, a contar de la fecha de la notificación de la decisión recurrida. El Consejo tendrá el plazo de treinta días hábiles para resolver. Lo anterior se entiende sin perjuicio de la interposición del recurso de reposición ante la misma Comisión.".                                       Ley 21186
 
@@ -1517,11 +1521,10 @@ refiere este artículo" por la siguiente: "En caso que alguna carrera o programa
 
 - Agrégase el siguiente párrafo 2°, nuevo, en el título III, reemplazando el artículo 30:
 
-"Párrafo 2°
+##### "Párrafo 2° De la acreditación voluntaria de carreras y programas de pregrado
 
-- De la acreditación voluntaria de carreras y programas de pregrado
-
-Artículo 30.- Para el mejoramiento continuo de la calidad de las instituciones de educación superior, existirá un proceso de acreditación voluntaria de las carreras y programas de pregrado al que podrán acceder las instituciones que cuenten, al menos, con acreditación institucional de nivel avanzado y cuyas carreras de acreditación obligatoria se encuentren acreditadas.
+###### Artículo 30.-
+Para el mejoramiento continuo de la calidad de las instituciones de educación superior, existirá un proceso de acreditación voluntaria de las carreras y programas de pregrado al que podrán acceder las instituciones que cuenten, al menos, con acreditación institucional de nivel avanzado y cuyas carreras de acreditación obligatoria se encuentren acreditadas.
 
 Para estos efectos, la Comisión Nacional de Acreditación, en función de aquellas prioridades que se deberán definir en el Plan de Coordinación para el Mejoramiento de la Calidad de la Educación Superior establecido en la letra d) del artículo 4, establecerá periódicamente aquellas áreas o carreras respecto de las cuales las instituciones de educación superior podrán solicitar esta acreditación voluntaria.
 
@@ -1623,7 +1626,8 @@ autorización y supervisión de las agencias de acreditación de carreras y prog
 
 - Reemplázase el artículo 51 por el siguiente:
 
-"Artículo 51.- El Sistema de Información contendrá los datos que remita la Superintendencia de Educación Superior y la Comisión Nacional de Acreditación. Para estos efectos, la obligación de recoger la información proporcionada por las instituciones, validarla, procesarla e incorporarla al Sistema Nacional de Información de la Educación Superior corresponderá a la Superintendencia de Educación Superior y a la Comisión Nacional de Acreditación, respectivamente.
+##### "Artículo 51.-
+El Sistema de Información contendrá los datos que remita la Superintendencia de Educación Superior y la Comisión Nacional de Acreditación. Para estos efectos, la obligación de recoger la información proporcionada por las instituciones, validarla, procesarla e incorporarla al Sistema Nacional de Información de la Educación Superior corresponderá a la Superintendencia de Educación Superior y a la Comisión Nacional de Acreditación, respectivamente.
 
 La coordinación de los órganos en la incorporación de la información al Sistema Nacional de Información corresponderá a la Subsecretaría de Educación Superior.". 49) Elimínanse los artículos 52, 53 y 54.
 
@@ -1633,13 +1637,15 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 49]]
 
-TÍTULO V DEL FINANCIAMIENTO INSTITUCIONAL PARA LA GRATUIDAD
+## TÍTULO V DEL FINANCIAMIENTO INSTITUCIONAL PARA LA GRATUIDAD
 
-Párrafo 1° Del financiamiento institucional para la gratuidad
+### Párrafo 1° Del financiamiento institucional para la gratuidad
 
-Artículo 82.- Las universidades, institutos profesionales y centros de formación técnica, que cumplan con los requisitos señalados en esta ley, podrán acceder al financiamiento institucional para la gratuidad de conformidad a las condiciones que establece este título.
+#### Artículo 82.-
+Las universidades, institutos profesionales y centros de formación técnica, que cumplan con los requisitos señalados en esta ley, podrán acceder al financiamiento institucional para la gratuidad de conformidad a las condiciones que establece este título.
 
-Artículo 83.- Para optar a este financiamiento, las instituciones de educación superior señaladas en el artículo anterior deberán:
+#### Artículo 83.-
+Para optar a este financiamiento, las instituciones de educación superior señaladas en el artículo anterior deberán:
 
 - Contar con acreditación institucional avanzada o de excelencia, de acuerdo a lo dispuesto en la ley Nº 20.129.
 
@@ -1653,7 +1659,8 @@ Sin perjuicio de los requisitos establecidos anteriormente, si una institución 
 
 Las instituciones de educación superior estatales que cumplan los requisitos anteriores accederán a este financiamiento por el solo ministerio de la ley, debiendo dar cumplimiento a las obligaciones señaladas en el presente título, no siendo aplicable lo dispuesto en los artículos 84 y 86.
 
-Artículo 84.- Las instituciones de educación superior reconocidas oficialmente por el Estado, que deseen acceder al financiamiento institucional para la gratuidad, deberán solicitarlo a la Subsecretaría hasta el 30 de abril de cada año.
+#### Artículo 84.-
+Las instituciones de educación superior reconocidas oficialmente por el Estado, que deseen acceder al financiamiento institucional para la gratuidad, deberán solicitarlo a la Subsecretaría hasta el 30 de abril de cada año.
 
 La Subsecretaría tendrá un plazo de treinta días corridos, contado desde la fecha de la solicitud, para verificar el cumplimiento de los requisitos.
 
@@ -1665,19 +1672,22 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 50]]
 
-Artículo 85.- La Subsecretaría determinará un monto anual en dinero expresado en pesos para las instituciones que accedan al financiamiento institucional para la gratuidad. Dicho monto considerará la información del arancel regulado y los derechos básicos de matrícula establecidos de conformidad a este título. Asimismo, deberá tener en consideración el volumen de estudiantes de cada institución, considerando la información de a lo menos los tres últimos años.
+#### Artículo 85.-
+La Subsecretaría determinará un monto anual en dinero expresado en pesos para las instituciones que accedan al financiamiento institucional para la gratuidad. Dicho monto considerará la información del arancel regulado y los derechos básicos de matrícula establecidos de conformidad a este título. Asimismo, deberá tener en consideración el volumen de estudiantes de cada institución, considerando la información de a lo menos los tres últimos años.
 
 Para establecer el volumen de estudiantes en el caso de instituciones nuevas se considerarán, mientras no alcancen el mínimo de años señalado en el inciso anterior, los años para los cuales la institución disponga de información.
 
 Las instituciones de educación superior sólo efectuarán la rendición del aporte institucional para la gratuidad a la Superintendencia, de conformidad a las normas de carácter general que ésta dicte.
 
-Artículo 86.- La institución reconocida oficialmente por el Estado que opte por dejar de recibir el financiamiento de que trata este título deberá comunicarlo a la Subsecretaría antes del 30 de abril de cada año, lo que se materializará el año siguiente a dicha comunicación.
+#### Artículo 86.-
+La institución reconocida oficialmente por el Estado que opte por dejar de recibir el financiamiento de que trata este título deberá comunicarlo a la Subsecretaría antes del 30 de abril de cada año, lo que se materializará el año siguiente a dicha comunicación.
 
 Con todo, la institución deberá asegurar que los estudiantes matriculados con anterioridad a dicha comunicación, mantengan la misma situación respecto de todos los cobros que les efectúe la institución o su exención, según corresponda, de conformidad a lo dispuesto en el presente título.
 
 La institución de educación superior que comunique la decisión de dejar de percibir el financiamiento, podrá volver a solicitarlo sólo una vez transcurridos cinco años contados desde la fecha de la referida comunicación.
 
-Artículo 87.- Las instituciones de educación superior que accedan al financiamiento institucional para la gratuidad deberán dar cumplimiento a las siguientes obligaciones:
+#### Artículo 87.-
+Las instituciones de educación superior que accedan al financiamiento institucional para la gratuidad deberán dar cumplimiento a las siguientes obligaciones:
 
 - Regirse por la regulación de aranceles, derechos básicos de matrícula y cobros por concepto de titulación o graduación, establecidas en el párrafo 2° y en conformidad al párrafo 5° del presente título.
 
@@ -1685,9 +1695,10 @@ Artículo 87.- Las instituciones de educación superior que accedan al financiam
 
 - Otorgar estudios gratuitos de conformidad al párrafo 5° de este título.
 
-Párrafo 2° De los valores regulados de aranceles, derechos básicos de matrícula y cobros por concepto de titulación o graduación
+### Párrafo 2° De los valores regulados de aranceles, derechos básicos de matrícula y cobros por concepto de titulación o graduación
 
-Artículo 88.- Aquellas instituciones de educación superior que accedan al financiamiento institucional para la gratuidad se regirán por los valores regulados de aranceles, derechos básicos de matrícula y cobros por concepto de titulación o graduación para las carreras o programas de estudio señalados en el artículo 104. Los valores de los aranceles regulados se determinarán en razón a "grupos de carreras" definidos por la Subsecretaría, los que corresponderán a conjuntos de carreras o programas de estudios que tengan estructuras de costo similares entre sí. Para ello, la Subsecretaría deberá considerar, al menos, los recursos que se requieran para impartirlas en razón de su estructura curricular, si se trata de carreras o programas de estudios profesionales o técnicos de nivel superior, los niveles, años y dimensiones de acreditación institucional con que cuentan las instituciones que las imparten, el tamaño de estas últimas y la región en que se imparten.
+#### Artículo 88.-
+Aquellas instituciones de educación superior que accedan al financiamiento institucional para la gratuidad se regirán por los valores regulados de aranceles, derechos básicos de matrícula y cobros por concepto de titulación o graduación para las carreras o programas de estudio señalados en el artículo 104. Los valores de los aranceles regulados se determinarán en razón a "grupos de carreras" definidos por la Subsecretaría, los que corresponderán a conjuntos de carreras o programas de estudios que tengan estructuras de costo similares entre sí. Para ello, la Subsecretaría deberá considerar, al menos, los recursos que se requieran para impartirlas en razón de su estructura curricular, si se trata de carreras o programas de estudios profesionales o técnicos de nivel superior, los niveles, años y dimensiones de acreditación institucional con que cuentan las instituciones que las imparten, el tamaño de estas últimas y la región en que se imparten.
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
 
@@ -1699,13 +1710,16 @@ Los valores de los derechos básicos de matrícula corresponderán a un valor an
 
 Los valores que trata este artículo se establecerán, cada cinco años, mediante resoluciones exentas del Ministerio de Educación, las que deberán ser visadas por el Ministro de Hacienda y publicarse en abril del año anterior al que se aplicarán dichos valores. Con todo, excepcionalmente y por razones fundadas, la Comisión de Expertos para la regulación de aranceles, establecida en el párrafo 3° siguiente, podrá solicitar a la Subsecretaría, a más tardar en octubre del año respectivo, que adelante el procedimiento de determinación de valores regulados de los que trata este artículo para uno o más grupos de carreras. La Subsecretaría podrá acoger la solicitud de la Comisión, caso en el cual enviará la propuesta del inciso primero del artículo 91 en el mes de abril del año siguiente; o rechazarla; en ambos casos de manera fundada.
 
-Artículo 89.- El arancel regulado deberá dar cuenta del costo de los recursos materiales y humanos que sean necesarios y razonables, de acuerdo a lo previsto en las bases técnicas señaladas en el artículo 90, para impartir una carrera o programa de estudios de los grupos de carreras respectivos.
+#### Artículo 89.-
+El arancel regulado deberá dar cuenta del costo de los recursos materiales y humanos que sean necesarios y razonables, de acuerdo a lo previsto en las bases técnicas señaladas en el artículo 90, para impartir una carrera o programa de estudios de los grupos de carreras respectivos.
 
 Dicho arancel deberá considerar tanto los costos anuales directos e indirectos como el costo anualizado de las inversiones en infraestructura, tales como laboratorios, servicios, edificios y uso de dependencias.
 
-Artículo 90.- La Subsecretaría establecerá, mediante resolución exenta, visada por el Ministro de Hacienda, las bases técnicas para la realización del cálculo de los valores regulados de arancel, cobros por concepto de titulación o graduación para uno o más grupos de carreras y de los derechos básicos de matrícula. Estas bases contendrán el mecanismo de elaboración de los grupos de carreras, las hipótesis, criterios de cálculo, metodologías y procedimientos conforme a los cuales se determinarán los valores que trata este artículo.
+#### Artículo 90.-
+La Subsecretaría establecerá, mediante resolución exenta, visada por el Ministro de Hacienda, las bases técnicas para la realización del cálculo de los valores regulados de arancel, cobros por concepto de titulación o graduación para uno o más grupos de carreras y de los derechos básicos de matrícula. Estas bases contendrán el mecanismo de elaboración de los grupos de carreras, las hipótesis, criterios de cálculo, metodologías y procedimientos conforme a los cuales se determinarán los valores que trata este artículo.
 
-Artículo 91.- Para la elaboración de las bases técnicas que trata el artículo anterior, la Subsecretaría deberá presentar una primera propuesta a la Comisión de Expertos para la regulación de aranceles, establecida en el párrafo 3° siguiente (en adelante "la Comisión"), dentro de los tres años siguientes a la publicación de la resolución exenta que determinó, para el último quinquenio vigente, los valores del arancel regulado, los derechos básicos de matrícula y cobros por titulación o graduación para el grupo o los grupos de carreras respectivos. Para la elaboración de la propuesta deberá considerar previamente un proceso de consulta a las instituciones de educación superior que accedan al financiamiento regulado en este título y a las federaciones de estudiantes respectivas.
+#### Artículo 91.-
+Para la elaboración de las bases técnicas que trata el artículo anterior, la Subsecretaría deberá presentar una primera propuesta a la Comisión de Expertos para la regulación de aranceles, establecida en el párrafo 3° siguiente (en adelante "la Comisión"), dentro de los tres años siguientes a la publicación de la resolución exenta que determinó, para el último quinquenio vigente, los valores del arancel regulado, los derechos básicos de matrícula y cobros por titulación o graduación para el grupo o los grupos de carreras respectivos. Para la elaboración de la propuesta deberá considerar previamente un proceso de consulta a las instituciones de educación superior que accedan al financiamiento regulado en este título y a las federaciones de estudiantes respectivas.
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
 
@@ -1723,13 +1737,15 @@ La resolución exenta que establezca las bases técnicas de que trata este artí
 
 En caso que la Subsecretaría no presente las bases técnicas o que no se cumpla el plazo señalado en el inciso anterior, se aplicarán aquellas que se encuentren vigentes, sin perjuicio de la responsabilidad administrativa según corresponda.
 
-Artículo 92.- Dentro del plazo de siete meses contado desde la dictación de la resolución exenta que establece las bases técnicas, la Subsecretaría deberá presentar a la Comisión un informe que contenga el cálculo de los valores de los aranceles regulados, los derechos básicos de matrícula y los cobros por concepto de titulación o graduación, de conformidad a dichas bases técnicas, así como también las memorias de cálculo que correspondan. Asimismo, las instituciones de educación superior que accedan al financiamiento regulado en este título podrán enviar a la Comisión sus apreciaciones al referido informe dentro del plazo de un mes contado desde su dictación.
+#### Artículo 92.-
+Dentro del plazo de siete meses contado desde la dictación de la resolución exenta que establece las bases técnicas, la Subsecretaría deberá presentar a la Comisión un informe que contenga el cálculo de los valores de los aranceles regulados, los derechos básicos de matrícula y los cobros por concepto de titulación o graduación, de conformidad a dichas bases técnicas, así como también las memorias de cálculo que correspondan. Asimismo, las instituciones de educación superior que accedan al financiamiento regulado en este título podrán enviar a la Comisión sus apreciaciones al referido informe dentro del plazo de un mes contado desde su dictación.
 
 La Comisión se pronunciará sobre el informe dentro del plazo de tres meses contado desde su recepción, pudiendo aprobarlo o realizarle observaciones fundadas, y debiendo tener a la vista las apreciaciones de las instituciones. Por su parte, la Subsecretaría, dentro del plazo de tres meses contado desde la recepción de dichas observaciones, deberá pronunciarse fundadamente sobre éstas, aprobándolas o rechazándolas, debiendo dictar la o las resoluciones exentas correspondientes.
 
 Dichas resoluciones exentas deberán dictarse en el plazo establecido en el inciso cuarto del artículo 88.
 
-Artículo 93.- Las resoluciones exentas señaladas en el artículo anterior deberán establecer, al menos, lo siguiente:
+#### Artículo 93.-
+Las resoluciones exentas señaladas en el artículo anterior deberán establecer, al menos, lo siguiente:
 
 - La definición de el o los grupos de carreras que se hubieren determinado, debiendo explicitar las carreras o programas de estudios que se incluyan en cada grupo.
 
@@ -1745,15 +1761,17 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 reajustes que establece esta ley.
 
-Artículo 94.- La Subsecretaría actualizará en octubre de cada año, mediante resolución exenta, los valores establecidos en las resoluciones vigentes de que trata el artículo anterior, de conformidad al reajuste que señale la Ley de Presupuestos del Sector Público para el año respectivo. Este reajuste aplicará para los aranceles, derechos básicos de matrícula y cobros por concepto de titulación o graduación de todos los estudiantes matriculados en la institución respectiva.
+#### Artículo 94.-
+La Subsecretaría actualizará en octubre de cada año, mediante resolución exenta, los valores establecidos en las resoluciones vigentes de que trata el artículo anterior, de conformidad al reajuste que señale la Ley de Presupuestos del Sector Público para el año respectivo. Este reajuste aplicará para los aranceles, derechos básicos de matrícula y cobros por concepto de titulación o graduación de todos los estudiantes matriculados en la institución respectiva.
 
 Asimismo, en dicha resolución se deberá incorporar una nómina de las instituciones de educación superior que acceden al financiamiento institucional para la gratuidad, indicando los niveles, años y dimensiones de acreditación institucional vigente para dicho año, debiendo considerar para ello, aquellos del mes inmediatamente anterior a la fecha de dictación de la resolución.
 
 En caso de que la acreditación institucional cambie durante la vigencia de la resolución regulada en este artículo, se deberán considerar los nuevos niveles, años y dimensiones de acreditación en la resolución para el año siguiente.
 
-Párrafo 3° De la Comisión de Expertos para la regulación de aranceles
+### Párrafo 3° De la Comisión de Expertos para la regulación de aranceles
 
-Artículo 95.- Créase una Comisión de Expertos para la regulación de aranceles, de carácter permanente. Corresponderá a la Comisión:
+#### Artículo 95.-
+Créase una Comisión de Expertos para la regulación de aranceles, de carácter permanente. Corresponderá a la Comisión:
 
 - Aprobar o modificar fundadamente las bases técnicas para el cálculo de los valores de aranceles regulados, derechos básicos de matrícula y cobros por concepto de titulación o graduación, presentadas por la Subsecretaría.
 
@@ -1765,7 +1783,8 @@ Artículo 95.- Créase una Comisión de Expertos para la regulación de arancele
 
 Para el cumplimiento de sus funciones, la Comisión podrá solicitar información a la Subsecretaría.
 
-Artículo 96.- La Comisión estará integrada por siete profesionales nacionales o extranjeros, de amplia trayectoria profesional o académica, que acrediten al menos diez años de experiencia laboral o profesional, y dominio y experiencia laboral mínima de cinco años en materias económicas o jurídicas de regulación económica de servicios públicos, o en gestión de educación superior en el subsistema universitario o técnico profesional. La integración de la Comisión deberá reunir experiencias profesionales o laborales, tanto del subsistema universitario como técnico profesional, así como experiencias regionales, distintas a la Región Metropolitana, y promover la paridad de género. Los integrantes de la Comisión serán seleccionados por el Consejo de Alta Dirección Pública, establecido en la ley N° 19.882, mediante concurso público de antecedentes, fundado en condiciones objetivas, transparentes y no discriminatorias. Con todo, en igualdad de puntajes se deberá preferir a las postulantes mujeres. En el marco del concurso, dicho Consejo deberá constatar la idoneidad de los profesionales elegidos y la ausencia de incompatibilidades e inhabilidades que les afecten. El concurso deberá cumplir con el procedimiento establecido en el reglamento de esta ley, y desarrollarse en un plazo máximo de noventa días. Para ello, la Subsecretaría propondrá al Consejo de Alta Dirección Pública perfiles profesionales, y de competencias y aptitudes.
+#### Artículo 96.-
+La Comisión estará integrada por siete profesionales nacionales o extranjeros, de amplia trayectoria profesional o académica, que acrediten al menos diez años de experiencia laboral o profesional, y dominio y experiencia laboral mínima de cinco años en materias económicas o jurídicas de regulación económica de servicios públicos, o en gestión de educación superior en el subsistema universitario o técnico profesional. La integración de la Comisión deberá reunir experiencias profesionales o laborales, tanto del subsistema universitario como técnico profesional, así como experiencias regionales, distintas a la Región Metropolitana, y promover la paridad de género. Los integrantes de la Comisión serán seleccionados por el Consejo de Alta Dirección Pública, establecido en la ley N° 19.882, mediante concurso público de antecedentes, fundado en condiciones objetivas, transparentes y no discriminatorias. Con todo, en igualdad de puntajes se deberá preferir a las postulantes mujeres. En el marco del concurso, dicho Consejo deberá constatar la idoneidad de los profesionales elegidos y la ausencia de incompatibilidades e inhabilidades que les afecten. El concurso deberá cumplir con el procedimiento establecido en el reglamento de esta ley, y desarrollarse en un plazo máximo de noventa días. Para ello, la Subsecretaría propondrá al Consejo de Alta Dirección Pública perfiles profesionales, y de competencias y aptitudes.
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
 
@@ -1779,7 +1798,8 @@ Los integrantes de la Comisión permanecerán en sus cargos seis años. Podrán 
 
 La renovación de los integrantes de la Comisión se efectuará por parcialidades, las que como máximo podrán considerar dos miembros. Las designaciones serán efectuadas en listas únicas por el Consejo de Alta Dirección Pública, con acuerdo de cuatro quintos de sus integrantes.
 
-Artículo 97.- No podrán ser nombrados integrantes de la Comisión:
+#### Artículo 97.-
+No podrán ser nombrados integrantes de la Comisión:
 
 - Las personas que ejerzan funciones directivas en una institución de educación superior, de conformidad al artículo 72.
 
@@ -1795,7 +1815,8 @@ Una vez que los consejeros hayan cesado en su cargo por cualquier motivo, no pod
 
 Asimismo, no podrán ser nombrados integrantes de la Comisión quienes hubieren sido removidos de su cargo de conformidad a lo establecido en la letra e) del artículo 100 de esta ley.
 
-Artículo 98.- El Ministerio de Educación, a través de la Subsecretaría, financiará los gastos de administración y funcionamiento de la Comisión, así como también el monto de los honorarios de sus integrantes, incluyéndolos en las partidas correspondientes de la Ley de Presupuestos del Sector Público. Asimismo, la Subsecretaría deberá coordinar y ejecutar las actividades necesarias para la administración de gastos y el funcionamiento de la Comisión, brindándole asistencia administrativa.
+#### Artículo 98.-
+El Ministerio de Educación, a través de la Subsecretaría, financiará los gastos de administración y funcionamiento de la Comisión, así como también el monto de los honorarios de sus integrantes, incluyéndolos en las partidas correspondientes de la Ley de Presupuestos del Sector Público. Asimismo, la Subsecretaría deberá coordinar y ejecutar las actividades necesarias para la administración de gastos y el funcionamiento de la Comisión, brindándole asistencia administrativa.
 
 Los honorarios mensuales de cada integrante corresponderán a diez unidades tributarias mensuales, por cada sesión, con un tope total mensual de cien unidades tributarias mensuales.
 
@@ -1805,13 +1826,15 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 55]]
 
-Artículo 99.- La Comisión elegirá de entre sus integrantes a quien la presidirá por los siguientes tres años o hasta que expire su cargo, lo que ocurra primero.
+#### Artículo 99.-
+La Comisión elegirá de entre sus integrantes a quien la presidirá por los siguientes tres años o hasta que expire su cargo, lo que ocurra primero.
 
 - El quórum mínimo para sesionar será de cuatro integrantes y los acuerdos se adoptarán por simple mayoría, decidiendo el voto del Presidente en caso de empate.
 
 De los acuerdos de la Comisión se dejará constancia en los libros de actas respectivos y en las resoluciones que se emitan.
 
-Artículo 100.- Serán causales de cesación en el cargo de integrante de la Comisión:
+#### Artículo 100.-
+Serán causales de cesación en el cargo de integrante de la Comisión:
 
 - Expiración del plazo por el que fueron designados. b) Renuncia voluntaria aceptada por el Ministro de Educación.
 
@@ -1825,11 +1848,13 @@ Artículo 100.- Serán causales de cesación en el cargo de integrante de la Com
 
 - No guardar la debida reserva respecto de la información recibida en el ejercicio de su cargo que no haya sido divulgada oficialmente.
 
-Artículo 101.- Los integrantes de la Comisión no tendrán carácter de personal de la Administración del Estado. Sin perjuicio de lo anterior, les serán aplicables las normas sobre responsabilidad administrativa y probidad contenidas en el título III del decreto con fuerza de ley Nº 1, del año 2000, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; deberán declarar intereses y patrimonio de acuerdo al capítulo 1° del título II de la ley N° 20.880; y les serán aplicables las normas previstas en el título V del libro II del Código Penal sobre delitos de los empleados públicos, considerándoseles, por consiguiente, comprendidos en el artículo 260 del referido Código.
+#### Artículo 101.-
+Los integrantes de la Comisión no tendrán carácter de personal de la Administración del Estado. Sin perjuicio de lo anterior, les serán aplicables las normas sobre responsabilidad administrativa y probidad contenidas en el título III del decreto con fuerza de ley Nº 1, del año 2000, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; deberán declarar intereses y patrimonio de acuerdo al capítulo 1° del título II de la ley N° 20.880; y les serán aplicables las normas previstas en el título V del libro II del Código Penal sobre delitos de los empleados públicos, considerándoseles, por consiguiente, comprendidos en el artículo 260 del referido Código.
 
-Párrafo 4° Regulación de las vacantes de las instituciones de educación superior
+### Párrafo 4° Regulación de las vacantes de las instituciones de educación superior
 
-Artículo 102.- La Subsecretaría, mediante resolución, que deberá llevar la firma del Ministro de Hacienda, determinará las vacantes máximas de estudiantes de primer año para instituciones de educación superior que reciban el financiamiento institucional para la gratuidad, para aquellas carreras o programas de estudio señalados en el artículo 104.
+#### Artículo 102.-
+La Subsecretaría, mediante resolución, que deberá llevar la firma del Ministro de Hacienda, determinará las vacantes máximas de estudiantes de primer año para instituciones de educación superior que reciban el financiamiento institucional para la gratuidad, para aquellas carreras o programas de estudio señalados en el artículo 104.
 
 La resolución deberá dictarse a más tardar el 30 de abril y regirá por el plazo de tres años, contado desde el año siguiente a su dictación.
 
@@ -1847,9 +1872,10 @@ Para efectos de lo señalado en el inciso anterior, la Subsecretaría deberá re
 
 Con todo, excepcionalmente y de manera fundada, mediante resolución del Ministerio de Educación, la que deberá ser visada por la Dirección de Presupuestos, y a solicitud de la respectiva institución de educación superior, podrá autorizarse un incremento de vacantes superior al de la resolución referida en el inciso primero, si tiene como objetivo apoyar el desarrollo estratégico del país y sus regiones, y está contemplada, con la debida antelación, en sus respectivos Planes de Desarrollo Institucional.
 
-Párrafo 5° Del deber de otorgar estudios gratuitos y cobros regulados
+### Párrafo 5° Del deber de otorgar estudios gratuitos y cobros regulados
 
-Artículo 103.- Las instituciones de educación superior que accedan al financiamiento institucional de que trata este título deberán otorgar estudios gratuitos a los estudiantes que, de acuerdo a la condición socioeconómica que la ley disponga, cumplan los siguientes requisitos:
+#### Artículo 103.-
+Las instituciones de educación superior que accedan al financiamiento institucional de que trata este título deberán otorgar estudios gratuitos a los estudiantes que, de acuerdo a la condición socioeconómica que la ley disponga, cumplan los siguientes requisitos:
 
 - Ser chileno, extranjero con permanencia definitiva, o extranjero con residencia, y respecto a éste último caso, que haya cursado la enseñanza media completa en Chile.
 
@@ -1859,7 +1885,8 @@ Artículo 103.- Las instituciones de educación superior que accedan al financia
 
 - Estar matriculado en alguna de las carreras o programas de estudio señalados en el artículo 104.
 
-Artículo 104.- Para efectos de esta ley, se entenderá que la institución de educación superior cumple con otorgar estudios gratuitos si exime a los estudiantes que cumplen los requisitos señalados en el artículo anterior de cualquier pago asociado a arancel y a derechos básicos de matrícula, cualquiera sea su denominación, respecto de aquellas carreras y programas de estudio presenciales conducentes a los títulos y grados señalados en las letras a), b) y c) del artículo 54 del decreto con fuerza de ley Nº 2, de 2009, del Ministerio de Educación. En caso que dichas carreras o programas de estudio sean impartidas en modalidad semipresencial, su financiamiento deberá ser autorizado por resolución de la Subsecretaría de Educación Superior, de conformidad a criterios objetivos establecidos en el reglamento respectivo. En lo relativo a los cobros por concepto de titulación o graduación, las instituciones de educación superior sólo podrán cobrar como máximo aquel valor definido de conformidad al párrafo 2º de este título.
+#### Artículo 104.-
+Para efectos de esta ley, se entenderá que la institución de educación superior cumple con otorgar estudios gratuitos si exime a los estudiantes que cumplen los requisitos señalados en el artículo anterior de cualquier pago asociado a arancel y a derechos básicos de matrícula, cualquiera sea su denominación, respecto de aquellas carreras y programas de estudio presenciales conducentes a los títulos y grados señalados en las letras a), b) y c) del artículo 54 del decreto con fuerza de ley Nº 2, de 2009, del Ministerio de Educación. En caso que dichas carreras o programas de estudio sean impartidas en modalidad semipresencial, su financiamiento deberá ser autorizado por resolución de la Subsecretaría de Educación Superior, de conformidad a criterios objetivos establecidos en el reglamento respectivo. En lo relativo a los cobros por concepto de titulación o graduación, las instituciones de educación superior sólo podrán cobrar como máximo aquel valor definido de conformidad al párrafo 2º de este título.
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
 
@@ -1867,19 +1894,23 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 57]]
 
-Artículo 105.- La obligación de otorgar estudios gratuitos de que trata este párrafo será exigible respecto de aquellos estudiantes que permanezcan matriculados en la respectiva carrera o programa de estudio por un tiempo que no exceda la duración nominal de éstas.
+#### Artículo 105.-
+La obligación de otorgar estudios gratuitos de que trata este párrafo será exigible respecto de aquellos estudiantes que permanezcan matriculados en la respectiva carrera o programa de estudio por un tiempo que no exceda la duración nominal de éstas.
 
 La duración nominal de la carrera o programa de estudio corresponderá al tiempo de duración del plan de estudios y los procesos asociados a la titulación o graduación de los estudiantes. Dicha duración nominal será informada por las instituciones de educación superior de conformidad a las normas vigentes.
 
 Para el caso de los programas de formación inicial general, tales como bachilleratos u otros equivalentes de conformidad a las normas vigentes, su duración nominal se deberá entender incorporada a aquella de la carrera o programa de estudios en que prosiga el estudiante.
 
-Artículo 106.- Tanto para los efectos del cálculo de la permanencia de un estudiante del artículo anterior, como para aquella a la que se refiere el artículo 108, no se considerará el tiempo en el cual el estudiante suspenda justificadamente sus estudios, siempre que dicha suspensión sea aprobada por la institución respectiva y se haya notificado a la Subsecretaría según lo disponga el reglamento.
+#### Artículo 106.-
+Tanto para los efectos del cálculo de la permanencia de un estudiante del artículo anterior, como para aquella a la que se refiere el artículo 108, no se considerará el tiempo en el cual el estudiante suspenda justificadamente sus estudios, siempre que dicha suspensión sea aprobada por la institución respectiva y se haya notificado a la Subsecretaría según lo disponga el reglamento.
 
-Artículo 107.- En caso de estudiantes que realicen cambios de carreras o programas de estudio dentro de una institución de educación superior o entre instituciones que acceden al financiamiento institucional, éstas mantendrán su obligación de otorgar estudios gratuitos a aquellos que cumplan lo dispuesto en el artículo 103 sólo respecto del cambio de la primera carrera o programa de estudios a otra.
+#### Artículo 107.-
+En caso de estudiantes que realicen cambios de carreras o programas de estudio dentro de una institución de educación superior o entre instituciones que acceden al financiamiento institucional, éstas mantendrán su obligación de otorgar estudios gratuitos a aquellos que cumplan lo dispuesto en el artículo 103 sólo respecto del cambio de la primera carrera o programa de estudios a otra.
 
 Para la determinación de la duración de dicha obligación se considerará la duración nominal de la carrera o programa de estudio en curso, descontándosele el total del tiempo que el estudiante haya cursado de forma gratuita en la anterior carrera o programa de estudio.
 
-Artículo 108.- En caso que la permanencia de un estudiante que cumple con los requisitos para acceder a estudios gratuitos en una institución de educación superior que recibe el financiamiento institucional exceda el plazo de la obligación de otorgar estudios gratuitos de conformidad a lo dispuesto en este párrafo, la institución podrá cobrar a dicho estudiante de conformidad a lo dispuesto a continuación:
+#### Artículo 108.-
+En caso que la permanencia de un estudiante que cumple con los requisitos para acceder a estudios gratuitos en una institución de educación superior que recibe el financiamiento institucional exceda el plazo de la obligación de otorgar estudios gratuitos de conformidad a lo dispuesto en este párrafo, la institución podrá cobrar a dicho estudiante de conformidad a lo dispuesto a continuación:
 
 - En caso que el tiempo de permanencia exceda hasta un año sobre el plazo de la obligación de la institución, ésta sólo podrá cobrar al estudiante hasta el 50% del valor de la suma del arancel regulado y los derechos básicos de matrícula correspondientes al período adicional a dicho plazo.
 
@@ -1895,19 +1926,23 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 la institución de educación superior en la cual el estudiante se encuentre matriculado, de conformidad a los límites máximos señalados en el inciso anterior.
 
-Artículo 109.- Sin perjuicio de lo dispuesto en el artículo 103, las instituciones de educación superior que reciban el financiamiento institucional para la gratuidad deberán otorgar estudios gratuitos a aquellos estudiantes que cumplan con lo dispuesto en las letras a) y c) de dicho artículo, y que posean un título técnico de nivel superior otorgado por instituciones de educación superior, para cursar una segunda carrera o programa de estudios cuya finalidad sea la obtención de un título profesional o grado académico de licenciado impartido por una institución que reciba dicho financiamiento.
+#### Artículo 109.-
+Sin perjuicio de lo dispuesto en el artículo 103, las instituciones de educación superior que reciban el financiamiento institucional para la gratuidad deberán otorgar estudios gratuitos a aquellos estudiantes que cumplan con lo dispuesto en las letras a) y c) de dicho artículo, y que posean un título técnico de nivel superior otorgado por instituciones de educación superior, para cursar una segunda carrera o programa de estudios cuya finalidad sea la obtención de un título profesional o grado académico de licenciado impartido por una institución que reciba dicho financiamiento.
 
 Para la determinación de la duración de los estudios gratuitos se considerará lo dispuesto en el inciso segundo del artículo 107, a menos que el respectivo programa técnico de nivel superior se articule con otra carrera o programa de estudios de un área del conocimiento afín. En este caso, la duración nominal del programa se deberá entender incorporada a aquella de la carrera o programa de estudios en que prosiga el estudiante, descontados los semestres, o su equivalente, convalidados en la nueva carrera. Con todo, en este caso, como también en el señalado en el inciso final del artículo 105, se considerará que existe articulación si en la nueva carrera se convalidan al menos dos de los semestres cursados previamente, o su equivalente, según lo disponga el reglamento.
 
 Asimismo, dichas instituciones deberán otorgar estudios gratuitos a los estudiantes que cumplan con los requisitos establecidos en las letras a) y c) del artículo 103 y que posean el grado de licenciado o licenciada otorgado por instituciones de educación superior, para cursar un módulo de licenciatura conducente a título pedagógico otorgado por una institución que reciba el financiamiento institucional cuya duración no exceda de cuatro semestres. Para este caso, no le será aplicable lo dispuesto en el inciso segundo del artículo 107.
 
-Artículo 110.- Las instituciones de educación superior que reciban el financiamiento institucional para la gratuidad, podrán cobrar como máximo a aquellos estudiantes que cumplan solo lo dispuesto en las letras a) y c) del artículo 103, y a aquellos estudiantes que cumpliendo con los requisitos del referido artículo realicen más de un cambio de carrera en conformidad a lo dispuesto en el artículo 107, el arancel regulado, derechos básicos de matrícula y cobros por concepto de titulación o graduación fijados para la carrera o programa de estudio respectivo de conformidad a lo dispuesto en el párrafo 2º de este título, sin perjuicio de lo dispuesto en el
+#### Artículo 110.-
+Las instituciones de educación superior que reciban el financiamiento institucional para la gratuidad, podrán cobrar como máximo a aquellos estudiantes que cumplan solo lo dispuesto en las letras a) y c) del artículo 103, y a aquellos estudiantes que cumpliendo con los requisitos del referido artículo realicen más de un cambio de carrera en conformidad a lo dispuesto en el artículo 107, el arancel regulado, derechos básicos de matrícula y cobros por concepto de titulación o graduación fijados para la carrera o programa de estudio respectivo de conformidad a lo dispuesto en el párrafo 2º de este título, sin perjuicio de lo dispuesto en el
 
 artículo 109. Los nuevos valores establecidos en las resoluciones exentas señaladas en el artículo 92, serán aplicables a los nuevos estudiantes matriculados el año en que se inicia la vigencia de la resolución respectiva. matriculados en carreras o programas de estudios conducentes
 
 Respecto de aquellos estudiantes que no cumplan lo dispuesto en la letra a) del artículo 103 o aquellos a título técnico de nivel superior, título profesional o licenciatura en modalidad a distancia o semipresenciales que, en este último caso, no hayan sido autorizadas por la Subsecretaría, no aplicará el límite dispuesto en el inciso anterior.
 
-Párrafo 6° Infracciones y sanciones a este título Artículo 111.- La Superintendencia de Educación Superior fiscalizará el cumplimiento de las obligaciones y requisitos establecidos en el presente título, sin perjuicio de las facultades que le corresponden a la Subsecretaría de Educación Superior.
+### Párrafo 6° Infracciones y sanciones a este título
+#### Artículo 111.-
+La Superintendencia de Educación Superior fiscalizará el cumplimiento de las obligaciones y requisitos establecidos en el presente título, sin perjuicio de las facultades que le corresponden a la Subsecretaría de Educación Superior.
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
 
@@ -1915,11 +1950,13 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 59]]
 
-Artículo 112.- Sin perjuicio de las demás infracciones que la ley establezca, el incumplimiento de los requisitos establecidos en las letras c) y d) del artículo
+#### Artículo 112.-
+Sin perjuicio de las demás infracciones que la ley establezca, el incumplimiento de los requisitos establecidos en las letras c) y d) del artículo
 
 83 se considerarán infracciones graves. En caso que una institución de educación superior pierda su acreditación, se requerirá únicamente la notificación de esta circunstancia que realice la Comisión Nacional de Acreditación a la Subsecretaría para que ésta determine la pérdida del financiamiento público regulado en este título. En el caso de las universidades estatales se estará a lo dispuesto en el artículo 34 de la Ley Sobre Universidades del Estado. Por su parte, en caso que la institución de educación superior incumpla el requisito establecido en la letra b) del artículo 83, la Subsecretaría determinará la pérdida del financiamiento público regulado en este título. El incumplimiento de las obligaciones establecidas en el artículo 87 de la presente ley se considerarán infracciones gravísimas. En caso que la institución incumpla lo dispuesto en la letra b) de dicho artículo se descontará de los recursos que se le transfieran por los nuevos estudiantes matriculados, una proporción equivalente al porcentaje del total de estudiantes nuevos matriculados por sobre el límite correspondiente. En este caso la institución igualmente deberá otorgar estudios gratuitos a todos aquellos estudiantes que cumplen los requisitos señalados en el artículo 103, y que mantengan las condiciones señaladas en el párrafo 5° del presente título. Con todo, la Superintendencia podrá, atendida la gravedad y las consecuencias del hecho o la existencia de infracciones reiteradas a esta regulación, resolver la pérdida del financiamiento público regulado en el presente título solicitando a la Subsecretaría de Educación Superior que ejecute dicha medida, a partir del año siguiente a la fecha de la resolución final del procedimiento sancionatorio. Se entenderá, para estos efectos, que son infracciones reiteradas cuando se hayan cometido dos o más de ellas en los últimos tres años. La Superintendencia podrá establecer devoluciones de dinero a favor de los estudiantes, así como también otras medidas correctivas. El cumplimiento de estas medidas se considerará como una circunstancia atenuante de conformidad a lo dispuesto en el artículo 61. En caso que se disponga la pérdida del financiamiento público regulado en este título de conformidad a este artículo, la institución sancionada sólo podrá solicitar nuevamente el acceso a dicho financiamiento diez años después de la resolución final del procedimiento sancionatorio de la Superintendencia. Con todo, este plazo no regirá cuando la pérdida del financiamiento se deba a la no obtención de la acreditación.
 
-Artículo 113.- Si una institución que recibe el financiamiento público regulado en el presente título es sancionada por infracciones graves o gravísimas cinco o más veces dentro de tres años, el Superintendente a la Subsecretaría de Educación Superior la ejecución de
+#### Artículo 113.-
+Si una institución que recibe el financiamiento público regulado en el presente título es sancionada por infracciones graves o gravísimas cinco o más veces dentro de tres años, el Superintendente a la Subsecretaría de Educación Superior la ejecución de
 
 resolverá la pérdida de dicho financiamiento, solicitando la medida.
 
@@ -1931,19 +1968,23 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 60]]
 
-Artículo 114.- El Estado transferirá recursos públicos a las instituciones que dejen de recibir el financiamiento institucional para la gratuidad, respecto de aquellos estudiantes que con anterioridad a la comunicación regulada en el artículo 86 o a la determinación de la pérdida del financiamiento público regulado en el presente título, cursaban sus estudios de forma gratuita, en la medida que éstos mantengan los requisitos y condiciones regulados en el presente título.
+#### Artículo 114.-
+El Estado transferirá recursos públicos a las instituciones que dejen de recibir el financiamiento institucional para la gratuidad, respecto de aquellos estudiantes que con anterioridad a la comunicación regulada en el artículo 86 o a la determinación de la pérdida del financiamiento público regulado en el presente título, cursaban sus estudios de forma gratuita, en la medida que éstos mantengan los requisitos y condiciones regulados en el presente título.
 
 Las instituciones de educación superior que sean sancionadas de conformidad a lo dispuesto en el presente párrafo, deberán asegurar que aquellos estudiantes matriculados con anterioridad a la verificación de la infracción, mantengan la misma situación respecto de los cobros que efectúe la institución o su exención, de conformidad a lo dispuesto en el presente título.
 
-Artículo 115.- Un reglamento del Ministerio de Educación, que deberá llevar la firma del Ministro de Hacienda, regulará las materias y procedimientos necesarios para la aplicación del presente título.
+#### Artículo 115.-
+Un reglamento del Ministerio de Educación, que deberá llevar la firma del Ministro de Hacienda, regulará las materias y procedimientos necesarios para la aplicación del presente título.
 
-TÍTULO VI DISPOSICIONES FINALES
+## TÍTULO VI DISPOSICIONES FINALES
 
-Artículo 116.- La Subsecretaría de Educación Superior será la sucesora legal de la División de Educación Superior del Ministerio de Educación, una vez que entre en funcionamiento conforme a lo establecido en el número 6) del artículo sexto transitorio de esta ley.
+#### Artículo 116.-
+La Subsecretaría de Educación Superior será la sucesora legal de la División de Educación Superior del Ministerio de Educación, una vez que entre en funcionamiento conforme a lo establecido en el número 6) del artículo sexto transitorio de esta ley.
 
 En consecuencia, toda referencia que las leyes, reglamentos y demás normas hagan a la División de Educación Superior y al Jefe de División de dicha repartición, deberán entenderse hechas a la Subsecretaría de Educación Superior y al Subsecretario de Educación Superior, respectivamente, desde la fecha de entrada en funcionamiento de la Subsecretaría de Educación Superior.
 
-Artículo 117.- Introdúcense las siguientes modificaciones en la ley N° 18.591, que establece normas complementarias de administración financiera, de incidencia presupuestaria y personal:
+#### Artículo 117.-
+Introdúcense las siguientes modificaciones en la ley N° 18.591, que establece normas complementarias de administración financiera, de incidencia presupuestaria y personal:
 
 - Reemplázase en el artículo 79, la expresión "Valores y Seguros" por la expresión "Educación Superior".
 
@@ -1951,7 +1992,8 @@ Artículo 117.- Introdúcense las siguientes modificaciones en la ley N° 18.591
 
 - Reemplázase en el artículo 80 bis la expresión "Valores y Seguros" por la expresión "Educación Superior".
 
-Artículo 118.- Modifícase la ley N° 18.956, que reestructura el Ministerio de Educación Pública, en el siguiente sentido:
+#### Artículo 118.-
+Modifícase la ley N° 18.956, que reestructura el Ministerio de Educación Pública, en el siguiente sentido:
 
 - Intercálase en la letra i) del artículo 2 bis, a continuación de la palabra "Educación" la frase "o la Superintendencia de Educación Superior".
 
@@ -1981,7 +2023,8 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 - Derógase el artículo 8.
 
-Artículo 119.- Introdúcense las siguientes modificaciones en el decreto con fuerza de ley N° 2, de 2009, del Ministerio de Educación:
+#### Artículo 119.-
+Introdúcense las siguientes modificaciones en el decreto con fuerza de ley N° 2, de 2009, del Ministerio de Educación:
 
 - Agrégase en la letra d) del artículo 52, a continuación de la frase "Suboficiales de Carabineros de Chile," la frase "la Escuela de Gendarmería de Chile;".
 
@@ -2015,7 +2058,8 @@ Con todo, el Consejo Nacional de Educación podrá ampliar el período de verifi
 
 - Derógase el artículo 114.
 
-Artículo 120.- Introdúcense las siguientes modificaciones en la ley N° 20.800, que crea el administrador provisional y administrador de cierre de instituciones de educación superior y establece regulaciones en materia de administración provisional de sostenedores educacionales:
+#### Artículo 120.-
+Introdúcense las siguientes modificaciones en la ley N° 20.800, que crea el administrador provisional y administrador de cierre de instituciones de educación superior y establece regulaciones en materia de administración provisional de sostenedores educacionales:
 
 - Modifícase el artículo 3 en el siguiente sentido:
 
@@ -2151,13 +2195,15 @@ b) En el inciso cuarto, reemplázase la expresión "al Ministerio de Educación"
 
 "Artículo cuarto.- Para efectos de lo dispuesto en los artículos 13 letra g) y 24 de la presente ley, también podrán suscribirse convenios con instituciones de educación superior que cuenten con al menos cuatro años de acreditación conforme a lo previsto en la ley Nº 20.129 y sus modificaciones.".
 
-Artículo 121.- Las universidades privadas incluidas en el artículo 1 del decreto con fuerza de ley N° 4 de 1981, del Ministerio de Educación, tendrán un financiamiento permanente a través de un instrumento denominado "Aporte Basal por Desempeño".
+#### Artículo 121.-
+Las universidades privadas incluidas en el artículo 1 del decreto con fuerza de ley N° 4 de 1981, del Ministerio de Educación, tendrán un financiamiento permanente a través de un instrumento denominado "Aporte Basal por Desempeño".
 
 Los montos específicos de este instrumento de financiamiento serán establecidos en virtud de la Ley de Presupuestos del Sector Público de cada año. Las reglas de distribución de los recursos serán definidas mediante un decreto que dictará anualmente el Ministerio de Educación, suscrito además por el Ministro de Hacienda, basándose en criterios objetivos y considerando especialmente las necesidades específicas de cada institución. El citado instrumento considerará, al menos, los recursos de la asignación "Basal por Desempeño Universidades Art. 1° DFL. (Ed.) N° 4 de 1981" establecido en la ley N° 20.882.
 
 Las Universidades privadas incluidas en el artículo 1 del decreto con fuerza de ley N° 4 de 1981, del Ministerio de Educación, sólo deberán rendir los recursos del aporte regulado en el presente artículo al Ministerio de Educación, en la forma que éste defina mediante resolución.
 
-Artículo 122.- Derógase la ley N° 20.027, que establece Normas para el Financiamiento de Estudios de Educación Superior, a partir del 1 de enero de 2019. Dicha derogación entrará en vigencia siempre que comience a regir otro mecanismo de financiamiento de estudios de educación superior que lo reemplace, el cual será administrado por el Estado y será propuesto por el Presidente de la República a través de un proyecto de ley que presentará durante el año 2018.
+#### Artículo 122.-
+Derógase la ley N° 20.027, que establece Normas para el Financiamiento de Estudios de Educación Superior, a partir del 1 de enero de 2019. Dicha derogación entrará en vigencia siempre que comience a regir otro mecanismo de financiamiento de estudios de educación superior que lo reemplace, el cual será administrado por el Estado y será propuesto por el Presidente de la República a través de un proyecto de ley que presentará durante el año 2018.
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
 
@@ -2165,19 +2211,23 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 66]]
 
-Artículo 123.- El Ministerio de Hacienda deberá enviar a la Comisión Especial Mixta de Presupuestos del Congreso Nacional, en el mes de septiembre de cada año, un informe que detalle el gasto tributario que hubieren significado durante el año anterior las exenciones, franquicias y todo otro tipo de beneficio impositivo, de cualquier naturaleza, de que gocen las instituciones de educación superior.
+#### Artículo 123.-
+El Ministerio de Hacienda deberá enviar a la Comisión Especial Mixta de Presupuestos del Congreso Nacional, en el mes de septiembre de cada año, un informe que detalle el gasto tributario que hubieren significado durante el año anterior las exenciones, franquicias y todo otro tipo de beneficio impositivo, de cualquier naturaleza, de que gocen las instituciones de educación superior.
 
 Para tal efecto, las instituciones deberán preparar un reporte anual, desagregado por ítem de gasto, con indicación de las operaciones y sus características, el cual será remitido al Servicio de Impuestos Internos en la forma y plazo que éste determine mediante resolución dictada al efecto.
 
-Artículo 124.- El mayor gasto fiscal que irrogue la aplicación de esta ley se financiará con cargo al presupuesto del Ministerio de Educación y en lo que faltare con cargo a la Partida Presupuestaria Tesoro Público.
+#### Artículo 124.-
+El mayor gasto fiscal que irrogue la aplicación de esta ley se financiará con cargo al presupuesto del Ministerio de Educación y en lo que faltare con cargo a la Partida Presupuestaria Tesoro Público.
 
-### DISPOSICIONES TRANSITORIAS
+## DISPOSICIONES TRANSITORIAS
 
-Artículo primero.- La presente ley entrará en vigencia desde la fecha de su publicación, sin perjuicio de las excepciones que se establezcan en las siguientes disposiciones transitorias.
+#### Artículo primero.-
+La presente ley entrará en vigencia desde la fecha de su publicación, sin perjuicio de las excepciones que se establezcan en las siguientes disposiciones transitorias.
 
-Párrafo 1° De la transitoriedad de las normas relativas al Título I
+### Párrafo 1° De la transitoriedad de las normas relativas al Título I
 
-Artículo segundo.- Las instituciones de educación superior que a la fecha de entrada en vigencia de esta ley se encuentren bajo régimen de supervisión por parte del Ministerio de Educación, y aquellas que se encuentren bajo régimen de examinación por parte de otra institución de educación superior, tendrán el plazo de un año contado desde la entrada en funcionamiento de la Subsecretaría de Educación Superior para iniciar el proceso de licenciamiento administrado por el Consejo Nacional de Educación. En caso de no iniciar dicho proceso en el plazo indicado, el Ministerio de Educación iniciará el procedimiento de cancelación de la personalidad jurídica y revocación del reconocimiento oficial de conformidad a los artículos 64, 74 y 81 del decreto con fuerza de ley N° 2, de 2009, del Ministerio de Educación, según corresponda.
+#### Artículo segundo.-
+Las instituciones de educación superior que a la fecha de entrada en vigencia de esta ley se encuentren bajo régimen de supervisión por parte del Ministerio de Educación, y aquellas que se encuentren bajo régimen de examinación por parte de otra institución de educación superior, tendrán el plazo de un año contado desde la entrada en funcionamiento de la Subsecretaría de Educación Superior para iniciar el proceso de licenciamiento administrado por el Consejo Nacional de Educación. En caso de no iniciar dicho proceso en el plazo indicado, el Ministerio de Educación iniciará el procedimiento de cancelación de la personalidad jurídica y revocación del reconocimiento oficial de conformidad a los artículos 64, 74 y 81 del decreto con fuerza de ley N° 2, de 2009, del Ministerio de Educación, según corresponda.
 
 Para los efectos del presente artículo, se entenderá que la institución de educación superior ha iniciado el proceso de licenciamiento una vez que se cumplan las siguientes condiciones copulativas:
 
@@ -2195,11 +2245,14 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 concepto de verificación de proyectos institucionales establecidos en la circular respectiva.
 
-Artículo tercero.- Para los efectos de lo establecido en el artículo 6 de esta ley, se entenderá que las universidades que no han iniciado un nuevo proceso de acreditación, de conformidad a las modificaciones que establece el título IV del presente cuerpo normativo, cumplen con el requisito de la letra b) del referido artículo si cuentan con acreditación institucional de cinco o más años y tienen acreditada el área de investigación de conformidad con la ley N° 20.129.
+#### Artículo tercero.-
+Para los efectos de lo establecido en el artículo 6 de esta ley, se entenderá que las universidades que no han iniciado un nuevo proceso de acreditación, de conformidad a las modificaciones que establece el título IV del presente cuerpo normativo, cumplen con el requisito de la letra b) del referido artículo si cuentan con acreditación institucional de cinco o más años y tienen acreditada el área de investigación de conformidad con la ley N° 20.129.
 
-Artículo cuarto.- El Sistema de Acceso a las Instituciones de Educación Superior establecido en el párrafo 3° del título I de esta ley entrará en funcionamiento a partir del año 2020 para los procesos de admisión del año 2021.
+#### Artículo cuarto.-
+El Sistema de Acceso a las Instituciones de Educación Superior establecido en el párrafo 3° del título I de esta ley entrará en funcionamiento a partir del año 2020 para los procesos de admisión del año 2021.
 
-Artículo quinto.- Dentro del plazo de un año desde la publicación de la presente ley, el Ministerio de Educación implementará un piloto de Marco de Cualificaciones, de carácter referencial, asociado a la formación técnico profesional provista por los centros de formación técnica estatales creados por la ley N° 20.910 y al que podrán adherir también las instituciones privadas. El diseño de dicho programa deberá considerar la participación de las instituciones de educación superior de dicho subsistema, así como también representantes del sector público, el sector productivo, trabajadores y expertos.
+#### Artículo quinto.-
+Dentro del plazo de un año desde la publicación de la presente ley, el Ministerio de Educación implementará un piloto de Marco de Cualificaciones, de carácter referencial, asociado a la formación técnico profesional provista por los centros de formación técnica estatales creados por la ley N° 20.910 y al que podrán adherir también las instituciones privadas. El diseño de dicho programa deberá considerar la participación de las instituciones de educación superior de dicho subsistema, así como también representantes del sector público, el sector productivo, trabajadores y expertos.
 
 Adicionalmente, la Subsecretaría de Educación Superior, dentro del plazo de tres años contado desde la publicación de esta ley, deberá entregar al Ministro de Educación una propuesta de Marco de Cualificaciones que contenga: un diagnóstico sobre articulación entre los distintos niveles formativos del Sistema de Educación Superior en el subsistema técnico profesional, y entre la oferta formativa y el mundo del trabajo; una evaluación del programa piloto al que se refiere el inciso anterior; los objetivos y alcance que debiera tener un Marco de Cualificaciones en función de los requerimientos del país; un diseño de la institucionalidad encargada de su elaboración, revisión y actualización, y, finalmente, las modificaciones legales necesarias para su implementación.
 
@@ -2209,7 +2262,8 @@ Para efectos de lo establecido en este artículo, se entenderá que un Marco de 
 
 De lo señalado en este artículo, se informará, anualmente, a la Comisión de Educación de la Cámara de Diputados y a la Comisión de Educación y Cultura del Senado.
 
-Artículo sexto.- Facúltase al Presidente de la República para que, dentro del plazo de un año contado desde la fecha de publicación de esta ley, establezca mediante uno o más decretos con fuerza de ley, expedidos por el Ministerio de Educación, los que también deberán ser suscritos por el Ministro de Hacienda, las normas necesarias para regular las siguientes materias:
+#### Artículo sexto.-
+Facúltase al Presidente de la República para que, dentro del plazo de un año contado desde la fecha de publicación de esta ley, establezca mediante uno o más decretos con fuerza de ley, expedidos por el Ministerio de Educación, los que también deberán ser suscritos por el Ministro de Hacienda, las normas necesarias para regular las siguientes materias:
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
 
@@ -2237,7 +2291,8 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 - Fijar la fecha en que entrará en funcionamiento la Subsecretaría de Educación Superior y la fecha de supresión de la División de Educación Superior del Ministerio de Educación, la cual será la misma de entrada en vigencia del numeral 4) del artículo 118 de la presente ley.
 
-Artículo séptimo.- El ejercicio de las facultades señaladas en el artículo anterior, en lo relativo a personal, quedará sujeto a las siguientes condiciones:
+#### Artículo séptimo.-
+El ejercicio de las facultades señaladas en el artículo anterior, en lo relativo a personal, quedará sujeto a las siguientes condiciones:
 
 - No podrá tener como consecuencia ni podrá ser considerado como causal de término de servicios, supresión de cargos, cese de funciones o término de la relación laboral del personal. Tampoco podrá importar cambio de la residencia habitual de los funcionarios fuera de la región en que estén prestando sus servicios, salvo con su consentimiento.
 
@@ -2247,11 +2302,15 @@ Artículo séptimo.- El ejercicio de las facultades señaladas en el artículo a
 
 - Los funcionarios traspasados conservarán la asignación de antigüedad que tengan reconocida, así como también el tiempo computable para dicho reconocimiento.
 
-Artículo octavo.- El Presidente de la República, mediante decreto expedido por intermedio del Ministerio de Hacienda, conformará el primer presupuesto de la Subsecretaría de Educación Superior, pudiendo, al efecto, crear, suprimir o modificar los capítulos, programas, ítems, asignaciones y glosas presupuestarias que sean pertinentes.
+#### Artículo octavo.-
+El Presidente de la República, mediante decreto expedido por intermedio del Ministerio de Hacienda, conformará el primer presupuesto de la Subsecretaría de Educación Superior, pudiendo, al efecto, crear, suprimir o modificar los capítulos, programas, ítems, asignaciones y glosas presupuestarias que sean pertinentes.
 
-Artículo noveno.- Los procedimientos administrativos, de fiscalización y sancionatorios, iniciados con anterioridad a la vigencia de la presente ley, especialmente aquellos regidos por la ley N° 20.800, y que se sustancien ante la División de Educación Superior del Ministerio de Educación, continuarán su tramitación ante la Subsecretaría de Educación Superior desde la fecha de entrada en vigencia de esta última, de acuerdo a lo dispuesto en el numeral 6) del artículo sexto transitorio de esta ley, y conforme a las normas vigentes a la época de su iniciación, hasta su total terminación.
+#### Artículo noveno.-
+Los procedimientos administrativos, de fiscalización y sancionatorios, iniciados con anterioridad a la vigencia de la presente ley, especialmente aquellos regidos por la ley N° 20.800, y que se sustancien ante la División de Educación Superior del Ministerio de Educación, continuarán su tramitación ante la Subsecretaría de Educación Superior desde la fecha de entrada en vigencia de esta última, de acuerdo a lo dispuesto en el numeral 6) del artículo sexto transitorio de esta ley, y conforme a las normas vigentes a la época de su iniciación, hasta su total terminación.
 
-Párrafo 2° De la entrada en vigencia de la Superintendencia de Educación Superior Artículo décimo.- Desde la fecha de publicación de la presente ley, el Presidente de la República podrá nombrar al Superintendente de Educación Superior, quien asumirá de inmediato, y en tanto se efectúa el proceso de selección pertinente que establece la ley N° 19.882 para los cargos del Sistema de Alta Dirección Pública, tendrá derecho a una remuneración equivalente al grado 1 de la Escala de Fiscalizadores del decreto ley N° 3.551, de 1981, que será financiada con cargo al presupuesto del Ministerio de Educación mientras no entre en funcionamiento la Superintendencia de Educación Superior. Al Superintendente le corresponderá realizar todas las gestiones necesarias para la entrada en funcionamiento de dicha Superintendencia.
+### Párrafo 2° De la entrada en vigencia de la Superintendencia de Educación Superior
+#### Artículo décimo.-
+Desde la fecha de publicación de la presente ley, el Presidente de la República podrá nombrar al Superintendente de Educación Superior, quien asumirá de inmediato, y en tanto se efectúa el proceso de selección pertinente que establece la ley N° 19.882 para los cargos del Sistema de Alta Dirección Pública, tendrá derecho a una remuneración equivalente al grado 1 de la Escala de Fiscalizadores del decreto ley N° 3.551, de 1981, que será financiada con cargo al presupuesto del Ministerio de Educación mientras no entre en funcionamiento la Superintendencia de Educación Superior. Al Superintendente le corresponderá realizar todas las gestiones necesarias para la entrada en funcionamiento de dicha Superintendencia.
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
 
@@ -2259,7 +2318,8 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 70]]
 
-Artículo décimo primero.- Facúltase al Presidente de la República para que, dentro del plazo de un año contado desde la fecha de publicación de esta ley, establezca mediante uno o más decretos con fuerza de ley, expedidos por el Ministerio de Educación, los que también deberán ser suscritos por el Ministro de Hacienda, las normas necesarias para regular las siguientes materias:
+#### Artículo décimo primero.-
+Facúltase al Presidente de la República para que, dentro del plazo de un año contado desde la fecha de publicación de esta ley, establezca mediante uno o más decretos con fuerza de ley, expedidos por el Ministerio de Educación, los que también deberán ser suscritos por el Ministro de Hacienda, las normas necesarias para regular las siguientes materias:
 
 - Fijar la planta de personal de la Superintendencia de Educación Superior. El encasillamiento en esta planta, cuando proceda, podrá incluir personal del Ministerio de Educación.
 
@@ -2283,7 +2343,8 @@ Los requisitos para el desempeño de los cargos que se establezcan en el ejercic
 
 6) Fijar la fecha en que entrará en funcionamiento la Superintendencia de Educación Superior.
 
-Artículo décimo segundo.- El ejercicio de las facultades señaladas en el artículo anterior, en lo relativo a personal, quedará sujeto a las siguientes condiciones:
+#### Artículo décimo segundo.-
+El ejercicio de las facultades señaladas en el artículo anterior, en lo relativo a personal, quedará sujeto a las siguientes condiciones:
 
 - No podrá tener como consecuencia ni podrá ser considerado como causal de término de servicios, supresión de cargos, cese de funciones o término de la relación laboral del personal. Tampoco podrá importar cambio de la residencia habitual de los funcionarios fuera de la región en que estén prestando sus servicios, salvo con su consentimiento.
 
@@ -2293,7 +2354,8 @@ Artículo décimo segundo.- El ejercicio de las facultades señaladas en el art�
 
 - Los funcionarios traspasados conservarán la asignación de antigüedad que tengan reconocida, así como también el tiempo computable para dicho reconocimiento.
 
-Artículo décimo tercero.- El Presidente de la República, por decreto expedido por intermedio del Ministerio de Hacienda, conformará el primer presupuesto de la Superintendencia de Educación Superior, y transferirá a ella los fondos de las entidades que traspasan personal o bienes, necesarios para que se cumplan sus funciones, pudiendo al efecto, crear, suprimir o modificar los capítulos, programas, asignaciones, ítem y glosas presupuestarias que sean pertinentes.
+#### Artículo décimo tercero.-
+El Presidente de la República, por decreto expedido por intermedio del Ministerio de Hacienda, conformará el primer presupuesto de la Superintendencia de Educación Superior, y transferirá a ella los fondos de las entidades que traspasan personal o bienes, necesarios para que se cumplan sus funciones, pudiendo al efecto, crear, suprimir o modificar los capítulos, programas, asignaciones, ítem y glosas presupuestarias que sean pertinentes.
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
 
@@ -2301,23 +2363,31 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 72]]
 
-Artículo décimo cuarto.- Mediante decreto supremo expedido por intermedio del Ministerio de Bienes Nacionales, el que deberá también suscribir el Ministro de Educación, se determinarán los bienes muebles e inmuebles fiscales que se traspasarán a la Superintendencia de Educación Superior. El Superintendente de Educación Superior requerirá de las reparticiones correspondientes las inscripciones y anotaciones que procedan, con el solo mérito del decreto supremo antes mencionado.
+#### Artículo décimo cuarto.-
+Mediante decreto supremo expedido por intermedio del Ministerio de Bienes Nacionales, el que deberá también suscribir el Ministro de Educación, se determinarán los bienes muebles e inmuebles fiscales que se traspasarán a la Superintendencia de Educación Superior. El Superintendente de Educación Superior requerirá de las reparticiones correspondientes las inscripciones y anotaciones que procedan, con el solo mérito del decreto supremo antes mencionado.
 
-Artículo décimo quinto.- Las modificaciones establecidas en el artículo 120 entrarán en vigencia desde la fecha de entrada en funcionamiento de la Superintendencia de Educación Superior, de acuerdo a lo establecido en el número 6) del artículo décimo primero transitorio, a excepción de las indicadas en los números 5) y 7) letra a) del señalado artículo 120.
+#### Artículo décimo quinto.-
+Las modificaciones establecidas en el artículo 120 entrarán en vigencia desde la fecha de entrada en funcionamiento de la Superintendencia de Educación Superior, de acuerdo a lo establecido en el número 6) del artículo décimo primero transitorio, a excepción de las indicadas en los números 5) y 7) letra a) del señalado artículo 120.
 
-Párrafo 3° De la transición de las obligaciones de informar de las instituciones de educación superior
+### Párrafo 3° De la transición de las obligaciones de informar de las instituciones de educación superior
 
-Artículo décimo sexto.- Las obligaciones establecidas en el artículo 36 comenzarán a regir un año después a partir de la fecha en que la Superintendencia defina las respectivas normas contables.
+#### Artículo décimo sexto.-
+Las obligaciones establecidas en el artículo 36 comenzarán a regir un año después a partir de la fecha en que la Superintendencia defina las respectivas normas contables.
 
-Artículo décimo séptimo.- Las obligaciones de informar que establece el artículo 37 a las instituciones de educación superior, serán exigibles en el plazo de un año contado desde la publicación de la presente ley. Corresponderá al Ministerio de Educación, a través de la Subsecretaría de Educación Superior, ejercer las facultades que dicha norma confiere a la Superintendencia de Educación Superior en tanto ésta no inicie sus funciones.
+#### Artículo décimo séptimo.-
+Las obligaciones de informar que establece el artículo 37 a las instituciones de educación superior, serán exigibles en el plazo de un año contado desde la publicación de la presente ley. Corresponderá al Ministerio de Educación, a través de la Subsecretaría de Educación Superior, ejercer las facultades que dicha norma confiere a la Superintendencia de Educación Superior en tanto ésta no inicie sus funciones.
 
-Párrafo 4° De la transición a las nuevas regulaciones y prohibiciones aplicables a las instituciones de educación superior organizadas como personas jurídicas de derecho privado sin fines de lucro
+### Párrafo 4° De la transición a las nuevas regulaciones y prohibiciones aplicables a las instituciones de educación superior organizadas como personas jurídicas de derecho privado sin fines de lucro
 
-Artículo décimo octavo.- Las instituciones de educación superior, reconocidas oficialmente por el Estado al momento de la publicación de la presente ley, deberán dar cumplimiento a lo dispuesto en los artículos 64, 66, 67, 68, 69 y 70 de esta ley dentro del plazo de dos años contado desde su publicación.
+#### Artículo décimo octavo.-
+Las instituciones de educación superior, reconocidas oficialmente por el Estado al momento de la publicación de la presente ley, deberán dar cumplimiento a lo dispuesto en los artículos 64, 66, 67, 68, 69 y 70 de esta ley dentro del plazo de dos años contado desde su publicación.
 
-Artículo décimo noveno.- Las instituciones de educación superior tendrán un plazo de un año contado desde la publicación de esta ley para cumplir con las regulaciones y prohibiciones establecidas en los artículos 73 a 80.
+#### Artículo décimo noveno.-
+Las instituciones de educación superior tendrán un plazo de un año contado desde la publicación de esta ley para cumplir con las regulaciones y prohibiciones establecidas en los artículos 73 a 80.
 
-Párrafo 5° De las transiciones de los procedimientos de acreditación Artículo vigésimo.- El Comité de Coordinación a que se refiere el artículo 3 de la ley N° 20.129, deberá constituirse dentro del plazo de dos meses contado desde la fecha de inicio de actividades de la última de las instituciones que componen el Sistema Nacional de Aseguramiento de la Calidad de la Educación Superior.
+### Párrafo 5° De las transiciones de los procedimientos de acreditación
+#### Artículo vigésimo.-
+El Comité de Coordinación a que se refiere el artículo 3 de la ley N° 20.129, deberá constituirse dentro del plazo de dos meses contado desde la fecha de inicio de actividades de la última de las instituciones que componen el Sistema Nacional de Aseguramiento de la Calidad de la Educación Superior.
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
 
@@ -2327,13 +2397,15 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 A más tardar dentro de seis meses de constituido el Comité, deberá establecerse el primer Plan de Coordinación para el Mejoramiento de la Calidad de la Educación Superior del que trata la letra d) del artículo 4 de la ley N° 20.129.
 
-Artículo vigésimo primero.- Los numerales 15, en lo relativo a la obligatoriedad de la acreditación, 17, 21, 23, en cuanto a la acreditación basada en niveles, 24 y 27 del artículo 81 de esta ley, que modifica la ley Nº 20.129, entrarán en vigencia a contar del 1 de enero de 2020.                                                           Ley 21186
+#### Artículo vigésimo primero.-
+Los numerales 15, en lo relativo a la obligatoriedad de la acreditación, 17, 21, 23, en cuanto a la acreditación basada en niveles, 24 y 27 del artículo 81 de esta ley, que modifica la ley Nº 20.129, entrarán en vigencia a contar del 1 de enero de 2020.                                                           Ley 21186
 
 Los numerales 15, en cuanto a la integralidad y muestra    Art. 1 N° 2 intencionada, 16 y 18 entrarán en vigencia junto con los        D.O. 21.11.2019 nuevos criterios y estándares, según lo dispuesto en el inciso cuarto del artículo vigésimo segundo transitorio.
 
 Por su parte, las disposiciones del artículo 81 de la presente ley que modifican el capítulo III de la ley N° 20.129 entrarán en vigencia una vez que inicie su funcionamiento la Subsecretaría de Educación Superior de conformidad con el artículo sexto transitorio.
 
-Artículo vigésimo segundo.- La Comisión Nacional de Acreditación deberá elaborar una primera propuesta de los criterios y estándares de los que trata el nuevo artículo 18 de la ley N° 20.129 que se entregará al Comité Coordinador, para su opinión, dentro del plazo de tres meses contado desde la fecha en que el Comité se haya constituido.                                                    Ley 21186
+#### Artículo vigésimo segundo.-
+La Comisión Nacional de Acreditación deberá elaborar una primera propuesta de los criterios y estándares de los que trata el nuevo artículo 18 de la ley N° 20.129 que se entregará al Comité Coordinador, para su opinión, dentro del plazo de tres meses contado desde la fecha en que el Comité se haya constituido.                                                    Ley 21186
 
 Para estos efectos, la Comisión Nacional de                Art. 1 N° 3 a) Acreditación deberá iniciar el proceso de consulta del que      D.O. 21.11.2019 trata el inciso segundo del nuevo artículo 18 de la ley N° 20.129 dentro del plazo de ocho meses de publicada esta ley.
 
@@ -2341,7 +2413,8 @@ Con todo, dichos criterios y estándares de calidad deberán estar aprobados y p
 
 Los nuevos criterios y estándares de calidad sólo          Art. 1 N° 3 b) y c) serán aplicables a aquellos procesos de acreditación            D.O. 21.11.2019 iniciados una vez trascurridos veinticuatro meses desde la fecha de su publicación. A los procesos iniciados con anterioridad se aplicarán las pautas y dimensiones de evaluación vigentes a la fecha de entrada en vigor de esta ley.
 
-Artículo vigésimo tercero.- La obligación de las instituciones de educación superior autónomas de estar acreditadas institucionalmente, de conformidad con lo establecido en el nuevo artículo 15 de la ley N° 20.129, entrará en vigencia a partir del 1 de enero del año 2020.
+#### Artículo vigésimo tercero.-
+La obligación de las instituciones de educación superior autónomas de estar acreditadas institucionalmente, de conformidad con lo establecido en el nuevo artículo 15 de la ley N° 20.129, entrará en vigencia a partir del 1 de enero del año 2020.
 
 Con todo, a aquellas instituciones de educación superior autónomas que no se encontraren acreditadas institucionalmente al 1 de enero del año 2020, no les será aplicable lo dispuesto en el nuevo artículo 22 de la ley N° 20.129, sino hasta la dictación de la resolución final que pone término al proceso de acreditación institucional, de conformidad con lo dispuesto en el artículo vigésimo séptimo transitorio.
 
@@ -2353,13 +2426,15 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 Las acreditaciones institucionales otorgadas por la Comisión Nacional de Acreditación con anterioridad al 1 de enero de 2020 mantendrán su vigencia por el plazo que fueron otorgadas y se entenderá, para todos los efectos legales, que dan cumplimiento a la obligación establecida en el inciso primero de este artículo.
 
-Artículo vigésimo cuarto.- La obligación de acreditar las carreras y programas de estudio conducentes al título profesional de médico cirujano y cirujano dentista y los programas de doctorado, de conformidad con los numerales 31 y 41 del artículo 81 de esta ley, respectivamente, entrará en vigencia a partir del 1 de enero del año 2020.                                             Ley 21186
+#### Artículo vigésimo cuarto.-
+La obligación de acreditar las carreras y programas de estudio conducentes al título profesional de médico cirujano y cirujano dentista y los programas de doctorado, de conformidad con los numerales 31 y 41 del artículo 81 de esta ley, respectivamente, entrará en vigencia a partir del 1 de enero del año 2020.                                             Ley 21186
 
 Con todo, a aquellas carreras y programas que no se        Art. 1 N° 4 encontraren acreditados al 1 de enero del año 2020, no les      D.O. 21.11.2019 será aplicable lo dispuesto en el nuevo artículo 27 quinquies de la ley N° 20.129 sino hasta la dictación de la resolución final que pone término al proceso de acreditación de dichas carreras y programas, de conformidad con lo dispuesto en el artículo vigésimo séptimo transitorio.
 
 Aquellas carreras y programas de estudio a los que la Comisión Nacional de Acreditación o una agencia acreditadora les otorgó la acreditación con anterioridad al 1 de enero de 2020 mantendrán la vigencia de la misma por el plazo que fueron otorgadas y se entenderá, para todos los efectos legales, que dan cumplimiento a la obligación señalada en el inciso primero de este artículo.
 
-Artículo vigésimo quinto.- Aquellas instituciones de educación superior no acreditadas a la fecha de publicación de la presente ley podrán iniciar procesos de acreditación institucional ante la Comisión Nacional de Acreditación sólo hasta el 31 de mayo de 2019. Por su parte, aquellas instituciones cuyas acreditaciones institucionales vencieren durante los años 2018 y 2019 podrán iniciar sus procedimientos de acreditación de conformidad con la normativa vigente.
+#### Artículo vigésimo quinto.-
+Aquellas instituciones de educación superior no acreditadas a la fecha de publicación de la presente ley podrán iniciar procesos de acreditación institucional ante la Comisión Nacional de Acreditación sólo hasta el 31 de mayo de 2019. Por su parte, aquellas instituciones cuyas acreditaciones institucionales vencieren durante los años 2018 y 2019 podrán iniciar sus procedimientos de acreditación de conformidad con la normativa vigente.
 
 Asimismo, aquellas instituciones de educación superior que dicten carreras y programas de estudio conducentes al título profesional de médico cirujano y cirujano dentista así como también programas de doctorado, no acreditadas a la fecha de publicación de la presente ley podrán iniciar sus procesos de acreditación ante la Comisión Nacional de Acreditación sólo hasta el 31 de mayo de 2019.                  Ley 21186
 
@@ -2367,7 +2442,8 @@ Art. 1 N° 5
 
 D.O. 21.11.2019
 
-Artículo vigésimo sexto.- La Comisión Nacional de Acreditación deberá notificar antes del 15 de enero de 2020 a aquellas instituciones de educación superior autónomas, cuyas acreditaciones institucionales vencieren durante dicho año, la fecha de inicio de sus respectivos procesos de acreditación institucional.
+#### Artículo vigésimo sexto.-
+La Comisión Nacional de Acreditación deberá notificar antes del 15 de enero de 2020 a aquellas instituciones de educación superior autónomas, cuyas acreditaciones institucionales vencieren durante dicho año, la fecha de inicio de sus respectivos procesos de acreditación institucional.
 
 Asimismo, la Comisión notificará a aquellas universidades que impartan carreras y programas de acreditación obligatoria, cuyas acreditaciones vencieren durante el 2020, la fecha de inicio de sus respectivos procesos de acreditación.
 
@@ -2379,7 +2455,8 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 75]]
 
-Artículo vigésimo séptimo.- Aquellas instituciones de educación superior autónomas y las carreras y programas de estudio conducentes al título profesional de médico cirujano y cirujano dentista así como también programas de doctorado, no acreditadas o que no hubieren iniciado un proceso de acreditación con anterioridad al 31 de mayo del año 2019, se sujetarán a las siguientes reglas para el inicio de sus procesos de acreditación obligatoria:             Ley 21186
+#### Artículo vigésimo séptimo.-
+Aquellas instituciones de educación superior autónomas y las carreras y programas de estudio conducentes al título profesional de médico cirujano y cirujano dentista así como también programas de doctorado, no acreditadas o que no hubieren iniciado un proceso de acreditación con anterioridad al 31 de mayo del año 2019, se sujetarán a las siguientes reglas para el inicio de sus procesos de acreditación obligatoria:             Ley 21186
 
 Art. 1 N° 6
 
@@ -2387,15 +2464,19 @@ Art. 1 N° 6
 
 - La Comisión Nacional de Acreditación comenzará a tramitar dichos procesos de acreditación según el orden establecido de conformidad con el numeral anterior, a partir del 1 de enero del año 2020, los que no podrán extenderse más allá del año 2024.
 
-Artículo vigésimo octavo.- Las carreras y programas conducentes al título profesional de médico cirujano y cirujano dentista que a la fecha de entrada en vigencia de esta ley se encontraren en proceso de acreditación ante agencias de acreditación continuarán con dicho proceso hasta su finalización. Dichos procesos no podrán extenderse más allá del 31 de diciembre de 2019.
+#### Artículo vigésimo octavo.-
+Las carreras y programas conducentes al título profesional de médico cirujano y cirujano dentista que a la fecha de entrada en vigencia de esta ley se encontraren en proceso de acreditación ante agencias de acreditación continuarán con dicho proceso hasta su finalización. Dichos procesos no podrán extenderse más allá del 31 de diciembre de 2019.
 
-Artículo vigésimo noveno.- En los procedimientos de acreditación institucional de universidades, institutos profesionales y centros de formación técnica iniciados dentro del plazo de siete años, contado desde la publicación de la presente ley, no será exigible para obtener la acreditación institucional la dimensión de vinculación con el medio.
+#### Artículo vigésimo noveno.-
+En los procedimientos de acreditación institucional de universidades, institutos profesionales y centros de formación técnica iniciados dentro del plazo de siete años, contado desde la publicación de la presente ley, no será exigible para obtener la acreditación institucional la dimensión de vinculación con el medio.
 
 Sin perjuicio de lo anterior, en todos los procesos de acreditación deberá evaluarse el cumplimiento de los criterios y estándares correspondientes a todas y cada una de las dimensiones señaladas en el inciso tercero del nuevo artículo 17 de la ley N° 20.129.
 
-Artículo trigésimo.- El nuevo artículo 30 de la ley N° 20.129, incorporado por el numeral 38) del artículo 81, entrará en vigencia a partir del 31 de diciembre de 2024.
+#### Artículo trigésimo.-
+El nuevo artículo 30 de la ley N° 20.129, incorporado por el numeral 38) del artículo 81, entrará en vigencia a partir del 31 de diciembre de 2024.
 
-Artículo trigésimo bis.- Las carreras y programas de pregrado y los programas de postgrado correspondientes a magíster, especialidades médicas y odontológicas y otros niveles equivalentes que obedezcan a otra denominación, respecto de las cuales, a la fecha de entrada en vigencia de esta ley, las instituciones de Educación Superior ya hubiesen celebrado con las agencias acreditadoras los correspondientes contratos para efecto de los procesos de acreditación, y éstos hubiesen sido informados oportunamente por las respectivas agencias a la Comisión Nacional de Acreditación en virtud del mecanismo de supervisión correspondiente, continuarán con dicho proceso ante las agencias acreditadoras, hasta su término, el cual no podrá exceder del 31 de diciembre de 2019. Las decisiones de acreditación adoptadas en estos procesos mantendrán su vigencia por el plazo que sean otorgadas.         Ley 21186
+#### Artículo trigésimo bis.-
+Las carreras y programas de pregrado y los programas de postgrado correspondientes a magíster, especialidades médicas y odontológicas y otros niveles equivalentes que obedezcan a otra denominación, respecto de las cuales, a la fecha de entrada en vigencia de esta ley, las instituciones de Educación Superior ya hubiesen celebrado con las agencias acreditadoras los correspondientes contratos para efecto de los procesos de acreditación, y éstos hubiesen sido informados oportunamente por las respectivas agencias a la Comisión Nacional de Acreditación en virtud del mecanismo de supervisión correspondiente, continuarán con dicho proceso ante las agencias acreditadoras, hasta su término, el cual no podrá exceder del 31 de diciembre de 2019. Las decisiones de acreditación adoptadas en estos procesos mantendrán su vigencia por el plazo que sean otorgadas.         Ley 21186
 
 Para los efectos señalados en el inciso anterior,          Art. 1 N° 7 hasta que concluyan estos procesos, la Comisión Nacional de     D.O. 21.11.2019 Acreditación mantendrá sus facultades de supervisión sobre las agencias acreditadoras y éstas deberán cumplir sus obligaciones de conformidad a las normas vigentes al momento de su contratación.
 
@@ -2405,23 +2486,28 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 76]]
 
-Artículo trigésimo ter.- Las instituciones de educación superior podrán apelar de las decisiones adoptadas por la Comisión Nacional de Acreditación o por una agencia acreditadora, según sea el caso, en los procesos de acreditación institucional y de carreras y programas de estudio de pregrado y postgrado, que se encontraban en curso a la fecha de entrada en vigencia de esta ley.                                                       Ley 21186
+#### Artículo trigésimo ter.-
+Las instituciones de educación superior podrán apelar de las decisiones adoptadas por la Comisión Nacional de Acreditación o por una agencia acreditadora, según sea el caso, en los procesos de acreditación institucional y de carreras y programas de estudio de pregrado y postgrado, que se encontraban en curso a la fecha de entrada en vigencia de esta ley.                                                       Ley 21186
 
 Las decisiones de acreditación adoptadas por las           Art. 1 N° 7 agencias acreditadoras serán apelables ante la Comisión         D.O. 21.11.2019 Nacional de Acreditación dentro del plazo de treinta días contado desde la fecha de comunicación de la decisión de acreditación recurrida. La Comisión se pronunciará, por resolución fundada, dentro del plazo de treinta días contado desde la fecha de presentación del recurso.
 
 Las decisiones de acreditación adoptadas por la Comisión Nacional de Acreditación serán apelables ante el Consejo Nacional de Educación dentro del plazo de quince días hábiles, a contar de la fecha de notificación de la decisión recurrida. El Consejo tendrá el plazo de treinta días hábiles para resolver. Lo anterior se entiende sin perjuicio de la interposición del recurso de reposición ante la misma Comisión.
 
-Artículo trigésimo primero.- Se entenderá que la Universidad de Aysén y la Universidad de O'Higgins, creadas mediante la ley N° 20.842, así como también los centros de formación técnica estatales creados mediante la ley N° 20.910, cumplen con la obligación señalada en el inciso primero del artículo 15 de la ley N° 20.129, incorporada por el numeral 15 del artículo 81 de esta ley, mientras den cumplimiento a lo dispuesto en el artículo cuarto transitorio de la ley N° 20.842, y el artículo tercero transitorio de la ley N° 20.910. Vencidos tales plazos, dichas instituciones deberán acreditarse de conformidad a lo dispuesto en la ley N° 20.129.
+#### Artículo trigésimo primero.-
+Se entenderá que la Universidad de Aysén y la Universidad de O'Higgins, creadas mediante la ley N° 20.842, así como también los centros de formación técnica estatales creados mediante la ley N° 20.910, cumplen con la obligación señalada en el inciso primero del artículo 15 de la ley N° 20.129, incorporada por el numeral 15 del artículo 81 de esta ley, mientras den cumplimiento a lo dispuesto en el artículo cuarto transitorio de la ley N° 20.842, y el artículo tercero transitorio de la ley N° 20.910. Vencidos tales plazos, dichas instituciones deberán acreditarse de conformidad a lo dispuesto en la ley N° 20.129.
 
-Párrafo 6° De la designación de los integrantes de la Comisión Nacional de Acreditación
+### Párrafo 6° De la designación de los integrantes de la Comisión Nacional de Acreditación
 
-Artículo trigésimo segundo.- La designación de los integrantes de la Comisión Nacional de Acreditación, de conformidad con lo establecido en la presente ley, deberá efectuarse dentro del plazo de nueve meses contado desde su publicación.
+#### Artículo trigésimo segundo.-
+La designación de los integrantes de la Comisión Nacional de Acreditación, de conformidad con lo establecido en la presente ley, deberá efectuarse dentro del plazo de nueve meses contado desde su publicación.
 
 Con el objeto de permitir la renovación parcial de los integrantes de la Comisión Nacional de Acreditación, la mitad de los consejeros señalados en las letras a) y b), y el consejero de la letra c) del artículo 7 de la ley N° 20.129, incorporado por el numeral 7 del artículo 81 de esta ley, serán nombrados por un período de tres años. En el acto de nombramiento deberá constar la circunstancia de ejercerse el cargo por este período especial.
 
 Por su parte, los representantes estudiantiles que integran la Comisión a la fecha de la publicación de esta ley, se mantendrán en sus cargos hasta el vencimiento de su período, momento en el cual tendrán que ser reemplazados en conformidad a la normativa vigente.
 
-Párrafo 7° De las transiciones del financiamiento institucional para la gratuidad Artículo trigésimo tercero.- Las instituciones de educación superior que a la fecha de publicación de esta
+### Párrafo 7° De las transiciones del financiamiento institucional para la gratuidad
+#### Artículo trigésimo tercero.-
+Las instituciones de educación superior que a la fecha de publicación de esta
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
 
@@ -2441,7 +2527,8 @@ Para estos efectos se entenderá que las instituciones de educación superior qu
 
 Para efectos del cumplimiento de las letras c) y d) del artículo 83 se estará a lo dispuesto en el artículo cuadragésimo transitorio.
 
-Artículo trigésimo cuarto.- Las instituciones de educación superior que reciban el financiamiento institucional para la gratuidad cumplirán la obligación señalada en la letra c) del artículo 87 de conformidad a lo señalado en el siguiente cronograma y a lo dispuesto en dicho título.
+#### Artículo trigésimo cuarto.-
+Las instituciones de educación superior que reciban el financiamiento institucional para la gratuidad cumplirán la obligación señalada en la letra c) del artículo 87 de conformidad a lo señalado en el siguiente cronograma y a lo dispuesto en dicho título.
 
 - Desde el año 2018 hasta el año en que se verifique lo dispuesto en la letra siguiente, las instituciones de educación superior deberán otorgar estudios gratuitos a sus estudiantes de conformidad a lo dispuesto en el párrafo 5° del título V, siempre que dichos estudiantes provengan de los hogares pertenecientes a los seis primeros deciles de menores ingresos de la población del país.
 
@@ -2465,7 +2552,8 @@ Desde el año 2020, el Ministerio de Hacienda verificará, a más tardar el 15 d
 
 Un reglamento del Ministerio de Hacienda, que deberá ser firmado por el Ministro de Educación, regulará las materias señaladas en el presente artículo.
 
-Artículo trigésimo quinto.- Las instituciones de educación superior que reciban el financiamiento institucional para la gratuidad, cumplirán la obligación señalada en la letra a) del artículo 87 de conformidad a lo señalado en el artículo trigésimo cuarto anterior y a lo dispuesto en el título V de la presente ley.
+#### Artículo trigésimo quinto.-
+Las instituciones de educación superior que reciban el financiamiento institucional para la gratuidad, cumplirán la obligación señalada en la letra a) del artículo 87 de conformidad a lo señalado en el artículo trigésimo cuarto anterior y a lo dispuesto en el título V de la presente ley.
 
 Las instituciones de educación superior podrán cobrar como máximo los derechos básicos de matrícula y el arancel regulado más un porcentaje adicional de éstos, fijados para la carrera o programa de estudio respectivo, a:
 
@@ -2489,11 +2577,13 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 Sin perjuicio de lo dispuesto en los incisos anteriores, para el caso de los estudiantes extranjeros que no cumplan lo dispuesto en la letra a) del artículo 103 o aquellos estudiantes que se encuentren matriculados en carreras o programas de estudio no comprendidos en el artículo 104 o aquellos estudiantes que provengan de hogares pertenecientes al décimo decil, no se les aplicarán las limitaciones anteriores.
 
-Artículo trigésimo sexto.- Para la determinación de los deciles señalados en el artículo anterior, el Ministerio de Educación podrá solicitar a los estudiantes, la presentación de antecedentes en el Formulario Único de Acreditación Socioeconómica (FUAS). El Ministerio de Educación podrá verificar y complementar la información proporcionada por los estudiantes para acceder a este beneficio, pudiendo solicitar antecedentes a diversas entidades públicas y privadas, considerando entre otros, el instrumento establecido en el artículo 5 de la ley N° 20.379.
+#### Artículo trigésimo sexto.-
+Para la determinación de los deciles señalados en el artículo anterior, el Ministerio de Educación podrá solicitar a los estudiantes, la presentación de antecedentes en el Formulario Único de Acreditación Socioeconómica (FUAS). El Ministerio de Educación podrá verificar y complementar la información proporcionada por los estudiantes para acceder a este beneficio, pudiendo solicitar antecedentes a diversas entidades públicas y privadas, considerando entre otros, el instrumento establecido en el artículo 5 de la ley N° 20.379.
 
 Sin perjuicio de lo anterior, a partir del año 2020, se utilizará el instrumento establecido en el artículo 5 de la ley N° 20.379.
 
-Artículo trigésimo séptimo.- La primera resolución exenta que establezca las primeras bases técnicas para el cálculo del arancel regulado, derechos básicos de matrícula y cobros por concepto de titulación o graduación para uno o más grupos de carreras, deberá dictarse dentro del plazo de dos años contado desde la fecha de publicación de la ley. Para estos efectos, se aplicará el procedimiento regulado en los incisos siguientes.
+#### Artículo trigésimo séptimo.-
+La primera resolución exenta que establezca las primeras bases técnicas para el cálculo del arancel regulado, derechos básicos de matrícula y cobros por concepto de titulación o graduación para uno o más grupos de carreras, deberá dictarse dentro del plazo de dos años contado desde la fecha de publicación de la ley. Para estos efectos, se aplicará el procedimiento regulado en los incisos siguientes.
 
 La Subsecretaría deberá presentar a la Comisión de Expertos, establecida en el párrafo 3° del título V, una primera propuesta de bases técnicas a que se refiere este artículo, debiendo considerar previamente un proceso de consulta, de conformidad a los incisos primero y segundo del artículo 91.
 
@@ -2501,7 +2591,8 @@ La Comisión deberá pronunciarse dentro del plazo de tres meses, aprobando dich
 
 Para la determinación de los valores señalados en el inciso primero, se estará a lo dispuesto en el artículo 92 de la presente ley.
 
-Artículo trigésimo octavo.- Mientras no se encuentren vigentes la o las resoluciones exentas que establezcan los valores regulados de arancel, derechos básicos de matrícula y cobros por concepto de titulación o graduación de un grupo de carreras o programas de estudio determinado, dictadas en conformidad a lo establecido en el título V de esta ley, el cálculo del arancel regulado y los derechos básicos de matrícula para dicho grupo, se realizará de conformidad a lo dispuesto en los incisos siguientes.
+#### Artículo trigésimo octavo.-
+Mientras no se encuentren vigentes la o las resoluciones exentas que establezcan los valores regulados de arancel, derechos básicos de matrícula y cobros por concepto de titulación o graduación de un grupo de carreras o programas de estudio determinado, dictadas en conformidad a lo establecido en el título V de esta ley, el cálculo del arancel regulado y los derechos básicos de matrícula para dicho grupo, se realizará de conformidad a lo dispuesto en los incisos siguientes.
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
 
@@ -2531,7 +2622,8 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 Si algún programa de estudios no tuviera información del arancel real o derechos básicos de matrícula según lo considerado en el inciso anterior, se utilizará el valor correspondiente al primer valor del arancel real y derecho básico de matrícula que registre el programa de estudio, el que será reajustado de conformidad a la variación que experimente el Índice de Precios al Consumidor entre enero del primer año de registro y noviembre del año anterior para el cual se calculan los valores.
 
-Artículo trigésimo noveno.- Dentro del plazo de un año contado desde la fecha de publicación de esta ley, deberá procederse al nombramiento de los profesionales que integrarán la Comisión de Expertos y a la instalación del mismo, de acuerdo al procedimiento establecido en el párrafo 3° del título V.
+#### Artículo trigésimo noveno.-
+Dentro del plazo de un año contado desde la fecha de publicación de esta ley, deberá procederse al nombramiento de los profesionales que integrarán la Comisión de Expertos y a la instalación del mismo, de acuerdo al procedimiento establecido en el párrafo 3° del título V.
 
 Para los efectos de la renovación parcial de la Comisión de Expertos, el período inicial de vigencia del nombramiento de los integrantes será:
 
@@ -2539,7 +2631,8 @@ a) De tres años para dos de sus integrantes. b) De cuatro años para dos de sus
 
 Lo anterior se aplicará de conformidad a la designación que efectúe el Consejo de Alta Dirección Pública, establecido en la ley N° 19.882, el cual oficiará al Ministro de Educación, para efectos de que curse la correspondiente resolución de nombramiento.
 
-Artículo cuadragésimo.- Aquellas instituciones de educación superior que soliciten acceder al financiamiento institucional para la gratuidad, deberán dar cumplimiento a los requisitos establecidos en el artículo 83 de conformidad a lo dispuesto en el presente artículo.
+#### Artículo cuadragésimo.-
+Aquellas instituciones de educación superior que soliciten acceder al financiamiento institucional para la gratuidad, deberán dar cumplimiento a los requisitos establecidos en el artículo 83 de conformidad a lo dispuesto en el presente artículo.
 
 Los requisitos de las letras a) y b) del artículo 83 serán exigibles desde la fecha de publicación de la presente ley. Para estos efectos se entenderá que las instituciones de educación superior que no han iniciado un nuevo proceso de acreditación de conformidad a las modificaciones que establece el título IV del presente cuerpo normativo, cumplen con el requisito de la letra a) del referido artículo si cuentan con acreditación institucional de cuatro o más años de conformidad con la ley N° 20.129 y de acuerdo al inciso final del artículo vigésimo tercero transitorio de la presente ley. Para dar cumplimiento a lo establecido en la letra b) del referido artículo, las instituciones de educación superior deberán modificar los actos o contratos que hayan otorgado o celebrado para cumplir con lo establecido en los artículos 73 a 80 de la presente ley.
 
@@ -2557,9 +2650,11 @@ idéntica proporción. Respecto del requisito establecido en la letra d) del
 
 artículo 83, éste entrará en vigencia un año después de la entrada en funcionamiento de la Subsecretaría.
 
-Artículo cuadragésimo primero.- Para el ingreso de las instituciones al financiamiento institucional para la gratuidad para el año siguiente a la publicación de la presente ley, el plazo señalado en el inciso primero del artículo 84, se extenderá hasta el 15 de octubre del año de publicación.
+#### Artículo cuadragésimo primero.-
+Para el ingreso de las instituciones al financiamiento institucional para la gratuidad para el año siguiente a la publicación de la presente ley, el plazo señalado en el inciso primero del artículo 84, se extenderá hasta el 15 de octubre del año de publicación.
 
-Artículo cuadragésimo segundo.- Lo dispuesto en el párrafo 4° del título V entrará en vigencia el año siguiente a la entrada en vigencia del Sistema de Acceso regulado en el párrafo 3° del título I.
+#### Artículo cuadragésimo segundo.-
+Lo dispuesto en el párrafo 4° del título V entrará en vigencia el año siguiente a la entrada en vigencia del Sistema de Acceso regulado en el párrafo 3° del título I.
 
 Mientras no entre en vigencia lo dispuesto en el inciso anterior, el número de estudiantes nuevos matriculados para cursar las carreras o programas de estudios señalados en el artículo 104 para el año académico correspondiente, no podrá superar en un 2,7% de los estudiantes nuevos matriculados en el año inmediatamente anterior en dichos programas. Podrá autorizarse un incremento superior al 2,7% antes señalado en los programas de estudio con admisión regular de las instituciones que se encuentren adscritas al financiamiento institucional para la gratuidad regulado en esta ley, si éste obedece a decisiones institucionales adoptadas antes del 31 de diciembre de 2015, o derivadas de requerimientos formulados por la Comisión Nacional de Acreditación como resultado del último proceso de acreditación institucional, o que sean producto de la participación de la institución en el Programa de Acompañamiento y Acceso Efectivo (PACE), o aquellas convenidas, de manera excepcional, entre el Ministerio de Educación y las instituciones que adscriban al financiamiento institucional para la gratuidad regulado en la presente ley, que tengan como objetivo apoyar el desarrollo estratégico del país y sus regiones. En este último caso, la referida autorización se realizará mediante resolución fundada del Ministerio de Educación, la que deberá ser visada por la Dirección de Presupuestos.
 
@@ -2567,9 +2662,10 @@ En caso que el incremento total de estudiantes nuevos matriculados supere el lí
 
 Lo dispuesto en el párrafo anterior, también será aplicable en caso que una universidad adscrita al financiamiento institucional para la gratuidad regulado en la presente ley, incumpla lo dispuesto en el inciso cuarto del artículo cuadragésimo transitorio.
 
-Párrafo 8° De las transiciones a otras disposiciones de esta ley
+### Párrafo 8° De las transiciones a otras disposiciones de esta ley
 
-Artículo cuadragésimo tercero.- Lo dispuesto en el artículo 117 comenzará a regir un año después de la entrada en funcionamiento de la Superintendencia de Educación Superior.
+#### Artículo cuadragésimo tercero.-
+Lo dispuesto en el artículo 117 comenzará a regir un año después de la entrada en funcionamiento de la Superintendencia de Educación Superior.
 
 Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
 
@@ -2577,21 +2673,24 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 83]]
 
-Artículo cuadragésimo cuarto.- Los numerales 1, 2, 4 y 5 del artículo 119 entrarán en vigencia una vez que la Escuela de Gendarmería de Chile adecue sus requisitos de ingreso, planes y programas a las normativas de educación superior. Este requisito se verificará fundadamente a través de un decreto del Ministerio de Justicia y Derechos Humanos, con la firma del Ministro o Ministra de Educación, previo informe favorable de la Subsecretaría de Educación Superior.
+#### Artículo cuadragésimo cuarto.-
+Los numerales 1, 2, 4 y 5 del artículo 119 entrarán en vigencia una vez que la Escuela de Gendarmería de Chile adecue sus requisitos de ingreso, planes y programas a las normativas de educación superior. Este requisito se verificará fundadamente a través de un decreto del Ministerio de Justicia y Derechos Humanos, con la firma del Ministro o Ministra de Educación, previo informe favorable de la Subsecretaría de Educación Superior.
 
 Con todo, los cursos de formación que se estuvieren impartiendo a la fecha de entrada en vigor del decreto referido en el inciso anterior no conducirán a la obtención de títulos técnicos de nivel superior o profesionales, según corresponda.
 
-Artículo cuadragésimo quinto.- En el plazo de un año contado desde la publicación de la presente ley, la Comisión Administradora del Sistema de Créditos para Estudios Superiores entregará a las comisiones de Educación y de Hacienda de la Cámara de Diputados un informe sobre el estado general de los instrumentos de financiamiento crediticio regulados por las leyes N° 20.027 y N° 19.287, y otros análogos, incluyendo en su informe, a lo menos, un balance general que dé cuenta del porcentaje de cumplimiento e incumplimiento de las obligaciones contraídas; información respecto a los créditos que se encuentren en un proceso de cobranza judicial, precisando la etapa procesal correspondiente en que se encuentren; una caracterización socioeconómica de los deudores de acuerdo a instrumentos de medición generalmente aceptados para ello y un monto estimado de las obligaciones exigibles a esa fecha, distinguiendo aquellas cuyo acreedor es una entidad privada, de las que son estatales.
+#### Artículo cuadragésimo quinto.-
+En el plazo de un año contado desde la publicación de la presente ley, la Comisión Administradora del Sistema de Créditos para Estudios Superiores entregará a las comisiones de Educación y de Hacienda de la Cámara de Diputados un informe sobre el estado general de los instrumentos de financiamiento crediticio regulados por las leyes N° 20.027 y N° 19.287, y otros análogos, incluyendo en su informe, a lo menos, un balance general que dé cuenta del porcentaje de cumplimiento e incumplimiento de las obligaciones contraídas; información respecto a los créditos que se encuentren en un proceso de cobranza judicial, precisando la etapa procesal correspondiente en que se encuentren; una caracterización socioeconómica de los deudores de acuerdo a instrumentos de medición generalmente aceptados para ello y un monto estimado de las obligaciones exigibles a esa fecha, distinguiendo aquellas cuyo acreedor es una entidad privada, de las que son estatales.
 
-Artículo cuadragésimo sexto.- En el plazo de tres años contados desde la publicación de la presente ley, la Subsecretaría de Educación Superior presentará una propuesta de actualización de la estructura de títulos y grados del sistema de educación superior chilena contenida en el artículo 54 del decreto con fuerza de ley N° 2, de 2009, del Ministerio de Educación.".
+#### Artículo cuadragésimo sexto.-
+En el plazo de tres años contados desde la publicación de la presente ley, la Subsecretaría de Educación Superior presentará una propuesta de actualización de la estructura de títulos y grados del sistema de educación superior chilena contenida en el artículo 54 del decreto con fuerza de ley N° 2, de 2009, del Ministerio de Educación.".
 
 Habiéndose cumplido con lo establecido en el Nº 1 del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República. Santiago, 11 de mayo de 2018.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Gerardo Varela Alfonso, Ministro de Educación.- Felipe Larraín Bascuñán, Ministro de Hacienda.- Gonzalo Blumel Mac-Iver, Ministro Secretario General de la Presidencia. Lo que transcribo a usted para su conocimiento.- Saludo atentamente a usted, Raúl Figueroa Salas, Subsecretario de
 
 Educación.
 
-Tribunal Constitucional
+# Tribunal Constitucional
 
-Proyecto de ley sobre educación superior, correspondiente al boletín N° 10.783-04
+## Proyecto de ley sobre educación superior, correspondiente al boletín N° 10.783-04
 
 El Secretario del Tribunal Constitucional, quien suscribe, certifica que la Honorable Cámara de Diputados envió el proyecto de ley enunciado en el rubro, aprobado por el Congreso Nacional, a fin de que este Tribunal ejerciera el control de constitucionalidad respecto de la letra e) del artículo 8; la letra b), el párrafo segundo de la letra i), y el párrafo segundo de la letra j), todos literales del inciso primero y, el inciso final del artículo 20; el artículo 34; el inciso primero del artículo 51; los números 1), 2), 4), 6), 8), 9), 25), 39) y 40) del artículo 81; el artículo 101; los números 1), 2), 3), 4), 5) y 6) del artículo 119; y el número 14) del artículo 120, todos preceptos permanentes, y el artículo segundo transitorio, del proyecto de ley; del proyecto de ley, y por sentencia de 26 de abril de 2018, en los autos Rol Nº 4317-18-CPR.
 
@@ -2601,7 +2700,7 @@ Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado
 
 [[START OF PAGE 84]]
 
-###### Se declara:
+Se declara:
 
 - 1°. Que, las siguientes disposiciones del proyecto de ley, son conformes con la Constitución Política:
 
