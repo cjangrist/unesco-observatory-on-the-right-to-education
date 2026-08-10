@@ -20,6 +20,12 @@ SUPPLEMENT TO
 
 Published by Authority
 
+Bahagian/Part II]
+
+HARI SABTU/SATURDAY 11th. MARCH, 2006
+
+[Bil./No. 20
+
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
@@ -31,9 +37,13 @@ Published by Authority
 | S 37 | Constitution of Brunei Darussalam — Child Care Centres Order, 2006 | 551 |
 | S 38 | Child Care Centres Order, 2006 — Child Care Centres Regulations, 2006 | 559 |
 
+The following Notifications are published for general information by Command of His Majesty the Sultan and Yang Di-Pertuan of Brunei Darussalam.
+
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+11th. MARCH, 2006
 
 No. S 37
 
@@ -85,9 +95,13 @@ Section
 
 19. Regulations.
 
+551
+
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 # CONSTITUTION OF BRUNEI DARUSSALAM
 
@@ -127,6 +141,8 @@ In exercise of the power conferred by Clause (3) of Article 83 of the Constituti
 
 [[START OF PAGE 5]]
 
+11th. MARCH, 2006
+
 **Application for licence.**
 
 4. (1) An application for the issue of a licence shall be in such form as the Director may require.
@@ -161,6 +177,8 @@ In exercise of the power conferred by Clause (3) of Article 83 of the Constituti
 
 [[START OF PAGE 6]]
 
+BRUNEI DARUSSALAM GOVERNMENT GAZETTE
+
 (a) on any ground specified in subsection (3) of section 4 which would have entitled the Director to refuse an application for a licence in respect of that child care centre;
 
 (b) if the licensee fails to comply with any direction given by the Director under section 14 or 15;
@@ -193,6 +211,8 @@ In exercise of the power conferred by Clause (3) of Article 83 of the Constituti
 
 [[START OF PAGE 7]]
 
+11th. MARCH, 2006
+
 **Transfer or revocation of licence upon death of licensee.**
 
 10. (1) If the licensee, or the sole surviving licensee, of a child care centre dies, his surviving spouse or any member of his family or any relative shall within 30 days of his death notify the Director of his death, and the Director may, if he thinks fit, either by way of endorsement on the licence or otherwise in writing, transfer the licence to a person nominated for the purpose by the executors or administrators of the deceased licensee, and thereupon that person shall become the licensee of the child care centre.
@@ -203,7 +223,7 @@ In exercise of the power conferred by Clause (3) of Article 83 of the Constituti
 
 (4) If the Director is not notified of the death of the licensee or of the sole surviving licensee by the end of the period of 30 days of his death under subsection (1), the child care centre shall thereupon cease to be a licensed child care centre.
 
-**Termination of licence where licensee disposes of child care centre**
+**Termination of licence where licensee disposes of child care centre.**
 
 11. Subject to sections 9 and 10, every licence shall cease to have effect when the licensee ceases to be the owner or lessee of the child care centre to which the licence relates.
 
@@ -225,6 +245,8 @@ In exercise of the power conferred by Clause (3) of Article 83 of the Constituti
 
 [[START OF PAGE 8]]
 
+BRUNEI DARUSSALAM GOVERNMENT GAZETTE
+
 (b) require any person taking part in the operation or management of a child care centre to produce any book, document or other article relating to the management of that child care centre or to any other activity in respect of the child care centre, or to furnish any information relating to such management or activity;
 
 (c) remove for further examination any book, document or other article which he has reason to suspect is evidence of the commission of an offence against this Order, or is evidence of a ground for the revocation of the licence in respect of a child care centre; and
@@ -235,7 +257,7 @@ In exercise of the power conferred by Clause (3) of Article 83 of the Constituti
 
 **Director may direct remedial measures.**
 
-14. (1) The Director may, in respect of any licensed child care centre, by notice in writing, give such directions as he thinks necessary to ensure that -
+14. (1) The Director may, in respect of any licensed child care centre, by notice in writing, give such directions as he thinks necessary to ensure that —
 
 (a) it is operated and managed satisfactorily;
 
@@ -243,7 +265,7 @@ In exercise of the power conferred by Clause (3) of Article 83 of the Constituti
 
 (c) the provisions of this Order are complied with.
 
-(2) A notice under subsection (1) shall -
+(2) A notice under subsection (1) shall —
 
 (a) served upon the person licensed in respect of the child care centre; and
 
@@ -251,7 +273,7 @@ In exercise of the power conferred by Clause (3) of Article 83 of the Constituti
 
 **Director may order cessation of use of premises as child care centre.**
 
-15. (1) The Director may -
+15. (1) The Director may —
 
 (a) if it appears to him that there is any danger or risk of danger to persons in any licensed child care centre; or
 
@@ -260,6 +282,8 @@ In exercise of the power conferred by Clause (3) of Article 83 of the Constituti
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+
+11th. MARCH, 2006
 
 (b) if, in respect of any licensed child care centre, a direction given under section 14 is not complied with within the period of time specified in the notice served thereunder,
 
@@ -290,6 +314,8 @@ by order in writing direct that the licensed child care centre shall cease to be
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
+BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 **Exemptions.**
 
@@ -326,6 +352,8 @@ BRUNEI DARUSSALAM
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+
+11th. MARCH, 2006
 
 No. S 38
 
@@ -368,6 +396,8 @@ Regulation
 9. Daily programme schedule.
 
 10. Parent involvement.
+
+559
 
 [[END OF PAGE 11]]
 
@@ -419,9 +449,13 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 26. Director may prohibit employment of certain staff.
 
+560
+
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+11th. MARCH, 2006
 
 ## PART VII
 
@@ -467,6 +501,8 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 40. Child care fees.
 
+561
+
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
@@ -487,9 +523,13 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 **SECOND SCHEDULE — HYGIENE AND ENVIRONMENTAL HEALTH**
 
+562
+
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
+
+11th. MARCH, 2006
 
 # CHILD CARE CENTRES ORDER, 2006
 
@@ -526,6 +566,8 @@ In exercise of the power conferred by subsection (1) of section 19 of the Child 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+
+BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 "supervisor" means the person who plans and directs the programme of a child care centre and who is directly in charge of the children.
 
@@ -569,6 +611,8 @@ In exercise of the power conferred by subsection (1) of section 19 of the Child 
 
 [[START OF PAGE 17]]
 
+11th. MARCH, 2006
+
 **Notification of change of particulars of licensee.**
 
 6. (1) The licensee shall notify the Director in writing of any change of any other particulars specified in the licence within 30 days of any such change.
@@ -603,9 +647,13 @@ In exercise of the power conferred by subsection (1) of section 19 of the Child 
 
 (ii) daily programme schedule or time-table; and
 
+565
+
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
+
+BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 (iii) any specialised services;
 
@@ -643,9 +691,13 @@ In exercise of the power conferred by subsection (1) of section 19 of the Child 
 
 (5) All early childhood educational activities must be undertaken by programme staff who have successfully obtained training in child care recognised by the Director.
 
+566
+
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
+
+11th. MARCH, 2006
 
 (6) Provision shall be made in the schedule to separate children, who are yet unable to walk, from other children during play periods.
 
@@ -687,6 +739,8 @@ In exercise of the power conferred by subsection (1) of section 19 of the Child 
 
 [[START OF PAGE 20]]
 
+BRUNEI DARUSSALAM GOVERNMENT GAZETTE
+
 **First aid facilities.**
 
 12. (1) Every child care centre shall maintain a first aid kit for emergency treatment which shall be kept in an accessible and safe place on the premises.
@@ -727,6 +781,8 @@ In exercise of the power conferred by subsection (1) of section 19 of the Child 
 
 [[START OF PAGE 21]]
 
+11th. MARCH, 2006
+
 (2) All staff over the age of 45 years shall undergo a chest X-ray once every 3 years.
 
 (3) Any person engaged in the preparation of food in a child care centre shall undergo a medical examination as specified in sub-regulation (1) and be vaccinated against typhoid before employment and subsequently once every 3 years.
@@ -759,7 +815,7 @@ In exercise of the power conferred by subsection (1) of section 19 of the Child 
 
 BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
-(a) any form of corporal punishment, including the following -
+(a) any form of corporal punishment, including the following —
 
 (i) striking a child, directly or with any physical objects;
 
@@ -781,7 +837,7 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 18. (1) Every child care centre shall keep up-to-date records which shall be made available for inspection by the Director at all times.
 
-(2) The records referred to in sub-regulation (1) shall include -
+(2) The records referred to in sub-regulation (1) shall include —
 
 (a) an application for enrolment signed by the guardian of the child;
 
@@ -802,6 +858,8 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
+
+11th. MARCH, 2006
 
 *(h)* the date of discharge of the child;
 
@@ -843,6 +901,8 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 [[START OF PAGE 24]]
 
+BRUNEI DARUSSALAM GOVERNMENT GAZETTE
+
 (a) particulars of every child and the child's parents or guardian for a period of 3 years from the date of the child's withdrawal from the centre, which shall include —
 
 (i) photostated copy of the child's birth certificate or other identification documents;
@@ -883,6 +943,8 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 [[START OF PAGE 25]]
 
+11th. MARCH, 2006
+
 **Appointment of staff.**
 
 **24.** (1) The operator shall employ a sufficient number of programme staff who have the relevant qualifications and training recognised by the Director for that particular grade of staff to ensure compliance with regulation 25.
@@ -916,9 +978,13 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 *(b)* any offence against sections 26 and 27 of Children Order, 2000 (S 64/00);
 
+573
+
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
+
+BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 (c) any offence against subsection (1) of section 75 of Emergency (Islamic Family Law) Order, 1999 (S 12/00);
 
@@ -950,7 +1016,7 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 29. (1) Every child care centre shall provide sufficient and suitable chairs, tables, play materials and equipment.
 
-(2) Where children who are 18 months of age and below are enrolled, a child care centre shall also provide -
+(2) Where children who are 18 months of age and below are enrolled, a child care centre shall also provide —
 
 (a) separate facilities for changing diapers and dressing; and
 
@@ -959,6 +1025,8 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
+
+11th. MARCH, 2006
 
 (b) a cot for each child enrolled.
 
@@ -978,7 +1046,7 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 **Personal care.**
 
-32. (1) Every child care centre shall -
+32. (1) Every child care centre shall —
 
 (a) establish sanitary procedures for changing diapers; and
 
@@ -997,6 +1065,8 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
+
+BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 **Kitchen facilities.**
 
@@ -1024,7 +1094,7 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 **Fire precautionary measures.**
 
-38. Every operator shall cause to ensure that -
+38. Every operator shall cause to ensure that —
 
 (a) there is a fire emergency plan;
 
@@ -1040,6 +1110,8 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 [[START OF PAGE 29]]
 
+11th. MARCH, 2006
+
 (e) any apparatus or fire-fighting equipment recommended by the Director of the Fire Service is installed, regularly inspected, maintained and ready for use;
 
 (f) the staff are conversant with the method of using such equipment; and
@@ -1048,7 +1120,7 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 **Emergency information.**
 
-39. (1) Every child care centre shall have a list of emergency telephone numbers which is readily available to the staff and which shall include the telephone numbers of-
+39. (1) Every child care centre shall have a list of emergency telephone numbers which is readily available to the staff and which shall include the telephone numbers of —
 
 (a) fire services;
 
@@ -1124,6 +1196,8 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 [[START OF PAGE 31]]
 
+11th. MARCH, 2006
+
 5. Every child care centre shall have a designated space for activity areas, playing, toilet and bathing facilities, washing, eating, resting, an office, staff rest periods, isolation of sick children, storage of food, beds, bedding, toys, indoor and outdoor play material and equipment and medical supplies.
 
 6. Every child care centre shall have a designated space for the preparation of food and snacks and such space shall be rendered inaccessible to children.
@@ -1140,9 +1214,13 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 12. Where there are staircases in a child care centre, safety gates shall be installed at both ends of a staircase.
 
+579
+
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
+
+BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 ## SECOND SCHEDULE
 
@@ -1177,6 +1255,8 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 9. Where children who are 18 months of age and below are enrolled, the child care centre shall provide sinks with running water near the diaper change area at a ratio of one sink for every 10 children aged 18 months of age and below.
 
+580
+
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
@@ -1205,4 +1285,9 @@ Brunei Darussalam.
 
 [[START OF PAGE 36]]
 
+Dicetak oleh PENGIRAN HAJI ZAINAL ABIDIN BIN PENGIRAN SERI WIJAYA
+PENGIRAN HAJI AHMAD, Pemangku Pengarah Percetakan,
+di Jabatan Percetakan Kerajaan, Bandar Seri Begawan BB3510, Negara Brunei Darussalam.
+
+Harga B$5.00
 [[END OF PAGE 36]]
