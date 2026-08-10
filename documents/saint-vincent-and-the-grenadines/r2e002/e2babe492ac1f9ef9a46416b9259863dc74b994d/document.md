@@ -1,16 +1,18 @@
 [[START OF PAGE 1]]
 
-###### SECTION
+SECTION
 
 - Short title and commencement
 
 - Interpretation
 
-# PART II ADMINISTRATION OF THE EDUCATION SYSTEM
+## PART II
+### ADMINISTRATION OF THE EDUCATION SYSTEM
 
-## Division 1 The Minister
+#### Division 1
+##### The Minister
 
-## Division 2
+#### Division 2
 
 ##### The Chief Education Officer
 
@@ -18,7 +20,7 @@
 
 - Delegation of Authority by Minister
 
-## Division 3
+#### Division 3
 
 ##### The Education Advisory Board
 
@@ -32,11 +34,13 @@
 
 - Special committees
 
-###### SAINT VINCENT AND THE GRENADINES
+# SAINT VINCENT AND THE GRENADINES
 
-###### EDUCATION BILL 2005 ARRANGEMENT OF SECTIONS PART I
+# EDUCATION BILL 2005
+# ARRANGEMENT OF SECTIONS
+## PART I
 
-###### PRELIMINARY
+### PRELIMINARY
 
 - Goals and objectives
 
@@ -46,9 +50,9 @@
 
 - Annual Report
 
-# PART III
+## PART III
 
-RIGHTS AND RESPONSIBILITIES OF STUDENTS AND PARENTS
+### RIGHTS AND RESPONSIBILITIES OF STUDENTS AND PARENTS
 
 [[END OF PAGE 1]]
 
@@ -80,7 +84,7 @@ RIGHTS AND RESPONSIBILITIES OF STUDENTS AND PARENTS
 
 - Reckoning of attendance at school
 
-## Division 1
+#### Division 1
 
 ##### Students' Rights and Responsibilities
 
@@ -98,7 +102,7 @@ RIGHTS AND RESPONSIBILITIES OF STUDENTS AND PARENTS
 
 - Exercise of rights
 
-## Division 2
+#### Division 2
 
 ##### Parents' Rights and Responsibilities
 
@@ -114,7 +118,7 @@ RIGHTS AND RESPONSIBILITIES OF STUDENTS AND PARENTS
 
 - Wishes of parents to be considered
 
-## Division 3
+#### Division 3
 
 ##### Admission and Attendance of Students
 
@@ -188,9 +192,9 @@ RIGHTS AND RESPONSIBILITIES OF STUDENTS AND PARENTS
 
 - Cancellation of permit and registration
 
-## Division 2
+#### Division 2
 
-###### Private Schools
+##### Private Schools
 
 [[END OF PAGE 4]]
 
@@ -204,7 +208,7 @@ RIGHTS AND RESPONSIBILITIES OF STUDENTS AND PARENTS
 
 6
 
-### 112. Home education programmes
+112. Home education programmes
 
 [[END OF PAGE 6]]
 
@@ -242,9 +246,9 @@ AN ACT to make provision for the delivery of educational services in Saint Vince
 
 BE IT ENACTED by the Queen's Most Excellent Majesty, by and with the advice and consent of the House of Assembly of Saint Vincent and the Grenadines and by the authority of the same, as follows:
 
-# PART I
+## PART I
 
-###### PRELIMINARY
+### PRELIMINARY
 
 (1) This Act may be cited as the Education Act 2005.
 
@@ -262,13 +266,13 @@ BE IT ENACTED by the Queen's Most Excellent Majesty, by and with the advice and 
 
 'assisted private school' means a private school which receives some material assistance in money, goods or services from the Government;
 
-###### SAINT VINCENT AND THE GRENADINES
+SAINT VINCENT AND THE GRENADINES
 
-###### BILL FOR
+BILL FOR
 
 ______________
 
-###### ACT NO.    OF   2005 I  ASSENT
+ACT NO.    OF   2005 I  ASSENT
 
 [[END OF PAGE 10]]
 
@@ -390,13 +394,13 @@ ______________
 
 (3) A reference to a parent is a reference to either parent if the parents are living together or, if the parents are separated, to the parent who has de facto care and control of the child.
 
-# PART II
+## PART II
 
-###### ADMINISTRATION OF THE EDUCATION SYSTEM
+### ADMINISTRATION OF THE EDUCATION SYSTEM
 
-## Division 1
+#### Division 1
 
-###### The Minister
+##### The Minister
 
 3. (1) The Minister shall, subject to available resources, establish and pursue for the education system general and specific goals and objectives as provided in subsection (2) and (3).
 
@@ -530,7 +534,7 @@ University of the West Indies and any other institution of higher learning; and
 
 6. The Minister shall table in Parliament an annual report on the state of education in Saint Vincent and the Grenadines within twelve months of the end of the academic year for which the report is made.
 
-## Division 2
+#### Division 2
 
 ##### The Chief Education Officer
 
@@ -576,7 +580,7 @@ system  of  education  including  the  registration  and  inspection  of  privat
 
 (3) Where  by  or  under  this  Act  the  Chief  Education  Officer  is  required  or permitted to perform any function, the Chief Education Officer may, after consulting the Permanent  Secretary,  authorise  a  public  officer  accountable  to  him  to  perform  the function.
 
-## Division 3
+#### Division 3
 
 ##### The Education Advisory Board
 
@@ -628,11 +632,11 @@ system  of  education  including  the  registration  and  inspection  of  privat
 
 (3) The  Minister  may  refer  any  matter  to  a  special  committee  appointed  under subsection  (1)  notwithstanding  that  the  Advisory  Board  has  considered  or  has  power  to consider the matter.
 
-# PART III
+## PART III
 
-###### RIGHTS AND RESPONSIBILITIES OF STUDENTS AND PARENTS
+### RIGHTS AND RESPONSIBILITIES OF STUDENTS AND PARENTS
 
-## Division 1
+#### Division 1
 
 ##### Students' Rights and Responsibilities
 
@@ -720,7 +724,7 @@ in respect of behaviour and deportment on a school bus.
 
 (3) Subsection (2) does not affect the right of any parent or other person or body who is paying for or otherwise sponsoring a student who has attained the age of eighteen in an  educational institution to receive reports on the student's academic results and any other information relevant to the student's progress.
 
-## Division 2
+#### Division 2
 
 ##### Parents' Rights and Responsibilities
 
@@ -838,7 +842,7 @@ in respect of behaviour and deportment on a school bus.
 
 26. The  Minister  shall,  in  the  excise  of  the  functions  conferred  under  this  Act,  have regard to the general principle that , so far as is compatible with the provision of efficient instruction and training and the avoidance of unreasonable public expenditure; the wishes of  parents  formally  conveyed  to  the  Minister  shall  be  considered  in  the  education  of students.
 
-## Division 3
+#### Division 3
 
 ##### Admission and Attendance of Students
 
@@ -1020,7 +1024,7 @@ the  Minister  may  direct  that  the  educational  institution  be  temporarily
 
 (2) Any other holiday which on account of local circumstances is granted by the principal shall be reported to the Chief Educational Officer as soon as practicable.
 
-## Division 4
+#### Division 4
 
 ##### Compulsory School Attendance
 
@@ -1158,9 +1162,9 @@ for the enforcement of compulsory education; and
 
 (4) In a prosecution under this Division the court may draw inferences as to the age of a person from the person's demeanour or from statements made by the person in direct examination or cross-examination.
 
-## Division 5
+#### Division 5
 
-###### Discipline, Suspension and Expulsion of Students
+##### Discipline, Suspension and Expulsion of Students
 
 51. (1) The  principal  of  an  educational  institution  may,  after  consultation  with  its Board  of  Management,  make  rules  to  govern  the  attire,  conduct  and  discipline  of students.
 
@@ -1286,11 +1290,11 @@ for the enforcement of compulsory education; and
 
 (5) The  Chief  Education  Officer  shall  inform  the  student  and  the parents of the student  of  the  right  of  appeal  under  subsection  (4)  at  the  time  of  notifying  them  of  his decision under subsection (3).
 
-# PART IV
+## PART IV
 
-###### MANAGEMENT OF EDUCATIONAL INSTITUTIONS
+### MANAGEMENT OF EDUCATIONAL INSTITUTIONS
 
-## Division 1
+#### Division 1
 
 [[END OF PAGE 35]]
 
@@ -1298,7 +1302,7 @@ for the enforcement of compulsory education; and
 
 36
 
-###### Public Schools
+##### Public Schools
 
 57. (1) Public  pre-primary,  primary  and  all-age  schools  may  be  established  and maintained in accordance with this Act and  the regulations.
 
@@ -1526,9 +1530,9 @@ for the enforcement of compulsory education; and
 
 (k) to  organize  activities,  in  consultation  with  the  principal  and  staff,  for enriching the experience of all students.
 
-## Division 2
+#### Division 2
 
-###### Private Schools
+##### Private Schools
 
 72. (1) The  term  'private  school',  where  used  in  this  Act  to  refer  to  the  subject  of rights or obligations, means the proprietor of the  school.
 
@@ -1796,7 +1800,7 @@ commits an offence and is liable on summary conviction to a fine of one thousand
 
 (3) A  teacher  affected  by  a  decision  of  the  Chief  Education  Officer  under subsection (2) may appeal in writing to the Minister within fourteen days of the decision.
 
-## Division 3
+#### Division 3
 
 ##### Assisted Private Schools
 
@@ -1906,9 +1910,9 @@ commits an offence and is liable on summary conviction to a fine of one thousand
 
 (2) In the performance of its functions under subsection (1) paragraph (a) or (b) a Board of Management for an assisted private school shall consult the Chief Education Officer as appropriate.
 
-# PART V
+## PART V
 
-##### TERTIARY EDUCATION
+### TERTIARY EDUCATION
 
 103. (1) The Minister may establish and maintain in accordance with this Act and regulations made under this Act public tertiary educational institutions at such places as the Minister determines.
 
@@ -1972,11 +1976,11 @@ commits an offence and is liable on summary conviction to a fine of one thousand
 
 107. Nothing  in  this  Act  shall  prejudice  the  Saint  Vincent  and  the  Grenadines Community College and this Act applies to that College only to the extent that it can do so consistently with the Act establishing that College.
 
-# PART VI
+## PART VI
 
-##### OTHER TYPES OF EDUCATION
+### OTHER TYPES OF EDUCATION
 
-## Division 1
+#### Division 1
 
 [[END OF PAGE 51]]
 
@@ -2024,9 +2028,9 @@ commits an offence and is liable on summary conviction to a fine of one thousand
 
 (2) Until  regulations  are  made  under  section  110,  and  to  the  extent  that  the regulations  do  not  cover  any  matter, the provisions of this Act apply to an educational institution providing early childhood education to the extent possible.
 
-## Division 2
+#### Division 2
 
-###### Home Education
+##### Home Education
 
 [[END OF PAGE 52]]
 
@@ -2062,9 +2066,9 @@ commits an offence and is liable on summary conviction to a fine of one thousand
 
 (c)  provide the parent with recommendations which will assist the student in improving his or her level of achievement.
 
-## Division 3
+#### Division 3
 
-###### Special Education
+##### Special Education
 
 113. (1) The Chief Education Officer shall provide a special education programme for any student of compulsory school age or for any student beyond that age who is still a dependant  who  by  virtue  of intellectual,  communicative,  behavioural,  physical  or multiple exceptionalities is in need of special education.
 
@@ -2144,7 +2148,7 @@ the parent, the proprietor or principal of any school affected by the decision m
 
 (c)  the conduct of its business.
 
-## Division 4
+#### Division 4
 
 ##### Distance Learning and Continuing Education
 
@@ -2152,11 +2156,11 @@ the parent, the proprietor or principal of any school affected by the decision m
 
 118. The Minister may  make  provision for continuing and adult education programmes and may regulate any such programmes in existence at the commencement of this Act or which come into existence after that date.
 
-# PART VII
+## PART VII
 
-##### TEACHERS - GENERAL
+### TEACHERS - GENERAL
 
-## Division 1
+#### Division 1
 
 [[END OF PAGE 55]]
 
@@ -2292,7 +2296,7 @@ after consultation with theChief Education Officer and the respective Board of M
 
 59
 
-## Division 2
+#### Division 2
 
 ##### Conduct of Public School Teachers
 
@@ -2448,9 +2452,9 @@ is  guilty  of  misconduct  and  is  liable  to  disciplinary  action  by  the  
 
 139. A teacher shall not transmit any communication to the Minister on any matter which  affects  the  work  of  the  educational    institution  to  which  he  is  attached  except through the Chief Education Officer.
 
-## Division 3
+#### Division 3
 
-###### Duties of Principals
+##### Duties of Principals
 
 140. (1) In  addition  to  any  requirements  of  this  Act  relating  to  the  duties  of  a principal, the principal of an educational institution shall -
 
@@ -2578,13 +2582,13 @@ is  guilty  of  misconduct  and  is  liable  to  disciplinary  action  by  the  
 
 (2) A  deputy  principal  of  a  public  school  who  consistently  fails  to  perform  a professional  duty  as  specified  in  subsection  (1)  is  liable  to  disciplinary  action  by  the Public Service Commission in accordance with regulations made for that purpose.
 
-# PART VIII
+## PART VIII
 
-##### TEACHERS' CONDITIONS OF SERVICE
+### TEACHERS' CONDITIONS OF SERVICE
 
-## Division 1
+#### Division 1
 
-###### Application
+##### Application
 
 - This Part, other than section 150, applies generally to -
 
@@ -2600,9 +2604,9 @@ is  guilty  of  misconduct  and  is  liable  to  disciplinary  action  by  the  
 
 (2) To  the  extent  that  provision  is  made  in  the  Public  Service  Commission Regulations for any matter relating to public officers which is not dealt with by this Act, the Regulations apply to teachers in the public service in relation to conditions of service.
 
-## Division 2
+#### Division 2
 
-###### Leave
+##### Leave
 
 (1) The teachers' vacation period shall be -
 
@@ -2682,7 +2686,7 @@ is  guilty  of  misconduct  and  is  liable  to  disciplinary  action  by  the  
 
 151. A  female  teacher  shall  be  granted  maternity  leave  in  accordance  with  the relevant law for that purpose.
 
-## Division 3
+#### Division 3
 
 ##### Remuneration, Advances and Increments
 
@@ -2744,7 +2748,7 @@ is  guilty  of  misconduct  and  is  liable  to  disciplinary  action  by  the  
 
 (4) If a teacher is promoted but his salary is above or equal to the minimum of the higher scale, the teacher shall receive an immediate increment in the new scale.
 
-## Division 4
+#### Division 4
 
 ##### Payment of Pensions and Gratuities
 
@@ -2758,9 +2762,9 @@ is  guilty  of  misconduct  and  is  liable  to  disciplinary  action  by  the  
 
 (3) The years of service for computation of retirement benefits of a teacher shall be calculated from the date of the teacher's first substantive appointment.
 
-# PART IX
+## PART IX
 
-###### CURRICULUM AND ASSESSMENT OF STUDENTS
+### CURRICULUM AND ASSESSMENT OF STUDENTS
 
 160. (1) The  Minister  shall  establish  a  national  curriculum  for  all  educational institutions.
 
@@ -2868,9 +2872,9 @@ that the Minister considers appropriate.
 
 (2) In  respect  of  public  or  assisted  private  schools  with  the  exception  of denominational  schools  the  Minister  may  appoint  a  panel  of  advisor  s  on  religious matters  to  advise  on  religious  instruction  in  schools  and  in  particular  as  to  methods  of teaching, choice of books and the provision of lecturers or teachers.
 
-# PART X
+## PART X
 
-###### SCHOLARSHIPS AND OTHER FINANCIAL ASSISTANCE
+### SCHOLARSHIPS AND OTHER FINANCIAL ASSISTANCE
 
 167. (1) The Government shall make provision for the award of Saint Vincent and the Grenadines Island Scholarship.
 
@@ -2962,11 +2966,11 @@ that the Minister considers appropriate.
 
 (2) An  application for assistance under  this section shall  be  made  in  the prescribed manner by a prescribed person.
 
-# PART XI
+## PART XI
 
-###### INSPECTION AND REVIEW OF THE EDUCATION SYSTEM
+### INSPECTION AND REVIEW OF THE EDUCATION SYSTEM
 
-## Division 1
+#### Division 1
 
 ##### Inspection of Educational Institutions
 
@@ -2998,7 +3002,7 @@ that the Minister considers appropriate.
 
 commits  an  offence  and  is  liable  on  summary  conviction  to  a  fine  of  one thousand dollars..
 
-## Division 2
+#### Division 2
 
 ##### Review of the Education System
 
@@ -3054,9 +3058,9 @@ commits  an  offence  and  is  liable  on  summary  conviction  to  a  fine  of 
 
 (3) After  the  report  of  the  Education  Review  Committee  has  been  laid  before Parliament it shall be published and made available for sale to the public.
 
-# PART XII
+## PART XII
 
-###### MISCELLANEOUS
+### MISCELLANEOUS
 
 181. (1) No person may sell or offer for sale any services, goods, food, beverage or any other item on the premises of a public or assisted private school without the written permission of the Chief Education Officer.
 
@@ -3228,13 +3232,14 @@ without prejudice to any action taken or commenced.
 
 82
 
-# SCHEDULE 1
+## SCHEDULE 1
 
-##### EDUCATION ADVISORY BOARD
+### EDUCATION ADVISORY BOARD
 
 - In this Schedule, 'member' means a member of the Advisory Board.
 
-2. 1. Constitution Board. The Minister shall with the prior approval of the Cabinet appoint  the  Advisory  Board  which  shall  consist  of  the  following  members  members appointed by instrument in writing as follows-
+#### 2. 1. Constitution Board.
+The Minister shall with the prior approval of the Cabinet appoint  the  Advisory  Board  which  shall  consist  of  the  following  members  members appointed by instrument in writing as follows-
 
 (a)  the Director of the Saint Vincent and the Grenadines Community College;
 
@@ -3268,7 +3273,8 @@ without prejudice to any action taken or commenced.
 
 (2) Members  appointed  pursuant  to  item  1  (f)  shall  be  rotated  between  each Central Board of Management every two years.
 
-- Chairman and Deputy Chairman. (1) The Minister shall appoint-
+#### Chairman and Deputy Chairman.
+(1) The Minister shall appoint-
 
 (a)  one member to be Chairman; and
 
@@ -3286,11 +3292,14 @@ without prejudice to any action taken or commenced.
 
 (3) In  the  case  of  the  absence  of  both  Chairman  and  Deputy  Chairman  the members present at a meeting shall elect a temporary chairman from among their number who shall preside at the meeting.
 
-4. Tenure of office. A member shall hold office, on such conditions and terms specified in the instrument of appointment, for a period of two years and shall be eligible for reappointment.
+#### 4. Tenure of office.
+A member shall hold office, on such conditions and terms specified in the instrument of appointment, for a period of two years and shall be eligible for reappointment.
 
-5. Remuneration. The Minister shall prescribe the remuneration and allowances payable to members.
+#### 5. Remuneration.
+The Minister shall prescribe the remuneration and allowances payable to members.
 
-6. Vacancy. (1) A  vacancy  in  the  membership  of  the  Advisory    Board  shall occur-
+#### 6. Vacancy.
+(1) A  vacancy  in  the  membership  of  the  Advisory    Board  shall occur-
 
 (a)  on the death of a member;
 
@@ -3302,13 +3311,15 @@ without prejudice to any action taken or commenced.
 
 (3) Where  a  person  ceases  to  be  a  member  for  any  reason,  the  Minister  may appoint  any  person  to  act  as  a  member  for  the  duration  of  the  time  that  the  previous member would have served and such appointment shall be made in the same manner and from the same category of persons as the appointment of the previous member.
 
-7. Resignation. (1) A member  may at any time resign his office by instrument in writing addressed to the Chairman for submission to the Minister.
+#### 7. Resignation.
+(1) A member  may at any time resign his office by instrument in writing addressed to the Chairman for submission to the Minister.
 
 (2) Pursuant  to  paragraph  (1),  the  member  shall  cease  to  be  a  member  from  the date of the receipt of the instrument by the Minister.
 
 (3) The  Chairman  may  at  any  time  resign  his  office  by  instrument  in  writing addressed to the Minister and the resignation shall take effect from the date of receipt of the resignation by the Minister.
 
-8. Revocation of appointment of member. (1) The Minister may revoke the appointment of a member if that member-
+#### 8. Revocation of appointment of member.
+(1) The Minister may revoke the appointment of a member if that member-
 
 (a)  becomes incapable of carrying out his duties;
 
@@ -3334,11 +3345,14 @@ Provided  that  such  appointment  shall not  be  revoked  under  this  paragrap
 
 (2) It  shall  be  an  implied  term  of  the  appointment  of  a  member  that  the appointment  shall  terminate  if  he  is  convicted  of  any  offence  the  commission of which involves dishonesty.
 
-9. Temporary appointment. In the event that a member is temporarily unable to act on the Advisory Board, the Minister may appoint another person from the group that member represents to act temporarily in place of that member.
+#### 9. Temporary appointment.
+In the event that a member is temporarily unable to act on the Advisory Board, the Minister may appoint another person from the group that member represents to act temporarily in place of that member.
 
-10. Publication of Board members. The Minister shall publish in the Gazette the names of the members of the Advisory Board as first constituted and at every subsequent change in membership.
+#### 10. Publication of Board members.
+The Minister shall publish in the Gazette the names of the members of the Advisory Board as first constituted and at every subsequent change in membership.
 
-11. Meetings. (1) The Advisory Board shall meet at least three times per year and at such  other  times  as  the  Chairman  determines  is  necessary  and  expedient  for  the transaction of its business and such meetings shall be held at such places and times and such days as the Chairman determines.
+#### 11. Meetings.
+(1) The Advisory Board shall meet at least three times per year and at such  other  times  as  the  Chairman  determines  is  necessary  and  expedient  for  the transaction of its business and such meetings shall be held at such places and times and such days as the Chairman determines.
 
 (2) The Chairman or if he is for any reason unable to act, the Deputy Chairman may at any time call  a  special  meeting  of  the  Advisory  Board  and  shall  call  a  special meeting within fourteen days of the receipt by him of a request for that purpose addressed to him in writing by any two members.
 
@@ -3346,13 +3360,16 @@ Provided  that  such  appointment  shall not  be  revoked  under  this  paragrap
 
 (4) The Advisory Board may co-opt any person for any of its meetings but such persons shall have no right to vote.
 
-12. Voting. (1) The  decision  of  the  Advisory  Board  at  any  meeting shall be by a majority of votes of the members present and voting at a meeting of the Advisory Board.
+#### 12. Voting.
+(1) The  decision  of  the  Advisory  Board  at  any  meeting shall be by a majority of votes of the members present and voting at a meeting of the Advisory Board.
 
 (2) In the event of equal votes, the Chairman or Deputy Chairman if presiding at the meeting or member presiding as chairman at the meeting shall have a casting vote in addition to an original vote.
 
-13. Quorum. The  quorum  of  the  Advisory  Board  at  any  meeting  shall  be  five members.
+#### 13. Quorum.
+The  quorum  of  the  Advisory  Board  at  any  meeting  shall  be  five members.
 
-14. Disclosure of interest. (1) Any member  who  has  any interest directly or indirectly  in  any  matter  being  considered  or  a bout  to  be  considered  by  the  Advisory Board shall disclose the nature of his interest to the Advisory Board.
+#### 14. Disclosure of interest.
+(1) Any member  who  has  any interest directly or indirectly  in  any  matter  being  considered  or  a bout  to  be  considered  by  the  Advisory Board shall disclose the nature of his interest to the Advisory Board.
 
 [[END OF PAGE 84]]
 
@@ -3366,7 +3383,8 @@ Provided  that  such  appointment  shall not  be  revoked  under  this  paragrap
 
 (4) A  disclosure  under  paragraph  (1)  shall  be  recorded  in  the  minutes  of  the meeting  of  the  Advisory  Board  and  after  such  disclosure  the  member  shall  neither  be present during any deliberation of the Advisory Board nor take part in any decision of the Advisory Board with respect to that matter.
 
-15. Resolution. (1) If a majority of members signs a document circulated by, or on behalf of the Advisory Board containing a statement that those members are in favour of a  resolution  in  the  terms  set  out  in  the  document,  a  resolution  in  those  terms  shall  be deemed  to  have  been  passed  at  a  meeting  of  the  Advisory  Board  held  on  the  day  on which the last member to sign so signs the document.
+#### 15. Resolution.
+(1) If a majority of members signs a document circulated by, or on behalf of the Advisory Board containing a statement that those members are in favour of a  resolution  in  the  terms  set  out  in  the  document,  a  resolution  in  those  terms  shall  be deemed  to  have  been  passed  at  a  meeting  of  the  Advisory  Board  held  on  the  day  on which the last member to sign so signs the document.
 
 (2) If a resolution under paragraph (1) is deemed to have passed at a meeting of the  Advisory  Board,  notice  of  the  resolution  shall  be  given  under  the  procedure established by the Advisory Board.
 
@@ -3376,27 +3394,33 @@ Provided  that  such  appointment  shall not  be  revoked  under  this  paragrap
 
 86
 
-# SCHEDULE 2
+## SCHEDULE 2
 
 (section 63 (1) and 100 (5))
 
-###### PROCEDURE OF BOARDS OF MANAGEMENT
+### PROCEDURE OF BOARDS OF MANAGEMENT
 
-1. Definition. In this Schedule 'Board' means a Board of Management appointed under section 58, 61 or 100 of this Act.
+#### 1. Definition.
+In this Schedule 'Board' means a Board of Management appointed under section 58, 61 or 100 of this Act.
 
-2. Chairperson and Deputy Chairperson. (1) Except in cases of a Board established  under  section  100  of  this  Act,  a  Board  shall  elect  a  chairperson  and  deputy chairperson from among its members at its first meeting.
+#### 2. Chairperson and Deputy Chairperson.
+(1) Except in cases of a Board established  under  section  100  of  this  Act,  a  Board  shall  elect  a  chairperson  and  deputy chairperson from among its members at its first meeting.
 
 (2) The  chairperson,  or  in his  absence  the  deputy  chairperson,  presides  at meetings of a Board.
 
 (3) If both the chairperson and the deputy chairperson are absent from a meeting, the members present, if there is a quorum, shall elect one of their number to preside at the meeting.
 
-3. Publication of membership. The membership of a Board as first constituted and any changes thereafter shall be published in the Gazette .
+#### 3. Publication of membership.
+The membership of a Board as first constituted and any changes thereafter shall be published in the Gazette .
 
-4. Filling of vacancies. If  a  vacancy  occurs  in  the  membership  of  a  Board  the vacancy shall be filled by the appointment of another member  in the manner indicated in section 58, 61 or 100 of this Act, as the case may be, and such person holds office for the remainder  of  the  period  for  which  the  previous  member  was  appointed.    Any  such appointment shall be made in the same manner and from the same category of persons, if any appointment of the previous member.
+#### 4. Filling of vacancies.
+If  a  vacancy  occurs  in  the  membership  of  a  Board  the vacancy shall be filled by the appointment of another member  in the manner indicated in section 58, 61 or 100 of this Act, as the case may be, and such person holds office for the remainder  of  the  period  for  which  the  previous  member  was  appointed.    Any  such appointment shall be made in the same manner and from the same category of persons, if any appointment of the previous member.
 
-5.  Employment of members. A  person  may  not  be  appointed  to  employment under a Board of which the person is a member.
+#### 5.  Employment of members.
+A  person  may  not  be  appointed  to  employment under a Board of which the person is a member.
 
-6. Duration of membership. (1) Every  member  of  a  Board  holds  office  for  a term of two years unless before the end of the term the member dies, resigns, is removed from office for any cause by the Minister or the nominating authority under section 58, 61or 100 of this Act or ceases to be a member in accordance with paragraph (4).
+#### 6. Duration of membership.
+(1) Every  member  of  a  Board  holds  office  for  a term of two years unless before the end of the term the member dies, resigns, is removed from office for any cause by the Minister or the nominating authority under section 58, 61or 100 of this Act or ceases to be a member in accordance with paragraph (4).
 
 (2)  A member of a Board is eligible for reappointment for a further term.
 
@@ -3412,7 +3436,8 @@ Provided  that  such  appointment  shall not  be  revoked  under  this  paragrap
 
 87
 
-7. Meetings. (1) A Board shall meet at least once in every school term and at such other times are necessary or expedient for the transaction of its business.
+#### 7. Meetings.
+(1) A Board shall meet at least once in every school term and at such other times are necessary or expedient for the transaction of its business.
 
 (2) Meetings shall be held at such places and times as the chairperson decides.
 
@@ -3422,19 +3447,24 @@ Provided  that  such  appointment  shall not  be  revoked  under  this  paragrap
 
 (b) after receiving a written direction by the Minister.
 
-8.  Quorum. The  quorum  at  any  meeting  of  a  Board  is  the  minimum  number constituting a majority of the total members of the Board.
+#### 8.  Quorum.
+The  quorum  at  any  meeting  of  a  Board  is  the  minimum  number constituting a majority of the total members of the Board.
 
-9. Voting. Decisions  of  a  Board  shall  be  by  a  majority  of  the  votes  of  the members present and voting and if the votes are equal the person presiding has a casting vote as well as an original vote.
+#### 9. Voting.
+Decisions  of  a  Board  shall  be  by  a  majority  of  the  votes  of  the members present and voting and if the votes are equal the person presiding has a casting vote as well as an original vote.
 
-10. Minutes. (1) Minutes of each meeting of a Board shall be kept in proper form by the  Secretary  or  other  person  appointed  by  the  Board  for  the  purpose  and  shall  be confirmed by the Board as its next meeting and signed by the chairperson or other person presiding at the meeting, and by the secretary.
+#### 10. Minutes.
+(1) Minutes of each meeting of a Board shall be kept in proper form by the  Secretary  or  other  person  appointed  by  the  Board  for  the  purpose  and  shall  be confirmed by the Board as its next meeting and signed by the chairperson or other person presiding at the meeting, and by the secretary.
 
 (2) A copy of the Minutes of each meeting as recorded by the secretary or the person  referred  to  in  paragraph  (1)  shall  be  submitted  to  the  Chief  Education  Officer within one month of the confirmation of the minutes.
 
-11. Attendance of Chief Education Officer. (1) The Chief Education Officer may attend any meeting of a Board or of a committee or sub-committee of a Board or  may be represented at any such meeting by a public officer authorised by him for the purpose.
+#### 11. Attendance of Chief Education Officer.
+(1) The Chief Education Officer may attend any meeting of a Board or of a committee or sub-committee of a Board or  may be represented at any such meeting by a public officer authorised by him for the purpose.
 
 (2) The  Chief  Education  Officer  or  his  representative  may  take  part  in  the proceedings of any such meeting but is not entitled to vote or otherwise take part in the decision-making process of any such meeting.
 
-12. Appointment of Committees. (1) A Board may appoint a committee to perform any function of the Board which in its opinion would be better performed by a committee with or without restrictions or conditions, as it thinks fit.
+#### 12. Appointment of Committees.
+(1) A Board may appoint a committee to perform any function of the Board which in its opinion would be better performed by a committee with or without restrictions or conditions, as it thinks fit.
 
 (2) The  number  of  members  appointed to a committee and their terms of office are as fixed by the Board.
 
@@ -3452,7 +3482,8 @@ Provided  that  such  appointment  shall not  be  revoked  under  this  paragrap
 
 (6) Subject to any restrictions imposed by the Board, if a committee appointed by the  Board  appoints  a  sub-committee  it  may  delegate  to  the  sub-committee,  with  or without restrictions or conditions as it thinks fit, any of its functions.
 
-13. Power to delegate. Without limiting item 11, a Board, after consultation with the Chief Education Officer, may delegate to a committee any of its functions it considers appropriate subject to any restrictions or conditions it thinks fit.
+#### 13. Power to delegate.
+Without limiting item 11, a Board, after consultation with the Chief Education Officer, may delegate to a committee any of its functions it considers appropriate subject to any restrictions or conditions it thinks fit.
 
 Passed in the House of Assembly this                day of                      2005.
 
@@ -3464,7 +3495,7 @@ Clerk of the House of Assembly
 
 89
 
-##### OBJECTS AND REASONS
+## OBJECTS AND REASONS
 
 This Bill seeks to make provision for the delivery of educational services in St. Vincent and the Grenadines by both the public and the private sectors and for matters connected therewith and incidental thereto.
 
