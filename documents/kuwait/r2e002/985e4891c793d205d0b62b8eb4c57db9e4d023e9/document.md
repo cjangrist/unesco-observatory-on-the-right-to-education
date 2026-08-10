@@ -2,7 +2,7 @@
 
 # Ministerial Ordinance No 50203
 
-# Concerning the Implementation of Compulsory Education
+## Concerning the Implementation of Compulsory Education
 
 Having considered law No. 11 of 1965 concerning compulsory education, we have decided the following:
 
@@ -20,7 +20,7 @@ Intermediate students, over18, are excluded from schools and have the right to g
 
 Exclusion from the commitment occurs in cases of illness or physical or mental impairment preventing the student from regular attendance in government or special schools by a decision from the Minister of Education as follows:
 
-Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 27
+**Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 27**
 
 [[END OF PAGE 1]]
 
@@ -42,6 +42,6 @@ Private schools must go by the laws set by the Ministry of Education concerning 
 
 Minister of Education
 
-Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 28
+**Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 28**
 
 [[END OF PAGE 2]]
