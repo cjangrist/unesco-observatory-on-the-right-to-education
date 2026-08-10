@@ -1,0 +1,1365 @@
+[[START OF PAGE 1]]
+
+Bundesrecht konsolidiert
+
+# Gesamte  Rechtsvorschrift für Schulunterrichtsgesetz für Berufstätige, Kollegs und Vorbereitungslehrgänge, Fassung vom 22.10.2014
+
+## Beachte für folgende Bestimmung
+
+Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+## Langtitel
+
+Bundesgesetz, mit dem die Unterrichtsordnung für Schulen für Berufstätige, Kollegs und Vorbereitungslehrgänge erlassen wird (Schulunterrichtsgesetz für Berufstätige, Kollegs und Vorbereitungslehrgänge - SchUG-BKV)
+
+StF: BGBl. I Nr. 33/1997 (NR: GP XX RV 383 AB 599 S. 64. BR: AB 5391 S. 623.)
+
+## Änderung
+
+## Präambel/Promulgationsklausel
+
+## Inhaltsverzeichnis
+
+Paragraf | Gegenstand
+--- | ---
+§ 1. § 2. § 3. § 4. | Allgemeine Bestimmungen Geltungsbereich Erfüllung der Aufgabe der österreichischen Schule Personenbezogene Bezeichnungen Begriffsbestimmungen 2. Abschnitt
+§ 5. § 6. § 7. | Aufnahme als ordentlicher Studierender Aufnahme als außerordentlicher Studierender Aufnahmsverfahren
+§ 8. § 9. | 3. Abschnitt Aufnahms- und Eignungsprüfungen Prüfungstermine Durchführung der Aufnahms- und Eignungsprüfungen Prüfungsergebnis 4. Abschnitt
+§ 10. | Unterrichtsordnung Modulbildung, Lehrfächerverteilung Stundenplan, individuelle Modulwahl Pflichtgegenstände und verbindliche Übungen Freigegenstände, unverbindliche Übungen und Schulveranstaltungen
+§ 11. § 12. § 13.
+§ 14.
+Förderunterricht
+§ 15.
+
+www.ris.bka.gv.at
+
+Seite 1 von 26
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
+Bundesrecht konsolidiert
+
+www.ris.bka.gv.at
+
+Seite 2 von 26
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
+Bundesrecht konsolidiert
+
+§ 56. | Studierendenvertreter
+--- | ---
+§ 57. | Wahl der Studierendenvertreter
+§ 58. | Schulgemeinschaftsausschuss
+12. Abschnitt
+Erweiterte Schulgemeinschaft
+§ 59. | Kuratorium
+13. Abschnitt
+Verfahrensbestimmungen
+§ 60. | Handlungsfähigkeit des nichteigenberechtigten Studierenden
+§ 61. | Verfahren
+§ 62. | Provisorialverfahren (Widerspruch)
+§ 63. | Entscheidungspflicht
+§ 64. | Ersatzbestätigung für verlorene Zeugnisse
+§ 65. | Aufbewahrung von Aufzeichnungen
+14. Abschnitt
+Schlussbestimmungen
+§ 66. | Kundmachung von Verordnungen
+§ 67. | Freiheit von Stempelgebühren und Verwaltungsabgaben
+§ 68. | Schlussbestimmungen
+§ 69. | Inkrafttreten
+§ 70. | Vollziehung
+
+## Text
+
+### 1. ABSCHNITT
+
+#### Allgemeine Bestimmungen
+
+##### Geltungsbereich
+
+§ 1. Dieses Bundesgesetz gilt für die im Schulorganisationsgesetz, BGBl. Nr. 242/1962, geregelten öffentlichen und mit dem Öffentlichkeitsrecht ausgestatteten in Semester gegliederten Sonderformen der in diesem Bundesgesetz geregelten Schularten.
+
+##### Erfüllung der Aufgabe der österreichischen Schule
+
+§ 2. Zur Erfüllung der Aufgabe der österreichischen Schule gemäß § 2 des Schulorganisationsgesetzes regelt dieses Bundesgesetz die innere Ordnung der vom Geltungsbereich (§ 1) umfassten Schulen (Sonderformen) als Grundlage für das Zusammenwirken von Lehrern und Studierenden als Schulgemeinschaft.
+
+##### Personenbezogene Bezeichnungen
+
+§ 3. Personenbezogene  Bezeichnungen  in  diesem  Bundesgesetz  sowie  in  den  auf  Grund  dieses Bundesgesetzes  erlassenen  Verordnungen  erfassen  Männer  und  Frauen  gleichermaßen,  außer  es  ist ausdrücklich anderes angeordnet.
+
+##### Beachte für folgende Bestimmung
+
+Z 4 und 5: Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+##### Begriffsbestimmungen
+
+§ 4. Im Sinne dieses Bundesgesetzes sind zu verstehen:
+
+- unter einem Semester das Semester im Sinne des Schulzeitgesetzes 1985, BGBl. Nr. 77, sowie ein allenfalls von diesem abweichender Zeitraum, in dem Lehrgänge geführt werden,
+
+- unter einem Halbjahr der einem Semester entsprechende Zeitraum,
+
+- unter abschließender Prüfung die Reifeprüfung, die Reifeund Diplomprüfung, die Diplomprüfung und die Abschlußprüfung,
+
+www.ris.bka.gv.at
+
+Seite 3 von 26
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
+Bundesrecht konsolidiert
+
+- unter Unterricht unter Einbeziehung von Formen des Fernunterrichtes das selbständige Erarbeiten von Lerninhalten durch die Studierenden in Individualphasen sowie das gemeinsame Erarbeiten von Lerninhalten in Sozialphasen,
+
+- unter Modulen lehrplanmäßig in einem Semester vorgesehene Unterrichtsgegenstände.
+
+Sofern  in  anderen  Rechtsvorschriften  auf  Klassen  an  Schulen  für  Berufstätige  abgestellt  wird,  gilt  für jedes Halbjahr die Zahl der Studierenden geteilt durch 23 als eine Klasse im Sinne dieser Bestimmungen.
+
+##### Beachte für folgende Bestimmung
+
+Abs. 3: Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+### 2. ABSCHNITT
+
+#### Aufnahme in die Schule
+
+##### Aufnahme als ordentlicher Studierender
+
+§ 5. (1) Als ordentlicher Studierender ist aufzunehmen, wer
+
+- die gesetzlichen Aufnahmsvoraussetzungen erfüllt,
+
+- die  Eignung  für  die  betreffende  Schulart  besitzt,  zu  deren  Feststellung  im  Zweifelsfalle  ein Gutachten des Schularztes oder des Amtsarztes einzuholen ist, und
+
+- nicht  den  Besuch  einer  gleichen  Ausbildung  gemäß  § 32  Abs. 1  Z 1  und  3  bis  7  dieses Bundesgesetzes beendet hat.
+
+(2)  Der  im  Schulorganisationsgesetz  als  Aufnahmsvoraussetzung  vorgeschriebene  erfolgreiche Abschluß  der  8.  Schulstufe  bzw.  die  erfolgreiche  Erfüllung  der  ersten  acht  Jahre  der  allgemeinen Schulpflicht sind gegeben, wenn die Voraussetzungen für die Aufnahme in die 1. Stufe einer mittleren oder einer höheren Schule gemäß § 28 Abs. 3 bis 5 des Schulunterrichtsgesetzes gegeben sind.
+
+(3) Aufnahmsbewerber in ein weiterführendes Semester sind innerhalb einer vom Schulleiter nach Anhörung  des  Studierenden  festzusetzenden  Frist  zu  einer  Einstufungsprüfung  über  den  Lehrstoff sämtlicher  Module  über  Pflichtgegenstände  der  vorhergehenden  Semester  der  betreffenden  Ausbildung zuzulassen.  Die  Ablegung  von  Einstufungsprüfungen  kann  insoweit  entfallen,  als  der  Studierende nachweist, dass er die Lerninhalte der betreffenden Module erfüllt. Der Nachweis kann erfolgen:
+
+- bei  Modulen  über  lehrplanmäßig  abgeschlossene  Pflichtgegenstände  durch  die  Vorlage  eines Zeugnisses einer öffentlichen oder mit dem Öffentlichkeitsrecht ausgestatteten Schule oder eines Externistenprüfungszeugnisses und
+
+- bei Modulen über lehrplanmäßig nicht abgeschlossene Pflichtgegenstände auch durch entsprechende Leistungen im Rahmen des Unterrichtes.
+
+Die Feststellung über den Entfall von Einstufungsprüfungen trifft der das betreffende Modul unterrichtende Lehrer. § 23 Abs. 2 bis 9 finden Anwendung.
+
+##### Beachte für folgende Bestimmung
+
+Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+##### Aufnahme als außerordentlicher Studierender
+
+§ 6. (1) Als außerordentlicher Studierender ist aufzunehmen, wer
+
+- die Aufnahme zum Besuch einzelner Module anstrebt oder
+
+- die  Voraussetzungen  gemäß  § 5  Abs. 1  nicht  erfüllt  und  wichtige  in  seiner  Person  liegende Gründe, die die Aufnahme rechtfertigen, nachweisen kann.
+
+(2) Zum Besuch einzelner Module gemäß Abs. 1 Z 1 dürfen außerordentliche Studierende nur unter Beachtung der Bestimmungen des § 32 Abs. 1 Z 5 aufgenommen werden. Weiters dürfen dadurch keine zusätzlichen Raum-, Ausstattungs- und Personalaufwendungen verursacht werden.
+
+(3) Die Aufnahme als außerordentlicher Studierender gemäß Abs. 1 Z 2 ist nur dann zulässig, wenn alle als ordentliche Studierende in Betracht kommenden Aufnahmsbewerber aufgenommen worden sind.
+
+(4)  Abs. 2  zweiter  Satz  und  Abs. 3  gelten  nicht  für  Privatschulen,  für  deren  Personalaufwand  der Bund keinen Beitrag leistet.
+
+www.ris.bka.gv.at
+
+Seite 4 von 26
+
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
+
+Bundesrecht konsolidiert
+
+##### Beachte für folgende Bestimmung
+
+Abs. 1: Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+##### Aufnahmsverfahren
+
+§ 7. (1)  Für  die  Aufnahme hat der Schulleiter eine Frist zur Anmeldung festzulegen und für jedes Halbjahr  in  geeigneter  Weise  bekanntzumachen.  Eine  Aufnahme  von  nach  der  Frist  angemeldeten Studierenden ist zulässig, wenn dadurch keine zusätzlichen Raum-, Ausstattungsoder Personalaufwendungen verursacht werden.
+
+(2) Über die Aufnahme der angemeldeten Aufnahmsbewerber hat der Schulleiter zu entscheiden. Die Aufnahme  ist  durch Anschlag  an  der Amtstafel der Schule oder in anderer geeigneter  Weise bekanntzumachen. Der Schulgemeinschaftsausschuß hat für den Fall, daß nicht alle Aufnahmsbewerber aufgenommen  werden  können,  für  alle  Studierende  in  gleicher  Weise  geltende  Aufnahmekriterien festzulegen.  Die  Ablehnung  der  Aufnahme  darf  nur  nach  diesen  Kriterien  erfolgen  und  ist  dem Aufnahmsbewerber schriftlich unter Angabe der Gründe mitzuteilen.
+
+(3)  Abweichend  von  Abs. 1  erfolgt  die  Aufnahme  in  das  Realgymnasium  für  Berufstätige  an  der Theresianischen  Militärakademie  durch  Zuweisung  eines  Studienplatzes  durch  den  Schulerhalter.  Die Zuweisung ist nur dann rechtswirksam, wenn der Aufnahmsbewerber die gesetzlichen Aufnahmsvoraussetzungen erfüllt.
+
+(4)  Die  vorstehenden  Absätze  gelten  nicht  für  Privatschulen.  Die  Aufnahme  in  eine  Privatschule erfolgt durch einen Vertrag des bürgerlichen Rechts zwischen dem Studierenden und dem Privatschulerhalter. Wird  jedoch  ein Aufnahmsbewerber  trotz  Nichterfüllung  der  schulrechtlichen Aufnahmsvoraussetzungen aufgenommen, so ist der Aufnahmevertrag rechtsunwirksam.
+
+### 3. ABSCHNITT
+#### Aufnahms- und Eignungsprüfungen
+##### Prüfungstermine
+
+§ 8. Die  Prüfungstermine  für  gesetzlich  vorgeschriebene  Aufnahms-  und  Eignungsprüfungen  sind vom Schulleiter festzusetzen.
+
+##### Beachte für folgende Bestimmung
+
+Abs. 1: Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+##### Durchführung der Aufnahms- und Eignungsprüfungen
+
+§ 9. (1)  Der  zuständige  Bundesminister  hat  durch  Verordnung  nach  den  Aufgaben  und  den lehrplanmäßigen Anforderungen der einzelnen Schularten (Schulformen, Fachrichtungen) die Prüfungsgebiete  sowie  die  Prüfungsformen  der  Aufnahms-  und  Eignungsprüfungen  sowie  nähere Durchführungsbestimmungen festzulegen.
+
+(2) Zur Durchführung der Prüfung hat der Schulleiter die erforderliche Zahl von Lehrern als Prüfer zu bestellen.
+
+##### Prüfungsergebnis
+
+§ 10. (1)  Die  Leistungen  des  Prüfungskandidaten  in  jedem  Prüfungsgebiet  sind  vom  Prüfer  unter sinngemäßer Anwendung des § 20 Abs. 3 bis 5 zu beurteilen (Einzelbeurteilungen).
+
+(2)  Auf  Grund  der  Prüfungsergebnisse  nach  Abs. 1  hat  der  Schulleiter  festzustellen,  ob  der Prüfungskandidat  die  Prüfung  'bestanden'  oder  wegen  mangelnder  Eignung  'nicht  bestanden'  hat (Gesamtbeurteilung).
+
+(3)  Kann  der  Aufnahmsbewerber  trotz  positiver  Bewertung  der  Aufnahms-  und  Eignungsprüfung wegen  Platzmangels  nicht  in  die  Schule  aufgenommen  werden,  ist  ihm  auf  seinen  Antrag  über  die Einzelbeurteilungen und die Gesamtbeurteilung (Abs. 1 und 2) ein Zeugnis auszustellen.
+
+(4)  Die  erfolgreiche  Ablegung  einer  Aufnahms-  und  Eignungsprüfung  berechtigt  hinsichtlich  der jeweiligen Ausbildung zur Aufnahme in alle Schulen derselben Schulart (Schulform, Fachrichtung).
+
+##### Beachte für folgende Bestimmung
+
+Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+www.ris.bka.gv.at
+
+Seite 5 von 26
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
+Bundesrecht konsolidiert
+
+### 4. ABSCHNITT
+
+#### Unterrichtsordnung
+
+##### Modulbildung, Lehrfächerverteilung
+
+§ 11. (1)  Die  Studierenden  sind  vom  Schulleiter  unter  Bedachtnahme  auf  die  Vorschriften  der Schulorganisation sowie allfälliger vom Lehrplan abweichender individueller Modulwahlen der Studierenden (§ 12) in Module einzuteilen (Modulbildung).
+
+(2)  Der  Schulleiter  hat  für  jedes  Halbjahr  die  lehrplanmäßigen  Wochenstunden  der  Module  den einzelnen Lehrern unter Beachtung pädagogischer und didaktischer Grundsätze, unter Bedachtnahme auf die Vorschriften über die Lehrverpflichtung und über die Lehrbefähigung sowie unter Berücksichtigung allfälliger hiermit vereinbarer Wünsche von Lehrern zuzuweisen (Lehrfächerverteilung).
+
+(3) Die Lehrfächerverteilung ist der zuständigen Schulbehörde zur Kenntnis zu bringen.
+
+##### Beachte für folgende Bestimmung
+
+Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+##### Stundenplan, individuelle Modulwahl
+
+§ 12. (1)  Der  Schulleiter  hat  einen  Plan  über  die  Aufteilung  der  in  den  jeweiligen  Semestern lehrplanmäßig  vorgesehenen  Unterrichtsgegenstände  auf  die  einzelnen  Unterrichtsstunden  zu  erstellen und in geeigneter Weise kundzumachen (Stundenplan).
+
+(2) Die Studierenden sowie Aufnahmsbewerber können binnen einer vom Schulleiter festzulegenden Frist vom Lehrplan des betreffenden Semesters abweichende Module wählen, wenn diese im betreffenden Halbjahr  geführt  werden  (individuelle  Modulwahl).  Der  Schulleiter  hat  weiters  festzulegen,  ob  oder welche Module der Ausbildung erfolgreich abgeschlossen sein müssen, um ein Modul unter Abweichung vom  Lehrplan  rechtsgültig  wählen  und  besuchen  zu  können.  Individuelle  Modulwahlen  sind  bei  der Modulbildung (§ 11) zu berücksichtigen.
+
+(3)  Der  Schulleiter  hat,  wenn  dies  aus  didaktischen  oder  anderen  wichtigen  Gründen  (zB  bei Verhinderung des Lehrers) erforderlich ist, vorübergehende Änderungen des Stundenplanes (Stundentausch,  Fachsupplierung,  Entfall  von  Unterrichtsstunden)  anzuordnen.  Die  Studierenden  sind von jeder Änderung des Stundenplanes rechtzeitig in Kenntnis zu setzen.
+
+(4) Am Realgymnasium für Berufstätige an der Theresianischen Militärakademie findet Abs. 2 nicht Anwendung.
+
+##### Beachte für folgende Bestimmung
+
+Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+##### Pflichtgegenstände und verbindliche Übungen
+
+§ 13. (1)  Soweit  alternative  Pflichtgegenstände  vorgesehen sind, haben die Studierenden zwischen diesen innerhalb einer vom Schulleiter einzuräumenden Frist zu wählen. Wenn die Wahl nicht innerhalb dieser Frist getroffen wird, hat der Schulleiter dem Studierenden nach Einräumung eines Anhörungsrechtes einen der alternativen Pflichtgegenstände zuzuweisen. Die Wahl bzw. die Zuweisung gilt vorbehaltlich der nachstehenden Absätze für das gesamte Studium.
+
+(2) Bei späterem Wechsel eines alternativen Pflichtgegenstandes ist innerhalb einer vom Schulleiter festzusetzenden Frist eine Einstufungsprüfung über den Lehrstoff der vorhergehenden Semester des neu gewählten alternativen Pflichtgegenstandes abzulegen. § 23 Abs. 2 bis 9 finden Anwendung.
+
+(3)  Wird  ein  vom  Studierenden  begonnener  alternativer  Pflichtgegenstand  in  einem  späteren Halbjahr nicht geführt, so kann der Studierende
+
+- einen gegebenenfalls angebotenen Freigegenstand besuchen oder
+
+- Modulprüfungen (§ 23a) oder Externistenprüfungen (§ 42) ablegen.
+
+(4) Abs. 1 und 2 gelten sinngemäß, wenn in einem Pflichtgegenstand Wahlmöglichkeiten bestehen (zB Lebende Fremdsprache, Instrumentalunterricht).
+
+(5)  Der  Schulleiter  hat  einen  Studierenden  auf  seinen  Antrag  von  der  Teilnahme  an  einzelnen Pflichtgegenständen und verbindlichen Übungen zu befreien, wenn dieser
+
+1. aus gesundheitlichen Gründen daran nicht teilnehmen kann, oder
+
+www.ris.bka.gv.at
+
+Seite 6 von 26
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
+
+Bundesrecht konsolidiert
+
+- durch Vorlage eines Zeugnisses einer öffentlichen oder mit dem Öffentlichkeitsrecht ausgestatteten Schule, einer Pädagogischen Hochschule, einer anerkannten privaten Pädagogischen Hochschule, eines anerkannten  privaten  Studienganges,  einer  Universität,  einer akkreditierten Privatuniversität, einer Fachhochschule, eines Fachhochschul-Studienganges oder eines  Externistenprüfungszeugnisses  nachweist,  dass  er  das  Bildungsziel  des  betreffenden Pflichtgegenstandes erreicht hat bzw. einen der betreffenden verbindlichen Übung entsprechenden Unterrichtsgegenstand besucht hat, oder
+
+- an berufsbildenden mittleren oder höheren Schulen nach erfolgreicher Ablegung einer Lehrabschlussprüfung eine Befreiung vom praktischen Unterricht in jenen Werkstätten beantragt, deren Lehrstoff durch die Ausbildung im Lehrberuf nachgewiesen wird.
+
+Eine Befreiung gemäß Z 1 ist nur zulässig, wenn die Bildungsziele einschließlich der mit dem Besuch verbundenen Berechtigungen grundsätzlich auch ohne den Besuch des betreffenden Pflichtgegenstandes oder der betreffenden verbindlichen Übung erreicht werden können; wenn dies nicht der Fall ist, ist eine Befreiung  nur  mit  der  Auflage  eines  Kolloquiums  zulässig,  sofern  nach  der  Bildungsaufgabe  des betreffenden Unterrichtsgegenstandes der Nachweis durch ein Kolloquium erfolgen kann.
+
+##### Beachte für folgende Bestimmung
+
+Abs. 1 und 2: Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+##### Freigegenstände, unverbindliche Übungen und Förderunterricht
+
+§ 14. (1)  Die  Studierenden  können  sich  innerhalb  einer  vom  Schulleiter  festzusetzenden  Frist  zur Teilnahme an Freigegenständen und unverbindlichen Übungen anmelden. Die Anmeldung gilt nur für das betreffende Halbjahr.
+
+- Sofern  ein  Förderunterricht  vorgesehen  ist,  können  sich  Studierende  nach  Feststellung  der Förderungsbedüftigkeit  durch  den  das  betreffende  Modul  unterrichtenden  Lehrer  zur  Teilnahme  am Förderunterricht anmelden.
+
+##### Beachte für folgende Bestimmung
+
+Abs. 2: Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+##### Schulveranstaltungen
+
+§ 15. (1)  Schulveranstaltungen  dienen  der  Ergänzung  des  lehrplanmäßigen  Unterrichtes  durch unmittelbaren  und  anschaulichen  Kontakt  zum  beruflichen,  wirtschaftlichen,  gesellschaftlichen  und kulturellen  Leben,  durch  die  Förderung  der  musischen  Anlagen  der  Studierenden  und  durch  die körperliche Ertüchtigung.
+
+- Für die Durchführung von Schulveranstaltungen stehen fünf Tage pro Halbjahr, am Realgymnasium für Berufstätige an der Theresianischen Militärakademie jedoch zehn Tage pro Halbjahr zur  Verfügung,  welche  nach  der  Anzahl  der  Halbjahre  zusammengefasst  und  während  der  gesamten Ausbildung beliebig konsumiert werden können.
+
+- Die näheren Festlegungen (Art, Dauer, Durchführungsbestimmungen, Entscheidungskompetenzen) werden durch den Schulgemeinschaftsausschuß getroffen. Hiebei ist auf die Gewährleistung der Sicherheit der Studierenden und auf eine allfällige Berufstätigkeit der Studierenden Bedacht zu nehmen.
+
+- An  Schulveranstaltungen  können  auch  andere  geeignete  Begleitpersonen,  die  nicht  in  einem Dienstverhältnis zum Bund stehen, teilnehmen.
+
+- Schulveranstaltungen dürfen nicht durchgeführt werden, wenn
+
+- sie nicht der Ergänzung des lehrplanmäßigen Unterrichtes dienen,
+
+- sie die Erfüllung des Lehrplanes beeinträchtigen,
+
+- die  durch  die  Veranstaltung  erwachsenden  Kosten  nicht  dem  Grundsatz  der  Sparsamkeit  und Angemessenheit entsprechen,
+
+- der  ordnungsgemäße  Ablauf  der  Veranstaltung  nicht  gegeben  erscheint,  insbesondere  bei Gefährdung der körperlichen Sicherheit oder der Sittlichkeit der Studierenden, oder
+
+- eine ausreichende finanzielle Bedeckung nicht gegeben ist.
+
+www.ris.bka.gv.at
+
+Seite 7 von 26
+
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
+
+Bundesrecht konsolidiert
+
+##### Beachte für folgende Bestimmung
+
+Abs. 2: Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+##### Unterrichtsmittel
+
+§ 16. (1)  Unterrichtsmittel  sind  im  Hinblick  auf  den  Lehrplan  nach  Material,  Darstellung  und sonstiger Ausstattung zweckmäßige und geeignete Hilfsmittel, die der Unterstützung oder der Bewältigung von Teilaufgaben des Unterrichtes und zur Sicherung des Unterrichtsertrages dienen.
+
+(2)  Der  Lehrer  darf  nur  solche  Unterrichtsmittel  im  Unterricht  einsetzen,  die  nach  dem  Ergebnis seiner  gewissenhaften  Prüfung  den  Anforderungen  nach  Abs. 1  entsprechen  oder  vom  zuständigen Bundesminister  als  den  Anforderungen  des  Abs. 1  entsprechend  für  den  Unterrichtsgebrauch  geeignet erklärt worden sind.
+
+##### Beachte für folgende Bestimmung
+
+Abs. 3: Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+##### Unterrichtssprache
+
+§ 17. (1) Unterrichtssprache ist die deutsche Sprache.
+
+(2)  Die  Verwendung  einer  anderen  als  der  deutschen  Sprache  als  Unterrichtssprache  ist  soweit zulässig, als
+
+- dies durch besondere Gesetze angeordnet ist,
+
+- es durch zwischenstaatliche Vereinbarung festgelegt wird oder
+
+- an Privatschulen gemäß § 4 Abs. 3 des Schulorganisationsgesetzes die Auswahl der Studierenden nach der Sprache erfolgt.
+
+- Darüber hinaus kann die zuständige Schulbehörde auf Antrag des Schulleiters die Verwendung einer lebenden Fremdsprache als Unterrichtssprache in einer öffentlichen Schule anordnen, wenn dies
+
+- wegen der Zahl von fremdsprachigen Personen, die sich in Österreich aufhalten, oder
+
+- zur besseren Ausbildung in Fremdsprachen
+
+zweckmäßig erscheint und dadurch die allgemeine Zugänglichkeit gemäß § 4 des Schulorganisationsgesetzes  nicht  beeinträchtigt  wird.  Diese  Anordnung  kann  sich  auch  auf  einzelne Module beziehen.
+
+- Abs. 3  findet  auf  Privatschulen  mit  der  Maßgabe  Anwendung,  daß  das  Ansuchen  vom Privatschulerhalter zu stellen ist.
+
+##### Beachte für folgende Bestimmung
+
+Abs. 4: Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+### 5. ABSCHNITT
+#### Unterrichtsarbeit und Studierendenbeurteilung
+
+##### Unterrichts- und Bildungsarbeit
+
+§ 18. (1) Der Lehrer hat in eigenständiger und verantwortlicher Unterrichts- und Bildungsarbeit die Aufgabe  der  österreichischen  Schule  (§ 2  des  Schulorganisationsgesetzes)  zu  erfüllen.  Er  hat  den Unterricht dem Alter und einer allfälligen Berufstätigkeit der Studierenden entsprechend zu gestalten.
+
+- Im Sinne des Abs. 1 sowie in Entsprechung mit dem Lehrplan hat er insbesondere
+
+- den Lehrstoff des Unterrichtsgegenstandes dem Stand der Wissenschaft und Technik entsprechend zu vermitteln,
+
+- eine gemeinsame Bildungswirkung aller Unterrichtsgegenstände anzustreben,
+
+- den Unterricht anschaulich und gegenwartsbezogen zu gestalten,
+
+- die Selbsttätigkeit und die Mitarbeit der Studierenden zu fördern,
+
+- jeden Studierenden zu den seinen Anlagen entsprechenden besten Leistungen zu führen und
+
+- den Ertrag des Unterrichts als Grundlage weiterer Bildung zu sichern und durch entsprechende Übungen zu festigen.
+
+www.ris.bka.gv.at
+
+Seite 8 von 26
+
+[[END OF PAGE 8]]
+
+[[START OF PAGE 9]]
+
+Bundesrecht konsolidiert
+
+(3)  Zur  Ergänzung  der  Unterrichtsarbeit  sind  den  Studierenden  Übungen  zur  Festigung  des Lehrstoffes zu empfehlen, deren Erledigung im freien Ermessen der Studierenden liegt.
+
+(4) Sofern in den Lehrplänen die Einbeziehung von Formen des Fernunterrichtes vorgesehen ist, sind Lerninhalte festzulegen, die von den Studierenden auf der Grundlage der Unterrichtsarbeit (Sozialphase) sowie von zur Verfügung gestelltem Lernmaterial in der Individualphase selbständig zu erarbeiten sind. Die  von  den  Studierenden  in  der  Individualphase  erarbeiteten  Lerninhalte  sind  in  die  Sozialphase  so einzubeziehen, daß alle Studierenden der Sozialphase daraus Nutzen ziehen können.
+
+##### Beachte für folgende Bestimmung
+
+Abs. 1: Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+##### Leistungsfeststellung
+
+§ 19. (1) Der Lehrer hat den Zeitpunkt, die Form, den Umfang und die Dauer von Leistungsfeststellungen nach den Anforderungen des Lehrplanes, den Erfordernissen des Unterrichtsgegenstandes sowie dem  Stand  des  Unterrichtes festzulegen. Die Terminisierung von schriftlichen  Leistungsfeststellungen  hat  durch  die  betreffenden  Lehrer  in  koordinierter  Weise  zu erfolgen;  die  Terminisierung  von  lehrplanmäßig  vorgesehenen  Schularbeiten  ist  den  Studierenden innerhalb der ersten drei Wochen eines Halbjahres bekanntzugeben.
+
+(2)  Eine  Leistungsfeststellung  ist  insoweit  nicht  durchzuführen,  als  feststeht,  daß  der  Studierende wegen einer körperlichen Behinderung eine entsprechende Leistung nicht erbringen kann oder durch die Leistungsfeststellung gesundheitlich gefährdet ist.
+
+##### Leistungsbeurteilung
+
+§ 20. (1) Die Beurteilung der Leistungen der Studierenden erfolgt durch den unterrichtenden Lehrer.
+
+(2) Maßstab für die Leistungsbeurteilung sind die Anforderungen des Lehrplanes unter Bedachtnahme auf den jeweiligen Stand des Unterrichtes. Die Nichtteilnahme an Schulveranstaltungen hat bei der Beurteilung der Leistungen des Studierenden außer Betracht zu bleiben.
+
+(3) Für die Beurteilung der Leistungen der Studierenden sind folgende Beurteilungsstufen (Noten) zu verwenden:
+
+- Sehr  gut  (1)  für  Leistungen,  mit  denen  der  Studierende  die  nach  Maßgabe  des  Lehrplanes gestellten Anforderungen in der Erfassung und in der Anwendung des Lehrstoffes sowie in der Durchführung der Aufgaben in weit über das Wesentliche hinausgehendem Ausmaß erfüllt und, wo dies möglich ist, deutliche Eigenständigkeit beziehungsweise die Fähigkeit zur selbständigen Anwendung seines Wissens und Könnens auf für ihn neuartige Aufgaben zeigt;
+
+- Gut (2) für Leistungen, mit denen der Studierende die nach Maßgabe des Lehrplanes gestellten Anforderungen  in der Erfassung und in der Anwendung  des  Lehrstoffes sowie in der Durchführung der Aufgaben in über das Wesentliche hinausgehendem Ausmaß erfüllt und, wo dies  möglich  ist,  merkliche  Ansätze  zur  Eigenständigkeit  beziehungsweise  bei  entsprechender Anleitung  die  Fähigkeit  zur  Anwendung  seines  Wissens  und  Könnens  auf  für  ihn  neuartige Aufgaben zeigt;
+
+- Befriedigend (3) für  Leistungen,  mit denen der Studierende die nach Maßgabe des Lehrplanes gestellten Anforderungen in der Erfassung und in der Anwendung des Lehrstoffes sowie in der Durchführung  der  Aufgaben  in  den  wesentlichen  Bereichen  zur  Gänze  erfüllt;  dabei  werden Mängel in der Durchführung durch merkliche Ansätze zur Eigenständigkeit ausgeglichen;
+
+- Genügend  (4)  für  Leistungen,  mit  denen  der  Studierende  die  nach  Maßgabe  des  Lehrplanes gestellten Anforderungen in der Erfassung und in der Anwendung des Lehrstoffes sowie in der Durchführung der Aufgaben in den wesentlichen Bereichen überwiegend erfüllt;
+
+- Nicht genügend (5) für Leistungen, mit denen der Studierende nicht einmal alle Erfordernisse für die Beurteilung mit 'Genügend' erfüllt.
+
+- Durch die Noten sind zu beurteilen:
+
+- die Erfassung und die Anwendung des Lehrstoffes,
+
+- die Durchführung der Aufgaben,
+
+- die Selbständigkeit der Arbeit und
+
+- die Eigenständigkeit des Studierenden.
+
+- Vorgetäuschte Leistungen sind nicht zu beurteilen.
+
+www.ris.bka.gv.at
+
+Seite 9 von 26
+
+[[END OF PAGE 9]]
+
+[[START OF PAGE 10]]
+
+Bundesrecht konsolidiert
+
+(6) Studierende, die aus gesundheitlichen Gründen eine Leistung nicht erbringen können, sind unter Bedachtnahme  auf  diese  Beeinträchtigung  zu  beurteilen,  soweit  die  Bildungs-  und  Lehraufgabe  des betreffenden Unterrichtsgegenstandes grundsätzlich erreicht wird.
+
+##### Beachte für folgende Bestimmung
+
+Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+##### Modulbeurteilung
+
+§ 21. (1)  Die  Beurteilung  der  Leistungen  eines  Studierenden  in  einem  Modul  erfolgt  durch  den Lehrer des betreffenden Moduls  unter Zugrundelegung  aller im betreffenden Modul  erbrachten Leistungen.
+
+(2)  Wenn  der  Lehrer  eine  sichere  Leistungsbeurteilung  nicht  treffen  kann,  so  hat  er  spätestens innerhalb der letzten zwei Wochen des Halbjahres eine Leistungsfeststellung (§ 19) anzuordnen. Tritt der Studierende zu dieser Leistungsfeststellung nicht an, so ist er in diesem Modul nicht zu beurteilen.
+
+(3) Auf Wunsch des Studierenden ist in jedem Modul eine Leistungsfeststellung (§ 19) durchzuführen. Das Ansuchen ist so zeitgerecht zu stellen, dass die Durchführung der Prüfung möglich ist.
+
+##### Beachte für folgende Bestimmung
+
+Abs. 1 und 3: Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+##### Information der Studierenden
+
+§ 22. (1)  Die  Beurteilungen  einzelner  Leistungen  sind  dem  Studierenden  unverzüglich  nach Auswertung einer Leistungsfeststellung durch den Lehrer des betreffenden Moduls bekanntzugeben.
+
+(2)  Der  Lehrer hat jeden Studierenden  auf sein Verlangen  über  dessen Leistungsstand zu informieren.
+
+(3)  Wenn  die  Leistungen  des  Studierenden  auf  Grund  der  bisher  erbrachten  Leistungen  in  einem Modul nicht oder mit 'Nicht genügend' zu beurteilen wären, ist ihm dies unverzüglich mitzuteilen und vom unterrichtenden Lehrer oder vom Studienkoordinator Gelegenheit zu einem beratenden Gespräch zu geben.  Dabei  sind  insbesondere  leistungsfördernde  Maßnahmen  zur  Vermeidung  dieser  negativen Beurteilung zu beraten.
+
+(4) Die Verständigungen gemäß Abs. 1 bis 3 haben ausschließlich Informationscharakter.
+
+##### Beachte für folgende Bestimmung
+
+Abs. 1, 2, 4, 6, 7 und 8: Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+##### Kolloquien
+
+§ 23. (1)  Jeder  Studierende,  der  in  einem  oder  in  mehreren  Modulen  nicht  oder  mit  'Nicht genügend' beurteilt wurde, ist berechtigt, in diesen Pflichtgegenständen außerhalb des lehrplanmäßigen Unterrichtes ein Kolloquium abzulegen.
+
+(2)  Prüfer  ist  der  das  Modul  zuletzt  unterrichtende  Lehrer  oder  im  Verhinderungsfall  ein  vom Schulleiter (bei Abteilungsgliederung an berufsbildenden Schulen vom Abteilungsvorstand) zu bestellender fachkundiger Lehrer.
+
+(3) Die Prüfungstermine für Kolloquien sind auf Antrag des Studierenden vom Prüfer anzuberaumen. Einem Terminwunsch ist nach Möglichkeit zu entsprechen.
+
+(4) Die Aufgabenstellungen  sowie die Prüfungsformen  sind durch den Prüfer (die Prüfer) festzusetzen,  wobei  die  Form  der  schriftlichen  Prüfung  neben  der  mündlichen  Prüfung  nur  im  Fall lehrplanmäßig vorgesehener Schularbeiten zulässig ist.
+
+(5) Das Kolloquium hat den Lehrstoff des betreffenden Unterrichtsgegenstandes für den Zeitraum, auf den sich das Kolloquium bezieht, zu umfassen.
+
+(6) Die Beurteilung der Leistungen des Studierenden beim Kolloquium erfolgt durch den Prüfer und ist  als  Leistungsbeurteilung  für  das  Modul  bzw.  für  die  Module  festzusetzen.  § 20  Abs. 3  bis  6  findet Anwendung.
+
+www.ris.bka.gv.at
+
+Seite 10 von 26
+
+[[END OF PAGE 10]]
+
+[[START OF PAGE 11]]
+
+Bundesrecht konsolidiert
+
+(7)  Wegen  vorgetäuschter  Leistungen  nicht  beurteilte  oder  mit  'Nicht  genügend'  beurteilte Kolloquien dürfen höchstens zwei Mal wiederholt werden. Die vorstehenden Absätze finden Anwendung.
+
+(8) Jedem Studierenden ist die Teilnahme an Kolloquien als Zuhörer möglich. Der Prüfer  (Abs. 2) hat Zuhörer von der weiteren Teilnahme auszuschließen, wenn durch diese eine Störung im Ablauf des Kolloquiums eintritt.
+
+(9)  Der  Prüfer  hat  Aufzeichnungen  zu  führen  über  die  beim  Kolloquium  gestellten  Fragen,  die erteilten  Beurteilungen  sowie  allfällige  besondere  Vorkommnisse,  die  zu  einer  negativen  Beurteilung führen.
+
+##### Beachte für folgende Bestimmung
+
+Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+##### Modulprüfungen
+
+§ 23a. Über einzelne Module kann auf Antrag des Studierenden auch ohne Besuch des Moduls bis zum Ende des Halbjahres, welches von seiner Zahl dem vorletzten Semester der Ausbildung entspricht, eine  Modulprüfung  abgelegt  werden.  Prüfer  ist  ein  vom  Schulleiter  (bei  Abteilungsgliederung  an berufsbildenden Schulen vom Abteilungsvorstand) zu bestellender fachkundiger Lehrer. § 23 Abs. 3 bis 6, 8 und 9 finden Anwendung. Eine Wiederholung von Modulprüfungen ist nicht zulässig.
+
+##### Beachte für folgende Bestimmung
+
+Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+##### Zeugnisse
+
+§ 24. (1) Dem Studierenden ist am Ende jedes Halbjahres ein Zeugnis über alle in diesem Halbjahr absolvierten Module und auf seinen Antrag ein Zeugnis über sämtliche zu einem bestimmten Zeitpunkt erfolgreich oder nicht erfolgreich abgeschlossene Module auszustellen.
+
+(2) Jedes Zeugnis hat insbesondere zu enthalten:
+
+- die Bezeichnung der Schule,
+
+- die Personalien des Studierenden,
+
+- die Bezeichnung des Lehrplanes, nach dem unterrichtet wurde,
+
+- die Module (Unterrichtsgegenstand, Semester, Wochenstunden),
+
+- die Modulbeurteilungen,
+
+- Teilnahmevermerke bei verbindlichen und unverbindlichen Übungen,
+
+- Vermerke  über  eine  allfällige  Befreiung  von  der  Teilnahme  an  Pflichtgegenständen  und verbindlichen Übungen,
+
+- einen Vermerk über eine allfällige Ablegung einer vorgezogenen Teilprüfung (§ 35 Abs. 4) und über die Beurteilung im Prüfungsgebiet bzw. in den Prüfungsgebieten,
+
+- Ort  und  Datum  der  Ausstellung,  Unterschrift  des  Schulleiters  (bei  Abteilungsgliederung  des Abteilungsvorstandes), Rundsiegel der Schule.
+
+(3) Im Zeitpunkt des erfolgreichen Abschlusses aller Module über die lehrplanmäßigen Pflichtgegenstände und der Teilnahme an verbindlichen Übungen ist ein Abschlusszeugnis auszustellen, wenn  nicht  gemäß  § 39  Abs. 1  ein  Zeugnis  über  eine  abschließende  Prüfung  ausgestellt  wird.  In  das Abschlusszeugnis  können  Vermerke  über  durch  den  Schulbesuch  erworbene  Berechtigungen  (auch  im Hinblick  auf  die  EU-rechtliche  Anerkennung  von  Diplomen  und  beruflichen  Befähigungsnachweisen) aufgenommen werden.
+
+(4) Für die Formulare von Zeugnissen sind die für öffentliche Schulen vorgesehenen Unterdruckpapiere zu verwenden.
+
+##### Beachte für folgende Bestimmung
+
+Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+www.ris.bka.gv.at
+
+Seite 11 von 26
+
+[[END OF PAGE 11]]
+
+[[START OF PAGE 12]]
+
+Bundesrecht konsolidiert
+
+##### Schulbesuchsbestätigung
+
+§ 25. (1) Auf Antrag eines Studierenden ist ihm der Besuch der Schule zu bestätigen (Schulbesuchsbestätigung).
+
+(2)  Im  Falle  des  Ausscheidens aus der Schule hat die Schulbesuchsbestätigung einen Hinweis auf das Ausscheiden aus der Schule zu enthalten.
+
+(3) § 24 Abs. 2 Z 1 bis 3 und 9 sowie Abs. 4 finden Anwendung.
+
+##### Beachte für folgende Bestimmung
+
+Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+### 6. ABSCHNITT
+
+#### Aufsteigen, Erfolgreicher Abschluss, Wiederholen, Anrechnungen
+
+##### Aufsteigen
+
+§ 26. (1) Ein Studierender ist zum Aufsteigen in das nächste Semester berechtigt.  Am Realgymnasium für Berufstätige an der Theresianischen Militärakademie ist ein Studierender nicht zum Aufsteigen  berechtigt,  wenn  er  über  Pflichtgegenstände,  in  denen  er  im  unmittelbar  vorangegangenen Semester  nicht  oder  mit  'Nicht  genügend'  beurteilt  worden  ist,  keinen  positiven  Abschluss  eines Kolloquiums  nachweisen  kann  oder  in  mehr  als  drei  Pflichtgegenständen  nicht  oder  mit  'Nicht genügend' beurteilt wurde.
+
+(2) Über die Nichtberechtigung zum Aufsteigen hat der Schulleiter schriftlich zu entscheiden.
+
+##### Beachte für folgende Bestimmung
+
+Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+##### Erfolgreicher Abschluss
+
+§ 27. (1) Eine Ausbildung, die nicht mit einer abschließenden Prüfung beendet wird, ist erfolgreich abgeschlossen, wenn jedes Modul (vorbehaltlich einer allfälligen Befreiung gemäß § 13 Abs. 4 oder einer Anrechnung gemäß § 30) positiv beurteilt wurde. Alle übrigen Ausbildungen sind mit dem erfolgreichen Abschluss der abschließenden Prüfung erfolgreich abgeschlossen.
+
+(2) Wenn ein Studierender an einer berufsbildenden mittleren oder höheren Schule im praktischen Unterricht  oder  an  einer  Bildungsanstalt  für  Kindergartenpädagogik  oder  für  Sozialpädagogik  in Kindergarten-, Hort- oder Heimpraxis oder Leibeserziehung oder Bewegungserziehung; Bewegung und Sport  mehr  als  das  Vierfache  der  wöchentlichen  Stundenzahl  eines  Moduls  ohne  eigenes  Verschulden versäumt, ist ihm Gelegenheit zu geben, die in diesem Modul geforderten Kenntnisse und Fertigkeiten durch ein Kolloquium nachzuweisen, sofern er die Versäumnisse durch eine facheinschlägige praktische Tätigkeit nachgeholt hat. Bei Versäumnis des Unterrichtes im genannten Ausmaß oder bei Nichtablegen des Kolloquiums ist der Studierende in diesem Modul nicht zu beurteilen.
+
+##### Beachte für folgende Bestimmung
+
+Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+##### Wiederholen
+
+§ 28. (1) Ein nicht erfolgreich abgeschlossenes Modul darf auf Antrag höchstens ein Mal in einem weiteren Halbjahr besucht werden. Werden die Leistungen in diesem Modul nach dessen Wiederholung nicht  oder  mit  'Nicht  genügend'  beurteilt,  so  entfällt  die  zweite  Wiederholungsmöglichkeit  eines allenfalls negativ beurteilten Kolloquiums.
+
+(2) In besonders berücksichtigungswürdigen Fällen kann der Schulleiter eine weitere Wiederholung eines  gemäß  Abs. 1  besuchten  und  nicht  erfolgreich  abgeschlossenen  Moduls  bewilligen.  Werden  die Leistungen in diesem Modul abermals nicht oder mit 'Nicht genügend' beurteilt, so entfallen sämtliche Wiederholungsmöglichkeiten eines allenfalls negativ beurteilten Kolloquiums.
+
+(3) Am  Realgymnasium für Berufstätige an der Theresianischen Militärakademie ist ein Studierender,  der  in  einem  Modul  nicht  oder  mit  'Nicht  genügend'  beurteilt  wurde,  zum  höchstens zweimaligen  Wiederholen  des  betreffenden  Semesters  oder  des  nicht  oder  mit  'Nicht  genügend' beurteilten  Moduls  berechtigt.  Eine  dritte  Wiederholung  kann  auf  Ansuchen  des  Studierenden  vom Schulleiter bei Vorliegen wichtiger Gründe bewilligt werden. Wenn das betreffende Modul im folgenden Halbjahr  nicht  geführt  wird,  dann  ist  der  Studierende  berechtigt,  das  unmittelbar  vorangegangene Semester freiwillig zu wiederholen, sofern dadurch zusätzliche Raum-, Ausstattungsund Personalressourcen nicht erforderlich werden.
+
+www.ris.bka.gv.at
+
+Seite 12 von 26
+
+[[END OF PAGE 12]]
+
+[[START OF PAGE 13]]
+
+Bundesrecht konsolidiert
+
+##### Beachte für folgende Bestimmung
+
+Zum Inkrafttreten vgl. § 69 Abs. 7.
+
+##### Anrechnungen beim Übertritt in eine andere Schulart (Schulform, Fachrichtung, Ausbildung)
+
+§ 30. Der  Schulleiter  hat  einen  Studierenden  auf  seinen  Antrag  von  der  Teilnahme  an  einzelnen Modulen  zu  befreien,  wenn  dieser  durch  Vorlage  eines  Zeugnisses  einer  öffentlichen  oder  mit  dem Öffentlichkeitsrecht ausgestatteten Schule, einer Pädagogischen Hochschule, einer anerkannten privaten Pädagogischen Hochschule, eines anerkannten privaten Studienganges, einer Universität, einer akkreditierten  Privatuniversität,  einer  Fachhochschule,  eines  Fachhochschul-Studienganges  oder  eines Externistenprüfungszeugnisses nachweist, dass er das Bildungsziel des betreffenden Moduls erlangt hat.
+
+### 7. ABSCHNITT
+#### Höchstdauer und Beendigung des Schulbesuches
+
+##### Höchstdauer des Schulbesuches
+
+§ 31. Die Höchstdauer des Schulbesuches beträgt das Zweifache der vorgesehenen Ausbildungsdauer.
+
+##### Beachte für folgende Bestimmung
+
+Abs. 1 und 2: Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+##### Beendigung des Schulbesuches
+
+§ 32. (1) Die Eigenschaft als Studierender einer Ausbildung endet:
+
+- mit erfolgreichem Abschluss (§ 27) der betreffenden Ausbildung,
+
+- mit  dem  Zeitpunkt  einer  schriftlich  gegenüber  der  Schulleitung  erklärten  Abmeldung  vom Schulbesuch,
+
+- mit  dem  Zeitpunkt,  in  dem  feststeht,  dass  ein  Studierender  im  Falle  des  Weiterbesuches  die gemäß § 31 zulässige Höchstdauer des Schulbesuches überschreitet,
+
+- mit  dem  Ende  eines  Halbjahres,  wenn  nicht  in  diesem  und  in  dem  vorangegangenen  Halbjahr Module  im  Mindestausmaß  von  10  Wochenstunden  erfolgreich  abgeschlossen  wurden,  sofern dies nicht auf rücksichtswürdige Gründe zurückzuführen ist,
+
+- mit  dem  Zeitpunkt,  in  dem  die  Leistungen  des  Studierenden  bei  der  letztmöglichen  Ablegung oder Wiederholung eines Kolloquiums nicht oder mit 'Nicht genügend' beurteilt wurden,
+
+- bei  Fernbleiben  vom  Unterricht  mit  dem  ungenützten  Ablauf  der  zweiwöchigen  Frist  seit  der Zustellung der schriftlichen Aufforderung gemäß § 45, sofern diese nicht aus rücksichtswürdigen Gründen unterblieben ist oder
+
+- mit dem Eintritt der Rechtskraft eines Ausschlusses (§ 46 Abs. 1).
+
+- Der  Zeitpunkt  der  Beendigung  des  Schulbesuches  ist  dem  Studierenden  mittels  schriftlicher Entscheidung nachweislich mitzuteilen und auf dem Zeugnis (§ 24) bzw. auf der Schulbesuchsbestätigung (§ 25) ersichtlich zu machen.
+
+- Am  Realgymnasium  für  Berufstätige  an  der  Theresianischen  Militärakademie  endet  die Eigenschaft als Studierender bei Entzug des Studienplatzes durch den Schulerhalter.
+
+- Auf  Privatschulen  finden  die  vorstehenden  Absätze  mit  der  Maßgabe  Anwendung,  daß  der Privatschulerhalter darüber hinausgehende Gründe für die Beendigung des Schulbesuches anläßlich der Aufnahme  vereinbaren  kann,  soweit  dadurch  nicht  § 4  Abs. 3  des  Schulorganisationsgesetzes  berührt wird.
+
+##### Abschließende Prüfungen
+
+§ 33. (1) Abschließende Prüfungen bestehen aus
+
+Seite 13 von 26
+
+www.ris.bka.gv.at
+
+[[END OF PAGE 13]]
+
+[[START OF PAGE 14]]
+
+Bundesrecht konsolidiert
+
+- einer Hauptprüfung oder
+
+- einer Vorprüfung und einer Hauptprüfung.
+
+(2) Vorprüfungen bestehen aus mündlichen, schriftlichen, grafischen und/oder praktischen Prüfungen oder aus einer Fachbereichsarbeit.
+
+(3) Hauptprüfungen bestehen aus
+
+- einer Klausurprüfung, die schriftliche, grafische und/oder praktische Arbeiten umfasst, und
+
+- einer mündlichen Prüfung.
+
+Die Klausurprüfung oder einzelne Klausurarbeiten können auch in Form einer vom Prüfungskandidaten oder  von  mehreren  Prüfungskandidaten  gemeinsam  als  eigenständige  Arbeit  zu  erstellenden  Diplombzw. Abschlussarbeit durchgeführt werden.
+
+(4) Der zuständige Bundesminister hat für die betreffenden Schularten (Schulformen, Fachrichtungen) nach deren Aufgaben und Lehrplan sowie unter Bedachtnahme auf die Gleichwertigkeit der Prüfung durch Verordnung die Prüfungsform gemäß Abs. 1 bis 3 festzulegen.
+
+##### Beachte für folgende Bestimmung
+
+Abs. 2 Z 2: Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+##### Prüfungskommission
+
+§ 34. (1)  Vorsitzender  der  Prüfungskommission  der  Hauptprüfung  der  abschließenden  Prüfung (einschließlich einer allenfalls vorgezogenen  Teilprüfung) sowie der  Vorprüfung in Form  einer Fachbereichsarbeit  ist  der  nach  der  Geschäftsverteilung  des  Amtes  des  Landesschulrates  zuständige Landesschulinspektor  oder  ein  anderer  von  der  zuständigen  Schulbehörde  zu  bestellender  Experte  der betreffenden Schulart (zB Schulleiter, Abteilungsvorstand). Im Falle der Verhinderung des Vorsitzenden erfolgt  die  Vorsitzführung  durch  den  Schulleiter  oder  einen  von  diesem  zu  bestellenden  Vertreter. Vorsitzender  der  Prüfungskommission  der  Vorprüfung  (ausgenommen  die  Vorprüfung  in  Form  einer Fachbereichsarbeit) ist der Schulleiter oder ein von ihm zu bestellender Vertreter.
+
+- Neben dem Vorsitzenden sind Mitglieder der jeweiligen Prüfungskommission:
+
+- der  Schulleiter  oder  der  zuständige  Abteilungsvorstand,  sofern  der  Schulleiter  nicht  gemäß Abs. 1  Vorsitzender  ist,  bei  der  Hauptprüfung  (einschließlich  einer  allenfalls  vorgezogenen Teilprüfung) und
+
+- jene Lehrer, die den betreffenden Unterrichtsgegenstand unterrichtet haben, der ein Prüfungsgebiet  der  Vorprüfung  (Mitglieder  der  Prüfungskommission  der  Vorprüfung),  der vorgezogenen Teilprüfung (Mitglieder der Prüfungskommission der vorgezogenen Teilprüfung) bzw. der Hauptprüfung (Mitglieder der Prüfungskommission der Hauptprüfung) des betreffenden Prüfungskandidaten bildet (Prüfer).
+
+Setzt sich ein Prüfungsgebiet aus mehreren  Unterrichtsgegenständen  zusammen  oder  wurde  ein Unterrichtsgegenstand  von  mehreren  Lehrern  unterrichtet,  so  hat  der  Schulleiter  einen,  wenn  es  die fachlichen  Anforderungen  erfordern,  jedoch  höchstens  zwei  der  unterrichtenden  Lehrer  als  Prüfer  zu bestellen; im Prüfungsgebiet 'Projekt' an berufsbildenden höheren Schulen oder bei der Durchführung der Prüfung in Form einer Diplom- oder Abschlussarbeit können auch mehr als zwei der unterrichtenden Lehrer zu Prüfern bestellt werden.
+
+- Wenn ein Prüfer (Abs. 2) verhindert ist, hat der Schulleiter einen Vertreter zu bestellen.
+
+(4) Für einen Beschluss der Prüfungskommission ist - sofern im § 38 nicht anderes angeordnet wird die  Anwesenheit  des  Vorsitzenden  und  von  zumindest  zwei  Dritteln  der  übrigen  Mitglieder  sowie  die unbedingte  Mehrheit  der  abgegebenen  Stimmen  erforderlich.  Stimmenthaltungen  sind  unzulässig.  Der Vorsitzende stimmt nicht mit, entscheidet jedoch im Falle der Stimmengleichheit.
+
+##### Beachte für folgende Bestimmung
+
+Abs. 2 Z 1 und Abs. 4: Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+##### Prüfungstermine
+
+§ 35. (1)  Die  Prüfungstermine  der  Vorprüfungen  sind  nach  den  Aufgaben  und  dem  Lehrplan  der betreffenden Schulart durch Verordnung des zuständigen Bundesministers festzulegen.
+
+- Hauptprüfungen haben stattzufinden:
+
+www.ris.bka.gv.at
+
+Seite 14 von 26
+
+[[END OF PAGE 14]]
+
+[[START OF PAGE 15]]
+
+Bundesrecht konsolidiert
+
+- für das erstmalige Antreten innerhalb der letzten acht Wochen eines Halbjahres (Haupttermin),
+
+- im  Übrigen  innerhalb  der  ersten  sechs  Wochen  des  Schuljahres  und  innerhalb  der  letzten  acht Wochen eines Halbjahres.
+
+Wenn es aus lehrplanmäßigen Gründen oder wegen der Dauer einer Ferialpraxis erforderlich ist, kann der zuständige Bundesminister durch Verordnung von Z 1 und 2 abweichende Termine für die Hauptprüfung festlegen.  Zwischen  dem  Ende  der  Klausurprüfung  und  dem  Anfang  der  mündlichen  Prüfung  haben mindestens drei Wochen zu liegen.
+
+(3) Der Schulleiter hat - gegebenenfalls nach Herstellung des Einvernehmens mit dem Vorsitzenden - unter Bedachtnahme auf die lehrplanmäßigen Erfordernisse die konkreten Prüfungstermine für die Vorund die Hauptprüfung festzulegen.
+
+(4) Unter Bedachtnahme auf den Lehrplan können einzelne Teilprüfungen der Klausurprüfung bzw. der mündlichen Prüfung auf Antrag des Studierenden vor dem Haupttermin (Abs. 2 Z 1) abgelegt werden (vorgezogene Teilprüfungen), wenn die entsprechenden Pflichtgegenstände positiv abgeschlossen wurden.  Prüfungstermin  ist  der  Termin  gemäß  Abs. 2  am  Ende  desjenigen  Halbjahres,  in  dem  der Pflichtgegenstand abgeschlossen wurde. § 40 findet sinngemäß Anwendung.
+
+##### Beachte für folgende Bestimmung
+
+Abs. 1: Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+##### Zulassung zur Prüfung
+
+§ 36. (1) Zur Ablegung der Hauptprüfung sind vorbehaltlich der Bestimmungen des § 35 Abs. 4 alle Prüfungskandidaten  berechtigt,  die  sämtliche  Module  der  Ausbildung  erfolgreich  abgeschlossen  haben oder die in ihrem letzten Halbjahr in höchstens einem Modul nicht oder mit 'Nicht genügend' beurteilt worden sind;  diesfalls  hat  der  Prüfungskandidat  im  Rahmen  der  abschließenden  Prüfung  eine  Prüfung (Modulprüfung) aus dem betreffenden Pflichtgegenstand abzulegen. Soweit die folgenden Bestimmungen nicht anderes anordnen, finden auf die Durchführung von Modulprüfungen im Rahmen der abschließenden Prüfung § 37 Abs. 1, 3 und 7 sowie § 40 sinngemäß Anwendung. Die Modulprüfung ist insoweit  nicht  abzulegen,  als  der  betreffende  Pflichtgegenstand  ein  Prüfungsgebiet  der  Hauptprüfung bildet.
+
+(2) Besteht eine abschließende Prüfung aus einer verpflichtenden Vorprüfung und einer Hauptprüfung, so ist die erfolgreiche  Ablegung der Vorprüfung eine zusätzliche Voraussetzung für die Berechtigung zur Ablegung der Hauptprüfung. Wurde eine nicht verpflichtende Vorprüfung nicht oder mit  'Nicht  genügend'  beurteilt,  ist  zur  Gewährleistung  der  Gleichwertigkeit  der  Prüfungsform  (§ 33 Abs. 4)  eine  entsprechende  Änderung  der  gewählten  Prüfungsform  vorzusehen.  In  diesem  Fall  ist  der Prüfungskandidat bei der Hauptprüfung zum Haupttermin zur Ablegung der Klausurprüfung und jener mündlichen Teilprüfungen, die durch die Änderung der Prüfungsform nicht betroffen sind, zuzulassen; zu den Teilprüfungen, die von der Änderung der Prüfungsform betroffen sind, ist der Prüfungskandidat auf seinen Antrag zum Antreten in einem späteren Termin (§ 35 Abs. 2 Z 2) berechtigt.
+
+(3) Jede Zulassung zum Antreten zur abschließenden Prüfung (einschließlich zur Wiederholung von Teilprüfungen) erfolgt auf Antrag des Prüfungskandidaten, wobei ein nicht gerechtfertigtes Fernbleiben von einer Wiederholung einer Teilprüfung (ohne eine innerhalb der Anmeldefrist zulässige Zurücknahme des Antrages) zu einem Verlust der betreffenden Wiederholungsmöglichkeit (§ 40 Abs. 1) führt.
+
+##### Beachte für folgende Bestimmung
+
+Abs. 2 Z 5: Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+##### Prüfungsgebiete, Aufgabenstellungen, Prüfungsvorgang
+
+§ 37. (1)  Der  zuständige  Bundesminister  hat  durch  Verordnung  nach  den  Aufgaben  und  dem Lehrplan der betreffenden Schulart (Schulform, Fachrichtung) unter Bedachtnahme auf die Gleichwertigkeit der Prüfungen die näheren Bestimmungen über die Prüfungsgebiete, die Aufgabenstellungen und die Durchführung der Prüfungen festzulegen.
+
+(2) Die Aufgabenstellungen sind wie folgt zu bestimmen:
+
+- für die einzelnen Prüfungsgebiete der Klausurprüfung (Klausurarbeiten), soweit in den nachstehenden  Ziffern  nicht  anderes  angeordnet  wird,  auf  Vorschlag  des  Prüfers  durch  die zuständige Schulbehörde,
+
+www.ris.bka.gv.at
+
+Seite 15 von 26
+
+[[END OF PAGE 15]]
+
+[[START OF PAGE 16]]
+
+Bundesrecht konsolidiert
+
+- für  die  einzelnen  Prüfungsgebiete  der  Vorprüfung  und  der  mündlichen  Prüfung  (mündliche Teilprüfungen) durch den Prüfer mit Zustimmung des Vorsitzenden der Prüfungskommission,
+
+- für  die  Fachbereichsarbeit  im  Rahmen  der  Vorprüfung  sowie  für  Themen  einer  Diplom-  oder Abschlussarbeit  im  Rahmen  der  Klausurprüfung  durch  den  Prüfer  im  Einvernehmen  mit  dem Prüfungskandidaten und der zuständigen Schulbehörde,
+
+- im Falle des Abs. 6 Z 1 auf Vorschlag des Prüfers durch die zuständige Schulbehörde oder im Falle der organisatorischen Undurchführbarkeit durch den Schulleiter im Einvernehmen mit dem Prüfer und
+
+- für Modulprüfungen durch den Prüfer.
+
+(3) Die Prüfung ist so zu gestalten, dass der Prüfungskandidat bei der Lösung der Aufgaben seine Kenntnisse  des  Prüfungsgebietes,  seine  Einsicht  in  die  Zusammenhänge  zwischen  verschiedenen Sachgebieten sowie seine Eigenständigkeit im Denken  und  in der Anwendung  des  Lehrstoffes nachweisen kann.
+
+(4) Bei der Fachbereichsarbeit im Rahmen der Vorprüfung sowie der Diplom- oder Abschlussarbeit im Rahmen der Klausurprüfung ist in einem gegenüber Abs. 3 erhöhten Ausmaß auf die Selbständigkeit der  Leistungen  des  Prüfungskandidaten  zu  achten.  Während  deren  Erstellung  ist  der  Prüfungskandidat kontinuierlich vom Prüfer zu betreuen.
+
+(5) Der Prüfungskandidat ist berechtigt, zur mündlichen Prüfung anzutreten, wenn die Klausurprüfung erfolgreich beendet ist oder nicht mehr als zwei Klausurarbeiten der Klausurprüfung mit 'Nicht genügend' beurteilt wurden; sofern es sich hiebei ausschließlich um schriftliche Klausurarbeiten handelt,  hat  der  Prüfungskandidat  bei  der  mündlichen  Prüfung  jeweils  eine  zusätzliche  mündliche Teilprüfung abzulegen, wenn sie nicht ohnehin Prüfungsteile der mündlichen Prüfung sind. Wurden mehr als zwei Klausurarbeiten der Klausurprüfung mit 'Nicht genügend' beurteilt, so ist die Gesamtbeurteilung der abschließenden Prüfung mit 'nicht bestanden' festzusetzen. Bei der Anwendung dieses Absatzes bleiben gemäß § 35 Abs. 4 vorgezogen abgelegte Teilprüfungen außer Betracht.
+
+- Wurden  Prüfungsgebiete der Klausurprüfung wegen  gerechtfertigter Verhinderung nicht beurteilt, so ist der Prüfungskandidat berechtigt,
+
+- die betreffenden Klausurarbeiten nach Möglichkeit im selben Prüfungstermin abzulegen, wovon die zuständige Schulbehörde in Kenntnis zu setzen ist, und
+
+- zu  allen  mündlichen  Teilprüfungen,  mit  Ausnahme  derjenigen,  die  einem  nicht  beurteilten Prüfungsgebiet der Klausurprüfung entsprechen, anzutreten.
+
+Z 1 findet nicht Anwendung, wenn die Klausurprüfung wegen vorgetäuschter Leistungen nicht beurteilt wurde.
+
+(7)  Die  mündliche  Prüfung  ist  öffentlich  und  vor  der  jeweiligen  Prüfungskommission  abzuhalten, wobei Prüfer von Prüfungsgebieten ausschließlich der Klausurprüfung sowie von vorgezogenen Teilprüfungen  von  der  Anwesenheitsverpflichtung  ausgenommen  sind.  Dem  Vorsitzenden  obliegt  die Leitung der Prüfung. Der Schulleiter hat einen Schriftführer mit der Anfertigung eines Prüfungsprotokolls zu betrauen.
+
+##### Beachte für folgende Bestimmung
+
+Abs. 4: Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+##### Beurteilung der Leistungen bei der Prüfung
+
+§ 38. (1) Die Leistungen des Prüfungskandidaten bei den einzelnen Klausurarbeiten der Vorprüfung, der vorgezogenen Teilprüfung und der Hauptprüfung sind auf Grund eines Antrages des Prüfers von der jeweiligen Prüfungskommission (§ 34) unter Anwendung  des § 20 Abs. 3 bis 6 zu beurteilen (Teilbeurteilungen im Rahmen  der  Vorprüfung sowie der Klausurprüfung). Die Leistungen des Prüfungskandidaten  bei  den  einzelnen  mündlichen  Teilprüfungen  der  Vorprüfung,  der  vorgezogenen Teilprüfung  und  der  Hauptprüfung  sind  auf  Grund  eines  Antrages  des  Prüfers  von  der  jeweiligen Prüfungskommission  (§ 34)  unter  Anwendung  des  § 20  Abs. 3  bis  6  am  Ende  jedes  Prüfungstages (Prüfungshalbtages), an dem der Prüfungskandidat die Prüfung beendet hat, zu beurteilen (Teilbeurteilungen im Rahmen der Vorprüfung sowie der mündlichen Prüfung), wobei abweichend von § 34  Prüfer  ausschließlich  von  Klausurarbeiten  von  der  Anwesenheitsverpflichtung  ausgenommen  sind und kein Stimmrecht haben.
+
+(2) Sofern Prüfungsgebiete im Rahmen einer Vorprüfung und im Rahmen der Hauptprüfung bzw. im Rahmen  der  Klausurprüfung  und  im  Rahmen  der  mündlichen  Prüfung  abgelegt  wurden,  hat  die Prüfungskommission der Hauptprüfung auf Grund der gemäß Abs. 1 festgesetzten Teilbeurteilungen die Beurteilung der Leistungen des Prüfungskandidaten in den einzelnen Prüfungsgebieten festzusetzen. Im Übrigen  gelten  die  gemäß  Abs. 1  festgesetzten  Teilbeurteilungen  als  Beurteilungen  im  betreffenden Prüfungsgebiet.  Die  Beurteilung  erfolgt  unter  Anwendung  des  § 20  Abs. 3  bis  6  am  Ende  jedes Prüfungstages (Prüfungshalbtages), an dem der Prüfungskandidat die abschließende Prüfung beendet hat, wobei  abweichend  von  § 34  Prüfer  ausschließlich  von  Teilprüfungen  der  Klausurprüfung  von  der Anwesenheitsverpflichtung ausgenommen sind und kein Stimmrecht haben.
+
+www.ris.bka.gv.at
+
+Seite 16 von 26
+
+[[END OF PAGE 16]]
+
+[[START OF PAGE 17]]
+
+Bundesrecht konsolidiert
+
+(3)  Auf  Grund  der  gemäß  Abs. 1  und  Abs. 2  festgesetzten  Beurteilung  der  Leistungen  in  den Prüfungsgebieten  hat  der  Vorsitzende  über  die  Gesamtbeurteilung  der  abschließenden  Prüfung  zu entscheiden. Die abschließende Prüfung ist
+
+'mit  ausgezeichnetem Erfolg bestanden',  wenn  mindestens die Hälfte der Prüfungsgebiete mit 'Sehr  gut'  und  die  übrigen  Prüfungsgebiete  mit  'Gut'  beurteilt  werden;  Beurteilungen  mit 'Befriedigend' hindern diese Feststellung nicht, wenn dafür mindestens gleich viele Beurteilungen mit 'Sehr gut' über die Hälfte der Prüfungsgebiete hinaus vorliegen;
+
+'mit gutem Erfolg bestanden', wenn keines der Prüfungsgebiete schlechter als mit 'Befriedigend' beurteilt wird und im Übrigen mindestens gleich viele Prüfungsgebiete mit 'Sehr gut' wie mit 'Befriedigend' beurteilt werden;
+
+'bestanden', wenn kein Prüfungsgebiet mit 'Nicht genügend' beurteilt wird und die Voraussetzungen nach Z 1 und 2 nicht gegeben sind;
+
+'nicht  bestanden',  wenn  die  Leistungen  in  einem  oder  mehreren  Prüfungsgebieten  oder  in  der Semesterprüfung mit 'Nicht genügend' beurteilt werden.
+
+(4) Die Beurteilung der Leistungen bei der Modulprüfung erfolgt unter sinngemäßer Anwendung des Abs. 1 und 2, wobei abweichend von § 34 der Lehrer des betreffenden Moduls (Prüfer der Modulprüfung) stimmberechtigt  ist.  Die  Beurteilung  der  Leistungen  des  Studierenden  bei  der  Modulprüfung  bzw.  im Falle  des  § 36  Abs. 1  letzter  Satz  in  dem  der  Modulprüfung  entsprechenden  Prüfungsgebiet  (Teil  des Prüfungsgebietes) ist als Leistungsbeurteilung für das betreffende Modul festzulegen.
+
+- Die Beurteilung der Leistungen gemäß Abs. 1 bis 4 erfolgt unter Ausschluss der Öffentlichkeit.
+
+##### Beachte für folgende Bestimmung
+
+Abs. 2 Z 5 und Abs. 3: Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+##### Prüfungszeugnisse
+
+§ 39. (1)  Die  Leistungen  des  Prüfungskandidaten  bei  der  Vorprüfung -  mit  Ausnahme  der Vorprüfung in Form einer Fachbereichsarbeit - und auf Antrag des Studierenden auch bei vorgezogenen Teilprüfungen  der  Hauptprüfung  sind  in  einem  Vorprüfungszeugnis  bzw.  in  einem  Zeugnis  über  die vorgezogene Teilprüfung der Hauptprüfung zu beurkunden. Die Gesamtbeurteilung der Leistungen des Prüfungskandidaten ist in einem Zeugnis über die abschließende Prüfung zu beurkunden.
+
+(2) Das Zeugnis gemäß Abs. 1 hat insbesondere zu enthalten:
+
+- die Bezeichnung der Schule (Schulart, Schulform, Fachrichtung);
+
+- die Personalien des Prüfungskandidaten;
+
+- die Bezeichnung des Lehrplanes, nach dem unterrichtet wurde;
+
+- die  Beurteilung  der  Leistungen  in  den  einzelnen  Prüfungsgebieten,  bei  der  Hauptprüfung  auch die Gesamtbeurteilung der Leistungen gemäß § 38 Abs. 3;
+
+- die Beurteilung der Leistungen einer allfälligen Modulprüfung mit 'Nicht genügend';
+
+- allenfalls die Entscheidung über die Zulässigkeit einer Wiederholung von Teilprüfungen (§ 40);
+
+- allenfalls Vermerke über durch den Schulbesuch erworbene Berechtigungen (auch im Hinblick auf die EU-rechtliche Anerkennung von Diplomen und beruflichen Befähigungsnachweisen);
+
+- Ort und Datum der Ausstellung, Unterschrift des Vorsitzenden der Prüfungskommission sowie des Schulleiters (oder des Abteilungsvorstandes), Rundsiegel der Schule.
+
+(3) Im Falle der Neufestlegung der Modulbeurteilung gemäß § 38 Abs. 4 zumindest mit 'Genügend' ist dem Prüfungskandidaten auf sein Verlangen ein Zeugnis auszustellen.
+
+(4)  Für  die  Zeugnisformulare  über  abschließende  Prüfungen  sind  die  für  öffentliche  Schulen vorgesehenen Unterdruckpapiere zu verwenden.
+
+www.ris.bka.gv.at
+
+Seite 17 von 26
+
+[[END OF PAGE 17]]
+
+[[START OF PAGE 18]]
+
+Bundesrecht konsolidiert
+
+##### Wiederholung von Teilprüfungen
+
+§ 40. (1) Wurde die Beurteilung der abschließenden Prüfung mit 'nicht bestanden' festgesetzt (§ 38 Abs. 3  Z 4),  so  ist  der  Prüfungskandidat  höchstens  drei  Mal  zur  Wiederholung  der  negativ  beurteilten Teilprüfungen zuzulassen.
+
+- Die Wiederholung ist, sofern im Folgenden nicht anderes bestimmt wird, in der gleichen Art wie die ursprünglich gewählte Prüfung abzulegen. Positiv beurteilte Klausurarbeiten sind nicht zu wiederholen.
+
+- Die Wiederholung von Teilprüfungen der abschließenden Prüfung ist innerhalb von drei Jahren, gerechnet vom  Zeitpunkt des erstmaligen Antretens, nach den zu diesem Zeitpunkt geltenden Prüfungsvorschriften durchzuführen. Ab diesem Zeitpunkt ist die abschließende Prüfung nach den jeweils geltenden Prüfungsvorschriften durchzuführen, wobei erfolgreich abgelegte Teilprüfungen vergleichbaren Umfangs und Inhalts nicht zu wiederholen sind.
+
+- Die Wiederholung einer nicht verpflichtend vorgesehenen Vorprüfung ist nicht zulässig. Wurde eine  in  Form  einer  Diplom-  oder  Abschlussarbeit  durchgeführte  Teilprüfung  mit  'Nicht  genügend' beurteilt, so ist der Prüfungskandidat berechtigt, das betreffende Prüfungsgebiet statt in Form der Diplomoder Abschlussarbeit in der ursprünglich vorgesehenen Form zu wiederholen.
+
+- Der Schulleiter hat auf Antrag des Prüfungskandidaten diesem einen konkreten Prüfungstermin zuzuweisen.
+
+##### Zusatzprüfungen
+
+§ 41. (1)  Der  Prüfungskandidat  ist  berechtigt,  im  Rahmen  der  abschließenden  Prüfung  an  einer höheren  Schule  Zusatzprüfungen  zur  Reifeprüfung  abzulegen,  wenn  solche  gesetzlich  vorgesehen  sind und an der Schule geeignete Prüfer zur Verfügung stehen. Die Zulassung zur Zusatzprüfung erfolgt auf Antrag des Prüfungskandidaten. Der Prüfungskommission (§ 34) gehört in diesem Fall auch der Prüfer des  Prüfungsgebietes  der  Zusatzprüfung  an;  er  hat  jedoch  nur  hinsichtlich  dieses  Prüfungsgebietes Stimmrecht,  sofern  er  nicht  ohnehin  Mitglied  der  Prüfungskommission  ist.  Die  Beurteilung  der Leistungen des Prüfungskandidaten bei der Zusatzprüfung hat keinen Einfluss auf die Gesamtbeurteilung der abschließenden Prüfung gemäß § 38 Abs. 3; sie ist jedoch, sofern die Zusatzprüfung bestanden wird, im Prüfungszeugnis (§ 39) zu beurkunden.
+
+- Personen,  die  eine  Reifeprüfung,  eine  Reife-  und  Diplomprüfung  oder  eine  Reife-  und Befähigungsprüfung einer höheren Schule bereits erfolgreich abgelegt haben, sind auf ihr Ansuchen vom Schulleiter  einer  in  Betracht  kommenden  höheren  Schule  zur  Ablegung  von  Zusatzprüfungen  zur Reifeprüfung zuzulassen. Eine solche Zusatzprüfung kann  auch außerhalb der Termine  für die abschließende Prüfung der betreffenden Schule stattfinden.
+
+- Die §§ 34 bis 40 finden auf die Zusatzprüfungen zur Reifeprüfung sinngemäß Anwendung.
+
+##### Schulversuche zur teilzentralen standardisierten Reifeprüfung
+
+§ 41a. An von diesem Bundesgesetz umfassten mittleren und höheren Schulen (einschließlich deren Sonderformen),  welche  mit  einer  abschließenden  Prüfung  beendet  werden,  sind  ab  dem  Schuljahr 2012/13 unter sinngemäßer Anwendung  des Abschnittes 8 des Schulunterrichtsgesetzes, BGBl. Nr. 472/1986  in  der  Fassung  der  Bundesgesetze  BGBl.  I  Nr.  52/2010  und  BGBl.  I  Nr.  9/2012,  neue Formen der Reifeprüfung, der Reife- und Diplomprüfung, der Diplomprüfung und der Abschlussprüfung zu  erproben.  Auf  solche  Schulversuche  findet  § 7  des  Schulorganisationsgesetzes  mit  der  Maßgabe Anwendung, dass keine zahlenmäßige Beschränkung besteht.
+
+##### Beachte für folgende Bestimmung
+
+Abs. 2, 3, 4 und 5: Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+##### Externistenprüfungen
+
+§ 42. (1) Externistenprüfungen können abgelegt werden
+
+- über den Lehrstoff einzelner oder aller Module von Unterrichtsgegenständen,
+
+- über einzelne Semester,
+
+- über eine Ausbildung, sofern nicht Z 4 in Betracht kommt, oder
+
+- als Prüfungen, die einer abschließenden Prüfung entsprechen.
+
+An  Schulen  und  an  Sonderformen  für  Berufstätige  können  Externistenprüfungen  nur  dann  abgelegt werden, wenn vergleichbare Lehrpläne entsprechender Tagesformen nicht bestehen.
+
+www.ris.bka.gv.at
+
+Seite 18 von 26
+
+[[END OF PAGE 18]]
+
+[[START OF PAGE 19]]
+
+Bundesrecht konsolidiert
+
+(2) Externistenprüfungen gemäß Abs. 1 Z 1 umfassen den gesamten Lehrstoff des bzw. der Module des betreffenden Unterrichtsgegenstandes.
+
+(3)  Externistenprüfungen  gemäß  Abs. 1  Z 2  umfassen  den  gesamten  Lehrstoff  aller  Module  über Pflichtgegenstände der jeweiligen Ausbildung im betreffenden Semester.
+
+(4) Externistenprüfungen gemäß Abs. 1 Z 3 umfassen den Lehrstoff aller Module über Pflichtgegenstände der betreffenden Ausbildung.
+
+(5)  Auf  Externistenprüfungen  gemäß  Abs. 1  Z 4  finden  die  §§ 33  und  37  Anwendung.  Vor  dem Antritt zur Externistenprüfung sind Zulassungsprüfungen über den Lehrstoff aller Module  aller Pflichtgegenstände der betreffenden Ausbildung abzulegen, die nicht Prüfungsgebiete der Vor- oder der Hauptprüfung sind.  Zulassungsprüfungen  sind  vor  einem  vom  Schulleiter  zu  bestimmenden  Lehrer  als Prüfer abzulegen.
+
+(6) Externistenprüfungen gemäß
+
+- Abs. 1 Z 1 sind vor einem vom Schulleiter zu bestimmenden Lehrer als Prüfer,
+
+- Abs. 1 Z 2 und 3 sind vor einer Prüfungskommission unter Vorsitz des Schulleiters oder eines von ihm bestimmten Lehrers als Vorsitzenden, der als Prüfer je ein für jedes Prüfungsgebiet vom Schulleiter zu bestellender Lehrer angehört,
+
+3. Abs. 1 Z 4 sind vor einer Prüfungskommission, für deren Zusammensetzung § 34 gilt, abzulegen.
+
+(7) Voraussetzung für die Zulassung zu Externistenprüfungen sind die für die jeweilige Ausbildung schulorganisationsrechtlich vorgesehenen Aufnahmsvoraussetzungen.
+
+(8)  Bei  Externistenprüfungen  nach  Lehrplänen,  die  eine  praktische  Unterweisung  in  Fertigkeiten zum Inhalt haben, ist die Zulassung zur Externistenprüfung vom Nachweis der Erlernung der Fertigkeiten in jenem Ausmaß abhängig zu machen, das für die Erfassung des Prüfungsstoffes wesentlich ist.
+
+(9) In den einzelnen Prüfungsgebieten von Externistenprüfungen gemäß Abs. 1 Z 1 bis 3 sind nach den Inhalten der Prüfungsgebiete die Aufgabenstellungen jedenfalls durch den Prüfer und die Prüfungsformen bei Externistenprüfungen gemäß Abs. 1 Z 1 durch den Prüfer und im Übrigen durch die Prüfungskommission  festzusetzen,  wobei  die  Form  der  schriftlichen  Prüfung  neben  der  mündlichen Prüfung  nur  in  Unterrichtsgegenständen  zulässig  ist,  hinsichtlich  derer  im  Lehrplan  Schularbeiten vorgesehen sind.
+
+(10)  Prüfungskandidaten,  die  bei  einer  Externistenprüfung  gemäß  Abs. 1  Z 1  bis  3  oder  bei  einer Zulassungsprüfung  gemäß  Abs. 5  negativ  beurteilt  wurden,  sind  auf  ihren  Antrag  zu  höchstens  zwei Wiederholungen der Prüfung zuzulassen.
+
+(11)  Prüfungskandidaten,  die  die  Beherrschung  des  Lehrstoffes  eines  Prüfungsgebietes  durch Vorlage eines Zeugnisses einer öffentlichen oder mit dem Öffentlichkeitsrecht ausgestatteten Schule oder eines Externistenprüfungszeugnisses nachweisen, sind auf ihren Antrag von der Ablegung der Externistenprüfung in diesem Prüfungsgebiet zu befreien.
+
+(12) Über die Durchführung der Externistenprüfung ist ein Prüfungsprotokoll zu führen. Die §§ 20, 24, 35, 36 und 38 bis 40 finden sinngemäß Anwendung.
+
+##### Beachte für folgende Bestimmung
+
+Abs. 1: Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+### 9. ABSCHNITT
+
+#### Schulordnung
+
+##### Pflichten der Studierenden
+
+§ 43. (1)  Die  Studierenden  sind  verpflichtet,  durch  ihre  Mitarbeit  und  ihre  Einordnung  in  die Schulgemeinschaft mitzuhelfen, die Aufgabe der österreichischen Schule (§ 2 des Schulorganisationsgesetzes)  zu  erfüllen  und  die  Unterrichtsarbeit  (§ 18)  zu  fördern.  Sie  haben  den Unterricht  regelmäßig  und  pünktlich  zu  besuchen,  an  Schulveranstaltungen  teilzunehmen  und  die notwendigen Unterrichtsmittel mitzubringen.
+
+(2) Abs. 1 bezieht sich bei Fernstudierenden nur auf die Sozialphase.
+
+www.ris.bka.gv.at
+
+Seite 19 von 26
+
+[[END OF PAGE 19]]
+
+[[START OF PAGE 20]]
+
+Bundesrecht konsolidiert
+
+(3) Der Studierende hat die für die Führung der Amtsschriften der Schule erforderlichen Dokumente vorzulegen  und  Auskünfte  zu  geben  sowie  erhebliche  Änderungen  dieser  Angaben  unverzüglich  der Schule mitzuteilen.
+
+(4)  Der  Vertrag  über  die  Aufnahme  in  die  Privatschule  (§ 7  Abs. 3)  kann  von  den  Abs. 1  bis  3 abweichende oder zusätzliche Bestimmungen enthalten.
+
+##### Hausordnung
+
+§ 44. (1)  Der  Schulgemeinschaftsausschuß  kann,  soweit  es  die  besonderen  Verhältnisse  erfordern, durch eine Hausordnung nähere Festlegungen über das Verhalten und die Gewährleistung der Sicherheit der  Studierenden  sowie  zur  Ermöglichung  eines  ordnungsgemäßen  Schulbetriebes  treffen.  Bei  der Gestaltung der Hausordnung ist auf das Alter und eine allfällige Berufstätigkeit der Studierenden sowie auf die der betreffenden Schule obliegenden Aufgaben Bedacht zu nehmen.
+
+(2) Die Hausordnung ist durch Anschlag in der Schule kundzumachen.
+
+##### Beachte für folgende Bestimmung
+
+Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+##### Fernbleiben von der Schule
+
+§ 45. Wenn ein Studierender länger als zwei Wochen ununterbrochen dem gesamten Unterricht in den  Sozialphasen  fernbleibt,  ohne  sein  Fernbleiben  zu  begründen,  ist  er  schriftlich  aufzufordern, innerhalb von zwei Wochen sein Fernbleiben zu rechtfertigen und eine Erklärung darüber abzugeben, ob er Studierender der Schule bleiben will.
+
+##### Ausschluß von der Schule
+
+§ 46. (1)  Wenn  ein  Studierender  durch  schuldhaftes  Fehlverhalten  seine  Pflichten  (§ 43)  in schwerwiegender Weise verletzt oder wenn das Verhalten des Studierenden eine dauernde Gefährdung der Sittlichkeit, der körperlichen Sicherheit oder des Eigentums von anderen Studierenden oder von an der  Schule  tätigen  Lehrern  oder  sonstigen  Bediensteten  darstellt,  ist  der  Studierende  von  der  Schule auszuschließen.  Bei  Vorliegen  der  Voraussetzungen  für  einen  Ausschluß  aus  der  Schule  hat  die Schulkonferenz (Abteilungskonferenz) einen Antrag auf Ausschluß des Studierenden an die zuständigen Schulbehörde zu stellen. Vor der Antragstellung ist dem Studierenden Gelegenheit zur Rechtfertigung zu geben.  Bei  Gefahr  im  Verzug  hat  der  Schulleiter  die  Suspendierung  des  Studierenden  vom  weiteren Schulbesuch auszusprechen.
+
+(2)  Die  Zulassung  zu  einer  Externistenprüfung  (§ 42)  wird  vom  Ausschluß  von  der  Schule  nicht berührt.
+
+(3)  Der  Ausschluß ist von der  zuständigen  Schulbehörde,  die ihn rechtskräftig ausgesprochen  hat, auf  Antrag  des  Studierenden  einzuschränken  oder  aufzuheben,  wenn  und  soweit  die  Gründe  für  seine Verhängung  weggefallen  sind  oder  der  mit  der  Verhängung  angestrebte  Sicherungszweck  auf  andere Weise erreicht werden kann.
+
+##### Beachte für folgende Bestimmung
+
+Abs. 2: Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+### 10. ABSCHNITT
+#### Funktionen des Lehrers; Lehrerkonferenzen
+##### Lehrer
+
+§ 47. (1) Der Lehrer hat das Recht und die Pflicht, an der Gestaltung des Schullebens mitzuwirken. Seine Hauptaufgabe ist die Unterrichts- und Bildungsarbeit (§ 18).
+
+(2) Außer den ihm obliegenden unterrichtlichen (einschließlich Bildungsarbeit) und administrativen Aufgaben  hat  der  Lehrer  erforderlichenfalls  besondere  Funktionen  (zB  eines  Studienkoordinators  oder eines  Mitgliedes  einer  Prüfungskommission)  zu  übernehmen,  an  den  Lehrerkonferenzen  teilzunehmen und erforderliche Fort- und Weiterbildungsangebote zu besuchen.
+
+www.ris.bka.gv.at
+
+Seite 20 von 26
+
+[[END OF PAGE 20]]
+
+[[START OF PAGE 21]]
+
+Bundesrecht konsolidiert
+
+##### Kustos
+
+§ 48. Der Schulleiter hat, soweit es die Gegebenheiten der betreffenden Schule erfordern, Lehrer mit der Vorsorge für einen den pädagogischen Grundsätzen entsprechenden Einsatz der Unterrichtsmittel und sonstigen Schuleinrichtungen zu betrauen (Kustoden).
+
+##### Werkstättenleiter und Bauhofleiter
+
+§ 49. An  berufsbildenden  mittleren  und  höheren  Schulen  hat  der  Schulleiter,  soweit  es  die Gegebenheiten der betreffenden Schule erfordern, Lehrer mit der Leitung der Werkstätten (des Bauhofes) zu betrauen. Sie haben für die Betriebsführung, den geordneten Ausbildungsablauf im Werkstättenunterricht und die Beschaffung der erforderlichen Materialien zu sorgen.
+
+##### Abteilungsvorstand und Fachvorstand
+
+§ 51. (1) Dem Abteilungsvorstand obliegt in Unterordnung unter den Schulleiter
+
+- an berufsbildenden Schulen die Leitung einer Fachabteilung,
+
+- an  den  Bildungsanstalten  für  Kindergartenpädagogik  die  Leitung  des  Übungskindergartens, gegebenenfalls auch des Übungshortes, sowie der Kindergarten- und Hortpraxis und
+
+- an  den  Bildungsanstalten  für  Sozialpädagogik  die  Leitung  des  Übungsschülerheimes  und  des Übungshortes sowie der Hort- und Heimpraxis; im Falle eines angeschlossenen Studentenheimes für Studierende der Bildungsanstalt obliegt ihm auch die Unterstützung des Schulleiters in den berufsbezogenen Angelegenheiten dieses Studentenheimes.
+
+- Dem  Fachvorstand  obliegt  die  Betreuung  einer  Gruppe  fachlicher  Unterrichtsgegenstände  in Unterordnung unter den Schulleiter.
+
+##### Beachte für folgende Bestimmung
+
+Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+##### Studienkoordinator
+
+§ 52. (1) Studienkoordinatoren haben die Studierenden von mehrjährigen Schulformen in allgemeinen  Studienangelegenheiten zu betreuen,  unterrichtsorganisatorische  Aufgaben  wahrzunehmen, die  gesamte Bildungsarbeit in den Studiengängen zu koordinieren und die jeweiligen Amtsschriften zu führen. An welchen Schulformen Studienkoordinatoren zu bestellen sind, hat der zuständige Bundesminister  im  Einvernehmen  mit  dem  Bundesminister  für  Finanzen  durch  Verordnung  unter Bedachtnahme  auf  die  besonderen  Aufgaben,  die  Studierendenzahl  und  sonstige  Funktionsträger festzulegen. Die Bestellung obliegt dem Schulleiter.
+
+(2)  Studienkoordinatoren  haben  die  Studierenden  bei  allen  individuellen  Entscheidungen  der Schullaufbahn,  insbesondere  auch  bei  der  Inskription  von  Modulen,  beim  Fernunterricht  sowie  bei elektronisch geleiteten Lernformen zu beraten und durch geeignete Maßnahmen zu unterstützen.
+
+##### Schulleiter
+
+§ 53. (1)  Der  Schulleiter  ist  zur  Besorgung  aller  Angelegenheiten  nach  diesem  Bundesgesetz zuständig,  sofern  dieses  nicht  die  Zuständigkeit  anderer  schulischer  Organe  oder  der  Schulbehörden festlegt.  Bei  Abteilungsgliederung  ist  der  Schulleiter  zur  Übertragung  einzelner  Aufgaben  an  den Abteilungsvorstand ermächtigt.
+
+- Der Schulleiter ist der unmittelbare Vorgesetzte aller an der Schule tätigen Lehrer und sonstigen Bediensteten. Ihm obliegt die Leitung der Schule und die Pflege der Schulgemeinschaft.
+
+- Der Schulleiter hat die Lehrer in ihrer Unterrichts- und Bildungsarbeit (§ 18) zu beraten und sich vom Stand des Unterrichtes und von den Leistungen der Studierenden regelmäßig zu überzeugen.
+
+(4) Außer den ihm obliegenden unterrichtlichen, erzieherischen und administrativen Aufgaben hat er für die Einhaltung aller Rechtsvorschriften und schulbehördlichen Weisungen sowie für die Führung der Amtsschriften  der  Schule  und  die  Ordnung  in  der  Schule  zu  sorgen.  Er  hat  dem  Schulerhalter wahrgenommene Mängel der Schulliegenschaften und ihrer Einrichtungen zu melden.
+
+(5) In Schulen, in denen ein Lehrer zur Unterstützung des Schulleiters bestellt wird, obliegt ihm die Wahrnehmung jener Verwaltungsaufgaben, die in engem Zusammenhang mit der pädagogischen Arbeit in der Schule stehen.
+
+www.ris.bka.gv.at
+
+Seite 21 von 26
+
+[[END OF PAGE 21]]
+
+[[START OF PAGE 22]]
+
+Bundesrecht konsolidiert
+
+##### Beachte für folgende Bestimmung
+
+Abs. 2 und 4: Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+##### Lehrerkonferenzen
+
+§ 54. (1) Lehrerkonferenzen sind zur Erfüllung der ihnen durch die Rechtsvorschriften übertragenen Aufgaben  und  zur  Beratung  gemeinsamer  Fragen  der  Unterrichtsund Bildungsarbeit oder der beruflichen Fortbildung der Lehrer durchzuführen.
+
+(2)  Je  nach  Aufgabe  der  Lehrerkonferenz  setzt  sie  sich  aus  den  Lehrern  der  Schule,  eines Unterrichtsgegenstandes oder in anderer Weise zusammen.
+
+(3) Der Schulleiter oder ein von ihm beauftragter Lehrer führt den Vorsitz in den Lehrerkonferenzen. Dem Vorsitzenden obliegt die Einberufung der Lehrerkonferenz. Eine Lehrerkonferenz ist einzuberufen, wenn dies ein Drittel der für die Teilnahme jeweils in Betracht kommenden Lehrer verlangt.
+
+(4)  Für  den  Beschluß  einer  Lehrerkonferenz  sind  die  Anwesenheit  von  mindestens  zwei  Dritteln ihrer Mitglieder und die unbedingte Mehrheit der abgegebenen Stimmen erforderlich. Dem Vorsitzenden und  jedem  Mitglied  kommt  eine  Stimme  zu.  Bei  Stimmengleichheit  entscheidet  die  Stimme  des Vorsitzenden.  Stimmübertragungen  sind  ungültig.  Stimmenthaltung  ist  außer  bei  Vorliegen  von  in  § 7 AVG,  BGBl.  Nr. 51/1991,  genannten Befangenheitsgründen unzulässig. Über den Verlauf einer Lehrerkonferenz ist eine schriftliche Aufzeichnung zu führen.
+
+(5) Die Vertreter der Studierenden im Schulgemeinschaftsausschuß haben das Recht auf Teilnahme an  den  Beratungen  der  Lehrerkonferenzen,  ausgenommen  Lehrerkonferenzen  über  dienstrechtliche Angelegenheiten der Lehrer. Bei der Antragstellung auf  Ausschluß eines Studierenden  von der Schule (§ 46 Abs. 1) haben die Studierendenvertreter auch das Recht auf Mitentscheidung.
+
+### 11. ABSCHNITT
+
+#### Schule und Studierende
+
+##### Rechte der Studierenden
+
+§ 55. Der  Studierende  hat  außer  den  sonst  gesetzlich  festgelegten  Rechten  das  Recht,  sich  im Rahmen der Förderung der Unterrichtsarbeit (§ 43) an der Gestaltung des Unterrichtes und der Wahl der Unterrichtsmittel zu beteiligen; ferner hat er das Recht auf Anhörung sowie auf Abgabe von Vorschlägen und Stellungnahmen.
+
+##### Beachte für folgende Bestimmung
+
+Abs. 2: Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+##### Studierendenvertreter
+
+§ 56. (1)  Zur  Interessenvertretung  und  zur  Mitgestaltung  des  Schullebens  sind  an  jeder  Schule Studierendenvertreter zu bestellen.
+
+(2) Studierendenvertreter sind der Schulsprecher (für alle Angelegenheiten der Schule), vier weitere Studierendenvertreter  zur  Unterstützung  des  Schulsprechers  und  zwei  Sprecher  der  Studierenden  im Schulgemeinschaftsausschuss.
+
+(3) Für jeden Studierendenvertreter ist ein Stellvertreter zu wählen.
+
+##### Beachte für folgende Bestimmung
+
+Abs. 1, 2 und 4: Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+##### Wahl der Studierendenvertreter
+
+§ 57. (1) Die Studierendenvertreter (§ 56 Abs. 2) und deren Stellvertreter (§ 56 Abs. 3) sind von den Studierenden  in  gleicher,  unmittelbarer,  geheimer  und  persönlicher  Wahl  für  eine  Funktionsdauer  von zwei bis höchstens vier Halbjahren zu wählen. Aktiv und passiv zur Wahl berechtigt sind die ordentlichen Studierenden.
+
+(2)  Die  Wahl  der  Schulsprecher  erfolgt  mittels  Mehrheitswahl.  Die  Wahl  der  vier  weiteren Studierendenvertreter, der beiden Sprecher der Studierenden im Schulgemeinschaftsausschuss sowie der Stellvertreter (§ 56 Abs. 3) erfolgt mittels Verhältniswahl. Der Schulleiter hat die für die Durchführung der Wahl erforderlichen Vorkehrungen zu treffen.
+
+(3) (Anm.: aufgehoben durch BGBl. I Nr. 53/2010)
+
+www.ris.bka.gv.at
+
+Seite 22 von 26
+
+[[END OF PAGE 22]]
+
+[[START OF PAGE 23]]
+
+Bundesrecht konsolidiert
+
+(4) Die Studierendenvertreter (§ 56 Abs. 2) und deren Stellvertreter (§ 56 Abs. 3) werden von den Studierenden der Schule aus dem Schulverband gewählt.
+
+- Die  Wahlen der Studierendenvertreter (§ 56 Abs. 2) und der Stellvertreter (§ 56 Abs. 3) haben unter  der  Leitung  eines  vom  Schulleiter  zu  beauftragenden  Studierenden  möglichst  zu  einem  Termin außerhalb der Unterrichtszeit stattzufinden.
+
+(6)  Über  die  Anfechtung  einer  Wahl  entscheidet  der  Schulleiter.  Gegen  die  Entscheidung  ist  ein Widerspruch nicht zulässig.
+
+##### Beachte für folgende Bestimmung
+
+Abs. 4: Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+##### Schulgemeinschaftsausschuß
+
+§ 58. (1)  In  jeder  Schule  ist  zur  Förderung  und  Festigung  der  Schulgemeinschaft  (§ 2)  ein Schulgemeinschaftsausschuß zu bilden.
+
+(2)  Neben  den  auf  Grund  gesetzlicher  Bestimmungen  übertragenen  Entscheidungsbefugnissen obliegen  dem  Schulgemeinschaftsausschuß  insbesondere  die  Beratung  über  die  Durchführung  von  das Schulleben betreffenden Veranstaltungen und die Beratung über
+
+- wichtige Fragen des Unterrichtes und der Bildung,
+
+- die Wahl von Unterrichtsmitteln,
+
+- die Verwendung von der Schule zur Verwaltung übertragenen Budgetmitteln,
+
+- Baumaßnahmen im Bereich der Schule.
+
+(3) Dem Schulgemeinschaftsausschuß gehören der Schulleiter (als Vorsitzender), drei Vertreter der Lehrer, der Schulsprecher und die zwei Sprecher der Studierenden im Schulgemeinschaftsausschuß an. An Privatschulen gehört dem Schulgemeinschaftsausschuß weiters ein Vertreter des Schulerhalters an.
+
+(4)  Die  Vertreter  der  Lehrer  sowie  je  eines  Stellvertreters  sind  von  der  Schulkonferenz  aus  dem Kreis der an der betreffenden Schule tätigen Lehrer in gleicher, unmittelbarer, geheimer und persönlicher Wahl zu wählen. Die Wahl erfolgt mittels Verhältniswahl. Der Schulleiter hat die für die Durchführung der  Wahl  erforderlichen  Vorkehrungen  zu  treffen.  Die  Funktionsdauer  beträgt  zwei  Halbjahre;  die Schulkonferenz  kann  beschließen,  daß  die  Wahl  der  Vertreter  der  Lehrer  für  die  Dauer  von  vier Halbjahren erfolgt. § 57 Abs. 5 und 6 findet sinngemäß Anwendung.
+
+(5)  Jedem  Vertreter  der  Lehrer  und  jedem  Vertreter  der  Studierenden  kommt  eine  beschließende Stimme  zu.  Stimmenthaltung  ist  unzulässig.  Der  Schulleiter  und  an  Privatschulen  der  Vertreter  des Schulerhalters  haben  keine  beschließende  Stimme.  Erforderlichenfalls  können  andere  Personen  als Sachverständige mit beratender Stimme eingeladen und Unterausschüsse eingerichtet werden.
+
+(6) Der Schulgemeinschaftsausschuß ist beschlußfähig, wenn der Schulleiter und mehr als die Hälfte der übrigen Mitglieder sowie mindestens je ein Vertreter der Studierenden und der Lehrer anwesend sind. Für einen Beschluß ist die unbedingte Mehrheit der abgegebenen Stimmen erforderlich. Bei Stimmengleichheit entscheidet der Schulleiter.
+
+(7) Der Schulleiter hat für die Durchführung der gefaßten Beschlüsse des Schulgemeinschaftsausschusses  zu  sorgen;  hält  er  einen  derartigen  Beschluß  für  rechtswidrig  oder  aus organisatorischen Gründen  nicht durchführbar, hat er diesen auszusetzen und die Weisung  der zuständigen Schulbehörde einzuholen.
+
+### 12. ABSCHNITT
+
+#### Erweiterte Schulgemeinschaft
+
+##### Kuratorium
+
+§ 59. (1) Zur Pflege und Förderung der zwischen Schulen und dem Wirtschaftsleben, Einrichtungen des Bildungswesens und anderen Einrichtungen des öffentlichen Lebens notwendigen engen Verbindung kann an den Schulen vom Schulgemeinschaftsausschuß ein Kuratorium errichtet werden.
+
+(2)  Dem  Kuratorium  gehören  der  Schulleiter,  Vertreter  der  Lehrer  und  der  Studierenden  der betreffenden Schule, Vertreter des Schulerhalters, Vertreter der gesetzlichen Interessensvertretungen der Arbeitgeber und der Arbeitnehmer und Vertreter sonstiger interessierter Einrichtungen als Mitglieder an.
+
+(3)  Bei  gemeinsamer  Führung  einer  berufsbildenden  Schule  für  Berufstätige  mit  einer  dem Geltungsbereich  des  Schulunterrichtsgesetzes  unterliegenden  berufsbildenden  mittleren  oder  höheren Schule hat die Aufgaben gemäß Abs. 1 nur ein Kuratorium wahrzunehmen, welches von der zuständigen Schulbehörde errichtet wird.
+
+www.ris.bka.gv.at
+
+Seite 23 von 26
+
+[[END OF PAGE 23]]
+
+[[START OF PAGE 24]]
+
+Bundesrecht konsolidiert
+
+### 13. ABSCHNITT
+
+#### Verfahrensbestimmungen
+
+##### Handlungsfähigkeit des nichteigenberechtigten Studierenden
+
+§ 60. In  den  Angelegenheiten  dieses  Bundesgesetzes  ist  der  nichteigenberechtigte  Studierende (Aufnahmsbewerber, Prüfungskandidat) zum selbständigen Handeln befugt.
+
+##### Verfahren
+
+§ 61. (1)  Für  Entscheidungen  auf Grund dieses Bundesgesetzes, die von anderen Organen als den Schulbehörden  des  Bundes  (Schulleiter,  Abteilungsvorstand,  Lehrerkonferenz,  Prüfungskommission usw.) zu erlassen sind, finden die allgemeinen Verfahrensbestimmungen des AVG keine Anwendung und sind die Absätze 2 bis 4 anzuwenden.
+
+(2) Der Erlassung einer Entscheidung hat die Feststellung des maßgebenden Sachverhaltes, soweit er nicht  von  vornherein  klar  gegeben  ist,  durch  Beweise  voranzugehen.  Als  Beweismittel  kommt  alles  in Betracht,  was  zur  Feststellung  des  maßgebenden  Sachverhaltes  geeignet  und  nach  Lage  des  einzelnen Falles  zweckdienlich  ist.  Dem  Studierenden  (Aufnahmsbewerber,  Prüfungskandidaten)  ist,  sofern  der Sachverhalt nicht von vornherein klar gegeben ist oder seinem Standpunkt nicht vollinhaltlich Rechnung getragen werden soll, Gelegenheit zu geben, zu den Sachverhaltsfeststellungen Stellung zu nehmen.
+
+(3)  Entscheidungen  können  sowohl  mündlich  als  auch  schriftlich  erlassen  werden.  Sofern  einem Antrag  nicht  vollinhaltlich  stattgegeben  wird,  kann  innerhalb  der  Widerspruchsfrist  (§ 62  Abs. 1)  eine schriftliche Ausfertigung der Entscheidung verlangt werden.
+
+- Die schriftliche Ausfertigung einer Entscheidung hat zu enthalten:
+
+- Bezeichnung und Standort der Schule, Bezeichnung des entscheidenden Organs;
+
+- den Inhalt der Entscheidung unter Anführung der angewendeten Gesetzesstellen;
+
+- die Begründung, wenn dem Standpunkt des Studierenden (Aufnahmsbewerbers, Prüfungskandidaten) nicht vollinhaltlich Rechnung getragen wird;
+
+- Datum der Entscheidung;
+
+- die Unterschrift des entscheidenden Organs, bei Kollegialorganen des Vorsitzenden;
+
+- die  Belehrung  über  die  Widerspruchsmöglichkeit,  wenn  dem  Ansuchen  nicht  vollinhaltlich stattgegeben wird.
+
+##### Beachte für folgende Bestimmung
+
+Abs. 1 und 3: Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+##### Provisorialverfahren (Widerspruch)
+
+§ 62. (1)  Gegen  die  Entscheidungen  gemäß  § 61  ist,  sofern  ein  solcher  nicht  ausgeschlossen  ist, Widerspruch an die zuständige Schulbehörde zulässig. Der Widerspruch ist schriftlich (in jeder technisch möglichen  Form,  nicht  jedoch  mit  E  Mail)  innerhalb  von  fünf  Tagen  bei  der  Schule,  im  Falle  der Externistenprüfungen bei der Prüfungskommission, einzubringen. Der Schulleiter  hat  den Widerspruch unter Anschluß aller zur Verfügung stehenden Beweismittel unverzüglich der zuständigen Schulbehörde vorzulegen.
+
+(2)  Die  Frist  für  die  Einbringung  des  Widerspruchs  beginnt im Falle der mündlichen Verkündung der  Entscheidung  mit  dieser,  im  Falle  der  schriftlichen  Ausfertigung  der  Entscheidung  jedoch  mit  der Zustellung.
+
+- In  den  Fällen,  in  denen  nach  Ablegung  eines  Kolloquiums  gegen  die  Beendigung  des Schulbesuches  (§ 32)  Widerspruch  eingebracht  wird,  hat  die  zuständige  Schulbehörde  die  behauptete unrichtige Beurteilung des Kolloquiums mit 'Nicht genügend' bzw. die Nichtbeurteilung des Kolloquiums  wegen  vorgetäuschter  Leistungen  zu  überprüfen.  Wenn  die  Unterlagen  zur  Feststellung, dass  eine  Nichtbeurteilung  oder  eine  auf  'Nicht  genügend'  lautende  Beurteilung  unrichtig  oder  richtig war,  nicht  ausreichen,  ist  das  Verfahren  zu  unterbrechen  und  der  Widerspruchswerber  zu  einem neuerlichen Kolloquium, dem ein Vertreter der zuständigen Schulbehörde beizuwohnen hat, zuzulassen.
+
+- Mit  Einbringen  des  Widerspruches  tritt  die  (provisoriale)  Entscheidung  der  Organe  in  den Angelegenheiten des § 61 außer Kraft. In diesen Fällen hat die zuständige Schulbehörde das Verwaltungsverfahren einzuleiten und die Entscheidung mit Bescheid zu treffen.
+
+www.ris.bka.gv.at
+
+Seite 24 von 26
+
+[[END OF PAGE 24]]
+
+[[START OF PAGE 25]]
+
+Bundesrecht konsolidiert
+
+##### Entscheidungspflicht
+
+§ 63. (1) In den Fällen des § 61 Abs. 1 haben die zuständigen Organe über Anträge des Studierenden (Aufnahmsbewerbers,  Prüfungskandidaten)  innerhalb  von  zwei  Wochen  die  Entscheidung  zu  erlassen. Bei Nichteinhaltung dieser Fristen geht die Zuständigkeit zur Entscheidung auf schriftlichen Antrag des Studierenden  (Aufnahmsbewerbers,  Prüfungskandidaten)  auf  die  zuständige  Schulbehörde  über.  Ein solcher Antrag ist unmittelbar bei der zuständigen Schulbehörde einzubringen. Der Antrag ist abzuweisen,  wenn  die  Verzögerung  der  Entscheidung  nicht  ausschließlich  auf  ein  Verschulden  des zuständigen Organes zurückzuführen ist.
+
+(2) Die Fristen des Abs. 1 werden für die Dauer von Schulferien gehemmt.
+
+(3) Die Schulbehörden haben über Anträge und Widersprüche des Studierenden (Aufnahmsbewerbers, Prüfungskandidaten) spätestens, soweit im Abs. 4 nicht anderes bestimmt ist, drei Monate nach deren Einbringung die Entscheidung zu erlassen.
+
+(4) In den Fällen des § 62 Abs. 3 hat die zuständige Schulbehörde über einen Widerspruch innerhalb von drei Wochen nach deren Einlangen bei der Schule die Entscheidung zu erlassen.
+
+(5) Das Verwaltungsgericht hat über Beschwerden aufgrund dieses Bundesgesetzes ab Beschwerdevorlage binnen drei Monaten zu entscheiden.
+
+##### Ersatzbestätigungen für verlorene Zeugnisse
+
+§ 64. (1)  Die  Ausstellung  einer  Ersatzbestätigung  für  ein  abhanden  gekommenes  inländisches Zeugnis kann bei der örtlich zuständigen Schulbehörde beantragt werden. Der Antragsteller hat glaubhaft zu  machen,  daß  die  Bemühungen  um  die  Wiedererlangung  des  verlorenen  Zeugnisses  oder  um  die Ausstellung einer Zweitschrift ohne sein Verschulden ergebnislos geblieben sind.
+
+(2)  Dem  Ansuchen  sind  Angaben  über  Beweismittel,  aus  denen  der  seinerzeitige  Erwerb  des Zeugnisses hervorgeht, anzuschließen.
+
+(3) Die Ersatzbestätigung ist auszustellen, wenn sich der Erwerb des Zeugnisses im Ermittlungsverfahren zweifelsfrei ergibt. Andernfalls ist der Antrag abzuweisen.
+
+(4) Mit einer Ersatzbestätigung sind die gleichen Berechtigungen wie mit dem  abhanden gekommenen Zeugnis verbunden.
+
+##### Aufbewahrung von Aufzeichnungen
+
+§ 65. Die  zuständige  Schulbehörde  hat  durch  Verordnung  nach  den  Erfordernissen  der  einzelnen Schularten (Schulformen, Fachrichtungen) Bestimmungen über die Aufbewahrung der in den Schulen zu führenden Aufzeichnungen zu erlassen.
+
+### 14. ABSCHNITT
+
+#### Schlußbestimmungen
+
+##### Kundmachung von Verordnungen
+
+§ 66. Verordnungen auf Grund dieses Bundesgesetzes, die sich nur auf einzelne Schulen beziehen, sind  abweichend  von  den  sonst  geltenden  Bestimmungen  über  die  Kundmachung  von  Verordnungen einen  Monat  lang  durch  Anschlag  in  der  betreffenden  Schule  kundzumachen.  Sie  treten,  soweit  darin nicht anderes bestimmt ist, mit Ablauf des Tages des Anschlages in der Schule in Kraft.
+
+##### Beachte für folgende Bestimmung
+
+Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+##### Freiheit von Stempelgebühren und Verwaltungsabgaben
+
+§ 67. Ansuchen, Bestätigungen, Bescheide und Zeugnisse auf Grund dieses Bundesgesetzes oder der auf Grund dieses Bundesgesetzes erlassenen Verordnungen sind - ausgenommen im Verfahren nach § 42 und  § 64  sowie  anläßlich  einer  Eignungserklärung  von  Unterrichtsmitteln  durch  den zuständigen Bundesminister - von allen Stempelgebühren und Verwaltungsabgaben des Bundes befreit.
+
+##### Schlußbestimmungen
+
+§ 68. (1)  Soweit  in  diesem  Bundesgesetz  auf  andere  Bundesgesetze  verwiesen  wird,  sind  diese  in ihrer jeweils geltenden Fassung anzuwenden.
+
+(2) Die Bestimmungen des Religionsunterrichtsgesetzes bleiben unberührt.
+
+www.ris.bka.gv.at
+
+Seite 25 von 26
+
+[[END OF PAGE 25]]
+
+[[START OF PAGE 26]]
+
+Bundesrecht konsolidiert
+
+##### Inkrafttreten
+
+§ 69. (1) Dieses Bundesgesetz tritt mit 1. März 1997 in Kraft.
+
+(2) Verordnungen auf Grund dieses Bundesgesetzes können schon vom Tag seiner Kundmachung an erlassen  werden;  sie  dürfen  frühestens  mit  dem  Inkrafttreten  dieses  Bundesgesetzes  in  Kraft  gesetzt werden.
+
+(3) Die nachstehend genannten Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 99/1999 treten wie folgt in Kraft:
+
+§ 4 Z 1, § 25 Abs. 1, § 26 Abs. 1 sowie  § 42  Abs. 9  treten mit Ablauf  des  Tages  der Kundmachung im Bundesgesetzblatt in Kraft,
+
+§ 38 samt Überschrift sowie § 69a Abs. 2 und 3 treten mit 1. Mai 1999 in Kraft,
+
+§§ 33 bis 37 und §§ 39 bis 41 jeweils samt Überschrift, die Überschrift des § 69a sowie § 69a Abs. 1 treten mit 1. April 2000 in Kraft.
+
+(4) § 27 Abs. 2 dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 91/2005 tritt mit 1. September 2006 in Kraft.
+
+(5) § 5 Abs. 1 Z 2 dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 90/2006 tritt mit 1. September 2006 in Kraft.
+
+(6) Das Inhaltsverzeichnis, § 4 Z 4 und 5, § 5 Abs. 3, § 6 samt Überschrift, § 7 Abs. 1, § 9 Abs. 1, § 11 samt Überschrift, § 12 samt Überschrift, § 13 samt Überschrift, § 14 Abs. 1 und 2, § 15 Abs. 2, § 16 Abs. 2, § 17 Abs. 3, § 18 Abs. 4, § 19 Abs. 1, § 21 samt Überschrift, § 22 Abs. 1 und 3, § 23 Abs. 1, 2, 4, 6,  7  und  8,  § 23a  samt  Überschrift,  § 24  samt  Überschrift,  § 25  samt  Überschrift,  die  Überschrift  des 6. Abschnittes, § 26, § 27 samt Überschrift, § 28 samt Überschrift, § 30 samt Überschrift, § 32 Abs. 1 und 2, § 34 Abs. 2 Z 2, § 35 Abs. 2 Z 1 und Abs. 4, § 36 Abs. 1, § 37 Abs. 2 Z 5, § 38 Abs. 4, § 39 Abs. 2 Z 5 und Abs. 3, § 42 Abs. 1, 2, 3, 4, 5, § 43 Abs. 1, § 45 samt Überschrift, § 47 Abs. 2, § 52 samt Überschrift, § 54 Abs. 2 und 4, § 56 Abs. 2, § 57 Abs. 1, 2 und 4, § 58 Abs. 4, § 62 Abs. 1 und 3, § 67, § 69 Abs. 5 sowie  § 70  dieses  Bundesgesetzes  in  der  Fassung  des  Bundesgesetzes  BGBl. I  Nr. 53/2010  treten  mit 1. September 2010 in Kraft und finden an den einzelnen in den Anwendungsbereich dieses Bundesgesetzes fallenden Schulen nach Maßgabe einer auf die konkreten technischen und organisatorischen  Gegebenheiten  am  Schulstandort  abstellenden  Verordnung  der  Bundesministerin  für Unterricht,  Kunst  und  Kultur  ab  dem  Schuljahr  2010/11  oder  ab  dem  Schuljahr  2011/12  Anwendung; § 29 samt Überschrift, § 50, § 57 Abs. 3 sowie § 69a samt Überschrift treten mit Ablauf des 31. August 2010 außer Kraft, finden jedoch nach Maßgabe der genannten Verordnung auf einzelne Schulen noch bis zum Ablauf des 31. August 2011 Anwendung.
+
+(7) Die nachstehend genannten Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 9/2012 treten wie folgt in Kraft:
+
+§  5  Abs.  1  Z  3,  §  13  Abs.  5  Z  2,  §  28  Abs.  3  sowie  §  30  treten  mit  Ablauf  des  Tages  der Kundmachung im Bundesgesetzblatt in Kraft,
+
+- der Titel (samt Kurztitel und Abkürzung), das Inhaltsverzeichnis, § 1 samt Überschrift, § 2 samt Überschrift, § 15 Abs. 3, § 18 Abs. 1, § 26 Abs. 1, § 30 sowie § 41a samt Überschrift, § 42 Abs. 1 sowie § 44 Abs. 1 treten mit 1. September 2012 in Kraft.
+
+(8) § 17 Abs. 3, § 37 Abs. 2 Z 1 und 4 sowie Abs. 6 Z 1, § 57 Abs. 6, § 61 Abs. 4 Z 6, § 62 Abs. 1 erster Satz und Abs. 3 erster Satz, § 63 Abs. 1 zweiter Satz, § 63 Abs. 4, § 65, § 11 Abs. 3, § 34 Abs. 1, § 37 Abs. 2 Z 3, § 46 Abs. 1 und 3, § 58 Abs. 7, § 59 Abs. 3, § 63 Abs. 1 dritter Satz, § 61 Abs. 1 und 3, die Überschrift des § 62, § 62 Abs. 1, 2, 3 und 4, § 63 Abs. 3, 4 und 5 und § 64 Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 75/2013 treten mit 1. Jänner 2014 in Kraft.
+
+##### Beachte für folgende Bestimmung
+
+Zum Bezugszeitraum vgl. § 69 Abs. 6.
+
+##### Vollziehung
+
+§ 70. Mit  der  Vollziehung  dieses  Bundesgesetzes  ist  hinsichtlich  des  § 67  der  Bundesminister  für Finanzen, hinsichtlich des § 52 der Bundesminister für Unterricht, Kunst und Kultur im Einvernehmen mit  dem  Bundesminister  für  Finanzen,  im  übrigen  der  Bundesminister  für  Unterricht  und  kulturelle Angelegenheiten betraut.
+
+www.ris.bka.gv.at
+
+Seite 26 von 26
+
+[[END OF PAGE 26]]
