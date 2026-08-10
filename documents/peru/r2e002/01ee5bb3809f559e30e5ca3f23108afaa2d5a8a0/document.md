@@ -1,3 +1,5 @@
+[[START OF PAGE 1]]
+
 # LEY Nº 29719
 
 EL PRESIDENTE DE LA REPÚBLICA
@@ -37,20 +39,14 @@ El Consejo Educativo Institucional (Conei) de cada institución educativa realiz
 El Ministerio de Educación tiene las siguientes obligaciones:
 
 1. Elaborar una directiva, clara y precisa, orientada a diagnosticar, prevenir, evitar, sancionar y erradicar la violencia, el hostigamiento y la intimidación entre alumnos, de modo que sea entendida por todos los miembros de la institución educativa.
-
 2. Diseñar un boletín informativo sobre los principios de sana convivencia para ser difundido entre las instituciones educativas.
-
 3. Establecer las sanciones en función de la proporcionalidad del acoso escolar.
-
 4. Supervisar el cumplimiento de esta Ley.
-
 5. Formular sus estadísticas, de conformidad con el Libro de Registro de Incidencias sobre violencia y acoso entre estudiantes a que se refiere el artículo 11, para evaluar el cumplimiento de las metas de reducción al mínimo de este fenómeno.
 
 ## Artículo 6. Obligaciones de los docentes
 
-Los docentes y los miembros del personal auxiliar de la institución educativa tienen la obligación de detectar, atender y denunciar de inmediato ante el Consejo Educativo Institucional (Conei) los hechos de violencia, intimidación, hostigamiento, discriminación, difamación y cualquier otra manifestación que constituya acoso entre los estudiantes, incluyendo aquellos que se cometan por
-
-medios telefónicos, electrónicos o informáticos y sobre los que hayan sido testigos o hayan sido informados. Para tales casos, dicho consejo se reúne dentro de los dos días siguientes para investigar la denuncia recibida y la resuelve en un plazo máximo de siete días.
+Los docentes y los miembros del personal auxiliar de la institución educativa tienen la obligación de detectar, atender y denunciar de inmediato ante el Consejo Educativo Institucional (Conei) los hechos de violencia, intimidación, hostigamiento, discriminación, difamación y cualquier otra manifestación que constituya acoso entre los estudiantes, incluyendo aquellos que se cometan por medios telefónicos, electrónicos o informáticos y sobre los que hayan sido testigos o hayan sido informados. Para tales casos, dicho consejo se reúne dentro de los dos días siguientes para investigar la denuncia recibida y la resuelve en un plazo máximo de siete días.
 
 Cuando se trate de casos de poca gravedad, los docentes deben sancionar directamente a los estudiantes agresores, sin perjuicio de su obligación de informar sobre dicho incidente al Consejo Educativo Institucional (Conei) para los efectos de su inscripción en el Libro de Registro de Incidencias sobre violencia y acoso entre estudiantes.
 
@@ -79,23 +75,30 @@ El Instituto Nacional de Defensa de la Competencia y de la Protección de la Pro
 El Indecopi debe informar anualmente a la Comisión de Educación, Ciencia, Tecnología, Cultura, Patrimonio Cultural, Juventud y Deporte del Congreso de la República sobre las inspecciones realizadas, las infracciones cometidas por las instituciones educativas, las sanciones impuestas y los resultados obtenidos, en el marco de lo dispuesto en el primer párrafo.
 
 2
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
 3
 
-**Artículo 11. Libro de Registro de Incidencias**
+## Artículo 11. Libro de Registro de Incidencias
 
 Cada institución educativa tiene un Libro de Registro de Incidencias sobre violencia y acoso entre estudiantes, a cargo del director, en el que se anotan todos los hechos sobre violencia, acoso entre estudiantes, el trámite seguido en cada caso, el resultado de la investigación y la sanción aplicada, cuando corresponda.
 
-**Artículo 12. Medidas de asistencia y protección**
+## Artículo 12. Medidas de asistencia y protección
 
 Los estudiantes víctimas de violencia o de acoso reiterado o sistemático y el agresor deben recibir la asistencia especializada.
 
-**Artículo 13. Entrega de boletín informativo**
+## Artículo 13. Entrega de boletín informativo
 
 Toda institución educativa debe entregar al inicio del año escolar a cada estudiante y padre de familia un boletín informativo que difunda las normas y principios de sana convivencia y disciplina escolar, la proscripción de todo tipo de violencia física y psicológica y de toda forma de hostigamiento y de acoso entre alumnos, cometido por cualquier medio, incluyendo virtuales, telefónicos, electrónicos u otros análogos en la comunidad educativa.
 
-**DISPOSICIONES COMPLEMENTARIAS FINALES**
+# DISPOSICIONES COMPLEMENTARIAS FINALES
 
-PRIMERA. El Ministerio de Educación elabora el reglamento de la presente Ley en el plazo de sesenta días calendario. SEGUNDA. Deróganse o déjanse sin efecto las disposiciones que se opongan a la presente Ley.
+**PRIMERA.** El Ministerio de Educación elabora el reglamento de la presente Ley en el plazo de sesenta días calendario.
+
+**SEGUNDA.** Deróganse o déjanse sin efecto las disposiciones que se opongan a la presente Ley.
 
 Comuníquese al señor Presidente de la República para su promulgación.
 
@@ -124,4 +127,6 @@ ROSARIO DEL PILAR FERNÁNDEZ FIGUEROA
 Presidenta del Consejo de Ministros
 y Ministra de Justicia
 
-658087-3
+**658087-3**
+
+[[END OF PAGE 2]]
