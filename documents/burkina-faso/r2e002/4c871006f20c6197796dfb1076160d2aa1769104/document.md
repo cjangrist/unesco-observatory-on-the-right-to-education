@@ -10,8 +10,8 @@
 | **Vu** | le décret n°2007-349/PRES du 04 juin 2007 portant nomination du Premier Ministre ; |
 | **Vu** | le décret n°2008-517/PRES/PM du 03 septembre 2008 portant remaniement du Gouvernement du Burkina Faso ; |
 | **Vu** | le décret n° 2007-424/PRES/PM du 13 juillet 2007, portant attributions des membres du Gouvernement ; |
-| **Vu** | la loi n° 010/98/ AN du 21 avril 1998 portant modalités d'intervention de I'Etat et répartition de compétences entre I'Etat et les autres acteurs du développement; |
-| **Vu** | la loi n° 013-2007/ AN du 30 juillet 2007 portant loi d'orientation de l'éducation ; |
+| **Vu** | la loi n° 010/98/AN du 21 avril 1998 portant modalités d'intervention de l'Etat et répartition de compétences entre l'Etat et les autres acteurs du développement ; |
+| **Vu** | la loi n° 013-2007/AN du 30 juillet 2007 portant loi d'orientation de l'éducation ; |
 | **Vu** | le décret 99-254/PRES/PM/MEBA du 20 juillet 1999 portant adoption d'un plan décennal de développement de l'éducation de base 2000-2009 ; |
 | **Vu** | le décret n°2009-106/PRES/PM/MATD/MEBA/MASSN/MEF/MFPRE du 3 mars 2009 portant transfert des compétences et des ressources de l'Etat aux communes dans les domaines du préscolaire, de l'enseignement primaire et de l'alphabétisation |
 | **Vu** | le décret n° 2008-152/PRES/PM/MASSN/MEF du 2 avril 2008 portant adoption de la stratégie nationale de développement intégré de la petite enfance |
@@ -289,11 +289,11 @@ programmes officiels
 
 * les compositions trimestrielles ;
 
-* les contröles d'aptitudes.
+* les contrôles d'aptitudes.
 
 Les modalités d'évaluation sont fixées par voie d'arrêté du Ministre en charge de l'éducation non formelle.
 
-**Article 40 :** A l'issue de leur formation, les apprenants reçoivent une attestation de fin de formation. Ils peuvent prendre part à l'examen du certificat d'études primaires et sous réserve de la condition d'âge, le concours d'entrée en 6ème leur est ouvert.
+**Article 40 :** À l'issue de leur formation, les apprenants reçoivent une attestation de fin de formation. Ils peuvent prendre part à l'examen du certificat d'études primaires et sous réserve de la condition d'âge, le concours d'entrée en 6ème leur est ouvert.
 
 ### Section 2 : L'organisation pédagogique au niveau des structures d'éducation non formelle de la petite enfance
 
