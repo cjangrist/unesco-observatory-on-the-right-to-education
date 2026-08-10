@@ -1,6 +1,6 @@
 [[START OF PAGE 1]]
 
-EC/1139
+EC/ 1139
 
 # *Poder Legislativo*
 
@@ -23,7 +23,7 @@ Asamblea General,*
 
 **ARTÍCULO 2º.** (De la educación como bien público).- Reconócese el goce y el ejercicio del derecho a la educación, como un bien público y social que tiene como fin el pleno desarrollo físico, psíquico, ético, intelectual y social de todas las personas sin discriminación alguna.
 
-2008/01213
+2008/012/3
 
 [[END OF PAGE 1]]
 
@@ -33,15 +33,15 @@ Asamblea General,*
 
 **ARTÍCULO 3º.** (De la orientación de la educación).- La educación estará orientada a la búsqueda de una vida armónica e integrada a través del trabajo, la cultura, el entretenimiento, el cuidado de la salud, el respeto al medio ambiente, y el ejercicio responsable de la ciudadanía, como factores esenciales del desarrollo sostenible, la tolerancia, la plena vigencia de los derechos humanos, la paz y la comprensión entre los pueblos y las naciones.
 
-**ARTÍCULO 4°.** (De los derechos humanos como referencia del ejercicio del derecho a la educación).- La educación tendrá a los derechos humanos consagrados en la Declaración Universal de los Derechos Humanos, en la Constitución de la República y en el conjunto de los instrumentos internacionales ratificados por nuestro país, como elementos esenciales incorporados en todo momento y oportunidad a las propuestas, programas y acciones educativas, constituyéndose en un marco de referencia fundamental para la educación en general y en particular para los educadores en cualquiera de las modalidades de su actuación profesional.
+**ARTÍCULO 4º.** (De los derechos humanos como referencia del ejercicio del derecho a la educación).- La educación tendrá a los derechos humanos consagrados en la Declaración Universal de los Derechos Humanos, en la Constitución de la República y en el conjunto de los instrumentos internacionales ratificados por nuestro país, como elementos esenciales incorporados en todo momento y oportunidad a las propuestas, programas y acciones educativas, constituyéndose en un marco de referencia fundamental para la educación en general y en particular para los educadores en cualquiera de las modalidades de su actuación profesional.
 
-**ARTÍCULO 5°.** (Del sujeto de la educación).- Los titulares del goce y efectivo ejercicio del derecho a la educación, son los educandos. Los educadores como agentes de la educación deben formular sus objetivos y propuestas, y organizar los contenidos en función de los educandos, de cualquier edad.
+**ARTÍCULO 5º.** (Del sujeto de la educación).- Los titulares del goce y efectivo ejercicio del derecho a la educación, son los educandos. Los educadores como agentes de la educación deben formular sus objetivos y propuestas, y organizar los contenidos en función de los educandos, de cualquier edad.
 
 ### CAPÍTULO II
 
 #### DE LOS PRINCIPIOS DE LA EDUCACIÓN
 
-**ARTÍCULO 6°.** (De la universalidad).- Todos los habitantes de la República son titulares del derecho a la educación, sin distinción alguna.
+**ARTÍCULO 6º.** (De la universalidad).- Todos los habitantes de la República son titulares del derecho a la educación, sin distinción alguna.
 
 El cuidado y educación de los hijos e hijas para que éstos alcancen su plena capacidad corporal, intelectual y social, es un deber y un derecho de los padres.
 
@@ -51,15 +51,15 @@ El cuidado y educación de los hijos e hijas para que éstos alcancen su plena c
 
 3
 
-**ARTÍCULO 7°.** (De la obligatoriedad).- Es obligatoria la educación inicial para los niños y niñas de cuatro y cinco años de edad, la educación primaria y la educación media básica y superior. A tales efectos, se asegurará la extensión del tiempo pedagógico y la actividad curricular a los alumnos de educación primaria y media básica.
+**ARTÍCULO 7º.** (De la obligatoriedad).- Es obligatoria la educación inicial para los niños y niñas de cuatro y cinco años de edad, la educación primaria y la educación media básica y superior. A tales efectos, se asegurará la extensión del tiempo pedagógico y la actividad curricular a los alumnos de educación primaria y media básica.
 
 Los padres, madres, o responsables legales de niños, niñas y adolescentes, tienen la obligación de inscribirlos en un centro de enseñanza y observar su asistencia y aprendizaje.
 
-**ARTÍCULO 8°.** (De la diversidad e inclusión educativa).- El Estado asegurará los derechos de aquellos colectivos minoritarios o en especial situación de vulnerabilidad, con el fin de asegurar la igualdad de oportunidades en el pleno ejercicio del derecho a la educación y su efectiva inclusión social.
+**ARTÍCULO 8º.** (De la diversidad e inclusión educativa).- El Estado asegurará los derechos de aquellos colectivos minoritarios o en especial situación de vulnerabilidad, con el fin de asegurar la igualdad de oportunidades en el pleno ejercicio del derecho a la educación y su efectiva inclusión social.
 
 Para el efectivo cumplimiento del derecho a la educación, las propuestas educativas respetarán las capacidades diferentes y las características individuales de los educandos, de forma de alcanzar el pleno desarrollo de sus potencialidades.
 
-**ARTÍCULO 9°.** (De la participación).- La participación es un principio fundamental de la educación, en tanto el educando debe ser sujeto activo en el proceso educativo para apropiarse en forma crítica, responsable y creativa de los saberes. Las metodologías que se apliquen deben favorecer la formación ciudadana y la autonomía de las personas.
+**ARTÍCULO 9º.** (De la participación).- La participación es un principio fundamental de la educación, en tanto el educando debe ser sujeto activo en el proceso educativo para apropiarse en forma crítica, responsable y creativa de los saberes. Las metodologías que se apliquen deben favorecer la formación ciudadana y la autonomía de las personas.
 
 **ARTÍCULO 10.** (De la libertad de enseñanza).- La libertad de enseñanza estará garantizada en todo el territorio nacional y tal como lo establece el artículo 68 de la Constitución de la República, la intervención del Estado será "al solo objeto de mantener la higiene, la moralidad, la seguridad y el orden públicos". Asimismo, promoverá la calidad y pertinencia de las propuestas educativas.
 
@@ -198,7 +198,7 @@ comunicación y el razonamiento que permitan la convivencia responsable en la co
 
 **ARTÍCULO 26.** (De la educación media básica).- La educación media básica abarcará el ciclo inmediato posterior a la educación primaria. Profundizará el desarrollo de las competencias y los conocimientos adquiridos y promoverá el dominio teórico-práctico de diferentes disciplinas que pueden ser, entre otras, artísticas, humanísticas, biológicas, científicas y tecnológicas.
 
-**ARTÍCULO 27.** (De la educación media superior).- La educación media superior abarcará hasta tres años posteriores a la educación media básica, según las modalidades ofrecidas en el nivel y tendrá un mayor grado de orientación o especialización. Tendrá tres modalidades: la educación general que permitirá la continuidad en educación terciaria (bachilleratos generales); la tecnológica que permitirá continuar estudios terciarios y la inserción laboral (bachilleratos tecnológicos); y la formación técnica y profesional que estará orientada principalmente a la inserción laboral. La culminación de todas sus modalidades permitirá la continuidad educativa.
+**ARTÍCULO 27.** (De la educación media superior).- La educación media superior abarcará hasta tres años posteriores a la educación media básica, según las modalidades ofrecidas en el nivel y tendrá un mayor grado de orientación o especialización. Tendrá tres modalidades: la educación general que permitirá la continuidad en la educación terciaria (bachilleratos generales); la tecnológica que permitirá continuar estudios terciarios y la inserción laboral (bachilleratos tecnológicos); y la formación técnica y profesional que estará orientada principalmente a la inserción laboral. La culminación de todas sus modalidades permitirá la continuidad educativa.
 
 **ARTÍCULO 28.** (De la educación técnico profesional).- La educación técnico profesional estará dirigida a personas de quince años y más. Tendrá el propósito de la formación para el desempeño calificado de las profesiones y de técnicos medios y superiores vinculados a diferentes áreas ocupacionales comprendiendo la formación profesional (básica y superior), técnica y tecnológica del nivel medio incluyendo a las tecnicaturas. Las propuestas de la educación técnico profesional deben permitir la continuidad educativa de los educandos. Los conocimientos o créditos adquiridos serán reconocidos o revalidados para continuar estudios en los niveles educativos que correspondan.
 
@@ -208,7 +208,7 @@ comunicación y el razonamiento que permitan la convivencia responsable en la co
 
 [[START OF PAGE 10]]
 
-10 10
+10
 
 superior); profundiza y amplía la formación en alguna rama del conocimiento; incluye, entre otras, la educación tecnológica y técnica.
 
@@ -344,7 +344,7 @@ Las autoridades velarán para que estas líneas transversales estén presentes, 
 
 #### LOS CENTROS EDUCATIVOS
 
-**ARTÍCULO 41.** (Concepto).- El centro educativo de cualquier nivel o modalidad será un espacio de aprendizaje, de socialización, de construcción colectiva del conocimiento, de integración y convivencia social y civica, de respeto y promoción de los derechos humanos.
+**ARTÍCULO 41.** (Concepto).- El centro educativo de cualquier nivel o modalidad será un espacio de aprendizaje, de socialización, de construcción colectiva del conocimiento, de integración y convivencia social y cívica, de respeto y promoción de los derechos humanos.
 
 Será un ámbito institucional jerarquizado, dotado de recursos y competencias, a los efectos de lograr los objetivos establecidos en su proyecto educativo. El proceso de formulación, seguimiento y evaluación del mismo contará con la participación de los docentes del centro y se promoverá la participación de funcionarios, padres y estudiantes.
 
@@ -380,7 +380,7 @@ El centro educativo público dispondrá de fondos presupuestales para el manteni
 
 - H) Un representante de los trabajadores de la educación.
 
-- 1) Dos representantes de los estudiantes.
+- I) Dos representantes de los estudiantes.
 
 - J) Un representante de los empresarios.
 
@@ -388,7 +388,7 @@ El centro educativo público dispondrá de fondos presupuestales para el manteni
 
 Los organismos o sectores integrantes de la COMINE además de los representantes titulares ante dicha Comisión, podrán designar representantes alternos.
 
-- El Poder Ejecutivo, reglamentará en su caso, el procedimiento para la elección o designación de los representantes arriba mencionados.
+El Poder Ejecutivo reglamentará en su caso, el procedimiento para la elección o designación de los representantes arriba mencionados.
 
 **ARTÍCULO 43.** (Naturaleza y cometidos).- La Comisión Nacional de Educación (COMINE) constituirá un ámbito nacional de deliberación sobre políticas educativas del Sistema Nacional de Educación y tendrá carácter de asesoramiento y de consulta en los siguientes cometidos:
 
@@ -452,8 +452,6 @@ República y la ley, que en aplicación de su autonomía tendrán la potestad de
 
 20
 
-20
-
 - A) Desarrollar los principios generales de la educación.
 
 - B) Facilitar la coordinación de las políticas educativas nacionales.
@@ -470,7 +468,7 @@ República y la ley, que en aplicación de su autonomía tendrán la potestad de
 
 - H) Coordinar en forma preceptiva con los entes autónomos de la educación, qué integrantes del Sistema Nacional de Educación Pública compondrán la representación internacional de la educación nacional.
 
-- 1) Realizar propuestas a la Comisión Coordinadora del Sistema Nacional de Educación Pública y a la Comisión Nacional de Educación.
+- I) Realizar propuestas a la Comisión Coordinadora del Sistema Nacional de Educación Pública y a la Comisión Nacional de Educación.
 
 - J) Relacionarse con el Poder Legislativo, en los temas relativos a la educación, en el marco de lo establecido en la Constitución de la República.
 
@@ -484,7 +482,7 @@ República y la ley, que en aplicación de su autonomía tendrán la potestad de
 
 [[START OF PAGE 21]]
 
-21 21
+21
 
 funcionará de conformidad a los artículos 202 y siguientes de la Constitución de la República y de la presente ley.
 
@@ -508,7 +506,7 @@ funcionará de conformidad a los artículos 202 y siguientes de la Constitución
 
 [[START OF PAGE 22]]
 
-22 22
+22
 
 se tratare de bienes destinados o a destinarse a su servicio. Las enajenaciones a título gratuito requerirán la unanimidad de votos del Consejo Directivo Central.
 
@@ -526,7 +524,7 @@ se tratare de bienes destinados o a destinarse a su servicio. Las enajenaciones 
 
 #### CONSEJO DIRECTIVO CENTRAL DE LA ANEP
 
-**ARTÍCULO 58.** (Del Consejo Directivo Central).- El Consejo Directivo Central: de la Administración Nacional de Educación Pública estará integrado por cinco miembros, los que deberán poseer condiciones personales relevantes, reconocida solvencia y méritos acreditados en temas de educación, y que hayan actuado en la educación pública por un lapso no menor de diez años.
+**ARTÍCULO 58.** (Del Consejo Directivo Central).- El Consejo Directivo Central de la Administración Nacional de Educación Pública estará integrado por cinco miembros, los que deberán poseer condiciones personales relevantes, reconocida solvencia y méritos acreditados en temas de educación, y que hayan actuado en la educación pública por un lapso no menor de diez años.
 
 Tres de sus miembros serán designados por el Presidente de la República actuando en Consejo de Ministros, previa venia de la Cámara de Senadores, otorgada sobre propuestas fundadas, por un número de votos equivalentes a los tres quintos de sus componentes elegidos conforme al inciso primero del artículo 94 de la Constitución de la República.
 
@@ -534,7 +532,7 @@ Tres de sus miembros serán designados por el Presidente de la República actuan
 
 [[START OF PAGE 23]]
 
-23 23
+23
 
 Si la venia no fuera otorgada dentro del término de sesenta días de recibida su solicitud, el Poder Ejecutivo podrá formular propuesta nueva, o reiterar su propuesta anterior, y en este último caso deberá obtener el voto conforme de la mayoría absoluta del Senado.
 
@@ -570,7 +568,7 @@ Los Directores Generales de los Consejos de Educación también integrarán de p
 
 - H) Aprobar los estatutos de los funcionarios docentes y no docentes del servicio, con las garantías establecidas en la Constitución de la República y en la presente ley.
 
-- 1) Designar al Secretario General y al Secretario Administrativo del Consejo Directivo Central con carácter de cargos de particular confianza. El Secretario Administrativo deberá haber sido funcionario del ente por un lapso no menor a diez años.
+- I) Designar al Secretario General y al Secretario Administrativo del Consejo Directivo Central con carácter de cargos de particular confianza. El Secretario Administrativo deberá haber sido funcionario del ente por un lapso no menor a diez años.
 
 - J) Destituir por ineptitud, omisión o delito, a propuesta de los Consejos cuando dependieren de éstos y con las garantías que fija la ley y el estatuto, al personal docente, técnico, administrativo, de servicio u otro de todo el ente.
 
@@ -584,7 +582,7 @@ Los Directores Generales de los Consejos de Educación también integrarán de p
 
 [[START OF PAGE 25]]
 
-25 25
+25
 
 - N) Establecer lineamientos generales para la supervisión y fiscalización de los institutos privados habilitados de educación inicial, primaria, media y técnico profesional, siguiendo los principios generales de la presente ley y los criterios establecidos por cada Consejo de Educación, con participación de representantes de las instituciones de educación privada.
 
@@ -596,7 +594,7 @@ Los Directores Generales de los Consejos de Educación también integrarán de p
 
 **ARTÍCULO 60.** (Presencia de los Directores de los Consejos de Educación).- El Consejo Directivo Central, en cumplimiento de las competencias indicadas en los literales B), D), E) y H) del artículo precedente, tomará decisión con la presencia de los Directores Generales de los Consejos, sin perjuicio de que pueda convocarlos cada vez que lo entienda pertinente.
 
-- El Consejo Directivo Central convocará a los Directores Generales de los Consejos cada vez que lo entienda pertinente y cuando se traten asuntos relacionados con las competencias de los respectivos Consejos.
+El Consejo Directivo Central convocará a los Directores Generales de los Consejos cada vez que lo entienda pertinente y cuando se traten asuntos relacionados con las competencias de los respectivos Consejos.
 
 **ARTÍCULO 61.** (De las remuneraciones, incompatibilidades y prohibiciones).- La remuneración del Presidente y de los Consejeros del Consejo Directivo Central se regirá por lo establecido por el artículo 34 de la Ley N° 16.736, de 5 de enero de 1996. Terminado el ejercicio del cargo, los integrantes del Consejo Directivo Central y de los Consejos tendrán derecho a ser restablecidos a la situación docente que ocupaban o que tenían derecho a ocupar, en el
 
@@ -630,7 +628,7 @@ momento de asumir sus funciones; tendrán las incompatibilidades establecidas en
 
 [[START OF PAGE 27]]
 
-27 27
+27
 
 - B) Aprobar los planes de estudio y los programas de las asignaturas que ellos incluyan.
 
@@ -646,9 +644,9 @@ momento de asumir sus funciones; tendrán las incompatibilidades establecidas en
 
 - H) Proponer al Consejo Directivo Central de la ANEP la destitución del personal docente o no docente a su cargo, por razones de ineptitud, omisión o delito con las garantías que fija la ley y el estatuto respectivo.
 
-- 1) Designar al Secretario General de cada Consejo, con carácter de cargo de particular confianza, quien deberá haber sido funcionario del ente por un lapso no menor a diez años.
+- I) Designar al Secretario General de cada Consejo, con carácter de cargo de particular confianza, quien deberá haber sido funcionario del ente por un lapso no menor a diez años.
 
-- J) Proyectar las normas estatutarias que crea necesarias para sus funcionarios y elevarias al Consejo Directivo Central a los efectos de su aprobación e incorporación al Estatuto de los Funcionarios del ente.
+- J) Proyectar las normas estatutarias que crea necesarias para sus funcionarios y elevarlas al Consejo Directivo Central a los efectos de su aprobación e incorporación al Estatuto de los Funcionarios del ente.
 
 [[END OF PAGE 27]]
 
@@ -686,11 +684,11 @@ momento de asumir sus funciones; tendrán las incompatibilidades establecidas en
 
 - E) Participar en procesos de certificación de saberes o competencias técnicas.
 
-**ARTÍCULO 65.** (De la designación o elección de los integrantes de los Consejos). Los Consejos de Educación Inicial y Primaria, de Educación Media Básica y de Educación Media Superior y de Educación Técnico-Profesional (UTU) se integrarán con tres miembros que hayan ejercido la docencia en la educación pública por un lapso no menor a diez años.
+**ARTÍCULO 65.** (De la designación o elección de los integrantes de los Consejos).- Los Consejos de Educación Inicial y Primaria, de Educación Media Básica y de Educación Media Superior y de Educación Técnico-Profesional (UTU) se integrarán con tres miembros que hayan ejercido la docencia en la educación pública por un lapso no menor a diez años.
 
 Dos de ellos serán designados por el Consejo Directivo Central por cuatro votos conformes y fundados. De no haberse realizado las designaciones a los sesenta días de instalado el Consejo Directivo Central o en el mismo plazo en caso de vacancia definitiva, la designación podrá ser realizada por mayoría absoluta de integrantes del Consejo.
 
-Por el mismo procedimiento y con el mismo sistema de mayoria especial, será designado el Director General de cada Consejo.
+Por el mismo procedimiento y con el mismo sistema de mayoría especial, será designado el Director General de cada Consejo.
 
 El tercer miembro de cada Consejo será electo por el cuerpo docente del mismo, según la reglamentación que oportunamente apruebe el Consejo Directivo Central. Durarán en sus funciones cinco años, pudiendo ser reelectos solamente por un período subsiguiente debiendo para una nueva elección mediar por lo menos cinco años desde su cese. La elección estará a cargo de la Corte Electoral y se deberá realizar en el año anterior a las elecciones nacionales.
 
@@ -700,7 +698,7 @@ El tercer miembro de cada Consejo será electo por el cuerpo docente del mismo, 
 
 [[START OF PAGE 30]]
 
-30 50
+30
 
 **ARTÍCULO 67.** (Atribuciones de los Presidentes del Consejo Directivo Central y de los Directores Generales de los Consejos de Educación).- El Presidente del Consejo Directivo Central de la ANEP y los Directores Generales de los Consejos de Educación, tendrán las siguientes atribuciones:
 
@@ -804,7 +802,7 @@ El Consejo Directivo Central, en consulta con los Consejos respectivos, reglamen
 
 **ARTÍCULO 74.** (De las alumnas en estado de gravidez).- Las alumnas en estado de gravidez tendrán derecho a continuar con sus estudios, en particular el de acceder y permanecer en el centro educativo, a recibir apoyo educativo específico y justificar las inasistencias pre y post parto, las cuales no podrán ser causal de pérdida del curso o año lectivo.
 
-**ARTÍCULO 75.** (De los derechos y deberes de las madres, los padres o responsables). Las madres, los padres o responsables de los educandos tienen derecho a:
+**ARTÍCULO 75.** (De los derechos y deberes de las madres, los padres o responsables).- Las madres, los padres o responsables de los educandos tienen derecho a:
 
 - A) Que su hijo o representado pueda concurrir y recibir clase regularmente en el centro educativo que le corresponda y así poder cumplir con la obligatoriedad establecida en la presente ley.
 
@@ -830,7 +828,7 @@ Las madres, los padres o responsables de los educandos tienen el deber de:
 
 #### CONSEJOS DE PARTICIPACIÓN
 
-**ARTÍCULO 76.** (Concepto).- En todo centro educativo público de Educación Inicial, Primaria, Media Básica y Media Superior y Educación Técnico- Profesional, funcionará un Consejo de Participación integrado por: estudiantes o participantes, educadores o docentes, madres, padres o responsables y representantes de la comunidad.
+**ARTÍCULO 76.** (Concepto).- En todo centro educativo público de Educación Inicial, Primaria, Media Básica y Media Superior y Educación Técnico-Profesional, funcionará un Consejo de Participación integrado por: estudiantes o participantes, educadores o docentes, madres, padres o responsables y representantes de la comunidad.
 
 Los respectivos Consejos de Educación reglamentarán su forma de elección y funcionamiento.
 
@@ -851,8 +849,6 @@ Los Consejos de Participación de Centros Educativos de Educación Media Básica
 [[END OF PAGE 35]]
 
 [[START OF PAGE 36]]
-
-36
 
 36
 
@@ -944,7 +940,7 @@ A partir de dicha propuesta, el Poder Ejecutivo elevará al Parlamento el Proyec
 
 [[START OF PAGE 40]]
 
-40 40
+40
 
 **ARTÍCULO 88.** (Estructura y funcionamiento).- Constitúyese una Comisión de Implantación del Instituto Terciario Superior, integrada por un representante del Ministerio de Educación y Cultura, uno de la Administración Nacional de Educación Pública (ANEP) y uno de la Universidad de la República que cuenten con reconocida competencia y experiencia en la materia, cuyo cometido será:
 
@@ -982,7 +978,7 @@ La Comisión Coordinadora del Sistema Nacional de Educación Pública reglamenta
 
 [[START OF PAGE 42]]
 
-42 42
+42
 
 - C) Promover la coordinación de planes y programas procurando se contemplen las necesidades, intereses y problemas locales.
 
@@ -1018,9 +1014,9 @@ La Comisión Coordinadora del Sistema Nacional de Educación Pública reglamenta
 
 **ARTÍCULO 95.** (Del Consejo Asesor y Consultivo).- Créase el Comité Asesor y Consultivo del Consejo Nacional de Educación No Formal integrado por una Comisión Directiva, que lo presidirá, y un representante del Ministerio de Trabajo y Seguridad Social, uno del Ministerio de Desarrollo Social, uno del Ministerio de Turismo y Deporte, uno del Instituto Nacional de la Juventud, uno del Instituto del Niño y Adolescente del Uruguay, dos representantes de los educadores y dos representantes de las instituciones de educación no formal privada.
 
-- El Consejo Nacional de Educación No Formal tendrá funciones de asesoramiento y consulta, así como iniciativa en materia de educación en general y de educación no formal en particular, y promoverá la coordinación de programas y proyectos de educación no formal.
+El Consejo Nacional de Educación No Formal tendrá funciones de asesoramiento y consulta, así como iniciativa en materia de educación en general y de educación no formal en particular, y promoverá la coordinación de programas y proyectos de educación no formal.
 
-- El Consejo Nacional de Educación No Formal consultará al Consejo Asesor y Consultivo en las materias de su competencia.
+El Consejo Nacional de Educación No Formal consultará al Consejo Asesor y Consultivo en las materias de su competencia.
 
 ### CAPÍTULO XVI
 
@@ -1028,13 +1024,13 @@ La Comisión Coordinadora del Sistema Nacional de Educación Pública reglamenta
 
 **ARTÍCULO 96.** (Integración).- La educación en la primera infancia, definida en el artículo 38 de la presente ley, estará a cargo, según sus respectivos ámbitos de competencia, del Instituto del Niño y Adolescente del Uruguay (INAU), de la Administración Nacional de la Educación Pública (ANEP) y del Ministerio de Educación y Cultura.
 
-EI INAU regirá la educación de niños y niñas, de entre cero y hasta tres años de edad, que participen en programas, proyectos y modalidades de
+El INAU regirá la educación de niños y niñas, de entre cero y hasta tres años de edad, que participen en programas, proyectos y modalidades de
 
 [[END OF PAGE 43]]
 
 [[START OF PAGE 44]]
 
-444
+44
 
 intervención social bajo su ámbito de actuación, en consonancia con lo establecido por la Ley N° 15.977, de 14 de setiembre de 1988, y el artículo 68 de la Ley N° 17.823, de 7 de setiembre de 2004.
 
@@ -1090,7 +1086,7 @@ También podrá recomendar sanciones económicas en aplicación de los artículo
 
 #### LOS CENTROS DE EDUCACIÓN INFANTIL PRIVADOS
 
-**ARTÍCULO 102.** (Concepto).- Se considera centro de educación infantil privado, a todos los efectos legales, toda institución que cumpla con lo establecido en el artículo 97 de la presente ley, independientemente de su razón social incluyendo instituciones oficiales, Intendencias Municipales o empresas públicas-, y que no sea habilitada o supervisada por la Administración Nacional de Educación Pública o el Instituto del Niño y Adolescente del Uruguay.
+**ARTÍCULO 102.** (Concepto).- Se considera centro de educación infantil privado, a todos los efectos legales, toda institución que cumpla con lo establecido en el artículo 97 de la presente ley, independientemente de su razón social -incluyendo instituciones oficiales, Intendencias Municipales o empresas públicas-, y que no sea habilitada o supervisada por la Administración Nacional de Educación Pública o el Instituto del Niño y Adolescente del Uruguay.
 
 Los centros de educación infantil privados realizarán su actividad en el marco de la Constitución de la República y la presente ley. Asimismo, el Estado velará por el cabal cumplimiento del respeto a los derechos del niño, especialmente en los consagrados en las Leyes N° 16.137 (Convención sobre los Derechos del Niño), de 28 de setiembre de 1990, y N° 17.823 (Código de la Niñez y Adolescencia), de 7 de setiembre de 2004.
 
@@ -1212,13 +1208,13 @@ El Ministerio de Educación y Cultura y los entes de enseñanza asignarán los f
 
 [[START OF PAGE 51]]
 
-50 50
+50
 
-**ARTÍCULO 111.** (De la coordinación en educación física, la recreación y el deporte). La Comisión Coordinadora del Sistema Nacional de Educación Pública conformará una Comisión a los efectos de coordinar políticas, programas y recursos, así como promover y jerarquizar la educación física, la recreación y el deporte en el ámbito educativo.
+**ARTÍCULO 111.** (De la coordinación en educación física, la recreación y el deporte).- La Comisión Coordinadora del Sistema Nacional de Educación Pública conformará una Comisión a los efectos de coordinar políticas, programas y recursos, así como promover y jerarquizar la educación física, la recreación y el deporte en el ámbito educativo.
 
 **ARTÍCULO 112.** (Coordinación del Sistema Nacional de Becas).- La Comisión Nacional de Becas, constituida de acuerdo a lo establecido por la Ley N° 15.851, de 24 de diciembre de 1986, y por un representante del Fondo de Solidaridad, creado por la Ley N° 16.524, de 25 de julio de 1994, y modificativas, aprobará las solicitudes de becas que las Comisiones Coordinadoras Departamentales de la Educación le remitan a su consideración. La supervisión será realizada por la Comisión Nacional de Becas con la colaboración de las Comisiones Coordinadoras Departamentales de la Educación.
 
-La Comisión Nacional de Becas procurará articular los sistemas de becas. y apoyo a estudiantes para lograr una mayor racionalidad en la gestión y mayor impacto en los fines perseguidos con las becas.
+La Comisión Nacional de Becas procurará articular los sistemas de becas y apoyo a estudiantes para lograr una mayor racionalidad en la gestión y mayor impacto en los fines perseguidos con las becas.
 
 # TÍTULO IV
 
@@ -1260,7 +1256,7 @@ Asimismo deberá:
 
 [[START OF PAGE 53]]
 
-52 62
+52
 
 **ARTÍCULO 116.**- El Instituto Nacional de Evaluación Educativa cada dos años realizará un informe sobre el estado de la educación en el Uruguay que tenga en cuenta entre otros aspectos los resultados de las pruebas de evaluación nacionales o internacionales en las que el país participe, el acceso, la cobertura y la permanencia en cada nivel educativo, los resultados del aprendizaje, la relevancia y la pertinencia de las propuestas y contenidos educativos y la evolución y características del gasto educativo. El mismo será publicado, será enviado al Poder Legislativo, al Poder Ejecutivo y a los distintos organismos de la enseñanza, dándole la máxima difusión.
 
@@ -1324,9 +1320,9 @@ La sentencia del Tribunal no admitirá recurso alguno.
 
 ## DISPOSICIONES TRANSITORIAS Y EXCEPCIONALES
 
-- A) La elección de los docentes para integrar el Consejo Directivo de la Administración Nacional de Educación Pública y los Consejos de Educación se realizará en el momento que lo considere oportuno la Corte Electoral, antes del 1° de marzo de 2010. Los docentes electos asumirán sus funciones en el mismo momento que lo hagan los designados según los procedimientos establecidos en la presente ley.
+- A) La elección de los docentes para integrar el Consejo Directivo de la Administración Nacional de Educación Pública y los Consejos de Educación se realizará en el momento que lo considere oportuno la Corte Electoral, antes del 1º de marzo de 2010. Los docentes electos asumirán sus funciones en el mismo momento que lo hagan los designados según los procedimientos establecidos en la presente ley.
 
-- B) La Administración Nacional de Educación Pública deberá incorporar a la escuela a todo niño de cuatro años de edad, cuyos padres o responsables legales hayan solicitado su matriculación, a partir del 1° de enero de 2009.
+- B) La Administración Nacional de Educación Pública deberá incorporar a la escuela a todo niño de cuatro años de edad, cuyos padres o responsables legales hayan solicitado su matriculación, a partir del 1º de enero de 2009.
 
 - C) El Consejo Directivo Central de la Administración Nacional de Educación Pública, a los efectos de cumplir con la obligatoriedad de la
 
@@ -1334,17 +1330,17 @@ La sentencia del Tribunal no admitirá recurso alguno.
 
 [[START OF PAGE 56]]
 
-55 55
+55
 
-educación media superior establecida en el artículo 7° de la presente ley, propondrá a la Comisión Coordinadora del Sistema Nacional de Educación Pública, un plan específicamente elaborado para tal fin. El mismo, luego de ser aprobado por esta Comisión será elevado al Poder Legislativo, antes del 30 de agosto de 2010.
+educación media superior establecida en el artículo 7º de la presente ley, propondrá a la Comisión Coordinadora del Sistema Nacional de Educación Pública, un plan específicamente elaborado para tal fin. El mismo, luego de ser aprobado por esta Comisión será elevado al Poder Legislativo, antes del 30 de agosto de 2010.
 
-- D) El Consejo Directivo Central de la Administración Nacional de Educación Pública, a los efectos de cumplir con el objetivo de asegurar a los alumnos de educación primaria y educación media básica la extensión del tiempo pedagógico en esos niveles, establecido en el artículo 7° de la presente ley, propondrá a la Comisión Coordinadora del Sistema Nacional de Educación Pública, un plan específicamente elaborado para tal fin. El mismo, luego de ser aprobado por esta Comisión será elevado al Poder Legislativo, antes del 30 de agosto de 2010.
+- D) El Consejo Directivo Central de la Administración Nacional de Educación Pública, a los efectos de cumplir con el objetivo de asegurar a los alumnos de educación primaria y educación media básica la extensión del tiempo pedagógico en esos niveles, establecido en el artículo 7º de la presente ley, propondrá a la Comisión Coordinadora del Sistema Nacional de Educación Pública, un plan específicamente elaborado para tal fin. El mismo, luego de ser aprobado por esta Comisión será elevado al Poder Legislativo, antes del 30 de agosto de 2010.
 
 - E) Se encomienda al Consejo de Educación Media Básica elaborar, en un plazo de ciento ochenta días de su creación, un plan para asegurar el cumplimiento del literal B) del artículo 69 de la presente ley, el que será aprobado por el Consejo Directivo Central en presencia de los Directores Generales de los Consejos.
 
 - F) El Poder Ejecutivo, en un plazo de noventa días, remitirá a la Asamblea General del Poder Legislativo un proyecto de ley que establezca procedimientos adecuados, técnicamente diseñados y que ofrezca garantías a las instituciones y a la sociedad, para la autorización, el reconocimiento y el seguimiento de las instituciones privadas de educación terciaria.
 
-- G) A los efectos de dar cumplimiento a lo dispuesto en el literal B) del artículo 62 de la presente ley se crea una Comisión integrada por representantes de los Consejos de Educación Inicial y Primaria, Educación Secundaria y Educación Técnico-Profesional (UTU), con el cometido de elaborar una propuesta de educación media básica, a partir de las experiencias de los Ciclos Básicos de las diferentes modalidades existentes, incluyendo 7°,
+- G) A los efectos de dar cumplimiento a lo dispuesto en el literal B) del artículo 62 de la presente ley se crea una Comisión integrada por representantes de los Consejos de Educación Inicial y Primaria, Educación Secundaria y Educación Técnico-Profesional (UTU), con el cometido de elaborar una propuesta de educación media básica, a partir de las experiencias de los Ciclos Básicos de las diferentes modalidades existentes, incluyendo 7º,
 
 [[END OF PAGE 56]]
 
@@ -1352,11 +1348,11 @@ educación media superior establecida en el artículo 7° de la presente ley, pr
 
 56
 
-8° y 9° año del medio rural. La Comisión deberá constituirse en los siguientes noventa días, recibirá la opinión de las Asambleas Técnico Docentes. La Comisión de Implantación del Consejo de Educación Media Básica remitirá informes periódicos al Consejo Directivo Central de la Administración Nacional de Educación Pública (ANEP), con recomendaciones vinculadas a la educación media básica. Establecerá un plan que tenga en cuenta la infraestructura edilicia, los recursos materiales y los recursos humanos necesarios para el funcionamiento del nuevo Consejo.
+8º y 9º año del medio rural. La Comisión deberá constituirse en los siguientes noventa días, recibirá la opinión de las Asambleas Técnico Docentes. La Comisión de Implantación del Consejo de Educación Media Básica remitirá informes periódicos al Consejo Directivo Central de la Administración Nacional de Educación Pública (ANEP), con recomendaciones vinculadas a la educación media básica. Establecerá un plan que tenga en cuenta la infraestructura edilicia, los recursos materiales y los recursos humanos necesarios para el funcionamiento del nuevo Consejo.
 
-- H) Hasta tanto no esté en funcionamiento el Instituto Universitario de Educación, se faculta al Consejo Directivo Central de la ANEP a adoptar las decisiones que correspondan para mantener la continuidad de formación y el perfeccionamiento docente a su cargo hasta el momento de aprobación de esta ley.
+- H) Hasta tanto no esté en funcionamiento el Instituto Universitario de Educación, se faculta al Consejo Directivo Central de la ANEP a adoptar las decisiones que correspondan para mantener la continuidad de la formación y el perfeccionamiento docente a su cargo hasta el momento de aprobación de esta ley.
 
-- I) Luego de que los Consejos Directivos de la ANEP y la Universidad de la República aprueben el Informe elaborado por la Comisión de Implantación, y hasta tanto no se apruebe su Ley Orgánica, el Instituto Universitario de Educación funcionará en el ámbito de la ANEP, como órgano desconcentrado de carácter privativo, con las atribuciones establecidas en dicho informe para esta situación.
+- I) Luego de que los Consejos Directivos de la ANEP y la Universidad de la República aprueben el Informe elaborado por la Comisión de Implantación, y hasta tanto no se apruebe su Ley, Orgánica, el Instituto Universitario de Educación funcionará en el ámbito de la ANEP, como órgano desconcentrado de carácter privativo, con las atribuciones establecidas en dicho informe para esta situación.
 
 - J) Luego de que los Consejos Directivos de la ANEP y la Universidad de la República aprueben el informe elaborado por la Comisión de Implantación, y hasta tanto no se apruebe su Ley Orgánica, el Instituto Terciario Superior funcionará en el ámbito de la ANEP, como órgano desconcentrado de carácter privativo, con las atribuciones establecidas en dicho informe para esta situación.
 
@@ -1374,7 +1370,7 @@ Terciario Superior (ITS) de acuerdo con la Comisión de Implantación del mismo.
 
 ## DEROGACIONES Y OBSERVANCIAS
 
-Deróganse los artículos 1° a 4º, 6º a 28 y 44 a 50 de la Ley N° 15.739, de 28 de marzo de 1985; las Leyes N° 16.115, de 3 de julio de 1990, N° 16.802, de 19 de diciembre de 1996, y N° 18.154, de 9 de julio de 2007, así como todas las disposiciones legales que se opongan a la presente ley.
+Deróganse los artículos 1º a 4º, 6º a 28 y 44 a 50 de la Ley N° 15.739, de 28 de marzo de 1985; las Leyes N° 16.115, de 3 de julio de 1990, N° 16.802, de 19 de diciembre de 1996, y N° 18.154, de 9 de julio de 2007, así como todas las disposiciones legales que se opongan a la presente ley.
 
 Sala de Sesiones de la Cámara de Senadores, en Montevideo, a 10 de diciembre de 2008.
 
@@ -1424,7 +1420,7 @@ Montevideo, 12 DIC. 2008
 
 Cúmplase, acúsese recibo, comuníquese, publíquese e insértese en el Registro Nacional de Leyes y Decretos, la Ley por la que se establecen normas en materia de educación.
 
-Dr. TABARE VAZQUEZ
+Dr. TABARE VAZQUEZ.
 
 Presidente de la República
 
@@ -1432,6 +1428,6 @@ Presidente de la República
 
 [[START OF PAGE 60]]
 
-Ajan
+
 
 [[END OF PAGE 60]]
