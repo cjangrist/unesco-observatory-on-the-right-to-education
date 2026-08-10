@@ -188,6 +188,10 @@ Sont placés sous la coordination directe du Ministre :
 
 ![Image](imgs/img_in_image_box_158_1602_208_1682.jpg)
 
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
 Sont placés sous la tutelle du Ministre :
 
 - L'Université du Burundi « UB » ;
