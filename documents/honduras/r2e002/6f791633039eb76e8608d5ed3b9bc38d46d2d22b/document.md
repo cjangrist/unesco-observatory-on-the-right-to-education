@@ -1,3 +1,5 @@
+[[START OF PAGE 1]]
+
 LA PRIMERA IMPRENTA  
 LLEGO A HONDURAS EN  
 1829, SIENDO INSTALA-  
@@ -107,6 +109,8 @@ Es obligación de los padres y en ausencia de éstos, de los familiares legalmen
 El abandono o desatención de la persona Minusválida por parte de sus padres o responsables legales, constituye delito.
 
 La autoridad competente proveerá las medidas encaminadas a lograr el cumplimiento de esta obligación.
+
+[[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
