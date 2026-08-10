@@ -4,7 +4,7 @@
 
 **National Action Plan To Achieve Education For All by the Year 2015**
 
-**Volume I. Country Strategy**
+## Volume I. Country Strategy
 
 [[END OF PAGE 1]]
 
@@ -14,7 +14,7 @@
 
 **National Action Plan To Achieve Education for All by the Year 2015 (EFA 2015)**
 
-**Volume 1. COUNTRY STRATEGY**
+## Volume 1. COUNTRY STRATEGY
 
 **Republic of the Philippines  
 Manila, Philippines  
@@ -32,7 +32,7 @@ October 2005**
 
 [[START OF PAGE 4]]
 
-# Table of Contents
+### Table of Contents
 
 |  | Page No. |
 |---|---:|
@@ -62,42 +62,33 @@ October 2005**
 
 The three enabling tasks are:
 
-7. Financing: Provide adequate public funding for country-wide 20 2
-attainment of EFA goals.
+7. **Financing:** Provide adequate public funding for country-wide 20 2 attainment of EFA goals.
 
-8. Governance: Create network of community-based groups for local 21 2
-attainment of EFA goals.
+8. **Governance:** Create network of community-based groups for local 21 2 attainment of EFA goals.
 
-9. Monitoring: Monitor progress in effort towards attainment of EFA 2 21
-goals.
+9. **Monitoring:** Monitor progress in effort towards attainment of EFA 2 21 goals.
 
-## List of Annexes
+#### List of Annexes
 
 - Annex 1 List of Competencies based on the definition of Functional Literacy
-
 - Annex 2. Detailed EFA 2015 Targets
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
-# Introduction
+### Introduction
 
 The Philippine EFA 2015 Plan is a vision and a holistic program of reforms of the country to achieve an improved quality of basic education for every Filipino by 2015. The Plan is anchored on the Dakar Framework of Action adopted by various participating countries including the Philippines during the World Education Forum in April 2000, Dakar, Senegal. The Dakar Framework for Action is a re-affirmation of the vision set out in the World Declaration on Education For All (Jomtien1990) that every child, youth and adult has the human right to benefit from education that will meet their basic learning needs including the full development of human personality.
 
 The World Declaration on Education For All prescribes that Basic Learning Needs (BLNs) shall be made available to all by various means. BLNs comprise both essential learning tools (literacy, numeracy, oral expression and problem solving) and the basic learning contents (knowledge, skills, values and attitudes) required by human beings to be able to survive, to develop their full capacities, to live and work in dignity, to participate fully in development, to improve the quality of their lives, to make informed decisions, and to continue learning. This level and form of education may be delivered to learners by way of schools or formal education or by way of alternative learning schemes (e.g., informal and non-formal education). To meet the basic learning needs of all, the participating countries in the World EFA Forum in Dakar collectively committed themselves to the attainment of the following goals:
 
-a. expanding and improving comprehensive early childhood care and education, especially for the most vulnerable and disadvantaged children;
-
-b. ensuring that by 2015 all children, particularly girls, children in difficult circumstances and those belonging to ethnic minorities, have access to and complete free and compulsory primary education of good quality;
-
-C. ensuring that the learning needs of all young people and adults are met through equitable access to appropriate learning and life skills programmes;
-
-d. achieving a 50 percent improvement in levels of adult literacy by 2105, especially for women and equitable access to basic and continuing education for all adults
-
-e. eliminating gender disparities in primary and secondary education by 2005, and achieving gender equality in education by 2015, with a focus on ensuring girls full and equal access to and achievement in basic education of good quality;
-
-f. improving every aspect of the quality of education, and ensuring their excellence so that recognized and measurable learning outcomes are achieved by all, especially in literacy, numeracy and essential life skills.
+- a. expanding and improving comprehensive early childhood care and education, especially for the most vulnerable and disadvantaged children;
+- b. ensuring that by 2015 all children, particularly girls, children in difficult circumstances and those belonging to ethnic minorities, have access to and complete free and compulsory primary education of good quality;
+- C. ensuring that the learning needs of all young people and adults are met through equitable access to appropriate learning and life skills programmes;
+- d. achieving a 50 percent improvement in levels of adult literacy by 2105, especially for women and equitable access to basic and continuing education for all adults
+- e. eliminating gender disparities in primary and secondary education by 2005, and achieving gender equality in education by 2015, with a focus on ensuring girls full and equal access to and achievement in basic education of good quality;
+- f. improving every aspect of the quality of education, and ensuring their excellence so that recognized and measurable learning outcomes are achieved by all, especially in literacy, numeracy and essential life skills.
 
 To advance the above-mentioned goals of Dakar, the central goal of the Philippine EFA 2105 Plan is basic competencies for all that will bring about functional literacy for all. Ensuring that every Filipino has the basic competencies is equivalent to providing all Filipinos with the basic learning needs as defined earlier to or enabling all Filipinos to be functionally literate which means having the complete range of skills and competencies - cognitive, affective and behavioral which enables individuals to: live and work as human persons; develop their potentials; make critical and informed decisions; and function effectively in society within the context of their environment and that of the wider community (local, regional, national and global) in order to improve the quality of their lives and that of the society. Annex 1 shows the list of competencies based on FL definition. Thus, the concept of quality in basic education, whether formal or non-formal shall be constructed based on the definition of Functional Literacy adopted by the Literacy Coordinating Council (LCC) in September 1997. This definition of functional literacy and the five strands-indicators were largely based on universally accepted Four Pillars of Education propounded by the independent International Commission on Education for the 21st Century chaired by Jacques Delors and on the UNESCO's concept of Life Skills. The Commision's report, "Learning: The Treasure Within" submitted to UNESCO,
 
@@ -143,9 +134,9 @@ Finally, this document seeks to educate a critical mass in order to mobilize the
 
 [[START OF PAGE 9]]
 
-# I. Confronting A Serious National Burden
+### I. Confronting A Serious National Burden
 
-## Declared Ideals of Desired Education for All
+#### Declared Ideals of Desired Education for All
 
 As of 2004, the total Philippine population is projected to be around 82.7 million people. How educated are all these Filipinos? Let us begin answering this question by first defining what is meant by an "educated Filipino".
 
@@ -173,7 +164,7 @@ The constitutional provision on language states that: "For purposes of communica
 
 Given the above sampling of the ample executive, legislative and constitutional articulations of our country's intention for every Filipino to be educated, how far has this intention of universal education been realized?
 
-## Severe Education Disadvantage
+#### Severe Education Disadvantage
 
 According to the 2003 Functional Literacy, Education and Mass Media Survey (FLEMMS), the country's population of 57.6 million 10 to 64 y/o Filipinos included some 3.8 million Filipinos 10 years old and above who are unable to read and write and a total of 9.2 million who are not "functionally literate" or unable to compute and lacked certain numeracy skills. These illiterates and functional illiterates comprise the most extreme segment of the larger portions of our population who are educationally disadvantaged.
 
@@ -201,7 +192,7 @@ Education disadvantage is not limited only to those who never get into a school.
 
 - For every typical 1,000 entrants to First Year high school, 389 will leave school without completing four years; 353 will graduate after repeating two to three times taking an average of 6.7 years; and only 248 will graduate within the required four years.
 
-• Taking the two levels together, a typical group of 1,000 Grade 1 entrants will eventually yield only 395 who finish high school, with only 162 of them finishing elementary and high school in ten years while 233 eventually finish elementary and high school after each taking up to sixteen years to complete the ten-year basic education schooling cycle. It is highly probable that a very small number of these high school graduates will have acquired the necessary competencies expected from ten years of schooling.
+- Taking the two levels together, a typical group of 1,000 Grade 1 entrants will eventually yield only 395 who finish high school, with only 162 of them finishing elementary and high school in ten years while 233 eventually finish elementary and high school after each taking up to sixteen years to complete the ten-year basic education schooling cycle. It is highly probable that a very small number of these high school graduates will have acquired the necessary competencies expected from ten years of schooling.
 
 6
 
@@ -217,7 +208,7 @@ Lest the reader might incidentally conclude at this stage that the bilingual pol
 
 In sum, how educated are all Filipinos? Most acquire the bare tools of literacy and functional literacy, although a large number (up to 3.8 million are not literate and up to 9.2 million are not functionally literate) do not even have such rudimentary tools. Much larger segments than these core illiterates do not attain various aspects of the EDCOM ideal of the educated Filipino. Most Filipinos are unable to communicate adequately in English, which is still the prevailing language of commerce, law, government and international interactions as well as the main language for Filipinos to access global knowledge. One of the major sources of this large and continued education disadvantage in the population is the failure of schools to assure mastery of basic education competencies in English. The notion of the educated Filipino still requires a modicum of competency in English for certain important domains of use or alternatively the full development of Filipino as the prevalent medium of intellectual exchange, as these alternative conditions are indicative of every Filipino's real ability to engage rationally with many vital social, political and economic issues. In either these two alternative notions, the whole population is still very far from attaining the ideal of an educated nation.
 
-## Current Costs of Educational Failure
+#### Current Costs of Educational Failure
 
 Good education is expensive but lack of education costs many times more. The first costs of lack of education are borne by the uneducated.
 
@@ -259,7 +250,7 @@ In summary, the costs of failure to attain universal education are incalculably 
 
 It is crucial that those who are educated recognize that the society's failure to educate everyone hobbles them (the educated) just as it cripples the uneducated.
 
-## Good Intentions Without Significant Gains
+#### Good Intentions Without Significant Gains
 
 A failure of such massive proportions and such historic duration cannot be the work of one man or even one cabal of people. The large pool of illiterates has always been around. The relative size may have contracted as a portion of a growing population, but their numbers in the millions have been a steady fact of national life. The weaknesses of the school system have been noted in all the commissions, committees and expert studies to assess the Philippine basic education system since the earliest days of the Republic up to the most recent administration. The deteriorating competencies in English, math and science have been noted in study after study since the 1960's which was the start of the rapid growth of enrollment that continue to this day. The many good intentions of all Secretaries of Education, various
 
@@ -275,11 +266,11 @@ Why has the Philippines failed to attain universal basic education for all? This
 
 - The first failure must be those of national political leaders, in the executive and legislative, primarily for their collective inability to take the tough decisions in public finance (both in revenue raising as well as in spending authorization) to effectively and equitably allocate limited public resources that can be efficiently used to adequately meet the needs of good quality basic education for all.
 
-• The second failure must be those of the professional educators who manage and operate our schools for their collective avoidance of facing up to the stark reality that the vast majority of our schools are failing to teach and as a result many students are failing to learn.
+- The second failure must be those of the professional educators who manage and operate our schools for their collective avoidance of facing up to the stark reality that the vast majority of our schools are failing to teach and as a result many students are failing to learn.
 
 - The third failure must be those of the best educated and most articulate influentials in society, who are working in media, government, business, academe and civil society, for their lack of consistent and unified attention to getting the whole society committed to breaking the back of growing mass incompetence of Filipinos through adequate basic education for all.
 
-• The fourth failure must be those of community leaders (government officials, business leaders, and professionals active in their localities) for their lack of demand, support and action for the attainment of quality basic education for everyone in their communities, not just for their own children.
+- The fourth failure must be those of community leaders (government officials, business leaders, and professionals active in their localities) for their lack of demand, support and action for the attainment of quality basic education for everyone in their communities, not just for their own children.
 
 - The fifth and last failure must be those of education reform advocates for their lack of constancy of purpose, muddled vision and mistaken strategies, all of which weakened or confused the direction and drive of the process to improve basic education for all.
 
@@ -291,21 +282,21 @@ Yet these are the failures of the virtuous and well intentioned, not the triumph
 
 [[START OF PAGE 16]]
 
-# II. Finally and Truly, Basic Competencies by Everyone
+### II. Finally and Truly, Basic Competencies by Everyone
 
-## Real Dimensions of Education for All
+#### Real Dimensions of Education for All
 
 Anchored on the World EFA goals, the Philippine EFA Action Plan aims to provide BASIC COMPETENCIES TO EVERYONE IN ORDER TO ACHIEVE FUNCTIONAL LITERACY FOR ALL.
 
 But what does it take to truly and finally attain Universal Functional Literacy and realize the EDCOM ideal of every Filipino as a competent bilingual (Filipino and English) "who respects human rights, whose personal discipline is guided by spiritual and human values, who can think critically and creatively, who can exercise responsibly his rights and duties as a citizen, whose mind is informed by science and reason, and whose nationalism is based on a knowledge of our history and cultural heritage"? This ambitious goal can only be accomplished through the achievement of four component outcomes.
 
-1. Universal Coverage of Out-of-School Youth and Adults in the Provision of Basic Learning Needs: All persons beyond school-age who for various reasons have failed to acquire the essential competence to be functionally literate should finally be made functionally literate in their native tongue, in Filipino and in English. Functional literacy is merely the first step for these disadvantaged adults to become educated Filipinos in the sense articulated by EDCOM. Achievement of this outcome requires that the many social, political, cultural and economic mechanisms that are already reaching these persons should be enhanced by adult literacy programs. This outcome involves reaching and educating up to about 9 million functionally illiterates as of year 2003.
+1. **Universal Coverage of Out-of-School Youth and Adults in the Provision of Basic Learning Needs:** All persons beyond school-age who for various reasons have failed to acquire the essential competence to be functionally literate should finally be made functionally literate in their native tongue, in Filipino and in English. Functional literacy is merely the first step for these disadvantaged adults to become educated Filipinos in the sense articulated by EDCOM. Achievement of this outcome requires that the many social, political, cultural and economic mechanisms that are already reaching these persons should be enhanced by adult literacy programs. This outcome involves reaching and educating up to about 9 million functionally illiterates as of year 2003.
 
-2. Universal School Participation and Elimination of Drop-outs and Repetition in First Three Grades: All children aged six should enter school ready to learn and prepared to achieve the required competencies for Grade 1 to 3 instruction. Attainment of this outcome is just the first installment for insuring that education disadvantage does not take root early thereby limiting the future options available to disadvantaged pre-school children. Achievement of this outcome requires that quality-assured programs for pre-school and early childhood care and development should be expanded to reach all children aged 3 to 5 years old, with first priority to reaching first those children least likely to enter school or most likely to drop-out or repeat in Grades 1 to 3. This outcome involves reaching about 5.7 million children aged 3 to 5 years old, with about 20% of these (1.2 million children) comprising those least likely to enter Grade 1 and most likely to repeat or drop out between Grade 1 to 3.
+2. **Universal School Participation and Elimination of Drop-outs and Repetition in First Three Grades:** All children aged six should enter school ready to learn and prepared to achieve the required competencies for Grade 1 to 3 instruction. Attainment of this outcome is just the first installment for insuring that education disadvantage does not take root early thereby limiting the future options available to disadvantaged pre-school children. Achievement of this outcome requires that quality-assured programs for pre-school and early childhood care and development should be expanded to reach all children aged 3 to 5 years old, with first priority to reaching first those children least likely to enter school or most likely to drop-out or repeat in Grades 1 to 3. This outcome involves reaching about 5.7 million children aged 3 to 5 years old, with about 20% of these (1.2 million children) comprising those least likely to enter Grade 1 and most likely to repeat or drop out between Grade 1 to 3.
 
-3. Universal Completion of the Full Cycle of Basic Education Schooling with Satisfactory Achievement Levels by All At Every Grade or Year: All children aged six to eleven should be on track to completing elementary schooling with satisfactory achievement levels at every grade, and all children aged twelve to fifteen should be on track to completing secondary schooling with similarly satisfactory achievement levels at every year. Attaining this outcome assures that schooling will become a real factor in eliminating education disadvantage regardless of socio- economic circumstances of school age children. Achievement of this outcome requires that all elementary and high schools work with their respective communities to jointly take full responsibility for assuring that all school-aged children stay in school, that no student is allowed to significantly lag behind in grade level achievements, and that every student attains the required level of competency necessary for the next grade level until graduation. This outcome involves a school-age population of 12.6 million children aged 6 to 11 years old (elementary schooling) and another 7.6 million children aged 12 to 15 years old (high school). This also involves getting every one of the almost 40,000 elementary schools (36,000 public and 4,000 private) and the almost 8,000 high schools (5,000 public and 3,000 private) to perform above a desired minimum level of effectiveness.
+3. **Universal Completion of the Full Cycle of Basic Education Schooling with Satisfactory Achievement Levels by All At Every Grade or Year:** All children aged six to eleven should be on track to completing elementary schooling with satisfactory achievement levels at every grade, and all children aged twelve to fifteen should be on track to completing secondary schooling with similarly satisfactory achievement levels at every year. Attaining this outcome assures that schooling will become a real factor in eliminating education disadvantage regardless of socio- economic circumstances of school age children. Achievement of this outcome requires that all elementary and high schools work with their respective communities to jointly take full responsibility for assuring that all school-aged children stay in school, that no student is allowed to significantly lag behind in grade level achievements, and that every student attains the required level of competency necessary for the next grade level until graduation. This outcome involves a school-age population of 12.6 million children aged 6 to 11 years old (elementary schooling) and another 7.6 million children aged 12 to 15 years old (high school). This also involves getting every one of the almost 40,000 elementary schools (36,000 public and 4,000 private) and the almost 8,000 high schools (5,000 public and 3,000 private) to perform above a desired minimum level of effectiveness.
 
-4. Total Community Commitment to Attainment of Basic Education Competencies for All: Every community should mobilize all its social, political, cultural and economic resources and capabilities to support the universal attainment of basic education competencies in Filipino and
+4. **Total Community Commitment to Attainment of Basic Education Competencies for All:** Every community should mobilize all its social, political, cultural and economic resources and capabilities to support the universal attainment of basic education competencies in Filipino and
 
 11
 
@@ -319,7 +310,7 @@ The above numbers are large and are more likely to increase rather than decrease
 
 Contrary to the opinion of some, basic education for all is not about a trade-off between quantity and quality. It does not make much sense to extend to everyone all kinds of educational opportunity -e.g., early childhood care and development programs, elementary and secondary schooling, non-formal education - of whatever quality without considering the actual educational competencies everyone attains as a result of their access to such opportunities. Education for all is about achieving a common set of competencies that everyone acquires regardless of the channels or sources each one used to acquire such education. It is about the level of quality in education outcomes that society is prepared and able to deliver, and actually delivers, to everyone.
 
-## Potential Benefits of Success
+#### Potential Benefits of Success
 
 Imagine a society where everyone has the essential competence of an educated person. Such a society would have a composition where every individual has the basic capacity to be economically productive, politically participative, culturally interactive and socially included. In such a society, most persons would be capable of contributing more than they claim for themselves in economic, political, cultural and social matters, instead of many becoming dependent on the capacity of others. Such conditions would allow for faster accumulation and more equitable distribution of national wealth, faster improvement in political responsiveness to the true will of the people, and a more dynamic development of culture and society. Those with outstanding or exceptional abilities can also achieve much more because they are able to draw upon the energies and support of a much larger base of population with high average. competencies, compared to the natural limits imposed on their efforts by a largely incompetent population.
 
@@ -335,7 +326,7 @@ While there are data that indicates that additional years of formal education pe
 
 in educational levels reach and benefit those least educated, rather than simply further increase educational capacities among the better educated.
 
-## Larger Stakes to the Nation
+#### Larger Stakes to the Nation
 
 Education enables a person, and education for all enables everyone. The benefits of good education are so obvious that most Filipino families (more than 90% of all families), including those headed by uneducated parents, get their children to school at the opening of classes each year. Beyond the benefits to individuals, however, education of everyone in fact ultimately defines the whole nation.
 
@@ -345,7 +336,7 @@ Benedict Anderson proposes the definition of the nation: "it is an imagined poli
 
 - It is imagined as limited because the community as defined "has finite, if elastic, boundaries, beyond which lie other nations. No nation imagines itself coterminous with mankind."
 
-• It is imagined as sovereign because it was first dreamed as being free with the "gauge and emblem of such freedom being a sovereign state".
+- It is imagined as sovereign because it was first dreamed as being free with the "gauge and emblem of such freedom being a sovereign state".
 
 - It is imagined as a community because, "regardless of the actual inequality and exploitation that may prevail within, the nation is always conceived as a deep, horizontal comradeship. It is this fraternity among its members that makes possible for many, not so much to kill, as willingly to die for such an imagining".
 
@@ -421,7 +412,7 @@ In this view, education is part of the "substantive freedom – the capabilities
 
 Our country has clearly chosen the path of democracy and free markets because we value the free exercise of political and economic rights by themselves, apart from the larger benefits we have reason to believe will come as matter of course from the free exercise of these rights. It is therefore crucial that our society decides to truly enable everyone to freely exercise such rights as fully as possible, particularly in assuring each person's essential and basic capabilities in terms of a broadly defined literacy or educational competence. The point of education for all is not merely to turn peasants, fisherfolks, vendors, etc. into Filipinos but to enable them to become truly free Filipinos. Then they can define and determine for themselves collectively what kind of a nation the Philippines can be.
 
-## Realize, Resolve, Reform
+#### Realize, Resolve, Reform
 
 At this point the reader must have realized how deep a hole our country is in, how dark are the prospects if we do not climb out of this hole, and how bright is the sky beyond our hole if we do get out. If the reader is not yet convinced, it is important that he or she re-examine his or her views in order to fully embrace and realize these conclusions.
 
@@ -443,7 +434,7 @@ The main body of this plan offers proposed reforms that, if implemented with int
 
 [[START OF PAGE 23]]
 
-# III. Most Urgent and Critical Tasks
+### III. Most Urgent and Critical Tasks
 
 An anecdote from the records of the 1991 National Congress on Education (which was one of the major events in the EDCOM proceedings) had Engineer Manuel Gonzales, executive director of the Coordinating Council for Private Education Association, telling this joke:
 
@@ -457,13 +448,15 @@ This section of the plan outlines the nine proposed tasks considered to be the m
 
 Yet the Filipino people are known for prodigious feats in the field of education that lead to fundamental changes in the life of the whole nation. In the 1890's, barely 3% of the Philippine population knew the "Castilian" language. But it was Spanish-reading and -writing propagandists who turned a reform movement into a national revolution that produced the first free republic in Asia within a period of ten years. Another example was in the 1900's, when almost no one spoke English in the Philippine islands. By the late 1920's, however, Filipino teachers have largely taken over an extensive national public school system teaching English to generations of Filipinos. So in the field of education, Filipinos have repeatedly shown how dedicated action by a few can rapidly alter the life of the whole nation.
 
-## Overview of the Nine Main Tasks
+#### Overview of the Nine Main Tasks
 
 The nine main tasks may be categorized into two general classes. Successful execution of six "production tasks" will yield the desired educational outcomes. But an adequate foundation and supportive environment created by the three "enabling tasks" will be necessary to sustain effective implementation of the production tasks. Each of the nine main tasks are described in summary form below and discussed in more detail in succeeding sections.
 
 The six production tasks are:
 
-1. Better Schools: Make every school continuously perform better. Action: Instruments for every school to assess its capabilities and performance in attaining EFA goals are developed, introduced, propagated and adopted. Stakeholders at every school - school head, teachers, students, parents, community leaders - use the process and results of school assessment as their platform for identifying and implementing school or community actions for continuous (and accountable) improvement of school quality. The assessment process leads to the formulation of a “social contract” between the school and the community, with the support of the educational authorities. Activities are geared to get stakeholders at every school in the country to take collective responsibility for their own school's educational performance.
+#### 1. Better Schools: Make every school continuously perform better.
+
+**Action:** Instruments for every school to assess its capabilities and performance in attaining EFA goals are developed, introduced, propagated and adopted. Stakeholders at every school - school head, teachers, students, parents, community leaders - use the process and results of school assessment as their platform for identifying and implementing school or community actions for continuous (and accountable) improvement of school quality. The assessment process leads to the formulation of a “social contract” between the school and the community, with the support of the educational authorities. Activities are geared to get stakeholders at every school in the country to take collective responsibility for their own school's educational performance.
 
 18
 
@@ -473,23 +466,23 @@ The six production tasks are:
 
 ני
 
-Justification: Despite many policy and program reforms in the past twenty to thirty years, overall performance of the nation's school system, as a system, has not yielded improvements significant enough to alter long-term patterns of education disadvantage. This is probably because the nation's network of schools has not systematically improved its overall performance. Focus is therefore on improving nationwide school-level performance on the reasonable assumption that improving performance of every school will improve aggregate performance of the whole system of schools.
+**Justification:** Despite many policy and program reforms in the past twenty to thirty years, overall performance of the nation's school system, as a system, has not yielded improvements significant enough to alter long-term patterns of education disadvantage. This is probably because the nation's network of schools has not systematically improved its overall performance. Focus is therefore on improving nationwide school-level performance on the reasonable assumption that improving performance of every school will improve aggregate performance of the whole system of schools.
 
-## ૧. ECCD: Make expansion of ECCD coverage yield more EFA benefits.
+#### ૧. ECCD: Make expansion of ECCD coverage yield more EFA benefits.
 
-Action: Cost effective quality assurance standards are defined for early child care and development programs for pre-school aged children between three to five years old. National government funding is made available to co-finance local government programs meeting quality assurance standards that cover on a priority basis the children of the least educated parents.
+**Action:** Cost effective quality assurance standards are defined for early child care and development programs for pre-school aged children between three to five years old. National government funding is made available to co-finance local government programs meeting quality assurance standards that cover on a priority basis the children of the least educated parents.
 
-Justification: Since 1990's, population coverage of early childhood care and development (ECCD) programs has expanded. Yet participation, retention and achievement rates of Grade 1 to 3 students who have some ECCD experience have not significantly improved over those without any ECCD experience. This suggests that either expansion of ECCD coverage did not focus on most effective programs, or children covered by most effective ECCD program are not always those at greatest risk of not attending, repeating or not achieving in Grades 1 to 3. Therefore, the key actions involve quality assurance of ECCD programs and targeting of good quality ECCD coverage on children in greatest need for such programs because they are at greatest risk of dropping out, repeating or not achieving in Grades 1 to 3. Suggested priority targets are children of least educated parents as these children are known to perform poorest in school.
+**Justification:** Since 1990's, population coverage of early childhood care and development (ECCD) programs has expanded. Yet participation, retention and achievement rates of Grade 1 to 3 students who have some ECCD experience have not significantly improved over those without any ECCD experience. This suggests that either expansion of ECCD coverage did not focus on most effective programs, or children covered by most effective ECCD program are not always those at greatest risk of not attending, repeating or not achieving in Grades 1 to 3. Therefore, the key actions involve quality assurance of ECCD programs and targeting of good quality ECCD coverage on children in greatest need for such programs because they are at greatest risk of dropping out, repeating or not achieving in Grades 1 to 3. Suggested priority targets are children of least educated parents as these children are known to perform poorest in school.
 
-## 3. Alternative Learning Systems: Transform non-formal and informal interventions into an alternative learning system yielding more EFA benefits
+#### 3. Alternative Learning Systems: Transform non-formal and informal interventions into an alternative learning system yielding more EFA benefits
 
-Action: Cost-effective alternative learning options for achieving adult functional literacy in regional languages, Filipino and English are defined and propagated. National government funding is provided to finance the integration of these alternative learning options for the effective acquisition of Functional Literacy of adults as an essential and routine part of every public, private and civil society socio-economic development initiative reaching disadvantaged persons and communities. Adult literacy organizations work more closely with organizations already involved in community development and poverty alleviation.
+**Action:** Cost-effective alternative learning options for achieving adult functional literacy in regional languages, Filipino and English are defined and propagated. National government funding is provided to finance the integration of these alternative learning options for the effective acquisition of Functional Literacy of adults as an essential and routine part of every public, private and civil society socio-economic development initiative reaching disadvantaged persons and communities. Adult literacy organizations work more closely with organizations already involved in community development and poverty alleviation.
 
-Justification: In an article, "A Critique of Development Education and Training Among Philippine NGOs”, Prof. Maria Luisa Doronila points out that adult motivations for learning are likely to be much more strongly linked to their own day-to-day adult concerns (such as farming, health, family planning, nutrition, sanitation, livelihood, housing, credit, environment, justice, among others). She then suggests that adult literacy programs might be delivered more effectively (i.e., reaches more of those with greatest needs for learning enhanced literacy skills and engages much more those learners actually reached), if such literacy programs were integrated in all existing socio-economic programs addressing these adult concerns.
+**Justification:** In an article, "A Critique of Development Education and Training Among Philippine NGOs”, Prof. Maria Luisa Doronila points out that adult motivations for learning are likely to be much more strongly linked to their own day-to-day adult concerns (such as farming, health, family planning, nutrition, sanitation, livelihood, housing, credit, environment, justice, among others). She then suggests that adult literacy programs might be delivered more effectively (i.e., reaches more of those with greatest needs for learning enhanced literacy skills and engages much more those learners actually reached), if such literacy programs were integrated in all existing socio-economic programs addressing these adult concerns.
 
-## 4. Teachers: Get all teachers to continuously improve their teaching practices
+#### 4. Teachers: Get all teachers to continuously improve their teaching practices
 
-Action: Measures are adopted to enhance capacity for quality teaching practice among future eligibles for admission into the teaching profession who will work in schools, ECCD or ALS programs. Better policies, standards and procedures are developed for selecting, hiring, deploying and utilizing teachers who are more capable of continuously improving their teaching practice. Processes in managing schools and ECCD or ALS programs include creation of
+**Action:** Measures are adopted to enhance capacity for quality teaching practice among future eligibles for admission into the teaching profession who will work in schools, ECCD or ALS programs. Better policies, standards and procedures are developed for selecting, hiring, deploying and utilizing teachers who are more capable of continuously improving their teaching practice. Processes in managing schools and ECCD or ALS programs include creation of
 
 19
 
@@ -499,28 +492,27 @@ Action: Measures are adopted to enhance capacity for quality teaching practice a
 
 conditions, capabilities and procedures that can motivate and enable teachers to continuously improve their teaching practices throughout their career.
 
-Justification: It is obvious that improving teachers' practice of teaching is an important component of improving basic education outcomes. Teacher proficiency and performance is a major determinant of student achievement in school as well as in any other learning setting. The focus of the recommendation is the widespread application of what are already known to improve teacher practices.
+**Justification:** It is obvious that improving teachers' practice of teaching is an important component of improving basic education outcomes. Teacher proficiency and performance is a major determinant of student achievement in school as well as in any other learning setting. The focus of the recommendation is the widespread application of what are already known to improve teacher practices.
 
-## 5. Longer Cycle: Adopt a 12-year cycle for formal basic education
+#### 5. Longer Cycle: Adopt a 12-year cycle for formal basic education
 
-Action: Two more years are added to the existing ten-year basic education schooling that every Filipino child should get.
+**Action:** Two more years are added to the existing ten-year basic education schooling that every Filipino child should get.
 
-Justification: A 12-year basic education cycle is already the norm in Asia. Such longer duration can be feasible in the Philippines considering that at present the average elementary school graduate already takes 7.3 years to finish and the average high school graduate takes 5.6 years to finish, or a total of 12.9 years for the average current graduate to finish the existing ten year cycle. As repetition and dropping out are significantly reduced, existing resources expended for these student who repeat and drop-out can be re-allocated to enable all students to acquire much more competencies as part of a full 12-year cycle.
+**Justification:** A 12-year basic education cycle is already the norm in Asia. Such longer duration can be feasible in the Philippines considering that at present the average elementary school graduate already takes 7.3 years to finish and the average high school graduate takes 5.6 years to finish, or a total of 12.9 years for the average current graduate to finish the existing ten year cycle. As repetition and dropping out are significantly reduced, existing resources expended for these student who repeat and drop-out can be re-allocated to enable all students to acquire much more competencies as part of a full 12-year cycle.
 
-## 6. Curriculum Development: Continue enrichment of curriculum development in the context of pillars of new functional literacy
+#### 6. Curriculum Development: Continue enrichment of curriculum development in the context of pillars of new functional literacy
 
-Action: Public funding and official encouragement are provided to increase volume, variety and quality of technical and scientific work on the basic education curriculum and instruction, using regional languages, Filipino and English. Scope of institutional participation in curriculum development for basic education is expanded to include private schools, non- government organizations, teacher training institutions, individual professional educators and education scientists, and other organizations such as media, advertising and cultural entities.
+**Action:** Public funding and official encouragement are provided to increase volume, variety and quality of technical and scientific work on the basic education curriculum and instruction, using regional languages, Filipino and English. Scope of institutional participation in curriculum development for basic education is expanded to include private schools, non- government organizations, teacher training institutions, individual professional educators and education scientists, and other organizations such as media, advertising and cultural entities.
 
-Justification: Curriculum and instruction will continue to require research and development as knowledge expands, social demands change, educational practices evolve, and people's goals and aspirations rise. The multi-lingual and multi-ethnic context will make diversified technical and scientific work on education even more important, and the wider array of educational modalities (e.g., monograde-formal, multigrade-formal, non-formal, informal, pre- school, among others) will also need to be considered in efficient attainment of basic education competencies.
+**Justification:** Curriculum and instruction will continue to require research and development as knowledge expands, social demands change, educational practices evolve, and people's goals and aspirations rise. The multi-lingual and multi-ethnic context will make diversified technical and scientific work on education even more important, and the wider array of educational modalities (e.g., monograde-formal, multigrade-formal, non-formal, informal, pre- school, among others) will also need to be considered in efficient attainment of basic education competencies.
 
 The three enabling tasks are:
 
-## 7. Financing: Provide adequate public funding for country-wide attainment of EFA
-goals
+#### 7. Financing: Provide adequate public funding for country-wide attainment of EFA goals
 
-Action: The national government adopts a new public funding framework for basic education that coherently combines national and local government funding to support the most cost-effective local efforts to attain quality basic education outcomes in every locality across the whole country.
+**Action:** The national government adopts a new public funding framework for basic education that coherently combines national and local government funding to support the most cost-effective local efforts to attain quality basic education outcomes in every locality across the whole country.
 
-Justification: Public financing from central and local governments is the main source of basic education funding yet, at present, the combined amount is inadequate; current spending is used inefficiently and weakly linked to performance.
+**Justification:** Public financing from central and local governments is the main source of basic education funding yet, at present, the combined amount is inadequate; current spending is used inefficiently and weakly linked to performance.
 
 20
 
@@ -530,18 +522,17 @@ Justification: Public financing from central and local governments is the main s
 
 In line with EFA's Expanded Vision of Education, the accounting of the public funding of basic education includes all agencies performing or doing some activities considered BLNs and not just limited to the DepED budget. For purposes of EFA, the actual resources for basic education subsumes budget of DepED, plus programs on BLNs of DSWD, DA, DOST, DAR, and others. It is now the task of the Government to monitor the allocation of resources in this direction.
 
-## 8. Governance: Create network of community-based groups for local attainment of
-EFA goals
+#### 8. Governance: Create network of community-based groups for local attainment of EFA goals
 
-Action: A knowledge-based popular movement is launched. It reaches, engages and organizes persons in each locality, whose education and social consciousness enable them to understand and act responsibly, to form a nationwide network of multi-sectoral groups advocating, supporting and monitoring attainment of EFA goals in their respective localities.
+**Action:** A knowledge-based popular movement is launched. It reaches, engages and organizes persons in each locality, whose education and social consciousness enable them to understand and act responsibly, to form a nationwide network of multi-sectoral groups advocating, supporting and monitoring attainment of EFA goals in their respective localities.
 
-Justification: There is at present no locus or focal point for community-based actions to support the different institutions responsible for attainment of EFA goals. Educated persons who are active in community affairs could be a natural constituency for sustained local actions to attain EFA goals if they were made more aware, actively organized and connected to a national network providing technical support. Organized community-based EFA groups can become influential champions supporting attainment of goals through various community institutions that include schools, media, local government, local business, local culture and sports, and other potential resources for quality education in the community.
+**Justification:** There is at present no locus or focal point for community-based actions to support the different institutions responsible for attainment of EFA goals. Educated persons who are active in community affairs could be a natural constituency for sustained local actions to attain EFA goals if they were made more aware, actively organized and connected to a national network providing technical support. Organized community-based EFA groups can become influential champions supporting attainment of goals through various community institutions that include schools, media, local government, local business, local culture and sports, and other potential resources for quality education in the community.
 
-## 9. Monitoring: Monitor progress in effort towards attainment of EFA goals
+#### 9. Monitoring: Monitor progress in effort towards attainment of EFA goals
 
-Action: Steady flow of reliable measurements of educational outcomes and of actual effort related to these outcomes are generated. Ample supply of objective information about level of effort expended and extent of progress attained keeps the nation's (and each. community's) attention focused on these results. Of particular importance is the development and implementation of indicators of “quality education” based on the measurement of attainment of the EDCOM definition of the educated Filipino.
+**Action:** Steady flow of reliable measurements of educational outcomes and of actual effort related to these outcomes are generated. Ample supply of objective information about level of effort expended and extent of progress attained keeps the nation's (and each. community's) attention focused on these results. Of particular importance is the development and implementation of indicators of “quality education” based on the measurement of attainment of the EDCOM definition of the educated Filipino.
 
-Justification: Efforts need to be informed by results. Reliable, scientific and objective measurements of educational outcomes and of instructional and learning effort are crucial to all participants -students, parents, teachers, school managers, professional educators, education scientists, policy makers, community leaders - in the massive basic education enterprise.
+**Justification:** Efforts need to be informed by results. Reliable, scientific and objective measurements of educational outcomes and of instructional and learning effort are crucial to all participants -students, parents, teachers, school managers, professional educators, education scientists, policy makers, community leaders - in the massive basic education enterprise.
 
 The whole set of nine tasks is intended to coherently create the conditions that will yield the four main population-based component outcomes described earlier, and which together comprise the total education-for-all goal. The financing and governance tasks are the main institutional drivers of overall system performance. The tasks involving better schools, early childhood care and development, alternative learning systems, and teachers concern the real operating units that enable child and adult learners attain educational achievement and basic education competencies. The tasks involving a longer cycle, curriculum development and monitoring provide the key technical and policy support inputs to the improved functioning of every educational institution and the whole basic education system.
 
@@ -553,9 +544,9 @@ The whole set of nine tasks is intended to coherently create the conditions that
 
 ני
 
-## 1. Better Schools: Make every school continuously improve its performance.
+#### 1. Better Schools: Make every school continuously improve its performance.
 
-Action: Instruments for every school to assess its capabilities and performance in attaining EFA goals are developed, introduced, propagated and adopted. Stakeholders at every school – school head, teachers, - students, parents, community leaders - together use the process and results of school assessment as their platform for identifying and implementing school or community actions for continuous (and accountable) improvement of school quality. The assessment process leads to the formulation of a “social contract" between the school and the community, with the support of the educational authorities. Activities are geared to get stakeholders at every school in the country to take collective responsibility for their own school's educational performance.
+**Action:** Instruments for every school to assess its capabilities and performance in attaining EFA goals are developed, introduced, propagated and adopted. Stakeholders at every school – school head, teachers, - students, parents, community leaders - together use the process and results of school assessment as their platform for identifying and implementing school or community actions for continuous (and accountable) improvement of school quality. The assessment process leads to the formulation of a “social contract" between the school and the community, with the support of the educational authorities. Activities are geared to get stakeholders at every school in the country to take collective responsibility for their own school's educational performance.
 
 While most analyses and recommendations address the whole educational system, the individual school is obviously the most important, and maybe even the crucial, enterprise within that system. The school delivers formal instruction, organizes the teaching of the curriculum, and serves as an important part of the learning environment of Filipino children.
 
@@ -569,7 +560,7 @@ It is proposed that the two key bureaus of DepEd (Bureau of Elementary Education
 
 - Every school is in fact a community enterprise of people who together collectively determine, and are therefore ultimately responsible for, the quality of educational outcomes that all their students attain.
 
-• Every school has, with its community, the capacity and motivation to continuously improve its educational performance and raise the quality of educational outcomes that all their students attain.
+- Every school has, with its community, the capacity and motivation to continuously improve its educational performance and raise the quality of educational outcomes that all their students attain.
 
 - The school head and school staff are the crucial, but not the only, persons who can lead the process of continuous school improvement.
 
@@ -603,9 +594,9 @@ In order to get this school-by-school process of continuous quality improvement 
 
 [[START OF PAGE 29]]
 
-## 2. ECCD: Expand ECCD coverage to yield more EFA benefits.
+#### 2. ECCD: Expand ECCD coverage to yield more EFA benefits.
 
-Action: Cost effective quality assurance standards are defined for early child care and development programs for pre-school aged children between three to five years old. National government funding is made available to co-finance local government or non-government programs meeting quality assurance standards that cover on a priority basis all children of least educated parents
+**Action:** Cost effective quality assurance standards are defined for early child care and development programs for pre-school aged children between three to five years old. National government funding is made available to co-finance local government or non-government programs meeting quality assurance standards that cover on a priority basis all children of least educated parents
 
 Since the 1990's, early child care and development programs have been increasingly recognized as important interventions for attaining EFA goals of the country. The ratio of pre- school aged children enrolled in an ECCD program has risen significantly in the ten years between 1990 and 2000. About half of Grade 1 entrants in 2002 had prior exposure to an ECCD program. These indicators suggest an ongoing expansion of coverage by ECCD programs.
 
@@ -633,9 +624,9 @@ localities and prepare a multi-year budget and operational plan to cover all the
 
 4. Until better data are available, it is proposed that priority coverage for cost-effective ECCD co-financed by the national government should be extended first to all children of least educated parents (parents with less than 6 years of elementary education).
 
-## 3. Alternative Learning System: Transform existing non-formal and informal learning options into a truly viable alternative learning system yielding more EFA benefits
+#### 3. Alternative Learning System: Transform existing non-formal and informal learning options into a truly viable alternative learning system yielding more EFA benefits
 
-Action: Cost-effective alternative learning options for achieving adult functional literacy in first language, Filipino and English are defined and propagated. National government funding is provided to finance the integration of these alternative learning options for the effective acquisition of functional literacy of adults as an essential and routine part of every public, private and civil society socio-economic development initiative reaching disadvantaged persons and communities. Adult literacy organizations work more closely with organizations already involved in community development and poverty alleviation.
+**Action:** Cost-effective alternative learning options for achieving adult functional literacy in first language, Filipino and English are defined and propagated. National government funding is provided to finance the integration of these alternative learning options for the effective acquisition of functional literacy of adults as an essential and routine part of every public, private and civil society socio-economic development initiative reaching disadvantaged persons and communities. Adult literacy organizations work more closely with organizations already involved in community development and poverty alleviation.
 
 Over the years, many non-formal and informal learning options emerged initially as remedial responses to meeting the basic literacy needs of people that the school system had failed to equip with the necessary basic education competencies. Meanwhile, it has been increasingly recognized that diverse educational needs of different groups of people in society are both legitimate and urgent to meet. Yet the mainstream public schools, even in the best of circumstances, are largely unable to meet these educational needs even as effective non- schooling methodologies for meeting these different needs rapidly developed. Thus, the country now aspires to evolving an alternative learning system (alternative and complementary to schools) that is organized and governed in order to provide choices for learning not just as a remedy for school failure but as an addition even to good schools.
 
@@ -671,9 +662,9 @@ The specific actions to be undertaken are the following:
 
 6. A vigorous and credible system for reliably assessing, measuring, validating and communicating actual competencies acquired through non-formal means should be a strength created by the new ALS institution. Such a system will be of value to learners, potential employers, government agencies and other stakeholders with an interest in knowing actual competencies of persons or groups.
 
-## 4. Teachers: Get all teachers to continuously improve their teaching practices
+#### 4. Teachers: Get all teachers to continuously improve their teaching practices
 
-Action: Measures are adopted to enhance capacity for quality teaching practice among future eligibles for admission into the teaching profession who will work in schools, ECCD or ALS programs. Better policies, standards and procedures are developed for selecting, hiring and deploying teachers who are more capable of continuously improving their teaching practice. Processes in managing schools and ECCD or ALS programs include creation of conditions, capabilities and procedures that can motivate and enable teachers to continuously improve their teaching practices throughout their career.
+**Action:** Measures are adopted to enhance capacity for quality teaching practice among future eligibles for admission into the teaching profession who will work in schools, ECCD or ALS programs. Better policies, standards and procedures are developed for selecting, hiring and deploying teachers who are more capable of continuously improving their teaching practice. Processes in managing schools and ECCD or ALS programs include creation of conditions, capabilities and procedures that can motivate and enable teachers to continuously improve their teaching practices throughout their career.
 
 Improved practice of teaching is crucial to the attainment of EFA goals. Actions to improve the practice of teaching are proposed to be defined, led and initiated by the Teacher Education Council (TEC) created under Republic Act No. 7784. For this purpose, the capacity of the TEC to guide recommended actions should be strengthened.
 
@@ -703,9 +694,9 @@ The following actions are proposed to be undertaken:
 
 9. Once capacities of new teacher graduates are considered significantly better and screening and selection practices have improved, consider legislation to lower the retirement age of teachers. This will create room to immediately increase the uptake of new more capable teachers (beyond normal replacements and additions) and offer an opportunity to rapidly improve overall outcomes.
 
-## 5. Increase the cycle of schooling to reach 12 years of formal basic education
+#### 5. Increase the cycle of schooling to reach 12 years of formal basic education
 
-Action: Two more years are added to the existing ten-year basic education schooling that every Filipino child should get.
+**Action:** Two more years are added to the existing ten-year basic education schooling that every Filipino child should get.
 
 In the years until 2015, the Philippines will need to increase its total effort in basic education in order to improve the competencies of Filipinos. Initially, much of this increased effort will be within the existing ten-year basic education cycle. Eventually, however, the country will have to match the effort of those of its neighboring countries. An eleven and eventually a twelve-year basic education cycle, with correspondingly more curriculum content and greater required competencies, will have to be adopted.
 
@@ -723,9 +714,9 @@ these required competencies should be progressively increased until all children
 
 2. DepEd should then begin to get employers, parents, higher education institutions to demand higher levels of competencies for all at certain milestones such as those at the ends of elementary and secondary education cycles. Once there is a consensus for the higher levels of competencies, the additional years of basic education schooling can be adopted as a measure to attain them.
 
-## 6. Accelerate articulation, enrichment and development of basic education curriculum
+#### 6. Accelerate articulation, enrichment and development of basic education curriculum
 
-Action: Public funding and official encouragement are provided to increase volume, variety and quality of technical and scientific work on the basic education curriculum and instruction, using first language, Filipino and English. Scope of institutional participation in curriculum development for basic education is expanded to include private schools, non-government organizations, teacher training institutions, individual professional educators and education scientists, and other organizations such as media, advertising and cultural entities.
+**Action:** Public funding and official encouragement are provided to increase volume, variety and quality of technical and scientific work on the basic education curriculum and instruction, using first language, Filipino and English. Scope of institutional participation in curriculum development for basic education is expanded to include private schools, non-government organizations, teacher training institutions, individual professional educators and education scientists, and other organizations such as media, advertising and cultural entities.
 
 Public discussions and scientific work on what all Filipino children should be learning must be intensified in response to the demands of a changing world. DepEd should provide the leadership and direction to curriculum development, but more stakeholders should be mobilized and engaged in this important task of defining the contents, means and purposes of basic education.
 
@@ -747,9 +738,9 @@ The following activities should be undertaken:
 
 5. An important part of the research and development effort is to link curriculum standards, national standardized testing and school-based student assessment so that teachers and school heads have reliable information to guide their instructional practices for different groups of children at different grade levels for different subjects in different settings.
 
-## 7. Provide adequate and stable public funding for country-wide attainment of EFA goals
+#### 7. Provide adequate and stable public funding for country-wide attainment of EFA goals
 
-Action: The national government adopts a new public funding framework for basic education that coherently combines national and local government funding to support the most cost- effective local efforts to attain quality basic education outcomes in every locality across the whole country.
+**Action:** The national government adopts a new public funding framework for basic education that coherently combines national and local government funding to support the most cost- effective local efforts to attain quality basic education outcomes in every locality across the whole country.
 
 The first task, and potentially the most powerful signal to the rest of society, is for the national government to prioritize adequate funding for quality basic education through better- coordinated and more carefully targeted increases in spending by both national and local governments.
 
@@ -805,9 +796,9 @@ data shall be made available to schools and community groups in every locality s
 
 10. To accelerate and broaden access to basic education, EFA will promote a paradigm shift from the government being solely responsible for delivering basic education services to fiscal reform and economic efficiency measures that will institutionalize a well-planned purchasing/service contracting of basic education services. The services that can be contracted include but are not limited to ECCD, ALS, elementary and secondary education.
 
-## 8. Create network of community-based groups for local attainment of EFA goals
+#### 8. Create network of community-based groups for local attainment of EFA goals
 
-Action: A knowledge-based popular movement is launched. It reaches, engages and organizes persons in each locality, whose education and social consciousness enable them to understand and act responsibly, to form a nationwide network of multi-sectoral groups advocating, supporting and monitoring attainment of EFA goals in their respective localities.
+**Action:** A knowledge-based popular movement is launched. It reaches, engages and organizes persons in each locality, whose education and social consciousness enable them to understand and act responsibly, to form a nationwide network of multi-sectoral groups advocating, supporting and monitoring attainment of EFA goals in their respective localities.
 
 The most likely base of social, political and economic support for sustained effort to attain EFA goals are the large numbers of educated Filipinos living and working in every Philippine community. It will be important to inform, mobilize and engage those among these educated
 
@@ -849,9 +840,9 @@ whatever organization or enterprise they may belong. The local EFA support group
 
 9. Within the first three years from 2005-2007, it should be possible to reach, train, organize and sustain local EFA support groups in all the 180 divisions of DepEd representing provinces and cities of the country.
 
-## 9. Monitor progress in effort towards attainment of EFA goals
+#### 9. Monitor progress in effort towards attainment of EFA goals
 
-Action: Steady flow of reliable measurements of educational outcomes and of actual effort related to these outcomes are generated. Ample supply of objective information about level of effort expended and extent of progress attained keeps the nation's (and each community's) attention focused on these results.
+**Action:** Steady flow of reliable measurements of educational outcomes and of actual effort related to these outcomes are generated. Ample supply of objective information about level of effort expended and extent of progress attained keeps the nation's (and each community's) attention focused on these results.
 
 DepEd should have a dedicated organization to monitor policies, programs and projects to attain EFA goals, and to measure actual effort undertaken and the student outcomes that result from these efforts. The monitoring should also be against clear and agreed curriculum standards.
 
@@ -889,111 +880,82 @@ The strategies to operationalize the Nine Urgent and Critical Tasks are discusse
 
 [[START OF PAGE 42]]
 
-Annex 1
+### Annex 1
 
-# MAJOR INDICATORS OF FUNCTIONAL LITERACY (FL)
+#### MAJOR INDICATORS OF FUNCTIONAL LITERACY (FL)
 
 (as of June 3, 1998)
 
-| Communication<br />Skills                                                                                                                                                                                                                                                                                                                                                                                                 | Critical Problem<br />Solving                                                                                                                                                                                                                                                                                   | Sustainable Use<br />of Resources/<br />Productivity                                                                                                                                            | Development of<br />Self and a Sense<br />of Community                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Expanding One's<br />World Vision                                                                                                                                                                                                         |
-|-|-|-|-|-|
-| Ability to<br />clearly express<br />one's ideas and<br />feelings orally<br />and non-<br />verbally<br /><br />Ability to listen<br /><br />Ability to read,<br />comprehend<br />and respond to<br />ideas presented<br /><br />Ability to write<br />clearly one's<br />ideas and<br />feelings<br /><br />Ability to<br />access, process<br />and utilize<br />available basic<br />and multimedia<br />information | Numeracy skills<br /><br />• To be open to<br />change<br /><br />To be aware of<br />options<br /><br />Ability to make<br />critical and<br />informed<br />decisions<br /><br />• Innovativeness<br />and creativity<br /><br />Scientific<br />thinking<br /><br />Future<br />orientation<br /><br />M 147 | • Ability to earn a<br />living<br /><br />Sustainable use<br />of resources<br />(including time)<br />and appropriate<br />technology<br /><br />• Entrepreneurship<br /><br />• productivity | ⚫ self-development<br />- self awareness<br />- self-discipline<br />- sense of<br />responsibility<br />- self-worth<br />- self-realization<br />- may<br />paninindigan<br />- pagbabagong<br />loob<br /><br />pakikipagkapwa<br />- pakikilahok<br />- pakikiisa/<br />kapatiran<br /><br />a sense of<br />personal and<br />national identify<br />- makatao<br />- makabayan<br />- makakalikasan<br />- maka-Diyos<br /><br />⚫ knowledge of<br />one's history,<br />pride in one's<br />culture and<br />respect for those<br />of others | ⚫ knowledge,<br />acceptance,<br />respect, and<br />appreciation of<br />diversity<br /><br />peace<br /><br />⚫ non-violent<br />resolution of<br />conflicts<br /><br />• global awareness,<br />interdependence<br />and solidarity |
-|                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                 | • recognition and<br />practice of civil<br />and political<br />rights                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                           |
+| Communication Skills | Critical Problem Solving | Sustainable Use of Resources/Productivity | Development of Self and a Sense of Community | Expanding One's World Vision |
+|---|---|---|---|---|
+| • Ability to clearly express one's ideas and feelings orally and non-verbally • Ability to listen • Ability to read, comprehend and respond to ideas presented • Ability to write clearly one's ideas and feelings • Ability to access, process and utilize available basic and multimedia information | Numeracy skills • To be open to change • To be aware of options • Ability to make critical and informed decisions • Innovativeness and creativity • Scientific thinking • Future orientation M 147 | • Ability to earn a living • Sustainable use of resources (including time) and appropriate technology • Entrepreneurship • productivity | ⚫ self-development - self awareness - self-discipline - sense of responsibility - self-worth - self-realization - may paninindigan - pagbabagong loob • pakikipagkapwa - pakikilahok - pakikiisa/kapatiran • a sense of personal and national identify - makatao - makabayan - makakalikasan - maka-Diyos • knowledge of one's history, pride in one's culture and respect for those of others • recognition and practice of civil and political rights | ⚫ knowledge, acceptance, respect, and appreciation of diversity • peace ⚫ non-violent resolution of conflicts • global awareness, interdependence and solidarity |
 
 [[END OF PAGE 42]]
 
 [[START OF PAGE 43]]
 
-ANNEX 2
+### ANNEX 2
 
-# Philippine EFA 2015 TARGETS
+#### Philippine EFA 2015 TARGETS
 
-<table><tr><th rowspan="2" colspan="2">Number
-
-Phil World
-EFA EFA</th><th rowspan="2">Goal/Component Objectives/EFA Indicators</th><th colspan="3">Historical Data</th><th colspan="3">Baseline</th><th colspan="3">Indicative Targets</th></tr><tr><td>1998</td><td>1999</td><td>2000</td><td>1994</td><td>2002</td><td>2003</td><td>2005</td><td>2010</td><td>2015</td></tr><tr><td></td><td></td><td>I. Overall GOAL:
-Basic Competencies for Everyone</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1</td><td></td><td>Functional Literacy Rate (10 y/o to 64 y/o)</td><td></td><td></td><td></td><td>83.80</td><td></td><td>84.10</td><td>84 21</td><td>84.40</td><td>84 59</td></tr><tr><td></td><td></td><td>Female</td><td></td><td></td><td></td><td></td><td></td><td>86 30</td><td>8641</td><td>86 60</td><td>86.79</td></tr><tr><td></td><td></td><td>Male</td><td></td><td></td><td></td><td></td><td></td><td>81 90</td><td>82.01</td><td>82 20</td><td>82.39</td></tr><tr><td>2</td><td>16</td><td>Functional Literacy Rate (15-29 y/o)</td><td></td><td></td><td></td><td></td><td></td><td>90.75</td><td>90 86</td><td>91 06</td><td>91.26</td></tr><tr><td></td><td></td><td>Female</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>Male</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3</td><td>128 17</td><td>Functional Literacy Rate (15+ y/o) and GPI</td><td></td><td></td><td></td><td></td><td></td><td>84.04</td><td>84.15</td><td>84 35</td><td>84 43</td></tr><tr><td></td><td>&amp;</td><td>Female</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>18</td><td>Male</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="6">4</td><td></td><td>Component Objective 1.</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Universal Coverage of Out-Of-School Youth and Adults in
-the Provision of Basic Learning</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Learning Needs</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>% of Provinces/Cities</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>with Basic Literacy Program meeting BALS
-standards for basic literacy
-a) % of clients identified
-b) % of identified clients reached</td><td></td><td></td><td></td><td></td><td></td><td></td><td>100 00</td><td>100.00</td><td>100.00</td></tr><tr><td></td><td>&gt; DepED</td><td></td><td></td><td></td><td></td><td></td><td></td><td>5 00</td><td>20 00</td><td>23.00</td></tr></table>
+| Phil EFA | World EFA | Goal/Component Objectives/EFA Indicators | 1998 | 1999 | 2000 | 1994 | 2002 | 2003 | 2005 | 2010 | 2015 |
+|---:|---:|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+|  |  | I. Overall GOAL: Basic Competencies for Everyone |  |  |  |  |  |  |  |  |  |
+| 1 |  | Functional Literacy Rate (10 y/o to 64 y/o) |  |  |  | 83.80 |  | 84.10 | 84 21 | 84.40 | 84 59 |
+|  |  | Female |  |  |  |  |  | 86 30 | 8641 | 86 60 | 86.79 |
+|  |  | Male |  |  |  |  |  | 81 90 | 82.01 | 82 20 | 82.39 |
+| 2 | 16 | Functional Literacy Rate (15-29 y/o) |  |  |  |  |  | 90.75 | 90 86 | 91 06 | 91.26 |
+|  |  | Female |  |  |  |  |  |  |  |  |  |
+|  |  | Male |  |  |  |  |  |  |  |  |  |
+| 3 | 128 17 & 18 | Functional Literacy Rate (15+ y/o) and GPI |  |  |  |  |  | 84.04 | 84.15 | 84 35 | 84 43 |
+|  | & | Female |  |  |  |  |  |  |  |  |  |
+|  | 18 | Male |  |  |  |  |  |  |  |  |  |
+| 4 |  | Component Objective 1. Universal Coverage of Out-Of-School Youth and Adults in the Provision of Basic Learning Learning Needs |  |  |  |  |  |  |  |  |  |
+| 4 |  | % of Provinces/Cities with Basic Literacy Program meeting BALS standards for basic literacy a) % of clients identified b) % of identified clients reached |  |  |  |  |  |  | 100 00 | 100.00 | 100.00 |
+| 4 |  | > DepED |  |  |  |  |  |  | 5 00 | 20 00 | 23.00 |
 
 [[END OF PAGE 43]]
 
 [[START OF PAGE 44]]
 
-# Philippine EFA 2015 TARGETS
+#### Philippine EFA 2015 TARGETS
 
-<table><tr><th rowspan="2" colspan="2">Number
-
-Phil World
-EFA EFA</th><th rowspan="2">Goal/Component Objectives/EFA Indicators</th><th colspan="3">Historical Data</th><th colspan="3">Baseline</th><th colspan="5">Indicative Targets</th></tr><tr><td>1998</td><td>1999</td><td>2000</td><td>1994</td><td>2002</td><td>2003</td><td></td><td>2005</td><td>2010</td><td></td><td>2015</td></tr><tr><td></td><td></td><td>&gt; Other Gov't Agencies
-&gt; LGUs
-&gt; NGO/POS
-
-c) % of clients completing program attained
-desired literacy level
-&gt; DepED
-&gt; Other Gov't Agencies
-&gt; LGUs
-&gt; NGO/POS</td><td></td><td></td><td></td><td></td><td colspan="7">Baseline data and targets will be established later based
-based on the results of literacy mapping to be conducted
-conducted by DepED-BALS in collaboration with
-and all other ALS stakeholders
-
-5.00 7.50 30.00 32.50
-Baseline data and targets will be established later based
-based on the results of literacy mapping to be conducted
-conducted by DepED-BALS in collaboration with
-and all other ALS stakeholders</td></tr><tr><td>50</td><td></td><td>recreditaties &amp; Eq. alney
-% of Provinces/Cities
-with A&amp;E Program meeting BALS standards
-for functional literacy
-a) % clients identified
-b) % of identified clients reached
-&gt; DepED
-&gt; Other Gov't Agencies
-&gt; LGUs
-&gt; NGO/POS</td><td></td><td>15 11</td><td>27.66</td><td></td><td colspan="7">100.00 100.00 100.00 100.00
-
-200 5.00 20.00 23.00
-Baseline data and targets will be established later based
-on the results of literacy mapping to be conducted
-by DepED-BALS in collaboration with DILG/LGUS
-and all other ALS stakeholders</td></tr><tr><td></td><td></td><td>c) % of clients completing program attained
-desired literacy level</td><td></td><td></td><td></td><td></td><td>5.00</td><td></td><td></td><td>7.50</td><td>30.00</td><td></td><td>32.50</td></tr><tr><td></td><td></td><td>&gt; DepED
-&gt; Other Gov't Agencies
-&gt; LGUs
-&gt; NGO/POS</td><td></td><td></td><td></td><td></td><td>Baseline
-on the
-by</td><td>data and
-results
-DepED-BALS
-and</td><td>targets
-of literacy
-in
-all other</td><td>will be
-mapping
-collaboration
-ALS</td><td>established
-to be
-with
-stakeholders</td><td>later
-conducted
-DILG/LGUS</td><td>based</td></tr><tr><td></td><td></td><td>Component Objective 2. Universal school participation
-and total elimination of drop-out and repetition in Grades
-1 to III</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
+| Phil EFA | World EFA | Goal/Component Objectives/EFA Indicators | 1998 | 1999 | 2000 | 1994 | 2002 | 2003 | 2005 | 2010 | 2015 |
+|---:|---:|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 4 |  | > Other Gov't Agencies > LGUs > NGO/POS |  |  |  |  |  |  | Baseline data and targets will be established later based based on the results of literacy mapping to be conducted conducted by DepED-BALS in collaboration with and all other ALS stakeholders |  |  |
+| 4 |  | c) % of clients completing program attained desired literacy level > DepED |  |  |  |  | 5.00 |  | 7.50 | 30.00 | 32.50 |
+| 4 |  | > Other Gov't Agencies > LGUs > NGO/POS |  |  |  |  |  |  | Baseline data and targets will be established later based based on the results of literacy mapping to be conducted conducted by DepED-BALS in collaboration with and all other ALS stakeholders |  |  |
+| 50 |  | recreditaties & Eq. alney % of Provinces/Cities with A&E Program meeting BALS standards for functional literacy a) % clients identified |  | 15 11 | 27.66 |  | 100.00 |  | 100.00 | 100.00 | 100.00 |
+| 50 |  | b) % of identified clients reached > DepED |  |  |  |  | 200 |  | 5.00 | 20.00 | 23.00 |
+| 50 |  | > Other Gov't Agencies > LGUs > NGO/POS |  |  |  |  |  |  | Baseline data and targets will be established later based on the results of literacy mapping to be conducted by DepED-BALS in collaboration with DILG/LGUS and all other ALS stakeholders |  |  |
+| 50 |  | c) % of clients completing program attained desired literacy level |  |  |  |  | 5.00 |  | 7.50 | 30.00 | 32.50 |
+| 50 |  | > DepED > Other Gov't Agencies > LGUs > NGO/POS |  |  |  |  |  |  | Baseline data and targets will be established later based on the results of literacy mapping to be conducted by DepED-BALS in collaboration with DILG/LGUS and all other ALS stakeholders |  |  |
+|  |  | Component Objective 2. Universal school participation and total elimination of drop-out and repetition in Grades 1 to III |  |  |  |  |  |  |  |  |  |
 
 [[END OF PAGE 44]]
 
 [[START OF PAGE 45]]
 
-# Philippine EFA 2015 TARGETS
+#### Philippine EFA 2015 TARGETS
 
-<table><tr><th rowspan="2" colspan="2">Number
-
-Phil World
-EFA EFA</th><th rowspan="2">Goal/Component Objectives/EFA Indicators</th><th colspan="3">Historical Data</th><th colspan="3">Baseline</th><th colspan="3">Indicative Targets</th></tr><tr><td>1998</td><td>1999</td><td>2000</td><td>1994</td><td>2002</td><td>2003</td><td>2005</td><td>2010</td><td>2015</td></tr><tr><td></td><td></td><td>Early Childhood Education</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6</td><td></td><td>% of Baranggays with Day Care Centers*</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>a) Overall (Baseline: 32,370 DCCs)</td><td></td><td></td><td></td><td></td><td>77.00</td><td></td><td>85.00</td><td>93.00</td><td>100.00</td></tr><tr><td></td><td></td><td>(b) Percentage of accredited day care</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>centers (Baseline: 23,665 DCCs)</td><td></td><td></td><td></td><td></td><td>47.60</td><td></td><td>70.00</td><td>80.00**</td><td>100.00**</td></tr><tr><td></td><td></td><td>c) Percentage of accredited day care workers</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>(Baseline. 23,610 Day Care Workers)</td><td></td><td></td><td></td><td></td><td>48.00</td><td></td><td>70.00</td><td>80.00**</td><td>100.00**</td></tr><tr><td rowspan="5">7</td><td></td><td>% of Baranggays with Pre-Schools</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>a) Overall Percentage</td><td></td><td></td><td></td><td></td><td>20.93</td><td></td><td>34 11</td><td>67 05</td><td>100.00</td></tr><tr><td></td><td>b) Percentage of registered pre-schools</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>- Public</td><td></td><td></td><td></td><td></td><td>19 65</td><td></td><td>47.00</td><td>74.00</td><td>100.00</td></tr><tr><td></td><td>- Private</td><td></td><td></td><td></td><td></td><td>12.72</td><td></td><td>41.00</td><td>70 00</td><td>100.00</td></tr><tr><td rowspan="12">00 8</td><td>1</td><td>Gross Enrolment Rate</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>a) Overall GER in all ECE Programs/Providers</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>&gt; 3-4 years old (Day Care Centers)</td><td></td><td></td><td></td><td></td><td>19 60</td><td></td><td>30.00****</td><td>60 00***</td><td>100.00***</td></tr><tr><td></td><td>&gt; 5 y/o (pre-school educ)</td><td></td><td></td><td></td><td></td><td>60.00</td><td></td><td>70.00</td><td>80 00</td><td>100.00</td></tr><tr><td></td><td>Day Care Centers</td><td></td><td></td><td></td><td></td><td>23.00</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Public</td><td></td><td></td><td></td><td></td><td>9.86</td><td>10 09</td><td>10.55</td><td>11.24</td><td>12.39</td></tr><tr><td></td><td>Private Pre-Schools</td><td></td><td></td><td></td><td></td><td>37.00</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>b) GER in Accredited ECE Programs/Providers</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>&gt; 3-4 years old (Day Care Centers)</td><td></td><td></td><td></td><td></td><td>6.30</td><td></td><td>30.00</td><td>50.00</td><td>75.00</td></tr><tr><td></td><td>&gt; 5 y/o (pre-school educ)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Day Care Centers</td><td></td><td></td><td></td><td></td><td>10 30</td><td></td><td>30.00</td><td>50.00</td><td>75.00</td></tr><tr><td></td><td>Private Pre-Schools</td><td></td><td></td><td></td><td></td><td colspan="5">To establish baseline data and targets later</td></tr><tr><td>9</td><td>2</td><td>Percentage of Grade 1 entrants with ECE experience</td><td></td><td></td><td></td><td></td><td>51.95</td><td></td><td>67.00</td><td>100 00</td><td></td></tr></table>
+| Phil EFA | World EFA | Goal/Component Objectives/EFA Indicators | 1998 | 1999 | 2000 | 1994 | 2002 | 2003 | 2005 | 2010 | 2015 |
+|---:|---:|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+|  |  | Early Childhood Education |  |  |  |  |  |  |  |  |  |
+| 6 |  | % of Baranggays with Day Care Centers* a) Overall (Baseline: 32,370 DCCs) |  |  |  |  | 77.00 |  | 85.00 | 93.00 | 100.00 |
+| 6 |  | (b) Percentage of accredited day care centers (Baseline: 23,665 DCCs) |  |  |  |  | 47.60 |  | 70.00 | 80.00** | 100.00** |
+| 6 |  | c) Percentage of accredited day care workers (Baseline. 23,610 Day Care Workers) |  |  |  |  | 48.00 |  | 70.00 | 80.00** | 100.00** |
+| 7 |  | % of Baranggays with Pre-Schools a) Overall Percentage |  |  |  |  | 20.93 |  | 34 11 | 67 05 | 100.00 |
+| 7 |  | b) Percentage of registered pre-schools - Public |  |  |  |  | 19 65 |  | 47.00 | 74.00 | 100.00 |
+| 7 |  | - Private |  |  |  |  | 12.72 |  | 41.00 | 70 00 | 100.00 |
+| 00 8 | 1 | Gross Enrolment Rate a) Overall GER in all ECE Programs/Providers > 3-4 years old (Day Care Centers) |  |  |  |  | 19 60 |  | 30.00**** | 60 00*** | 100.00*** |
+| 00 8 | 1 | > 5 y/o (pre-school educ) |  |  |  |  | 60.00 |  | 70.00 | 80 00 | 100.00 |
+| 00 8 | 1 | Day Care Centers |  |  |  |  | 23.00 |  |  |  |  |
+| 00 8 | 1 | Public |  |  |  |  | 9.86 | 10 09 | 10.55 | 11.24 | 12.39 |
+| 00 8 | 1 | Private Pre-Schools |  |  |  |  | 37.00 |  |  |  |  |
+| 00 8 | 1 | b) GER in Accredited ECE Programs/Providers > 3-4 years old (Day Care Centers) |  |  |  |  | 6.30 |  | 30.00 | 50.00 | 75.00 |
+| 00 8 | 1 | > 5 y/o (pre-school educ) Day Care Centers |  |  |  |  | 10 30 |  | 30.00 | 50.00 | 75.00 |
+| 00 8 | 1 | Private Pre-Schools |  |  |  |  | To establish baseline data and targets later |  |  |  |  |
+| 9 | 2 | Percentage of Grade 1 entrants with ECE experience |  |  |  |  | 51.95 |  | 67.00 | 100 00 |  |
 
 * Total number of barangays 41.956 (DILG website)
 
@@ -1005,109 +967,109 @@ EFA EFA</th><th rowspan="2">Goal/Component Objectives/EFA Indicators</th><th col
 
 [[START OF PAGE 46]]
 
-# Philippine EFA 2015 TARGETS
+#### Philippine EFA 2015 TARGETS
 
-<table><tr><th rowspan="2" colspan="2">Number
-
-Phil World
-EFA EFA</th><th rowspan="2">Goal/Component Objectives/EFA Indicators</th><th colspan="3">Historical Data</th><th colspan="5">Baseline</th><th colspan="4">Indicative Targets</th></tr><tr><td>1998</td><td>1999</td><td>2000</td><td>1994</td><td></td><td>2002</td><td>2003</td><td></td><td>2005</td><td></td><td>2010</td><td>2015</td></tr><tr><td>10</td><td></td><td>Child Development Index (using ECCD
-checklist)/School T
-Readiness Index</td><td></td><td></td><td></td><td></td><td colspan="8">Baseline data and targets will be established later</td></tr><tr><td>11</td><td></td><td>Day care worker-child ratio/session</td><td></td><td></td><td></td><td></td><td></td><td>130</td><td></td><td></td><td>1:25</td><td></td><td>125</td><td>1.25</td></tr><tr><td>12</td><td></td><td>Teacher-pupil ratio (in pre-school)
-- public
-- private (accredited pre schools)</td><td></td><td></td><td></td><td></td><td></td><td>140
-1 30</td><td></td><td></td><td>125
-125</td><td></td><td>1.25
-1.25</td><td>1:25
-1.25</td></tr><tr><td>13</td><td></td><td>% of Pre-school Teachers Meeting Minimum
-Qualification Standards
-&gt; DCC
-&gt; Public
-&gt; Private</td><td></td><td></td><td></td><td></td><td colspan="8">Baseline data and targets will be established later
-2054</td></tr><tr><td>14</td><td></td><td>Health and Nutrition Status
-a) Malnutrition rate among 3-6 years old
-(by single age)
-b) Prevalence of Vitamin A deficiency among
-3-6 years old (by single age)
-c) Prevalence of Iron deficinecy Anemia
-among 3-6 years old (by single age)</td><td></td><td></td><td></td><td></td><td>3
-4.</td><td>2003
-
-3-5 you
-
-Baseline</td><td>data</td><td>and</td><td>targets will</td><td>be</td><td>established</td><td>later</td></tr><tr><td>15</td><td>3</td><td>Formal Basic Education (Primary)
-AIR in Grade I
-Public (6 yrs old)
-Private (7 yrs old)</td><td>127 95
-9.65</td><td>128 40
-9.06</td><td>120 87
-855</td><td></td><td></td><td>125 52</td><td></td><td></td><td>121.55</td><td></td><td>120 18</td><td>113 29</td></tr><tr><td>16</td><td>4</td><td>NIR in Grade I</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
+| Phil EFA | World EFA | Goal/Component Objectives/EFA Indicators | 1998 | 1999 | 2000 | 1994 | 2002 | 2003 | 2005 | 2010 | 2015 |
+|---:|---:|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 10 |  | Child Development Index (using ECCD checklist)/School T Readiness Index |  |  |  |  | Baseline data and targets will be established later |  |  |  |  |
+| 11 |  | Day care worker-child ratio/session |  |  |  |  | 130 |  | 1:25 | 125 | 1.25 |
+| 12 |  | Teacher-pupil ratio (in pre-school) - public |  |  |  |  | 140 |  | 125 | 1.25 | 1:25 |
+| 12 |  | - private (accredited pre schools) |  |  |  |  | 1 30 |  | 125 | 1.25 | 1.25 |
+| 13 |  | % of Pre-school Teachers Meeting Minimum Qualification Standards > DCC > Public > Private |  |  |  |  | Baseline data and targets will be established later 2054 |  |  |  |  |
+| 14 |  | Health and Nutrition Status a) Malnutrition rate among 3-6 years old (by single age) b) Prevalence of Vitamin A deficiency among 3-6 years old (by single age) c) Prevalence of Iron deficinecy Anemia among 3-6 years old (by single age) |  |  |  |  | 3 4. 2003 3-5 you Baseline | data | and | targets will be | established later |
+| 15 | 3 | Formal Basic Education (Primary) AIR in Grade I Public (6 yrs old) | 127 95 | 128 40 | 120 87 |  | 125 52 |  | 121.55 | 120 18 | 113 29 |
+| 15 | 3 | Private (7 yrs old) | 9.65 | 9.06 | 855 |  |  |  |  |  |  |
+| 16 | 4 | NIR in Grade I |  |  |  |  |  |  |  |  |  |
 
 [[END OF PAGE 46]]
 
 [[START OF PAGE 47]]
 
-# Philippine EFA 2015 TARGETS
+#### Philippine EFA 2015 TARGETS
 
-<table><tr><th rowspan="2" colspan="2">Number
-
-Phil World
-EFA EFA</th><th rowspan="2">Goal/Component Objectives/EFA Indicators</th><th colspan="3">Historical Data</th><th colspan="3">Baseline</th><th colspan="3">Indicative Targets</th></tr><tr><td>1998</td><td>1999</td><td>2000</td><td>1994</td><td>2002</td><td>2003</td><td>2005</td><td>2010</td><td>2015</td></tr><tr><td></td><td></td><td rowspan="2">Public (6 yrs old)
-Private (7 yrs old)</td><td>69 03</td><td>65 81</td><td>59 38</td><td></td><td>43 59</td><td>74 00</td><td>77 50</td><td>86.25</td><td>95.00</td></tr><tr><td></td><td></td><td>6.37</td><td>595</td><td>447</td><td></td><td></td><td colspan="4">Baseline data and targets will be established later</td></tr><tr><td rowspan="7">17</td><td>12</td><td>Repetition Rate (Primary Level)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Grade 1</td><td>4.19</td><td>4.34</td><td>4 16</td><td></td><td>4.78</td><td></td><td>3 91</td><td>245</td><td>1.00</td></tr><tr><td></td><td>Grade 2</td><td>227</td><td>2.41</td><td>2.36</td><td></td><td>2.49</td><td></td><td>2 15</td><td>1.57</td><td>100</td></tr><tr><td></td><td>Grade 3</td><td>1.46</td><td>166</td><td>163</td><td></td><td>173</td><td></td><td>156</td><td>1.28</td><td>1.00</td></tr><tr><td></td><td>Grade 4</td><td>1.05</td><td>1.08</td><td>1 18</td><td></td><td>123</td><td></td><td>1 18</td><td>1.09</td><td>1.00</td></tr><tr><td></td><td>Grade 5</td><td>0.85</td><td>0.92</td><td>0 87</td><td></td><td>0.98</td><td></td><td>075</td><td>038</td><td></td></tr><tr><td></td><td>Grade 6</td><td>0 42</td><td>0.45</td><td>0 45</td><td></td><td>0 46</td><td></td><td>035</td><td>0 18</td><td></td></tr><tr><td></td><td></td><td>Secondary</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>Year 1</td><td>2.66</td><td>2.82</td><td>276</td><td></td><td>3.03</td><td></td><td>2.56</td><td>1.78</td><td>1.00</td></tr><tr><td></td><td></td><td>Year 2</td><td>2.33</td><td>2.42</td><td>245</td><td></td><td>2.73</td><td></td><td>2.33</td><td>1.67</td><td>1.00</td></tr><tr><td></td><td></td><td>Year 3</td><td>1.81</td><td>195</td><td>2.02</td><td></td><td>237</td><td></td><td>194</td><td>1.22</td><td>0 50</td></tr><tr><td></td><td></td><td>Year 4</td><td>0.85</td><td>085</td><td>0.97</td><td></td><td>1.10</td><td></td><td>087</td><td>0 48</td><td>0 10</td></tr><tr><td>16</td><td></td><td>Drop-Out Rate/School Leavers Rate (Primary)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>Grade 1</td><td>16 49</td><td>16.09</td><td>16 07</td><td></td><td>13 95</td><td></td><td>10 96</td><td>5.98</td><td>1.00</td></tr><tr><td></td><td></td><td>Grade 2</td><td>673</td><td>7 13</td><td>722</td><td></td><td>551</td><td></td><td>435</td><td>243</td><td>0.50</td></tr><tr><td></td><td></td><td>Grade 3</td><td>5.74</td><td>6.09</td><td>628</td><td></td><td>4 63</td><td></td><td>3.68</td><td>2.09</td><td>0.50</td></tr><tr><td></td><td></td><td>Grade 4</td><td>6.08</td><td>602</td><td>601</td><td></td><td>4 59</td><td></td><td>3.53</td><td>1.77</td><td></td></tr><tr><td></td><td></td><td>Grade 5</td><td>588</td><td>6.51</td><td>632</td><td></td><td>4 51</td><td></td><td>3.47</td><td>173</td><td></td></tr><tr><td></td><td></td><td>Grade 6</td><td>1.11</td><td>0.69</td><td>1.13</td><td></td><td>425</td><td></td><td>3.27</td><td>163</td><td></td></tr><tr><td></td><td></td><td>Secondary</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>Year 1</td><td>12.31</td><td>12.42</td><td>11 20</td><td></td><td>13.68</td><td></td><td>10 52</td><td>526</td><td></td></tr><tr><td></td><td></td><td>Year 2</td><td>10 15</td><td>10 96</td><td>10 16</td><td></td><td>12.64</td><td></td><td>972</td><td>486</td><td></td></tr><tr><td></td><td></td><td>Year 3</td><td>9.99</td><td>10.03</td><td>938</td><td></td><td>11.62</td><td></td><td>8.94</td><td>4.47</td><td></td></tr><tr><td></td><td></td><td>Year 4</td><td>2.07</td><td>2.20</td><td>2.06</td><td></td><td>* 9.08</td><td></td><td>6.98</td><td>3.49</td><td></td></tr></table>
+| Phil EFA | World EFA | Goal/Component Objectives/EFA Indicators | 1998 | 1999 | 2000 | 1994 | 2002 | 2003 | 2005 | 2010 | 2015 |
+|---:|---:|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+|  |  | Public (6 yrs old) | 69 03 | 65 81 | 59 38 |  | 43 59 | 74 00 | 77 50 | 86.25 | 95.00 |
+|  |  | Private (7 yrs old) | 6.37 | 595 | 447 |  |  | Baseline data and targets will be established later |  |  |  |
+| 17 | 12 | Repetition Rate (Primary Level) Grade 1 | 4.19 | 4.34 | 4 16 |  | 4.78 |  | 3 91 | 245 | 1.00 |
+| 17 | 12 | Grade 2 | 227 | 2.41 | 2.36 |  | 2.49 |  | 2 15 | 1.57 | 100 |
+| 17 | 12 | Grade 3 | 1.46 | 166 | 163 |  | 173 |  | 156 | 1.28 | 1.00 |
+| 17 | 12 | Grade 4 | 1.05 | 1.08 | 1 18 |  | 123 |  | 1 18 | 1.09 | 1.00 |
+| 17 | 12 | Grade 5 | 0.85 | 0.92 | 0 87 |  | 0.98 |  | 075 | 038 |  |
+| 17 | 12 | Grade 6 | 0 42 | 0.45 | 0 45 |  | 0 46 |  | 035 | 0 18 |  |
+|  |  | Secondary Year 1 | 2.66 | 2.82 | 276 |  | 3.03 |  | 2.56 | 1.78 | 1.00 |
+|  |  | Year 2 | 2.33 | 2.42 | 245 |  | 2.73 |  | 2.33 | 1.67 | 1.00 |
+|  |  | Year 3 | 1.81 | 195 | 2.02 |  | 237 |  | 194 | 1.22 | 0 50 |
+|  |  | Year 4 | 0.85 | 085 | 0.97 |  | 1.10 |  | 087 | 0 48 | 0 10 |
+| 16 |  | Drop-Out Rate/School Leavers Rate (Primary) Grade 1 | 16 49 | 16.09 | 16 07 |  | 13 95 |  | 10 96 | 5.98 | 1.00 |
+| 16 |  | Grade 2 | 673 | 7 13 | 722 |  | 551 |  | 435 | 243 | 0.50 |
+| 16 |  | Grade 3 | 5.74 | 6.09 | 628 |  | 4 63 |  | 3.68 | 2.09 | 0.50 |
+| 16 |  | Grade 4 | 6.08 | 602 | 601 |  | 4 59 |  | 3.53 | 1.77 |  |
+| 16 |  | Grade 5 | 588 | 6.51 | 632 |  | 4 51 |  | 3.47 | 173 |  |
+| 16 |  | Grade 6 | 1.11 | 0.69 | 1.13 |  | 425 |  | 3.27 | 163 |  |
+| 16 |  | Secondary Year 1 | 12.31 | 12.42 | 11 20 |  | 13.68 |  | 10 52 | 526 |  |
+| 16 |  | Year 2 | 10 15 | 10 96 | 10 16 |  | 12.64 |  | 972 | 486 |  |
+| 16 |  | Year 3 | 9.99 | 10.03 | 938 |  | 11.62 |  | 8.94 | 4.47 |  |
+| 16 |  | Year 4 | 2.07 | 2.20 | 2.06 |  | * 9.08 |  | 6.98 | 3.49 |  |
 
 [[END OF PAGE 47]]
 
 [[START OF PAGE 48]]
 
-# Philippine EFA 2015 TARGETS
+#### Philippine EFA 2015 TARGETS
 
-| Number Phil World EFA EFA Goal/Component Objectives/EFA Indicators Historical Data Baseline Indicative Targets 1998 1999 2000 1994 2002 2003 2005 2010 2015 |
-|---|
-| 17 Component Objective 3. Universal completion of full cycle of basic education schooling with satisfactory achievement levels by all at every level |
-| 5 Gross Enrolment Rate |
-| Elementary 118 16 119 15 113 45 107 80 110 62 115 31 120 00 |
-| Secondary 75 32 75 34 79 49 8186 88 34 99 14 110 00 |
-| 18 6 Net Enrolment Rate |
-| Elementary (7-12 yrs old) 95 73 96.95 96.77 |
-| Secondary (13-16 yrs old) 65 22 65 43 66.06 |
-| Elementary (6-11 yrs old) 90 45 92 19 95.10 98.10 |
-| Secondary (12-15 yrs old) 58 03 6772 7773 87.73 |
-| 19 % of Drop-Outs Retrieved back to the formal Por school system Elementary Secondary To establish baseline data and set targets later |
-| 20 20 13 Cohort-Survival Rate |
-| Elementary (Grade 6) 64.09 63 46 63 45 69 84 73.26 78.96 84.67 |
-| Secondary (Year 4) 70 31 69.50 7168 68.00 7026 77 26 83.00 |
-| 21 Completion Rate |
-| Elementary (Grade 6) 66 85 7012 75 58 81.04 |
-| Secondary (Year 4) 59 79 63 36 69 32 7527 |
-| 22 14 Coefficient of Efficiency |
-| Elementary 80 26 79 84 79.56 80.84 8480 91 40 98.00 |
-| Secondary 80 32 7964 80 95 71 49 75 76 82 88 90.00 |
+| Phil EFA | World EFA | Goal/Component Objectives/EFA Indicators | 1998 | 1999 | 2000 | 1994 | 2002 | 2003 | 2005 | 2010 | 2015 |
+|---:|---:|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 17 | 5 | Component Objective 3. Universal completion of full cycle of basic education schooling with satisfactory achievement levels by all at every level |  |  |  |  |  |  |  |  |  |
+| 17 | 5 | Gross Enrolment Rate Elementary | 118 16 | 119 15 | 113 45 |  | 107 80 |  | 110 62 | 115 31 | 120 00 |
+| 17 | 5 | Secondary | 75 32 | 75 34 | 79 49 |  | 8186 |  | 88 34 | 99 14 | 110 00 |
+| 18 | 6 | Net Enrolment Rate Elementary (7-12 yrs old) | 95 73 | 96.95 | 96.77 |  |  |  |  |  |  |
+| 18 | 6 | Secondary (13-16 yrs old) | 65 22 | 65 43 | 66.06 |  |  |  |  |  |  |
+| 18 | 6 | Elementary (6-11 yrs old) |  |  |  |  | 90 45 |  | 92 19 | 95.10 | 98.10 |
+| 18 | 6 | Secondary (12-15 yrs old) |  |  |  |  | 58 03 |  | 6772 | 7773 | 87.73 |
+| 19 |  | % of Drop-Outs Retrieved back to the formal Por school system Elementary Secondary |  |  |  |  | To establish baseline data and set targets later |  |  |  |  |
+| 20 20 | 13 | Cohort-Survival Rate Elementary (Grade 6) | 64.09 | 63 46 | 63 45 |  | 69 84 |  | 73.26 | 78.96 | 84.67 |
+| 20 20 | 13 | Secondary (Year 4) | 70 31 | 69.50 | 7168 |  |  | 68.00 | 7026 | 77 26 | 83.00 |
+| 21 |  | Completion Rate Elementary (Grade 6) |  |  |  |  | 66 85 |  | 7012 | 75 58 | 81.04 |
+| 21 |  | Secondary (Year 4) |  |  |  |  | 59 79 |  | 63 36 | 69 32 | 7527 |
+| 22 | 14 | Coefficient of Efficiency Elementary | 80 26 | 79 84 | 79.56 |  | 80.84 |  | 8480 | 91 40 | 98.00 |
+| 22 | 14 | Secondary | 80 32 | 7964 | 80 95 |  | 71 49 |  | 75 76 | 82 88 | 90.00 |
 
 [[END OF PAGE 48]]
 
 [[START OF PAGE 49]]
 
-# Philippine EFA 2015 TARGETS
+#### Philippine EFA 2015 TARGETS
 
-<table><tr><th rowspan="2" colspan="2">Number</th><th rowspan="3">Goal/Component Objectives/EFA Indicators</th><th colspan="3">Historical Data</th><th colspan="3">Baseline</th><th colspan="3">Indicative Targets</th></tr><tr><td>1998</td><td>1999</td><td>2000</td><td>1994</td><td>2002</td><td>2003</td><td>2005</td><td>2010</td><td>2015</td></tr><tr><td>Phil
-EFA</td><td>World
-EFA</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>23</td><td>15</td><td>Percentage of pupils/students who master a set of</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>nationally defined basic learning competencies</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>Elementary, (75% Mastery)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>Grade IV</td><td></td><td></td><td></td><td></td><td>326</td><td></td><td>8.00</td><td>20.00</td><td>50.00</td></tr><tr><td></td><td></td><td>Grade VI</td><td></td><td></td><td></td><td></td><td>0.06</td><td></td><td>5.00</td><td>15.00</td><td>40.00</td></tr><tr><td></td><td></td><td>Secondary</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>Year IV</td><td></td><td></td><td></td><td></td><td>2.09</td><td></td><td>5.00</td><td>10.00</td><td>1500</td></tr><tr><td>24 24</td><td></td><td>Health and Nutrition Status</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>Percentage of Grade I to Grade VI below normal</td><td>38 04</td><td>39.07</td><td>37.05</td><td></td><td>34.00</td><td></td><td>18.00</td><td>15.00</td><td>5.00</td></tr><tr><td></td><td></td><td>Percentage of Grade I to Grade VI above normal</td><td>3.96</td><td>4 44</td><td>5.00</td><td></td><td>5.00</td><td></td><td>4 50</td><td>3.00</td><td>1.00</td></tr><tr><td>25 25</td><td></td><td>Percentage of Schools with Teacher- Pupil Ratio of
-&lt; 1:50</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>Elementary</td><td></td><td></td><td></td><td></td><td>12 50</td><td></td><td>1041</td><td>5.21</td><td></td></tr><tr><td></td><td></td><td>Secondary</td><td></td><td></td><td></td><td></td><td>28.32</td><td></td><td>23.60</td><td>11 80</td><td></td></tr><tr><td>26</td><td>9</td><td>Percentage of primary school teachers who are certified to
-[teach according to national standards</td><td>100.00</td><td>100.00</td><td>100 00</td><td></td><td>100 00</td><td></td><td>100.00</td><td>100.00</td><td>100 00</td></tr><tr><td>27</td><td>10</td><td>Percentage of primary school teachers having attained the
-required academic qualification</td><td>100.00</td><td>100 00</td><td>100.00</td><td></td><td>100.00</td><td></td><td>100 00</td><td>100 00</td><td>100 00</td></tr><tr><td>28</td><td></td><td>No. &amp; % of Teachers earning units in Continuing
-Professional Education (CPE)/year (Elementary &amp; Secondary)</td><td></td><td></td><td></td><td></td><td colspan="5">Baseline data and targets will be established later</td></tr><tr><td rowspan="6">29 29</td><td></td><td>% of Teacher handling Science and Math Subjects with
-Science &amp; Math specialization (Secondary)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Math</td><td></td><td></td><td></td><td></td><td>80.00</td><td></td><td>8160</td><td>85 60</td><td>89.60</td></tr><tr><td></td><td>Bilology</td><td></td><td></td><td></td><td></td><td>44.00</td><td></td><td>46.60</td><td>53.10</td><td>59 60</td></tr><tr><td></td><td>General Science</td><td></td><td></td><td></td><td></td><td>42.00</td><td></td><td>45.00</td><td>52 50</td><td>60.00</td></tr><tr><td></td><td>Chemistry</td><td></td><td></td><td></td><td></td><td>34.00</td><td></td><td>37.00</td><td>45.50</td><td>52.00</td></tr><tr><td></td><td>Physics</td><td></td><td></td><td></td><td></td><td>27 00</td><td></td><td>30.00</td><td>40 00</td><td>49 80</td></tr></table>
+| Phil EFA | World EFA | Goal/Component Objectives/EFA Indicators | 1998 | 1999 | 2000 | 1994 | 2002 | 2003 | 2005 | 2010 | 2015 |
+|---:|---:|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 23 | 15 | Percentage of pupils/students who master a set of nationally defined basic learning competencies Elementary, (75% Mastery) Grade IV |  |  |  |  | 326 |  | 8.00 | 20.00 | 50.00 |
+| 23 | 15 | Grade VI |  |  |  |  | 0.06 |  | 5.00 | 15.00 | 40.00 |
+| 23 | 15 | Secondary Year IV |  |  |  |  | 2.09 |  | 5.00 | 10.00 | 1500 |
+| 24 24 |  | Health and Nutrition Status Percentage of Grade I to Grade VI below normal | 38 04 | 39.07 | 37.05 |  | 34.00 |  | 18.00 | 15.00 | 5.00 |
+| 24 24 |  | Percentage of Grade I to Grade VI above normal | 3.96 | 4 44 | 5.00 |  | 5.00 |  | 4 50 | 3.00 | 1.00 |
+| 25 25 |  | Percentage of Schools with Teacher- Pupil Ratio of \< 1:50 Elementary |  |  |  |  | 12 50 |  | 1041 | 5.21 |  |
+| 25 25 |  | Secondary |  |  |  |  | 28.32 |  | 23.60 | 11 80 |  |
+| 26 | 9 | Percentage of primary school teachers who are certified to [teach according to national standards | 100.00 | 100.00 | 100 00 |  | 100 00 |  | 100.00 | 100.00 | 100 00 |
+| 27 | 10 | Percentage of primary school teachers having attained the required academic qualification | 100.00 | 100 00 | 100.00 |  | 100.00 |  | 100 00 | 100 00 | 100 00 |
+| 28 |  | No. & % of Teachers earning units in Continuing Professional Education (CPE)/year (Elementary & Secondary) |  |  |  |  | Baseline data and targets will be established later |  |  |  |  |
+| 29 29 |  | % of Teacher handling Science and Math Subjects with Science & Math specialization (Secondary) Math |  |  |  |  | 80.00 |  | 8160 | 85 60 | 89.60 |
+| 29 29 |  | Bilology |  |  |  |  | 44.00 |  | 46.60 | 53.10 | 59 60 |
+| 29 29 |  | General Science |  |  |  |  | 42.00 |  | 45.00 | 52 50 | 60.00 |
+| 29 29 |  | Chemistry |  |  |  |  | 34.00 |  | 37.00 | 45.50 | 52.00 |
+| 29 29 |  | Physics |  |  |  |  | 27 00 |  | 30.00 | 40 00 | 49 80 |
 
 [[END OF PAGE 49]]
 
 [[START OF PAGE 50]]
 
-# Philippine EFA 2015 TARGETS
+#### Philippine EFA 2015 TARGETS
 
-| Number Phil World EFA EFA Goal/Component Objectives/EFA Indicators Historical Data Baseline Indicative Targets 1998 1999 2000 1994 2002 2003 2005 2010 2015 |
-|---|
-| 30 Filipino & English Proficiency of Teachers Elementary Filipino English Secondary English Baseline data and targets will be established later |
-| 31 7(A) Public Expenditure in Primary Education a) Public Current Expenditure in Primary Education as a Percentage of GNP |
-| 7(B) 8 b) Per pupil Public Current Expenditure on Primary Education as a Percentage of GNP Per Capita c) Public Expenditure on Primary Education as a Percentage of Total Public Expenditure To establih on the baseline final Philippine data multi-year Basic and spending targets Education later plan of based |
+| Phil EFA | World EFA | Goal/Component Objectives/EFA Indicators | 1998 | 1999 | 2000 | 1994 | 2002 | 2003 | 2005 | 2010 | 2015 |
+|---:|---:|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 30 |  | Filipino & English Proficiency of Teachers Elementary Filipino English Secondary English |  |  |  |  | Baseline data and targets will be established later |  |  |  |  |
+| 31 | 7(A) | Public Expenditure in Primary Education a) Public Current Expenditure in Primary Education as a Percentage of GNP |  |  |  |  | To establih on the baseline final Philippine data multi-year Basic and spending targets Education later plan of based |  |  |  |  |
+| 31 | 7(B) 8 | b) Per pupil Public Current Expenditure on Primary Education as a Percentage of GNP Per Capita c) Public Expenditure on Primary Education as a Percentage of Total Public Expenditure |  |  |  |  | To establih on the baseline final Philippine data multi-year Basic and spending targets Education later plan of based |  |  |  |  |
 
 [[END OF PAGE 50]]
 
@@ -1123,8 +1085,7 @@ Science &amp; Math specialization (Secondary)</td><td></td><td></td><td></td><td
 
 # PHILIPPINE-EFA 2015 PLAN
 
-Volume 2:
-Implementation Strategies
+## Volume 2: Implementation Strategies
 
 Republic of the Philippines
 October 2005
@@ -1141,10 +1102,10 @@ October 2005
 
 [[START OF PAGE 54]]
 
-# Philippine-EFA 2015 Plan
-Volume 2: Implementation Strategies
+**Philippine-EFA 2015 Plan**  
+**Volume 2: Implementation Strategies**
 
-## Production Task 1. Better Schools: Make every school continuously perform better.
+### Production Task 1. Better Schools: Make every school continuously perform better.
 
 Instruments for every school to assess its capabilities and performance in attaining EFA goals are developed, introduced, propagated and adopted. Stakeholders at every school school head, teachers, students, parents, community leaders - use the process and results of school - assessment as their platform for identifying and implementing school or community actions for continuous (and accountable) improvement of school quality. The assessment process leads to the formulation of a “social contract” between the school and the community, with the support of the educational authorities. Activities are geared to get stakeholders at every school in the country to take collective responsibility for their own school's educational performance.
 
@@ -1152,9 +1113,9 @@ While most analyses and recommendations address the whole educational system, th
 
 This emphasis on delivering content and coherence at every grade level for all students needs to occur school by school in a real grassroots effort. These necessary conditions for learning cannot be created by official mandate or administrative instructions or material incentives. It is proposed that the two key bureaus of DepEd (Bureau of Elementary Education and Bureau of Secondary Education) jointly plan, design, launch and sustain a school improvement movement premised on three basic principles:
 
-• Every school is in fact a community enterprise of people who together collectively determine, and are therefore ultimately responsible for, the quality of educational outcomes that all their students attain.
+- Every school is in fact a community enterprise of people who together collectively determine, and are therefore ultimately responsible for, the quality of educational outcomes that all their students attain.
 
-• Every school has, with its community, the capacity and motivation to continuously improve its educational performance and raise the quality of educational outcomes that all their students attain.
+- Every school has, with its community, the capacity and motivation to continuously improve its educational performance and raise the quality of educational outcomes that all their students attain.
 
 - The school head and school staff are the crucial, but not the only, persons who can lead the process of continuous school improvement.
 
@@ -1218,7 +1179,7 @@ This emphasis on delivering content and coherence at every grade level for all s
 
 [[START OF PAGE 58]]
 
-## Production Task 2. ECCD: Make expansion of ECCD Coverage yield more EFA benefits
+### Production Task 2. ECCD: Make expansion of ECCD Coverage yield more EFA benefits
 
 Cost effective quality assurance standards shall be defined for early child care and development programs for pre-school aged children between three to five years old. National government funding is made available to co-finance local government or non-government programs meeting quality assurance standards that cover on a priority basis all children of least educated parents.
 
@@ -1234,11 +1195,11 @@ The thrust of the recommendations on ECCD is, therefore, to continue expansion o
 
 [[START OF PAGE 59]]
 
-| Activities                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Timetable                                      | Responsible<br />Agency/Entity                                                                 |
-|-|-|-|
-| 1. Evaluation and Implementation of Cost-Effective ECCD Programs                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                |                                                                                                |
-| 1.1 Evaluate the cost-effectiveness of ECCD programs currently being implemented by<br />public and private entities to: i) Determine unit cost norms that government should<br />be willing to finance; ii) plan and manage the best use of whatever available<br />national government funds; ¡¡¡) strengthen NECCDCC to ably perform its tasks; and<br />iv) issue policies and guidelines for ECCD programs:<br />a) Conduct of research on "The Economics of ECCD: Costs, Needs and Issues.<br />b) Develop and utilize the minimum unit cost norms for policy, planning, program<br />development, managing and financing ECCD programs.<br />c) Conduct of continuing capacity building for ECCD Coordinating Mechanisms at<br />all levels on the following core competencies:<br />➤ Systems approach to situational analysis, planning, implementation,<br />monitoring, and evaluation<br />➤ Collaborative network management<br />> Research and development<br />Advocacy and Social Marketing                               | 2005-2006<br />2006<br /><br />2003-continuing | NECCDCC<br />DSWD<br />➤ DepED<br />DILG<br />DOH<br />NECCDCC<br />NECCDCC<br /><br />NECCDCC |
-| 1.2 Develop and adopt a strategy for maximizing EFA benefits from ECCD coverage<br />through direct service delivery and service contracting which feature: i) cost-sharing<br />by the national government and the local governments or non-government and<br />private organizations or local groups; and ii) expanding ECCD coverage to benefit<br />the disadvantaged children including indigenous peoples and children with special<br />needs.<br />a) Develop ECCD Investment and Financial Plans at all levels for purposes of<br />cost sharing arrangements as provided in Section 9 of R.A. 8980 or the ECCD<br />Act.<br />b) Expand access to quality ECCD programs through strengthening existing<br />center-based and home-based ECCD programs in selected priority areas in<br />partnership with various stakeholders.<br />c) Develop other alternative modes of delivering ECCD services.<br />d) Undertake pro-active advocacy and social marketing to increase awareness<br />and demand for quality ECCD services. | 2004 - continuing                              | CWC/NECCDCC,<br />RSCWC, LGUs                                                                  |
+| Activities | Timetable | Responsible Agency/Entity |
+|---|---|---|
+| 1. Evaluation and Implementation of Cost-Effective ECCD Programs |  |  |
+| 1.1 Evaluate the cost-effectiveness of ECCD programs currently being implemented by public and private entities to: i) Determine unit cost norms that government should be willing to finance; ii) plan and manage the best use of whatever available national government funds; ¡¡¡) strengthen NECCDCC to ably perform its tasks; and iv) issue policies and guidelines for ECCD programs: a) Conduct of research on "The Economics of ECCD: Costs, Needs and Issues. b) Develop and utilize the minimum unit cost norms for policy, planning, program development, managing and financing ECCD programs. c) Conduct of continuing capacity building for ECCD Coordinating Mechanisms at all levels on the following core competencies: ➤ Systems approach to situational analysis, planning, implementation, monitoring, and evaluation ➤ Collaborative network management > Research and development Advocacy and Social Marketing | 2005-2006 2006 2003-continuing | NECCDCC DSWD ➤ DepED DILG DOH NECCDCC NECCDCC NECCDCC |
+| 1.2 Develop and adopt a strategy for maximizing EFA benefits from ECCD coverage through direct service delivery and service contracting which feature: i) cost-sharing by the national government and the local governments or non-government and private organizations or local groups; and ii) expanding ECCD coverage to benefit the disadvantaged children including indigenous peoples and children with special needs. a) Develop ECCD Investment and Financial Plans at all levels for purposes of cost sharing arrangements as provided in Section 9 of R.A. 8980 or the ECCD Act. b) Expand access to quality ECCD programs through strengthening existing center-based and home-based ECCD programs in selected priority areas in partnership with various stakeholders. c) Develop other alternative modes of delivering ECCD services. d) Undertake pro-active advocacy and social marketing to increase awareness and demand for quality ECCD services. | 2004 - continuing | CWC/NECCDCC, RSCWC, LGUs |
 
 6
 
@@ -1280,7 +1241,7 @@ The thrust of the recommendations on ECCD is, therefore, to continue expansion o
 
 [[START OF PAGE 62]]
 
-## Production Task No. 3. Alternative Learning Systems: Transform non-formal and informal interventions into an Alternative Learning System yielding more EFA benefits
+### Production Task No. 3. Alternative Learning Systems: Transform non-formal and informal interventions into an Alternative Learning System yielding more EFA benefits
 
 Cost-effective alternative learning options for achieving adult functional literacy in first language, Filipino and English are defined and propagated. National government funding is provided to finance the integration of these alternative learning options for the effective acquisition of functional literacy of adults as an essential and routine part of every public, private and civil society socio-economic development initiative reaching disadvantaged persons and communities. Adult literacy organizations work more closely with organizations already involved in community development and poverty alleviation.
 
@@ -1370,7 +1331,7 @@ Two specific strategies in developing the alternative learning system will maxim
 
 [[START OF PAGE 68]]
 
-## Production Task No. 4 Promote Practice of High Quality Teaching
+### Production Task No. 4 Promote Practice of High Quality Teaching
 
 Measures are adopted to enhance capacity for quality teaching practice among future eligible for admission into the teaching profession who will work in schools, ECCD or ALS programs. Better policies, standards and procedures are developed for selecting, hiring and deploying teachers who are more capable of continuously improving their teaching practice. Processes in managing schools and ECCD or ALS programs include creation of conditions, capabilities and procedures that can motivate and enable teachers to continuously improve their teaching practices throughout their career.
 
@@ -1433,7 +1394,7 @@ Improved practice of teaching is crucial to the attainment of EFA goals. Actions
 
 [[START OF PAGE 71]]
 
-## Production Task No.5. Longer Cycle: Adopt a 12-year cycle for formal basic education.
+### Production Task No.5. Longer Cycle: Adopt a 12-year cycle for formal basic education.
 
 Two more years are added to the existing ten-year basic education schooling that every Filipino child should get.
 
@@ -1468,7 +1429,7 @@ In the years until 2015, the Philippines will need to increase its total effort 
 
 [[START OF PAGE 73]]
 
-## Production Task No. 6 Accelerate articulation, enrichment and development of basic education curriculum within the context of the new functional literacy definition
+### Production Task No. 6 Accelerate articulation, enrichment and development of basic education curriculum within the context of the new functional literacy definition
 
 Action: Public funding and official encouragement are provided to increase volume, variety and quality of technical and scientific work on the basic education curriculum and instruction, using first language, Filipino and English. Scope of institutional participation in curriculum development for basic education is expanded to include private schools, non-government organizations, teacher training institutions, individual professional educators and education scientists, and other organizations such as media, advertising and cultural entities. The definition of Functional Literacy and Basic Learning Needs as discussed in Volume 1 must be considered in enhancing/refining the basic education curricula (both for formal basic education and alternative learning system).
 
@@ -1503,12 +1464,12 @@ Public discussions and scientific work on what all Filipino children should be l
 
 [[START OF PAGE 75]]
 
-| Activities                                                                                                                                                                                                                                                                                                                                                                                                  | Timetable    | Responsible<br />Agency/Entity   |
-|-|-|-|
-| 3.3 Enforce Inclusive Education as a Policy<br /><br />a) Pilot/adopt alternative curriculum models<br />> Lingua Franca to include other languages (elem.)<br />Special science and math schools<br />Sports and Arts-oriented schools<br />Madrasah Education<br />➤ Indigenous People'sEducation<br />➤ Disadvantaged Children - Children Labor<br />> Special Education for Children with Special Needs | 2005-onwards | DepED                            |
-| b) Enhance and expand alternative modes of delivering Formal Basic<br />Education (FBE) instruction to provide every pupil/student access to quality<br />teaching-learning based on her/his special needs and circumstances<br />he/she is in (e.g., distance learning, MG schooling, community-/home-<br />based learning, ISOSA, IMPACT, Project EASE)                                                   | 2005-onwards | DepED                            |
-| c) Institutionalize Inclusive Schools for children with special needs and in<br />difficult/different situations (related to 3.3.a above)                                                                                                                                                                                                                                                                   | 2006-onwards | DepED                            |
-| review and revise instructional standards<br />adopt program models<br />set policies and mechanisms for institutionalization of inclusive School                                                                                                                                                                                                                                                           |              |                                  |
+| Activities | Timetable | Responsible Agency/Entity |
+|---|---|---|
+| 3.3 Enforce Inclusive Education as a Policy a) Pilot/adopt alternative curriculum models > Lingua Franca to include other languages (elem.) Special science and math schools Sports and Arts-oriented schools Madrasah Education ➤ Indigenous People'sEducation ➤ Disadvantaged Children - Children Labor > Special Education for Children with Special Needs | 2005-onwards | DepED |
+| b) Enhance and expand alternative modes of delivering Formal Basic Education (FBE) instruction to provide every pupil/student access to quality teaching-learning based on her/his special needs and circumstances he/she is in (e.g., distance learning, MG schooling, community-/home-based learning, ISOSA, IMPACT, Project EASE) | 2005-onwards | DepED |
+| c) Institutionalize Inclusive Schools for children with special needs and in difficult/different situations (related to 3.3.a above) | 2006-onwards | DepED |
+| review and revise instructional standards adopt program models set policies and mechanisms for institutionalization of inclusive School |  |  |
 
 22
 
@@ -1540,7 +1501,7 @@ Public discussions and scientific work on what all Filipino children should be l
 
 [[START OF PAGE 78]]
 
-# Enabling Tasks: Provide adequate and stable funding for country-wide attainment of EFA goals
+### Enabling Tasks: Provide adequate and stable funding for country-wide attainment of EFA goals
 
 The national government adopts a new public funding framework for basic education that coherently combines national and local government funding to support the most cost-effective local efforts to attain quality basic education outcomes in every locality across the whole country.
 
@@ -1602,7 +1563,7 @@ To at least enable the nation's educators to do their jobs effectively, it is im
 
 [[START OF PAGE 82]]
 
-## Enabling Task: Create a network of community-based groups for local attainment of EFA goals.
+### Enabling Task: Create a network of community-based groups for local attainment of EFA goals.
 
 Action: A knowledge-based popular movement is launched. It reaches, engages and organizes persons in each locality, whose education and social consciousness enable them to understand and act responsibly, to form a nationwide network of multi-sectoral groups advocating, supporting and monitoring attainment of EFA goals in their respective localities.
 
@@ -1651,7 +1612,7 @@ The approach is to use the wealth of information and knowledge about basic educa
 
 [[START OF PAGE 85]]
 
-# Enabling Task: Monitor progress in effort towards attainment of EFA goals
+### Enabling Task: Monitor progress in effort towards attainment of EFA goals
 
 Action: Steady flow of reliable measurements of educational outcomes and of actual effort related to these outcomes are generated. Ample supply of objective information about level of effort expended and extent of progress attained keeps the nation's (and each community's) attention focused on these results.
 
@@ -1701,12 +1662,11 @@ Revised as of October 6, 2005
 
 [[START OF PAGE 88]]
 
-# TABLE OF CONTENTS
+### TABLE OF CONTENTS
 
-Page No.
-
+|  |  | Page No. |
+|---|---|---:|
 | Production Task 1 | Better Schools: Make every school continuously perform better | 1 |
-|-|-|-|
 | Production Task 2 | ECCD: Make expansion of ECCD Coverage yield more EFA benefits | 5 |
 | Production Task 3 | Alternative Learning Systems: Transform non-formal and informal intervention into an Alternative Learning System yielding more EFA benefits | 9 |
 | Production Task 4 | Promote Practice of High Quality Teaching | 15 |
