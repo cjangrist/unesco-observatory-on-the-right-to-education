@@ -25,7 +25,7 @@ Portant création du diplôme de Brevet de Technicien Supérieur (BTS) d'Etat-Ni
 - VU le Décret n° 2002-263/PRN du 8 novembre 2002, portant nomination des membres du Gouvernement ;
 - SUR Rapport du Ministre des Enseignements Secondaire et Supérieur, de la Recherche et de la Technologie ;
 
-Stamp: REPUBLIQUE DU NIGER - ENREGISTREMENT n° d'Enreg 04592 Date 16 SEP 2003
+REPUBLIQUE DU NIGER - ENREGISTREMENT n° d'Enreg 04592 Date 16 SEP 2003
 
 [[END OF PAGE 1]]
 
@@ -51,7 +51,7 @@ Stamp: REPUBLIQUE DU NIGER - ENREGISTREMENT n° d'Enreg 04592 Date 16 SEP 2003
 
 **Article 8** : Le Ministre en charge de l'Enseignement Supérieur est chargé de l'application du présent décret qui sera publié au Journal Officiel de la République du Niger.
 
-Fait à Niamey, le 18 juin 2003
+Fait à Niamey. le 18 juin 2002
 
 **Signé** : Le Président de la République
 
@@ -61,7 +61,7 @@ Le Premier Ministre
 
 **HAMA AMADOU**
 
-Le Ministre des Enseignements Secondaire et Supérieur, de la Recherche et de la Technologie
+Le Ministre des Enseignements Secondaire et Supérieur. de la Recherche et de la Technologie
 
 **HABI MAHAMADOU SALISSOU**
 
@@ -69,7 +69,7 @@ Le Ministre des Enseignements Secondaire et Supérieur, de la Recherche et de la
 
 Le Secrétaire Général Adjoint du Gouvernement
 
-signature
+
 **LARWANA IBRAHIM**
 
 [[END OF PAGE 2]]
