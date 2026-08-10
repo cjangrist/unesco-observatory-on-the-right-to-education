@@ -16,7 +16,7 @@ S.I. 1978 No. 1521 (U.K.)
 
 (\*See Note on page 2)
 
-### Current Authorised Pages
+## Current Authorised Pages
 
 | Pages | Authorised |
 |---|---|
@@ -57,9 +57,9 @@ Act No. 21 of 1984 has impliedly amended section 88(11) of the Constitution by p
 
 ## ARRANGEMENT OF SECTIONS
 
-### CHAPTER I
+## CHAPTER I
 
-### PROTECTION OF FUNDAMENTAL RIGHTS AND FREEDOMS
+**PROTECTION OF FUNDAMENTAL RIGHTS AND FREEDOMS**
 
 SECTION
 
@@ -97,9 +97,9 @@ SECTION
 
 17. Interpretation and savings.
 
-### CHAPTER II
+## CHAPTER II
 
-### THE PRESIDENT
+**THE PRESIDENT**
 
 18. Establishment of office.
 
@@ -131,13 +131,13 @@ SECTION
 
 28. Acting President.
 
-# CHAPTER III
+## CHAPTER III
 
-# PARLIAMENT
+**PARLIAMENT**
 
-## PART 1
+### PART 1
 
-### Establishment of Parliament
+*Establishment of Parliament*
 
 29. Composition.
 
@@ -163,9 +163,9 @@ SECTION
 
 40. Determination of questions of membership.
 
-## PART 2
+### PART 2
 
-### Legislation and Procedure of Parliament
+*Legislation and Procedure of Parliament*
 
 41. Power to make laws.
 
@@ -199,7 +199,7 @@ SECTION
 
 52. Regulation of procedure in House.
 
-PART 3
+### PART 3
 
 *Summoning, Prorogation and Dissolution*
 
@@ -209,20 +209,21 @@ PART 3
 
 55. Holding of elections.
 
-PART 4
+### PART 4
 
 *Constituency Boundaries and Electoral Commissions*
 
-56. Constituency Boundaries Commission and Electoral Com- mission.
+56. Constituency Boundaries Commission and Electoral Commission.
 
-PART 5
+### PART 5
 
 *Delimitation of Constituencies*
 
 57. Review of constituency boundaries.
 
-CHAPTER IV
-THE EXECUTIVE
+## CHAPTER IV
+
+**THE EXECUTIVE**
 
 58. Executive authority of Dominica.
 
@@ -268,7 +269,7 @@ SECTION
 
 ## CHAPTER V
 
-## FINANCE
+**FINANCE**
 
 76. Consolidated Fund.
 
@@ -288,7 +289,7 @@ SECTION
 
 ## CHAPTER VI
 
-## THE PUBLIC SERVICE
+**THE PUBLIC SERVICE**
 
 ### PART 1
 
@@ -344,7 +345,7 @@ SECTION
 
 ## CHAPTER VII
 
-## CITIZENSHIP
+**CITIZENSHIP**
 
 97. Persons who become citizens on 3rd November 1978.
 
@@ -366,7 +367,7 @@ SECTION
 
 ## CHAPTER VIII
 
-## JUDICIAL PROVISIONS
+**JUDICIAL PROVISIONS**
 
 103. Original jurisdiction of High Court in constitutional questions.
 
@@ -380,7 +381,7 @@ SECTION
 
 ## CHAPTER IX
 
-## PARLIAMENTARY COMMISSIONER
+**PARLIAMENTARY COMMISSIONER**
 
 108. Appointment, etc., of Commissioner.
 
@@ -400,7 +401,7 @@ SECTION
 
 ## CHAPTER X
 
-## MISCELLANEOUS
+**MISCELLANEOUS**
 
 116. Declaration of republic.
 
@@ -418,23 +419,23 @@ SECTION
 
 [[START OF PAGE 9]]
 
-# SCHEDULE 1
+## SCHEDULE 1
 
 *Alteration of Constitution and Supreme Court Order*
 
-## PART I
+### PART I
 
 *Provisions of Constitution referred to in section 42(2)*
 
-## PART II
+### PART II
 
 *Provisions of Supreme Court Order referred to in section 42(2)*
 
-# SCHEDULE 2
+## SCHEDULE 2
 
 *Rules concerning constituencies*
 
-# SCHEDULE 3
+## SCHEDULE 3
 
 *Matters not subject to investigation by Parliamentary Commissioner*
 
@@ -458,9 +459,9 @@ WHEREAS the People of Dominica –
 
 NOW, THEREFORE, the following provisions shall have effect as the Constitution of the Commonwealth of Dominica:
 
-# CHAPTER I
+## CHAPTER I
 
-## PROTECTION OF FUNDAMENTAL RIGHTS AND FREEDOMS
+**PROTECTION OF FUNDAMENTAL RIGHTS AND FREEDOMS**
 
 Fundamental rights and freedoms. 1. Whereas every person in Dominica is entitled to the fundamental rights and freedoms, that is to say, the right, whatever his race, place of origins, political opinions, colour, creed or sex, but subject to respect for the rights and freedoms of others and for the public interest, to each and all of the following, namely –
 
@@ -965,7 +966,7 @@ or in contravention of any of the provisions of this Chapter other than sections
 
 ## CHAPTER II
 
-## THE PRESIDENT
+**THE PRESIDENT**
 
 **Establishment of office.** 18. (1) There shall be a President of Dominica who shall be elected by the House and shall hold office for a term of five years.
 
@@ -1029,7 +1030,7 @@ Determination of questions as to qualifications. **22.** (1) The Court of Appeal
 
 [[START OF PAGE 35]]
 
-# The Constitution of Dominica
+*The Constitution of Dominica*
 
 35
 
@@ -1107,13 +1108,13 @@ Provided that the Speaker or the Deputy may act as President, in which case he s
 
 [[START OF PAGE 38]]
 
-# CHAPTER III
+## CHAPTER III
 
-# PARLIAMENT
+**PARLIAMENT**
 
-## PART I
+### PART I
 
-### Establishment of Parliament
+*Establishment of Parliament*
 
 Composition.
 
@@ -1385,9 +1386,9 @@ and, if it is made by a person other than the Attorney General, the Attorney Gen
 
 (8) In the exercise of his functions under this section, the Attorney General shall not be subject to the direction or control of any other person or authority.
 
-## PART 2
+### PART 2
 
-### Legislation and Procedure of Parliament
+*Legislation and Procedure of Parliament*
 
 Power to make laws. 41. Subject to the provisions of this Constitution, Parliament may make laws for the peace, order and good government of Dominica.
 
@@ -1525,7 +1526,7 @@ Regulation of procedure in House.
 
 ### PART 3
 
-### Summoning, Prorogation and Dissolution
+*Summoning, Prorogation and Dissolution*
 
 Sessions.
 **53.** (1) Each session of Parliament shall be held at such place within Dominica and shall commence at such time as the President may by Proclamation appoint.
@@ -1572,7 +1573,7 @@ to fill the vacancy within three months of the occurrence of the vacancy unless 
 
 ### PART 4
 
-### Constituency Boundaries and Electoral Commissions
+*Constituency Boundaries and Electoral Commissions*
 
 Constituency Boundaries Commission and Electoral Commission. [U.K. S.I. 1978 No. 1521].
 
@@ -1632,9 +1633,9 @@ Provided that any decision of the Commission shall require the concurrence of a 
 
 (11) In the exercise of its functions under this Constitution a Commission shall not be subject to the direction or control of any other person or authority.
 
-## PART 5
+### PART 5
 
-### Delimitation of Constituencies
+*Delimitation of Constituencies*
 
 57. (1) The Electoral Boundaries Commission (hereinafter in this section referred to as the Commission) shall, in accordance with the provisions of this section, review the number and boundaries of the constituencies into which Dominica is divided and submit to the President reports either -
 
@@ -1662,9 +1663,9 @@ Review of constituency boundaries.
 
 (8) Parliament may provide for an appeal to the High Court against a recommendation or statement made to the President by the Commission in pursuance of paragraph (*a*) or (*b*) of subsection (1) of this section.
 
-### CHAPTER IV
+## CHAPTER IV
 
-### THE EXECUTIVE
+**THE EXECUTIVE**
 
 Executive authority of Dominica. 58. (1) The executive authority of Dominica is vested in the President.
 
@@ -1956,7 +1957,7 @@ Provided that his seat shall become vacant —
 
 ## CHAPTER V
 
-## FINANCE
+**FINANCE**
 
 76. All revenues or other moneys raised or received by Dominica (not being revenues or other moneys that are payable, by or under any law for the time being in force in Dominica, into some other fund established for a specific purpose) shall be paid into and from a Consolidated Fund. Consolidated Fund.
 
@@ -2044,11 +2045,11 @@ Audit of public accounts, etc. [U.K. S.I. 1978 No. 1521]. 83. (1) There shall be
 
 ## CHAPTER VI
 
-## THE PUBLIC SERVICE
+**THE PUBLIC SERVICE**
 
 ### PART I
 
-The Public Service Commission
+*The Public Service Commission*
 
 84. (1) There shall be a Public Service Commission for Dominica (hereinafter in this section referred to as the Commission) which shall consist of –
 
@@ -2154,9 +2155,9 @@ Appointment, etc., of public officers.
 
 (7) A public officer shall not be removed from office or subjected to any other punishment under this section on the grounds of any act done or omitted by him in the exercise of a judicial function conferred on him unless the Judicial and Legal Services Commission concurs therein.
 
-## PART 2
+### PART 2
 
-## Appointments, etc., to particular offices
+*Appointments, etc., to particular offices*
 
 86. (1) This section applies to the offices of Secretary to the Cabinet, Permanent Secretary, head of a department of Government, deputy head of a department of Government, Clerk of the House, any office for the time being designated by the Public Service Commission as an office of a chief professional adviser to a department of Government and any office for the time being designated by the Commission, after consultation with the Prime Minister, as an office the holders of which are required to reside outside Dominica for the proper discharge of their functions or as an office in Dominica whose functions relate to external affairs. Appointment, etc., of Permanent Secretaries and certain other officers.
 
@@ -2324,9 +2325,9 @@ acting in offices to which this section applies and the power to remove such per
 
 Provided that before exercising the powers conferred by this subsection in any case the Judicial and Legal Services Commission shall consult the Public Service Commission.
 
-## PART 3
+### PART 3
 
-## The Police
+*The Police*
 
 Police Service Commission. 91. (1) There shall be a Police Service Commission for Dominica which shall consist of -
 
@@ -2358,7 +2359,7 @@ acting in accordance with the advice of the Prime Minister, given after consulta
 
 ### PART 4
 
-## The Public Service Board of Appeal
+*The Public Service Board of Appeal*
 
 93. (1) There shall be a Public Service Board of Appeal for Dominica (hereinafter in this section and in section 94 of this Constitution referred to as the Board) which shall consist of –
 
@@ -2440,7 +2441,7 @@ Appeals in discipline cases. [U.K. S.I. 1978 No. 1521].
 
 ### PART 5
 
-### Pensions
+*Pensions*
 
 Pensions laws and protection of pensions rights. 95. (1) The law to be applied with respect to any pensions benefits that were granted to any person before the commencement of this Constitution shall be the law that was in force at the date on which those benefits were granted or any law in force at a later date that is not less favourable to that person.
 
@@ -2488,7 +2489,7 @@ those benefits shall be granted and may not be withheld, reduced in amount or su
 
 ## CHAPTER VII
 
-## CITIZENSHIP
+**CITIZENSHIP**
 
 Persons who become citizens on 3rd November 1978. 97. (1) Every person who, having been born in Dominica, is immediately before the commencement of this Constitution a citizen of the United Kingdom and Colonies shall become a citizen of Dominica at such commencement.
 
@@ -2567,7 +2568,7 @@ Interpretation. 102. (1) In this Chapter –
 
 ## CHAPTER VIII
 
-## JUDICIAL PROVISIONS
+**JUDICIAL PROVISIONS**
 
 103. (1) Subject to the provisions of sections 22(5), 38(6), 42(8), 57(7), 115(8), 118(3) and 121(10) of this Constitution, any person who alleges that any provision of this Constitution (other than a provision of Chapter I thereof) has been or is being contravened may, if he has a relevant interest, apply to the High Court for a declaration and for relief under this section.
 
@@ -2643,9 +2644,9 @@ Provided that they do not include references to decisions in exercise of the jur
 
 **Interpretation.** 107. In this Chapter references to the contravention of any provision of, or the interpretation of, this Constitution shall be construed as including references to the contravention of any provision of, or the interpretation of, the Supreme Court Order.
 
-# CHAPTER IX
+## CHAPTER IX
 
-## PARLIAMENTARY COMMISSIONER
+**PARLIAMENTARY COMMISSIONER**
 
 **Appointment, etc., of Commissioner.** 108. (1) There shall be a Parliamentary Commissioner for Dominica who shall be an officer of Parliament and who shall not hold any other office of emolument whether in the public service or otherwise nor engage in any other occupation for reward.
 
@@ -2809,9 +2810,9 @@ questions relating to any matter under investigation by the Commissioner.
 
 (8) No proceedings of the Parliamentary Commissioner may be held bad for want of form, and, except on the ground of lack of jurisdiction, no proceeding or decision of the Commissioner shall be liable to be challenged, reviewed, quashed or called in question in any court of law.
 
-# CHAPTER X
+## CHAPTER X
 
-## MISCELLANEOUS
+**MISCELLANEOUS**
 
 Declaration of republic. 116. Dominica shall be a sovereign democratic republic.
 
@@ -2979,15 +2980,15 @@ office if the holder thereof is himself unable to exercise those functions, no s
 
 [[START OF PAGE 109]]
 
-# SCHEDULE 1 TO THE CONSTITUTION
+## SCHEDULE 1 TO THE CONSTITUTION
 
 Section 42.
 
-## ALTERATION OF CONSTITUTION AND SUPREME COURT ORDER
+**ALTERATION OF CONSTITUTION AND SUPREME COURT ORDER**
 
 ### PART I
 
-### PROVISIONS OF CONSTITUTION REFERRED TO IN SECTION 42(2).
+**PROVISIONS OF CONSTITUTION REFERRED TO IN SECTION 42(2).**
 
 (i) Chapter I;
 
@@ -3009,15 +3010,15 @@ Section 42.
 
 ### PART II
 
-### PROVISIONS OF THE SUPREME COURT ORDER REFERRED TO IN SECTION 42(2).
+**PROVISIONS OF THE SUPREME COURT ORDER REFERRED TO IN SECTION 42(2).**
 
 Sections 4, 5, 6, 8, 11, 18 and 19.
 
-# SCHEDULE 2 TO THE CONSTITUTION
+## SCHEDULE 2 TO THE CONSTITUTION
 
 Section 57.
 
-## RULES CONCERNING CONSTITUENCIES
+**RULES CONCERNING CONSTITUENCIES**
 
 All constituencies shall contain as nearly equal numbers of inhabitants as appears to the Constituency Boundaries Commission to
 
@@ -3035,9 +3036,11 @@ be reasonably practicable but the Commission may depart from this principle to s
 
 (d) the boundaries of administrative areas.
 
-Section 111(4)(b). **SCHEDULE 3 TO THE CONSTITUTION**
+Section 111(4)(b).
 
-# MATTERS NOT SUBJECT TO INVESTIGATION BY PARLIAMENTARY COMMISSIONER
+## SCHEDULE 3 TO THE CONSTITUTION
+
+**MATTERS NOT SUBJECT TO INVESTIGATION BY PARLIAMENTARY COMMISSIONER**
 
 1. Action taken in matters certified by the Attorney General to affect relations or dealings between the Government and the government of any country or territory other than Dominica or any international organisation.
 
