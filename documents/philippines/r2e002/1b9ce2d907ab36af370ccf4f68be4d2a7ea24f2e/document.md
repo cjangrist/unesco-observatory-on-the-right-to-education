@@ -29,6 +29,7 @@ SEC. 2. *Declaration of Policies.* – The State recognizes the vital role of th
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+2
 
 broadening scientific and technological knowledge, and promoting vocational efficiency.
 
@@ -51,6 +52,7 @@ Towards these ends, the State shall inculcate in the youth patriotism and nation
 (d) *Character Building Activities* shall mean actual and authentic learning activities wherein the character of the learners is formed, shaped, and/or built-up.
 
 SEC. 4. *Institutionalization of Good Manners and Right Conduct and Values Education in the K to 12 Basic Education Curriculum.* – Good Manners and Right Conduct (GMRC) and Values Education shall replace the existing *Edukasyon sa Pagpapakatao* curriculum and be institutionalized as follows:
+3
 
 (a) GMRC shall be taught from Grades 1 to 6 as a separate subject with the same time allotment as the other core subjects, and shall be integrated in the daily learning activities in the kindergarten level. The Department of Education (DepEd) shall introduce GMRC through clear, distinct, specific, and concrete character building activities, such as role playing in the classroom, community immersion activities, teacher-parent collaborative learning activities, school-initiated values formation activities, simulated activities, and other forms of experiential learning. GMRC shall inculcate among the students the concepts of human dignity, respect for oneself, and giving oneself to others in the spirit of community, for the effective and holistic development of the decision-making skills of the child. The curriculum shall also focus on the basic tenets of GMRC, such as caring for oneself, giving concern for others, according proper respect to people, upholding discipline and order, cultivating sincerity, honesty, obedience, and above all, love for country.
 
@@ -62,6 +64,7 @@ SEC. 5. *Coverage of Values Education.* – It is hereby mandated that Values Ed
 
 [[END OF PAGE 2]]
 
+4
 
 <p>SEC. 6. <i>Teaching Qualification and Capacity Building for Teachers.</i> – Teachers with diploma, certification, and/or training in the field of Values Education or other allied disciplines shall be given preference in the teaching of this core subject.</p>
 
@@ -78,6 +81,7 @@ SEC. 5. *Coverage of Values Education.* – It is hereby mandated that Values Ed
 <p>SEC. 10. <i>Appropriations.</i> – The amount necessary for the initial implementation of this Act shall be sourced from the current appropriations of the DepEd. Thereafter, the amount necessary for its continuous implementation shall be included in the annual General Appropriations Act.</p>
 
 <p>SEC. 11. <i>Implementing Rules and Regulations.</i> – Within ninety (90) days after the effectivity of this Act, the DepEd, in consultation with relevant stakeholders, shall issue the necessary rules and regulations for its effective implementation.</p>
+5
 
 <p>SEC. 12. <i>Separability Clause.</i> – If any part or provision of this Act shall be held invalid or unconstitutional, the other parts or provisions hereof which are not affected shall remain in full force and effect.</p>
 
@@ -105,9 +109,10 @@ SEC. 5. *Coverage of Values Education.* – It is hereby mandated that Values Ed
 
 <p>MYRA MARIE D. VILLARICA<br/><i>Secretary of the Senate</i></p>
 
-<p>Approved: JUN 25 2020</p>
+<p>Approved: JUN 2 5 2020</p>
 
 <img alt="Signature of Rodrigo Roa Duterte" data-bbox="1449 1272 1680 1370" src="a25a22d88c5882f4a20f36103df86562_img.jpg"/>
 <img alt="Seal of the President of the Philippines" data-bbox="1669 1208 1827 1362" src="151e758181559f8a5663a48a2e3c7225_img.jpg"/>
 <p>RODRIGO ROA DUTERTE<br/><i>President of the Philippines</i></p>
 <img alt="Emblem of the Philippines" src="debcb9b94eee6edbc7a481282f42fa8c_img.jpg"/><div class="img-description" style="border: 1px solid #ccc; padding: 10px;"><div class="img-alt">Emblem of the Philippines</div></div>
+0
