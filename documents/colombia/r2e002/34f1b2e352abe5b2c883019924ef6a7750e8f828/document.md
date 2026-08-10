@@ -168,6 +168,11 @@ La educación en Colombia ha alcanzado cinco grandes logros, que son la base de 
 2. **Construcción y mejoramiento de la infraestructura del sector:** inversión de $1.2 billones en la construcción de 12.732 aulas que benefician a 649 mil niños.
 
 3. **Consolidación del Sistema Nacional de Evaluación de la Calidad:** que evalúa a los estudiantes a través de las pruebas de estado e internacionales; a la educación Superior mediante los ECAES y el registro calificado para los programas de pregrado; y a los docentes por medio de las evaluaciones para ingreso y ascenso.
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
+
 Icono 4
 
 4. **Incremento en la conectividad con el acceso a nuevas tecnologías en las Instituciones Educativas:** 87% de la matrícula conectada (1 computador por cada 21 estudiantes).
@@ -305,6 +310,11 @@ educación de calidad EL CAMINO PARA LA PROSPERIDAD logo
 - Realizar acciones focalizadas: transporte escolar, alimentación escolar.
 
 - Crear incentivos por disminución de deserción.
+
+[[END OF PAGE 9]]
+
+[[START OF PAGE 10]]
+
 - Realizar un Acuerdo Nacional para reducir la deserción en educación superior.
 
 - Fortalecer los procesos de articulación entre todos los niveles educativos.
