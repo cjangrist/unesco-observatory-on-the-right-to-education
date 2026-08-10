@@ -12,7 +12,7 @@ Año II -- Quito, Jueves 31 de Marzo del 2011 -- Nº 417
 **ING. HUGO ENRIQUE DEL POZO BARREZUETA**
 **DIRECTOR**
 
-**Quito:** Avenida 12 de Octubre N 16-114 y Pasaje Nicolás Jiménez
+**Quito:** Avenida 12 de Octubre Nº 16-114 y Pasaje Nicolás Jiménez
 **Dirección: Telf. 2901 - 629 -- Oficinas centrales y ventas: Telf. 2234 - 540**
 **Distribución (Almacén): 2430 - 110 -- Mañosca Nº 201 y Av. 10 de Agosto**
 **Sucursal Guayaquil: Malecón Nº 1606 y Av. 10 de Agosto - Telf. 2527 - 107**
@@ -44,7 +44,7 @@ Adjunto al presente encontrará el oficio No. SAN-2011-0281 del 29 de marzo de 2
 
 De lo expuesto, y en vista de que el Pleno de la Asamblea Nacional no trató en su totalidad el referido veto parcial en plazo de treinta días señalado en el tercer inciso del artículo 138 de la Constitución de la República, acompaño el texto del **Proyecto de Ley Orgánica de Educación Intercultural** en el que se encuentran incorporadas las restantes objeciones que formuló al indicado proyecto el señor Presidente Constitucional de la República, para que, conforme dispone el cuarto inciso del artículo 138 de la Constitución de la República, la publique como Ley de la República en el Registro Oficial.
 
-Para el propósito señalado, adjunto los documentos en los que consta la recepción en la Presidencia de la República del Proyecto de Ley Orgánica de Educación Intercultural; la devolución a la Asamblea Nacional, mediante el oficio No. T.4691-SNJ-11-195 del 10 de febrero del 2011, con el cual, el proyecto de Ley, fue objetado parcialmente por parte del señor Presidente Constitucional de la República.
+Para el propósito señalado, adjunto los documentos en los que consta la recepción en la Presidencia de la República del Proyecto del Ley Orgánica de Educación Intercultural; la devolución a la Asamblea Nacional, mediante el oficio No. T.4691-SNJ-11-195 del 10 de febrero del 2011, con el cual, el proyecto de Ley, fue objetado parcialmente por parte del señor Presidente Constitucional de la República.
 
 Atentamente,
 
@@ -102,7 +102,7 @@ Quito, 29 de marzo de 2011.
 f.) Ab. Oscar Pico Solórzano, Subsecretario Nacional de la Administración Pública.
 # PRESIDENCIA DE LA REPÚBLICA DEL ECUADOR
 
-Oficio No. T. 4691 –SNJ-11-479
+Oficio No. T. 4691 -SNJ-11-479
 
 Quito, 28 de marzo de 2011
 
@@ -169,40 +169,40 @@ Que, el Artículo 26 de la Constitución de la República reconoce a la educaci�
 Que, el Art. 27 de la Constitución de la República establece que la educación debe estar centrada en el ser humano y garantizará su desarrollo holístico, en el marco del respeto a los derechos humanos, al medio ambiente sustentable y a la democracia; será participativa, obligatoria, intercultural, democrática, incluyente y diversa, de calidad y calidez; impulsará la equidad de género, la justicia, la solidaridad y la paz; estimulará el sentido crítico, el arte y la cultura física, la iniciativa individual y comunitaria, y el desarrollo de competencias y capacidades para crear y trabajar.
 5
 
-La educación es indispensable para el conocimiento, el ejcrcicio de los derechos y la construccion de un pais soberano, y constituye un eje cstratégico para el desarrollo nacional;
+La educación es indispensable para el conocimiento, el ejercicio de los derechos y la construcción de un país soberano, y constituye un eje estratégico para el desarrollo nacional;
 
-Que, cl Articulo 28 de la Constitución de la República establcce que la educación responderá al interés público y no estará al servicio de intereses individuales y corporativos. Se garantizará cl acceso universal, permanencia, movilidad y egreso sin discriminacióon alguna y la obligatoriedad en cl nivel inicial, básico y bachillerato o su equivalente.
+Que, el Artículo 28 de la Constitución de la República establece que la educación responderá al interés público y no estará al servicio de intereses individuales y corporativos. Se garantizará el acceso universal, permanencia, movilidad y egreso sin discriminación alguna y la obligatoriedad en el nivel inicial, básico y bachillerato o su equivalente.
 
-Es derecho de toda pcrsona y comunidad intcractuar entre culturas y participar en una sociedad que aprende. El Estado promoverá el diálogo intercultural en sus múltiples dimensiones.
+Es derecho de toda persona y comunidad interactuar entre culturas y participar en una sociedad que aprende. El Estado promoverá el diálogo intercultural en sus múltiples dimensiones.
 
-El aprendizaje se desarrollará de forma cscolarizada y no escolarizada.
+El aprendizaje se desarrollará de forma escolarizada y no escolarizada.
 
-La educación pública scrá universal y laica en todos sus niveles, y gratuita hasta el tercer nivel de educación superior inclusive.
+La educación pública será universal y laica en todos sus niveles, y gratuita hasta el tercer nivel de educación superior inclusive.
 
-Que, cl Articulo 29 de Ia Constitución de la República declara que el Estado garantizará la libertad de enscñanza, y cl derecho de las personas de aprender en su propia lengua y ambito cultural. Donde las madrcs y padres o sus represcntantes tendran la libertad de escoger para sus hijas e hijos una cducación acorde con sus principios, creencias y opciones pedagógicas.
+Que, el Artículo 29 de la Constitución de la República declara que el Estado garantizará la libertad de enseñanza, y el derecho de las personas de aprender en su propia lengua y ámbito cultural. Donde las madres y padres o sus representantes tendrán la libertad de escoger para sus hijas e hijos una educación acorde con sus principios, creencias y opciones pedagógicas.
 
-Quc, el Articulo 38 de la Constitución de la República declara que cl Estado establecerá politicas públicas y programas de atención a las personas adultas mayores, que tendran en cuenta las diferencias especificas entre areas urbanas y rurales, la ... n y ejecucion dc cstas politicas. Y que cn particular, como lo establece su numeral primero, cl Estado tomará medidas de atención en centros especializados que garanticen su, entre otras su educación en un marco de protección integral de derechos;
+Que, el Artículo 38 de la Constitución de la República declara que el Estado establecerá políticas públicas y programas de atención a las personas adultas mayores, que tendrán en cuenta las diferencias específicas entre áreas urbanas y rurales, las inequidades de género, la etnia, la cultura y las diferencias propias de las personas, comunidades, pueblos y nacionalidades; asimismo, fomentará el mayor grado posible de autonomía personal y participación en la definición y ejecución de estas políticas. Y que en particular, como lo establece su numeral primero, el Estado tomará medidas de atención en centros especializados que garanticen su, entre otras su educación, en un marco de protección integral de derechos;
 
-Quc, los Articulos 39 y 45 de la Constitución de la República garantizan el derecho a la educación de jóvenes y niños, niñas y adolescentes, respectivamente;
+Que, los Artículos 39 y 45 de la Constitución de la República garantizan el derecho a la educación de jóvenes y niños, niñas y adolescentes, respectivamente;
 
-Que, el Articulo 44 dc la Constitución de la República obliga al Estado, la socicdad y la familia a promover de forma prioritaria el desarrollo integral de las niñias, niños y adolesccntes, y asegurar el ejercicio pleno de sus derechos; atendiendo al principio de su interés superior, donde sus derechos prevalccerán sobre los de las demás personas;
+Que, el Artículo 44 de la Constitución de la República obliga al Estado, la sociedad y la familia a promover de forma prioritaria el desarrollo integral de las niñas, niños y adolescentes, y asegurar el ejercicio pleno de sus derechos; atendiendo al principio de su interés superior, donde sus derechos prevalecerán sobre los de las demás personas;
 
-Que, el Articulo 46 de la Constitución de la República establece que el Estado adoptará, entre otras, las siguicntes medidas que asegurcn a las niñas, niños y adolescentes: Numeral 1.- Atención a menores dc seis añios, que garantice su (...) educa ... derechos. Numeral 2.- Protección especial y se implementarán politicas de erradicación poiva etabajoantil. E trabao eas olnts progresiva del trabajo infantil. El trabajo de las adolcscentes y los adolesccntes será excepcional, y no podrá conculcar su derecho a la educación. Numeral 3.- Atencion preferente para la plena integración social dc quiencs tengan discapacidad. El Estado garantizará su incorporacion en el sistema dc educacion regular y en la sociedad. Y numeral 7.- Las politicas públicas de comunicacion priorizarán su educacion y cl respeto a sus derechos;
+Que, el Artículo 46 de la Constitución de la República establece que el Estado adoptará, entre otras, las siguientes medidas que aseguren a las niñas, niños y adolescentes: Numeral 1.- Atención a menores de seis años, que garantice su (...) educación y cuidado diario en un marco de protección integral de sus derechos. Numeral 2.- Protección especial y se implementarán políticas de erradicación progresiva del trabajo infantil. El trabajo de las adolescentes y los adolescentes será excepcional, y no podrá conculcar su derecho a la educación. Numeral 3.- Atención preferente para la plena integración social de quienes tengan discapacidad. El Estado garantizará su incorporación en el sistema de educación regular y en la sociedad. Y numeral 7.- Las políticas públicas de comunicación priorizarán su educación y el respeto a sus derechos;
 
-Que, frente a las personas con discapacidad, los numerales 7 y 8 dcl Articulo 47 de la Constitución de la República establecc que el Estado garantizará politicas de prcvención de las discapacidades y, de manera conjunta con la söciedad y la famili ... sponda a las condiciones económicas de estc grupo. Y (8.-) la educacióon especializada para las personas con discapacidad intelectual y el fomento de sus capacidades mediante la creacion de centros educativos y programas de enseñianza espccificos;
+Que, frente a las personas con discapacidad, los numerales 7 y 8 del Artículo 47 de la Constitución de la República establece que el Estado garantizará políticas de prevención de las discapacidades y, de manera conjunta con la sociedad y la familia, procurará la equiparación de oportunidades para las personas con discapacidad y su integración social. Se reconoce a las personas con discapacidad, los derechos a: (7.-) Una educación que desarrolle sus potencialidades y habilidades para su integración y participación en igualdad de condiciones. Se garantizará su educación dentro de la educación regular. Los planteles regulares incorporarán trato diferenciado y los de atención especial la educación especializada. Los establecimientos educativos cumplirán normas de accesibilidad para personas con discapacidad e implementarán un sistema de becas que responda a las condiciones económicas de este grupo. Y (8.-) la educación especializada para las personas con discapacidad intelectual y el fomento de sus capacidades mediante la creación de centros educativos y programas de enseñanza específicos;
 
-Que, cl Articulo 57, en sus numcrales 14 y 21 dc la Constitución de la República, en referencia a los Derechos dc las comunidades, pueblos y nacionalidades, establece: (14. Desarrollar, fortalccer y potenciar cl sistema de educación intercultural ... va y participativa, con alternancia temporal y espacial, basada en vceduria comunitaria y rendicion de cuentas. Y (21.-) Quc la dignidad y diversidad de sus culturas, tradiciones, historias y aspiraciones se reflejen en la educación pública (...);
+Que, el Artículo 57, en sus numerales 14 y 21 de la Constitución de la República, en referencia a los Derechos de las comunidades, pueblos y nacionalidades, establece: (14.-) Desarrollar, fortalecer y potenciar el sistema de educación intercultural bilingüe, con criterios de calidad, desde la estimulación temprana hasta el nivel superior, conforme a la diversidad cultural, para el cuidado y preservación de las identidades en consonancia con sus metodologías de enseñanza y aprendizaje. Se garantizará una carrera docente digna. La administración de este sistema será colectiva y participativa, con alternancia temporal y espacial, basada en veeduría comunitaria y rendición de cuentas. Y (21.-) Que la dignidad y diversidad de sus culturas, tradiciones, historias y aspiraciones se reflejen en la educación pública (...);
 
-Que, en los Derechos de libcrtad, la Constitución de la República establece en el numeral 2 del Articulo 66, el reconocimiento y garantia de las personas a la educacion. Y el numeral 1 del Articulo 69, a proteger los derechos de las personas integrantes de la familia, donde la madre y el padre estaran obligados al cuidado, crianza y educación (...);
+Que, en los Derechos de libertad, la Constitución de la República establece en el numeral 2 del Artículo 66, el reconocimiento y garantía de las personas a la educación. Y el numeral 1 del Artículo 69, a proteger los derechos de las personas integrantes de la familia, donde la madre y el padre estarán obligados al cuidado, crianza y educación (...);
 
-Que, cl numeral 2 del Articulo 165 de la Constitución de la República, establece que incluso en estado de excepción se protegerán los fondos públicos destinados a salud y educación;
+Que, el numeral 2 del Artículo 165 de la Constitución de la República, establece que incluso en estado de excepción se protegerán los fondos públicos destinados a salud y educación;
 
-Que, cl Articulo 286 de la Constitución de la República establece que las finanzas públicas, en todos los niveles de gobierno, se conducirán de forma sostenible, responsable y transparente, y procurarán la estabilidad económica. Los egresos permanentes se financiaran con ingresos permanentes. Los egresos permanentes para (..) educación (...) serán prioritarios y, de manera exccpcional, podrán ser financiados con ingresos no permanentes;
+Que, el Artículo 286 de la Constitución de la República establece que las finanzas públicas, en todos los niveles de gobierno, se conducirán de forma sostenible, responsable y transparente, y procurarán la estabilidad económica. Los egresos permanentes se financiarán con ingresos permanentes. Los egresos permanentes para (...) educación (...) serán prioritarios y, de manera excepcional, podrán ser financiados con ingresos no permanentes;
 
-Quc, el Articulo 298 de la Constitución de la República establecc preasignaciones presupucstarias destinadas, entre
+Que, el Artículo 298 de la Constitución de la República establece preasignaciones presupuestarias destinadas, entre
 6
 
-otros al sector educacion, a la educacion superior, y a la investigación, ciencia, tecnología e innovación en los términos previstos en la ley. Las transferencias correspondientes a preasignaciones serán predecibles y automáticas;
+otros al sector educación, a la educación superior, y a la investigación, ciencia, tecnología e innovación en los términos previstos en la ley. Las transferencias correspondientes a preasignaciones serán predecibles y automáticas;
 
 Que, en la Disposición Transitoria Decimoctava de la Constitución de la República, el Estado asignará de forma progresiva recursos públicos del Presupuesto General del Estado para la educación inicial básica y el bachillerato, con incrementos anuales de al menos el cero punto cinco por ciento del Producto Interior Bruto hasta alcanzar un mínimo del seis por ciento del Producto Interior Bruto;
 
@@ -220,7 +220,7 @@ Que, el Artículo 342 de la Constitución de la República, establece que el Est
 
 Que, el Artículo 343 de la Constitución de la República, establece un sistema nacional de educación que tendrá como finalidad el desarrollo de capacidades y potencialidades individuales y colectivas de la población, que posibiliten el aprendizaje, y la generación y utilización de conocimientos, técnicas, saberes, artes y cultura. El sistema tendrá como centro al sujeto que aprende, y
 
-funcionará de manera flexible y dinámica, incluyente eficaz y eficiente. El sistema nacional de educación integrará una visión intercultural acorde con la diversidad geográfica, cultural y lingüística del país, y el respeto a los derechos de las comunidades, pueblos y nacionalidades;
+funcionará de manera flexible y dinámica, incluyente, eficaz y eficiente. El sistema nacional de educación integrará una visión intercultural acorde con la diversidad geográfica, cultural y lingüística del país, y el respeto a los derechos de las comunidades, pueblos y nacionalidades;
 
 Que, el Art. 344 de la Constitución de la República, dicta que el sistema nacional de educación comprenderá las instituciones, programas, políticas, recursos y actores del proceso educativo, así como acciones en los niveles de educación inicial, básica y bachillerato, y estará articulado con el sistema de educación superior. El Estado ejercerá la rectoría del sistema a través de la autoridad educativa nacional, que formulará la política nacional de educación; asimismo regulará y controlará las actividades relacionadas con la educación, así como el funcionamiento de las entidades del sistema;
 
@@ -265,7 +265,7 @@ Que, en Artículo 349 de la Constitución de la República, establece que el Est
 
 Que, la Constitución de la República referido a la cultura física y el tiempo libre en su Artículo 381, establece que el Estado protegerá, promoverá y coordinará la cultura física que comprende el deporte, la educación física y la recreación, como actividades que contribuyen a la salud, formación y desarrollo integral de las personas (...);
 
-Que, en el Artículo 383 de la Constitución de la República se garantiza el derecho de las personas y las colectividades al tiempo libre, la ampliación de las condiciones físicas, sociales y ambientales para su disfrute, y a promoción de actividades para el esparcimiento, descanso y desarrollo de la personalidad;
+Que, en el Artículo 383 de la Constitución de la República se garantiza el derecho de las personas y las colectividades al tiempo libre, la ampliación de las condiciones físicas, sociales y ambientales para su disfrute, y la promoción de actividades para el esparcimiento, descanso y desarrollo de la personalidad;
 
 Que, existen derechos de las personas y grupos de atención prioritaria declarados en la Constitución de la República, que en su Artículo 36, establece que las personas adultas mayores, niñas, niños y adolescentes, mujeres embarazadas, personas con discapacidad, personas privadas de libertad y quienes adolezcan de enfermedades catastróficas o de alta complejidad, recibirán atención prioritaria y especializada en los ámbitos público y privado. La misma atención prioritaria recibirán las personas en situación de riesgo, las víctimas de violencia doméstica y sexual, maltrato infantil, desastres naturales o antropogénicos. El Estado prestará especial protección a las personas en condición de doble vulnerabilidad;
 
@@ -278,7 +278,7 @@ Que, el Artículo 100 de la Constitución de la República establece la particip
 Que, el Artículo 85 de la Constitución de la República, establece que en la formulación, ejecución, evaluación y control de las políticas públicas y servicios públicos se garantizará la participación de las personas, comunidades, pueblos y nacionalidades. Disponiendo además en sus numerales 1 al 3 que (1.-) las políticas públicas y la prestación de bienes y servicios públicos se orientarán a hacer efectivos el buen vivir y todos los derechos, y se formularán a partir del principio de solidaridad. (2.-) Sin
 perjuicio de la prevalencia del interés general sobre el interés particular, cuando los efectos de la ejecución de las políticas públicas o prestación de bienes o servicios públicos vulneren o amenacen con vulnerar derechos constitucionales, la política o prestación deberá reformularse o se adoptarán medidas alternativas que concilien los derechos en conflicto. (3.-) El Estado garantizará la distribución equitativa y solidaria del presupuesto para la ejecución de las políticas públicas y la prestación de bienes y servicios públicos;
 
-Que, el Artículo 96 de la Constitución de la República reconoce todas las formas de organización de la sociedad, como expresión de la soberanía popular para desarrollar procesos de autodeterminación e incidir en las decisiones y políticas públicas y en el control social de todos los niveles de gobierno, así como de las entidades públicas y de las privadas que presten servicios públicos. Las organizaciones podrán articularse en diferentes niveles para fortalecer el poder ciudadano y sus formas de expresión; deberán garantizar la democracia interna, la alternabilidad de sus dirigentes y la rendición de cuentas;
+Que, el Artículo 96 de la Constitución de la República, reconoce todas las formas de organización de la sociedad, como expresión de la soberanía popular para desarrollar procesos de autodeterminación e incidir en las decisiones y políticas públicas y en el control social de todos los niveles de gobierno, así como de las entidades públicas y de las privadas que presten servicios públicos. Las organizaciones podrán articularse en diferentes niveles para fortalecer el poder ciudadano y sus formas de expresión; deberán garantizar la democracia interna, la alternabilidad de sus dirigentes y la rendición de cuentas;
 
 Que, una transformación revolucionaria del Ecuador requiere primordialmente de una transformación revolucionaria de la educación de sus niños, niñas, adolescentes, hombres y mujeres de toda edad, a lo largo de toda su vida; que les permita conocerse, reconocerse, aceptarse, valorarse, en su integralidad y su diversidad cultural; proyectarse y proyectar su cultura con orgullo y trascendencia hacia el mundo; en un ámbito de calidad y calidez que, iniciado durante la etapa de formación del ser humano, pueda proyectar esa calidez alejada de la violencia;
 
@@ -319,41 +319,41 @@ a. **Universalidad.-** La educación es un derecho humano fundamental y es deber
 b. **Educación para el cambio.-** La educación constituye instrumento de transformación de la sociedad; contribuye a la construcción del país, de los
 9
 
-proyectos de vida y de la libertad de sus habitantes, pucblos y nacionalidades; reconoce a las y los seres humanos, en particular a las ninas, niños y adolescentes, como centro del proceso de aprendizajes o y sujetos de dcrecho; y se organiza sobre la base de los principios constitucionales;
+proyectos de vida y de la libertad de sus habitantes, pueblos y nacionalidades; reconoce a las y los seres humanos, en particular a las niñas, niños y adolescentes, como centro del proceso de aprendizajes y sujetos de derecho; y se organiza sobre la base de los principios constitucionales;
 
-c. **Libertad**.- La educacion forma a las personas para la emapacion,tnia pleno ii u emancipación, autonomia y el pleno ejercicio de sus libertades. El Estado garantizará la pluralidad en la oferta educativa;
+c. **Libertad**.- La educación forma a las personas para la emancipación, autonomía y el pleno ejercicio de sus libertades. El Estado garantizará la pluralidad en la oferta educativa;
 
-d. **Interés superior de los niños, niñas y adolescentes**.- El interés superior de los niños, niñas y adolescentes, está orientado a garantizar el ejercicio efectivo del conjunto de sus derechos c imponc a todas las instituciones y autoridadcs, públicas y privadas, el deber de ajustar sus decisiones y acciones para su atención. Nadic podrá invocarlo contra norma expresa y sin escuchar previamente a oinión del iño, adolesccnte involucrado, que esté en condiciones de cxpresarla;
+d. **Interés superior de los niños, niñas y adolescentes**.- El interés superior de los niños, niñas y adolescentes, está orientado a garantizar el ejercicio efectivo del conjunto de sus derechos e impone a todas las instituciones y autoridades, públicas y privadas, el deber de ajustar sus decisiones y acciones para su atención. Nadie podrá invocarlo contra norma expresa y sin escuchar previamente la opinión del niño, niña o adolescente involucrado, que esté en condiciones de expresarla;
 
-e. **Atención prioritaria**.- Atencion e intcgracióon priitaria especializada e as nias o prioritaria y especializada de las ninas, niños y adolescentes con discapacidad o quc padezcan enfermedades catastroficas de alta complejidad;
+e. **Atención prioritaria**.- Atención e integración prioritaria y especializada de las niñas, niños y adolescentes con discapacidad o que padezcan enfermedades catastróficas de alta complejidad;
 
-f. **Desarrollo de procesos**.- Los niveles educativos deben adccuarse a ciclos de vida de las personas, a su desarrollo cognitivo, afectivo y psicomotriz, capacidadcs, ámbito cultural y lingüistico, sus necesidades y las del pais, atendiendo de manera particular la igualdad real de grupos poblacionales historicamente excluidos o cuyas desventajas se mantienen vigentes, como son las personas y grupos dc atencion prioritaria previstos en la Constitución de la República;
+f. **Desarrollo de procesos**.- Los niveles educativos deben adecuarse a ciclos de vida de las personas, a su desarrollo cognitivo, afectivo y psicomotriz, capacidades, ámbito cultural y lingüístico, sus necesidades y las del país, atendiendo de manera particular la igualdad real de grupos poblacionales históricamente excluidos o cuyas desventajas se mantienen vigentes, como son las personas y grupos de atención prioritaria previstos en la Constitución de la República;
 
-g. **Aprendizaje permanente**.- La concepción de la educacion como un aprendizaje permanente, quc se desarrolla a lo largo de toda la vida;
+g. **Aprendizaje permanente**.- La concepción de la educación como un aprendizaje permanente, que se desarrolla a lo largo de toda la vida;
 
-h. **Interaprendizaje y multiaprendizaje**.- Se considera al interaprendizaje y multiaprendizaje como instrumentos para potenciar las capacidades humanas por medio de la cultura, el deporte, el acccso a la información y sus tecnologias, la comunicacion y el conocimiento, para alcanzar niveles dc desarrollo personal y colectivo;
+h. **Interaprendizaje y multiaprendizaje**.- Se considera al interaprendizaje y multiaprendizaje como instrumentos para potenciar las capacidades humanas por medio de la cultura, el deporte, el acceso a la información y sus tecnologías, la comunicación y el conocimiento, para alcanzar niveles de desarrollo personal y colectivo;
 
-i. **Educación en valores**.- La cducación debe basarse en tnsmisin y prcica de valores que promuevana la transmisión y práctica de valores que promuevan la liber peronal, a emoccia, el respo a los libertad personal, la democracia, el respcto a los de ... dad, la tolcrancia, cl respeto a la diversidad de género, generacional, étnica, social, por identidad de género, condición de migración y creencia religiosa, la c equidad, la igualdad y la justicia y la climinación dc toda forma de discriminación;
+i. **Educación en valores**.- La educación debe basarse en la transmisión y práctica de valores que promuevan la libertad personal, la democracia, el respeto a los derechos, la responsabilidad, la solidaridad, la tolerancia, el respeto a la diversidad de género, generacional, étnica, social, por identidad de género, condición de migración y creencia religiosa, la equidad, la igualdad y la justicia y la eliminación de toda forma de discriminación;
 
-j. Garantizar ldero e s personas auna edc Garantizar el derecho de las personas a una educación libre de violencia de género, que promueva la coeducacion;
+j. Garantizar el derecho de las personas a una educación libre de violencia de género, que promueva la coeducación;
 
-k. **Enfoque en dercchos**.- La accion, práctica y contenidos educativos deben centrar su accion en las pernasy us erhos. La euccion deb personas y sus dercchos. La educacion deberá incluir el conocimiento de los derechos, sus mecanismos de procion exigibilidad, ejercici resonsabe protcccion y exigibilidad, ejercicio responsable, eccimientespeto a ivesidades reconocimiento y respcto a las diversidades, en un mc ber dgi equi socal culual igualdad de género;
+k. **Enfoque en derechos**.- La acción, práctica y contenidos educativos deben centrar su acción en las personas y sus derechos. La educación deberá incluir el conocimiento de los derechos, sus mecanismos de protección y exigibilidad, ejercicio responsable, reconocimiento y respeto a las diversidades, en un marco de libertad, dignidad, equidad social, cultural e igualdad de género;
 
-l. **Igualdad de género**.- La educacion debe garantizar la igualdad de condiciones, oportunidades y trato entre hombres y mujeres. Se garantizan medidas de acción afrmativa para efectivizar el cjercicio del derecho a la cducacion sin discriminacion de ningun tipo;
+l. **Igualdad de género**.- La educación debe garantizar la igualdad de condiciones, oportunidades y trato entre hombres y mujeres. Se garantizan medidas de acción afirmativa para efectivizar el ejercicio del derecho a la educación sin discriminación de ningún tipo;
 
-m. **Educacion para la democracia**.- Los establecimientos educativos son espacios democraticos de ejercicio de los dercchos humanos y prores clturae paz, trafomore a eald ransmisorcreadores conocim realidad, transmisores y creadores de conocimiento, o promotores de la interculturalidad, la equidad, la inclusión, la democracia, la ciudadania, la convivencia social, la participacion, la integracion social, nacional, andina, latinoamericana y mundial;
+m. **Educación para la democracia**.- Los establecimientos educativos son espacios democráticos de ejercicio de los derechos humanos y promotores de la cultura de paz, transformadores de la realidad, transmisores y creadores de conocimiento, promotores de la interculturalidad, la equidad, la inclusión, la democracia, la ciudadanía, la convivencia social, la participación, la integración social, nacional, andina, latinoamericana y mundial;
 
-n. **Comunidad de aprendizaje**.- La educación tiene en sus concepos qucl que reconoce socid entre sus conceptos aqucl que reconoce a la sociedad coun ene que prend nse ndmenta como un ente que aprende y enseñia y se fundamenta en la comunidad de aprendizaje entre docentes y educandos, considerada como cspacios de diálogo social e intercultural e intercambio de aprendizajes y sabcres;
+n. **Comunidad de aprendizaje**.- La educación tiene entre sus conceptos aquel que reconoce a la sociedad como un ente que aprende y enseña y se fundamenta en la comunidad de aprendizaje entre docentes y educandos, considerada como espacios de diálogo social e intercultural e intercambio de aprendizajes y saberes;
 
-o. **Participación ciudadana**.- La participación o. ciudadana se concibe como protagonista dc la comunidad educativa en la organizacion, gobierno, funcionamiento, toma de dccisiones, planificación, gestión y rendicion de cuentas en los asuntos inherentes al ambito educativo, asi como sus instancias y establecimientos. Comprende además cl fomento de las capacidades y la provisión de herramientas para la formacion en ciudadania y el ejercicio del derecho a la participacion efectiva;
+o. **Participación ciudadana**.- La participación ciudadana se concibe como protagonista de la comunidad educativa en la organización, gobierno, funcionamiento, toma de decisiones, planificación, gestión y rendición de cuentas en los asuntos inherentes al ámbito educativo, así como sus instancias y establecimientos. Comprende además el fomento de las capacidades y la provisión de herramientas para la formación en ciudadanía y el ejercicio del derecho a la participación efectiva;
 
-p. **Corresponsabilidad**.- La educacion demanda corresponsabilidad en la formacion e instruccion de las niñias, niños y adolescentes y el esfuerzo compartido de estudiantes, familias, docentes, centros educativos, comunidad, instituciones del Estado, mcdios de comunicación y el conjunto de la sociedad, que sc oricntarán por los principios de esta ley;
+p. **Corresponsabilidad**.- La educación demanda corresponsabilidad en la formación e instrucción de las niñas, niños y adolescentes y el esfuerzo compartido de estudiantes, familias, docentes, centros educativos, comunidad, instituciones del Estado, medios de comunicación y el conjunto de la sociedad, que se orientarán por los principios de esta ley;
 
-q. **Motivación**.- Se promueve el esfuerzo individual y la motivacion a las personas para el aprendizaje, asi como el reconocimiento y valoracion del profesorado, la garantia del cumplimiento de sus derechos y el apoyo a su tarea, como actor esencial de calidad de la educación;
+q. **Motivación**.- Se promueve el esfuerzo individual y la motivación a las personas para el aprendizaje, así como el reconocimiento y valoración del profesorado, la garantía del cumplimiento de sus derechos y el apoyo a su tarea, como factor esencial de calidad de la educación;
 
 r. **Evaluación**.- Se establece la evaluación integral como un proceso permanente y participativo del Sistema Educativo Nacional;
 
-s. **Flexibilidad**.- La educacion tendrá una flexibilidad que le permita adecuarse a las diversidades y realidades locales y globales, preservando la identidad nacional y la diversidad cultural, para asumirlas e integrarlas en el concierto educativo nacional, tanto en sus conceptos como en sus contenidos, base cientifica - tecnológica y modelos de gestión;
+s. **Flexibilidad**.- La educación tendrá una flexibilidad que le permita adecuarse a las diversidades y realidades locales y globales, preservando la identidad nacional y la diversidad cultural, para asumirlas e integrarlas en el concierto educativo nacional, tanto en sus conceptos como en sus contenidos, base científica - tecnológica y modelos de gestión;
 t. **Cultura de paz y solución de conflictos.-** El ejercicio del derecho a la educación debe orientarse a construir una sociedad justa, una cultura de paz y no violencia, para la prevención, tratamiento y resolución pacífica de conflictos, en todos los espacios de la vida personal, escolar, familiar y social. Se exceptúan todas aquellas acciones y omisiones sujetas a la normatividad penal y a las materias no transigibles de conformidad con la Constitución de la República y la Ley;
 
 u. **Investigación, construcción y desarrollo permanente de conocimientos.-** Se establece a la investigación, construcción y desarrollo permanente de conocimientos como garantía del fomento de la creatividad y de la producción de conocimientos, promoción de la investigación y la experimentación para la innovación educativa y la formación científica;
@@ -395,52 +395,52 @@ educativas son saludables y seguras. En ellas se garantiza la universalización 
 
 kk. Convivencia armónica.- La educación tendrá como principio rector la formulación de acuerdos de convivencia armónica entre los actores de la comunidad educativa; y,
 
-ll. Pertinencia.- Se garantiza a las y los estudiantes una formacion que responda a las neccsidades de su entorno social, natural y cultural en los ambitos local, nacional y mundial.
+ll. Pertinencia.- Se garantiza a las y los estudiantes una formación que responda a las necesidades de su entorno social, natural y cultural en los ámbitos local, nacional y mundial.
 
 ### Art. 3.- Fines de la educación.- Son fines de la educación:
 
-a. El desarrollo pleno dc la personalidad de las y los estudiantes, quc contribuya a lograr el conocimicnto y ejercicio de sus derechos, el cumplimiento de sus obligaciones, el desarrollo de una cultura de paz entre los pucblos y de no violencia entre las personas, y una convivencia social intercultural, plurinacional, democrática y solidaria;
+a. El desarrollo pleno de la personalidad de las y los estudiantes, que contribuya a lograr el conocimiento y ejercicio de sus derechos, el cumplimiento de sus obligaciones, el desarrollo de una cultura de paz entre los pueblos y de no violencia entre las personas, y una convivencia social intercultural, plurinacional, democrática y solidaria;
 
-b. El fortalecimiento y la potenciación de la educación para contribuir al cuidado y preservación de las identidades conforme a la diversidad cultural y las particularidades metodológicas de enseñianza, desde el nivel inicial hasta cl nivel superior, bajo criterios de calidad;
+b. El fortalecimiento y la potenciación de la educación para contribuir al cuidado y preservación de las identidades conforme a la diversidad cultural y las particularidades metodológicas de enseñanza, desde el nivel inicial hasta el nivel superior, bajo criterios de calidad;
 
-c. El dcsarrollo de la identidad nacional; de un sentido de pertenencia unitario, intcrcultural y plurinacional; y de las identidades culturales de los pueblos y nacionalidades que habitan cl Ecuador;
+c. El desarrollo de la identidad nacional; de un sentido de pertenencia unitario, intercultural y plurinacional; y de las identidades culturales de los pueblos y nacionalidades que habitan el Ecuador;
 
-d. El desarrollo de capacidades de análisis y conciencia critica para que las personas se inserten en el mundo como sujetos activos con vocación transformadora y de construcción de una sociedad justa, equitativa y libre;
+d. El desarrollo de capacidades de análisis y conciencia crítica para que las personas se inserten en el mundo como sujetos activos con vocación transformadora y de construcción de una sociedad justa, equitativa y libre;
 
-e. La garantia del acceso plural y libre a la información sobre la sexualidad, los derechos sexuales y los derechos reproductivos para el conocimiento y ejercicio de dichos derechos bajo un enfoque de igualdad de género, y para la toma libre, consciente, responsable e informada de las decisioncs sobre la sexualidad;
+e. La garantía del acceso plural y libre a la información sobre la sexualidad, los derechos sexuales y los derechos reproductivos para el conocimiento y ejercicio de dichos derechos bajo un enfoque de igualdad de género, y para la toma libre, consciente, responsable e informada de las decisiones sobre la sexualidad;
 
-f. El fomento y desarrollo de una conciencia ciudadana y planetaria para la conservación, defensa y mejoramiento del ambiente; para el logro de una vida sana; para cl uso racional, sostenible y sustentable de los recursos naturales;
+f. El fomento y desarrollo de una conciencia ciudadana y planetaria para la conservación, defensa y mejoramiento del ambiente; para el logro de una vida sana; para el uso racional, sostenible y sustentable de los recursos naturales;
 
 g. La contribución al desarrollo integral, autónomo, sostenible e independiente de las personas para garantizar la plena realización individual, y la realización colectiva que permita en el marco del Buen Vivir o Sumak Kawsay;
 
-h. La consideración de la persona humana como centro de la educacion y la garantia de su desarrollo integral, en el marco del respeto a los derechos educativos de la farrilia, la democracia y la naturaleza;
+h. La consideración de la persona humana como centro de la educación y la garantía de su desarrollo integral, en el marco del respeto a los derechos educativos de la familia, la democracia y la naturaleza;
 
-i. La Promoción de igualdades entre hombres, mujercs y personas diversas para el cambio de concepciones culturales discriminatorias de cualquier orden, sexistas en particular, y para la construcción de relaciones sociales en el marco del respeto a la dignidad de las personas, dcl reconocimiento y valoración de Ias diferencias;
+i. La Promoción de igualdades entre hombres, mujeres y personas diversas para el cambio de concepciones culturales discriminatorias de cualquier orden, sexistas en particular, y para la construcción de relaciones sociales en el marco del respeto a la dignidad de las personas, del reconocimiento y valoración de las diferencias;
 
-j. La incorporacion de la comunidad educativa a la sociedad del conocimicnto en condicioncs óptimas y la transformación del Ecuador en referente de educación libcradora de los pueblos;
+j. La incorporación de la comunidad educativa a la sociedad del conocimiento en condiciones óptimas y la transformación del Ecuador en referente de educación liberadora de los pueblos;
 
-k. El fomento del conocimiento, respeto, valoracion, rescate, preservacion y: promoción del patrimonio natural y cultural tangible e intangible;
+k. El fomento del conocimiento, respeto, valoración, rescate, preservación y promoción del patrimonio natural y cultural tangible e intangible;
 
-l. La inculcacion del respeto y la práctica permanente de los derechos humanos, la democracia, la participación, la justicia, la igualdad y no discriminación, la equidad, la solidaridad, la no violencia, las libertades fundamentales y los valores civicos;
+l. La inculcación del respeto y la práctica permanente de los derechos humanos, la democracia, la participación, la justicia, la igualdad y no discriminación, la equidad, la solidaridad, la no violencia, las libertades fundamentales y los valores cívicos;
 
-m. La proteccion y el apoyo a las y los estudiantcs en casos de violencia, maltrato, explotación sexual y de cualquier tipo de abuso; el fomento de sus capacidades, derechos y mecanismos de denuncia y exigibilidad; el combatc contra la negligencia que permita o provoque tales situaciones;
+m. La protección y el apoyo a las y los estudiantes en casos de violencia, maltrato, explotación sexual y de cualquier tipo de abuso; el fomento de sus capacidades, derechos y mecanismos de denuncia y exigibilidad; el combate contra la negligencia que permita o provoque tales situaciones;
 
-n. La garantia dc acceso plural y librc a la informacion y educación para la salud y la prevención de enfermedades, la prevención del uso de estupefacientes y psicotrópicos, del consumo de bebidas alcohólicas y otras sustancias nocivas para la salud y desarrollo;
+n. La garantía de acceso plural y libre a la información y educación para la salud y la prevención de enfermedades, la prevención del uso de estupefacientes y psicotrópicos, del consumo de bebidas alcohólicas y otras sustancias nocivas para la salud y desarrollo;
 
-o. La promocion de la formación civica y ciudadana de una sociedad que aprende, cduca y participa permanentcmente en el desarrollo nacional;
+o. La promoción de la formación cívica y ciudadana de una sociedad que aprende, educa y participa permanentemente en el desarrollo nacional;
 
-p. El desarrollo de procesos escolarizados, no escolarizados, formales, no formnales y especiales;
+p. El desarrollo de procesos escolarizados, no escolarizados, formales, no formales y especiales;
 
-q. El desarrollo, la promoción y el fortalecimiento de la educación intercultural bilingüc en el Ecuador;
+q. El desarrollo, la promoción y el fortalecimiento de la educación intercultural bilingüe en el Ecuador;
 
-r. La potenciación de las capacidades productivas decl pais conforme a las diversidades geográficas, regionales, provinciales, cantonales, parroquiales y culturales, mediante la diversificación curricular; la capacitacion de las personas para poner en marcha sus iniciativas productivas individuales o asociativas; y el fortalecimiento de una cultura de emprendimicnto;
+r. La potenciación de las capacidades productivas del país conforme a las diversidades geográficas, regionales, provinciales, cantonales, parroquiales y culturales, mediante la diversificación curricular; la capacitación de las personas para poner en marcha sus iniciativas productivas individuales o asociativas; y el fortalecimiento de una cultura de emprendimiento;
 
-s. El desarrollo, fortalecimiento y promocion de los idiomas de los pueblos y nacionalidades del Ecuador;
+s. El desarrollo, fortalecimiento y promoción de los idiomas de los pueblos y nacionalidades del Ecuador;
 
-t. La promoción del desarrollo cientifico y tecnológico; y,
+t. La promoción del desarrollo científico y tecnológico; y,
 
-u. La proycccion de enlaccs criticos y: conexiones articuladas y analiticas con el conocimiento mundial para una correcta y positiva insercion en los procesos planetarios de creacion y utilización de saberes.
-# TITULO II
+u. La proyección de enlaces críticos y conexiones articuladas y analíticas con el conocimiento mundial para una correcta y positiva inserción en los procesos planetarios de creación y utilización de saberes.
+# TÍTULO II
 
 DE LOS DERECHOS Y OBLIGACIONES
 
@@ -733,11 +733,11 @@ j. Participar con el cuidado, mantenimiento y mejoramiento de las instalaciones 
 k. Contribuir y participar activamente en la aplicación permanente de los derechos y garantías constitucionales.
 
 **Art. 14.- De la exigibilidad, la restitución y la protección.-** En ejercicio de su corresponsabilidad, el Estado, en todos sus niveles, adoptará las medidas que sean necesarias para la plena vigencia, ejercicio efectivo, garantía, protección, exigibilidad y justiciabilidad del derecho a la educación de niños, niñas y adolescentes. Todos los actores de la comunidad educativa estarán en condición de acudir a las instancias de protección constitucional con el fin de restituir el derecho a la educación que hubiere sido desatendido o conculcado.
-En todos los casos en los que sc tenga conocimiento de la privación del derecho a la educación de una niña, niño o adolescente, sin perjuicio de su obligación de acudir a los organismos de atención a la infancia respectivos, se adoptarán dc manera directa las acciones y medidas necesarias que conlleven inequívocamentc a la restitución del derecho a la educación que hubiere sido conculcado o desatendido. Igual obligacion tendran las juntas cantonales de protección de derechos cuando estuviere amenazado.
+En todos los casos en los que se tenga conocimiento de la privación del derecho a la educación de una niña, niño o adolescente, sin perjuicio de su obligación de acudir a los organismos de atención a la infancia respectivos, se adoptarán de manera directa las acciones y medidas necesarias que conlleven inequívocamente a la restitución del derecho a la educación que hubiere sido conculcado o desatendido. Igual obligación tendrán las juntas cantonales de protección de derechos cuando estuviere amenazado.
 
-Cuando la integridad fisica; psicológica o sexual de las niñas, niños y adolescentes estuviere amenazada o hubiere sido afectada, sin perjuicio de la obligación de denunciar por parte de quien en la comunidad educativa tuviere conocimiento del hecho cuyas características hagan presumir la existencia de amenaza o afectación, la Junta Distrital Intercultural de Resolución de Conflictos denunciará ante la autoridad judicial respectiva y remitirá a las autoridades competentes para que se dicten las medidas de protección de derechos que corresponda por su incumplimiento.
+Cuando la integridad física; psicológica o sexual de las niñas, niños y adolescentes estuviere amenazada o hubiere sido afectada, sin perjuicio de la obligación de denunciar por parte de quien en la comunidad educativa tuviere conocimiento del hecho cuyas características hagan presumir la existencia de amenaza o afectación, la Junta Distrital Intercultural de Resolución de Conflictos denunciará ante la autoridad judicial respectiva y remitirá a las autoridades competentes para que se dicten las medidas de protección de derechos que corresponda por su incumplimiento.
 
-En caso de amenaza o afectación a la integridad sexual de los y las estudiantes, la Junta Distrital Intercultural de Resolución de Conflictos procederá a dictar la suspensión temporal de las funcioncs o tareas del presunto agresor como medida de protección.
+En caso de amenaza o afectación a la integridad sexual de los y las estudiantes, la Junta Distrital Intercultural de Resolución de Conflictos procederá a dictar la suspensión temporal de las funciones o tareas del presunto agresor como medida de protección.
 
 La Junta Distrital Intercultural de Resolución de Conflictos realizará el seguimiento y velará por el cumplimiento de las medidas de protección dictadas por las autoridades competentes para protección de derechos, sancionando a quien corresponda por su no cumplimiento.
 
@@ -751,7 +751,7 @@ La Junta Distrital Intercultural de Resolución de Conflictos realizará el resp
 
 La comunidad educativa promoverá la integración de los actores culturales, deportivos, sociales, comunicacionales y de seguridad ciudadana para el desarrollo de sus acciones y para el bienestar común.
 
-**Art. 16.- Derechos y obligaciones dc la comunidad educativa.-** Los derechos y obligaciones, propios y concurrentes, de la comunidad educativa son los que corresponden a sus actores en forma individual y colectiva.
+**Art. 16.- Derechos y obligaciones de la comunidad educativa.-** Los derechos y obligaciones, propios y concurrentes, de la comunidad educativa son los que corresponden a sus actores en forma individual y colectiva.
 
 ## CAPÍTULO SÉPTIMO
 
@@ -759,38 +759,38 @@ La comunidad educativa promoverá la integración de los actores culturales, dep
 
 **Art. 17.- Derechos.-** Los miembros de la comunidad gozan de los siguientes derechos:
 
-a. Recibir educación cscolarizada o no escolarizada, formal o informal a lo largo de su vida que, complemente sus capacidades y habilidades para ejercer la ciudadania y el derecho al Buen Vivir;
+a. Recibir educación escolarizada o no escolarizada, formal o informal a lo largo de su vida que, complemente sus capacidades y habilidades para ejercer la ciudadanía y el derecho al Buen Vivir;
 
-b. Participar activamente en el conocimiento de las realidades institucionales dc los centros educativos de su respectiva comunidad;
+b. Participar activamente en el conocimiento de las realidades institucionales de los centros educativos de su respectiva comunidad;
 
 c. Fomentar un proceso de conocimiento y mutuo respeto entre la comunidad organizada y los centros educativos de su respectiva circunscripción territorial;
 
-d. Participar, correlativamente al cumplimiento de sus obligaciones contenidas en esta Ley, en la construcción del proyecto cducativo institucional público para vincularlo con las necesidades de desarrollo comunitario;
+d. Participar, correlativamente al cumplimiento de sus obligaciones contenidas en esta Ley, en la construcción del proyecto educativo institucional público para vincularlo con las necesidades de desarrollo comunitario;
 
-e. Participar como veedores de la calidad y calidez del proceso educativo, el cumplimiento y respeto dc los derechos de los miembros de la comunidad y del buen uso de los recursos educativos;
+e. Participar como veedores de la calidad y calidez del proceso educativo, el cumplimiento y respeto de los derechos de los miembros de la comunidad y del buen uso de los recursos educativos;
 
-f. Hacer uso racional y responsable dc los servicios, instalaciones y equipamiento de las instituciones educativas públicas de su comunidad, de acuerdo con el reglamento respectivo;
+f. Hacer uso racional y responsable de los servicios, instalaciones y equipamiento de las instituciones educativas públicas de su comunidad, de acuerdo con el reglamento respectivo;
 
-g. Participar a través de formas asociativas, legalmente establecidas, cn los procesos para realizar el mantenimiento de las instalaciones y la provisión de scrvicios no académicos de las instituciones educativas públicas;
+g. Participar a través de formas asociativas, legalmente establecidas, en los procesos para realizar el mantenimiento de las instalaciones y la provisión de servicios no académicos de las instituciones educativas públicas;
 
-h. Promover la articulación y coordinacion de las instancias estatales y privadas para garantizar la protección social integral de las y los estudiantes y condiciones adecuadas para el desarrollo del proceso educativo;
+h. Promover la articulación y coordinación de las instancias estatales y privadas para garantizar la protección social integral de las y los estudiantes y condiciones adecuadas para el desarrollo del proceso educativo;
 
-i. Participar, de conformidad con la Constitución de la República y la presente Ley, cn la construcción de un proceso de identificación con los centros cducativos ubicados en su respectiva comunidad;
+i. Participar, de conformidad con la Constitución de la República y la presente Ley, en la construcción de un proceso de identificación con los centros educativos ubicados en su respectiva comunidad;
 
 j. Interesarse activamente en el conocimiento de las realidades institucionales de los centros educativos de su respectiva comunidad; y,
 
-k. Fomentar un proceso de conocimiento y mutuo respcto entre la comunidad organizada y los ccntros educativos de su respectiva comunidad.
+k. Fomentar un proceso de conocimiento y mutuo respeto entre la comunidad organizada y los centros educativos de su respectiva comunidad.
 
 **Art. 18.- Obligaciones.-** Las y los miembros de la comunidad tienen las siguientes obligaciones:
 
-a. Propiciar la convivencia armónica y la resolución pacifica de los conflictos en la comunidad educativa;
+a. Propiciar la convivencia armónica y la resolución pacífica de los conflictos en la comunidad educativa;
 
 b. Mantener un ambiente propicio para el desarrollo de las actividades educativas, alrededor de los planteles escolares;
 
-c. Respetar y cuidar las instalaciones y recursos educativos; asi como participar, en lo que fuera posible en cl mantenimiento y mejoramiento de las
+c. Respetar y cuidar las instalaciones y recursos educativos; así como participar, en lo que fuera posible, en el mantenimiento y mejoramiento de las
 instalaciones físicas de las instituciones educativas públicas;
 
-d. Respetar y proteger la integridad física, psicológica y sexual de las y los estudiantes y en general de todos los miembros de la comunidad; y
+d. Respetar y proteger la integridad física, psicológica y sexual de las y los estudiantes y en general de todos los miembros de la comunidad; y,
 
 e. Cumplir con los deberes que deriven de su participación en formas asociativas para la prestación de servicios no académicos relacionados con el quehacer educativo.
 
@@ -836,7 +836,7 @@ d. Organizar la provisión de servicios para el desarrollo del talento humano de
 
 e. Aprobar con la participación de todos los actores del proceso educativo, democrática, participativa e inclusiva el Plan Nacional de Educación, los programas y proyectos que deban desarrollarse a nivel nacional y vigilar su correcta y oportuna ejecución;
 
-f. Desarrollar y estimular la investigación científica, pedagógica, tecnológica y de conocimientos.
+f. Desarrollar y estimular la investigación científica, pedagógica, tecnológica y de conocimientos
 ancestrales, en coordinación con otros organismos del Estado;
 
 g. Fomentar y estimular la publicación de textos y libros nacionales de valor educativo, cultural, lingüístico, artístico y científico, libres de contenidos e imágenes sexistas y discriminatorias;
@@ -1050,7 +1050,7 @@ Los gobiernos escolares contarán con el sistema denominado "silla vacía", para
 
 Art. 35.- Restricciones.- La representación en los gobiernos escolares constituye un servicio comunitario, por lo tanto sus miembros no perciben remuneración y/o dieta por tal servicio. No podrán manejar fondos ni intervenir en la administración de los establecimientos.
 
-Art. 36.- De la relación con los gobiernos autónomos municipales.- Sin perjuicio de lo establecido en la Constitución de la Republica, las leyes y, en particular, el Código Orgánico de Organización Territorial, Autonomía y Descentralización, son responsabilidades de los gobiernos autónomos municipales, en relación con los centros educativos, las siguientes:
+Art. 36.- De la relación con los gobiernos autónomos municipales.- Sin perjuicio de lo establecido en la Constitución de la República, las leyes y, en particular, el Código Orgánico de Organización Territorial, Autonomía y Descentralización, son responsabilidades de los gobiernos autónomos municipales, en relación con los centros educativos, las siguientes:
 
 a. Brindar seguridad física de los establecimientos educativos frente a riesgos naturales y antrópicos;
 
@@ -1071,7 +1071,7 @@ h. Apoyar la provisión de sistemas de acceso a las tecnologías de la informaci
 i. Dar mantenimiento de redes de bibliotecas, hemerotecas y centros de información, cultura y arte vinculadas con las necesidades del sistema educativo.
 # CAPÍTULO QUINTO
 
-## DE LA ESTRUCTURA DEL SISTEMA NACIONAL DE EDUCACION
+## DE LA ESTRUCTURA DEL SISTEMA NACIONAL DE EDUCACIÓN
 
 Art. 37.- Composición.- El Sistema Nacional de Educación comprende los tipos, niveles y modalidades educativas, además de las instituciones, programas, políticas, recursos y actores del proceso educativo, así como acciones en los niveles de educación inicial, básica y bachillerato, y estará articulado con el Sistema de Educación Superior.
 
@@ -1087,7 +1087,7 @@ Las personas menores de quince años con escolaridad inconclusa tienen derecho a
 
 Los ciudadanos con escolaridad inconclusa recibirán educación general básica, que incluye alfabetización y bachillerato escolarizados o no escolarizados.
 
-Art. 39.- La educación escolarizada.- Tiene tres niveles: nivel de educación inicial, nivel de educación básico y nivel de educación bachillerato.
+Art. 39.- La educación escolarizada.- Tiene tres niveles: nivel de educación inicial, nivel de educación básica y nivel de educación bachillerato.
 
 Art. 40.- Nivel de educación inicial.- El nivel de educación inicial es el proceso de acompañamiento al desarrollo integral que considera los aspectos cognitivo, afectivo, psicomotriz, social, de identidad, autonomía y pertenencia a la comunidad y región de los niños y niñas desde los tres años hasta los cinco años de edad, garantiza y respeta sus derechos, diversidad cultural y lingüística, ritmo propio de crecimiento y aprendizaje, y potencia sus capacidades, habilidades y destrezas.
 
@@ -1105,7 +1105,7 @@ Art. 41.- Coordinación interinstitucional.- La Autoridad Educativa Nacional pro
 
 Dicha Autoridad desarrollará mecanismos que permitan a la educación inicial complementar y articular transversalmente los programas de protección, salud y nutrición.
 
-Art. 42.- Nivel de educación general básica. La educación general básica desarrolla las capacidades habilidades, destrezas y competencias de las niñas, niños y adolescentes desde los cinco años de edad en adelante, para participar en forma crítica, responsable y solidaria en la vida ciudadana y continuar los estudios de bachillerato. La educación general básica está compuesta por diez años de atención obligatoria en los que se refuerzan, amplían y profundizan las capacidades y competencias adquiridas en la etapa anterior, y se introducen las disciplinas básicas garantizando su diversidad cultural y lingüística.
+Art. 42.- Nivel de educación general básica.- La educación general básica desarrolla las capacidades, habilidades, destrezas y competencias de las niñas, niños y adolescentes desde los cinco años de edad en adelante, para participar en forma crítica, responsable y solidaria en la vida ciudadana y continuar los estudios de bachillerato. La educación general básica está compuesta por diez años de atención obligatoria en los que se refuerzan, amplían y profundizan las capacidades y competencias adquiridas en la etapa anterior, y se introducen las disciplinas básicas garantizando su diversidad cultural y lingüística.
 
 Art. 43.- Nivel de educación bachillerato.- El bachillerato general unificado comprende tres años de educación obligatoria a continuación de la educación general básica. Tiene como propósito brindar a las personas una formación general y una preparación interdisciplinaria que las guíe para la elaboración de proyectos de vida y para integrarse a la sociedad como seres humanos responsables, críticos y solidarios. Desarrolla en los y las estudiantes capacidades permanentes de aprendizaje y competencias ciudadanas, y los prepara para el trabajo, el emprendimiento, y para el acceso a la educación superior. Los y los estudiantes de bachillerato cursarán un tronco común de asignaturas generales y podrán optar por una de las siguientes opciones:
 
@@ -1114,82 +1114,82 @@ a. Bachillerato en ciencias: además de las asignaturas del tronco común, ofrec
 b. Bachillerato técnico: además de las asignaturas del tronco común, ofrecerá una formación complementaria en áreas técnicas, artesanales, deportivas o artísticas que permitan a las y los estudiantes ingresar al mercado laboral e iniciar actividades de emprendimiento social o económico. Las instituciones educativas que ofrezcan este tipo de bachillerato podrán constituirse en unidades educativas de producción, donde tanto las y los docentes como las y
 24
 
-los estudiantes puedan recibir una bonificacion por la actividad productiva de su establecimiento.
+los estudiantes puedan recibir una bonificación por la actividad productiva de su establecimiento.
 
-Art. 44.- Bachilleratos complementarios. Son aquellos que fortalecen la formacion obtenida en el bachillerato general unificado. Son de dos tipos:
+Art. 44.- Bachilleratos complementarios.- Son aquellos que fortalecen la formación obtenida en el bachillerato general unificado. Son de dos tipos:
 
-a. Bachillerato tecnico productivo.- Es complementario al bachillerato técnico, es de carácter optativo y dura un ano adicional. Tiene como propósito fundamental desarrollar capacidades y competencias especificas adicionales a las del bachillerato tecnico. Puede ofrecerse en los mismos centros educativos donde funcione el bachillerato tecnico, los cuales también podran constituirse en unidades educativas de produccion; y,
+a. Bachillerato técnico productivo.- Es complementario al bachillerato técnico, es de carácter optativo y dura un año adicional. Tiene como propósito fundamental desarrollar capacidades y competencias específicas adicionales a las del bachillerato técnico. Puede ofrecerse en los mismos centros educativos donde funcione el bachillerato técnico, los cuales también podrán constituirse en unidades educativas de producción; y,
 
-b. Bachillerato artistico. Comprende la formacion complementaria y especializada cn artes; es escolarizada, secuenciada y progresiva, y conlleva a la obtencion de un titulo de Bachiller en Artes en su espccialidad que habilitara exclusivamente para su incorporacion en la vida laboral y productiva asi como para continuar con estudios artisticos de tercer nivel. Su régimen y estructura responden a estandares y curriculos definidos por la Autoridad Educativa Nacional.
+b. Bachillerato artístico.- Comprende la formación complementaria y especializada en artes; es escolarizada, secuenciada y progresiva, y conlleva a la obtención de un título de Bachiller en Artes en su especialidad que habilitará exclusivamente para su incorporación en la vida laboral y productiva así como para continuar con estudios artísticos de tercer nivel. Su régimen y estructura responden a estándares y currículos definidos por la Autoridad Educativa Nacional.
 
-Art 45. Todos los titulos de bachillerato emitidos por la Autoridad Educativa Nacional, estan homologados y habilitan para las diferentes carreras que ofrece la educación superior.
+Art. 45.- Todos los títulos de bachillerato emitidos por la Autoridad Educativa Nacional, están homologados y habilitan para las diferentes carreras que ofrece la educación superior.
 
-Art. 46.- Modalidades del Sistema Nacional de Educación. El Sistema Nacional de Educacion tiene tres modalidades:
+Art. 46.- Modalidades del Sistema Nacional de Educación.- El Sistema Nacional de Educación tiene tres modalidades:
 
-a. Modalidad de educacion presencial.- La educación presencial se rige por el cumplimiento dc normas de asistencia regular al establecimiento educativo durante el año Icctivo, cuya duracion es de doscientos dias laborables de regimen cscolar, en jornada matutina, vespertina y/o nocturna;
+a. Modalidad de educación presencial.- La educación presencial se rige por el cumplimiento de normas de asistencia regular al establecimiento educativo durante el año lectivo, cuya duración es de doscientos días laborables de régimen escolar, en jornada matutina, vespertina y/o nocturna;
 
-b. Modalidad de educación semipresencial.- Es la que no exige asistencia regular al establecimiento educativo y requiere de un trabajo estudiantil independiente con un requisito de acompanamiento presencial periodico. La modalidad semipresencial puede realizarse a traves de internet o de otros medios de comunicacion; y,
+b. Modalidad de educación semipresencial.- Es la que no exige asistencia regular al establecimiento educativo y requiere de un trabajo estudiantil independiente con un requisito de acompañamiento presencial periódico. La modalidad semipresencial puede realizarse a través de internet o de otros medios de comunicación; y,
 
-c. Modalidad a distancia.- Es la que propone un proceso autonomo de las y los estudiantes, con acompanamiento no presencial de una o un tutor o guia y de instrumentos pedagogicos de apoyo. La modalidad a distancia puede realizarse a través de internet o de otros medios de comunicación. La Autoridad Nacional de Educación incorporará una oferta educativa que garantice la implementación de esta modalidad a través de un programa de Educación para adultos de ejecución en los países de acogida de ecuatorianos y ecuatorianas en el exterior. Se considerarán las mayores facilidades posibles para la inclusión de personas en movilidad y mecanismos ágiles de acreditación de estudios.
+c. Modalidad a distancia.- Es la que propone un proceso autónomo de las y los estudiantes, con acompañamiento no presencial de una o un tutor o guía y de instrumentos pedagógicos de apoyo. La modalidad a distancia puede realizarse a través de internet o de otros medios de comunicación. La Autoridad Nacional de Educación incorporará una oferta educativa que garantice la implementación de esta modalidad a través de un programa de Educación para adultos de ejecución en los países de acogida de ecuatorianos y ecuatorianas en el exterior. Se considerarán las mayores facilidades posibles para la inclusión de personas en movilidad y mecanismos ágiles de acreditación de estudios.
 
-Las modalidades de educacion semipresencial y a distancia tendrán que cumplir con los mismos estándares y exigencia académica de la educación presencial. Estas modalidades abarcaran todos los niveles en las especialidades autorizadas por la presente Ley.
+Las modalidades de educación semipresencial y a distancia tendrán que cumplir con los mismos estándares y exigencia académica de la educación presencial. Estas modalidades abarcarán todos los niveles en las especialidades autorizadas por la presente Ley.
 
-# CAPITULO SEXTO
+# CAPÍTULO SEXTO
 
-## DE LAS NECESIDADES EDUCATIVAS ESPECIFICAS
+## DE LAS NECESIDADES EDUCATIVAS ESPECÍFICAS
 
 Art. 47.- Educación para las personas con discapacidad.- Tanto la educación formal como la no formal tomarán en cuenta las necesidades educativas especiales de las personas en lo afectivo, cognitivo y psicomotriz.
 
 La Autoridad Educativa Nacional velará porque esas necesidades educativas especiales no se conviertan en impedimento para el acceso a la educación.
 
-El Estado ecuatoriano garantizará la inclusión e integración de estas personas en los cstablecimientos educativos, eliminando las barreras de su aprendizaje.
+El Estado ecuatoriano garantizará la inclusión e integración de estas personas en los establecimientos educativos, eliminando las barreras de su aprendizaje.
 
-Todos los alumnos deberán ser evaluados, si requiere el caso, para establecer sus necesidades educativas y las caracteristicas de la educacion que necesita. El sistema educativo promoverá la deteccion y atencion temprana a problemas de aprendizaje especial y factores asociados al aprendizaje que pongan en riesgo a estos ninos, ninas y jovenes, y tomaran medidas para promover su recuperación y evitar su rezago o exclusión escolar.
+Todos los alumnos deberán ser evaluados, si requiere el caso, para establecer sus necesidades educativas y las características de la educación que necesita. El sistema educativo promoverá la detección y atención temprana a problemas de aprendizaje especial y factores asociados al aprendizaje que pongan en riesgo a estos niños, niñas y jóvenes, y tomarán medidas para promover su recuperación y evitar su rezago o exclusión escolar.
 
-Los establecimientos educativos estan obligados a recibir a todas las personas con discapacidad a crear los apoyos y adaptaciones fisicas, curriculares y de promocion adecuadas a sus necesidades; y a procurar la capacitación del personal docente en las areas de metodologia y evaluación especificas para la enseñanza de niños con capacidades para el proceso con interaprendizaje para una atencion de calidad y calidez.
+Los establecimientos educativos están obligados a recibir a todas las personas con discapacidad a crear los apoyos y adaptaciones físicas, curriculares y de promoción adecuadas a sus necesidades; y a procurar la capacitación del personal docente en las áreas de metodología y evaluación específicas para la enseñanza de niños con capacidades para el proceso con interaprendizaje para una atención de calidad y calidez.
 
-Los establecimientos educativos destinados exclusivamente a personas con discapacidad, sc justifican unicamente para casos excepcionales; es decir, para los casos en quc después de haber realizado todo lo que se ha mencionado anteriormente sea imposible la inclusión.
+Los establecimientos educativos destinados exclusivamente a personas con discapacidad, se justifican únicamente para casos excepcionales; es decir, para los casos en que después de haber realizado todo lo que se ha mencionado anteriormente sea imposible la inclusión.
 
-Art. 48.- Educacion para ninas, niños, adolescentes, jovenes y adultos con dotación superior.- Las ninas, niñios, adolescentes, jovenes y adultos con dotacion superior tendrán derecho a la educación especial correspondiente a sus capacidades. Se deben incluir, a las niñas, niños, adolescentes y jóvenes en las instituciones educativas del Sistema Nacional de Educación, en sus diferentes niveles y modalidades, garantizando la articulacion curricular, infraestructura y materiales acordes con su dotación superior y su pertinencia cultural y lingüistica.
+Art. 48.- Educación para niñas, niños, adolescentes, jóvenes y adultos con dotación superior.- Las niñas, niños, adolescentes, jóvenes y adultos con dotación superior, tendrán derecho a la educación especial correspondiente a sus capacidades. Se deben incluir, a las niñas, niños, adolescentes y jóvenes en las instituciones educativas del Sistema Nacional de Educación, en sus diferentes niveles y modalidades, garantizando la articulación curricular, infraestructura y materiales acordes con su dotación superior y su pertinencia cultural y lingüística.
 
-Art. 49.- Educación artesanal.- La educación artesanal se ofrece a personas adultas con escolaridad inconclusa que descan culminar la educacion gencral básica y el bachillerato y además obtener formacion artesanal.
+Art. 49.- Educación artesanal.- La educación artesanal se ofrece a personas adultas con escolaridad inconclusa que deseen culminar la educación general básica y el bachillerato y además obtener formación artesanal.
 
 Art. 50.- Educación para personas con escolaridad inconclusa.- La educación para jóvenes y adultos con escolaridad inconclusa es un servicio educativo para
-quienes no hayan podido acceder a la educación escolarizada obligatoria en la edad correspondiente. Este tipo de educacion mantiene el enfoque curricular y los ejes que atraviesan el curriculo de los niveles descritos con anterioridad, pero con las caracteristicas propias de la etapa adulta, privilcgiando los intcrcses y objetivos de ésta.
+quienes no hayan podido acceder a la educación escolarizada obligatoria en la edad correspondiente. Este tipo de educación mantiene el enfoque curricular y los ejes que atraviesan el currículo de los niveles descritos con anterioridad, pero con las características propias de la etapa adulta, privilegiando los intereses y objetivos de ésta.
 
-El Estado, para garantizar el acceso universal a la educación, impulsará politicas y programas especiales y dotará de los recursos necesarios que faciliten la escolarización regular de las niñas, niños y adolescentes que, por distintas particularidades o circunstancias de inequidad social, presenten dificultades de inserción educativa, desfase escolar significativo o que, por cualquier motivo, demanden intervenciones compensatorias en razón de su incorporación tardia a la educación.
+El Estado, para garantizar el acceso universal a la educación, impulsará políticas y programas especiales y dotará de los recursos necesarios que faciliten la escolarización regular de las niñas, niños y adolescentes que, por distintas particularidades o circunstancias de inequidad social, presenten dificultades de inserción educativa, desfase escolar significativo o que, por cualquier motivo, demanden intervenciones compensatorias en razón de su incorporación tardía a la educación.
 
-Asi mismo, definirá impulsará politicas, programas y recursos dirigidas a las mujeres que no han tenido acceso a la educación o tienen rezago educativo, a fin de asegurar y promover la igualdad real entre hombres y mujeres.
+Así mismo, definirá impulsará políticas, programas y recursos dirigidas a las mujeres que no han tenido acceso a la educación o tienen rezago educativo, a fin de asegurar y promover la igualdad real entre hombres y mujeres.
 
-**Art. 51.- Educación en situaciones excepcionalcs.-** El Estado garantiza el acceso y permanencia a la educación básica y bachillerato a todas las personas que por, cualquier motivo, se encuentren en situaciones tales como privación de libertad, enfermedades prolongadas, necesidad de protección y otras que no les permitan acudir a instituciones educativas.
+**Art. 51.- Educación en situaciones excepcionales.-** El Estado garantiza el acceso y permanencia a la educación básica y bachillerato a todas las personas que por, cualquier motivo, se encuentren en situaciones tales como privación de libertad, enfermedades prolongadas, necesidad de protección y otras que no les permitan acudir a instituciones educativas.
 
-El Estado, a través de la Autoridad Educativa Nacional, dictará las politicas y programas especiales que garanticen el acceso a la educación de las niñas, niños y adolescentes en condición de doble vulnerabilidad, madres adolescentes, asi como en los casos en quc el padrc o la madre se encuentren privados de su libertad.
+El Estado, a través de la Autoridad Educativa Nacional, dictará las políticas y programas especiales que garanticen el acceso a la educación de las niñas, niños y adolescentes en condición de doble vulnerabilidad, madres adolescentes, así como en los casos en que el padre o la madre se encuentren privados de su libertad.
 
-**Art. 52.- Del reconocimiento de estudios en el exterior.-** Para el reconocimicnto de niveles cursados en el exterior y de los titulos de bachiller o su equivalente obtenidos en el extranjero, se aplicarán el principio de reciprocidad y la homologación. Para tal efecto, se aplicarán criterios de flexibilidad y razonabilidad, anteponiendo además los derechos de igualdad y cquidad, el interés de la comunidad educativa, la interculturalidad y el Interés Superior del Niño.
+**Art. 52.- Del reconocimiento de estudios en el exterior.-** Para el reconocimiento de niveles cursados en el exterior y de los títulos de bachiller o su equivalente obtenidos en el extranjero, se aplicarán el principio de reciprocidad y la homologación. Para tal efecto, se aplicarán criterios de flexibilidad y razonabilidad, anteponiendo además los derechos de igualdad y equidad, el interés de la comunidad educativa, la interculturalidad y el Interés Superior del Niño.
 
-La Autoridad Educativa Nacional reformulará las politicas que sean necesarias para facilitar el ingreso, nivelación e integración de las y los estudiantes que opten por ingresar al Sistema Nacional dc Educación escolarizado del pais, en cada uno de sus niveles. En ningún caso, las autoridadcs dcl ramo dictarán resoluciones que limiten el derecho a la educación de persona alguna, sin importar cual fuere su condición u origen.
+La Autoridad Educativa Nacional reformulará las políticas que sean necesarias para facilitar el ingreso, nivelación e integración de las y los estudiantes que opten por ingresar al Sistema Nacional de Educación escolarizado del país, en cada uno de sus niveles. En ningún caso, las autoridades del ramo dictarán resoluciones que limiten el derecho a la educación de persona alguna, sin importar cual fuere su condición u origen.
 
 # CAPÍTULO SÉPTIMO
 
 ## DE LAS INSTITUCIONES EDUCATIVAS
 
-**Art. 53.- Tipos de instituciones.-** Las instituciones educativas pueden ser públicas, municipales, fiscomisionales y particulares, sean éstas últimas nacionales o binacionales, cuya finalidad es impartir educación escolarizada a las niñas, niños, adolescentes, jóvenes y adultos segun sea el caso.
+**Art. 53.- Tipos de instituciones.-** Las instituciones educativas pueden ser públicas, municipales, fiscomisionales y particulares, sean éstas últimas nacionales o binacionales, cuya finalidad es impartir educación escolarizada a las niñas, niños, adolescentes, jóvenes y adultos según sea el caso.
 
-La Autoridad Educativa Nacional es la responsable de autorizar la constitución y funcionamiento dc todas las instituciones educativas y ejercer, de conformidad con la Constitución de la República y la Ley, la supervisión y control de las mismas, que tendrán un carácter inclusivo y cumplirán con las normas de accesibilidad para las personas con discapacidad, ofreciendo adecuadas condiciones arquitectónicas, tecnológicas y comunicacionales para tal efecto.
+La Autoridad Educativa Nacional es la responsable de autorizar la constitución y funcionamiento de todas las instituciones educativas y ejercer, de conformidad con la Constitución de la República y la Ley, la supervisión y control de las mismas, que tendrán un carácter inclusivo y cumplirán con las normas de accesibilidad para las personas con discapacidad, ofreciendo adecuadas condiciones arquitectónicas, tecnológicas y comunicacionales para tal efecto.
 
 El régimen escolar de las instituciones educativas estará definido en el reglamento a la presente Ley.
 
-Las instituciones educativas cumplen una función social, son espacios articulados a sus respectivas comunidades y, tanto las públicas como las privadas y fiscomisionales, se articulan entre si como parte del Sistema Nacional de Educación, debiendo cumplir los fincs, principios y disposiciones de la presente I.ey. Los centros educativos, incluidos los privados si asi lo deciden, son espacios públicos.
+Las instituciones educativas cumplen una función social, son espacios articulados a sus respectivas comunidades y, tanto las públicas como las privadas y fiscomisionales, se articulan entre sí como parte del Sistema Nacional de Educación, debiendo cumplir los fines, principios y disposiciones de la presente Ley. Los centros educativos, incluidos los privados si así lo deciden, son espacios públicos.
 
-**Art. 54.- Instituciones educativas públicas.-** Las instituciones educativas públicas son: fiscales 0 municipales, de fuerzas armadas o policiales. La educación impartida por estas instituciones es gratuita, por lo tanto no tiene costo para los beneficiarios. Su educación es laica y gratuita para cl beneficiario. La comunidad tiene derecho a la utilización responsable de las instalaciones y servicios de las instituciones educativas públicas para actividades culturales, artisticas, deportivas, de recreacion y esparcimiento que promuevan el desarrollo comunitario y su acceso, organización y funcionamiento será normado en el Reglamento respectivo.
+**Art. 54.- Instituciones educativas públicas.-** Las instituciones educativas públicas son: fiscales o municipales, de fuerzas armadas o policiales. La educación impartida por estas instituciones es gratuita, por lo tanto no tiene costo para los beneficiarios. Su educación es laica y gratuita para el beneficiario. La comunidad tiene derecho a la utilización responsable de las instalaciones y servicios de las instituciones educativas públicas para actividades culturales, artísticas, deportivas, de recreación y esparcimiento que promuevan el desarrollo comunitario y su acceso, organización y funcionamiento será normado en el Reglamento respectivo.
 
-En cuanto a su financiamiento, los establecimientos que se hallan dirigidos o rcgcntados por las Fuerzas Armiadas o la Policia Nacional, se acogerán al mismo régimen financiero de las instituciones educativas fiscomisionales.
+En cuanto a su financiamiento, los establecimientos que se hallan dirigidos o regentados por las Fuerzas Armadas o la Policía Nacional, se acogerán al mismo régimen financiero de las instituciones educativas fiscomisionales.
 
-En el servicio de educación publica podrá participar el voluntariado, entendiéndose como aquellas actividades realizadas libremente por personas, que de manera desinteresada y sin contraprestación económica, busquen ayudar en las actividades educativas. La actividad del voluntariado no genera relación laboral o de dependencia alguna.
+En el servicio de educación pública podrá participar el voluntariado, entendiéndose como aquellas actividades realizadas libremente por personas, que de manera desinteresada y sin contraprestación económica, busquen ayudar en las actividades educativas. La actividad del voluntariado no genera relación laboral o de dependencia alguna.
 
-La Autoridad Educativa Nacional regulará el voluntariado, y ejercerá el control de que sus actividades se sujeten a las disposiciones de la Constitución de la Rcpública, csta Ley y su Reglamento.
+La Autoridad Educativa Nacional regulará el voluntariado, y ejercerá el control de que sus actividades se sujeten a las disposiciones de la Constitución de la República, esta Ley y su Reglamento.
 
-La Autoridad Educativa Nacional, reconocerá los gastos en que el voluntario incurra en el desempeño de sus actividades; este reconocimiento sc realizará bajo los criterios que para el efecto se defina mediante Acuerdo Ministerial.
+La Autoridad Educativa Nacional, reconocerá los gastos en que el voluntario incurra en el desempeño de sus actividades; este reconocimiento se realizará bajo los criterios que para el efecto se defina mediante Acuerdo Ministerial.
 
 **Art. 55.- Instituciones educativas fiscomisionales.-** Son instituciones educativas fiscomisionales aquellas cuyos promotores son congregaciones, órdenes o cualquiera otra denominación confesional o laica. Son de carácter religioso o laica, de derecho privado y sin fines de lucro, garantizando una educación gratuita y de calidad.
 17
@@ -1316,7 +1316,7 @@ f. Sancionar a la máxima autoridad de la institución educativa en caso de incu
 
 g. Las demás funciones establecidas en el reglamento a la presente Ley.
 
-## CAPITULO NOVENO
+## CAPÍTULO NOVENO
 
 ### DEL INSTITUTO NACIONAL DE EVALUACIÓN EDUCATIVA
 
@@ -1324,13 +1324,13 @@ Art. 67.- Instituto Nacional de Evaluación Educativa.- De conformidad con lo di
 
 Es competencia del mencionado Instituto la evaluación integral del Sistema Nacional de Educación. Para el cumplimiento de este fin, se regirá por sus propios estatutos y reglamentos.
 
-Art. 68.- Sistema Nacional de Evaluación y sus componentes: El Instituto realizará la evaluación integral interna y externa del Sistema Nacional de Educación y establecerá los indicadores de la calidad de la educación, que se aplicarán a través de la evaluación continua de los siguientes componentes: gestión educativa de las autoridades educativas, desempeño del rendimiento académico de las y los estudiantes, desempeño de los directivos y docentes, gestión escolar, desempeño institucional, aplicación del currículo, entre otros, siempre de acuerdo a los estándares de evaluación definidos por la Autoridad Educativa Nacional y otros que el Instituto considere técnicamente pertinentes.
+Art. 68.- Sistema Nacional de Evaluación y sus componentes.- El Instituto realizará la evaluación integral interna y externa del Sistema Nacional de Educación y establecerá los indicadores de la calidad de la educación, que se aplicarán a través de la evaluación continua de los siguientes componentes: gestión educativa de las autoridades educativas, desempeño del rendimiento académico de las y los estudiantes, desempeño de los directivos y docentes, gestión escolar, desempeño institucional, aplicación del currículo, entre otros, siempre de acuerdo a los estándares de evaluación definidos por la Autoridad Educativa Nacional y otros que el Instituto considere técnicamente pertinentes.
 
 Para asegurar la correspondencia de las evaluaciones con los instrumentos antes mencionados se instrumentarán procesos de coordinación entre el Instituto y la Autoridad Educativa Nacional. La evaluación del sistema de educación intercultural bilingüe se realizará en las lenguas de las respectivas nacionalidades, además del castellano de conformidad con el modelo y currículo nacional.
 
 La Autoridad Educativa Nacional deberá proporcionar al Instituto de Evaluaciones, toda la información disponible que este requiera para cumplir con sus propósitos y funciones.
 
-Art. 69.- Funciones y atribuciones del Instituto Nacional de Evaluación Educativa. Serán sus principales funciones:
+Art. 69.- Funciones y atribuciones del Instituto Nacional de Evaluación Educativa.- Serán sus principales funciones:
 
 a. Diseñar y aplicar pruebas y otros instrumentos de evaluación para determinar la calidad del desempeño de estudiantes, docentes y directivos, del sistema escolar, de acuerdo con un plan estratégico de cuatro años;
 
@@ -1352,7 +1352,7 @@ i. Las demás que se establecen en la presente Ley y sus reglamentos.
 
 Art. 70.- Organización del Instituto Nacional de Evaluación Educativa.- El Instituto Nacional de Evaluación Educativa está constituido por niveles de decisión, ejecución, asesoría y operatividad, y, contará con la estructura técnica, académica y operativa necesaria para cumplir efectivamente su objetivo, de conformidad con sus respectivos estatutos y reglamentos.
 
-Art. 71.- Junta Directiva del Instituto Nacional de Evaluación Educativa. La máxima instancia de decisión del Instituto será la Junta Directiva, compuesta por tres miembros: un delegado del Presidente de la República, quien la presidirá, un delegado de la Secretaría Nacional de Educación Superior, Ciencia, Tecnología e Innovación, y, un delegado de la Secretaría Nacional de Planificación y Desarrollo.
+Art. 71.- Junta Directiva del Instituto Nacional de Evaluación Educativa.- La máxima instancia de decisión del Instituto será la Junta Directiva, compuesta por tres miembros: un delegado del Presidente de la República, quien la presidirá, un delegado de la Secretaría Nacional de Educación Superior, Ciencia, Tecnología e Innovación, y, un delegado de la Secretaría Nacional de Planificación y Desarrollo.
 
 Art. 72.- Requisitos para ser miembro de la Junta Directiva del Instituto Nacional de Evaluación Educativa.- Para ser miembro de la Junta Directiva del Instituto Nacional de Evaluación Educativa se deberán reunir los siguientes requisitos:
 
@@ -1411,9 +1411,9 @@ Los institutos pedagógicos se articularán académicamente a la Universidad Nac
 
 ### CAPÍTULO PRIMERO
 
-### DEL SISTEMA DE EDUCACION INTERCULTURAL BILINGÜE
+### DEL SISTEMA DE EDUCACIÓN INTERCULTURAL BILINGÜE
 
-Art. 77.- Sistema de Educación Intercultural Bilingüe.- El Sistema de Educación Intercultural Bilingüe (SEIB) es parte sustancial del Sistema Nacional de Educación, a través de la Subsecretaria de Educación Intercultural Bilingüe, de manera desconcentrada y con respeto a los derechos de las comunas, comunidades, pueblos y nacionalidades indígenas.
+Art. 77.- Sistema de Educación Intercultural Bilingüe.- El Sistema de Educación Intercultural Bilingüe (SEIB) es parte sustancial del Sistema Nacional de Educación, a través de la Subsecretaría de Educación Intercultural Bilingüe, de manera desconcentrada y con respeto a los derechos de las comunas, comunidades, pueblos y nacionalidades indígenas.
 
 El Sistema de Educación Intercultural Bilingüe comprende el conjunto articulado de todas las políticas, normas e integrantes de la comunidad educativa desde el nivel comunitario, circuitos educativos, distrital y zonal, que tengan relación directa con los procesos de aprendizajes en idiomas ancestrales y oficiales.
 
@@ -1426,7 +1426,7 @@ La malla curricular del Sistema de Educación Intercultural Bilingüe se desarro
 
 ### DE LOS FUNDAMENTOS, OBJETIVOS Y FINES DEL SISTEMA DE EDUCACIÓN INTERCULTURAL BILINGÜE
 
-Art. 79. Fundamentos.- El Sistema de Educación Intercultural Bilingüe se sustenta en los siguientes fundamentos, que se transversalizan en el Sistema Nacional de Educación:
+Art. 79.- Fundamentos.- El Sistema de Educación Intercultural Bilingüe se sustenta en los siguientes fundamentos, que se transversalizan en el Sistema Nacional de Educación:
 
 a. Respeto y cuidado a la Pachamama;
 
@@ -1481,25 +1481,25 @@ d. Procurar la creación de instituciones educativas interculturales bilingües,
 e. Promover la formación de profesionales interculturales bilingües y plurilingües, en las especialidades requeridas por las comunas, comunidades, pueblos y nacionalidades del País; y,
 31
 
-f. Cumplir los tratados e instrumentos intcrnacionales para la ejecución de programas educativos interculturales bilingücs.
+f. Cumplir los tratados e instrumentos internacionales para la ejecución de programas educativos interculturales bilingües.
 
-Art. 83.-. Estructura del Sistema de Educación Intercultural Bilingüe (SEIB).- El Sistema de Educación Intercultural Bilingüe tiene la siguiente estructura:
+Art. 83.- Estructura del Sistema de Educación Intercultural Bilingüe (SEIB).- El Sistema de Educación Intercultural Bilingüe tiene la siguiente estructura:
 
-a. La Autoridad Educativa Nacional;.
+a. La Autoridad Educativa Nacional;
 
 b. El Consejo Plurinacional del Sistema Intercultural Bilingüe;
 
-C. Subsecretaria del Sistema de Educación Intercultural Bilingüe, con sus niveles desconcentrados: zonal, distrital, circuital y comunitario; y los organismos de coordinación en los respectivos niveles;
+c. Subsecretaría del Sistema de Educación Intercultural Bilingüe, con sus niveles desconcentrados: zonal, distrital, circuital y comunitario; y los organismos de coordinación en los respectivos niveles;
 
-d. La Dirección Nacional dc Educación Intercultural Bilingüe; y,
+d. La Dirección Nacional de Educación Intercultural Bilingüe; y,
 
 e. El Instituto de Idiomas, Ciencias y Saberes Ancestrales del Ecuador.
 
 Art. 84.- Atribuciones y deberes del Consejo Plurinacional de Educación Intercultural Bilingüe.- El Consejo Plurinacional de Educación Intercultural Bilingüe tiene las siguientes atribuciones y deberes:
 
-a. Proponer las lineas estratégicas para las politicas públicas del Sistema Educativo Intercultural Bilingüe, y priorizar las neccsidades y requerimientos de las nacionalidades y pucblos conforme a sus rcalidades;
+a. Proponer las líneas estratégicas para las políticas públicas del Sistema Educativo Intercultural Bilingüe, y priorizar las necesidades y requerimientos de las nacionalidades y pueblos conforme a sus realidades;
 
-b. Realizar evaluación y seguimiento permanente del cumplimiento de las politicas públicas del SEIB;
+b. Realizar evaluación y seguimiento permanente del cumplimiento de las políticas públicas del SEIB;
 
 c. Viabilizar el control social y rendición de cuentas a las autoridades del Sistema de Educación Intercultural Bilingüe en coordinación con las instancias definidas para el efecto; y,
 
@@ -1519,30 +1519,30 @@ e. El Director o Directora Nacional Intercultural Bilingüe.
 
 Los representantes de cada nacionalidad serán nombrados a través de procesos definidos por las comunidades, respetando los derechos colectivos establecidos en la Constitución de la República y facilitado por el Consejo de Participación Ciudadana.
 
-Art. 86.- El Consejo Plurinacional del Sistcma de Educación Intercultural Bilingüe sesionará ordinariamente de manera semestral, extraordinariamente a petición de la mayoria absoluta de sus integrantes, o cuando lo convoque la Autoridad Educativa Nacional.
+Art. 86.- El Consejo Plurinacional del Sistema de Educación Intercultural Bilingüe sesionará ordinariamente de manera semestral, extraordinariamente a petición de la mayoría absoluta de sus integrantes, o cuando lo convoque la Autoridad Educativa Nacional.
 
-Art. 87.- Son atribucioncs y deberes de la subsecretaria del Sistema de Educación Intercultural Bilingüe:
+Art. 87.- Son atribuciones y deberes de la subsecretaría del Sistema de Educación Intercultural Bilingüe:
 
-a. Definir v formular la politica pública de Educación Intercultural Bilingüe considerando las lineas estratégicas, prioridades y necesidades del SEIB determinadas por el Consejo Plurinacional del SEIB Además revisara y ajustará, de ser el caso, las lineas estratégicas del SEIB al Plan Nacional dc Desarrollo y al Plan Nacional de Educación;
+a. Definir y formular la política pública de Educación Intercultural Bilingüe considerando las líneas estratégicas, prioridades y necesidades del SEIB determinadas por el Consejo Plurinacional del SEIB. Además revisará y ajustará, de ser el caso, las líneas estratégicas del SEIB al Plan Nacional de Desarrollo y al Plan Nacional de Educación;
 
-b. Definir y adoptar estrategias de gestión técnica y financiera dcl Sistema de Educación Intercultural Bilingüe;
+b. Definir y adoptar estrategias de gestión técnica y financiera del Sistema de Educación Intercultural Bilingüe;
 
-c. Proponer estrategias de evaluación y seguimiento permanente del cumplimiento de las politicas públicas del SEIB;
+c. Proponer estrategias de evaluación y seguimiento permanente del cumplimiento de las políticas públicas del SEIB;
 
-d. Participar en los procesos de diagnóstico, en los de planificación, organización, dirección, ejecución, control, evaluación y reforma de planes, programas y proyectos, curriculo, talentos humanos, presupuestos, modalidades, estándares de calidad, investigación cientifica, infraestructura, claboración de materiales y tecnologias educativas del Sistema Nacional de Educación en general, y del Sistema de Educación Intercultural Bilingüe en particular;
+d. Participar en los procesos de diagnóstico, planificación, organización, dirección, ejecución, control, evaluación y reforma de planes, programas y proyectos, currículo, talentos humanos, presupuestos, modalidades, estándares de calidad, investigación científica, infraestructura, elaboración de materiales y tecnologías educativas del Sistema Nacional de Educación en general, y del Sistema de Educación Intercultural Bilingüe en particular;
 
-e. Impulsar, en coordinación con la Universidad de la Educación, el Instituto Nacional de Evaluacion y el Instituto de Lenguas y Saberes Ancestrales; la formación y evaluación continua de los educandos y profesionales de las comunidades, pueblos y nacionalidades indigenas con enfoque intercultural y plurinacional mediante el aprendizaje de los idiomas ancestrales en los ambitos filosófico, cientifico, tecnológico y artistico; y,
+e. Impulsar, en coordinación con la Universidad de la Educación, el Instituto Nacional de Evaluación y el Instituto de Lenguas y Saberes Ancestrales; la formación y evaluación continua de los educandos y profesionales de las comunidades, pueblos y nacionalidades indígenas con enfoque intercultural y plurinacional mediante el aprendizaje de los idiomas ancestrales en los ámbitos filosófico, científico, tecnológico y artístico; y,
 
-f. Las demás que la Ley y los reglainentos determinen.
+f. Las demás que la Ley y los reglamentos determinen.
 
-Art. 88.- Subsecretaria de Educación Intercultural Bilingüe.- La Subsecretaria de Educación Intercultural Bilingüe, especializada en el desarrollo de los conocimientos, ciencias, saberes, tecnologia, cultura, lenguas ancestrales y las lenguas de relación intercultural, es una entidad que se desconcentra administrativa, técnica y financieramente. Será responsable de la planificación, organización, innovación, dirección, control, coordinación de las instancias especializadas en los niveles zonal, distrital, y comunitario del Sistema Educativo Intercultural Bilingüe, para lo cual contará con todos los recursos necesarios. Garantizará la participación en todos los niveles e instancias de la administración educativa a los pueblos y nacionalidades en función de su representatividad.
+Art. 88.- Subsecretaría de Educación Intercultural Bilingüe.- La Subsecretaría de Educación Intercultural Bilingüe, especializada en el desarrollo de los conocimientos, ciencias, saberes, tecnología, cultura, lenguas ancestrales y las lenguas de relación intercultural, es una entidad que se desconcentra administrativa, técnica y financieramente. Será responsable de la planificación, organización, innovación, dirección, control, coordinación de las instancias especializadas en los niveles zonal, distrital, y comunitario del Sistema Educativo Intercultural Bilingüe, para lo cual contará con todos los recursos necesarios. Garantizará la participación en todos los niveles e instancias de la administración educativa a los pueblos y nacionalidades en función de su representatividad.
 
-La Subsecretaria se encargará de transversalizar la interculturalidad en el Sistema y asegurar la pertinencia cultural y lingüistica de los servicios y de la oferta educativa en los ámbitos de su competencia. La estructura organica funcional de la Subsecretaria de Educación
+La Subsecretaría se encargará de transversalizar la interculturalidad en el Sistema y asegurar la pertinencia cultural y lingüística de los servicios y de la oferta educativa en los ámbitos de su competencia. La estructura orgánica funcional de la Subsecretaría de Educación
 Intercultural Bilingüe responderá a las particularidades requeridas por el Sistema de Educación Intercultural Bilingüe.
 
 **Art. 89.- Instituto de Idiomas, Ciencias y Saberes Ancestrales de los Pueblos y Nacionalidades.-** Es una entidad del SEIB adscrita a la Autoridad Nacional de Educación. Se encarga de fortalecer las políticas educativas establecidas por la Autoridad Educativa Nacional y el Consejo plurinacional de Educación Intercultural Bilingüe, promueve el uso y el desarrollo de los saberes, ciencias e idiomas ancestrales de los pueblos y de las nacionalidades. El Estado provee del presupuesto para el funcionamiento de esta entidad.
 
-El titular de esta Institución será designado mediante concurso público de méritos y oposición con parámetros de pertinencia cultural y lingüística y durará en sus funciones cuatro años, pudiendo postularse únicamente para un segundo periodo.
+El titular de esta Institución será designado mediante concurso público de méritos y oposición con parámetros de pertinencia cultural y lingüística y durará en sus funciones cuatro años, pudiendo postularse únicamente para un segundo período.
 
 **Art. 90.- Funciones del Instituto de Idiomas, Ciencias y Saberes Ancestrales.-** El Instituto de Idiomas, Ciencias y Saberes Ancestrales tiene las siguientes funciones:
 
@@ -1658,39 +1658,39 @@ La autoridad nominadora será responsable directa por no llenar la vacante en el
 **Art. 100.- Registro de candidatos elegibles.-** La Autoridad Educativa Nacional creará y organizará un registro de candidatos elegibles para llenar las vacantes. Se denomina candidato elegible al aspirante a docente que aprobó las pruebas definidas por la Autoridad Educativa Nacional.
 
 Solamente se podrán inscribir a los concursos de méritos y oposición para llenar vacantes, los aspirantes a ingresar a la
-carrera educativa pública quc consten en el registro de candidatos elegibles.
+carrera educativa pública que consten en el registro de candidatos elegibles.
 
-**Art. 101.- Bases del concurso.-** En cada concurso dc méritos y oposicion, los candidatos rendirán pruebas de conocimientos gencrales y especificos respecto de la materia de la vacantc a llenar y del nivel, especialidad respectivo y el dominio de un idioma ancestral en el caso de instituciones interculturalcs bilingües. A los puntajes de éstas se sumará la calificación de los méritos, de la clase demostrativa y las bonificacioncs.
+**Art. 101.- Bases del concurso.-** En cada concurso de méritos y oposición, los candidatos rendirán pruebas de conocimientos generales y específicos respecto de la materia de la vacante a llenar y del nivel, especialidad respectivo y el dominio de un idioma ancestral en el caso de instituciones interculturales bilingües. A los puntajes de éstas se sumará la calificación de los méritos, de la clase demostrativa y las bonificaciones.
 
-Se publicarán modclos de pruebas, estructura, bibliografia y temario y otros recursos para referencia de los aspirantes.
+Se publicarán modelos de pruebas, estructura, bibliografía y temario y otros recursos para referencia de los aspirantes.
 
-El contenido de las pruebas, la ponderacion de los factores de calificación y bonificación, los procedimientos especificos y la metodologia de cada etapa del concurso, serán determinados por cl respectivo Reglamento y las regulaciones de la Autoridad Educativa Nacional.
+El contenido de las pruebas, la ponderación de los factores de calificación y bonificación, los procedimientos específicos y la metodología de cada etapa del concurso, serán determinados por el respectivo Reglamento y las regulaciones de la Autoridad Educativa Nacional.
 
-Calificadas las pruebas y los méritos de los candidatos elegibles que se encuentren en el concurso, se publicará el cuadro de puntajes y se convocará a los candidatos finalistas a una clase demostrativa y entrevista en el establccimiento educativo en el cual se esté concursando. La autoridad máxima del establecimiento educativo, con la participación del gobierno escolar, coordinará la conformación del jurado y la recepción de las clases demostrativas y las entrevistas, y entregará los puntajes finales a la instancia desconcentrada respectiva de la Autoridad Educativa Nacional.
+Calificadas las pruebas y los méritos de los candidatos elegibles que se encuentren en el concurso, se publicará el cuadro de puntajes y se convocará a los candidatos finalistas a una clase demostrativa y entrevista en el establecimiento educativo en el cual se esté concursando. La autoridad máxima del establecimiento educativo, con la participación del gobierno escolar, coordinará la conformación del jurado y la recepción de las clases demostrativas y las entrevistas, y entregará los puntajes finales a la instancia desconcentrada respectiva de la Autoridad Educativa Nacional.
 
-Se garantiza el derecho a la apelación de los resultados de la prueba en la instancia correspondiente, asi como a la posibilidad dc validar sus respuestas, según la reglamentación respectiva. El derecho de apelación caducará en el plazo dc 30 dias después de notificado los resultados a los aspirantes. A petición de parte, los resultados de las prucbas serán entrcgados a los postulantes.
+Se garantiza el derecho a la apelación de los resultados de la prueba en la instancia correspondiente, así como a la posibilidad de validar sus respuestas, según la reglamentación respectiva. El derecho de apelación caducará en el plazo de 30 días después de notificado los resultados a los aspirantes. A petición de parte, los resultados de las pruebas serán entregados a los postulantes.
 
-**Art. 102.- Calificación de méritos.-** La autoridad nominadora respectiva dc la Autoridad Educativa Nacional se encargará dc calificar los méritos de los candidatos elegibles para llenar las vacantes, a través dc sus respectivas unidades administrativas de recursos humanos que deberá garantizar espacio a las veedurias ciudadanas durante el proceso.
+**Art. 102.- Calificación de méritos.-** La autoridad nominadora respectiva de la Autoridad Educativa Nacional se encargará de calificar los méritos de los candidatos elegibles para llenar las vacantes, a través de sus respectivas unidades administrativas de recursos humanos que deberá garantizar espacio a las veedurías ciudadanas durante el proceso.
 
-Para calificar los méritos de los concursantes se tendrán en cuenta los titulos reconocidos para ingresar a la carrera educativa pública, la expericncia docente; y, las investigaciones, publicaciones, obras y aportes a la ciencia y la cultura en gencral; procesos de capacitacion y cursos de profesionalizacion relacionados con la materia para la cual se concursa.
+Para calificar los méritos de los concursantes se tendrán en cuenta los títulos reconocidos para ingresar a la carrera educativa pública, la experiencia docente; y, las investigaciones, publicaciones, obras y aportes a la ciencia y la cultura en general; procesos de capacitación y cursos de profesionalización relacionados con la materia para la cual se concursa.
 
-**Art. 103.- Elegibilidad preferente.-** Se considerarán de forma prefcrente a los candidatos elegibles que tengan su domicilio y residan en el lugar donde exista la vacante debidamente comprobada, a los docentes fiscales que hayan laborado por más de dos años en zonas rurales y soliciten su traslado, a las docentes mujeres jefas de familia; y, a los candidatos elegibles quc tengan alguna discapacidad certificada por la autoridad competente. Estos criterios preferentes se expresarán en puntaje adicional y en la dirimencia lcgitima que sca requerida por circunstancias especiales.
+**Art. 103.- Elegibilidad preferente.-** Se considerarán de forma preferente a los candidatos elegibles que tengan su domicilio y residan en el lugar donde exista la vacante debidamente comprobada, a los docentes fiscales que hayan laborado por más de dos años en zonas rurales y soliciten su traslado, a las docentes mujeres jefas de familia; y, a los candidatos elegibles que tengan alguna discapacidad certificada por la autoridad competente. Estos criterios preferentes se expresarán en puntaje adicional y en la dirimencia legítima que sea requerida por circunstancias especiales.
 
-**Art. 104.- Resultados del concurso.-** Al candidato que obtenga la mejor calificacion en la sumatoria de las pruebas, méritos, clase demostrativa y puntajes adicionales, la instancia competente le notificará y expedirá el nombramicnto para cubrir la vacante respectiva, y cn caso de que éste no se posesione de conformidad con la Ley se expedirá el nombramicnto al siguiente mejor puntuado. Los resultados serán publicados.
+**Art. 104.- Resultados del concurso.-** Al candidato que obtenga la mejor calificación en la sumatoria de las pruebas, méritos, clase demostrativa y puntajes adicionales, la instancia competente le notificará y expedirá el nombramiento para cubrir la vacante respectiva, y en caso de que éste no se posesione de conformidad con la Ley se expedirá el nombramiento al siguiente mejor puntuado. Los resultados serán publicados.
 
-**Art. 105.- Recalificaciones.-** Los participantcs podrán solicitar la recalificacion a sus expedientes y pruebas, dentro del termino de cinco dias contados a partir dc la publicacion de los resultados, bien sea por medios fisicos, electrónicos o virtuales. La recalificacion será resuclta y notificada en un término de treinta dias improrrogables.
+**Art. 105.- Recalificaciones.-** Los participantes podrán solicitar la recalificación a sus expedientes y pruebas, dentro del término de cinco días contados a partir de la publicación de los resultados, bien sea por medios físicos, electrónicos o virtuales. La recalificación será resuelta y notificada en un término de treinta días improrrogables.
 
-**Art. 106.- Recursos Administrativos.-** Exclusivamente de las resoluciones de recalificacion y declaratoria de vencedorcs del concurso, sc podran interponer los recursos administrativos que franquea la ley. Los recursos se interpondran en cl efecto devolutivo.
+**Art. 106.- Recursos Administrativos.-** Exclusivamente de las resoluciones de recalificación y declaratoria de vencedores del concurso, se podrán interponer los recursos administrativos que franquea la ley. Los recursos se interpondrán en el efecto devolutivo.
 
 **Art. 107.- Transparencia.-** Todas las etapas relacionadas al concurso de méritos y oposición deberán guardar el principio de transparencia y publicidad, para lo cual se deberán publicar los resultados parciales y finales de los concursos en el portal de la Autoridad Educativa Nacional y en los medios de comunicación pública.
 
-**Art. 108.- Vacantes.-** La vacante de un cargo dircctivo dc una institucion educativa pública se produce cuando su titular cesa en sus funcioncs por renuncia, dcstitución, jubilación, fallccimiento o cumplimiento del pcriodo para el cual fue designado. Las vacantes también se producirán por la creacion de partidas y dc nuevas instituciones educativas públicas, en cl marco de la Ley y de las resoluciones de las autoridades competentes.
+**Art. 108.- Vacantes.-** La vacante de un cargo directivo de una institución educativa pública se produce cuando su titular cesa en sus funciones por renuncia, destitución, jubilación, fallecimiento o cumplimiento del período para el cual fue designado. Las vacantes también se producirán por la creación de partidas y de nuevas instituciones educativas públicas, en el marco de la Ley y de las resoluciones de las autoridades competentes.
 
-Toda vacante en cargos directivos dc una institución educativa pública, se llenará mediante concursos públicos de méritos y oposicion, convocados en los medios de comunicacion publica.
+Toda vacante en cargos directivos de una institución educativa pública, se llenará mediante concursos públicos de méritos y oposición, convocados en los medios de comunicación pública.
 
-**Art. 109.- Cargos Directivos.-** Son cargos directivos los rectores, vicerrectores, directores, subdirectores, inspectores y subinspectores. Unicamente sc podrá acceder a estos cargos, en las instituciones educativas públicas, a través del concurso de méritos y oposicion. Podrán participar en los concursos para acccder a los cargos de rectores y directores, los profesionales de la educación pública, privada o fiscomisional que cumplan con el perfil requerido en la presente ley para el cargo descrito. Los cargos directivos de rectores y directores son parte de la carrera cducativa pública y remunerativamente estarán sujetos a la Ley que regule el servicio público. Los docentes fiscales que accedan a cargos directivos de rectores y directores, deberán acreditar por lo menos la catcgoria "D". Serán declarados en comision de servicios sin sueldo, y el tiempo que estén en la funcion directiva contará para el ascenso de categoria en la carrera educativa fiscal.
+**Art. 109.- Cargos Directivos.-** Son cargos directivos los rectores, vicerrectores, directores, subdirectores, inspectores y subinspectores. Únicamente se podrá acceder a estos cargos, en las instituciones educativas públicas, a través del concurso de méritos y oposición. Podrán participar en los concursos para acceder a los cargos de rectores y directores, los profesionales de la educación pública, privada o fiscomisional que cumplan con el perfil requerido en la presente ley para el cargo descrito. Los cargos directivos de rectores y directores son parte de la carrera educativa pública y remunerativamente estarán sujetos a la Ley que regule el servicio público. Los docentes fiscales que accedan a cargos directivos de rectores y directores, deberán acreditar por lo menos la categoría "D". Serán declarados en comisión de servicios sin sueldo, y el tiempo que estén en la función directiva contará para el ascenso de categoría en la carrera educativa fiscal.
 
-Los directivos de todos los establecimientos educativos durarán cuatro años en sus funciones y podrán ser reelegidos por una sola vez, siempre quc ganen los respectivos concursos públicos de méritos y oposición.
+Los directivos de todos los establecimientos educativos durarán cuatro años en sus funciones y podrán ser reelegidos por una sola vez, siempre que ganen los respectivos concursos públicos de méritos y oposición.
 35
 
 Podrán ser removidos de su función directiva por la Autoridad Educativa Nacional previo sumario administrativo, en los casos que contravengan con las disposiciones determinadas en la presente Ley y demás normativas. En casos de conmoción interna del establecimiento educativo podrán ser suspendidos hasta la resolución del sumario.
@@ -1723,7 +1723,7 @@ Para el Sistema de Educación Intercultural Bilingüe se promoverá además el d
 
 1. **Categoría J:** Es la categoría de ingreso a la carrera educativa pública cuando el título sea de bachiller, para las personas que hayan ganado los concursos de méritos y oposición en zonas de difícil acceso con déficit de profesionales.
 
-Se otorga un plazo máximo de seis años para obtener el título de profesor o licenciado en ciencias de la educación, caso contrario se revocará su nombramiento provisional. En el lapso de los primeros dos años deben participar en un programa de inducción. Sólo se permiten ascensos de categoría para los educadores que hayan obtenido al menos un título de profesor, tecnólogo o licenciado en aéreas de educación;
+Se otorga un plazo máximo de seis años para obtener el título de profesor o licenciado en ciencias de la educación, caso contrario se revocará su nombramiento provisional. En el lapso de los primeros dos años deben participar en un programa de inducción. Sólo se permiten ascensos de categoría para los educadores que hayan obtenido al menos un título de profesor, tecnólogo o licenciado en áreas de educación;
 
 2. **Categoría I:** Es la categoría de ingreso a la carrera docente pública en los casos en que el título sea profesor o tecnólogo en áreas de educación especial o profesional de otras disciplinas. En el lapso de los primeros dos (2) años, el profesional de la educación deberá participar en un programa de inducción;
 
@@ -1886,7 +1886,7 @@ c. Prestar el servicio de educación sea inicial, básica o bachillerato sin con
 
 d. Retener bajo cualquier consideración los documentos académicos de las y los estudiantes;
 
-e. Permitir el uso de las instalaciones de las instituciones educativas para fines político partidistas;
+e. Permitir el uso de las instalaciones de las instituciones educativas para fines político - partidistas;
 
 f. Actuar con negligencia en el cumplimiento de sus obligaciones;
 
@@ -2033,9 +2033,9 @@ Es igualmente responsabilidad de la Autoridad Educativa Nacional dictar la polí
 
 El Reglamento de aplicación a la Ley, determinará las regulaciones de producción, distribución, uso, aprovechamiento, responsabilidad y devolución de aquellos textos y materiales que por sus características, contenidos y utilidad, deban ser proporcionados por el Estado en calidad de préstamo a docentes y estudiantes. En todos los casos y ámbitos educativos y sin perjuicio del ejercicio del dominio de los bienes escolares, se propenderá al cuidado y uso adecuado de cada uno de los instrumentos del proceso de aprendizaje.
 
-QUINTA.- Ninguna institución educativa podrá emitir o aplicar normas que contrarien o inobserven las disposiciones establecidas en la Constitución de la República y la Ley.
+QUINTA.- Ninguna institución educativa podrá emitir o aplicar normas que contraríen o inobserven las disposiciones establecidas en la Constitución de la República y la Ley.
 
-SEXTA: Los Gobiernos Autónomos Municipales en cuanto a la planificación, construcción y mantenimiento de la infraestructura física y equipamiento de educación se regirán a lo determinado en el Código Orgánico de Organización Territorial, Autonomía y Descentralización.
+SEXTA.- Los Gobiernos Autónomos Municipales en cuanto a la planificación, construcción y mantenimiento de la infraestructura física y equipamiento de educación se regirán a lo determinado en el Código Orgánico de Organización Territorial, Autonomía y Descentralización.
 
 SÉPTIMA.- A partir de la promulgación de la presente Ley la Autoridad Educativa Nacional incorporará en el currículo la formación estética y artística que será obligatoria, progresiva y transversal en todos los niveles y modalidades.
 
@@ -2171,7 +2171,7 @@ La administración de esta segunda jornada la realizará el mismo personal direc
 
 La aplicación del bachillerato general unificado se iniciará durante el año lectivo 2011 - 2012 para todos los establecimientos educativos a partir del primer curso de bachillerato. Únicamente para los segundos y terceros años de bachillerato en curso al año lectivo 2010 - 2011, los establecimientos deberán coordinar con la Autoridad Educativa Nacional la transición al Bachillerato General Unificado o el mantenimiento del modelo vigente.
 
-SÉPTIMA.- Los centros infantiles privados de cuidado diario, que a la aprobación de la presente Ley se encuentren debidamente acreditados y en funcionamiento, continuarán sus actividades. En el plazo de dos años, contados desde la aprobación de esta Ley, la Autoridad Educativa Nacional dictará toda la normativa necesaria para el cabal funcionamiento de los centros infantiles, sus programas servicios y costos, en consideración a las particulares características de estos servicios.
+SÉPTIMA.- Los centros infantiles privados de cuidado diario, que a la aprobación de la presente Ley se encuentren debidamente acreditados y en funcionamiento, continuarán sus actividades. En el plazo de dos años, contados desde la aprobación de esta Ley, la Autoridad Educativa Nacional dictará toda la normativa necesaria para el cabal funcionamiento de los centros infantiles, sus programas, servicios y costos, en consideración a las particulares características de estos servicios.
 
 OCTAVA.- A partir del año 2011, las instituciones educativas que se encuentren administradas por las Fuerzas Armadas, Policía Nacional, Comisión de Tránsito del Guayas, Aviación Civil, pasarán a funcionar bajo la rectoría de la Autoridad Nacional de Educación, en lo referente a los planes y programas educativos.
 
@@ -2198,7 +2198,7 @@ DÉCIMA TERCERA.- Con el objeto de mejorar la gestión del actual Ministerio de 
 
 El ministerio a cargo de la Educación, se integrará preferentemente con los actuales funcionarios y empleados del Ministerio de Educación, previo un proceso de selección a cargo de la Dirección de Recursos Humanos, en el que se considerará entre otros aspectos, la formación académica, cursos de capacitación y experiencia. Este personal y el que incorpore adicionalmente deberá forzosamente reunir los requisitos señalados y cumplir con lo previsto en la normativa vigente.
 
-DÉCIMA CUARTA.- Los y las bachilleres que se encuentren y los que ingresen excepcionalmente en la carrera educativa pública, tendrán un nombramiento provisional por seis años, periodo en el cual deberán obtener un título profesional docente. Se revocará el nombramiento provisional a los bachilleres que no obtengan su título profesional docente en este periodo.
+DÉCIMA CUARTA.- Los y las bachilleres que se encuentren y los que ingresen excepcionalmente en la carrera educativa pública, tendrán un nombramiento provisional por seis años, período en el cual deberán obtener un título profesional docente. Se revocará el nombramiento provisional a los bachilleres que no obtengan su título profesional docente en este período.
 
 El Estado establecerá convenios con las universidades que faciliten la profesionalización de madres comunitarias de educación inicial y educadores para personas con escolaridad inconclusa, que ingresen al magisterio con título de bachiller.
 
