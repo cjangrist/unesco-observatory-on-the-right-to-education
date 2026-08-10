@@ -1,3 +1,5 @@
+[[START OF PAGE 1]]
+
 **REPUBLIQUE DU BURUNDI**
 
 ![Coat of arms of the Republic of Burundi, featuring a shield with a lion's head, a sun, and a banner with the motto 'UNITE - TRAVAIL - PROGRES'.](935eed7aa61f7777f62cfc032e11bee9_img.jpg)
@@ -37,6 +39,8 @@ Image: Handwritten signature or mark.
 Image: Handwritten signature or mark.
 
 Image: Handwritten signature or mark.
+
+[[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
@@ -227,6 +231,8 @@ Afin de permettre aux apprenants et/ou aux lauréats de mettre en pratique les c
 
 [[END OF PAGE 6]]
 
+[[START OF PAGE 7]]
+
 ### Article 30 :
 
 A la formation professionnelle, les curricula se fondent sur la création de nouvelles filières répondant aux besoins du marché du travail, le partenariat public-privé, la formation par alternance.
@@ -278,6 +284,11 @@ Les modes d'évaluation interne des apprentissages, les certificats et les dipl�
 Handwritten signature or mark in the bottom left corner.
 
 Handwritten initials or signature in the bottom center.
+
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
+
 ### Article 40 :
 
 Toutes dispositions antérieures contraires au présent décret sont abrogées.
@@ -306,3 +317,5 @@ DU TRAVAIL ET DE L'EMPLOI,**
 ![Signature of Félix MPOZERINIGA.](e1c624d4757f08486e89482c18364c17_img.jpg)
 
 **Félix MPOZERINIGA.**
+
+[[END OF PAGE 8]]
