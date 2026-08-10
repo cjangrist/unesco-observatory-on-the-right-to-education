@@ -67,6 +67,8 @@ Towards these ends, the State shall inculcate in the youth patriotism and nation
 
 [[END OF PAGE 2]]
 
+[[START OF PAGE 3]]
+
 4
 
 ## SEC. 6. *Teaching Qualification and Capacity Building for Teachers.*
@@ -150,3 +152,5 @@ RODRIGO ROA DUTERTE
 Emblem of the Philippines
 
 0
+
+[[END OF PAGE 3]]
