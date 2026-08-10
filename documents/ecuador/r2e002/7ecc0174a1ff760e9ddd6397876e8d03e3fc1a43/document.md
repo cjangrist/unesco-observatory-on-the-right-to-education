@@ -1,3 +1,5 @@
+[[START OF PAGE 1]]
+
 Escudo del Ecuador
 
 # REGISTRO OFICIAL
@@ -26,6 +28,11 @@ Año II -- Quito, Jueves 31 de Marzo del 2011 -- Nº 417
 ### PRESIDENCIA DE LA REPÚBLICA
 
 # LEY ORGÁNICA DE EDUCACIÓN INTERCULTURAL
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
 ## PRESIDENCIA DE LA REPÚBLICA DEL ECUADOR
 
 Oficio No. T.4691-SNJ-11-499
@@ -94,6 +101,11 @@ Es fiel copia del original.- LO CERTIFICO.
 Quito, 29 de marzo de 2011.
 
 f.) Ab. Oscar Pico Solórzano, Subsecretario Nacional de la Administración Pública.
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
 ## PRESIDENCIA DE LA REPÚBLICA DEL ECUADOR
 
 Oficio No. T. 4691 -SNJ-11-479
@@ -161,6 +173,11 @@ f.) Dr. Andrés Segovia S., Secretario General.
 Que, el Artículo 26 de la Constitución de la República reconoce a la educación como un derecho que las personas lo ejercen a largo de su vida y un deber ineludible e inexcusable del Estado. Constituye un área prioritaria de la política pública y de la inversión estatal, garantía de la igualdad e inclusión social y condición indispensable para el buen vivir. Las personas, las familias y la sociedad tienen el derecho y la responsabilidad de participar en el proceso educativo;
 
 Que, el Art. 27 de la Constitución de la República establece que la educación debe estar centrada en el ser humano y garantizará su desarrollo holístico, en el marco del respeto a los derechos humanos, al medio ambiente sustentable y a la democracia; será participativa, obligatoria, intercultural, democrática, incluyente y diversa, de calidad y calidez; impulsará la equidad de género, la justicia, la solidaridad y la paz; estimulará el sentido crítico, el arte y la cultura física, la iniciativa individual y comunitaria, y el desarrollo de competencias y capacidades para crear y trabajar.
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
 5
 
 La educación es indispensable para el conocimiento, el ejercicio de los derechos y la construcción de un país soberano, y constituye un eje estratégico para el desarrollo nacional;
@@ -194,6 +211,11 @@ Que, el numeral 2 del Artículo 165 de la Constitución de la República, establ
 Que, el Artículo 286 de la Constitución de la República establece que las finanzas públicas, en todos los niveles de gobierno, se conducirán de forma sostenible, responsable y transparente, y procurarán la estabilidad económica. Los egresos permanentes se financiarán con ingresos permanentes. Los egresos permanentes para (...) educación (...) serán prioritarios y, de manera excepcional, podrán ser financiados con ingresos no permanentes;
 
 Que, el Artículo 298 de la Constitución de la República establece preasignaciones presupuestarias destinadas, entre
+
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
+
 6
 
 otros al sector educación, a la educación superior, y a la investigación, ciencia, tecnología e innovación en los términos previstos en la ley. Las transferencias correspondientes a preasignaciones serán predecibles y automáticas;
@@ -239,6 +261,11 @@ Que, el Artículo 347 de la Constitución de la República, establece que será 
 7. Erradicar el analfabetismo puro, funcional y digital, y apoyar los procesos de postalfabetización y educación permanente para personas adultas, y la superación del rezago educativo.
 
 8. Incorporar las tecnologías de la información y comunicación en el proceso educativo y propiciar el
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
 enlace de la enseñanza con las actividades productivas o sociales.
 
 9. Garantizar el sistema de educación intercultural bilingüe, en el cual se utilizará como lengua principal de educación la de la nacionalidad respectiva y el castellano como idioma de relación intercultural, bajo la rectoría de las políticas públicas del Estado y con total respeto a los derechos de las comunidades, pueblos y nacionalidades.
@@ -270,6 +297,11 @@ Que, según el Régimen de competencias declarado en la Constitución de la Rep�
 Que, el Artículo 100 de la Constitución de la República establece la participación de la sociedad en todos los niveles de gobierno, conformándose para ello instancias de participación integradas por autoridades electas, representantes del régimen dependiente y representantes de la sociedad del ámbito territorial de cada nivel de gobierno, que funcionarán regidas por principios democráticos. La participación en estas instancias se ejerce para (1.-) Elaborar planes y políticas nacionales, locales y sectoriales entre los gobiernos y la ciudadanía;
 
 Que, el Artículo 85 de la Constitución de la República, establece que en la formulación, ejecución, evaluación y control de las políticas públicas y servicios públicos se garantizará la participación de las personas, comunidades, pueblos y nacionalidades. Disponiendo además en sus numerales 1 al 3 que (1.-) las políticas públicas y la prestación de bienes y servicios públicos se orientarán a hacer efectivos el buen vivir y todos los derechos, y se formularán a partir del principio de solidaridad. (2.-) Sin
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
+
 perjuicio de la prevalencia del interés general sobre el interés particular, cuando los efectos de la ejecución de las políticas públicas o prestación de bienes o servicios públicos vulneren o amenacen con vulnerar derechos constitucionales, la política o prestación deberá reformularse o se adoptarán medidas alternativas que concilien los derechos en conflicto. (3.-) El Estado garantizará la distribución equitativa y solidaria del presupuesto para la ejecución de las políticas públicas y la prestación de bienes y servicios públicos;
 
 Que, el Artículo 96 de la Constitución de la República, reconoce todas las formas de organización de la sociedad, como expresión de la soberanía popular para desarrollar procesos de autodeterminación e incidir en las decisiones y políticas públicas y en el control social de todos los niveles de gobierno, así como de las entidades públicas y de las privadas que presten servicios públicos. Las organizaciones podrán articularse en diferentes niveles para fortalecer el poder ciudadano y sus formas de expresión; deberán garantizar la democracia interna, la alternabilidad de sus dirigentes y la rendición de cuentas;
@@ -311,6 +343,11 @@ La actividad educativa se desarrolla atendiendo a los siguientes principios gene
 a. **Universalidad.-** La educación es un derecho humano fundamental y es deber ineludible e inexcusable del Estado garantizar el acceso, permanencia y calidad de la educación para toda la población sin ningún tipo de discriminación. Está articulada a los instrumentos internacionales de derechos humanos;
 
 b. **Educación para el cambio.-** La educación constituye instrumento de transformación de la sociedad; contribuye a la construcción del país, de los
+
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
+
 9
 
 proyectos de vida y de la libertad de sus habitantes, pueblos y nacionalidades; reconoce a las y los seres humanos, en particular a las niñas, niños y adolescentes, como centro del proceso de aprendizajes y sujetos de derecho; y se organiza sobre la base de los principios constitucionales;
@@ -348,6 +385,11 @@ q. **Motivación**.- Se promueve el esfuerzo individual y la motivación a las p
 r. **Evaluación**.- Se establece la evaluación integral como un proceso permanente y participativo del Sistema Educativo Nacional;
 
 s. **Flexibilidad**.- La educación tendrá una flexibilidad que le permita adecuarse a las diversidades y realidades locales y globales, preservando la identidad nacional y la diversidad cultural, para asumirlas e integrarlas en el concierto educativo nacional, tanto en sus conceptos como en sus contenidos, base científica - tecnológica y modelos de gestión;
+
+[[END OF PAGE 8]]
+
+[[START OF PAGE 9]]
+
 t. **Cultura de paz y solución de conflictos.-** El ejercicio del derecho a la educación debe orientarse a construir una sociedad justa, una cultura de paz y no violencia, para la prevención, tratamiento y resolución pacífica de conflictos, en todos los espacios de la vida personal, escolar, familiar y social. Se exceptúan todas aquellas acciones y omisiones sujetas a la normatividad penal y a las materias no transigibles de conformidad con la Constitución de la República y la Ley;
 
 u. **Investigación, construcción y desarrollo permanente de conocimientos.-** Se establece a la investigación, construcción y desarrollo permanente de conocimientos como garantía del fomento de la creatividad y de la producción de conocimientos, promoción de la investigación y la experimentación para la innovación educativa y la formación científica;
@@ -383,6 +425,11 @@ hh. **Acceso y permanencia.-** Se garantiza el derecho a la educación en cualqu
 ii. **Transparencia, exigibilidad y rendición de cuentas.-** Se garantiza la transparencia en la gestión del Sistema Educativo Nacional, en consecuencia la sociedad accederá a la información plena acerca de los recursos empleados y las acciones tomadas por los actores del Sistema Educativo, para determinar sus logros, debilidades y sostenibilidad del proceso. Para el efecto, se aplicarán procesos de monitoreo, seguimiento, control y evaluación a través de un sistema de rendición de cuentas;
 
 jj. **Escuelas saludables y seguras.-** El Estado garantiza, a través de diversas instancias, que las instituciones
+
+[[END OF PAGE 9]]
+
+[[START OF PAGE 10]]
+
 11
 
 educativas son saludables y seguras. En ellas se garantiza la universalización y calidad de todos los servicios básicos y la atención de salud integral gratuita;
@@ -436,6 +483,11 @@ s. El desarrollo, fortalecimiento y promoción de los idiomas de los pueblos y n
 t. La promoción del desarrollo científico y tecnológico; y,
 
 u. La proyección de enlaces críticos y conexiones articuladas y analíticas con el conocimiento mundial para una correcta y positiva inserción en los procesos planetarios de creación y utilización de saberes.
+
+[[END OF PAGE 10]]
+
+[[START OF PAGE 11]]
+
 ## TÍTULO II: DE LOS DERECHOS Y OBLIGACIONES
 
 ### CAPÍTULO PRIMERO: DEL DERECHO A LA EDUCACIÓN
@@ -495,6 +547,11 @@ o. Elaborar y ejecutar las adaptaciones curriculares necesarias para garantizar 
 p. Coordinar acciones con sistemas y subsistemas complementarios con los distintos niveles de gobierno, así como con los sectores privados y de la sociedad civil a fin de garantizar una educación de calidad;
 
 q. Emitir, en beneficio de las y los educandos, el carné estudiantil y garantizar el efectivo cumplimiento de los derechos y prerrogativas que el mismo les confiere;
+
+[[END OF PAGE 11]]
+
+[[START OF PAGE 12]]
+
 r. Asegurar que todas las entidades educativas desarrollen una educación en participación ciudadana, exigibilidad de derechos, inclusión y equidad, igualdad de género, sexualidad y ambiente, con una visión transversal y enfoque de derechos;
 
 s. Definir y asegurar la existencia de mecanismos e instancias para la exigibilidad de los derechos, su protección y restitución;
@@ -544,6 +601,11 @@ m. Ejercer su derecho constitucional al debido proceso, en toda acción orientad
 n. Disponer de facilidades que le permitan la práctica de actividades deportivas, sociales, culturales, científicas en representación de su centro de estudios, de su comunidad, su provincia o del País, a nivel competitivo;
 
 o. Contar con propuestas educacionales flexibles y alternativas que permitan la inclusión y permanencia de aquellas personas que requieran atención prioritaria, de manera particular personas con discapacidades, adolescentes y jóvenes embarazadas;
+
+[[END OF PAGE 12]]
+
+[[START OF PAGE 13]]
+
 p. No ser sancionados por condiciones de embarazo, maternidad o paternidad, y recibir el debido apoyo y atención en lo psicológico, académico y lo afectivo para culminar sus estudios y acompañar un proceso de maternidad y paternidad saludable;
 
 q. Aprender, en el idioma oficial e idiomas ancestrales, de ser el caso;
@@ -609,6 +671,11 @@ e. Gozar de estabilidad y del pleno reconocimiento y satisfacción de sus derech
 f. Recibir una remuneración acorde con su experiencia, solvencia académica y evaluación de desempeño, de acuerdo con las leyes y reglamentos vigentes, sin discriminación de ninguna naturaleza;
 
 g. Participar en concursos de méritos y oposición para ingresar al Magisterio Ecuatoriano y para optar por diferentes rutas profesionales del Sistema Nacional de
+
+[[END OF PAGE 13]]
+
+[[START OF PAGE 14]]
+
 15
 
 Educación, asegurando la participación equitativa de hombres y mujeres y su designación sin discriminación;
@@ -674,6 +741,11 @@ n. Cuidar la privacidad e intimidad propias y respetar la de sus estudiantes y d
 o. Mantener el servicio educativo en funcionamiento de acuerdo con la Constitución y la normativa vigente;
 
 p. Vincular la gestión educativa al desarrollo de la comunidad, asumiendo y promoviendo el liderazgo
+
+[[END OF PAGE 14]]
+
+[[START OF PAGE 15]]
+
 social que demandan las comunidades y la sociedad en general;
 
 q. Promover la interculturalidad y la pluralidad en los procesos educativos;
@@ -739,6 +811,11 @@ k. Contribuir y participar activamente en la aplicación permanente de los derec
 #### Art. 14.- De la exigibilidad, la restitución y la protección.-
 
 En ejercicio de su corresponsabilidad, el Estado, en todos sus niveles, adoptará las medidas que sean necesarias para la plena vigencia, ejercicio efectivo, garantía, protección, exigibilidad y justiciabilidad del derecho a la educación de niños, niñas y adolescentes. Todos los actores de la comunidad educativa estarán en condición de acudir a las instancias de protección constitucional con el fin de restituir el derecho a la educación que hubiere sido desatendido o conculcado.
+
+[[END OF PAGE 15]]
+
+[[START OF PAGE 16]]
+
 En todos los casos en los que se tenga conocimiento de la privación del derecho a la educación de una niña, niño o adolescente, sin perjuicio de su obligación de acudir a los organismos de atención a la infancia respectivos, se adoptarán de manera directa las acciones y medidas necesarias que conlleven inequívocamente a la restitución del derecho a la educación que hubiere sido conculcado o desatendido. Igual obligación tendrán las juntas cantonales de protección de derechos cuando estuviere amenazado.
 
 Cuando la integridad física; psicológica o sexual de las niñas, niños y adolescentes estuviere amenazada o hubiere sido afectada, sin perjuicio de la obligación de denunciar por parte de quien en la comunidad educativa tuviere conocimiento del hecho cuyas características hagan presumir la existencia de amenaza o afectación, la Junta Distrital Intercultural de Resolución de Conflictos denunciará ante la autoridad judicial respectiva y remitirá a las autoridades competentes para que se dicten las medidas de protección de derechos que corresponda por su incumplimiento.
@@ -798,6 +875,11 @@ a. Propiciar la convivencia armónica y la resolución pacífica de los conflict
 b. Mantener un ambiente propicio para el desarrollo de las actividades educativas, alrededor de los planteles escolares;
 
 c. Respetar y cuidar las instalaciones y recursos educativos; así como participar, en lo que fuera posible, en el mantenimiento y mejoramiento de las
+
+[[END OF PAGE 16]]
+
+[[START OF PAGE 17]]
+
 instalaciones físicas de las instituciones educativas públicas;
 
 d. Respetar y proteger la integridad física, psicológica y sexual de las y los estudiantes y en general de todos los miembros de la comunidad; y,
@@ -849,6 +931,11 @@ d. Organizar la provisión de servicios para el desarrollo del talento humano de
 e. Aprobar con la participación de todos los actores del proceso educativo, democrática, participativa e inclusiva el Plan Nacional de Educación, los programas y proyectos que deban desarrollarse a nivel nacional y vigilar su correcta y oportuna ejecución;
 
 f. Desarrollar y estimular la investigación científica, pedagógica, tecnológica y de conocimientos
+
+[[END OF PAGE 17]]
+
+[[START OF PAGE 18]]
+
 ancestrales, en coordinación con otros organismos del Estado;
 
 g. Fomentar y estimular la publicación de textos y libros nacionales de valor educativo, cultural, lingüístico, artístico y científico, libres de contenidos e imágenes sexistas y discriminatorias;
@@ -914,6 +1001,11 @@ a. El titular de la Autoridad Educativa Nacional quien lo presidirá y tendrá v
 b. El titular del Sistema de Educación Intercultural bilingüe;
 
 c. El titular del Instituto Nacional de Evaluación Educativa;
+
+[[END OF PAGE 18]]
+
+[[START OF PAGE 19]]
+
 d. El titular de la Secretaría Nacional de Educación Superior;
 
 e. El titular de la Secretaría Nacional de Planificación y Desarrollo;
@@ -973,6 +1065,11 @@ Las máximas autoridades educativas tendrán como una de sus funciones primordia
 Son los niveles territoriales en los que se gestionan y ejecutan las políticas educativas definidas por el nivel central. Están conformadas por los niveles zonales, distritales y circuitales, todos ellos interculturales y bilingües.
 
 Se garantizará la existencia de instancias especializadas del Sistema de Educación Intercultural y Bilingüe en todos los niveles.
+
+[[END OF PAGE 19]]
+
+[[START OF PAGE 20]]
+
 21
 
 #### Art. 28.- Nivel zonal intercultural y bilingüe.-
@@ -1028,6 +1125,11 @@ f. Elaborar el plan de inversión del circuito y enviarlo al distrito y al admin
 g. Dar seguimiento a la ejecución del plan de inversión del circuito;
 
 h. Verificar el cumplimiento de los planes operativos y de compras ejecutado por el administrador del circuito y evaluar su desempeño;
+
+[[END OF PAGE 20]]
+
+[[START OF PAGE 21]]
+
 i. Generar y consensuar propuestas de atención a la problemática social del entorno; y,
 
 j. Las demás establecidas en el Reglamento.
@@ -1105,6 +1207,11 @@ g. Apoyar la construcción y mantenimiento de espacios públicos para la utiliza
 h. Apoyar la provisión de sistemas de acceso a las tecnologías de la información y comunicaciones; e,
 
 i. Dar mantenimiento de redes de bibliotecas, hemerotecas y centros de información, cultura y arte vinculadas con las necesidades del sistema educativo.
+
+[[END OF PAGE 21]]
+
+[[START OF PAGE 22]]
+
 ### CAPÍTULO QUINTO: DE LA ESTRUCTURA DEL SISTEMA NACIONAL DE EDUCACIÓN
 
 #### Art. 37.- Composición.-
@@ -1160,6 +1267,11 @@ El bachillerato general unificado comprende tres años de educación obligatoria
 a. Bachillerato en ciencias: además de las asignaturas del tronco común, ofrecerá una formación complementaria en áreas científico-humanísticas; y,
 
 b. Bachillerato técnico: además de las asignaturas del tronco común, ofrecerá una formación complementaria en áreas técnicas, artesanales, deportivas o artísticas que permitan a las y los estudiantes ingresar al mercado laboral e iniciar actividades de emprendimiento social o económico. Las instituciones educativas que ofrezcan este tipo de bachillerato podrán constituirse en unidades educativas de producción, donde tanto las y los docentes como las y
+
+[[END OF PAGE 22]]
+
+[[START OF PAGE 23]]
+
 24
 
 los estudiantes puedan recibir una bonificación por la actividad productiva de su establecimiento.
@@ -1215,6 +1327,11 @@ La educación artesanal se ofrece a personas adultas con escolaridad inconclusa 
 #### Art. 50.- Educación para personas con escolaridad inconclusa.-
 
 La educación para jóvenes y adultos con escolaridad inconclusa es un servicio educativo para
+
+[[END OF PAGE 23]]
+
+[[START OF PAGE 24]]
+
 quienes no hayan podido acceder a la educación escolarizada obligatoria en la edad correspondiente. Este tipo de educación mantiene el enfoque curricular y los ejes que atraviesan el currículo de los niveles descritos con anterioridad, pero con las características propias de la etapa adulta, privilegiando los intereses y objetivos de ésta.
 
 El Estado, para garantizar el acceso universal a la educación, impulsará políticas y programas especiales y dotará de los recursos necesarios que faciliten la escolarización regular de las niñas, niños y adolescentes que, por distintas particularidades o circunstancias de inequidad social, presenten dificultades de inserción educativa, desfase escolar significativo o que, por cualquier motivo, demanden intervenciones compensatorias en razón de su incorporación tardía a la educación.
@@ -1260,6 +1377,11 @@ La Autoridad Educativa Nacional, reconocerá los gastos en que el voluntario inc
 #### Art. 55.- Instituciones educativas fiscomisionales.-
 
 Son instituciones educativas fiscomisionales aquellas cuyos promotores son congregaciones, órdenes o cualquiera otra denominación confesional o laica. Son de carácter religioso o laica, de derecho privado y sin fines de lucro, garantizando una educación gratuita y de calidad.
+
+[[END OF PAGE 24]]
+
+[[START OF PAGE 25]]
+
 17
 
 26 Segundo Suplemento - Registro Oficial N° 417 - Jueves 31 de Marzo del 2011
@@ -1329,6 +1451,11 @@ j. Construir consensuada y participativamente su código de convivencia;
 k. Garantizar una educación de calidad;
 
 l. Mantener en buen estado y funcionamiento su infraestructura, equipo, mobiliario y material didáctico;
+
+[[END OF PAGE 25]]
+
+[[START OF PAGE 26]]
+
 27
 
 m. Cumplir con sus obligaciones patronales;
@@ -1396,6 +1523,11 @@ a. Conocer de oficio, por denuncia o informe de las autoridades competentes, y r
 b. Conocer de oficio, por denuncia o informe de las autoridades competentes, sobre las faltas de las y los profesionales de la educación y las y los directivos de instituciones educativas de su jurisdicción y sancionar conforme corresponda;
 
 c. Conocer los informes motivados sobre el incumplimiento de las obligaciones inherentes al cargo por parte de las y los directivos de las instituciones educativas presentados por los gobiernos escolares, y ordenar los correctivos y sanciones que correspondan;
+
+[[END OF PAGE 26]]
+
+[[START OF PAGE 27]]
+
 d. Resolver las apelaciones presentadas por los participantes en los concursos de méritos y oposición para llenar las vacantes del Sistema Nacional de Educación;
 
 e. Resolver los conflictos de carácter administrativo y pedagógico que sean elevados a su conocimiento;
@@ -1459,6 +1591,11 @@ a. Poseer título universitario de cuarto nivel o mayor en pedagogía, ciencias 
 b. Acreditar conocimientos en metodologías de evaluación educativa y evaluaciones estandarizadas; y,
 
 c. Haber ejercido su profesión por un lapso no menor a diez años.
+
+[[END OF PAGE 27]]
+
+[[START OF PAGE 28]]
+
 29
 
 #### Art. 73.- Funciones y atribuciones de la Junta Directiva del Instituto Nacional de Evaluación Educativa.-
@@ -1522,6 +1659,11 @@ El Sistema de Educación Intercultural Bilingüe comprende el conjunto articulad
 #### Art. 78.-
 
 El Sistema de Educación Intercultural Bilingüe viabiliza el ejercicio de los derechos colectivos de las comunas, comunidades, pueblos y nacionalidades; se fundamenta en el carácter intercultural, plurinacional y plurilingüe del Estado, en concordancia con sus políticas públicas y los tratados e instrumentos internacionales. Tiene por objetivo aplicar, desarrollar y promover las políticas públicas de Educación Intercultural Bilingüe con la participación comunitaria y los actores sociales que incluye a los gobiernos escolares comunitarios, para garantizar el Buen Vivir en el Estado plurinacional. Promueve la retribución del aprendizaje del estudiante a su comunidad. La rendición de cuentas a la comunidad será permanente por parte de las y los servidores, de acuerdo a los principios de transparencia y los sistemas de control establecidos por la Constitución de la República y la Ley.
+
+[[END OF PAGE 28]]
+
+[[START OF PAGE 29]]
+
 Las y los administradores y docentes tendrán la obligación de hablar y escribir el idioma de la nacionalidad respectiva, y a residir en el territorio correspondiente. Serán nombrados a través de concursos de méritos y oposición.
 
 La malla curricular del Sistema de Educación Intercultural Bilingüe se desarrollará en el marco del modelo vigente de éste, en concordancia con el currículo nacional, que necesariamente reflejará el carácter intercultural y plurinacional del Estado.
@@ -1587,6 +1729,11 @@ c. Garantizar el fortalecimiento institucional y el desarrollo del Sistema de Ed
 d. Procurar la creación de instituciones educativas interculturales bilingües, garantizando su funcionamiento de acuerdo con las necesidades específicas y técnicas;
 
 e. Promover la formación de profesionales interculturales bilingües y plurilingües, en las especialidades requeridas por las comunas, comunidades, pueblos y nacionalidades del País; y,
+
+[[END OF PAGE 29]]
+
+[[START OF PAGE 30]]
+
 31
 
 f. Cumplir los tratados e instrumentos internacionales para la ejecución de programas educativos interculturales bilingües.
@@ -1658,6 +1805,11 @@ f. Las demás que la Ley y los reglamentos determinen.
 La Subsecretaría de Educación Intercultural Bilingüe, especializada en el desarrollo de los conocimientos, ciencias, saberes, tecnología, cultura, lenguas ancestrales y las lenguas de relación intercultural, es una entidad que se desconcentra administrativa, técnica y financieramente. Será responsable de la planificación, organización, innovación, dirección, control, coordinación de las instancias especializadas en los niveles zonal, distrital, y comunitario del Sistema Educativo Intercultural Bilingüe, para lo cual contará con todos los recursos necesarios. Garantizará la participación en todos los niveles e instancias de la administración educativa a los pueblos y nacionalidades en función de su representatividad.
 
 La Subsecretaría se encargará de transversalizar la interculturalidad en el Sistema y asegurar la pertinencia cultural y lingüística de los servicios y de la oferta educativa en los ámbitos de su competencia. La estructura orgánica funcional de la Subsecretaría de Educación
+
+[[END OF PAGE 30]]
+
+[[START OF PAGE 31]]
+
 Intercultural Bilingüe responderá a las particularidades requeridas por el Sistema de Educación Intercultural Bilingüe.
 
 #### Art. 89.- Instituto de Idiomas, Ciencias y Saberes Ancestrales de los Pueblos y Nacionalidades.-
@@ -1723,6 +1875,11 @@ d. Constar en el registro de candidatos elegibles;
 e. Participar y ganar en los correspondientes concursos de méritos y oposición para llenar las vacantes del sistema fiscal; y,
 
 f. En el caso de la educación intercultural bilingüe, el o la docente debe acreditar el dominio de un idioma ancestral.
+
+[[END OF PAGE 31]]
+
+[[START OF PAGE 32]]
+
 33
 
 #### Art. 95.- Prohibiciones para ingresar a la carrera educativa pública.-
@@ -1796,6 +1953,11 @@ La autoridad nominadora será responsable directa por no llenar la vacante en el
 La Autoridad Educativa Nacional creará y organizará un registro de candidatos elegibles para llenar las vacantes. Se denomina candidato elegible al aspirante a docente que aprobó las pruebas definidas por la Autoridad Educativa Nacional.
 
 Solamente se podrán inscribir a los concursos de méritos y oposición para llenar vacantes, los aspirantes a ingresar a la
+
+[[END OF PAGE 32]]
+
+[[START OF PAGE 33]]
+
 carrera educativa pública que consten en el registro de candidatos elegibles.
 
 #### Art. 101.- Bases del concurso.-
@@ -1847,6 +2009,11 @@ Toda vacante en cargos directivos de una institución educativa pública, se lle
 Son cargos directivos los rectores, vicerrectores, directores, subdirectores, inspectores y subinspectores. Únicamente se podrá acceder a estos cargos, en las instituciones educativas públicas, a través del concurso de méritos y oposición. Podrán participar en los concursos para acceder a los cargos de rectores y directores, los profesionales de la educación pública, privada o fiscomisional que cumplan con el perfil requerido en la presente ley para el cargo descrito. Los cargos directivos de rectores y directores son parte de la carrera educativa pública y remunerativamente estarán sujetos a la Ley que regule el servicio público. Los docentes fiscales que accedan a cargos directivos de rectores y directores, deberán acreditar por lo menos la categoría "D". Serán declarados en comisión de servicios sin sueldo, y el tiempo que estén en la función directiva contará para el ascenso de categoría en la carrera educativa fiscal.
 
 Los directivos de todos los establecimientos educativos durarán cuatro años en sus funciones y podrán ser reelegidos por una sola vez, siempre que ganen los respectivos concursos públicos de méritos y oposición.
+
+[[END OF PAGE 33]]
+
+[[START OF PAGE 34]]
+
 35
 
 Podrán ser removidos de su función directiva por la Autoridad Educativa Nacional previo sumario administrativo, en los casos que contravengan con las disposiciones determinadas en la presente Ley y demás normativas. En casos de conmoción interna del establecimiento educativo podrán ser suspendidos hasta la resolución del sumario.
@@ -1898,6 +2065,11 @@ Se otorga un plazo máximo de seis años para obtener el título de profesor o l
 6. **Categoría E:** Es categoría de ascenso para las y los docentes con ocho años de experiencia que ingresen en la categoría G de la carrera docente pública y aprueben los cursos de formación requeridos y el proceso de evaluación correspondiente. Es categoría de ascenso para los docentes con título de profesor y dieciséis años de experiencia, que hayan aprobado los cursos de formación requeridos y el proceso de evaluación correspondiente;
 
 7. **Categoría D:** Es categoría de ascenso para las y los docentes con doce (12) años de experiencia que ingresen en la categoría G de la carrera docente pública y aprueben los cursos de formación requeridos o que hayan aprobado el programa de mentoría y el proceso de evaluación correspondiente. Es categoría de ascenso para los docentes con título de profesor y veinte años de experiencia, que
+
+[[END OF PAGE 34]]
+
+[[START OF PAGE 35]]
+
 hayan aprobado los cursos de formación requeridos y el proceso de evaluación correspondiente. Es requisito para ascender a la categoría D tener un título de cuarto nivel;
 
 8. **Categoría C:** Es categoría de ascenso para las y los docentes con dieciséis años de experiencia que ingresen en la categoría G de la carrera docente pública y aprueben los cursos de formación requeridos o que hayan aprobado el programa de mentoría y el proceso de evaluación correspondiente. Es categoría de ascenso para los docentes con título de profesor y veinticuatro años de experiencia, que hayan aprobado los cursos de formación requeridos y el proceso de evaluación correspondiente;
@@ -1955,6 +2127,11 @@ La promoción es el paso de un o una profesional de la educación a una función
 #### Art. 119.- Promoción a docente mentor.-
 
 Las y los docentes podrán ser promovidos a la función de docentes mentores; para ello, el o la profesional de la educación deberá cumplir con los siguientes requisitos previos al concurso de méritos y oposición:
+
+[[END OF PAGE 35]]
+
+[[START OF PAGE 36]]
+
 37
 
 a. Superar las evaluaciones tomadas por el Instituto Nacional de Evaluación Educativa;
@@ -2044,6 +2221,11 @@ f. A un reconocimiento a las y los docentes que al 13 de abril de cada año, hay
 g. A las y los docentes e instituciones educativas que hagan aportes importantes a la comunidad, al desarrollo social, o a la educación; y,
 
 h. El procedimiento de calificación y determinación de los estímulos estarán definidos en el reglamento correspondiente.
+
+[[END OF PAGE 36]]
+
+[[START OF PAGE 37]]
+
 #### Art. 126.- De las evaluaciones.-
 
 Los y las docentes que presten sus servicios en instituciones privadas deben someterse a las evaluaciones que para el efecto establezca el Instituto Nacional de Evaluación Educativa. No se requerirá de evaluación para el caso de docentes que impartan materias tales como religión, catecismo y las relacionadas con manualidades en instituciones educativas confesionales, si sus ingresos son pagados con fondos privados.
@@ -2111,6 +2293,11 @@ p. Promover o provocar la paralización del servicio educativo;
 q. Incentivar, publicitar o permitir el consumo o distribución de tabacos, bebidas alcohólicas, narcóticos, alucinógenos o cualquier tipo de sustancias psicotrópicas o estupefacientes;
 
 r. Negar matrícula o separar de la institución educativa a estudiantes por razones de embarazo, progenitud, maternidad, discapacidad, orientación sexual,
+
+[[END OF PAGE 37]]
+
+[[START OF PAGE 38]]
+
 39
 
 nacionalidad, discriminación racial, cultural o étnica, género, ideología, adhesión política y/o creencia religiosa;
@@ -2174,6 +2361,11 @@ b) Alterar la paz, la convivencia armónica e irrespetar los Códigos de Convive
 c) Cometer actos de violencia de hecho o de palabra contra cualquier miembro de la comunidad educativa, autoridades, ciudadanos y colectivos sociales;
 
 d) Deteriorar o destruir en forma voluntaria las instalaciones institucionales y los bienes públicos y privados;
+
+[[END OF PAGE 38]]
+
+[[START OF PAGE 39]]
+
 e) No cumplir con los principios y disposiciones contenidas en la presente Ley y en el ordenamiento jurídico ecuatoriano; y,
 
 f) Obstaculizar o interferir en el normal desenvolvimiento de las actividades académicas y culturales de la Institución.
@@ -2243,6 +2435,11 @@ De conformidad con el numeral 15 del artículo 326 de la Constitución, y consid
 #### SEGUNDA.-
 
 En concordancia con lo establecido en el artículo 95 y en el numeral 1 del artículo 278 de la Constitución de la República, todas las instancias del Sistema Nacional de Educación garantizarán la participación ciudadana de los individuos, las colectividades y sus diversas formas organizativas en todas las acciones, fases de planificación y decisión de la gestión.
+
+[[END OF PAGE 39]]
+
+[[START OF PAGE 40]]
+
 41
 
 educativa, mediante manuales de procedimientos específicos que deberán, además, ser obligatoriamente difundidos.
@@ -2299,6 +2496,10 @@ Las Juntas Distritales de Resolución de Conflictos tendrán la capacidad de arb
 
 La Autoridad Educativa Nacional incorporará de forma obligatoria en el currículo la educación integral en sexualidad, entendiendo la misma como algo inherente al ser humano, con enfoque de derechos y desde una perspectiva bio-psico-social, con sustento científico. Superando las visiones sesgadas, subjetivas y dogmáticas. La misma que deberá adaptar sus contenidos a todos los niveles desde el inicial hasta el bachillerato en todos los establecimientos educativos públicos, privados y fiscomisionales."
 
+[[END OF PAGE 40]]
+
+[[START OF PAGE 41]]
+
 ## TÍTULO VIII: DISPOSICIONES TRANSITORIAS
 
 #### PRIMERA.-
@@ -2343,6 +2544,10 @@ Los docentes públicos percibirán la bonificación para zonas de difícil acces
 | Los docentes públicos con una remuneración mensual unificada entre US $ 1.341 y US $ 1.590 | Categoría A | Servidor público 7 | 1590 |
 | Los docentes públicos con remuneración mensual unificada mayor a US $ 1.590 | Categoría AA | Ajuste determinado por la autoridad competente en materia de remuneraciones del sector público | El sueldo que percibe actualmente con el ajuste salarial respectivo |
 
+[[END OF PAGE 41]]
+
+[[START OF PAGE 42]]
+
 43
 
 El sueldo mensual unificado está compuesto por los siguientes componentes: remuneración mensual básica, el funcional, la antigüedad, la carga familiar, la carga educativa, el bono fronterizo, el décimo sexto sueldo, el costo de vida, la compensación pedagógica, el comisariato, la remuneración suplementaria, el bono amazónico, la bonificación Galápagos y el bono del día del maestro.
@@ -2386,6 +2591,11 @@ En acatamiento de la decimonovena disposición transitoria de la Constitución d
 En el transcurso de tres años, a partir de la aprobación de esta Ley, el Instituto Nacional de Evaluación realizará una evaluación del funcionamiento, finalidad y calidad de los procesos de educación popular permanente. Con estos resultados, la Autoridad Educativa Nacional diseñará las políticas adecuadas para el mejoramiento de calidad.
 
 De acuerdo con el artículo 53 de la presente Ley, las instituciones públicas y privadas que ofrecen educación popular permanente y educación compensatoria, serán denominadas instituciones educativas para personas con escolaridad inconclusa, y deberán garantizar la oferta de educación básica y bachillerato de conformidad con el currículo definido por la Autoridad Educativa Nacional.
+
+[[END OF PAGE 42]]
+
+[[START OF PAGE 43]]
+
 La educación artesanal básica pasará a ser educación general básica regular y para las personas con escolaridad inconclusa se acreditará a la formación artesanal para básico y bachillerato, con un currículo pertinente y adecuado para su edad.
 
 #### DÉCIMA PRIMERA.-
@@ -2445,6 +2655,11 @@ En el plazo de dos años se hará una evaluación de las instituciones privadas 
 #### VIGÉSIMA TERCERA.-
 
 Aquellas instituciones particulares de acción comunitaria que brindan servicios educativos en zonas urbano marginales y rurales en donde la educación pública no abastece la prestación de servicios y que a la fecha de expedición de la presente Ley se encuentren legalmente acreditadas por la Autoridad Educativa Nacional reciban un trato igual a los establecimientos fiscomisionales. Tales centros buscarán formas asociativas que les permita superar ese estado de precariedad sin afectar la demanda.
+
+[[END OF PAGE 43]]
+
+[[START OF PAGE 44]]
+
 45
 
 #### VIGÉSIMA CUARTA.-
@@ -2506,6 +2721,11 @@ En el plazo de un año se realizará una evaluación y auditoría de la asignaci
 #### TRIGÉSIMA SÉPTIMA.-
 
 La Autoridad Nacional de Educación en el plazo máximo de seis meses, contados a partir de la vigencia de la presente Ley, elaborará con la participación de los alumnos, padres de familia y maestros un Plan Nacional Integral para erradicar los delitos sexuales en el sistema educativo articulado al Plan Nacional de Educación; en dicho plan se tomarán medidas para investigar, enjuiciar y castigar a los responsables de infracciones sexuales, refuerce los programas de sensibilización y formación continua en las materias para el personal docente, con acciones emergentes, de corto mediano y largo plazo. Además deberá de contar con mecanismos de seguimiento y evaluación continua.
+
+[[END OF PAGE 44]]
+
+[[START OF PAGE 45]]
+
 #### TRIGÉSIMA OCTAVA.-
 
 La Dirección Nacional de Educación Intercultural Bilingüe deberá finalizar su reestructuración institucional en un plazo máximo de dos años a partir de la publicación de la Ley en el Registro Oficial.
@@ -2575,6 +2795,13 @@ Dado y suscrito en la sede de la Asamblea Nacional, ubicada en el Distrito Metro
 Fernando Cordero Cueva, Presidente.
 
 Dr. Francisco Vergara O., Secretario General.
+
+[[END OF PAGE 45]]
+
+[[START OF PAGE 46]]
+
 47
 
 ## Apuntes del lector
+
+[[END OF PAGE 46]]
