@@ -1,8 +1,8 @@
 [[START OF PAGE 1]]
 
-###### CONSTITUIÇÃO DA REPÚBLICA
+# CONSTITUIÇÃO DA REPÚBLICA
 
-###### Preâmbulo
+## Preâmbulo
 
 A  Luta  Armada  de  Libertação  Nacional,  respondendo  aos  anseios  seculares  do nosso Povo, aglutinou todas as camadas patrióticas da sociedade moçambicana num mesmo ideal de liberdade,  unidade,  justiça  e  progresso,  cujo  escopo  era libertar a terra e o Homem.
 
@@ -20,9 +20,9 @@ A  ampla  participação  dos  cidadãos  na  feitura  da  Lei  Fundamental  tra
 
 2
 
-# TÍTULO I PRINCÍPIOS FUNDAMENTAIS
+## TÍTULO I PRINCÍPIOS FUNDAMENTAIS
 
-## CAPÍTULO I REPÚBLICA
+### CAPÍTULO I REPÚBLICA
 
 #### Artigo 1 (República de Moçambique)
 
@@ -90,9 +90,7 @@ Na República de Moçambique a língua portuguesa é a língua oficial.
 
 4
 
-#### Artigo 11
-
-(Objectivos fundamentais)
+#### Artigo 11 (Objectivos fundamentais)
 
 - O Estado moçambicano tem como objectivos fundamentais:
 
@@ -116,9 +114,7 @@ Na República de Moçambique a língua portuguesa é a língua oficial.
 
 - o estabelecimento e desenvolvimento de relações de amizade e cooperação com outros povos e Estados.
 
-Artigo 12
-
-(Estado laico)
+#### Artigo 12 (Estado laico)
 
 1. A República de Moçambique é um Estado laico. 2. A laicidade assenta na separação entre o Estado e as confissões religiosas. 3. As confissões religiosas são livres na sua organização e no exercício das suas funções e de culto e devem conformar-se com as leis do Estado. 4. O Estado reconhece e valoriza as actividades das confissões religiosas visando
 
@@ -160,7 +156,7 @@ A  República  de  Moçambique  valoriza  a  luta  heróica  e  a  resistência 
 
 6
 
-## CAPÍTULO II POLÍTICA EXTERNA E DIREITO INTERNACIONAL
+### CAPÍTULO II POLÍTICA EXTERNA E DIREITO INTERNACIONAL
 
 #### Artigo 17 (Relações internacionais)
 
@@ -210,9 +206,9 @@ A República de Moçambique mantém laços especiais de amizade e cooperação c
 
 - A República de Moçambique preconiza a transformação do Oceano Índico em zona desnuclearizada e de paz.
 
-# TÍTULO II NACIONALIDADE
+## TÍTULO II NACIONALIDADE
 
-## CAPÍTULO I NACIONALIDADE ORIGINÁRIA
+### CAPÍTULO I NACIONALIDADE ORIGINÁRIA
 
 #### Artigo 23 (Princípio da territorialidade e da consanguinidade)
 
@@ -232,9 +228,7 @@ A República de Moçambique mantém laços especiais de amizade e cooperação c
 
 3. São moçambicanos os filhos de pai ou mãe de nacionalidade moçambicana ainda que nascidos em território estrangeiro, desde que expressamente, sendo maiores de dezoito anos de idade, ou pelos seus representantes legais, se forem menores daquela idade, declararem que pretendem ser moçambicanos.
 
-#### Artigo 24
-
-(Princípio da territorialidade)
+#### Artigo 24 (Princípio da territorialidade)
 
 1. São moçambicanos os cidadãos nascidos em Moçambique após a proclamação da independência.
 
@@ -244,9 +238,7 @@ A República de Moçambique mantém laços especiais de amizade e cooperação c
 
 4. O prazo para a declaração referida no número anterior é de um ano, a contar da data do nascimento ou daquela em que o interessado completar dezoito anos de idade, conforme a declaração seja feita, respectivamente, pelo representante legal ou pelo próprio.
 
-#### Artigo 25
-
-(Por maioridade)
+#### Artigo 25 (Por maioridade)
 
 São moçambicanos os indivíduos que preenchendo os pressupostos da nacionalidade originária, não a tenham adquirido por virtude de opção dos seus representantes legais, desde que, sendo maiores de dezoito anos de idade e até um ano depois de atingirem a maioridade, declarem, por si, que pretendem ser moçambicanos.
 
@@ -258,9 +250,7 @@ São moçambicanos os indivíduos que preenchendo os pressupostos da nacionalida
 
 9
 
-## CAPÍTULO II
-
-###### NACIONALIDADE ADQUIRIDA
+### CAPÍTULO II NACIONALIDADE ADQUIRIDA
 
 #### Artigo 26 (Por casamento)
 
@@ -290,9 +280,7 @@ São moçambicanos os indivíduos que preenchendo os pressupostos da nacionalida
 
 2. Os requisitos constantes das alíneas a) e c) são dispensados aos estrangeiros que tenham prestado relevantes serviços ao Estado moçambicano, nos termos fixados na lei.
 
-#### Artigo 28
-
-(Por filiação)
+#### Artigo 28 (Por filiação)
 
 Através  do  acto  de  naturalização,  a  nacionalidade  moçambicana  pode  ser concedida aos filhos do cidadão de nacionalidade adquirida, solteiros e menores de dezoito anos de idade.
 
@@ -302,9 +290,7 @@ Através  do  acto  de  naturalização,  a  nacionalidade  moçambicana  pode  
 
 10
 
-#### Artigo 29
-
-(Por adopção)
+#### Artigo 29 (Por adopção)
 
 O  adoptado  plenamente  por  nacional  moçambicano  adquire  a  nacionalidade moçambicana.
 
@@ -314,11 +300,9 @@ O  adoptado  plenamente  por  nacional  moçambicano  adquire  a  nacionalidade 
 
 - A  lei  define  as  condições  do  exercício  de  funções  públicas  ou  de  funções privadas  de  interesse  público  por  cidadãos  moçambicanos  de  nacionalidade adquirida.
 
-## CAPÍTULO III PERDA E REAQUISIÇÃO DA NACIONALIDADE
+### CAPÍTULO III PERDA E REAQUISIÇÃO DA NACIONALIDADE
 
-#### Artigo 31
-
-(Perda)
+#### Artigo 31 (Perda)
 
 Perde a nacionalidade moçambicana:
 
@@ -326,9 +310,7 @@ Perde a nacionalidade moçambicana:
 
 - aquele  a  quem,  sendo  menor,  tenha  sido  atribuída    a  nacionalidade moçambicana  por  efeito  de  declaração  do  seu  representante  legal,  se declarar,  pelos  meios  competentes  até  um  ano  depois  de  atingir  a maioridade, que não quer ser moçambicano e se provar  que tem outra nacionalidade.
 
-#### Artigo 32
-
-(Reaquisição)
+#### Artigo 32 (Reaquisição)
 
 - Pode ser concedida a nacionalidade moçambicana àqueles que, depois de a terem perdido, a requeiram e reunam cumulativamente as seguintes condições:
 
@@ -346,7 +328,7 @@ Perde a nacionalidade moçambicana:
 
 3. A  reaquisição  da  nacionalidade  faz  regressar  à  situação  jurídica  anterior  à perda da nacionalidade.
 
-## CAPÍTULO IV PREVALÊNCIA DA NACIONALIDADE E REGISTO
+### CAPÍTULO IV PREVALÊNCIA DA NACIONALIDADE E REGISTO
 
 #### Artigo 33 (Prevalência da nacionalidade moçambicana)
 
@@ -356,9 +338,9 @@ Não é reconhecida nem produz efeitos na ordem jurídica interna qualquer outra
 
 O registo e prova da aquisição, da perda e da reaquisição da nacionalidade são regulados por lei.
 
-# TÍTULO III DIREITOS, DEVERES E LIBERDADES FUNDAMENTAIS
+## TÍTULO III DIREITOS, DEVERES E LIBERDADES FUNDAMENTAIS
 
-## CAPÍTULO I PRINCÍPIOS GERAIS
+### CAPÍTULO I PRINCÍPIOS GERAIS
 
 #### Artigo 35 (Princípio da universalidade e igualdade)
 
@@ -454,7 +436,7 @@ Todo o cidadão tem o dever de:
 
 3. Todos os actos relativos às crianças, quer praticados por entidades públicas, quer por instituições privadas, têm principalmente em conta o interesse superior da criança.
 
-## CAPÍTULO II DIREITOS,  DEVERES E LIBERDADES
+### CAPÍTULO II DIREITOS,  DEVERES E LIBERDADES
 
 #### Artigo 48 (Liberdades de expressão e informação)
 
@@ -544,7 +526,7 @@ Todos os cidadãos têm direito à liberdade de reunião e manifestação nos te
 
 2. Todos os cidadãos são livres de circular no interior e para exterior do território nacional, excepto os judicialmente privados desse direito.
 
-## CAPÍTULO III DIREITOS, LIBERDADES E GARANTIAS INDIVIDUAIS
+### CAPÍTULO III DIREITOS, LIBERDADES E GARANTIAS INDIVIDUAIS
 
 #### Artigo 56 (Princípios gerais)
 
@@ -704,9 +686,7 @@ O cidadão tem o direito de recorrer aos tribunais contra os actos que violem os
 
 - Sempre  que  se  verifique  suspensão  ou  limitação  de  liberdades  ou  de garantias, elas têm um carácter geral e abstracto e devem especificar a duração e a base legal em que assenta.
 
-## CAPÍTULO IV
-
-##### DIREITOS, LIBERDADES E GARANTIAS DE PARTICIPAÇÃO POLÍTICA
+### CAPÍTULO IV DIREITOS, LIBERDADES E GARANTIAS DE PARTICIPAÇÃO POLÍTICA
 
 #### Artigo 73 (Sufrágio universal)
 
@@ -782,11 +762,9 @@ O cidadão tem o direito de não acatar ordens ilegais ou que ofendam os seus di
 
 - o direito de defender os bens do Estado  e das autarquias locais.
 
-## CAPÍTULO V DIREITOS E DEVERES ECONÓMICOS, SOCIAIS E CULTURAIS
+### CAPÍTULO V DIREITOS E DEVERES ECONÓMICOS, SOCIAIS E CULTURAIS
 
-#### Artigo 82
-
-(Direito de propriedade)
+#### Artigo 82 (Direito de propriedade)
 
 - O Estado reconhece e garante o direito de propriedade.
 
@@ -796,9 +774,7 @@ O cidadão tem o direito de não acatar ordens ilegais ou que ofendam os seus di
 
 - O Estado reconhece e garante, nos termos da lei, o direito à herança.
 
-#### Artigo 84
-
-(Direito ao trabalho)
+#### Artigo 84 (Direito ao trabalho)
 
 - O trabalho constitui direito e dever de cada cidadão.
 
@@ -904,9 +880,9 @@ Todos os cidadãos têm o direito à assistência médica e sanitária, nos term
 
 28
 
-# TÍTULO IV ORGANIZAÇÃO ECONÓMICA, SOCIAL, FINANCEIRA E FISCAL
+## TÍTULO IV ORGANIZAÇÃO ECONÓMICA, SOCIAL, FINANCEIRA E FISCAL
 
-## CAPÍTULO I PRINCÍPIOS GERAIS
+### CAPÍTULO I PRINCÍPIOS GERAIS
 
 #### Artigo 96 (Política económica)
 
@@ -990,7 +966,7 @@ A  organização  económica  e  social  da  República  de  Moçambique  visam 
 
 Os impostos são criados ou alterados por lei, que os fixa segundo critérios de justiça social.
 
-## CAPÍTULO II ORGANIZAÇÃO ECONÓMICA
+### CAPÍTULO II ORGANIZAÇÃO ECONÓMICA
 
 #### Artigo 101 (Coordenação da actividade económica)
 
@@ -1018,9 +994,7 @@ Na República de Moçambique a indústria é o factor impulsionador da economia 
 
 31
 
-#### Artigo 105
-
-(Sector familiar)
+#### Artigo 105 (Sector familiar)
 
 - Na  satisfação  das  necessidades  essenciais  da  população,  ao  sector  familiar cabe um papel fundamental.
 
@@ -1066,7 +1040,7 @@ Na República de Moçambique a indústria é o factor impulsionador da economia 
 
 Na titularização do direito de uso e aproveitamento da terra, o Estado reconhece e protege os direitos adquiridos por herança ou ocupação, salvo havendo reserva legal ou se a terra tiver sido legalmente atribuída à outra pessoa ou entidade.
 
-## CAPÍTULO III ORGANIZAÇÃO SOCIAL
+### CAPÍTULO III ORGANIZAÇÃO SOCIAL
 
 #### Artigo 112 (Trabalho)
 
@@ -1108,9 +1082,7 @@ Na titularização do direito de uso e aproveitamento da terra, o Estado reconhe
 
 2. O  Estado  promove  a  difusão  da  cultura  moçambicana  e  desenvolve  acções para  fazer  beneficiar  o  povo  moçambicano  das  conquistas  culturais  dos  outros povos.
 
-Artigo 116
-
-(Saúde)
+#### Artigo 116 (Saúde)
 
 1. A  assistência  médica  e  sanitária  aos  cidadãos  é  organizada  através  de  um sistema nacional de saúde que beneficie todo o povo moçambicano.
 
@@ -1178,9 +1150,7 @@ Artigo 116
 
 - Os pais e as mães devem prestar assistência aos filhos nascidos dentro e fora do casamento.
 
-#### Artigo 121
-
-(Infância)
+#### Artigo 121 (Infância)
 
 - Todas  as  crianças  têm  direito  à  protecção  da  família,  da  sociedade  e  do Estado, tendo em vista o seu desenvolvimento integral.
 
@@ -1246,7 +1216,7 @@ Artigo 116
 
 - O Estado encoraja a criação de associações de portadores de deficiência.
 
-## CAPÍTULO IV SISTEMA FINANCEIRO E FISCAL
+### CAPÍTULO IV SISTEMA FINANCEIRO E FISCAL
 
 #### Artigo 126 (Sistema financeiro)
 
@@ -1320,11 +1290,9 @@ A execução do Orçamento do Estado é fiscalizada pelo Tribunal Administrativo
 
 40
 
-# TÍTULO V
+## TÍTULO V ORGANIZAÇÃO DO PODER POLÍTICO
 
-###### ORGANIZAÇÃO DO PODER POLÍTICO
-
-###### CAPÍTULO ÚNICO PRINCÍPIOS GERAIS
+### CAPÍTULO ÚNICO PRINCÍPIOS GERAIS
 
 #### Artigo 133 (Órgãos de soberania)
 
@@ -1472,9 +1440,9 @@ O representante do Governo a nível da Província é o Governador Provincial.
 
 Os  órgãos  centrais  do  Estado  asseguram  a  sua  representação  nos  diversos escalões territoriais.
 
-# TÍTULO VI PRESIDENTE DA REPÚBLICA
+## TÍTULO VI PRESIDENTE DA REPÚBLICA
 
-## CAPÍTULO I ESTATUTO E ELEIÇÃO
+### CAPÍTULO I ESTATUTO E ELEIÇÃO
 
 #### Artigo 146 (Definição)
 
@@ -1612,7 +1580,7 @@ Em  caso  algum  pode  o  Presidente  da  República,  em  exercício  efectivo 
 
 Os actos normativos do Presidente da República assumem a forma de decreto presidencial  e  as  demais  decisões  revestem  a  forma  de  despacho  e  são publicadas no Boletim da República.
 
-## CAPÍTULO II COMPETÊNCIA
+### CAPÍTULO II COMPETÊNCIA
 
 #### Artigo 159 (Competências gerais)
 
@@ -1708,7 +1676,7 @@ No domínio das relações internacionais, compete ao Presidente da República:
 
 - Se a lei reexaminada for aprovada por maioria de dois terços, o Presidente da República deve promulgá-la e mandá-la publicar.
 
-## CAPÍTULO III CONSELHO DE ESTADO
+### CAPÍTULO III CONSELHO DE ESTADO
 
 #### Artigo 164 (Definição e composição)
 
@@ -1774,9 +1742,9 @@ Compete ao Conselho de Estado, em geral, aconselhar o Presidente da República n
 
 - O Conselho de Estado estabelece o respectivo regimento.
 
-# TÍTULO VII ASSEMBLEIA DA REPÚBLICA
+## TÍTULO VII ASSEMBLEIA DA REPÚBLICA
 
-## CAPÍTULO I ESTATUTO E ELEIÇÃO
+### CAPÍTULO I ESTATUTO E ELEIÇÃO
 
 #### Artigo 168 (Definição)
 
@@ -1914,7 +1882,7 @@ São poderes do Deputado:
 
 - Implicam ainda a perda do mandato quaisquer inelegibilidades  existentes  à data  das  eleições  e  conhecidas  posteriormente,  bem  como  as  incapacidades previstas na lei.
 
-## CAPÍTULO II COMPETÊNCIA
+### CAPÍTULO II COMPETÊNCIA
 
 #### Artigo 179 (Competências)
 
@@ -2050,7 +2018,7 @@ Os actos legislativos da Assembleia da República assumem a forma de lei e as de
 
 59
 
-## CAPÍTULO III ORGANIZAÇÃO E FUNCIONAMENTO
+### CAPÍTULO III ORGANIZAÇÃO E FUNCIONAMENTO
 
 #### Artigo 185 (Legislatura)
 
@@ -2238,9 +2206,9 @@ Compete à Comissão Permanente da Assembleia da República:
 
 64
 
-# TÍTULO VIII GOVERNO
+## TÍTULO VIII GOVERNO
 
-## CAPÍTULO I DEFINIÇÃO E COMPOSIÇÃO
+### CAPÍTULO I DEFINIÇÃO E COMPOSIÇÃO
 
 #### Artigo 200 (Definição)
 
@@ -2260,7 +2228,7 @@ O Governo da República de Moçambique é o Conselho de Ministros.
 
 - A formulação de políticas governamentais pelo Conselho de Ministros é feita em sessões dirigidas pelo Presidente da República.
 
-## CAPÍTULO II COMPETÊNCIA E RESPONSABILIDADE
+### CAPÍTULO II COMPETÊNCIA E RESPONSABILIDADE
 
 #### Artigo 203 (Função)
 
@@ -2392,9 +2360,9 @@ Os  membros  do  Governo  estão  vinculados  ao  Programa  do  Governo  e  às 
 
 ou  não  ser  suspenso  para  efeitos  de  prosseguimento  do  processo,  sendo obrigatória a decisão de suspensão quando se trate de crime do tipo referido no número anterior.
 
-# TÍTULO IX TRIBUNAIS
+## TÍTULO IX TRIBUNAIS
 
-## CAPÍTULO I PRINCÍPIOS GERAIS
+### CAPÍTULO I PRINCÍPIOS GERAIS
 
 #### Artigo 212 (Função jurisdicional)
 
@@ -2432,7 +2400,7 @@ As decisões dos tribunais são de cumprimento obrigatório para todos os cidad�
 
 - A lei estabelece as formas de eleição e de participação dos juizes mencionados  no  presente  artigo  e  fixa  a  duração  do  respectivo  período  de exercício de funções.
 
-## CAPÍTULO II ESTATUTO DOS JUIZES
+### CAPÍTULO II ESTATUTO DOS JUIZES
 
 #### Artigo 217 (Independência dos juizes)
 
@@ -2500,9 +2468,9 @@ Compete ao Conselho Superior da Magistratura Judicial, nomeadamente:
 
 - dar pareceres e fazer recomendações sobre a política judiciária, por sua iniciativa  ou  a  pedido  do  Presidente  da  República,  da  Assembleia  da República ou do Governo.
 
-## CAPÍTULO III ORGANIZAÇÃO DOS TRIBUNAIS
+### CAPÍTULO III ORGANIZAÇÃO DOS TRIBUNAIS
 
-### SECÇÃO I ESPÉCIES DE TRIBUNAIS
+#### SECÇÃO I ESPÉCIES DE TRIBUNAIS
 
 #### Artigo 223 (Espécies)
 
@@ -2534,7 +2502,7 @@ Compete ao Conselho Superior da Magistratura Judicial, nomeadamente:
 
 Durante a vigência do estado de guerra são constituídos tribunais militares com competência para o julgamento de crimes de natureza estritamente militar.
 
-### SECÇÃO II TRIBUNAL SUPREMO
+#### SECÇÃO II TRIBUNAL SUPREMO
 
 #### Artigo 225 (Definição)
 
@@ -2564,7 +2532,7 @@ Durante a vigência do estado de guerra são constituídos tribunais militares c
 
 - em plenário, como tribunal de segunda instância e de instância única, nos casos expressamente previstos na lei.
 
-### SECÇÃO III TRIBUNAL ADMINISTRATIVO
+#### SECÇÃO III TRIBUNAL ADMINISTRATIVO
 
 #### Artigo 228 (Definição)
 
@@ -2630,7 +2598,7 @@ Os magistrados do Tribunal Administrativo, em exercício, não podem desempenhar
 
 75
 
-# TÍTULO X MINISTÉRIO PÚBLICO
+## TÍTULO X MINISTÉRIO PÚBLICO
 
 #### Artigo 234 (Definição)
 
@@ -2700,7 +2668,7 @@ pela Assembleia da República e membros de entre si eleitos pelos magistrados do
 
 77
 
-# TÍTULO XI CONSELHO CONSTITUCIONAL
+## TÍTULO XI CONSELHO CONSTITUCIONAL
 
 #### Artigo 241 (Definição)
 
@@ -2832,9 +2800,9 @@ Os  Juizes  Conselheiros  do  Conselho  Constitucional,  em  exercício,  não  
 
 81
 
-# TÍTULO XII ADMINISTRAÇÃO PÚBLICA, POLÍCIA, PROVEDOR DE JUSTIÇA E ÓRGÃOS LOCAIS DO ESTADO
+## TÍTULO XII ADMINISTRAÇÃO PÚBLICA, POLÍCIA, PROVEDOR DE JUSTIÇA E ÓRGÃOS LOCAIS DO ESTADO
 
-## CAPÍTULO I ADMINISTRAÇÃO PÚBLICA
+### CAPÍTULO I ADMINISTRAÇÃO PÚBLICA
 
 #### Artigo 249 (Princípios fundamentais)
 
@@ -2874,7 +2842,7 @@ Os  Juizes  Conselheiros  do  Conselho  Constitucional,  em  exercício,  não  
 
 3. É  assegurado  aos  cidadãos  interessados  o  direito  ao  recurso  contencioso fundado em ilegalidade de actos administrativos, desde que prejudiquem os seus direitos.
 
-## CAPÍTULO II POLÍCIA
+### CAPÍTULO II POLÍCIA
 
 #### Artigo 254 (Definição)
 
@@ -2898,7 +2866,7 @@ A Polícia é apartidária.
 
 - A  lei  estabelece  a  organização  geral  da  Polícia,  fixa  os  respectivos  ramos, determina a sua função, estrutura e as normas que regem o ingresso.
 
-## CAPÍTULO III PROVEDOR DE JUSTIÇA
+### CAPÍTULO III PROVEDOR DE JUSTIÇA
 
 #### Artigo 256 (Definição)
 
@@ -2934,7 +2902,7 @@ Os  órgãos  e  agentes  da  Administração  Pública  têm  o  dever  de  pre
 
 Os demais aspectos relativos ao estatuto, procedimentos e à estrutura organizativa de apoio ao Provedor de Justiça são fixados por lei.
 
-## CAPÍTULO IV ÓRGÃOS LOCAIS DO ESTADO
+### CAPÍTULO IV ÓRGÃOS LOCAIS DO ESTADO
 
 #### Artigo 262 (Definição)
 
@@ -2964,9 +2932,9 @@ Os órgãos locais do Estado têm como função a representação do Estado ao n
 
 - A  organização,  funcionamento  e  competências  dos  órgãos  locais  do  Estado são regulados por lei.
 
-# TÍTULO XIII DEFESA NACIONAL E CONSELHO NACIONAL DE DEFESA E SEGURANÇA
+## TÍTULO XIII DEFESA NACIONAL E CONSELHO NACIONAL DE DEFESA E SEGURANÇA
 
-## CAPÍTULO I DEFESA NACIONAL
+### CAPÍTULO I DEFESA NACIONAL
 
 #### Artigo 265 (Princípios fundamentais)
 
@@ -2998,7 +2966,7 @@ A  política  de  defesa  e  segurança  do  Estado  visa  defender  a  independ
 
 - As isenções do serviço militar são fixadas por lei.
 
-## CAPÍTULO II CONSELHO NACIONAL DE DEFESA E SEGURANÇA
+### CAPÍTULO II CONSELHO NACIONAL DE DEFESA E SEGURANÇA
 
 #### Artigo 268 (Definição e composição)
 
@@ -3030,7 +2998,7 @@ São, nomeadamente, competências do Conselho Nacional de Defesa e Segurança:
 
 A organização e funcionamento do Conselho Nacional de Defesa e Segurança são fixados por lei.
 
-# TÍTULO XIV PODER LOCAL
+## TÍTULO XIV PODER LOCAL
 
 #### Artigo 271 (Objectivos)
 
@@ -3124,9 +3092,9 @@ A revogação e renúncia do mandato dos membros eleitos dos órgãos autárquic
 
 90
 
-# TÍTULO XV GARANTIAS DA CONSTITUIÇÃO
+## TÍTULO XV GARANTIAS DA CONSTITUIÇÃO
 
-## CAPÍTULO I DOS ESTADOS DE SÍTIO E DE EMERGÊNCIA
+### CAPÍTULO I DOS ESTADOS DE SÍTIO E DE EMERGÊNCIA
 
 #### Artigo 282 (Estado de sítio ou de emergência)
 
@@ -3204,7 +3172,7 @@ A declaração do estado de sítio ou de emergência não pode afectar a aplica�
 
 - A cessação do estado de sítio ou de emergência faz cessar os seus efeitos, sem  prejuízo da responsabilidade por actos ilícitos cometidos  pelos seus executores ou agentes.
 
-## CAPÍTULO II REVISÃO DA CONSTITUIÇÃO
+### CAPÍTULO II REVISÃO DA CONSTITUIÇÃO
 
 #### Artigo 291 (Iniciativa)
 
@@ -3276,7 +3244,7 @@ Na  vigência  do  estado  de  sítio  ou  do  estado  de  emergência  não  po
 
 - A Constituição, no seu novo texto, é publicada conjuntamente com a lei de revisão.
 
-# TÍTULO XVI SÍMBOLOS, MOEDA E CAPITAL DA REPÚBLICA
+## TÍTULO XVI SÍMBOLOS, MOEDA E CAPITAL DA REPÚBLICA
 
 #### Artigo 297 (Bandeira nacional)
 
@@ -3342,7 +3310,7 @@ A capital da República de Moçambique é a Cidade de Maputo.
 
 96
 
-# TÍTULO XVII DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+## TÍTULO XVII DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 #### Artigo 302 (Bandeira e emblema)
 
