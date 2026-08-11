@@ -1,12 +1,12 @@
 [[START OF PAGE 1]]
 
-*
+
 
 2013
 
 # Special Educational Needs (SEN) Policy Antigua and Barbuda
 
-Joy-Ann P. Harrigan Education Officer - SEN Ministry of Education 12/12/2013
+Joy-Ann P. Harrigan Education Officer – SEN Ministry of Education 12/12/2013
 
 [[END OF PAGE 1]]
 
@@ -56,10 +56,10 @@ processes and contribute to the assessment of their needs, the review and transi
 
 Provision for children with special educational needs is a matter for the government of Antigua and Barbuda as a whole. In addition to the MOE, the Education Officer for Special Needs, the Coordinator of Special Needs,  schools' Principals, all other members of staff  who has important day-to-day responsibilities.
 
-#### 2.1 All teachers are teachers of children with special educational need s.
-Teaching such children is therefore a whole school responsibility. planning, teaching and assessing which takes account of the wide range of abilities, aptitudes and interests of children. The majority of children will learn and progress within these arrangements. Those children whose overall attainments or attainment
+#### 2.1 All teachers are teachers of children with special educational needs.
+Teaching such children is therefore a whole school responsibility.
 
-At the heart of the work of every primary school class is a continuous cycle of in specific subjects fall significantly outside the expected range may have special educational needs.
+At the heart of the work of every primary school class is a continuous cycle of planning, teaching and assessing which takes account of the wide range of abilities, aptitudes and interests of children. The majority of children will learn and progress within these arrangements. Those children whose overall attainments or attainment in specific subjects fall significantly outside the expected range may have special educational needs.
 
 ### 3.0 Provision
 
@@ -87,7 +87,7 @@ The EO for Special Needs will aim to facilitate the identification, and assessme
 
 - 3.1 The identification and assessment of the special educational needs of children whose first language is not English, requires particular care. Where there is uncertainty about an individual child teachers will look carefully at all aspects of a child's performance in different subjects to establish whether the problems they have in the classroom are due to limitations in their command of the language that is used there or arise from special educational needs.
 
-- 3.2 In order to help children who have special educational needs, the MOE will adopt a graduated response that recognises there is a continuum of special educational needs and brings increasing specialist expertise to bear on the challenges that a children may be experiencing to participate in education. The MOE will record the steps taken to meet the needs of individual children. The EOSEN will have responsibility for ensuring that the records are kept and available as needed. If schools refer a child for a statutory assessment, they should provide the MOE with a record of their work with the child including the arrangements they have already made.
+- 3.2 In order to help children who have special educational needs, the MOE will adopt a graduated response that recognises there is a continuum of special educational needs and brings increasing specialist expertise to bear on the challenges that a children may be experiencing to participate in education. The MOE will record the steps taken to meet the needs of individual children. The EO-SEN will have responsibility for ensuring that the records are kept and available as needed. If schools refer a child for a statutory assessment, they should provide the MOE with a record of their work with the child including the arrangements they have already made.
 
 [[END OF PAGE 5]]
 
@@ -123,7 +123,7 @@ Department, Probation Department, Community Centres, Community Clinics etc to he
 
 ### 5.0 Monitoring children's progress
 
-The MOE's system for observing and assessing the progress of individual children will provide information about areas where a child has special needs, satisfactorily. Under these circumstances, teachers may need to consult the EOSEN to consider what else might be done. This review may lead to the conclusion that the pupil requires help over and above that which is normally available within the particular class or subject. The key test of the need for action is evidence that current rates of progress are inadequate. Adequate progress can be defined in a number of ways. It might be progress which:
+The MOE's system for observing and assessing the progress of individual children will provide information about areas where a child has special needs, satisfactorily. Under these circumstances, teachers may need to consult the EO-SEN to consider what else might be done. This review may lead to the conclusion that the pupil requires help over and above that which is normally available within the particular class or subject. The key test of the need for action is evidence that current rates of progress are inadequate. Adequate progress can be defined in a number of ways. It might be progress which:
 
 [[END OF PAGE 6]]
 
@@ -147,7 +147,7 @@ The MOE's system for observing and assessing the progress of individual children
 
 ### 6.0 School Action
 
-When a class teacher or any educator identifies a child with special educational needs, the class teacher will provide interventions that are additional to from those provided as part of the school's usual differentiated curriculum. This will be called School Actio n . The triggers for intervention through School Action will be c oncern, underpinned by evidence, about a child who despite receiving differentiated learning opportunities makes
+When a class teacher or any educator identifies a child with special educational needs, the class teacher will provide interventions that are additional to from those provided as part of the school's usual differentiated curriculum. This will be called School Action. The triggers for intervention through School Action will be concern, underpinned by evidence, about a child who despite receiving differentiated learning opportunities makes
 
 - little or no progress even when teaching approaches are targeted particularly in a child's identified area of weakness
 
@@ -213,7 +213,7 @@ The EO-SEN will request additional support from external services once it is nee
 
 - 9.1 A School Action Plan will include the identification of the child's challenges to work within normal range of peers and age level based on the same teachings. The class teacher will employ strategies to specifically help the individual child. If met with challenges after a full term, the teacher will discuss with Principal who will  provide more support, according to resources available, to inform planning and the measurement of a pupil's progress, give advice on the use of new or specialist strategies or materials, and in some cases provide support for particular activities.
 
-The referrals after School Action Plan will be that, despite receiving individualised support under School Actio n, the child:
+The referrals after School Action Plan will be that, despite receiving individualised support under School Action, the child:
 
 - continues to make little or no progress in specific areas over a long period
 
@@ -261,7 +261,7 @@ Where a request for a statutory assessment is made by the school to the EO-SEN, 
 
 ### 11.0 Statutory Assessment of Special Educational Needs
 
-Statutory assessment involves consideration by the EO-SEN, working cooperatively with parents, the child's school and, as appropriate, other agencies, as to whether a statutory assessment of the child's special educational needs is necessary. A child will be brought to the EO-SEN attention as possibly requiring an assessment through a request by the child's school, from a parent or a referral by another agency. Where the evidence presented to the EO-SEN suggests that the child's learning difficulties have not responded to relevant and purposeful measures taken by the school and external support and may call for special educational provision which cannot reasonably be provided within the resources normally available to mainstream schools, the EO-SEN will consider the case for a statutory assessment of the child's special educational needs.
+Statutory assessment involves consideration by the EO-SEN, working co-operatively with parents, the child's school and, as appropriate, other agencies, as to whether a statutory assessment of the child's special educational needs is necessary. A child will be brought to the EO-SEN attention as possibly requiring an assessment through a request by the child's school, from a parent or a referral by another agency. Where the evidence presented to the EO-SEN suggests that the child's learning difficulties have not responded to relevant and purposeful measures taken by the school and external support and may call for special educational provision which cannot reasonably be provided within the resources normally available to mainstream schools, the EO-SEN will consider the case for a statutory assessment of the child's special educational needs.
 
 11.1 The EO-SEN may decide that the degree of the pupil's learning difficulty and the nature of the provision necessary to meet the child's special educational needs is such as to require the EO-SEN to determine the child's special educational provision through a statement . A statement of special education needs will include:
 
@@ -285,11 +285,11 @@ Statutory assessment involves consideration by the EO-SEN, working cooperatively
 
 .  Include parent and family interview on the capabilities, likes and preferences of the child
 
-11.2 All children with statements of special educational needs will have shortterm targets set for them that have been established after consultation with parents, child and include targets identified in the statement of educational need. These targets will be set out in an IEP and be implemented, at least in part and as far as possible, in the normal classroom setting. The delivery of the interventions recorded in the IEP will continue to be the responsibility of the class teacher.
+11.2 All children with statements of special educational needs will have short-term targets set for them that have been established after consultation with parents, child and include targets identified in the statement of educational need. These targets will be set out in an IEP and be implemented, at least in part and as far as possible, in the normal classroom setting. The delivery of the interventions recorded in the IEP will continue to be the responsibility of the class teacher.
 
 ### 12.0 Annual review of a statement of special educational needs
 
-All statements must be reviewed at least annually with the parents, the pupil, the EO-SEN, the school and professionals involved invited to consider whether any amendments need to be made to the description of the pupil's needs or to the special educational provision specified in the statement. The annual review should focus on what the child has achieved as well as on any difficulties that need to be resolved. At the review in year 5, the aim should be to give clear recommendations as to the type of provision the child will require at the secondary stage. It will then be possible for the parents to visit secondary schools and to consider appropriate options within the similar timescales as other parents. The principal of the receiving school should be invited to attend the final annual review in primary school of pupils with statements, to allow the receiving school to plan an appropriate IEP to start at the beginning of the new school year and enable the pupil and the parents to be reassured that an effective and supportive transfer will occur. The secondary programme for the special needs child will report to the EOSEN in a similar method as far as possible and EO's for the various subject areas will consult with the EO-SEN on providing instructions in their respective subject areas for special needs children. Reports will also be submitted termly to the EOSEN for review and consultation.
+All statements must be reviewed at least annually with the parents, the pupil, the EO-SEN, the school and professionals involved invited to consider whether any amendments need to be made to the description of the pupil's needs or to the special educational provision specified in the statement. The annual review should focus on what the child has achieved as well as on any difficulties that need to be resolved. At the review in year 5, the aim should be to give clear recommendations as to the type of provision the child will require at the secondary stage. It will then be possible for the parents to visit secondary schools and to consider appropriate
 
 [[END OF PAGE 12]]
 
@@ -297,10 +297,12 @@ All statements must be reviewed at least annually with the parents, the pupil, t
 
 13
 
+options within the similar timescales as other parents. The principal of the receiving school should be invited to attend the final annual review in primary school of pupils with statements, to allow the receiving school to plan an appropriate IEP to start at the beginning of the new school year and enable the pupil and the parents to be reassured that an effective and supportive transfer will occur. The secondary programme for the special needs child will report to the EO-SEN in a similar method as far as possible and EO's for the various subject areas will consult with the EO-SEN on providing instructions in their respective subject areas for special needs children. Reports will also be submitted termly to the EO-SEN for review and consultation.
+
 Ministry of Education, Sports, Youth and Gender Affairs
 
-Antigua and Barbuda 23 rd August, 2013
+Antigua and Barbuda 23rd August, 2013
 
-The information in this policy is adapted from Special Educational Needs Code of Practice. DfEE 581/2001 November 2001 available from DfES Publications, PO Box 5050, Sherwood Park, Annesley, Nottinghamshire, NG15 ODJ 0845 60 222 60
+The information in this policy is adapted from Special Educational Needs Code of Practice. DfEE 581/2001 November 2001 available from DfES Publications, PO Box 5050, Sherwood Park, Annesley, Nottinghamshire, NG15 0DJ 0845 60 222 60
 
 [[END OF PAGE 13]]
