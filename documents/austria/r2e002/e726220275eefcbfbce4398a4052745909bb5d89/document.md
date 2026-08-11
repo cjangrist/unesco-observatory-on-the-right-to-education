@@ -1,7 +1,7 @@
 [[START OF PAGE 1]]
 
-# Bundesländerübergreifender Bildungs Rahmen Plan für elementare Bildungseinrichtungen in Österreich
-Endfassung, August 2009
+# Bundesländerübergreifender BildungsRahmenPlan für elementare Bildungseinrichtungen in Österreich
+Charlotte Bühler Institut
 
 [[END OF PAGE 1]]
 
@@ -15,24 +15,38 @@ Eigentümer und Herausgeber: Ämter der Landesregierungen der österreichischen 
 
 [[START OF PAGE 3]]
 
-# Bundesländerübergreifender Bildungs Rahmen Plan für elementare Bildungseinrichtungen in Österreich
+# Bundesländerübergreifender BildungsRahmenPlan für elementare Bildungseinrichtungen in Österreich
+Endfassung, August 2009
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-## An der Entwicklung des 'Bundesländerübergreifenden BildungsRahmenPlans für elementare Bildungseinrichtungen in Österreich' haben mitgewirkt:
+## An der Entwicklung des „Bundesländerübergreifenden BildungsRahmenPlans für elementare Bildungseinrichtungen in Österreich“ haben mitgewirkt:
 
 ### Konzipierung und fachliche Rückmeldung:
 
-Stellvertretend für die Expertinnen und Experten der Bundesländer (KindergarteninspektorInnen und FachberaterInnen) in alphabetischer Reihenfolge: KGI Andrea Bair - Burgenland KGI Monika Baumann, MAS - Salzburg Mag. a  Martina Grötschnig, MC - Steiermark KGI Mag. a  Michaela Hutz - Tirol Mag. a Sylvia Minich - Wien MMag. Dr. Gerald Salzmann - Kärnten Dr. in  Renate Steger - Niederösterreich KGI Gerlinde Strasser - Oberösterreich KGI Margot Thoma - Vorarlberg
+Stellvertretend für die Expertinnen und Experten der Bundesländer (KindergarteninspektorInnen und FachberaterInnen) in alphabetischer Reihenfolge:
+KGI Andrea Bair – Burgenland
+KGI Monika Baumann, MAS – Salzburg
+Mag.a Martina Grötschnig, MC – Steiermark
+KGI Mag.a Michaela Hutz – Tirol
+Mag.a Sylvia Minich – Wien
+MMag. Dr. Gerald Salzmann – Kärnten
+Dr.in Renate Steger – Niederösterreich
+KGI Gerlinde Strasser – Oberösterreich
+KGI Margot Thoma – Vorarlberg
 
 ### Wissenschaftliche Erarbeitung durch das Charlotte-Bühler-Institut:
 
 #### Wissenschaftliche Leitung:
-Dr. in  Waltraut Hartmann
+Dr.in Waltraut Hartmann
 #### Wissenschaftliche Mitarbeiterinnen:
-Mag. a  Gabriele Bäck Mag. a  Michaela Hajszan MMag. a  Birgit Hartel Mag. a Lisa Kneidinger Mag. a Martina Stoll
+Mag.a Gabriele Bäck
+Mag.a Michaela Hajszan
+MMag.a Birgit Hartel
+Mag.a Lisa Kneidinger
+Mag.a Martina Stoll
 
 Das Bundesministerium für Unterricht, Kunst und Kultur war durch die Bildungsanstalten für Kindergartenpädagogik und eine Steuergruppe in den Prozess eingebunden.
 
@@ -42,21 +56,21 @@ Das Bundesministerium für Unterricht, Kunst und Kultur war durch die Bildungsan
 
 ## Vorwort
 
-'Eine Gesellschaft offenbart sich nirgendwo deutlicher als in der Art und Weise, wie sie mit ihren Kindern umgeht.'
+„Eine Gesellschaft offenbart sich nirgendwo deutlicher als in der Art und Weise, wie sie mit ihren Kindern umgeht.“
 
 Nelson Mandela
 
-Die  entscheidende  Weichenstellung  für  die  Bildungsbiografie  unserer  Kinder  erfolgt nicht erst in der Schule. Das ist in nationalen und internationalen Studien eindrucksvoll  dokumentiert.  Der  signifikante  Zusammenhang  zwischen  dem  Besuch des Kindergartens und einer positiven Entwicklung der Kinder zeigt, welch wertvolle Arbeit in den österreichischen elementarpädagogischen Einrichtungen Tag für Tag geleistet wird.
+Die entscheidende Weichenstellung für die Bildungsbiografie unserer Kinder erfolgt nicht erst in der Schule. Das ist in nationalen und internationalen Studien eindrucksvoll dokumentiert. Der signifikante Zusammenhang zwischen dem Besuch des Kindergartens und einer positiven Entwicklung der Kinder zeigt, welch wertvolle Arbeit in den österreichischen elementarpädagogischen Einrichtungen Tag für Tag geleistet wird.
 
-Dank der konstruktiven Zusammenarbeit von Ländern und Bund ist es gelungen, die jahrzehntelange Forderung nach einem gemeinsamen Bildungsplan für Kinder im Alter von null bis sechs Jahren zu verwirklichen. Die Länder haben in ihrer Zuständigkeit  für  das  Kindergartenwesen  diesen  Bildungsplan  gemeinsam  mit  den Expertinnen des Charlotte-Bühler-Instituts für praxisorientierte Kleinkindforschung entwickelt.  Der  Bund  hat  sich  entsprechend  dem  Regierungsprogramm  und  in seiner Zuständigkeit für die Ausbildung der KindergartenpädagogInnen an diesem Prozess beteiligt. Die gute Zusammenarbeit wird im Ergebnis sichtbar. Dieses Bindeglied über Kompetenzgrenzen hinweg ist ein Bekenntnis dafür, dass das Kind im Mittelpunkt stehen muss.
+Dank der konstruktiven Zusammenarbeit von Ländern und Bund ist es gelungen, die jahrzehntelange Forderung nach einem gemeinsamen Bildungsplan für Kinder im Alter von null bis sechs Jahren zu verwirklichen. Die Länder haben in ihrer Zuständigkeit für das Kindergartenwesen diesen Bildungsplan gemeinsam mit den Expertinnen des Charlotte-Bühler-Instituts für praxisorientierte Kleinkindforschung entwickelt. Der Bund hat sich entsprechend dem Regierungsprogramm und in seiner Zuständigkeit für die Ausbildung der KindergartenpädagogInnen an diesem Prozess beteiligt. Die gute Zusammenarbeit wird im Ergebnis sichtbar. Dieses Bindeglied über Kompetenzgrenzen hinweg ist ein Bekenntnis dafür, dass das Kind im Mittelpunkt stehen muss.
 
-Die Pädagoginnen und Pädagogen werden durch den vorliegenden Bildungsplan in ihrer professionellen Rolle noch besser unterstützt. Unseren Kindern müssen im Elementarbereich die besten Startbedingungen ermöglicht werden, und es gilt, die 'Brücke' zur Grundschule weiterzubauen.
+Die Pädagoginnen und Pädagogen werden durch den vorliegenden Bildungsplan in ihrer professionellen Rolle noch besser unterstützt. Unseren Kindern müssen im Elementarbereich die besten Startbedingungen ermöglicht werden, und es gilt, die „Brücke“ zur Grundschule weiterzubauen.
 
-Der Staatsmann Nelson Mandela meint, dass unser Erfolg am Glück und Wohlergehen unserer Kinder gemessen wird, und erinnert uns daran, dass sie 'in einer jeden Gesellschaft zugleich die wunderbarsten Bürger und deren größter Reichtum sind'. Für die Umsetzung dieses Plans und für seine länderspezifische Weiterentwicklung wünsche ich allen Beteiligten viel Motivation und Erfolg.
+Der Staatsmann Nelson Mandela meint, dass unser Erfolg am Glück und Wohlergehen unserer Kinder gemessen wird, und erinnert uns daran, dass sie „in einer jeden Gesellschaft zugleich die wunderbarsten Bürger und deren größter Reichtum sind“. Für die Umsetzung dieses Plans und für seine länderspezifische Weiterentwicklung wünsche ich allen Beteiligten viel Motivation und Erfolg.
 
 Dr. Claudia Schmied
 
-Bundesministerin für Unterricht, Kunst und Kultur Im Rahmen der aktuellen Bildungsdiskussion ist die vorschulische Bildung in den Mittelpunkt gerückt. Kinderbetreuungseinrichtungen sind daher mehr denn je gefordert, den Kindern den Weg für zukünftige Bildungschancen zu bereiten. Dabei sollten wir allen Kindern die gleichen Chancen geben.
+Bundesministerin für Unterricht, Kunst und Kultur
 
 Bundesländerübergreifender BildungsRahmenPlan © 2009
 
@@ -66,15 +80,18 @@ Bundesländerübergreifender BildungsRahmenPlan © 2009
 
 Vorwort
 
+Im Rahmen der aktuellen Bildungsdiskussion ist die vorschulische Bildung in den Mittelpunkt gerückt. Kinderbetreuungseinrichtungen sind daher mehr denn je gefordert, den Kindern den Weg für zukünftige Bildungschancen zu bereiten. Dabei sollten wir allen Kindern die gleichen Chancen geben.
+
 Die Schulvorbereitung zielt auf die Förderung von Basiskompetenzen, insbesondere der Sprachförderung ab. Zur bestmöglichen Vorbereitung und Förderung unserer Kinder sind neue, innovative Wege zu beschreiten. KindergartenpädagogInnen sollen die Kinder ohne Leistungsdruck auf die Schule vorbereiten, damit sie nach erprobten Methoden der Kleinkindpädagogik die Schulfähigkeit erreichen.
 
-Ein verpflichtendes Bildungsjahr im Kindergarten für alle Kinder, ohne jedoch bereits eine 'Verschulung' zuzulassen, ist meiner Meinung nach der beste Weg. Deshalb bin ich froh, dass nun dieser Weg, den Kärnten vorgezeichnet hat, auch österreichweit beschritten wird und ein einheitlicher Bildungsplan vorliegt.
+Ein verpflichtendes Bildungsjahr im Kindergarten für alle Kinder, ohne jedoch bereits eine „Verschulung“ zuzulassen, ist meiner Meinung nach der beste Weg. Deshalb bin ich froh, dass nun dieser Weg, den Kärnten vorgezeichnet hat, auch österreichweit beschritten wird und ein einheitlicher Bildungsplan vorliegt.
 
 Neben der fachlichen Diskussion dürfen jedoch die Menschlichkeit und Wärme im Kinderalltag nicht verloren gehen. Im Zentrum aller Überlegungen sollten das Wohl und die individuellen Bedürfnisse der Kinder stehen.
 
 Gerhard Dörfler
 
-Landesrat für Kinder und Familien Amt der Kärntner Landesregierung Die Kinderbetreuungseinrichtungen sind die ersten Bildungs- und Betreuungseinrichtungen, die ein Kind außerhalb der Familie kennenlernt und die für einen gelungenen Start ins Leben von grundlegender Bedeutung sind.
+Landesrat für Kinder und Familien
+Amt der Kärntner Landesregierung
 
 Bundesländerübergreifender BildungsRahmenPlan © 2009
 
@@ -84,19 +101,20 @@ Bundesländerübergreifender BildungsRahmenPlan © 2009
 
 Vorwort
 
+Die Kinderbetreuungseinrichtungen sind die ersten Bildungs- und Betreuungseinrichtungen, die ein Kind außerhalb der Familie kennenlernt und die für einen gelungenen Start ins Leben von grundlegender Bedeutung sind.
+
 Jedes Kind ist anders, hat seine einzigartige Persönlichkeit, seine individuellen Begabungen und steht an einem anderen Punkt seiner Entwicklung.
 
 Der nun neu geschaffene BildungsRahmenPlan umfasst das Spektrum frühkindlicher Entwicklungsmöglichkeiten. Jedes Kind soll dort abgeholt werden, wo es in seiner persönlichen Entwicklung steht.
 
 Dieser Plan wurde vom Charlotte-Bühler-Institut erstellt. Besonders daran ist, dass die FachberaterInnen aller neun Bundesländer gemeinsam eine Grundlage für die Bildung in den elementaren Einrichtungen geschaffen haben.
 
-Dieser BildungsRahmenPlan bietet eine wesentliche Grundlage und gute Orientierung  für  die  Bildungsarbeit  in  allen  Salzburger  Krabbelgruppen,  alterserweiterten Gruppen und Kindergärten. Ich wünsche allen Beteiligten für die Umsetzung des BildungsRahmenPlans viel Erfolg!
+Dieser BildungsRahmenPlan bietet eine wesentliche Grundlage und gute Orientierung für die Bildungsarbeit in allen Salzburger Krabbelgruppen, alterserweiterten Gruppen und Kindergärten. Ich wünsche allen Beteiligten für die Umsetzung des BildungsRahmenPlans viel Erfolg!
 
 Ihre Doraja Eberle
 
 Landesrätin für Familie, Kinder und Jugend
-
-Amt der Salzburger Landesregierung Der Kindergarten ist die erste Bildungsstätte in der Bildungslaufbahn eines Menschen. Vieles, was wir in diesen ersten frühen Jahren lernen, bleibt und prägt uns ein Leben lang. Deshalb ist diese frühe Zeitspanne im Leben eines Kindes auch bildungspolitisch von großer Bedeutung. Wien hat dies bereits vor Jahren erkannt und 2006 als erstes Bundesland einen Bildungsplan für seine Kindergärten entwickelt. Die Resonanz darauf war äußerst positiv, die Akzeptanz und Bereitschaft zur Umsetzung war von Anfang an in allen - auch in den privaten - Kindergärten gegeben. Der Dank für die engagierte und gute Umsetzung gilt allen PädagogInnen.
+Amt der Salzburger Landesregierung
 
 Bundesländerübergreifender BildungsRahmenPlan © 2009
 
@@ -106,15 +124,18 @@ Bundesländerübergreifender BildungsRahmenPlan © 2009
 
 Vorwort
 
-Nach diesen positiven Erfahrungen in Wien freut es mich als Bildungspolitiker ganz besonders, dass das 'Wiener Modell' Schule macht und nun auch auf nationaler Ebene verbindliche  Bildungsstandards  für  Kinderbetreuungseinrichtungen  festgeschrieben werden. Denn Kinder, die individuell erkannt und gefördert werden, haben die Chance, sich bestmöglich zu entwickeln - das gilt für alle Kinder, sowohl die begabten als auch jene, die mehr Förderung brauchen.
+Der Kindergarten ist die erste Bildungsstätte in der Bildungslaufbahn eines Menschen. Vieles, was wir in diesen ersten frühen Jahren lernen, bleibt und prägt uns ein Leben lang. Deshalb ist diese frühe Zeitspanne im Leben eines Kindes auch bildungspolitisch von großer Bedeutung. Wien hat dies bereits vor Jahren erkannt und 2006 als erstes Bundesland einen Bildungsplan für seine Kindergärten entwickelt. Die Resonanz darauf war äußerst positiv, die Akzeptanz und Bereitschaft zur Umsetzung war von Anfang an in allen – auch in den privaten – Kindergärten gegeben. Der Dank für die engagierte und gute Umsetzung gilt allen PädagogInnen.
 
-Wesentlich bei diesen Bildungsstandards für Kinder - und das haben die Erfah­ r­ ungen in Wien bestätigt - ist, dass es dabei nicht primär um 'Wissen', sondern um die Gesamtpersönlichkeit eines Kindes geht. Dazu zählen soziale Fertigkeiten ebenso wie die Sprach- und Kommunikationsfähigkeit, Kreativität, Individualität und vieles mehr. ExpertInnen bestätigen, dass der Kindergarten als erste Bildungsinstitution in der entwicklungsintensivsten Zeit eines Kindes eine umfassende Persönlichkeitsbildung  ermöglicht.  Diese  Chancen  müssen  wir  im  Sinne  unserer  Kinder ­ best­ möglich nutzen.
+Nach diesen positiven Erfahrungen in Wien freut es mich als Bildungspolitiker ganz besonders, dass das „Wiener Modell“ Schule macht und nun auch auf nationaler Ebene verbindliche Bildungsstandards für Kinderbetreuungseinrichtungen festgeschrieben werden. Denn Kinder, die individuell erkannt und gefördert werden, haben die Chance, sich bestmöglich zu entwickeln – das gilt für alle Kinder, sowohl die begabten als auch jene, die mehr Förderung brauchen.
 
-Der vorliegende erste nationale Bildungsplan für den Kindergarten sollte aber nur ein erster Schritt in Richtung eines gemeinsamen Bildungsplans für alle Kinder bis 18 Jahre sein. Unsere Kinder sollten die Möglichkeit haben, sich kontinuierlich und ohne  'Brüche'  zu  entwickeln  und  in  ihren  Bedürfnissen  entsprechend  individuell gefördert zu werden. Mit dem nationalen Bildungsplan für Kinderbetreuungseinrichtungen wird ein wichtiger Grundstein gelegt, auf dem es weiter aufzubauen gilt!
+Wesentlich bei diesen Bildungsstandards für Kinder – und das haben die Erfahrungen in Wien bestätigt – ist, dass es dabei nicht primär um „Wissen“, sondern um die Gesamtpersönlichkeit eines Kindes geht. Dazu zählen soziale Fertigkeiten ebenso wie die Sprach- und Kommunikationsfähigkeit, Kreativität, Individualität und vieles mehr. ExpertInnen bestätigen, dass der Kindergarten als erste Bildungsinstitution in der entwicklungsintensivsten Zeit eines Kindes eine umfassende Persönlichkeitsbildung ermöglicht. Diese Chancen müssen wir im Sinne unserer Kinder bestmöglich nutzen.
+
+Der vorliegende erste nationale Bildungsplan für den Kindergarten sollte aber nur ein erster Schritt in Richtung eines gemeinsamen Bildungsplans für alle Kinder bis 18 Jahre sein. Unsere Kinder sollten die Möglichkeit haben, sich kontinuierlich und ohne „Brüche“ zu entwickeln und in ihren Bedürfnissen entsprechend individuell gefördert zu werden. Mit dem nationalen Bildungsplan für Kinderbetreuungseinrichtungen wird ein wichtiger Grundstein gelegt, auf dem es weiter aufzubauen gilt!
 
 Christian Oxonitsch
 
-Stadtrat für Bildung, Jugend, Information und Sport Amt der Wiener Landesregierung Lernen ist ein Prozess, der mit der Geburt beginnt und ein Leben lang andauert. Besonders prägend für die weitere Entwicklung sind dabei die ersten Lebensjahre, in denen Kinder außerordentlich aufnahme- und lernfähig sind. Kinder stellen sich mit ihren angeborenen Fähigkeiten auf ihre Umwelt ein und entwickeln Strategien, um diese Umgebung - auf ihre individuelle Art und Weise - zu erobern.
+Stadtrat für Bildung, Jugend, Information und Sport
+Amt der Wiener Landesregierung
 
 Bundesländerübergreifender BildungsRahmenPlan © 2009
 
@@ -124,11 +145,15 @@ Bundesländerübergreifender BildungsRahmenPlan © 2009
 
 Vorwort
 
+Lernen ist ein Prozess, der mit der Geburt beginnt und ein Leben lang andauert. Besonders prägend für die weitere Entwicklung sind dabei die ersten Lebensjahre, in denen Kinder außerordentlich aufnahme- und lernfähig sind. Kinder stellen sich mit ihren angeborenen Fähigkeiten auf ihre Umwelt ein und entwickeln Strategien, um diese Umgebung – auf ihre individuelle Art und Weise – zu erobern.
+
 Unsere Kinder benötigen dafür Menschen, die ihnen bei ihren Eroberungen zur Seite stehen. Neben den Eltern spielen dabei die PädagogInnen und MitarbeiterInnen in den Kinderbetreuungseinrichtungen eine zentrale Rolle.
 
-Als Unterstützung wurde dafür ein Bildungsplan für Kinder unter sechs Jahren entwickelt. Damit wird auch der gesetzliche Bildungsauftrag in Kinderbetreuungseinrichtungen unterstützt, der eine ganzheitliche Förderung unserer Kinder zum Ziel hat. Dieser Bildungsplan besteht aus zwei Teilen: Der allgemeine Teil wurde von den Bundesländern gemeinsam mit dem Bund ausgearbeitet. Die nähere Ausgestaltung erfolgt im Tiroler Teil, der konkrete Anregungen und Orientierungshilfen für die tägliche Arbeit mit unseren Kindern bietet.
+Als Unterstützung wurde dafür ein Bildungsplan für Kinder unter sechs Jahren entwickelt. Damit wird auch der gesetzliche Bildungsauftrag in Kinderbetreuungseinrichtungen unterstützt, der eine ganzheitliche Förderung unserer Kinder zum Ziel hat.
 
-Der Bildungsplan legt pädagogische Standards fest, soll aber vor allem eine fachliche Unterstützung sein und Impulse setzen. Es handelt sich um keinen Lehrplan - die Welt soll spielerisch erfahren werden! Im Vordergrund steht nicht der Leistungsgedanke, sondern das Recht unserer Kinder auf eine bestmögliche Förderung. Ein Schwerpunkt wird dabei auf den Aufbau sozialer Kompetenzen und sprachlicher Fähigkeiten gelegt.
+Dieser Bildungsplan besteht aus zwei Teilen: Der allgemeine Teil wurde von den Bundesländern gemeinsam mit dem Bund ausgearbeitet. Die nähere Ausgestaltung erfolgt im Tiroler Teil, der konkrete Anregungen und Orientierungshilfen für die tägliche Arbeit mit unseren Kindern bietet.
+
+Der Bildungsplan legt pädagogische Standards fest, soll aber vor allem eine fachliche Unterstützung sein und Impulse setzen. Es handelt sich um keinen Lehrplan – die Welt soll spielerisch erfahren werden! Im Vordergrund steht nicht der Leistungsgedanke, sondern das Recht unserer Kinder auf eine bestmögliche Förderung. Ein Schwerpunkt wird dabei auf den Aufbau sozialer Kompetenzen und sprachlicher Fähigkeiten gelegt.
 
 Die Vielfalt der pädagogischen Methoden wird nicht eingeschränkt, es bleibt auch weiterhin genug Spielraum, um eigene Ideen einzubringen, weiterzuentwickeln und zu verwirklichen. Der Bildungsplan ist so angelegt, dass eine Verfeinerung und Ergänzung der Inhalte einfach möglich ist.
 
@@ -136,7 +161,8 @@ Ich bin überzeugt, dass die Entwicklung, Auseinandersetzung und Arbeit mit dem 
 
 Dr. Beate Palfrader
 
-Landesrätin für Bildung und Kultur Amt der Tiroler Landesregierung Als zuständige Landesrätin für das Kinderbetreuungswesen im Burgenland steht für mich außer Frage, dass Bildung nicht erst in der Volksschule beginnt, sondern schon in den elementaren Bildungseinrichtungen wie zum Beispiel im Kindergarten oder in der Kinderkrippe. Allerdings ist es für mich unabdingbar, dass die Kinder in diesen Betreuungseinrichtungen  nicht  überfordert  werden,  sondern  nur  auf  ­ spie­ lerische Weise­   und  bedarfsgerecht  gefördert  werden.  Es  freut  mich  daher  besonders, dass mit dem 'Bundesländerübergreifenden BildungsRahmenPlan für elementare Bildungseinrichtungen  in  Österreich'  ein  Grundlagenwerk  für  ­ Kleinkindpädagogik ­ vorliegt.
+Landesrätin für Bildung und Kultur
+Amt der Tiroler Landesregierung
 
 Bundesländerübergreifender BildungsRahmenPlan © 2009
 
@@ -146,15 +172,18 @@ Bundesländerübergreifender BildungsRahmenPlan © 2009
 
 Vorwort
 
+Als zuständige Landesrätin für das Kinderbetreuungswesen im Burgenland steht für mich außer Frage, dass Bildung nicht erst in der Volksschule beginnt, sondern schon in den elementaren Bildungseinrichtungen wie zum Beispiel im Kindergarten oder in der Kinderkrippe. Allerdings ist es für mich unabdingbar, dass die Kinder in diesen Betreuungseinrichtungen nicht überfordert werden, sondern nur auf spielerische Weise und bedarfsgerecht gefördert werden. Es freut mich daher besonders, dass mit dem „Bundesländerübergreifenden BildungsRahmenPlan für elementare Bildungseinrichtungen in Österreich“ ein Grundlagenwerk für Kleinkindpädagogik vorliegt.
+
 Mit diesem Werk bieten wir den Kindergartenpädagoginnen und Kindergartenpädagogen sowie allen Interessierten ein umfassendes Rahmenwerk für die Bildung im frühkindlichen Stadium. Aber auch die Tatsache, dass mit diesem Bildungsplan Raum für die Schwerpunkte der einzelnen Bundesländer geschaffen wurde, möchte ich nicht außer Acht lassen. Denn gerade durch die kulturelle Vielfalt in den einzelnen Bundesländern ist es wichtig, dass regional auf diese Besonderheiten verstärkt eingegangen wird.
 
-Wir im Burgenland werden diese Möglichkeit nutzen und die Mehrsprachigkeit bereits  in  den  Kinderbetreuungseinrichtungen  fördern,  denn  gerade  im  zusammenwachsenden Europa eröffnen sich dadurch neue Zukunftschancen!
+Wir im Burgenland werden diese Möglichkeit nutzen und die Mehrsprachigkeit bereits in den Kinderbetreuungseinrichtungen fördern, denn gerade im zusammenwachsenden Europa eröffnen sich dadurch neue Zukunftschancen!
 
 Abschließend möchte ich mich bei allen bedanken, die bei der Ausarbeitung des Bildungsplans mitgewirkt haben. Sie haben einen wertvollen Beitrag zum Ausbau des Bildungsstandortes Burgenland geleistet. Auch jenen, die gemeinsam mit den Kindern die Ziele des Bildungsplans umsetzen, möchte ich für ihre engagierte Arbeit meinen Dank aussprechen und weiterhin alles Gute wünschen! Gemeinsam werden wir mehr für unsere Kinder und für unser Land erreichen!
 
-Mag. a  Michaela Resetar
+Mag.a Michaela Resetar
 
-Landesrätin für Tourismus, Bildung und Kinderbetreuung Amt der Burgenländischen Landesregierung Qualitätsvolle  Bildung,  verantwortungsvolle  Erziehung  und  liebevolle  Betreuung der Kinder in den ersten Lebensjahren sind die wichtigste Basis für die LebensChancen. Unsere Kinder und ihre Entwicklung sind aber auch entscheidend für die Zukunft  Oberösterreichs.  Als  für  die  Kindergärten  in  Oberösterreich  zuständiges Regierungsmitglied und Vater von vier Kindern ist es daher mein Ziel, gemeinsam mit den Eltern, den Pädagoginnen und Pädagogen sowie den Rechtsträgern die Voraussetzungen für die bestmögliche Entwicklung und Förderung der Kinder zu schaffen.
+Landesrätin für Tourismus, Bildung und Kinderbetreuung
+Amt der Burgenländischen Landesregierung
 
 Bundesländerübergreifender BildungsRahmenPlan © 2009
 
@@ -164,17 +193,20 @@ Bundesländerübergreifender BildungsRahmenPlan © 2009
 
 Vorwort
 
+Qualitätsvolle Bildung, verantwortungsvolle Erziehung und liebevolle Betreuung der Kinder in den ersten Lebensjahren sind die wichtigste Basis für die Lebenschancen. Unsere Kinder und ihre Entwicklung sind aber auch entscheidend für die Zukunft Oberösterreichs. Als für die Kindergärten in Oberösterreich zuständiges Regierungsmitglied und Vater von vier Kindern ist es daher mein Ziel, gemeinsam mit den Eltern, den Pädagoginnen und Pädagogen sowie den Rechtsträgern die Voraussetzungen für die bestmögliche Entwicklung und Förderung der Kinder zu schaffen.
+
 Elementare Bildungseinrichtungen sind Orte des entdeckenden, erforschenden und spielerischen Lernens. Sie erfüllen ihren eigenständigen Bildungsauftrag, indem sie den Kindern vielfältige und entwicklungsgemäße Anregungen bieten.
 
-Mit  dem  nunmehr  vorliegenden  bundesländerübergreifenden  BildungsRahmenPlan wird ein klares Bekenntnis zur frühen Bildung von Kindern gegeben und die pro­ fessionelle  Arbeit  der  Pädagoginnen  und  Pädagogen  transparent  und  nachvollziehbar  gemacht.  Damit  knüpft  Österreich  an  internationale  und  europäische Entwicklungen an. Dieses Grundlagenwerk stellt einen verbindlichen Rahmen für die Gestaltung der Bildungs- und Erziehungsarbeit dar und gibt Orientierung und fachliche Unterstützung bei der Weiterentwicklung der pädagogischen Qualität in den Einrichtungen.
+Mit dem nunmehr vorliegenden bundesländerübergreifenden BildungsRahmenPlan wird ein klares Bekenntnis zur frühen Bildung von Kindern gegeben und die professionelle Arbeit der Pädagoginnen und Pädagogen transparent und nachvollziehbar gemacht. Damit knüpft Österreich an internationale und europäische Entwicklungen an. Dieses Grundlagenwerk stellt einen verbindlichen Rahmen für die Gestaltung der Bildungs- und Erziehungsarbeit dar und gibt Orientierung und fachliche Unterstützung bei der Weiterentwicklung der pädagogischen Qualität in den Einrichtungen.
 
-Der  BildungsRahmenPlan  ist  bewusst  offen  gestaltet,  um  auf  künftige  Entwick­ lungen,  aber  auch  auf  länderspezifische  Besonderheiten  reagieren  zu  können. Er  bildet  das  Fundament  der  österreichischen  Elementarpädagogik,  auf  dem  die konkrete Bildungsarbeit aufbaut.
+Der BildungsRahmenPlan ist bewusst offen gestaltet, um auf künftige Entwicklungen, aber auch auf länderspezifische Besonderheiten reagieren zu können. Er bildet das Fundament der österreichischen Elementarpädagogik, auf dem die konkrete Bildungsarbeit aufbaut.
 
 Den Pädagoginnen und Pädagogen wünsche ich viel Erfolg, Freude und Tatkraft für die Umsetzung des BildungsRahmenPlans in die Praxis. Sie arbeiten am Wertvollsten, das es gibt: an der Weiterentwicklung und den Fähigkeiten unserer Kinder!
 
 Dr. Josef Stockinger
 
-Landesrat für Krabbelstuben, Kindergärten, Horte und Tagesmütter Oberösterreichische Landesregierung Erstmals liegt ein bundesländerübergreifender BildungsRahmenPlan für unsere elementaren Bildungseinrichtungen vor. Als Bildungslandesrätin der Steiermark freue ich mich besonders, dass damit nun endlich österreichweit ein klares Bekenntnis zur elementaren Bildung abgegeben wird. Es hat einiger Überzeugungsarbeit bedurft, bis  wir  einen  Konsens  für  den  Bildungsplan-Prozess  erreicht  haben.  Nicht  ohne Stolz kann ich sagen, dass die Steiermark einen wesentlichen Beitrag zum Gelingen dieses Vorhabens geleistet hat: Im April 2008 wurde zur ExpertInnenkonferenz nach Graz geladen, bei der die Einigung aller Bundesländer zur Erstellung des 'Bundesländerübergreifenden BildungsRahmenPlans für elementare Bildungseinrichtungen' - wie der Plan technisch korrekt heißt - erzielt wurde. Seitdem wurde von FachexpertInnen der Bundesländer intensiv am Bildungsplan gearbeitet, koordiniert von Mag. a  Martina Grötschnig aus meiner zuständigen Fachabteilung.
+Landesrat für Krabbelstuben, Kindergärten, Horte und Tagesmütter
+Oberösterreichische Landesregierung
 
 Bundesländerübergreifender BildungsRahmenPlan © 2009
 
@@ -184,11 +216,13 @@ Bundesländerübergreifender BildungsRahmenPlan © 2009
 
 Vorwort
 
-Mit dem BildungsRahmenPlan machen wir einen großen Schritt in Richtung eines neuen Bewusstseins für die Qualität und Anforderungen unserer Bildungs- und Betreuungseinrichtungen im elementaren Bildungsbereich - von der Kinderkrippe bis zum Hort. Dort geht es nämlich schon längst nicht mehr nur um Betreuung, denn die Wissenschaft hat in der jüngsten Vergangenheit erkannt, welche wichtigen Bildungsprozesse bei Kindern schon lange vor dem Schuleintritt in Gang kommen und wie prägend Versäumnisse in dieser Zeit für den weiteren Verlauf der Bildungskarriere unserer Kinder sind.
+Erstmals liegt ein bundesländerübergreifender BildungsRahmenPlan für unsere elementaren Bildungseinrichtungen vor. Als Bildungslandesrätin der Steiermark freue ich mich besonders, dass damit nun endlich österreichweit ein klares Bekenntnis zur elementaren Bildung abgegeben wird. Es hat einiger Überzeugungsarbeit bedurft, bis wir einen Konsens für den Bildungsplan-Prozess erreicht haben. Nicht ohne Stolz kann ich sagen, dass die Steiermark einen wesentlichen Beitrag zum Gelingen dieses Vorhabens geleistet hat: Im April 2008 wurde zur ExpertInnenkonferenz nach Graz geladen, bei der die Einigung aller Bundesländer zur Erstellung des „Bundesländerübergreifenden BildungsRahmenPlans für elementare Bildungseinrichtungen“ – wie der Plan technisch korrekt heißt – erzielt wurde. Seitdem wurde von FachexpertInnen der Bundesländer intensiv am Bildungsplan gearbeitet, koordiniert von Mag.a Martina Grötschnig aus meiner zuständigen Fachabteilung.
 
-Wie das Wort Bildungs-RAHMENplan schon verrät, geht es nicht um einen Lehrplan,  sondern  um  die  Abbildung  des  verbindlichen  Rahmens  für  elementare  Bildung, innerhalb dessen Kinder als kompetente Individuen von Anfang an wichtige frühkindliche Bildungserfahrungen machen können, die den weiteren Bildungsweg der Kinder fördern. Das spielerische Lernen im Kindergarten und davor wird damit erstmals auf ein gemeinsames Niveau gehoben und als klar definiertes Ziel in die Einrichtungen hinausgetragen. Bei uns in der Steiermark wird die Gültigkeit dieses BildungsRahmenPlans für Kinder von null bis sechs Jahren auch auf Horte ausgeweitet. Denn diese sind für mich als Bildungslandesrätin ein zentraler Bestandteil des elementaren und außerschulischen Bildungssystems.
+Mit dem BildungsRahmenPlan machen wir einen großen Schritt in Richtung eines neuen Bewusstseins für die Qualität und Anforderungen unserer Bildungs- und Betreuungseinrichtungen im elementaren Bildungsbereich – von der Kinderkrippe bis zum Hort. Dort geht es nämlich schon längst nicht mehr nur um Betreuung, denn die Wissenschaft hat in der jüngsten Vergangenheit erkannt, welche wichtigen Bildungsprozesse bei Kindern schon lange vor dem Schuleintritt in Gang kommen und wie prägend Versäumnisse in dieser Zeit für den weiteren Verlauf der Bildungskarriere unserer Kinder sind.
 
-Die aktuell sehr vielseitige Bildungsdiskussion zeigt deutlich, dass wir gerade vor großen Strukturveränderungen stehen, die alle TrägerInnen von Kinderbildungs- und -betreuungseinrichtungen sowie die Fachkräfte vor Ort und schließlich die Familien fordert.  Die  Steiermark  hat  sich  mit  der  Umsetzung  des  flächendeckenden  Gratiskindergartens im Herbst 2008 zum freien Zugang zu Bildung für alle drei- bis sechsjährigen Kinder bekannt. Nun gilt es, beim Ausbau der Kinderbildungs- und
+Wie das Wort Bildungs-RAHMENplan schon verrät, geht es nicht um einen Lehrplan, sondern um die Abbildung des verbindlichen Rahmens für elementare Bildung, innerhalb dessen Kinder als kompetente Individuen von Anfang an wichtige frühkindliche Bildungserfahrungen machen können, die den weiteren Bildungsweg der Kinder fördern. Das spielerische Lernen im Kindergarten und davor wird damit erstmals auf ein gemeinsames Niveau gehoben und als klar definiertes Ziel in die Einrichtungen hinausgetragen. Bei uns in der Steiermark wird die Gültigkeit dieses BildungsRahmenPlans für Kinder von null bis sechs Jahren auch auf Horte ausgeweitet. Denn diese sind für mich als Bildungslandesrätin ein zentraler Bestandteil des elementaren und außerschulischen Bildungssystems.
+
+Die aktuell sehr vielseitige Bildungsdiskussion zeigt deutlich, dass wir gerade vor großen Strukturveränderungen stehen, die alle TrägerInnen von Kinderbildungs- und -betreuungseinrichtungen sowie die Fachkräfte vor Ort und schließlich die Familien fordert. Die Steiermark hat sich mit der Umsetzung des flächendeckenden Gratiskindergartens im Herbst 2008 zum freien Zugang zu Bildung für alle drei- bis sechsjährigen Kinder bekannt. Nun gilt es, beim Ausbau der Kinderbildungs- und
 
 Bundesländerübergreifender BildungsRahmenPlan © 2009
 
@@ -200,9 +234,10 @@ Vorwort
 
 -betreuungsplätze dranzubleiben und mit Hilfe des vorliegenden BildungsRahmenPlans eine verbindliche Orientierung für die erforderliche Qualität in den Einrichtungen zu geben. Im Sinne der Chancengleichheit ist der Gratiszugang zum Kindergarten für mich deshalb der Grundpfeiler einer modernen Bildungspolitik. Der nun fertige BildungsRahmenPlan beweist uns den raschen Wandel der Sichtweisen in Fragen der elementaren Bildung und erlaubt uns einen Blick in die Zukunft unserer Bildungsgesellschaft, die ihre jüngsten Mitglieder nicht erst mit dem Schuleintritt ernst nehmen darf!
 
-Mag. a  Elisabeth Grossmann
+Mag.a Elisabeth Grossmann
 
-Bildungs- und Familienlandesrätin Amt der Steiermärkischen Landesregierung
+Bildungs- und Familienlandesrätin
+Amt der Steiermärkischen Landesregierung
 
 Bundesländerübergreifender BildungsRahmenPlan © 2009
 
@@ -212,6 +247,43 @@ Bundesländerübergreifender BildungsRahmenPlan © 2009
 
 ## Inhalt
 
+Präambel 1
+1. Pädagogische Orientierung 2
+1.1 Das Bild vom Kind und das Rollenverständnis der Pädagoginnen und Pädagogen 2
+1.2 Prinzipien für Bildungsprozesse in elementaren Bildungseinrichtungen 3
+2. Bildung und Kompetenzen 5
+2.1 Bildung 5
+Lernen 5
+Spiel 6
+2.2 Kompetenzen 6
+2.3 Rahmenbedingungen für Bildungsprozesse 7
+3. Bildungsbereiche 9
+3.1 Emotionen und soziale Beziehungen 10
+Identität 10
+Vertrauen und Wohlbefinden 11
+Kooperation und Konfliktkultur 11
+3.2 Ethik und Gesellschaft 12
+Werte 12
+Diversität 12
+Inklusion 13
+Partizipation und Demokratie 13
+3.3 Sprache und Kommunikation 14
+Sprache und Sprechen 14
+Verbale und nonverbale Kommunikation 15
+Literacy 15
+Informations- und Kommunikationstechnologien 15
+3.4 Bewegung und Gesundheit 16
+Körper und Wahrnehmung 16
+Bewegung 16
+Gesundheitsbewusstsein 17
+3.5 Ästhetik und Gestaltung 18
+Kultur und Kunst 18
+Kreativer Ausdruck 18
+3.6 Natur und Technik 20
+Natur und Umwelt 20
+Technik 20
+Mathematik 21
+
 Bundesländerübergreifender BildungsRahmenPlan © 2009
 
 [[END OF PAGE 14]]
@@ -219,6 +291,17 @@ Bundesländerübergreifender BildungsRahmenPlan © 2009
 [[START OF PAGE 15]]
 
 Inhalt
+
+4. Transitionen 22
+4.1 Transition von der Familie in eine elementare Bildungseinrichtung 22
+4.2 Transition zwischen elementaren Bildungseinrichtungen 23
+4.3 Transition von elementaren Bildungseinrichtungen in die Volksschule 23
+5. Pädagogische Qualität 25
+Prozessqualität 25
+Orientierungsqualität 25
+Strukturqualität 26
+Qualitätsmanagement 26
+Literatur 27
 
 Bundesländerübergreifender BildungsRahmenPlan © 2009
 
@@ -238,9 +321,9 @@ Präambel
 
 4. Transitionen
 
-- Pädagogische Qualität
+5. Pädagogische Qualität
 
-Literatur Kinder  sind  neugierige  und  forschende  Persönlichkeiten.  Ihr  hohes  Lernpotenzial stellt die Basis für ihre gesamte Bildungsbiografie dar. Die Wertschätzung und Förderung früher Bildungsprozesse entsprechen einem pädagogischen Anspruch und einem gesellschaftspolitischen Auftrag.
+Literatur
 
 [[END OF PAGE 16]]
 
@@ -248,15 +331,19 @@ Literatur Kinder  sind  neugierige  und  forschende  Persönlichkeiten.  Ihr  ho
 
 ## Präambel
 
-Der 'Bundesländerübergreifende BildungsRahmenPlan für elementare Bildungseinrichtungen in Österreich' ist ein Bekenntnis der Landesregierungen aller Bundesländer zum Bildungsauftrag dieser Institutionen und deren Stellenwert für die Bildungslaufbahn der Kinder. Der Begriff 'elementare Bildungseinrichtungen' umfasst alle institutionellen Formen der Bildung und Betreuung von Kindern bis zum Schuleintritt. Die Auseinandersetzung mit der aktuellen Entwicklung der Erweiterung der institutionellen Betreuung auch des unter dreijährigen Kindes bedarf besonderer Beachtung. Der  BildungsRahmenPlan  ist  eine  Maßnahme  der  Sicherung  der  pädagogischen Qualität in Österreich und definiert in komprimierter Form die Grundlagen elementarer Bildungsprozesse.
+Kinder sind neugierige und forschende Persönlichkeiten. Ihr hohes Lernpotenzial stellt die Basis für ihre gesamte Bildungsbiografie dar. Die Wertschätzung und Förderung früher Bildungsprozesse entsprechen einem pädagogischen Anspruch und einem gesellschaftspolitischen Auftrag.
+
+Der „Bundesländerübergreifende BildungsRahmenPlan für elementare Bildungseinrichtungen in Österreich“ ist ein Bekenntnis der Landesregierungen aller Bundesländer zum Bildungsauftrag dieser Institutionen und deren Stellenwert für die Bildungslaufbahn der Kinder. Der Begriff „elementare Bildungseinrichtungen“ umfasst alle institutionellen Formen der Bildung und Betreuung von Kindern bis zum Schuleintritt. Die Auseinandersetzung mit der aktuellen Entwicklung der Erweiterung der institutionellen Betreuung auch des unter dreijährigen Kindes bedarf besonderer Beachtung.
+
+Der BildungsRahmenPlan ist eine Maßnahme der Sicherung der pädagogischen Qualität in Österreich und definiert in komprimierter Form die Grundlagen elementarer Bildungsprozesse.
 
 Der Schwerpunkt liegt in der Skizzierung eines Bildes vom Kind als kompetentem Individuum, das als Ko-Konstrukteur seiner Entwicklung handelt. Die theoretischen Ausführungen zur pädagogischen Orientierung, zu Bildung und Kompetenzen und zu den Bildungsbereichen berücksichtigen die Vielfalt pädagogischer Konzeptionen und die Methodenfreiheit in den einzelnen Einrichtungen. Die praktische Umsetzung des Bildungsauftrages liegt in der Verantwortung der fachlich qualifizierten Pädagoginnen und Pädagogen. Ihre Arbeit wird durch qualitätsvolle Rahmenbedingungen unterstützt.
 
-Der  vorliegende  BildungsRahmenPlan  wurde  vom  wissenschaftlichen  Team  des Charlotte-Bühler-Instituts im Auftrag der Landesregierungen und im Einvernehmen mit den Expertinnen und Experten der Bundesländer erarbeitet. Er ist bewusst offen angelegt, um eine Ausgangsbasis für bundesländerspezifische Anteile, Weiterentwicklungen und Schwerpunkte der elementaren Bildung zu bieten.
+Der vorliegende BildungsRahmenPlan wurde vom wissenschaftlichen Team des Charlotte-Bühler-Instituts im Auftrag der Landesregierungen und im Einvernehmen mit den Expertinnen und Experten der Bundesländer erarbeitet. Er ist bewusst offen angelegt, um eine Ausgangsbasis für bundesländerspezifische Anteile, Weiterentwicklungen und Schwerpunkte der elementaren Bildung zu bieten.
 
-Durch diesen Rahmenplan werden der Grundsatz des lebenslangen Lernens und die Bedeutung der Kontinuität des Bildungsverlaufs im österreichischen Bildungs­ kanon unterstrichen. Ziel ist es, durch eine Übereinstimmung hinsichtlich Bildungsverständnis und didaktischer Ansätze im Elementarbereich sowie im Volksschulbereich  die  Anschlussfähigkeit von Bildungsprozessen zu erreichen. Auch wenn der Fokus frühkindlicher Bildung auf der Entwicklung von Kompetenzen liegt und den Lernprozessen im frühen Kindesalter hohe Priorität zukommt, ist das Spiel weiterhin die wichtigste Form des selbstbestimmten, lustbetonten Lernens in elementaren Bildungseinrichtungen. Die Spielfreude der Kinder steigert ihre Lernmotivation, sodass das 'Lernen im Spiel' auch an erster Stelle der empfohlenen Lernformen im Lehrplan der Volksschule verankert ist. Dieses Bekenntnis zum Spiel stellt einen wichtigen Baustein zum erfolgreichen Übergang zwischen den Bildungsinstitutionen dar.
+Durch diesen Rahmenplan werden der Grundsatz des lebenslangen Lernens und die Bedeutung der Kontinuität des Bildungsverlaufs im österreichischen Bildungskanon unterstrichen. Ziel ist es, durch eine Übereinstimmung hinsichtlich Bildungsverständnis und didaktischer Ansätze im Elementarbereich sowie im Volksschulbereich die Anschlussfähigkeit von Bildungsprozessen zu erreichen. Auch wenn der Fokus frühkindlicher Bildung auf der Entwicklung von Kompetenzen liegt und den Lernprozessen im frühen Kindesalter hohe Priorität zukommt, ist das Spiel weiterhin die wichtigste Form des selbstbestimmten, lustbetonten Lernens in elementaren Bildungseinrichtungen. Die Spielfreude der Kinder steigert ihre Lernmotivation, sodass das „Lernen im Spiel“ auch an erster Stelle der empfohlenen Lernformen im Lehrplan der Volksschule verankert ist. Dieses Bekenntnis zum Spiel stellt einen wichtigen Baustein zum erfolgreichen Übergang zwischen den Bildungsinstitutionen dar.
 
-Der BildungsRahmenPlan ist eine Maßnahme zur Sicher­ ung der pädago­ gischen Qualität.
+Der BildungsRahmenPlan ist eine Maßnahme zur Sicherung der pädagogischen Qualität.
 
 Bundesländerübergreifender BildungsRahmenPlan © 2009
 
@@ -278,7 +365,7 @@ Präambel
 
 4. Transitionen
 
-- Pädagogische Qualität
+5. Pädagogische Qualität
 
 Literatur
 
@@ -294,7 +381,7 @@ Literatur
 
 Kinder kommen als kompetente Individuen zur Welt, die ihre Lebenswelt von Anfang an mit allen Sinnen wahrnehmen und erforschen. Im Austausch mit vertrauten Personen und der Umwelt entwickeln sie ihre Kompetenzen und ihre Persönlichkeit. Kinder zeichnen sich von Geburt an durch Wissensdurst und Freude am Lernen aus. Neugier, Kreativität und Spontaneität sind wichtige Antriebskräfte ihrer Entwicklung. Kinder  verfügen  über  unterschiedliche  Interessen,  Begabungen  und  Bedürfnisse sowie über vielfältige Ausdrucksweisen und Kompetenzen. Jedes Kind durchläuft demnach eine einzigartige Bildungsbiografie. Es hat das Recht, in seiner Individualität respektiert zu werden und sich nach seinem eigenen Lern- und Lebensrhythmus zu entwickeln.
 
-Kinder gestalten nicht nur ihre eigenen Lernprozesse, sondern auch ihr soziales und kulturelles Umfeld aktiv mit und können als 'Ko-Konstrukteure von Wissen, Identität, Kultur und Werten' 1  bezeichnet werden. Ko-Konstruktion bedeutet die gemeinsame Gestaltung von Bildungsprozessen durch Kinder und Erwachsene. 2
+Kinder gestalten nicht nur ihre eigenen Lernprozesse, sondern auch ihr soziales und kulturelles Umfeld aktiv mit und können als „Ko-Konstrukteure von Wissen, Identität, Kultur und Werten“ 1 bezeichnet werden. Ko-Konstruktion bedeutet die gemeinsame Gestaltung von Bildungsprozessen durch Kinder und Erwachsene. 2
 
 Kinder bilden das Potenzial der Zukunft jeder Gesellschaft, haben aber bereits in der Gegenwart als gleichwertige Mitbürgerinnen und Mitbürger umfangreiche Rechte. Dazu zählen etwa das Recht auf ein Aufwachsen im Geist des Friedens, der Würde und Toleranz, auf ein Höchstmaß an Gesundheit, auf umfassende Bildung von Anfang an sowie auf Meinungsäußerung bei Angelegenheiten, die sie unmittelbar betreffen. 3
 
@@ -302,7 +389,7 @@ Pädagoginnen und Pädagogen treten in einem Klima der Wertschätzung und des Ve
 
 Ein breites Spektrum an professionellen Kompetenzen der Pädagoginnen und Pädagogen trägt zur Qualität der Lernanregungen bei. Beziehungsfähigkeit und Sensibilität für die Ausdrucksformen jedes einzelnen Kindes sind die Basis der individuellen Bildungsbegleitung. Die Kenntnis aktueller Forschungsergebnisse aus Pädagogik, Psychologie  und  Soziologie  sowie  Grundlagenwissen  zu  den  verschiedenen  Bildungsbereichen sind Voraussetzungen für eine entwicklungsangemessene, fachlich fundierte pädagogische Praxis. Die Reflexion des eigenen Handelns im Sinne
 
-Kinder sind 'Ko-Konstrukteure von Wissen, Identität, Kultur und Werten'.
+Kinder sind „Ko-Konstrukteure von Wissen, Identität, Kultur und Werten“.
 
 Bundesländerübergreifender BildungsRahmenPlan © 2009
 
@@ -314,7 +401,7 @@ Bundesländerübergreifender BildungsRahmenPlan © 2009
 
 1. Pädagogische Orientierung
 
-­ lebenslangen Lernens trägt zur Weiterentwicklung der eigenen Professionalität bei. In vielschichtigen Kommunikationsprozessen machen Pädagoginnen und Pädagogen ihre Arbeit transparent und präsentieren ihr berufliches Selbstverständnis in der Öffentlichkeit. 4 Sie respektieren Mütter und Väter als Expertinnen und Experten für ihre Kinder und kooperieren mit den Familien der Kinder im Sinne einer Bildungsund Erziehungspartnerschaft.
+lebenslangen Lernens trägt zur Weiterentwicklung der eigenen Professionalität bei. In vielschichtigen Kommunikationsprozessen machen Pädagoginnen und Pädagogen ihre Arbeit transparent und präsentieren ihr berufliches Selbstverständnis in der Öffentlichkeit. 4 Sie respektieren Mütter und Väter als Expertinnen und Experten für ihre Kinder und kooperieren mit den Familien der Kinder im Sinne einer Bildungs- und Erziehungspartnerschaft.
 
 ### 1.2 Prinzipien für Bildungsprozesse in elementaren Bildungseinrichtungen
 
@@ -326,11 +413,11 @@ Prinzipien für die ko-konstruktive Gestaltung von Bildungsprozessen orientieren
 
 - Differenzierung: Das Prinzip der Differenzierung bezieht sich auf die Gestaltung der Bildungsangebote, die Anregung verschiedener Lernformen sowie eine breit gefächerte Ausstattung an Bildungsmitteln. Differenzierte Bildungsarbeit berücksichtigt die individuellen Begabungen, Fähigkeiten und Interessen jedes Kindes.
 
-- Empowerment: Empowerment heißt 'Ermächtigung' und stellt ein Handlungskonzept dar, das sich an den Stärken und Potenzialen von Menschen orientiert. Diese Haltung unterstützt Kinder und Erwachsene, ihre Gestaltungsspielräume und Ressourcen besser wahrzunehmen und zu nutzen. Dadurch wird ihr autonomes und selbstverantwortliches Handeln gestärkt.
+- Empowerment: Empowerment heißt „Ermächtigung“ und stellt ein Handlungskonzept dar, das sich an den Stärken und Potenzialen von Menschen orientiert. Diese Haltung unterstützt Kinder und Erwachsene, ihre Gestaltungsspielräume und Ressourcen besser wahrzunehmen und zu nutzen. Dadurch wird ihr autonomes und selbstverantwortliches Handeln gestärkt.
 
 - Lebensweltorientierung: Kinder verfügen über vielfältige, individuell unterschiedliche Lebens- und Lernerfahrungen. Bildungsprozesse, die an diese Erlebnisse und Erfahrungen anknüpfen, betreffen Kinder unmittelbar und motivieren zur selbsttätigen Auseinandersetzung. Neues kann mit bereits Bekanntem und
 
-Prinzipien für die Gestaltung von Bildungs­ prozessen müssen kon­ tinuierlich überprüft werden.
+Prinzipien für die Gestaltung von Bildungsprozessen müssen kontinuierlich überprüft werden.
 
 Bundesländerübergreifender BildungsRahmenPlan © 2009
 
@@ -356,9 +443,9 @@ Vertrautem in Verbindung gesetzt werden, wodurch neuronale Netzwerke im Gehirn a
 
 - Transparenz: Die transparente Gestaltung des Bildungsgeschehens zielt darauf ab, die Komplexität pädagogischer Praxis für Eltern und Öffentlichkeit nachvollziehbar zu machen. In der Arbeit mit den Kindern bedeutet Transparenz, dass Intentionen und Zusammenhänge durchschaubar werden.
 
-- Bildungspartnerschaft: Bildungspartnerschaften sind Kooperationsbeziehun­ gen zwischen elementaren Bildungseinrichtungen und den Familien der Kinder bzw. gegebenenfalls externen Fachkräften. Vorrangiges Ziel ist der gemeinsame Aufbau einer lern- und entwicklungsförderlichen Umgebung für Kinder. Die Zusammenarbeit zeichnet sich primär durch gegenseitiges Interesse aus und verdeutlicht die gemeinsame Verantwortung für das Kind.
+- Bildungspartnerschaft: Bildungspartnerschaften sind Kooperationsbeziehungen zwischen elementaren Bildungseinrichtungen und den Familien der Kinder bzw. gegebenenfalls externen Fachkräften. Vorrangiges Ziel ist der gemeinsame Aufbau einer lern- und entwicklungsförderlichen Umgebung für Kinder. Die Zusammenarbeit zeichnet sich primär durch gegenseitiges Interesse aus und verdeutlicht die gemeinsame Verantwortung für das Kind.
 
-Die Begegnung mit Verschieden­ artigkeit ist eine Voraussetzung dafür, sich mit Vorurteilen kritisch auseinander­ zusetzen.
+Die Begegnung mit Verschiedenartigkeit ist eine Voraussetzung dafür, sich mit Vorurteilen kritisch auseinanderzusetzen.
 
 ____________________
 
@@ -390,15 +477,15 @@ Bildung und Kompetenzen
 
 Präambel
 
-- Pädagogische Orientierung
+1. Pädagogische Orientierung
 
-- Bildung und Kompetenzen
+2. Bildung und Kompetenzen
 
-- Bildungsbereiche
+3. Bildungsbereiche
 
 4. Transitionen
 
-- Pädagogische Qualität
+5. Pädagogische Qualität
 
 Literatur
 
@@ -426,9 +513,9 @@ Auf Basis der europäischen Aufklärung werden an Bildung im Wesentlichen drei A
 
 - der Anspruch an jeden einzelnen Menschen, Verantwortung zu übernehmen 9
 
-Für  die  elementare  Bildung  bedeutet  das:  Die  Lernprozesse  des  Kindes,  sein selbstbestimmtes Handeln, seine Teilnahme an gesellschaftlichen und kulturellen Prozessen  sowie  die  Übernahme  von  Verantwortung  münden  in  eine  individuelle Selbst- und Weltdeutung. In der humanistischen Tradition wird dieser Prozess als 'Aneignung der Welt' bezeichnet. 10
+Für die elementare Bildung bedeutet das: Die Lernprozesse des Kindes, sein selbstbestimmtes Handeln, seine Teilnahme an gesellschaftlichen und kulturellen Prozessen sowie die Übernahme von Verantwortung münden in eine individuelle Selbst- und Weltdeutung. In der humanistischen Tradition wird dieser Prozess als „Aneignung der Welt“ bezeichnet. 10
 
-Unter Bildungsprozessen werden komplexe Austauschprozesse zwischen Kindern und ihrer Lebenswelt verstanden. 11 Kinder tragen zu ihrer Bildung selbst bei, indem sie ihre Kompetenzen - unterstützt durch Impulse ihrer sozialen und materialen Umwelt - ständig weiterentwickeln.
+Unter Bildungsprozessen werden komplexe Austauschprozesse zwischen Kindern und ihrer Lebenswelt verstanden. 11 Kinder tragen zu ihrer Bildung selbst bei, indem sie ihre Kompetenzen – unterstützt durch Impulse ihrer sozialen und materialen Umwelt – ständig weiterentwickeln.
 
 #### Lernen
 
@@ -450,7 +537,7 @@ Der Mensch ist ein lebenslang lernendes Individuum, dessen Bildungsbiografie ber
 
 #### Spiel
 
-Dem Spiel als einer wichtigen Form der kindlichen 'Aneignung der Welt' kommt große Bedeutung zu. Spielfähigkeit ist jedem Menschen angeboren. Mit dem Begriff 'Spielfähigkeit' werden die Spielfreude, die unermüdliche Neugier und Aktivität von Kindern sowie ihre intrinsische Motivation, die Umgebung mit allen Sinnen handlungsnahe zu begreifen und Neues zu lernen, bezeichnet. Insbesondere ist das freie Spiel eine ideale Quelle für die Lernmotivation, die sozial-kommunikativen Kompetenzen und das divergente Denken. 13
+Dem Spiel als einer wichtigen Form der kindlichen „Aneignung der Welt“ kommt große Bedeutung zu. Spielfähigkeit ist jedem Menschen angeboren. Mit dem Begriff „Spielfähigkeit“ werden die Spielfreude, die unermüdliche Neugier und Aktivität von Kindern sowie ihre intrinsische Motivation, die Umgebung mit allen Sinnen handlungsnahe zu begreifen und Neues zu lernen, bezeichnet. Insbesondere ist das freie Spiel eine ideale Quelle für die Lernmotivation, die sozial-kommunikativen Kompetenzen und das divergente Denken. 13
 
 Das Spiel ist die wichtigste Lernform, denn in einem reichhaltigen Spielumfeld werden unzählige synaptische Verbindungen im kindlichen Gehirn aufgebaut und laufend benützt. Diese neuronalen Netzwerke unterstützen Kinder auch in der Zukunft dabei, ein immer umfassenderes Weltverständnis zu erwerben. 14
 
@@ -462,7 +549,7 @@ Der Motor für die Entwicklung von Kompetenzen ist ein intrinsisches Bedürfnis 
 
 Kinder entwickeln in einer dynamischen wechselseitigen Beziehung mit ihrer Umwelt Kompetenzen im Sinne von Selbstkompetenz, Sozialkompetenz und Sachkompetenz 16  sowie lernmethodische Kompetenz.
 
-- Unter Selbstkompetenz oder personaler Kompetenz 17 werden ein positives Selbstkonzept, Selbstständigkeit, Eigeninitiative und die Fähigkeit, für sich selbst verantwortlich handeln zu können, verstanden. Dazu trägt wesentlich die indivi­ duelle Resilienz (Widerstandsfähigkeit) eines Kindes bei. Resiliente Kinder glauben an ihre Selbstwirksamkeit, setzen sich mit Problemsituationen aktiv auseinander und bringen ihre Kompetenzen optimal ein. 18  Die Bewältigung herausfordernder Situationen stärkt wiederum ihr Selbstwertgefühl.
+- Unter Selbstkompetenz oder personaler Kompetenz 17 werden ein positives Selbstkonzept, Selbstständigkeit, Eigeninitiative und die Fähigkeit, für sich selbst verantwortlich handeln zu können, verstanden. Dazu trägt wesentlich die individuelle Resilienz (Widerstandsfähigkeit) eines Kindes bei. Resiliente Kinder glauben an ihre Selbstwirksamkeit, setzen sich mit Problemsituationen aktiv auseinander und bringen ihre Kompetenzen optimal ein. 18 Die Bewältigung herausfordernder Situationen stärkt wiederum ihr Selbstwertgefühl.
 
 - Sozialkompetenz oder sozial-kommunikative Kompetenz 19 bedeutet, in sozialen und gesellschaftlichen Bereichen urteils- und handlungsfähig zu sein. Grundlage dafür ist u. a. die Erfahrung, anerkannt zu werden, einer Gruppe anzugehören und Mitverantwortung zu tragen. Empathie für andere Menschen, Kooperationsfähigkeit und die konstruktive Auseinandersetzung mit Regeln sind weitere Elemente der sozial-kommunikativen Kompetenz.
 
@@ -488,7 +575,9 @@ Kompetenzorientierte Bildungsarbeit geht von den Ressourcen der Kinder aus und h
 
 ### 2.3	Rahmenbedingungen für Bildungsprozesse
 
-Bildungsprozesse werden als ganzheitliche, vom Individuum selbst gesteuerte Prozesse verstanden, die sich nur im Austausch mit der Umwelt vollziehen können. Die  Entwicklung  von  Kompetenzen  als  Ergebnis  von  Bildungsprozessen  ist  auf Wissen über sich selbst ermöglicht auch die Bewäl­ tigung schwieriger Aufgaben.
+Bildungsprozesse werden als ganzheitliche, vom Individuum selbst gesteuerte Prozesse verstanden, die sich nur im Austausch mit der Umwelt vollziehen können. Die Entwicklung von Kompetenzen als Ergebnis von Bildungsprozessen ist auf
+
+Wissen über sich selbst ermöglicht auch die Bewältigung schwieriger Aufgaben.
 
 Bundesländerübergreifender BildungsRahmenPlan © 2009
 
@@ -500,23 +589,23 @@ Bundesländerübergreifender BildungsRahmenPlan © 2009
 
 2. Bildung und Kompetenzen
 
-­ dynamische Umgebungen angewiesen, die Selbstorganisation und Selbstbestimmung ermöglichen. Die Kompetenzen von Kindern zeigen, wie ihre Lernumwelt beschaffen sein sollte, um einen Kompetenzzuwachs anzuregen. Andererseits machen auch die Anforderungen der Umwelt deutlich, in welchen Bereichen die Kinder weitere Kompetenzen erwerben sollten.
+dynamische Umgebungen angewiesen, die Selbstorganisation und Selbstbestimmung ermöglichen. Die Kompetenzen von Kindern zeigen, wie ihre Lernumwelt beschaffen sein sollte, um einen Kompetenzzuwachs anzuregen. Andererseits machen auch die Anforderungen der Umwelt deutlich, in welchen Bereichen die Kinder weitere Kompetenzen erwerben sollten.
 
-Dynamische  Umgebungen  werden  u.  a.  durch  folgende  Rahmenbedingungen ­ charakterisiert:
+Dynamische Umgebungen werden u. a. durch folgende Rahmenbedingungen charakterisiert:
 
 Die Entwicklung kindlicher Kompetenzen wird durch Räume gefördert, deren Einrichtung die Kinder umgestalten können, oder durch Räume mit Werkstattcharakter, in denen die kreativen Ideen der Kinder vergegenständlicht werden können. In Räumen, die Kinder zu verschiedenen Aktivitäten anregen, aber auch Platz zur Erholung und zum Nachdenken bieten, können sich Kinder als Schöpferinnen und Schöpfer eigener Ideen und Werke erleben.
 
-Ein breit gestreutes Angebot an qualitätsvollen Bildungsmitteln mit hohem Aufforderungscharakter regt unterschiedliche Bildungsprozesse an. Zu dieser Ausstattung zählen Spielmittel für das Experimentier-, Bau- und Konstruktionsspiel, für Symbolund Rollenspiele, regelgebundene Spiele sowie Bewegungsspiele. Strukturierte und unstrukturierte  Materialien  zum  Gestalten,  Musizieren,  für  Literacy,  naturwissenschaftliches  Experimentieren  und  Forschen  sowie  hauswirtschaftliche  Tätigkeiten unterstützen die Erweiterung der kindlichen Kompetenzen.
+Ein breit gestreutes Angebot an qualitätsvollen Bildungsmitteln mit hohem Aufforderungscharakter regt unterschiedliche Bildungsprozesse an. Zu dieser Ausstattung zählen Spielmittel für das Experimentier-, Bau- und Konstruktionsspiel, für Symbol- und Rollenspiele, regelgebundene Spiele sowie Bewegungsspiele. Strukturierte und unstrukturierte Materialien zum Gestalten, Musizieren, für Literacy, naturwissenschaftliches Experimentieren und Forschen sowie hauswirtschaftliche Tätigkeiten unterstützen die Erweiterung der kindlichen Kompetenzen.
 
 Die freie Wahl von Spielmaterialien, Spielpartnerinnen und -partnern sowie Spielaktivitäten fördert die Selbstbestimmung der Kinder und bewirkt hohe intrinsische Motivation für ihre Lernprozesse.
 
-Differenzierte Bildungsangebote , die in vielfältig anregende Kontexte eingebettet sind und an die individuellen Erfahrungen der Kinder anknüpfen, stimulieren die Aufmerksamkeit und Konzentration. Sie regen soziale Beziehungen an und erleichtern das Äußern eigener Wünsche und Interessen. Durch die kindliche Spielfreude, Neugier, Lust am Experimentieren und durch gemeinsamen Spaß werden Bedürfnisse und Frustrationen im Spiel verarbeitet. Solche psychohygienischen Prozesse tragen dazu bei, dass Kinder sich für neue Lerninhalte öffnen.
+Differenzierte Bildungsangebote, die in vielfältig anregende Kontexte eingebettet sind und an die individuellen Erfahrungen der Kinder anknüpfen, stimulieren die Aufmerksamkeit und Konzentration. Sie regen soziale Beziehungen an und erleichtern das Äußern eigener Wünsche und Interessen. Durch die kindliche Spielfreude, Neugier, Lust am Experimentieren und durch gemeinsamen Spaß werden Bedürfnisse und Frustrationen im Spiel verarbeitet. Solche psychohygienischen Prozesse tragen dazu bei, dass Kinder sich für neue Lerninhalte öffnen.
 
-Durch genügend Zeit und Muße beim Lernen im Spiel können Kinder ihre eigenen kreativen Ideen entwickeln und sich auf diese Weise ein Stück Welt verfügbar machen. Das völlige Aufgehen in einer Tätigkeit und die dabei erlebte Freiheit ermöglichen  Kindern  ein  motivierendes  Glücksgefühl  (Flowzustand 22 )  und  einen  großen Schritt zur Selbstfindung.
+Durch genügend Zeit und Muße beim Lernen im Spiel können Kinder ihre eigenen kreativen Ideen entwickeln und sich auf diese Weise ein Stück Welt verfügbar machen. Das völlige Aufgehen in einer Tätigkeit und die dabei erlebte Freiheit ermöglichen Kindern ein motivierendes Glücksgefühl (Flowzustand 22) und einen großen Schritt zur Selbstfindung.
 
-Pädagoginnen und Pädagogen schaffen eine Atmosphäre des Vertrauens und der Akzeptanz , indem sie Kinder als aktiv und kompetent respektieren und wertschätzen. Auf diese Weise können Kinder Bildungsimpulse annehmen und ihr Lernund Entwicklungspotenzial bestmöglich ausschöpfen.
+Pädagoginnen und Pädagogen schaffen eine Atmosphäre des Vertrauens und der Akzeptanz, indem sie Kinder als aktiv und kompetent respektieren und wertschätzen. Auf diese Weise können Kinder Bildungsimpulse annehmen und ihr Lern- und Entwicklungspotenzial bestmöglich ausschöpfen.
 
-Dynamische Umgebungen brauchen Rahmen­ beding­ ungen.
+Dynamische Umgebungen brauchen Rahmenbedingungen.
 
 ____________________
 
@@ -536,7 +625,7 @@ ____________________
 
 > 16  Roth (1968)
 
-> 17 Bayerisches Staatsministerium für Arbeit und Sozialordnung, Familie und Frauen, Staatsinstitut für Frühpäda-­ gogik, München (2007)
+> 17 Bayerisches Staatsministerium für Arbeit und Sozialordnung, Familie und Frauen, Staatsinstitut für Frühpädagogik, München (2007)
 
 > 18  Werner und Smith (2001); Wustmann (2004)
 
@@ -560,15 +649,15 @@ Bildungsbereiche
 
 Präambel
 
-- Pädagogische Orientierung
+1. Pädagogische Orientierung
 
-- Bildung und Kompetenzen
+2. Bildung und Kompetenzen
 
-- Bildungsbereiche
+3. Bildungsbereiche
 
 4. Transitionen
 
-- Pädagogische Qualität
+5. Pädagogische Qualität
 
 Literatur
 
@@ -588,7 +677,7 @@ Bildungsbereiche stellen wichtige pädagogische Handlungsfelder dar und ermögli
 
 Die Ausführungen zu den einzelnen Bildungsbereichen basieren auf aktuellen wissenschaftlichen Erkenntnissen und beziehen sich auf wichtige Schwerpunkte elementarer Bildung. Neben entwicklungspsychologischen Grundlagen wird auch die für nachhaltige Bildungsprozesse notwendige Lernumwelt dargestellt. Der Verzicht auf ausformulierte Kompetenzen und Themenkataloge in den einzelnen Bildungsbereichen gewährleistet die Freiheit der Pädagoginnen und Pädagogen, geeignete Inhalte und Methoden für das professionelle und kreative Gestalten ihrer individuellen Arbeit auszuwählen.
 
-Bildungsprozesse betreffen stets mehrere Bildungs­ bereiche.
+Bildungsprozesse betreffen stets mehrere Bildungsbereiche.
 
 Bundesländerübergreifender BildungsRahmenPlan © 2009
 
@@ -614,7 +703,7 @@ Bundesländerübergreifender BildungsRahmenPlan © 2009
 
 - 3.6 Natur und Technik
 
-3.5
+
 
 [[END OF PAGE 29]]
 
@@ -632,9 +721,9 @@ Die Entwicklung sozial-kommunikativer Kompetenzen, wie Kooperations- und Konflik
 
 #### Identität
 
-Mit dem Begriff 'Identität' wird die einzigartige Persönlichkeitsstruktur eines Menschen bezeichnet. Identität entwickelt sich im Zusammenspiel mit der Umwelt und wird u. a. von dem Bild, das andere von dieser Persönlichkeit haben, beeinflusst. 25 Das Selbstkonzept ist ein wichtiger Teil der Identität und umfasst affektive und kogni­ tive Anteile, also das Selbstwertgefühl und das Selbstvertrauen bzw. die Selbstwahrnehmung und das Wissen über sich selbst. Durch die Erfahrung des Angenommenseins, durch vielfältige Beziehungen und eine anregungsreiche Umwelt wird ein differenziertes Bewusstsein individueller Stärken und Schwächen gefördert. Damit wird es möglich, Vertrauen in die eigenen Fähigkeiten aufzubauen und schwierige Situationen aktiv - wenn nötig mit Unterstützung anderer - zu bewältigen. Interaktionen mit Gleichaltrigen (peers) sind für Kinder dabei ebenso bedeutsam wie jene mit Erwachsenen. Die kontinuierliche Integration neu erworbener bzw. weiter differenzierter Fähigkeiten führt zu einer qualitativen Veränderung des Selbstkonzepts, wodurch der Prozess der Individuation unterstützt wird. 26 Individuation bezieht sich auf die Entwicklung der eigenen Anlagen und Fähigkeiten und hat das Ziel, sich selbst als einzigartig und unverwechselbar zu erleben und zu verwirklichen.
+Mit dem Begriff „Identität“ wird die einzigartige Persönlichkeitsstruktur eines Menschen bezeichnet. Identität entwickelt sich im Zusammenspiel mit der Umwelt und wird u. a. von dem Bild, das andere von dieser Persönlichkeit haben, beeinflusst. 25 Das Selbstkonzept ist ein wichtiger Teil der Identität und umfasst affektive und kognitive Anteile, also das Selbstwertgefühl und das Selbstvertrauen bzw. die Selbstwahrnehmung und das Wissen über sich selbst. Durch die Erfahrung des Angenommenseins, durch vielfältige Beziehungen und eine anregungsreiche Umwelt wird ein differenziertes Bewusstsein individueller Stärken und Schwächen gefördert. Damit wird es möglich, Vertrauen in die eigenen Fähigkeiten aufzubauen und schwierige Situationen aktiv – wenn nötig mit Unterstützung anderer – zu bewältigen. Interaktionen mit Gleichaltrigen (peers) sind für Kinder dabei ebenso bedeutsam wie jene mit Erwachsenen. Die kontinuierliche Integration neu erworbener bzw. weiter differenzierter Fähigkeiten führt zu einer qualitativen Veränderung des Selbstkonzepts, wodurch der Prozess der Individuation unterstützt wird. 26 Individuation bezieht sich auf die Entwicklung der eigenen Anlagen und Fähigkeiten und hat das Ziel, sich selbst als einzigartig und unverwechselbar zu erleben und zu verwirklichen.
 
-Kinder sind soziale Wesen, deren Be­ ziehungen von Emotionen geprägt sind.
+Kinder sind soziale Wesen, deren Beziehungen von Emotionen geprägt sind.
 
 Bundesländerübergreifender BildungsRahmenPlan © 2009
 
@@ -656,7 +745,7 @@ Elementare Bildungseinrichtungen bieten Kindern die Chance, vielfältige Beziehu
 
 Alltags- und Spielsituationen geben Kindern Gelegenheit zum Aushandeln von Regeln  und  zur  Bearbeitung  von  Konflikten.  Sie  lernen,  sich  zu  behaupten,  zu  kooperieren  und  andere  für  eine  Idee  zu  gewinnen.  Zur  Konfliktbewältigung  ist  es notwendig,  Spannungen  zwischen  Durchsetzung  eigener  Interessen  und  Anpassung an die soziale Umwelt auszubalancieren. 29  Mit fortschreitender Entwicklung, durch positive Vorbilder und die Unterstützung von Erwachsenen werden Kinder zu Perspektivenwechsel, Interpretation von Gefühlen anderer, Empathie und Solidarität fähig. Dies ist für eine konstruktive Konfliktkultur ebenso bedeutsam wie sprachliche und kognitive Kompetenzen.
 
-Stabile Beziehungen fördern­  das Vertrauen ins ­ eigene Ich und in die Umwelt.
+Stabile Beziehungen fördern das Vertrauen ins eigene Ich und in die Umwelt.
 
 ____________________
 
@@ -698,7 +787,7 @@ Bundesländerübergreifender BildungsRahmenPlan © 2009
 
 - 3.6 Natur und Technik
 
-3.5
+
 
 [[END OF PAGE 32]]
 
@@ -708,7 +797,7 @@ Bundesländerübergreifender BildungsRahmenPlan © 2009
 
 ### 3.2 	Ethik und Gesellschaft
 
-Ethik befasst sich mit Fragen nach dem Wert und der Würde des Menschen sowie nach gerechtem und ungerechtem Handeln. Mögliche Antworten auf diese Fragen werden im Wertesystem einer Gesellschaft sichtbar. In einer pluralistischen und demo­ kratischen Gesellschaft sind gemeinschaftlich geteilte Grundwerte eine wesentliche Voraussetzung dafür, um verantwortungsbewusst handeln und an gesellschaftlichen Prozessen konstruktiv teilhaben zu können.
+Ethik befasst sich mit Fragen nach dem Wert und der Würde des Menschen sowie nach gerechtem und ungerechtem Handeln. Mögliche Antworten auf diese Fragen werden im Wertesystem einer Gesellschaft sichtbar. In einer pluralistischen und demokratischen Gesellschaft sind gemeinschaftlich geteilte Grundwerte eine wesentliche Voraussetzung dafür, um verantwortungsbewusst handeln und an gesellschaftlichen Prozessen konstruktiv teilhaben zu können.
 
 #### Werte
 
@@ -724,7 +813,7 @@ Unterschiedliche weltanschauliche und religiöse Traditionen, die in einer Grupp
 
 Diversität  bezieht  sich  auf  individuelle  Unterschiede,  wie  z.  B.  Alter,  Geschlecht, Hautfarbe,  ethnische  Zugehörigkeit,  soziale  Herkunft  sowie  geistige  und  körperliche Fähigkeiten von Menschen. Ausgehend vom Bewusstsein der Vielschichtigkeit menschlicher Identität und der gleichzeitigen Zugehörigkeit eines Menschen zu mehreren Bezugsgruppen wird Unterschiedlichkeit  als  positiver  Wert  angesehen. Dies erfahren Kinder insbesondere in interkulturellen Begegnungen. Diversität wird für  das  Zusammenleben  genutzt,  um  vielfältige  Lerngelegenheiten  für  Kinder  zu schaffen. 31
 
-Unterschiede in einer ­ Gruppe können zu einer interessierten Auseinandersetzung führen und als Basis für ein respektvolles Miteinander genutzt ­ werden.
+Unterschiede in einer Gruppe können zu einer interessierten Auseinandersetzung führen und als Basis für ein respektvolles Miteinander genutzt werden.
 
 Bundesländerübergreifender BildungsRahmenPlan © 2009
 
@@ -746,7 +835,7 @@ Inklusive Pädagogik berücksichtigt sowohl die besonderen Bedürfnisse jedes ei
 
 Partizipationsfähigkeit ist eine wichtige Voraussetzung für das Leben in einer demokratischen Gesellschaft. In der Elementarpädagogik bedeutet Partizipation, dass Kinder an Entscheidungen, die ihr eigenes Leben und das Leben in der Gemeinschaft  betreffen,  beteiligt  sind  und  zu  einer  kritischen  Haltung  befähigt  werden. Dabei werden sie mit ihren Wünschen, Vorstellungen und Meinungen ernst genommen und in offene Dialoge eingebunden. Kinder erwerben das Wissen, das für Beteiligungsprozesse notwendig ist, am besten in handlungsorientierten Situationen. Durch das Erproben verschiedener Formen der Mitbestimmung können Kinder auf ko-konstruktive Weise entwicklungsangemessene Verantwortung für die Gestaltung ihrer Lebensräume übernehmen. Sie lernen, sich eine persönliche Meinung zu bilden, die der anderen zu akzeptieren sowie für die eigenen Rechte und die Rechte der anderen einzustehen.
 
-Inklusive Pädagogik ­ erkennt Unterschiede an.
+Inklusive Pädagogik erkennt Unterschiede an.
 
 ____________________
 
@@ -782,7 +871,7 @@ Bundesländerübergreifender BildungsRahmenPlan © 2009
 
 - 3.6 Natur und Technik
 
-3.5
+
 
 [[END OF PAGE 35]]
 
@@ -798,11 +887,11 @@ Kontinuierliche  Sprachförderung  stellt  eine  Querschnittsaufgabe  in  elemen
 
 #### Sprache und Sprechen
 
-Von Geburt an sind Kinder an Sprache interessiert und in sprachliche Interaktionen eingebunden. Beim Spracherwerb wirken vielfältige Prozesse, Strategien und Ressourcen ineinander. Einerseits bringen Kinder ihre genetischen und kognitiven Voraussetzungen in sprachliche Austauschprozesse ein, andererseits wird der Sprach­ erwerb von Kindern durch sprachliche Anregungen und differenzierte Dialoge mit vertrauten Personen unterstützt. In jeder Phase des Spracherwerbs gilt, dass das Sprachverständnis umfassender ist als die eigene Sprachproduktion.
+Von Geburt an sind Kinder an Sprache interessiert und in sprachliche Interaktionen eingebunden. Beim Spracherwerb wirken vielfältige Prozesse, Strategien und Ressourcen ineinander. Einerseits bringen Kinder ihre genetischen und kognitiven Voraussetzungen in sprachliche Austauschprozesse ein, andererseits wird der Spracherwerb von Kindern durch sprachliche Anregungen und differenzierte Dialoge mit vertrauten Personen unterstützt. In jeder Phase des Spracherwerbs gilt, dass das Sprachverständnis umfassender ist als die eigene Sprachproduktion.
 
-Die Förderung des Spracherwerbs sollte vor allem zu Beginn in konkrete Handlungszusammenhänge eingebettet sein, die sprachlich kommentiert werden. Dazu sind vielfältige Sprechanlässe und der Bezug zu Alltagssituationen notwendig. Mit zunehmender Entwicklung erlangen Kinder die Fähigkeit, Sprache nicht nur handlungsbegleitend, sondern auch handlungsplanend und reflektierend einzusetzen. 34 Der Erstsprache der Kinder kommt ein besonderer Stellenwert zu. Dazu zählen auch regionale Dialekte oder Gebärdensprache. Die Familiensprache verdient Wertschätzung, da Sprache und Identität eng zusammenhängen. Erfolgreicher Zweitsprach­ erwerb baut auf erstsprachlichen Kompetenzen auf, daher ist es wichtig, auch die Erstsprache ständig weiterzuentwickeln. Die Auseinandersetzung mit unterschiedlichen Sprachen begünstigt das Zusammenleben in einer pluralistischen Gesellschaft.
+Die Förderung des Spracherwerbs sollte vor allem zu Beginn in konkrete Handlungszusammenhänge eingebettet sein, die sprachlich kommentiert werden. Dazu sind vielfältige Sprechanlässe und der Bezug zu Alltagssituationen notwendig. Mit zunehmender Entwicklung erlangen Kinder die Fähigkeit, Sprache nicht nur handlungsbegleitend, sondern auch handlungsplanend und reflektierend einzusetzen. 34 Der Erstsprache der Kinder kommt ein besonderer Stellenwert zu. Dazu zählen auch regionale Dialekte oder Gebärdensprache. Die Familiensprache verdient Wertschätzung, da Sprache und Identität eng zusammenhängen. Erfolgreicher Zweitspracherwerb baut auf erstsprachlichen Kompetenzen auf, daher ist es wichtig, auch die Erstsprache ständig weiterzuentwickeln. Die Auseinandersetzung mit unterschiedlichen Sprachen begünstigt das Zusammenleben in einer pluralistischen Gesellschaft.
 
-Sprache  ist  die  Grundlage für  die  Gestaltung  sozialer Beziehungen.
+Sprache ist die Grundlage für die Gestaltung sozialer Beziehungen.
 
 Bundesländerübergreifender BildungsRahmenPlan © 2009
 
@@ -822,13 +911,13 @@ Reichhaltige  Kommunikationsanlässe unterstützen Kinder bei der kontinuierlich
 
 #### Literacy
 
-Der Begriff 'Literacy' umfasst alle Erfahrungen, Fähigkeiten und Fertigkeiten, die Kinder im Umgang mit Buch-, Erzähl- und Schriftkultur vor dem eigentlichen Lesen- und Schreibenlernen machen. 36  Zeichen, Symbole und Schriften vermitteln ein Verständnis davon, dass Kommunikation auch unabhängig von persönlicher Präsenz möglich ist. Durch die Rezeption von Kinderliteratur und die Auseinandersetzung mit altersgemäßen Texten werden Kinder zunehmend fähig, sprachlich vermittelte Inhalte zu verstehen und zu interpretieren - auch wenn diese losgelöst von zusätzlichen Informationen wie Bildern oder konkreten Handlungen sind. Damit erwerben bzw. differenzieren sie Kompetenzen, die die Grundlage für den Prozess des Lesen- und Schreibenlernens bilden. 37
+Der Begriff „Literacy“ umfasst alle Erfahrungen, Fähigkeiten und Fertigkeiten, die Kinder im Umgang mit Buch-, Erzähl- und Schriftkultur vor dem eigentlichen Lesen- und Schreibenlernen machen. 36 Zeichen, Symbole und Schriften vermitteln ein Verständnis davon, dass Kommunikation auch unabhängig von persönlicher Präsenz möglich ist. Durch die Rezeption von Kinderliteratur und die Auseinandersetzung mit altersgemäßen Texten werden Kinder zunehmend fähig, sprachlich vermittelte Inhalte zu verstehen und zu interpretieren – auch wenn diese losgelöst von zusätzlichen Informationen wie Bildern oder konkreten Handlungen sind. Damit erwerben bzw. differenzieren sie Kompetenzen, die die Grundlage für den Prozess des Lesen- und Schreibenlernens bilden. 37
 
 #### Informations- und Kommunikationstechnologien
 
-Informations- und Kommunikationstechnologien (digitale Medien) bestimmen den Alltag  von  Erwachsenen  und  Kindern  und  sind  zu  einem  wichtigen  Mittel  gesellschaftlicher Partizipation geworden. Eine zeitgemäße elementare Bildung umfasst daher auch die Förderung kindlicher Medienkompetenz. Diese befähigt Kinder, unterschiedliche Medien zunehmend selbstgesteuert und kritisch zu nutzen. Die krea­ tive Gestaltung von Medien sowie mit Medien ermöglicht es darüber hinaus, sich auszudrücken und eigene Produkte zu schaffen. 38
+Informations- und Kommunikationstechnologien (digitale Medien) bestimmen den Alltag von Erwachsenen und Kindern und sind zu einem wichtigen Mittel gesellschaftlicher Partizipation geworden. Eine zeitgemäße elementare Bildung umfasst daher auch die Förderung kindlicher Medienkompetenz. Diese befähigt Kinder, unterschiedliche Medien zunehmend selbstgesteuert und kritisch zu nutzen. Die kreative Gestaltung von Medien sowie mit Medien ermöglicht es darüber hinaus, sich auszudrücken und eigene Produkte zu schaffen. 38
 
-Kindliche Ausdrucksformen sind vielfältig. Diese Vielfalt braucht ­ Wertschätzung.
+Kindliche Ausdrucksformen sind vielfältig. Diese Vielfalt braucht Wertschätzung.
 
 ____________________
 
@@ -876,21 +965,21 @@ Bundesländerübergreifender BildungsRahmenPlan © 2009
 
 Bewegungserfahrungen, vielfältige Sinneseindrücke und deren Zusammenspiel sind wesentliche Grundlagen der Selbst- und Weltbilder von Kindern. 39  Durch Bewegung erforschen und erobern Kinder ihre Umwelt, erfahren sich als selbstwirksam und werden dazu motiviert, sich weiteren Herausforderungen zu stellen. Neue Informationen, die Kinder durch Wahrnehmung und Bewegung sammeln und verarbeiten, werden mit bereits Bekanntem verknüpft. Dadurch erweitern sich kindliche Erfahrungsspielräume und Handlungskompetenzen.
 
-Bewegung trägt wesentlich zu einer gesunden physischen und psychosozialen Entwicklung  bei.  Der  Begriff  'Gesundheit'  bezeichnet  einen  momentanen  Gleichgewichtszustand zwischen dem objektiven und subjektiven Wohlbefinden einer Person. Ein gesunder Mensch befindet sich auf körperlicher, psychischer und sozialer Ebene im Einklang mit seinen individuellen Bedürfnissen und Möglichkeiten sowie mit seinen äußeren Lebensbedingungen. 40
+Bewegung trägt wesentlich zu einer gesunden physischen und psychosozialen Entwicklung bei. Der Begriff „Gesundheit“ bezeichnet einen momentanen Gleichgewichtszustand zwischen dem objektiven und subjektiven Wohlbefinden einer Person. Ein gesunder Mensch befindet sich auf körperlicher, psychischer und sozialer Ebene im Einklang mit seinen individuellen Bedürfnissen und Möglichkeiten sowie mit seinen äußeren Lebensbedingungen. 40
 
 #### Körper und Wahrnehmung
 
-Kinder nehmen die Welt in ihrer Differenziertheit auch über ihren Körper wahr. Wahrnehmen bedeutet,  aus  der  Fülle  von  Sinneseindrücken  einige  auszuwählen,  das Wahrgenommene zu interpretieren und zu verarbeiten. Dadurch stärken Kinder ihre Fähigkeiten, sich zu orientieren, sich auszudrücken und zu gestalten, als wesent­ liche Voraussetzung für strukturiertes Handeln und Denken.
+Kinder nehmen die Welt in ihrer Differenziertheit auch über ihren Körper wahr. Wahrnehmen bedeutet, aus der Fülle von Sinneseindrücken einige auszuwählen, das Wahrgenommene zu interpretieren und zu verarbeiten. Dadurch stärken Kinder ihre Fähigkeiten, sich zu orientieren, sich auszudrücken und zu gestalten, als wesentliche Voraussetzung für strukturiertes Handeln und Denken.
 
-Über  verschiedene  Wahrnehmungsformen  erwerben  Kinder  Wissen  über  ihren Körper und dessen Empfindungen. Sie entwickeln ein Körperschema, indem sie die  Ausmaße und Grenzen ihres Körpers sowie dessen Lage im Raum erfahren und eigene körperbezogene Bedürfnisse wahrnehmen. Diese Erfahrungen sind die ­ Voraussetzung für exaktes Planen und Ausführen von Bewegungen und Handlungen als Reaktionen auf ihre Wahrnehmungen. 41
+Über verschiedene Wahrnehmungsformen erwerben Kinder Wissen über ihren Körper und dessen Empfindungen. Sie entwickeln ein Körperschema, indem sie die Ausmaße und Grenzen ihres Körpers sowie dessen Lage im Raum erfahren und eigene körperbezogene Bedürfnisse wahrnehmen. Diese Erfahrungen sind die Voraussetzung für exaktes Planen und Ausführen von Bewegungen und Handlungen als Reaktionen auf ihre Wahrnehmungen. 41
 
 Psychomotorische Erfahrungen bauen auf der Wechselwirkung von Wahrnehmen, Denken, Fühlen und Handeln auf. Sie unterstützen Kinder dabei, sich ihrer Gestaltungsmöglichkeiten bewusst zu werden und in vielfältigen Situationen initiativ und handlungsfähig zu sein. Dadurch wird u. a. das Selbstvertrauen der Kinder beeinflusst und gestärkt. 42
 
 #### Bewegung
 
-Bewegung ist eine fundamentale Handlungs- und Ausdrucksform von Kindern. Ihr kommt eine Schlüsselfunktion im Rahmen der Entwicklung kognitiver, emotionaler, sozialer und kommunikativer Fähigkeiten zu. Dem natürlichen Bewegungsdrang der Kinder wird in elementaren Bildungseinrichtungen durch eine anregend gestaltete Umgebung mit vielfältigen und reichhaltigen Bewegungsanlässen und eine Haltung der Pädagoginnen und Pädagogen, die zur Bewegung motiviert, entsprochen.
+Bewegung ist eine fundamentale Handlungs- und Ausdrucksform von Kindern. Ihr kommt eine Schlüsselfunktion im Rahmen der Entwicklung kognitiver, emotionaler, sozialer und kommunikativer Fähigkeiten zu. Dem natürlichen Bewegungsdrang der
 
-Durch Bewegung ­ erforschen Kinder ihre Umwelt.
+Durch Bewegung erforschen Kinder ihre Umwelt.
 
 Bundesländerübergreifender BildungsRahmenPlan © 2009
 
@@ -902,19 +991,21 @@ Bundesländerübergreifender BildungsRahmenPlan © 2009
 
 3. Bildungsbereiche
 
+Kinder wird in elementaren Bildungseinrichtungen durch eine anregend gestaltete Umgebung mit vielfältigen und reichhaltigen Bewegungsanlässen und eine Haltung der Pädagoginnen und Pädagogen, die zur Bewegung motiviert, entsprochen.
+
 Bewegung unterstützt Kinder bei der Auseinandersetzung mit sich selbst und mit anderen sowie mit den räumlichen und materialen Gegebenheiten ihrer Umwelt. Sie entwickeln Vorstellungen über ihre körperlichen Stärken und Schwächen und gelangen auf diese Weise zunehmend zu einer realistischen Selbsteinschätzung. Das Erleben von Selbstwirksamkeit und das Vertrauen in die eigene Leistungsfähigkeit motivieren zu weiterer Bewegung.
 
 Kinder differenzieren über Bewegung ihre Geschicklichkeit und Ausdauer, ihr Koordinationsvermögen und ihre räumliche Vorstellungsfähigkeit. Durch das Erproben fein- und grobmotorischer Fertigkeiten entwickeln sie ihr Körpergefühl und Körperbewusstsein kontinuierlich weiter.
 
 #### Gesundheitsbewusstsein
 
-Die  physische  und  psychosoziale  Gesundheit  von  Kindern  ist  eine  wesentliche ­ Voraussetzung für ihre Bildung, Entwicklung und ihr Wohlbefinden. Kinder erfahren eine Steigerung ihres Wohlbefindens u. a. durch körperliche Aktivitäten zur Bewältigung von Stress, emotionalen Belastungen und Krisen sowie zum Abbau von Aggressionen. Entspannung leistet in diesem Zusammenhang einen wichtigen Beitrag zur Verbesserung der Körperwahrnehmung. 43
+Die physische und psychosoziale Gesundheit von Kindern ist eine wesentliche Voraussetzung für ihre Bildung, Entwicklung und ihr Wohlbefinden. Kinder erfahren eine Steigerung ihres Wohlbefindens u. a. durch körperliche Aktivitäten zur Bewältigung von Stress, emotionalen Belastungen und Krisen sowie zum Abbau von Aggressionen. Entspannung leistet in diesem Zusammenhang einen wichtigen Beitrag zur Verbesserung der Körperwahrnehmung. 43
 
 Eine positive Grundeinstellung zum eigenen Körper und das Wissen über präventive  Maßnahmen  zur  Gesunderhaltung  unterstützen  Kinder  dabei,  selbstbestimmt Verantwortung für ihren Körper und ihr Wohlbefinden zu übernehmen. Präventive Maßnahmen betreffen beispielsweise eine grundsätzliche Stärkung der Persönlichkeit, Gespräche zur Aufklärung oder Information über Krankheiten oder Risiken und gesundheitsfördernde Verhaltensweisen im Alltag.
 
 Die Entwicklung eines positiven, unbefangenen Verhältnisses zur Sexualität und zur eigenen Geschlechtsidentität ist Teil des sozialen und emotionalen Wohlbefindens und somit ein wesentlicher Aspekt der Gesundheit von Kindern. Sachrichtige Antworten auf kindliche Fragen beeinflussen die Einstellung zur Sexualität und tragen zur Prävention von sexuellem Missbrauch bei. 44
 
-Vertrauen in die eigene Leistungs­ fähigkeit motiviert zu weiterer Bewegung.
+Vertrauen in die eigene Leistungsfähigkeit motiviert zu weiterer Bewegung.
 
 ____________________
 
@@ -962,13 +1053,13 @@ Bundesländerübergreifender BildungsRahmenPlan © 2009
 
 ### 3.5	 Ästhetik und Gestaltung
 
-Ästhetik  ist  abgeleitet  vom  altgriechischen  'aísthesis'  (mit  allen  Sinnen  wahr­ nehmen). Ästhetische Empfindungen werden von kulturellen Strömungen und gesellschaftlichen Werten beeinflusst. Die ästhetische Bildung als Teil der elementaren Bildung geht davon aus, dass das Denken in Bildern die Grundlage für Prozesse des Gestaltens und Ausgestaltens darstellt. 45
+Ästhetik ist abgeleitet vom altgriechischen „aísthesis“ (mit allen Sinnen wahrnehmen). Ästhetische Empfindungen werden von kulturellen Strömungen und gesellschaftlichen Werten beeinflusst. Die ästhetische Bildung als Teil der elementaren Bildung geht davon aus, dass das Denken in Bildern die Grundlage für Prozesse des Gestaltens und Ausgestaltens darstellt. 45
 
 Ästhetische Impressionen sind von Geburt an Teil der kindlichen Weltentdeckung und spielen auch in Alltagssituationen eine zentrale Rolle. 46  Ästhetische Wahrnehmungen basieren auf sinnlichen Eindrücken, die Kinder auf subjektive Weise verarbeiten. Eigene künstlerische Gestaltungsprozesse unterstützen Kinder dabei, die Komplexität ihrer Wahrnehmungen zu strukturieren und ihrer Kreativität Ausdruck zu verleihen.
 
 #### Kultur und Kunst
 
-Mit dem Begriff 'Kultur' wird ein historisch überliefertes System von Bedeutungen bezeichnet,  das  sich  in  symbolischer  Gestalt  manifestiert,  wie  etwa  in  Form  von Kunstgegenständen  oder  Literatur.  Weiters  sind  darunter  tradierte  Vorstellungen und Handlungen zu verstehen, die sich in symbolischen Formen ausdrücken, wie z.  B. Esskultur oder Sprachcodes. Kultur kann als dynamischer Prozess verstanden werden, in dem Menschen ihr Wissen vom Leben und ihre Einstellung dazu ausdrücken, erhalten bzw. weiterentwickeln. 47 Kultur wird daher sowohl im Alltag, in Bräuchen und Traditionen als auch in kulturellen Produkten und Werken aus den Bereichen Malerei, Bildhauerei, Architektur, Theater, Tanz, Musik, Literatur und Medien sichtbar.
+Mit dem Begriff „Kultur“ wird ein historisch überliefertes System von Bedeutungen bezeichnet, das sich in symbolischer Gestalt manifestiert, wie etwa in Form von Kunstgegenständen oder Literatur. Weiters sind darunter tradierte Vorstellungen und Handlungen zu verstehen, die sich in symbolischen Formen ausdrücken, wie z. B. Esskultur oder Sprachcodes. Kultur kann als dynamischer Prozess verstanden werden, in dem Menschen ihr Wissen vom Leben und ihre Einstellung dazu ausdrücken, erhalten bzw. weiterentwickeln. 47 Kultur wird daher sowohl im Alltag, in Bräuchen und Traditionen als auch in kulturellen Produkten und Werken aus den Bereichen Malerei, Bildhauerei, Architektur, Theater, Tanz, Musik, Literatur und Medien sichtbar.
 
 Bildende und darstellende Kunst sowie Musik sind integrale Bestandteile einer Kultur. Sie umfassen Handlungen und Werke, die auf Wahrnehmung, Vorstellung und
 
@@ -978,7 +1069,7 @@ In elementaren Bildungseinrichtungen erhalten Kinder Gelegenheit, sich sowohl mi
 
 #### Kreativer Ausdruck
 
-Kreativität kommt in flexiblen bzw. divergenten Denkprozessen zum Ausdruck, die alternative Lösungsmöglichkeiten zulassen 49  und zu schöpferischen Prozessen und Werken führen. Voraussetzungen dafür sind Problemsensitivität, Offenheit und Flexibilität. Kinder mit kreativer Kompetenz stellen gewohnte Denk- und Handlungsmuster in Frage und finden außergewöhnliche Antworten auf Herausforderungen. Im ästhetischen Bereich wird Kreativität in verschiedenen künstlerischen Ausdrucksformen deutlich, wie im bildnerischen und plastischen Gestalten, im darstellenden Spiel, im Tanz, in der Mediengestaltung sowie in der Auseinandersetzung mit Musik und Sprache.
+Kreativität kommt in flexiblen bzw. divergenten Denkprozessen zum Ausdruck, die alternative Lösungsmöglichkeiten zulassen 49 und zu schöpferischen Prozessen und
 
 Denken in Bildern ist Grundlage für Prozesse des Gestaltens.
 
@@ -992,7 +1083,11 @@ Bundesländerübergreifender BildungsRahmenPlan © 2009
 
 3. Bildungsbereiche
 
-Beim kreativen Gestalten stellen Kinder ihre Sicht der Wirklichkeit und ihr Verhältnis  zur  Welt  dar,  setzen  sich  mit  eigenen  Fragen,  Gedanken sowie mit Gefühlen auseinander und stellen Beziehungen zwischen der inneren und äußeren Welt her. Gleichzeitig werden sie sich im künstlerischen Handeln ihrer Ausdrucksmöglichkeiten  bewusst.  Sie  lernen  die  Beschaffenheit  von  Materialien,  deren  Gestaltungsmöglichkeiten und die Verwendung von Werkzeugen kennen und erweitern dadurch ihre Sachkompetenz. Nach einer Explorationsphase folgt eine schöpferische Phase. Der Gestaltungsprozess zur Herstellung von Werken nimmt dabei einen wichtigeren Stellenwert als die Werke selbst ein.
+Werken führen. Voraussetzungen dafür sind Problemsensitivität, Offenheit und Flexibilität. Kinder mit kreativer Kompetenz stellen gewohnte Denk- und Handlungsmuster in Frage und finden außergewöhnliche Antworten auf Herausforderungen.
+
+Im ästhetischen Bereich wird Kreativität in verschiedenen künstlerischen Ausdrucksformen deutlich, wie im bildnerischen und plastischen Gestalten, im darstellenden Spiel, im Tanz, in der Mediengestaltung sowie in der Auseinandersetzung mit Musik und Sprache.
+
+Beim kreativen Gestalten stellen Kinder ihre Sicht der Wirklichkeit und ihr Verhältnis zur Welt dar, setzen sich mit eigenen Fragen, Gedanken sowie mit Gefühlen auseinander und stellen Beziehungen zwischen der inneren und äußeren Welt her. Gleichzeitig werden sie sich im künstlerischen Handeln ihrer Ausdrucksmöglichkeiten bewusst. Sie lernen die Beschaffenheit von Materialien, deren Gestaltungsmöglichkeiten und die Verwendung von Werkzeugen kennen und erweitern dadurch ihre Sachkompetenz. Nach einer Explorationsphase folgt eine schöpferische Phase. Der Gestaltungsprozess zur Herstellung von Werken nimmt dabei einen wichtigeren Stellenwert als die Werke selbst ein.
 
 Durch schöpferische Prozesse erleben Kinder Selbstwirksamkeit, die wesentlich zur Entwicklung ihrer Identität beiträgt.
 
@@ -1034,13 +1129,13 @@ Grundlegende naturwissenschaftlich-technische sowie mathematische Kompetenzen z�
 
 #### Natur und Umwelt
 
-Naturbegegnungen können zum Anlass einer intensiven Beschäftigung mit der belebten und unbelebten Umwelt werden. Methoden für wissenschaftliches Denken und Handeln werden durch Experimente erprobt. Kinder entdecken dabei Zusammenhänge, erstellen Hypothesen, treffen Voraussagen und planen Neues. Sie beschaffen sich gezielt Informationen, bilden Theorien und verändern diese aufgrund von Erfahrungen. 51  Kinder verfügen von Geburt an über leistungsfähige Lernmecha­ nismen, mit deren Hilfe sie ihr Wissen revidieren und umstrukturieren können. 52 Die Auseinandersetzung mit Natur und Umwelt fördert die Einsicht in ökologische Zusammenhänge und ermöglicht die Entwicklung eines verantwortungsvollen Umgangs mit den Ressourcen der Natur.
+Naturbegegnungen können zum Anlass einer intensiven Beschäftigung mit der belebten und unbelebten Umwelt werden. Methoden für wissenschaftliches Denken und Handeln werden durch Experimente erprobt. Kinder entdecken dabei Zusammenhänge, erstellen Hypothesen, treffen Voraussagen und planen Neues. Sie beschaffen sich gezielt Informationen, bilden Theorien und verändern diese aufgrund von Erfahrungen. 51 Kinder verfügen von Geburt an über leistungsfähige Lernmechanismen, mit deren Hilfe sie ihr Wissen revidieren und umstrukturieren können. 52 Die Auseinandersetzung mit Natur und Umwelt fördert die Einsicht in ökologische Zusammenhänge und ermöglicht die Entwicklung eines verantwortungsvollen Umgangs mit den Ressourcen der Natur.
 
 #### Technik
 
-Vor  dem  Hintergrund  einer  hoch  technisierten  Wissens-  und  Informationsgesellschaft benötigen Kinder vielfältige Gelegenheiten, sich im Bereich der Technik als forschend  und  entdeckend  zu  erleben.  Technische  Geräte  und  Maschinen  üben große Faszination auf Kinder aus und regen zu Fragen über deren Funktionsweisen an. Handlungsnahe Erfahrungen in alltäglichen Zusammenhängen ermöglichen es, Einsichten  in  physikalisch-technische  Gesetze  zu  gewinnen.  Dadurch  entwickeln Kinder ein sachbezogenes Arbeitsverhalten, erlernen den Umgang mit verschiedenen Werkzeugen sowie die bewusste Planung von möglichen Vorgehensweisen und Arbeitsschritten. Dies unterstützt sie dabei, ihre Ideen zu verwirklichen, Neues zu erfinden und eigene Werke zu produzieren, indem sie ihre Einfälle auf neue Mate­ rialien und Situationen übertragen (Transfer). 53
+Vor dem Hintergrund einer hoch technisierten Wissens- und Informationsgesellschaft benötigen Kinder vielfältige Gelegenheiten, sich im Bereich der Technik als forschend und entdeckend zu erleben. Technische Geräte und Maschinen üben große Faszination auf Kinder aus und regen zu Fragen über deren Funktionsweisen an. Handlungsnahe Erfahrungen in alltäglichen Zusammenhängen ermöglichen es, Einsichten in physikalisch-technische Gesetze zu gewinnen. Dadurch entwickeln Kinder ein sachbezogenes Arbeitsverhalten, erlernen den Umgang mit verschiedenen Werkzeugen sowie die bewusste Planung von möglichen Vorgehensweisen und Arbeitsschritten. Dies unterstützt sie dabei, ihre Ideen zu verwirklichen, Neues zu erfinden und eigene Werke zu produzieren, indem sie ihre Einfälle auf neue Materialien und Situationen übertragen (Transfer). 53
 
-Ordnungsstrukturen und­ Gesetzmäßigkeiten werden Schritt für Schritt erkannt.
+Ordnungsstrukturen und Gesetzmäßigkeiten werden Schritt für Schritt erkannt.
 
 Bundesländerübergreifender BildungsRahmenPlan © 2009
 
@@ -1056,7 +1151,7 @@ Bundesländerübergreifender BildungsRahmenPlan © 2009
 
 Mathematisches Denken ist ein elementarer Baustein der kognitiven Entwicklung und bezieht sich u. a. auf das Erkennen und Beschreiben von wiederkehrenden Mustern und Strukturen, Regeln und Gesetzmäßigkeiten. 54
 
-Bereits junge Kinder sammeln vielfältige Lernerfahrungen mit Raum und Zeit, mit Formen  und  Größen  sowie  mit  weiteren  mathematischen  Regelmäßigkeiten  und Strukturen.  In  entwicklungsangemessenen  Situationen,  die  Kindern  Erfolgserlebnisse ermöglichen, wird ein positiver Zugang zur Mathematik unterstützt. 55 Durch die lustvolle Auseinandersetzung mit mathematischen Phänomenen, die in alltäglichen Situationen stattfindet, erfahren Kinder Zusammenhänge mit allen Sinnen. Ihre Neugier in Bezug auf Mengen und Größen, geometrische Formen und Zahlen fördert den Aufbau von grundlegenden mathematischen Denkweisen, Fähigkeiten und Fertigkeiten (Vorläuferfähigkeiten). Dazu gehören das Verständnis für Mengen und  Mengenrelationen,  die  Zählfertigkeit  sowie  visuell-analytische  und  räumlichkonstruktive Fähigkeiten. 56
+Bereits junge Kinder sammeln vielfältige Lernerfahrungen mit Raum und Zeit, mit Formen und Größen sowie mit weiteren mathematischen Regelmäßigkeiten und Strukturen. In entwicklungsangemessenen Situationen, die Kindern Erfolgserlebnisse ermöglichen, wird ein positiver Zugang zur Mathematik unterstützt. 55 Durch die lustvolle Auseinandersetzung mit mathematischen Phänomenen, die in alltäglichen Situationen stattfindet, erfahren Kinder Zusammenhänge mit allen Sinnen. Ihre Neugier in Bezug auf Mengen und Größen, geometrische Formen und Zahlen fördert den Aufbau von grundlegenden mathematischen Denkweisen, Fähigkeiten und Fertigkeiten (Vorläuferfähigkeiten). Dazu gehören das Verständnis für Mengen und Mengenrelationen, die Zählfertigkeit sowie visuell-analytische und räumlich-konstruktive Fähigkeiten. 56
 
 Mengen und Größen, Formen und Zahlen: So gelingt der Aufbau mathematischer Denkweisen.
 
@@ -1094,9 +1189,9 @@ Präambel
 
 3. Bildungsbereiche
 
-- Transitionen
+4. Transitionen
 
-- Pädagogische Qualität
+5. Pädagogische Qualität
 
 Literatur
 
@@ -1108,7 +1203,7 @@ Literatur
 
 ## 4. Transitionen
 
-Als  Transitionen  werden  tiefgreifende  Umstrukturierungen  im  Leben  eines  Menschen  bezeichnet. 57 Während  der  Begriff  'Übergang'  lediglich  den  Wechsel  von Lebensumwelten ausdrückt, schließt der Begriff 'Transition' auch die damit verbundenen Belastungen, Anpassungsleistungen und Lernprozesse eines Individuums mit ein. Transitionen im Kindesalter entstehen durch Veränderungen der Familienstruktur sowie durch den Eintritt in eine elementare Bildungseinrichtung oder den Übertritt in die nachfolgende Institution.
+Als Transitionen werden tiefgreifende Umstrukturierungen im Leben eines Menschen bezeichnet. 57 Während der Begriff „Übergang“ lediglich den Wechsel von Lebensumwelten ausdrückt, schließt der Begriff „Transition“ auch die damit verbundenen Belastungen, Anpassungsleistungen und Lernprozesse eines Individuums mit ein. Transitionen im Kindesalter entstehen durch Veränderungen der Familienstruktur sowie durch den Eintritt in eine elementare Bildungseinrichtung oder den Übertritt in die nachfolgende Institution.
 
 Transitionen  werden  als  unvermeidbare  und  notwendige  Diskontinuitäten  im  Lebenslauf im Sinne von Entwicklungsaufgaben verstanden. Sie sind mit einem Anstieg von Belastungsfaktoren verbunden, deren Bewältigung vom Kind und seinen Bezugspersonen  ein  hohes  Ausmaß  an  Transitionskompetenzen  erfordert.  Dazu zählen  z.  B.  der  konstruktive  Umgang  mit  Stress,  sozial-kommunikative  Kompetenzen  oder  Resilienz.  Die  Auseinandersetzung  mit  einer  Transition  stimuliert  die Weiterentwicklung des Individuums und erhöht die Chance für die erfolgreiche Bewältigung künftiger Übergänge. 58
 
@@ -1118,9 +1213,9 @@ Ein Übergang gilt als gelungen, wenn das Kind und seine Familie in der Lage sin
 
 ### 4.1	Transition von der Familie in eine elementare Bildungseinrichtung
 
-Der Eintritt in eine elementare Bildungseinrichtung ist häufig eine der ersten Transitionserfahrungen eines Kindes und stellt für die gesamte Familie eine Phase dar, die besonderer Aufmerksamkeit bedarf. Die Bewältigung der Transition hängt von vielen individuellen Faktoren ab, wie etwa von der Familienstruktur, bisherigen Erfahrungen mit außerfamiliärer Betreuung oder vorangegangenen Übergängen sowie der ­ Resilienz des Kindes. Eine individuelle Eingewöhnung nach einem qualitätsvollen Konzept liegt in der gemeinsamen Verantwortung von Familie und Bildungseinrichtung. Offenheit und Flexibilität beider Seiten sowie ein kontinuierlicher Austausch bestimmen maßgeblich das Gelingen der Transition. Die Qualität der Bildungspartnerschaft mit den Eltern wird bereits durch Kontakte vor dem Eintritt des Kindes in die Einrichtung beeinflusst. Die Eltern erhalten Informationen über das Eingewöhnungskonzept und werden dadurch in die Bewältigung der Transition miteinbezogen. Bei der Gestaltung der Eintrittsphase steht die Qualität der Beziehungen des Kindes zu den neuen Bezugspersonen im Mittelpunkt. In der Bindungsforschung 59  wird die Verfügbarkeit und Kontinuität der Bezugspersonen betont, die dem Kind ein Gefühl der Sicherheit vermitteln. Feinfühligkeit im Beziehungsaufbau zeigt sich in der Wahrnehmung der individuellen Bedürfnisse des Kindes nach Nähe und Distanz.
+Der Eintritt in eine elementare Bildungseinrichtung ist häufig eine der ersten Transitionserfahrungen eines Kindes und stellt für die gesamte Familie eine Phase dar, die besonderer Aufmerksamkeit bedarf. Die Bewältigung der Transition hängt von vielen individuellen Faktoren ab, wie etwa von der Familienstruktur, bisherigen Erfahrungen mit außerfamiliärer Betreuung oder vorangegangenen Übergängen sowie
 
-Übergang braucht ­ Kom­ petenz.
+Übergang braucht Kompetenz.
 
 Bundesländerübergreifender BildungsRahmenPlan © 2009
 
@@ -1132,17 +1227,19 @@ Bundesländerübergreifender BildungsRahmenPlan © 2009
 
 4. Transitionen
 
-Sichere Bindungen unterstützen das Kind dabei, sich in der neuen Umwelt zurechtzufinden und ihr offen und neugierig zu begegnen. Die Gewissheit, sich auf Vertrautes verlassen zu können, stellt eine wichtige Voraussetzung für Explorations- und Spielprozesse dar. 60  Mit zunehmender Vertrautheit der Kinder mit ihrer neuen Lebenswelt wird es immer wichtiger, sie zur Erforschung ihrer Umwelt zu motivieren sowie individuelle Bildungsprozesse anzuregen und zu begleiten. 61
+der Resilienz des Kindes. Eine individuelle Eingewöhnung nach einem qualitätsvollen Konzept liegt in der gemeinsamen Verantwortung von Familie und Bildungseinrichtung. Offenheit und Flexibilität beider Seiten sowie ein kontinuierlicher Austausch bestimmen maßgeblich das Gelingen der Transition. Die Qualität der Bildungspartnerschaft mit den Eltern wird bereits durch Kontakte vor dem Eintritt des Kindes in die Einrichtung beeinflusst. Die Eltern erhalten Informationen über das Eingewöhnungskonzept und werden dadurch in die Bewältigung der Transition miteinbezogen. Bei der Gestaltung der Eintrittsphase steht die Qualität der Beziehungen des Kindes zu den neuen Bezugspersonen im Mittelpunkt. In der Bindungsforschung 59 wird die Verfügbarkeit und Kontinuität der Bezugspersonen betont, die dem Kind ein Gefühl der Sicherheit vermitteln. Feinfühligkeit im Beziehungsaufbau zeigt sich in der Wahrnehmung der individuellen Bedürfnisse des Kindes nach Nähe und Distanz.
+
+Sichere Bindungen unterstützen das Kind dabei, sich in der neuen Umwelt zurechtzufinden und ihr offen und neugierig zu begegnen. Die Gewissheit, sich auf Vertrautes verlassen zu können, stellt eine wichtige Voraussetzung für Explorations- und Spielprozesse dar. 60 Mit zunehmender Vertrautheit der Kinder mit ihrer neuen Lebenswelt wird es immer wichtiger, sie zur Erforschung ihrer Umwelt zu motivieren sowie individuelle Bildungsprozesse anzuregen und zu begleiten. 61
 
 ### 4.2	Transition zwischen elementaren Bildungseinrichtungen
 
-Wenn Kinder durch den Besuch einer elementaren Bildungseinrichtung bereits über Transitionserfahrungen  verfügen,  bedarf  der  Wechsel  in  eine  weitere  elementare Bildungseinrichtung ebenso einer professionellen Gestaltung. In einer gemeinsam entwickelten Kooperationskultur tragen alle beteiligten Systeme - Eltern und Einrichtungen - zum Gelingen des Übergangs bei. Die Überlegungen zur Gestaltung der ersten Eingewöhnung in eine elementare Bildungseinrichtung sind auch beim Wechsel zwischen verschiedenen Einrichtungen von Bedeutung.
+Wenn Kinder durch den Besuch einer elementaren Bildungseinrichtung bereits über Transitionserfahrungen verfügen, bedarf der Wechsel in eine weitere elementare Bildungseinrichtung ebenso einer professionellen Gestaltung. In einer gemeinsam entwickelten Kooperationskultur tragen alle beteiligten Systeme – Eltern und Einrichtungen – zum Gelingen des Übergangs bei. Die Überlegungen zur Gestaltung der ersten Eingewöhnung in eine elementare Bildungseinrichtung sind auch beim Wechsel zwischen verschiedenen Einrichtungen von Bedeutung.
 
 ### 4.3	Transition von elementaren Bildungseinrichtungen in die Volksschule
 
 Die Vernetzung von elementaren Bildungseinrichtungen, Schule, außerschulischer Nachmittagsbetreuung und Eltern bildet die Grundlage einer partnerschaftlichen Begleitung des Übergangs. Kooperation als bewusste, zielgerichtete und gemeinsam verantwortete Zusammenarbeit aller Beteiligten 62 beruht auf regelmäßiger gegenseitiger Information, Kommunikation und Partizipation. 63 Eine erfolgreiche und nachhaltige Zusammenarbeit mündet in die Formulierung gemeinsamer Ziele und Strategien für die Übergangsgestaltung. Im Mittelpunkt steht das Vertrautwerden mit Abläufen, Bildungszielen und Erwartungen der Kooperationspartnerinnen und -partner.
 
-Sichere Bindungen ­ unterstützen das Kind.
+Sichere Bindungen unterstützen das Kind.
 
 Bundesländerübergreifender BildungsRahmenPlan © 2009
 
@@ -1158,7 +1255,7 @@ Um anschlussfähige Bildungsprozesse 64  zu ermöglichen, wird der Kontinuität 
 
 Die Pädagoginnen und Pädagogen der beteiligten Institutionen begleiten und moderieren gemeinsam den Übergangsprozess: Sie stellen regelmäßig Gelegenheiten zur Verzahnung der beteiligten Systeme her, indem sie institutionenübergreifende Aktivitäten planen und zu Gesprächen mit allen Beteiligten einladen. Weiters unterstützen sie Kinder und Eltern individuell bei der Entwicklung von Transitionskompetenzen und beziehen diese aktiv in die Gestaltung des Übergangs mit ein.
 
-Der Prozess muss ­ päda­ gogisch begleitet werden.
+Der Prozess muss pädagogisch begleitet werden.
 
 ____________________
 
@@ -1194,13 +1291,13 @@ Präambel
 
 1. Pädagogische Orientierung
 
-- Bildung und Kompetenzen
+2. Bildung und Kompetenzen
 
 3. Bildungsbereiche
 
-- Transitionen
+4. Transitionen
 
-- Pädagogische Qualität
+5. Pädagogische Qualität
 
 Literatur
 
@@ -1220,13 +1317,15 @@ Bei einer differenzierten Beschreibung pädagogischer Qualität stehen die Bedü
 
 Pädagogische Qualität wird in den Strukturbedingungen einer Einrichtung, in den pädagogischen Prozessen und in den Interaktionen von Kindern und Erwachsenen sichtbar. Auch die Werthaltungen und Einstellungen des Personals beeinflussen die pädagogische Qualität. Diese zeigt sich weiters in der Zusammenarbeit mit Eltern und externen Fachkräften im Sinne einer Bildungspartnerschaft sowie in der Gestaltung der Öffentlichkeitsarbeit. 67
 
+Von qualitätsvoller Förderung profitiert die gesamte Gesellschaft.
+
 #### Prozessqualität
 
-Prozessqualität spiegelt sich in der Atmosphäre in elementaren Bildungseinrichtungen wider und bezieht sich auf die Interaktionen und Erfahrungen, die Kinder mit ihrer sozialen und räumlich-materialen Umwelt machen. 68 Der Qualität pädagogischer Prozesse  kommt ein  besonderer  Stellenwert  zu:  Eine  hohe  Prozessqualität  wirkt sich positiv auf das Wohlbefinden der Kinder aus und fördert ihre Bildungschancen nachhaltig. 69   Die Professionalität der Pädagoginnen und Pädagogen zeigt sich in der Gestaltung pädagogischer Impulse, die die Entwicklung kindlicher Kompetenzen umfassend unterstützen. Die Konzeptions- und Methodenfreiheit schafft dabei - vor dem Hintergrund  gesetzlicher  Grundlagen  und  einer  reflektierten  pädagogischen Orientierung - den notwendigen Rahmen für individuelle Lernwege.
+Prozessqualität spiegelt sich in der Atmosphäre in elementaren Bildungseinrichtungen wider und bezieht sich auf die Interaktionen und Erfahrungen, die Kinder mit ihrer sozialen und räumlich-materialen Umwelt machen. 68 Der Qualität pädagogischer Prozesse kommt ein besonderer Stellenwert zu: Eine hohe Prozessqualität wirkt sich positiv auf das Wohlbefinden der Kinder aus und fördert ihre Bildungschancen nachhaltig. 69 Die Professionalität der Pädagoginnen und Pädagogen zeigt sich in der Gestaltung pädagogischer Impulse, die die Entwicklung kindlicher Kompetenzen umfassend unterstützen. Die Konzeptions- und Methodenfreiheit schafft dabei – vor dem Hintergrund gesetzlicher Grundlagen und einer reflektierten pädagogischen Orientierung – den notwendigen Rahmen für individuelle Lernwege.
 
 #### Orientierungsqualität
 
-Orientierungsqualität bezieht sich auf jene professionellen Leitbilder, pädagogischen Vorstellungen  und  Überzeugungen  der  am  pädagogischen  Alltag  unmittelbar  beteiligten  Erwachsenen,  die  in  ihrem  Handeln  sichtbar  werden.  Die  pädagogische Von qualitätsvoller ­ För­ derung profitiert die gesamte Gesellschaft.
+Orientierungsqualität bezieht sich auf jene professionellen Leitbilder, pädagogischen Vorstellungen und Überzeugungen der am pädagogischen Alltag unmittelbar beteiligten Erwachsenen, die in ihrem Handeln sichtbar werden. Die pädagogische
 
 Bundesländerübergreifender BildungsRahmenPlan © 2009
 
@@ -1238,7 +1337,7 @@ Bundesländerübergreifender BildungsRahmenPlan © 2009
 
 5. Pädagogische Qualität
 
-­ Orientierung umfasst u. a. das Bild vom Kind, das Rollenverständnis der Pädagoginnen und Pädagogen sowie Prinzipien für die Gestaltung von Bildungsprozessen. 70
+Orientierung umfasst u. a. das Bild vom Kind, das Rollenverständnis der Pädagoginnen und Pädagogen sowie Prinzipien für die Gestaltung von Bildungsprozessen. 70
 
 #### Strukturqualität
 
@@ -1272,6 +1371,8 @@ Bundesländerübergreifender BildungsRahmenPlan © 2009
 
 [[START OF PAGE 54]]
 
+Literatur
+
 Präambel
 
 1. Pädagogische Orientierung
@@ -1282,9 +1383,7 @@ Präambel
 
 4. Transitionen
 
-5.	Pädagogische Qualität
-
-Literatur
+5. Pädagogische Qualität
 
 Literatur
 
@@ -1296,35 +1395,35 @@ Literatur
 
 ## Literatur
 
-- Ahnert, Lieselotte (2008a). Bindung und Bonding: Konzepte früher Bindungsentwicklung. In Lieselotte Ahnert (Hrsg.), Frühe Bindung. Entstehung und Entwicklung (2. Auflage, S. 63-81). München: reinhardt.
+- Ahnert, Lieselotte (2008a). Bindung und Bonding: Konzepte früher Bindungsentwicklung. In Lieselotte Ahnert (Hrsg.), Frühe Bindung. Entstehung und Entwicklung (2. Auflage, S. 63–81). München: reinhardt.
 
-- Ahnert, Lieselotte (2008b). Bindungsbeziehungen außerhalb der Familie: Tagesbetreuung und  Erzieherinnen-Kind-Bindung.  In  Lieselotte  Ahnert  (Hrsg.),  Frühe  Bindung. Entstehung und Entwicklung (2. Auflage, S. 256-277). München: reinhardt.
+- Ahnert, Lieselotte (2008b). Bindungsbeziehungen außerhalb der Familie: Tagesbetreuung und Erzieherinnen-Kind-Bindung. In Lieselotte Ahnert (Hrsg.), Frühe Bindung. Entstehung und Entwicklung (2. Auflage, S. 256–277). München: reinhardt.
 
 - Ahnert, Lieselotte (19. 3. 2009). Öffentliche Kleinkindbetreuung auf dem Prüfstand entwicklungspsychologischer Forschung: Risiken und Chancen für das Kindeswohl. Antrittsvorlesung an der Universität Wien.
 
-- Baacke,  Dieter  (1999). Medienkompetenz  als  zentrales  Operationsfeld  von  Projekten.  In ­ Dieter Baacke, Susanne Kornblum, Jürgen Lauffer et al. (Hrsg.), Handbuch Medien: Medienkompetenz. Modelle und Projekte (S. 31-35). Bonn: Bundeszentrale für politische Bildung.
+- Baacke, Dieter (1999). Medienkompetenz als zentrales Operationsfeld von Projekten. In Dieter Baacke, Susanne Kornblum, Jürgen Lauffer et al. (Hrsg.), Handbuch Medien: Medienkompetenz. Modelle und Projekte (S. 31–35). Bonn: Bundeszentrale für politische Bildung.
 
 - Bäck, Gabriele, Hajszan, Michaela und Bayer-Chisté, Natalie (2008). Praktisch didaktisch. Grundlagen der Kindergartendidaktik. Wien: G&G.
 
-- Bayerisches Staatsministerium für Arbeit  und  Sozialordnung,  Familie  und  Frauen, Staatsinstitut für Frühpädagogik, München (2007). Der Bayerische Bildungsund Erziehungsplan für Kinder in Tageseinrichtungen bis zur Einschulung. Berlin: Cornelsen Scriptor.
+- Bayerisches Staatsministerium für Arbeit und Sozialordnung, Familie und Frauen, Staatsinstitut für Frühpädagogik, München (2007). Der Bayerische Bildungs- und Erziehungsplan für Kinder in Tageseinrichtungen bis zur Einschulung. Berlin: Cornelsen Scriptor.
 
-- Biewer,  Gottfried  (2009). Grundlagen  der  Heilpädagogik  und  Inklusiven  Pädagogik.  Bad Heilbrunn: Verlag Julius Klinkhardt.
+- Biewer, Gottfried (2009). Grundlagen der Heilpädagogik und Inklusiven Pädagogik. Bad Heilbrunn: Verlag Julius Klinkhardt.
 
 - BMUKK (2008). Lehrplan der Volksschule. Wien: öbv&hpt.
 
-- Bostelmann, Antje und Fink, Michael (2003). Pädagogische Prozesse im Kindergarten Planung, Umsetzung, Evaluation. Weinheim: Beltz.
+- Bostelmann, Antje und Fink, Michael (2003). Pädagogische Prozesse im Kindergarten – Planung, Umsetzung, Evaluation. Weinheim: Beltz.
 
-- Braun, Daniela (2007). Mehr  als  eine  schöne  Zutat:  Kreativ-künstlerisches  Gestalten  mit Kindern. kindergarten heute, 8, S. 6-13.
+- Braun, Daniela (2007). Mehr als eine schöne Zutat: Kreativ-künstlerisches Gestalten mit Kindern. kindergarten heute, 8, S. 6–13.
 
-- Bründel, Heidrun (2009). Gesundheit! Voraussetzungen für Entwicklung, Bildung und Wohlbefinden. kindergarten heute, 1, S. 8-15.
+- Bründel, Heidrun (2009). Gesundheit! Voraussetzungen für Entwicklung, Bildung und Wohlbefinden. kindergarten heute, 1, S. 8–15.
 
-- Charlotte-Bühler-Institut  und  PädQUIS  (2007). Dimensionen  pädagogischer  Qualität  in Kindergärten. Internationale Forschungsergebnisse - Empfehlungen - Qualitätsfeststellung. Unveröffentlichter Forschungsbericht. Wien: Charlotte-Bühler-Institut.
+- Charlotte-Bühler-Institut und PädQUIS (2007). Dimensionen pädagogischer Qualität in Kindergärten. Internationale Forschungsergebnisse – Empfehlungen – Qualitätsfeststellung. Unveröffentlichter Forschungsbericht. Wien: Charlotte-Bühler-Institut.
 
 - Csikszentmihalyi, Mihaly (2002). Flow. Stuttgart: Klett-Cotta.
 
-- Diskowski,  Detlef  &  Hammes-Di  Bernardo,  Eva  (Hrsg.)  (2004). Lernkulturen  und ­ Bildungsstandards. Kindergarten und Schule zwischen Vielfalt und Verbindlichkeit (S. 173-204). Baltmannsweiler: Schneider Verlag Hohengehren.
+- Diskowski, Detlef & Hammes-Di Bernardo, Eva (Hrsg.) (2004). Lernkulturen und Bildungsstandards. Kindergarten und Schule zwischen Vielfalt und Verbindlichkeit (S. 173–204). Baltmannsweiler: Schneider Verlag Hohengehren.
 
-- Dörfler, Mechthild (2004). Konflikte unter Kindern. Ein Kinderspiel für Erwach­ sene? Unsere Kinder, 6, S. 19-23.
+- Dörfler, Mechthild (2004). Konflikte unter Kindern. Ein Kinderspiel für Erwachsene? Unsere Kinder, 6, S. 19–23.
 
 Bundesländerübergreifender BildungsRahmenPlan © 2009
 
@@ -1336,41 +1435,41 @@ Bundesländerübergreifender BildungsRahmenPlan © 2009
 
 Literatur
 
-- Dunlop, Aline-Wendy (2003). Spielerisches Lernen als Brücke zwischen Kindergarten und Schule.  In  Staatsinstitut  für  Frühpädagogik  (Hrsg.),  Kindlicher  Quantensprung? Der Wechsel vom Kindergarten in die Schule und die Rolle des Spiels. München: Staatsinstitut für Frühpädagogik.
+- Dunlop, Aline-Wendy (2003). Spielerisches Lernen als Brücke zwischen Kindergarten und Schule. In Staatsinstitut für Frühpädagogik (Hrsg.), Kindlicher Quantensprung? Der Wechsel vom Kindergarten in die Schule und die Rolle des Spiels. München: Staatsinstitut für Frühpädagogik.
 
 - Erpenbeck, John und Heyse, Volker (2007). Die Kompetenzbiographie. Wege der Kompetenzentwicklung. Münster: Waxmann.
 
-- Europäische Gemeinschaften (2007). Schlüsselkompetenzen für lebenslanges Lernen. Ein europäischer Referenzrahmen. [Online im Internet]. URL:  http://eur-lex.europa.eu/LexUriServ/site/de/oj/2006/l_394/l_39420061230de00100018. pdf [24. 4. 2009].
+- Europäische Gemeinschaften (2007). Schlüsselkompetenzen für lebenslanges Lernen. Ein europäischer Referenzrahmen. [Online im Internet]. URL: http://eur-lex.europa.eu/LexUriServ/site/de/oj/2006/l_394/l_39420061230de00100018.pdf [24. 4. 2009].
 
-- Fischer, Hannah (2002). Das Märchen vom hässlichen jungen Entlein. Oder: Identitätsfindung und Integration. Unsere Kinder, 6, S. 153-156.
+- Fischer, Hannah (2002). Das Märchen vom hässlichen jungen Entlein. Oder: Identitätsfindung und Integration. Unsere Kinder, 6, S. 153–156.
 
 - Fried, Lilian (2005). Wissen als wesentliche Konstituente der Lerndisposition junger Kinder. Expertise im Auftrag des Deutschen Jugendinstituts. [Online im Internet]. URL: http://www.dji.de/bibs/320_5488_Fried.pdf [24. 4. 2009].
 
-- Fthenakis, Wassilos E. (Hrsg.) (2003). Elementarpädagogik nach PISA. Wie aus Kinder­ tagesstätten Bildungseinrichtungen werden können. Freiburg: Herder.
+- Fthenakis, Wassilos E. (Hrsg.) (2003). Elementarpädagogik nach PISA. Wie aus Kindertagesstätten Bildungseinrichtungen werden können. Freiburg: Herder.
 
-- Fthenakis, Wassilios E., Schmitt, Annette, Eitel, Andreas, Gerlach, Franz, Wendell, Astrid und Daut, Marike (2009) . Natur-Wissen schaffen. Band 5: Frühe Medienbildung. Troisdorf: Bildungsverlag EINS.
+- Fthenakis, Wassilios E., Schmitt, Annette, Eitel, Andreas, Gerlach, Franz, Wendell, Astrid und Daut, Marike (2009). Natur-Wissen schaffen. Band 5: Frühe Medienbildung. Troisdorf: Bildungsverlag EINS.
 
 - Geertz, Clifford (2002). Dichte Beschreibung. Beiträge zum Verstehen kultureller Systeme. Frankfurt/Main: Suhrkamp.
 
 - Generalversammlung der Vereinten Nationen (1989). Die Rechte des Kindes. Ravensburg: Ravensburger Buchverlag.
 
-- Gisbert,  Kristin  (2004). Lernen  lernen.  Lernmethodische  Kompetenzen  von  Kindern  in Tages­ einrichtungen fördern. Weinheim: Beltz.
+- Gisbert, Kristin (2004). Lernen lernen. Lernmethodische Kompetenzen von Kindern in Tageseinrichtungen fördern. Weinheim: Beltz.
 
 - Gopnig, Alison, Kuhl, Patricia und Meltzoff, Andrew (2007). Forschergeist in Windeln. München: Piper.
 
 - Griebel, Wilfried und Niesel, Renate (2004). Transitionen. Fähigkeit von Kindern in Tageseinrichtungen fördern, Veränderungen erfolgreich zu bewältigen. Weinheim: Beltz.
 
-- Grossmann, Karin und Grossmann, Klaus E. (2006). Bindungen - das Gefüge psychischer Sicherheit (4. Auflage). Stuttgart: Klett-Cotta.
+- Grossmann, Karin und Grossmann, Klaus E. (2006). Bindungen – das Gefüge psychischer Sicherheit (4. Auflage). Stuttgart: Klett-Cotta.
 
 - Günther, Britta und Günther, Herbert (2007). Erstsprache, Zweitsprache, Fremdsprache. Eine Einführung. Weinheim: Beltz.
 
-- Hacker, Hartmann (2001). Die  Anschlussfähigkeit  von  Kindergarten  und  Grundschule.  In Gabriele Faust-Siehl und Angelika Speck-Hamdan (Hrsg.), Schulanfang ohne Umwege (S. 80-94). Frankfurt: Grundschulverband - Arbeitskreis Grundschule ­ e.V.
+- Hacker, Hartmann (2001). Die Anschlussfähigkeit von Kindergarten und Grundschule. In Gabriele Faust-Siehl und Angelika Speck-Hamdan (Hrsg.), Schulanfang ohne Umwege (S. 80–94). Frankfurt: Grundschulverband – Arbeitskreis Grundschule e.V.
 
-- Hartmann, Waltraut (1997). Das Wiener Spielprojekt. Eine Langzeituntersuchung zum Spiel in der Grundschule. Erziehung und Unterricht, 5/6, S. 613-621.
+- Hartmann, Waltraut (1997). Das Wiener Spielprojekt. Eine Langzeituntersuchung zum Spiel in der Grundschule. Erziehung und Unterricht, 5/6, S. 613–621.
 
-- Hartmann, Waltraut, Hajszan, Michaela, Pfohl-Chalaupek, Martina, Stoll, Martina und Hartel,  Birgit  (2009). Sprache,  Kommunikation  und  Literacy  im  Kindergarten. Wien: hpt Verlag.
+- Hartmann, Waltraut, Hajszan, Michaela, Pfohl-Chalaupek, Martina, Stoll, Martina und Hartel, Birgit (2009). Sprache, Kommunikation und Literacy im Kindergarten. Wien: hpt Verlag.
 
-- Hartmann,  Waltraut,  Stoll,  Martina,  Chisté,  Natalie  und  Hajszan,  Michaela  (2006). Bildungsqualität  im  Kindergarten.  Transaktionale  Prozesse,  Methoden,  Modelle. Wien: öbv&hpt.
+- Hartmann, Waltraut, Stoll, Martina, Chisté, Natalie und Hajszan, Michaela (2006). Bildungsqualität im Kindergarten. Transaktionale Prozesse, Methoden, Modelle. Wien: öbv&hpt.
 
 Bundesländerübergreifender BildungsRahmenPlan © 2009
 
@@ -1382,43 +1481,43 @@ Bundesländerübergreifender BildungsRahmenPlan © 2009
 
 Literatur
 
-- Humboldt, Wilhelm von (1960). Theorie der Bildung des Menschen (1793). In Andreas Flitner und Klaus Giel (Hrsg.), Wilhelm von Humboldt. Werke in fünf Bänden - Schriften zur Anthropologie und Geschichte. Stuttgart: J. G. Cotta'sche Buchhandlung.
+- Humboldt, Wilhelm von (1960). Theorie der Bildung des Menschen (1793). In Andreas Flitner und Klaus Giel (Hrsg.), Wilhelm von Humboldt. Werke in fünf Bänden – Schriften zur Anthropologie und Geschichte. Stuttgart: J. G. Cotta’sche Buchhandlung.
 
-- Hüther, Gerald (2006). Wie lernen Kinder? Voraussetzungen für gelingende Bildungsprozesse aus neurobiologischer Sicht. In Ralf Caspary (Hrsg.), Lernen und Gehirn. Der Weg zu einer neuen Pädagogik (S. 70-84). Freiburg: Herder.
+- Hüther, Gerald (2006). Wie lernen Kinder? Voraussetzungen für gelingende Bildungsprozesse aus neurobiologischer Sicht. In Ralf Caspary (Hrsg.), Lernen und Gehirn. Der Weg zu einer neuen Pädagogik (S. 70–84). Freiburg: Herder.
 
 - Jampert, Karin, Leuckefeld, Kerstin, Zehnbauer, Anne und Best, Petra (2006). Sprachliche Förderung in der Kita. Wie viel Sprache steckt in Musik, Bewegung, Naturwissenschaften und Medien? Weimar: verlag das netz.
 
-- Kerber, Gerhard (2005). Entspannungsverfahren  für  Kinder.  Gesundheitsförderung  durch Entspannung und Körpererfahrungen. klein & groß, 7/8, S. 36-39.
+- Kerber, Gerhard (2005). Entspannungsverfahren für Kinder. Gesundheitsförderung durch Entspannung und Körpererfahrungen. klein & groß, 7/8, S. 36–39.
 
 - Klafki, Wolfgang (1996). Neue Studien zur Bildungstheorie und Didaktik. Weinheim: Beltz.
 
-- Krajewski, Kristin (2005). Früherkennung und Frühförderung von Risikokindern. In Michael von Aster und Jens Holger Lorenz (Hrsg.), Rechenstörungen bei Kindern. Neurowissenschaft, Psychologie, Pädagogik (S. 150-164). Göttingen: Vandenhoeck & Ruprecht.
+- Krajewski, Kristin (2005). Früherkennung und Frühförderung von Risikokindern. In Michael von Aster und Jens Holger Lorenz (Hrsg.), Rechenstörungen bei Kindern. Neurowissenschaft, Psychologie, Pädagogik (S. 150–164). Göttingen: Vandenhoeck & Ruprecht.
 
-- Lorenz, Jens Holger (2005). Diagnostik mathematischer Basiskompetenzen im Vorschul­ al­ ter. In Marcus Hasselhorn, Harald Marx und Wolfgang Schneider (Hrsg.), Diagnostik von Mathematikleistungen (S. 29-48). Göttingen: Hogrefe.
+- Lorenz, Jens Holger (2005). Diagnostik mathematischer Basiskompetenzen im Vorschulalter. In Marcus Hasselhorn, Harald Marx und Wolfgang Schneider (Hrsg.), Diagnostik von Mathematikleistungen (S. 29–48). Göttingen: Hogrefe.
 
-- Lorenz, Jens Holger (2006). Mathematik ist die Regel. Grundschule Mathematik, 8, S. 4-5.
+- Lorenz, Jens Holger (2006). Mathematik ist die Regel. Grundschule Mathematik, 8, S. 4–5.
 
-- Lütje-Klose, Birgit und Willenbring, Monika (1999). Kooperation fällt nicht vom Himmel. Behindertenpädagogik, 38, S. 2-31.
+- Lütje-Klose, Birgit und Willenbring, Monika (1999). Kooperation fällt nicht vom Himmel. Behindertenpädagogik, 38, S. 2–31.
 
-- Moss, Peter (Hrsg.) (2008). Auf dem Weg zu einer europäischen Strategie für Einrichtungen für junge Kinder. Ein Diskussionspapier von 'KINDER in Europa'. Weimar: verlag das netz.
+- Moss, Peter (Hrsg.) (2008). Auf dem Weg zu einer europäischen Strategie für Einrichtungen für junge Kinder. Ein Diskussionspapier von „KINDER in Europa“. Weimar: verlag das netz.
 
-- Niederle, Charlotte (2005). Didaktische Prinzipien der Kindergartenarbeit. In EntwicklungsRaum Kindergarten.  Methoden  des  Kindergartens  2  (S.  15-25).  Linz:  Unsere Kinder.
+- Niederle, Charlotte (2005). Didaktische Prinzipien der Kindergartenarbeit. In EntwicklungsRaum Kindergarten. Methoden des Kindergartens 2 (S. 15–25). Linz: Unsere Kinder.
 
-- Oerter, Rolf und Dreher, Eva (2008). Jugendalter. In Rolf Oerter und Leo Montada (Hrsg.), Entwicklungspsychologie (6. Auflage, S. 271-332). Weinheim: Beltz.
+- Oerter, Rolf und Dreher, Eva (2008). Jugendalter. In Rolf Oerter und Leo Montada (Hrsg.), Entwicklungspsychologie (6. Auflage, S. 271–332). Weinheim: Beltz.
 
-- Pfeffer, Simone (2005a). Emotionale Kompetenz bei Kindern. Gefühle verstehen und mit ihnen umgehen. Unsere Kinder, 2, S. 2-6.
+- Pfeffer, Simone (2005a). Emotionale Kompetenz bei Kindern. Gefühle verstehen und mit ihnen umgehen. Unsere Kinder, 2, S. 2–6.
 
-- Pfeffer, Simone (2005b). Meine Gefühle - deine Gefühle. Emotionale Kompetenz: Die eigenen Gefühle und die der anderen wahrnehmen und konstruktiv mit ihnen umgehen. klein & groß, 10/05, S. 9-14.
+- Pfeffer, Simone (2005b). Meine Gefühle – deine Gefühle. Emotionale Kompetenz: Die eigenen Gefühle und die der anderen wahrnehmen und konstruktiv mit ihnen umgehen. klein & groß, 10/05, S. 9–14.
 
-- Reitinger,  Johannes  (2007) . Unterricht -Internet -Kompetenz. Aachen: ­ Shaker ­ Verlag.
+- Reitinger, Johannes (2007). Unterricht – Internet – Kompetenz. Aachen: Shaker Verlag.
 
 - Roth, Heinrich (1968). Pädagogische Anthropologie. Band 1. Bildsamkeit und Bestimmung. Hannover: Hermann Schwedel Verlag.
 
-- Saarni, Carolyn (2002). Die  Entwicklung  von  emotionaler  Kompetenz  in  Beziehungen.  In ­ Maria  von  Salisch  (Hrsg.),  Emotionale  Kompetenz  entwickeln.  Stuttgart:  Kohl­ hammer. S. 3-30.
+- Saarni, Carolyn (2002). Die Entwicklung von emotionaler Kompetenz in Beziehungen. In Maria von Salisch (Hrsg.), Emotionale Kompetenz entwickeln. Stuttgart: Kohlhammer. S. 3–30.
 
-- Salisch,  Maria  von  (Hrsg.)  (2002). Emotionale  Kompetenz  entwickeln.  Stuttgart:  Kohl­ hammer.
+- Salisch, Maria von (Hrsg.) (2002). Emotionale Kompetenz entwickeln. Stuttgart: Kohlhammer.
 
-- Schaefgen, Rega (2007). Praxis  der  Sensorischen  Integrationstherapie.  Erfahrungen  mit einem ergotherapeutischen Konzept. Stuttgart: Thieme.
+- Schaefgen, Rega (2007). Praxis der Sensorischen Integrationstherapie. Erfahrungen mit einem ergotherapeutischen Konzept. Stuttgart: Thieme.
 
 Bundesländerübergreifender BildungsRahmenPlan © 2009
 
@@ -1432,23 +1531,23 @@ Literatur
 
 - Schäfer, Gerd E. (2005). Bildung beginnt mit der Geburt. Ein offener Bildungsplan für Kindertageseinrichtungen in Nordrhein-Westfalen. Weinheim: Beltz.
 
-- Schäfer, Gerd E. (2008). Beruf Erzieherin - Rolle und Aufgaben müssen neu bestimmt werden. kindergarten heute, 4, S. 8-13.
+- Schäfer, Gerd E. (2008). Beruf Erzieherin – Rolle und Aufgaben müssen neu bestimmt werden. kindergarten heute, 4, S. 8–13.
 
-- Scherrer, Jürgen & Prohl, Robert (1997). Wirkungen des Projekts 'Gelebte Psychomotorik im Kindergarten' - eine Evaluationsstudie. In AWO Landesverband Thüringen e.V. (Hrsg.), Gelebte Psychomotorik im Kindergarten. Schorndorf: Verlag Karl ­ Hofmann.
+- Scherrer, Jürgen & Prohl, Robert (1997). Wirkungen des Projekts „Gelebte Psychomotorik im Kindergarten“ – eine Evaluationsstudie. In AWO Landesverband Thüringen e.V. (Hrsg.), Gelebte Psychomotorik im Kindergarten. Schorndorf: Verlag Karl Hofmann.
 
-- Schneider, Kornelia (2008). Kinder in ihrer Weltaneignung unterstützen. Wie forschen Kinder im Kleinstkindalter? kindergarten heute, 6-7, 8-13.
+- Schneider, Kornelia (2008). Kinder in ihrer Weltaneignung unterstützen. Wie forschen Kinder im Kleinstkindalter? kindergarten heute, 6–7, 8–13.
 
 - Spitzer, Manfred (2002). Lernen. Gehirnforschung und die Schule des Lebens. Heidelberg: Spektrum.
 
-- Streit, Christine und Royar, Thomas (2009). Setzen Sie doch mal die 'mathematische Brille' auf! Mathematik in Alltagssituationen erkennen und für die päda­ gogische Arbeit nutzen. kindergarten heute, 3, S. 8-15.
+- Streit, Christine und Royar, Thomas (2009). Setzen Sie doch mal die „mathematische Brille“ auf! Mathematik in Alltagssituationen erkennen und für die pädagogische Arbeit nutzen. kindergarten heute, 3, S. 8–15.
 
-- Tietze, Wolfgang, Roßbach, Hans-Günther und Grenner, Katja (2005). Kinder von 4-8 Jahren.  Zur  Qualität  der  Erziehungs-  und  Bildungsinstitutionen  Kindergarten, Grundschule und Familie. Weinheim: Beltz.
+- Tietze, Wolfgang, Roßbach, Hans-Günther und Grenner, Katja (2005). Kinder von 4–8 Jahren. Zur Qualität der Erziehungs- und Bildungsinstitutionen Kindergarten, Grundschule und Familie. Weinheim: Beltz.
 
-- Trevarthen, Colwyn (2008). Kunst in der Kindheit schätzen. In Peter Moss (Hrsg.), Kinder in Europa, 5, S. 6-7.
+- Trevarthen, Colwyn (2008). Kunst in der Kindheit schätzen. In Peter Moss (Hrsg.), Kinder in Europa, 5, S. 6–7.
 
 - Vollmer, Knut (2008). Fachwörterbuch für Erzieherinnen und pädagogische Fachkräfte. Freiburg: Herder.
 
-- Wagner, Petra (2003). 'Anti-Bias-Arbeit ist eine lange Reise …' Grundlagen vorurteilsbewusster Praxis in Kindertageseinrichtungen. In Christa Preissing und Petra Wagner (Hrsg.), Kleine Kinder, keine Vorurteile? (S. 34-62). Freiburg: Herder.
+- Wagner, Petra (2003). „Anti-Bias-Arbeit ist eine lange Reise …“ Grundlagen vorurteilsbewusster Praxis in Kindertageseinrichtungen. In Christa Preissing und Petra Wagner (Hrsg.), Kleine Kinder, keine Vorurteile? (S. 34–62). Freiburg: Herder.
 
 - Weinert, Franz E. (1999). Konzepte der Kompetenz. Paris: OECD.
 
@@ -1464,12 +1563,26 @@ Bundesländerübergreifender BildungsRahmenPlan © 2009
 
 [[START OF PAGE 59]]
 
-(this page came through the extractor with no text)
+## Impressum:
+
+Eigentümer und Herausgeber: Ämter der Landesregierungen der österreichischen Bundesländer, Magistrat der Stadt Wien, Bundesministerium für Unterricht, Kunst und Kultur
+
+Gestaltung und Layout: Hochstrasser Communication Design
+
+Produktion/Druck: 08/16 Printproduktion GmbH
+
+Fotos: Daniela Beranek
+
+1 CD-Schaumstoffpunkt wird aufgeklebt!!! Hier wird lt. Form/Platzierung siehe "graue Fläche" - 1 Clearfach aufgeklebt!!! Fläche druckt NICHT!!!!
 
 [[END OF PAGE 59]]
 
 [[START OF PAGE 60]]
 
-(this page came through the extractor with no text)
+# Bundesländerübergreifender BildungsRahmenPlan für elementare Bildungseinrichtungen in Österreich
+
+# Bundesländerübergreifender BildungsRahmenPlan für elementare Bildungseinrichtungen in Österreich
+
+Mappenmasse: 265x315mm + 2 x 6mm/Rücken = 40 mm
 
 [[END OF PAGE 60]]
