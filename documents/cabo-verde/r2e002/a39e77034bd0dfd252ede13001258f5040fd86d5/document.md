@@ -1,6 +1,6 @@
 [[START OF PAGE 1]]
 
-# E Es st ta at tu ut to o   d do o P Pe es ss so oa al l   D Do oc ce en nt te e
+# Estatuto do Pessoal Docente
 
 Decreto Legislativo nº 2 de 2004
 
@@ -28,7 +28,7 @@ A gestão do pessoal docente sujeita-se, em especial aos seguintes princípios:
 
 - Racionalidade de modo  a  obter o equilíbrio entre as necessidades sociais e organizacionais e o quadro de efectivos;
 
-- Gestão provisional em ordem a garantir uma adequada gestão dos efectivos;
+- Gestão previsional em ordem a garantir uma adequada gestão dos efectivos;
 
 - Eficácia visando melhor aplicação dos recursos humanos disponíveis e a prossecução efectiva do interesse público no domínio da educação;
 
@@ -56,7 +56,7 @@ A gestão do pessoal docente sujeita-se, em especial aos seguintes princípios:
 
 - Eleger e ser eleito para os órgãos de gestão das escolas;
 
-- Ter  aceso  à  formação  com  vista  à  actualização  e  reforço  dos  conhecimentos  e evolução na carreira;
+- Ter acesso à formação com vista à actualização e reforço dos conhecimentos e evolução na carreira;
 
 - Dispor dos apoios e recursos necessários ao bom exercício da profissão;
 
@@ -64,7 +64,7 @@ A gestão do pessoal docente sujeita-se, em especial aos seguintes princípios:
 
 - O direito a que se refere a alínea g) do número anterior, compreende, nomeadamente:
 
-- A protecção por acidente em serviço, nos termos da legislação aplicável, bem como, a prevenção  e  tratamento  das  doenças  que  venham  a  ser  definidas  em  DecretoRegulamentar, como resultando necessária e directamente do exercício continuado da função docente;
+- A protecção por acidente em serviço, nos termos da legislação aplicável, bem como, a prevenção e tratamento das doenças que venham a ser definidas em Decreto-Regulamentar, como resultando necessária e directamente do exercício continuado da função docente;
 
 - A penalização, nos termos da legislação penal aplicável, da prática de ofensa corporal ou outra violência sobre docente no exercício das suas funções ou por causa destas.
 
@@ -76,7 +76,7 @@ A gestão do pessoal docente sujeita-se, em especial aos seguintes princípios:
 
 - Contribuir para a formação e realização integral dos alunos;
 
-- Colaborar com todos os intervenientes do processo educativo, favorecendo a criação e  o  desenvolvimento  de  relações  de  respeito  mútuo,  em  especial  entre  docentes, alunos, encarregados de educação é pessoal não docente.
+- Colaborar com todos os intervenientes do processo educativo, favorecendo a criação e o desenvolvimento de relações de respeito mútuo, em especial entre docentes, alunos, encarregados de educação e pessoal não docente.
 
 - Participar na organização e assegurar a realização das actividades educativas;
 
@@ -164,9 +164,9 @@ termos  previstos  no  presente  diploma,  bem  como  experiência  de  serviço
 
 - Constitui requisito físico necessário ao exercício da função docente a ausência, comprovada por adequado atestado médico, de quaisquer lesões ou enfermidades que impossibilitem  o  exercício  da  docência  ou  sejam  susceptíveis  de  ser  agravadas  pelo desempenho de funções docentes.
 
-- A existência de deficiência física não é impedimento ao exercício de funções docentes se e enquanto for compatível com os requisitos exigíveis para o exercício de, funções no grupo de docência do candidato ou do docente, nos termos de adequado atestado médico.
+- A existência de deficiência física não é impedimento ao exercício de funções docentes se e enquanto for compatível com os requisitos exigíveis para o exercício de funções no grupo de docência do candidato ou do docente, nos termos de adequado atestado médico.
 
-- Constitui  requisito  psíquico  necessário  ao  exercício  de  funções  docentes  a  ausência  de características  de  personalidade  ou  de  situações  anómalas  ou  patológicas  de  natureza neuropsiquiátrica que ponham em risco a relações com os alunos, impeçam ou dificultem o exercício  da  docência  ou  sejam  susceptíveis  de  ser  agravadas  pelo  desempenho  de funções docentes.
+- Constitui requisito psíquico necessário ao exercício de funções docentes a ausência de características de personalidade ou de situações anómalas ou patológicas de natureza neuropsiquiátrica que ponham em risco as relações com os alunos, impeçam ou dificultem o exercício da docência ou sejam susceptíveis de ser agravadas pelo desempenho de funções docentes.
 
 [[END OF PAGE 5]]
 
@@ -184,7 +184,7 @@ termos  previstos  no  presente  diploma,  bem  como  experiência  de  serviço
 
 - Excepcionalmente, em  casos devidamente fundamentados, podem  ser recrutados mediante concurso externo, para lugares de acesso, indivíduos que possuam as qualificações  profissionais  legalmente  exigidas  para  o  acesso  ao  cargo,  bem  como indivíduos com grau de mestre ou doutor.
 
-- E aplicável aos números anteriores o disposto nos números 3 e 4 do artigo 9°.
+- É aplicável aos números anteriores o disposto nos números 3 e 4 do artigo 9°.
 
 ##### Artigo 13° (Regulamentação)
 
@@ -264,7 +264,7 @@ Sempre  que  se  mostrar  necessário,  diploma  próprio  deverá  adequar  a  
 
 - Por  conveniência  de  serviço,  podem  ser  recrutados,  mediante  contrato  de  trabalho  a termo,  indivíduos  que  não  detenham  todas  as  qualificações  profissionais  exigidas,  desde que  possuam  as  habilitações  literárias  de  base  consideradas  suficientes  para  o  exercício das funções docentes para as quais são contratadas.
 
-- Os contratos de trabalho a termo terão a duração prevista apenas para um ano lectivo e consideram-se  renovados  para  o  ano  lectivo  subsequente,  independentemente  de quaisquer  outras  formalidades,  incluindo  o  visto  do  Tribunal  de  Contas,  se  o  interessado, com  á  avaliação de desempenho  mínima  de  Bom  em  relação ao ano lectivo imediatamente anterior, o requerer até 15 de Agosto de cada ano e houver conveniência para o serviço.
+- Os contratos de trabalho a termo terão a duração prevista apenas para um ano lectivo e consideram-se renovados para o ano lectivo subsequente, independentemente de quaisquer outras formalidades, incluindo o visto do Tribunal de Contas, se o interessado, com a avaliação de desempenho mínima de Bom em relação ao ano lectivo imediatamente anterior, o requerer até 15 de Agosto de cada ano e houver conveniência para o serviço.
 
 - A conveniência de serviço referida no número anterior, deverá ser declarada, sempre que possível, com antecedência mínima de trinta dias em relação ao ano lectivo seguinte.
 
@@ -274,7 +274,7 @@ Sempre  que  se  mostrar  necessário,  diploma  próprio  deverá  adequar  a  
 
 ##### Artigo 22° (Remissão)
 
-A  relação  jurídica  de  emprego  do  pessoal  docente  aplica-se  a  Lei  n.º  102/IV/93,  de  31  de Dezembro, em tudo quanto não contrarie as disposições deste Estatuto.
+À relação jurídica de emprego do pessoal docente aplica-se a Lei n.º 102/IV/93, de 31 de Dezembro, em tudo quanto não contrarie as disposições deste Estatuto.
 
 ##### Artigo 23° (Natureza da constituição da relação jurídica de emprego do pessoal docente)
 
@@ -290,7 +290,7 @@ Junho,  sendo-lhe  devidas  as  respectivas  remunerações  base  a  partir  da
 
 - Até  ao  conhecimento oficial  pelo  serviço  competente  do  departamento  governamental responsável  pela  educação  da  recusa  do  visto,  são  devidas  as  remunerações  base  aos interessados, na qualidade de docente do quadro.
 
-- Conhecida a recusa do visto do Tribunal de Contas a que se refere o n.º 2, cessarão de imediato as respectivas remunerações base na qualidade de docente do quadro geral e, para o efeito, o serviço referido no número anterior informar o interessado.
+- Conhecida a recusa do visto do Tribunal de Contas a que se refere o n.º 2, cessarão de imediato as respectivas remunerações base na qualidade de docente do quadro geral e, para o efeito, o serviço referido no número anterior informará o interessado.
 
 - Os  docentes  referidos  nos  n.º  3  e  4  manter-se-ão,  porém,  ao  serviço  até  ao  termo  do respectivo  ano  lectivo,  sendo-lhe  devidas  remunerações  base  na  qualidade  de  docente não pertencente ao quadro.
 
@@ -328,9 +328,9 @@ A  evolução  e  o  desenvolvimento  profissional  do  pessoal  docente  em  re
 
 - Formação, quando a lei o exija.
 
-- Sempre  que  a  promoção  corresponda  a  ascensão  do  docente  para  referência  não imediatamente superior, a integração na referência de acesso far-se-á no escalão a que corresponde índice imediatamente superior ao detido no cargo de origem.
+- Sempre que a promoção corresponda à ascensão do docente para referência não imediatamente superior, a integração na referência de acesso far-se-á no escalão a que corresponde índice imediatamente superior ao detido no cargo de origem.
 
-- Quando a promoção corresponda a ascensão do docente para a referência imediatamente superior, a integração far-se-á no mesmo escalão do cargo anteriormente detido.
+- Quando a promoção corresponda à ascensão do docente para a referência imediatamente superior, a integração far-se-á no mesmo escalão do cargo anteriormente detido.
 
 ##### Artigo 26° (Progressão)
 
@@ -386,7 +386,7 @@ São objectivos da avaliação de desempenho:
 
 - Melhorar a qualidade da educação e do ensino ministrados;
 
-- Sistema educativo às necessidades educacionais;
+- Adequar o sistema educativo às necessidades educacionais;
 
 - Melhorar a prestação pedagógica e a qualidade profissional dos docentes;
 
@@ -446,7 +446,7 @@ A  avaliação  de  desempenho  nos  termos  definidos  neste  estatuto,  será 
 
 O pessoal docente constitui um corpo de agentes especializados da Função Pública e integra o grupo de professores profissionalizados, que consta do mapa I anexo a este diploma e que dele faz parte integrante.
 
-##### Artigo 36 (Níveis de educação ou ensino)
+##### Artigo 36° (Níveis de educação ou ensino)
 
 O pessoal docente distribui-se pelos seguintes níveis de educação ou ensino
 
@@ -484,7 +484,7 @@ I. Nível de educação pré-escolar
 
 - Educador de Infância Principal.
 
-- Nível de ensino básico:
+II. Nível de ensino básico:
 
 - Professor de Ensino Básico;
 
@@ -526,7 +526,7 @@ IV. Nível de educação básica de adultos:
 
 I. Nível de educação pré-escolar:
 
-- Educador  de  Infância  Adjunto,  de  entre  indivíduos  habilitados  com  o  100  ano  de escolaridade e curso específico de três anos, ou de entre indivíduos habilitados com o 12° ano de escolaridade e curso específico de pelo menos um ano, devendo ambos os cursos  serem  criados  por  portaria  do  membro  do  Governo  responsável  pela  área  da educação ou oficialmente reconhecido nos termos da lei;
+- Educador de Infância Adjunto, de entre indivíduos habilitados com o 10º ano de escolaridade e curso específico de três anos, ou de entre indivíduos habilitados com o 12° ano de escolaridade e curso específico de pelo menos um ano, devendo ambos os cursos serem criados por portaria do membro do Governo responsável pela área da educação ou oficialmente reconhecido nos termos da lei;
 
 - Educador de Infância, de entre indivíduos habilitados com curso específico devidamente reconhecido, de entre indivíduos habilitados com curso superior específico que não confira grau de licenciatura ou ainda de entre os educadores de infância  adjunto  com,  pelo  menos,  cinco  anos  de  efectivo  exercício  de  funções  e avaliação de desempenho mínima de Bom;
 
@@ -550,11 +550,11 @@ II. Nível de ensino básico:
 
 III. Nível de ensino secundário:
 
-- Professor do Ensino Secundário Adjunto, de entre indivíduos habilitados como Curso de Formação de Professores do Ensino Básico Complementar, ou com curso superior que não  confira  grau  de  licenciatura,  ou  equiparado,  sem  qualificação  profissional  para docência,  com  pelo  menos  3  anos  de  experiência  no  ensino  secundário  e  com avaliação de desempenho mínima de Bom;
+- Professor do Ensino Secundário Adjunto, de entre indivíduos habilitados com o Curso de Formação de Professores do Ensino Básico Complementar, ou com curso superior que não confira grau de licenciatura, ou equiparado, sem qualificação profissional para docência, com pelo menos 3 anos de experiência no ensino secundário e com avaliação de desempenho mínima de Bom;
 
-- Mestre  de  Oficina  Qualificado,  de  entre  indivíduos  habilitados  com 12 º ano  de escolaridade  e  curso  específico  de,  pelo  menos,  um  ano,  criado  por  portaria  do membro do Governo responsável pela área da Educação ou oficialmente reconhecido, nos termos da lei;
+- Mestre de Oficina Qualificado, de entre indivíduos habilitados com 12º ano de escolaridade e curso específico de, pelo menos, um ano, criado por portaria do membro do Governo responsável pela área da Educação ou oficialmente reconhecido, nos termos da lei;
 
-- Animador  de  Educação.  Física  e  Desportiva  e  Animador  de  Educação  Artística,  de entre indivíduos habilitados com o 12° ano de escolaridade e curso específico de, pelo menos, um ano, criado por portaria do membro do Governo responsável pela área da educação ou oficialmente reconhecido, nos termos da lei;
+- Animador de Educação Física e Desportiva e Animador de Educação Artística, de entre indivíduos habilitados com o 12° ano de escolaridade e curso específico de, pelo menos, um ano, criado por portaria do membro do Governo responsável pela área da educação ou oficialmente reconhecido, nos termos da lei;
 
 - Professor  do  Ensino  Secundário,  de  entre  professores  do  Ensino  Secundário  Adjunto, Mestres  de  Oficina  Qualificados,  Animadores  de  Educação  Física  e  Desportiva  e Animadores de Educação Artística com, pelo menos, quatro anos de efectivo exercício de funções e avaliação de desempenho mínima de Bom, de entre indivíduos com curso superior na área de educação ou ensino que não confira grau de licenciatura ou de entre indivíduos com curso superior que confere grau de licenciatura, sem qualificação profissional  para  o  exercício  da  docência desde que possuam 3 anos de experiência docente,
 
@@ -576,7 +576,7 @@ IV.  Nível de educação básica de adultos:
 
 [[START OF PAGE 16]]
 
-- Os indivíduos habitados com curso superior que confira ou não o grau de licenciatura, sem qualificação profissional para o exercício da docência, com pelo menos 3 anos de efectivo exercício da docência e avaliação de desempenho mínima de Bom ingressam no grupo de professores profissionalizados nos termos do número seguinte.
+- Os indivíduos habilitados com curso superior que confira ou não o grau de licenciatura, sem qualificação profissional para o exercício da docência, com pelo menos 3 anos de efectivo exercício da docência e avaliação de desempenho mínima de Bom ingressam no grupo de professores profissionalizados nos termos do número seguinte.
 
 - Salvo  o  disposto  no  presente  diploma,  o  ingresso  a  que  se  refere  o  número  anterior depende de aprovação em concurso e far-se-á no cargo e escalão correspondentes aos detidos pelo docente antes de entrar no grupo de professores profissionalizados.
 
@@ -610,7 +610,7 @@ IV.  Nível de educação básica de adultos:
 
 - Os  professores  habilitados  com  curso  superior  que  confira  ou  não  grau  de  licenciatura, integrados  na  carreira  docente,  podem  transitar  para  lugares  de  ingresso  ou  acesso  na carreira  de  pessoal  técnico,  independentemente  de  concurso,  com  integração  na referência e escalão equivalentes aos detidos na carreira anterior.
 
-- Os  funcionários  do  quadro  técnico  habilitados  com  curso  superior  na  área  do  ensino  ou com curso superior sem qualificação profissional para a docência desde que, no segundo caso,  tenham,  pelo  cinco  anos  de  experiência  docente  e  avaliação  de  desempenho mínima de Bom, bem como os inspectores da educação podem transitar para a carreira docente,  independentemente  de  concurso,  com  integração  na  referência  e  escalão equivalentes aos detidos nas carreiras anteriores.
+- Os funcionários do quadro técnico habilitados com curso superior na área do ensino ou com curso superior sem qualificação profissional para a docência desde que, no segundo caso, tenham, pelo menos cinco anos de experiência docente e avaliação de desempenho mínima de Bom, bem como os inspectores da educação podem transitar para a carreira docente, independentemente de concurso, com integração na referência e escalão equivalentes aos detidos nas carreiras anteriores.
 
 - Para  efeitos  do  disposto  no  número  2  do  presente  artigo,  considera-se  equivalentes  a mesma referência e escalão e não a correspondência remuneratória.
 
@@ -650,7 +650,7 @@ IV.  Nível de educação básica de adultos:
 
 - Nos casos de contratação a tempo  parcial ou em  acumulação  de  funções, a remuneração é calculada com base no disposto no n.º 1, devendo ser proporcional  ao número de tempos lectivos constante do contrato
 
-##### Artigo (Suplementos)
+##### Artigo 46° (Suplementos)
 
 - Os suplementos são atribuídos em função das particularidades específicas da prestação de trabalho e só podem ser considerados aqueles que se fundamentem em Decreto-Lei.
 
@@ -668,7 +668,7 @@ O pessoal docente rege-se em matéria de duração de trabalho pelas disposiçõ
 
 - O  serviço  docente  obrigatório  é  a  actividade  laboral  que  deve,  necessariamente,  ser desempenhada na escola.
 
-- O serviço docente obrigatório compreende uma componente lectiva e urna componente não lectiva.
+- O serviço docente obrigatório compreende uma componente lectiva e uma componente não lectiva.
 
 ##### Artigo 49° (Duração da componente lectiva)
 
@@ -688,7 +688,7 @@ O pessoal docente rege-se em matéria de duração de trabalho pelas disposiçõ
 
 ##### Artigo 50° (Dispensa da componente lectiva)
 
-- Os  docentes  de  nomeação  definitiva  incapacitados  ou  diminuídos  para  o  cumprimento integral  da  componente  lectiva  podem  ser,  por  decisão  da  Junta  de  Saúde,  total  ou parcialmente dispensados da referida componente, em termos a regulamentar por portaria do membro do Governo responsável pela educação, desde que verificados comulativamente as seguintes condições:
+- Os docentes de nomeação definitiva incapacitados ou diminuídos para o cumprimento integral da componente lectiva podem ser, por decisão da Junta de Saúde, total ou parcialmente dispensados da referida componente, em termos a regulamentar por portaria do membro do Governo responsável pela educação, desde que verificados cumulativamente as seguintes condições:
 
 - Ser portador de doença, inexistente à data do recrutamento que afecte directamente o exercício da função docente;
 
@@ -722,7 +722,7 @@ O pessoal docente rege-se em matéria de duração de trabalho pelas disposiçõ
 
 - O docente que preenche os requisitos exigidos fica habilitado aos benefícios referidos nos números 1, e 2, desde que requeira a redução de tempo de serviço lectivo ou a percepção do subsídio  fixado,  até  31  de  Agosto  de  cada  ano,  sob  pena  de  os  benefícios  só  terem lugar no ano lectivo seguinte.
 
-- Para  efeitos  da  aplicação  no  número  1  do  presente  artigo,  considera-se  como  serviço docente todo o trabalho realizado pelo docente a nível do estabelecimento de educação ou de ensino, sem prejuízo do exercício de outras funções equiparadas ao serviço docente nos termos da lei.
+- Para efeitos da aplicação do número 1 do presente artigo, considera-se como serviço docente todo o trabalho realizado pelo docente a nível do estabelecimento de educação ou de ensino, sem prejuízo do exercício de outras funções equiparadas ao serviço docente nos termos da lei.
 
 ##### Artigo 52° (Componente não lectiva)
 
@@ -822,11 +822,23 @@ Durante  o  gozo  do  período  de  férias  o  pessoal  docente  não  deve  se
 
 - Durante  os  períodos  de  interrupção  da  actividade  docente,  os  docentes  podem  ser convocados pelo órgão de gestão dos respectivos estabelecimentos de educação ou de ensino para o cumprimento de tarefas de natureza pedagógica ou acções de formação, consideradas de interesse para o sistema educativo, para a escola e para o professor.
 
-- A  direcção  da  escola  elaborará  mapas  de  distribuição  de  tarefas,  de  acordo  com  os interesses da escola e das necessidades a satisfazer, com vista a distribui-las equitativamente pelos docentes.
+- A direcção da escola elaborará mapas de distribuição de tarefas, de acordo com os interesses da escola e das necessidades a satisfazer, com vista a distribuí-las equitativamente pelos docentes.
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
+
+#### Subsecção IV Faltas, licenças e dispensas
+
+##### Artigo 62° (Faltas)
+
+- Falta é ausência do docente durante a totalidade ou parte do período diário de presença obrigatória no estabelecimento de educação ou de ensino ou em local a que se deva deslocar em exercício de funções.
+
+- É considerado um dia de falta a ausência a um número de horas igual ao quociente da divisão por cinco do número de horas de serviço lectivo semanal ou equiparado distribuído ao docente.
+
+- As faltas por períodos inferiores a um dia são adicionadas no decurso do ano lectivo, para efeitos do disposto no número anterior.
+
+##### Artigo 63° (Faltas a exames e reuniões)
 
 - É considerada falta a um dia:
 
@@ -834,31 +846,19 @@ Durante  o  gozo  do  período  de  férias  o  pessoal  docente  não  deve  se
 
 - A ausência do docente a reuniões de avaliação de alunos.
 
-- A  ausência  a  outras  reuniões  de  natureza  pedagógica  convocadas  nos  termos  da  lei  é considerada falta do docente a dois tempos lectivos.
+- A ausência a outras reuniões de natureza pedagógica convocadas nos termos da lei é considerada falta do docente a dois tempos lectivos.
 
 ##### Artigo 64° (Faltas justificadas)
 
-- São  justificadas  as  faltas  dadas  pelo  docente  nos  termos  previstos  no  estatuto  do trabalhador-estudante, sem prejuízo do disposto no número seguinte.
+- São justificadas as faltas dadas pelo docente nos termos previstos no estatuto do trabalhador-estudante, sem prejuízo do disposto no número seguinte.
 
-- Os docentes podem utilizar a regalia prevista no número anterior desde que os estudos que estejam a frequentar se destinem a melhorar a sua situação profissional na docência ou tenham  em  vista  a  obtenção  de  grau  superior  ou  de  pós-graduação,  não  podendo, contudo, o seu gozo acarretar prejuízos para o serviço docente.
+- Os docentes podem utilizar a regalia prevista no número anterior desde que os estudos que estejam a frequentar se destinem a melhorar a sua situação profissional na docência ou tenham em vista a obtenção de grau superior ou de pós-graduação, não podendo, contudo, o seu gozo acarretar prejuízos para o serviço docente.
 
-- As  faltas  a  serviços  de  exames,  bem  como  a  reuniões  de  avaliação  de  alunos,  apenas podem ser justificadas por motivo inadiável ou de força maior, designadamente doença ou acidente  devidamente  comprovados,  isolamento  profiláctico,  falecimento  de  familiar  e nascimento  de  filho,  ou  em  virtude  de  imposição  legal  ou  cumprimento  de  decisão administrativa e judicial.
+- As faltas a serviços de exames, bem como a reuniões de avaliação de alunos, apenas podem ser justificadas por motivo inadiável ou de força maior, designadamente doença ou acidente devidamente comprovados, isolamento profiláctico, falecimento de familiar e nascimento de filho, ou em virtude de imposição legal ou cumprimento de decisão administrativa e judicial.
 
 ##### Artigo 65° (Faltas para prestação de provas em estabelecimento de ensino)
 
-Aos docentes abrangidos pelo regime de faltas para prestação de provas em estabelecimento de  ensino  pode  ser  distribuído  serviço  lectivo  extraordinário  no  início  do  ano  escolar,  sendo obrigatório o respectivo cumprimento, excepto nos dias em que beneficiem das dispensas ou faltas previstas na legislação sobre trabalhadores-estudantes.
-
-#### Subsecção IV Faltas, licenças e dispensas
-
-##### Artigo 62° (Faltas)
-
-- Falta é ausência do docente durante a totalidade ou parte do período diário de presença obrigatória  no  estabelecimento  de  educação  ou  de  ensino  ou  em  local  a  que  se  deva deslocar em exercício de funções.
-
-- É considerado um dia de falta a ausência a um número de horas igual ao quociente da divisão por cinco de número de horas de serviço lectivo semanal ou equiparado distribuído ao docente.
-
-- As faltas por períodos inferiores a um dia são adicionadas no decurso do ano lectivo, para efeitos do disposto no número anterior.
-
-##### Artigo 63° (Faltas a exames e reuniões)
+Aos docentes abrangidos pelo regime de faltas para prestação de provas em estabelecimento de ensino pode ser distribuído serviço lectivo extraordinário no início do ano escolar, sendo obrigatório o respectivo cumprimento, excepto nos dias em que beneficiem das dispensas ou faltas previstas na legislação sobre trabalhadores-estudantes.
 
 [[END OF PAGE 23]]
 
@@ -876,7 +876,7 @@ Aos  docentes  que  no  decurso  do  ano  lectivo  não  derem  faltas,  ainda  
 
 ##### Artigo 68° (Licença sem vencimento)
 
-- Os professores têm direito à licença sem vencimento nos termos definidos na lei geral, salvo o disposto no número -seguinte
+- Os professores têm direito à licença sem vencimento nos termos definidos na lei geral, salvo o disposto no número seguinte
 
 - O  regresso  ao  serviço  de  pessoal  docente  na  situação  de  licença  sem  vencimento considera-se sempre autorizado por urgente conveniência de serviço, produzindo os seus efeitos a partir da data indicada no respectivo despacho.
 
@@ -930,7 +930,7 @@ Os docentes respondem disciplinarmente perante os órgãos de gestão dos estabe
 
 - O prazo previsto no n.º 1 do artigo 56° do Estatuto Disciplinar dos Agentes da Administração Pública,  pode  ser  prorrogado  até  o  final  do  ano  lectivo,  sob  proposta  da  entidade competente para instaurar o processo disciplinar e com os fundamentos previstos na lei.
 
-- Quando o docente seja arguido de incompetência profissional, o instrutor poderá convidalo  a  dar  o  número  de  aulas  considerado  necessário  à  boa  instrução  do  processo  ou  a executar  quaisquer  tarefas  inerentes  ao  exercício  das  respectivas  funções,  segundo  o programa  definido  por  dois  técnicos  em  educação  ou  em  gestão  escolar,  conforme  o caso, que darão os seus laudos sobre as provas executadas e a competência do arguido.
+- Quando o docente seja arguido de incompetência profissional, o instrutor poderá convidá-lo a dar o número de aulas considerado necessário à boa instrução do processo ou a executar quaisquer tarefas inerentes ao exercício das respectivas funções, segundo o programa definido por dois técnicos em educação ou em gestão escolar, conforme o caso, que darão os seus laudos sobre as provas executadas e a competência do arguido.
 
 [[END OF PAGE 25]]
 
@@ -1066,7 +1066,7 @@ O aposentado não pode exercer docência em estabelecimentos de educação ou de
 
 - Os  actuais  professores  do  Ensino  Secundário,  integrados  ou  não  na  carreira  docente, habilitados  com  curso  superior  que  confere  grau  de  licenciatura  sem  qualificação profissional para o exercício da docência, com pelo menos cinco anos de experiência em actividades  docentes  após  a  licenciatura  e  avaliação  de  desempenho  mínima  de  Bom, transitam para a carreira de professores profissionalizados, independentemente de concurso,  na  categoria  de  Professor  do  Ensino  Secundário  de  Primeira,  referência  9,  em escalão  a  que  corresponda  índice  remuneratório  imediatamente  superior  ao  detido  no cargo anterior.
 
-- A transição a que se referem os números anteriores, com dispensa de concurso, efectivarse-á,  mediante  publicitação,  por  meio  adequado,  e  despacho  do  membro  do  Governo responsável pela área da Educação.
+- A transição a que se referem os números anteriores, com dispensa de concurso, efectivar-se-á,  mediante  publicitação,  por  meio  adequado,  e  despacho  do  membro  do  Governo responsável pela área da Educação.
 
 ##### Artigo 87° (Docentes com formação superior sem qualificação específica para o exercício da docência)
 
@@ -1188,7 +1188,7 @@ O membro do Governo responsável pela área da Educação definirá por portaria
 
 Nível | Cargo | Referência
 --- | --- | ---
-Educação Pré- Escolar | Educador de infância adjunto ............................................ Educador de infância ........................................................... Educador de infância de primeira...................................... Educador de infância principal........................................... | 7 8 9 10
+Educação Pré-Escolar | Educador de infância adjunto ............................................ Educador de infância ........................................................... Educador de infância de primeira...................................... Educador de infância principal........................................... | 7 8 9 10
 Ensino Básico | Professor de ensino básico ................................................... Professor de ensino básico de primeira .............................. Professor de ensino básico principal ................................... Professor de ensino básico superior..................................... | 6 7 8 9
 Educação Básica de Adultos | Animador em educação de adultos.................................. Animador em educação de adultos e primeira............... Animador em educação de adulto principal................... Animador em educação de adulto superior .................... | 6 7 8 9
 Ensino Secundário | Professor de ensino secundário adjunto, Mestre de oficina qualificado, Animador de Educação Física e Desportiva e Animador de Educação Artística................. Professor de ensino secundário............................................ Professor de ensino secundário de primeira ...................... Professor de ensino secundário principal ........................... | 7 8 9 10
