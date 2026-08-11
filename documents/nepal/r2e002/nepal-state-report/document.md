@@ -12,6 +12,8 @@ Government of Nepal Ministry of Education and Sports Keshar Mahal, Kathmandu Aug
 
 [[START OF PAGE 2]]
 
+## Introduction
+
 ### 1. Background
 
 The Convention against Discrimination in Education (1960) prohibits discrimination in education ' based on race, color, sex, language, religion, political or other opinion, national or social origins, economic condition or both'. The convention came into force on 22 May 1962. The convention adopted by UNESCO recalling the Universal Declaration of Human Rights which asserts the principle of non-discrimination and proclaims that every person has right to education. Recognizing the diversities of national education systems, UNESCO as an UN agency, promotes equality of opportunity and treatment for all in education. In this regard, UNESCO monitors the implementation of the convention and the recommendation against discrimination in education. Nepal, as the member country of the UNESCO, has prepared this report.
@@ -22,9 +24,7 @@ Nepal has made number of efforts against discrimination in education. These effo
 
 Although Nepal is a small country, it has a great physical as well as socio-cultural diversity. Commonly it is divided into three broad geographical areas: the Mountain Region, the Hill Region, and the Tarai Region.  All three parallel each other, from east to west, as continuous ecological belts. The population of Nepal is 23.1 million according to the 2001 census. Female population is slightly greater (50.1%) than male population (49.9%). Out of total population, 7.3% live in mountain region, 44.3% live in hill region and 48.4% live in terai region.  About 26% of the population (i.e. 6 million) belongs to the official school going age group of 6-15 years. The census shows that there are 101 different castes/ethnic groups, including those that are not identified categorically. Mainly they are Chetri (15.8%) Brahman (12.74%), Magar (7.14%), Tharu (6.75%), Tamang (5.64%),Newar (5.48%), Muslim (4.27%)  Gurung Rai, Limbu, Sherpa. Altogether 92 different languages and a number of dialects have been registered as a mother tongue. Mainly they are Nepali (48.61%), Maithili (12.30%), Bhojpuri (7.53%), Tharu (5.86%), Tamang (5.89%), Newar (3.63%), Magar (3.39 %).  Nepali language is the official language. The census report shows that there are 80.6% Hindus, 10.74% Buddhists and 4.2% Muslims. Christians are 0.36% in Nepal.  (CBS, 2002).
 
-Administratively Nepal is divided into five development regions, 14 zones, 75 districts, 58 municipalities and 3915 Village Development Committees (VDCs). The Census shows that only 14% of the population lives in urban areas and about 86% of the population lives in rural areas. Nepal is among the poorest and least developed countries in the world with 38% of its population living below the absolute poverty line (NPC, 2002 -10 th plan). The share of agriculture and non-agriculture to GDP is around 40% and 60% at constant price of factor cost respectively.
-
-## Introduction
+Administratively Nepal is divided into five development regions, 14 zones, 75 districts, 58 municipalities and 3915 Village Development Committees (VDCs). The Census shows that only 14% of the population lives in urban areas and about 86% of the population lives in rural areas. Nepal is among the poorest and least developed countries in the world with 38% of its population living below the absolute poverty line (NPC, 2002 -10th plan). The share of agriculture and non-agriculture to GDP is around 40% and 60% at constant price of factor cost respectively.
 
 2
 
@@ -36,7 +36,7 @@ Majority of the population lives in rural areas and poverty is often a common ph
 
 ### 3. Education sector: a brief description
 
-Education in Nepal has remained a state affair since long ago, which has led to direct involvement of the government, so far, in the policy making, planning, organizing, and financing of educational activities in the country. Since 1990, the concept of school education emerged as a fundamental human rights in global context as well as in the national context that the state has an obligation to fulfill gained momentum. Consequently, the fiveyear plans of Nepal - from the 8 th plan to the 10 th - have placed high priority on poverty reduction and thereby considered education as the medium of poverty reduction.
+Education in Nepal has remained a state affair since long ago, which has led to direct involvement of the government, so far, in the policy making, planning, organizing, and financing of educational activities in the country. Since 1990, the concept of school education emerged as a fundamental human rights in global context as well as in the national context that the state has an obligation to fulfill gained momentum. Consequently, the five-year plans of Nepal - from the 8th plan to the 10th - have placed high priority on poverty reduction and thereby considered education as the medium of poverty reduction.
 
 Nepal has set the new national goals of education as per the recommendation of National Education Commission report 1992. The National goals are as follows:
 
@@ -54,7 +54,7 @@ Nepal has set the new national goals of education as per the recommendation of N
 
 Ministry of Education and Sports (MOES) is responsible for taking care of policy making in the education sector across the country. The vision of Ministry of Education and Sports (MOES) is to contribute to national development and poverty reduction by enabling its citizens to acquire knowledge and skills compatible with the needs of the national and international economy, enhancing their employability and personal development, nurturing in them social values to promote social harmony and equity, and by developing the knowledge and technological base to enable Nepal to compete in the global economy. Although the realization of this vision calls for improvements at all levels of the education system, more emphasis requires, particularly, to the basic and primary education. Some of the specific role of the ministry are Formulation of educational policies in line with the constitution, acts, regulations and other national and international commitment, evaluate the educational policies whether they are in line with national needs and social inclusion, Carry out national educational standards and policy analysis, Carryout policy towards the excluded groups in terms of their access to education, promote the quality and access to education to all. Under the MOES, there are different functional departmental organisations to facilitate service delivery system.
 
-Department of Education (DOE) is responsible for planning, implementing and monitoring the school education related activities across the country. National Center for Educational Development (NCED) is an apex institution for the human resource development activities within ministry system. Curriculum Development Center (CDC) is responsible to develop school curricula, textbooks, teacher guide and other reference materials. Non-Formal Education Center (NFEC) is responsible to implement and monitoring the non-formal education across the country. Office of the controller of examination is responsible for the school leaving certificate examination within the ministry system. In central level there are some other autonomous bodies. Higher Secondary Education Board (HSEB) has responsibility of managing the higher education. University Grants Commission (UGC) is responsible for developing policy and funding for university and other university related issues. Council for Technical Education and Vocational Training (CTEVT) has over all responsibility for the management of technical education and vocational training.
+Department of Education (DOE) is responsible for planning, implementing and monitoring the school education related activities across the country. National Center for Educational
 
 3
 
@@ -62,18 +62,20 @@ Department of Education (DOE) is responsible for planning, implementing and moni
 
 [[START OF PAGE 4]]
 
+Development (NCED) is an apex institution for the human resource development activities within ministry system. Curriculum Development Center (CDC) is responsible to develop school curricula, textbooks, teacher guide and other reference materials. Non-Formal Education Center (NFEC) is responsible to implement and monitoring the non-formal education across the country. Office of the controller of examination is responsible for the school leaving certificate examination within the ministry system. In central level there are some other autonomous bodies. Higher Secondary Education Board (HSEB) has responsibility of managing the higher education. University Grants Commission (UGC) is responsible for developing policy and funding for university and other university related issues. Council for Technical Education and Vocational Training (CTEVT) has over all responsibility for the management of technical education and vocational training.
+
 In the regional level, there are five Regional Educational Directorate (RED) offices which are responsible for the monitoring of all educational activities conducted by the District Education Offices (DEOs). In the district level, DEO is responsible for the planning, implementing and monitoring the educational activities. Under the district education offices there are Resources Centers (RC), comprising 15- 20 schools, in operation to provide school based training and other technical support to the schools. At School level, School Management Committee (SMC) is responsible for the management of school. It is also responsible for the planning and resource generation at school level. The following table shows present education scenario.
 
-Level | Institu- tions | Public Institut ion (in %) | School age population (Census 2001) | Total enrol- ments | Girls student (in %) | GER | GPI
+Table 1: Education at glance in 2005
+
+Level | Institutions | Public Institution (in %) | School age population (Census 2001) | Total enrolments | Girls student (in %) | GER | GPI
 --- | --- | --- | --- | --- | --- | --- | ---
-Pre Primary/ECD Centers | 13023 | 1228628 | 922557 | 46.2 | 69.9 | 0.91
+Pre Primary/ECD Centers | 13023 |  | 1228628 | 922557 | 46.2 | 69.9 | 0.91
 Primary | 27525 | 77.3 | 3176880 | 4502697 | 47.4 | 145.4 | 0.95
 Lower Secondary | 8471 | 67.8 | 1687290 | 1374996 | 45.7 | 76 | 0.81
 Secondary | 5039 | 62.2 | 1065164 | 587177 | 45.7 | 49.3 | 0.86
 Higher Secondary | 1018 | 52.6 | 926176 | 364404 | 43.3 | 31.6 | 0.78
 Higher Education | 520 | 16.2 | - | 141636 | 32.7 | 5.4 | 0.48
-
-Table 1: Education at glance in 2005
 
 (Source: CBS 2002, MOES 2006, DOE Status report 2005)
 
@@ -82,6 +84,8 @@ Table 1: Education at glance in 2005
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+Table 2: GER at different level by sex in different year
 
 Level /Year | 2003 | 2004 | 2005
 --- | --- | --- | --- | ---
@@ -95,21 +99,19 @@ Secondary | Total | 46.4 | 50.4 | 49.3
 Girls | 41.3 | 45.2 | 45.5
 Boys | 51.5 | 55.4 | 53.0
 
-Table 2: GER at different level by sex in different year
+Table 3: NER at different level by sex in different year
 
 Level /Year | 2003 | 2004 | 2005
 --- | --- | --- | --- | ---
 Primary | Total | 83.5 | 84.2 | 86.8
 Girls | 77.5 | 78.0 | 83.4
 Boys | 89.4 | 90.1 | 90.1
-Lower | Total | 42.9 | 43.9 | 46.5
-Secondary | Girls | 38.7 | 40.2 | 43.1
+Lower Secondary | Total | 42.9 | 43.9 | 46.5
+Girls | 38.7 | 40.2 | 43.1
 Boys | 46.8 | 47.6 | 49.8
 Secondary | Total | 29.5 | 32.0 | 32.4
 Girls | 26.3 | 28.8 | 29.2
 Boys | 32.7 | 35.2 | 35.5
-
-Table 3: NER at different level by sex in different year
 
 Table 4: Average Annual growth rate (2000-2005)
 
@@ -145,7 +147,7 @@ Primary education is free of charge to all.  Education act and regulation has ma
 
 #### 2. Policy initiatives
 
-In line with the legal provisions made, the Government of Nepal has adopted policy of ensuring access to and quality of primary education to all children. For this, several policy initiatives documents have been developed, for example, EFA /NPA, Nepal, which has been prepared on the basis of Dakar Framework, including one additional goal -'ensuring the right of indigenous people and linguistic minority to basic and Primary Education through mother tongue. The 10th five-year plan aims at improving the access to and quality of primary education. The policy of technical and vocational education has also stressed on right to education including the provision of providing equitable access to employment -based technical and vocational education and training to school drop outs, non college bound youths and literate adults
+In line with the legal provisions made, the Government of Nepal has adopted policy of ensuring access to and quality of primary education to all children. For this, several policy initiatives documents have been developed, for example, EFA /NPA, Nepal, which has been prepared on the basis of Dakar Framework, including one additional goal –'ensuring the right of indigenous people and linguistic minority to basic and Primary Education through mother tongue. The 10th five-year plan aims at improving the access to and quality of primary education. The policy of technical and vocational education has also stressed on right to education including the provision of providing equitable access to employment –based technical and vocational education and training to school drop outs, non college bound youths and literate adults
 
 6
 
@@ -157,14 +159,14 @@ In line with the legal provisions made, the Government of Nepal has adopted poli
 
 In order to materialize the policy adopted Nepal has launched Basic and Primary Education Program (BPEP II) 1997- 2002. The main thrust of this program was to expand access, to improve quality and institutional capacity building. Education for All (EFA ) 2004-009 is the continuation of BPEP II. It has six program components in line with Dakar declaration.
 
+Table 5: Enrolment by level, sex and social group in 2005
+
 Social Group / Level | Primary | Lower Secondary | Secondary
 --- | --- | --- | --- | --- | --- | ---
 Total | Girls (in %) | Total | Girls (in %) | Total | Girls (in %)
 Total | 4502697 | 47.4 | 1374794 | 45.7 | 587177 | 45.7
 Dalit | 969059 | 34.5 | 107482 | 43.2 | 29989 | 40.7
 Janajati | 1602047 | 48.4 | 484391 | 47.0 | 186692 | 46.1
-
-Table 5: Enrolment by level, sex and social group in 2005
 
 #### 4. Gaps/challenges/Issues
 
@@ -176,13 +178,15 @@ This article focuses on equivalent access to education if separate educational s
 
 #### 1. Legal provision
 
-According to the constitutional provision, there is no discrimination to be made against any citizen in the application of general laws on grounds of religion, race, sex, caste, tribe or ideological conviction or any of these. The constitution has also made the provision of providing primary education in mother tongue. It also states that the state pursues policy of making the female population participate, to a greater extent, in the task of national development by making special provisions for their education, health and employment. Similarly, the education act and regulations have made provision that institutional schools (private school) must provide scholarship to poor and disadvantaged girls. In addition, these institutions should contribute in rural education fund for the purpose of supporting rural community schools in order to ensure equality of educational opportunity. There is also mandatory provision of recruiting female teachers in primary schools.
+According to the constitutional provision, there is no discrimination to be made against any citizen in the application of general laws on grounds of religion, race, sex, caste, tribe or ideological conviction or any of these. The constitution has also made the provision of providing primary education in mother tongue. It also states that the state pursues policy of making the female population participate, to a greater extent, in the task of national development by making special provisions for their education, health and employment. Similarly, the education act and regulations have made provision that institutional schools (private school) must provide scholarship to poor and disadvantaged girls. In addition, these institutions should contribute in rural education fund for the purpose of supporting rural
 
 7
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+
+community schools in order to ensure equality of educational opportunity. There is also mandatory provision of recruiting female teachers in primary schools.
 
 #### 2. Policy provision:
 
@@ -191,6 +195,8 @@ The 10th plan has made the policy of ensuring gender parity in education at all 
 #### 3. Programs/interventions
 
 In view with the implementation of the policies, the government has established a Girls Education fund to provide scholarships and incentives to poor and disadvantaged girls for the continuation of their higher education. Similarly, institutional integration programs have been launched to mainstream the religious schools under the EFA program 2004-2009. In addition, EFA also targets to raise the living standards especially of the backward communities and women by carrying out programmes of literacy; post literacy, income generating and life skill education. In order to address the need of children from ultra poor communities, food for education program has been launched with girl's incentive package and maternal health care nutrition programme, especially in food deficit districts. The curriculum and textbooks have been developed in twenty different national languages. The government has launched several programmes to reduce the gaps, such as construction of separate toilets for girls, incentives to schools for improving the access and for recruiting dalit teachers, scholarship for girls and dalit students, providing mid day meal to children (poor, karnali zone) incentives for recruitment of female teachers, providing free lower secondary and secondary education to all Dalits students
+
+Table 6: Girls Participation in percentage (2000 -2005)
 
 Heading/Level | 2000 | 2005
 --- | --- | --- | ---
@@ -206,21 +212,19 @@ Secondary | 20.9 | 29.2
 Primary Cycle completion rate (Girls) | 37.2 | 56.9
 Survival Rate at Grade 5 (Girls) | 64.7 | 65.5
 
-Table 6: Girls Participation in percentage (2000 -2005)
-
 8
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
+Table 7: Percentage of Female Teacher in different year
+
 Level | 2000 | 2001 | 2002 | 2003 | 2004
 --- | --- | --- | --- | --- | ---
 Primary | 25.3 | 25.3 | 28.6 | 29.1 | 30.1
 Lower Secondary | 12.0 | 14.0 | 15.9 | 16.4 | 16.3
 Secondary | 7.6 | 7.9 | 10.2 | 9.4 | 8.6
-
-Table 7: Percentage of Female Teacher in different year
 
 #### 4. Gaps/challenges/Issues
 
@@ -240,7 +244,7 @@ This article mainly concentrates on non-discrimination in the admission of pupil
 
 #### 1. Legal provision
 
-The constitution of Nepal states that "no person shall, on the basis of cast, be discriminated against as untouchable, be denied access to any public place, or be deprived of the use of public utilities".  The Local Self Governance Act (LSGA) and Education Act (7 th amendment, 2001) focus on the need of involving community in educational processes with emphasis on ownership, accountability, local control over effective utilization of resources, and local resource mobilization.
+The constitution of Nepal states that "no person shall, on the basis of cast, be discriminated against as untouchable, be denied access to any public place, or be deprived of the use of public utilities".  The Local Self Governance Act (LSGA) and Education Act (7th amendment, 2001) focus on the need of involving community in educational processes with emphasis on ownership, accountability, local control over effective utilization of resources, and local resource mobilization.
 
 9
 
@@ -268,13 +272,15 @@ There is a lack of required proper indicators to identified very needy children.
 
 ### Article 4: Policies/strategies and programs to achieving EFA
 
-This article particularly envisions developing laws and policies, and strategies and programs for quality basic education to all particularly girls, children in difficult circumstances and those belonging to ethnic minorities. It also looks for the difficulties that the government has encountered in the realization of universal access to free primary education.
+This article particularly envisions developing laws and policies, and strategies and programs for quality basic education to all particularly girls, children in difficult circumstances and
 
 10
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+
+those belonging to ethnic minorities. It also looks for the difficulties that the government has encountered in the realization of universal access to free primary education.
 
 #### 1. Legal provision
 
@@ -326,30 +332,30 @@ In recent years, there is a significant progress in the field of basic and prima
 
 [[START OF PAGE 13]]
 
+Table 8: Progress on EFA indicators
+
 SN | Indicators | Base line 2001 | Achievement up to 2005
 --- | --- | --- | ---
 1 | GER of ECD/PPC | 13 | 47
-2 | % of new entrance at grade 1 with ECD | 8
+2 | % of new entrance at grade 1 with ECD | 8 |
 3 | GIR at Grade 1 | 141 | 148.1
-4 | NIR at Grade 1 | 53.7
+4 | NIR at Grade 1 | 53.7 |
 5 | GER | 123 | 145.4
 6 | NER | 81 | 86.8
 7 | % of GNP channelled to Primary education sub sector | 1.7 | 2.2
 8 | % of Total Education budget channelled to Primary education sub sector | 55.6 | 58
 9 | % of teachers with required qualification and training | 15 | 45
-10 | % of teachers with required certification | 99
+10 | % of teachers with required certification |  | 99
 11 | Pupil teacher ratio | 39 | 49.8
 12.1 | Repetition rate :Grade 1 | 39 | 23.8
 12.2 | Repetition rate :Grade 5 | 9 | 10.4
 13 | Survival rate to grade 5 | 66 | 79.1
 14 | Coefficient of efficiency | 60 | 68
-15 | % of learning achievement at grade 5 | 40
+15 | % of learning achievement at grade 5 | 40 |
 16.1 | Literacy rate: age group 15-24 | 70 | 70
 16.2 | Literacy rate: Age group 6+ years | 54 | 54
 17 | Adult Literacy (15+ years) | 48 | 48
 18 | Literacy Gender Parity Index (15+ years) | 0.6 | 0.6
-
-Table 8: Progress on EFA indicators
 
 #### 4. Gaps/challenges/Issues:
 
@@ -361,13 +367,15 @@ This article envisioned the education policy framework for minimum educational s
 
 #### 1. Legal provision
 
-Under the fundamental rights cultural and educational rights have been guaranteed. Each community has the right to preserve and promote its language, script and culture and to operate schools up to primary level in its own mother tongue for imparting education to its children
+Under the fundamental rights cultural and educational rights have been guaranteed. Each community has the right to preserve and promote its language, script and culture and to
 
 13
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+
+operate schools up to primary level in its own mother tongue for imparting education to its children
 
 #### 2. Policy provision
 
@@ -395,7 +403,7 @@ Opportunity: • Partnership with stakeholders • Commitment and faith of Inter
 
 ## Conclusions
 
-During the last five-year period, the legal provisions made, policies and strategies adopted and implemented programs and projects considerably contributed in reducing and eliminating all forms of discriminations in education. In this period, educational policies and programs are heavily guided by the 'EFA 2015' targets and 10 th five year. At the same time educational programs concentrated on the decentralization in educational management to improve access in and quality of education. Some of the remarkable reforms are teacher licensing, changed funding modalities, revised primary school curricula, and teacher training in massive scale in all levels.
+During the last five-year period, the legal provisions made, policies and strategies adopted and implemented programs and projects considerably contributed in reducing and eliminating all forms of discriminations in education. In this period, educational policies and programs are heavily guided by the 'EFA 2015' targets and 10th five year. At the same time educational programs concentrated on the decentralization in educational management to improve access in and quality of education. Some of the remarkable reforms are teacher licensing, changed funding modalities, revised primary school curricula, and teacher training in massive scale in all levels.
 
 15
 
@@ -405,7 +413,7 @@ During the last five-year period, the legal provisions made, policies and strate
 
 ## References
 
-CBS (2002) Population Census Report 2001 NPC ( 2002) 10 th plan DOE (2005) School Level educational Statistics of Nepal: Flash Report EFA SESP Status Report
+CBS (2002) Population Census Report 2001 NPC ( 2002) 10th plan DOE (2005) School Level educational Statistics of Nepal: Flash Report EFA SESP Status Report
 
 16
 
