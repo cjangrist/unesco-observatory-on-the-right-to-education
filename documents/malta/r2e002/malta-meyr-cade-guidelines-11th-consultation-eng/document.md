@@ -12,7 +12,7 @@ Eleventh consultation of Member  States on the application of the Convention and
 
 ## 1. Introduction
 
-The Convention against Discrimination in Education ('the Convention') and the Recommendation against  Discrimination  in  Education  ('the  Recommendation'),  adopted  by  UNESCO's  General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'ad vance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
+The Convention against Discrimination in Education (“the Convention”) and the Recommendation against Discrimination in Education (“the Recommendation”), adopted by UNESCO’s General Conference in 1960, are aligned with UNESCO’s constitutional mandate to “advance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social”. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
 
 The right to education is one of the key principles underpinning the Education 2030 agenda and Sustainable Development Goal 4 (SDG4) adopted by the international community in 2015. SDG 4 seeks to ensure the full enjoyment of the right to education as fundamental to achieving sustainable development. Its scope captures the multidimensional nature of the right to education.
 
@@ -26,13 +26,15 @@ Considering the Education 2030 agenda, the monitoring of the Convention and the 
 
 As the scope and content of the legal obligations under the right to education are aligned with the 10  targets  of  SDG 4,  efforts  are  being  made  to  ensure  that  the  components  of  the  targets  are included in the guidelines and that these guidelines serve as a valuable contribution to monitoring progress towards SDG 4 targets.
 
-Beyond SDG 4, the Convention is also closely aligned with the normative content on the right to education of other international human rights instruments such as the International Covenant on Economic,  Social  and  Cultural  Rights  (1966),  Convention  on  the  Elimination  of  All  Forms  of Discrimination against Women (1979), the Convention on the Rights of the Child (1989) and the Convention on the Rights of Persons with Disabilities (2006).
+Beyond SDG 4, the Convention is also closely aligned with the normative content on the right to education of other international human rights instruments such as the International Covenant on Economic, Social and Cultural Rights (1966), Convention on the Elimination of All Forms of
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-In  addition,  this  Consultation  is  an  opportunity  to  inform  the  ongoing UNESCO Initiative on the Evolving  Right  to  Education  within  a  lifelong  learning  perspective 1  (launched  in  December 2021). The Initiative investigates how the right to education could be reinforced placing it within a lifelong  learning  perspective  and  in  light  of  the  new  demands  being  placed  on  education.  This Initiative builds on the Report from the International Commission on the Futures of Education 2 , which suggests to broaden our understanding of the right to education to clearly apply it to all ages and across all times and spaces. The initiative is also in-line with the Vision Statement of the United Nations  Secretary  General  on  Transforming  Education 3 ,  and  the Report  on  the  2022 Transforming  Education  Summit 4 which  call  for  the  transformation  of  education  systems  to 'include everyone, regardless of circumstance, context or background'. The Initiative on the Evolving Right to Education aims to open a collaborative and participatory discussion about the international framework to ensure the effective enforcement of the right to education and learning throughout life for all. Finally, the Initiative builds on recent inter-governmental dialogues, including the Marrakech Framework for Action for  Adult  Learning  and  Education 5  and  the  Tashkent  Declaration  on  Early Childood Care and Education. 6
+Discrimination against Women (1979), the Convention on the Rights of the Child (1989) and the Convention on the Rights of Persons with Disabilities (2006).
+
+In addition, this Consultation is an opportunity to inform the ongoing UNESCO Initiative on the Evolving Right to Education within a lifelong learning perspective 1 (launched in December 2021). The Initiative investigates how the right to education could be reinforced placing it within a lifelong learning perspective and in light of the new demands being placed on education. This Initiative builds on the Report from the International Commission on the Futures of Education 2, which suggests to broaden our understanding of the right to education to clearly apply it to all ages and across all times and spaces. The initiative is also in-line with the Vision Statement of the United Nations Secretary General on Transforming Education 3, and the Report on the 2022 Transforming Education Summit 4 which call for the transformation of education systems to ‘include everyone, regardless of circumstance, context or background’. The Initiative on the Evolving Right to Education aims to open a collaborative and participatory discussion about the international framework to ensure the effective enforcement of the right to education and learning throughout life for all. Finally, the Initiative builds on recent inter-governmental dialogues, including the Marrakech Framework for Action for Adult Learning and Education 5 and the Tashkent Declaration on Early Childood Care and Education. 6
 
 It  is  also  important  to  note  that  previous  consultations  on  the  Convention  and  Recommendation revealed  that  countries  now  understand  the  right  to  education  in  an  extended  manner.  The 11th consultation builds on the findings of the previous national reports to include various areas that have direct repercussions on the right to education such as, for instance, digital learning, climate considerations, lifelong learning entitlement, and the role of non-state actors in education.
 
@@ -42,7 +44,7 @@ There are differences in the legal nature of the obligations under the Conventio
 
 Bearing in mind the differences in legal scope inherent to the nature of these two categories of instruments, the content of the Recommendation is identical to that of the Convention. Member States are expected to give effect to it in national legislation and education policies.
 
-The  reporting  obligation  under  the  provisions  of  Article  VII  of  the  Convention  and  of  the Recommendation is the same. Article VIII of UNESCO's Constitution states that ' Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General  Conference,  reports  on  the  laws,  regulations  and  statistics  relating  to  its  educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to i n Article IV, paragraph 4' . Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
+The reporting obligation under the provisions of Article VII of the Convention and of the Recommendation is the same. Article VIII of UNESCO’s Constitution states that “Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General Conference, reports on the laws, regulations and statistics relating to its educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4”. Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
 
 > 1 https://www.unesco.org/en/right-education/evolving
 
@@ -68,11 +70,11 @@ The Futures of Education Report calls for a new social contract for education, w
 
 The preparation of national reports provides a good opportunity for Member States to assess the implementation  of  the  right  to  education  in  their  country,  identify  specific  challenges,  build constructive dialogue with other actors involved in this field and share good practices.
 
-In the preparation of reports, Member States are encouraged to provide substantive and relevant information  in  a  concise  manner .  In  addition  to  a  description  of  the  constitutional,  legislative, administrative, and  policy framework  established  for  the implementation  of  the provisions guaranteed by the instruments, the information supplied by Member States should demonstrate how legal norms and practices comply with the Convention and the Recommendation.
+In the preparation of reports, Member States are encouraged to provide substantive and relevant information in a concise manner. In addition to a description of the constitutional, legislative, administrative, and policy framework established for the implementation of the provisions guaranteed by the instruments, the information supplied by Member States should demonstrate how legal norms and practices comply with the Convention and the Recommendation.
 
 Relevant information supplied for other reporting instances may be reproduced or referred to with precise indication as to its retrieval. Similarly, hyperlinks to any useful documents or relevant legal and policy texts are most welcome and texts can also be added in the annex.
 
-Country reports submitted for previous consultations can be found on the Observatory on the right to education 7 in the monitoring section of the country profile. The information provided in the reports are valuable both for the Observatory on the right to education as well as for HerAtlas 8 , the online monitoring tool for girls' and women's right to education. Information and data regarding countries ' education systems are also available through the UNESCO Institute for Statistics database 9 . Beyond monitoring  purposes,  the  consultation  findings  and  reports  inform  broader  work  -  serving  for knowledge generation, advocacy, and technical cooperation.
+Country reports submitted for previous consultations can be found on the Observatory on the right to education 7 in the monitoring section of the country profile. The information provided in the reports are valuable both for the Observatory on the right to education as well as for HerAtlas 8, the online monitoring tool for girls’ and women’s right to education. Information and data regarding countries’ education systems are also available through the UNESCO Institute for Statistics database 9. Beyond monitoring purposes, the consultation findings and reports inform broader work - serving for knowledge generation, advocacy, and technical cooperation.
 
 ## 5. Modalities and structure
 
@@ -114,15 +116,13 @@ Name of contact person:
 
 Email and telephone number of contact person:
 
-## Ratification and applicability of the Convention against Discrimination in Education 10
+## I. Ratification and applicability of the Convention against Discrimination in Education 10
 
 - Is your country a State Party to the Convention?
 
 ✓ Yes
 
-
-
-No: Does your country plan to ratify this instrument?
+ No: Does your country plan to ratify this instrument?
 
  Yes: Please indicate the stage of ratification process reached by your country and whether assistance is needed:
 
@@ -174,7 +174,7 @@ It further corresponds to the overall aspiration of SDG4 which aims to 'ensure i
 
 - Please  indicate  whether  the  rights  and  principles  laid  out  in  the  Convention/Recommendation informed the elaboration of the education legal and/or policy framework:
 
-- Yes  No
+✓ Yes  No
 
 - If yes, please provide reference:
 
@@ -187,7 +187,6 @@ It further corresponds to the overall aspiration of SDG4 which aims to 'ensure i
 [[START OF PAGE 7]]
 
 Education Act (Ch. 605 of the Laws of Malta);
----
 Equal Opportunities (Persons with Disability) Act (Ch. 413 of the Laws of Malta);
 Trans, Gender Variant and Intersex Students in Schools Policy;
 Respect for All Framework;
@@ -202,17 +201,17 @@ For reference: This notably is covered under SDG target 4.1 and partly target 4.
 
  Legal texts 15 prohibit discrimination and guarantee equal access to education:
 
-- In pre-primary education (including early learning and care)
+✓ In pre-primary education (including early learning and care)
 
-- In primary education
+✓ In primary education
 
-- In secondary education
+✓ In secondary education
 
-- In technical and vocational education and training
+✓ In technical and vocational education and training
 
-- In higher education
+✓ In higher education
 
-- In adult education and alternative learning
+✓ In adult education and alternative learning
 
 - Please indicate the relevant legal provisions:
 
@@ -224,7 +223,7 @@ Equal Opportunities (Persons with Disability) Act [Ch. 413 of the Laws of Malta]
 
 > 13 See: Article/Paragraph 1(1).
 
-> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programme s'.
+> 14 Which calls on states to ‘substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes’.
 
 > 15 Constitution, laws, decrees, regulations, circulars, etc.
 
@@ -284,27 +283,27 @@ In  Malta,  several  policies,  programs,  and  initiatives  aim  to  prohibit  
 
 These  policies  and  initiatives  collectively  work  towards  creating  an  equitable  and inclusive  educational  environment  in  Malta,  ensuring  that  all  students  have  the opportunity to succeed.
 
-Through the National School Support Services (NSSS) within MEYR, support services such as early intervention service, teachers of the hearing impaired and teachers of the  visually  impaired  support  students  in  pre-primary  education.  These  services, together with the rest of the support services, support students through primary and secondary education.  The National  Inclusion Policy  is  embedded  in other  existing policies and processes and aims to re-position the concept of Inclusive Education into the realm o f  responding positively to all learners' diversity and viewing individual differences as opportunities for enriching learning.
+Through the National School Support Services (NSSS) within MEYR, support services such as early intervention service, teachers of the hearing impaired and teachers of the visually impaired support students in pre-primary education. These services, together with the rest of the support services, support students through primary and secondary education. The National Inclusion Policy is embedded in other existing policies and processes and aims to re-position the concept of Inclusive Education into the realm of responding positively to all learners’ diversity and viewing individual differences as opportunities for enriching learning.
 
 The process of non-formal programme accreditation provided by the Directorate for Quality and Standards in Education (DQSE) within MEYR can be accessed by all.
 
 ##### Further and Higher Education
 
-The University of Malta  has an Equity, Diversity and Inclusion Policy which has been approved by both Senate and Council. https://www.um.edu.mt/media/um/docs/about/equity/EDIPolicyUMVersion12023.pdf
+The University of Malta has an Equity, Diversity and Inclusion Policy which has been approved by both Senate and Council. https://www.um.edu.mt/media/um/docs/about/equity/EDIPolicy-UMVersion12023.pdf
 
-The purpose of the Policy is to support the University of Malta (UM) in achieving its strategic  objectives,  as  outlined  in  the  UMs  Strategic  Plan  2020-2025  (UMSP),  in particular, those pertaining to equity, diversity and inclusion, as articulated in the Key Areas of the Gender+ Equity Plan 2022-2025 (G+EP) https://www.um.edu.mt/media/um/docs/about/equity/EQO_GenderEquityPlan_di gital.pdf . This Policy responds to government priorities, as articulated in the Gender Equality And Mainstreaming Strategy And Action Plan 2022-2027 (GEMSAP).
+The purpose of the Policy is to support the University of Malta (UM) in achieving its strategic objectives, as outlined in the UMs Strategic Plan 2020-2025 (UMSP), in particular, those pertaining to equity, diversity and inclusion, as articulated in the Key Areas of the Gender+ Equity Plan 2022-2025 (G+EP) https://www.um.edu.mt/media/um/docs/about/equity/EQO_GenderEquityPlan_digital.pdf. This Policy responds to government priorities, as articulated in the Gender Equality And Mainstreaming Strategy And Action Plan 2022-2027 (GEMSAP).
 
 Other policies:
 
 Sexual Harassment Policy
 
-https://www.um.edu.mt/__data/assets/pdf_file/0005/478940/SexualHarassmentP olicy-18Oct2021.pdf
+https://www.um.edu.mt/__data/assets/pdf_file/0005/478940/SexualHarassmentPolicy-18Oct2021.pdf
 
-Bullying and Harassment Policy https://www.um.edu.mt/__data/assets/pdf_file/0010/469846/harassmentandbully ingpolicy.pdf
+Bullying and Harassment Policy https://www.um.edu.mt/__data/assets/pdf_file/0010/469846/harassmentandbullyingpolicy.pdf
 
 At the Malta  College of Arts, Science and  Technology  (MCAST),  one  finds www.mcast.edu.mt/equality
 
-At the Institute for Education, one finds the following policies: https://ife.edu.mt/wpcontent/uploads/2023/03/Sexual-Harassment-Policy-and-Procedures-forEmployees-and-Persons-on-a-Contract-for-Service-IfE.pdf and https://ife.edu.mt/equality-diversity-inclusion/
+At the Institute for Education, one finds the following policies: https://ife.edu.mt/wp-content/uploads/2023/03/Sexual-Harassment-Policy-and-Procedures-for-Employees-and-Persons-on-a-Contract-for-Service-IfE.pdf and https://ife.edu.mt/equality-diversity-inclusion/
 
 [[END OF PAGE 9]]
 
@@ -334,9 +333,9 @@ All  FES  Childcare Centres follow the Child Led Approach. This is not a prescri
 
 Areas related to discrimination are addressed in DELH curricula for PSCD, Ethics and Social Studies as well as through the integration of Global Citizenship education in Primary Schools. DELH contributes through
 
-- GEMSAP  measures  (Gender  mainstreaming  and  gender  representation) Human Rights Directorate
+- GEMSAP measures (Gender mainstreaming and gender representation) Human Rights Directorate
 
-- WPSA -Women in Peace and Security Agenda Action Plan Ministry for Foreign Affairs
+- WPSA – Women in Peace and Security Agenda Action Plan Ministry for Foreign Affairs
 
 ##### Further and Higher Education
 
@@ -344,7 +343,7 @@ Within  UM,  the  Gender  +  Equity  Plan  Key  Area  6  is  specifically  dedic
 
 At the Malta  College of Arts, Science and  Technology  (MCAST),  one  finds www.mcast.edu.mt/equality
 
-At the Institute for Education: https://ife.edu.mt/equality-diversity-inclusion/  and https://ife.edu.mt/wp-content/uploads/2023/03/Gender-Equality-Plan-2023-2025IfE.pdf
+At the Institute for Education: https://ife.edu.mt/equality-diversity-inclusion/ and https://ife.edu.mt/wp-content/uploads/2023/03/Gender-Equality-Plan-2023-2025-IfE.pdf
 
 [[END OF PAGE 10]]
 
@@ -354,9 +353,7 @@ At the Institute for Education: https://ife.edu.mt/equality-diversity-inclusion/
 
 #### 1.2 Equality of opportunities and inclusion in education
 
-- Please  indicate  the  actions  taken/planned  to  ensure  equality  of  opportunities  (in  terms  of  access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked):
-
-- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
+- Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked):
 
 ##### General measures:
 
@@ -376,15 +373,17 @@ At the Institute for Education: https://ife.edu.mt/equality-diversity-inclusion/
 
  Multilingual and intercultural education is supported
 
+- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
+
 ###### Compulsory Education
 
-In Malta, the legislation ensures inclusive education for all students. The Equal Opportunities Act prohibits discrimination based on gender, race, disability, and age. The National Inclusion Policy supports students with diverse needs, and the Inclusive Education Framework is  a practical document for the implementation of the policy in schools. It outlines practices to ensure the full participation of all students in the education system. These legal provisions offer an equitable and inclusive educational environment for every student.
+In Malta, the legislation ensures inclusive education for all students. The Equal Opportunities Act prohibits discrimination based on gender, race, disability, and age. The National Inclusion Policy supports students with diverse needs, and the Inclusive Education Framework is a practical document for the implementation of the policy in schools. It outlines practices to ensure the full participation of all students in the education system. These legal provisions offer an equitable and inclusive educational environment for every student.
 
-Furthermore, all educational institutions and service providers are to conform equally not only  to  legislation,  but  also  regulations  and  standards  set  by  the  national  regulator
+Furthermore, all educational institutions and service providers are to conform equally not only to legislation, but also regulations and standards set by the national regulator
 
 > 16 Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
 
-> 17 Multiple and flexible learning pathways are 'entry points and re -entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge,  skills  and  co mpetencies  acquired  through  nonformal  and  informal  education'  ( Education  2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
+> 17 Multiple and flexible learning pathways are ‘entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge, skills and competencies acquired through nonformal and informal education’ (Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
 
 > 18 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
 
@@ -393,18 +392,22 @@ Furthermore, all educational institutions and service providers are to conform e
 [[START OF PAGE 12]]
 
 indiscriminately. Moreover, standards set by the DQSE are valid for all schools which operate services for compulsory school age.
----
+
 Standards require that schools continuously ensure accessible, inclusive, and learner-friendly infrastructure. They must implement appropriate structures and procedures to identify and address diverse learner needs while celebrating each student's efforts, strengths, and abilities. Schools are also required to provide comprehensive support services ranging from pastoral to curricular, involving parents and specialists as needed. An integrated approach to holistic development should be adopted, with individualized educational programs (IEPs) for learners with specific needs and tailored programs for gifted students. Furthermore, schools must embrace equity by providing resources and strategies to help all learners overcome challenges, ensure smooth transitions, maintain high attendance, and offer opportunities for students to develop competencies for active citizenship. The standards also require that a democratically elected Student Council actively represents and advocates for student interests, supported b
 Inclusion in the National Inclusion Policy document is described as a route, built on education and inclusive practices that would contribute to build effective and efficient schools for all students and their families as well as educators. The policy embraces diversity and individual differences as opportunities of learning rather than barriers. The policy document does not only refer to disabilities or challenges in learning but considers inclusion in a more holistic manner, where diversity is celebrated in spite of different individual needs, sex, age, race, culture, different socio-economic status or sexual orientation.
+
+In Malta, several initiatives aim to address discrimination and promote cultural diversity and mutual acceptance, including:
+
 • National Inclusion Policy
 • Trans, Gender Variant and Intersex Students in Schools Policy
 • Malta's National Strategy for Promoting Cross-Cultural Understanding and Management of Cultural Diversity
 • Anti-Bullying Services
+• Migrant Integration Policy
 • National Commission for the Promotion of Equality (NCPE)
 • Inclusive School Practices
-• Teacher Training : Student Exchange Programs .
+• Teacher Training: Student Exchange Programs.
 ###### Further and Higher Education
-The University of Malta's Faculty of Education offers a Master 's in Teaching and Learning (MTL) programem, which includes dedicated sessions on inclusive education and diversity. Within the 40 ECTS of pedagogical study units, the programme also integrates research-based
+The University of Malta's Faculty of Education offers a Master’s in Teaching and Learning (MTL) programem, which includes dedicated sessions on inclusive education and diversity. Within the 40 ECTS of pedagogical study units, the programme also integrates research-based
 
 [[END OF PAGE 12]]
 
@@ -430,7 +433,7 @@ A  fouth  pillar  takes  into  consideration  the  area  of  non-traditional  st
 
 Furthermore, MCAST is guided by Cap 638 of the Laws of Malta, Art 8 (l) and outlines its policies at https://mcast.edu.mt/inclusive-education-unit-ieu/
 
-Additionally, one finds www.mcast.edu.mt/equality and the MCAST Strategy - https://mcast.edu.mt/wp-content/uploads/MCAST_StrategicPlan_2022-2027_17_11_final- 2.pdf
+Additionally, one finds www.mcast.edu.mt/equality and the MCAST Strategy - https://mcast.edu.mt/wp-content/uploads/MCAST_StrategicPlan_2022-2027_17_11_final-2.pdf
 
 Moreover, the Institute for Education (IfE) offers part-time courses and all are blended i.e. partly online for greater accessibility and flexibility.
 
@@ -462,27 +465,7 @@ All courses and initiatives provided by the Director for Lifelong Learning and E
 
  Other:
 
-- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
-
-###### Legal Measures
-
-1.  Education Act (Chapter 605 of the Laws of Malta): Establishes the legal framework for ensuring the right to education for all those residing in Malta without discrimination;
-
-2. Gender Identity, Gender Expression and Sex Characteristics Act (Chapter 540 of the Laws of Malta): Prohibits discrimination in public services, including education, based on gender identity, gender expression, and sex characteristics;
-
-- Equality for Men and Women Act (Chapter 456 of the Laws of Malta): Aims to eliminate discrimination between men and women in various fields, including education and vocational training;
-
-- Employment and Industrial Relations Act (Chapter 452 of the Laws of Malta): Includes provisions to ensure equal treatment and prohibit discrimination in vocational education and training settings;
-
-5.  Constitution  of  Malta  (Amended  by  Act  No.  X  of  2014):  Contains  anti-discrimination provisions  protecting  individuals  based  on  sexual  orientation  and  gender  identity  under fundamental rights;
-
-> 19 ' Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them' (Cambridge Dictionary).
-
-> 20 ' Gendersensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
-
-> 21 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
-
- All  barriers  for  pregnant  girls  and  young mothers in education are eliminated to ensure the continuity of their education
+ All barriers for pregnant girls and young mothers in education are eliminated to ensure the continuity of their education
 
  Re-entry programmes for young mothers are provided for
 
@@ -494,11 +477,31 @@ All courses and initiatives provided by the Director for Lifelong Learning and E
 
  Ensuring gender parity in technical and vocational training education and training (TVET)
 
+- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
+
+###### Legal Measures
+
+1. Education Act (Chapter 605 of the Laws of Malta): Establishes the legal framework for ensuring the right to education for all those residing in Malta without discrimination;
+
+2. Gender Identity, Gender Expression and Sex Characteristics Act (Chapter 540 of the Laws of Malta): Prohibits discrimination in public services, including education, based on gender identity, gender expression, and sex characteristics;
+
+3. Equality for Men and Women Act (Chapter 456 of the Laws of Malta): Aims to eliminate discrimination between men and women in various fields, including education and vocational training;
+
+4. Employment and Industrial Relations Act (Chapter 452 of the Laws of Malta): Includes provisions to ensure equal treatment and prohibit discrimination in vocational education and training settings;
+
+5. Constitution of Malta (Amended by Act No. X of 2014): Contains anti-discrimination provisions protecting individuals based on sexual orientation and gender identity under fundamental rights;
+
+> 19 ‘ Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them’ (Cambridge Dictionary).
+
+> 20 ‘ Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal’ (UNGEI blog post, Gender-sensitive sanitation, 2018)
+
+> 21 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong’ (Cambridge Dictionary).
+
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
-6. Subsidiary Legislation under the Education Act: Detailed regulations for implementing nondiscrimination policies in educational institutions;
+6. Subsidiary Legislation under the Education Act: Detailed regulations for implementing non-discrimination policies in educational institutions;
 
 7. Further and Higher Education Act (Chapter 607 of the Laws of Malta): Promotes inclusive education and compliance with European standards (MFHEA).
 
@@ -530,13 +533,13 @@ Gender-responsive education sector planning in Malta involves:
 
 - integrating gender perspectives in curriculum design for gender equality
 
-- providing training and capacity building for educators and administrators on genderresponsive planning and teaching methods.
+- providing training and capacity building for educators and administrators on gender-responsive planning and teaching methods.
 
 Furthermore, areas related to discrimination are addressed in DELH curricula for PSCD, Ethics and  Social  Studies  as  well  as  through  the  integration  of  Global  Citizenship  education  in Primary Schools. DELH contributes through
 
 - GEMSAP measures (Gender mainstreaming and gender representation) Human Rights Directorate
 
-- WPSA -Women in Peace and Security Agenda Action Plan Ministry for Foreign Affairs
+- WPSA – Women in Peace and Security Agenda Action Plan Ministry for Foreign Affairs
 
 Additionally, in Malta, providing positive or affirmative action measures involves scholarships, grants, mentorship programs, inclusive recruitment practices, and awareness and  training.  These  measures  aim  to  promote  equality  and  ensure  everyone  has  equal opportunities to succeed in the educational system.
 
@@ -558,17 +561,17 @@ The Committee, appointed by Council, advises the Rector and University Council o
 
 sexual orientation and gender identity and reports annually to Council. Its terms of reference are to:
 
-- identify sources of unequal opportunities, treatment, environment for students and staff
+1. identify sources of unequal opportunities, treatment, environment for students and staff
 
-- promote  a  policy  of  equitable  opportunity,  including  specific  help  to  help  female, LGTIQ+  staffand  students  when  faced  with  direct  and  indirect  discrimination, victimisation, harassment ofany type, freedom of movement. GESDC helps design and implement UM Gender+ EquityPlan
+2. promote a policy of equitable opportunity, including specific help to help female, LGTIQ+ staffand students when faced with direct and indirect discrimination, victimisation, harassment ofany type, freedom of movement. GESDC helps design and implement UM Gender+ EquityPlan
 
-- receives and monitors complaints from University staff and students regarding sex, genderbased,  and  sexual  discriminatory  practices.  Will  also  propose  policies  and measures whichUM can adopt in instances of systemic discrimination
+3.receives and monitors complaints from University staff and students regarding sex, genderbased, and sexual discriminatory practices. Will also propose policies and measures whichUM can adopt in instances of systemic discrimination
 
-- liaise  with  special  advisors  on  Sexual  Harassment,  and  recommends  appropriate policies and procedures
+4. liaise with special advisors on Sexual Harassment, and recommends appropriate policies and procedures
 
-- liaise with special advisors on Gender Identity and Expression Policy
+5. liaise with special advisors on Gender Identity and Expression Policy
 
-- Form part of the Equity Committee through the Chair(s)
+6. Form part of the Equity Committee through the Chair(s)
 
 [[END OF PAGE 16]]
 
@@ -582,7 +585,7 @@ https://www.um.edu.mt/newspoint/jc/archive/shecanexhibition
 
 https://www.um.edu.mt/newspoint/news/2023/10/science-stem-global
 
-https://www.um.edu.mt/newspoint/news/2024/03/closing-event-world-capital-womengirls-science
+https://www.um.edu.mt/newspoint/news/2024/03/closing-event-world-capital-women-girls-science
 
 https://www.um.edu.mt/newspoint/news/2024/01/national-stem-awards-2024
 
@@ -612,6 +615,8 @@ Please note that child marriage is a discriminatory practice as often girls can 
 
 For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities.
 
+Commented [DJaM1]: Not applicable for Malta
+
  Legislation provides for the right to education of national minorities
 
  Policy measures aim to enhance the right to education of national minorities
@@ -626,7 +631,7 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 
  Financial incentives and fellowships are provided for national minorities
 
- Other 23 :
+ Other 23:
 
  Teachers are trained on intercultural education
 
@@ -634,7 +639,7 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 
 o Multilingual and intercultural education are supported
 
-- o Native language instruction is ensured for national minorities
+o Native language instruction is ensured for national minorities
 
 o Adapting curricula and teaching and learning methods to their needs for national minorities
 
@@ -645,6 +650,8 @@ o Adapting curricula and teaching and learning methods to their needs for nation
 - What challenges were encountered in realizing the right to education of minorities? If needed, brief quantitative information may be added.
 
 ##### Indigenous people:
+
+Commented [DJaM2]: Not applicable for Malta
 
  Legislation provides for the right to education of indigenous people
 
@@ -658,17 +665,13 @@ o Adapting curricula and teaching and learning methods to their needs for nation
 
  Teachers are trained to combat stigmatisation 26
 
-> 23 Please see: UNESCO report 'The right to education of minorities: Overview of States' measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023.
+> 23 Please see: UNESCO report ‘The right to education of minorities: Overview of States’ measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023.
 
 > 24 Supra note 15.
 
 > 25 Supra note 16.
 
 > 26 Supra note 15.
-
-Commented [DJaM1]: Not applicable for Malta
-
-Commented [DJaM2]: Not applicable for Malta
 
 [[END OF PAGE 18]]
 
@@ -736,15 +739,18 @@ Commented [DJaM2]: Not applicable for Malta
 
 [[START OF PAGE 20]]
 
- Teachers are specifically trained to ensure their inclusion |  Multilingualism and intercultural education are encouraged
---- | ---
+ Teachers are specifically trained to ensure their inclusion
+
  Teachers are trained to combat stigmatisation 30
+
  Other:
+
+ Multilingualism and intercultural education are encouraged
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
 ###### Legal and Policy Measures
----
+
 Education Act (Chapter 605 of the Laws of Malta): Ensures the right to education for all individuals without discrimination;
 Reception of Asylum Seekers (Minimum Standards) Regulations - SUBSIDIARY LEGISLATION 420.06: Guarantees that asylum-seeking children have access to education under the same conditions as Maltese nationals (Human Rights Malta);
 Equality for Men and Women Act (Chapter 456 of the Laws of Malta): Protects against discrimination in education based on nationality, ethnic origin, and other grounds (Human Rights Malta);
@@ -765,7 +771,7 @@ Non-formal educational programmes are provided during the Klabb 3-16 and Skolasa
 
 encourages everyone to have a positive attitude towards life, as it offers great opportunities and should be lived as one great adventure.
 
-In  all  FES  Services,  the  languages  used  for  communication  and  instruction  is  English  and Maltese. However, during Klabb 3-16, lessons in the French Language have been introduced in  one  of  the  centres  where  there  is  a  multi-cultural  student  population.  The  non-formal curriculum  presented  in  Klabb  3-16  and  Skolasajf,  endeavours  to  reach  out  to  the  everincreasing multi-cultural student population.
+In all FES Services, the languages used for communication and instruction is English and Maltese. However, during Klabb 3-16, lessons in the French Language have been introduced in one of the centres where there is a multi-cultural student population. The non-formal curriculum presented in Klabb 3-16 and Skolasajf, endeavours to reach out to the ever-increasing multi-cultural student population.
 
 ###### Compulsory Education
 
@@ -775,7 +781,7 @@ Whilst the the DQSE does not provide non-formal programmes, it provides accredit
 
 ###### Further and Higher Education
 
-The Faculty of Education provides language (Maltese for foreigners) as a specialisation within MTL and also offers a PG diploma. The Faculty also offers classes for migrants seeking longterm residency within the I Belong programme.
+The Faculty of Education provides language (Maltese for foreigners) as a specialisation within MTL and also offers a PG diploma. The Faculty also offers classes for migrants seeking long-term residency within the I Belong programme.
 
 The University of Malta (UM) has an Equity, Diversity and Inclusion Policy which has been approved by both Senate and Council. https://www.um.edu.mt/media/um/docs/about/equity/EDIPolicy-UMVersion12023.pdf
 
@@ -787,7 +793,9 @@ Currently the University provides the labs and guest IT accounts, free of charge
 
 ###### Promoting Diversity Strategic Plan 2020-2025
 
-https://www.um.edu.mt/about/strategy/strategicgoals3societalfactorsandimpact/#disab ility The University is a multi-cultural community where international students and staff are on the increase and many pertain to diverse cultures. The Committee for Race and Ethnic Affairs was established to create awareness, ensure access and integration, safeguard students and members of staff and advise the Rectorate. We will commit to:
+https://www.um.edu.mt/about/strategy/strategicgoals3societalfactorsandimpact/#disability
+
+The University is a multi-cultural community where international students and staff are on the increase and many pertain to diverse cultures. The Committee for Race and Ethnic Affairs was established to create awareness, ensure access and integration, safeguard students and members of staff and advise the Rectorate. We will commit to:
 
 [[END OF PAGE 21]]
 
@@ -803,11 +811,11 @@ https://www.um.edu.mt/about/strategy/strategicgoals3societalfactorsandimpact/#di
 
 Continuous monitoring and evaluation of the implications of migration in the educational sector  will  be  maintained.  Recognition  of  Prior  Learning  will  enable  more  students  with refugee status or who are seeking asylum in Malta to apply for and be admitted to courses. The approach will contribute to national integration efforts through the provision of courses, outreach initiatives and collaboration with other relevant entities.
 
-Furthermroe, the UM in collboration with national bodies offers scholarships: https://www.um.edu.mt/study/feesfunding/scholarships/scholarshipsfortunisiannationalst ostudyattheum/
+Furthermroe, the UM in collboration with national bodies offers scholarships: https://www.um.edu.mt/study/feesfunding/scholarships/scholarshipsfortunisiannationalstostudyattheum/
 
-https://www.um.edu.mt/study/feesfunding/scholarships/scholarshipsforpalestiniannationa lstostudyattheum/
+https://www.um.edu.mt/study/feesfunding/scholarships/scholarshipsforpalestiniannationalstostudyattheum/
 
-https://www.um.edu.mt/study/feesfunding/scholarships/commonwealthvallettaactionplan scholarshipsforumpgstudiesfromghana/
+https://www.um.edu.mt/study/feesfunding/scholarships/commonwealthvallettaactionplanscholarshipsforumpgstudiesfromghana/
 
 At the Malta College of Arts, Science and Technology (MCAST), one finds www.mcast.edu.mt/equality
 
@@ -820,7 +828,6 @@ At the Malta College of Arts, Science and Technology (MCAST), one finds www.mcas
 - What challenges were encountered in realizing the right to education of migrants, refugees, asylum seekers, stateless persons and IDPs? If needed, brief quantitative information may be added.
 
 1. cultural differences
----
 2. inadequate monitoring of whether all migrant children are receiving their right to education
 3. linguistic barriers
 
@@ -828,128 +835,73 @@ At the Malta College of Arts, Science and Technology (MCAST), one finds www.mcas
 
 [[START OF PAGE 23]]
 
-33
+4. In the absence of educational documentation, determining the appropriate level for a student can be challenging.
 
-34
-
-4.
-
-5.
-
-In  the  absence  of  educational  documentation,  determining  the  appropriate  level  for  a
-
-student can be challenging.
-
-Financial limitations: pathway programmes are full-time programmes and migrants who are
-
-18+ and not living here as part of a family would need to work extensively during the week
-
-and over the weekend to keep up with accommodation and living expenses.
+5. Financial limitations: pathway programmes are full-time programmes and migrants who are 18+ and not living here as part of a family would need to work extensively during the week and over the weekend to keep up with accommodation and living expenses.
 
 ##### People with disabilities:
 
-
+ Legislation provides for their right to education
 
-Legislation provides for their right to
+ Policy measures aim to enhance their right to education
 
-education
+ Inclusion in mainstream schools is ensured
 
-
+ Special schools are used as resource centers to inclusive schools
 
-Policy measures aim to enhance their right to
+ Positive or affirmative action measures are provided
 
-education
+ Financial incentives and fellowships are provided
 
-
+ Other
 
-Inclusion in mainstream schools is ensured
+ Mainstream teachers are specifically trained on disabilities
 
-
+ Teachers are trained to combat stigmatisation 33
 
-Special schools are used as resource centers
+ Auxiliary assistance is provided
 
-to inclusive schools
+ Curricula and teaching and learning methods are adapted
 
-
+ Curricula are rid of all stereotypes 34 and bias
 
-Positive or affirmative action measures are
-
-provided
-
-
-
-Financial incentives and fellowships are
-
-provided
-
-
-
-Other
-
-
-
-Mainstream teachers are specifically trained
-
-on disabilities
-
-
-
-Teachers are trained to combat
-
-stigmatisation
-
-33
-
-
-
-Auxiliary assistance is provided
-
-
-
-Curricula and teaching and learning methods
-
-are adapted
-
-
-
-Curricula are rid of all stereotypes
-
-34
-
-and bias
-
-
-
-Education infrastructure and learning
-
-materials are adapted
+ Education infrastructure and learning materials are adapted
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
 ###### Legal Measures
----
+
 In Malta, the right to education for people with disabilities is supported by several key pieces of legislation:
+
 1. Education Act (Ch. 605 of the Laws of Malta): Ensures the right to education for all individuals, including those with disabilities, without discrimination;
+
 2. Equal Opportunities (Persons with Disability) Act (Ch.413 of the Laws of Malta): Requires educational institutions to provide reasonable accommodations for students with disabilities to ensure accessibility and equal opportunities;
+
 3. Equality for Men and Women Act (Ch. 456 of the Laws of Malta): Protects against discrimination in education on the basis of disability;
+
 4. . Constitution of Malta (Articles 32 and 45) : Includes anti-discrimination provisions and enshrines the right to education for all residents, including those with disabilities;
+
 5. Further and Higher Education Act (Chapter 607 of the Laws of Malta): Promotes inclusive education and compliance with European standards (MFHEA).
 
-Supra note 15.
+> 33 Supra note 15.
 
-Supra note 16.
+> 34 Supra note 16.
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
 
 6. Malta Further and Higher Education Authority (MFHEA) Regulations: Promotes inclusive education practices and ensures compliance with European standards for the education of individuals with disabilities (MFHEA).
----
+
 7. National Inclusive Education Framework: Promotes inclusive education practices to ensure appropriate educational support and opportunities for all children, including those with disabilities.
+
 ###### ECEC
+
 The FES Childcare Centres follow the Child Led Approach that centres on the children's interests. The Klabb 3-16 and Skolasajf programmes both revolve around themes. The programme is divided into Early and Primary Years. Resource Centres' programmes are adapted to the children's needs attending such centres. The programme of activities takes into consideration the children's ages and is made accessible taking into consideration their conditions and or disabilities.
+
 ###### Compulsory Education
-The National Inclusion Policy is embedded in other existing policies and processes and aims to re-position the concept of Inclusive Education into the realm of responding positively to all learners' diversity and viewing individual differences as opportuni ties for enriching learning.
+
+The National Inclusion Policy is embedded in other existing policies and processes and aims to re-position the concept of Inclusive Education into the realm of responding positively to all learners' diversity and viewing individual differences as opportunities for enriching learning.
 Policy measures aimed at enhancing the right to education for people with disabilities, collectively create a more inclusive and supportive educational environment for students with disabilities in Malta, include:
 • inclusive education policy
 • individual education plans (IEPs)
@@ -985,7 +937,7 @@ The Gender+ Equity Plan 2022-2025 (G+EP) https://www.um.edu.mt/media/um/docs/abo
 
 The ACCESS Disability Support Committee and Unit are tasked with ensuring the intergration and equal treatment of persons with disabilitites. https://www.um.edu.mt/services/administrativesupport/access/
 
-In  order  to  ensure  that  the  UM's  commitment  to  creating  an  inclusive  environment  is implemented in practice, work related to access within UM is mainly carried out by the ACCESS -Disability  Support  Committee  (ADSC)  and  its  administrative  arm,  the  ACCESS -Disability Support Unit (ADSU).
+In order to ensure that the UM’s commitment to creating an inclusive environment is implemented in practice, work related to access within UM is mainly carried out by the ACCESS – Disability Support Committee (ADSC) and its administrative arm, the ACCESS – Disability Support Unit (ADSU).
 
 The ADSU is the operational arm of the ADSC and it is also part of the UM Health and Wellness Centre. It is headed by an academic and the staff within fulfil various roles. They:
 
@@ -1015,9 +967,7 @@ Furthermore,  documents  such  as  the  UM's  Good  Practice  in  Inclusive  Lan
 
 https://www.um.edu.mt/media/um/docs/about/equity/EQO_InclusiveLanguage_digital(3).pdf
 
-At  MCAST,  lecturers  specialised  in  special  education  receive  specific  training,  while  others undergo  general  pedagogic  training.  Moreover,  MCAST  Equality  measures  are  found  in  this section - https://mcast.edu.mt/equality/
-
-·
+At MCAST, lecturers specialised in special education receive specific training, while others undergo general pedagogic training. Moreover, MCAST Equality measures are found in this section - https://mcast.edu.mt/equality/
 
 - GENDER EQUALITY PLAN
 
@@ -1033,15 +983,15 @@ Within the IfE, training on disabilities is part of the initial teacher training
 
  Financial incentives and fellowships for school enrolment are provided
 
- Transport, meals  and education material are subsidised  or  provided  free  of  charge  beyond compulsory education
-
-> 35 Supra note 15.
-
-> 36 Supra note 16.
+ Transport, meals and education material are subsidised or provided free of charge beyond compulsory education
 
  Teachers are trained to combat stigmatisation 35
 
  Curricula are rid of all stereotypes 36 and bias
+
+> 35 Supra note 15.
+
+> 36 Supra note 16.
 
 [[END OF PAGE 26]]
 
@@ -1067,15 +1017,17 @@ The Student Solidarity Fund (SSF) at UM assists students facing financial diffic
 
 ###### Strategic Plan 2020-2025 Pillar 3
 
-Providing Assistance for Under-Represented and First-Generation Students The University will improve support systems that enhance the learning experience and increase the completion rates  of  students  from  diverse  and  under-represented  backgrounds.  Students  from  underprivileged socioeconomic environments, minorities and first-generation students face additional challenges  to  cultivate  a  sense  of  belonging  within  the  University  community.  UM  seeks  to provide a support infrastructure to develop personal identity as a source of strength and to nurture  networks  and  connections  across  student  cohorts  in  the  academic  and  social environments on campus.
+Providing Assistance for Under-Represented and First-Generation Students The University will improve support systems that enhance the learning experience and increase the completion rates of students from diverse and under-represented backgrounds. Students from under-privileged socioeconomic environments, minorities and first-generation students face additional challenges to cultivate a sense of belonging within the University community. UM seeks to provide a support infrastructure to develop personal identity as a source of strength and to nurture networks and connections across student cohorts in the academic and social environments on campus.
 
-With regards to outreach the UM already has the Cottonera Resource Centre in place which was set up to act as a bridge between the communities in the inner harbour area and the University of Malta. It seeks to act as a hub that coordinates links between these communities and the University, facilitating resource transfer and capacity building. Discussions are underway with regards to the extension of additional resource centres at other locations around Malta and Gozo.
+With regards to outreach the UM already has the Cottonera Resource Centre in place which was set up to act as a bridge between the communities in the inner harbour area and the University of Malta. It seeks to act as a hub that coordinates links between these communities and the University, facilitating resource transfer and capacity building. Discussions are underway with
 
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
 
-MCAST has a donation system to support students in need. Mentors are instructed to alert any possible  cases  who  might  need  help.  Moreover,  teachers  are  trained  on  stigmatisation, stereotypes and bias as part of the pedagogy.
+regards to the extension of additional resource centres at other locations around Malta and Gozo.
+
+MCAST has a donation system to support students in need. Mentors are instructed to alert any possible cases who might need help. Moreover, teachers are trained on stigmatisation, stereotypes and bias as part of the pedagogy.
 
 -  What  challenges  were  encountered  in  realizing  the  right  to  education  of  students  from  poor households? If needed, brief quantitative information may be added.
 
@@ -1083,7 +1035,7 @@ MCAST has a donation system to support students in need. Mentors are instructed 
 
 #### 2.1 Early childhood care and education
 
-For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explicitly  provided  for  in  the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initi ally recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent  Declaration  and  Commitments  to  Action  for  Transforming  Early  Childhood  Care  and Education 38 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre -primary education'.
+For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education 38. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked):
 
@@ -1091,17 +1043,17 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 
  Prior to pre-primary education, ECCE services are affordable
 
- ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care,
+ ECCE services are accessible on a non-discriminatory basis
 
-nutrition, health, safety, protection, and play.
-
- ECCE services are accessible on a nondiscriminatory basis
+ ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
 - Please elaborate further on the measures taken:
 
 Childcare Services (0-3) fall under the Free Childcare Scheme. This scheme can be currently accessed by parents and guardians who are either in employment or who are furthering their studies. Non-working parents may apply to the state run childcare centres and pay a small  contribution  based  on  their  income.  In  addition,  the  Foundation  for  Educational Services  has  an  MOU  with  the  Foundation  for  Social  Welfare  Services  (FSWS)  where
 
-> 37 Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'. 38 Which commits states to 'Enhance policy and legal frameworks to ensure that the right to education includes ECCE'
+> 37 Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'.
+
+> 38 Which commits states to 'Enhance policy and legal frameworks to ensure that the right to education includes ECCE'
 
 [[END OF PAGE 28]]
 
@@ -1153,7 +1105,7 @@ The supply of professionally trained childcare educators is low when compared to
 
 #### 2.2 Primary and secondary education
 
-For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclus ive, equitable, quality primary and secondary education -of which at least nine years are compulsory.'
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education – of which at least nine years are compulsory.'
 
 ##### Primary education
 
@@ -1191,7 +1143,9 @@ Foundation literacy
 
 Numeracy
 
-Social and emotional learning Others
+Social and emotional learning
+
+Others
 
  Disparity in learning outcomes
 
@@ -1301,7 +1255,7 @@ For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  pr
 
 MCAST offers vocational and professional education and training to more than 7000 full time students. Full time education is offered free-of-charge and programmes are offered at all levels of the Malta Qualifications Framework permitting students to study at whichever level they  can  access  (depending  on  their  previous  education).  MCAST  is  very  active  on international programmes and permits transfer of credits between institutions and also the recognition of prior learning. The MCAST Act, Cap 638 of the Laws of Malta, provides the legal framework for the College's operations.
 
-At  UM, the full entry  requirements as stipulated in the University's  regulations  and byelaws apply for admission to the University of Malta.
+At UM, the full entry requirements as stipulated in the University's regulations and bye-laws apply for admission to the University of Malta.
 
 ##### Recognition of Prior Learning:
 
@@ -1361,8 +1315,6 @@ For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides 
 
 [[START OF PAGE 35]]
 
-- Please elaborate further on the measures taken:
-
  Provision of free of charge learning opportunities
 
  Provision of professional training including reskilling and upskilling programmes
@@ -1374,6 +1326,8 @@ For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides 
  Lifelong learning entitlements including learning accounts, vouchers, etc.
 
  Other:
+
+- Please elaborate further on the measures taken:
 
 ##### Lifelong Learning
 
@@ -1403,7 +1357,7 @@ https://www.um.edu.mt/services/health-wellness/sas/
 
 To provide prospective and current students of the University of Malta with career-related information and advice to help them make informed decisions about their career paths and courses of study within the local context.
 
-Thsii s done through the  provision of information and advisory services at the University and at Junior College while keeping in constant contact with various stakeholders.  Services are also offered to schools, particularly those at the post-secondary level to ensure that prospective students have updated information about entry to UM.
+This is done through the provision of information and advisory services at the University and at Junior College while keeping in constant contact with various stakeholders. Services are also offered to schools, particularly those at the post-secondary level to ensure that prospective students have updated information about entry to UM.
 
 Our services also operate in close liaison with all Faculties, Institutes, Centres and Schools at UM, as well as with the Health & Wellness Centre, the Admissions & Records Office and other sections within the Office of the Registrar.
 
@@ -1427,7 +1381,7 @@ https://www.um.edu.mt/clas/
 
 The Centre for the Liberal Arts and Sciences (CLAS) was established by the Council of the University in February 2014 with the main remit of designing, coordinating, evaluating and promoting the University's new flagship Programme in the Liberal Arts and Sciences (PLAS).
 
-As the administrative hub of PLAS, the Centre seeks to provide high-quality, learner-focused administrative assistance to students enrolled in the Programme. The Centre contributes to the University's ongoing public outreach initiative, while promoting fur ther interdisciplinary  collaboration  within  the  University  and  through  its  engagement  with specialists outside academia. The Programme in the Liberal Arts and Sciences offers a broad range of 'stand alone' study -units in areas such as archaeology, history, literature, culture, conservation, philosophy, economics, public policy, migration, music, biology, medicine, earth  systems,  marketing,  art,  astronomy,  sociology,  politics,  winemaking,  chemistry, architecture, law, photography, and more.
+As the administrative hub of PLAS, the Centre seeks to provide high-quality, learner-focused administrative assistance to students enrolled in the Programme. The Centre contributes to the University's ongoing public outreach initiative, while promoting further interdisciplinary collaboration within the University and through its engagement with specialists outside academia. The Programme in the Liberal Arts and Sciences offers a broad range of 'stand alone' study-units in areas such as archaeology, history, literature, culture, conservation, philosophy, economics, public policy, migration, music, biology, medicine, earth systems, marketing, art, astronomy, sociology, politics, winemaking, chemistry, architecture, law, photography, and more.
 
 [[END OF PAGE 36]]
 
@@ -1459,7 +1413,7 @@ Malta's near-full employment, coupled with cultural norms that place less emphas
 
 ### 3. Quality education provision and learning environment
 
-For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends state s to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
+For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
 
 #### 3.1 General measures
 
@@ -1489,7 +1443,7 @@ For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommenda
 
 You may include information on policies, protocols or codes of conduct.
 
-- A Quality Assurance Framework for Education in Malta (0-16)
+A Quality Assurance Framework for Education in Malta (0-16)
 
 National Quality Standards (3-16)
 
@@ -1559,19 +1513,19 @@ MCAST offers  initial  teacher  training  that  is  recognised  by  the  Council
 
  Other:
 
+o Low quality educational infrastructure and materials
+
+o High student – teacher ratio
+
 - Please elaborate. Brief quantitative information may be added.
 
 It is hard to attract the young generation to join the profession - the profession is not attractive - due to uncompetitive salaries.
 
 Moreover, there is still a substantial number of educators working in schools who are not qualified pedagogically (supply teachers).
 
-As regards measures to promote diversity in the teaching workforce there is still a lot to be done.  The  teaching  force  is  still  mainly  female  and  all  Maltese  nationals.  Schools  are experiencing an increase in children with migrant background but there are practically no teachers who have a non-Maltese background.
+As regards measures to promote diversity in the teaching workforce there is still a lot to be done. The teaching force is still mainly female and all Maltese nationals. Schools are experiencing an increase in children with migrant background but there are practically no teachers who have a non-Maltese background.
 
 #### 3.3 Respect for human rights and fundamental freedoms
-
-- o Low quality educational infrastructure and materials
-
-- o High student -teacher ratio
 
 [[END OF PAGE 39]]
 
@@ -1671,13 +1625,13 @@ Digital education is both an opportunity for enhancing access but also can lead 
 
 Please indicate the relevant text and provisions:
 
-The Directorate for Digital Literacy and Transversal Skills (DDLTS) within MEYR is  legallybound exclusively by the stipulations outlined in Chapter 605 of the Education Act, accessible here: https://legislation.mt/eli/cap/605/eng
+The Directorate for Digital Literacy and Transversal Skills (DDLTS) within MEYR is legally bound exclusively by the stipulations outlined in Chapter 605 of the Education Act, accessible here: https://legislation.mt/eli/cap/605/eng
 
  Core legislations, policies, strategies or plans for the management, privacy, security, storage, transfer, use, and sharing of education data internally and externally to ensure the right to privacy of learners and education stakeholders (e.g., informed consent, transparent usage policies, etc.)
 
  Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.
 
- Measures to remove barriers to accessing digital content 45 , including ensuring access to curriculumaligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
+ Measures to remove barriers to accessing digital content 45, including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
 
  Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a  culture  of  digital  innovation  and  growth  anchored  in  equity  and  inclusion  that  enables  ongoing professional development for existing and emerging staff.
 
@@ -1695,115 +1649,27 @@ The Directorate for Digital Literacy and Transversal Skills (DDLTS) within MEYR 
 
 [[START OF PAGE 43]]
 
-> 46 Lack of internet connection, basic infrastructure or devices.
-
 - Please elaborate on each of the measures taken:
 
-•
+• Core legislations, policies, strategies or plans for the management, privacy, security, storage, transfer, use, and sharing of education data internally and externally to ensure the right to privacy of learners and education stakeholders (e.g., informed consent, transparent usage policies, etc.)
 
-Core  legislations,  policies,  strategies  or  plans  for  the  management,  privacy,  security,
+DDLTS is legally bound by the GDPR law, which guarantees the management, privacy, security, storage, transfer, and usage of educational data, both internally and externally, to safeguard the privacy rights of learners and education stakeholders.
 
-storage, transfer, use, and sharing of education data internally and externally to ensure
+• Measures to remove barriers to accessing digital content 46, including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities
 
-the  right  to  privacy  of  learners  and  education  stakeholders  (e.g.,  informed  consent,
+In recent years, DDLTS provided digital content for primary level through the One Tablet per Child project and additional software such as Brainpop Currently tenders for the provision of digital content have been issued for the new One Device Per Child Project. In both instances, access was provided to all students through devices provided by the Ministry. Furthermore the DDLTS website offers free digital content for student's perusal. Moreover, An AI pilot project which DDLTS is spearheading incorporates specific features aimed at inclusivity, such as reading questions aloud to aid children with low vision and providing visual cues to guide their focus. Additionally, it can amplify sound to assist students with hearing impairments.
 
-transparent usage policies, etc.)
+• Future-ready skills (including digital skills, data and AI competencies, critical thinking, etc.) integrated into formal curriculum at all levels of education
 
-DDLTS  is  legally  bound  by  the  GDPR  law,  which  guarantees  the  management,  privacy,
+Each year, there is an upskilling programme offered to educators at the primary level focusing on emerging technologies. Additionally, the Ministry has plans to offer training sessions for educators at middle and secondary schools covering the implementation of a new classroom management system, the integration of new digital content for key subjects, and a professional development opportunity for educators who will be incorporating the laptops provided to students through the ODPC initiative into their teaching methods. In addition, DDLTS hosts the National eTwinning office that provides a vast array of professional development sessions for educators both at national level and European level.
 
-security, storage, transfer, and usage of educational data, both internally and externally, to
+• Measures address the digital divide, including ensuring access to reliable electricity, meaningful internet connectivity at school and at home, devices suitable for learning and teaching, safe and sustainable software and secure platforms, and integrated education data systems.
 
-safeguard the privacy rights of learners and education stakeholders.
+While school infrastructure is managed by IMU – DDLTS has however already invested in a filter system (Lightspeed) for all tablets in primary level and the Ministry is now initiating the implementation of a new endpoint protection system to enhance student safety while they are online.
 
-•
+• A well-established, sustainable, and cost-effective budget secured from a range of funding sources and intersectoral cooperation, supported by impact focused reporting linked to regional strategic goals.
 
-Measures to remove barriers to accessing digital content
-
-46
-
-, including ensuring access to
-
-curriculum-aligned  digital
-
-content  available
-
-on  free,
-
-public,  multi-modal  national
-
-platforms; high-quality content is available in core subjects, official national language(s),
-
-and designed with inclusive features to assist learners with disabilities
-
-In recent years, DDLTS provided digital content for primary level through the One Tablet
-
-per  Child  project  and  additional  software  such  as  Brainpop    Currently  tenders  for  the
-
-provision of digital content have been issued for the new One Device Per Child Project. In
-
-both  instances,  access  was  provided  to  all  students  through  devices  provided  by  the
-
-Ministry. Furthermore the DDLTS website offers free digital content for student's perusal.
-
-Moreover, An AI pilot project which DDLTS is spearheading incorporates specific features
-
-aimed at inclusivity, such as reading questions aloud to aid children with low vision and
-
-providing  visual  cues  to  guide  their  focus.  Additionally,  it  can  amplify  sound  to  assist
-
-students with hearing impairments.
-
-•
-
-Future-ready  skills  (including  digital  skills,  data  and  AI  competencies,  critical  thinking,
-
-etc.) integrated into formal curriculum at all levels of education
-
-Each  year,  there  is  an  upskilling  programme  offered  to  educators  at  the  primary  level
-
-focusing on emerging technologies. Additionally, the Ministry has plans to offer training
-
-sessions for educators at middle and secondary schools covering the implementation of a
-
-new classroom management system, the integration of new digital content for key subjects,
-
-and a professional development opportunity for educators who will be incorporating the
-
-laptops provided to students through the ODPC initiative into their teaching methods. In
-
-addition,  DDLTS  hosts  the  National  eTwinning  office  that  provides  a  vast  array  of
-
-professional development sessions for educators both at national level and European level.
-
-•
-
-Measures  address  the  digital  divide,  including  ensuring  access  to  reliable  electricity,
-
-meaningful internet connectivity at school and at home, devices suitable for learning and
-
-teaching, safe and sustainable software and secure platforms, and integrated education
-
-data systems.
-
-While school infrastructure is managed by IMU
-
--
-
-DDLTS has however already invested in a
-
-filter system (Lightspeed) for all tablets in primary level and the Ministry is now initiating
-
-the implementation of a new endpoint protection system to enhance student safety while
-
-they are online.
-
-•
-
-A  well-established,  sustainable,  and  cost-effective  budget  secured  from  a  range  of
-
-funding sources and intersectoral cooperation, supported by impact focused reporting
-
-linked to regional strategic goals.
+> 46 Lack of internet connection, basic infrastructure or devices.
 
 [[END OF PAGE 43]]
 
@@ -1817,13 +1683,9 @@ Funding for these initiatives is sourced from both national funds and EU funding
 
  Lack of equity and inclusion in digital learning solutions
 
- inadequate safety measures and IT
+ inadequate safety measures and IT support to respond to issues of child online safety or reduce cyber security risks
 
-- support to respond to issues of child online safety or reduce cyber security risks
-
-
-
-Other:
+ Other:
 
  Limited access to internet and/or electricity
 
@@ -1840,7 +1702,6 @@ Other:
 - Please elaborate. Brief quantitative information may be added.
 
 • Inadequate safety measures and IT support to respond to issues of child online safety or reduce cyber security risks is made more difficult with children's adeptness at finding loopholes in existing structures.
----
 • At times, sustaining funding for digital education solutions on a national scale can prove challenging due to occasional instances where schools may choose to self-finance or order in a careless manner.
 • Secondary schools have expressed concerns regarding limited access to hardware such as devices and chargers.
 • At times, achieving proficiency in the meaningful integration of digital technology into teaching practice can be challenging, as some educators may encounter difficulty in applying these skills effectively
@@ -1851,7 +1712,7 @@ Other:
 
 ### 4 Strengthening governance systems
 
-For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing  procedures  and mechanisms;  and institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and  accessible  data  are available' (para. 18).
+For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for effective education outcomes, governments should strengthen education systems by instituting and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional management arrangements, as well as ensure that robust, timely and accessible data are available" (para. 18).
 
 - Please indicate the measures taken in terms of governance (several items may be ticked):
 
@@ -1891,13 +1752,13 @@ RSIRU evaluates the School Development Plans in order to ensure that the actions
 
 [[START OF PAGE 46]]
 
- P oor dialogue with teachers' trade unions
+ Poor dialogue with teachers' trade unions
 
  Other:
 
 - Please elaborate. Brief quantitative information may be added.
 
-## Methods used to draw the attention of the various authorities in the country to the instruments
+## III. Methods used to draw the attention of the various authorities in the country to the instruments
 
 For reference: UNESCO governing bodies have underlined the need for awareness raising. Given the importance of normative action at the national level, wide dissemination of the Convention must be ensured, with the support of National Commissions for UNESCO.
 
