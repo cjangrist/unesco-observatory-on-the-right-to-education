@@ -1,11 +1,5 @@
 [[START OF PAGE 1]]
 
-### Article 1
-
-Ukraine is a sovereign and independent, democratic, social, law-based state.
-
-### Article 2
-
 # CONSTITUTION OF UKRAINE
 
 Adopted at the Fifth Session of the Verkhovna Rada of Ukraine on June 28, 1996 Amended by the Laws of Ukraine № 2222-IV dated December 8, 2004, № 2952-VI dated February 1, 2011, № 586-VII dated September 19, 2013, № 742-VII dated February 21, 2014, № 1401-VIII dated June 2, 2016
@@ -29,6 +23,12 @@ guided by the Act of Declaration of the Independence of Ukraine of August  24, 1
 adopts this Constitution - the Fundamental Law of Ukraine.
 
 ## Chapter I General Principles
+
+### Article 1
+
+Ukraine is a sovereign and independent, democratic, social, law-based state.
+
+### Article 2
 
 [[END OF PAGE 1]]
 
@@ -186,7 +186,7 @@ The  Great State Coat of Arms  of  Ukraine  shall be established with the consid
 
 The main element of the Great State Coat of Arms of Ukraine is the Emblem of the Royal State of Volodymyr the Great (the Small State Coat of Arms of Ukraine).
 
-The  State  Anthem  of  Ukraine  is  the  national  anthem  set  to  the  music  of  M. Verbytskyi, with words that are confirmed by the law adopted by no less than twothirds of the constitutional composition of the Verkhovna Rada of Ukraine.
+The  State  Anthem  of  Ukraine  is  the  national  anthem  set  to  the  music  of  M. Verbytskyi, with words that are confirmed by the law adopted by no less than two-thirds of the constitutional composition of the Verkhovna Rada of Ukraine.
 
 The description of  the  state  symbols  of  Ukraine  and  the  procedure  for  their  use shall  be  established  by  the  law  adopted  by  no  less  than  two-thirds  of  the constitutional composition of the Verkhovna Rada of Ukraine.
 
@@ -354,7 +354,7 @@ The prohibition of the activity of associations of citizens is exercised only th
 
 ### Article 38
 
-Citizens have the right to participate in the administration of state affairs, in AllUkrainian and local referendums, to freely elect and to be elected to bodies of state power and bodies of local self-government.
+Citizens have the right to participate in the administration of state affairs, in All-Ukrainian and local referendums, to freely elect and to be elected to bodies of state power and bodies of local self-government.
 
 Citizens enjoy the equal right of access to the civil service and to service in bodies of local self-government.
 
@@ -544,7 +544,7 @@ Everyone has the right to protect his or her rights and freedoms from violations
 
 ### Article 56
 
-Everyone has the right to compensation, at the expense of the State or bodies of local  self-government,  for  material  and  moral  damages  inflicted  by  unlawful decisions,  actions  or  omission  of  bodies  of  state  power,  bodies  of  local  selfgovernment, their officials and officers during the exercise of their authority.
+Everyone has the right to compensation, at the expense of the State or bodies of local  self-government,  for  material  and  moral  damages  inflicted  by  unlawful decisions,  actions  or  omission  of  bodies  of  state  power,  bodies  of  local  self-government, their officials and officers during the exercise of their authority.
 
 ### Article 57
 
@@ -606,7 +606,7 @@ A convicted  person  enjoys  all  human  and  citizens'  rights,  with  the  exc
 
 Constitutional  human  and  citizen's  rights  and  freedoms  shall  not  be  restricted, except in cases envisaged by the Constitution of Ukraine.
 
-Under conditions of martial law or a state of emergency, specific restrictions on rights and freedoms may be established with the indication of the period of effect of these restrictions. The rights and freedoms envisaged in Articles 24, 25, 2 7, 28, 29, 40, 47, 51, 52, 55, 56, 57, 58, 59, 60, 61, 62 and 63 of this Constitution shall not be restricted.
+Under conditions of martial law or a state of emergency, specific restrictions on rights and freedoms may be established with the indication of the period of effect of these restrictions. The rights and freedoms envisaged in Articles 24, 25, 27, 28, 29, 40, 47, 51, 52, 55, 56, 57, 58, 59, 60, 61, 62 and 63 of this Constitution shall not be restricted.
 
 ### Article 65
 
@@ -660,7 +660,7 @@ An All-Ukrainian referendum is called on popular initiative on the request of no
 
 ### Article 73
 
-Altering  the  territory  of  Ukraine  IS  resolved  exclusively  by  an  All-Ukrainian referendum.
+Altering  the  territory  of  Ukraine  is  resolved  exclusively  by  an  All-Ukrainian referendum.
 
 [[END OF PAGE 20]]
 
@@ -834,13 +834,13 @@ The authority of the Verkhovna Rada of Ukraine include:
 
 7) calling  elections of  the  President of  Ukraine  within  the  terms  specified  in this Constitution;
 
-- hearing annual and special messages of the President of Ukraine on the internal and external situation of Ukraine;
+8) hearing annual and special messages of the President of Ukraine on the internal and external situation of Ukraine;
 
-- declaring war upon the submission by the President of Ukraine and concluding peace; approving a decision by the President of Ukraine on the use of the Armed Forces of  Ukraine  and  other  military  units  in  the  event of  armed  aggression against Ukraine;
+9) declaring war upon the submission by the President of Ukraine and concluding peace; approving a decision by the President of Ukraine on the use of the Armed Forces of  Ukraine  and  other  military  units  in  the  event of  armed  aggression against Ukraine;
 
-- removing  the  President  of  Ukraine  from  office  under  a  special  procedure (impeachment) as provided for in Article 111 of this Constitution;
+10) removing  the  President  of  Ukraine  from  office  under  a  special  procedure (impeachment) as provided for in Article 111 of this Constitution;
 
-- considering and adopting a decision in regard to the approval of the Programme of Activity of the Cabinet of Ministers of Ukraine;
+11) considering and adopting a decision in regard to the approval of the Programme of Activity of the Cabinet of Ministers of Ukraine;
 
 12) appointing to office  -  upon the submission  by  the  President of  Ukraine  -  the Prime  Minister of  Ukraine,  the  Minister of  Defence of  Ukraine,  the  Minister of Foreign  Affairs of  Ukraine;  appointing  to  office  -  upon  the  submission  by  the Prime Minister of Ukraine - other members of the Cabinet of Ministers of Ukraine, the Chairperson of the Antimonopoly Committee of Ukraine, the Head of the State Committee on Television and Radio Broadcasting of Ukraine, and the Head of the State  Property  Fund of  Ukraine;  dismissing  from  office  the  officials  mentioned above;  deciding  on  the  resignation of  the  Prime  Minister of  Ukraine  and of members of the Cabinet of Ministers of Ukraine;
 
@@ -848,7 +848,7 @@ The authority of the Verkhovna Rada of Ukraine include:
 
 [[START OF PAGE 27]]
 
-12 1 ) appointing to office and dismissing from office - upon the submission by the President of Ukraine - the Head of the Security Service of Ukraine;
+12¹) appointing to office and dismissing from office - upon the submission by the President of Ukraine - the Head of the Security Service of Ukraine;
 
 13) exercising  control  over  activities of  the  Cabinet of  Ministers of  Ukraine,  in accordance with this Constitution and law;
 
@@ -932,13 +932,13 @@ The Chairperson of the Verkhovna Rada of Ukraine:
 
 [[START OF PAGE 30]]
 
-- presides at meetings of the Verkhovna Rada of Ukraine;
+1) presides at meetings of the Verkhovna Rada of Ukraine;
 
 2) organises work of the Verkhovna Rada of Ukraine and co-ordinates activities of its bodies;
 
-- signs acts adopted by the Verkhovna Rada of Ukraine;
+3) signs acts adopted by the Verkhovna Rada of Ukraine;
 
-- represents  the  Verkhovna  Rada  of  Ukraine  in  relations  with  other  bodies of state power of Ukraine and with the bodies of power of other states;
+4) represents  the  Verkhovna  Rada  of  Ukraine  in  relations  with  other  bodies of state power of Ukraine and with the bodies of power of other states;
 
 5) organises the work of the staff of the Verkhovna Rada of Ukraine.
 
@@ -966,11 +966,11 @@ The authority of the Verkhovna Rada of Ukraine is terminated on the day of the o
 
 The President of Ukraine may terminate the authority of the Verkhovna Rada of Ukraine prior to the expiration of term, in case of:
 
-- failure  to  form  within  one  month  a  coalition of  parliamentary  factions  in  the Verkhovna Rada of Ukraine as provided for in Article 83 of this Constitution;
+1) failure  to  form  within  one  month  a  coalition of  parliamentary  factions  in  the Verkhovna Rada of Ukraine as provided for in Article 83 of this Constitution;
 
-- failure, within sixty days following the resignation of the Cabinet of Ministers of Ukraine, to form the personal composition of the Cabinet of Ministers of Ukraine;
+2) failure, within sixty days following the resignation of the Cabinet of Ministers of Ukraine, to form the personal composition of the Cabinet of Ministers of Ukraine;
 
-- failure of the Verkhovna Rada of Ukraine, within thirty days of a single regular session, to commence its plenary meetings.
+3) failure of the Verkhovna Rada of Ukraine, within thirty days of a single regular session, to commence its plenary meetings.
 
 The  early  termination of  powers of  the  Verkhovna  Rada  of  Ukraine  shall  be decided  by  the  President  of  Ukraine  following  relevant  consultations  with  the Chairperson,  Deputy  Chairpersons of  the  Verkhovna  Rada  of  Ukraine  and  with Chairpersons of Verkhovna Rada parliamentary factions.
 
@@ -986,13 +986,13 @@ The  Verkhovna  Rada  of  Ukraine  adopts  laws,  resolutions  and  other  acts 
 
 The following are determined exclusively by the laws of Ukraine:
 
-- human  and  citizen's  rights  and  freedoms,  the  guarantees  of  these  rights  and freedoms; the main duties of the citizen;
+1) human  and  citizen's  rights  and  freedoms,  the  guarantees  of  these  rights  and freedoms; the main duties of the citizen;
 
-- citizenship,  legal  capacity  of  citizens,  the  status  of  foreigners  and  stateless persons;
+2) citizenship,  legal  capacity  of  citizens,  the  status  of  foreigners  and  stateless persons;
 
-- the rights of indigenous peoples and national minorities;
+3) the rights of indigenous peoples and national minorities;
 
-- the procedure for the use of languages;
+4) the procedure for the use of languages;
 
 [[END OF PAGE 31]]
 
@@ -1000,33 +1000,33 @@ The following are determined exclusively by the laws of Ukraine:
 
 5) the principles of the use of natural resources, the exclusive (maritime) economic zone and the continental shelf, the exploration of outer space, the organisation and operation of power supply systems, transportation and communications;
 
-- the fundamentals of social protection, the forms and types of pension provision; the principles of the regulation of labour and employment, marriage, family, the protection  of  childhood,  motherhood  and  fatherhood;  upbringing,  education, culture and health care; ecological safety;
+6) the fundamentals of social protection, the forms and types of pension provision; the principles of the regulation of labour and employment, marriage, family, the protection  of  childhood,  motherhood  and  fatherhood;  upbringing,  education, culture and health care; ecological safety;
 
 7) the legal regime of property;
 
-- the legal principles and guarantees of entrepreneurship; the rules of competition and the norms of antimonopoly regulation;
+8) the legal principles and guarantees of entrepreneurship; the rules of competition and the norms of antimonopoly regulation;
 
-- the principles of foreign relations, foreign economic activity and customs;
+9) the principles of foreign relations, foreign economic activity and customs;
 
-- the principles of the regulation of demographic and migration processes;
+10) the principles of the regulation of demographic and migration processes;
 
-- the  principles  of  the  establishment  and  activity  of  political  parties,  other associations of citizens, and the mass media;
+11) the  principles  of  the  establishment  and  activity  of  political  parties,  other associations of citizens, and the mass media;
 
-- the organisation and activity of bodies of executive power, the fundamentals of civil service, the organisation of state statistics and informatics;
+12) the organisation and activity of bodies of executive power, the fundamentals of civil service, the organisation of state statistics and informatics;
 
-- the territorial structure of Ukraine;
+13) the territorial structure of Ukraine;
 
-- the  judiciary,  the  judicial  proceedings,  the  status of  judges;  the  principles of judicial expertise; the organisation and operation of the prosecution, the notary, the bodies  of pre-trial  investigation,  the  bodies  and  institutions  for  the  execution of punishments; the procedure for enforcement of the court decisions; the fundamentals of the organisation and functioning of the bar;
+14) the  judiciary,  the  judicial  proceedings,  the  status of  judges;  the  principles of judicial expertise; the organisation and operation of the prosecution, the notary, the bodies  of pre-trial  investigation,  the  bodies  and  institutions  for  the  execution of punishments; the procedure for enforcement of the court decisions; the fundamentals of the organisation and functioning of the bar;
 
-- the principles of local self-government;
+15) the principles of local self-government;
 
-- the status of the capital of Ukraine; the special status of other cities;
+16) the status of the capital of Ukraine; the special status of other cities;
 
-- the fundamentals of national security, the organisation of the Armed Forces of Ukraine and ensuring public order;
+17) the fundamentals of national security, the organisation of the Armed Forces of Ukraine and ensuring public order;
 
-- the legal regime of the state border;
+18) the legal regime of the state border;
 
-- the  legal  regime  of  martial  law  and  a  state  of  emergency,  zones  of  an ecological emergency situation;
+19) the  legal  regime  of  martial  law  and  a  state  of  emergency,  zones  of  an ecological emergency situation;
 
 20) the organisation and procedure for conducting elections and referendums;
 
@@ -1048,7 +1048,7 @@ The following are established exclusively by the laws of Ukraine:
 
 4) the procedure for the use and protection of state symbols;
 
-- state awards;
+5) state awards;
 
 6) military ranks, diplomatic and other special ranks;
 
@@ -1132,6 +1132,8 @@ The Authorised Human Rights Representative of the Verkhovna Rada of Ukraine exer
 
 [[START OF PAGE 36]]
 
+## Chapter V President of Ukraine
+
 ### Article 102
 
 The President of Ukraine is the Head of State and acts in its name.
@@ -1157,8 +1159,6 @@ The procedure for conducting elections of the President of Ukraine is establishe
 The newly-elected President of Ukraine assumes office no later than in thirty days after the official announcement of the election results, from the moment of taking the oath to the people at a solemn meeting of the Verkhovna Rada of Ukraine.
 
 The Chairman of the Constitutional Court of Ukraine administers the oath to the President of Ukraine.
-
-## Chapter V President of Ukraine
 
 [[END OF PAGE 36]]
 
@@ -1230,7 +1230,7 @@ The President of Ukraine:
 
 20) adopts  a  decision  in  accordance  with  the  law  on  the  general  or  partial mobilisation  and  the  introduction of  martial  law  in Ukraine  or  in  its  particular areas,  in  the  event of  a  threat of  aggression,  danger  to  the  state  independence of Ukraine;
 
-21) adopts  a  decision,  in  the  event of  necessity,  on  the  introduction of  a  state of emergency in Ukraine or in its particular areas, and also, in the event of necessity, declares certain areas of Ukraine as zones of an ecological emergency situation with subsequent  confirmation of  these  decisions  by  the  Verkhovna  Rada of Ukraine;
+21) adopts  a  decision,  in  the  event of  necessity,  on  the  introduction of  a  state of emergency in Ukraine or in its particular areas, and also, in the event of necessity, declares certain areas of Ukraine as zones of an ecological emergency situation - with subsequent  confirmation of  these  decisions  by  the  Verkhovna  Rada of Ukraine;
 
 22) appoints to office one-third of the composition to the Constitutional Court of Ukraine;
 
@@ -1286,13 +1286,13 @@ The  President  of  Ukraine  exercises  his  or  her  authority  until  the  ass
 
 The authority of the President of Ukraine are early terminated in cases of:
 
-- resignation;
+1) resignation;
 
-- inability to exercise his or her powers for reasons of health;
+2) inability to exercise his or her powers for reasons of health;
 
-- removal from office by the procedure of impeachment;
+3) removal from office by the procedure of impeachment;
 
-- death.
+4) death.
 
 [[END OF PAGE 40]]
 
@@ -1304,7 +1304,7 @@ The resignation of the President of Ukraine enters into force from the moment he
 
 ### Article 110
 
-The inability of the President of Ukraine to exercise his or her authority for reasons of health shall be determined at a meeting of the Verkhovna Rada of Ukraine and confirmed by a decision adopted by the majority of its constitutional composition on the basis of a petition of the Supreme Court - on the appeal of the Verkhovna Rada of Ukraine, and a medical opinion.
+The inability of the President of Ukraine to exercise his or her authority for reasons of health shall be determined at a meeting of the Verkhovna Rada of Ukraine and confirmed by a decision adopted by the majority of its constitutional composition on the basis of a petition of the Supreme Court – on the appeal of the Verkhovna Rada of Ukraine, and a medical opinion.
 
 ### Article 111
 
@@ -1316,7 +1316,7 @@ To conduct the investigation, the Verkhovna Rada of Ukraine establishes a specia
 
 The  conclusions  and  proposals  of  the  temporary  investigatory  commission  are considered at a meeting of the Verkhovna Rada of Ukraine.
 
-Where there are grounds, the Verkhovna Rada of Ukraine, by no less than twothirds of its constitutional composition, adopts a decision on the accusation of the President of Ukraine.
+Where there are grounds, the Verkhovna Rada of Ukraine, by no less than two-thirds of its constitutional composition, adopts a decision on the accusation of the President of Ukraine.
 
 The  decision  on  the  removal  of  the  President  of  Ukraine  from  office  by  the procedure of impeachment is adopted by the Verkhovna Rada of Ukraine by no less  than  three-quarters  of  its  constitutional  composition,  after  the  review  of  the case by the Constitutional Court of Ukraine and the receipt of its opinion on the observance of the constitutional procedure of investigation and consideration of the case of impeachment, and the receipt of the opinion of the Supreme Court that the acts,  of  which  the  President  of  Ukraine  is  accused,  contain  elements  of  state treason or other crime.
 
@@ -1390,9 +1390,9 @@ The Cabinet of Ministers of Ukraine:
 
 9)  directs  and  co-ordinates  the  operation  of  ministries  and  other  bodies  of executive power;
 
-9 1 ) sets  up,  re-organises,  and  liquidates,  in  accordance  with  law,  ministries  and other central bodies of executive power, acting within the limits of funds allocated for the maintenance of bodies of executive power;
+9¹) sets  up,  re-organises,  and  liquidates,  in  accordance  with  law,  ministries  and other central bodies of executive power, acting within the limits of funds allocated for the maintenance of bodies of executive power;
 
-9 2 ) appoints to office and dismisses from office, upon the submission of the Prime Minister of  Ukraine,  the  heads of  central  bodies of  executive  power  who  are  not members of the Cabinet of Ministers of Ukraine;
+9²) appoints to office and dismisses from office, upon the submission of the Prime Minister of  Ukraine,  the  heads of  central  bodies of  executive  power  who  are  not members of the Cabinet of Ministers of Ukraine;
 
 10)  performs  other  functions  determined  by  the  Constitution  and  the  laws  of Ukraine.
 
@@ -1442,15 +1442,15 @@ Local state administrations on their respective territory ensure:
 
 [[START OF PAGE 46]]
 
-- the  implementation  of  national  and  regional  programmes  for  social  and economic  and  cultural  development,  programmes  for  environmental  protection, and  also  -  in  places  of  compact  residence  of  indigenous  peoples  and  national minorities - also programmes for their national and cultural development;
+3) the  implementation  of  national  and  regional  programmes  for  social  and economic  and  cultural  development,  programmes  for  environmental  protection, and  also  -  in  places  of  compact  residence  of  indigenous  peoples  and  national minorities - also programmes for their national and cultural development;
 
-- the preparation and implementation of respective oblast and district budgets;
+4) the preparation and implementation of respective oblast and district budgets;
 
-- the report on the implementation of respective budgets and programmes;
+5) the report on the implementation of respective budgets and programmes;
 
-- interaction with bodies of local self-government;
+6) interaction with bodies of local self-government;
 
-- the realisation of other authorities vested by the state and also delegated by the respective councils.
+7) the realisation of other authorities vested by the state and also delegated by the respective councils.
 
 ### Article 120
 
@@ -1458,7 +1458,7 @@ Members of the Cabinet of Ministers of Ukraine and chief officials of central an
 
 The organisation, authority and operational procedure of the Cabinet of Ministers of Ukraine, and other central and local bodies of executive power, are determined by the Constitution and the laws of Ukraine.
 
-## Chapter VII 'Prosecution Office' excluded under the Law of Ukraine No.1401-VIII dated June 2, 2016
+## Chapter VII “Prosecution Office” excluded under the Law of Ukraine No.1401-VIII dated June 2, 2016
 
 ## Chapter VIII Justice
 
@@ -1508,33 +1508,33 @@ Judge holds an office for an unlimited term.
 
 The grounds to dismiss a judge are the following:
 
-- inability to exercise his or her authority for health reasons;
+1) inability to exercise his or her authority for health reasons;
 
-- violation by a judge of the incompatibility requirements;
+2) violation by a judge of the incompatibility requirements;
 
 [[END OF PAGE 47]]
 
 [[START OF PAGE 48]]
 
-- commission  by  him  or  her of  a  serious  disciplinary  offence,  flagrant  or permanent disregard of his or her duties incompatible with the status of judge or reveal his or her non-conformity with being in the office;
+3) commission  by  him  or  her of  a  serious  disciplinary  offence,  flagrant  or permanent disregard of his or her duties incompatible with the status of judge or reveal his or her non-conformity with being in the office;
 
-- submission of a statement of resignation or voluntary dismissal from office;
+4) submission of a statement of resignation or voluntary dismissal from office;
 
-- refusal  to  be  removed  from  one  court  to  another  in  case  the  court  in  which  a judge holds the office is to be dissolved or reorganised;
+5) refusal  to  be  removed  from  one  court  to  another  in  case  the  court  in  which  a judge holds the office is to be dissolved or reorganised;
 
-- violation of the obligation to justify the legality of the origin of property.
+6) violation of the obligation to justify the legality of the origin of property.
 
 The powers of a judge shall be terminated in case of:
 
-- the judge's attainment of the age of sixty-five;
+1) the judge's attainment of the age of sixty-five;
 
-- termination of Ukraine 's citizenship or acquiring by a judge citizenship of another state;
+2) termination of Ukraine 's citizenship or acquiring by a judge citizenship of another state;
 
-- taking effect of a court decision on recognition or declaration of a judge missing or  dead,  or  on  recognition of  a  judge  to  be  legally  incapable  or  partially  legally incapable;
+3) taking effect of a court decision on recognition or declaration of a judge missing or  dead,  or  on  recognition of  a  judge  to  be  legally  incapable  or  partially  legally incapable;
 
-- death of a judge;
+4) death of a judge;
 
-- taking effect of a guilty verdict against him or her for committing a crime.
+5) taking effect of a guilty verdict against him or her for committing a crime.
 
 The State ensures the personal security of a judge and members of his or her family.
 
@@ -1544,7 +1544,7 @@ Justice is administered by judges. In cases prescribed by law justice is adminis
 
 Judge shall not belong to political parties, trade unions, take part in any political activity,  hold  a  representative  mandate,  occupy  any  other  paid  office,  engage  in other paid work except academic, teaching or creative activity.
 
-A citizen of Ukraine, not younger than the age of thirty and not older than sixtyfive,  who  has  a  higher  legal  education  and  has  professional  experience  in  the sphere of law for no less than five years, is competent, honest and has command of the state language  may  be  appointed  to the office of a judge. Additional requirements to be appointed to the office of a judge may be provided for in the law.
+A citizen of Ukraine, not younger than the age of thirty and not older than sixty-five,  who  has  a  higher  legal  education  and  has  professional  experience  in  the sphere of law for no less than five years, is competent, honest and has command of the state language  may  be  appointed  to the office of a judge. Additional requirements to be appointed to the office of a judge may be provided for in the law.
 
 [[END OF PAGE 48]]
 
@@ -1566,23 +1566,23 @@ While administering justice,  a  judge  is  independent  and  governed  by  the 
 
 The main principles of justice are:
 
-- equality of all participants in a trial before the law and the court;
+1) equality of all participants in a trial before the law and the court;
 
-- ensuring the guilt to be proved;
+2) ensuring the guilt to be proved;
 
 3) adversarial procedure and freedom of the parties to present their evidence to the court and to prove the weight of evidence before the court;
 
-- exercising public prosecution by the prosecutor in court;
+4) exercising public prosecution by the prosecutor in court;
 
-- ensuring to an accused the right to defence;
+5) ensuring to an accused the right to defence;
 
-- openness of a trial and its complete recording by technical means;
+6) openness of a trial and its complete recording by technical means;
 
-- reasonable time of case consideration by a court;
+7) reasonable time of case consideration by a court;
 
 8) ensuring  the  right  to  appeal  and,  in  cases  prescribed  by  law,  the  right  to cassation of court decision;
 
-- the legally binding nature of a court decision.
+9) the legally binding nature of a court decision.
 
 Other principles of justice can be determined by law.
 
@@ -1594,7 +1594,7 @@ Justice  is  administered  by  a  single  judge,  by  a  panel of  judges,  or  
 
 Persons found guilty of contempt of court or against a judge shall be held legally liable".
 
-### Article 129 1
+### Article 129¹
 
 A court renders the decision in the name of Ukraine. The court decision is legally binding and is to be enforced.
 
@@ -1610,7 +1610,7 @@ Expenditures  for  the  maintenance of  courts  are  allocated  separately  in  
 
 Remuneration of judges is defined by the law on judiciary.
 
-### Article 130 1
+### Article 130¹
 
 Judicial self-governance operates pursuant to the law protecting professional interests of judges and deciding internal activity of the courts.
 
@@ -1618,25 +1618,25 @@ Judicial self-governance operates pursuant to the law protecting professional in
 
 In Ukraine, the High Council of Justice functions which:
 
-- presents submission for the appointment of a judge to office;
+1) presents submission for the appointment of a judge to office;
 
-- decides  on  the  violation  by  a  judge  or  a  prosecutor of  the  incompatibility requirements;
+2) decides  on  the  violation  by  a  judge  or  a  prosecutor of  the  incompatibility requirements;
 
-- reviews  complaints  on  decisions of  the  relevant  body  imposing  disciplinary liability on a judge or a prosecutor;
+3) reviews  complaints  on  decisions of  the  relevant  body  imposing  disciplinary liability on a judge or a prosecutor;
 
-- decides on dismissal of a judge from office;
+4) decides on dismissal of a judge from office;
 
-- grants consent for detention of a judge or keeping him or her under custody;
+5) grants consent for detention of a judge or keeping him or her under custody;
 
-- decides on temporal withdrawal of the authority of a judge to administer justice;
+6) decides on temporal withdrawal of the authority of a judge to administer justice;
 
-- takes measures to ensure independence of judges;
+7) takes measures to ensure independence of judges;
 
 [[END OF PAGE 50]]
 
 [[START OF PAGE 51]]
 
-- decides on transfer of a judge;
+8) decides on transfer of a judge;
 
 9) exercises other powers defined by the Constitution and laws of Ukraine.
 
@@ -1658,7 +1658,7 @@ The High Council of Justice is competent if not less than fifteen its members, t
 
 In  the  system of  the judiciary,  according  to  the law,  there  are  established bodies and institutions which provide selection of judges, prosecutors, their professional training,  assessment,  consider  disciplinary  responsibility  cases,  provide  financial and organisational support for the courts.
 
-### Article 131 1
+### Article 131¹
 
 In Ukraine, public prosecutor's office functions which exercises:
 
@@ -1680,7 +1680,7 @@ The term of the office of the Prosecutor General is six years. The same person c
 
 The  Prosecutor  General  is  early  dismissed  from  his  or  her  office  exclusively  in cases and on grounds prescribed by this Constitution and law.
 
-### Article 131 2
+### Article 131²
 
 In Ukraine, the bar is functioning to provide professional legal assistance.
 
@@ -1696,15 +1696,17 @@ Exceptions  for  representation  before  the  court  in  labour  disputes,  soci
 
 [[START OF PAGE 53]]
 
+## Chapter IX Territorial Structure of Ukraine
+
 ### Article 132
 
-The  territorial  structure  of  Ukraine  is  based  on  the  principles  of  unity  and indivisibility of the state territory, the combination of centralisation and decentralisation  in  the  exercise  of  state  power,  and  the  balanced  social  and economic  development  of  regions  with  account  of  their  historical,  economic, ecological, geographical and demographic characteristics, and ethnic and cultural traditions.
+The territorial structure of Ukraine is based on the principles of unity and indivisibility of the state territory, the combination of centralisation and decentralisation in the exercise of state power, and the balanced social and economic development of regions with account of their historical, economic, ecological, geographical and demographic characteristics, and ethnic and cultural traditions.
 
 ### Article 133
 
-The system of the administrative and territorial structure of Ukraine is composed of  the  Autonomous  Republic  of  Crimea,  oblasts,  districts,  cities,  city  districts, settlements and villages.
+The system of the administrative and territorial structure of Ukraine is composed of the Autonomous Republic of Crimea, oblasts, districts, cities, city districts, settlements and villages.
 
-Ukraine is composed of the Autonomous Republic of Crimea, Vinnytsia Oblast, Volyn Oblast, Dnipropetrovsk Oblast, Donetsk Oblast, Zhytomyr Oblast, Zakarpattia  Oblast,  Zaporizhia  Oblast,  Ivano-Frankivsk  Oblast,  Kyiv  Oblast, Kirovohrad Oblast, Luhansk Oblast, Lviv Oblast, Mykolayiv Oblast, Odesa Oblast, Poltava  Oblast,  Rivne  Oblast,  Sumy  Oblast,  Ternopil  Oblast,  Kharkiv  Oblast, Kherson  Oblast,  Khmelnytskyi  Oblast,  Cherkasy  Oblast,  Chernivtsi  Oblast  and Chernihiv Oblast, and the Cities of Kyiv and Sevastopol.
+Ukraine is composed of the Autonomous Republic of Crimea, Vinnytsia Oblast, Volyn Oblast, Dnipropetrovsk Oblast, Donetsk Oblast, Zhytomyr Oblast, Zakarpattia Oblast, Zaporizhia Oblast, Ivano-Frankivsk Oblast, Kyiv Oblast, Kirovohrad Oblast, Luhansk Oblast, Lviv Oblast, Mykolayiv Oblast, Odesa Oblast, Poltava Oblast, Rivne Oblast, Sumy Oblast, Ternopil Oblast, Kharkiv Oblast, Kherson Oblast, Khmelnytskyi Oblast, Cherkasy Oblast, Chernivtsi Oblast and Chernihiv Oblast, and the Cities of Kyiv and Sevastopol.
 
 The Cities of Kyiv and Sevastopol have special status which is determined by the laws of Ukraine.
 
@@ -1712,13 +1714,11 @@ The Cities of Kyiv and Sevastopol have special status which is determined by the
 
 ### Article 134
 
-The Autonomous Republic of Crimea is an inseparable constituent part of Ukraine and  decides  on  the  issues  ascribed  to  its  authority  within  the  limits  of  authority determined by the Constitution of Ukraine.
+The Autonomous Republic of Crimea is an inseparable constituent part of Ukraine and decides on the issues ascribed to its authority within the limits of authority determined by the Constitution of Ukraine.
 
 ### Article 135
 
-The  Autonomous  Republic  of  Crimea  has  the  Constitution  of  the  Autonomous Republic  of  Crimea  that  is  adopted  by  the  Verkhovna  Rada  of  the  Autonomous Republic of Crimea and approved by the Verkhovna Rada of Ukraine by no less than one-half of the constitutional composition of the Verkhovna Rada of Ukraine.
-
-## Chapter IX Territorial Structure of Ukraine
+The Autonomous Republic of Crimea has the Constitution of the Autonomous Republic of Crimea that is adopted by the Verkhovna Rada of the Autonomous Republic of Crimea and approved by the Verkhovna Rada of Ukraine by no less than one-half of the constitutional composition of the Verkhovna Rada of Ukraine.
 
 [[END OF PAGE 53]]
 
@@ -1748,23 +1748,23 @@ The  Autonomous  Republic  of  Crimea  exercises  normative  regulation  on  the
 
 [[START OF PAGE 55]]
 
-- agriculture and forestry;
+1) agriculture and forestry;
 
-- land reclamation and mining;
+2) land reclamation and mining;
 
-- public works, crafts and trades; charity;
+3) public works, crafts and trades; charity;
 
-- city construction and housing management;
+4) city construction and housing management;
 
-- tourism, hotel business, fairs;
+5) tourism, hotel business, fairs;
 
-- museums,  libraries,  theatres, other cultural establishments,  historical  and cultural preserves;
+6) museums, libraries, theatres, other cultural establishments, historical and cultural preserves;
 
-- public transportation, roadways, water supply;
+7) public transportation, roadways, water supply;
 
-- hunting and fishing;
+8) hunting and fishing;
 
-- sanitary and hospital services.
+9) sanitary and hospital services.
 
 For reasons of non-conformity of normative legal acts of the Verkhovna Rada of the Autonomous Republic of Crimea with the Constitution of Ukraine and the laws of  Ukraine,  the  President  of  Ukraine  may  suspend  the  effect  of  these  normative legal  acts  of  the  Verkhovna  Rada  of  the  Autonomous  Republic  of  Crimea  and challenge concurrently their constitutionality at the Constitutional Court of Ukraine.
 
@@ -1772,29 +1772,29 @@ For reasons of non-conformity of normative legal acts of the Verkhovna Rada of t
 
 The competence of the Autonomous Republic of Crimea comprises:
 
-- designating  elections  of  deputies  to  the  Verkhovna  Rada  of  the  Autonomous Republic of Crimea, approving the composition of the electoral commission of the Autonomous Republic of Crimea;
+1) designating elections of deputies to the Verkhovna Rada of the Autonomous Republic of Crimea, approving the composition of the electoral commission of the Autonomous Republic of Crimea;
 
-- organising and conducting local referendums;
+2) organising and conducting local referendums;
 
-- managing property that belongs to the Autonomous Republic of Crimea;
+3) managing property that belongs to the Autonomous Republic of Crimea;
 
-- elaborating,  approving  and  implementing  the  budget  of  the  Autonomous Republic of Crimea on the basis of the uniform tax and budget policy of Ukraine;
+4) elaborating, approving and implementing the budget of the Autonomous Republic of Crimea on the basis of the uniform tax and budget policy of Ukraine;
 
-- elaborating,  approving  and  implementing  programmes  of  the  Autonomous Republic  of  Crimea  for  socio-economic  and  cultural  development,  the  rational environmental  management,  and  environmental  protection  in  accordance  with national programmes;
+5) elaborating, approving and implementing programmes of the Autonomous Republic of Crimea for socio-economic and cultural development, the rational environmental management, and environmental protection in accordance with national programmes;
 
 [[END OF PAGE 55]]
 
 [[START OF PAGE 56]]
 
-- recognising the status of localities as resorts; establishing zones for the sanitary protection of resorts;
+6) recognising the status of localities as resorts; establishing zones for the sanitary protection of resorts;
 
-- participating in ensuring the rights and freedoms of citizens, national harmony, the promotion of the protection of legal order and public security;
+7) participating in ensuring the rights and freedoms of citizens, national harmony, the promotion of the protection of legal order and public security;
 
-- ensuring  the  operation  and  development  of  the  state  language  and  national languages and cultures in the Autonomous Republic of Crimea; protection and use of historical monuments;
+8) ensuring the operation and development of the state language and national languages and cultures in the Autonomous Republic of Crimea; protection and use of historical monuments;
 
-- participating  in  the  development  and  implementation  of state  programmes for the return of deported peoples;
+9) participating in the development and implementation of state programmes for the return of deported peoples;
 
-- initiating  the  introduction  of  a  state  of  emergency  and  the  establishment  of zones of an ecological emergency situation in the Autonomous Republic of Crimea or in its particular areas.
+10) initiating the introduction of a state of emergency and the establishment of zones of an ecological emergency situation in the Autonomous Republic of Crimea or in its particular areas.
 
 Other authoeities may also be delegated to the Autonomous Republic of Crimea by the laws of Ukraine.
 
@@ -1806,7 +1806,7 @@ The Representative Office of the President of Ukraine, which status is determine
 
 ### Article 140
 
-Local  self-government  is  the  right  of  a  territorial  community  -  residents  of  a village or a voluntary association of residents of several villages into one village community, residents  of  a  settlement,  and  of  a  city  -  to  independently  resolve issues  o  f  local  character  within  the  limits  of  the  Constitution  and  the  laws  of Ukraine.
+Local self-government is the right of a territorial community — residents of a village or a voluntary association of residents of several villages into one village community, residents of a settlement, and of a city — to independently resolve issues of local character within the limits of the Constitution and the laws of Ukraine.
 
 Particular aspects of the exercise of local self-government in the Cities of Kyiv and Sevastopol are determined by special laws of Ukraine.
 
@@ -1844,7 +1844,7 @@ The  material  and  financial  basis  for  local  self-government  is  movable  
 
 On  the  basis  of  agreement,  territorial  communities  of  villages,  settlements  and cities  may  join  objects  of  communal  property  as  well  as  budget  funds,  to implement  joint  projects  or  to  jointly  finance  (maintain)  communal  enterprises, organisations  and  establishments,  and  create  appropriate  bodies  and  services  for this purpose.
 
-The  State  participates  in  the  formation  of  revenues  of  the  budget  of  local  selfgovernment and financially supports local self-government. Expenditures of bodies of local self-government, that arise from the decisions of bodies of state power, are compensated by the state.
+The State participates in the formation of revenues of the budget of local self-government and financially supports local self-government. Expenditures of bodies of local self-government, that arise from the decisions of bodies of state power, are compensated by the state.
 
 ### Article 143
 
@@ -1904,7 +1904,7 @@ A judge of the Constitutional Court of Ukraine steps in his or her office as of 
 
 The Constitutional Court of Ukraine elects the Chairman among the judges of the Court at a special plenary sitting of the Court by secret ballot for one three-year term only.
 
-### Article 148 1
+### Article 148¹
 
 The State ensures funding and proper conditions for operation of the Constitutional Court of Ukraine. Expenditures for operation of the Court are allocated separately in the State budget of Ukraine, with account of the proposals of its Chairman.
 
@@ -1926,31 +1926,31 @@ Judge of  the  Constitutional  Court of  Ukraine  may  not  be  held  legally  l
 
 The State ensures the personal security of a judge of the Constitutional Court of Ukraine and members of his or her family.
 
-### Article 149 1
+### Article 149¹
 
 The authority of a judge of the Constitutional Court of Ukraine shall be terminated in case of:
 
-- termination of the term of his or her office;
+1) termination of the term of his or her office;
 
-- his or her attainment of the age of seventy;
+2) his or her attainment of the age of seventy;
 
-- termination of Ukraine's citizenship or acquiring by him or her the citizenship of another state;
+3) termination of Ukraine's citizenship or acquiring by him or her the citizenship of another state;
 
-- taking  effect  of  a  court's  decision  on  recognition  him  or  her  missing  or declaration him or her dead, or on recognition to be legally incapable or partially legally incapable;
+4) taking effect of a court's decision on recognition him or her missing or declaration him or her dead, or on recognition to be legally incapable or partially legally incapable;
 
-- taking effect of a guilty verdict against him or her for committing a crime;
+5) taking effect of a guilty verdict against him or her for committing a crime;
 
-- death of a judge of the Constitutional Court of Ukraine.
+6) death of a judge of the Constitutional Court of Ukraine.
 
 The grounds for dismissal of a judge of the Constitutional Court of Ukraine are the following:
 
-- inability to exercise his or her authority for health reasons;
+1) inability to exercise his or her authority for health reasons;
 
-- violation by him or her of incompatibility requirements;
+2) violation by him or her of incompatibility requirements;
 
-- commission  by  him  or  her  of  a  serious  disciplinary  offence,  flagrant  or permanent disregard of his or her duties which are incompatible with the status of judge of the Court or has proved non-conformity with being in the office;
+3) commission by him or her of a serious disciplinary offence, flagrant or permanent disregard of his or her duties which are incompatible with the status of judge of the Court or has proved non-conformity with being in the office;
 
-- submission by a judge of statement of resignation or of voluntary dismissal from office.
+4) submission by a judge of statement of resignation or of voluntary dismissal from office.
 
 Dismissal of a judge of the Constitutional Court of Ukraine from his or her office is decided by not less than two-thirds of its constitutional composition.
 
@@ -1958,7 +1958,7 @@ Dismissal of a judge of the Constitutional Court of Ukraine from his or her offi
 
 The authority of the Constitutional Court of Ukraine includes:
 
-- deciding on conformity to the Constitution of Ukraine (constitutionality) of:
+1) deciding on conformity to the Constitution of Ukraine (constitutionality) of:
 
 [[END OF PAGE 61]]
 
@@ -1966,11 +1966,11 @@ The authority of the Constitutional Court of Ukraine includes:
 
 laws and other legal acts of the Verkhovna Rada of Ukraine; acts of the President of Ukraine; acts of the Cabinet of Ministers of Ukraine; legal acts of the Verkhovna Rada of the Autonomous Republic of Crimea.
 
-- official interpretation of the Constitution of Ukraine;
+2) official interpretation of the Constitution of Ukraine;
 
 3) exercising other authority defined by the Constitution of Ukraine.
 
-Matters under sub-paragraphs 1, 2 of paragraph one of this Article are considered upon the constitutional petitions of: the President of Ukraine; not less than fortyfive People's Deputies of Ukraine; the Supreme Court; Authorised Human Rights Representative  of  the  Verkhovna  Rada  of  Ukraine;  the  Verkhovna  Rada of  the Autonomous Republic of Crimea.
+Matters under sub-paragraphs 1, 2 of paragraph one of this Article are considered upon the constitutional petitions of: the President of Ukraine; not less than forty-five People's Deputies of Ukraine; the Supreme Court; Authorised Human Rights Representative of the Verkhovna Rada of Ukraine; the Verkhovna Rada of the Autonomous Republic of Crimea.
 
 ### Article 151
 
@@ -1980,11 +1980,11 @@ The Constitutional Court of Ukraine upon submission of the President of Ukraine 
 
 The Constitutional Court of Ukraine upon the submission of the Verkhovna Rada of Ukraine provides an opinion on the observance of the constitutional procedure of  investigation  and  consideration  of  the  case  on  removing  the  President  of Ukraine from office by the impeachment procedure.
 
-### Article 151 1
+### Article 151¹
 
 The Constitutional Court of Ukraine decides on compliance with the Constitution of Ukraine (constitutionality) of a law of Ukraine upon constitutional complaint of a person alleging that the law of Ukraine applied to render a final court decision in his or her case contravenes the Constitution of Ukraine. A constitutional complaint may be lodged after exhaustion of all other domestic legal remedies.
 
-### Article 151 2
+### Article 151²
 
 [[END OF PAGE 62]]
 
@@ -2020,7 +2020,7 @@ A draft law on introducing amendments to the Constitution of Ukraine, with the e
 
 ### Article 156
 
-A  draft  law  on  introducing  amendments  to  Chapter  I  -  "General  Principles," Chapter III -"Elections. Referendum," and Chapter XIII -"Introducing Amendments to the Constitution of Ukraine," is submitted to the Verkhovna Rada of  Ukraine  by  the  President  of  Ukraine,  or  by  no  less  than  two-thirds  of  the constitutional  composition  of  the  Verkhovna  Rada  of  Ukraine,  and  on  the condition  that  it  is  adopted  by  no  less  than  two-thirds  of  the  constitutional composition  of  the  Verkhovna  Rada  of  Ukraine,  and  is  approved  by  an  AllUkrainian referendum designated by the President of Ukraine.
+A draft law on introducing amendments to Chapter I - "General Principles," Chapter III - "Elections. Referendum," and Chapter XIII - "Introducing Amendments to the Constitution of Ukraine," is submitted to the Verkhovna Rada of Ukraine by the President of Ukraine, or by no less than two-thirds of the constitutional composition of the Verkhovna Rada of Ukraine, and on the condition that it is adopted by no less than two-thirds of the constitutional composition of the Verkhovna Rada of Ukraine, and is approved by an All-Ukrainian referendum designated by the President of Ukraine.
 
 The repeat submission of a draft law on introducing amendments to Chapters I, III and  XIII  of  this  Constitution  on  one  and  the  same  issue  is  possible  only  to  the Verkhovna Rada of Ukraine of the next convocation.
 
@@ -2056,15 +2056,15 @@ The day of adoption of the Constitution of Ukraine is a national holiday - the D
 
 ## Chapter XV Transitional Provisions
 
-- Laws and other normative acts, adopted prior to this Constitution entering into force, are in force in the part that does not contradict the Constitution of Ukraine.
+1. Laws and other normative acts, adopted prior to this Constitution entering into force, are in force in the part that does not contradict the Constitution of Ukraine.
 
-- After  the  adoption  of  the  Constitution  of  Ukraine,  the  Verkhovna  Rada  of Ukraine exercises the authority envisaged by this Constitution.
+2. After the adoption of the Constitution of Ukraine, the Verkhovna Rada of Ukraine exercises the authority envisaged by this Constitution.
 
 Regular elections to the Verkhovna Rada of Ukraine are held in March 1998.
 
-- Regular  elections  of  the  President  of  Ukraine  are  held  on  the  last  Sunday  of October 1999.
+3. Regular elections of the President of Ukraine are held on the last Sunday of October 1999.
 
-- The President of Ukraine, within three years after the Constitution of Ukraine enters  into  force,  has  the  right  to  issue  decrees  approved  by  the  Cabinet  of Ministers of  Ukraine  and signed  by  the  Prime-Minister of  Ukraine  on  economic issues not regulated by laws, with simultaneous submission of the respective draft law to the Verkhovna Rada of Ukraine, under the procedure established by Article 93 of this Constitution.
+4. The President of Ukraine, within three years after the Constitution of Ukraine enters into force, has the right to issue decrees approved by the Cabinet of Ministers of Ukraine and signed by the Prime-Minister of Ukraine on economic issues not regulated by laws, with simultaneous submission of the respective draft law to the Verkhovna Rada of Ukraine, under the procedure established by Article 93 of this Constitution.
 
 Such  a  decree  of  the  President  of  Ukraine  takes  effect,  if  within  thirty  calendar days  from  the  day  of  submission  of  the  draft  law  (except  the  days  between sessions), the Verkhovna Rada of Ukraine does not adopt the law or does not reject the  submitted  draft  law  by  the  majority  of  its  constitutional  composition,  and  is effective until a law adopted by the Verkhovna Rada of Ukraine on these issues enters into force.
 
@@ -2104,11 +2104,11 @@ Judges  whose  authority  has  terminated  on  the  day  this  Constitution  ent
 
 14. The use of existing military bases on the territory of Ukraine for the temporary stationing  of  foreign  military  units  is  possible  on  the  terms  of  lease,  by  the procedure  determined  by  the  international  treaties  of  Ukraine  ratified  by  the Verkhovna Rada of Ukraine.
 
-- Regular  elections  of  the  Verkhovna  Rada  of  Ukraine  after  restoration  of provisions of the Constitution of Ukraine in the wording of June 28, 1996 upon the Decision of the Constitutional Court of Ukraine dated September 30, 2010 No. 20rp/2010 in the case on observance of the procedure of introducing amendments to the Constitution of Ukraine are held on the last Sunday of October of 2012.
+15. Regular elections of the Verkhovna Rada of Ukraine after restoration of provisions of the Constitution of Ukraine in the wording of June 28, 1996 upon the Decision of the Constitutional Court of Ukraine dated September 30, 2010 No. 20-rp/2010 in the case on observance of the procedure of introducing amendments to the Constitution of Ukraine are held on the last Sunday of October of 2012.
 
 16. Regular elections of the President of Ukraine after restoration of the provisions of the Constitution of Ukraine in the wording of June 28, 1996 upon the Decision of the Constitutional Court of Ukraine dated September 30, 2010 No. 20-rp/2010 in  the  case  on  observance  of  the  procedure  of  introducing  amendments  to  the Constitution of Ukraine are held on the last Sunday of March of 2015.
 
-16 1 . Upon taking effect of the Law of Ukraine "On Introducing Amendments to the Constitution of Ukraine (as to justice):
+16¹. Upon taking effect of the Law of Ukraine "On Introducing Amendments to the Constitution of Ukraine (as to justice):
 
 1) prior  to  the  establishment  of  the  High  Council  of  Justice (Vyshcha  Rada Pravosuddia) its  authority  is  exercised  by  the  High  Council  of  Justice (Vyshcha Rada  Yustytsii). The  High  Council  of  Justice (Vyshcha  Rada  Pravosuddia) is established  through  reorganising  of  the  High  Council  of  Justice (Vyshcha  Rada Yustytsii). Prior  to  election  (appointment)  of  members  of  the  High  Council  of Justice (Vyshcha  Rada  Pravosuddia) it  is  composed  of  members  of  the  High Council  of  Justice (Vyshcha  Rada  Yustytsii) during  their  term  in  office,  but  no longer  than  by  April  30,  2019.  Election  (appointment)  of  members  of  the  High Council  of  Justice (Vyshcha  Rada  Pravosuddia) is conducted  not  later  than  by April 30, 2019;
 
@@ -2116,29 +2116,29 @@ Judges  whose  authority  has  terminated  on  the  day  this  Constitution  ent
 
 [[START OF PAGE 68]]
 
-- authority of judges appointed for a five-year term terminate with the expiration of the term for which they were appointed. Such judges may be appointed to the office of judge according to the procedure prescribed by law;
+2) authority of judges appointed for a five-year term terminate with the expiration of the term for which they were appointed. Such judges may be appointed to the office of judge according to the procedure prescribed by law;
 
-- judges who were elected for unlimited term shall exercise their  authority until dismissal or termination of their authority on grounds defined in the Constitution of Ukraine;
+3) judges who were elected for unlimited term shall exercise their authority until dismissal or termination of their authority on grounds defined in the Constitution of Ukraine;
 
-- conformity with being in the office of a judge, who was appointed to the office for a five-year term or elected for unlimited term, before the Law of Ukraine "On Introducing  Amendments  to  the  Constitution  of  Ukraine  (as  to  justice)"  taking effect,  should  be  assessed  according  to  the  procedure  prescribed  by  law.  Nonconformity of the judge with being in the office based on criteria of competence, professional ethics, or honesty, or refusal of the judge from such assessment shall constitute  the  ground  to  dismiss  a  judge.  Procedure  and  exclusive  grounds  for appeal against the decision on dismissal of a judge resulted from the assessment shall be established by law;
+4) conformity with being in the office of a judge, who was appointed to the office for a five-year term or elected for unlimited term, before the Law of Ukraine "On Introducing Amendments to the Constitution of Ukraine (as to justice)" taking effect, should be assessed according to the procedure prescribed by law. Non-conformity of the judge with being in the office based on criteria of competence, professional ethics, or honesty, or refusal of the judge from such assessment shall constitute the ground to dismiss a judge. Procedure and exclusive grounds for appeal against the decision on dismissal of a judge resulted from the assessment shall be established by law;
 
-- in cases of reorganisation or dissolution of particular courts, established before the Law of Ukraine "On Introduing Amendments to the Constitution of Ukraine (as to justice)" taking effect, judges concerned have the right to retire or apply for a new position through a competition according to the procedure prescribed by law. Specifics of the transfer of a judge to another court may be prescribed by law;
+5) in cases of reorganisation or dissolution of particular courts, established before the Law of Ukraine "On Introduing Amendments to the Constitution of Ukraine (as to justice)" taking effect, judges concerned have the right to retire or apply for a new position through a competition according to the procedure prescribed by law. Specifics of the transfer of a judge to another court may be prescribed by law;
 
-- until  new  administrative  and  territorial  system  of  Ukraine  is  implemented according to the amendments to the Constitution of Ukraine as to decentralisation, but  not  later  than  by  December  31,  2017,  the  establishment,  reorganisation,  and dissolution  of  courts  is  conducted  by  the  President  of  Ukraine  on  the  basis  and under the procedure prescribed by the law;
+6) until new administrative and territorial system of Ukraine is implemented according to the amendments to the Constitution of Ukraine as to decentralisation, but not later than by December 31, 2017, the establishment, reorganisation, and dissolution of courts is conducted by the President of Ukraine on the basis and under the procedure prescribed by the law;
 
-- within  two  years  transfer  of  judge  to  another  court  shall  be  exercised  by  the President of Ukraine on the basis of the submission by the High Council of Justice (Vyshcha Rada Pravosuddia);
+7) within two years transfer of judge to another court shall be exercised by the President of Ukraine on the basis of the submission by the High Council of Justice (Vyshcha Rada Pravosuddia);
 
-- judges  of  the  Constitutional  Court  of  Ukraine,  appointed  before  the  Law  of Ukraine  "On  Introducing  Amendemnts  to  the  Constitution  of  Ukraine  (as  to justice)" taking effect, exercise their authority until termination of their authority or dismissal  in  accordance  with  the  procedure  prescribed  in  Article  149 1 of  the Constitution of Ukraine and without right to reappointment. Authority of a judge of the Constitutional Court of Ukraine, who as of the day the Law of Ukraine "On Introducing  Amendments  to  the  Constitution  of  Ukraine  (as  to  justice)"  taking effect  has  attained  the  age  of  sixty-five,  but  the  decision  on  his  or  her  dismissal from office has not been taken, are terminated;
+8) judges of the Constitutional Court of Ukraine, appointed before the Law of Ukraine "On Introducing Amendemnts to the Constitution of Ukraine (as to justice)" taking effect, exercise their authority until termination of their authority or dismissal in accordance with the procedure prescribed in Article 149¹ of the Constitution of Ukraine and without right to reappointment. Authority of a judge of the Constitutional Court of Ukraine, who as of the day the Law of Ukraine "On Introducing Amendments to the Constitution of Ukraine (as to justice)" taking effect has attained the age of sixty-five, but the decision on his or her dismissal from office has not been taken, are terminated;
 
 [[END OF PAGE 68]]
 
 [[START OF PAGE 69]]
 
-- the representation of citizens before courts by the public prosecution according to  the  law  in  cases  in  which  proceedings  had  been  initiated  prior  to  the  Law  of Ukraine  "On  Introducing  Amendments  to  the  Constitution  of  Ukraine  (as  to justice)"  taking  effect,  are  exercised  according  to  the  rules  have  been  effective prior to this Law taking effect, - until rendering the final court decisions that can not be challenged;
+9) the representation of citizens before courts by the public prosecution according to the law in cases in which proceedings had been initiated prior to the Law of Ukraine "On Introducing Amendments to the Constitution of Ukraine (as to justice)" taking effect, are exercised according to the rules have been effective prior to this Law taking effect, - until rendering the final court decisions that can not be challenged;
 
-- the Prosecutor General of Ukraine appointed to the office prior to the Law of Ukraine  "On  Introducing  Amendments  to  the  Constitution  of  Ukraine  (as  to justice)" taking effect exercises authority of the Prosecutor General until dismissal under the procedure prescribed by law but no longer within the term for which he or she was appointed, and may not hold the office for two consecutive terms;
+10) the Prosecutor General of Ukraine appointed to the office prior to the Law of Ukraine "On Introducing Amendments to the Constitution of Ukraine (as to justice)" taking effect exercises authority of the Prosecutor General until dismissal under the procedure prescribed by law but no longer within the term for which he or she was appointed, and may not hold the office for two consecutive terms;
 
-- in accordance with the sub-paragraph 3 paragraph one Article 131 1 and Article 131 2 of this Constitution representation before the Supreme Court and the courts of cassation  shall  be  exercised  exclusively  by  public  prosecutors  and  advocates  as from January 1, 2017; before the appellate courts - as from January 1, 2018; before the first instance courts - as from January 1, 2019.
+11) in accordance with the sub-paragraph 3 paragraph one Article 131¹ and Article 131² of this Constitution representation before the Supreme Court and the courts of cassation shall be exercised exclusively by public prosecutors and advocates as from January 1, 2017; before the appellate courts - as from January 1, 2018; before the first instance courts - as from January 1, 2019.
 
 Representation of  bodies of  state  power  and local  self-government  before  courts shall be exercised exclusively by public prosecutors and advocates as from January 1, 2020.
 
