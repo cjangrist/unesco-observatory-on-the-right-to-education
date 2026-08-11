@@ -10,15 +10,34 @@ Bundesgesetz vom 25. Feber 1988 über das Unterrichtspraktikum (Unterrichtsprakt
 
 ## Änderung
 
+BGBl. Nr. 469/1990 (NR: GP XVII IA 415/A AB 1400 S. 148. BR: AB 3987 S. 533.)
+BGBl. Nr. 409/1991 (NR: GP XVIII RV 189 AB 199 S. 35. BR: AB 4093 S. 544.)
+BGBl. Nr. 628/1991 (NR: GP XVIII RV 181 AB 261 S. 44. BR: AB 4130 S. 546.)
+BGBl. Nr. 449/1994 (NR: GP XVIII RV 1535 AB 1660 S. 166. BR: AB 4803 S. 587.)
+[CELEX-Nr.: 389L0048]
+BGBl. Nr. 201/1996 (NR: GP XX RV 72 und Zu 72 AB 95 S. 16. BR: 5161, 5162, 5163, 5164 und 5165 AB 5166 S. 612.)
+BGBl. I Nr. 78/2000 (NR: GP XXI RV 180 AB 220 S. 34. BR: AB 6208 S. 667.)
+BGBl. I Nr. 55/2003 (NR: GP XXII IA 148/A AB 190 S. 28. BR: AB 6824 S. 700.)
+BGBl. I Nr. 130/2003 (NR: GP XXII RV 283 AB 320 S. 40. BR: 6923 AB 6943 S. 704.)
+[CELEX-Nr.: 31999L0070 und 32001L0019]
+BGBl. I Nr. 114/2004 (NR: GP XXII RV 496 AB 571 S. 73. BR: AB 7102 S 712.)
+BGBl. I Nr. 176/2004 (NR: GP XXII RV 685 und Zu 685 AB 767 S. 89. BR: AB 7190 S. 717.)
+BGBl. I Nr. 71/2007 (NR: GP XXIII RV 137 AB 207 S. 31. BR: AB 7762 S. 748.)
+BGBl. I Nr. 114/2009 (NR: GP XXIV RV 342 AB 347 S. 40. BR: AB 8186 S. 777.)
+BGBl. I Nr. 135/2009 (NR: GP XXIV RV 485 AB 558 S. 49. BR: 8217 AB 8228 S. 780.)
+BGBl. I Nr. 24/2013 idF BGBl. I Nr. 5/2014 (VFB) (NR: GP XXIV RV 1989 AB 2021 S. 185. BR: AB 8872 S. 816.)
+BGBl. I Nr. 151/2013 (NR: GP XXIV RV 2427 AB 2500 S. 215. BR: AB 9100 S. 823.)
+BGBl. I Nr. 211/2013 (NR: GP XXV RV 1 AB 6 S. 7. BR: AB 9128 S. 825.)
+
 ## Präambel/Promulgationsklausel
 
 ## Inhaltsverzeichnis
 
 (Anm.: wurde nicht im BGBl. kundgemacht)
 
-Gegenstand / Bezeichnung
-
 Art / Paragraf
+
+Gegenstand / Bezeichnung
 
 § 1. Unterrichtspraktikum
 
@@ -106,11 +125,11 @@ Gegenstand / Bezeichnung
 
 § 1. (1)  Das Unterrichtspraktikum soll Absolventen von Lehramts- bzw. Diplomstudien auf Grund des Bundesgesetzes über geisteswissenschaftliche und naturwissenschaftliche Studienrichtungen, BGBl. Nr. 326/1971, des Bundesgesetzes über katholisch-theologische Studienrichtungen, BGBl. Nr. 293/1969, des Bundesgesetzes über die Studienrichtung Evangelische Theologie, BGBl. Nr. 57/1981, des Universitäts-Studiengesetzes, BGBl. I Nr. 48/1997, oder des Universitätsgesetzes 2002, BGBl. I Nr. 120/2002,  in  das  praktische  Lehramt  an  mittleren  und  höheren  Schulen  einführen  und  ihnen Gelegenheit geben, ihre Eignung für den Lehrberuf zu erweisen.
 
-- Unterrichtspraktikanten sind Personen, die im Unterrichtspraktikum stehen.
+(2) Unterrichtspraktikanten sind Personen, die im Unterrichtspraktikum stehen.
 
-- Durch die Zulassung zum Unterrichtspraktikum und dessen Ableistung wird kein Dienstverhältnis, sondern ein Ausbildungsverhältnis begründet.
+(3) Durch die Zulassung zum Unterrichtspraktikum und dessen Ableistung wird kein Dienstverhältnis, sondern ein Ausbildungsverhältnis begründet.
 
-- Die in diesem Bundesgesetz verwendeten personenbezogenen Ausdrücke umfassen Frauen und Männer gleichermaßen.
+(4) Die in diesem Bundesgesetz verwendeten personenbezogenen Ausdrücke umfassen Frauen und Männer gleichermaßen.
 
 ### Dauer des Unterrichtspraktikums
 
@@ -120,13 +139,13 @@ Gegenstand / Bezeichnung
 
 § 3. (1) Auf die Zulassung zum Unterrichtspraktikum besteht nach Maßgabe der folgenden Absätze ein Anspruch.
 
-- Voraussetzung  für  die  Zulassung  zum  Unterrichtspraktikum  ist  ein  Antrag.  Der  Antrag  darf frühestens nach erfolgreicher Ablegung  der  zweiten Diplomprüfung  gestellt werden; wird diese Voraussetzung  nicht  erfüllt,  ist  der  Antrag  zurückzuweisen.  Der  Bewerber  kann  im  Antrag  Wünsche hinsichtlich des Praxisortes und der Schulart bekanntgeben, wobei für den Fall, daß eine Berücksichtigung des Wunsches nicht möglich ist, die Zuweisung an einen anderen Praxisort oder eine andere  Schulart  begehrt  werden  kann.  Ferner  kann  die  Zulassung  zum  Unterrichtspraktikum  für  ein späteres Schuljahr beantragt werden.
+(2) Voraussetzung für die Zulassung zum Unterrichtspraktikum ist ein Antrag. Der Antrag darf frühestens nach erfolgreicher Ablegung der zweiten Diplomprüfung gestellt werden; wird diese Voraussetzung nicht erfüllt, ist der Antrag zurückzuweisen. Der Bewerber kann im Antrag Wünsche hinsichtlich des Praxisortes und der Schulart bekanntgeben, wobei für den Fall, daß eine Berücksichtigung des Wunsches nicht möglich ist, die Zuweisung an einen anderen Praxisort oder eine andere Schulart begehrt werden kann. Ferner kann die Zulassung zum Unterrichtspraktikum für ein späteres Schuljahr beantragt werden.
 
-- Zur Zulassung ist jener Landesschulrat zuständig, in dessen örtlichem Zuständigkeitsbereich die Ablegung des Unterrichtspraktikums beantragt wird. Stellt ein Bewerber bei mehreren Landesschulräten Anträge, so ist dies in den Anträgen zu vermerken.
+(3) Zur Zulassung ist jener Landesschulrat zuständig, in dessen örtlichem Zuständigkeitsbereich die Ablegung des Unterrichtspraktikums beantragt wird. Stellt ein Bewerber bei mehreren Landesschulräten Anträge, so ist dies in den Anträgen zu vermerken.
 
-- Voraussetzungen für die Zulassung zum Unterrichtspraktikum sind
+(4) Voraussetzungen für die Zulassung zum Unterrichtspraktikum sind
 
-- eine den Unterrichtsgegenständen entsprechende Hochschulbildung (Lehramt) durch den Erwerb eines Diplomgrades in zwei Unterrichtsfächern gemäß § 87 Abs. 1 des Universitätsgesetzes 2002,  BGBl. I  Nr. 120/2002,  oder  gemäß  § 66  Abs. 1  des  UniversitätsStudiengesetzes, BGBl. I Nr. 48/1997, oder durch den Erwerb eines Lehramtes gemäß § 35 des
+1. eine den Unterrichtsgegenständen entsprechende Hochschulbildung (Lehramt) durch den Erwerb eines Diplomgrades in zwei Unterrichtsfächern gemäß § 87 Abs. 1 des Universitätsgesetzes 2002, BGBl. I Nr. 120/2002, oder gemäß § 66 Abs. 1 des Universitäts-Studiengesetzes, BGBl. I Nr. 48/1997, oder durch den Erwerb eines Lehramtes gemäß § 35 des
 
 www.ris.bka.gv.at
 
@@ -138,19 +157,19 @@ Seite 2 von 14
 
 Bundesrecht konsolidiert
 
-Allgemeinen Hochschul-Studiengesetzes, BGBl. Nr. 177/1966, wobei es sich um den Abschluss eines erstmaligen Lehramtsbzw. Diplomstudiums handeln muss; vom  Erfordernis des Diplomgrades in zwei Unterrichtsfächern ist abzusehen, sofern im Bundesgesetz über geisteswissenschaftliche und naturwissenschaftliche Studienrichtungen, BGBl. Nr. 326/1971, im Bundesgesetz  über  katholisch-theologische  Studienrichtungen,  BGBl.  Nr. 293/1969,  oder  im Universitäts-Studiengesetz, BGBl. I Nr. 48/1997, eine Ausbildungspflicht in zwei Unterrichtsfächern nicht vorgesehen war,
+Allgemeinen Hochschul-Studiengesetzes, BGBl. Nr. 177/1966, wobei es sich um den Abschluss eines erstmaligen Lehramts- bzw. Diplomstudiums handeln muss; vom Erfordernis des Diplomgrades in zwei Unterrichtsfächern ist abzusehen, sofern im Bundesgesetz über geisteswissenschaftliche und naturwissenschaftliche Studienrichtungen, BGBl. Nr. 326/1971, im Bundesgesetz über katholisch-theologische Studienrichtungen, BGBl. Nr. 293/1969, oder im Universitäts-Studiengesetz, BGBl. I Nr. 48/1997, eine Ausbildungspflicht in zwei Unterrichtsfächern nicht vorgesehen war,
 
-- die Beherrschung der deutschen Sprache in Wort und Schrift,
+2. die Beherrschung der deutschen Sprache in Wort und Schrift,
 
-- die volle Handlungsfähigkeit,
+3. die volle Handlungsfähigkeit,
 
-- daß  keine  Verurteilung  zu  einer  drei  Monate  übersteigenden  Freiheitsstrafe  wegen  einer  mit Vorsatz  begangenen  strafbaren  Handlung  vorliegt  (Verurteilungen,  die  der  Beschränkung  der Auskunft aus dem Strafregister unterliegen oder getilgt sind, fallen nicht unter diese Bestimmung), sowie
+4. daß keine Verurteilung zu einer drei Monate übersteigenden Freiheitsstrafe wegen einer mit Vorsatz begangenen strafbaren Handlung vorliegt (Verurteilungen, die der Beschränkung der Auskunft aus dem Strafregister unterliegen oder getilgt sind, fallen nicht unter diese Bestimmung), sowie
 
-- daß kein Strafverfahren wegen eines Verbrechens eingeleitet ist.
+5. daß kein Strafverfahren wegen eines Verbrechens eingeleitet ist.
 
 Für die Zulassung zum Unterrichtspraktikum in Religion ist überdies die von der zuständigen kirchlichen Behörde erklärte Befähigung  und  Ermächtigung  zur  Erteilung  des  Religionsunterrichtes  nachzuweisen. Der Landesschulrat bzw. Stadtschulrat für Wien hat vor jeder Zulassung zum Unterrichtspraktikum eine Strafregisterauskunft gemäß §§ 9 und 9a des Strafregistergesetzes 1968, BGBl. Nr. 277, einzuholen.
 
-(5)  Die  Zulassung  hat  gleichzeitig  für  beide  Unterrichtsbereiche,  für  die  das  Lehramts-  bzw. Diplomstudium abgeschlossen wurde, auf je einen Praxisplatz (§ 6) zu erfolgen; umfaßte das Lehramtsbzw.  Diplomstudium  nur  einen  Unterrichtsbereich  (Einfachstudium),  so  hat  die  Zulassung  auf  zwei Praxisplätze eines Unterrichtsbereiches zu erfolgen. Bestehen an einer Schule für einen Unterrichtsbereich  mehrere  Praxisplätze,  obliegt  die  Zuweisung  des  Unterrichtspraktikanten  auf  einen bestimmten  Praxisplatz  dem  Leiter  der  Schule.  Die  Zuweisung  auf  bestimmte  Praxisplätze  hat  so  zu erfolgen, daß nach Möglichkeit die Unterrichtserteilung insgesamt sieben Wochenstunden nicht übersteigt und daß das im § 7 Abs. 1 letzter  Satz  vorgeschriebene  Mindestmaß  an  Wochenstunden  nicht unterschritten  wird.  Der  Landesschulrat  hat  bei  der  Zulassung  allfällige  Wünsche  des  Bewerbers hinsichtlich des Praxisortes und der Schulart nach Möglichkeit zu berücksichtigen, wobei § 6 Abs. 5 zu beachten ist; auf die Zulassung an einen bestimmten Praxisort und eine bestimmte Schulart besteht kein Rechtsanspruch.  Vor  der  Zuweisung  eines  Unterrichtspraktikanten  in  Religion  auf  einen  bestimmten Praxisplatz ist das Einvernehmen mit der zuständigen kirchlichen Behörde herzustellen.
+(5) Die Zulassung hat gleichzeitig für beide Unterrichtsbereiche, für die das Lehramts- bzw. Diplomstudium abgeschlossen wurde, auf je einen Praxisplatz (§ 6) zu erfolgen; umfaßte das Lehramts- bzw. Diplomstudium nur einen Unterrichtsbereich (Einfachstudium), so hat die Zulassung auf zwei Praxisplätze eines Unterrichtsbereiches zu erfolgen. Bestehen an einer Schule für einen Unterrichtsbereich mehrere Praxisplätze, obliegt die Zuweisung des Unterrichtspraktikanten auf einen bestimmten Praxisplatz dem Leiter der Schule. Die Zuweisung auf bestimmte Praxisplätze hat so zu erfolgen, daß nach Möglichkeit die Unterrichtserteilung insgesamt sieben Wochenstunden nicht übersteigt und daß das im § 7 Abs. 1 letzter Satz vorgeschriebene Mindestmaß an Wochenstunden nicht unterschritten wird. Der Landesschulrat hat bei der Zulassung allfällige Wünsche des Bewerbers hinsichtlich des Praxisortes und der Schulart nach Möglichkeit zu berücksichtigen, wobei § 6 Abs. 5 zu beachten ist; auf die Zulassung an einen bestimmten Praxisort und eine bestimmte Schulart besteht kein Rechtsanspruch. Vor der Zuweisung eines Unterrichtspraktikanten in Religion auf einen bestimmten Praxisplatz ist das Einvernehmen mit der zuständigen kirchlichen Behörde herzustellen.
 
 (6) An Privatschulen dürfen nur Bewerber, die sich damit einverstanden erklären, mit Zustimmung des Schulerhalters zugewiesen werden.
 
@@ -170,13 +189,13 @@ Seite 3 von 14
 
 Bundesrecht konsolidiert
 
-- Anträge,  die  spätestens  Ende  Juli  beim  Landesschulrat  einlangen,  sind  vor  Beginn  des Unterrichtspraktikums des folgenden Schuljahres zu erledigen, sofern nicht der Antritt des Unterrichtsjahres für ein späteres Schuljahr beantragt wird.
+(10) Anträge, die spätestens Ende Juli beim Landesschulrat einlangen, sind vor Beginn des Unterrichtspraktikums des folgenden Schuljahres zu erledigen, sofern nicht der Antritt des Unterrichtsjahres für ein späteres Schuljahr beantragt wird.
 
 ### Antritt des Unterrichtspraktikums
 
 § 4. (1) Das Unterrichtspraktikum ist mit dem Beginn des Einführungskurses an der Pädagogischen Hochschule  (§ 11  Abs. 3)  anzutreten.  Die  Tätigkeit  an  der  Schule  ist  an  dem  im  Zulassungsbescheid angegebenen Tag anzutreten.
 
-- Der Unterrichtspraktikant hat am Tag des Antrittes der Tätigkeit an der Schule (Stammschule) gegenüber dem Leiter dieser Schule folgende Angelobung zu leisten: 'Ich gelobe, daß ich die Gesetze der Republik  Österreich  befolgen  und  alle  mit  dem  Unterrichtspraktikum  verbundenen  Pflichten  treu  und gewissenhaft erfüllen werde.'
+(2) Der Unterrichtspraktikant hat am Tag des Antrittes der Tätigkeit an der Schule (Stammschule) gegenüber dem Leiter dieser Schule folgende Angelobung zu leisten: „Ich gelobe, daß ich die Gesetze der Republik Österreich befolgen und alle mit dem Unterrichtspraktikum verbundenen Pflichten treu und gewissenhaft erfüllen werde.“
 
 (3) Wird das Unterrichtspraktikum nicht zu Beginn des Einführungskurses angetreten oder wird die Leistung  der  Angelobung  verweigert,  tritt  der  Zulassungsbescheid  rückwirkend  außer  Kraft.  Diese Rechtsfolge  tritt nicht ein, wenn  der  Nichtantritt innerhalb einer  Woche  gerechtfertigt und  das Unterrichtspraktikum am Tag nach Wegfall des Hinderungsgrundes, spätestens aber am zehnten Schultag nach dem im Zulassungsbescheid bezeichneten Tag angetreten wird. Der Zulassungsbescheid tritt ferner rückwirkend außer Kraft, wenn der Zugelassene dem Landesschulrat mitteilt, daß er das Unterrichtspraktikum nicht antreten wird.
 
@@ -184,47 +203,47 @@ Bundesrecht konsolidiert
 
 § 5. (1) Das Unterrichtspraktikum umfaßt
 
-- die Einführung in das praktische Lehramt an der Schule und
+1. die Einführung in das praktische Lehramt an der Schule und
 
-- die Teilnahme am Lehrgang der Pädagogischen Hochschule.
+2. die Teilnahme am Lehrgang der Pädagogischen Hochschule.
 
-- Die Einführung in das praktische Lehramt an der Schule umfaßt
+(2) Die Einführung in das praktische Lehramt an der Schule umfaßt
 
-- die Unterrichtserteilung am Praxisplatz unter Anleitung eines Betreuungslehrers,
+1. die Unterrichtserteilung am Praxisplatz unter Anleitung eines Betreuungslehrers,
 
-- die Beobachtung des Unterrichts in anderen Klassen (Hospitierverpflichtung),
+2. die Beobachtung des Unterrichts in anderen Klassen (Hospitierverpflichtung),
 
-- die Vertretung vorübergehend abwesender Lehrer (Supplierverpflichtung) und
+3. die Vertretung vorübergehend abwesender Lehrer (Supplierverpflichtung) und
 
-- die Teilnahme an Schulveranstaltungen und schulbezogenen Veranstaltungen.
+4. die Teilnahme an Schulveranstaltungen und schulbezogenen Veranstaltungen.
 
 ### Praxisplätze
 
 § 6. (1)  Jeder  in  einer  Klasse  der  im  Schulorganisationsgesetz,  BGBl.  Nr. 242/1962,  geregelten öffentlichen  mittleren  oder  höheren  Schulen  unterrichtete  Pflicht-  und  Freigegenstand,  für  den  ein Betreuungslehrer (§ 25) zur Verfügung steht, bildet die Grundlage für einen Praxisplatz.
 
-- Die  Leiter  von  Zentrallehranstalten  (§ 3  Abs. 4  des  Bundes-Schulaufsichtsgesetzes,  BGBl. Nr. 240/1962) haben bis zum Ende jedes Unterrichtsjahres dem Landesschulrat des betreffenden Landes jene Praxisplätze zu melden, die im kommenden Schuljahr zur Verfügung stehen werden.
+(2) Die Leiter von Zentrallehranstalten (§ 3 Abs. 4 des Bundes-Schulaufsichtsgesetzes, BGBl. Nr. 240/1962) haben bis zum Ende jedes Unterrichtsjahres dem Landesschulrat des betreffenden Landes jene Praxisplätze zu melden, die im kommenden Schuljahr zur Verfügung stehen werden.
 
-- Mit Zustimmung  des Schulerhalters sind Praxisplätze auch an mittleren und höheren Privatschulen mit gesetzlich geregelter Schulartbezeichnung und Öffentlichkeitsrecht einzurichten.
+(3) Mit Zustimmung des Schulerhalters sind Praxisplätze auch an mittleren und höheren Privatschulen mit gesetzlich geregelter Schulartbezeichnung und Öffentlichkeitsrecht einzurichten.
 
-- Ein Praxisplatz darf nicht vergeben werden
+(4) Ein Praxisplatz darf nicht vergeben werden
 
-- in der 5. Schulstufe,
+1. in der 5. Schulstufe,
 
-- wenn im vorangegangenen Unterrichtsjahr in der betreffenden Klasse im selben Unterrichtsgegenstand ein Unterrichtspraktikant unterrichtet hat,
+2. wenn im vorangegangenen Unterrichtsjahr in der betreffenden Klasse im selben Unterrichtsgegenstand ein Unterrichtspraktikant unterrichtet hat,
 
-- wenn die Schüler einer Klasse während eines Unterrichtsjahres in mehr als zwei Pflichtgegenständen von Unterrichtspraktikanten unterrichtet werden müßten,
+3. wenn die Schüler einer Klasse während eines Unterrichtsjahres in mehr als zwei Pflichtgegenständen von Unterrichtspraktikanten unterrichtet werden müßten,
 
-- wenn  im  betreffenden  Schuljahr  der  Unterrichtsgegenstand  Prüfungsgebiet  einer  Reifeprüfung, Reife- und Diplomprüfung, Diplomprüfung und Abschlussprüfung ist oder
+4. wenn im betreffenden Schuljahr der Unterrichtsgegenstand Prüfungsgebiet einer Reifeprüfung, Reife- und Diplomprüfung, Diplomprüfung und Abschlussprüfung ist oder
 
-- wenn der Betreuungslehrer im betreffenden Unterrichtsbereich nicht mindestens eine Klasse oder Schülergruppe unterrichten würde.
+5. wenn der Betreuungslehrer im betreffenden Unterrichtsbereich nicht mindestens eine Klasse oder Schülergruppe unterrichten würde.
 
-- Wenn in den einzelnen Unterrichtsbereichen gemäß Abs. 1 bis 4 mehr Praxisplätze als Bewerber zur Verfügung stehen, ist zu vermeiden, daß
+(5) Wenn in den einzelnen Unterrichtsbereichen gemäß Abs. 1 bis 4 mehr Praxisplätze als Bewerber zur Verfügung stehen, ist zu vermeiden, daß
 
-- Schüler während eines Unterrichtsjahres in mehr als einem Pflichtgegenstand von Unterrichtspraktikanten unterrichtet,
+1. Schüler während eines Unterrichtsjahres in mehr als einem Pflichtgegenstand von Unterrichtspraktikanten unterrichtet,
 
-- Praxisplätze in der 9. Schulstufe, sofern diese die erste Stufe einer Schulart ist, vergeben und
+2. Praxisplätze in der 9. Schulstufe, sofern diese die erste Stufe einer Schulart ist, vergeben und
 
-- einem Betreuungslehrer mehrere Unterrichtspraktikanten zugewiesen
+3. einem Betreuungslehrer mehrere Unterrichtspraktikanten zugewiesen
 
 werden.
 
@@ -244,7 +263,7 @@ Bundesrecht konsolidiert
 
 (2)  Die  Führung  des  Unterrichtes  in  einer  Klasse  (Schülergruppe)  umfaßt  die  eigenständige  und verantwortliche Unterrichtsarbeit (einschließlich der Leistungsfeststellung und Leistungsbeurteilung) und Erziehungsarbeit  unter  besonderer  Betreuung  und  Beaufsichtigung  durch  den  Betreuungslehrer.  Der Unterrichtspraktikant hat in diesem Zusammenhang die Rechte und Pflichten eines Lehrers gemäß § 51 Abs. 1 und 3 des Schulunterrichtsgesetzes; ferner hat er an den Lehrerkonferenzen teilzunehmen.
 
-(3) Der Unterrichtspraktikant hat an den vom Betreuungslehrer festgelegten Vorund Nachbesprechungen des Unterrichtes mitzuwirken und schriftliche Unterrichtsvorbereitungen zu führen. Der  Unterrichtspraktikant  hat  ferner  die  Unterrichtsvorbereitungen  und  die  Themenstellungen  für Schularbeiten dem Betreuungslehrer vorzulegen und ihm die beabsichtigten Leistungsbeurteilungen von Schularbeiten sowie für den Unterrichtsgegenstand zum Ende des ersten Semesters und für die Schulstufe mit  seiner  Begründung  bekanntzugeben,  und  zwar  so  rechtzeitig,  daß  eine  allenfalls  erforderliche Änderung noch erfolgen kann.
+(3) Der Unterrichtspraktikant hat an den vom Betreuungslehrer festgelegten Vor- und Nachbesprechungen des Unterrichtes mitzuwirken und schriftliche Unterrichtsvorbereitungen zu führen. Der Unterrichtspraktikant hat ferner die Unterrichtsvorbereitungen und die Themenstellungen für Schularbeiten dem Betreuungslehrer vorzulegen und ihm die beabsichtigten Leistungsbeurteilungen von Schularbeiten sowie für den Unterrichtsgegenstand zum Ende des ersten Semesters und für die Schulstufe mit seiner Begründung bekanntzugeben, und zwar so rechtzeitig, daß eine allenfalls erforderliche Änderung noch erfolgen kann.
 
 ### Hospitierverpflichtung
 
@@ -264,7 +283,7 @@ Bundesrecht konsolidiert
 
 § 11. (1) Für die Unterrichtspraktikanten sind an den Pädagogischen Hochschulen gemäß § 1 Abs. 1 Z 1 bis 8 des Hochschulgesetzes 2005, BGBl. I Nr. 30/2006, nach Bedarf Lehrgänge zur Einführung in die praktische Unterrichtstätigkeit und zur theoretischen und praktischen Begleitung der Unterrichtspraxis einzurichten.
 
-(2)  Für  die  gemäß  Abs. 1  einzurichtenden  Lehrgänge  sind  von  den  Studienkommissionen  unter sinngemäßer  Anwendung  des  § 42  des  Hochschulgesetzes 2005  Curricula  im  Ausmaß  von  10  ECTSCredits  zu  erlassen.  Die  Lehrgänge  sollen  unter  besonderer  Bedachtnahme  auf  den  Praxisbezug  die Studierenden in die Struktur des Schulwesens, der österreichischen Schulverwaltung und der schulrechtlichen  Grundlagen  sowie  in  die  Methoden  der  Planung,  Durchführung  und  Auswertung  von Unterricht einführen. Die Studierenden sollen weiters fächerübergreifende Aspekte der Unterrichtstätigkeit sowie Ziele, Einflussfaktoren und Methoden der Erziehung von Schülern (insbesondere Probleme der Erziehungspraxis, Beratung in Problemsituationen auch unter Einbeziehung der Erziehungsberechtigten) kennen lernen bzw. anwenden können.
+(2) Für die gemäß Abs. 1 einzurichtenden Lehrgänge sind von den Studienkommissionen unter sinngemäßer Anwendung des § 42 des Hochschulgesetzes 2005 Curricula im Ausmaß von 10 ECTS-Credits zu erlassen. Die Lehrgänge sollen unter besonderer Bedachtnahme auf den Praxisbezug die Studierenden in die Struktur des Schulwesens, der österreichischen Schulverwaltung und der schulrechtlichen Grundlagen sowie in die Methoden der Planung, Durchführung und Auswertung von Unterricht einführen. Die Studierenden sollen weiters fächerübergreifende Aspekte der Unterrichtstätigkeit sowie Ziele, Einflussfaktoren und Methoden der Erziehung von Schülern (insbesondere Probleme der Erziehungspraxis, Beratung in Problemsituationen auch unter Einbeziehung der Erziehungsberechtigten) kennen lernen bzw. anwenden können.
 
 (3)  Die  Lehrgänge  haben  sich  organisatorisch  auf  zwei  Semester  zu  erstrecken  und  sind  in  einen einführenden  Teil  und  in  einen  die  praktische  Unterrichtsarbeit  begleitenden  Teil  zu  gliedern.  Der einführende  Teil  ist  als  zwei-  bis  dreitägige  Veranstaltung  in  der  dem  Beginn  des  Schuljahres vorangehenden Woche (Einführungskurs) anzusetzen. Der die praktische Unterrichtstätigkeit begleitende Teil kann entsprechend den regionalen Bedürfnissen in der Form von Einzelveranstaltungen während des gesamten Unterrichtsjahres oder von Blockveranstaltungen durchgeführt werden.
 
@@ -282,11 +301,11 @@ Bundesrecht konsolidiert
 
 (5) An Lehrgängen gemäß Abs. 1 bis 4 dürfen als Lehrer (Lehrbeauftragte) nur unterrichten
 
-- Lehrer,  die  an  Schularten  tätig  sind,  an  denen  die  teilnehmenden  Unterrichtspraktikanten unterrichten,
+1. Lehrer, die an Schularten tätig sind, an denen die teilnehmenden Unterrichtspraktikanten unterrichten,
 
-- Bedienstete  von  Schulbehörden,  die  in  dem  den  Gegenstand  der  Unterrichtsveranstaltung bildenden Bereich tätig sind, sowie
+2. Bedienstete von Schulbehörden, die in dem den Gegenstand der Unterrichtsveranstaltung bildenden Bereich tätig sind, sowie
 
-- Universitätslehrer  mit  nachgewiesener  mehrjähriger  fachdidaktischer  und/oder  schulpraktischer Erfahrung an einer höheren Schule.
+3. Universitätslehrer mit nachgewiesener mehrjähriger fachdidaktischer und/oder schulpraktischer Erfahrung an einer höheren Schule.
 
 (6) Die Unterrichtspraktikanten sind verpflichtet, an den Lehrgängen der Pädagogischen Hochschule gemäß Abs. 1 teilzunehmen. Während des Besuches von Blockveranstaltungen bestehen die Verpflichtungen gemäß den §§ 7 bis 10 nicht.
 
@@ -300,21 +319,21 @@ Bundesrecht konsolidiert
 
 § 13. (1)  Ein  Unterrichtspraktikant,  der  schuldhaft  seine  Pflichten  verletzt,  ist  nachweislich  vom Schulleiter, bei Pflichtverletzungen an Pädagogischen Hochschulen vom  zuständigen Organ der Pädagogischen Hochschule zu ermahnen.
 
-- Verletzt ein Unterrichtspraktikant trotz nachweislicher Ermahnung weiterhin seine Pflichten oder begeht  er  eine  nach  Art  und  Schwere  besonders  ins  Gewicht  fallende  Pflichtverletzung,  hat  der Vorgesetzte  (§ 26)  beim  Landesschulrat  den  Antrag  auf  Ausschließung  vom  Unterrichtspraktikum  zu stellen. Im  Falle der Gefährdung  von  Schülern ist der Unterrichtspraktikant vom  Vorgesetzten unverzüglich von der Unterrichtserteilung am Praxisplatz zu suspendieren.
+(2) Verletzt ein Unterrichtspraktikant trotz nachweislicher Ermahnung weiterhin seine Pflichten oder begeht er eine nach Art und Schwere besonders ins Gewicht fallende Pflichtverletzung, hat der Vorgesetzte (§ 26) beim Landesschulrat den Antrag auf Ausschließung vom Unterrichtspraktikum zu stellen. Im Falle der Gefährdung von Schülern ist der Unterrichtspraktikant vom Vorgesetzten unverzüglich von der Unterrichtserteilung am Praxisplatz zu suspendieren.
 
-- Der  Landesschulrat  kann  eine  Ausschließung  vom  Unterrichtspraktikum  nur  bei  Vorliegen schuldhafter  Pflichtverletzungen,  die  einen  Antrag  gemäß  Abs. 2  begründen,  aussprechen.  Wenn  eine Gefährdung der Schüler nicht mehr gegeben ist, hat der Landesschulrat eine Suspendierung gemäß Abs. 2 aufzuheben.
+(3) Der Landesschulrat kann eine Ausschließung vom Unterrichtspraktikum nur bei Vorliegen schuldhafter Pflichtverletzungen, die einen Antrag gemäß Abs. 2 begründen, aussprechen. Wenn eine Gefährdung der Schüler nicht mehr gegeben ist, hat der Landesschulrat eine Suspendierung gemäß Abs. 2 aufzuheben.
 
 ### Ausbildungsbeitrag
 
 § 14. (1) Den  Unterrichtspraktikanten gebührt für die Dauer  des Unterrichtspraktikums ein Ausbildungsbeitrag.
 
-- Der Ausbildungsbeitrag gebührt höchstens für die Dauer eines Jahres.
+(2) Der Ausbildungsbeitrag gebührt höchstens für die Dauer eines Jahres.
 
 ### Höhe des Ausbildungsbeitrages
 
 § 15. (1) Der Ausbildungsbeitrag beträgt monatlich 50 vH des jeweiligen Monatsentgeltes eines die volle Lehrverpflichtung erfüllenden Vertragslehrers des Entlohnungsschemas I L Entlohnungsgruppe l 1 Entlohnungsstufe  1  einschließlich  allfälliger  Teuerungszulagen,  soweit  im  folgenden  nicht  anderes bestimmt wird.
 
-- Außer dem monatlichen Ausbildungsbeitrag gebührt für jedes Kalendervierteljahr eine Sonderzahlung in der Höhe von 50 vH des für den Monat der Auszahlung zustehenden Ausbildungsbeitrages.  Steht  der  Unterrichtspraktikant  während  des  Kalendervierteljahres,  für  das  die
+(2) Außer dem monatlichen Ausbildungsbeitrag gebührt für jedes Kalendervierteljahr eine Sonderzahlung in der Höhe von 50 vH des für den Monat der Auszahlung zustehenden Ausbildungsbeitrages. Steht der Unterrichtspraktikant während des Kalendervierteljahres, für das die
 
 www.ris.bka.gv.at
 
@@ -328,25 +347,25 @@ Bundesrecht konsolidiert
 
 Sonderzahlung gebührt, nicht ununterbrochen im Genuß des vollen Ausbildungsbeitrages oder des gemäß § 16 gekürzten Ausbildungsbeitrages, so gebührt ihm als Sonderzahlung nur der entsprechende Teil.
 
-- Neben dem Ausbildungsbeitrag gebührt der Unterrichtspraktikantin oder dem Unterrichtspraktikanten ein Kinderzuschuss, soweit ihr oder ihm nicht eine gleichartige Zulage auf Grund eines  Dienstverhältnisses  zusteht.  Der  Anspruch  auf  den  Kinderzuschuss  sowie  Ausmaß,  Anfall  und Einstellung  des  Kinderzuschusses  richten  sich  nach  den  für  die  Bundesbeamtinnen  oder  für  die Bundesbeamten geltenden Vorschriften, doch steht der Kinderzuschuss nur für Zeiträume zu, für die ein Ausbildungsbeitrag gebührt.
+(3) Neben dem Ausbildungsbeitrag gebührt der Unterrichtspraktikantin oder dem Unterrichtspraktikanten ein Kinderzuschuss, soweit ihr oder ihm nicht eine gleichartige Zulage auf Grund eines Dienstverhältnisses zusteht. Der Anspruch auf den Kinderzuschuss sowie Ausmaß, Anfall und Einstellung des Kinderzuschusses richten sich nach den für die Bundesbeamtinnen oder für die Bundesbeamten geltenden Vorschriften, doch steht der Kinderzuschuss nur für Zeiträume zu, für die ein Ausbildungsbeitrag gebührt.
 
-- Übersteigt  die  Unterrichtserteilung  eines  Unterrichtspraktikanten  wegen  der  Supplierung  für einen  länger  als  drei  unmittelbar  aufeinanderfolgende  Kalendertage  verhinderten  Lehrer  das  halbe Ausmaß der Lehrverpflichtung eines Bundeslehrers gemäß dem Bundeslehrer-Lehrverpflichtungsgesetz, BGBl. Nr. 244/1965, so gebührt ihm für jede Supplierstunde 2,3 vH des Ausbildungsbeitrages. Für die Berechnung der Wertigkeit der Supplierstunde ist § 2 Abs. 1 BLVG anzuwenden.
+(4) Übersteigt die Unterrichtserteilung eines Unterrichtspraktikanten wegen der Supplierung für einen länger als drei unmittelbar aufeinanderfolgende Kalendertage verhinderten Lehrer das halbe Ausmaß der Lehrverpflichtung eines Bundeslehrers gemäß dem Bundeslehrer-Lehrverpflichtungsgesetz, BGBl. Nr. 244/1965, so gebührt ihm für jede Supplierstunde 2,3 vH des Ausbildungsbeitrages. Für die Berechnung der Wertigkeit der Supplierstunde ist § 2 Abs. 1 BLVG anzuwenden.
 
-- Einem Unterrichtspraktikanten, der neben seiner Einführung in das praktische Lehramt in einer lehramtlichen Verwendung oder in einem vertraglichen oder öffentlich-rechtlichen Dienstverhältnis zum Bund steht, ist der Ausbildungsbeitrag nach Abs. 1 in dem Ausmaß zu kürzen, als das Monatsentgelt aus dem Dienstverhältnis einschließlich allfälliger Teuerungszulagen und der Ausbildungsbeitrag zusammen das Monatsentgelt eines die volle Lehrverpflichtung erfüllenden Vertragslehrers des Entlohnungsschemas I  L  Entlohnungsgruppe  l  1  Entlohnungsstufe  1  einschließlich  allfälliger  Teuerungszulagen  übersteigen. Bei  Unterrichtspraktikanten,  die  gleichzeitig  Vertragslehrer  der  Entlohnungsgruppe  l  1  sind,  tritt  eine Kürzung des Ausbildungsbeitrages insoweit nicht ein, als das gesamte Ausmaß der Unterrichtserteilung als  Unterrichtspraktikant  und  Vertragslehrer  das  Ausmaß  der  vollen  Lehrverpflichtung  gemäß  dem Bundeslehrer-Lehrverpflichtungsgesetz übersteigt.
+(5) Einem Unterrichtspraktikanten, der neben seiner Einführung in das praktische Lehramt in einer lehramtlichen Verwendung oder in einem vertraglichen oder öffentlich-rechtlichen Dienstverhältnis zum Bund steht, ist der Ausbildungsbeitrag nach Abs. 1 in dem Ausmaß zu kürzen, als das Monatsentgelt aus dem Dienstverhältnis einschließlich allfälliger Teuerungszulagen und der Ausbildungsbeitrag zusammen das Monatsentgelt eines die volle Lehrverpflichtung erfüllenden Vertragslehrers des Entlohnungsschemas I L Entlohnungsgruppe l 1 Entlohnungsstufe 1 einschließlich allfälliger Teuerungszulagen übersteigen. Bei Unterrichtspraktikanten, die gleichzeitig Vertragslehrer der Entlohnungsgruppe l 1 sind, tritt eine Kürzung des Ausbildungsbeitrages insoweit nicht ein, als das gesamte Ausmaß der Unterrichtserteilung als Unterrichtspraktikant und Vertragslehrer das Ausmaß der vollen Lehrverpflichtung gemäß dem Bundeslehrer-Lehrverpflichtungsgesetz übersteigt.
 
 ### Kürzung und Entfall des Ausbildungsbeitrages
 
 § 16. (1) Einem Unterrichtspraktikanten, der aus berücksichtigungswürdigen Gründen höchstens 26 Werktage verhindert ist, seinen Pflichten nachzukommen, gebührt der Ausbildungsbeitrag einschließlich des Kinderzuschusses ungekürzt weiter. Darüber hinaus ist für jeden weiteren Tag seiner Verhinderung eine Kürzung im Ausmaß des verhältnismäßigen Teils des monatlichen Ausbildungsbeitrages einschließlich  des  Kinderzuschusses  vorzunehmen.  Eine  solche  Kürzung  ist  unbeschadet  des  ersten Satzes jedenfalls sofort dann vorzunehmen, wenn der Unterrichtspraktikant eigenmächtig seinen Pflichten nicht nachkommt.
 
-- Bei vorzeitiger Beendigung des Unterrichtspraktikums gebührt dem Unterrichtspraktikanten nur ein entsprechender Teilbetrag des Ausbildungsbeitrages einschließlich  des Kinderzuschusses, wobei für jeden im Unterrichtspraktikum zurückgelegten Tag der verhältnismäßige Teil des monatlichen Ausbildungsbeitrages einschließlich des Kinderzuschusses zu rechnen ist.
+(2) Bei vorzeitiger Beendigung des Unterrichtspraktikums gebührt dem Unterrichtspraktikanten nur ein entsprechender Teilbetrag des Ausbildungsbeitrages einschließlich des Kinderzuschusses, wobei für jeden im Unterrichtspraktikum zurückgelegten Tag der verhältnismäßige Teil des monatlichen Ausbildungsbeitrages einschließlich des Kinderzuschusses zu rechnen ist.
 
-- Bei Kürzung und Entfall des Ausbildungsbeitrages gebührt auch nur der entsprechende Teil der Sonderzahlung.
+(3) Bei Kürzung und Entfall des Ausbildungsbeitrages gebührt auch nur der entsprechende Teil der Sonderzahlung.
 
 ### Auszahlung
 
 § 17. (1) Der Ausbildungsbeitrag und der Kinderzuschuss sind für den Kalendermonat zu berechnen und  durch  Überweisung  auf  ein  vom  Unterrichtspraktikanten  anzugebendes  Konto  auszuzahlen.  Die Überweisung ist so vorzunehmen, daß dem Unterrichtspraktikanten die für den laufenden Kalendermonat gebührenden Beträge am 15. eines jeden Monats zur Verfügung stehen.
 
-- Die  Überweisung  der  Sonderzahlungen  hat  gleichzeitig  mit  den  für  die  Monate  November, Februar, Mai und August gebührenden Ausbildungsbeiträgen zu erfolgen. Bei Beendigung der Unterrichtspraxis  hat  die  Überweisung  spätestens  innerhalb  eines  Monates  nach  der  Beendigung  zu erfolgen.
+(2) Die Überweisung der Sonderzahlungen hat gleichzeitig mit den für die Monate November, Februar, Mai und August gebührenden Ausbildungsbeiträgen zu erfolgen. Bei Beendigung der Unterrichtspraxis hat die Überweisung spätestens innerhalb eines Monates nach der Beendigung zu erfolgen.
 
 ### Ersatz von Übergenüssen und Verjährung
 
@@ -366,9 +385,11 @@ Seite 7 von 14
 
 Bundesrecht konsolidiert
 
-- wegen  der  notwendigen  Pflege  eines  im  gemeinsamen  Haushalt  lebenden  erkrankten  oder verunglückten nahen Angehörigen oder Kindes der Person, mit der der Unterrichtspraktikant  in Lebensgemeinschaft oder eingetragener Partnerschaft lebt oder
+1. wegen der notwendigen Pflege eines im gemeinsamen Haushalt lebenden erkrankten oder verunglückten nahen Angehörigen oder Kindes der Person, mit der der Unterrichtspraktikant in Lebensgemeinschaft oder eingetragener Partnerschaft lebt oder
 
-- wegen  der  notwendigen  Betreuung  seines  Kindes,  Wahlkindes  oder  Pflegekindes,  Stiefkindes oder  des  Kindes  der  Person,  mit  der  der  Unterrichtspraktikant  in  Lebensgemeinschaft  oder eingetragener  Partnerschaft  lebt,  wenn  die  Person,  die  das  Kind  ständig  betreut  hat,  aus  den Gründen des § 15d Abs. 2 Z 1 bis 4 MSchG für diese Pflege ausfällt oder 3. wegen der Begleitung seines erkrankten Kindes, Wahl- oder Pflegekindes, Stiefkindes oder des Kindes der  Person,  mit  der  er  in  Lebensgemeinschaft  oder  eingetragener  Partnerschaft  lebt,  bei  einem stationären  Aufenthalt in einer Heil-  und Pflegeanstalt,  sofern das Kind das zehnte  Lebensjahr noch nicht vollendet hat.
+2. wegen der notwendigen Betreuung seines Kindes, Wahlkindes oder Pflegekindes, Stiefkindes oder des Kindes der Person, mit der der Unterrichtspraktikant in Lebensgemeinschaft oder eingetragener Partnerschaft lebt, wenn die Person, die das Kind ständig betreut hat, aus den Gründen des § 15d Abs. 2 Z 1 bis 4 MSchG für diese Pflege ausfällt oder
+
+3. wegen der Begleitung seines erkrankten Kindes, Wahl- oder Pflegekindes, Stiefkindes oder des Kindes der Person, mit der er in Lebensgemeinschaft oder eingetragener Partnerschaft lebt, bei einem stationären Aufenthalt in einer Heil- und Pflegeanstalt, sofern das Kind das zehnte Lebensjahr noch nicht vollendet hat.
 
 (2) Als nahe Angehörige sind die Ehegattin und der Ehegatte oder die eingetragene Partnerin und der eingetragene Partner und Personen anzusehen, die mit der Unterrichtspraktikantin oder dem Unterrichtspraktikanten in gerader Linie verwandt sind, ferner Geschwister, Stief-, Wahl-, Pflegekinder sowie die Person, mit der die Unterrichtspraktikantin oder der Unterrichtspraktikant in Lebensgemeinschaft lebt.
 
@@ -378,9 +399,9 @@ Bundesrecht konsolidiert
 
 (4) Darüber hinaus besteht Anspruch auf Pflegefreistellung im Ausbildungsjahr bis zum Höchstausmaß der auf eine weitere Woche entfallenden Zeit der Tätigkeit im Unterrichtspraktikum, wenn der Unterrichtspraktikant
 
-- den Anspruch auf Pflegefreistellung nach Abs. 1 verbraucht hat und
+1. den Anspruch auf Pflegefreistellung nach Abs. 1 verbraucht hat und
 
-- wegen  der  notwendigen  Pflege  seines  im  gemeinsamen  Haushalt  lebenden  erkrankten  Kindes (einschließlich Wahl-, Pflegeoder Stiefkindes oder Kindes der Person, mit der der Unterrichtspraktikant  in  Lebensgemeinschaft  oder  eingetragener  Partnerschaft  lebt),  das  das zwölfte  Lebensjahr  noch  nicht  überschritten  hat,  an  der  Tätigkeit  im  Unterrichtspraktikum neuerlich verhindert ist.
+2. wegen der notwendigen Pflege seines im gemeinsamen Haushalt lebenden erkrankten Kindes (einschließlich Wahl-, Pflege- oder Stiefkindes oder Kindes der Person, mit der der Unterrichtspraktikant in Lebensgemeinschaft oder eingetragener Partnerschaft lebt), das das zwölfte Lebensjahr noch nicht überschritten hat, an der Tätigkeit im Unterrichtspraktikum neuerlich verhindert ist.
 
 (4a) (Anm.: aufgehoben durch BGBl I Nr. 151/2013)
 
@@ -412,31 +433,31 @@ Bundesrecht konsolidiert
 
 § 22. Die §§ 3 bis 9 des Mutterschutzgesetzes 1979, BGBl.  Nr. 221, gelten für weibliche Unterrichtspraktikanten sinngemäß.
 
-§ 22a. (1)  Ein  Unterrichtspraktikant  darf  im  Zusammenhang  mit  dem  Unterrichtspraktikum  weder unmittelbar  noch  mittelbar  auf  Grund  des  Geschlechtes  diskriminiert  werden.  § 4a  des  BundesGleichbehandlungsgesetzes, BGBl. Nr. 100/1993, ist anzuwenden.
+§ 22a. (1) Ein Unterrichtspraktikant darf im Zusammenhang mit dem Unterrichtspraktikum weder unmittelbar noch mittelbar auf Grund des Geschlechtes diskriminiert werden. § 4a des Bundes-Gleichbehandlungsgesetzes, BGBl. Nr. 100/1993, ist anzuwenden.
 
 (2) Eine Diskriminierung auf Grund des Geschlechtes liegt auch vor, wenn ein Unterrichtspraktikant im Zusammenhang mit dem Unterrichtspraktikum
 
-- durch Schulleiter, Lehrer oder an der Schule beschäftigte sonstige Bedienstete sexuell belästigt wird oder
+1. durch Schulleiter, Lehrer oder an der Schule beschäftigte sonstige Bedienstete sexuell belästigt wird oder
 
-- durch Dritte sexuell belästigt wird oder
+2. durch Dritte sexuell belästigt wird oder
 
-- durch Dritte sexuell belästigt wird und der Schulleiter es schuldhaft unterlässt, eine angemessene Abhilfe zu schaffen.
+3. durch Dritte sexuell belästigt wird und der Schulleiter es schuldhaft unterlässt, eine angemessene Abhilfe zu schaffen.
 
 (3)  Sexuelle  Belästigung  liegt  vor,  wenn  ein  der  sexuellen  Sphäre  zugehöriges  Verhalten  gesetzt wird,
 
-- das die Würde einer Person beeinträchtigt,
+1. das die Würde einer Person beeinträchtigt,
 
-- das für den Unterrichtspraktikanten unerwünscht, unangebracht oder anstößig ist und
+2. das für den Unterrichtspraktikanten unerwünscht, unangebracht oder anstößig ist und
 
-- a) das ein einschüchterndes, feindseliges oder demütigendes Umfeld für den Unterrichtspraktikanten schafft oder
+3. a) das ein einschüchterndes, feindseliges oder demütigendes Umfeld für den Unterrichtspraktikanten schafft oder
 
-- bei  dem  der  Umstand,  dass  der  Unterrichtspraktikant  ein  der  sexuellen  Sphäre  zugehöriges Verhalten eines Schulleiters,  eines  Lehrers oder eines an der Schule beschäftigten sonstigen Bediensteten zurückweist oder duldet, ausdrücklich oder stillschweigend zur Grundlage einer Entscheidung im Zusammenhang mit dem Unterrichtspraktikum gemacht wird.
+b) bei dem der Umstand, dass der Unterrichtspraktikant ein der sexuellen Sphäre zugehöriges Verhalten eines Schulleiters, eines Lehrers oder eines an der Schule beschäftigten sonstigen Bediensteten zurückweist oder duldet, ausdrücklich oder stillschweigend zur Grundlage einer Entscheidung im Zusammenhang mit dem Unterrichtspraktikum gemacht wird.
 
 (4)  Eine  durch  einen  Schulleiter,  einen  Lehrer  oder  einen  an  der  Schule  beschäftigten  sonstigen Bediensteten erfolgte Diskriminierung ist als Dienstpflichtverletzung zu verfolgen.
 
 (5) Ein auf  Grund  des  Geschlechtes  gemäß  Abs. 2  diskriminierter  Unterrichtspraktikant  hat gegenüber dem Belästiger und im Fall des Abs. 2 Z 3 auch gegenüber dem Bund Anspruch auf Ersatz des erlittenen Schadens. § 19 Abs. 3 des Bundes-Gleichbehandlungsgesetzes ist anzuwenden.
 
-- Ansprüche nach Abs. 5 sind binnen sechs Monaten gerichtlich geltend zu machen.
+(6) Ansprüche nach Abs. 5 sind binnen sechs Monaten gerichtlich geltend zu machen.
 
 (7)  Ein  Unterrichtspraktikant,  der  eine  ihm  zugefügte  Diskriminierung  gemäß  Abs. 1  oder  2 behauptet, ist zur Antragstellung an die Gleichbehandlungskommission berechtigt. Die §§ 23a und 25 des Bundes-Gleichbehandlungsgesetzes sind sinngemäß anzuwenden.
 
@@ -446,15 +467,15 @@ Bundesrecht konsolidiert
 
 § 23. (1) Das Unterrichtspraktikum wird vorzeitig beendet durch
 
-- Austritt des Unterrichtspraktikanten,
+1. Austritt des Unterrichtspraktikanten,
 
-- gerechtfertigtes Fernbleiben von insgesamt mehr  als acht Wochen,  wobei  die  Zeit  von Schulferien nicht mitzuzählen ist,
+2. gerechtfertigtes Fernbleiben von insgesamt mehr als acht Wochen, wobei die Zeit von Schulferien nicht mitzuzählen ist,
 
-- Feststellung der Nichteignung infolge körperlicher oder gesundheitlicher Beschwerden,
+3. Feststellung der Nichteignung infolge körperlicher oder gesundheitlicher Beschwerden,
 
-- ungerechtfertigtes Fernbleiben von insgesamt mehr als drei Tagen,
+4. ungerechtfertigtes Fernbleiben von insgesamt mehr als drei Tagen,
 
-- Ausschließung vom Unterrichtspraktikum wegen Pflichtverletzung.
+5. Ausschließung vom Unterrichtspraktikum wegen Pflichtverletzung.
 
 Das Unterrichtspraktikum in Religion wird überdies durch den von der zuständigen kirchlichen Behörde ausgesprochenen Entzug der Ermächtigung zur Erteilung des Religionsunterrichtes vorzeitig beendet.
 
@@ -462,7 +483,7 @@ Das Unterrichtspraktikum in Religion wird überdies durch den von der zuständig
 
 (3) Bei vorzeitiger Beendigung des Unterrichtspraktikums ist auf Antrag eine neuerliche Zulassung zum Unterrichtspraktikum nach Maßgabe der folgenden Bestimmungen vorzunehmen:
 
-- Die  Zulassung  darf  in  den  Fällen  des  Abs. 1  Z 1  und  2  ab  dem  folgenden  Unterrichtsjahr,  im Falle des Abs. 1 Z 3 ab dem auf den Wegfall der Behinderung folgenden Unterrichtsjahr und im Falle des Abs. 1 Z 4 und 5 ab dem auf dem Zeitpunkt, zu dem eine ordnungsmäßige Beendigung des  Unterrichtspraktikums  glaubhaft  gemacht  wird,  folgenden  Unterrichtsjahr  erfolgen;  in  den
+1. Die Zulassung darf in den Fällen des Abs. 1 Z 1 und 2 ab dem folgenden Unterrichtsjahr, im Falle des Abs. 1 Z 3 ab dem auf den Wegfall der Behinderung folgenden Unterrichtsjahr und im Falle des Abs. 1 Z 4 und 5 ab dem auf dem Zeitpunkt, zu dem eine ordnungsmäßige Beendigung des Unterrichtspraktikums glaubhaft gemacht wird, folgenden Unterrichtsjahr erfolgen; in den
 
 www.ris.bka.gv.at
 
@@ -476,7 +497,7 @@ Bundesrecht konsolidiert
 
 Fällen des Abs. 1 Z 1 bis 3 ist das neuerliche Ansuchen im Falle einer Reihung gemäß § 3 Abs. 8 so  zu  behandeln,  als  ob  es  zum  Zeitpunkt  des  ursprünglichen  Ansuchens  eingebracht  worden wäre.
 
-- Die  Fortsetzung  des  Unterrichtspraktikums  hat  im  Falle  der  Beendigung  während  des  ersten Semesters  mit  Beginn  des  Unterrichtsjahres,  im  Falle  der  Beendigung  während  des  zweiten Semesters mit Beginn eines folgenden zweiten Semesters zu erfolgen; im letzten Fall darf das Unterrichtspraktikum jedoch auch mit Beginn eines Unterrichtsjahres fortgesetzt werden.
+2. Die Fortsetzung des Unterrichtspraktikums hat im Falle der Beendigung während des ersten Semesters mit Beginn des Unterrichtsjahres, im Falle der Beendigung während des zweiten Semesters mit Beginn eines folgenden zweiten Semesters zu erfolgen; im letzten Fall darf das Unterrichtspraktikum jedoch auch mit Beginn eines Unterrichtsjahres fortgesetzt werden.
 
 (4) Im Falle einer neuerlichen Zulassung entfällt die Verpflichtung des Unterrichtspraktikanten zum Besuch von jenen im Curriculum vorgesehenen Veranstaltungen der Pädagogischen Hochschule, die er bereits besucht hat. Er ist jedoch zur Teilnahme an derartigen Veranstaltungen berechtigt.
 
@@ -486,13 +507,13 @@ Fällen des Abs. 1 Z 1 bis 3 ist das neuerliche Ansuchen im Falle einer Reihung 
 
 § 24. (1)  Am  Ende  des  Unterrichtspraktikums  haben  die  Betreuungslehrer  die  Leistungen  des Unterrichtspraktikanten am Praxisplatz unter Bedachtnahme auf folgende Punkte zu beschreiben:
 
-- Vermittlung des im Lehrplan vorgeschriebenen Lehrstoffes gemäß dem Stand der Wissenschaft sowie unter Beachtung der dem  Unterrichtsgegenstand entsprechenden didaktischen und methodischen Grundsätze,
+1. Vermittlung des im Lehrplan vorgeschriebenen Lehrstoffes gemäß dem Stand der Wissenschaft sowie unter Beachtung der dem Unterrichtsgegenstand entsprechenden didaktischen und methodischen Grundsätze,
 
-- erzieherisches Wirken,
+2. erzieherisches Wirken,
 
-- die für die Unterrichts- und Erziehungstätigkeit erforderliche Zusammenarbeit mit den anderen Lehrern sowie mit den Erziehungsberechtigten,
+3. die für die Unterrichts- und Erziehungstätigkeit erforderliche Zusammenarbeit mit den anderen Lehrern sowie mit den Erziehungsberechtigten,
 
-- Erfüllung der mit der Unterrichts- und Erziehungsarbeit verbundenen administrativen Aufgaben.
+4. Erfüllung der mit der Unterrichts- und Erziehungsarbeit verbundenen administrativen Aufgaben.
 
 (2)  Das  zuständige  Organ  der  Pädagogischen  Hochschule  hat  den  Erfolg  der  Beteiligung  des Unterrichtspraktikanten am Lehrgang der Pädagogischen Hochschule dem Vorgesetzten des Unterrichtspraktikanten (§ 26) mitzuteilen.
 
@@ -502,11 +523,11 @@ Fällen des Abs. 1 Z 1 bis 3 ist das neuerliche Ansuchen im Falle einer Reihung 
 
 (5) Der Vorgesetzte des Unterrichtspraktikanten (§ 26) hat auf Grund der Unterlagen gemäß Abs. 1 bis  4  sowie  auf  Grund  eigener  Wahrnehmungen  festzustellen,  ob  der  Unterrichtspraktikant  den  zu erwartenden Arbeitserfolg
 
-- durch besondere Leistungen erheblich überschritten,
+1. durch besondere Leistungen erheblich überschritten,
 
-- aufgewiesen oder
+2. aufgewiesen oder
 
-- trotz nachweislicher Ermahnung nicht aufgewiesen hat. Unterrichtet der Unterrichtspraktikant an mehreren  Schulen,  hat  der  Leiter  jener  Schule,  die  nicht  Stammschule  ist,  den  Bericht  des Betreuungslehrers seiner Schule samt der allfälligen Stellungnahme des Unterrichtspraktikanten und seinem Beurteilungsvorschlag dem Leiter der Stammschule zu übermitteln.
+3. trotz nachweislicher Ermahnung nicht aufgewiesen hat. Unterrichtet der Unterrichtspraktikant an mehreren Schulen, hat der Leiter jener Schule, die nicht Stammschule ist, den Bericht des Betreuungslehrers seiner Schule samt der allfälligen Stellungnahme des Unterrichtspraktikanten und seinem Beurteilungsvorschlag dem Leiter der Stammschule zu übermitteln.
 
 (6)  Die  Beurteilung  und  der  Zeitraum  der  Zurücklegung  des  Unterrichtspraktikums  sind  unter Angabe der unterrichteten Unterrichtsgegenstände in einem Zeugnis zu bestätigen, welches innerhalb von drei Wochen nach Beendigung des Unterrichtspraktikums auszufolgen ist.
 
@@ -540,23 +561,23 @@ Bundesrecht konsolidiert
 
 Unterrichtspraktikanten sind nach Möglichkeit Betreuungslehrern mit mindestens fünfjähriger Unterrichtspraxis zuzuweisen.
 
-(4) Der Betreuungslehrer hat den Unterrichtspraktikanten in dessen Unterrichtsund Erziehungsarbeit  so  zu  beraten,  daß  dieser  das  Unterrichtspraktikum  möglichst  erfolgreich  abschließen kann. Zur Erreichung dieses Zieles hat der Betreuungslehrer insbesondere am Beginn des Unterrichtspraktikums  ständig  am  Unterricht  des  Unterrichtspraktikanten  teilzunehmen  und  dessen Unterrichtsvorbereitung zu prüfen; im Verlauf des Unterrichtsjahres ist die Anwesenheit in dem Maße zu verringern, als dies zur Erreichung des Zieles des Unterrichtspraktikums (§ 1 Abs. 1) zweckmäßig und im Hinblick  auf  eine  ordnungsgemäße  Unterrichts-  und  Erziehungsarbeit  vertretbar  ist.  Erforderlichenfalls hat  zu  Beginn  des  Unterrichtsjahres  der  Betreuungslehrer  kurzfristig  selbst  oder  gemeinsam  mit  dem Unterrichtspraktikanten  den  Unterricht  zu  erteilen.  Der  Betreuungslehrer  hat  die  Themenstellung  bei Schularbeiten sowie deren Beurteilung und die Leistungsbeurteilung über das erste Semester sowie die Schulstufe zu überprüfen und erforderlichenfalls abzuändern.
+(4) Der Betreuungslehrer hat den Unterrichtspraktikanten in dessen Unterrichts- und Erziehungsarbeit so zu beraten, daß dieser das Unterrichtspraktikum möglichst erfolgreich abschließen kann. Zur Erreichung dieses Zieles hat der Betreuungslehrer insbesondere am Beginn des Unterrichtspraktikums ständig am Unterricht des Unterrichtspraktikanten teilzunehmen und dessen Unterrichtsvorbereitung zu prüfen; im Verlauf des Unterrichtsjahres ist die Anwesenheit in dem Maße zu verringern, als dies zur Erreichung des Zieles des Unterrichtspraktikums (§ 1 Abs. 1) zweckmäßig und im Hinblick auf eine ordnungsgemäße Unterrichts- und Erziehungsarbeit vertretbar ist. Erforderlichenfalls hat zu Beginn des Unterrichtsjahres der Betreuungslehrer kurzfristig selbst oder gemeinsam mit dem Unterrichtspraktikanten den Unterricht zu erteilen. Der Betreuungslehrer hat die Themenstellung bei Schularbeiten sowie deren Beurteilung und die Leistungsbeurteilung über das erste Semester sowie die Schulstufe zu überprüfen und erforderlichenfalls abzuändern.
 
 (5)  Im  Falle  der  Abwesenheit  des  Unterrichtspraktikanten  und  bei  vorzeitiger  Beendigung  des Unterrichtspraktikums hat der Betreuungslehrer den betreffenden Unterricht zu übernehmen.
 
-- Die Bestellung zum Betreuungslehrer endet
+(6) Die Bestellung zum Betreuungslehrer endet
 
-- mit der Beendigung der Dienstleistung an einer mittleren oder höheren Schule,
+1. mit der Beendigung der Dienstleistung an einer mittleren oder höheren Schule,
 
-- mit der Aufhebung der Bestellung auf Antrag des Betreuungslehrers,
+2. mit der Aufhebung der Bestellung auf Antrag des Betreuungslehrers,
 
-- bei  Betreuungslehrern  für  Religion  mit  dem  Entzug  der  Ermächtigung  durch  die  zuständige kirchliche Behörde,
+3. bei Betreuungslehrern für Religion mit dem Entzug der Ermächtigung durch die zuständige kirchliche Behörde,
 
-- durch die Leistungsfeststellung über seine Lehrertätigkeit, daß er den zu erwartenden Arbeitserfolg trotz nachweislicher Ermahnung nicht aufgewiesen hat und
+4. durch die Leistungsfeststellung über seine Lehrertätigkeit, daß er den zu erwartenden Arbeitserfolg trotz nachweislicher Ermahnung nicht aufgewiesen hat und
 
-- mit  der  Feststellung  des  Landesschulrates,  daß  der  Betreuungslehrer  trotz  nachweislicher Ermahnung seine Verpflichtungen als Betreuungslehrer nicht ordnungsgemäß erfüllt.
+5. mit der Feststellung des Landesschulrates, daß der Betreuungslehrer trotz nachweislicher Ermahnung seine Verpflichtungen als Betreuungslehrer nicht ordnungsgemäß erfüllt.
 
-- Die  Aufhebung  gemäß  Abs. 6  Z 2  hat  mit  Ablauf  des  Schuljahres  zu  erfolgen,  das  auf  die Stellung des Antrages folgt.
+(7) Die Aufhebung gemäß Abs. 6 Z 2 hat mit Ablauf des Schuljahres zu erfolgen, das auf die Stellung des Antrages folgt.
 
 (8) Ist ein Betreuungslehrer durch längere Zeit vom Dienst abwesend, so ist für den Unterrichtspraktikanten für die Zeit der Abwesenheit dieses Betreuungslehrers ein anderer Betreuungslehrer für den betreffenden Unterrichtsbereich zu bestellen. Ist dies nicht möglich, so ist der Unterrichtspraktikant einem anderen Praxisplatz zuzuweisen.
 
@@ -588,9 +609,9 @@ Bundesrecht konsolidiert
 
 § 27a. Abweichend von § 1 wird
 
-- eine  Verwendung  als  Lehrer  mindestens  im  Umfang  einer  zweijährigen  Vollbeschäftigung  an einer Schule, deren Schulart im Schulorganisationsgesetz, BGBl. Nr. 242/1962, geregelt ist, oder
+1. eine Verwendung als Lehrer mindestens im Umfang einer zweijährigen Vollbeschäftigung an einer Schule, deren Schulart im Schulorganisationsgesetz, BGBl. Nr. 242/1962, geregelt ist, oder
 
-- eine  Verwendung  an  einer  vergleichbaren  höheren  Schule  im  Ausland  im  Rahmen  eines Lehrervermittlungs-  und  Austauschprogrammes  des  Bundesministeriums  für  Unterricht,  Kunst und Kultur mindestens im Umfang einer einjährigen Vollbeschäftigung
+2. eine Verwendung an einer vergleichbaren höheren Schule im Ausland im Rahmen eines Lehrervermittlungs- und Austauschprogrammes des Bundesministeriums für Unterricht, Kunst und Kultur mindestens im Umfang einer einjährigen Vollbeschäftigung
 
 der Absolvierung des Unterrichtspraktikums gleichgehalten.
 
@@ -620,11 +641,11 @@ der Absolvierung des Unterrichtspraktikums gleichgehalten.
 
 (11) Die nachstehend genannten Bestimmungen  dieses  Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 71/2007 treten wie folgt in bzw. außer Kraft:
 
-§ 3 Abs. 9, § 27a Z 2 und § 31 treten mit 1. März 2007 in Kraft,
+1. § 3 Abs. 9, § 27a Z 2 und § 31 treten mit 1. März 2007 in Kraft,
 
-§ 2, § 3 Abs. 7, § 4 Abs. 1, § 5 Abs. 1 Z 2, § 6 Abs. 4 Z 4, § 11 samt Überschrift, § 13 Abs. 1, § 19 Abs. 1 Z 1 und 2 und Abs. 4 Z 2, § 20 Abs. 1, § 21, § 22a Abs. 1, 5 und 7, § 23 Abs. 4, § 24 Abs. 2 und § 25 Abs. 2 treten mit 1. Oktober 2007 in Kraft,
+2. § 2, § 3 Abs. 7, § 4 Abs. 1, § 5 Abs. 1 Z 2, § 6 Abs. 4 Z 4, § 11 samt Überschrift, § 13 Abs. 1, § 19 Abs. 1 Z 1 und 2 und Abs. 4 Z 2, § 20 Abs. 1, § 21, § 22a Abs. 1, 5 und 7, § 23 Abs. 4, § 24 Abs. 2 und § 25 Abs. 2 treten mit 1. Oktober 2007 in Kraft,
 
-§ 28 samt Überschrift tritt mit Ablauf des 30. September 2007 außer Kraft.
+3. § 28 samt Überschrift tritt mit Ablauf des 30. September 2007 außer Kraft.
 
 (12)  § 3  Abs. 4  Z 4  und  5,  § 16  Abs. 1  und  2,  § 20  Abs. 1  und  § 31  in  der  Fassung  des Bundesgesetzes BGBl. I Nr. 114/2009 treten mit 1. September 2009 in Kraft.
 
@@ -655,7 +676,7 @@ Bundesrecht konsolidiert
 
 (2) Für Leistungen, die am Tag des Inkrafttretens dieses Bundesgesetzes oder später fällig werden, gelten die neuen Vorschriften, auch wenn die Exekution bereits vor diesem Zeitpunkt beantragt wurde. Auf Antrag des betreibenden Gläubigers, des Verpflichteten oder des Drittschuldners hat das Exekutionsgericht die Exekutionsbewilligung entsprechend zu ändern.
 
-(3) Abs. 2 ist auch bei jeder Änderung durch Verordnung nach § 292g EO anzuwenden (Anm.: tritt mit Ablauf des 31.12.2003 außer Kraft, vgl. Art. III Z 4, BGBl. I Nr. 31/2003) .
+(3) Abs. 2 ist auch bei jeder Änderung durch Verordnung nach § 292g EO anzuwenden (Anm.: tritt mit Ablauf des 31.12.2003 außer Kraft, vgl. Art. III Z 4, BGBl. I Nr. 31/2003).
 
 (4) (Anm.: Die Absätze 4 bis 10 betreffen die Exekutionsordnung)
 
@@ -679,9 +700,9 @@ Bundesrecht konsolidiert
 
 (Anm.: aus BGBl. I Nr. 135/2009, zu § 19, BGBl. Nr. 145/1988)
 
-(1) Art. 2 (Änderung des Allgemeinen Bürgerlichen Gesetzbuchs), Art. 3 (Änderung des Ehegesetzes), Art. 4 (Änderung des Fortpflanzungsmedizingesetzes), Art. 6 (Änderung der Jurisdiktionsnorm), Art. 7 (Änderung des Strafgesetzbuches), Art. 27 (Änderung des Einkommensteuergesetzes 1988), Art. 28 (Änderung des Körperschaftsteuergesetzes 1988), Art. 29 (Änderung  des  Umsatzsteuergesetzes 1994),  Art. 30  (Änderung  des  Bewertungsgesetzes 1955),  Art. 31 (Änderung des Gebührengesetzes 1957), Art. 33 (Änderung der Bundesabgabenordnung), Art. 34 (Änderung  des  Alkoholsteuergesetzes),  Art. 61  (Änderung  des  Ärztegesetzes 1998),  Art. 62  (Änderung des  Gehaltskassengesetzes 2002),  Art. 63  (Änderung  des  Apothekengesetzes),  Art. 72  (Änderung  des Studienförderungsgesetzes), Art. 76 (Änderung des Entwicklungshelfergesetzes), Art. 77 (Änderung des Bundesgesetzes  über  Aufgaben  und  Organisation  des  auswärtigen  Dienstes  -  Statut)  und  Art. 78 (Bundesgesetz über die Einräumung von Privilegien und Immunitäten an internationale Organisationen) treten mit 1. Jänner 2010 in Kraft.
+(1) Art. 2 (Änderung des Allgemeinen Bürgerlichen Gesetzbuchs), Art. 3 (Änderung des Ehegesetzes), Art. 4 (Änderung des Fortpflanzungsmedizingesetzes), Art. 6 (Änderung der Jurisdiktionsnorm), Art. 7 (Änderung des Strafgesetzbuches), Art. 27 (Änderung des Einkommensteuergesetzes 1988), Art. 28 (Änderung des Körperschaftsteuergesetzes 1988), Art. 29 (Änderung des Umsatzsteuergesetzes 1994), Art. 30 (Änderung des Bewertungsgesetzes 1955), Art. 31 (Änderung des Gebührengesetzes 1957), Art. 33 (Änderung der Bundesabgabenordnung), Art. 34 (Änderung des Alkoholsteuergesetzes), Art. 61 (Änderung des Ärztegesetzes 1998), Art. 62 (Änderung des Gehaltskassengesetzes 2002), Art. 63 (Änderung des Apothekengesetzes), Art. 72 (Änderung des Studienförderungsgesetzes), Art. 76 (Änderung des Entwicklungshelfergesetzes), Art. 77 (Änderung des Bundesgesetzes über Aufgaben und Organisation des auswärtigen Dienstes – Statut) und Art. 78 (Bundesgesetz über die Einräumung von Privilegien und Immunitäten an internationale Organisationen) treten mit 1. Jänner 2010 in Kraft.
 
-(2)  Die  durch  dieses  Bundesgesetz  geänderten  Strafbestimmungen  sind  in  Strafsachen  nicht anzuwenden,  in  denen  vor  ihrem  Inkrafttreten  das  Urteil  in  erster  Instanz  gefällt  worden  ist.  Nach Aufhebung  eines  Urteils  infolge  Nichtigkeitsbeschwerde,  Berufung,  Wiederaufnahme  oder  Erneuerung des Strafverfahrens oder infolge eines Einspruches ist jedoch im Sinne der §§ 1 und 61 StGB vorzugehen.
+(2) Die durch dieses Bundesgesetz geänderten Strafbestimmungen sind in Strafsachen nicht anzuwenden, in denen vor ihrem Inkrafttreten das Urteil in erster Instanz gefällt worden ist. Nach
 
 www.ris.bka.gv.at
 
@@ -692,6 +713,8 @@ Seite 13 von 14
 [[START OF PAGE 14]]
 
 Bundesrecht konsolidiert
+
+Aufhebung eines Urteils infolge Nichtigkeitsbeschwerde, Berufung, Wiederaufnahme oder Erneuerung des Strafverfahrens oder infolge eines Einspruches ist jedoch im Sinne der §§ 1 und 61 StGB vorzugehen.
 
 www.ris.bka.gv.at
 
