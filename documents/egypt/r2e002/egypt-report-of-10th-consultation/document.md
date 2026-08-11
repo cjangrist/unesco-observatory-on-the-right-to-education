@@ -48,7 +48,7 @@ In  the  preparation  of  reports,  Member  States  are  kindly  requested  to  
 
 With a view to simplify the Guidelines while providing necessary substantive information to assist Member States in the preparation of responses, two series of questions/remarks are presented:
 
-- Open-ended  and  closed-ended  questions  to  be  directly  filled  in  by  Member  States through  a  participatory  process.  Please  note  that  multiple  answers  may  be  provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States through a participatory process. Please note that multiple answers may be provided where relevant.
 
 > 1 Please note that the 1974 Recommendation concerning Education for International Understanding, Co-operation and  Peace  and  Education  relating  to  Human  Rights  and  Fundamental  Freedoms  is  used  specifically  for monitoring SDG target 4.7. The 1960 Convention and Recommendation contribute more generally to the body of evidence for monitoring the targets of SDG4.
 
@@ -56,11 +56,9 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 [[START OF PAGE 3]]
 
-- Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses  to  the  open-ended  questions  (including  remarks  on  how  to  respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
-In  their  responses,  Member  States  are  encouraged  to  provide  information  in  a  concise  manner while preserving substantive and relevant content.
-
-√ Yes
+In their responses, Member States are encouraged to provide information in a concise manner while preserving substantive and relevant content.
 
 ## GENERAL INFORMATION:
 
@@ -76,9 +74,9 @@ Ministry of Higher  Education and scientific research (supreme council of univer
 
 Ministry of Education and vocational Education (National Center for Educational research and Development
 
-## Information on the legislative, judicial, administrative and other measures taken by the state at the national level
+## I. Information on the legislative, judicial, administrative and other measures taken by the state at the national level
 
-### Ratification of the Convention 2
+### 1. Ratification of the Convention 2
 
 Is your country a State Party to the Convention?
 
@@ -114,7 +112,7 @@ o No, not considering ratification in the near future. Please explain why:
 
 ________________________________________________________
 
-### Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
+### 2. Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
 
 Has your country ratified the Protocol?
 
@@ -124,7 +122,7 @@ o No, please briefly explain the difficulties encountered:
 
 --___________________________________________________
 
-### Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
+### 3. Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
 
 #### In case your country is a State Party to the Convention:
 
@@ -180,9 +178,9 @@ Information supplied could demonstrate how such policies and programmes comply w
 
 ____________________________________________________
 
-## Information on the implementation of the Convention or Recommendation
+## II. Information on the implementation of the Convention or Recommendation
 
-### Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
+### 1. Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
 
 Articles/Paragraphs  1(1),  2  and  3of  the  Convention/Recommendation  provide  for  non- discrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
 
@@ -196,23 +194,15 @@ This corresponds to the overall aspiration of SDG4 which aims to 'ensure  inclus
 
 [[START OF PAGE 6]]
 
-Constitutional laws and/or legislation prohibit discrimination in education
+√ Constitutional laws and/or legislation prohibit discrimination in education
 
-√
+√ Regulations prohibit discrimination in education
 
-√
-
-Regulations prohibit discrimination in education
-
-Policies and programmes aim to eliminate and prevent discrimination in education
-
-√
+√ Policies and programmes aim to eliminate and prevent discrimination in education
 
 √ Access to justice in case of violations of the right to non-discrimination in education
 
-√
-
-Combatting discrimination in terms of curriculum
+√ Combatting discrimination in terms of curriculum
 
 o Other:
 
@@ -264,8 +254,6 @@ Egypt approved United Nations General Assembly Resolution 40/144 of December 13,
 
 - 1.2 Please indicate actions taken by your government to guarantee equal access to all levels and types of education in your country (several items could be ticked/mentioned):
 
-- Please indicate the relevant legal, regulatory or policy texts and provide a brief description of the measures taken :
-
 √ Constitutional laws and/or legislation guarantee equal access to education
 
 √ Regulations ensure equal access to all levels and types of education
@@ -273,6 +261,8 @@ Egypt approved United Nations General Assembly Resolution 40/144 of December 13,
 √ Policies and programmes ensure equal access to all levels and types of education
 
 o Other:
+
+- Please indicate the relevant legal, regulatory or policy texts and provide a brief description of the measures taken:
 
 This notably is covered under SDG target 4.1 and partly target 4.b 6
 
@@ -350,9 +340,7 @@ Combating discrimination in curricula:
 
 - Article No. 28 of   Prime Minister Decision No. 2733 to issue the executive regulations for the Rights of Persons with Disabilities Law.
 
-×
-
-- The  total  number  of  faculty  members  is  (53409),  of  whom  (30133)  members  are  male, 56.4%, and (23276) female members, representing 43.6% .
+× The total number of faculty members is (53409), of whom (30133) members are male, 56.4%, and (23276) female members, representing 43.6%.
 
 × the total number of the assisting body members is (35,637), of whom (21,489) are female, representing 60.3%, and (14,148) male members, representing 39.7% .
 
@@ -364,33 +352,31 @@ Combating discrimination in curricula:
 
 Please  note  that  child  marriage  is  a  discriminatory  practice  as  often  girls  can  marry  at  a younger  age  than  boys.  Child  marriage  violates  the  child's  right  to  education  as  they  are more likely to drop out of school and children who are not in school are more likely to get married.
 
-ü Yes
-
-o
-
-No o
+✓ Yes □ No □
 
 Please provide reference to the relevant laws and provisions:
 
 Regarding  Law  No.  126  of  2008  of  Civil  Status  Code,  which  states  that  it  is  not permissible to certify a marriage contract for a person who has not reached the age of eighteen years in full
 
-### Progress made with respect to implementing the right to education in the context of SDG 4
+### 2. Progress made with respect to implementing the right to education in the context of SDG 4
 
 #### 2.1 Pre-primary education
 
-Pre-primary  education  is  not  explicitly  provided  for  inthe  Convention/Recommendation. However, the international community has increasingly recognized the importance of early childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General  Comment  7).  This  became  more  explicit  with  the  2010  Moscow  Framework  for Action and Cooperation 8 .  In  the current context of the Education 2030 agenda, under SDG target  4.2,  states  have  now  committed  to  'the  provision  of  at  least  one  year  of  free  and compulsory pre-primary education'.
+Pre-primary education is not explicitly provided for inthe Convention/Recommendation. However, the international community has increasingly recognized the importance of early childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment 7). This became more explicit with the 2010 Moscow Framework for
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
+Action and Cooperation8. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
+
 - Is compulsory and free of charge pre-primary education available in your country?
 
-- ü Pre-primary education is compulsory: Please provide the age of enrolment and duration:
+- ✓ Pre-primary education is compulsory: Please provide the age of enrolment and duration:
 
 Pre- primary education is for a duration of 2 years before enrolment in primary at the age of the age of 6 years
 
-- ü Pre-primary education is free of charge for all: Please provide the duration:
+- ✓ Pre-primary education is free of charge for all: Please provide the duration:
 
 Free of charge in public schools for a duration of 2 years
 
@@ -418,7 +404,7 @@ Article/Paragraph 4(a)of the Convention/Recommendation provides for universal pr
 
 - Is primary education compulsory in your country?
 
-- ü ■ Yes o No
+- ✓ ■ Yes □ No
 
 > 8 Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'.
 
@@ -440,9 +426,9 @@ For this,  please  list  the  laws  and  policies  that  ensure  the  universal 
 
 The period of study for compulsory education is six years for elementary school, three for middle school, and three for high school
 
-- ü No: Is your country already engaged in legal and policy reforms to work towards universal and free primary education?
+- ✓ No: Is your country already engaged in legal and policy reforms to work towards universal and free primary education?
 
-- ü ■ Yes o No
+- ✓ ■ Yes □ No
 
 - Please briefly provide information on the reforms taken:
 
@@ -454,7 +440,7 @@ In this part, please provide information on the general availability and accessi
 
 - Is secondary education (middle/high) available free of charge?
 
-- ü ■ Yes: Please provide the duration and describe the extent to which it is.
+- ✓ ■ Yes: Please provide the duration and describe the extent to which it is.
 
 Please list the laws and policies that ensure the free availability of secondary education and describe  whether  direct  and  indirect  costs  are  covered  (such  as  tuition  fees,  exam  fees, school supplies, uniforms, transport costs and compulsory levies on parents).
 
@@ -478,9 +464,7 @@ The mentioned stages are mandatory according to Article 19 of the 2014 Constitut
 
 - Is secondary education (middle/high) compulsory in your country?
 
-- ü ■ Yes
-
-o No
+- ✓ ■ Yes □ No
 
 - Please  provide  details  on  its  implementation  and  indicate  the  duration  of  compulsory secondary education and the age of enrolment:
 
@@ -490,9 +474,7 @@ In  this  part,  you  may  also  provide  information  on  the  difficulties  ex
 
 Please  note  that  minimum  age  labour  laws  and  those  related  to  compulsory  education interdependent  and  mutually  reinforce  each  other.  If  the  minimum  age  of  employment  is below that of compulsory education, the child is at risk of dropping out of school to work and therefore not completing compulsory education. On the other hand, if compulsory education is  lower  than  the  minimum  age  of  employment,  once  the  child  has  completed  compulsory education, the door is open to child exploitation and the violation of labour laws.
 
-Yes n
-
-No o
+Yes ■ No □
 
 - Please provide reference to the relevant laws and provisions:
 
@@ -529,7 +511,6 @@ Article/Paragraph  4(a)of  the  Convention/Recommendation  provides  for  higher
 - è Non-differential treatment, including of foreign students
 
 Enrolment in government universities and institutes takes place through the Coordination Office, the criterion of which is the comparison between students on the basis of total scores at the secondary level.
----
 The Supreme Council of Egyptian Universities in 2019 approved the admission of international students, subject to conditions set by the embassies of countries.
 The credit hour programs were launched
 Coordination has been made between the Ministry of Higher Education and the Ministries of Foreign Affairs and Interior to facilitate the expatriate students.
@@ -576,7 +557,6 @@ Higher education is generally free of charge
 - n Other:
 
 Only 27 university have free of charge only in Governmental university
----
 As of the academic year 2019/2020, Egypt launched the "Study in Egypt" application to help students wishing to study in Egypt from around the world.
 The Ministry of Higher Education partnered with international universities and made twinning work
 About 35 local, regional and international cooperation agreements and protocols were signed
@@ -650,7 +630,6 @@ universities
 In  this  part,  you  may  also  provide  information  on  the  difficulties  experienced  by  your government  as regards access to higher education and on the progress realized. Quantitative information could be added.
 
 The state seeks to have admission according to a capacity test
----
 The transition from secondary education to university requires a standard other than an exam
 Regarding the Universities Organization Law 49 of 1972 and its executive regulations and Egyptian Ministerial Resolution No. 2555 of 2020 dated 11/8/2020 concerning the system and rules for admission of students with the Egyptian General Secondary Certificate and its equivalent (from Arab and foreign certificates), technical certificates and the Azhar high school diploma in 2020
 The number of students admitted to public universities from the high school through the University Admissions Coordination Office in 2017/2018 reached 387 thousand students and increased to 426 thousand students in 2018/2019, an increase of (10.7%), and the numbers
@@ -822,7 +801,6 @@ Interest  in  the  concept  of  quality  education  began  with  the  beginning 
 [[START OF PAGE 19]]
 
 Transforming schools through a number of educational projects and in response to needs
----
 the development of education and upgrading its quality
 ensure the quality of education and accreditation
 Set the necessary policies to ensure the quality of education . Through The Authority's Executive Regulations
@@ -863,8 +841,7 @@ Article/Paragraph 4(d)of the Convention/Recommendation provides for the educatio
 
 - Please briefly elaborate further on the measures taken:
 
-New Teacher Qualification Program :
----
+New Teacher Qualification Program:
 Intellectual framework
 The Ministry of Education took the initiative to establish a special cadre of teachers to support career growth
 Obtaining professional development opportunities provided by the system or that depend on the self-initiative ,
@@ -932,9 +909,7 @@ Article/Paragraph  5(1)(a)  of  the  Convention/Recommendation  provides  for  t
 
 [[START OF PAGE 22]]
 
-Other:
-
-o
+o Other:
 
 All curricula aim to promote the concept of  global citizenship
 
@@ -1002,33 +977,31 @@ This suggested activity can help the teacher learn  and transfer to students  li
 
 [[START OF PAGE 23]]
 
-Article/Paragraph  5(1)(a)  of  the  Convention/Recommendation  provides  for  the  respect  for human rights  and  fundamental  freedoms.  This  is  covered  under  SDG  target  4.7. 13 Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation  and  that  the  consultation  on  the  1974  Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms will be used specifically for monitoring SDG4 indicator 4.7.1.
+Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SDG target 4.7. 13 Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation and that the consultation on the 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms will be used specifically for monitoring SDG4 indicator 4.7.1.
 
 - Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items could be ticked/mentioned):
 
-Curriculum includes human rights education
-
-√
+√ Curriculum includes human rights education
 
 √ Educational and/or extracurricular activities are organized on human rights education
 
 o Other:
 
-> 13 Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human  rights,  gender  equality,  promotion  of  a  culture  of  peace  and  non-violence,  global  citizenship  and appreciation of cultural diversity and of culture's contribution to sustainable development'.
+Under Egypt's education law, education is a Human Right for all , it is an essential tool for achieving the goals of equality, development and peace. Moreover, there were efforts to improve the human personality, promote human rights and fundamental freedoms, provide Egyptian citizens with the appropriate values, studies and components that upgrade his/ her character and affirm human dignity, example of this are as follows:
 
-Under Egypt's education law, education is a Human Right for all , it is an essential  tool  for  achieving  the  goals  of  equality,  development  and  peace. Moreover,  there  were  efforts  to  improve  the  human  personality,  promote human rights and fundamental freedoms, provide Egyptian citizens with the appropriate values, studies and components that upgrade his/ her character and affirm human dignity, example of this are as follows:
+× Pre-University Strategic Plan (2014-2030) emphasizes the interest in developing curricula, which would firms up the Egyptian national affiliation, and enhances the preservation of identity.
 
-× Pre-University Strategic Plan (2014-2030) emphasizes the interest in developing  curricula,  which  would  firms  up  the    Egyptian  national affiliation, and  enhances the preservation of identity.
+× The National Information and Communication Technology Strategy emphasizes efforts aiming to transformation of Society to a digital society , a knowledge-based advanced economy and guarantees the digital access rights of all citizens.
 
-× The National Information and Communication Technology Strategy emphasizes  efforts  aiming  to  transformation  of  Society  to  a digital society , a knowledge-based advanced economy and guarantees the digital access rights of all citizens.
-
-× The  Egyptian  Organization  for  Human  Rights was  established  in 1985  to  operate  in  accordance  with  the  principles  of  the  Universal DeclarationOf Human Rights.
+× The Egyptian Organization for Human Rights was established in 1985 to operate in accordance with the principles of the Universal DeclarationOf Human Rights.
 
 × The Egyptian Center for Women's Rights was established to enhance and support the Egyptian woman and promote gender equality .
 
 × The Cairo Center for Human Rights was established in 1993 with the aim to promote and respect the values and principle of human rights in Egypt.
 
 ##### School curricula and human rights education
+
+> 13 Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development'.
 
 [[END OF PAGE 23]]
 
@@ -1044,23 +1017,19 @@ This suggested activity can help the teacher learn  and transfer to students  li
 
 Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for private education.
 
-- Does  your  country  have  a  regulatory  framework  relating  to  the  establishment  and functioning of private educational institutions?
+- Does your country have a regulatory framework relating to the establishment and functioning of private educational institutions?
+
+√ Yes No □
 
 - Please provide a brief description:
 
-√
-
-Yes  No o
-
-According to the Constitution of the Arab Republic of Egypt, education is the right of every citizen, its aim is to build the Egyptian character and preserve the  national  identity.  Private  and  State/governmental  schools  are  under  the supervision of the Ministry of Education.
+According to the Constitution of the Arab Republic of Egypt, education is the right of every citizen, its aim is to build the Egyptian character and preserve the national identity. Private and State/governmental schools are under the supervision of the Ministry of Education.
 
 There  are  several  legal  and  ministerial  decrees  issued  by  the  Minister  of Education and Education that aim to regulate the work relationship between private schools on one hand and the Ministry of Education on the other hand.
 
 -Do legal provisions prohibiting discrimination on the grounds listed by the Convention/Recommendation 14 explicitly apply to private educational institutions?
 
-√
-
-Yes  No o
+√ Yes No □
 
 - Please briefly describe what laws, regulations or policies guarantee that the development of private education does not generate discrimination and that private schools offer a relevant alternative in your country:
 
@@ -1080,11 +1049,7 @@ Pre-university religious education in Egypt can be received through the institut
 
 The  strategic  plan  for  pre-university  education  in  Egypt  indicated  that  there  is  an agreement  with The Azhari Institutes sector allowing transfer from public secondary education and vice versa through several criteria that help parents to choose the right type of education for their children.
 
-√
-
-Yes  No
-
-o
+√ Yes No □
 
 #### 2.9 Rights of national minorities
 
@@ -1092,9 +1057,7 @@ Article/Paragraph  5(1)(c)of  the  Convention/Recommendation  provides  for  the
 
 -  Please indicate the legal, policy and regulatory measures that protect the rights given to national  minorities  to  carry  out  their  own  educational  activities  (several  items  could  be ticked/mentioned):
 
-Constitutionallaws and/or legislation protect the right to education of national minorities
-
-√
+√ Constitutionallaws and/or legislation protect the right to education of national minorities
 
 √ Legislation or regulations guarantee the right of national minorities to study in their mother tongue
 
@@ -1110,15 +1073,16 @@ Egypt  is  concerned  with  the  establishment  of  legislative  frameworks  tha
 
 #### 2.10  Rights of refugees and migrants
 
-The rights of refugees and migrants are not explicitly provided for inthe Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in education based notably on national origin. 15 In this context,  a  number  of  Member  States  that  participated  in  the  9 th Consultation  reported  on measures adopted to ensure refugees' and migrants' right to education. Growing displacement  and  influx  of  refugees  worldwide  and  the  emergence  of  major  educational challenges  in  this  area,  as  well  as  the  frameworks  recently  adopted  by  the  international community, 16 demonstrate  the  opportunity  for  states  to  report  on  measures  adopted  to include refugees and migrants in their educational systems.
+The rights of refugees and migrants are not explicitly provided for inthe Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in education based notably on national origin. 15 In this context, a number of Member States that participated in the 9 th Consultation reported on measures adopted to ensure refugees' and migrants' right to education. Growing
 
 > 15 Articles/Paragraphs 1 and 3.
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
+displacement and influx of refugees worldwide and the emergence of major educational challenges in this area, as well as the frameworks recently adopted by the international community, 16 demonstrate the opportunity for states to report on measures adopted to include refugees and migrants in their educational systems.
 
-Besides, this aspect also corresponds to SDG target 4.5, which calls on states to 'ensure equal access to all levels of education and vocational training for the vulnerable', including 'children in vulnerable situations', and covers the majority of SDG4 targets.
+Besides, this aspect also corresponds to SDG target 4.5, which calls on states to “ensure equal access to all levels of education and vocational training for the vulnerable”, including “children in vulnerable situations”, and covers the majority of SDG4 targets.
 
 -  Please  briefly  describe  the  existing  legal  and  policy  framework  that  protects  the  right  to quality education for refugees and migrants in your country.
 
@@ -1148,9 +1112,9 @@ This area is related with the fourth objective of sustainable development, which
 
 education in an environment that protects more than 16,000 child.
 
-## Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
+## III. Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
 
-### Challenges and obstacles
+### 1. Challenges and obstacles
 
 > 16 Namely  the  2016  New  York  Declaration  for  Refugees  and  Migrants,  the  Comprehensive  Refugee  Response Framework and the two Global Compacts on refugees and for safe, orderly and regular migration.
 
@@ -1158,13 +1122,13 @@ education in an environment that protects more than 16,000 child.
 
 [[START OF PAGE 27]]
 
-- 1.1 Please indicate and provide any information on the difficulties encountered in the process of implementing  the  key  provisions  of  the  Convention/Recommendation  (including  legal  and practical obstacles) and on the main issues that need to be addressed for promoting further the right to education in your country (several items could be ticked/mentioned):
+1.1 Please indicate and provide any information on the difficulties encountered in the process of implementing the key provisions of the Convention/Recommendation (including legal and practical obstacles) and on the main issues that need to be addressed for promoting further the right to education in your country (several items could be ticked/mentioned):
 
-√ Challenges related to equitable access and inclusion in education (such as poverty and socio- economic factors, cultural and traditional attitudes, remoteness, migration and displacement, etc.)
+√ Challenges related to equitable access and inclusion in education (such as poverty and socio-economic factors, cultural and traditional attitudes, remoteness, migration and displacement, etc.)
 
-√ Challenges  related  to  the  quality  of  education  (such  as  shortages  of  qualified,  trained  and motivated  teaching  staff,  non-supportive  or  inadequate  teaching  and  learning  as  well  as  school environment, etc.)
+√ Challenges related to the quality of education (such as shortages of qualified, trained and motivated teaching staff, non-supportive or inadequate teaching and learning as well as school environment, etc.)
 
-√ Challenges  relating  to  the  system  and  governance  (such  as  budgetary  constraints,  lack  or weakness  of  monitoring  systems  -  including  the  lack  of  reliable  data,  absence  of  supportive/ inconsistent/obsolete  legal  and  policy  environment,  lack  of  involvement  of  relevant  stakeholders and lack of cooperation/coordination at different levels, etc.)
+√ Challenges relating to the system and governance (such as budgetary constraints, lack or weakness of monitoring systems – including the lack of reliable data, absence of supportive/inconsistent/obsolete legal and policy environment, lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels, etc.)
 
 √
 
@@ -1186,7 +1150,7 @@ The  Egyptian  education  system  faces  many  challenges  that  weaken  its per
 
 × The problem of illiteracy and school leaks.
 
-- 1.2 Please provide a brief assessment of the effectiveness of the methods introduced to remove the obstacles encountered:
+1.2 Please provide a brief assessment of the effectiveness of the methods introduced to remove the obstacles encountered:
 
 #### Overcoming obstacles
 
@@ -1226,15 +1190,15 @@ The  strategic  plan  for  pre-university  education  (2014-2030)  has  also  be
 
 × Development in general  to catch up  global institutions
 
+×
+
 ### 2. Awareness-raising
 
 UNESCO  governing  bodies  have  underlined  the  need  for  awareness  raising.  Given  the importance of normative action at the national level, wide dissemination of the Convention must be ensured, with the support of National Commissions for UNESCO.
 
 -  Have  activities  been  carried  out  to  draw  the  attention  of  the  various  authorities  of  the country to the Convention/Recommendation and their provisions about the right to education and to  raise  awareness  of  the  principles  of  non-discrimination  and  equality  of  educational opportunities? (several items could be ticked/mentioned)
 
-- o Translation  of  the  Convention/Recommendation  into  the  national  and  possibly  local languages
-
-×
+o Translation  of  the  Convention/Recommendation  into  the  national  and  possibly  local languages
 
 [[END OF PAGE 28]]
 
