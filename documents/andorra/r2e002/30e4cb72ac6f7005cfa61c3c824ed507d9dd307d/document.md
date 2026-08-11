@@ -360,7 +360,7 @@ La regulació de l'exercici dels drets reconeguts en aquest Títol només es pot
 
 - Realitzen els altres actes que expressament els atribueix la Constitució.
 
-- Les  disposicions  previstes  en  els  apartats  g)  i  h)  d'aquest  article  han  d'ésser presentades  simultàniament  a  un  i  altre  Copríncep  que  han  de  sancionar-les  i promulgar-les  o  manifestar  el  consentiment  de  l'Estat  segons  el  cas,  i  n'han d'ordenar la publicació no abans  de  vuit dies i no més  tard de quinze. En aquest període els Coprínceps, conjuntament o separadament, poden adreçarse  al  Tribunal  Constitucional  amb  missatge  raonat  a  fi  que  aquest  es  pronunciï sobre  la  seva  constitucionalitat.  Si  la  resolució  fos  positiva  l'acte  pot  ésser sancionat amb la signatura d'almenys d'un dels Coprínceps.
+- Les  disposicions  previstes  en  els  apartats  g)  i  h)  d'aquest  article  han  d'ésser presentades  simultàniament  a  un  i  altre  Copríncep  que  han  de  sancionar-les  i promulgar-les  o  manifestar  el  consentiment  de  l'Estat  segons  el  cas,  i  n'han d'ordenar la publicació no abans  de  vuit dies i no més  tard de quinze. En aquest període els Coprínceps, conjuntament o separadament, poden adreçar-se  al  Tribunal  Constitucional  amb  missatge  raonat  a  fi  que  aquest  es  pronunciï sobre  la  seva  constitucionalitat.  Si  la  resolució  fos  positiva  l'acte  pot  ésser sancionat amb la signatura d'almenys d'un dels Coprínceps.
 
 - Quan concorrin circumstàncies que impedeixin per part d'un dels Coprínceps la formalització  dels  actes  enumerats  en  l'apartat  1  del  present  article  dins  dels terminis  constitucionalment  previstos,  el  seu  representant  ho  ha  de  notificar  al Síndic General o, en el seu cas, al Cap de Govern. En aquest supòsit, els actes, normes o decisions afectats entraran en vigor transcorreguts els dits terminis amb la signatura de l'altre Coprícep i la contrasignatura del Cap de Govern o, en el seu cas, del Síndic General.
 
@@ -385,6 +385,12 @@ La regulació de l'exercici dels drets reconeguts en aquest Títol només es pot
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+
+- La  interposició  de  conflicte  davant  del  Tribunal  Constitucional  per  raó d'afectació de llurs funcions institucionals, en els termes dels articles 98 i 103 de la Constitució.
+
+- L'atorgament de l'acord per a l'adopció del text d'un tractat internacional, d'acord amb les previsions de l'article 66, abans de la seva aprovació en seu parlamentària.
+
+- Els  actes  derivats  dels  articles  45  i  46  són  exercits  personalment  pels Coprínceps,  llevat  de  les  facultats  previstes  a  les  lletres  e),  f),  g)  i  h)  del present article, que poden ésser realitzats per delegació expressa.
 
 ##### Article 47
 
@@ -413,12 +419,6 @@ El  Consell  General,  que  expressa  la  representació  mixta  i  paritària  
 - Els Consellers són elegits per sufragi universal, lliure, igual, directe i secret, per un termini de quatre anys. El mandat dels Consellers acaba quatre anys després de la seva elecció o el dia de la dissolució del Consell General.
 
 - Les  eleccions  s'han  de  celebrar  entre  els  trenta  i  quaranta  dies  següents  a  la finalització del mandat dels Consellers.
-
-- La  interposició  de  conflicte  davant  del  Tribunal  Constitucional  per  raó d'afectació de llurs funcions institucionals, en els termes dels articles 98 i 103 de la Constitució.
-
-- L'atorgament de l'acord per a l'adopció del text d'un tractat internacional, d'acord amb les previsions de l'article 66, abans de la seva aprovació en seu parlamentària.
-
-- Els  actes  derivats  dels  articles  45  i  46  són  exercits  personalment  pels Coprínceps,  llevat  de  les  facultats  previstes  a  les  lletres  e),  f),  g)  i  h)  del present article, que poden ésser realitzats per delegació expressa.
 
 11
 
@@ -990,7 +990,7 @@ Amb  l'entrada  en  vigor  d'aquesta  Constitució  queden  derogades  totes  le
 
 La  Constitució  entra  en  vigor  el  dia  de  la  seva  publicació  en  el  Butlletí  Oficial  del Principat d'Andorra.
 
-I  nosaltres  els  Coprínceps,  després  que  el  Consell  l'ha  adoptat  en  sessió  solemne celebrada  el  dia  2  de  febrer  de  1993,  i  que  el  Poble  Andorrà  l'ha  aprovat  en referéndum  celebrat  el  dia  14  de  març  de  1993,  la  fem  nostra,  la  ratifiquem,  la sancionem i promulguem i, per a general coneixement, n'ordenem la publicació.
+I  nosaltres  els  Coprínceps,  després  que  el  Consell  l'ha  adoptat  en  sessió  solemne celebrada  el  dia  2  de  febrer  de  1993,  i  que  el  Poble  Andorrà  l'ha  aprovat  en referèndum  celebrat  el  dia  14  de  març  de  1993,  la  fem  nostra,  la  ratifiquem,  la sancionem i promulguem i, per a general coneixement, n'ordenem la publicació.
 
 Casa de la Vall, 28 d'abril de 1993
 
