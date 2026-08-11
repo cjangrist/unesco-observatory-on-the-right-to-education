@@ -30,7 +30,7 @@ I. CONTEXTE  ET JUSTIFICATION
 
 - I-2   Cadre  technique  de l'intervention
 
-- 3    Etat  des  lieux   de  l'AENF
+- I. 3    Etat  des  lieux   de  l'AENF
 
 - 1.4    Grands  défis  à  relever
 
@@ -38,7 +38,7 @@ II.   STRATEGIE  DE MISE EN ŒUVRE
 
 - II.1   Renforcement du  partenariat
 
-- 2  Amélioration de la qualité de l'offre d'AENF
+- II. 2  Amélioration de la qualité de l'offre d'AENF
 
 - II.3   Développement de l'environnement lettré
 
@@ -46,7 +46,7 @@ II.   STRATEGIE  DE MISE EN ŒUVRE
 
 III. COMPOSANTES DU PANAENF
 
-- Appui aux actions
+- III. Appui aux actions
 
 - III.2 Appui  à la concertation
 
@@ -190,7 +190,7 @@ On note :
 
 -Existence   d'un  SIM/AENF
 
-### I. 3    Etat  des  lieux   l'AENF
+### I. 3    Etat  des  lieux   de l'AENF
 
 De façon générale, on observe :
 
@@ -247,7 +247,7 @@ Elle sera alignée sur les stratégies retenues  dans le cadre du PSEF qui seron
 
 [[START OF PAGE 6]]
 
-Cette action passe par la dynamisation des cadres de concertation des acteurs de l'AENF tout en clarifiant davantage la répartition des rôles entre l'Etat et la société civile. Tous les acteurs du soussecteur seront engagés dans une dynamique de concertation, d'échanges et de partage autour des problématiques du sous-secteur.
+Cette action passe par la dynamisation des cadres de concertation des acteurs de l'AENF tout en clarifiant davantage la répartition des rôles entre l'Etat et la société civile. Tous les acteurs du sous-secteur seront engagés dans une dynamique de concertation, d'échanges et de partage autour des problématiques du sous-secteur.
 
 L'action visera à  :
 
@@ -439,7 +439,7 @@ Il s'agit  d'élaborer, sur la base des résultats d'une étude  diagnostique,  
 
 ### Les  activités d'encadrement et de suivi-pilotage
 
-On  distinguera  les  activités  de  renforcement des capacités des cadres et des structures chargées du  pilotage  et  de  la  mise  en  œuvre  du  projet  et  celles  concernant    les  intervenants  locaux.  Des contrats types seront établis pour définir les obligations des parties et leurs droits, les modalités de l'appui financier, les personnels impliqués, les contenus à transmettre et les pratiques à mettre en œuvre, les modes d'organisation des actions et les attentes en matière de résultats (comment serontils  évaluer  et  qui  les  évaluera ?)  et  quelles  seront  les  conséquences  en  situation  de  déviance  tant dans la mise en œuvre du projet que dans les résultats obtenus.
+On  distinguera  les  activités  de  renforcement des capacités des cadres et des structures chargées du  pilotage  et  de  la  mise  en  œuvre  du  projet  et  celles  concernant    les  intervenants  locaux.  Des contrats types seront établis pour définir les obligations des parties et leurs droits, les modalités de l'appui financier, les personnels impliqués, les contenus à transmettre et les pratiques à mettre en œuvre, les modes d'organisation des actions et les attentes en matière de résultats (comment seront-ils  évaluer  et  qui  les  évaluera ?)  et  quelles  seront  les  conséquences  en  situation  de  déviance  tant dans la mise en œuvre du projet que dans les résultats obtenus.
 
 Un suivi et un pilotage plus structurés ainsi qu'un  contrôle plus régulier des actions elles-mêmes et de leurs résultats devraient  contribuer à consolider la qualité  des activités  mises en œuvre par les divers intervenants sous la supervision des structures centrales et déconcentrées de l'Etat .
 
@@ -447,7 +447,7 @@ Un suivi et un pilotage plus structurés ainsi qu'un  contrôle plus régulier d
 
 ### a) Atouts/opportunités
 
--L'existence  d'un  Programme    Sectoriel    pour  l'Education  et  la  formation    (PSEF  20122020),  partagé  avec  l'ensemble  des  acteurs  de  l'éducation  aux  niveaux  central    et déconcentré, susceptible de fédérer  des financements en faveur du système éducatif   dans son ensemble ;
+-L'existence  d'un  Programme    Sectoriel    pour  l'Education  et  la  formation    (PSEF  2012-2020),  partagé  avec  l'ensemble  des  acteurs  de  l'éducation  aux  niveaux  central    et déconcentré, susceptible de fédérer  des financements en faveur du système éducatif   dans son ensemble ;
 
 -La parfaite relation entre les objectifs du PSEF et la programmation du projet ( PAPAENF).
 
