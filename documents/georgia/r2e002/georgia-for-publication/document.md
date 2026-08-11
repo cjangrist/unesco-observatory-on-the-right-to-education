@@ -14,7 +14,7 @@
 
 4. The  General  Conference  in  its  39th  session  recommended  the  use  of  the 1974 Recommendation reporting process to support the implementation and monitoring of Target 4.7 of Sustainable Development Goal 4 (39 C/Resolution 79). The UNESCO Executive Board at its 209th session approved the use of the current guidelines for both the monitoring of the 1974 Recommendation and the collection of data needed for the following global SDG indicator for which UNESCO is custodian (209 EX/Decision 18.II):
 
-4.7.1,  12.8.1  and  13.3.1: The extent to which (i) global  citizenship  education  and (ii) education  for  sustainable  developmentare  mainstreamed  in  (a)  national  education policies; (b) curricula; (c) teacher education and (d) student assessment.
+4.7.1, 12.8.1 and 13.3.1: The extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education and (d) student assessment.
 
 5. Questions marked with an asterisk (*) will be used in the calculation of the respective indicators  ( Table  1 ).  As  approved  by  the  Inter-Agency  and  Expert  Group  on  the  SDG Indicators, the indicators will be calculated for primary and secondary education only.
 
@@ -44,7 +44,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 9. National respondents are encouraged to consult widely both within, across and beyond government, including with Ministries of Environment, with national human rights institutions, the education sector, civil society partners and others, as necessary, to gather the information needed to complete the questionnaire.
 
-- Responses to the seventh consultation should cover:
+10. Responses to the seventh consultation should cover:
 
 (i)      the time period 2017-2020;
 
@@ -58,7 +58,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 Global citizenship education and education for sustainable development
 
-- cultural diversity and tolerance
+1. cultural diversity and tolerance
 
 - 1.1 international or intercultural understanding, solidarity and cooperation
 
@@ -66,7 +66,7 @@ Global citizenship education and education for sustainable development
 
 - 1.3 local, national and/or global citizenship
 
-- gender equality education
+2. gender equality education
 
 - 2.1 gender-based equal opportunities
 
@@ -80,7 +80,7 @@ Global citizenship education and education for sustainable development
 
 [[START OF PAGE 3]]
 
-- human rights education
+3. human rights education
 
 - 3.1 equality  and  non-discrimination  based  on race, colour,  language, religion, disability,  political  or  other  opinion,  national  or  social  origin,  birth  or  other status
 
@@ -88,15 +88,15 @@ Global citizenship education and education for sustainable development
 
 - 3.3 respect for  human  rights  and  fundamental  freedoms  (as  outlined  in international conventions and declarations)
 
-- peace and non-violence
+4. peace and non-violence
 
 - 4.1 friendly relations among peoples and nations
 
 - 4.2 challenging negative stereotypes, promoting peaceful solutions, learning to live together, including others and preventing violent extremism
 
-- 4.3 preventing all forms of violence including bullying, verbal abuse and genderbased violence
+- 4.3 preventing all forms of violence including bullying, verbal abuse and gender-based violence
 
-- climate change education
+5. climate change education
 
 - 5.1 mitigation
 
@@ -106,7 +106,7 @@ Global citizenship education and education for sustainable development
 
 - 5.4 early warning
 
-- environmental sustainability
+6. environmental sustainability
 
 - 6.1 caring for the planet, protecting nature
 
@@ -114,7 +114,7 @@ Global citizenship education and education for sustainable development
 
 - 6.3 biodiversity, water
 
-- human survival and well-being
+7. human survival and well-being
 
 - 7.1 environmental health as it pertains to  human well-being, disaster risk reduction
 
@@ -122,7 +122,7 @@ Global citizenship education and education for sustainable development
 
 - 7.3 sustainable cities and communities
 
-- sustainable consumption and production
+8. sustainable consumption and production
 
 - 8.1 responsible and sustainable lifestyles
 
@@ -147,7 +147,7 @@ Themes of global citizenship and education for sustainable development
 4. Peace and non-violence | Education about peace and peace-building, mediation, conflict prevention and resolution, non-violence, reconciliation and living together peacefully. It includes advocating for friendly relations among peoples and nations, challenging negative stereotypes, promoting peaceful solutions, learning to live together and preventing violent extremism and other forms of violence including bullying.
 5. Climate change education | Education to help people, in particular youth, understand, address, mitigate, and adapt to the impacts of climate change. It encourages changes in attitudes and behaviours needed to put the world on a more sustainable development path, and build a new generation of climate change-aware citizens. It covers various responses to climate change including mitigation, adaptation, impact reduction and early warning.
 6. Environmental sustainability | Education about responsible interactions with the environment to avoid depletion or degradation and to promote environmental quality and health. It includes, caring for the planet and protecting nature, environmental justice, biodiversity and water.
-7. Human survival and well- being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
+7. Human survival and well-being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
 
 4
 
@@ -261,7 +261,7 @@ The  National  Curriculum,  which  is  a  normative  document  and  is  approved
 
 The above-mentioned topics are covered in the subject standards of the Social Sciences and Natural Sciences.
 
-In Law of Georgia on Vocational Education are indicated Georgia's main policy goals in the field of vocational education. State policy goals include support of social inclusion, personal and professional development of an individual and support of life-long learning. These goals are meant to be achieved through many steps, including ensuring linkage of vocational education to general, higher education, and  flexibility  of  vocational  education,  preparing  individual  for  employment  and  entrepreneurial activity,  ensuring  diverse  forms  of  teaching-learning  etc.  The  law  is  in  a  line  with  the  association agreement and aims achieving activities indicated in the agreement, including recommendations on key competences for lifelong learning. Law of Georgia on Vocational Education was adopted by the parliament of Georgia in 2018 and created a legal basis for significant changes in VET system.
+In Law of Georgia on Vocational Education are indicated Georgia's main policy goals in the field of vocational education. State policy goals include support of social inclusion, personal and professional development of an individual and support of life-long learning. These goals are meant to be achieved
 
 > 2 See the schema described in paragraph 11 of Section II of these guidelines.
 
@@ -271,11 +271,13 @@ In Law of Georgia on Vocational Education are indicated Georgia's main policy go
 
 [[START OF PAGE 10]]
 
+through many steps, including ensuring linkage of vocational education to general, higher education, and flexibility of vocational education, preparing individual for employment and entrepreneurial activity, ensuring diverse forms of teaching-learning etc. The law is in a line with the association agreement and aims achieving activities indicated in the agreement, including recommendations on key competences for lifelong learning. Law of Georgia on Vocational Education was adopted by the parliament of Georgia in 2018 and created a legal basis for significant changes in VET system.
+
 GCED and ESD themes are not explicitly mentioned in the law, but it creates basis for key competences development in VET.
 
 Though not explicitly mentioned in the national legal acts on higher education the Law on Higher Education  and  Authorization  Standards  of  Higher  Education  Institutions  as  well  as  National Qualifications  Framework  promote  in  general  citizenship  and  sustainable  development  education which is further embedded in the regulatory documents and educational programs of higher education institutions.
 
-According  to  the  Article  3.  (1,  a)  of  the  Law  of  Georgia  on  Higher  Education,  'promotion  of  the development of Georgian and global cultural values, orientation towards the ideals of democracy and humanism essential for the existence and development of a civil societyisone of the goals of higher education.'
+According to the Article 3. (1, a) of the Law of Georgia on Higher Education, 'promotion of the development of Georgian and global cultural values, orientation towards the ideals of democracy and humanism essential for the existence and development of a civil society is one of the goals of higher education.'
 
 According to the same article (3, j) In order to achieve the goals determined by paragraph 1 of this article higher education institutions shall ensure access to and openness of higher education, academic freedom, opportunity to acquire higher education at any time during a person's lifetime, participation of the academic personnel, scientific personnel and students in the process of making decisions and monitoring of their execution, publicity and transparency in managing a higher education institution and in competitions conducted in the institution, prohibition of any forms of discrimination in the field of  higher  education,  including  discrimination  on  any  ground  such  as  academic,  ethnic,  social  or religious affiliation, and/or opinion, sex and other grounds.
 
@@ -297,7 +299,7 @@ Unified Strategy of Education and Science 2017-2021 https://www.mes.gov.ge/conte
 
 Law of Georgia on Higher Education - https://matsne.gov.ge/en/document/view/32830?publication=56
 
-Authoriz ation Standards for Higher Education Institutions approved by the order №07/N 31.01.2018 of the Minister of Education and Science of Georgia
+Authorization Standards for Higher Education Institutions approved by the order №07/N 31.01.2018 of the Minister of Education and Science of Georgia
 
 Law of Georgia on Vocational Education https://matsne.gov.ge/en/document/view/4334842?publication=0
 
@@ -333,7 +335,7 @@ In Natural Sciences (Separately in Biology, Physics, and Chemistry), ESD is pres
 
 - Assessing the advances in Natural Sciences and technologies in terms of the principles of sustainable development.
 
-In Geography, ESD is reflected in one of the main directions 'Sustainable Development and Security":
+In Geography, ESD is reflected in one of the main directions “Sustainable Development and Security":
 
 - Identifying a caring attitude towards the environment;
 
@@ -355,7 +357,7 @@ National Environmental Action Programme of Georgia (NEAP) 2017-2021 - the docume
 
 The new draft document of Education for Sustainable Development - Georgian National Strategy and Action Plan (ESD - GNSAP) is elaborated by the LEPL Environmental Information and Education Centre under the Ministry of Environmental Protection and Agriculture of Georgia in cooperation with the Ministry of Education, Science, Culture and Sport of Georgia with the financial support of GIZ. Implementation process of the strategy and action plan will be coordinated by LEPL Environmental Information and Education Centre.
 
-The goal of this strategy and action plan is to ensure that education for sustainable development in Georgia provides all citizens of Georgia with the knowledge, skills, values, and attitudes necessary to live sustainably and foster environmentally responsible changes in society. The document is planned to be approved by the order of the Minister of Environmental Protection and Agriculture of Georgia. The  e-version  of  the  document  will  be  accessible  at  the  official  web-page  of  the  Ministry  of Environmental Protection and Agriculture of Georgia: www.mepa.gov.ge and the official web-page of LEPL Environmental Information and Education Centre: www.eiec.gov.ge.
+The goal of this strategy and action plan is to ensure that education for sustainable development in Georgia provides all citizens of Georgia with the knowledge, skills, values, and attitudes necessary to live sustainably and foster environmentally responsible changes in society. The document is planned to be approved by the order of the Minister of Environmental Protection and Agriculture of Georgia. The e-version of the document will be accessible at the official web-page of the Ministry of
 
 > 3 See the schema described in paragraph 11 of Section II of these guidelines.
 
@@ -364,6 +366,8 @@ The goal of this strategy and action plan is to ensure that education for sustai
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+Environmental Protection and Agriculture of Georgia: www.mepa.gov.ge and the official web-page of LEPL Environmental Information and Education Centre: www.eiec.gov.ge.
 
 National Biodiversity Strategy and Action Plan of Georgia 2014-2020 - the document covers the educational and awareness raising activities including the awareness for sustainable development.
 
@@ -379,13 +383,15 @@ Small and Medium-sized Enterprises (SME) Development Strategy of Georgia 2016-20
 
 One of the nationalized Sustainable Development Goals, (Goal 12: Ensure sustainable consumption and production  patterns),  particularly,  the  target  (12.8)  is  to  ensure  that  people  everywhere  have  the relevant information and awareness for sustainable development and lifestyles in harmony with nature by 2030
 
-Education for Sustainable Development at the primary school level - In 2017 Ministry of Education and  Science,  in  cooperation  with  the  Environmental  Information  and  Education  Center  added principles of sustainable  development  to  the  criterias  of  estimation  of  school  textbooks  at  Primary  school  level. According to the existing changes, the principles of sustainable development are reflected as a crosscurriculum approach in the school textbooks from 2018.
+Education for Sustainable Development at the primary school level - In 2017 Ministry of Education and Science, in cooperation with the Environmental Information and Education Center added principles of
 
 13
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+
+sustainable development to the criterias of estimation of school textbooks at Primary school level. According to the existing changes, the principles of sustainable development are reflected as a cross-curriculum approach in the school textbooks from 2018.
 
 Second National Action Program to Combat Desertification 2014-2022 - the operational objective 1 of the NAP is on advocacy, awareness raising and education. Its main aim is to support the development of the NR of the UNCCD and its alignment to the UNCCD 10 year strategy by a participatory, overall and transparent approach.
 
@@ -401,7 +407,7 @@ National Environmental Action Programme of Georgia (NEAP) 2017-2021 - https://bi
 
 The new draft document of Education for Sustainable Development - Georgian National Strategy and
 
-Action Plan (ESD - GNSAP) - The e-version of the document will be accessible at the official webpage of
+Action Plan (ESD - GNSAP) - The e-version of the document will be accessible at the official web-page of
 
 the Ministry of Environmental Protection and Agriculture of Georgia: www.mepa.gov.ge and the official webpage
 
@@ -489,7 +495,7 @@ Comment regarding question B5: please, note that existing VET general module 'Ci
 
 #### B1b. Please provide examples of curricula in which GCED and/or ESD are mainstreamed and, where possible, web links to relevant documents.
 
-http://www.mes.gov.ge/content.php?id=7147&lang=geo&fbclid=IwAR1fH35Can1LyW21iWZYifBryEkMqNaJiizNO0gGU6xfXf6Ej0NKFswv74  (40/ ნ )
+http://www.mes.gov.ge/content.php?id=7147&lang=geo&fbclid=IwAR1-fH35Can1LyW21iWZYifBryEkMqNaJiizNO0gGU6xfXf6Ej0NKFswv74 (40/ნ)
 
 Example:  GCED  is  included  in  the  following  VET  programs:  'Artistic  Fabrics  ',  'Hair  and  Beauty Services', 'Sawing industry' and etc.
 
@@ -570,7 +576,7 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 
 [[START OF PAGE 19]]
 
-### C. Teacher education (including the training of trainers and educators)(paras 4 and 3337 of the 1974 Recommendation )
+### C. Teacher education (including the training of trainers and educators)(paras 4 and 33-37 of the 1974 Recommendation )
 
 #### C1a. Please describe in which ways GCED and ESD are mainstreamed in initial training and in  continuing  professional  development  of  teachers,  trainers  and  educators.  Indicate whether all teachers, trainers and educators or only some are required to receive training to teach GCED and/or ESD.
 
@@ -582,7 +588,7 @@ As part of the training teachers planned eTwinning project on the topic climate 
 
 TPDC  is  planning to conduct  6, 12  and  20 contact hour trainings  on Education for  Sustainable Development  (ESD) in the whole-school approach   for all subject and status  teachers. TPDC has also started  3 year program with UNESCO APCEIU for GCED implementation. EIEC implemented the Preschool  Environmental  Education  Program  across  the  whole  country  in  2016-2019.  Within  the framework of the program, 1963 educators and methodists from 1600 preschool institutions are trained and able to integrate it in their teaching process. During the trainings, educators and Methodists were provided  with  a  special  guidebook  -  Preschool  Environmental  Education  which  was  elaborated according to the environmental component of the state standard for school readiness of the Ministry of Education, Science, Culture and Sport and contains following topics: biodiversity around us, water and energy conservation, waste management. The book is also available online for them as well as they can contact EIEC for additional consultations and recommendations. Most of the kindergartens have already integrated the program that is confirmed in the EIEC contest 'Green Award' announced for kindergartens to motivate the educators as well as to evaluate integration of environmental principles in preschool education institutions according to the training materials. The contest is annual and the number of participants increases year by year.
 
-One  of  the  priority  of  the  Ministry  of  Environmental  Protection  and  Agriculture  of  Georgia  is environmental and agricultural education, therefore, this year EIEC started working on a new program - Environmental and Agricultural Education in School as a continuation successful implementation of Preschool Environmental Education Program. To facilitate it in the general educational system, the EIEC has elaborated a textbook - 'Environmental and Agricultural Education in School'. It is developed for  the  primary  school  teachers  and  includes  the  important  topics  of  both  environmental  and agricultural fields that are easily adaptable for primary school (I-VI classes) children. It is an extra material for the teacher, supporting formal and informal education activities.
+One of the priority of the Ministry of Environmental Protection and Agriculture of Georgia is environmental and agricultural education, therefore, this year EIEC started working on a new program - Environmental and Agricultural Education in School as a continuation successful implementation of Preschool Environmental Education Program. To facilitate it in the general educational system, the EIEC has elaborated a textbook - 'Environmental and Agricultural Education in School'. It is developed for the primary school teachers and includes the important topics of both environmental and
 
 19
 
@@ -590,7 +596,9 @@ One  of  the  priority  of  the  Ministry  of  Environmental  Protection  and  A
 
 [[START OF PAGE 20]]
 
-The topics are divided into eight independent books: sustainable development concept; biodiversity conservation;  conservation  and  sustainable  management  of  water  resources,  air  protection  from pollution, climate change and the reduction of natural hazards, waste management; land management and combat desertification; agriculture, food security and quality
+agricultural fields that are easily adaptable for primary school (I-VI classes) children. It is an extra material for the teacher, supporting formal and informal education activities.
+
+The topics are divided into eight independent books: sustainable development concept; biodiversity conservation; conservation and sustainable management of water resources, air protection from pollution, climate change and the reduction of natural hazards, waste management; land management and combat desertification; agriculture, food security and quality
 
 The textbook is developed in accordance with the requirements of the Ministry of Education, Science, Culture and Sport of Georgia and complies with the ongoing reforms and existing standards of the educational system.
 
@@ -612,7 +620,7 @@ National  Center  for  Teacher  Professional  Development  has  released  public
 
 [[START OF PAGE 21]]
 
-National  benchmarks  for  HEIs  initial teacher training https://eqe.ge/ka/posts/1823/umaghlesiganatlebis-dargobrivi-makhasiatebeli
+National benchmarks for HEIs initial teacher training https://eqe.ge/ka/posts/1823/umaghlesi-ganatlebis-dargobrivi-makhasiatebeli
 
 Teacher Professional standard https://matsne.gov.ge/ka/document/view/4841342?publication=0
 
@@ -620,20 +628,20 @@ Existing information is available here:
 
 http://eiec.gov.ge
 
-#### *C2 Please indicate whether teachers, trainers and educators are trained to teach GCED and ESD  during  initial  or  pre-service  training  and/or  through  continuing  professional development. Please enter the appropriate number in each white cell.
+#### *C2 Please indicate whether teachers, trainers and educators are trained to teach GCED and ESD during initial or pre-service training and/or through continuing professional development. Please enter the appropriate number in each white cell.
 
-#### *C3 Please indicate on which GCED and ESD themes pre-service or in-service training is available for teachers, trainers and educators at each level of education by entering the appropriate number in each white cell.
+KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
---- | --- | --- | ---
+--- | --- | --- | --- | ---
 Initial or pre-service training
-For teachers of selected subjects only (in which GCED or ESD are typically taught) | 1
-For teachers of other subjects | 1 | 1
+For teachers of selected subjects only (in which GCED or ESD are typically taught) |  |  |  | 1
+For teachers of other subjects | 1 |  |  | 1
 Continuing professional development
 For teachers of selected subjects only (in which GCED or ESD are typically taught)
 For teachers of other subjects
 
-KEY: 0 = no, 1 = yes, 9 = unknown
+#### *C3 Please indicate on which GCED and ESD themes pre-service or in-service training is available for teachers, trainers and educators at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -694,13 +702,13 @@ Comment regarding question D3: In VET programs are assessed competences,  which 
 
 GCED and ESD are covered in student assessment and examinations in Georgia in several ways:
 
-- The chain of teachers' professional development includes standardized examinations both in professional  competence  and  subject  matter  knowledge.  The  National  Assessment  and Examinations Center has been conducting the abovementioned exams since 2010. The test for professional competence assesses applicant's (teacher or candidate teacher) ability to teach, also the level of understanding various methods to create learning environment in accordance with GCED and ESD principles.
+1. The chain of teachers' professional development includes standardized examinations both in professional competence and subject matter knowledge. The National Assessment and Examinations Center has been conducting the abovementioned exams since 2010. The test for professional competence assesses applicant's (teacher or candidate teacher) ability to teach, also the level of understanding various methods to create learning environment in accordance with GCED and ESD principles.
 
-- As Civic Education is a part of the national curricula, the National Assessment and Examination Center has been conducting standardized exam for teachers in the following field since 2011.
+2. As Civic Education is a part of the national curricula, the National Assessment and Examination Center has been conducting standardized exam for teachers in the following field since 2011.
 
-- University  entrants  are  given  Civic  Education  as  one  of  the  optional  subjects  during  the National University Entrance Examinations.
+3. University entrants are given Civic Education as one of the optional subjects during the National University Entrance Examinations.
 
-- Gender and Ethnicity issues are also highlighted during international and national research projects carried out by the National Assessment and Examinations Center.
+4. Gender and Ethnicity issues are also highlighted during international and national research projects carried out by the National Assessment and Examinations Center.
 
 #### *D2 Please indicate whether the GCED and ESD themes below are generally included in student  assessments  or  examinations  at  each  level  of  education  by  entering  the appropriate number in each white cell.
 
@@ -793,15 +801,15 @@ Sub-national
 
 #### F1 Please  describe  any  major  initiatives  that  have  been  undertaken  to  promote  GCED and/or  ESD  in  technical  and  vocational  education  and  training.  Describe  briefly  the outcomes and impact of such initiatives and provide examples of good practices.
 
-During  the  reform  of  vocational  education  programs  (2014-2018)  the  programs  were  revised,  after adoption of a new law on vocational education (2018) the system step by step switched to modular programs  from  subject  based  ones  aimed  integration  of  key  competencies  into  modules.  New  VET educational standards include modules developing the 8 key Competences. GCED and ESD topics are integrated as specific learning outcomes in VET  programs. In order to comply with the recommendations of the Council of the European union of 22 May 2018 on key competences for lifelong learning  (2018/C  189/01)  'Civil  Education'  module    is  now  under  revision  (most  of  the  topics  are integrated in this particular module).
+During the reform of vocational education programs (2014-2018) the programs were revised, after adoption of a new law on vocational education (2018) the system step by step switched to modular programs from subject based ones aimed integration of key competencies into modules. New VET educational standards include modules developing the 8 key Competences. GCED and ESD topics are integrated as specific learning outcomes in VET programs. In order to comply with the recommendations of the Council of the European union of 22 May 2018 on key competences for lifelong learning (2018/C 189/01) “Civil Education” module is now under revision (most of the topics are integrated in this particular module).
 
-TPDC  is  giving  trainings  to  VET  teachers  and  principals  of  VET  institutions  in  'Developing  of Entrepreneurship  competence'.  There  are  some  learning  outcomes  in  terms  of  ESD  (mostly  on sustainable  consumption  and  production)  in  the  module  of  'Developing  of  Entrepreneurship competence'.
+TPDC is giving trainings to VET teachers and principals of VET institutions in “Developing of Entrepreneurship competence”. There are some learning outcomes in terms of ESD (mostly on sustainable consumption and production) in the module of “Developing of Entrepreneurship competence”.
 
 Entrepreneurial  training  includes  the  principles  of  sustainable  development,  as  well  as  the  newly approved  teachers  standard  include  the  competencies  of  sustainable  development  as  a  mandatory requirement, the standard has been developed with the support of the World Bank and is awaiting approval.
 
 LEPL Environmental Information and Education Centre has developed the Module - "Environmental Outlook", which was established in vocational programmes from September 2018 and is mandatory for the  following  professions:  Veterinary,  Agriculture,  Gardening,  Hotel  Business,  Restaurant  Business, Food Technology and Art Work.
 
-Vocational colleges have been conducting forest worker's courses with an updated program since 2017. The program is successfully implemented in 4 vocational schools of Georgia fully funded by the state. The module of climate-smart agriculture is being developed in order to promote the new approach in the country and introduce it in vocational colleges.
+Vocational colleges have been conducting forest worker’s courses with an updated program since 2017. The program is successfully implemented in 4 vocational schools of Georgia fully funded by the state. The module of climate-smart agriculture is being developed in order to promote the new approach in the country and introduce it in vocational colleges.
 
 26
 
@@ -813,9 +821,9 @@ Vocational colleges have been conducting forest worker's courses with an updated
 
 #### G1 Please  describe  any  major  initiatives  that  have  been  undertaken  to  promote  GCED and/or ESD in adult education and other forms of non-formal education including youth education, out-of-school  education,  etc.  Describe  briefly  the  outcomes and  impact  of such initiatives and provide examples of good practices.
 
-In order to upgrade the skills of the adult population and meet the demands of the labour market, the ministry began working on adult education system development in the context of formal education. The ministry developed legal framework for LLL -The new law on vocational education (adopted by the parliament of Georgia in 2018) acknowledges adult education. Since 2019 there are short-term vocational  training  and  retraining  courses  for  adults  in  the  system  that  issue  a  state-recognized certificate. Any legal entity (an educational institution, a private company etc.) that meets the relevant standards, can obtain the right to implement short-term courses and get a state financing. The law also made it  possible  to  validate  nonformal/informal  education.  It  created  flexible  connection  between different levels of education. In order to support LLL, ministry developed 'Establishment of Life Long Entrepreneurial  Learning  (LLEL)  at  all  levels  of  Education  2019-2020'  action  plan  and  approved relevant working group.
+In order to upgrade the skills of the adult population and meet the demands of the labour market, the ministry began working on adult education system development in the context of formal education. The ministry developed legal framework for LLL –The new law on vocational education (adopted by the parliament of Georgia in 2018) acknowledges adult education. Since 2019 there are short-term vocational training and retraining courses for adults in the system that issue a state-recognized certificate. Any legal entity (an educational institution, a private company etc.) that meets the relevant standards, can obtain the right to implement short-term courses and get a state financing. The law also made it possible to validate nonformal/informal education. It created flexible connection between different levels of education. In order to support LLL, ministry developed “Establishment of Life Long Entrepreneurial Learning (LLEL) at all levels of Education 2019-2020” action plan and approved relevant working group.
 
-Adult education programs might be either training or retraining programs that aim upskilling according to the requirement of the employers and are approved by the national center for education quality enhancement. Thus, GCED and ESD topics are included according to the needs from employer's side.
+Adult education programs might be either training or retraining programs that aim upskilling according to the requirement of the employers and are approved by the national center for education quality enhancement. Thus, GCED and ESD topics are included according to the needs from employer’s side.
 
 LEPL Environmental Information and Education Centre organizes the activities in order to support environmental  education  and  raise  public  environmental  awareness  through  lectures,  seminars, conferences,  eco  projects,  including  planting,  greening,  clean  up  actions  and  other  environmental activities for different target groups to raise awareness. Furthermore, the Centre organizes trainings for the staff of  the  Ministry of  Environmental Protection and Agriculture of Georgia and other public officials.
 
@@ -823,9 +831,9 @@ LEPL Environmental Information and Education Centre organizes the activities in 
 
 #### H1 Please describe what kinds of research or experimentation have been carried out to improve the implementation of GCED and/or ESD. Describe briefly how the results of such activities have influenced education policies, curricula and/or teaching practices.
 
-Survey on 'Environmental Education in Georgia', 2014 - The goal of the study was to evaluate environmental  education  in  the  direction  of  formal  (at  all  levels  of  education:  preschool,  general, vocational and higher education) and non-formal education and identify current achievements and challenges in Georgia. Also, to assess whether the existing approaches contribute to the formation of the right attitude and the acquisition of relevant knowledge and skills towards the environment in children/schoolchildren/students. The research identified the existing problems and developed recommendations that are taken into account by the Ministry of Education, Science, Culture and Sport of Georgia and reflected in the action plan and strategy of ESD developed by the Centre (EIEC).
+Survey on “Environmental Education in Georgia”, 2014 - The goal of the study was to evaluate environmental education in the direction of formal (at all levels of education: preschool, general, vocational and higher education) and non-formal education and identify current achievements and challenges in Georgia. Also, to assess whether the existing approaches contribute to the formation of the right attitude and the acquisition of relevant knowledge and skills towards the environment in children/schoolchildren/students. The research identified the existing problems and developed recommendations that are taken into account by the Ministry of Education, Science, Culture and Sport of Georgia and reflected in the action plan and strategy of ESD developed by the Centre (EIEC).
 
-'Survey on Public Knowledge, Attitude and Practice (KAP) assessment in relation to Biodiversity and Environmental issues  (Georgia)',  2016  -  The  data  presented  in  this  report  come  from  a  nationally representative survey of Georgian citizens. The survey was designed to assess the knowledge, attitudes and  practice  in  regards  to  biodiversity  and  ecosystem  services.  It  was  a  comprehensive  look  at Georgian's general attitudes towards biodiversity and the environment.
+“Survey on Public Knowledge, Attitude and Practice (KAP) assessment in relation to Biodiversity and Environmental issues (Georgia)”, 2016 - The data presented in this report come from a nationally representative survey of Georgian citizens. The survey was designed to assess the knowledge, attitudes
 
 27
 
@@ -833,24 +841,26 @@ Survey on 'Environmental Education in Georgia', 2014 - The goal of the study was
 
 [[START OF PAGE 28]]
 
-#### H2 Please indicate which types of activities are available that promote international cooperation at each level of education by entering the appropriate number in each white cell.
+and practice in regards to biodiversity and ecosystem services. It was a comprehensive look at Georgian’s general attitudes towards biodiversity and the environment.
 
-Pre-primary | Primary and secondary | Tertiary | Non-formal education
---- | --- | --- | ---
-Hosting of international meetings on GCED and/or ESD | 1
-Participation in international meetings abroad on GCED and/or ESD | 1 | 1
-Support for programmes hosting foreign students, researchers and/or teachers | 1
-Membership of international networks including ASPnet
-Joint research projects on GCED and/or ESD with foreign institutions | 1
-Other activities (please specify):
+#### H2 Please indicate which types of activities are available that promote international co-operation at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
+
+|  | Pre-primary | Primary and secondary | Tertiary | Non-formal education |
+| --- | --- | --- | --- | --- |
+| Hosting of international meetings on GCED and/or ESD |  |  | 1 |  |
+| Participation in international meetings abroad on GCED and/or ESD |  | 1 | 1 |  |
+| Support for programmes hosting foreign students, researchers and/or teachers |  |  | 1 |  |
+| Membership of international networks including ASPnet |  |  |  |  |
+| Joint research projects on GCED and/or ESD with foreign institutions |  |  | 1 |  |
+| Other activities (please specify): |  |  |  |  |
 
 ### I. Any other comments
 
 #### I1 Please indicate whether your country has faced any constraints, in particular related to global or national  crises,  including  natural  disasters,  in  implementing  the  1974 Recommendation during the reporting period.
 
-#### I2 Please provide any other relevant information or clarifications regarding the implementation of the 1974 Recommendation or the mainstreaming of GCED and ESD in your country's education system.
+#### I2 Please provide any other relevant information or clarifications regarding the implementation of the 1974 Recommendation or the mainstreaming of GCED and ESD in your country’s education system.
 
 28
 
