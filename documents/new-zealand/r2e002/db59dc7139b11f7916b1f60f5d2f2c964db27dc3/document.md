@@ -6,6 +6,26 @@ Public Act 1998 No 118 Date of assent 18 December 1998
 
 ## Contents
 
+Page
+Title 3
+1 Short Title and commencement 4
+2 Interpretation 4
+3 Special education 4
+4 Right of reconsideration 4
+5 New heading and sections substituted 4
+6 Consequential amendments and repeals 4
+7 New heading and sections substituted 4
+8 Secretary may make rules 5
+9 Principal may preclude student for health reasons 5
+10 Long term exemptions from enrolment 5
+11 Secretary may exempt from enrolment persons placed in residence or programme under Children, Young Persons, and Their Families Act 1989 5
+12 Registration and inspection of private schools 5
+13 Suspensions and expulsions of students from private schools to be notified to Secretary 5
+Special Education Service
+14 Interpretation [Repealed] 5
+15 New sections substituted [Repealed] 6
+Early Childhood Development Unit
+16 Interpretation [Repealed] 6
 1
 
 [[END OF PAGE 1]]
@@ -16,6 +36,41 @@ Education Amendment Act (No 2) 1998
 
 1998 No 118
 
+17 New sections substituted [Repealed] 6
+Curriculum
+18 Interpretation 6
+19 National education guidelines 6
+Assistance for Boards
+20 Secretary may require Board to get specialist support 7
+Meaning of school day
+21 Exceptions in particular cases 7
+School property
+22 Occupancy of property and buildings 7
+School records
+23 Enrolment records 7
+Entry and inspection of schools
+24 Powers of entry and inspection 7
+25 Entry where school suspected of being unregistered 8
+Provisions concerning Boards, Commissioners, and establishment of schools
+26 Proprietors of integrated schools may vary number of trustees they appoint 8
+27 Boards of newly established schools 8
+28 When casual vacancies arise 8
+29 Commissioners 8
+30 Boards may combine 8
+31 Each school to be represented on combined Board 8
+32 Repeal of spent section 8
+33 Interpretation 8
+34 Minister may establish schools 9
+35 Normal schools, etc 9
+36 Contributing schools 9
+37 Provision of education at composite schools 9
+38 Minister may change class of school 9
+39 Closure of schools 9
+40 Minister may merge schools 9
+41 Provision by one Board of tuition for students enrolled at school administered by another 9
+Fee disclosure by institutions
+42 Tertiary institutions to give prospective students information about fees 9
+43 Grants to private training establishments 10
 2
 
 [[END OF PAGE 2]]
@@ -23,6 +78,34 @@ Education Amendment Act (No 2) 1998
 [[START OF PAGE 3]]
 
 1998 No 118 Education Amendment Act (No 2) 1998
+
+Education and training support
+44 Interpretation 10
+45 New sections substituted 10
+46 Powers of Board 10
+47 Term of office 11
+Careers Service
+48 Interpretation 11
+49 Service continued for purposes of Part 22 11
+50 Continuation of Board 11
+51 Term of office 11
+Miscellaneous provisions
+52 Change of names of education entities 11
+53 New sections substituted 11
+54 Powers of entry and inspection of early childhood centres 11
+55 Centres situated on property owned by the Crown 11
+Review of educational services
+56 Interpretation 12
+57 Educational services to which this Part applies 12
+58 New sections inserted 12
+Election irregularities
+59 Validation and invalidation of elections of Boards 12
+Repeals, amendments, and transitional and savings provisions
+60 Consequential repeals 12
+61 Amendment to Education Lands Act 1949 13
+62 Transitional provisions relating to enrolment schemes 13
+63 Saving of syllabuses in force under Education Act 1964 13
+64 Transitional provision relating to suspension of students from state schools 13
 
 An Act to amend the Education Act 1989
 
@@ -39,6 +122,46 @@ Education Amendment Act (No 2) 1998
 1998 No 118
 
 BE IT ENACTED by the Parliament of New Zealand as follows:
+
+### 1 Short Title and commencement
+
+- This Act may be cited as the Education Amendment Act (No 2) 1998, and is part of the Education Act 1989 (the principal Act).
+
+- Except as provided in subsection (3), this Act comes into force on the day after the date on which it receives the Royal assent.
+
+- Sections 7 and 64 come into force on a date to be appointed by the Governor-General by Order in Council.
+
+### 2 Interpretation
+
+This section substituted the definition Enrolment scheme in s 2(1) of the principal Act.
+
+### 3 Special education
+
+This section amended s 9(2) of the principal Act.
+
+### 4 Right of reconsideration
+
+- This subsection inserted s 10(6)(ma) of the principal Act.
+
+- This subsection amended s 10(6)(n) of the principal Act.
+
+### 5 New heading and sections substituted
+
+This section substituted ss 11A to 11Q in the principal Act.
+
+### 6 Consequential amendments and repeals
+
+- This subsection amended s 18A(2) of the principal Act.
+
+- This subsection amended ss 155(9) and 155(11) of the principal Act.
+
+- This section substituted s 156(7) and amended s 156(8) of the principal Act.
+
+- Sections 3(2) and 5 of the Education Amendment Act 1991 are consequentially repealed.
+
+### 7 New heading and sections substituted
+
+This section substituted ss 13 to 17, inserted ss 17A to 17D, and substituted s 18 of the principal Act.
 
 4
 
@@ -118,13 +241,13 @@ This heading was repealed, as from 6 April 2004, by section 5(3)(c) Education (D
 
 [Repealed]
 
-Sections 16 and 17 were repealed, as from 6 April 2004, by section 5(3)(c) Edu­ cation (Disestablishment of Early Childhood Development Board) Amendment Act 2004 (2004 No 14).
+Sections 16 and 17 were repealed, as from 6 April 2004, by section 5(3)(c) Education (Disestablishment of Early Childhood Development Board) Amendment Act 2004 (2004 No 14).
 
 ### 17 New sections substituted
 
 [Repealed]
 
-Sections 16 and 17 were repealed, as from 6 April 2004, by section 5(3)(c) Edu­ cation (Disestablishment of Early Childhood Development Board) Amendment Act 2004 (2004 No 14).
+Sections 16 and 17 were repealed, as from 6 April 2004, by section 5(3)(c) Education (Disestablishment of Early Childhood Development Board) Amendment Act 2004 (2004 No 14).
 
 ## Curriculum
 
@@ -155,6 +278,56 @@ This section amended s 60 of the principal Act.
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+
+1998 No 118
+
+Education Amendment Act (No 2) 1998
+
+Part 24 s 24
+
+(c) The Education (Secondary Instruction) Regulations 1975, Amendment No 3 (SR 1977/147):
+
+(d) The Education (Secondary Instruction) Regulations 1975, Amendment No 4 (SR 1977/211):
+
+(e) The Education (Secondary Instruction) Regulations 1975, Amendment No 7 (SR 1980/118):
+
+(f) The Education (Secondary Instruction) Regulations 1975, Amendment No 10 (SR 1986/169):
+
+(g) The Education (Secondary Instruction) Regulations 1975, Amendment No 11 (SR 1986/376):
+
+(h) The Education (Secondary Instruction) Regulations 1975, Amendment No 14 (SR 1990/168).
+
+## Assistance for Boards
+
+### 20 Secretary may require Board to get specialist support
+
+This section inserted s 64A in the principal Act.
+
+## Meaning of school day
+
+### 21 Exceptions in particular cases
+
+This section inserted ss 65D(3) to 65D(6) in the principal Act.
+
+## School property
+
+### 22 Occupancy of property and buildings
+
+- This subsection substituted s 70(1) in the principal Act.
+
+- This subsection substituted s 70(5) and 70(6) in the principal Act.
+
+## School records
+
+### 23 Enrolment records
+
+This section inserted s 77A in the principal Act.
+
+## Entry and inspection of schools
+
+### 24 Powers of entry and inspection
+
+- This subsection substituted s 78A(1) and 78A(2) in the principal Act.
 
 7
 
@@ -190,7 +363,7 @@ This section amended s 104(6) of the principal Act.
 
 ### 29 Commissioners
 
-- This subsection inserted s 109(7A) and 109(7B) in the princi­ pal Act.
+- This subsection inserted s 109(7A) and 109(7B) in the principal Act.
 
 - This subsection inserted s 109(9) in the principal Act.
 
@@ -210,7 +383,7 @@ Section 140 of the principal Act (which relates to the initial appointment of te
 
 ### 33 Interpretation
 
-This section inserted in s 145(1) of the principal Act the def­ inition of the term composite school .
+This section inserted in s 145(1) of the principal Act the definition of the term composite school.
 
 8
 
@@ -223,6 +396,50 @@ This section inserted in s 145(1) of the principal Act the def­ inition of the 
 Education Amendment Act (No 2) 1998
 
 Part 42 s 42
+
+### 34 Minister may establish schools
+
+This section inserted s 146(3) and 146(4) in the principal Act.
+
+### 35 Normal schools, etc
+
+This section amended s 148(1) of the principal Act.
+
+### 36 Contributing schools
+
+This section inserted s 150(6) and 150(7) in the principal Act.
+
+### 37 Provision of education at composite schools
+
+This section substituted s 151 in the principal Act.
+
+### 38 Minister may change class of school
+
+- This subsection inserted s 153(1A) in the principal Act.
+
+- This subsection amended s 153(4) of the principal Act.
+
+### 39 Closure of schools
+
+- This subsection inserted s 154(2A) in the principal Act.
+
+- This subsection inserted s 154(3A) in the principal Act.
+
+### 40 Minister may merge schools
+
+This section substituted s 156A in the principal Act.
+
+### 41 Provision by one Board of tuition for students enrolled at school administered by another
+
+- This subsection repealed s 158(4) of the principal Act.
+
+- Section 32 of the Education Amendment Act 1990 is consequentially repealed.
+
+## Fee disclosure by institutions
+
+### 42 Tertiary institutions to give prospective students information about fees
+
+This section inserted s 228A in the principal Act.
 
 9
 
@@ -280,7 +497,7 @@ Part 52 s 55
 
 ### 47 Term of office
 
-This section amended clause 1(1) of Schedule 16 of the prin­ cipal Act.
+This section amended clause 1(1) of Schedule 16 of the principal Act.
 
 ## Careers Service
 
@@ -300,7 +517,7 @@ This section substituted s 281 of the principal Act.
 
 ### 51 Term of office
 
-This section amended clause 1(1) of Schedule 17 of the prin­ cipal Act.
+This section amended clause 1(1) of Schedule 17 of the principal Act.
 
 ## Miscellaneous provisions
 
@@ -320,7 +537,7 @@ This section substituted ss 307 and 307AA in the principal Act.
 
 ### 55 Centres situated on property owned by the Crown
 
-- Section 319 of the principal Act is amended by repealing para­ graphs (d) and (e).
+- Section 319 of the principal Act is amended by repealing paragraphs (d) and (e).
 
 11
 
@@ -342,7 +559,7 @@ Education Amendment Act (No 2) 1998
 
 - This subsection amended the definition of the term applicable service in s 323 of the principal Act.
 
-- This subsection inserted in s 323 of the principal Act the def­ inition Parent .
+- This subsection inserted in s 323 of the principal Act the definition Parent.
 
 ### 57 Educational services to which this Part applies
 
@@ -396,12 +613,12 @@ Part 60 s 64
 
 ### 62 Transitional provisions relating to enrolment schemes
 
-- Despite anything in the principal Act or in the enrolment schemes concerned, every enrolment scheme in place under the principal Act when this section comes into force ( an old scheme ) continues in force and ceases to have effect on a date to be appointed by the Governor­General by Order in Council; and 1 or more orders may be made under this subsection appointing different dates for different classes of schools or different locations.
+- Despite anything in the principal Act or in the enrolment schemes concerned, every enrolment scheme in place under the principal Act when this section comes into force (an old scheme) continues in force and ceases to have effect on a date to be appointed by the Governor-General by Order in Council; and 1 or more orders may be made under this subsection appointing different dates for different classes of schools or different locations.
 
-- Anewenrolment scheme (whether or not it is to have effect in place of an old scheme) may be prepared in accordance with Part 2 of the principal Act (as amended by this Act) at any time after this section comes into force.
+- A new enrolment scheme (whether or not it is to have effect in place of an old scheme) may be prepared in accordance with Part 2 of the principal Act (as amended by this Act) at any time after this section comes into force.
 
 ### 63 Saving of syllabuses in force under Education Act 1964
-Every statement (such as a syllabus) corresponding to a na­ tional curriculum statement under section 60A of the principal Act that was issued in the form of a notice and was, immedi­ ately before the commencement of this section, in force under the Education Act 1964 continues in force until revoked under section 60A(2) of the principal Act.
+Every statement (such as a syllabus) corresponding to a national curriculum statement under section 60A of the principal Act that was issued in the form of a notice and was, immediately before the commencement of this section, in force under the Education Act 1964 continues in force until revoked under section 60A(2) of the principal Act.
 
 ### 64 Transitional provision relating to suspension of students from state schools
 
