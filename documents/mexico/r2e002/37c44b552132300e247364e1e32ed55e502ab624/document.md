@@ -41,13 +41,15 @@ En el sistema educativo nacional deberá asegurarse la participación activa de 
 Párrafo reformado DOF 11-09-2013
 
 #### Artículo  3o.
-El  Estado  está  obligado  a  prestar  servicios  educativos  de  calidad  que  garanticen  el máximo logro de aprendizaje de los educandos, para que toda la población pueda cursar la educación preescolar, la primaria, la secundaria y la media superior. Estos servicios se prestarán en el marco del federalismo y la concurrencia previstos en la Constitución Política de los Estados Unidos Mexicanos  y conforme a la distribución de la función social educativa establecida en la presente Ley.
+El Estado está obligado a prestar servicios educativos de calidad que garanticen el máximo logro de aprendizaje de los educandos, para que toda la población pueda cursar la educación preescolar, la primaria, la secundaria y la media superior. Estos servicios se prestarán en el marco del
 
 1 de 72
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+federalismo y la concurrencia previstos en la Constitución Política de los Estados Unidos Mexicanos y conforme a la distribución de la función social educativa establecida en la presente Ley.
 
 Artículo reformado DOF 10-06-2013, 11-09-2013
 
@@ -91,13 +93,15 @@ Fracción reformada DOF 13-03-2003
 
 V.Infundir el conocimiento y la práctica de la democracia como la forma de gobierno y convivencia que permite a todos participar en la toma de decisiones al mejoramiento de la sociedad;
 
-VI . -Promover el valor de la justicia, de la observancia de la Ley y de la igualdad de los individuos ante ésta, propiciar la cultura de la legalidad, de la inclusión y la no discriminación, de la paz y la no violencia en  cualquier  tipo  de  sus  manifestaciones,  así  como  el  conocimiento  de  los  Derechos  Humanos  y  el respeto a los mismos;
+VI.- Promover el valor de la justicia, de la observancia de la Ley y de la igualdad de los individuos ante ésta, propiciar la cultura de la legalidad, de la inclusión y la no discriminación, de la paz y la no violencia
 
 2 de 72
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+en cualquier tipo de sus manifestaciones, así como el conocimiento de los Derechos Humanos y el respeto a los mismos;
 
 Fracción reformada DOF 17-06-2008, 28-01-2011, 01-06-2016
 
@@ -127,13 +131,13 @@ XII.Fomentar actitudes solidarias y positivas hacia el trabajo, el ahorro y el b
 
 XIII.Fomentar los valores y principios del cooperativismo.
 
-XIV Bis.Promover y fomentar la lectura y el libro.
-
 Fracción adicionada DOF 02-06-2006
 
-XIV.Fomentar la cultura de la transparencia y la rendición de cuentas, así como el conocimiento en los  educandos  de  su  derecho  al  acceso  a  la  información  pública  gubernamental  y  de  las  mejores prácticas para ejercerlo.
+XIV.Fomentar la cultura de la transparencia y la rendición de cuentas, así como el conocimiento en los educandos de su derecho al acceso a la información pública gubernamental y de las mejores prácticas para ejercerlo.
 
 Fracción adicionada DOF 15-07-2008
+
+XIV Bis.Promover y fomentar la lectura y el libro.
 
 Fracción adicionada DOF 17-04-2009
 
@@ -146,13 +150,15 @@ XVI.Realizar acciones educativas y preventivas a fin de evitar que se cometan il
 Fracción adicionada DOF 19-08-2010
 
 #### Artículo 8o.
-El criterio que orientará a la educación que el Estado y sus organismos descentralizados impartan -así como toda la educación preescolar, la primaria, la secundaria, media superior, la normal y demás para la formación de maestros de educación básica que los particulares impartan- se basará en los  resultados  del  progreso  científico;  luchará  contra  la  ignorancia  y  sus  causas  y  efectos,  las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y la violencia especialmente la que se ejerce contra las mujeres y niños, debiendo implementar políticas públicas de Estado orientadas a la transversalidad de criterios en los tres órdenes de gobierno.
+El criterio que orientará a la educación que el Estado y sus organismos descentralizados impartan -así como toda la educación preescolar, la primaria, la secundaria, media superior, la normal y demás para la formación de maestros de educación básica que los particulares impartan- se basará en
 
 3 de 72
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+los resultados del progreso científico; luchará contra la ignorancia y sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y la violencia especialmente la que se ejerce contra las mujeres y niños, debiendo implementar políticas públicas de Estado orientadas a la transversalidad de criterios en los tres órdenes de gobierno.
 
 Párrafo reformado DOF 10-12-2004, 17-04-2009, 11-09-2013
 
@@ -182,11 +188,11 @@ Constituyen el sistema educativo nacional:
 
 - I.Los educandos, educadores y los padres de familia;
 
+Fracción reformada DOF 11-09-2013
+
 - II.Las autoridades educativas;
 
 - III.El Servicio Profesional Docente;
-
-Fracción reformada DOF 11-09-2013
 
 Fracción adicionada DOF 02-11-2007. Reformada DOF 11-09-2013
 
@@ -249,15 +255,15 @@ Fracción adicionada DOF 02-11-2007. Derogada DOF 11-09-2013
 
 - V.Instituto Nacional para la Evaluación de la Educación, al organismo constitucional autónomo al que le corresponde:
 
-- Coordinar el Sistema Nacional de Evaluación Educativa;
+- a. Coordinar el Sistema Nacional de Evaluación Educativa;
 
-- Evaluar  la  calidad,  el  desempeño  y  resultados  del  sistema  educativo  nacional  en  la educación básica y media superior, y
+- b. Evaluar la calidad, el desempeño y resultados del sistema educativo nacional en la educación básica y media superior, y
 
-- Las demás atribuciones que establezcan la Constitución, su propia ley, la Ley General del Servicio Profesional Docente y demás disposiciones aplicables;
+- c. Las demás atribuciones que establezcan la Constitución, su propia ley, la Ley General del Servicio Profesional Docente y demás disposiciones aplicables;
 
 Fracción adicionada DOF 11-09-2013
 
-- Autoridades Escolares, al personal que lleva a cabo funciones de dirección o supervisión en los sectores, zonas o centros escolares.
+- VI. Autoridades Escolares, al personal que lleva a cabo funciones de dirección o supervisión en los sectores, zonas o centros escolares.
 
 Fracción adicionada DOF 11-09-2013
 
@@ -306,13 +312,13 @@ V Ter.Emitir los lineamientos generales para el uso responsable y seguro de las 
 
 Fracción adicionada DOF 19-12-2014
 
-VI.Regular un sistema nacional de formación, actualización, capacitación  y superación profesional para  maestros  de  educación  básica.  Dicho  sistema  deberá  sujetarse  a  los  lineamientos,  medidas, programas, acciones y demás disposiciones generales que resulten de la aplicación de la Ley General del Servicio Profesional Docente;
+VI.Regular un sistema nacional de formación, actualización, capacitación y superación profesional para maestros de educación básica. Dicho sistema deberá sujetarse a los lineamientos, medidas, programas, acciones y demás disposiciones generales que resulten de la aplicación de la Ley General del Servicio Profesional Docente;
 
 Fracción reformada DOF 11-09-2013
 
-Fracción adicionada DOF 19-08-2010. Derogada DOF 11-09-2013
-
 VII.Se deroga.
+
+Fracción adicionada DOF 19-08-2010. Derogada DOF 11-09-2013
 
 6 de 72
 
@@ -409,9 +415,9 @@ VIII.Participar con la autoridad educativa federal en la operación de los mecan
 
 Fracción adicionada DOF 28-01-2011. Reformada DOF 11-09-2013
 
-Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables. Fracción recorrida DOF 28-01-2011
+IX.- Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
 
-IX.-
+Fracción recorrida DOF 28-01-2011
 
 #### Artículo 14.
 Adicionalmente a las atribuciones exclusivas a las que se refieren los artículos 12 y 13, corresponde  a  las  autoridades  educativas  federal  y  locales  de  manera  concurrente,  las  atribuciones siguientes:
@@ -460,7 +466,7 @@ Fracción reformada DOF 17-12-2015
 
 - VII.Promover permanentemente la investigación que sirva como base a la innovación educativa;
 
-- Promover  la  investigación  y  el  desarrollo  de  la  ciencia,  la  tecnología  y  la  innovación,  y fomentar  su  enseñanza,  diseminación  en  acceso  abierto  y  su  divulgación,  cuando  el
+- VIII.Promover la investigación y el desarrollo de la ciencia, la tecnología y la innovación, y fomentar su enseñanza, diseminación en acceso abierto y su divulgación, cuando el
 
 9 de 72
 
@@ -468,9 +474,7 @@ Fracción reformada DOF 17-12-2015
 
 [[START OF PAGE 10]]
 
-- XIII.-
-
-conocimiento  científico  y  tecnológico  sea  financiado  con  recursos  públicos  o  que  se  haya utilizado infraestructura pública en su realización, sin perjuicio de las disposiciones en materia de patentes, protección de la propiedad intelectual o industrial, seguridad nacional y derechos de  autor,  entre  otras,  así  como  de  aquella  información  que,  por  razón  de  su  naturaleza  o decisión del autor, sea confidencial o reservada;
+conocimiento científico y tecnológico sea financiado con recursos públicos o que se haya utilizado infraestructura pública en su realización, sin perjuicio de las disposiciones en materia de patentes, protección de la propiedad intelectual o industrial, seguridad nacional y derechos de autor, entre otras, así como de aquella información que, por razón de su naturaleza o decisión del autor, sea confidencial o reservada;
 
 Fracción reformada DOF 16-11-2011, 20-05-2014
 
@@ -514,7 +518,7 @@ Fracción adicionada DOF 11-09-2013
 
 Fracción adicionada DOF 11-09-2013
 
-- Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
+- XIII.Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
 
 Fracción reformada DOF 02-06-2006 (se recorre), 17-04-2009 (se recorre)
 
@@ -634,7 +638,7 @@ Artículo adicionado DOF 11-09-2013
 ### Sección 3.- Del financiamiento a la educación
 
 #### Artículo  25.
-El  Ejecutivo  Federal  y  el  gobierno  de  cada  entidad  federativa,  con  sujeción  a  las disposiciones  de  ingresos  y  gasto  público  correspondientes  que  resulten  aplicables,  concurrirán  al financiamiento  de  la  educación  pública  y  de  los  servicios  educativos.  El  monto  anual  que  el  Estado  Federación, entidades federativas y municipios-, destine al gasto en educación pública y en los servicios educativos, no podrá ser menor a ocho por ciento del producto interno bruto del país, destinado de este monto, al menos el 1% del producto interno bruto a la investigación científica y al desarrollo tecnológico en las Instituciones de Educación Superior Públicas. En la asignación del presupuesto a cada uno de los niveles de educación, se deberá dar la continuidad y la concatenación entre los mismos, con el fin de que la población alcance el máximo nivel de estudios posible.
+El Ejecutivo Federal y el gobierno de cada entidad federativa, con sujeción a las disposiciones de ingresos y gasto público correspondientes que resulten aplicables, concurrirán al financiamiento de la educación pública y de los servicios educativos. El monto anual que el Estado -Federación, entidades federativas y municipios-, destine al gasto en educación pública y en los servicios educativos, no podrá ser menor a ocho por ciento del producto interno bruto del país, destinado de este monto, al menos el 1% del producto interno bruto a la investigación científica y al desarrollo tecnológico en las Instituciones de Educación Superior Públicas. En la asignación del presupuesto a cada uno de los niveles de educación, se deberá dar la continuidad y la concatenación entre los mismos, con el fin de que la población alcance el máximo nivel de estudios posible.
 
 Párrafo reformado DOF 04-01-2005
 
@@ -745,7 +749,7 @@ Artículo reformado DOF 17-04-2009, 11-09-2013, 22-03-2017
 #### Artículo 33.
 Para cumplir con lo dispuesto en el artículo anterior, las autoridades educativas en el ámbito de sus respectivas competencias llevarán a cabo las actividades siguientes:
 
-- Atenderán de manera especial las escuelas en que, por estar en localidades aisladas, zonas urbanas marginadas o comunidades indígenas, sea considerablemente mayor la posibilidad de  atrasos  o  deserciones,  mediante  la  asignación  de  elementos  de  mejor  calidad,  para enfrentar los problemas educativos de dichas localidades;
+- I.Atenderán de manera especial las escuelas en que, por estar en localidades aisladas, zonas urbanas marginadas o comunidades indígenas, sea considerablemente mayor la posibilidad de atrasos o deserciones, mediante la asignación de elementos de mejor calidad, para enfrentar los problemas educativos de dichas localidades;
 
 Fracción reformada DOF 02-07-2010
 
@@ -793,7 +797,7 @@ Fracción reformada DOF 28-01-2011, 11-09-2013
 
 Fracción reformada DOF 28-01-2011
 
-- Promoverán mayor participación de la sociedad en la educación, así como el apoyo de los particulares al financiamiento y a las actividades a que se refiere este capítulo;
+- XI.Promoverán mayor participación de la sociedad en la educación, así como el apoyo de los particulares al financiamiento y a las actividades a que se refiere este capítulo;
 
 - XI  Bis.Garantizar  el  acceso  a  la  educación  básica  y  media  superior,  aun  cuando  los  solicitantes carezcan de documentos académicos o de identidad; esta obligación se tendrá por satisfecha con el ofrecimiento de servicios educativos de calidad.
 
@@ -803,11 +807,11 @@ Las  autoridades  educativas  promoverán  acciones  similares  para  el  caso  
 
 Fracción adicionada DOF 22-03-2017
 
-- Concederán  reconocimientos  y  distinciones  a  quienes  contribuyan  a  la  consecución  de  los propósitos mencionados en el artículo anterior;
+- XII.Concederán reconocimientos y distinciones a quienes contribuyan a la consecución de los propósitos mencionados en el artículo anterior;
 
 Fracción reformada DOF 02-07-2010
 
-- Proporcionarán  materiales  educativos  en  las  lenguas  indígenas  que  correspondan  en  las escuelas en donde asista mayoritariamente población indígena;
+- XIII.Proporcionarán materiales educativos en las lenguas indígenas que correspondan en las escuelas en donde asista mayoritariamente población indígena;
 
 Fracción adicionada DOF 02-07-2010
 
@@ -884,7 +888,7 @@ La  educación  inicial  tiene  como  propósito  favorecer  el  desarrollo  fí
 
 Artículo reformado DOF 28-01-2011
 
-#### Artículo 41 . -
+#### Artículo 41.-
 La educación especial tiene como propósito identificar, prevenir y eliminar las barreras que  limitan  el  aprendizaje  y  la  participación  plena  y  efectiva  en  la  sociedad  de  las  personas  con discapacidad,  con  dificultades  severas  de  aprendizaje,  de  conducta  o  de  comunicación,  así  como  de aquellas  con  aptitudes  sobresalientes.  Atenderá  a  los  educandos  de  manera  adecuada  a  sus  propias condiciones, estilos y ritmos de aprendizaje, en un contexto educativo incluyente, que se debe basar en los principios de respeto, equidad, no discriminación, igualdad sustantiva y perspectiva de género.
 
 Tratándose de personas con discapacidad, con dificultades severas de aprendizaje, de conducta o de comunicación, se favorecerá su atención en los planteles de educación básica, sin que esto cancele su posibilidad de acceder a las diversas modalidades de educación especial atendiendo a sus necesidades. Se realizarán ajustes razonables y se aplicarán métodos, técnicas, materiales específicos y las medidas de apoyo necesarias para garantizar la satisfacción  de las necesidades básicas de aprendizaje de los alumnos  y  el  máximo  desarrollo  de  su  potencial  para  la  autónoma  integración  a  la  vida  social  y productiva.  Las  instituciones  educativas  del  Estado  promoverán  y  facilitarán  la  continuidad  de  sus estudios en los niveles de educación media superior y superior.
@@ -1343,7 +1347,7 @@ Párrafo reformado DOF 11-09-2013
 
 Este consejo:
 
-- Opinará sobre los ajustes al calendario escolar aplicable a cada escuela y conocerá las metas educativas, así como el avance de las actividades escolares, con el objeto de coadyuvar con el maestro a su mejor realización;
+- a) Opinará sobre los ajustes al calendario escolar aplicable a cada escuela y conocerá las metas educativas, así como el avance de las actividades escolares, con el objeto de coadyuvar con el maestro a su mejor realización;
 
 28 de 72
 
@@ -1353,35 +1357,35 @@ Este consejo:
 
 Inciso reformado DOF 09-05-2016
 
-- Conocerá y dará seguimiento de las acciones que realicen las y los educadores y autoridades educativas señaladas en el segundo párrafo del artículo 42 de la presente ley;
+- b) Conocerá y dará seguimiento de las acciones que realicen las y los educadores y autoridades educativas señaladas en el segundo párrafo del artículo 42 de la presente ley;
 
-- Conocerá de las acciones educativas y de prevención que realicen las autoridades para que los educandos conozcan y detecten la posible comisión de hechos delictivos que puedan perjudicar al educando;
+- c) Conocerá de las acciones educativas y de prevención que realicen las autoridades para que los educandos conozcan y detecten la posible comisión de hechos delictivos que puedan perjudicar al educando;
 
-- Sensibilizará a la comunidad, mediante la divulgación de material que prevenga la comisión de delitos  en  agravio  de  las  y  los  educandos.  Así  como  también,  de  elementos  que  procuren  la defensa de los derechos de las víctimas de tales delitos;
+- d) Sensibilizará a la comunidad, mediante la divulgación de material que prevenga la comisión de delitos  en  agravio  de  las  y  los  educandos.  Así  como  también,  de  elementos  que  procuren  la defensa de los derechos de las víctimas de tales delitos;
 
-- Tomará nota de los resultados de las evaluaciones que realicen las autoridades educativas;
+- e) Tomará nota de los resultados de las evaluaciones que realicen las autoridades educativas;
 
-- Propiciará  la  colaboración  de  maestros  y  padres  de  familia  para  salvaguardar  la  integridad  y educación plena de las y los educandos.
+- f) Propiciará  la  colaboración  de  maestros  y  padres  de  familia  para  salvaguardar  la  integridad  y educación plena de las y los educandos.
 
-- Podrá proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados  de  la  escuela,  para  ser  considerados  por  los  programas  de  reconocimiento  que establece  la  Ley  General  del  Servicio  Profesional  Docente  y  demás  programas  que  al  efecto determine la Secretaría y las autoridades competentes;
+- g) Podrá proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados  de  la  escuela,  para  ser  considerados  por  los  programas  de  reconocimiento  que establece  la  Ley  General  del  Servicio  Profesional  Docente  y  demás  programas  que  al  efecto determine la Secretaría y las autoridades competentes;
 
 Inciso reformado DOF 11-09-2013
 
-- Conocerá los nombres de las y los educadores señalados en el segundo párrafo del artículo 56 de la presente ley;
+- h) Conocerá los nombres de las y los educadores señalados en el segundo párrafo del artículo 56 de la presente ley;
 
-- Estimulará, promoverá y apoyará actividades extraescolares que complementen y respalden la formación de los educandos;
+- i) Estimulará, promoverá y apoyará actividades extraescolares que complementen y respalden la formación de los educandos;
 
-- Llevará  a  cabo  las  acciones  de  participación,  coordinación  y  difusión  necesarias  para  la protección civil y la emergencia escolar;
+- j) Llevará  a  cabo  las  acciones  de  participación,  coordinación  y  difusión  necesarias  para  la protección civil y la emergencia escolar;
 
-- Alentará el interés familiar y comunitario por el desempeño del educando;
+- k) Alentará el interés familiar y comunitario por el desempeño del educando;
 
-- Opinará en asuntos pedagógicos y en temas que permitan la salvaguarda del libre desarrollo de la personalidad, integridad y derechos humanos de las y los educandos;
+- l) Opinará en asuntos pedagógicos y en temas que permitan la salvaguarda del libre desarrollo de la personalidad, integridad y derechos humanos de las y los educandos;
 
-- Contribuirá  a  reducir  las  condiciones  sociales  adversas  que  influyan  en  la  educación;  estará facultado para realizar convocatorias para trabajos específicos de mejoramiento de las instalaciones escolares;
+- m) Contribuirá  a  reducir  las  condiciones  sociales  adversas  que  influyan  en  la  educación;  estará facultado para realizar convocatorias para trabajos específicos de mejoramiento de las instalaciones escolares;
 
-- Respaldará las labores cotidianas de la escuela, y
+- n) Respaldará las labores cotidianas de la escuela, y
 
-- En general, podrá realizar actividades en beneficio de la propia escuela.
+- o) En general, podrá realizar actividades en beneficio de la propia escuela.
 
 Párrafo reformado DOF 19-08-2010
 
@@ -1402,39 +1406,39 @@ Párrafo reformado DOF 28-01-2011, 11-09-2013
 
 Este consejo gestionará ante el ayuntamiento y ante la autoridad educativa local:
 
-- El mejoramiento de los servicios educativos, la construcción y ampliación de escuelas públicas, tomando  en  cuenta  las  necesidades  de  accesibilidad  para  las  personas  con  discapacidad,  y demás proyectos de desarrollo educativo en el municipio;
+- a) El mejoramiento de los servicios educativos, la construcción y ampliación de escuelas públicas, tomando  en  cuenta  las  necesidades  de  accesibilidad  para  las  personas  con  discapacidad,  y demás proyectos de desarrollo educativo en el municipio;
 
 Inciso reformado DOF 01-06-2016
 
-- Conocerá de los resultados de las evaluaciones que realicen las autoridades educativas;
+- b) Conocerá de los resultados de las evaluaciones que realicen las autoridades educativas;
 
-- Llevará a cabo labores de seguimiento de las actividades de las escuelas públicas de educación básica del propio municipio;
+- c) Llevará a cabo labores de seguimiento de las actividades de las escuelas públicas de educación básica del propio municipio;
 
-- Estimulará,  promoverá  y  apoyará  actividades  de  intercambio,  colaboración  y  participación interescolar en aspectos culturales, cívicos, deportivos y sociales;
+- d) Estimulará,  promoverá  y  apoyará  actividades  de  intercambio,  colaboración  y  participación interescolar en aspectos culturales, cívicos, deportivos y sociales;
 
-- Establecerá la coordinación de escuelas con autoridades y programas de bienestar comunitario, particularmente con aquellas autoridades que atiendan temas relacionados con la defensa de los derechos  consagrados  en  la  Ley  para  la  Protección  de  los  Derechos  de  las  Niñas,  Niños  y Adolescentes;
+- e) Establecerá la coordinación de escuelas con autoridades y programas de bienestar comunitario, particularmente con aquellas autoridades que atiendan temas relacionados con la defensa de los derechos  consagrados  en  la  Ley  para  la  Protección  de  los  Derechos  de  las  Niñas,  Niños  y Adolescentes;
 
-- Hará aportaciones relativas a las particularidades del municipio que contribuyan a la formulación de contenidos locales a ser propuestos para los planes y programas de estudio;
+- f) Hará aportaciones relativas a las particularidades del municipio que contribuyan a la formulación de contenidos locales a ser propuestos para los planes y programas de estudio;
 
-- Podrá opinar en asuntos pedagógicos;
+- g) Podrá opinar en asuntos pedagógicos;
 
-- Coadyuvará a nivel municipal en actividades de protección civil y emergencia escolar;
+- h) Coadyuvará a nivel municipal en actividades de protección civil y emergencia escolar;
 
-- Promoverá la superación educativa en el ámbito municipal mediante certámenes interescolares;
+- i) Promoverá la superación educativa en el ámbito municipal mediante certámenes interescolares;
 
-- Promoverá  actividades  de  orientación,  capacitación  y  difusión  dirigidas  a  padres  de  familia  y tutores, para que cumplan cabalmente con sus obligaciones en materia educativa;
+- j) Promoverá  actividades  de  orientación,  capacitación  y  difusión  dirigidas  a  padres  de  familia  y tutores, para que cumplan cabalmente con sus obligaciones en materia educativa;
 
-- Podrá proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados escolares;
+- k) Podrá proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados escolares;
 
-- Procurará la obtención de recursos complementarios para el mantenimiento físico y para proveer de equipo básico a cada escuela pública,
+- l) Procurará la obtención de recursos complementarios para el mantenimiento físico y para proveer de equipo básico a cada escuela pública,
 
 Inciso reformado DOF 20-04-2015
 
-- Proponer  acciones  que  propicien  el  conocimiento  de  las  actividades  económicas  locales preponderantes e impulsen el desarrollo integral de las comunidades, y
+- m) Proponer  acciones  que  propicien  el  conocimiento  de  las  actividades  económicas  locales preponderantes e impulsen el desarrollo integral de las comunidades, y
 
 Inciso adicionado DOF 20-04-2015
 
-- En general, podrá realizar actividades para apoyar y fortalecer la educación en el municipio.
+- n) En general, podrá realizar actividades para apoyar y fortalecer la educación en el municipio.
 
 Inciso recorrido DOF 20-04-2015 Párrafo con fracciones reformado DOF 19-08-2010
 
@@ -1538,14 +1542,15 @@ XVII.Incumplir con las medidas correctivas derivadas de las visitas de inspecci�
 Fracción adicionada DOF 11-09-2013
 
 Reforma DOF 11-09-2013: Derogó del artículo el entonces último párrafo
-#### Artículo 76.
-Las infracciones enumeradas en el artículo anterior se sancionarán con:
 
 32 de 72
 
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
+
+#### Artículo 76.
+Las infracciones enumeradas en el artículo anterior se sancionarán con:
 
 - I.Multa hasta por el equivalente a cinco mil veces el salario mínimo general diario vigente en el área  geográfica  y  en  la  fecha  en  que  se  cometa  la  infracción.  Las  multas  impuestas  podrán duplicarse en caso de reincidencia, o
 
@@ -1666,7 +1671,7 @@ Las  autoridades  competentes  se  obligan  a  respetar  íntegramente  los  der
 
 México, D.  F.,  a  9  de  julio  de  1993.  Dip. Juan Ramiro Robledo Ruiz ,  Presidente.-  Sen. Mauricio Valdés  Rodríguez ,  Presidente.-  Dip. Luis  Moreno  Bustamante ,  Secretario.  -  Sen. Ramón  Serrano Ahumada , Secretario.- Rúbricas."
 
-En  cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de julio de 1993.Carlos Salinas de Gortari .- Rúbrica.- El Secretario de Gobernación, J osé Patrocinio González Blanco Garrido . - Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de julio de 1993.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido. - Rúbrica.
 
 35 de 72
 
@@ -1734,7 +1739,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 México, D.F., a 28 de abril de 2000.- Dip. Francisco José Paoli Bolio ,  Presidente.- Sen. Dionisio Pérez  Jácome ,  Vicepresidente  en  funciones.-  Dip. Guadalupe  Sánchez  Martínez ,  Secretario.-  Sen. Porfirio Camarena Castro , Secretario.- Rúbricas " .
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los seis días del mes de junio de dos mil.Ernesto Zedillo Ponce de León .- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los seis días del mes de junio de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
 
 37 de 72
 
@@ -1761,7 +1766,7 @@ Para dar cabal cumplimiento a esta disposición, los presupuestos del Estado, co
 
 México,  D.F.,  a  14  de  diciembre  de  2002.-  Dip. Beatriz  Elena  Paredes  Rangel ,  Presidenta.-  Sen. Enrique Jackson Ramírez , Presidente.- Dip. Adela Cerezo Bautista , Secretaria.- Sen. Rafael Melgoza Radillo , Secretario.- Rúbricas " .
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes  de  diciembre  de  dos  mil  dos.Vicente  Fox  Quesada .-  Rúbrica.-  El  Secretario  de  Gobernación, Santiago Creel Miranda .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de diciembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
 38 de 72
 
@@ -1783,7 +1788,7 @@ El  presente  Decreto  entrará  en  vigor  al  día  siguiente  de  su  publica
 
 México, D.F., a 15 de diciembre de 2002.- Sen. Enrique Jackson Ramírez , Presidente.- Dip. Beatriz Elena Paredes Rangel , Presidenta.- Sen. Lydia Madero García , Secretario.- Dip. Adrián Rivera Pérez , Secretario.- Rúbricas " .
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes  de  diciembre  de  dos  mil  dos.Vicente  Fox  Quesada .-  Rúbrica.-  El  Secretario  de  Gobernación, Santiago Creel Miranda .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de diciembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
 39 de 72
 
@@ -1834,7 +1839,7 @@ México, D.F., a 15 de diciembre de 2002.- Sen. Enrique Jackson Ramírez , Presi
 
 [[START OF PAGE 41]]
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de marzo de dos mil tres.Vicente Fox Quesada .-  Rúbrica.-  El  Secretario  de  Gobernación, Santiago Creel Miranda .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de marzo de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
 41 de 72
 
@@ -1864,7 +1869,7 @@ La consideración del nivel de preescolar como prerrequisito para el ingreso al 
 
 México, D.F., a 7 de octubre de 2004.- Dip. Manlio Fabio Beltrones Rivera , Presidente.- Sen. Diego Fernández  de  Cevallos  Ramos ,  Presidente.-  Dip. Antonio  Morales  de  la  Peña ,  Secretario.-  Sen. Yolanda E. González Hernández , Secretaria.- Rúbricas. "
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los seis días del mes de  diciembre  de  dos  mil  cuatro.Vicente  Fox  Quesada .-  Rúbrica.-  El  Secretario  de  Gobernación, Santiago Creel Miranda .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los seis días del mes de diciembre de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
 42 de 72
 
@@ -1891,7 +1896,7 @@ Para  dar  cabal  cumplimiento  a  lo  dispuesto  en  el  presente  Decreto,  la
 
 México,  D.F.,  a  7  de  diciembre  de  2004.-  Dip. Manlio  Fabio  Beltrones  Rivera ,  Presidente.-  Sen. Diego  Fernández  de  Cevallos  Ramos ,  Presidente.-  Dip. Marcos  Morales  Torres ,  Secretario.-  Sen. Sara I. Castellanos Cortés , Secretaria.- Rúbricas. "
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de diciembre de dos mil cuatro.Vicente Fox Quesada .- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de diciembre de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
 43 de 72
 
@@ -1915,7 +1920,7 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 
 México,  D.F.,  a  18  de  abril  de  2006.-  Sen. Enrique  Jackson  Ramírez ,  Presidente.-  Dip. Marcela González  Salas  P. ,  Presidenta.-  Sen. Sara  Isabel  Castellanos  Cortés ,  Secretaria.-  Dip. Marcos Morales Torres , Secretario.- Rúbricas. "
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del  mes  de  mayo  de  dos  mil  seis.Vicente  Fox  Quesada .-  Rúbrica.-  El  Secretario  de  Gobernación, Carlos María Abascal Carranza .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de mayo de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
 
 44 de 72
 
@@ -1942,7 +1947,7 @@ El  Ejecutivo  Federal  deberá  actualizar  y  modernizar  el  Reglamento  de  
 
 México,  D.F.,  a  18  de  abril  de  2006.-  Sen. Enrique  Jackson  Ramírez ,  Presidente.-  Dip. Marcela González Salas P. ,  Presidente.-  Sen. Sara I. Castellanos Cortés ,  Secretaria.-  Dip. Patricia Garduño Morales, Secretaria.- Rúbricas. "
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del  mes  de  mayo  de  dos  mil  seis.Vicente  Fox  Quesada .-  Rúbrica.-  El  Secretario  de  Gobernación, Carlos María Abascal Carranza .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de mayo de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
 
 45 de 72
 
@@ -1966,7 +1971,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 México, D.F.,  a  27  de  abril  de  2006.-  Dip. Marcela González Salas P. ,  Presidenta.-  Sen. Enrique Jackson  Ramírez ,  Presidente.-  Dip. Marcos  Morales  Torres ,  Secretario.-  Sen. Sara  I.  Castellanos Cortés , Secretaria.- Rúbricas."
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del  mes  de  junio  de  dos  mil  seis.Vicente  Fox  Quesada .-  Rúbrica.-  El  Secretario  de  Gobernación, Carlos María Abascal Carranza .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de junio de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
 
 46 de 72
 
@@ -1990,7 +1995,7 @@ El presente decreto entrara en vigor al día siguiente de su publicación en el 
 
 México, D.F.,  a  27  de  abril  de  2006.-  Dip. Marcela González Salas P. ,  Presidenta.-  Sen. Enrique Jackson  Ramírez ,  Presidente.-  Dip. Marcos  Morales  Torres ,  Secretario.-  Sen. Sara  I.  Castellanos Cortés , Secretaria.- Rúbricas. "
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del  mes  de  junio  de  dos  mil  seis.Vicente  Fox  Quesada .-  Rúbrica.-  El  Secretario  de  Gobernación, Carlos María Abascal Carranza .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de junio de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
 
 47 de 72
 
@@ -2014,7 +2019,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 México, D.F., a 26 de abril de 2007.- Dip. Jorge Zermeño Infante ,  Presidente.- Sen. Manlio Fabio Beltrones  Rivera ,  Presidente.-  Dip. María  Eugenia  Jiménez  Valenzuela ,  Secretaria.-  Sen. Renán Cleominio Zoreda Novelo , Secretario.- Rúbricas. "
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a primero de agosto de dos mil siete.Felipe de Jesús Calderón Hinojosa .- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a primero de agosto de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.
 
 48 de 72
 
@@ -2038,7 +2043,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 México, D.F., a 21 de abril de 2008.- Dip. Ruth Zavaleta Salgado , Presidenta.- Sen. Santiago Creel Miranda ,  Presidente.-  Dip. Olga Patricia  Chozas  y  Chozas ,  Secretaria.-  Sen. Adrián  Rivera  Pérez , Secretario.- Rúbricas. "
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de junio de dos mil ocho.Felipe de Jesús Calderón Hinojosa .- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de junio de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
 
 49 de 72
 
@@ -2062,7 +2067,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 México, D.F., a 29 de abril de 2008.- Sen. Santiago Creel Miranda , Presidente.- Dip. Ruth Zavaleta Salgado , Presidenta.- Sen. Renán Cleominio Zoreda Novelo , Secretario.- Dip. Olga Patricia Chozas y Chozas , Secretaria.- Rúbricas. "
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cuatro de julio de dos mil ocho.Felipe de Jesús Calderón Hinojosa .- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cuatro de julio de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
 
 50 de 72
 
@@ -2074,19 +2079,19 @@ En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  d
 
 Publicado en el Diario Oficial de la Federación el 15 de julio de 2008
 
-#### Artículo  Único.
+#### Artículo Único.-
 Se  adiciona  la  fracción  XIV  al  artículo  7o.  de  la  Ley  General  de  Educación,  para quedar como sigue:
 
 ……….
 
 #### TRANSITORIO
 
-##### Único.
+##### Único.-
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 México, D.F., a 29 de abril de 2008.- Sen. Santiago Creel Miranda , Presidente.- Dip. Ruth Zavaleta Salgado ,  Presidenta.-  Sen. Renán  Cleominio  Zoreda  Novelo ,  Secretario.-  Dip. Patricia  Villanueva Abraján , Secretaria.- Rúbricas. "
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cuatro de julio de dos mil ocho.Felipe de Jesús Calderón Hinojosa .- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cuatro de julio de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
 
 51 de 72
 
@@ -2105,12 +2110,12 @@ Se  adicionan  las  fracciones  XIII,  XIV  y  XV  al  artículo  75  y  una  fr
 
 #### TRANSITORIO
 
-##### ÚNICO.
+##### ÚNICO.-
 El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 México, D.F., a 3 de marzo de 2009.- Dip. Cesar Horacio Duarte Jaquez , Presidente.- Sen. Gustavo Enrique  Madero  Muñoz ,  Presidente.-  Dip. Maria  Eugenia  Jimenez  Valenzuela ,  Secretaria.-  Sen. Gabino Cué Monteagudo , Secretario.- Rúbricas. "
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de abril de dos mil nueve.Felipe de Jesús Calderón Hinojosa .- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de abril de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 
 52 de 72
 
@@ -2129,12 +2134,12 @@ Se  adicionan  la  fracción  XIV  Bis  al  artículo  7o.,  y  la  fracción  X
 
 #### TRANSITORIO
 
-##### ÚNICO.
+##### ÚNICO.-
 El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 México, D.F., a 3 de marzo de 2009.- Dip. Cesar Horacio Duarte Jaquez , Presidente.- Sen. Gustavo Enrique  Madero  Muñoz ,  Presidente.-  Dip. Maria  Eugenia  Jimenez  Valenzuela ,  Secretaria.-  Sen. Gabino Cué Monteagudo , Secretario.- Rúbricas. "
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de abril de dos mil nueve.Felipe de Jesús Calderón Hinojosa .- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de abril de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 
 53 de 72
 
@@ -2146,19 +2151,19 @@ En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  d
 
 Publicado en el Diario Oficial de la Federación el 17 de abril de 2009
 
-#### ARTÍCULO ÚNICO.
+#### ARTÍCULO ÚNICO.-
 Se reforman los artículos 2o., segundo párrafo; 8o., primer párrafo; 32, segundo párrafo; 33, fracciones IV y VIII y 41, primer párrafo; se adicionan los artículos 7o., con una fracción XV; 30, con un tercer párrafo; 33, con una fracción XIV y 49, con un segundo párrafo a la Ley General de Educación, para quedar como sigue:
 
 ……….
 
 #### Transitorio
 
-##### Único.
+##### Único.-
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 México, D.F., a 3 de marzo de 2009.- Dip. Cesar Horacio Duarte Jaquez , Presidente.- Sen. Gustavo Enrique  Madero  Muñoz ,  Presidente.-  Dip. Maria  Eugenia  Jimenez  Valenzuela ,  Secretaria.-  Sen. Gabino Cué Monteagudo , Secretario.- Rúbricas. "
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de abril de dos mil nueve.Felipe de Jesús Calderón Hinojosa .- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de abril de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 
 54 de 72
 
@@ -2170,22 +2175,22 @@ En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  d
 
 Publicado en el Diario Oficial de la Federación el 22 de junio de 2009
 
-#### Artículo Único.
+#### Artículo Único.-
 Se reforma el actual tercer párrafo del artículo 41 y se adicionan los párrafos tercero y  cuarto,  pasando  el  actual  párrafo  tercero  a  ser  quinto  del  mismo  artículo  de  la  Ley  General  de Educación, para quedar como sigue:
 
 ……….
 
 #### TRANSITORIOS
 
-##### Primero.
+##### Primero.-
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-##### Segundo.
+##### Segundo.-
 La autoridad educativa federal emitirá, en un plazo máximo de doce meses, a partir de la entrada  en  vigor  del  presente  Decreto,  los  lineamientos  necesarios  para  la  detección,  atención pedagógica  y  certificación  de  estudios  para  los  alumnos  con  capacidades  sobresalientes  en  los  tres niveles de la educación básica y en las modalidades de media superior y superior en el ámbito de su competencia.
 
 México, D.F., a 28 de abril de 2009.- Dip. Cesar Horacio Duarte Jaquez , Presidente.- Sen. Gustavo Enrique Madero Muñoz , Presidente.- Dip. Margarita Arenas Guzman , Secretaria.- Sen. Adrián Rivera Pérez , Secretario.- Rúbricas. "
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de junio de dos  mil  nueve.Felipe  de  Jesús  Calderón  Hinojosa .-  Rúbrica.-  El  Secretario  de  Gobernación,  Lic. Fernando Francisco Gómez Mont Urueta .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de junio de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 
 55 de 72
 
@@ -2197,22 +2202,22 @@ En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  d
 
 Publicado en el Diario Oficial de la Federación el 2 de julio de 2010
 
-#### Artículo Único.
+#### Artículo Único.-
 Se reforma el segundo párrafo del artículo 21; y se reforma la fracción I y se adiciona una fracción XIII, recorriéndose en su orden las demás fracciones del artículo 33 de la Ley General de Educación, para quedar como sigue:
 
 ……….
 
 #### TRANSITORIOS
 
-##### PRIMERO.
+##### PRIMERO.-
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-##### SEGUNDO.
+##### SEGUNDO.-
 Las erogaciones que deban realizarse a fin de dar cumplimiento con el presente Decreto, se sujetarán a los recursos aprobados en sus respectivos presupuestos para tales fines por la Cámara de Diputados del H. Congreso de la Unión, las legislaturas de los estados, así como la Asamblea Legislativa del Distrito Federal, en términos del Apartado B del artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos.
 
 México, D.F., a 29 de abril de 2010.- Dip. Francisco Javier Ramirez Acuña , Presidente.- Sen. Carlos Navarrete  Ruiz ,  Presidente.-  Dip. Jaime  Arturo  Vazquez  Aguilar ,  Secretario.-  Sen. Adrián  Rivera Pérez , Secretario.- Rúbricas. "
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiocho de junio de dos  mil  diez.Felipe  de  Jesús  Calderón  Hinojosa .-  Rúbrica.-  El  Secretario  de  Gobernación,  Lic. Fernando Francisco Gómez Mont Urueta .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiocho de junio de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 
 56 de 72
 
@@ -2224,28 +2229,28 @@ En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  d
 
 Publicado en el Diario Oficial de la Federación el 19 de agosto de 2010
 
-#### ARTÍCULO CUARTO.
+#### ARTÍCULO CUARTO.-
 Se  reforman  el  tercer  y  cuarto  párrafo  del  artículo  69  y  el  segundo  y  tercer párrafo  del  artículo  70;  y  se  adicionan  la  fracción  XVI  al  artículo  7o.;  la  fracción  VII  al  artículo  12, recorriéndose  las  subsecuentes  fracciones;  un  segundo  párrafo  al  artículo  31;  un  segundo  párrafo  al artículo 42; un segundo párrafo al artículo 56, recorriéndose el actual párrafo segundo, para constituirse en párrafo tercero; la fracción VI al artículo 65; las fracciones IV y V al artículo 66; un segundo párrafo del artículo 73; la fracción XII al artículo 75, recorriéndose las actuales fracciones XII a XV para pasar a ser fracciones XIII a XVI todos de la Ley General de Educación, para quedar como sigue:
 
 ……….
 
 #### TRANSITORIOS
 
-##### Primero.
+##### Primero.-
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-##### Segundo.
+##### Segundo.-
 Las erogaciones que deban realizarse a fin de dar cumplimiento con el presente Decreto, se sujetarán a los recursos aprobados para tales fines por la Cámara de Diputados, las legislaturas de los estados, así como la Asamblea Legislativa del Distrito Federal, en sus respectivos presupuestos.
 
-##### Tercero.
+##### Tercero.-
 Los procedimientos de evaluación de la planta docente en el sistema de educación básica, serán  realizados  por  el  Centro  Nacional  de  Evaluación  para  la  Educación  Superior  A.C.  (CENEVAL). Estos procedimientos serán efectuados en un período de cinco años a partir de la entrada en vigor del presente Decreto.
 
-##### Cuarto.
+##### Cuarto.-
 A  los  procedimientos  iniciados  antes  de  la  publicación  del  presente  Decreto,  les  serán aplicables las disposiciones vigentes al momento de su instauración.
 
 México, D.F., a 29 de abril de 2010.- Dip. Francisco Javier Ramírez Acuña , Presidente.- Sen. Carlos Navarrete Ruiz ,  Presidente.- Dip. Jaime Arturo Vázquez Aguilar ,  Secretario.- Sen. Renán Cleominio Zoreda Novelo , Secretario.- Rúbricas. "
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de agosto de dos mil diez.Felipe de Jesús Calderón Hinojosa .-  Rúbrica.- El  Secretario de Gobernación, José Francisco Blake Mora .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de agosto de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
 
 57 de 72
 
@@ -2257,25 +2262,25 @@ En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  d
 
 Publicado en el Diario Oficial de la Federación el 28 de enero de 2011
 
-#### ARTÍCULO ÚNICO.
+#### ARTÍCULO ÚNICO.-
 Se REFORMAN los artículos 4, segundo párrafo; 7, fracciones I, VI, X y XI; 12, fracción  X;  20,  fracción  II  y  último  párrafo;  21,  párrafos  primero,  tercero  y  quinto;  el  artículo  22;  33, fracciones  II,  IV,  VIII,  IX,  X,  y  XIV;  el  artículo  40;  41,  primero  y  segundo  párrafos;  el  artículo  43;  44, primero y segundo párrafos; 47, fracción I; 48, cuarto y quinto párrafos; 49, primer párrafo; 50, segundo párrafo; 61, segundo párrafo; el artículo 62; 64, primer y segundo párrafos; 65, fracciones I, II y IV; 66, fracciones I, II y III; 70, primer párrafo; 71, primer párrafo; el artículo 72; y se ADICIONAN las fracciones VII  y  VIII,  recorriéndose  la  actual  VII  a  una  IX  del  artículo  13;  la  fracción  VI  del  artículo  65;  de  la  Ley General de Educación, para quedar como sigue:
 
 ……….
 
 #### TRANSITORIOS
 
-##### PRIMERO.
+##### PRIMERO.-
 El  presente  Decreto  entrará  en  vigor  el  día  siguiente  al  de  su  publicación  en  el  Diario Oficial de la Federación.
 
-##### SEGUNDO.
+##### SEGUNDO.-
 Las erogaciones que deban realizarse a fin de dar cumplimiento con el presente Decreto, se sujetarán a los recursos aprobados para tales fines por la Cámara de Diputados, las legislaturas de los estados y la Asamblea Legislativa del Distrito Federal, en sus respectivos presupuestos.
 
-##### TERCERO.
+##### TERCERO.-
 La  constitución  de  los  sistemas  y  registros  a  que  hacen  referencia  la  fracción  X  del artículo 12 y VII del artículo 13, se llevarán a cabo con base en la disponibilidad presupuestal, de manera gradual  y  con  la  participación  coordinada  de  las  autoridades  educativas  de  los  órdenes  de  gobierno correspondientes.
 
 México, D.F., a 21 de octubre de 2010.- Dip. Jorge Carlos Ramirez Marin , Presidente.- Sen. Manlio Fabio Beltrones Rivera , Presidente.- Dip. Maria Guadalupe Garcia Almanza , Secretaria.- Sen. Renán Cleominio Zoreda Novelo , Secretario.- Rúbricas. "
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de enero de dos mil once.Felipe de Jesús Calderón Hinojosa .- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinticuatro de enero de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
 
 58 de 72
 
@@ -2287,19 +2292,19 @@ En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  d
 
 Publicado en el Diario Oficial de la Federación el 21 de junio de 2011
 
-#### Artículo Único.
+#### Artículo Único.-
 Se reforma la fracción IX del artículo 7 de la Ley General de Educación, para quedar como sigue:
 
 ……….
 
 #### TRANSITORIO
 
-##### Artículo Único.
+##### Artículo Único.-
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación
 
 México, D.F., a 26 de abril de  2011.- Dip. Jorge Carlos Ramirez Marin ,  Presidente.-  Sen. Manlio Fabio  Beltrones  Rivera ,  Presidente.-  Dip. Maria  de  Jesus  Aguirre  Maldonado ,  Secretaria.-  Sen. Renán Cleominio Zoreda Novelo , Secretario.- Rúbricas. "
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinte de junio de dos mil  once.Felipe  de  Jesús  Calderón  Hinojosa .-  Rúbrica.-  El  Secretario  de  Gobernación, José Francisco Blake Mora .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinte de junio de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
 
 59 de 72
 
@@ -2323,7 +2328,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 México,  D.F.,  a  6  de  octubre  de  2011.-  Sen. Jose  Gonzalez  Morfin ,  Presidente.-  Dip. Emilio Chuayffet Chemor , Presidente.- Sen. Ludivina Menchaca Castellanos , Secretaria.- Dip. María Dolores Del Río Sánchez , Secretaria.- Rúbricas. "
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de noviembre de dos  mil  once.Felipe  de  Jesús  Calderón  Hinojosa .-  Rúbrica.-  El  Secretario  de  Gobernación, José Francisco Blake Mora .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de noviembre de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
 
 60 de 72
 
@@ -2347,7 +2352,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 México, D.F., a  18  de  octubre de 2011.- Dip. Guadalupe Acosta Naranjo ,  Presidente.-  Sen. José González Morfín , Presidente.- Dip. Guadalupe Perez Dominguez , Secretaria.- Sen. Renán Cleominio Zoreda Novelo , Secretario.- Rúbricas. "
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.Felipe de Jesús Calderón Hinojosa .- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 
 61 de 72
 
@@ -2359,25 +2364,25 @@ En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  d
 
 Publicado en el Diario Oficial de la Federación el 10 de junio de 2013
 
-#### Artículo Único.
+#### Artículo Único.-
 Se  reforman los artículos 3o.; 4o., segundo párrafo; 9o.; 37, segundo párrafo; 65, primer párrafo de la fracción I; y 66, fracción I; y se adicionan la fracción IX Bis al artículo 12; y la fracción VI Bis al artículo 13, de la Ley General de Educación, para quedar como sigue:
 
 ………
 
 #### TRANSITORIOS
 
-##### Primero.
+##### Primero.-
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-##### Segundo.
+##### Segundo.-
 La  obligatoriedad  del  Estado  de  garantizar  la  educación  media  superior  se  realizará conforme  lo  disponen  los  artículos  segundo  y  tercero  transitorios  del  Decreto  por  el  que  se  declara reformado el párrafo primero; el inciso c) de la fracción II y la fracción V del artículo 3o., y la fracción I del artículo 31 de la Constitución Política de los Estados Unidos Mexicanos.
 
-##### Tercero.
+##### Tercero.-
 Se derogan todas las disposiciones que contravengan al presente Decreto.
 
 México,  D.F.,  a  30  de  abril  de  2013.-  Sen. Ernesto  Cordero  Arroyo ,  Presidente.-  Dip. Francisco Arroyo  Vieyra ,  Presidente.-  Sen. Lilia  Guadalupe  Merodio  Reza ,  Secretaria.-  Dip. Magdalena  del Socorro Núñez Monreal , Secretaria.- Rúbricas. "
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cinco de junio de dos mil trece.Enrique Peña Nieto .- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong .-Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cinco de junio de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 
 62 de 72
 
@@ -2389,34 +2394,34 @@ En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  d
 
 Publicado en el Diario Oficial de la Federación el 11 de septiembre de 2013
 
-#### Artículo Único.
+#### Artículo Único.-
 Se reforman los artículos 2o., primer y tercer párrafos; 3o.; 6o.; 8o., primer párrafo y fracciones II y III; 10, fracciones I, III, VI y VII; 12, fracciones VI, X y XII; 13, fracciones IV, VII y VIII; 16, primer párrafo; 20, fracción II; 21; 29; 30, primer y segundo párrafos; 31; 32, primer párrafo; 33, fracciones IV, VI, IX y XV; 34, segundo párrafo; 41, quinto párrafo; 44, tercer párrafo; 48, segundo y cuarto párrafos; 56, segundo párrafo; 57, fracción I; 58, primer párrafo; 59, segundo párrafo; 65, fracciones II, VI y VII; 67, fracción III; 69, segundo párrafo y tercero en su inciso g); 70, primer párrafo; 71, primer párrafo; 72, y 75, fracciones XII, XV y XVI; se adicionan la fracción IV al artículo 8o.; las fracciones VIII, IX y X, y un último párrafo al artículo 10; las fracciones V y VI al artículo 11; un segundo párrafo a la fracción I, una fracción V Bis y una fracción XII Bis al artículo 12; las fracciones I Bis, II Bis, XI Bis, XII Bis, XII Ter, XII Quáter y XII Quintus al artículo 14; un segundo párrafo, recorriéndose en su orden los párrafos subsecuentes, al artículo 15; un artículo 24 Bis; un quinto párrafo al artículo 25; un artículo 28 Bis; las fracciones IV Bis, XVI y XVII al artículo 33; un segundo párrafo, recorriéndose el párrafo subsecuente, al artículo 42; un tercer párrafo, recorriéndose el párrafo subsecuente, al artículo 56; los párrafos quinto y sexto al artículo 58; las fracciones VIII, IX, X, XI y XII al artículo 65, y una fracción XVII al artículo 75, y se derogan la fracción  IV  del  artículo  11;  la  fracción  VII  del  artículo  12,  y  el  último  párrafo  del  artículo  75,  de  la  Ley General de Educación, para quedar como sigue:
 
 ..........
 
 #### TRANSITORIOS
 
-##### Primero.
+##### Primero.-
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-##### Segundo.
+##### Segundo.-
 Se derogan las disposiciones que se opongan al presente Decreto.
 
-##### Tercero.
+##### Tercero.-
 A partir de la entrada en vigor del presente Decreto, las entidades federativas tendrán un plazo de seis meses para adecuar su legislación respectiva, a lo previsto por el presente ordenamiento.
 
-##### Cuarto.
+##### Cuarto.-
 La información contenida en el Registro Nacional de Alumnos, Maestros y Escuelas formará parte, en lo conducente, del Sistema de Información y Gestión Educativa.
 
 La  Secretaría  de  Educación  Pública  deberá  tomar  las  medidas  conducentes  para  llevar  a  cabo  la migración  de  la  información  al  citado  Sistema,  mismo  que  se  regulará  y  organizará  conforme  a  las disposiciones y lineamientos que expida dicha dependencia.
 
-##### Quinto.
+##### Quinto.-
 Para  el caso  del Distrito Federal y en  tanto no  se lleve a cabo  el  proceso  de descentralización educativa en esta entidad federativa, las atribuciones relativas a la educación  inicial, básica -incluyendo la indígena-  y  especial que los artículos 11, 13,  14  y  demás disposiciones señalan para las autoridades educativas locales en sus respectivas competencias corresponderán, en el Distrito Federal,  a  la  Secretaría,  a  través  de  la  Administración  Federal  de  Servicios  Educativos  en  el  Distrito Federal.
 
-##### Sexto.
+##### Sexto.-
 Para  la  emisión  de  los  lineamientos  a  los  que  se  refieren  los  artículos  24  Bis  y  28  Bis  la Secretaría dispondrá de 180 días naturales a partir de la entrada en vigor del presente Decreto.
 
-##### Séptimo.
+##### Séptimo.-
 El  Consejo  Nacional  de  Participación  Social  deberá  instalarse  dentro  de  los  180  días naturales siguientes a la entrada en vigor de este Decreto.
 
 63 de 72
@@ -2425,10 +2430,10 @@ El  Consejo  Nacional  de  Participación  Social  deberá  instalarse  dentro  
 
 [[START OF PAGE 64]]
 
-##### Octavo.
+##### Octavo.-
 El  Ejecutivo  Federal  revisará  la  fórmula  conforme  a  la  cual  se  distribuye  el  Fondo  de Aportaciones  para  la  Educación  Básica  y  Normal,  con  la  finalidad  de  iniciar  las  reformas  legales pertinentes a efecto de asegurar la equidad necesaria para una educación de calidad.
 
-##### Noveno.
+##### Noveno.-
 Con  el  propósito  de  dar  cumplimiento  a  la  obligación  de  garantizar  la  calidad  en  la educación obligatoria, en el marco de las disposiciones que regulan el Servicio Profesional Docente, las autoridades educativas federal y locales, adecuarán su normativa de naturaleza laboral y administrativa, debiendo dejar sin efectos la que se oponga o limite el cumplimiento de dicha obligación.
 
 ##### Décimo.
@@ -2445,7 +2450,7 @@ Las  autoridades  educativas,  en  el  ámbito  de  sus  respectivas  competenci
 
 México, D.F.,  a  22  de  agosto  de  2013.-  Dip. Francisco  Arroyo Vieyra ,  Presidente.-  Sen. Ernesto Cordero Arroyo , Presidente.- Dip. Javier Orozco Gomez , Secretario.- Sen. María Elena Barrera Tapia , Secretaria.- Rúbricas. "
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de septiembre de dos mil trece.Enrique Peña Nieto .- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de septiembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 
 64 de 72
 
@@ -2457,7 +2462,7 @@ En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  d
 
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2014
 
-#### Artículo Segundo.
+#### Artículo Segundo.-
 Se reforma la fracción VIII del artículo 14 de la Ley General de Educación, para quedar como sigue:
 
 ………
@@ -2478,9 +2483,9 @@ El  CONACyT  procurará  y  promoverá  la  homologación  de  la  normativa  ex
 ##### CUARTO.
 El  CONACyT  dentro  de  su  presupuesto  anual,  preverá  los  recursos  necesarios  para  la creación, impulso y fortalecimiento de las plataformas tecnológicas, así como para el fortalecimiento del Consorcio  Nacional  de  Recursos  de  Información  Científica  y  Tecnológica,  en  lo  conducente  a  las disposiciones establecidas en el presente Decreto.
 
-México, D. F., a 8 de abril de 2014.- Sen. Raúl Cervantes Andrade , Presidente.- Dip. José González Morfín ,  Presidente.-  Sen. Lilia  Guadalupe  Merodio  Reza ,  Secretaria.Dip.  Merilyn  Gómez  Pozos , Secretaria.- Rúbricas. "
+México, D. F., a 8 de abril de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González Morfín, Presidente.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Dip. Merilyn Gómez Pozos, Secretaria.- Rúbricas."
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinte de mayo de dos mil catorce.Enrique Peña Nieto .-  Rúbrica.-  El  Secretario  de  Gobernación, Miguel Ángel Osorio Chong .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinte de mayo de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 
 65 de 72
 
@@ -2507,7 +2512,7 @@ Dentro de los noventa días hábiles siguientes a la entrada en vigor del presen
 
 México, D.F., a 20 de noviembre de 2014.- Sen. Miguel Barbosa Huerta ,  Presidente.- Dip. Silvano Aureoles Conejo ,  Presidente.-  Sen. Lucero Saldaña Pérez ,  Secretaria.-  Dip. Javier Orozco Gómez , Secretario.- Rúbricas. "
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia  del  Poder  Ejecutivo  Federal,  en  la  Ciudad  de  México,  Distrito  Federal,  a  dieciséis  de diciembre  de  dos  mil  catorce.Enrique  Peña  Nieto .-  Rúbrica.-  El  Secretario  de  Gobernación, Miguel Ángel Osorio Chong .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de diciembre de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 
 66 de 72
 
@@ -2519,19 +2524,19 @@ En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  d
 
 Publicado en el Diario Oficial de la Federación el 20 de abril de 2015
 
-#### Artículo Único.
+#### Artículo Único.-
 Se adiciona un inciso m), recorriéndose el inciso m) actual para ser n), al artículo 70 de la Ley General de Educación, para quedar como sigue:
 
 ……….
 
 #### Transitorio
 
-##### Único.
+##### Único.-
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 México, D.F., a 24 de marzo de 2015.- Dip. Julio César Moreno Rivera ,  Presidente.-  Sen. Miguel Barbosa Huerta , Presidente.- Dip. Javier Orozco Gómez , Secretario.- Sen. María Elena Barrera Tapia , Secretaria.- Rúbricas. "
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a quince de abril de dos mil  quince.Enrique  Peña  Nieto .-  Rúbrica.-  El  Secretario  de  Gobernación, Miguel  Ángel  Osorio Chong .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a quince de abril de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 
 67 de 72
 
@@ -2543,7 +2548,7 @@ En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  d
 
 Publicado en el Diario Oficial de la Federación el 17 de diciembre de 2015
 
-#### ARTÍCULO DÉCIMO.
+#### ARTÍCULO DÉCIMO.-
 Se  REFORMAN los artículos  12,  fracción  XIII;  14,  fracciones  VI  y  IX,  y  48, párrafo  tercero  y  se  ADICIONA  un  párrafo  tercero  al  artículo  48,  recorriéndose  los  actuales  párrafos tercero, cuarto y quinto para ser párrafos cuarto, quinto y sexto, respectivamente de la Ley General de Educación, para quedar como sigue:
 
 ……….
@@ -2594,7 +2599,7 @@ Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente 
 
 México, D.F., a 15 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva , Presidente.- Sen. Roberto  Gil  Zuarth ,  Presidente.-  Dip. Verónica  Delgadillo  García ,  Secretaria.-  Sen. María  Elena Barrera Tapia , Secretaria.- Rúbricas. "
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia  del  Poder  Ejecutivo  Federal,  en  la  Ciudad  de  México,  Distrito  Federal,  a  dieciséis  de diciembre  de  dos  mil  quince.Enrique  Peña  Nieto .-  Rúbrica.-  El  Secretario  de  Gobernación, Miguel Ángel Osorio Chong .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 
 69 de 72
 
@@ -2606,28 +2611,28 @@ En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  d
 
 Publicado en el Diario Oficial de la Federación el 9 de mayo de 2016
 
-#### Artículo  Único.
+#### Artículo Único.-
 Se  reforman  la  fracción  III  del  artículo  13;  el  artículo  51;  el  segundo  párrafo  del artículo 53 y el inciso a) del tercer párrafo del artículo 69 de la Ley General de Educación, para quedar como sigue:
 
 ………
 
 #### Transitorios
 
-##### Primero.
+##### Primero.-
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-##### Segundo.
+##### Segundo.-
 La implementación de las modificaciones al calendario escolar surtirá efectos a partir del ciclo lectivo inmediato posterior a la fecha de entrada en vigor del presente Decreto.
 
-##### Tercero.
+##### Tercero.-
 La Secretaría de Educación Pública, previa opinión del Consejo Nacional de Participación Social  en  la  Educación,  emitirá  los  lineamientos  a  que  se  refieren  los  artículos  13,  fracción  III,  y  51, segundo párrafo, dentro de los 90 días siguientes a la entrada en vigor del presente Decreto.
 
-##### Cuarto.
+##### Cuarto.-
 Se derogan las disposiciones que se opongan al presente Decreto.
 
 Ciudad de México, a 21 de abril de 2016.- Sen. Roberto Gil Zuarth , Presidente.- Dip. José de Jesús Zambrano  Grijalva ,  Presidente.-  Sen. César  Octavio  Pedroza  Gaitán ,  Secretario.-  Dip. Ramón Bañales Arambula , Secretario.- Rúbricas."
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a seis de mayo de dos mil dieciséis.Enrique Peña Nieto .- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a seis de mayo de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 
 70 de 72
 
@@ -2657,7 +2662,7 @@ En  los  niveles  de  educación  básica,  normal,  media  superior  y  superio
 
 Ciudad de México, a 19 de abril de 2016.- Dip. José de Jesús Zambrano Grijalva , Presidente.- Sen. Roberto  Gil  Zuarth ,  Presidente.-  Dip. María  Eugenia  Ocampo  Bedolla ,  Secretaria.-  Sen. Hilda  E. Flores Escalera , Secretaria.- Rúbricas."
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia  del  Poder  Ejecutivo  Federal,  en  la  Ciudad  de  México,  a  veintisiete  de  mayo  de  dos  mil dieciséis.Enrique Peña Nieto .- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong .-Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintisiete de mayo de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 
 71 de 72
 
@@ -2676,30 +2681,30 @@ Se reforman el primer párrafo del artículo 2o.; la fracción IX del artículo 
 
 #### Transitorios
 
-##### Primero.
+##### Primero.-
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-##### Segundo.
+##### Segundo.-
 Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-##### Tercero.
+##### Tercero.-
 Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto deberán cubrirse con cargo al presupuesto aprobado a la Secretaría de Educación Pública en el presente ejercicio fiscal y subsecuentes, por lo que cualquier modificación a su estructura orgánica derivada de la aplicación de este Decreto se realizará mediante movimientos compensados conforme a las disposiciones jurídicas aplicables.
 
-##### Cuarto.
+##### Cuarto.-
 En un plazo no mayor a doce meses, contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Educación Pública emitirá la normatividad a la que se refiere la fracción IX del artículo 12 reformada por el presente Decreto.
 
-##### Quinto.
+##### Quinto.-
 Para la emisión de los lineamientos, normas y criterios a los que se refieren los artículos 14, fracción III, y 63, contenidos en el presente Decreto, la Secretaría dispondrá de 60 días naturales a partir de la entrada en vigor del presente Decreto.
 
-##### Sexto.
+##### Sexto.-
 Las instituciones públicas de educación superior a las que se refiere la fracción VII del artículo 3o.  de  la  Constitución  Política  de  los  Estados  Unidos  Mexicanos  podrán  celebrar  convenios  con  la autoridad  educativa  federal  para  que  la  información  relacionada  con  sus  trámites  de  revalidación  y equiparación de estudios, en tanto información pública, de acuerdo con la fracción II del artículo 75 de la Ley  General  de  Transparencia  y  Acceso  a  la  Información  Pública,  sea  incorporada  al  Sistema  de Información y Gestión Educativa.
 
-##### Séptimo.
+##### Séptimo.-
 Con  base  en  lo  dispuesto  en la fracción  XI Bis  del artículo 33, contenida  en el presente Decreto, las autoridades educativas podrán coordinarse con otras instituciones para implementar planes de emergencia y acciones afirmativas dirigidos a atender a las personas en situación de vulnerabilidad a las que se refiere el segundo párrafo del artículo 32.
 
 Ciudad de México, a 16 de marzo de 2017.- Sen. Pablo Escudero Morales , Presidente.- Dip. María Guadalupe Murguía Gutiérrez ,  Presidenta.-  Sen. María  Elena  Barrera  Tapia ,  Secretaria.-  Dip. Raúl Domínguez Rex , Secretario.- Rúbricas. "
 
-En cumplimiento  de  lo  dispuesto  por  la  fracción  I  del  Artículo  89  de  la  Constitución  Política  de  los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia  del  Poder  Ejecutivo  Federal,  en  la  Ciudad  de  México,  a  veintiuno  de  marzo  de  dos  mil diecisiete.Enrique Peña Nieto .- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong .-Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiuno de marzo de dos mil diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 
 72 de 72
 
