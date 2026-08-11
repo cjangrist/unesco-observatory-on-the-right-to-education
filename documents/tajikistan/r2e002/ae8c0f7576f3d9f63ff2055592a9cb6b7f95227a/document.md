@@ -50,11 +50,13 @@ No social association, political parties, group of people, or individual shall h
 
 The usurpation of power or appropriation its powers shall be prohibited.
 
-Only the President, the Majlisi Milli and Majlisi Namoyandagon of the Majlisi Oli of the Republic of Tajikistan in their joint session shall have the right to speak on behalf of all the people of Tajikistan.
+Only the President, the Majlisi Milli and Majlisi Namoyandagon of the Majlisi Oli of the Republic of Tajikistan in their joint session shall have the right to speak on behalf of all the people of
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+Tajikistan.
 
 ### Article 7.
 The territory of Tajikistan shall be indivisible and inviolable. Tajikistan shall consist of the Badakhshan Mountainous Autonomous Region, regions, towns, districts, settlements, and villages. The state shall ensure the sovereignty, independence, and territorial integrity of Tajikistan. Agitation and actions aimed at disunity of the state shall be prohibited. The Constitutional Law shall define the procedure of establishing and changing of administrative
@@ -134,11 +136,13 @@ assistance of advocate from the moment of his arrest.
 ### Article 20.
 No one shall be considered guilty of a crime except by the sentence of a court in accordance with the law.
 
-No one shall be responsible after the expiry of the term of criminal prosecution as well as for the action, which is in the moment of its perpetration, is not regarded as a crime. No one shall be convicted twice for one and the same crime.
+No one shall be responsible after the expiry of the term of criminal prosecution as well as for the
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+action, which is in the moment of its perpetration, is not regarded as a crime. No one shall be convicted twice for one and the same crime.
 
 A law adopted after the commission of an illegal act by a person and that envisages severe punishment for that act shall not be retroactive. If, after the commission of an illegal act a punishment is not envisaged or a light punishment is envisaged, the new law shall be applicable. Total confiscation of the property of a convicted person shall be prohibited.
 
@@ -323,11 +327,13 @@ Majlisi Namoyandagon deputy shall not be a deputy of other representative bodies
 ### Article 51.
 The Majlisi Milli member and Majlisi Namoyandagon deputy shall not be attached to the electors' orders, rather have the right freely to express their own opinion, vote in accordance with their own decision.
 
-The Majlisi Milli member and Majlisi Namoyandagon deputy shall have the status of immunity, shall not be arrested, keep in custody, detain, and search, except for cases when caught red-handed. Also, Majlisi Milli member and Majlisi Namoyandagon deputy shall not be subject to personal search, except for cases defined by law to safeguard the security of others. The issue of deprivation of immunity for Majlisi Milli member and Majlisi Namoyandagon deputy shall be based on the proposal of the Prosecutor-General and by a relevant Majlis.
+The Majlisi Milli member and Majlisi Namoyandagon deputy shall have the status of immunity, shall not be arrested, keep in custody, detain, and search, except for cases when caught red-handed. Also, Majlisi Milli member and Majlisi Namoyandagon deputy shall not be subject to personal search, except for cases defined by law to safeguard the security of others. The issue of deprivation of immunity for Majlisi Milli member and Majlisi Namoyandagon deputy shall be based on the
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+
+proposal of the Prosecutor-General and by a relevant Majlis.
 
 The Majlisi Milli member's and Majlisi Namoyandagon deputy's powers shall be eliminated in case of their death, resignation, determination incapable by the court, taking effect of the court's indictment, cessation of citizenship, leaving the republic for ever, holding a post incompatible with plenary powers of the Majlisi Milli member, dissolution of the Majlisi Milli and Majlisi Namoyandagon.
 
@@ -358,11 +364,11 @@ The Majlisi Milli and Majlisi Namoyandagon shall organize their coordinating and
 Coordinating bodies of the Majlisi Milli and Majlisi Namoyandagon shall hold separate meetings. The Majlisi Milli and Majlisi Namoyandagon shall adopt their Regulations for activities.
 
 ### Article 54.
-The Majlisi Milli and Majlisi Namoyandagon shall hold separate sessions. The sessions of the Majlisi Milli and Majlisi Namoyandagon shall be eligible only if two thirds of the total number of members and deputies are present. The Majlisi Milli and Majlisi law and by the Regulations of the Majlisi Milli and Majlisi Namoyandagon.
+The Majlisi Milli and Majlisi Namoyandagon shall hold separate sessions.
 
-Namoyandagon shall hold open sessions. It is possible to hold closed sessions in cases stipulated by The Majlisi Milli and Majlisi Namoyandagon shall hold joint sessions in cases stipulated by
+The sessions of the Majlisi Milli and Majlisi Namoyandagon shall be eligible only if two thirds of the total number of members and deputies are present. The Majlisi Milli and Majlisi Namoyandagon shall hold open sessions. It is possible to hold closed sessions in cases stipulated by law and by the Regulations of the Majlisi Milli and Majlisi Namoyandagon.
 
-Constitution.
+The Majlisi Milli and Majlisi Namoyandagon shall hold joint sessions in cases stipulated by Constitution.
 
 [[END OF PAGE 8]]
 
@@ -435,11 +441,15 @@ Powers of the Majlisi Namoyandagon:
 
 - Implementation of other powers specified by the Constitution and laws.
 
-The Majlisi Namoyandagon shall adopt resolutions based on its plenary powers. The majority of the total number of its deputies shall decide the resolutions of the Majlisi Namoyandagon, unless otherwise specified by the Constitution on the procedure for passing resolutions. Leaders of foreign countries shall address in the session of Majlisi Namoyandagon.
+The Majlisi Namoyandagon shall adopt resolutions based on its plenary powers. The majority of the total number of its deputies shall decide the resolutions of the Majlisi Namoyandagon, unless
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
+otherwise specified by the Constitution on the procedure for passing resolutions.
+
+Leaders of foreign countries shall address in the session of Majlisi Namoyandagon.
 
 ### Article 58.
 The members of the Majlisi Milli, deputies of the Majlisi Namoyandagon, the President of the Republic of Tajikistan, the Government of Tajikistan, Majlis of people's deputies of the Badakhshan Mountainous Autonomous Region shall have the right of legislation initiative.
@@ -472,11 +482,13 @@ The Majlisi Oli shall interpret the Constitution in the said order and adopt it 
 ### Article 62.
 Laws shall be submitted to the President of the Republic of Tajikistan for signing and publication. Should the President disagree with the laws, or part thereof, it shall be returned during fifteen days to the Majlisi Namoyandagon supplied with comments and proposals. The Majlisi Milli and the Majlisi Namoyandagon based on the procedure established by the Constitution shall ravishingly consider the said law. Should the law be repeatedly approved in its previous version by the majority of two thirds of the total number of the members of the Majlisi Milli and deputies of the Majlisi Namoyandagon, the President shall sign the law within ten days and publish it. While considering the law returned by the President of the Republic of Tajikistan, which had previously been adopted by the two thirds of votes in the Majlisi Namoyandagon, the Majlisi Milli and Majlisi Namoyandagon shall approve it repeatedly by the majority no less than two thirds of votes.
 
-Should the President return the constitutional law, the Majlisi Namoyandagon and Majlisi Milli, based on the procedure established by the Constitution, shall consider this law repeatedly. In case of the repeated consideration the constitutional law in its previously approved version shall be passed by the majority of three quarter of the total number of the members of the Majlisi Milli and deputies of the Majlisi Namoyandagon. The President shall sign the constitutional law within ten days and publish it.
+Should the President return the constitutional law, the Majlisi Namoyandagon and Majlisi Milli, based on the procedure established by the Constitution, shall consider this law repeatedly. In case of
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+
+the repeated consideration the constitutional law in its previously approved version shall be passed by the majority of three quarter of the total number of the members of the Majlisi Milli and deputies of the Majlisi Namoyandagon. The President shall sign the constitutional law within ten days and publish it.
 
 ### Article 63.
 The Majlisi Milli and the Majlisi Namoyandagon in their joint session shall voluntarily dissolve before the end of its term of office by approval of no less than two thirds of the members of the Majlisi Milli and the deputies of the Majlisi Namoyandagon.
@@ -621,11 +633,13 @@ The members of the Government shall not perform any other duties, be the deputie
 The Government shall issue resolutions and orders in accordance with the Constitution and laws of the republic, the implementation of which is compulsory in the territory of Tajikistan. The Government shall lay down its power before the newly elected President. The Government shall ask the President for its resignation if it deems necessary that it cannot function normally. Every member of the Government shall have the right to resign. The Constitutional law shall determine the structure, activity, and authority of the Government.
 
 ### Article 75.
-The Government shall submit to the Majlisi Namoyandagon social and economic programs, policies of issuing and receiving state loan and economic assistance to other countries, draft state budgets, and issues related to an acceptable amount of the state budget deficit and its compensation source.
+The Government shall submit to the Majlisi Namoyandagon social and economic programs, policies of issuing and receiving state loan and economic assistance to other countries,
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+
+draft state budgets, and issues related to an acceptable amount of the state budget deficit and its compensation source.
 
 # CHAPTER SIX
 
@@ -768,7 +782,7 @@ Amendments in the Constitution shall be proposed by the President or at least by
 The propose amendment in the Constitution shall be published in the press three months before the referendum.
 
 ### Article 100.
-The form of public administration, the territorial integrity, and the democratic, lawgoverned, secular and social nature of the state shall be irrevocable.
+The form of public administration, the territorial integrity, and the democratic, law-governed, secular and social nature of the state shall be irrevocable.
 
 # THE TRANSITIONAL PROVISIONS
 
