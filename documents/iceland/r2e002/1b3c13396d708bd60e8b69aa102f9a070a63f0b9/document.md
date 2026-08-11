@@ -210,13 +210,15 @@ The  Minister  may  issue  a  Regulation  with  further  provisions  regarding  
 
 Education and training providers shall carry out a systematic evaluation of the quality and results  of  their  activities  and  publish  information  about  their  internal  quality  control  and subsequent plans for improvement.
 
-The Minister of Education, Science and Culture shall administer surveys, analyses and research that aim  at ensuring the general quality of adult  education  and a general understanding and knowledge of related issues. Implementation of these tasks shall normally be entrusted to a neutral body.
+The Minister of Education, Science and Culture shall administer surveys, analyses and research that aim at ensuring the general quality of adult education and a general
 
 4
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+understanding and knowledge of related issues. Implementation of these tasks shall normally be entrusted to a neutral body.
 
 ## CHAPTER V
 
