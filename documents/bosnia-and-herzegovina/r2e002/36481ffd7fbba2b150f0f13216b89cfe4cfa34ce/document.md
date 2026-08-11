@@ -1,5 +1,7 @@
 [[START OF PAGE 1]]
 
+# CONSTITUTION OF BOSNIA AND HERZEGOVINA
+
 ## PREAMBLE
 
 Based on respect for human dignity, liberty, and equality,
@@ -26,9 +28,7 @@ Bosniacs,  Croats,  and  Serbs,  as  constituent  peoples  (along  with  Others)
 
 ### 1.  Continuation
 
-The Republic of Bosnia and Herzegovina, the official name of which shall henceforth be "Bosnia and Herzegovina," shall continue its legal existence under international law as a state, with  its  internal  structure  modified  as  provided  herein  and  with  its  present  internationally recognized borders. It shall remain a Member State of the United Nations and may as Bosnia and  Herzegovina  maintain  or  apply  for  membership  in  organizations  within  the  United Nations system and other international organizations.
-
-# CONSTITUTION OF BOSNIA AND HERZEGOVINA
+The Republic of Bosnia and Herzegovina, the official name of which shall henceforth be "Bosnia and Herzegovina," shall continue its legal existence under international law as a state, with its internal structure modified as provided herein and with its present internationally recognized borders. It shall remain a Member State of the United Nations and may as Bosnia and Herzegovina maintain or apply for membership in organizations within the United Nations system and other international organizations.
 
 [[END OF PAGE 1]]
 
@@ -42,7 +42,7 @@ Bosnia and Herzegovina shall be a democratic state, which shall operate under th
 
 Bosnia  and  Herzegovina  shall  consist  of  the  two  Entities,  the  Federation  of  Bosnia  and Herzegovina and the Republika Srpska (hereinafter "the Entities").
 
-### 4. Movement of Goods Services.  Capital.  and  Persons.
+### 4. Movement of Goods. Services. Capital. and Persons.
 
 There  shall  be  freedom  of  movement  throughout  Bosnia and Herzegovina. Bosnia and Herzegovina and the Entities shall not impede full freedom of movement  of  persons,  goods,  services,  and  capital  throughout  Bosnia  and  Herzegovina. Neither Entity shall establish controls at the boundary between the Entities.
 
@@ -58,19 +58,19 @@ Bosnia  and  Herzegovina  shall  have  such  symbols  as  are  decided  by  its 
 
 There  shall be a citizenship of Bosnia  and  Herzegovina,  to  be  regulated  by  the Parliamentary  Assembly,  and  a  citizenship  of  each  Entity,  to  be  regulated  by  each  Entity, provided that:
 
-- All citizens of either Entity are thereby citizens of Bosnia and Herzegovina.
+a) All citizens of either Entity are thereby citizens of Bosnia and Herzegovina.
 
-- No person shall be deprived of Bosnia and Herzegovina or Entity citizenship arbitrarily or so as to leave him or her stateless. No person shall be deprived of Bosnia and Herzegovina or Entity citizenship on any ground such as sex, race, color, language, religion, political or other opinion, national or social origin, association with a national minority, property, birth or other status.
+b) No person shall be deprived of Bosnia and Herzegovina or Entity citizenship arbitrarily or so as to leave him or her stateless. No person shall be deprived of Bosnia and Herzegovina or Entity citizenship on any ground such as sex, race, color, language, religion, political or other opinion, national or social origin, association with a national minority, property, birth or other status.
 
-- All persons who were citizens of the Republic of Bosnia and Herzegovina immediately prior to the entry into force of this Constitution are citizens of Bosnia and Herzegovina. The citizenship of persons who were naturalized after April 6, 1992 and before the entry into force of this Constitution will be regulated by the Parliamentary Assembly.
+c) All persons who were citizens of the Republic of Bosnia and Herzegovina immediately prior to the entry into force of this Constitution are citizens of Bosnia and Herzegovina. The citizenship of persons who were naturalized after April 6, 1992 and before the entry into force of this Constitution will be regulated by the Parliamentary Assembly.
 
-- Citizens of Bosnia and Herzegovina may hold the citizenship of another state, provided that there is a bilateral agreement, approved by the Parliamentary Assembly in accordance with Article IV(4)(d), between Bosnia and Herzegovina and that state governing this matter. Persons with dual citizenship may vote in Bosnia and Herzegovina and the Entities only if Bosnia and Herzegovina is their country of residence.
+d) Citizens of Bosnia and Herzegovina may hold the citizenship of another state, provided that there is a bilateral agreement, approved by the Parliamentary Assembly in accordance with Article IV(4)(d), between Bosnia and Herzegovina and that state governing this matter. Persons with dual citizenship may vote in Bosnia and Herzegovina and the Entities only if Bosnia and Herzegovina is their country of residence.
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-- A citizen of Bosnia and Herzegovina abroad shall enjoy the protection of Bosnia and Herzegovina. Each Entity may issue passports of Bosnia and Herzegovina to its citizens as regulated by the Parliamentary Assembly. Bosnia and Herzegovina may issue passports to citizens not issued a passport by an Entity. There shall be a central register of all passports issued by the Entities and by Bosnia and Herzegovina.
+e) A citizen of Bosnia and Herzegovina abroad shall enjoy the protection of Bosnia and Herzegovina. Each Entity may issue passports of Bosnia and Herzegovina to its citizens as regulated by the Parliamentary Assembly. Bosnia and Herzegovina may issue passports to citizens not issued a passport by an Entity. There shall be a central register of all passports issued by the Entities and by Bosnia and Herzegovina.
 
 ## Article II: Human Rights and Fundamental Freedoms
 
@@ -86,41 +86,41 @@ The rights and freedoms set forth in the European Convention for the Protection 
 
 All persons within the territory of Bosnia and Herzegovina shall enjoy the human rights and fundamental freedoms referred to in paragraph 2 above; these include:
 
-- The right to life.
+a) The right to life.
 
-- The right not to be subjected to torture or to inhuman or degrading treatment or punishment.
+b) The right not to be subjected to torture or to inhuman or degrading treatment or punishment.
 
-- The right not to be held in slavery or servitude or to perform forced or compulsory labor.
+c) The right not to be held in slavery or servitude or to perform forced or compulsory labor.
 
-- The rights to liberty and security of person.
+d) The rights to liberty and security of person.
 
-- The right to a fair hearing in civil and criminal matters, and other rights relating to criminal proceedings.
+e) The right to a fair hearing in civil and criminal matters, and other rights relating to criminal proceedings.
 
-- The right to private and family life, home, and correspondence.
+f) The right to private and family life, home, and correspondence.
 
-- Freedom of thought, conscience, and religion.
+g) Freedom of thought, conscience, and religion.
 
-- Freedom of expression.
+h) Freedom of expression.
 
-- Freedom of peaceful assembly and freedom of association with others.
+i) Freedom of peaceful assembly and freedom of association with others.
 
-- The right to marry and to found a family.
+j) The right to marry and to found a family.
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-- The right to property.
+k) The right to property.
 
-- The right to education.
+l) The right to education.
 
-- The right to liberty of movement and residence.
+m) The right to liberty of movement and residence.
 
 ### 4.  Non-Discrimination
 
 The  enjoyment  of  the  rights  and  freedoms  provided  for  in  this  Article  or  in  the international agreements listed in Annex I to this Constitution shall be secured to all persons in  Bosnia  and  Herzegovina  without  discrimination  on  any  ground  such  as  sex,  race,  color, language,  religion,  political  or  other  opinion,  national  or  social  origin,  association  with  a national minority, property, birth or other status.
 
-### 5.  Non-Discrimination
+### 5. Refugees and Displaced Persons
 
 All refugees and displaced persons have the right freely to return to their homes of origin. They have the right, in accordance with Annex 7 to the General Framework Agreement, to have restored to them property of which they were deprived in the course of hostilities since 1991  and  to  be  compensated  for  any  such  property  that  cannot  be  restored  to  them.  Any commitments or statements relating to such property made under duress are null and void.
 
@@ -146,25 +146,25 @@ All  competent  authorities  in  Bosnia  and  Herzegovina  shall  cooperate  wit
 
 The following matters are the responsibility of the institutions of Bosnia and Herzegovina:
 
-- Foreign policy.
+a) Foreign policy.
 
-- Foreign trade policy.
+b) Foreign trade policy.
 
-- Customs policy.
+c) Customs policy.
 
-- Monetary policy as provided in Article VII.
+d) Monetary policy as provided in Article VII.
 
-- Finances of the institutions and for the international obligations of Bosnia and Herzegovina.
+e) Finances of the institutions and for the international obligations of Bosnia and Herzegovina.
 
-- Immigration, refugee, and asylum policy and regulation.
+f) Immigration, refugee, and asylum policy and regulation.
 
-- International and inter-Entity criminal law enforcement, including relations with Interpol.
+g) International and inter-Entity criminal law enforcement, including relations with Interpol.
 
-- Establishment and operation of common and international communications facilities.
+h) Establishment and operation of common and international communications facilities.
 
-- Regulation of inter-Entity transportation.
+i) Regulation of inter-Entity transportation.
 
-- Air traffic control.
+j) Air traffic control.
 
 ### 2. Responsibilities of the Entities
 
@@ -216,7 +216,7 @@ b) Nine members of the House of Peoples shall comprise a quorum, provided that a
 
 ### 2.  House of Representatives
 
-The House of Representatives shall comprise 42 Members, two- thirds elected from the territory of the Federation, one-third from the territory of the Republika Srpska.
+The House of Representatives shall comprise 42 Members, two-thirds elected from the territory of the Federation, one-third from the territory of the Republika Srpska.
 
 a) Members of the House of Representatives shall be directly elected from their Entity in accordance  with  an  election  law  to  be  adopted  by  the  Parliamentary  Assembly.  The  first election,  however,  shall  take  place  in  accordance  with  Annex  3  to  the  General  Framework Agreement.
 
@@ -228,11 +228,11 @@ a) Each chamber shall be convened in Sarajevo not more than 30 days after its se
 
 b) Each  chamber  shall  by  majority  vote  adopt  its  internal  rules  and  select  from  its members one Serb, one Bosniac, and one Croat to serve as its Chair and Deputy Chairs, with the position of Chair rotating among the three persons selected.
 
-- All legislation shall require the approval of both chambers.
+c) All legislation shall require the approval of both chambers.
 
-d) All decisions in both chambers shall be by majority of those present and voting. The Delegates and Members shall make their best efforts to see that the majority includes at least one-third of the votes of Delegates or Members from the territory of each Entity. If a majority vote does not include one-third of the votes of Delegates or Members from the territory of each Entity, the Chair and Deputy Chairs shall meet as a commission and attempt to obtain approval  within  three  days  of  the  vote.  If  those  efforts  fail,  decisions  shall  be  taken  by  a majority of those present and voting, provided that the dissenting votes do not include twothirds or more of the Delegates or Members elected from either Entity.
+d) All decisions in both chambers shall be by majority of those present and voting. The Delegates and Members shall make their best efforts to see that the majority includes at least one-third of the votes of Delegates or Members from the territory of each Entity. If a majority vote does not include one-third of the votes of Delegates or Members from the territory of each Entity, the Chair and Deputy Chairs shall meet as a commission and attempt to obtain approval within three days of the vote. If those efforts fail, decisions shall be taken by a majority of those present and voting, provided that the dissenting votes do not include two-thirds or more of the Delegates or Members elected from either Entity.
 
-e) A proposed decision of the Parliamentary Assembly may be declared to be destructive of a vital interest of the Bosniac, Croat, or Serb people by a majority of, as appropriate, the Bosniac, Croat, or Serb Delegates selected in accordance with paragraph l(a) above. Such a proposed  decision  shall  require  for  approval  in  the  House  of  Peoples  a  majority  of  the Bosniac, of the Croat, and of the Serb Delegates present and voting.
+e) A proposed decision of the Parliamentary Assembly may be declared to be destructive of a vital interest of the Bosniac, Croat, or Serb people by a majority of, as appropriate, the Bosniac, Croat, or Serb Delegates selected in accordance with paragraph 1(a) above. Such a proposed decision shall require for approval in the House of Peoples a majority of the Bosniac, of the Croat, and of the Serb Delegates present and voting.
 
 f) When a majority of the Bosniac, of the Croat, or of the Serb Delegates objects to the invocation of paragraph (e), the Chair of the House of Peoples shall immediately convene a Joint  Commission  comprising  three  Delegates,  one  each  selected  by  the  Bosniac,  by  the Croat, and by the Serb Delegates, to resolve the issue. If the Commission fails to do so within five days, the matter will be referred to the Constitutional Court, which shall in an expedited process review it for procedural regularity.
 
@@ -240,27 +240,27 @@ f) When a majority of the Bosniac, of the Croat, or of the Serb Delegates object
 
 [[START OF PAGE 8]]
 
-- The  House  of  Peoples  may  be  dissolved  by  the  Presidency  or  by  the  House  itself, provided  that  the  House's  decision  to  dissolve  is  approved  by  a  majority  that  includes  the majority of Delegates from at least two of the Bosniac, Croat, or Serb peoples. The House of Peoples elected in the first elections after the entry into force of this Constitution may not, however, be dissolved.
+g) The House of Peoples may be dissolved by the Presidency or by the House itself, provided that the House's decision to dissolve is approved by a majority that includes the majority of Delegates from at least two of the Bosniac, Croat, or Serb peoples. The House of Peoples elected in the first elections after the entry into force of this Constitution may not, however, be dissolved.
 
-- Decisions of the Parliamentary Assembly shall not take effect before publication.
+h) Decisions of the Parliamentary Assembly shall not take effect before publication.
 
-- Both chambers shall publish a complete record of their deliberations and shall, save in exceptional circumstances in accordance with their rules, deliberate publicly.
+i) Both chambers shall publish a complete record of their deliberations and shall, save in exceptional circumstances in accordance with their rules, deliberate publicly.
 
-- Delegates  and  Members  shall  not  be  held  criminally  or  civilly  liable  for  any  acts carried out within the scope of their duties in the Parliamentary Assembly.
+j) Delegates and Members shall not be held criminally or civilly liable for any acts carried out within the scope of their duties in the Parliamentary Assembly.
 
 ### 4.  Powers
 
 The Parliamentary Assembly shall have responsibility for:
 
-- Enacting legislation as necessary to implement decisions of the Presidency or to carry out the responsibilities of the Assembly under this Constitution.
+a) Enacting legislation as necessary to implement decisions of the Presidency or to carry out the responsibilities of the Assembly under this Constitution.
 
-- Deciding  upon  the  sources  and  amounts  of  revenues  for  the  operations  of  the institutions of Bosnia and Herzegovina and international obligations of Bosnia and Herzegovina.
+b) Deciding upon the sources and amounts of revenues for the operations of the institutions of Bosnia and Herzegovina and international obligations of Bosnia and Herzegovina.
 
-- Approving a budget for the institutions of Bosnia and Herzegovina.
+c) Approving a budget for the institutions of Bosnia and Herzegovina.
 
-- Deciding whether to consent to the ratification of treaties.
+d) Deciding whether to consent to the ratification of treaties.
 
-- Such other matters as are necessary to carry out its duties or as are assigned to it by mutual agreement of the Entities.
+e) Such other matters as are necessary to carry out its duties or as are assigned to it by mutual agreement of the Entities.
 
 ## Article V: Presidency
 
@@ -268,7 +268,7 @@ The Presidency of Bosnia and Herzegovina shall consist of three Members: one Bos
 
 ### 1. Election and Term
 
-- Members of the Presidency shall be directly elected in each Entity (with each voter voting to fill one seat on the Presidency) in accordance with an election law adopted by the Parliamentary  Assembly.  The  first  election,  however,  shall  take  place  in  accordance  with Annex 3 to the General Framework Agreement. Any vacancy in the Presidency shall be filled from  the  relevant  Entity  in  accordance  with  a  law  to  be  adopted  by  the  Parliamentary Assembly.
+a) Members of the Presidency shall be directly elected in each Entity (with each voter voting to fill one seat on the Presidency) in accordance with an election law adopted by the Parliamentary Assembly. The first election, however, shall take place in accordance with Annex 3 to the General Framework Agreement. Any vacancy in the Presidency shall be filled from the relevant Entity in accordance with a law to be adopted by the Parliamentary Assembly.
 
 [[END OF PAGE 8]]
 
@@ -290,7 +290,7 @@ d) A  dissenting  Member  of  the  Presidency  may  declare  a  Presidency  Deci
 
 The Presidency shall have responsibility for:
 
-- Conducting the foreign policy of Bosnia and Herzegovina.
+a) Conducting the foreign policy of Bosnia and Herzegovina.
 
 b) Appointing ambassadors  and  other international representatives of Bosnia and Herzegovina,  no  more  than  two-thirds  of  whom  may  be  selected  from  the  territory  of  the Federation.
 
@@ -298,7 +298,7 @@ c) Representing  Bosnia  and  Herzegovina  in  international  and  European  org
 
 d) Negotiating,  denouncing,  and,  with  the  consent  of  the  Parliamentary  Assembly, ratifying treaties of Bosnia and Herzegovina.
 
-- Executing decisions of the Parliamentary Assembly.
+e) Executing decisions of the Parliamentary Assembly.
 
 f) Proposing, upon the recommendation of the Council of Ministers, an annual budget to the Parliamentary Assembly.
 
@@ -306,27 +306,27 @@ f) Proposing, upon the recommendation of the Council of Ministers, an annual bud
 
 [[START OF PAGE 10]]
 
-- Reporting as requested, but not less than annually, to the Parliamentary Assembly on expenditures by the Presidency.
+g) Reporting as requested, but not less than annually, to the Parliamentary Assembly on expenditures by the Presidency.
 
-- Coordinating  as  necessary  with  international  and  nongovernmental  organizations  in Bosnia and Herzegovina.
+h) Coordinating as necessary with international and nongovernmental organizations in Bosnia and Herzegovina.
 
-- Performing such other functions as may be necessary to carry out its duties, as may be assigned to it by the Parliamentary Assembly, or as may be agreed by the Entities.
+i) Performing such other functions as may be necessary to carry out its duties, as may be assigned to it by the Parliamentary Assembly, or as may be agreed by the Entities.
 
 ### 4.  Council of Ministers
 
 The Presidency shall nominate the Chair of the Council of Ministers, who shall take office upon  the  approval  of  the  House  of  Representatives.  The  Chair  shall  nominate  a  Foreign Minister, a Minister for Foreign Trade, and other Ministers as may be appropriate, who shall take office upon the approval of the House of Representatives.
 
-- Together the Chair and the Ministers shall constitute the Council of Ministers, with responsibility  for  carrying  out  the  policies  and  decisions  of  Bosnia  and  Herzegovina  in  the fields referred to in Article III(1), (4), and (5) and reporting to the Parliamentary Assembly (including, at least annually, on expenditures by Bosnia and Herzegovina).
+a) Together the Chair and the Ministers shall constitute the Council of Ministers, with responsibility for carrying out the policies and decisions of Bosnia and Herzegovina in the fields referred to in Article III(1), (4), and (5) and reporting to the Parliamentary Assembly (including, at least annually, on expenditures by Bosnia and Herzegovina).
 
-- No more than two-thirds of all Ministers may be appointed from the territory of the Federation. The Chair shall also nominate Deputy Ministers (who shall not be of the same constituent people as their Ministers), who shall take office upon the approval of the House of Representatives.
+b) No more than two-thirds of all Ministers may be appointed from the territory of the Federation. The Chair shall also nominate Deputy Ministers (who shall not be of the same constituent people as their Ministers), who shall take office upon the approval of the House of Representatives.
 
-- The Council of Ministers shall resign if at any time there is a vote of no-confidence by the Parliamentary Assembly.
+c) The Council of Ministers shall resign if at any time there is a vote of no-confidence by the Parliamentary Assembly.
 
 ### 5.  Standing Committee
 
-- Each member of the Presidency shall, by virtue of the office, have civilian command authority over armed forces. Neither Entity shall threaten or use force against the other Entity, and under no circumstances shall any armed forces of either Entity enter into or stay within the territory of the other Entity without the consent of the government of the latter and of the Presidency  of  Bosnia  and  Herzegovina.  All  armed  forces  in  Bosnia  and  Herzegovina  shall operate consistently with the sovereignty and territorial integrity of Bosnia and Herzegovina.
+a) Each member of the Presidency shall, by virtue of the office, have civilian command authority over armed forces. Neither Entity shall threaten or use force against the other Entity, and under no circumstances shall any armed forces of either Entity enter into or stay within the territory of the other Entity without the consent of the government of the latter and of the Presidency of Bosnia and Herzegovina. All armed forces in Bosnia and Herzegovina shall operate consistently with the sovereignty and territorial integrity of Bosnia and Herzegovina.
 
-- The members of the Presidency shall select a Standing Committee on Military Matters to coordinate the activities of armed forces in Bosnia and Herzegovina. The Members of the Presidency shall be members of the Standing Committee.
+b) The members of the Presidency shall select a Standing Committee on Military Matters to coordinate the activities of armed forces in Bosnia and Herzegovina. The Members of the Presidency shall be members of the Standing Committee.
 
 ## Article VI: Constitutional Court
 
@@ -338,17 +338,17 @@ The Constitutional Court of Bosnia and Herzegovina shall have nine members.
 
 [[START OF PAGE 11]]
 
-- Four members shall be selected by the House of Representatives of the Federation, and two members by the Assembly of the Republika Srpska. The remaining three members shall be selected by the President of the European Court of Human Rights after consultation with the Presidency.
+a) Four members shall be selected by the House of Representatives of the Federation, and two members by the Assembly of the Republika Srpska. The remaining three members shall be selected by the President of the European Court of Human Rights after consultation with the Presidency.
 
-- Judges  shall  be  distinguished  jurists  of  high  moral  standing.  Any  eligible  voter  so qualified  may  serve  as  a  judge  of  the  Constitutional  Court.  The  judges  selected  by  the President  of  the  European  Court  of  Human  Rights  shall  not  be  citizens  of  Bosnia  and Herzegovina or of any neighboring state.
+b) Judges shall be distinguished jurists of high moral standing. Any eligible voter so qualified may serve as a judge of the Constitutional Court. The judges selected by the President of the European Court of Human Rights shall not be citizens of Bosnia and Herzegovina or of any neighboring state.
 
-- The term of judges initially  appointed  shall  be  five  years,  unless  they  resign  or  are removed for cause by consensus of the other judges. Judges initially appointed shall not be eligible for reappointment. Judges subsequently appointed shall serve until age 70, unless they resign or are removed for cause by consensus of the other judges.
+c) The term of judges initially appointed shall be five years, unless they resign or are removed for cause by consensus of the other judges. Judges initially appointed shall not be eligible for reappointment. Judges subsequently appointed shall serve until age 70, unless they resign or are removed for cause by consensus of the other judges.
 
-- For appointments made more than five years after the initial appointment of judges, the  Parliamentary Assembly may provide by law for a different method of selection of the three judges selected by the President of the European Court of Human Rights.
+d) For appointments made more than five years after the initial appointment of judges, the Parliamentary Assembly may provide by law for a different method of selection of the three judges selected by the President of the European Court of Human Rights.
 
 ### 2.  Procedures
 
-- A majority of all members of the Court shall constitute a quorum.
+a) A majority of all members of the Court shall constitute a quorum.
 
 b) The Court shall adopt its own rules of court by a majority of all members. It shall hold public proceedings and shall issue reasons for its decisions, which shall be published.
 
@@ -356,7 +356,7 @@ b) The Court shall adopt its own rules of court by a majority of all members. It
 
 The Constitutional Court shall uphold this Constitution.
 
-- The Constitutional Court shall have exclusive jurisdiction to decide any dispute that arises under this Constitution between the Entities or between Bosnia and Herzegovina and an Entity  or  Entities,  or  between  institutions  of  Bosnia  and  Herzegovina,  including  but  not limited to:
+a) The Constitutional Court shall have exclusive jurisdiction to decide any dispute that arises under this Constitution between the Entities or between Bosnia and Herzegovina and an Entity or Entities, or between institutions of Bosnia and Herzegovina, including but not limited to:
 
 - Whether  an  Entity's  decision  to  establish  a  special  parallel  relationship  with  a neighboring  state  is  consistent  with  this  Constitution,  including  provisions  concerning  the sovereignty and territorial integrity of Bosnia and Herzegovina.
 
@@ -364,13 +364,13 @@ The Constitutional Court shall uphold this Constitution.
 
 Disputes may be referred only by a member of the Presidency, by the Chair of the Council of  Ministers,  by  the  Chair  or  a  Deputy  Chair  of  either  chamber  of  the  Parliamentary Assembly, by one-fourth of the members of either chamber of the Parliamentary Assembly, or by one-fourth of either chamber of a legislature of an Entity.
 
-- The Constitutional Court shall also have appellate jurisdiction over issues under this Constitution arising out of a judgment of any other court in Bosnia and Herzegovina.
+b) The Constitutional Court shall also have appellate jurisdiction over issues under this Constitution arising out of a judgment of any other court in Bosnia and Herzegovina.
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
-- The Constitutional Court shall have jurisdiction over issues referred by any court in Bosnia and Herzegovina concerning whether a law, on whose validity its decision depends, is compatible  with  this  Constitution,  with  the  European  Convention  for  Human  Rights  and Fundamental  Freedoms  and  its  Protocols,  or  with  the  laws  of  Bosnia  and  Herzegovina;  or concerning the existence of or the scope of a general rule of public international law pertinent to the court's decision.
+c) The Constitutional Court shall have jurisdiction over issues referred by any court in Bosnia and Herzegovina concerning whether a law, on whose validity its decision depends, is compatible with this Constitution, with the European Convention for Human Rights and Fundamental Freedoms and its Protocols, or with the laws of Bosnia and Herzegovina; or concerning the existence of or the scope of a general rule of public international law pertinent to the court's decision.
 
 ### 4.  Decisions
 
@@ -380,19 +380,19 @@ Decisions of the Constitutional Court shall be final and binding.
 
 There shall be a Central Bank of Bosnia and Herzegovina, which shall be the sole authority for issuing currency and for monetary policy throughout Bosnia and Herzegovina.
 
-- The Central Bank's responsibilities will be determined by the Parliamentary Assembly. For the first six years after the entry into force of this Constitution, however, it may  not  extend  credit  by  creating  money,  operating  in  this  respect  as  a  currency  board; thereafter, the Parliamentary Assembly may give it that authority.
+1. The Central Bank's responsibilities will be determined by the Parliamentary Assembly. For the first six years after the entry into force of this Constitution, however, it may not extend credit by creating money, operating in this respect as a currency board; thereafter, the Parliamentary Assembly may give it that authority.
 
-- The first Governing Board of the Central Bank shall consist of a Governor appointed by  the  International  Monetary  Fund,  after  consultation  with  the  Presidency,  and  three members appointed by the Presidency, two from the Federation (one Bosniac, one Croat, who shall share one vote) and one from the Republika Srpska, all of whom shall serve a six-year term. The Governor, who shall not be a citizen of Bosnia and Herzegovina or any neighboring state, may cast tie-breaking votes on the Governing Board.
+2. The first Governing Board of the Central Bank shall consist of a Governor appointed by the International Monetary Fund, after consultation with the Presidency, and three members appointed by the Presidency, two from the Federation (one Bosniac, one Croat, who shall share one vote) and one from the Republika Srpska, all of whom shall serve a six-year term. The Governor, who shall not be a citizen of Bosnia and Herzegovina or any neighboring state, may cast tie-breaking votes on the Governing Board.
 
-- Thereafter, the Governing Board of the Central Bank of Bosnia and Herzegovina shall consist of five persons appointed by the Presidency for a term of six years. The Board shall appoint, from among its members, a Governor for a term of six years.
+3. Thereafter, the Governing Board of the Central Bank of Bosnia and Herzegovina shall consist of five persons appointed by the Presidency for a term of six years. The Board shall appoint, from among its members, a Governor for a term of six years.
 
 ## Article VIII: Finances
 
-- The Parliamentary Assembly shall each year, on the proposal of the Presidency, adopt a budget covering the expenditures required to carry out the responsibilities of institutions of Bosnia and Herzegovina and the international obligations of Bosnia and Herzegovina.
+1. The Parliamentary Assembly shall each year, on the proposal of the Presidency, adopt a budget covering the expenditures required to carry out the responsibilities of institutions of Bosnia and Herzegovina and the international obligations of Bosnia and Herzegovina.
 
-- If no such budget is adopted in due time, the budget for the previous year shall be used on a provisional basis.
+2. If no such budget is adopted in due time, the budget for the previous year shall be used on a provisional basis.
 
-- The Federation shall provide two-thirds, and the Republika Srpska one-third, of the revenues  required  by  the  budget,  except  insofar  as  revenues  are  raised  as  specified  by  the Parliamentary Assembly.
+3. The Federation shall provide two-thirds, and the Republika Srpska one-third, of the revenues required by the budget, except insofar as revenues are raised as specified by the Parliamentary Assembly.
 
 [[END OF PAGE 12]]
 
@@ -400,19 +400,19 @@ There shall be a Central Bank of Bosnia and Herzegovina, which shall be the sole
 
 ## Article IX: General Provisions
 
-- No person who is serving a sentence  imposed  by  the  International  Tribunal  for  the Former  Yugoslavia,  and  no  person  who  is  under  indictment  by  the  Tribunal  and  who  has failed to comply with an order to appear before the Tribunal, may stand as a candidate or hold any appointive, elective, or other public office in the territory of Bosnia and Herzegovina.
+1. No person who is serving a sentence imposed by the International Tribunal for the Former Yugoslavia, and no person who is under indictment by the Tribunal and who has failed to comply with an order to appear before the Tribunal, may stand as a candidate or hold any appointive, elective, or other public office in the territory of Bosnia and Herzegovina.
 
-- Compensation for persons holding office in the institutions of Bosnia and Herzegovina may not be diminished during an officeholder's tenure.
+2. Compensation for persons holding office in the institutions of Bosnia and Herzegovina may not be diminished during an officeholder's tenure.
 
-- Officials appointed to positions in the institutions of Bosnia and Herzegovina shall be generally representative of the peoples of Bosnia and Herzegovina.
+3. Officials appointed to positions in the institutions of Bosnia and Herzegovina shall be generally representative of the peoples of Bosnia and Herzegovina.
 
 ## Article X: Amendment
 
-### Amendment  Procedure.
+### 1. Amendment Procedure.
 
 This  Constitution  may  be  amended  by  a  decision  of  the Parliamentary Assembly, including a two-thirds majority of those present and voting in the House of Representatives.
 
-### Human Rights and Fundamental Freedoms.
+### 2. Human Rights and Fundamental Freedoms.
 
 No amendment to this Constitution may eliminate  or  diminish  any  of  the  rights  and  freedoms  referred  to  in  Article  II  of  this Constitution or alter the present paragraph.
 
@@ -422,55 +422,55 @@ Transitional arrangements concerning public offices, law, and other matters are 
 
 ## Article XII: Entry into Force
 
-- This  Constitution  shall  enter  into  force  upon  signature  of  the  General  Framework Agreement as a constitutional act amending and superseding the Constitution of the Republic of Bosnia and Herzegovina.
+1. This Constitution shall enter into force upon signature of the General Framework Agreement as a constitutional act amending and superseding the Constitution of the Republic of Bosnia and Herzegovina.
 
-- Within three months from the entry into force of this Constitution, the Entities shall amend  their  respective  constitutions  to  ensure  their  conformity  with  this  Constitution  in accordance with Article III(3)(b).
+2. Within three months from the entry into force of this Constitution, the Entities shall amend their respective constitutions to ensure their conformity with this Constitution in accordance with Article III(3)(b).
 
 ## Annex I: Additional Human Rights Agreements To Be Applied In Bosnia And Herzegovina
 
-- 1948 Convention on the Prevention and Punishment of the Crime of Genocide
+1. 1948 Convention on the Prevention and Punishment of the Crime of Genocide
 
-- 1949 Geneva Conventions I-IV on the Protection of the Victims of War, and the 1977 Geneva Protocols I-II thereto
+2. 1949 Geneva Conventions I-IV on the Protection of the Victims of War, and the 1977 Geneva Protocols I-II thereto
 
-- 1951 Convention relating to the Status of Refugees and the 1966 Protocol thereto
+3. 1951 Convention relating to the Status of Refugees and the 1966 Protocol thereto
 
-- 1957 Convention on the Nationality of Married Women
+4. 1957 Convention on the Nationality of Married Women
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
-- 1961 Convention on the Reduction of Statelessness
+5. 1961 Convention on the Reduction of Statelessness
 
-- 1965 International Convention on the Elimination of All Forms of Racial Discrimination
+6. 1965 International Convention on the Elimination of All Forms of Racial Discrimination
 
-- 1966  International  Covenant  on  Civil  and  Political  Rights  and  the  1966  and  1989 Optional Protocols thereto
+7. 1966 International Covenant on Civil and Political Rights and the 1966 and 1989 Optional Protocols thereto
 
-- 1966 Covenant on Economic, Social and Cultural Rights
+8. 1966 Covenant on Economic, Social and Cultural Rights
 
-- 1979 Convention on the Elimination of All Forms of Discrimination against Women
+9. 1979 Convention on the Elimination of All Forms of Discrimination against Women
 
-- 1984 Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment
+10. 1984 Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment
 
-- 1987 European Convention on the Prevention of Torture and Inhuman or Degrading Treatment or Punishment
+11. 1987 European Convention on the Prevention of Torture and Inhuman or Degrading Treatment or Punishment
 
-- 1989 Convention on the Rights of the Child
+12. 1989 Convention on the Rights of the Child
 
-- 1990 International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families
+13. 1990 International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families
 
-- 1992 European Charter for Regional or Minority Languages
+14. 1992 European Charter for Regional or Minority Languages
 
-- 1994 Framework Convention for the Protection of National Minorities
+15. 1994 Framework Convention for the Protection of National Minorities
 
 ## Annex II: Transitional Arrangements
 
 ### 1.  Joint Interim Commission
 
-- The Parties hereby establish a Joint  Interim  Commission with a mandate to discuss practical questions related to the  implementation of the Constitution of Bosnia and Herzegovina  and  of  the  General  Framework  Agreement  and  its  Annexes,  and  to  make recommendations and proposals.
+a) The Parties hereby establish a Joint Interim Commission with a mandate to discuss practical questions related to the implementation of the Constitution of Bosnia and Herzegovina and of the General Framework Agreement and its Annexes, and to make recommendations and proposals.
 
-- The Joint Interim Commission shall be composed of four persons from the Federation, three persons from the Republika Srpska, and one representative of Bosnia and Herzegovina.
+b) The Joint Interim Commission shall be composed of four persons from the Federation, three persons from the Republika Srpska, and one representative of Bosnia and Herzegovina.
 
-- Meetings  of  the  Commission  shall  be  chaired  by  the  High  Representative  or  his  or designee.
+c) Meetings of the Commission shall be chaired by the High Representative or his or her designee.
 
 ### 2.  Continuation of Laws
 
@@ -496,7 +496,7 @@ Any treaty ratified by the Republic of Bosnia and Herzegovina between January 1,
 
 The  Republic  of  Bosnia  and  Herzegovina  approves  the  Constitution  of  Bosnia  and Herzegovina at Annex 4 to the General Framework Agreement.
 
-Muhamed Ša ć irbegovi ć
+Muhamed Šaćirbegović
 
 For the Republic of Bosnia and Herzegovina
 
@@ -512,6 +512,8 @@ For the Federation of Bosnia and Herzegovina
 
 The Republika Srpska approves the Constitution of Bosnia and Herzegovina at Annex 4 to the General Framework Agreement.
 
-Nikola Koljevi ć For the Republika Srpska
+Nikola Koljević
+
+For the Republika Srpska
 
 [[END OF PAGE 15]]
