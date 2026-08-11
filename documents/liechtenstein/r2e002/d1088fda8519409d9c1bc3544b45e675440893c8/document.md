@@ -30,7 +30,7 @@ Dieses Gesetz bezweckt, die Benachteiligung von Menschen mit Behinderungen  zu  
 
 ###### Geltungsbereich
 
-- Dieses Gesetz findet vorbehaltlich Abs. 2 auf sämtliche gestalteten Lebensbereiche von Menschen mit Behinderungen Anwendung.
+1) Dieses Gesetz findet vorbehaltlich Abs. 2 auf sämtliche gestalteten Lebensbereiche von Menschen mit Behinderungen Anwendung.
 
 1
 
@@ -40,39 +40,39 @@ Dieses Gesetz bezweckt, die Benachteiligung von Menschen mit Behinderungen  zu  
 
 105.2
 
-Behindertengleichstellungsgesetz (BGIG)
+Behindertengleichstellungsgesetz (BGlG)
 
-- Es findet keine Anwendung auf:
+2) Es findet keine Anwendung auf:
 
-- nicht öffentlich zugängliche Bauten und Anlagen, mit Ausnahme von Wohnanlagen mit sechs oder mehr Wohneinheiten sowie geförderten Wohnbauten;
+a) nicht öffentlich zugängliche Bauten und Anlagen, mit Ausnahme von Wohnanlagen mit sechs oder mehr Wohneinheiten sowie geförderten Wohnbauten;
 
-- nicht öffentliche Verkehrswege und -anlagen sowie nicht öffentliche Verkehrssysteme;
+b) nicht öffentliche Verkehrswege und -anlagen sowie nicht öffentliche Verkehrssysteme;
 
-- Waren privater Anbieter, sofern diese keine für Menschen mit Behinderungen spezifischen Waren im Angebot führen;
+c) Waren privater Anbieter, sofern diese keine für Menschen mit Behinderungen spezifischen Waren im Angebot führen;
 
-- Dienstleistungen  privater  Anbieter,  sofern  diese  ihre  Dienstleistung nur deshalb nicht erbringen können, weil sie nicht über die dazu erforderlichen, behindertengerecht eingerichteten Hilfsmittel verfügen;
+d) Dienstleistungen  privater  Anbieter,  sofern  diese  ihre  Dienstleistung nur deshalb nicht erbringen können, weil sie nicht über die dazu erforderlichen, behindertengerecht eingerichteten Hilfsmittel verfügen;
 
-- Gebrauchsgegenstände,  die  von  Menschen  mit  Behinderungen  aufgrund ihrer Behinderung nicht oder nur mit Erschwernis nutzbar sind.
+e) Gebrauchsgegenstände,  die  von  Menschen  mit  Behinderungen  aufgrund ihrer Behinderung nicht oder nur mit Erschwernis nutzbar sind.
 
 ##### Art. 3
 
 ###### Begriffsbestimmungen; Bezeichnungen
 
-- Im Sinne dieses Gesetzes bedeuten:
+1) Im Sinne dieses Gesetzes bedeuten:
 
-"Behinderung": die Auswirkung einer nicht nur vorübergehenden körperlichen,  geistigen  oder  psychischen  Funktionsbeeinträchtigung  oder Beeinträchtigung der Sinnesfunktionen, die geeignet ist, die Teilhabe am Leben in der Gesellschaft zu erschweren. Als nicht nur vorübergehend gilt ein Zeitraum von mehr als voraussichtlich sechs Monaten;
+a) "Behinderung": die Auswirkung einer nicht nur vorübergehenden körperlichen,  geistigen  oder  psychischen  Funktionsbeeinträchtigung  oder Beeinträchtigung der Sinnesfunktionen, die geeignet ist, die Teilhabe am Leben in der Gesellschaft zu erschweren. Als nicht nur vorübergehend gilt ein Zeitraum von mehr als voraussichtlich sechs Monaten;
 
-"öffentlich zugängliche Bauten und Anlagen": Bauten und Anlagen,
+b) "öffentlich zugängliche Bauten und Anlagen": Bauten und Anlagen,
 
-- die einem beliebigen Personenkreis offen stehen;
+1. die einem beliebigen Personenkreis offen stehen;
 
-- die nur einem bestimmten Personenkreis offen stehen, der in einem besonderen Rechtsverhältnis zum Gemeinwesen oder zu Dienstleistungsanbietern steht, welche in der Baute oder Anlage tätig sind; oder
+2. die nur einem bestimmten Personenkreis offen stehen, der in einem besonderen Rechtsverhältnis zum Gemeinwesen oder zu Dienstleistungsanbietern steht, welche in der Baute oder Anlage tätig sind; oder
 
-- in denen  Dienstleistungsanbieter persönliche  Dienstleistungen erbringen;
+3. in denen  Dienstleistungsanbieter persönliche  Dienstleistungen erbringen;
 
-"Unternehmen des öffentlichen  Verkehrs":  die  vom  Land  oder  den Gemeinden mit der Besorgung des öffentlichen Verkehrs beauftragten oder konzessionierten Unternehmen;
+c) "Unternehmen des öffentlichen  Verkehrs":  die  vom  Land  oder  den Gemeinden mit der Besorgung des öffentlichen Verkehrs beauftragten oder konzessionierten Unternehmen;
 
-"Verkehrswege und -anlagen": Anlagen wie Strassen, Wege, Brücken, Unter- und Überführungen, Plätze, Parkplätze, Spielplätze oder Parks;
+d) "Verkehrswege und -anlagen": Anlagen wie Strassen, Wege, Brücken, Unter- und Überführungen, Plätze, Parkplätze, Spielplätze oder Parks;
 
 2
 
@@ -80,19 +80,19 @@ Behindertengleichstellungsgesetz (BGIG)
 
 [[START OF PAGE 3]]
 
-Behindertengleichstellungsgesetz (BGIG)
+Behindertengleichstellungsgesetz (BGlG)
 
 105.2
 
-"Gemeinwesen": Land, Gemeinden, selbständige oder unselbständige Stiftungen  und  Anstalten  des  öffentlichen  Rechts  sowie  öffentlichrechtliche Körperschaften;
+e) "Gemeinwesen": Land, Gemeinden, selbständige oder unselbständige Stiftungen  und  Anstalten  des  öffentlichen  Rechts  sowie  öffentlich-rechtliche Körperschaften;
 
-"Baubehörde":  die  nach  dem  Baugesetz  jeweils  sachlich  zuständige Behörde oder zuständigen Behörden;
+f) "Baubehörde":  die  nach  dem  Baugesetz  jeweils  sachlich  zuständige Behörde oder zuständigen Behörden;
 
-"Barrierefreiheit": Barrierefreiheit liegt vor, wenn gestaltete Lebensbereiche für Menschen mit Behinderungen in der allgemein üblichen Weise, ohne besondere Erschwernis und grundsätzlich ohne fremde Hilfe zugänglich und nutzbar sind;
+g) "Barrierefreiheit": Barrierefreiheit liegt vor, wenn gestaltete Lebensbereiche für Menschen mit Behinderungen in der allgemein üblichen Weise, ohne besondere Erschwernis und grundsätzlich ohne fremde Hilfe zugänglich und nutzbar sind;
 
-"Anpassbarkeit": Anpassbarkeit liegt vor, wenn Wohnanlagen und -bauten mit geringem Aufwand an die Bedürfnisse von Menschen mit Behinderungen angepasst werden können.
+h) "Anpassbarkeit": Anpassbarkeit liegt vor, wenn Wohnanlagen und -bauten mit geringem Aufwand an die Bedürfnisse von Menschen mit Behinderungen angepasst werden können.
 
-- Unter den in diesem Gesetz verwendeten Personenbezeichnungen sind Angehörige des weiblichen und männlichen Geschlechts zu verstehen.
+2) Unter den in diesem Gesetz verwendeten Personenbezeichnungen sind Angehörige des weiblichen und männlichen Geschlechts zu verstehen.
 
 ##### Art. 4
 
@@ -108,9 +108,9 @@ Spezielle Massnahmen zur Herbeiführung der gleichberechtigten Teilhabe  von  Me
 
 ###### Diskriminierungsverbot
 
-- Aufgrund einer Behinderung darf niemand unmittelbar oder mittelbar diskriminiert werden.
+1) Aufgrund einer Behinderung darf niemand unmittelbar oder mittelbar diskriminiert werden.
 
-- Das Diskriminierungsverbot des Abs. 1 ist auch auf jeden Elternteil anzuwenden, der aufgrund der Behinderung eines Kindes (Stief-, Wahl-, Pflegekindes)  diskriminiert  wird,  dessen  behinderungsbedingt  erforderliche Betreuung er wahrnimmt.
+2) Das Diskriminierungsverbot des Abs. 1 ist auch auf jeden Elternteil anzuwenden, der aufgrund der Behinderung eines Kindes (Stief-, Wahl-, Pflegekindes)  diskriminiert  wird,  dessen  behinderungsbedingt  erforderliche Betreuung er wahrnimmt.
 
 3
 
@@ -120,13 +120,13 @@ Spezielle Massnahmen zur Herbeiführung der gleichberechtigten Teilhabe  von  Me
 
 105.2
 
-Behindertengleichstellungsgesetz (BGIG)
+Behindertengleichstellungsgesetz (BGlG)
 
 3) Das Diskriminierungsverbot des Abs. 1 ist weiters auf Angehörige anzuwenden,  die  aufgrund  der  Behinderung  einer  Person  diskriminiert werden,  deren  behinderungsbedingt  erforderliche  Betreuung  sie  überwiegend  wahrnehmen.  Als  Angehörige  gelten  Verwandte  in  gerader Linie  mit  Ausnahme  der  Eltern  (Abs.  2),  Geschwister  sowie  Ehe-  und Lebenspartner.
 
 4)  Das  Diskriminierungsverbot  des  Abs.  1  ist  weiters  auf  Personen anzuwenden, die Menschen mit Behinderungen vorübergehend assistieren oder betreuen oder die eine Diskriminierung auf Grund einer Behinderung aufzeigen oder bekämpfen.
 
-5) Das Diskriminierungsverbot des Abs. 1 ist im Falle der Belästigung gemäss Art. 8 auf Verwandte in gerader Linie, Geschwister sowie Eheund Lebenspartner von Menschen mit Behinderungen anzuwenden.
+5) Das Diskriminierungsverbot des Abs. 1 ist im Falle der Belästigung gemäss Art. 8 auf Verwandte in gerader Linie, Geschwister sowie Ehe- und Lebenspartner von Menschen mit Behinderungen anzuwenden.
 
 ##### Art. 6
 
@@ -148,23 +148,23 @@ Behindertengleichstellungsgesetz (BGIG)
 
 [[START OF PAGE 5]]
 
-Behindertengleichstellungsgesetz (BGIG)
+Behindertengleichstellungsgesetz (BGlG)
 
 105.2
 
-- Bei der Prüfung, ob Belastungen unverhältnismässig sind, sind insbesondere zu berücksichtigen:
+2) Bei der Prüfung, ob Belastungen unverhältnismässig sind, sind insbesondere zu berücksichtigen:
 
-- der  mit  der  Beseitigung  der  die  Benachteiligung  begründenden  Bedingungen verbundene Aufwand;
+a) der  mit  der  Beseitigung  der  die  Benachteiligung  begründenden  Bedingungen verbundene Aufwand;
 
-- die wirtschaftliche Leistungsfähigkeit der eine Diskriminierung bestreitenden Partei;
+b) die wirtschaftliche Leistungsfähigkeit der eine Diskriminierung bestreitenden Partei;
 
-- Förderungen aus öffentlichen Mitteln für die entsprechenden Massnahmen;
+c) Förderungen aus öffentlichen Mitteln für die entsprechenden Massnahmen;
 
-- die zwischen dem Inkrafttreten dieses Gesetzes und der behaupteten Diskriminierung vergangene Zeit;
+d) die zwischen dem Inkrafttreten dieses Gesetzes und der behaupteten Diskriminierung vergangene Zeit;
 
-- die  Auswirkung  der  Benachteiligung  auf  die  allgemeinen  Interessen des durch dieses Gesetz geschützten Personenkreises.
+e) die  Auswirkung  der  Benachteiligung  auf  die  allgemeinen  Interessen des durch dieses Gesetz geschützten Personenkreises.
 
-- Erweist sich die Beseitigung von Bedingungen, die eine Benachteiligung begründen, als unverhältnismässige Belastung im Sinne des Abs. 1, liegt  dann  eine  Diskriminierung  vor,  wenn  verabsäumt  wurde,  durch zumutbare Massnahmen zumindest eine massgebliche Verbesserung der Situation der betroffenen Person im Sinne einer grösstmöglichen Annäherung  an  eine  Gleichbehandlung  zu  bewirken.  Bei  der  Prüfung  der Zumutbarkeit ist Abs. 2 heranzuziehen.
+3) Erweist sich die Beseitigung von Bedingungen, die eine Benachteiligung begründen, als unverhältnismässige Belastung im Sinne des Abs. 1, liegt  dann  eine  Diskriminierung  vor,  wenn  verabsäumt  wurde,  durch zumutbare Massnahmen zumindest eine massgebliche Verbesserung der Situation der betroffenen Person im Sinne einer grösstmöglichen Annäherung  an  eine  Gleichbehandlung  zu  bewirken.  Bei  der  Prüfung  der Zumutbarkeit ist Abs. 2 heranzuziehen.
 
 4) Bei der Beurteilung des Vorliegens einer mittelbaren Diskriminierung durch Barrieren ist auch zu prüfen, ob einschlägige auf den gegenständlichen Fall anwendbare Rechtsvorschriften zur Barrierefreiheit vorliegen und ob und inwieweit diese eingehalten wurden.
 
@@ -182,7 +182,7 @@ Eine Diskriminierung liegt auch bei Belästigung vor. Belästigung liegt vor,  w
 
 105.2
 
-Behindertengleichstellungsgesetz (BGIG)
+Behindertengleichstellungsgesetz (BGlG)
 
 ##### Art. 9
 
@@ -198,25 +198,25 @@ Eine Diskriminierung liegt auch bei Anweisung einer Person zur Diskriminierung  
 
 1)  Aufgrund  einer  Behinderung  darf  im  Zusammenhang  mit  einem Arbeitsverhältnis privaten oder öffentlichen Rechts sowie in der sonstigen Arbeitswelt  niemand  unmittelbar  oder  mittelbar  diskriminiert  werden, insbesondere nicht:
 
-- bei der Begründung des Arbeitsverhältnisses;
+a) bei der Begründung des Arbeitsverhältnisses;
 
-- bei der Festsetzung des Entgelts;
+b) bei der Festsetzung des Entgelts;
 
-- bei der Gewährung freiwilliger Sozialleistungen, die kein Entgelt darstellen;
+c) bei der Gewährung freiwilliger Sozialleistungen, die kein Entgelt darstellen;
 
-- bei Massnahmen der Aus- und Weiterbildung und Umschulung;
+d) bei Massnahmen der Aus- und Weiterbildung und Umschulung;
 
-- beim beruflichen Aufstieg, insbesondere bei Beförderungen;
+e) beim beruflichen Aufstieg, insbesondere bei Beförderungen;
 
-- bei den sonstigen Arbeitsbedingungen;
+f) bei den sonstigen Arbeitsbedingungen;
 
-- bei der Beendigung des Arbeitsverhältnisses;
+g) bei der Beendigung des Arbeitsverhältnisses;
 
-- beim  Zugang  zur  Berufsberatung,  Arbeitsvermittlung,  Berufsausbildung,  beruflichen  Weiterbildung  und  Umschulung  ausserhalb  eines Arbeitsverhältnisses;
+h) beim  Zugang  zur  Berufsberatung,  Arbeitsvermittlung,  Berufsausbildung,  beruflichen  Weiterbildung  und  Umschulung  ausserhalb  eines Arbeitsverhältnisses;
 
-- bei der Mitgliedschaft und Mitwirkung in einer Arbeitnehmer- oder Arbeitgeberorganisation  oder  einer  Organisation,  deren  Mitglieder einer  bestimmten  Berufsgruppe angehören, einschliesslich  der  Inanspruchnahme der Leistungen solcher Organisationen;
+i) bei der Mitgliedschaft und Mitwirkung in einer Arbeitnehmer- oder Arbeitgeberorganisation  oder  einer  Organisation,  deren  Mitglieder einer  bestimmten  Berufsgruppe angehören, einschliesslich  der  Inanspruchnahme der Leistungen solcher Organisationen;
 
-- bei den Bedingungen für den Zugang zu selbständiger Erwerbstätigkeit.
+k) bei den Bedingungen für den Zugang zu selbständiger Erwerbstätigkeit.
 
 2) Eine Diskriminierung liegt auch dann vor, wenn ein Arbeitgeber es schuldhaft unterlässt, im Falle einer Belästigung durch Arbeitnehmer eine aufgrund  gesetzlicher  Bestimmungen,  Normen  der  kollektiven  Rechtsgestaltung oder des Arbeitsvertrages angemessene Abhilfe zu schaffen.
 
@@ -226,7 +226,7 @@ Eine Diskriminierung liegt auch bei Anweisung einer Person zur Diskriminierung  
 
 [[START OF PAGE 7]]
 
-Behindertengleichstellungsgesetz (BGIG)
+Behindertengleichstellungsgesetz (BGlG)
 
 105.2
 
@@ -262,7 +262,7 @@ Behindertengleichstellungsgesetz (BGIG)
 
 105.2
 
-Behindertengleichstellungsgesetz (BGIG)
+Behindertengleichstellungsgesetz (BGlG)
 
 2) Öffentlich zugängliche Bauten und Anlagen, die vor Inkrafttreten dieses Gesetzes baurechtlich bewilligt wurden, sind, soweit sie nicht bereits barrierefrei  gestaltet  sind,  bei  Umbauten  und  Umnutzungen grundsätzlich barrierefrei zu gestalten. Ausgenommen hiervon sind Unterhalts- und Renovationsarbeiten sowie werterhaltende Massnahmen ohne umfassende Eingriffe in die Bausubstanz.
 
@@ -284,7 +284,7 @@ Behindertengleichstellungsgesetz (BGIG)
 
 [[START OF PAGE 9]]
 
-Behindertengleichstellungsgesetz (BGIG)
+Behindertengleichstellungsgesetz (BGlG)
 
 105.2
 
@@ -322,17 +322,17 @@ Behindertengleichstellungsgesetz (BGIG)
 
 105.2
 
-Behindertengleichstellungsgesetz (BGIG)
+Behindertengleichstellungsgesetz (BGlG)
 
-- Behindertenorganisationen  (Art.  31),  die  sich  vorwiegend  für  die Rechte  und  Interessen  von  Menschen  mit  Behinderungen einsetzen,  ist vom  Land  oder  der  zuständigen  Gemeinde  die  Möglichkeit  einzuräumen, sich zur Barrierefreiheit bei der Erstellung von neuen oder bei der Abänderung bestehender öffentlicher Verkehrswege und -anlagen innert angemessener  Frist  zu  äussern.  Nach  Anhörung  des  Büros  für  die Gleichstellung von Menschen mit Behinderungen oder der damit beauftragten  Organisation  kann  in  Ausnahmefällen  von  der  Barrierefreiheit abgesehen werden.
+2) Behindertenorganisationen  (Art.  31),  die  sich  vorwiegend  für  die Rechte  und  Interessen  von  Menschen  mit  Behinderungen einsetzen,  ist vom  Land  oder  der  zuständigen  Gemeinde  die  Möglichkeit  einzuräumen, sich zur Barrierefreiheit bei der Erstellung von neuen oder bei der Abänderung bestehender öffentlicher Verkehrswege und -anlagen innert angemessener  Frist  zu  äussern.  Nach  Anhörung  des  Büros  für  die Gleichstellung von Menschen mit Behinderungen oder der damit beauftragten  Organisation  kann  in  Ausnahmefällen  von  der  Barrierefreiheit abgesehen werden.
 
 ##### Art. 16
 
 ###### Öffentliche Verkehrssysteme
 
-- Öffentliche Verkehrssysteme, insbesondere Haltestellen, Kommunikationssysteme,  Billettausgabestellen  sowie  Fahrzeuge  der  Unternehmen des öffentlichen Verkehrs, welche nach Inkrafttreten dieses Gesetzes errichtet oder in Betrieb genommen werden, sind barrierefrei zu gestalten,  sofern  die  Verkehrs-  und  Betriebssicherheit  dadurch  nicht  beeinträchtigt wird.
+1) Öffentliche Verkehrssysteme, insbesondere Haltestellen, Kommunikationssysteme,  Billettausgabestellen  sowie  Fahrzeuge  der  Unternehmen des öffentlichen Verkehrs, welche nach Inkrafttreten dieses Gesetzes errichtet oder in Betrieb genommen werden, sind barrierefrei zu gestalten,  sofern  die  Verkehrs-  und  Betriebssicherheit  dadurch  nicht  beeinträchtigt wird.
 
-- Behindertenorganisationen  (Art.  31),  die  sich  vorwiegend  für  die Rechte  und  Interessen  von  Menschen  mit  Behinderungen einsetzen,  ist vom jeweiligen Unternehmen des öffentlichen Verkehrs die Möglichkeit einzuräumen, sich zur Barrierefreiheit bei der Erstellung von neuen bzw. bei  der  Abänderung  bestehender  öffentlicher  Verkehrsysteme  innert angemessener Frist zu äussern.
+2) Behindertenorganisationen  (Art.  31),  die  sich  vorwiegend  für  die Rechte  und  Interessen  von  Menschen  mit  Behinderungen einsetzen,  ist vom jeweiligen Unternehmen des öffentlichen Verkehrs die Möglichkeit einzuräumen, sich zur Barrierefreiheit bei der Erstellung von neuen bzw. bei  der  Abänderung  bestehender  öffentlicher  Verkehrsysteme  innert angemessener Frist zu äussern.
 
 ### III. Besondere Massnahmen des Gemeinwesens
 
@@ -340,9 +340,9 @@ Behindertengleichstellungsgesetz (BGIG)
 
 ###### Massnahmen für sprach-, hör- oder sehbehinderte Menschen
 
-- Im Verkehr mit der Bevölkerung nimmt das Gemeinwesen Rücksicht auf die besonderen Anliegen der sprach-, hör- oder sehbehinderten Menschen.
+1) Im Verkehr mit der Bevölkerung nimmt das Gemeinwesen Rücksicht auf die besonderen Anliegen der sprach-, hör- oder sehbehinderten Menschen.
 
-- Für  die  Wahrnehmung  eigener  Rechte  in  Gerichts-  und  Verwaltungsverfahren können sprach-, hör- oder sehbehinderte Menschen verlangen,  dass  Entscheidungen,  Formulare  und  sonstiges  Schriftgut  ohne zusätzliche  Kosten  auch  in  einer  für  sie  wahrnehmbaren und verständ-
+2) Für  die  Wahrnehmung  eigener  Rechte  in  Gerichts-  und  Verwaltungsverfahren können sprach-, hör- oder sehbehinderte Menschen verlangen,  dass  Entscheidungen,  Formulare  und  sonstiges  Schriftgut  ohne zusätzliche  Kosten  auch  in  einer  für  sie  wahrnehmbaren und verständ-
 
 10
 
@@ -350,7 +350,7 @@ Behindertengleichstellungsgesetz (BGIG)
 
 [[START OF PAGE 11]]
 
-Behindertengleichstellungsgesetz (BGIG)
+Behindertengleichstellungsgesetz (BGlG)
 
 105.2
 
@@ -358,7 +358,7 @@ lichen  Form  zugänglich  gemacht  werden.  Hör-  und  sprachbehinderte Mensch
 
 3) Soweit Dienstleistungen vom Gemeinwesen auf Internet angeboten werden, müssen diese den internationalen Standards entsprechen. Art. 11 Abs. 1 findet sinngemäss Anwendung.
 
-4)  Das  Gemeinwesen  kann  Projekte  unterstützen,  die  sich  sprachund verständigungspolitischen Anliegen sprach-, hör- oder sehbehinderter Menschen widmen.
+4)  Das  Gemeinwesen  kann  Projekte  unterstützen,  die  sich  sprach- und verständigungspolitischen Anliegen sprach-, hör- oder sehbehinderter Menschen widmen.
 
 5)  Das Gemeinwesen kann Bildungsangebote für sprach-, hör- oder sehbehinderte  Menschen  und  ihnen  besonders  nahe  stehende  Personen fördern, um diesen die Erlernung einer auf die Behinderung abgestimmten Kommunikationstechnik zu ermöglichen.
 
@@ -382,33 +382,33 @@ lichen  Form  zugänglich  gemacht  werden.  Hör-  und  sprachbehinderte Mensch
 
 105.2
 
-Behindertengleichstellungsgesetz (BGIG)
+Behindertengleichstellungsgesetz (BGlG)
 
 ##### Art. 19
 
 ###### Programme zur Integration von Menschen mit Behinderungen
 
-- Das Land fördert die Integration von Menschen mit Behinderungen.
+1) Das Land fördert die Integration von Menschen mit Behinderungen.
 
-- Das Gemeinwesen kann Programme durchführen, die der besseren Integration von Menschen mit Behinderungen in die Gesellschaft dienen.
+2) Das Gemeinwesen kann Programme durchführen, die der besseren Integration von Menschen mit Behinderungen in die Gesellschaft dienen.
 
-- Die Programme können insbesondere folgende Bereiche betreffen:
+3) Die Programme können insbesondere folgende Bereiche betreffen:
 
-- Bildung;
+a) Bildung;
 
-- berufliche Tätigkeit;
+b) berufliche Tätigkeit;
 
-- Wohnen;
+c) Wohnen;
 
-- Personentransport;
+d) Personentransport;
 
-- Kultur;
+e) Kultur;
 
-- Sport;
+f) Sport;
 
-- Entlastung von pflegenden Familienangehörigen.
+g) Entlastung von pflegenden Familienangehörigen.
 
-- Das Gemeinwesen kann sich insbesondere mit Finanzhilfen an solchen von Dritten durchgeführten Programmen beteiligen.
+4) Das Gemeinwesen kann sich insbesondere mit Finanzhilfen an solchen von Dritten durchgeführten Programmen beteiligen.
 
 ##### Art. 20
 
@@ -420,7 +420,7 @@ Das Gemeinwesen kann zeitlich befristete Pilotversuche durchführen oder  unters
 
 ###### Information, Beratung und Überprüfung der Wirksamkeit
 
-- Das Gemeinwesen kann Informationskampagnen durchführen, um das  Verständnis  der  Bevölkerung  für  die  Probleme  der  Gleichstellung und  für  die  Integration  von  Menschen  mit  Behinderungen  zu  erhöhen und um den betroffenen Kreisen die verschiedenen Handlungsmöglichkeiten aufzuzeigen.
+1) Das Gemeinwesen kann Informationskampagnen durchführen, um das  Verständnis  der  Bevölkerung  für  die  Probleme  der  Gleichstellung und  für  die  Integration  von  Menschen  mit  Behinderungen  zu  erhöhen und um den betroffenen Kreisen die verschiedenen Handlungsmöglichkeiten aufzuzeigen.
 
 12
 
@@ -428,13 +428,13 @@ Das Gemeinwesen kann zeitlich befristete Pilotversuche durchführen oder  unters
 
 [[START OF PAGE 13]]
 
-Behindertengleichstellungsgesetz (BGIG)
+Behindertengleichstellungsgesetz (BGlG)
 
 105.2
 
-- Die  Regierung  kann  Private  und  Behörden  beraten  und  ihnen Empfehlungen abgeben. Sie kann diese Aufgabe dem Büro für die Gleichstellung von Menschen mit Behinderungen oder der damit beauftragten Organisation (Art. 22) übertragen.
+2) Die  Regierung  kann  Private  und  Behörden  beraten  und  ihnen Empfehlungen abgeben. Sie kann diese Aufgabe dem Büro für die Gleichstellung von Menschen mit Behinderungen oder der damit beauftragten Organisation (Art. 22) übertragen.
 
-- Die Regierung untersucht regelmässig, wie sich ihre Massnahmen auf die Integration und Gleichstellung von Menschen mit Behinderungen auswirken. Sie kann auch die Auswirkungen von Massnahmen untersuchen, die andere ergreifen.
+3) Die Regierung untersucht regelmässig, wie sich ihre Massnahmen auf die Integration und Gleichstellung von Menschen mit Behinderungen auswirken. Sie kann auch die Auswirkungen von Massnahmen untersuchen, die andere ergreifen.
 
 ### IV. Organisation
 
@@ -442,21 +442,21 @@ Behindertengleichstellungsgesetz (BGIG)
 
 ###### Büro für die Gleichstellung von Menschen mit Behinderungen
 
-- Die Regierung errichtet ein Büro für die Gleichstellung von Menschen mit Behinderungen, das sich für die rechtliche und faktische Gleichstellung von Menschen mit Behinderungen einsetzt. Die Regierung kann eine Organisation mit dieser Aufgabe betrauen.
+1) Die Regierung errichtet ein Büro für die Gleichstellung von Menschen mit Behinderungen, das sich für die rechtliche und faktische Gleichstellung von Menschen mit Behinderungen einsetzt. Die Regierung kann eine Organisation mit dieser Aufgabe betrauen.
 
-- Dem Büro für die Gleichstellung von Menschen mit Behinderungen obliegen insbesondere:
+2) Dem Büro für die Gleichstellung von Menschen mit Behinderungen obliegen insbesondere:
 
-- die  Ausarbeitung von Empfehlungen oder Anträgen zu Handen der Regierung für Massnahmen im Hinblick auf die Integration und die Gleichstellung von Menschen mit Behinderungen;
+a) die  Ausarbeitung von Empfehlungen oder Anträgen zu Handen der Regierung für Massnahmen im Hinblick auf die Integration und die Gleichstellung von Menschen mit Behinderungen;
 
-- die  Beratung  von  Behörden  und  Privaten  in  Fragen  der  Integration und Gleichstellung von Menschen mit Behinderungen;
+b) die  Beratung  von  Behörden  und  Privaten  in  Fragen  der  Integration und Gleichstellung von Menschen mit Behinderungen;
 
-- die Mitwirkung bei der Ausarbeitung von Rechtsvorschriften, soweit sie für die Integration und Gleichstellung von Menschen mit Behinderungen von Bedeutung sind;
+c) die Mitwirkung bei der Ausarbeitung von Rechtsvorschriften, soweit sie für die Integration und Gleichstellung von Menschen mit Behinderungen von Bedeutung sind;
 
-- die  Abgabe von Stellungnahmen im Rahmen von Vernehmlassungsverfahren  zu  Gesetzesvorlagen,  welche  die  Integration  und  Gleichstellung von Menschen mit Behinderungen berühren;
+d) die  Abgabe von Stellungnahmen im Rahmen von Vernehmlassungsverfahren  zu  Gesetzesvorlagen,  welche  die  Integration  und  Gleichstellung von Menschen mit Behinderungen berühren;
 
-- die  Ausarbeitung  von  Stellungnahmen  auf  Wunsch  der  Regierung oder einzelner Regierungsmitglieder;
+e) die  Ausarbeitung  von  Stellungnahmen  auf  Wunsch  der  Regierung oder einzelner Regierungsmitglieder;
 
-- die  Durchführung von Öffentlichkeitsarbeit zur Sensibilisierung der Bevölkerung für die Belange von Menschen mit Behinderungen;
+f) die  Durchführung von Öffentlichkeitsarbeit zur Sensibilisierung der Bevölkerung für die Belange von Menschen mit Behinderungen;
 
 13
 
@@ -466,19 +466,19 @@ Behindertengleichstellungsgesetz (BGIG)
 
 105.2
 
-Behindertengleichstellungsgesetz (BGIG)
+Behindertengleichstellungsgesetz (BGlG)
 
-- die Ausarbeitung und Durchführung von Projekten unter anderem in Zusammenarbeit mit öffentlichen oder privaten Behindertenorganisationen oder die Beteiligung an solchen Projekten;
+g) die Ausarbeitung und Durchführung von Projekten unter anderem in Zusammenarbeit mit öffentlichen oder privaten Behindertenorganisationen oder die Beteiligung an solchen Projekten;
 
-- die periodische Berichterstattung an die Regierung über die Entwicklung  hinsichtlich  der  Integration  und  Gleichstellung  von  Menschen mit Behinderungen und über die Auswirkungen durchgeführter Massnahmen und Projekte;
+h) die periodische Berichterstattung an die Regierung über die Entwicklung  hinsichtlich  der  Integration  und  Gleichstellung  von  Menschen mit Behinderungen und über die Auswirkungen durchgeführter Massnahmen und Projekte;
 
-- die  Förderung  des  sozialen  Dialogs  zwischen  Arbeitgeber  und  Arbeitnehmer,  mit  dem  Ziel,  die  Verwirklichung  des  Gleichbehandlungsgrundsatzes voranzubringen;
+i) die  Förderung  des  sozialen  Dialogs  zwischen  Arbeitgeber  und  Arbeitnehmer,  mit  dem  Ziel,  die  Verwirklichung  des  Gleichbehandlungsgrundsatzes voranzubringen;
 
-- die  Förderung  des  Dialogs  mit  Nichtregierungsorganisationen,  die sich an der Bekämpfung von Diskriminierungen beteiligen;
+k) die  Förderung  des  Dialogs  mit  Nichtregierungsorganisationen,  die sich an der Bekämpfung von Diskriminierungen beteiligen;
 
-- die Sicherstellung der Zusammenarbeit mit öffentlichen und privaten Einrichtungen.
+l) die Sicherstellung der Zusammenarbeit mit öffentlichen und privaten Einrichtungen.
 
-- Das Büro für die Gleichstellung von Menschen mit Behinderungen kann mit den in Art. 31 bezeichneten Behindertenorganisationen zusammenarbeiten.
+3) Das Büro für die Gleichstellung von Menschen mit Behinderungen kann mit den in Art. 31 bezeichneten Behindertenorganisationen zusammenarbeiten.
 
 ### V. Rechtsansprüche und Verfahren
 
@@ -488,15 +488,15 @@ Behindertengleichstellungsgesetz (BGIG)
 
 ###### Rechtsansprüche
 
-- Bei Verletzung des Diskriminierungsverbots nach Art. 5 bis 10 hat die  betroffene  Person  jedenfalls  Anspruch  auf  Ersatz  des  Vermögensschadens und auf eine Entschädigung für die erlittene persönliche Beeinträchtigung.
+1) Bei Verletzung des Diskriminierungsverbots nach Art. 5 bis 10 hat die  betroffene  Person  jedenfalls  Anspruch  auf  Ersatz  des  Vermögensschadens und auf eine Entschädigung für die erlittene persönliche Beeinträchtigung.
 
-- Neben der Geltendmachung von Ansprüchen nach Abs. 1 kann die betroffene Person beantragen:
+2) Neben der Geltendmachung von Ansprüchen nach Abs. 1 kann die betroffene Person beantragen:
 
-- eine drohende Diskriminierung zu verbieten oder zu unterlassen;
+a) eine drohende Diskriminierung zu verbieten oder zu unterlassen;
 
-- eine bestehende Diskriminierung zu beseitigen.
+b) eine bestehende Diskriminierung zu beseitigen.
 
-- Bei der Bemessung der Höhe des immateriellen Schadenersatzes ist insbesondere auf die Dauer der Diskriminierung, die Schwere des Verschuldens,  die  Erheblichkeit  der  Beeinträchtigung  und  Mehrfachdiskriminierungen Bedacht zu nehmen.
+3) Bei der Bemessung der Höhe des immateriellen Schadenersatzes ist insbesondere auf die Dauer der Diskriminierung, die Schwere des Verschuldens,  die  Erheblichkeit  der  Beeinträchtigung  und  Mehrfachdiskriminierungen Bedacht zu nehmen.
 
 14
 
@@ -504,13 +504,13 @@ Behindertengleichstellungsgesetz (BGIG)
 
 [[START OF PAGE 15]]
 
-Behindertengleichstellungsgesetz (BGIG)
+Behindertengleichstellungsgesetz (BGlG)
 
 105.2
 
-- Als  Reaktion  auf  eine  Beschwerde  oder  auf  die  Einleitung  eines Verfahrens  zur  Durchsetzung  des  Diskriminierungsverbots  darf  die betroffene Person nicht benachteiligt werden. Auch eine andere Person, die als Zeuge oder Auskunftsperson in einem Verfahren auftritt oder ein Verfahren einer betroffenen Person unterstützt, darf nicht benachteiligt werden. Abs. 1 und 2 sowie Art. 26 finden sinngemäss Anwendung.
+4) Als  Reaktion  auf  eine  Beschwerde  oder  auf  die  Einleitung  eines Verfahrens  zur  Durchsetzung  des  Diskriminierungsverbots  darf  die betroffene Person nicht benachteiligt werden. Auch eine andere Person, die als Zeuge oder Auskunftsperson in einem Verfahren auftritt oder ein Verfahren einer betroffenen Person unterstützt, darf nicht benachteiligt werden. Abs. 1 und 2 sowie Art. 26 finden sinngemäss Anwendung.
 
-- Besteht  die  Diskriminierung  in  der  Verletzung  der  Vorschriften über die Barrierefreiheit und die Anpassbarkeit nach Art. 11 bis 16, so ist die Geltendmachung von Ansprüchen nach Abs. 1 und 2 ausgeschlossen. Wird  im  Zivilverfahren  eingewendet,  die  Diskriminierung  beruhe  auf einer Verletzung der Vorschriften über die Barrierefreiheit und die Anpassbarkeit,  so  hat  das  Gericht  über  diesen  Einwand  ohne  Unterbrechung des Verfahrens selbst zu entscheiden.
+5) Besteht  die  Diskriminierung  in  der  Verletzung  der  Vorschriften über die Barrierefreiheit und die Anpassbarkeit nach Art. 11 bis 16, so ist die Geltendmachung von Ansprüchen nach Abs. 1 und 2 ausgeschlossen. Wird  im  Zivilverfahren  eingewendet,  die  Diskriminierung  beruhe  auf einer Verletzung der Vorschriften über die Barrierefreiheit und die Anpassbarkeit,  so  hat  das  Gericht  über  diesen  Einwand  ohne  Unterbrechung des Verfahrens selbst zu entscheiden.
 
 ##### Art. 24
 
@@ -522,15 +522,15 @@ Die Ansprüche nach Art. 23 Abs. 1 und 2 verjähren in einem Jahr von dem Tage a
 
 ###### Zuständigkeit und Verfahren
 
-- Für  Klagen  nach  Art.  23  sind  die  ordentlichen  Zivilgerichte  zuständig.
+1) Für  Klagen  nach  Art.  23  sind  die  ordentlichen  Zivilgerichte  zuständig.
 
-- Das Verfahren richtet sich vorbehaltlich Art. 26 nach den Bestimmungen der Zivilprozessordnung.
+2) Das Verfahren richtet sich vorbehaltlich Art. 26 nach den Bestimmungen der Zivilprozessordnung.
 
 ##### Art. 26
 
 ###### Beweislast
 
-- Wenn sich eine betroffene Person vor Gericht auf eine ihr zugefügte Diskriminierung  nach  Art.  5  bis  10  beruft,  so  hat  sie  diesen  Umstand glaubhaft zu machen.
+1) Wenn sich eine betroffene Person vor Gericht auf eine ihr zugefügte Diskriminierung  nach  Art.  5  bis  10  beruft,  so  hat  sie  diesen  Umstand glaubhaft zu machen.
 
 15
 
@@ -540,9 +540,9 @@ Die Ansprüche nach Art. 23 Abs. 1 und 2 verjähren in einem Jahr von dem Tage a
 
 105.2
 
-Behindertengleichstellungsgesetz (BGIG)
+Behindertengleichstellungsgesetz (BGlG)
 
-- Bei Berufung auf eine unmittelbare Diskriminierung obliegt es dem Beklagten  zu  beweisen,  dass  es  bei  Abwägung  aller  Umstände  wahrscheinlicher  ist,  dass  ein  anderes  von  ihm  geltend  gemachtes  Motiv  für die unterschiedliche Behandlung ausschlaggebend war.
+2) Bei Berufung auf eine unmittelbare Diskriminierung obliegt es dem Beklagten  zu  beweisen,  dass  es  bei  Abwägung  aller  Umstände  wahrscheinlicher  ist,  dass  ein  anderes  von  ihm  geltend  gemachtes  Motiv  für die unterschiedliche Behandlung ausschlaggebend war.
 
 3) Bei Berufung auf eine Belästigung sowie bei Berufung auf eine mittelbare  Diskriminierung  obliegt  es  dem  Beklagten  zu  beweisen,  dass  es bei  Abwägung  aller  Umstände  wahrscheinlicher  ist,  dass  die  von  ihm glaubhaft gemachten Tatsachen der Wahrheit entsprechen.
 
@@ -552,7 +552,7 @@ Behindertengleichstellungsgesetz (BGIG)
 
 ###### Rechtsansprüche bei öffentlich zugänglichen Bauten und Anlagen, Wohnanlagen und geförderten Wohnbauten
 
-- Wer nach dem Zeitpunkt der Bauabnahme im Sinne von Art. 12 bis 14  durch  bauliche  oder  andere  Massnahmen  benachteiligt  wird,  indem die  Vorschriften  über  die  Barrierefreiheit  oder  die  Anpassbarkeit  nicht eingehalten worden sind, kann den Anspruch auf Beseitigung des Mangels  oder  Unterlassung  der  Benachteiligung  zeitlich  unbefristet  bei  der Baubehörde geltend machen.
+1) Wer nach dem Zeitpunkt der Bauabnahme im Sinne von Art. 12 bis 14  durch  bauliche  oder  andere  Massnahmen  benachteiligt  wird,  indem die  Vorschriften  über  die  Barrierefreiheit  oder  die  Anpassbarkeit  nicht eingehalten worden sind, kann den Anspruch auf Beseitigung des Mangels  oder  Unterlassung  der  Benachteiligung  zeitlich  unbefristet  bei  der Baubehörde geltend machen.
 
 2)  Den  Beweis  dafür,  dass  eine  bauliche  oder  andere  Massnahme (Abs. 1), welche zur Benachteiligung führt, bereits im Zeitpunkt der Bauabnahme im Sinne von Art. 12 bis 14 bestanden hat und daher mit der Bauabnahme genehmigt worden ist, hat der Gegner des Benachteiligten zu erbringen.
 
@@ -568,23 +568,23 @@ Behindertengleichstellungsgesetz (BGIG)
 
 [[START OF PAGE 17]]
 
-Behindertengleichstellungsgesetz (BGIG)
+Behindertengleichstellungsgesetz (BGlG)
 
 105.2
 
-- Werden nach Inbetriebnahme der Verkehrswege und -anlagen Änderungen an denselben vorgenommen, beginnt die Frist nach Abs. 1 ab dem jeweiligen Zeitpunkt der Inbetriebnahme neu zu laufen.
+2) Werden nach Inbetriebnahme der Verkehrswege und -anlagen Änderungen an denselben vorgenommen, beginnt die Frist nach Abs. 1 ab dem jeweiligen Zeitpunkt der Inbetriebnahme neu zu laufen.
 
-- Im Übrigen findet Art. 27 Abs. 2 sinngemäss Anwendung.
+3) Im Übrigen findet Art. 27 Abs. 2 sinngemäss Anwendung.
 
 ##### Art. 29
 
 ###### Rechtsansprüche bei öffentlichen Verkehrssystemen
 
-- Wer im Sinne von Art. 16 benachteiligt wird, indem die Vorschriften  über  die  Barrierefreiheit  nicht  eingehalten  werden,  kann  den  Anspruch auf Beseitigung des Mangels oder Unterlassung der Benachteiligung  innert  fünf  Jahren  nach  Inbetriebnahme  der  entsprechenden  Einrichtung bei der Regierung bzw. zuständigen Gemeinde geltend machen.
+1) Wer im Sinne von Art. 16 benachteiligt wird, indem die Vorschriften  über  die  Barrierefreiheit  nicht  eingehalten  werden,  kann  den  Anspruch auf Beseitigung des Mangels oder Unterlassung der Benachteiligung  innert  fünf  Jahren  nach  Inbetriebnahme  der  entsprechenden  Einrichtung bei der Regierung bzw. zuständigen Gemeinde geltend machen.
 
-- Werden  nach  Inbetriebnahme  der  öffentlichen  Verkehrssysteme Änderungen an denselben vorgenommen, beginnt die Frist nach Abs. 1 ab dem jeweiligen Zeitpunkt der Inbetriebnahme neu zu laufen.
+2) Werden  nach  Inbetriebnahme  der  öffentlichen  Verkehrssysteme Änderungen an denselben vorgenommen, beginnt die Frist nach Abs. 1 ab dem jeweiligen Zeitpunkt der Inbetriebnahme neu zu laufen.
 
-- Im Übrigen findet Art. 27 Abs. 2 sinngemäss Anwendung.
+3) Im Übrigen findet Art. 27 Abs. 2 sinngemäss Anwendung.
 
 ##### Art. 30
 
@@ -596,9 +596,9 @@ Auf das Verfahren nach Art. 27 bis 29 finden die Bestimmungen des Gesetzes über
 
 ###### Antrags- und Beschwerdelegitimation von Behindertenorganisationen
 
-- Behindertenorganisationen, die seit mindestens fünf Jahren bestehen und den Sitz im Inland haben, können Rechtsansprüche auf Grund von Benachteiligungen im Sinne von Art. 27 bis 29 im eigenen Namen geltend machen.
+1) Behindertenorganisationen, die seit mindestens fünf Jahren bestehen und den Sitz im Inland haben, können Rechtsansprüche auf Grund von Benachteiligungen im Sinne von Art. 27 bis 29 im eigenen Namen geltend machen.
 
-- Die Regierung bezeichnet mit Verordnung die zur Beschwerde berechtigten Behindertenorganisationen auf deren Antrag.
+2) Die Regierung bezeichnet mit Verordnung die zur Beschwerde berechtigten Behindertenorganisationen auf deren Antrag.
 
 17
 
@@ -608,7 +608,7 @@ Auf das Verfahren nach Art. 27 bis 29 finden die Bestimmungen des Gesetzes über
 
 105.2
 
-Behindertengleichstellungsgesetz (BGIG)
+Behindertengleichstellungsgesetz (BGlG)
 
 ### VI. Übergangs- und Schlussbestimmungen
 
@@ -616,25 +616,25 @@ Behindertengleichstellungsgesetz (BGIG)
 
 ###### Anpassungsfristen für Bauten und Anlagen sowie für Verkehrswege und -anlagen
 
-- Öffentlich  zugängliche  Bauten  und  Anlagen  des  Gemeinwesens (Art. 12) sowie öffentliche Verkehrswege und -anlagen (Art. 15) müssen vorbehaltlich Abs. 2 innert nachfolgender Fristen barrierefrei sein:
+1) Öffentlich  zugängliche  Bauten  und  Anlagen  des  Gemeinwesens (Art. 12) sowie öffentliche Verkehrswege und -anlagen (Art. 15) müssen vorbehaltlich Abs. 2 innert nachfolgender Fristen barrierefrei sein:
 
-- soweit die Fertigstellung vor nicht mehr als fünf Jahren vor Inkrafttreten dieses Gesetzes erfolgt ist: innert 20 Jahren nach Inkrafttreten dieses Gesetzes;
+a) soweit die Fertigstellung vor nicht mehr als fünf Jahren vor Inkrafttreten dieses Gesetzes erfolgt ist: innert 20 Jahren nach Inkrafttreten dieses Gesetzes;
 
-- soweit  die  Fertigstellung  vor  mehr  als  fünf  Jahren  vor  Inkrafttreten dieses Gesetzes erfolgt ist: innert 12 Jahren nach Inkrafttreten dieses Gesetzes.
+b) soweit  die  Fertigstellung  vor  mehr  als  fünf  Jahren  vor  Inkrafttreten dieses Gesetzes erfolgt ist: innert 12 Jahren nach Inkrafttreten dieses Gesetzes.
 
-- Kindergärten und Schulen des Gemeinwesens müssen innert fünf Jahren nach Inkrafttreten dieses Gesetzes barrierefrei sein. Ist ein Kind oder Jugendlicher mit einer Behinderung bereits vor Ablauf dieser Anpassungsfrist  aufgrund  seiner  Behinderung  zwingend  auf  die  Barrierefreiheit an Kindergärten und Schulen des Gemeinwesens angewiesen, so ist die Barrierefreiheit für den betreffenden Kindergarten oder die betreffende Schule innert angemessener Frist herzustellen.
+2) Kindergärten und Schulen des Gemeinwesens müssen innert fünf Jahren nach Inkrafttreten dieses Gesetzes barrierefrei sein. Ist ein Kind oder Jugendlicher mit einer Behinderung bereits vor Ablauf dieser Anpassungsfrist  aufgrund  seiner  Behinderung  zwingend  auf  die  Barrierefreiheit an Kindergärten und Schulen des Gemeinwesens angewiesen, so ist die Barrierefreiheit für den betreffenden Kindergarten oder die betreffende Schule innert angemessener Frist herzustellen.
 
-- Bei öffentlichen Verkehrswegen und -anlagen sind die Ansprüche nach  Art.  28  binnen  fünf  Jahren  nach  Ablauf  der  Fristen  nach  Abs.  1 geltend zu machen.
+3) Bei öffentlichen Verkehrswegen und -anlagen sind die Ansprüche nach  Art.  28  binnen  fünf  Jahren  nach  Ablauf  der  Fristen  nach  Abs.  1 geltend zu machen.
 
 ##### Art. 33
 
 ###### Anpassungsfristen für öffentliche Verkehrssysteme
 
-- Bestehende  öffentliche Verkehrssysteme (Art. 16) müssen, ausgenommen von Abs. 2, innerhalb von fünf Jahren nach Inkrafttreten dieses Gesetzes barrierefrei sein.
+1) Bestehende  öffentliche Verkehrssysteme (Art. 16) müssen, ausgenommen von Abs. 2, innerhalb von fünf Jahren nach Inkrafttreten dieses Gesetzes barrierefrei sein.
 
-- Die  öffentlichen  Verkehrssysteme  der  Österreichischen  Bundesbahnen müssen bis Ende 2015 barrierefrei sein.
+2) Die  öffentlichen  Verkehrssysteme  der  Österreichischen  Bundesbahnen müssen bis Ende 2015 barrierefrei sein.
 
-- Bei öffentlichen Verkehrssystemen sind die Ansprüche nach Art. 29 binnen fünf Jahren nach Ablauf der Fristen nach Abs. 1 und 2 geltend zu machen.
+3) Bei öffentlichen Verkehrssystemen sind die Ansprüche nach Art. 29 binnen fünf Jahren nach Ablauf der Fristen nach Abs. 1 und 2 geltend zu machen.
 
 18
 
@@ -642,7 +642,7 @@ Behindertengleichstellungsgesetz (BGIG)
 
 [[START OF PAGE 19]]
 
-Behindertengleichstellungsgesetz (BGIG)
+Behindertengleichstellungsgesetz (BGlG)
 
 105.2
 
@@ -650,9 +650,9 @@ Behindertengleichstellungsgesetz (BGIG)
 
 ###### Hängige Gesuche
 
-- Mit  Ausnahme  von  öffentlich  zugänglichen  Bauten  und  Anlagen des Gemeinwesens finden die Art. 12 bis 14 auf Baubewilligungsverfahren, die vor Inkrafttreten dieses Gesetzes durch Einreichung des Baugesuchs  eingeleitet,  aber  noch  nicht  rechtskräftig  abgeschlossen  worden sind, keine Anwendung.
+1) Mit  Ausnahme  von  öffentlich  zugänglichen  Bauten  und  Anlagen des Gemeinwesens finden die Art. 12 bis 14 auf Baubewilligungsverfahren, die vor Inkrafttreten dieses Gesetzes durch Einreichung des Baugesuchs  eingeleitet,  aber  noch  nicht  rechtskräftig  abgeschlossen  worden sind, keine Anwendung.
 
-- Auf Wohnbauförderungsgesuche, die vor Inkrafttreten dieses Gesetzes  eingereicht,  aber  noch  nicht  rechtskräftig  abgeschlossen  worden sind, findet Art. 14 gleichfalls keine Anwendung.
+2) Auf Wohnbauförderungsgesuche, die vor Inkrafttreten dieses Gesetzes  eingereicht,  aber  noch  nicht  rechtskräftig  abgeschlossen  worden sind, findet Art. 14 gleichfalls keine Anwendung.
 
 ##### Art. 35
 
