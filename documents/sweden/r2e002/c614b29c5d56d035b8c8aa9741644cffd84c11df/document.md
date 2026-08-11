@@ -6,6 +6,9 @@ Swedish Code of Statutes
 
 issued on 5 June 2008.
 
+SFS 2008:567
+Published 25 June 2008
+
 In accordance with a decision by the Riksdag 1 , the following is enacted 2 .
 
 ## Chapter  1. Introductory  provisions
@@ -22,11 +25,9 @@ The  purpose  of  this  Act is to combat  discrimination  and in  other  ways  p
 
 The first chapter of the Act contains definitions and other introductory  provisions. The second chapter contains  provisions  on  prohibitions  against  discrimination  and  reprisals.  The  third  chapter  contains provisions on active measures. The fourth chapter contains provisions  on supervision. The fifth chapter contains  provisions  on  compensation  and  invalidity.  The  sixth  chapter  contains  provisions  on  legal proceedings.
 
-> 1
+> 1 Government Bill 2007/08:95, Committee Report 2007/08: AU7, Riksdag Communication 2007/08:219.
 
-> Government Bill 2007/08:95, Committee Report 2007/08: AU7, Riksdag Communication 2007/08:219. 2 Cf. Council Directive 75/117/EEC of 10 February 1975 on the approximation of the laws of the Member States relating to the application of the principle of equal pay for men and women (OJ L 045, 19/02/1975, p. 19, Celex 31975L0117), Council Directive 76/207/EEC of 9 February 1976 on the implementation of the principle of equal treatment for men and women as regards access to employment, vocational training and promotion, and working conditions (OJ L 039, 14/02/1976, p. 40, Celex 31976L0207), amended by Directive 2002/73/EC of the European Parliament and of the Council of 23 September 2002 amending Council Directive 76/207/EEC (OJ L 269, 05/10/2002, p. 15, Celex 32002L0073), Council Directive 79/7/EEC of 19 December 1978 on the progressive implementation of the principle of equal treatment for men and women in matters of social security (OJ L 006, 10/01/1979, p. 24, Celex 31979L0007), Council Directive 86/613/EEC of 11 December 1986 on the application of the principle of equal treatment between men and women engaged in an activity, including agriculture, in a selfemployed capacity, and on the protection of self-employed women during pregnancy and motherhood (OJ L 359, 19/12/1986, p. 56, Celex 31986L0613), Council Directive 97/80/EC of 15 December 1997 on the burden of proof in cases of discrimination based on sex (OJ L 014, 20/01/1998, p. 6, Celex 31997L0080), Council Directive 2000/43/EC of 29 June 2000 implementing the principle of equal treatment between persons irrespective of racial or ethnic origin (OJ L 180, 19/07/2000, p. 22, Celex 32000L0043), Council Directive 2000/78/EC of 27 November 2000 establishing a general framework for equal treatment in employment and occupation (OJ L 303, 02/12/2000, p. 16, Celex 32000L0078), Council Directive 2004/113/EC of 13 December 2004 implementing the principle of equal treatment between men and women in the access to and supply of goods and services (OJ L 373, 21/12/2004, p. 37, Celex 32004L0113) and Directive 2006/54/EC of the European Parliament and of the Council of 5 July 2006 on the implementation of the principle of equal opportunities and equal treatment of men and women in matters of employment and occupation (recast) (OJ L 204, 26/07/2006, p. 23, Celex 32006L0054).
-
-SFS 2008:567 Published 25 June 2008
+> 2 Cf. Council Directive 75/117/EEC of 10 February 1975 on the approximation of the laws of the Member States relating to the application of the principle of equal pay for men and women (OJ L 045, 19/02/1975, p. 19, Celex 31975L0117), Council Directive 76/207/EEC of 9 February 1976 on the implementation of the principle of equal treatment for men and women as regards access to employment, vocational training and promotion, and working conditions (OJ L 039, 14/02/1976, p. 40, Celex 31976L0207), amended by Directive 2002/73/EC of the European Parliament and of the Council of 23 September 2002 amending Council Directive 76/207/EEC (OJ L 269, 05/10/2002, p. 15, Celex 32002L0073), Council Directive 79/7/EEC of 19 December 1978 on the progressive implementation of the principle of equal treatment for men and women in matters of social security (OJ L 006, 10/01/1979, p. 24, Celex 31979L0007), Council Directive 86/613/EEC of 11 December 1986 on the application of the principle of equal treatment between men and women engaged in an activity, including agriculture, in a self-employed capacity, and on the protection of self-employed women during pregnancy and motherhood (OJ L 359, 19/12/1986, p. 56, Celex 31986L0613), Council Directive 97/80/EC of 15 December 1997 on the burden of proof in cases of discrimination based on sex (OJ L 014, 20/01/1998, p. 6, Celex 31997L0080), Council Directive 2000/43/EC of 29 June 2000 implementing the principle of equal treatment between persons irrespective of racial or ethnic origin (OJ L 180, 19/07/2000, p. 22, Celex 32000L0043), Council Directive 2000/78/EC of 27 November 2000 establishing a general framework for equal treatment in employment and occupation (OJ L 303, 02/12/2000, p. 16, Celex 32000L0078), Council Directive 2004/113/EC of 13 December 2004 implementing the principle of equal treatment between men and women in the access to and supply of goods and services (OJ L 373, 21/12/2004, p. 37, Celex 32004L0113) and Directive 2006/54/EC of the European Parliament and of the Council of 5 July 2006 on the implementation of the principle of equal opportunities and equal treatment of men and women in matters of employment and occupation (recast) (OJ L 204, 26/07/2006, p. 23, Celex 32006L0054).
 
 [[END OF PAGE 1]]
 
@@ -44,15 +45,15 @@ A contract or agreement that restricts someone's rights  or obligations under th
 
 In this Act discrimination has the meaning set out in this Section.
 
-- Direct discrimination : that someone is disadvantaged by being treated less favourably  than someone else  is  treated,  has  been  treated  or  would  have  been  treated  in  a  comparable  situation,  if  this disadvantaging is associated with  sex, transgender identity  or expression, ethnicity, religion or other belief, disability,  sexual orientation or age.
+1. Direct discrimination: that someone is disadvantaged by being treated less favourably than someone else is treated, has been treated or would have been treated in a comparable situation, if this disadvantaging is associated with sex, transgender identity or expression, ethnicity, religion or other belief, disability, sexual orientation or age.
 
-- Indirect discrimination : that someone is disadvantaged by the application of a provision,  a criterion or  a  procedure  that  appears  neutral  but  that  may  put  people  of  a  certain  sex,  a  certain  transgender identity    or  expression,  a  certain  ethnicity,    a  certain  religion    or  other  belief,  a  certain  disability,    a certain sexual orientation or a certain age at a particular  disadvantage, unless the provision,  criterion or procedure has a legitimate  purpose and the means that are used are appropriate  and necessary to achieve that purpose.
+2. Indirect discrimination: that someone is disadvantaged by the application of a provision, a criterion or a procedure that appears neutral but that may put people of a certain sex, a certain transgender identity or expression, a certain ethnicity, a certain religion or other belief, a certain disability, a certain sexual orientation or a certain age at a particular disadvantage, unless the provision, criterion or procedure has a legitimate purpose and the means that are used are appropriate and necessary to achieve that purpose.
 
-- Harassment : conduct that violates a person's dignity and that is associated with one of the grounds of discrimination  sex,  transgender  identity    or  expression,  ethnicity,  religion  or  other  belief,  disability, sexual orientation or age.
+3. Harassment: conduct that violates a person’s dignity and that is associated with one of the grounds of discrimination sex, transgender identity or expression, ethnicity, religion or other belief, disability, sexual orientation or age.
 
-- Sexual harassment : conduct of a sexual nature that violates someone's dignity.
+4. Sexual harassment: conduct of a sexual nature that violates someone’s dignity.
 
-- Instructions  to  discriminate :  orders  or  instructions  to  discriminate    against  someone  in  a  manner referred  to  in  points  1-4  that  are  given  to  someone  who  is  in  a  subordinate    or  dependent  position relative to the person who gives the orders or instructions or to someone who has committed herself or himself to performing  an assignment for that person.
+5. Instructions to discriminate: orders or instructions to discriminate against someone in a manner referred to in points 1–4 that are given to someone who is in a subordinate or dependent position relative to the person who gives the orders or instructions or to someone who has committed herself or himself to performing an assignment for that person.
 
 #### Sex, transgender  identity or expression, ethnicity, disability, sexual orientation and age
 
@@ -60,17 +61,17 @@ In this Act discrimination has the meaning set out in this Section.
 
 In this Act the following terms have the meaning set out in this Section.
 
-- Sex : that someone is a woman or a man.
+1. Sex: that someone is a woman or a man.
 
-- Transgender identity or expression : that someone does not identify herself or himself  as a woman or a man or expresses by their manner of dressing or in some other way that they belong to another sex.
+2. Transgender identity or expression: that someone does not identify herself or himself as a woman or a man or expresses by their manner of dressing or in some other way that they belong to another sex.
 
-- Ethnicity : national or ethnic origin, skin colour or other similar circumstance.
+3. Ethnicity: national or ethnic origin, skin colour or other similar circumstance.
 
-- Disability : permanent physical, mental or intellectual limitation of a person's functional capacity that as a consequence of injury or illness existed at birth, has arisen since then or can be expected to arise.
+4. Disability: permanent physical, mental or intellectual limitation of a person’s functional capacity that as a consequence of injury or illness existed at birth, has arisen since then or can be expected to arise.
 
-- Sexual orientation :  homosexual, bisexual or heterosexual orientation.
+5. Sexual orientation: homosexual, bisexual or heterosexual orientation.
 
-- Age : length of life to date.
+6. Age: length of life to date.
 
 A person who intends to change or has changed the sex they belong to is  also covered by sex as a grounds  of discrimination.
 
@@ -88,13 +89,13 @@ A person who intends to change or has changed the sex they belong to is  also co
 
 An employer may not discriminate against a person who, with respect to the employer,
 
-- is an employee,
+1. is an employee,
 
-- is enquiring about or applying for work,
+2. is enquiring about or applying for work,
 
-- is applying for or carrying out a traineeship, or
+3. is applying for or carrying out a traineeship, or
 
-- is available to perform work or is performing work as temporary  or borrowed labour.
+4. is available to perform work or is performing work as temporary or borrowed labour.
 
 The prohibition of discrimination also applies in cases where the employer, by taking reasonable support and adaptation  measures, can see to it that an employee, a job applicant or a trainee with a disability  is put in a comparable situation to people without  such a disability.
 
@@ -104,13 +105,13 @@ A person who has the right to make decisions on the employer's behalf in matters
 
 The prohibition in Section 1 does not prevent
 
-1. differential treatment based on a characteristic  associated with one of the grounds of discrimination if, when a decision is made on employment, promotion or education or training for promotion, by reason of the nature of the work or the context in which the work is carried out, the characteristic constitutes a genuine and determining  occupational requirement that has a legitimate  purpose and the requirement is appropriate and necessary to achieve that purpose,
+1. differential treatment based on a characteristic associated with one of the grounds of discrimination if, when a decision is made on employment, promotion or education or training for promotion, by reason of the nature of the work or the context in which the work is carried out, the characteristic constitutes a genuine and determining occupational requirement that has a legitimate purpose and the requirement is appropriate and necessary to achieve that purpose,
 
-- measures that contribute  to efforts to  promote equality between women and men and that concern matters other than pay or other terms of employment,
+2. measures that contribute to efforts to promote equality between women and men and that concern matters other than pay or other terms of employment,
 
-3. the application of age limits with regard to the right to pension, survivor's  or invalidity benefits in individual  contracts or collective  agreements, or
+3. the application of age limits with regard to the right to pension, survivor’s or invalidity benefits in individual contracts or collective agreements, or
 
-- differential  treatment on grounds of age, if there is a legitimate  purpose and the means that are used are appropriate  and necessary to achieve that purpose.
+4. differential treatment on grounds of age, if there is a legitimate purpose and the means that are used are appropriate and necessary to achieve that purpose.
 
 #### Obligation to investigate  and take measures against  harassment
 
@@ -124,11 +125,12 @@ This obligation  also applies with respect to a person carrying  out a traineesh
 
 ##### Section 4
 
-If a job applicant has not been employed or selected for an employment interview, or if an employee has not been promoted or selected for education or training for promotion, the applicant  shall,  upon  request,  receive  written  information    from  the  employer  about  the  education, professional  experience  and  other  qualifications    that  the  person  had  who  was  selected  for  the employment interview or who obtained the job or the place in education or training.
+If a job applicant has not been employed or selected for an employment interview, or if an employee has not been promoted or selected for education or training for promotion, the
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+applicant shall, upon request, receive written information from the employer about the education, professional experience and other qualifications that the person had who was selected for the employment interview or who obtained the job or the place in education or training.
 
 ### Education
 
@@ -146,11 +148,11 @@ Higher  Education  Act  (1992:1434)  or  for  education  that  can  lead  to  a 
 
 The prohibition in Section 5 does not prevent
 
-- measures that contribute  to efforts to promote equality between women and men in  admissions to education other than that referred to in the Education Act (2010:800),
+1. measures that contribute to efforts to promote equality between women and men in admissions to education other than that referred to in the Education Act (2010:800),
 
-- the application of provisions that take account of age with regard to preschool education, preschool classes, compulsory  schools,  compulsory  schools for pupils with learning disabilities, Sami schools, special schools or recreational school centres, or educational activities referred to in Chapter 25 of the Education Act, or
+2. the application of provisions that take account of age with regard to preschool education, preschool classes, compulsory schools, compulsory schools for pupils with learning disabilities, Sami schools, special schools or recreational school centres, or educational activities referred to in Chapter 25 of the Education Act, or
 
-3. differential  treatment on grounds of age, if there is a legitimate  purpose and the means that are used are appropriate  and necessary to achieve that purpose.
+3. differential treatment on grounds of age, if there is a legitimate purpose and the means that are used are appropriate and necessary to achieve that purpose.
 
 Nor does the prohibition  prevent a folk high school or a study association from taking measures that contribute  to efforts to promote equal rights and opportunities regardless of ethnicity, religion or other belief. [Act (2010:861)].
 
@@ -178,9 +180,9 @@ Discrimination  against  applicants  or  employees  is  prohibited  with  regard
 
 However, this prohibition does not prevent
 
-- measures that contribute  to efforts to promote equality between women and men or equal rights and opportunities regardless of ethnicity, or
+1. measures that contribute to efforts to promote equality between women and men or equal rights and opportunities regardless of ethnicity, or
 
-- differential  treatment on grounds of age, if there is a legitimate  purpose and the means that are used are appropriate  and necessary to achieve that purpose.
+2. differential treatment on grounds of age, if there is a legitimate purpose and the means that are used are appropriate and necessary to achieve that purpose.
 
 ### Starting or running a business and professional recognition
 
@@ -188,9 +190,9 @@ However, this prohibition does not prevent
 
 Discrimination is prohibited with regard to
 
-- financial support, permits, registration or similar  arrangements that are needed or can be important for someone to be able to start or run a business, and
+1. financial support, permits, registration or similar arrangements that are needed or can be important for someone to be able to start or run a business, and
 
-- recognition,  certification,  authorisation,  registration,  approval  or  similar  arrangements  that  are needed or can be important  for someone to be able to exercise a certain profession.
+2. recognition, certification, authorisation, registration, approval or similar arrangements that are needed or can be important for someone to be able to exercise a certain profession.
 
 These  prohibitions  do  not  prevent  differential    treatment  on  grounds  of  age,  if  there  is  a  legitimate purpose and the means that are used are appropriate and necessary to achieve that purpose.
 
@@ -202,9 +204,9 @@ Nor  does  the  prohibition  in  the  first  paragraph,  point  1  prevent  meas
 
 Discrimination is prohibited with regard to
 
-- membership  of  or  participation in an employees'  organisation,  employers'  organisation  or professional organisation, and
+1. membership of or participation in an employees’ organisation, employers’ organisation or professional organisation, and
 
-- benefits that any such organisation provides to its members.
+2. benefits that any such organisation provides to its members.
 
 This prohibition does not prevent an organisation from providing benefits to members of one sex so as to contribute to efforts to promote equality between women and men.
 
@@ -218,9 +220,9 @@ This prohibition does not prevent an organisation from providing benefits to mem
 
 Discrimination is prohibited on the part of a natural or legal person who
 
-- supplies goods, services or housing to the general public, outside the private and family sphere, or
+1. supplies goods, services or housing to the general public, outside the private and family sphere, or
 
-- organises a meeting or event that is open to the public.
+2. organises a meeting or event that is open to the public.
 
 A person who represents a person referred to in  the first paragraph in relation  to  the public, shall be equated with that person. [Act (2012:483)].
 
@@ -234,13 +236,13 @@ With regard to insurance services, however, insurance premiums charged or insura
 
 The prohibition of discrimination in Section 12 associated with age
 
-- does not prevent the application of provisions of an act in which a certain age is prescribed,
+1. does not prevent the application of provisions of an act in which a certain age is prescribed,
 
-- does not apply to the provision of insurance services,
+2. does not apply to the provision of insurance services,
 
-- does  not  prevent  the  application  of  lower  age  limits  for  admission  to  establishments  where  spirit drinks,  wine,  strong  beer  and  other  fermented  alcoholic  beverages  which  the  business  operator  is licensed to serve are served on a commercial basis, and
+3. does not prevent the application of lower age limits for admission to establishments where spirit drinks, wine, strong beer and other fermented alcoholic beverages which the business operator is licensed to serve are served on a commercial basis, and
 
-- does  not  prevent  other  differential  treatment  on  grounds  of  age  either  if  the  differential  treatment serves a legitimate purpose and the means that are used are appropriate and necessary to achieve that purpose. Act (2012:673).
+4. does not prevent other differential treatment on grounds of age either if the differential treatment serves a legitimate purpose and the means that are used are appropriate and necessary to achieve that purpose. Act (2012:673).
 
 ### Health and medical care and social services etc.
 
@@ -248,19 +250,23 @@ The prohibition of discrimination in Section 12 associated with age
 
 Discriminations is prohibited with regard to
 
-- health and medical care and other medical services, and
+1. health and medical care and other medical services, and
 
-- social services activities, and3. assistance in the form of special transport services and national special transport services and housing adaptation allowances. [Act (2012:673)].
+2. social services activities, and
+
+3. assistance in the form of special transport services and national special transport services and housing adaptation allowances. [Act (2012:673)].
 
 ##### Section 13 a
 
-The prohibition of discrimination in Section 13, points 1 and 2, associated with sex does not prevent women and men being treated differently if this has a legitimate purpose and he means that are used are appropriate and necessary to achieve that purpose. [Act (2012:673)].
+The prohibition of discrimination in Section 13, points 1 and 2, associated with sex does not prevent women and men being treated differently if this has a legitimate purpose and the means that are used are appropriate and necessary to achieve that purpose. [Act (2012:673)].
 
 ##### Section 13 b
 
-The prohibition of discrimination in Section 13 associated with age does not prevent 1. the application of provisions of an act in which a certain age is prescribed, or
+The prohibition of discrimination in Section 13 associated with age does not prevent
 
-- other differential treatment on grounds of age if the differential treatment serves a legitimate purpose and the means that are used are appropriate and necessary to achieve that purpose. [Act (2012:673)].
+1. the application of provisions of an act in which a certain age is prescribed, or
+
+2. other differential treatment on grounds of age if the differential treatment serves a legitimate purpose and the means that are used are appropriate and necessary to achieve that purpose. [Act (2012:673)].
 
 [[END OF PAGE 6]]
 
@@ -272,11 +278,11 @@ The prohibition of discrimination in Section 13 associated with age does not pre
 
 Discrimination is prohibited with regard to
 
-- social insurance and related benefit systems,
+1. social insurance and related benefit systems,
 
-- unemployment insurance, and
+2. unemployment insurance, and
 
-- state financial  aid for studies. [Act (2012:673)].
+3. state financial aid for studies. [Act (2012:673)].
 
 ##### Section 14a
 
@@ -284,9 +290,11 @@ The  prohibition  of  discrimination  in  Section  14,  point  1,  associated  w
 
 ##### Section 14b
 
-The prohibition of discrimination in Section 14 associated with age does not prevent 1. the application of  provisions of an act in which a certain age is prescribed, or
+The prohibition of discrimination in Section 14 associated with age does not prevent
 
-- other differential treatment on grounds of age if the differential treatment serves a legitimate purpose and the means that are used are appropriate and necessary to achieve that purpose. [Act (2012:673)].
+1. the application of provisions of an act in which a certain age is prescribed, or
+
+2. other differential treatment on grounds of age if the differential treatment serves a legitimate purpose and the means that are used are appropriate and necessary to achieve that purpose. [Act (2012:673)].
 
 ### National military  service and civilian service
 
@@ -296,9 +304,9 @@ The prohibition of discrimination in Section 14 associated with age does not pre
 
 Discrimination is prohibited
 
-- in connection with enrolment procedures or other examination of personal circumstances under the National Total Defence Service Act (1994:1809) and in connection with enlistment for and during the performance of national military service or civilian service, and
+1. in connection with enrolment procedures or other examination of personal circumstances under the National Total Defence Service Act (1994:1809) and in connection with enlistment for and during the performance of national military service or civilian service, and
 
-- in  connection  with  admission  examinations  for  and  during  the  performance  of  other  equivalent military training in the Swedish Armed Forces.
+2. in connection with admission examinations for and during the performance of other equivalent military training in the Swedish Armed Forces.
 
 However, this prohibition does not apply to discrimination associated with age.
 
@@ -314,25 +322,30 @@ If a government agency or an organisation covered by the prohibition in Section 
 
 [[START OF PAGE 8]]
 
-However, the first paragraph does not apply to harassment associated with age. Act (2010:464). . [Act (2010:464)].
+However, the first paragraph does not apply to harassment associated with age. Act (2010:464).
 
 ### Public employment
 
 ##### Section 17
 
-Discrimination is also prohibited in cases other than those referred  to in Section 5 or Sections 9-15 when a person who is wholly or partly subject to the Public Employment Act (1994:260) 1. assists the public  by providing information,  guidance, advice or other such help, or 2. has other types of contacts with the public in the course of her or his employment.
+Discrimination is also prohibited in cases other than those referred to in Section 5 or Sections 9–15 when a person who is wholly or partly subject to the Public Employment Act (1994:260)
 
+1. assists the public by providing information, guidance, advice or other such help, or
+
+2. has other types of contacts with the public in the course of her or his employment.
 [Act (2012:673)].
 
 ### Prohibition of reprisals
 
 ##### Section 18
 
-An employer may not subject an employee to reprisals because the employee has 1. reported or called attention to the fact that the employer has acted contrary to this Act,
+An employer may not subject an employee to reprisals because the employee has
 
-- participated in an investigation under this Act, or
+1. reported or called attention to the fact that the employer has acted contrary to this Act,
 
-- rejected or given in to harassment or sexual harassment on the part of the employer.
+2. participated in an investigation under this Act, or
+
+3. rejected or given in to harassment or sexual harassment on the part of the employer.
 
 The prohibition  also applies in relation to a person who, with respect to the employer,
 
@@ -346,15 +359,13 @@ A person who has the right to make decisions on the employer's behalf in matters
 
 ##### Section 19
 
-A person who is alleged to have acted contrary to the provisions of Chapter 2, Section 5, 7, 9,
+A person who is alleged to have acted contrary to the provisions of Chapter 2, Section 5, 7, 9, 10, 11, 12, 12a, 13, 14, 15, 16 or 17 or Chapter 3, Section 15 or 16 may not subject an individual to reprisals because that individual has
 
-10, 11, 12, 12a, 13, 14, 15, 16 or 17 or Chapter 3, Section 15 or 16 may not subject an individual  to reprisals because that individual  has
+1. reported or called attention to such actions,
 
-- reported or called attention to such actions,
+2. participated in an investigation under this Act, or
 
-- participated in an investigation under this Act, or
-
-- rejected or given in to harassment or sexual harassment on the part of the person who is alleged to have engaged in discrimination. [Act (2012:483)].
+3. rejected or given in to harassment or sexual harassment on the part of the person who is alleged to have engaged in discrimination. [Act (2012:483)].
 
 ## Chapter 3. Active measures
 
@@ -382,7 +393,7 @@ Work is to be regarded as of equal value to other work if, on an overall  assess
 
 Within  the  framework  of  their  activities,  employers  are  to  conduct  goal-oriented  work  to  actively promote  equal  rights  and  opportunities  in  working  life  regardless  of  sex,  ethnicity,  religion  or  other belief.
 
-More detailed regulations on the obligations of employers are provided in Sections 4-13.
+More detailed regulations on the obligations of employers are provided in Sections 4–13.
 
 #### Working conditions
 
@@ -448,7 +459,7 @@ The  obligation  to  draw  up  an  action  plan  for  equal  pay  does  not  app
 
 Employers are to provide employees' organisations with respect to which they are bound by a collective agreement  with  the  information  needed  for  the  organisations  to  be  able  to  cooperate  in  the  survey, analysis and drawing up of an action plan for equal pay.
 
-If the information  concerns data on pay or other circumstances that relate to an individual employee, the rules  on  confidentiality  and  damages  contained  in  Sections  21,  22  and  56  of  the  Employment  (Codetermination in the Workplace) Act (1976:580) apply. In public sector activities, Chapter 10, Sections 11-14 and Chapter 12, Section 2 of the Secrecy Act (2009:400) apply instead. [Act 2009:526)].
+If the information concerns data on pay or other circumstances that relate to an individual employee, the rules on confidentiality and damages contained in Sections 21, 22 and 56 of the Employment (Co-determination in the Workplace) Act (1976:580) apply. In public sector activities, Chapter 10, Sections 11–14 and Chapter 12, Section 2 of the Secrecy Act (2009:400) apply instead. [Act (2009:526)].
 
 #### Gender equality plan
 
@@ -458,7 +469,7 @@ If the information  concerns data on pay or other circumstances that relate to a
 
 ##### Section 13
 
-Every three years employers are to draw up a plan for their gender equality work. The plan is to contain an overview of the measures under Sections 4-9 that are needed at the place of work and an account of  which  of  these  measures  the  employer    intends  to  begin  or  implement  during  the  coming years.
+Every three years employers are to draw up a plan for their gender equality work. The plan is to contain an overview of the measures under Sections 4–9 that are needed at the place of work and an account of which of these measures the employer intends to begin or implement during the coming years.
 
 The plan is also  to  contain  a  summary account of the  action plan for equal pay that the employer  is required to draw up under Section 11.
 
@@ -472,7 +483,7 @@ The obligation to draw up a gender equality plan does not apply to employers who
 
 ##### Section 14
 
-An education  provider  conducting  education  or  other  activities  under  the  Education  Act  (2010:800), education  under  the  Higher  Education  Act  (1992:1434)  or  education  that  can  lead  to  a  qualification under  the  Act  concerning  authority  to  award  certain  qualifications  (1993:792)  is  to  conduct  goaloriented  work  within  the  framework  of  these  activities    to  actively  promote  equal  rights  and opportunities  for  the  children,  pupils  or  students  participating  in  or  applying  for  the  activities, regardless of sex, ethnicity, religion or other belief, disability or sexual orientation.
+An education provider conducting education or other activities under the Education Act (2010:800), education under the Higher Education Act (1992:1434) or education that can lead to a qualification under the Act concerning authority to award certain qualifications (1993:792) is to conduct goal-oriented work within the framework of these activities to actively promote equal rights and opportunities for the children, pupils or students participating in or applying for the activities, regardless of sex, ethnicity, religion or other belief, disability or sexual orientation.
 
 More detailed regulations on the obligations of education providers are provided in Sections 15 and 16. [Act (2010:861)].
 
@@ -488,7 +499,7 @@ An education provider referred to  in Section 14 is to  take measures to prevent
 
 An education provider referred to in Section 14 is to draw up a plan each year containing an overview of the measures needed to (1) promote equal rights and opportunities for the children, pupils or  students participating    in  or  applying  for  the  activities,    regardless  of  sex,  ethnicity,  religion  or  other  belief, disability  or  sexual  orientation,  and  (2)  prevent  and  hinder  harassment  referred  to  in  Section  15.  The plan is  to  contain  an  account  of  which  of  these  measures  the  education  provider    intends  to  begin  or implement during the coming year.
 
-n  account  of  how  the  measures  planned  under  the  first  paragraph  have  been  implemented  is  to  be included in the next year's plan.
+An account of how the measures planned under the first paragraph have been implemented is to be included in the next year’s plan.
 
 [[END OF PAGE 11]]
 
@@ -524,7 +535,7 @@ A  natural  or  legal  person  who  is  subject  to  the  prohibitions  of  disc
 
 4. to attend discussions with the Ombudsman.
 
-The obligations specified in points 1-3 do not apply if there are special grounds against their doing so in an individual  case.
+The obligations specified in points 1–3 do not apply if there are special grounds against their doing so in an individual case.
 
 #### Financial penalty
 
@@ -542,7 +553,7 @@ A financial penalty order under the first paragraph shall be served. Act (2010:1
 
 A natural or legal person who does not fulfil his or her obligations concerning active measures under Chapter 3, Section 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15 or 16 may be ordered to fulfil them subject to a financial  penalty. Such orders are issued by the Board against Discrimination  on application from the Equality    Ombudsman.  They  can  also  be  directed  towards  the  State  as  an  employer  or  as  the  entity responsible for educational activities.
 
-If the Ombudsman has declared that he or she does not want to apply to the Board for a financial penalty to  be  ordered,  a  central  employees'  organisation  with  respect  to  which  the  employer  is  bound  by  a collective    agreement  may  make  an  application    concerning  active  measures  in  working  life  under Chapter 3, Sections 4-13.
+If the Ombudsman has declared that he or she does not want to apply to the Board for a financial penalty to be ordered, a central employees’ organisation with respect to which the employer is bound by a collective agreement may make an application concerning active measures in working life under Chapter 3, Sections 4–13.
 
 The application is to state the measures that should be required of the party that the application concerns, the grounds referred to in support of the application and what investigation  has been made of the matter.
 
@@ -558,7 +569,7 @@ No  appeal  may  be  made  against  decisions  of  the  Equality  Ombudsman  und
 
 ##### Section 7
 
-The Board against Discrimination examines applications for financial penalties under Section 5 and appeals against decisions concerning orders for financial penalties under Section 4. In processing these cases, Sections 8-15a are to be applied. [Act (2010:1979)].
+The Board against Discrimination examines applications for financial penalties under Section 5 and appeals against decisions concerning orders for financial penalties under Section 4. In processing these cases, Sections 8–15a are to be applied. [Act (2010:1979)].
 
 #### Processing of an application  for a financial penalty
 
@@ -620,7 +631,7 @@ The Board may order the party that has appealed against the decision or that par
 
 #### Service of documents
 
-##### Section 1 a
+##### Section 15 a
 
 An application for a financial penalty under Section 8, a summons to attend a hearing under Section 11 or Section 15, and other documents that an employer or some other party is required to provide shall be served. [Act (2010:1979)].
 
@@ -644,25 +655,25 @@ In cases concerning the imposition of a financial penalty, the district court ma
 
 A decision of a university or other higher education institution for which the State is the responsible entity may, if it concerns education under the Higher Education Act (1992:1434), be appealed to the Higher Education Appeals Board on the grounds that the decision is contrary to
 
-- the prohibition of discrimination in Chapter 2, Section 5, first paragraph, if the decision concerns
+1. the prohibition of discrimination in Chapter 2, Section 5, first paragraph, if the decision concerns
 
-- admission to education,
+a) admission to education,
 
-- credit for education,
+b) credit for education,
 
-- deferment of studies or resumption of studies after time off from studies,
+c) deferment of studies or resumption of studies after time off from studies,
 
-- a change of supervisor,
+d) a change of supervisor,
 
-- withdrawal of a supervisor and other resources in third-cycle courses and study programmes,
+e) withdrawal of a supervisor and other resources in third-cycle courses and study programmes,
 
-- grants for research students, or
+f) grants for research students, or
 
-- a disciplinary measure against a student,
+g) a disciplinary measure against a student,
 
-- the prohibition of discrimination in Chapter 2, Section 5, second paragraph, or
+2. the prohibition of discrimination in Chapter 2, Section 5, second paragraph, or
 
-- the prohibition of reprisals in Chapter 2, Section 19.
+3. the prohibition of reprisals in Chapter 2, Section 19.
 
 If the Appeals Board finds that the appealed decision is contrary to one of the prohibitions and that this can be assumed to have influenced the outcome, the decision shall be set aside and the case, if necessary, referred back to the university or other higher education institution for re-examination.
 
@@ -722,7 +733,7 @@ The person at whose establishment the traineeship or work
 
 is being or would  have been carried out shall be regarded as employer. This also applies when the regulations on negotiations concerning disputes in the Employment (Co-determination in the Workplace) Act (1976:580) are applied.
 
-Cases concerning the application of Chapter 2, Section 5, 6, 7, 9, 10, 11, 12, 12a, 12b, 13, 13a, 13b,  14, 14a, 14b, 15, 16, 17 or 19 shall be examined by a general court and dealt with in accordance with the provisions of the Swedish Code of Judicial Procedure concerning procedures in civil cases in which out-of- court settlement of the matter is permitted. [Act (2012:673)].
+Cases concerning the application of Chapter 2, Section 5, 6, 7, 9, 10, 11, 12, 12a, 12b, 13, 13a, 13b, 14, 14a, 14b, 15, 16, 17 or 19 shall be examined by a general court and dealt with in accordance with the provisions of the Swedish Code of Judicial Procedure concerning procedures in civil cases in which out-of-court settlement of the matter is permitted. [Act (2012:673)].
 
 ### Right to bring an action
 
@@ -780,11 +791,12 @@ A statute of limitations  cannot be tolled more than once.
 
 ##### Section 6
 
-A legal action other than actions referred to in Section 4 must be brought within two years from the date on which the act to which attention is called was performed or from the last date on which an obligation  should have been fulfilled. Otherwise the right to bring legal action expires.
+A legal action other than actions referred to in Section 4 must be brought within two years
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
+from the date on which the act to which attention is called was performed or from the last date on which an obligation should have been fulfilled. Otherwise the right to bring legal action expires.
 
 If the action concerns a person who was under 18 years of age when the act was performed or the obligation should have been fulfilled at the latest, the time limit specified in the first paragraph is calculated from the day on which the person reached the age of 18.
 
@@ -828,33 +840,31 @@ When an individual  brings an action under this Act, the Equality Ombudsman or a
 
 The decision of the court in a case where the Equality Ombudsman or an association brings an action on behalf of an individual  may be appealed by the individual, if it may be appealed by the Ombudsman or the association.
 
-When the decision of the court in a case referred  to in the first paragraph has become final and nonappealable, the matter may not be reviewed on the action either of the individual or of the Equality Ombudsman or the association.
+When the decision of the court in a case referred to in the first paragraph has become final and non-appealable, the matter may not be reviewed on the action either of the individual or of the Equality Ombudsman or the association.
 
-- This Act enters into force on 1 January 2009.
+1. This Act enters into force on 1 January 2009.
 
-- This Act supersedes
+2. This Act supersedes
 
-- the Equal Opportunities Act (1991:433),
+– the Equal Opportunities Act (1991:433),
 
-- the Act on Measures against Discrimination in Working Life on Grounds of Ethnic Origin, Religion or other Belief (1999:130),
+– the Act on Measures against Discrimination in Working Life on Grounds of Ethnic Origin, Religion or other Belief (1999:130),
 
-- the Prohibition of Discrimination in Working Life on Grounds of Disability Act (1999:132),
+– the Prohibition of Discrimination in Working Life on Grounds of Disability Act (1999:132),
 
-- the Prohibition of Discrimination in Working Life because of Sexual Orientation Act (1999:133),
+– the Prohibition of Discrimination in Working Life because of Sexual Orientation Act (1999:133),
 
-- the Equal Treatment of Students at Universities  Act (2001:1286),
+– the Equal Treatment of Students at Universities Act (2001:1286),
 
-- the Prohibition of Discrimination Act (2003:307), and
+– the Prohibition of Discrimination Act (2003:307), and
 
-- the Act Prohibiting Discriminatory  and Other Degrading Treatment of Children and Pupils (2006:67).
+– the Act Prohibiting Discriminatory and Other Degrading Treatment of Children and Pupils (2006:67).
 
-- The superseded acts continue to apply with regard to discrimination  and reprisals that have taken place before this Act entered into force. After this Act enters into force, the duties incumbent  on an ombudsman under the superseded acts shall be fulfilled by the Equality Ombudsman. After this Act has entered into force, the duties incumbent under the superseded acts on the Equal Opportunities Commission or the Board against Discrimination shall be fulfilled by the Board against Discrimination.
+3. The superseded acts continue to apply with regard to discrimination and reprisals that have taken place before this Act entered into force. After this Act enters into force, the duties incumbent on an ombudsman under the superseded acts shall be fulfilled by the Equality Ombudsman. After this Act has entered into force, the duties incumbent under the superseded acts on the Equal Opportunities Commission or the Board against Discrimination shall be fulfilled by the Board against Discrimination.
 
-- The obligation of the employer under Chapter 3, Section 10 shall be performed for the first time in 2009 or the year in which the provision first becomes applicable.
+4. The obligation of the employer under Chapter 3, Section 10 shall be performed for the first time in 2009 or the year in which the provision first becomes applicable.
 
-- The obligations of the employer under Chapter 3, Sections 11 and 13 shall be performed for the first time in the year immediately following the start of the calendar year when the employer employed at least 25 employees or the year after that, if the obligation under
-
-Chapter 3, Section 10 is to be performed that year.
+5. The obligations of the employer under Chapter 3, Sections 11 and 13 shall be performed for the first time in the year immediately following the start of the calendar year when the employer employed at least 25 employees or the year after that, if the obligation under Chapter 3, Section 10 is to be performed that year.
 
 On behalf of the Government
 
