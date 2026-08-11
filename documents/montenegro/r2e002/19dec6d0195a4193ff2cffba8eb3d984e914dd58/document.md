@@ -4,6 +4,44 @@
 
 ## C o n t e n t s
 
+I BASIC PROVISIONS .............................................................................................. 73
+The Contents of the Law (Article 1) ...................................................................... 73
+The Aims of the Education (Article 2) ................................................................... 73
+The implementation of education (Article 3) ......................................................... 74
+Compulsory primary education (Article 4) ............................................................ 74
+Duration (Article 5) ............................................................................................... 74
+The status of pupil (Article 6) ............................................................................... 74
+Primary Education of Adults (Article 7) ................................................................ 74
+Primary Art Education (Article 8) .......................................................................... 75
+Children with Special Needs (Article 9) ................................................................ 75
+Talented Pupils (Article 10) .................................................................................. 75
+Interpretation Clause (Article 11) ......................................................................... 75
+II THE ORGANIZATION OF EDUCATIONAL WORK .............................................. 76
+The educational curriculum (Article 12) ................................................................ 76
+The Compulsory Subjects (Article 13) .................................................................. 76
+The Optional Subjects (Article 14) ....................................................................... 77
+Extra and Remedial Teaching (Article 15) ........................................................... 77
+Extended Curriculum (Article 16) .......................................................................... 77
+The Prolonged Stay (Article 17) ........................................................................... 77
+Optional teaching (Article 18) ............................................................................... 78
+Outdoors activities (Article 19) ............................................................................. 78
+Class Community (Article 20) ............................................................................... 78
+The Annual Plan (Article 21) ................................................................................ 78
+The Cycles (Article 22) ......................................................................................... 78
+The Number of Pupils per Class (Article 23) ........................................................ 79
+Multi-grade Class (Article 24) ............................................................................... 79
+Foreign Languages (Article 25) ............................................................................ 79
+Weekly Work and the Duration of the school lesson (Article 26) ......................... 80
+Schools for Teacher Training Practice (Article 27) .............................................. 80
+Contract (Article 28) ............................................................................................. 80
+Education Abroad (Article 29) .............................................................................. 80
+Teachers working abroad (Article 30) .................................................................. 81
+III PUPILS .................................................................................................................. 81
+Enrollment requirements (Article 31) .................................................................... 81
+The enrollment before the age of six (Article 32) ................................................. 81
+The enrollment into school (Article 33) ................................................................. 81
+The Delay of Schooling (Article 34) ...................................................................... 82
+
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
@@ -14,6 +52,49 @@ Law on Primary Education
 
 Ministry of Education and Science Montenegro
 
+Competent local self-government authority (Article 35) ....................................... 82
+The Obligations of the Parents (Article 36) .......................................................... 82
+The Right of Education at Home (Article 37) ........................................................ 82
+The assessment of knowledge resulting from the education at home (Article 38) ............................................................................................................................... 83
+The knowledge assessment at the end of a cycle – education at home (Article 39) ............................................................................................................................... 83
+The Obligation of Pupils (Article 40) ..................................................................... 84
+The Obligation of Pupils During Primary Education Obligation (Article 41) ......... 84
+Disciplinary Measures (Article 42) ........................................................................ 84
+The Release from the Physical Education Curriculum (Article 43) ...................... 84
+The Absence of Pupils (Article 44) ....................................................................... 85
+The Transfer from one School to Another (Article 45) ......................................... 85
+IV PROGRESS AND MARKING OF PUPILS ........................................................... 85
+Marking (Article 46) .............................................................................................. 85
+Marking per cycles (Article 47) ............................................................................. 85
+The Marking per Periods (Article 48) ................................................................... 86
+The Establishing of Marks (Article 49) ................................................................. 86
+General Success (Article 50) ................................................................................ 86
+The Repetition of Grade (Article 51) .................................................................... 86
+Remedial Examination (Article 52) ....................................................................... 87
+Remedial Examination Period (Article 53) ........................................................... 87
+Examination Commission (Article 54) .................................................................. 87
+The Assessment of Knowledge (Article 55) ......................................................... 88
+External Assessment of Knowledge (Article 56) .................................................. 88
+Grade Exam (Article 57) ....................................................................................... 88
+Sitting for the Grade Exam (Article 58) ................................................................ 88
+The marking of pupils on the grade exam (Article 59) ......................................... 89
+Extreme progression of the Pupils (Article 60) ..................................................... 89
+Talented Pupils (Article 61) .................................................................................. 89
+Complaint Relating to the Marks (Article 62) ........................................................ 89
+The Annulment of Exams (Article 63) .................................................................. 90
+The decision on the annulment of exams (Article 64) .......................................... 90
+Praises and Rewards (Article 65) ......................................................................... 90
+Disciplinary Measures (Article 66) ........................................................................ 90
+Regulations on Praises, Rewards and Disciplinary Measures (Article 67) .......... 91
+V PRIMARY ART EDUCATION ................................................................................ 91
+The Acquisition of Art Education (Article 68) ........................................................ 91
+Enrollment Requirements (Article 69) .................................................................. 91
+Educational Curriculum (Article 70) ...................................................................... 91
+Cycles in Art Schools (Article 71) ......................................................................... 92
+Teaching process (Article 72) .............................................................................. 92
+Obligatory Number of Lessons (Article 73) .......................................................... 92
+Annual Exam (Article 74) ...................................................................................... 92
+
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
@@ -23,6 +104,24 @@ Law on Primary Education
 Ministry of Education and Science Montenegro
 
 71
+
+VI TEACHERS AND PROFESSIONAL ASSOCIATES ............................................ 93
+Teaching and Educational Staff (Article 75) ......................................................... 93
+The Delivery of Teaching in the First and the Second Cycle (Article 76) ............ 93
+The Delivery of the Teaching Process in the Third Cycle (Article 77) ................. 94
+The delivery of Teaching (Article 78) ................................................................... 94
+Obligatory Number of Lessons (Article 79) .......................................................... 94
+The Working Hours of Educators (Article 80) ....................................................... 95
+VII PENAL PROVISIONS .......................................................................................... 95
+Fines (Article 81) .................................................................................................. 95
+VIII TRANSITIONAL AND FINAL PROVISIONS ..................................................... 95
+The educational curriculum (Article 82) ................................................................ 95
+The Fulfillment of Primary Schooling Obligation (Article 83) ................................ 96
+Teachers of subject teaching process having two-year post-secondary qualification (Article 84) ......................................................................................... 96
+By-laws (Article 85) .............................................................................................. 96
+General Documents (Article 86) ........................................................................... 96
+The Regulations that Cease to be Valid (Article 87) ............................................ 97
+Coming into Force (Article 88) ............................................................................. 97
 
 [[END OF PAGE 3]]
 
@@ -54,29 +153,29 @@ Primary  education,  as  a  part  of  the  unique  educational  system,  shall  
 
 The aims of the primary education are:
 
-- the providing of primary education for all the citizens;
+1) the providing of primary education for all the citizens;
 
-- the development of creative personalities;
+2) the development of creative personalities;
 
-- the  reaching  of  the  internationally  comparable  standards  of  knowledge, and  the  acquisition  of  the  knowledge  required  for  the  continuation  of education;
+3) the reaching of the internationally comparable standards of knowledge, and the acquisition of the knowledge required for the continuation of education;
 
-- the development of critical thinking, self-determination and the interest for new knowledge;
+4) the development of critical thinking, self-determination and the interest for new knowledge;
 
-- the grounding for self reliable reasoning and the participation in social life;
+5) the grounding for self reliable reasoning and the participation in social life;
 
-- the  gaining  of  general  knowledge  that  enables  the  independent,  efficient and creative application in practice;
+6) the gaining of general knowledge that enables the independent, efficient and creative application in practice;
 
-- the facilitation of pupil personalities development in line with their capabilities and with the development dispositions;
+7) the facilitation of pupil personalities development in line with their capabilities and with the development dispositions;
 
-- the education for respect toward the national, historical and cultural values, as well as for the recognizing the cultural and other characteristics of other nations;
+8) the education for respect toward the national, historical and cultural values, as well as for the recognizing the cultural and other characteristics of other nations;
 
-- the  education  for  mutual  tolerance,  respect  for  differences,  cooperation with  others,  respect  for  human  rights  and  fundamental  freedoms,  and along with that the development of the abilities for life within  a democratic society;
+9) the education for mutual tolerance, respect for differences, cooperation with others, respect for human rights and fundamental freedoms, and along with that the development of the abilities for life within a democratic society;
 
-- the adoption of knowledge relating to the basic regularities of nature and of society, as well as the maintenance of human health;
+10) the adoption of knowledge relating to the basic regularities of nature and of society, as well as the maintenance of human health;
 
-- the  development  of  democratic  attitudes,  tolerance  and  cooperation  (in schools and out of them) and the respect for the rights of others;
+11) the development of democratic attitudes, tolerance and cooperation (in schools and out of them) and the respect for the rights of others;
 
-- the formation and encouragement of the vigorous life style and responsible relation toward the natural surrounding.
+12) the formation and encouragement of the vigorous life style and responsible relation toward the natural surrounding.
 
 Ministry of Education and Science Montenegro
 
@@ -102,7 +201,7 @@ Parents or tutors shall be entitled to select the form of education for their ch
 
 #### Article 4
 
-- Primary education shall be compulsory for all children from the age of  6 to 15.
+Primary education shall be compulsory for all children from the age of 6 to 15.
 
 Parents or tutors (hereinafter referred to as: the parents) must ensure for their children to meet the compulsion of primary education, referred to in paragraph 1 of this Article.
 
@@ -430,8 +529,6 @@ Law on Primary Education
 
 ### Teachers working abroad
 
-### Enrollment requirements
-
 #### Article 30
 
 The educational work referred to in Article 29 of this Law can be carried out by  the  teacher  who,  in  addition  to  the  conditions  prescribed  by  this  Law,  has  at least four years of working experience within the profession, who stands out in the professional and pedagogical work and who knows the language of the country in which will the educational work will be carried out.
@@ -453,6 +550,8 @@ The Minister may make a decision on the cessation of a teacher's work abroad if 
 The mutual rights and liabilities between the Ministry and the teacher that has  been  sent  to  work  abroad  shall  be  more  closely  defined  by  an  employment agreement.
 
 ## III PUPILS
+
+### Enrollment requirements
 
 #### Article 31
 
@@ -540,7 +639,7 @@ The assessment of knowledge shall be carried out in the mother tongue, mathemati
 
 The assessment of knowledge from the fourth to the ninth grade shall be carried out in all subjects.
 
-If  a  pupil  has  not  achieved  the  standards  of  knowledge  prescribed  for particular  subjects  of  particular  grade,  the  pupil  shall  have  the  right  of  reassessment of knowledge before the commencement of the following school year.
+If a pupil has not achieved the standards of knowledge prescribed for particular subjects of particular grade, the pupil shall have the right of re-assessment of knowledge before the commencement of the following school year.
 
 If  the  re-assessment  of  knowledge  establishes  that  a  pupil  has  not achieved  the  defined  standards  of  knowledge,  the  pupil  must  continue  the education in the school during the following school year.
 
@@ -1026,17 +1125,17 @@ Professional associates in schools shall perform pedagogical and psychological, 
 
 Grade-teacher or teacher, subject-teacher and educator shall execute the educational work.
 
-Grade-teaching  instructor  or  teacher,  who  finished  the  two-year  postsecondary school or the Faculty for Teacher Training, shall perform the teaching in the first cycle.
+Grade-teaching instructor or teacher, who finished the two-year post-secondary school or the Faculty for Teacher Training, shall perform the teaching in the first cycle.
 
-Together with grade-teaching instructor or teacher, who finished the twoyears post-secondary school or the Faculty for Teacher Training, an educator, as the rule, shall deliver the teaching, lasting a half of the working hours, in the first grade.
+Together with grade-teaching instructor or teacher, who finished the two-years post-secondary school or the Faculty for Teacher Training, an educator, as the rule, shall deliver the teaching, lasting a half of the working hours, in the first grade.
 
 Educator is the person that has fulfilled the requirements for educators in line  with  the  Law  on  Preschool  Education,  and  that  passed  a  specific  exam (training)  necessary  for  the  work  in  primary  school  according  to  the  special curricula that are passed by the Ministry.
 
-Grade-teaching  instructor,  or  teacher,  who  finished  the  two-year  postsecondary school or the Faculty for Teacher Training, shall deliver the teaching in the fourth grade, whereas the subject-teaching lecturer shall execute the teaching of the foreign language.
+Grade-teaching instructor, or teacher, who finished the two-year post-secondary school or the Faculty for Teacher Training, shall deliver the teaching in the fourth grade, whereas the subject-teaching lecturer shall execute the teaching of the foreign language.
 
-Grade-teaching instructor, or teacher, who finished two-year postsecondary school or the Faculty for Teacher Training, shall execute the teaching in the  fifth  grade;  subject-teaching  lecturer  shall  execute  the  teaching  of  a  foreign language;  grade-teaching  instructor  or teacher  that finished  two-years  postsecondary school or the Faculty for Teacher Training, or subject-teaching lecturer may execute the training of physical education, music culture and of arts.
+Grade-teaching instructor, or teacher, who finished two-year post-secondary school or the Faculty for Teacher Training, shall execute the teaching in the fifth grade; subject-teaching lecturer shall execute the teaching of a foreign language; grade-teaching instructor or teacher that finished two-years post-secondary school or the Faculty for Teacher Training, or subject-teaching lecturer may execute the training of physical education, music culture and of arts.
 
-The  teaching  in  the  sixth  grade  shall  be  organized  as  the  group  and subject  teaching.  Grade-teaching  instructors,  or  teachers  that  finished  two-years post-secondary  school  or  the  Faculty  for  Teacher  Training,  as  well  as  subjectteaching lecturers shall deliver the teaching process.
+The teaching in the sixth grade shall be organized as the group and subject teaching. Grade-teaching instructors, or teachers that finished two-years post-secondary school or the Faculty for Teacher Training, as well as subject-teaching lecturers shall deliver the teaching process.
 
 Ministry of Education and Science Montenegro
 
@@ -1060,7 +1159,7 @@ Exceptionally to paragraph 6 of Article 76 of this Law, the teaching of the Serb
 
 Professional  associates  especially  pedagogically  trained  (psychologists, pedagogues, sociologists, speech therapists and special education teachers) shall work together with the teachers, in case of the classes in which there are children with special needs.
 
-The Ministry shall prescribe the professional qualification profile of subjectteaching lecturers.
+The Ministry shall prescribe the professional qualification profile of subject-teaching lecturers.
 
 ### The delivery of Teaching
 
@@ -1100,13 +1199,13 @@ Teachers are in obligation to execute two lessons of direct work with pupils mor
 
 ### The Working Hours of Educators
 
-### Fines
-
 #### Article 80
 
 An educator shall have the same number of lessons as a teacher within each form of educational work.
 
 ## VII PENAL PROVISIONS
+
+### Fines
 
 #### Article 81
 
@@ -1138,7 +1237,7 @@ Law on Primary Education
 
 The Ministry shall establish the fulfillment of the requirements referred to in paragraph 2 of this Article.
 
-Until  the  fulfillment  of  the  requirements,  in  line  with  this  law,  the  existing education curricula for primary school, passed on the basis of the Law on Primary School  ('Official  Gazette  of  RM',  NO.  34/91,  56/92,  32/93  and  20/95)  shall  be implemented in other schools.
+Until  the  fulfillment  of  the  requirements,  in  line  with  this  law,  the  existing education curricula for primary school, passed on the basis of the Law on Primary School  (“Official  Gazette  of  RM”,  NO.  34/91,  56/92,  32/93  and  20/95)  shall  be implemented in other schools.
 
 ### The Fulfillment of Primary Schooling Obligation
 
@@ -1152,15 +1251,15 @@ Persons acquired the education according to previous legislations shall be recog
 
 Subject teachers, that are employed for permanent period of time and do not have appropriate qualifications, prescribed by this Law, on the effective date of this Law shall continue their work.
 
-Teachers having two-year post-secondary qualification, or two-year postsecondary  qualification  for  the  teacher  training  may  start  the  employment  for permanent period of time in school, if no teacher being University qualified, or no teacher being qualified in the Faculty for the Teacher Training has applied for the competition.
+Teachers having two-year post-secondary qualification, or two-year post-secondary  qualification  for  the  teacher  training  may  start  the  employment  for permanent period of time in school, if no teacher being University qualified, or no teacher being qualified in the Faculty for the Teacher Training has applied for the competition.
 
 ### By-laws
 
 #### Article 85
 
-Regulations provided for by this law shall be passed within one year as of the effective day of this Law. Until the passing of regulations referred to in paragraph 1 of this Article, the regulations valid before the effective date of this Law shall be applied, unless they
+Regulations provided for by this law shall be passed within one year as of the effective day of this Law.
 
-are contrary to this Law.
+Until the passing of regulations referred to in paragraph 1 of this Article, the regulations valid before the effective date of this Law shall be applied, unless they are contrary to this Law.
 
 ### General Documents
 
@@ -1182,13 +1281,13 @@ Law on Primary Education
 
 #### Article 87
 
-Law on Primary School ('Official Gazette of RM', No. 34/91, 56/92, 32/93 and 20/95) shall cease to be effective at the end of the school year in which pupils shall complete primary education in accordance with education curricula existing in the moment.
+Law on Primary School (“Official Gazette of RM”, No. 34/91, 56/92, 32/93 and 20/95) shall cease to be effective at the end of the school year in which pupils shall complete primary education in accordance with education curricula existing in the moment.
 
 ### Coming into Force
 
 #### Article 88
 
-This  Law  shall  come  into  force  on  the  eighth  day  as  of  the  day  of  its publication  into  'Official  Gazette  of  the  Republic  of  Montenegro',  and  shall  be applied to schools working according to the education curricula passed in line with the Law.
+This  Law  shall  come  into  force  on  the  eighth  day  as  of  the  day  of  its publication  into  “Official  Gazette  of  the  Republic  of  Montenegro”,  and  shall  be applied to schools working according to the education curricula passed in line with the Law.
 
 Ministry of Education and Science Montenegro
 
