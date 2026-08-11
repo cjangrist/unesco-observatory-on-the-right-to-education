@@ -28,7 +28,7 @@ die Ausbildungsleistung in den nächsten drei Jahren deutlich zu erhöhen sowie 
 
 ### 1. Steigerung der Ausbildungsleistung
 
-Die  Wirtschaft  setzt  sich  das  verbindliche  Ziel,  während  der  dreijährigen Dauer  dieses  Paktes  im  Jahresdurchschnitt  30.000  neue  Ausbildungsplätze einzuwerben. Die Einwerbung neuer Ausbildungsplätze ist besonders wichtig, um die aus wirtschaftlichen und anderen Gründen entfallenden Ausbildungsplätze weitestgehend zu kompensieren bzw. die Zahl der Ausbildungsplätze möglichst zu erhöhen.
+Die Wirtschaft setzt sich das verbindliche Ziel, während der dreijährigen Dauer dieses Paktes im Jahresdurchschnitt 30.000 neue Ausbildungsplätze einzuwerben. Die Einwerbung neuer Ausbildungsplätze ist besonders wichtig, um die aus wirtschaftlichen und anderen Gründen entfallen-
 
 3
 
@@ -36,7 +36,9 @@ Die  Wirtschaft  setzt  sich  das  verbindliche  Ziel,  während  der  dreijähr
 
 [[START OF PAGE 4]]
 
-Die  Wirtschaft  sagt  zusätzlich  jährlich  die  Bereitstellung  von  insgesamt 25.000 Plätzen für betrieblich durchgeführte Einstiegsqualifikationen beginnend  mit  dem  Jahr  2004  zu.  Dabei  tragen  die  Betriebe  die  Sachund Personalkosten der Ausbildung; die  Bundesagentur  für  Arbeit zahlt einen Zuschuss des Bundes zum Unterhalt der Jugendlichen.
+den Ausbildungsplätze weitestgehend zu kompensieren bzw. die Zahl der Ausbildungsplätze möglichst zu erhöhen.
+
+Die Wirtschaft sagt zusätzlich jährlich die Bereitstellung von insgesamt 25.000 Plätzen für betrieblich durchgeführte Einstiegsqualifikationen beginnend mit dem Jahr 2004 zu. Dabei tragen die Betriebe die Sach- und Personalkosten der Ausbildung; die Bundesagentur für Arbeit zahlt einen Zuschuss des Bundes zum Unterhalt der Jugendlichen.
 
 Die Bundesregierung wird die Zahl der Ausbildungsplätze in der Bundesverwaltung im Jahr 2004 um rund 20% erhöhen. Sie wird darüber hinaus ihren Einfluss dahingehend geltend machen, dass auch die selbständigen Einrichtungen des Bundes ihre Ausbildungsleistung noch einmal deutlich erhöhen.
 
@@ -46,7 +48,7 @@ Die  ausbildungsfördernden  Maßnahmen  der  Bundesagentur  für  Arbeit werden
 
 ### 2. Optimierung des Vermittlungsprozesses
 
-Optimale Vermittlungsergebnisse in Ausbildung setzen eine genaue und aktuelle Kenntnis über regionale Qualifizierungsangebote als auch deren individuellen Nachfrage voraus. Ab diesem Jahr wird die  Bundesagentur für Arbeit daher die Jugendlichen durch ein Callcenter frühzeitig kontaktieren.  Hierdurch  werden  die  Vermittlungsbemühungen  auf  diejenigen Bewerber  konzentriert,  bei  denen  der  Bewerbungswunsch  fortbesteht. Auch die Aktualität des Angebotes freier Ausbildungsplätze ist durch das neue  Callcenter  sicherzustellen.  Dieses  setzt  sich  regelmäßig  mit  den Betrieben  in  Verbindung,  die  noch  offene  Ausbildungsplätze  gemeldet haben.  Auch  der  vorgesehene  Datenabgleich  zwischen  Kammern  und Agenturen für Arbeit wird zu einer Aktualisierung der Datengrundlagen im Vermittlungsprozess führen; das Ausbildungsbewerber-Profiling der Agenturen  für  Arbeit  wird  in  Zusammenarbeit  mit  der  Wirtschaft  weiterentwickelt.
+Optimale Vermittlungsergebnisse in Ausbildung setzen eine genaue und aktuelle Kenntnis über regionale Qualifizierungsangebote als auch deren individuellen Nachfrage voraus. Ab diesem Jahr wird die Bundesagentur für Arbeit daher die Jugendlichen durch ein Callcenter frühzeitig kontaktieren. Hierdurch werden die Vermittlungsbemühungen auf diejenigen
 
 4
 
@@ -54,11 +56,15 @@ Optimale Vermittlungsergebnisse in Ausbildung setzen eine genaue und aktuelle Ke
 
 [[START OF PAGE 5]]
 
-Ab September tauschen  Kammern und  Agenturen  für  Arbeit  die  Daten über die bis dahin unvermittelten Jugendlichen aus und laden sie gemeinsam ein, um jedem Jugendlichen ein Angebot auf einen Ausbildungsplatz in  der  dualen  Ausbildung  oder  eine  adäquate  Qualifizierungsperspektive zu unterbreiten, soweit erforderlich auf der Basis eines Kompetenzchecks, den die Agenturen für Arbeit unter Mitwirkung der Kammern durchführen. Ziel  des  Kompetenzchecks  ist  es,  die  vorhandenen  Kompetenzen  und Potentiale  festzustellen  sowie  ein  Eignungsprofil  für  die  berufliche  Ausbildung der unversorgten Jugendlichen abzuleiten.
+Bewerber konzentriert, bei denen der Bewerbungswunsch fortbesteht.
+
+Auch die Aktualität des Angebotes freier Ausbildungsplätze ist durch das neue Callcenter sicherzustellen. Dieses setzt sich regelmäßig mit den Betrieben in Verbindung, die noch offene Ausbildungsplätze gemeldet haben. Auch der vorgesehene Datenabgleich zwischen Kammern und Agenturen für Arbeit wird zu einer Aktualisierung der Datengrundlagen im Vermittlungsprozess führen; das Ausbildungsbewerber-Profiling der Agenturen für Arbeit wird in Zusammenarbeit mit der Wirtschaft weiterentwickelt.
+
+Ab September tauschen Kammern und Agenturen für Arbeit die Daten über die bis dahin unvermittelten Jugendlichen aus und laden sie gemeinsam ein, um jedem Jugendlichen ein Angebot auf einen Ausbildungsplatz in der dualen Ausbildung oder eine adäquate Qualifizierungsperspektive zu unterbreiten, soweit erforderlich auf der Basis eines Kompetenzchecks, den die Agenturen für Arbeit unter Mitwirkung der Kammern durchführen. Ziel des Kompetenzchecks ist es, die vorhandenen Kompetenzen und Potentiale festzustellen sowie ein Eignungsprofil für die berufliche Ausbildung der unversorgten Jugendlichen abzuleiten.
 
 Unvermittelte Bewerber aus früheren Schulabschlussjahrgängen mit erkennbar schlechten Vermittlungschancen werden bereits  ab dem 30.6. eingeladen, um diesen Jugendlichen möglichst frühzeitig ein Angebot auf Ausbildung zu machen.
 
-Die  gemeinsamen  Nachvermittlungsaktionen  von  Kammern  und  Agenturen für Arbeit setzen eine  aktive  Mitwirkung der Jugendlichen voraus. Jugendliche, die nicht mitwirken, insbesondere auch an den entsprechenden Terminen nicht teilnehmen, gehören nach individueller Prüfung nicht mehr zum Kreis der Bewerber und gelten damit nicht mehr als unversorgt.
+Die gemeinsamen Nachvermittlungsaktionen von Kammern und Agenturen für Arbeit setzen eine aktive Mitwirkung der Jugendlichen voraus. Jugendliche, die nicht mitwirken, insbesondere auch an den entsprechen-
 
 5
 
@@ -66,7 +72,9 @@ Die  gemeinsamen  Nachvermittlungsaktionen  von  Kammern  und  Agenturen für Ar
 
 [[START OF PAGE 6]]
 
-Zur  Versorgung  der  Bewerber  mit  aus  individuellen  Gründen  eingeschränkten  Vermittlungsperspektiven,  die  auch  nach  den  bundesweiten Nachvermittlungsaktionen keinen Ausbildungsplatz haben, bietet die Wirtschaft  als  Brücke  in  die  Berufsausbildung  erstmals  im  Ausbildungsjahr 2004  eine  neu  entwickelte  Einstiegsqualifizierung  an;  diese  sechs- bis zwölfmonatige  betriebliche  Einstiegsqualifizierung  mit  Kammerzertifikat wird in zunächst zehn Schlüsselbranchen bereitgestellt. Die Qualifizierung kann auf die Dauer einer späteren Berufsausbildung angerechnet werden.
+den Terminen nicht teilnehmen, gehören nach individueller Prüfung nicht mehr zum Kreis der Bewerber und gelten damit nicht mehr als unversorgt.
+
+Zur Versorgung der Bewerber mit aus individuellen Gründen eingeschränkten Vermittlungsperspektiven, die auch nach den bundesweiten Nachvermittlungsaktionen keinen Ausbildungsplatz haben, bietet die Wirtschaft als Brücke in die Berufsausbildung erstmals im Ausbildungsjahr 2004 eine neu entwickelte Einstiegsqualifizierung an; diese sechs- bis zwölfmonatige betriebliche Einstiegsqualifizierung mit Kammerzertifikat wird in zunächst zehn Schlüsselbranchen bereitgestellt. Die Qualifizierung kann auf die Dauer einer späteren Berufsausbildung angerechnet werden.
 
 Als Einstiegsqualifizierung bietet die Wirtschaft auch vergleichbare Berufseinstiegsangebote  an.  Die  Kammerorganisationen  werden  auch das  Angebot  in  der  Berufsausbildungsvorbereitung  für  Jugendliche,  die noch nicht im vollen Maße über die erforderliche Ausbildungsbefähigung verfügen,  weiter  um  50  Qualifizierungsbausteine erhöhen und bei ihren Mitgliedern für dieses Instrument werben.
 
@@ -74,7 +82,7 @@ Der  Vermittlungsprozess  wird  auf  regionaler  Ebene  von  den  Partnern separ
 
 ### 3. Weitere Maßnahmen
 
-Der Bund sagt zu, die Fördermittel des Programms STARegio zur Förderung  zusätzlicher  betrieblicher  Ausbildungsplätze  im  Rahmen  von  Ausbildungsverbünden um 50% aufzustocken. Kammern und Verbände werden ebenfalls verstärkt Hilfen zur Organisation von Ausbildungsverbünden anbieten und Modelle des externen Ausbildungsmanagements entwickeln,  um  kleine  und  mittlere  Unternehmen  von  administrativen  Aufgaben in der Ausbildung zu entlasten.
+Der Bund sagt zu, die Fördermittel des Programms STARegio zur Förderung zusätzlicher betrieblicher Ausbildungsplätze im Rahmen von Ausbildungsverbünden um 50% aufzustocken. Kammern und Verbände werden ebenfalls verstärkt Hilfen zur Organisation von Ausbildungsverbünden
 
 6
 
@@ -82,7 +90,9 @@ Der Bund sagt zu, die Fördermittel des Programms STARegio zur Förderung  zusä
 
 [[START OF PAGE 7]]
 
-DIHK und  ZDH als Organisationen der regionalen Kammern stellen verbindlich  sicher,  dass  zusätzliche  800 Ausbildungsplatzwerber  zur  Ausschöpfung  betrieblicher  Ausbildungspotentiale  eingesetzt  werden.  Dazu werden  auch  verstärkt  ausländische  Unternehmen  und  Selbständige sowie deren Verbände angesprochen. Die Ausbildungsplatzwerber sollen neue  Ausbildungsplätze  in  bereits  ausbildenden  sowie  in  derzeit  nicht ausbildenden Betrieben einwerben.
+anbieten und Modelle des externen Ausbildungsmanagements entwickeln, um kleine und mittlere Unternehmen von administrativen Aufgaben in der Ausbildung zu entlasten.
+
+DIHK und ZDH als Organisationen der regionalen Kammern stellen verbindlich sicher, dass zusätzliche 800 Ausbildungsplatzwerber zur Ausschöpfung betrieblicher Ausbildungspotentiale eingesetzt werden. Dazu werden auch verstärkt ausländische Unternehmen und Selbständige sowie deren Verbände angesprochen. Die Ausbildungsplatzwerber sollen neue Ausbildungsplätze in bereits ausbildenden sowie in derzeit nicht ausbildenden Betrieben einwerben.
 
 Die Wirtschaft wird sich verstärkt bei der überregionalen Vermittlung von Jugendlichen engagieren. Um den Ausgleich zwischen den Regionen zu unterstützen,  werden  DIHK  und  ZDH  ihr  Netzwerk  für  den  Informationsaustausch  über  unbesetzte  Lehrstellen  verstärkt  nutzen.  Die  Bundesagentur für Arbeit unterstützt die Jugendlichen durch  Mobilitätshilfen. Bei den  Vermittlungsaktivitäten  der  Kammern  und  der  Bundesagentur  für Arbeit  wird  auch  der  Ausgleich  zwischen  unterschiedlich nachgefragten Branchen einen besonderen Schwerpunkt darstellen.
 
@@ -96,13 +106,13 @@ Bundesregierung  und  Wirtschaft  werden  für  die  Laufzeit  dieses  Paktes ih
 
 ## II. Die Partner dieses Paktes appellieren an die Länder, die Gemeinden sowie alle weiteren Akteure vor Ort
 
-- Der Erfolg dieses nationalen Paktes hängt entscheidend davon ab, dass die Länder sich uns anschließen. Denn Ausbildungsmärkte sind vor allem regionale Märkte.
+1. Der Erfolg dieses nationalen Paktes hängt entscheidend davon ab, dass die Länder sich uns anschließen. Denn Ausbildungsmärkte sind vor allem regionale Märkte.
 
-Auf der Ebene der Länder gibt es  erfolgreiche Kooperationen und Bündnisse für Ausbildung.  Trotz  unterschiedlicher Ausgestaltung im Einzelnen zielen die Partner dieser regionalen Vereinbarungen gleichermaßen auf eine Steigerung der Ausbildungsleistung in der Wirtschaft und einen optimierten  Ausgleich  von  Angebot  und  Nachfrage  auf  den  regionalen  Ausbildungsmärkten.  Darüber  hinaus  wird  vor  allem  die  Berufsvorbereitung der  Jugendlichen  durch  eine  engere  Zusammenarbeit  von  Schule  und Wirtschaft sowie die Berufsberatung verbessert. Wir setzen darauf, dass die Verantwortlichen in den Ländern und Kommunen diese Initiativen und Maßnahmen uneingeschränkt fortsetzen, weiter ausbauen und sich so in diesen Pakt einbringen.
+Auf der Ebene der Länder gibt es erfolgreiche Kooperationen und Bündnisse für Ausbildung. Trotz unterschiedlicher Ausgestaltung im Einzelnen zielen die Partner dieser regionalen Vereinbarungen gleichermaßen auf eine Steigerung der Ausbildungsleistung in der Wirtschaft und einen optimierten Ausgleich von Angebot und Nachfrage auf den regionalen Ausbildungsmärkten. Darüber hinaus wird vor allem die Berufsvorbereitung der Jugendlichen durch eine engere Zusammenarbeit von Schule und Wirtschaft sowie die Berufsberatung verbessert. Wir setzen darauf, dass die Verantwortlichen in den Ländern und Kommunen diese Initiativen und Maßnahmen uneingeschränkt fortsetzen, weiter ausbauen und sich so in diesen Pakt einbringen.
 
-- Unsere  Aufforderung  zur  Bereitstellung  von  mehr  Ausbildungsplätzen richtet  sich  auch  an  Länder  und  Kommunen  in  ihrer  Eigenschaft  als öffentliche  Arbeitgeber  sowie  an  andere  öffentliche  Einrichtungen  und Unternehmen, sowie Kirchen und Verbände. Die deutliche Steigerung der Ausbildungsleistung aller muss Ziel unserer vereinten Anstrengung sein.
+2. Unsere Aufforderung zur Bereitstellung von mehr Ausbildungsplätzen richtet sich auch an Länder und Kommunen in ihrer Eigenschaft als öffentliche Arbeitgeber sowie an andere öffentliche Einrichtungen und Unternehmen, sowie Kirchen und Verbände. Die deutliche Steigerung der Ausbildungsleistung aller muss Ziel unserer vereinten Anstrengung sein.
 
-- Für die Vermittlung in Ausbildung kommt  es  entscheidend  auf  die allgemeinbildenden Schulen und die Schnittstelle Schule/Beruf an:
+3. Für die Vermittlung in Ausbildung kommt es entscheidend auf die allgemeinbildenden Schulen und die Schnittstelle Schule/Beruf an:
 
 8
 
@@ -126,15 +136,15 @@ Die Kooperation der Betriebe, der berufsbildenden Schulen, der überbetriebliche
 
 Im Rahmen der  Tarifautonomie zusätzliche Anreize zur Ausbildung zu schaffen und bestehende Hindernisse abzubauen.
 
-Dazu  können  zusätzliche ausbildungsfördernde  Vereinbarungen in  Tarifverträgen sowie  eigene  Initiativen  der  jeweiligen  Tarifpartner  beitragen.  Dabei muss stets der Grundsatz 'Ausbildung geht vor Übernahme' gelten.
+Dazu können zusätzliche ausbildungsfördernde Vereinbarungen in Tarifverträgen sowie eigene Initiativen der jeweiligen Tarifpartner beitragen. Dabei muss stets der Grundsatz „Ausbildung geht vor Übernahme“ gelten.
 
 Die Tarifpartner werden gebeten, auf ihre  Mitglieder einzuwirken und zusätzliche betriebliche Ausbildungsplätze zu werben.
 
 ## IV. Die Partner engagieren sich gemeinsam für eine moderne Berufsausbildung:
 
-- Die  gesetzlichen  Rahmenbedingungen  für  die  Berufsausbildung  junger Menschen  werden  durch  eine  ausbildungsfördernde  Ausgestaltung  des Berufsbildungsgesetzes reformiert. Dabei wird auch das Verfahren bei der Erarbeitung von Ausbildungsordnungen weiter vereinfacht.
+1. Die gesetzlichen Rahmenbedingungen für die Berufsausbildung junger Menschen werden durch eine ausbildungsfördernde Ausgestaltung des Berufsbildungsgesetzes reformiert. Dabei wird auch das Verfahren bei der Erarbeitung von Ausbildungsordnungen weiter vereinfacht.
 
-- Die Ausbildungsordnungen werden im Zusammenwirken mit den Sozialpartnern weiter modernisiert. Die Partner setzen sich dafür ein, dass neue Ausbildungsordnungen  insbesondere  im  Dienstleistungsbereich  und  in Innovationsbranchen geschaffen werden, um  weitere  Ausbildungspotentiale zu heben. Weitere Stufenausbildungen sollen eingeführt werden. Das Ausbildungsangebot für Jugendliche mit  schlechteren  Startchancen wird erweitert.
+2. Die Ausbildungsordnungen werden im Zusammenwirken mit den Sozialpartnern weiter modernisiert. Die Partner setzen sich dafür ein, dass neue Ausbildungsordnungen insbesondere im Dienstleistungsbereich und in Innovationsbranchen geschaffen werden, um weitere Ausbildungspotentiale zu heben. Weitere Stufenausbildungen sollen eingeführt werden. Das Ausbildungsangebot für Jugendliche mit schlechteren Startchancen wird erweitert.
 
 10
 
@@ -148,13 +158,15 @@ Auf der Basis der Bilanzierung durch die Agenturen für Arbeit und die Kammern w
 
 ## VI. Zum Verhältnis zwischen Nationalem Pakt für Ausbildung und Fachkräftenachwuchs und Berufsausbildungssicherungsgesetz
 
-Die  Bundesregierung  unterstützt durch die Regierungsfraktionen des Deutschen Bundestages - und die Spitzenverbände der deutschen Wirtschaft vereinbaren diesen auf drei Jahre angelegten Pakt. Ein solcher Pakt kann nur auf der Basis gegenseitigen Vertrauens erfolgreich sein. Vor diesem Hintergrund und um die einzelnen Elemente dieses Ausbildungspaktes zur Entfaltung kommen zu lassen, appellieren die Beteiligten an den Vermittlungsausschuss  von  Bundestag  und  Bundesrat,  das  Gesetzgebungsverfahren  zu einem Berufsausbildungssicherungsgesetz ruhen zu lassen. Im Herbst 2005 soll  dann  auf  der  Basis  der  ab  November  2004  vorliegenden  Zwischen bilanzen entschieden werden, ob es ergänzender gesetzlicher oder sonstiger Initiativen bedarf und ob der Pakt zwischen den Beteiligten weitergeführt wird.
+Die Bundesregierung – unterstützt durch die Regierungsfraktionen des Deutschen Bundestages – und die Spitzenverbände der deutschen Wirtschaft vereinbaren diesen auf drei Jahre angelegten Pakt. Ein solcher Pakt kann nur auf der Basis gegenseitigen Vertrauens erfolgreich sein. Vor diesem Hintergrund und um die einzelnen Elemente dieses Ausbildungspaktes zur Entfaltung kommen zu lassen, appellieren die Beteiligten an den Vermittlungsausschuss von Bundestag und Bundesrat, das Gesetzgebungsverfahren zu einem Berufsausbildungssicherungsgesetz ruhen zu lassen. Im Herbst 2005 soll dann auf der Basis der ab November 2004 vorliegenden Zwischen
 
 11
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+
+bilanzen entschieden werden, ob es ergänzender gesetzlicher oder sonstiger Initiativen bedarf und ob der Pakt zwischen den Beteiligten weitergeführt wird.
 
 Berlin, den 16. Juni 2004
 
