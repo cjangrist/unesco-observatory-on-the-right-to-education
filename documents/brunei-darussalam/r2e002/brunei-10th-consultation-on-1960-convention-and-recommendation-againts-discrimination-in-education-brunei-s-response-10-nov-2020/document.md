@@ -6,7 +6,7 @@ Tenth consultation of Member States on the application of the Convention and the
 
 # GUIDELINES FOR THE PREPARATION OF REPORTS BY MEMBER STATES ON THE APPLICATION OF THE 1960 CONVENTION AND RECOMMENDATION AGAINST DISCRIMINATION IN EDUCATION
 
-Approved by the UNESCO Executive Board at its 207 th  session in October 2019
+Approved by the UNESCO Executive Board at its 207th session in October 2019
 
 ## 1. Introduction
 
@@ -16,7 +16,7 @@ The right to education is today one of the key principles underpinning the Educa
 
 The  Convention  has  been  recognized  as  a cornerstone  of  Education  2030  agenda .  It  also represents a powerful tool to advance SDG4 by ensuring effective articulation between normative and operational work.
 
-The present Guidelines are intended to assist Member States in the preparation of national reports on the implementation of the Convention as well as the Recommendation in the context of the 10 th Consultation.
+The present Guidelines are intended to assist Member States in the preparation of national reports on the implementation of the Convention as well as the Recommendation in the context of the 10th Consultation.
 
 ## 2. Reporting obligations
 
@@ -62,9 +62,8 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 [[START OF PAGE 3]]
 
-- Open-ended  and  closed-ended  questions  to  be  directly  filled  in  by  Member  States through  a participatory  process. Please note  that  multiple answers  may be provided where relevant.
-
-- Additional  information aimed at  guiding  Members  States  to  structure  and detail  their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States through a participatory process. Please note that multiple answers may be provided where relevant.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 In their responses, Member States are encouraged to provide information in a concise manner while preserving substantive and relevant content.
 
@@ -73,8 +72,6 @@ In their responses, Member States are encouraged to provide information in a con
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
-
- Yes
 
 ## GENERAL INFORMATION:
 
@@ -88,9 +85,9 @@ Ministry of
 
 Education
 
-## Information on the legislative, judicial, administrative and other measures taken by the state at the national level
+## I. Information on the legislative, judicial, administrative and other measures taken by the state at the national level
 
-### Ratification of the Convention 2
+### 1. Ratification of the Convention 2
 
 Is your country a State Party to the Convention?
 
@@ -124,7 +121,7 @@ Describe:
 
 [[START OF PAGE 5]]
 
-### Ratification of the Protocol 3  instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
+### 2. Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
 
 Has your country ratified the Protocol?
 
@@ -132,7 +129,7 @@ Has your country ratified the Protocol?
 
  No, please briefly explain the difficulties encountered:
 
-### Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
+### 3. Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
 
 #### In case your country is a State Party to the Convention:
 
@@ -184,13 +181,13 @@ Information supplied could demonstrate how such policies and programmes comply w
 
 ## II.  Information on the implementation of the Convention or Recommendation
 
-### Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
+### 1. Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
 
-Articles/Paragraphs  1(1),  2  and  3  of  the  Convention/Recommendation  provide  for  nondiscrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
+Articles/Paragraphs 1(1), 2 and 3 of the Convention/Recommendation provide for non-discrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
 
 This corresponds to the overall aspiration of SDG4 which aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all' by 2030. It therefore covers all the SDG4 targets, but also specifically SDG target 4.5. 4
 
-- 1.1 Please indicate measures adopted by your government to eliminate and prevent discrimination in  education  within  the  meaning  of  the  Convention/Recommendation  (please  tick  all  that apply) 5  (several items could be ticked/mentioned):
+1.1 Please indicate measures adopted by your government to eliminate and prevent discrimination in education within the meaning of the Convention/Recommendation (please tick all that apply) 5 (several items could be ticked/mentioned):
 
  Constitutional laws and/or legislation prohibit discrimination in education
 
@@ -220,7 +217,7 @@ Please provide a brief description of the relevant legal, regulatory or policy t
 
 ➔ Non-differential treatment, including of foreign nationals' resident in your country
 
-- 1.2 Please indicate actions taken by your government to guarantee equal access to all levels and types of education in your country (several items could be ticked/mentioned):
+1.2 Please indicate actions taken by your government to guarantee equal access to all levels and types of education in your country (several items could be ticked/mentioned):
 
  Constitutional laws and/or legislation guarantee equal access to education
 
@@ -242,7 +239,7 @@ Special Education Policy Guidelines based on the principles of inclusive educati
 
 The application  to  TVET  education  via  Technical  and  Vocational  Education  Centralised Admission  System  (TVECAS)  and  higher  education  via  Higher  Education  Centralised Admission System (HECAS) objectively take accounts of merit/qualification of applicants.
 
-- 1.3 Please  indicate  the  actions  taken  and  planned  in  your  country  to  ensure  equality  of opportunities (in terms of access, participation and completion), equal treatment and to support the  inclusion  of  all  learners  (including  girls  and  women,  the  economically  and  socially marginalized,  people  with  disabilities  and  other  vulnerable  groups)  in  learning  processes (several items could be ticked/mentioned):
+1.3 Please indicate the actions taken and planned in your country to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners (including girls and women, the economically and socially marginalized, people with disabilities and other vulnerable groups) in learning processes (several items could be ticked/mentioned):
 
 > 6 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programmes'.
 
@@ -252,41 +249,22 @@ The application  to  TVET  education  via  Technical  and  Vocational  Education
 
 [[START OF PAGE 8]]
 
-
-
- Providing financial incentives and fellowships
-
- Providing positive or affirmative action measures
-
- Ensuring inclusion in mainstream schools for all learners
-
- Training teachers on inclusive education
-
- Ensuring gender parity in science, technology, engineering and mathematics (STEM) and technical and vocational training (TVET)
-
- Providing  re-entry  programmes  for  young mothers
-
+☑ Providing financial incentives and fellowships
+☑ Providing positive or affirmative action measures
+☑ Ensuring inclusion in mainstream schools for all learners
+☑ Training teachers on inclusive education
+☑ Ensuring gender parity in science, technology, engineering and mathematics (STEM) and technical and vocational training (TVET)
+ Providing re-entry programmes for young mothers
  Eliminating all barriers for pregnant girls or young mothers in education
-
-
-
-Other:
-
- Providing auxiliary assistance
-
- Adapting education infrastructure
-
- Adapting curricula and methods
-
+☑ Other:
+☑ Providing auxiliary assistance
+☑ Adapting education infrastructure
+☑ Adapting curricula and methods
  Providing language classes to newcomers (e.g. refugees)
-
  Eliminating administrative barriers to education 7
-
- Providing flexible learning pathways
-
- Valuing diversity in schools
-
- Combatting stereotyping and stigmatisation
+☑ Providing flexible learning pathways
+☑ Valuing diversity in schools
+☑ Combatting stereotyping and stigmatisation
 
 Ministry  of  Culture,  Youth  and  Sport  provides  financial  assistance  under  the  State  Welfare System (SKN).
 
@@ -318,7 +296,7 @@ Please provide reference to the relevant laws and provisions:
 
 #### 2.1 Pre-primary education
 
-Pre-primary  education  is  not  explicitly  provided  for  in  the  Convention/Recommendation. However, the international  community has  increasingly  recognized  the  importance  of early childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 8 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory preprimary education'.
+Pre-primary education is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of early childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 8. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 - Is compulsory and free of charge pre-primary education available in your country?
 
@@ -326,9 +304,7 @@ Pre-primary  education  is  not  explicitly  provided  for  in  the  Convention/
 
 Compulsory education starts at 6 years old. Age of enrolment in pre-primary is 5 years at Government schools and 3-5 years at Private Schools.
 
-
-
-Pre-primary education is free of charge for all: Please provide the duration:
+ Pre-primary education is free of charge for all: Please provide the duration:
 
 At Government schools, it is free for Kindergarten. Duration is one year (Pre-school)
 
@@ -340,7 +316,7 @@ The  Education  Act,  2003  states  that  "The  Minister may…  establish  and 
 
 However, Brunei has successfully achieved and maintained high pre-primary enrolment of five-year old children. School leaders actively engage parents at least eight months before the school year starts. Pre-primary orientation is carried out two months before school starts.
 
-In 2018, total enrolment of students in all levels was 108,553 and total enrolment of preprimary was 13,839 (12.7%)
+In 2018, total enrolment of students in all levels was 108,553 and total enrolment of pre-primary was 13,839 (12.7%)
 
 This may be due to the availability of education allowance for children starting from the age of 5 years old for parents who are government employees.
 
@@ -358,8 +334,6 @@ Article/Paragraph 4(a) of the Convention/Recommendation provides for universal p
 
 ##### Primary education
 
-
-
 - Is primary education compulsory in your country?
 
  Yes
@@ -376,9 +350,7 @@ Due to the low barriers to access primary education, Brunei Darussalam has a hig
 
 - Is primary education available free of charge to all?
 
-
-
-Yes: Please provide the duration and indicate the extent to which it is.
+ Yes: Please provide the duration and indicate the extent to which it is.
 
 For  this,  please  list  the  laws  and  policies  that  ensure  the  universal  and  free  availability  of primary education and indicate whether direct and indirect costs are charged (such as tuition fees,  exam  fees,  schools  supplies,  uniforms,  transport  costs  and  compulsory  levies  on parents).
 
@@ -408,9 +380,7 @@ In this part, please provide information on the general availability and accessi
 
 - Is secondary education (middle/high) available free of charge?
 
-
-
-Yes: Please provide the duration and describe the extent to which it is.
+ Yes: Please provide the duration and describe the extent to which it is.
 
 Please list the laws and policies that ensure the free availability of secondary education and describe whether direct and indirect costs are covered (such as tuition fees, exam fees, school supplies, uniforms, transport costs and compulsory levies on parents).
 
@@ -444,15 +414,11 @@ The  National  Education  System  for  the  21st  Century  (SPN  21):  provides 
 
 The lower secondary level covers two years of common curriculum (Year 7 to Year 8). At the  end of  Year 8,  students  sit  for  the  Student  Progress  Examination  (SPE). Based on Student  Progress  Assessment  (SPA),  students  are  channelled  to  one  of  the  following programmes:
 
-- General Secondary Education Programme (Upper secondary)
-
-- Express (2 years)
-
-- Normal (3 years)
-
-- Applied Secondary Education Programme (3 years)
-
-- Special Applied Programme (SAP) - Vocational & Technical Education (3 years)
+a. General Secondary Education Programme (Upper secondary)
+i. Express (2 years)
+ii. Normal (3 years)
+b. Applied Secondary Education Programme (3 years)
+c. Special Applied Programme (SAP) – Vocational & Technical Education (3 years)
 
 Age of enrolment is 12 years old. In 2018, total enrolment of students in all levels was 108,553 and total enrolment of secondary was 34,247 (31.5%)
 
@@ -460,9 +426,7 @@ Age of enrolment is 12 years old. In 2018, total enrolment of students in all le
 
 Please  note  that  minimum  age  labour  laws  and  those  related  to  compulsory  education interdependent and mutually reinforce each other. If the minimum age of employment is below that of compulsory education, the child is at risk of dropping out of school to work and therefore not completing compulsory education. On the other hand, if compulsory education is lower than the minimum age of employment, once the child has completed compulsory education, the door is open to child exploitation and the violation of labour laws.
 
-
-
-Yes
+ Yes
 
  No
 
@@ -528,9 +492,7 @@ Article 4 of the Convention requires states to make 'higher education equally ac
 
  Higher education is accessible through credit transfer system between states
 
-
-
-Other:
+ Other:
 
 MoE  Brunei Darussalam practices and provides equal gender opportunities and accessibilities in tertiary education level both locally and abroad.
 
@@ -550,7 +512,7 @@ In terms of financial costing to enroll in the higher education in Brunei, gener
 
 (Note: BND 40,000/year = Bachelor of Health Science (Dentistry))
 
-https://ubd.edu.bn/admission/undergraduate/gennext-degree-programme/fees-andfunding.html
+https://ubd.edu.bn/admission/undergraduate/gennext-degree-programme/fees-and-funding.html
 
 ###### For postgraduates:
 
@@ -658,27 +620,16 @@ Article/Paragraph 4(c) of the Convention/Recommendation provides for adult educa
 
 - Please indicate the efforts made by your government to establish a system of continuing education and equitable access to learning and training opportunities (several items could be ticked/mentioned):
 
-- Provision of education for persons who have not received or completed the whole period of their primary education
-
- Provision of literacy programmes
-
-- Provision of appropriate learning and life-skills programmes
-
- Provision of free of charge learning opportunities
-
- Provision of flexible learning pathways
-
- Provision of professional training and qualifications
-
+☑ Provision of education for persons who have not received or completed the whole period of their primary education
+☑ Provision of literacy programmes
+☑ Provision of appropriate learning and life-skills programmes
+☑ Provision of free of charge learning opportunities
+☑ Provision of flexible learning pathways
+☑ Provision of professional training and qualifications
  Other:
-
 - Please elaborate further on the measures taken:
 
-
-
-
-
-The Lifelong Learning Centre , Ministry of Education Brunei was newly established as a centre  of  excellence  for expanding  lifelong learning opportunities  for  strengthening communities.
+The Lifelong Learning Centre, Ministry of Education Brunei was newly established as a centre of excellence for expanding lifelong learning opportunities for strengthening communities.
 
 TVET in Brunei Darussalam aims at developing a skilled and entrepreneurial workforce to spur  economic  development  in  the  country  as  envisioned  by  Brunei's  Vision  2035.  The Institute of Continuing Education and Training (CET) under the Institute of Brunei Technical Education (IBTE) offers relevant programmes such as Life Skills and Community Services Courses for school leavers and working adults.
 
@@ -700,21 +651,16 @@ Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide fo
 
 - Please indicate the measures taken by your country to ensure equivalence in all educational institutions with regard to (several items could be ticked/mentioned):
 
-
-
-- Establishment of minimum norms and standards in education
-
- Establishment  of  conditions  relating  to  the  quality  of  the  education  provided  (e.g. infrastructure, learner/teacher ratios, teaching and learning materials, use of ICT)
-
- Adoption  of  legal  or  regulatory  provisions  to  ensure  that  children  learn  in  a  safe environment  free  from  violence  or  harassment,  including  school-related  gender-based violence (in and around schools).
+ Establishment of minimum norms and standards in education
+ Establishment of conditions relating to the quality of the education provided (e.g. infrastructure, learner/teacher ratios, teaching and learning materials, use of ICT)
+ Adoption of legal or regulatory provisions to ensure that children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools).
 
 - Please elaborate further on the measures taken:
 
 To provide such quality assessment, please take into account all educational institutions of the same level. You may include information on policies, protocols or codes of conduct.
 
-- Different  Abilities  Design  Guideline  (2018),  published  by  Ministry  of  Development: ensures new schools are compliant and educational institutions are regulated by the Ministry of Development's Building Guidelines and Requirements (4th Edition 2017).
-
-- Brunei  via  MOE  has  implemented  Whole  School  Evaluation  (WSE)  which  aims  to evaluate and  monitor  government  schools  all  over  the  country  in four  main  domains
+1) Different Abilities Design Guideline (2018), published by Ministry of Development: ensures new schools are compliant and educational institutions are regulated by the Ministry of Development's Building Guidelines and Requirements (4th Edition 2017).
+2) Brunei via MOE has implemented Whole School Evaluation (WSE) which aims to evaluate and monitor government schools all over the country in four main domains
 
 17
 
@@ -724,7 +670,7 @@ To provide such quality assessment, please take into account all educational ins
 
 similar  to  international  school  standards  which  are:  Leadership  and  Management, Teaching and Learning, Ethos and Environment and Students Learning Outcomes.
 
-- MOE initiatives: (i) The Model Inclusive Schools Project was introduced and implemented in selected primary and secondary schools, with the aim of improving access and participation for students with special needs. (ii) Centres of Excellence for students with special needs were also introduced to promote equal and equitable opportunities according to student needs and abilities in order to ensure access, engagement and active participation. As part of a centralization project, local schools were equipped with appropriate special needs infrastructure and facilities, specialised resources and learning equipment as well as the provision of Special Education Needs Assistance (SENA) teachers, resource teachers and teacher aides to meet the needs of students based on their diagnosis.
+3) MOE initiatives: (i) The Model Inclusive Schools Project was introduced and implemented in selected primary and secondary schools, with the aim of improving access and participation for students with special needs. (ii) Centres of Excellence for students with special needs were also introduced to promote equal and equitable opportunities according to student needs and abilities in order to ensure access, engagement and active participation. As part of a centralization project, local schools were equipped with appropriate special needs infrastructure and facilities, specialised resources and learning equipment as well as the provision of Special Education Needs Assistance (SENA) teachers, resource teachers and teacher aides to meet the needs of students based on their diagnosis.
 
 #### 2.6 Education personnel
 
@@ -732,21 +678,13 @@ Article/Paragraph  4(d)  of  the  Convention/Recommendation  provides  for  the 
 
 -  Please  indicate  the  measures  taken  to  improve  the  teaching  and  working  conditions  of education personnel, especially teaching staff at all levels in your country and regarding the training for the teaching profession (several items could be ticked/mentioned):
 
- Teachers' average salaries are competitive or at least comparable to those paid in other professions requiring similar or equivalent qualifications (at all levels)
-
- Initial training and continuous professional development are provided
-
- Minimum standards and qualifications are required for the teaching profession
-
- Measures  taken  to  strengthen  the  social  status  and  attractiveness  of  the  teaching profession
-
- Performance monitoring systems
-
+☑ Teachers' average salaries are competitive or at least comparable to those paid in other professions requiring similar or equivalent qualifications (at all levels)
+☑ Initial training and continuous professional development are provided
+☑ Minimum standards and qualifications are required for the teaching profession
+☑ Measures taken to strengthen the social status and attractiveness of the teaching profession
+☑ Performance monitoring systems
  Measures taken to increase women in leadership positions in education
-
-
-
-Other:
+☑ Other:
 
 Brunei Teachers' Standards (BTS) is a set of teaching competencies designed to raise the quality of teaching in order to improve attainment of all students and the overall quality of education in Brunei Darussalam. The Teacher Performance Appraisal (TPA) is an appraisal system to evaluate the competency of teaching, the quality of students' achievements and learning using the Brunei Teachers' Standards (BTS) framework.
 
@@ -762,8 +700,6 @@ For example,
 
 [[START OF PAGE 19]]
 
-
-
 - According to Brunei's Education Statistics Year 2018, there are 7933 female teachers (73% of total teachers) and 3,001 male teachers (27% of total teachers)
 
 - Please briefly elaborate further on the measures taken:
@@ -772,23 +708,17 @@ The Brunei Darussalam Teachers Academy (BDTA) aims to provide continuous and qua
 
 The MOE has newly established the Department of Educators Management to ensure the Ministry is  supplied with highly skilled and successful human resource (teachers, school leaders and specialists) through a comprehensive and robust human resource management that focuses on four domains:
 
-- Development  and  implementation  of  rigorous  and  comprehensive  selection  and recruitment process of teachers;
-
-- ii) Strategic deployment and redeployment of teachers and school leaders according to needs and priority;
-
-- iii) Career progression pathway for both teachers and school leaders; and
-
-- iv) Succession  planning  projection  and  provision  of  pre-retirement  programmes  to educators who are going to retire.
+i) Development and implementation of rigorous and comprehensive selection and recruitment process of teachers;
+ii) Strategic deployment and redeployment of teachers and school leaders according to needs and priority;
+iii) Career progression pathway for both teachers and school leaders; and
+iv) Succession planning projection and provision of pre-retirement programmes to educators who are going to retire.
 
 - Have there been instances of discrimination as regards the training for education personnel in your country?
 
  Yes: Has your government addressed this issue?
-
-- o Yes
-
-- o No
-
-No
+o Yes
+o No
+ No
 
 #### 2.7 Respect for human rights and fundamental freedoms
 
@@ -804,18 +734,8 @@ Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the resp
 
 - Please indicate the national efforts taken in directing education to the full development of the human  personality  and  the  strengthening  of  respect  for  human  rights  and  fundamental freedoms (several items could be ticked/mentioned):
 
-
-
-
-
-
-
-Curriculum includes human rights education
-
-
-
-Educational and/or extracurricular activities are organized on human rights education
-
+ Curriculum includes human rights education
+ Educational and/or extracurricular activities are organized on human rights education
  Other:
 
 To ensure the future generations are globally competent but deeply rooted in our local values and culture, components of our national philosophy, the Malay Islamic Monarchy (MIB) are integrated in the curriculum and in daily lives in school. The national philosophy inculcates values and knowledge which includes human rights. Social Studies is a subject that also outlined matters on human rights. Aspects of human rights are taught and its concepts are integrated in MIB philosophy.
@@ -834,7 +754,7 @@ Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide fo
 
 The establishment and registrations of private educational institutions formal and non-formal are regulated under the Education Act Chapter 210.
 
--Do legal provisions prohibiting discrimination on the grounds listed by the Convention/Recommendation 13  explicitly apply to private educational institutions?
+- Do legal provisions prohibiting discrimination on the grounds listed by the Convention/Recommendation 13 explicitly apply to private educational institutions?
 
  Yes
 
@@ -858,31 +778,21 @@ Additionally, the Education Act, 2003 provides for the National Education System
 
 - Does your country have an education policy framework for minimum educational standards as regards the rights of the parents /legal guardians for providing religious and moral education for their children?
 
-Yes
-
-
-
+ Yes
  No
 
 #### 2.9 Rights of national minorities
 
 Article/Paragraph  5(1)(c)  of  the  Convention/Recommendation  provides  for  the  rights  of national  minorities.  National  minorities,  who  often  face  language  barriers,  are  among  the specific groups referred to in the Convention.
 
-- Please indicate the legal, policy and regulatory measures that protect the rights given to national  minorities  to  carry  out  their  own  educational  activities  (several  items  could  be ticked/mentioned):
-
-- Please provide a brief description of the provisions:
-
+- Please indicate the legal, policy and regulatory measures that protect the rights given to national minorities to carry out their own educational activities (several items could be ticked/mentioned):
  Constitutional laws and/or legislation protect the right to education of national minorities
-
  Legislation or regulations guarantee the right of national minorities to study in their mother tongue
-
  Curriculum is adapted to national minority needs
-
  Teachers are trained to adapt to national minority needs
-
  Other:
-
-The  National  Education  System  for  the  21st  Century  (SPN  21):  provides  students  with multiple pathways according to their individual capabilities, interests, inclination, growth and development, thereby catering to their needs.
+- Please provide a brief description of the provisions:
+The National Education System for the 21st Century (SPN 21): provides students with multiple pathways according to their individual capabilities, interests, inclination, growth and development, thereby catering to their needs.
 
 - As  regards  the  educational  standards in educational institutions run by minorities, please describe the existing legal and policy framework:
 
@@ -890,7 +800,7 @@ Information could also cover the language facilities, such as the availability o
 
 #### 2.10  Rights of refugees and migrants
 
-The rights of refugees and migrants are not explicitly provided for in the Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in education based notably on national origin. 14 In this context,  a  number  of  Member  States  that  participated  in  the  9 th Consultation  reported  on measures adopted to ensure refugees' and migrants' right to education. Growing displacement and influx of refugees worldwide and the emergence of major educational challenges in this area,  as  well  as  the  frameworks  recently  adopted  by  the  international  community, 15 demonstrate the opportunity for states to report on measures adopted to include refugees and migrants in their educational systems.
+The rights of refugees and migrants are not explicitly provided for in the Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in education based notably on national origin. 14 In this context, a number of Member States that participated in the 9th Consultation reported on measures adopted to ensure refugees' and migrants' right to education. Growing displacement and influx of refugees worldwide and the emergence of major educational challenges in this area, as well as the frameworks recently adopted by the international community, 15 demonstrate the opportunity for states to report on measures adopted to include refugees and migrants in their educational systems.
 
 21
 
@@ -899,36 +809,21 @@ The rights of refugees and migrants are not explicitly provided for in the Conve
 [[START OF PAGE 22]]
 
 Besides, this aspect also corresponds to SDG target 4.5, which calls on states to 'ensure equal access to all levels of education and vocational training for the vulnerable', including 'children in vulnerable situations', and covers the majority of SDG4 targets.
-
 - Please briefly describe the existing legal and policy framework that protects the right to quality education for refugees and migrants in your country.
-
-## Methods used to draw  the attention of  the various authorities  in the  country  to  the instruments and to remove the obstacles encountered
-
 - Please briefly indicate measures adopted by national and local authorities to ensure refugees' and migrants' right to education (several items could be ticked/mentioned):
-
  Inclusion in mainstream education
-
  Provision of language courses
-
  Specific training for educational staff
-
  Initiatives addressing discrimination and promoting cultural diversity and mutual acceptance
-
  Alternative administrative procedure (placement tests, portfolio of evidence, etc.)
-
  Accelerated learning programmes
-
  Non-formal and/or alternative education programmes
-
  Financial support
-
  Other innovative measures:
-
 Please briefly elaborate further on the measures taken:
-
+## III. Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
 ### 1. Challenges and obstacles
-
-- 1.1 Please indicate and provide any information on the difficulties encountered in the process of implementing  the  key  provisions  of  the  Convention/Recommendation  (including  legal  and
+1.1 Please indicate and provide any information on the difficulties encountered in the process of implementing the key provisions of the Convention/Recommendation (including legal and
 
 > 14 Articles/Paragraphs 1 and 3.
 
@@ -942,11 +837,11 @@ Please briefly elaborate further on the measures taken:
 
 practical obstacles) and on the main issues that need to be addressed for promoting further the right to education in your country (several items could be ticked/mentioned):
 
- Challenges related to equitable access and inclusion in education (such as poverty and socio-economic  factors,  cultural  and  traditional  attitudes,  remoteness,  migration  and displacement, etc.)
+☑ Challenges related to equitable access and inclusion in education (such as poverty and socio-economic factors, cultural and traditional attitudes, remoteness, migration and displacement, etc.)
 
 Challenges:
 
-- All schools have managed to register their Parents-Teachers Associations and many actively  pursue  various  initiatives  and  activities  to  engage  parents  and  guardians.  In addition,  the  Department  of  Schools  has  supported  schools  by  creating  Parents- Teachers Association at the national level and conducting Parents Teachers Symposium. There is a challenge in sustaining a high level of parents' involvement and participation.
+1) All schools have managed to register their Parents-Teachers Associations and many actively pursue various initiatives and activities to engage parents and guardians. In addition, the Department of Schools has supported schools by creating Parents-Teachers Association at the national level and conducting Parents Teachers Symposium. There is a challenge in sustaining a high level of parents' involvement and participation.
 
  Challenges related to the quality of education (such as shortages of qualified, trained and motivated teaching staff, non-supportive or inadequate teaching and learning as well as school environment, etc.)
 
@@ -974,7 +869,7 @@ UNESCO  governing  bodies  have  underlined  the  need  for  awareness  raising.
 
  Increased public awareness through advocacy material on the Convention/ Recommendation or the core principles of the right to education
 
- Activities  undertaken  or  supported  by  the  National  Commission  to  promote  non- discrimination and equality  of educational opportunities and  to foster debate  on  critical issues in relation to the rights enshrined in the instruments
+ Activities undertaken or supported by the National Commission to promote non-discrimination and equality of educational opportunities and to foster debate on critical issues in relation to the rights enshrined in the instruments
 
  Other:
 
