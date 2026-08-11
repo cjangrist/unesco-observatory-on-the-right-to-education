@@ -14,7 +14,7 @@ The strategic goal of the European Union until 2010 is the creation of the most 
 
 During  the  period  of  transition  to  a  market  economy  and  the  accompanying  intensive process of restructuring the production, it's obvious a definite trend of discrepancy between the quality of the labour force and the new requirements. It is more strongly expressed in comparison with  the  future  requirements  of  the  national  labour  force,  having  in  mind  the  pre-accession processes and the developing globalization. There is a important task for the reform in education, and particularly in the vocational education and training in Bulgaria - to provide such conditions for vocational training, which will allow continuously keeping of the quality of the labour force and its suitability for employment in compliance with the requirements of the labour market and the  knowledge-based  economy.  This  task  can  be  fulfilled  by  continuous  vocational  training  for everyone on equal access and equal conditions. It is necessary a clear, concrete, target-defined in the  time  and  social  space  strategy,  secured  by  resources,  which  will  develop  the  continuing vocational training in the country. The Strategy is mutually bound with similar documents for the social and economic development: the Governmental Programme, the National Plan for Economic Development until 2006, the National Plan for Development until 2013 - in preparation now, the Employment Strategy for 2004-2010 and others.
 
-The P urpose of  the  Strategy  is  to  help  the  development  of  the  reform  in  the  vocational education and training by creation of conceptual, methodological and planning conditions for its implementation.
+The Purpose of  the  Strategy  is  to  help  the  development  of  the  reform  in  the  vocational education and training by creation of conceptual, methodological and planning conditions for its implementation.
 
 Subject of the Strategy is the training of persons aged above 16 for earning, developing and perfecting vocational qualification in order to improve the suitability for employment, to assist the professional career and individual development.
 
@@ -34,19 +34,19 @@ The  labour  market  is  characterized  by  quantitative  and  qualitative  disb
 
 Predominant part of the total labour force are people graduated secondary schools - 55,7%; ones graduated high schools are 23,4%, and those with lower stages of education are 20,9%.
 
-As  a  result  of  the  economic  stabilization  during  the  past  years,  the  unemployment  goes down. The unemployment level in the country for 2003 was 13,7% 1 . High levels of the long-term unemployment and low educational and skill levels of the unemployed are still typical. Over 40 % of the long-term unemployed in 2003 were without any skills or had the lowest skill level. For the remaining part, as well as for many of the employed, a serious problem is de-qualification - this applies especially for the older-age groups. Considerable is the level of the youths' unemployment (28,1%). For many of the youths the reasons are the low level of education, the lack of a profession or lack of practical experience.
+As  a  result  of  the  economic  stabilization  during  the  past  years,  the  unemployment  goes down. The unemployment level in the country for 2003 was 13,7%¹. High levels of the long-term unemployment and low educational and skill levels of the unemployed are still typical. Over 40 % of the long-term unemployed in 2003 were without any skills or had the lowest skill level. For the remaining part, as well as for many of the employed, a serious problem is de-qualification - this applies especially for the older-age groups. Considerable is the level of the youths' unemployment (28,1%). For many of the youths the reasons are the low level of education, the lack of a profession or lack of practical experience.
 
 The qualitative structure of the labour force in the regions is different.
 
 The distribution of the unemployment in the regions and towns is uneven; the same applies for the qualitative structure of the unemployed.
 
-The demand for labour force 2 changes depending on the general condition of the economy, the  seasonal  factors  and  the  development  of  the  subsidized  employment.  The  decision  of  the employer  for  realization  of  labour  with  certain  quantitative  and  qualitative  characteristics  has  a decisive significance.
+The demand for labour force² changes depending on the general condition of the economy, the  seasonal  factors  and  the  development  of  the  subsidized  employment.  The  decision  of  the employer  for  realization  of  labour  with  certain  quantitative  and  qualitative  characteristics  has  a decisive significance.
 
 Those specific factors, together with the European and world trends for continuous growth of  the  requirements  for  employment  suitability,  determine  the  need  of  continuing  vocational training both for all-aged groups of labor force and considering also the territorial aspect.
 
 The training for acquisition of vocational qualification by the people included in the labour market  is  organized  by  the  Employment  Agency.  The  total  number  of  the  carried  out    training courses in 2003 is 1977, which exceeds more than twice the number of the same in 2000.
 
-The  main  part  of  graduated  some  vocational  training  in  2003  (29 294  persons)  were unemployed at the time they were included in. The number of employed people who graduated such training during the same period is 8 863 persons. In a comparison with 2000, the number of people that have graduated training for acquisition of vocational skills was totally 12 569 and the employed people were only 496 3 .
+The  main  part  of  graduated  some  vocational  training  in  2003  (29 294  persons)  were unemployed at the time they were included in. The number of employed people who graduated such training during the same period is 8 863 persons. In a comparison with 2000, the number of people that have graduated training for acquisition of vocational skills was totally 12 569 and the employed people were only 496³.
 
 If we share the different kind of trainings, it prevails the acquisition of additional vocational skills - 67,4%, next comes the training for re-qualification - 22,9% and the training for obtaining initial vocational skills - 9,7%. There is a trend for increasing the number of training courses for additional vocational skills - in fact they were 2/3 of all carried out in 2003.
 
@@ -76,7 +76,7 @@ The Higher  Education  Act -HEA  (1995):  regulates the organization, functions,
 
 The Employment Promotion Act -  EPA  (2001):  formulates  the  transition  from  passive social assistance towards active measures of the labour market in order to increase the employment and raise the qualification of the labour force; introduces stimuli for employers to train employed for  updating  and  raising  their  qualification  and  to  train  unemployed,  in  the  context  of  life-long learning;  regulates  the  types  of  continuing  vocational  training  organized  by  the  Employment Agency and the conditions for its accomplishment;
 
-The Crafts  Act  CA  (2001):  regulates  the  conditions  and  rules  for  training  crafts, including training by master at a concrete work place in the craft enterprise; determines the basic degrees of the craftsmen training;
+The Crafts  Act - CA  (2001):  regulates  the  conditions  and  rules  for  training  crafts, including training by master at a concrete work place in the craft enterprise; determines the basic degrees of the craftsmen training;
 
 The People's  Community  Centers Act -  PCCA  (1996):  regulates  the  activity  of  the community centers within the country for fulfillment of their main tasks, including expansion of the  people's  knowledge, united people with the values and achievements of the science, art and culture through training and creation of possibilities for studying;
 
@@ -148,7 +148,7 @@ In  2003  the  network  of  vocational  institutions  in  the  country  included
 
 The  National  Agency  for  Vocational  Education  and  Training  licenses  the  Centers  for Vocational Training and is monitoring their activities. All Centers licensed after year 2002 offer vocational training for acquisition of first, second and third level of vocational qualification At this stage 146 licensed Centers and 169 Branches are operating.
 
-The  main  difficulties,  which  the  institutions  for  continuing  vocational  training  in  the formal  system  are  facing,  are  related  to  the  shortage  of  funds  necessary  to  update  the  materialtechnical  base;  lack  of  modern  educational  and  reference  literature;  insufficient  methodical background of the teachers and lecturers for work with adults; shortage of funds for raising the qualification  of  the  teachers,  especially  in  real  productive  conditions;  insufficiently  effective dialogue  with  the  employers  and  their  low  interest  in  participation  in  the  process  of  continuing vocational  training.  The  schools,  which  are  carrying  out  continuing  vocational  training,  have additional difficulties due to lack of mechanisms for decentralizing financial administration of the revenues from this activity.
+The  main  difficulties,  which  the  institutions  for  continuing  vocational  training  in  the formal  system  are  facing,  are  related  to  the  shortage  of  funds  necessary  to  update  the  material-technical  base;  lack  of  modern  educational  and  reference  literature;  insufficient  methodical background of the teachers and lecturers for work with adults; shortage of funds for raising the qualification  of  the  teachers,  especially  in  real  productive  conditions;  insufficiently  effective dialogue  with  the  employers  and  their  low  interest  in  participation  in  the  process  of  continuing vocational  training.  The  schools,  which  are  carrying  out  continuing  vocational  training,  have additional difficulties due to lack of mechanisms for decentralizing financial administration of the revenues from this activity.
 
 [[END OF PAGE 6]]
 
@@ -182,15 +182,15 @@ Creation and perfection of conditions for acquisition, expansion and development
 
 In connection with the realization of the strategic goal and with a view of the prospects for development during the period 2005-2010, the following basic priorities are determined:
 
-- Improvement of the conditions for access to continuing vocational training.
+1. Improvement of the conditions for access to continuing vocational training.
 
-- 2 . Achievement of efficiency in the interaction between institutions involved in the continuing vocational training.
+2. Achievement of efficiency in the interaction between institutions involved in the continuing vocational training.
 
-- Assurance the high quality of the continuing vocational training.
+3. Assurance the high quality of the continuing vocational training.
 
-- Increasing the investments in the continuing vocational training.
+4. Increasing the investments in the continuing vocational training.
 
-- Scientific assurance of the continuing vocational training.
+5. Scientific assurance of the continuing vocational training.
 
 [[END OF PAGE 8]]
 
@@ -220,9 +220,9 @@ For  development  of  the  conditions  for  access  to  the  continuing  vocatio
 
 - o Development  of  methods  and  conditions  for  open  training,  including  organization  of distance-training through the existing network as well as carrying out e-learning.
 
-Activity | Responsible institutions 4 | Time limit for | Sources of financing
+Activity | Responsible institutions⁴ | Time limit for execution | Sources of financing
 --- | --- | --- | --- | ---
-1. | Analysis of the present situation of the continuing vocational training in the country. | MES, МLSP, NAVET NSI | execution 2005 | PHARE Republican Budget
+1. | Analysis of the present situation of the continuing vocational training in the country. | MES, МLSP, NAVET NSI | 2005 | PHARE Republican Budget
 2. | Improving of the legal framework that regulates the possibilities for continuing vocational training. | МES МLSP МF, МE Social partners | 2005-2006 | Financing not required
 3. | Creation of a national information system for the demand and supply of vocational training. | МLSP МES and other Ministries, NAVET Social partners | 2005 -2006 | PHARE Republican Budget
 4. | Development and implementation of a programme motivating inclusion in continuing vocational training. | Employment Agency NIE, NAVET, social partners, organizations of regional and local governments. | 2005-2006 | Republican Budget
@@ -266,7 +266,7 @@ The realization of this priority requires accomplishment of the following activi
 
 Activity | Responsible institutions | Time limit for execution | Sources of financing
 --- | --- | --- | --- | ---
-1. | Creation of administrative capacity for coordination of the inter- institutional cooperation in the field of continuing training. | МLSP МES NAVET | 2005 | Republican Budget
+1. | Creation of administrative capacity for coordination of the inter-institutional cooperation in the field of continuing training. | МLSP МES NAVET | 2005 | Republican Budget
 2. | Elaboration of the normative order considering the responsibilities of the institutions involved in the continuing vocational training. | МLSP Ministries Social partners | 2005-2006 | Financing not required
 3. | Development measures for improvement the frame of the collective negotiation for the continuing vocational training of the labour force. | МLSP Ministries Social partners | 2005-2007 | Republican Budget
 4. | Activating the participation of the society in the dialogue on the continuing vocational training at regional and local levels. | Institutions and organizations on regional and local levels. | 2005-2007 | Republican Budget
@@ -313,7 +313,7 @@ For this goal it is envisaged:
 2. | Carrying out programmes for training of managers of the institutions - suppliers of continuing vocational training for strategic planning, for determination of the needs of training, marketing of the qualification services, etc. | МLSP МES NAVET МE Social partners | 2005-2008 | Republican Budget
 3. | Motivating the higher schools to include in the curriculum of the pedagogical specialties training in andragogics. | МES Higher schools | 2005-2006 | Financing not required.
 4. | Updating the material base in order to carry out continuing vocational training. | Responsible institutions on national, regional and local levels. | 2005-2010 | PHARE European Social Fund, Republican Budget, private capital, sponsors, donors.
-5. | Development and implementation of a system for validation of the qualification acquired through non-formal training or self- dependent studies. | МES МLSP Social partners | 2005-2007 | Republican Budget
+5. | Development and implementation of a system for validation of the qualification acquired through non-formal training or self-dependent studies. | МES МLSP Social partners | 2005-2007 | Republican Budget
 
 [[END OF PAGE 13]]
 
@@ -402,15 +402,15 @@ For execution of this priority is envisaged:
 
 ## ІV. FINANCIAL SECURITY OF THE CONTINUING VOCATIONAL TRAINING
 
-Investing in the quality of the human resources is a component of the general social policy of Republic of Bulgaria 5 .
+Investing in the quality of the human resources is a component of the general social policy of Republic of Bulgaria⁵.
 
 The analysis of the existing trends in the development of the continuing vocational training and  the  challenges  of  the  accession  to  the  European  Union  impose  the  conclusion  that  it  is necessary  to  invest  sensibly  more  in  the  training.  Accomplishment  of  the  objectives  and  the national priorities laid down in the Strategy requires significant financial resources.
 
-As  a  whole,  an  increase  in  the  share  of  the  public  expenses  for  education  is  expected, including vocational training (for 2002 it is 4.6% of the GDP; according to preliminary data for 2003, the share is 4,9% of the GDP) 6 .
+As  a  whole,  an  increase  in  the  share  of  the  public  expenses  for  education  is  expected, including vocational training (for 2002 it is 4.6% of the GDP; according to preliminary data for 2003, the share is 4,9% of the GDP)⁶.
 
 It is necessary to increase considerably the funds that the employers invest in updating and raising the vocational qualification of the employed in the enterprises labour force.
 
-The  used  approach  for programme  orientation of  funds  from  the  Republican  Budget should  be  applied  on  a  common  basis.  This  will  allow  maximally  effective  realization  of  the financial means in achievement of the goals of the Strategy through the responsible institutions МLSP, MES, MF, ME, MRDPW, MYS and other agencies and administrations. All of them will work for fulfillment of the basic priorities of the Strategy, in conformity with the time frame.
+The  used  approach  for programme  orientation of  funds  from  the  Republican  Budget should  be  applied  on  a  common  basis.  This  will  allow  maximally  effective  realization  of  the financial means in achievement of the goals of the Strategy through the responsible institutions - МLSP, MES, MF, ME, MRDPW, MYS and other agencies and administrations. All of them will work for fulfillment of the basic priorities of the Strategy, in conformity with the time frame.
 
 The  influx  of  funds  from international  aid will  continue  to  represent  a  significant contribution  to  securing  of  means  for  vocational  training  to  be  used  by  various  institutions  and target groups.
 
@@ -478,7 +478,7 @@ The monitoring of the activities on implementation of the Strategy is meant to s
 
 The variety of the activities requires that each one is subjected to special monitoring. For this purpose it is necessary to concretize in respective tasks the fulfillment of each activity. Those tasks should allow assessment and control of the progress in the implementation of the Strategy in conformity  with  the  specificity  of  the  different  parameters.  The  subject  of  the  monitoring  is determined by the circle of the indicated institutions, which are responsible for the implementation of the Strategy.
 
-The implementation of the Strategy as a whole, tables the necessity of carrying out also a general  monitoring.  Its  main  goal  is  to  secure  synchronization  and  mutual  assistance  at  the realization  of  planned  activities  and  priorities.  It  is  envisaged  that  this  monitoring  will  be accomplished  as  a  function  of  the  created  administrative  capacity  for  coordination  of  the  interinstitutional cooperation in the field of the policies for continuing vocational training, laid down as activity № 1 in priority № 2.
+The implementation of the Strategy as a whole, tables the necessity of carrying out also a general  monitoring.  Its  main  goal  is  to  secure  synchronization  and  mutual  assistance  at  the realization  of  planned  activities  and  priorities.  It  is  envisaged  that  this  monitoring  will  be accomplished  as  a  function  of  the  created  administrative  capacity  for  coordination  of  the  inter-institutional cooperation in the field of the policies for continuing vocational training, laid down as activity № 1 in priority № 2.
 
 [[END OF PAGE 19]]
 
@@ -494,7 +494,7 @@ Formal  training -  Training  that  is  carried  out  within  the  frame  of  th
 
 Non-formal  training -  Training  that  is  carried  out  within  the  frames  of  each  organized activity outside the formal system.
 
-Self-dependent studying - A process of studying (and self-education) during the entire life, by means of which are acquired knowledge and skills, adjustments, intellectual values of the everyday experience, through educational influence and sources of the surrounding social and material environment, including libraries and mass media.
+Self-dependent studying - A process of studying (and self-education) during the entire life, by means of which are acquired knowledge and skills, adjustments, intellectual values of the every-day experience, through educational influence and sources of the surrounding social and material environment, including libraries and mass media.
 
 Life-long learning - a process of learning and acquiring of knowledge by means of formal and non-formal training and studying, as well as through self-dependent studying, during the entire vital activity of the person.
 
