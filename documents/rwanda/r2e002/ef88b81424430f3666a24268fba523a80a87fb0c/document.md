@@ -2,9 +2,10 @@
 
 REPUBLIQUE DU RWANDA
 
-MINISTERE DE L'EDUCATION B.P. 622 KIGALI
+MINISTERE DE L’EDUCATION
+B.P. 622 KIGALI
 
-# POLITIQUE NATIONALE D'  ALPHABETISATION
+# POLITIQUE NATIONALE D’ALPHABETISATION
 
 [[END OF PAGE 1]]
 
@@ -12,93 +13,93 @@ MINISTERE DE L'EDUCATION B.P. 622 KIGALI
 
 ## TABLE DES MATIERES
 
+LISTE DES ABREVIATIONS .............................................................................................................................. 3
+I. INTRODUCTION ............................................................................................................................................. 4
+1.1. DEFINITION DU CONCEPT D’ALPHABETISATION .................................................................................... 4
+1.2.HISTORIQUE ................................................................................................................................................. 5
+II. ORIENTATIONS GENERALES .................................................................................................................... 6
+II.1 OBJECTIFS DE DEVELOPPEMENT DU MILLENAIRE (MDGS) ................................................................ 6
+II.2 VISION 2020 .................................................................................................................................................. 6
+II.3 STRATEGIE DE DEVELOPPEMENT ECONOMIQUE ET DE REDUCTION DE LA .................................... 7
+PAUVRETE (EDPRS) .......................................................................................................................................... 7
+II.4 POLITIQUE NATIONALE DE DECENTRALISATION .................................................................................. 7
+II.5 PLAN D’ACTION DE L’EDUCATION POUR TOUS ...................................................................................... 8
+II.6 POLITIQUE NATIONALE DU GENRE ........................................................................................................... 9
+II.7 STRATEGIES SECTORIELLES DU MIJESPOC .......................................................................................... 10
+II.8 STRATEGIE NATIONALE D’INVESTISSEMENT ....................................................................................... 10
+II.9 NOUVEAU PARTENARIAT POUR LE DEVELOPPEMENT DE L’AFRIQUE (NEPAD) ............................ 10
+III. ANALYSE SITUATIONNELLE .................................................................................................................. 11
+III.1. PROBLEMATIQUE .................................................................................................................................... 11
+III.2. FORCES ET FAIBLESSES DU SECTEUR DE L’ALPHABETISATION ..................................................... 13
+IV. PRINCIPES DIRECTEURS DE LA POLITIQUE NATIONALE D’ALPHABETISATION ................... 14
+V.1 VISION ........................................................................................................................................................ 15
+V.2 MISSION ...................................................................................................................................................... 15
+VI. OBJECTIFS DE LA POLITIQUE NATIONALE D’ALPHABETISATION .............................................. 15
+VI.1 OBJECTIF GENERAL ................................................................................................................................. 15
+VI.2 OBJECTIFS SPECIFIQUES ......................................................................................................................... 15
+VII. STRATEGIES DE LA POLITIQUE NATIONALE D’ALPHABETISATION ......................................... 16
+VII.1 STRATEGIE GENERALE ........................................................................................................................... 16
+VII.2 STRATEGIES SPECIFIQUES ..................................................................................................................... 16
+VIII. PROGRAMMES D’ALPHABETISATION .............................................................................................. 16
+IX. CADRE DE REALISATION DE LA POLITIQUE ..................................................................................... 17
+X. MECANISMES DE SUIVI ET EVALUATION ............................................................................................ 17
+
 2
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-## L/STE DES ABREVIA TIONS
+## LISTE DES ABREVIATIONS
 
-CEPGL
+CEPGL : Communauté Economique des Pays des Grands Lacs
 
-COMES A
+COMESA : (Common Market of Eastern and Southern Africa)
+Marché Commun pour l’Afrique Orientale et Australe
 
-COOPECs
+COOPECs : Coopératives d’Epargne et de Crédits
 
-EAC
+EAC : (East African Community)
+Communauté des Pays de l’Afrique de l’Est
 
-EDPRS
+EDPRS : (Economic Development and Poverty Reduction Strategy)
+Stratégie de Développement Economique et de Réduction de la Pauvreté
 
-EICV
+EICV : Enquête Intégrale sur les Conditions de Vie des Ménages
 
-EPT
+EPT : Education Pour tous
 
-FAWE
+FAWE : Forum des Femmes Educatrices Africaines
 
-FRW
+FRW : Franc Rwandais
 
-MDGs
+MDGs : (Millennium Development Goals)
+Objectifs de Développement du Millénaire
 
-: Communaute Economique des Pays des Grands Lacs
+MIGEPROFE : Ministère du Genre et de la Promotion de la Femme
 
-:(Common Market of  Eastern and Southern Africa) Marc  he Commun pour I'  Afrique Orientale et Australe
+MIJESPOC : Ministère de la Jeunesse, des sports et de la Culture
 
-:Cooperatives d'Epargne et de Credits
+MINADEF : Ministère de la Défense Nationale
 
-: (East African Community) Communaute des Pays de I'  Afrique de !'Est
+MINALOC : Ministère de l’Administration Locale
 
-: (Economic Development and Poverty Reduction Strategy) Strategie de Developpement Economique et de Reduction de Ia Pauvrete
+MINECOFIN : Ministère des Finances et de la Planification Economique
 
-: Enquete lntegrale sur Jes  Conditions de Vie des Menages
+MINEDUC : Ministère de l’Education, des Sciences, de la Technologie et de la Recherche
+Scientifique
 
-: Education Pour to us
+NEPAD : (New Partnership for Africa’s Development)
+Nouveau Partenariat pour le Développement de l’Afrique
 
-:Forum des Femmes Educatrices Africaines
+ONGs : Organisations Non Gouvernementales
 
-: Franc R  wan  dais
+PRSP : (Poverty Reduction Strategy Paper)
+Document de Stratégie pour la Réduction de la Pauvreté
 
-:(Millennium Development Goals) Objectifs de Developpement du Millenaire
+UNESCO : Organisation des Nations Unies pour l’Education et la Culture
 
-MIGEPROFE  : Ministere du Genre et de  Ia Promotion de Ia Femme
-
-MIJESPOC
-
-: Ministere de  Ia Jeunesse, des sports et de Ia Culture
-
-MINADEF
-
-: Ministere de Ia Defense Nationale
-
-MINALOC
-
-: Ministere de I' Administration Locale
-
-MINECOFIN  : Ministere des Finances et de  Ia  Planification Economique
-
-MINEDUC
-
-: Ministere de I  'Education, des  Sciences, de  Ia Technologic et de  Ia Recherche Scientifique
-
-NEPAD
-
-:(New Partnership for Africa's Development) Nouveau Partenariat pour Je Developpement de  I'  Afrique
-
-ONGs
-
-: Organisations  Non Gouvernementales
-
-PRSP
-
-:(Poverty  Reduction Strategy Paper) Document de Strategic pour Ia Reduction de  Ia Pauvrete
-
-UNESCO
-
-: Organisation des Nations Unies pour I  'Education  et Ia  Culture
-
-VIH/SIDA
-
-:Virus d'lmmunodeficience Humaine/Syndrome d'Immunodeficience Acquise
+VIH/SIDA : Virus d’Immunodéficience Humaine/Syndrome d’Immunodéficience Acquise
 
 3
 
@@ -106,29 +107,29 @@ VIH/SIDA
 
 [[START OF PAGE 4]]
 
-## I.  Introduction
+## I. Introduction
 
-L'acces a  !'information est  essentiel  a  Ia  construction  des  societes  du  savoir.  Au  coeur  de celles-ci,  il  y  a  Ia  capacite  d'indetifier, de  produire,  de  trailer,  de  transformer,  de  diffuser  et d'utiliser  !'information  en  vue  de  creer  et  d'appliquer  les  connaissances  necessaires  au developpement humain.  La source d'information Ia  plus  importante dans  le  monde  actuel·se trouve  dans  les  ecrits  de  toutes  sortes:  les  livres,  les  bulletins  d'information, les  journaux, l'intemet, ... Et personne ne  peut pretendre y acceder s'il ne dispose  pas de  cle sine qua non qu'est le savoir  de  l'ecriture  et de Ia lecture, brefs'il n'a  pas eu  Ia chance d'etre alphabetise.
+L’accès à l’information est essentiel à la construction des sociétés du savoir. Au cœur de celles-ci, il y a la capacité d’indetifier, de produire, de traiter, de transformer, de diffuser et d’utiliser l’information en vue de créer et d’appliquer les connaissances nécessaires au développement humain. La source d’information la plus importante dans le monde actuel se trouve dans les écrits de toutes sortes : les livres, les bulletins d’information, les journaux, l’internet, ... Et personne ne peut prétendre y accéder s’il ne dispose pas de clé sine qua non qu’est le savoir de l’écriture et de la lecture, bref s’il n’a pas eu la chance d’être alphabétisé.
 
-Conscicnt de  tels  enjeux,  Je  Gouvernement Rwandais, it travers son Ministere de !'Education, a  decide  de se doter  d'une  politique  nationale  d'alphabetisation  en  vue  de  canaliser  et harmoniser taus les efforts fournis par differents acteurs intervenants dans ce domaine sur tout le territoire.
+Conscient de tels enjeux, le Gouvernement Rwandais, à travers son Ministère de l’Education, a décidé de se doter d’une politique nationale d’alphabétisation en vue de canaliser et harmoniser tous les efforts fournis par différents acteurs intervenants dans ce domaine sur tout le territoire.
 
-### 1.1.  Definition du Concept d'  Alphabetisation
+### 1.1. Définition du Concept d’Alphabétisation
 
-Le dictionnaire Larousse definit « alphabetiser ,,  comme : apprendre a  lire  eta ecrire a  !'age adulte.
+Le dictionnaire Larousse définit « alphabétiser » comme : apprendre à lire et à écrire à l’âge adulte.
 
-Quoi  qu'il n'y ait  pas de definition commune et universelle,  les Nations Unies detinissent de fa9on  ambigue un  analphabete comme une personne iigee de  15 ans ou plus, qui ne sait ni  lire ni  ecrire.  Selon  l'lnstitut des  Statistiques  de  !'UNESCO, l'alphabetisme est  defini  comme etant << Ia  capacite de lire une Jettre ou  unjournal, soil de maniere aisee,  soit avec difficulte » 1 ·
+Quoi qu’il n’y ait pas de définition commune et universelle, les Nations Unies définissent de façon ambiguë un analphabète comme une personne âgée de 15 ans ou plus, qui ne sait ni lire ni écrire. Selon l’Institut des Statistiques de l’UNESCO, l’alphabétisme est défini comme étant « la capacité de lire une lettre ou un journal, soit de manière aisée, soit avec difficulté »¹.
 
-Par ailleurs, on distingue deux sortes d'alphabetisation :
+Par ailleurs, on distingue deux sortes d’alphabétisation :
 
-- L'alphabetisation classique, qui consiste a enseigner a des personnes des matieres dont !'utilisation n'est  pas immediate, mais qui serviront dans l'avenir
+- L’alphabétisation classique, qui consiste à enseigner à des personnes des matières dont l’utilisation n’est pas immédiate, mais qui serviront dans l’avenir
 
-- L'alphabetisation fonctionnelle,  qui  s'oppose ala precedente parses methodes, donne il l'apprcnant des  aptitudes  il s'adapter il son  environnemcnt  social,  economique, sanitaire  et  culture!, etc. Elle  constitue J'une  des  c!es  de  base  donnant  acces a !'information, ala connaissance, de meme qu'il une plus grande communication. De ce fait,  elle  n'est pas  Ia  simple  capacite  de  lire  ou  ecrire  mais  Ia  partie  fonctionnelle  et productive d'une societe donnee.
+- L’alphabétisation fonctionnelle, qui s’oppose à la précédente par ses méthodes, donne à l’apprenant des aptitudes à s’adapter à son environnement social, économique, sanitaire et culturel, etc. Elle constitue l’une des clés de base donnant accès à l’information, à la connaissance, de même qu’à une plus grande communication. De ce fait, elle n’est pas la simple capacité de lire ou écrire mais la partie fonctionnelle et productive d’une société donnée.
 
-La  politique de  l'alphabetisation est egalement une  des strategies de  lutte contre  Ia  pauvrete. Elle  s'inscrit dans  le  cadre  des  programmes  de  developpement  definis  par  le  gouvernemcnt rwandais (Vision 2020, EDPRS, ...  )
+La politique de l’alphabétisation est également une des stratégies de lutte contre la pauvreté. Elle s’inscrit dans le cadre des programmes de développement définis par le gouvernement rwandais (Vision 2020, EDPRS, ...)
 
-L'alphabetisation  donne  acces  il !'education  formelle  et  non  formelle,  de  memc  qu'il  Ia formation  technique  et  professionnelle.  Elle  renforce  Ia  capacite  des  communautes  en  leur permettant de  rentrer en  contact avec  d'autres communautes en matiere d'echanges de  biens, de  services  et d'idees, pour  leur epanouissement economique, social,  culture!,  ...  Elle  facilitc une  implication  plus  efficiente  des  populations  dans  toutes  sortes  d'initiatives citoyennes (Elections, Tribunaux GACACA, Reconciliation nationalc, ...  )
+L’alphabétisation donne accès à l’éducation formelle et non formelle, de même qu’à la formation technique et professionnelle. Elle renforce la capacité des communautés en leur permettant de rentrer en contact avec d’autres communautés en matière d’échanges de biens, de services et d’idées, pour leur épanouissement économique, social, culturel,... Elle facilite une implication plus efficiente des populations dans toutes sortes d’initiatives citoyennes (Elections, Tribunaux GACACA, Réconciliation nationale,...)
 
-> 1 "Literacy and Non-Formal  Education  Section: Literacy statistics Mctadata Table)), UNESCO Institute for statistics, September 2006
+> 1 « Literacy and Non-Formal Education Section: Literacy statistics Metadata Table », UNESCO Institute for statistics, September 2006
 
 4
 
@@ -136,33 +137,29 @@ L'alphabetisation  donne  acces  il !'education  formelle  et  non  formelle,  d
 
 [[START OF PAGE 5]]
 
-i
-
-_;
-
 ### 1.2.Historique
 
 #### (i) Contexte National
 
-##### a) Contexte socio-economique
+##### a) Contexte socio-économique
 
-L'education populaire est  considenle  par le  Gouvernement rwandais  comme  une  priorite  des programmes  de  reduction  de  Ia  pauvrete.  Elle  est  un  des  piliers  importants  de  Ia  bonne gouvernance, dans Ia mesure oil les directives donnees sont mieux comprises et entralnent une meilleure adhesion des masses.
+L’éducation populaire est considérée par le Gouvernement rwandais comme une priorité des programmes de réduction de la pauvreté. Elle est un des piliers importants de la bonne gouvernance, dans la mesure où les directives données sont mieux comprises et entraînent une meilleure adhésion des masses.
 
-Elle devrait egalement constituer une bonne strategic de  promotion du Secteur Prive, dans  Ia mesure  oit  elle  facilite  !'implication des  populations  dans  Ia  prise  en  charge  des  activites socioeconomigues ex : COOPECs).
+Elle devrait également constituer une bonne stratégie de promotion du Secteur Privé, dans la mesure où elle facilite l’implication des populations dans la prise en charge des activités socioéconomiques ex : COOPECs).
 
-Cependant,  selon  I'Enguete lntegrale  sur  les  Conditions  de  vie  des  Menages  de  2005/2006 (EICV II  2005/2006),  60.4% de  Ia  population rwandaise etait  identifies comme pauvre.  Cette pauvrete determine une economic de subsistance et de survie. Aussi,  un  adulte ne trouvera pas un  interet  immediat  a  consacrer son temps et ses ressources  a  !'instruction, meme  si  celle-ci peut augmenter ses chances de promotion sociale.
+Cependant, selon l’Enquête Intégrale sur les Conditions de vie des Ménages de 2005/2006 (EICV II 2005/2006), 60.4% de la population rwandaise était identifiés comme pauvre. Cette pauvreté détermine une économie de subsistance et de survie. Aussi, un adulte ne trouvera pas un intérêt immédiat à consacrer son temps et ses ressources à l’instruction, même si celle-ci peut augmenter ses chances de promotion sociale.
 
-##### b) Contexte Politique et culture]
+##### b) Contexte Politique et culturel
 
-Les differents  pouvoirs  politiques  qui se sont  succedes  au Rwanda  ont  instrumentalise !'ignorance des  populations pour les  manipuler et les entra!ner dans  de  pires clivages tels  que I'Ethnisme et le  Regionalisme. Ces divisions ant souvent conduit le peuple rwandais dans des violences collectives it repetition, qui ont culmine dans le genocide de  1994.
+Les différents pouvoirs politiques qui se sont succédés au Rwanda ont instrumentalisé l’ignorance des populations pour les manipuler et les entraîner dans de pires clivages tels que l’Ethnisme et le Régionalisme. Ces divisions ont souvent conduit le peuple rwandais dans des violences collectives à répétition, qui ont culminé dans le génocide de 1994.
 
-II a ete remargue  que les mauvaises politiques passaient plus facilement aupres des populations  analphabetes  gu'aupres des  populations  instruites,  lesquelles  avaient  davantage acces it !'information et pouvaient mieux developper une certaine capacite d'analyse critique (Critical thinking).
+Il a été remarqué que les mauvaises politiques passaient plus facilement auprès des populations analphabètes qu’auprès des populations instruites, lesquelles avaient davantage accès à l’information et pouvaient mieux développer une certaine capacité d’analyse critique (Critical thinking).
 
-#### (ii) Contexte Regional et International
+#### (ii) Contexte Régional et International
 
-L'Education est aussi  un  des  outils  majeurs  d'integration, dans  une  ere  oil  Ia  globalisation  a reduit  le  monde it un  village  planetaire.  Actuellement,  beaucoup de  transactions  se  font  par simple clic d'un point sur le clavier d'un ordinateur,  d'un telephone mobile, etc.  L'utilisation des  Nouvelles  Technologies de  I  'Information est  devenu  un  instrument  incontournable  dans l'essor  socio-economigue des peuples.
+L’Education est aussi un des outils majeurs d’intégration, dans une ère où la globalisation a réduit le monde à un village planétaire. Actuellement, beaucoup de transactions se font par simple clic d’un point sur le clavier d’un ordinateur, d’un téléphone mobile, etc. L’utilisation des Nouvelles Technologies de l’Information est devenu un instrument incontournable dans l’essor socio-économique des peuples.
 
-Au  niveau regional,  I'  Education  populaire est une des strategies envisagees pour I'  integration de  notre  population  dans  les  differents  grands  ensembles  regionaux  auxquels  le  Rwanda  a choisi d'adherer (CO  MESA, CEPGL, EAC, NEPAD,  ...  )
+Au niveau régional, l’Education populaire est une des stratégies envisagées pour l’intégration de notre population dans les différents grands ensembles régionaux auxquels le Rwanda a choisi d’adhérer (COMESA, CEPGL, EAC, NEPAD, ...)
 
 5
 
@@ -170,43 +167,37 @@ Au  niveau regional,  I'  Education  populaire est une des strategies envisagees
 
 [[START OF PAGE 6]]
 
-## II. Orientations Generales
+## II. Orientations Générales
 
-La Politique  Nationale  d'  Alphabetisation  s'inscrira dans  les  strategies  gouvernementales pour atteindre les objectifs definis dans :
+La Politique Nationale d’Alphabétisation s’inscrira dans les stratégies gouvernementales pour atteindre les objectifs définis dans :
 
-### 11.1  Objectifs de Developpement du Millenaire (MDGs)
+### II.1 Objectifs de Développement du Millénaire (MDGs)
 
-Vu  que  le  monde est considenl comme un  village planetaire,  une grande partie du monde en  tier a participe du 6 au  8 septembre 2000 a New York, au sommet du Millenaire, au sein des Nations  unies  et  s'est engagee  a  un  developpement soutenu  pour nlduire  Ia  pauvrete de fa9on  significative dans  le monde entier.
+Vu que le monde est considéré comme un village planétaire, une grande partie du monde entier a participé du 6 au 8 septembre 2000 à New York, au sommet du Millénaire, au sein des Nations unies et s’est engagée à un développement soutenu pour réduire la pauvreté de façon significative dans le monde entier.
 
-Parmi les 8 objectifs, les 3  ci-dessous  soulignent  le  probleme  de Ia pauvrete, de !'education, de !'information et communication:
+Parmi les 8 objectifs, les 3 ci-dessous soulignent le problème de la pauvreté, de l’éducation, de l’information et communication:
 
-Objectif I : Eliminer,  d'ici 2015,  Ia  faim  et  Ia  malnutrition  de  30% de  Ia  population  en augmentant  Ia production, !'acces  et  !'utilisation  des nourritures nutritives  dans  les menages, et en ameliorant le statui alimentaire des femmes enceintes, des meres nourricieres et des enfants en  bas age de moins de 5 ans  ;
+Objectif 1 : Eliminer, d’ici 2015, la faim et la malnutrition de 30% de la population en augmentant la production, l’accès et l’utilisation des nourritures nutritives dans les ménages, et en améliorant le statut alimentaire des femmes enceintes, des mères nourricières et des enfants en bas âge de moins de 5 ans ;
 
-Objectif 2  : Assurer Ia  pleine assistance aux ecoles primaires pour les gar9ons et les filles, et  eliminer  Ia disparite  de genre  en  ramenant  le taux  de  transition  du  primaire  au secondaire de 42% en 2000 il 80% en 2015,  le taux d'enr6lement net au  secondaire de 20 %  a I  00%,  le  taux  de  scolarisation  au  tertiaire  de  I% de  Ia  population  en  2000 il 6% en 2015 et Ia parite des sexes dans l'enseignement  tertiaire de 30% a  50%.
+Objectif 2 : Assurer la pleine assistance aux écoles primaires pour les garçons et les filles, et éliminer la disparité de genre en ramenant le taux de transition du primaire au secondaire de 42% en 2000 à 80% en 2015, le taux d’enrôlement net au secondaire de 20 % à 100%, le taux de scolarisation au tertiaire de 1% de la population en 2000 à 6% en 2015 et la parité des sexes dans l’enseignement tertiaire de 30% à 50%.
 
-Objectif 3 :  Augmenter de  50%  le  nombre  de  personnes  qui  accedent aux  avantages  de nouvelles technologies, en particulier des technologies de !'information  et de Ia communication, par l'acces il l'intemet  et aux services de telephones mobiles.
+Objectif 3 : Augmenter de 50% le nombre de personnes qui accèdent aux avantages de nouvelles technologies, en particulier des technologies de l’information et de la communication, par l’accès à l’internet et aux services de téléphones mobiles.
 
-Au  vu  de  ces  objectifs  de  developpement  du  Mill<lnaire,  aucun  parmi  eux ne  pourra etre atteint  si  Ia  population  beneficiaire  n'est pas  adequatement  alphabetisee  et  mobilisee  a accepter et adopter le  changement.
+Au vu de ces objectifs de développement du Millénaire, aucun parmi eux ne pourra être atteint si la population bénéficiaire n’est pas adéquatement alphabétisée et mobilisée à accepter et adopter le changement.
 
-### 11.2  Vision  2020
+### II.2 Vision 2020
 
-Lc Rwanda a traduit les objectifs du Millenaire en Vision 2020 et ne cesse d'entreprendre des  initiatives  qui  visent  a  atteindre differents objectifs economiques et sociaux exprimes par cette vision.
+Le Rwanda a traduit les objectifs du Millénaire en Vision 2020 et ne cesse d’entreprendre des initiatives qui visent à atteindre différents objectifs économiques et sociaux exprimés par cette vision.
 
-La vision 2020 est un  cadre de  developpement a  long terme qui  decline les aspirations de Ia  population rwandaise d'ici !'horizon  2020. Les elements cle de  Ia vision 2020 sont:
+La vision 2020 est un cadre de développement à long terme qui décline les aspirations de la population rwandaise d’ici l’horizon 2020. Les éléments clé de la vision 2020 sont:
 
-- La bonne gouvernance economique et politigue ;
-
-- La transformation economique rurale ;
-
-- Le Developpement des services de l'industrie;
-
-- Le developpement des ressources humaines ;
-
-- Le cteveloppement et Ia  promotion du secteur privc;
-
-- L'integration economique, regionale et internationale;
-
-- La reduction de Ia pauvrete ;
+- La bonne gouvernance économique et politique ;
+- La transformation économique rurale ;
+- Le Développement des services de l’industrie ;
+- Le développement des ressources humaines ;
+- Le développement et la promotion du secteur privé ;
+- L’intégration économique, régionale et internationale ;
+- La réduction de la pauvreté ;
 
 6
 
@@ -214,33 +205,29 @@ La vision 2020 est un  cadre de  developpement a  long terme qui  decline les as
 
 [[START OF PAGE 7]]
 
-- La reduction de Ia prevalence du VIH/SIDA ;
+- La réduction de la prévalence du VIH/SIDA ;
+- La lutte contre le paludisme et les autres maladies endémiques ;
+- La réduction de la mortalité infantile (de 107 à 50 pour 1000) et maternelle (de 1070 à 200 pour 100000) ;
+- L’évacuation des déchets et des eaux usées ainsi que les mesures d’hygiène à tous les niveaux ;
+- L’éducation pour tous.
 
-- La lutte contre le paludisme et les mitres maladies endemiques ;
+La vision 2020 veut ainsi bâtir un pays nouveau qui sera une nation moderne, forte de son unité, politiquement stable, socialement cohérente et économiquement fiable, un pays où sont bannies toutes formes de discrimination entre ses filles et garçons.
 
-- La  reduction  de  Ia  mortalite  infantile  (de  I  07 ii 50  pour  1000)  et  maternelle (de  107011200 pour 100000);
+Et par voie de conséquence, la même vision 2020, centrée sur le développement des ressources humaines, va s’asseoir sur une économie prospère fondée sur le savoir, au moyen d’une politique d’alphabétisation généralisée, une formation scientifique, technologique, professionnelle et managériale ainsi qu’une parfaite égalité entre les genres et une maîtrise de la croissance démographique.
 
-- L'evacuation des  dechets et des  eaux usees  ainsi  que  les  mesures  d'hygiene a tous les niveaux ;
+### II.3 Stratégie de Développement Economique et de Réduction de la Pauvreté (EDPRS)
 
-- L'education pour tous.
+En l’an 2001, il a été élaboré un Programme National de Réduction de la Pauvreté (PRSP) qui, à sa deuxième phase en 2007 est devenu « Stratégie de développement Economique et de Réduction de la Pauvreté (EDPRS) ». Il est un élément clé dans la planification nationale, et servira de guide pour le Gouvernement dans ses dépenses. Ce programme souligne l’importance de prioriser les programmes et les projets de grand impact pour qu’ils aient le plus grand effet dans la réduction de la pauvreté. Il offre aussi le cadre dans lequel les communautés, le secteur privé, la société civile et les bailleurs de fonds peuvent former un partenariat capable de réduire la pauvreté de notre peuple.
 
-La vision 2020 veut ainsi batir un pays nouveau qui  sera une nation moderne, forte de son unite,  politiquement stable,  socialement coherente  et economiquement fiable,  un  pays  oi1 sont bannies !mites formes de discrimination entre ses filles et gar9ons.
+### II.4 Politique Nationale de Décentralisation
 
-Et  par  voie  de  consequence,  Ia  meme  vision  2020,  centree  sur  le  developpement  des ressources  humaines,  va  s'asseoir sur  une  economie  prospere  fondee  sur  le  savoir,  au moyen d'une politique d'alphabetisation generalisee, une formation scientifique, technologique, professionnelle et manageriale ainsi qu 'une parfaite ega  lite entre les genres et une ma1trise de Ia croissance demographique.
+« La politique nationale de décentralisation a pour but d’assurer l’habilitation politique, économique, sociale, administrative et technique de la population locale, à lutter contre la pauvreté par leur implication massive dans le processus de planification et de gestion de leur localité »².
 
-### 11.3  Strategie de Developpement Economique et de Reduction de Ia Pauvrete (EDPRS)
+Les autorités rwandaises considèrent la décentralisation vers la base comme le seul moyen de viabiliser les milieux ruraux. C’est dans ce cadre qu’avec la réforme administrative de janvier 2006, le secteur administratif est pris comme unité ou pôle de développement du pays.
 
-En I' an  200 I,  il a ete  elabore  un Programme National  de  Reduction  de  Ia  Pauvrete  (PRSP) qui,  a  sa  deuxieme phase en 2007 est devenu «Strategic de developpement Economique et de  Reduction  de  Ia  Pauvrete  (EDPRS) ». II est  un element  cle  dans  Ia planification nationale,  et  servira  de  guide  pour  le  Gouvernement  dans  ses  depenses.  Ce  programme souligne !'importance de  prioriser les  programmes et  les projets  de  grand  impact  pour qu'ils aient le plus grand effet dans  Ia reduction de  Ia  pauvrete. II  offre aussi  le cadre dans lequel  les communautes,  le  secteur prive,  Ia  societe  civile  et  les  bailleurs de  fonds  peuvent  former un partenariat capable de  reduire Ia  pauvrete de notre peuple.
+Il revient donc au Ministère, ayant la population sous sa responsabilité, de faire acquérir cette même population les compétences nécessaires, afin de pouvoir prendre en mains sa destinée. D’où s’avère-il indispensable de mettre sur pied un système d’organisation des formations continues en faveur de la population pour aboutir à la bonne gouvernance.
 
-### 11.4  Politique Nationale de Decentralisation
-
-« La  politique  nationale  de decentralisation  a  pour  but  d'assurer  !'habilitation  politique, economique,  sociale,  administrative  et  technique  de  Ia  population  locale, ii Iutter  contre  Ia pauvrete par leur  implication massive dans le processus de planification et de gestion de  leur localite >>. 2
-
-Les autorites rwandaises considerent  Ia decentralisation vers Ia base comme le  seul moyen de viabiliser les milieux ruraux.  C'est  dans ce cadre qu'avec Ia reforme administrative de janvier
-
-2006,  le secteur administratif est pris com me unite ou  pOle de developpcment du  pays. II  revient done au Ministere, ayant Ia  population sous sa responsabilite,  de  faire acquerir cette meme population les competences  necessaires, afin de  pouvoir prendre en  mains sa destinee. D'oi1 s'avere-il indispensable  de  mettre  sur  pied  un  systeme  d'organisation des  formations continues en faveur de Ia population pour aboutir ala bonne gouvernance.
-
-> 2 Politique Nationalc de OCcentra!isation,  2000, P.  4
+> 2 Politique Nationale de Décentralisation, 2000, P. 4
 
 7
 
@@ -248,29 +235,29 @@ Les autorites rwandaises considerent  Ia decentralisation vers Ia base comme le 
 
 [[START OF PAGE 8]]
 
-### 11.5  Plan d'Action de !'Education pour Taus
+### II.5 Plan d’Action de l’Education pour Tous
 
-«En avril  2000, le Forum Mondial de !'Education a adopte a  Dakar, un cadre  d'action qui a exhorte Ia communaute intemationale a  assurer l'acces it un  enseignement de Base de  qualite pour taus  d'  ici  2015.  Chaque gouvernement  a ete  vivement  conseille  de  mettre  sur pied  un plan d  'Action National de !'Education  pour Taus (EPT) » 3
+« En avril 2000, le Forum Mondial de l’Education a adopté à Dakar, un cadre d’action qui a exhorté la communauté internationale à assurer l’accès à un enseignement de Base de qualité pour tous d’ici 2015. Chaque gouvernement a été vivement conseillé de mettre sur pied un plan d’Action National de l’Education pour Tous (EPT) »³
 
-Le  Rwanda  a  pris  !'engagement de  realiser  ce  plan  d'action par  l'atteinte des  objectifs  ci­ dessous :
+Le Rwanda a pris l’engagement de réaliser ce plan d’action par l’atteinte des objectifs ci-dessous :
 
-- Elargir  et  ameliorer  !'ensemble des  soins  des  Ia  petite  enfance  et  !'education specialement pour les enfants les plus vulnerables et les  plus demunis ;
+i. Elargir et améliorer l’ensemble des soins dès la petite enfance et l’éducation spécialement pour les enfants les plus vulnérables et les plus démunis ;
 
-- Faire en sorte que d'ici 2015 taus les enfants, particulierement les filles,  les enfants vivant dans des circonstances difficiles et ceux  appartenant aux personnes vulnerables  accedent et completent  l'enseignement primaire obligatoire,  gratuit et de bonne qualite;
+ii. Faire en sorte que d’ici 2015 tous les enfants, particulièrement les filles, les enfants vivant dans des circonstances difficiles et ceux appartenant aux personnes vulnérables accèdent et complètent l’enseignement primaire obligatoire, gratuit et de bonne qualité;
 
-- Satisfaire  les  besoins  d'apprentissage des  jeunes  gens  et  taus  les  adultes  en  leur offrant  un acces  equitable  aux  programmes  appropries  d'apprentissage  et  de competences dans Ia vie ;
+iii. Satisfaire les besoins d’apprentissage des jeunes gens et tous les adultes en leur offrant un accès équitable aux programmes appropriés d’apprentissage et de compétences dans la vie ;
 
-- Realiser une amelioration  de  50% des  niveaux d'alphabetisation des adultes  d'ici 2015,  specialement pour les  femmes,  et faciliter l'acces  a  l'enseignement de base, et ala formation continue pour taus les adultes ;
+iv. Réaliser une amélioration de 50% des niveaux d’alphabétisation des adultes d’ici 2015, spécialement pour les femmes, et faciliter l’accès à l’enseignement de base, et à la formation continue pour tous les adultes ;
 
-- Eliminer  les  disparites  du  genre  dans  l'enseignement primaire  et  secondaire d'ici 2015, en vue d'assurer  aux filles un  acces ega! et complet itl'enseignement  de base de bonne qualite ;
+v. Eliminer les disparités du genre dans l’enseignement primaire et secondaire d’ici 2015, en vue d’assurer aux filles un accès égal et complet à l’enseignement de base de bonne qualité ;
 
-- Ameliorer taus les aspects de Ia qualite de  !'education  et assurer !'excellence pour taus afin  qu'ils puissent realiser des  resultats  de  l'apprentissage deja  reconnus  et mesurables,  specialement dans  l'alphabetisation, le  calcul  et  les  competences  de vie essentielles.
+vi. Améliorer tous les aspects de la qualité de l’éducation et assurer l’excellence pour tous afin qu’ils puissent réaliser des résultats de l’apprentissage déjà reconnus et mesurables, spécialement dans l’alphabétisation, le calcul et les compétences de vie essentielles.
 
-- Le  Gouvernement  Rwandais  a  en  plus  ajoute  un  septieme  objectif  relatif  au VIH/SIDA  dans  les  ecoles it savoir: Prevenir Ia propagation  et  empecher !'augmentation  de !'infection  du YIH/SIDA it l'interieur  et en dehors de l'environnement  scolaire.
+vii. Le Gouvernement Rwandais a en plus ajouté un septième objectif relatif au VIH/SIDA dans les écoles à savoir: Prévenir la propagation et empêcher l’augmentation de l’infection du VIH/SIDA à l’intérieur et en dehors de l’environnement scolaire.
 
-En octobre 2000, le Premier  Ministre a attribue au Ministere de I  'Education Ia responsabilite  de  coordonner  les  differents  Ministeres  concemes par l'EPT. Depuis  Iars, une  structure de  gestion  a ete  developpee  pour  l'EPT et  un  certain  nombre  d'actions ant ete entreprises  pour !'elaboration  d'un Plan d'  Action National.
+En octobre 2000, le Premier Ministre a attribué au Ministère de l’Education la responsabilité de coordonner les différents Ministères concernés par l’EPT. Depuis lors, une structure de gestion a été développée pour l’EPT et un certain nombre d’actions ont été entreprises pour l’élaboration d’un Plan d’Action National.
 
-> 3 Education  Pour  Taus, Plan d' Action,  MinistCrc de !'Education, de  Ia Science,  de Ia  Technologic et de  Ia  Recherche Scicntifiquc, p. 7
+> 3 Education Pour Tous, Plan d’Action, Ministère de l’Education, de la Science, de la Technologie et de la Recherche Scientifique, p.7
 
 8
 
@@ -278,35 +265,26 @@ En octobre 2000, le Premier  Ministre a attribue au Ministere de I  'Education I
 
 [[START OF PAGE 9]]
 
-,
+Un Forum National pour l’Education a été mis sur pied pour coordonner l’exécution du cadre de Dakar au niveau national. Le Forum comporte des représentants des Ministères concernés, des ONG, des Eglises et des Organisations tant Nationales qu’Internationales impliquées dans l’éducation. Le Forum avait de prime abord la responsabilité d’assurer la préparation d’un Plan d’Action National. A cet effet, une Conférence Nationale a été lancée pour la formulation des types d’activités principales et la ratification des actions entreprises par le Forum.
 
-_ __:
+Le secrétariat pour le Forum a été établi au MINEDUC et des comités de l’EPT ont été créés au niveau des provinces et des districts. Aussi sept groupes thématiques ont été formés en vue d’une mise en œuvre de cette politique d’alphabétisation tout en tenant compte des réalisations de chaque groupe thématiques. ces différents groupes se présentent comme suit :
 
-Un  Forum  National  pour  I'Education a etc  mis  sur  pied  pour coordonner  l'execution du cadre  de  Dakar au  niveau national.  Le  Forum  comporte  des  representants  des  Ministeres concernes,  des  ONG, des Eglises et  des  Organisations  tant Nationales  qu'Internationales impliquees dans !'education. Le Forum  avail de  prime abord  Ia  responsabilite d'assurer Ia preparation  d'un Plan  d'  Action  National.  A  cet  effet,  une  Conference  Nationale  a  ete lancee  pour  Ia  fonnulation  des types  d'activites principales  et  Ia  ratification  des  actions entreprises par le Forum.
+1. L’enseignement préscolaire et maternel
+2. L’accès et la rétention dans l’enseignement primaire
+3. L’amélioration de la qualité de l’enseignement
+4. La réduction des inégalités dans l’enseignement
+5. La formation professionnelle des jeunes et des adultes
+6. La lutte contre le VIH/SIDA.
 
-Le  secretariat pour  le  Forum  a  ete  etabli  au  MINEDUC  et  des comites  de  I'EPT ant ete crees au  niveau  des  provinces  et  des  districts.  Aussi  sept  groupes  thematiques  ont  ete formes  en  vue  d'une mise  en  ruuvre  de  cette  politique  d'alphabetisation tout  en  tenant compte des realisations de chaque groupe thematiques. ces differents groupes se presentent comme suit :
+### II.6 Politique Nationale du Genre
 
-- L'enseignement  prescolaire et maternel
+La politique Nationale du Genre s’inscrit dans le cadre de l’agenda de développement durable adopté par le Gouvernement et essaye de combler les lacunes constatées surtout en ce qui concerne l’éducation de la femme. En effet, les femmes rwandaises ont eu un accès plus limité à l’éducation par rapport aux hommes.
 
-- L'acces et Ia retention dans  l'enseignement  primaire
+A cause des stéréotypes liés au genre, la proportion des filles inscrites en sciences et en technologie est très faible par rapport à celle des garçons. L’information obtenue par le Forum des Femmes Educatrices Africaines (FAWE), section rwandaise, a révélé que du fait des rôles et des stéréotypes inhérents au genre, et du fait du harcèlement sexuel dont souffre le genre féminin, la performance scolaire des filles est de loin inférieure à celle des garçons.⁴
 
-- L'amelioration de Ia qualite de l'enseignement
+A cet effet, il revient au MINEDUC qui a la préparation des programmes d’alphabétisation sous sa responsabilité, d’intégrer la dimension genre dans les cours à dispenser.
 
-- La reduction des inegalites dans l'enseignement
-
-- La formation professionnelle des jeunes et des adultes
-
-- La  lutte contre le VIH/SIDA.
-
-### 11.6  Politique Nationale du Genre
-
-La  politique  Nationale  du  Genre  s'inscrit dans  le  cadre  de  !'agenda de  developpement durable  adopte  par le  Gouvernement et essaye  de  combler les  lacunes  constatees  surtout en  ce  qui  concerne  !'education de  Ia  femme.  En  effet,  les  femmes  rwandaises  ant  eu  un acces plus limite ill'education par rapport aux hommes.
-
-A cause des  stereotypes  lies au  genre,  Ia  proportion  des  filles  inscrites  en  sciences  et en technologic  est  Ires  faible  par  rapport a  celle  des  gar9ons.  L'  information  obtenue  par  le Forum  des  Femmes Educatrices Africaines  (FA  WE),  section  rwandaise,  a  revele  que  du fait  des  roles  et des  sten!otypes  inherents  au  genre,  et  du  fait  du  harcelement sexuel  dont souffre le genre feminin,  Ia performance scolaire des filles est de loin  inferieure a celle des gar9ons 4
-
-A cet effet, il revient au MINEDUC qui a Ia preparation des programmes d'alphabetisation sons  sa  responsabilite,  d'integrer Ia  dimension  genre  dans  les  cours  a dispenser.
-
-~ Politique  Nationalc du Genre,  MinistCre du  Genre ct de  In  Promotion de  In  Fnmille,  Janvier  2004
+> 4 Politique Nationale du Genre, Ministère du Genre et de la Promotion de la Famille, Janvier 2004
 
 9
 
@@ -314,33 +292,33 @@ A cet effet, il revient au MINEDUC qui a Ia preparation des programmes d'alphabe
 
 [[START OF PAGE 10]]
 
-### 11.7  Strategies sectorielles du MIJESPOC
+### II.7 Stratégies sectorielles du MIJESPOC
 
-La  situation  economique  et  sociale  de  notre  pays  pose  aujourd'hui  a !a  jeunesse  de nombreux defis qui non seulement entravent son epanouissement, mais aussi compromettent son avenir. La gestion des consequences directes et indirectes du genocide, !a  pauvrete,  le  ch6mage,  le  VIH/SJDA,  l'analphabetisme et  l'insuffisance de  possibilite d'acces a  !'education constituent les  maux qui  affectent le  plus,  de  nos jours,  Iajeunesse rwandaise.
+La situation économique et sociale de notre pays pose aujourd’hui à la jeunesse de nombreux défis qui non seulement entravent son épanouissement, mais aussi compromettent son avenir. La gestion des conséquences directes et indirectes du génocide, la pauvreté, le chômage, le VIH/SIDA, l’analphabétisme et l’insuffisance de possibilité d’accès à l’éducation constituent les maux qui affectent le plus, de nos jours, la jeunesse rwandaise.
 
-Eu  egard  a  cette  situation,  le  Ministere  de  !a  Jeunesse,  de  Sport  et  de  Ia  culture,  et  ses partenaires  ont  adopte  des  strategies  qui  orientent  tous  les  intervenants  en  matiere  de promotion de  !a jeunesse.
+Eu égard à cette situation, le Ministère de la Jeunesse, de Sport et de la culture, et ses partenaires ont adopté des stratégies qui orientent tous les intervenants en matière de promotion de la jeunesse.
 
-### 11.8  Strategie Nationale d'lnvestissement
+### II.8 Stratégie Nationale d’Investissement
 
-La strategic Nationale d'Investissement vise prioritairement !'amelioration  des investissements publics et prives au Rwanda et !'augmentation de  leur impact sur les beneficiaires. Cette strategic se fonde  sur des reformes recentes qui visent a  ameliorer J'efficacite et l'efficience de !a planification et le systeme budgetaire au Rwanda.
+La stratégie Nationale d’Investissement vise prioritairement l’amélioration des investissements publics et privés au Rwanda et l’augmentation de leur impact sur les bénéficiaires. Cette stratégie se fonde sur des réformes récentes qui visent à améliorer l’efficacité et l’efficience de la planification et le système budgétaire au Rwanda.
 
-Dans le cadre des  objectifs de  !a vision 2020 et des strategies de  reduction de  !a pauvrete, le  developpement ne pourra pas s'  engager sans :
+Dans le cadre des objectifs de la vision 2020 et des stratégies de réduction de la pauvreté, le développement ne pourra pas s’engager sans :
 
-(iii) !a participation de taus Jes  rwandais ;
+(iii) la participation de tous les rwandais ;
 
-(iv) de  meilleures conditions de  vie  de !a population avec d'abord une mei!leure sante et un  meilleur acces a I' education ;
+(iv) de meilleures conditions de vie de la population avec d’abord une meilleure santé et un meilleur accès à l’éducation ;
 
-(v) une augmentation de  !a productivite,  de !a  qualite et  du  professionnalisme  de  taus les  actifs  grace  a un effort  enonme  de  formation  professionne!le.  Ces  objectifs appellent des investissements cibles dans Jes Ressources Hum aines,  qui  passeront de  17 milliards de FR  W en 2002  a 35  milliards en 2010, representant alors pres de 30% de  l'Investissement public 5 ;  les  programmes prioritaires  etant:  ]'education; Ia  sante; Iajeunesse, la culture et le  sport; le  social,  le genre et !a reintegration;  Ia souverainete et la gouvemance ainsi que !'Administration Generale et Gouvemance.
+(v) une augmentation de la productivité, de la qualité et du professionnalisme de tous les actifs grâce à un effort énorme de formation professionnelle. Ces objectifs appellent des investissements ciblés dans les Ressources Humaines, qui passeront de 17 milliards de FRW en 2002 à 35 milliards en 2010, représentant alors près de 30% de l’Investissement public⁵ ; les programmes prioritaires étant : l’éducation ; la santé; la jeunesse, la culture et le sport ; le social, le genre et la réintégration ; la souveraineté et la gouvernance ainsi que l’Administration Générale et Gouvernance.
 
-### 11.9  Nouveau Partenariat pour le Developpement de I'  Afrique (NEPAD)
+### II.9 Nouveau Partenariat pour le Développement de l’Afrique (NEPAD)
 
-Les objectifs du NEPAD en matiere d'education et d'alphabetisation visent a:
+Les objectifs du NEPAD en matière d’éducation et d’alphabétisation visent à :
 
-:.-Collaborer avec  les  bai!leurs  de  fonds  et  Jes  institutions  multilaterales  pour s'assurer que  l'objectif international  du  developpement,  visant il parvenir a une  education primaire universelle d'ici l'an 2015, soit realise;
+- Collaborer avec les bailleurs de fonds et les institutions multilatérales pour s’assurer que l’objectif international du développement, visant à parvenir à une éducation primaire universelle d’ici l’an 2015, soit réalisé ;
 
-;.. Integrer, dans taus les programmes, !'education preventive, notamment  en matiere  d'environnement,  de  VIH/SIDA,  de  conflits,  de  securite  alimentaire,  de sante maternelle et infantile et de sante publique  ;
+- Intégrer, dans tous les programmes, l’éducation préventive, notamment en matière d’environnement, de VIH/SIDA, de conflits, de sécurité alimentaire, de santé maternelle et infantile et de santé publique ;
 
-> 5 StratCgie Nationale d'Investissement, MINECOFIN, 2002, P.28
+> 5 Stratégie Nationale d’Investissement, MINECOFIN, 2002, P.28
 
 10
 
@@ -348,35 +326,35 @@ Les objectifs du NEPAD en matiere d'education et d'alphabetisation visent a:
 
 [[START OF PAGE 11]]
 
-> S'efforcer d'mm\liorer  !'elaboration  et  Ia  refonne  des  programmes, Ia  qualite de l'enseignement  et l'acces al'informatique  et ala telematique;
+- S’efforcer d’améliorer l’élaboration et la réforme des programmes, la qualité de l’enseignement et l’accès à l’informatique et à la télématique ;
 
-> Elargir  l'acces al'enseignement secondaire  et ameliorer  Ia  pertinence  de  celui-ci  par rapport au monde du travail ;
+- Elargir l’accès à l’enseignement secondaire et améliorer la pertinence de celui-ci par rapport au monde du travail ;
 
-> Favoriser  Ia  mise  en  place  de  reseaux  d'etablissements specialises  de  recherche  et d'enseignement superieur.
+- Favoriser la mise en place de réseaux d’établissements spécialisés de recherche et d’enseignement supérieur.
 
-> Prendre des actions vigoureuses pour promouvoir  l'alphabetisation  et Ia post­ aiphabetisation  comme  un  moyen  fondamental  d'apprentissage tout au  long de  Ia  vie et dans  le cadre de  Ia Decennie des Nations Unies pour I'  Alphabetisation (2003-2012)
+- Prendre des actions vigoureuses pour promouvoir l’alphabétisation et la post-alphabétisation comme un moyen fondamental d’apprentissage tout au long de la vie et dans le cadre de la Décennie des Nations Unies pour l’Alphabétisation (2003-2012)
 
-> Elaborer  et  mettre  en  oeuvre  des  programmes  adaptes,  avec  une  diversification  des options d'apprentissage selon les besoins des divers groupes cibles;
+- Elaborer et mettre en oeuvre des programmes adaptés, avec une diversification des options d’apprentissage selon les besoins des divers groupes cibles ;
 
-> Assurer  Ia  formation  adequate  des personnels  d'encadrement et  de  formation  en matiere  d'alphabetisation  et  d'education  non formelle des  jeunes  et  des adultes, s'appuyant sur les orientations definies, et ameliorer leurs conditions d'existence et de travail
+- Assurer la formation adéquate des personnels d’encadrement et de formation en matière d’alphabétisation et d’éducation non formelle des jeunes et des adultes, s’appuyant sur les orientations définies, et améliorer leurs conditions d’existence et de travail
 
-## Ill.  Analyse situationnelle
+## III. Analyse situationnelle
 
-### 111.1.  Problematique
+### III.1. Problématique
 
 #### (i) Etat des lieux
 
-Selon I' Enquete sur les Conditions de  Vie  des Menages 2005/2006 (EICV II 2005/2006), 78.6% se declarent alphabetises. II  est neanmoins a signaler que cette statistique n'est pas le  n\sultat de tests d'aptitude  a lire et ecrire, maisjuste le resultat d'une enquete aupres des con cernes.
+Selon l’Enquête sur les Conditions de Vie des Ménages 2005/2006 (EICV II 2005/2006), 78.6% se déclarent alphabétisés. Il est néanmoins à signaler que cette statistique n’est pas le résultat de tests d’aptitude à lire et écrire, mais juste le résultat d’une enquête auprès des concernés.
 
-Dans !'ensemble le niveau d'alphabetisation est plus  eleve chez les hommes  que  chez les femmes, et a  Kigali pins que dans le reste du pays.
+Dans l’ensemble le niveau d’alphabétisation est plus élevé chez les hommes que chez les femmes, et à Kigali plus que dans le reste du pays.
 
-La meme enquete situe le taux d'alphabetisation de Ia population agee de  plus de  15  ansa 65,3%, avec une disparite entre les hommes (71 ,5%) et les femmes (60.1 %)
+La même enquête situe le taux d’alphabétisation de la population âgée de plus de 15 ans à 65,3%, avec une disparité entre les hommes (71,5%) et les femmes (60.1%)
 
-Par  ailleurs,  des  etudes  menees  par  le  MINEDUC  montrent  qu'il y  a  une  com'lation positive entre  l'alphabetisation et  le  niveau  de  vie.  II  a ete done  remarque que  quand  une personne  est  alphabetisee,  Ia  possibilite  d'etre plus  riche  etait  estimee  a  45,9%  pour  Ia quintile Ia  plus pauvre et de 61,5% pour celle des plus riches. 6
+Par ailleurs, des études menées par le MINEDUC montrent qu’il y a une corrélation positive entre l’alphabétisation et le niveau de vie. Il a été donc remarqué que quand une personne est alphabétisée, la possibilité d’être plus riche était estimée à 45,9% pour la quintile la plus pauvre et de 61,5% pour celle des plus riches.⁶
 
-L'alphabetisation constitue  l'une des  cles  d'acces a !'information, a  Ia  connaissance  eta une plus grande communication. C'est une voie pour sortir de  Ia pauvrete, ala disposition des  personnes qui  n'ontjamais eu Ia  chance d'aller a I'  ecole ou qui  ont abandonne !'ecole pour une raison ou  une autre.
+L’alphabétisation constitue l’une des clés d’accès à l’information, à la connaissance et à une plus grande communication. C’est une voie pour sortir de la pauvreté, à la disposition des personnes qui n’ont jamais eu la chance d’aller à l’école ou qui ont abandonné l’école pour une raison ou une autre.
 
-> 6 Education  Pour Taus, MinistCre de !'Education, de  Ia Science, de  Ia technologic el de Ia Recherche Scientifique, Juin,2003, P.32
+> 6 Education Pour Tous, Ministère de l’Education, de la Science, de la technologie et de la Recherche Scientifique, Juin,2003, P.32
 
 11
 
@@ -384,43 +362,34 @@ L'alphabetisation constitue  l'une des  cles  d'acces a !'information, a  Ia  co
 
 [[START OF PAGE 12]]
 
-#### (ii) Principales causes et consequences de I'  Analphabetisme
+#### (ii) Principales causes et conséquences de l’Analphabétisme
 
-Notre  enquete  a  travers  tout  le pays  nous  a  permis  de relever  certaines  causes  et consequences de l'analphabetisme, que nous reproduisons ci-apn'!s:
+Notre enquête à travers tout le pays nous a permis de relever certaines causes et conséquences de l’analphabétisme, que nous reproduisons ci-après :
 
 ##### a. Les causes
 
-- La pauvrete: au  risque de  tomber dans un cercle vicieux, Ia pauvrete est l'une des causes  importantes  de  l'analphabetisme. Plus  les  gens  sont  pauvres,  mains  ils seront  interesses  a  conduire  leurs  enfants  a  !'ecole parce  qu'ils croient que  si  les enfants vont al'ecole,  c'est  une main d'a:uvre qui  sera en quelque sorte perdue.
+- La pauvreté : au risque de tomber dans un cercle vicieux, la pauvreté est l’une des causes importantes de l’analphabétisme. Plus les gens sont pauvres, moins ils seront intéressés à conduire leurs enfants à l’école parce qu’ils croient que si les enfants vont à l’école, c’est une main d’œuvre qui sera en quelque sorte perdue.
 
-- La culture : comme nous avons pu le constater plus haul, le taux d'alphabetisation est plus faible chez les femmes  que chez les hommes. Cela est du entre  autres  au  fait  que  les  parents  n'inscrivent pas  les  filles  a  !'ecole, ou les poussent a  abandonner plus tot !'ecole  pour vaguer aux occupations menageres.
+- La culture : comme nous avons pu le constater plus haut, le taux d’alphabétisation est plus faible chez les femmes que chez les hommes. Cela est dû entre autres au fait que les parents n’inscrivent pas les filles à l’école, ou les poussent à abandonner plus tôt l’école pour vaquer aux occupations ménagères.
 
-- Le complexe : certains adultes rechignent a frequenter les Centres d'alphabetisation, complexes qu'ils sont al'idee d'y c6toyer des jeunes. Ce genre de prejuges, selon lequel Ia formation est une affaire de jeunes, accro!t necessairement le taux d  'analphabetisme.
+- Le complexe : certains adultes rechignent à fréquenter les Centres d’alphabétisation, complexés qu’ils sont à l’idée d’y côtoyer des jeunes. Ce genre de préjugés, selon lequel la formation est une affaire de jeunes, accroît nécessairement le taux d’analphabétisme.
 
-- La non perception d'un interet direct: !'actuelle inadequation entre alphabetisation et emploi decourage les candidats aux programmes d'alphabetisation, qu'ils considerent  comme  une  perle  de  temps  dans  Ia  mesures ou ces programmes ne debouchent pas sur des perspectives de carriere professionnelle.
+- La non perception d’un intérêt direct : l’actuelle inadéquation entre alphabétisation et emploi décourage les candidats aux programmes d’alphabétisation, qu’ils considèrent comme une perte de temps dans la mesures où ces programmes ne débouchent pas sur des perspectives de carrière professionnelle.
 
-##### b. Les Consequences
+##### b. Les Conséquences
 
-Les consequences de l'analphabetisme sont multiples:
+Les conséquences de l’analphabétisme sont multiples :
 
-- La difficulte d'ouverture sur le monde;
-
-- La  situation  de  dependance  (redaction  de  documents,  lecture  de lettres,  de journaux, ...  )
-
-- Maladies Iiees simplement al'ignorance;
-
+- La difficulté d’ouverture sur le monde;
+- La situation de dépendance (rédaction de documents, lecture de lettres, de journaux, ...)
+- Maladies liées simplement à l’ignorance;
 - Le manque de confiance en soi ;
-
-- L'incapacite de gerer coJTectement ses affaires ;
-
-- lmpossibilite d'acces au secteur de  l'emploi moderne;
-
-- La difficulte de participer activement aux initiatives citoyennes ;
-
-- L'ignorance de ses droits et ceux des autres;
-
-- La difficulte d'acces  al'information;
-
-- La  possibilite de se  faire  manipuler;
+- L’incapacité de gérer correctement ses affaires ;
+- Impossibilité d’accès au secteur de l’emploi moderne;
+- La difficulté de participer activement aux initiatives citoyennes ;
+- L’ignorance de ses droits et ceux des autres;
+- La difficulté d’accès à l’information;
+- La possibilité de se faire manipuler;
 
 12
 
@@ -428,11 +397,19 @@ Les consequences de l'analphabetisme sont multiples:
 
 [[START OF PAGE 13]]
 
-### 111.2.  Forces et Faiblesses du secteur de l'alphabetisation
+### III.2. Forces et Faiblesses du secteur de l’alphabétisation
 
 FORCES | FAIBLESSES
 --- | ---
-Sensibilisation de plus en plus accrue de Ia population a Ia necessite de l'alphabetisation Existence de plusieurs bailleurs de fonds susceptibles de financer les programmes d'alphabCtisation Engagement de plusieurs institutions religieuses dans les programmes d'alphab6tisation Volante politique du Gouvemement Administration d6centralisee Existence d'une seule culture et d'une seule langue, ce qui permet de faire l'economie d'une multiplicite de programmes. | lnsuffisance du materiel didactique Insuffisance des infrastructures Manque de motivation des alphabetiseurs Inexistence des curricula adaptes lnsuffisance des recyclages pour les alphabetiseurs Absence de collaboration entre Ies initiateurs des centres d'alphab6tisation Absence de coordination et de sui vi des Centres d'alphab6tisation Absence de politique nationale et de programmes adequats et harmonises Insuffisance de mobilisation de la part des instances administratives de base
+Sensibilisation de plus en plus accrue de la population à la nécessité de l’alphabétisation | Insuffisance du matériel didactique
+Existence de plusieurs bailleurs de fonds susceptibles de financer les programmes d’alphabétisation | Insuffisance des infrastructures
+Engagement de plusieurs institutions religieuses dans les programmes d’alphabétisation | Manque de motivation des alphabétiseurs
+Volonté politique du Gouvernement | Inexistence des curricula adaptés
+Administration décentralisée | Insuffisance des recyclages pour les alphabétiseurs
+Existence d’une seule culture et d’une seule langue, ce qui permet de faire l’économie d’une multiplicité de programmes. | Absence de collaboration entre les initiateurs des centres d’alphabétisation
+ | Absence de coordination et de suivi des Centres d’alphabétisation
+ | Absence de politique nationale et de programmes adéquats et harmonisés
+ | Insuffisance de mobilisation de la part des instances administratives de base
 
 13
 
@@ -440,27 +417,27 @@ Sensibilisation de plus en plus accrue de Ia population a Ia necessite de l'alph
 
 [[START OF PAGE 14]]
 
-## IV.  Principes Directeurs de Ia  Politique Nationale d'Aiphabetisation
+## IV. Principes Directeurs de la Politique Nationale d’Alphabétisation
 
-Tous Jes programmes  d'Alphabetisation  devront intcgrer et vehiculer Ia politique du Gouvemement rwandais, traduite dans les principes fondamentaux suivants:
+Tous les programmes d’Alphabétisation devront intégrer et véhiculer la politique du Gouvernement rwandais, traduite dans les principes fondamentaux suivants :
 
-- Unite,  Reconciliation et  Respect  des  Droits  de  Ia  personne :  Ia  politique nationa!e d'alphabetisation soutient !'engagement du Gouvemement a promouvoir une  societe  libre  de  toute  forme  de  discrimination  et  d'injustice. Cela  s'illustre  par  Ia creation  d'une  Commission  Nationale  des  droits  de J'homme et d'une Commission Nationa!e pour !'Unite  et Reconciliation.
+- Unité, Réconciliation et Respect des Droits de la personne : la politique nationale d’alphabétisation soutient l’engagement du Gouvernement à promouvoir une société libre de toute forme de discrimination et d’injustice. Cela s’illustre par la création d’une Commission Nationale des droits de l’homme et d’une Commission Nationale pour l’Unité et Réconciliation.
 
-- Patriotisme: Ia politique nationa!e d'Aiphabetisation contribuera a promouvoir !'emergence d'un citoyen patriote,  que  !'amour inconditionnel  de sa  patrie  poussera it contribuer  pleinement it Ia  reussite  de  tout  programme national de developpement.
+- Patriotisme : la politique nationale d’Alphabétisation contribuera à promouvoir l’émergence d’un citoyen patriote, que l’amour inconditionnel de sa patrie poussera à contribuer pleinement à la réussite de tout programme national de développement.
 
-- Egalite des sexes: Ia politique nationale d'Aiphabetisation  soutient Ia politique nationale du Genre, fondee sur Je  principe selon  Jeque!  les femmes et les  hommes  sont  des  citoyens  egaux  qui  doivent  contribuer  pleinement  au processus de developpement et en tirer Jes memes profits.
+- Egalité des sexes : la politique nationale d’Alphabétisation soutient la politique nationale du Genre, fondée sur le principe selon lequel les femmes et les hommes sont des citoyens égaux qui doivent contribuer pleinement au processus de développement et en tirer les mêmes profits.
 
-- Bonne Gouvernance: le  Gouvernement du  Rwanda est convaincu qu'avec Ia promotion de  I'  education pour to  us  les  citoyens  (filles  et  gar9ons,  hommes  et femmes), Ia bonne gouvernance sera assuree pour Jongtemps.
+- Bonne Gouvernance : le Gouvernement du Rwanda est convaincu qu’avec la promotion de l’éducation pour tous les citoyens (filles et garçons, hommes et femmes), la bonne gouvernance sera assurée pour longtemps.
 
-- Habitat,  Hygiene  et  Sante  communautaire :  l'alphabetisation sera  uti!isee comme  un  outil  de  sensibilisation it Ia  sante  communautaire,  !'hygiene  et !'habitat  regroupe en villages« lmidugudu »
+- Habitat, Hygiène et Santé communautaire : l’alphabétisation sera utilisée comme un outil de sensibilisation à la santé communautaire, l’hygiène et l’habitat regroupé en villages « Imidugudu »
 
-- Lutte  contre  le  VIII/SIDA: La  politique  Nationale  d'alphabetisation  est basee sur le  principe selon lequel  Ia  problematique VIH/SIDA est transversale et doit etre prise en compte dans taus les programmes de developpement.
+- Lutte contre le VIH/SIDA : La politique Nationale d’alphabétisation est basée sur le principe selon lequel la problématique VIH/SIDA est transversale et doit être prise en compte dans tous les programmes de développement.
 
-- Planning Familial :La politique Nationale d'alphabetisation va contribuer it Ia sensibilisation aux methodes de planning familial,  et ainsi  favoriser Ia  maitrise de Ia croissance de  Ia  population.
+- Planning Familial :La politique Nationale d’alphabétisation va contribuer à la sensibilisation aux méthodes de planning familial, et ainsi favoriser la maîtrise de la croissance de la population.
 
-- Protection  de  I'Environnement: Ia  politique d'alphabetisation contribuera  a Ia  comprehension  des  enjeux  environnementaux  actuels,  et  a !'adhesion des populations aux programmes gouvernementaux de protection de I'  environnement.
+- Protection de l’Environnement : la politique d’alphabétisation contribuera à la compréhension des enjeux environnementaux actuels, et à l’adhésion des populations aux programmes gouvernementaux de protection de l’environnement.
 
-- Lutte contre le Genocide: La po!itique Nationale d'a!phabetisation soutiendra  !'engagement  du Gouvernement  a Iutter  contre  Je Genocide  et l'ideologie genocidaire.
+- Lutte contre le Génocide : La politique Nationale d’alphabétisation soutiendra l’engagement du Gouvernement à lutter contre le Génocide et l’idéologie génocidaire.
 
 14
 
@@ -468,47 +445,38 @@ Tous Jes programmes  d'Alphabetisation  devront intcgrer et vehiculer Ia politiq
 
 [[START OF PAGE 15]]
 
-- Developpcmcnt durable : La politigue Nationale d'alphabetisation  est conforme a !'approche de developpement durable adoptee par Je Gouvernement  Rwandais  et  qui  s'articule entre  autres,  autour  de  Ia  Vision 2020, de Ia Strategic Nationale de reduction de Ia Pauvrete et de  Ia Politique de Decentralisation.
+- Développement durable : La politique Nationale d’alphabétisation est conforme à l’approche de développement durable adoptée par le Gouvernement Rwandais et qui s’articule entre autres, autour de la Vision 2020, de la Stratégie Nationale de réduction de la Pauvreté et de la Politique de Décentralisation.
 
-## V. Vision et Mission de Ia Politique Nationale d'Aiphabetisation
+## V. Vision et Mission de la Politique Nationale d’Alphabétisation
 
-### V.1  Vision
+### V.1 Vision
 
-Taus  Jes Rwandais  ont  re9u  une  alphabetisation  adequate  de  nature a leur  permettre  de contribuer  ou participer  en tant  gu'acteurs  et/ou beneficiaires  du  processus  durable  de developpement National.
+Tous les Rwandais ont reçu une alphabétisation adéquate de nature à leur permettre de contribuer ou participer en tant qu’acteurs et/ou bénéficiaires du processus durable de développement National.
 
-### V.2  Mission
+### V.2 Mission
 
-Permettre  Ia  mise  en  place  de  taus  !es  programmes  et  mecanismes  permettant it taus  !es rwandais d'acguerir des  connaissances et des  aptitudes  de  base  en  matiere  d'alphabetisation fonctionne!le,  necessaires it leur developpement economigue, social et culture!.
+Permettre la mise en place de tous les programmes et mécanismes permettant à tous les rwandais d’acquérir des connaissances et des aptitudes de base en matière d’alphabétisation fonctionnelle, nécessaires à leur développement économique, social et culturel.
 
-## VI. Objectifs de Ia politique Nationale d'Aiphabetisation
+## VI. Objectifs de la politique Nationale d’Alphabétisation
 
-### V1.1  Objectif General
+### VI.1 Objectif Général
 
-Ameliorer  le  niveau  d'education de  taus  les  Rwandais  par le  biais  de  programmes  adeguats d'alphabetisation. L'objectif  chiffre du Gouvemement est d'elever  !e taux d'alphabetisation it 85%  d'ici 2010.  Pour  y arriver,  il  sera  necessaire  de  parvenir  a  former  500.000  personnes  a peu pres chague anneejusgu'en 2010. 7
+Améliorer le niveau d’éducation de tous les Rwandais par le biais de programmes adéquats d’alphabétisation. L’objectif chiffré du Gouvernement est d’élever le taux d’alphabétisation à 85% d’ici 2010. Pour y arriver, il sera nécessaire de parvenir à former 500.000 personnes à peu près chaque année jusqu’en 2010.⁷
 
-### Vl.2 Objectifs Specifiques
+### VI.2 Objectifs Spécifiques
 
-- Renforcer  !es  capacites  de  recensement  et  de  categorisation  des  groupes  cibles  des programmes d'  alphabetisation ;
+1. Renforcer les capacités de recensement et de catégorisation des groupes cibles des programmes d’alphabétisation ;
+2. Impliquer les autorités de base dans la conception et la réalisation des programmes d’alphabétisation ;
+3. Garantir les ressources logistiques, financières et humaines nécessaires ;
+4. Harmoniser les initiatives de divers intervenants ;
+5. Garantir la formation continue des alphabétiseurs ;
+6. Sensibiliser la population à l’importance de l’alphabétisation ;
+7. Promouvoir l’adéquation Alphabétisation/Emploi ;
+8. Garantir la pérennisation et l’amélioration des connaissances post alphabétisation ;
+9. Faciliter l’accès des personnes handicapées aux programmes d’alphabétisation fonctionnelle ;
+10. Encourager la création des Centres de lecture dans tous les Secteurs administratifs ;
 
-- lmpliquer  !es  autorites  de  base  dans  Ia  conception  et  Ia  realisation  des  programmes d'alphabetisation;
-
-- Garantir les ressources !ogistiques, financieres et humaines necessaires;
-
-- Harmoniser les initiatives de divers intervenants;
-
-- Garantir Ia  formation continue des alphabetiseurs ;
-
-- Sensibiliser Ia  population a  !'importance  de  J'alphabetisation;
-
-- Promouvoir !'adequation Alphabetisation/Emploi;
-
-- Garantir Ia  perennisation et !'amelioration  des connaissances post alphabetisation;
-
-- Faciliter !'acces  des personnes handicapees aux programmes d'alphabetisation fonctionnel!e ;
-
-- Encourager Ia creation des Centres de lecture dans tousles Secteurs administratifs;
-
-> 7 Education  Pour To us,  MinistCrc de  I  'Education, de  Ia Science, de  Ia  technologic et de Ia  Recherche Scientifiquc, Juin 2003, P.32
+> 7 Education Pour Tous, Ministère de l’Education, de la Science, de la technologie et de la Recherche Scientifique, Juin 2003, P.32
 
 15
 
@@ -516,55 +484,37 @@ Ameliorer  le  niveau  d'education de  taus  les  Rwandais  par le  biais  de  p
 
 [[START OF PAGE 16]]
 
-l.
+## VII. Stratégies de la Politique Nationale d’Alphabétisation
 
-## VII.  Strategies de Ia  Politique Nationale d'Aiphabetisation
+### VII.1 Stratégie générale
 
-### Vll.1  Strategie gemerale
+Elaborer et mettre en œuvre des programmes adéquats d’alphabétisation fonctionnelle.
 
-Elaborer et mettre en reuvre des programmes  adequats d'alphabetisation fonctionnelle.
+### VII.2 Stratégies spécifiques
 
-### Vl1.2  Strategies specifiques
+1. Mettre en place un système de collecte, de traitement et de diffusion d’informations ;
+2. Mettre en place des mécanismes de suivi-évaluation visant à s’assurer que les autorités de base se soient réellement impliquées ;
+3. Mobiliser les ressources et instaurer des mécanismes assurant leur utilisation rationnelle et efficiente ;
+4. Créer un cadre de concertation et de collaboration entre les divers intervenants ;
+5. Concevoir des modules harmonisés de formation des alphabétiseurs ;
+6. Mettre en place des mécanismes facilitant la formation ;
+7. Monter et exécuter des campagnes de sensibilisation ;
+8. Mettre en place des Centres de formation aux métiers destinés aux lauréats.
+9. Créer un fonds de garantie pour les lauréats pour leur faciliter l’accès aux micro crédits ;
+10. Aider les lauréats à s’organiser en associations ou en coopératives ;
+11. Créer des centres de lecture et d’animation culturelle ;
+12. Concevoir des programmes spéciaux adaptés aux différents groupes cibles;
 
-- Mettre en  place un  systeme de collecte, de traitement et de diffusion d'informations;
+## VIII. PROGRAMMES D’ALPHABETISATION
 
-- Mettre en  place des mecanismes de suivi-evaluation visant a  s'assurer  que les autorites de  base se soient reellement impliquees ;
+En vue d’atteindre les objectifs de la Politique d’Alphabétisation, les différents acteurs devront se coordonner pour monter et exécuter des programmes harmonisés, articulés autour des axes prioritaires suivants :
 
-- Mobiliser les ressources et instaurer des mecanismes assurant leur utilisation rationnelle et efficiente ;
-
-- Creer un cadre de concertation et de collaboration entre les divers intervenants ;
-
-- Concevoir des modules harmonises de formation des alphabetiseurs;
-
-- Mettre en place des mecanismes facilitant Ia formation ;
-
-- Monter et executer des campagnes de sensibilisation;
-
-- Mettre en  place des Centres de formation aux metiers destines aux laureats.
-
-- Creer  un  fonds  de  garantie  pour  les  laureats  pour  leur  faciliter  l'acces aux  m1cro credits;
-
-- Aider les laureats iJ s'organiser  en  associations ou en cooperatives ;
-
-- Creer des centres de  lecture et d'animation culturelle;
-
-- Concevoir des programmes speciaux adaptes aux differents groupes cibles;
-
-## VIII.  PROGRAMMES D'ALPHABETISATION
-
-En  vue d'atteindre les objectifs de Ia Politique d'Aiphabetisation, les differents acteurs devront se coordonner pour manter et executer des programmes harmonises, articules autour des axes prioritaires suivants :
-
-- Renforcement des capacites : matcrielles (infrastructures, equipements, outils pedagogiques et methodologiques, ...  ),  institutionnelles, ressources humaines, etc
-
-- Sensibilisation et Plaidoyer: aupres de Ia population, des autorites de base, des partenaires potentiels, des decideurs et intervenants divers.
-
-- Partenariat et Mobilisation de ressources : interessement et coordination des partenaires, collecte de fonds
-
-- Coordination: harmonisation des programmes, diffusion d'information, mise en  place d'un cadre de concertation, etc
-
-- Suivi et Evaluation;
-
-- Perennisation: programmes post-alphabctisation (adequation alphabetisation/emploi, centres de lectures, etc
+1. Renforcement des capacités : matérielles (infrastructures, équipements, outils pédagogiques et méthodologiques,...), institutionnelles, ressources humaines, etc
+2. Sensibilisation et Plaidoyer: auprès de la population, des autorités de base, des partenaires potentiels, des décideurs et intervenants divers.
+3. Partenariat et Mobilisation de ressources : intéressement et coordination des partenaires, collecte de fonds
+4. Coordination : harmonisation des programmes, diffusion d’information, mise en place d’un cadre de concertation, etc
+5. Suivi et Evaluation ;
+6. Pérennisation: programmes post-alphabétisation (adéquation alphabétisation/emploi, centres de lectures, etc
 
 16
 
@@ -572,51 +522,43 @@ En  vue d'atteindre les objectifs de Ia Politique d'Aiphabetisation, les differe
 
 [[START OF PAGE 17]]
 
-## IX. CADRE DE REALISATION DE LA POLITIQUE D'  ALPHABETISATION
+## IX. CADRE DE REALISATION DE LA POLITIQUE D’ALPHABETISATION
 
-Pour  garantir  l'atteinte des  objectifs  de  Ia  Politique  Nationale d'Alphabetisation, il  s'avere indispensable  de  s'assurer !'harmonisation et  le  partenariat  de  taus  les  intervenants  !ant publiques que prives.
+Pour garantir l’atteinte des objectifs de la Politique Nationale d’Alphabétisation, il s’avère indispensable de s’assurer l’harmonisation et le partenariat de tous les intervenants tant publiques que privés.
 
-Le  MINEDUC  assurera  Ia  diffusion  de  cette  politique,  et jouera  bien  sflr  un  role  cle  de coordination qui  se traduira par Ia  mise en place des programmes et d'un systeme efficace de sui  vi- evaluation.
+Le MINEDUC assurera la diffusion de cette politique, et jouera bien sûr un rôle clé de coordination qui se traduira par la mise en place des programmes et d’un système efficace de suivi-évaluation.
 
-Les  autres  principaux  intervenants, et dont  les  roles  devront etre bien clarifies il chaque fois dans  les Plans strategiques de mise en ceuvre, sont notamment :
+Les autres principaux intervenants, et dont les rôles devront être bien clarifiés à chaque fois dans les Plans stratégiques de mise en œuvre, sont notamment :
 
 - Le MIJESPOOC
+Sensibilisation et encadrement de la jeunesse
 
-Sensibilisation et encadrement de  Ia jeunesse
-
-- LeMINALOC
-
-Sensibilisation responsabilisation des autorites de base
+- Le MINALOC
+Sensibilisation responsabilisation des autorités de base
 
 - Le MINECOFIN
-
-Mobilisation et mise a disposition des moyens financiers necessaires
+Mobilisation et mise à disposition des moyens financiers nécessaires
 
 - Le MIGEPROFE
+Sensibilisation et encadrement des femmes et des jeunes filles
 
-Sensibilisation et encadrement des femmes et desjeunes filles
-
-- Le  M!NADEF
-
+- Le MINADEF
 Sensibilisation et encadrement des militaires
 
-- Le Secteur Prive en general, et les Institutions de financement en particulier Mobilisation  des  investissements  dans  le secteur, et  creation  d'emplois  pour  les
+- Le Secteur Privé en général, et les Institutions de financement en particulier
+Mobilisation des investissements dans le secteur, et création d’emplois pour les lauréats
 
-laureats
+- Les ONGs, les Confessions religieuses et autres partenaires au Développement
+Engagement à tous les niveaux : programmes, moyens humains et financiers, infrastructures, etc
 
-- Les ONGs, les Confessions religieuses et autres partenaires au Developpement Engagement a taus les niveaux :  programmes,
+- La Société civile
+Sensibilisation de la population en général, intégration de l’alphabétisation dans tous les projets et programmes de développement
 
-moyens  humains  et  financiers, infrastructures, etc
+## X. MECANISMES DE SUIVI ET EVALUATION
 
-Sensibilisation  de  Ia  population en general,  integration  de  l'alphabetisation dans taus
+L’activité de suivi et évaluation de la mise en œuvre de la Politique Nationale d’alphabétisation est tout aussi importante que la politique elle-même. Elle constitue une partie intégrante de celle-ci et sera entreprise de manière systématique en même temps que la mise en œuvre de la politique.
 
-- La Societe civile les  projets et programmes de developpement
-
-## X.  MECANISMES DE SUIVI ET EVALUATION
-
-L'activite  de suivi et evaluation de Ia mise en ceuvre de Ia Politique Nationale d'alphabetisation est tout aussi  importante que  Ia  politique elle-meme.  Elle  constitue  une partie  integrante  de  celle-ci  et  sera  entreprise  de  maniere  systematique  en  meme temps que Ia mise en ceuvre de  Ia  politique.
-
-Des  indicateurs  efficaces  et  objectivement verifiables  seront  elabores en  vue  d'assurer le suivi et !'evaluation de  !'execution des  programmes par rapport aux objectifs  fixes  par Ia politique nationale d'alphabetisation. Le suivi et !'evaluation s'effectueront d'une maniere participative et seront coordonnes par le MJNEDUC.
+Des indicateurs efficaces et objectivement vérifiables seront élaborés en vue d’assurer le suivi et l’évaluation de l’exécution des programmes par rapport aux objectifs fixés par la politique nationale d’alphabétisation. Le suivi et l’évaluation s’effectueront d’une manière participative et seront coordonnés par le MINEDUC.
 
 17
 
