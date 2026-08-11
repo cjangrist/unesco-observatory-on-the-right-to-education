@@ -30,6 +30,8 @@ We, the people of Iraq, of all components and across the spectrum, have taken up
 
 [[START OF PAGE 3]]
 
+## Section One Fundamental Principles
+
 ##### Article 1:
 
 The Republic of Iraq is a single federal, independent and fully sovereign state in which the system of government is republican, representative, parliamentary, and democratic, and this Constitution is a guarantor of the unity of Iraq.
@@ -38,11 +40,11 @@ The Republic of Iraq is a single federal, independent and fully sovereign state 
 
 First: Islam is the official religion of the State and is a foundation source of legislation:
 
-- No law may be enacted that contradicts the established provisions of Islam
+- A. No law may be enacted that contradicts the established provisions of Islam
 
-- No law may be enacted that contradicts the principles of democracy.
+- B. No law may be enacted that contradicts the principles of democracy.
 
-- No law may be enacted that contradicts the rights and basic freedoms stipulated in this Constitution.
+- C. No law may be enacted that contradicts the rights and basic freedoms stipulated in this Constitution.
 
 Second: This Constitution guarantees the Islamic identity of the majority of the Iraqi people and guarantees the full religious rights to freedom of religious belief and practice of all individuals such as Christians, Yazidis, and Mandean Sabeans.
 
@@ -56,21 +58,19 @@ First: The Arabic language and the Kurdish language are the two official languag
 
 Second: The scope of the term 'official language' and the means of applying the provisions of this article shall be defined by a law and shall include:
 
-- Publication of the Official Gazette, in the two languages;
+- A. Publication of the Official Gazette, in the two languages;
 
-- Speech, conversation, and expression in official domains, such as the Council of Representatives, the Council of Ministers, courts, and official conferences, in either of the two languages;
-
-## Section One Fundamental Principles
+- B. Speech, conversation, and expression in official domains, such as the Council of Representatives, the Council of Ministers, courts, and official conferences, in either of the two languages;
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-- Recognition and publication of official documents and correspondence in the two languages;
+- C. Recognition and publication of official documents and correspondence in the two languages;
 
-- Opening schools that teach the two languages, in accordance with the educational guidelines;
+- D. Opening schools that teach the two languages, in accordance with the educational guidelines;
 
-- Use of both languages in any matter enjoined by the principle of equality such as bank notes, passports, and stamps.
+- E. Use of both languages in any matter enjoined by the principle of equality such as bank notes, passports, and stamps.
 
 Third: The federal and official institutions and agencies in the Kurdistan region shall use both languages.
 
@@ -95,7 +95,7 @@ Second: The State shall undertake to combat terrorism in all its forms, and shal
 
 [[START OF PAGE 5]]
 
-Iraq shall observe the principles of good neighborliness, adhere to the principle of noninterference in the internal affairs of other states, seek to settle disputes by peaceful means, establish relations on the basis of mutual interests and reciprocity, and respect its international obligations.
+Iraq shall observe the principles of good neighborliness, adhere to the principle of non-interference in the internal affairs of other states, seek to settle disputes by peaceful means, establish relations on the basis of mutual interests and reciprocity, and respect its international obligations.
 
 ##### Article 9:
 First:
@@ -108,7 +108,7 @@ First:
 
 - D-  The Iraqi National Intelligence Service shall collect information, assess threats to national security, and advise the Iraqi government.  This Service shall be under civilian control, shall be subject to legislative oversight, and shall operate in accordance with the law and pursuant to the recognized principles of human rights.
 
-- E-   The Iraqi Government shall respect and implement Iraq's international obligations regarding the non-proliferation, non-development, nonproduction, and non-use of nuclear, chemical, and biological weapons, and shall prohibit associated equipment, materiel, technologies, and delivery systems for use in the development, manufacture, production, and use of such weapons.
+- E-   The Iraqi Government shall respect and implement Iraq's international obligations regarding the non-proliferation, non-development, non-production, and non-use of nuclear, chemical, and biological weapons, and shall prohibit associated equipment, materiel, technologies, and delivery systems for use in the development, manufacture, production, and use of such weapons.
 
 Second: Military service shall be regulated by law.
 
@@ -167,9 +167,9 @@ Second: Anyone who is born to an Iraqi father or to an Iraqi mother shall be con
 
 Third:
 
-- An Iraqi citizen by birth may not have his citizenship withdrawn for any reason.  Any person who had his citizenship withdrawn shall have the right to demand its reinstatement.  This shall be regulated by a law.
+- A. An Iraqi citizen by birth may not have his citizenship withdrawn for any reason.  Any person who had his citizenship withdrawn shall have the right to demand its reinstatement.  This shall be regulated by a law.
 
-- Iraqi citizenship shall be withdrawn from naturalized citizens in cases regulated by law.
+- B. Iraqi citizenship shall be withdrawn from naturalized citizens in cases regulated by law.
 
 [[END OF PAGE 7]]
 
@@ -211,9 +211,9 @@ Eleventh: The court shall appoint a lawyer at the expense of the state for an ac
 
 Twelfth:
 
-- Unlawful detention shall be prohibited.
+- A. Unlawful detention shall be prohibited.
 
-- Imprisonment or detention shall be prohibited in places not designed for these purposes, pursuant to prison laws covering health and social care, and subject to the authorities of the State.
+- B. Imprisonment or detention shall be prohibited in places not designed for these purposes, pursuant to prison laws covering health and social care, and subject to the authorities of the State.
 
 Thirteenth: The preliminary investigative documents shall be submitted to the competent judge in a period not to exceed twenty-four hours from the time of the arrest of the accused, which may be extended only once and for the same period.
 
@@ -251,9 +251,9 @@ Second: Expropriation is not permissible except for the purposes of public benef
 
 Third:
 
-- Every Iraqi shall have the right to own property anywhere in Iraq.  No others may possess immovable assets, except as exempted by law.
+- A. Every Iraqi shall have the right to own property anywhere in Iraq.  No others may possess immovable assets, except as exempted by law.
 
-- Ownership of property for the purposes of demographic change is prohibited.
+- B. Ownership of property for the purposes of demographic change is prohibited.
 
 ##### Article 24:
 
@@ -286,9 +286,9 @@ First:
 
 [[START OF PAGE 11]]
 
-- The family is the foundation of society; the State shall preserve it and its religious, moral, and national values.
+- A. The family is the foundation of society; the State shall preserve it and its religious, moral, and national values.
 
-- The State shall guarantee the protection of motherhood, childhood and old age, shall care for children and youth, and shall provide them with the appropriate conditions to develop their talents and abilities.
+- B. The State shall guarantee the protection of motherhood, childhood and old age, shall care for children and youth, and shall provide them with the appropriate conditions to develop their talents and abilities.
 
 Second: Children have the right to upbringing, care and education from their parents.  Parents have the right to respect and care from their children, especially in times of need, disability, and old age.
 
@@ -346,11 +346,11 @@ Practicing sports is a right of every Iraqi and the state shall encourage and ca
 
 First:
 
-- The liberty and dignity of man shall be protected.
+- A. The liberty and dignity of man shall be protected.
 
-- No person may be kept in custody or investigated except according to a judicial decision.
+- B. No person may be kept in custody or investigated except according to a judicial decision.
 
-- All forms of psychological and physical torture and inhumane treatment are prohibited.  Any confession made under force, threat, or torture shall
+- C. All forms of psychological and physical torture and inhumane treatment are prohibited.  Any confession made under force, threat, or torture shall
 
 [[END OF PAGE 12]]
 
@@ -366,11 +366,11 @@ Third: Forced labor, slavery, slave trade, trafficking in women or children, and
 
 The State shall guarantee in a way that does not violate public order and morality:
 
-- Freedom of expression using all means.
+- A. Freedom of expression using all means.
 
-- Freedom of press, printing, advertisement, media and publication.
+- B. Freedom of press, printing, advertisement, media and publication.
 
-- Freedom of assembly and peaceful demonstration, and this shall be regulated by law.
+- C. Freedom of assembly and peaceful demonstration, and this shall be regulated by law.
 
 ##### Article 39:
 
@@ -394,9 +394,9 @@ Each individual shall have the freedom of thought, conscience, and belief.
 
 First: The followers of all religions and sects are free in the:
 
-- APractice of religious rites, including the Husseini rituals.
+- A- Practice of religious rites, including the Husseini rituals.
 
-- BManagement of religious endowments (waqf), their affairs, and their religious institutions, and this shall be regulated by law.
+- B- Management of religious endowments (waqf), their affairs, and their religious institutions, and this shall be regulated by law.
 
 [[END OF PAGE 13]]
 
@@ -420,6 +420,8 @@ Restricting or limiting the practice of any of the rights or liberties stipulate
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
+
+## Section Three Federal Powers
 
 ##### Article 47:
 
@@ -446,8 +448,6 @@ Fourth: The elections law shall aim to achieve a percentage of representation fo
 Fifth: The Council of Representatives shall promulgate a law dealing with the replacement of its members on resignation, dismissal, or death.
 
 Sixth: It is not permissible to combine membership in the Council of Representatives with any work or other official position.
-
-## Section Three Federal Powers
 
 [[END OF PAGE 15]]
 
@@ -539,55 +539,55 @@ Fourth: Regulating the ratification process of international treaties and agreem
 
 Fifth: Approving the appointment of the following:
 
-- The President and members of the Federal Court of Cassation, the Chief Public Prosecutor, and the President of Judicial Oversight Commission by an absolute majority, based on a proposal from the Higher Juridical Council.
+- A. The President and members of the Federal Court of Cassation, the Chief Public Prosecutor, and the President of Judicial Oversight Commission by an absolute majority, based on a proposal from the Higher Juridical Council.
 
-- Ambassadors and those with special grades, based on a proposal from the Council of Ministers.
+- B. Ambassadors and those with special grades, based on a proposal from the Council of Ministers.
 
-- The Iraqi Army Chief of Staff, his assistants, those of the rank of division commander and above, and the director of the intelligence service, based on a proposal from the Council of Ministers.
+- C. The Iraqi Army Chief of Staff, his assistants, those of the rank of division commander and above, and the director of the intelligence service, based on a proposal from the Council of Ministers.
 
 Sixth:
 
-- Questioning the President of the Republic, based on a petition with cause, by an absolute majority of the members of the Council of Representatives.
+- A. Questioning the President of the Republic, based on a petition with cause, by an absolute majority of the members of the Council of Representatives.
 
-- Relieving the President of the Republic by an absolute majority of the Council of Representatives after being convicted by the Federal Supreme Court in one of the following cases:
+- B. Relieving the President of the Republic by an absolute majority of the Council of Representatives after being convicted by the Federal Supreme Court in one of the following cases:
 
-- 1Perjury of the constitutional oath.
+- 1- Perjury of the constitutional oath.
 
-- 2Violating the Constitution.
+- 2- Violating the Constitution.
 
-- 3High treason.
+- 3- High treason.
 
 Seventh:
 
-- A member of the Council of Representatives may direct questions to the Prime Minister and the Ministers on any subject within their specialty and each of them shall answer the members' questions. Only the member who has asked the question shall have the right to comment on the answer.
+- A. A member of the Council of Representatives may direct questions to the Prime Minister and the Ministers on any subject within their specialty and each of them shall answer the members' questions. Only the member who has asked the question shall have the right to comment on the answer.
 
-- At least twenty-five members of the Council of Representatives may raise a general issue for discussion in order to inquire about a policy and the performance of the Council of Ministers or one of the Ministries and it shall be submitted to the Speaker of the Council of Representatives, and
+- B. At least twenty-five members of the Council of Representatives may raise a general issue for discussion in order to inquire about a policy and the performance of the Council of Ministers or one of the Ministries and it shall be submitted to the Speaker of the Council of Representatives, and
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
 
-- the Prime Minister or the Ministers shall specify a date to come before the Council of Representatives to discuss it.
+the Prime Minister or the Ministers shall specify a date to come before the Council of Representatives to discuss it.
 
-- A member of the Council of Representatives, with the agreement of twenty-five members, may direct an inquiry to the Prime Minister or the Ministers to call them to account on the issues within their authority. The debate shall not be held on the inquiry except after at least seven days from the date of submission of the inquiry.
+- C. A member of the Council of Representatives, with the agreement of twenty-five members, may direct an inquiry to the Prime Minister or the Ministers to call them to account on the issues within their authority. The debate shall not be held on the inquiry except after at least seven days from the date of submission of the inquiry.
 
 Eighth:
 
-- The Council of Representatives may withdraw confidence from one of the Ministers by an absolute majority and he shall be considered resigned from the date of the decision of withdrawal of confidence.  A vote of no confidence in a Minister may not be held except upon his request or on the basis of a request signed by fifty members after the Minister has appeared for questioning before the Council.  The Council shall not issue its decision regarding the request except after at least seven days from the date of its submission.
+- A. The Council of Representatives may withdraw confidence from one of the Ministers by an absolute majority and he shall be considered resigned from the date of the decision of withdrawal of confidence.  A vote of no confidence in a Minister may not be held except upon his request or on the basis of a request signed by fifty members after the Minister has appeared for questioning before the Council.  The Council shall not issue its decision regarding the request except after at least seven days from the date of its submission.
 
 B.
 
-- 1The President of the Republic may submit a request to the Council of Representatives to withdraw confidence from the Prime Minister.
+- 1- The President of the Republic may submit a request to the Council of Representatives to withdraw confidence from the Prime Minister.
 
-- 2The Council of Representatives may withdraw confidence from the Prime Minister based on the request of one-fifth of its members. This request shall not be submitted except after an inquiry directed at the Prime Minister and after at least seven days from the date of submitting the request.
+- 2- The Council of Representatives may withdraw confidence from the Prime Minister based on the request of one-fifth of its members. This request shall not be submitted except after an inquiry directed at the Prime Minister and after at least seven days from the date of submitting the request.
 
-- 3The Council of Representatives may decide to withdraw confidence from the Prime Minister by an absolute majority of the number of its members.
+- 3- The Council of Representatives may decide to withdraw confidence from the Prime Minister by an absolute majority of the number of its members.
 
-- The Government is deemed resigned in case of withdrawal of confidence from the Prime Minister.
+- C. The Government is deemed resigned in case of withdrawal of confidence from the Prime Minister.
 
-- In case of a vote of withdrawal of confidence in the Council of Ministers as a whole, the Prime Minister and the Ministers continue in their positions to run everyday business for a period not to exceed thirty days until a new Council of Ministers is formed in accordance with the provisions of Article 76 of this Constitution.
+- D. In case of a vote of withdrawal of confidence in the Council of Ministers as a whole, the Prime Minister and the Ministers continue in their positions to run everyday business for a period not to exceed thirty days until a new Council of Ministers is formed in accordance with the provisions of Article 76 of this Constitution.
 
-- The Council of Representatives may question independent commission heads in accordance with the same procedures related to the Ministers. The Council shall have the right to relieve them by absolute majority.
+- E. The Council of Representatives may question independent commission heads in accordance with the same procedures related to the Ministers. The Council shall have the right to relieve them by absolute majority.
 
 [[END OF PAGE 19]]
 
@@ -595,13 +595,13 @@ B.
 
 Ninth:
 
-- To consent to the declaration of war and the state of emergency by a twothirds majority based on a joint request from the President of the Republic and the Prime Minister.
+- A. To consent to the declaration of war and the state of emergency by a two-thirds majority based on a joint request from the President of the Republic and the Prime Minister.
 
-- The state of emergency shall be declared for a period of thirty days, which can be extended after approval each time.
+- B. The state of emergency shall be declared for a period of thirty days, which can be extended after approval each time.
 
-- The Prime Minister shall be delegated the necessary powers which enable him to manage the affairs of the country during the period of the declaration of war and the state of emergency.  These powers shall be regulated by a law in a way that does not contradict the Constitution.
+- C. The Prime Minister shall be delegated the necessary powers which enable him to manage the affairs of the country during the period of the declaration of war and the state of emergency.  These powers shall be regulated by a law in a way that does not contradict the Constitution.
 
-- The Prime Minister shall present to the Council of Representatives the measures taken and the results during the period of the declaration of war and the state of emergency within 15 days from the date of its end.
+- D. The Prime Minister shall present to the Council of Representatives the measures taken and the results during the period of the declaration of war and the state of emergency within 15 days from the date of its end.
 
 ##### Article 62:
 
@@ -615,15 +615,17 @@ First: A law shall regulate the rights and privileges of the speaker of the Coun
 
 Second:
 
-- A member of the Council of Representatives shall enjoy immunity for statements made while the Council is in session, and the member may not be prosecuted before the courts for such.
+- A. A member of the Council of Representatives shall enjoy immunity for statements made while the Council is in session, and the member may not be prosecuted before the courts for such.
 
-- A Council of Representatives member may not be placed under arrest during the legislative term of the Council of Representatives, unless the member is accused of a felony and the Council of Representatives members consent by an absolute majority to lift his immunity or if he is caught in flagrante delicto in the commission of a felony.
+- B. A Council of Representatives member may not be placed under arrest during the legislative term of the Council of Representatives, unless the member is accused of a felony and the Council of Representatives members consent by an absolute majority to lift his immunity or if he is caught in flagrante delicto in the commission of a felony.
 
-- A Council of Representatives member may not be arrested after the legislative term of the Council of Representatives, unless the member is accused of a felony and with the consent of the speaker of the Council of
+- C. A Council of Representatives member may not be arrested after the legislative term of the Council of Representatives, unless the member is accused of a felony and with the consent of the speaker of the Council of
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
+
+Representatives to lift his immunity or if he is caught in flagrante delicto in the commission of a felony.
 
 ##### Article 64:
 
@@ -648,8 +650,6 @@ The federal executive power shall consist of the President of the Republic and t
 ##### Article 67:
 
 The President of the Republic is the Head of the State and a symbol of the unity of the country and represents the sovereignty of the country.  He shall guarantee the commitment to the Constitution and the preservation of Iraq's independence, sovereignty,
-
-Representatives to lift his immunity or if he is caught in flagrante delicto in the commission of a felony.
 
 [[END OF PAGE 21]]
 
@@ -878,15 +878,15 @@ Seventh: Ratifying the final results of the general elections for membership in 
 
 Eight:
 
+A. Settling competency disputes between the federal judiciary and the judicial institutions of the regions and governorates that are not organized in a region.
+
+B. Settling competency disputes between judicial institutions of the regions or governorates that are not organized in a region.
+
 ##### Article 94:
 
 Decisions of the Federal Supreme Court are final and binding for all authorities.
 
 #### Third: General Provisions
-
-- Settling competency disputes between the federal judiciary and the judicial institutions of the regions and governorates that are not organized in a region.
-
-- Settling competency disputes between judicial institutions of the regions or governorates that are not organized in a region.
 
 [[END OF PAGE 28]]
 
@@ -976,6 +976,8 @@ Other independent commissions may be established by law, according to need and n
 
 [[START OF PAGE 32]]
 
+## Section Four Powers of the Federal Government
+
 ##### Article 109:
 
 The federal authorities shall preserve the unity, integrity, independence, and sovereignty of Iraq and its federal democratic system.
@@ -1003,8 +1005,6 @@ Ninth: General population statistics and census.
 ##### Article 111:
 
 Oil and gas are owned by all the people of Iraq in all the regions and governorates.
-
-## Section Four Powers of the Federal Government
 
 [[END OF PAGE 32]]
 
@@ -1048,6 +1048,10 @@ All powers not stipulated in the exclusive powers of the federal government belo
 
 [[START OF PAGE 35]]
 
+## Section Five Powers of the Regions
+
+### Chapter One [Regions]
+
 ##### Article 116:
 
 The federal system in the Republic of Iraq is made up of a decentralized capital, regions, and governorates, as well as local administrations.
@@ -1075,10 +1079,6 @@ Second: A request by one-tenth of the voters in each of the governorates intendi
 Each region shall adopt a constitution of its own that defines the structure of powers of the region, its authorities, and the mechanisms for exercising such authorities, provided that it does not contradict this Constitution.
 
 ##### Article 121:
-
-## Section Five Powers of the Regions
-
-### Chapter One [Regions]
 
 [[END OF PAGE 35]]
 
@@ -1136,6 +1136,10 @@ This Constitution shall guarantee the administrative, political, cultural, and e
 
 [[START OF PAGE 38]]
 
+## Section Six Final and Transitional Provisions
+
+### Chapter One [Final Provisions]
+
 ##### Article 126:
 
 First: The President of the Republic and the Council of the Ministers collectively, or one-fifth of the Council of Representatives members, may propose to amend the Constitution.
@@ -1155,10 +1159,6 @@ Fifth:
 ##### Article 127:
 
 The President of the Republic, the Prime Minister, members of the Council of Ministers, the Speaker of the Council of Representatives, his two Deputies, members of the Council of Representatives, members of the Judicial Authority, and people of special grades may not use their influence to buy or rent any state properties, to rent or sell any of their assets
-
-## Section Six Final and Transitional Provisions
-
-### Chapter One [Final Provisions]
 
 [[END OF PAGE 38]]
 
@@ -1238,23 +1238,23 @@ First: The expression 'the Presidency Council' shall replace the expression 'the
 
 Second:
 
-- The Council of Representatives shall elect the President of the State and two Vice Presidents who shall form a Council called the 'Presidency Council,' which shall be elected by one list and with a two-thirds majority.
+A. The Council of Representatives shall elect the President of the State and two Vice Presidents who shall form a Council called the 'Presidency Council,' which shall be elected by one list and with a two-thirds majority.
 
-- The provisions to remove the President of the Republic present in this Constitution shall apply to the President and members of the Presidency Council.
+B. The provisions to remove the President of the Republic present in this Constitution shall apply to the President and members of the Presidency Council.
 
-- The Council of Representatives may remove a member of the Presidency Council with a three-fourths majority of the number of its members for reasons of incompetence and dishonesty.
+C. The Council of Representatives may remove a member of the Presidency Council with a three-fourths majority of the number of its members for reasons of incompetence and dishonesty.
 
-- In the event of a vacant seat in the Presidency Council, the Council of Representatives shall elect a replacement by a two-thirds majority vote of its members.
+D. In the event of a vacant seat in the Presidency Council, the Council of Representatives shall elect a replacement by a two-thirds majority vote of its members.
 
 Third: Members of the Presidency Council shall be subject to the same conditions as a member of the Council of Representatives and must:
 
-- Be over forty years of age.
+A. Be over forty years of age.
 
-- Enjoy good reputation, integrity and uprightness.
+B. Enjoy good reputation, integrity and uprightness.
 
-- Have quit the dissolved (Ba'ath) Party ten years prior to its fall, in case he was a member of it.
+C. Have quit the dissolved (Ba'ath) Party ten years prior to its fall, in case he was a member of it.
 
-- Have not participated in suppressing the 1991 and Al-Anfal uprisings.  He must not have committed a crime against the Iraqi people.
+D. Have not participated in suppressing the 1991 and Al-Anfal uprisings.  He must not have committed a crime against the Iraqi people.
 
 Fourth: The Presidency Council shall issue its decisions unanimously and any member may delegate to one of the two other members to take his place.
 
