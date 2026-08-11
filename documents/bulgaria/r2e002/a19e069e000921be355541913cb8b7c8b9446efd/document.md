@@ -1,21 +1,5 @@
 [[START OF PAGE 1]]
 
-### Art. 1.
-
-- Bulgaria shall be a republic with a parliamentary form of government.
-
-- The entire power of the State shall derive from the people. The people shall exercise this power directly and through the bodies established by this Constitution.
-
-- No part of the people, no political party nor any other organization, state institution or individual shall usurp the expression of the popular sovereignty.
-
-### Art. 2 .
-
-(1) The Republic of Bulgaria shall be an unitary State with local selfgovernment. No autonomous territorial formations shall be allowed to exist therein.
-
-(2) The territorial integrity of the Republic of Bulgaria shall be inviolable.
-
-### Art. 3.
-
 National Assembly of the Republic of Bulgaria
 
 # CONSTITUTION OF THE REPUBLIC OF BULGARIA
@@ -33,6 +17,22 @@ hereby proclaim our resolve to create a democratic and social state, governed by
 CONSTITUTION
 
 ## Chapter one FUNDAMENTAL PRINCIPLES
+
+### Art. 1.
+
+(1) Bulgaria shall be a republic with a parliamentary form of government.
+
+(2) The entire power of the State shall derive from the people. The people shall exercise this power directly and through the bodies established by this Constitution.
+
+(3) No part of the people, no political party nor any other organization, state institution or individual shall usurp the expression of the popular sovereignty.
+
+### Art. 2.
+
+(1) The Republic of Bulgaria shall be an unitary State with local self-government. No autonomous territorial formations shall be allowed to exist therein.
+
+(2) The territorial integrity of the Republic of Bulgaria shall be inviolable.
+
+### Art. 3.
 
 [[END OF PAGE 1]]
 
@@ -194,7 +194,7 @@ The State shall establish conditions conducive to the free development of scienc
 
 (1) The Republic of Bulgaria shall conduct its foreign policy in accordance with the principles and norms of international law.
 
-(2) The foreign policy of the Republic of Bulgaria shall have as its highest objective the national security and independence of the country, the wellbeing and the fundamental rights and freedoms of the Bulgarian citizens, and the promotion of a just international order.
+(2) The foreign policy of the Republic of Bulgaria shall have as its highest objective the national security and independence of the country, the well-being and the fundamental rights and freedoms of the Bulgarian citizens, and the promotion of a just international order.
 
 ## Chapter two FUNDAMENTAL RIGHTS AND DUTIES OF CITIZENS
 
@@ -547,13 +547,13 @@ The National Assembly shall establish the emoluments of its Members.
 
 (1) A Member's prerogatives shall expire before the expiry of his term of office upon any of the following occurrences:
 
-- resignation presented before the National Assembly;
+1. resignation presented before the National Assembly;
 
-- entry into force of a final sentence imposing imprisonment for an intentional criminal offence, or if the enforcement of the imprisonment sentence has not been suspended;
+2. entry into force of a final sentence imposing imprisonment for an intentional criminal offence, or if the enforcement of the imprisonment sentence has not been suspended;
 
-- establishment of ineligibility or incompatibility;
+3. establishment of ineligibility or incompatibility;
 
-- death.
+4. death.
 
 (2) Cases referred to in items 1 and 2 shall require a resolution of the National Assembly; cases referred to in item 3 shall require a ruling by the Constitutional Court.
 
@@ -585,31 +585,31 @@ A newly elected National Assembly shall be convened for a first session by the P
 
 (1) The Chairperson of the National Assembly shall:
 
-- represent the National Assembly;
+1. represent the National Assembly;
 
-- propose the agenda for each session;
+2. propose the agenda for each session;
 
-- open, chair and close the sessions of the National Assembly and maintain orderly proceedings;
+3. open, chair and close the sessions of the National Assembly and maintain orderly proceedings;
 
-- attest by his signature the contents of the acts passed by the National Assembly;
+4. attest by his signature the contents of the acts passed by the National Assembly;
 
-- promulgate all resolutions, declarations and addresses passed by the National Assembly;
+5. promulgate all resolutions, declarations and addresses passed by the National Assembly;
 
-- organize the National Assembly's international contacts.
+6. organize the National Assembly's international contacts.
 
-- The Deputy Chairpersons of the National Assembly shall assist the Chairperson and carry out any activities devolved by him.
+(2) The Deputy Chairpersons of the National Assembly shall assist the Chairperson and carry out any activities devolved by him.
 
 ### Art. 78.
 
 The National Assembly shall be convened for its sessions by its Chairperson:
 
-- on his own initiative;
+1. on his own initiative;
 
-- at the request of one-fifth of its members;
+2. at the request of one-fifth of its members;
 
-- at the request of the President;
+3. at the request of the President;
 
-- at the request of the Council of Ministers.
+4. at the request of the Council of Ministers.
 
 ### Art. 79.
 
@@ -621,7 +621,7 @@ The National Assembly shall be convened for its sessions by its Chairperson:
 
 (2) The standing committees shall aid the work of the National Assembly and shall exercise parliamentary control on its behalf.
 
-(3) Ad hoc committees shall be elected to conduct inqui-ries and investigations.
+(3) Ad hoc committees shall be elected to conduct inquiries and investigations.
 
 ### Art. 80.
 
@@ -649,15 +649,15 @@ Sessions of the National Assembly shall be public. The National Assembly may by 
 
 The National Assembly shall:
 
-- pass, amend, supplement, and repeal the laws;
+1. pass, amend, supplement, and repeal the laws;
 
-- pass the state budget and the budget report;
+2. pass the state budget and the budget report;
 
-(amend. - SG 12/07) establish the taxes and determine the size of the state taxes;
+3. (amend. - SG 12/07) establish the taxes and determine the size of the state taxes;
 
-- schedule the elections for a President of the Republic;
+4. schedule the elections for a President of the Republic;
 
-- pass resolution on the holding of a national referendum;
+5. pass resolution on the holding of a national referendum;
 
 6. elect and remove the Prime Minister and, on his motion, the members of the Council of Ministers; effect changes in the government on a motion from the Prime Minister;
 
@@ -671,7 +671,7 @@ The National Assembly shall:
 
 11. approve any deployment and use of Bulgarian armed forces outside the country's borders, and the deployment of foreign troops on the territory of the country or their crossing of that territory;
 
-- on a motion from the President or the Council of Ministers, introduce
+12. on a motion from the President or the Council of Ministers, introduce
 
 [[END OF PAGE 15]]
 
@@ -679,53 +679,55 @@ The National Assembly shall:
 
 martial law or a state of emergency on all or part of the country's territory;
 
-- grant amnesty;
+13. grant amnesty;
 
-- institute orders and medals;
+14. institute orders and medals;
 
-- establish the official holidays;
+15. establish the official holidays;
 
-(new-SG 27/06, amend. - SG 12/07 ) hold a hearing and recieve the annual reports of the Supreme Court of Cassation, the Supreme Administrative Court and the Prosecutor General, submitted by the Supreme Judicial Council, on the application of the law and on the activities of the courts, the prosecution office and the investigating bodies; 17. (new-SG 12/07) hold a hearing and pass reports on the activity of bodies, wholly or partially appointed by the National Assembly, where this is provided by law.
+16. (new-SG 27/06, amend. - SG 12/07 ) hold a hearing and recieve the annual reports of the Supreme Court of Cassation, the Supreme Administrative Court and the Prosecutor General, submitted by the Supreme Judicial Council, on the application of the law and on the activities of the courts, the prosecution office and the investigating bodies;
+
+17. (new-SG 12/07) hold a hearing and pass reports on the activity of bodies, wholly or partially appointed by the National Assembly, where this is provided by law.
 
 ### Art. 85.
 
-- The National Assembly shall ratify or denounce by law all international treaties which:
+(1) The National Assembly shall ratify or denounce by law all international treaties which:
 
-- are of a political or military nature;
+1. are of a political or military nature;
 
-- concern the Republic of Bulgaria's participation in international organizations;
+2. concern the Republic of Bulgaria's participation in international organizations;
 
-- envisage corrections to the borders of the Republic of Bulgaria;
+3. envisage corrections to the borders of the Republic of Bulgaria;
 
-- contain obligations for the treasury;
+4. contain obligations for the treasury;
 
-- envisage the State's participation in international arbitration or legal proceedings;
+5. envisage the State's participation in international arbitration or legal proceedings;
 
-- concern fundamental human rights;
+6. concern fundamental human rights;
 
-- affect the action of the law or require new legislation in order to be enforced;
+7. affect the action of the law or require new legislation in order to be enforced;
 
-- expressly require ratification;
+8. expressly require ratification;
 
-(new, SG 18/05) confer to the European Union powers ensuing from this Constitution.
+9. (new, SG 18/05) confer to the European Union powers ensuing from this Constitution.
 
-(new, SG 18/05) The law ratifying the international treaty referred to in para 1, item 9 shall be adopted by a majority of two-thirds of all members of the Parliament.
+(2) (new, SG 18/05) The law ratifying the international treaty referred to in para 1, item 9 shall be adopted by a majority of two-thirds of all members of the Parliament.
 
-(former para 2, SG 18/05) Treaties ratified by the National Assembly may be amended or denounced only by their built-in procedure or in accordance with the universally acknowledged norms of international law. (4) (former para 3, SG 18/05) The conclusion of an international treaty
+(3) (former para 2, SG 18/05) Treaties ratified by the National Assembly may be amended or denounced only by their built-in procedure or in accordance with the universally acknowledged norms of international law.
 
-- requiring an amendment to the Constitution shall be preceded by the passage of such an amendment.
+(4) (former para 3, SG 18/05) The conclusion of an international treaty requiring an amendment to the Constitution shall be preceded by the passage of such an amendment.
 
 ### Art. 86.
 
-- The National Assembly shall pass laws, resolutions, declarations and addresses.
+(1) The National Assembly shall pass laws, resolutions, declarations and addresses.
 
-- The laws and resolutions passed by the National Assembly shall be binding on all state bodies, all organizations and all citizens.
+(2) The laws and resolutions passed by the National Assembly shall be binding on all state bodies, all organizations and all citizens.
 
 ### Art. 87.
 
-- Any Member of the National Assembly or the Council of Ministers shall have the right to introduce a bill.
+(1) Any Member of the National Assembly or the Council of Ministers shall have the right to introduce a bill.
 
-- The State Budget Bill shall be drawn up and presented by the Council of Ministers.
+(2) The State Budget Bill shall be drawn up and presented by the Council of Ministers.
 
 [[END OF PAGE 16]]
 
@@ -735,7 +737,7 @@ martial law or a state of emergency on all or part of the country's territory;
 
 (1) Bills shall be read and voted upon twice, during different sessions. By way of exception, the National Assembly may resolve to hold both ballots during a single session.
 
-- All other acts of the National Assembly shall require a single ballot.
+(2) All other acts of the National Assembly shall require a single ballot.
 
 (3) Each passed act shall be promulgated in State Gazette within 15 days of being passed.
 
@@ -769,9 +771,9 @@ martial law or a state of emergency on all or part of the country's territory;
 
 ### Art. 92.
 
-- The President shall be the head of State. He shall embody the unity of the nation and shall represent the State in its international relations.
+(1) The President shall be the head of State. He shall embody the unity of the nation and shall represent the State in its international relations.
 
-- The President shall be assisted in his actions by a Vice President.
+(2) The President shall be assisted in his actions by a Vice President.
 
 [[END OF PAGE 17]]
 
@@ -781,7 +783,7 @@ martial law or a state of emergency on all or part of the country's territory;
 
 (1) The President shall be elected directly by the voters for a period of five years by a procedure established by law.
 
-(2) Eligible for President shall be any natural-born Bulga-rian citizen over 40 years of age and qualified to be elected to the National Assembly, who has resided in the country for the five years preceding the election.
+(2) Eligible for President shall be any natural-born Bulgarian citizen over 40 years of age and qualified to be elected to the National Assembly, who has resided in the country for the five years preceding the election.
 
 (3) To be elected, a candidate shall require more than one-half of the valid ballots, provided that more than half of all eligible voters have cast their ballots in the election.
 
@@ -797,7 +799,7 @@ The Vice President shall be elected at the same time and on the same ticket as t
 
 ### Art. 95.
 
-(1) The President and the Vice President shall be eligible for only one reelection to the same office.
+(1) The President and the Vice President shall be eligible for only one re-election to the same office.
 
 (2) The President and the Vice President shall not serve as Members of the National Assembly or engage in any other state, public or economic activity, nor shall they participate in the leadership of any political party.
 
@@ -831,37 +833,47 @@ the National Assembly until the election of a new President and Vice President. 
 
 The President of the Republic shall:
 
-- schedule the elections for a National Assembly and for the bodies of local self-government and shall set the date for national referendums pursuant to a resolution of the National Assembly;
+1. schedule the elections for a National Assembly and for the bodies of local self-government and shall set the date for national referendums pursuant to a resolution of the National Assembly;
 
-- address the nation and the National Assembly;
+2. address the nation and the National Assembly;
 
-- conclude international treaties in the circumstances established by the law;
+3. conclude international treaties in the circumstances established by the law;
 
-- promulgate the laws;
+4. promulgate the laws;
 
-- on a motion from the Council of Ministers, determine the borders of the administrative territorial units and their centers;
+5. on a motion from the Council of Ministers, determine the borders of the administrative territorial units and their centers;
 
-- on a motion from the Council of Ministers, appoint and remove the heads of the Republic of Bulgaria's diplomatic and permanent missions at international organizations, and receive the credentials and the letters of recall of the foreign diplomatic representatives to this country;
+6. on a motion from the Council of Ministers, appoint and remove the heads of the Republic of Bulgaria's diplomatic and permanent missions at international organizations, and receive the credentials and the letters of recall of the foreign diplomatic representatives to this country;
 
-- appoint and remove from office other state officials, established by law;
+7. appoint and remove from office other state officials, established by law;
 
-- award orders and medals;
+8. award orders and medals;
 
-- grant, restore, relieve from and withdraw Bulgarian citizenship;
+9. grant, restore, relieve from and withdraw Bulgarian citizenship;
 
-- grant asylum;
+10. grant asylum;
 
-- exercise the right to pardon.
+11. exercise the right to pardon.
 
-- cancel uncollectible debts to the State;
+12. cancel uncollectible debts to the State;
 
-- name landmarks and communities of national importance;
+13. name landmarks and communities of national importance;
 
-- inform the National Assembly on basic problems within his prerogatives.
+14. inform the National Assembly on basic problems within his prerogatives.
 
 ### Art. 99.
 
-- Following consultations with the parliamentary groups, the President shall appoint the Prime Minister-designate nominated by the party holding the highest number of seats in the National Assembly to form a government. (2) Should the Prime Minister-designate fail to form a government within seven days, the President shall entrust this task to a Prime Ministerdesignate nominated by the second largest parliamentary group. (3) Should the new Prime Minister-designate also fail to form a government within the period established by the preceding paragraph, the President shall entrust the task to a Prime Minister-designate nominated by one of the minor parliamentary groups. (4) Should the consultations prove successful, the President shall ask the National Assembly to elect the Prime Minister-designate. (5) Should no agreement on the formation of a government be reached, the President shall appoint a caretaker government, dissolve the National Assembly and schedule new elections within the period established by Art. 64 para 3. The President's act on the dissolution of the National Assembly shall also establish the date of the new general elections. (6) The procedure for forming a government established by the preceding
+(1) Following consultations with the parliamentary groups, the President shall appoint the Prime Minister-designate nominated by the party holding the highest number of seats in the National Assembly to form a government.
+
+(2) Should the Prime Minister-designate fail to form a government within seven days, the President shall entrust this task to a Prime Minister-designate nominated by the second largest parliamentary group.
+
+(3) Should the new Prime Minister-designate also fail to form a government within the period established by the preceding paragraph, the President shall entrust the task to a Prime Minister-designate nominated by one of the minor parliamentary groups.
+
+(4) Should the consultations prove successful, the President shall ask the National Assembly to elect the Prime Minister-designate.
+
+(5) Should no agreement on the formation of a government be reached, the President shall appoint a caretaker government, dissolve the National Assembly and schedule new elections within the period established by Art. 64 para 3. The President's act on the dissolution of the National Assembly shall also establish the date of the new general elections.
+
+(6) The procedure for forming a government established by the preceding
 
 paragraphs shall further apply in the cases referred to in Art. 111 para 1. (7) In the cases referred to in paras 5 and 6, the President shall not dissolve the National Assembly during the last three months of his term of office. Should Parliament fail to form a government within the established period, the President shall appoint a caretaker government.
 
@@ -871,51 +883,51 @@ paragraphs shall further apply in the cases referred to in Art. 111 para 1. (7) 
 
 ### Art. 100.
 
-- The President shall be the Supreme Commander in Chief of the Armed Forces of the Republic of Bulgaria.
+(1) The President shall be the Supreme Commander in Chief of the Armed Forces of the Republic of Bulgaria.
 
-- The President shall appoint and remove the higher command of the Armed Forces and shall bestow all higher military ranks on a motion from the Council of Ministers.
+(2) The President shall appoint and remove the higher command of the Armed Forces and shall bestow all higher military ranks on a motion from the Council of Ministers.
 
-- The President shall preside over the Consultative National Security Council, the status of which shall be established by law.
+(3) The President shall preside over the Consultative National Security Council, the status of which shall be established by law.
 
-- The President shall proclaim general or partial mobilization on a motion from the Council of Ministers in accordance with the law.
+(4) The President shall proclaim general or partial mobilization on a motion from the Council of Ministers in accordance with the law.
 
-- The President shall proclaim a state of war in the case of an armed attack against Bulgaria or whenever urgent actions are required by virtue of an international commitment, or shall proclaim martial law or any other state of emergency whenever the National Assembly is not in session and cannot be convened. The National Assembly shall then be convened forthwith to endorse the decision.
+(5) The President shall proclaim a state of war in the case of an armed attack against Bulgaria or whenever urgent actions are required by virtue of an international commitment, or shall proclaim martial law or any other state of emergency whenever the National Assembly is not in session and cannot be convened. The National Assembly shall then be convened forthwith to endorse the decision.
 
 ### Art. 101.
 
-- Within the term established by Art. 88 para 3, the President shall be free to return a bill together with his motives to the National Assembly for further debate, which shall not be refused.
+(1) Within the term established by Art. 88 para 3, the President shall be free to return a bill together with his motives to the National Assembly for further debate, which shall not be refused.
 
-- The new passage of such a bill shall require a majority of more than half of all Members of the National Assembly.
+(2) The new passage of such a bill shall require a majority of more than half of all Members of the National Assembly.
 
-- Following a new passage of the bill by the National Assembly, the President shall promulgate it within seven days following its receipt.
+(3) Following a new passage of the bill by the National Assembly, the President shall promulgate it within seven days following its receipt.
 
 ### Art. 102.
 
-- Within the prerogatives vested in him, the President shall issue decrees, addresses and messages.
+(1) Within the prerogatives vested in him, the President shall issue decrees, addresses and messages.
 
-- The President's decrees shall be countersigned by the Prime Minister or the minister concerned.
+(2) The President's decrees shall be countersigned by the Prime Minister or the minister concerned.
 
-- No countersigning shall be required for decrees pertaining to:
+(3) No countersigning shall be required for decrees pertaining to:
 
-- the appointment of a caretaker government;
+1. the appointment of a caretaker government;
 
-- the appointment of a Prime Minister-designate;
+2. the appointment of a Prime Minister-designate;
 
-- dissolution of the National Assembly;
+3. dissolution of the National Assembly;
 
-- return of a bill to the National Assembly for further debate;
+4. return of a bill to the National Assembly for further debate;
 
-- the organization and manner of action of the offices of the Presidency and the appointment of their staff;
+5. the organization and manner of action of the offices of the Presidency and the appointment of their staff;
 
-- the scheduling of an election or referendum;
+6. the scheduling of an election or referendum;
 
-- the promulgation of law.
+7. the promulgation of law.
 
 ### Art. 103.
 
 (1) The President and Vice President shall not be held liable for actions committed in the performance of their duties, except for high treason, or a violation of the Constitution.
 
-- An impeachment shall require a motion from no fewer than one quarter
+(2) An impeachment shall require a motion from no fewer than one quarter
 
 [[END OF PAGE 20]]
 
@@ -923,9 +935,9 @@ paragraphs shall further apply in the cases referred to in Art. 111 para 1. (7) 
 
 of all Members of the National Assembly and shall stand if supported by more than two-thirds of the Members.
 
-(3) An impeachment against the President or Vice President shall be tried by the Constitutional Court within a month following the lodging of the impeachment. Should the Constitutional Court convict the President or Vice President of high treason, or of a violation of the Constitution, the President's or Vice President's prerogatives shall be suspended. (4) No one shall place the President or the Vice President under detention,
+(3) An impeachment against the President or Vice President shall be tried by the Constitutional Court within a month following the lodging of the impeachment. Should the Constitutional Court convict the President or Vice President of high treason, or of a violation of the Constitution, the President's or Vice President's prerogatives shall be suspended.
 
-- nor shall initiate criminal prosecution against them.
+(4) No one shall place the President or the Vice President under detention, nor shall initiate criminal prosecution against them.
 
 ### Art. 104.
 
@@ -935,9 +947,9 @@ The President shall be free to devolve to the Vice President the prerogatives es
 
 ### Art. 105.
 
-- The Council of Ministers shall direct and conduct State's domestic and foreign policy in accordance with the Constitution and the laws.
+(1) The Council of Ministers shall direct and conduct State's domestic and foreign policy in accordance with the Constitution and the laws.
 
-- The Council of Ministers shall ensure the public order and national security and shall exercise overall guidance over the state administration and the Armed Forces.
+(2) The Council of Ministers shall ensure the public order and national security and shall exercise overall guidance over the state administration and the Armed Forces.
 
 (3) (new, SG 18/05) The Council of Ministers shall inform the National Assembly on issues concerning the obligations of the Republic of Bulgaria resulting from its membership in the European Union.
 
@@ -953,11 +965,11 @@ The Council of Ministers shall rescind any illegitimate or improper act issued b
 
 ### Art. 108.
 
-- The Council of Ministers shall consist of a Prime Minister, Deputy Prime Ministers and ministers.
+(1) The Council of Ministers shall consist of a Prime Minister, Deputy Prime Ministers and ministers.
 
-- The Prime Minister shall head, coordinate and bear responsibility for the overall policy of the government. He shall appoint and remove the deputy ministers.
+(2) The Prime Minister shall head, coordinate and bear responsibility for the overall policy of the government. He shall appoint and remove the deputy ministers.
 
-- Each member of the Council of Ministers shall head a ministry, except when the National Assembly resolves other-wise. Each minister shall
+(3) Each member of the Council of Ministers shall head a ministry, except when the National Assembly resolves otherwise. Each minister shall
 
 [[END OF PAGE 21]]
 
@@ -975,23 +987,23 @@ Eligible for election to the Council of Ministers shall be any Bulgarian citizen
 
 ### Art. 111.
 
-- The authority of the Council of Ministers shall expire upon any of the following occurrences:
+(1) The authority of the Council of Ministers shall expire upon any of the following occurrences:
 
-- a vote of no confidence in the Council of Ministers or the Prime Minister;
+1. a vote of no confidence in the Council of Ministers or the Prime Minister;
 
-- the resignation of the Council of Ministers or the Prime Minister;
+2. the resignation of the Council of Ministers or the Prime Minister;
 
-- death of the Prime Minister.
+3. death of the Prime Minister.
 
-- The Council of Ministers shall hand in its resignation before the newly elected National Assembly.
+(2) The Council of Ministers shall hand in its resignation before the newly elected National Assembly.
 
-- Should any of the above occur, the Council of Ministers shall continue to act until the election of a new Council of Ministers.
+(3) Should any of the above occur, the Council of Ministers shall continue to act until the election of a new Council of Ministers.
 
 ### Art. 112.
 
 (1) The Council of Ministers shall be free to ask the National Assembly's vote of confidence in its overall policy, its programme declaration, or on a specific issue. A resolution shall require a majority of more than half of the votes of the National Assembly Members present.
 
-- Should the Council of Ministers fail to receive the requested vote of confidence, the Prime Minister shall hand in the government's resignation.
+(2) Should the Council of Ministers fail to receive the requested vote of confidence, the Prime Minister shall hand in the government's resignation.
 
 ### Art. 113.
 
@@ -1033,7 +1045,7 @@ All judicial power shall be exercised in the name of the people.
 
 ### Art. 119.
 
-(1) Justice shall be administered by the Supreme Court of Cassation, the Supreme Administrative Court, courts of appeal, regional courts, courtsmartial and district courts.
+(1) Justice shall be administered by the Supreme Court of Cassation, the Supreme Administrative Court, courts of appeal, regional courts, courts-martial and district courts.
 
 (2) Specialized courts may be set up by virtue of law.
 
@@ -1075,29 +1087,31 @@ The Supreme Court of Cassation shall exercise supreme judicial oversight as to t
 
 ### Art. 125.
 
-- The Supreme Administrative Court shall exercise supreme judicial oversight as to the precise and equal application of the law in administrative justice.
+(1) The Supreme Administrative Court shall exercise supreme judicial oversight as to the precise and equal application of the law in administrative justice.
 
-- The Supreme Administrative Court shall rule on all challenges to the legality of acts of the Council of Ministers and the ministers, and any other acts envisaged by the law.
+(2) The Supreme Administrative Court shall rule on all challenges to the legality of acts of the Council of Ministers and the ministers, and any other acts envisaged by the law.
 
 ### Art. 126.
 
-- The structure of the prosecution office shall correspond to that of the courts.
+(1) The structure of the prosecution office shall correspond to that of the courts.
 
-- The Prosecutor General shall oversee the legality and provide methodological guidance to all other prosecutors.
+(2) The Prosecutor General shall oversee the legality and provide methodological guidance to all other prosecutors.
 
 ### Art. 127.
 
 The prosecution office shall ensure that legality is observed:
 
-(new, SG 27/06) by leading the investigation and supervising the legality thereof;
+1. (new, SG 27/06) by leading the investigation and supervising the legality thereof;
 
-(new, SG 27/06) may conduct investigation;
+2. (new, SG 27/06) may conduct investigation;
 
-(prev. item 1 SG 27/06) by bringing charges against criminal suspects and supporting the charges in indictable cases;
+3. (prev. item 1 SG 27/06) by bringing charges against criminal suspects and supporting the charges in indictable cases;
 
-(prev. item 2 SG 27/06) by overseeing the enforcement of penalties and other measures of compulsion; 5. (prev. item 3 SG 27/06) by acting for the rescission of all inlawful acts;
+4. (prev. item 2 SG 27/06) by overseeing the enforcement of penalties and other measures of compulsion;
 
-(prev. item 4 SG 27/06) by taking part in civil and administrative suits whenever required to do so by law.
+5. (prev. item 3 SG 27/06) by acting for the rescission of all inlawful acts;
+
+6. (prev. item 4 SG 27/06) by taking part in civil and administrative suits whenever required to do so by law.
 
 ### Art. 128.
 
@@ -1105,11 +1119,11 @@ The prosecution office shall ensure that legality is observed:
 
 ### Art. 129.
 
-- Judges, prosecutors and investigating magistrates shall be appointed, promoted, demoted, transferred and removed from office by the Supreme Judicial Council.
+(1) Judges, prosecutors and investigating magistrates shall be appointed, promoted, demoted, transferred and removed from office by the Supreme Judicial Council.
 
-- The Chairman of the Supreme Court of Cassation, the Chairman of the Supreme Administrative Court and the Prosecutor General shall be appointed and removed by the President of the Republic upon a proposal from the Supreme Judicial Council for a period of seven years, and shall not be eligible for a second term in office. The President shall not deny an appointment or removal upon a repeated proposal.
+(2) The Chairman of the Supreme Court of Cassation, the Chairman of the Supreme Administrative Court and the Prosecutor General shall be appointed and removed by the President of the Republic upon a proposal from the Supreme Judicial Council for a period of seven years, and shall not be eligible for a second term in office. The President shall not deny an appointment or removal upon a repeated proposal.
 
-(amend., SG 85/03) Having completed a five year term of office as a judge, prosecutor or investigating magistrate, and upon attestation,
+(3) (amend., SG 85/03) Having completed a five year term of office as a judge, prosecutor or investigating magistrate, and upon attestation,
 
 [[END OF PAGE 24]]
 
@@ -1117,17 +1131,17 @@ The prosecution office shall ensure that legality is observed:
 
 followed by a decision of the Supreme Judicial Council, the judges, prosecutors and investigating magistrates shall become irremovable. They, including the persons referred to in para 2, shall be removed from office only upon:
 
-- completion of 65 years of age;
+1. completion of 65 years of age;
 
-- resignation;
+2. resignation;
 
-- entry into force of a final sentence imposing imprisonment for an intentional criminal offence;
+3. entry into force of a final sentence imposing imprisonment for an intentional criminal offence;
 
-- permanent de facto inability to perform their duties for more than a year;
+4. permanent de facto inability to perform their duties for more than a year;
 
-- serious infringement or systematic neglect of their official duties, as well as actions undermining the prestige of the Judiciary.
+5. serious infringement or systematic neglect of their official duties, as well as actions undermining the prestige of the Judiciary.
 
-(new, SG 85/03, declared unconstitutional by Constitutional Court Judgment No. 7/2006 - SG 78/ 2006)
+(4) (new, SG 85/03, declared unconstitutional by Constitutional Court Judgment No. 7/2006 - SG 78/ 2006)
 
 In the cases under para 3, item 5, the Chairman of the Supreme Court of Cassation, the Chairman of the Supreme Administrative Court and the Prosecutor General shall be removed from office by the President of the Republic, also upon proposal of one-fourth of the Members of the National Assembly, adopted by a two-thirds majority of the Members of the National Assembly. The President shall not deny the removal upon a repeated proposal.
 
@@ -1141,17 +1155,17 @@ In the cases under para 3, item 5, the Chairman of the Supreme Court of Cassatio
 
 (2) Eligible for election to the Supreme Judicial Council besides its ex officio members shall be practising lawyers of high professional and moral integrity with at least 15 years of professional experience.
 
-- Eleven of the members of the Supreme Judicial Council shall be elected by the National Assembly, and eleven shall be elected by the bodies of the judiciary.
+(3) Eleven of the members of the Supreme Judicial Council shall be elected by the National Assembly, and eleven shall be elected by the bodies of the judiciary.
 
-- The elected members of the Supreme Judicial Council shall serve terms of five years. They shall not be eligible for immediate re-election.
+(4) The elected members of the Supreme Judicial Council shall serve terms of five years. They shall not be eligible for immediate re-election.
 
-- The meetings of the Supreme Judicial Council shall be chaired by the Minister of Justice, who shall not be entitled to a vote.
+(5) The meetings of the Supreme Judicial Council shall be chaired by the Minister of Justice, who shall not be entitled to a vote.
 
 (6) (new-SG 12/07)The Supreme Judicial Council shall:
 
 1. appoint, promote, transfer and remove from office judges, prosecutors and investigating magistrates;
 
-- impose the disciplinary sanctions "demotion" and "removal from office"
+2. impose the disciplinary sanctions "demotion" and "removal from office"
 
 [[END OF PAGE 25]]
 
@@ -1159,37 +1173,37 @@ In the cases under para 3, item 5, the Chairman of the Supreme Court of Cassatio
 
 to judges, prosecutors and investigating magistrates;
 
-- organise the qualification of judges, prosecutors and investigating magistrates;
+3. organise the qualification of judges, prosecutors and investigating magistrates;
 
-- adopt the draft budget of the judiciary;
+4. adopt the draft budget of the judiciary;
 
-- determine the scope and the structure of the annual reports referred to in Article 84, point 16.
+5. determine the scope and the structure of the annual reports referred to in Article 84, point 16.
 
 (7) (New-SG 12/07)The Supreme Judicial Council shall hold a hearing and pass the annual reports of the Supreme Court of Cassation, the Supreme Administrative Court and the Prosecutor General on the application of the law and on the activity of the courts, the prosecution office and the investigating bodies and shall submit them to the National Assembly. (8) (New-SG 12/07)The mandate of an elected member of the Supreme Judicial Council shall expire upon any of the following occurrences:
 
-- resignation;
+1. resignation;
 
-- final judicial act for a committed crime;
+2. final judicial act for a committed crime;
 
-- permanent de facto inability to perform his/her duties for more than one year;
+3. permanent de facto inability to perform his/her duties for more than one year;
 
-- disciplinary removal from office or deprival from the right to pursue legal profession or activity.
+4. disciplinary removal from office or deprival from the right to pursue legal profession or activity.
 
-(New-SG 12/07)In case of termination of the mandate of an elected member of the Supreme Judicial Council, a new member from the same quota shall be elected, who shall hold the office until the expiry of the mandate.
+(9) (New-SG 12/07)In case of termination of the mandate of an elected member of the Supreme Judicial Council, a new member from the same quota shall be elected, who shall hold the office until the expiry of the mandate.
 
 ### Art. 130a.
 
 (new, SG 27/06) The Minister of Justice:
 
-- shall propose a draft budget of the judiciary and submit it to the Supreme Judicial Council for consideration;
+1. shall propose a draft budget of the judiciary and submit it to the Supreme Judicial Council for consideration;
 
-- shall manage the property of the judiciary;
+2. shall manage the property of the judiciary;
 
-- may make proposals for appointment, promotion, demotion, transfer and removal form office of judges, prosecutors and investigators;
+3. may make proposals for appointment, promotion, demotion, transfer and removal form office of judges, prosecutors and investigators;
 
-- shall participate in the organization of the training of judges, prosecutors and investigators;
+4. shall participate in the organization of the training of judges, prosecutors and investigators;
 
-(revoked-SG 12/07).
+5. (revoked-SG 12/07).
 
 ### Art. 131.
 
@@ -1199,11 +1213,11 @@ to judges, prosecutors and investigating magistrates;
 
 (amend., SG 85/03) (1) When exercising the judicial function, the judges, prosecutors and investigating magistrates shall bear no civil or criminal liability for their official actions or for the acts rendered by them, except where the act performed constitutes an indictable intentional offence.
 
-(Revoked - SG 12/07).
+(2) (Revoked - SG 12/07).
 
-(Revoked - SG 12/07).
+(3) (Revoked - SG 12/07).
 
-(Revoked - SG 12/07).
+(4) (Revoked - SG 12/07).
 
 [[END OF PAGE 26]]
 
@@ -1211,25 +1225,25 @@ to judges, prosecutors and investigating magistrates;
 
 ### Art. 132a. (New-SG 12/07)
 
-- An Inspectorate shall be established to the Supreme Judicial Council, which shall be composed of a chief inspector and ten inspectors.
+(1) An Inspectorate shall be established to the Supreme Judicial Council, which shall be composed of a chief inspector and ten inspectors.
 
-- The chief inspector shall be elected by the National Assembly by a majority of two-thirds of the Members for a term of five years.
+(2) The chief inspector shall be elected by the National Assembly by a majority of two-thirds of the Members for a term of five years.
 
-- The inspectors shall be elected by the National Assembly for a term of four years pursuant to the procedure laid down in paragraph 2.
+(3) The inspectors shall be elected by the National Assembly for a term of four years pursuant to the procedure laid down in paragraph 2.
 
-- The chief inspector and the inspectors may be re-elected, however not for two consecutive mandates.
+(4) The chief inspector and the inspectors may be re-elected, however not for two consecutive mandates.
 
-- The budget of the Inspectorate shall be adopted by the National Assembly within the frames of the budget of the judiciary.
+(5) The budget of the Inspectorate shall be adopted by the National Assembly within the frames of the budget of the judiciary.
 
-- The Inspectorate shall inspect the activity of the judiciary bodies without affecting the independence of judges, court assessors, prosecutors and investigating magistrates while performing their duties. The chief inspector and the inspectors shall be independent and shall obey only the law while performing their duties.
+(6) The Inspectorate shall inspect the activity of the judiciary bodies without affecting the independence of judges, court assessors, prosecutors and investigating magistrates while performing their duties. The chief inspector and the inspectors shall be independent and shall obey only the law while performing their duties.
 
-- The Inspectorate shall act ex officio, on an initiative by the citizens, legal entities or state bodies, including judges, prosecutors and investigating magistrates.
+(7) The Inspectorate shall act ex officio, on an initiative by the citizens, legal entities or state bodies, including judges, prosecutors and investigating magistrates.
 
-- The Inspectorate shall submit an annual report on its activity to the Supreme Judicial Council.
+(8) The Inspectorate shall submit an annual report on its activity to the Supreme Judicial Council.
 
-- The Inspectorate shall send signals, proposals and reports to other state bodies, including the competent judiciary bodies. The Inspectorate shall provide public information about its activity.
+(9) The Inspectorate shall send signals, proposals and reports to other state bodies, including the competent judiciary bodies. The Inspectorate shall provide public information about its activity.
 
-- The conditions and procedure applicable to election and removal from office of the chief inspector and the inspectors, as well as the organisation and the activity of the Inspectorate shall be established by law.
+(10) The conditions and procedure applicable to election and removal from office of the chief inspector and the inspectors, as well as the organisation and the activity of the Inspectorate shall be established by law.
 
 ### Art. 133.
 
@@ -1237,9 +1251,9 @@ The organization and the activity of the Supreme Judicial Council, of the courts
 
 ### Art. 134.
 
-- The bar shall be free, independent and autonomous. It shall assist citizens and legal entities in the defence of their rights and legitimate interests.
+(1) The bar shall be free, independent and autonomous. It shall assist citizens and legal entities in the defence of their rights and legitimate interests.
 
-- The organization and manner of activity of the bar shall be established by law.
+(2) The organization and manner of activity of the bar shall be established by law.
 
 ## Chapter seven LOCAL SELF-GOVERNMENT AND LOCAL ADMINISTRATION
 
@@ -1303,7 +1317,7 @@ The region shall be an administrative territorial unit for the conduct of a regi
 
 (1) Each region shall be governed by a regional governor aided by a regional administration.
 
-- A regional governor shall be appointed by the Council of Ministers.
+(2) A regional governor shall be appointed by the Council of Ministers.
 
 (3) The regional governor shall ensure the implementation of the State's policy, the safeguarding of the national interests, law and public order, and shall exercise administrative control.
 
@@ -1327,7 +1341,7 @@ The organization and the procedures of the bodies of local self-government and l
 
 (2) The judges of the Constitutional Court shall be elected or appointed for a period of nine years and shall not be eligible for re-election or re-appointment. The make-up of the Constitutional Court shall be renewed every three years from each quota, in a rotation order established by law.
 
-- The judges of the Constitutional Court shall be lawyers of high professional and moral integrity and with at least fifteen years of professional experience.
+(3) The judges of the Constitutional Court shall be lawyers of high professional and moral integrity and with at least fifteen years of professional experience.
 
 (4) The judges of the Constitutional Court shall elect by secret ballot a Chairman of the Court for a period of three years.
 
@@ -1341,43 +1355,45 @@ The organization and the procedures of the bodies of local self-government and l
 
 ### Art. 148.
 
-- The mandate of a judge of the Constitutional Court shall expire upon any of the following occurrences:
+(1) The mandate of a judge of the Constitutional Court shall expire upon any of the following occurrences:
 
-- the expiry of the term of office;
+1. the expiry of the term of office;
 
-- resignation submitted before the Constitutional Court;
+2. resignation submitted before the Constitutional Court;
 
-- entry into force of a final sentence imposing imprisonment for an intentional criminal offence;
+3. entry into force of a final sentence imposing imprisonment for an intentional criminal offence;
 
-- permanent de facto inability to perform his duties for more than a year;
+4. permanent de facto inability to perform his duties for more than a year;
 
-- incompatibility with an office or activity referred to in Art. 147 para 5. 6. death.
+5. incompatibility with an office or activity referred to in Art. 147 para 5.
 
-- The Constitutional Court shall lift the immunity of a judge or establish his de facto inability to perform his duties by a secret ballot requiring a majority of at least two-thirds of the votes of all justices.
+6. death.
 
-- Where the mandate of a Constitutional judge is terminated, a new judge from the same quota shall be appointed or elected within one month.
+(2) The Constitutional Court shall lift the immunity of a judge or establish his de facto inability to perform his duties by a secret ballot requiring a majority of at least two-thirds of the votes of all justices.
+
+(3) Where the mandate of a Constitutional judge is terminated, a new judge from the same quota shall be appointed or elected within one month.
 
 ### Art. 149.
 
 (1) The Constitutional Court shall:
 
-- provide binding interpretations of the Constitution;
+1. provide binding interpretations of the Constitution;
 
-- rule on constitutionality of the laws and other acts passed by the National Assembly and the acts of the President;
+2. rule on constitutionality of the laws and other acts passed by the National Assembly and the acts of the President;
 
-- rule on competence suits between the National Assembly, the President and the Council of Ministers, and between the bodies of local selfgovernment and the central executive branch of government;
+3. rule on competence suits between the National Assembly, the President and the Council of Ministers, and between the bodies of local self-government and the central executive branch of government;
 
-- rule on the compatibility between the Constitution and the international treaties concluded by the Republic of Bulgaria prior to their ratification, and on the compatibility of domestic laws with the universally recognized norms of international law and the international treaties to which Bulgaria is a party;
+4. rule on the compatibility between the Constitution and the international treaties concluded by the Republic of Bulgaria prior to their ratification, and on the compatibility of domestic laws with the universally recognized norms of international law and the international treaties to which Bulgaria is a party;
 
-- rule on challenges to the constitutionality of political parties and associations;
+5. rule on challenges to the constitutionality of political parties and associations;
 
-- rule on challenges to the legality of the election of the President and Vice President;
+6. rule on challenges to the legality of the election of the President and Vice President;
 
-- rule on challenges to the legality of an election of a Member of the National Assembly;
+7. rule on challenges to the legality of an election of a Member of the National Assembly;
 
-- rule on impeachments by the National Assembly against the President or the Vice President.
+8. rule on impeachments by the National Assembly against the President or the Vice President.
 
-- No authority of the Constitutional Court shall be vested or suspended by law.
+(2) No authority of the Constitutional Court shall be vested or suspended by law.
 
 ### Art. 150.
 
@@ -1387,17 +1403,17 @@ The organization and the procedures of the bodies of local self-government and l
 
 [[START OF PAGE 31]]
 
-- Should it find a discrepancy between law and the Constitution, the Supreme Court of Cassation or the Supreme Administrative Court shall suspend the proceedings on a case and shall refer the matter to the Constitutional Court.
+(2) Should it find a discrepancy between law and the Constitution, the Supreme Court of Cassation or the Supreme Administrative Court shall suspend the proceedings on a case and shall refer the matter to the Constitutional Court.
 
 (3) (new, SG 27/06) The Ombudsman may approach the Constitutional Court with a request for declaring as unconstitutional a law which infringes human rights and freedoms.
 
 ### Art. 151.
 
-- A ruling of the Constitutional Court shall require a majority of more than half of the votes of all judges.
+(1) A ruling of the Constitutional Court shall require a majority of more than half of the votes of all judges.
 
-- Rulings of the Constitutional Court shall be promulgated in State Gazette within 15 days from the date on which they are issued. A ruling shall come into force three days after its promulgation. Any act found to be unconstitutional shall cease to apply as of the date on which the ruling shall come into force.
+(2) Rulings of the Constitutional Court shall be promulgated in State Gazette within 15 days from the date on which they are issued. A ruling shall come into force three days after its promulgation. Any act found to be unconstitutional shall cease to apply as of the date on which the ruling shall come into force.
 
-- Any portion of a law which is not ruled unconstitutional shall remain in force.
+(3) Any portion of a law which is not ruled unconstitutional shall remain in force.
 
 ### Art. 152.
 
@@ -1411,15 +1427,15 @@ The National Assembly shall be free to amend all provisions of the Constitution 
 
 ### Art. 154.
 
-- The initiative to introduce a constitutional amendment bill shall belong to one quarter of the Members of the National Assembly and to the President.
+(1) The initiative to introduce a constitutional amendment bill shall belong to one quarter of the Members of the National Assembly and to the President.
 
-- An amendment bill shall be debated by the National Assembly not earlier than one month and not later than three months from the date on which it is introduced.
+(2) An amendment bill shall be debated by the National Assembly not earlier than one month and not later than three months from the date on which it is introduced.
 
 ### Art. 155.
 
-- A constitutional amendment shall require a majority of three quarters of the votes of all Members of the National Assembly in three ballots on three different days.
+(1) A constitutional amendment shall require a majority of three quarters of the votes of all Members of the National Assembly in three ballots on three different days.
 
-- A bill which has received less than three quarters but more than twothirds of the votes of all Members shall be eligible for reintroduction after not fewer than two months and not more than five months. To be passed at this new reading, the bill shall require a majority of two-thirds of the votes
+(2) A bill which has received less than three quarters but more than two-thirds of the votes of all Members shall be eligible for reintroduction after not fewer than two months and not more than five months. To be passed at this new reading, the bill shall require a majority of two-thirds of the votes
 
 [[END OF PAGE 31]]
 
@@ -1439,15 +1455,15 @@ A Grand National Assembly shall consist of 400 Members elected according to the 
 
 A Grand National Assembly shall:
 
-- adopt a new Constitution;
+1. adopt a new Constitution;
 
-- resolve on any changes in the territory of the Republic of Bulgaria and ratify any international treaty envisaging such a change.
+2. resolve on any changes in the territory of the Republic of Bulgaria and ratify any international treaty envisaging such a change.
 
-- resolve on any changes in the form of State structure or form of government;
+3. resolve on any changes in the form of State structure or form of government;
 
-- resolve on any amendment to Art. 5 paras 2 and 4 and Art. 57 paras 1 and 3 of this Constitution;
+4. resolve on any amendment to Art. 5 paras 2 and 4 and Art. 57 paras 1 and 3 of this Constitution;
 
-- resolve on any amendment to Chapter nine of the Constitution.
+5. resolve on any amendment to Chapter nine of the Constitution.
 
 ### Art. 159.
 
@@ -1461,7 +1477,7 @@ A Grand National Assembly shall:
 
 (2) The President shall schedule the elections for a Grand National Assembly within three months of the National Assembly's resolution being passed.
 
-- The mandate of the National Assembly shall expire with the holding of the elections for a Grand National Assembly.
+(3) The mandate of the National Assembly shall expire with the holding of the elections for a Grand National Assembly.
 
 ### Art. 161.
 
@@ -1475,9 +1491,9 @@ To pass a bill, the Grand National Assembly shall require a majority of two-thir
 
 [[START OF PAGE 33]]
 
-- In an emergency, a Grand National Assembly shall further perform the functions of a National Assembly.
+(2) In an emergency, a Grand National Assembly shall further perform the functions of a National Assembly.
 
-- The prerogatives of a Grand National Assembly shall expire after it resolves on all matters for which it has been elected. The President shall then schedule elections by a procedure established by law.
+(3) The prerogatives of a Grand National Assembly shall expire after it resolves on all matters for which it has been elected. The President shall then schedule elections by a procedure established by law.
 
 ### Art. 163.
 
@@ -1513,9 +1529,9 @@ The Republic of Bulgaria shall have for its capital the City of Sofia.
 
 ### § 1.
 
-- The Grand National Assembly shall dissolve itself after the adoption of the Constitution.
+(1) The Grand National Assembly shall dissolve itself after the adoption of the Constitution.
 
-- The Grand National Assembly shall continue to function as a National Assembly until the election of a new National Assembly. Within this term, it shall pass bills for the election of a new National Assembly, a President, bodies of local self-government, and other bills. The Constitutional Court and the Supreme Judicial Council shall be established within the same
+(2) The Grand National Assembly shall continue to function as a National Assembly until the election of a new National Assembly. Within this term, it shall pass bills for the election of a new National Assembly, a President, bodies of local self-government, and other bills. The Constitutional Court and the Supreme Judicial Council shall be established within the same
 
 [[END OF PAGE 33]]
 
@@ -1531,11 +1547,11 @@ Pending the election of a Supreme Court of Cassation and a Supreme Administrativ
 
 ### § 3.
 
-- The provisions of the existing laws shall be applicable on condition that they do not contravene the Constitution.
+(1) The provisions of the existing laws shall be applicable on condition that they do not contravene the Constitution.
 
-- Within a year from this Constitution's coming into force, the National Assembly shall rescind those provisions of the existing laws which have not been rescinded by virtue of the direct force of the Constitution pursuant to its Art. 5 para 2.
+(2) Within a year from this Constitution's coming into force, the National Assembly shall rescind those provisions of the existing laws which have not been rescinded by virtue of the direct force of the Constitution pursuant to its Art. 5 para 2.
 
-- The laws required expressly by this Constitution shall be passed by the National Assembly within three years.
+(3) The laws required expressly by this Constitution shall be passed by the National Assembly within three years.
 
 ### § 4.
 
@@ -1553,9 +1569,9 @@ Pending the passing of new legislation concerning Bulgarian National Television,
 
 (1) Elections for a National Assembly and bodies of local self-government shall be held within three months of the self-dissolution of the Grand National Assembly. The date of the elections shall be scheduled by the President in accordance with his prerogatives pursuant to Art. 98 item 1 of the Constitution.
 
-- The elections for a President and a Vice President shall be held within three months after the elections for a National Assembly.
+(2) The elections for a President and a Vice President shall be held within three months after the elections for a National Assembly.
 
-- Pending the election of a President and a Vice President, their functions established by this Constitution shall be performed by the Chairman (President) and the Vice Chairman (Vice President).
+(3) Pending the election of a President and a Vice President, their functions established by this Constitution shall be performed by the Chairman (President) and the Vice Chairman (Vice President).
 
 [[END OF PAGE 34]]
 
@@ -1573,9 +1589,9 @@ This Constitution shall enter into force on the day on which it is promulgated i
 
 ### § 4.
 
-- Within three months of the entry into force of the Law amending and supplementing the Constitution of the Republic of Bulgaria, the National Assembly shall pass the laws connected with the implementation of these amendments and supplements.
+(1) Within three months of the entry into force of the Law amending and supplementing the Constitution of the Republic of Bulgaria, the National Assembly shall pass the laws connected with the implementation of these amendments and supplements.
 
-- Within three months of the entry into force of § 1, item 3, the Supreme Judicial Council shall appoint the heads of the judicial bodies.
+(2) Within three months of the entry into force of § 1, item 3, the Supreme Judicial Council shall appoint the heads of the judicial bodies.
 
 ### § 5.
 
