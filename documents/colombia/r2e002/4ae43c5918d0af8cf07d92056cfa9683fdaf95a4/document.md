@@ -8,6 +8,24 @@ Poder Público - Rama Legislativa Nacional
 
 por la  cual  se  adoptan  medidas  para  la  prevención  del  desplazamiento  forzado;  la  atención, protección, consolidación y estabilización socioeconómica de los desplazados internos por la violencia en la República de Colombia.
 
+DECRETA: _________________________________________________________________________1
+T I T U L O I _____________________________________________________________________1
+DEL DESPLAZADO Y DE LA RESPONSABILIDAD DEL ESTADO ___________________1
+T I T U L O II ____________________________________________________________________2
+DEL SISTEMA NACIONAL DE ATENCION INTEGRAL A LA POBLACION
+DESPLAZADA POR LA VIOLENCIA ______________________________________________2
+CAPITULO I___________________________________________________________________________ 2
+Creación, constitución y objetivos del Sistema Nacional de Atención Integral a la Población
+Desplazada por la Violencia _____________________________________________________________ 2
+CAPITULO II __________________________________________________________________________ 5
+Del Plan Nacional para la Atención Integral a la Población Desplazada por la Violencia __________ 5
+CAPITULO III ________________________________________________________________________ 11
+Del Fondo Nacional para la Atención Integral a la Población Desplazada por la Violencia _______ 11
+T I T U L O III_________________________________________________________________________ 12
+MARCO DE PROTECCION JURIDICA___________________________________________________ 12
+T I T U L O IV_________________________________________________________________________ 12
+OTRAS DISPOSICIONES_______________________________________________________________ 12
+
 El Congreso de Colombia
 
 ## DECRETA:
@@ -74,9 +92,9 @@ expulsoras y receptoras, y la promoción y protección de los Derechos Humanos y
 
 3º.  Integrar  los  esfuerzos  públicos  y  privados  para  la  adecuada  prevención  y  atención  de  las situaciones de desplazamiento forzado por la violencia.
 
-- 4º.  Garantizar  un  manejo  oportuno  y  eficiente  de  todos  los  recursos  humanos,  técnicos, administrativos  y  económicos  que  sean  indispensables  para  la  prevención  y  atención  de  las situaciones que se presenten por causa del desplazamiento forzado por la violencia. Para el logro de los anteriores objetivos, el Sistema Nacional de Atención Integral a la población desplazada por la violencia contará con el Plan Nacional para la Atención Integral a
+- 4º.  Garantizar  un  manejo  oportuno  y  eficiente  de  todos  los  recursos  humanos,  técnicos, administrativos  y  económicos  que  sean  indispensables  para  la  prevención  y  atención  de  las situaciones que se presenten por causa del desplazamiento forzado por la violencia.
 
-Parágrafo. la población desplazada por la violencia.
+Parágrafo. Para el logro de los anteriores objetivos, el Sistema Nacional de Atención Integral a la población desplazada por la violencia contará con el Plan Nacional para la Atención Integral a la población desplazada por la violencia.
 
 ##### Artículo  5º. De  la  constitución.
 El  sistema  estará  constituido  por  el  conjunto  de  entidades públicas,  privadas  y  comunitarias  que  realizan  planes,  programas,  proyectos  y  acciones específicas, tendientes a la atención integral de la población desplazada.
@@ -125,23 +143,23 @@ Parágrafo  2º. El  Director  de  la  Dirección  General  Unidad  Administrati
 ##### Artículo 7º. De los  comités  municipales,  distritales  y  departamentales  para  la  Atención  Integral  a  la Población Desplazada por la Violencia.
 El Gobierno Nacional promoverá la creación de los comités municipales, distritales y departamentales para la Atención Integral a la Población Desplazada por la Violencia, encargados de prestar apoyo y brindar colaboración al Sistema Nacional de Atención Integral a la Población Desplazada por la Violencia, que estarán conformados por:
 
-- El Gobernador o el Alcalde, o quien haga sus veces, quien lo presidirá.
+1. El Gobernador o el Alcalde, o quien haga sus veces, quien lo presidirá.
 
-- El Comandante de Brigada o su delegado.
+2. El Comandante de Brigada o su delegado.
 
-- El Comandante de la Policía Nacional en la respectiva jurisdicción o su delegado.
+3. El Comandante de la Policía Nacional en la respectiva jurisdicción o su delegado.
 
-- El Director del Servicio Seccional de Salud o el Jefe de la respectiva Unidad de Salud, según el caso.
+4. El Director del Servicio Seccional de Salud o el Jefe de la respectiva Unidad de Salud, según el caso.
 
-- El Director Regional, Coordinador del Centro Zonal o el Director de Agencia en los nuevos departamentos, del Instituto Colombiano de Bienestar Familiar.
+5. El Director Regional, Coordinador del Centro Zonal o el Director de Agencia en los nuevos departamentos, del Instituto Colombiano de Bienestar Familiar.
 
-- Un representante de la Cruz Roja Colombiana.
+6. Un representante de la Cruz Roja Colombiana.
 
-- Un representante de la Defensa Civil.
+7. Un representante de la Defensa Civil.
 
-- Un representante de las iglesias.
+8. Un representante de las iglesias.
 
-- Dos representantes de la Población Desplazada.
+9. Dos representantes de la Población Desplazada.
 
 Parágrafo 1º. El  Comité,  por  decisión  suya,  podrá  convocar  a  representantes  o  delegados  de otras organizaciones o en general a organizaciones cívicas o a personas de relevancia social en el respectivo territorio.
 
@@ -280,17 +298,17 @@ El Gobierno Nacional promoverá acciones  y  medidas  de  mediano  y  largo  pla
 
 Estas medidas deberán permitir el acceso directo de la población desplazada a la oferta social del gobierno, en particular a los programas relacionados con:
 
-- Proyectos productivos.
+1. Proyectos productivos.
 
-- Sistema Nacional de Reforma Agraria y de Desarrollo Rural Campesino.
+2. Sistema Nacional de Reforma Agraria y de Desarrollo Rural Campesino.
 
-- Fomento de la microempresa.
+3. Fomento de la microempresa.
 
-- Capacitación y organización social.
+4. Capacitación y organización social.
 
-- Atención social en salud, educación y vivienda urbana y rural, la niñez, la mujer y las personas de la tercera edad, y
+5. Atención social en salud, educación y vivienda urbana y rural, la niñez, la mujer y las personas de la tercera edad, y
 
-- Planes de empleo urbano y rural de la Red de Solidaridad Social.
+6. Planes de empleo urbano y rural de la Red de Solidaridad Social.
 
 #### SECCION 7
 
@@ -326,9 +344,9 @@ El Fondo Agropecuario de Garantías otorgará garantías del 100% a los crédito
 
 2. El Ministerio de Agricultura y Desarrollo Rural, a través de la Dirección de Desarrollo Social y de la Oficina de Mujer Rural, diseñará y ejecutará programas para la atención y consolidación y estabilización socioeconómica de la población desplazada.
 
-- El  Instituto  de  Fomento  Industrial,  a  través  de  los  programas  de  Propyme  y  Finurbano otorgará líneas especiales de crédito en cuanto a períodos de gracia, tasas de interés, garantías y tiempos  de  amortización  para  el  desarrollo  de  microempresas  y  proyectos  productivos  que presenten las personas beneficiarias de la presente ley.
+3. El  Instituto  de  Fomento  Industrial,  a  través  de  los  programas  de  Propyme  y  Finurbano otorgará líneas especiales de crédito en cuanto a períodos de gracia, tasas de interés, garantías y tiempos  de  amortización  para  el  desarrollo  de  microempresas  y  proyectos  productivos  que presenten las personas beneficiarias de la presente ley.
 
-- El Sistema General de Seguridad Social en Salud implementará mecanismos expeditos para que  la  población  afectada  por  el  desplazamiento  acceda  a  los  servicios  de  asistencia  médica integral, quirúrgica, odontológica, psicológica, hospitalaria y de rehabilitación, de acuerdo con lo establecido en la Ley 100 de 1993.
+4. El Sistema General de Seguridad Social en Salud implementará mecanismos expeditos para que  la  población  afectada  por  el  desplazamiento  acceda  a  los  servicios  de  asistencia  médica integral, quirúrgica, odontológica, psicológica, hospitalaria y de rehabilitación, de acuerdo con lo establecido en la Ley 100 de 1993.
 
 5. La Red de Solidaridad Social dará en las mesas de solidaridad prioridad a las necesidades de las comunidades desplazadas y atenderá a las víctimas de este fenómeno, vinculándolas a sus programas.
 
@@ -380,15 +398,15 @@ Parágrafo. La  participación  del  Fondo  Nacional  en  la  financiación  y/o
 ##### Artículo  23. De  los  recursos.
 Los  recursos  del  Fondo  Nacional  para  la  Atención  Integral  a  la Población Desplazada por la Violencia estarán constituidos por:
 
-- Los recursos que se le asignen en el Presupuesto General de la Nación.
+1. Los recursos que se le asignen en el Presupuesto General de la Nación.
 
-- Las donaciones en dinero que ingresen directamente al Fondo, previa la incorporación al Presupuesto General de la Nación y las donaciones en especie legalmente aceptadas.
+2. Las donaciones en dinero que ingresen directamente al Fondo, previa la incorporación al Presupuesto General de la Nación y las donaciones en especie legalmente aceptadas.
 
-- Los recursos de crédito que contrate la Nación para atender el objeto y funciones del Fondo, previa incorporación al Presupuesto General de la Nación.
+3. Los recursos de crédito que contrate la Nación para atender el objeto y funciones del Fondo, previa incorporación al Presupuesto General de la Nación.
 
-- Los aportes en dinero provenientes de la cooperación internacional, previa incorporación al Presupuesto General de la Nación.
+4. Los aportes en dinero provenientes de la cooperación internacional, previa incorporación al Presupuesto General de la Nación.
 
-- Los  demás  bienes,  derechos  y  recursos  adjudicados,  adquiridos  o  que  adquiera  a cualquier título de conformidad con la ley.
+5. Los  demás  bienes,  derechos  y  recursos  adjudicados,  adquiridos  o  que  adquiera  a cualquier título de conformidad con la ley.
 
 ##### Artículo  24. De  la  administración.
 La  administración  del  Fondo  Nacional  para  la  Atención Integral  a  la  Población  Desplazada por la Violencia estará a cargo del Director General de la Dirección General Unidad Administrativa Especial para los Derechos Humanos del Ministerio del  Interior,  quien  será  ordenador  del  gasto  en  virtud  de  la  delegación  que  le  otorgue  el Ministro del Interior.
