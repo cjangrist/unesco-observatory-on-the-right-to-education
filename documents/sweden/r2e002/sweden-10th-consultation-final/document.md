@@ -10,9 +10,9 @@ Country name: SWEDEN
 
 Organization  or  entity  responsible  for  the  preparation  of  the  report:  Secretariat  for  Policy Analysis and International Affairs, Ministry of Education and Research
 
-## Information on the legislative, judicial, administrative and other measures taken by the state at the national level
+## I. Information on the legislative, judicial, administrative and other measures taken by the state at the national level
 
-### Ratification of the Convention 1
+### 1. Ratification of the Convention 1
 
 Is your country a State Party to the Convention?
 
@@ -46,7 +46,7 @@ http://portal.unesco.org/en/ev.php-URL_ID=12949&URL_DO=DO_TOPIC&URL_SECTION=201.
 
 [[START OF PAGE 2]]
 
-### Ratification of the Protocol 2 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
+### 2. Ratification of the Protocol 2 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
 
 Has your country ratified the Protocol?
 
@@ -56,7 +56,7 @@ o Yes
 
 -
 
-### Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
+### 3. Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
 
 #### In case your country is a State Party to the Convention:
 
@@ -118,11 +118,11 @@ If yes, the report could list the main texts adopted to guarantee the right to e
 
 Information supplied could demonstrate how such policies and programmes comply with commitments of the right to education under the Recommendation.
 
-## Information on the implementation of the Convention or Recommendation
+## II. Information on the implementation of the Convention or Recommendation
 
-### Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
+### 1. Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
 
-Articles/Paragraphs  1(1),  2  and  3  of  the  Convention/Recommendation  provide  for  nondiscrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
+Articles/Paragraphs  1(1),  2  and  3  of  the  Convention/Recommendation  provide  for  non-discrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
 
 This corresponds to the overall aspiration of SDG4 which aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all' by 2030. It therefore covers all the SDG4 targets, but also specifically SDG target 4.5. 3
 
@@ -154,7 +154,7 @@ A	number	of	measures	have	been	taken	to	strengthen	children's	rights	and	their	r
 
 The	Government	has	assigned	(Dir.	2018:99	and	Dir.	2019:63)	an	inquiry	chair	to	review	what	measures are	needed	to	ensure	compliance	with	the	provisions	on	active	measures	in	the	Discrimination	Act	(2008: 567).	Chapter	3,	Section	1	of	the	Discrimination	Act,	provides	the	following	definition	of	active	measures: 'Active	 measures	 are	 prevention	 and	 promotion	 measures	 aimed	 at	 preventing	 discrimination	 and serving	 in	 other	 ways	 to	 promote	 equal	 rights	 and	 opportunities	 regardless	 of	 gender,	 transgender identity	or	expression,	ethnicity,	religion	or	other	belief,	disability,	sexual	orientation	or	age	within	a given	establishment'.	Furthermore,	the	investigator	shall	review	the	supervisory	responsibility	over	the Discrimination	 Act	 with	 regard	 to	 activities	 in	 accordance	 with	 the	 Education	 Act	 (2010:	 800).	 The deadline	for	the	report	is	1	October	2021.
 
-On	26	February	2020,	the	Government	Offices	decided	that	an	investigator	will	assist	the	Ministry	of Education	and	Research	in	preparing	a	proposal	for	a	national	plan	for	the	school's	work	with	security and	study	peace	and	submit	proposals	that	ensure	a	functioning	regulatory	framework	for	security	and study	peace	at	schools	(U2020/00707/S).	The	deadline	for	the	commission	is	the	16 th of	December	2020.
+On	26	February	2020,	the	Government	Offices	decided	that	an	investigator	will	assist	the	Ministry	of Education	and	Research	in	preparing	a	proposal	for	a	national	plan	for	the	school's	work	with	security and	study	peace	and	submit	proposals	that	ensure	a	functioning	regulatory	framework	for	security	and study	peace	at	schools	(U2020/00707/S).	The	deadline	for	the	commission	is	the	16th of	December	2020.
 
 On	28	June	2018,	the	Government	decided	to	commission	the	National	Agency	for	Education	to	be	one of	several	strategic	authorities	with	the	task	of	promoting	equal	rights	and	opportunities	for	LGBTQ people	within	its	area	of	activity.
 
@@ -172,11 +172,13 @@ Please provide a brief description of the relevant legal, regulatory or policy t
 
 The	Swedish	education	system	is	based	on	the	principle	of	inclusion. In	accordance	with	the Education	Act	(2010:80),	all	children	and	pupils,	regardless	of	geographic	residence	and	social and	 economic	 conditions,	 are	 to	 have	 the	 same	 access	 to	 education	 (Chapter	 1,	 Section	 8). Chapter	2,	Section	18	of	the Instrument	of	Government	(Regeringsformen),	states	that	all children	for	whom	schooling	is	compulsory	are	entitled	to	a	free	basic	education	in	the public	education	system.
 
-The	Discrimination	Act	(2008:567)	prohibits	discrimination	in	education	on	seven	grounds, namely	a	person's	sex,	transgender	identity	or	expression,	ethnicity,	religion	or	other	belief, disability,	 sexual	 orientation	or	age.	Social	origin,	economic	condition	and	political	or	other opinion	are	not	covered	by	the	Act,	but	degrading	treatment	of	children	or	pupils	not	related	to the	above-mentioned	protected	grounds	of	discrimination	is	also	prohibited	in	the	Education Act	(2010:800).
+The	Discrimination	Act	(2008:567)	prohibits	discrimination	in	education	on	seven	grounds, namely	a	person's	sex,	transgender	identity	or	expression,	ethnicity,	religion	or	other	belief,
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
+disability, sexual orientation or age. Social origin, economic condition and political or other opinion are not covered by the Act, but degrading treatment of children or pupils not related to the above-mentioned protected grounds of discrimination is also prohibited in the Education Act (2010:800).
 
 The	Discrimination	Act	(2008:567)	sets	out	an	obligation	to	take	active	measures	to	prevent discrimination	in	the	education	system,	which	means	that	the	education	provider	is	to	take measures	to	prevent	any	child,	pupil	or	student	who	is	participating	in	or	applying	for	their activities	from	being	subjected	to	harassment	associated	with	sex,	ethnicity,	religion	or	other belief,	disability	or	sexual	orientation,	or	to	sexual	harassment.	Education	providers	are	also	to draw	up	a	plan	each	year	containing	an	overview	of	the	measures	needed	to	promote	equal rights	and	opportunities	for	the	children,	pupils	or	students.
 
@@ -256,7 +258,7 @@ In	addition	it	can	be	mentioned	that	the	Bill	to	the	Parliament	(Riksdagen)	on	a
 
 Please	find	below	a	Link	to	the	Discrimination	Act	in	its	present	wording	in	Swedish	and	an inofficial	translation	to	English:
 
-Swedish:https://www.riksdagen.se/sv/dokument-lagar/dokument/svenskforfattningssamling/diskrimineringslag-2008567_sfs-2008-567
+Swedish:https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/diskrimineringslag-2008567_sfs-2008-567
 
 English:	https://www.do.se/other-languages/english/discrimination-act/
 
@@ -296,18 +298,6 @@ o Providing financial incentives and fellowships
 
 - o Other:
 
-As	regards	the	Discrimination	Act	(2008:567)	reference	is	made	to	the	answer	to	p	2.3	in	the previous	report.
-
-Several	inquiries	are	ongoing	or	being	processed	to	address	inequality	and	educational	quality. One	 is	 to	 analyse	 the	 possibility	 to	 close	 schools	 with	 major	 and	 recurring	 shortcomings (U2020/04703/GV).	The	Government	has	also	appointed	an	inquiry	on	A	more	equitable	school (U	2018:05),	which	is	to	analyse,	and	propose	measures	to	reduce	school	segregation	and	improve the	allocation	of	resources	to	preschool	classes	and	compulsory	schools	in	order	to	increase	equity in	 the	 types	 of	 school	 affected.	 The	 Government	 has	 furthermore	 appointed	 an	 inquiry	 on	 the planning	 and	 dimensioning	 of	 upper	 secondary	 education	 (U	 2018:01);	 its	 remit	 includes producing	 proposals	 that	 can	 promote	 equitable	 education	 and	 reduce	 segregation	 in	 upper secondary	schools.
-
-The	Government	has	carried	out	a	number	of	initiatives	to	increase	access	to	special	educational needs	 teachers,	 such	 as	 the	 opportunity	 for	 teachers	 to	 carry	 out	 special	 teacher	 training specialising	in	e.g.	deafness	or	hearing	impairment,	visual	impairment	or	learning	disabilities.
-
-In	2016	the	Government	decided	on	a	new	government	grant	to	enable	schools	to	employ	more special	 educational	 needs	 teachers	 and	 to	 offer	 further	 training.	 Since	 2018,	 knowledge	 of neuropsychiatric	disabilities	is	included	in	all	special	education	programs.	According	to	the	new degree	objectives,	students	should	have	knowledge	of	neuropsychiatric	difficulties	and	be	able	to apply	the	knowledge	in	different	learning	environments.	Students	should	also	be	able	to	examine different	 scientific	 perspectives	 on	 neuropsychiatric	 difficulties.	 Special	 education	 programs curricula	cover	other	types	of	disabilities	as	well.
-
-In	2017,	the	Swedish	Parliament	decided	on	a	new	national	goal	for	disability	policy.	The	new	goal states	 that:	 'The	 national	 goal	 for	 disability	 policy,	 taking	 the	 UN	 Convention	 on	 the	 Rights	 of Persons	 with	 Disabilities	 as	 a	 starting	 point,	 is	 to	 achieve	 equal	 living	 conditions	 and	 full participation	in	society	for	persons	with	disabilities	in	a	society	based	on	diversity.	This	goal	shall contribute	towards	greater	gender	equality	and	consideration	of	the	children's	rights	perspective.' In	 order	 to	 achieve	 the	 national	 goal,	 the	 implementation	 of	 disability	 policy	 shall	 be	 targeted towards	 four	 areas:	 the	 principle	 of	 universal	 design;	 shortcomings	 in	 terms	 of	 accessibility; individual support	 and	 solutions for individual	 support;	 and	 preventing	 and	 countering discrimination.	 This	 decision	 also	 involves	 several	 measures	 aiming	 to	 contribute	 towards	 the national	goal	for	disability	policy,	including	human	rights	education.
-
-> 6 Administrative barriers to education include, amongst others, lack of identity papers or birth certificates required to enrol.
-
 - n Adapting curricula and methods
 
 - n Providing language classes to newcomers (e.g. refugees)
@@ -320,22 +310,34 @@ In	2017,	the	Swedish	Parliament	decided	on	a	new	national	goal	for	disability	po
 
 - n Combatting stereotyping and stigmatisation
 
+As	regards	the	Discrimination	Act	(2008:567)	reference	is	made	to	the	answer	to	p	2.3	in	the previous	report.
+
+Several	inquiries	are	ongoing	or	being	processed	to	address	inequality	and	educational	quality. One	 is	 to	 analyse	 the	 possibility	 to	 close	 schools	 with	 major	 and	 recurring	 shortcomings (U2020/04703/GV).	The	Government	has	also	appointed	an	inquiry	on	A	more	equitable	school (U	2018:05),	which	is	to	analyse,	and	propose	measures	to	reduce	school	segregation	and	improve the	allocation	of	resources	to	preschool	classes	and	compulsory	schools	in	order	to	increase	equity in	 the	 types	 of	 school	 affected.	 The	 Government	 has	 furthermore	 appointed	 an	 inquiry	 on	 the planning	 and	 dimensioning	 of	 upper	 secondary	 education	 (U	 2018:01);	 its	 remit	 includes producing	 proposals	 that	 can	 promote	 equitable	 education	 and	 reduce	 segregation	 in	 upper secondary	schools.
+
+The	Government	has	carried	out	a	number	of	initiatives	to	increase	access	to	special	educational needs	 teachers,	 such	 as	 the	 opportunity	 for	 teachers	 to	 carry	 out	 special	 teacher	 training specialising	in	e.g.	deafness	or	hearing	impairment,	visual	impairment	or	learning	disabilities.
+
+In	2016	the	Government	decided	on	a	new	government	grant	to	enable	schools	to	employ	more special	 educational	 needs	 teachers	 and	 to	 offer	 further	 training.	 Since	 2018,	 knowledge	 of neuropsychiatric	disabilities	is	included	in	all	special	education	programs.	According	to	the	new degree	objectives,	students	should	have	knowledge	of	neuropsychiatric	difficulties	and	be	able	to apply	the	knowledge	in	different	learning	environments.	Students	should	also	be	able	to	examine different	 scientific	 perspectives	 on	 neuropsychiatric	 difficulties.	 Special	 education	 programs curricula	cover	other	types	of	disabilities	as	well.
+
+In	2017,	the	Swedish	Parliament	decided	on	a	new	national	goal	for	disability	policy.	The	new	goal states	 that:	 'The	 national	 goal	 for	 disability	 policy,	 taking	 the	 UN	 Convention	 on	 the	 Rights	 of Persons	 with	 Disabilities	 as	 a	 starting	 point,	 is	 to	 achieve	 equal	 living	 conditions	 and	 full participation	in	society	for	persons	with	disabilities	in	a	society	based	on	diversity.	This	goal	shall contribute	towards	greater	gender	equality	and	consideration	of	the	children's	rights	perspective.' In	 order	 to	 achieve	 the	 national	 goal,	 the	 implementation	 of	 disability	 policy	 shall	 be	 targeted towards	 four	 areas:	 the	 principle	 of	 universal	 design;	 shortcomings	 in	 terms	 of	 accessibility; individual support	 and	 solutions for individual	 support;	 and	 preventing	 and	 countering discrimination.	 This	 decision	 also	 involves	 several	 measures	 aiming	 to	 contribute	 towards	 the national	goal	for	disability	policy,	including	human	rights	education.
+
+> 6 Administrative barriers to education include, amongst others, lack of identity papers or birth certificates required to enrol.
+
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
 In 2016, the Government initiated a three-year project aimed at increasing the competence for the UN Convention on the Rights of the Child, which includes the Swedish National Agency for Education. See also answers below on equal opportunities and support in education.
----
+
 The National Agency for Special Needs Education and Schools, SPSM, ensures that children, young people and adults - regardless of functional ability - have adequate conditions to fulfil their educational goals. This is done through special needs support, education in special needs schools, accessible teaching materials and government funding.
 
 - Please elaborate further on the measures taken, including those to ensure gender equality and the empowerment of girls and women in and through education:
 
 In both compulsory school and upper secondary school, the differences in the knowledge results between girls and boys and women and men, respectively, are noticeable, and where girls and women, have higher grades and complete their studies to a greater extent than boys and men. There are also clear differences in the results between students with a foreign background and students with a Swedish background and between students with different socio-economic backgrounds. It is a development that emphasizes the importance of the school's compensatory mission.In order to provide additional opportunities for support for pupils in compulsory school and upper secondary school who, for example, risk not gaining eligibility for upper secondary school national programs or leaving upper secondary school without a high school diploma, the Government considers in the 2021 budget bill that state subsidies for homework help and teaching during school holidays should be increased. In the Budget Bill for 2021, the Government thus proposes that the grant be increased by SEK 170,000,000 in 2021 and by SEK 100,000,000 in 2022 and 2023.
----
+
 Several of the school's course and subject syllabuses describe how gender equality should be included in the teaching, both directly and indirectly. It can, for example, be about sexuality and reproduction or questions about identity, gender equality, relationships, love and responsibility in biology. In August 2018, the Government decided on an ordinance on a revised curriculum for preschools. The new curriculum (Lpfö18) has been prepared by the National Agency for Education and entered into force on 1 July 2019. The Government's memorandum states, among other things, that those who work in preschool must promote the equal value of all people, equality between women and men, girls and boys. No child shall be subjected to discrimination in preschool on the grounds of sex, transgender identity or expression, ethnicity, religion or other belief, disability, sexual orientation or age, in the child or anyone related to the child, or to other abusive treatment. All such tendencies must be actively counteracted. The new curriculum for preschool contains, among other things, clearer writings regarding gender equality, integrity and highlights the children's language development.
 In order to provide better conditions for promoting students' reading ability, the Government estimates in 2021 budget bill that the allocation needs to be increased by SEK 25,000,000 per year in 2021-2023.
 If the Parliament (Riksdagen) decides in accordance with the Government's proposal in 2021 budget bill, the Government will co - finance Sweden's Municipalities and Regions (SKR) project Assignment completed education with SEK 8 million per year 2021 and 2022. Within the assignment, SKR offers e.g. process support and competence development initiatives for principals who want to make a conscious and strategic investment in order for the preventive work and more young people to become eligible for upper secondary school and complete their studies.
-The Government has appointed an inquiry chair to propose how to improve the situation of
+The Government has appointed an inquiry chair to propose how to improve the situation of pupils who risk not being eligible for national programmes at upper secondary school (terms
 
 [[END OF PAGE 10]]
 
@@ -361,7 +363,7 @@ Please provide reference to the relevant laws and provisions:
 
 .	Chapter	2,	Section	1	states	that	anyone	under	the	age	of	18	may	not	enter	into	a	marriage (2014:	376).
 
-### Progress made with respect to implementing the right to education in the context of SDG 4
+### 2. Progress made with respect to implementing the right to education in the context of SDG 4
 
 #### 2.1 Pre-primary education
 
@@ -369,7 +371,7 @@ Please provide reference to the relevant laws and provisions:
 
 [[START OF PAGE 12]]
 
-Pre-primary  education  is  not  explicitly  provided  for  in  the  Convention/Recommendation. However, the international community has increasingly recognized the importance of early childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 7 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory preprimary education'.
+Pre-primary  education  is  not  explicitly  provided  for  in  the  Convention/Recommendation. However, the international community has increasingly recognized the importance of early childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 7 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 - Is compulsory and free of charge pre-primary education available in your country?
 
@@ -589,11 +591,13 @@ Education	for	adults	with	intellectual	impairment	is	another	part	of	the	public	
 
 ##### New	 regulation	 regarding	 municipal	 education	 and	 education	 for	 adults	 with	 intellectual impairment
 
-In	 2020	 the	 Government	 presented	 a	 bill	 (Prop.	 2019/20:105)	 to	 the	 Swedish	 Parliament (Riksdagen)	regarding	municipal	adult	education.	The	bill	contains	proposals	for	amendments to	the	Education	Act	(2010:800).	The	proposals	aim,	among	other	things,	at	municipal	adult education	(municipal	adult)	to	a	greater	extent	contributing	to	working	life's	need	for	skills	and better	meeting	adults'	need	for	education	at	different	stages	of	life.	This	means	i.a.	that	the overall	goals	of	the	education	are	supplemented	so	that	it	is	clear	that	the	education	must	also form	a	basis	for	the	national	and	regional	supply	of	skills	to	working	life	and	provide	a	good basis	 for	 the	 students'	 further	 education.	 Furthermore,	 it	 is	 proposed	 that	 the	 priority	 rule within	municipal	adult	education	be	changed	so	that	those	with	the	greatest	need	for	education are	given	priority.	This	means	that	not	only	those	with	the	least	education	but	also,	among others,	the	unemployed	and	adults	in	need	of	a	change	of	profession	must	be	given	priority	in selection	for	the	education.	The	same	Government	bill	also	consists	of	proposals	that	states	that education	for	adults	with	intellectual	impairment	shall	no	longer	be	a	separate	school	form within	the	school	system	but	shall	be	included	in	the	school	form	municipal	adult.	Some	parts of	the	new	regulation	have	already	entered	into	force	1	July	2020.
+In	 2020	 the	 Government	 presented	 a	 bill	 (Prop.	 2019/20:105)	 to	 the	 Swedish	 Parliament (Riksdagen)	regarding	municipal	adult	education.	The	bill	contains	proposals	for	amendments to	the	Education	Act	(2010:800).	The	proposals	aim,	among	other	things,	at	municipal	adult education	(municipal	adult)	to	a	greater	extent	contributing	to	working	life's	need	for	skills	and better	meeting	adults'	need	for	education	at	different	stages	of	life.	This	means	i.a.	that	the overall	goals	of	the	education	are	supplemented	so	that	it	is	clear	that	the	education	must	also form	a	basis	for	the	national	and	regional	supply	of	skills	to	working	life	and	provide	a	good basis	 for	 the	 students'	 further	 education.	 Furthermore,	 it	 is	 proposed	 that	 the	 priority	 rule within	municipal	adult	education	be	changed	so	that	those	with	the	greatest	need	for	education are	given	priority.	This	means	that	not	only	those	with	the	least	education	but	also,	among others,	the	unemployed	and	adults	in	need	of	a	change	of	profession	must	be	given	priority	in selection	for	the	education.	The	same	Government	bill	also	consists	of	proposals	that	states	that education	for	adults	with	intellectual	impairment	shall	no	longer	be	a	separate	school	form
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
+
+within the school system but shall be included in the school form municipal adult. Some parts of the new regulation have already entered into force 1 July 2020.
 
 ##### Swedish	tuition	for	immigrants
 
@@ -647,11 +651,13 @@ Other	measures	taken	to	increase	equivalence	in	education,	pupils'	performance	a
 
 ##### Study	peace	and	school's	work	with	safety
 
-On	 26	 February	 2020,	 the	 Government	 Offices	 decided	 that	 an	 investigator	 will	 assist	 the Ministry	of	Education	and	Research	in	preparing	a	proposal	for	a	national	plan	for	the	school's work	with	safety	and	study	peace	and	submit	proposals	that	ensure	a	functioning	regulatory framework	for	safety	and	study	peace	at	schools	(U2020/00707/S).	The	investigator	shall	i.a. map	and	analyze	the	different	parts	of	the	school's	work	with	questions	regarding	safety	and study	peace.	In	the	survey	and	analysis,	the	investigator	must	pay	special	attention	to	what affects	how	disciplinary	measures	are	used	as	well	as	questions	about	students'	exposure	to sexual	harassment	and	violence	and	threats,	e.g.	honor-related	violence	and	oppression.	The deadline	for	the	commission	is	the	16 th of	December	2020.
+On	 26	 February	 2020,	 the	 Government	 Offices	 decided	 that	 an	 investigator	 will	 assist	 the Ministry	of	Education	and	Research	in	preparing	a	proposal	for	a	national	plan	for	the	school's work	with	safety	and	study	peace	and	submit	proposals	that	ensure	a	functioning	regulatory framework	for	safety	and	study	peace	at	schools	(U2020/00707/S).	The	investigator	shall	i.a. map	and	analyze	the	different	parts	of	the	school's	work	with	questions	regarding	safety	and study	peace.	In	the	survey	and	analysis,	the	investigator	must	pay	special	attention	to	what affects	how	disciplinary	measures	are	used	as	well	as	questions	about	students'	exposure	to
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
+
+sexual harassment and violence and threats, e.g. honor-related violence and oppression. The deadline for the commission is the 16th of December 2020.
 
 #### 2.6 Education personnel
 
@@ -765,11 +771,11 @@ If	 an	 independent	 school	 does	 not	 follow	 the	 Schools	 Inspectorate's	 de
 
 Under	the	Education	Act	(2010:800),	teaching	in	the	school	system	should	be	non-confessional. However,	 the	 Education	 Act	 stipulates	 a	 possibility	 for	 independent	 schools	 to,	 outside	 of teaching,	 include	 confessional	 elements	 within	 the	 education	 provided.	 However,	 these elements	are	to	be	strictly	voluntary.
 
--Do legal provisions prohibiting discrimination on the grounds listed by the Convention/Recommendation 12 explicitly apply to private educational institutions?
-
-- Please briefly describe what laws, regulations or policies guarantee that the development of private education does not generate discrimination and that private schools offer a relevant alternative in your country:
+- Do legal provisions prohibiting discrimination on the grounds listed by the Convention/Recommendation 12 explicitly apply to private educational institutions?
 
 Yes n No o
+
+- Please briefly describe what laws, regulations or policies guarantee that the development of private education does not generate discrimination and that private schools offer a relevant alternative in your country:
 
 See	the	above	box.
 
@@ -902,7 +908,7 @@ The	Government	has	appointed	an	inquiry	chair	to	propose	how	to	improve	the	situ
 
 The	Government	has	assigned	the	Swedish	National	Agency	for	Education	with	offering schools	and	education	providers	in	compulsory	and	upper	secondary	education	extensive continuing	professional	development	in	different	areas,	called	'national	school	development programmes'.	One	of	these	designated	areas	is	newly	arrived	and	multilingual	children	and pupils'	learning.
 
-## Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
+## III. Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
 
 ### 1. Challenges and obstacles
 
@@ -918,7 +924,7 @@ Access	to	competent	teachers	is	absolutely	crucial	to	Swedish	schools.	There	is	
 
 - n Challenges relating to the system and governance (such as budgetary constraints, lack or weakness of monitoring systems - including the lack of reliable data, absence of supportive/ inconsistent/obsolete  legal  and  policy  environment,  lack  of  involvement  of  relevant stakeholders and lack of cooperation/coordination at different levels, etc.)
 
-Due	to	regulatory	matters	it	is	difficult	to	have	statsistics	regarding	children,	pupils	and	adults with	disabilities.
+Due to regulatory matters it is difficult to have statistics regarding children, pupils and adults with disabilities.
 
 n Other:
 
@@ -926,11 +932,13 @@ The	overall	assessment	is	that	the	Education	Act	and	the	Discrimination	Act	toge
 
 #### 1.2 Please provide a brief assessment of the effectiveness of the methods introduced to remove the obstacles encountered:
 
-Sweden	has	a	decentralised	education	system	that	gives	local	municipalities	large	scope	for autonomy.	 The	 Swedish	 National	 Agency	 for	 Education	 is	 responsible	 for	 evaluation	 and assessment	of	measures	implemented	and	co-operates	with	the	Swedish	Schools	Inspectorate, the	National	Agency	for	Special	Needs	Education	and	Schools	Swedish	Institute	for	Educational Research.
+Sweden has a decentralised education system that gives local municipalities large scope for autonomy. The Swedish National Agency for Education is responsible for evaluation and assessment of measures implemented and co-operates with the Swedish Schools Inspectorate,
 
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
+
+the National Agency for Special Needs Education and Schools Swedish Institute for Educational Research.
 
 ### 2. Awareness-raising
 
