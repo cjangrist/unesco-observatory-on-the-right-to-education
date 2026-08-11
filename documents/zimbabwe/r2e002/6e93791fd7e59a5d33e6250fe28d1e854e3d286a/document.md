@@ -2,11 +2,13 @@
 
 2019
 
-EDUCATION AMeNDMeNT
+EDUCATION AMENDMENT
 
-NO. 15
+No. 15
 
 DISTRIBUTED BY VERITAS E-mail: veritas@mango.zw    Website: www.veritaszim.net VERITAS MAKES EVERY EFFORT TO ENSURE THE PROVISION OF RELIABLE INFORMATION, BUT CANNOT TAKE LEGAL RESPONSIBILITY FOR INFORMATION SUPPLIED.
+
+This Act was gazetted and came into force on 6th March 2020 - Veritas.
 
 ZIMBABWE
 
@@ -14,39 +16,39 @@ ACT
 
 To amend the Education Act [ Chapter 25:04 ]; and to provide for matters connected with or incidental the foregoing.
 
-'WHEREAS section 75 of the Constitution provides as follows:
+“WHEREAS section 75 of the Constitution provides as follows:
 
 # 75 Right to education
 
 (1) Every citizen and permanent resident of Zimbabwe has a right
 
-to-
+to—
 
 (a) a  basic  State-funded  education,  including  adult  basic education; and
 
 (b) further  education,  which  the  State,  through  reasonable legislative and other measures, must make progressively available and accessible.
 
-- Every  person  has  the  right  to  establish  and  maintain,  at their own expense, independent educational institutions of reasonable standards, provided they do not discriminate on any ground prohibited by this Constitution.
+(2) Every  person  has  the  right  to  establish  and  maintain,  at their own expense, independent educational institutions of reasonable standards, provided they do not discriminate on any ground prohibited by this Constitution.
 
-- A  law  may  provide  for  the  registration  of  educational  institutions referred to in subsection (2) and for the closing of any such institutions that do not meet reasonable standards prescribed for registration.
+(3) A  law  may  provide  for  the  registration  of  educational  institutions referred to in subsection (2) and for the closing of any such institutions that do not meet reasonable standards prescribed for registration.
 
-- The  State  must  take  reasonable  legislative  and  other  measures, within the limits of the resources available to it, to achieve the progressive realisation of the right set out in subsection (1).
+(4) The  State  must  take  reasonable  legislative  and  other  measures, within the limits of the resources available to it, to achieve the progressive realisation of the right set out in subsection (1).
 
 Printed by the Government Printer, Harare
 
-621 621
+621
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-NO. 15
+No. 15
 
-EDUCATION AMeNDMeNT
+EDUCATION AMENDMENT
 
 2019
 
-NOW, THEREFORE, be it enacted by the Parliament and President of Zimbabwe as follows-'.
+NOW, THEREFORE, be it enacted by the Parliament and President of Zimbabwe as follows—”.
 
 # PART I
 
@@ -90,7 +92,7 @@ for  which pupils shall not be required to pay fees or levies and the State shal
 
 ''Early Childhood Development' means the physical, mental and social development of children between the ages of four and five years.'.
 
-622 622
+622
 
 [[END OF PAGE 2]]
 
@@ -98,9 +100,9 @@ for  which pupils shall not be required to pay fees or levies and the State shal
 
 2019
 
-EDUCATION AMeNDMeNT
+EDUCATION AMENDMENT
 
-NO. 15
+No. 15
 
 ### 3 Amendment of section 4 of Cap 25:04
 
@@ -142,19 +144,19 @@ Section 10 ('Children's entitlement to enrolment at schools') of the principal A
 
 (3) Where the primary or secondary school at which a child of school going age has sought enrolment in terms of subsection (2) is unable to enrol the child because the school is fully enrolled, the head of that school shall forthwith issue to the child a certificate in writing certifying that fact:
 
-623 623
+623
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-NO. 15
+No. 15
 
-EDUCATION AMeNDMeNT
+EDUCATION AMENDMENT
 
 2019
 
-Provided that-
+Provided that—
 
 (i) the head of the school shall not issue such certificate where it is apparent that the enrolment of such child at the next nearest school is impossible due to the inaccessibility of such nearest school;
 
@@ -176,7 +178,7 @@ Section 13 ('Prescribing of fees at Government schools')(4) of the principal Act
 
 Section 15 ('Registration of non-Government schools') of the principal Act is amended by the insertion after section (6) of the following section-
 
-'(7) Every school other than a government or local authority school or nonprofit making faith-based school shall pay a registration and an annual fee as may be prescribed from time to time by the Minister.
+'(7) Every school other than a government or local authority school or non-profit making faith-based school shall pay a registration and an annual fee as may be prescribed from time to time by the Minister.
 
 (8) Any person or responsible authority who operates a school other than a government or local authority school or non-profit making faith  based  school  without  paying  the  registration  and  annual  fees  as prescribed in subsection (7) shall be guilty of an offence and liable to a fine not exceeding level 6 or to imprisonment for a period not exceeding two years.'.
 
@@ -194,7 +196,7 @@ Section 25 ('Adult education') of the principal Act is amended by the insertion 
 
 '(c) every school shall endeavour to offer non formal education including adult education.
 
-624 624
+624
 
 [[END OF PAGE 4]]
 
@@ -202,9 +204,9 @@ Section 25 ('Adult education') of the principal Act is amended by the insertion 
 
 2019
 
-EDUCATION AMeNDMeNT
+EDUCATION AMENDMENT
 
-NO. 15
+No. 15
 
 ### 12 Amendment of section 33 of Cap 25:04
 
@@ -218,7 +220,7 @@ Section 62('Languages to be taught in schools') of the principal Act is repealed
 
 #### ' 62 Languages to be taught in schools
 
-- Every school shall endeavour to-
+(1) Every school shall endeavour to—
 
 (a) teach every officially recognised language;
 
@@ -260,15 +262,15 @@ The Principal Act is amended by the insertion of the following sections after se
 
 (ii) amounts to physical or psychological torture, or to cruel, inhuman or degrading treatment or punishment;
 
-625 625
+625
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
-NO. 15
+No. 15
 
-EDUCATION AMeNDMeNT
+EDUCATION AMENDMENT
 
 2019
 
