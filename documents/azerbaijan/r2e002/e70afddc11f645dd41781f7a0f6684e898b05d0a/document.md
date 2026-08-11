@@ -1644,508 +1644,508 @@ vv lki redaksiyada deyilirdi:
 “şəhadətnamənin” sözü ilə əvəz edilmişdir.
 
 [51]
-27 iyun 2019-cu il tarixli 1620-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 25 iyul 2019-cu il, 160, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, 7, maddə 1190) ilə 16.5-ci maddədə “xüsusi razılıq (lisenziya)” sözləri “lisenziya” sözü ilə əvəz edilmişdir.
+27 iyun 2019-cu il tarixli 1620-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 25 iyul 2019-cu il, № 160, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 7, maddə 1190) ilə 16.5-ci maddədə “xüsusi razılıq (lisenziya)” sözləri “lisenziya” sözü ilə əvəz edilmişdir.
 
 [52]
-29 mart 2019-cu il tarixli 1553-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 may 2019-cu il, 115, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, 5, maddə 798) ilə 17.1.3-cü maddə yeni redaksiyada verilmişdir.
+29 mart 2019-cu il tarixli 1553-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 may 2019-cu il, № 115, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 5, maddə 798) ilə 17.1.3-cü maddə yeni redaksiyada verilmişdir.
 Əvvəlki redaksiyada deyilirdi:
 17.1.3. İlk peşə-ixtisas təhsili.
 
 [53]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə 17.1.5.1-ci maddəyə “bakalavriat” sözündən sonra “(əsas (baza ali) tibb təhsili)” sözləri əlavə edilmişdir.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə 17.1.5.1-ci maddəyə “bakalavriat” sözündən sonra “(əsas (baza ali) tibb təhsili)” sözləri əlavə edilmişdir.
 
 [54]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə 17.1.5.2-ci maddəyə “magistratura” sözündən sonra “(rezidentura)” sözü əlavə edilmişdir.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə 17.1.5.2-ci maddəyə “magistratura” sözündən sonra “(rezidentura)” sözü əlavə edilmişdir.
 
 [55]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə 17.1.5.3-cü maddəyə “doktorantura” sözündən sonra “(adyunktura)” sözü əlavə edilmişdir.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə 17.1.5.3-cü maddəyə “doktorantura” sözündən sonra “(adyunktura)” sözü əlavə edilmişdir.
 
 [56]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə 17.2-ci maddənin ikinci cümləsində “pilləsi (məktəbəqədər təhsil istisna olmaqla)” sözləri “pilləsi və səviyyəsi (məktəbəqədər təhsil pilləsi və ümumi təhsil pilləsinin ibtidai təhsil səviyyəsi istisna olmaqla” sözləri ilə əvəz edilmişdir.
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 17.2-ci maddənin ikinci cümləsindən “qiymətləndirmənin və ya” sözləri çıxarılmışdır.
-18 dekabr 2020-ci il tarixli 218-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 7 fevral 2021-ci il, 28) ilə 17.2-ci maddənin ikinci cümləsində “dövlət nümunəli sənədin” sözləri “təhsil haqqında dövlət sənədinin” sözləri ilə əvəz edilmişdir.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə 17.2-ci maddənin ikinci cümləsində “pilləsi (məktəbəqədər təhsil istisna olmaqla)” sözləri “pilləsi və səviyyəsi (məktəbəqədər təhsil pilləsi və ümumi təhsil pilləsinin ibtidai təhsil səviyyəsi istisna olmaqla” sözləri ilə əvəz edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 17.2-ci maddənin ikinci cümləsindən “qiymətləndirmənin və ya” sözləri çıxarılmışdır.
+18 dekabr 2020-ci il tarixli 218-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 7 fevral 2021-ci il, № 28) ilə 17.2-ci maddənin ikinci cümləsində “dövlət nümunəli sənədin” sözləri “təhsil haqqında dövlət sənədinin” sözləri ilə əvəz edilmişdir.
 
 [57]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə yeni məzmunda 17.4-cü maddə əlavə edilmişdir.
-19 may 2020-ci il tarixli 104-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 9 iyul 2020-ci il, 131, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 7, maddə 824) ilə 17.4-cü maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə yeni məzmunda 17.4-cü maddə əlavə edilmişdir.
+19 may 2020-ci il tarixli 104-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 9 iyul 2020-ci il, № 131, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 7, maddə 824) ilə 17.4-cü maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
 
 [58]
-18 may 2018-ci il tarixli 1145-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 10 iyul 2018-ci il, 150, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1381) ilə 18.3-cü maddədə “üç yaşdan başlayır” sözləri “1-6 yaşlı uşaqları əhatə edir” sözləri ilə əvəz edilmişdir.
+18 may 2018-ci il tarixli 1145-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 10 iyul 2018-ci il, № 150, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1381) ilə 18.3-cü maddədə “üç yaşdan başlayır” sözləri “1-6 yaşlı uşaqları əhatə edir” sözləri ilə əvəz edilmişdir.
 
 [59]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə 18.6-cı maddədə “qaydada metodiki və diaqnostik məsləhət və əlaqələndirmə xidməti təşkil edilir” sözləri “maarifləndirmə tədbirləri həyata keçirilir” sözləri ilə əvəz edilmişdir.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə 18.6-cı maddədə “qaydada metodiki və diaqnostik məsləhət və əlaqələndirmə xidməti təşkil edilir” sözləri “maarifləndirmə tədbirləri həyata keçirilir” sözləri ilə əvəz edilmişdir.
 
 [60]
-18 may 2018-ci il tarixli 1145-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 10 iyul 2018-ci il, 150, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1381) ilə yeni məzmunda 18.7-ci maddə əlavə edilmişdir.
+18 may 2018-ci il tarixli 1145-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 10 iyul 2018-ci il, № 150, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1381) ilə yeni məzmunda 18.7-ci maddə əlavə edilmişdir.
 
 [61]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 19.4-cü maddə yeni redaksiyada verilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 19.4-cü maddə yeni redaksiyada verilmişdir.
 əvvəlki redaksiyada deyilirdi:
 19.4. Azərbaycan Respublikasında ümumi təhsil ibtidai təhsil, ümumi orta təhsil və tam orta təhsildən ibarətdir.
 
 [62]
-29 mart 2019-cu il tarixli 1553-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 may 2019-cu il, 115, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, 5, maddə 798) ilə 19.6-cı, 29.0.25-ci və 35.2-ci maddələrdə “ilk peşə-ixtisas” sözləri “peşə” sözü ilə əvəz edilmişdir.
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 19.6-cı maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
+29 mart 2019-cu il tarixli 1553-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 may 2019-cu il, № 115, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 5, maddə 798) ilə 19.6-cı, 29.0.25-ci və 35.2-ci maddələrdə “ilk peşə-ixtisas” sözləri “peşə” sözü ilə əvəz edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 19.6-cı maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
 
 [63]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 19.7-ci maddədə “fiziki inkişafını təmin etmək və müxtəlif” sözləri “idman və” sözləri ilə əvəz edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 19.7-ci maddədə “fiziki inkişafını təmin etmək və müxtəlif” sözləri “idman və” sözləri ilə əvəz edilmişdir.
 
 [64]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 19.8-ci maddədə “medalla” sözü “nişanla” sözü ilə əvəz edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 19.8-ci maddədə “medalla” sözü “nişanla” sözü ilə əvəz edilmişdir.
 
 [65]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248,
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248,
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
-Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 19.9-cu maddə yeni redaksiyada verilmişdir.
+Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 19.9-cu maddə yeni redaksiyada verilmişdir.
 əvvəlki redaksiyada deyilirdi:
 19.9. İbtidai təhsilin məqsədi təhsilalanlara oxumaq, yazmaq və hesablama bacarıqları aşılamaq, onlarda insan, cəmiyyət və təbiət haqqında ilkin həyati biliklər, məntiqi təfəkkür elementləri, estetik, bədii zövq və digər xüsusiyyətlər formalaşdırmaqdan ibarətdir.
 
 [66]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə 19.11-ci maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə 19.11-ci maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
 
 [67]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə 19.12-ci maddə ləğv edilmişdir.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə 19.12-ci maddə ləğv edilmişdir.
 
 [68]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 19.13-cü maddə yeni redaksiyada verilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 19.13-cü maddə yeni redaksiyada verilmişdir.
 əvvəlki redaksiyada deyilirdi:
-19.13. Ümumi orta təhsilin məqsədi təhsilalanların şifahi nitq və yazı mədəniyyətinin, ünsiyyət bacarığının, idrak fəallığının və məntiqi təfəkkürünün inkişafını, təhsil proqramına daxil olan fənlər üzrə və eləcə də dünya sivilizasiyasının inkişafı haqqında müvafiq bilik və təsəvvürlərinin formalaşdılmasını, müasir informasiya-kommunikasiya vasitələrindən istifadə etmək qabiliyyətini, hadisələri qiymətləndirmək və öz gələcək fəaliyyət istiqamətlərini müəyyənləşdirmək bacarığını təmin etməkdən ibarətdir.
+19.13. Ümumi orta təhsilin məqsədi təhsilalanların şifahi nitq və yazı mədəniyyətinin, ünsiyyət bacarığının, idrak fəallığının və məntiqi təfəkkürünün inkişafını, təhsil proqramına daxil olan fənlər üzrə və eləcə də dünya sivilizasiyasının inkişafı haqqında müvafiq bilik və təsəvvürlərinin formalaşdırılmasını, müasir informasiya-kommunikasiya vasitələrindən istifadə etmək qabiliyyətini, hadisələri qiymətləndirmək və öz gələcək fəaliyyət istiqamətlərini müəyyənləşdirmək bacarığını təmin etməkdən ibarətdir.
 
 [69]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə 19.14-cü maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 19.14-cü maddənin üçüncü cümləsinə “qəbulu,” sözündən sonra “şagirdlərin” sözü əlavə edilmişdir.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə 19.14-cü maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 19.14-cü maddənin üçüncü cümləsinə “qəbulu,” sözündən sonra “şagirdlərin” sözü əlavə edilmişdir.
 
 [70]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə 19.16-cı maddənin birinci cümləsinə “sənədi” sözündən sonra “- attestat” sözü əlavə edilmişdir.
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 19.16-cı maddə ləğv edilmişdir.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə 19.16-cı maddənin birinci cümləsinə “sənədi” sözündən sonra “- attestat” sözü əlavə edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 19.16-cı maddə ləğv edilmişdir.
 
 [71]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 19.17-ci maddə yeni redaksiyada verilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 19.17-ci maddə yeni redaksiyada verilmişdir.
 əvvəlki redaksiyada deyilirdi:
 19.17. Tam orta təhsil səviyyəsində təhsilalanların istedad və qabiliyyətinin reallaşdırılması, müstəqil həyata və peşə seçiminə hazırlanması, fəal vətəndaş mövqeyinin, milli və ümumbəşəri dəyərlərə, insan hüquqlarına və azadlıqlarına hörmət hissinin və tolerantlığın formalaşdırılması, müasir informasiya-kommunikasiya texnologiyalarından və digər texniki vasitələrdən sərbəst istifadə etməsi, iqtisadi biliklərin əsaslarına yiyələnməsi, xarici dillərdən birində, yaxud bir neçəsində ünsiyyət saxlaması və s. təmin olunur.
 
 [72]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə 19.18-ci maddənin ikinci cümləsinə “müəssisələrində” sözündən sonra “ümumi təhsil pilləsinin dövlət standartlarını əhatə edən” sözləri əlavə edilmişdir və yeni məzmunda üçüncü cümlə əlavə edilmişdir.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə 19.18-ci maddənin ikinci cümləsinə “müəssisələrində” sözündən sonra “ümumi təhsil pilləsinin dövlət standartlarını əhatə edən” sözləri əlavə edilmişdir və yeni məzmunda üçüncü cümlə əlavə edilmişdir.
 
 [73]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 19.19-cu, 19.20-ci və 19.21-ci maddələr yeni redaksiyada verilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 19.19-cu, 19.20-ci və 19.21-ci maddələr yeni redaksiyada verilmişdir.
 əvvəlki redaksiyada deyilirdi:
 19.19. Tam orta təhsil səviyyəsində təhsilin təmayülləşməsi (humanitar, texniki, təbiət və digər) təmin olunur.
 19.20. Tam orta təhsil umumi təhsilin sonuncu səviyyəsini təşkil edir və bu səviyyədə təhsilalanların biliyinin qiymətləndirilməsinin yekun dövlət attestasiyası həyata keçirilir. Attestasiyanın nəticələrinə görə məzunlara müvafiq qaydada dövlət nümunəli sənəd - attestat verilir.
 19.21. Tam orta təhsil haqqında sənəd təhsilin növbəti pillədə davam etdirilməsi üçün əsas sayılır.
 
 [74]
-18 dekabr 2020-ci il tarixli 218-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 7 fevral 2021-ci il, 28) ilə 19.20-ci maddədə “dövlət təhsil” sözləri “təhsil haqqında dövlət” sözləri ilə əvəz edilmişdir.
+18 dekabr 2020-ci il tarixli 218-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 7 fevral 2021-ci il, № 28) ilə 19.20-ci maddədə “dövlət təhsil” sözləri “təhsil haqqında dövlət” sözləri ilə əvəz edilmişdir.
 
 [75]
-29 mart 2019-cu il tarixli 1553-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 may 2019-cu il, 115, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, 5, maddə 798) ilə 20-ci maddənin adında və 20.3-cü maddədə “İlk peşə-ixtisas” sözləri “Peşə” sözü ilə əvəz edilmişdir.
+29 mart 2019-cu il tarixli 1553-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 may 2019-cu il, № 115, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 5, maddə 798) ilə 20-ci maddənin adında və 20.3-cü maddədə “İlk peşə-ixtisas” sözləri “Peşə” sözü ilə əvəz edilmişdir.
 
 [76]
-29 mart 2019-cu il tarixli 1553-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 may 2019-cu il, 115, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, 5, maddə 798) ilə 20.1-ci maddədə “İlk peşə-ixtisas” sözləri “Peşə” sözü ilə əvəz edilmişdir və həmin maddədən “sənətlər və kütləvi” sözləri çıxarılmışdır.
+29 mart 2019-cu il tarixli 1553-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 may 2019-cu il, № 115, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 5, maddə 798) ilə 20.1-ci maddədə “İlk peşə-ixtisas” sözləri “Peşə” sözü ilə əvəz edilmişdir və həmin maddədən “sənətlər və kütləvi” sözləri çıxarılmışdır.
 
 [77]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə 20.2-ci maddədə “xüsusi razılıq (lisenziya)” sözləri “lisenziyası” sözü ilə, “peşə dərəcələrinin” sözləri “peşə-ixtisas dərəcələrinin” sözləri ilə əvəz edilmişdir.
-29 mart 2019-cu il tarixli 1553-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 may 2019-cu il, 115, Azərbaycan
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə 20.2-ci maddədə “xüsusi razılıq (lisenziya)” sözləri “lisenziyası” sözü ilə, “peşə dərəcələrinin” sözləri “peşə-ixtisas dərəcələrinin” sözləri ilə əvəz edilmişdir.
+29 mart 2019-cu il tarixli 1553-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 may 2019-cu il, № 115, Azərbaycan
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
-Respublikasının Qanunvericilik Toplusu, 2019-cu il, 5, maddə 798) ilə 20.2-ci maddədə “İlk peşə-ixtisas” sözləri “Peşə” sözü ilə, “asılı olmayaraq” sözlərindən sonrakı “peşə-ixtisas” sözləri “peşə” sözü ilə əvəz edilmişdir və həmin maddədən “və məzunlara müvafiq istiqamətlər üzrə ilk peşə-ixtisas dərəcələrinin verilməsi ilə başa çatır” sözləri çıxarılmışdır.
-12 iyul 2019-cu il tarixli 1661-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 22 avqust 2019-cu il, 182, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, 8, maddə 1382) ilə 20.2-ci maddədə “əmək birjalarının, məşğulluq idarələrinin” sözləri “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun)” sözləri ilə əvəz edilmişdir.
+Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 5, maddə 798) ilə 20.2-ci maddədə “İlk peşə-ixtisas” sözləri “Peşə” sözü ilə, “asılı olmayaraq” sözlərindən sonrakı “peşə-ixtisas” sözləri “peşə” sözü ilə əvəz edilmişdir və həmin maddədən “və məzunlara müvafiq istiqamətlər üzrə ilk peşə-ixtisas dərəcələrinin verilməsi ilə başa çatır” sözləri çıxarılmışdır.
+12 iyul 2019-cu il tarixli 1661-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 22 avqust 2019-cu il, № 182, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 8, maddə 1382) ilə 20.2-ci maddədə “əmək birjalarının, məşğulluq idarələrinin” sözləri “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun)” sözləri ilə əvəz edilmişdir.
 
 [78]
-29 mart 2019-cu il tarixli 1553-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 may 2019-cu il, 115, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, 5, maddə 798) ilə yeni məzmunda 20.2-1-ci və 20.2-2-ci maddələr əlavə edilmişdir.
+29 mart 2019-cu il tarixli 1553-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 may 2019-cu il, № 115, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 5, maddə 798) ilə yeni məzmunda 20.2-1-ci və 20.2-2-ci maddələr əlavə edilmişdir.
 
 [79]
-24 aprel 2020-ci il tarixli 58-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 19 iyun 2020-ci il, 116, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 6, maddə 662) ilə yeni məzmunda 20.2-3-cü maddə əlavə edilmişdir.
+24 aprel 2020-ci il tarixli 58-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 19 iyun 2020-ci il, № 116, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 6, maddə 662) ilə yeni məzmunda 20.2-3-cü maddə əlavə edilmişdir.
 
 [80]
-29 mart 2019-cu il tarixli 1553-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 may 2019-cu il, 115, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, 5, maddə 798) ilə 20.4-cü maddədə “İlk peşə-ixtisas” sözləri “Peşə” sözü ilə əvəz edilmişdir, həmin maddəyə “qəbul olunanlar” sözlərindən sonra “Peşə təhsili haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq,” sözləri əlavə edilmişdir.
+29 mart 2019-cu il tarixli 1553-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 may 2019-cu il, № 115, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 5, maddə 798) ilə 20.4-cü maddədə “İlk peşə-ixtisas” sözləri “Peşə” sözü ilə əvəz edilmişdir, həmin maddəyə “qəbul olunanlar” sözlərindən sonra “Peşə təhsili haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq,” sözləri əlavə edilmişdir.
 
 [81]
-29 mart 2019-cu il tarixli 1553-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 may 2019-cu il, 115, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, 5, maddə 798) ilə yeni məzmunda 20.5-ci maddə əlavə edilmişdir.
+29 mart 2019-cu il tarixli 1553-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 may 2019-cu il, № 115, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 5, maddə 798) ilə yeni məzmunda 20.5-ci maddə əlavə edilmişdir.
 
 [82]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə 21.2-ci maddənin birinci cümləsində “əsasən” sözü çıxarılmışdır və “tabeliyində yaradılan müvafiq strukturlarda” sözləri “müvafiq struktur bölmələrində” sözləri ilə, ikinci cümləsində “müəssisələrinə daxil olanlar” sözləri “almaq üçün qəbul olunanlar” sözləri ilə əvəz edilmişdir.
-24 aprel 2020-ci il tarixli 58-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 19 iyun 2020-ci il, 116, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 6, maddə 662) ilə 21.2-ci maddənin birinci cümləsində “subbakalavr ixtisas dərəcəsinin” sözləri “subbakalavr peşə-ixtisas dərəcəsinin” sözləri ilə əvəz edilmişdir.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə 21.2-ci maddənin birinci cümləsində “əsasən” sözü çıxarılmışdır və “tabeliyində yaradılan müvafiq strukturlarda” sözləri “müvafiq struktur bölmələrində” sözləri ilə, ikinci cümləsində “müəssisələrinə daxil olanlar” sözləri “almaq üçün qəbul olunanlar” sözləri ilə əvəz edilmişdir.
+24 aprel 2020-ci il tarixli 58-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 19 iyun 2020-ci il, № 116, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 6, maddə 662) ilə 21.2-ci maddənin birinci cümləsində “subbakalavr ixtisas dərəcəsinin” sözləri “subbakalavr peşə-ixtisas dərəcəsinin” sözləri ilə əvəz edilmişdir.
 
 [83]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə yeni məzmunda 21.2-1-ci maddə əlavə edilmişdir.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə yeni məzmunda 21.2-1-ci maddə əlavə edilmişdir.
 
 [84]
-18 dekabr 2020-ci il tarixli 218-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 7 fevral 2021-ci il, 28) ilə 21.3-cü maddənin ikinci cümləsində “dövlət nümunəli sənəd” sözləri “təhsil haqqında dövlət sənədi” sözləri ilə əvəz edilmişdir.
+18 dekabr 2020-ci il tarixli 218-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 7 fevral 2021-ci il, № 28) ilə 21.3-cü maddənin ikinci cümləsində “dövlət nümunəli sənəd” sözləri “təhsil haqqında dövlət sənədi” sözləri ilə əvəz edilmişdir.
 
 [85]
-18 dekabr 2020-ci il tarixli 218-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 7 fevral 2021-ci il, 28) ilə 21.4-cü maddədə “sənəd” sözü “dövlət sənədi” sözləri ilə əvəz edilmişdir.
+18 dekabr 2020-ci il tarixli 218-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 7 fevral 2021-ci il, № 28) ilə 21.4-cü maddədə “sənəd” sözü “dövlət sənədi” sözləri ilə əvəz edilmişdir.
 
 [86]
-31 oktyabr 2017-ci il tarixli 834-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 dekabr 2017-ci il, 279, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, 12, I kitab maddə 2202) ilə 22.1-ci maddəyə “mütəxəssislərin” sözündən sonra “, elmi” sözü əlavə edilmişdir.
+31 oktyabr 2017-ci il tarixli 834-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 dekabr 2017-ci il, № 279, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, № 12, I kitab maddə 2202) ilə 22.1-ci maddəyə “mütəxəssislərin” sözündən sonra “, elmi” sözü əlavə edilmişdir.
 
 [87]
-31 oktyabr 2017-ci il tarixli 834-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 dekabr 2017-ci il, 279, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, 12, I kitab maddə 2202) ilə 22.2-ci maddəyə “mütəxəssislər” sözündən sonra “, elmi” sözü əlavə edilmişdir.
+31 oktyabr 2017-ci il tarixli 834-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 dekabr 2017-ci il, № 279, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, № 12, I kitab maddə 2202) ilə 22.2-ci maddəyə “mütəxəssislər” sözündən sonra “, elmi” sözü əlavə edilmişdir.
 
 [88]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə 22.2.1-ci maddədə “tibb təhsili istisna olmaqla” sözləri “əsas (baza ali) tibb təhsili” sözləri ilə əvəz edilmişdir.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə 22.2.1-ci maddədə “tibb təhsili istisna olmaqla” sözləri “əsas (baza ali) tibb təhsili” sözləri ilə əvəz edilmişdir.
 
 [89]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə 22.2.2-ci maddədə “tibb təhsili istisna olmaqla” sözləri “rezidentura” sözü ilə əvəz edilmişdir.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə 22.2.2-ci maddədə “tibb təhsili istisna olmaqla” sözləri “rezidentura” sözü ilə əvəz edilmişdir.
 
 [90]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə 22.2.3-cü maddəyə “doktorantura” sözündən sonra “(adyunktura)” sözü əlavə edilmişdir.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə 22.2.3-cü maddəyə “doktorantura” sözündən sonra “(adyunktura)” sözü əlavə edilmişdir.
 
 [91]
-31 oktyabr 2017-ci il tarixli 834-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 dekabr 2017-ci il, 279, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, 12, I kitab maddə 2202) ilə 22.3-cü maddənin dördüncü cümləsində “elmi-tədqiqat” sözləri “elmi müəssisə və təşkilatlarda” sözləri ilə əvəz edilmişdir.
+31 oktyabr 2017-ci il tarixli 834-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 dekabr 2017-ci il, № 279, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, № 12, I kitab maddə 2202) ilə 22.3-cü maddənin dördüncü cümləsində “elmi-tədqiqat” sözləri “elmi müəssisə və təşkilatlarda” sözləri ilə əvəz edilmişdir.
 
 [92]
-13 iyun 2017-ci il tarixli 741-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 16 iyul 2017-ci il, 151, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, 7, maddə 1300) ilə 22.3-1-ci maddə əlavə edilmişdir.
+13 iyun 2017-ci il tarixli 741-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 16 iyul 2017-ci il, № 151, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, № 7, maddə 1300) ilə 22.3-1-ci maddə əlavə edilmişdir.
 
 [93]
-6 oktyabr 2015-ci il tarixli 1359-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 22 noyabr 2015-ci il, 257, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2015-ci il, 11, maddə 1266) ilə 22.5-ci maddədə “təhsil müəssisələrində” sözlərindən sonra “və müvafiq icra hakimiyyəti orqanının müəyyən etdiyi elmi təşkilatda” sözləri əlavə edilmişdir.
+6 oktyabr 2015-ci il tarixli 1359-IVQD nömrəli Azərbaycan Respublikasının Qanunu (“Respublika” qəzeti, 22 noyabr 2015-ci il, № 257, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2015-ci il, № 11, maddə 1266) ilə 22.5-ci maddədə “təhsil müəssisələrində” sözlərindən sonra “və müvafiq icra hakimiyyəti orqanının müəyyən etdiyi elmi təşkilatda” sözləri əlavə edilmişdir.
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
 [94]
-14 oktyabr 2016-cı il tarixli 338-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 24 noyabr 2016-cı il, 260, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016-cı il, 11, maddə 1766) ilə yeni məzmunda 22.5-1-ci maddə əlavə edilmişdir.
+14 oktyabr 2016-cı il tarixli 338-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 24 noyabr 2016-cı il, № 260, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016-cı il, № 11, maddə 1766) ilə yeni məzmunda 22.5-1-ci maddə əlavə edilmişdir.
 
 [95]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə 22.6-cı maddənin birinci cümləsi yeni redaksiyada verilmişdir.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə 22.6-cı maddənin birinci cümləsi yeni redaksiyada verilmişdir.
 əvvəlki redaksiyada deyilirdi:
 Tibb təhsili təhsil proqramlarına və dövlət təhsil standartlarına uyğun olaraq, əsas təhsilə və rezidenturaya ayrılır, məzunlara müvafiq olaraq həkim və həkim-mütəxəssis ali peşə-ixtisas dərəcələri verilir.
 
 [96]
-29 dekabr 2015-ci il tarixli 94-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 30 yanvar 2016-cı il, 21, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016-cı il, 01, maddə 41) ilə 22.7-ci maddə ləğv edilmişdir.
+29 dekabr 2015-ci il tarixli 94-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 30 yanvar 2016-cı il, № 21, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2016-cı il, № 01, maddə 41) ilə 22.7-ci maddə ləğv edilmişdir.
 
 [97]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə yeni məzmunda 22.8-22.17-ci maddələr əlavə edilmişdir.
-27 iyun 2019-cu il tarixli 1620-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 25 iyul 2019-cu il, 160, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, 7, maddə 1190) ilə 22.8-ci maddədən “və elmi-pedaqoji” sözləri çıxarılmışdır.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə yeni məzmunda 22.8-22.17-ci maddələr əlavə edilmişdir.
+27 iyun 2019-cu il tarixli 1620-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 25 iyul 2019-cu il, № 160, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 7, maddə 1190) ilə 22.8-ci maddədən “və elmi-pedaqoji” sözləri çıxarılmışdır.
 
 [98]
-30 oktyabr 2018-ci il tarixli 1291-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 28 noyabr 2018-ci il, 268, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 11, maddə 2208) ilə 22.12-ci maddədə “müqavilələrə,” sözündən sonra “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) təsis etdiyi təhsil qrantı proqramına,” sözləri əlavə edilmişdir.
+30 oktyabr 2018-ci il tarixli 1291-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 28 noyabr 2018-ci il, № 268, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 11, maddə 2208) ilə 22.12-ci maddədə “müqavilələrə,” sözündən sonra “müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) təsis etdiyi təhsil qrantı proqramına,” sözləri əlavə edilmişdir.
 
 [99]
-8 may 2020-ci il tarixli 91-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 1 iyul 2020-ci il, 124, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 6, maddə 669) ilə 22.14-cü maddənin birinci cümləsinə “elmi-pedaqoji” sözlərindən əvvəl “elmi və” sözləri əlavə edilmişdir.
+8 may 2020-ci il tarixli 91-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 1 iyul 2020-ci il, № 124, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 6, maddə 669) ilə 22.14-cü maddənin birinci cümləsinə “elmi-pedaqoji” sözlərindən əvvəl “elmi və” sözləri əlavə edilmişdir.
 
 [100]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə 23-cü maddə ləğv edilmişdir.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə 23-cü maddə ləğv edilmişdir.
 
 [101]
-31 oktyabr 2017-ci il tarixli 834-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 dekabr 2017-ci il, 279, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, 12, I kitab maddə 2202) ilə 23.1-ci maddədən “və elmi-pedaqoji” sözləri çıxarılmışdır.
+31 oktyabr 2017-ci il tarixli 834-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 dekabr 2017-ci il, № 279, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, № 12, I kitab maddə 2202) ilə 23.1-ci maddədən “və elmi-pedaqoji” sözləri çıxarılmışdır.
 
 [102]
-31 oktyabr 2017-ci il tarixli 834-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 dekabr 2017-ci il, 279, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, 12, I kitab maddə 2202) ilə 23.2-ci maddənin birinci və ikinci cümlələrində “və elmi” sözləri “, elmi müəssisə və” sözləri ilə əvəz edilmişdir.
+31 oktyabr 2017-ci il tarixli 834-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 dekabr 2017-ci il, № 279, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, № 12, I kitab maddə 2202) ilə 23.2-ci maddənin birinci və ikinci cümlələrində “və elmi” sözləri “, elmi müəssisə və” sözləri ilə əvəz edilmişdir.
 
 [103]
-31 oktyabr 2017-ci il tarixli 834-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 dekabr 2017-ci il, 279, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, 12, I kitab maddə 2202) ilə 23.5-ci maddə yeni redaksiyada verilmişdir.
+31 oktyabr 2017-ci il tarixli 834-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 dekabr 2017-ci il, № 279, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, № 12, I kitab maddə 2202) ilə 23.5-ci maddə yeni redaksiyada verilmişdir.
 əvvəlki redaksiyada deyilirdi:
 23.5. Ali təhsil müəssisələrinin və elmi təşkilatların doktoranturalarına əcnəbilərin və vətəndaşlığı olmayan şəxslərin qəbulu Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələr, habelə ali təhsil müəssisəsi ilə əcnəbi və ya vətəndaşlığı olmayan şəxs arasında ödənişli əsaslarla bağlanan müqavilə əsasında həyata keçirilir.
 
 [104]
-31 oktyabr 2017-ci il tarixli 834-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 dekabr 2017-ci il, 279, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, 12, I kitab maddə 2202) ilə 23.6-cı maddədə “formada dövlət nümunəli sənəd” sözləri “formalı dövlət sənədi” sözləri ilə əvəz edilmişdir.
+31 oktyabr 2017-ci il tarixli 834-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 dekabr 2017-ci il, № 279, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, № 12, I kitab maddə 2202) ilə 23.6-cı maddədə “formada dövlət nümunəli sənəd” sözləri “formalı dövlət sənədi” sözləri ilə əvəz edilmişdir.
 
 [105]
-31 oktyabr 2017-ci il tarixli 834-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 dekabr 2017-ci il, 279, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, 12, I kitab maddə 2202) ilə 23.7-ci maddənin birinci cümləsində “elmi və” sözləri “elmi müəssisə və təşkilatlarda və” sözləri ilə, ikinci cümləsində “və elmi tədqiqat müəssisələrinə” sözləri “, elmi müəssisə və təşkilatlara” sözləri ilə əvəz edilmişdir.
+31 oktyabr 2017-ci il tarixli 834-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 dekabr 2017-ci il, № 279, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, № 12, I kitab maddə 2202) ilə 23.7-ci maddənin birinci cümləsində “elmi və” sözləri “elmi müəssisə və təşkilatlarda və” sözləri ilə, ikinci cümləsində “və elmi tədqiqat müəssisələrinə” sözləri “, elmi müəssisə və təşkilatlara” sözləri ilə əvəz edilmişdir.
 
 [106]
-31 oktyabr 2017-ci il tarixli 834-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 dekabr 2017-ci il, 279, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, 12, I kitab maddə 2202) ilə 23.10-cu maddəyə “ali təhsil müəssisəsinin” sözlərindən sonra “və elmi müəssisənin” sözləri əlavə edilmişdir.
+31 oktyabr 2017-ci il tarixli 834-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 dekabr 2017-ci il, № 279, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, № 12, I kitab maddə 2202) ilə 23.10-cu maddəyə “ali təhsil müəssisəsinin” sözlərindən sonra “və elmi müəssisənin” sözləri əlavə edilmişdir.
 
 [107]
-24 aprel 2020-ci il tarixli 58-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 19 iyun 2020-ci il, 116, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 6, maddə 662) ilə 24.1-ci maddədə “peşə-ixtisas təhsilinin hər hansı pilləsini” sözləri “ali, orta ixtisas və peşə təhsili pillələrinin hər hansı birini” sözləri ilə əvəz edilmişdir.
+24 aprel 2020-ci il tarixli 58-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 19 iyun 2020-ci il, № 116, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 6, maddə 662) ilə 24.1-ci maddədə “peşə-ixtisas təhsilinin hər hansı pilləsini” sözləri “ali, orta ixtisas və peşə təhsili pillələrinin hər hansı birini” sözləri ilə əvəz edilmişdir.
 
 [108]
-24 aprel 2020-ci il tarixli 58-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 19 iyun 2020-ci il, 116, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 6, maddə 662) ilə 24.2.4-cü maddədə “ali təhsil və orta ixtisas” sözləri “ali, orta ixtisas və yüksək texniki peşə” sözləri ilə əvəz edilmişdir.
+24 aprel 2020-ci il tarixli 58-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 19 iyun 2020-ci il, № 116, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 6, maddə 662) ilə 24.2.4-cü maddədə “ali təhsil və orta ixtisas” sözləri “ali, orta ixtisas və yüksək texniki peşə” sözləri ilə əvəz edilmişdir.
 
 [109]
-27 iyun 2019-cu il tarixli 1620-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 25 iyul 2019-cu il, 160, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, 7, maddə 1190) ilə 24.4-cü maddədə “xüsusi razılıq” sözləri “lisenziya” sözü ilə əvəz edilmişdir.
-24 aprel 2020-ci il tarixli 58-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 19 iyun 2020-ci il, 116, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 6, maddə 662) ilə 24.4-cü maddədə “peşə-ixtisas təhsili” sözləri “təhsil” sözü ilə əvəz
+27 iyun 2019-cu il tarixli 1620-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 25 iyul 2019-cu il, № 160, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 7, maddə 1190) ilə 24.4-cü maddədə “xüsusi razılıq” sözləri “lisenziya” sözü ilə əvəz edilmişdir.
+24 aprel 2020-ci il tarixli 58-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 19 iyun 2020-ci il, № 116, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 6, maddə 662) ilə 24.4-cü maddədə “peşə-ixtisas təhsili” sözləri “təhsil” sözü ilə əvəz
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
 edilmişdir.
 
 [110]
-31 oktyabr 2017-ci il tarixli 834-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 dekabr 2017-ci il, 279, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, 12, I kitab maddə 2202) ilə 25.2-ci maddəyə “fundamental” sözündən sonra “, nəzəri-metodoloji, pedaqoji-metodiki” sözləri əlavə edilmişdir.
+31 oktyabr 2017-ci il tarixli 834-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 dekabr 2017-ci il, № 279, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, № 12, I kitab maddə 2202) ilə 25.2-ci maddəyə “fundamental” sözündən sonra “, nəzəri-metodoloji, pedaqoji-metodiki” sözləri əlavə edilmişdir.
 
 [111]
-27 iyun 2019-cu il tarixli 1620-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 25 iyul 2019-cu il, 160, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, 7, maddə 1190) ilə 26.1-ci maddədə “26.5-ci maddəsində” sözləri “26.5-ci və 26.5-3-cü maddələrində” sözləri ilə əvəz edilmişdir.
+27 iyun 2019-cu il tarixli 1620-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 25 iyul 2019-cu il, № 160, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 7, maddə 1190) ilə 26.1-ci maddədə “26.5-ci maddəsində” sözləri “26.5-ci və 26.5-3-cü maddələrində” sözləri ilə əvəz edilmişdir.
 
 [112]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə yeni məzmunda 26.1-1-ci maddə əlavə edilmişdir.
-27 iyun 2019-cu il tarixli 1620-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 25 iyul 2019-cu il, 160, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, 7, maddə 1190) ilə 26.1-1-ci maddədə “baza ali” sözləri “əsas (baza ali)” sözləri ilə əvəz edilmişdir.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə yeni məzmunda 26.1-1-ci maddə əlavə edilmişdir.
+27 iyun 2019-cu il tarixli 1620-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 25 iyul 2019-cu il, № 160, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 7, maddə 1190) ilə 26.1-1-ci maddədə “baza ali” sözləri “əsas (baza ali)” sözləri ilə əvəz edilmişdir.
 
 [113]
-13 iyun 2017-ci il tarixli 741-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 16 iyul 2017-ci il, 151, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, 7, maddə 1300) ilə 26.2-ci maddədə “təhsili müəssisələrinə” sözlərindən sonra “, həmçinin hazırlıq qruplarına” sözləri əlavə edilmişdir.
+13 iyun 2017-ci il tarixli 741-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 16 iyul 2017-ci il, № 151, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, № 7, maddə 1300) ilə 26.2-ci maddədə “təhsili müəssisələrinə” sözlərindən sonra “, həmçinin hazırlıq qruplarına” sözləri əlavə edilmişdir.
 
 [114]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə 26.3.2-ci, 27.1-ci və 29.0.24-cü maddələrdə ismin müvafiq hallarında “xüsusi razılıq (lisenziya)” sözləri ismin müvafiq hallarında “lisenziya” sözü ilə əvəz edilmişdir.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə 26.3.2-ci, 27.1-ci və 29.0.24-cü maddələrdə ismin müvafiq hallarında “xüsusi razılıq (lisenziya)” sözləri ismin müvafiq hallarında “lisenziya” sözü ilə əvəz edilmişdir.
 
 [115]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə 26.5-ci maddə yeni redaksiyada verilmişdir.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə 26.5-ci maddə yeni redaksiyada verilmişdir.
 əvvəlki redaksiyada deyilirdi:
 26.5. Dünya fənn olimpiadalarının, yüksək səviyyəli beynəlxalq müsabiqələrin və yarışların qalibləri müvafiq ixtisaslar üzrə ali təhsil müəssisələrinə müsabiqədənkənar qəbul olunurlar. Bu olimpiadaların, beynəlxalq müsabiqələrin və yarışların siyahısı müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.
 
 [116]
-13 iyun 2017-ci il tarixli 741-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 16 iyul 2017-ci il, 151, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, 7, maddə 1300) ilə 26.5-1-ci maddə əlavə edilmişdir.
+13 iyun 2017-ci il tarixli 741-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 16 iyul 2017-ci il, № 151, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, № 7, maddə 1300) ilə 26.5-1-ci maddə əlavə edilmişdir.
 
 [117]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə yeni məzmunda 26.5-2-ci və 26.5-3-cü maddələr əlavə edilmişdir.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə yeni məzmunda 26.5-2-ci və 26.5-3-cü maddələr əlavə edilmişdir.
 
 [118]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə 26.6-cı maddədə “Ali təhsil müəssisələrinin magistraturalarına” sözləri “Magistraturaya (rezidenturaya)” sözləri ilə əvəz edilmişdir.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə 26.6-cı maddədə “Ali təhsil müəssisələrinin magistraturalarına” sözləri “Magistraturaya (rezidenturaya)” sözləri ilə əvəz edilmişdir.
 
 [119]
-24 aprel 2020-ci il tarixli 58-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 19 iyun 2020-ci il, 116, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 6, maddə 662) ilə 27.1-ci maddədə “Azərbaycan Respublikasında təhsil fəaliyyəti üçün lisenziyası olan və dövlət akkreditasiyasından keçmiş təhsil” sözləri “Təhsil” sözü ilə əvəz edilmişdir.
-18 dekabr 2020-ci il tarixli 218-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 7 fevral 2021-ci il, 28) ilə 27.1-ci maddəyə “səviyyəsini” sözündən sonra “(doktorantura istisna olmaqla)” sözləri və “qaydada” sözündən sonra “Təhsil Mərkəzləşdirilmiş İnformasiya Sistemi”ndə elektron sənəd formasında yaradılan” sözləri əlavə edilmişdir.
+24 aprel 2020-ci il tarixli 58-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 19 iyun 2020-ci il, № 116, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 6, maddə 662) ilə 27.1-ci maddədə “Azərbaycan Respublikasında təhsil fəaliyyəti üçün lisenziyası olan və dövlət akkreditasiyasından keçmiş təhsil” sözləri “Təhsil” sözü ilə əvəz edilmişdir.
+18 dekabr 2020-ci il tarixli 218-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 7 fevral 2021-ci il, № 28) ilə 27.1-ci maddəyə “səviyyəsini” sözündən sonra “(doktorantura istisna olmaqla)” sözləri və “qaydada” sözündən sonra “Təhsil Mərkəzləşdirilmiş İnformasiya Sistemi”ndə elektron sənəd formasında yaradılan” sözləri əlavə edilmişdir.
 
 [120]
-18 dekabr 2020-ci il tarixli 218-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 7 fevral 2021-ci il, 28) ilə 27.3-cü maddəyə “qaydada” sözündən sonra “Təhsil Mərkəzləşdirilmiş İnformasiya Sistemi”ndə elektron sənəd formasında yaradılan” sözləri əlavə edilmişdir.
+18 dekabr 2020-ci il tarixli 218-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 7 fevral 2021-ci il, № 28) ilə 27.3-cü maddəyə “qaydada” sözündən sonra “Təhsil Mərkəzləşdirilmiş İnformasiya Sistemi”ndə elektron sənəd formasında yaradılan” sözləri əlavə edilmişdir.
 
 [121]
-6 noyabr 2020-ci il tarixli 192-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 13 dekabr 2020-ci il, 262) ilə 27.4-cü maddədə “Xarici ölkələrdə verilən təhsil haqqında sənədlərin” sözləri “Xarici dövlətlərin ali təhsilə aid kvalifikasiyalarının” sözləri ilə əvəz edilmişdir.
+6 noyabr 2020-ci il tarixli 192-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 13 dekabr 2020-ci il, № 262) ilə 27.4-cü maddədə “Xarici ölkələrdə verilən təhsil haqqında sənədlərin” sözləri “Xarici dövlətlərin ali təhsilə aid kvalifikasiyalarının” sözləri ilə əvəz edilmişdir.
 
 [122]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 29.0.2-ci və 29.0.3-cü maddələrdən “milli” sözü çıxarılmışdır.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 29.0.2-ci və 29.0.3-cü maddələrdən “milli” sözü çıxarılmışdır.
 
 [123]
-31 oktyabr 2017-ci il tarixli 834-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 dekabr 2017-ci il, 279, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, 12, I kitab maddə 2202) ilə 29.0.4-cü maddədə “yüksək dərəcəli” sözləri “yüksəkixtisaslı elmi və” sözləri ilə əvəz edilmişdir.
+31 oktyabr 2017-ci il tarixli 834-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 dekabr 2017-ci il, № 279, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, № 12, I kitab maddə 2202) ilə 29.0.4-cü maddədə “yüksək dərəcəli” sözləri “yüksəkixtisaslı elmi və” sözləri ilə əvəz edilmişdir.
 
 [124]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə 29.0.9-cu maddə yeni redaksiyada verilmişdir.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə 29.0.9-cu maddə yeni redaksiyada verilmişdir.
 əvvəlki redaksiyada deyilirdi:
 29.0.9. ilk peşə-ixtisas, ali və orta ixtisas təhsili müəssisələrinə tələbə qəbulu planını müəyyənləşdirmək;
-29 mart 2019-cu il tarixli 1553-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 may 2019-cu il, 115, Azərbaycan
+29 mart 2019-cu il tarixli 1553-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 may 2019-cu il, № 115, Azərbaycan
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
-Respublikasının Qanunvericilik Toplusu, 2019-cu il, 5, maddə 798) ilə 29.0.9-cu maddədən “şagird və” sözləri çıxarılmışdır.
+Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 5, maddə 798) ilə 29.0.9-cu maddədən “şagird və” sözləri çıxarılmışdır.
 
 [125]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə 29.0.11-ci maddəyə “Tələbə-məzun” sözlərindən sonra “və “Şagird-məzun” sözləri əlavə edilmişdir və həmin maddədə “sistemini” sözü “sistemlərini” sözü ilə əvəz edilmişdir.
-27 iyun 2019-cu il tarixli 1620-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 25 iyul 2019-cu il, 160, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, 7, maddə 1190) ilə 29.0.11-ci maddə yeni redaksiyada verilmişdir.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə 29.0.11-ci maddəyə “Tələbə-məzun” sözlərindən sonra “və “Şagird-məzun” sözləri əlavə edilmişdir və həmin maddədə “sistemini” sözü “sistemlərini” sözü ilə əvəz edilmişdir.
+27 iyun 2019-cu il tarixli 1620-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 25 iyul 2019-cu il, № 160, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 7, maddə 1190) ilə 29.0.11-ci maddə yeni redaksiyada verilmişdir.
 Əvvəlki redaksiyada deyilirdi:
-29.0.11. “Tələbə-məzun” və “Şagird-məzun“ dövlət elektron məlumat sistemlərini yaratmaq və ondan istifadəni təmin etmək;
+29.0.11. “Tələbə-məzun” və “Şagird-məzun” dövlət elektron məlumat sistemlərini yaratmaq və ondan istifadəni təmin etmək;
 
 [126]
-27 iyun 2019-cu il tarixli 1620-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 25 iyul 2019-cu il, 160, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, 7, maddə 1190) ilə 29.0.12-ci maddədən “və proqramlarını (kurrikulumlarını)” sözləri çıxarılmışdır.
+27 iyun 2019-cu il tarixli 1620-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 25 iyul 2019-cu il, № 160, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 7, maddə 1190) ilə 29.0.12-ci maddədən “və proqramlarını (kurrikulumlarını)” sözləri çıxarılmışdır.
 
 [127]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə 29.0.15-ci maddədə “səviyyəsinə” sözü “pilləsinə” sözü ilə əvəz edilmişdir və həmin maddəyə “müəssisələrinin” sözündən sonra “, məktəbdənkənar və əlavə təhsil müəssisələrinin” sözləri əlavə edilmişdir.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə 29.0.15-ci maddədə “səviyyəsinə” sözü “pilləsinə” sözü ilə əvəz edilmişdir və həmin maddəyə “müəssisələrinin” sözündən sonra “, məktəbdənkənar və əlavə təhsil müəssisələrinin” sözləri əlavə edilmişdir.
 
 [128]
-18 dekabr 2020-ci il tarixli 218-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 7 fevral 2021-ci il, 28) ilə 29.0.20-ci maddədə “nümunələrini” sözü “təsvirlərini” sözü ilə əvəz edilmişdir.
+18 dekabr 2020-ci il tarixli 218-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 7 fevral 2021-ci il, № 28) ilə 29.0.20-ci maddədə “nümunələrini” sözü “təsvirlərini” sözü ilə əvəz edilmişdir.
 
 [129]
-6 noyabr 2020-ci il tarixli 192-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 13 dekabr 2020-ci il, 262) ilə 29.0.21-ci maddə yeni redaksiyada verilmişdir.
+6 noyabr 2020-ci il tarixli 192-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 13 dekabr 2020-ci il, № 262) ilə 29.0.21-ci maddə yeni redaksiyada verilmişdir.
 əvvəlki redaksiyada deyilirdi:
 29.0.21. xarici ölkələrin ali təhsil sahəsində ixtisaslarının tanınması və ekvivalentliyinin müəyyən edilməsi (nostrifikasiyası) qaydalarını müəyyən etmək, ixtisasların tanınmasını və nostrifikasiyanı həyata keçirmək;
 
 [130]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə yeni məzmunda 29.0.28-1-ci maddə əlavə edilmişdir.
-19 may 2020-ci il tarixli 104-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 9 iyul 2020-ci il, 131, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 7, maddə 824) ilə 29.0.28-1-ci maddə yeni redaksiyada verilmişdir.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə yeni məzmunda 29.0.28-1-ci maddə əlavə edilmişdir.
+19 may 2020-ci il tarixli 104-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 9 iyul 2020-ci il, № 131, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 7, maddə 824) ilə 29.0.28-1-ci maddə yeni redaksiyada verilmişdir.
 əvvəlki redaksiyada deyilirdi:
 29.0.28-1. təhsil müəssisələrinin akkreditasiyasına görə dövlət rüsumunun məbləğini müəyyən etmək;
 
 [131]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə 29.0.29-cu maddəyə “təhsilverənlərin” sözündən sonra “(dövlət ümumi təhsil müəssisələrində təhsilverənlər istisna olmaqla)” sözləri əlavə edilmişdir.
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248) ilə 29.0.29-cu maddədə “və peşə təhsili (tam orta təhsil üzrə təhsilverənlərə münasibətdə) müəssisələrində” sözləri “müəssisələrində (ümumi təhsil üzrə təhsilverənlərə münasibətdə digər dövlət təhsil müəssisələrində)” sözləri ilə əvəz edilmişdir və həmin maddəyə “attestasiyanı” sözündən əvvəl “yekun” sözü əlavə edilmişdir.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə 29.0.29-cu maddəyə “təhsilverənlərin” sözündən sonra “(dövlət ümumi təhsil müəssisələrində təhsilverənlər istisna olmaqla)” sözləri əlavə edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248) ilə 29.0.29-cu maddədə “və peşə təhsili (tam orta təhsil üzrə təhsilverənlərə münasibətdə) müəssisələrində” sözləri “müəssisələrində (ümumi təhsil üzrə təhsilverənlərə münasibətdə digər dövlət təhsil müəssisələrində)” sözləri ilə əvəz edilmişdir və həmin maddəyə “attestasiyanı” sözündən əvvəl “yekun” sözü əlavə edilmişdir.
 
 [132]
-31 oktyabr 2017-ci il tarixli 834-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 dekabr 2017-ci il, 279, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, 12, I kitab maddə 2202) ilə 29.0.31-ci maddəyə “təhsil müəssisələrində” sözlərindən əvvəl “ali” sözü əlavə edilmişdir.
+31 oktyabr 2017-ci il tarixli 834-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 17 dekabr 2017-ci il, № 279, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, № 12, I kitab maddə 2202) ilə 29.0.31-ci maddəyə “təhsil müəssisələrində” sözlərindən əvvəl “ali” sözü əlavə edilmişdir.
 
 [133]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 29.0.33-cü maddədə “tədris” sözü “tədris-metodik” sözləri ilə əvəz edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 29.0.33-cü maddədə “tədris” sözü “tədris-metodik” sözləri ilə əvəz edilmişdir.
 
 [134]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 29.0.36-cı maddəyə “texnologiyaları” sözündən sonra “, rəqəmsal tədris resursları” sözləri əlavə edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 29.0.36-cı maddəyə “texnologiyaları” sözündən sonra “, rəqəmsal tədris resursları” sözləri əlavə edilmişdir.
 
 [135]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə 29.0.37-ci maddə yeni redaksiyada verilmişdir.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə 29.0.37-ci maddə yeni redaksiyada verilmişdir.
 əvvəlki redaksiyada deyilirdi:
 29.0.37. baza tədris planlarını və proqramlarını təsdiq etmək;
-19 may 2020-ci il tarixli 104-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 9 iyul 2020-ci il, 131, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 7, maddə 824) ilə 29.0.37-ci maddədə “təhsil proqramlarını” sözləri “təhsil proqramlarını (kurikulumları)” sözləri ilə əvəz edilmişdir.
+19 may 2020-ci il tarixli 104-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 9 iyul 2020-ci il, № 131, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 7, maddə 824) ilə 29.0.37-ci maddədə “təhsil proqramlarını” sözləri “təhsil proqramlarını (kurikulumları)” sözləri ilə əvəz edilmişdir.
 
 [136]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə 29.0.41-ci maddədə “təhsil” sözü “və ümumi təhsil müəssisələrində (xüsusi təhsil və inklüziv təhsil siniflərində) təhsilə cəlb edilməsini” sözləri ilə əvəz edilmişdir.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə 29.0.41-ci maddədə “təhsil” sözü “və ümumi təhsil müəssisələrində (xüsusi təhsil və inklüziv təhsil siniflərində) təhsilə cəlb edilməsini” sözləri ilə əvəz edilmişdir.
 
 [137]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə 29.0.42-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 29.0.43 - 29.0.45-ci maddələr əlavə edilmişdir.
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248,
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə 29.0.42-ci maddənin sonunda nöqtə işarəsi nöqtəli vergül işarəsi ilə əvəz edilmişdir və yeni məzmunda 29.0.43 - 29.0.45-ci maddələr əlavə edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248,
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
-Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 29.0.43-cü maddədə “və peşə təhsili (tam orta təhsil üzrə təhsilverənlərə münasibətdə) müəssisələrinin” sözləri “müəssisələrinin (ümumi təhsil üzrə təhsilverənlərə münasibətdə digər dövlət təhsil müəssisələrinin)” sözləri ilə əvəz edilmişdir.
+Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 29.0.43-cü maddədə “və peşə təhsili (tam orta təhsil üzrə təhsilverənlərə münasibətdə) müəssisələrinin” sözləri “müəssisələrinin (ümumi təhsil üzrə təhsilverənlərə münasibətdə digər dövlət təhsil müəssisələrinin)” sözləri ilə əvəz edilmişdir.
 
 [138]
-27 iyun 2019-cu il tarixli 1620-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 25 iyul 2019-cu il, 160, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, 7, maddə 1190) ilə 30.2-ci maddənin birinci cümləsində “orqanı” sözü “orqanının müəyyən etdiyi orqan (qurum)” sözləri ilə əvəz edilmişdir.
+27 iyun 2019-cu il tarixli 1620-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 25 iyul 2019-cu il, № 160, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 7, maddə 1190) ilə 30.2-ci maddənin birinci cümləsində “orqanı” sözü “orqanının müəyyən etdiyi orqan (qurum)” sözləri ilə əvəz edilmişdir.
 
 [139]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 30.3-cü maddə yeni redaksiyada verilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 30.3-cü maddə yeni redaksiyada verilmişdir.
 əvvəlki redaksiyada deyilirdi:
 30.3. Bələdiyyə təhsil müəssisəsinə rəhbərliyi bələdiyyə tərəfindən təyin edilmiş bələdiyyə təhsil müəssisəsinin rəhbəri (rəhbərliyi) həyata keçirir.
 
 [140]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 30.4-cü maddə ləğv edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 30.4-cü maddə ləğv edilmişdir.
 
 [141]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə 31.0.1-ci maddəyə “magistrantlar” sözündən sonra “, rezidentlər” sözü əlavə edilmişdir.
-27 iyun 2019-cu il tarixli 1620-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 25 iyul 2019-cu il, 160, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, 7, maddə 1190) ilə 31.0.1-ci maddəyə “doktorantlar,” sözündən sonra “adyunktlar” sözü əlavə edilmişdir.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə 31.0.1-ci maddəyə “magistrantlar” sözündən sonra “, rezidentlər” sözü əlavə edilmişdir.
+27 iyun 2019-cu il tarixli 1620-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 25 iyul 2019-cu il, № 160, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 7, maddə 1190) ilə 31.0.1-ci maddəyə “doktorantlar,” sözündən sonra “adyunktlar” sözü əlavə edilmişdir.
 
 [142]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə 31.0.2-ci maddəyə “tyutorlar” sözündən sonra “, rezidentlərin kuratorları” sözləri əlavə edilmişdir.
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 31.0.2-ci maddədə “məktəb uşaq birliklərinin” sözləri “uşaq birliyi” sözləri ilə, “təhsil müəssisəsinin kitabxanaçıları” sözləri “laborantlar, kitabxanaçılar, sosial xidmət sahəsinin işçiləri” sözləri ilə əvəz edilmişdir və həmin maddəyə “məşqçilər,” sözündən sonra “təhsil müəssisələrində pedaqoji və idarəetmə fəaliyyəti ilə məşğul olan digər şəxslər, habelə” sözləri əlavə edilmişdir.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə 31.0.2-ci maddəyə “tyutorlar” sözündən sonra “, rezidentlərin kuratorları” sözləri əlavə edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 31.0.2-ci maddədə “məktəb uşaq birliklərinin” sözləri “uşaq birliyi” sözləri ilə, “təhsil müəssisəsinin kitabxanaçıları” sözləri “laborantlar, kitabxanaçılar, sosial xidmət sahəsinin işçiləri” sözləri ilə əvəz edilmişdir və həmin maddəyə “məşqçilər,” sözündən sonra “təhsil müəssisələrində pedaqoji və idarəetmə fəaliyyəti ilə məşğul olan digər şəxslər, habelə” sözləri əlavə edilmişdir.
 
 [143]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə yeni məzmunda 31.0.2-1-ci maddə əlavə edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə yeni məzmunda 31.0.2-1-ci maddə əlavə edilmişdir.
 
 [144]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 31.0.4-cü maddəyə “təhsili” sözündən əvvəl “təsisçilər, həmçinin” sözləri əlavə edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 31.0.4-cü maddəyə “təhsili” sözündən əvvəl “təsisçilər, həmçinin” sözləri əlavə edilmişdir.
 
 [145]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 32.3.2-ci maddədə “və tədris dilini” sözləri “, tədris dilini və xarici dili” sözləri ilə əvəz edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 32.3.2-ci maddədə “və tədris dilini” sözləri “, tədris dilini və xarici dili” sözləri ilə əvəz edilmişdir.
 
 [146]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 32.3.3-cü maddəyə “dövlət” sözündən əvvəl “mənəvi-psixoloji cəhətdən sağlam pedaqoji mühitdə” sözləri əlavə edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 32.3.3-cü maddəyə “dövlət” sözündən əvvəl “mənəvi-psixoloji cəhətdən sağlam pedaqoji mühitdə” sözləri əlavə edilmişdir.
 
 [147]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 32.3.4-cü maddəyə “məşğuliyyəti” sözündən sonra “, o cümlədən dərsdənkənar məşğələni (fakültativ kursları)” sözləri əlavə edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 32.3.4-cü maddəyə “məşğuliyyəti” sözündən sonra “, o cümlədən dərsdənkənar məşğələni (fakültativ kursları)” sözləri əlavə edilmişdir.
 
 [148]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 32.3.6-cı maddəyə “kitabxanalardan” sözündən əvvəl “laboratoriyalardan,” sözü əlavə edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 32.3.6-cı maddəyə “kitabxanalardan” sözündən əvvəl “laboratoriyalardan,” sözü əlavə edilmişdir.
 
 [149]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 32.3.10-cu maddədə “sağlamlıq” sözü “həyat və sağlamlığı” sözləri ilə əvəz edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 32.3.10-cu maddədə “sağlamlıq” sözü “həyat və sağlamlığı” sözləri ilə əvəz edilmişdir.
 
 [150]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 32.3.11-ci maddə yeni redaksiyada verilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 32.3.11-ci maddə yeni redaksiyada verilmişdir.
 əvvəlki redaksiyada deyilirdi:
 32.3.11. insan ləyaqətini və şərəfini alçaldan, insan hüquqlarına zidd hərəkətlərdən müdafiə olunmaq;
 
 [151]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 32.3.13-cü maddəyə “orqanının” sözündən sonra “müəyyən etdiyi orqanın (qurumun)” sözləri əlavə edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 32.3.13-cü maddəyə “orqanının” sözündən sonra “müəyyən etdiyi orqanın (qurumun)” sözləri əlavə edilmişdir.
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
 [152]
-29 mart 2019-cu il tarixli 1553-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 may 2019-cu il, 115, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, 5, maddə 798) ilə 32.3.14-cü maddədə “peşə-ixtisas təhsili pilləsində” sözləri “ixtisas təhsili pilləsində, peşə təhsili” sözləri ilə əvəz edilmişdir.
+29 mart 2019-cu il tarixli 1553-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 26 may 2019-cu il, № 115, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 5, maddə 798) ilə 32.3.14-cü maddədə “peşə-ixtisas təhsili pilləsində” sözləri “ixtisas təhsili pilləsində, peşə təhsili” sözləri ilə əvəz edilmişdir.
 
 [153]
-27 iyun 2019-cu il tarixli 1620-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 25 iyul 2019-cu il, 160, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, 7, maddə 1190) ilə 32.3.15-ci maddəyə “ümumi təhsil” sözlərindən sonra “peşə təhsili” sözləri əlavə edilmişdir.
-19 may 2020-ci il tarixli 104-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 9 iyul 2020-ci il, 131, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 7, maddə 824) ilə 32.3.15-ci maddədə “peşə” sözü “və peşə” sözləri ilə əvəz edilmişdir.
+27 iyun 2019-cu il tarixli 1620-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 25 iyul 2019-cu il, № 160, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 7, maddə 1190) ilə 32.3.15-ci maddəyə “ümumi təhsil” sözlərindən sonra “peşə təhsili” sözləri əlavə edilmişdir.
+19 may 2020-ci il tarixli 104-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 9 iyul 2020-ci il, № 131, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 7, maddə 824) ilə 32.3.15-ci maddədə “peşə” sözü “və peşə” sözləri ilə əvəz edilmişdir.
 
 [154]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 32.3.18-ci maddə yeni redaksiyada verilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 32.3.18-ci maddə yeni redaksiyada verilmişdir.
 əvvəlki redaksiyada deyilirdi:
 32.3.18. elmi-praktik konfransların, seminarların, yığıncaqların və görüşlərin, habelə təhsil həyatı ilə bağlı digər tədbirlərin keçirilməsində iştirak etmək;
 
 [155]
-8 oktyabr 2019-cu il tarixli 1675-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 15 noyabr 2019-cu il, 253, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, 11, maddə 1684) ilə yeni məzmunda 32.3.18-1-ci maddə əlavə edilmişdir.
+8 oktyabr 2019-cu il tarixli 1675-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 15 noyabr 2019-cu il, № 253, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2019-cu il, № 11, maddə 1684) ilə yeni məzmunda 32.3.18-1-ci maddə əlavə edilmişdir.
 
 [156]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə yeni məzmunda 32.3.18-3-cü maddə əlavə edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə yeni məzmunda 32.3.18-3-cü maddə əlavə edilmişdir.
 
 [157]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə yeni məzmunda 32.5.1-1-ci və 32.5.1-2-ci maddələr əlavə edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə yeni məzmunda 32.5.1-1-ci və 32.5.1-2-ci maddələr əlavə edilmişdir.
 
 [158]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 33.2.2-ci maddəyə “etmək” sözündən sonra “, təkliflər irəli sürmək” sözləri əlavə edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 33.2.2-ci maddəyə “etmək” sözündən sonra “, təkliflər irəli sürmək” sözləri əlavə edilmişdir.
 
 [159]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 33.2.3-cü maddəyə “seçmək” sözündən sonra “, tədris-metodik vəsaitlərlə təmin olunmaq” sözləri əlavə edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 33.2.3-cü maddəyə “seçmək” sözündən sonra “, tədris-metodik vəsaitlərlə təmin olunmaq” sözləri əlavə edilmişdir.
 
 [160]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 33.2.5-ci maddədə “və müvafiq hallarda seçkili” sözləri “, seçkili” sözü ilə əvəz edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 33.2.5-ci maddədə “və müvafiq hallarda seçkili” sözləri “, seçkili” sözü ilə əvəz edilmişdir.
 
 [161]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 33.2.6-cı maddədən “ixtisasını artırmaq,” sözləri çıxarılmışdır.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 33.2.6-cı maddədən “ixtisasını artırmaq,” sözləri çıxarılmışdır.
 
 [162]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 33.3.2-ci maddəyə “proqramlarının” sözündən sonra “(kurikulumların)” sözü və “etmək” sözündən sonra “, keyfiyyətli təhsil vermək” sözləri əlavə edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 33.3.2-ci maddəyə “proqramlarının” sözündən sonra “(kurikulumların)” sözü və “etmək” sözündən sonra “, keyfiyyətli təhsil vermək” sözləri əlavə edilmişdir.
 
 [163]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 33.3.4-cü maddədən “şəxsi nümunəsi ilə” sözləri çıxarılmışdır.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 33.3.4-cü maddədən “şəxsi nümunəsi ilə” sözləri çıxarılmışdır.
 
 [164]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 33.3.5-ci maddəyə “pedaqoji” sözündən əvvəl “etik davranış qaydalarına,” sözləri əlavə edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 33.3.5-ci maddəyə “pedaqoji” sözündən əvvəl “etik davranış qaydalarına,” sözləri əlavə edilmişdir.
 
 [165]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə yeni məzmunda 33.3.5-1-ci maddə əlavə edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə yeni məzmunda 33.3.5-1-ci maddə əlavə edilmişdir.
 
 [166]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 33.3.7-ci maddəyə “çəkindirmək” sözündən sonra “, təhsilalanların təhlükəsizliyinin və sağlamlığının mühafizəsində iştirak etmək” sözləri əlavə edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 33.3.7-ci maddəyə “çəkindirmək” sözündən sonra “, təhsilalanların təhlükəsizliyinin və sağlamlığının mühafizəsində iştirak etmək” sözləri əlavə edilmişdir.
 
 [167]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 33.3.8-ci maddəyə “aparmaq,” sözündən sonra “qabaqcıl pedaqoji təcrübələri, müasir interaktiv təlim metodlarını, innovasiyaları öyrənmək və tətbiq etmək,” sözləri əlavə edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 33.3.8-ci maddəyə “aparmaq,” sözündən sonra “qabaqcıl pedaqoji təcrübələri, müasir interaktiv təlim metodlarını, innovasiyaları öyrənmək və tətbiq etmək,” sözləri əlavə edilmişdir.
 
 [168]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə yeni məzmunda 33.3.8-1-ci və 33.3.8-2-ci maddələr əlavə edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə yeni məzmunda 33.3.8-1-ci və 33.3.8-2-ci maddələr əlavə edilmişdir.
 
 [169]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148) ilə 33.3.9-cu maddəyə “attestasiyadan” sözündən sonra “(dövlət ümumi təhsil müəssisələrində sertifikatlaşdırmadan)” sözləri əlavə edilmişdir.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148) ilə 33.3.9-cu maddəyə “attestasiyadan” sözündən sonra “(dövlət ümumi təhsil müəssisələrində sertifikatlaşdırmadan)” sözləri əlavə edilmişdir.
 [[END OF PAGE 33]]
 
 [[START OF PAGE 34]]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248) ilə 33.3.9-cu maddədə “və peşə təhsili (tam orta təhsil üzrə təhsilverənlərə münasibətdə) müəssisələrində” sözləri “müəssisələrində (ümumi təhsil üzrə təhsilverənlərə münasibətdə digər dövlət təhsil müəssisələrində)” sözləri ilə əvəz edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248) ilə 33.3.9-cu maddədə “və peşə təhsili (tam orta təhsil üzrə təhsilverənlərə münasibətdə) müəssisələrində” sözləri “müəssisələrində (ümumi təhsil üzrə təhsilverənlərə münasibətdə digər dövlət təhsil müəssisələrində)” sözləri ilə əvəz edilmişdir.
 
 [170]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə yeni məzmunda 34.2.2-1-ci maddə əlavə edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə yeni məzmunda 34.2.2-1-ci maddə əlavə edilmişdir.
 
 [171]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 35.1-ci maddəyə “Dövlət” sözündən sonra “və bələdiyyə” sözləri əlavə edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 35.1-ci maddəyə “Dövlət” sözündən sonra “və bələdiyyə” sözləri əlavə edilmişdir.
 
 [172]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 36.1-ci maddədə ikinci cümlə üçüncü cümlə hesab edilmişdir və yeni məzmunda ikinci cümlə əlavə edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 36.1-ci maddədə ikinci cümlə üçüncü cümlə hesab edilmişdir və yeni məzmunda ikinci cümlə əlavə edilmişdir.
 
 [173]
-8 may 2020-ci il tarixli 91-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 1 iyul 2020-ci il, 124, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 6, maddə 669) ilə 36.3-cü maddəyə “elmi-pedaqoji” sözlərindən əvvəl “elmi və” sözləri əlavə edilmişdir.
+8 may 2020-ci il tarixli 91-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 1 iyul 2020-ci il, № 124, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 6, maddə 669) ilə 36.3-cü maddəyə “elmi-pedaqoji” sözlərindən əvvəl “elmi və” sözləri əlavə edilmişdir.
 
 [174]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 36.4-cü maddəyə “məhdud,” sözündən sonra “inklüziv təhsili həyata keçirən,” sözləri əlavə edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 36.4-cü maddəyə “məhdud,” sözündən sonra “inklüziv təhsili həyata keçirən,” sözləri əlavə edilmişdir.
 
 [175]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 36.5-ci maddədə “orqanı” sözü “orqanının müəyyən etdiyi orqan (qurum)” sözləri ilə əvəz edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 36.5-ci maddədə “orqanı” sözü “orqanının müəyyən etdiyi orqan (qurum)” sözləri ilə əvəz edilmişdir.
 
 [176]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə yeni məzmunda 36-1-ci və 36-2-ci maddələr əlavə edilmişdir.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə yeni məzmunda 36-1-ci və 36-2-ci maddələr əlavə edilmişdir.
 
 [177]
-12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 7, I kitab, maddə 1409) ilə 37.5-ci maddədə “tədris” sözü “təhsil” sözü ilə əvəz edilmişdir.
+12 iyun 2018-ci il tarixli 1189-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 8 iyul 2018-ci il, № 148, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 7, I kitab, maddə 1409) ilə 37.5-ci maddədə “tədris” sözü “təhsil” sözü ilə əvəz edilmişdir.
 
 [178]
-13 iyun 2017-ci il tarixli 718-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 16 iyul 2017-ci il, 151, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, 7, maddə 1277) ilə 38.10-cu maddə əlavə edilmişdir.
+13 iyun 2017-ci il tarixli 718-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 16 iyul 2017-ci il, № 151, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2017-ci il, № 7, maddə 1277) ilə 38.10-cu maddə əlavə edilmişdir.
 
 [179]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 41-ci maddənin adına “sahibkarlıq” sözündən sonra “və innovasiya” sözləri əlavə edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 41-ci maddənin adına “sahibkarlıq” sözündən sonra “və innovasiya” sözləri əlavə edilmişdir.
 
 [180]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 41.1-ci maddə yeni redaksiyada verilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 41.1-ci maddə yeni redaksiyada verilmişdir.
 əvvəlki redaksiyada deyilirdi:
 41.1. Təhsil müəssisəsi əlavə gəlir əldə etmək məqsədi ilə nizamnaməsində nəzərdə tutulmuş qaydada müvafiq icra hakimiyyəti orqanının müəyyən etdiyi sahibkarlıq fəaliyyəti növləri ilə məşğul ola bilər.
 
 [181]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə 41.2-ci maddənin ikinci cümləsinə “təhsilin inkişafına” sözlərindən sonra “, təhsilalanların həvəsləndirilməsinə” sözləri əlavə edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 41.2-ci maddənin ikinci cümləsinə “təhsilin inkişafına” sözlərindən sonra “, təhsilalanların həvəsləndirilməsinə” sözləri əlavə edilmişdir.
 
 [182]
-6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 11, maddə 1335) ilə yeni məzmunda 41.4-cü və 41.5-ci maddələr əlavə edilmişdir.
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə yeni məzmunda 41.4-cü və 41.5-ci maddələr əlavə edilmişdir.
 
 [183]
-19 may 2020-ci il tarixli 104-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 9 iyul 2020-ci il, 131, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 7, maddə 824) ilə 42.2-ci maddə ləğv edilmişdir.
+19 may 2020-ci il tarixli 104-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 9 iyul 2020-ci il, № 131, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 7, maddə 824) ilə 42.2-ci maddə ləğv edilmişdir.
 
 [184]
-30 oktyabr 2018-ci il tarixli 1291-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 28 noyabr 2018-ci il, 268, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 11, maddə 2208) ilə 44.1-ci maddədə “kvota” sözündən sonra “, təhsil qrantı proqramı” sözləri əlavə edilmişdir.
+30 oktyabr 2018-ci il tarixli 1291-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 28 noyabr 2018-ci il, № 268, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 11, maddə 2208) ilə 44.1-ci maddədə “kvota” sözündən sonra “, təhsil qrantı proqramı” sözləri əlavə edilmişdir.
 
 [185]
-30 oktyabr 2018-ci il tarixli 1291-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 28 noyabr 2018-ci il, 268, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, 11, maddə 2208) ilə yeni məzmunda 44.1-1-ci maddə əlavə edilmişdir.
+30 oktyabr 2018-ci il tarixli 1291-VQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 28 noyabr 2018-ci il, № 268, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2018-ci il, № 11, maddə 2208) ilə yeni məzmunda 44.1-1-ci maddə əlavə edilmişdir.
 
 [186]
-19 may 2020-ci il tarixli 104-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 9 iyul 2020-ci il, 131, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 7, maddə 824) ilə 44.2-ci maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
-6 noyabr 2020-ci il tarixli 192-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 13 dekabr 2020-ci il, 262) ilə 44.2-ci maddənin birinci cümləsində “xarici ölkələrin ali təhsil sahəsində ixtisaslarının tanınması və ekvivalentliyinin müəyyən edilməsi (nostrifikasiyası)” sözləri “xarici dövlətlərin ali təhsilə aid kvalifikasiyalarının tanınması” sözləri ilə, ikinci cümləsində “xarici ölkələrin ali təhsil
+19 may 2020-ci il tarixli 104-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 9 iyul 2020-ci il, № 131, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 7, maddə 824) ilə 44.2-ci maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
+6 noyabr 2020-ci il tarixli 192-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 13 dekabr 2020-ci il, № 262) ilə 44.2-ci maddənin birinci cümləsində “xarici ölkələrin ali təhsil sahəsində ixtisaslarının tanınması və ekvivalentliyinin müəyyən edilməsi (nostrifikasiyası)” sözləri “xarici dövlətlərin ali təhsilə aid kvalifikasiyalarının tanınması” sözləri ilə, ikinci cümləsində “xarici ölkələrin ali təhsil
 [[END OF PAGE 34]]
 
 [[START OF PAGE 35]]
 sahəsində ixtisaslarının tanınması və ekvivalentliyinin müəyyən edilməsinə (nostrifikasiyasına), xarici ölkələrdə verilən təhsil haqqında sənədlərin” sözləri “xarici dövlətlərin ali təhsilə aid kvalifikasiyalarının” sözləri ilə əvəz edilmişdir.
 
 [187]
-19 may 2020-ci il tarixli 104-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 9 iyul 2020-ci il, 131, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, 7, maddə 824) ilə 45-ci maddənin mətni yeni redaksiyada verilmişdir.
+19 may 2020-ci il tarixli 104-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 9 iyul 2020-ci il, № 131, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 7, maddə 824) ilə 45-ci maddənin mətni yeni redaksiyada verilmişdir.
 əvvəlki redaksiyada deyilirdi:
 Bu Qanunu pozan hüquqi və fiziki şəxslər Azərbaycan Respublikasının müvafiq qanunvericiliyi ilə müəyyən edilmiş qaydada məsuliyyət daşıyırlar.
 [[END OF PAGE 35]]
