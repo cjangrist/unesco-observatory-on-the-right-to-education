@@ -12,7 +12,7 @@ JOURNAL OFFICIEL DE LA REPUBLIQUE DU MALI
 
 ### LOIS
 
-# LOI N°2016-022/ DU 9 JUIN 2016 PORTANT RATIFICATION DE L'ORDONNANCE N°2015-038/ P-RM DU 31 DECEMBRE 2015 PORTANT CREATIONDELADELEGATIONGENERALEDES MALIENS DE L'EXTERIEUR (DGME)
+# LOI N°2016-022/ DU 9 JUIN 2016 PORTANT RATIFICATION DE L'ORDONNANCE N°2015-038/ P-RM DU 31 DECEMBRE 2015 PORTANT CREATION DE LA DELEGATION GENERALE DES MALIENS DE L'EXTERIEUR (DGME)
 
 L'Assemblée nationale a délibéré et adopté en sa séance du 12 mai 2016
 
@@ -27,14 +27,14 @@ Le Président de la République, Ibrahim Boubacar KEITA
 
 ------------------------------
 
-# LOI N°2016-025/ DU 14 JUIN 2016 PORTANT MODIFICATIONDEL'ORDONNANCEN°00-027/PsRM DU 22 MARS 2000 PORTANT CODE DOMANIAL ET FONCIER, MODIFIEE ET RATIFIEEPARLALOIN°2012-001DU10JANVIER 2012
+# LOI N°2016-025/ DU 14 JUIN 2016 PORTANT MODIFICATION DE L'ORDONNANCE N°00-027/P-RM DU 22 MARS 2000 PORTANT CODE DOMANIAL ET FONCIER, MODIFIEE ET RATIFIEE PAR LA LOI N°2012-001 DU 10 JANVIER 2012
 
 L'Assemblée nationale a délibéré et adopté en sa séance du 24 mai 2016 Le Président de la République promulgue la loi dont la teneur suit :
 
 ## Article Unique :
 L'Ordonnance n° 00-027/PRM du 22 mars 2000 portant code domanial et foncier, modifiée et ratifiée par la Loi n° 02-008 du 12 février 2002, modifiée par la Loi n° 2012-001 du 10 Janvier 2012 est modifiée ainsi qu'il suit :
 
-## TITREIII : DU DOMAINEPRIVEIMMOBILIERDE L'ETAT
+## TITRE III : DU DOMAINE PRIVE IMMOBILIER DE L'ETAT
 
 ### CHAPITRE II : DE LA GESTION DU DOMAINE PRIVE IMMOBILIER DE L'ETAT
 
@@ -66,7 +66,7 @@ L'annulation emporte déchéance de la copie du titre qui aura déjà été dél
 
 Suppression de l'article
 
-#### Article 171 bis (nouveau) 1 er alinéa :
+#### Article 171 bis (nouveau) 1er alinéa :
 
 Les personnes dont les droits auraient été lésés par suite d'une immatriculation régulière ne peuvent se pourvoir par voie d'action réelle mais seulement, en cas de dol, par voie d'action personnelle en indemnité contre l'auteur présumé du dol à l'exception des cas suivants où l'action réelle en annulation du titre ou de son acte de vente est permise :
 
@@ -76,7 +76,7 @@ Les personnes dont les droits auraient été lésés par suite d'une immatricula
 
 1084
 
-JOURNALOFFICIEL DE LA REPUBLIQUE DU MALI
+JOURNAL OFFICIEL DE LA REPUBLIQUE DU MALI
 
 - Immatriculation antérieure ;
 
@@ -86,9 +86,9 @@ JOURNALOFFICIEL DE LA REPUBLIQUE DU MALI
 
 - Immatriculation sur des terrains détenus en vertu d'une concession urbaine ou rurale à usage d'habitation, d'une concession rurale, d'un titre opposable aux tiers délivré après une enquête publique et contradictoire ayant constaté et confirmé une emprise évidente et permanente sur le terrain concerné.
 
-#### Article 171 bis (nouveau) 2 ème alinéa :
+#### Article 171 bis (nouveau) 2ème alinéa :
 
-Al'exclusion de l'action personnelle ci-dessus indiquée et les exceptions énumérées, aucun droit foncier coutumier non révélé au cours d'une procédure d'immatriculation régulièrement conduite n'est opposable au titre foncier.
+A l'exclusion de l'action personnelle ci-dessus indiquée et les exceptions énumérées, aucun droit foncier coutumier non révélé au cours d'une procédure d'immatriculation régulièrement conduite n'est opposable au titre foncier.
 
 Bamako, le 14 juin 2016
 
@@ -106,7 +106,7 @@ teneur suit :
 
 ## CHAPITRE I : OBJET
 
-### Article 1 er :
+### Article 1er :
 La présente loi fixe l'orientation et les règles relatives à l'organisation de la formation professionnelle.
 
 ## CHAPITRE II : DES ORIENTATIONS DE LA FORMATION PROFESSIONNELLE
@@ -115,12 +115,12 @@ La présente loi fixe l'orientation et les règles relatives à l'organisation d
 Le droit à la formation professionnelle est reconnu à tout citoyen en quête d'emploi ou en activité. Il s'exerce dans les limites des moyens de l'Etat, des collectivités territoriales et des employeurs privés.
 
 ### Article 3 :
-L'Etat définit les orientations nationales et les objectifs poursuivis en matière de développement et de mise en ° uvre de la formation professionnelle.
+L'Etat définit les orientations nationales et les objectifs poursuivis en matière de développement et de mise en œuvre de la formation professionnelle.
 
 Les collectivités territoriales et les organismes publics de formation professionnelle s'inspirent des orientations et des objectifs arrêtés.
 
 ### Article 4 :
-L'Etat veille à la qualité de la formation professionnelle et à son développement. Acet effet, il prend toutes mesures de nature à fédérer et à harmoniser les différentes initiatives des collectivités territoriales, des organismes publics, des entreprises et sociétés privées, des organisations professionnelles, des organisations du mouvement associatif et de tous autres acteurs en matière de formation professionnelle.
+L'Etat veille à la qualité de la formation professionnelle et à son développement. A cet effet, il prend toutes mesures de nature à fédérer et à harmoniser les différentes initiatives des collectivités territoriales, des organismes publics, des entreprises et sociétés privées, des organisations professionnelles, des organisations du mouvement associatif et de tous autres acteurs en matière de formation professionnelle.
 
 ### Article 5 :
 L'Etat veille à l'équilibre territorial des offres de formation à travers une répartition rationnelle des structures publiques et privées de formation professionnelle sur l'ensemble du territoire national.
@@ -129,7 +129,7 @@ L'Etat veille à l'équilibre territorial des offres de formation à travers une
 Le ministre chargé de la formation professionnelle assure le contrôle technique des structures publiques sous sa tutelle et des structures privées agréées par ses services dédiés à la formation professionnelle et indique la suite à donner aux conclusions des contrôles effectués.
 
 ### Article 7 :
-La mise en ° uvre de toute politique, de tout programme ou de projet de formation professionnelle doit contribuer à :
+La mise en œuvre de toute politique, de tout programme ou de projet de formation professionnelle doit contribuer à :
 
 -donner aux demandeurs des qualifications professionnelles, en rapport avec leur environnement social et culturel ;
 
@@ -179,7 +179,7 @@ L'organisation type des centres ou établissements publics et privés de formati
 Peuvent bénéficier de l'appui technique ou financier de l'Etat les structures publiques ou privées de formation professionnelle qui répondent aux orientations et objectifs de la politique nationale de formation professionnelle et qui répondent aux normes d'organisation, de fonctionnement et de gestion fixées par décret.
 
 ### Article 15 :
-La mise en ° uvre de la politique nationale de formation professionnelle est périodiquement et à intervalles réguliers, soumise à évaluation sous la supervision et la coordination d'une commission ad hoc créée auprès du ministre chargé de la formation professionnelle.
+La mise en œuvre de la politique nationale de formation professionnelle est périodiquement et à intervalles réguliers, soumise à évaluation sous la supervision et la coordination d'une commission ad hoc créée auprès du ministre chargé de la formation professionnelle.
 
 ### Article 16 :
 Est également soumise à évaluation, l'exécution de tout projet de formation professionnelle agréé.
@@ -205,13 +205,13 @@ Des espaces de dialogue et de concertation peuvent être institués sur des thè
 
 Les modalités d'organisation de ces espaces sont fixées par voie réglementaire.
 
-## CHAPITREV :DUPARTENARIATPUBLIC-PRIVE
+## CHAPITRE V : DU PARTENARIAT PUBLIC-PRIVE
 
 ### Article 20 :
 Le système de la formation professionnelle repose sur le partenariat public-privé.
 
 ### Article 21 :
-Des organes de partenariat public-privé participent à la gestion et à la mise en ° uvre de la formation professionnelle.
+Des organes de partenariat public-privé participent à la gestion et à la mise en œuvre de la formation professionnelle.
 
 ## CHAPITRE VI : DISPOSITIONS FINALES
 
@@ -227,7 +227,7 @@ Le Président de la République, Ibrahim Boubacar KEITA
 
 ------------------------------
 
-# LOI N°2016-027/ DU 14 JUIN 2016 PORTANT RATIFICATION DE L'ORDONNANCE N°2016-008/ P-RM DU 25 FEVRIER 2016 AUTORISANT LA RATIFICATION DE L'ACCORD DE PRET, SIGNE A BAMAKO LE 19 NOVEMBRE 2015, ENTRE LE GOUVERNEMENTDELAREPUBLIQUEDUMALI ET LA BANQUE D'INVESTISSEMENT ET DE DEVELOPPEMENT DE LA COMMUNAUTE ECONOMIQUE DES ETATS DE L'AFRIQUE DE L'OUEST (BIDC), POUR LE FINANCEMENT PARTIELDUPROJETDECONSTRUCTIONDELA LIAISON 225 KV DOUBLE TERNE SIKASSOBOUGOUNI-SANANKOROBA-BAMAKO
+# LOI N°2016-027/ DU 14 JUIN 2016 PORTANT RATIFICATION DE L'ORDONNANCE N°2016-008/ P-RM DU 25 FEVRIER 2016 AUTORISANT LA RATIFICATION DE L'ACCORD DE PRET, SIGNE A BAMAKO LE 19 NOVEMBRE 2015, ENTRE LE GOUVERNEMENT DE LA REPUBLIQUE DU MALI ET LA BANQUE D'INVESTISSEMENT ET DE DEVELOPPEMENT DE LA COMMUNAUTE ECONOMIQUE DES ETATS DE L'AFRIQUE DE L'OUEST (BIDC), POUR LE FINANCEMENT PARTIEL DU PROJET DE CONSTRUCTION DE LA LIAISON 225 KV DOUBLE TERNE SIKASSO-BOUGOUNI-SANANKOROBA-BAMAKO
 
 L'Assemblée nationale a délibéré et adopté en sa séance du 24 mai 2016
 
