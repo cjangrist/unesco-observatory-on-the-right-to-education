@@ -30,9 +30,9 @@ This Order may be cited as the Education (Compulsory Education) Order.
 
 ## 2 Interpretation
 
-In this Order -
+In this Order —
 
-' regular  education '  means  efficient  education  for  a  child  of  school  age suitable to his age, ability and aptitude by regular attendance at -
+“regular education” means efficient education for a child of school age suitable to his age, ability and aptitude by regular attendance at —
 
 (a) a registered non Government school; or
 
@@ -40,9 +40,9 @@ In this Order -
 
 except where illness or reasonable excuse justifies absence;
 
-' school age ' has the meaning given to it in Regulation 3;
+“school age” has the meaning given to it in Regulation 3;
 
-' school year ' means the period -
+“school year” means the period —
 
 (a) commencing on the first Government school day after 1 January in any year; and
 
@@ -50,7 +50,7 @@ except where illness or reasonable excuse justifies absence;
 
 ## 3 Application of this Order
 
-- This  Order  applies  in  relation  to  a  child  who  is  of  school  age,  being the period -
+(1) This Order applies in relation to a child who is of school age, being the period —
 
 2008 Revised Edition
 
@@ -68,15 +68,15 @@ Education (Compulsory Education) Order
 
 (b) ending at the end of the school year during which he reaches the age of fifteen years.
 
-- Nothing in this Order is meant to suggest that a child can not, or should not with the approval of the Minister commence schooling anytime after attaining the age five years or continue schooling after the date specified in paragraph 3(1)(b).
+(2) Nothing in this Order is meant to suggest that a child can not, or should not with the approval of the Minister commence schooling anytime after attaining the age five years or continue schooling after the date specified in paragraph 3(1)(b).
 
-- This Order applies throughout Tuvalu.
+(3) This Order applies throughout Tuvalu.
 
 ## 4 Compulsory education
 
-- Subject  to  Regulation  5,  the  parents  of  child  of  school  age  shall  secure  the regular education of that child.
+(1) Subject to Regulation 5, the parents of child of school age shall secure the regular education of that child.
 
-- A parent who -
+(2) A parent who —
 
 (a) neglects to obey this Order; or
 
@@ -86,7 +86,7 @@ is liable to a penalty in accordance with section 30(2) of the Education Act. 2
 
 ## 5 Exemptions
 
-Nothing in this Order applies in relation to -
+Nothing in this Order applies in relation to —
 
 (a) a child who is resident in Tuvalu solely as a result of one or both of his parents being employed under a contract directly financed, in whole or in part, by a foreign Government or a foreign-based institution; or
 
