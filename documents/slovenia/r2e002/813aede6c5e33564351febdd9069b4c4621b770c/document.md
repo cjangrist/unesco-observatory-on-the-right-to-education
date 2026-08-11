@@ -16,7 +16,7 @@ Neuradno  prečiščeno  besedilo  Zakona  o  organizaciji  in  financiranju  vz
 
 -Zakon  o  organizaciji  in  financiranju  vzgoje  in  izobraževanja  -  uradno  prečiščeno besedilo - ZOFVI-UPB1 (Uradni list RS, št. 14/03 z dne 13. 2. 2003),
 
--Zakon o dopolnitvi zakona o organizaciji in financiranju vzgoje in izobraževanja - ZOFVIC (Uradni list RS, št. 34/03 z dne 10. 4. 2003),
+-Zakon o dopolnitvi zakona o organizaciji in financiranju vzgoje in izobraževanja - ZOFVI-C (Uradni list RS, št. 34/03 z dne 10. 4. 2003),
 
 -Zakon  o  organizaciji  in  financiranju  vzgoje  in  izobraževanja  -  uradno  prečiščeno besedilo - ZOFVI-UPB2 (Uradni list RS, št. 55/03 z dne 9. 6. 2003),
 
@@ -118,7 +118,7 @@ Cilji sistema vzgoje in izobraževanja v Republiki Sloveniji so:
 
 -spodbujanje zavesti o integriteti posameznika,
 
--razvijanje  zavesti  o  državni  pripadnosti  in  nacionalni  identiteti  in  vedenja  o  zgodovini Slovenije  in njeni  kulturi.  Vzgojno-izobraževalni  zavodi  razvijajo  zavest  o  državni pripadnosti in nacionalni identiteti  z  obeleževanjem  državnih  praznikov,  katerega sestavni  del  je  izvedba  himne  Republike  Slovenije  in  z  drugimi  dejavnostmi.  Vzgojnoizobraževalni zavodi imajo stalno izobešeno zastavo Republike Slovenije, na območjih, kjer  živita  italijanska  oziroma  madžarska  narodna  skupnost,  se  izobesi  tudi  zastavo narodne skupnosti.
+-razvijanje  zavesti  o  državni  pripadnosti  in  nacionalni  identiteti  in  vedenja  o  zgodovini Slovenije  in njeni  kulturi.  Vzgojno-izobraževalni  zavodi  razvijajo  zavest  o  državni pripadnosti in nacionalni identiteti  z  obeleževanjem  državnih  praznikov,  katerega sestavni  del  je  izvedba  himne  Republike  Slovenije  in  z  drugimi  dejavnostmi.  Vzgojno-izobraževalni zavodi imajo stalno izobešeno zastavo Republike Slovenije, na območjih, kjer  živita  italijanska  oziroma  madžarska  narodna  skupnost,  se  izobesi  tudi  zastavo narodne skupnosti.
 
 -omogočanje vključevanja v procese evropskega povezovanja,
 
@@ -922,7 +922,7 @@ V  zavodih  iz  prejšnjega  odstavka,  v  katerih  se  kot  organizacijska  eno
 
 Predstavnik iz prejšnjega odstavka lahko kot član sveta glasuje le o vprašanjih, ki se  nanašajo  na  dejavnost  medpodjetniškega  izobraževalnega  centra.  Pristojnosti  člana  se podrobneje določijo z aktom o ustanovitvi.
 
-Oseba, ki opravlja funkcijo direktorja, ravnatelja oziroma pomočnika ravnatelja, v javnem vzgojno-izobraževalnem zavodu oziroma organizacijski enoti vzgojnoizobraževalnega zavoda ne morejo voliti in biti izvoljeni oziroma imenovani v svet.
+Oseba, ki opravlja funkcijo direktorja, ravnatelja oziroma pomočnika ravnatelja, v javnem vzgojno-izobraževalnem zavodu oziroma organizacijski enoti vzgojno-izobraževalnega zavoda ne morejo voliti in biti izvoljeni oziroma imenovani v svet.
 
 Člani  sveta  so  imenovani  oziroma  izvoljeni  za  štiri  leta  in  so  lahko  ponovno imenovani oziroma izvoljeni. Člani sveta so lahko zaporedoma imenovani oziroma izvoljeni največ dvakrat.
 
@@ -1030,7 +1030,7 @@ Pomočnik ravnatelja opravlja naloge, za katere ga pisno pooblasti ravnatelj, in
 
 ###### 51. člen (poslovodni organ)
 
-V javnem vzgojno-izobraževalnem zavodu, v katerem se za izvajanje programov za predšolske otroke oziroma posameznega izobraževalnega programa oblikuje organizacijska enota, lahko opravlja poslovodno funkcijo direktor javnega vzgojnoizobraževalnega zavoda, funkcijo pedagoškega vodje v organizacijski enoti pa ravnatelj te enote.
+V javnem vzgojno-izobraževalnem zavodu, v katerem se za izvajanje programov za predšolske otroke oziroma posameznega izobraževalnega programa oblikuje organizacijska enota, lahko opravlja poslovodno funkcijo direktor javnega vzgojno-izobraževalnega zavoda, funkcijo pedagoškega vodje v organizacijski enoti pa ravnatelj te enote.
 
 Pravice,  dolžnosti  in  obveznosti  direktorja  in  ravnatelja  se  določijo  z  aktom  o ustanovitvi.
 
@@ -1088,7 +1088,7 @@ Pred odločitvijo sveta o izbiri kandidata za ravnatelja javne poklicne šole, s
 
 Lokalna skupnost, svet staršev, dijaki in študentje mnenje obrazložijo. Vzgojiteljski, učiteljski oziroma predavateljski zbor o mnenju glasujejo tajno.
 
-V  postopku  imenovanja  ravnatelja  višje  strokovne  šole  kot  organizacijske  enote vzgojno-izobraževalnega  zavoda  predstavniki  staršev  in  dijakov  ne  odločajo.  V  postopku imenovanja ravnatelja javne poklicne šole, srednje tehniške in srednje strokovne šole, javne gimnazije, javnega dijaškega doma ter doma za učence in zavoda za vzgojo in izobraževanje otrok in mladostnikov s posebnimi potrebami, kot organizacijske enote vzgojnoizobraževalnega zavoda, predstavniki študentov ne odločajo.
+V  postopku  imenovanja  ravnatelja  višje  strokovne  šole  kot  organizacijske  enote vzgojno-izobraževalnega  zavoda  predstavniki  staršev  in  dijakov  ne  odločajo.  V  postopku imenovanja ravnatelja javne poklicne šole, srednje tehniške in srednje strokovne šole, javne gimnazije, javnega dijaškega doma ter doma za učence in zavoda za vzgojo in izobraževanje otrok in mladostnikov s posebnimi potrebami, kot organizacijske enote vzgojno-izobraževalnega zavoda, predstavniki študentov ne odločajo.
 
 Svet  v  primeru  iz  prejšnjega  odstavka  odloča  z  večino  glasov  članov,  ki  imajo pravico glasovati.
 
@@ -1244,7 +1244,7 @@ Programski učiteljski zbor opravlja naloge v zvezi z načrtom in izvedbo ocenje
 
 ###### 62. člen (oddelčni zbor)
 
-Oddelčni učiteljski zbor sestavljajo strokovni delavci, ki opravljajo vzgojnoizobraževalno delo v posameznem oddelku.
+Oddelčni učiteljski zbor sestavljajo strokovni delavci, ki opravljajo vzgojno-izobraževalno delo v posameznem oddelku.
 
 Oddelčni učiteljski zbor obravnava vzgojno-izobraževalno problematiko v oddelku, oblikuje  program  za  delo  z  nadarjenimi  učenci,  vajenci  oziroma  dijaki  in  s  tistimi,  ki  težje napredujejo, odloča o vzgojnih ukrepih ter opravlja druge naloge v skladu z zakonom.
 
@@ -1274,8 +1274,6 @@ Strokovni  aktiv  šole  obravnava  problematiko  predmeta  oziroma  predmetnega
 
 letnim delovnim načrtom.
 
--
-
 ###### 65. člen
 
 (študijska komisija)
@@ -1292,7 +1290,7 @@ letnim delovnim načrtom.
 
 Za  organizirano  uresničevanje  interesa  staršev  se  v  javnem  vrtcu  oziroma  šoli oblikuje  svet  staršev.  Tehnično  in  finančno  podporo  za  delovanje  sveta  staršev  zagotavlja vrtec oziroma šola.
 
-Svet staršev je sestavljen tako, da ima v njem  vsak predstavnika, ki ga starši izvolijo na roditeljskem sestanku oddelka.
+Svet staršev je sestavljen tako, da ima v njem vsak oddelek po enega predstavnika, ki ga starši izvolijo na roditeljskem sestanku oddelka.
 
 Prvi sklic sveta staršev opravi ravnatelj.
 
@@ -1303,8 +1301,6 @@ Svet staršev:
 -daje soglasje k predlogu ravnatelja o nadstandardnih storitvah,
 
 -sodeluje pri nastajanju predloga programa razvoja vrtca oziroma šole, vzgojnega načrta, pri pravilih šolskega reda ter da mnenje o letnem delovnem načrtu;
-
-oddelek  po  enega
 
 [[END OF PAGE 28]]
 
@@ -1344,7 +1340,7 @@ Pri  opravljanju  poklicnega  svetovanja  se  povezuje  z  Republiškim  zavodom
 
 Šola ima knjižnico.
 
-Knjižnica  zbira  knjižnično  gradivo,  ga  strokovno  obdeluje,  hrani,  predstavlja  in izposoja ter opravlja informacijsko-dokumentacijsko delo kot sestavino vzgojnoizobraževalnega dela v šoli.
+Knjižnica zbira knjižnično gradivo, ga strokovno obdeluje, hrani, predstavlja in izposoja ter opravlja informacijsko-dokumentacijsko delo kot sestavino vzgojno-izobraževalnega dela v šoli.
 
 V knjižnici se lahko oblikuje tudi učbeniški sklad.
 
@@ -1356,7 +1352,7 @@ Za  učence,  vajence  in  dijake,  ki  zaradi  socialnega  položaja  ne  morej
 
 [[START OF PAGE 30]]
 
-#### Ime vrtca oziroma šole
+#### 5. Ime vrtca oziroma šole
 
 ###### 69. člen (ime)
 
@@ -1386,11 +1382,13 @@ Dejavnosti,  ki  niso  povezane  z  vzgojo  in  izobraževanjem,  se  lahko  izv
 
 V vrtcih in šolah je prepovedano delovanje političnih strank in njihovih podmladkov.
 
-V javnih vrtcih in šolah ni dovoljena konfesionalna dejavnost. V vrtcih in šolah s koncesijo  je  konfesionalna  dejavnost  dovoljena,  kadar  se  izvaja  zunaj  programa,  ki  se opravlja kot javna služba. Konfesionalna dejavnost je dovoljena v vrtcih in šolah s koncesijo, če  časovno  ne  prekinja  in  prostorsko  ne  ovira  programa,  ki  se  izvaja  kot  javna  služba. Izvajanje  konfesionalne  dejavnosti  mora  biti  organizirano  tako,  da  tistim,  ki  se  ne  želijo udeležiti te dejavnosti, omogoča nemoten prihod in odhod.
+V javnih vrtcih in šolah ni dovoljena konfesionalna dejavnost. V vrtcih in šolah s koncesijo je konfesionalna dejavnost dovoljena, kadar se izvaja zunaj programa, ki se opravlja kot javna služba. Konfesionalna dejavnost je dovoljena v vrtcih in šolah s koncesijo,
 
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
+
+če časovno ne prekinja in prostorsko ne ovira programa, ki se izvaja kot javna služba. Izvajanje konfesionalne dejavnosti mora biti organizirano tako, da tistim, ki se ne želijo udeležiti te dejavnosti, omogoča nemoten prihod in odhod.
 
 Konfesionalna dejavnost iz prejšnjega odstavka tega člena obsega:
 
@@ -1694,15 +1692,15 @@ Višino prispevkov določi šola v soglasju s šolsko upravo.
 
 ###### 84. člen (določanje obsega sredstev)
 
-Javnim šolam se zagotavljajo sredstva v skladu z normativi in standardi oziroma metodologijo  za  določanje  obsega  sredstev  na  udeleženca  izobraževanja,  ki  jih  določi
-
-minister.  Pred  določitvijo  normativov  in  standardov  ter  metodologije  za  določanje  obsega sredstev  na  udeleženca  izobraževanja  si  minister  pridobi  mnenje  pristojnega  strokovnega sveta in reprezentativnih sindikatov na področju šolstva.
+Javnim šolam se zagotavljajo sredstva v skladu z normativi in standardi oziroma metodologijo za določanje obsega sredstev na udeleženca izobraževanja, ki jih določi minister. Pred določitvijo normativov in standardov ter metodologije za določanje obsega
 
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
 
-- V skladu z metodologijo za določanje obsega sredstev na udeleženca izobraževanja  se  zagotavlja  sredstva  javnim  gimnazijam,  poklicnim,  srednjim  tehniškim  in srednjim  strokovnim  šolam,  višjim  strokovnim  šolam  in  dijaškim  domovom  za  vzgojno dejavnost.
+sredstev na udeleženca izobraževanja si minister pridobi mnenje pristojnega strokovnega sveta in reprezentativnih sindikatov na področju šolstva.
+
+V skladu z metodologijo za določanje obsega sredstev na udeleženca izobraževanja se zagotavlja sredstva javnim gimnazijam, poklicnim, srednjim tehniškim in srednjim strokovnim šolam, višjim strokovnim šolam in dijaškim domovom za vzgojno dejavnost.
 
 Za vzgojo in izobraževanje:
 
@@ -1720,7 +1718,7 @@ Normativi  in  standardi  obsegajo  učno  obveznost  strokovnih  delavcev,  del
 
 Koncesionarju  se  za  opravljanje  javne  službe  zagotavljajo  sredstva  v  skladu  s pogodbo.
 
-#### Zasebne šole
+#### 2. Zasebne šole
 
 ###### 86. člen (pogoji za financiranje)
 
@@ -1812,21 +1810,23 @@ Delavci  iz  prejšnjega  odstavka  morajo  imeti  izobrazbo,  določeno  s  sis
 
 Če si na določenem področju ni mogoče pridobiti s tem zakonom določene stopnje izobrazbe, minister lahko določi, da vzgojno-izobraževalno delo opravljajo strokovni delavci, ki nimajo ustrezne strokovne izobrazbe, izkazujejo pa pomembne dosežke v svojem poklicu.
 
-##### Osnovna šola
+##### a) Osnovna šola
 
 ###### 94. člen (strokovni delavci)
 
 Strokovni  delavci v javni osnovni  šoli so  učitelj, šolski svetovalni  delavec, knjižničar, laborant in drugi strokovni delavci.
 
-Učitelj,  knjižničar  in  svetovalni  delavec  morajo  imeti  izobrazbo  ustrezne  smeri, pridobljeno  po  študijskih  programih  za  pridobitev  izobrazbe  druge  stopnje  oziroma  raven izobrazbe,  pridobljene  po  študijskih  programih,  ki  v  skladu  z  zakonom  ustreza  izobrazbi druge  stopnje  in  pedagoško  izobrazbo,  drugi  učitelj  v  prvem  razredu  pa  ima  lahko  tudi izobrazbo, pridobljeno s študijskim programom za pridobitev izobrazbe prve stopnje oziroma raven  izobrazbe,  pridobljene  po  študijskih  programih,  ki  v  skladu  z  zakonom  ustreza izobrazbi prve stopnje ustrezne meri in pedagoško izobrazbo. Učitelj v oddelkih podaljšanega bivanja je lahko, kdor izpolnjuje pogoje za učitelja ali svetovalnega delavca.
+Učitelj, knjižničar in svetovalni delavec morajo imeti izobrazbo ustrezne smeri, pridobljeno po študijskih programih za pridobitev izobrazbe druge stopnje oziroma raven izobrazbe, pridobljene po študijskih programih, ki v skladu z zakonom ustreza izobrazbi druge stopnje in pedagoško izobrazbo, drugi učitelj v prvem razredu pa ima lahko tudi
 
 [[END OF PAGE 39]]
 
 [[START OF PAGE 40]]
 
-Laborant  mora  imeti  najmanj  srednjo  oziroma  srednjo  strokovno  izobrazbo  in pedagoško-andragoško izobrazbo. Drugi strokovni delavci morajo imeti izobrazbo ustrezne smeri  pridobljeno  po  študijskih  programih  za  pridobitev  izobrazbe  druge  stopnje  oziroma raven  izobrazbe,  pridobljene  po  študijskih  programih,  ki  v  skladu  z  zakonom  ustreza izobrazbi druge stopnje, ustrezne smeri.
+izobrazbo, pridobljeno s študijskim programom za pridobitev izobrazbe prve stopnje oziroma raven izobrazbe, pridobljene po študijskih programih, ki v skladu z zakonom ustreza izobrazbi prve stopnje ustrezne smeri in pedagoško izobrazbo. Učitelj v oddelkih podaljšanega bivanja je lahko, kdor izpolnjuje pogoje za učitelja ali svetovalnega delavca.
 
-##### Glasbena šola
+Laborant mora imeti najmanj srednjo oziroma srednjo strokovno izobrazbo in pedagoško-andragoško izobrazbo. Drugi strokovni delavci morajo imeti izobrazbo ustrezne smeri pridobljeno po študijskih programih za pridobitev izobrazbe druge stopnje oziroma raven izobrazbe, pridobljene po študijskih programih, ki v skladu z zakonom ustreza izobrazbi druge stopnje, ustrezne smeri.
+
+##### b) Glasbena šola
 
 ###### 95. člen
 
@@ -1834,9 +1834,9 @@ Laborant  mora  imeti  najmanj  srednjo  oziroma  srednjo  strokovno  izobrazbo 
 
 Strokovni delavci v javni glasbeni šoli so učitelj, korepetitor in knjižničar.
 
-Strokovni delavci morajo imeti pridobljeno izobrazbo ustrezne smeri po študijskih programih  za  pridobitev  izobrazbe  druge  stopnje  oziroma  raven  izobrazbe,  pridobljene  po študijskih programih, ki v skladu z zakonom ustreza izobrazbi druge stopnje, in pedagoškoandragoško izobrazbo.
+Strokovni delavci morajo imeti pridobljeno izobrazbo ustrezne smeri po študijskih programih za pridobitev izobrazbe druge stopnje oziroma raven izobrazbe, pridobljene po študijskih programih, ki v skladu z zakonom ustreza izobrazbi druge stopnje, in pedagoško-andragoško izobrazbo.
 
-##### Poklicna oziroma strokovna šola
+##### c) Poklicna oziroma strokovna šola
 
 ###### 96. člen
 
@@ -1848,7 +1848,7 @@ Učitelj  splošnoizobraževalnih  predmetov  mora  imeti  izobrazbo  ustrezne  
 
 Učitelj  strokovnoteoretičnih  predmetov  mora  imeti  izobrazbo  ustrezne  smeri, pridobljeno  najmanj  po  študijskih  programih  za  pridobitev  izobrazbe  prve  stopnje,  oziroma raven  izobrazbe,  pridobljene  po  študijskih  programih,  ki  v  skladu  z  zakonom  ustreza izobrazbi prve stopnje, in pedagoško-andragoško izobrazbo.
 
-Učitelj praktičnega pouka  in veščin mora  imeti najmanj srednjo strokovno izobrazbo  ustrezne  smeri,  najmanj  tri  leta  ustreznih  delovnih  izkušenj  in  pedagoškoandragoško izobrazbo ali opravljen mojstrski izpit.
+Učitelj praktičnega pouka in veščin mora imeti najmanj srednjo strokovno izobrazbo ustrezne smeri, najmanj tri leta ustreznih delovnih izkušenj in pedagoško-andragoško izobrazbo ali opravljen mojstrski izpit.
 
 Mojster mora imeti opravljen mojstrski izpit v skladu z zakonom.
 
@@ -1866,7 +1866,7 @@ Drugi strokovni delavci morajo imeti ustrezno izobrazbo, in sicer:
 
 -organizator  delovne  prakse  in  organizator  praktičnega  izobraževanja  v  delovnem procesu  oziroma  organizator  praktičnega  pouka  v  delovnem  procesu  najmanj  višjo strokovno izobrazbo ustrezne smeri in pedagoško-andragoško izobrazbo,
 
--vodja  posestva  najmanj  višjo  strokovno  izobrazbo  ustrezne  smeri  in  pedagoškoandragoško izobrazbo,
+-vodja posestva najmanj višjo strokovno izobrazbo ustrezne smeri in pedagoško-andragoško izobrazbo,
 
 -vodja centrale učnega podjetja in strokovni delavec v centrali izobrazbo ustrezne smeri, pridobljeno  po  študijskih  programih  za  pridobitev  izobrazbe  najmanj  prve  stopnje, oziroma  raven  izobrazbe,  pridobljene  po  študijskih  programih,  ki  v  skladu  z  zakonom ustreza izobrazbi prve stopnje, in pedagoško-andragoško izobrazbo,
 
@@ -1888,23 +1888,23 @@ Drugi strokovni delavci morajo imeti ustrezno izobrazbo, in sicer:
 
 -organizator obveznih izbirnih vsebin izobrazbo, kot je predpisana za učitelje splošnoizobraževalnih oziroma strokovnoteoretičnih predmetov v gimnazijah,
 
--laborant najmanj srednjo ali srednjo strokovno izobrazbo ustrezne smeri in pedagoškoandragoško izobrazbo.
+-laborant najmanj srednjo ali srednjo strokovno izobrazbo ustrezne smeri in pedagoško-andragoško izobrazbo.
 
 [[END OF PAGE 41]]
 
 [[START OF PAGE 42]]
 
-##### Dom za učence in dijaški dom
+##### d) Dom za učence in dijaški dom
 
 ###### 98. člen (izobrazbeni pogoji)
 
 Strokovni  delavci  v  javnem  domu  za  učence  in  dijaškem  domu  so:  vzgojitelj, svetovalni delavec, knjižničar in drugi strokovni delavci.
 
-Vzgojitelj mora imeti izobrazbo ustrezne smeri, pridobljeno po študijskih programih za  pridobitev  izobrazbe  najmanj  prve  stopnje,  oziroma  raven  izobrazbe,  pridobljeno  po študijskih  programih, ki v skladu z zakonom ustreza izobrazbi prve stopnje, in pedagoškoandragoško izobrazbo.
+Vzgojitelj mora imeti izobrazbo ustrezne smeri, pridobljeno po študijskih programih za pridobitev izobrazbe najmanj prve stopnje, oziroma raven izobrazbe, pridobljeno po študijskih programih, ki v skladu z zakonom ustreza izobrazbi prve stopnje, in pedagoško-andragoško izobrazbo.
 
 Svetovalni delavec in knjižničar morata imeti izobrazbo ustrezne smeri, pridobljeno po  študijskih  programih  za  pridobitev  izobrazbe  druge  stopnje,  oziroma  raven  izobrazbe, pridobljeno po študijskih programih, ki v skladu z zakonom ustreza izobrazbi druge stopnje, in pedagoško-andragoško izobrazbo.
 
-##### Šole in zavodi za otroke in mladostnike s posebnimi potrebami
+##### e) Šole in zavodi za otroke in mladostnike s posebnimi potrebami
 
 ###### 99. člen (izobrazbeni pogoji)
 
@@ -1932,7 +1932,7 @@ Delavci,  ki  opravljajo  zdravstvene  in  socialno-varstvene  storitve,  morajo
 
 [[START OF PAGE 43]]
 
-##### Pedagoška oziroma pedagoško-andragoška izobrazba
+##### f) Pedagoška oziroma pedagoško-andragoška izobrazba
 
 ###### 100. člen
 
@@ -1960,7 +1960,7 @@ Kdor  ni  končal  izobraževanja  po  izobraževalnem  programu  poklicnega  oz
 
 Gostujoči tuji učitelj, ki v poklicnem in strokovnem izobraževanju, v gimnazijah ter v  glasbenih  šolah  za  določen  čas  opravlja  dele  programa  ali  sodeluje  pri  izvajanju osnovnošolskega  programa,  mora  izpolnjevati  pogoje,  kakršni  se  zahtevajo  za  to  delo  v državi, iz katere prihaja.
 
-##### Strokovni izpit
+##### h) Strokovni izpit
 
 ###### 102. člen
 
@@ -2014,11 +2014,13 @@ V  nazive  iz  prejšnjega  odstavka  napredujejo  tudi  ravnatelj,  direktor  i
 
 Pogoje, način in postopek strokovnega izobraževanja in usposabljanja ter napredovanja v nazive določi minister.
 
-Naziv  predavatelj  višje  šole  podeli  predavateljski  zbor  ustrezne  višje  strokovne šole  po  poprejšnjem  soglasju  Strokovnega  sveta  Republike  Slovenije  za  poklicno  in strokovno  izobraževanje.  Če  predavateljski  zbor  še  ni  konstituiran  ali  je  treba  imenovati predavatelje za izobraževalni program, ki ga šola na novo uvaja, naziv podeli Strokovni svet Republike Slovenije za poklicno in strokovno izobraževanje.
+Naziv predavatelj višje šole podeli predavateljski zbor ustrezne višje strokovne šole po poprejšnjem soglasju Strokovnega sveta Republike Slovenije za poklicno in strokovno izobraževanje. Če predavateljski zbor še ni konstituiran ali je treba imenovati
 
 [[END OF PAGE 44]]
 
 [[START OF PAGE 45]]
+
+predavatelje za izobraževalni program, ki ga šola na novo uvaja, naziv podeli Strokovni svet Republike Slovenije za poklicno in strokovno izobraževanje.
 
 Postopek za pridobitev naziva iz prejšnjega odstavka določi minister.
 
@@ -2036,7 +2038,7 @@ Javni  zavod,  ki  je  pooblaščen  za  izvajanje  programa  iz  prvega  odstav
 
 ### XVI. DELOVNO RAZMERJE
 
-#### Sklepanje delovnih razmerij
+#### 1. Sklepanje delovnih razmerij
 
 ###### 107. člen (predpisi)
 
@@ -2050,13 +2052,15 @@ Na področju vzgoje in izobraževanja ne more skleniti delovnega razmerja ozirom
 
 -je bila pravnomočno obsojena zaradi kaznivega dejanja zoper spolno nedotakljivost.
 
-Kazensko ovadbo, ki jo sestavi policija, ter poročilo v dopolnitev kazenske ovadbe, policija  pošlje  tudi  Inšpekciji  za  šolstvo,  če  so  podani  razlogi  za  sum,  da  je  zaposleni  na področju  vzgoje  in  izobraževanja  storil  kaznivo  dejanje  iz  prvega  odstavka  tega  člena. Pristojen inšpektor za šolstvo v skladu z Zakonom o šolski inšpekciji lahko izreče delavcu suspenz, če za to obstojijo z zakonom, ki ureja šolsko inšpekcijo, predpisani pogoji in sicer najdlje za čas poteka kazenskega postopka. Šolska inšpekcija je dolžna ovadbo ter poročilo v  dopolnitev  kazenske  ovadbe  obravnavati  kot  interno  gradivo,  ki  se  ga  po  prenehanju suspenza oziroma odločitvi, da se suspenz ne uvede, uniči.
+Kazensko ovadbo, ki jo sestavi policija, ter poročilo v dopolnitev kazenske ovadbe, policija pošlje tudi Inšpekciji za šolstvo, če so podani razlogi za sum, da je zaposleni na
 
 [[END OF PAGE 45]]
 
 [[START OF PAGE 46]]
 
-Sodišče vroči pravnomočno  sodno  odločbo, s katero je ugotovljen obstoj kaznivega  dejanja  iz  prvega  odstavka  tega  člena  vzgojno-izobraževalnemu  zavodu,  v katerem je obsojenec zaposlen oziroma opravlja delo. Odločba se osebno vroči poslovodnemu  organu  zavoda,  če  je  obsojena  oseba,  ki  opravlja  poslovodno  funkcijo,  pa predsedniku  sveta  zavoda.  Osebe,  ki  se  seznanijo  s  sodno  odločbo,  so  dolžne  varovati tajnost osebnih podatkov žrtve kaznivega dejanja in drugih posameznikov, ki niso pravnomočno obsojeni, ki so razvidni iz odločbe.
+področju vzgoje in izobraževanja storil kaznivo dejanje iz prvega odstavka tega člena. Pristojen inšpektor za šolstvo v skladu z Zakonom o šolski inšpekciji lahko izreče delavcu suspenz, če za to obstojijo z zakonom, ki ureja šolsko inšpekcijo, predpisani pogoji in sicer najdlje za čas poteka kazenskega postopka. Šolska inšpekcija je dolžna ovadbo ter poročilo v dopolnitev kazenske ovadbe obravnavati kot interno gradivo, ki se ga po prenehanju suspenza oziroma odločitvi, da se suspenz ne uvede, uniči.
+
+Sodišče vroči pravnomočno sodno odločbo, s katero je ugotovljen obstoj kaznivega dejanja iz prvega odstavka tega člena vzgojno-izobraževalnemu zavodu, v katerem je obsojenec zaposlen oziroma opravlja delo. Odločba se osebno vroči poslovodnemu organu zavoda, če je obsojena oseba, ki opravlja poslovodno funkcijo, pa predsedniku sveta zavoda. Osebe, ki se seznanijo s sodno odločbo, so dolžne varovati tajnost osebnih podatkov žrtve kaznivega dejanja in drugih posameznikov, ki niso pravnomočno obsojeni, ki so razvidni iz odločbe.
 
 Osebi, ki  je  pravnomočno obsojena za kaznivo dejanje iz prvega odstavka tega člena,  delodajalec  odpove  pogodbo  o  zaposlitvi  iz  krivdnih  razlogov  oziroma  iz  krivdnih razlogov odpove drugo pogodbo, na podlagi katere oseba opravlja delo.
 
@@ -2122,7 +2126,7 @@ Pripravnik je strokovni delavec, ki v vrtcu oziroma šoli prvič začne opravlja
 
 Pripravništvo traja največ 10 mesecev.
 
-Pripravnik v času  pripravništva sodeluje s strokovnimi delavci pri  vzgojnoizobraževalnem delu in se pripravlja na strokovni izpit.
+Pripravnik v času pripravništva sodeluje s strokovnimi delavci pri vzgojno-izobraževalnem delu in se pripravlja na strokovni izpit.
 
 Pripravnikovo delo vodi, spremlja in ocenjuje mentor.
 
@@ -2178,7 +2182,7 @@ Način in postopek izbire, razporeditev pripravnikov, potek in trajanje pripravn
 
 minister.
 
-#### Odpoved pogodbe o zaposlitvi iz poslovnih razlogov
+#### 3. Odpoved pogodbe o zaposlitvi iz poslovnih razlogov
 
 ###### 115. člen (razlogi)
 
@@ -2216,17 +2220,19 @@ mesta in za zasedbo katerih strokovni delavec iz prejšnjega člena izpolnjuje p
 
 ###### 118. člen (sklenitev pogodbe o zaposlitvi)
 
-Če so izpolnjeni pogoji za zaposlitev strokovnega delavca, ki mu bo odpovedana pogodba  o  zaposlitvi  iz  poslovnih  razlogov,  v  drugi  šoli  oziroma  vrtcu,  se  lahko  sklene delovno razmerje z delavcem brez objave prostega delovnega mesta. O sklenitvi delovnega razmerja  odloči  ravnatelj  šole  oziroma  vrtca,  ki  ima  prosto  delovno  mesto  in  strokovnemu delavcu ponudi pogodbo o zaposlitvi.
+Če so izpolnjeni pogoji za zaposlitev strokovnega delavca, ki mu bo odpovedana pogodba o zaposlitvi iz poslovnih razlogov, v drugi šoli oziroma vrtcu, se lahko sklene delovno razmerje z delavcem brez objave prostega delovnega mesta. O sklenitvi delovnega
 
 [[END OF PAGE 49]]
 
 [[START OF PAGE 50]]
 
-Pogodbo  o  zaposlitvi  mora  ravnatelj  šole  oziroma  vrtca,  ki  ima  prosto  delovno mesto,  strokovnemu  delavcu  ponuditi  najkasneje  30  dni  pred  iztekom  odpovednega  roka, sicer  pridobi  strokovni  delavec  vse  pravice,  ki  so  določene  za  primer  odpovedi  pogodbe o zaposlitvi iz poslovnih razlogov.
+razmerja odloči ravnatelj šole oziroma vrtca, ki ima prosto delovno mesto in strokovnemu delavcu ponudi pogodbo o zaposlitvi.
+
+Pogodbo o zaposlitvi mora ravnatelj šole oziroma vrtca, ki ima prosto delovno mesto, strokovnemu delavcu ponuditi najkasneje 30 dni pred iztekom odpovednega roka, sicer pridobi strokovni delavec vse pravice, ki so določene za primer odpovedi pogodbe o zaposlitvi iz poslovnih razlogov.
 
 Strokovni delavec je dolžan sprejeti ponudbo iz prvega odstavka tega člena, če so izpolnjeni pogoji za prezaposlitev strokovnega delavca, ki se določijo s kolektivno pogodbo za dejavnost  vzgoje  in izobraževanja, v 30  dneh  po  vročitvi.  Če  strokovni  delavec neupravičeno odkloni ponudbo, mu  preneha delovno razmerje in nima pravice do odpravnine.
 
-#### Delovna obveznost
+#### 4. Delovna obveznost
 
 ###### 119. člen (obseg vzgojno-izobraževalnega dela)
 
@@ -2326,7 +2332,7 @@ V  okviru  z  zakonom  in  s  kolektivno  pogodbo  določenega  tedenskega  poln
 
 [[START OF PAGE 52]]
 
-#### Dopust
+#### 5. Dopust
 
 ###### 125. člen (dopust)
 
@@ -2362,6 +2368,22 @@ Poslovanje sklada urejajo pravila sklada, ki jih sprejme upravni odbor s soglasj
 
 [[START OF PAGE 53]]
 
+(prenehal veljati)
+
+###### 129. člen
+
+(prenehal veljati)
+
+###### 130. člen
+
+(prenehal veljati)
+
+###### 131. člen
+
+(prenehal veljati)
+
+###### 132. člen (viri)
+
 Sklad pridobiva sredstva:
 
 -iz državnega proračuna,
@@ -2386,31 +2408,15 @@ Sredstva iz državnega proračuna se skladu zagotavljajo na podlagi letnega nač
 
 Šola ustanovi šolski sklad, iz katerega se financirajo dejavnosti, ki niso sestavina izobraževalnega programa, oziroma se ne financirajo iz javnih sredstev, nakup nadstandardne opreme, zviševanje standarda pouka in podobno.
 
-Sklad  iz  prejšnjega  odstavka  pridobiva  sredstva  iz  prispevkov  staršev,  donacij, zapuščin in iz drugih virov.
+Sklad iz prejšnjega odstavka pridobiva sredstva iz prispevkov staršev, donacij, zapuščin in iz drugih virov.
 
-Sklad  upravlja  upravni  odbor,  ki  ima  predsednika  in  šest  članov,  od  katerih  so najmanj  trije  predstavniki  šole.  Svet  staršev  imenuje  upravni  odbor.  Predstavnike  šole predlaga svet šole.
+Sklad upravlja upravni odbor, ki ima predsednika in šest članov, od katerih so najmanj trije predstavniki šole. Svet staršev imenuje upravni odbor. Predstavnike šole predlaga svet šole.
 
 Za delovanje sklada upravni odbor lahko sprejme pravila.
 
 Sklad lahko ustanovi tudi vrtec.
 
 ### XVII.A ZBIRKE PODATKOV
-
-(prenehal veljati)
-
-###### 129. člen
-
-(prenehal veljati)
-
-###### 130. člen
-
-(prenehal veljati)
-
-###### 131. člen
-
-(prenehal veljati)
-
-###### 132. člen (viri)
 
 [[END OF PAGE 53]]
 
@@ -2500,7 +2506,7 @@ Podatki iz centralne evidence se lahko posredujejo uporabnikom, ki so za njihovo
 
 Ministrstvo, pristojno za šolstvo, uporablja podatke iz centralne evidence tako, da se prikrijejo podatki o imenu in priimku, EMŠO, spolu, kraju in državi rojstva, državljanstvu ter stalnem oziroma začasnem prebivališču.
 
-Za  namen  ugotavljanja  upravičenosti  za  opravljanje  začasnih  in  občasnih  del dijakov, študentov in udeležencev izobraževanja odraslih so organizacije oziroma delodajalci, ki posredujejo začasna in občasna dela osebam iz drugega odstavka 6.b člena Zakona o zaposlovanju in zavarovanju za primer brezposelnosti (Uradni list RS, št. 107/06 uradno prečiščeno besedilo, 114/06 - ZUTPG, 59/07 - ZŠtip, 51/10 - odl. US, 80/10 - ZUTD in 95/14 - ZUJF-C), upravičene do naslednjih podatkov iz centralne evidence:
+Za namen ugotavljanja upravičenosti za opravljanje začasnih in občasnih del dijakov, študentov in udeležencev izobraževanja odraslih so organizacije oziroma delodajalci, ki posredujejo začasna in občasna dela osebam iz drugega odstavka 6.b člena Zakona o zaposlovanju in zavarovanju za primer brezposelnosti (Uradni list RS, št. 107/06 – uradno prečiščeno besedilo, 114/06 – ZUTPG, 59/07 – ZŠtip, 51/10 – odl. US, 80/10 – ZUTD in 95/14 – ZUJF-C), upravičene do naslednjih podatkov iz centralne evidence:
 
 [[END OF PAGE 55]]
 
@@ -2634,7 +2640,7 @@ Podatki  se  v  centralni  evidenci  zaposlenih  hranijo  do  prenehanja  zaposl
 
 ###### 135.e člen (hranjenje evidenc)
 
-Zasebni vzgojno-izobraževalni zavodi, ki prenehajo izvajati javno veljavni program, morajo  vsako  spremembo  v  zvezi  s  hranjenjem  evidenc  z  osebnimi  podatki  udeležencev vzgoje in izobraževanja in v zvezi z zbirko podatkov ter dokumentacijo za udeležence vzgoje in izobraževanja sporočiti ministrstvu, pristojnemu za šolstvo. V primeru prenehanja zasebnega  vzgojno-izobraževalnega zavoda prevzame  hranjenje evidenc njen pravni naslednik.  Zasebni  vzgojno-izobraževalni  zavod,  ki  nima  pravnega  naslednika  in  nima prevzemnika  hranjenja  evidenc,  ki  je  vpisan  v  razvid,  zaprosi  za  določitev  prevzemnika ministrstvo,  pristojno  za  šolstvo,  ob  uvedbi  postopka  prenehanja.  Minister  določi  vzgojnoizobraževalni zavod, ki bo prevzel hranjenje evidenc.
+Zasebni vzgojno-izobraževalni zavodi, ki prenehajo izvajati javno veljavni program, morajo vsako spremembo v zvezi s hranjenjem evidenc z osebnimi podatki udeležencev vzgoje in izobraževanja in v zvezi z zbirko podatkov ter dokumentacijo za udeležence vzgoje in izobraževanja sporočiti ministrstvu, pristojnemu za šolstvo. V primeru prenehanja zasebnega vzgojno-izobraževalnega zavoda prevzame hranjenje evidenc njen pravni naslednik. Zasebni vzgojno-izobraževalni zavod, ki nima pravnega naslednika in nima prevzemnika hranjenja evidenc, ki je vpisan v razvid, zaprosi za določitev prevzemnika ministrstvo, pristojno za šolstvo, ob uvedbi postopka prenehanja. Minister določi vzgojno-izobraževalni zavod, ki bo prevzel hranjenje evidenc.
 
 Prevzemnik iz prejšnjega odstavka mora biti določen pred prenehanjem
 
@@ -2656,9 +2662,9 @@ Z globo od 500 do 4.500 eurov se kaznuje za prekršek pravna oseba, ki opravlja 
 
 Z globo od 500 do 4.500 eurov se kaznuje za prekršek pravna oseba, ki zaposli za nedoločen čas strokovnega delavca, ki ne izpolnjuje izobrazbenih pogojev (94., 95., 96., 97., 98., 99. in 104. ter 146., 147. in 148. člen).
 
-- Z globo 1.000 evrov se kaznuje za prekršek pravna oseba če vzgojnoizobraževalni zavod ne izobesi zastave na predpisan način (peta alinea 2. člena). Z globo 500 evrov se kaznuje tudi odgovorna oseba pravne osebe, ki stori navedeni prekršek.
+Z globo 1.000 evrov se kaznuje za prekršek pravna oseba če vzgojno-izobraževalni zavod ne izobesi zastave na predpisan način (peta alinea 2. člena). Z globo 500 evrov se kaznuje tudi odgovorna oseba pravne osebe, ki stori navedeni prekršek.
 
-- Z globo od 500 do 4.500 eurov se kaznuje za prekršek pravna oseba:
+Z globo od 500 do 4.500 eurov se kaznuje za prekršek pravna oseba:
 
 -če opravlja dejavnost v nasprotju s tem zakonom (5., 6. in 7. člen);
 
@@ -2666,7 +2672,7 @@ Z globo od 500 do 4.500 eurov se kaznuje za prekršek pravna oseba, ki zaposli z
 
 -če pridobiva oziroma uporablja sredstva v nasprotju s tem zakonom (78., 80., 83., 88. in 89. člen).
 
-- Z  globo  od  150  do  4.100  evrov  se  kaznuje  za  prekršek  tudi  odgovorna  oseba pravne osebe, ki stori prekršek iz prvega, drugega in četrtega odstavka tega člena.
+Z globo od 150 do 4.100 evrov se kaznuje za prekršek tudi odgovorna oseba pravne osebe, ki stori prekršek iz prvega, drugega in četrtega odstavka tega člena.
 
 Z globo 150 do 1.000 evrov se kaznuje ravnatelj oziroma direktor, ki ne odpravi pomanjkljivosti  pri  izvrševanju  svojih  pristojnosti  (49.,  51.  člen),  ugotovljenih  z  inšpekcijsko odločbo.
 
@@ -2678,7 +2684,7 @@ Z  globo  od  2.000  do  4.000  evrov  se  kaznuje  za  prekršek  odgovorna  os
 
 Prekrška  iz  drugega  odstavka  in  tretje  alinee  četrtega  odstavka  tega  člena zastarata po preteku treh let od dneva, ko sta bila storjena.
 
-Zakon o organizaciji in financiranju vzgoje in izobraževanja - ZOFVI (Uradni list RS, št. 12/96) vsebuje naslednje prehodne in končne določbe:
+Zakon o organizaciji in financiranju vzgoje in izobraževanja – ZOFVI (Uradni list RS, št. 12/96) vsebuje naslednje prehodne in končne določbe:
 
 ### »XIX. PREHODNE IN KONČNE DOLOČBE
 
@@ -2686,7 +2692,7 @@ Zakon o organizaciji in financiranju vzgoje in izobraževanja - ZOFVI (Uradni li
 
 Dokler  ne  bodo  sprejeti  izobraževalni  programi  po  tem  zakonu  in  zakonih  za posamezna področja vzgoje in izobraževanja, se iz javnih sredstev zagotavljajo sredstva za izvajanje vzgojno-izobraževalnih programov, ki se izvajajo v javnih šolah in šolah s koncesijo, in sicer:
 
-- V osnovnem izobraževanju:
+1. V osnovnem izobraževanju:
 
 - program  življenja  in  dela  osnovne  šole,  vključno  z  uresničevanjem  posebnih  pravic pripadnikov italijanske in madžarske narodne skupnosti v skladu z zakonom,
 
@@ -2698,7 +2704,7 @@ Dokler  ne  bodo  sprejeti  izobraževalni  programi  po  tem  zakonu  in  zakon
 
 - program osnovne šole za odrasle.
 
-- V srednjem izobraževanju:
+2. V srednjem izobraževanju:
 
 - programi srednjega izobraževanja, vključno z uresničevanjem posebnih pravic pripadnikov italijanske in madžarske narodnosti v skladu z zakonom,
 
@@ -2708,9 +2714,9 @@ Dokler  ne  bodo  sprejeti  izobraževalni  programi  po  tem  zakonu  in  zakon
 
 - matura.
 
-- Iz državnega proračuna se v dosedanjem obsegu zagotavljajo sredstva tudi:
+Iz državnega proračuna se v dosedanjem obsegu zagotavljajo sredstva tudi:
 
-- za  dejavnosti,  potrebne  za  razvoj  in  učinkovito  opravljanje  vzgoje  in  izobraževanja,  in sicer:
+a) za dejavnosti, potrebne za razvoj in učinkovito opravljanje vzgoje in izobraževanja, in sicer:
 
 - raziskovalno in razvojno-proučevalno delo ter eksperimentalno dejavnost,
 
@@ -2724,7 +2730,7 @@ Dokler  ne  bodo  sprejeti  izobraževalni  programi  po  tem  zakonu  in  zakon
 
 - tekmovanja učencev, vajencev in dijakov v znanju;
 
-- in sredstva za:
+b) in sredstva za:
 
 - štipendiranje za pedagoške poklice,
 
@@ -2820,7 +2826,7 @@ Ravnatelji  oziroma  pomočniki  ravnateljev  vrtcev  in  šol,  ki  ne  izpolnj
 
 (učitelji in vzgojitelji)
 
-Učitelji  v  osnovni  in  glasbeni  šoli,  v  gimnaziji  in  v  poklicni,  strokovni  ter  tehniški srednji šoli in vzgojitelji v domu za učence ter dijaškem domu, ki so izpolnjevali z zakonom določene  pogoje  za  opravljanje  vzgojno-izobraževalnega  dela  v  osnovni  in  glasbeni  šoli, zavodu za vzgojo in izobraževanje otrok in mladostnikov s posebnimi potrebami, gimnaziji in v  poklicni,  strokovni  in  tehniški  srednji  šoli  ter  v  dijaškem  domu,  lahko  opravljajo  vzgojnoizobraževalno delo tudi po uveljavitvi tega zakona.
+Učitelji v osnovni in glasbeni šoli, v gimnaziji in v poklicni, strokovni ter tehniški srednji šoli in vzgojitelji v domu za učence ter dijaškem domu, ki so izpolnjevali z zakonom določene pogoje za opravljanje vzgojno-izobraževalnega dela v osnovni in glasbeni šoli, zavodu za vzgojo in izobraževanje otrok in mladostnikov s posebnimi potrebami, gimnaziji in v poklicni, strokovni in tehniški srednji šoli ter v dijaškem domu, lahko opravljajo vzgojno-izobraževalno delo tudi po uveljavitvi tega zakona.
 
 Zmanjšana  učna  obveznost  za  učitelje  slovenskega  jezika,  določena  s  tem zakonom, se uveljavi v šolskem letu 1998/99.
 
@@ -2890,35 +2896,35 @@ V  proračunskem  letu  1995  se  za  financiranje  uporabljajo  določbe  zakon
 
 Do sprejema podzakonskih predpisov, določenih s tem zakonom, se uporabljajo podzakonski predpisi, ki so veljali do uveljavitve tega zakona, razen določb, ki so v nasprotju s tem zakonom, in sicer:
 
-- Pravilnik  o  postopku  verifikacije  izobraževalnih  organizacij  ter  o  vsebini  in  načinu vodenja razvida izobraževalnih organizacij (Uradni list SRS, št. 5/81),
+1. Pravilnik o postopku verifikacije izobraževalnih organizacij ter o vsebini in načinu vodenja razvida izobraževalnih organizacij (Uradni list SRS, št. 5/81),
 
-- Pravilnik o pogojih za opravljanje izobraževalne dejavnosti z osebnim delom (Uradni list SRS, št. 22/90),
+2. Pravilnik o pogojih za opravljanje izobraževalne dejavnosti z osebnim delom (Uradni list SRS, št. 22/90),
 
-- Pravilnik o učbenikih (Uradni list RS, št. 15/93 in 18/93),
+3. Pravilnik o učbenikih (Uradni list RS, št. 15/93 in 18/93),
 
-- Pravilnik o pripravništvu in strokovnih izpitih delavcev na področju vzgoje in izobraževanja (Uradni list SRS, št. 20/80),
+4. Pravilnik o pripravništvu in strokovnih izpitih delavcev na področju vzgoje in izobraževanja (Uradni list SRS, št. 20/80),
 
-- Pravilnik  o  napredovanju  zaposlenih  v  osnovnem  in  srednjem  izobraževanju  v  nazive (Uradni list RS, št. 41/94),
+5. Pravilnik o napredovanju zaposlenih v osnovnem in srednjem izobraževanju v nazive (Uradni list RS, št. 41/94),
 
-- Sklep o določitvi normativov in standardov za opravljanje vzgojno-izobraževalne dejavnosti v osnovnih šolah, glasbenih šolah in domovih za učence osnovnih šol (Uradni list RS, št. 4/92),
+6. Sklep o določitvi normativov in standardov za opravljanje vzgojno-izobraževalne dejavnosti v osnovnih šolah, glasbenih šolah in domovih za učence osnovnih šol (Uradni list RS, št. 4/92),
 
-- Sklep o določitvi normativov in standardov za opravljanje vzgoje in izobraževanja otrok in mladostnikov z motnjami v razvoju v vzgojno-izobraževalnih zavodih (Uradni list RS, št. 4/92),
+7. Sklep o določitvi normativov in standardov za opravljanje vzgoje in izobraževanja otrok in mladostnikov z motnjami v razvoju v vzgojno-izobraževalnih zavodih (Uradni list RS, št. 4/92),
 
-- Sklep o določitvi normativov in standardov za opravljanje vzgojno-izobraževalne dejavnosti v srednjih šolah (Uradni list RS, št. 4/92, 7/92 in 33/95).
+8. Sklep o določitvi normativov in standardov za opravljanje vzgojno-izobraževalne dejavnosti v srednjih šolah (Uradni list RS, št. 4/92, 7/92 in 33/95).
 
 ###### 157. člen (prenehanje veljavnosti zakona)
 
 Z dnem uveljavitve tega zakona prenehata veljati:
 
-- Zakon o svobodni menjavi dela na področju vzgoje in izobraževanja (Uradni list SRS, št. 1/80, 25/89, 32/89 in Uradni list RS, št. 12/91-I) in
+1. Zakon o svobodni menjavi dela na področju vzgoje in izobraževanja (Uradni list SRS, št. 1/80, 25/89, 32/89 in Uradni list RS, št. 12/91-I) in
 
-- Zakon o organizaciji in financiranju vzgoje in izobraževanja (Uradni list RS, št. 12/91-I), razen določb 61. in 64. člena.
+2. Zakon o organizaciji in financiranju vzgoje in izobraževanja (Uradni list RS, št. 12/91-I), razen določb 61. in 64. člena.
 
 ###### 158. člen (uveljavitev)
 
 Ta  zakon  začne  veljati  petnajsti  dan  po  objavi  v  Uradnem  listu  Republike Slovenije.«.
 
-Zakon o javnih  skladih  -  ZJS  (Uradni  list  RS,  št.  22/00)  spreminja  140.  člen  zakona tako, da se glasi:
+Zakon o javnih skladih – ZJS (Uradni list RS, št. 22/00) spreminja 140. člen zakona tako, da se glasi:
 
 ###### »140. člen (uskladitev aktov)
 
@@ -2942,7 +2948,7 @@ ter vsebuje naslednjo končno določbo:
 
 Ta  zakon  začne  veljati  petnajsti  dan  po  objavi  v  Uradnem  listu  Republike Slovenije.«.
 
-Zakon o spremembah in dopolnitvah zakona o organizaciji in financiranju vzgoje in izobraževanja - ZOFVI-A (Uradni list RS, št. 64/01) spreminja 139. člen zakona tako, da se glasi:
+Zakon o spremembah in dopolnitvah zakona o organizaciji in financiranju vzgoje in izobraževanja – ZOFVI-A (Uradni list RS, št. 64/01) spreminja 139. člen zakona tako, da se glasi:
 
 ###### »139. člen (uskladitev organizacije vrtcev)
 
@@ -2952,7 +2958,7 @@ spreminja 146. člen zakona tako, da se glasi:
 
 ###### »146. člen (učitelji in vzgojitelji)
 
-Učitelji  v  osnovni  in  glasbeni  šoli,  v  gimnaziji  in  v  poklicni,  strokovni  ter  tehniški srednji šoli in vzgojitelji v domu za učence ter dijaškem domu, ki so izpolnjevali z zakonom določene  pogoje  za  opravljanje  vzgojno-izobraževalnega  dela  v  osnovni  in  glasbeni  šoli, zavodu za vzgojo in izobraževanje otrok in mladostnikov s posebnimi potrebami, gimnaziji in v  poklicni,  strokovni  in  tehniški  srednji  šoli  ter  v  dijaškem  domu,  lahko  opravljajo  vzgojnoizobraževalno delo tudi po uveljavitvi tega zakona.
+Učitelji v osnovni in glasbeni šoli, v gimnaziji in v poklicni, strokovni ter tehniški srednji šoli in vzgojitelji v domu za učence ter dijaškem domu, ki so izpolnjevali z zakonom določene pogoje za opravljanje vzgojno-izobraževalnega dela v osnovni in glasbeni šoli, zavodu za vzgojo in izobraževanje otrok in mladostnikov s posebnimi potrebami, gimnaziji in v poklicni, strokovni in tehniški srednji šoli ter v dijaškem domu, lahko opravljajo vzgojno-izobraževalno delo tudi po uveljavitvi tega zakona.
 
 Vzgojitelji  v  vrtcih,  ki  so  izpolnjevali  pogoje  za  opravljanje  dela  v  vrtcih  pred uveljavitvijo  tega  zakona,  lahko  opravljajo  delo  vzgojitelja  v  prvem  razredu  devetletne osnovne šole.
 
@@ -2990,7 +2996,7 @@ ter vsebuje naslednje prehodne in končne določbe:
 
 ###### 43. člen (prehodni pogoji za ravnatelje in pomočnike ravnateljev)
 
-Ravnatelji šol, ki imajo na dan uveljavitve tega zakona višješolsko izobrazbo, ki so si jo pridobili po programih, sprejetih pred uveljavitvijo zakona o visokem šolstvu (Uradni list RS,  št.  67/93,  39/95  -  odločba  US,  18/98  -  odločba  US,  35/98  -  odločba  US  in  99/99), petindvajset  let  delovne  dobe  in  so  opravljali  funkcijo  ravnatelja  najmanj  dva  mandata,  so lahko  ne  glede  na  določbo  drugega  odstavka  53.  člena  zakona  ponovno  imenovani  za ravnatelja, če izpolnjujejo druge pogoje za ravnatelja po določbi tega člena.
+Ravnatelji šol, ki imajo na dan uveljavitve tega zakona višješolsko izobrazbo, ki so si jo pridobili po programih, sprejetih pred uveljavitvijo zakona o visokem šolstvu (Uradni list RS, št. 67/93, 39/95 – odločba US, 18/98 – odločba US, 35/98 – odločba US in 99/99), petindvajset let delovne dobe in so opravljali funkcijo ravnatelja najmanj dva mandata, so lahko ne glede na določbo drugega odstavka 53. člena zakona ponovno imenovani za ravnatelja, če izpolnjujejo druge pogoje za ravnatelja po določbi tega člena.
 
 Ravnatelji, ki ne izpolnjujejo pogojev iz prejšnjega odstavka in so bili do uveljavitve tega  zakona  imenovani  za  ravnatelja  v  skladu  s  144.  členom  zakona  so  lahko  ponovno
 
@@ -3024,7 +3030,7 @@ Z  dnem  uveljavitve  tega  zakona  prenehata  veljati  določbi  drugega  in  t
 
 Ta  zakon  začne  veljati  petnajsti  dan  po  objavi  v  Uradnem  listu  Republike Slovenije.«.
 
-Zakon o spremembah in dopolnitvah zakona o organizaciji in financiranju vzgoje in izobraževanja  -  ZOFVI-B  (Uradni  list  RS,  št.  108/02)  vsebuje  naslednjo  prehodno  in končno določbo:
+Zakon o spremembah in dopolnitvah zakona o organizaciji in financiranju vzgoje in izobraževanja – ZOFVI-B (Uradni list RS, št. 108/02) vsebuje naslednjo prehodno in končno določbo:
 
 ###### »4. člen
 
@@ -3044,7 +3050,7 @@ Podrobnejša navodila za izvajanje nalog ter krajevno pristojnost enot iz prejš
 
 Ta  zakon  začne  veljati  petnajsti  dan  po  objavi  v  Uradnem  listu  Republike Slovenije.«.
 
-Zakon  o  dopolnitvi  zakona  o  organizaciji  in  financiranju  vzgoje  in  izobraževanja  ZOFVI-C (Uradni list RS, št. 34/03) vsebuje naslednjo prehodno in končno določbo:
+Zakon o dopolnitvi zakona o organizaciji in financiranju vzgoje in izobraževanja – ZOFVI-C (Uradni list RS, št. 34/03) vsebuje naslednjo prehodno in končno določbo:
 
 ###### »2. člen
 
@@ -3054,7 +3060,7 @@ Minister,  pristojen  za  šolstvo,  izda  v  roku  30  dni  od  uveljavitve  te
 
 Ta  zakon  začne  veljati  petnajsti  dan  po  objavi  v  Uradnem  listu  Republike Slovenije, uporabljati pa se začne 1. septembra 2003.«.
 
-Zakon o spremembah in dopolnitvah zakona o organizaciji in financiranju vzgoje in izobraževanja  -  ZOFVI-D  (Uradni  list  RS,  št.  79/03)  vsebuje  naslednje  prehodne  in končne določbe:
+Zakon o spremembah in dopolnitvah zakona o organizaciji in financiranju vzgoje in izobraževanja – ZOFVI-D (Uradni list RS, št. 79/03) vsebuje naslednje prehodne in končne določbe:
 
 ### »PREHODNE IN KONČNE DOLOČBE
 
@@ -3082,7 +3088,7 @@ Do določitve pogojev v skladu s tretjim odstavkom 9. člena tega zakona strokov
 
 Ta  zakon  začne  veljati  naslednji  dan  po  objavi  v  Uradnem  listu  Republike Slovenije.«.
 
-Zakon o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja  -  ZOFVI-E  (Uradni  list  RS,  št.  65/05)  vsebuje  naslednje  prehodne  in končne določbe:
+Zakon o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja – ZOFVI-E (Uradni list RS, št. 65/05) vsebuje naslednje prehodne in končne določbe:
 
 ###### »6. člen
 
@@ -3090,7 +3096,7 @@ V  Zakonu  o  spremembah  in  dopolnitvah  Zakona  o  organizaciji  in  financir
 
 ###### 7. člen
 
-Naloge šolskih uprav, določene z Zakonom o organizaciji in financiranju vzgoje in izobraževanja (Uradni list RS, št. 12/96, 23/96 - popr., 22/00 - ZJS, 64/01, 108/02, 34/03 in 79/03) in drugimi zakoni ter na njihovi podlagi sprejetimi predpisi, z dnem uveljavitve tega zakona opravlja ministrstvo, pristojno za predšolsko vzgojo oziroma šolstvo.
+Naloge šolskih uprav, določene z Zakonom o organizaciji in financiranju vzgoje in izobraževanja (Uradni list RS, št. 12/96, 23/96 – popr., 22/00 – ZJS, 64/01, 108/02, 34/03 in 79/03) in drugimi zakoni ter na njihovi podlagi sprejetimi predpisi, z dnem uveljavitve tega zakona opravlja ministrstvo, pristojno za predšolsko vzgojo oziroma šolstvo.
 
 Ne glede na določbo prejšnjega odstavka z dnem uveljavitve tega zakona enote Zavoda  Republike  Slovenije  za  šolstvo  nadaljujejo  z  opravljanjem  nalog  šolskih  uprav  po določbah Zakona o usmerjanju otrok s posebnimi potrebami (Uradni list RS, št. 54/00), in sicer do prevzema nalog s strani ministrstva, pristojnega za šolstvo.
 
@@ -3108,11 +3114,11 @@ Z  uveljavitvijo  tega  zakona  preneha  veljati  Odredba  o  določitvi  okoli�
 
 Ta  zakon  začne  veljati  naslednji  dan  po  objavi  v  Uradnem  listu  Republike Slovenije.«.
 
-Zakon  o  spremembah  in  dopolnitvah  Zakona  o  usmerjanju  otrok  s  posebnimi potrebami  -  ZUOPP-A  (Uradni  list  RS,  št.  118/06)  spreminja  7.  člen  Zakona  o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja - ZOFVI-E (Uradni list RS, št. 65/05) tako, da se glasi:
+Zakon o spremembah in dopolnitvah Zakona o usmerjanju otrok s posebnimi potrebami – ZUOPP-A (Uradni list RS, št. 118/06) spreminja 7. člen Zakona o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja – ZOFVI-E (Uradni list RS, št. 65/05) tako, da se glasi:
 
 ###### »7. člen
 
-Naloge šolskih uprav, določene z Zakonom o organizaciji in financiranju vzgoje in izobraževanja (Uradni list RS, št. 12/96, 23/96 - popr., 22/00 - ZJS, 64/01, 108/02, 34/03 in 79/03) in drugimi zakoni ter na njihovi podlagi sprejetimi predpisi, z dnem uveljavitve tega zakona opravlja ministrstvo, pristojno za predšolsko vzgojo oziroma šolstvo.«;
+Naloge šolskih uprav, določene z Zakonom o organizaciji in financiranju vzgoje in izobraževanja (Uradni list RS, št. 12/96, 23/96 – popr., 22/00 – ZJS, 64/01, 108/02, 34/03 in 79/03) in drugimi zakoni ter na njihovi podlagi sprejetimi predpisi, z dnem uveljavitve tega zakona opravlja ministrstvo, pristojno za predšolsko vzgojo oziroma šolstvo.«;
 
 ter vsebuje naslednjo končno določbo:
 
@@ -3120,7 +3126,7 @@ ter vsebuje naslednjo končno določbo:
 
 Ta  zakon  začne  veljati  petnajsti  dan  po  objavi  v  Uradnem  listu  Republike Slovenije, uporabljati pa se začne 1. januarja 2007.«.
 
-Zakon o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja  -  ZOFVI-F  (Uradni  list  RS,  št.  129/06)  vsebuje  naslednje  prehodne  in končne določbe:
+Zakon o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja – ZOFVI-F (Uradni list RS, št. 129/06) vsebuje naslednje prehodne in končne določbe:
 
 ### »PREHODNE IN KONČNE DOLOČBE
 
@@ -3146,7 +3152,7 @@ Oseba,  ki  v  času  uveljavitve  tega  zakona  opravlja  funkcijo  vršilca  d
 
 Ta  zakon  začne  veljati  petnajsti  dan  po  objavi  v  Uradnem  listu  Republike Slovenije.«.
 
-Zakon o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja  -  ZOFVI-G  (Uradni  list  RS,  št.  36/08)  vsebuje  naslednje  prehodne  in končne določbe:
+Zakon o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja – ZOFVI-G (Uradni list RS, št. 36/08) vsebuje naslednje prehodne in končne določbe:
 
 ### »PREHODNE IN KONČNE DOLOČBE
 
@@ -3166,7 +3172,7 @@ Ravnatelji šol, ki nimajo šolskih skladov, so dolžni izvesti vse potrebno za 
 
 (strokovni delavci)
 
-Strokovni  delavci,  ki  so  do  uveljavitve  tega  zakona  izpolnjevali  z  zakonom  in drugimi  predpisi  določene  pogoje  za  opravljanje  vzgojno-izobraževalnega  dela  v  vzgojnoizobraževalnih zavodih,  lahko tudi po uveljavitvi  tega zakona še naprej opravljajo vzgojnoizobraževalno delo, in sicer do prenehanja neprekinjenega delovnega razmerja na področju vzgoje in izobraževanja.
+Strokovni delavci, ki so do uveljavitve tega zakona izpolnjevali z zakonom in drugimi predpisi določene pogoje za opravljanje vzgojno-izobraževalnega dela v vzgojno-izobraževalnih zavodih, lahko tudi po uveljavitvi tega zakona še naprej opravljajo vzgojno-izobraževalno delo, in sicer do prenehanja neprekinjenega delovnega razmerja na področju vzgoje in izobraževanja.
 
 ###### 43. člen
 
@@ -3180,15 +3186,15 @@ Financiranje na podlagi metodologije za določanje obsega sredstev na udeleženc
 
 Ta  zakon  začne  veljati  petnajsti  dan  po  objavi  v  Uradnem  listu  Republike Slovenije.«.
 
-Zakon o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja - ZOFVI-H (Uradni list RS, št. 58/09) spreminja 146. člen zakona tako, da se glasi:
+Zakon o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja – ZOFVI-H (Uradni list RS, št. 58/09) spreminja 146. člen zakona tako, da se glasi:
 
 ###### »146. člen
 
 (učitelji in vzgojitelji)
 
-Učitelji  v  osnovni  in  glasbeni  šoli,  v  gimnaziji  in  v  poklicni,  strokovni  ter  tehniški srednji šoli in vzgojitelji v domu za učence ter dijaškem domu, ki so izpolnjevali z zakonom določene  pogoje  za  opravljanje  vzgojno-izobraževalnega  dela  v  osnovni  in  glasbeni  šoli, zavodu za vzgojo in izobraževanje otrok in mladostnikov s posebnimi potrebami, gimnaziji in v  poklicni,  strokovni  in  tehniški  srednji  šoli  ter  v  dijaškem  domu,  lahko  opravljajo  vzgojnoizobraževalno delo tudi po uveljavitvi tega zakona.
+Učitelji v osnovni in glasbeni šoli, v gimnaziji in v poklicni, strokovni ter tehniški srednji šoli in vzgojitelji v domu za učence ter dijaškem domu, ki so izpolnjevali z zakonom določene pogoje za opravljanje vzgojno-izobraževalnega dela v osnovni in glasbeni šoli, zavodu za vzgojo in izobraževanje otrok in mladostnikov s posebnimi potrebami, gimnaziji in v poklicni, strokovni in tehniški srednji šoli ter v dijaškem domu, lahko opravljajo vzgojno-izobraževalno delo tudi po uveljavitvi tega zakona.
 
-Strokovni delavci iz prvega odstavka tega člena imajo pravico opravljati vzgojnoizobraževalno  delo  do  prenehanja  neprekinjenega  opravljanja  dela  na  področju  vzgoje  in izobraževanja. Trimesečna  ali krajša prekinitev ne pomeni  prekinitve neprekinjenega opravljanja  dela  na  področju  vzgoje  in  izobraževanja.  Učitelji  v  osnovni  in  glasbeni  šoli,  v gimnaziji in v poklicni, strokovni ter tehniški srednji šoli in vzgojitelji v domu za učence ter dijaškem  domu  iz  tega  člena  na  razpisih  za  prosta  delovna  mesta  na  področju  vzgoje  in izobraževanja enakovredno kandidirajo in se zaposlujejo kot kandidati, ki imajo z zakonom in drugimi predpisi določeno izobrazbo.
+Strokovni delavci iz prvega odstavka tega člena imajo pravico opravljati vzgojno-izobraževalno delo do prenehanja neprekinjenega opravljanja dela na področju vzgoje in izobraževanja. Trimesečna ali krajša prekinitev ne pomeni prekinitve neprekinjenega opravljanja dela na področju vzgoje in izobraževanja. Učitelji v osnovni in glasbeni šoli, v gimnaziji in v poklicni, strokovni ter tehniški srednji šoli in vzgojitelji v domu za učence ter dijaškem domu iz tega člena na razpisih za prosta delovna mesta na področju vzgoje in izobraževanja enakovredno kandidirajo in se zaposlujejo kot kandidati, ki imajo z zakonom in drugimi predpisi določeno izobrazbo.
 
 Določba  drugega  odstavka  tega  člena  se  uporablja  tudi  za  druge  strokovne delavce, ki imajo v skladu z zakonom pravico opravljati vzgojno-izobraževalno delo iz istih razlogov kot strokovni delavci iz prvega odstavka tega člena.
 
@@ -3202,7 +3208,7 @@ Zmanjšana  učna  obveznost  za  učitelje  slovenskega  jezika,  določena  s 
 
 Ne glede na določbo petega odstavka 110. člena tega zakona je lahko v šolskih letih  1995/96  in  1996/97  mentor  pripravniku  le  strokovni  delavec,  ki  ima  naziv  svetnik oziroma svetovalec.«;
 
-spreminja  11.  člen  Zakona  o  spremembah  in  dopolnitvah  zakona  o  organizaciji  in financiranju vzgoje in izobraževanja - ZOFVI-D (Uradni list RS, št. 79/03) tako, da se glasi:
+spreminja 11. člen Zakona o spremembah in dopolnitvah zakona o organizaciji in financiranju vzgoje in izobraževanja – ZOFVI-D (Uradni list RS, št. 79/03) tako, da se glasi:
 
 ###### »11. člen
 
@@ -3224,9 +3230,7 @@ ter vsebuje naslednje prehodne in končne določbe:
 
 ###### 9. člen (kandidati za ravnatelje)
 
-Ne glede na določbo 53. člena zakona je lahko za ravnatelja javne šole imenovan tudi, kdor lahko v skladu s 146. oziroma 148. členom Zakona o organizaciji in financiranju vzgoje  in  izobraževanja  (Uradni  list  RS,  št.  12/96),  42.  členom  Zakona  o  spremembah  in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja (Uradni list RS, št. ali svetovalnega delavca na šoli, na kateri bo opravljal naloge ravnatelja, ima ob uveljavitvi tega zakona izobrazbo najmanj druge stopnje oziroma raven izobrazbe, ki v skladu z zakonom
-
-36/2008) in 10. člena tega zakona opravlja vzgojno-izobraževalno delo učitelja ustreza izobrazbi najmanj druge stopnje, in izpolnjuje druge pogoje za ravnatelja šole.
+Ne glede na določbo 53. člena zakona je lahko za ravnatelja javne šole imenovan tudi, kdor lahko v skladu s 146. oziroma 148. členom Zakona o organizaciji in financiranju vzgoje in izobraževanja (Uradni list RS, št. 12/96), 42. členom Zakona o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja (Uradni list RS, št. 36/2008) in 10. člena tega zakona opravlja vzgojno-izobraževalno delo učitelja ali svetovalnega delavca na šoli, na kateri bo opravljal naloge ravnatelja, ima ob uveljavitvi tega zakona izobrazbo najmanj druge stopnje oziroma raven izobrazbe, ki v skladu z zakonom ustreza izobrazbi najmanj druge stopnje, in izpolnjuje druge pogoje za ravnatelja šole.
 
 ###### 10. člen
 
@@ -3258,7 +3262,7 @@ Sveti javnih vrtcev in šol nadaljujejo svoje delo do poteka mandata. Članom sv
 
 Ta  zakon  začne  veljati  petnajsti  dan  po  objavi  v  Uradnem  listu  Republike Slovenije.«.
 
-Zakon o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja  -  ZOFVI-I  (Uradni  list  RS,  št.  20/11)  vsebuje  naslednji  prehodni  in končno določbo:
+Zakon o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja – ZOFVI-I (Uradni list RS, št. 20/11) vsebuje naslednji prehodni in končno določbo:
 
 [[END OF PAGE 75]]
 
@@ -3266,15 +3270,15 @@ Zakon o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje i
 
 ### »PREHODNI IN KONČNA DOLOČBA
 
-###### člen
+###### 3. člen
 
 (vzpostavitev evidence)
 
-- Centralna evidenca se vzpostavi najkasneje do 1. septembra 2011.
+(1) Centralna evidenca se vzpostavi najkasneje do 1. septembra 2011.
 
-- Do  vzpostavitve centralne evidence  pridobi vzgojno-izobraževalni  zavod podatke  iz  tretjega  odstavka  135.a  člena  za  svoje  udeležence  vzgoje  in  izobraževanja neposredno iz centralne zbirke podatkov o pravicah iz javnih sredstev.
+(2) Do  vzpostavitve centralne evidence  pridobi vzgojno-izobraževalni  zavod podatke  iz  tretjega  odstavka  135.a  člena  za  svoje  udeležence  vzgoje  in  izobraževanja neposredno iz centralne zbirke podatkov o pravicah iz javnih sredstev.
 
-###### člen
+###### 4. člen
 
 (podzakonski predpis)
 
@@ -3284,7 +3288,7 @@ Predpis iz petega odstavka 135.c člena zakona sprejme minister najkasneje do 1.
 
 Ta  zakon  začne  veljati  petnajsti  dan  po  objavi  v  Uradnem  listu  Republike Slovenije.«.
 
-Zakon za uravnoteženje javnih financ - ZUJF (Uradni list RS, št. 40/12) določa tudi:
+Zakon za uravnoteženje javnih financ – ZUJF (Uradni list RS, št. 40/12) določa tudi:
 
 ### »V. DEL
 
@@ -3296,7 +3300,7 @@ Zakon za uravnoteženje javnih financ - ZUJF (Uradni list RS, št. 40/12) določ
 
 Vlada  Republike  Slovenije  mora  akte  o  ustanovitvi  javnih  zavodov  iz  drugega odstavka 28. člena zakona sprejeti do 1. januarja 2013.
 
-Do uveljavitve aktov o ustanovitvi iz prejšnjega odstavka izvajajo naloge, določene v  28.  členu  zakona,  javni  zavodi,  ustanovljeni  na  podlagi  28.,  29.  in  106.  člena  Zakona  o organizaciji  in  financiranju  vzgoje  in  izobraževanja  (Uradni  list  RS,  št.  16/07  -  uradno prečiščeno  besedilo,  118/06  -  ZUOPP,  36/08,  58/09,  64/09  -  popr.  in  65/09  -  popr.  in 20/11).«;
+Do uveljavitve aktov o ustanovitvi iz prejšnjega odstavka izvajajo naloge, določene v  28.  členu  zakona,  javni  zavodi,  ustanovljeni  na  podlagi  28.,  29.  in  106.  člena  Zakona  o organizaciji  in  financiranju  vzgoje  in  izobraževanja  (Uradni  list  RS,  št.  16/07  –  uradno prečiščeno  besedilo,  118/06  –  ZUOPP,  36/08,  58/09,  64/09  –  popr.  in  65/09  –  popr.  in 20/11).«;
 
 ter vsebuje naslednjo končno določbo:
 
@@ -3312,13 +3316,13 @@ ter vsebuje naslednjo končno določbo:
 
 Ta  zakon  začne  veljati  naslednji  dan  po  objavi  v  Uradnem  listu  Republike Slovenije.«.
 
-Zakon o spremembah in dopolnitvah Zakona o prevozih v cestnem prometu - ZPCP2D (Uradni list RS, št. 57/12) vsebuje naslednjo končno določbo:
+Zakon o spremembah in dopolnitvah Zakona o prevozih v cestnem prometu – ZPCP-2D (Uradni list RS, št. 57/12) vsebuje naslednjo končno določbo:
 
 ###### »15. člen (začetek veljavnosti in uporabe)
 
 Ta  zakon  začne  veljati  naslednji  dan  po  objavi  v  Uradnem  listu  Republike Slovenije, uporabljati pa se začne 20. avgusta 2012.«.
 
-Zakon o spremembi Zakona o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja - ZOFVI-J (Uradni list RS, št. 47/15) spreminja 11. člen Zakona o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja (Uradni list RS, št. 79/03 in 58/09) tako, da se glasi:
+Zakon o spremembi Zakona o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja – ZOFVI-J (Uradni list RS, št. 47/15) spreminja 11. člen Zakona o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja (Uradni list RS, št. 79/03 in 58/09) tako, da se glasi:
 
 ###### »11. člen
 
@@ -3326,7 +3330,7 @@ Do  zaključka  šolskega  leta  2017/2018  lahko  strokovni  delavci,  ki  imaj
 
 Obseg dopolnjevanja iz prvega odstavka tega člena v šolskem letu 2015/2016 ne sme presegati 40 odstotkov, v šolskem letu 2016/2017 ne več kot 30 odstotkov in v šolskem letu  2017/2018  ne  več  kot  20  odstotkov  zakonsko  določenega  obsega  učne  obveznosti strokovnega delavca.
 
-Za določitev osnovne plače delavca se v primeru iz prvega odstavka tega člena smiselno uporabljajo določbe 14. člena zakona o sistemu plač v javnem sektorju (Uradni list RS,  št.  108/09  -  uradno  prečiščeno  besedilo,  13/10,  59/10,  85/10,  107/10,  35/11  ORZSPJS49a,  27/12  -  odl.  US,  40/12  -  ZUJF,  46/13,  25/14  -  ZFU,  50/14,  95/14  ZUPPJS15).«;
+Za določitev osnovne plače delavca se v primeru iz prvega odstavka tega člena smiselno uporabljajo določbe 14. člena zakona o sistemu plač v javnem sektorju (Uradni list RS,  št.  108/09  –  uradno  prečiščeno  besedilo,  13/10,  59/10,  85/10,  107/10,  35/11  – ORZSPJS49a,  27/12  –  odl.  US,  40/12  –  ZUJF,  46/13,  25/14  –  ZFU,  50/14,  95/14  – ZUPPJS15).«;
 
 [[END OF PAGE 77]]
 
@@ -3338,7 +3342,7 @@ ter vsebuje naslednjo končno določbo:
 
 Ta  zakon  začne  veljati  petnajsti  dan  po  objavi  v  Uradnem  listu  Republike Slovenije, uporabljati pa se začne 1. septembra 2015.«.
 
-Zakon o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja  -  ZOFVI-K  (Uradni  list  RS,  št.  46/16)  vsebuje  naslednje  prehodne  in končne določbe:
+Zakon o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja  –  ZOFVI-K  (Uradni  list  RS,  št.  46/16)  vsebuje  naslednje  prehodne  in končne določbe:
 
 ### »PREHODNE IN KONČNE DOLOČBE
 
@@ -3348,13 +3352,13 @@ Ne  glede na določbe 99. člena zakona strokovni delavci v javnoveljavnih progr
 
 ###### 13. člen (začetek uporabe poglavja »XVII.A ZBIRKE PODATKOV«)
 
-Novi poglavje »XVII.A ZBIRKE PODATKOV« ter členi 135.a, 135.b, 135.c, 135.č, 135.d in 135.e se začnejo uporabljati tri leta od dneva uveljavitve tega zakona. Do takrat se uporabljajo  poglavje  »XVII.a  ZBIRKA  PODATKOV«  in  členi  135.a,  135.b,  135.c  in  135.č Zakona  o  organizaciji  in  financiranju  vzgoje  in  izobraževanja  (Uradni  list  RS,  št. 16/07  uradno prečiščeno besedilo, 36/08, 58/09, 64/09 - popr., 65/09 - popr., 20/11, 40/12 - ZUJF, 57/12 - ZPCP-2D in 47/15).
+Novi poglavje »XVII.A ZBIRKE PODATKOV« ter členi 135.a, 135.b, 135.c, 135.č, 135.d in 135.e se začnejo uporabljati tri leta od dneva uveljavitve tega zakona. Do takrat se uporabljajo  poglavje  »XVII.a  ZBIRKA  PODATKOV«  in  členi  135.a,  135.b,  135.c  in  135.č Zakona  o  organizaciji  in  financiranju  vzgoje  in  izobraževanja  (Uradni  list  RS,  št. 16/07  –  uradno prečiščeno besedilo, 36/08, 58/09, 64/09 – popr., 65/09 – popr., 20/11, 40/12 – ZUJF, 57/12 – ZPCP-2D in 47/15).
 
 Za študente višjih strokovnih šol se v centralni evidenci vodijo podatki iz drugega odstavka  135.a  člena  zakona  od  študijskega  leta  2005/2006  dalje.  Višje  strokovne  šole vnesejo te podatke v devetih mesecih od uveljavitve tega zakona.
 
 ###### 14. člen (dopolnitev 56. člena Zakona o maturi in 97. člena Zakona o osnovni šoli)
 
-V  Zakonu o maturi (Uradni  list  RS,  št. 1/07  -  uradno  prečiščeno  besedilo)  se  v 56. členu doda nov drugi odstavek, ki se glasi:
+V  Zakonu o maturi (Uradni  list  RS,  št. 1/07  –  uradno  prečiščeno  besedilo)  se  v 56. členu doda nov drugi odstavek, ki se glasi:
 
 »Podatki iz prejšnjega odstavka se ne smejo obdelovati, uporabljati in objavljati za namen
 
@@ -3366,7 +3370,7 @@ Dosedanja drugi in tretji odstavek postaneta tretji in četrti odstavek.
 
 [[START OF PAGE 79]]
 
-V  Zakonu  o  osnovni  šoli  (Uradni  list  RS,  št. št. 81/06  -  uradno  prečiščeno besedilo,  102/07,  107/10,  87/11,  40/12  -  ZUJF  in  63/13)  se  v  97. členu  doda  nov  drugi odstavek, ki se glasi:
+V  Zakonu  o  osnovni  šoli  (Uradni  list  RS,  št. št. 81/06  –  uradno  prečiščeno besedilo,  102/07,  107/10,  87/11,  40/12  –  ZUJF  in  63/13)  se  v  97. členu  doda  nov  drugi odstavek, ki se glasi:
 
 »Podatki iz desetega odstavka 95. člena tega zakona se ne smejo obdelovati, uporabljati in objavljati za namen razvrščanja šol.«.
 
@@ -3386,7 +3390,7 @@ Z uveljavitvijo tega zakona preneha veljati tretji odstavek 17. člena Zakona o 
 
 Ta  zakon  začne  veljati  petnajsti  dan  po  objavi  v  Uradnem  listu  Republike Slovenije, uporabljati pa se začne 1. septembra 2016.«.
 
-Zakon  o  vajeništvu  -  ZVaj  (Uradni  list  RS,  št.  25/17)  vsebuje  naslednjo  končno določbo:
+Zakon  o  vajeništvu  –  ZVaj  (Uradni  list  RS,  št.  25/17)  vsebuje  naslednjo  končno določbo:
 
 ###### »52. člen (začetek veljavnosti)
 
