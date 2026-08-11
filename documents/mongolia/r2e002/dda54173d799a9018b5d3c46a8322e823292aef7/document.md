@@ -18,6 +18,18 @@ PDF generated: 29 Jan 2019, 23:19
 
 ## Table of contents
 
+Preamble . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+CHAPTER ONE: Sovereignty of Mongolia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+CHAPTER TWO: Human Rights and Freedoms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+CHAPTER THREE: The State System of Mongolia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+ONE: The State Great Hural (Parliament) of Mongolia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+TWO: The President of Mongolia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+THREE: The Government (Cabinet) of Mongolia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+FOUR: The Judicial Power . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+CHAPTER FOUR: Administrative and Territorial Units of Mongolia, Their Governance . . . . . . . . . . 21
+CHAPTER FIVE: The Constitutional Tsets (Court) of Mongolia . . . . . . . . . . . . . . . . . . . . . . 23
+CHAPTER SIX: Amendments and Changes to the Constitution of Mongolia . . . . . . . . . . . . 25
+
 Mongolia 1992 (rev. 2001)
 
 Page 2
@@ -1528,6 +1540,54 @@ PDF generated: 29 Jan 2019, 23:19
 
 ## Topic index
 
+### A
+
+Administrative court selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19, 20
+Approval of general legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12, 14
+Attorney general . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+
+### B
+
+Binding effect of const rights . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Budget bills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11, 17
+
+### C
+
+Cabinet removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Cabinet selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11, 17
+Claim of universal suffrage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7, 10, 14
+Conditions for revoking citizenship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Constitution amendment procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12, 25
+Constitutional court powers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Constitutional court removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Constitutional court selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Constitutional court term length . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Constitutional interpretation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Constitutionality of legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20, 24
+Customary international law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+
+### D
+
+Designation of commander in chief . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Dismissal of the legislature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Duty to obey the constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 18, 25
+Duty to pay taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Duty to serve in the military . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Duty to work . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+
+### E
+
+Eligibility for administrative judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Eligibility for cabinet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Eligibility for const court judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Eligibility for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Eligibility for head of state . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Eligibility for ordinary court judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Eligibility for supreme court judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Emergency provisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9, 10, 12, 13, 15
+Equality regardless of age . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Equality regardless of creed or belief . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+
 Mongolia 1992 (rev. 2001)
 
 Page 26
@@ -1539,6 +1599,54 @@ Page 26
 constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:19
+
+Equality regardless of financial status . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Equality regardless of gender . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Equality regardless of language . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Equality regardless of race . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Equality regardless of religion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Equality regardless of social status . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Establishment of administrative courts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Establishment of cabinet/ministers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Establishment of constitutional court . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Establishment of judicial council . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19, 20
+Extradition procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Extraordinary legislative sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+
+### F
+
+First chamber selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Foreign affairs representative . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Free education . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Freedom of assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Freedom of association . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Freedom of expression . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Freedom of movement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Freedom of opinion/thought/conscience . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Freedom of press . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Freedom of religion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+
+### G
+
+General guarantee of equality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Guarantee of due process . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+
+### H
+
+Head of government decree power . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Head of government immunity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Head of government powers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16, 17
+Head of government removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Head of government selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11, 15, 17
+Head of government term length . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Head of government's role in the legislature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Head of state decree power . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 16
+Head of state immunity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Head of state powers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Head of state removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Head of state replacement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Head of state selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Head of state term length . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
 
 Mongolia 1992 (rev. 2001)
 
@@ -1552,6 +1660,59 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:19
 
+Head of state term limits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Human dignity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+
+### I
+
+Immunity of legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Inalienable rights . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Initiation of general legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+International law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5, 9, 24
+
+### J
+
+Judicial independence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19, 23
+Judicial precedence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+
+### L
+
+Leader of first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Legal status of treaties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5, 24
+Legislative oversight of the executive . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Length of legislative sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+
+### M
+
+Min age of administrative judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Min age of const court judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Minimum age for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Minimum age of head of state . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Minimum age of ordinary court judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Minimum age of supreme court judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Motives for writing constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Municipal government . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22, 23
+
+### N
+
+Name/structure of executive(s) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13, 17
+National anthem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+National capital . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+National flag . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+National vs subnational laws . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+
+### O
+
+Oaths to abide by constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Official or national languages . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Ordinary court selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19, 20
+Outside professions of legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Ownership of natural resources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+
+### P
+
+Power to declare/approve war . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12, 13
+
 Mongolia 1992 (rev. 2001)
 
 Page 28
@@ -1564,6 +1725,53 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:19
 
+Power to pardon . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Powers of cabinet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Presumption of innocence in trials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Prohibition of cruel treatment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7, 9
+Prohibition of slavery . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Prohibition of torture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7, 9
+Protection from expropriation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4, 6
+Protection from self-incrimination . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Protection from unjustified restraint . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Protection of environment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4, 6, 8, 17
+Protection of judges' salaries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Protection of language use . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Protection of stateless persons . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9, 15
+Provision for matrimonial equality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Provisions for intellectual property . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4, 7
+
+### Q
+
+Quorum for legislative sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+
+### R
+
+Reference to art . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4, 7
+Reference to science . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4, 7, 17
+Referenda . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Regulation of evidence collection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7, 8
+Removal of individual legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Requirements for birthright citizenship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Requirements for naturalization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Restrictions on entry or exit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Restrictions on political parties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Restrictions on voting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Right of petition . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Right to appeal judicial decisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Right to choose occupation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Right to counsel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 21
+Right to culture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4, 7
+Right to enjoy the benefits of science . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Right to establish a business . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Right to examine evidence/ witnesses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Right to fair trial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Right to form political parties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Right to found a family . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Right to health care . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Right to information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Right to life . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+
 Mongolia 1992 (rev. 2001)
 
 Page 29
@@ -1575,6 +1783,44 @@ Page 29
 constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:19
+
+Right to marry . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Right to own property . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Right to privacy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Right to public trial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Right to rest and leisure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Right to safe work environment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Right to transfer property . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Rights of children . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+
+### S
+
+Scheduling of elections . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Secret ballot . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10, 14
+Separation of church and state . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Size of first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Source of constitutional authority . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Standing committees . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11, 13
+State support for children . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+State support for the disabled . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+State support for the elderly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Structure of legislative chamber(s) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Structure of the courts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Subsidiary unit government . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21, 22, 23
+Supreme court selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Supreme court term length . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Supreme/ordinary court judge removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+
+### T
+
+Term length for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Treaty ratification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5, 12, 15, 17
+Trial in native language of accused . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Type of government envisioned . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+
+### V
+
+Veto override procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
 
 Mongolia 1992 (rev. 2001)
 
