@@ -22,7 +22,7 @@ La
   à	
   la	
   reproduction	
-  non-­-commerciale	
+  non-commerciale
   à	
   fins	
   éducatives,	
@@ -88,7 +88,7 @@ Also
   the	
   title: Education	
   in	
-  Canada .
+  Canada.
 
 [[END OF PAGE 2]]
 
@@ -171,7 +171,7 @@ Avec
   sud	
   avec	
   les	
-  États-­-Unis.	
+  États-Unis.
   En	
   outre, plus	
   de	
@@ -245,14 +245,7 @@ Au
   ».	
   Dans	
   les	
-  13	
-  instances	
-  	
-  -	
-  10	
-  provinces	
-  et	
-  trois territoires,	
+  13 instances – 10 provinces et trois territoires,
   les	
   ministères	
   de	
@@ -293,7 +286,7 @@ Au
   responsable	
   de	
   l'éducation	
-  primaire-­-secondaire	
+  primaire-secondaire
   et	
   l'autre de	
   l'enseignement	
@@ -402,7 +395,7 @@ Bien
 
 ### Financement de l'éducation :
 En
-  2005-­-2006,	
+  2005-2006,
   les	
   gouvernements	
   provinciaux,	
@@ -505,7 +498,7 @@ En
   arrivants	
   et	
   arrivantes. En	
-  2002-­-2003,	
+  2002-2003,
   le	
   total	
   combiné	
@@ -529,7 +522,7 @@ En
   dollars	
   pour	
   l'enseignement	
-  primaire-­secondaire,	
+  primaire-secondaire,
   5,2	
   milliards	
   de	
@@ -581,6 +574,94 @@ de
   17,7	
   p.	
   100
+Les systèmes d'éducation du Canada
+
+Doctorat (3 ans ou plus)
+Maîtrise (1,5 à 2 ans)
+Baccalauréat (3 ans ou plus)
+Diplôme d'études collégiales (DEC) pré-universitaire (2 ans)
+Diplôme d'études collégiales (DEC) technique (3 ans)
+CFMS²
+ASP⁴
+CFPT¹
+DEP³
+1  2  3  4  5
+Secondaire [1]
+Primaire
+Préscolaire
+11 ans
+Québec
+
+Doctorat (3 ans ou plus)
+Maîtrise (1 à 3 ans)
+Diplôme d'études collégiales (1 à 4 ans) [2]
+Baccalauréat (3 à 4 ans)
+Apprentissage
+Formation technique et professionnelle (1 à 4 ans)
+Secondaire [1]
+Primaire
+Préscolaire
+12 ans
+Alberta
+Colombie-Britannique
+Manitoba
+Nouveau-Brunswick (FR)
+Nunavut [3]
+Ontario
+Terre-Neuve-et-Labrador
+Territoires du Nord-Ouest [3]
+Yukon
+
+Doctorat (3 ans ou plus)
+Maîtrise (1 à 3 ans)
+Diplôme d'études collégiales (1 à 4 ans) [2]
+Baccalauréat (3 à 4 ans)
+Apprentissage
+Formation technique et professionnelle (1 à 4 ans)
+Secondaire [1]
+Cycle moyen
+Primaire
+Préscolaire
+12 ans
+Île-du-Prince-Édouard
+Nouveau-Brunswick (EN)
+Saskatchewan
+
+Doctorat (3 ans ou plus)
+Maîtrise (1 à 3 ans)
+Diplôme d'études collégiales (1 à 4 ans)
+Baccalauréat (3 à 4 ans)
+Apprentissage
+Formation technique et professionnelle (1 à 4 ans)
+Secondaire [1]
+Primaire (Maternelle - 6e année)
+13 ans
+Nouvelle-Écosse
+
+1- CFPT : Certificat de formation préparatoire au travail (3 ans, après la 2e secondaire)
+2- CFMS : Certificat de formation à un métier semi-spécialisé (1 an, après la 2e secondaire)
+3- DEP : Diplôme d'études professionnelles (600 à 1800 heures selon le programme d'études)
+4- ASP : Attestation de spécialisation professionnelle (300 à 1185 heures selon le programme d'études)
+
+[1] Dans toutes les provinces et territoires, la réussite des études secondaires est sanctionnée par un diplôme d'études secondaires.
+[2] En Alberta, en Colombie-Britannique, à l'Île-du-Prince-Édouard, au Manitoba et en Ontario, certains établissements offrent des grades appliqués.
+[3] Le Nunavut et les Territoires du Nord-Ouest n'ont pas d'établissements universitaires. Certains grades sont accessibles grâce à des partenariats. Les étudiants peuvent aussi aller étudier en dehors des territoires.
+
+Légende
+Études universitaires
+Études collégiales
+Apprentissage - Formation technique et professionnelle
+Vers le marché du travail
+Parcours typique
+Parcours possible
+
+Notes
+(1) Les collèges et universités offrent tous des programmes de certificat de durée variable.
+(2) Bien que les programmes de formation continue et de formation générale des adultes ne soient pas représentés ici, divers paliers d'enseignement peuvent en offrir.
+(3) Les collèges de Colombie-Britannique offrent aussi des grades associés.
+
+© 2010 Centre d'information canadien sur les diplômes internationaux, Conseil des ministres de l'Éducation (Canada).
+Conception visuelle www.onyxcom.com
 
 Graphique	
   1	
@@ -657,7 +738,7 @@ L'éducation
   ou	
   territorial.	
   Les	
-  sous-­-ministres	
+  sous-ministres
   sont	
   des fonctionnaires	
   qui	
@@ -803,23 +884,7 @@ La
   le Canada	
   compte	
   quelque	
-  15	
-  500	
-  écoles	
-  -	
-  10	
-  100	
-  écoles	
-  primaires,	
-  3400	
-  écoles	
-  secondaires	
-  et 2000	
-  écoles	
-  mixtes	
-  primaires-­-secondaires	
-  -	
-  et	
+  15 500 écoles – 10 100 écoles primaires, 3400 écoles secondaires et 2000 écoles mixtes primaires-secondaires – et
   en	
   moyenne	
   350	
@@ -827,7 +892,7 @@ La
   par	
   école.	
   En	
-  2004-­-2005, les	
+  2004-2005,
   provinces	
   et	
   territoires	
@@ -950,7 +1015,7 @@ Le
   d'écoles	
   où	
   le	
-  française	
+  français
   est	
   la	
   langue	
@@ -1059,7 +1124,7 @@ Le
 
 ### Personnel enseignant :
 En
-  2004-­-2005,	
+  2004-2005,
   les	
   systèmes	
   d'éducation	
@@ -1102,9 +1167,9 @@ En
   des	
   directrices	
   et directeurs,	
-  vice-­-directrices	
+  vice-directrices
   et	
-  vice-­-directeurs,	
+  vice-directeurs,
   ainsi	
   que	
   le	
@@ -1192,7 +1257,7 @@ Toutes
   ans	
   avant	
   la	
-  1 re année.	
+  1re année.
   Tout	
   dépendant	
   de l'instance,	
@@ -1259,7 +1324,7 @@ Toutes
   à	
   l'autre.	
   En	
-  2005-­-2006,	
+  2005-2006,
   environ	
   130	
   000	
@@ -1294,7 +1359,7 @@ Toutes
   offrent	
   des	
   programmes d'une	
-  demi-­-journée	
+  demi-journée
   ou	
   d'une	
   journée	
@@ -1691,7 +1756,7 @@ L'Éducation
   au	
   Canada
 
-2004-­-2005,	
+2004-2005,
   le	
   taux	
   de	
@@ -1700,7 +1765,7 @@ L'Éducation
   comme	
   étant	
   les	
-  20-­-24	
+  20-24
   ans	
   sans	
   diplôme	
@@ -2251,7 +2316,7 @@ Selon
   se	
   chiffraient	
   en	
-  2005-­-2006	
+  2005-2006
   à	
   30,6	
   milliards	
@@ -2262,7 +2327,7 @@ Selon
   constants	
   de 2001).	
   En	
-  2004-­-2005,	
+  2004-2005,
   le	
   financement	
   assuré	
@@ -2295,7 +2360,7 @@ Selon
   p.	
   100	
   en	
-  Nouvelle-­-Écosse	
+  Nouvelle-Écosse
   et	
   68,1	
   p.	
@@ -2355,7 +2420,7 @@ Selon
   4524	
   $	
   en	
-  2007-­-2008	
+  2007-2008
   et les	
   frais	
   d'études	
@@ -2508,7 +2573,7 @@ Selon
   Canada	
   rapporte	
   qu'en	
-  2004-­-2005	
+  2004-2005
   les	
   effectifs	
   à	
@@ -2583,7 +2648,7 @@ Selon
   ou	
   institut	
   public	
-  en 2004-­-2005.	
+  en 2004-2005.
   La	
   participation	
   à	
@@ -2672,7 +2737,7 @@ Au
   la	
   recherche.	
   En	
-  2004-­-2005,	
+  2004-2005,
   la	
   recherche	
   et	
@@ -3004,7 +3069,7 @@ Il
   grades	
   au Canada.	
   Parmi	
-  ceux-­-ci,	
+  ceux-ci,
   plus	
   de	
   150	
@@ -3127,28 +3192,7 @@ Il
   professionnelles	
   et	
   professionnels	
-  et aux	
-  travailleuses	
-  et	
-  travailleurs	
-  qualifiés.	
-  À	
-  l'ordre	
-  d'enseignement	
-  collégial,	
-  l'accent	
-  est	
-  mis	
-  sur l'enseignement,	
-  bien	
-  que	
-  la	
-  recherche	
-  appliquée	
-  y	
-  gagne	
-  en	
-  importance.
+  et
 
 8 de 15
 
@@ -3159,6 +3203,7 @@ Il
 L'Éducation	
   au	
   Canada
+aux travailleuses et travailleurs qualifiés. À l'ordre d'enseignement collégial, l'accent est mis sur l'enseignement, bien que la recherche appliquée y gagne en importance.
 
 ### Reconnaissance et coopération entre les collèges :
 Les
@@ -3522,7 +3567,7 @@ L'enseignement
   a	
   été	
   décrit	
-  ci-­dessus.	
+  ci-dessus.
   Les	
   collèges	
   privés	
@@ -3596,93 +3641,7 @@ L'enseignement
   que	
   certains	
   collèges	
-  privés d'enseignement	
-  professionnel	
-  offrent	
-  des	
-  programmes	
-  plus	
-  courts.	
-  Au	
-  Canada,	
-  les	
-  programmes d'apprentissage	
-  s'adressent	
-  surtout	
-  aux	
-  adultes	
-  mais,	
-  dans	
-  certaines	
-  instances,	
-  les	
-  jeunes	
-  sont de	
-  plus	
-  en	
-  plus	
-  nombreux	
-  à	
-  s'inscrire	
-  à	
-  de	
-  tels	
-  programmes.	
-  L'industrie	
-  connexe	
-  est	
-  chargée	
-  de la	
-  formation	
-  pratique,	
-  dispensée	
-  en	
-  milieu	
-  de	
-  travail,	
-  et	
-  l'établissement	
-  d'enseignement	
-  fournit les	
-  éléments	
-  théoriques.	
-  Les	
-  inscriptions	
-  aux	
-  programmes	
-  d'apprentissage	
-  ont	
-  augmenté	
-  de façon	
-  régulière,	
-  atteignant	
-  un	
-  effectif	
-  de	
-  près	
-  de	
-  300	
-  000	
-  étudiantes	
-  et	
-  étudiants	
-  en	
-  2005.	
-  Les hausses	
-  les	
-  plus	
-  importantes	
-  se	
-  situent	
-  dans	
-  les	
-  domaines	
-  des	
-  métiers	
-  de	
-  la	
-  construction	
-  de bâtiments.
+  privés
 
 9 de 15
 
@@ -3693,6 +3652,7 @@ L'enseignement
 L'Éducation	
   au	
   Canada
+d'enseignement professionnel offrent des programmes plus courts. Au Canada, les programmes d'apprentissage s'adressent surtout aux adultes mais, dans certaines instances, les jeunes sont de plus en plus nombreux à s'inscrire à de tels programmes. L'industrie connexe est chargée de la formation pratique, dispensée en milieu de travail, et l'établissement d'enseignement fournit les éléments théoriques. Les inscriptions aux programmes d'apprentissage ont augmenté de façon régulière, atteignant un effectif de près de 300 000 étudiantes et étudiants en 2005. Les hausses les plus importantes se situent dans les domaines des métiers de la construction de bâtiments.
 
 ## Éducation des adultes
 
@@ -3775,7 +3735,7 @@ L'Enquête
   au	
   cours	
   de l'année.	
-  Cinquante-­-trois	
+  Cinquante-trois
   p.	
   100	
   des	
@@ -3868,7 +3828,7 @@ L'Enquête
   de	
   la	
   population active.	
-  Cinquante-­-sept	
+  Cinquante-sept
   p.	
   100	
   de	
@@ -3909,7 +3869,7 @@ L'Enquête
   monde	
   du	
   travail.	
-  Quatre-­-vingt-­-deux	
+  Quatre-vingt-deux
   p.	
   100	
   des	
@@ -4009,7 +3969,7 @@ L'Enquête
   compétences des	
   adultes,	
   mentionnée	
-  ci-­-dessus,	
+  ci-dessus,
   révèle	
   que	
   seulement	
@@ -4243,7 +4203,7 @@ L'éventail
   destinés	
   aux adultes	
   dispensent	
-  eux-­-mêmes	
+  eux-mêmes
   divers	
   programmes	
   ou	
@@ -4388,7 +4348,7 @@ En
   pour	
   cinq	
   élèves.	
-  Quatre-­-vingt-­-dix-­-huit	
+  Quatre-vingt-dix-huit
   p.	
   100	
   des	
@@ -4499,17 +4459,7 @@ En
   vaste	
   gamme	
   de	
-  technologies	
-  -	
-  télévision,	
-  documents	
-  imprimés, téléconférences	
-  et	
-  communication	
-  en	
-  ligne	
-  -	
-  est	
+  technologies – télévision, documents imprimés, téléconférences et communication en ligne – est
   employée	
   dans	
   les	
@@ -4776,7 +4726,7 @@ Le
   par	
   les	
   bandes. En	
-  2006-­-2007,	
+  2006-2007,
   Affaires	
   indiennes	
   et	
@@ -4790,7 +4740,7 @@ Le
   la	
   maternelle	
   à	
-  la 12 e année	
+  la 12e année
   de	
   120	
   000	
@@ -4992,146 +4942,7 @@ En
   une	
   aide	
   directe	
-  aux étudiantes	
-  et	
-  étudiants.	
-  Chaque	
-  année,	
-  le	
-  Programme	
-  canadien	
-  de	
-  prêts	
-  aux	
-  étudiants	
-  et d'autres	
-  programmes	
-  provinciaux	
-  et	
-  territoriaux	
-  similaires	
-  accordent	
-  des	
-  prêts,	
-  des	
-  subventions et	
-  des	
-  exemptions	
-  d'intérêts	
-  à	
-  plus	
-  de	
-  350	
-  000	
-  étudiantes	
-  et	
-  étudiants	
-  de	
-  l'ordre d'enseignement	
-  postsecondaire.	
-  La	
-  Fondation	
-  canadienne	
-  des	
-  bourses	
-  d'études	
-  du	
-  millénaire verse	
-  annuellement	
-  350	
-  millions	
-  de	
-  dollars	
-  en	
-  bourses	
-  à	
-  quelque	
-  100	
-  000	
-  étudiantes	
-  et étudiants	
-  aux	
-  quatre	
-  coins	
-  du	
-  Canada.	
-  En	
-  2009-­-2010,	
-  le	
-  programme	
-  canadien	
-  de	
-  subventions aux	
-  étudiantes	
-  et	
-  étudiants	
-  remplacera	
-  cette	
-  fondation	
-  en	
-  offrant	
-  aux	
-  personnes	
-  qui poursuivent	
-  des	
-  études	
-  postsecondaires	
-  des	
-  subventions	
-  calculées	
-  en	
-  fonction	
-  de	
-  leur	
-  revenu. Le	
-  Programme	
-  de	
-  la	
-  subvention	
-  canadienne	
-  pour	
-  l'épargne-­-études	
-  encourage	
-  financièrement les	
-  parents	
-  à	
-  épargner	
-  en	
-  prévision	
-  des	
-  études	
-  postsecondaires	
-  de	
-  leurs	
-  enfants.	
-  Ces programmes,	
-  ainsi	
-  que	
-  plusieurs	
-  autres	
-  programmes	
-  similaires	
-  offerts	
-  par	
-  les	
-  provinces	
-  et territoires,	
-  visent	
-  à	
-  rendre	
-  l'enseignement	
-  postsecondaire	
-  accessible	
-  à	
-  un	
-  plus	
-  grand	
-  nombre	
-  et à	
-  réduire	
-  la	
-  dette	
-  étudiante.
+  aux
 
 12 de 15
 
@@ -5142,6 +4953,7 @@ En
 L'Éducation	
   au	
   Canada
+étudiantes et étudiants. Chaque année, le Programme canadien de prêts aux étudiants et d'autres programmes provinciaux et territoriaux similaires accordent des prêts, des subventions et des exemptions d'intérêts à plus de 350 000 étudiantes et étudiants de l'ordre d'enseignement postsecondaire. La Fondation canadienne des bourses d'études du millénaire verse annuellement 350 millions de dollars en bourses à quelque 100 000 étudiantes et étudiants aux quatre coins du Canada. En 2009-2010, le programme canadien de subventions aux étudiantes et étudiants remplacera cette fondation en offrant aux personnes qui poursuivent des études postsecondaires des subventions calculées en fonction de leur revenu. Le Programme de la subvention canadienne pour l'épargne-études encourage financièrement les parents à épargner en prévision des études postsecondaires de leurs enfants. Ces programmes, ainsi que plusieurs autres programmes similaires offerts par les provinces et territoires, visent à rendre l'enseignement postsecondaire accessible à un plus grand nombre et à réduire la dette étudiante.
 
 ### Langues d'instruction :
 Fidèle
@@ -5459,7 +5271,7 @@ Le
   CMEC	
   est	
   le	
-  porte-­-parole	
+  porte-parole
   pancanadien	
   de l'éducation	
   au	
@@ -5505,7 +5317,7 @@ L'Éducation
 
 Association	
   canadienne	
-  d'éducation www.cea-­-ace.ca Association	
+  d'éducation www.cea-ace.ca Association
   des	
   collèges	
   communautaires	
@@ -5560,7 +5372,7 @@ ASSOCIATION
   le 8	
   janvier	
   2008),	
-  http://www.cea-­-ace.ca/pub.cfm?subsection=publiced.
+  http://www.cea-ace.ca/pub.cfm?subsection=publiced.
 
 CONSEIL	
   DE	
@@ -5582,7 +5394,7 @@ CONSEIL
   16	
   janvier	
   2008),	
-  http://www.conseildelafederation.ca/pdfsfrancais/PSE%20Strategy-­July-­-FR.pdf.
+  http://www.conseildelafederation.ca/pdfsfrancais/PSE%20Strategy-July-FR.pdf.
 
 CONSEIL	
   DES	
@@ -5657,12 +5469,12 @@ CONSEIL
   Unies	
   pour	
   l'alphabétisation	
-  2003-­-2012	
+  2003-2012
   :	
   rapport	
   d'étape	
   du Canada	
-  2004-­-2006 ,	
+  2004-2006,
   2007	
   (consulté	
   le	
@@ -5676,7 +5488,7 @@ RUBENSON,
   Richard	
   DESJARDINS	
   et	
-  Ee-­-Seul	
+  Ee-Seul
   YOON. Apprentissage	
   par	
   les	
@@ -5702,7 +5514,7 @@ RUBENSON,
   le	
   12	
   janvier	
-  2008), http://www.statcan.ca/francais/research/89-­-552-­-MIF/89-­-552-­-MIF2007017.htm.
+  2008), http://www.statcan.ca/francais/research/89-552-MIF/89-552-MIF2007017.htm.
 
 STATISTIQUE	
   CANADA. Indicateurs	
@@ -5716,15 +5528,15 @@ STATISTIQUE
   et	
   les	
   territoires,	
-  1998-­-1999 à	
-  2004-­-2005 ,	
+  1998-1999 à
+  2004-2005,
   2007	
   (consulté	
   le	
   7	
   janvier	
   2008),	
-  http://www.statcan.ca/francais/research/81-­-595-­-MIF/81-­-595-­MIF2007050.htm.
+  http://www.statcan.ca/francais/research/81-595-MIF/81-595-MIF2007050.htm.
 
 STATISTIQUE	
   CANADA	
