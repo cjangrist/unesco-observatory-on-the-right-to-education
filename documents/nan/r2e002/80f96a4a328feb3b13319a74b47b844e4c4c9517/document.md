@@ -6,9 +6,9 @@
 
 Pursuant to the Article 88 of the Constitution of the Republic of Croatia, I herewith pass the following
 
-I herewith promulgate the Constitutional Act on the Rights of National Minorities, that has been adopted by the Croatian Parliament at the session on 13th  December 2002.
-
 ### DECISION on Promulgation of the Constitutional Act on the Rights of National Minorities
+I herewith promulgate the Constitutional Act on the Rights of National Minorities, that has been adopted by the Croatian Parliament at the session on 13th December 2002.
+
 Number: 01-081-02-3955/2 Zagreb, 19th December 2002 The President of the Republic of Croatia Stjepan Mesić
 
 # THE CONSTITUTIONAL ACT ON THE RIGHTS OF NATIONAL MINORITIES IN THE REPUBLIC OF CROATIA
@@ -216,9 +216,9 @@ education and schooling, science, culture, editorial and humanitarian activities
 
 [[START OF PAGE 5]]
 
-and schooling, museums, archives and librarian activities, and protection and preservation of cultural and youth get acquainted with history, culture and religion of national minorities, through the content of educational work and compulsory and optional curriculum.
+and schooling, museums, archives and librarian activities, and protection and preservation of cultural heritage, conditions are being created that all the citizens of the Republic of Croatia, particularly children and youth get acquainted with history, culture and religion of national minorities, through the content of educational work and compulsory and optional curriculum.
 
-heritage, conditions are being created that all the citizens of the Republic of Croatia, particularly children (2) With the purpose of realization of provisions of the sec. l. of this Article, measures will be undertaken that will make access to the media easier for member of national minorities.
+(2) With the purpose of realization of provisions of the sec. l. of this Article, measures will be undertaken that will make access to the media easier for member of national minorities.
 ### Article 18
 (1)  Radio and television station on national, regional and local level have the task to promote understanding for members of national minorities, produce and/or broadcast shows aimed for informing members of national minorities in languages of national minorities, creation and broadcast of programme by means of which preservation, development and expression of cultural, religious and forms of identity of national minorities is being promoted, preservation and protection of their cultural material heritage and tradition, and creation and broadcasting of programme by means of which members of national minorities in this territory are getting acquainted with work and tasks of their National Minorities Councils and representatives of national minorities.  Legal entities performing the activity of public information (print, radio, television) will enable participation in the creation of programme aimed for national minorities to associations of representatives of national minorities and institutions of national minorities. (2)  In the state budget and in the budget of local and regional self-government the financial means are being ensured for the co-financing of programmes of radio and television stations in their ownership aimed for national minorities, consistent to possibilities and criteria set by the Government of the Republic of Croatia and proposal of the Council for national minorities, or a competent  body of units of local and regional self-government, on proposal of the National Minorities Council. (3) With the aim of exercising rights of members of national minorities to information by means of print and radio and television in the language and script of the members of national minorities, their National Minorities Councils and representatives of national minorities and their associations can perform activities of public information (issue newspapers, produce and broadcast radio and television programme, and perform the activity of news agencies) consistent to the law.
 ### Article 19
@@ -247,7 +247,7 @@ The units of local and regional self-government in which members of national min
 
 - Representation in the bodies of government administration and judicial bodies is being ensured to members of national minorities, consistent to the provisions of special acts, taking into consideration the participation of members of national minorities in the total population at the level on which the government administration or judicial body is operating, and taking into account their acquired rights.
 
-- Representation   in   the   bodies   of unit   of self-government is ensured to members of national minorities, consistent to the provisions of special acts, by means of which local and regional selfgovernment has been regulated and consistent to acquired rights.
+- Representation in the bodies of unit of self-government is ensured to members of national minorities, consistent to the provisions of special acts, by means of which local and regional self-government has been regulated and consistent to acquired rights.
 
 - In appointment of seats from paragraphs 2 and 3 of this Article, the advantage, under the same conditions have representatives of national minorities.
 
@@ -333,7 +333,7 @@ which the execution of the budget is being regulated, or for purposes, in cases 
 
 - Propose to the bodies of the units of self-government measures for improvement of situation of the national minority in the country or on some of the regions, including giving proposal drafts of general legal acts by means of which issues of importance for the national minority are being regulated to the bodies passing them;
 
-- Nominate candidates for offices in bodies of the state administration and bodies of the units of selfgovernment;
+- Nominate candidates for offices in bodies of the state administration and bodies of the units of self-government;
 
 - Be informed of every issue that is to be discussed by the committees of the representative body of the unit of self-government, and considers the situation of the national minority;
 
@@ -393,7 +393,7 @@ rights in the territory of the local self-government unit for which he/she has b
 
 ### Article 35
 
-- The National Minorities Committee is being established, for participation of national minorities in the public life of the Republic of Croatia, and mostly for consideration and suggestion of regulation and solution of issues connected to exercising and protection of rights and freedoms of national minorities. With this aim the Committee cooperates with the competent government bodies and bodies of selfgovernment units, National minority councils, or representatives of national minorities, associations of national minorities and legal entities performing activities by means of which minority rights and freedoms are being exercised.
+- The National Minorities Committee is being established, for participation of national minorities in the public life of the Republic of Croatia, and mostly for consideration and suggestion of regulation and solution of issues connected to exercising and protection of rights and freedoms of national minorities. With this aim the Committee cooperates with the competent government bodies and bodies of self-government units, National minority councils, or representatives of national minorities, associations of national minorities and legal entities performing activities by means of which minority rights and freedoms are being exercised.
 
 - The National Minorities Committee has the right to: - propose to bodies of the state authority to consider
 
@@ -463,7 +463,7 @@ this Constitutional act and the statute of the Committee
 
 [[START OF PAGE 11]]
 
-- At least once a year, the Government of the Republic of Croatia submits to the Croatian Parliament (Sabor) a report on the implementation of this Constitutional Act and on expenditure of means ensured in the state budget for the needs of national minorities, and the National Minorities Committee submits to the Croatian Parliament or some of its committees dealing with exercise of rights of national minorities a halfyear report on issues being the scope of work of the Committee and a quarterly report on expenditure of the means ensured in the state budget for the needs of national minorities.
+- At least once a year, the Government of the Republic of Croatia submits to the Croatian Parliament (Sabor) a report on the implementation of this Constitutional Act and on expenditure of means ensured in the state budget for the needs of national minorities, and the National Minorities Committee submits to the Croatian Parliament or some of its committees dealing with exercise of rights of national minorities a half-year report on issues being the scope of work of the Committee and a quarterly report on expenditure of the means ensured in the state budget for the needs of national minorities.
 
 ### Article 38
 
