@@ -34,25 +34,25 @@ All  people  are  free  and  equal  in  their  dignity  and  rights.  Their  fun
 
 [[START OF PAGE 2]]
 
-- Everyone may do that which is not prohibited by law; and nobody may be compelled to do that which is not imposed upon her by law.
+(3) Everyone may do that which is not prohibited by law; and nobody may be compelled to do that which is not imposed upon her by law.
 
 #### Article 3
 
-- Everyone  is  guaranteed  the  enjoyment  of  her  fundamental  rights  and  basic  freedoms without regard to gender, race, colour of skin, language, faith and religion, political or other conviction, national or social origin,  membership in a national or ethnic minority, property, birth, or other status.
+(1) Everyone is guaranteed the enjoyment of her fundamental rights and basic freedoms without regard to gender, race, colour of skin, language, faith and religion, political or other conviction, national or social origin, membership in a national or ethnic minority, property, birth, or other status.
 
-- Everybody has the right freely to choose his nationality. It is prohibited to influence this choice in any way, just as is any form of pressure aimed at suppressing a person's national identity.
+(2) Everybody has the right freely to choose his nationality. It is prohibited to influence this choice in any way, just as is any form of pressure aimed at suppressing a person's national identity.
 
-- Nobody may be caused detriment to her rights merely for asserting her fundamental rights and basic freedoms.
+(3) Nobody may be caused detriment to her rights merely for asserting her fundamental rights and basic freedoms.
 
 #### Article 4
 
-- Duties may be imposed only on the basis, and within the bounds, of law, and only while respecting the fundamental rights and freedoms.
+(1) Duties may be imposed only on the basis, and within the bounds, of law, and only while respecting the fundamental rights and freedoms.
 
-- Limitations  may  be  placed  upon  the  fundamental  rights  and  freedoms  only  by  law  and under  the  conditions  prescribed  in  this  Charter  of  Fundamental  Rights  and  Freedoms (hereinafter "Charter").
+(2) Limitations may be placed upon the fundamental rights and freedoms only by law and under the conditions prescribed in this Charter of Fundamental Rights and Freedoms (hereinafter "Charter").
 
-- Any statutory limitation upon the fundamental rights and freedoms must apply in the same way to all cases which meet the specified conditions.
+(3) Any statutory limitation upon the fundamental rights and freedoms must apply in the same way to all cases which meet the specified conditions.
 
-- When employing the provisions concerning limitations upon the fundamental rights and freedoms, the essence and significance of these rights and freedoms must be preserved. Such limitations shall not be misused for purposes other than those for which they were enacted.
+(4) When employing the provisions concerning limitations upon the fundamental rights and freedoms, the essence and significance of these rights and freedoms must be preserved. Such limitations shall not be misused for purposes other than those for which they were enacted.
 
 ## CHAPTER TWO
 
@@ -66,7 +66,7 @@ Everyone has the capacity to possess rights.
 
 #### Article 6
 
-- Everyone has the right to life. Human life is worthy of protection even before birth.
+(1) Everyone has the right to life. Human life is worthy of protection even before birth.
 
 [[END OF PAGE 2]]
 
@@ -106,13 +106,13 @@ with conduct which is not criminal under the law.
 
 (2) The provision of paragraph 1 shall not apply to:
 
-- labour  imposed  in  accordance  with  law  upon  persons  serving  a  prison  sentence  or  upon persons serving other penalties that take the place of the penalty of imprisonment,
+a) labour imposed in accordance with law upon persons serving a prison sentence or upon persons serving other penalties that take the place of the penalty of imprisonment,
 
-- military service or some other service provided for by law in place of compulsory military service,
+b) military service or some other service provided for by law in place of compulsory military service,
 
-- service  required  on  the  basis  of  law  in  the  event  of  natural  disasters,  accidents,  or other danger threatening human life, health, or property of significant value,
+c) service required on the basis of law in the event of natural disasters, accidents, or other danger threatening human life, health, or property of significant value,
 
-- conduct imposed by law for the protection of life, health, or the rights of others.
+d) conduct imposed by law for the protection of life, health, or the rights of others.
 
 #### Article 10
 
@@ -120,15 +120,15 @@ with conduct which is not criminal under the law.
 
 (2) Everyone has the right to be protected from any unauthorized intrusion into her private and family life.
 
-- Everyone has the right to be protected from the unauthorized gathering, public revelation, or other misuse of her personal data.
+(3) Everyone has the right to be protected from the unauthorized gathering, public revelation, or other misuse of her personal data.
 
 #### Article 11
 
-- Everyone has the right to own property. Each owner's property right shall have the same content and enjoy the same protection. Inheritance is guaranteed.
+(1) Everyone has the right to own property. Each owner's property right shall have the same content and enjoy the same protection. Inheritance is guaranteed.
 
-- The law shall designate the property necessary for securing the needs of the entire society, the  development  of  the  national  economy,  and  the  public  welfare,  which  may  beowned exclusively  by  the  state,  a  municipality,  or  by  designated  legal  persons;  the  law  may  also provide that certain items of property may be owned exclusively by citizens or legal persons with their headquarters in the Czech and Slovak Federal Republic.
+(2) The law shall designate the property necessary for securing the needs of the entire society, the development of the national economy, and the public welfare, which may beowned exclusively by the state, a municipality, or by designated legal persons; the law may also provide that certain items of property may be owned exclusively by citizens or legal persons with their headquarters in the Czech and Slovak Federal Republic.
 
-- Ownership  entails  obligations.  It  may  not  be  misused  to  the  detriment  of  the  rights  of others or in conflict with legally protected public interests. It may not be exercised so as to harm human health, nature, or the environment beyond the limits laid down by law.
+(3) Ownership entails obligations. It may not be misused to the detriment of the rights of others or in conflict with legally protected public interests. It may not be exercised so as to harm human health, nature, or the environment beyond the limits laid down by law.
 
 (4) Expropriation or some other mandatory limitation upon property rights is permitted in the public interest, on the basis of law, and for compensation.
 
@@ -136,7 +136,7 @@ with conduct which is not criminal under the law.
 
 #### Article 12
 
-- A  person's  dwelling  is  inviolable. It  may  not  be  entered  without  the  permission  of  the person living there.
+(1) A person's dwelling is inviolable. It may not be entered without the permission of the person living there.
 
 [[END OF PAGE 4]]
 
@@ -214,17 +214,17 @@ citizen may be forced to leave her homeland.
 
 #### Article 20
 
-- The right of association is guaranteed. Everybody has the right to associate together with others in clubs, societies, and other associations.
+(1) The right of association is guaranteed. Everybody has the right to associate together with others in clubs, societies, and other associations.
 
-- Citizens  also  have  the  right  to  form  political  parties  and  political  movements  and  to associate therein.
+(2) Citizens also have the right to form political parties and political movements and to associate therein.
 
-- The exercise of these rights may be limited only in cases specified by law, if it involves measures that are necessary in a democratic society for the security of the state, the protection of public security and public order, the prevention of crime, or the protection of the rights and freedoms of others.
+(3) The exercise of these rights may be limited only in cases specified by law, if it involves measures that are necessary in a democratic society for the security of the state, the protection of public security and public order, the prevention of crime, or the protection of the rights and freedoms of others.
 
-- Political parties and political movements, as well as other associations, are separate from the state.
+(4) Political parties and political movements, as well as other associations, are separate from the state.
 
 #### Article 21
 
-- Citizens have the right to participate in the administration of public affairs either directly or through the free election of their representatives.
+(1) Citizens have the right to participate in the administration of public affairs either directly or through the free election of their representatives.
 
 (2) Elections must be held within terms not exceeding the regular electoral terms provided for by law.
 
@@ -258,11 +258,11 @@ Membership in a national or ethnic minority may not be to anyone's detriment.
 
 (2) Citizens belonging to national and ethnic minority groups are also guaranteed, under the conditions set down by law:
 
-- the right to education in their own language,
+a) the right to education in their own language,
 
-- the right to use their own language in their relations  with officials,
+b) the right to use their own language in their relations with officials,
 
-- the  right  to  participate  in  the  resolution  of  affairs  that  concern  national  and  ethnic minorities.
+c) the right to participate in the resolution of affairs that concern national and ethnic minorities.
 
 ## CHAPTER FOUR
 
@@ -286,11 +286,11 @@ Membership in a national or ethnic minority may not be to anyone's detriment.
 
 (1) Everyone has the right to associate freely with others for the protection of her economic and social interests.
 
-- Trade unions shall be established independently of the state. No limits may be placed upon the number of trade union organizations, nor may any of them be given preferential treatment in a particular enterprise or branch of industry.
+(2) Trade unions shall be established independently of the state. No limits may be placed upon the number of trade union organizations, nor may any of them be given preferential treatment in a particular enterprise or branch of industry.
 
-- The activities of trade unions and the formation and activities of similar associations for the protection of economic and social interests may be limited by law in the case of measures necessary in a democratic society for the protection of the security of the State, public order, or the rights and freedoms of others.
+(3) The activities of trade unions and the formation and activities of similar associations for the protection of economic and social interests may be limited by law in the case of measures necessary in a democratic society for the protection of the security of the State, public order, or the rights and freedoms of others.
 
-- The right to strike is guaranteed under the conditions provided for by law; this right does not appertain to judges, prosecutors, or members of the armed forces or security corps.
+(4) The right to strike is guaranteed under the conditions provided for by law; this right does not appertain to judges, prosecutors, or members of the armed forces or security corps.
 
 #### Article 28
 
@@ -298,19 +298,19 @@ Employees  have  the  right  to  fair  remuneration  for  their  work  and  to  
 
 #### Article 29
 
-- Women,  adolescents,  and  persons  with  health  problems have  the  right  to  increased protection of their health at work and to special work conditions.
+(1) Women, adolescents, and persons with health problems have the right to increased protection of their health at work and to special work conditions.
 
-- Adolescents  and  persons  with  health  problems  have  the  right  to  special  protection  in labour relations and to assistance in vocational training.
+(2) Adolescents and persons with health problems have the right to special protection in labour relations and to assistance in vocational training.
 
-- Detailed provisions shall be set by law.
+(3) Detailed provisions shall be set by law.
 
 #### Article 30
 
-- Citizens have the right to adequate material security in old age and during periods of work incapacity, as well as in the case of the loss of their provider.
+(1) Citizens have the right to adequate material security in old age and during periods of work incapacity, as well as in the case of the loss of their provider.
 
-- Everyone who suffers from material need has the right to such assistance as is necessary to ensure her a basic living standard.
+(2) Everyone who suffers from material need has the right to such assistance as is necessary to ensure her a basic living standard.
 
-- Detailed provisions shall be set by law.
+(3) Detailed provisions shall be set by law.
 
 [[END OF PAGE 9]]
 
@@ -324,19 +324,19 @@ Everyone has the right to the protection of  her health. Citizens  shall  have  
 
 (1)  Parenthood  and  the  family  are  under  the  protection  of  the  law.  Special  protection  is guaranteed to children and adolescents. (2)  Pregnant  women are  guaranteed  special  care,  protection  in  labor  relations,  and  suitable labor conditions. (3) Children, whether born in or out of wedlock, enjoy equal rights. (4) It is the parents' right to care for and  bring up their children; children have the right to parental  upbringing  and  care. Parental  rights  may  be  limited  and  minor  children  may  be removed from their parents' custody against the latters' will only by the decision of a court on the basis of the law. (5) Parents who are raising children have the right to assistance from the state.
 
-- Detailed provisions shall be set by law.
+(6) Detailed provisions shall be set by law.
 
 #### Article 33
 
 (1) Everyone has the right to education. School attendance shall be obligatory for the period specified by law. (2) Citizens have the right to free elementary and secondary school education, and, depending on particular citizens' ability and the capability of society, also to university-level education. (3) Private schools may be established and instruction provided there only under conditions set by law; education may be provided at such schools for tuition. (4) The conditions under which citizens have the right to assistance from the state during their
 
-- studies shall be set by law.
+studies shall be set by law.
 
 #### Article 34
 
-- The rights to the fruits of one's creative intellectual activity shall be protected by law.
+(1) The rights to the fruits of one's creative intellectual activity shall be protected by law.
 
-- The right of access to cultural wealth is guaranteed under the conditions set by law.
+(2) The right of access to cultural wealth is guaranteed under the conditions set by law.
 
 [[END OF PAGE 10]]
 
@@ -346,19 +346,19 @@ Everyone has the right to the protection of  her health. Citizens  shall  have  
 
 (1) Everyone has the right to a favorable environment. (2) Everyone has the right to timely and complete information about the state of the environment and natural resources. (3) No one may, in exercising her rights, endanger or cause damage to the environment,
 
-- natural resources, the wealth of natural species, or cultural monuments beyond the extent set by a law.
+natural resources, the wealth of natural species, or cultural monuments beyond the extent set by a law.
 
 ## CHAPTER FIVE THE RIGHT TO JUDICIAL AND OTHER LEGAL PROTECTION
 
 #### Article 36
 
-- Everyone may assert, through the prescribed procedure, her rights before an independent and impartial court or, in specified cases, before another body. (2) Unless a law provides otherwise, a person who claims that her rights were curtailed by a decision of a public administrative authority may turn to a court for review of the legality of that  decision. However,  judicial  review  of  decisions  affecting  the  fundamental  rights  and freedoms listed in this Charter may not be removed from the jurisdiction of courts. (3) Everybody is entitled to compensation for damage caused her by an unlawful decision of a court, other State bodies, or public administrative authorities, or as the result of an incorrect official procedure. (4) Conditions therefor and detailed provisions shall be set by law.
+(1) Everyone may assert, through the prescribed procedure, her rights before an independent and impartial court or, in specified cases, before another body. (2) Unless a law provides otherwise, a person who claims that her rights were curtailed by a decision of a public administrative authority may turn to a court for review of the legality of that decision. However, judicial review of decisions affecting the fundamental rights and freedoms listed in this Charter may not be removed from the jurisdiction of courts. (3) Everybody is entitled to compensation for damage caused her by an unlawful decision of a court, other State bodies, or public administrative authorities, or as the result of an incorrect official procedure. (4) Conditions therefor and detailed provisions shall be set by law.
 
 #### Article 37
 
-- Everyone has the right to refuse to give testimony if she would thereby incriminate herself or a person close to her. (2)  In  proceedings  before  courts,  other  State  bodies,  or  public  administrative  authorities, everyone shall have the right to legal assistance from the very beginning of such proceedings. (3) All parties to such proceedings are equal. (4) Anyone who declares that she does not speak the language in which a proceeding is being
+(1) Everyone has the right to refuse to give testimony if she would thereby incriminate herself or a person close to her. (2) In proceedings before courts, other State bodies, or public administrative authorities, everyone shall have the right to legal assistance from the very beginning of such proceedings. (3) All parties to such proceedings are equal. (4) Anyone who declares that she does not speak the language in which a proceeding is being
 
-- conducted has the right to the services of an interpreter.
+conducted has the right to the services of an interpreter.
 
 [[END OF PAGE 11]]
 
