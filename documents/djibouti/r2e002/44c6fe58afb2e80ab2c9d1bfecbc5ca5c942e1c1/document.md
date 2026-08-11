@@ -2,6 +2,8 @@
 
 PDF generated: 29 Jan 2019, 23:19
 
+CONSTITUTE
+
 constituteproject.org
 
 # Djibouti's Constitution of 1992 with Amendments through 2010
@@ -21,6 +23,21 @@ constituteproject.org
 PDF generated: 29 Jan 2019, 23:19
 
 ## Table of contents
+
+Preamble . . . 3
+TITLE I: OF THE STATE AND OF SOVEREIGNTY . . . 3
+TITLE II: OF THE RIGHTS AND DUTIES OF THE HUMAN PERSON . . . 5
+TITLE III: OF THE EXECUTIVE POWER . . . 6
+TITLE IV: OF THE LEGISLATIVE POWER . . . 10
+TITLE V: OF THE RELATIONS BETWEEN THE LEGISLATIVE POWER AND THE EXECUTIVE POWER . . . 12
+TITLE VI: INTERNATIONAL TREATIES, CONVENTIONS AND AGREEMENTS . . . 16
+TITLE VII: OF THE JUDICIAL POWER . . . 16
+TITLE VIII: OF THE CONSTITUTIONAL COUNCIL . . . 17
+TITLE IX: OF THE HIGH COURT OF JUSTICE . . . 19
+TITLE X: OF THE TERRITORIAL COLLECTIVITIES . . . 19
+TITLE XI: OF THE MEDIATOR OF THE REPUBLIC . . . 20
+TITLE XII: OF THE REVISION OF THE CONSTITUTION . . . 20
+TITLE XIII: OF FINAL AND TRANSITORY PROVISIONS . . . 21
 
 Djibouti 1992 (rev. 2010)
 
@@ -1250,11 +1267,15 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:19
 
-- Supermajority required for legislation · Referenda
+- Supermajority required for legislation
+
+- Referenda
 
 - Unamendable provisions
 
-· Referenda Nevertheless,  the  referendum  procedure  may  be  avoided  on  the  decision  of  the President  of  the  Republic;  in  this  case,  the  Bill  or  proposal  of  revision  is  only approved if it is adopted with the majority of two-thirds of the members composing the National Assembly.
+- Referenda
+
+Nevertheless, the referendum procedure may be avoided on the decision of the President of the Republic; in this case, the Bill or proposal of revision is only approved if it is adopted with the majority of two-thirds of the members composing the National Assembly.
 
 ### Article 92
 
@@ -1302,6 +1323,49 @@ PDF generated: 29 Jan 2019, 23:19
 
 ## Topic index
 
+### A
+Accession of territory . . . 14
+Advisory bodies to the head of state . . . 9
+
+### B
+Budget bills . . . 15
+
+### C
+Cabinet removal . . . 9
+Cabinet selection . . . 9
+Claim of universal suffrage . . . 4
+Constitution amendment procedure . . . 20
+Constitutional court powers . . . 8, 13, 15, 18
+Constitutional court selection . . . 17
+Constitutional court term length . . . 17
+Constitutional court term limits . . . 17
+Constitutional interpretation . . . 17
+Constitutionality of legislation . . . 9, 18
+
+### D
+Designation of commander in chief . . . 8
+
+### E
+Economic plans . . . 15
+Eligibility for cabinet . . . 10
+Eligibility for const court judges . . . 17
+Eligibility for first chamber . . . 10
+Eligibility for head of government . . . 10
+Eligibility for head of state . . . 7
+Emergency provisions . . . 14
+Equality regardless of gender . . . 3
+Equality regardless of language . . . 3
+Equality regardless of race . . . 3
+Equality regardless of religion . . . 3
+Establishment of cabinet/ministers . . . 9
+Establishment of constitutional court . . . 17
+Establishment of judicial council . . . 17
+Extraordinary legislative sessions . . . 12
+
+### F
+Finance bills . . . 11, 15
+First chamber selection . . . 10
+
 Djibouti 1992 (rev. 2010)
 
 Page 22
@@ -1313,6 +1377,52 @@ Page 22
 constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:19
+
+Foreign affairs representative . . . 9, 16
+Freedom of association . . . 6
+Freedom of expression . . . 6
+Freedom of movement . . . 5
+Freedom of opinion/thought/conscience . . . 5
+Freedom of religion . . . 5
+
+### G
+General guarantee of equality . . . 3, 5
+God or other deities . . . 3
+
+### H
+Head of government immunity . . . 19
+Head of government powers . . . 6, 8
+Head of government removal . . . 9
+Head of government selection . . . 9
+Head of state immunity . . . 19
+Head of state powers . . . 7, 8, 9
+Head of state replacement . . . 8
+Head of state selection . . . 7
+Head of state term length . . . 7
+
+### I
+Immunity of legislators . . . 11
+Inalienable rights . . . 5
+Initiation of general legislation . . . 13
+International human rights treaties . . . 3
+International law . . . 7, 9, 14
+International organizations . . . 4, 14
+
+### J
+Judicial independence . . . 16
+
+### L
+Leader of first chamber . . . 12
+Legal status of treaties . . . 16
+Legislative committees . . . 12
+Legislative oversight of the executive . . . 14
+Length of legislative sessions . . . 11, 12
+
+### M
+Min age of const court judges . . . 17
+Minimum age for first chamber . . . 10
+Minimum age of head of state . . . 7
+Motives for writing constitution . . . 3
 
 Djibouti 1992 (rev. 2010)
 
@@ -1326,6 +1436,51 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:19
 
+### N
+Name/structure of executive(s) . . . 6
+National anthem . . . 3
+National capital . . . 3
+National flag . . . 3
+National motto . . . 3
+
+### O
+Official or national languages . . . 3
+Official religion . . . 3
+Ombudsman . . . 20
+Ordinary court selection . . . 17
+
+### P
+Power to declare/approve war . . . 14
+Power to pardon . . . 8
+Powers of cabinet . . . 10
+Presumption of innocence in trials . . . 5
+Principle of no punishment without law . . . 5, 19
+Prohibited political parties . . . 4
+Prohibition of capital punishment . . . 5
+Prohibition of cruel treatment . . . 6
+Prohibition of torture . . . 6
+Protection from ex post facto laws . . . 5, 19
+Protection from expropriation . . . 5
+Protection from false imprisonment . . . 17
+Protection from unjustified restraint . . . 5
+Public or private sessions . . . 11
+Publication of deliberations . . . 11
+
+### R
+Reference to fraternity/solidarity . . . 3
+Referenda . . . 3, 8, 14, 21
+Regulation of political parties . . . 4
+Replacement of legislators . . . 11
+Restrictions on political parties . . . 4
+Restrictions on voting . . . 4
+Right to counsel . . . 5
+Right to form political parties . . . 4
+Right to join trade unions . . . 6
+Right to life . . . 5
+Right to own property . . . 5
+Right to privacy . . . 5
+Right to strike . . . 6
+
 Djibouti 1992 (rev. 2010)
 
 Page 24
@@ -1337,6 +1492,26 @@ Page 24
 constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:19
+
+Right to work . . . 6
+
+### S
+Secession of territory . . . 14
+Secret ballot . . . 4
+Selection of active-duty commanders . . . 8
+Source of constitutional authority . . . 3
+Standing committees . . . 12
+Structure of legislative chamber(s) . . . 10
+Supermajority required for legislation . . . 15, 19, 21
+Supreme court powers . . . 19
+Supreme court selection . . . 19
+
+### T
+Term length for first chamber . . . 10
+Treaty ratification . . . 14, 16
+
+### U
+Unamendable provisions . . . 21
 
 Djibouti 1992 (rev. 2010)
 
