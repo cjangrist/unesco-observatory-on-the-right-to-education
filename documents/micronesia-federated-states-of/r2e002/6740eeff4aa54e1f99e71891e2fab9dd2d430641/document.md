@@ -14,7 +14,7 @@ This Policy is established pursuant to Title 40, FSMC §114 and in accordance wi
 
 These definitions shall apply to terms and concepts used in this policy only. 1. "Director" shall mean the applicable head of the Department of Education of the states of Chuuk, Pohnpei, Yap and Kosrae in the Federated States of Micronesia. 2. "Secretary" shall mean the head of the Department of Education, FSM National Government. 3. "Early Childhood Education " shall mean any public or non-public school that provide standardized instructional and relevant services to children ages 3 to 5; 4. "Primary school" shall mean any public or non-public school that provides standardized instructional and relevant services to children ages 6 to 13 or older, but not more than 15. 5. "Secondary school" shall mean any public or non-public school that provides standardized instruction and relevant services to adolescent youth ages 13 to 16 or older, but not more than 19. 6. "Teacher" shall mean any duly certified person whose formal duties and responsibilities are to impart knowledge and skills to Students in the schools from preschool to secondary school. 7. "Associate of Arts" degree shall equivalent to a 60 semester credits earned at an accredited institution of higher education, hereinafter refers as "IHE". 8. "Associate of Science"
 
-- degree shall equivalent to a 60 semester credits earned at an accredited institution of higher education, IHE.
+degree shall equivalent to a 60 semester credits earned at an accredited institution of higher education, IHE.
 
 1
 
@@ -22,11 +22,11 @@ These definitions shall apply to terms and concepts used in this policy only. 1.
 
 [[START OF PAGE 2]]
 
-"FSM School System" shall include any public or non-public institution that impart knowledge and skills to students at the preschool, primary and secondary school levels in Chuuk, Pohnpei, Yap and Kosrae.
+9. "FSM School System" shall include any public or non-public institution that impart knowledge and skills to students at the preschool, primary and secondary school levels in Chuuk, Pohnpei, Yap and Kosrae.
 
-"Accredited Institution of Higher Education" shall mean any institution of higher education that is accredited by internationally recognized accrediting agencies or commissions.
+10. "Accredited Institution of Higher Education" shall mean any institution of higher education that is accredited by internationally recognized accrediting agencies or commissions.
 
-"National Standardized Tests for Teachers" (NSTT) shall mean a duly developed test for testing the content base competency skills and performance base competency skills of teachers or would be teachers in the FSM.
+11. "National Standardized Tests for Teachers" (NSTT) shall mean a duly developed test for testing the content base competency skills and performance base competency skills of teachers or would be teachers in the FSM.
 
 ## IV.   Teacher Certification Requirements
 
@@ -36,9 +36,9 @@ Any person applying for a teaching position or is currently teaching in any FSM 
 
 ### 1. Educational Backgrounds
 
-- An Associate of Arts (AA) degree or an Associate of Science (AS) degree or above will be qualified to teach in any FSM Schools.
+a. An Associate of Arts (AA) degree or an Associate of Science (AS) degree or above will be qualified to teach in any FSM Schools.
 
-- Holder of degrees from non-US, accredited institutions shall submit copies of their degrees and transcripts to be reviewed and approved by the National Department of Education or its designated firm or individual.
+b. Holder of degrees from non-US, accredited institutions shall submit copies of their degrees and transcripts to be reviewed and approved by the National Department of Education or its designated firm or individual.
 
 ### 2.  National Standardized Test for Teachers (NSTT)
 
@@ -106,7 +106,7 @@ Any holder of valid certificate who shall lose his/her certificate due to natura
 
 ## VII. Validation of Certificates
 
-The Secretary of Education or a duly designated official on his/her behalf shall validate all certificates by affixing their signatures on the said documents with the official insignia of the department. The Department shall be responsible for safe-keeping and securing of copies of all valid certificates issued by the department.
+The Secretary of Education or a duly designated official on his/her behalf shall validate all certificates by affixing their signatures on the said documents with the official insignia of the
 
 4
 
@@ -114,9 +114,19 @@ The Secretary of Education or a duly designated official on his/her behalf shall
 
 [[START OF PAGE 5]]
 
+department. The Department shall be responsible for safe-keeping and securing of copies of all valid certificates issued by the department.
+
 ## VIII. Adoption
 
 This FSM Teacher Certification Policy shall be deemed approved and amended and shall become effective on the date the Secretary shall affix his/her signature unto this policy. All provisions herein shall supersede other prior provisions pertained to teacher certification in the Federated States of Micronesia.
+
+Adopted this 12th day of April 2012
+
+Rufino Mauricio, Ph.D.
+Secretary
+Department of Education, FSM
+
+Attested to by:                         Date: 04-12-12
 
 5
 
