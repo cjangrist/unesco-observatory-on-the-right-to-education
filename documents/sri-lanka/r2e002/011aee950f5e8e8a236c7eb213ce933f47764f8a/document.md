@@ -14,9 +14,9 @@ PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA
 
 TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5
 
-Postage : Rs. 10.00
-
 Price : Rs. 10.00
+
+Postage : Rs. 10.00
 
 [[END OF PAGE 1]]
 
@@ -26,29 +26,32 @@ National Institute of Labour Studies Act, No. 12 of 2010
 
 [Certified on 06th October, 2010]
 
-L.D.-O. 59/2006.
+L.D.—O. 59/2006.
 
 ## AN ACT TO ESTABLISH A NATIONAL INSTITUTE OF LABOUR STUDIES; TO ESTABLISH A BOARD OF GOVERNORS FOR THE ADMINISTRATION OF THE INSTITUTE; TO ESTABLISH TECHNICAL COMMITTEES AND A DIVISION OF STUDIES FOR TRADE UNIONS; TO CONDUCT RESEARCH, CARRY OUT SURVEYS AND PROVIDE TRAINING FOR THE PROMOTION OF LABOUR STUDIES IN SRI LANKA; AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.
 
 Be it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows :-
 
+Short title.
+
 ### 1.
-This Act may be cited as the National Institute of Labour Studies Act, No. 12 of 2010. Short  title.
+This Act may be cited as the National Institute of Labour Studies Act, No. 12 of 2010.
 
 ## ESTABLISHMENT OF THE NATIONAL INSTITUTE OF LABOUR STUDIES
 
 ### 2.
-(1)  There  shall  be  established,  in  accordance  with the provisions of this Act, an Institute which shall be called the National Institute of Labour Studies (hereinafter referred to as the 'Institute').
+(1)  There  shall  be  established,  in  accordance  with the provisions of this Act, an Institute which shall be called the National Institute of Labour Studies (hereinafter referred to as the “Institute”).
 
 (2)  The  Institute  shall,  by  the  name  assigned  to  it  by subsection (1), be a body corporate with perpetual succession and a common seal and may sue and be sued in such name.
 
-- The objects of the Institute shall be-
+### 3.
+The objects of the Institute shall be—
 
 ( a ) to implement workers education programmes with the collaboration of local or foreign institutes, to take measures to ensure welfare of workers in order to make them active partners in the development process;
 
 ( b ) to  conduct seminars, workshops, conferences and meetings on labour studies and publish magazines, journals, periodicals and books in relation thereto;
 
-> 2-PL 005150-4090 (08/2010)
+> 2—PL 005150—4090 (08/2010)
 
 Establishment  of the  National Institute  of Labour  Studies.
 
@@ -77,7 +80,7 @@ Powers of the Institute.
 ( g ) to  engage  in  and  promote  activities  aimed  at maintaining industrial harmony.
 
 ### 4.
-The Institute  shall  have  such  powers  as  may  be necessary for the discharge of its objects and functions and in  particular  shall  have  the  power  to  do  all  or  any  of  the following:-
+The Institute  shall  have  such  powers  as  may  be necessary for the discharge of its objects and functions and in  particular  shall  have  the  power  to  do  all  or  any  of  the following:—
 
 ( a ) to  acquire,  hold,  take  or  give  on  lease  or  hire, mortgage, pledge and sell or otherwise dispose of, any movable or immovable property;
 
@@ -108,7 +111,7 @@ National Institute of Labour Studies Act, No. 12 of 2010
 ( j ) to do all such other things which in the opinion of the Institute are necessary to facilitate the discharge of its functions.
 
 ### 5.
-(1) The administration, management and control of the affairs of the Institute shall be vested in the Board of Governors of the Institute  (hereinafter  referred  to  as  the 'Board').
+(1) The administration, management and control of the affairs of the Institute shall be vested in the Board of Governors of the Institute  (hereinafter  referred  to  as  the “Board”).
 
 (2) The Board shall for the purpose of administering the affairs of the Institute exercise, perform and discharge the powers, duties and functions conferred or imposed on or assigned to the Institute by this Act.
 
@@ -124,9 +127,10 @@ National Institute of Labour Studies Act, No. 12 of 2010
 
 Constitution  of the  Board.
 
-(1) The Board shall consist of the following :-
+### 6.
+(1) The Board shall consist of the following :—
 
-( a ) six ex-officio members, namely-
+( a ) six ex-officio members, namely—
 
 (i) the Secretary to the Ministry of the Minister in charge of the subject of Labour;
 
@@ -140,7 +144,7 @@ Constitution  of the  Board.
 
 (vi) a  representative  from  the  Universities nominated  by  the  University  Grants Commission established by the Universities Act, No. 16  of 1978;
 
-( b ) thirteen  members  appointed  by  the  Minister (hereinafter referred to as the 'appointed members'), namely-
+( b ) thirteen  members  appointed  by  the  Minister (hereinafter referred to as the “appointed members”), namely—
 
 (i) an  officer,  not  below  the  rank  of  a  Senior Assistant  Secretary,  of  the  Ministry  of  the Minister in charge of the subject of Public Administration, nominated by that Minister;
 
@@ -162,7 +166,7 @@ National Institute of Labour Studies Act, No. 12 of 2010
 
 (vi) two members distinguished in the field of Labour Studies.
 
-(2) The Secretary to the Ministry of the Minister in charge of subject of Labour shall be appointed by the Minister as the Chairman of the 'Board' and the Commissioner-General of Labour shall be as the Vice-Chairman of the Board.
+(2) The Secretary to the Ministry of the Minister in charge of subject of Labour shall be appointed by the Minister as the Chairman of the “Board” and the Commissioner-General of Labour shall be as the Vice-Chairman of the Board.
 
 (3) The Chairman and Vice-Chairman shall hold office for  a  term  of  three  years  and  shall  be  eligible  for reappointment.
 
@@ -170,7 +174,7 @@ National Institute of Labour Studies Act, No. 12 of 2010
 
 (5) If the Vice-Chairman is by reason of illness or absence from Sri Lanka, temporarily unable to perform the duties of his office, the Minister may appoint another member to act in his place.
 
-(6) A person shall be disqualified from being appointed or from continuing as a member of the Board, if he-
+(6) A person shall be disqualified from being appointed or from continuing as a member of the Board, if he—
 
 (i) is, or becomes a member of Parliament or a member of  a  Provincial  Council  or  a  member  of  a  Local Authority as the case may be; or
 
@@ -266,7 +270,8 @@ Seal  of  the Board.
 ### 12.
 Subject to the provisions of subsection (4) of section 10 the Board shall have the power to act notwithstanding any vacancy in its membership and no act or proceedings of the Board shall be invalid by reason only of the existence of any such vacancy or any defect in the appointment of a member thereof.
 
-- The seal of the Board-
+### 13.
+The seal of the Board—
 
 ( a ) shall be in the custody of the Chairman of the Board;
 
@@ -285,7 +290,7 @@ National Institute of Labour Studies Act, No. 12 of 2010
 ## STAFF OF THE INSTITUTE
 
 ### 14.
-Subject  to  the  provisions  of  this  Act  and  any regulations  made  thereunder,  the  Board  shall  have  the power to-
+Subject  to  the  provisions  of  this  Act  and  any regulations  made  thereunder,  the  Board  shall  have  the power to—
 
 ( a ) appoint, dismiss, and exercise disciplinary control over the officers and servants of the Institute;
 
@@ -309,7 +314,7 @@ Subject  to  the  provisions  of  this  Act  and  any regulations  made  thereun
 
 Staff  of  the Institute
 
-Appointment  of the  DirectorGeneral.
+Appointment  of the  Director-General.
 
 Establishment  of Technical Committees.
 
@@ -334,13 +339,13 @@ Establishment  of a  Division  of Studies  for Trade  Unions.
 (7) The Board may pay to any member or co-opted member of a Technical Committee with the approval of the Minister, such remuneration or allowance, as may be decided by the Board.
 
 ### 17.
-(1) There shall be established a Division of Studies for Trade Unions (hereinafter referred to as 'the Division of Studies') for the implementation of the objects set out in subsection(4). The Division of Studies shall commence the discharge of its  functions  from  such  date  as  the  Minister may by Order published in the Gazette appoint .
+(1) There shall be established a Division of Studies for Trade Unions (hereinafter referred to as “the Division of Studies”) for the implementation of the objects set out in subsection(4). The Division of Studies shall commence the discharge of its  functions  from  such  date  as  the  Minister may by Order published in the Gazette appoint .
 
 (2) The Board shall appoint a Director  who shall function as the Divisional Head of the Division of Studies.
 
 (3) The Board shall appoint officers and servants as may required for the purposes of the Division of Studies.
 
-(4) The objects of the Division of Studies shall be to-
+(4) The objects of the Division of Studies shall be to—
 
 ( a ) provide  training  for  members  of  Trade  Unions, employees, employers, representatives of employers and employees and public servants; and
 
@@ -393,9 +398,10 @@ Financial  year  of the  Institute.
 
 ## FINANCE
 
+### 21.
 (1) The Institute shall have its own fund.
 
-(2) There shall be credited to the fund of the Institute-
+(2) There shall be credited to the fund of the Institute—
 
 ( a ) all such sums of money as may be voted from time to time by Parliament for the use of the Institute;
 
@@ -403,7 +409,7 @@ Financial  year  of the  Institute.
 
 ( c ) all such sums of money as may be received by the Institute by way of loans, donations, gifts or grants from any source whatsoever, whether in or outside Sri Lanka.
 
-- There shall be paid out of the fund of the Institute-
+(3) There shall be paid out of the fund of the Institute—
 
 ( a ) all such sums of money as are required to defray any expenditure incurred by the Institute  in  the exercise, performance and discharge of its powers, duties and functions under this Act; and
 
@@ -468,9 +474,10 @@ All members, officers and servants of the Institute shall be deemed to be public
 ### 28.
 In  the  event  of  any  inconsistency  between  the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.
 
-- In this Act, unless the context otherwise requires-
+### 29.
+In this Act, unless the context otherwise requires—
 
-'Labour Studies'  shall  include  the  subjects  of industrial  relations,  national  or  international labour standards, laws relating to labour, trade unions, employer-employee relations, employer-employee representative or organizations,  worker  education,  human resource  management  and  development administration, business  management, productivity, manufacturing, trade marketing, social  development  and  any  study,  project, programme, research,  consultancy,  survey, seminar, workshop, conference, training course or similar work related to labour economics or any other subject relevant thereto as shall be prescribed by the Minister.
+“Labour Studies”  shall  include  the  subjects  of industrial  relations,  national  or  international labour standards, laws relating to labour, trade unions, employer-employee relations, employer-employee representative or organizations,  worker  education,  human resource  management  and  development administration, business  management, productivity, manufacturing, trade marketing, social  development  and  any  study,  project, programme, research,  consultancy,  survey, seminar, workshop, conference, training course or similar work related to labour economics or any other subject relevant thereto as shall be prescribed by the Minister.
 
 [[END OF PAGE 15]]
 
