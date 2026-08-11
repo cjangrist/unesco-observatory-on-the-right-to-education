@@ -119,95 +119,95 @@ Programmes and Private Universities
 
 [[START OF PAGE 4]]
 
-1
-
 # QUOTATION
 
-Federal Act on the External Quality Assurance in Higher Education and the Agency for Quality Assurance and Accreditation Austria (Act on Quality Assurance in Higher Education - HS-QSG)
+Federal Act on the External Quality Assurance in Higher Education and the Agency for Quality Assurance and Accreditation Austria (Act on Quality Assurance in Higher Education – HS-QSG)
 
-Promulgation: Federal Legal Gazette 1 I No. 74/2011 Entry into Force: March 1, 2012
+Promulgation: Federal Legal Gazette¹ I No. 74/2011
 
-Bundesgesetzblatt für die Republik Österreich (BGBl.).
+Entry into Force: March 1, 2012
+
+1 Bundesgesetzblatt für die Republik Österreich (BGBl.).
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-# ACT ON QUALITY ASSURANCE IN HIGHER EDUCATION - HS-QSG 2
+# ACT ON QUALITY ASSURANCE IN HIGHER EDUCATION – HS-QSG²
 
 ## Section 1 General Provisions
 
 ### Scope of Regulation
 
-§ 1. (1)  This  Act  shall  regulate  external  quality  assurance  at  the  following postsecondary higher education institutions:
+§ 1. (1) This Act shall regulate external quality assurance at the following postsecondary higher education institutions:
 
-- Universities  according  to  the  Universities  Act  2002  (UG),  Federal  Law Gazette I No. 120/2002,
+1. Universities according to the Universities Act 2002 (UG), Federal Law Gazette I No. 120/2002,
 
-- the  University  for  Continuing  Education  Krems  according  to  the  Act  on  the Danube University Krems 2004, Federal Law Gazette I No. 22/2004,
+2. the University for Continuing Education Krems according to the Act on the Danube University Krems 2004, Federal Law Gazette I No. 22/2004,
 
-- providers of University of Applied Sciences degree programmes according to the University of Applied Sciences Studies Act (FHStG), Federal Law Gazette No. 340/1993,
+3. providers of University of Applied Sciences degree programmes according to the University of Applied Sciences Studies Act (FHStG), Federal Law Gazette No. 340/1993,
 
-- private  universities  according  to  the  University  Accreditation  Act  (UniAkkG), Federal  Law  Gazette I  No. 168/1999,  and  according  to  the  Act  on  Private Universities (PUG), Federal Law Gazette I No. 74/2011.
+4. private universities according to the University Accreditation Act (UniAkkG), Federal Law Gazette I No. 168/1999, and according to the Act on Private Universities (PUG), Federal Law Gazette I No. 74/2011.
 
-- The external quality assurance of the educational institutions named in para. 1 shall be ensured by way of:
+(2) The external quality assurance of the educational institutions named in para. 1 shall be ensured by way of:
 
-- Certification of quality management systems of educational institutions;
+1. Certification of quality management systems of educational institutions;
 
-- accreditation of degree programmes;
+2. accreditation of degree programmes;
 
-- accreditation of educational institutions;
+3. accreditation of educational institutions;
 
-- supervision  of  the  accredited  educational  institutions  under  this  Act  and  the degree programmes accredited under this Act.
+4. supervision of the accredited educational institutions under this Act and the degree programmes accredited under this Act.
 
-- The external quality assurance, together with the internal quality management system of the educational institutions named in para. 1, is intended to ensure that they meet high standards and continuously enhance their quality.
+(3) The external quality assurance, together with the internal quality management system of the educational institutions named in para. 1, is intended to ensure that they meet high standards and continuously enhance their quality.
 
 ### Definition of Terms
 
 § 2. Within the scope of application of this Act, the following definitions shall apply:
 
-- External  quality  assurance  encompasses  various  measures  to  be  taken periodically for the evaluation of the quality improvements in the performance of higher education institutions in teaching, research and administration.
+1. External quality assurance encompasses various measures to be taken periodically for the evaluation of the quality improvements in the performance of higher education institutions in teaching, research and administration.
 
-- Quality assurance procedures are formal processes, carried out by independent and external assessors, that establish the conformity of educational institutions and degree programmes or the educational institution's quality management system with pre-defined criteria and standards.
+2. Quality assurance procedures are formal processes, carried out by independent and external assessors, that establish the conformity of educational institutions and degree programmes or the educational institution's quality management system with pre-defined criteria and standards.
 
-- Accreditation  is  the  formal  federal  recognition  of  an  educational  institution (institutional accreditation) or of degree programmes (programme accreditation) based on pre-defined criteria and standards.
+3. Accreditation is the formal federal recognition of an educational institution (institutional accreditation) or of degree programmes (programme accreditation) based on pre-defined criteria and standards.
 
-> 2 Hochschul-Qualitätssicherungsgesetz - HS-QSG.
+> 2 Hochschul-Qualitätssicherungsgesetz – HS-QSG.
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
-- Certification is the formal certificate documenting  the  conformity  of  an educational institution's  quality  management  system  with  pre-defined  criteria and standards.
+4. Certification is the formal certificate documenting the conformity of an educational institution's quality management system with pre-defined criteria and standards.
 
 ## Section 2 Establishment of the Agency and Its Bodies
 
 ### Agency for Quality Assurance and Accreditation Austria
 
-§ 3. (1)  The  Agency  for  Quality  Assurance  and  Accreditation  Austria  shall  be established  for  the  external  quality  assurance  of  the  educational  institutions  named under § 1 para. 1.
+§ 3. (1) The Agency for Quality Assurance and Accreditation Austria shall be established for the external quality assurance of the educational institutions named under § 1 para. 1.
 
-(2)  The  Agency for  Quality  Assurance  and  Accreditation  Austria  shall  be  a  legal entity governed by public law.
+(2) The Agency for Quality Assurance and Accreditation Austria shall be a legal entity governed by public law.
 
-(3)  The  Agency  for  Quality  Assurance  and  Accreditation  Austria  shall  fulfil,  in particular, the following tasks in the area of external quality assurance:
+(3) The Agency for Quality Assurance and Accreditation Austria shall fulfil, in particular, the following tasks in the area of external quality assurance:
 
-- Developing  and  carrying  out  external  quality  assurance  procedures,  as  a minimum,  audit  and  accreditation  procedures,  according  to  national  and international standards;
+1. Developing and carrying out external quality assurance procedures, as a minimum, audit and accreditation procedures, according to national and international standards;
 
-- accrediting higher education institutions and degree programmes;
+2. accrediting higher education institutions and degree programmes;
 
-- reporting to the National Council by way of the competent Federal Minister;
+3. reporting to the National Council by way of the competent Federal Minister;
 
-- publishing reports on the outcome of the quality assurance procedures;
+4. publishing reports on the outcome of the quality assurance procedures;
 
-- continuously supervising accredited higher education institutions and degree programmes regarding accreditation requirements;
+5. continuously supervising accredited higher education institutions and degree programmes regarding accreditation requirements;
 
-- fulfilling  the  tasks  according  to  the  provisions  of  the  University  of  Applied Sciences Studies Act and the Act on Private Universities;
+6. fulfilling the tasks according to the provisions of the University of Applied Sciences Studies Act and the Act on Private Universities;
 
-- issuing certificates for educational institutions upon an audit;
+7. issuing certificates for educational institutions upon an audit;
 
-- conducting studies and system analyses, performing evaluations, and carrying out projects;
+8. conducting studies and system analyses, performing evaluations, and carrying out projects;
 
-- providing information and advice in matters related to quality assurance and quality enhancement;
+9. providing information and advice in matters related to quality assurance and quality enhancement;
 
-- international cooperation in the area of quality assurance.
+10. international cooperation in the area of quality assurance.
 
 (4) The Agency for Quality Assurance and Accreditation Austria shall undergo an external evaluation according to international standards on a regular basis.
 
@@ -229,37 +229,37 @@ Bundesgesetzblatt für die Republik Österreich (BGBl.).
 
 (2) The Governing Committee shall:
 
-- Submit an opinion:
+1. Submit an opinion:
 
-- on  the  regulations,  standards  and  processes  of  the  quality  assurance procedure;
+a) on the regulations, standards and processes of the quality assurance procedure;
 
-- on the financial plan and the financial statements;
+b) on the financial plan and the financial statements;
 
-- on the activity report;
+c) on the activity report;
 
-- on the rules of procedure of the General Meeting;
+d) on the rules of procedure of the General Meeting;
 
-- on  the  advertisements  for  the  positions  of  and  the  employment  of employees  and  of the  General  Manager  and  the  Deputy  General Manager;
+e) on the advertisements for the positions of and the employment of employees and of the General Manager and the Deputy General Manager;
 
-- suggest an auditor according to § 16 to the competent Federal Minister;
+2. suggest an auditor according to § 16 to the competent Federal Minister;
 
-- prepare  and  call  the  meetings  of  the  General  Meeting  and  report  to  the General Meeting.
+3. prepare and call the meetings of the General Meeting and report to the General Meeting.
 
-(3)  The  Governing  Committee  shall  elect  a  chairperson  and  deputy  chairperson among its members.
+(3) The Governing Committee shall elect a chairperson and deputy chairperson among its members.
 
-- The Governing Committee shall resolve by a simple majority.
+(4) The Governing Committee shall resolve by a simple majority.
 
 ### Board
 
 § 6. (1) The Board shall consist of fourteen members, for whom the following shall apply:
 
-- Eight members shall be experts in the area of higher education and shall have academic  qualifications and experience in quality assurance and shall represent different sectors of higher education.
+1. Eight members shall be experts in the area of higher education and shall have academic qualifications and experience in quality assurance and shall represent different sectors of higher education.
 
-- Two members shall be appointed who are student representatives.
+2. Two members shall be appointed who are student representatives.
 
-- Four members shall be appointed who are practitioners. They shall be familiar with the national or international higher education sector, have experience in professional  fields  relevant  for  higher  education  institutions,  shall  possess sound judgment in matters related to quality assurance, and shall be able to contribute  to  the  fulfilment  of  the  tasks  of  the  Agency  for  Quality  Assurance and Accreditation Austria because of their profound knowledge and experience.
+3. Four members shall be appointed who are practitioners. They shall be familiar with the national or international higher education sector, have experience in professional fields relevant for higher education institutions, shall possess sound judgment in matters related to quality assurance, and shall be able to contribute to the fulfilment of the tasks of the Agency for Quality Assurance and Accreditation Austria because of their profound knowledge and experience.
 
-- At  least  half  of  the  members  according  to  subparas.  1  and  2  shall  be  from abroad.
+4. At least half of the members according to subparas. 1 and 2 shall be from abroad.
 
 (2) Members of the Board shall not be members of the Federal Government or a provincial government, members of the National Council, or the Federal Council or any other  general  representative  body,  or  officials  of  a  political  party  or  of  an  institution represented in the General Meeting, and shall not have been in such a position in the past  four  years. Employees  working  for  Federal  Ministries  competent  for  higher education institutions shall also be excluded from board membership.
 
@@ -293,105 +293,105 @@ Bundesgesetzblatt für die Republik Österreich (BGBl.).
 
 § 9. (1) The Board shall have, in particular, the following tasks:
 
-- Deciding on the accreditation of educational institutions and degree programmes or on the certification of the quality management system;
+1. Deciding on the accreditation of educational institutions and degree programmes or on the certification of the quality management system;
 
-- deciding  on  regulations,  standards  and  processes  of  the  quality  assurance procedure;
+2. deciding on regulations, standards and processes of the quality assurance procedure;
 
-- resolutions on reports;
+3. resolutions on reports;
 
-- forwarding decisions concerning the accreditation procedure to the competent Federal Minister;
+4. forwarding decisions concerning the accreditation procedure to the competent Federal Minister;
 
-- publishing the results of the quality assurance procedures;
+5. publishing the results of the quality assurance procedures;
 
-- providing  information  to  the  Appeals  Committee,  the  Governing  Committee and the General Meeting;
+6. providing information to the Appeals Committee, the Governing Committee and the General Meeting;
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-- adopting rules of procedure that guarantee the fulfilment of the tasks assigned to it;
+7. adopting rules of procedure that guarantee the fulfilment of the tasks assigned to it;
 
-- resolutions on the annual financial plan and financial statements;
+8. resolutions on the annual financial plan and financial statements;
 
-- supervision of the Management Office;
+9. supervision of the Management Office;
 
-- advertising positions and employing employees of the Management Office;
+10. advertising positions and employing employees of the Management Office;
 
-- advertising the position of and employing the General Manager and the deputy General Manager, both of whom the Board shall decide on unanimously. § 14 paras. 1 and 3 shall not apply in this case;
+11. advertising the position of and employing the General Manager and the deputy General Manager, both of whom the Board shall decide on unanimously. § 14 paras. 1 and 3 shall not apply in this case;
 
-- supervision of the accredited educational institutions and degree programmes regarding the accreditation requirements;
+12. supervision of the accredited educational institutions and degree programmes regarding the accreditation requirements;
 
-- fulfilling the tasks according to the University of Applied Sciences Studies Act and the Act on Private Universities;
+13. fulfilling the tasks according to the University of Applied Sciences Studies Act and the Act on Private Universities;
 
-- International cooperation in the area of quality assurance.
+14. International cooperation in the area of quality assurance.
 
-- The Board shall in the exercise of its office not be bound by any instructions.
+(2) The Board shall in the exercise of its office not be bound by any instructions.
 
-- The Board shall adopt rules of procedure that guarantee the fulfilment of the tasks  assigned  to  it,  the  tasks  of  the  Appeals  Committee  and  the  tasks  of  the Management Office as well as the fulfilment of the other tasks of the Agency for Quality Assurance  and  Accreditation  Austria. The  rules  of  procedure  shall  also  regulate  the organisation of the Management Office.
+(3) The Board shall adopt rules of procedure that guarantee the fulfilment of the tasks assigned to it, the tasks of the Appeals Committee and the tasks of the Management Office as well as the fulfilment of the other tasks of the Agency for Quality Assurance and Accreditation Austria. The rules of procedure shall also regulate the organisation of the Management Office.
 
 ### Head of the Agency and the Management Office
 
-§ 10. (1)  The  President  of  the  Board  is  in  charge  of  the  Board  and  the Management Office and represents the Agency externally. His/her tasks shall include, in particular, the conclusion of contracts.
+§ 10. (1) The President of the Board is in charge of the Board and the Management Office and represents the Agency externally. His/her tasks shall include, in particular, the conclusion of contracts.
 
-- The rules of procedure may grant the General Manager or the Deputy Manager representational powers for specific matters.
+(2) The rules of procedure may grant the General Manager or the Deputy Manager representational powers for specific matters.
 
-- To support the Agency for Quality Assurance and Accreditation Austria in the fulfilment of its tasks, a Management Office shall be established.
+(3) To support the Agency for Quality Assurance and Accreditation Austria in the fulfilment of its tasks, a Management Office shall be established.
 
-- The  Management  Office  shall  be  headed  by  the  General  Manager  and  the Deputy Manager. The advertisement for the positions of and the employment of the General Manager and the Deputy Manager shall observe the Staffing Act, Federal Law Gazette I  No. 26/1998.  The  employees  of  the  Management  Office  shall  not  be members of any body of the Agency for Quality Assurance and Accreditation Austria.
+(4) The Management Office shall be headed by the General Manager and the Deputy Manager. The advertisement for the positions of and the employment of the General Manager and the Deputy Manager shall observe the Staffing Act, Federal Law Gazette I No. 26/1998. The employees of the Management Office shall not be members of any body of the Agency for Quality Assurance and Accreditation Austria.
 
-- The organisation and the tasks of the Management Office as well as the tasks of  the  General  Manager  and  the  Deputy  Manager  shall  be  laid  down  in  the  rules  of procedure  of  the  Board,  with  the  Deputy  Manager  receiving  his/her  own  area  of responsibility.  The  tasks  shall  include,  as  a  minimum,  the  preparation  of  reports  and the financial plan.
+(5) The organisation and the tasks of the Management Office as well as the tasks of the General Manager and the Deputy Manager shall be laid down in the rules of procedure of the Board, with the Deputy Manager receiving his/her own area of responsibility. The tasks shall include, as a minimum, the preparation of reports and the financial plan.
 
 ### General Meeting
 
 § 11. (1) The General Meeting shall consist of 23 members, including:
 
-- six  representatives,  nominated  by  the  Advisory  Council  for  Economic  and Social Affairs;
+1. six representatives, nominated by the Advisory Council for Economic and Social Affairs;
 
-- two representatives of the Austrian National Union of Students;
+2. two representatives of the Austrian National Union of Students;
 
-- one representative of the Association for the Establishment and Promotion of a National Students' Representation at Private Universities;
+3. one representative of the Association for the Establishment and Promotion of a National Students' Representation at Private Universities;
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
-- six representatives of Universities Austria ;
+4. six representatives of Universities Austria;
 
-- four representatives of the Association of Universities of Applied Sciences;
+5. four representatives of the Association of Universities of Applied Sciences;
 
-- two representatives of the Austrian Private Universities' Conference;
+6. two representatives of the Austrian Private Universities' Conference;
 
-- two representatives of the Federal Ministry of Science and Research.
+7. two representatives of the Federal Ministry of Science and Research.
 
-- The  members  of  the  General  Meeting  shall  be  familiar  with  the  higher education system and with matters regarding quality assurance in higher education.
+(2) The members of the General Meeting shall be familiar with the higher education system and with matters regarding quality assurance in higher education.
 
-- The nomination of the members according to para. 1 subparas. 2 to 7 shall be made  by  the  respective  bodies.  The  member  shall  be  nominated  at  the  latest  one month prior to the expiry of the member's term of office and, if a member is recalled prematurely, at the latest one month after announcing the recall. The members shall be appointed by the competent Federal Minister.
+(3) The nomination of the members according to para. 1 subparas. 2 to 7 shall be made by the respective bodies. The member shall be nominated at the latest one month prior to the expiry of the member's term of office and, if a member is recalled prematurely, at the latest one month after announcing the recall. The members shall be appointed by the competent Federal Minister.
 
-- The term of office of the members of the General Meeting shall be five years; reappointments shall be permissible.
+(4) The term of office of the members of the General Meeting shall be five years; reappointments shall be permissible.
 
-- The competent Federal Minister shall recall a member of the General Meeting prior to the expiry of the term of office upon application or after hearing the opinion of the General Meeting, if the member has grossly violated or neglected his/her duties or if the member is no longer able to fulfil his/her duties.
+(5) The competent Federal Minister shall recall a member of the General Meeting prior to the expiry of the term of office upon application or after hearing the opinion of the General Meeting, if the member has grossly violated or neglected his/her duties or if the member is no longer able to fulfil his/her duties.
 
 ### Tasks of the General Meeting
 
 § 12. (1) The tasks of the General Meeting shall include:
 
-- Elections according to § 5 para. 1;
+1. Elections according to § 5 para. 1;
 
-- Nominations according to § 7 para. 2 and § 13 para. 3;
+2. Nominations according to § 7 para. 2 and § 13 para. 3;
 
-- Acknowledgement  of  the  financial  plan,  the  financial  statements  and  the activity report as well as opinions on the rules of procedure of the Board.
+3. Acknowledgement of the financial plan, the financial statements and the activity report as well as opinions on the rules of procedure of the Board.
 
-- Nominations  shall  include,  according  to  § 5  para. 1,  one  member  from  the representatives of Universities Austria , one member from the Association of Universities of Applied Sciences and one member  from the Austrian Private Universities' Conference.
+(2) Nominations shall include, according to § 5 para. 1, one member from the representatives of Universities Austria, one member from the Association of Universities of Applied Sciences and one member from the Austrian Private Universities' Conference.
 
-- The General Meeting shall elect a chairperson among its members.
+(3) The General Meeting shall elect a chairperson among its members.
 
-- The General Meeting shall fulfil its tasks in plenary meetings.
+(4) The General Meeting shall fulfil its tasks in plenary meetings.
 
-- The General Meeting shall have a quorum, when at least fifteen members are present in person. It shall resolve by a simple majority. In case of a tie, the chairperson shall have the casting vote.
+(5) The General Meeting shall have a quorum, when at least fifteen members are present in person. It shall resolve by a simple majority. In case of a tie, the chairperson shall have the casting vote.
 
-- The  General  Meeting  shall  adopt  rules  of  procedure  that  guarantee  the fulfilment  of  the  tasks  assigned  to  it  and  the  tasks  assigned  to  the  Governing Committee according to § 5.
+(6) The General Meeting shall adopt rules of procedure that guarantee the fulfilment of the tasks assigned to it and the tasks assigned to the Governing Committee according to § 5.
 
-- The members shall not receive a compensation for their service.
+(7) The members shall not receive a compensation for their service.
 
 ### Appeals Committee
 
@@ -411,7 +411,7 @@ Bundesgesetzblatt für die Republik Österreich (BGBl.).
 
 (6) The Appeals Committee shall elect a chairperson among its members.
 
-- The Appeals Committee shall resolve by a simple majority.
+(7) The Appeals Committee shall resolve by a simple majority.
 
 (8) The General Meeting shall recall a member of the Appeals Committee prior to the  expiry  of  the  term  of  office  upon  application  by  the  Appeals  Committee  or  after hearing its opinion, if the member has grossly violated or neglected his/her duties of if the member is no longer able to fulfil his/her duties.
 
@@ -423,13 +423,13 @@ Bundesgesetzblatt für die Republik Österreich (BGBl.).
 
 ### Dilatoriness of Bodies
 
-§ 14. (1) If a body of the Agency for Quality Assurance and Accreditation Austria according to §§ 5, 11 and 13 fails to fulfil a task incumbent upon it by virtue of this Act within a reasonable period, the Board may, acting ex proprio motu, grant an extension of four weeks, within which the body which is in delay shall complete such task. If this period  expires  without  the  task  being  completed,  the  task  in  question  shall  be completed
+§ 14. (1) If a body of the Agency for Quality Assurance and Accreditation Austria according to §§ 5, 11 and 13 fails to fulfil a task incumbent upon it by virtue of this Act within a reasonable period, the Board may, acting ex proprio motu, grant an extension of four weeks, within which the body which is in delay shall complete such task. If this period expires without the task being completed, the task in question shall be completed
 
-- by the General Meeting in matters according to § 5 para. 2,
+1. by the General Meeting in matters according to § 5 para. 2,
 
-- by  the  competent  Federal  Minister  in  matters  according  to  § 7  para. 2  last sentence,  § 11  para. 1  subparas. 1  and  11  and  para. 3  and  § 12  para. 1 subparas. 1 and 2,
+2. by the competent Federal Minister in matters according to § 7 para. 2 last sentence, § 11 para. 1 subparas. 1 and 11 and para. 3 and § 12 para. 1 subparas. 1 and 2,
 
-- and  by  the  Governing  Committee  in  matters  according  to  § 9  para. 1, § 12 para. 1 subpara. 3 and § 13 para. 3 (substitute performance).
+3. and by the Governing Committee in matters according to § 9 para. 1, § 12 para. 1 subpara. 3 and § 13 para. 3 (substitute performance).
 
 (2) Para. 1 shall not apply to the area of application of the General Administrative Procedure Act 1991 (AVG), Federal Law Gazette No. 51/1991.
 
@@ -451,7 +451,7 @@ Bundesgesetzblatt für die Republik Österreich (BGBl.).
 
 (3) Resources shall be allocated monthly on a pro rata basis.
 
-- The  Agency  for  Quality  Assurance  and  Accreditation  Austria  shall  be  free  to use its income without restrictions, unless the law provides otherwise. Potentially tied funds shall be taken into consideration.
+(4) The Agency for Quality Assurance and Accreditation Austria shall be free to use its income without restrictions, unless the law provides otherwise. Potentially tied funds shall be taken into consideration.
 
 (5) In its financial management, the Agency for Quality Assurance and Accreditation Austria shall act on its own behalf and for its own account.
 
@@ -463,21 +463,21 @@ Bundesgesetzblatt für die Republik Österreich (BGBl.).
 
 § 16. (1)  The  Agency  for  Quality  Assurance  and  Accreditation  Austria  shall, applying  the  Corporate  Code,  Law  Gazette  of  the  German  Reich p. 219/1897,  by analogy, install  an  accounting system, including income and expenditure accounting, which shall fall under the responsibility of the President of the Board and which
 
-- is appropriate for the tasks of the Agency,
+1. is appropriate for the tasks of the Agency,
 
-- guarantees the fulfilment of the reporting obligations according to the regulations issued by the Federal Minister of Finance for the establishment of a uniform federal planning, information, and reporting system for a share and finance controlling, Federal Law Gazette II No. 319/2002, and
+2. guarantees the fulfilment of the reporting obligations according to the regulations issued by the Federal Minister of Finance for the establishment of a uniform federal planning, information, and reporting system for a share and finance controlling, Federal Law Gazette II No. 319/2002, and
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
 
-- makes a division into accounting groups, with at least a division between the tasks according to § 3 para. 3 subparas. 1 to 6 and subparas. 7 to 10.
+3. makes a division into accounting groups, with at least a division between the tasks according to § 3 para. 3 subparas. 1 to 6 and subparas. 7 to 10.
 
 (2) The competent Federal Minister may, be decree, determine that the Agency for Quality  Assurance  and  Accreditation  Austria  shall  grant  him/her  continuous  and automated access in a technically appropriate format to the standardised data needed for planning, controlling and statistics.
 
 (3)  The  financial  year  of  the  Agency  for  Quality  Assurance  and  Accreditation Austria shall correspond to the calendar year.
 
-- The  President  shall  submit  annual  financial  statements  together  with  the auditor's  report  to  the  competent  Federal  Minister  by  30 June  of  each  year.  The financial statements shall consist of a balance sheet and a profit and loss account as well as notes on the financial statements. The auditor shall be a registered auditor and chartered accountant or an auditing and accounting firm independent of the Agency for Quality Assurance and Accreditation Austria. The provisions of the Commercial Code shall apply by analogy to the selection of the auditor and the auditor's liability as well as to the performance of the audit.
+(4) The President shall submit annual financial statements together with the auditor's report to the competent Federal Minister by 30 June of each year. The financial statements shall consist of a balance sheet and a profit and loss account as well as notes on the financial statements. The auditor shall be a registered auditor and chartered accountant or an auditing and accounting firm independent of the Agency for Quality Assurance and Accreditation Austria. The provisions of the Commercial Code shall apply by analogy to the selection of the auditor and the auditor's liability as well as to the performance of the audit.
 
 (5) The auditor shall be appointed by the competent Federal Minister as proposed by the Governing Committee prior to the end of financial year.
 
@@ -527,85 +527,85 @@ Bundesgesetzblatt für die Republik Österreich (BGBl.).
 
 (2) To universities under the Universities Act and the Act on the Danube University Krems  2004  as  well  as  to  providers  of  University  of  Applied  Sciences  degree programmes according to the University of Applied Sciences Studies Act, the following assessment areas shall, as a minimum, apply:
 
-- Quality  strategy  and  its  integration  into  the  management  tools  of  the  higher education institution;
+1. Quality strategy and its integration into the management tools of the higher education institution;
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
-- quality-assurance structures and procedures in the areas of degree programmes and teaching, research or advancement and appreciation of the arts  or  applied  research  and  development,  organisation  and  administration and staff;
+2. quality-assurance structures and procedures in the areas of degree programmes and teaching, research or advancement and appreciation of the arts or applied research and development, organisation and administration and staff;
 
-- integration  of internationalisation  and  societal  objectives  into  the  quality management system;
+3. integration of internationalisation and societal objectives into the quality management system;
 
-- information systems and involvement of stakeholder groups;
+4. information systems and involvement of stakeholder groups;
 
-- quality-assurance  structures  and  procedures  for  certificate  programmes  for further  education  offered  by  providers  of  University  of  Applied  Sciences degree programmes according to § 9 University of Applied Sciences Studies Act as well as certificate programmes for further education that are run jointly in  the  meaning  of  § 3  para. 2  subpara. 11  of  the  University  of  Applied Sciences Studies Act.
+5. quality-assurance structures and procedures for certificate programmes for further education offered by providers of University of Applied Sciences degree programmes according to § 9 University of Applied Sciences Studies Act as well as certificate programmes for further education that are run jointly in the meaning of § 3 para. 2 subpara. 11 of the University of Applied Sciences Studies Act.
 
-- The assessment areas for procedures of the Agency for Quality Assurance and Accreditation Austria shall be specified by the Board in the form of regulations.
+(3) The assessment areas for procedures of the Agency for Quality Assurance and Accreditation Austria shall be specified by the Board in the form of regulations.
 
-- The  certification  shall  be  limited  to  seven  years.  The  certification  shall  be extended until the completion of an on-going auditing procedure.
+(4) The certification shall be limited to seven years. The certification shall be extended until the completion of an on-going auditing procedure.
 
-- The certification can be made conditional, if it is discovered in the course of the audit that there are shortcomings in the quality management and if the assessment is made that these can be rectified within a reasonable period of time. If the certification is made conditional, the Agency for Quality Assurance and Accreditation Austria or the respective agency shall check whether these shortcomings have been rectified in the course of a follow-up procedure at the latest two years after the certification.
+(5) The certification can be made conditional, if it is discovered in the course of the audit that there are shortcomings in the quality management and if the assessment is made that these can be rectified within a reasonable period of time. If the certification is made conditional, the Agency for Quality Assurance and Accreditation Austria or the respective agency shall check whether these shortcomings have been rectified in the course of a follow-up procedure at the latest two years after the certification.
 
-- If the quality management system of the educational institution is not awarded a certification, a mandatory re-audit shall be performed exclusively by the Agency for Quality Assurance and Accreditation Austria after two years.
+(6) If the quality management system of the educational institution is not awarded a certification, a mandatory re-audit shall be performed exclusively by the Agency for Quality Assurance and Accreditation Austria after two years.
 
-- If  no  certification  is  awarded  or  a  conditional  certification  is  awarded  or  an incorrect  report  on  the  results  has  been,  in  the  opinion  of  the  educational  institution, submitted, the report on the results or the certification can be submitted to the Appeals Committee for inspection.
+(7) If no certification is awarded or a conditional certification is awarded or an incorrect report on the results has been, in the opinion of the educational institution, submitted, the report on the results or the certification can be submitted to the Appeals Committee for inspection.
 
 ### Accreditation of Universities of Applied Sciences and University of Applied Sciences Degree Programmes
 
 § 23. (1) The accreditation of a University of Applied Sciences or of University of Applied Sciences degree programmes  shall be governed by the accreditation requirements under the University of Applied Sciences Studies Act and the assessment areas named in paras. 3 or 4.
 
-- Those  providers  that  submit  their  initial  application  for  the  accreditation  as  a University  of  Applied  Sciences,  shall  undergo  an  institutional  accreditation  and  a programme accreditation.
+(2) Those providers that submit their initial application for the accreditation as a University of Applied Sciences, shall undergo an institutional accreditation and a programme accreditation.
 
-- The  assessment  areas  of  the  institutional  accreditation  shall,  as  a  minimum, include:
+(3) The assessment areas of the institutional accreditation shall, as a minimum, include:
 
-- Objectives and profile;
+1. Objectives and profile;
 
-- development planning;
+2. development planning;
 
-- degree programmes and teaching;
+3. degree programmes and teaching;
 
-- applied research and development;
+4. applied research and development;
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
 
-- organisation of the higher education institution and its activities;
+5. organisation of the higher education institution and its activities;
 
-- funding and resources;
+6. funding and resources;
 
-- national and international cooperation;
+7. national and international cooperation;
 
-- quality management system.
+8. quality management system.
 
 (4)  The  assessment  areas  of  the  programme  accreditation  for  the  University  of Applied Sciences degree programme applied for shall, as a minimum, include:
 
-- Degree programme and degree programme management;
+1. Degree programme and degree programme management;
 
-- staff;
+2. staff;
 
-- quality assurance;
+3. quality assurance;
 
-- funding and infrastructure;
+4. funding and infrastructure;
 
-- applied research and development;
+5. applied research and development;
 
-- national and international cooperation.
+6. national and international cooperation.
 
 (5)  The  Board  shall  issue  a  decree  upon  completion  of  a  public  assessment procedure  in  which  the  assessment  areas  and  the  methodological  principles  of  the institutional accreditation and the programme accreditation shall be laid down.
 
 (6) If the applying institution meets all requirements, an accreditation limited to six years  according  to  para. 1  and  para. 3  or  an  accreditation  for  an  unlimited  period according to para. 1 and para. 4 shall be awarded. The official accreditation notification shall, as a minimum, include the following information:
 
-- Accreditation period;
+1. Accreditation period;
 
-- name of the legal entity of the educational institution;
+2. name of the legal entity of the educational institution;
 
-- title,  type,  workload  of  the  degree  programmes,  duration  of  the  degree programmes, and number of study places;
+3. title, type, workload of the degree programmes, duration of the degree programmes, and number of study places;
 
-- denomination of the academic degrees to be awarded;
+4. denomination of the academic degrees to be awarded;
 
-- any other conditions to be met.
+5. any other conditions to be met.
 
 (7) A one-time prolongation of the institutional accreditation for six years shall be permissible upon application, if the requirements according to paras. 1 and 3 are still met. The prolongation of the accreditation shall also include the degree programmes already accredited at this point. Applications for the prolongation shall be made nine months  before  the  end  of  the  accreditation  period  at  the  latest.  If  the  institutional accreditation is not renewed, all programme accreditations awarded to the educational institution shall be revoked.
 
@@ -619,51 +619,53 @@ Bundesgesetzblatt für die Republik Österreich (BGBl.).
 
 ### Accreditation of Private Universities and Degree Programmes at Private Universities
 
-§ 24. (1)  The  accreditation  as  a  private  university  and  of  degree  programmes  at private universities is subject to the accreditation requirements stipulated in the Act on Private Universities and the assessment areas named in paras. 3, 4 or 5. (2)  Those  legal  entities  that  submit  their  initial  application  for  accreditation  as  a private university shall undergo  an  institutional  accreditation  and  a  programme accreditation. (3)  The  assessment  areas  of  the  institutional  accreditation  shall,  as  a  minimum,
+§ 24. (1) The accreditation as a private university and of degree programmes at private universities is subject to the accreditation requirements stipulated in the Act on Private Universities and the assessment areas named in paras. 3, 4 or 5.
 
-- include:
+(2) Those legal entities that submit their initial application for accreditation as a private university shall undergo an institutional accreditation and a programme accreditation.
 
-- Objectives and profile;
+(3) The assessment areas of the institutional accreditation shall, as a minimum, include:
 
-- development planning;
+1. Objectives and profile;
 
-- degree programmes and teaching;
+2. development planning;
 
-- research and development / appreciation and advancement of the arts;
+3. degree programmes and teaching;
 
-- organisation of the higher education institution and its activities;
+4. research and development / appreciation and advancement of the arts;
 
-- funding and resources;
+5. organisation of the higher education institution and its activities;
 
-- national and international cooperation;
+6. funding and resources;
 
-- quality management system.
+7. national and international cooperation;
 
-- The  assessment  areas  of  the  programme  accreditation  for  the  degree programme applied for shall, as a minimum, include:
+8. quality management system.
 
-- Degree programme and degree programme management;
+(4) The assessment areas of the programme accreditation for the degree programme applied for shall, as a minimum, include:
 
-- staff;
+1. Degree programme and degree programme management;
 
-- quality assurance;
+2. staff;
 
-- funding and infrastructure;
+3. quality assurance;
 
-- research and development;
+4. funding and infrastructure;
 
-- national and international cooperation.
+5. research and development;
 
-- The assessment areas of the programme accreditation for certificate university programmes for further education shall, as a minimum, include:
+6. national and international cooperation.
 
-- Degree programme and degree programme management;
+(5) The assessment areas of the programme accreditation for certificate university programmes for further education shall, as a minimum, include:
 
-- staff;
+1. Degree programme and degree programme management;
 
-- quality assurance;
+2. staff;
 
-- funding and infrastructure;
+3. quality assurance;
 
-- involvement of the certificate university programme in research and development or advancement and appreciation of the arts.
+4. funding and infrastructure;
+
+5. involvement of the certificate university programme in research and development or advancement and appreciation of the arts.
 
 [[END OF PAGE 17]]
 
@@ -673,15 +675,15 @@ Bundesgesetzblatt für die Republik Österreich (BGBl.).
 
 (7) If the applying institution meets all requirements, an accreditation limited to six years  shall  be  awarded.  The  official  accreditation  notification  shall,  as  a  minimum, include the following information:
 
-- Period of accreditation;
+1. Period of accreditation;
 
-- name of the legal entity of the educational institution;
+2. name of the legal entity of the educational institution;
 
-- title,  type,  workload  of  the  degree  programmes,  and  duration  of  the  degree programmes;
+3. title, type, workload of the degree programmes, and duration of the degree programmes;
 
-- denomination of the academic degrees to be awarded;
+4. denomination of the academic degrees to be awarded;
 
-- any other conditions to be met.
+5. any other conditions to be met.
 
 (8) A prolongation of an institutional accreditation for six years shall be permissible upon application, if the requirements under paras. 1 and 3 are still met. The prolongation  of  the  accreditation  includes  also  the  degree  programmes  already accredited at this point. The prolongation shall be applied for nine months before the end  of  the  accreditation  period  at  the  latest.  If  the  institutional  accreditation  is  not renewed, all programme accreditations of the educational institution shall be revoked.
 
@@ -699,9 +701,9 @@ Bundesgesetzblatt für die Republik Österreich (BGBl.).
 
 (2) The application shall include:
 
-- Name of the applying  legal  entity;  if  the  applying  institution  is  a  legal  entity governed by private law, an excerpt from the company register or register of associations shall be submitted as well;
+1. Name of the applying legal entity; if the applying institution is a legal entity governed by private law, an excerpt from the company register or register of associations shall be submitted as well;
 
-- all  documents  that  serve  to  prove  the  fulfilments  of  the  legally  mandated accreditation requirements.
+2. all documents that serve to prove the fulfilments of the legally mandated accreditation requirements.
 
 (3)  The  accreditation,  its  prolongation,  its  revocation,  and  its  expiry  shall  be confirmed by official notification. The members of the Board shall be independent and not  be  bound  by  any  instructions  in  the  exercise  of  their  office.  The  decision  of  the Board  shall  be  subject  to  approval  by  the  competent  Federal  Minister  prior  to  the issuing of the official notification. Approval shall not be given, if the decision violates any provision under this Act or is in conflict with national higher-education objectives.
 
@@ -715,33 +717,33 @@ Bundesgesetzblatt für die Republik Österreich (BGBl.).
 
 (6) The General Administrative Procedure Act and the Service of Documents Act, Federal  Law  Gazette  No. 200/1982,  shall  apply  to  the  accreditation  procedure,  the accreditation prolongation, its revocation, and the confirmation of its expiry, provided that:
 
-- The application  that  initiates  the  procedure  can  only  be  modified  before  the reports by the assessors have been received;
+1. The application that initiates the procedure can only be modified before the reports by the assessors have been received;
 
-- the period within which a decision is to be taken shall be nine months.
+2. the period within which a decision is to be taken shall be nine months.
 
-- The  Federal  Minister  is  not  the  competent  higher  authority  in  the  subject matter according to § 73 para. 2 of the General Administrative Procedure Act.
+3. The Federal Minister is not the competent higher authority in the subject matter according to § 73 para. 2 of the General Administrative Procedure Act.
 
 ### Expiry and Revocation of the Accreditation
 
 § 26. (1) The accreditation shall expire:
 
-- In case of a limited accreditation upon expiry of the term, unless an application for  prolongation  is  submitted  at  the  latest  nine  months  prior  to  expiry  of  the accreditation. If the procedure for the prolongation of the accreditation is not concluded  within  nine  months,  the  accreditation  shall  be  extended  until  the conclusion  of the procedure.  The  expiry  shall be  confirmed  by  official notification;
+1. In case of a limited accreditation upon expiry of the term, unless an application for prolongation is submitted at the latest nine months prior to expiry of the accreditation. If the procedure for the prolongation of the accreditation is not concluded within nine months, the accreditation shall be extended until the conclusion of the procedure. The expiry shall be confirmed by official notification;
 
-- in  case  of  the  dissolution  of  the  legal  entity  acting  as  legal  entity  of  the educational institution, at the time of its dissolution;
+2. in case of the dissolution of the legal entity acting as legal entity of the educational institution, at the time of its dissolution;
 
-- in case of the revocation of all programme accreditations or of the institutional accreditation of the educational institution.
+3. in case of the revocation of all programme accreditations or of the institutional accreditation of the educational institution.
 
-( 2) The Board shall, by official notification, revoke the accreditation:
+(2) The Board shall, by official notification, revoke the accreditation:
 
-- If  the  legal  prerequisites  according  to  the  University  of  Applied  Sciences Studies  Act  or the Act on  Private Universities are not fulfilled for  an uninterrupted period of at least six months;
+1. If the legal prerequisites according to the University of Applied Sciences Studies Act or the Act on Private Universities are not fulfilled for an uninterrupted period of at least six months;
 
-- in  case  of  non-compliance  with  the  obligation  to  report,  provide  information, and participate  in  data  collection  according  to  the  Education  Documentation Act,  Federal  Law  Gazette I  No. 12/2002,  and  the  University  of  Applied Sciences Studies Act;
+2. in case of non-compliance with the obligation to report, provide information, and participate in data collection according to the Education Documentation Act, Federal Law Gazette I No. 12/2002, and the University of Applied Sciences Studies Act;
 
-- in  cases  where  non-accredited  degree  programmes  are  offered  that  are intended to lead to academic degrees;
+3. in cases where non-accredited degree programmes are offered that are intended to lead to academic degrees;
 
-- in  case  of  serious  violations  of  legal  regulations,  if  this  puts  the  regular management of the degree programme in danger;
+4. in case of serious violations of legal regulations, if this puts the regular management of the degree programme in danger;
 
-- in the cases named under §§ 23 and 24.
+5. in the cases named under §§ 23 and 24.
 
 (3) If the accreditation of University of Applied Sciences degree programmes or of degree programmes at private universities has lapsed or was revoked, the provider or the  private  university's  owner  shall  submit  a  proposal  to  the  Agency  for  Quality Assurance and Accreditation Austria that makes it possible for students of the degree programmes  concerned  to  finish  their  studies  within  a  period  of  time  that  shall  not exceed the prescribed period of studies by more than one year. The provider or the private  university's  owner  shall  make  financial  provisions  for  the  financing  of  degree programmes that are to be discontinued. Proof of these provisions shall be supplied as part of the accreditation procedure.
 
@@ -757,13 +759,13 @@ Bundesgesetzblatt für die Republik Österreich (BGBl.).
 
 (2) An educational institution submitting an application shall present the following to the registration office:
 
-- A  certificate  confirming  that  the  educational  institution  is  recognised  as postsecondary  educational  institution  according  to  the  provisions  of  the country of origin or country of domicile;
+1. A certificate confirming that the educational institution is recognised as postsecondary educational institution according to the provisions of the country of origin or country of domicile;
 
-- documented evidence of the right to offer degree programmes lasting for at least  six  semesters,  the  admission  to  which  requires  the  general  university entrance qualification or an examination to demonstrate artistic aptitude, or the right  to  offer  subsequent  degree  programmes  as  well  as  the  right  to  award academic  degrees  according  to  the  provisions  of  the  country  of  origin  or country of domicile;
+2. documented evidence of the right to offer degree programmes lasting for at least six semesters, the admission to which requires the general university entrance qualification or an examination to demonstrate artistic aptitude, or the right to offer subsequent degree programmes as well as the right to award academic degrees according to the provisions of the country of origin or country of domicile;
 
-- information  on  the  degree  programmes  planned  in  Austria  or  planned  in cooperation with Austrian institutions together with their curricula and academic degrees;
+3. information on the degree programmes planned in Austria or planned in cooperation with Austrian institutions together with their curricula and academic degrees;
 
-- confirmation by the authority competent for higher education in the country of origin  or  country  of  domicile  that  the  degree  programmes  offered  in  Austria and  the  respective  academic  degrees  according  to  subpara. 3  are  legally effective in the country of origin or country of domicile.
+4. confirmation by the authority competent for higher education in the country of origin or country of domicile that the degree programmes offered in Austria and the respective academic degrees according to subpara. 3 are legally effective in the country of origin or country of domicile.
 
 (3)  The  competent  Federal  Minister  shall  act  as  registration  office.  The  General Administrative  Procedure  Act  and  the  Service  of  Documents  Act  shall  apply  to  the procedure. § 25 para. 6 shall apply by analogy.
 
@@ -815,15 +817,15 @@ supervision  by  the  competent  Federal  Minister  and  the  supervision  by  t
 
 [[START OF PAGE 23]]
 
-- examinations, services, and administration at higher education institutions. Each such inquiry shall be dealt with by the student ombudsman. The student and the educational institution shall be informed about the results as well as, if applicable, any measures taken.
+examinations, services, and administration at higher education institutions. Each such inquiry shall be dealt with by the student ombudsman. The student and the educational institution shall be informed about the results as well as, if applicable, any measures taken.
 
-- The student ombudsman shall have the right to request information from the respective bodies and members of the educational institutions concerning the matters brought forward by students. The bodies and members of the educational institutions shall be obliged to provide the student ombudsman with the requested information in the matters it deals with.
+(4) The student ombudsman shall have the right to request information from the respective bodies and members of the educational institutions concerning the matters brought forward by students. The bodies and members of the educational institutions shall be obliged to provide the student ombudsman with the requested information in the matters it deals with.
 
-- The student ombudsman can act as an advisor to the bodies of the educational institution.
+(5) The student ombudsman can act as an advisor to the bodies of the educational institution.
 
-- The student ombudsman shall be bound to observe confidentiality with regard to  all  facts  and  information  that  come  to  its  attention  exclusively  as  a  result  of  its activities.
+(6) The student ombudsman shall be bound to observe confidentiality with regard to all facts and information that come to its attention exclusively as a result of its activities.
 
-- The student ombudsman shall annually prepare a report on its activities. The report  for  the  preceding  academic  year  shall  be  submitted  to  the  competent  Federal Minister  and  the  National  Council  by  15  December  of  each  year  at  the  latest.  The report shall be published.
+(7) The student ombudsman shall annually prepare a report on its activities. The report for the preceding academic year shall be submitted to the competent Federal Minister and the National Council by 15 December of each year at the latest. The report shall be published.
 
 ## Section 9 Penal Provisions
 
@@ -835,9 +837,9 @@ supervision  by  the  competent  Federal  Minister  and  the  supervision  by  t
 
 § 33. (1) Employees who have employment contracts with the Federal Government under public or private law and are assigned to the Management Offices of  the  University  of  Applied  Sciences  Council  according  to  the  University  of  Applied Sciences  Studies  Act  or  of  the  Accreditation  Council  according  to  the  University Accreditation Act on the day before the entry into force of this Act, shall be assigned to the Management Office of the Agency for Quality Assurance and Accreditation Austria at the time of the entry into force of this Act.
 
-- Until 31 August 2012, the employees under para. 1 shall also render services in connection with the procedures to be concluded by the University of Applied Sciences Council and the Accreditation Council to the extent necessary.
+(2) Until 31 August 2012, the employees under para. 1 shall also render services in connection with the procedures to be concluded by the University of Applied Sciences Council and the Accreditation Council to the extent necessary.
 
-- The assignment according to para. 1 shall be deemed to be a secondment, the employees shall remain in the directory of budgeted posts of the Federal Government
+(3) The assignment according to para. 1 shall be deemed to be a secondment, the employees shall remain in the directory of budgeted posts of the Federal Government
 
 [[END OF PAGE 23]]
 
@@ -877,14 +879,14 @@ and shall be paid and administered by the Federal Ministry of Science and Resear
 
 § 37. (1)  §§ 4  to  13  and  § 36  para. 1  of  this  Act  shall  enter  into  force  upon  the expiry of the day they become accessible in the Federal Legal Information System.
 
-- All other provisions hereunder shall enter into force on 1 March 2012.
+(2) All other provisions hereunder shall enter into force on 1 March 2012.
 
 ### Enactment
 
 § 38. The following are entrusted with the enactment of this Federal Act:
 
-- with  respect  to  the  supervision  of  the  fulfilment  of  the  requirements  for  the accreditation with regard to health regulations provided for in § 29 para. 2, the Federal Minister for Health;
+1. with respect to the supervision of the fulfilment of the requirements for the accreditation with regard to health regulations provided for in § 29 para. 2, the Federal Minister for Health;
 
-- with  respect  to  all  other  provisions,  the  Federal  Minister  for  Science  and Research.
+2. with respect to all other provisions, the Federal Minister for Science and Research.
 
 [[END OF PAGE 25]]
