@@ -16,9 +16,9 @@ Chapter 163.
 
 ### PART I - PRELIMINARY.
 
-- Matter of national interest.
+- 1. Matter of national interest.
 
-- Interpretation.
+- 2. Interpretation.
 
 'appointment'
 
@@ -86,21 +86,21 @@ Chapter 163.
 
 #### Division 1 - Administration.
 
-- National Education System.
+- 3. National Education System.
 
-- Objects of the National Education System.
+- 4. Objects of the National Education System.
 
-- Administration of the National Education System.
+- 5. Administration of the National Education System.
 
-- Reference of certain questions to Head of State.
+- 6. Reference of certain questions to Head of State.
 
 #### Division 2 - Approved Plans for Education.
 
-- National education plan.
+- 7. National education plan.
 
-- National Capital District education plan.
+- 8. National Capital District education plan.
 
-- Development, etc., in accordance with approved plans.
+- 9. Development, etc., in accordance with approved plans.
 
 ### PART  III  -  GENERAL  ADMINISTRATION  OF  THE  NATIONAL EDUCATION SYSTEM.
 
@@ -108,11 +108,105 @@ Chapter 163.
 
 ##### Subdivision A - Constitution, etc.
 
-- Constitution of the National Education Board.
+- 10. Constitution of the National Education Board.
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+- 11. Tenure of office of members representing interest of the State.
+
+- 12. Tenure of office of members representing other than State interests.
+
+- 13. Vacation of office.
+
+- 14. Ineligibility.
+
+- 15. Alternate members.
+
+- 16. Executive Officer.
+
+- 17. Functions, etc.
+
+- 18. Responsibilities, etc.
+
+- 19. Powers in relation to national institutions.
+
+- 20. Annual report.
+
+##### Subdivision B - Procedure, etc.
+
+- 21. Chairman and Deputy Chairman.
+
+- 22. Meetings of National Education Board.
+
+- 23. Procedure at meetings.
+
+- 24. Committees of National Education Board.
+
+- 25. Delegation to National Education Board.
+
+- 26. Delegation by National Education Board.
+
+#### Division 2 - General Responsibilities, etc.
+
+- 27. Responsibilities of Minister.
+
+- 28. Responsibilities of Departmental Head.
+
+- 29. Functions of the Department.
+
+#### Division 3 - Administration of the National Education System in the National Capital District, etc.
+
+##### Subdivision A - Application of Division.
+
+- 30. Application of Division 3.
+
+##### Subdivision B - Education Boards.
+
+- 31. Constitution.
+
+- 32. Tenure of office of members representing interests of the State.
+
+- 33. Tenure of office of members representing other than State interests.
+
+- 34. Ineligibility.
+
+- 35. Alternate members.
+
+- 36. Functions, etc.
+
+- 37. Annual report by Education Board.
+
+##### Subdivision C - Suspension, etc., of Education Board.
+
+- 38. Suspension of Education Board.
+
+- 39. Effect of suspension.
+
+- 40. Appointment of Manager.
+
+- 41. Period of suspension.
+
+- 42. Appointment of members of new Education Board.
+
+- 43. References to suspended Education Board.
+
+- 44. Nature of suspended powers or functions.
+
+- 45. First meeting of new Education Board.
+
+##### Subdivision D - Procedure, etc.
+
+- 46. Chairman and Deputy Chairman.
+
+- 47. Meetings of Education Board.
+
+- 48. Procedure at meetings.
+
+- 49. Committees of Education Boards.
+
+- 50. Delegation by Education Board.
 
 #### Division 4 - Local-Level Governments.
 
@@ -120,85 +214,177 @@ Chapter 163.
 
 [[START OF PAGE 4]]
 
-(this page came through the extractor with no text)
+- 51. Application of Division 4.
+
+- 52. Functions of Local-level Governments to which this Division applies.
+
+- 53. Delegation to Local-level Governments.
+
+- 53A. District Education Office.
+
+- 53B. District Education Administrator.
+
+#### Division 5 - Education Agencies.
+
+- 54. Application of Division 5.
+
+- 55. Recognition of education agencies.
+
+- 56. Function of education agencies.
+
+- 57. Joint institutions.
+
+- 58. Education Secretaries.
+
+#### Division 6 - Governing Bodies.
+
+##### Subdivision A - Governing Bodies for Schools, etc., in National Capital District, etc.
+
+- 59. Application of Subdivision A.
+
+- 60. Boards of Management.
+
+- 61. Constitution, etc., of Boards of Management.
+
+- 62. Functions of Boards of Management.
+
+- 63. Delegation by Boards of Management.
+
+##### Subdivision B - Governing Bodies for Provincial High Schools.
+
+- 64. Application of Subdivision B.
+
+- 65. Board of Governors.
+
+- 66. Constitution, etc., of Boards of Governors.
+
+- 67. Chairman and Deputy Chairman of Board of Governors.
+
+- 68. Functions of Boards of Governors.
+
+- 69. Delegation by Boards of Governors.
+
+##### Subdivision C - Governing Bodies for National Institutions.
+
+- 70. Application of Subdivision C.
+
+- 71. Governing Councils.
+
+- 72. Constitution, etc., of Governing Councils.
+
+- 73. Chairman and Deputy Chairman of Governing Council.
+
+- 74. Functions of Governing Councils.
+
+- 75. Academic Advisory Committees.
+
+- 76. Committees of Governing Councils.
+
+- 77. Delegation by Governing Councils.
+
+##### Subdivision D - Provisions Relating to Governing Bodies Generally.
+
+- 78. Application of Subdivision D.
+
+- 79. Procedures of meetings.
+
+- 80. Imposition and collection of fees.
+
+- 81. Delegation.
+
+- 82. Minister may direct incorporation.
+
+##### Subdivision E - Suspension of Governing Bodies.
+
+- 83. Application of Subdivision.
+
+- 84. Suspension by National Education Board, etc.,.
+
+#### Division 7 - Administration Generally.
+
+- 85. Limitation of functions in relation to teachers, etc.
+
+- 86. Declaration of Office.
+
+- 87. Fees and allowances.
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-- Powers of inspection.
+- 88. Powers of inspection.
 
-- Parents' and Citizens' Associations.
+- 89. Parents' and Citizens' Associations.
 
-- Governing bodies may raise and expend money.
+- 90. Governing bodies may raise and expend money.
 
-- Suspension of classes, etc.
+- 91. Suspension of classes, etc.
 
 ### PART IV - MEMBERSHIP, ETC., OF SCHOOLS.
 
 #### Division 1 - Member Provincial Institution.
 
-- Interpretation of Division 1.
+- 92. Interpretation of Division 1.
 
-- Requirements for membership.
+- 93. Requirements for membership.
 
-- Cancellation of recognition of school, etc., as member school.
+- 94. Cancellation of recognition of school, etc., as member school.
 
 #### Division 2 - Member National Institutions.
 
-- Interpretation of Division 2.
+- 95. Interpretation of Division 2.
 
-- Requirements for membership.
+- 96. Requirements for membership.
 
-- Cancellation of recognition of national institution as a member national institution.
+- 97. Cancellation of recognition of national institution as a member national institution.
 
 - 97A. International schools.
 
 #### Division 3 - Permitted Schools.
 
-- Schools that are permitted schools.
+- 98. Schools that are permitted schools.
 
-- Students at permitted schools, etc.
+- 99. Students at permitted schools, etc.
 
 #### Division 4 - Schools Generally.
 
-- Register of schools.
+- 100. Register of schools.
 
-- Closure of schools, etc.
+- 101. Closure of schools, etc.
 
-- Reserved teaching positions.
+- 102. Reserved teaching positions.
 
-- Inservice College.
+- 103. Inservice College.
 
 ### PART V - APPEALS.
 
-- Appeals.
+- 104. Appeals.
 
 ### PART VI - TEACHERS.
 
-- Register of Teachers.
+- 105. Register of Teachers.
 
-- Cancellation of registration.
+- 106. Cancellation of registration.
 
 ### PART VII - GRANTS-IN-AID, SCHOLARSHIP, ETC.
 
-- Grants-in-aid.
+- 107. Grants-in-aid.
 
-- Scholarships in schools.
+- 108. Scholarships in schools.
 
-- Effect of Part VII.
+- 109. Effect of Part VII.
 
 ### PART  VIII  -  ADMINISTRATION  IN  A  PROVINCE  OR  UNDER  A PROVINCIAL LAW.
 
-- Delegation.
+- 110. Delegation.
 
-- Administration under a provincial law.
+- 111. Administration under a provincial law.
 
 ### PART IX - MISCELLANEOUS.
 
-- Obstruction.
+- 112. Obstruction.
 
-- Regulations.
+- 113. Regulations.
 
 ### SCHEDULE 1 - Powers and Functions which shall be Delegated.
 INDEPENDENT STATE OF PAPUA NEW GUINEA.
@@ -293,7 +479,7 @@ and does not include the National Education Board except where a declaration has
 
 'governing body' in relation to a school means-
 
-( a ) in the case of a primary school, community school or vocational centrethe  Board  of  Management  of  the  school  or  centre  established  by  the education agency conducting the school or centre and approved by the Education Board under Subdivision III.6.A; and
+( a ) in the case of a primary school, community school or vocational centre–the Board of Management of the school or centre established by the education agency conducting the school or centre and approved by the Education Board under Subdivision III.6.A; and
 
 ( b ) in the case of a high school other than a national high school-the Board of Governors established by the education agency conducting the school and approved by the Education Board under Subdivision III.6.B; and
 
@@ -499,7 +685,7 @@ Administration.
 
 ##### 3. National Education System.
 
-(1) Subject to Section 42 of the Organic Law on Provincial Governments and Locallevel Governments there shall be a National Education System that shall be administered by the National Government and by Provincial Governments.
+(1) Subject to Section 42 of the Organic Law on Provincial Governments and Local-level Governments there shall be a National Education System that shall be administered by the National Government and by Provincial Governments.
 
 (2) The National Education System shall consist of-
 
@@ -677,7 +863,7 @@ The National Education Board.
 
 [[START OF PAGE 16]]
 
-- A National Education Board for Papua New Guinea is hereby established.
+(1) A National Education Board for Papua New Guinea is hereby established.
 
 (2) Subject  to this section,  the  National  Education  Board  shall  consist  of the Departmental Head and the following members appointed by the Minister-
 
@@ -699,7 +885,7 @@ The National Education Board.
 
 ( b ) the knowledge of education matters of the proposed appointee.
 
-- A person who is or becomes-
+(4) A person who is or becomes-
 
 ( a ) a member of the Parliament; or
 
@@ -769,7 +955,7 @@ is not eligible to be or to continue to be a member of the National Education Bo
 
 ##### 17. Functions, etc.
 
-- Subject to this Act, the functions of the National Education Board are-
+(1) Subject to this Act, the functions of the National Education Board are-
 
 ( a ) after consultation with Provincial Governments, to advise the Minister on the national education plan in accordance with Section 7 for the development of the National Education System; and
 
@@ -883,7 +1069,7 @@ The National Education Board shall, as soon as practicable after 31 March in eac
 
 ##### 23. Procedure at meetings.
 
-- At meetings of the National Education Board-
+(1) At meetings of the National Education Board-
 
 ( a ) nine is a quorum; and
 
@@ -901,13 +1087,13 @@ The National Education Board shall, as soon as practicable after 31 March in eac
 
 ##### 24. Committees of National Education Board.
 
-- The National Education Board shall appoint-
+(1) The National Education Board shall appoint-
 
 ( a ) a professional committee for each class of national institution other than exempt national institutions for which it is responsible; and
 
 ( b ) such other committees as the Board thinks fit.
 
-- A committee established under Subsection (1)(a) shall include representatives of-
+(2) A committee established under Subsection (1)(a) shall include representatives of-
 
 ( a ) the Department responsible for education matters; and
 
@@ -1053,7 +1239,7 @@ In addition to his other powers, functions, duties and responsibilities under th
 
 The  Department  is  the  executive  and  inspectorial  branch  of  the  National  Education System and-
 
-( a ) for  the  purposes  of  this  Act  and  any  other law  relating to  education mattersshall  act  as  the  education  agency  for  the  State  for  State  agency  national institutions; and
+( a ) for the purposes of this Act and any other law relating to education matters–shall act as the education agency for the State for State agency national institutions; and
 
 ( b ) is responsible for the carrying out and supervision of functions and responsibilities of the State in the National Education System under this Act and any other law relating to education matters; and
 
@@ -1103,7 +1289,7 @@ This Division applies to the National Capital District and those provinces that 
 
 on the recommendation of the officer superintending education matters or the Divisional Head representing community interests in the National Capital District or the province, as the case may be.
 
-- A person who is or becomes-
+(3) A person who is or becomes-
 
 ( a ) a member of the Parliament; or
 
@@ -1157,11 +1343,12 @@ is not eligible to be or to continue to be a member of an Education Board.
 
 (1)  For  each  member  of  an  Education  Board  (other  than  the  officer  responsible  for superintending education matters in the National Capital District or the province, as the case may  be)  an  alternate  member  shall  be  appointed  in  the  same  way  and  subject  to  the  same conditions as the member for whom he is the alternate.
 
-(2) In the event of the absence from the country or the inability to act of a member of an Education Board (other than the officer responsible for superintending education matters in the National Capital District or the province, as the case may be), the alternate member has and may exercise all his powers, functions, duties and responsibilities.
+(2) In the event of the absence from the country or the inability to act of a member of an Education Board (other than the officer responsible for superintending education matters in the National Capital District or the province, as the case may be), the alternate member has and may
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
+exercise all his powers, functions, duties and responsibilities.
 
 ##### 36. Functions, etc.
 
@@ -1237,7 +1424,7 @@ An Education Board shall, as soon as practicable after 31 December in each year,
 
 ##### 38. Suspension of Education Board.
 
-- Where, in the opinion of the National Education Board-
+(1) Where, in the opinion of the National Education Board-
 
 ( a ) the  business  of  an  Education  Board  is  being  so  negligently,  inefficiently  or badly conducted as not to be in the interests of schools and national institutions in the National Capital District or a province; or
 
@@ -1319,7 +1506,7 @@ Within one month of the appointment of the new Education Board, it shall meet, a
 
 ##### 48. Procedure at meetings.
 
-- At a meeting of an Education Board-
+(1) At a meeting of an Education Board-
 
 ( a ) seven is a quorum; and
 
@@ -1357,11 +1544,12 @@ Within one month of the appointment of the new Education Board, it shall meet, a
 
 (3) The procedures of a committee shall be as determined by the Education Board.
 
-(4) Any committee formed shall, where appropriate, reflect the principle of partnership of all education authorities in the province.
+(4) Any committee formed shall, where appropriate, reflect the principle of partnership
 
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
+of all education authorities in the province.
 
 ##### 50. Delegation by Education Board.
 
@@ -1381,7 +1569,7 @@ This Division applies to Local-level Governments in-
 
 ##### 52. Functions of Local-level Governments to which this Division applies.
 
-(1) Subject to the provisions of the Local-level Governments Administration Act 1997 and any provincial law relating to Local-level Government matters, the functions of a Locallevel  Government in relation to  the  provincial  component of  the  National Education System are-
+(1) Subject to the provisions of the Local-level Governments Administration Act 1997 and any provincial law relating to Local-level Government matters, the functions of a Local-level Government in relation to the provincial component of the National Education System are-
 
 ( a ) to draw up plans for the establishment of schools in its area, and to submit such plans to the Education Board with a list of suggested priorities and a statement of  the  extent  to  which  it  is  prepared  and  is  legally  capable  of  financing  any programme for  the  construction  and  maintenance  of  the  necessary  buildings, teachers' houses and ancillary facilities; and
 
@@ -1495,7 +1683,7 @@ ancillary staff; and
 
 ( b ) directing  the  education  authority  responsible  for  each  school  to  collect  the common fee.
 
-- Where-
+(3) Where-
 
 ( a ) fees have been imposed under Section 17(1)(i)(i) or 36(1)(h)(i); or
 
@@ -1765,7 +1953,7 @@ In consultation with the National Education Board, an education agency shall est
 
 (1) A Governing Council shall consist of not less than 10 members of whom-
 
-( a ) in the case of a national institution other than a State agency national institutiontwo shall be nominated by the Minister; and
+( a ) in the case of a national institution other than a State agency national institution-two shall be nominated by the Minister; and
 
 ( b ) in the case of a State agency national institution-two shall be nominated jointly by  such  education  agencies  (other  than  the  State)  as,  in  the  opinion  of  the National Education Board, have an interest in the national institution; and
 
@@ -1789,7 +1977,7 @@ and shall include, as far as is practicable-
 
 (vii) subject to Subsection (4)-
 
-(A) in the case of schools providing teacher education-the Faculty of Education of the University or Papua New Guinea; or
+(A) in the case of schools providing teacher education-the Faculty of Education of the University of Papua New Guinea; or
 
 (B) in the case of schools providing technical education-the University of Technology; and
 
@@ -1879,11 +2067,12 @@ This Subdivision applies to-
 
 ##### 79. Procedures of meetings.
 
-(1) A Governing Body shall meet at least once in each school term and more often if convened by the Chairman by written notice to the members.
+(1) A Governing Body shall meet at least once in each school term and more often if
 
 [[END OF PAGE 43]]
 
 [[START OF PAGE 44]]
+convened by the Chairman by written notice to the members.
 
 (2) The Chairman shall, within one month after receiving a request from not less than-
 
@@ -1901,7 +2090,7 @@ of the Board or Council, as the case may be, convene a meeting of the Board or C
 
 ( c ) the Chairman has a deliberative and, in the event of an equality of votes on a matter, also a casting vote.
 
-- The head of a school shall appoint a Secretary to the governing body.
+(4) The head of a school shall appoint a Secretary to the governing body.
 
 (5)  A  governing  body  shall  cause  minutes  of  its  proceedings  to  be  kept  and  the Secretary shall forward copies of the minutes to the education agency, the Departmental Head and the National Education Board.
 
@@ -1927,11 +2116,12 @@ a governing body-
 
 (iii) the provision of buildings, equipment and other aids and facilities.
 
-(2) Money collected under Subsection (1) is in all cases, including State or provincial government agency schools, the property of the Board of Management, Board of Governors or Governing Council, as the case may be, that collected the fees and shall be used for the purpose specified in that subsection.
+(2) Money collected under Subsection (1) is in all cases, including State or provincial government agency schools, the property of the Board of Management, Board of Governors or Governing Council, as the case may be, that collected the fees and shall be used for the purpose
 
 [[END OF PAGE 44]]
 
 [[START OF PAGE 45]]
+specified in that subsection.
 
 ##### 81. Delegation.
 
@@ -1945,7 +2135,7 @@ The National Education Board,  the  Education Board  or  the  education  agency,
 
 ( d ) a committee of any of them,
 
-all or any or its powers and functions in relation to the school for which the Board or Council, as the case may be, is established (except this power of delegation and any power held under delegation under this Act or any other law relating to education matters).
+all or any of its powers and functions in relation to the school for which the Board or Council, as the case may be, is established (except this power of delegation and any power held under delegation under this Act or any other law relating to education matters).
 
 ##### 82. Minister may direct incorporation.
 
@@ -1967,21 +2157,22 @@ This  Subdivision  applies  in  relation  to  suspension  of  governing  bodies 
 
 ##### 84. Suspension by National Education Board, etc.,.
 
-- For the purpose of this section, 'Education Board' -
+(1) For the purpose of this section, 'Education Board' -
 
-( a ) in  relation  to  a  national  institution  other  than  an  exempt  national  institutionmeans the National Education Board; and
+( a ) in relation to a national institution other than an exempt national institution-means the National Education Board; and
 
 ( b ) in  relation  to  any  other  school-means  an  Education  Board  established  under Division III.3.
 
 (2)  Where in the opinion of an Education Board, the affairs of a member school are being  mismanaged  by  its  governing  body  or  the  governing  body  fails  to  comply  with requirements of or under this Act or any other law relating to education matters or applying to the school, the Education Board may, by written notice to the education agency conducting the school, suspend the governing body.
 
-(3) Where, in the opinion of an education agency conducting a school, the affairs of the school are being mismanaged by its governing body or the governing body fails to comply with  requirements  of  or  under  this  Act  or  any  other  law  relating  to  education  matters,  the education agency may request the Education Board to suspend the governing body and where the  Education  Board  is  satisfied  that  the  request  is  justified  it  may,  by  written  notice  to  the education agency, suspend the governing body.
+(3) Where, in the opinion of an education agency conducting a school, the affairs of the school are being mismanaged by its governing body or the governing body fails to comply
 
 [[END OF PAGE 45]]
 
 [[START OF PAGE 46]]
+with requirements of or under this Act or any other law relating to education matters, the education agency may request the Education Board to suspend the governing body and where the Education Board is satisfied that the request is justified it may, by written notice to the education agency, suspend the governing body.
 
-- Where a governing body is suspended under Subsection (2) or (3)-
+(4) Where a governing body is suspended under Subsection (2) or (3)-
 
 ( a ) the appointments of all members of the governing body terminate; and
 
@@ -2041,13 +2232,13 @@ may be paid by  the  State  such  fees,  allowances  and  expenses  in  such  ci
 
 (1) The Minister, a Provincial Government, the National Education Board, an Education Board, an education agency or a person authorized for the purpose by him or it, as the case may be, may at all reasonable times enter and inspect for the purpose of this Act or any law relating to education matters, a school within his or its jurisdiction.
 
-- For the purposes of Subsection (1)-
+(2) For the purposes of Subsection (1)-
 
 ( a ) all  national  institutions  within  the  National  Education  System  including  all schools  within  the  National  Capital District  shall  be  deemed  to  be  within  the jurisdiction of the Minister and of the National Education Board; and
 
 ( b ) all schools other than national institutions within a province shall be deemed to be within the jurisdiction of the Provincial Government for that province and the Education Board.
 
-(3)  The  Minister,  or  a  person  authorized  for  the  purpose  by  him,  or  an  authorized representative  or  a  provincial  government  may  at  all  reasonable  times  enter  and  inspect  a permitted school.
+(3) The Minister, or a person authorized for the purpose by him, or an authorized representative of a Provincial Government may at all reasonable times enter and inspect a permitted school.
 
 ##### 89. Parents' and Citizens' Associations.
 
@@ -2137,7 +2328,7 @@ In this Division 'school' means a provincial institution in a province that does
 
 ##### 93. Requirements for membership.
 
-- Where the Education Board is satisfied, on application by an education agency that-
+(1) Where the Education Board is satisfied, on application by an education agency that-
 
 ( a ) subject to  this  Act,  the  school  will  admit  students  irrespective  of  religious  or doctrinal affiliations and that it will generally be conducted in accordance with the objects and purposes of the National Education System and of this Act; and
 
@@ -2191,12 +2382,12 @@ In this Division, 'Education Board' means-
 
 and  that  appropriate  arrangements  or  undertakings  have  been  made  accordingly,  he  may recognize  the  national  institution  as  a  member  national  institution  of  the  National  Education System.
 
-(2)  Nothing  in  this  section  relating  to  the  numbers  and  qualifications  of  persons engaged in teaching duties applies in relation to the teaching of subjects outside the subjects of the curricula determined under Section 27.
+(2) Nothing in this section relating to the numbers and qualifications of persons engaged in teaching duties applies in relation to the teaching of subjects outside the subjects of
 
 [[END OF PAGE 50]]
 
 [[START OF PAGE 51]]
-
+the curricula determined under Section 27.
 ##### 97. Cancellation of recognition of national institution as a  member  national institution.
 
 (1)  Subject  to  Subsection  (2),  where  the  Minister,  after  receiving  a  report  from  the Education Board, is satisfied that a national institution that has been recognized as a member national  institution  of  the  National  Education  System  has  ceased  to  comply  with  the requirements of a member national institution or the arrangements and undertakings referred to in Section 96 have not been continued in force or complied with, the Minister may cancel the recognition of the national institution as a member national institution.
@@ -2427,7 +2618,7 @@ to such extent and on such terms and conditions as are determined by the Head of
 
 on such terms and conditions as he determines.
 
-- An application for a scholarship under this section shall be as prescribed.
+(2) An application for a scholarship under this section shall be as prescribed.
 
 ##### 109. Effect of Part VII.
 
