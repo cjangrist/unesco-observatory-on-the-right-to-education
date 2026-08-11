@@ -4,9 +4,9 @@
 
 Convención y la Recomendación relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza (1960)
 
-## Información sobre las medidas legislativas, judiciales, administrativas o de otra índole adoptadas por el Estado a escala nacional
+## I. Información sobre las medidas legislativas, judiciales, administrativas o de otra índole adoptadas por el Estado a escala nacional
 
-### Ratificación de la Convención 2
+### 1. Ratificación de la Convención 2
 
 ¿Es su país un Estado Parte en la Convención?
 
@@ -26,9 +26,9 @@ o En preparación activa
 
 Describa:
 
-- è Los  obstáculos,  ya  sean  de  carácter  jurídico,  institucional,  político  o práctico
+- ➔ Los obstáculos, ya sean de carácter jurídico, institucional, político o práctico
 
-- è Cómo  el  país  ha  superado  dichos  obstáculos  y  en  qué  medida  la UNESCO puede ayudarlo a completar el proceso
+- ➔ Cómo el país ha superado dichos obstáculos y en qué medida la UNESCO puede ayudarlo a completar el proceso
 
 Perú ratificó la convención el 19 de diciembre de 1966.
 
@@ -36,7 +36,7 @@ Perú ratificó la convención el 19 de diciembre de 1966.
 
 Fuente: UNESCO- PÁGINA WEB )
 
-> 1 Esta encuesta ha sido resuelta en base a los insumos otorgados por:  Dirección General de Educación Básica Alternativa, Intercultural Bilingüe y de Servicios Educativos en el Ámbito Rural (Memorándum 00361-MINEDU-VMGP-DIGEIBIRA);  Dirección  General  de  Básica  Regular  (Oficio  00440-2020MINEDU-VMGP-DIGEBR);  Dirección  General  de  Desarrollo  Docente  (Oficio  00539-2020-MINEDUVMGP-DIGEDD);  Oficina  General  de  Asesoría  Jurídica  (Memorándum  00309-2020-MINEDU-SGOGAJ);  Dirección  General  de  Servicios  Educativos  Especializados  (Memorándum  00269-2020MINEDU-VMGP-DIGESE);  Dirección  General  de  Infraestructura Educativa (Oficio  01377-2020MINEDU-VMGI-DIGEIE);  Dirección  General  de  Calidad  de  la  Gestión  Escolar  (Oficio  00226-2020MINEDU-VMGI-DIGC);  Dirección  General  de  Educación  Superior  Universitaria  (Oficio  00523-2020MINEDU-VMPG-DIGESU)  y  Dirección General de Educación Técnica Productiva y Superior Tecnológica y Artística (Informe 096-2020-MINEDU-VMGP-DIGESUTPA-DISERTPA-BAAE)
+> 1 Esta encuesta ha sido resuelta en base a los insumos otorgados por: Dirección General de Educación Básica Alternativa, Intercultural Bilingüe y de Servicios Educativos en el Ámbito Rural (Memorándum 00361-MINEDU-VMGP-DIGEIBIRA); Dirección General de Básica Regular (Oficio 00440-2020-MINEDU-VMGP-DIGEBR); Dirección General de Desarrollo Docente (Oficio 00539-2020-MINEDU-VMGP-DIGEDD); Oficina General de Asesoría Jurídica (Memorándum 00309-2020-MINEDU-SG-OGAJ); Dirección General de Servicios Educativos Especializados (Memorándum 00269-2020-MINEDU-VMGP-DIGESE); Dirección General de Infraestructura Educativa (Oficio 01377-2020-MINEDU-VMGI-DIGEIE); Dirección General de Calidad de la Gestión Escolar (Oficio 00226-2020-MINEDU-VMGI-DIGC); Dirección General de Educación Superior Universitaria (Oficio 00523-2020-MINEDU-VMPG-DIGESU) y Dirección General de Educación Técnica Productiva y Superior Tecnológica y Artística (Informe 096-2020-MINEDU-VMGP-DIGESUTPA-DISERTPA-BAAE)
 
 > 2 http://portal.unesco.org/es/ev.php-URL_ID=12949&URL_DO=DO_TOPIC&URL_SECTION=201.html
 
@@ -44,13 +44,15 @@ www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
 
+EL PERÚ PRIMERO
+
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
 o No, su país no está considerando la posibilidad de ratificar este instrumento en un futuro próximo. Por favor, explique por qué:
 
-### Ratificación del Protocolo para instituir una Comisión de Conciliación y Buenos Oficios facultada para resolver las controversias que puedan plantearse entre Estados Partes en la Convención relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza 3
+### 2. Ratificación del Protocolo para instituir una Comisión de Conciliación y Buenos Oficios facultada para resolver las controversias que puedan plantearse entre Estados Partes en la Convención relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza 3
 
 ¿Ha ratificado su país el Protocolo?
 
@@ -58,7 +60,7 @@ o X Sí
 
 o No. Por favor, explique brevemente las dificultades encontradas:
 
-### Marco  jurídico  que  rige  la  protección  de  los  derechos  consagrados  en  la Convención y la Recomendación en el ordenamiento jurídico interno
+### 3. Marco jurídico que rige la protección de los derechos consagrados en la Convención y la Recomendación en el ordenamiento jurídico interno
 
 #### Si su país es un Estado Parte en la Convención:
 
@@ -88,6 +90,8 @@ www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
 
+EL PERÚ PRIMERO
+
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
@@ -114,9 +118,9 @@ En  caso  afirmativo,  pueden  mencionarse  en  el  informe  los  principales  t
 
 Puede facilitarse información sobre la forma en que tales políticas y programas cumplen los compromisos relativos al derecho a la educación consagrados en la Recomendación.
 
-## Información sobre la aplicación de la Convención o la Recomendación
+## II. Información sobre la aplicación de la Convención o la Recomendación
 
-### No discriminación e igualdad de posibilidades de educación en el contexto del Objetivo de Desarrollo Sostenible 4 (ODS 4)
+### 1. No discriminación e igualdad de posibilidades de educación en el contexto del Objetivo de Desarrollo Sostenible 4 (ODS 4)
 
 Los artículos  o  párrafos  1.1,  2  y  3  de  la  Convención  o  la  Recomendación  hacen referencia a la no discriminación y a la igualdad de posibilidades en la esfera de la enseñanza. Esta  parte  se  refiere  al  objetivo  principal  de  la  Convención  y  la Recomendación,  a  saber,  subrayar  la  obligación  de  los  Estados  de  prohibir  toda forma de discriminación en la enseñanza y promover al mismo tiempo la igualdad de oportunidades educativas.
 
@@ -125,6 +129,8 @@ Este aspecto corresponde a la aspiración general del ODS 4, que tiene por objet
 www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
+
+EL PERÚ PRIMERO
 
 [[END OF PAGE 3]]
 
@@ -176,6 +182,8 @@ www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
 
+EL PERÚ PRIMERO
+
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
@@ -216,17 +224,19 @@ www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
 
+EL PERÚ PRIMERO
+
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
 Proporcione  una  breve  descripción  de  los  textos  jurídicos,  reglamentarios  o normativos pertinentes, incluidas las medidas relacionadas con:
 
-- è La  no  discriminación  en  lo  que  respecta  a  la  admisión  de  alumnos  en  las instituciones educativas
+- ➔ La no discriminación en lo que respecta a la admisión de alumnos en las instituciones educativas
 
-- è El trato igualitario, incluso para los extranjeros residentes en su país
+- ➔ El trato igualitario, incluso para los extranjeros residentes en su país
 
-##### Decreto  Supremo  Nº  004-2018-MINEDU,  aprobó  los  'Lineamientos  para  la gestión de la convivencia escolar, la prevención y la atención de la violencia contra niñas, niños y adolescentes'.
+##### a) Decreto Supremo Nº 004-2018-MINEDU, aprobó los 'Lineamientos para la gestión de la convivencia escolar, la prevención y la atención de la violencia contra niñas, niños y adolescentes'.
 En el  capítulo  VIII  'Disposiciones  Generales'  de  dichos  lineamientos,  dentro  del subcapítulo 8.2 'Gestión de la convivencia escolar', se menciona la participación de niños, niñas y adolescentes, haciéndose énfasis en que los Comité de Tutoría y Orientación  Educativa  deben  favorecer  la  participación  equitativa  de  las  y  los estudiantes,  así  como  de  estudiantes  con  discapacidad,  migrantes,  indígenas  y
 
 afroperuanos, evitando la reproducción de estereotipos.
@@ -241,13 +251,13 @@ o X Existen políticas y programas que garantizan la igualdad de acceso a todos 
 
 o X Otra:
 
-- Política  Sectorial  de  Educación  Intercultural  y  Educación  Intercultural  Bilingüe, aprobada  mediante  D.S  N°  006-2016-MINEDU  del  08  de  julio  de  2016  y  su Actualización 6 de  la  Política  Sectorial  de  Educación  Intercultural  y  Educación Intercultural Bilingüe priorizada mediante RM N° 357-2019-MINEDU del 12 de julio de 2019), en ella se establecen lineamientos que dan el marco para la atención a la población afroperuana.
+a) Política Sectorial de Educación Intercultural y Educación Intercultural Bilingüe, aprobada mediante D.S N° 006-2016-MINEDU del 08 de julio de 2016 y su Actualización 6 de la Política Sectorial de Educación Intercultural y Educación Intercultural Bilingüe priorizada mediante RM N° 357-2019-MINEDU del 12 de julio de 2019), en ella se establecen lineamientos que dan el marco para la atención a la población afroperuana.
 
-- Política  de  Atención  Educativa  para  la  Población  de  Ámbitos  Rurales,  aprobada mediante DS Nº 013-Minedu-2018, en su objetivo Nº 1 'Asegurar la accesibilidad de los servicios educativos de calidad a estudiantes de ámbitos rurales'.
+b) Política de Atención Educativa para la Población de Ámbitos Rurales, aprobada mediante DS Nº 013-Minedu-2018, en su objetivo Nº 1 'Asegurar la accesibilidad de los servicios educativos de calidad a estudiantes de ámbitos rurales'.
 
-- Modelos de servicio EIB, Multigrado, 3 Modelos de Secundaria parea áreas rurales.
+c) Modelos de servicio EIB, Multigrado, 3 Modelos de Secundaria parea áreas rurales.
 
-- Presencia de Instancias Gubernamentales que velan por garantizar el derecho a la igualdad de condición incluido el acceso a la Educación y sancionan algún tipo de vulnerabilidad:  Ministerio  de  Educación,  Ministerio  de  la  Mujer  y  Poblaciones Vulnerables, Ministerio de Desarrollo e Inclusión Social, Defensoría del Pueblo, entre otros.
+d) Presencia de Instancias Gubernamentales que velan por garantizar el derecho a la igualdad de condición incluido el acceso a la Educación y sancionan algún tipo de vulnerabilidad: Ministerio de Educación, Ministerio de la Mujer y Poblaciones Vulnerables, Ministerio de Desarrollo e Inclusión Social, Defensoría del Pueblo, entre otros.
 
 - Mencione los textos jurídicos, reglamentarios o normativos pertinentes y proporcione una breve descripción de las medidas adoptadas:
 
@@ -256,6 +266,8 @@ o X Otra:
 www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
+
+EL PERÚ PRIMERO
 
 [[END OF PAGE 6]]
 
@@ -279,8 +291,6 @@ El servicio educativo en la Formación Inicial Docente, se brinda en corresponde
 
 #### 1.3 Indique las medidas que ha adoptado o que prevé adoptar su país para garantizar la igualdad de oportunidades (en términos de acceso, participación y finalización) y la igualdad de trato y para apoyar la inclusión de todos los educandos (incluidas las niñas y las mujeres, las personas marginadas económica y socialmente, las personas con discapacidad y otros grupos vulnerables) en los procesos de aprendizaje (pueden marcarse o mencionarse varios puntos):
 
-- o X Ofrecer itinerarios de aprendizaje flexibles
-
 o X Ofrecer incentivos financieros y becas
 
 o X Adoptar medidas de acción positiva o afirmativa
@@ -291,15 +301,17 @@ o X Formar a los docentes en materia de educación inclusiva
 
 o X Garantizar la paridad entre los sexos en las ciencias, tecnología, ingeniería y
 
-- o X Proporcionar asistencia auxiliar
+o X Proporcionar asistencia auxiliar
 
-- o X Adaptar las infraestructuras educativas
+o X Adaptar las infraestructuras educativas
 
-- o X Adaptar los planes y los métodos de estudio
+o X Adaptar los planes y los métodos de estudio
 
 o Impartir clases de idiomas a los recién llegados (por ejemplo, los refugiados)
 
-- o X Eliminar las barreras administrativas a la educación 8
+o X Eliminar las barreras administrativas a la educación 8
+
+o X Ofrecer itinerarios de aprendizaje flexibles
 
 > 7 En la cual se insta a los Estados a 'aumentar considerablemente a nivel mundial el número de becas disponibles [...] a fin de que sus estudiantes puedan matricularse en programas de enseñanza superior, incluidos  programas  de  formación  profesional  y  programas  técnicos,  científicos,  de  ingeniería  y  de tecnología de la información y las comunicaciones'.
 
@@ -308,6 +320,8 @@ o Impartir clases de idiomas a los recién llegados (por ejemplo, los refugiados
 www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
+
+EL PERÚ PRIMERO
 
 [[END OF PAGE 7]]
 
@@ -327,7 +341,7 @@ o X Luchar contra los estereotipos y la estigmatización
 
 Instauración de políticas gubernamentales que contribuyen a garantizar la igualdad entre los géneros y el empoderamiento de las niñas y las mujeres en la educación y por medio de ella:
 
-- Plan Nacional Contra la Violencia de Género 2016 - 2021 (Decreto Supremo N° 0082016-MIMP).
+- Plan Nacional Contra la Violencia de Género 2016 - 2021 (Decreto Supremo N° 008-2016-MIMP).
 
 - Plan de Igualdad de Oportunidades Para las Personas con Discapacidad 2009 -2018 (Decreto Supremo N° 007-2008-MIMDES).
 
@@ -356,6 +370,8 @@ Mencione las leyes y disposiciones pertinentes:
 www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
+
+EL PERÚ PRIMERO
 
 [[END OF PAGE 8]]
 
@@ -393,6 +409,8 @@ www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
 
+EL PERÚ PRIMERO
+
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
@@ -420,6 +438,8 @@ El  Estado  cuenta  con  una  diversidad  de  servicios  de  atención  para  la
 www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
+
+EL PERÚ PRIMERO
 
 [[END OF PAGE 10]]
 
@@ -465,6 +485,8 @@ www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
 
+EL PERÚ PRIMERO
+
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
@@ -477,7 +499,7 @@ Artículo 12°.- Universalización de la Educación Básica Para asegurar la uni
 
 Ley de los Centros Educativos Privados, LEY Nº 26549 Artículo 16.- Los centros educativos no podrán condicionar la atención de los reclamos formulados por los usuarios al pago de las pensiones. Los usuarios no podrán ser obligados al pago de sumas o recargos por conceptos diferentes de los establecidos en esta Ley. Sólo por resolución de la autoridad competente del Ministerio de Educación se autorizarán cuotas extraordinarias, previa verificación de los motivos que diesen lugar a éstas.
 
-Norma  Técnica  denominada  'Norma  que  regula  la  matrícula  escolar  y  traslado  en  las instituciones educativas y programas de Educación Básica'. (Resolución Ministerial Nº 6652018-MINEDU)
+Norma Técnica denominada 'Norma que regula la matrícula escolar y traslado en las instituciones educativas y programas de Educación Básica'. (Resolución Ministerial Nº 665-2018-MINEDU)
 
 (…)
 
@@ -489,13 +511,15 @@ Numeral 5.4.5.) 'Durante a matrícula, en la IE o Programa, está prohibida cual
 
 - 5.4.8) Ningún NNA, joven o adulto puede recibir el servicio educativo sin estar matriculado.
 
-Norma Técnica denominada  'Orientaciones  para  el  desarrollo  del  Año  Escolar  2020  en Instituciones Educativas y Programas Educativos de la Educación Básica' (RVM N° 2202019MINEDU)
+Norma Técnica denominada 'Orientaciones para el desarrollo del Año Escolar 2020 en Instituciones Educativas y Programas Educativos de la Educación Básica' (RVM N° 220-2019-MINEDU)
 
 - 6.3.2.2  Con  respecto  a  la  asistencia  de  los  estudiantes,  el  personal  directivo  debe implementar mecanismos de promoción, registro y seguimiento a la asistencia de las y los estudiantes y no deberá restringirse al acceso de los estudiantes a la IE por motivos de tardanza. En el caso de II.EE públicas no deben existir condicionamientos asociados a pagos, donaciones y otros conceptos que puedan o busquen restringir la asistencia y permanencia del estudiante en el servicio educativo. En ese sentido, se recalca que la compra el uso del uniforme escolar no es obligatorio para la asistencia a clases de las y los estudiantes. En el caso de las II.EE PRIVADAS, según su marco normativo vigente, el uso del uniforme escolar
 
 www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
+
+EL PERÚ PRIMERO
 
 [[END OF PAGE 12]]
 
@@ -534,6 +558,8 @@ La capacitación para el trabajo es parte de la formación básica de todos los 
 www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
+
+EL PERÚ PRIMERO
 
 [[END OF PAGE 13]]
 
@@ -575,6 +601,8 @@ www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
 
+EL PERÚ PRIMERO
+
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
@@ -595,9 +623,9 @@ o Otra:
 
 - Proporcione  una  breve  descripción  de  los  textos  jurídicos,  reglamentarios  o normativos pertinentes, incluidas las medidas relacionadas con:
 
-- è La  no  discriminación  en  lo  que  respecta  a  la  admisión  de  estudiantes  en  las instituciones de enseñanza superior por los motivos prohibidos por la Convención y la Recomendación
+- ➔ La no discriminación en lo que respecta a la admisión de estudiantes en las instituciones de enseñanza superior por los motivos prohibidos por la Convención y la Recomendación
 
-- è El trato igualitario, incluso para los estudiantes extranjeros
+- ➔ El trato igualitario, incluso para los estudiantes extranjeros
 
 -Tanto en la Ley de Institutos y Escuelas de Educación Superior y de la Carrera Pública de sus Docentes y su Reglamento (N° 30512), establecen que el proceso de admisión se debe realizar garantizando los principios de mérito, transparencia y equidad. Este último principio está referido  que  el  servicio  educativo  alcance  a  todas  las  personas,  evitando  situaciones  de discriminación  y  desigualdad  por  motivo  de  origen,  raza,  sexo,  idioma,  religión,  opinión, condición  económica  o  de  cualquier  otra  índole.  Asimismo,  promueve  las  políticas  de reconocimiento positivo de la diversidad cultural, para ello garantizan los ajustes razonables que permitan el acceso y permanencia de poblaciones en vulnerabilidad o discapacidad.
 
@@ -612,6 +640,8 @@ o Otra:
 www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
+
+EL PERÚ PRIMERO
 
 [[END OF PAGE 15]]
 
@@ -637,7 +667,7 @@ o La enseñanza superior se hace accesible a través de un sistema de transferen
 
 o X Otra:
 
-- El Decreto Supremo N° 011-2019-MINEDU, que modifica el Reglamento de Reconocimiento  de  Asociaciones  como  entidades  no  lucrativas  con  fines  educativos, aprobado por Decreto Supremo N° 002-98-ED, el Reglamento de la Ley N° 29394, Ley de Institutos y Escuelas de Educación Superior, aprobado por Decreto Supremo N° 004-2010ED y  el  Reglamento  de  la  Ley  N°  30512,  Ley  de  Institutos  y  Escuelas  de  Educación Superior y de la Carrera Pública de sus Docentes, aprobado mediante Decreto Supremo N° 010-2017-MINEDU, renueva el reconocimiento de las Asociaciones como entidades no lucrativas  con  fines  educativos  y  establece  los  requisitos  para  la  renovación  de reconocimiento, entre ellas la información de las acciones de monitoreo y evaluación del cumplimiento de las actividades del Plan de Trabajo, y reporte de los  beneficiarios por cada año y proyecto ejecutado, según el ámbito de acción y conclusiones. Ello constituye uno de los esfuerzos del Gobierno orientado a ampliar alternativas para una enseñanza superior sea en lo posible gratuita y/o accesible a todos por igual.
+El Decreto Supremo N° 011-2019-MINEDU, que modifica el Reglamento de Reconocimiento de Asociaciones como entidades no lucrativas con fines educativos, aprobado por Decreto Supremo N° 002-98-ED, el Reglamento de la Ley N° 29394, Ley de Institutos y Escuelas de Educación Superior, aprobado por Decreto Supremo N° 004-2010-ED y el Reglamento de la Ley N° 30512, Ley de Institutos y Escuelas de Educación Superior y de la Carrera Pública de sus Docentes, aprobado mediante Decreto Supremo N° 010-2017-MINEDU, renueva el reconocimiento de las Asociaciones como entidades no lucrativas con fines educativos y establece los requisitos para la renovación de reconocimiento, entre ellas la información de las acciones de monitoreo y evaluación del cumplimiento de las actividades del Plan de Trabajo, y reporte de los beneficiarios por cada año y proyecto ejecutado, según el ámbito de acción y conclusiones. Ello constituye uno de los esfuerzos del Gobierno orientado a ampliar alternativas para una enseñanza superior sea en lo posible gratuita y/o accesible a todos por igual.
 
 - Facilite más detalles sobre las medidas adoptadas y proporcione información breve sobre los costos financieros de recibir educación en instituciones públicas o privadas de enseñanza superior, en caso de que la enseñanza superior no sea gratuita.
 
@@ -645,19 +675,21 @@ www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
 
+EL PERÚ PRIMERO
+
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
 
 En esta parte, también puede proporcionar información sobre las dificultades que ha encontrado su Gobierno para garantizar el acceso universal a la enseñanza superior. Pueden añadirse datos cuantitativos.
 
-Sobre  los costos  financieros  de  la  Educación  Superior  Pedagógica  en instituciones públicas , se tiene el siguiente estudio:
+Sobre los costos financieros de la Educación Superior Pedagógica en instituciones públicas, se tiene el siguiente estudio:
 
 ESTIMACIÓN DEL GASTO PÚBLICO PER CÁPITA DE ESTUDIANTES DE EDUCACIÓN SUPERIOR PEDAGÓGICA, SEGÚN REGIÓN: PERÚ - AÑO 2018
 
-Región/ Nivel Educativo | N° Aula s | N° Docente s | N° Estudiantes | Promedio estudiantes / aula | Presupuest o (S/.) | Presupuesto /estudiante (S/.)
+Región/Nivel Educativo | N° Aulas | N° Docentes | N° Estudiantes | Promedio estudiantes/aula | Presupuesto (S/.) | Presupuesto/estudiante (S/.)
 --- | --- | --- | --- | --- | --- | ---
-Total | 1,19 4 | 2,421 | 30,207 | 25 | 125,950,300 | 4,169.57
+Total | 1,194 | 2,421 | 30,207 | 25 | 125,950,300 | 4,169.57
 Amazonas | 41 | 67 | 917 | 22 | 3,898,748 | 4,252
 Áncash | 82 | 158 | 2,012 | 25 | 8,888,619 | 4,418
 Apurímac | 46 | 66 | 1,105 | 24 | 1,574,114 | 1,425
@@ -703,6 +735,8 @@ www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
 
+EL PERÚ PRIMERO
+
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
@@ -713,6 +747,25 @@ acceso de la población rural y de habla nativa, considerando a la población en
 
 - Evidencia: En el año 2018, mientras que el 55% de los jóvenes del quintil más rico accede a una universidad o instituto, únicamente el 11% de jóvenes del quintil más pobre pudieron acceder al mismo, es decir, cinco veces menos, (ENAHO, 2004-2018).
 
+Tasa Neta de Matrícula en Educación Superior de la Población de 17 a 24 años, según condición socio económica, 2007 – 2017, INEI (2017)
+(Porcentaje del total de población de 17 a 24 años, de cada quintil)
+
+Año | Quintil V | Quintil I
+--- | --- | ---
+2007 | 46,1 | 3,9
+2008 | 44,6 | 4,2
+2009 | 43,9 | 5,1
+2010 | 46,6 | 6,6
+2011 | 43,7 | 7,2
+2012 | 50,0 | 8,4
+2013 | 51,0 | 9,0
+2014 | 53,4 | 10,2
+2015 | 50,6 | 9,3
+2016 | 53,7 | 10,5
+2017 | 52,9 | 10,4
+
+Fuente: Instituto Nacional de Estadística e Informática - Encuesta Nacional de Hogares.
+
 #### 2.4 Educación de adultos y aprendizaje alternativo
 
 En  el  artículo/párrafo  4.c  de  la  Convención  y  la  Recomendación  se  establece  el derecho a la enseñanza de adultos y el aprendizaje alternativo. Mientras que el ODS 4 consiste en 'garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos', en la meta 4.6 se hace un llamamiento  específico  a  los  Estados  a  'asegurar  que  todos  los  jóvenes  y  una proporción  considerable  de  los  adultos,  tanto  hombres  como  mujeres,  estén alfabetizados y tengan nociones elementales de aritmética'. Además, en el marco de la meta 4.4, se insta a los Estados a 'aumentar y diversificar las oportunidades de aprendizaje, empleando una amplia gama de modalidades de educación y formación, de tal forma que todos los jóvenes y adultos, en especial las niñas y las mujeres, puedan adquirir conocimientos, aptitudes y competencias pertinentes para el trabajo decente y la vida'.
@@ -722,6 +775,8 @@ En  el  artículo/párrafo  4.c  de  la  Convención  y  la  Recomendación  se 
 www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
+
+EL PERÚ PRIMERO
 
 [[END OF PAGE 18]]
 
@@ -763,6 +818,8 @@ www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
 
+EL PERÚ PRIMERO
+
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
@@ -795,13 +852,15 @@ www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
 
+EL PERÚ PRIMERO
+
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
 
 Para realizar esta evaluación de la calidad, tenga en cuenta a todas las instituciones de educación del mismo nivel. Puede incluir información sobre políticas, protocolos o códigos de conducta.
 
-##### Implementación  de  los  Lineamientos  para  la  gestión  de  la  convivencia escolar, la prevención y la atención de la violencia contra niñas, niños y adolescentes (DS N°004-2018), a través de 03 líneas de acción:
+##### 1. Implementación de los Lineamientos para la gestión de la convivencia escolar, la prevención y la atención de la violencia contra niñas, niños y adolescentes (DS N°004-2018), a través de 03 líneas de acción:
 
 - Promoción  de  la  convivencia  escolar;  es  el  fomento,  fortalecimiento  y reconocimiento  de  relaciones  democráticas  a  nivel  de  toda  la  institución educativa.
 
@@ -809,7 +868,7 @@ Para realizar esta evaluación de la calidad, tenga en cuenta a todas las instit
 
 - Atención de la violencia contra niñas, niños y adolescentes; es la intervención oportuna, efectiva y reparadora sobre los hechos de violencia detectados en el ámbito escolar.
 
-##### Intervención 'Fortalecimiento para la gestión de la convivencia escolar, la prevención  y  atención  de  la  violencia  en  las  Direcciones  y/o  Gerencias Regionales  de  Educación  y  Unidades  de  Gestión  Educativa  Local',  así como  en  las  instituciones educativas focalizadas  (RM  N°  027-2020MINEDU). que incluye los siguientes componentes:
+##### 2. Intervención 'Fortalecimiento para la gestión de la convivencia escolar, la prevención y atención de la violencia en las Direcciones y/o Gerencias Regionales de Educación y Unidades de Gestión Educativa Local', así como en las instituciones educativas focalizadas (RM N° 027-2020-MINEDU). que incluye los siguientes componentes:
 
 - Fortalecimiento de capacidades en instituciones educativas: Especialistas de Convivencia Escolar de DRE/UGEL brindan asistencia técnica para promover el análisis y la atención de nudos críticos respecto a la implementación de las líneas de acción de la gestión de la convivencia escolar. El público objetivo de esta intervención son el personal directivo  y  las  y  los  responsables  de convivencia escolar.
 
@@ -817,7 +876,7 @@ Para realizar esta evaluación de la calidad, tenga en cuenta a todas las instit
 
 - Soporte psicológico en instituciones educativas: implementa una propuesta psicopedagógica  relacionada  a  la  promoción  de  la  convivencia  escolar,  la prevención y la atención de la violencia, a través de la asignación de un/a profesional  en  psicología  a  IIEE  focalizadas.  El  público  objetivo  son  el personal de la IE y los y las estudiantes.
 
-##### Implementación  de  una  multiplataforma  para  el  reporte  de  casos  de violencia escolar (www.siseve.pe)
+##### 3. Implementación de una multiplataforma para el reporte de casos de violencia escolar (www.siseve.pe)
 
 El Sistema Especializado en reporte de casos sobre Violencia Escolar - SíseVe es un servicio que ofrece el Ministerio de Educación para el reporte casos de violencia escolar: física, sexual y psicológica; entre los motivos se incluyen la discriminación por género, identidad/orientación sexual, étnico-racial, económica, etc. Es una herramienta de gestión para la atención de las situaciones de violencia en las escuelas y una fuente de información para la toma de  decisiones  desde  el  Minedu,  que  además  favorece  que  cualquier  persona (víctima o testigo) pueda reportar un caso de violencia escolar.
 
@@ -828,6 +887,8 @@ Los servicios que se incluyen en la plataforma son:
 www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
+
+EL PERÚ PRIMERO
 
 [[END OF PAGE 21]]
 
@@ -857,6 +918,8 @@ www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
 
+EL PERÚ PRIMERO
+
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
@@ -883,6 +946,8 @@ La pobreza no sólo rodea a los docentes como realidad de los estudiantes y del 
 www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
+
+EL PERÚ PRIMERO
 
 [[END OF PAGE 23]]
 
@@ -928,6 +993,8 @@ www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
 
+EL PERÚ PRIMERO
+
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
@@ -950,11 +1017,13 @@ www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
 
+EL PERÚ PRIMERO
+
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
 
-- Ministerio  de  Educación',  la  cual  derogó  la  Resolución  Ministerial  N°548-2015MINEDU. Este año se publicará el listado de los ganadores del bono del concurso de nombramiento 2019.
+Ministerio de Educación', la cual derogó la Resolución Ministerial N°548-2015-MINEDU. Este año se publicará el listado de los ganadores del bono del concurso de nombramiento 2019.
 
 - Ajustes a la norma de contratación docente; en articulación con DITEN, en el DS N°017-2019-MINEDU se incorporaron mecanismos para: i) equiparar las oportunidades de contratación para docentes jóvenes y, ii) generar mecanismos que  permitan  destinar  plazas  de  ámbitos  vulnerables  (rural,  frontera,  VRAEM  y zonas en riesgo social) en forma directa a docentes becarios de PRONABEC para que cumplan con su Compromiso de Servicio al Perú
 
@@ -962,27 +1031,29 @@ Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-
 
 - Implementación  de  la  Estrategia  de  nudges  en  el  aplicativo  del  Concurso  de Nombramiento para incrementar la selección de plazas vulnerables por parte de los docentes. En el marco del Concurso de Nombramiento 2019, en coordinación con la Dirección de Evaluación Docente y con la cooperación del Banco Interamericano de  Desarrollo  (BID),  se  realizaron  modificaciones  al  aplicativo  de  selección  de plazas y se enviaron mensajes de texto a los docentes, con el objetivo de mejorar la eficiencia del proceso. En ese sentido, se buscó que los docentes tuvieran mayor información de las plazas, especialmente de aquellas que suelen quedar vacantes (rurales,  ubicadas  en  zona  VRAEM  o  de  frontera)  para  que  tuvieran  mayor posibilidad de ser seleccionadas.
 
+o X Se utilizan sistemas de seguimiento del desempeño
+
+o Se han adoptado medidas para aumentar el número de mujeres en puestos directivos en la educación
+
+o X Otra:
+
 - La ley N° 30512, Ley de Institutos y Escuelas de Educación Superior y de la Carrera Pública de sus Docentes, prevé condiciones de ascenso de los docentes de acuerdo a meritocracia, que va en concordancia con el incremento de sus remuneraciones.
 
 - La mencionada ley prevé además un sistema de evaluación periódica del desempeño y de permanencia del docente de educación superior pedagógica.
 
-- Gestión  para  el  otorgamiento  de  asignaciones  por  ubicación  laboral  en  VRAE, frontera,  rural  y  para  directores  y  cargos  de  gestión  pedagógica  y  para  el reconocimiento de beneficios laborales (subsidio por luto y sepelio).
+- Gestión para el otorgamiento de asignaciones por ubicación laboral en VRAE, frontera, rural y para directores y cargos de gestión pedagógica y para el reconocimiento de beneficios laborales (subsidio por luto y sepelio).
 
--Desarrollo de un Plan de Fortalecimiento de capacidades y asistencia técnica, diseño del Modelo de formación y Plan de Desarrollo Profesional para el docente formador de la formación Inicial Docente
+- Desarrollo de un Plan de Fortalecimiento de capacidades y asistencia técnica, diseño del Modelo de formación y Plan de Desarrollo Profesional para el docente formador de la formación Inicial Docente
 
 - Proporcione brevemente más detalles sobre las medidas adoptadas:
 
-o X Se utilizan sistemas de seguimiento del desempeño
-
-o Se  han  adoptado  medidas  para  aumentar  el  número  de  mujeres  en  puestos directivos en la educación
-
-o X Otra:
-
-El objetivo del Programa Nacional de Formación Docente en Servicio al 2022 es crear y consolidar un sistema nacional de formación docente en servicio que se caracterice por ser articulado, flexible y descentralizado para ofrecer a los docentes una oferta formativa de calidad,  pertinente  y  diferenciada,  que  les  permita  desarrollarse  con  autonomía,  ética  y compromiso en toda su trayectoria profesional.
+El objetivo del Programa Nacional de Formación Docente en Servicio al 2022 es crear y consolidar un sistema nacional de formación docente en servicio que se caracterice por ser articulado, flexible y descentralizado para ofrecer a los docentes una oferta formativa de calidad, pertinente y diferenciada, que les permita desarrollarse con autonomía, ética y compromiso en toda su trayectoria profesional.
 
 www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
+
+EL PERÚ PRIMERO
 
 [[END OF PAGE 26]]
 
@@ -1015,6 +1086,8 @@ La  comprensión  y  análisis  de  los  derechos  de  las  personas  se  aborda
 www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
+
+EL PERÚ PRIMERO
 
 [[END OF PAGE 27]]
 
@@ -1050,6 +1123,8 @@ www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
 
+EL PERÚ PRIMERO
+
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
@@ -1064,7 +1139,7 @@ En los artículos/párrafos 2.c y 5.1.b de la Convención y la Recomendación se
 
 ¿Existe en su país un marco normativo relativo al establecimiento y el funcionamiento de las instituciones educativas privadas?
 
-o Sí
+o X Sí
 
 o No
 
@@ -1074,7 +1149,7 @@ La Ley N°26549, Ley de los Centros Educativos Privados, modificada por el Decre
 
 ¿Las  disposiciones  legales  que  prohíben  la  discriminación  por  los  motivos mencionados en la Convención y la Recomendación 17 , se aplican explícitamente a las instituciones educativas privadas?
 
-o Sí
+o X Sí
 
 o No
 
@@ -1088,15 +1163,15 @@ www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
 
+EL PERÚ PRIMERO
+
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
 
 ¿Dispone  su  país  de  un  marco  de  política  educativa  que  establezca  normas mínimas en materia de educación en lo que respecta a los derechos de los padres o tutores legales de impartir educación religiosa y moral a sus hijos?
 
-o Sí
-
-18
+o X Sí 18
 
 o No
 
@@ -1134,6 +1209,8 @@ www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
 
+EL PERÚ PRIMERO
+
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
@@ -1146,7 +1223,7 @@ Este aspecto también corresponde a la meta 4.5 de los ODS, en la que se insta a
 
 - Describa brevemente el marco jurídico y normativo vigente que protege el derecho a una educación de calidad de los refugiados y los migrantes en su país.
 
-.  Ley N°28044, Ley General de Educación y su Reglamento aprobado con D.S. N°0112012-ED.- (Art. 3). La educación como derecho. '…El Estado garantiza el derecho a una educación integral y de calidad para todos y la universalización de la educación básica'.
+. Ley N°28044, Ley General de Educación y su Reglamento aprobado con D.S. N°011-2012-ED.- (Art. 3). La educación como derecho. '…El Estado garantiza el derecho a una educación integral y de calidad para todos y la universalización de la educación básica'.
 
 . R.M. N°281-2016-MINEDU. Aprueba el Currículo Nacional de la Educación Básica, que establece los aprendizajes que se espera logren todos los estudiantes como resultado de su formación básica, en concordancia con los fines y principios de la educación peruana, l Proyecto Educativo Nacional y los objetivos de la Educación Básica.
 
@@ -1169,6 +1246,8 @@ Es una evaluación que se utiliza para determinar el nivel de logro de los apren
 www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
+
+EL PERÚ PRIMERO
 
 [[END OF PAGE 31]]
 
@@ -1204,6 +1283,8 @@ www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
 
+EL PERÚ PRIMERO
+
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
@@ -1234,17 +1315,19 @@ Proporcione más detalles sobre las medidas adoptadas:
 
 Los  Colegios  de  Alto  Rendimiento  que  implementan  el  Bachillerato  Internacional, considerado  como  un  programa  de  aprendizaje  acelerado,  admiten  estudiantes extranjeros que cumplan con los requisitos para postular y hayan logrado ganar una vacante en el marco del Proceso Único de Admisión.
 
-## Métodos utilizados para familiarizar a las diferentes autoridades del país con los instrumentos y superar los obstáculos encontrados
+## III. Métodos utilizados para familiarizar a las diferentes autoridades del país con los instrumentos y superar los obstáculos encontrados
 
 ### 1. Desafíos y obstáculos
 
 #### 1.1 Mencione  y  detalle  las  dificultades  que  ha  encontrado  su  país  en  el  proceso  de aplicación de las disposiciones fundamentales de la Convención y la Recomendación (incluidos  los  obstáculos  jurídicos  y  prácticos)  y  facilite  información  sobre  las principales cuestiones que deben abordarse para seguir promoviendo el derecho a la educación en su país (pueden marcarse o mencionarse varios puntos):
 
-- o X Desafíos relacionados con el acceso equitativo y la inclusión en la educación (como  la  pobreza  y  los  factores  socioeconómicos,  las  actitudes  culturales  y tradicionales, la lejanía, la migración y los desplazamientos)
+o X Desafíos relacionados con el acceso equitativo y la inclusión en la educación (como la pobreza y los factores socioeconómicos, las actitudes culturales y tradicionales, la lejanía, la migración y los desplazamientos)
 
 www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
+
+EL PERÚ PRIMERO
 
 [[END OF PAGE 33]]
 
@@ -1264,11 +1347,11 @@ Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-
 
 - En nuestro país, existen barreras económicas y sociales que impiden el acceso de estudiantes afectados por la pobreza a los programas de aprendizaje acelerado como el Bachillerato Internacional.
 
-- o X Desafíos  relacionados  con  la  calidad  de  la  educación  (como  la  escasez  de personal docente  cualificado, capacitado y motivado; y la enseñanza,  el aprendizaje o un entorno escolar desfavorables o inadecuados)
+o X Desafíos relacionados con la calidad de la educación (como la escasez de personal docente cualificado, capacitado y motivado; y la enseñanza, el aprendizaje o un entorno escolar desfavorables o inadecuados)
 
 Se  necesita  ampliar  la  formación  en  el  desarrollo  de  competencias  lingüísticas  en lenguas originarias para asegurar que los estudiantes reciban clases en su lengua y en castellano
 
-- Garantizar una educación pertinente y de calidad de las personas con necesidades educativas especiales asociadas o no a la discapacidad en las escuelas regulares públicas  y  privadas,  para  asegurar  su  participación  en  el  proceso  enseñanzaaprendizaje y logros de aprendizaje.
+- Garantizar una educación pertinente y de calidad de las personas con necesidades educativas especiales asociadas o no a la discapacidad en las escuelas regulares públicas y privadas, para asegurar su participación en el proceso enseñanza-aprendizaje y logros de aprendizaje.
 
 - Realizar  ajustes  razonables,  realizar  adaptaciones  pedagógicas  y  curriculares,  así como proteger a los estudiantes con Necesidades Educativas Especiales asociadas a discapacidad frente a situaciones de agresión.
 
@@ -1279,6 +1362,8 @@ Se  necesita  ampliar  la  formación  en  el  desarrollo  de  competencias  lin
 www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
+
+EL PERÚ PRIMERO
 
 [[END OF PAGE 34]]
 
@@ -1307,6 +1392,8 @@ En atención al Plan Multianual de Reparaciones en Educación para las víctimas
 www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
+
+EL PERÚ PRIMERO
 
 [[END OF PAGE 35]]
 
@@ -1338,6 +1425,8 @@ www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
 
+EL PERÚ PRIMERO
+
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
@@ -1359,5 +1448,7 @@ o Otra:
 www.minedu.gob.pe
 
 Calle Del Comercio N° 193 San Borja, Lima 41, Perú TD: 511 225-3479 / 511 223-0392 Central: 511 615-5800 Anexo 21018
+
+EL PERÚ PRIMERO
 
 [[END OF PAGE 37]]
