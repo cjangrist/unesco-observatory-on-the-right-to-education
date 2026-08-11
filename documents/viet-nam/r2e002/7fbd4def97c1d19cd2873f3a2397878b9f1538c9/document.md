@@ -6,6 +6,24 @@ Adoptée le 15 Avril 1992 et amendée par la Résolution n°51/2001/ du 25 déce
 
 (Constitution à jour au 23 septembre 2004)
 
+Constitution de la République socialiste du Vietnam ..............................................................1
+Adoptée le 15 Avril 1992 et amendée par la Résolution n°51/2001/ du 25 décembre 2001 de l’Assemblée nationale....................................................................................................1
+(Constitution à jour au 23 septembre 2004).........................................................................1
+Préambule ..............................................................................................................................2
+Chapitre I -La République socialiste du Vietnam et son régime politique................................2
+Chapitre II- Régime économique............................................................................................4
+Chapitre III- Culture, éducation, science et technologie ..........................................................7
+Chapitre IV- Défense nationale ..............................................................................................9
+Chapitre V- Les droits et les obligations fondamentaux des citoyens....................................10
+Chapitre VI- L'Assemblée nationale .....................................................................................15
+Chapitre VII- Le Président de l’État .....................................................................................20
+Chapitre VIII- Le Gouvernement..........................................................................................21
+Chapitre IX- Les Conseils populaires et les Comités populaires............................................24
+Chapitre X- Les juridictions populaires et les parquets populaires ........................................25
+Les juridictions populaires................................................................................................26
+Les Parquets populaires....................................................................................................27
+Chapitre XI- Les emblèmes nationaux, l’hymne national, la capitale et la fête nationale.......27
+
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
@@ -238,7 +256,7 @@ Il est interdit toute atteinte aux vestiges historiques et révolutionnaires, au
 
 ### Article 35
 
-Le développement de l'éducation constituera la politique d'état de premier rang L'État et la société développent l'éducation visant à élever le niveau d'instruction du peuple, à former la maind'œuvre, à cultiver les talents. L'objectif  que  vise  l'œuvre  d'éducation  est  de  former  et  de  perfectionner  la  personnalité,  les  qualités  et  les capacités des citoyens ; de former des travailleurs qualifiés, dynamiques et créateurs, dotés de la fierté nationale, de  vertus,  de  la  volonté  de  contribuer  chaque  jour  davantage  à  rendre  le  peuple  riche,  le  pays  puissant, répondant ainsi aux exigences de l'œuvre de construction et de défense de la Patrie.
+Le développement de l'éducation constituera la politique d'état de premier rang L'État et la société développent l'éducation visant à élever le niveau d'instruction du peuple, à former la main-d'œuvre, à cultiver les talents. L'objectif  que  vise  l'œuvre  d'éducation  est  de  former  et  de  perfectionner  la  personnalité,  les  qualités  et  les capacités des citoyens ; de former des travailleurs qualifiés, dynamiques et créateurs, dotés de la fierté nationale, de  vertus,  de  la  volonté  de  contribuer  chaque  jour  davantage  à  rendre  le  peuple  riche,  le  pays  puissant, répondant ainsi aux exigences de l'œuvre de construction et de défense de la Patrie.
 
 ### Article 36
 
@@ -336,15 +354,25 @@ Tout citoyen peut prendre part aux affaires publiques et sociales, aux débats p
 
 ### Article 54
 
-Tout  citoyen,  sans  distinction  de  race,  de  sexe,  d'appartenance  sociale,  de  croyance,  de  religion,  de  niveau d'instruction, de métier et de durée de résidence, peut participer aux élections à compter de l'âge de 18 ans accomplis et devenir éligible à l'Assemblée Nationale et aux conseils populaires locaux à compter de l'âge de 21 ans ou plus conformément à la loi.
+Tout  citoyen,  sans  distinction  de  race,  de  sexe,  d'appartenance  sociale,  de  croyance,  de  religion,  de  niveau d'instruction, de métier et de durée de résidence, peut participer aux élections à compter de l'âge de 18 ans
+
+[[END OF PAGE 10]]
+
+[[START OF PAGE 11]]
+
+accomplis et devenir éligible à l'Assemblée Nationale et aux conseils populaires locaux à compter de l'âge de 21 ans ou plus conformément à la loi.
 
 ### Article 55
 
-Travailler est un droit mais aussi une obligation des citoyens. L'État et la société doivent chercher à pourvoir de plus en plus d'emplois aux travailleurs.
+Travailler est un droit mais aussi une obligation des citoyens.
+
+L'État et la société doivent chercher à pourvoir de plus en plus d'emplois aux travailleurs.
 
 ### Article 56
 
-L'État définit et applique la politique et le régime de protection du travail. Il réglemente le temps de travail, le régime salarial, de repos et d'assurances sociales applicable aux agents de l'État  et  aux  salariés  en  général.  Il  encourage le développement et la diversification des formes d'assurances sociales en faveur des travailleurs.
+L'État définit et applique la politique et le régime de protection du travail.
+
+Il réglemente le temps de travail, le régime salarial, de repos et d'assurances sociales applicable aux agents de l'État et aux salariés en général. Il encourage le développement et la diversification des formes d'assurances sociales en faveur des travailleurs.
 
 ### Article 57
 
@@ -352,25 +380,31 @@ Tout citoyen jouit de la liberté d'entreprise conformément à la loi.
 
 ### Article 58
 
-Tout citoyen peut avoir la propriété  sur les revenus perçus licitement, ses biens mis en réserve, son logement, ses  moyens  utilisés  pour  la  vie  quotidienne,  ses  instruments  de  production,  ses  apports  en  nature  ou  en numéraire investis dans les entreprises ou les organisations économiques. S'agissant des terres mises à sa disposition par l'État, les articles 17 et 18 s'appliquent. L'État protège le droit de propriété légal et le droit aux successions des citoyens.
+Tout citoyen peut avoir la propriété sur les revenus perçus licitement, ses biens mis en réserve, son logement, ses moyens utilisés pour la vie quotidienne, ses instruments de production, ses apports en nature ou en numéraire investis dans les entreprises ou les organisations économiques. S'agissant des terres mises à sa disposition par l'État, les articles 17 et 18 s'appliquent.
+
+L'État protège le droit de propriété légal et le droit aux successions des citoyens.
 
 ### Article 59
 
-L'étude est à la fois un droit et un devoir du citoyen. L'enseignement primaire est obligatoire et gratuit. Le citoyen a droit à l'enseignement général et à la formation professionnelle, organisés sous plusieurs formes. L'État  et  la  société  créent  des  conditions  d'étude  favorables  permettant  aux  élèves  doués  de  développer pleinement leur talent. L'État définit la politique sur les frais de scolarité et les bourses d'étude. L'État et la société créent des conditions favorables aux enfants handicapés et aux autres enfants exposés à des difficultés particulières leur permettant d'étudier et d'apprendre des métiers appropriés.
+L'étude est à la fois un droit et un devoir du citoyen.
+
+L'enseignement primaire est obligatoire et gratuit.
+
+Le citoyen a droit à l'enseignement général et à la formation professionnelle, organisés sous plusieurs formes.
+
+L'État et la société créent des conditions d'étude favorables permettant aux élèves doués de développer pleinement leur talent.
+
+L'État définit la politique sur les frais de scolarité et les bourses d'étude.
+
+L'État et la société créent des conditions favorables aux enfants handicapés et aux autres enfants exposés à des difficultés particulières leur permettant d'étudier et d'apprendre des métiers appropriés.
 
 ### Article 60
 
-Tout citoyen peut mener des activités de recherche, de développement technologique ou d'innovation, réaliser des créations et des compositions littéraires et artistiques  et  participer  à  toute  autre  activité  culturelle.  L'État protège le droit d'auteur et le droit de propriété industrielle.
+Tout citoyen peut mener des activités de recherche, de développement technologique ou d'innovation, réaliser des créations et des compositions littéraires et artistiques et participer à toute autre activité culturelle. L'État protège le droit d'auteur et le droit de propriété industrielle.
 
 ### Article 61
 
 Tout citoyen peut avoir accès aux soins médicaux.
-
-[[END OF PAGE 10]]
-
-[[START OF PAGE 11]]
-
-(this page came through the extractor with no text)
 
 [[END OF PAGE 11]]
 
@@ -514,7 +548,7 @@ L'Assemblée nationale est l'organe représentatif le plus élevé du peuple et 
 
 Elle détient seule les pouvoirs constituant et législatif.
 
-Elle  décide  les  politiques  fondamentales  en  matière  intérieure  et  extérieure,  définit  les  missions  socioéconomiques, de défense nationale et de sécurité nationale du pays ainsi que les principes principaux régissant l'organisation et le fonctionnement des pouvoirs publics, les relations et la vie des citoyens.
+Elle  décide  les  politiques  fondamentales  en  matière  intérieure  et  extérieure,  définit  les  missions  socio-économiques, de défense nationale et de sécurité nationale du pays ainsi que les principes principaux régissant l'organisation et le fonctionnement des pouvoirs publics, les relations et la vie des citoyens.
 
 Elle a le pouvoir de surveillance suprême de l'ensemble des activités de l'État.
 
@@ -522,19 +556,19 @@ Elle a le pouvoir de surveillance suprême de l'ensemble des activités de l'Ét
 
 L'Assemblée nationale a les missions et les attributions suivantes:
 
-- 1Élaborer, adopter et modifier la constitution et la loi; décider le programme des travaux législatifs;
+1- Élaborer, adopter et modifier la constitution et la loi; décider le programme des travaux législatifs;
 
-- 2Exercer le pouvoir de surveillance suprême de l'application de la constitution, des lois et des résolutions de l'Assemblée  nationale;  examiner  les  rapports  d'activités  du  Président  de  l'État,  du  Comité  permanent  de l'Assemblée nationale, du Gouvernement, de la Cour populaire suprême et du Parquet populaire suprême;
+2- Exercer le pouvoir de surveillance suprême de l'application de la constitution, des lois et des résolutions de l'Assemblée  nationale;  examiner  les  rapports  d'activités  du  Président  de  l'État,  du  Comité  permanent  de l'Assemblée nationale, du Gouvernement, de la Cour populaire suprême et du Parquet populaire suprême;
 
-- 3Décider le plan de développement socio-économique du pays;
+3- Décider le plan de développement socio-économique du pays;
 
-- 4Décider de la politique financière-monétaire nationale ; décider du budget d'État et de la répartition du budget central,  approuver  l'arrêté  des  comptes  du  budget  de  l'État  ;  instituer,  réviser  ou  abroger  les  différents  types d'impôt ;
+4- Décider de la politique financière-monétaire nationale ; décider du budget d'État et de la répartition du budget central,  approuver  l'arrêté  des  comptes  du  budget  de  l'État  ;  instituer,  réviser  ou  abroger  les  différents  types d'impôt ;
 
-- 5Décider de la politique  de  l'État  concernant  les  ethnies  ;  décider  de  la  politique  de  l'État  concernant  les religions ;
+5- Décider de la politique  de  l'État  concernant  les  ethnies  ;  décider  de  la  politique  de  l'État  concernant  les religions ;
 
-- 6Définir  l'organisation  et  le  fonctionnement  de  l'Assemblée  nationale,  de  la  Présidence  de  l'État,  du Gouvernement, de la Cour populaire suprême, du Parquet populaire suprême et des collectivités locales ;
+6- Définir  l'organisation  et  le  fonctionnement  de  l'Assemblée  nationale,  de  la  Présidence  de  l'État,  du Gouvernement, de la Cour populaire suprême, du Parquet populaire suprême et des collectivités locales ;
 
-- 7Élire,  décharger,  révoquer  le  Président  de  l'État,  le  Vice-président  de  l'État,  le  Président  de  l'Assemblée nationale, les Vice-présidents de l'Assemblée nationale et les membres du Comité permanent de l'Assemblée nationale,  le  Premier  ministre,  le  Président  de  la  Cour  populaire  suprême,  le  Président  du  Parquet  populaire suprême  ;  approuver  la  proposition  du  Premier  ministre  sur  la  nomination,  la  révocation  des  Vice-premiers ministres, des ministres et des autres membres du Gouvernement ; approuver la proposition du Président de l'État  sur  la  liste  des  membres  du  Conseil  de  Défense  et  de  Sécurité  nationales  ;  apprécier  par  un  vote  de
+7- Élire,  décharger,  révoquer  le  Président  de  l'État,  le  Vice-président  de  l'État,  le  Président  de  l'Assemblée nationale, les Vice-présidents de l'Assemblée nationale et les membres du Comité permanent de l'Assemblée nationale,  le  Premier  ministre,  le  Président  de  la  Cour  populaire  suprême,  le  Président  du  Parquet  populaire suprême  ;  approuver  la  proposition  du  Premier  ministre  sur  la  nomination,  la  révocation  des  Vice-premiers ministres, des ministres et des autres membres du Gouvernement ; approuver la proposition du Président de l'État  sur  la  liste  des  membres  du  Conseil  de  Défense  et  de  Sécurité  nationales  ;  apprécier  par  un  vote  de
 
 [[END OF PAGE 15]]
 
@@ -542,19 +576,19 @@ L'Assemblée nationale a les missions et les attributions suivantes:
 
 confiance la responsabilité des personnes titulaires des postes aux quels elles ont été élues par l'Assemblée Nationale ou dont la nomination a été approuvée par elle conformément à la loi .
 
-- 8Décider la création ou la dissolution des ministères et des organes ayant rang de ministère; créer, fusionner, diviser,  réajuster  les  circonscriptions  administratives  au  niveau  de  province;  créer  ou  dissoudre  les circonscriptions administratives et économiques spéciales;
+8- Décider la création ou la dissolution des ministères et des organes ayant rang de ministère; créer, fusionner, diviser,  réajuster  les  circonscriptions  administratives  au  niveau  de  province;  créer  ou  dissoudre  les circonscriptions administratives et économiques spéciales;
 
-- 9Annuler  les  actes  pris  par  le  Président  de  l'État,  le  Comité  permanent  de  l'Assemblée  nationale,  le Gouvernement,  le  Premier  Ministre,  la  Cour  populaire  suprême  ou  le  Parquet  populaire  suprême,  qui  sont contraires à la Constitution, à la loi et aux résolutions de l'Assemblée nationale;
+9- Annuler  les  actes  pris  par  le  Président  de  l'État,  le  Comité  permanent  de  l'Assemblée  nationale,  le Gouvernement,  le  Premier  Ministre,  la  Cour  populaire  suprême  ou  le  Parquet  populaire  suprême,  qui  sont contraires à la Constitution, à la loi et aux résolutions de l'Assemblée nationale;
 
-- 10- Décider l'amnistie;
+10- Décider l'amnistie;
 
-- 11- Définir  les  grades  et  les  titres  dans  les  forces  armées  populaires,  en  matière  diplomatique  et  autres ; réglementer les distinctions honorifiques de l'État ;
+11- Définir  les  grades  et  les  titres  dans  les  forces  armées  populaires,  en  matière  diplomatique  et  autres ; réglementer les distinctions honorifiques de l'État ;
 
-- 12- Décider les questions relatives à la guerre et à la paix ; décréter l'état d'urgence et les mesures spéciales pour le maintien de la défense et de la sécurité nationale ;
+12- Décider les questions relatives à la guerre et à la paix ; décréter l'état d'urgence et les mesures spéciales pour le maintien de la défense et de la sécurité nationale ;
 
-- 13- Décider  des  grandes  lignes  pour  les  politiques  extérieures  ;  ratifier  ou  rejeter  les  accords  internationaux signés directement par le Président de l'État ; ratifier  ou  rejeter  les  autres  accords  internationaux  qui  on  été signés ou auxquels l'adhérence a été décidée sur proposition du Président de l'État ;
+13- Décider  des  grandes  lignes  pour  les  politiques  extérieures  ;  ratifier  ou  rejeter  les  accords  internationaux signés directement par le Président de l'État ; ratifier  ou  rejeter  les  autres  accords  internationaux  qui  on  été signés ou auxquels l'adhérence a été décidée sur proposition du Président de l'État ;
 
-- 14- Décider le référendum.
+14- Décider le référendum.
 
 ### Article 85
 
@@ -614,21 +648,29 @@ La  durée  du  mandat  du  Comité  permanent  correspond  à  celle  de  l'Ass
 
 Le Comité permanent de l'Assemblée nationale a les missions et les attributions suivantes :
 
-- 1Déclarer et présider les élections législatives ;
+1- Déclarer et présider les élections législatives ;
 
-- 2Organiser  les  travaux  de  préparation  et  de  convocation  des  sessions  de  l'Assemblée  nationale  et  les présider ;
+2- Organiser  les  travaux  de  préparation  et  de  convocation  des  sessions  de  l'Assemblée  nationale  et  les présider ;
 
-- 3Exercer le pouvoir d'interprétation de la Constitution, des lois et des ordonnances ;
+3- Exercer le pouvoir d'interprétation de la Constitution, des lois et des ordonnances ;
 
-- 4Adopter les ordonnances sur les questions définies par l'Assemblée nationale ;
+4- Adopter les ordonnances sur les questions définies par l'Assemblée nationale ;
 
-5Contrôler l'application de la Constitution, des lois, des résolutions de l'Assemblée nationale, des ordonnances et des résolutions du Comité permanent de l'Assemblée nationale ; contrôler les activités du Gouvernement, de la Cour populaire suprême et du Parquet populaire suprême ; suspendre l'application des textes du Gouvernement, du Premier Ministre, de la Cour populaire suprême et du Parquet populaire suprême qui sont contraires à la Constitution,  aux  lois  et  aux  résolutions  de  l'Assemblée  nationale  et  proposer  à  l'Assemblée  nationale, l'annulation  de  ces  textes ;  annuler  les  textes  du  Gouvernement,  du  Premier  Ministre,  de  la  Cour  populaire suprême et du Parquet populaire suprême qui sont contraires aux ordonnances et aux résolutions du Comité permanent de l'Assemblée nationale ;
+5- Contrôler l'application de la Constitution, des lois, des résolutions de l'Assemblée nationale, des ordonnances et des résolutions du Comité permanent de l'Assemblée nationale ; contrôler les activités du Gouvernement, de la Cour populaire suprême et du Parquet populaire suprême ; suspendre l'application des textes du Gouvernement, du Premier Ministre, de la Cour populaire suprême et du Parquet populaire suprême qui sont contraires à la Constitution,  aux  lois  et  aux  résolutions  de  l'Assemblée  nationale  et  proposer  à  l'Assemblée  nationale, l'annulation  de  ces  textes ;  annuler  les  textes  du  Gouvernement,  du  Premier  Ministre,  de  la  Cour  populaire suprême et du Parquet populaire suprême qui sont contraires aux ordonnances et aux résolutions du Comité permanent de l'Assemblée nationale ;
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
 
-6Contrôler et guider les activités des Conseils populaires locaux ; annuler les résolutions déviées des Conseils populaires de province ; dissoudre le conseil populaire de province qui porte gravement atteinte aux intérêts de la nation ; 7Diriger,  réguler  et  coordonner  les  activités  du  Conseil  des  ethnies  et  des  Commissions  de  l'Assemblée nationale ; guider les actions des membres de l'Assemblée nationale et leur fournir les moyens nécessaires à leur action ; 8"Dans les cas où une session de l'Assemblée Nationale est impossible, décider de proclamer l'état de guerre lorsque le pays fait l'objet d'une agression étrangère et soumettre cette décision à l'approbation de l'Assemblée Nationale dès la session suivante. 9Prendre en charge les relations extérieures de l'Assemblée nationale ; 10- Organiser le référendum sur décision de l'Assemblée nationale.
+6- Contrôler et guider les activités des Conseils populaires locaux ; annuler les résolutions déviées des Conseils populaires de province ; dissoudre le conseil populaire de province qui porte gravement atteinte aux intérêts de la nation ;
+
+7- Diriger, réguler et coordonner les activités du Conseil des ethnies et des Commissions de l'Assemblée nationale ; guider les actions des membres de l'Assemblée nationale et leur fournir les moyens nécessaires à leur action ;
+
+8- "Dans les cas où une session de l'Assemblée Nationale est impossible, décider de proclamer l'état de guerre lorsque le pays fait l'objet d'une agression étrangère et soumettre cette décision à l'approbation de l'Assemblée Nationale dès la session suivante.
+
+9- Prendre en charge les relations extérieures de l'Assemblée nationale ;
+
+10- Organiser le référendum sur décision de l'Assemblée nationale.
 
 ### Article 92
 
@@ -646,11 +688,13 @@ L'Assemblée nationale élit le Conseil des ethnies qui est composé d'un Prési
 
 L'Assemblée nationale élit ses Commissions. Les Commissions de l'Assemblée nationale examinent et vérifient les projets de loi, d'ordonnance et d'autres textes, les propositions en matière législative et les rapports qui leur sont confiés par l'Assemblée nationale ou le
 
-Comité permanent de cette dernière. Elles présentent à l'Assemblée nationale ou au Comité permanent de cette dernière, leurs avis sur le programme des travaux législatifs. Elles exercent le pouvoir de contrôle dans les limites définies par la loi. Elles font des recommandations dans la limite de leur compétence respective.
+Comité permanent de cette
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
+
+dernière. Elles présentent à l'Assemblée nationale ou au Comité permanent de cette dernière, leurs avis sur le programme des travaux législatifs. Elles exercent le pouvoir de contrôle dans les limites définies par la loi. Elles font des recommandations dans la limite de leur compétence respective.
 
 Chaque Commission peut avoir certains de ces membres affectés à titre  permanent  et  à  plein  temps  à  ses fonctions.
 
@@ -712,33 +756,33 @@ La durée du mandat du Président de l'État correspond à celle de l'Assemblée
 
 Le Président de l'État a les missions et les attributions suivantes :
 
-- 1Publier la Constitution, les lois et les ordonnances ;
+1- Publier la Constitution, les lois et les ordonnances ;
 
-- 2Exercer les fonctions du chef des forces armées populaires et du Président du Conseil de la défense et de la sécurité nationales ;
+2- Exercer les fonctions du chef des forces armées populaires et du Président du Conseil de la défense et de la sécurité nationales ;
 
-- 3Proposer  à  l'Assemblée nationale les candidatures aux fonctions de vice-président de l'État, de Premier Ministre, de Président de la Cour populaire suprême ou du Parquet populaire suprême ainsi que la révocation ou la cessation de fonctions de ces personnalités ;
+3- Proposer  à  l'Assemblée nationale les candidatures aux fonctions de vice-président de l'État, de Premier Ministre, de Président de la Cour populaire suprême ou du Parquet populaire suprême ainsi que la révocation ou la cessation de fonctions de ces personnalités ;
 
-- 4Nommer,  décharger,  révoquer  les  vice-Premiers  Ministres,  les  Ministres  et  les  autres  membres  du Gouvernement en se basant sur les résolutions de l'Assemblée Nationale.
+4- Nommer,  décharger,  révoquer  les  vice-Premiers  Ministres,  les  Ministres  et  les  autres  membres  du Gouvernement en se basant sur les résolutions de l'Assemblée Nationale.
 
-- 5En vertu de la résolution de l'Assemblée nationale ou de son Comité permanent, déclarer l'état de guerre et décider l'amnistie ;
+5- En vertu de la résolution de l'Assemblée nationale ou de son Comité permanent, déclarer l'état de guerre et décider l'amnistie ;
 
-- 6En  se  basant  sur  les  résolutions  du  Comité  permanent  de  l'Assemblée  nationale,  donner  l'ordre  de mobilisation générale ou de mobilisation partielle, publie l'état d'urgence; et, au cas où le Comité permanent se trouve dans l'impossibilité de tenir une réunion, décrète l'état d'urgence dans l'ensemble du pays ou dans chaque localité ;
+6- En  se  basant  sur  les  résolutions  du  Comité  permanent  de  l'Assemblée  nationale,  donner  l'ordre  de mobilisation générale ou de mobilisation partielle, publie l'état d'urgence; et, au cas où le Comité permanent se trouve dans l'impossibilité de tenir une réunion, décrète l'état d'urgence dans l'ensemble du pays ou dans chaque localité ;
 
-- 7Demander au Comité permanent de l'Assemblée nationale de réexaminer les ordonnances dans un délai de 10  jours  à  compter  de  la  date  de  leur  adoption  ;  au  cas  où  ces  ordonnances  reçoivent  à  nouveau  un  vote favorable de la part du Comité permanent et qu'il maintient son opposition, le Président de l'État les soumettra à l'Assemblée nationale pour décision dès la session suivante ;
+7- Demander au Comité permanent de l'Assemblée nationale de réexaminer les ordonnances dans un délai de 10  jours  à  compter  de  la  date  de  leur  adoption  ;  au  cas  où  ces  ordonnances  reçoivent  à  nouveau  un  vote favorable de la part du Comité permanent et qu'il maintient son opposition, le Président de l'État les soumettra à l'Assemblée nationale pour décision dès la session suivante ;
 
-- 8Nommer, révoquer ou mettre aux fonctions des vice-Présidents de la Cour populaire suprême et des juges de cette Cour ainsi que des vice-Présidents du Parquet populaire suprême et des procureurs de ce Parquet ;
+8- Nommer, révoquer ou mettre aux fonctions des vice-Présidents de la Cour populaire suprême et des juges de cette Cour ainsi que des vice-Présidents du Parquet populaire suprême et des procureurs de ce Parquet ;
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
 
-- 9Décider l'attribution des grades et échelons aux officiers supérieurs des forces armées populaires, du grade d'ambassadeur, des grades et échelons d'État dans les autres domaines; décider l'attribution des ordres, des médailles, des prix d'État et des titres honorifiques de l'État ;
+9- Décider l'attribution des grades et échelons aux officiers supérieurs des forces armées populaires, du grade d'ambassadeur, des grades et échelons d'État dans les autres domaines; décider l'attribution des ordres, des médailles, des prix d'État et des titres honorifiques de l'État ;
 
-- 10- Désigner,  rappeler  les  ambassadeurs  extraordinaires  et  polénitentiaires  du  Vietnam  ;  agréer  les ambassadeurs  extraordinaires  et  polénitentiaires  des  pays  étrangers  ;  au  nom  de  l'État  de  la  République socialiste du Vietnam, entreprendre des pourparler, signe les accords internationaux avec les chefs des autres États ;  soumettre à l'Assemblée nationale pour approbation les traités internationaux qu'il a signé; décider la ratification des accords internationaux et la participation aux traités internationaux, sauf les cas où la décision de l'Assemblée nationale est requise ;
+10- Désigner,  rappeler  les  ambassadeurs  extraordinaires  et  polénitentiaires  du  Vietnam  ;  agréer  les ambassadeurs  extraordinaires  et  polénitentiaires  des  pays  étrangers  ;  au  nom  de  l'État  de  la  République socialiste du Vietnam, entreprendre des pourparler, signe les accords internationaux avec les chefs des autres États ;  soumettre à l'Assemblée nationale pour approbation les traités internationaux qu'il a signé; décider la ratification des accords internationaux et la participation aux traités internationaux, sauf les cas où la décision de l'Assemblée nationale est requise ;
 
-- 11- Décider la naturalisation vietnamienne, la répudiation et la déchéance de la nationalité vietnamienne ;
+11- Décider la naturalisation vietnamienne, la répudiation et la déchéance de la nationalité vietnamienne ;
 
-- 12- Décider la grâce amnistiante.
+12- Décider la grâce amnistiante.
 
 ### Article 104
 
@@ -804,31 +848,31 @@ Le Président du Comité central du Front de la Patrie du Vietnam, le Président
 
 Le Gouvernement a les missions et les attributions suivantes :
 
-- 1Diriger  les  activités  des  ministères,  des  organes  ayant  rang  de  ministère,  des  organes  relevant  du Gouvernement  et  des  Comités  populaires  locaux ;  construire  et  consolider  l'appareil  administratif  du  niveau central  au  niveau  local ;  guider  et  contrôler  les  conseils  populaires  locaux  dans  l'application  des  textes  des autorités supérieures ; créer les conditions nécessaires permettant aux conseils populaires locaux d'accomplir les missions et les attributions prévues par la loi ; former, affecter et employer les agents de l'État ;
+1- Diriger  les  activités  des  ministères,  des  organes  ayant  rang  de  ministère,  des  organes  relevant  du Gouvernement  et  des  Comités  populaires  locaux ;  construire  et  consolider  l'appareil  administratif  du  niveau central  au  niveau  local ;  guider  et  contrôler  les  conseils  populaires  locaux  dans  l'application  des  textes  des autorités supérieures ; créer les conditions nécessaires permettant aux conseils populaires locaux d'accomplir les missions et les attributions prévues par la loi ; former, affecter et employer les agents de l'État ;
 
-- 2Garantir l'application de la Constitution et de la loi par les organes d'État, les organisations économiques et sociales, les unités des forces armées et les citoyens ; organiser et diriger les actions de diffusion du contenu de la Constitution et de la loi ;
+2- Garantir l'application de la Constitution et de la loi par les organes d'État, les organisations économiques et sociales, les unités des forces armées et les citoyens ; organiser et diriger les actions de diffusion du contenu de la Constitution et de la loi ;
 
-- 3Présenter  les  projets  de  loi,  d'ordonnance  et  d'autres  textes  à  l'Assemblée  nationale  et  à  son  Comité permanent ;
+3- Présenter  les  projets  de  loi,  d'ordonnance  et  d'autres  textes  à  l'Assemblée  nationale  et  à  son  Comité permanent ;
 
-- 4Gérer la construction et le développement de l'économie nationale ; mettre en oeuvre la politique nationale en matière financière et monétaire ; gérer et garantir l'utilisation efficace des biens publics ; développer les oeuvres culturelle,  éducative,  sanitaire,  scientifique  et  technologique ;  mettre  en  oeuvre  les  plans  de  développement socio-économique et exécuter le budget de l'État ;
+4- Gérer la construction et le développement de l'économie nationale ; mettre en oeuvre la politique nationale en matière financière et monétaire ; gérer et garantir l'utilisation efficace des biens publics ; développer les oeuvres culturelle,  éducative,  sanitaire,  scientifique  et  technologique ;  mettre  en  oeuvre  les  plans  de  développement socio-économique et exécuter le budget de l'État ;
 
-- 5Prendre les  mesures  permettant  de  protéger  les  droits  et  les  intérêts  légitimes  des  citoyens,  de  faciliter l'exercice par ceux-ci de leurs droits et l'exécution de leurs obligations, de sauvegarder les biens publics, les intérêts de l'État et de la société et de préserver l'environnement ;
+5- Prendre les  mesures  permettant  de  protéger  les  droits  et  les  intérêts  légitimes  des  citoyens,  de  faciliter l'exercice par ceux-ci de leurs droits et l'exécution de leurs obligations, de sauvegarder les biens publics, les intérêts de l'État et de la société et de préserver l'environnement ;
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
 
-- 6Renforcer la défense populaire du pays et la sécurité nationale populaire ; maintenir la sécurité nationale, l'ordre public et la paix sociale ; construire les forces armées populaires ; exécuter les décrets de mobilisation, de déclaration de l'état d'urgence et prendre toute autre mesure nécessaire pour défendre le pays ;
+6- Renforcer la défense populaire du pays et la sécurité nationale populaire ; maintenir la sécurité nationale, l'ordre public et la paix sociale ; construire les forces armées populaires ; exécuter les décrets de mobilisation, de déclaration de l'état d'urgence et prendre toute autre mesure nécessaire pour défendre le pays ;
 
-- 7Organiser et diriger les actions de recensement et de statistiques de l'État, les opérations d'inscription et de contrôle de l'État, la lutte contre la bureaucratie et la corruption et le règlement des recours et des dénonciations des citoyens ;
+7- Organiser et diriger les actions de recensement et de statistiques de l'État, les opérations d'inscription et de contrôle de l'État, la lutte contre la bureaucratie et la corruption et le règlement des recours et des dénonciations des citoyens ;
 
-- 8Assurer la gestion unifiée des affaires étrangères; négocier, signer les accords internationaux au nom de la République socialiste du Vietnam, sauf les cas prévus au paragraphe 10 de l'article 103 ; négocier, signer, ratifier les  accords  internationaux,  adhérer  aux  traités  internationaux  au  nom  du  Gouvernement;  guider  la  mise  en exécution des accords internationaux signés par la République socialiste du Vietnam ou les traités internationaux auxquels elle participe ; protéger les intérêts de l'État, les intérêts légitimes des organisations et des citoyens vietnamiens à l'étranger ;
+8- Assurer la gestion unifiée des affaires étrangères; négocier, signer les accords internationaux au nom de la République socialiste du Vietnam, sauf les cas prévus au paragraphe 10 de l'article 103 ; négocier, signer, ratifier les  accords  internationaux,  adhérer  aux  traités  internationaux  au  nom  du  Gouvernement;  guider  la  mise  en exécution des accords internationaux signés par la République socialiste du Vietnam ou les traités internationaux auxquels elle participe ; protéger les intérêts de l'État, les intérêts légitimes des organisations et des citoyens vietnamiens à l'étranger ;
 
-- 9Mettre en oeuvre la politique sociale, la politique des ethnies et la politique des religions ;
+9- Mettre en oeuvre la politique sociale, la politique des ethnies et la politique des religions ;
 
-- 10- Décider la modification de la carte administrative au niveau des provinces ;
+10- Décider la modification de la carte administrative au niveau des provinces ;
 
-- 11- Coordonner  son  action  avec  le  Front  de  la  Patrie  du  Vietnam  et  les  organisations  de  masse  dans l'accomplissement  de  ses  missions  et  attributions ;  créer  les  conditions  nécessaires  permettant  de  garantir l'efficacité des activités de ces organisations.
+11- Coordonner  son  action  avec  le  Front  de  la  Patrie  du  Vietnam  et  les  organisations  de  masse  dans l'accomplissement  de  ses  missions  et  attributions ;  créer  les  conditions  nécessaires  permettant  de  garantir l'efficacité des activités de ces organisations.
 
 ### Article 113
 
@@ -838,17 +882,17 @@ La durée du mandat du Gouvernement correspond à celle de l'Assemblée national
 
 Le Premier Ministre a les missions et les attributions suivantes :
 
-- 1Diriger les activités du Gouvernement, des membres de celui-ci et des comités populaires locaux ; présider les réunions du Gouvernement ;
+1- Diriger les activités du Gouvernement, des membres de celui-ci et des comités populaires locaux ; présider les réunions du Gouvernement ;
 
-- 2Proposer à l'Assemblée Nationale de créer ou de dissoudre des ministères et des administrations ayant rang ministériel,  soumettre  à  l'approbation  de  l'Assemblée  Nationale  des  propositions  relatives  à  la  nomination,  la décharge et la révocation des vice-Premiers Ministres, de Ministres et d'autres membres du Gouvernement."
+2- Proposer à l'Assemblée Nationale de créer ou de dissoudre des ministères et des administrations ayant rang ministériel,  soumettre  à  l'approbation  de  l'Assemblée  Nationale  des  propositions  relatives  à  la  nomination,  la décharge et la révocation des vice-Premiers Ministres, de Ministres et d'autres membres du Gouvernement."
 
-- 3Nommer,  révoquer  et  mettre  fin  aux  fonctions  des  vice-ministres  et  des  autres  personnalités  de  rang équivalent ;  approuver  les  résultats  d'élection,  de  révocation,  de  mutation  ou  de  cessation  de  fonctions  des Présidents et des vice-Présidents des Comités populaires de province ;
+3- Nommer,  révoquer  et  mettre  fin  aux  fonctions  des  vice-ministres  et  des  autres  personnalités  de  rang équivalent ;  approuver  les  résultats  d'élection,  de  révocation,  de  mutation  ou  de  cessation  de  fonctions  des Présidents et des vice-Présidents des Comités populaires de province ;
 
-- 4Suspendre  ou  annuler  les  décisions,  circulaires  ou  directives  des  ministres  et  des  autres  membres  du Gouvernement,  les  décisions,  les  directives  des  Comités  populaires  de  province  et  des  Présidents  de  ces Comités qui sont contraires à la Constitution, à la loi et aux textes des autorités supérieures ;
+4- Suspendre  ou  annuler  les  décisions,  circulaires  ou  directives  des  ministres  et  des  autres  membres  du Gouvernement,  les  décisions,  les  directives  des  Comités  populaires  de  province  et  des  Présidents  de  ces Comités qui sont contraires à la Constitution, à la loi et aux textes des autorités supérieures ;
 
-- 5Suspendre  l'application  des  résolutions  des  conseils  populaires  de  province  qui  sont  contraires  à  la Constitution,  à  la  loi  et  aux  textes  des  autorités  supérieures  et  demander  l'annulation  de  ces  résolutions  au Comité permanent de l'Assemblée nationale ;
+5- Suspendre  l'application  des  résolutions  des  conseils  populaires  de  province  qui  sont  contraires  à  la Constitution,  à  la  loi  et  aux  textes  des  autorités  supérieures  et  demander  l'annulation  de  ces  résolutions  au Comité permanent de l'Assemblée nationale ;
 
-- 6Rendre compte à la nation, au moyen des médias, des questions importantes devant être réglées par le Gouvernement.
+6- Rendre compte à la nation, au moyen des médias, des questions importantes devant être réglées par le Gouvernement.
 
 ### Article 115
 
@@ -932,12 +976,12 @@ Le  Conseil  populaire  et  le  Comité  populaire  sont  tenus  d'informer  le 
 
 ### Article 126
 
-Les juridictions populaires et les parquets populaires de la République socialiste du Vietnam sont chargés, dans la limite de leur compétence, de la protection de la légalité socialiste, du régime socialiste, des droits souverains du  peuple,  des  biens  publics,  de  la  vie,  des  biens,  des  libertés,  de  l'honneur  et  de  la  dignité  humaine  des citoyens.
+Les juridictions populaires et les parquets populaires de la République socialiste du Vietnam sont chargés, dans la limite de leur compétence, de la protection de la légalité socialiste, du régime socialiste, des droits souverains
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
-
+du peuple, des biens publics, de la vie, des biens, des libertés, de l’honneur et de la dignité humaine des citoyens.
 ### Les juridictions populaires
 
 #### Article 127
@@ -962,7 +1006,7 @@ Le jugement est réalisé en audience publique, sauf les cas spécifiés par la 
 
 #### Article 132
 
-Le droit de défense des personnes mises en cause est protégé. La personne mise en cause peut assurer luimême la défense ou demander à une autre de le faire. La profession d'avocats est créée pour assister les personnes mises en cause et les autres justiciables dans la sauvegarde de leurs droits et intérêts légitimes et contribuer à la protection de la légalité socialiste.
+Le droit de défense des personnes mises en cause est protégé. La personne mise en cause peut assurer lui-même la défense ou demander à une autre de le faire. La profession d'avocats est créée pour assister les personnes mises en cause et les autres justiciables dans la sauvegarde de leurs droits et intérêts légitimes et contribuer à la protection de la légalité socialiste.
 
 #### Article 133
 
@@ -1004,7 +1048,7 @@ Une loi définira les modalités et les conditions de création du Comité de co
 
 La durée du mandat du Président du Parquet populaire suprême correspond à celle de l'Assemblée nationale.
 
-Le Président du Parquet populaire suprême nomme, révoque et met fin aux fonctions des Présidents, des vicePrésidents et des procureurs des Parquets populaires et militaires locaux.
+Le Président du Parquet populaire suprême nomme, révoque et met fin aux fonctions des Présidents, des vice-Présidents et des procureurs des Parquets populaires et militaires locaux.
 
 #### Article 139
 
@@ -1048,7 +1092,7 @@ La Constitution est la loi fondamentale qui a une valeur juridique suprême. Tou
 
 ### Article 147
 
-L'Assemblée nationale a elle seule le droit de révision de la Constitution. Pour qu'un projet de révision de la Constitution  soit  passé,  il  faut  obtenir  l'accord  d'au  moins  les  deux  tiers  de  l'ensemble  des  membres  de l'Assemblée nationale. La Présente Constitution a été adoptée à 11h45', le 15 avril 1992, par l'Assemblée nationale de la République socialiste du Vietnam, VIII ème Législature, lors de sa 11è session. Le Président de l'Assemblée nationale LE QUANG DAO
+L'Assemblée nationale a elle seule le droit de révision de la Constitution. Pour qu'un projet de révision de la Constitution  soit  passé,  il  faut  obtenir  l'accord  d'au  moins  les  deux  tiers  de  l'ensemble  des  membres  de l'Assemblée nationale. La Présente Constitution a été adoptée à 11h45', le 15 avril 1992, par l'Assemblée nationale de la République socialiste du Vietnam, VIIIème Législature, lors de sa 11è session. Le Président de l'Assemblée nationale LE QUANG DAO
 
 [[END OF PAGE 28]]
 
