@@ -6,15 +6,15 @@
 
 The Committee on the Constitution, Standing Orders and Political System of the Croatian Parliament, pursuant to its authority as specified in Article 57 of the Standing Orders of the Croatian Parliament, has confirmed the consolidated text of the Constitution of the Republic of Croatia at its session held on 6 July 2010.
 
-The consolidated text of the Constitution of the Republic of Croatia encompasses the Constitution of the Republic of Croatia (as published in the official journal of the Republic of Croatia, Narodne novine , no. 56/90, 135/97, 8/98 - consolidated text, 113/2000, 124/2000 consolidated text, 28/2001, 41/2001 - consolidated text, 55/2001 - correction) and the Amendments to the Constitution of the Republic of Croatia published in Narodne novine , no. 76/2010, in which the date of their entry into force is indicated.
+The consolidated text of the Constitution of the Republic of Croatia encompasses the Constitution of the Republic of Croatia (as published in the official journal of the Republic of Croatia, Narodne novine, no. 56/90, 135/97, 8/98 – consolidated text, 113/2000, 124/2000 – consolidated text, 28/2001, 41/2001 – consolidated text, 55/2001 – correction) and the Amendments to the Constitution of the Republic of Croatia published in Narodne novine, no. 76/2010, in which the date of their entry into force is indicated.
 
 Class: 012-02/10-01/01
 
 Zagreb, 6 July 2010
 
-Chairman Vladimir Šeks ( signed )
-
+Chairman
 of the Committee on the Constitution, Standing Orders and Political System of the Croatian Parliament
+Vladimir Šeks (signed)
 
 # CONSTITUTION OF THE REPUBLIC OF CROATIA (consolidated text)
 
@@ -128,34 +128,49 @@ Assistance in the protection of sovereignty and independence and defence of terr
 
 The  armed  forces  of  allied  states  may  cross  the  national  border  and  enter  the  Republic  of Croatia or operate within the national borders thereof as stipulated under ratified international treaties, pursuant to a decision by the Government of the Republic of Croatia with the prior consent of the President of the Republic of Croatia.
 
-The Republic of Croatia may render assistance to allied states in case of armed aggression on one or more thereof as stipulated under ratified international treaties, pursuant to a decision of the Croatian Parliament proposed by the Government of the Republic of Croatia with the prior consent of the President of the Republic of Croatia.
-The armed forces of the Republic of Croatia may cross its national borders or operate across its borders pursuant to a decision of the Croatian Parliament proposed by the Government of the Republic of Croatia with the prior consent of the President of the Republic of Croatia.
-The decision specified in paragraphs (3), (4) and (5) of the Article shall be made by the Croatian Parliament by a majority vote of all of its members.
-Insofar as the President of the Republic of Croatia denies the consent specified in paragraphs (3), (4) and (5) of this Article, the Croatian Parliament shall make the decision by a two-thirds majority of votes of all of its members.
-The armed forces of the Republic of Croatia may cross the national borders of the Republic of Croatia for the purpose  of military exercises and  training within  the  framework  of international organisations to which the Republic of Croatia has acceded or is in the process of acceding pursuant to international treaties and for the purpose of rendering humanitarian assistance, pursuant to a decision by the Government of the Republic of Croatia with the prior consent of the President of the Republic of Croatia.
-The armed forces of allied states may cross the national borders of the Republic of Croatia for the purpose of military exercises and training within the framework of international organisations to which the Republic of Croatia has acceded or is in the process of acceding pursuant to international treaties and for the purpose of rendering humanitarian assistance, pursuant to a decision by the Government of the Republic of Croatia with the prior consent of the President of the Republic of Croatia.
-Under the circumstances specified in Articles 17 and 101 of the Constitution, the armed forces may, if necessitated by the nature of a threat, be deployed to assist the police and other state bodies.
-The armed forces of the Republic of Croatia may also be deployed to assist fire fighting and rescue operations and surveillance and protection of the rights of the Republic of Croatia at sea.
-The  defence  structure,  chain  of  command,  administration  and  democratic  oversight  of  the armed forces of the Republic of Croatia shall be regulated by the Constitution and law.
-#### Article 8
-The borders of the Republic of Croatia may be altered solely by a decision of the Croatian Parliament.
-#### Article 9
-Croatian citizenship, and its acquisition and revocation, shall be regulated by law.
-A citizen of the Republic of Croatia may not be forcibly exiled from the Republic of Croatia nor deprived of citizenship, nor extradited to another state, except in case of execution of a decision on extradition or surrender made in compliance with international treaty or the acquis communautaire of the European Union.
+The Republic of Croatia may render assistance to allied states in case of armed aggression on one or more thereof as stipulated under ratified international treaties, pursuant to a decision of
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-(this page came through the extractor with no text)
+the Croatian Parliament proposed by the Government of the Republic of Croatia with the prior consent of the President of the Republic of Croatia.
+
+The armed forces of the Republic of Croatia may cross its national borders or operate across its borders pursuant to a decision of the Croatian Parliament proposed by the Government of the Republic of Croatia with the prior consent of the President of the Republic of Croatia.
+
+The decision specified in paragraphs (3), (4) and (5) of the Article shall be made by the Croatian Parliament by a majority vote of all of its members.
+
+Insofar as the President of the Republic of Croatia denies the consent specified in paragraphs (3), (4) and (5) of this Article, the Croatian Parliament shall make the decision by a two-thirds majority of votes of all of its members.
+
+The armed forces of the Republic of Croatia may cross the national borders of the Republic of Croatia for the purpose of military exercises and training within the framework of international organisations to which the Republic of Croatia has acceded or is in the process of acceding pursuant to international treaties and for the purpose of rendering humanitarian assistance, pursuant to a decision by the Government of the Republic of Croatia with the prior consent of the President of the Republic of Croatia.
+
+The armed forces of allied states may cross the national borders of the Republic of Croatia for the purpose of military exercises and training within the framework of international organisations to which the Republic of Croatia has acceded or is in the process of acceding pursuant to international treaties and for the purpose of rendering humanitarian assistance, pursuant to a decision by the Government of the Republic of Croatia with the prior consent of the President of the Republic of Croatia.
+
+Under the circumstances specified in Articles 17 and 101 of the Constitution, the armed forces may, if necessitated by the nature of a threat, be deployed to assist the police and other state bodies.
+
+The armed forces of the Republic of Croatia may also be deployed to assist fire fighting and rescue operations and surveillance and protection of the rights of the Republic of Croatia at sea.
+
+The defence structure, chain of command, administration and democratic oversight of the armed forces of the Republic of Croatia shall be regulated by the Constitution and law.
+
+#### Article 8
+
+The borders of the Republic of Croatia may be altered solely by a decision of the Croatian Parliament.
+
+#### Article 9
+
+Croatian citizenship, and its acquisition and revocation, shall be regulated by law.
+
+A citizen of the Republic of Croatia may not be forcibly exiled from the Republic of Croatia nor deprived of citizenship, nor extradited to another state, except in case of execution of a
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
+decision on extradition or surrender made in compliance with international treaty or the acquis communautaire of the European Union.
+
 #### Article 10
 
-The  Republic  of  Croatia  shall  safeguard  the  rights  and  interests  of  its  citizens  living  or residing abroad, and shall promote their ties to their homeland.
+The Republic of Croatia shall safeguard the rights and interests of its citizens living or residing abroad, and shall promote their ties to their homeland.
 
 The Republic of Croatia shall guarantee particular care and protection to those portions of the Croatian nation in other countries.
 
@@ -229,6 +244,20 @@ By way of exception, the right to appeal may be denied in cases specified by law
 
 [[START OF PAGE 8]]
 
+#### Article 19
+
+Individual decisions of governmental agencies, the civil service and bodies vested with public authority shall be grounded in law.
+
+Judicial review of individual decisions made by governmental agencies and other bodies vested with public authority shall be guaranteed.
+
+#### Article 20
+
+Whosoever violates the provisions of the Constitution concerning human rights and fundamental freedoms shall be held personally liable and may not be exculpated by invoking a higher order.
+
+### 2. PERSONAL AND POLITICAL LIBERTIES AND RIGHTS
+
+#### Article 21
+
 Each human being has the right to life.
 
 There shall be no capital punishment in the Republic of Croatia.
@@ -249,23 +278,9 @@ Forced and compulsory labour shall be forbidden.
 
 No one may be arrested or detained without a written court order grounded in law. Such an order has to be read and presented to the person placed under arrest at the moment of said arrest.
 
-The  police  authorities  may  arrest  a  person  without  a  warrant  when  there  is  reasonable suspicion that such person has perpetrated a grave criminal offence as defined by law. Such person shall be promptly informed, in understandable terms, of the reasons for arrest and of his/her rights as stipulated by law.
+The police authorities may arrest a person without a warrant when there is reasonable suspicion that such person has perpetrated a grave criminal offence as defined by law. Such person shall be promptly informed, in understandable terms, of the reasons for arrest and of his/her rights as stipulated by law.
 
 Any person arrested or detained shall have the right to appeal before a court, which must forthwith decide on the legality of the arrest.
-
-#### Article 19
-
-Individual decisions of governmental agencies, the civil service and bodies vested with public authority shall be grounded in law.
-
-Judicial  review  of  individual  decisions  made  by  governmental  agencies  and  other  bodies vested with public authority shall be guaranteed.
-
-#### Article 20
-
-Whosoever  violates the provisions of the Constitution concerning human  rights and fundamental freedoms shall be held personally liable and may not be exculpated by invoking a higher order.
-
-### 2. PERSONAL AND POLITICAL LIBERTIES AND RIGHTS
-
-#### Article 21
 
 [[END OF PAGE 8]]
 
@@ -283,7 +298,7 @@ Everyone is presumed innocent and may not be held guilty of a criminal offence u
 #### Article 29
 Everyone shall be entitled have his or her rights and obligations, or suspicion or accusation of a criminal offence decided upon fairly before a legally established, independent and impartial court within a reasonable period. In the case of suspicion or accusation of a criminal offence, the suspected, accused or indicted person shall be entitled: - to be informed in detail and in a language he/she understands, within the shortest possible term, of the nature and grounds for the charges against him/her and the evidence incriminating him/her, - to have adequate time and opportunity to prepare his/her defence, - to defence counsel and unrestricted communication therewith, and to be informed of this right, - to mount his/her own defence independently or with the assistance of a defence counsel of his/her own choice, and if he/she lacks the resources to engage such counsel, to have free
 
-- counsel provided under the conditions specified by law,
+counsel provided under the conditions specified by law,
 
 [[END OF PAGE 9]]
 
@@ -633,7 +648,7 @@ The chairperson of a commission of inquiry shall be elected by a majority of dep
 
 The Ombudsperson shall be a commissioner of the Croatian Parliament responsible for the promotion and protection of human rights and freedoms enshrined in the Constitution, laws and international legal instruments on human rights and freedoms ratified by the Republic of Croatia.
 
-Everyone may lodge a complaint to the Ombudsperson if he/she deems that his/her constitutional or legal rights have been threatened or violated as a result of any illegal or irregular act by governmental bodies and the civil service, local and regional selfgovernmental bodies and bodies vested with public authority.
+Everyone may lodge a complaint to the Ombudsperson if he/she deems that his/her constitutional or legal rights have been threatened or violated as a result of any illegal or irregular act by governmental bodies and the civil service, local and regional self-governmental bodies and bodies vested with public authority.
 
 The Croatian Parliament shall elect the Ombudsperson for a term of eight years. The Ombudsperson shall be autonomous and independent in his/her work.
 
@@ -660,6 +675,20 @@ party and shall notify the Croatian Parliament thereof.
 
 [[START OF PAGE 25]]
 
+#### Article 97
+
+In case the President of the Republic is prevented from discharging his/her duties for a shorter period as a result of his/her absence, illness or use of annual leave, he/she may entrust the Speaker of the Croatian Parliament to discharge his/her duties on his/her behalf. The President of the Republic shall decide on the resumption of his/her duties.
+
+In case the President of the Republic is prevented from discharging his/her duties for a longer period as a result of illness or incapacity and, in particular, if he/she is incapable of making the decision to entrust somebody to discharge his/her duties on a temporary basis, the Speaker of the Parliament shall assume the office of President pro tempore of the Republic pursuant to the decision of the Constitutional Court. The Constitutional Court shall decide thereon at the proposal of the Government.
+
+In the event of the death of the President of the Republic, his/her resignation, which is to be tendered to the Chief Justice of the Constitutional Court of the Republic of Croatia and disclosed to the Speaker of the Croatian Parliament, or when the Constitutional Court finds any grounds for the termination of his/her term of office, the Speaker of the Croatian Parliament shall assume the office of President pro tempore of the Republic by virtue of the Constitution.
+
+When the Speaker of the Croatian Parliament, acting as the President pro tempore of the Republic, makes a decision promulgating a law, such a decision shall be countersigned by the Prime Minister of the Republic of Croatia.
+
+Elections for a new President of the Republic shall be held within 60 days from the date when the President pro tempore of the Republic assumed office under paragraph (3) of this Article.
+
+#### Article 98
+
 The President of the Republic shall:
 
 - call elections for the Croatian Parliament and convene its first session;
@@ -677,20 +706,6 @@ The President of the Republic shall:
 #### Article 99
 
 The President of the Republic and the Government of the Republic of Croatia shall co-operate in the formulation and implementation of foreign policy.
-
-#### Article 97
-
-In case the President of the Republic is prevented from discharging his/her duties for a shorter period as a result of his/her absence, illness or use of annual leave, he/she may entrust the Speaker of the Croatian Parliament to discharge his/her duties on his/her behalf. The President of the Republic shall decide on the resumption of his/her duties.
-
-In case the President of the Republic is prevented from discharging his/her duties for a longer period as a result of illness or incapacity and, in particular, if he/she is incapable of making the decision to entrust somebody to discharge his/her duties on a temporary basis, the Speaker of the Parliament shall assume the office of President pro tempore of the Republic pursuant to the decision of the Constitutional Court. The Constitutional Court shall decide thereon at the proposal of the Government.
-
-In the event of the death of the President of the Republic, his/her resignation, which is to be tendered to the Chief Justice of the Constitutional Court of the Republic of Croatia and disclosed to the Speaker of the Croatian Parliament, or when the Constitutional Court finds any grounds for the termination of his/her term of office, the Speaker of the Croatian Parliament shall assume the office of President pro tempore of the Republic by virtue of the Constitution.
-
-When the Speaker of the Croatian Parliament, acting as the President pro tempore of the Republic, makes a decision promulgating a law, such a decision shall be countersigned by the Prime Minister of the Republic of Croatia.
-
-Elections for a new President of the Republic shall be held within 60 days from the date when the President pro tempore of the Republic assumed office under paragraph (3) of this Article.
-
-#### Article 98
 
 [[END OF PAGE 25]]
 
@@ -910,6 +925,22 @@ The public may be barred from proceedings or part thereof for reasons necessary 
 
 [[START OF PAGE 32]]
 
+#### Article 121
+
+Judicial duty shall be vested in judges personally.
+
+Lay magistrates and court advisors shall participate in court proceedings in compliance with law.
+
+#### Article 122
+
+Judges shall enjoy immunity in accordance with law.
+
+Judges and lay magistrates who participate in court proceedings may not be held to account for an opinion or a vote given in the process of judicial decision-making unless there exists a violation of law on the part of a judge which constitutes a criminal offence.
+
+A judge may not be remanded in custody or investigative detention in connection with any criminal prosecution initiated for a criminal offence perpetrated in the performance of his/her judicial duty without the prior consent of the National Judicial Council.
+
+#### Article 123
+
 Judges shall have life tenure.
 
 A judge shall be relieved of office:
@@ -927,22 +958,6 @@ A judge shall be relieved of office:
 A judge shall have the right to lodge an appeal against a decision relieving him/her of judicial duty with the Constitutional Court within 15 days after the date on which the decision has been served. The Constitutional Court shall rule on the appeal applying such procedure and being of such composition as determined by the Constitutional Act on the Constitutional Court of the Republic of Croatia.
 
 A judge shall have the right to lodge an appeal against a decision by the National Judicial Council on disciplinary accountability with the Constitutional Court within 15 days after the date on which the decision has been served. The Constitutional Court shall decide on the appeal in the manner and by applying the procedure as determined by the Constitutional Act on the Constitutional Court of the Republic of Croatia.
-
-#### Article 121
-
-Judicial duty shall be vested in judges personally.
-
-Lay magistrates and court advisors shall participate in court proceedings in compliance with law.
-
-#### Article 122
-
-Judges shall enjoy immunity in accordance with law.
-
-Judges and lay magistrates who participate in court proceedings may not be held to account for an opinion or a vote given in the process of judicial decision-making unless there exists a violation of law on the part of a judge which constitutes a criminal offence.
-
-A judge may not be remanded in custody or investigative detention in connection with any criminal prosecution initiated for a criminal offence perpetrated in the performance of his/her judicial duty without the prior consent of the National Judicial Council.
-
-#### Article 123
 
 [[END OF PAGE 32]]
 
@@ -1097,7 +1112,7 @@ Units of local and regional self-government shall have the right, within the lim
 
 #### Article 137
 
-In administering the affairs within their jurisdiction, units of local and regional selfgovernment shall be autonomous and subject only to the review of the constitutionality and legality by the authorized national governmental bodies.
+In administering the affairs within their jurisdiction, units of local and regional self-government shall be autonomous and subject only to the review of the constitutionality and legality by the authorized national governmental bodies.
 
 [[END OF PAGE 37]]
 
@@ -1109,7 +1124,7 @@ Units of local and regional self-government shall be entitled to their own reven
 
 Revenues of local and regional units of self-government shall be proportional to their powers as envisaged by the Constitution and law.
 
-The state shall provide financial assistance to weaker units of local and regional selfgovernment in compliance with law.
+The state shall provide financial assistance to weaker units of local and regional self-government in compliance with law.
 
 ## VII INTERNATIONAL RELATIONS
 
@@ -1197,9 +1212,13 @@ Governmental agencies, bodies of local and regional self-government and legal pe
 
 #### Article 146
 
-Citizens of the Republic of Croatia shall be European Union citizens and shall enjoy the rights guaranteed by the European Union acquis communautaire, and in particular: - freedom of movement and residence in the territory of all Member States, - active and passive voting rights in European parliamentary elections and in local elections in another Member State, in accordance with that Member State's law, - the right to the diplomatic and consular protection of any Member State which is equal to the protection provided to own citizens when present in a third country where the Republic of
+Citizens of the Republic of Croatia shall be European Union citizens and shall enjoy the rights guaranteed by the European Union acquis communautaire, and in particular:
 
-- Croatia has no diplomatic-consular representation,
+- freedom of movement and residence in the territory of all Member States,
+
+- active and passive voting rights in European parliamentary elections and in local elections in another Member State, in accordance with that Member State's law,
+
+- the right to the diplomatic and consular protection of any Member State which is equal to the protection provided to own citizens when present in a third country where the Republic of Croatia has no diplomatic-consular representation,
 
 [[END OF PAGE 40]]
 
@@ -1229,11 +1248,11 @@ Amendment of the Constitution shall be promulgated by the Croatian Parliament.
 
 #### Article 151
 
-The Croatian Parliament shall enact the Constitutional Act Implementing the Constitution of the Republic of Croatia within six months from the 16 th day of June 2010, the date of promulgation of the Amendments to the Constitution of the Republic of Croatia.
+The Croatian Parliament shall enact the Constitutional Act Implementing the Constitution of the Republic of Croatia within six months from the 16th day of June 2010, the date of promulgation of the Amendments to the Constitution of the Republic of Croatia.
 
 #### Article 152
 
-The Amendments to the Constitution shall enter into force on the day of their promulgation, the 16 th day of June 2010, with the exception of Article 9, paragraph (2) pertaining to execution of a decision on extradition or surrender in compliance with the acquis communautaire of the European Union, and Article 133, paragraph (4) and Articles 144, 145
+The Amendments to the Constitution shall enter into force on the day of their promulgation, the 16th day of June 2010, with the exception of Article 9, paragraph (2) pertaining to execution of a decision on extradition or surrender in compliance with the acquis communautaire of the European Union, and Article 133, paragraph (4) and Articles 144, 145
 
 [[END OF PAGE 41]]
 
