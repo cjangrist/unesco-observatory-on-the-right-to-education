@@ -2,13 +2,13 @@
 
 <html>
 
-<META name="description" content=" >
+<META name="description" content="">
 
-<META name="keywords" content="legislation ALB ENL T04">
+<META name="key words" content="legislation ALB ENL T04">
 
-<ti le>LAW ON PRE-UNIVERSITY EDUCATION SYSTEM</ti le>
+<title>LAW ON PRE-UNIVERSITY EDUCATION SYSTEM</title>
 
-<!- NOSEARCHSTART- >
+<!--NOSEARCHSTART-->
 
 LAW
 
@@ -44,7 +44,7 @@ The  goal  of  education  is  the  spiritual  emancipation,  material  progress 
 
 [[START OF PAGE 2]]
 
-The  citizens  of  the  Republic  of  Albania  enjoy  equal  rights  to  study  at  all  levels  of education defined by this law, apart from the social state, nationality, language, sex, religion, race, political beliefs, health's condition and economic level.
+The  citizens  of  the  Republic  of  Albania  enjoy  equal  rights  to  study  at  all  levels  of education defined by this law, apart from the social state, nationality, language, sex, religion, race, political beliefs, health’s condition and economic level.
 
 #### Article 4
 
@@ -108,7 +108,7 @@ The Ministry of Education defines by sub-legal acts the criteria of equivalence 
 
 [[START OF PAGE 4]]
 
-In the public pre-school and school institutions the teacher is the central scientific and pedagogical figure. He carries out the proper methods and tools in order to realise the basic program,  relying  on  his  own  skills  and  professional  preparation,  securing  a  harmonious education,  preserving  the  pupils'  personality  and  avoiding    any    influence  that  can  cause problems with his social , political and religious beliefs.
+In the public pre-school and school institutions the teacher is the central scientific and pedagogical figure. He carries out the proper methods and tools in order to realise the basic program,  relying  on  his  own  skills  and  professional  preparation,  securing  a  harmonious education,  preserving  the  pupils’  personality  and  avoiding    any    influence  that  can  cause problems with his social , political and religious beliefs.
 
 - 14.2. The basic requirements for the initial training and qualification of the teachers are defined through and by decision of the Ministry of Education
 
@@ -224,7 +224,7 @@ The public secondary education aims develop in the most harmonious and complete 
 
 The public secondary education prepare the pupils to follow up higher studies in the University, other higher schools or to exercise certain  professions.
 
-The  public  secondary  education  is  organised  according  to  the  various  levels  of  the schooling, to the distinctions of the content and the vocational profiles, at full-time and parttime schools. Referring to the number of pupils, to the climate and environment, in special cases, the teaching process can be held even in collective classes. In such cases the Ministry of Education issues the respective instruction.
+The  public  secondary  education  is  organised  according  to  the  various  levels  of  the schooling, to the distinctions of the content and the vocational profiles, at full-time and part-time schools. Referring to the number of pupils, to the climate and environment, in special cases, the teaching process can be held even in collective classes. In such cases the Ministry of Education issues the respective instruction.
 
 #### Article 28
 
@@ -268,11 +268,13 @@ Second level, which lasts 5 more years after the 8 th grade or after the tenth g
 
 #### Article 34
 
-The public vocational schools of the first level realise a vocational training with clear practical  character.  Upon  graduation  the  pupils  receive,  besides  the  Diploma,  a  certificate which  proves  their  level  of  vocational  preparation.  The  modalities  of  the  certificate  are defined  by  the  Ministry  of  Education  in  co-operation  with  the  other  central  ministries  and institutions.
+The public vocational schools of the first level realise a vocational training with clear practical  character.  Upon  graduation  the  pupils  receive,  besides  the  Diploma,  a  certificate which  proves  their  level  of  vocational  preparation.  The  modalities  of  the  certificate  are
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+
+defined by the Ministry of Education in co-operation with the other central ministries and institutions.
 
 #### Article 35
 
@@ -284,7 +286,7 @@ Upon  graduation  of  the  public  vocational  schools  of  the  second  level, 
 
 #### Article 37
 
-In  the  organisation  of  the  public  vocational  education  the  Ministry  of  Education  cooperates with the central ministries and institutions, especially for studying the labour market needs.
+In  the  organisation  of  the  public  vocational  education  the  Ministry  of  Education  co-operates with the central ministries and institutions, especially for studying the labour market needs.
 
 #### Article 38
 
@@ -350,11 +352,13 @@ The opening of the private education is allowed at all levels of public educatio
 
 #### Article 45
 
-45.1.  The  Ministry  of  Education  defines  the  unification  for  the  recognition  of  the certificates  of  a  grade  or  of  a  private  school.  If  the  private  school  gives  even  religious subjects, the Ministry of Education defines the unification for the recognition of the laic part of the curricula upon  the completion  of a grade or private  school.
+45.1.  The  Ministry  of  Education  defines  the  unification  for  the  recognition  of  the certificates  of  a  grade  or  of  a  private  school.  If  the  private  school  gives  even  religious
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+
+subjects, the Ministry of Education defines the unification for the recognition of the laic part of the curricula upon the completion of a grade or private school.
 
 #### Article 46
 
@@ -394,7 +398,7 @@ The Ministry of Education defines the particular cases when the compulsory educa
 
 #### Article 51
 
-The Ministry of Education is the highest administrative public body of education. The Ministry  of  Education  compiles  and  elaborates    the  teaching  plans  and  curricula  for  the development of education through its specialists and its subsidiary institutions in conformity with the international trends and development as well as with the national, regional, socialeconomic and demographic peculiarities of Albania.
+The Ministry of Education is the highest administrative public body of education. The Ministry  of  Education  compiles  and  elaborates    the  teaching  plans  and  curricula  for  the development of education through its specialists and its subsidiary institutions in conformity with the international trends and development as well as with the national, regional, social-economic and demographic peculiarities of Albania.
 
 #### Article 52
 
@@ -485,13 +489,13 @@ Against the fine decision a complaint can be made, within 10 days from the day o
 
 #### Article 62
 
-The analysis of the administrative violations and the execution of the  decision of fine sentence  is  made  according  to  the  respective  dispositions    of  the  law    No.  7697,  dated 07.04.1993 'For administrative violations'.
+The analysis of the administrative violations and the execution of the  decision of fine sentence  is  made  according  to  the  respective  dispositions    of  the  law    No.  7697,  dated 07.04.1993 “For administrative violations”.
 
 ## LAST DISPOSITIONS
 
 #### Article 63
 
-The Council of Ministers after the proposal of the Ministry of Education issues sublegal  acts  in  the  field  of  education  and  charges  for  implementation  this  ministry  or  other ministries, according to the case.
+The Council of Ministers after the proposal of the Ministry of Education issues sub-legal  acts  in  the  field  of  education  and  charges  for  implementation  this  ministry  or  other ministries, according to the case.
 
 [[END OF PAGE 16]]
 
@@ -503,7 +507,7 @@ The  Ministry  of  Education  enjoys  the  right  to  approve  regulations,  ins
 
 #### Article 65
 
-The  law  No.  4624,  dated  24.12.1969  'For  the  New  Education  System'  the  law No.7887, dated 08.12.1994 'For School Obligation', as well as other sub-legal acts which are in opposition to this law, are rendered invalid.
+The  law  No.  4624,  dated  24.12.1969  “For  the  New  Education  System”  the  law No.7887, dated 08.12.1994 “For School Obligation”, as well as other sub-legal acts which are in opposition to this law, are rendered invalid.
 
 The  existing  private  schools  opened  in  the  period  of  1991-1993  have  to  undergo through all the dispositions of this law. The analysis of the requirements  for the continuity of functioning  of  the  existing  private  schools  opened  during  1991-1993,  as  well  as  diploma recognition issued by these schools, are made within a period of three months from the day this law assumes power.
 
@@ -570,21 +574,21 @@ Vocational School | Vocational school of the first level (2 or 3 years)
 #### Article 47
 ##### The Rights
 
-- The teacher enjoys every right defined by the Labour Code  and as its implementation at the Collective Contract.
+[1] The teacher enjoys every right defined by the Labour Code  and as its implementation at the Collective Contract.
 
-- The teacher is guaranteed:
+[2] The teacher is guaranteed:
 
-- the right and the conditions of work (Article 4, of CC)
+1. the right and the conditions of work (Article 4, of CC)
 
-- the right of transfer (article 5, of CC)
+2. the right of transfer (article 5, of CC)
 
-- the right of payment (article 8, of CC)
+3. the right of payment (article 8, of CC)
 
-- the right of award for supplementary work (article 6, of CC)
+4. the right of award for supplementary work (article 6, of CC)
 
-- the right of vacation  (article 7, of CC)
+5. the right of vacation  (article 7, of CC)
 
-- the right of complaint (article 11, of CC)
+6. the right of complaint (article 11, of CC)
 
 [[END OF PAGE 20]]
 
@@ -592,21 +596,21 @@ Vocational School | Vocational school of the first level (2 or 3 years)
 
 [3] The teacher enjoys the trade union rights, determined by law, in conformity to the statute of the trade union organisation, where he is a member.
 
-[4]  The  teachers  have  the  right  of:  trade  union  meetings  at  the  surroundings    of  the school  but  after  the  lessons'  schedule,  of  advertising  the  announcements,  the  proposals, requests, petitions etc., at certain places of the school, of activities with syndicalist character.
+[4]  The  teachers  have  the  right  of:  trade  union  meetings  at  the  surroundings    of  the school  but  after  the  lessons’  schedule,  of  advertising  the  announcements,  the  proposals, requests, petitions etc., at certain places of the school, of activities with syndicalist character.
 
 [5] The  teacher has the right:
 
-- to express freely his opinions in all forms, written, orally, publicly;
+a) to express freely his opinions in all forms, written, orally, publicly;
 
-- to  take  part:  in  the  various  meetings  of  the  class,  of  the  school,  in  seminars, workshops,  consultations,  round  tables,  etc.  and  in  different  activities  within  or  out  of  the school; at different meetings with the parents, with the community and the local organs or the other institutions and organs concerned of school, when he has been invited, but not violating the  timetable of the lessons.
+b) to  take  part:  in  the  various  meetings  of  the  class,  of  the  school,  in  seminars, workshops,  consultations,  round  tables,  etc.  and  in  different  activities  within  or  out  of  the school; at different meetings with the parents, with the community and the local organs or the other institutions and organs concerned of school, when he has been invited, but not violating the  timetable of the lessons.
 
-- to express his judgement: on the problems ETW at school; on the plans, programs and textbooks; on the activities, experiences, problems and troubles of the class, subject, and school;  for  himself,  colleagues,  headmasters  of  the  school;  on  education  level  at  the community, where he works or lives or on local level and national level etc.;
+c) to express his judgement: on the problems ETW at school; on the plans, programs and textbooks; on the activities, experiences, problems and troubles of the class, subject, and school;  for  himself,  colleagues,  headmasters  of  the  school;  on  education  level  at  the community, where he works or lives or on local level and national level etc.;
 
-- to be self-qualified  and qualified in all the forms foreseen by LPES (article 14);
+d) to be self-qualified  and qualified in all the forms foreseen by LPES (article 14);
 
-- to be elected and to elect in the school board or other advisory boards, that  operate in the school in compliance with ND and to transmit there the interests of a group of teachers in case he has been authorised;
+e) to be elected and to elect in the school board or other advisory boards, that  operate in the school in compliance with ND and to transmit there the interests of a group of teachers in case he has been authorised;
 
-- to  require  to  be  taken  in  analysis    matters  that  worries  the  class,  school,  social environment, the community where the school is located and himself,  at the directory of the school, at the school board or at advisory organs, local organs , at ED.
+f) to  require  to  be  taken  in  analysis    matters  that  worries  the  class,  school,  social environment, the community where the school is located and himself,  at the directory of the school, at the school board or at advisory organs, local organs , at ED.
 
 g)  the  teacher  enjoys  the  right  to  be  treated  with  respect,  with  human  dignity,  in  a cultural  and  moral  manner,  from  everyone,  without  pressure,  without  offence,  humiliation, denigration, violence;
 
@@ -619,17 +623,13 @@ h) to develop the ETW under  normal, healthy, calm and safe  conditions;
 #### Article 48
 ##### Obligations, tasks
 
-- The employment criteria of a person, likewise a teacher at a school ( employer  of the state ), are defined by article 4 of CC (Section III).
+[1] The employment criteria of a person, likewise a teacher at a school ( employer  of the state ), are defined by article 4 of CC (Section III).
 
-- The norm of teaching load (NTL)
+[2] The norm of teaching load (NTL)
 
-- NTL of a teacher, according the subject, stage, school is under the competence of the Minister of Education and Sports. It is settled even in the CC.
+a) NTL of a teacher, according the subject, stage, school is under the competence of the Minister of Education and Sports. It is settled even in the CC.
 
-- It is obligatory to be given to the teacher a full NTL and to realise it in the PME.
-
-- NTL,  according to the subject, cycle and school, is as shown  at Tab. 1
-
-- The teacher can have two periods below the norm per week, with full payment, in cases when the NTL is not met for the cause of teaching program.
+Tab. I
 
 No. | Stage | NTL of the teacher
 --- | --- | --- | --- | ---
@@ -637,7 +637,11 @@ No. | Stage | NTL of the teacher
 2. | Second Stage | language literature 20 periods/week | mathematics, physics, chemistry, biology 22 periods/week | other subjects 24 periods/week
 3. | Secondary School | Albanian language literature 20 periods/week 650-680 periods/year | vocational and other subjects 22 periods/week 700-750 periods/year | vocational training 33 periods/week
 
-Tab. I
+b) It is obligatory to be given to the teacher a full NTL and to realise it in the PME.
+
+c) NTL,  according to the subject, cycle and school, is as shown  at Tab. 1
+
+d) The teacher can have two periods below the norm per week, with full payment, in cases when the NTL is not met for the cause of teaching program.
 
 [[END OF PAGE 22]]
 
@@ -659,7 +663,7 @@ c) throughout the activity  must manifest passion, creativity and humanism; to m
 
 d)  to  behave  in  a  cultural  way,  with  democratic  and  professional  ethic,    emitting respect and tolerance, not humiliation and violence  within and out of  school;
 
-e)  to  have  a  good  command  of  the  subject  or  subjects  he  gives  at  school,  to  know profoundly  the  pedagogical  and  scientific  requirements  defined  at  the  teaching  programs, textbooks,  teacher's  book,  to  handle  the  instruments,  apparatus,  lab.  tools,  to  know    the methods of  vocational training etc.;
+e)  to  have  a  good  command  of  the  subject  or  subjects  he  gives  at  school,  to  know profoundly  the  pedagogical  and  scientific  requirements  defined  at  the  teaching  programs, textbooks,  teacher’s  book,  to  handle  the  instruments,  apparatus,  lab.  tools,  to  know    the methods of  vocational training etc.;
 
 f)  to  be  into  close  contact  with  the  new  scientific,  psychological  and  pedagogical information;  to  get  further  qualified  for  the  up-dated  procedures  and  didactic  mechanisms, that the evolution brings;
 
@@ -671,19 +675,19 @@ g) to know quite well and to evaluate the psychology of the age and age groups o
 
 h) to realise a systematic, daily, structured and documented preparation of the periods of  teachings,  to  realise  with  full  competence,  responsibility  and  the  highest  efficiency  PET. To enhance the independence of the free individual thinking and action of the pupils during PET, within and out of the class;
 
-- to  be  present  on  duty  on  1  September  of  the  new  school  year,  apart  of  the  cases foreseen by ND, in relation to Section II etc.;
+i) to  be  present  on  duty  on  1  September  of  the  new  school  year,  apart  of  the  cases foreseen by ND, in relation to Section II etc.;
 
-- To accomplish with correctness the specific duties of the tutor, the school timetable settled by the headmaster of the school and the presentation at school.
+j) To accomplish with correctness the specific duties of the tutor, the school timetable settled by the headmaster of the school and the presentation at school.
 
-- according to the case and possibilities to support and to take part in the organisation of  free activities, competitions, Olympiads;
+k) according to the case and possibilities to support and to take part in the organisation of  free activities, competitions, Olympiads;
 
-- when  he  is  elected  in  collegial  school  organs,  or  when  he  is    in    meetings    and analysis to contribute by making concrete proposals, discussions for the progress of PET;
+l) when  he  is  elected  in  collegial  school  organs,  or  when  he  is    in    meetings    and analysis to contribute by making concrete proposals, discussions for the progress of PET;
 
-- to accomplish with correctness the criteria, procedures and rules defined by ND: for RE, ME, FE, when he is appointed at exams commission; for the competitions, Olympiads etc. as determined by the items of ND;
+m) to accomplish with correctness the criteria, procedures and rules defined by ND: for RE, ME, FE, when he is appointed at exams commission; for the competitions, Olympiads etc. as determined by the items of ND;
 
-- to  show  concern  for  the  maintenance,  enrichment  and  the  efficient  use  of  the laboratory, teaching and didactic resources; to show responsibility for the materials he is on charge, even to remedy in case of damage.
+n) to  show  concern  for  the  maintenance,  enrichment  and  the  efficient  use  of  the laboratory, teaching and didactic resources; to show responsibility for the materials he is on charge, even to remedy in case of damage.
 
-- It is forbidden that the teacher leaves the lesson and let pupils free for his private needs and matters.
+o) It is forbidden that the teacher leaves the lesson and let pupils free for his private needs and matters.
 
 #### Article 51
 ##### One year qualification courses
@@ -696,15 +700,15 @@ h) to realise a systematic, daily, structured and documented preparation of the 
 
 [2]  The  one  year  qualification  courses  are  organised  by  ED  on  district  level,    as defined by  article 50 ( item [6]).
 
-- a) As a rule the one year qualification courses are held in these sessions: August, January, April and June-July.
+[3] a) As a rule the one year qualification courses are held in these sessions: August, January, April and June-July.
 
 The  courses  start    in  August  and  are  completed    in  June  (for  the  teachers  of  the primary school) and in July (for the teachers of the secondary school ) of the coming school year.
 
-- The changes  in the timetable of courses must be motivated. This is made by  the decision and is in competence of the director of ED.
+b) The changes  in the timetable of courses must be motivated. This is made by  the decision and is in competence of the director of ED.
 
-- Upon  the  completion  of  the  courses,  a    conversation  session  is  held    treating  the most frequent  questions during the courses in June-July.
+c) Upon  the  completion  of  the  courses,  a    conversation  session  is  held    treating  the most frequent  questions during the courses in June-July.
 
-- The teacher who has not got the possibility to take part in the conversation session, enjoys the right for a second session in August. The date is fixed by the ED.
+d) The teacher who has not got the possibility to take part in the conversation session, enjoys the right for a second session in August. The date is fixed by the ED.
 
 [4] For qualification needs, ED organises activities of teaching models but not more than 3 days in the course of the academic year.
 
@@ -712,7 +716,7 @@ The  courses  start    in  August  and  are  completed    in  June  (for  the  t
 
 [5]a)  For  the  one  year  qualification  courses,  ED  keeps  a  correct  and  responsible documentation.
 
-- This documentation is compulsory  reflected in the registers, noting down:
+b) This documentation is compulsory  reflected in the registers, noting down:
 
 - name, surname of the participants;
 
@@ -732,7 +736,7 @@ The  courses  start    in  August  and  are  completed    in  June  (for  the  t
 
 - the referee
 
-c) Upon the completion of the course, the teacher is given a certificate, according to the respective model, undersigned by the director of ED. The last sends to the directory of the school  the  notice  on  the  completion  or  non-completion  of  the  course  (because  of  nonattendance or failure) from the teacher.
+c) Upon the completion of the course, the teacher is given a certificate, according to the respective model, undersigned by the director of ED. The last sends to the directory of the school the notice on the completion or non-completion of the course (because of non-attendance or failure) from the teacher.
 
 [6]  The  relevant  certificate    opens    new    chances  to  the  teacher  for  better  places  of
 
@@ -741,11 +745,11 @@ work, in addition to other opportunities.
 #### Article 52
 ##### Advisors
 
-- In the Republic of Albania the system of qualification comprises:
+[1] In the Republic of Albania the system of qualification comprises:
 
-- the network of local advisors in each district of the country;
+a) the network of local advisors in each district of the country;
 
-- the team of national advisors.
+b) the team of national advisors.
 
 [2] The local advisor represents a teacher or specialist, of high scientific, pedagogical
 
@@ -753,9 +757,9 @@ and  organisative    level,  whose  function  is  that  of  a  assistance,  advi
 
 instructor of teachers, for certain subjects and levels of schools.
 
-- It  is  in  the  competence  of  the  director  of  ED  the  nomination  of  a  teacher  in  the position of an advisor.
+[3] It is in the competence of the director of ED the nomination of a teacher in the position of an advisor.
 
-- The criteria of selection of advisors and of the profiles are defined in the Section III ( Instruction No.13, dated *** 1993 of ME)
+[4] The criteria of selection of advisors and of the profiles are defined in the Section III ( Instruction No.13, dated *** 1993 of ME)
 
 [[END OF PAGE 26]]
 
@@ -775,9 +779,9 @@ d) In order to compile the qualifying  work  he co-operates with  the inspectors
 
 e) works according the monthly and annual plan approved by ED.
 
-- a) The norm of teaching load of the local advisor of the second stage of 8th year school  and  of  the  secondary  school  consists  of  50  %  of  the  weekly  NTL,  according  to  the subject, stage and school ( Tab. 1, article 48.[2]. As a rule, these advisors do not take tuition class. The school directorate gathers their periods to 3-4 days per week.
+[7] a) The norm of teaching load of the local advisor of the second stage of 8-th year school and of the secondary school consists of 50 % of the weekly NTL, according to the subject, stage and school ( Tab. 1, article 48.[2]. As a rule, these advisors do not take tuition class. The school directorate gathers their periods to 3-4 days per week.
 
-- NTL of the advisors of the primary stage is according  to Tab. 1,  based on the specific peculiarities of this stage. These advisors enjoy the right of the additional award per every month, with additional periods, as defined by the legal dispositions of MES.
+b) NTL of the advisors of the primary stage is according to Tab. 1, based on the specific peculiarities of this stage. These advisors enjoy the right of the additional award per every month, with additional periods, as defined by the legal dispositions of MES.
 
 #### Article 53
 
@@ -839,21 +843,21 @@ permission.
 
 g) to take part in the school and free activities; as defined by the internal regulation of the school;
 
-- the parents have the right of complaint and proposals in written form near by the headmaster of the school, teaching staff or school board and to receive answer not later  than 30 days from the delivery day.
+h) the parents have the right of complaint and proposals in written form near by the headmaster of the school, teaching staff or school board and to receive answer not later than 30 days from the delivery day.
 
-- Specific obligations of parents:
+[3] Specific obligations of parents:
 
-- to make their children attend the school regularly and in particular way those who are included by the school obligation;
+a) to make their children attend the school regularly and in particular way those who are included by the school obligation;
 
-- to know and to respect the legal obligations, the procedures and rules of ETW as defined by ND or by the internal regulation of the school;
+b) to know and to respect the legal obligations, the procedures and rules of ETW as defined by ND or by the internal regulation of the school;
 
-- to take the necessary measures and in time for providing them with textbooks and material tools that the teaching subjects require.
+c) to take the necessary measures and in time for providing them with textbooks and material tools that the teaching subjects require.
 
-- to respect children rights and to aid them in their education;
+d) to respect children rights and to aid them in their education;
 
-- to keep proper contacts with the teachers of their children;
+e) to keep proper contacts with the teachers of their children;
 
-- to  support  their  children  to  adjust  to  rules  and  demands  of  the  school  and  to  be integrated in the community life.
+f) to support their children to adjust to rules and demands of the school and to be integrated in the community life.
 
 #### Article 55
 ##### The Parents' Advisory Board of the Class
@@ -870,13 +874,13 @@ Head of this board is elected one of the parents-member of it.
 
 [[START OF PAGE 30]]
 
-- knowing closer the development of ETW, its achievements and class's concerns;
+a) knowing closer the development of ETW, its achievements and class's concerns;
 
-- depending on the case,  expresses its thoughts and gives advice on the advance or improvement  of  ETW;  for  a  better  implementation  of  the  rules  of  the  school    and  the competencies of  teachers  and teachers board;
+b) depending on the case, expresses its thoughts and gives advice on the advance or improvement of ETW; for a better implementation of the rules of the school and the competencies of teachers and teachers board;
 
 c) aid in order to create a democratic climate, full of co-operation, respect, tolerance among pupils, pupils and teachers, teachers and parents.
 
-- depending  on  the  case,  arrange  special  or  common  meetings  with  the  teachers, pupils, parents;
+d) depending on the case, arrange special or common meetings with the teachers, pupils, parents;
 
 e) make concrete proposals for the progress of ETW at: the Parents' Advisory Board, teachers' board, school directory, school board;
 
@@ -893,11 +897,13 @@ g) makes present its own opinion for the cases which are included in article 46 
 
 [3] The Parents' Advisory Board usually meets once in every term. It meets when it has been  considered reasonable, or for particular matters that concern the school.
 
-[4] The rights and functions a) Co-operates with school directory for the advance of ETP of the school, within and out of it;
+[4] The rights and functions
 
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
+
+a) Co-operates with school directory for the advance of ETP of the school, within and out of it;
 
 b) co-operates with parents advisory board of classes;
 
@@ -916,11 +922,13 @@ h) for cases mentioned  by article 46, (items [4.c) and d)], the advisory board 
 #### Article 57
 ##### Parents Association
 
-To  have  an  efficient  participation  and  support  of  parents  in  field  of  instruction  and education  of  the  young  generation,  parent  association    can  be  set  up  on  free  initiative  of parents on municipality or commune level ( e.g. parent union),  on district level (e.g. parent federation), on national level (e.g. parent confederation). They are considered from educational authorities of all levels as important partners, whose activity can operate on the basis  of  rights  and  functions  defined  by  the  statutes  of  these  associations,  approved  in conformity to respective legal dispositions in power.
+To have an efficient participation and support of parents in field of instruction and education of the young generation, parent association can be set up on free initiative of parents on municipality or commune level ( e.g. parent union), on district level (e.g. parent federation), on national level (e.g. parent confederation). They are considered from educational authorities of all levels as important partners, whose activity can operate on the
 
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
+
+basis of rights and functions defined by the statutes of these associations, approved in conformity to respective legal dispositions in power.
 
 ## CHAPTER XI
 
@@ -931,7 +939,8 @@ To  have  an  efficient  participation  and  support  of  parents  in  field  of
 
 [1]Teachers council is an advisory organ of the director of the school, that gives its contribution to the quality and progress of ETW, according the concrete conditions of the school.
 
-- Members of this council are teaching personnel, educational personnel of boarding. Head of this council is the director of the school.
+[2] Members of this council are teaching personnel, educational personnel of boarding.
+Head of this council is the director of the school.
 
 [3]The Council of teachers usually meets 1 time in the course of two months.
 
@@ -951,24 +960,24 @@ qualifying activity in the school, based on the capacities, interests and skills
 
 ##### Functions.
 
-- a) Supports and recommends fruitful ways and forms for the constant advance of ETW and the consolidation of the achievements and concrete experiences within the school, in different subjects.
+[4] a) Supports and recommends fruitful ways and forms for the constant advance of ETW and the consolidation of the achievements and concrete experiences within the school, in different subjects.
 
-- Treats time after time scientific and pedagogical issues and updated information of common interest.
+b) Treats time after time scientific and pedagogical issues and updated information of common interest.
 
-- Assesses currently the evolution of ETW, its efficiency towards the basic requirements of the teaching programs and  goals defined by the council or the school as a whole, and on occasion, makes concrete proposals for the further consolidation or necessary improvements.
+c) Assesses currently the evolution of ETW, its efficiency towards the basic requirements of the teaching programs and goals defined by the council or the school as a whole, and on occasion, makes concrete proposals for the further consolidation or necessary improvements.
 
-- Makes present to the directory the demands for material resources  for subjects, classes, stages and the whole school, and makes attempts to support the directory in this direction, within the capacities.
+d) Makes present to the directory the demands for material resources for subjects, classes, stages and the whole school, and makes attempts to support the directory in this direction, within the capacities.
 
-- Analyses the heavy violations of discipline on part of pupils, or the immoral and  improper behaviours of any teacher  to pupil and makes proposals to director of the school in conformity to ND. When the proposal is supported by 2/3 of the number of teachers, the director of the school is recommended to respect the proposal.
+e) Analyses the heavy violations of discipline on part of pupils, or the immoral and improper behaviours of any teacher to pupil and makes proposals to director of the school in conformity to ND. When the proposal is supported by 2/3 of the number of teachers, the director of the school is recommended to respect the proposal.
 
-- When it seems reasonable, the director of the school invites in the council of teachers: the head and members of the parents advisory board, pupils, experts of education or of ED, representative of local power.
+[5] When it seems reasonable, the director of the school invites in the council of teachers: the head and members of the parents advisory board, pupils, experts of education or of ED, representative of local power.
 
 #### Article 59
 ##### Board of school
 
-- School board functions as the major advisory and supportive organ that contributes in a constructive way, aids in the democratic direction and management of the main problems of the school.
+[1] School board functions as the major advisory and supportive organ that contributes in a constructive way, aids in the democratic direction and management of the main problems of the school.
 
-- The setting up of school board is an issue of free initiative, concrete conditions and capacities of the school, in the community where it operates.
+[2] The setting up of school board is an issue of free initiative, concrete conditions and capacities of the school, in the community where it operates.
 
 [[END OF PAGE 32]]
 
@@ -976,9 +985,11 @@ qualifying activity in the school, based on the capacities, interests and skills
 
 [3] The decision for creation of the school board is made unanimously by the director of the school with the parents advisory board and the support of not less than 2/3 of the members of the council of teachers. In this case the ED and the local authorities are informed.
 
-[4] The school board consists of: a) 5-7 parents of the school pupils, elected by vote from the advisory board of parents. b) 2 representative of the teaching staff elected by the teacher council of the school. c) 1-2 pupils, representative appointed among the pupils of the school. For the basic schools usually the pupils are of the 8th grade. d) 1 client or donors, with reputation and interested in the advance of the school, if there is any and that
-
-- accepts the invitation of the school director.
+[4] The school board consists of:
+a) 5-7 parents of the school pupils, elected by vote from the advisory board of parents.
+b) 2 representative of the teaching staff elected by the teacher council of the school.
+c) 1-2 pupils, representative appointed among the pupils of the school. For the basic schools usually the pupils are of the 8th grade.
+d) 1 client or donors, with reputation and interested in the advance of the school, if there is any and that accepts the invitation of the school director.
 
 [5]The number of the board members always must be a odd number.
 
@@ -990,23 +1001,23 @@ qualifying activity in the school, based on the capacities, interests and skills
 
 ##### Functions
 
-- a) The school board knows the fundamental objectives of the school activity, the annual plan of its activities, its needs and the problems that concern the school.
+[9] a) The school board knows the fundamental objectives of the school activity, the annual plan of its activities, its needs and the problems that concern the school.
 
-- helps to ensure optimal, safe  and healthy conditions at school and supports to realise the major annual goals of the school.
+b) helps to ensure optimal, safe and healthy conditions at school and supports to realise the major annual goals of the school.
 
-- Tries to obtain financial assistance and support for the school from different non-governmental and beneficial societies and foundations, different donors, who are registered at the book: ' Non-governmental complementary financial assistance'
+c) Tries to obtain financial assistance and support for the school from different non-governmental and beneficial societies and foundations, different donors, who are registered at the book: ' Non-governmental complementary financial assistance'
 
-- The management for item c) is performed by the school board in conformity to the law in power.
+d) The management for item c) is performed by the school board in conformity to the law in power.
 
 [10] The school board enjoys the right, after consulting with parents' advisory board, but not less than 2/3 of its members, to propose in writing to ED:
 
-- The candidates for school director.
+a) The candidates for school director.
 
 In such special cases the proposal must be presented well motivated.
 
 The decision for this proposal is taken by the board by voting, but not less than 2/3 of the ballots. On such occasion the school director does not enjoy the right to vote.
 
-- The removal of teacher from work or the nomination of any teacher at school.
+b) The removal of teacher from work or the nomination of any teacher at school.
 
 ## CHAPTER XII
 
@@ -1015,9 +1026,9 @@ The decision for this proposal is taken by the board by voting, but not less tha
 #### Article 60
 ##### For teacher
 
-- The movements of teachers, like employees, are made in conformity to CC, in execution of the Code of Labour (Section III).
+[1] The movements of teachers, like employees, are made in conformity to CC, in execution of the Code of Labour (Section III).
 
-- The free removal from the duty of the teacher is a right of individual, that is defined at Code of Labour (Section III).
+[2] The free removal from the duty of the teacher is a right of individual, that is defined at Code of Labour (Section III).
 
 In these cases, he informs in writing the director of the school 30 days before the separation. The school director informs the nominating organ and the last makes the necessary replacement.
 
@@ -1028,19 +1039,19 @@ In these cases, he informs in writing the director of the school 30 days before 
 #### Article 61
 ##### For the pupil
 
-[1] The pupil of the basic school enjoys the right to move to another school within the district or in another district, after the written proposal of the parents or the person who is in charge of the pupil. a) The transfer usually is made upon the completion of the term. On this occasion a certificate of the term results of the subjects according to TP,  is issued to the pupil signed and sealed by school director. b) When transfer is obligatory made in course of the year, the pupil is provided with the results certificate ( expressions for grades I,II) of the current period, signed and sealed by school director. c) It is the duty of the school director, where the pupil is transferred, to inform officially the previous
+[1] The pupil of the basic school enjoys the right to move to another school within the district or in another district, after the written proposal of the parents or the person who is in charge of the pupil.
+a) The transfer usually is made upon the completion of the term. On this occasion a certificate of the term results of the subjects according to TP, is issued to the pupil signed and sealed by school director.
+b) When transfer is obligatory made in course of the year, the pupil is provided with the results certificate ( expressions for grades I,II) of the current period, signed and sealed by school director.
+c) It is the duty of the school director, where the pupil is transferred, to inform officially the previous school for the enrolment of the pupil. The school director of the sending school, on the base of this document, makes the striking off from the school obligation.
 
-- school for the enrolment of the pupil. The school director of the sending school, on the base of this document, makes the striking off from the school obligation.
-
-- The pupil of a private school enjoys the right to move from a private school , that operates in conformity to LPES, to a public school on the basis of document signed and sealed by the director of the private school, without the equivalence of TP. The document reflects the final results of the subjects of TP of the private school, when the transfer is
-
-made at the beginning of school year; term results, when transfer is made after the completion of the term and the subjects assessment up to that moment, when the transfer is obliged to be in course of the year.
+[2] The pupil of a private school enjoys the right to move from a private school , that operates in conformity to LPES, to a public school on the basis of document signed and sealed by the director of the private school, without the equivalence of TP.
+The document reflects the final results of the subjects of TP of the private school, when the transfer is made at the beginning of school year; term results, when transfer is made after the completion of the term and the subjects assessment up to that moment, when the transfer is obliged to be in course of the year.
 
 [3]a) The transfer of the pupil from a secondary school to another school of the same profile, within the district or in another one, can be made at end of the term or school year, after the approval of the respective school directories. In these cases the pupil is provided with results term certificate of the subjects (marks), according to TP, signed and sealed by the school director.
 
-- The transfer of the pupil to another secondary school of the same profile, where the admission is made on the basis of competition, is performed only upon the completion of the first year, after the approval of the respective directories of the schools.
+b) The transfer of the pupil to another secondary school of the same profile, where the admission is made on the basis of competition, is performed only upon the completion of the first year, after the approval of the respective directories of the schools.
 
-- The transfer of the pupil to another secondary school of another profile, in special cases for I,II grades, can be made only upon the completion of the first year, after the approval of MES.
+[4] The transfer of the pupil to another secondary school of another profile, in special cases for I,II grades, can be made only upon the completion of the first year, after the approval of MES.
 
 The pupil fulfils the obligations, resulting from the changes in teaching plans, in compliance with the equivalencies defined by MES, in Section II. The time for this is determined by school director.
 
@@ -1049,17 +1060,17 @@ The pupil fulfils the obligations, resulting from the changes in teaching plans,
 
 #### Article 62
 
-- Schools of special education for disable pupils are part of the network of public pre-university educational institutions of RA.
+[1] Schools of special education for disable pupils are part of the network of public pre-university educational institutions of RA.
 
 [2]The educational teaching activity in these institutions is realised in conformity to the whole legal documentation that is carried out in the public schools for the normal children.
 
-- The opening of special schools is in the competence of Ministry of Education.
+[3] The opening of special schools is in the competence of Ministry of Education.
 
-- From the structural viewpoint, the schools of special education is arranged in a way adapted to their handicaps.
+[4] From the structural viewpoint, the schools of special education is arranged in a way adapted to their handicaps.
 
-- The schools of special education are under the responsibility of ED of the districts where are located.
+[5] The schools of special education are under the responsibility of ED of the districts where are located.
 
-- Education lasts 9 years in these schools, including the preparatory year for those children who need it.
+[6] Education lasts 9 years in these schools, including the preparatory year for those children who need it.
 
 ##### Admission
 
@@ -1073,7 +1084,7 @@ b) Entrance of a pupil into a special school is decided by a special commission 
 
 The admission is made on the basis of entrance criteria defined by sub-legal acts of the Council of Ministers. (LEPS, article 40;3)
 
-- The enrolment of children is made presenting these documents:
+c) The enrolment of children is made presenting these documents:
 
 - Birth certificate
 
@@ -1083,39 +1094,39 @@ The admission is made on the basis of entrance criteria defined by sub-legal act
 
 - The vaccine certificate.
 
-- In case of a pupil coming from a normal school, the pupil has to appear before the admission commission to be accepted in the intermediate classes. On such occasion a characteristic is issued by the school that comes.
+d) In case of a pupil coming from a normal school, the pupil has to appear before the admission commission to be accepted in the intermediate classes. On such occasion a characteristic is issued by the school that comes.
 
-- In towns or villages where there are no special schools, the disable children, certified by medical organs, in impossibility to put them in special boarding schools, can attend public basic schools 1-2 pupils per class, or are opened classes of special education when there are 10-12 children. In such cases they attend school on basis of a compiled teaching program corresponding to their needs and abilities (or with teaching programs of special schools).
+[8] In towns or villages where there are no special schools, the disable children, certified by medical organs, in impossibility to put them in special boarding schools, can attend public basic schools 1-2 pupils per class, or are opened classes of special education when there are 10-12 children. In such cases they attend school on basis of a compiled teaching program corresponding to their needs and abilities (or with teaching programs of special schools).
 
-- The opening of special classes in town is in the competence of municipalities, communes and district council, after the approval of Ministry of Education and Sports.
+[9] The opening of special classes in town is in the competence of municipalities, communes and district council, after the approval of Ministry of Education and Sports.
 
-- ED makes known to the special school directors the 6 year-olds list that are not enrolled at first grade. For the new contingent of pupils the special schools draw information at the offices of assistance attached to Municipalities or communes. Depending on these dates the directory of the special school makes verification for the new entrances.
+[10] ED makes known to the special school directors the 6 year-olds list that are not enrolled at first grade. For the new contingent of pupils the special schools draw information at the offices of assistance attached to Municipalities or communes. Depending on these dates the directory of the special school makes verification for the new entrances.
 
 ##### Movement of pupils
 
-- The physically and/or mentally handicapped children, in impossibility to be treated at schools of special education, can be treated at other institutions corresponding to the case.
+[11] The physically and/or mentally handicapped children, in impossibility to be treated at schools of special education, can be treated at other institutions corresponding to the case.
 
-- On application of the parents and after consulting with teaching staff, every child can leave these school institutions at any time.
+[12] On application of the parents and after consulting with teaching staff, every child can leave these school institutions at any time.
 
-- The Educational teaching staff makes every effort that the disable children not leave special schools. In case they leave, as foreseen by item [12], their education can continue at home if the parent agrees to.
+[13] The Educational teaching staff makes every effort that the disable children not leave special schools. In case they leave, as foreseen by item [12], their education can continue at home if the parent agrees to.
 
 Home education can be performed even for those children who miss school for long time.
 
-The special school can create  facilities to the teachers who consult pupils home taking off any duty or are nominated teachers who don't have a full weekly teaching load.
+The special school can create facilities to the teachers who consult pupils home taking off any duty or are nominated teachers who don't have a full weekly teaching load.
 
 ##### Knowledge, programs, textbooks
 
-- a) To blind pupils is given an education corresponding to that of normal pupils at public basic schools.
+[14] a) To blind pupils is given an education corresponding to that of normal pupils at public basic schools.
 
-- To deaf and dumb pupils as well as to mentally handicapped ones is given education corresponding to that of first stage of public basic schools. Besides teaching knowledge, to disable pupils is given elementary practical knowledge on simple professions.
+b) To deaf and dumb pupils as well as to mentally handicapped ones is given education corresponding to that of first stage of public basic schools. Besides teaching knowledge, to disable pupils is given elementary practical knowledge on simple professions.
 
-- For pupils of special schools textbooks of general education are used, making the adequate adoptions according to the approved programs and pupils disabilities.
+c) For pupils of special schools textbooks of general education are used, making the adequate adoptions according to the approved programs and pupils disabilities.
 
 For blind pupils are used special textbooks printed by Braille methods and cassettes, while for deaf and dumb pupils textbooks with signs.
 
-- The specific and needs of children are taken into account in compiling the texts of teaching programs. Their implementation is made in a creative way, according to their difficulties.
+d) The specific and needs of children are taken into account in compiling the texts of teaching programs. Their implementation is made in a creative way, according to their difficulties.
 
-- For separate pupils, who are under the minimum level of teaching program or who have quite specific features, will be worked with individual educational plans.
+e) For separate pupils, who are under the minimum level of teaching program or who have quite specific features, will be worked with individual educational plans.
 ##### Integration, assessment, qualification
 
 [[END OF PAGE 35]]
@@ -1126,7 +1137,7 @@ Integration, assessment qualification
 
 [15] It is a necessary updated process the integration of disable pupils with the pupils of public schools, implemented in the practice of special schools and evaluated as an important process in the development of pupils.
 
-- The school directories can create opportunities for the disable pupils to attend public school for certain subjects together with the normal pupils, settling co-operation links. On these joint periods the pupils are accompanied and assisted by teaching staff of the special school.
+[16] The school directories can create opportunities for the disable pupils to attend public school for certain subjects together with the normal pupils, settling co-operation links. On these joint periods the pupils are accompanied and assisted by teaching staff of the special school.
 
 The co-operation with the other basic schools is made after the approval of the educational directories. Besides instruction, common leisure activities are arranged.
 
@@ -1134,20 +1145,20 @@ The co-operation with the other basic schools is made after the approval of the 
 
 [18] Upon the completion of the eighth grade the mentally handicapped pupils are tested in direction of their general social preparation, and the level of \ vocational skills at labour instruction; the deaf and dumb pupils are tested and in the subjects language-literature; while the blind pupils have to undergo the release exams.
 
-- Particular pupils, not blind, that demonstrate a distinct advance, can pass to successive class even in the course of the school year, when teachers commission judges it reasonable. On this occasion a report is compiled and signed by the commission members and the school director.
+[19] Particular pupils, not blind, that demonstrate a distinct advance, can pass to successive class even in the course of the school year, when teachers commission judges it reasonable. On this occasion a report is compiled and signed by the commission members and the school director.
 
 #### Article 63
 ##### Personnel, appointment
 
 [1]a) The implementation of educational teaching process is carried out by a personnel consisting of specialists, teachers, assistant teachers, administrative and service personnel
 
-- The organic for every type of school and the norms for every employee are approved by sub-legal acts of the Ministry of Education and Sports.
+b) The organic for every type of school and the norms for every employee are approved by sub-legal acts of the Ministry of Education and Sports.
 
 [2]a) The teachers and assistant teachers are under the charge of ED.
 
-- Every new candidate, at first, works as assistant teacher
+b) Every new candidate, at first, works as assistant teacher
 
-- Admission of the new assistant is decided by a commission attached to the directory of the school. It consists of five members: school director (chief), two teachers, one assistant teacher (the best specialists of the school) and the head of the school advisory board of parents. This commission tests and interviews the candidates corresponding to approved criteria by the Ministry of Education and Sports and later makes their classification according to the collected points. On this basis ED appoints the successful candidate who will be tested one year at work. At the end of the year it is made the permanent nomination taking into account the opinion of school director.
+c) Admission of the new assistant is decided by a commission attached to the directory of the school. It consists of five members: school director (chief), two teachers, one assistant teacher (the best specialists of the school) and the head of the school advisory board of parents. This commission tests and interviews the candidates corresponding to approved criteria by the Ministry of Education and Sports and later makes their classification according to the collected points. On this basis ED appoints the successful candidate who will be tested one year at work. At the end of the year it is made the permanent nomination taking into account the opinion of school director.
 
 According to the needs, the director of the school decides the pass of assistant to teacher.
 
@@ -1155,7 +1166,7 @@ According to the needs, the director of the school decides the pass of assistant
 
 ##### Specific tasks of educational teaching staff.
 
-- Apart from the tasks defined by ND for the teachers of common schools, the teachers and assistant teachers of the special schools are charged with other particular tasks, beyond the teaching load, which are dictated by the specific of this institutions.
+[4] Apart from the tasks defined by ND for the teachers of common schools, the teachers and assistant teachers of the special schools are charged with other particular tasks, beyond the teaching load, which are dictated by the specific of this institutions.
 
 [5] a) It is the duty of teacher to provide the pupils with teaching knowledge approved at the teaching program, to stay closer, to communicate with them for every concern in order to facilitate the difficulties they encounter because of their defect. He cares for their progress at school, for their health, outer appearance etc.
 
@@ -1171,7 +1182,7 @@ b) At the end of the lessons the teachers hand the pupils to assistant teachers.
 
 [8] a) The assistant in his work gives priority to the preparation of pupils for life, treating at a large range the elements of self-service, staying closer and communicating for every trouble they come across. He arranges various activities based on the annual educational plan. Keeps close contact with the teachers, considering the educational process and afternoon study as a continuity of instruction. b) the assistant is engaged in the teaching process 2 or 3 periods every day under the direction of the teacher (according to the approved timetable of school director), while the rest of time at work is fulfilled with leisure activities and the afternoon study, realising the objectives for each pupil. c) The assistant aid the teacher for preparing the didactic-teaching tools. He gives priority to those pupils  who present more problems and difficulties
 
-- After work the assistant teacher hands the pupils to the educators of the boarding.
+d) After work the assistant teacher hands the pupils to the educators of the boarding.
 
 [9] The assistant teacher works 6 periods a day.
 
@@ -1190,7 +1201,7 @@ The number of pupils in collective classes is less than 12.
 
 [14] a) The educational teaching personnel keeps close links with the parents. They are invited to take part in the educational teaching process, are trained for the way how to train and behave with their children at home. b) For the compilation of plans (monthly and annual) and for the organisation of leisure activities,
 
-- which play an important role for the development of children, it is taken into account the opinion and cooperation of parents.
+which play an important role for the development of children, it is taken into account the opinion and co-operation of parents.
 
 ##### Miscellaneous
 
@@ -1210,27 +1221,25 @@ The number of pupils in collective classes is less than 12.
 
 [[START OF PAGE 38]]
 
+## CHAPTER XIV
+
+### AUTHORITIES OF EDUCATION
+
 #### Article 64
 
 In the Republic of Albania the authorities of education are of three levels:
 
-- On national level:
+1. On national level: Ministry of Education and Sports[MES]
 
-Ministry of Education and Sports[MES]
+2. On district level: Educational Directory [ED]
 
-- On district level:
-
-Educational Directory [ED]
-
-- On school level:
-
-Directory of School.
+3. On school level: Directory of School.
 
 #### Article 65
 
 ##### Ministry of Education and Sports
 
-- In the Republic of Albania the Ministry of Education and Sports is the highest public administrative organ of education according to the definition at LPES, article 51.
+[1] In the Republic of Albania the Ministry of Education and Sports is the highest public administrative organ of education according to the definition at LPES, article 51.
 
 [2]The rights, main tasks and competencies of MES are defined in general by LPES and in particular by articles 51, 52, 53, 54, 55 (Section I).
 
@@ -1238,43 +1247,39 @@ Directory of School.
 
 ##### Educational Directory of the district
 
-- ED is the highest public administrative organ of education in district.
+[1] ED is the highest public administrative organ of education in district.
 
-- ED organises, manages the whole work of education in the district, in conformity to legislation in power. It is represented and responded to the Minister of Education and Sports and deputy ministers of MES through its director.
+[2] ED organises, manages the whole work of education in the district, in conformity to legislation in power. It is represented and responded to the Minister of Education and Sports and deputy ministers of MES through its director.
 
-- The appointment of the director of ED is in competence of Minister of Education and Sports. The appointment of the personnel of ED is in competence of Director of ED.
+[3] The appointment of the director of ED is in competence of Minister of Education and Sports.
+The appointment of the personnel of ED is in competence of Director of ED.
 
-- The rights, tasks and competencies of ED are defined by sub-legal acts. Some of them are reflected at ND, in special articles.
+[4] The rights, tasks and competencies of ED are defined by sub-legal acts. Some of them are reflected at ND, in special articles.
 
-- a) Inspection at schools of the district is a right and duty only of ED and of authorised groups of specialists.
+[5] a) Inspection at schools of the district is a right and duty only of ED and of authorised groups of specialists.
 
-- the qualification of teachers on district level is a right and duty of ED. Such qualification can be performed and by experts of specialised institutions approved by ED.
+b) the qualification of teachers on district level is a right and duty of ED. Such qualification can be performed and by experts of specialised institutions approved by ED.
 
-- It is a right and duty of ED the study on needs for teaching personnel, number of classes, salary's fund as well as the prospect of educational evolution.
+c) It is a right and duty of ED the study on needs for teaching personnel, number of classes, salary's fund as well as the prospect of educational evolution.
 
-- The nomination of directors, vice directors, teachers and other employees of educational institutions is a competence of director of ED.
+d) The nomination of directors, vice directors, teachers and other employees of educational institutions is a competence of director of ED.
 
-- ED co-operates with the authorities of local power for the resolution of different problems and the on-going of ETW at educational institutions under its jurisdiction.
+[6] ED co-operates with the authorities of local power for the resolution of different problems and the on-going of ETW at educational institutions under its jurisdiction.
 
 ##### [7] Dental Service
 
 (Based on common sub-legal act of MES and Ministry of Health, No. 50, dated 07. 04. 1994).
 
-- ED, in co-operation with directory of public health in district, appoint the schools where dental cabinets will operate, which are administratively under the charge of school directory and economically and technically under the charge of dental sector at prior health service.
+a) ED, in co-operation with directory of public health in district, appoint the schools where dental cabinets will operate, which are administratively under the charge of school directory and economically and technically under the charge of dental sector at prior health service.
 
-- Dental cabinets are set up at school where can serve a minimum of 800 pupils.
+b) Dental cabinets are set up at school where can serve a minimum of 800 pupils.
+This number can be fulfilled by involving more than one school. These cabinets can cover even children that are within the territory that school includes.
 
-- This number can be fulfilled by involving more than one school. These cabinets can cover even children that are within the territory that school includes.
+c) It is prohibited to carry out any private activity at the dental cabinet of schools.
 
-- It is prohibited to carry out any private activity at the dental cabinet of schools.
-
-- ED enjoys the right of relations, twinning and exchanging of experiences, visits and teaching materials with other concerned institutions within and out of the country, in conformity to sub-legal acts of Council of Ministers and MES.
+[8] ED enjoys the right of relations, twinning and exchanging of experiences, visits and teaching materials with other concerned institutions within and out of the country, in conformity to sub-legal acts of Council of Ministers and MES.
 
 ### Director of the school
-
-## CHAPTER XIV
-
-### AUTHORITIES OF EDUCATION
 
 [[END OF PAGE 38]]
 
@@ -1305,21 +1310,22 @@ The director compiles the internal regulation of the school, taking into conside
 
 It is recommended that IRS reflects practical resolutions for such matters as:
 
-* school uniform; * official on duty * activity of school secretary for the management of registers;
-
-- work of service employees, guards, in compliance with Code of Labour.
+* school uniform;
+* official on duty
+* activity of school secretary for the management of registers;
+* work of service employees, guards, in compliance with Code of Labour.
 
 [7] According to the definition by ND, bases on teachers opinion, makes the division of classes, teaching load of subjects, appoints the tutors, makes the teaching timetable of the school, annual plan of school activities and sports ones.
 
 [8] defines the predictions of school budget for the coming year and sends it to ED and local power.
 
-- Composes the annual plan of inspection of ETW, preserving harmonious ratio between subjects, classes and stages.
+[9] a) Composes the annual plan of inspection of ETW, preserving harmonious ratio between subjects, classes and stages.
 
 It is a duty the preparation for inspection. The director informs the teacher 10 minutes before exerting inspection about the objectives. As a rule, after inspection makes present to the respective teacher his opinion, assessment and suggestions.
 
-- controls and assists teachers in general and tutors in particular for carrying out the educational aims.
+b) controls and assists teachers in general and tutors in particular for carrying out the educational aims.
 
-- checks the annual planning of ETW of the teachers, before the beginning of school year.
+c) checks the annual planning of ETW of the teachers, before the beginning of school year.
 
 [10] a) The director makes every effort to avoid the overload of written control (exams, tests) of the pupils, ensuring its pedagogical and psychological harmony.
 
@@ -1343,13 +1349,13 @@ c) fulfils in time, with responsibility and exactness the official statistics, d
 
 [14] For the official register of school:
 
-a) The director keeps at a safe and sealed place the official register of school, the most important document which contains the enrolments and annual results of pupils per class. b) The completion of the official register is made by school secretary, if there is any. He responds legally for incorrectnesses and irregularities . c) In absence of secretary, the school director issues a written order for the teacher who is authorised to complete the official register, in conformity to its requirements. The authorised teacher is responsible as defined by item b). d) No one, apart from those defined at items b) and c), is authorised to make notes in the official
-
-- register.
-
+a) The director keeps at a safe and sealed place the official register of school, the most important document which contains the enrolments and annual results of pupils per class.
+b) The completion of the official register is made by school secretary, if there is any. He responds legally for incorrectnesses and irregularities .
+c) In absence of secretary, the school director issues a written order for the teacher who is authorised to complete the official register, in conformity to its requirements. The authorised teacher is responsible as defined by item b).
+d) No one, apart from those defined at items b) and c), is authorised to make notes in the official register.
 The opposite action is considered illegal.
-
-- The pupil of first grade of primary school and that of secondary school is enrolled in the official register within 30 days after the beginning of the school year. f) For other pupils (excluding those who fail for session II), the completion of official register is made within 30 days after the end of the school.
+e) The pupil of first grade of primary school and that of secondary school is enrolled in the official register within 30 days after the beginning of the school year.
+f) For other pupils (excluding those who fail for session II), the completion of official register is made within 30 days after the end of the school.
 
 [15] Co-ordination and collaboration
 
@@ -1357,11 +1363,8 @@ a) co-operates with the organs of local power. b) co-operates and co-ordinates t
 
 [16] cares for the conditions of living, food, education and entertainment of the pupils at boarding (if there is any).
 
-- In conformity to CC (Section III), takes disciplinary measures for the teachers and other personnel
-
-of the school. Praises, makes proposal for award or decoration of different teachers, according to the legislation in
-
-power.
+[17] In conformity to CC (Section III), takes disciplinary measures for the teachers and other personnel of the school.
+Praises, makes proposal for award or decoration of different teachers, according to the legislation in power.
 
 #### Article 69
 ##### The directory of school
@@ -1376,34 +1379,34 @@ power.
 
 [3]For appointment of vice-directors, ED draw the opinion and proposal of director of school.
 
-- In the secondary vocational school, one of  the members of directory must have higher vocational education, corresponding to the profile of the school.
+[4] In the secondary vocational school, one of the members of directory must have higher vocational education, corresponding to the profile of the school.
 
 [5]a) In the basic school with only one director, the direction of ETW is realised as a whole from I-VIII grade.
 
-- In the basic school with even vice director, as a rule one of the members of directory covers first stage; according to his predisposition and knowledge level. Priority is given to teachers graduated for Primary stage at University.
+b) In the basic school with even vice director, as a rule one of the members of directory covers first stage; according to his predisposition and knowledge level. Priority is given to teachers graduated for Primary stage at University.
 
 The managing activity is carried out according to subject groups from I-VIII grade, in compliance with members of directory.
 
-- In joint school (basic plus secondary school), the managing activity is realised according to subject groups and schools( for basic school and secondary school).
+c) In joint school (basic plus secondary school), the managing activity is realised according to subject groups and schools( for basic school and secondary school).
 
 [6]The school directory guarantees the surroundings, the conditions for normal functioning of dental cabinets (if there is any), normal work of dental specialist with pupils or children that cabinet is in charge of, without leaving apart the school timetable.
 
-- The regulation for the boarding (for boarding schools) is compiled by school directory in conformity to ND and in co-operation with boarding personnel. It defines the requirements, norms and order that secures a normal living, optimal conditions for education, discipline and entertainment etc.
+[7] The regulation for the boarding (for boarding schools) is compiled by school directory in conformity to ND and in co-operation with boarding personnel. It defines the requirements, norms and order that secures a normal living, optimal conditions for education, discipline and entertainment etc.
 
 #### Article 70
 ##### Experimentation, piloting
 
-- Experimentation in field of content, methods and pedagogical alternatives at school, in implementation of LPES (article 52.2.), is in competence of MES. For this reason it charges the institution of Pedagogical Studies (IPS) and other specialised institutions.
+[1] Experimentation in field of content, methods and pedagogical alternatives at school, in implementation of LPES (article 52.2.), is in competence of MES. For this reason it charges the institution of Pedagogical Studies (IPS) and other specialised institutions.
 
-- a) IPS, in compliance with the qualitative enhancement and international education standards proposes the pilot schools and relating to it: projects of experimentation, partnership with qualified institutions, within and out of country, respective inputs and put forward the proposals to MES.
+[2] a) IPS, in compliance with the qualitative enhancement and international education standards proposes the pilot schools and relating to it: projects of experimentation, partnership with qualified institutions, within and out of country, respective inputs and put forward the proposals to MES.
 
-- The approval of pilot schools is made by decision of MES.
+b) The approval of pilot schools is made by decision of MES.
 
-- The pursue of different experiments, the current on-going studies and their results are a duty of IPS and other charged institutions, which are later presented to MES together with relevant recommendations
+c) The pursue of different experiments, the current on-going studies and their results are a duty of IPS and other charged institutions, which are later presented to MES together with relevant recommendations
 
-- Experiments in other fields, not including by item [1], in a competence of MES.
+[3] Experiments in other fields, not including by item [1], in a competence of MES.
 
-- Pilot schools operate based on a general statute approved by sub-legal acts of MES, from which result the rights, access to experimental activity and duties as well as obligations towards these schools.
+[4] Pilot schools operate based on a general statute approved by sub-legal acts of MES, from which result the rights, access to experimental activity and duties as well as obligations towards these schools.
 
 ## CHAPTER XV
 ### PROPERTY, INVENTORY AND SCHOOL BUDGET
@@ -1411,19 +1414,19 @@ The managing activity is carried out according to subject groups from I-VIII gra
 #### Article 71
 ##### Property
 
-- Property under management of school are considered: building or buildings, according to case; equipment, laboratories tools, cabinets, gymnasium, teaching productive centre, sports playgrounds; school garden; tools of labour, computers, photocopies, telephone sets; fax apparatus etc. of this kind.
+[1] Property under management of school are considered: building or buildings, according to case; equipment, laboratories tools, cabinets, gymnasium, teaching productive centre, sports playgrounds; school garden; tools of labour, computers, photocopies, telephone sets; fax apparatus etc. of this kind.
 
-- The property of school is in function of ETW and in general of the whole school activity.
+[2] The property of school is in function of ETW and in general of the whole school activity.
 
-- The responsibility for preserving and maintaining of school property belongs to the director of the school.
+[3] The responsibility for preserving and maintaining of school property belongs to the director of the school.
 
 [[END OF PAGE 41]]
 
 [[START OF PAGE 42]]
 
-[4] a) For management and caring of laboratories, teaching cabinets, library, gymnasium, sportplaygrounds, productive centre, school garden etc., the school director charges the teachers of respective subjects. b) They take the necessary measures for maintaining of the equipment and respond to the director for the materials they are in charge, on basis of inventory. c) The respective teacher, in case of transfer, is obliged to make the handing corresponding to the
-
-- inventory.
+[4] a) For management and caring of laboratories, teaching cabinets, library, gymnasium, sport-playgrounds, productive centre, school garden etc., the school director charges the teachers of respective subjects.
+b) They take the necessary measures for maintaining of the equipment and respond to the director for the materials they are in charge, on basis of inventory.
+c) The respective teacher, in case of transfer, is obliged to make the handing corresponding to the inventory.
 
 #### Article 72
 
@@ -1449,7 +1452,10 @@ The managing activity is carried out according to subject groups from I-VIII gra
 
 [2] a) The school of compulsory and secondary education can carries out economic activities to provide financial income in fields that are related with the implementation of teaching programs, in conformity to legal dispositions (LPES, article 57 [1]) b) Parallel to their main activity schools have the right to provide incomes through second hand activities with third partners, without intruding the activity for which they are set up.
 
-- Such activities can be: photocopies, entrance programs for competitions, certificates, marks reports (Instruction No. 18, dated 28.12.1992 of MES). c) The casement of sums for the performed service, according the defined rates, is made by endorsement order or in cash. These enactment are deposited by the institution that has realised , at a separate bank account, that will be opened for this aim, at the bank branch where the institution has its own account on hi behalf: 'Incomes of institution through services for the thirds'. d) Institution enjoys the right to pass a part of the incomes from a period to other, from a year to other. e) From these incomes 50 % are deposited at state budget and 50 % are used by the institution. The institution, that creates the incomes enjoys the right to use its own part  only after it has deposited its obligation of 50% to state budget. Its use without paying the obligation to the budget will be a violation of financial discipline.
+Such activities can be: photocopies, entrance programs for competitions, certificates, marks reports (Instruction No. 18, dated 28.12.1992 of MES).
+c) The casement of sums for the performed service, according the defined rates, is made by endorsement order or in cash. These enactment are deposited by the institution that has realised , at a separate bank account, that will be opened for this aim, at the bank branch where the institution has its own account on hi behalf: 'Incomes of institution through services for the thirds'.
+d) Institution enjoys the right to pass a part of the incomes from a period to other, from a year to other.
+e) From these incomes 50 % are deposited at state budget and 50 % are used by the institution. The institution, that creates the incomes enjoys the right to use its own part only after it has deposited its obligation of 50% to state budget. Its use without paying the obligation to the budget will be a violation of financial discipline.
 
 #### Article 74
 
@@ -1470,51 +1476,51 @@ The managing activity is carried out according to subject groups from I-VIII gra
 #### Article 75
 ##### Documentation, maintenance
 
-- School, as an important educational institution, has the duty to put in order, to maintain and preserve documents.
+[1] School, as an important educational institution, has the duty to put in order, to maintain and preserve documents.
 
-- School is obliged to keep some main documents and according to the following schedules:
+[2] School is obliged to keep some main documents and according to the following schedules:
 
-- Laws and decisions of Government on Education. Preserve for ever.
+01. Laws and decisions of Government on Education. Preserve for ever.
 
-- Sub-legal acts of MES. Preserve for ever.
+02. Sub-legal acts of MES. Preserve for ever.
 
-- Teaching plans and programs. Preserve for ever.
+03. Teaching plans and programs. Preserve for ever.
 
-- School official register and alphabetic index of official register. Preserve for ever.
+04. School official register and alphabetic index of official register. Preserve for ever.
 
-- Register of class, which is fulfilled in compliance with requirements decided. Every day after the lesson, the registers are put safely in the office of director or appointed vice director, or in secretary. It is forbidden to give the register to pupils or strange persons. The register is preserved for 8 years.
+05. Register of class, which is fulfilled in compliance with requirements decided. Every day after the lesson, the registers are put safely in the office of director or appointed vice director, or in secretary. It is forbidden to give the register to pupils or strange persons. The register is preserved for 8 years.
 
-- A separate register where pupils sign after taking the certificate of release, of maturity or completion. Preserve for ever.
+06. A separate register where pupils sign after taking the certificate of release, of maturity or completion. Preserve for ever.
 
-- The entrance documents of pupils and reports of commission of RE, ME or FE. Preserve for 4 years.
+07. The entrance documents of pupils and reports of commission of RE, ME or FE. Preserve for 4 years.
 
-- Protocols of official acts. Preserve for ever.
+08. Protocols of official acts. Preserve for ever.
 
-- The written examinations of release, maturity or completion. Preserve for 1 year.
+09. The written examinations of release, maturity or completion. Preserve for 1 year.
 
-- Plan and list of contingents of fresh pupils and official documents, that reflect transfers of pupils, enrolment documents at school. Preserve for a full school cycle.
+10. Plan and list of contingents of fresh pupils and official documents, that reflect transfers of pupils, enrolment documents at school. Preserve for a full school cycle.
 
-- Inventory book of school. Preserve 10 years.
+11. Inventory book of school. Preserve 10 years.
 
-- Evidence of anthropoid indicators and physical qualities of pupils, corresponding to age. Preserve for ever.
+12. Evidence of anthropoid indicators and physical qualities of pupils, corresponding to age. Preserve for ever.
 
-- Book of reports of meetings of directory and council of teachers. Preserve for 2 years.
+13. Book of reports of meetings of directory and council of teachers. Preserve for 2 years.
 
-- General annual plan of school. Preserve for 2 years.
+14. General annual plan of school. Preserve for 2 years.
 
-- Internal regulation of school. Preserve for 5 years.
+15. Internal regulation of school. Preserve for 5 years.
 
-- Important feasible studies. Preserve for ever.
+16. Important feasible studies. Preserve for ever.
 
-- Decision of commission for repetition from the pupil of the  first grade of basic school. Preserve for 2 years.
+17. Decision of commission for repetition from the pupil of the first grade of basic school. Preserve for 2 years.
 
-- Decision of ED (Copy) for postponing of pupils enrolment at first grade of basic school. Preserve for 2 years.
+18. Decision of ED (Copy) for postponing of pupils enrolment at first grade of basic school. Preserve for 2 years.
 
-- Relevant report for cases defined by article 34, item [2]. Preserve for 2 years.
+19. Relevant report for cases defined by article 34, item [2]. Preserve for 2 years.
 
-- The work of pupils at entrance competitions in schools with competitions. Preserve for 2 years.
+20. The work of pupils at entrance competitions in schools with competitions. Preserve for 2 years.
 
-- Seal. Each school possesses its own seal. It is used only by school director or a person officially authorised by him.
+[3] Seal. Each school possesses its own seal. It is used only by school director or a person officially authorised by him.
 
 #### Article 76
 
@@ -1526,35 +1532,29 @@ The managing activity is carried out according to subject groups from I-VIII gra
 
 [[START OF PAGE 44]]
 
-- The book of 'History of school', as a rule, is fulfilled by the teacher of history or any other teacher charged by school director. The book is completed in continuity.
+b) The book of 'History of school', as a rule, is fulfilled by the teacher of history or any other teacher charged by school director. The book is completed in continuity.
 
-- The book of 'History of school' is preserved for ever.
+c) The book of 'History of school' is preserved for ever.
 
-- The school creates the annual album, with photographs for each class. In it there are reflected the main activities of the class or school, teaching personnel etc. Preserve for ever.
+[2] The school creates the annual album, with photographs for each class. In it there are reflected the main activities of the class or school, teaching personnel etc. Preserve for ever.
 
-- The school preserves for ever the trophies that are gained during different activities, as decorations, diploma, flags, photos etc.
+[3] The school preserves for ever the trophies that are gained during different activities, as decorations, diploma, flags, photos etc.
 
 ## CHAPTER XVII
 ### Last Dispositions
 
 #### Article 77
 
-- For the cases considered 'non-legal act',  is implemented law in power for administrative transgression
+[1] For the cases considered 'non-legal act', is implemented law in power for administrative transgression
 
-- Every other disposition, that is in opposition to this instruction, is rendered valid
+[2] Every other disposition, that is in opposition to this instruction, is rendered valid
 
 #### Article 78
 
 [1]These ND assume power in school year 1996-1997.
 
-Tirana, on 31 July 1996
+Tirana, on 31 July 1996 MINISTER
 
-<!- NOSEARCHEND- >
-
-</html>
-
-MINISTER
-
-EDMOND   LULE
+EDMOND LULE
 
 [[END OF PAGE 44]]
