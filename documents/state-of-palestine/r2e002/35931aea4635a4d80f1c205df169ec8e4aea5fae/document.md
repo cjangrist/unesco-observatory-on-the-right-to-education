@@ -60,6 +60,8 @@ The term of the current Legislative Council shall terminate when the members of 
 
 CDL(2009)008
 
+- 3 -
+
 ### Article 3
 
 This Law shall be effective as of its publication in the Official Gazette.
@@ -84,8 +86,6 @@ Within  the  framework  of  the  interim  period,  resulting  in  the  Declarati
 
 This Basic Law has established a firm foundation, representing the collective conscience of our people, including its spiritual components, its national faith and its nationalist loyalty. The titles  of  the  Basic  Law  include  a  group  of  modern  constitutional  rules  and  principles  that address  public  and  personal  rights  and  liberties  in  a  manner  that  achieves  justice  and equality for all, without discrimination. Further, they ensure the rule of law, strike a balance
 
-- 3 between  the  executive,  legislative  and  judicial  branches,  and  draw  lines  between  their respective  jurisdictions  in  a  manner  that  ensures  independence  to  each  of  them  while coordinating their roles to achieve a high national interest that will serve as a guide to all.
-
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
@@ -93,6 +93,8 @@ This Basic Law has established a firm foundation, representing the collective co
 CDL(2009)008
 
 - 4 -
+
+between the executive, legislative and judicial branches, and draw lines between their respective jurisdictions in a manner that ensures independence to each of them while coordinating their roles to achieve a high national interest that will serve as a guide to all.
 
 The enactment of this temporary Basic Law for a transitional and interim period constitutes a fundamental step towards the realization of the firm national and historical rights of the Arab Palestinian  people.  It  shall  not  in  any  way  whatsoever  abrogate  or  cancel  their  right  to continue  to  strive  to  achieve  their  rights  of  return  and  self-determination,  including  the establishment of a Palestinian state with Jerusalem ( al-Quds al-Sharif ) as its capital, which is the first shrine and the third mosque, to which the Prophet Muhammad, may peace be upon him , traveled by night, in the land of the nativity of Jesus, may peace be upon him .
 
@@ -260,6 +262,8 @@ Every citizen shall have the right to proper housing. The Palestinian National A
 
 CDL(2009)008
 
+- 8 -
+
 ### Article 24
 
 - Every citizen shall have the right to education. It shall be compulsory until at least the end of the basic level. Education shall be free in public schools and institutions.
@@ -305,8 +309,6 @@ Palestinians shall have the right to participate in political life, both individ
 ### Article 28
 
 No Palestinian may be deported from the homeland, prevented or prohibited from returning to or leaving it, deprived of his citizenship, or handed over to any foreign entity.
-
-- 8 -
 
 [[END OF PAGE 8]]
 
@@ -378,7 +380,7 @@ The term of the presidency of the National Authority shall be the interim phase,
 
 - The office of the President shall be considered vacant in any of the following cases:a. Death;
 
-b. Resignation submitted to the Palestinian Legislative Council, if accepted by twothirds of its members;
+b. Resignation submitted to the Palestinian Legislative Council, if accepted by two-thirds of its members;
 
 c. Loss of legal capacity, as per a ruling issued by the High Constitutional Court and subsequently approved by a majority of two-thirds of the members of the  Legislative Council.
 
@@ -626,7 +628,7 @@ The Prime Minister shall exercise the following powers:
 
 ### Article 69
 
-he Council of Ministers shall exercise the following powers:
+The Council of Ministers shall exercise the following powers:
 
 [[END OF PAGE 15]]
 
@@ -980,7 +982,7 @@ A death sentence pronounced by any court may not be implemented unless endorsed 
 
 - The President of the National Authority may declare a state of emergency by decree when there is a threat to national security caused by war, invasion, armed insurrection or in times of natural disaster, for a period not to exceed thirty (30) days.
 
-- The state of emergency may be extended for another period of thirty (30) days if a twothirds majority of the members of the Legislative Council vote in favor of the extension.
+- The state of emergency may be extended for another period of thirty (30) days if a two-thirds majority of the members of the Legislative Council vote in favor of the extension.
 
 - The decree declaring a state of emergency shall state its purpose, the region to which it applies and its duration.
 
