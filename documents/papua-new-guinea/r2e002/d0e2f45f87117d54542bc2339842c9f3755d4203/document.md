@@ -8,7 +8,7 @@ Higher Education Act 1983 (Consolidated to No 45 of 2000)
 
 ## Higher Education Act 1983,
 
-Being an Act to make provision for the establishment of a Commission for Higher Education to foster-
+Being an Act to make provision for the establishment of a Commission for Higher Education to foster—
 
 (a) the rational development of higher education with regard to the needs and resources of Papua New Guinea; and
 
@@ -16,17 +16,17 @@ Being an Act to make provision for the establishment of a Commission for Higher 
 
 and for related purposes.
 
-### PART I.-PRELIMINARY.
+### PART I.—PRELIMINARY.
 
 #### 1. Compliance with Constitutional requirements.
 
-- This Act to the extent that it regulates or restricts a right or freedom referred to in Subdivision III.3.C ( qualified rights ) of the Constitution , namely the right to privacy conferred by Section 49 of the Constitution , is a law that is made for that purpose.
+(1) This Act to the extent that it regulates or restricts a right or freedom referred to in Subdivision III.3.C (qualified rights) of the Constitution, namely the right to privacy conferred by Section 49 of the Constitution, is a law that is made for that purpose.
 
-- For the purposes of Section 29 of the Organic Law on Provincial Governments and Local-level Governments it is declared that this Act relates to a matter that is of national interest.
+(2) For the purposes of Section 29 of the Organic Law on Provincial Governments and Local-level Governments it is declared that this Act relates to a matter that is of national interest.
 
 #### 2. Interpretation.
 
-In this Act, unless the contrary intention appears-
+In this Act, unless the contrary intention appears—
 
 "agency" means a Department or an organization or person conducting and institution of higher education;
 
@@ -66,7 +66,7 @@ published from time to time by the agency;
 
 "programme" means a combination of subjects, the successful completion of study in which will lead to the granting of an academic award;
 
-"religious institution" means-
+"religious institution" means—
 
 (a) an institution in which instruction is wholly or mainly of a religious or doctrinal nature; or
 
@@ -80,21 +80,21 @@ published from time to time by the agency;
 
 #### 3. Application.
 
-- The Minister may, in accordance with decisions of the National Executive Council, by notice in the National Gazette, declare an institution of higher education to be an institution to which this Act applies.
+(1) The Minister may, in accordance with decisions of the National Executive Council, by notice in the National Gazette, declare an institution of higher education to be an institution to which this Act applies.
 
-- Notwithstanding Subsection (1), Sections 27 and 30 apply to all institutions of higher education whether declared or not.
+(2) Notwithstanding Subsection (1), Sections 27 and 30 apply to all institutions of higher education whether declared or not.
 
-- This Act does not restrict or authorize the establishment or maintenance of a religious institution.
+(3) This Act does not restrict or authorize the establishment or maintenance of a religious institution.
 
-- This Act does not derogate the right of an agency responsible for a declared institution to promote a particular identity within that declared institution.
+(4) This Act does not derogate the right of an agency responsible for a declared institution to promote a particular identity within that declared institution.
 
-- The Minister shall ensure that agencies administering declared institutions exercise their powers and functions under this Act and any other law relating to higher education with due respect for the identity and the philosophy of all agencies.
+(5) The Minister shall ensure that agencies administering declared institutions exercise their powers and functions under this Act and any other law relating to higher education with due respect for the identity and the philosophy of all agencies.
 
-### PART II.-OBJECTS OF HIGHER EDUCATION.
+### PART II.—OBJECTS OF HIGHER EDUCATION.
 
 #### 4. Objects of higher education.
 
-- Bearing in mind the National Goals and Directive Principles of the Constitution , and subject to this section, the objects and purposes of higher education, by means of the maximum involvement and co-operative effort by persons and bodies interested in higher education in the country (including the State, the teaching profession, churches and the community as a whole) and the maximum utilization of the resources available from all sources, are-
+(1) Bearing in mind the National Goals and Directive Principles of the Constitution, and subject to this section, the objects and purposes of higher education, by means of the maximum involvement and co-operative effort by persons and bodies interested in higher education in the country (including the State, the teaching profession, churches and the community as a whole) and the maximum utilization of the resources available from all sources, are—
 
 (a) for the integral human development of the person; and
 
@@ -116,7 +116,7 @@ Page 2
 
 This is an official copy of the Legislation of PNG
 
-- In achieving the objects and purposes referred to in Subsection (1)-
+(2) In achieving the objects and purposes referred to in Subsection (1)—
 
 (a) the desirability of making due allowance for reasonable diversity of educational methods, provided that standards of educational achievement are not sacrificed; and
 
@@ -130,9 +130,9 @@ are and shall be, to such extent as is reasonably practicable and not inconsiste
 
 (3) This Act does not restrict or authorize the making of regulations restricting the giving of religious and doctrinal instruction in declared institutions, but no declared institution is entitled to exclude a student solely on the grounds of religious or doctrinal affiliation.
 
-- The general principles set out in this section are the principles to be observed in the administration of higher education and this Act.
+(4) The general principles set out in this section are the principles to be observed in the administration of higher education and this Act.
 
-### PART III.-COMMISSION FOR HIGHER EDUCATION.
+### PART III.—COMMISSION FOR HIGHER EDUCATION.
 
 #### 5. Commission for Higher Education.
 
@@ -140,7 +140,7 @@ The Commission for Higher Education is hereby established.
 
 #### 6. Membership of the Commission.
 
-- The Commission shall consist of-
+(1) The Commission shall consist of—
 
 (a) the Chairman; and
 
@@ -152,7 +152,7 @@ The Commission for Higher Education is hereby established.
 
 who shall be appointed in accordance with the Regulatory Statutory Authorities Act 2004.
 
-- The Chairman shall be-
+(2) The Chairman shall be—
 
 (a) appointed for a period not exceeding five years; and
 
@@ -160,7 +160,7 @@ who shall be appointed in accordance with the Regulatory Statutory Authorities A
 
 (c) eligible for re-appointment.
 
-- The Commissioners, other than the Chairman, shall be-
+(3) The Commissioners, other than the Chairman, shall be—
 
 (a) appointed for a period not exceeding three years; and
 
@@ -178,17 +178,17 @@ This is an official copy of the Legislation of PNG
 
 (c) eligible for re-appointment.
 
-- Prior to making recommendations under Subsection (1)(b), the Minister shall consult with institutions of higher education, professional and industrial associations, employers, agencies and co-ordinating bodies, and solicit names of possible Commissioners.
+(4) Prior to making recommendations under Subsection (1)(b), the Minister shall consult with institutions of higher education, professional and industrial associations, employers, agencies and co-ordinating bodies, and solicit names of possible Commissioners.
 
 #### 7. Alternate Commissioners.
 
-- For each Commissioner, other than the Chairman, an alternate Commissioner shall be appointed in the same way and subject to the same conditions as the Commissioner for whom he is the alternate.
+(1) For each Commissioner, other than the Chairman, an alternate Commissioner shall be appointed in the same way and subject to the same conditions as the Commissioner for whom he is the alternate.
 
-- In the event of the inability to act of a Commissioner, the alternate Commissioner has and may exercise all his powers, functions, duties and responsibilities.
+(2) In the event of the inability to act of a Commissioner, the alternate Commissioner has and may exercise all his powers, functions, duties and responsibilities.
 
-- An alternate Commissioner may attend any meeting of the Commission and in the absence of the Commissioner for whom he is the alternate, take part in discussion, vote on any matter and be counted toward a quorum.
+(3) An alternate Commissioner may attend any meeting of the Commission and in the absence of the Commissioner for whom he is the alternate, take part in discussion, vote on any matter and be counted toward a quorum.
 
-- Where, in relation to the office of a Commissioner appointed under Section 6, a casual vacancy occurs, the person appointed to be the alternate to the Commissioner may be deemed to be appointed for the balance of the term of office of the Commissioner.
+(4) Where, in relation to the office of a Commissioner appointed under Section 6, a casual vacancy occurs, the person appointed to be the alternate to the Commissioner may be deemed to be appointed for the balance of the term of office of the Commissioner.
 
 #### 8. Leave of absence of Commissioners.
 
@@ -196,7 +196,7 @@ The Chairman may grant leave of absence to a Commissioner on such terms and cond
 
 #### 9. Vacation of office of Commissioners.
 
-- Where a Commissioner-
+(1) Where a Commissioner—
 
 (a) becomes permanently incapable of performing his duties; or
 
@@ -210,9 +210,9 @@ The Chairman may grant leave of absence to a Commissioner on such terms and cond
 
 his appointment shall be terminated by the authority responsible under Section 6 for making the appointment.
 
-- The National Executive Council acting on advice of the Minister may, at any time, by written notice, advise a Commissioner that it intends to terminate his appointment on the grounds of inefficiency, incapacity or misbehaviour.
+(2) The National Executive Council acting on advice of the Minister may, at any time, by written notice, advise a Commissioner that it intends to terminate his appointment on the grounds of inefficiency, incapacity or misbehaviour.
 
-- Within 14 days of the receipt of a notice under Subsection (2), the Commissioner may reply in writing to the National Executive Council who shall consider the reply and as soon as is practicable deliver written notice of its decision to the Commissioner.
+(3) Within 14 days of the receipt of a notice under Subsection (2), the Commissioner may reply in writing to the National Executive Council who shall consider the reply and as soon as is practicable deliver written notice of its decision to the Commissioner.
 
 PNG National Legislation
 
@@ -224,7 +224,7 @@ Page 4
 
 This is an official copy of the Legislation of PNG
 
-- Where the Commissioner referred to in Subsection (2) does not, within 14 days of the receipt of a notice under that subsection, reply in writing to the National Executive Council, his appointment is terminated.
+(4) Where the Commissioner referred to in Subsection (2) does not, within 14 days of the receipt of a notice under that subsection, reply in writing to the National Executive Council, his appointment is terminated.
 
 #### 10. Vacancy not to affect powers or functions.
 
@@ -232,13 +232,13 @@ The exercise or performance of a power or function of the Commission is not inva
 
 #### 11. Meetings of the Commission.
 
-- The Commission shall meet at such times and places as the Chairman determines, but in any event shall meet not less frequently than three times in each year.
+(1) The Commission shall meet at such times and places as the Chairman determines, but in any event shall meet not less frequently than three times in each year.
 
-- The Minister may direct that a meeting of the Commission be held at a time and place fixed by him, and the Chairman shall convene a meeting accordingly.
+(2) The Minister may direct that a meeting of the Commission be held at a time and place fixed by him, and the Chairman shall convene a meeting accordingly.
 
-- Where he receives a request to do so by not less than two Commissioners, the Chairman shall convene a meeting within 14 days.
+(3) Where he receives a request to do so by not less than two Commissioners, the Chairman shall convene a meeting within 14 days.
 
-- At a meeting of the Commission-
+(4) At a meeting of the Commission—
 
 (a) half the number of Commissioners plus one is a quorum; and
 
@@ -248,9 +248,9 @@ The exercise or performance of a power or function of the Commission is not inva
 
 (d) the Commissioner presiding has a deliberative and, in the event of an equality of votes on a matter, also a casting vote.
 
-- The Commission shall cause minutes of its meetings to be recorded and kept.
+(5) The Commission shall cause minutes of its meetings to be recorded and kept.
 
-- Subject to this Act, the procedures of the Commission are as determined by the Commission.
+(6) Subject to this Act, the procedures of the Commission are as determined by the Commission.
 
 #### 12. National plan for higher education.
 
@@ -258,11 +258,11 @@ Subject to Section 29, there shall be a national plan for higher education which
 
 #### 13. Functions of the Commission.
 
-- The functions of the Commission are-
+(1) The functions of the Commission are—
 
 (a) to advise the Minister, after consultation with interested parties, on all matters concerning higher education that are referred by him to the Commission; and
 
-(b) to make recommendations to the Minister on-
+(b) to make recommendations to the Minister on—
 
 (i) a national plan for higher education; and
 
@@ -290,7 +290,7 @@ This is an official copy of the Legislation of PNG
 
 (viii)  general policies in relation to higher education of citizens resident abroad, and of non-citizen students enrolled in programmes in declared institutions.
 
-- The recommendations concerning the national plan for higher education referred to in Subsection (1)(b)(i) shall include recommendations as to-
+(2) The recommendations concerning the national plan for higher education referred to in Subsection (1)(b)(i) shall include recommendations as to—
 
 (a) the range and level of programmes needed to meet national requirements; and
 
@@ -300,11 +300,11 @@ This is an official copy of the Legislation of PNG
 
 (d) the establishment of new declared institutions or the amalgamation or closure of existing ones.
 
-- The Commission shall review progress towards implementation of the national plan for higher education determined under Section 12, and shall report on such progress as provided for in Section 16.
+(3) The Commission shall review progress towards implementation of the national plan for higher education determined under Section 12, and shall report on such progress as provided for in Section 16.
 
 #### 14. Executive responsibilities of the Commission.
 
-The Commission is responsible for-
+The Commission is responsible for—
 
 (a) implementing, so far as lies within its powers, Government policy in relation to higher education; and
 
@@ -346,29 +346,29 @@ The Commission shall, from time to time, publish handbooks to guide declared ins
 
 The Commission shall, as soon as is practicable after 1 January in each year, give to the Minister for presentation to the Parliament, a report on the operations of the Commission, and of this Act, and on higher education in the country during the immediately preceding year, including progress towards implementation of the national plan for higher education.
 
-### PART IV.-SPECIAL FUNCTIONS OF THE CHAIRMAN.
+### PART IV.—SPECIAL FUNCTIONS OF THE CHAIRMAN.
 
 #### 17. Functions in relation to agencies.
 
 The Chairman is responsible for ensuring that the principle of partnership of all agencies is upheld in practise in accordance with this Act and any other law relating to higher education matters.
 
-### PART IVA.-OFFICE OF HIGHER EDUCATION, ETC.
+### PART IVA.—OFFICE OF HIGHER EDUCATION, ETC.
 
 #### 18. The Office of Higher Education.
 
-- An Office of Higher Education is hereby established.
+(1) An Office of Higher Education is hereby established.
 
-- The functions of the Office of Higher Education are to provide services for the Commission and such other functions as are determined by the Minister.
+(2) The functions of the Office of Higher Education are to provide services for the Commission and such other functions as are determined by the Minister.
 
-- Any staff required for the Office of Higher Education shall be officers or employees of the Public Service.
+(3) Any staff required for the Office of Higher Education shall be officers or employees of the Public Service.
 
-[Repealed].
+(4) [Repealed].
 
 #### 18A. Director General.
 
-- An office of Director General of the Office of Higher Education is hereby established.
+(1) An office of Director General of the Office of Higher Education is hereby established.
 
-- The Director General shall be-
+(2) The Director General shall be—
 
 (a) appointed, suspended or dismissed in the manner is as specified in the Regulatory Statutory Authorities Act 2004 ; and
 
@@ -378,7 +378,7 @@ The Chairman is responsible for ensuring that the principle of partnership of al
 
 (d) be eligible for re-appointment.
 
-- For the purposes of the Public Services (Management) Act 1995 the Director General is,
+(3) For the purposes of the Public Services (Management) Act 1995 the Director General is,
 
 PNG National Legislation
 
@@ -396,21 +396,21 @@ in relation to the officers and employees of, and to offices in the Office of Hi
 
 Out of moneys lawfully available to it for the purpose, the Commission may, with the permission of the Consultancy Steering Committee, engage consultants and obtain expert advice on matters in respect of which the Commission has functions under this Act.
 
-### PART V.-CO-ORDINATING BODIES FOR HIGHER EDUCATION.
+### PART V.—CO-ORDINATING BODIES FOR HIGHER EDUCATION.
 
 #### 20. Establishment of co-ordinating bodies.
 
-- The Commission shall encourage the establishment of co-ordinating bodies to provide advice to the Commission as to any or all of the group activities of a group of declared institutions, and such bodies shall include representatives of the declared institutions affected.
+(1) The Commission shall encourage the establishment of co-ordinating bodies to provide advice to the Commission as to any or all of the group activities of a group of declared institutions, and such bodies shall include representatives of the declared institutions affected.
 
-- Where the Minister considers it desirable in the national interest or in the interest of higher education to do so, he may, by notice in the National Gazette, declare an existing body to be a co-ordinating body for the purpose of providing advice to the Commission.
+(2) Where the Minister considers it desirable in the national interest or in the interest of higher education to do so, he may, by notice in the National Gazette, declare an existing body to be a co-ordinating body for the purpose of providing advice to the Commission.
 
-- Where a body referred to in Subsection (1) is not a body already in existence, the Minister may, by notice in the National Gazette, and after consultation, establish a co-ordinating body for the purpose of providing advice to the Commission.
+(3) Where a body referred to in Subsection (1) is not a body already in existence, the Minister may, by notice in the National Gazette, and after consultation, establish a co-ordinating body for the purpose of providing advice to the Commission.
 
-### PART VI.-GOVERNING COUNCILS FOR DECLARED INSTITUTIONS.
+### PART VI.—GOVERNING COUNCILS FOR DECLARED INSTITUTIONS.
 
 #### 21. Declared institutions to which this Part applies.
 
-Where the Minister is satisfied that-
+Where the Minister is satisfied that—
 
 (a) it is desirable that a declared institution be administered by a governing council in accordance with this Part; and
 
@@ -420,15 +420,15 @@ the Minister may, by notice in the National Gazette, declare that institution to
 
 #### 22. Establishment of governing councils.
 
-- In consultation with the Minister responsible, an agency shall establish a governing council for each declared institution of higher education for which it is responsible.
+(1) In consultation with the Minister responsible, an agency shall establish a governing council for each declared institution of higher education for which it is responsible.
 
-- In the event of an agency not fulfilling the requirement of Subsection (1), the Minister responsible may instruct the agency concerned to appoint a governing council.
+(2) In the event of an agency not fulfilling the requirement of Subsection (1), the Minister responsible may instruct the agency concerned to appoint a governing council.
 
-- An agency shall submit, for approval by the Minister responsible, the constitution, membership, procedures, functions and responsibilities of the governing council of its declared institution of higher education.
+(3) An agency shall submit, for approval by the Minister responsible, the constitution, membership, procedures, functions and responsibilities of the governing council of its declared institution of higher education.
 
-- A governing council shall include a representative or representatives of the agency conducting the declared institution and such representatives may constitute a majority of the council.
+(4) A governing council shall include a representative or representatives of the agency conducting the declared institution and such representatives may constitute a majority of the council.
 
-- In performing and carrying out its functions and responsibilities, a governing council shall work, within the framework of plans, policies and financial provisions laid down by the
+(5) In performing and carrying out its functions and responsibilities, a governing council shall work, within the framework of plans, policies and financial provisions laid down by the
 
 PNG National Legislation
 
@@ -442,15 +442,15 @@ This is an official copy of the Legislation of PNG
 
 Minister and the agency conducting the institution.
 
-### PART VII.-SALARIES AND CONDITIONS OF SERVICE.
+### PART VII.—SALARIES AND CONDITIONS OF SERVICE.
 
 #### 23. Salaries and Conditions of Service.
 
-- The Commission shall make recommendations to the Salaries and Conditions Monitoring Committee established under the Salaries and Conditions Monitoring Committee Act 1988 on the salaries and conditions of teachers in declared institutions.
+(1) The Commission shall make recommendations to the Salaries and Conditions Monitoring Committee established under the Salaries and Conditions Monitoring Committee Act 1988 on the salaries and conditions of teachers in declared institutions.
 
-- Before making recommendations under Subsection (1) the Commission-
+(2) Before making recommendations under Subsection (1) the Commission—
 
-(a) shall engage in consultation on the terms of its proposed recommendations with such of the following as are appropriate in the circumstances:-
+(a) shall engage in consultation on the terms of its proposed recommendations with such of the following as are appropriate in the circumstances:—
 
 (i) the Councils of Universities and Colleges; and
 
@@ -458,7 +458,7 @@ Minister and the agency conducting the institution.
 
 (iii) the University and College Teachers' Associations as the organizations representing the interests of university and college teachers; and
 
-- i (iv) the Departmental Head of the Department of Personnel Management;
+i(iv) the Departmental Head of the Department of Personnel Management;
 
 (v) the Teaching Services Commission; and
 
@@ -466,13 +466,13 @@ Minister and the agency conducting the institution.
 
 (b) may engage in consultations on the terms of its proposed recommendations with such other persons or organizations as it thinks fit.
 
-### PART VIII.-MISCELLANEOUS.
+### PART VIII.—MISCELLANEOUS.
 
 #### ii 24. Tertiary education studies assistance scholarship in declared institutions.
 
-- The Minister may, out of moneys lawfully available for the purpose, make financial assistance available to students in declared institutions subject to such terms and conditions as are prescribed.
+(1) The Minister may, out of moneys lawfully available for the purpose, make financial assistance available to students in declared institutions subject to such terms and conditions as are prescribed.
 
-- Financial assistance made available to a student under Subsection (1) shall-
+(2) Financial assistance made available to a student under Subsection (1) shall—
 
 (a) be awarded through formal applications; and
 
@@ -492,7 +492,7 @@ Where it is proposed to introduce or extend a programme of higher education, or 
 
 #### 26. Information concerning certain institutions and courses.
 
-- The Minister may specify the information that shall be submitted to the Commission
+(1) The Minister may specify the information that shall be submitted to the Commission
 
 PNG National Legislation
 
@@ -506,17 +506,17 @@ This is an official copy of the Legislation of PNG
 
 concerning programmes or declared institutions financed or to be financed wholly or partly by the State in order to allow the Commission to perform its functions.
 
-- The information referred to in Subsection (1) shall be submitted in such form, manner and detail, and at such times, as are specified by the Minister in the notice.
+(2) The information referred to in Subsection (1) shall be submitted in such form, manner and detail, and at such times, as are specified by the Minister in the notice.
 
 #### 27. Commission may obtain information.
 
-- The Commission or a person authorized by it, may require any person who has, either solely or in association with other persons, the management or control of an institution of higher education or authority to supply it with any information concerning higher education at that institution.
+(1) The Commission or a person authorized by it, may require any person who has, either solely or in association with other persons, the management or control of an institution of higher education or authority to supply it with any information concerning higher education at that institution.
 
-- A person who, without reasonable excuse (proof of which is on him), refuses or fails to supply any information required under Subsection (1) is guilty of an offence.
+(2) A person who, without reasonable excuse (proof of which is on him), refuses or fails to supply any information required under Subsection (1) is guilty of an offence.
 
-- It is a defence to a charge of an offence against Subsection (2) if the defendant proves that the information was not relevant to the performance of the functions, or the carrying out of the responsibilities, of the Commission.
+Penalty: A fine not exceeding K500.00.
 
-Penalty:  A fine not exceeding K500.00.
+(3) It is a defence to a charge of an offence against Subsection (2) if the defendant proves that the information was not relevant to the performance of the functions, or the carrying out of the responsibilities, of the Commission.
 
 #### 28. Commission to work within national plans.
 
@@ -528,7 +528,7 @@ In performing its functions under this Act, the Commission shall consult with al
 
 #### 30. Prohibition on conferring of certain diplomas.
 
-(1) In this section "unrecognized diploma" means a degree, diploma, certificate or other such distinction of a kind, or seemingly of a kind, usually granted by a university or institution of higher education, or having a name or an abbreviation that suggests that it has been granted by a university or institution of higher education, but does not include a degree, diploma, certificate or other distinction which is-
+(1) In this section "unrecognized diploma" means a degree, diploma, certificate or other such distinction of a kind, or seemingly of a kind, usually granted by a university or institution of higher education, or having a name or an abbreviation that suggests that it has been granted by a university or institution of higher education, but does not include a degree, diploma, certificate or other distinction which is—
 
 (a) approved by the Commission; or
 
@@ -538,15 +538,15 @@ In performing its functions under this Act, the Commission shall consult with al
 
 and which is granted in accordance with the conditions (if any) of the approval or authorization.
 
-- A person or institution granting an unrecognized diploma is guilty of an offence.
+(2) A person or institution granting an unrecognized diploma is guilty of an offence.
 
-Penalty:  A fine not exceeding K500.00.
+Penalty: A fine not exceeding K500.00.
 
-- Where an academic qualification is required by law for any purpose, an unrecognized diploma shall not be treated as, or be counted towards, the qualification.
+(3) Where an academic qualification is required by law for any purpose, an unrecognized diploma shall not be treated as, or be counted towards, the qualification.
 
 #### 31. Regulations.
 
-PNG National Legislation The Head of State, acting on advice, may make regulations, not inconsistent with this Act, prescribing all matters that by this Act are required or permitted to be prescribed, or are necessary or convenient to be prescribed, for carrying out or giving effect to this Act.
+PNG National Legislation
 
 Page 10
 
@@ -555,6 +555,8 @@ Page 10
 [[START OF PAGE 11]]
 
 This is an official copy of the Legislation of PNG
+
+The Head of State, acting on advice, may make regulations, not inconsistent with this Act, prescribing all matters that by this Act are required or permitted to be prescribed, or are necessary or convenient to be prescribed, for carrying out or giving effect to this Act.
 
 > i Section 23(2)(a)(iv) repealed and replaced by Public Service (Management) (Consequential Amendments) Act 1986 (No. 29 of 1986), s81.
 
