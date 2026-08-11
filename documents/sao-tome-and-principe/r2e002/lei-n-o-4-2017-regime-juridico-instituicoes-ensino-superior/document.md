@@ -216,9 +216,7 @@ N.º 31 -24 de Março de 2017
 
 - A  denominação da instituição não pode transmitir ideia de superioridade ou qualquer forma de  privilégios  em  relação  à  outra,  por  exemplo, principal, primeira, melhor, etc.
 
-- Fica reservada para denominações dos estabelecimentos  de  ensino  superior  a  utilização dos termos «universidade», «faculdade», «instituto
-
-- superior», «instituto universitário», «instituto politécnico», «escola superior» e outras expressões que  transmitam  a  ideia  de  neles  ser  ministrado ensino superior.
+- Fica reservada para denominações dos estabelecimentos de ensino superior a utilização dos termos «universidade», «faculdade», «instituto superior», «instituto universitário», «instituto politécnico», «escola superior» e outras expressões que transmitam a ideia de neles ser ministrado ensino superior.
 
 - A denominação de cada instituição de ensino só  pode  ser  utilizada  depois  de  registada  junto  do ministério encarregue pela área de educação.
 
@@ -270,9 +268,7 @@ N.º 31 -24 de Março de 2017
 
 - Quando  tal  se  justifique,  sob  condição  de aprovação  pelo  ministro  encarregue  pela  área  de educação, precedida de parecer favorável do Conselho  Coordenador  do  Ensino  Superior, as escolas de ensino politécnico podem integrar-se em universidades, mantendo  a natureza politécnica para  todos  os  demais  efeitos,  incluindo  o  estatuto da carreira docente, não sendo permitidas fusões de institutos politécnicos com universidades.
 
-- As  universidades  e  os  institutos  politécnicos podem criar  unidades  orgânicas  fora  da  sua  sede, nos termos dos estatutos, as quais ficam sujeitas ao disposto  nesta  lei,  devendo,  quando  se  trate  de
-
-- escolas, preencher os requisitos respectivos, designadamente em matéria de acreditação e registo de cursos, de instalações e equipamentos e de pessoal docente.
+- As universidades e os institutos politécnicos podem criar unidades orgânicas fora da sua sede, nos termos dos estatutos, as quais ficam sujeitas ao disposto nesta lei, devendo, quando se trate de escolas, preencher os requisitos respectivos, designadamente em matéria de acreditação e registo de cursos, de instalações e equipamentos e de pessoal docente.
 
 ##### Artigo 14.º Unidades orgânicas e outras instituições de investigação
 
@@ -314,9 +310,7 @@ N.º 31 -24 de Março de 2017
 
 - As  instituições  de  ensino  superior  nacionais podem livremente integrar-se em redes e estabelecer  relações  de  parceria  e  de  cooperação com estabelecimentos de ensino superior estrangeiros,  organizações  científicas  estrangeiras ou internacionais e outras instituições.
 
-- As acções e programas de cooperação internacional devem ser compatíveis com a natureza e os fins das instituições e ter em conta as grandes linhas da política nacional,
-
-- designadamente  em  matéria  de  educação,  ciência, cultura e relações internacionais.
+- As acções e programas de cooperação internacional devem ser compatíveis com a natureza e os fins das instituições e ter em conta as grandes linhas da política nacional, designadamente em matéria de educação, ciência, cultura e relações internacionais.
 
 ##### Artigo 17.º Consórcios
 
@@ -412,7 +406,7 @@ N.º 31 -24 de Março de 2017
 
 ##### Artigo 22.º Trabalhadores-estudantes
 
-As  instituições de ensino superior criam as condições  necessárias  a  apoiar  os  trabalhadoresestudantes,  designadamente  através  de  formas  de organização  e  frequência  do  ensino  adequadas  à sua condição, e valorizam as competências adquiridas no mundo do trabalho.
+As instituições de ensino superior criam as condições necessárias a apoiar os trabalhadores-estudantes, designadamente através de formas de organização e frequência do ensino adequadas à sua condição, e valorizam as competências adquiridas no mundo do trabalho.
 
 ##### Artigo 23.º Antigos estudantes
 
@@ -544,7 +538,7 @@ N.º 31 -24 de Março de 2017
 
 - Afectar  ao  estabelecimento  de  ensino  as instalações  e  o  equipamento  adequados, bem como os necessários recursos humanos e financeiros;
 
-- Manter contrato de seguro válido ou dotarse  de  substrato  patrimonial  para  cobertura adequada da manutenção dos recursos materiais  e  financeiros  indispensáveis  ao funcionamento do estabelecimento de ensino superior;
+- Manter contrato de seguro válido ou dotar-se de substrato patrimonial para cobertura adequada da manutenção dos recursos materiais e financeiros indispensáveis ao funcionamento do estabelecimento de ensino superior;
 
 - Designar e destituir, nos termos dos estatutos, os titulares do órgão de direcção do estabelecimento de ensino;
 
@@ -552,7 +546,7 @@ N.º 31 -24 de Março de 2017
 
 - Fixar  o  montante  das  propinas  e  demais encargos devidos pelos estudantes pela frequência dos ciclos de estudos ministrados  no  estabelecimento  de  ensino, ouvido o órgão de direcção deste;
 
-- Contratar os docentes e investigadores, sob proposta  do  reitor,  presidente  ou  director do  estabelecimento  de  ensino,  ouvido  o respectivo  conselho  científico  ou  técnicocientífico;
+- Contratar os docentes e investigadores, sob proposta do reitor, presidente ou director do estabelecimento de ensino, ouvido o respectivo conselho científico ou técnico-científico;
 
 - Contratar o pessoal não docente;
 
@@ -614,7 +608,7 @@ N.º 31 -24 de Março de 2017
 
 ##### Artigo 33.º Decisão sobre os pedidos de reconhecimento de interesse público
 
-A  decisão  sobre  os  pedidos  de  reconhecimento de  interesse  público  de  um  estabelecimento  de ensino superior privado é proferida no prazo máximo  de  seis  meses  após  a  completa  instrução do respectivo processo pela entidade inicialmente, em  número  não  inferior  aos  previstos  nos  artigos 41.º e 44.º.
+A decisão sobre os pedidos de reconhecimento de interesse público de um estabelecimento de ensino superior privado é proferida no prazo máximo de seis meses após a completa instrução do respectivo processo pela entidade requerente, incluindo a acreditação dos ciclos de estudos a ministrar inicialmente, em número não inferior aos previstos nos artigos 41.º e 44.º.
 
 ##### Artigo 34.º Forma do reconhecimento de interesse público
 
@@ -658,9 +652,7 @@ N.º 31 -24 de Março de 2017
 
 ##### Artigo 36.º Transmissão, integração ou fusão de estabelecimento
 
-A  transmissão, a integração e a fusão dos estabelecimentos de ensino superior privados devem  ser  comunicadas  previamente  ao  ministro encarregue pela área de educação, podendo  o respectivo reconhecimento ser revogado com fundamento na alteração dos pressupostos e
-
-- circunstâncias subjacentes à atribuição do reconhecimento de interesse público.
+A transmissão, a integração e a fusão dos estabelecimentos de ensino superior privados devem ser comunicadas previamente ao ministro encarregue pela área de educação, podendo o respectivo reconhecimento ser revogado com fundamento na alteração dos pressupostos e circunstâncias subjacentes à atribuição do reconhecimento de interesse público.
 
 ##### Artigo 37.º Período de instalação
 
@@ -782,9 +774,7 @@ Para além das demais condições fixadas pela lei, são requisitos mínimos par
 
 - Dispor de um corpo docente que satisfaça o disposto no capítulo III do presente título;
 
-- Dispor de instalações com as características exigíveis à ministração de ensino
-
-- politécnico  e  de  bibliotecas  e  laboratórios adequados à natureza dos ciclos de estudos;
+- Dispor de instalações com as características exigíveis à ministração de ensino politécnico e de bibliotecas e laboratórios adequados à natureza dos ciclos de estudos;
 
 - Desenvolver  actividades  de investigação orientada.
 
@@ -898,7 +888,7 @@ exercício  de  funções  da  categoria  respectiva  no ensino superior públic
 
 ##### Artigo 52.º Regime do pessoal docente e de investigação das instituições privadas
 
-- O regime do pessoal docente e de investigação das  instituições  privadas  é  aprovado  por  decretolei.
+- O regime do pessoal docente e de investigação das instituições privadas é aprovado por decreto-lei.
 
 ### CAPÍTULO IV Fusão, Integração, Cisão, Extinção e Transferência de Instituições de Ensino Superior
 
@@ -1098,7 +1088,7 @@ SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLICA
 
 N.º 31 -24 de Março de 2017
 
-- órgão  com  competências  estatutárias  para tal em exercício efectivo de funções.
+órgão com competências estatutárias para tal em exercício efectivo de funções.
 
 - Podem propor alterações aos estatutos o reitor ou o presidente, conforme os casos;
 
@@ -1260,9 +1250,7 @@ N.º 31 -24 de Março de 2017
 
 ##### Artigo 82.º Funções do reitor e do presidente
 
-- O reitor da universidade ou instituto universitário ou presidente do instituto politécnico
-
-- é  o  órgão  superior  de  governo  e  de  representação externa da respectiva instituição.
+- O reitor da universidade ou instituto universitário ou presidente do instituto politécnico é o órgão superior de governo e de representação externa da respectiva instituição.
 
 - O reitor ou presidente é o órgão de condução da política da instituição e preside ao conselho da universidade e do instituto politécnico respectivamente.
 
@@ -1328,7 +1316,7 @@ N.º 31 -24 de Março de 2017
 
 - Os cargos de reitor e presidente são exercidos em regime de dedicação exclusiva.
 
-- Os  reitores,  presidentes,  vice-reitores  e  vicepresidentes ficam dispensados da prestação de serviço  docente  ou  de  investigação,  sem  prejuízo de, por sua iniciativa, o poderem prestar.
+- Os reitores, presidentes, vice-reitores e vice-presidentes ficam dispensados da prestação de serviço docente ou de investigação, sem prejuízo de, por sua iniciativa, o poderem prestar.
 
 ##### Artigo 88.º Substituição do reitor e do presidente
 
@@ -1428,7 +1416,7 @@ SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLICA
 
 N.º 31 -24 de Março de 2017
 
-- obrigatoriamente da audição de outros órgãos.
+obrigatoriamente da audição de outros órgãos.
 
 - O reitor ou o presidente podem, nos termos da lei  e  dos  estatutos,  delegar  nos  vice-reitores  ou vice-presidentes e nos órgãos de gestão da instituição ou das suas unidades orgânicas as competências  que  se  revelem  necessárias  a  uma gestão mais eficiente.
 
@@ -1462,7 +1450,7 @@ N.º 31 -24 de Março de 2017
 
 - Um representante do pessoal não docente, eleito pelos respectivos pares;
 
-- Uma personalidade  de  reconhecido  mérito nos meios científico, cultural e sócioeconómico, cooptados pelos demais membros.
+- Uma personalidade  de  reconhecido  mérito nos meios científico, cultural e sócio-económico, cooptados pelos demais membros.
 
 - Têm  assento  no  Conselho  da  Universidade, sem  direito  a  voto,  os  presidentes  do  conselho científico da Universidade e dos conselhos científico-pedagógicos das unidades orgânicas.
 
@@ -1538,7 +1526,7 @@ Compete ao Conselho de Estratégia e Governo:
 
 - Assessorar o Reitor no governo da universidade em todas as questões que este entenda submeter-lhe;
 
-- Aprovar o respectivo regimento e submetêlo à ratificação do Conselho da Universidade.
+- Aprovar o respectivo regimento e submetê-lo à ratificação do Conselho da Universidade.
 
 #### Secção V Conselho para a Qualidade
 
@@ -1576,7 +1564,7 @@ N.º 31 -24 de Março de 2017
 
 - Definir e implementar mecanismos e procedimentos  que  permitem  a  avaliação da eficácia externa dos cursos;
 
-- Aprovar o respectivo regimento e submetêlo à ratificação do Conselho da Universidade.
+- Aprovar o respectivo regimento e submetê-lo à ratificação do Conselho da Universidade.
 
 - No  cumprimento  das  suas atribuições, o Conselho para a Qualidade apoiar-se-á nos serviços especializados  da  Universidade,  podendo,  sempre que  necessário,  recorrer  a  entidades  externas  de reconhecido prestígio para a realização de auditoria e ou outras modalidades de controlo da qualidade.
 
@@ -1632,7 +1620,7 @@ Compete  ao  director  ou  presidente  da  unidade orgânica:
 
 - Presidir  ao  órgão  com  competências  de gestão,  se  existir,  dirigir  os  serviços  da unidade  orgânica  e  aprovar  os  necessários regulamentos;
 
-- Aprovar o calendário e horário das tarefas lectivas, ouvidos o conselho científicopedagógico;
+- Aprovar o calendário e horário das tarefas lectivas, ouvidos o conselho científico-pedagógico;
 
 - Executar as deliberações do conselho científico-pedagógico, quando vinculativas;
 
@@ -1758,19 +1746,19 @@ N.º 31 -24 de Março de 2017
 
 - Representantes  dos  estudantes  da  instituição ou da escola, eleitos nos termos estabelecidos nos estatutos e em regulamento.
 
-- Os estatutos podem estabelecer a possibilidade de os conselhos científicopedagógicos serem também integrados por membros  convidados, de entre professores ou investigadores de outras instituições ou personalidades de reconhecida competência no âmbito da missão da instituição.
+- Os estatutos podem estabelecer a possibilidade de os conselhos científico-pedagógicos serem também integrados por membros  convidados, de entre professores ou investigadores de outras instituições ou personalidades de reconhecida competência no âmbito da missão da instituição.
 
 - O conselho científico-pedagógico é composto por  um  máximo de  membros definido no estatuto da instituição.
 
 - Os  estatutos  dispõem  sobre  a  presidência  do conselho científico-pedagógico, podendo optar pela sua atribuição ao director ou presidente da unidade orgânica.
 
-- Os membros do conselho científicopedagógico não podem pronunciar-se sobre assuntos referentes:
+- Os membros do conselho científico-pedagógico não podem pronunciar-se sobre assuntos referentes:
 
 - i  A  actos  relacionados  com  a  carreira  de docentes com categoria superior à sua;
 
 - ii  A  concursos  ou  provas  em  relação  aos quais reúnam  as condições para serem opositores.
 
-##### Artigo 106.º Competência do conselho científicopedagógico
+##### Artigo 106.º Competência do conselho científico-pedagógico
 
 Compete ao conselho científico-pedagógico, designadamente:
 
@@ -1864,7 +1852,7 @@ Compete ao conselho pedagógico:
 
 - Os titulares e membros dos órgãos de governo e gestão das instituições de ensino superior públicas estão exclusivamente ao serviço do interesse público das suas instituições e são independentes no exercício das suas funções.
 
-- Os reitores e vice-reitores de universidades e os presidentes e vice-presidentes de institutos politécnicos, os directores ou presidentes das respectivas unidades orgânicas, bem como os directores  ou  presidentes  e  subdirectores  ou  vicepresidentes dos restantes estabelecimentos de ensino  superior,  não  podem  pertencer  a  quaisquer órgãos de governo ou gestão de outras instituições de ensino superior, público ou privado.
+- Os reitores e vice-reitores de universidades e os presidentes e vice-presidentes de institutos politécnicos, os directores ou presidentes das respectivas unidades orgânicas, bem como os directores  ou  presidentes  e  subdirectores  ou  vice-presidentes dos restantes estabelecimentos de ensino  superior,  não  podem  pertencer  a  quaisquer órgãos de governo ou gestão de outras instituições de ensino superior, público ou privado.
 
 - Os estatutos definem as demais incompatibilidades e impedimentos dos titulares ou membros  dos  órgãos  das  instituições  de  ensino superior públicas.
 
@@ -1936,7 +1924,7 @@ SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLICA
 
 N.º 31 -24 de Março de 2017
 
-- actividades de ensino, investigação ou desenvolvimento;
+actividades de ensino, investigação ou desenvolvimento;
 
 - As  instituições  de  ensino  superior  públicas mantêm actualizado o inventário do seu património,  bem  como  o  cadastro  dos  bens  do domínio público ou privado do Estado que tenham a seu cuidado.
 
@@ -2022,9 +2010,7 @@ N.º 31 -24 de Março de 2017
 
 - As  dotações  orçamentais  que  lhes  forem atribuídas pelo Estado;
 
-- As receitas provenientes do pagamento de propinas  e  outras  taxas  de  frequência  de
-
-- ciclos de estudos e outras acções de formação;
+- As receitas provenientes do pagamento de propinas  e  outras  taxas  de  frequência  de ciclos de estudos e outras acções de formação;
 
 - As receitas provenientes de actividades de investigação e desenvolvimento;
 
@@ -2064,7 +2050,7 @@ SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLICA
 
 N.º 31 -24 de Março de 2017
 
-- dos saldos das contas de gerência provenientes das dotações concedidas pelo Orçamento do Estado,
+dos saldos das contas de gerência provenientes das dotações concedidas pelo Orçamento do Estado,
 
 - As  receitas  a  que  se  referem  os  números anteriores  são  geridas  pelas  instituições  de  ensino superior públicas através dos respectivos orçamentos  privativos,  conforme  critérios  por  si estabelecidos.
 
@@ -2088,9 +2074,7 @@ Sem  prejuízo  das  auditorias  mandadas  realizar pelo  Estado,  as  institui�
 
 ##### Artigo 122.º Pessoal dos quadros
 
-- O número de unidades dos quadros de pessoal docente e não docente, investigadores e não investigadores e outro de cada instituição de ensino
-
-- superior pública é fixado por despacho do ministro encarregue pela área de educação através da aplicação de critérios estabelecidos por decreto-lei.
+- O número de unidades dos quadros de pessoal docente e não docente, investigadores e não investigadores e outro de cada instituição de ensino superior pública é fixado por despacho do ministro encarregue pela área de educação através da aplicação de critérios estabelecidos por decreto-lei.
 
 - A  distribuição  das  vagas  dos  quadros  pelas diferentes categorias, no caso do pessoal docente e de investigação, e pelas diferentes carreiras e categorias, no caso do restante pessoal, é feita por cada  instituição  de  ensino  superior  pública,  sem prejuízo  de  o  ministro  encarregue  pela  área  de educação  poder  fixar,  por  despacho,  regras  gerais sobre esta matéria.
 
@@ -2138,9 +2122,7 @@ Os  imóveis  do  domínio  privado  do  Estado  que tenham  sido  transferidos 
 
 - Número de admissões de pessoal, a qualquer título, e de aposentações, rescisões  e  outras  formas  de  cessação  do vínculo laboral;
 
-- Fundamentação  de  eventuais  aumentos  de despesa  com  pessoal  que  não  resultem  de
-
-- actualizações salariais, cumprimento de obrigações legais ou transferência de competências da administração central.
+- Fundamentação  de  eventuais  aumentos  de despesa  com  pessoal  que  não  resultem  de actualizações salariais, cumprimento de obrigações legais ou transferência de competências da administração central.
 
 - A informação a prestar nos termos do número anterior deve ser remetida nos termos fixados pelo ministério encarregue pela área das finanças.
 
@@ -2300,9 +2282,7 @@ As  instituições  de  ensino  superior  públicas  de natureza fundacional sel
 
 - Os contratos a que se refere o número anterior são celebrados  entre a instituição e o  Estado, representado pelo ministro encarregue pela área das finanças  e  pelo  ministro  encarregue  pela  área  de educação.
 
-- Às  instituições  de  ensino  superior  a  que  se refere o presente capítulo aplicam-se, com  as
-
-- devidas adaptações, as regras fixadas pela lei para o financiamento do Estado às demais instituições de ensino superior públicas.
+- Às  instituições  de  ensino  superior  a  que  se refere o presente capítulo aplicam-se, com  as devidas adaptações, as regras fixadas pela lei para o financiamento do Estado às demais instituições de ensino superior públicas.
 
 - O regime de propinas dos estudantes é fixado pela lei que regula esta matéria no que se refere às instituições de ensino superior públicas.
 
@@ -2362,9 +2342,7 @@ N.º 31 -24 de Março de 2017
 
 - Dos  estatutos  deve  constar,  no  domínio  do ensino a ministrar, a definição do regime de matrículas, de inscrições, de frequência e de avaliação  dos  estudantes,  bem  como  os  direitos  e deveres dos estudantes.
 
-- Dos estatutos dos estabelecimentos de ensino consta,  nos  termos  da  lei,  o  regime  da  carreira
-
-- docente próprio de cada estabelecimento de ensino, contendo, nomeadamente, a definição dos direitos e deveres do pessoal docente, a definição das carreiras  e  as  regras  de  avaliação  e  progressão  na carreira.
+- Dos estatutos dos estabelecimentos de ensino consta,  nos  termos  da  lei,  o  regime  da  carreira docente próprio de cada estabelecimento de ensino, contendo, nomeadamente, a definição dos direitos e deveres do pessoal docente, a definição das carreiras  e  as  regras  de  avaliação  e  progressão  na carreira.
 
 ##### Artigo 144.º Registo e publicação dos estatutos
 
@@ -2420,9 +2398,7 @@ Aos conselho científico, técnico-científico e pedagógico dos estabelecimento
 
 ##### Artigo 148.º Participação de docentes e discentes
 
-- A  participação  de  docentes  e  estudantes  na gestão  académica  dos  estabelecimentos  de  ensino superior  privados  deve  ser  assegurada  através  da
-
-- representação dos docentes nos conselhos científico ou técnico-científico e pedagógico e dos estudantes no conselho pedagógico.
+- A  participação  de  docentes  e  estudantes  na gestão  académica  dos  estabelecimentos  de  ensino superior  privados  deve  ser  assegurada  através  da representação dos docentes nos conselhos científico ou técnico-científico e pedagógico e dos estudantes no conselho pedagógico.
 
 - O sistema de participação deve, ainda, assegurar  que  representantes  do  corpo  docente, através do conselho científico ou técnico-científico, sejam  ouvidos  pela  entidade  instituidora  e  pelo reitor, presidente, director ou presidente da unidade orgânica  em  matérias  relacionadas  com  a  gestão administrativa do estabelecimento de ensino.
 
@@ -2480,9 +2456,7 @@ O  ministro  encarregue  pela  área  de  educação pode delegar ou subdelegar 
 
 ##### Artigo 154.º Situações de crise
 
-- No  caso  de  situações  de  crise  institucional grave de instituições públicas que não possam ser
-
-- superadas no quadro da sua autonomia, o Governo, mediante despacho fundamentado do ministro encarregue pela área de educação, ouvido o Conselho  Coordenador  do  Ensino  Superior,  pode intervir na instituição e tomar as medidas adequadas, incluindo a suspensão dos órgãos estatutários  e  a  nomeação  de  uma  personalidade independente para a gestão da instituição, na medida e pelo tempo estritamente necessários para repor a normalidade  institucional e reconstituir logo que possível o autogoverno da instituição.
+- No  caso  de  situações  de  crise  institucional grave de instituições públicas que não possam ser superadas no quadro da sua autonomia, o Governo, mediante despacho fundamentado do ministro encarregue pela área de educação, ouvido o Conselho  Coordenador  do  Ensino  Superior,  pode intervir na instituição e tomar as medidas adequadas, incluindo a suspensão dos órgãos estatutários  e  a  nomeação  de  uma  personalidade independente para a gestão da instituição, na medida e pelo tempo estritamente necessários para repor a normalidade  institucional e reconstituir logo que possível o autogoverno da instituição.
 
 - A  intervenção  não  pode  afectar  a  autonomia cultural, científica e pedagógica da instituição, nem pôr em causa a liberdade académica ou a liberdade de ensinar e de aprender dentro da instituição.
 
@@ -2596,13 +2570,11 @@ N.º 31 -24 de Março de 2017
 
 - As instituições de ensino superior disponibilizam  no  seu  sítio  na  Internet  todos  os elementos  relevantes  para  o  conhecimento  cabal dos ciclos de estudos oferecidos e graus conferidos, da investigação realizada e dos serviços prestados pela instituição.
 
-- Entre os elementos disponibilizados incluemse, obrigatoriamente, os relatórios de autoavaliação  e  de  avaliação  externa  da  instituição  e das  suas  unidades  orgânicas,  bem  como  dos  seus ciclos de estudos.
+- Entre os elementos disponibilizados incluem-se, obrigatoriamente, os relatórios de auto-avaliação  e  de  avaliação  externa  da  instituição  e das  suas  unidades  orgânicas,  bem  como  dos  seus ciclos de estudos.
 
 ##### Artigo 164.º Informação e publicidade
 
-- Os  estabelecimentos  de  ensino  mencionam obrigatoriamente nos seus documentos
-
-- informativos  destinados  a  difusão  pública  e  na respectiva publicidade o conteúdo preciso do reconhecimento de interesse público, das autorizações de funcionamento de ciclos de estudos e de reconhecimento de graus.
+- Os  estabelecimentos  de  ensino  mencionam obrigatoriamente nos seus documentos informativos  destinados  a  difusão  pública  e  na respectiva publicidade o conteúdo preciso do reconhecimento de interesse público, das autorizações de funcionamento de ciclos de estudos e de reconhecimento de graus.
 
 - Deve ser disponibilizada informação precisa e suficiente sobre os seguintes aspectos:
 
