@@ -1,4 +1,8 @@
 [[START OF PAGE 1]]
+UNESCO
+United Nations
+Educational, Scientific and
+Cultural Organization
 
 Ref.:
 
@@ -50,11 +54,12 @@ Enclosures:  1
 
 - Guidelines for preparation of national reports
 
-Permanent Delegations to UNESCO
+cc: Permanent Delegations to UNESCO
 
 National Commissions for UNESCO
 
-cc: Regional Offices Field Offices
+Regional Offices
+Field Offices
 
 [[END OF PAGE 2]]
 
@@ -68,7 +73,7 @@ Approved by UNESCO's Executive Board at its 207th session in October 2019
 
 The Convention against Discrimination in Education ('the Convention') and the Recommendation against  Discrimination  in  Education  ('the  Recommendation'),  adopted  by  UNESCO's  General Conference in 1960, respond to UNESCO's constitutional mandate to 'advance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument providing for the right to education and the only one exclusively devoted to it.
 
-The right to education is today one of the key principles underpinning the Education 2030 agenda and Sustainable Development Goal 4 (SDG 4) adopted by the international community. SDG 4 is rightsbased and seeks to ensure the full enjoyment of the right to education as fundamental to achieving sustainable development. Its scope captures the multidimensional nature of the right to education.
+The right to education is today one of the key principles underpinning the Education 2030 agenda and Sustainable Development Goal 4 (SDG 4) adopted by the international community. SDG 4 is rights-based and seeks to ensure the full enjoyment of the right to education as fundamental to achieving sustainable development. Its scope captures the multidimensional nature of the right to education.
 
 The  Convention  has  been  recognized  as  a cornerstone  of  Education  2030  agenda .  It  also represents a powerful tool to advance SDG 4 by ensuring effective articulation between normative and operational work.
 
@@ -110,9 +115,9 @@ In  the  preparation  of  reports,  Member  States  are  kindly  requested  to  
 
 With a view to simplify the Guidelines while providing necessary substantive information to assist Member States in the preparation of responses, two series of questions/remarks are presented:
 
-- Open-ended and closed-ended questions to be directly filled in by Member States through a  participatory  process.  Please  note  that  multiple  answers  may  be  provided  where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States through a participatory process. Please note that multiple answers may be provided where relevant.
 
-- Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 In their responses, Member States are encouraged to provide information in a concise manner while preserving substantive and relevant content.
 
@@ -130,33 +135,33 @@ Country name: Japan
 
 Organization  or  entity  responsible  for  the  preparation  of  the  report:  Ministry  of  Education, Culture, Sports, Science and Technology (MEXT)
 
-## Information on the legislative, judicial, administrative and other measures taken by the state at the national level
+## I. Information on the legislative, judicial, administrative and other measures taken by the state at the national level
 
-### Ratification of the Convention 2
+### 1. Ratification of the Convention 2
 
 Is your country a State Party to the Convention?
 
-o Yes
+□ Yes
 
-- n No: Does your country plan to ratify this instrument?
+■ No: Does your country plan to ratify this instrument?
 
-o Yes: Please indicate the stage of ratification process reached by your country:
+□ Yes: Please indicate the stage of ratification process reached by your country:
 
-o Close to ratification
+□ Close to ratification
 
-o Underway
+□ Underway
 
-o Actively under preparation
+□ Actively under preparation
 
-- Please briefly explain the difficulties encountered in completing the ratification process and the means of overcoming them:
+• Please briefly explain the difficulties encountered in completing the ratification process and the means of overcoming them:
 
 Describe:
 
-- è the obstacles, whether legal, institutional, political or practical
+➔ the obstacles, whether legal, institutional, political or practical
 
-- è the means of overcoming them and the extent to which UNESCO can assist in completing the process
+➔ the means of overcoming them and the extent to which UNESCO can assist in completing the process
 
-- n No, not considering ratification in the near future. Please explain why:
+■ No, not considering ratification in the near future. Please explain why:
 
 In Japan, the opportunity to receive education is assured in an appropriate manner for its nationals  and  extensively  for  foreign  nationals,  following  provisions  and  purposes  of relevant domestic and international laws and regulations.
 
@@ -170,39 +175,39 @@ http://portal.unesco.org/en/ev.php-URL_ID=12949&URL_DO=DO_TOPIC&URL_SECTION=201.
 
 - 4 -
 
-### Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be  responsible  for  seeking  the  settlement  of  any  disputes  which  may  arise  between States Parties to the Convention against Discrimination in Education
+### 2. Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
 
 Has your country ratified the Protocol?
 
-o Yes
+□ Yes
 
-- n No, please briefly explain the difficulties encountered:
+■ No, please briefly explain the difficulties encountered:
 
 In Japan, the opportunity to receive education is assured in an appropriate manner for its nationals and extensively for foreign nationals, following provisions and purposes of relevant domestic and international laws and regulations.
 
-### Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
+### 3. Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
 
 In case your country is a State Party to the Convention:
 
 - Is the Convention directly applicable in your country's domestic law following its ratification?
 
-o Yes
+□ Yes
 
-o No
+□ No
 
-- If  not, has it been incorporated into the national Constitution or domestic law so as to be directly applicable?
+- If not, has it been incorporated into the national Constitution or domestic law so as to be directly applicable?
 
-o Yes
+□ Yes
 
-o No
+□ No
 
 This seeks information on whether the provisions of the Convention are guaranteed in a domestic legal instrument. The report should list the main legal texts (Constitution, legislative text or other provisions) adopted to guarantee the right to education for all and to promote equal educational opportunities. References, dates and aims could be provided.
 
 - Have the provisions of the Convention been invoked before and given effect to by courts, tribunals and administrative authorities?
 
-o Yes
+□ Yes
 
-o No
+□ No
 
 If  yes,  please illustrate on the basis of available case law and jurisprudence. Information could also be given about the judicial, administrative and other competent authorities having jurisdiction with respect to the rights guaranteed by the Convention and the scope of such competence.
 
@@ -236,13 +241,13 @@ In Japan, the opportunity to receive education is assured in an appropriate mann
 
 ## II. Information on the implementation of the Convention or Recommendation
 
-### Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
+### 1. Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
 
-Articles/Paragraphs  1(1),  2  and  3  of  the  Convention/Recommendation  provide  for  nondiscrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
+Articles/Paragraphs 1(1), 2 and 3 of the Convention/Recommendation provide for non-discrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
 
 This  corresponds  to  the  overall  aspiration  of  SDG4  which  aims  to 'ensure  inclusive  and equitable quality education and promote lifelong learning opportunities for all' by 2030. It therefore covers all the SDG4 targets, but also specifically SDG target 4.5. 4
 
-- 1.1 Please indicate measures adopted by your government to eliminate and prevent discrimination in education within the meaning of the Convention/Recommendation (please tick all that apply) 5 (several items could be ticked/mentioned):
+1.1 Please indicate measures adopted by your government to eliminate and prevent discrimination in education within the meaning of the Convention/Recommendation (please tick all that apply)5 (several items could be ticked/mentioned):
 
 ■ Constitutional laws and/or legislation prohibit discrimination in education
 
@@ -254,7 +259,7 @@ This  corresponds  to  the  overall  aspiration  of  SDG4  which  aims  to 'ensu
 
 ■ Combatting discrimination in terms of curriculum
 
-o Other:
+□ Other:
 
 > 4 Which calls on states to 'eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations'.
 
@@ -268,15 +273,15 @@ o Other:
 
 Please  provide  a  brief  description  of  the  relevant  legal,  regulatory  or  policy  texts  including measures on:
 
-- è Non-discrimination in the admission of pupils to educational institutions
+➔ Non-discrimination in the admission of pupils to educational institutions
 
-- è Non-differential treatment, including of foreign nationals resident in your country
+➔ Non-differential treatment, including of foreign nationals resident in your country
 
 In Japan, there is no stipulated condition for school admission based on race, colour, sex, language, religion, political or other opinion, national or social origin, economic condition or birth. Under this fundamental term, the Government of Japan provides the system of financial assistance for compulsory education expenses to persons requiring public assistance. For upper secondary education, the High School Tuition Support Fund offers tuition support for all  high  school  students  fulfilled  with  specific  requirement.  The  government  also  supports reductions or waivers of tuition and enrolment fees conducted by universities and provides students financial assistance as one of the educational policies through scholarship grant* and loan programmes in higher education.
 
 *The Scholarship grant programme is a system expanded from April 1, 2020.
 
-- 1.2 Please indicate actions taken by your government to guarantee equal access to all levels and types of education in your country (several items could be ticked/mentioned):
+1.2 Please indicate actions taken by your government to guarantee equal access to all levels and types of education in your country (several items could be ticked/mentioned):
 
 ■ Constitutional laws and/or legislation guarantee equal access to education
 
@@ -288,15 +293,15 @@ In Japan, there is no stipulated condition for school admission based on race, c
 
 - Please indicate the relevant legal, regulatory or policy texts and provide a brief description of the measures taken : This notably is covered under SDG target 4.1 and partly target 4.b 6
 
-T he	Article	4.1	of	the	Basic	Act	on	Education	(enacted	in	1947,	revised	in	2006)	stipulates that 'the nationals shall all be given equal opportunities to receive education according to their abilities, and shall not be subject to discrimination in education on account of race, creed, sex, social status, economic position, or family origin.' The opportunity to receive education is assured in an appropriate manner for its nationals and extensively for foreign nationals, following provisions and purposes of relevant domestic and international laws and regulations.
+The Article 4.1 of the Basic Act on Education (enacted in 1947, revised in 2006) stipulates that “the nationals shall all be given equal opportunities to receive education according to their abilities, and shall not be subject to discrimination in education on account of race, creed, sex, social status, economic position, or family origin.” The opportunity to receive education is assured in an appropriate manner for its nationals and extensively for foreign nationals, following provisions and purposes of relevant domestic and international laws and regulations.
 
-- 1.3 Please indicate the actions taken and planned in your country to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners (including girls and women, the economically and socially marginalized, people with  disabilities  and  other  vulnerable  groups)  in  learning  processes  (several  items  could  be ticked/mentioned):
+1.3 Please indicate the actions taken and planned in your country to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners (including girls and women, the economically and socially marginalized, people with disabilities and other vulnerable groups) in learning processes (several items could be ticked/mentioned):
 
 ■ Providing financial incentives and fellowships
 
-o Providing positive or affirmative action measures
+□ Providing positive or affirmative action measures
 
-o Providing auxiliary assistance
+□ Providing auxiliary assistance
 
 ■ Adapting education infrastructure
 
@@ -312,23 +317,23 @@ o Providing auxiliary assistance
 
 ■ Ensuring inclusion in mainstream schools for all learners
 
-o Training teachers on inclusive education
+□ Training teachers on inclusive education
 
 ■ Ensuring gender parity in science, technology, engineering and mathematics (STEM) and technical and vocational training (TVET)
 
 ■ Providing re-entry programmes for young mothers
 
-o Eliminating all barriers for pregnant girls or young mothers in education
+□ Eliminating all barriers for pregnant girls or young mothers in education
 
-o Other:
+□ Other:
 
 ■ Providing language classes to newcomers (e.g. refugees)
 
-o Eliminating administrative barriers to education 7
+□ Eliminating administrative barriers to education7
 
-o Providing flexible learning pathways
+□ Providing flexible learning pathways
 
-o Valuing diversity in schools
+□ Valuing diversity in schools
 
 ■ Combatting stereotyping and stigmatisation
 
@@ -342,15 +347,13 @@ With a view to promoting the participation of the society for women of various a
 
 Please note that child marriage is a discriminatory practice as often girls can marry at a younger age than boys. Child marriage violates the child's right to education as they are more likely to drop out of school and children who are not in school are more likely to get married.
 
-Yes
-
-■ No □
+Yes ■ No □
 
 Please provide reference to the relevant laws and provisions:
 
 In June 2018, the partially amending Act of the Civil Code of Japan was passed, which includes raising the minimum marriage age of women from 16 to 18 years old, setting to unify its age for both sexes. This Act shall come into effect as from April 1, 2022.
 
-### Progress made with respect to implementing the right to education in the context of SDG 4
+### 2. Progress made with respect to implementing the right to education in the context of SDG 4
 
 #### 2.1 Pre-primary education
 
@@ -372,7 +375,7 @@ Pre-primary education is not compulsory in Japan.
 
 ■ Pre-primary education is free of charge for all: Please provide the duration:
 
-Since October 2019, it has been accessible free of charge for all 3-5 years old children to take early childhood education such as in Kindergartens, Day Care Centres and certified Centres for Early Childhood Education and Care in Japan. The policy regarding free preprimary education for 0-2 years old children has been targeted to households exempted from inhabitant tax.
+Since October 2019, it has been accessible free of charge for all 3-5 years old children to take early childhood education such as in Kindergartens, Day Care Centres and certified Centres for Early Childhood Education and Care in Japan. The policy regarding free pre-primary education for 0-2 years old children has been targeted to households exempted from inhabitant tax.
 
 - Please list the laws and policies that ensure the availability of pre-primary education for all and provide  information  on  the  difficulties  experienced  by  your  government  in  the  realization  of access to pre-primary education. Brief quantitative information could be added.
 
@@ -386,7 +389,7 @@ Article/Paragraph 4(a) of the Convention/Recommendation provides for universal p
 
 - Is primary education compulsory in your country?
 
-■ Yes o No
+■ Yes □ No
 
 Please indicate the current duration period of compulsory education and the age of enrolment:
 
@@ -410,11 +413,11 @@ For this, please list the laws and policies that ensure the universal and free a
 
 The Article 5.4 of the Basic Act on Education of Japan stipulates that no tuition fee shall be charged  for  compulsory  education  in  schools  established  by  the  national  and  local governments .
 
-o No: Is your country already engaged in legal and policy reforms to work towards universal and free primary education?
+□ No: Is your country already engaged in legal and policy reforms to work towards universal and free primary education?
 
-o Yes
+□ Yes
 
-o No
+□ No
 
 - Please briefly provide information on the reforms taken:
 
@@ -430,7 +433,7 @@ Please list the laws and policies that ensure the free availability of secondary
 
 The Article 5.4 of the Basic Act on Education of Japan stipulates that no tuition fee shall be charged  for  compulsory  education  in  schools  established  by  the  national  and  local governments. As for the upper secondary education stage, Japan takes measures for high school students to receive tuition grants such as the High School Tuition Support Fund of Japan.
 
-o No: What are the measures your government intends to take to ensure free secondary education?
+□ No: What are the measures your government intends to take to ensure free secondary education?
 
 [[END OF PAGE 11]]
 
@@ -440,9 +443,9 @@ o No: What are the measures your government intends to take to ensure free secon
 
 - Is secondary education (middle/high) compulsory in your country?
 
-o Yes
+□ Yes
 
-o No
+□ No
 
 ■ Partially
 
@@ -456,11 +459,7 @@ Junior high school: the lower secondary education is mandatory (i.e. tuition fre
 
 Please  note  that  minimum  age  labour  laws  and  those  related  to  compulsory  education interdependent and mutually reinforce each other. If the minimum age of employment is below that of compulsory education, the child is at risk of dropping out of school to work and therefore not completing compulsory education. On the other hand, if compulsory education is lower than the minimum age of employment, once the child has completed compulsory education, the door is open to child exploitation and the violation of labour laws.
 
-Yes
-
-■
-
-No □
+Yes ■ No □
 
 - Please provide reference to the relevant laws and provisions:
 
@@ -470,7 +469,7 @@ Labor Standards Act （ Act No. 49 of April 7, 1947 ）
 
 Article 56 (1) Employers shall not employ children until the end of the first 31st of March that occurs on or after the day when they reach the age of 15 years.
 
-- Notwithstanding the provisions of the preceding paragraph, outside of school hours, children 13 years of age and above may be employed in occupations in enterprises other than those stipulated in items (i) through (v) of Appended Table No. 1, which involve light labor  that  is  not  injurious  to  their  health  and  welfare,  with  the  permission  of  the  relevant government agency. The same shall apply to children under 13 years of age employed in motion picture production and theatrical performance enterprises.
+(2) Notwithstanding the provisions of the preceding paragraph, outside of school hours, children 13 years of age and above may be employed in occupations in enterprises other than those stipulated in items (i) through (v) of Appended Table No. 1, which involve light labor that is not injurious to their health and welfare, with the permission of the relevant government agency. The same shall apply to children under 13 years of age employed in motion picture production and theatrical performance enterprises.
 
 #### 2.3 Higher education
 
@@ -498,13 +497,13 @@ including technical and vocational education and training (several items could b
 
 ■ Policies  and  programs  aim  to  eliminate  and  prevent  discrimination  in  higher  education, including technical and vocational education and training
 
-o Other:
+□ Other:
 
 - Please provide a brief description of the relevant legal, regulatory or policy texts including measures on:
 
-- è Non-discrimination  in  the  admission  of  students  to  higher  education  institutions on  the grounds prohibited by the Convention/Recommendation
+➔ Non-discrimination in the admission of students to higher education institutions on the grounds prohibited by the Convention/Recommendation
 
-- è Non-differential treatment, including of foreign students
+➔ Non-differential treatment, including of foreign students
 
 As  for  higher  education  stage  in  Japan,  there  is  no  stipulated  condition  considered  for admission  to  higher  education  institution  and  programmes  based  on  race,  colour,  sex, language, religion, political or other opinion, national or social origin, economic condition or birth. The Government of Japan supports reductions or waivers of tuition and enrolment fees conducted  by  each  university  and  provides  students  financial  assistance  through  the scholarship grant * and loan programmes in higher education.
 
@@ -514,17 +513,17 @@ As  for  higher  education  stage  in  Japan,  there  is  no  stipulated  condit
 
 Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights, further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'.
 
-o Higher education is generally free of charge
+□ Higher education is generally free of charge
 
 ■ Higher education is accessible on the basis of individual capacity as assessed by reference to relevant qualifications and experience
 
 ■ Higher education is accessible through financial incentives and scholarships
 
-o Higher education is accessible through positive or affirmative action measures
+□ Higher education is accessible through positive or affirmative action measures
 
 ■ Higher education is accessible through credit transfer system between states
 
-o Other:
+□ Other:
 
 [[END OF PAGE 13]]
 
@@ -550,13 +549,13 @@ Article/Paragraph 4(c) of the Convention/Recommendation provides for adult educa
 
 ■ Provision of literacy programmes
 
-- o Provision of appropriate learning and life-skills programmes
+□ Provision of appropriate learning and life-skills programmes
 
 ■ Provision of free of charge learning opportunities
 
-- o Provision of flexible learning pathways
+□ Provision of flexible learning pathways
 
-- o Provision of professional training and qualifications
+□ Provision of professional training and qualifications
 
 ■ Other:
 
@@ -618,29 +617,29 @@ Article/Paragraph 4(d) of the Convention/Recommendation  provides  for the educa
 
 ■ Minimum standards and qualifications are required for the teaching profession
 
-o Measures taken to strengthen the social status and attractiveness of the teaching profession
+□ Measures taken to strengthen the social status and attractiveness of the teaching profession
 
 ■ Performance monitoring systems
 
-o Measures taken to increase women in leadership positions in education
+□ Measures taken to increase women in leadership positions in education
 
-o Other:
+□ Other:
 
 - Please briefly elaborate further on the measures taken:
 
 The Act on Special Measures concerning Salaries and Other Conditions for Education Personnel of Public Compulsory Education Schools stipulates the payment of a faculty adjustment in addition to monthly salary to teachers of public elementary, junior high and high school teachers and other schools in accordance with local ordinance, based on the standards of 4% of monthly salary, which differs from general civil servants. The entity that establishes the higher-education institution determines conditions for its teachers.
 
-Regarding teacher training, the Government of Japan established its own legal system that requires  to  complete  programmes  (i.e.  teacher-training  programme)  in  the  competent authorities such as higher education institutions approved by Minister of Education, Culture, Sports, Science and Technology, in principle, in order to obtain regular teaching certificate. The Government is also working for maintaining and enhancing of the level of teachertraining programmes by regularly reviewing the contents of teaching in the course.
+Regarding teacher training, the Government of Japan established its own legal system that requires to complete programmes (i.e. teacher-training programme) in the competent authorities such as higher education institutions approved by Minister of Education, Culture, Sports, Science and Technology, in principle, in order to obtain regular teaching certificate. The Government is also working for maintaining and enhancing of the level of teacher-training programmes by regularly reviewing the contents of teaching in the course.
 
 Regarding in-service teacher training, the Law for Special Regulations Concerning Educational Public Service Personnel stipulates to conduct in-service teacher training for public school teacher by appointers. Prefectural boards of education are to plan and conduct training programs such as training for new teachers, and training for teachers with 10 years experience.
 
 - Have there been instances of discrimination as regards the training for education personnel in your country?
 
-o Yes: Has your government addressed this issue?
+□ Yes: Has your government addressed this issue?
 
-o Yes
+□ Yes
 
-o No
+□ No
 
 ■ No
 
@@ -660,7 +659,7 @@ Article/Paragraph  5(1)(a)  of  the  Convention/Recommendation  provides  for  t
 
 ■ Educational and/or extracurricular activities are organized on human rights education
 
-o Other:
+□ Other:
 
 #### 2.8 Private education
 
@@ -668,9 +667,7 @@ Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide fo
 
 - Does your country have a regulatory framework relating to the establishment and functioning of private educational institutions?
 
-Yes
-
-■ No o
+Yes ■ No □
 
 - Please provide a brief description:
 
@@ -678,7 +675,7 @@ Incorporated Educational Institutions officially authorised by the Government of
 
 -Do legal provisions prohibiting discrimination on the grounds listed by the Convention/Recommendation 13 explicitly apply to private educational institutions?
 
-Yes o No ■
+Yes □ No ■
 
 - Please briefly describe what laws, regulations or policies guarantee that the development of private education does not generate discrimination and that private schools offer a relevant alternative in your country:
 
@@ -696,7 +693,7 @@ In Japan, the opportunity to receive education is assured in an appropriate mann
 
 - Does your country have an education policy framework for minimum educational standards as regards the rights of the parents /legal guardians for providing religious and moral education for their children?
 
-Yes o No ■
+Yes □ No ■
 
 #### 2.9 Rights of national minorities
 
@@ -728,7 +725,7 @@ There is no stipulated condition for establishing incorporated schools in terms 
 
 #### 2.10  Rights of refugees and migrants
 
-The rights of refugees and migrants are not explicitly provided for in the Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in education based notably on national origin. 14 In this context,  a  number  of  Member  States  that  participated  in  the  9 th Consultation  reported  on measures adopted to ensure refugees' and migrants' right to education. Growing displacement and influx of refugees worldwide and the emergence of major educational challenges in this area, as well as the frameworks recently adopted by the international community, 15 demonstrate the opportunity for states to report on measures adopted to include refugees and migrants in their educational systems.
+The rights of refugees and migrants are not explicitly provided for in the Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in education based notably on national origin.14 In this context, a number of Member States that participated in the 9th Consultation reported on measures adopted to ensure refugees’ and migrants’ right to education. Growing displacement and influx of refugees worldwide and the emergence of major educational challenges in this area, as well as the frameworks recently adopted by the international community,15 demonstrate the opportunity for states to report on measures adopted to include refugees and migrants in their educational systems.
 
 [[END OF PAGE 18]]
 
@@ -750,17 +747,17 @@ In Japan, the opportunity to receive education is assured in an appropriate mann
 
 ■ Specific training for educational staff
 
-- o Initiatives addressing discrimination and promoting cultural diversity and mutual acceptance
+□ Initiatives addressing discrimination and promoting cultural diversity and mutual acceptance
 
 ■ Alternative administrative procedure (placement tests, portfolio of evidence, etc.)
 
 ■ Accelerated learning programmes
 
-- o Non-formal and/or alternative education programmes
+□ Non-formal and/or alternative education programmes
 
 ■ Financial support
 
-- o Other innovative measures:
+□ Other innovative measures:
 
 Please briefly elaborate further on the measures taken:
 
@@ -768,7 +765,7 @@ Please briefly elaborate further on the measures taken:
 
 ### 1. Challenges and obstacles
 
-- 1.1 Please indicate and provide any information on the difficulties encountered in the process of implementing  the  key  provisions  of  the  Convention/Recommendation  (including  legal  and
+1.1 Please indicate and provide any information on the difficulties encountered in the process of implementing the key provisions of the Convention/Recommendation (including legal and
 
 > 14 Articles/Paragraphs 1 and 3.
 
@@ -782,23 +779,23 @@ Please briefly elaborate further on the measures taken:
 
 practical obstacles) and on the main issues that need to be addressed for promoting further the right to education in your country (several items could be ticked/mentioned):
 
-o Challenges related to equitable access and inclusion in education (such as poverty and socio- economic factors, cultural and traditional attitudes, remoteness, migration and displacement, etc.)
+□ Challenges related to equitable access and inclusion in education (such as poverty and socio-economic factors, cultural and traditional attitudes, remoteness, migration and displacement, etc.)
 
 N/A
 
-o Challenges related to the quality of education (such as shortages of qualified, trained and motivated  teaching  staff,  non-supportive  or  inadequate  teaching  and  learning  as  well  as school environment, etc.)
+□ Challenges related to the quality of education (such as shortages of qualified, trained and motivated teaching staff, non-supportive or inadequate teaching and learning as well as school environment, etc.)
 
 N/A
 
-o Challenges relating to the system and governance (such as budgetary constraints, lack or weakness of monitoring systems - including the lack of reliable data, absence of supportive/ inconsistent/obsolete legal and  policy environment,  lack of involvement  of relevant stakeholders and lack of cooperation/coordination at different levels, etc.)
+□ Challenges relating to the system and governance (such as budgetary constraints, lack or weakness of monitoring systems – including the lack of reliable data, absence of supportive/inconsistent/obsolete legal and policy environment, lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels, etc.)
 
 N/A
 
-o Other:
+□ Other:
 
 N/A
 
-- 1.2 Please provide a brief assessment of the effectiveness of the methods introduced to remove the obstacles encountered:
+1.2 Please provide a brief assessment of the effectiveness of the methods introduced to remove the obstacles encountered:
 
 ### 2. Awareness-raising
 
@@ -808,11 +805,11 @@ UNESCO  governing  bodies  have  underlined  the  need  for  awareness  raising.
 
 ■ Translation  of  the  Convention/Recommendation  into  the  national  and  possibly  local languages
 
-o Dissemination and advocacy of the core content of the Convention/Recommendation or the core principles of the right to education
+□ Dissemination and advocacy of the core content of the Convention/Recommendation or the core principles of the right to education
 
-o Increased public awareness through advocacy material on the Convention/ Recommendation or the core principles of the right to education
+□ Increased public awareness through advocacy material on the Convention/Recommendation or the core principles of the right to education
 
-o Activities undertaken or supported by the National Commission to promote non- discrimination and equality of educational opportunities and to foster debate on critical issues in relation to the rights enshrined in the instruments
+□ Activities undertaken or supported by the National Commission to promote non-discrimination and equality of educational opportunities and to foster debate on critical issues in relation to the rights enshrined in the instruments
 
 [[END OF PAGE 20]]
 
@@ -820,6 +817,6 @@ o Activities undertaken or supported by the National Commission to promote non- 
 
 - 19 -
 
-o Other:
+□ Other:
 
 [[END OF PAGE 21]]
