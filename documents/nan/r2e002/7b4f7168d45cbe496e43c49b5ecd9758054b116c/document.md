@@ -346,7 +346,7 @@ Les biens publics sont inviolables. Toute personne doit les respecter et les pro
 
 ##### Article 51 :
 
-La défense de la partie et de l'intégrité du territoire national est un devoir pour tout Tchadien.
+La défense de la patrie et de l'intégrité du territoire national est un devoir pour tout Tchadien.
 
 Le service militaire est obligatoire.
 
@@ -546,7 +546,7 @@ En  cas  d'absence  du  territoire  ou  d'empêchement  temporaire  du  Préside
 
 ##### Article 76 :
 
-En  cas  de  vacance  de  la  Présidence  de  la  République  pour  quelque  cause  que  ce  soit  ou d'empêchement  définitif  constaté  par le  Conseil  Constitutionnel  saisi par  le  Gouvernement  et statuant  à  la  majorité  absolue  de  ses  membres,  les  attributions  du  Président  de  la  République,  à l'exception  des  pouvoirs  prévus  aux  articles  79,  82,  83  et  87,  sont  provisoirement  exercées  par  le Président de l'Assemblée Nationale et,  en  cas d'empêchement de ce dernier par le Premier Viceprésident de ladite Assemblée .
+En cas de vacance de la Présidence de la République pour quelque cause que ce soit ou d'empêchement définitif constaté par le Conseil Constitutionnel saisi par le Gouvernement et statuant à la majorité absolue de ses membres, les attributions du Président de la République, à l'exception des pouvoirs prévus aux articles 79, 82, 83 et 87, sont provisoirement exercées par le Président de l'Assemblée Nationale et, en cas d'empêchement de ce dernier par le Premier Vice-président de ladite Assemblée.
 
 Dans tous les cas, il est procédé à de nouvelles élections présidentielles quarante cinq (45) jours au moins et quatre vingt dix (90) jours au plus après l'ouverture de la vacance.
 
@@ -652,7 +652,7 @@ Le Président de la République dispose du droit de grâce.
 
 ##### Article 90 :
 
-Le Président de la République communique avec l'Assemblée Nationale par des messages qu'il fait lire  et  qui  ne  donnent  lieu  à  aucun  débat.  Hors  session, l'Assemblée  Nationale est  réuni e spécialement à cet effet.
+Le Président de la République communique avec l'Assemblée Nationale par des messages qu'il fait lire et qui ne donnent lieu à aucun débat. Hors session, l'Assemblée Nationale est réunie spécialement à cet effet.
 
 ##### Article 91 :
 
@@ -898,7 +898,7 @@ La durée de chaque session ne peut excéder quatre vingt dix (90) jours.
 
 L'Assemblée Nationale se réunit en session extraordinaire à la demande du Premier Ministre ou de la majorité de ses membres ,sur un ordre du jour déterminé.
 
-Lorsque la session extraordinaire est tenue à la demande des membres de l'Assemblée Nationale, le décret de clôture intervient dès que celle-ci a épuisé l'ordre du jour pour lequel elle a été convoqué e et au plus tard quinze jours à compter de la date d'ouverture de la session.
+Lorsque la session extraordinaire est tenue à la demande des membres de l'Assemblée Nationale, le décret de clôture intervient dès que celle-ci a épuisé l'ordre du jour pour lequel elle a été convoquée et au plus tard quinze jours à compter de la date d'ouverture de la session.
 
 Le Premier Ministre peut seul demander une nouvelle session avant l'expiration du mois qui suit le décret de clôture.
 
