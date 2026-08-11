@@ -1,360 +1,397 @@
 [[START OF PAGE 1]]
 
-ENCLOSURE:
+ПОСТОЯННОЕ ПРЕДСТАВИТЕЛЬСТВО
+Российской Федерации при ЮНЕСКО
 
-HOCTOHHHOE HPE^CTABHTEJILCTBO POCCHHCKOU  OeflepauH H  npH  IOHECKO
+DELEGATION PERMANENTE
+de la Fédération de Russie
+auprès de l'UNESCO
 
-DELEGATION  PERMANENTE de la Fédération  de  Russie auprès  de  l'UNESCO
+8, rue de Prony, 75017 Paris
+Tél.: 01. 42. 12. 84. 30
+Fax. 01. 42. 67. 51. 99
+No. 342
 
-8,  rue  de  Prony, 75017  Paris Tél. :  01. 42. 12. 84. 30
+Paris, 10 March 2021
 
-Fax. 01. 42^67. 51. 99 No.  ^^^
+Dear Ms. Assistant Director-General,
 
-Dear  Ms. Assistant Director-General,
+I have the honor to transmit to your kind attention the letter of the Secretary-General of the Commission of the Russian Federation for UNESCO Mr. Grigory Ordzhonikidze forwarding the information for updating the profile of the Russian Federation on the right to education section of the UNESCO’s website.
 
-l hâve  thé  honor  to  transmit to  your  kind  attention thé  letter of  thé  SecretaryGénéral of  thé Commission  of  thé  Russian Fédération for UNESCO Mr. Grigory Ordzhonikidze forwarding thé  information for  updating thé  profile of  thé  Russian Fédération on thé  right to éducation section of  thé  UNESCO's website.
+May I avail of this opportunity to renew to you, dear Ms. Assistant Director-General, the assurances of my highest consideration.
 
-May l avail ofthis opportunity to renew  to  you, dear  Ms. Assistant DirectorGénéral, thé  assurances  ofmy highest considération.
+Alexander KUZNETSOV
 
-Alexander  KUZNETSOV
+Ambassador
+Permanent Delegate
 
-Ambassador Permanent Delegate
+ENCLOSURE: 19 pages
 
-: ^ pages
-
-Paris, /^March2021
-
-Ms. Stefania GIANNINI Assistant Director-General UNESCO Paris
+Ms. Stefania GIANNINI
+Assistant Director-General
+UNESCO
+Paris
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-DIO
+КОМИССИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО ДЕЛАМ ЮНЕСКО
+COMMISSION DE LA FÉDÉRATION DE RUSSIE POUR L’UNESCO
+COMMISSION OF THE RUSSIAN FEDERATION FOR UNESCO
 
-KOMHCCHM POCCHtCKOa ^miElPAIlHM IIO JIAM  IOHECIK) COMMISSION DE LA  FÉDÉKATION  î POUR L*UNI:SCÔ COMMISSION  0F  THE  RUSSIAN  FEDEKAriON  FOIi.  UNESCO
+Организация Объединенных Наций по вопросам образования, науки и культуры
+Organisation des Nations Unies pour l’éducation, la science et la culture
+United Nations Educational, Scientific and Cultural Organization
 
-CeKpC Tapwar  KoMaeeiid: I192(Mt. M<>CKBa, r-2W CMO.ieHCKaa-CwHas ii.ioiBa.ïb, A®N  32/34, Kopye l
+Секретариат Комиссии:
+119200, Москва, Г-200
+Смоленская-Сенная площадь,
+дом 32/34, корпус 1
 
-f  du Secrétariat de la Conmisnon; 32/34 Sniotensk^a-SeBtiaya  pt., BâtimttHt t Moscou, îtnw,  G-Wi Secnstariat offc Coanasstoa: 32/34  SitWlenskaya-Sena^a  Sq., BuWiBRl Mo!>cBw, ll»Mîl. (»-260
+Secrétariat de la Commission:
+32/34 Smolenskaya-Sennaya pl.,
+Bâtiment 1
+Moscou, 119200, G-200
 
-wa./tefc  +7  49^244  24S6,  ^KC^ïît:  +7  49?  244  24?5,  e-fflai3:  uaeworusBia^mîAra
+Secretariat of the Commission:
+32/34 Smolenskaya-Sennaya Sq.,
+Building 1
+Moscow, 119200, G-200
 
-M_^Ê___/wa
+тел./tel: +7 499 244 2456, факс/fax: +7 499 244 2475, e-mail: unescorussia@mid.ru
 
-^t. as. ^w-f
+№ 514 /от
+02.03.2021
 
-Dear Ms Gianniai,
+Moscow,      March 2021
 
-Thé Commission of  tfae Russian Fédération fbf  UNESCO bas & pleasure to présent  to  your  attention  thé  report  on  thé inplenientation  by  thé Russian Fédération of thé  î 974 Recommendation conceroing  Education  for Intematioiial Understanding, Co-operation aiid  Peace, and  Education relâting to Human  BAghte and  Fundameataî  Freedoms. Thé  report was  prepared by  fhe  Miiustiy of  Education of  thé  Russisn Federatioii.
+Dear Ms Giannini,
 
-We apologize for thé delay m  submitting thé  report due to some diflBculties caused  by  thé  pandemic COVID-Î9.
+The Commission of the Russian Federation for UNESCO has a pleasure to present to your attention the report on the implementation by the Russian Federation of the 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace, and Education relating to Human Rights and Fundamental Freedoms. The report was prepared by the Ministry of Education of the Russian Federation.
 
-Please  accept, dear  Ms  Giatmmi, fhe  assurances ofmy  Nghest  coasideraticm.
+We apologize for the delay in submitting the report due to some difficulties caused by the pandemic COVID-19.
 
-^
+Please accept, dear Ms Giannini, the assurances of my highest consideration.
 
-^
+Yours sincerely,
 
-Origory Ordzhonilddze Seçietaiy-Geoeral Ambassador-at-Large of  thé Miaistîy  ofForeigii Âffairs  of thé  Russian Pederaticm
+Grigory Ordzhonikidze
+Secretary-General
+Ambassador-at-Large of the
+Ministry of Foreign Affairs of
+the Russian Federation
 
-Ms Stefania GIANNINI Assistant DirectorGénéral for Education UNESCO Paris
-
-Moscow, March202I
+Ms Stefania GIANNINI
+Assistant Director-General for Education
+UNESCO
+Paris
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-# IV. HH^opMaynn o  pecnoHAeHre
+# IV. Информация о респонденте
 
-CTpana:
+Страна:
 
-POCCUÙCKOH  <I>eàepaifUfi
+Российская Федерация
 
-HMS  pecnoHfleHTa:
+Имя респондента:
 
-JIemyH oecKOH  BuKmopun  OjiezoeHa
+Летуновская Виктория Олеговна
 
-^ojiaaiocTb pecnoHfleHTa:
+Должность респондента:
 
-3aMecmumejib  HanajibHUKa omàena  ffenapmaMeHma MewcàyHapoàuozo  compyàiiUHecmea  u  cefiseù e oôufecmeeHHOcmbw  MuHucmepcmea  npoceeu^eHUfi  POCCUÛCKOÙ <I>eàepai{uu
+Заместитель начальника отдела Департамента международного сотрудничества и связей с общественностью Министерства просвещения Российской Федерации
 
-OpraHHsayiifl:
+Организация:
 
-MuHucmepcmeo  npoceeitfeHiw  POCCUÙCKOÛ C'eàepaifuu
+Министерство просвещения Российской Федерации
 
-3ji.noIiTa:
+Эл.почта:
 
-Letunovskaya-vo@edu. gov.  ru
+Letunovskaya-vo@edu.gov.ru
 
-Tejre^ioH  (yK a»aiTe  KOJS,  CTpaHbi):
+Телефон (укажите код страны):
 
-(495) 587-01-10,  ào6.  3611
+(495) 587-01-10, доб. 3611
 
-flaïa noflaHH:
+Дата подачи:
 
-28HHeapn  2020  zoàa
+28 января 2020 года
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-# V. flpyrne  yqacTHHKM KOHcyj ibTHpO BajiHCb  npH  sanojiHCHHU eonpocHHKa.
+2
 
-no^cajiyiîCTa, yK aafflTe HHMce  {iMeHa^pyrHX  opraHH3au;iiii  H  yqacTHHKOB, e  KOTOpb iMH  KOHcyjibTHpoBajiHCb  npM SanOJIHGHHH  3TOrO  BOnpO CHHKa.
+# V. Другие участники консультировались при заполнении вопросника.
 
-rocyaapCTBeHHbieyHpeavieHMH,  BKJiroiaH  apyrue  MHHncrepcTBa  (npocb6ayKa3aTb):
+Пожалуйста, укажите ниже имена других организаций и участников, с которыми консультировались при заполнении этого вопросника.
 
-MuHucmepcmeo  npoceeufenivi  POCCUÛCKOÛ <Peàepaifuu
+Государственные учреждения, включая другие министерства (просьба указать):
 
-HayHonajibHbie  npaBosauïHTHbie yMpeaçaeHHii (npocbôayK asaTi, ):
+Министерство просвещения Российской Федерации
 
-MecTHbie  H  pemoHajibHbie  opraHbi BjiacTH, oTBCTCTBeHHbie  sa flenTejibHOCTb  B  c4)epe o6pa30BaHHfl (npocbôa  yKa3aTb):
+Национальные правозащитные учреждения (просьба указать):
 
-^(pyrne  MecTHbie H  peruoHajibUbie  opraHU  BJiacrH  (npocb6ayK a3aTb):
+-
 
-OpraHH3aiiHH, npeflCTaBJinrouïHe aaHHTepecoeaHHue  CTOpO HM B  c^epe oôpasoeaHHH (HanpHMep, yqnTejia, yqeHHKH, poflHTejm H T.  fl)  (npocbôa yKa3aTt>):
+Местные и региональные органы власти, ответственные за деятельность в сфере образования (просьба указать):
 
-flpyrne opranH3auH H  rpa^aaHCKoro  oôiyecTBa (npocb6ayK a3aTi>):
+-
 
-JI,pyme (npocbôa yKa3aTb):
+Другие местные и региональные органы власти (просьба указать):
+
+-
+
+Организации, представляющие заинтересованные стороны в сфере образования (например, учителя, ученики, родители и т. д.) (просьба указать):
+
+-
+
+Другие организации гражданского общества (просьба указать):
+
+-
+
+Другие (просьба указать):
+
+-
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-# VI. BonpocHHK
+3
 
-## A. 3aKOHOflaTejiï>Hbie aicru H nojiHTHKa  (npeaMÔyj ia H  nyH iCTu 4 H 7  PeKOMwàai^uu  1974  z.)
+# VI. Вопросник
 
-Al  a. noacajiyiicTa, onHmiiTe jiioGue KOHKpeTHue Hau, HOHajibHbie HJIH cyÔHauH OHajibHbie saKOHbi, 3aKOHOflaTejibHbie  aKTbi HJIH HOpMaTHBHO-npaBOByio  6a3y  B  BameH CTpaHe,  KOTOpue  peryj iHpyiOT npoflBH2ceHHeo6pa30BaHHaBo6jiacTHrjio6aj[bHOHrpaayiaHCTBeHHOCTH(GCED) H/HJIH o6pa30BaHHfl B HHTepecaxycToiiqHBoro  pa3BHTa  (ESD).  O&bacHHTe,  ynoMHHaiOTca  nii  TCMbi  GCEDH/HJIH ESD  aBHO  HJIH noflpasyMeBaiOTca,  H KaKHe  Tnnti  HJJH  ypoBHH o6pa30BaHHa  oxBaTBiBaioTca.
+## A. Законодательные акты и политика (преамбула и пункты 4 и 7 Рекомендации 1974 г.)
 
-npaBOBue,  opraHHsayH OHHbie H  BKOHOMHqeciaie  OCHOBLI  o6pa30BaHHa  B POCCHÎÎCKOH  (EeflepayHH,  ocHOBHbie npH Hynnti rocyflapcTBeHHoîi nojiHTHKii POCCHHCKOH  Oe^epayH H  B  c4)epe  o6pa30BaHHH, o6iyHe  npaBHjia (l)yH KitHOHHpoBaHHacHCTeMi>io6pa30BaHHaHocyuiecTBjieHHao6pa30BaTejibHOH fleHTejitHOCTH 3aKpenjieHbi B Oeflepaj&HOM  saKone  OT 29  aeKaôpa  2012 r. 273 -03  «06  oôpasoBaHHH  B POCCHHCKOH <I)eflepayH H»  (^ajiee 3aKOH  06  oôpasoBaHHH).
+A1a. Пожалуйста, опишите любые конкретные национальные или субнациональные законы, законодательные акты или нормативно-правовую базу в вашей стране, которые регулируют продвижение образования в области глобальной гражданственности (GCED) и/или образования в интересах устойчивого развития (ESD). Объясните, упоминаются ли темы GCED и/или ESD явно или подразумеваются, и какие типы или уровни образования охватываются.
 
-npeflMeTOMperyj mpoBaHHa3aKOHao6o6pa30BaHHHaBjiHK>TCflo6iiiecTBeHHtie OTHomeHHa, B03HHKaioiiiHe B c4>epe o6pa30BaHHa  B CBSSW e  peanHsayH eH  npaBaHa  o6pa30BaHHe,  oôecneqeHHeMrocyflapcTBeHHbix rapaHTHÎî npaB  H  CBoôofl  qejioBeKa  B  c<})epe o6pa30BaHHa  H co3flaHHeM  ycjioBHH  ^jia  peajrasayH H  npaBa  Ha  oôpasoBaHHe.
+Правовые, организационные и экономические основы образования в Российской Федерации, основные принципы государственной политики Российской Федерации в сфере образования, общие правила функционирования системы образования и осуществления образовательной деятельности закреплены в Федеральном законе от 29 декабря 2012 г. № 273-ФЗ «Об образовании в Российской Федерации» (далее – Закон об образовании).
 
-B  COOTBeTCTBHH  CO  CTaTCH 43  KoHCTHTyyH H  POCCHHCKOH QeflepayH H  H  cTaTbeii  5 3aKOH 06  o6pa30BaHHH B PoccHHCKoii  OeflepayH H  rapaHTHpyiOTca oôiyeaocTynHOCTb  H ôecnjiaTHOCTb  o6pa30BaHna  B cooTBeTCTBHH e 4)e^epam>HbiMH rocyaapcrBeHHbiMH oôpasoBaTejibHbiMH  CTaHflapT aMM HaiajibHoro  o6iyero,  ocHOBHoro  oôiyero H cpeanero  oôiyero  o6pa30BaHHa.
+Предметом регулирования Закона об образовании являются общественные отношения, возникающие в сфере образования в связи с реализацией права на образование, обеспечением государственных гарантий прав и свобод человека в сфере образования и созданием условий для реализации права на образование.
 
-CTâTLaS  3aKOHao6o6pa30BaHHHonpeaejiaeTOCHOBHfcienpH HLiHnbirocy/];apcTBeHHOH HOHHTHKH H  npaBOBoro peryj iHpO BaHHa  oTHomeHHH B  c^epe  o6pa30BaHHa: ryM aHHCTHqecKHii xapaKTep  o6pa30BaHHa,  npH opH Ter  3KH3HH H 3flopoBi>a qenoBeKa,  npaB  H  CBoQoji. îiîpmoc'm, CBo6oflHoropa3Bm'ii3jiHIiHocTH, BocnHTaHHe  B3aHMoyB a5KeHHH, TpyflOJDoôna,  rpa^viaHCTBeHHOCTii, naTpH OTH3Ma,  OTBeTCTBeHHOCTH, npaBOBOH  KyjibTypu, ôepe^aioro  OTHomeHHa K  npHpo^e H OKpyacaioiyeH  cpe^e, payiiOHaHbHoro npiipoflonojib30BaHiiH; eflHHCTBO o6pa30BaTejibHoro npocTpaHCTBaHaTeppH TopH HPocciïiiCKoii  OeaepaiiHH, 3am, iiTaiipa3BHTHe3THOKyj ii>TypH ux  ocoôeHHocTeiî H TpaflHiîHH  HapoflOB  POCCHHCKOH  QeflepayH H B  ycjiOBHîix  MHoroHayH OHanbHoro  rocyaapcTBa ; CBoôojia  Bbi6opa nojiyi eHHa o6pa30BaHHa corjiacHO CIUIOHHOCT^M H noTpeônocTaM qejioBeKa, cosAaHne ycjioBHH ^JIH caMopeajm3auiiiH Ka^vioro nenoBeKa, CBo6oflHoepa3BHTHe ero  cnocoÔHOCTeH,  BKjiioqaa  npeflocTaBJieHHe npaBa Bbi6opa 4>opM nonyqeHHa oôpasoBaHHa,  (j)opM  oôyqeHHH, opraHH3ayHH,  ocyuiecTBJiaioiyeH oôpasoBaTejibHyio fleaTejitHOCTi>, HanpaBJieHHOCTHo6pa30BaHHaBnpeaejiax,npeflocTaBjieHHtixcHCTeMOH  o6pa30BaHHa,  a TâKace npeflOCTaBJieHiie ne^aroniqeciaiM paôoTHHKaM CBoôoflM B  Bbiôope  4>opM  oôyqeHH^,  MeTOflOB  oôyqeHHa H BocnHTâHHa;  oôecneneHHe  npaBa Ha o6pa30BaHHe  B TeqeHHe Bceii  aai3HH  B cooTBeTCTBHH  e noTpeÔHocTaMH JIHHHOCTH, aflaïïTHBHOCTb CHCTeM&I  OÔpa30BaHHH  K  ypO BHK)  HOflrOTOBKH,  OCOÔeHHOCTaM  pa3BHTH3,  CnOCOÔHOCTaM H HHTepecaM  qejioBeKa.
+В соответствии со статьей 43 Конституции Российской Федерации и статьей 5 Закона об образовании в Российской Федерации гарантируются общедоступность и бесплатность образования в соответствии с федеральными государственными образовательными стандартами начального общего, основного общего и среднего общего образования.
 
-CTâTba 10 3aKOHa 06  o6pa30BaHHH  ycTaHaBmiBaer cjie^tyioiyH e  ypO BHH  oôiyero  o6pa30BaHira:
+Статья 3 Закона об образовании определяет основные принципы государственной политики и правового регулирования отношений в сфере образования: гуманистический характер образования, приоритет жизни и здоровья человека, прав и свобод личности, свободного развития личности, воспитание взаимоуважения, трудолюбия, гражданственности, патриотизма, ответственности, правовой культуры, бережного отношения к природе и окружающей среде, рационального природопользования; единство образовательного пространства на территории Российской Федерации, защита и развитие этнокультурных особенностей и традиций народов Российской Федерации в условиях многонационального государства; свобода выбора получения образования согласно склонностям и потребностям человека, создание условий для самореализации каждого человека, свободное развитие его способностей, включая предоставление права выбора форм получения образования, форм обучения, организации, осуществляющей образовательную деятельность, направленности образования в пределах, предоставленных системой образования, а также предоставление педагогическим работникам свободы в выборе форм обучения, методов обучения и воспитания; обеспечение права на образование в течение всей жизни в соответствии с потребностями личности, адаптивность системы образования к уровню подготовки, особенностям развития, способностям и интересам человека.
 
-- flomKOJibHoe o6pa30BaHHe;
+Статья 10 Закона об образовании устанавливает следующие уровни общего образования:
 
-- HaqajibHoe oôiyee  oSpasoBaioie;
+1) дошкольное образование;
+2) начальное общее образование;
+3) основное общее образование;
+4) среднее общее образование.
 
-- ocHOBHoe oôiyee  o6pa30BaHHe;
+Уровни профессионального образования:
 
-- cpe^Hee oôiyee  o6pa30BaHHe.
-
-YpoBHH  npo<j)eccHOHajii>Horo  o6pa30BaHHa:
-
-- cpe^nee npo^ieccHOHajitHoe o6pa30BaHHe;
-
-- Bucmee  o6pa30BaHHe  -  SaKanaBpiiaT;
-
-- Bbicmee  oôpasoBaHHe  -  cneyiîajmTeT, MamcTpaTypa;
-
-- 4  BBicmee  06  a30BaHHe -  noaroTOBKa  Kâfl  OB Bbicmeii  KBajiH HKayHH.
+1) среднее профессиональное образование;
+2) высшее образование - бакалавриат;
+3) высшее образование - специалитет, магистратура;
+4) высшее образование - подготовка кадров высшей квалификации.
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
-- A  l  b. Ro^ajiyH CTa, npeaocTaBbTe  nonmie Ha3BaHHHjiio6bix  3aKOHOB, saKOHOflaTejibHbix  aKTOB  HJIH  HopM aTHBHOnpaBOBoiî ôasu, ynoMMHyT bix  B  Al  a,  H,  ecjiH  B03Moaaio,  yK axHTe Beô-ccujiKH Ha  cooTBeTCTByioiyHe ^OKyM CHTbI.
+4
 
-<Deflepaju>Hi, iH3aKOH«06o6pa30BaHmiBPocciiHCKOHQeAepayH H»OT29AeKa6pa  2012 r. 273-<D3 h ://www. consultant. m/document/cons  doc LAW 140174,
+A1b. Пожалуйста, предоставьте полные названия любых законов, законодательных актов или нормативно-правовой базы, упомянутых в A1a, и, если возможно, укажите веб-ссылки на соответствующие документы.
 
-«KoHCTHTyyH aPoccHHCKOHOeaepaiiHH» (npH HaTa  BcetiapoffHbiM  rojiocoBaHHeMl2  ^eKaôpa  1993 r.e H3MeHeHiMMH, ofloôpeHHbiMH  B xofle  o6m;epoccHHCKoro rojiocoBaHT l Hiojia  2020  r.)
+Федеральный закон «Об образовании в Российской Федерации» от 29 декабря 2012 г. № 273-ФЗ
+http://www.consultant.ru/document/cons_doc_LAW_140174/
 
-ht  ://www. consultant. m/document/cons  doc LAW 28399/
+«Конституция Российской Федерации» (принята всенародным голосованием 12 декабря 1993 г. с изменениями, одобренными в ходе общероссийского голосования 1 июля 2020 г.)
 
-*A2 A2 îlo-KanyvicTa, yKa-xme, KâKHe TeMbi GCED  H ESD  oxBaTMBaioTca  HayH OHaj[i>Hi>iMH  iinH periioHajibHHMH  3aKOHaMH, saKOHoaaTejibCTBOM  HJIH  HOpMaTHBHO-npaBOBoii  6a3oii  B oôjiacra  o6pa30BaHira, BBe^a  cooTBercTByiomH H  HOMep  B  Kaacayio ôejiyro aqenKy.
+http://www.consultant.ru/document/cons_doc_LAW_28399/
 
-KJIIOH: 0  =  HCT,  l =fla,  9  =  HeH3BecTHO,  99=  HenpH MeHHMO  (HanpH Mep,  Koroa AaHHBm ypoBeHb ynpauieuHii  He OTBe4aer 3a  o6pa30Ba ie^
+*A2 A2 Пожалуйста, укажите, какие темы GCED и ESD охватываются национальными или региональными законами, законодательством или нормативно-правовой базой в области образования, введя соответствующий номер в каждую белую ячейку.
 
-Hai(HOHajikHuii | CySHaqnoHajibHMH
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-flomKO jibHoe | Haqajii>Hoe\ cpeflHee | Bbicmee H cpeflHee npo4>ecc HOHâJIbH oe | He^op MajibHO | flomKon bHoe | HaqajibHoe \cpeflHee | BHcme e H cpeAHee npo^ec CHOHajI i>Hoe | He4>op MajitH oe
-l. | Kyj ibTypH oe pa3HOo6pa3HeH TepimMOCTb | 0 | l | l | l | l | l | l | l
-2. | 06pa30BaHHeno BonpocaM reHflepH oro paBCHCTBa | 0 | l
-3. | 06pa30BaHHCB oôjiacTHHpaB qejioBCKa | 0 | l
-4. | Mnp H HenacHJiHe | l | l | 1111
-5. | OôpasoBaHHCB oôjiacTH H3MeHeHH« KJIHMBTa | 0 | l | 1101
-6. | SKojioraiecKaa yC TOHIHBOCTb | 0 | l
-7. BH»HBaHMeii SjiarononyiHe qejioBCKa | l | l
-8. | PaynoHajibHoe HOTpeôneHHe H HpOH3BOaC TBO | 0 | l
+КЛЮЧ: 0 = нет, 1 = да, 9 = неизвестно, 99 = неприменимо (например, когда данный уровень управления не отвечает за образование)
+
+Тема | Национальный: Дошкольное | Национальный: Начальное/среднее | Национальный: Высшее и среднее профессиональное | Национальный: Неформальное | Субнациональный: Дошкольное | Субнациональный: Начальное/среднее | Субнациональный: Высшее и среднее профессиональное | Субнациональный: Неформальное
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+1. Культурное разнообразие и терпимость | 0 | 1 | 1 | 1 | 1 | 1 | 1 | 1
+2. Образование по вопросам гендерного равенства | 0 | 1 | 1 | 1 | 1 | 1 | 1 | 1
+3. Образование в области прав человека | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1
+4. Мир и ненасилие | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
+5. Образование в области изменения климата | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1
+6. Экологическая устойчивость | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1
+7. Выживание и благополучие человека | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
+8. Рациональное потребление и производство | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-- A3 a. OnHmHTe jiioôbie  KOHKpC THbie  TeKyiu, He HauiHOHajitHtie HJIH  cy6Hai(HOHajibHbie  nojiHTHqeciaie Me  u  6a3 HJIH  CT aTemqecKHe  CJIH  B oôjiacTH  o6pa30BaHHfl  B Bamen  cTpaHe,  KOTopbie  cnocoôcTByioT  BocnHTaHHio raoôajibHOH rpaayiaHCTBeHHOCTH  (GCED)  H/HJIH oôpasoBaHHK»  B HHTepecax  ycToîiqHBoro  pa3BHTHa  (ESD). 06î>acHHTe, ynoMHHaiOTcajiHTeMi>iGCEDH/HnHESD3BHOHj[Hno^)a3yM eBaioTca, H  KaKHe THHM  HJIH ypO BHH  o6pa30BaHH3  oxBaTbiBaioTca.
+5
 
-BoHcnojiHeHHenopyI ieHHanpe3HjieHTaPoccHHCKOH<ÏïeflepaiiHHnoBonpocy o  BKJiioqenHH  B  4'e^epajibHbie rocyaapCTBeHHHeo6pa30BaTejibHBiecTaHflapT bi(flajiee-$rOC)Tpe6oBaHHHKocBoeHHio  6a30Bbix 3HaHHH B oôjiacTH oxpaHti OKpyacaioiyeH  cpeai'i H  ycToiiqHBoro pa3BHTHa, B  TOM qncjie e  yieTOM coBpeMeHHfcix npHopH TCTOB  MHpO Boro  cooôu^ecTBa, npeacfle  Bcero  noBecncH fsfia  B oôjiacTH  ycToiiIiHBoropa3BHTHaHa  nepH Ofl W 2030 r.,  napH accKoro  coroameHHa,  npH HHToro 12 js, QKa6ps  2015  T.,  H o6a3aTentCTB  POCCHHCKOH  QeaepayH H B oÔJiaCTH  npOTHBOfleHCTBHa  H3MeHeHHK)  îUIHMaTa  H  coxpaHCHHH GjiaTonpH aTHoii  OKpyacaioiyeH cpejyi i sa  nepH Ofl 2019  r. H HCTeicmHH  nepnoa  2020  r. MHHnpocBeiyeRHa  POCCHH  ocyiyecTBjiaeT  pa6oTy  no  KOHKpeTH3aLiHH TpeôoBâHHH OrOC  KoôpasoBaTejitHMMpeîyj itTaTaM  OCHOBHOH  o6pa30BaTejibHOH  nporpaMMbi HaqajitHoro oSiyero  H OCHOBHOFO  oSuiero  o6pa30BaHHa,  B TOM  HHcjie  B qacTH  3KojiorHnecKH  itejiecooôpasHoro oôpasa  aai3HH, ôesonacHoro  fljra  qejiOBeKa  H oKpyacaroiyeH  ero  cpeflbi.
+A3a. Опишите любые конкретные текущие национальные или субнациональные политические меры, базу или стратегические цели в области образования в вашей стране, которые способствуют воспитанию глобальной гражданственности (GCED) и/или образованию в интересах устойчивого развития (ESD). Объясните, упоминаются ли темы GCED и/или ESD явно или подразумеваются, и какие типы или уровни образования охватываются.
 
-QFOC opneHTHpoBaH na  cTaHOBjieHHe jiH^HOCTHbix xapaKTepH CTHK  BbinycKHHKa, npeAycMaTpH BaioiiiHx BunojiHeHHe npaBHji  3KOjioniI iecKH  yenecoo6pa3Horo o6pa3axH3HH,  ôesonacHoro  fl. nsi qejiOBeKa  K  oKpyaoioiyeii ero cpeflbi.
+Во исполнение поручения Президента Российской Федерации по вопросу о включении в федеральные государственные образовательные стандарты (далее – ФГОС) требований к освоению базовых знаний в области охраны окружающей среды и устойчивого развития, в том числе с учетом современных приоритетов мирового сообщества, прежде всего Повестки дня в области устойчивого развития на период до 2030 г., Парижского соглашения, принятого 12 декабря 2015 г., и обязательств Российской Федерации в области противодействия изменению климата и сохранения благоприятной окружающей среды за период 2019 г. и истекший период 2020 г. Минпросвещения России осуществляет работу по конкретизации требований ФГОС к образовательным результатам основной образовательной программы начального общего и основного общего образования, в том числе в части экологически целесообразного образа жизни, безопасного для человека и окружающей его среды.
 
-H3MeHeHHa  BO OrOC KacaioTca KOHKpeTH3ayH H  Tpe6oBaHHii  K  npe^MeTHbiM pesyj ibTâTaM, CTpyK rype H ycjiOBHaMpeajiH3ayH HOCBoeHHaocHOBHbixo6pa30BaTejii>HbKnporpaMM cooTBeTCTByioiynx  ypO BHeii.  FIpH peajiHsaynn  QFOC  o6pa30BaTenBHBie  pesyj ibTaTH  aocniraioTca B  paMKax  H3yqeHH5  Taiaix  yqe6iO>ix npeflMCTOB, KBK  reoqîa^Hfl,  ecTecTB03HaHHe, ÔHOjioma,  XHMH^, 4)H3HKa, OCHOBBI  ôesonacHOCTH  ^aisHegeaTejibHOCTH, TexHoiioraa, 3KOJioraa, B  paMKax BHeypoiHOH fleaTejibHOCTH H  nporpaMMbi coyH ajiHsayH H  H  BocniîTaHiia oQyqaiouiHxca.
+ФГОС ориентирован на становление личностных характеристик выпускника, предусматривающих выполнение правил экологически целесообразного образа жизни, безопасного для человека и окружающей его среды.
 
-B HacToaiyee  BpeMa MHHHcrepC TBOM  B  paMKax 4)eflepajitHoro npoeicTa «CoBpeMeHnaa  uiKona»  HayHOHaiibHoro npoeicra «06pa30BaHHe»peajiH3yiOTCT MeponpHSTHa,  npeflycMaTpH BaioiyH e no3ranHoe  oÔHOBjieHiie  d'rOC H BHeflpeHHe Ha HX ocHOBe  npH MepH bix OCHOBH&IX  o6pa30BaTejibHbix nporpaMM  B qacTH  onpeAejieHna  6a30Boro coflepacaHHa  oTflejibHbK. qacTeii  yqeÔHtix  npeflMeTOB, flHcyH njmH  (Mo/iyj ieii),  B TOM qHcjie  e  yqeTo  M  o CBO eHna 6a30BBK  3HaHHH  B oÔJiaCTH OXpaHBI  OKpyacaiouieîi  cpeffbi  H ycToîiqHBoro  pasBHTHa.
+Изменения во ФГОС касаются конкретизации требований к предметным результатам, структуре и условиям реализации освоения основных образовательных программ соответствующих уровней. При реализации ФГОС образовательные результаты достигаются в рамках изучения таких учебных предметов, как география, естествознание, биология, химия, физика, основы безопасности жизнедеятельности, технология, экология, в рамках внеурочной деятельности и программы социализации и воспитания обучающихся.
 
-KpO Me  Toro,  MHHnpocBeiyeHHfl  POCCHH  yTBepavieno 85 <IïrOC  cpeAHero  npof^eccHOHaiibHoro  o6pa30BaHHX (aajiee -  CFtO),  B TOM  qHcjie 44  OFOC  CnO  no 50  HaHÔojiee  BOCTpeôoBaHHbiM H nepcneKTHBHMM npo<|)eccHaM H  cneyH ajibHOCTaM,  B  pe3yj ibTaTe ocBoeHna  KOTopux y  BbinycKHHKa AOjiauia 6biTb  c(|>opM HpoBaHa o6uïaa KOMneTeHyaa «CofleâcTBOBaTb coxpaHeHHio OKpyacaiouieH cpeflbi, pecypcoc6epe3îeHHio,  34)4>eKTHBHO aencTBOBaTb B  HpesBbiqaHHbix CHTyayH ax».
+В настоящее время Министерством в рамках федерального проекта «Современная школа» национального проекта «Образование» реализуются мероприятия, предусматривающие поэтапное обновление ФГОС и внедрение на их основе примерных основных образовательных программ в части определения базового содержания отдельных частей учебных предметов, дисциплин (модулей), в том числе с учетом освоения базовых знаний в области охраны окружающей среды и устойчивого развития.
 
-A3b. HoaîajiyH CTa, npeflOCTaBbTenojiubieHa3BaHHajiio6bixnojiHTHIiecKHXM 6a3biHjiHCT  aTerHqecKHx lejieii  B  ofijiacTH  o6pa30BaHHH,  ynoMHHyT bix  B  A3a,  H,  CCJIH  B03Moa;HO,  yK aatHTe BCÔ-CCMJIKH  Ha cooTBeTCTByiouxne  flOKyM eHTbi.
+Кроме того, Минпросвещения России утверждено 85 ФГОС среднего профессионального образования (далее – СПО), в том числе 44 ФГОС СПО по 50 наиболее востребованным и перспективным профессиям и специальностям, в результате освоения которых у выпускника должна быть сформирована общая компетенция «Содействовать сохранению окружающей среды, ресурсосбережению, эффективно действовать в чрезвычайных ситуациях».
 
-HacTi.  l  noanyH Kra «H»  nyH KTa l  nepel iHa  nopyqeHHH FIpesHfleHTa  POCCHHCKOH  Oeflepaiiim  OT 24  aHBapa  2017 r. Hp-140rc
+A3b. Пожалуйста, предоставьте полные названия любых политических мер, базы или стратегических целей в области образования, упомянутых в A3a, и, если возможно, укажите веб-ссылки на соответствующие документы.
 
-http://www. kremlin. ru/acts/assignments/orders/53775
+Часть 1 подпункта «и» пункта 1 перечня поручений Президента Российской Федерации от 24 января 2017 г. № Пр-140ГС
 
-*A4. yKaaaiTe,  KaKHe  TeMti  GCED  H ESD  oxBaTbiBaroTca HayH OHanbHOH  HJIH  cyÔHayH OHaiibHOH  HOJIHTHKOH, 6a3oâ  HJIH cTpaTerHqecKHMH  yejiaMH B oôjiacTH o6pa30BaHHa, BJiHaioiyH MH  Ha Kaayibiii  ypoBCHb o6pa30BaHHa,  nyT CM BBOfla  cooTBeTCTByioiyero qncjia  B  Kaaîflyio 6enyio aqeiÎKy
+http://www.kremlin.ru/acts/assignments/orders/53775
+
+*A4. Укажите, какие темы GCED и ESD охватываются национальной или субнациональной политикой, базой или стратегическими целями в области образования, влияющими на каждый уровень образования, путем ввода соответствующего числа в каждую белую ячейку.
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-*A5  no»ajiyiicTa, yKaxuiTe,  npeflycMaTpM BaioT JIH Hau, HOHam>Hi>ie HJIH  cyÔHayH OHanbHbie  nojiHTqecKiie  Mepbi, 6a3a HJIH  CTpaTeraqecKHe  yejiH  B oSjiacTH oôpasoBaHH^  MâHaaT  ua  HHTerpayH io  GCED  H  ESD B cjieflyioupix  oôjiacrax,  BBeaa  cooTBeTCTByioiyee  HHCJIO  B  Kavwyv) 6ejiyio aqeâKy.
+6
 
-^OIUKOJlbHOe | HaiajiiHoe H cpeflnee | Bbicmee H cpeflHee npo^eccHOH ajibHoe | He^iopM ajibHO
---- | --- | --- | --- | --- | ---
-l. | Kyni>TypHoepa3HOo6pa3HeMTepnMMOCTb | l | l | l | l
-2. | 06pa30BaHHenûBonpocaMreHflepH oro paseHCTBa | l | l | l | l
-3. | OôpasoBaHHCB o6jiacTiinpaBIiejiOBeKa | 0 | l | l | l
-4. | Mnp H HeaacHjiHe | l | l | l | l
-5. | 06pa30BaHHeBo6jiacTHH3MeHeHH?i loiHMaTa | 0 | l | l | l
-6. | 3KOJioraIiecKaaycTOHHHBOCTb | 0 | l | l | l
-7. BbiaciiaaHHe H ôjiaronojiyiHe nejioBeKa | l | l | l | l
-8. | PaiiHOHajibHoenoTpeôjieHHCH HpO HSBOflCTBO | 0 | l | l | l
+КЛЮЧ: 0 = нет, 1 = да, 9 = неизвестно
 
-KJIIOq:  0 =  HCT, l =fla,  9 =  HeH3BecTHo
-
-KJIIOH:  0 =  Hem, / =  da,  9 =Heu3eecmm, 99  = HenpuMeHUMO  (Hanpu. uep,  Kozàa  àaHHbwypueeHbynpae. iwuHHeomeeiaem'M oôpasoeauue)
-
-flomKOjibHoe | HaqajibHoeH cpeflnee | Bbicmee H cpeflHee npo4>eccHOH ajibHoe | He^opM ajibHoe
+Тема | Дошкольное | Начальное и среднее | Высшее и среднее профессиональное | Неформальное
 --- | --- | --- | --- | ---
-HauH OHani>HLie
-Pa3pa6oTKa HJIH nepecMOTp yneÔHHX nporpaMM | l | l | l | 0
-HocTaHOBKa iiejieft oôyqeHHano aporpaMMC | l | l | l | 0
-Pa3pa6oTKa yqeÔHHKOB | l | l | l | 0
-neAaronpiecKoe o6pa30BaHHe H noflroTOBKa | l | l | l | l
-OqeHKa ycneBaeMOCTHyqaiiiHxca | l | l | l | l
-CyônauHOHajibHBie
-PaspaôoTKa HJIH nepecMOTp yseÔHHX nporpaMM | l | l | l | 0
-HocTaHOBKa yejieii oôyieHHano aporpaMMe | 1 | l | l | 0
-Pa3pa6oTKa yqeÔHHKOB | l | l | l | 0
-neflaroniqecKoe o6pa30BaHHe H noflroTOBKa | l | l | l | l
-OueHKa ycneBaeMOCTHyqauiHxca | l | l | l | l
+1. Культурное разнообразие и терпимость | 1 | 1 | 1 | 1
+2. Образование по вопросам гендерного равенства | 1 | 1 | 1 | 1
+3. Образование в области прав человека | 0 | 1 | 1 | 1
+4. Мир и ненасилие | 1 | 1 | 1 | 1
+5. Образование в области изменения климата | 0 | 1 | 1 | 1
+6. Экологическая устойчивость | 0 | 1 | 1 | 1
+7. Выживание и благополучие человека | 1 | 1 | 1 | 1
+8. Рациональное потребление и производство | 0 | 1 | 1 | 1
+
+*A5 Пожалуйста, укажите, предусматривают ли национальные или субнациональные политические меры, база или стратегические цели в области образования мандат на интеграцию GCED и ESD в следующих областях, введя соответствующее число в каждую белую ячейку.
+
+КЛЮЧ: 0 = нет, 1 = да, 9 = неизвестно, 99 = неприменимо (например, когда данный уровень управления не отвечает за образование)
+
+Область | Дошкольное | Начальное и среднее | Высшее и среднее профессиональное | Неформальное
+--- | --- | --- | --- | ---
+Национальные |  |  |  | 
+Разработка или пересмотр учебных программ | 1 | 1 | 1 | 0
+Постановка целей обучения по программе | 1 | 1 | 1 | 0
+Разработка учебников | 1 | 1 | 1 | 0
+Педагогическое образование и подготовка | 1 | 1 | 1 | 1
+Оценка успеваемости учащихся | 1 | 1 | 1 | 1
+Субнациональные |  |  |  | 
+Разработка или пересмотр учебных программ | 1 | 1 | 1 | 0
+Постановка целей обучения по программе | 1 | 1 | 1 | 0
+Разработка учебников | 1 | 1 | 1 | 0
+Педагогическое образование и подготовка | 1 | 1 | 1 | 1
+Оценка успеваемости учащихся | 1 | 1 | 1 | 1
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-## B. yieÔHbie  njiaHbi  (nyH KTbi 4 H 10-Ï9  PeKOMeHÔaifuu  1974  z.)
+7
 
-Bla. HoîKajiyH CTa,  onHumTe, KaKHM  o6pa30M  GCED  H ESD  BKJiioqeHBi  B mKojiBHbie  nporpaMMbi.  yK asKHTe, npenoflaiOTca jm TCMBI  KBK  OTAejibHBie  npe/iMeTbi HJIH BKjiioqeHbi  B  yI ie6Hbie niiaHbi flpynix  np eflM  eTOB . 06i>acHHTe, ynoMHHaiOTcajiHTeMi>iGCEDH/HJiHESDla[BHOHjiiinoflpa3yM eBaK)Tca,  H  KaKne  Tiinbi  HJIH ypO BHH  OÔpaSOBâHHa  OXBaTbIBaiOTCa.
+## B. Учебные планы (пункты 4 и 10-19 Рекомендации 1974 г.)
 
-BonpocBi  rjioôajiBHoii  rpaacflaHCTBeHHOCTH H o6pa30BaHHa B HHTepecax  ycTOHHHBoro pasBHTHa  He  HsyqaiOTC» KâK OTfleabHbie  yqeÔHbie  npejiMCTbiB o6pa30BaTejitHi>ixopraHH3aiiHax  o6m;ero H  cpe^Hero npo4>eccHOHajibHoro oôpasoBaHHa.  BMecre e  TCM,  yK a3aHH&ie  BonpocH paccMaTpH BaroTca  B  paMKax  pafla flpynix npeflMeroB.
+B1a. Пожалуйста, опишите, каким образом GCED и ESD включены в школьные программы. Укажите, преподаются ли темы как отдельные предметы или включены в учебные планы других предметов. Объясните, упоминаются ли темы GCED и/или ESD¹ явно или подразумеваются, и какие типы или уровни образования охватываются.
 
-TaK, QFOC ocHOBHoro oôiyero o6pa30BaHHa BKnioqaroT B  ce6a Bonpocbi, cBH3aHHBie e  ocBoeHHeM OCHOB 3KOJIOrHIieCKOH  rpâMOTHOCTH, 4>OpMHpO BaHHeM 3KOJIOrHHeCKOrO MtimjieHHH,  3KOJIOrHlieCKOH  KyjIbTypbI H BKOjiomqecKH  iiejiecoo6pa3Horo  o6pa3a»cH3HH  oôyqaiompxca.
+Вопросы глобальной гражданственности и образования в интересах устойчивого развития не изучаются как отдельные учебные предметы в образовательных организациях общего и среднего профессионального образования. Вместе с тем, указанные вопросы рассматриваются в рамках ряда других предметов.
 
-CoraacHO nyHicry 11. 7 G)rOC ocHOBHoro  oôiqero oôpasoBaHH» HsyqeHHe npeflMeTHOH oôjiacTH «EcTecTBCHHOHayqHBie npe^MCTb]» WJISQIO  o6ecneqHTb, B TOM  qncjie  BocniiraHHe OTBercTBeHHoro H ôepeacHoro OTHomeHHa K  oKpyacaK)iiteïï cpefle;  OBjiaaeHHe  3KocHCTeMHOH no3HaBaTejifcHOH  MOflejiLio H ee  npH MeHeHHe B yeji5xnporH03a3KOHOMHqecKHxpH CKOBfljM3flopO BbajiK)fleH, 6e3onacHocTH  XH3HH, xaqecTBa  OKpyacaioiyeiî cpeflbi;  oco3HaHHe snaqHMOCTH  KOHyenyH H  ycTOHHHBoro pa3BHTHa.  Taicxe B  ^aHHOM CTanflapT e  coflep^aTca TpeÔOBâHIM  K OCBOeHHK) 3KOJIOmqeCKHX 3HaHHH B TâKHX npe^MeTHbIX oQjiaCTS-X., KâK  reorpa^Ha, ÔHOjionia, XHMH8, $H3HKa, TeXHOJIOFHa.
+Так, ФГОС основного общего образования включают в себя вопросы, связанные с освоением основ экологической грамотности, формированием экологического мышления, экологической культуры и экологически целесообразного образа жизни обучающихся.
 
-CoraacHO OFOC  cpeflHero oôiyero oôpasoBaniM  TpeQos&îmsi K npeflMeTHbiM pe3yj ibTaTaM  ocBoeHHa HHTerpHpO BaHHoro  yqeÔHoro npe^MeTa  «3Kojioraa»  floj[»Hbi  OTpaacaTb  B  TOM  HHCJie  c4)opMHpO BaHHOCTt npeacTaBJieHHH  06 3KOJiorHIiecKoii KynbType  KâK  yciioBHH aocTHaceHH» ycToiiqHBoro  (c6ajiaHCHpO BaHHoro) pa3BHTH3  o6m;ecTBa H npHpoflbi, 06  3KojiorHqecKHX CBasax B  CHCTeMe  «qejioBeK-oôiyecTBO-npH pofla», C^OpMHpO BaHHOCTb  JIINHOCTHOFO  OTHOmeHHa  K 3KOJIOrHIieCKHM  L(eHHOCT3M,  MOpajIbHOH OTBeTCTBeHHOCTH 3a 3KOJioraqecKHe  nocjie/icrBHa  CBOHX  fleHCTBHH  B OKpyacaioiiieii  cpeae.
+Согласно пункту 11.7 ФГОС основного общего образования изучение предметной области «Естественнонаучные предметы» должно обеспечить, в том числе воспитание ответственного и бережного отношения к окружающей среде; овладение экосистемной познавательной моделью и ее применение в целях прогноза экологических рисков для здоровья людей, безопасности жизни, качества окружающей среды; осознание значимости концепции устойчивого развития. Также в данном стандарте содержатся требования к освоению экологических знаний в таких предметных областях, как география, биология, химия, физика, технология.
 
-QFOC CF[0  npeaycMaTpH BaiOT  ocBoeHHe oôyqarouïHMiica  TâKHX  oôm.HX  KOMnereHyH H,  KâK:
+Согласно ФГОС среднего общего образования требования к предметным результатам освоения интегрированного учебного предмета «Экология» должны отражать в том числе сформированность представлений об экологической культуре как условии достижения устойчивого (сбалансированного) развития общества и природы, об экологических связях в системе «человек-общество-природа», сформированность личностного отношения к экологическим ценностям, моральной ответственности за экологические последствия своих действий в окружающей среде.
 
-- BbiônpaTb  cnocoôbi  pemeHHH 3aflaq npo^eccHOHajibHofi  fleaTejibHocTH npH MeHHTejitHo K  pasjiHiHHM KOHTeKCTâM;
+ФГОС СПО предусматривают освоение обучающимися таких общих компетенций, как:
 
-. ocyiuecTBJiaTb HOHCK,  anajiHs H  HHTepnpeTayH io  HH^opM ayH H,  Heo6xoflHMOH  fljia  BbinojiHeHHH 3aaaq npo^ieccHOHajitHOH ^eaTejibHOCTH;
+• выбирать способы решения задач профессиональной деятельности применительно к различным контекстам;
+• осуществлять поиск, анализ и интерпретацию информации, необходимой для выполнения задач профессиональной деятельности;
+• планировать и реализовывать собственное профессиональное и личностное развитие;
+• работать в коллективе и команде, эффективно взаимодействовать с коллегами, руководством, клиентами;
+• осуществлять устную и письменную коммуникацию на государственном языке Российской Федерации с учетом особенностей социального и культурного контекста;
+• проявлять гражданско-патриотическую позицию, демонстрировать осознанное поведение на основе традиционных общечеловеческих ценностей;
+• содействовать сохранению окружающей среды, ресурсосбережению, эффективно действовать в чрезвычайных ситуациях;
+• использовать средства физической культуры для сохранения и укрепления здоровья в процессе профессиональной деятельности и поддержания необходимого уровня физической подготовленности;
 
-. njiaHHpoBaTb H peajmsoBbiBaTb coôcrBeHHoe npo<})eccHOHajii>Hoe H jiHqHOCTHoe pa3BHTHe;
-
-. paÔOTâTb  B  KOJIJieKTHBe H  KOMâHfle,  34)4>eKTHBHO B3aHMOfleiiCTBOBaTb  C  KOJIIieraMH,  pyK OBOflCTBOM, KJIHeHTaMH;
-
-. ocyiyecTBJiaTb ycTHyio H niîCbMeHHyio KOMMyHHKayH io  Ha rocyflapcTBeHHOM  si3i,iKe POCCHÎÎCKOH OeaepayH H e  yqeroM ocoôeHHOCTeH coyH ajibHoro  H  KyjibTypH oro  KOHTeKCTa;
-
-. npoaBjiaTbrpa^VïaHCKO-naTpH OTHIiecKyiono3HiîHio, fleMOHCTpH poBaTboco3HaHHoenoBefleHHe Ha  ocHOBe TpaflHiiHOHHbix o6m;eqejioBeqecKHX yeHHOCTeîi;
-
-. coaeîicTBOBaTb  coxpaHenHio  oKpyiKaioiyeH  cpeflBi, pecypcocôepe^ceHHio,  34)$eKTHBHo fleHCTBOBaT& B HpesBtraaHHbix CHTyayHax;
-
-. Hcnojib30BaTb  cpeacTBa  4>iî3HqecKoîi KyjibTypti  wa  coxpaHeHHH  H  yKpenjieHira s^opoBta  B  npoyecce npo4>eccHOHajii>Hofi fleaTejibHOCTHH  noflflep^aHiia  HeoôxoflHMoro  ypoBHa  (})ii3HIiecKOH  noflroTOBJieHHOCTH;
-
-> CM.  CxeMy,  onMcaHHyK ) B  naparpacjîe 11  Pa3p, ena II  HacToaiiiero  pyK OBOflCTBa..
+¹ См. Схему, описанную в параграфе 11 Раздела II настоящего руководства..
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
-- H[cnojii>30BaTi>HH(})opM au, HOHHbie TexHOJionm B  npo^eccHOHajibHOH AeaTejitHOCTO;
+8
 
-- nojib30BaTbca  npo^eccHOHajibHOH ^OKyM eHTameH ua  rocyAapC TBeHHOM H  HHOCTpaHHOM M3UKax;
+• использовать информационные технологии в профессиональной деятельности;
+• пользоваться профессиональной документацией на государственном и иностранном языках;
+• использовать знания по финансовой грамотности, планировать предпринимательскую деятельность в профессиональной сфере.
 
-- HCnOJIb30BaTI>3HaHH5[  nO  4>HHaHCOBOH  rpaMOTHOCTO,  HJiaHHpO BaTb  npeflnpHHHMaTenbCKyio  AeaTejibHOCTb B npo4>eccHOHajibHoii c4>epe.
+B1b. Пожалуйста, предоставьте примеры учебных программ, в которых GCED и/или ESD включены в основное направление, и, где это возможно, укажите веб-ссылки на соответствующие документы.
 
-- Blb. no^ajiyHC'ra, npeaocTaBtTenpH Mepuylie6HtixnporpaMM, BKOTOpb ix  GCED H/HJIH  ESD BKJiioieHbi B ocHOBHoe HanpaaneHHe,  H,  rAe 3TO B03M05KHO,  yK aiKHTe  Beô-ccujTKH Ha  cooTBeTCTByiompe  ^OKyM eHT.
+Темы устойчивого развития включены в примерные основные образовательные программы.
 
-TCMH  yCTOHIIHBOropa3BHTHHBKJIK)qeHI>I  B  npH MCpH bie OCHOBHHe  o6pa30BaTej[bHi, ie  nporpaMMbi.
+На уровне начального общего образования:
 
-Ha  ypO BHe HaqajiBHoro oôiyero o6pa30BaHHH:
+В рамках учебного предмета «Окружающий мир» рассматриваются следующие вопросы: человек – часть природы; зависимость жизни человека от природы; этическое и эстетическое значение природы в жизни человека; освоение человеком законов жизни природы посредством практической деятельности; народный календарь (приметы, поговорки, пословицы), определяющий сезонный труд людей; положительное и отрицательное влияние деятельности человека на природу (в том числе на примере окружающей местности); правила поведения в природе; охрана природных богатств: воды, воздуха, полезных ископаемых, растительного и животного мира; заповедники, национальные парки, их роль в охране природы; Красная книга России, ее значение, отдельные представители растений и животных Красной книги; посильное участие в охране природы; личная ответственность каждого человека за сохранность природы.
 
-BpaMKaxyqe6HoronpeflMera«OKpya(aioiu, HHMHp»paccMaTpH BaioTcacjieflyioLyHeBonpocbi:  qejioBCK  -  qacTb npHpoflbi;  3aBHCHMOCTBXH3HH qenoBCKa  OTnpHpoflbi;  OTHHecKoe H 3CTeTqeCKOe3HaqeHHe npHpOflt!  B  aîH3HH qejioBeKa;  ocBoeHHeqejioBeKOM  3aKOHOB  ^CHSHH  npH po^i noq)eflcrBOMnpaKTqecKOH ^eaTen&Hocm; HapoflHbiH Kajieuaapb (npiiMeTbi, noroBOpK H, nocjioBHyi>i), onpeaejiaioLyH H  cesoHHbiB  Tpya  jiioflea;  nojioîKHTejibHoe H oTpH yaTejiBHoe BJIIMHHC aeaTejibHocT qejioeeKa Ha  npiipoay (e  TOM qHcjie  Ha  npH Mepe  oKpyacaioiyeH Me'CTHOCT); npaBHJia  noBGfs. eîiusi B npH poae; oxpaHa  npiipOAHbix ôoraTCTB:  BOAbi, B03flyxa, nojie3Hbix HCKonaeMbix, pacTHTejibHoro H  MCHBOTHOTO  MHpa;  3anoBeAHHKH, HaynoHajibHMe napK H, HX  pojib B  oxpaHe npHpoflbi;  Kpacnaa  KHiira  POCCHH,  ee  3HaqeuHe,  OTflejibHue npeflCTaBmejiii pacTeHHii  H ^HBOTHbix KpacHoii KHHra;  nocHJibHoe  yiacrHe  B  oxpaHe npHpOAbi;  iiv. 'masi  OTBCTCTBeHHOCTb  Ka>Kfloro  lejiOBQKa sa  coxpaHHOCTb npHpoflbi.
+На уровне основного общего образования:
 
-Ha  ypO BHe  OCHOBHOTO  oôiyero o6pa30BaHH3:
+В рамках учебного предмета «Обществознание» изучаются следующие темы: усиление взаимосвязей стран и народов; глобальные проблемы современности; опасность международного терроризма; экологический кризис и пути его разрешения; современные средства связи и коммуникации, их влияние на нашу жизнь.
 
-B  paMKax yH e6HoronpeflMCTa«06uiecTB03HaHHe»  myqaroTca cjieflyiom. He TeMbi:  yciineHHe B3aHMOCBa3eHCTpaH H  Hapo^oB;  moôajitHbie  npoôneMbi coBpeMeHHocrH;  onacHocTt Me^!iyH aPOAHOro TeppopH3Ma;  3KojiomqecKHH KpH 3HC  H  nyT H ero  pa3pemefflia; coBpeMeHHbie  cpeACTBa  CBHSH  H  KOMMyH HKayH H,  HX BJiHHHHe  Ha  Hamy  mi3Hb.
+*B2 Пожалуйста, укажите, какие темы GCED и ESD преподаются в рамках учебной программы на каждом уровне образования, введя соответствующее число в каждую белую ячейку.
 
-*B2 noxajiyiîcTa, yKaauiTe, KaKHe  TeMH GCED H  ESD  npenoAaioTC^  B  paMKax  yqeÔHoii nporpaMMti  Ha KaacflOM ypO BHe  o6pa30BaHoi,  ssew  coorBeTCTByioiyee  qHCJio B  Kayswym ôejiyi o  HqefiKy.
+КЛЮЧ: 0 = нет, 1 = да, 9 = неизвестно
 
-KJIIOH: 0 =  HCT.  l =aa. 9 = HeHwectHo
-
-flomKOJitHoe | HaqamnoeH cpeflHee | Bbicmee H cpeflHee npo^ieccHOHa jibuoe | He^opM ajitHoe
---- | --- | --- | --- | --- | ---
-l | Kyjiwyp Hoepa3Hoo6p asne H TepH HMOCTt | l
-2. | OGpasoBaHHe no BonpocaM reHflepH oro paaeHCTBa
-3. | 06pa30BaHHeBo6nacTttnpaB qejiOBeica
-4. | Mnp H HCHacHniie | l | l | l | l
-5. | 06pa30BaHHe B oôjiacTH H3MeHeHHH KJIHMaTa | 0 | l | l | l
-6. | 3KOjioraqecKaHycTOHTiHBOCTB | 0 | l | l | l
-7. | BbiaîHBaHHe H ôjiaronojiyuHe qejioBCKa | l | l | l | l
+Тема | Дошкольное | Начальное и среднее | Высшее и среднее профессиональное | Неформальное
+--- | --- | --- | --- | ---
+1. Культурное разнообразие и терпимость | 0 | 1 | 1 | 1
+2. Образование по вопросам гендерного равенства | 0 | 1 | 1 | 1
+3. Образование в области прав человека | 0 | 1 | 1 | 1
+4. Мир и ненасилие | 1 | 1 | 1 | 1
+5. Образование в области изменения климата | 0 | 1 | 1 | 1
+6. Экологическая устойчивость | 0 | 1 | 1 | 1
+7. Выживание и благополучие человека | 1 | 1 | 1 | 1
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
-PaipioHajitHoe noTpeôjieHHe H HpOHSBO^CTBO
----
+9
 
-*B3 Ho^ajiyH CTa,  yKavKïne, no KaKHM  npeflMeTâM  HJIH  o6jiacT«M  o6yqeHH3  GCED H ESD  npenoaaiOTca B HaqajItHOM  H  CpeflHCM o6pa30BaHHH, BBeflH  COOTBeTCTByiOiyH H  HOMep  B  KaaV(OH  ÔejIOH  ^qeHKe.
+8. Рациональное потребление и производство | 0 | 1 | 1 | 1
 
-KJIIOq: 0 = HCT  l =  fla  9 = HeH3BecTHo
+*B3 Пожалуйста, укажите, по каким предметам или областям обучения GCED и ESD преподаются в начальном и среднем образовании, введя соответствующий номер в каждой белой ячейке.
 
-Kyj iBTypn oe pa3Hoo6p a3HCH TepH HMOC Tb | FeHflep HOe paBCHCT BO | HpaBa qejiose Kâ | MnpH HeHaciui He | HsMene HHC KJIHMaT | 3KojiomI iecKaM yC TOHHHBOCTB | BHKHB aHHCH Gjiaron ojiyqne qejIOBCK | PaynoHajibHO noTpe6jie HHC H npOM3BOfl CTBO
---- | --- | --- | --- | --- | --- | --- | ---
-HCKyC CTBO
-FpaayiaHCKoe o6pa30BaHHe
-STHKB/ MopajitHtie HCCJieaOBaHIM
-reorpa<|)iM
-SflOpO BLC, 4>H3HqecKa^ KyjitTypa H cnopT
-HcTOpHa
-^[3UKH
-MaTëMaTHKa
-PejinraosHoe o6pa30BaHne
-HayKa
-OôniecTBOBefl enne | l
-KoMHJieKCHBie MccjieflOBaHHa
-flpyroe (npoctôa yK asaTb)
+КЛЮЧ: 0 = нет, 1 = да, 9 = неизвестно
 
-*B4 noacajiyûcTa, yK âMCHTe  noffxoflbi,  HcnojibsyeMfcie  flJia  oôyqeHHa  GCEDH  ESD  B  HaiajibHOM  H  cpeflHeM o6pa30BaHHH,  BBCfla  COOTBeTCTByiOlU,HH  HOMep  B KaîKflyio  ôejiyio  aqeiiKy.
+Предмет/область | Культурное разнообразие и терпимость | Гендерное равенство | Права человека | Мир и ненасилие | Изменение климата | Экологическая устойчивость | Выживание и благополучие человека | Рациональное потребление и производство
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+Искусство | 1 |  |  | 1 |  |  | 1 | 
+Гражданское образование |  |  |  |  |  |  |  | 
+Этика/моральные исследования | 1 | 1 | 1 | 1 |  |  |  | 
+География |  |  |  |  | 1 | 1 | 1 | 1
+Здоровье, физическая культура и спорт |  |  |  | 1 |  |  | 1 | 1
+История | 1 | 1 | 1 | 1 |  |  | 1 | 
+Языки | 1 |  |  | 1 |  |  |  | 
+Математика |  |  |  |  |  |  |  | 
+Религиозное образование | 1 | 1 | 1 | 1 |  |  | 1 | 
+Наука |  |  |  |  | 1 | 1 |  | 1
+Обществоведение | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
+Комплексные исследования |  |  |  |  |  |  |  | 
+Другое (просьба указать) |  |  |  |  |  |  |  | 
 
-KJIIOH: 0 = HCT, l =aa, 9 =  HensBecTHO
+*B4 Пожалуйста, укажите подходы, используемые для обучения GCED и ESD в начальном и среднем образовании, введя соответствующий номер в каждую белую ячейку.
 
-FjioGaiitHaa rpaayiaHCTBeHHocTt H o6pa30BaHHe/iaaycTOHqHBoropa3BHTT
+КЛЮЧ: 0 = нет, 1 = да, 9 = неизвестно
+
+Подход | Глобальная гражданственность и образование для устойчивого развития
 --- | ---
-GCED/ESD npenoflaioTcaKaKOT^ejibHHe npeAMeTH | 0
-MeacnporpaMMHHH noaxog (HanpH Mep, GCED / ESD npenoàammcsi e ôojiee WM OÔHO npeàMeme, HO HC no eceûyH eÔHoû npozpaMMe)
-KoMnjieKCHHH noflxofl (HanpH Mep, GCED / ESD . npenoàaiomai HO npomswcenuu eceû yneÔHoû npozpaMMbi)
-OôniemKoiibHiiH noflxo^(HanpH Mep, GCED /ESD uHmezpupoeam,i e uiKoxbHyio smuKy, MeHeàaicMewn, pyK oeoàcmeo. yveÔHyio n oz a , noàzomoe Humejieû, n amnu n enoàaeaHua, e eà
+GCED/ESD преподаются как отдельные предметы | 0
+Межпрограммный подход (например, GCED / ESD преподаются в более чем одном предмете, но не по всей учебной программе) | 1
+Комплексный подход (например, GCED / ESD преподаются на протяжении всей учебной программы) | 1
+Общешкольный подход (например, GCED / ESD интегрированы в школьную этику, менеджмент, руководство, учебную программу, подготовку учителей, практику преподавания, среду | 0
 
 [[END OF PAGE 11]]
 
@@ -362,41 +399,40 @@ OôniemKoiibHiiH noflxo^(HanpH Mep, GCED /ESD uHmezpupoeam,i e uiKoxbHyio smuKy,
 
 10
 
-oôywHUfi, a maKWce eywÔHbiû onbim e cooôufecmee u 3KU3Hb sa npeàejiOMU luKOJiw)
----
+обучения, а также в учебный опыт в сообществе и жизнь за пределами школы)
 
-- B5 VKaïKvne,  Karaie TeMbi o6pa30BaHH5i B  o6jiacTH npaB qejioBCKa npenoflaioTca B  paMKax yqeÔHoii nporpaMMbi  Ha KaacAOM  ypO BHe  o6pa30BaH^,  mew  cooTBeTCTByioiyee  HHCJIO B  KaîKiiyK »  ôejiyio aqeHKy.
+B5 Укажите, какие темы образования в области прав человека преподаются в рамках учебной программы на каждом уровне образования, введя соответствующее число в каждую белую ячейку.
 
-KJUO1!: 0 = HCT, l =fla, 9 = HenaBecTHO
+КЛЮЧ: 0 = нет, 1 = да, 9 = неизвестно
 
-flomKojiBHoe | HaqajitHoe H cpeflaee | Bticmee H cpeflHee npo^eccHOHa jibHoe | He4>opM ajibHoe
---- | --- | --- | ---
-3. | OôpasoBaHiie B o6jiacTH npaB qejioBCKa
-3.1 | paBCHCTBO H HeflHCKpHMHHaQHH no npH3HaKy pacH, yBeTa KOXCH, XSHKa, pejIHrHH, HHBajlHflHOCTH, nOJIHTHHeCKHX HJIH HHMX yôeacfleHHii, HaiiHOHanbHoro HIIH coyHajiBHoro npoHCxoxvieima, poacflCHHa HJIH flpyroro CTaTyca
-3.2 | yeHHOCTH apaa qenoBeKa, qejIOBCqeCKOe flOCTOHHCTBO, CHpaBeflJIHBOCTI>,BKJIK)qeHHe H yqacTHe
-3.3 | yB aaccHHe npaB qejiOBeKa H OCHOBHHX CBOÔOA (KâK yK aSâHO B MeîKflyH apoflHiiixKOHBeHtiHax H fleiuiapaiiHax)
+Тема | Дошкольное | Начальное и среднее | Высшее и среднее профессиональное | Неформальное
+--- | --- | --- | --- | ---
+3. Образование в области прав человека |  |  |  | 
+3.1 равенство и недискриминация по признаку расы, цвета кожи, языка, религии, инвалидности, политических или иных убеждений, национального или социального происхождения, рождения или другого статуса | 0 | 1 | 1 | 1
+3.2 ценности прав человека, человеческое достоинство, справедливость, включение и участие | 1 | 1 | 1 | 1
+3.3 уважение прав человека и основных свобод (как указано в международных конвенциях и декларациях) | 0 | 1 | 1 | 1
 
-## HeflaroraqecKoe o6pa30BaHne (BKJiroiaa noaroTOBKy  HHcrpyKropO B H  npenoflaBaTeneii)  (nyH KTbi 4 H 33 37 PeKOMenàatfuu 197  4z.)
+## C. Педагогическое образование (включая подготовку инструкторов и преподавателей) (пункты 4 и 33-37 Рекомендации 1974 г.)
 
-- Cl  a. no5KanyiicTa,  onHmnTe,  KaKHM o6pa30M  GCED H  ESD  yqHTbiBaiOTca npH  HaqajibHOH noflroTOBKe  H B HenpepbiBHOM npo<})eccHOHajibHOM pasBHTHH yqm-ejieH,  HHCTpyK TOpoB  H BocnHTaTejieii.  VKaacHTe,  Bce  JIH yiHTejia, HHCTpyicropbi  H  HpenoflaBaTejm  HJIH TOJIbKO  HeKOTOpbie  H3 HHX flOJUKHU  HpO XOflHTb  HOffrOTOBKy jljia  npeno^aBaHHa GCED  H/HJIH  ESD.
+C1a. Пожалуйста, опишите, каким образом GCED и ESD учитываются при начальной подготовке и в непрерывном профессиональном развитии учителей, инструкторов и воспитателей. Укажите, все ли учителя, инструкторы и преподаватели или только некоторые из них должны проходить подготовку для преподавания GCED и/или ESD.
 
-flj ia  c^epu cpeflHero npo^ieccHOHajibHoro o6pa30BaHT noaroTOBKa  neaaroraqecKiix KaflpoB ocyiyecTBjiaeTca no nporpaMMe «npoctieccHOHajibHoe oôyieHHe (no OTpacnaM)». $rOC CnO no flaHHOH cneyHajibtiocTii npeaycMOTpeHO, '  HTO BbinycKHHK  flojiaceH oôjiaAaTb OÔIUHMH KDMaeTeHUHaMii, BKiiK)qaioiyHMH B  ce6a cnocoÔHOCTb:
+Для сферы среднего профессионального образования подготовка педагогических кадров осуществляется по программе «Профессиональное обучение (по отраслям)». ФГОС СПО по данной специальности предусмотрено, что выпускник должен обладать общими компетенциями, включающими в себя способность:
 
-'nOHHMâTb Cyi IIHOCTb H COQIiaJIbHylO 3HaqHMOCTb CBoeîi ôyflyiueii npo4>eccHH, npoaBjiaTb K HeK ycTOHHHBbiii HHTepec;
+понимать сущность и социальную значимость своей будущей профессии, проявлять к ней устойчивый интерес;
 
-opraHH30BMBaTi> coGcTBCHHyfo aeaTejibHOCTb, onpe^ejiaTi. MCTOflbi pemeHiia npo4ieccHoiiajii>H6ix 3aflaH, OyeHHBâTb HX 34>4>eKTHBHOCTb H KaqeCTBO;
+организовывать собственную деятельность, определять методы решения профессиональных задач, оценивать их эффективность и качество;
 
-oyeHHBaTb  pH CKH  M  iipH HHMaTb  pemeuHa B  uecTaHAapT Hux cH'ryayH ax;
+оценивать риски и принимать решения в нестандартных ситуациях;
 
-ocyuiecTBjiaTb HOHCK, aHajin3 H oyeHKy HH^opMayMH, HeoôxoAHMoB wx nocTaHOBKH H pemeHHa npo(j)eccHOHajibHi, ix  sagaq, npo4)ecciiotiajii>Horo H  jiiiiHOCTHoro  pasBHTMîi;
+осуществлять поиск, анализ и оценку информации, необходимой для постановки и решения профессиональных задач, профессионального и личностного развития;
 
-HCnOHMOBaTb HH4)OpMaUHOHHO-KDMMyH HKaUHOHH6ie TeXHOJIOrHH flJia COBepmeHCTBOBaHHa npo4>eccHOHajii, HOH fleaTensHOCTii;
+использовать информационно-коммуникационные технологии для совершенствования профессиональной деятельности;
 
-paÔOTaTb B KOJIJICKTHBe H KDMâHAe, BSaHMOAeHCTBOBaTb C pyKDBOflCTBOM, KDJIJieraMH H COyHajIbHHMH napT HepaMH;
+работать в коллективе и команде, взаимодействовать с руководством, коллегами и социальными партнерами;
 
-CTaBHTb yejiH, MOTHBHpO BaTb  fleaTejitHocTb oôyqarauiHxcM, opraHHSOBLiBaTi, H KDHTpojiHpO BaTb  HX  pa6oTy e npH HîiTHeM  Ha ce6a  OTBeTCTBCHHOCTH  sa KaqecTBO  o6pa30BaTejit>Horo  npoyecca;
+ставить цели, мотивировать деятельность обучающихся, организовывать и контролировать их работу с принятием на себя ответственности за качество образовательного процесса;
 
-caMOCToaTejibHo onpeflejiaTt 3aaaqH npo(j)eccHOHajiBHoro H jiHHHocTHoro pa3BHTM, saHHMaTbca caMoo6  a30BaHHeM,  oco3HaHHO  njiaHH  OBaTt  noBfcimeHHe KBajin  HKaiiHH;
+самостоятельно определять задачи профессионального и личностного развития, заниматься самообразованием, осознанно планировать повышение квалификации;
 
 [[END OF PAGE 12]]
 
@@ -404,49 +440,40 @@ caMOCToaTejibHo onpeflejiaTt 3aaaqH npo(j)eccHOHajiBHoro H jiHHHocTHoro pa3BHTM,
 
 11
 
-ocyniecTBiiaTB  npo^eccHOHajibHyio  ^eflTejibHOCTb B ycjiOBH^x  oÔHOBjieHiM ee iiejieB,  co^epacaHHa,  CMeHLi TexHononiii; ocyii(ecTBji«TB npo^iuiaKTHKy  TpaBMaTH3Ma,  oSecneqHBaTb  oxpaHy «MSHH H aflopoBM  oôyqarauiHxca; CTpoHTb  npo(})eccHOHajibHyio fleaTejibHOCTt  e  co6jiiofleHHeM npaBOBbix HopM, ee  peryj iHpyiouinx. 06pa30BaTejiLHaa opraHH3ai(Ha, paspaôaTMBaraiyas o6pa30BaTejibHyio nporpaMMy, flojiaîHa onpeAcjiHTb ee cneyn^HKy e yqeTOM HanpaBjieHHocTH Ha yaoBjieTBopeHHe noTpeÔHOCTeîi pH HKa Tpyaa H paôoTogaTejieH, KDHKpeTHSHpoBaTb KOHeiHue pesyj ibTaTLi o6yqeHira B BHge MOMneTeHUHÎi, yM CHHH H 3HaHHii, npH oôpeTaeMoro HpaKTHqeCKDTO  OHbITa.
+осуществлять профессиональную деятельность в условиях обновления ее целей, содержания, смены технологий;
 
-HporpaMMBi HOBLimeHHX KBajiii^HKayH H H npo^eccHOHajibHOH nepeno^roTOBKH HanpaBJieHbi Ha coBepmeHCTBoaaHHe H (HJIH) nojiyieHHe HOBOH KDMneTeHpH H, Heo6xoaHMOH AJIM npo^eccHOHajitHoii fleaTejiLHocTH, H (HJIH) noBtimeHiie npo<})eccHOHajibHoro ypO BHa B paMKax HMeioiitefica KBajiM(j)HKayHH, Ha nojiyneHHe KOMneTeHiiHH, Heo6xoflHMOH ^jia BbinojiHCHHa HOBOTO BHfla npo4>eccHOHajii>HOH  ^eaTenBHOCTH, npH o6peTeHHe HOBOH  KBajiH(})HKayH M. CoflepxcaHHe ^onojiHHTejibHOH npo4)eccHOHajii>Hoii nporpaMMLi oTipey. ejisejcs o6pa30BaTeiiLHoîi nporpaMMofi, paspaôoTaHHoii  H  yT Bep»fleHHOH opraHH3auH eH, ocyiiiecTBjiaiouieH oôpasoBaTejitHyio  fle^TejitHO  CTb, CCJIH  HHoe  He yC TâHOBJieHO SâKDHOM  06 o6pa30BaHHH H flpyrHMH 4)eflePaJII'HtIMH 3aKOHaMH, C yieTOM noTpe6HocTeH jiHiia, opraHHsayHH, no  HHHQHaTHBe  KOToptix  ocyuiecTBnaeTCx  ^onojiHHTejiLHoe  npo^eccHOHanLHoe  o6pa30BaHHe. OôpasoBaTejiLHLie nporpaMMH jiocTynHbi B iiH^opMaiiHOHHO-TeneiroMMyH HKaiiHOHHOii cpefle «HHTepHeT», TâK KBK opraHH3aynH, ocyiuecTBjiaioiiine o6pa30BaTejitHyio js. sfnesiiHocrî, oGasaHH pasMeuiaTb nx Ha OTKpM Ttix pecypcax coroacno  saKOHO^aTejitCTBy  POCCHHCHOH OeflepayH H  B  c^epe  o6pa30BaHHa.
+осуществлять профилактику травматизма, обеспечивать охрану жизни и здоровья обучающихся;
 
-ComacHO  IIpo^eccHOHajitHOMy  CTaH^apTy neflarora, OH flojiaceH:
+строить профессиональную деятельность с соблюдением правовых норм, ее регулирующих.
 
-- BjIâflCTt  4)OPMaMI1  H  MCTOflaMH  BOCHHTaTejIBHOH  paÔOTÈI, HCnOHLSyj I  HX  KaK  Ha  ypoKe,  TBK  H  BO  BHeiuiaccHoîi aeaTCJIbHOCTH.
+Образовательная организация, разрабатывающая образовательную программу, должна определить ее специфику с учетом направленности на удовлетворение потребностей рынка труда и работодателей, конкретизировать конечные результаты обучения в виде компетенций, умений и знаний, приобретаемого практического опыта.
 
-- BnafleTii MCToaaMH opraHHsayH H 3KCKypcHH, noxoflOB H 3KcneflïiyHii.
+Программы повышения квалификации и профессиональной переподготовки направлены на совершенствование и (или) получение новой компетенции, необходимой для профессиональной деятельности, и (или) повышение профессионального уровня в рамках имеющейся квалификации, на получение компетенции, необходимой для выполнения нового вида профессиональной деятельности, приобретение новой квалификации.
 
-- Bjia^eTb MCTOWMH My3 eHHoii neflaroraKH, Hcnojib3ya  nx flJia  pacmHpeHHa Kpyrosopa yqauiHxcA.
+Содержание дополнительной профессиональной программы определяется образовательной программой, разработанной и утвержденной организацией, осуществляющей образовательную деятельность, если иное не установлено Законом об образовании и другими федеральными законами, с учетом потребностей лица, организации, по инициативе которых осуществляется дополнительное профессиональное образование.
 
-- 34)4>eOTHBHO peryjiHpoBâTb  noBefleHue  y^auiHxca wsi oôecneqeHHa 6e3onacHOH oôpasoBaTejibHoîi  cpeflM.
+Образовательные программы доступны в информационно-телекоммуникационной среде «Интернет», так как организации, осуществляющие образовательную деятельность обязаны размещать их на открытых ресурсах согласно законодательству Российской Федерации в сфере образования.
 
-- 3(j)$eKTHBHO ynpaBjiaTb KuaccaMH, e iieflLio BOBJieqenHfl yqeHHKSB B npouecc oQyieHHa  H BocnHTaHHa, MOTHBHpya  HX yqe6HO-no3HaBaTejii>Hyio aeaTejibHOCTL.  CTaBHTt  BocnHTaTeJiBHbie uejiH,
+Согласно Профессиональному стандарту педагога, он должен:
 
-cnocoôcTByioiyH e pa3BHTHK> yqeHHKDB, He3aBHCHMo OT HX npoHcxoacfleHHa, cnocoÔHOCTeii H xapaicrepa, HOCTOSHHO  HCKaTB  neflarorHqecKHe nyT H  nx  flocTHaceHHa.
-
-- ycTanaBjiHBaTb  qeTKHe  npaBiijia  noBefleHHa B Kjiacce B cooTBeTCTBHH  co  uiKDjibHbiM ycTaBOM H npaBHjiaMH nosewîiwi B  oôpasoBaTeJibHOH opraHHsayH H.
-
-- OKaSHBâTI. BCeCTOpO HHIOK)  nOMOUIb H  Tioji.p. epfKKy B  opraHH3ayH H  yqeHHnecKHX opranoB caMoynpaBjieHHa.
-
-- YMCTb oôiyaTi.ca  e  aeTbMH, npH SHâBaa  MX  flocTOHHCTBO, noHHMaa H  npH HHMaa nx.
-
-- VMCTb HaXOflHTb  (o6Hapy»(HBaTt)  UeHHOCTHHH  acneKT  yqeÔHoro  3HaHHa  H  HH(})opM ayH H H oôecneuHBaTL  ero noHHMaHHe  H  nepeacHBâHHe  yqaiyH MHca.
-
-- VMeTb  npoeKTHpoBaTb  H  cos^aBaTb cHTyayH H  H  COÔHTHH, pa3BHBaioiyH e  SMoyHOHajitHO  yeHHocTHyio  c$epy pe6eHKa(KyjibTypy nepeiKHBaHiiii  H  yeHHOCTHHe  opneHTaiiHH  pe6eHKa).
-
-- VMeTb  oÔHapyacHBaTb H peajiHSOBHBaTb  (BonjioniaTi>)BocnHTaTejibHi>ie  BOSMO^HOCTH  pa3jiHHHHX  BHflOB fleaTenLHOCTH pe6eHKa  (yqeÔHoiî, iirpoBOH, TpyflOBoii, cnopTHBHoii, xy^oacecTBeHHoii H  T. fl.).
-
-- VMCTb CTpO HTb BOCnHTaTCJIbHyK ) fleaTeJIbHOCTfc e  yqeTOM KyjiKrypH bix  paajiHqHH /j.eiG», nojtOB03pacTHux H HHflHBHflyajIbHLIX OCoGeHHOCTeîî.
-
-- VMeTb  co3flaBaTi>  B yi eSHbix  rpynnax (luiacce, KpyatKe,  ceKiiHH H  T.n. )  geTCKD-BspocjiLie  OSIQHOCTH  yqaiyH xca, HX poflHTejien  H neflaroroB.
-
-- YMeTb HOflaep2 (HBaTi> K)HCTpyK THBH6ie BocnHTaTejibHbie ycHjina poflHTejieîi (JIHQ, nx 3aMeHaiouiHx) yqaiyHxca, npH BjieKaTb ceMtio  K  pemeHHM  BonpocoB  BOCHHTaHHa  peôeHKa.
-
-- YMeTb COTpyflHHqaTb (KDHCTpyK THBHO B3aHMOfleHCTBOBaTb) e flpyraMH neaaroraMH H cneyH ajiHCTaMii B peuieHHH  BocnnTaTejibHHx 3aaaq (saaaq ayxoBHo-HpaBCTBeHHoro pa3BHTna  pe6eHKa).
-
-- VuGTb  aHajiH3HpoBaTi> peajibHoe cocToaHHe  aeji  B luiacce,  noflflepacHBaTB B fleTCKDM  KojuieKTHBe  flejioByio flpyi KenroÔHyio aTMoc4)epy.
-
-- VMeTb  3aU(HU<aT6  flOCTOHHCTBO  H HHTepecu  yqauiHxca,  noMoraTb  flCTaM,  OKasaBmHMca  B KDH^JIHKTHOH CHTyaiiHH  H/HJIH  He6jiaronpH aTHbix  ycjioBHax.
-
-- FIoflfle a<HBaTi>  yïuiafl, aTMoe  e HT aflHyHH  »H3HH  UIKDJIH, BHoea  B  HHX CBOH  nojio»iiTejibHbiii Bicnafl.
+1. Владеть формами и методами воспитательной работы, используя их как на уроке, так и во внеклассной деятельности.
+2. Владеть методами организации экскурсий, походов и экспедиций.
+3. Владеть методами музейной педагогики, используя их для расширения кругозора учащихся.
+4. Эффективно регулировать поведение учащихся для обеспечения безопасной образовательной среды.
+5. Эффективно управлять классами, с целью вовлечения учеников в процесс обучения и воспитания, мотивируя их учебно-познавательную деятельность. Ставить воспитательные цели, способствующие развитию учеников, независимо от их происхождения, способностей и характера, постоянно искать педагогические пути их достижения.
+6. Устанавливать четкие правила поведения в классе в соответствии со школьным уставом и правилами поведения в образовательной организации.
+7. Оказывать всестороннюю помощь и поддержку в организации ученических органов самоуправления.
+8. Уметь общаться с детьми, признавая их достоинство, понимая и принимая их.
+9. Уметь находить (обнаруживать) ценностный аспект учебного знания и информации и обеспечивать его понимание и переживание учащимися.
+10. Уметь проектировать и создавать ситуации и события, развивающие эмоционально ценностную сферу ребенка(культуру переживаний и ценностные ориентации ребенка).
+11. Уметь обнаруживать и реализовывать (воплощать)воспитательные возможности различных видов деятельности ребенка (учебной, игровой, трудовой, спортивной, художественной и т.д.).
+12. Уметь строить воспитательную деятельность с учетом культурных различий детей, половозрастных и индивидуальных особенностей.
+13. Уметь создавать в учебных группах (классе, кружке, секции и т.п.) детско-взрослые общности учащихся, их родителей и педагогов.
+14. Уметь поддерживать конструктивные воспитательные усилия родителей (лиц, их заменяющих) учащихся, привлекать семью к решению вопросов воспитания ребенка.
+15. Уметь сотрудничать (конструктивно взаимодействовать) с другими педагогами и специалистами в решении воспитательных задач (задач духовно-нравственного развития ребенка).
+16. Уметь анализировать реальное состояние дел в классе, поддерживать в детском коллективе деловую дружелюбную атмосферу.
+17. Уметь защищать достоинство и интересы учащихся, помогать детям, оказавшимся в конфликтной ситуации и/или неблагоприятных условиях.
+18. Поддерживать уклад, атмосферу и традиции жизни школы, внося в них свой положительный вклад.
 
 [[END OF PAGE 13]]
 
@@ -454,38 +481,36 @@ cnocoôcTByioiyH e pa3BHTHK> yqeHHKDB, He3aBHCHMo OT HX npoHcxoacfleHHa, cnocoÔ
 
 12
 
-Clb.  npHBeAHTenpHMepunojiHTHqecKHXMep  HjiHyqeÔHbixnporpaMM  nonoaroTOBKe  yqHTejien,  B  KOTOpbix GCED  H/unH  ESD  BKjiioyenbi  B ocHOBHoe  HanpaBjieHHe, H,  rw  OTO  B03MO>KHO,  aaiiTe  CCMJIKH  Ha cooTBeTCTByrouoieflOKyM eHT  B ceTH  HuTepH er. Ecjm BOSMO^CHO,  BKjiioym'e  npHMepti,  cBa3aHHbie e HaqajibHOH noaroTOBKOH H HenpepbffiHUM npo4)ecciiOHajibHbiMpa3BHTiieM.
+C1b. Приведите примеры политических мер или учебных программ по подготовке учителей, в которых GCED и/или ESD включены в основное направление, и, где это возможно, дайте ссылки на соответствующие документы в сети Интернет. Если возможно, включите примеры, связанные с начальной подготовкой и непрерывным профессиональным развитием.
 
-HporpaMMbi noBbimcHHa KBajiH^HKayH H OrBOy BO «MOCNSBCKHH neflaroraHecKiiH rocyaapcTBeHHHH yHHBepcMTeT»:
+Программы повышения квалификации ФГБОУ ВО «Московский педагогический государственный университет»:
+http://mpgu.su/obrazovanie/dopolnitelnoe-obrazovanie/programmyi-povyisheniya-kvalifikatsii/
 
-htt '://m .su/obrazovanie/do olnitelnoe-obrazovanie/ ro  amm '- o 'sheni a-kvalifikatsii/
+Программы повышения квалификации ФГБОУ ВО «Российский государственный педагогический университет им. А. И. Герцена»
+https://de.herzen.edu.ru/spisok/
 
-HporpaMMbi noBbimeHHa KBajiH4>HKaiiHH OrBOV BO «PoccHHCKHii rocyflapcTBeHHUH neflaroraqeciaiH yH HBepcHTCT MM. A. H.  FepyeHa»
+*C2 Пожалуйста, укажите, прошли ли учителя, инструкторы и преподаватели подготовку для преподавания GCED и ESD во время начальной или предварительной подготовки и/или путем непрерывного профессионального развития. Пожалуйста, введите соответствующий номер в каждую белую ячейку.
 
-h s://de. herzen. edu. ru/s  isok/
+КЛЮЧ: 0 = нет, 1 = да, 9 = неизвестно
 
-*C2 Ho^cajiyH CTa, yKasKHTe, npomjiH HH yqHTejia, HHCTpyK TOpu H npenoflaBaTenH  noflroTOBKy flJia npeno^aBaHHH  GCED H  ESD BO  BpeMH  Haqani>HOH HJIH  npe/iBapH TejitHoii noaroTOBKH H/HJIH  nyT eM HenpepB iBHoro  npo^eccHOHajibHoro  pa3BHTHa.  noîKajiyiicra,  BBeffHTe cooTBeTCTByioiyroi HOMep  B  Kaxayio 6ejiyio aqeHKy.
-
-*C3 HoîKajiyH CTa, yvaxiiTQ,  no  KaKHM  TeMâM  GCED  H ESD  npeflBapH TejibHaa  noaroTOBKa HJIH  oôyqeHHe  6e3 OTpb IBâ  OT  paÔOTM AOCTyH HbI  W!l  yqmejieiî, HHCTpyK TOpoB H  npeiioflaBaTejieil  lia  KaiKSOM  ypoBHe o6pa30BaHHa,  SBQW  cooTBerCTByiouiHH HOMep  B  KaacayK )  ôejiyio aqeftKy.
-
-JI.omKOjitHoe | HaqajibHoeH cpeaaee | Bbicmee H cpeflHee npo^eccHona jibHoe | He^iopM ajitHoe
+Подготовка | Дошкольное | Начальное и среднее | Высшее и среднее профессиональное | Неформальное
 --- | --- | --- | --- | ---
-HaqajibHaa HJIH apeflBapH TejibHa^ noflroTOBKa
-TojibKO flJia yqHTejieâ H36paHHbix npC flMCTOB (nO KOTOpb IM OSHHHO npenoflaiOTGCED HJIH ESD)
-flj ia yqHTejiefi flpymx npeAMCTOB
-HenpepM BHoe npo^ecciiOHajii. Hoe pasBHTHe
-TOJI&KO flJia yiHTejieHH36paHH&ix npeflMCTOB (no KOTOpb IM OÔHHHO npenoflaiOTGCED HJIH ESD)
-flna yqHTenefi flpyrax npeflMeTOB | l | l | l | l
+Начальная или предварительная подготовка |  |  |  | 
+Только для учителей избранных предметов (по которым обычно преподают GCED или ESD) |  |  |  | 
+Для учителей других предметов | 1 | 1 | 1 | 1
+Непрерывное профессиональное развитие |  |  |  | 
+Только для учителей избранных предметов (по которым обычно преподают GCED или ESD) |  |  |  | 
+Для учителей других предметов | 1 | 1 | 1 | 1
 
-KJIIOH: 0 =  HCT, l =aa, 9 = HeH3BecTHO
+*C3 Пожалуйста, укажите, по каким темам GCED и ESD предварительная подготовка или обучение без отрыва от работы доступны для учителей, инструкторов и преподавателей на каждом уровне образования, введя соответствующий номер в каждую белую ячейку.
 
-KJIK)1!: 0 =HCT, l =  fla, 9 =HeH3BecTo
+КЛЮЧ: 0 = нет, 1 = да, 9 = неизвестно
 
-flomKojiLHoe | HaI iajibHoeH cpeflHee | Bticmee n cpe^Hee npo4>ecciiOHa jibHoe | He4>opM ajii>Hoe
---- | --- | --- | ---
-l. | Kyj iwypH oe pasHooôpasne H TepH HMOCTt | l | l
-2. | 06pa30BaHHe no BonpocaM reHflepH oro paaeHCTBa
-3. | OôpasoBâHHe B oôjiacTH npaB
+Тема | Дошкольное | Начальное и среднее | Высшее и среднее профессиональное | Неформальное
+--- | --- | --- | --- | ---
+1. Культурное разнообразие и терпимость | 1 | 1 | 1 | 1
+2. Образование по вопросам гендерного равенства | 1 | 1 | 1 | 1
+3. Образование в области прав | 1 | 1 | 1 | 1
 
 [[END OF PAGE 14]]
 
@@ -493,35 +518,35 @@ l. | Kyj iwypH oe pasHooôpasne H TepH HMOCTt | l | l
 
 13
 
-qejioBCKa
+человека
+
+4. Мир и ненасилие | 1 | 1 | 1 | 1
+5. Образование в области изменения климата | 1 | 1 | 1 | 1
+6. Экологическая устойчивость | 1 | 1 | 1 | 1
+7. Выживание и благополучие человека | 1 | 1 | 1 | 1
+8. Рациональное потребление и производство | 1 | 1 | 1 | 1
+
+*C4 Пожалуйста, укажите, подготовлены ли учителя, инструкторы и преподаватели для преподавания следующих аспектов обучения в GCED и ESD. Пожалуйста, введите соответствующий номер в каждую белую ячейку.
+
+КЛЮЧ: 0 = нет, 1 = да, 9 = неизвестно
+
+Аспект | Дошкольное | Начальное и среднее | Высшее и среднее профессиональное | Неформальное
 --- | --- | --- | --- | ---
-4. Map H HeHaciiJiHe | l | l | l | l
-5. 06pa30BaHHeBo6j[acTH H3MeHeHHa KiiHMara | l | l | l | l
-6. 3KojiorHqecKaxycTo8liHBOCTi> | l | l | l | l
-7. BuacMBaHiie H ôjiaronojiyqHe lejiOBeica | l | l | l | l
-8. PaicHOHajibHoenoTpeGjieHHeH HpOHSBOflCTBO | l | l | l | l
+Знания | 1 | 1 | 1 | 1
+Навыки | 1 | 1 | 1 | 1
+Ценности | 1 | 1 | 1 | 1
+Отношение и поведение | 1 | 1 | 1 | 1
 
-*C4 noacajiyncTa, yKaa;HTe,  noflroTOBjieHbi JIH  ylim'ejia,  HHCTpyKTOpbiHnpenoflaBaTejiH p. jia  npenoaaBaHiia cjieTiyi oiyiix  acneKTOB  o6yI ieHH« B  GCED H  ESD. noacajiyH CTa,  BBeflHTe  cooTBeTCTByioiyH H  HOMep B Kaacayro  ôejiyio  a^eHKy.
+*C5 Пожалуйста, укажите, обучены ли учителя, инструкторы и преподаватели использовать следующие подходы для преподавания GCED и ESD в начальном и среднем образовании, введя соответствующее число в каждую белую ячейку.
 
-KJIIOH: 0 = HCT, l =ga, 9 = HeH3BecTHo
+КЛЮЧ: 0 = нет, 1 = да, 9 = неизвестно
 
-flomKOJIbHO | HaqajiLHoeH cpeflHee | Bfcicmee H cpeAHee npo^eccHO najifcHoe | He4>opM aji&Hoe
---- | --- | --- | ---
-SHâHIM | l | l
-HaBHKH | l | l
-U,eHHOCTH | l | l
-OTHomeHHe H noBCflCHHe | l | l
-
-*C5 ïïoacajiyH CTa, yK aacHTe,  oôyqeHbi  JIH  yqnTejia, HHCTpyK Topbi  H  npenoflaBaTeim  Hcnojib30BaTb  cji  e^yioiyHe noflxoabi  flJia  HpenoffaBaHHa GCED  H ESD  B HaqajiBHOM  H cpeflHeM  o6pa30BaHHH,  BBeaa  cooTBeTCTByioiyee HHCJIO  B Kaacayio  ôejiyioaqeiîKy.
-
-KJIIOH:  0 = H6T, l =fla,  9 = HËH3BeCTHO
-
-rjioôajitHaa rpa»flaHCTBeHHocT6 H o6pa30BaHHe flJiaycToiiqHBoro pasBHTH»
+Подход | Глобальная гражданственность и образование для устойчивого развития
 --- | ---
-GCED/ESD npenoflaioTcaKaKOTflejii>Hue npe^MeTH | 0
-MeacnporpaMMHHH nogxofl (HanpiiMep, GCED / ESD npenoàawmcsi e ôonee HCM OÔHO npeàMeme, HO ne no eceûy'fe6Hoû npozpaMMe) | l
-KoMHJieKCHtiH noflxofl (HanpH Mep, GCED / ESD ïipenoàaiomcfi Ha nponwwcenuu eceûyneÔHoû npozpaMMbi) | l
-06iiieuiKOJi&HMH noflxo^(HanpH Mep, GCED /ESD uHmezpupoeaHW e MKOjibvyio smuKy, MeHeàaicMewn, pyK oeoàcmeo, yH e6iiyw npoepO MMy, noàzomoeKy ynumejieû, npaionuKy npenoàaeaHUfi, cpeày oôyneHUfi, a maKwce eyveôfibiû onbim e cooôu^ecmee u oKU3Hb sa npeàenaMU MKOjibi) | 0
+GCED/ESD преподаются как отдельные предметы | 0
+Межпрограммный подход (например, GCED / ESD преподаются в более чем одном предмете, но не по всей учебной программе) | 1
+Комплексный подход (например, GCED / ESD преподаются на протяжении всей учебной программы) | 1
+Общешкольный подход (например, GCED / ESD интегрированы в школьную этику, менеджмент, руководство, учебную программу, подготовку учителей, практику преподавания, среду обучения, а также в учебный опыт в сообществе и жизнь за пределами школы) | 0
 
 [[END OF PAGE 15]]
 
@@ -529,38 +554,38 @@ KoMHJieKCHtiH noflxofl (HanpH Mep, GCED / ESD ïipenoàaiomcfi Ha nponwwcenuu ec
 
 14
 
-## D. OyeHKa yqaiyH xca  (n.  4 H 5  PeKOMenàaifuu 1974  z. )
+## D. Оценка учащихся (п. 4 и 5 Рекомендации 1974 г.)
 
-- D  l  a. Ho^ajiyâcTa,  onHuiHTe, KBKHM  o6pa30M GCED  H  ESD  BioiroqeHbi  B  oyeHKM  H  3K3aMCHBi  yqau<Hxea. YKamiTe, oyeHHBaioTca JIH  yqaiyH eca  TojibKO Ha  ocHOBaHHH HX  3HaHHH H  HaBbiKOB,  cBasaHHbix e npOBepaeMbiMH  TeMâMH, HJIH  Taioe ua ocuoBe HX ueHHOCTeH,  OTHomeioix  H/HJIH noBewtmsi.
+D1a. Пожалуйста, опишите, каким образом GCED и ESD включены в оценки и экзамены учащихся. Укажите, оцениваются ли учащиеся только на основании их знаний и навыков, связанных с проверяемыми темами, или также на основе их ценностей, отношения и/или поведения.
 
-B yenax  oôecneqeHiu  peajiH3ayH H 3aKOHa 06  o6pa30BaHHH ocyiyecTBnaeTca  MOHHTOpM Hr cHCTeMbi  o6pa30BaHHa POCCHHCKOH QeaepayH H.
+В целях обеспечения реализации Закона об образовании осуществляется мониторинг системы образования Российской Федерации.
 
-OyeHKa KaqecTBa  noflroTOBKHoGyqaioiitHxcaB POCCMHCKOH  Oe^epayH H B  HacToauieeBpeMa BKjiioiaeTTpH OCHOBHMX rpynnbi  oyeHoqHbix  npoueAyp.  K HKM  OTHoeaTca:
+Оценка качества подготовки обучающихся в Российской Федерации в настоящее время включает три основных группы оценочных процедур. К ним относятся:
 
-- BHyT pH iuKOJibHMH  MOHHTOpH ur  KaiecTBa ROflroTOBKH  o6yHaiou<iixca,  oôecneqHBaioiyH HTeKyi yiîH  KOHTpojib 3HaHHii, npoMea(yT oqHyioaTTecTauHK), HBKjiK)IiaioiiiHHoiieHKyyI ie6Hi>ixH  oôpasoBaTejibHbixflocTHiKeHHiioôyqarouiHxca;
+• внутришкольный мониторинг качества подготовки обучающихся, обеспечивающий текущий контроль знаний, промежуточную аттестацию, и включающий оценку учебных и образовательных достижений обучающихся;
 
-- npoyeaypbi rocyflapcTBeHHoîi HTOTOBoîi aTTecTayHH, KOTOpaa cny?KHT an» oyeHKH  CTeneHH  H  ypO BHa ocBoeHHa o6yi aiouiHMHca oôpasoBaTejiBHUX nporpaMMH  OTÔopa  BbmycKHHKOB o6u<eo6pa30BaTejibHbix  opraHH3aQHHflJia npoflonaceHHH oôyqeHHa Ha  flpyrax ypoaMx o6pa30BaHT;
+• процедуры государственной итоговой аттестации, которая служит для оценки степени и уровня освоения обучающимися образовательных программ и отбора выпускников общеобразовательных организаций для продолжения обучения на других уровнях образования;
 
-- MOHHTopH HroBbie HccjieflOBaHH»  (pemoHajibHfcie,  HaiiHOHajibHtie  H  Me«flyH apoflHt>ieiiccjieAOBaHT), KOTOpbie no3BOjiaioT  o6Hapy«HTi>pa3nHqHtie 4)aKTOpi,i, OKa3MBaK>uiHe3HaqHTejibHoe BjinaHHe na  o6pa30BaTejii>mieflocTH»eHHa oôyqamuiHXca.  ^eTajibHbift  aHajins 3THX  4>aKTOpoB  no3BojiaeT  onpefleniïTB nyT H  pemeHHa,  HanpaBjieHmie  Ha CHHaceHHe HJIH ycTpaHCHHe  HeraTHBHO  BJiHaroiyHx Ha  o6pa30BaTenbHbie  flocT}KeHHa  4>aKTOpoB.
+• мониторинговые исследования (региональные, национальные и международные исследования), которые позволяют обнаружить различные факторы, оказывающие значительное влияние на образовательные достижения обучающихся. Детальный анализ этих факторов позволяет определить пути решения, направленные на снижение или устранение негативно влияющих на образовательные достижения факторов.
 
-B Kaavioii  H3  aaHHbixnpoyeayp Hcnojii>3yeTca coBpeMeHHuii iiHCTpyMeHTapH H, HanpaBJieHHi>mHa  ouenKy  Bcero  cneKTpa TpeôoaaHHii  (ÏFOC  K  ypoBHM  noflroTOBKH  o6yqaioiyHXM, B TOM iHcjie Ha  oueHKy  yM CHHfl BunojiHaTb  yqeÔHO no3HaBaTejii>Hi>ieHyt ie6HO-npaKTH4ecKHe3aflaHHanooTflejii>HUMnpeflMeTaM.
+В каждой из данных процедур используется современный инструментарий, направленный на оценку всего спектра требований ФГОС к уровню подготовки обучающихся, в том числе на оценку умения выполнять учебно - познавательные и учебно-практические задания по отдельным предметам.
 
-OeflepajibHbiMopraHOMHcnojiHHTejibHOHBJiacTH. ocyuiecTBjiaioutHM^yH KiiHH  no  HOpM aTiiBHO-apaBOBOMy peryjiHpoBBHHioB c4>epe rocyflapcTBeHHOHperoaMeHTayH iio6pa30BaTem. HOHAeaTejibHocTH,({)yHKyH H  no  KOHTPOJIK) M uaflîopy B  c4>epe  o6pa30BaHHMHHayK H,  aBjiaeTca  QeflepajibHaa cjiyîsôa  no  Hafl3opy B  c4)epe  o6pa30BaHna  H  HayK H.
+Федеральным органом исполнительной власти, осуществляющим функции по нормативно-правовому регулированию в сфере государственной регламентации образовательной деятельности, функции по контролю и надзору в сфере образования и науки, является Федеральная служба по надзору в сфере образования и науки.
 
-*D2 yKanaiTe,  BKJiioqaiorca  JIH  yK asaHHbie  HH»e  TeMbi  GCEDH ESD  B oyeHKH  yiauiHXCH  HJIH  3K3aMeHbi  Ha Ka^flOM  ypoBHe o6pa30BaHHH, nyT eM BBOfla  cooTBCTCTByioiyero  HHCJia B  KavwyîO ôejiyro aqeâKy.
+*D2 Укажите, включаются ли указанные ниже темы GCED и ESD в оценки учащихся или экзамены на каждом уровне образования, путем ввода соответствующего числа в каждую белую ячейку.
 
-KJIK)1!: 0 = HCT,  l =ga, 9 =  HeiHBecTHo
+КЛЮЧ: 0 = нет, 1 = да, 9 = неизвестно
 
-, Q,omKOJi£Hoe | Hanajii-HoeH cpeflHee | BBicmee H cpeAHee npo^eccHO Hanbuoe | He4>opM ajiBHoe
---- | --- | --- | --- | --- | ---
-l. | Kyj ibTypH oe pa3HOo6pa3He H TepimMOCTb | 0 | l | l | l
-2. | OôpasoBaHHeno BonpocaMreHflepH oro paBCHCTBa | 0 | l | l | l
-3. | OôpasoBâHHeB o6jiacTHnpaBiejiOBeKa | 0 | l | l | l
-4. | Mnp H HCHacHjine | 0 | l | l | l
-5. | 06pa30BaHHeBo6jiacTHH3MeHeHHa KjiHMara | 0 | l | l | l
-6. | SKOjioraqecKaaycTOHHHBocTb | 0 | l | l | l
-7. | BuacHBaHHe H 6iiarononyt iiieqejiOBeKa | 0 | l | l | l
-8. | PaiiHonanbHoenoTpeôjieHHeH HpOHSBOflCTBO | 0 | l | l | l
+Тема | Дошкольное | Начальное и среднее | Высшее и среднее профессиональное | Неформальное
+--- | --- | --- | --- | ---
+1. Культурное разнообразие и терпимость | 0 | 1 | 1 | 1
+2. Образование по вопросам гендерного равенства | 0 | 1 | 1 | 1
+3. Образование в области прав человека | 0 | 1 | 1 | 1
+4. Мир и ненасилие | 0 | 1 | 1 | 1
+5. Образование в области изменения климата | 0 | 1 | 1 | 1
+6. Экологическая устойчивость | 0 | 1 | 1 | 1
+7. Выживание и благополучие человека | 0 | 1 | 1 | 1
+8. Рациональное потребление и производство | 0 | 1 | 1 | 1
 
 [[END OF PAGE 16]]
 
@@ -568,53 +593,43 @@ l. | Kyj ibTypH oe pa3HOo6pa3He H TepimMOCTb | 0 | l | l | l
 
 15
 
-*D3 YKaaaiTe,  KâKHe  H3  yK a3aHHi>ix  HHace  napaMerpoB o6yqeHm  B GCED H ESD oôtiiHO BKjiioqaroTca B ou;eHKH yqaiyH XM HJIH 3K3aMCHbi  Ha  Ka^yiOM  ypO BHe  o6pa30BaHHa,  BBQW  cooTBercTByioiyee  HHCJIO B Kaayiyio  Sejiyro  aqeâKy..
+*D3 Укажите, какие из указанных ниже параметров обучения в GCED и ESD обычно включаются в оценки учащихся или экзамены на каждом уровне образования, введя соответствующее число в каждую белую ячейку..
 
-KJIIO1!;  0 = HCT, l =ga,  9 = HeH3BeCTHO
+КЛЮЧ: 0 = нет, 1 = да, 9 = неизвестно
 
-flomKOJIbHO | HaiajibHoe H cpeflHee | BHcmee H cpeflHee npo^eccHOH ajibHoe | He^iopM ajibHoe
+Параметр | Дошкольное | Начальное и среднее | Высшее и среднее профессиональное | Неформальное
 --- | --- | --- | --- | ---
-3naHHa | 0 | l | l | l
-HaBMKH | 0 | l | l | l
-LI.CHHOCTH | 0 | 0 | 0 | 0
-OTHomeHHe H noBefleHiie | 0 | 0 | 0 | 0
+Знания | 0 | 1 | 1 | 1
+Навыки | 0 | 1 | 1 | 1
+Ценности | 0 | 0 | 0 | 0
+Отношение и поведение | 0 | 0 | 0 | 0
 
-## E. ÂKTyajiH3aiiHa  GCED  H ESD  B 3aKOHax  H HOJIHTHKC,  yie6Hbrx  nporpaMMax, neaaromqecKOM OÔpaSOBBHHH  H 04CHKC  y»iaiI<HXCH  (ïï. 4-5,  7, 10-19  H 33-37 PeKOMeHàaifuu 1974e.)
+## E. Актуализация GCED и ESD в законах и политике, учебных программах, педагогическом образовании и оценке учащихся (п. 4-5, 7, 10-19 и 33-37 Рекомендации 1974 г.)
 
-*E1 OcHOBbiBaaci»  Ha  samHx  OTBeTax  Ha  Bonpocu  B npeflbiqynïHX qerbipex pa3flejiax (saKOHbi H  nojiHTHKa, yqeÔHbie nporpaMMbi,  neflarorHqecKoe o6pa30BaHHe  H  oyeHKa  yqaiyH xca),  yKaaaiTe,  B  KaKOH  CTeneHH BOCHHTaHHe  rjio6ao>HOH  rpaaviaHCTBeHHOcni  (GCED)  H oôpasoBamie  B HHTepecax  ycToiiiHBoro  pa3BHTHa (ESD) BKiiroqeHbi2 B  (a) saKOHbi  H  nojiiiTHKy  B  oôjiacTH  o6pa30BaHHa, (6) y^eÔHbie  nporpaMMH, (s) neflaroraqecKoe o6pa30BaHne  (Biairoqaa  noflroTOBKy HHCTpyKTOpoB  H  npenoflaBaTejiefi)  H  (r) oyeHKy yiauïHxcfl B BameH  CTpaHe.  noacajiyiîCTa, BBeflHTe cooTBeTCTByioiu;im HOMep  B  Kaayiyi o  6ejiyro  aqeHKy B Taôjinye HHace.
+*E1 Основываясь на ваших ответах на вопросы в предыдущих четырех разделах (законы и политика, учебные программы, педагогическое образование и оценка учащихся), укажите, в какой степени воспитание глобальной гражданственности (GCED) и образование в интересах устойчивого развития (ESD) включены² в (а) законы и политику в области образования, (б) учебные программы, (в) педагогическое образование (включая подготовку инструкторов и преподавателей) и (г) оценку учащихся в вашей стране. Пожалуйста, введите соответствующий номер в каждую белую ячейку в таблице ниже.
 
-KJIIOH:
+КЛЮЧ:
 
-- 0 COBCCM HCT
+0 совсем нет — GCED и ESD не являются основными..
 
-- l "laCTHIHO
+1 Частично — Некоторые темы GCED и/или ESD³ широко распространены. Выберите этот вариант, если GCED является основным, а ESD - нет (или наоборот).
 
-- 2  UlHpO KO
+2 Широко — Большинство тем GCED и ESD широко распространены.
 
-- 9 Heu3BecTHo
+9 Неизвестно — Неизвестно, являются ли GCED и ESD основными или нет.
 
-- 99  He  npuMCHHMO
+99 Не применимо — Управление данного уровня не несет ответственности за данный компонент (политику, учебные программы, педагогическое образование или оценку учащихся) и/или не несет ответственности за данный уровень или тип образования. Это может происходить на национальном уровне в федеративных странах, где образование находится в ведении отдельных регионов, или на субнациональном уровне в небольших странах, где существует только один уровень управления.
 
-GCED  u ESD  HeMjiwomcH  ocHoeHbwu. .
+Компонент | Дошкольное | Начальное и среднее | Высшее и среднее профессиональное | Неформальное
+--- | --- | --- | --- | ---
+Национальный |  |  |  | 
+(a) Законы и политика в области образования | 2 | 2 | 2 | 2
+(b) Учебные планы | 99 | 99 | 99 | 99
+(c) Педагогическое образование | 2 | 2 | 2 | 2
 
-HeKomopbie  meMbi  GCED  u/wiuESD3 wupoKo  pacnpocmpaHCHbi.  Bbiôepume 3mom  eapuamn,  ecjiu GCED  fiejiomcsi ocHoeHbui,  a ESD  -  Hem  (ujiu  uaoôopom).
+² GCED и ESD являются основными, если их темы прямо упомянуты в соответствующих документах и, как ожидается, будут реализованы соответствующими органами (например, министерствами, региональными или местными органами управления образованием), образовательными учреждениями (например, школы, колледжи и университеты) и/или специалистами в области образования. (например, учителя, лекторы, инструкторы и преподаватели) по мере необходимости.
 
-EonbwuHcmeo  meM  GCED  u ESD  luupoKopaoipocmpaHeHbi.
-
-HeuseecmHo,  aejiMomcftjiu  GCEDuESDocHoaibiMU  ujiunem.
-
-VnpaexeHue  àaHHOzoypoewi ne  necem  omeemoneeHHOcmusa  àaHHbiû KOMnoHewn  (nonumuKy,  yveBHbie  npozpdMMbi, neàazozuwcKoeo6po3oeaHueujiuoifeHKyyM upiXC!i)u/wiuHeHecemomeemcmeeHHocmu3aàaHHbwypo6eHbujiumun o6pa3o«aHW.  3moMow:em  npoucxoàumb  HO  HaifuoHcuibHOMypoeHe e ij)eàepamu6Hba  cmpaHax,  zàe  oôpasoemiue Haxoàumca  e eeàwuu omàejibHbacpezuome, ujiu M cySHatpioHcvibHOMypoeHe  s Heôojiwuux cmpmiax,  zàe  cyufecmeyem inojibKO  oàuHypoewbynpaejieHUH.
-
-flomKojiLHoe | HaqajiBHoencpe/iHee | fcicmee H cpeflHee npo^eccHOHajibHO | He^opM aji&Hoe
---- | --- | --- | ---
-auH OHajibHbiii
-(a) SaKOHBi H nojiHTHKa B oQnacTH oôpasoBaHHa
-(b) yqeÔHbie njiaHH | 99 | 99 | 99
-(e) neaaroraqecKoe oôpasoBâHHe
-
-> GCED M  ESD flBnflK)TCfl OCHOBHblMM, ecnv\ MX TeMbi  npflMO  ynoMflHyT bi  B  COOTBeTCTByiOl^MX  flOKyM CHTaX  M,  KSK o?KMflaeTca, 6yflyT peajiMsoBaHbi cooTBeTCTByioLUMMM opraHaiviM (HanpMMep,  MMHMCTepC TBaMM, pemoHanbHbiiviM  v\nv\ MecTHbiMM  opraHaMM ynpaBneHMfl o6pa30BaHMeM), oGpasoBaTenbHbiMM  yM pe>KfleHMflMM (HanpM Mep,  ujKonbi,  Konnefl>KM M  yH MsepC MTeTbi)  M/MJIM  cneL(tianMCTaMM B  o6nacTM  oôpaaoBaHMfl. (HanpM Mep, y^MTenfl, jieKropbi,  MHCTpyicropbi  11 npenoflaBaTenM)  no  Mepe  Heo6xoflMMOCTM.
-
-> CM.  CxeMy  B n.11  Pasflena  II  HacToaLyero  pyK OBOflCTsa.
+³ См. Схему в п.11 Раздела II настоящего руководства.
 
 [[END OF PAGE 17]]
 
@@ -622,27 +637,26 @@ auH OHajibHbiii
 
 16
 
-(d) OyeHKa yqauîHxea | 99
---- | --- | ---
-CyÔHaqH OHajiLHi. iiî
-(a) 3aKOH&i H nojiHTHKa B oôjiacTH o6pa30BamM
-(b) yieSHbie njiaHH | 99 | 99
-(e) neaaromqecKoe o6pa30BaHHe
-(d) OyeHKa yqaiyH Xca | 99 | 99
+(d) Оценка учащихся | 99 | 99 | 99 | 99
+Субнациональный |  |  |  | 
+(a) Законы и политика в области образования | 2 | 2 | 2 | 2
+(b) Учебные планы | 99 | 99 | 99 | 99
+(c) Педагогическое образование | 2 | 2 | 2 | 2
+(d) Оценка учащихся | 99 | 99 | 99 | 99
 
-## TexHHqecKoe H  npo^eccHOHajibHoe  o6pa3oeaHHe  H  noflroTOBKa (nyH KTbi 25 -29  PeKOMeHÔaifuu  1974  z. )
+## F. Техническое и профессиональное образование и подготовка (пункты 25-29 Рекомендации 1974 г.)
 
-- FI OnnmHTe  jiio6bie  ocHOBHue HHHyH aTHBbi, npe/inpH HaTbie  flJia npoflBHMceHHa  GCED  H/HJIH  ESD B TëXHHHeCKOM H  npO(})eCCHOHajJbHOM  o6pa30BaHHHH  nOflTOTOBKe.  KpaTKO  onrauHTe  pe3yj ibTaTbiH  BjiHaHne TâKHX  MHHUHaTHB H  npK BGWÎS HpH MepB I  HepeAOBOH npaKTHKH.
+F1 Опишите любые основные инициативы, предпринятые для продвижения GCED и/или ESD в техническом и профессиональном образовании и подготовке. Кратко опишите результаты и влияние таких инициатив и приведите примеры передовой практики.
 
-## 06pa30BaHHeaJ iH  B3pocjiux (n.  30  PeKOMeHÔaifuu  1974  z.)
+## G. Образование для взрослых (п. 30 Рекомендации 1974 г.)
 
-- G l OnniuHTe jiioôbie  KpynHbie  HHHyH aTHBU, npeflnpH HHTfcie flJia  npoflBH^eHiia  GCED H/HJIH  ESD B o6pa30BaHHH  flJia  B3pocjibix  H  flpyrax  4)opM ax  He^opM ajibHoro o6pa30BaHH»,  BKjiroiaa  oôpasoBaHHe Monone-sKH, BHeuiKOJibHoe o6pa30BaHHe  H T.  n.  KpaTKo  onrauHTe  poyj ibTaTM  H BjiHHHHe  TaKHx  HHHiçaTHB H npH BeflHTe  npHMepbinepeflOBon npaicraKH.
+G1 Опишите любые крупные инициативы, предпринятые для продвижения GCED и/или ESD в образовании для взрослых и других формах неформального образования, включая образование молодежи, внешкольное образование и т. д. Кратко опишите результаты и влияние таких инициатив и приведите примеры передовой практики.
 
-- l  20  -  21  4'eBpaji^  2020  rofla  B OejiepajaHOM HHCTHTyre pa3BHTHa  o6pa30BaHiia PAHXiirC npoxoaHJiaKOH^epeHyH » «KniowBbie  HanpameHiia pa3BHTa poccHHCKoro oôpasoBaHHa  fljra WCTîîTKQimsi  yejienH saflaqycToiiqHBoropasBHTHaB cHCTeMeo6pa30BaHHa». B  MeponpH aTHH yqacTBOBajm  6ojiee 150 qejiOBeKH3  oôpasoBaTejibHHX yqpe3KffeHHH, 3KcnepT Hbix  opraHicaymi, oprauoB  HcnojiHHTejibHOH Bjiacm  cyÔTbeKTOB  PoccHHCKOHQeflepaytiH.
+1. 20–21 февраля 2020 года в Федеральном институте развития образования РАНХиГС проходила конференция «Ключевые направления развития российского образования для достижения целей и задач устойчивого развития в системе образования». В мероприятии участвовали более 150 человек из образовательных учреждений, экспертных организаций, органов исполнительной власти субъектов Российской Федерации.
 
-- 15 MSLSI  2020roaa cocTOaiiaci>OHjiaMH-KOH(|3epeHyH aMojiofle5KHuxnocjiaHHHKOB  tl, ejieîi ycToKqHBoro  pasBm-Ha npH noOTep^îKe  OOH no  Bonpocy  nepcneicTHB  HX  yqacraa B oôiyecTBeHHoii noBecTKe  B Poccim  H na  Me^yiyHapoflHOMypoBHe. yqacTHHKH B  pe^cHMe  OHnaiîH paCCMOTpejIH  HeCKOJTbKO  TëM,  HanpH Mep,  B03MOMCHOCTH  yqacTHa  B o6m:ecTBeHHoîi noBecTKe U, yP B  CTpaHe,  KaKHe  HCCJieflOBaHHa Moaaio  npoBecm  B  poccHHCKHX flOKyM eHTaxpasuoro ypO BHa  H  Apyrae.  A Taioe  o6cywuiïi  npH OpH TeTHbie  HanpaBJieHHa  no  peajni3au, HH  LI, yP
+2. 15 мая 2020 года состоялась онлайн-конференция Молодежных посланников Целей устойчивого развития при поддержке ООН по вопросу перспектив их участия в общественной повестке в России и на международном уровне. Участники в режиме онлайн рассмотрели несколько тем, например, возможности участия в общественной повестке ЦУР в стране, какие исследования можно провести в российских документах разного уровня и другие. А также обсудили приоритетные направления по реализации ЦУР.
 
-- 3  5  MapT a B MFHMO cocroajiacb  l  Me^qyHapoflHaa HayIiHO-npaKTHecKaa KOH^epeHyH» oôyqaroiyH xca «3KOJionNecKoe  o6pa30BaHHe  B yejiax ycroîîliHBoro pa3BHTa».  C HHHiiHaTHBOH npoBe^eHHaaaHHoroMeponpH aTHaHa  njioiyaflKe yHHBepciiTCTa BbicTynHJoi  OeaepajibH&m fleTCKHH  3Kojioro-6Honoraqeciaiii yeHTp  M:HHnpocBem;eHHfl  POCCHH  H  QaKyj itTeT  npH KJtaaH oii 3KOHOMHKH  H  KOMMepU Hti MTHMO  MH^  POCCHH. yqacTe B  KOH^epeHiçiH npH iujiH o6 qaioiyiieca  H3  POCCHH  H Bejia CH-noôeflHTeiiH  KOH CHOTO  OTÔO  a, araKxeTio6ejyneim
+3. 5 марта в МГИМО состоялась I Международная научно-практическая конференция обучающихся «Экологическое образование в целях устойчивого развития». С инициативой проведения данного мероприятия на площадке университета выступили Федеральный детский эколого-биологический центр Минпросвещения России и Факультет прикладной экономики и коммерции МГИМО МИД России. Участие в конференции приняли обучающиеся из России и Беларуси — победители конкурсного отбора, а также победители
 
 [[END OF PAGE 18]]
 
@@ -650,24 +664,24 @@ CyÔHaqH OHajiLHi. iiî
 
 17
 
-MeayiyHapoflHbix  H  BcepoccHHCKHX 3KOJioraqecKHX KOHKypcHbK MeponpH aTHH no HToraM  2018 rofs. a  -  OKOJIO 100  yqacTHHKOB H3 48  cy&beKTOB  POCCHHCKOH  Oe^epayH ii.  OcHOBHaa yejib npoBe^eHHa  KOHitiepeHyiîH  - BbiHBJieHne H npoflBnaceHHe  HayqHO-HCCJieflOBaTejiBCKHX pa3pa60TOK  H HHHU;HaTHB  fleTCH  H MOJiOfleaai,  HanpaBjieHHLix  Ha  pemeHHe  aKTyanbHbix BKOJioraqecKHX npoôjieM  ycroiiqHBoro  pa3BHma,  a rasaKG  o6i>effiHeHHe ycHjmii  Mojiofle^KHbix, aeTCKHx H  flpyrnx oôiyecTBeHHbix  opraHH3ayT,  rocyaapC TBeHHbix  HHCTHiyT OB  POCCHH H  CTpaH 3apyQexbsi ^jia  COWHCTBWI  nojiHoyeHHOH  H  3(^4)eKTHBHOii peajiH3ayH H  yejieiiycTomHBoro paSBHTHS  B  paMKâX ^OpMHpO BaHIMfleTCKHXHayiHbIX COOÔIIieCTB,  nonyj iapH sauHa ecTecTBeHHbix  HayK  H 3KOJiomqecKHX npo(})eccHH  ôyflyiyero B fleTCKO -lOHomecKoii  cpefle. 3aBepmHJiacfc KOH(j}epeHL(Ha  TopacecTBeHHbiM noflHHcaHHeM  ^eicnapayH H B  noflflep3 acy U, yP.
+международных и всероссийских экологических конкурсных мероприятий по итогам 2018 года — около 100 участников из 48 субъектов Российской Федерации. Основная цель проведения конференции — выявление и продвижение научно-исследовательских разработок и инициатив детей и молодежи, направленных на решение актуальных экологических проблем устойчивого развития, а также объединение усилий молодежных, детских и других общественных организаций, государственных институтов России и стран зарубежья для содействия полноценной и эффективной реализации целей устойчивого развития в рамках формирования детских научных сообществ, популяризация естественных наук и экологических профессий будущего в детско-юношеской среде. Завершилась конференция торжественным подписанием Декларации в поддержку ЦУР.
 
-## HcCJICflOBaHHH H  MCÎKayHapOflHOe  COTpyflHHieCTBO (n.  41  -45  PeKOMenàaifuu  1974  z.)
+## H. Исследования и международное сотрудничество (п. 41-45 Рекомендации 1974 г.)
 
-- H l OnHmuTe, noxajiyiicTa,  KaKHe  BH/IU Hccjie/ioBaHHH HJIH  3KcnepH MeHTOB  ôtijiH  npoBeaeHbi JIJIH  yjiyqmeHHa peajiH3ai(HH GCED H/HJIH ESD.  KpaTKO  onHfflHTe, KâK  pesyj ibTaTfci  TaKoîi  ^eaTejitHocTH noBjiHajin  Ha nojiHTHKy  B oôjiacTH  oôpasoBaHira,  yIie6HbienjiaHbiH/HJiHnpaKTHKynpenoflaBaHHa.
+H1 Опишите, пожалуйста, какие виды исследований или экспериментов были проведены для улучшения реализации GCED и/или ESD. Кратко опишите, как результаты такой деятельности повлияли на политику в области образования, учебные планы и/или практику преподавания.
 
-- H2 YKa^aiTe,  KaKne  Bnabi ffeHTejitHOCTH aocTynHbi, KOTOpbie  cnocoôcTByioT MeayiyH apoflHOMy coTpyffHHqecTBy  Ha  KaacflOM  ypoBHe o6pa30BaHHa,  yK asaB  cooTBercTBytouoîH  HOMep  B Ka-awovi ôejioîi SnGWKG.
+H2 Укажите, какие виды деятельности доступны, которые способствуют международному сотрудничеству на каждом уровне образования, указав соответствующий номер в каждой белой ячейке.
 
-KJIIOH: 0 = HCT, l =AB, 9 = HeH3BecTHo
+КЛЮЧ: 0 = нет, 1 = да, 9 = неизвестно
 
-flomKojitHoe | HaiajiBHoe H cpeflHee | Bticmee H cpeflHee npo^eccHOH ajitHoe | He^iopM antHoe
+Вид деятельности | Дошкольное | Начальное и среднее | Высшее и среднее профессиональное | Неформальное
 --- | --- | --- | --- | ---
-npOBefleHue Me^viyHapo^HHX BCTpeq no GCED H/HJIM ESD | l | l | l | l
-yi acTOe B Meac^yHapoflHbix BCTpeqax sa py6e»tOM no GCED H/HJIH ESD | l | l | l | l
-HoAflepacKa nporpaMM, npH HHMaroiuHX HHOCTpaHHMX CTyfleHTOB, HCCJICflOBaTejieH H/HJIH npenoflaBaTejieH | 0 | 0 | l
-HneHCTBo B MeayiyHapoaH Lix ceTax, BKuioiaa ceïb CAIII (ASPnet) | 0 | l | l | 0
-CoBMecraue HCCjieflOBaTejibCKHe npoeKiu no GCED H/HJIM ESD e 3apy6e»HMMH HHCTHTyT âMH | 0 0 | 0 | 0 | 0
-flpyrae MeponpH aTHa (npocbôa yicasaTi, ):
+Проведение международных встреч по GCED и/или ESD | 1 | 1 | 1 | 1
+Участие в международных встречах за рубежом по GCED и/или ESD | 1 | 1 | 1 | 1
+Поддержка программ, принимающих иностранных студентов, исследователей и/или преподавателей | 0 | 0 | 1 | 
+Членство в международных сетях, включая сеть САШ (ASPnet) | 0 | 1 | 1 | 0
+Совместные исследовательские проекты по GCED и/или ESD с зарубежными институтами | 0 | 0 | 0 | 0
+Другие мероприятия (просьба указать): |  |  |  | 
 
 [[END OF PAGE 19]]
 
@@ -675,10 +689,10 @@ flpyrae MeponpH aTHa (npocbôa yicasaTi, ):
 
 18
 
-## JIroôbie  Apynie  KOMMCHrapHH
+## I. Любые другие комментарии
 
-- Il Hpocbôa  yKa3âTb,  CTajiKHBanacb  JIH Bama  CTpaHa  e KaKHMH-jmôo  npeiciTCTBMMM, B qacTHOCT  CBasaHHbiMH C  mo6ajIbHbIMH HJJH  HayH OHaJI&HMMH  KpH3HCaMH,  BKJIIOqafl CTHXHHHbie  Ôe^CTBIM,  npH  BbIHOJIHeHHH PeKOMCH^ayT  1974  r.  B Teqeniîe  OTliCTHoro  nepnofla.
+I1 Просьба указать, сталкивалась ли ваша страна с какими-либо препятствиями, в частности связанными с глобальными или национальными кризисами, включая стихийные бедствия, при выполнении Рекомендации 1974 г. в течение отчетного периода.
 
-- 12 Rpocbôa  npeflOcraBHTb  jiioôyio flpyryio cooTBeTCTByioiyyK )  HH^opM ayH H) HJIH  noacHeHH»  oTHocHTenbHO BunojiHeHHH  PeKOMeH^ayH H 1974 r.  HJIH  BKjiioqeHM GCED  H ESD B  cncTeMy o6pa30BaHiw  Bameiî  crpaHbL
+I2 Просьба предоставить любую другую соответствующую информацию или пояснения относительно выполнения Рекомендации 1974 г. или включения GCED и ESD в систему образования вашей страны.
 
 [[END OF PAGE 20]]
