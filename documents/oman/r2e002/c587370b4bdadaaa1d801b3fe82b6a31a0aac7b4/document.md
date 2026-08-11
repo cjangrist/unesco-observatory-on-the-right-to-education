@@ -26,11 +26,11 @@ This Decree shall be published in the Official Gazette and shall come into force
 
 Issued on:
 
-24 th Jumada AI Akhira 1417 A.H.
+24th Jumada Al Akhira 1417 A.H.
 
 Corresponding to:
 
-6 th November 1996 A.D.
+6th November 1996 A.D.
 
 Qaboos bin Said Sultan of Oman
 
@@ -57,7 +57,7 @@ The attached amendments shall be made to the Basic Statute of the State.
 
 ### Article Two:
 
-A ll that contravenes with this Decree or its attached amendments or contradicts with their provisions shall be deemed repealed.
+All that contravenes with this Decree or its attached amendments or contradicts with their provisions shall be deemed repealed.
 
 ### Article Three:
 
@@ -65,11 +65,11 @@ This Decree shall be published in the Official Gazette, and it shall come into f
 
 Issued on:
 
-21 st of Thu Al Qi'dah 1432 A.H.
+21st of Thu Al Qi'dah 1432 A.H.
 
 Corresponding to:
 
-19 th October 2011 A.D.
+19th October 2011 A.D.
 
 Qaboos bin Said Sultan of Oman
 
@@ -164,7 +164,7 @@ The  Governance  in  the  Sultanate  shall  be  based  upon  justice,  Shura and
 
 [[START OF PAGE 5]]
 
-- granted except by virtue of a law, for a limited period of time, and in a manner that preserves national interests.
+granted except by virtue of a law, for a limited period of time, and in a manner that preserves national interests.
 
  Public property is inviolable, the State shall protect it, and Citizens and residents shall preserve it.
 
@@ -503,16 +503,16 @@ The Law shall prescribe the provisions concerning the following matters and the 
 
 [[START OF PAGE 14]]
 
+## CHAPTER FIVE
+### Majlis Oman
+
+#### Article (58)
+
 Majlis Oman shall consist of:
 
 - Majlis Al Dawla.
 
 - Majlis Al Shura
-
-## CHAPTER FIVE
-### Majlis Oman
-
-#### Article (58)
 
 ### Majlis Al Dawla
 
@@ -686,7 +686,7 @@ His Majesty the Sultan, in circumstances His Majesty determines, may dissolve Ma
 
 The members of Majlis Al Dawla and Majlis Al Shura shall swear in a public meeting, each  before  his  respective  Majlis,  and  prior  to  assuming  his  duties  in  the  Majlis,  the following oath:
 
-'I swear by Allah the Almighty to be faithful to my Sultan and my Country, to honour the Basic Statute of the State and the applicable Laws, to preserve the safety of the State, the fundamental constituents of the Omani Society and its inherent values, and to perform my duties in the Majlis and its Committees faithfully and honestly.'
+“I swear by Allah the Almighty to be faithful to my Sultan and my Country, to honour the Basic Statute of the State and the applicable Laws, to preserve the safety of the State, the fundamental constituents of the Omani Society and its inherent values, and to perform my duties in the Majlis and its Committees faithfully and honestly.”
 
 The Chairman of Majlis Al Dawla shall swear, prior to assuming his duties in the Majlis, the oath specified in the previous paragraph before His Majesty the Sultan.
 
@@ -700,7 +700,7 @@ A  member  of  Majlis Al  Dawla  or  Majlis Al  Shura  shall  not  be  liable  f
 
 #### Article (58)(bis 23)
 
-Except in the case of flagrante delicto , no punitive action shall be taken against a member of Majlis Al Dawla or Majlis Al Shura during the annual session except with the prior permission from the Majlis concerned. The permission shall be issued by the Chairman of the concerned Majlis when it is not in session.
+Except in the case of flagrante delicto, no punitive action shall be taken against a member of Majlis Al Dawla or Majlis Al Shura during the annual session except with the prior permission from the Majlis concerned. The permission shall be issued by the Chairman of the concerned Majlis when it is not in session.
 
 #### Article (58)(bis 24)
 
