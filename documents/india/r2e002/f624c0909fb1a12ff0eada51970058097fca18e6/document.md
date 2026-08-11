@@ -6,7 +6,7 @@
 
 1.1 The Government has approved a new programme called   'National Programme for Education of Girls at Elementary Level (NPEGEL)'  as an amendment to the scheme of Sarva Shiksha Abhiyan (SSA) for providing additional components for education of girls at elementary level.  The NPEGEL will form part of SSA and will be implemented under the umbrella of SSA but with a distinct identity.
 
-1.2. The scheme of Sarva Shiksha Abhiyan (SSA) was started in the year 2001­02 with the objective of  universalisation of elementary education.  It is an attempt to provide an opportunity for improving human capabilities to all children including the girl child, through provision of community­owned quality education in a mission mode. However, as SSA has  limited financial provisions for girls'  education in the form of 'i nnovations'   at district level and free textbooks, and thus there is a need for an additional component.
+1.2. The scheme of Sarva Shiksha Abhiyan (SSA) was started in the year 2001­02 with the objective of universalisation of elementary education. It is an attempt to provide an opportunity for improving human capabilities to all children including the girl child, through provision of community­owned quality education in a mission mode. However, as SSA has limited financial provisions for girls' education in the form of “innovations” at district level and free textbooks, and thus there is a need for an additional component.
 
 1.3. Accordingly,   NPEGEL   has   been   formulated   for   education   of     under   privileged   / disadvantaged girls from class I to VIII as a separate and distinct gender component plan of SSA . The gender component is necessary to achieve UEE for girls in educationally backward areas.
 
@@ -32,9 +32,9 @@ Guidelines_NPEGEL.doc.doc
 
 ## 3. Strategy:
 
-- Mobilisation for girls education, including community, teachers, NGOs, etc. This is to be process oriented programme, where community ownership and the basket of components must evolve with local participation.
+A. Mobilisation for girls education, including community, teachers, NGOs, etc. This is to be process oriented programme, where community ownership and the basket of components must evolve with local participation.
 
-- A basket of components has been provided for in the scheme, however, all blocks would not take up all activities. The projects should be based on the conditions of that block and should specifically target the following:
+B. A basket of components has been provided for in the scheme, however, all blocks would not take up all activities. The projects should be based on the conditions of that block and should specifically target the following:
 
 - Out of school girls
 
@@ -50,7 +50,7 @@ Guidelines_NPEGEL.doc.doc
 
 - Girls with low levels of achievement
 
-- Development of material including teaching learning material, CDs, films and other material, helping in the review/ development of textbooks, development of guidelines for incorporation of gender concerns, development/ compilation of supplementary reading material for girls, including life skills, which would provide the support needed for girls' e ducation.
+C. Development of material including teaching learning material, CDs, films and other material, helping in the review/ development of textbooks, development of guidelines for incorporation of gender concerns, development/ compilation of supplementary reading material for girls, including life skills, which would provide the support needed for girls' education.
 
 ## 4. OBJECTIVES :
 
@@ -74,9 +74,9 @@ Guidelines_NPEGEL.doc.doc
 
 (a) To strengthen the capacity of National, State and district institutions and organisations for planning, management and evaluation of girls'  education at the elementary level, and  create   a   dynamic   management   structure   that   will   be   able   to   respond   to   the challenges of girls'  education;
 
-(b) To develop innovative gender sensitisation / training programmes, with the assistance of concerned organisations and women' s groups, for teachers and administrators and create an environment whereby all the sections of the education sector will become alive and sensitive to the role of education in eliminating gender disparities;
+(b) To develop innovative gender sensitisation / training programmes, with the assistance of concerned organisations and women's groups, for teachers and administrators and create an environment whereby all the sections of the education sector will become alive and sensitive to the role of education in eliminating gender disparities;
 
-(c) To   initiate   networking   between   different   institutions   for   research,   extension   and information dissemination to increase output of gender sensitive, quality teaching­ learning   material   especially   in   regional   languages,   and   decentralised   area­specific models of intervention;
+(c) To initiate networking between different institutions for research, extension and information dissemination to increase output of gender sensitive, quality teaching-learning material especially in regional languages, and decentralised area-specific models of intervention;
 
 (d) To gear the entire education system to play a positive interventionist role to enhance self­esteem and self­confidence of women and girls; build a positive image of women by recognising their contribution to the society, polity and the economy.
 
@@ -84,7 +84,7 @@ Guidelines_NPEGEL.doc.doc
 
 (f) To provide co­ordinated efforts, to ensure necessary support services to enhance girls' participation and performance in elementary education.
 
-(g) To build community support for girls'  education and provide a conducive environment for girls' e ducation in the school, community and home; and
+(g) To build community support for girls' education and provide a conducive environment for girls' education in the school, community and home; and
 
 (h) To ensure that girls get good quality education at the elementary level.
 
@@ -102,15 +102,15 @@ Guidelines_NPEGEL.doc.doc
 
 [[START OF PAGE 4]]
 
-6.1.2 State   Mahila Samakhya Societies (MSS), wherever set up under the directions of the Government of India, will provide direction and support to the programme.   The MS society will ensure the representation of SC/ST women's  organisation in the SRG of MSS.  In States that do not have an MSS, a sub committee of the SSA society with nominees from relevant departments of the State Government, Government of India, experts in girls'  education and representatives of SC/ ST women's o rganisations will be set up for the purpose.
+6.1.2 State Mahila Samakhya Societies (MSS), wherever set up under the directions of the Government of India, will provide direction and support to the programme. The MS society will ensure the representation of SC/ST women's organisation in the SRG of MSS. In States that do not have an MSS, a sub committee of the SSA society with nominees from relevant departments of the State Government, Government of India, experts in girls' education and representatives of SC/ ST women's organisations will be set up for the purpose.
 
-6.1.3 Suitable   assistance   can   be   taken   from   institutions   like   Women' s   studies   centres   at Universities / colleges, etc. The resource centres under the Mahila Samakhya programme, at the State level, will be the nodal institution to coordinate with individuals, Government and other organisations for the development of material etc.
+6.1.3 Suitable assistance can be taken from institutions like Women's studies centres at Universities / colleges, etc. The resource centres under the Mahila Samakhya programme, at the State level, will be the nodal institution to coordinate with individuals, Government and other organisations for the development of material etc.
 
 ### 6.2 DISTRICT STRUCTURE :
 
 6.2.1 Activities would include preparatory activities, including formation of core teams for girls education, training of core teams, baseline assessments and block and village mapping, and social assessments, village and block plans preparation and facilitation. Simultaneously, advocacy and communication activities, including the formation/ mobilisation of MTAs, PTAs and other core groups in the village would be included, in addition to implementation of the block plans.
 
-6.2.2 District Gender Unit, which is a branch of the State MS Society or the State SSA Society ( in States where MS is not there ),   will   administer the NPEGEL at district level. A 'District Gender Co­ordinator'  shall be appointed for each district.  The District Gender Unit will consist of District Gender Co­ordinator, Resource persons and supporting staff.   This unit will co­ ordinate and supervise all aspect of the component at district level, and provide resource and training support.  It will also network with the local adminstration, other institutions and NGOs in the district.
+6.2.2 District Gender Unit, which is a branch of the State MS Society or the State SSA Society (in States where MS is not there), will administer the NPEGEL at district level. A 'District Gender Co-ordinator' shall be appointed for each district. The District Gender Unit will consist of District Gender Co-ordinator, Resource persons and supporting staff. This unit will co-ordinate and supervise all aspect of the component at district level, and provide resource and training support. It will also network with the local adminstration, other institutions and NGOs in the district.
 
 6.2.3 At the district level, there will be a 'District Gender Co­ordination Committee'  which will ensure the implementation and monitoring of the gender component of SSA and which will meet at least twice a year.  The committee will have nominees of Mother Teacher Associations (MTAs), Women Motivator Groups (WMGs), Mahila Samakhya Sanghas or Mahila Sanghas, female member of SC/ST organisations, etc. in the districts.  The State level head of the Gender unit or his/her nominee will also be a member of this committee.
 
@@ -128,11 +128,11 @@ Guidelines_NPEGEL.doc.doc
 
 6.3.2. Selection of core groups would be done at two levels:
 
-- Coordinator : 1 (to be selected from among the teachers)
+1. Coordinator : 1 (to be selected from among the teachers)
 
-- Resource person : 1 (to be selected from among the teachers)
+2. Resource person : 1 (to be selected from among the teachers)
 
-- Other members of resource support group at field level. These community level activists for community mobilisation, local level monitoring, and on site resource support would be selected from among youth groups and women students.
+3. Other members of resource support group at field level. These community level activists for community mobilisation, local level monitoring, and on site resource support would be selected from among youth groups and women students.
 
 6.3.3 The core group at the block level will be responsible for coordinating with and converging   with   the   DGU   and   existing   programmes.   They   will,   with   the   help   of students, teachers and volunteers, do surveys, and help prepare the village plans. They will also monitor and oversee the implementation of these plans. The core groups will form the major vehicle for community mobilisation, monitoring in the village the progress for enrolment, drop out, achievement of girls, facilitating with the VEC/ MTA/ village   community   in   devising   interventions   for   these   activities   in   the   village,   and creating an environment for girls' education. They will be selected on the basis of their aptitude. They can also assist in the upgraded schools in special activities like sports, painting, computer aided education, music  or as escorts.
 
@@ -203,7 +203,7 @@ will be provided to each cluster for annual training of at least 20�
 The   scheme   provides   opening   of   additional   Early Childhood   Care   centres   to   meet   gaps   in   the   Integrated   Child   Development Scheme and relieve girls from the burden of sibling care. Two Child Care Centres per cluster run by community may be opened in the areas where there is   no   Child   Care   Centre   under   any   scheme   of   the   Department   of Women & Child Development and/or the State Government concerned. Each centre opened under the 'Girl Education Component' of the SSA will receive a recurring grant of Rs.5000/­ and non­recurring grant of Rs.1000/­ per annum.
 
 ### (iii) Additional incentives :
-SSA provides for free textbooks to all girl­children upto a limit of Rs.150/­ per child. In addition to the existing norms, a package of incentives shall be available to the girl­child under this programme. For each school a Mother' s/ Women's Committee would, depending upon the real needs, decide on additional incentives within the already prescribed financial ceiling of Rs. 150 per girl­child per year, under SSA. However, if there are any savings after providing for free text books to the girls, the balance money out of this amount may be used for providing additional items such as stationery, slates, work books, uniform, providing escorts in difficult areas, etc.
+SSA provides for free textbooks to all girl­children upto a limit of Rs.150/­ per child. In addition to the existing norms, a package of incentives shall be available to the girl­child under this programme. For each school a Mother's/ Women's Committee would, depending upon the real needs, decide on additional incentives within the already prescribed financial ceiling of Rs. 150 per girl­child per year, under SSA. However, if there are any savings after providing for free text books to the girls, the balance money out of this amount may be used for providing additional items such as stationery, slates, work books, uniform, providing escorts in difficult areas, etc.
 
 Thus, if a State is spending Rs. x per child on textbooks from SSA funds, then it would spend only an additional Rs. (Rs.150 - x) for these activities.
 
@@ -249,7 +249,7 @@ The SSA provisions will continue for carrying out development of traini
 
 (b) Assisting the review/ development of textbooks, development of guidelines for incorporation of gender concerns,
 
-(c) Development/ compilation of supplementary reading material for girls, including life skills, which would provide the support needed for girls' edu cation etc.
+(c) Development/ compilation of supplementary reading material for girls, including life skills, which would provide the support needed for girls' education etc.
 
 (d) Development/   compilation   of  suitable     curriculum   and   pedagogy     including evaluation   from   the   gender   perspective   etc.   Material,   pedagogy   and   modules already developed under programmes like MS, Lok Jumbish Project and   District Primary Education Project, like gender review of text books, development of supplementary gender sensitive teaching learning material will also be collected and incorporated.
 
@@ -265,7 +265,7 @@ Funds to the extent of 5% of proposed expenditure at State and distr
 
 ## 8. METHODOLOGY :
 
-8.1 The separate sub­ plan for 'Girls Education Component'  will be prepared by the district implementation unit of the NPEGEL.  As in the case of DEEP, these plans shall be scrutinized at the State level by the resource group, before being forwarded to the cell at the National  level, who shall appraise the plans, with the help of external agencies/ consultants where necessary. A team constituted for the purpose will appraise the plans received.  The Project Approval Board (PAB) of SSA will approve these sub­plans.   The PAB will also invite two eminent persons /NGOs with experience and expertise in girls'/wom en' s education while approving these plans.
+8.1 The separate sub­ plan for 'Girls Education Component' will be prepared by the district implementation unit of the NPEGEL. As in the case of DEEP, these plans shall be scrutinized at the State level by the resource group, before being forwarded to the cell at the National level, who shall appraise the plans, with the help of external agencies/ consultants where necessary. A team constituted for the purpose will appraise the plans received. The Project Approval Board (PAB) of SSA will approve these sub­plans. The PAB will also invite two eminent persons /NGOs with experience and expertise in girls'/women's education while approving these plans.
 
 Guidelines_NPEGEL.doc.doc
 
@@ -285,9 +285,9 @@ Guidelines_NPEGEL.doc.doc
 
 9.2 The provisions for NPEGEL will be in addition to the provisions already made under SSA.  The SSA society will ensure that there is no duplication of activities proposed under the programme.
 
-9.3 The Government of India would directly release funds to the SSA State Implementation Society.  The State Government will also release its share to the State Implementation Society. Funds will be released thereafter to the Mahila Samakhya society wherever applicable. In States where MS is not being implemented, the implementation of this scheme will be through a sub­ unit called 'Gender Unit'  of SSA society and existing mechanism used for implementation of SSA will be followed.
+9.3 The Government of India would directly release funds to the SSA State Implementation Society. The State Government will also release its share to the State Implementation Society. Funds will be released thereafter to the Mahila Samakhya society wherever applicable. In States where MS is not being implemented, the implementation of this scheme will be through a sub-unit called 'Gender Unit' of SSA society and existing mechanism used for implementation of SSA will be followed.
 
-9.4 The State society should open a separate savings bank account for operating of funds of NPEGEL.  State Government should also release its matching share to the State SSA society through a separate budget head. Separate accounts will have to be maintained at district and sub­ district structures, accordingly.
+9.4 The State society should open a separate savings bank account for operating of funds of NPEGEL. State Government should also release its matching share to the State SSA society through a separate budget head. Separate accounts will have to be maintained at district and sub-district structures, accordingly.
 
 * *  *
 
