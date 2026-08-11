@@ -4,9 +4,9 @@
 
 <Title> Law on adult education </Title>
 
-<META name="keywords" content=" SLO , ENL , T04">
-
 <META name="description" content=" ">
+
+<META name="keywords" content=" SLO , ENL , T04">
 
 <!--NOSEARCHSTART-->
 
@@ -32,17 +32,17 @@ Adult education is based on the following principles:
 
 - life-long learning;
 
-- freedom and autonomy in one's choice of the path, contents, form, means and methods of their education;
-
 - the accessibility of education to all under equal conditions;
+
+- freedom and autonomy in one's choice of the path, contents, form, means and methods of their education;
 
 - the secularity of adult education, which is performed as a public service;
 
-- the respect for the personality and dignity of every participant;
-
 - the professional and ethical responsibility of the educators;
 
-- the  achievement  of  the  same  standards  in  adult  education  providing  publicly  recognised qualifications as in the education of young people.
+- the respect for the personality and dignity of every participant;
+
+- the achievement of the same standards in adult education providing publicly recognised qualifications as in the education of young people.
 
 ## II. PARTICIPANTS IN ADULT EDUCATION
 
@@ -104,17 +104,17 @@ a) The general part contains:
 
 - the name of the programme;
 
-- the requirements for enrolment in the programme, for progress and for the completion of the programme.
-
 - the scope of education provided in the programme;
+
+- the requirements for enrolment in the programme, for progress and for the completion of the programme.
 
 b) The special part contains subject-specific catalogues of knowledge and examination catalogues stating:
 
 - the standards and contents of knowledge, skills and competences;
 
-- the knowledge examined,
-
 - the forms and methods of examination;
+
+- the knowledge examined,
 
 - the minimum number of hours of organised educational work and the extent of obligatory forms of educational work for participants,
 
@@ -188,9 +188,9 @@ Expert bodies in public adult education organisations are:
 
 - the andragogical council;
 
-- the head of the educational field.
-
 - the expert working group;
+
+- the head of the educational field.
 
 ### Article 18 (Andragogical council)
 
@@ -200,9 +200,9 @@ The andragogical council:
 
 - discusses and decides on professional issues connected with educational work;
 
-- decides on the modernisation of educational work;
-
 - issues opinions on the annual working plan;
+
+- decides on the modernisation of educational work;
 
 - issues its opinion on the appointment of the director, principal or unit head;
 
@@ -228,7 +228,7 @@ The  head  of  the  educational  field  presides  over  the  expert  working  gr
 
 ### Article 21 (Association of adult education organisations)
 
-Adult education organisations implementing publicly funded educational programmes may, with the  purpose  of  achieving  the  realisation  of  common  tasks  in  the  development  and promotion of adult  education  which  is  in  the  public  interest,  and  of  providing  favourable  conditions  for  coordination and co-operation between themselves, as well as for co-operation with other organisations and professional and administrative bodies, form associations.
+Adult education organisations implementing publicly funded educational programmes may, with the purpose of achieving the realisation of common tasks in the development and promotion of adult education which is in the public interest, and of providing favourable conditions for co-ordination and co-operation between themselves, as well as for co-operation with other organisations and professional and administrative bodies, form associations.
 
 ## VI. NATIONAL PROGRAMME OF ADULT EDUCATION
 
@@ -252,9 +252,9 @@ The National Programme of Adult Education:
 
 - determines the priority fields of adult education;
 
-- determines the overall amount of public finances.
-
 - defines the activities necessary for the performance of adult education;
+
+- determines the overall amount of public finances.
 
 ## VII. ANNUAL PROGRAMME OF ADULT EDUCATION
 
@@ -376,9 +376,9 @@ The contract on the implementation of educational programmes determines:
 
 - the number of teachers and other expert workers needed to implement the programme;
 
-- the methods of fulfilling the contractual obligations;
-
 - the amount of funds allocated from the state budget and the timetable for their use;
+
+- the methods of fulfilling the contractual obligations;
 
 - other mutual rights and obligations.
 
@@ -386,9 +386,9 @@ The contract on the provision of educational infrastructure determines:
 
 - the scope of educational infrastructure services and the method of its use;
 
-- the monitoring of the realisation of contractual obligations;
-
 - the amount of funds allocated from the state budget;
+
+- the monitoring of the realisation of contractual obligations;
 
 - other mutual rights and obligations.
 
@@ -396,11 +396,13 @@ With the contract on the preparation of a development project also:
 
 - the contents and scope of the task or project;
 
-- the expected results;
-
 - the preparation time;
 
+- the expected results;
+
 - the amount of funds allocated from the state budget;
+
+- other mutual rights and obligations.
 
 ### Article 34 (Contributions of participants in education)
 
@@ -416,11 +418,9 @@ Details  on  the  methods  and  procedures  for  the  public  invitation  to  te
 
 ### Article 36 (Funds)
 
-For  the  financing  of  the  annual  programme,  the  state  may  found  the  Fund  for  Adult  Education (hereinafter: the Fund).
+For the financing of the annual programme, the state may found the Fund for Adult Education (hereinafter: the Fund).
 
 The founding act of the Fund determines the sources, methods and requirements for the obtaining of funds for the realisation of the purpose for which the Fund was founded.
-
-- other mutual rights and obligations.
 
 10
 
@@ -474,9 +474,9 @@ In  adult  education  organisations  which  implement  publicly  recognised  edu
 
 - the envisaged amount and organisation of educational and other work during the year;
 
-- the activities of the manager and expert bodies;
-
 - the examinations timetable;
+
+- the activities of the manager and expert bodies;
 
 - co-operation with other organisations for adult education, with schools, societies and associations;
 
@@ -518,7 +518,7 @@ If more candidates apply than there are vacancies in the educational programme, 
 
 ### Article 46 (Contract of enrolment)
 
-Adults  may  also  enrol  in  educational  programmes  which  are  not  financed,  subsidised  or  cofinanced from public funds on the basis of a contract which they conclude with the adult education organisation.
+Adults may also enrol in educational programmes which are not financed, subsidised or co-financed from public funds on the basis of a contract which they conclude with the adult education organisation.
 
 ### Article 47 (Other special features of educational organisations)
 
@@ -604,6 +604,8 @@ Adult education organisations keep the following documentation:
 
 - minutes of meetings of examination committees;
 
+- public documents.
+
 ### Article 55 (Regulation on implementation)
 
 Detailed  instructions  on  the  method  of  data  collection,  on  experts  within  the  adult  education organisation authorised to use the data in individual databases, on the method of recording the use and communication of personal data, and the method of their destruction after their term of use has expired, other procedures and data protection measures are prescribed by the Minister.
@@ -640,9 +642,7 @@ Supervision  in  adult  education  is  conducted  in  accordance  with  the  law
 
 ### Article 58 (Expert workers)
 
-Expert  workers  who,  at  the  time  this  Law  enters  into  force,  do  not  meet  the  qualification requirements stipulated in this Law may continue to work in adult education if, within five years of this law entering into force, they obtain the prescribed qualifications.
-
-- public documents.
+Expert workers who, at the time this Law enters into force, do not meet the qualification requirements stipulated in this Law may continue to work in adult education if, within five years of this law entering into force, they obtain the prescribed qualifications.
 
 15
 
@@ -672,7 +672,7 @@ This Law enters into force on the fifteenth day after its publication in the Off
 
 Number: 602-10/94-2/3 Ljubljana, 14 February 1996
 
-Chairman of the National Assembly of the Republic of Slovenia Jo ef  kol č
+Chairman of the National Assembly of the Republic of Slovenia Jožef Školč
 
 <!--NOSEARCHEND-->
 
