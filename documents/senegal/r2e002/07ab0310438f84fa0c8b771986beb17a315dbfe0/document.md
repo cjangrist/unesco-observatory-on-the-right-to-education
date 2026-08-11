@@ -4,11 +4,13 @@
 
 JOURNAL OFFICIEL DE LA REPUBLIQUE DU SENEGAL
 
+JOURNAL OFFICIEL DU SENEGAL
+
 Imprimer
 
 # Loi 2004-37 du 15 Décembre 2004
 
-Loi 2004-37 du 15 Décembre 2004 modifiant et complétant la loi d'orientation de l'Education nationale n° 9122 du 16Février 1991
+Loi 2004-37 du 15 Décembre 2004 modifiant et complétant la loi d'orientation de l'Education nationale n° 91-22 du 16Février 1991
 
 ## [|EXPOSE DES MOTIFS|]
 
@@ -55,11 +57,9 @@ Au sein des établissements publics et privés d'enseignement, dans le respect d
 ## Art. 3. -
 Pour la mise en oeuvre du dispositif de scolarisation obligatoire, défini à l'article premier de la présente loi, l'Etat fournit progressivement à l'Education nationale les moyens nécessaires avant la fin de l'année 2010.
 
-Jusqu'à cette date, l'obligation faite aux parents, en application du premier alinéa de l'artile 3 bis de la loi d'orientation de l'Education nationale, ne s'applique que là où une offre de scolarisation existe au sein d'un établissement public d'enseignement.
+Jusqu'à cette date, l'obligation faite aux parents, en application du premier alinéa de l'article 3 bis de la loi d'orientation de l'Education nationale, ne s'applique que là où une offre de scolarisation existe au sein d'un établissement public d'enseignement.
 
 La présente loi sera exécutée comme loi de l'Etat.
-
-JOURNAL OFFICIEL DU SENEGAL
 
 Fait à Dakar, le 15 décembre 2004
 
