@@ -20,7 +20,7 @@ The right to education for all, without any form of discrimination, is one of th
 
 While significant  progress  has been made in improving access to education in recent decades, some 250 million children and young people are still out of school.
 
-The 1960 Convention and Recommendation against Discrimination in Education -major  global  normative  instruments  protecting  the  right  to  education -reflect UNESCO's mission which, according to its Constitution, is to ' advance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social .'
+The 1960 Convention and Recommendation against Discrimination in Education – major global normative instruments protecting the right to education – reflect UNESCO’s mission which, according to its Constitution, is to “advance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social.”
 
 Under Article VIII of UNESCO's Constitution, Member States are required to submit regular reports on the measures they have taken to implement the conventions and recommendations adopted by the Organization.
 
@@ -40,7 +40,22 @@ To Ministers responsible for relations with UNESCO
 
 [[START OF PAGE 2]]
 
-(this page came through the extractor with no text)
+CL/4467 – page 2
+
+The report should be submitted no later than 30 June 2024, in order for the Secretariat to prepare an analytical global report and submit it to UNESCO’s governing bodies.
+
+Please accept, Sir/Madam, the assurances of my highest consideration.
+
+Audrey Azoulay
+Director-General
+
+Enclosures: 1
+– Guidelines for preparation of national reports
+
+cc:    Permanent Delegations to UNESCO
+       National Commissions for UNESCO
+       Regional Offices
+       Field Offices
 
 [[END OF PAGE 2]]
 
@@ -50,7 +65,7 @@ GUIDELINES FOR THE PREPARATION OF REPORTS BY MEMBER STATES ON THE APPLICATION OF
 
 Preparation of the 11th Consultation
 
-Combating discrimination in educatio
+Combating discrimination in education
 
 Eleventh consultation of Member States on the application of the Convention and the Recommendation against Discrimination in Education (1960) (2024-2025)
 
@@ -88,7 +103,7 @@ It  is  also  important  to  note  that  previous  consultations  on  the  Conve
 
 ## 3. Reporting obligations
 
-There are differences in the legal nature of the obligations under the Convention, as distinguished from those under the Recommendation. The Convention has binding force and the States Parties are under the obligation to incorporate its provisions into their domestic frameworks. The Recommendation, nonbinding in nature, has political and moral force. Its adoption sought to take into account the difficulties that certain States might experience in ratifying the Convention, in particular with respect to their federal structure.
+There are differences in the legal nature of the obligations under the Convention, as distinguished from those under the Recommendation. The Convention has binding force and the States Parties are under the obligation to incorporate its provisions into their domestic frameworks. The Recommendation, non-binding in nature, has political and moral force. Its adoption sought to take into account the difficulties that certain States might experience in ratifying the Convention, in particular with respect to their federal structure.
 
 Bearing  in  mind  the  differences  in  legal  scope  inherent  to  the  nature  of  these  two  categories  of instruments, the content of the Recommendation is identical to that of the Convention. Member States are expected to give effect to it in national legislation and education policies.
 
@@ -98,7 +113,7 @@ The  reporting obligation under  the provisions of Article VII of the Convention
 
 The  reporting  period  for  the  11th  consultation  on  the  implementation  of  the  Convention  and  the Recommendation covers four years (2021-2024).
 
-The  Futures  of  Education  Report  calls  for  a  new  social  contract  for  education,  which  requires  to understand education as a common good and a shared societal endeavour. To ensure this, extensive consultations involving a broad range of stakeholders is needed. The reporting process therefore needs to be participatory. This includes ensuring cooperation between ministries of education and other ministries dealing with aspects of the right to education as well as consulting social partners and civil society organizations and other relevant bodies.
+The Futures of Education Report calls for a new social contract for education, which requires to understand education as a common good and a shared societal endeavour. To ensure this, extensive
 
 > 1 https://www.unesco.org/en/right-education/evolving
 
@@ -117,6 +132,8 @@ The  Futures  of  Education  Report  calls  for  a  new  social  contract  for  
 [[START OF PAGE 5]]
 
 -3 -
+
+consultations involving a broad range of stakeholders is needed. The reporting process therefore needs to be participatory. This includes ensuring cooperation between ministries of education and other ministries dealing with aspects of the right to education as well as consulting social partners and civil society organizations and other relevant bodies.
 
 The preparation of national reports provides a good opportunity for Member States to assess the implementation of the right to education in their country, identify specific challenges, build constructive dialogue with other actors involved in this field and share good practices.
 
@@ -156,11 +173,21 @@ With  a  view  to  simplify  the  Guidelines  while  providing  necessary  subst
 
 ## GENERAL INFORMATION:
 
-## Ratification and applicability of the Convention against Discrimination in Education 10
+Country name: UGANDA
+
+Organization or entity responsible for the preparation of the report:
+
+Uganda National Commission for UNESCO
+
+contact person: Twebaze David
+
+Email and telephone number of contact person: David.twebaze@unesco-uganda.ug
+
+## I. Ratification and applicability of the Convention against Discrimination in Education 10
 
 - Is your country a State Party to the Convention?
 
-- Yes
+✓ Yes
 
 No: Does your country plan to ratify this instrument?
 
@@ -172,7 +199,7 @@ No: Does your country plan to ratify this instrument?
 
  The ratification process is close to completion
 
-- Please briefly explain the steps that have been taken and timeline when relevant, any difficulties encountered (legal, institutional, political or practical) in completing the ratification process. And how UNESCO can assist:
+▪ Please briefly explain the steps that have been taken and timeline when relevant, any difficulties encountered (legal, institutional, political or practical) in completing the ratification process. And how UNESCO can assist:
 
  No, not considering ratification. Please explain why:
 
@@ -184,19 +211,9 @@ No: Does your country plan to ratify this instrument?
 
 - Have courts, tribunals and/or administrative authorities adjudicated on issues or violations regarding the right to education? 11
 
-- No
+✓ No
 
 Yes: Have the provisions of the Convention been invoked?
-
-Country name: UGANDA
-
-Organization or entity responsible for the preparation of the report:
-
-contact person: Twebaze David
-
-Email and telephone number of contact person: David.twebaze@unesco-uganda.ug
-
-Uganda National Commission for UNESCO
 
 > 10 https://www.unesco.org/en/legal-affairs/convention-against-discrimination-education
 
@@ -244,7 +261,7 @@ For reference: This notably is covered under SDG target 4.1 and partly target 4.
 
  Legal texts 15 prohibit discrimination and guarantee equal access to education:
 
-- In pre-primary education (including early learning and care)
+✓ In pre-primary education (including early learning and care)
 
 > 12 Which calls on states to ' eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations'.
 
@@ -260,15 +277,15 @@ For reference: This notably is covered under SDG target 4.1 and partly target 4.
 
 -6 -
 
-- In primary education
+✓ In primary education
 
-- In secondary education
+✓ In secondary education
 
-- In technical and vocational education and training
+✓ In technical and vocational education and training
 
-- In higher education
+✓ In higher education
 
-- In adult education and alternative learning
+✓ In adult education and alternative learning
 
 -Please indicate the relevant legal provisions:
 
@@ -280,17 +297,17 @@ Sex, Race, Ethnic origin, Tribe, Religion, Creed or Social or Economic standing,
 
  Policies, programmes and initiatives aim to prohibit and prevent discrimination and ensure equal access to education
 
-- In pre-primary education (including early learning and care)
+✓ In pre-primary education (including early learning and care)
 
-- In primary education
+✓ In primary education
 
-- In secondary education
+✓ In secondary education
 
-- In technical and vocational education and training
+✓ In technical and vocational education and training
 
-- In higher education
+✓ In higher education
 
-- In adult education and alternative learning
+✓ In adult education and alternative learning
 
 -Please provide details:
 
@@ -298,17 +315,17 @@ Provision of Universal primary education which is free and compulsory , provisio
 
  Combatting discrimination in terms of curriculum:
 
-- In pre-primary education (including early learning and care)
+✓ In pre-primary education (including early learning and care)
 
-- In primary education
+✓ In primary education
 
-- In secondary education
+✓ In secondary education
 
-- In technical and vocational education and training
+✓ In technical and vocational education and training
 
-- In higher education
+✓ In higher education
 
-- In adult education and alternative learning
+✓ In adult education and alternative learning
 
 [[END OF PAGE 8]]
 
@@ -330,13 +347,13 @@ Development of the gender Equality strategy in Uganda 2022-2025, Education Act 2
 
 ##### General measures:
 
-- Legislation provides for inclusive education for all
+✓ Legislation provides for inclusive education for all
 
-- Policy measures aim to enhance inclusion in education for all
+✓ Policy measures aim to enhance inclusion in education for all
 
-- Teachers are trained on inclusive education 16 and to value diversity
+✓ Teachers are trained on inclusive education 16 and to value diversity
 
-- Initiatives to address discrimination and promote cultural diversity and mutual acceptance
+✓ Initiatives to address discrimination and promote cultural diversity and mutual acceptance
 
 ##### Other:
 
@@ -344,11 +361,11 @@ Universal Primary Education (Free and Compulsory Primary education), Universal S
 
 -
 
-- Multiple and flexible learning pathways 17 are provided for
+✓ Multiple and flexible learning pathways 17 are provided for
 
-- Curricula and teaching methods are inclusive in design 18
+✓ Curricula and teaching methods are inclusive in design 18
 
-- Multilingual and intercultural education is supported
+✓ Multilingual and intercultural education is supported
 
 [[END OF PAGE 9]]
 
@@ -356,9 +373,7 @@ Universal Primary Education (Free and Compulsory Primary education), Universal S
 
 -8 -
 
-1
-
-> Teachers  are  prepared  to  teach  all  student  (beyond  just  students  with  disabilities),  equipping  them  with knowledge,  values  and  attitudes  that  permit  every  student  to  succeed.  See:  UNESCO  policy  paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
+> 16 Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
 
 > 17 Multiple and flexible learning pathways are 'entry points and re-entry points at all ages and all educational levels,  strengthened  links  between  formal  and  non-formal  structures,  and  recognition,  validation  and accreditation  of  the  knowledge,  skills  and  competencies  acquired  through  nonformal  and  informal education' ( Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions  and  diverse  learning  modalities  (online,  in-person,  full-time,  part-time,  etc.)  to respond to individual needs and interests.
 
@@ -392,61 +407,61 @@ Establishing  the  committee  on  elimination  of  discrimination  against  wome
 
 ##### Other relevant general measures, including gender equality
 
-- Legislation provides for gender equality in education
+✓ Legislation provides for gender equality in education
 
-- Policy measures aim to enhance gender equality
+✓ Policy measures aim to enhance gender equality
 
-- Gender-responsive education sector planning is undertaken
+✓ Gender-responsive education sector planning is undertaken
 
-- Providing positive or affirmative action measures
+✓ Providing positive or affirmative action measures
 
-- Providing financial incentives and fellowships
+✓ Providing financial incentives and fellowships
 
-- Teachers are trained (initial and in-service) on gender equality
+✓ Teachers are trained (initial and in-service) on gender equality
 
-- Teachers are trained to combat stigmatisation 19
+✓ Teachers are trained to combat stigmatisation 19
 
-- Other:
+✓ Other:
+
+✓ All barriers for pregnant girls and young mothers in education are eliminated to ensure the continuity of their education
+
+✓ Re-entry programmes for young mothers are provided for
+
+✓ Ensuring safe and adequate gender-sensitive sanitation facilities 20
+
+✓ Curricula are rid of all stereotypes 21 and bias
+
+✓ Ensuring gender parity in science, technology, engineering and mathematics (STEM)
+
+✓ Ensuring gender parity in technical and vocational training education and training (TVET)
 
 Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-Development of the gender Equality strategy in Uganda- 2022-2025,the National equal opportunities policy,  formation of the equal opportunities Commission in Uganda, development of the  Gender mainstreaming  policy  in  Uganda,  formation  of  the  committee  on  elimination  of  discrimination against women in Uganda, development of the disability act of 1996, formation of the disability trust of  Uganda,  promotion  of  the  National  Integrated  Early  Childhood  Development  Policy,  and  the development of the Early Childhood Care and Education Policy
+Development of the gender Equality strategy in Uganda- 2022-2025,the National equal opportunities policy, formation of the equal opportunities Commission in Uganda, development of the Gender mainstreaming policy in Uganda, formation of the committee on elimination of discrimination against women in Uganda, development of the disability act of 1996, formation of the disability trust of Uganda, promotion of the National Integrated Early Childhood Development Policy, and the development of the Early Childhood Care and Education Policy
 
 -What challenges were encountered in achieving gender equality in and through education? If needed, brief quantitative information may be added.
 
 - Limited access to resources
 
-- Opportunities  and  services  in  the  education  sector  even  in  communities  where  girls outnumber boys in schools
+- Opportunities and services in the education sector even in communities where girls outnumber boys in schools
 
 - Continued school drop-out especially for girls
 
 - Resistance to change of cultural norms.
 
-- Inadequate  empowerment  and  participation  of  both  boys  and  girls  in  decision  making processes on matters that affect them.
+- Inadequate empowerment and participation of both boys and girls in decision making processes on matters that affect them.
+
+- discriminatory customary norms, lack of a common or collective voice and leadership among boys and girls, men and women in education
 
 -Does the legal minimum age for marriage conform to international standards (18 years) 22 :
 
-discriminatory customary norms, lack of a common or collective voice and leadership among boys and
+Please note that child marriage is a discriminatory practice as often girls can marry at a younger age than boys. Child marriage violates the child's right to education as they are more likely to drop out of school and children who are not in school are more likely to get married.
 
-Please note that child marriage is a discriminatory practice as often girls can marry at a younger age than boys. Child marriage violates the child's right to education as they are more likely to drop out of school and children who are not in school are more likely to get married. girls, men and women in education
+✓ Yes, No
 
-- Yes, No
+> 19 ' Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them' (Cambridge Dictionary).
 
-> 19 ' Stigmatisation  is  the  act  of  treating  someone  or  something  unfairly  by  publicly  disapproving  of  them' (Cambridge Dictionary).
-
-> 20 ' Gender-sensitive  sanitation  includes  clean,  safe  and  separate  toilets,  with  access  to  water  and  garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
-
-- All  barriers  for  pregnant  girls  and  young mothers in education are eliminated to ensure the continuity of their education
-
-- Re-entry programmes for young mothers are provided for
-
-- Ensuring safe and adequate gender-sensitive sanitation facilities 20
-
-- Curricula are rid of all stereotypes 21 and bias
-
-- Ensuring gender parity in science, technology, engineering and mathematics (STEM)
-
-- Ensuring gender parity in technical and vocational training education and training (TVET)
+> 20 ' Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
 
 [[END OF PAGE 11]]
 
@@ -454,51 +469,49 @@ Please note that child marriage is a discriminatory practice as often girls can 
 
 -10 -
 
-- 21 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
+> 21 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
 
-- 22 Please  note  that  according  to  the  Joint  general  recommendation  No.  31  of  the  Committee  on  the Elimination of Discrimination against Women/general comment No. 18 of the Committee on the Rights of the Child on harmful practice, para. 20: 'a marriage of a mature, capable child below 18 years of age may be allowed in exceptional circumstances, provided that the child is at least 16 years of age and that such decisions  are  made  by  a  judge  based  on  legitimate  exceptional  grounds  defined  by  law  and  on  the evidence of maturity, without deference to culture and tradition.'
+> 22 Please note that according to the Joint general recommendation No. 31 of the Committee on the Elimination of Discrimination against Women/general comment No. 18 of the Committee on the Rights of the Child on harmful practice, para. 20: 'a marriage of a mature, capable child below 18 years of age may be allowed in exceptional circumstances, provided that the child is at least 16 years of age and that such decisions are made by a judge based on legitimate exceptional grounds defined by law and on the evidence of maturity, without deference to culture and tradition.'
 
--In this case provide reference to the relevant laws and provisions and indicate the exceptions to the  legal age of marriage as well as the absolute minimum age:
+-In this case provide reference to the relevant laws and provisions and indicate the exceptions to the legal age of marriage as well as the absolute minimum age:
 
-The Marriage Act (1904) for civil marriages sets the legal age of marriage as 21 years for women and  men,  but  they  can  be  married  with  parental  consent  at  18  years.  Customary  Marriage (Registration) Act sets the minimum age of marriage at 18 for  both girls and  boys.
+The Marriage Act (1904) for civil marriages sets the legal age of marriage as 21 years for women and men, but they can be married with parental consent at 18 years. Customary Marriage (Registration) Act sets the minimum age of marriage at 18 for both girls and boys.
 
 ##### National minorities:
 
 For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities.
 
-- Legislation provides for the right to education  of national minorities
+✓ Legislation provides for the right to education of national minorities
 
-- Policy measures aim to enhance the right to  education of national minorities
+✓ Policy measures aim to enhance the right to education of national minorities
 
-- Policy elaboration includes consultations with  local communities
+✓ Policy elaboration includes consultations with local communities
 
-- The right to carry out their own educational  activities is legally guaranteed for national minorities
+✓ The right to carry out their own educational activities is legally guaranteed for national minorities
 
-- Educational standards are established for  educational institutions run by national minorities
+✓ Educational standards are established for educational institutions run by national minorities
 
-- Positive or affirmative action measures are  provided for national minorities
+✓ Positive or affirmative action measures are provided for national minorities
 
-- Financial incentives and fellowships are  provided for national minorities Other 23 :
+✓ Financial incentives and fellowships are provided for national minorities
+
+Other 23:
+
+✓ Teachers are trained on intercultural education
+
+✓ Teachers are trained to combat stigmatisation 24
+
+✓ Multilingual and intercultural education are supported
+
+✓ Native language instruction is ensured for national minorities
+
+✓ Adapting curricula and teaching and learning methods to their needs for national minorities
+
+✓  Curricula are rid of all stereotypes 25 and bias
 
 Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
 legislation is in place to affirm the right to education for all, eliminate discrimination and guarantee quality education for all members of minorities. In Uganda we have two groups of minorities the Batwa in Western Uganda and the Ike in Eastern Uganda
-
-- Teachers are trained on intercultural  education
-
-- Teachers are trained to combat  stigmatisation 24
-
-- Multilingual and intercultural education are  supported
-
-- Native language instruction is ensured for  national minorities
-
-- Adapting curricula and teaching and learning methods to their needs for  national minorities
-
- Curricula are rid of all stereotypes 25 and  bias
-
--
-
--
 
 [[END OF PAGE 12]]
 
@@ -542,10 +555,33 @@ child and of society at large to facilitate inter-cultural understanding and mul
 
 > 25 Supra note 16.
 
-legislation provides for the right to education of indigenous people Policy measures aim to enhance the right to education of indigenous people Policy elaboration includes consultations with local communities The right to carry out their own educational activities is legally guaranteed for indigenous people Educational standards are established for educational institutions run by indigenous people | Financial incentives and fellowships are provided for indigenous people Teachers are trained on intercultural education Teachers are trained to combat stigmatisation 26 Multilingual and intercultural education are supported Native language instruction is ensured Adapting curricula and teaching and learning methods to their needs for
---- | ---
+legislation provides for the right to education of indigenous people
 
--
+Policy measures aim to enhance the right to education of indigenous people
+
+Policy elaboration includes consultations with local communities
+
+The right to carry out their own educational activities is legally guaranteed for indigenous people
+
+Educational standards are established for educational institutions run by indigenous people
+
+Positive or affirmative action measures are provided for indigenous people
+
+Other:
+
+Financial incentives and fellowships are provided for indigenous people
+
+Teachers are trained on intercultural education
+
+Teachers are trained to combat stigmatisation 26
+
+Multilingual and intercultural education are supported
+
+Native language instruction is ensured
+
+Adapting curricula and teaching and learning methods to their needs for indigenous people
+
+Curricula are rid of all stereotypes 27 and bias
 
 N/A
 
@@ -555,19 +591,53 @@ N/A
 
 -12 -
 
--
+- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
--
+N/A
+
+- What challenges were encountered in realizing the right to education of indigenous people? If needed, brief quantitative information may be added.
+
+N/A
 
 ##### People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations 28 :
 
-- Legislation provides for their right to education
+✓ Legislation provides for their right to education
 
-- Policy measures aim to enhance their right to  education
+✓ Policy measures aim to enhance their right to education
 
-- Inclusion in mainstream schools is ensured
+✓ Inclusion in mainstream schools is ensured
 
-- Positive or affirmative action measures are  provided for
+✓ Positive or affirmative action measures are provided for
+
+✓ Financial incentives and fellowships are provided for
+
+✓ Auxiliary assistance is provided
+
+✓ Multiple and flexible learning pathways 31 are provided
+
+✓ Curricula are rid of all stereotypes 32 and bias
+
+✓ all administrative barriers to access education are removed
+
+✓ Alternative administrative procedures (placement tests, portfolio of evidence, etc.) to overcome administrative barriers 29 are provided for
+
+✓ Teachers are specifically trained to ensure their inclusion
+
+✓ Teachers are trained to combat stigmatisation 30
+
+Other:
+
+✓ Accelerated learning programmes are provided
+
+✓ Non-formal and/or alternative education programmes are provided
+
+✓ Language classes to newcomers are provided for
+
+✓ Multilingualism and intercultural education are encouraged
+
+Please elaborate and, where appropriate, indicate the legal and policy measures taken:
+
+The refugee act of 2006 describes the dignity and rights of refuges in Uganda that includes the right to access education, the convention governing specific aspects and problems of refugees in Africa (OAU 1969), the refugee response plan by the Ministry of Education and Sports. The International covenant on civil and political rights of refugees, the 1995, Uganda Constitution, (as amended) in 2005 recognizes the importance of human rights and requires the state to ensure that rights of human beings are respected and protected at all times. Article 20(1) states that 'fundamental rights and freedoms of individuals are inherent and not granted by the state'. This therefore means that by the mere fact that one exists as a human being, one is entitled to the enjoyment of fundamental rights and freedoms. The Children's Act, Uganda, The Prohibition &
 
 > 26 Supra note 15.
 
@@ -579,44 +649,6 @@ N/A
 
 > 32 Supra note 16.
 
-- all administrative barriers to access education  are removed
-
-- Alternative administrative procedures (placement tests, portfolio of evidence, etc.) to  overcome administrative barriers 29 are provided for
-
-- Teachers are specifically trained to ensure their  inclusion
-
-- Teachers are trained to combat stigmatisation 30
-
-Other:
-
-Please elaborate and, where appropriate, indicate the legal and policy measures taken:
-
-The refugee act of 2006 describes the dignity and rights of refuges in Uganda that includes the right to access  education,  the  convention  governing  specific  aspects  and  problems  of  refugees  in  Africa  (OAU 1969), the refugee response plan by the Ministry of Education and Sports. The International covenant on civil  and  political  rights  of  refugees,  the  1995,  Uganda  Constitution,  (as  amended)  in  2005  recognizes  the importance  of  human  rights  and  requires  the  state  to  ensure  that  rights  of  human  beings  are  respected  and protected at all times. Article 20(1) states that 'fundamental righ ts and freedoms of individuals are inherent and not granted by the state'. This therefore means that by the mere fact that one exists as a human being, one is entitled to the enjoyment of fundamental rights and freedoms.  T he Children's Act, Uganda, The Prohibition &
-
-- Financial incentives and fellowships are p r o v i d e d  for
-
-- Auxiliary assistance is provided
-
-- Multiple and flexible learning pathways 31 are  provided
-
-- Curricula are rid of all stereotypes 32 and bias
-
-N/A
-
--What challenges were encountered in realizing the right to education of indigenous people? If needed, brief quantitative information may be added.
-
-N/A
-
-Please elaborate and, where appropriate, indicate the legal and policy measures taken:
-
-- Accelerated learning programmes are  provided
-
-- Non-formal and/or alternative education  programmes are provided
-
-- Language classes to newcomers are provided  for
-
-- Multilingualism and intercultural education  are encouraged
-
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
@@ -627,9 +659,7 @@ Prevention of Torture Act, 2012, the National Policy on Internally Displaced Per
 
 Have specific measures been adopted for climate displaced persons?
 
-- Yes 
-
-No
+✓ Yes     No
 
 -Please elaborate:
 
@@ -653,29 +683,31 @@ What challenges were encountered in realizing the right to education of migrants
 
 ##### People with disabilities:
 
-- Legislation provides for their right to  education
+✓ Legislation provides for their right to education
 
-- Policy measures aim to enhance their right to  education
+✓ Policy measures aim to enhance their right to education
 
-- Inclusion in mainstream schools is ensured
+✓ Inclusion in mainstream schools is ensured
 
-- Special schools are used as resource centers  to inclusive schools
+✓ Special schools are used as resource centers to inclusive schools
 
-- Mainstream teachers are specifically trained  on disabilities
+✓ Mainstream teachers are specifically trained on disabilities
 
-- Teachers are trained to combat  stigmatisation 33
+✓ Teachers are trained to combat stigmatisation 33
 
-- Auxiliary assistance is provided
+✓ Auxiliary assistance is provided
 
-- Curricula and teaching and learning methods  are adapted
+✓ Curricula and teaching and learning methods are adapted
 
-- Curricula are rid of all stereotypes and bias
+✓ Curricula are rid of all stereotypes and bias
 
-- Education infrastructure and learning  materials are adapted
+✓ Education infrastructure and learning materials are adapted
 
-- Positive or affirmative action measures are  provided
+✓ Positive or affirmative action measures are provided
 
-- Financial incentives and fellowships are  provided Other
+✓ Financial incentives and fellowships are provided
+
+Other
 
 [[END OF PAGE 15]]
 
@@ -691,7 +723,7 @@ What challenges were encountered in realizing the right to education of migrants
 
 Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-The Constitution of the republic of Uganda (1995) Education Act 2008, Education Act -Statutory Instrument 127volume 6, Technical vocational Education and Training Policy (TVET Policy), child rights in Uganda, the National Integrated Early Childhood Development Policy, the Early Childhood Care and Education Policy the National equal opportunities  policy,  Equal  opportunities  Commission  in  Uganda,  Gender  mainstreaming  policy  in  Uganda, Committee on elimination of discrimination against women in Uganda, the disability act of 1996, the disability trust of Uganda, the National Integrated Early Childhood Development Policy, the Early Childhood Care and Education Policy
+The Constitution of the republic of Uganda (1995) Education Act 2008, Education Act – Statutory Instrument 127-volume 6, Technical vocational Education and Training Policy (TVET Policy), child rights in Uganda, the National Integrated Early Childhood Development Policy, the Early Childhood Care and Education Policy the National equal opportunities policy, Equal opportunities Commission in Uganda, Gender mainstreaming policy in Uganda, Committee on elimination of discrimination against women in Uganda, the disability act of 1996, the disability trust of Uganda, the National Integrated Early Childhood Development Policy, the Early Childhood Care and Education Policy
 
 What challenges were encountered in realizing the right to education of people with disabilities? If  needed, brief quantitative information may be added.
 
@@ -711,17 +743,17 @@ What challenges were encountered in realizing the right to education of people w
 
 ##### Students from poor households:
 
-- Financial incentives and fellowships for  school enrolment are provided
+✓ Financial incentives and fellowships for school enrolment are provided
 
-- Transport,  meals  and  education  material  are  subsidised  or  provided  free  of  charge  beyond  compulsory education
+✓ Transport, meals and education material are subsidised or provided free of charge beyond compulsory education
 
-- Positive or affirmative action measures are  provided
+✓ Positive or affirmative action measures are provided
 
-- Teachers are trained to combat  stigmatisation 35
+✓ Teachers are trained to combat stigmatisation 35
 
-- Curricula are rid of all stereotypes 36 and bias
+✓ Curricula are rid of all stereotypes 36 and bias
 
-- o Other:
+o Other:
 
 Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
@@ -759,9 +791,9 @@ Prior to pre-primary education, ECCE services are free
 
 Prior to pre-primary education, ECCE services are affordable
 
-- ECCE services are accessible on a non-  discriminatory basis
+✓ ECCE services are accessible on a non-discriminatory basis
 
- ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
+✓  ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
 - Please elaborate further on the measures taken:
 
@@ -769,11 +801,11 @@ Prior to pre-primary education, ECCE services are affordable
 
  Pre-primary education is compulsory. Please provide the age of enrolment and duration:
 
-- Pre-primary education is not compulsory.
+✓ Pre-primary education is not compulsory.
 
  Pre-primary education is free of charge for all. Please provide the duration and indicate the extent to which it is free:
 
-- Pre-primary education is not free.
+✓ Pre-primary education is not free.
 
 - Please list the relevant laws and policies. Where applicable, provide information on the direct costs (e.g., enrolment fees and tuition fees) and indirect costs (e.g., schools supplies, uniforms, transport
 
@@ -793,17 +825,19 @@ The Constitution of the Republic of Uganda (1995) as amended in (2005) Education
 
 -What challenges were encountered in realizing early childhood care and education and pre-primary education?
 
-- Limited access
+✓ Limited access
 
-- Issues of equity and inclusion
+✓ Issues of equity and inclusion
 
-- Poor quality programmes Other:
+✓ Poor quality programmes
 
-- Poor learning outcomes
+Other:
 
-- Low number of professionally trained educators
+✓ Poor learning outcomes
 
-- Lack of support to families
+✓ Low number of professionally trained educators
+
+✓ Lack of support to families
 
 - Please elaborate. Brief quantitative information may be added.
 
@@ -829,7 +863,7 @@ For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides 
 
 -Is primary education compulsory and free of charge?
 
-- Primary education is compulsory
+✓ Primary education is compulsory
 
 [[END OF PAGE 18]]
 
@@ -837,31 +871,35 @@ For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides 
 
 -17 -
 
-- Primary education is free of charge.
+✓ Primary education is free of charge.
 
--Please list the relevant laws and policies. Where applicable, provide information on the direct costs (e.g., enrolment fees and tuition fees) and indirect costs (e.g., exam fees, schools supplies, uniforms,  transport  and  compulsory  levies  on  parents).  Brief  quantitative  information  may  be added.
+-Please list the relevant laws and policies. Where applicable, provide information on the direct costs (e.g., enrolment fees and tuition fees) and indirect costs (e.g., exam fees, schools supplies, uniforms, transport and compulsory levies on parents). Brief quantitative information may be added.
 
 The Constitution of the Republic of Uganda (1995) as amended in (2005) Education Act 2008, Education Act -Statutory Instrument 127-volume 6, child rights in Uganda.
 
 -What challenges were encountered in realizing primary education?
 
-- Limited access
+✓ Limited access
 
-- Issues of equity and inclusion
+✓ Issues of equity and inclusion
 
-- High dropout rates
+✓ High dropout rates
 
-- Poor quality programmes
+✓ Poor quality programmes
 
-- Other:
+✓ Other:
 
-- Poor learning outcomes in: Foundation literacy Numeracy
+✓ Poor learning outcomes in:
 
-- Social and emotional learning Others
+Foundation literacy Numeracy
 
-- Disparity in learning outcomes
+✓ Social and emotional learning
 
-- Low number of professionally trained teachers
+Others
+
+✓ Disparity in learning outcomes
+
+✓ Low number of professionally trained teachers
 
 -Please elaborate. Brief quantitative information may be added.
 
@@ -907,17 +945,19 @@ In this part, please provide information on the general availability and accessi
 
 Lower secondary education is compulsory.
 
-- Lower secondary education is not compulsory.
+✓ Lower secondary education is not compulsory.
 
-✓
+✓ Lower secondary education is free of charge.
 
-- Lower secondary education is free of charge. Lower secondary education is not free of charge. Upper secondary education is compulsory.
+Lower secondary education is not free of charge.
 
-- Upper secondary education is not compulsory.
+Upper secondary education is compulsory.
 
-✓
+✓ Upper secondary education is not compulsory.
 
-- Upper secondary education is free of charge Upper secondary education is not free of charge.
+✓ Upper secondary education is free of charge
+
+Upper secondary education is not free of charge.
 
 Please list the relevant laws and policies. Where applicable, provide information on the direct costs (e.g., enrolment fees and tuition fees) and indirect costs (e.g., exam fees, schools supplies, uniforms, transport and compulsory levies on parents). Brief quantitative information may be added.
 
@@ -933,15 +973,21 @@ Yes o No o
 
 -What challenges were encountered in realizing secondary education?
 
-- Limited access
+✓ Limited access
 
-- Issues of equity and inclusion
+✓ Issues of equity and inclusion
 
-- High dropout rates
+✓ High dropout rates
 
-- Poor quality programmes
+✓ Poor quality programmes
 
-- Other:
+✓ Other:
+
+✓ Poor learning outcomes
+
+✓ Low readiness of primary graduates
+
+✓ Low number of professionally trained teachers
 
 -Please elaborate. Brief quantitative information may be added.
 
@@ -954,12 +1000,6 @@ Yes o No o
 - The issue of teacher recruitment and retention
 
 - Inadequate student welfare at school
-
-- Poor learning outcomes
-
-- Low readiness of primary graduates
-
-- Low number of professionally trained teachers
 
 [[END OF PAGE 20]]
 
@@ -989,15 +1029,15 @@ individual  capacity'.  Article  13  of  the  International  Covenant  on  Econo
 
 Higher education is free of charge
 
-- Higher education is accessible on the basis of individual capacity (as assessed by reference to relevant qualifications and experience)
+✓ Higher education is accessible on the basis of individual capacity (as assessed by reference to relevant qualifications and experience)
 
-- Higher education is accessible through financial incentives and scholarships
+✓ Higher education is accessible through financial incentives and scholarships
 
-- Higher education is accessible through positive or affirmative action measures
+✓ Higher education is accessible through positive or affirmative action measures
 
-- Higher education is accessible through credit transfer system between states
+✓ Higher education is accessible through credit transfer system between states
 
-- Higher  education  allows  for  multiple  and  flexible  learning  pathways  (flexible  entry  and  re-entry, recognition, validation, and accreditation of knowledge and skills acquired through non-formal and informal education).
+✓ Higher education allows for multiple and flexible learning pathways (flexible entry and re-entry, recognition, validation, and accreditation of knowledge and skills acquired through non-formal and informal education).
 
  Other:
 
@@ -1007,13 +1047,13 @@ The Constitution of the Republic of Uganda (1995) as amended in (2005) Universit
 
 -What challenges were encountered in realizing higher education?
 
-- Limited access
+✓ Limited access
 
-- Issues of equity and inclusion
+✓ Issues of equity and inclusion
 
-- Poor quality programmes
+✓ Poor quality programmes
 
-- Poor learning outcomes
+✓ Poor learning outcomes
 
 Other:
 
@@ -1023,9 +1063,9 @@ Other:
 
 -20 -
 
-- Low number of professionally trained  professors
+✓ Low number of professionally trained professors
 
-- Insufficient mechanisms to ensure smooth  transition from secondary to tertiary
+✓ Insufficient mechanisms to ensure smooth transition from secondary to tertiary
 
 Please elaborate. Brief quantitative information may be added.
 
@@ -1053,15 +1093,15 @@ For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides 
 
 -Please indicate the measures taken to establish a system of continuing education and equitable access to learning and training opportunities (several items may be ticked):
 
-- Provision of education for persons who have not received or completed the whole period of their primary education
+✓ Provision of education for persons who have not received or completed the whole period of their primary education
 
-- Provision of literacy programmes
+✓ Provision of literacy programmes
 
-- Provision of continuous learning (such as learning programmes to develop knowledge, skills, abilities,  or competencies for personal and professional development)
+✓ Provision of continuous learning (such as learning programmes to develop knowledge, skills, abilities, or competencies for personal and professional development)
 
-- Provision of free of charge learning opportunities
+✓ Provision of free of charge learning opportunities
 
-- Provision of professional training including reskilling and upskilling programmes
+✓ Provision of professional training including reskilling and upskilling programmes
 
 [[END OF PAGE 22]]
 
@@ -1069,11 +1109,11 @@ For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides 
 
 -21 -
 
-- Recognition, validation and certification of non-formal and informal learning
+✓ Recognition, validation and certification of non-formal and informal learning
 
-- Provision of free of charge career guidance and counselling
+✓ Provision of free of charge career guidance and counselling
 
-- Lifelong learning entitlements including learning accounts, vouchers, etc.
+✓ Lifelong learning entitlements including learning accounts, vouchers, etc.
 
  Other:
 
@@ -1125,19 +1165,19 @@ For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommenda
 
 -Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding:
 
-- State monitoring and inspections
+✓ State monitoring and inspections
 
-- Health and sanitation
+✓ Health and sanitation
 
-- Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools))
+✓ Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools))
 
-- Infrastructure
+✓ Infrastructure
 
-- Curriculum
+✓ Curriculum
 
-- Student-teacher ratio
+✓ Student-teacher ratio
 
-- School fees (if relevant)
+✓ School fees (if relevant)
 
  Other
 
@@ -1145,17 +1185,25 @@ For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommenda
 
 You may include information on policies, protocols or codes of conduct.
 
-Education Act 2008, Education Act -Statutory Instrument 127-volume 6, Technical vocational Education and Training Policy (TVET Policy), the National Integrated Early Childhood Development Policy, the Early Childhood  Care  and  Education  Policy,  Universal  Primary  Education,  Universal  Secondary  Education, Teacher Management Development Scheme, National Teachers Policy
+Education Act 2008, Education Act -Statutory Instrument 127-volume 6, Technical vocational Education and Training Policy (TVET Policy), the National Integrated Early Childhood Development Policy, the Early Childhood Care and Education Policy, Universal Primary Education, Universal Secondary Education, Teacher Management Development Scheme, National Teachers Policy
 
 -What challenges were encountered in realizing quality education?
 
-- Non-supportive or inadequate learning  environments
+✓ Non-supportive or inadequate learning environments
 
-- Violence in schools
+✓ Violence in schools
 
-- Cost of education
+✓ Cost of education
 
-- Conflicts or crises Other:
+✓ Conflicts or crises
+
+Other:
+
+✓ Low quality educational infrastructure and materials
+
+✓ Inadequate parental support to education
+
+✓ Long distances to schools
 
 - Please elaborate. Brief quantitative information may be added.
 
@@ -1169,12 +1217,6 @@ Education Act 2008, Education Act -Statutory Instrument 127-volume 6, Technical 
 
 - Physical distance is another huge problem children attaining education in mainly rural areas have to go through. Schools are located many kilometers away from their homes, leaners have to move for long hours to get to their schools. Many leaners fail to go to school because it's far.
 
-- Low quality educational infrastructure and materials
-
-- Inadequate parental support to education
-
-- Long distances to schools
-
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
@@ -1187,23 +1229,23 @@ Education Act 2008, Education Act -Statutory Instrument 127-volume 6, Technical 
 
 For  reference:  Article/Paragraph  4(d)  of  the  Convention/Recommendation  provides  for  the  education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to 'substantially increase the supply of qualified teachers'.
 
--  Please  indicate  the  measures  taken  to  improve  the  teaching  and  working  conditions  of  education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked):
+- Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked):
 
-- Teacher training is provided without discrimination.
+✓ Teacher training is provided without discrimination.
 
-- Teachers' average salaries are competitive or at least comparable to those paid in other professions  requiring similar or equivalent qualifications (at all levels).
+✓ Teachers' average salaries are competitive or at least comparable to those paid in other professions requiring similar or equivalent qualifications (at all levels).
 
-- Initial training and continuous professional development are provided.
+✓ Initial training and continuous professional development are provided.
 
-- Minimum standards and qualifications required for the teaching profession.
+✓ Minimum standards and qualifications required for the teaching profession.
 
-- Measures taken to strengthen the social status and attractiveness of the teaching profession.
+✓ Measures taken to strengthen the social status and attractiveness of the teaching profession.
 
-- Measures taken to promote diversity in the teaching workforce, including to redress gender imbalances at different levels of education.
+✓ Measures taken to promote diversity in the teaching workforce, including to redress gender imbalances at different levels of education.
 
-- Establishment of performance monitoring systems.
+✓ Establishment of performance monitoring systems.
 
-- Measures taken to increase women in leadership positions in education.
+✓ Measures taken to increase women in leadership positions in education.
 
  Other:
 
@@ -1213,11 +1255,17 @@ Development of the National Teachers Policy, a hand book on Teachers, Instructor
 
 - What challenges were encountered in the education personnel?
 
-- Shortages of teaching staff
+✓ Shortages of teaching staff
 
-- Lack of qualified, trained and motivated  teaching staff
+✓ Lack of qualified, trained and motivated teaching staff
 
-- Lack of training centres Other:
+✓ Lack of training centres
+
+Other:
+
+✓ Low quality educational infrastructure and materials
+
+✓ High student -teacher ratio
 
 - Please elaborate. Brief quantitative information may be added.
 
@@ -1227,10 +1275,6 @@ Development of the National Teachers Policy, a hand book on Teachers, Instructor
 
 - Teachers attend professional development programmes with expectations in mind. These expectations
 
-- Low quality educational infrastructure and materials
-
-- High student -teacher ratio
-
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
@@ -1239,11 +1283,11 @@ Development of the National Teachers Policy, a hand book on Teachers, Instructor
 
 include certification, promotions and monetary incentives given that most of these trainings occur during holidays.
 
-- Inadequate funding from the government has also proved to be a challenge in the implementation of Teachers Professional Development programmes. Teachers' poor remuneration and lack of timely promotions has made people choose teaching not by will but as a steppingstone towards other professions. As a result, teaching is no longer a 'calling' but a 'job'. While the government allocates funds to support free primary and secondary education with an aim of realizing the Sustainable Development Goal 4, the efforts will be futile if teacher performance is not supported through continuous professional development and impro vement of the teachers' incetives
+- Inadequate funding from the government has also proved to be a challenge in the implementation of Teachers Professional Development programmes. Teachers' poor remuneration and lack of timely promotions has made people choose teaching not by will but as a steppingstone towards other professions. As a result, teaching is no longer a 'calling' but a 'job'. While the government allocates funds to support free primary and secondary education with an aim of realizing the Sustainable Development Goal 4, the efforts will be futile if teacher performance is not supported through continuous professional development and improvement of the teachers' incetives
 
 #### 3.3 Respect for human rights and fundamental freedoms
 
-For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SDG target 4.7. 41 Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation and that the future consultation on the 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights  and  Fundamental  Freedoms  //  2023  Recommendation  on [….] will  be  used  specifically  for monitoring SDG4 indicator 4.7.1.
+For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SDG target 4.7.41 Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation and that the future consultation on the 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms // 2023 Recommendation on [….] will be used specifically for monitoring SDG4 indicator 4.7.1.
 
 - Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items may be ticked):
 
@@ -1261,7 +1305,7 @@ For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provid
 
 #### 3.4 Non-state actors in education
 
-For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for nonstate education provision 42 .
+For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision42.
 
 -Please indicate the measures taken to ensure the provision of quality non-state education (several items may be ticked):
 
@@ -1277,7 +1321,7 @@ Non State actors in Uganda do provide relevant alternative Education without dis
 
 -25 -
 
-> 41 Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global  citizenship  and  appreciation  of  cultural  diversity  and  of culture's contribution  to  sustainable development'.
+> 41 Which calls on states to “ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture’s contribution to sustainable development”.
 
 > 42 Private, faith-based, NGOs, community actors.
 
@@ -1297,11 +1341,15 @@ Yes, Legal provisions in Uganda provide for the rights of the parents /legal gua
 
 - Health and sanitation
 
-- Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools) Infrastructure
+- Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools)
+
+Infrastructure
 
 - Curriculum
 
-- Student-teacher ratio School fees
+- Student-teacher ratio
+
+School fees
 
 - School closures
 
@@ -1321,7 +1369,10 @@ Digital education is both an opportunity for enhancing access but also can lead 
 
 Please indicate the relevant text and provisions:
 
-The National ICT Policy The Data protection act 2019 The Electronic Transcation act 2011 The electronic signature Act
+The National ICT Policy
+The Data protection act 2019
+The Electronic Transcation act 2011
+The electronic signature Act
 
 [[END OF PAGE 27]]
 
@@ -1335,7 +1386,7 @@ The National ICT strategy in Uganda
 
 - Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.
 
-- Measures to remove barriers to accessing digital  content 45 ,  including  ensuring  access  to  curriculumaligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
+- Measures to remove barriers to accessing digital content 45, including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
 
 - Digital  skills  incorporated  into  pre-  and  in-service  teacher  and  leadership  training  curricula  to  create  a  culture  of  digital innovation  and  growth  anchored  in  equity  and  inclusion  that  enables  ongoing  professional  development  for  existing  and emerging staff.
 
@@ -1355,7 +1406,9 @@ Uganda developed its initial ICT national policy in 2003. The policy framework r
 
 - Setting up mechanisms that promote collaboration between industry and training institutions to build appropriate human resources capacity
 
-- Promoting the twinning of training institutions in Uganda with those elsewhere to enhance skills transfer A subsequent e-readiness assessment in 2004 revealed that a focused and co-ordinated approach to implementation was required.
+- Promoting the twinning of training institutions in Uganda with those elsewhere to enhance skills transfer
+
+A subsequent e-readiness assessment in 2004 revealed that a focused and co-ordinated approach to implementation was required.
 
 - 44 Please see General Comment No. 25 (2021) of the Committee on the Rights of the Child which covers children's right to education in relation to the digital environment.
 
@@ -1369,27 +1422,27 @@ Uganda developed its initial ICT national policy in 2003. The policy framework r
 
 -What challenges were encountered in digital education provision (check all that apply)?
 
-- Lack of quality, curriculum-aligned digital teaching and learning content that supports  flexible learning and teaching pathways
+- Lack of quality, curriculum-aligned digital teaching and learning content that supportsflexible learning and teaching pathways
 
-- Lack of equity and inclusion in digital learning  solutions
+- Lack of equity and inclusion in digital learningsolutions
 
 - inadequate safety measures and IT
 
-- support to respond to issues of child online safety  or reduce cyber security risks
+- support to respond to issues of child online safetyor reduce cyber security risks
 
 - Other:
 
 - Limited access to internet and/or electricity
 
-- Limited access to hardware (devices, chargers,  etc.)
+- Limited access to hardware (devices, chargers,etc.)
 
-- Difficulty in regulating the use of digital  education solutions
+- Difficulty in regulating the use of digitaleducation solutions
 
-- Difficulty in sustainably financing digital  education solutions at national scale
+- Difficulty in sustainably financing digitaleducation solutions at national scale
 
-- Lack of digital skills development for meaningful use of digital technology in  teaching practice
+- Lack of digital skills development for meaningful use of digitaltechnology inteaching practice
 
-- Disjointed or fragmented solutions that are  not centrally systematized or regulated
+- Disjointed or fragmented solutions that arenot centrally systematized or regulated
 
 - Please elaborate. Brief quantitative information may be added.
 
@@ -1411,7 +1464,7 @@ Uganda developed its initial ICT national policy in 2003. The policy framework r
 
 ### 4 Strengthening governance systems
 
-For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for effective education outcomes, governments should strengthen education systems by instituting and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management  information  systems;  transparent  and  effective  financing  procedures  and  mechanisms;  and institutional management arrangements, as well as ensure that robust, timely and accessible data are available' (para. 18).
+For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for effective education outcomes, governments should strengthen education systems by instituting and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional management arrangements, as well as ensure that robust, timely and accessible data are available” (para. 18).
 
 - Please indicate the measures taken in terms of governance (several items may be ticked):
 
