@@ -4,7 +4,13 @@
 
 PRINT | NATIONAL LAW INFORMATION CENTER
 
-※ 이 영문법령은 한국법제연구원에서 제공하고 있으며 , 한국법령의 이해를 높이기 위한 참고자료로써 , 어떠한 법적 효력이나 공식 적 효력도 없습니다 .
+Ministry of Government Legislation
+
+NATIONAL LEGAL INFORMATION CENTER
+
+PRINT
+
+※ 이 영문법령은 한국법제연구원에서 제공하고 있으며, 한국법령의 이해를 높이기 위한 참고자료로써, 어떠한 법적 효력이나 공시적 효력도 없습니다.
 
 # HIGHER EDUCATION ACT
 
@@ -22,19 +28,19 @@ The purpose of this Act is to provide for matters concerning higher education pu
 ##### Article 2 (Types of Schools)
 The following schools shall be established to provide higher education:
 
-- Universities and colleges;
+1. Universities and colleges;
 
-- Industrial colleges;
+2. Industrial colleges;
 
-- Teachers' colleges;
+3. Teachers' colleges;
 
-- Junior colleges;
+4. Junior colleges;
 
-- Air colleges, correspondence colleges, air and correspondence colleges and cyber colleges (hereinafter referred to as "cyber colleges");
+5. Air colleges, correspondence colleges, air and correspondence colleges and cyber colleges (hereinafter referred to as "cyber colleges");
 
-- Technical colleges;
+6. Technical colleges;
 
-- Various kinds of schools.
+7. Various kinds of schools.
 
 [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
@@ -47,9 +53,9 @@ The following schools shall be established to provide higher education:
 ##### Article 4 (Establishment, etc. of Schools)
 (1) Any person who intends to establish a school shall meet the conditions for establishing facilities, equipment, etc. prescribed by Presidential Decree.
 
-- Establishment of a school by any party other than the State requires authorization from the Minister of Education.  <Amended by Act No. 11690, Mar. 23, 2013>
+(2) Establishment of a school by any party other than the State requires authorization from the Minister of Education.  <Amended by Act No. 11690, Mar. 23, 2013>
 
-- Where any founder or operator of a public or private school intends to abolish the school or modify important matters prescribed by Presidential Decree, he/she shall obtain authorization from the Minister of Education.  <Amended by Act No. 11690, Mar. 23, 2013>
+(3) Where any founder or operator of a public or private school intends to abolish the school or modify important matters prescribed by Presidential Decree, he/she shall obtain authorization from the Minister of Education.  <Amended by Act No. 11690, Mar. 23, 2013>
 
 [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
@@ -75,22 +81,22 @@ PRINT | NATIONAL LAW INFORMATION CENTER
 ##### Article 6 (School Regulations)
 (1) The head of a school (where a person establishes a school, the person who intends to establish the school) may establish or amend school regulations (hereinafter referred to as "school regulations") within the scope of statutes.
 
-- Necessary matters such as the entries in and procedures for the formulation and amendments of school regulations, etc. shall be prescribed by Presidential Decree.
+(2) Necessary matters such as the entries in and procedures for the formulation and amendments of school regulations, etc. shall be prescribed by Presidential Decree.
 
 [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
 ##### Article 7 (Educational Finance)
 (1) The State and a local government may provide or subsidize financial resources necessary for schools to accomplish their purposes.
 
-- Schools shall disclose their budgets and account settlements, as prescribed by Ordinance of the Ministry of Education.  <Amended by Act No. 11690, Mar. 23, 2013>
+(2) Schools shall disclose their budgets and account settlements, as prescribed by Ordinance of the Ministry of Education.  <Amended by Act No. 11690, Mar. 23, 2013>
 
-- The Minister of Education shall formulate the five-year basic plan for expansion of support ratio to higher education of the entire national finance, which is reflected to formulate the support plan for the higher education every year, and submit it to the National Assembly before the opening of the regular session of the National Assembly.  <Newly Inserted by Act No. 14054, Mar. 2, 2016; Act No. 15038, Nov. 28, 2017>
+(3) The Minister of Education shall formulate the five-year basic plan for expansion of support ratio to higher education of the entire national finance, which is reflected to formulate the support plan for the higher education every year, and submit it to the National Assembly before the opening of the regular session of the National Assembly.  <Newly Inserted by Act No. 14054, Mar. 2, 2016; Act No. 15038, Nov. 28, 2017>
 
-- When the Minister of Education formulates a basic plan and support plan pursuant to paragraph (3), he/she shall consult with the heads of relevant central administrative agencies and hear the opinions of the heads of local governments thereon in advance, as prescribed by Presidential Decree.  <Newly Inserted by Act No. 15038, Nov. 28, 2017>
+(4) When the Minister of Education formulates a basic plan and support plan pursuant to paragraph (3), he/she shall consult with the heads of relevant central administrative agencies and hear the opinions of the heads of local governments thereon in advance, as prescribed by Presidential Decree.  <Newly Inserted by Act No. 15038, Nov. 28, 2017>
 
-- The Minister of Education may request the head of the relevant central administrative agency or the head of the local government to submit the relevant data, if necessary for formulating the basic plan and support plan prescribed in paragraph (3). In such cases, the head of the relevant central administrative agency or the head of the local government, in receipt of a request, shall comply with such request, except in extenuating circumstances.  <Newly Inserted by Act No. 14054, Mar. 2, 2016>
+(5) The Minister of Education may request the head of the relevant central administrative agency or the head of the local government to submit the relevant data, if necessary for formulating the basic plan and support plan prescribed in paragraph (3). In such cases, the head of the relevant central administrative agency or the head of the local government, in receipt of a request, shall comply with such request, except in extenuating circumstances.  <Newly Inserted by Act No. 14054, Mar. 2, 2016>
 
-- The Minister of Education may, if necessary for formulating a basic plan and support plan prescribed in paragraph (3), conduct a fact-finding survey concerning educational finance, and matters necessary for the methods, details, etc. of the fact-finding survey shall be prescribed by Presidential Decree.  <Newly Inserted by Act No. 15948, Dec. 18, 2018>
+(6) The Minister of Education may, if necessary for formulating a basic plan and support plan prescribed in paragraph (3), conduct a fact-finding survey concerning educational finance, and matters necessary for the methods, details, etc. of the fact-finding survey shall be prescribed by Presidential Decree.  <Newly Inserted by Act No. 15948, Dec. 18, 2018>
 
 [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
@@ -172,11 +178,11 @@ PRINT | NATIONAL LAW INFORMATION CENTER
 
 (2) An institution accredited by the Minister of Education (hereinafter referred to as "accredited institution" in this Article) may, at the request of a university or college, evaluate or certify the overall management of a university or college and operation of curricula (including colleges, departments and majors). Provided, That an institution having the curricula falling under medicine, dentistry, Chinese medicine or nursing shall obtain an evaluation and certification from an accredited institution as prescribed by Presidential Decree.  <Amended by Act No. 11690, Mar. 23, 2013; Act No. 13571, Dec. 22, 2015>
 
-- The Minister of Education may designate a relevant specialized evaluation institution, a school consultative body under Article 10, and an organization or a group, etc. designed for the promotion of academic research as an accredited institution.  <Amended by Act No. 11690, Mar. 23, 2013>
+(3) The Minister of Education may designate a relevant specialized evaluation institution, a school consultative body under Article 10, and an organization or a group, etc. designed for the promotion of academic research as an accredited institution.  <Amended by Act No. 11690, Mar. 23, 2013>
 
-- Where the Government intends to provide a university or college with administrative and financial support, it may utilize the outcomes of evaluation or certification conducted under paragraph (2).
+(4) Where the Government intends to provide a university or college with administrative and financial support, it may utilize the outcomes of evaluation or certification conducted under paragraph (2).
 
-- Necessary matters for the evaluation or certification under paragraph (2), designation of an accredited institution under paragraph (3) and utilization of the outcomes of evaluation or certification under paragraph (4) shall be prescribed by Presidential Decree.
+(5) Necessary matters for the evaluation or certification under paragraph (2), designation of an accredited institution under paragraph (3) and utilization of the outcomes of evaluation or certification under paragraph (4) shall be prescribed by Presidential Decree.
 
 [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
@@ -185,11 +191,13 @@ PRINT | NATIONAL LAW INFORMATION CENTER
 
 (2) The Minister of Education may request the heads of higher education institutions to submit data for the purpose of conducting an educational statistics survey referred to in paragraph (1) (hereafter in this Article referred to as 'educational statistics survey'). In such cases, the heads of higher education institutions shall comply with such request except in extenuating circumstances.
 
-(3) The Minister of Education may request the heads of central administrative agencies, the superintendents of education, and the heads of the institutions concerned, including public institutions under the Act on the Management of Public Institutions, who have related data, to link their data with the others' data so as to enhance the accuracy of an educational statistics survey and reduce survey-related affairs. In such cases, the heads of the institutions so requested shall comply with such request except in extenuating circumstances. (4) The Minister of Education may collect personal data containing the resident registration numbers of the following persons when conducting an educational statistics survey, and may provide to or be provided from the institutions requested for linkage pursuant to paragraph (3) for the purpose of the survey, analysis, verification, etc. of statistics:
+(3) The Minister of Education may request the heads of central administrative agencies, the superintendents of education, and the heads of the institutions concerned, including public institutions under the Act on the Management of Public Institutions, who have related data, to link their data with the others’ data so as to enhance the accuracy of an educational statistics survey and reduce survey-related affairs. In such cases, the heads of the institutions so requested shall comply with such request except in extenuating circumstances.
 
-- Teachers and administrative personnel of the schools and educational administration agencies subject to survey;
+(4) The Minister of Education may collect personal data containing the resident registration numbers of the following persons when conducting an educational statistics survey, and may provide to or be provided from the institutions requested for linkage pursuant to paragraph (3) for the purpose of the survey, analysis, verification, etc. of statistics:
 
-- Students and graduates of the schools subject to survey.
+1. Teachers and administrative personnel of the schools and educational administration agencies subject to survey;
+
+2. Students and graduates of the schools subject to survey.
 
 (5) The Minister of Education may provide the data collected through an educational statistics survey to persons who intend to use such data. In such cases, such data shall be provided in a form in which a specific individual, corporation or organization is unidentifiable, excluding data related to the items disclosed pursuant to the Act on Special Cases concerning the Disclosure of Information by Education-Related Institutions.
 
@@ -207,7 +215,7 @@ https://www.law.go.kr/LSW/eng/engLsSideInfoPrint.do?contentNm= 영문법령
 
 PRINT | NATIONAL LAW INFORMATION CENTER
 
-- For conducting affairs for educational statistics surveys, the Minister of Education may designate a center for national educational statistics and entrust it with such affairs, as prescribed by Presidential Decree. In such cases, the Minister of Education may subsidize expenses necessary for such designation and entrustment.
+(7) For conducting affairs for educational statistics surveys, the Minister of Education may designate a center for national educational statistics and entrust it with such affairs, as prescribed by Presidential Decree. In such cases, the Minister of Education may subsidize expenses necessary for such designation and entrustment.
 
 (8) In addition to matters provided for in paragraphs (1) through (7), matters necessary for objects, procedures, disclosure of result, etc. of educational statistics surveys shall be prescribed by Presidential Decree. [This Article Newly Inserted by Act. No. 14600, Mar. 21, 2017]
 
@@ -232,22 +240,22 @@ Students' autonomous activities shall be encouraged and protected, and the basic
 ##### Article 14 (Classification of School Personnel)
 (1) Each school (excluding various kinds of schools; hereafter the same shall apply in this Article) shall have the president or dean as the head of a school.
 
-- School teachers to be assigned to schools shall be classified as professors, associate professors, and
+(2) School teachers to be assigned to schools shall be classified as professors, associate professors, and assistant professors in addition to presidents and deans referred to in paragraph (1).  <Amended by Act No. 11212, Jan. 26, 2012>
 
-- assistant professors in addition to presidents and deans referred to in paragraph (1).  <Amended by Act No. 11212, Jan. 26, 2012>
+(3) Schools shall have personnel such as administrative personnel, etc. necessary for the operation of schools and assistant instructors.
 
-- Schools shall have personnel such as administrative personnel, etc. necessary for the operation of schools and assistant instructors.
+(4) Various kinds of schools shall have the required school teachers, personnel and assistant instructors (hereinafter referred to as "school personnel"), as provided for in paragraphs (1) through (3).
 
-- Various kinds of schools shall have the required school teachers, personnel and assistant instructors (hereinafter referred to as "school personnel"), as provided for in paragraphs (1) through (3). [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
+[This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
 ##### Article 14-2 (Instructors)
 (1) Instructors referred to in Article 14 (2) shall be appointed by means of a written contract, fixing working conditions including matters prescribed by Presidential Decree, such as the period of employment and wage in compliance with the employment standards and procedures and teaching time prescribed by Presidential Decree, and the term of appointment shall be at least one year: Provided, That the term of appointment may be less than one year in any of the following cases:  <Amended by Act No. 14054, Mar. 2, 2016; Act No. 15948, Dec. 18, 2018>
 
-- Where it is necessary for efficiently operating the curriculums and classes as an instructor of a distant college (excluding cyber colleges);
+1. Where it is necessary for efficiently operating the curriculums and classes as an instructor of a distant college (excluding cyber colleges);
 
-- Where an alternative instructor is urgently needed for the remaining period of a semester due to sick leave, maternity leave, taking time off, dispatch, disciplinary action and research year (not more than six months) of teachers for less than six months, or removal from a position, resignation and dismissal of teachers, which occur during the semester.
+2. Where an alternative instructor is urgently needed for the remaining period of a semester due to sick leave, maternity leave, taking time off, dispatch, disciplinary action and research year (not more than six months) of teachers for less than six months, or removal from a position, resignation and dismissal of teachers, which occur during the semester.
 
-- No instructors shall be deemed school personnel, in cases of applying the Public Educational Officials Act, the Private School Act and the Pension for Private School Teachers and Staff Act: Provided, That the following
+(2) No instructors shall be deemed school personnel, in cases of applying the Public Educational Officials Act, the Private School Act and the Pension for Private School Teachers and Staff Act: Provided, That the following
 
 https://www.law.go.kr/LSW/eng/engLsSideInfoPrint.do?contentNm= 영문법령
 
@@ -263,30 +271,34 @@ PRINT | NATIONAL LAW INFORMATION CENTER
 
 provisions shall respectively apply mutatis mutandis to the appointment, guarantee of status, etc. of instructors at any national, public or private school:  <Amended by Act No. 13819, Jan. 27, 2016; Act No. 15948, Dec. 18, 2018>
 
-- The following provisions to instructors at any national or public school:
+1. The following provisions to instructors at any national or public school:
 
 (a) Articles 5 (1), 10, the main body of Article 10-3 (1), 11-4 (7), 23, 23-2, 25 (2), 26, 43, the proviso to Article 47 (1) and 48 of the Public Educational Officials Act. In such cases, 'dismissal or discharge' in the main body of Article 10-3 (1) of the Public Educational Officials Act shall be construed as 'dismissal', 'in cases of recommending the appointment of a public educational official under paragraph (1)' in the main sentence of Article 25 (2) of the said Act as 'in cases of appointing an instructor', 'teaching assistant' in Article 26 (1) of the said Act as 'instructor', and 'disciplinary action' in Article 43 (2) of the said Act as 'grounds stipulated in the contract of appointment', respectively;
 
 (b) Article 33 and subparagraph 1 of Article 69 of the State Public Officials Act;
 
-- The following provisions to instructors at any private school:
+2. The following provisions to instructors at any private school:
 
 (a) Articles 23 (2) and (3), 53-2 (1), (2) and (9), 53-4 (1), 54, the main sentence of 54-3 (6), 56 and 60 of the Private School Act. In such cases, 'dismissal or discharge' in the main sentence of Article 54-3 (6) of the Private School Act shall be construed as 'dismissal', and 'disciplinary action' in the main sentence of Article 56 (1) of the same Act as 'grounds stipulated in the contract of appointment', respectively;
 
 (b) Article 33 and subparagraph 1 of Article 69 of the State Public Officials Act.
 
-(3) Except as provided in paragraphs (1) and (2), procedures for appointing and re-appointing instructors (procedures for reappointment including new appointment shall be guaranteed until the third year, and thereafter, procedures for new appointment, re-appointment, etc. shall be taken) and other necessary matters standards prescribed by Presidential Decree.  <Amended by Act No. 15948, Dec. 18, 2018>
+(3) Except as provided in paragraphs (1) and (2), procedures for appointing and re-appointing instructors (procedures for reappointment including new appointment shall be guaranteed until the third year, and thereafter, procedures for new appointment, re-appointment, etc. shall be taken) and other necessary matters shall be stipulated by school regulations or articles of incorporation of school foundations in compliance with the standards prescribed by Presidential Decree.  <Amended by Act No. 15948, Dec. 18, 2018>
 
-- shall be stipulated by school regulations or articles of incorporation of school foundations in compliance with the (4) Every instructor shall be paid even during the vacation. In such cases, detailed matters, such as the level of wages shall be determined by an appointment contract.  <Newly Inserted by Act No. 15948, Dec. 18, 2018> (5) The Special Act on the Improvement of Teachers' Status and the Protection of Their Educational Activities shall apply to instructors.  <Newly Inserted by Act No. 15948, Dec. 18, 2018> [This Article Newly Inserted by Act No. 11212, Jan. 26, 2012]
+(4) Every instructor shall be paid even during the vacation. In such cases, detailed matters, such as the level of wages shall be determined by an appointment contract.  <Newly Inserted by Act No. 15948, Dec. 18, 2018>
+
+(5) The Special Act on the Improvement of Teachers’ Status and the Protection of Their Educational Activities shall apply to instructors.  <Newly Inserted by Act No. 15948, Dec. 18, 2018>
+
+[This Article Newly Inserted by Act No. 11212, Jan. 26, 2012]
 
 ##### Article 15 (Functions of School Personnel)
 (1) The president or dean shall exercise overall control of school affairs, supervise subordinate school personnel and guide students.
 
-- School teachers shall educate and guide students, and do academic research: Provided, That, if deemed necessary, they may assume full charge of education and guidance, academic research, or industry-academic cooperation pursuant to subparagraph 6 of Article 2 of the Industrial Education Enhancement and IndustryAcademia-Research Cooperation Promotion Act, as determined by school regulations or the articles of incorporation.  <Amended by Act No. 14391, Dec. 20, 2016>
+(2) School teachers shall educate and guide students, and do academic research: Provided, That, if deemed necessary, they may assume full charge of education and guidance, academic research, or industry-academic cooperation pursuant to subparagraph 6 of Article 2 of the Industrial Education Enhancement and Industry-Academia-Research Cooperation Promotion Act, as determined by school regulations or the articles of incorporation.  <Amended by Act No. 14391, Dec. 20, 2016>
 
-- Personnel, including administrative personnel, etc. shall take charge of administrative affairs and other affairs of schools.
+(3) Personnel, including administrative personnel, etc. shall take charge of administrative affairs and other affairs of schools.
 
-- Assistant instructors shall assist in affairs concerning education, research and school affairs.
+(4) Assistant instructors shall assist in affairs concerning education, research and school affairs.
 
 [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
@@ -310,11 +322,11 @@ PRINT | NATIONAL LAW INFORMATION CENTER
 
 (2) Article 14-2 (1) and (2) (excluding Article 11-4 (7) of the Educational Officials Act and Article 53-2 (9) of the Private School Act) shall apply mutatis mutandis to part-time teachers, visiting teachers, etc. (hereinafter referred to as "part-time teacher, etc."). In such cases, "instructor" shall be considered as "part-time teacher, etc."  <Newly Inserted by Act No. 15948, Dec. 18, 2018>
 
-- Notwithstanding paragraph (2), an employment period of part-time teachers may be less than one year in any of the following cases:  <Newly Inserted by Act No. 15948, Dec. 18, 2018>
+(3) Notwithstanding paragraph (2), an employment period of part-time teachers may be less than one year in any of the following cases:  <Newly Inserted by Act No. 15948, Dec. 18, 2018>
 
-- Appointing part-time teachers, etc. to participate in research or industry-academic collaboration lasting less than one year the order of which is placed by institutions other than schools;
+1. Appointing part-time teachers, etc. to participate in research or industry-academic collaboration lasting less than one year the order of which is placed by institutions other than schools;
 
-- Appointing persons working for the State or local governments (excluding national and public schools prescribed in Article 3) and public institutions prescribed in Article 4 of the Act on the Management of Public Institutions on a regular basis as part-time teachers, etc. for the efficient operation of curriculums or classes.
+2. Appointing persons working for the State or local governments (excluding national and public schools prescribed in Article 3) and public institutions prescribed in Article 4 of the Act on the Management of Public Institutions on a regular basis as part-time teachers, etc. for the efficient operation of curriculums or classes.
 
 [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
@@ -324,31 +336,31 @@ PRINT | NATIONAL LAW INFORMATION CENTER
 ##### Article 18 (Names of Schools)
 (1) Names of national schools shall be determined by Presidential Decree, those of public schools by ordinance of the relevant local government, and those of private schools by the articles of incorporation of the relevant school foundation.
 
-- In determining names of schools pursuant to paragraph (1), the term "college" or "university" may be used differently from the kinds of schools referred to in Article 2.
+(2) In determining names of schools pursuant to paragraph (1), the term "college" or "university" may be used differently from the kinds of schools referred to in Article 2.
 
 [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
 ##### Article 19 (Organization of Schools)
 (1) Schools shall have necessary structures to achieve the purpose of establishment within the scope prescribed by Presidential Decree.
 
-- Basic matters concerning the structure of schools shall be prescribed by Presidential Decree and school regulations in cases of national schools, by ordinance of the relevant local government and school regulations in cases of public schools, and by the articles of incorporation of the relevant school foundation and school regulations in cases of private schools.
+(2) Basic matters concerning the structure of schools shall be prescribed by Presidential Decree and school regulations in cases of national schools, by ordinance of the relevant local government and school regulations in cases of public schools, and by the articles of incorporation of the relevant school foundation and school regulations in cases of private schools.
 
 [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
 ##### Article 19-2 (Establishment, etc. of University Senates)
 (1) To deliberate on the following matters, every school shall establish and operate a university senate comprised of school personnel, students, etc. (hereinafter referred to as "university senate"): Provided, That it shall request any advice for the matters prescribed in subparagraphs 2 and 3:
 
-- Matters concerning plans for developing the university;
+1. Matters concerning plans for developing the university;
 
-- Matters concerning the operation of the curriculums;
+2. Matters concerning the operation of the curriculums;
 
-- Matters concerning the enactment and revision of the university charter;
+3. Matters concerning the enactment and revision of the university charter;
 
-- Matters concerning the enactment and revision of the school regulations;
+4. Matters concerning the enactment and revision of the school regulations;
 
-- Matters concerning the recommendation of executive officers of the school foundation or members of the open-type director recommendation committee prescribed in other Acts (limited to private schools);
+5. Matters concerning the recommendation of executive officers of the school foundation or members of the open-type director recommendation committee prescribed in other Acts (limited to private schools);
 
-- Other important matters concerning education, which are prescribed by the school regulations or by the articles of association.
+6. Other important matters concerning education, which are prescribed by the school regulations or by the articles of association.
 
 https://www.law.go.kr/LSW/eng/engLsSideInfoPrint.do?contentNm= 영문법령
 
@@ -362,42 +374,42 @@ https://www.law.go.kr/LSW/eng/engLsSideInfoPrint.do?contentNm= 영문법령
 
 PRINT | NATIONAL LAW INFORMATION CENTER
 
-- Every university senate shall be comprised of at least eleven senators who represent the units of school personnel, employees, teaching assistants and students, respectively, on condition that those who may be helpful to the development of alumnus and school may be included therein. In such cases, the number of senators belonging to any of the units shall not exceed 1/2 of the quorum of senators.
+(2) Every university senate shall be comprised of at least eleven senators who represent the units of school personnel, employees, teaching assistants and students, respectively, on condition that those who may be helpful to the development of alumnus and school may be included therein. In such cases, the number of senators belonging to any of the units shall not exceed 1/2 of the quorum of senators.
 
-- Every university senate shall have one chairperson and one vice-chairperson, who shall be elected from among and by the senators. In such cases, the chairperson shall be elected from among and by the senators who are not students.
+(3) Every university senate shall have one chairperson and one vice-chairperson, who shall be elected from among and by the senators. In such cases, the chairperson shall be elected from among and by the senators who are not students.
 
-- The term of office of senators shall be two years: Provided, That the term of office of senators who are students shall be one year.
+(4) The term of office of senators shall be two years: Provided, That the term of office of senators who are students shall be one year.
 
-- Every university senate may, if necessary for deliberating on the matters prescribed in the subparagraphs of paragraph (1), request the head of the school to submit relevant materials, as prescribed by Presidential Decree. In such cases, the head of the school, in receipt of a request, shall comply therewith, unless there is a compelling reason not to do so.
+(5) Every university senate may, if necessary for deliberating on the matters prescribed in the subparagraphs of paragraph (1), request the head of the school to submit relevant materials, as prescribed by Presidential Decree. In such cases, the head of the school, in receipt of a request, shall comply therewith, unless there is a compelling reason not to do so.
 
-- Every university senate shall prepare, keep and make public the minutes in which the dates, times and places of meetings, outlines of statements, matters determined, etc. are recorded: Provided, That the entire or part of minutes may not be open to the public by the resolution of the university senate as to matters prescribed by Presidential Decree, such as matters concerned to substantially infringe individual's privacy.
+(6) Every university senate shall prepare, keep and make public the minutes in which the dates, times and places of meetings, outlines of statements, matters determined, etc. are recorded: Provided, That the entire or part of minutes may not be open to the public by the resolution of the university senate as to matters prescribed by Presidential Decree, such as matters concerned to substantially infringe individual's privacy.
 
-- Other matters necessary for the organization, operation, etc. of university senates shall be prescribed by the articles of association and school regulations of the relevant school foundations, as prescribed by Presidential Decree.
+(7) Other matters necessary for the organization, operation, etc. of university senates shall be prescribed by the articles of association and school regulations of the relevant school foundations, as prescribed by Presidential Decree.
 
 [This Article Newly Inserted by Act No. 15038, Nov. 28, 2017]
 
 ##### Article 20 (School Year, etc.)
 (1) The school year of schools shall be from March 1 until the last day of February of the next year: Provided, That it may be determined otherwise by school regulation, if necessary for the operation of schools.
 
-- Matters necessary for the semesters, the number of school days, holidays, etc. shall be determined by school regulations within the scope prescribed by Presidential Decree.
+(2) Matters necessary for the semesters, the number of school days, holidays, etc. shall be determined by school regulations within the scope prescribed by Presidential Decree.
 
 [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
 ##### Article 21 (Operation of Curriculum)
 (1) Schools shall operate curriculums, as determined by school regulations: Provided, That any curriculum operated jointly with domestic or foreign universities shall be prescribed by Presidential Decree.
 
-- Every Korean university may have a foreign university operate the curriculums of the Korean university and award the academic degrees of the Korean university to students who complete such curriculums, as prescribed by Presidential Decree.  <Newly Inserted by Act No. 15038, Nov. 28, 2017>
+(2) Every Korean university may have a foreign university operate the curriculums of the Korean university and award the academic degrees of the Korean university to students who complete such curriculums, as prescribed by Presidential Decree.  <Newly Inserted by Act No. 15038, Nov. 28, 2017>
 
-- The completion of the course of study shall be based on the grade and credit system, etc., and study hours per credit shall be prescribed by Presidential Decree.
+(3) The completion of the course of study shall be based on the grade and credit system, etc., and study hours per credit shall be prescribed by Presidential Decree.
 
 [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
 ##### Article 22 (Classes, etc.)
 (1) Classes of a school may be provided as day classes, evening classes, seasonal classes, classes by air and correspondence and field practice classes, as determined by school regulations.
 
-- Where it is intended to determine the method of giving classes by air and correspondence or the method of giving classes outside school by school regulations pursuant to paragraph (1), it shall be done as prescribed by Presidential Decree.  <Newly Inserted by Act No. 15038, Nov. 28, 2017>
+(2) Where it is intended to determine the method of giving classes by air and correspondence or the method of giving classes outside school by school regulations pursuant to paragraph (1), it shall be done as prescribed by Presidential Decree.  <Newly Inserted by Act No. 15038, Nov. 28, 2017>
 
-- Schools may operate field practice semesters, as determined by school regulations, if necessary for enhancing the field adaptability of students.
+(3) Schools may operate field practice semesters, as determined by school regulations, if necessary for enhancing the field adaptability of students.
 
 [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
@@ -416,30 +428,30 @@ PRINT | NATIONAL LAW INFORMATION CENTER
 ##### Article 23 (Recognition, etc. of Credits)
 (1) Any of the following students (including those prior to his/her entry to relevant schools) may be deemed to have earned credits at relevant schools, as prescribed by school regulations, within the scope prescribed by Presidential Decree:  <Amended by Act No. 12036, Aug. 13, 2013; Act No. 15038, Nov. 28, 2017>
 
-- Where he/she has earned credits in any other domestic or foreign school;
+1. Where he/she has earned credits in any other domestic or foreign school;
 
-- Where he/she has earned credits at lifelong education centers that offer the education courses and degrees that are deemed equivalent to those offered by a junior college or university graduate prescribed in Articles 31 (4), 32 or 33 (3) of the Lifelong Education Act;
+2. Where he/she has earned credits at lifelong education centers that offer the education courses and degrees that are deemed equivalent to those offered by a junior college or university graduate prescribed in Articles 31 (4), 32 or 33 (3) of the Lifelong Education Act;
 
-- Where he/she has completed a curriculum equivalent to university courses in any domestic or foreign high school and in any of the domestic schools referred to in the subparagraphs of Article 2 (including higher educational institutions established under any other Act);
+3. Where he/she has completed a curriculum equivalent to university courses in any domestic or foreign high school and in any of the domestic schools referred to in the subparagraphs of Article 2 (including higher educational institutions established under any other Act);
 
-- Where any person who takes a leave of absence to enlist in the military or to complete mandatory military service pursuant to Article 73 (2) of the Military Service Act has earned credits after taking distance learning courses;
+4. Where any person who takes a leave of absence to enlist in the military or to complete mandatory military service pursuant to Article 73 (2) of the Military Service Act has earned credits after taking distance learning courses;
 
-- Where credits are recognized by the Minister of Education pursuant to Article 7 (1) or (2) of the Act on Recognition of Credits, etc.;
+5. Where credits are recognized by the Minister of Education pursuant to Article 7 (1) or (2) of the Act on Recognition of Credits, etc.;
 
-- Where it is recognized that he/she studied, did research or practiced at other schools, research institutions, industrial enterprises, etc. in Korea or foreign countries or worked for any industrial enterprises.
+6. Where it is recognized that he/she studied, did research or practiced at other schools, research institutions, industrial enterprises, etc. in Korea or foreign countries or worked for any industrial enterprises.
 
-- Matters necessary for recognizing credits pursuant to paragraph (1) 6, such as standards and procedures for credit recognition shall be prescribed by school regulations, as prescribed by Presidential Decree.  <Amended by Act No. 12036, Aug. 13, 2013>
+(2) Matters necessary for recognizing credits pursuant to paragraph (1) 6, such as standards and procedures for credit recognition shall be prescribed by school regulations, as prescribed by Presidential Decree.  <Amended by Act No. 12036, Aug. 13, 2013>
 
 [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
 ##### Article 23-2 (Transfer Admission)
 Any person who has earned credits falling under any of the following subparagraphs or higher than standards set by school regulations may be selected as transfer students, as prescribed by school regulations:
 
-- Credits he/she has earned from domestic and foreign schools;
+1. Credits he/she has earned from domestic and foreign schools;
 
-- Credits he/she has earned under the Act on Recognition of Credits, etc.;
+2. Credits he/she has earned under the Act on Recognition of Credits, etc.;
 
-- Credits he has earned under the Lifelong Education Act.
+3. Credits he has earned under the Lifelong Education Act.
 
 [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
@@ -456,11 +468,11 @@ efforts by students and schools to be able to afford their families and school l
 ##### Article 23-4 (Leave of Absence from School)
 (1) The head of schools may have any student take a leave of absence from school as stipulated by the school regulations, if any student wants to take a leave of absence from school due to any of the following grounds. Provided, That in cases of falling under paragraph (1), he/she shall have him/her take a leave of absence from school:
 
-- Enlistment or service in the army under Article 73 (1) of the Military Service Act;
+1. Enlistment or service in the army under Article 73 (1) of the Military Service Act;
 
-- Long-term recuperation due to the physical and mental disorder;
+2. Long-term recuperation due to the physical and mental disorder;
 
-- When necessary for rearing children of less than 8 years old (referring to less than second grader of elementary school, in cases where he/she is at school), or where a female student is pregnant or giving birth;
+3. When necessary for rearing children of less than 8 years old (referring to less than second grader of elementary school, in cases where he/she is at school), or where a female student is pregnant or giving birth;
 
 https://www.law.go.kr/LSW/eng/engLsSideInfoPrint.do?contentNm= 영문법령
 
@@ -474,7 +486,9 @@ https://www.law.go.kr/LSW/eng/engLsSideInfoPrint.do?contentNm= 영문법령
 
 PRINT | NATIONAL LAW INFORMATION CENTER
 
-- Other grounds as stipulated by school regulations. [This Article Newly Inserted by Act No. 14054, Mar. 2, 2016]
+4. Other grounds as stipulated by school regulations.
+
+[This Article Newly Inserted by Act No. 14054, Mar. 2, 2016]
 
 ##### Article 23-5 (Postponement of Acquisition of Bachelor's Degree)
 
@@ -482,11 +496,13 @@ PRINT | NATIONAL LAW INFORMATION CENTER
 
 prescribed by school regulations at school (excluding the schools prescribed in subparagraphs 5 through 7 of Article 2: hereafter the same shall apply in this Article) which are necessary for acquiring a bachelor's degree (including associate degrees: hereafter the same shall apply in this Article) may request the postponement of acquisition of a bachelor's degree, as prescribed by school regulations.
 
-- No school shall impose the duty to take classes, obtain credits, etc. upon students who postpone the acquisition of bachelor's degree pursuant to paragraph (1).
+(2) No school shall impose the duty to take classes, obtain credits, etc. upon students who postpone the acquisition of bachelor's degree pursuant to paragraph (1).
 
-- No student who postpones the acquisition of a bachelor's degree pursuant to paragraph (1) shall be considered as a registered student in various publications of university information, etc. prescribed in the Act on Special Cases concerning the Disclosure of Information by Education-Related Institutions.
+(3) No student who postpones the acquisition of a bachelor's degree pursuant to paragraph (1) shall be considered as a registered student in various publications of university information, etc. prescribed in the Act on Special Cases concerning the Disclosure of Information by Education-Related Institutions.
 
-- Matters necessary for operating the postponement of acquisition of a bachelor's degree, other than those provided for in paragraphs (1) through (3), shall be prescribed by Presidential Decree. [This Article Newly Inserted by Act No. 15552, Apr. 17, 2018]
+(4) Matters necessary for operating the postponement of acquisition of a bachelor's degree, other than those provided for in paragraphs (1) through (3), shall be prescribed by Presidential Decree.
+
+[This Article Newly Inserted by Act No. 15552, Apr. 17, 2018]
 
 ##### Article 24 (Branch Schools)
 Any founder or operator of a school may establish branch schools in the Republic of Korea or any foreign country after obtaining authorization from the Minister of Education, as prescribed by Presidential Decree.  <Amended by Act No. 11690, Mar. 23, 2013>
@@ -531,31 +547,29 @@ https://www.law.go.kr/LSW/eng/engLsSideInfoPrint.do?contentNm= 영문법령
 
 PRINT | NATIONAL LAW INFORMATION CENTER
 
-- Graduate schools may establish research courses which do not grant degrees as necessary, in addition to degree courses.
+(2) Graduate schools may establish research courses which do not grant degrees as necessary, in addition to degree courses.
 
-- Matters necessary for degree courses and research courses in universities and colleges and operation thereof shall be prescribed by Presidential Decree.
+(3) Matters necessary for degree courses and research courses in universities and colleges and operation thereof shall be prescribed by Presidential Decree.
 
 [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
 ##### Article 29-2 (Types of Graduate Schools)
 (1) Graduate schools shall be classified as follows according to their main educational purpose:
 
-- General graduate schools: Graduate schools, the main educational purpose of which is to learn basic theories of studies and to conduct advanced academic research;
+1. General graduate schools: Graduate schools, the main educational purpose of which is to learn basic theories of studies and to conduct advanced academic research;
 
-- Specialized graduate schools: Graduate schools, the main educational purpose of which is to apply practical theories required for training of human resources in the field of specialized vocations and to conduct research and development related thereto;
+2. Specialized graduate schools: Graduate schools, the main educational purpose of which is to apply practical theories required for training of human resources in the field of specialized vocations and to conduct research and development related thereto;
 
-- Special graduate schools: Graduate schools, the main educational purpose of which is to provide continuing education for working people or ordinary adults.
+3. Special graduate schools: Graduate schools, the main educational purpose of which is to provide continuing education for working people or ordinary adults.
 
-(2) Universities (excluding graduate school universities or colleges under Article 30) may have general graduate schools, specialized graduate schools or special graduate schools; industrial colleges and teachers' colleges may have specialized graduate schools or special graduate schools; cyber colleges may have special graduate schools; and graduate school universities or colleges under Article 30 may have either specialized graduate schools or special graduate schools.  <Amended by Act No. 12036, Aug. 13, 2013>
-
-- Matters concerning the establishment and operation of a law school among the specialized graduate schools under paragraph (1) shall be prescribed separately by other Acts.
+(3) Matters concerning the establishment and operation of a law school among the specialized graduate schools under paragraph (1) shall be prescribed separately by other Acts.
 
 [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
 ##### Article 29-3 (Combination of Degree Courses)
 (1) Universities or colleges which have graduate schools may establish courses combining bachelor's and master's degree courses.
 
-- Graduate schools which have courses for doctor's degree may establish courses combining master's and doctor's degree courses.
+(2) Graduate schools which have courses for doctor's degree may establish courses combining master's and doctor's degree courses.
 
 [This Article Newly Inserted by Act No. 10866, Jul. 21, 2011]
 
@@ -567,15 +581,15 @@ Where necessary to train experts in a specific field, universities or colleges t
 ##### Article 31 (Term of School Years)
 (1) The term of school years for universities, colleges and graduate schools shall be as follows:
 
-- Bachelor's degree courses: Four to six years: Provided, That the cases where the term of school years shall be made six years shall be prescribed by Presidential Decree;
+1. Bachelor's degree courses: Four to six years: Provided, That the cases where the term of school years shall be made six years shall be prescribed by Presidential Decree;
 
-- Combined course of a bachelor's and a master's degree: Not less than six years: Provided, That the term of school years shall not be less than that totaling the term of courses for a bachelor's degree and a master's degree;
+2. Combined course of a bachelor's and a master's degree: Not less than six years: Provided, That the term of school years shall not be less than that totaling the term of courses for a bachelor's degree and a master's degree;
 
-- Master's degree courses and doctor's degree courses: Not less than two years, respectively;
+3. Master's degree courses and doctor's degree courses: Not less than two years, respectively;
 
-- Combined course of a master's degree and a doctor's degree: Not less than four years, Provided, That the term of school years shall not be less than that totaling the term of courses for a master's degree and a doctor's degree.
+4. Combined course of a master's degree and a doctor's degree: Not less than four years, Provided, That the term of school years shall not be less than that totaling the term of courses for a master's degree and a doctor's degree.
 
-- Notwithstanding the provisions of paragraphs (1), the term of school years referred to in paragraphs (1) may be reduced for any person who has earned more credits than those required for acquiring a degree pursuant to
+(2) Notwithstanding the provisions of paragraphs (1), the term of school years referred to in paragraphs (1) may be reduced for any person who has earned more credits than those required for acquiring a degree pursuant to
 
 https://www.law.go.kr/LSW/eng/engLsSideInfoPrint.do?contentNm= 영문법령
 
@@ -599,26 +613,26 @@ Matters regarding the maximum student number for each university and college (in
 ##### Article 33 (Admission Qualifications)
 (1) Those who have graduated from high schools or recognized as having equivalent or higher academic background under statutes are qualified to enter universities and colleges (including industrial colleges, teachers' colleges, junior colleges, and cyber colleges, but excluding graduate school universities or colleges).
 
-- Those qualified as referred to in paragraph (1) or those who attend the relevant school and meet the standards determined by school regulations are qualified to enter the combined course of a bachelor's degree and a master's degree.
+(2) Those qualified as referred to in paragraph (1) or those who attend the relevant school and meet the standards determined by school regulations are qualified to enter the combined course of a bachelor's degree and a master's degree.
 
-- Those who hold a bachelor's degree or those who have been recognized as having equivalent or higher academic background under statutes are qualified to take master's degree courses or combined courses of a master's degree and a doctor's degree of a graduate school.
+(3) Those who hold a bachelor's degree or those who have been recognized as having equivalent or higher academic background under statutes are qualified to take master's degree courses or combined courses of a master's degree and a doctor's degree of a graduate school.
 
-- Those who hold a master's degree or those who have been recognized as having equivalent or higher academic background under statutes are qualified to take doctor's degree courses of a graduate school. [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
+(4) Those who hold a master's degree or those who have been recognized as having equivalent or higher academic background under statutes are qualified to take doctor's degree courses of a graduate school.
+
+[This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
 ##### Article 34 (Methods for Selecting Students, etc.)
 (1) The head of any university or college (including any industrial college, teachers' college, junior college and cyber college, but excluding any graduate school university or college) shall select students to be admitted through regular selection process or special selection process (hereinafter referred to as "admission screening") from among those who have qualifications referred to in Article 33 (1).  <Amended by Act No. 16330, Apr. 23, 2019>
 
-- Methods of admission screening, student selection timetables and matters necessary for the operation thereof shall be prescribed by Presidential Decree.  <Amended by Act No. 16330, Apr. 23, 2019>
+(2) Methods of admission screening, student selection timetables and matters necessary for the operation thereof shall be prescribed by Presidential Decree.  <Amended by Act No. 16330, Apr. 23, 2019>
 
-- The Minister of Education may administer examinations prescribed by Presidential Decree for utilization of the outcomes thereof as admission screening data.  <Amended by Act No. 11690, Mar. 23, 2013>
+(3) The Minister of Education may administer examinations prescribed by Presidential Decree for utilization of the outcomes thereof as admission screening data.  <Amended by Act No. 11690, Mar. 23, 2013>
 
-- The Minister of Education shall, if necessary for applicants with disabilities prescribed in Article 2 (1) and (2) of the Act on Welfare of Persons with Disabilities and other applicants equivalent thereto in examinations administered under paragraph (3), prepare and implement plans to provide convenience, such as permitting to carry assist devices, extending test time, providing any enlarged test paper and answer sheets and allocating separate testing rooms.  <Newly Inserted by Act No. 15038, Nov. 28, 2017>
+(4) The Minister of Education shall, if necessary for applicants with disabilities prescribed in Article 2 (1) and (2) of the Act on Welfare of Persons with Disabilities and other applicants equivalent thereto in examinations administered under paragraph (3), prepare and implement plans to provide convenience, such as permitting to carry assist devices, extending test time, providing any enlarged test paper and answer sheets and allocating separate testing rooms.  <Newly Inserted by Act No. 15038, Nov. 28, 2017>
 
-- With respect to any person who has cheated in an examination administered under paragraph (3), results of the relevant examination shall become invalid and his/her qualifications to take an examination shall be suspended for one year following the year in which the date on which the relevant examination takes place falls: Provided, That with respect to any person who has committed any minor misconduct determined by the Minister of Education, such as possessing or carrying in any prohibited articles for the fair management of the examination, or failing to comply with any instruction given by the supervisor, his/her qualifications to take an examination shall not be suspended.  <Amended by Act No. 11690, Mar. 23, 2013>
+(5) With respect to any person who has cheated in an examination administered under paragraph (3), results of the relevant examination shall become invalid and his/her qualifications to take an examination shall be suspended for one year following the year in which the date on which the relevant examination takes place falls: Provided, That with respect to any person who has committed any minor misconduct determined by the Minister of Education, such as possessing or carrying in any prohibited articles for the fair management of the examination, or failing to comply with any instruction given by the supervisor, his/her qualifications to take an examination shall not be suspended.  <Amended by Act No. 11690, Mar. 23, 2013>
 
-- No person whose qualifications to take an examination are suspended under paragraph (5), shall sit for an examination referred to in paragraph (3) during the suspension period.  <Amended by Act No. 15038, Nov. 28,
-
-- 2017>
+(6) No person whose qualifications to take an examination are suspended under paragraph (5), shall sit for an examination referred to in paragraph (3) during the suspension period.  <Amended by Act No. 15038, Nov. 28, 2017>
 
 https://www.law.go.kr/LSW/eng/engLsSideInfoPrint.do?contentNm= 영문법령
 
@@ -685,11 +699,11 @@ PRINT | NATIONAL LAW INFORMATION CENTER
 
 16330, Apr. 23, 2019>
 
-- Basic directions and subjects, methods of evaluation, and question types of examinations administered by the Minister of Education pursuant to Article 34 (3);
+1. Basic directions and subjects, methods of evaluation, and question types of examinations administered by the Minister of Education pursuant to Article 34 (3);
 
-- Total number of times that a student can apply for a university or college in the relevant admission year;
+2. Total number of times that a student can apply for a university or college in the relevant admission year;
 
-- Other matters related to admission to universities or colleges, which the Minister of Education deems necessary.
+3. Other matters related to admission to universities or colleges, which the Minister of Education deems necessary.
 
 (2) Where the Minister of Education determines or changes any of the matters in the subparagraphs of paragraph (1), he/she shall sufficiently collect opinions from the people and relevant experts through public hearings, information and communications networks, etc.  <Inserted by Act No. 16330, Apr. 23, 2019>
 
@@ -724,26 +738,22 @@ Presidential Decree.  <Amended by Act No. 16330, Apr. 23, 2019>
 ##### Article 35 (Conferment of Degrees)
 (1) Any person who has completed courses determined by school regulations at a university or college (including any industrial college and teachers' college, but excluding any graduate school university or college) shall be granted a bachelor's degree.
 
-- Any person who has completed courses determined by school regulations at a graduate school shall be granted a master's degree or doctor's degree for the relevant course.
+(2) Any person who has completed courses determined by school regulations at a graduate school shall be granted a master's degree or doctor's degree for the relevant course.
 
-- A master's degree may be conferred to persons who fail to acquire a doctor's degree but meet the standards for conferring a master's degree prescribed by school regulations among those who are taking a master's degree and doctor's degree-combined course, or complete or leave the same course half way.  <Amended by Act No.
+(3) A master's degree may be conferred to persons who fail to acquire a doctor's degree but meet the standards for conferring a master's degree prescribed by school regulations among those who are taking a master's degree and doctor's degree-combined course, or complete or leave the same course half way.  <Amended by Act No. 15038, Nov. 28, 2017>
 
-15038, Nov. 28, 2017>
+(4) A bachelor's degree may be conferred to persons who fail to acquire a master's degree but meet the standards for conferring a bachelor's degree prescribed by school regulations among those who are taking a bachelor's degree and master's degree-combined course, or complete or leave the same course half way.  <Amended by Act No. 15038, Nov. 28, 2017>
 
-(4) A bachelor's degree may be conferred to persons who fail to acquire a master's degree but meet the standards for conferring a bachelor's degree prescribed by school regulations among those who are taking a bachelor's degree and master's degree-combined course, or complete or leave the same course half way.
+(5) Any school which has graduate schools that provide doctor's degree courses may grant honorary doctor's degrees.
 
-<Amended by Act No. 15038, Nov. 28, 2017>
-
-- Any school which has graduate schools that provide doctor's degree courses may grant honorary doctor's degrees.
-
-- Matters necessary for kinds and conferment of degrees shall be prescribed by Presidential Decree.
+(6) Matters necessary for kinds and conferment of degrees shall be prescribed by Presidential Decree.
 
 [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
 ##### Article 36 (Part-Time Enrollment)
 (1) Universities and colleges (including industrial colleges, junior colleges, and cyber colleges) may have those who have admission qualifications referred to in Article 33 (1) enroll as part-time students and allow them to take lessons at the relevant universities or colleges.
 
-- Matters necessary for the method of selecting persons qualified for part-time enrollment pursuant to paragraph (1), the number of students to be enrolled, etc. shall be prescribed by Presidential Decree.
+(2) Matters necessary for the method of selecting persons qualified for part-time enrollment pursuant to paragraph (1), the number of students to be enrolled, etc. shall be prescribed by Presidential Decree.
 
 [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
@@ -777,7 +787,7 @@ Deleted.  <by Act No. 12036, Aug. 13, 2013>
 ##### Article 40 (Education Commissioned by or to Enterprises)
 (1) Industrial colleges (including industrial junior colleges and cyber colleges; hereafter the same shall apply in this Article) may provide education commissioned by enterprises (including organizations comprised of such enterprises; hereafter the same shall apply in this Article) and commission such enterprises to provide education for their students.
 
-- Matters necessary for providing education commissioned to industrial colleges or for commissioning education under paragraph (1) shall be prescribed by Presidential Decree.
+(2) Matters necessary for providing education commissioned to industrial colleges or for commissioning education under paragraph (1) shall be prescribed by Presidential Decree.
 
 [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
@@ -792,16 +802,16 @@ Where the State or any school foundation which has established and operates an i
 ##### Article 41 (Purpose)
 (1) The purpose of teachers' colleges is to train elementary school teachers.
 
-- The purpose of colleges of education at universities and colleges (hereinafter referred to as "colleges of education") is to train secondary school teachers.
+(2) The purpose of colleges of education at universities and colleges (hereinafter referred to as "colleges of education") is to train secondary school teachers.
 
-- Universities and colleges may, where particularly necessary, establish a department of education aiming to train school teachers (hereinafter referred to as "department of education"), as prescribed by Presidential Decree.
+(3) Universities and colleges may, where particularly necessary, establish a department of education aiming to train school teachers (hereinafter referred to as "department of education"), as prescribed by Presidential Decree.
 
 [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
 ##### Article 42 (Establishment of and Term of School Years for Teachers' Colleges)
 (1) Teachers' colleges shall be established by the State or a local government.
 
-- The term of school years for teachers' colleges shall be four years.
+(2) The term of school years for teachers' colleges shall be four years.
 
 [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
@@ -830,43 +840,41 @@ The education of teachers' colleges, colleges of education, comprehensive teache
 
 training colleges and departments of education shall be provided to ensure that students achieve the following objectives to realize the purposes of establishment thereof:
 
-- To establish firm values and sound teachers' ethics as educators;
+1. To establish firm values and sound teachers' ethics as educators;
 
-- To learn educational ideas and the detailed methods of practicing them;
+2. To learn educational ideas and the detailed methods of practicing them;
 
-- To establish a foundation for developing the quality and abilities as educators for themselves throughout their lives.
+3. To establish a foundation for developing the quality and abilities as educators for themselves throughout their lives.
 
 [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
 ##### Article 45 (Affiliated Schools)
 (1) Teachers' colleges, colleges of education and comprehensive teachers' training colleges shall establish schools for field research and practical exercise of students according to the following classifications:
 
-- For teachers' colleges: Elementary schools;
+1. For teachers' colleges: Elementary schools;
 
-- For colleges of education: Middle schools and high schools;
+2. For colleges of education: Middle schools and high schools;
 
-- For comprehensive teachers' training colleges: Elementary schools, middle schools, and high schools.
+3. For comprehensive teachers' training colleges: Elementary schools, middle schools, and high schools.
 
-- Notwithstanding paragraph (1), national, public or private elementary schools, middle schools, high schools or special schools may substitute for affiliated schools if special grounds exist.
+(2) Notwithstanding paragraph (1), national, public or private elementary schools, middle schools, high schools or special schools may substitute for affiliated schools if special grounds exist.
 
-- Teachers' colleges, colleges of education and comprehensive teachers' training colleges may establish kindergartens, elementary schools or special schools, where necessary, in addition to affiliated schools referred to in paragraph (1).
+(3) Teachers' colleges, colleges of education and comprehensive teachers' training colleges may establish kindergartens, elementary schools or special schools, where necessary, in addition to affiliated schools referred to in paragraph (1).
 
-- Special classes for students in need of special education shall be established at kindergartens, elementary schools, middle schools and high schools affiliated to the teachers' colleges, national or public colleges of education, comprehensive teachers' training colleges.
+(4) Special classes for students in need of special education shall be established at kindergartens, elementary schools, middle schools and high schools affiliated to the teachers' colleges, national or public colleges of education, comprehensive teachers' training colleges.
 
-- Article 27 of the Act on Special Education for the Disabled Persons, etc. shall apply to standards for establishment of special classes referred to in paragraph (4).
+(5) Article 27 of the Act on Special Education for the Disabled Persons, etc. shall apply to standards for establishment of special classes referred to in paragraph (4).
 
 [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
 ##### Article 46 (Temporary Teacher Training Institutions, etc.)
 (1) If necessary for training teachers in a short period of time considering the supply of and demand for teachers, the Minister of Education may establish training institutions for temporary teachers and in-service training institutions for temporary teachers, or authorize the establishment of such institutions, as prescribed by Presidential Decree.  <Amended by Act No. 11690, Mar. 23, 2013>
 
-- The Minister of Education shall authorize the establishment of a temporary teacher training institution referred to in paragraph (1), where a teachers' college, college of education, or comprehensive teachers' training college makes an application, meeting the following requirements:  <Newly Inserted by Act No. 14391, Dec. 20,
+(2) The Minister of Education shall authorize the establishment of a temporary teacher training institution referred to in paragraph (1), where a teachers’ college, college of education, or comprehensive teachers’ training college makes an application, meeting the following requirements:  <Newly Inserted by Act No. 14391, Dec. 20, 2016>
 
-2016>
+1. Where the facilities, manpower, curriculum, etc. of the relevant institution satisfy the establishment standards referred to in Article 4 (1);
 
-- Where the facilities, manpower, curriculum, etc. of the relevant institution satisfy the establishment standards referred to in Article 4 (1);
-
-- Where it is appropriate to establish a temporary teacher training institution, because it is necessary to train teachers in a short period of time, considering the relevant qualifications, educational subjects, demand for education in the relevant district, and so on.
+2. Where it is appropriate to establish a temporary teacher training institution, because it is necessary to train teachers in a short period of time, considering the relevant qualifications, educational subjects, demand for education in the relevant district, and so on.
 
 [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
@@ -902,24 +910,24 @@ Junior colleges may establish and operate advanced major courses, as prescribed 
 ##### Article 50 (Conferment of Degrees)
 (1) Any person who has completed courses determined by school regulations at a junior college shall be granted an associate degree.
 
-- Kinds of associate degrees and matters necessary for the conferment thereof shall be prescribed by Presidential Decree.
+(2) Kinds of associate degrees and matters necessary for the conferment thereof shall be prescribed by Presidential Decree.
 
 [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
 ##### Article 50-2 (Conferment of Degrees on Advanced Major Courses)
 (1) Any person who was admitted to an advanced major program under Article 49 and has completed the courses determined by school regulations may be awarded a bachelor's degree.
 
-- Any person who intends to establish and operate advanced major courses for which bachelor's degrees are awarded pursuant to paragraph (1) shall obtain authorization from the Minister of Education.  <Amended by Act No. 11690, Mar. 23, 2013>
+(2) Any person who intends to establish and operate advanced major courses for which bachelor's degrees are awarded pursuant to paragraph (1) shall obtain authorization from the Minister of Education.  <Amended by Act No. 11690, Mar. 23, 2013>
 
-- Any person who graduated from a junior college in the same department and has experience in the related field shall become eligible to apply for an advanced major course under paragraph (1).
+(3) Any person who graduated from a junior college in the same department and has experience in the related field shall become eligible to apply for an advanced major course under paragraph (1).
 
-- Notwithstanding paragraph (3), only the advanced major courses in departments prescribed by Presidential Decree may allow any person who has no career in the related field to be admitted to such courses where the standards prescribed by Presidential Decree are satisfied.  <Newly Inserted by Act No. 10633, May 19, 2011>
+(4) Notwithstanding paragraph (3), only the advanced major courses in departments prescribed by Presidential Decree may allow any person who has no career in the related field to be admitted to such courses where the standards prescribed by Presidential Decree are satisfied.  <Newly Inserted by Act No. 10633, May 19, 2011>
 
-- In order to operate an advanced major course under paragraph (4), designation from the Minister of Education shall be obtained by satisfying the standards prescribed by Presidential Decree relating to educational circumstances.  <Newly Inserted by Act No. 10633, May 19, 2011; Act No. 11690, Mar. 23, 2013>
+(5) In order to operate an advanced major course under paragraph (4), designation from the Minister of Education shall be obtained by satisfying the standards prescribed by Presidential Decree relating to educational circumstances.  <Newly Inserted by Act No. 10633, May 19, 2011; Act No. 11690, Mar. 23, 2013>
 
-- The Minister of Education may entrust relevant institutions or organizations with evaluations required to receive the designation referred to in paragraph (5).  <Newly Inserted by Act No. 10633, May 19, 2011; Act No. 11690, Mar. 23, 2013>
+(6) The Minister of Education may entrust relevant institutions or organizations with evaluations required to receive the designation referred to in paragraph (5).  <Newly Inserted by Act No. 10633, May 19, 2011; Act No. 11690, Mar. 23, 2013>
 
-- Types of bachelor's degrees under paragraphs (1) through (3) and matters necessary for the conferment thereof, standards for authorization and details regarding admission qualifications, etc. shall be prescribed by Presidential Decree.
+(7) Types of bachelor's degrees under paragraphs (1) through (3) and matters necessary for the conferment thereof, standards for authorization and details regarding admission qualifications, etc. shall be prescribed by Presidential Decree.
 
 [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
@@ -927,7 +935,7 @@ Junior colleges may establish and operate advanced major courses, as prescribed 
 
 (1) Notwithstanding Article 48 (1), departments having a four-year course in junior colleges designed to train medical personnel pursuant to Article 2 (1) of the Medical Service Act may be established. <Amended by Act No. 14054, Mar. 2, 2016>
 
-- To operate a four-year course pursuant to paragraph (1), the junior colleges shall obtain designation from the Minister of Education by satisfying the standards prescribed by Presidential Decree relating to educational
+(2) To operate a four-year course pursuant to paragraph (1), the junior colleges shall obtain designation from the Minister of Education by satisfying the standards prescribed by Presidential Decree relating to educational
 
 https://www.law.go.kr/LSW/eng/engLsSideInfoPrint.do?contentNm= 영문법령
 
@@ -943,13 +951,11 @@ PRINT | NATIONAL LAW INFORMATION CENTER
 
 circumstances.  <Amended by Act No. 11690, Mar. 23, 2013>
 
-- The Minister of Education may entrust relevant institutions or organizations with evaluations required to receive the designation referred to in paragraph (2).  <Amended by Act No. 11690, Mar. 23, 2013>
+(3) The Minister of Education may entrust relevant institutions or organizations with evaluations required to receive the designation referred to in paragraph (2).  <Amended by Act No. 11690, Mar. 23, 2013>
 
-- Notwithstanding Article 50 (1), any person who has completed a four-year course determined by school regulations in the department referred to in paragraph (1) shall receive a bachelor's degree.  <Amended by Act
+(4) Notwithstanding Article 50 (1), any person who has completed a four-year course determined by school regulations in the department referred to in paragraph (1) shall receive a bachelor's degree.  <Amended by Act No. 14054, Mar. 2, 2016>
 
-- No. 14054, Mar. 2, 2016>
-
-- Types of degrees under paragraph (4) and matters necessary for the conferment thereof shall be prescribed by Presidential Decree.
+(5) Types of degrees under paragraph (4) and matters necessary for the conferment thereof shall be prescribed by Presidential Decree.
 
 [This Article Newly Inserted by Act No. 10633, May 19, 2011]
 
@@ -973,18 +979,18 @@ The purpose of cyber colleges is to train human resources the State and society 
 ##### Article 53 (Content and Duration of Courses at Cyber Colleges)
 (1) Cyber colleges may establish associate degree courses and bachelor's degree courses, as prescribed by Presidential Decree
 
-- The duration of associate degree courses at cyber colleges shall be two years, and that of bachelor's degree courses shall be four years.  <Amended by Act No. 12036, Aug. 13, 2013>
+(2) The duration of associate degree courses at cyber colleges shall be two years, and that of bachelor's degree courses shall be four years.  <Amended by Act No. 12036, Aug. 13, 2013>
 
-- Cyber colleges may shorten the duration of courses referred to in paragraph (2) for any person that has earned more credits than required for attaining a degree pursuant to school regulations, as prescribed by Presidential Decree.  <Newly Inserted by Act No. 12036, Aug. 13, 2013>
+(3) Cyber colleges may shorten the duration of courses referred to in paragraph (2) for any person that has earned more credits than required for attaining a degree pursuant to school regulations, as prescribed by Presidential Decree.  <Newly Inserted by Act No. 12036, Aug. 13, 2013>
 
 [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
 ##### Article 54 (Conferment of Degrees)
 (1) Any person who has completed courses determined by school regulations in a bachelor's degree course of a cyber college shall be granted a bachelor's degree.
 
-- Any person who has completed courses determined by school regulations in an associate degree course of a cyber college shall be granted an associate degree.
+(2) Any person who has completed courses determined by school regulations in an associate degree course of a cyber college shall be granted an associate degree.
 
-- Kinds of degrees under paragraphs (1) and (2) and matters necessary for the conferment thereof shall be prescribed by Presidential Decree.
+(3) Kinds of degrees under paragraphs (1) and (2) and matters necessary for the conferment thereof shall be prescribed by Presidential Decree.
 
 [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
@@ -1012,25 +1018,25 @@ PRINT | NATIONAL LAW INFORMATION CENTER
 (1) Technical schools shall establish
 associate degree courses and bachelor's degree courses.
 
-- The term of school years for each course referred to in paragraph (1) shall be two years.
+(2) The term of school years for each course referred to in paragraph (1) shall be two years.
 
 [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
 ##### Article 57 (Admission Qualifications, etc.)
 (1) Persons eligible for taking associate degree courses of technical colleges are those who have worked for any enterprise for at least the period prescribed by Presidential Decree among those who have graduated from high schools or those who have been recognized as having equivalent or higher academic background under statutes.
 
-- Persons eligible for taking bachelor's degree courses of technical colleges shall be those who have worked for any enterprise for at least the period prescribed by Presidential Decree among those who have graduated from junior colleges or those who have been recognized as having equivalent or higher academic background under statutes.
+(2) Persons eligible for taking bachelor's degree courses of technical colleges shall be those who have worked for any enterprise for at least the period prescribed by Presidential Decree among those who have graduated from junior colleges or those who have been recognized as having equivalent or higher academic background under statutes.
 
-- Technical colleges shall select students from among those holding qualifications referred to in paragraphs (1) and (2) but the methods of selecting them shall be determined by school regulations, as prescribed by Presidential Decree.
+(3) Technical colleges shall select students from among those holding qualifications referred to in paragraphs (1) and (2) but the methods of selecting them shall be determined by school regulations, as prescribed by Presidential Decree.
 
 [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
 ##### Article 58 (Conferment of Degrees)
 (1) Any person who has taken associate degree courses of a technical college and completed the courses determined by school regulations shall be granted an associate degree.
 
-- Any person who has taken bachelor's degree courses of a technical college and completed the courses determined by school regulations shall be granted a bachelor's degree.
+(2) Any person who has taken bachelor's degree courses of a technical college and completed the courses determined by school regulations shall be granted a bachelor's degree.
 
-- Kinds of degrees referred to in paragraphs (1) and (2) and matters necessary for the conferment thereof shall be prescribed by Presidential Decree.
+(3) Kinds of degrees referred to in paragraphs (1) and (2) and matters necessary for the conferment thereof shall be prescribed by Presidential Decree.
 
 [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
@@ -1039,13 +1045,13 @@ associate degree courses and bachelor's degree courses.
 ##### Article 59 (Various Kinds of Schools)
 (1) The term "various kinds of schools" means educational institutions similar to those listed in subparagraphs 1 through 6 of Article 2.
 
-- Various kinds of schools shall not use any name similar to those listed in subparagraphs 1 through 6 of Article 2.
+(2) Various kinds of schools shall not use any name similar to those listed in subparagraphs 1 through 6 of Article 2.
 
-- The Minister of Education may delegate his/her authority concerning the establishment and operation of various kinds of national schools to the head of a relevant central administrative agency, as prescribed by Presidential Decree.  <Amended by Act No. 11690, Mar. 23, 2013>
+(3) The Minister of Education may delegate his/her authority concerning the establishment and operation of various kinds of national schools to the head of a relevant central administrative agency, as prescribed by Presidential Decree.  <Amended by Act No. 11690, Mar. 23, 2013>
 
-- With respect to conferment of degrees at various kinds of schools, among those equivalent to universities and junior colleges, which is recognized as academic qualifications for entry to higher degree courses following designation by the Minister of Education, Article 35 (1) and (6) and Article 50 shall apply mutatis mutandis to various kinds of schools.  <Amended by Act No. 11690, Mar. 23, 2013>
+(4) With respect to conferment of degrees at various kinds of schools, among those equivalent to universities and junior colleges, which is recognized as academic qualifications for entry to higher degree courses following designation by the Minister of Education, Article 35 (1) and (6) and Article 50 shall apply mutatis mutandis to various kinds of schools.  <Amended by Act No. 11690, Mar. 23, 2013>
 
-- Other necessary matters concerning various kinds of schools shall be prescribed by Ordinance of the Ministry of Education.  <Amended by Act No. 11690, Mar. 23, 2013>
+(5) Other necessary matters concerning various kinds of schools shall be prescribed by Ordinance of the Ministry of Education.  <Amended by Act No. 11690, Mar. 23, 2013>
 
 [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
@@ -1066,7 +1072,7 @@ https://www.law.go.kr/LSW/eng/engLsSideInfoPrint.do?contentNm= 영문법령
 
 PRINT | NATIONAL LAW INFORMATION CENTER
 
-- If any person who has received a corrective order or modification order under paragraph (1) fails to comply therewith within a designated period without good cause, the Minister of Education may cancel or suspend the offenses or take such measures as reducing the maximum number of students allowed to enroll in the relevant school, abolishing departments or suspending recruitment of students at the relevant school, as prescribed by Presidential Decree.  <Amended by Act No. 11690, Mar. 23, 2013>
+(2) If any person who has received a corrective order or modification order under paragraph (1) fails to comply therewith within a designated period without good cause, the Minister of Education may cancel or suspend the offenses or take such measures as reducing the maximum number of students allowed to enroll in the relevant school, abolishing departments or suspending recruitment of students at the relevant school, as prescribed by Presidential Decree.  <Amended by Act No. 11690, Mar. 23, 2013>
 
 (3) Where it is obvious that the violation is not able be corrected or modified based on the nature of such act, such as cases in which violation has already been made, the Minister of Education may take measures pursuant to paragraph (2) without issuing corrective order or modification order pursuant to paragraph (1).  <Newly Inserted by Act No. 12036, Aug. 13, 2013>
 
@@ -1075,26 +1081,24 @@ PRINT | NATIONAL LAW INFORMATION CENTER
 ##### Article 61 (Order to Temporarily or Permanently Close Schools)
 (1) Where it is deemed impossible to hold classes as usual because of urgent circumstances such as a disaster, the Minister of Education may order the head of the relevant school to suspend classes.  <Amended by Act No. 11690, Mar. 23, 2013>
 
-- The head of a school that has received such an order under paragraph (1) shall suspend classes without delay.
+(2) The head of a school that has received such an order under paragraph (1) shall suspend classes without delay.
 
-- Where the head of a school fails to suspend classes, notwithstanding the order issued under paragraph (1), or where there exists special reasons, the Minister of Education may issue an order to close the school.
+(3) Where the head of a school fails to suspend classes, notwithstanding the order issued under paragraph (1), or where there exists special reasons, the Minister of Education may issue an order to close the school.  <Amended by Act No. 11690, Mar. 23, 2013>
 
-<Amended by Act No. 11690, Mar. 23, 2013>
-
-- For schools that are temporarily closed pursuant to paragraphs (1) and (2), classes and student attendance shall be suspended during the suspension period, and for schools closed pursuant to paragraph (3), all functions of the schools, except simple management affairs, shall be suspended.
+(4) For schools that are temporarily closed pursuant to paragraphs (1) and (2), classes and student attendance shall be suspended during the suspension period, and for schools closed pursuant to paragraph (3), all functions of the schools, except simple management affairs, shall be suspended.
 
 [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
 ##### Article 62 (Closure of Schools, etc.)
 (1) Where it is deemed impossible to manage school affairs as usual in one of the following situations, the Minister of Education may order the relevant school foundation to close the school:  <Amended by Act No. 11690, Mar. 23, 2013; Act No. 14148, May 29, 2016>
 
-- Where the head, founder or operator of a school violates this Act or any order issued under this Act by intention or gross negligence;
+1. Where the head, founder or operator of a school violates this Act or any order issued under this Act by intention or gross negligence;
 
-- Where the head, founder or operator of a school violates more than three times this Act or any order issued by the Minister of Education under other education-related Act and subordinate statutes;
+2. Where the head, founder or operator of a school violates more than three times this Act or any order issued by the Minister of Education under other education-related Act and subordinate statutes;
 
-- Where a school fails to hold classes for at least three consecutive months, excluding holidays.
+3. Where a school fails to hold classes for at least three consecutive months, excluding holidays.
 
-- The Minister of Education may order any person that uses the title of a school or recruits students and essentially operates the facility the same way as he/she operates a school, without obtaining authorization to establish a school under Article 4 (2) or a branch school under Article 24, to close such facilities.  <Amended by Act No. 11690, Mar. 23, 2013>
+(2) The Minister of Education may order any person that uses the title of a school or recruits students and essentially operates the facility the same way as he/she operates a school, without obtaining authorization to establish a school under Article 4 (2) or a branch school under Article 24, to close such facilities.  <Amended by Act No. 11690, Mar. 23, 2013>
 
 [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
@@ -1106,7 +1110,7 @@ If the Minister of Education intends to close a school or facility under Article
 ##### Article 64 (Penalty Provisions)
 (1) A person who divulges or disseminates all or part of the examination questions before they are made public, in violation of Article 34 (9), shall be punished by imprisonment with labor for not more than five years or by a fine not exceeding 50 million won.  <Newly Inserted by Act No. 14391, Dec. 20, 2016; Act No. 15038, Nov. 28, 2017>
 
-- Any of the following persons shall be punished by imprisonment for not more than three years or by a fine not exceeding 30 million won:  <Amended by Act No. 14148, May 29, 2016>
+(2) Any of the following persons shall be punished by imprisonment for not more than three years or by a fine not exceeding 30 million won:  <Amended by Act No. 14148, May 29, 2016>
 
 https://www.law.go.kr/LSW/eng/engLsSideInfoPrint.do?contentNm= 영문법령
 
@@ -1120,21 +1124,21 @@ https://www.law.go.kr/LSW/eng/engLsSideInfoPrint.do?contentNm= 영문법령
 
 PRINT | NATIONAL LAW INFORMATION CENTER
 
-- A person who uses the title of a school or recruits students and substantially operates the facilities in the form of a school without obtaining authorization for establishing a school prescribed in Article 4 (2) or authorization for establishing a branch school prescribed in Article 24;
+1. A person who uses the title of a school or recruits students and substantially operates the facilities in the form of a school without obtaining authorization for establishing a school prescribed in Article 4 (2) or authorization for establishing a branch school prescribed in Article 24;
 
-- A person who fails to obtain authorization for closure or authorization for modification, in violation of Article 4 (3);
+2. A person who fails to obtain authorization for closure or authorization for modification, in violation of Article 4 (3);
 
-- A person who obtains authorization for establishing a school prescribed in Article 4 (2), authorization for closure or modification prescribed in Article 4 (3) or authorization for establishing a branch school prescribed in Article 24 by falsehood or other unjustifiable means.
+3. A person who obtains authorization for establishing a school prescribed in Article 4 (2), authorization for closure or modification prescribed in Article 4 (3) or authorization for establishing a branch school prescribed in Article 24 by falsehood or other unjustifiable means.
 
-- Any of the following persons shall be punished by imprisonment for not more than one year or by a fine not exceeding ten million won:  <Amended by Act No. 14148, May 29, 2016>
+(3) Any of the following persons shall be punished by imprisonment for not more than one year or by a fine not exceeding ten million won:  <Amended by Act No. 14148, May 29, 2016>
 
-- A person who grants admission to a person who does not fall under Articles 33 and 57;
+1. A person who grants admission to a person who does not fall under Articles 33 and 57;
 
-- A person who grants degrees, in violation of Article 35 (1) (including cases applied mutatis mutandis in Article 59 (4)) through (4), 50 (1) (including cases applied mutatis mutandis in Article 59 (4)), 54 (1) and (2), or 58 (1) and (2);
+2. A person who grants degrees, in violation of Article 35 (1) (including cases applied mutatis mutandis in Article 59 (4)) through (4), 50 (1) (including cases applied mutatis mutandis in Article 59 (4)), 54 (1) and (2), or 58 (1) and (2);
 
-- A person who violates an order for correction or modification prescribed in Article 60 (1);
+3. A person who violates an order for correction or modification prescribed in Article 60 (1);
 
-- A person who violates an order for closure of a school prescribed in Article 62 (1).
+4. A person who violates an order for closure of a school prescribed in Article 62 (1).
 
 [This Article Wholly Amended by Act No. 10866, Jul. 21, 2011]
 
@@ -1164,7 +1168,7 @@ This Act shall enter into force on January 1, 2007.
 
 ## ADDENDA <Act No. 7961,  Jul. 19,  2006>
 
-(Enforcement Date) This Act shall enter into force one month after the date of its promulgation.
+(1) (Enforcement Date) This Act shall enter into force one month after the date of its promulgation.
 
 ## ADDENDUM <Act No. 8240,  Jan. 19,  2007>
 
@@ -1255,8 +1259,6 @@ https://www.law.go.kr/LSW/eng/engLsSideInfoPrint.do?contentNm= 영문법령
 
 PRINT | NATIONAL LAW INFORMATION CENTER
 
-This Act shall enter into force six months after the date of its promulgation: Provided, That the amended provisions of Article 23-5 (3) shall enter into force on January 1, 2019.
-
 ## ADDENDA <Act No. 11766,  May 22,  2013>
 ### Article 1 (Enforcement Date)
 ## ADDENDA <Act No. 12036,  Aug. 13,  2013>
@@ -1284,6 +1286,7 @@ This Act shall enter into force three months after the date of its promulgation.
 ## ADDENDUM <Act No. 15332,  Dec. 30,  2017>
 This Act shall enter into force on January 1, 2018.
 ## ADDENDUM <Act No. 15552,  Apr. 17,  2018>
+This Act shall enter into force six months after the date of its promulgation: Provided, That the amended provisions of Article 23-5 (3) shall enter into force on January 1, 2019.
 ## ADDENDA <Act No. 15948,  Dec. 18,  2018>
 ### Article 1 (Enforcement Date)
 ## ADDENDA <Act No. 16330,  Apr. 23,  2019>
