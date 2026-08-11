@@ -18,11 +18,13 @@ Que, la Ley Nº 28044, Ley General de Educación, que establece los lineamientos
 
 Que, el Tribunal Constitucional mediante sentencia del 14 de Abril de 2009 determina que, no obstante haberse expedido los decretos supremos mencionados que reglamentan parcialmente la Ley Nº 28044, Ley General de Educación, ésta debe contar con un reglamento integral;
 
-Que en cumplimiento de lo ordenado por el Tribunal Constitucional, el Ministerio de Educación, mediante Resolución Ministerial Nº 0263-2009-ED, conformó la Comisión que elaboró el primer proyecto de Reglamento de la Ley Nº 28044, Ley General de Educación, que ha sido objeto de análisis y reajuste por la comisión constituida por Resolución Ministerial Nº 0482-2011-ED, y posteriormente pre publicado mediante la Resolución Ministerial Nº 043-2012-ED, a efecto de recibir las sugerencias y alcances de entidades públicas y privadas y de la ciudadanía en general, proceso que ha contribuido a mejorar su contenido, integrando y actualizando los reglamentos expedidos anteriormente, en el marco de una educación de calidad con equidad e inclusiva y una gestión educativa descentralizada, que fortalece la autonomía de la Institución;
+Que en cumplimiento de lo ordenado por el Tribunal Constitucional, el Ministerio de Educación, mediante Resolución Ministerial Nº 0263-2009-ED, conformó la Comisión que elaboró el primer proyecto de Reglamento de la Ley Nº 28044, Ley General de Educación, que ha sido objeto de análisis y reajuste por la comisión constituida por Resolución Ministerial Nº 0482-2011-ED, y posteriormente pre publicado mediante la Resolución Ministerial Nº 043-2012-ED, a efecto de recibir las sugerencias y alcances de entidades
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+públicas y privadas y de la ciudadanía en general, proceso que ha contribuido a mejorar su contenido, integrando y actualizando los reglamentos expedidos anteriormente, en el marco de una educación de calidad con equidad e inclusiva y una gestión educativa descentralizada, que fortalece la autonomía de la Institución;
 
 De conformidad con el inciso 8) del Artículo 118 de la Constitución Política del Perú y el inciso 3) del artículo 11 de la Ley Nº 29158, Ley Orgánica del Poder Ejecutivo;
 
@@ -58,7 +60,7 @@ PATRICIA SALAS O'BRIEN
 
 Ministra de Educación
 
-NOTA: Este Reglamento no ha sido publicado en el diario oficial ' El Peruano ' , se descargó de la página web del Ministerio de Educación, con fecha 03 de noviembre de 2016.
+NOTA: Este Reglamento no ha sido publicado en el diario oficial “El Peruano”, se descargó de la página web del Ministerio de Educación, con fecha 03 de noviembre de 2016.
 
 # REGLAMENTO DE LA LEY Nº 28044 - LEY GENERAL DE EDUCACIÓN
 
@@ -70,15 +72,15 @@ NOTA: Este Reglamento no ha sido publicado en el diario oficial ' El Peruano ' ,
 
 El presente Reglamento desarrolla las disposiciones, criterios, procesos y procedimientos contenidos en la Ley Nº 28044, Ley General de Educación, que establece los lineamientos generales de la educación y del Sistema Educativo Peruano y regula las atribuciones y obligaciones del Estado, así como los derechos y responsabilidades de las personas y la sociedad en su función educadora. Rige todas las actividades educativas realizadas bajo los alcances de la Ley, dentro del territorio nacional, en los diferentes niveles de gobierno, por personas naturales o jurídicas, públicas o privadas, nacionales o extranjeras.
 
-Para efectos del presente Reglamento, cada vez que se haga referencia a la 'Ley', se entenderá que se trata de la Ley N.º 28044, Ley General de Educación.
+Para efectos del presente Reglamento, cada vez que se haga referencia a la “Ley”, se entenderá que se trata de la Ley N.º 28044, Ley General de Educación.
 
 ##### Artículo 2.- La educación como derecho
 
 La educación como derecho fundamental de la persona y la sociedad es garantizada por el Estado, en el marco de la Constitución Política del Perú y la Ley. Se viabiliza a través de la formación integral de calidad para todos y mediante la universalización y obligatoriedad de la Educación Básica. La familia y la sociedad en su conjunto participan y contribuyen a su mejoramiento.
 
-El derecho a la educación está referido a la disponibilidad, al acceso a una educación de calidad, a la permanencia en el sistema educativo y alcanzar aprendizajes que le permitan enfrentar los retos del desarrollo rumano, ejercer su ciudadanía y continuar aprendiendo a lo largo de toda la vida. En correspondencia con estos derechos, el Estado tiene las siguientes obligaciones: asequibilidad, accesibilidad, adaptabilidad y aceptabilidad. El Ministerio de Educación determina el conjunto de factores, procesos e insumos que garantizan el derecho.
+El derecho a la educación está referido a la disponibilidad, al acceso a una educación de calidad, a la permanencia en el sistema educativo y alcanzar aprendizajes que le permitan enfrentar los retos del desarrollo humano, ejercer su ciudadanía y continuar aprendiendo a lo largo de toda la vida. En correspondencia con estos derechos, el Estado tiene las siguientes obligaciones: asequibilidad, accesibilidad, adaptabilidad y aceptabilidad. El Ministerio de Educación determina el conjunto de factores, procesos e insumos que garantizan el derecho.
 
-- El derecho a la disponibilidad, por el cual los estudiantes de todas las instituciones educativas públicas y privadas tienen derecho a contar con docentes calificados y suficientes para atender las necesidades del servicio educativo, así como con instituciones educativas dotadas de infraestructura adecuada y segura, mobiliario, materiales y recursos educativos, equipamiento con tecnología vigente y servicios básicos indispensables para el proceso de
+a) El derecho a la disponibilidad, por el cual los estudiantes de todas las instituciones educativas públicas y privadas tienen derecho a contar con docentes calificados y suficientes para atender las necesidades del servicio educativo, así como con instituciones educativas dotadas de infraestructura adecuada y segura, mobiliario, materiales y recursos educativos, equipamiento con tecnología vigente y servicios básicos indispensables para el proceso de
 
 [[END OF PAGE 3]]
 
@@ -146,19 +148,19 @@ El diagnóstico de la realidad educativa regional es el principal insumo del pla
 
 Los aspectos principales en la elaboración del diagnóstico son los siguientes:
 
-- Las características físicas, afectivas, cognitivas, culturales, sociolingüísticas y la condición de discapacidad de los estudiantes, así como sus entornos familiares, socioculturales y económico-productivos.
+a) Las características físicas, afectivas, cognitivas, culturales, sociolingüísticas y la condición de discapacidad de los estudiantes, así como sus entornos familiares, socioculturales y económico-productivos.
 
-- Los factores que causan exclusión escolar y su magnitud, incluyendo la identificación de la población en edad escolar que no acude a los servicios educativos.
+b) Los factores que causan exclusión escolar y su magnitud, incluyendo la identificación de la población en edad escolar que no acude a los servicios educativos.
 
-- Las barreras arquitectónicas, culturales o de comunicación que dificultan el logro de la plena inclusión de los estudiantes con discapacidad, talento y superdotación, y de los demás integrantes de la comunidad educativa, de ser el caso.
+c) Las barreras arquitectónicas, culturales o de comunicación que dificultan el logro de la plena inclusión de los estudiantes con discapacidad, talento y superdotación, y de los demás integrantes de la comunidad educativa, de ser el caso.
 
-- La efectividad de la oferta en términos de los aprendizajes que persigue la Educación Básica, identificando las barreras o dificultades para alcanzarla.
+d) La efectividad de la oferta en términos de los aprendizajes que persigue la Educación Básica, identificando las barreras o dificultades para alcanzarla.
 
-- La oferta de profesionales y personal no profesional a cargo de los servicios educativos en el ámbito, que responda a las necesidades y características de los estudiantes y sus necesidades de capacitación.
+e) La oferta de profesionales y personal no profesional a cargo de los servicios educativos en el ámbito, que responda a las necesidades y características de los estudiantes y sus necesidades de capacitación.
 
-- Las necesidades de inversión para garantizar la presencia de espacios educativos, personal, materiales y mobiliario que favorezcan el adecuado desarrollo del proceso educativo, así como asegurar condiciones adecuadas para el trabajo del personal docente en zonas rurales (habitabilidad, remuneración y otros).
+f) Las necesidades de inversión para garantizar la presencia de espacios educativos, personal, materiales y mobiliario que favorezcan el adecuado desarrollo del proceso educativo, así como asegurar condiciones adecuadas para el trabajo del personal docente en zonas rurales (habitabilidad, remuneración y otros).
 
-- La inversión mínima por estudiante, que comprenda también la atención de salud y alimentación complementaria.
+g) La inversión mínima por estudiante, que comprenda también la atención de salud y alimentación complementaria.
 
 El diagnóstico toma en cuenta la información proporcionada por las instituciones educativas, las evaluaciones internas y externas, el censo de talla y peso, los censos poblacionales y encuestas del Instituto Nacional de Estadística e Informática y toda otra información proporcionada por instituciones públicas y de la sociedad civil que resulte pertinente.
 
@@ -200,19 +202,19 @@ Los Gobiernos Regionales apoyarán la implementación de los planes de mejora y 
 
 El Estado garantiza que los servicios educativos brinden una atención de calidad a la población que se encuentra en situación de vulnerabilidad por circunstancia de pobreza, origen étnico, estado de salud, condición de discapacidad, talento y superdotación, edad, género, riesgo social o de cualquier otra índole. En relación con esta población:
 
-- Promueve medidas para garantizar el acceso a una educación pertinente y de calidad y una conclusión oportuna.
+a) Promueve medidas para garantizar el acceso a una educación pertinente y de calidad y una conclusión oportuna.
 
-- Orienta la formación inicial y en servicio de los docentes para su atención pertinente y garantiza la capacitación de docentes de instituciones educativas públicas.
+b) Orienta la formación inicial y en servicio de los docentes para su atención pertinente y garantiza la capacitación de docentes de instituciones educativas públicas.
 
-- Establece lineamientos para realizar diversificaciones y adaptaciones curriculares pertinentes a las características de los estudiantes en sus respectivos entornos.
+c) Establece lineamientos para realizar diversificaciones y adaptaciones curriculares pertinentes a las características de los estudiantes en sus respectivos entornos.
 
-- Asegura que el servicio educativo se brinde de acuerdo a las características y necesidades específicas de la población, proporcionándole las condiciones que se requieran para alcanzar los logros de aprendizaje esperados:
+d) Asegura que el servicio educativo se brinde de acuerdo a las características y necesidades específicas de la población, proporcionándole las condiciones que se requieran para alcanzar los logros de aprendizaje esperados:
 
-- Apoya las prácticas inclusivas de la población con necesidades educativas especiales, con la participación de los Servicios de Apoyo y Asesoramiento para la Atención de Necesidades Educativas Especiales (SAANEE), generando un entorno educativo que valore, fortalezca y respete la diversidad así como el sentido de comunidad.
+e) Apoya las prácticas inclusivas de la población con necesidades educativas especiales, con la participación de los Servicios de Apoyo y Asesoramiento para la Atención de Necesidades Educativas Especiales (SAANEE), generando un entorno educativo que valore, fortalezca y respete la diversidad así como el sentido de comunidad.
 
-- Orienta el diseño de espacios educativos amables e inclusivos con diferentes alternativas para los estudiantes con discapacidad, para lo cual adopta medidas de accesibilidad física, códigos y formas de comunicación, flexibilidad horaria y provisión de recursos específicos y personal docente especializado para su atención.
+f) Orienta el diseño de espacios educativos amables e inclusivos con diferentes alternativas para los estudiantes con discapacidad, para lo cual adopta medidas de accesibilidad física, códigos y formas de comunicación, flexibilidad horaria y provisión de recursos específicos y personal docente especializado para su atención.
 
-- Garantiza una educación técnico-productiva pertinente y sostenible para fortalecer las capacidades laborales de los estudiantes que les permitan el autoempleo y la inserción laboral en sus entornos aportando al desarrollo local y regional.
+g) Garantiza una educación técnico-productiva pertinente y sostenible para fortalecer las capacidades laborales de los estudiantes que les permitan el autoempleo y la inserción laboral en sus entornos aportando al desarrollo local y regional.
 
 ##### Artículo 12.- Atención a situaciones de inequidad
 
@@ -220,25 +222,25 @@ El Estado a través del Ministerio de Educación desarrolla e impulsa la políti
 
 La instancia de gestión educativa descentralizada prioriza en la asignación de recursos la atención de los estudiantes que se encuentren en situaciones de inequidad, identificando aquellas que afecten el derecho a educarse, tales como:
 
-- Pobreza, abandono, indocumentación, exposición al peligro, aislamiento y marginalidad.
+a) Pobreza, abandono, indocumentación, exposición al peligro, aislamiento y marginalidad.
 
-- Maltrato en sus diversas expresiones y explotación sexual.
+b) Maltrato en sus diversas expresiones y explotación sexual.
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-- Discriminación de género, étnica, social, política, religiosa, discapacidad, talento y superdotación, económica y lingüística.
+c) Discriminación de género, étnica, social, política, religiosa, discapacidad, talento y superdotación, económica y lingüística.
 
-- Desnutrición, malnutrición, adicción o problemas de salud en general.
+d) Desnutrición, malnutrición, adicción o problemas de salud en general.
 
-- Menores de edad que trabajan.
+e) Menores de edad que trabajan.
 
-- Problemas de conducta y aprendizaje.
+f) Problemas de conducta y aprendizaje.
 
-- Embarazo y maternidad o paternidad precoz.
+g) Embarazo y maternidad o paternidad precoz.
 
-- Ubicación en zonas de frontera o de alto riesgo ante amenazas naturales.
+h) Ubicación en zonas de frontera o de alto riesgo ante amenazas naturales.
 
 ##### Artículo 13.- Educación Intercultural Bilingüe
 
@@ -246,9 +248,9 @@ La educación intercultural promueve la valoración y enriquecimiento de la prop
 
 En la Educación Intercultural Bilingüe, le corresponde al Estado:
 
-- Garantizar el ingreso al servicio educativo de docentes con dominio de lengua originaria en las instituciones educativas interculturales bilingües.
+a) Garantizar el ingreso al servicio educativo de docentes con dominio de lengua originaria en las instituciones educativas interculturales bilingües.
 
-- Promover la participación de los representantes de organizaciones indígenas, otras comunidades y sociedad civil, en la formulación de la política de Educación Intercultural Bilingüe y en la gestión del servicio educativo.
+b) Promover la participación de los representantes de organizaciones indígenas, otras comunidades y sociedad civil, en la formulación de la política de Educación Intercultural Bilingüe y en la gestión del servicio educativo.
 
 ### CAPÍTULO III
 
@@ -288,8 +290,6 @@ Participa en el desarrollo e implementación de instituciones y programas educat
 
 ## ESTRUCTURA DEL SISTEMA EDUCATIVO NACIONAL
 
-Í
-
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
@@ -308,15 +308,15 @@ La articulación del Sistema Educativo tiene el propósito de posibilitar la int
 
 Son medios que permiten cumplir con el propósito de la articulación, los siguientes:
 
-- La institución educativa otorga certificado de estudios a quien ha cursado estudios regulares en cualquier nivel, modalidad o forma del Sistema Educativo Nacional, de acuerdo a los grados y ciclos culminados. El certificado tiene carácter oficial para la matrícula, traslado y continuidad de los estudios. En las instituciones educativas públicas, la primera entrega de certificado es gratuita.
+a) La institución educativa otorga certificado de estudios a quien ha cursado estudios regulares en cualquier nivel, modalidad o forma del Sistema Educativo Nacional, de acuerdo a los grados y ciclos culminados. El certificado tiene carácter oficial para la matrícula, traslado y continuidad de los estudios. En las instituciones educativas públicas, la primera entrega de certificado es gratuita.
 
-- La convalidación es el reconocimiento oficial, por equivalencia, de estudios debidamente certificados por instituciones educativas o programas correspondientes a la modalidad o forma del Sistema Educativo Nacional, con la finalidad de continuar los estudios. Se convalidan estudios certificados por instituciones educativas de diferentes modalidades de Educación Básica y Educación Técnico-Productiva, cursados dentro del país o fuera de él, en el marco de los convenios existentes. La convalidación procede también para el reconocimiento de equivalencia de estudios realizados en el extranjero con los que se realizan en el país.
+b) La convalidación es el reconocimiento oficial, por equivalencia, de estudios debidamente certificados por instituciones educativas o programas correspondientes a la modalidad o forma del Sistema Educativo Nacional, con la finalidad de continuar los estudios. Se convalidan estudios certificados por instituciones educativas de diferentes modalidades de Educación Básica y Educación Técnico-Productiva, cursados dentro del país o fuera de él, en el marco de los convenios existentes. La convalidación procede también para el reconocimiento de equivalencia de estudios realizados en el extranjero con los que se realizan en el país.
 
-- La revalidación es el proceso de reconocimiento de aprendizajes que no pueden ser convalidados por diferencia de planes de estudio; que son realizados dentro del país, en modalidades diferentes, o fuera de él, en aquellos países que no tienen convenio con el Perú. Es parcial cuando permite concluir los estudios en los grados, ciclos o niveles, y es total cuando permite pasar de una etapa a otra.
+c) La revalidación es el proceso de reconocimiento de aprendizajes que no pueden ser convalidados por diferencia de planes de estudio; que son realizados dentro del país, en modalidades diferentes, o fuera de él, en aquellos países que no tienen convenio con el Perú. Es parcial cuando permite concluir los estudios en los grados, ciclos o niveles, y es total cuando permite pasar de una etapa a otra.
 
-- La subsanación permite superar las dificultades de los estudiantes que no lograron el nivel esperado de aprendizajes al término del año escolar, y se desarrolla a través del Programa de Recuperación Pedagógica
+d) La subsanación permite superar las dificultades de los estudiantes que no lograron el nivel esperado de aprendizajes al término del año escolar, y se desarrolla a través del Programa de Recuperación Pedagógica
 
-- La prueba de ubicación es el reconocimiento oficial de los aprendizajes alcanzados o logrados independientemente y que no cuentan con los requisitos necesarios para la convalidación ni la revalidación. Se efectúa mediante un proceso de evaluación que permita determinar el nivel de aprendizaje del niño, adolescente, joven y adulto para acceder a la Educación Básica y continuar sus estudios. Cumplen la misma función las pruebas de desempeño aplicables en Educación Técnico-Productiva.
+e) La prueba de ubicación es el reconocimiento oficial de los aprendizajes alcanzados o logrados independientemente y que no cuentan con los requisitos necesarios para la convalidación ni la revalidación. Se efectúa mediante un proceso de evaluación que permita determinar el nivel de aprendizaje del niño, adolescente, joven y adulto para acceder a la Educación Básica y continuar sus estudios. Cumplen la misma función las pruebas de desempeño aplicables en Educación Técnico-Productiva.
 
 [[END OF PAGE 11]]
 
@@ -328,7 +328,7 @@ La regulación de los procesos de certificación, convalidación, revalidación 
 
 Es una modalidad transversal, soporte de la educación permanente que complementa, refuerza o reemplaza la educación presencial y amplía la cobertura de la oferta educativa sin límites geográficos ni temporales. Emplea medios de comunicación, escritos y tecnológicos, para el acceso a la educación y tiene un sistema de tutoría que promueve, organiza, orienta, motiva y evalúa a los usuarios.
 
-- El Ministerio de Educación establece los lineamientos generales que regulan el funcionamiento, régimen académico y certificación de los estudios en la institución educativa pública y privada de Educación a Distancia. El período de duración de los estudios de Educación a Distancia no es menor al establecido para los grados de estudios correspondientes al régimen formal de los grados, ciclos, niveles, modalidades y formas de la educación, con excepción de la Educación Inicial. Estos servicios están sujetos a la acreditación de las instituciones educativas que los imparten
+El Ministerio de Educación establece los lineamientos generales que regulan el funcionamiento, régimen académico y certificación de los estudios en la institución educativa pública y privada de Educación a Distancia. El período de duración de los estudios de Educación a Distancia no es menor al establecido para los grados de estudios correspondientes al régimen formal de los grados, ciclos, niveles, modalidades y formas de la educación, con excepción de la Educación Inicial. Estos servicios están sujetos a la acreditación de las instituciones educativas que los imparten
 
 La supervisión de los servicios de Educación a Distancia, así como de la infraestructura, los recursos tecnológicos y las actividades educativas que se desarrollan a través de entornos virtuales de aprendizaje, estará a cargo de las instancias de gestión educativa descentralizada competentes.
 
@@ -336,29 +336,29 @@ La supervisión de los servicios de Educación a Distancia, así como de la infr
 
 La Política Pedagógica Nacional tiene por objetivo asegurar a los estudiantes el logro de los aprendizajes fundamentales a que tienen derecho. Articula de manera coherente los factores de calidad señalados en la Ley e incluye lineamientos y acciones fundamentales respecto a:
 
-- El diseño, diversificación, adaptación, implementación y evaluación de los currículos.
+a) El diseño, diversificación, adaptación, implementación y evaluación de los currículos.
 
-- La definición de estándares, mapa de progresos y evaluación de aprendizajes
+b) La definición de estándares, mapa de progresos y evaluación de aprendizajes
 
-- El enfoque, organización y conducción de los procesos pedagógicos.
+c) El enfoque, organización y conducción de los procesos pedagógicos.
 
-- La generación de un entorno educativo armonioso, saludable, seguro, confiable, eficiente, creativo y ético favorable a los aprendizajes.
+d) La generación de un entorno educativo armonioso, saludable, seguro, confiable, eficiente, creativo y ético favorable a los aprendizajes.
 
-- La definición de criterios de calidad y de respeto a los derechos del niño en las prácticas pedagógicas
+e) La definición de criterios de calidad y de respeto a los derechos del niño en las prácticas pedagógicas
 
-- El diseño, validación, utilización y evaluación de los materiales y recursos educativos y centros de recursos.
+f) El diseño, validación, utilización y evaluación de los materiales y recursos educativos y centros de recursos.
 
-- El diseño, organización y conducción de la formación inicial y en servicio de los docentes.
+g) El diseño, organización y conducción de la formación inicial y en servicio de los docentes.
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
 
-- La evaluación de estudiantes acorde a sus características y el uso de sus resultados para mejorar sus aprendizajes.
+h) La evaluación de estudiantes acorde a sus características y el uso de sus resultados para mejorar sus aprendizajes.
 
-- EI diseño y utilización de instrumentos de gestión pedagógica.
+i) El diseño y utilización de instrumentos de gestión pedagógica.
 
-- La innovación e investigación en el sistema educativo.
+j) La innovación e investigación en el sistema educativo.
 
 La Política Pedagógica Nacional es formulada por el Ministerio de Educación, considerando el Proyecto Educativo Nacional, los lineamientos de política educativa y los proyectos educativos regionales, en coordinación con los Gobiernos Regionales y con la participación del Consejo Nacional de Educación, organizaciones docentes, instituciones académicas y organizaciones representativas de la sociedad.
 
@@ -370,17 +370,17 @@ La evaluación es un proceso continuo de carácter pedagógico, orientado a iden
 
 Utiliza criterios, indicadores y niveles de logro, así como técnicas e instrumentos adaptados a las características de los estudiantes, que permitan recoger información para tomar decisiones que retroalimenten los procesos pedagógicos y favorezcan los resultados educativos de los estudiantes.
 
-- El Ministerio de Educación establece las normas nacionales de evaluación, promoción, recuperación y nivelación pedagógica, tomando en cuenta la diversidad.
+El Ministerio de Educación establece las normas nacionales de evaluación, promoción, recuperación y nivelación pedagógica, tomando en cuenta la diversidad.
 
 Además de los docentes, participan en la evaluación de los procesos de aprendizaje:
 
-- Los estudiantes, de acuerdo a criterios e indicadores previamente establecidos, con la finalidad de autorregular sus propios aprendizajes.
+a) Los estudiantes, de acuerdo a criterios e indicadores previamente establecidos, con la finalidad de autorregular sus propios aprendizajes.
 
-- Los padres de familia o tutores de los estudiantes menores de edad, con el fin de apoyarlos para mejorar sus logros de aprendizaje.
+b) Los padres de familia o tutores de los estudiantes menores de edad, con el fin de apoyarlos para mejorar sus logros de aprendizaje.
 
-- Los directores de instituciones educativas, quienes revisan las evaluaciones e instrumentos empleados por los docentes y sus reportes para brindar la asesoría u orientación pedagógica pertinente.
+c) Los directores de instituciones educativas, quienes revisan las evaluaciones e instrumentos empleados por los docentes y sus reportes para brindar la asesoría u orientación pedagógica pertinente.
 
-- Los equipos de apoyo y asesoramiento pedagógico al docente, en el caso de la Educación Básica Especial.
+d) Los equipos de apoyo y asesoramiento pedagógico al docente, en el caso de la Educación Básica Especial.
 
 [[END OF PAGE 13]]
 
@@ -410,7 +410,7 @@ La institución educativa está obligada a adoptar medidas pertinentes y correct
 
 ##### Artículo 25.- Educación religiosa
 
-T odo niño gozará del derecho a tener acceso a educación en materia de religión conforme con los derechos de sus padres o tutores.
+Todo niño gozará del derecho a tener acceso a educación en materia de religión conforme con los derechos de sus padres o tutores.
 
 [[END OF PAGE 14]]
 
@@ -430,39 +430,39 @@ En materia de libertad de religión o convicciones de conciencia, el director co
 
 El proceso pedagógico es el conjunto de hechos, interacciones e intercambios que se producen durante el acto de enseñar y aprender y que se orientan al logro de un resultado o que influyen en él. Exige a los docentes y directivos:
 
-- Establecer un clima democrático, de respeto, motivación, solidaridad, aceptación, confianza, abierto a la diversidad y la inclusión, que permita generar adecuados vínculos interpersonales entre estudiantes y docentes.
+a) Establecer un clima democrático, de respeto, motivación, solidaridad, aceptación, confianza, abierto a la diversidad y la inclusión, que permita generar adecuados vínculos interpersonales entre estudiantes y docentes.
 
-- Evidenciar altas expectativas sobre las posibilidades de aprendizaje de los estudiantes.
+b) Evidenciar altas expectativas sobre las posibilidades de aprendizaje de los estudiantes.
 
-- Diversificar las actividades pedagógicas de acuerdo a las necesidades, características específicas y capacidades de cada estudiante.
+c) Diversificar las actividades pedagógicas de acuerdo a las necesidades, características específicas y capacidades de cada estudiante.
 
-- Acordar con los estudiantes normas de convivencia en el aula que propicien un ambiente democrático, agradable, saludable, seguro, inclusivo, tolerante, respetuoso, estimulante y facilitador del trabajo educativo y de las relaciones sociales. El director, el docente y la comunidad educativa, en general, realizarán el seguimiento y evaluación de dichas normas para asegurar su funcionamiento.
+d) Acordar con los estudiantes normas de convivencia en el aula que propicien un ambiente democrático, agradable, saludable, seguro, inclusivo, tolerante, respetuoso, estimulante y facilitador del trabajo educativo y de las relaciones sociales. El director, el docente y la comunidad educativa, en general, realizarán el seguimiento y evaluación de dichas normas para asegurar su funcionamiento.
 
-- Emplear de manera óptima los recursos educativos, equipos y materiales disponibles en la institución educativa y en la comunidad.
+e) Emplear de manera óptima los recursos educativos, equipos y materiales disponibles en la institución educativa y en la comunidad.
 
-- Asumir responsabilidades directas en la orientación educativa permanente de sus propios estudiantes.
+f) Asumir responsabilidades directas en la orientación educativa permanente de sus propios estudiantes.
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
 
-- Propiciar en el estudiante la investigación, la reflexión crítica, la creatividad, la práctica artística, la actividad física y deportiva, así como su participación democrática en la vida de la institución educativa y la comunidad.
+g) Propiciar en el estudiante la investigación, la reflexión crítica, la creatividad, la práctica artística, la actividad física y deportiva, así como su participación democrática en la vida de la institución educativa y la comunidad.
 
-- Fomentar el interés y la reflexión crítica de los procesos y hechos más relevantes de la vida pública local, regional, nacional y mundial.
+h) Fomentar el interés y la reflexión crítica de los procesos y hechos más relevantes de la vida pública local, regional, nacional y mundial.
 
-- Diseñar y poner en práctica procesos e instrumentos de gestión pedagógica.
+i) Diseñar y poner en práctica procesos e instrumentos de gestión pedagógica.
 
-- Analizar la metodología empleada y contrastarla con avances, dificultades y logros identificados en las evaluaciones para retroalimentar los procesos cognitivos y metacognitivos de los estudiantes, aplicando regulaciones pedagógicas convenientes.
+j) Analizar la metodología empleada y contrastarla con avances, dificultades y logros identificados en las evaluaciones para retroalimentar los procesos cognitivos y metacognitivos de los estudiantes, aplicando regulaciones pedagógicas convenientes.
 
-- Hacer uso de recursos y herramientas de las TIC en los procesos pedagógicos.
+k) Hacer uso de recursos y herramientas de las TIC en los procesos pedagógicos.
 
-- Garantizar el uso efectivo del total de horas pedagógicas establecidas por el Ministerio de Educación
+l) Garantizar el uso efectivo del total de horas pedagógicas establecidas por el Ministerio de Educación
 
-- El conocimiento, respeto, valoración y diálogo con las distintas culturas existentes en su entorno y fuera de él.
+m) El conocimiento, respeto, valoración y diálogo con las distintas culturas existentes en su entorno y fuera de él.
 
-- El ejercicio de su identidad y conciencia ciudadana y cívica, expresada en la convivencia democrática, para el logro de la paz.
+n) El ejercicio de su identidad y conciencia ciudadana y cívica, expresada en la convivencia democrática, para el logro de la paz.
 
-- La asunción de conductas no discriminatorias relacionadas con raza, lengua, sexo, religión, discapacidad y otras.
+o) La asunción de conductas no discriminatorias relacionadas con raza, lengua, sexo, religión, discapacidad y otras.
 
 ##### Artículo 27.- Currículo Nacional de la Educación Básica
 
@@ -490,15 +490,15 @@ La atención de los estudiantes con necesidades educativas especiales tiene como
 
 El Ministerio de Educación establece los lineamientos generales para la diversificación curricular de la Educación Básica, para que sobre la base del currículo nacional se construyan currículos regionales que:
 
-- Contengan aprendizajes pertinentes a las características específicas, necesidades y demandas de los estudiantes en cada región, en función de sus entornos socioculturales, lingüísticos, económico-productivos y geográficos.
+a) Contengan aprendizajes pertinentes a las características específicas, necesidades y demandas de los estudiantes en cada región, en función de sus entornos socioculturales, lingüísticos, económico-productivos y geográficos.
 
-- Evidencien el respeto a la diversidad y a la persona con discapacidad, talento y superdotación, considerando lineamientos generales como la unidad nacional, la cohesión social, la interculturalidad y el bilingüismo.
+b) Evidencien el respeto a la diversidad y a la persona con discapacidad, talento y superdotación, considerando lineamientos generales como la unidad nacional, la cohesión social, la interculturalidad y el bilingüismo.
 
-- Garanticen que el estudiante logre los aprendizajes básicos esperados para el nivel, adecuándolos, cuando sea necesario, a las características socioculturales de cada realidad regional y local.
+c) Garanticen que el estudiante logre los aprendizajes básicos esperados para el nivel, adecuándolos, cuando sea necesario, a las características socioculturales de cada realidad regional y local.
 
-- Incluyan las competencias priorizadas en el marco curricular nacional.
+d) Incluyan las competencias priorizadas en el marco curricular nacional.
 
-- Adecuen las competencias, capacidades y actitudes del currículo nacional o incorporen aquellas que sean pertinentes para su realidad, de modo flexible.
+e) Adecuen las competencias, capacidades y actitudes del currículo nacional o incorporen aquellas que sean pertinentes para su realidad, de modo flexible.
 
 La diversificación curricular asume enfoques pedagógicos flexibles, contextualizados y relevantes.
 
@@ -546,11 +546,11 @@ La Educación Básica, en un contexto intercultural bilingüe, garantiza el proc
 
 El docente de la institución educativa intercultural bilingüe cumple los siguientes requisitos:
 
-- Tiene dominio de la lengua originaria de la comunidad donde se ubica la institución educativa, así como del castellano.
+a) Tiene dominio de la lengua originaria de la comunidad donde se ubica la institución educativa, así como del castellano.
 
-- Conoce y comprende la cosmovisión de la cultura local y le brinda un tratamiento pedagógico con enfoque intercultural.
+b) Conoce y comprende la cosmovisión de la cultura local y le brinda un tratamiento pedagógico con enfoque intercultural.
 
-- Maneja estrategias y metodologías para el abordaje y tratamiento de la lengua originaria y del castellano en el aula.
+c) Maneja estrategias y metodologías para el abordaje y tratamiento de la lengua originaria y del castellano en el aula.
 
 ##### Artículo 31.- Interculturalidad en procesos pedagógicos
 
@@ -568,7 +568,7 @@ Los equipos, materiales y espacios educativos son recursos de diversa naturaleza
 
 [[START OF PAGE 20]]
 
-EI Ministerio de Educación, el Gobierno Regional a través de la Dirección Regional de Educación, en coordinación con la Unidad de Gestión Educativa Local o las entidades que hagan sus veces, son responsables de elaborar, producir y/o adquirir sus recursos educativos para los niveles y modalidades de la Educación Básica, garantizando que lleguen oportunamente a las instituciones educativas públicas y que se utilicen adecuadamente en los procesos pedagógicos.
+El Ministerio de Educación, el Gobierno Regional a través de la Dirección Regional de Educación, en coordinación con la Unidad de Gestión Educativa Local o las entidades que hagan sus veces, son responsables de elaborar, producir y/o adquirir sus recursos educativos para los niveles y modalidades de la Educación Básica, garantizando que lleguen oportunamente a las instituciones educativas públicas y que se utilicen adecuadamente en los procesos pedagógicos.
 
 El Ministerio de Educación vigila la calidad de los textos y materiales de acuerdo a la Ley de la materia.
 
@@ -610,15 +610,15 @@ Los Programas de Recuperación Pedagógica en la institución educativa están d
 
 En las instituciones de Educación Básica, estos programas tienen las siguientes características:
 
-- Son temporales.
+a) Son temporales.
 
-- En instituciones educativas públicas, tienen carácter gratuito, financiados por el Estado.
+b) En instituciones educativas públicas, tienen carácter gratuito, financiados por el Estado.
 
-- Presentan dos formas de atención: durante el año escolar o periodo lectivo y durante las vacaciones escolares.
+c) Presentan dos formas de atención: durante el año escolar o periodo lectivo y durante las vacaciones escolares.
 
-- Se basan en estrategias pedagógicas que ayuden a superar las dificultades específicas.
+d) Se basan en estrategias pedagógicas que ayuden a superar las dificultades específicas.
 
-- El Programa de Recuperación Pedagógica que se realiza durante las vacaciones escolares tiene una duración de seis semanas. Los estudiantes pueden asistir a estos programas en su propia institución educativa u otra, con conocimiento de la institución educativa de origen.
+e) El Programa de Recuperación Pedagógica que se realiza durante las vacaciones escolares tiene una duración de seis semanas. Los estudiantes pueden asistir a estos programas en su propia institución educativa u otra, con conocimiento de la institución educativa de origen.
 
 [[END OF PAGE 21]]
 
@@ -626,7 +626,7 @@ En las instituciones de Educación Básica, estos programas tienen las siguiente
 
 f) Los estudiantes que no participan en este programa, previa autorización del director, asumen el compromiso de prepararse para ser evaluados en las fechas o periodos establecidos por la dirección de la institución educativa a la que pertenecen.
 
-- La institución educativa prevé que en el Programa de Recuperación Pedagógica se aplique una evaluación continua que responda a la concepción de evaluación como proceso.
+g) La institución educativa prevé que en el Programa de Recuperación Pedagógica se aplique una evaluación continua que responda a la concepción de evaluación como proceso.
 
 ##### Artículo 37.- Cultura, deporte, arte y recreación
 
@@ -656,7 +656,7 @@ La tutoría y orientación educativa es el acompañamiento socioafectivo y cogni
 
 El director de la institución educativa garantiza la implementación de esta forma de acompañamiento a través del Comité de Tutoría y Orientación Educativa.
 
-T odos los docentes son responsables de la formación y acompañamiento de sus estudiantes. En los niveles de Inicial y Primaria de Educación Básica Regular, y en todos los ciclos de Educación Básica Alternativa, la tutoría es responsabilidad del docente del aula y se realiza de manera permanente y transversal a todas las actividades pedagógicas. En el nivel de Educación Secundaria, y en Educación Básica Alternativa el director de la institución educativa, con opinión de los estudiantes, designa al tutor de cada aula, estableciendo, por lo menos, una hora semanal para la labor tutorial grupal en cada sección, como parte de la jornada laboral del docente.
+Todos los docentes son responsables de la formación y acompañamiento de sus estudiantes. En los niveles de Inicial y Primaria de Educación Básica Regular, y en todos los ciclos de Educación Básica Alternativa, la tutoría es responsabilidad del docente del aula y se realiza de manera permanente y transversal a todas las actividades pedagógicas. En el nivel de Educación Secundaria, y en Educación Básica Alternativa el director de la institución educativa, con opinión de los estudiantes, designa al tutor de cada aula, estableciendo, por lo menos, una hora semanal para la labor tutorial grupal en cada sección, como parte de la jornada laboral del docente.
 
 La institución educativa de acuerdo con las posibilidades presupuestarias y las metas de atención, podrá contar con servicios profesionales de un psicólogo permanente que apoye el desarrollo adecuado de las labores de tutoría y orientación educativa. Asimismo se podrá asignar psicólogos itinerantes para redes de instituciones educativas.
 
@@ -674,23 +674,23 @@ Las instancias de gestión educativa descentralizada con participación de los d
 
 [[START OF PAGE 24]]
 
-- El conocimiento de estudiantes en sus diferencias individuales y sus contextos de vida.
+a) El conocimiento de estudiantes en sus diferencias individuales y sus contextos de vida.
 
-- El aporte a la innovación de la práctica docente.
+b) El aporte a la innovación de la práctica docente.
 
-- La experimentación y validación de estrategias educativas pertinentes a las necesidades y diversidad de los estudiantes, así como al desarrollo personal y profesional del profesor.
+c) La experimentación y validación de estrategias educativas pertinentes a las necesidades y diversidad de los estudiantes, así como al desarrollo personal y profesional del profesor.
 
-- El diseño y ejecución de sistemas de formación continua de los docentes.
+d) El diseño y ejecución de sistemas de formación continua de los docentes.
 
-- La experimentación y validación del currículo nacional y su diversificación.
+e) La experimentación y validación del currículo nacional y su diversificación.
 
-- La implementación y mejora del servicio de tutoría y orientación educativa.
+f) La implementación y mejora del servicio de tutoría y orientación educativa.
 
-- La evaluación de los aprendizajes.
+g) La evaluación de los aprendizajes.
 
-- La pertinencia sociocultural de las propuestas pedagógicas para comunidades con lenguas originarias.
+h) La pertinencia sociocultural de las propuestas pedagógicas para comunidades con lenguas originarias.
 
-- La inclusión educativa de estudiantes con discapacidad, talento y superdotación.
+i) La inclusión educativa de estudiantes con discapacidad, talento y superdotación.
 
 Los Gobiernos Regionales, a través de sus instancias descentralizadas, organizan espacios de difusión e intercambio de los resultados de proyectos de investigación realizados, así como de las experiencias educativas innovadoras, y coordina su presentación en espacios institucionales, locales, regionales y nacionales.
 
@@ -714,7 +714,7 @@ En la Educación Básica, desde el nivel Inicial se desarrollan gradualmente cap
 
 ##### Artículo 42.- Educación Religiosa
 
-T odo niño gozará del derecho a tener acceso a educación en materia de religión conforme con los derechos de sus padres o tutores. Si es mayor de edad con su consentimiento.
+Todo niño gozará del derecho a tener acceso a educación en materia de religión conforme con los derechos de sus padres o tutores. Si es mayor de edad con su consentimiento.
 
 En las instituciones educativas, los padres, tutores o estudiantes mayores de edad, cuando corresponda, podrán solicitar la exoneración del área curricular de Educación Religiosa, decisión que será comunicada en el momento de la matrícula y que será consultada y registrada y mantenida en reserva por la institución educativa. Respecto de los estudiantes debidamente exonerados del área de Educación Religiosa, su promedio académico se tomará considerando solamente las demás áreas curriculares, en concordancia con la Ley Nº 29635 Ley de Libertad Religiosa y su reglamento.
 
@@ -728,11 +728,12 @@ En atención al principio educativo de interculturalidad y al ejercicio de liber
 
 El Ministerio de Educación garantiza el funcionamiento del programa nacional de formación continua de docentes de instituciones públicas, durante toda su vida profesional. El programa integra la formación inicial y en servicio.
 
-La institución educativa promueve y facilita la participación de sus docentes en acciones de capacitación promovidas por la propia institución, el gobierno local, gobierno regional y sus instancias de gestión educativa descentralizada, y otras entidades acreditadas por la instancia educativa competente. Estas acciones no afectan la jornada escolar o de estudios.
+La institución educativa promueve y facilita la participación de sus docentes en acciones de capacitación promovidas por la propia institución, el gobierno local, gobierno regional y sus instancias de gestión educativa
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
+descentralizada, y otras entidades acreditadas por la instancia educativa competente. Estas acciones no afectan la jornada escolar o de estudios.
 
 Se rige por la política pedagógica y normas nacionales de ejecución regional y local, con un enfoque intercultural, bilingüe e inclusivo.
 
@@ -748,7 +749,7 @@ Son objetivos de la formación y capacitación permanente:
 
 ##### Artículo 44.- Formación inicial del docente
 
-La formación inicial del docente se realiza en Instituciones de Educación Superior acreditados.
+La formación inicial del docente se realiza en Instituciones de Educación Superior acreditadas.
 
 El Ministerio de Educación supervisa a las instituciones y el logro de las competencias profesionales.
 
@@ -763,11 +764,12 @@ Los programas de formación en servicio de docentes se organizan sobre la base d
 ### DE LA EDUCACIÓN BÁSICA REGULAR
 
 ##### Artículo 46.- Definición
-La Educación Básica Regular atiende a los niños y adolescentes que pasan oportunamente por el proceso educativo, de acuerdo con su evolución física, afectiva y cognitiva, desde el momento de su nacimiento. Atiende a estudiantes con necesidades educativas especiales, que son matriculados y promovidos de grado tomando en cuenta su edad normativa. Abarca los niveles de Educación Inicial, Primaria y Secundaria. El Ministerio de Educación establece la organización de ciclos.
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
+
+La Educación Básica Regular atiende a los niños y adolescentes que pasan oportunamente por el proceso educativo, de acuerdo con su evolución física, afectiva y cognitiva, desde el momento de su nacimiento. Atiende a estudiantes con necesidades educativas especiales, que son matriculados y promovidos de grado tomando en cuenta su edad normativa. Abarca los niveles de Educación Inicial, Primaria y Secundaria. El Ministerio de Educación establece la organización de ciclos.
 
 ##### Artículo 47.- Articulación entre niveles educativos de Educación Básica Regular
 
@@ -775,7 +777,7 @@ La articulación entre los niveles educativos de la Educación Básica Regular t
 
 - La Educación Inicial con la Educación Primaria articulan concepciones sobre la infancia, así como enfoques pedagógicos, curriculares y metodológicos que respondan a las características de la evolución corporal, afectiva y cognitiva de los niños. La articulación tiene en cuenta las necesidades educativas, las diferencias individuales y la diversidad sociocultural de los estudiantes.
 
-- La Educación Primaria consolida y continúa la formación integral realizada en la Educación Inicial, teniendo en cuenta el artículo 36 de la Ley. Conforma una estructura integral sólida que se constituye en la base para la. Educación Secundaria.
+- La Educación Primaria consolida y continúa la formación integral realizada en la Educación Inicial, teniendo en cuenta el artículo 36 de la Ley. Conforma una estructura integral sólida que se constituye en la base para la Educación Secundaria.
 
 - La Educación Secundaria se articula con la Educación Primaria para dar continuidad y profundidad a las competencias, conocimientos, capacidades, actitudes y valores logrados en el nivel primario, que complementa con aprendizajes humanísticos, científicos y tecnológicos, de acuerdo a sus características socioculturales o de discapacidad, así como con una formación para el trabajo. Se articula también con la Educación Superior, facilitando el acceso a las Instituciones de Educación Superior.
 
@@ -785,15 +787,17 @@ La articulación entre los niveles educativos de la Educación Básica Regular t
 
 ##### Artículo 48.- Del nivel de Educación Inicial
 
-La Educación Inicial es el primer nivel de la Educación Básica Regular. Atiende a niños y niñas menores de 6 años de edad, con enfoque intercultural e inclusivo, promoviendo el desarrollo y aprendizaje infantil mediante acciones educativas. Contribuye a un adecuado proceso de transición del hogar al sistema educativo, a través de diferentes tipos y formas de servicios educativos, con estrategias que funcionan con la participación la familia, agentes comunitarios y autoridades de los gobiernos locales.
+La Educación Inicial es el primer nivel de la Educación Básica Regular. Atiende a niños y niñas menores de 6 años de edad, con enfoque intercultural e inclusivo, promoviendo el desarrollo y aprendizaje infantil mediante acciones educativas. Contribuye a un adecuado proceso de transición del hogar al sistema educativo, a través de diferentes tipos y formas de servicios educativos, con estrategias que funcionan con la participación de la familia, agentes comunitarios y autoridades de los gobiernos locales.
 
 La Educación Inicial comprende la responsabilidad del Estado de proveer servicios educativos diversos de 0 a 2 años, dirigidos a los niños y/o a sus familias. A partir de los 3 años, se enfatiza la obligación de las familias de hacer participar a los niños en servicios escolarizados o no escolarizados de Educación Inicial.
 
-La atención integral en Educación Inicial implica, brindar una educación que promueva el desarrollo infantil en sus múltiples dimensiones (cognitiva, física, motora, social, emocional). Por otro lado, implica asegurar que los niños y niñas que asisten a los servicios educativos del nivel inicial reciban servicios complementarios como la atención en salud, nutrición, protección, acceso al registro legal de identidad, servicios de cuidado, u otros que aseguren condiciones básicas para su desarrollo.
+La atención integral en Educación Inicial implica, brindar una educación que promueva el desarrollo infantil en sus múltiples dimensiones (cognitiva, física, motora, social, emocional). Por otro lado, implica asegurar que los niños y
 
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
+
+niñas que asisten a los servicios educativos del nivel inicial reciban servicios complementarios como la atención en salud, nutrición, protección, acceso al registro legal de identidad, servicios de cuidado, u otros que aseguren condiciones básicas para su desarrollo.
 
 ##### Artículo 49.- Prioridad de la Educación Inicial
 
@@ -843,7 +847,7 @@ La Educación Inicial escolarizada tiene las siguientes características:
 
 La forma escolarizada de Educación Inicial comprende las siguientes instituciones:
 
-- Cuna. En la que los niños y niñas menores de 3 años reciben una atención integral durante un tiempo no menor de cinco días a la semana, en horarios de ocho horas diarias como máximo. La permanencia diaria del niño en la cuna esta sujeta a las necesidades de la familia. El servicio funciona todo el año. Esta atención se brinda a través de un espacio rigurosamente organizado que ofrece a los niños un máximo de estabilidad y seguridad para crecer y desplegar sus capacidades de organización del movimiento y desplazamiento, exploración, comunicación, autonomía e iniciativa. La atención es realizada por personal profesional y técnico (auxiliar) preparado y especializado para garantizar la calidad del servicio.
+- Cuna. En la que los niños y niñas menores de 3 años reciben una atención integral durante un tiempo no menor de cinco días a la semana, en horarios de ocho horas diarias como máximo. La permanencia diaria del niño en la cuna está sujeta a las necesidades de la familia. El servicio funciona todo el año. Esta atención se brinda a través de un espacio rigurosamente organizado que ofrece a los niños un máximo de estabilidad y seguridad para crecer y desplegar sus capacidades de organización del movimiento y desplazamiento, exploración, comunicación, autonomía e iniciativa. La atención es realizada por personal profesional y técnico (auxiliar) preparado y especializado para garantizar la calidad del servicio.
 
 Para el funcionamiento de una cuna se necesitará garantizar las condiciones de infraestructura, mobiliario y material educativo. Asimismo, el personal a cargo de la atención de los niños deberá haber realizado la formación especializada para este tipo de servicio.
 
@@ -903,7 +907,7 @@ La familia participa en la gestión del servicio educativo de manera organizada,
 
 ##### Artículo 59.- Intersectorialidad y atención complementaria
 
-El sector Educación promueve acciones orientadas a que los niños menores de 6 años que participan en los servicios de educación reciban atención integral. Para ello, coordina con otros sectores y entidades, como el Ministerio de Salud, Ministerio de la Mujer y Desarrollo Social, Ministerio de Desarrollo e Inclusión Social, el Registro Nacional de Estado Civil (RENIEC) y las Defensorías, entre otros. Los sectores involucrados identifican las responsabilidades que les competen para asegurar la atención integral de los niños.
+El sector Educación promueve acciones orientadas a que los niños menores de 6 años que participan en los servicios de educación reciban atención integral. Para ello, coordina con otros sectores y entidades, como el Ministerio de Salud, Ministerio de la Mujer y Desarrollo Social, Ministerio de Desarrollo e Inclusión Social, el Registro Nacional de Identificación y Estado Civil (RENIEC) y las Defensorías, entre otros. Los sectores involucrados identifican las responsabilidades que les competen para asegurar la atención integral de los niños.
 
 La Dirección Regional de Educación, la Unidad de Gestión Educativa Local o la entidad que haga sus veces, en coordinación con las instituciones de Educación Inicial, identifican las necesidades de registro legal de identidad, salud, nutrición y protección de la población infantil atendida, para organizar los programas complementarios de apoyo que se requieran, con participación de las Municipalidades, otros sectores e instituciones de la sociedad civil.
 
@@ -947,7 +951,7 @@ Los objetivos del nivel de Educación Primaria son los siguientes:
 
 [[START OF PAGE 33]]
 
-##### Articulo 63.- Prioridad de instituciones educativas con aula multigrado
+##### Artículo 63.- Prioridad de instituciones educativas con aula multigrado
 
 El Gobierno Regional, a través de la Dirección Regional de Educación, la Unidad de Gestión Educativa Local o las entidades que hagan sus veces, asegura que las instituciones educativas unidocentes y con aulas multigrado ofrezcan los seis grados de Educación Primaria, garantizando las condiciones para su buen funcionamiento. Prioriza la creación de una institución educativa polidocente respecto a la unidocente.
 
@@ -1009,11 +1013,13 @@ La Educación Básica Alternativa es una modalidad que se desarrolla en el marco
 
 Esta modalidad promueve la continuidad educativa de los estudiantes del Programa de Alfabetización y la movilidad de los estudiantes a otras modalidades del sistema educativo.
 
-Los estudiantes de Educación Básica Alternativa son aquellos que no se insertaron oportunamente en el Sistema Educativo, no pudieron culminar la Educación Básica, requieren compatibilizar el trabajo con el estudio, desean continuar sus estudios después de un proceso de alfabetización o se encuentran en extraedad para la Educación Básica.
+Los estudiantes de Educación Básica Alternativa son aquellos que no se insertaron oportunamente en el Sistema Educativo, no pudieron culminar la Educación Básica, requieren compatibilizar el trabajo con el estudio, desean
 
 [[END OF PAGE 34]]
 
 [[START OF PAGE 35]]
+
+continuar sus estudios después de un proceso de alfabetización o se encuentran en extraedad para la Educación Básica.
 
 ##### Artículo 68.- Características
 
@@ -1067,11 +1073,11 @@ Se rige por normas específicas de equivalencia establecidas por el Ministerio d
 
 Implica el desarrollo de competencias instrumentales (áreas curriculares básicas) socioeducativas y laborales en el marco de una educación continua para que las personas jóvenes y adultas sean capaces -por sí mismas- de emprender o desarrollar otros aprendizajes o proyectos de vida familiar, comunitaria o económica.
 
-La Alfabetización esta inserta en el continuo educativo de la Educación Básica Alternativa. Participan las personas mayores de 15 años que no accedieron oportunamente al sistema educativo o tienen primaria incompleta.
+La Alfabetización está inserta en el continuo educativo de la Educación Básica Alternativa. Participan las personas mayores de 15 años que no accedieron oportunamente al sistema educativo o tienen primaria incompleta.
 
 ##### Artículo 73.- Objetivos del Programa de Alfabetización
 
-- Fortalecer y desarrollar de manera integral las capacidades, habilidades y actitudes en los jóvenes y adultos de modo que puedan reconocerse y valorarse a sí mismos, establecer interacciones positivas con miembros de su comunidad y potenciar su proyección hada ella mediante su compromiso y participación en iniciativas de desarrollo económico, cultural y social.
+- Fortalecer y desarrollar de manera integral las capacidades, habilidades y actitudes en los jóvenes y adultos de modo que puedan reconocerse y valorarse a sí mismos, establecer interacciones positivas con miembros de su comunidad y potenciar su proyección hacia ella mediante su compromiso y participación en iniciativas de desarrollo económico, cultural y social.
 
 - Favorecer la apropiación de saberes, conocimientos y competencias, relacionados con la formación general básica a la que tienen derecho todos los ciudadanos, respetando tiempos que demanden estos aprendizajes.
 
@@ -1211,7 +1217,7 @@ Los estudiantes con necesidades educativas especiales asociadas a discapacidad s
 
 ##### Artículo 87.- Atención y permanencia
 
-La atención de los estudiantes con necesidades educativas especiales asociados a discapacidad severa en el Centro de Educación Básica Especial, se brinda en los niveles educativos de Inicial y Primaria. El tiempo de permanencia de los estudiantes es, como máximo, hasta los veinte (20) años de edad.
+La atención de los estudiantes con necesidades educativas especiales asociadas a discapacidad severa en el Centro de Educación Básica Especial, se brinda en los niveles educativos de Inicial y Primaria. El tiempo de permanencia de los estudiantes es, como máximo, hasta los veinte (20) años de edad.
 
 Los estudiantes con discapacidad severa y multidiscapacidad con más de 20 años de edad que no han accedido oportunamente a la escolarización recibirán atención no escolarizada de las instituciones de Educación Básica Especial, a través de programas y/o módulos elaborados por el equipo de apoyo, con participación de la familia y la comunidad, a cargo de un profesional del Centro de Educación Básica Especial, por un periodo no mayor a dos años.
 
@@ -1269,7 +1275,7 @@ Son características de la Educación Técnico-Productiva:
 
 ##### Artículo 92.- Organización y acceso
 
-Educación Técnico-Productiva se organiza en ciclo básico y ciclo medio:
+La Educación Técnico-Productiva se organiza en ciclo básico y ciclo medio:
 
 - Ciclo básico. Se orienta al desarrollo de capacidades necesarias para ejecutar trabajos de menor complejidad que le permita al estudiante incorporarse al mercado laboral. Se organiza en módulos ocupacionales convergentes a un perfil aprobado por la respectiva instancia de gestión educativa descentralizada y constituyen una opción laboral para el logro de competencias con valor y significado en el ámbito laboral. Se accede a este ciclo sin el requisito de nivel educativo formal, previa identificación de capacidades básicas indispensables para el aprendizaje ocupacional.
 
@@ -1289,7 +1295,7 @@ Estos ciclos no son secuenciales ni propedéuticos sino terminales. El acceso al
 
 ##### Artículo 93.- De la articulación y convalidación
 
-La Educación Técnico-Productiva se articula con la Educación Básica Regular, la Educación Básica Alternativa y la Educativa Básica Especial con un enfoque inclusivo, según las necesidades de los estudiantes. Dicha articulación se regirá por norma específica.
+La Educación Técnico-Productiva se articula con la Educación Básica Regular, la Educación Básica Alternativa y la Educación Básica Especial con un enfoque inclusivo, según las necesidades de los estudiantes. Dicha articulación se regirá por norma específica.
 
 Los estudiantes de los Centros de Educación Técnico-Productiva podrán convalidar los estudios cursados en otros centros de Educación Básica en sus diferentes modalidades, en Educación Comunitaria y en Educación Superior Tecnológica, y viceversa, en lo que resulte aplicable, debidamente comprobados mediante certificados oficiales. El Ministerio de Educación emite la norma correspondiente.
 
@@ -1317,15 +1323,15 @@ La diversificación curricular de cada módulo de opción ocupacional o de espec
 
 [[START OF PAGE 45]]
 
-Los Centros de Educación Técnico-Productiva, previo estudio de factibilidad de la oferta y demanda del mercado ocupacional, en concordancia con su Proyecto Educativo Local y Regional, incorporan nuevas especialidades, o nuevos módulos ocupacionales en el contexto de las o familias profesionales del Catálogo Nacional de Títulos y Certificaciones, autorizadas para los ciclos básico y medio, los que son aprobados por la respectiva instancia de gestión educativa descentralizada. El Ministerio de Educación con la participación de los sectores económicos, productivos elabora aprueba y publica os perfiles de nuevas familias profesionales.
+Los Centros de Educación Técnico-Productiva, previo estudio de factibilidad de la oferta y demanda del mercado ocupacional, en concordancia con su Proyecto Educativo Local y Regional, incorporan nuevas especialidades, o nuevos módulos ocupacionales en el contexto de las 20 familias profesionales del Catálogo Nacional de Títulos y Certificaciones, autorizadas para los ciclos básico y medio, los que son aprobados por la respectiva instancia de gestión educativa descentralizada. El Ministerio de Educación con la participación de los sectores económicos, productivos elabora aprueba y publica los perfiles de nuevas familias profesionales.
 
 #### SUBCAPÍTULO IV
 
-#### DE LOS CENTROS DE EDUCACIÓN TECNICO-PRODUCTIVA
+#### DE LOS CENTROS DE EDUCACIÓN TÉCNICO-PRODUCTIVA
 
 ##### Artículo 98.- Servicios autorizados
 
-Los Centros de Educación Técnico-Productiva ofrecen servicios educativos de ciclo básico y medio. Asimismo, desarrollan actividades de capacitación, actualización y reconversión laboral, de acuerdo a los lineamientos establecidos por el Ministerio de Educación. Estos servicios son autorizados por la Dirección Regional de Educación o la instancia que haga sus veces. No se reconoce ni certifica estudios que no han sido previamente autorizados por la respectiva instancia. Los Centros de Educación Técnico-Productiva revalidarán su autorización, ante la Dirección Regional de Educación, de funcionamiento periódicamente, de acuerdo a norma emitida por el Ministerio de Educación.
+Los Centros de Educación Técnico-Productiva ofrecen servicios educativos de ciclo básico y medio. Asimismo, desarrollan actividades de capacitación, actualización y reconversión laboral, de acuerdo a los lineamientos establecidos por el Ministerio de Educación. Estos servicios son autorizados por la Dirección Regional de Educación o la instancia que haga sus veces. No se reconoce ni certifica estudios que no han sido previamente autorizados por la respectiva instancia. Los Centros de Educación Técnico-Productiva revalidarán su autorización de funcionamiento periódicamente, ante la Dirección Regional de Educación, de acuerdo a norma emitida por el Ministerio de Educación.
 
 ##### Artículo 99.- Proyectos de investigación o innovación
 
@@ -1361,7 +1367,7 @@ Son estrategias de participación democrática en los Centros de Educación Téc
 
 La información laboral de la Educación Técnico-Productiva está vinculada con las oportunidades de empleo para lograr la inserción laboral. Los Centros de Educación Técnico-Productiva coordinan acciones y/o estrategias con el Sistema de Información de Educación para el Trabajo, para orientar a los estudiantes sobre la demanda laboral de los sectores productivos y de servicio empresarial, de conformidad con la Ley Nº 28340, Ley que crea el Sistema de Información de Educación para el Trabajo.
 
-EI Centro de Educación Técnico Productiva debe contar con un registro de sus egresados y hacer el seguimiento correspondiente de manera que pueda retroalimentarse con la información que les proporcionen sus empleadores y los propios egresados insertados en el empleo dependiente o autoempleo.
+El Centro de Educación Técnico Productiva debe contar con un registro de sus egresados y hacer el seguimiento correspondiente de manera que pueda retroalimentarse con la información que les proporcionen sus empleadores y los propios egresados insertados en el empleo dependiente o autoempleo.
 
 ##### Artículo 104.- Recursos propios
 
@@ -1387,7 +1393,7 @@ Las prácticas preprofesionales y pasantías del ciclo medio sirven para reforza
 
 Los Centros de Educación Técnico-Productiva promueven actividades productivas en sus planes y programas, teniendo en cuenta su capacidad instalada, el potencial humano calificado y los ejes de desarrollo local y regional.
 
-T anto las actividades productivas como las prácticas pre-profesionales tienen por finalidad:
+Tanto las actividades productivas como las prácticas pre-profesionales tienen por finalidad:
 
 - Completar la formación integral de los estudiantes.
 
@@ -1403,7 +1409,7 @@ Las actividades productivas y las prácticas pre profesionales deben ser monitor
 
 ##### Artículo 108.- Certificados
 
-El Centro de Educación Técnico-Productiva certifica la aprobación satisfactoria de cada módulo ocupacional del ciclo básico o módulo de especialidad del ciclo medio; precisando la competencia laboral, las capacidades terminales logradas, la cantidad de horas efectivas de aprendizaje, la institución y el lugar donde se ha realizado la práctica preprofesional que habilita para el desempeño laboral. . El Ministerio de Educación emitirá las normas específicas para tal fin.
+El Centro de Educación Técnico-Productiva certifica la aprobación satisfactoria de cada módulo ocupacional del ciclo básico o módulo de especialidad del ciclo medio; precisando la competencia laboral, las capacidades terminales logradas, la cantidad de horas efectivas de aprendizaje, la institución y el lugar donde se ha realizado la práctica preprofesional que habilita para el desempeño laboral. El Ministerio de Educación emitirá las normas específicas para tal fin.
 
 ##### Artículo 109.- Títulos técnicos
 
@@ -1481,7 +1487,7 @@ Promueve la Educación Comunitaria a través de diversas acciones como:
 
 ### CAPÍTULO VIII
 
-Ó
+
 
 [[END OF PAGE 49]]
 
@@ -1555,21 +1561,21 @@ La gestión educativa fortalece y asegura la calidad, equidad y pertinencia del 
 
 La gestión del sistema educativo se caracteriza por ser:
 
-- Descentralizada. Es ejecutada por las instancias de gestión educativa descentralizada, de acuerdo con las competencias que la ley les asigna, respetando y fortaleciendo la autonomía pedagógica y de gestión de la institución educativa.
+a) Descentralizada. Es ejecutada por las instancias de gestión educativa descentralizada, de acuerdo con las competencias que la ley les asigna, respetando y fortaleciendo la autonomía pedagógica y de gestión de la institución educativa.
 
-- Simplificada y flexible. Favorece la fluidez de los procesos y procedimientos de trabajo y permite que el sistema educativo se adapte a la diversidad y necesidades de los estudiantes; y a las transformaciones de la realidad local y global.
+b) Simplificada y flexible. Favorece la fluidez de los procesos y procedimientos de trabajo y permite que el sistema educativo se adapte a la diversidad y necesidades de los estudiantes; y a las transformaciones de la realidad local y global.
 
-- Participativa. En forma democrática e innovadora, facilita la participación de la comunidad educativa y de la sociedad organizada, en la planificación, organización, seguimiento, vigilancia, difusión y evaluación de la gestión de cada una de las instancias de gestión educativa descentralizada.
+c) Participativa. En forma democrática e innovadora, facilita la participación de la comunidad educativa y de la sociedad organizada, en la planificación, organización, seguimiento, vigilancia, difusión y evaluación de la gestión de cada una de las instancias de gestión educativa descentralizada.
 
-- Orientada a favorecer los procesos de aprendizaje, socialización e inclusión de los estudiantes.
+d) Orientada a favorecer los procesos de aprendizaje, socialización e inclusión de los estudiantes.
 
-- Formativa. Contribuye al desarrollo de los integrantes de la comunidad educativa.
+e) Formativa. Contribuye al desarrollo de los integrantes de la comunidad educativa.
 
-- Unitaria, sistémica y eficaz. La gestión de cada instancia se articula con las otras y tiende al logro de sus objetivos. Se sustenta en la comunicación, transparencia y rendición de cuentas.
+f) Unitaria, sistémica y eficaz. La gestión de cada instancia se articula con las otras y tiende al logro de sus objetivos. Se sustenta en la comunicación, transparencia y rendición de cuentas.
 
-- Orientada a resultados evaluados mediante la aplicación de indicadores en todo el sistema educativo.
+g) Orientada a resultados evaluados mediante la aplicación de indicadores en todo el sistema educativo.
 
-- Integral. Comprende las dimensiones pedagógica y administrativa de la gestión educativa.
+h) Integral. Comprende las dimensiones pedagógica y administrativa de la gestión educativa.
 
 ##### Artículo 125.- Descentralización de la gestión educativa
 
@@ -1593,19 +1599,19 @@ Los niveles de gobierno y sus instancias de gestión educativa descentralizada c
 
 Las instancias de gestión educativa descentralizada desarrollan sus acciones en el marco de ética pública y la lucha contra la corrupción, teniendo en cuenta lo siguiente:
 
-- La capacitación sobre gestión, transparencia, rendición de cuentas y ética pública para el personal directivo, docente y administrativo.
+a) La capacitación sobre gestión, transparencia, rendición de cuentas y ética pública para el personal directivo, docente y administrativo.
 
-- La publicación, a través de su página web, pizarras o carteles, de los cargos y plazas vacantes que serán cubiertos, previa selección, mediante concurso público.
+b) La publicación, a través de su página web, pizarras o carteles, de los cargos y plazas vacantes que serán cubiertos, previa selección, mediante concurso público.
 
-- La evaluación sistemática, objetiva, integral y permanente del personal.
+c) La evaluación sistemática, objetiva, integral y permanente del personal.
 
-- La publicación, en la institución o programa educativo público, de información referida a la captación, uso y estado de cuenta de los recursos propios y fondos que administra.
+d) La publicación, en la institución o programa educativo público, de información referida a la captación, uso y estado de cuenta de los recursos propios y fondos que administra.
 
-- Las acciones de simplificación de procedimientos administrativos.
+e) Las acciones de simplificación de procedimientos administrativos.
 
-- La transparencia en las contrataciones o nombramientos de personal administrativo y docente de su jurisdicción, así como en las contrataciones y adquisiciones estatales.
+f) La transparencia en las contrataciones o nombramientos de personal administrativo y docente de su jurisdicción, así como en las contrataciones y adquisiciones estatales.
 
-Í
+
 
 [[END OF PAGE 53]]
 
@@ -1617,7 +1623,7 @@ Las instancias de gestión educativa descentralizada desarrollan sus acciones en
 
 ##### Artículo 127.- La institución educativa
 
-Es una comunidad de aprendizaje y enseñanza que presta el servido educativo en determinado nivel, modalidad o forma educativa en el logro de aprendizajes.
+Es una comunidad de aprendizaje y enseñanza que presta el servicio educativo en determinado nivel, modalidad o forma educativa en el logro de aprendizajes.
 
 Tiene autonomía en el planeamiento, ejecución, supervisión, monitoreo y evaluación del servicio educativo, así como en la elaboración de sus instrumentos de gestión, en el marco de la normatividad vigente. Se vincula con su entorno y está abierta a la participación de la comunidad, atiende a sus necesidades y apoya propuestas de desarrollo.
 
@@ -1627,19 +1633,19 @@ Los programas educativos se rigen por las normas aplicables a las instituciones 
 
 Son funciones de las instituciones educativas las señaladas en la Ley, y en este marco se desarrollan las siguientes acciones:
 
-- Realizar el proceso de selección del personal docente y administrativo, en el marco de los lineamientos establecidos por el Gobierno Nacional.
+a) Realizar el proceso de selección del personal docente y administrativo, en el marco de los lineamientos establecidos por el Gobierno Nacional.
 
-- Gestionar, reconocer y sancionar al personal por su desempeño profesional y laboral.
+b) Gestionar, reconocer y sancionar al personal por su desempeño profesional y laboral.
 
-- Celebrar convenios de cooperación, en el ámbito de su competencia, que contribuyan a mejorar la calidad del servicio educativo y sin afectarlo.
+c) Celebrar convenios de cooperación, en el ámbito de su competencia, que contribuyan a mejorar la calidad del servicio educativo y sin afectarlo.
 
-- Implementar la gestión de riesgos, frente a desastres naturales, ambientales y convulsiones sociales.
+d) Implementar la gestión de riesgos, frente a desastres naturales, ambientales y convulsiones sociales.
 
-- Promover, afianzar, regular y autoevaluar la participación de la comunidad en los procesos de gestión de la institución.
+e) Promover, afianzar, regular y autoevaluar la participación de la comunidad en los procesos de gestión de la institución.
 
-- Promover y decidir la participación en la organización y/o funcionamiento de redes educativas.
+f) Promover y decidir la participación en la organización y/o funcionamiento de redes educativas.
 
-- Desarrollar y autoevaluar la producción, búsqueda, selección, uso, conservación y difusión de la información educativa.
+g) Desarrollar y autoevaluar la producción, búsqueda, selección, uso, conservación y difusión de la información educativa.
 
 ##### Artículo 129.- Clasificación por el número de docentes
 
@@ -1647,11 +1653,11 @@ Son funciones de las instituciones educativas las señaladas en la Ley, y en est
 
 [[START OF PAGE 55]]
 
-- Polidocente completa: cuando atiende todos los grados de estudio del nivel o modalidad educativa, en la que cada sección está a cargo de un docente.
+a) Polidocente completa: cuando atiende todos los grados de estudio del nivel o modalidad educativa, en la que cada sección está a cargo de un docente.
 
-- Polidocente incompleta o multigrado: cuando uno o más docentes tienen a su cargo dos o más grados de estudio.
+b) Polidocente incompleta o multigrado: cuando uno o más docentes tienen a su cargo dos o más grados de estudio.
 
-- Unidocente: cuando cuenta con solo un docente para atender todos los grados de estudio del nivel o modalidad.
+c) Unidocente: cuando cuenta con solo un docente para atender todos los grados de estudio del nivel o modalidad.
 
 (*) De conformidad con el Artículo 3 del Decreto Supremo Nº 296-2016-EF, publicado el 28 octubre 2016, se establece el monto de la asignación temporal o bonificación por prestar servicio efectivo como auxiliar de educación nombrado o contratado en una institución educativa pública de Educación Básica Regular del nivel inicial, unidocente o multigrado, definidas y clasificadas en el presente artículo, en los términos indicados en el citado artículo.
 
@@ -1659,15 +1665,15 @@ Son funciones de las instituciones educativas las señaladas en la Ley, y en est
 
 Las instituciones educativas son públicas o privadas. Por el tipo de gestión pueden ser.
 
-- Públicas de gestión directa. Son creadas y sostenidas por el Estado, son gratuitas y están a cargo de autoridades educativas nombradas o encargadas por el sector Educación, otros sectores o instituciones del Estado.
+a) Públicas de gestión directa. Son creadas y sostenidas por el Estado, son gratuitas y están a cargo de autoridades educativas nombradas o encargadas por el sector Educación, otros sectores o instituciones del Estado.
 
 Los inmuebles y bienes son de propiedad estatal y el pago de remuneraciones es asumido por el sector Educación u otro sector de la administración pública que esté a cargo de la institución educativa.
 
-- Públicas de gestión privada, a cargo de entidades sin fines de lucro que prestan servicios educativos gratuitos en convenio con el Estado.
+b) Públicas de gestión privada, a cargo de entidades sin fines de lucro que prestan servicios educativos gratuitos en convenio con el Estado.
 
 En este tipo se encuentran las instituciones educativas públicas creadas y sostenidas por el Estado, que son gestionadas o administradas por la Iglesia católica y entidades privadas mediante convenio con el Ministerio de Educación o el Gobierno Regional. Los inmuebles y equipos son de propiedad del Estado o de la entidad gestora y las remuneraciones del personal son asumidas por el Estado.
 
-- De gestión privada a cargo de personas naturales o jurídicas de derecho privado, conforme a los artículos 5 y 72 de la Ley y las normas que regulan la educación privada. En este tipo se encuentran las instituciones educativas creadas por iniciativa privada, sean personas naturales o jurídicas.
+c) De gestión privada a cargo de personas naturales o jurídicas de derecho privado, conforme a los artículos 5 y 72 de la Ley y las normas que regulan la educación privada. En este tipo se encuentran las instituciones educativas creadas por iniciativa privada, sean personas naturales o jurídicas.
 
 Incluye a las instituciones educativas fiscalizadas, que imparten Educación Básica y Técnico-Productiva y que funcionan en los centros industriales, agrícolas o mineros, sostenidas por el sector privado. El personal docente y administrativo que pertenece al régimen de carrera del profesorado y de los servidores públicos, a la que han sido incorporados en el momento de ingreso o nombramiento, en condiciones similares a los trabajadores del sector público de Educación, continuará bajo el mismo régimen y tratamiento laboral alcanzado, conservando los derechos y beneficios establecidos para las instituciones educativas fiscalizadas.
 
@@ -1695,13 +1701,13 @@ La comisión reorganizadora asumirá la conducción de la Institución educativa
 
 Se organiza de manera flexible de acuerdo al nivel, modalidad o forma educativa que atiende, adoptando la estructura orgánica que requiere su funcionamiento, teniendo como referencia lo siguiente:
 
-- Órgano de Dirección
+a) Órgano de Dirección
 
-- Órgano Pedagógico
+b) Órgano Pedagógico
 
-- Órgano de Participación, Concertación y Vigilancia
+c) Órgano de Participación, Concertación y Vigilancia
 
-- Órgano de Administración (según corresponda).
+d) Órgano de Administración (según corresponda).
 
 El Gobierno Regional, a través de su órgano especializado, determina los modelos organizacionales de las instituciones educativas de su ámbito, en concordancia con los lineamientos establecidos por el Ministerio de Educación.
 
@@ -1717,21 +1723,21 @@ Las instituciones educativas públicas que funcionan en un mismo local y atiende
 
 El director general es responsable de:
 
-- Planificar, Organizar, dirigir, coordinar, ejecutar y evaluar, de manera compartida, la gestión de la institución educativa.
+a) Planificar, Organizar, dirigir, coordinar, ejecutar y evaluar, de manera compartida, la gestión de la institución educativa.
 
-- Promover la articulación y armonización permanente de la planificación y desarrollo de las actividades educativas de los distintos niveles, modalidades y formas educativas.
+b) Promover la articulación y armonización permanente de la planificación y desarrollo de las actividades educativas de los distintos niveles, modalidades y formas educativas.
 
-- Garantizar el acceso equitativo, el uso eficiente, el mantenimiento y conservación de los materiales y recursos pedagógicos, equipamiento, mobiliario e infraestructura, por parte de las instituciones educativas que comparten el local.
+c) Garantizar el acceso equitativo, el uso eficiente, el mantenimiento y conservación de los materiales y recursos pedagógicos, equipamiento, mobiliario e infraestructura, por parte de las instituciones educativas que comparten el local.
 
-- Preservar la independencia y seguridad de los espacios educativos de los estudiantes de los diferentes niveles educativos y adoptar medidas para que la gestión y organización de la jornada escolar no se interfieran.
+d) Preservar la independencia y seguridad de los espacios educativos de los estudiantes de los diferentes niveles educativos y adoptar medidas para que la gestión y organización de la jornada escolar no se interfieran.
 
-- Administrar la documentación y bienes patrimoniales comunes y de uso compartido por todos los integrantes de la institución educativa.
+e) Administrar la documentación y bienes patrimoniales comunes y de uso compartido por todos los integrantes de la institución educativa.
 
-- Conducir y actualizar el inventario único y control de los bienes del Estado, los adquiridos por la propia institución educativa, así como las donaciones recibidas y que sean de uso compartido.
+f) Conducir y actualizar el inventario único y control de los bienes del Estado, los adquiridos por la propia institución educativa, así como las donaciones recibidas y que sean de uso compartido.
 
-- Coordinar con los municipios, las fuerzas de orden o instancias competentes para garantizar la seguridad de los estudiantes en los alrededores del local escolar.
+g) Coordinar con los municipios, las fuerzas de orden o instancias competentes para garantizar la seguridad de los estudiantes en los alrededores del local escolar.
 
-- Promover una cultura de evaluación y mejora continua tanto de la gestión educativa como de los aprendizajes de los estudiantes.
+h) Promover una cultura de evaluación y mejora continua tanto de la gestión educativa como de los aprendizajes de los estudiantes.
 
 Las redes educativas integradas por instituciones educativas unidocentes o multigrado públicas son conducidas por un director sin sección a cargo.
 
@@ -1745,29 +1751,29 @@ Es el órgano de participación, concertación y vigilancia ciudadana de la inst
 
 Es presidido por el Director de la Institución Educativa, y está conformado por los subdirectores, si los hubiera, el representante del personal docente, administrativo, de los estudiantes, de los ex alumnos y de los padres de familia, pudiendo ser integrado también por otros representantes de instituciones de la comunidad local, por acuerdo del Consejo.
 
-- EI Reglamento Interno de la institución o programa educativo establece el número de representantes y funciones específicas que les corresponde.
+El Reglamento Interno de la institución o programa educativo establece el número de representantes y funciones específicas que les corresponde.
 
 Son funciones del Consejo Educativo Institucional:
 
-- Participar en la formulación y evaluación del Proyecto Educativo Institucional.
+a) Participar en la formulación y evaluación del Proyecto Educativo Institucional.
 
-- Participar en los procesos destinados al ingreso, ascenso y permanencia del personal docente y administrativo de la institución, de acuerdo con la normatividad específica que emita el Ministerio de Educación.
+b) Participar en los procesos destinados al ingreso, ascenso y permanencia del personal docente y administrativo de la institución, de acuerdo con la normatividad específica que emita el Ministerio de Educación.
 
-- Vigilar el acceso, matrícula oportuna, inclusión educativa y calidad del servicio que brinda la institución educativa.
+c) Vigilar el acceso, matrícula oportuna, inclusión educativa y calidad del servicio que brinda la institución educativa.
 
-- Cautelar el cumplimiento de los derechos y principios de universalidad, gratuidad, equidad, inclusión, pertinencia del servicio educativo, logros de aprendizaje y el adecuado uso y destino de los recursos.
+d) Cautelar el cumplimiento de los derechos y principios de universalidad, gratuidad, equidad, inclusión, pertinencia del servicio educativo, logros de aprendizaje y el adecuado uso y destino de los recursos.
 
-- Colaborar con el director en garantizar el cumplimiento de las horas efectivas de trabajo pedagógico, el número de semanas lectivas y la jornada del personal docente y administrativo.
+e) Colaborar con el director en garantizar el cumplimiento de las horas efectivas de trabajo pedagógico, el número de semanas lectivas y la jornada del personal docente y administrativo.
 
-- Coordinar con el Consejo Participativo Local de Educación de su circunscripción.
+f) Coordinar con el Consejo Participativo Local de Educación de su circunscripción.
 
 ##### Artículo 137.- Instrumentos de gestión educativa
 
 Los instrumentos que orientan la gestión de la institución educativa son:
 
-- El Proyecto Educativo Institucional (PEI). Contiene la identidad de la institución educativa, el diagnóstico y conocimiento de la comunidad educativa y su entorno, la propuesta pedagógica y la propuesta de gestión, resultados y plan de mejora. Se elabora en el marco del proyecto educativo local y el plan de desarrollo concertado local, se fundamenta en la democracia participativa de la gestión escolar, dentro de una visión prospectiva de la educación.
+a) El Proyecto Educativo Institucional (PEI). Contiene la identidad de la institución educativa, el diagnóstico y conocimiento de la comunidad educativa y su entorno, la propuesta pedagógica y la propuesta de gestión, resultados y plan de mejora. Se elabora en el marco del proyecto educativo local y el plan de desarrollo concertado local, se fundamenta en la democracia participativa de la gestión escolar, dentro de una visión prospectiva de la educación.
 
-- El Proyecto Curricular de la Institución Educativa (PCI), orienta los procesos pedagógicos y forma parte de la propuesta pedagógica del Proyecto Educativo Institucional. Su evaluación y actualización es anual, en función de los logros de aprendizaje de los estudiantes.
+El Proyecto Curricular de la Institución Educativa (PCI), orienta los procesos pedagógicos y forma parte de la propuesta pedagógica del Proyecto Educativo Institucional. Su evaluación y actualización es anual, en función de los logros de aprendizaje de los estudiantes.
 
 Reglamento Interno (RI). Regula la organización y funcionamiento integral. Establece funciones específicas, pautas, criterios y procedimientos de desempeño y de comunicación entre los diferentes miembros de la comunidad educativa.
 
@@ -1781,7 +1787,7 @@ La institución educativa unidocente y/o multigrado formula un solo documento de
 
 ##### Artículo 138.- Ingreso y permanencia en la institución educativa
 
-El ingreso se efectúa mediante la matrícula única en una institución educativa pública o privada, que se registra en la Ficha Única de Matricula, la que acompaña al estudiante durante su permanencia en el sistema.
+El ingreso se efectúa mediante la matrícula única en una institución educativa pública o privada, que se registra en la Ficha Única de Matrícula, la que acompaña al estudiante durante su permanencia en el sistema.
 
 La institución educativa coordina la emisión y entrega del Documento Nacional de Identidad del estudiante que lo requiera.
 
@@ -1797,7 +1803,7 @@ Comprende los logros de aprendizajes, objetivos estratégicos, indicadores, meta
 
 ##### Artículo 140.- Red educativa
 
-Es una instancia de cooperación, articulación, desarrollo de acciones, orientación, intercambio y ayuda recíproca entre instituciones y programas educativos públicos cercanos que lo integran teniendo en cuenta criterios de proximidad geográfica, identidad cultural y facilidades de vías de comunicación, con la finalidad de mejorar la atención del servicio educativo, intercambiar o desarrollar experiencias de gestión educativa aplicables en la red. La Red educativa esta a cargo de un director responsable de la conducción del servicio educativo que se brinda en las instituciones que lo integran.
+Es una instancia de cooperación, articulación, desarrollo de acciones, orientación, intercambio y ayuda recíproca entre instituciones y programas educativos públicos cercanos que lo integran teniendo en cuenta criterios de proximidad geográfica, identidad cultural y facilidades de vías de comunicación, con la finalidad de mejorar la atención del servicio educativo, intercambiar o desarrollar experiencias de gestión educativa aplicables en la red. La Red educativa está a cargo de un director responsable de la conducción del servicio educativo que se brinda en las instituciones que lo integran.
 
 Trabajan articuladamente con otras instituciones del sector público, de la sociedad civil y la comunidad.
 
@@ -1817,21 +1823,21 @@ La creación y funcionamiento de la red educativa se autoriza mediante Resoluci�
 
 ##### Artículo 141.- De la Unidad de Gestión Educativa Local
 
-Es una instancia de ejecución descentralizada del Gobierno Regional. La Unidad de Gestión Educativa Local tiene funciones de Unidad Ejecutora presupuestal, en el marco del Sistema Nacional de Presupuesto Público. Su creación, funcionamiento, fusión o supresión es autorizada por el Gobierno Regional, con opinión del Ministerio de Educación . (*)
+Es una instancia de ejecución descentralizada del Gobierno Regional. La Unidad de Gestión Educativa Local tiene funciones de Unidad Ejecutora presupuestal, en el marco del Sistema Nacional de Presupuesto Público. Su creación, funcionamiento, fusión o supresión es autorizada por el Gobierno Regional, con opinión del Ministerio de Educación. (*)
 
 (*) Artículo modificado por el Artículo 1 del Decreto Supremo Nº 009-2016-MINEDU, publicado el 24 julio 2016, cuyo texto es el siguiente:
 
-##### 'Artículo 141.- De la Unidad de Gestión Educativa Local
+##### “Artículo 141.- De la Unidad de Gestión Educativa Local
 
-La Unidad de Gestión Educativa Local (UGEL) es la instancia de ejecución del Gobierno Regional, dependiente de la Dirección Regional de Educación (DRE), responsable de brindar asistencia técnica y estrategias formativas, así como supervisar, y evaluar la gestión de las instituciones educativas públicas y privadas de Educación Básica y Centros de Educación Técnico- Productiva de su jurisdicción, en lo que corresponda, para la adecuada prestación del servicio educativo; y atender los requerimientos efectuados por la comunidad educativa, en el marco de la normativa del Sector Educación.
+La Unidad de Gestión Educativa Local (UGEL) es la instancia de ejecución del Gobierno Regional, dependiente de la Dirección Regional de Educación (DRE), responsable de brindar asistencia técnica y estrategias formativas, así como supervisar, y evaluar la gestión de las instituciones educativas públicas y privadas de Educación Básica y Centros de Educación Técnico-Productiva de su jurisdicción, en lo que corresponda, para la adecuada prestación del servicio educativo; y atender los requerimientos efectuados por la comunidad educativa, en el marco de la normativa del Sector Educación.
 
 La creación, fusión o extinción de la UGEL, así como las modificaciones en su jurisdicción, son aprobadas por el Gobierno Regional mediante Ordenanza Regional, previa opinión favorable del Ministerio de Educación.
 
-Una vez formalizada la creación de la UGEL, ésta será inscrita en el registro respectivo administrado por el Ministerio de Educación, quedando vinculada a los sistemas de información, recursos y responsabilidades que se generen desde el Ministerio de Educación '
+Una vez formalizada la creación de la UGEL, ésta será inscrita en el registro respectivo administrado por el Ministerio de Educación, quedando vinculada a los sistemas de información, recursos y responsabilidades que se generen desde el Ministerio de Educación”
 
 ##### Artículo 142.- Organización y funciones de la Unidad de Gestión Educativa Local
 
-La Unidad de Gestión Educativa Local se organiza de manera flexible. Su estructura orgánica es establecida y aprobada por el Gobierno Regional. Cumple las funciones señaladas en la Ley, priorizando las acciones conducentes a lograr una educación de calidad con equidad y una gestión transparente . (*)
+La Unidad de Gestión Educativa Local se organiza de manera flexible. Su estructura orgánica es establecida y aprobada por el Gobierno Regional. Cumple las funciones señaladas en la Ley, priorizando las acciones conducentes a lograr una educación de calidad con equidad y una gestión transparente. (*)
 
 [[END OF PAGE 60]]
 
@@ -1839,41 +1845,41 @@ La Unidad de Gestión Educativa Local se organiza de manera flexible. Su estruct
 
 (*) Artículo modificado por el Artículo 1 del Decreto Supremo Nº 009-2016-MINEDU, publicado el 24 julio 2016, cuyo texto es el siguiente:
 
-##### 'Artículo 142.- Organización de la Unidad de Gestión Educativa Local
+##### “Artículo 142.- Organización de la Unidad de Gestión Educativa Local
 
 La organización de la UGEL es flexible, atendiendo a las características de su ámbito de jurisdicción, y es aprobada por el Gobierno Regional en la misma Ordenanza Regional de su creación, a propuesta de la DRE.
 
 La UGEL, en el marco de las funciones establecidas en la Ley General de Educación, es responsable de:
 
-- Garantizar la continuidad del servicio educativo y del desarrollo del proceso pedagógico a cargo de las Instituciones Educativas de Educación Básica y Centros de Educación Técnico-Productiva en su jurisdicción, disponiendo las acciones necesarias para el inicio, desarrollo continuo, suspensión excepcional o recuperación de clases, según corresponda.
+a) Garantizar la continuidad del servicio educativo y del desarrollo del proceso pedagógico a cargo de las Instituciones Educativas de Educación Básica y Centros de Educación Técnico-Productiva en su jurisdicción, disponiendo las acciones necesarias para el inicio, desarrollo continuo, suspensión excepcional o recuperación de clases, según corresponda.
 
-- Supervisar y evaluar la gestión de las Instituciones Educativas de Educación Básica y de los Centro de Educación Técnico Productivo (CETPRO) públicos bajo su jurisdicción, brindándoles la asistencia técnica que corresponda en materia de gestión pedagógica y administrativa.
+b) Supervisar y evaluar la gestión de las Instituciones Educativas de Educación Básica y de los Centro de Educación Técnico Productivo (CETPRO) públicos bajo su jurisdicción, brindándoles la asistencia técnica que corresponda en materia de gestión pedagógica y administrativa.
 
-- Verificar las condiciones y mantenimiento de infraestructura, mobiliario y equipamiento de las instituciones educativas públicas y privadas de Educación Básica y de los Centros de Educación Técnico-Productiva de su jurisdicción, adoptando las medidas necesarias en caso de incumplimiento de la normatividad vigente sobre la materia.
+c) Verificar las condiciones y mantenimiento de infraestructura, mobiliario y equipamiento de las instituciones educativas públicas y privadas de Educación Básica y de los Centros de Educación Técnico-Productiva de su jurisdicción, adoptando las medidas necesarias en caso de incumplimiento de la normatividad vigente sobre la materia.
 
-- Adoptar las acciones necesarias para la efectiva y oportuna distribución de los materiales y recursos educativos asignados a las Instituciones Educativas públicas de Educación Básica y Centros de Educación Técnico-Productiva de su jurisdicción, promoviendo la participación de otras instituciones del sector público, privado o de la sociedad civil.
+d) Adoptar las acciones necesarias para la efectiva y oportuna distribución de los materiales y recursos educativos asignados a las Instituciones Educativas públicas de Educación Básica y Centros de Educación Técnico-Productiva de su jurisdicción, promoviendo la participación de otras instituciones del sector público, privado o de la sociedad civil.
 
-- Brindar asistencia técnica y capacitación a los docentes sobre el uso adecuado de los materiales y recursos educativos.
+e) Brindar asistencia técnica y capacitación a los docentes sobre el uso adecuado de los materiales y recursos educativos.
 
-- Brindar orientaciones y herramientas pedagógicas, así como fortalecer la formación en servicio de los directores y docentes de las instituciones educativas públicas de Educación Básica y los Centros de Educación TécnicoProductiva de su jurisdicción.
+f) Brindar orientaciones y herramientas pedagógicas, así como fortalecer la formación en servicio de los directores y docentes de las instituciones educativas públicas de Educación Básica y los Centros de Educación Técnico-Productiva de su jurisdicción.
 
-- Gestionar los recursos humanos docentes, directivos y de personal administrativo existentes en las instituciones educativas públicas de Educación Básica y Centros de Educación Técnico-Productiva.
+g) Gestionar los recursos humanos docentes, directivos y de personal administrativo existentes en las instituciones educativas públicas de Educación Básica y Centros de Educación Técnico-Productiva.
 
-- Monitorear la ejecución de los recursos de las instituciones educativas públicas de Educación Básica y Centros de Educación Técnico-Productiva de su jurisdicción, brindando la asistencia técnica correspondiente, en particular respecto al uso de los recursos ordinarios que les sean asignados y los directamente recaudados, conforme a la normatividad específica sobre la materia.
+h) Monitorear la ejecución de los recursos de las instituciones educativas públicas de Educación Básica y Centros de Educación Técnico-Productiva de su jurisdicción, brindando la asistencia técnica correspondiente, en particular respecto al uso de los recursos ordinarios que les sean asignados y los directamente recaudados, conforme a la normatividad específica sobre la materia.
 
 [[END OF PAGE 61]]
 
 [[START OF PAGE 62]]
 
-- Canalizar los requerimientos de bienes y servicios efectuados por las Instituciones Educativas de Educación Básica y Centros de Educación Técnico-Productiva, y trasladarlos al órgano o instancia que corresponda.
+i) Canalizar los requerimientos de bienes y servicios efectuados por las Instituciones Educativas de Educación Básica y Centros de Educación Técnico-Productiva, y trasladarlos al órgano o instancia que corresponda.
 
-- Promover el buen clima institucional y las buenas prácticas en las comunidades educativas de las instituciones educativas públicas de Educación Básica y de los Centros de Educación Técnico-Productiva de su jurisdicción.
+j) Promover el buen clima institucional y las buenas prácticas en las comunidades educativas de las instituciones educativas públicas de Educación Básica y de los Centros de Educación Técnico-Productiva de su jurisdicción.
 
-- Fortalecer la articulación y la canalización de recursos dirigidos a las Instituciones Educativas de Educación Básica y Centros de Educación Técnico- Productiva, pudiendo proponer a la DRE la creación de redes educativas o equipos especializados en el ámbito de su jurisdicción, especialmente en las zonas rurales y de difícil acceso.
+k) Fortalecer la articulación y la canalización de recursos dirigidos a las Instituciones Educativas de Educación Básica y Centros de Educación Técnico-Productiva, pudiendo proponer a la DRE la creación de redes educativas o equipos especializados en el ámbito de su jurisdicción, especialmente en las zonas rurales y de difícil acceso.
 
-- Proporcionar información a la DRE que contribuya al saneamiento físico legal de los locales escolares de su jurisdicción.
+l) Proporcionar información a la DRE que contribuya al saneamiento físico legal de los locales escolares de su jurisdicción.
 
-- Resolver en segunda y última instancia los recursos de apelación interpuestos contra los actos administrativos emitidos por las Instituciones Educativas públicas de Educación Básica y Centros de Educación Técnico-Productiva. '
+m) Resolver en segunda y última instancia los recursos de apelación interpuestos contra los actos administrativos emitidos por las Instituciones Educativas públicas de Educación Básica y Centros de Educación Técnico-Productiva.”
 
 ##### Artículo 143.- Del Proyecto Educativo Local
 
@@ -1883,33 +1889,33 @@ El Proyecto Educativo Local (PEL) es el principal instrumento de gestión educat
 
 #### DEL CONSEJO PARTICIPATIVO LOCAL DE EDUCACIÓN
 
-##### Articulo 144.- Organización del Consejo Participativo Local de Educación
+##### Artículo 144.- Organización del Consejo Participativo Local de Educación
 
 Está integrado por el director de la Unidad de Gestión Educativa Local y los representantes de la sociedad civil establecidos en la Ley. Es presidido por uno de sus miembros, elegido por votación secreta y universal de sus integrantes.
 
-- El Ministerio de Educación dicta las normas que regulan la organización y funcionamiento del Consejo Participativo Local de Educación.
+El Ministerio de Educación dicta las normas que regulan la organización y funcionamiento del Consejo Participativo Local de Educación.
 
 ##### Artículo 145.- Funciones del Consejo Participativo Local de Educación
 
 Las funciones del Consejo Participativo Local de Educación son las siguientes:
 
-- Canalizar la participación de la comunidad local en la elaboración, seguimiento y evaluación del Proyecto Educativo Local, en el marco del Proyecto Educativo Regional.
+a) Canalizar la participación de la comunidad local en la elaboración, seguimiento y evaluación del Proyecto Educativo Local, en el marco del Proyecto Educativo Regional.
 
 [[END OF PAGE 62]]
 
 [[START OF PAGE 63]]
 
-- Participar en la elaboración y rendición de cuentas del presupuesto de la Unidad de Gestión Educativa Local, cuidando la transparencia de la gestión educativa.
+b) Participar en la elaboración y rendición de cuentas del presupuesto de la Unidad de Gestión Educativa Local, cuidando la transparencia de la gestión educativa.
 
-- Establecer líneas de diálogo en materia educativa entre la población y las autoridades educativas locales.
+c) Establecer líneas de diálogo en materia educativa entre la población y las autoridades educativas locales.
 
-- Apoyar a la Unidad de Gestión Educativa Local en la promoción y ejecución de políticas de incentivos que promuevan la mejora de la eficiencia en la gestión pedagógica e institucional.
+d) Apoyar a la Unidad de Gestión Educativa Local en la promoción y ejecución de políticas de incentivos que promuevan la mejora de la eficiencia en la gestión pedagógica e institucional.
 
-- Coordinar con los Consejos Educativos Institucionales de su jurisdicción.
+e) Coordinar con los Consejos Educativos Institucionales de su jurisdicción.
 
-- Opinar sobre las políticas, estrategias de desarrollo local y medidas en favor de la universalidad, calidad y equidad de la educación en su jurisdicción, y velar por su cumplimiento.
+f) Opinar sobre las políticas, estrategias de desarrollo local y medidas en favor de la universalidad, calidad y equidad de la educación en su jurisdicción, y velar por su cumplimiento.
 
-- Promover convenios entre la Unidad de Gestión Educativa Local y las organizaciones locales públicas y privadas en beneficio del servicio educativo.
+g) Promover convenios entre la Unidad de Gestión Educativa Local y las organizaciones locales públicas y privadas en beneficio del servicio educativo.
 
 La Dirección de la Unidad de Gestión Educativa Local brindará las condiciones y facilidades para el desarrollo de sus actividades.
 
@@ -1927,9 +1933,9 @@ Es el órgano especializado del Gobierno Regional, responsable del servicio educ
 
 (*) Artículo modificado por el Artículo 1 del Decreto Supremo Nº 009-2016-MINEDU, publicado el 24 julio 2016, cuyo texto es el siguiente:
 
-##### 'Artículo 146.- De la Dirección Regional de Educación
+##### “Artículo 146.- De la Dirección Regional de Educación
 
-La Dirección Regional de Educación (DRE) es el órgano del Gobierno Regional que, en concordancia con la política educativa nacional, implementa y supervisa el desarrollo de la política educativa regional en el ámbito de su jurisdicción; en el marco de las disposiciones normativas y técnicas sobre la materia establecidos por el Ministerio de Educación. La DRE evalúa los resultados de la gestión educativa para la mejora continua de sus procesos y servicios, de acuerdo a las características de su territorio, considerando los estándares de calidad en el servicio educativo establecidos por el Ministerio de Educación en ejercicio de su rectoría. '
+La Dirección Regional de Educación (DRE) es el órgano del Gobierno Regional que, en concordancia con la política educativa nacional, implementa y supervisa el desarrollo de la política educativa regional en el ámbito de su jurisdicción; en el marco de las disposiciones normativas y técnicas sobre la materia establecidos por el Ministerio de Educación. La DRE evalúa los resultados de la gestión educativa para la mejora continua de sus procesos y servicios, de acuerdo a las características de su territorio, considerando los estándares de calidad en el servicio educativo establecidos por el Ministerio de Educación en ejercicio de su rectoría.”
 
 [[END OF PAGE 63]]
 
@@ -1939,59 +1945,59 @@ La Dirección Regional de Educación (DRE) es el órgano del Gobierno Regional q
 
 La Dirección Regional de Educación se organiza de manera flexible. Su estructura orgánica es establecida y aprobada por el Gobierno Regional, con opinión del Ministerio de Educación. En el marco de las funciones establecidas en la Ley, es responsable, además, de:
 
-- Conducir el proceso de concurso público de los directores de las Unidades de Gestión Educativa Local.
+a) Conducir el proceso de concurso público de los directores de las Unidades de Gestión Educativa Local.
 
-- Garantizar una gestión transparente y participativa del servicio educativo, fortaleciendo la autonomía de la institución educativa.
+b) Garantizar una gestión transparente y participativa del servicio educativo, fortaleciendo la autonomía de la institución educativa.
 
-- Brindar acompañamiento y asistencia técnica a las Unidades de Gestión Educativa Local de su jurisdicción.
+c) Brindar acompañamiento y asistencia técnica a las Unidades de Gestión Educativa Local de su jurisdicción.
 
-- Establecer lineamientos regionales para la formación docente, inicial y en servicio, en concordancia con la normatividad nacional.
+d) Establecer lineamientos regionales para la formación docente, inicial y en servicio, en concordancia con la normatividad nacional.
 
-- Desarrollar y promover la supervisión de programas y proyectos estratégicos.
+e) Desarrollar y promover la supervisión de programas y proyectos estratégicos.
 
-- Supervisar las donaciones educativas en su jurisdicción. (*)
+f) Supervisar las donaciones educativas en su jurisdicción. (*)
 
 (*) Artículo modificado por el Artículo 1 del Decreto Supremo Nº 009-2016-MINEDU, publicado el 24 julio 2016, cuyo texto es el siguiente:
 
-##### 'Artículo 147.- Organización de la Dirección Regional de Educación
+##### “Artículo 147.- Organización de la Dirección Regional de Educación
 
 La organización de la DRE, se adecúa a las características territoriales de la jurisdicción que abarca, siendo establecida y aprobada por el Gobierno Regional a través de una Ordenanza Regional.
 
 La DRE, en el marco de las funciones establecidas en la Ley General de Educación, es responsable de:
 
-- Proponer el Proyecto Educativo Regional (PER) al Gobierno Regional para su aprobación y posterior implementación, considerando las iniciativas presentadas por el Consejo Participativo Regional de Educación.
+a) Proponer el Proyecto Educativo Regional (PER) al Gobierno Regional para su aprobación y posterior implementación, considerando las iniciativas presentadas por el Consejo Participativo Regional de Educación.
 
-- Implementar las políticas educativas nacionales en el ámbito de su jurisdicción, formulando y desarrollando políticas regionales y orientaciones pedagógicas acordes a la realidad territorial, de manera eficiente, eficaz, transparente y participativa.
+b) Implementar las políticas educativas nacionales en el ámbito de su jurisdicción, formulando y desarrollando políticas regionales y orientaciones pedagógicas acordes a la realidad territorial, de manera eficiente, eficaz, transparente y participativa.
 
-- Diversificar el currículo, en el marco del PER, estableciendo lineamientos pedagógicos articulados con la realidad territorial y disponiendo medidas correctivas para la mejora del servicio educativo.
+c) Diversificar el currículo, en el marco del PER, estableciendo lineamientos pedagógicos articulados con la realidad territorial y disponiendo medidas correctivas para la mejora del servicio educativo.
 
-- Asegurar la provisión de los materiales y recursos educativos en las UGEL de su jurisdicción.
+d) Asegurar la provisión de los materiales y recursos educativos en las UGEL de su jurisdicción.
 
-- Supervisar y evaluar la gestión de las UGEL a su cargo, brindándoles la asistencia técnica que corresponda en materia administrativa y pedagógica para la mejora continua de sus procesos y servicios, de acuerdo a las
+e) Supervisar y evaluar la gestión de las UGEL a su cargo, brindándoles la asistencia técnica que corresponda en materia administrativa y pedagógica para la mejora continua de sus procesos y servicios, de acuerdo a las
 
 [[END OF PAGE 64]]
 
 [[START OF PAGE 65]]
 
-- características de su territorio; informando de ello al Ministerio de Educación, a las instancias correspondientes del Gobierno Regional y a la comunidad educativa regional.
+características de su territorio; informando de ello al Ministerio de Educación, a las instancias correspondientes del Gobierno Regional y a la comunidad educativa regional.
 
-- Desarrollar los concursos públicos de designación de Directores de las UGEL, como órgano competente del Gobierno Regional, conforme a los lineamientos establecidos por el Ministerio de Educación.
+f) Desarrollar los concursos públicos de designación de Directores de las UGEL, como órgano competente del Gobierno Regional, conforme a los lineamientos establecidos por el Ministerio de Educación.
 
-- Establecer disposiciones normativas regionales para la formación tecnológica, artística, docente, inicial y en servicio, así como para la supervisión que realiza las UGEL a las Instituciones Educativas de Educación Básica y los Centros de Educación Técnico-Productiva de su jurisdicción, en concordancia con la normatividad nacional.
+g) Establecer disposiciones normativas regionales para la formación tecnológica, artística, docente, inicial y en servicio, así como para la supervisión que realiza las UGEL a las Instituciones Educativas de Educación Básica y los Centros de Educación Técnico-Productiva de su jurisdicción, en concordancia con la normatividad nacional.
 
-- Realizar el saneamiento físico legal de los locales escolares de su jurisdicción, en coordinación con las UGEL.
+h) Realizar el saneamiento físico legal de los locales escolares de su jurisdicción, en coordinación con las UGEL.
 
-- Resolver en segunda y última instancia los recursos de apelación interpuestos contra los actos administrativos emitidos por las UGEL.
+i) Resolver en segunda y última instancia los recursos de apelación interpuestos contra los actos administrativos emitidos por las UGEL.
 
-- Orientar y supervisar el acompañamiento y monitoreo que efectúan las UGEL en las Instituciones Educativas de Educación Básica y Centros de Educación Técnico- Productiva de su jurisdicción, para la verificación del cumplimiento de las horas lectivas conforme al currículo nacional.
+j) Orientar y supervisar el acompañamiento y monitoreo que efectúan las UGEL en las Instituciones Educativas de Educación Básica y Centros de Educación Técnico-Productiva de su jurisdicción, para la verificación del cumplimiento de las horas lectivas conforme al currículo nacional.
 
-- Supervisar los programas y proyectos estratégicos y actividades de investigación en materia educativa, en el marco de sus competencias.
+k) Supervisar los programas y proyectos estratégicos y actividades de investigación en materia educativa, en el marco de sus competencias.
 
-- Crear e implementar redes educativas o equipos especializados a propuesta de las UGEL.
+l) Crear e implementar redes educativas o equipos especializados a propuesta de las UGEL.
 
-- Coordinar con las instancias correspondientes del Gobierno Regional la formulación de los instrumentos de planificación y presupuesto regional en materia educativa.
+m) Coordinar con las instancias correspondientes del Gobierno Regional la formulación de los instrumentos de planificación y presupuesto regional en materia educativa.
 
-- Coordinar con los órganos respectivos del Ministerio de Educación las intervenciones y estrategias que estos realicen en el ámbito de su jurisdicción. '
+n) Coordinar con los órganos respectivos del Ministerio de Educación las intervenciones y estrategias que estos realicen en el ámbito de su jurisdicción.”
 
 #### SUBCAPÍTULO II
 
@@ -2013,23 +2019,23 @@ El Ministerio de Educación, en coordinación con los Gobierno Regionales, dicta
 
 Las funciones del Consejo Participativo Regional de Educación son las siguientes:
 
-- Canalizar la participación de la sociedad organizada a nivel regional, en la elaboración, seguimiento y evaluación del Proyecto Educativo Regional, en el marco del Proyecto Educativo Nacional.
+a) Canalizar la participación de la sociedad organizada a nivel regional, en la elaboración, seguimiento y evaluación del Proyecto Educativo Regional, en el marco del Proyecto Educativo Nacional.
 
-- Participar en la elaboración y rendición de cuentas del presupuesto de la Dirección Regional de Educación, cuidando la transparencia de la gestión educativa.
+b) Participar en la elaboración y rendición de cuentas del presupuesto de la Dirección Regional de Educación, cuidando la transparencia de la gestión educativa.
 
-- Establecer canales de información, comunicación y diálogo en materia educativa entre la población y las autoridades educativas regionales.
+c) Establecer canales de información, comunicación y diálogo en materia educativa entre la población y las autoridades educativas regionales.
 
-- Apoyar a la Dirección Regional de Educación en la promoción y ejecución de políticas de incentivos que promuevan la mejora de la eficiencia en la gestión pedagógica e institucional.
+d) Apoyar a la Dirección Regional de Educación en la promoción y ejecución de políticas de incentivos que promuevan la mejora de la eficiencia en la gestión pedagógica e institucional.
 
-- Coordinar sus acciones con el Consejo Nacional de Educación y los Consejos Participativos Locales de Educación.
+e) Coordinar sus acciones con el Consejo Nacional de Educación y los Consejos Participativos Locales de Educación.
 
-- Opinar sobre las políticas, estrategias de desarrollo regional y medidas en favor de la universalidad, calidad y equidad de la educación en su jurisdicción, y velar por su cumplimiento.
+f) Opinar sobre las políticas, estrategias de desarrollo regional y medidas en favor de la universalidad, calidad y equidad de la educación en su jurisdicción, y velar por su cumplimiento.
 
-- Promover convenios entre la Dirección Regional de Educación y las organizaciones regionales, en beneficio de la educación.
+g) Promover convenios entre la Dirección Regional de Educación y las organizaciones regionales, en beneficio de la educación.
 
-- Conducir mecanismos de vigilancia social y de rendición de cuentas que aseguren la transparencia de la gestión educativa regional.
+h) Conducir mecanismos de vigilancia social y de rendición de cuentas que aseguren la transparencia de la gestión educativa regional.
 
-- Proponer políticas educativas regionales.
+i) Proponer políticas educativas regionales.
 
 ##### Artículo 150.- Organización del Consejo Participativo Regional de Educación
 
@@ -2065,13 +2071,13 @@ Es el órgano rector del sector Educación que tiene por finalidad definir, diri
 
 (*) Artículo modificado por el Artículo 1 del Decreto Supremo Nº 009-2016-MINEDU, publicado el 24 julio 2016, cuyo texto es el siguiente:
 
-##### 'Artículo 153.- Ministerio de Educación
+##### “Artículo 153.- Ministerio de Educación
 
 El Ministerio de Educación ejerce la rectoría del Sector Educación, por lo que es responsable de dirigir, formular, aprobar, administrar, articular, evaluar y supervisar la política nacional en materia de educación, infraestructura educativa, recreación y deporte en el ámbito nacional, en coordinación con los Gobiernos Regionales y Locales, y atendiendo a la diversidad social, cultural, económica, ambiental y geográfica.
 
 Asimismo, monitorea la calidad de la gestión en las DRE y las UGEL así como la prestación del servicio educativo en las Instituciones Educativas, en coordinación con los Gobiernos Regionales.
 
-El Ministerio de Educación aprueba disposiciones que promueven la mejora del diseño organizacional en las DRE y las UGEL, basado en un enfoque de gestión por procesos orientada a resultados; las cuales podrán ser consideradas por los Gobiernos Regionales para la aprobación de normas sobre la materia, conforme a sus atribuciones. '
+El Ministerio de Educación aprueba disposiciones que promueven la mejora del diseño organizacional en las DRE y las UGEL, basado en un enfoque de gestión por procesos orientada a resultados; las cuales podrán ser consideradas por los Gobiernos Regionales para la aprobación de normas sobre la materia, conforme a sus atribuciones.”
 
 [[END OF PAGE 67]]
 
@@ -2081,15 +2087,15 @@ El Ministerio de Educación aprueba disposiciones que promueven la mejora del di
 
 En el marco de la Ley, corresponde, además, al Ministerio de Educación:
 
-- Establecer, supervisar y evaluar, a nivel nacional, los lineamientos técnico-normativos sobre gestión educativa, que garanticen una educación de alta calidad, con criterios de equidad e inclusiva por derecho.
+a) Establecer, supervisar y evaluar, a nivel nacional, los lineamientos técnico-normativos sobre gestión educativa, que garanticen una educación de alta calidad, con criterios de equidad e inclusiva por derecho.
 
-- Articular y coordinar la gestión del Sistema Educativo Nacional, garantizando el financiamiento para la prestación del servicio de calidad con equidad.
+b) Articular y coordinar la gestión del Sistema Educativo Nacional, garantizando el financiamiento para la prestación del servicio de calidad con equidad.
 
-- Brindar asistencia técnica a los gobiernos regionales para el cumplimiento de sus responsabilidades en educación.
+c) Brindar asistencia técnica a los gobiernos regionales para el cumplimiento de sus responsabilidades en educación.
 
-- Establecer lineamientos para promover e implementar la carrera pública magisterial.
+d) Establecer lineamientos para promover e implementar la carrera pública magisterial.
 
-- Promover y fortalecer la descentralización de la educación y liderar la sociedad educadora, en el marco de la gestión compartida con los otros niveles de gobierno.
+e) Promover y fortalecer la descentralización de la educación y liderar la sociedad educadora, en el marco de la gestión compartida con los otros niveles de gobierno.
 
 ### CAPÍTULO VI
 
@@ -2107,21 +2113,21 @@ El Consejo Nacional de Educación está integrado por los consejeros, quienes en
 
 Son fuentes de financiamiento de la educación pública:
 
-- Los recursos provenientes del Tesoro Público.
+a) Los recursos provenientes del Tesoro Público.
 
-- Los recursos propios e ingresos generados por la gestión de actividades productivas empresariales y otros recursos directamente recaudados.
+b) Los recursos propios e ingresos generados por la gestión de actividades productivas empresariales y otros recursos directamente recaudados.
 
-- Las donaciones de personas naturales o jurídicas.
+c) Las donaciones de personas naturales o jurídicas.
 
 [[END OF PAGE 68]]
 
 [[START OF PAGE 69]]
 
-- Los recursos provenientes de endeudamiento interno o externo.
+d) Los recursos provenientes de endeudamiento interno o externo.
 
-- Recursos provenientes de fuentes complementarias con participación de la comunidad, la empresa y la sociedad en su conjunto.
+e) Recursos provenientes de fuentes complementarias con participación de la comunidad, la empresa y la sociedad en su conjunto.
 
-- Otros que por ley o norma expresa le sean asignados.
+f) Otros que por ley o norma expresa le sean asignados.
 
 ##### Artículo 157.- Asignación de recursos financieros
 
@@ -2137,9 +2143,9 @@ Los ingresos provenientes por concepto de recursos propios y de actividades prod
 
 Las instituciones educativas están autorizadas a generar y administrar recursos propios por los conceptos establecidos por el Ministerio de Educación
 
-- El Comité de Gestión de Recursos Propios y Actividades Productivas Empresariales es el órgano responsable de la planificación, organización, dirección, administración, ejecución y evaluación de los recursos propios y de las actividades productivas empresariales de la institución educativa pública.
+El Comité de Gestión de Recursos Propios y Actividades Productivas Empresariales es el órgano responsable de la planificación, organización, dirección, administración, ejecución y evaluación de los recursos propios y de las actividades productivas empresariales de la institución educativa pública.
 
-- El Ministerio de Educación establecerá los lineamientos para la gestión de recursos propios y actividades productivas empresariales en las instituciones educativas públicas.
+El Ministerio de Educación establecerá los lineamientos para la gestión de recursos propios y actividades productivas empresariales en las instituciones educativas públicas.
 
 El control de los estados financieros y ejecución de actividades económicas, correspondientes a la gestión de recursos propios y actividades productivas y empresariales, está a cargo del Órgano de Control Institucional de la instancia de gestión educativa descentralizada inmediata superior.
 
@@ -2195,11 +2201,11 @@ El Ministerio de Educación, en coordinación con los Gobiernos Regionales, auto
 
 El Ministerio de Educación, mediante Resolución Ministerial, dictará las normas complementarias de alcance nacional que sean necesarias, en cumplimiento de la Ley y el presente Reglamento.
 
-#### 'DISPOSICIÓN COMPLEMENTARIA TRANSITORIA
+#### “DISPOSICIÓN COMPLEMENTARIA TRANSITORIA
 
 ##### Única.- Atribuciones del MINEDU respecto a la Dirección Regional de Educación de Lima Metropolitana y las Unidades de Gestión Educativa Local de Lima Metropolitana
 
-Precísese que, en tanto la Dirección Regional de Educación de Lima Metropolitana (DRELM) y las Unidades de Gestión Educativa Local (UGEL) de Lima Metropolitana formen parte de la estructura orgánica del Ministerio de Educación, este último ejerce las atribuciones asignadas a los Gobiernos Regionales respecto a las DRE y sus UGEL. '(*)
+Precísese que, en tanto la Dirección Regional de Educación de Lima Metropolitana (DRELM) y las Unidades de Gestión Educativa Local (UGEL) de Lima Metropolitana formen parte de la estructura orgánica del Ministerio de Educación, este último ejerce las atribuciones asignadas a los Gobiernos Regionales respecto a las DRE y sus UGEL.”(*)
 
 (*) Disposición incorporada por el Artículo 2 del Decreto Supremo Nº 009-2016-MINEDU, publicado el 24 julio 2016.
 
