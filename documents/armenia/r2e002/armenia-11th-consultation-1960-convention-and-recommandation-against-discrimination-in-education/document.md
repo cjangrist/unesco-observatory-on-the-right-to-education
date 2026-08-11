@@ -12,7 +12,7 @@ Eleventh consultation of Member States on the application of the Convention and 
 
 ## 1. Introduction
 
-The  Convention  against  Discrimination  in  Education  ('the  Convention')  and  the  Recommendation against Discrimination in Education ('the Recommendation'), adopted by UNESCO's General Conference in  1960,  are  aligned  with  UNESCO's  constitutional  mandate  to  'ad vance  the  ideal  of  equality  of educational  opportunities  without  regard  to  race,  sex  or  any  distinctions,  economic  or  social'.  The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
+The Convention against Discrimination in Education (“the Convention”) and the Recommendation against Discrimination in Education (“the Recommendation”), adopted by UNESCO’s General Conference in 1960, are aligned with UNESCO’s constitutional mandate to “advance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social”. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
 
 The  right  to  education  is  one  of  the  key  principles  underpinning  the Education  2030 agenda  and Sustainable Development Goal 4 (SDG4) adopted by the international community in 2015. SDG 4 seeks to ensure the full enjoyment of the right to education as fundamental to achieving sustainable development. Its scope captures the multidimensional nature of the right to education.
 
@@ -24,25 +24,27 @@ The present Guidelines are intended to assist Member States in the preparation o
 
 Considering the Education 2030 agenda, the monitoring of the Convention and the Recommendation is of  crucial  importance  to  ensure  an  education  that  is  truly  inclusive  for  all  and  to  counter  persistent inequalities in access, participation and learning outcomes at all levels, particularly for the most vulnerable groups. This is particularly true under the current context in which countries are making efforts to recover from the learning disruption caused by the COVID-19 pandemic. Concrete measures taken by countries in  accordance  with  their  legal  obligations  under  these  instruments  contribute  to  implementing  the Education 2030 agenda.
 
-As the scope and content of the legal obligations under the right to education are aligned with the 10 targets of SDG 4, efforts are being made to ensure that the components of the targets are included in the guidelines and that these guidelines serve as avaluable contribution to monitoring progress towards SDG 4 targets.
+As the scope and content of the legal obligations under the right to education are aligned with the 10 targets of SDG 4, efforts are being made to ensure that the components of the targets are included in the guidelines and that these guidelines serve as a valuable contribution to monitoring progress towards SDG 4 targets.
 
-Beyond  SDG 4,  the  Convention  is  also  closely  aligned  with  the  normative  content  on  the  right  to education  of  other  international  human  rights  instruments  such  as  the  International  Covenant  on Economic,  Social  and  Cultural  Rights  (1966),  Convention  on  the  Elimination  of  All  Forms  of Discrimination  against  Women  (1979),  the  Convention  on  the  Rights  of  the  Child  (1989)  and  the Convention on the Rights of Persons with Disabilities (2006).
+Beyond SDG 4, the Convention is also closely aligned with the normative content on the right to education of other international human rights instruments such as the International Covenant on
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-In addition, this Consultation is an opportunity to inform the ongoing UNESCO Initiative on the Evolving Right to Education within a lifelong learning perspective 1  (launched in December 2021). The Initiative investigates how the right to education could be reinforced placing it within a lifelong learning perspective and in light of the new demands being placed on education. This Initiative builds on the Report from the International Commission on the Futures of Education 2 , which suggeststo broaden our understanding of the right to education to clearly apply it to all ages and across all times and spaces. The initiative is also inline withthe Vision Statement of the United Nations Secretary General on Transforming Education 3 , and the Report on the 2022 Transforming Education Summit 4  which call for the transformation of education systems to 'include everyone, regardless of circumstance, context or background'. The Initiative on the Evolving  Right  to  Education  aims  to  open  a  collaborative  and  participatory  discussion  about  the international  framework  to  ensure  the  effective  enforcement  of  the  right  to  education  and  learning throughout life for all. Finally, the Initiative builds on recentinter-governmental dialogues, including the Marrakech Framework for Action for Adult Learning and Education 5  and the Tashkent Declaration on Early Childood Care and Education. 6
+Economic, Social and Cultural Rights (1966), Convention on the Elimination of All Forms of Discrimination against Women (1979), the Convention on the Rights of the Child (1989) and the Convention on the Rights of Persons with Disabilities (2006).
+
+In addition, this Consultation is an opportunity to inform the ongoing UNESCO Initiative on the Evolving Right to Education within a lifelong learning perspective 1 (launched in December 2021). The Initiative investigates how the right to education could be reinforced placing it within a lifelong learning perspective and in light of the new demands being placed on education. This Initiative builds on the Report from the International Commission on the Futures of Education 2, which suggests to broaden our understanding of the right to education to clearly apply it to all ages and across all times and spaces. The initiative is also in-line with the Vision Statement of the United Nations Secretary General on Transforming Education 3, and the Report on the 2022 Transforming Education Summit 4 which call for the transformation of education systems to “include everyone, regardless of circumstance, context or background”. The Initiative on the Evolving Right to Education aims to open a collaborative and participatory discussion about the international framework to ensure the effective enforcement of the right to education and learning throughout life for all. Finally, the Initiative builds on recent inter-governmental dialogues, including the Marrakech Framework for Action for Adult Learning and Education 5 and the Tashkent Declaration on Early Childhood Care and Education. 6
 
 It is also important to note that previous consultations on the Convention and Recommendation revealed that countries now understand the right to education in an extended manner. The 11th consultation builds on the findings of the previous national reports to include various areas that have direct repercussions on the  right  to  education  such  as,  for  instance,  digital  learning,  climate  considerations,  lifelong  learning entitlement, and the role of non-state actors in education.
 
 ## 3. Reporting obligations
 
-There are differences in the legal nature of the obligations under the Convention, as distinguished from those under the Recommendation. The Convention hasbinding force and the States Parties are under the obligation  to  incorporate  its  provisions  into  their  domestic  frameworks.  The  Recommendation,  nonbinding in nature, has political and moral force. Its adoption sought to take into account the difficulties that certain States might experience in ratifying the Convention, in particular with respect to their federal structure.
+There are differences in the legal nature of the obligations under the Convention, as distinguished from those under the Recommendation. The Convention has binding force and the States Parties are under the obligation to incorporate its provisions into their domestic frameworks. The Recommendation, non-binding in nature, has political and moral force. Its adoption sought to take into account the difficulties that certain States might experience in ratifying the Convention, in particular with respect to their federal structure.
 
 Bearing  in  mind  the  differences  in  legal  scope  inherent  to  the  nature  of  these  two  categories  of instruments, the content of the Recommendation is identical to that of the Convention. Member States are expected to give effect to it in national legislation and education policies.
 
-The  reporting obligation under the provisions of Article VII of the Convention  and  of the Recommendation is the same. Article VIII of UNESCO's Constitution states that ' Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General Conference, reports on the laws, regulations and statistics relating to its educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to i n Article IV, paragraph 4' . Therefore, even if a country is not a State Party to the Convention, it needs to  submit  a  report  on  the  implementation  of  the  Recommendation,  which  means  that  all  UNESCO
+The reporting obligation under the provisions of Article VII of the Convention and of the Recommendation is the same. Article VIII of UNESCO’s Constitution states that “Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General Conference, reports on the laws, regulations and statistics relating to its educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4”. Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO
 
 > 1 https://www.unesco.org/en/right-education/evolving
 
@@ -66,7 +68,7 @@ Member States are expected to submit a national report on the implementation of 
 
 The  reporting  period  for  the  11th  consultation  on  the  implementation  of  the  Convention  and  the Recommendation covers four years (2021-2024).
 
-The  Futures  of  Education  Report  calls  for  a  new  social  contract  for  education,  which  requires  to understand  education  as  a  common  good  and  a  shared  societalendeavour.  To  ensure  this,  extensive consultations involving a broad range of stakeholders is needed. The reporting process therefore needs to be participatory. This includes ensuring cooperation between ministries of education and other ministries dealing  with  aspects  of  the  right  to  education  as  well  as  consulting  social  partners  and  civil  society organizations and other relevant bodies.
+The Futures of Education Report calls for a new social contract for education, which requires to understand education as a common good and a shared societal endeavour. To ensure this, extensive consultations involving a broad range of stakeholders is needed. The reporting process therefore needs to be participatory. This includes ensuring cooperation between ministries of education and other ministries dealing with aspects of the right to education as well as consulting social partners and civil society organizations and other relevant bodies.
 
 The  preparation  of  national  reports  provides  a  good  opportunity  for  Member  States  to  assess  the implementation of the right to education in their country, identify specific challenges, build constructive dialogue with other actors involved in this field and share good practices.
 
@@ -122,11 +124,11 @@ Email and telephone number of contact person:
 
 artur.martirosyan@escs.am, +37410 599604
 
-# Ratification and applicability of the Convention against Discrimination in Education 10
+# I. Ratification and applicability of the Convention against Discrimination in Education 10
 
 - Is your country a State Party to the Convention?
 
-- Yes
+✓ Yes
 
 □ No: Does your country plan to ratify this instrument?
 
@@ -144,11 +146,11 @@ artur.martirosyan@escs.am, +37410 599604
 
 - Is the Convention directly applicable in your country's domestic law?
 
-- Yes □ No
+✓ Yes □ No
 
 - Have  courts,  tribunals  and/or  administrative  authorities  adjudicated  on  issues  or  violations regarding the right to education? 11
 
-- No
+✓ No
 
 □ Yes: Have the provisions of the Convention been invoked?
 
@@ -160,11 +162,8 @@ artur.martirosyan@escs.am, +37410 599604
 
 [[START OF PAGE 6]]
 
-□Yes
-
-✓
-
-No
+□ Yes
+✓ No
 
 - Please cite the case law and jurisprudence.
 
@@ -172,7 +171,7 @@ Information  could  also  be  given  about  the  judicial,  administrative  and 
 
 # II. Information  on  the  implementation  of  the  Convention  or  Recommendation  in  the  context  of Sustainable Development Goal 4 (SDG4)
 
-## Towards an inclusive non-discriminatory education system
+## 1. Towards an inclusive non-discriminatory education system
 
 For reference: This section relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity as laid out in Articles/Paragraphs 1(1), 2 and 3 of the Convention/Recommendation.
 
@@ -208,16 +207,27 @@ https://www.arlis.am/DocumentView.aspx?DocID=178018
 
 [[START OF PAGE 7]]
 
-The Law of the Republic of Armenia (HO-160) ' On Pre-primary education ' (adopted on 06 May 2020), Article 4. State policy and principles of state policy in the field of pre-primary education https://www.arlis.am/DocumentView.aspx?DocID=180285
----
-The Law of the Republic of Armenia (HO-160) ' On General education ' (adopted on 10 July 2009), Article 1. Subject matter of the Law, Article 4. State policy in the field of general education, Article 20. Rights and responsibilities of learners, Article 37. State guarantees for general education https://www.arlis.am/DocumentView.aspx?DocID=185512
-The Law of the Republic of Armenia (HO-164-N) ' On preliminary (craftsmanship) and middle vocationaleducation ' (adopted on 8 July 2005), Article 4. Principles of state policy in the field of handicraft and secondary vocational education and state guarantees for the rights of citizens, Article 11. Admission to institutions of handicraft and secondary vocational education
+The Law of the Republic of Armenia (HO-160) “On Pre-primary education” (adopted on 06 May 2020), Article 4. State policy and principles of state policy in the field of pre-primary education
+https://www.arlis.am/DocumentView.aspx?DocID=180285
+
+The Law of the Republic of Armenia (HO-160) “On General education” (adopted on 10 July 2009), Article 1. Subject matter of the Law, Article 4. State policy in the field of general education, Article 20. Rights and responsibilities of learners, Article 37. State guarantees for general education
+https://www.arlis.am/DocumentView.aspx?DocID=185512
+
+The Law of the Republic of Armenia (HO-164-N) “On preliminary (craftsmanship) and middle vocational education” (adopted on 8 July 2005), Article 4. Principles of state policy in the field of handicraft and secondary vocational education and state guarantees for the rights of citizens, Article 11. Admission to institutions of handicraft and secondary vocational education
 https://www.arlis.am/DocumentView.aspx?DocID=174048
-(adopted on 14 December 2004), Article 4. Principles of state policy in the field of higher and postgraduate professional education, Article 14. Admission to organisations providing higher and postgraduate professional education, Article 18.
-Researchers of doctoral studies, researchers of post-doctoral studies and external researchers https://www.arlis.am/DocumentView.aspx?DocID=178451
-The Law of the Republic of Armenia (HO-233-N) ' On state inspectorate of education ' (adopted on 15 November 2005) https://www.arlis.am/DocumentView.aspx?DocID=75491
-The Law of the Republic of Armenia (HO-194-N) ' On the rights of persons with disabilities ' (adopted 05 May 2021), Article 15
-on https://www.arlis.am/DocumentView.aspx?DocID=182971
+
+The Law of the Republic of Armenia (HO-62-N) “On higher and post-graduate professional education” (adopted on 14 December 2004), Article 4. Principles of state policy in the field of higher and postgraduate professional education, Article 14. Admission to organisations providing higher and postgraduate professional education, Article 18. Researchers of doctoral studies, researchers of post-doctoral studies and external researchers
+https://www.arlis.am/DocumentView.aspx?DocID=178451
+
+The Law of the Republic of Armenia (HO-233-N) “On state inspectorate of education” (adopted on 15 November 2005)
+https://www.arlis.am/DocumentView.aspx?DocID=75491
+
+The Law of the Republic of Armenia (HO-57-N) “On ensuring equal rights and equal opportunities for women and men” (adopted on 20 May 2013)
+https://www.arlis.am/DocumentView.aspx?DocID=138982
+
+The Law of the Republic of Armenia (HO-194-N) “On the rights of persons with disabilities” (adopted on 05 May 2021), Article 15
+https://www.arlis.am/DocumentView.aspx?DocID=182971
+
 Following adoption of the mentioned laws, a number of legal acts have also been approved, supporting correct implementation of the laws.
 
 ### 1.1 Non-discrimination and equality in education
@@ -232,17 +242,12 @@ For reference: This notably is covered under SDG target 4.1 and partly target 4.
 
 □ Legal texts 15  prohibit discrimination and guarantee equal access to education:
 
-- In pre-primary education (including early learning and care)
-
-- In primary education
-
-- In secondary education
-
-- In technical and vocational education and training
-
-- In higher education
-
-- In adult education and alternative learning
+✓ In pre-primary education (including early learning and care)
+✓ In primary education
+✓ In secondary education
+✓ In technical and vocational education and training
+✓ In higher education
+✓ In adult education and alternative learning
 
 - Please indicate the relevant legal provisions:
 
@@ -264,7 +269,7 @@ Article  20  of  this  Law  stipulates  that  all  learners  shall  have  equal 
 
 > 13 See: Article/Paragraph 1(1).
 
-> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programm es'.
+> 14 Which calls on states to “substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes”.
 
 > 15 Constitution, laws, decrees, regulations, circulars, etc.
 
@@ -290,7 +295,7 @@ For the purpose of sparking interest in middle vocational education and increasi
 
 #### Higher education
 
-The Law of the Republic of Armenia 'Օn Higher and Postgraduate Professi onal Education ' sets: that the State shall guarantee for the citizens of the Republic of Armenia the right to receive, on a competitive basis, free of charge higher and postgraduate professional education at state higher education institutions. The  citizens  of  the  Republic  of  Armenia  holding  dual  citizenship  shall,  upon  their  choice,  shall  be admitted to higher education institutions of the Republic of Armenia, in accordance with the conditions defined by the Government of the Republic of Armenia for the citizens of the Republic of Armenia or for foreigners.
+The Law of the Republic of Armenia “On Higher and Postgraduate Professional Education” sets: that the State shall guarantee for the citizens of the Republic of Armenia the right to receive, on a competitive basis, free of charge higher and postgraduate professional education at state higher education institutions. The citizens of the Republic of Armenia holding dual citizenship shall, upon their choice, shall be admitted to higher education institutions of the Republic of Armenia, in accordance with the conditions defined by the Government of the Republic of Armenia for the citizens of the Republic of Armenia or for foreigners.
 
 Non-state higher education institutions providing educational programmes  accredited as of professions, may, on a competitive basis, provide free of charge higher and postgraduate professional education through full refund of tuition fees in the form of student benefits paid by the State.
 
@@ -300,27 +305,22 @@ Admission to higher education institutions (for Bachelor's degree) shall be carr
 
 [[START OF PAGE 10]]
 
-Admission, on a competitive basis, to the second level (Master's degree) in the two-level system of the higher education shall be carried out by taking account of the grades of the first level (Bachelor's degree), in accordance with the procedure established by the authorised public administration body for education. Admission to doctoral studies shall be carried out through programmes for Master's degree and degree of certified  specialist,  on  the  basis  of  the  results  admission  examinations  of  the  applicants,  held  on  a competitive basis, the procedure and list of professions whereof shall be defined by the Government of the Republic of Armenia (Law ' On higher and post-graduate professional education ' , Article 14, Parts 46).
+Admission, on a competitive basis, to the second level (Master's degree) in the two-level system of the higher education shall be carried out by taking account of the grades of the first level (Bachelor's degree), in accordance with the procedure established by the authorised public administration body for education. Admission to doctoral studies shall be carried out through programmes for Master’s degree and degree of certified specialist, on the basis of the results admission examinations of the applicants, held on a competitive basis, the procedure and list of professions whereof shall be defined by the Government of the Republic of Armenia (Law “On higher and post-graduate professional education”, Article 14, Parts 4-6).
 
 The higher education institution shall, at its own expense and in the amount of at least seven per cent of the budget generated from the tuition fees of students, taking as a basis the high academic performance shown and the social group, partially refund, in the form of student benefits, the tuition fees of at least ten per cent of the students learning within fee-paid instruction system - those of students holding the following status:
 
 (1) students considered as socially disadvantaged (those from families falling under the grade with one Part higher than the marginal grade of socially disadvantaged condition of families) -in the amount of at least 30 per cent;
-
-- students left without parental care after attaining the age of 18 - until they attain the age of 23, in the amount of at least 50 per cent;
-
-- students having been deprived of one parent and having not attained the age of 23 - in the amount of at least 50 per cent; 11
-
-- students with a child under the age of 1 - in the amount of at least 50 per cent;
-
-- students from families with three or more minors or three or more students - in the amount of at least 30 per cent;
-
-- students with disability of 1st or 2nd group, including students having parents deemed as freedom fighters with disabilities - in the amount of at least 30 per cent; students holding other status.
+(2) students left without parental care after attaining the age of 18 - until they attain the age of 23, in the amount of at least 50 per cent;
+(3) students having been deprived of one parent and having not attained the age of 23 - in the amount of at least 50 per cent;
+(4) students with a child under the age of 1 - in the amount of at least 50 per cent;
+(5) students from families with three or more minors or three or more students - in the amount of at least 30 per cent;
+(6) students with disability of 1st or 2nd group, including students having parents deemed as freedom fighters with disabilities - in the amount of at least 30 per cent; students holding other status.
 
 #### Adult education and alternative learning
 
 According to the Law ' On Education ' supplementary educational programmes shall be implemented in order to meet the professional and individual educational needs throughout the entire life of a person and shall be considered as means of ensuring non-formal instruction (Article 26).
 
-Anyone who meets the entry requirements for the given course shall be eligible to participate in the supplementary education program(Article 26, point 3.2).
+Anyone who meets the entry requirements for the given course shall be eligible to participate in the supplementary education program (Article 26, point 3.2).
 
 - Please list the prohibited grounds of discrimination in education as laid out in legal texts:
 
@@ -344,25 +344,21 @@ Persons studying within the paid system of state preliminary (craftsmanship) pro
 
 □ Policies, programmes and initiatives aim to prohibit and prevent discrimination and ensure equal access to education
 
-- In pre-primary education (including early learning and care)
+✓ In pre-primary education (including early learning and care)
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
-- In primary education
-
-- In secondary education
-
-- In technical and vocational education and training
-
-- In higher education
-
-- In adult education and alternative learning
+✓ In primary education
+✓ In secondary education
+✓ In technical and vocational education and training
+✓ In higher education
+✓ In adult education and alternative learning
 
 - Please provide details:
 
-The Law of the Republic of Armenia (HO-441-N) ' On Approving the State Education Development Programme of the Republic of Armenia until 2030 ' (hereafter: Education Strategy) was adopted on 16 November 2022, and The Action Plan of the Education Strategy was approved by the Government of the Republic of Armenia on 16 March 2023. The need for the development of this strategy stems from the ' UN 2030 Agenda for Sustainable Development ' , in particular Sustainable Development Goal 4, and its targets:  poverty  eradication,  gender  equality,  justice,  productive  employment  and  decent  work  for everyone, as well as the approaches based on human rights and anti-discrimination, the principle of ' leaving  no  one  behind ' ,  the ' UN-Armenia Sustainable Development Cooperation Framework 20212025 ' and from other national strategic documents and international commitments.
+The Law of the Republic of Armenia (HO-441-N) “On Approving the State Education Development Programme of the Republic of Armenia until 2030” (hereafter: Education Strategy) was adopted on 16 November 2022, and The Action Plan of the Education Strategy was approved by the Government of the Republic of Armenia on 16 March 2023. The need for the development of this strategy stems from the “UN 2030 Agenda for Sustainable Development”, in particular Sustainable Development Goal 4, and its targets: poverty eradication, gender equality, justice, productive employment and decent work for everyone, as well as the approaches based on human rights and anti-discrimination, the principle of “leaving no one behind”, the “UN-Armenia Sustainable Development Cooperation Framework 2021-2025” and from other national strategic documents and international commitments.
 
 The ultimate goal of the Education Strategy is: to form an effective and internationally competitive educational system based on national and universal values aimed at the development of the Republic of Armenia, which gives everyone, at all stages of their life, the opportunity to receive quality education meeting their needs and abilities, ensures the competitive professional preparedness of individuals to build their own well-being in their country, and taking an active civic position to exercise their own rights  and  responsibilities,  as  well  as  willingness  to  engage  in  social  good,  and  the  country's multidimensional security. Thus, the strategy covers almost all SDG4 targets in a comprehensive way ․ One of three strategic directions until 2030 is  creation of a universal inclusive learner-centred educational environment, which will make available to every citizen at all stages of their life quality and effective educational services arising from their development and personal characteristics throughout the territory of the Republic of Armenia.
 
@@ -378,17 +374,12 @@ Ensuring quality products of general education is impossible without a proper sy
 
 □ Combatting discrimination in terms of curriculum:
 
-- In pre-primary education (including early learning and care)
-
-- In primary education
-
-- In secondary education
-
-- In technical and vocational education and training
-
-- In higher education
-
-- In adult education and alternative learning
+✓ In pre-primary education (including early learning and care)
+✓ In primary education
+✓ In secondary education
+✓ In technical and vocational education and training
+✓ In higher education
+✓ In adult education and alternative learning
 
 - Please provide details:
 
@@ -414,7 +405,7 @@ e) to apply different types of educational activities, effective teaching method
 
 f) to contribute to the formation of an atmosphere of equality, humanity and justice in the educational process.
 
-The  access  to  the  preliminary  (craftsmanship)  professional  and  middle  vocational  education programme is available for all. The state educational standards are composed of modules (units) and for each of them, set of learning outcomes with corresponding performance criteria, which can be objectively measured, and assessment means are defined. Those modules are grouped into two clusters: Key skills and Professional  Competences.  The  key  skills  include  the  following  modules  which  are  common  for  all qualifications' standards: Armenian Language and Basics of Speech Culture; Basics of Economics; Basics of Political Science and Sociology; Basics of Law; History; Russian language; Second Foreign language; Physical education; Landscape Studies and Basics of Ecology; Civil Defence and Basics of Emergency Situations; of which the module of Basics of Political Science and Sociology (54 academic hours) and Basics of Law (36 academic hours) are providing the topics and themes regarding to the combating of any discrimination ․
+The access to the preliminary (craftsmanship) professional and middle vocational education programme is available for all. The state educational standards are composed of modules (units) and for each of them, set of learning outcomes with corresponding performance criteria, which can be objectively measured, and assessment means are defined. Those modules are grouped into two clusters: Key skills and Professional Competences. The key skills include the following modules which are common for all qualifications’ standards: Armenian Language and Basics of Speech Culture; Basics of Economics; Basics of Political Science and Sociology; Basics of Law; History; Russian language; Second Foreign language; Physical education; Landscape Studies and Basics of Ecology; Civil Defence and Basics of Emergency Situations; of which the module of Basics of Political Science and Sociology (54 academic hours) and Basics of Law (36 academic hours) are providing the topics and themes regarding to the combating of any discrimination.
 
 □ Other measures adopted to both prevent and eliminate discrimination in education and ensure equal access to all levels and types of education:
 
@@ -426,15 +417,14 @@ The Government Decree N 154-N on the procedure for ' Discovery and Referral of C
 
 #### General measures:
 
-- Legislation provides for inclusive education for all
-
-- Policy measures aim to enhance inclusion in education for all
+✓ Legislation provides for inclusive education for all
+✓ Policy measures aim to enhance inclusion in education for all
 
 □ Multiple and flexible learning pathways 17 are provided for
 
 □ Curricula and teaching methods are inclusive in design 18
 
-> 17 Multiple and flexible learning pathways are 'entry points and re -entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge,  skills  and  c ompetencies  acquired  through  nonformal  and  informal  education'  ( Education  2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
+> 17 Multiple and flexible learning pathways are ‘entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge, skills and competencies acquired through nonformal and informal education’ (Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
 
 > 18 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
 
@@ -442,17 +432,16 @@ The Government Decree N 154-N on the procedure for ' Discovery and Referral of C
 
 [[START OF PAGE 15]]
 
-- Teachers are trained on inclusive education 16 and to value diversity
-
+✓ Teachers are trained on inclusive education 16 and to value diversity
 □ Initiatives to address discrimination and promote cultural diversity and mutual acceptance
-
 □ Other:
+□ Multilingual and intercultural education is supported
 
-Education in the Republic of Armenia is provided in accordance with the requirements of the Law of the  Republic  of  Armenia ' On language ' :  the  language  of  teaching  and  upbringing  in  education  and learning  systems  within  the  territory  of  the  Republic  of  Armenia  is  literary  Armenian.  In  the communities  of  national  minorities  of  the  Republic  of  Armenia  general  education  instruction  and upbringing may be organised in their native language in accordance with the state programme as well as with state support, by compulsory instruction of Armenian.
+Education in the Republic of Armenia is provided in accordance with the requirements of the Law of the Republic of Armenia “On language”: the language of teaching and upbringing in education and learning systems within the territory of the Republic of Armenia is literary Armenian. In the communities of national minorities of the Republic of Armenia general education instruction and upbringing may be organised in their native language in accordance with the state programme as well as with state support, by compulsory instruction of Armenian.
 
-Admission of  a  learner  to  a  school  of  general  education  is  carried  out  pursuant  to  Procedure  for admission to, transfer from and removal of a learner from the institution of general education approved by the Order of the Minister of Education and Science of the Republic of Armenia No 1640-N of 24 November 2010.
+Admission of a learner to a school of general education is carried out pursuant to Procedure for admission to, transfer from and removal of a learner from the institution of general education approved by the Order of the Minister of Education and Science of the Republic of Armenia No 1640-N of 24 November 2010.
 
-General education is provided starting from the age of six which may be attained by the end of the given calendar year. Admission of learners to an institution of general education is carried out on the basis of the application of the parent of a school-age child or the legal representative there of or the contract concluded between the institution and the parent. At the 3rd level of general education - high school  -  students  may  pursue  further  studies  only  upon  availability  of  the  basic  school  graduation certificate.
+General education is provided starting from the age of six which may be attained by the end of the given calendar year. Admission of learners to an institution of general education is carried out on the basis of the application of the parent of a school-age child or the legal representative there of or the contract concluded between the institution and the parent. At the 3rd level of general education - high school - students may pursue further studies only upon availability of the basic school graduation certificate.
 
 The admission to school of children of a citizen belonging to a national minority is carried out through instructing the child in his or her national (native) language or at school (classroom) providing a course in that language and in case of absence thereof the choice of the language of instruction is made by the parents of the children (learners).
 
@@ -462,8 +451,6 @@ In all those settlements, where the general education institution is the only st
 
 > 16 Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
 
-□ Multilingual and intercultural education is supported
-
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
@@ -472,7 +459,7 @@ Admission to state and accredited non-state institutions of preliminary (craftsm
 
 For the purpose of sparking interest in preliminary (craftsmanship) professional and middle vocational education and increasing the enrolment of learners at this level, since 2011-2012 academic year admission has been carried out without admission examinations, except for professions pertaining to the fields of art, healthcare and sports. In this case, the competition-based admission (including primary vocational (handicraft)) is carried out on the basis of arithmetic mean of the grades in the graduation document and the total sum of the grades in the subjects considered to be competitive.
 
-Admission to  a  higher  professional  education  institution  is  carried  out  pursuant  to  Procedure  for admission to state and non-state higher education institutions (according to Bachelor's degree education programme) approved by point 1 of the Decision of the Government of the Republic of Armenia No 597N of 26 April 2012.
+Admission to a higher professional education institution is carried out pursuant to Procedure for admission to state and non-state higher education institutions (according to Bachelor's degree education programme) approved by point 1 of the Decision of the Government of the Republic of Armenia No 597-N of 26 April 2012.
 
 Admission to higher professional education institutions of the Republic of Armenia is also carried out on a competitive basis, based on admission examinations.
 
@@ -500,7 +487,7 @@ As  a  result  of  the  assessment  of  special  educational  needs,  starting  
 
 During 2021-2024, the Republican Pedagogical-Psychological Center conducted 533 training courses on child protection topics (inclusion, exclusion of discrimination and equal opportunities, bullying, and prevention of violence) for 11,270 employees of educational institutions.
 
-The educational materials, modules, and guidelines used during the training courses are available on the https://hmk.am/en/hratarakutyunner-en/ publications subpage of the official website of the Republican Pedagogical-Psychological Center (below are the links).
+The educational materials, modules, and guidelines used during the training courses are available on the https://hmk.am/en/hratarakutyunner-en/publications subpage of the official website of the Republican Pedagogical-Psychological Center (below are the links).
 
 ' Individual Educational Plan ' Methodological Guideline
 
@@ -606,38 +593,24 @@ Prior to the introduction of the new State Standard of General Education, the co
 
 #### Other relevant general measures, including gender equality
 
-- Legislation provides for gender equality in education
-
-- Policy measures aim to enhance gender equality
-
-- All barriers for pregnant girls and young mothers in education are eliminated to ensure the continuity of their education
+✓ Legislation provides for gender equality in education
+✓ Policy measures aim to enhance gender equality
+✓ All barriers for pregnant girls and young mothers in education are eliminated to ensure the continuity of their education
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
 
-- Gender-responsive  education planning is undertaken
-
-sector
-
+✓ Gender-responsive education sector planning is undertaken
 □ Providing positive or affirmative action measures
-
 □ Providing financial incentives and fellowships
-
-- Teachers are trained (initial and in-service) on gender equality
-
-- Teachers are trained to combat stigmatisation 19
-
+✓ Teachers are trained (initial and in-service) on gender equality
+✓ Teachers are trained to combat stigmatisation 19
 □ Other:
-
-□ Re -entry programmes for young mothers are provided for
-
-- Ensuring safe and adequate gender-sensitive sanitation facilities 20
-
-- Curricula are rid of all stereotypes 21  and bias
-
-- Ensuring gender parity in science, technology, engineering and mathematics (STEM)
-
+□ Re-entry programmes for young mothers are provided for
+✓ Ensuring safe and adequate gender-sensitive sanitation facilities 20
+✓ Curricula are rid of all stereotypes 21 and bias
+✓ Ensuring gender parity in science, technology, engineering and mathematics (STEM)
 □ Ensuring gender parity in technical and vocational training education and training (TVET)
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
@@ -654,7 +627,7 @@ Other steps:
 
 > 19 ' Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them' (Cambridge Dictionary).
 
-> 20 ' Gendersensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
+> 20 ‘Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal’ (UNGEI blog post, Gender-sensitive sanitation, 2018)
 
 > 21 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
 
@@ -674,9 +647,9 @@ Despite the fact that there are no elements of gender discrimination in educatio
 
 - Does the legal minimum age for marriage conform to international standards (18 years)  22 :
 
-Please note that child marriage is a discriminatory practice as often girls can marry at a younger agethan boys. Child marriage violates the child's right to education as they are more likely to drop out of school and children who are not in school are more likely to get married.
+Please note that child marriage is a discriminatory practice as often girls can marry at a younger age than boys. Child marriage violates the child’s right to education as they are more likely to drop out of school and children who are not in school are more likely to get married.
 
-- Yes  □ No
+✓ Yes □ No
 
 - Please provide reference to the relevant laws and provisions and indicate the exceptions to the legal age of marriage as well as the absolute minimum age:
 
@@ -688,15 +661,14 @@ Currently, legislative reforms on raising the age limit for marriage are being d
 
 For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities.
 
-- Legislation provides for the right to education of national minorities
-
-- Policy measures aim to enhance the right to education of national minorities
+✓ Legislation provides for the right to education of national minorities
+✓ Policy measures aim to enhance the right to education of national minorities
 
 □ Teachers are trained on intercultural education
 
 □ Teachers are trained to combat stigmatisation 24
 
-> 22 Please note that according to the Joint general recommendation No. 31 of the Committee on the Elimination of Discrimination against Women/general comment No. 18 of the Committee on the Rights of the Child on harmful practice, para. 20: 'a marriage of a ma ture, capable child below 18 years of age may be allowed in exceptional circumstances, provided that the child is at least 16 years of age and that such decisions are made by a judge based on legitimate exceptional grounds defined by law and on the evidence of maturity, without deference to culture and tradition.'
+> 22 Please note that according to the Joint general recommendation No. 31 of the Committee on the Elimination of Discrimination against Women/general comment No. 18 of the Committee on the Rights of the Child on harmful practice, para. 20: “a marriage of a mature, capable child below 18 years of age may be allowed in exceptional circumstances, provided that the child is at least 16 years of age and that such decisions are made by a judge based on legitimate exceptional grounds defined by law and on the evidence of maturity, without deference to culture and tradition.”
 
 > 24 Supra note 15.
 
@@ -704,35 +676,27 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 
 [[START OF PAGE 22]]
 
-- Policy elaboration includes consultations with local communities
-
-- The right to carry out their own educational activities is legally guaranteed for national minorities
-
+✓ Policy elaboration includes consultations with local communities
+✓ The right to carry out their own educational activities is legally guaranteed for national minorities
 □ Educational standards are established for educational institutions run by national minorities
-
-- Positive or affirmative action measures are provided for national minorities
-
+✓ Positive or affirmative action measures are provided for national minorities
 □ Financial incentives and fellowships are provided for national minorities
-
-□ Other 23 :
+□ Other 23:
+□ Multilingual and intercultural education are supported
+✓ Native language instruction is ensured for national minorities
+✓ Adapting curricula and teaching and learning methods to their needs for national minorities
+✓ Curricula are rid of all stereotypes 25 and bias
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-The Constitution of the Republic of Armenia is deemed as the main core element for implementation of state policy on the protection of the rights of persons holding affiliation to national minorities. In particular, pursuant to Article 38 of the amendments made to the Constitution of the Republic of Armenia adopted on 6 December 2015: ' Everyone shall have the right to education. The programmes on and duration of compulsory education shall be prescribed by law. Secondary education in state education institutions shall be free of charge. Everyone shall, in the cases and under the procedure provided for by law, have the right to receive free education on a competitive basis in state higher and other vocational education institutions ' .  While Article 56 states: ' Everyone shall have the right to preserve his or her national and ethnic identity. Persons holding affiliation to national minorities shall have the right to preserve and develop their traditions, religion, language and culture ' .
+The Constitution of the Republic of Armenia is deemed as the main core element for implementation of state policy on the protection of the rights of persons holding affiliation to national minorities. In particular, pursuant to Article 38 of the amendments made to the Constitution of the Republic of Armenia adopted on 6 December 2015: “Everyone shall have the right to education. The programmes on and duration of compulsory education shall be prescribed by law. Secondary education in state education institutions shall be free of charge. Everyone shall, in the cases and under the procedure provided for by law, have the right to receive free education on a competitive basis in state higher and other vocational education institutions”. While Article 56 states: “Everyone shall have the right to preserve his or her national and ethnic identity. Persons holding affiliation to national minorities shall have the right to preserve and develop their traditions, religion, language and culture”.
 
-Pursuant to the Laws of the Republic of Armenia ' On general education ' and ' On language ' ,  the general education and upbringing in the communities of national minorities of the Republic of Armenia may be organised  in  their  native  language,  within  state  programme  and  under  state  sponsorship,  by compulsory instruction of the Armenian language.
+Pursuant to the Laws of the Republic of Armenia “On general education” and “On language”, the general education and upbringing in the communities of national minorities of the Republic of Armenia may be organised in their native language, within state programme and under state sponsorship, by compulsory instruction of the Armenian language.
 
-At the same time, pursuant to Decision of the Government of the Republic of Armenia No 1392-N of 25 July 2002, in individual cases (at schools in mountainous, highland, borderline rural settlements, in urban and rural schools possessing classes in the languages of national minorities and in other cases) a class with less learners may be opened upon the authorisation of the Ministry of Education and Science of the Republic of Armenia. This Decision provides an opportunity of opening classes comprised of only Yezidi children in Yezidi-populated communities. Pursuant to the Procedure ' For enrolment of a learner in  an  educational  institution  implementing  basic  general  education  programmes  of  the  Republic  of Armenia, for the transfer and dismissal of a learner from the institution, as well as for the organisation of education  of  children  having  been  enrolled  in  general  education  later  than  the  prescribed  period ' ,
+At the same time, pursuant to Decision of the Government of the Republic of Armenia No 1392-N of 25 July 2002, in individual cases (at schools in mountainous, highland, borderline rural settlements, in urban and rural schools possessing classes in the languages of national minorities and in other cases) a class with less learners may be opened upon the authorisation of the Ministry of Education and Science of the Republic of Armenia. This Decision provides an opportunity of opening classes comprised of only Yezidi children in Yezidi-populated communities. Pursuant to the Procedure “For enrolment of a learner in an educational institution implementing basic general education programmes of the Republic of Armenia, for the transfer and dismissal of a learner from the institution, as well as for the organisation of education of children having been enrolled in general education later than the prescribed period”,
 
-> 23 Please see: UNESCO report 'The right to education of minorities: Overview of States' measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023. 25 Supra note 16.
-
-□ Multilingual and intercultural education are supported
-
-- Native language instruction is ensured for national minorities
-
-- Adapting curricula and teaching and learning methods to their needs for national minorities
-
-- Curricula are rid of all stereotypes 25  and bias
+> 23 Please see: UNESCO report ‘The right to education of minorities: Overview of States’ measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023.
+> 25 Supra note 16.
 
 [[END OF PAGE 22]]
 
@@ -742,15 +706,15 @@ approved by the Order of the Minister of Education and Science of the Republic o
 
 Each year school textbooks are published and republished for the schools of national minorities, and regular training is conducted for teachers of the schools of national minorities.
 
-Each year the Ministry of Education, Science, Culture and Sport of the Republic of Armenia approves model curriculum of general education schools (classes) of national minorities where class hours are allocated for studying native language, literature, culture and history of national minorities for the 1st12th grades (41 class hours per week).
+Each year the Ministry of Education, Science, Culture and Sport of the Republic of Armenia approves model curriculum of general education schools (classes) of national minorities where class hours are allocated for studying native language, literature, culture and history of national minorities for the 1st-12th grades (41 class hours per week).
 
-For the instruction of the subject entitled ' Native Language and Literature ' 4 class hours a week are allocated for 1st-5th grades each, and 3 class hours a week - for the 6 th-12th grades each.
+For the instruction of the subject entitled “Native Language and Literature” 4 class hours a week are allocated for 1st-5th grades each, and 3 class hours a week - for the 6th-12th grades each.
 
 Furthermore, in the settlements with mixed populations where the number of national minorities is small, an opportunity of facultative instruction of language is envisaged. The instruction of Yezidi and Kurdish is carried out in elementary grades of the schools of rural areas resided by Yezidis and Kurds in case of availability of relevant specialists, irrespective of the number of children.
 
 On the basis of preliminary applications submitted by the communities of national minorities residing in Armenia funds are allocated from the State Budget for the publication of textbooks.
 
-Classes with  the  instruction  of  the  Russian  language  operate  in  42  general  education  schools  for  the population of Russian and Slavic national origin, where the instruction of general education subjects is carried  out  in  Russian,  except  for  the  subjects  entitled ' Armenian  language  and  literature ' and  the ' History of Armenia ' .  Meanwhile, around 60 general education schools are available in the Republic, which provide advanced instruction of the Russian language: the Russian language is taught starting from the  1 st grade.  Special  textbooks  and  methodological  manuals  have  been  published  for  these  schools. Textbooks recommended by the Ministry of Education and Science of the Russian Federation, as well as syllabuses recommended and approved by the Ministry of Education, Science, Culture and Sport of the Republic of  Armenia are used at schools (classes) with the instruction of Russian language.
+Classes with the instruction of the Russian language operate in 42 general education schools for the population of Russian and Slavic national origin, where the instruction of general education subjects is carried out in Russian, except for the subjects entitled “Armenian language and literature” and the “History of Armenia”. Meanwhile, around 60 general education schools are available in the Republic, which provide advanced instruction of the Russian language: the Russian language is taught starting from the 1st grade. Special textbooks and methodological manuals have been published for these schools. Textbooks recommended by the Ministry of Education and Science of the Russian Federation, as well as syllabuses recommended and approved by the Ministry of Education, Science, Culture and Sport of the Republic of Armenia are used at schools (classes) with the instruction of Russian language.
 
 The applicants holding affiliation to national minorities of the Republic of Armenia are admitted to higher education institutions both on general grounds and based on the applications submitted by the heads of national minorities.
 
@@ -802,13 +766,8 @@ Not applicable: 98.1% of the population of the Republic of Armenia is Armenians.
 
 - What challenges were encountered in realizing the right to education of indigenous people? If needed, brief quantitative information may be added.
 
-26
-
-27
-
-Supra note 15.
-
-Supra note 16.
+> 26 Supra note 15.
+> 27 Supra note 16.
 
 [[END OF PAGE 24]]
 
@@ -816,35 +775,24 @@ Supra note 16.
 
 #### People  on  the  move  (migrants,  refugees,  asylum-seekers,  stateless  persons  and  internally  displaced persons) and trapped populations 28 :
 
-- Legislation provides for their right to education
-
-- Policy measures aim to enhance their right to education
-
-- Inclusion in mainstream schools is ensured
-
-- Positive or affirmative action measures are provided for
-
-- All administrative barriers to access education are removed
-
-- Alternative administrative procedures (placement tests, portfolio of evidence, etc.) to overcome administrative barriers 29  are provided for
-
-- Teachers are specifically trained to ensure their inclusion
+✓ Legislation provides for their right to education
+✓ Policy measures aim to enhance their right to education
+✓ Inclusion in mainstream schools is ensured
+✓ Positive or affirmative action measures are provided for
+✓ All administrative barriers to access education are removed
+✓ Alternative administrative procedures (placement tests, portfolio of evidence, etc.) to overcome administrative barriers 29 are provided for
+✓ Teachers are specifically trained to ensure their inclusion
 
 □ Teachers are trained to combat stigmatisation 30
 
 □ Other:
 
-- Financial incentives and fellowships are provided for
-
+✓ Financial incentives and fellowships are provided for
 Auxiliary assistance is provided
-
 □ Multiple and flexible learning pathways 31 are provided
-
-□ Curricula are rid of all stereotypes 32  and bias
-
+□ Curricula are rid of all stereotypes 32 and bias
 □ Accelerated learning programmes are provided
-
-- Non-formal and/or alternative education programmes are provided
+✓ Non-formal and/or alternative education programmes are provided
 
 □ Language classes to newcomers are provided for
 
@@ -856,7 +804,7 @@ In September 2023,  the entire indigenous Armenian population of  Nagorno-Karaba
 
 The humanitarian crisis and  forced  displacement have created an urgent need to ensure access to education and continuity of education for around 17,000   children (almost all are involved in public schools), as well as for 3709 students of state TVET and higher educational institutions.
 
-At the same time, around 150 students from Nagorno-Karabakh have been readmitted/transferred to non-state TVET educational institutions of the Republic of Armenia or continued education at state TVET educational institutions (those are students from general schools of NagornoKarabakh); those students' tuition fees are not reimbursed by the state.
+At the same time, around 150 students from Nagorno-Karabakh have been readmitted/transferred to non-state TVET educational institutions of the Republic of Armenia or continued education at state TVET educational institutions (those are students from general schools of Nagorno-Karabakh); those students’ tuition fees are not reimbursed by the state.
 
 > 28 'Trapped  populations  are  those  who  are  unable  to  migrate  to  safe  locations  and  remain  trapped  in  locations vulnerable to the impacts of climate hazards' ( UNESCO report: The impact of climate displacement on the right to education, 2020, p. 2).
 
@@ -902,11 +850,11 @@ The ' National Center of Educational Technologies ' has launched a new  platform
 
 [[START OF PAGE 27]]
 
-dated  October  12,  2023  of  the  Government  of  the  Republic  of  Armenia ' On approving  the  support program for forcibly displaced teachers from Nagorno-Karabakh in 2023 ' . Through the platform teachers have the opportunity to find a vacancy in the subject they specialize in their convenient place of residence and receive a 30% bonus within 2 years. And the teachers in Syunik, Vayots Dzor Marzes, Chambarak and Vardenis communities of Gegharkunik Marz and Noyemberyan, Ijevan, and Berd communities of Tavush Marz will be given another 50 ․ 000 drams fixed bonus. With this program, more than 330 teachers are already working in Marzes.
+dated October 12, 2023 of the Government of the Republic of Armenia “On approving the support program for forcibly displaced teachers from Nagorno-Karabakh in 2023”. Through the platform teachers have the opportunity to find a vacancy in the subject they specialize in their convenient place of residence and receive a 30% bonus within 2 years. And the teachers in Syunik, Vayots Dzor Marzes, Chambarak and Vardenis communities of Gegharkunik Marz and Noyemberyan, Ijevan, and Berd communities of Tavush Marz will be given another 50․000 drams fixed bonus. With this program, more than 330 teachers are already working in Marzes.
 
 More than 500 teachers forcibly displaced from Nagorno-Karabakh are currently involved (work) in the public secondary schools, of which 330 have been employed within the framework of the mentioned program in the  Republic of Armenia regions (marzes), and  others  are working in Yerevan schools or have participated in competitions announced for vacancies and have been employed on a general basis.
 
-The Republican Pedagogical-Psychological Center of the Ministry of Education, Science, Culture and  Sport  of  the  Republic  of  Armenia  currently  is  implementing the  project  'Inclusion  of  forcibly displaced  refugee  children  from  Nagorno-Karabakh  in  education  process  through  promoting  their psychosocial resilience' in the framework of UNESCO Emergency Assistance through the Participation Programme.  The  projects  envisages  training  of schools'  psychologists  and  development  of  a  relevant module and a handbook for addressing the psychological needs of the refugee children.
+The Republican Pedagogical-Psychological Center of the Ministry of Education, Science, Culture and Sport of the Republic of Armenia currently is implementing the project “Inclusion of forcibly displaced refugee children from Nagorno-Karabakh in education process through promoting their psycho-social resilience” in the framework of UNESCO Emergency Assistance through the Participation Programme. The projects envisages training of schools’ psychologists and development of a relevant module and a handbook for addressing the psychological needs of the refugee children.
 
 UNICEF  implemented  a  program  to  introduce  psychological  support  services  in  educational institutions, within the framework of which 300 teachers and 50 psychologists from 5 regions of the Republic of Armenia were trained.
 
@@ -920,9 +868,9 @@ All these support programs/measures have enabled higher educational and TVET ins
 
 - Have specific measures been adopted for climate displaced persons?
 
-Yes
+□ Yes
 
-- No
+✓ No
 
 - Please elaborate:
 
@@ -936,43 +884,43 @@ Higher  education  institutions  mostly  face  the  problems  concerning  the  d
 
 #### People with disabilities:
 
-- Legislation provides for their right to education
+✓ Legislation provides for their right to education
 
-- Policy measures aim to enhance their right to education
+✓ Policy measures aim to enhance their right to education
 
-- Inclusion in mainstream schools is ensured
+✓ Inclusion in mainstream schools is ensured
 
-- Special schools are used as resource centers to inclusive schools
+✓ Special schools are used as resource centers to inclusive schools
 
 □ Positive or affirmative action measures are provided
 
-- Financial incentives and fellowships are provided
+✓ Financial incentives and fellowships are provided
 
 □ Other
 
+□ Mainstream teachers are specifically trained on disabilities
+
+□ Teachers are trained to combat stigmatisation33
+
+□ Auxiliary assistance is provided
+
+✓ Curricula and teaching and learning methods are adapted
+
+□ Curricula are rid of all stereotypes34 and bias
+
+✓ Education infrastructure and learning materials are adapted
+
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-The Law of the Republic of Armenia ' On the rights of persons with disabilities ' stipulates that in the cases and procedure defined by the legislation, special measures creating more favourable conditions may be established for the exercise of the rights and duties of persons with disabilities, as well as certain groups of persons with disabilities, in order to ensure equal opportunities with others. Special measures aimed at ensuring  equal  opportunities  for  persons  with  disabilities  with  others  cannot  be  considered  as discrimination if they are proportionate, appropriate and necessary to achieve the legitimate objective pursued (Article 15, Part 1).
+The Law of the Republic of Armenia “On the rights of persons with disabilities” stipulates that in the cases and procedure defined by the legislation, special measures creating more favourable conditions may be established for the exercise of the rights and duties of persons with disabilities, as well as certain groups of persons with disabilities, in order to ensure equal opportunities with others. Special measures aimed at ensuring equal opportunities for persons with disabilities with others cannot be considered as discrimination if they are proportionate, appropriate and necessary to achieve the legitimate objective pursued (Article 15, Part 1).
 
-In particular, persons with disabilities having gained positive marks during admission examinations shall,  in  case  of  other  equal  conditions,  enjoy  the  right  to  priority  in  respect  of  admission  to  state preliminary (craftsmanship) professional, state middle vocational, state and accredited non-state higher educational institutions.
+In particular, persons with disabilities having gained positive marks during admission examinations shall, in case of other equal conditions, enjoy the right to priority in respect of admission to state preliminary (craftsmanship) professional, state middle vocational, state and accredited non-state higher educational institutions.
 
 Persons with severe and profound functional limitation, and in the case of children, persons with a moderate degree of functional limitation, in case of gaining at least the passing scores designed for the paid system at admission examinations shall be admitted to free of charge system of state
 
 > 33 Supra note 15.
 
 > 34 Supra note 16.
-
-□ Mainstream teachers are specifically trained on disabilities
-
-□ Teachers are trained to combat stigmatisation 33
-
-□ Auxiliary assistance is provided
-
-- Curricula and teaching and learning methods are adapted
-
-□ Curricula are rid of all stereotypes 34  and bias
-
-- Education infrastructure and learning materials are adapted
 
 [[END OF PAGE 28]]
 
@@ -990,37 +938,35 @@ By decision N 1265-N of the Government of the Republic of Armenia of August 11, 
 
 Types of reasonable adjustments include:
 
-- adaptations of a non-technological nature - adaptations for which no financial expenditure is required,
+1) adaptations of a non-technological nature - adaptations for which no financial expenditure is required,
 
-- adaptations requiring low-tech solutions - simple adaptations, do not cause additional difficulties,
+2) adaptations requiring low-tech solutions - simple adaptations, do not cause additional difficulties,
 
-- adaptations requiring high-tech solutions: adaptations in which advanced or complex devices are used,
+3) adaptations requiring high-tech solutions: adaptations in which advanced or complex devices are used,
 
-- support in performing any action (accompaniers, interpreter/translator, sign language interpreter, note taker, etc.).
+4) support in performing any action (accompaniers, interpreter/translator, sign language interpreter, note taker, etc.).
 
 In  case  of  reasonable  adjustment  provision,  the  person  will  be  able  to  perform  satisfactorily  the activities he or she is required to perform or is expected to perform upon admission to an educational institution to participate equally with others in the educational process.
 
 A person has the right to receive reasonable adjustments regardless of sex, race, color, ethnic or social origin, genetic characteristics, language, religion, world view, political or other views, membership of a national minority, property status, birth, disability, age, from other circumstances of a personal or social nature.
 
-Also, the RA G overnment's decision N 1481 -Ն of September 22, 2022, approved the new funding procedure  for  RA  state  public  educational  institutions,  according  to  which  each  year  1/3  of  the institutions will receive an allocation of about 3.3 million AMD  (for  providing educational accommodations and accessibility).
+Also, the RA Government’s decision N 1481-Ն of September 22, 2022, approved the new funding procedure for RA state public educational institutions, according to which each year 1/3 of the institutions will receive an allocation of about 3.3 million AMD (for providing educational accommodations and accessibility).
 
 The  financial  allocations  are  also  intended  to  improve  the  building  conditions  of  educational institutions.  Particularly,  to  provide  an  accessible  environment  for  people  with  physical  disabilities, ramps, adapted bathrooms, elevators, etc. are being built.
 
-As for the newly constructed school buildings, the requirements for them are defined by the order N 103-N of the Minister of Urban Development of the Republic of Armenia dated April 9, 2014, 'On approval of construction norms for Public educational buildings'. The newly constructed buildings are adapted for people with physical disabilities.
+As for the newly constructed school buildings, the requirements for them are defined by the order N 103-N of the Minister of Urban Development of the Republic of Armenia dated April 9, 2014, “On
 
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
 
-35
+approval of construction norms for Public educational buildings”. The newly constructed buildings are adapted for people with physical disabilities.
 
-36
-
-Also, in the Republic of Armenia,  there is a special public school for children with locomotor system problems.
+Also, in the Republic of Armenia, there is a special public school for children with locomotor system problems.
 
 Within the framework of the process of total inclusive education, the posts of teacher's assistant and psychologist have been introduced in all public schools of the Republic of Armenia.
 
-The legal relations regarding the education of students learning in general education level, but unable to  attend  due  to  health  conditions,  treatment  at  home,  hospital  conditions  (including  abroad)  are regulated in accordance with the provisions of the order of the Minister of Education, Science, Culture and Sports of RA N 31Н of August 29, 2022. The basis for the organization of home education is the certificate given by the medical institution about the student's health and (or) the form of treatment and the written application of the student's parent (or legal representative), as well as the contract signed between the parent and the educational institution.
+The legal relations regarding the education of students learning in general education level, but unable to attend due to health conditions, treatment at home, hospital conditions (including abroad) are regulated in accordance with the provisions of the order of the Minister of Education, Science, Culture and Sports of RA N 31-Н of August 29, 2022. The basis for the organization of home education is the certificate given by the medical institution about the student's health and (or) the form of treatment and the written application of the student's parent (or legal representative), as well as the contract signed between the parent and the educational institution.
 
 According to the Decision of the Government of the RA No 1784 approved in 2021, with regard to the number of free of charge education places,a student allowance is given topersons (children) with disabilities with severe and deep, and in the case of children, with moderate limitations of functionality defined by the Law ' On the Rights of Persons with Disabilities ' .
 
@@ -1028,25 +974,25 @@ As to the higher education institutions, measures are taken to adapt the buildin
 
 Besides, students with disability of 1st or 2nd group, including students having parents deemed as freedom fighters with disabilities receive a tuition discount in the amount of at least 30 per cent.
 
-See  the ' 1.1  Nondiscrimination  and  equality  in  education'  and  '1.2 Equality  of  opportunities  and inclusion in education' sections.
+See the “1.1 Non-discrimination and equality in education” and “1.2 Equality of opportunities and inclusion in education” sections.
 
 - What challenges were encountered in realizing the right to education of people with disabilities? If needed, brief quantitative information may be added.
 
 #### Students from poor households:
 
-- Financial incentives and fellowships for school enrolment are provided
+✓ Financial incentives and fellowships for school enrolment are provided
 
-- Transport, meals and education material  are  subsidised  or  provided free  of  charge  beyond  compulsory education
+✓ Transport, meals and education material are subsidised or provided free of charge beyond compulsory education
 
 □ Positive or affirmative action measures are provided
 
-> Supra note 15.
+□ Teachers are trained to combat stigmatisation35
 
-> Supra note 16.
+□ Curricula are rid of all stereotypes36 and bias
 
-□ Teachers are trained to combat stigmatisation 35
+> 35 Supra note 15.
 
-□ Curricula are rid of all stereotypes 36 and bias
+> 36 Supra note 16.
 
 [[END OF PAGE 30]]
 
@@ -1084,25 +1030,23 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 
 - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked):
 
-□ Prior to pre -primary education, ECCE services are free
+□ Prior to pre-primary education, ECCE services are free
 
-□ Prior to pre -primary education, ECCE services are affordable
+□ Prior to pre-primary education, ECCE services are affordable
 
-- ECCE services are accessible on a nondiscriminatory basis
+✓ ECCE services are accessible on a non-discriminatory basis
 
-□ ECCE services respect a child's need for early cognitive and social development,
-
-foundational learning, responsive care, nutrition, health, safety, protection, and play.
+□ ECCE services respect a child’s need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
 - Please elaborate further on the measures taken:
 
-Pre-primary education is regulated by the Constitution, the laws on Education, General Education, Preprimary  education,  Local  Administration,  Child  Rights,  State  Non-Profit  Organisations,  by  Labour  and Family Codes, by the Republic of Armenia international agreements, other laws and legal acts.
+Pre-primary education is regulated by the Constitution, the laws on Education, General Education, Pre-primary education, Local Administration, Child Rights, State Non-Profit Organisations, by Labour and Family Codes, by the Republic of Armenia international agreements, other laws and legal acts.
 
 In  Armenia  preschool  education  is  not  mandatory.  The  preschool  age  is  0-6-year-old.  Preschool Institutions (hereafter: PSI) are administered by communities. Not all the communities have operating PSIs, therefore child access level to Pre-primary is low. In particular, according to the data for 2023, child access to PSIs (within 0-5 age population) was 77587 or 71% of relevant age group.
 
 To  ensure  sustainability  of  preschool  programs  that  functions  a  part  of  secondary  primary  school, allocations are made from the Republic of Armenia state budget due to estimations calculated by formula for an annual spending per child in primary level. In 2019 the budget allocations mentioned above were directed  for  organising  preschool  education  of  7000  children.  In  Yerevan  the  community-based kindergartens are free of charge due to the community budget allocations. Kindergartens in regions may have charges depends on the decision of community governing bodies
 
-Following the requirements of Education 2030: Incheon Declaration and Framework for Action Towards inclusive and equitable quality education and lifelong learning for all and Education for All Declaration, on May 6, 2020, the National Assembly of Armenia has adopted the RA Law on Amendments to the Law on Preschool Education which includes the following activity framework:
+Following the requirements of Education 2030: Incheon Declaration and Framework for Action Towards inclusive and equitable quality education and lifelong learning for all and Education for All Declaration, on
 
 > 37 Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'.
 
@@ -1112,13 +1056,15 @@ Following the requirements of Education 2030: Incheon Declaration and Framework 
 
 [[START OF PAGE 33]]
 
--Diversify the types of organising preschool education
+May 6, 2020, the National Assembly of Armenia has adopted the RA Law on Amendments to the Law on Preschool Education which includes the following activity framework:
 
--Expansion of preschool services with special attention to rural and bordering settlements,
+- Diversify the types of organising preschool education
 
--Establish alternative cost effective models
+- Expansion of preschool services with special attention to rural and bordering settlements,
 
--Set conditions for inclusion of children in need of special educational conditions.
+- Establish alternative cost effective models
+
+- Set conditions for inclusion of children in need of special educational conditions.
 
 In particular, the first part of Article 4 of the Law states that the Republic of Armenia declares and ensures inclusivity, accessibility and quality of preschool education as an important guarantee for securing each  child's  right  to  education,  development and  upbringing,  secure  environment,  maintaining  and strengthening life and health.
 
@@ -1134,11 +1080,11 @@ The final target (2030) of the Education Strategy is that affordable preschool s
 
 □ Pre-primary education is compulsory. Please provide the age of enrolment and duration:
 
-- Pre-primary education is not compulsory.
+✓ Pre-primary education is not compulsory.
 
 □ Pre-primary education is free of charge for all. Please provide the duration and indicate the extent to which it is free:
 
-- Pre-primary education is not free.
+✓ Pre-primary education is not free.
 
 [[END OF PAGE 33]]
 
@@ -1148,11 +1094,11 @@ The final target (2030) of the Education Strategy is that affordable preschool s
 
 At the point 2.2 of this section duration of Pre-primary education is filled, however according to the acting legislation pre-primary education is not compulsory.
 
-According to the Decree of Yerevan Mayor (N 706А 04.03.2016) Yerevan municipal kindergartens are free of charge. The other kindergartens in 10 regions (marzes) of Armenia are not free of charge.
+According to the Decree of Yerevan Mayor (N 706-А 04.03.2016) Yerevan municipal kindergartens are free of charge. The other kindergartens in 10 regions (marzes) of Armenia are not free of charge.
 
--  What  challenges  were  encountered  in  realizing  early  childhood  care  and  education  and  preprimary education?
+- What challenges were encountered in realizing early childhood care and education and pre-primary education?
 
-- Limited access
+✓ Limited access
 
 □ Issues of equity and inclusion
 
@@ -1162,7 +1108,7 @@ According to the Decree of Yerevan Mayor (N 706А 04.03.2016) Yerevan municipal 
 
 □ Poor learning outcomes
 
-- Low number of professionally trained educators
+✓ Low number of professionally trained educators
 
 □ Lack of support to families
 
@@ -1172,7 +1118,7 @@ The  financial  resources  of  Republic  of  Armenia  communities  are  limited 
 
 In recent years, the lacking number of Pre-primary institutions in the country has been especially emphasized, however the quality of the educational process in these institutions is equally important. According to the new standards of Pre-primary education endorsed by the Government of the Republic of Armenia, children must be provided with flexible, adaptable and age-appropriate programmes, along with appropriate teaching materials to be developed for children of different age groups.
 
-Lacking pedagogical staff, especially in small settlements, is one of the most serious issues of the Preprimary education system. The lack of pedagogical and service staff, creates significant difficulties for PSIs. At the same time, the age of pedagogues tends to increase (almost 36.3% have work experience of 16  years  or  more),  while  the  younger  human  resources  are  lacking  sufficient  practical  skills  and theoretical knowledge.
+Lacking pedagogical staff, especially in small settlements, is one of the most serious issues of the Pre-primary education system. The lack of pedagogical and service staff, creates significant difficulties for PSIs. At the same time, the age of pedagogues tends to increase (almost 36.3% have work experience of 16 years or more), while the younger human resources are lacking sufficient practical skills and theoretical knowledge.
 
 - Please elaborate. Brief quantitative information may be added.
 
@@ -1194,11 +1140,11 @@ The age of enrolment to primary education is 6 years old, and duration is 4 year
 
 - Is primary education compulsory and free of charge?
 
-- Primary education is compulsory
+✓ Primary education is compulsory
 
 □ Primary education is not compulsory.
 
-- Primary education is free of charge.
+✓ Primary education is free of charge.
 
 □ Primary education is not free.
 
@@ -1210,11 +1156,11 @@ At  the  expense  of  the  state  budget  the  state  provides  to  primary  sch
 
 Pursuant  to  the  laws  of  the  Republic  of  Armenia ' On  education ' and ' On  general  education ' , elementary education, being the first degree of secondary education, is free of charge and compulsory. Until 2015, the basic general education was compulsory, but on 8 April 2015 amendments were made to the Law of the Republic of Armenia ' On general education ' , by virtue of which part 4 of Article 4 of the Law was amended to read as follows:
 
-' 4. Secondary education shall be compulsory, except for the cases prescribed by law.
+“4. Secondary education shall be compulsory, except for the cases prescribed by law.
 
-- Secondary education shall be free of charge at state education institutions.
+5. Secondary education shall be free of charge at state education institutions.
 
-- A 12-year secondary education shall be provided in the Republic of Armenia ' .
+6. A 12-year secondary education shall be provided in the Republic of Armenia”.
 
 The  provision  of  the  law,  which  stipulates  the  requirement  of  compulsory  secondary  education, entered into force on 1 June, 2017, before which basic education will be considered mandatory.
 
@@ -1234,7 +1180,7 @@ Thus, the 2nd degree of general education, i.e. basic education, comprises also 
 
 Admission to the first grade of school is open for those children who have reached the age of six or are due on December 31 of the given calendar year.
 
-Pursuant to the laws of the Republic of Armenia ' On education ' and ' On general education ' the 12year secondary education in state educational institutions is free of charge.
+Pursuant to the laws of the Republic of Armenia “On education” and “On general education” the 12-year secondary education in state educational institutions is free of charge.
 
 - What challenges were encountered in realizing primary education?
 
@@ -1248,7 +1194,7 @@ Pursuant to the laws of the Republic of Armenia ' On education ' and ' On genera
 
 □ Other:
 
-- Poor learning outcomes in:
+✓ Poor learning outcomes in:
 
 Foundation literacy
 
@@ -1266,11 +1212,13 @@ In recent years, the gross enrolment rate in the general education sector has be
 
 Despite the relevant changes in the RA Law on General Education in 2014 shifting the Republic of Armenia to universal inclusive education, there is still much to be done in this area. The capacity of secondary schools to provide education to children with special educational needs is limited; adapted physical and learning environment is lacking. Currently, the requirements from school buildings are compounded by those of inclusion and disaster risk management.
 
-Another matter of urgency is the improvement of the physical conditions in school buildings and availability of material and technical resources meeting international standards that has a direct link with  student  achievement.  This  relates  both  to  school  infrastructures  in  place  including  utilities, communication, etc., as well as the adequacy of facilities and equipment, and availability of required utensils and resources. The effect is especially significant when it comes to outcomes in the area of natural sciences. In case of schools where the students have indicated infrastructure-related problems, they have scored a minimum of ten points lower in learning outcomes compared to their counterparts from schools that have not reported such problems.
+Another matter of urgency is the improvement of the physical conditions in school buildings and availability of material and technical resources meeting international standards that has a direct link with student achievement. This relates both to school infrastructures in place including utilities, communication, etc., as well as the adequacy of facilities and equipment, and availability of required utensils and resources. The effect is especially significant when it comes to outcomes in the area of natural sciences. In case of schools where the students have indicated infrastructure-related problems,
 
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
+
+they have scored a minimum of ten points lower in learning outcomes compared to their counterparts from schools that have not reported such problems.
 
 Another issue is the large number of rural schools in Armenia that have small populations: schools with up to 100 students represent 31.5% of the total number of schools, while another 35% of schools have 101-300 students. Such schools need to diversify their designation by acting at the same time as community centers offering cultural, sports and entertainment environments and infrastructures.
 
@@ -1294,19 +1242,19 @@ The age of enrolment is 15 years old, and duration is 3 years (grades 10-12).
 
 - Is lower and upper secondary education compulsory and free of charge?
 
-- Lower secondary education is compulsory.
+✓ Lower secondary education is compulsory.
 
 □ Lower secondary education is not compulsory.
 
-- Lower secondary education is free of charge.
+✓ Lower secondary education is free of charge.
 
 □ Lower secondary education is not free of charge.
 
-- Upper secondary education is compulsory.
+✓ Upper secondary education is compulsory.
 
 □ Upper secondary education is not compulsory.
 
-- Upper secondary education is free of charge
+✓ Upper secondary education is free of charge
 
 □ Upper secondary education is not free of charge.
 
@@ -1324,13 +1272,13 @@ The same as for ' primary and secondary ' .
 
 For reference: The employment laws and those related to compulsory education are interdependent and mutually reinforce each other. If the minimum age of employment is below that of compulsory education,  the  child  is  at  risk  of  dropping  out  of  school  to  work  and  therefore  not  completing compulsory education. On the other hand, if compulsory education is lower than the minimum age of  employment, once the child has completed compulsory education, the door is open to child exploitation and the violation of labour laws.
 
-- Yeso No o
+✓ Yeso No o
 
 - Please provide reference to the relevant laws and provisions and indicate how the provision is enforced:
 
 According to Article 17, Part 2, Clause 2.2 of the RA Labor Code, «Persons under the age of fourteen may be engaged in creation of works (creative work) and/or performance thereof in cinematographic, sports, theatrical and concert organisations, circuses, television and radio companies upon written consent of one of the parents/guardian/adopter or of the guardianship and custody body which must not cause harm to their health and morals, as well as must not interfere with their education or safety.
 
-Persons between the ages of fourteen and eighteen may not be engaged in work on weekends, nonworking days - holidays and memorial days -except when participating in sporting and cultural events.
+Persons between the ages of fourteen and eighteen may not be engaged in work on weekends, non-working days - holidays and memorial days -except when participating in sporting and cultural events.
 
 A temporary employment contract shall be concluded with persons under the age of 16 ' .
 
@@ -1368,11 +1316,11 @@ In 2022/2023 academic year 51 state educational institutions operated in the Rep
 
 [[START OF PAGE 39]]
 
-Education has been implemented based on the basic and secondary education. Number of students comprised 6 456, of which 23.1% female. In free of charge educational system studied 90.4% of students, paid -9.6%. Gross enrolment ratio of students constituted 5.6% (female-2.8%, male8.1%), gender parity index (coefficient of correlation of female gross enrolment to male gross enrolment) was 0.34.
+Education has been implemented based on the basic and secondary education. Number of students comprised 6 456, of which 23.1% female. In free of charge educational system studied 90.4% of students, paid – 9.6%. Gross enrolment ratio of students constituted 5.6% (female-2.8%, male8.1%), gender parity index (coefficient of correlation of female gross enrolment to male gross enrolment) was 0.34.
 
 ##### Middle vocational education
 
-In 2022/2023 academic year 99 state and non state educational institutions operated in the Republic implementing middle vocational programs, of which entrants - 11 044 (female-50.8%), students- 33 230 (female-50.9%), graduates- 7 169 (female-53.2%). Education has been implemented based on the basic and secondary education. Gross enrolment ratio of students constituted 15.3% (female16.7%, male -14.1%), gender parity index (coefficient of correlation of female gross enrolment to male gross enrolment) was 1.19.
+In 2022/2023 academic year 99 state and non state educational institutions operated in the Republic implementing middle vocational programs, of which entrants - 11 044 (female-50.8%), students- 33 230 (female-50.9%), graduates- 7 169 (female-53.2%). Education has been implemented based on the basic and secondary education. Gross enrolment ratio of students constituted 15.3% (female-16.7%, male – 14.1%), gender parity index (coefficient of correlation of female gross enrolment to male gross enrolment) was 1.19.
 
 ### 2.3 Higher education
 
@@ -1384,13 +1332,13 @@ For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  pr
 
 □ Higher education is accessible on the basis of individual capacity (as assessed by reference to relevant qualifications and experience)
 
-- Higher education is accessible through financial incentives and scholarships
+✓ Higher education is accessible through financial incentives and scholarships
 
 □ Higher education is accessible through positive or affirmative action measures
 
 □ Higher education is accessible through credit transfer system between states
 
-□ Higher education allows for multiple and flexible learning pathways (flexible entry and re -entry, recognition, validation, and accreditation of knowledge and skills acquired through non-formal and informal education).
+□ Higher education allows for multiple and flexible learning pathways (flexible entry and re-entry, recognition, validation, and accreditation of knowledge and skills acquired through non-formal and informal education).
 
 □ Other:
 
@@ -1470,11 +1418,11 @@ Regulations based on the Law on Higher and Post-graduate Professional education 
 
 - What challenges were encountered in realizing higher education?
 
-- Limited access
+✓ Limited access
 
 □ Issues of equity and inclusion
 
-- Poor quality programmes
+✓ Poor quality programmes
 
 □ Poor learning outcomes
 
@@ -1524,13 +1472,13 @@ For  reference:  Article/Paragraph  4(c)  of  the  Convention/Recommendation  pr
 
 □ Provision of literacy programmes
 
-- Provision  of  continuous  learning  (such  as  learning  programmes  to  develop  knowledge,  skills, abilities, or competencies for personal and professional development)
+✓ Provision of continuous learning (such as learning programmes to develop knowledge, skills, abilities, or competencies for personal and professional development)
 
 □ Provision of free of charge learning opportunities
 
-- Provision of professional training including reskilling and upskilling programmes
+✓ Provision of professional training including reskilling and upskilling programmes
 
-□ Recognition, validation and certification of non -formal and informal learning
+□ Recognition, validation and certification of non-formal and informal learning
 
 □ Provision of free of charge career guidance and counselling
 
@@ -1544,13 +1492,13 @@ Evaluation and recognition of non-formal and informal learning outcomes is a vol
 
 Non-formal and informal learning outcome evaluation, recognition and certification shall be organised and carried out in the following stages:
 
-- the process of evaluation and recognition of a candidate's application;
+1) the process of evaluation and recognition of a candidate’s application;
 
-- comparing, assessment of a person's knowledge, actual abilities and compliance with certain eligibility criteria;
+2) comparing, assessment of a person’s knowledge, actual abilities and compliance with certain eligibility criteria;
 
-- generalised assessment, conclusion;
+3) generalised assessment, conclusion;
 
-- formal  recognition  and  certification  of  evaluation  results,  awarding  a  unified  ordinary  national document (certificate and insert);
+4) formal recognition and certification of evaluation results, awarding a unified ordinary national document (certificate and insert);
 
 The certificate insert shall be considered an integral part of this document and shall not be valid without the certificate.
 
@@ -1588,25 +1536,27 @@ For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommenda
 
 ### 3.1 General measures
 
-- Please  indicate  whether  the  legal  or  regulatory  framework  lays  out  the  conditions  and  minimum education standards for the establishment and functioning of public education institutions regarding:
+- Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding:
 
-- State monitoring and inspections
+✓ State monitoring and inspections
 
-- Health and sanitation
+✓ Health and sanitation
 
-- Safety  (children  learn  in  a  safe  environment  free  from  violence  or  harassment, including school-related gender-based violence (in and around schools))
+✓ Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools))
 
-- Infrastructure
+✓ Infrastructure
 
 [[END OF PAGE 45]]
 
 [[START OF PAGE 46]]
 
-- Curriculum
+✓ Curriculum
 
-- Student-teacher ratio
+✓ Student-teacher ratio
 
-- School fees (if relevant) Other
+✓ School fees (if relevant)
+
+Other
 
 Pursuant to the Law of the Republic of Armenia ' On education ' , ' State educational standards shall be established and promulgated in the Republic of Armenia, which shall be deemed as the basis for assessment of education level and qualification of graduates, irrespective of the form of education they have received as well as legal and organisational form of educational institutions ' .
 
@@ -1626,7 +1576,7 @@ EU TEMPUS and TWINNING programmes have key role in improvement of quality of edu
 
 [[START OF PAGE 47]]
 
-In 2015 the Ministry of Education and Science of the Republic of Armenia, with the support of Council of Europe (CoE), within the framework of ' Strengthening Integrity and Combating Corruption in Higher Education in Armenia ' project and jointly with the expert group and higher education institutions of the Republic of Armenia, elaborated model ethics codes (rules of conduct) and guidelines for the development thereof, which will enable the higher education institutions of the Republic of Armenia to develop own rules of conduct with a view of strengthening integrity within higher education. When describing certain values in the model form, 'non -discrimination' and 'discrimination' expressions were stressed, as was the case with descriptions of values of 'fairness', 'impartiality, justice and social justice', 'respect for others'. These values (principles) and the remainder of those included in the model form are mainly based on the elaboration of Pan-European Platform on Ethics, Transparency and Integrity in Education (ETINED) of the Council of Europe and on two documents constituting a part of initiative on this platform - Ethical Principles (for  Education)  and  Ethical  Behaviour  of  All  Actors  in  Education  (Smith  and  Hamilton,  2015).  The aforementioned principles and documents have been considered during elaboration of the new Draft Law of the Republic of Armenia ' On higher education ' .
+In 2015 the Ministry of Education and Science of the Republic of Armenia, with the support of Council of Europe (CoE), within the framework of “Strengthening Integrity and Combating Corruption in Higher Education in Armenia” project and jointly with the expert group and higher education institutions of the Republic of Armenia, elaborated model ethics codes (rules of conduct) and guidelines for the development thereof, which will enable the higher education institutions of the Republic of Armenia to develop own rules of conduct with a view of strengthening integrity within higher education. When describing certain values in the model form, ‘non-discrimination’ and ‘discrimination’ expressions were stressed, as was the case with descriptions of values of ‘fairness’, ‘impartiality, justice and social justice’, ‘respect for others’. These values (principles) and the remainder of those included in the model form are mainly based on the elaboration of Pan-European Platform on Ethics, Transparency and Integrity in Education (ETINED) of the Council of Europe and on two documents constituting a part of initiative on this platform - Ethical Principles (for Education) and Ethical Behaviour of All Actors in Education (Smith and Hamilton, 2015). The aforementioned principles and documents have been considered during elaboration of the new Draft Law of the Republic of Armenia “On higher education”.
 
 In 2014, ' Ethical Norms for Teachers ' was elaborated and introduced in all general education schools of the Republic of Armenia.
 
@@ -1636,7 +1586,7 @@ You may include information on policies, protocols or codes of conduct.
 
 - What challenges were encountered in realizing quality education?
 
-□ Non -supportive or inadequate learning environments
+□ Non-supportive or inadequate learning environments
 
 □ Violence in schools
 
@@ -1666,17 +1616,17 @@ For  reference:  Article/Paragraph  4(d)  of  the  Convention/Recommendation  pr
 
 - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked):
 
-- Teacher training is provided without discrimination.
+✓ Teacher training is provided without discrimination.
 
-□ Teachers' average salaries are competitive or at least comparable to those paid in other professions requiring similar or equivalent qualifications (at all levels).
+□ Teachers’ average salaries are competitive or at least comparable to those paid in other professions requiring similar or equivalent qualifications (at all levels).
 
 □ Initial training and continuous professional development are provided.
 
-- Minimum standards and qualifications required for the teaching profession.
+✓ Minimum standards and qualifications required for the teaching profession.
 
-- Measures taken to strengthen the social status and attractiveness of the teaching profession.
+✓ Measures taken to strengthen the social status and attractiveness of the teaching profession.
 
-- Measures  taken  to  promote  diversity  in  the  teaching  workforce,  including  to  redress  gender imbalances at different levels of education.
+✓ Measures taken to promote diversity in the teaching workforce, including to redress gender imbalances at different levels of education.
 
 □ Establishment of performance monitoring systems.
 
@@ -1692,7 +1642,7 @@ A policy on increasing the salaries of pedagogues is implemented for the purpose
 
 To increase the attractiveness of the teaching profession, the following actions are being taken:
 
-- Teachers of schools in the regions of the Republic of Armenia, as well as students whose actual place of residence is different (the distance of the school from their place of residence is more than 5 km), is reimbursed for travel expenses. provided from the state budget.
+✓ Teachers of schools in the regions of the Republic of Armenia, as well as students whose actual place of residence is different (the distance of the school from their place of residence is more than 5 km), is reimbursed for travel expenses. provided from the state budget.
 
 [[END OF PAGE 48]]
 
@@ -1724,21 +1674,23 @@ At the same time, ' Teach for Armenia ' organization is playing an essential rol
 
 ✓ Shortages of teaching staff
 
-o Low quality educational infrastructure and materials
+□ Low quality educational infrastructure and materials
 
 [[END OF PAGE 49]]
 
 [[START OF PAGE 50]]
 
-- Lack of qualified, trained and motivated teaching staff o High student - teacher ratio
+✓ Lack of qualified, trained and motivated teaching staff
 
 □ Lack of training centres
 
 □ Other:
 
+□ High student - teacher ratio
+
 In  Armenia,  the  highest  educational  results  are  recorded  by  teachers  with  10-20  years  of  work experience, demonstrating a difference of 30 points compared to teachers with less work experience. The lowest recorded results are of teachers with less than five years of work experience, which points to the need of having differentiated programmes for teachers with different duration of work experience. For example, consistent work should be carried out for the professional growth of teachers with little or no prior teaching experience. Also, the situation speaks of the problems in pedagogical education including lacking tools of pedagogical practice, as a result of which pedagogical practice is in reality transferred to the field of activity of the beginning years of work. In this regard, of particular concern is that almost half (46%) of the teachers in Armenia are over 50 years of age, meaning that Armenia will have to replace one out of every two members of teaching staff with a new one in the next decade. This process can have an essential influence on student learning and educational results, leading to their decrease. Moreover, the fact that only 11% of teachers are under 30, and that new teachers are considerably less in number, can lead not only to a decrease in teaching quality due to limited work experience, but also to the outright physical  absence  of  teachers  in  general.  Already  today,  600-700  vacant  teacher  positions  are  being registered annually, which are not being filled or are filled with considerable difficulty. This relates not only to rural, but also urban schools. The difficulty of finding teachers is mentioned also by the headmasters of  city  schools.  Intermediate  solutions,  such  as  improved  arrangements  for  teacher  secondment, compensation for travel expenses, filling the absence of teachers through e-learning, cannot be considered systemic solutions and settle the problem. Challenges of the in-depth improvement of pedagogic education and making the teacher's profession a preferred life path for young people are evident.
 
-At the level of higher education, aging and low reproduction of teaching staff are observed especially in the  field  of  STEM  area,  as  a  result  of  which  there  is  a  noted  decline  in  the  quality  of  the  scientificpedagogical staff. The age of more than 39% of university teachers is above 55, while more than 21% are over 65; university teachers under 35 represent 16% of the total; some 44% of university teachers are in the 35-55 age group. Specifically, aging is noted in the fields of natural sciences, engineering, technologies, and mathematics.
+At the level of higher education, aging and low reproduction of teaching staff are observed especially in the field of STEM area, as a result of which there is a noted decline in the quality of the scientific-pedagogical staff. The age of more than 39% of university teachers is above 55, while more than 21% are over 65; university teachers under 35 represent 16% of the total; some 44% of university teachers are in the 35-55 age group. Specifically, aging is noted in the fields of natural sciences, engineering, technologies, and mathematics.
 
 - Please elaborate. Brief quantitative information may be added.
 
@@ -1754,9 +1706,9 @@ For  reference:  Article/Paragraph  5(1)(a)  of  the  Convention/Recommendation 
 
 - Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items may be ticked):
 
-- Curriculum includes human rights education.
+✓ Curriculum includes human rights education.
 
-- Educational and/or extracurricular activities are organized on human rights education.
+✓ Educational and/or extracurricular activities are organized on human rights education.
 
 □ Other:
 
@@ -1766,9 +1718,9 @@ The  Law ' on  General  Education ' of  the  Republic  of  Armenia  (adopted  10
 
 ' 1. General education is aimed at each learner's:
 
-- mental, spiritual, physical and social development,
+1) mental, spiritual, physical and social development,
 
-- maintenance of human dignity. '
+2) maintenance of human dignity. '
 
 ' 2.  The state guarantees the provision of the following principles in the field of general education, namely:
 
@@ -1778,15 +1730,15 @@ The  Law ' on  General  Education ' of  the  Republic  of  Armenia  (adopted  10
 
 ' 2. The learner is obliged to:
 
-- to be protected from any physical and psychological pressures, exploitation, such actions or inactions of pedagogical and other workers and students, which violate the student's rights, or encroach on his honor and dignity. '
+5) to be protected from any physical and psychological pressures, exploitation, such actions or inactions of pedagogical and other workers and students, which violate the student's rights, or encroach on his honor and dignity. '
 
 ՛'1. The pedagogical worker is obliged to:
 
-- ensure the knowledge, skills, values and attitudes described by the expected learning outcomes of learners, to contribute to the formation of abilities.'
+4) ensure the knowledge, skills, values and attitudes described by the expected learning outcomes of learners, to contribute to the formation of abilities.'
 
 ՛՛2. The parent of the learner's is obliged to:
 
-- educate respect for national, historical, cultural values and the homeland a caring attitude towards historical and cultural wealth and the environment, a tolerant attitude towards other nations and cultures. '
+4) educate respect for national, historical, cultural values and the homeland a caring attitude towards historical and cultural wealth and the environment, a tolerant attitude towards other nations and cultures. '
 
 > 41 Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development'.
 
@@ -1858,7 +1810,7 @@ The vision of ' COAF ' vision is that all children of Armenia achieve their full
 
 Programs and initiatives of ' FAST ' foundation aim to contribute to the advancement of science and technology in Armenia from the perspective of an ecosystem that stands on three main pillars: Education, Research, and Commercialization.
 
-' Teach For Armenia ' s ' entire strategy focuses on the development of human capital.
+“Teach For Armenia’s” entire strategy focuses on the development of human capital.
 
 Since 2015, Teach For Armenia has supported hundreds of teachers to work in some of the most remote communities while providing them with robust professional development and ongoing coaching. For these reasons, Teach For Armenia is excited to provide two course offerings to individuals who join our two-year Program: a 30-credit certificate and a master's in teacher leadership at Yerevan State University.
 
@@ -1878,27 +1830,27 @@ These schools, being the centers of excellence and differing in their status fro
 
 □ Legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of non-state educational institutions. Please specify what is covered:
 
-- Registration
+✓ Registration
 
-- State monitoring and inspections
+✓ State monitoring and inspections
 
-- Qualifications of teachers
+✓ Qualifications of teachers
 
-- Health and sanitation
+✓ Health and sanitation
 
-- Safety  (children  learn  in  a  safe  environment  free  from  violence  or  harassment, including school-related gender-based violence (in and around schools)
+✓ Safety  (children  learn  in  a  safe  environment  free  from  violence  or  harassment, including school-related gender-based violence (in and around schools)
 
-- Infrastructure
+✓ Infrastructure
 
-- Curriculum
+✓ Curriculum
 
-- Student-teacher ratio
+✓ Student-teacher ratio
 
-- School fees
+✓ School fees
 
-✓
+✓ School closures
 
-- School closures Other
+Other
 
 - Please elaborate:
 
@@ -1976,7 +1928,7 @@ The ' Law on approving ' The State Program for Education Development till 2030 '
 
 [[START OF PAGE 58]]
 
-On February 4, 2021, the Government of the Republic of Armenia adopted the Decision No 136N ' On Making Amendments to the RA Government Decision No 439-N of 8 April, 2010 ' , which regulates the process of formation and approval of the state standard of general education, subject programs  and  standards,  as  well  as  the  relations  concerning  their  implementation  in  general education system of the Republic of Armenia. According to the state standard of general education:
+On February 4, 2021, the Government of the Republic of Armenia adopted the Decision No 136-N ' On Making Amendments to the RA Government Decision No 439-N of 8 April, 2010 ' , which regulates the process of formation and approval of the state standard of general education, subject programs  and  standards,  as  well  as  the  relations  concerning  their  implementation  in  general education system of the Republic of Armenia. According to the state standard of general education:
 
 - Primary  education  programme  graduates  should  be  able  to:  use  simple  digital  devices, computer programmes, applications, assistive devices and equipment, while observing safety rules; and recognise the variety of sources and means of information.
 
@@ -1986,21 +1938,21 @@ On February 4, 2021, the Government of the Republic of Armenia adopted the Decis
 
 ' Introducing  ICT  in  the  field  of  education  and  ensuring  its  continuity ' budgetary  program (hereafter: Budget Program) is included in the https://minfin.am/hy/page/petakan_byuj/ State Budget and the https://minfin.am/hy/page/petakan_mijnazhamket_tsakhseri_tsragre/ Medium Term Expenditure  Framework  (on  an  annual  basis).  Within  the  framework  of  the  Budget  Program  a number of activities are being implemented at the expense of state appropriations, including the Education Management Information System, distance education, internet connectivity.
 
-- Core legislations, policies, strategies or plans for the management, privacy, security, storage, transfer, use, and sharing of education data internally and externally to ensure the right to privacy of learners and education stakeholders (e.g., informed consent, transparent usage policies, etc.)
+✓ Core legislations, policies, strategies or plans for the management, privacy, security, storage, transfer, use, and sharing of education data internally and externally to ensure the right to privacy of learners and education stakeholders (e.g., informed consent, transparent usage policies, etc.)
 
 [[END OF PAGE 58]]
 
 [[START OF PAGE 59]]
 
-- Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.
+✓ Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.
 
-- Measures to remove barriers to accessing digital content 45 , including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
+✓ Measures to remove barriers to accessing digital content 45 , including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
 
-- Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a culture of digital innovation and growth anchored in equity and inclusion that enables ongoing professional development for existing and emerging staff.
+✓ Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a culture of digital innovation and growth anchored in equity and inclusion that enables ongoing professional development for existing and emerging staff.
 
-- Future-ready skills (including digital skills, data and AI competencies, critical thinking, etc.) integrated into formal curriculum at all levels of education
+✓ Future-ready skills (including digital skills, data and AI competencies, critical thinking, etc.) integrated into formal curriculum at all levels of education
 
-- Measures address the digital divide, including ensuring access to reliable electricity, meaningful internet connectivity at school and at home, devices suitable for learning and teaching, safe and sustainable software and secure platforms, and integrated education data systems.
+✓ Measures address the digital divide, including ensuring access to reliable electricity, meaningful internet connectivity at school and at home, devices suitable for learning and teaching, safe and sustainable software and secure platforms, and integrated education data systems.
 
 □ A well -established, sustainable, and cost-effective budget secured from a range of funding sources and intersectoral cooperation, supported by impact focused reporting linked to regional strategic goals.
 
@@ -2036,15 +1988,15 @@ Procedure for distance learning of professions of higher and post-graduate profe
 
 - What challenges were encountered in digital education provision (check all that apply)?
 
-- Lack of quality, curriculum-aligned  digital teaching and learning content that supports flexible learning and teaching pathways
+✓ Lack of quality, curriculum-aligned  digital teaching and learning content that supports flexible learning and teaching pathways
 
-- Lack of equity and inclusion in digital learning solutions
+✓ Lack of equity and inclusion in digital learning solutions
 
 □ inadequate safety measures and IT
 
 □ Limited access to internet and/or electricity
 
-- Limited access to hardware (devices, chargers, etc.)
+✓ Limited access to hardware (devices, chargers, etc.)
 
 □ Difficulty in regulating the use of digital education solutions
 
@@ -2058,7 +2010,7 @@ support to respond to issues of child online safety or reduce cyber security ris
 
 □ Difficulty in sustainably financing digital education solutions at national scale
 
-- Lack of digital skills development for meaningful use of digital technology in teaching practice
+✓ Lack of digital skills development for meaningful use of digital technology in teaching practice
 
 □ Disjointed or fragmented solutions that are not centrally systematized or regulated
 
@@ -2094,13 +2046,13 @@ For  reference:  The  Education  2030  Framework  for  Action  states ' to  ensu
 
 □ Monitoring results are made public. Please provide the link:
 
-- Monitoring processes are participatory, inclusive and regular.
+✓ Monitoring processes are participatory, inclusive and regular.
 
-- Sector-wide and multisector approach is adopted to education governance.
+✓ Sector-wide and multisector approach is adopted to education governance.
 
 □ Financial  resources are  effectively  allocated  to  prioritise  the  provision  of  free,  quality,  public education and are adequately budgeted for in government plans.
 
-- The decision-making process for the allocation of resources to education is transparent.
+✓ The decision-making process for the allocation of resources to education is transparent.
 
 □ Ensuring  crisis-sensitive  and  disaster  risk-informed  planning  and  programming,  including  the provision of quality education in emergencies.
 
@@ -2124,7 +2076,7 @@ The analysis aims to encourage discussions among policymakers and improve the ef
 
 - What challenges were encountered in terms of governance?
 
-- Budgetary constraints
+✓ Budgetary constraints
 
 □ Lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels
 
@@ -2134,7 +2086,7 @@ The analysis aims to encourage discussions among policymakers and improve the ef
 
 □ Absence of supportive/ inconsistent/obsolete legal and policy environment
 
-□ L ack or weakness of monitoring systems - including the lack of reliable data
+□ Lack or weakness of monitoring systems - including the lack of reliable data
 
 - Please elaborate. Brief quantitative information may be added.
 
@@ -2150,7 +2102,7 @@ For reference: UNESCO governing bodies have underlined the need for awareness ra
 
 - Have activities been carried out to draw the attention of the various authorities of the country to the Convention/Recommendation and their provisions about the right to education and to raise awareness  of  the  principles  of  non-discrimination  and  equality  of  educational  opportunities? (Several items may be ticked)
 
-- Translation of the Convention/Recommendation into the national and possibly local languages
+✓ Translation of the Convention/Recommendation into the national and possibly local languages
 
 □ Dissemination and advocacy of the core content of the Convention/Recommendation or the core principles of the right to education including through appropriate materials and resources
 
