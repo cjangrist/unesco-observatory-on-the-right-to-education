@@ -28,9 +28,9 @@ Que en la actualidad las necesidades de las y los jóvenes se ubican en  demanda
 
 En uso de sus facultades:
 
-La siguiente:
-
 #### HA DICTADO
+
+La siguiente:
 
 [[END OF PAGE 1]]
 
@@ -149,7 +149,7 @@ El  Estado  creará  las  políticas  nacionales,  regionales,  departamentales 
 ## CAPÍTULO IV DE LA POLÍTICA DE PROMOCIÓN DEL EMPLEO
 
 ### Arto. 8.
-Las  políticas  de  empleo  en  el  campo  y  la  ciudad  de  las  y  los  jóvenes  deben fomentar las oportunidades de trabajo en distintas modalidades para reducir el desempleo, el subempleo  y  generar  nuevas  alternativas  para  el  ingreso  de  la  juventud  al  mercado  laboral  y  la promoción de la experiencia laboral  y la  generación de ingresos que les permita a los jóvenes mejorar sus condiciones de vida.
+Las políticas de empleo en el campo y la ciudad de las y los jóvenes deben fomentar las oportunidades de trabajo en distintas modalidades para reducir el desempleo, el sub-empleo y generar nuevas alternativas para el ingreso de la juventud al mercado laboral y la promoción de la experiencia laboral y la generación de ingresos que les permita a los jóvenes mejorar sus condiciones de vida.
 
 ### Arto. 9.
 El fomento de esta política contemplará las siguientes líneas de acción:
@@ -255,7 +255,7 @@ Las  políticas  educativas,  culturales,  deportivas  y  recreativas  se  desar
 
 - Facilitar alternativas educativas orientadas a fomentar el desarrollo de la microempresa y la creación de auto-empleo y orientación vocacional para estudiantes de cuarto y quinto año de secundaria.
 
-- Divulgar  el  modelo  de  'gestión  juvenil  empresarial'  y  reforzarlo  con  programas  que incluyan  temas  como  la  autoestima,  liderazgo,  desarrollo  de  técnicas  gerenciales  y  diseño  de proyectos empresariales.
+- Divulgar el modelo de “gestión juvenil empresarial” y reforzarlo con programas que incluyan temas como la autoestima, liderazgo, desarrollo de técnicas gerenciales y diseño de proyectos empresariales.
 
 - Las  y  los  jóvenes  de  las  comunidades  étnicas  de  las  regiones  autónomas  de  la  Costa Atlántica  tienen  derecho  a  una  educación  bilingüe  e  intercultural,  tanto  en  su  lengua  materna como en español con respeto a sus tradiciones, valores y costumbres.
 
