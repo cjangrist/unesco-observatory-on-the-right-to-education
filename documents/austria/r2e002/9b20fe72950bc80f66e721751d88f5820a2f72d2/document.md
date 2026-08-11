@@ -6,7 +6,7 @@ Bundesrecht konsolidiert
 
 ## Langtitel
 
-Bundesgesetz über die externe Qualitätssicherung im Hochschulwesen und die Agentur für Qualitätssicherung und Akkreditierung Austria (Hochschul-Qualitätssicherungsgesetz - HS-QSG)
+Bundesgesetz über die externe Qualitätssicherung im Hochschulwesen und die Agentur für Qualitätssicherung und Akkreditierung Austria (Hochschul-Qualitätssicherungsgesetz – HS-QSG)
 
 StF: BGBl. I Nr. 74/2011 (NR: GP XXIV RV 1222 AB 1318 S. 112. BR: 8520 AB 8530 S. 799.)
 
@@ -19,6 +19,12 @@ BGBl. I Nr. 124/2013 (NR: GP XXIV RV 2348 AB 2397 S. 206. BR: 9006 AB 9012 S. 82
 BGBl. I Nr. 45/2014 (NR: GP XXV RV 136 AB 171 S. 30. BR: 9189 AB 9192 S. 831.)
 
 ## Präambel/Promulgationsklausel
+
+## Inhaltsverzeichnis
+
+### 1. Abschnitt
+
+#### Allgemeiner Teil
 
 § 1. Regelungsgegenstand
 
@@ -80,12 +86,6 @@ BGBl. I Nr. 45/2014 (NR: GP XXV RV 136 AB 171 S. 30. BR: 9189 AB 9192 S. 831.)
 
 § 24. Akkreditierung von Privatuniversitäten und Studien an Privatuniversitäten
 
-## Inhaltsverzeichnis
-
-### 1. Abschnitt
-
-#### Allgemeiner Teil
-
 www.ris.bka.gv.at
 
 Seite 1 von 21
@@ -96,6 +96,70 @@ Seite 1 von 21
 
 Bundesrecht konsolidiert
 
+§ 25. Zuständigkeit und Verfahren zur Akkreditierung
+
+§ 26. Erlöschen und Widerruf der Akkreditierung
+
+### 5. Abschnitt
+
+#### Grenzüberschreitende Studien
+
+§ 27.
+
+### 6. Abschnitt
+
+#### Berichtswesen
+
+§ 28.
+
+### 7. Abschnitt
+
+#### Aufsicht
+
+§ 29. Aufsicht über die Erhalter von Fachhochschul-Studiengängen und Privatuniversitäten
+
+§ 30. Aufsicht über die Agentur für Qualitätssicherung und Akkreditierung Austria
+
+### 7a. Abschnitt
+
+#### Qualitätssicherungsrat für Pädagoginnen- und Pädagogenbildung
+
+§ 30a.
+
+### 8. Abschnitt
+
+#### Ombudsstelle für Studierende
+
+§ 31.
+
+### 9. Abschnitt
+
+#### Strafbestimmung
+
+§ 32.
+
+### 10. Abschnitt
+
+#### Personal
+
+§ 33. Beamtinnen und Beamte des Bundes, Vertragsbedienstete des Bundes
+
+§ 34. Neuaufnahmen und Rechtsgrundlagen der Arbeitsverhältnisse
+
+### 11. Abschnitt
+
+#### Inkrafttreten und Vollziehung
+
+§ 35. Verweisungen
+
+§ 36. Übergangsbestimmungen
+
+§ 37. Inkrafttreten
+
+§ 38. Vollziehung
+
+Anlage zu § 30 Abs. 1 Z 4
+
 ## Text
 
 ## 1. Abschnitt
@@ -103,17 +167,17 @@ Bundesrecht konsolidiert
 
 #### Regelungsgegenstand
 
-§ 1. (1)  Dieses  Bundesgesetz  regelt  die  externe  Qualitätssicherung  an  folgenden  hochschulischen postsekundären Bildungseinrichtungen:
+§ 1. (1) Dieses Bundesgesetz regelt die externe Qualitätssicherung an folgenden hochschulischen postsekundären Bildungseinrichtungen:
 
-- Universitäten nach Universitätsgesetz 2002 (UG), BGBl. I Nr. 120/2002,
+1. Universitäten nach Universitätsgesetz 2002 (UG), BGBl. I Nr. 120/2002,
 
-- Universität für Weiterbildung Krems nach DUK-Gesetz 2004, BGBl. I Nr. 22/2004,
+2. Universität für Weiterbildung Krems nach DUK-Gesetz 2004, BGBl. I Nr. 22/2004,
 
-- Erhalter von Fachhochschul-Studiengängen nach Fachhochschul-Studiengesetz (FHStG), BGBl. Nr. 340/1993,
+3. Erhalter von Fachhochschul-Studiengängen nach Fachhochschul-Studiengesetz (FHStG), BGBl. Nr. 340/1993,
 
-- Privatuniversitäten  nach  Universitäts-Akkreditierungsgesetz  (UniAkkG),  BGBl. I  Nr. 168/1999, und nach Privatuniversitätengesetz (PUG), BGBl. I Nr. 74/2011.
+4. Privatuniversitäten nach Universitäts-Akkreditierungsgesetz (UniAkkG), BGBl. I Nr. 168/1999, und nach Privatuniversitätengesetz (PUG), BGBl. I Nr. 74/2011.
 
-- Die externe Qualitätssicherung der Bildungseinrichtungen gemäß Abs. 1 erfolgt durch:
+(2) Die externe Qualitätssicherung der Bildungseinrichtungen gemäß Abs. 1 erfolgt durch:
 
 www.ris.bka.gv.at
 
@@ -125,27 +189,27 @@ Seite 2 von 21
 
 Bundesrecht konsolidiert
 
-- Zertifizierung des Qualitätsmanagementsystems von Bildungseinrichtungen;
+1. Zertifizierung des Qualitätsmanagementsystems von Bildungseinrichtungen;
 
-- Akkreditierung von Studien;
+2. Akkreditierung von Studien;
 
-- Akkreditierung von Bildungseinrichtungen;
+3. Akkreditierung von Bildungseinrichtungen;
 
-- Aufsicht über die nach diesem Bundesgesetz akkreditierten Bildungseinrichtungen und die nach diesem Bundesgesetz akkreditierten Studien.
+4. Aufsicht über die nach diesem Bundesgesetz akkreditierten Bildungseinrichtungen und die nach diesem Bundesgesetz akkreditierten Studien.
 
-- Die externe Qualitätssicherung soll im Zusammenspiel mit den internen Qualitätsmanagementsystemen der in Abs. 1 genannten Bildungseinrichtungen gewährleisten, dass diese hohen Anforderungen entsprechen und ihre Qualität laufend weiterentwickeln.
+(3) Die externe Qualitätssicherung soll im Zusammenspiel mit den internen Qualitätsmanagementsystemen der in Abs. 1 genannten Bildungseinrichtungen gewährleisten, dass diese hohen Anforderungen entsprechen und ihre Qualität laufend weiterentwickeln.
 
 #### Begriffsbestimmungen
 
 § 2. Im Geltungsbereich dieses Bundesgesetzes gelten folgende Begriffsbestimmungen:
 
-- Externe Qualitätssicherung umfasst verschiedene periodische Maßnahmen der Begutachtung der Entwicklung der Qualität der Leistungen von Hochschulen in Lehre, Forschung und Administration.
+1. Externe Qualitätssicherung umfasst verschiedene periodische Maßnahmen der Begutachtung der Entwicklung der Qualität der Leistungen von Hochschulen in Lehre, Forschung und Administration.
 
-- Qualitätssicherungsverfahren sind formelle, durch unabhängige und externe Gutachterinnen und Gutachter  durchgeführte  Verfahren,  die  die  Übereinstimmung  von  Bildungseinrichtungen  und Studien oder des Qualitätsmanagementsystems der Bildungseinrichtungen mit definierten Kriterien und Standards feststellen.
+2. Qualitätssicherungsverfahren sind formelle, durch unabhängige und externe Gutachterinnen und Gutachter durchgeführte Verfahren, die die Übereinstimmung von Bildungseinrichtungen und Studien oder des Qualitätsmanagementsystems der Bildungseinrichtungen mit definierten Kriterien und Standards feststellen.
 
-- Akkreditierung ist die formelle staatliche Anerkennung einer Bildungseinrichtung (institutionelle Akkreditierung) oder  von  Studien  (Programmakkreditierung) anhand  von  definierten  Kriterien und Standards.
+3. Akkreditierung ist die formelle staatliche Anerkennung einer Bildungseinrichtung (institutionelle Akkreditierung) oder von Studien (Programmakkreditierung) anhand von definierten Kriterien und Standards.
 
-- Zertifizierung ist die formelle Bescheinigung der Konformität des Qualitätsmanagementsystems einer Bildungseinrichtung mit definierten Kriterien und Standards.
+4. Zertifizierung ist die formelle Bescheinigung der Konformität des Qualitätsmanagementsystems einer Bildungseinrichtung mit definierten Kriterien und Standards.
 
 ## 2. Abschnitt
 
@@ -153,33 +217,33 @@ Bundesrecht konsolidiert
 
 #### Agentur für Qualitätssicherung und Akkreditierung Austria (Agency for Quality Assurance and Accreditation Austria)
 
-§ 3. (1) Zur externen Qualitätssicherung der in § 1 Abs. 1 genannten Bildungseinrichtungen wird die Agentur für Qualitätssicherung  und Akkreditierung Austria (Agency  for Quality  Assurance  and Accreditation Austria) eingerichtet.
+§ 3. (1) Zur externen Qualitätssicherung der in § 1 Abs. 1 genannten Bildungseinrichtungen wird die Agentur für Qualitätssicherung und Akkreditierung Austria (Agency for Quality Assurance and Accreditation Austria) eingerichtet.
 
-- Die  Agentur  für  Qualitätssicherung  und  Akkreditierung  Austria  ist  eine  juristische  Person  des öffentlichen Rechts.
+(2) Die Agentur für Qualitätssicherung und Akkreditierung Austria ist eine juristische Person des öffentlichen Rechts.
 
-- Die  Agentur  für  Qualitätssicherung  und  Akkreditierung  Austria  hat  insbesondere  folgende Aufgaben im Bereich der externen Qualitätssicherung zu erfüllen:
+(3) Die Agentur für Qualitätssicherung und Akkreditierung Austria hat insbesondere folgende Aufgaben im Bereich der externen Qualitätssicherung zu erfüllen:
 
-- Entwicklung  und  Durchführung  externer  Qualitätssicherungsverfahren,  jedenfalls  Audit-  und Akkreditierungsverfahren, nach nationalen und internationalen Standards;
+1. Entwicklung und Durchführung externer Qualitätssicherungsverfahren, jedenfalls Audit- und Akkreditierungsverfahren, nach nationalen und internationalen Standards;
 
-- Akkreditierung von hochschulischen Bildungseinrichtungen und Studien;
+2. Akkreditierung von hochschulischen Bildungseinrichtungen und Studien;
 
-- Berichte  an  den  Nationalrat  im  Wege  der  zuständigen  Bundesministerin  oder  des  zuständigen Bundesministers;
+3. Berichte an den Nationalrat im Wege der zuständigen Bundesministerin oder des zuständigen Bundesministers;
 
-- Veröffentlichung der Ergebnisberichte der Qualitätssicherungsverfahren;
+4. Veröffentlichung der Ergebnisberichte der Qualitätssicherungsverfahren;
 
-- kontinuierliche  begleitende  Aufsicht  akkreditierter  hochschulischer  Bildungseinrichtungen  und Studien hinsichtlich der Akkreditierungsvoraussetzungen;
+5. kontinuierliche begleitende Aufsicht akkreditierter hochschulischer Bildungseinrichtungen und Studien hinsichtlich der Akkreditierungsvoraussetzungen;
 
-- Aufgaben gemäß den Bestimmungen des FHStG und des PUG;
+6. Aufgaben gemäß den Bestimmungen des FHStG und des PUG;
 
-- Zertifizierung von Bildungseinrichtungen nach Audit;
+7. Zertifizierung von Bildungseinrichtungen nach Audit;
 
-- Durchführung von Studien und Systemanalysen, Evaluierungen und Projekten;
+8. Durchführung von Studien und Systemanalysen, Evaluierungen und Projekten;
 
-- Information und Beratung zu Fragen der Qualitätssicherung und Qualitätsentwicklung;
+9. Information und Beratung zu Fragen der Qualitätssicherung und Qualitätsentwicklung;
 
-- Internationale Zusammenarbeit im Bereich der Qualitätssicherung.
+10. Internationale Zusammenarbeit im Bereich der Qualitätssicherung.
 
-- Die  Agentur  für  Qualitätssicherung  und  Akkreditierung  Austria  hat  sich  regelmäßig  einer externen Evaluierung nach internationalen Standards zu unterziehen.
+(4) Die Agentur für Qualitätssicherung und Akkreditierung Austria hat sich regelmäßig einer externen Evaluierung nach internationalen Standards zu unterziehen.
 
 #### Organe der Agentur für Qualitätssicherung und Akkreditierung Austria
 
@@ -205,23 +269,23 @@ Bundesrecht konsolidiert
 
 (2) Dem Kuratorium obliegen:
 
-- Stellungnahmen
+1. Stellungnahmen
 
-- zu den Richtlinien, Standards und Abläufen der Qualitätssicherungsverfahren;
+a) zu den Richtlinien, Standards und Abläufen der Qualitätssicherungsverfahren;
 
-- zum Finanzplan und zum Rechnungsabschluss;
+b) zum Finanzplan und zum Rechnungsabschluss;
 
-- zum Tätigkeitsbericht;
+c) zum Tätigkeitsbericht;
 
-- zur Geschäftsordnung der Generalversammlung;
+d) zur Geschäftsordnung der Generalversammlung;
 
-- zur Ausschreibung und Aufnahme von Mitarbeiterinnen und Mitarbeitern und der Geschäftsführerin oder des Geschäftsführers und deren oder dessen Stellvertretung;
+e) zur Ausschreibung und Aufnahme von Mitarbeiterinnen und Mitarbeitern und der Geschäftsführerin oder des Geschäftsführers und deren oder dessen Stellvertretung;
 
-- Vorschlag zur Bestellung einer Abschlussprüferin oder eines Abschlussprüfers gemäß § 16 an die zuständige Bundesministerin oder den zuständigen Bundesminister;
+2. Vorschlag zur Bestellung einer Abschlussprüferin oder eines Abschlussprüfers gemäß § 16 an die zuständige Bundesministerin oder den zuständigen Bundesminister;
 
-- Vorbereitung und Einberufung der Sitzungen der Generalversammlung und die Berichterstattung an die Generalversammlung.
+3. Vorbereitung und Einberufung der Sitzungen der Generalversammlung und die Berichterstattung an die Generalversammlung.
 
-- Das  Kuratorium  hat  aus  seinem  Kreis  eine  Vorsitzende  oder  einen  Vorsitzenden  und  eine Stellvertretung zu wählen.
+(3) Das Kuratorium hat aus seinem Kreis eine Vorsitzende oder einen Vorsitzenden und eine Stellvertretung zu wählen.
 
 (4) Das Kuratorium trifft seine Entscheidungen mit einfacher Stimmenmehrheit.
 
@@ -229,13 +293,13 @@ Bundesrecht konsolidiert
 
 § 6. (1) Das Board besteht aus vierzehn Mitgliedern, für die Folgendes gilt:
 
-- Acht Mitglieder müssen Expertinnen und Experten aus dem Bereich des Hochschulwesens sein und  über  wissenschaftliche  Qualifikation  und  Erfahrung  im  Bereich  der  Qualitätssicherung verfügen und unterschiedliche Hochschulsektoren repräsentieren.
+1. Acht Mitglieder müssen Expertinnen und Experten aus dem Bereich des Hochschulwesens sein und über wissenschaftliche Qualifikation und Erfahrung im Bereich der Qualitätssicherung verfügen und unterschiedliche Hochschulsektoren repräsentieren.
 
-- Zwei  Mitglieder  sind  aus  dem  Kreis  der  Vertreterinnen  und  Vertreter  der  Studierenden  zu bestellen.
+2. Zwei Mitglieder sind aus dem Kreis der Vertreterinnen und Vertreter der Studierenden zu bestellen.
 
-- Vier Mitglieder sind aus dem Bereich der Berufspraxis zu bestellen. Sie müssen Kenntnisse des nationalen oder internationalen Hochschulwesens und Erfahrung in für Hochschulen relevanten Berufsfeldern haben, Urteilsfähigkeit über Angelegenheiten der Qualitätssicherung besitzen und aufgrund  ihrer  hervorragenden  Kenntnisse  und  Erfahrungen  einen  Beitrag  zur  Erfüllung  der Aufgaben der Agentur für Qualitätssicherung und Akkreditierung Austria leisten können.
+3. Vier Mitglieder sind aus dem Bereich der Berufspraxis zu bestellen. Sie müssen Kenntnisse des nationalen oder internationalen Hochschulwesens und Erfahrung in für Hochschulen relevanten Berufsfeldern haben, Urteilsfähigkeit über Angelegenheiten der Qualitätssicherung besitzen und aufgrund ihrer hervorragenden Kenntnisse und Erfahrungen einen Beitrag zur Erfüllung der Aufgaben der Agentur für Qualitätssicherung und Akkreditierung Austria leisten können.
 
-- Mindestens die Hälfte der Mitglieder gemäß Z 1 und 2 sind jeweils ausländische Vertreterinnen und Vertreter.
+4. Mindestens die Hälfte der Mitglieder gemäß Z 1 und 2 sind jeweils ausländische Vertreterinnen und Vertreter.
 
 (2) Dem Board dürfen Mitglieder der Bundesregierung oder einer Landesregierung, Mitglieder des Nationalrats, des Bundesrats oder eines sonstigen allgemeinen Vertretungskörpers und Funktionärinnen und Funktionäre einer politischen Partei, der in der Generalversammlung vertretenen Einrichtungen sowie Personen nicht angehören, die eine derartige Funktion in den letzten vier Jahren ausgeübt haben. Ebenso ausgeschlossen  sind  Mitarbeiterinnen  und  Mitarbeiter  der  für  hochschulische  Bildungseinrichtungen zuständigen Bundesministerien im aktiven Dienststand.
 
@@ -275,35 +339,35 @@ Bundesrecht konsolidiert
 
 § 9. (1) Dem Board obliegen insbesondere folgende Aufgaben:
 
-- Entscheidung  über  Akkreditierung  von  Bildungseinrichtungen  und  Studien  oder  über  die Zertifizierung des Qualitätsmanagementsystems;
+1. Entscheidung über Akkreditierung von Bildungseinrichtungen und Studien oder über die Zertifizierung des Qualitätsmanagementsystems;
 
-- Beschlüsse über Richtlinien, Standards und Abläufe der Qualitätssicherungsverfahren;
+2. Beschlüsse über Richtlinien, Standards und Abläufe der Qualitätssicherungsverfahren;
 
-- Beschluss über Berichte;
+3. Beschluss über Berichte;
 
-- Übermittlung der  Verfahrensentscheidung  der Akkreditierungsverfahren an die zuständige Bundesministerin oder den zuständigen Bundesminister;
+4. Übermittlung der Verfahrensentscheidung der Akkreditierungsverfahren an die zuständige Bundesministerin oder den zuständigen Bundesminister;
 
-- Veröffentlichung der Ergebnisse der Qualitätssicherungsverfahren;
+5. Veröffentlichung der Ergebnisse der Qualitätssicherungsverfahren;
 
-- Informationen für die Beschwerdekommission, das Kuratorium und die Generalversammlung;
+6. Informationen für die Beschwerdekommission, das Kuratorium und die Generalversammlung;
 
-- Beschluss einer Geschäftsordnung, die die Erfüllung der Aufgaben sicherstellt;
+7. Beschluss einer Geschäftsordnung, die die Erfüllung der Aufgaben sicherstellt;
 
-- Beschluss eines jährlichen Finanzplans und Rechnungsabschlusses;
+8. Beschluss eines jährlichen Finanzplans und Rechnungsabschlusses;
 
-- Aufsicht über die Geschäftsstelle;
+9. Aufsicht über die Geschäftsstelle;
 
-- Ausschreibung und Aufnahme der Mitarbeiterinnen und Mitarbeiter der Geschäftsstelle;
+10. Ausschreibung und Aufnahme der Mitarbeiterinnen und Mitarbeiter der Geschäftsstelle;
 
-- Ausschreibung und Aufnahme  der  Geschäftsführerin oder des Geschäftsführers und der stellvertretenden  Geschäftsführerin  oder  des  stellvertretenden  Geschäftsführers,  über  die  das Board  einstimmig  zu  entscheiden  hat.  § 14  Abs. 1  und  3  kommen  in  diesem  Fall  nicht  zur Anwendung;
+11. Ausschreibung und Aufnahme der Geschäftsführerin oder des Geschäftsführers und der stellvertretenden Geschäftsführerin oder des stellvertretenden Geschäftsführers, über die das Board einstimmig zu entscheiden hat. § 14 Abs. 1 und 3 kommen in diesem Fall nicht zur Anwendung;
 
-- Aufsicht über die akkreditierten Bildungseinrichtungen und Studien hinsichtlich der Akkreditierungsvoraussetzungen;
+12. Aufsicht über die akkreditierten Bildungseinrichtungen und Studien hinsichtlich der Akkreditierungsvoraussetzungen;
 
-- Aufgaben gemäß FHStG und PUG;
+13. Aufgaben gemäß FHStG und PUG;
 
-- Internationale Zusammenarbeit im Bereich der Qualitätssicherung.
+14. Internationale Zusammenarbeit im Bereich der Qualitätssicherung.
 
-- Das Board ist bei der Erfüllung seiner Aufgaben an keine Weisungen gebunden.
+(2) Das Board ist bei der Erfüllung seiner Aufgaben an keine Weisungen gebunden.
 
 (3)  Das  Board  hat  eine  Geschäftsordnung  zu  beschließen,  die  die  Erfüllung  der  ihm  übertragenen Aufgaben,  der  Aufgaben  der  Beschwerdekommission  und  der  Geschäftsstelle  sowie  die  Erfüllung  der übrigen  Aufgaben  der  Agentur  für  Qualitätssicherung  und  Akkreditierung  Austria  sicherstellt. In  der Geschäftsordnung ist auch Näheres über die Organisation der Geschäftsstelle zu regeln.
 
@@ -333,45 +397,45 @@ Bundesrecht konsolidiert
 
 § 11. (1) Die Generalversammlung besteht aus 23 Mitgliedern und zwar:
 
-- sechs  Vertreterinnen  oder  Vertretern,  die  durch  den  Beirat  für  Wirtschafts-  und  Sozialfragen nominiert werden;
+1. sechs Vertreterinnen oder Vertretern, die durch den Beirat für Wirtschafts- und Sozialfragen nominiert werden;
 
-- zwei Vertreterinnen oder Vertretern der Österreichischen Hochschülerinnenund Hochschülerschaft;
+2. zwei Vertreterinnen oder Vertretern der Österreichischen Hochschülerinnen- und Hochschülerschaft;
 
-- einer  Vertreterin  oder  einem  Vertreter  des  Vereins  zum  Aufbau  und  zur  Förderung  einer bundesweiten Studierendenvertretung der Privatuniversitäten;
+3. einer Vertreterin oder einem Vertreter des Vereins zum Aufbau und zur Förderung einer bundesweiten Studierendenvertretung der Privatuniversitäten;
 
-- sechs Vertreterinnen oder Vertretern der Universitätenkonferenz;
+4. sechs Vertreterinnen oder Vertretern der Universitätenkonferenz;
 
-- vier Vertreterinnen oder Vertretern der Fachhochschulkonferenz;
+5. vier Vertreterinnen oder Vertretern der Fachhochschulkonferenz;
 
-- zwei Vertreterinnen oder Vertretern der Österreichischen Privatuniversitätenkonferenz;
+6. zwei Vertreterinnen oder Vertretern der Österreichischen Privatuniversitätenkonferenz;
 
-- zwei Vertreterinnen oder Vertretern des Bundesministeriums für Wissenschaft und Forschung.
+7. zwei Vertreterinnen oder Vertretern des Bundesministeriums für Wissenschaft und Forschung.
 
 (2) Die Mitglieder der Generalversammlung müssen über Kenntnisse des Hochschulwesens und in Angelegenheiten der Qualitätssicherung des Hochschulwesens verfügen.
 
-(3) Die Nominierung der Mitglieder gemäß Abs. 1 Z 2 bis 7 erfolgt durch die jeweiligen Einrichtungen.  Die  Nominierung  hat  bis  längstens  einen  Monat  vor  Ablauf  der  Funktionsperiode  des betreffenden Mitglieds zu erfolgen, bei vorzeitiger Abberufung eines Mitglieds spätestens einen Monat nach Bekanntgabe der Abberufung. Die Mitglieder sind durch die zuständige Bundesministerin oder den zuständigen Bundesminister zu bestellen.
+(3) Die Nominierung der Mitglieder gemäß Abs. 1 Z 2 bis 7 erfolgt durch die jeweiligen Einrichtungen. Die Nominierung hat bis längstens einen Monat vor Ablauf der Funktionsperiode des betreffenden Mitglieds zu erfolgen, bei vorzeitiger Abberufung eines Mitglieds spätestens einen Monat nach Bekanntgabe der Abberufung. Die Mitglieder sind durch die zuständige Bundesministerin oder den zuständigen Bundesminister zu bestellen.
 
 (4) Die Funktionsperiode der Mitglieder der Generalversammlung beträgt fünf Jahre, Wiederbestellungen sind zulässig.
 
-(5)  Die  zuständige  Bundesministerin  oder  der  zuständige  Bundesminister  hat  ein  Mitglied  der Generalversammlung vor Ablauf der Funktionsperiode auf Antrag oder nach Anhörung der Generalversammlung abzuberufen, wenn es seine Pflichten gröblich verletzt oder vernachlässigt hat oder wenn es nicht mehr in der Lage ist, seine Aufgaben zu erfüllen.
+(5) Die zuständige Bundesministerin oder der zuständige Bundesminister hat ein Mitglied der Generalversammlung vor Ablauf der Funktionsperiode auf Antrag oder nach Anhörung der Generalversammlung abzuberufen, wenn es seine Pflichten gröblich verletzt oder vernachlässigt hat oder wenn es nicht mehr in der Lage ist, seine Aufgaben zu erfüllen.
 
 #### Aufgaben der Generalversammlung
 
 § 12. (1) Die Aufgaben der Generalversammlung umfassen:
 
-- die Wahl gemäß § 5 Abs. 1;
+1. die Wahl gemäß § 5 Abs. 1;
 
-- die Nominierungen gemäß § 7 Abs. 2 und § 13 Abs. 3;
+2. die Nominierungen gemäß § 7 Abs. 2 und § 13 Abs. 3;
 
-- die  Kenntnisnahme  des  Finanzplanes,  des  Rechnungsabschlusses  und  des  Tätigkeitsberichts sowie die Stellungnahme zur Geschäftsordnung des Boards.
+3. die Kenntnisnahme des Finanzplanes, des Rechnungsabschlusses und des Tätigkeitsberichts sowie die Stellungnahme zur Geschäftsordnung des Boards.
 
 (2) Bei den Nominierungen gemäß § 5 Abs. 1 sind je ein Mitglied aus den Vertreterinnen und den Vertretern der Universitätenkonferenz, der Fachhochschulkonferenz und der Österreichischen Privatuniversitätenkonferenz zu berücksichtigen.
 
-(3)  Die  Generalversammlung  hat  aus  ihrem  Kreis  eine  Vorsitzende  oder  einen  Vorsitzenden  zu wählen.
+(3) Die Generalversammlung hat aus ihrem Kreis eine Vorsitzende oder einen Vorsitzenden zu wählen.
 
-- Der Generalversammlung übt ihre Tätigkeit in Vollversammlungen aus.
+(4) Der Generalversammlung übt ihre Tätigkeit in Vollversammlungen aus.
 
-(5)  Die  Generalversammlung  ist  beschlussfähig, wenn  mindestens  fünfzehn  ihrer  Mitglieder persönlich anwesend sind. Sie fasst die Beschlüsse mit einfacher Stimmenmehrheit. Bei Stimmengleichheit gibt die Stimme der Vorsitzenden oder des Vorsitzenden den Ausschlag.
+(5) Die Generalversammlung ist beschlussfähig, wenn mindestens fünfzehn ihrer Mitglieder persönlich anwesend sind. Sie fasst die Beschlüsse mit einfacher Stimmenmehrheit. Bei Stimmengleichheit gibt die Stimme der Vorsitzenden oder des Vorsitzenden den Ausschlag.
 
 www.ris.bka.gv.at
 
@@ -413,13 +477,13 @@ Bundesrecht konsolidiert
 
 #### Säumnis von Organen
 
-§ 14. (1)  Kommt ein Organ der Agentur für Qualitätssicherung und Akkreditierung Austria gemäß §§ 5,  11  und  13  einer  ihm  nach  diesem  Bundesgesetz  obliegenden  Aufgabe  nicht  innerhalb  einer angemessenen Zeit nach, hat das Board von Amts wegen eine Frist von vier Wochen zu setzen, innerhalb der das säumige Organ die zu erfüllende Aufgabe nachzuholen hat. Lässt dieses die Frist verstreichen, ist die zu erfüllende Aufgabe
+§ 14. (1) Kommt ein Organ der Agentur für Qualitätssicherung und Akkreditierung Austria gemäß §§ 5, 11 und 13 einer ihm nach diesem Bundesgesetz obliegenden Aufgabe nicht innerhalb einer angemessenen Zeit nach, hat das Board von Amts wegen eine Frist von vier Wochen zu setzen, innerhalb der das säumige Organ die zu erfüllende Aufgabe nachzuholen hat. Lässt dieses die Frist verstreichen, ist die zu erfüllende Aufgabe
 
-- in Angelegenheiten gemäß § 5 Abs. 2 durch die Generalversammlung,
+1. in Angelegenheiten gemäß § 5 Abs. 2 durch die Generalversammlung,
 
-- in Angelegenheiten gemäß § 7 Abs. 2 letzter Satz, § 11 Abs. 1 Z 1 und 11 und Abs. 3 und § 12 Abs. 1 Z 1 und 2 durch die zuständige Bundesministerin oder den zuständigen Bundesminister,
+2. in Angelegenheiten gemäß § 7 Abs. 2 letzter Satz, § 11 Abs. 1 Z 1 und 11 und Abs. 3 und § 12 Abs. 1 Z 1 und 2 durch die zuständige Bundesministerin oder den zuständigen Bundesminister,
 
-- und  in  Angelegenheiten  gemäß  § 9  Abs. 1,  § 12  Abs. 1  Z 3  und  § 13  Abs. 3  durch  das Kuratorium durchzuführen (Ersatzvornahme).
+3. und in Angelegenheiten gemäß § 9 Abs. 1, § 12 Abs. 1 Z 3 und § 13 Abs. 3 durch das Kuratorium durchzuführen (Ersatzvornahme).
 
 (2) Abs. 1 gilt nicht im Anwendungsbereich des Allgemeinen Verwaltungsverfahrensgesetzes 1991 (AVG), BGBl. Nr. 51/1991.
 
@@ -446,7 +510,7 @@ Bundesrecht konsolidiert
 
 (2) Die Präsidentin oder der Präsident des Boards hat der zuständigen Bundesministerin oder dem zuständigen  Bundesminister  bis  30. Juni  jeden  Jahres  den  Finanzplan  für  das  folgende  Jahr  und  die Vorschau über die zwei darauf folgenden Jahre zur Genehmigung vorzulegen. Für das erste Geschäftsjahr ist  durch  das  Bundesministerium  für  Wissenschaft  und  Forschung  ein  provisorischer  Finanzplan  zu erstellen, der bis zur Genehmigung eines Finanzplanes durch das Board Anwendung findet.
 
-- Die Zuteilungen der Mittel erfolgen monatlich aliquot.
+(3) Die Zuteilungen der Mittel erfolgen monatlich aliquot.
 
 (4) Die Agentur für Qualitätssicherung und Akkreditierung Austria kann über ihre Einnahmen frei verfügen, sofern gesetzlich nichts anderes bestimmt ist. Allfällige Zweckwidmungen sind zu berücksichtigen.
 
@@ -454,23 +518,23 @@ Bundesrecht konsolidiert
 
 (6) Für Verbindlichkeiten der Agentur für Qualitätssicherung und Akkreditierung Austria übernimmt der Bund keine Haftung.
 
-- Die  Gebarung  der  Agentur  für  Qualitätssicherung  und  Akkreditierung  Austria  unterliegt  der Prüfung durch den Rechnungshof.
+(7) Die Gebarung der Agentur für Qualitätssicherung und Akkreditierung Austria unterliegt der Prüfung durch den Rechnungshof.
 
 #### Rechnungswesen
 
 § 16. (1) Die Agentur für Qualitätssicherung und Akkreditierung Austria hat unter der Verantwortung  der  Präsidentin  oder  des  Präsidenten  des  Boards  unter  sinngemäßer  Anwendung  des Unternehmensgesetzbuches, dRGBl. S 219/1897, ein Rechnungswesen, einschließlich einer Kosten- und Leistungsrechnung, einzurichten, das
 
-- den Aufgaben der Agentur entspricht,
+1. den Aufgaben der Agentur entspricht,
 
-- die Erfüllung der Berichterstattungspflichten nach den Richtlinien der Bundesministerin oder des Bundesministers für Finanzen für die einheitliche Einrichtung eines Planungs-, Informations- und Berichterstattungssystems  des  Bundes  für  das  Beteiligungs-  und  Finanzcontrolling,  BGBl. II Nr. 319/2002, sichert und
+2. die Erfüllung der Berichterstattungspflichten nach den Richtlinien der Bundesministerin oder des Bundesministers für Finanzen für die einheitliche Einrichtung eines Planungs-, Informations- und Berichterstattungssystems des Bundes für das Beteiligungs- und Finanzcontrolling, BGBl. II Nr. 319/2002, sichert und
 
-- eine  Trennung  in  Rechnungskreise  vorsieht,  wobei  jedenfalls  eine  Trennung  zwischen  den Aufgaben gemäß § 3 Abs. 3 Z 1 bis 6 und Z 7 bis 10 vorzunehmen ist.
+3. eine Trennung in Rechnungskreise vorsieht, wobei jedenfalls eine Trennung zwischen den Aufgaben gemäß § 3 Abs. 3 Z 1 bis 6 und Z 7 bis 10 vorzunehmen ist.
 
 (2)  Die  zuständige  Bundesministerin  oder  der  zuständige  Bundesminister  kann  durch  Verordnung festlegen,  dass  die  Agentur  für  Qualitätssicherung  und  Akkreditierung  Austria  ihr  oder  ihm  laufend automationsunterstützt und in technisch geeigneter Form den Zugang zu den für die Planung, Steuerung und die Statistik benötigten standardisierten Daten ermöglicht.
 
 (3)  Das  Rechnungsjahr  der  Agentur  für  Qualitätssicherung  und  Akkreditierung  Austria  entspricht dem Kalenderjahr.
 
-(4) Die Präsidentin oder der Präsident hat der zuständigen Bundesministerin oder dem zuständigen Bundesminister bis 30. Juni jeden Jahres einen Rechnungsabschluss über das abgelaufene Rechnungsjahr zusammen  mit  einem  Bericht  einer  Abschlussprüferin  oder  eines  Abschlussprüfers  vorzulegen.  Der Rechnungsabschluss  besteht  aus  Bilanz,  Gewinn-  und  Verlustrechnung  sowie  Erläuterungen.  Die Abschlussprüferin  oder  der  Abschlussprüfer  muss  eine  von  der  Agentur  für  Qualitätssicherung  und Akkreditierung Austria unabhängige beeidete Wirtschaftsprüferin und Steuerberaterin oder ein unabhängiger beeideter Wirtschaftsprüfer und Steuerberater oder eine Wirtschaftsprüfungsund Steuerberatungsgesellschaft sein. Für die Auswahl und die Verantwortung der Abschlussprüferin oder des Abschlussprüfers sowie für die Durchführung der Prüfung gelten die Bestimmungen des Unternehmensgesetzbuches sinngemäß.
+(4) Die Präsidentin oder der Präsident hat der zuständigen Bundesministerin oder dem zuständigen Bundesminister bis 30. Juni jeden Jahres einen Rechnungsabschluss über das abgelaufene Rechnungsjahr zusammen mit einem Bericht einer Abschlussprüferin oder eines Abschlussprüfers vorzulegen. Der Rechnungsabschluss besteht aus Bilanz, Gewinn- und Verlustrechnung sowie Erläuterungen. Die Abschlussprüferin oder der Abschlussprüfer muss eine von der Agentur für Qualitätssicherung und Akkreditierung Austria unabhängige beeidete Wirtschaftsprüferin und Steuerberaterin oder ein
 
 www.ris.bka.gv.at
 
@@ -482,7 +546,9 @@ Seite 8 von 21
 
 Bundesrecht konsolidiert
 
-(5)  Die  Bestellung  der  Abschlussprüferin  oder  des  Abschlussprüfers  hat  durch  die  zuständige Bundesministerin oder den zuständigen Bundesminister auf Vorschlag des Kuratoriums vor Ablauf des Rechnungsjahres zu erfolgen.
+unabhängiger beeideter Wirtschaftsprüfer und Steuerberater oder eine Wirtschaftsprüfungs- und Steuerberatungsgesellschaft sein. Für die Auswahl und die Verantwortung der Abschlussprüferin oder des Abschlussprüfers sowie für die Durchführung der Prüfung gelten die Bestimmungen des Unternehmensgesetzbuches sinngemäß.
+
+(5) Die Bestellung der Abschlussprüferin oder des Abschlussprüfers hat durch die zuständige Bundesministerin oder den zuständigen Bundesminister auf Vorschlag des Kuratoriums vor Ablauf des Rechnungsjahres zu erfolgen.
 
 #### Abgaben- und Gebührenbefreiung
 
@@ -499,7 +565,7 @@ Bundesrecht konsolidiert
 
 § 18. (1)  Das  Qualitätsmanagementsystem  von  Universitäten  nach  UG  und  der  Universität  für Weiterbildung  Krems  nach  DUK-Gesetz 2004  sowie  von  Erhaltern  von  Fachhochschul-Studiengängen, die bis zum  29. Februar  2012  akkreditiert und  einer  institutionellen  Evaluierung  gemäß  FHStG unterzogen werden, ist in periodischen Abständen einem Audit zu unterziehen.
 
-(2)  Die  staatliche  Anerkennung  von  Bildungseinrichtungen  als  Erhalter  von  FachhochschulStudiengängen oder als Privatuniversität erfolgt durch Akkreditierung der Bildungseinrichtungen (institutionelle Akkreditierung) und Akkreditierung der Studien (Programmakkreditierung).
+(2) Die staatliche Anerkennung von Bildungseinrichtungen als Erhalter von Fachhochschul-Studiengängen oder als Privatuniversität erfolgt durch Akkreditierung der Bildungseinrichtungen (institutionelle Akkreditierung) und Akkreditierung der Studien (Programmakkreditierung).
 
 (3)  Neu  einzurichtende  Fachhochschul-Studiengänge  und  Studien  an  Privatuniversitäten,  die  mit einem akademischen Grad enden, sind zu akkreditieren.
 
@@ -535,19 +601,19 @@ Bundesrecht konsolidiert
 
 § 22. (1)  Die  Zertifizierung  des  Qualitätsmanagementsystems  einer  Bildungseinrichtung  hat  durch ein Audit gemäß den in Abs. 2 genannten Prüfbereichen zu erfolgen.
 
-(2) Für Universitäten  nach  UG  und  DUK-Gesetz 2004  sowie  Erhalter  von  FachhochschulStudiengängen nach FHStG bestehen jedenfalls folgende Prüfbereiche:
+(2) Für Universitäten nach UG und DUK-Gesetz 2004 sowie Erhalter von Fachhochschul-Studiengängen nach FHStG bestehen jedenfalls folgende Prüfbereiche:
 
-- Qualitätsstrategie und deren Integration in die Steuerungsinstrumente der Hochschule;
+1. Qualitätsstrategie und deren Integration in die Steuerungsinstrumente der Hochschule;
 
-- Strukturen und Verfahren der Qualitätssicherung in den Bereichen Studien und Lehre, Forschung oder Entwicklung und Erschließung der Künste oder Angewandte Forschung und Entwicklung, Organisation und Administration und Personal;
+2. Strukturen und Verfahren der Qualitätssicherung in den Bereichen Studien und Lehre, Forschung oder Entwicklung und Erschließung der Künste oder Angewandte Forschung und Entwicklung, Organisation und Administration und Personal;
 
-- Einbindung von Internationalisierung und gesellschaftlichen Zielsetzungen in das Qualitätsmanagementsystem;
+3. Einbindung von Internationalisierung und gesellschaftlichen Zielsetzungen in das Qualitätsmanagementsystem;
 
-- Informationssysteme und Beteiligung von Interessensgruppen;
+4. Informationssysteme und Beteiligung von Interessensgruppen;
 
-- Strukturen  und  Verfahren der Qualitätssicherung von  Lehrgängen  zur  Weiterbildung  bei Erhaltern  von  Fachhochschul-Studiengängen  gemäß  § 9  FHStG  sowie  von  Lehrgängen  zur Weiterbildung, die in Kooperationsform im Sinne des § 3 Abs. 2 Z 11 FHStG betrieben werden;
+5. Strukturen und Verfahren der Qualitätssicherung von Lehrgängen zur Weiterbildung bei Erhaltern von Fachhochschul-Studiengängen gemäß § 9 FHStG sowie von Lehrgängen zur Weiterbildung, die in Kooperationsform im Sinne des § 3 Abs. 2 Z 11 FHStG betrieben werden;
 
-- Strukturen und Verfahren der Qualitätssicherung für das Lehramt an Schulen bzw. Berufstätigkeiten  an  elementarpädagogischen  Bildungseinrichtungen  insbesondere  zur  Prüfung der wissenschaftlichen und professionsorientierten Voraussetzungen für die Leistungserbringung.
+6. Strukturen und Verfahren der Qualitätssicherung für das Lehramt an Schulen bzw. Berufstätigkeiten an elementarpädagogischen Bildungseinrichtungen insbesondere zur Prüfung der wissenschaftlichen und professionsorientierten Voraussetzungen für die Leistungserbringung.
 
 (3)  Die  Konkretisierung  der  Prüfbereiche  für  Verfahren  der  Agentur  für  Qualitätssicherung  und Akkreditierung Austria erfolgt durch Richtlinien des Boards.
 
@@ -567,17 +633,17 @@ Bundesrecht konsolidiert
 
 (3) Die Prüfbereiche der institutionellen Akkreditierung umfassen jedenfalls:
 
-- Zielsetzung und Profilbildung;
+1. Zielsetzung und Profilbildung;
 
-- Entwicklungsplanung;
+2. Entwicklungsplanung;
 
-- Studien und Lehre;
+3. Studien und Lehre;
 
-- Angewandte Forschung und Entwicklung;
+4. Angewandte Forschung und Entwicklung;
 
-- Organisation der Hochschule und ihrer Leistungen;
+5. Organisation der Hochschule und ihrer Leistungen;
 
-- Finanzierung und Ressourcen;
+6. Finanzierung und Ressourcen;
 
 www.ris.bka.gv.at
 
@@ -589,37 +655,37 @@ Seite 10 von 21
 
 Bundesrecht konsolidiert
 
-- nationale und internationale Kooperationen;
+7. nationale und internationale Kooperationen;
 
-- Qualitätsmanagementsystem.
+8. Qualitätsmanagementsystem.
 
 (4) Die Prüfbereiche der Programmakkreditierung für den beantragten Fachhochschul-Studiengang umfassen jedenfalls:
 
-- Studiengang und Studiengangsmanagement;
+1. Studiengang und Studiengangsmanagement;
 
-- Personal;
+2. Personal;
 
-- Qualitätssicherung;
+3. Qualitätssicherung;
 
-- Finanzierung und Infrastruktur;
+4. Finanzierung und Infrastruktur;
 
-- Angewandte Forschung und Entwicklung;
+5. Angewandte Forschung und Entwicklung;
 
-- nationale und internationale Kooperationen.
+6. nationale und internationale Kooperationen.
 
 (5) Das Board hat nach Durchführung eines öffentlichen Begutachtungsverfahrens eine Verordnung zu  erlassen,  in  der  Festlegungen  hinsichtlich  der  Prüfbereiche  und  methodischen  Verfahrensgrundsätze der institutionellen Akkreditierung und Programmakkreditierung zu treffen sind.
 
-(6)  Erfüllt  die  Antragstellerin  oder  der  Antragsteller  die  Voraussetzungen,  ist  die  Akkreditierung gemäß  Abs. 1 und Abs. 3 befristet für sechs Jahre oder gemäß  Abs. 1 und Abs. 4 unbefristet auszusprechen. Der Akkreditierungsbescheid hat jedenfalls folgende Angaben zu enthalten:
+(6) Erfüllt die Antragstellerin oder der Antragsteller die Voraussetzungen, ist die Akkreditierung gemäß Abs. 1 und Abs. 3 befristet für sechs Jahre oder gemäß Abs. 1 und Abs. 4 unbefristet auszusprechen. Der Akkreditierungsbescheid hat jedenfalls folgende Angaben zu enthalten:
 
-- Zeitraum der Akkreditierung;
+1. Zeitraum der Akkreditierung;
 
-- Bezeichnung des Rechtsträgers der Bildungseinrichtung;
+2. Bezeichnung des Rechtsträgers der Bildungseinrichtung;
 
-- Bezeichnung, Art, Arbeitsaufwand der Studien, Dauer der Studien und Anzahl der Studienplätze;
+3. Bezeichnung, Art, Arbeitsaufwand der Studien, Dauer der Studien und Anzahl der Studienplätze;
 
-- Wortlaut der zu verleihenden akademischen Grade;
+4. Wortlaut der zu verleihenden akademischen Grade;
 
-- allfällige Auflagen.
+5. allfällige Auflagen.
 
 (7) Eine einmalige Verlängerung der institutionellen Akkreditierung für sechs Jahre ist auf Antrag zulässig,  wenn  die  Voraussetzungen  gemäß  Abs. 1  und  3  weiterhin  vorliegen.  Die  Verlängerung  der Akkreditierung  umfasst auch  die  bis  zu  diesem  Zeitpunkt  akkreditierten  Studien.  Die  Verlängerung  ist spätestens neun Monate vor Ablauf des Genehmigungszeitraumes zu beantragen. Wird die institutionelle Akkreditierung nicht verlängert, sind alle Programmakkreditierungen der Bildungseinrichtung zu widerrufen.
 
@@ -637,9 +703,9 @@ Bundesrecht konsolidiert
 
 (3) Die Prüfbereiche der institutionellen Akkreditierung umfassen jedenfalls:
 
-- Zielsetzung und Profilbildung;
+1. Zielsetzung und Profilbildung;
 
-- Entwicklungsplanung;
+2. Entwicklungsplanung;
 
 www.ris.bka.gv.at
 
@@ -651,57 +717,57 @@ Seite 11 von 21
 
 Bundesrecht konsolidiert
 
-- Studien und Lehre;
+3. Studien und Lehre;
 
-- Forschung und Entwicklung / Erschließung und Entwicklung der Künste;
+4. Forschung und Entwicklung / Erschließung und Entwicklung der Künste;
 
-- Organisation der Hochschule und ihrer Leistungen;
+5. Organisation der Hochschule und ihrer Leistungen;
 
-- Finanzierung und Ressourcen;
+6. Finanzierung und Ressourcen;
 
-- nationale und internationale Kooperationen;
+7. nationale und internationale Kooperationen;
 
-- Qualitätsmanagementsystem.
+8. Qualitätsmanagementsystem.
 
-(4)  Die  Prüfbereiche  der  Programmakkreditierung  für  den  beantragten  Studiengang  umfassen jedenfalls:
+(4) Die Prüfbereiche der Programmakkreditierung für den beantragten Studiengang umfassen jedenfalls:
 
-- Studiengang und Studiengangsmanagement;
+1. Studiengang und Studiengangsmanagement;
 
-- Personal;
+2. Personal;
 
-- Qualitätssicherung;
+3. Qualitätssicherung;
 
-- Finanzierung und Infrastruktur;
+4. Finanzierung und Infrastruktur;
 
-- Forschung und Entwicklung;
+5. Forschung und Entwicklung;
 
-- nationale und internationale Kooperationen.
+6. nationale und internationale Kooperationen.
 
 (5) Die Prüfbereiche der Programmakkreditierung für Universitätslehrgänge umfassen jedenfalls:
 
-- Lehrgang und Lehrgangsmanagement;
+1. Lehrgang und Lehrgangsmanagement;
 
-- Personal;
+2. Personal;
 
-- Qualitätssicherung;
+3. Qualitätssicherung;
 
-- Finanzierung und Infrastruktur;
+4. Finanzierung und Infrastruktur;
 
-- Einbindung des Lehrganges in Forschung und Entwicklung oder Entwicklung und Erschließung der Künste.
+5. Einbindung des Lehrganges in Forschung und Entwicklung oder Entwicklung und Erschließung der Künste.
 
-(6) Das Board hat nach Durchführung eines öffentlichen Begutachtungsverfahrens eine Verordnung zu  erlassen,  in  der  Festlegungen  hinsichtlich  der  Prüfbereiche  und  methodischen  Verfahrensgrundsätze der institutionellen Akkreditierung und Programmakkreditierung zu treffen sind.
+(6) Das Board hat nach Durchführung eines öffentlichen Begutachtungsverfahrens eine Verordnung zu erlassen, in der Festlegungen hinsichtlich der Prüfbereiche und methodischen Verfahrensgrundsätze der institutionellen Akkreditierung und Programmakkreditierung zu treffen sind.
 
-(7)  Erfüllt  die  Antragstellerin  oder  der  Antragsteller  die  Voraussetzungen,  ist  die  Akkreditierung befristet für sechs Jahre auszusprechen. Der Akkreditierungsbescheid hat jedenfalls folgende Angaben zu enthalten:
+(7) Erfüllt die Antragstellerin oder der Antragsteller die Voraussetzungen, ist die Akkreditierung befristet für sechs Jahre auszusprechen. Der Akkreditierungsbescheid hat jedenfalls folgende Angaben zu enthalten:
 
-- Zeitraum der Akkreditierung;
+1. Zeitraum der Akkreditierung;
 
-- Bezeichnung des Rechtsträgers der Bildungseinrichtung;
+2. Bezeichnung des Rechtsträgers der Bildungseinrichtung;
 
-- Bezeichnung, Art, Arbeitsaufwand der Studien und Dauer der Studien;
+3. Bezeichnung, Art, Arbeitsaufwand der Studien und Dauer der Studien;
 
-- Wortlaut der zu verleihenden akademischen Grade;
+4. Wortlaut der zu verleihenden akademischen Grade;
 
-- allfällige Auflagen.
+5. allfällige Auflagen.
 
 (8)  Eine  Verlängerung  der  institutionellen  Akkreditierung  für  sechs  Jahre  ist  auf  Antrag  zulässig, wenn die Voraussetzungen gemäß Abs. 1 und 3 weiterhin vorliegen. Die Verlängerung der Akkreditierung  umfasst auch  die  bis  zu  diesem  Zeitpunkt  akkreditierten  Studien.  Die  Verlängerung  ist spätestens neun Monate vor Ablauf des Genehmigungszeitraumes zu beantragen. Wird die institutionelle Akkreditierung nicht verlängert, sind alle Programmakkreditierungen der Bildungseinrichtung zu widerrufen.
 
@@ -729,47 +795,47 @@ Bundesrecht konsolidiert
 
 (2) Dem Antrag sind beizulegen:
 
-- Name der antragstellenden juristischen Person; ist die antragstellende Einrichtung eine juristische Person  des  privaten  Rechts,  so  ist  ein  Auszug  aus  dem  Firmenbuch  oder  Vereinsregister beizubringen;
+1. Name der antragstellenden juristischen Person; ist die antragstellende Einrichtung eine juristische Person des privaten Rechts, so ist ein Auszug aus dem Firmenbuch oder Vereinsregister beizubringen;
 
-- Alle Unterlagen, die dem Nachweis der Erfüllung der gesetzlich festgelegten Akkreditierungsvoraussetzungen dienen.
+2. Alle Unterlagen, die dem Nachweis der Erfüllung der gesetzlich festgelegten Akkreditierungsvoraussetzungen dienen.
 
-(3) Die Akkreditierung, ihre Verlängerung, ihr Widerruf und ihr Erlöschen haben durch Bescheid zu erfolgen. Die Mitglieder des Boards sind in Ausübung ihres Amtes unabhängig und an keine Weisungen gebunden. Die Entscheidung des Boards bedarf vor Bescheiderlassung der Genehmigung der zuständigen Bundesministerin  oder  des  zuständigen  Bundesministers.  Die  Genehmigung  ist  zu  versagen,  wenn  die Entscheidung gegen Bestimmungen dieses Bundesgesetzes verstößt oder im Widerspruch zu nationalen bildungspolitischen Interessen steht.
+(3) Die Akkreditierung, ihre Verlängerung, ihr Widerruf und ihr Erlöschen haben durch Bescheid zu erfolgen. Die Mitglieder des Boards sind in Ausübung ihres Amtes unabhängig und an keine Weisungen gebunden. Die Entscheidung des Boards bedarf vor Bescheiderlassung der Genehmigung der zuständigen Bundesministerin oder des zuständigen Bundesministers. Die Genehmigung ist zu versagen, wenn die Entscheidung gegen Bestimmungen dieses Bundesgesetzes verstößt oder im Widerspruch zu nationalen bildungspolitischen Interessen steht.
 
 (4) Der Akkreditierungsbescheid ist bei Änderung der im Bescheid enthaltenen Inhalte auf Antrag oder von Amts wegen zu ergänzen oder abzuändern.
 
 (5) (Anm.: aufgehoben durch BGBl. I Nr. 79/2013)
 
-(6) Auf das Verfahren zur Akkreditierung, ihrer Verlängerung, ihrem Widerruf und zur Feststellung ihres  Erlöschens  sind  das  AVG  und  das  Zustellgesetz,  BGBl.  Nr. 200/1982  mit  folgender  Maßgabe anzuwenden:
+(6) Auf das Verfahren zur Akkreditierung, ihrer Verlängerung, ihrem Widerruf und zur Feststellung ihres Erlöschens sind das AVG und das Zustellgesetz, BGBl. Nr. 200/1982 mit folgender Maßgabe anzuwenden:
 
-- der  verfahrenseinleitende  Antrag  kann  nur  bis  zum  Vorliegen  der  Berichte  der  Gutachterinnen oder Gutachter abgeändert werden;
+1. der verfahrenseinleitende Antrag kann nur bis zum Vorliegen der Berichte der Gutachterinnen oder Gutachter abgeändert werden;
 
-- die Entscheidungsfrist beträgt neun Monate.
+2. die Entscheidungsfrist beträgt neun Monate.
 
-- die Bundesministerin  oder  der Bundesminister  ist nicht  sachlich  in  Betracht  kommende Oberbehörde nach § 73 Abs. 2 AVG.
+3. die Bundesministerin oder der Bundesminister ist nicht sachlich in Betracht kommende Oberbehörde nach § 73 Abs. 2 AVG.
 
 #### Erlöschen und Widerruf der Akkreditierung
 
 § 26. (1) Die Akkreditierung erlischt:
 
-- im Falle einer befristeten Akkreditierung durch Zeitablauf, wenn nicht spätestens neun Monate vor Ablauf der Akkreditierung ein Antrag auf Verlängerung gestellt wurde. Ist das Verfahren zur Verlängerung der Akkreditierung nicht binnen neun Monaten abgeschlossen, so verlängert sich die  Akkreditierung  bis  zum  Abschluss  des  Verfahrens.  Das  Erlöschen  ist  mit  Bescheid festzustellen;
+1. im Falle einer befristeten Akkreditierung durch Zeitablauf, wenn nicht spätestens neun Monate vor Ablauf der Akkreditierung ein Antrag auf Verlängerung gestellt wurde. Ist das Verfahren zur Verlängerung der Akkreditierung nicht binnen neun Monaten abgeschlossen, so verlängert sich die Akkreditierung bis zum Abschluss des Verfahrens. Das Erlöschen ist mit Bescheid festzustellen;
 
-- im  Falle  der  Auflösung  der  juristischen  Person,  die  als  Rechtsträger  der  Bildungseinrichtung fungierte, mit dem Zeitpunkt ihrer Auflösung;
+2. im Falle der Auflösung der juristischen Person, die als Rechtsträger der Bildungseinrichtung fungierte, mit dem Zeitpunkt ihrer Auflösung;
 
-- durch  Widerruf  aller  Programmakkreditierungen  oder  der  institutionellen  Akkreditierung  der Bildungseinrichtung.
+3. durch Widerruf aller Programmakkreditierungen oder der institutionellen Akkreditierung der Bildungseinrichtung.
 
-- Die Akkreditierung ist durch das Board mit Bescheid zu widerrufen:
+(2) Die Akkreditierung ist durch das Board mit Bescheid zu widerrufen:
 
-- bei Wegfall der gesetzlichen Voraussetzungen gemäß FHStG oder PUG für die ununterbrochene Dauer von mindestens sechs Monaten;
+1. bei Wegfall der gesetzlichen Voraussetzungen gemäß FHStG oder PUG für die ununterbrochene Dauer von mindestens sechs Monaten;
 
-- bei Verweigerung der Berichts- und Informationspflichten und der Mitwirkung an statistischen Erhebungen gemäß Bildungsdokumentationsgesetz, BGBl. I Nr. 12/2002 und FHStG;
+2. bei Verweigerung der Berichts- und Informationspflichten und der Mitwirkung an statistischen Erhebungen gemäß Bildungsdokumentationsgesetz, BGBl. I Nr. 12/2002 und FHStG;
 
-- bei Anbieten nicht-akkreditierter Studien, die zu akademischen Graden führen sollen;
+3. bei Anbieten nicht-akkreditierter Studien, die zu akademischen Graden führen sollen;
 
-- bei  schweren  Verstößen  gegen  gesetzliche  Regelungen,  wenn  dadurch  der  ordnungsgemäße Betrieb des Studienganges gefährdet ist;
+4. bei schweren Verstößen gegen gesetzliche Regelungen, wenn dadurch der ordnungsgemäße Betrieb des Studienganges gefährdet ist;
 
-- in den in §§ 23 und 24 genannten Fällen.
+5. in den in §§ 23 und 24 genannten Fällen.
 
-(3)  Im Falle des Erlöschens oder des Widerrufes der Akkreditierung von FachhochschulStudiengängen oder von Studien an Privatuniversitäten hat der Erhalter oder der Träger der Privatuniversität  der  Agentur  für  Qualitätssicherung  und  Akkreditierung  Austria  einen  Vorschlag  zu erstatten,  der  den  Studierenden  der  betroffenen  Studien  einen  Studienabschluss  innerhalb  eines  die vorgeschriebene Studiendauer um ein Jahr nicht übersteigenden Zeitraumes ermöglicht. Zur Finanzierung auslaufender  Studien  ist  vom  Erhalter  oder  vom  Träger  der  Privatuniversität  finanzielle  Vorsorge  zu treffen. Diese muss im Zuge des Akkreditierungsverfahrens nachgewiesen werden.
+(3) Im Falle des Erlöschens oder des Widerrufes der Akkreditierung von Fachhochschul-Studiengängen oder von Studien an Privatuniversitäten hat der Erhalter oder der Träger der Privatuniversität der Agentur für Qualitätssicherung und Akkreditierung Austria einen Vorschlag zu erstatten, der den Studierenden der betroffenen Studien einen Studienabschluss innerhalb eines die vorgeschriebene Studiendauer um ein Jahr nicht übersteigenden Zeitraumes ermöglicht. Zur Finanzierung auslaufender Studien ist vom Erhalter oder vom Träger der Privatuniversität finanzielle Vorsorge zu treffen. Diese muss im Zuge des Akkreditierungsverfahrens nachgewiesen werden.
 
 www.ris.bka.gv.at
 
@@ -786,7 +852,7 @@ Bundesrecht konsolidiert
 ## 5. Abschnitt
 ### Grenzüberschreitende Studien
 
-§ 27. (1) Bildungseinrichtungen, die in ihrem jeweiligen Herkunfts- bzw. Sitzstaat als postsekundär im Sinne des § 51 Abs. 2 Z 1 UG anerkannt sind, dürfen in Österreich ihre Studien durchführen, soweit diese  in  ihrem  Herkunfts-  bzw.  Sitzstaat  anerkannte  Ausbildungen  im  Sinne  des  § 51  Abs. 2  Z 1  UG darstellen  und  diese  Studien  und  akademischen  Grade  mit  österreichischen  Studien  und  akademischen Graden  vergleichbar  sind.  Die  Durchführung  der  Studien  ist  zu  melden.  Die  Studien  an  Universitäten nach UG und der Universität für Weiterbildung Krems nach DUK-Gesetz 2004, am Institute of Science and Technology -Austria gemäß dem Bundesgesetz über das Institute of Science and Technology - Austria, BGBl. I Nr. 69/2006, und die Studien an öffentlichen und privaten Pädagogischen Hochschulen  oder  private  Studienangebote  nach  Hochschulgesetz 2005,  BGBl. I  Nr. 30/2006  sowie Lehrgänge  zur  Weiterbildung  nach  FHStG,  unterliegen  auf  Grund  der  genannten  Bundesgesetze,  die Studien  an  Privatuniversitäten  und  die  Fachhochschul-Studiengänge  aufgrund  der  Akkreditierung  nach §§ 23 und 24 keiner Meldepflicht. Das Anbieten von Studien, welche mit österreichischen Studien nicht vergleichbar  sind,  ist  unzulässig.  Bildungseinrichtungen,  die  in  ihrem  jeweiligen  Herkunfts-  bzw. Sitzstaat  nicht  als  postsekundär  im  Sinne  des  § 51  Abs. 2  Z 1  UG  anerkannt  sind,  dürfen  Studien  in Österreich nicht anbieten.
+§ 27. (1) Bildungseinrichtungen, die in ihrem jeweiligen Herkunfts- bzw. Sitzstaat als postsekundär im Sinne des § 51 Abs. 2 Z 1 UG anerkannt sind, dürfen in Österreich ihre Studien durchführen, soweit diese in ihrem Herkunfts- bzw. Sitzstaat anerkannte Ausbildungen im Sinne des § 51 Abs. 2 Z 1 UG darstellen und diese Studien und akademischen Grade mit österreichischen Studien und akademischen Graden vergleichbar sind. Die Durchführung der Studien ist zu melden. Die Studien an Universitäten nach UG und der Universität für Weiterbildung Krems nach DUK-Gesetz 2004, am Institute of Science and Technology - Austria gemäß dem Bundesgesetz über das Institute of Science and Technology - Austria, BGBl. I Nr. 69/2006, und die Studien an öffentlichen und privaten Pädagogischen Hochschulen oder private Studienangebote nach Hochschulgesetz 2005, BGBl. I Nr. 30/2006 sowie Lehrgänge zur Weiterbildung nach FHStG, unterliegen auf Grund der genannten Bundesgesetze, die Studien an Privatuniversitäten und die Fachhochschul-Studiengänge aufgrund der Akkreditierung nach §§ 23 und 24 keiner Meldepflicht. Das Anbieten von Studien, welche mit österreichischen Studien nicht vergleichbar sind, ist unzulässig. Bildungseinrichtungen, die in ihrem jeweiligen Herkunfts- bzw. Sitzstaat nicht als postsekundär im Sinne des § 51 Abs. 2 Z 1 UG anerkannt sind, dürfen Studien in Österreich nicht anbieten.
 
 (2) Mit der Meldung sind Urkunden vorzulegen, aus denen hervorgeht, dass die Bildungseinrichtung in  ihrem  jeweiligen  Herkunfts-  bzw.  Sitzstaat  als  postsekundär  im  Sinne  des  § 51  Abs. 2  Z 1  UG anerkannt  ist  sowie  die  Rechtsgrundlage  dieser  Anerkennung  und  der  Anerkennung  des  jeweiligen Studiums im Herkunfts- bzw. Sitzstaat.
 
@@ -798,7 +864,7 @@ Bundesrecht konsolidiert
 
 (6)  Die  Meldestelle  hat  ein  Verzeichnis  der  gemeldeten  Bildungseinrichtungen  und  Studien  zu führen und auf dem neuesten Stand zu halten. Die Bundesministerin oder der Bundesminister ist darüber regelmäßig zu informieren.
 
-(7) Mit der Aufnahme in das Verzeichnis gemäß Abs. 6 ist keine Feststellung der Gleichwertigkeit mit österreichischen Studien und entsprechenden österreichischen akademischen Graden verbunden. Die Studien und akademischen Grade gelten als solche des Herkunftsbzw. Sitzstaates der Bildungseinrichtung.
+(7) Mit der Aufnahme in das Verzeichnis gemäß Abs. 6 ist keine Feststellung der Gleichwertigkeit mit österreichischen Studien und entsprechenden österreichischen akademischen Graden verbunden. Die Studien und akademischen Grade gelten als solche des Herkunfts- bzw. Sitzstaates der Bildungseinrichtung.
 
 ## 6. Abschnitt
 
@@ -806,7 +872,7 @@ Bundesrecht konsolidiert
 
 § 28. (1)  Das  Board  hat  jährlich  einen  Tätigkeitsbericht  zu  erstellen  und  diesen  der  zuständigen Bundesministerin oder dem  zuständigen  Bundesminister  zu übermitteln. In diesem  Bericht sind insbesondere die durchgeführten Qualitätssicherungsverfahren, die Personalentwicklung und die aufgewendeten Finanzmittel darzustellen. Der Bericht ist von der zuständigen Bundesministerin oder dem zuständigen  Bundesminister  dem  Nationalrat  vorzulegen  und  darüber  hinaus  durch  das  Board  in geeigneter Weise zu veröffentlichen.
 
-(2)  Auf  Basis  der  jährlichen  Berichte  der  Erhalter  von  Fachhochschul-Studiengängen  und  von Privatuniversitäten an die Agentur  für Qualitätssicherung  und  Akkreditierung Austria sowie  des Berichtswesens der Universitäten gemäß UG und der Universität für Weiterbildung Krems gemäß DUKGesetz 2004 hat die Agentur für Qualitätssicherung und Akkreditierung Austria mindestens alle drei Jahre einen  Bericht  zur  Entwicklung  der  Qualitätssicherung  an  hochschulischen  Bildungseinrichtungen  zu erstellen und zu veröffentlichen.
+(2) Auf Basis der jährlichen Berichte der Erhalter von Fachhochschul-Studiengängen und von Privatuniversitäten an die Agentur für Qualitätssicherung und Akkreditierung Austria sowie des Berichtswesens der Universitäten gemäß UG und der Universität für Weiterbildung Krems gemäß DUK-Gesetz 2004 hat die Agentur für Qualitätssicherung und Akkreditierung Austria mindestens alle drei Jahre
 
 www.ris.bka.gv.at
 
@@ -818,7 +884,9 @@ Seite 14 von 21
 
 Bundesrecht konsolidiert
 
-(3)  Die  Agentur  für  Qualitätssicherung  und  Akkreditierung  Austria  hat  die  ihr  zur  Verfügung stehenden statistischen Informationen aus dem Fachhochschulbereich der zuständigen Bundesministerin oder dem zuständigen Bundesminister zu übermitteln.
+einen Bericht zur Entwicklung der Qualitätssicherung an hochschulischen Bildungseinrichtungen zu erstellen und zu veröffentlichen.
+
+(3) Die Agentur für Qualitätssicherung und Akkreditierung Austria hat die ihr zur Verfügung stehenden statistischen Informationen aus dem Fachhochschulbereich der zuständigen Bundesministerin oder dem zuständigen Bundesminister zu übermitteln.
 
 ## 7. Abschnitt
 ### Aufsicht
@@ -857,27 +925,27 @@ Seite 15 von 21
 
 Bundesrecht konsolidiert
 
-- Beobachtung  und  Analyse  der  Entwicklung  der  Pädagoginnen-  und  Pädagogenbildung  in Österreich unter Bedachtnahme  auf  europäische und internationale Entwicklungen  sowie Erarbeitung von Vorschlägen zu deren Weiterentwicklung,
+1. Beobachtung und Analyse der Entwicklung der Pädagoginnen- und Pädagogenbildung in Österreich unter Bedachtnahme auf europäische und internationale Entwicklungen sowie Erarbeitung von Vorschlägen zu deren Weiterentwicklung,
 
-- Beratung der Bundesministerinnen und der Bundesminister sowie der hochschulischen Bildungseinrichtungen in Angelegenheiten der Qualitätssicherung und Bedarfsfragen,
+2. Beratung der Bundesministerinnen und der Bundesminister sowie der hochschulischen Bildungseinrichtungen in Angelegenheiten der Qualitätssicherung und Bedarfsfragen,
 
-- Studienangebotsspezifische Prüfung der wissenschaftlichen und professionsorientierten Voraussetzungen für  die  Leistungserbringung  von  Pädagogischen  Hochschulen  allenfalls  unter Hinzuziehung einer dafür international anerkannten unabhängigen HochschulQualitätssicherungseinrichtung (z. B. Agentur für Qualitätssicherung und Akkreditierung Austria oder eine im European Quality Assurance Register eingetragene Qualitätssicherungseinrichtung),
+3. Studienangebotsspezifische Prüfung der wissenschaftlichen und professionsorientierten Voraussetzungen für die Leistungserbringung von Pädagogischen Hochschulen allenfalls unter Hinzuziehung einer dafür international anerkannten unabhängigen Hochschul-Qualitätssicherungseinrichtung (z. B. Agentur für Qualitätssicherung und Akkreditierung Austria oder eine im European Quality Assurance Register eingetragene Qualitätssicherungseinrichtung),
 
-- Stellungnahme im Rahmen der Curricula-Begutachtungsverfahren zu den Curricula der Lehramtsstudien  gemäß Anlage hinsichtlich  der  Umsetzung  der  berufsrechtlichen  Vorgaben (insbesondere der für den Beruf der Pädagoginnen und Pädagogen notwendigen  Kompetenzen, des Qualifikationsprofils, die entsprechende Berücksichtigung von im Schulorganisationsgesetz 1962 in der jeweils geltenden  Fassung  genannten  Aufgaben  der Schularten und der Anstellungserfordernisse) an die anbietende Bildungsinstitution, sowie
+4. Stellungnahme im Rahmen der Curricula-Begutachtungsverfahren zu den Curricula der Lehramtsstudien gemäß Anlage hinsichtlich der Umsetzung der berufsrechtlichen Vorgaben (insbesondere der für den Beruf der Pädagoginnen und Pädagogen notwendigen Kompetenzen, des Qualifikationsprofils, die entsprechende Berücksichtigung von im Schulorganisationsgesetz 1962 in der jeweils geltenden Fassung genannten Aufgaben der Schularten und der Anstellungserfordernisse) an die anbietende Bildungsinstitution, sowie
 
-- jährliche  Veröffentlichung  eines  Berichts  über  den  aktuellen  Stand  der  Pädagoginnen-  und Pädagogenbildung in Österreich und Vorlage an den Nationalrat.
+5. jährliche Veröffentlichung eines Berichts über den aktuellen Stand der Pädagoginnen- und Pädagogenbildung in Österreich und Vorlage an den Nationalrat.
 
-(2)  Der  Qualitätssicherungsrat  besteht  aus  sechs,  auf  fünf  Jahre  bestellten  Mitgliedern,  die  als Expertinnen und Experten aus dem Bereich des nationalen bzw. internationalen Hochschulwesens über die  für  die  Aufgaben  des  Qualitätssicherungsrates  wesentlichen  Kenntnisse,  insbesondere  auch  des österreichischen Schulsystems, verfügen. Eine Wiederbestellung ist möglich. Der Rat soll je zur Hälfte aus  Frauen  und  Männern  bestehen.  Mindestens  zwei Mitglieder müssen  über  eine einschlägige internationale  Berufserfahrung  verfügen.  Drei  Mitglieder  sind  von  der  Bundesministerin  oder  vom Bundesminister für Wissenschaft und Forschung, drei von der Bundesministerin oder vom Bundesminister für Unterricht, Kunst und Kultur zu bestellen.
+(2) Der Qualitätssicherungsrat besteht aus sechs, auf fünf Jahre bestellten Mitgliedern, die als Expertinnen und Experten aus dem Bereich des nationalen bzw. internationalen Hochschulwesens über die für die Aufgaben des Qualitätssicherungsrates wesentlichen Kenntnisse, insbesondere auch des österreichischen Schulsystems, verfügen. Eine Wiederbestellung ist möglich. Der Rat soll je zur Hälfte aus Frauen und Männern bestehen. Mindestens zwei Mitglieder müssen über eine einschlägige internationale Berufserfahrung verfügen. Drei Mitglieder sind von der Bundesministerin oder vom Bundesminister für Wissenschaft und Forschung, drei von der Bundesministerin oder vom Bundesminister für Unterricht, Kunst und Kultur zu bestellen.
 
 (3) Die Mitgliedschaft im Qualitätssicherungsrat endet
 
-- durch Ablauf der Funktionsperiode;
+1. durch Ablauf der Funktionsperiode;
 
-- durch Verzicht;
+2. durch Verzicht;
 
-- durch Abberufung;
+3. durch Abberufung;
 
-- durch Tod.
+4. durch Tod.
 
 (4) Die Bundesministerin oder der Bundesminister kann ein von ihr oder ihm bestelltes Mitglied des Qualitätssicherungsrates  wegen  einer  schweren  Pflichtverletzung,  einer  strafgerichtlichen  Verurteilung oder wegen mangelnder gesundheitlicher Eignung mit Bescheid von seiner Funktion abberufen.
 
@@ -910,13 +978,13 @@ Bundesrecht konsolidiert
 
 (2) Die Ombudsstelle hat die Aufgabe, Informations- und Servicearbeit im Hochschulbereich zu den von  ihr  behandelten  Themen  und  Fällen  zu  leisten.  Sie  hat  in  diesem  Zusammenhang  mit  den Studierendenvertretungen zu kooperieren und regelmäßig durch Veranstaltungen in Informationsaustausch mit Einrichtungen, die mit Studierendenthemen befasst sind, zu treten.
 
-- Jede  und  jeder  Studierende  kann  sich  zur  Information  und  Beratung  im  Studien-,  Lehr-, Prüfungs-, Serviceund Verwaltungsbetrieb an hochschulischen Bildungseinrichtungen an die Ombudsstelle wenden. Jedes solche Anliegen ist von der Ombudsstelle zu behandeln. Der Studierenden oder dem Studierenden und der Bildungseinrichtung sind das Ergebnis  sowie die allenfalls getroffenen Veranlassungen mitzuteilen.
+(3) Jede und jeder Studierende kann sich zur Information und Beratung im Studien-, Lehr-, Prüfungs-, Service- und Verwaltungsbetrieb an hochschulischen Bildungseinrichtungen an die Ombudsstelle wenden. Jedes solche Anliegen ist von der Ombudsstelle zu behandeln. Der Studierenden oder dem Studierenden und der Bildungseinrichtung sind das Ergebnis sowie die allenfalls getroffenen Veranlassungen mitzuteilen.
 
-- Die  Ombudsstelle  ist  berechtigt,  Informationen  in  den  von  den  Studierenden  vorgebrachten Angelegenheiten von den jeweiligen Organen und Angehörigen der Bildungseinrichtungen einzuholen. Die Organe und Angehörigen der Bildungseinrichtungen sind verpflichtet, der Ombudsstelle Auskünfte in den von ihr bezeichneten Angelegenheiten zu erteilen.
+(4) Die Ombudsstelle ist berechtigt, Informationen in den von den Studierenden vorgebrachten Angelegenheiten von den jeweiligen Organen und Angehörigen der Bildungseinrichtungen einzuholen. Die Organe und Angehörigen der Bildungseinrichtungen sind verpflichtet, der Ombudsstelle Auskünfte in den von ihr bezeichneten Angelegenheiten zu erteilen.
 
-- Die Ombudsstelle kann den Organen der Bildungseinrichtung beratend zur Verfügung stehen.
+(5) Die Ombudsstelle kann den Organen der Bildungseinrichtung beratend zur Verfügung stehen.
 
-- Die  Ombudsstelle  ist  zur Verschwiegenheit  über  alle  ausschließlich aus ihrer Tätigkeit bekanntgewordenen Tatsachen verpflichtet.
+(6) Die Ombudsstelle ist zur Verschwiegenheit über alle ausschließlich aus ihrer Tätigkeit bekanntgewordenen Tatsachen verpflichtet.
 
 (7) Die Ombudsstelle hat jährlich einen Bericht über ihre Tätigkeit zu erstellen. Der Bericht für das jeweils vorangegangene Studienjahr ist bis spätestens 15. Dezember eines jeden Jahres der zuständigen Bundesministerin oder dem zuständigen Bundesminister und dem Nationalrat vorzulegen. Dieser Bericht ist zu veröffentlichen.
 
@@ -924,7 +992,7 @@ Bundesrecht konsolidiert
 
 ### Strafbestimmung
 
-§ 32. Wer  vorsätzlich  oder  grob  fahrlässig  einen  Studiengang  oder  eine  Bildungseinrichtung,  die nach den Bestimmungen dieses Bundesgesetzes zu akkreditieren ist oder in das Verzeichnis gemäß § 27 Abs. 6 aufgenommen sein muss, ohne Vorliegen einer entsprechenden Akkreditierung oder Aufnahme in das  entsprechende  Verzeichnis  betreibt  oder  dem  Hochschulwesen  eigentümliche  Bezeichnungen  oder akademische  Grade,  ohne  nach  den  Bestimmungen  dieses  Bundesgesetzes  dazu  berechtigt  zu  sein, verleiht, vermittelt oder führt, begeht, wenn die Tat nicht den Tatbestand einer in die Zuständigkeit der Gerichte  fallenden  strafbaren  Handlung  bildet  oder  nach  anderen  Verwaltungsstrafbestimmungen  mit strengerer Strafe bedroht ist, eine Verwaltungsübertretung, die von der örtlich zuständigen Bezirksverwaltungsbehörde mit einer Geldstrafe von bis zu 25.000 Euro zu bestrafen ist.
+§ 32. Wer vorsätzlich oder grob fahrlässig einen Studiengang oder eine Bildungseinrichtung, die nach den Bestimmungen dieses Bundesgesetzes zu akkreditieren ist oder in das Verzeichnis gemäß § 27 Abs. 6 aufgenommen sein muss, ohne Vorliegen einer entsprechenden Akkreditierung oder Aufnahme in das entsprechende Verzeichnis betreibt oder dem Hochschulwesen eigentümliche Bezeichnungen oder akademische Grade, ohne nach den Bestimmungen dieses Bundesgesetzes dazu berechtigt zu sein, verleiht, vermittelt oder führt, begeht, wenn die Tat nicht den Tatbestand einer in die Zuständigkeit der Gerichte fallenden strafbaren Handlung bildet oder nach anderen Verwaltungsstrafbestimmungen mit
 
 www.ris.bka.gv.at
 
@@ -936,6 +1004,8 @@ Seite 17 von 21
 
 Bundesrecht konsolidiert
 
+strengerer Strafe bedroht ist, eine Verwaltungsübertretung, die von der örtlich zuständigen Bezirksverwaltungsbehörde mit einer Geldstrafe von bis zu 25.000 Euro zu bestrafen ist.
+
 ## 10. Abschnitt
 
 ### Personal
@@ -944,9 +1014,9 @@ Bundesrecht konsolidiert
 
 § 33. (1) Bedienstete, die in einem öffentlichrechtlichen oder privatrechtlichen Dienstverhältnis zum Bund stehen und am Tag vor Inkrafttreten dieses Bundesgesetzes den Geschäftsstellen des Fachhochschulrates  gemäß  FHStG  oder  des  Akkreditierungsrates  gemäß  UniAkkG  sind,  werden  mit Inkrafttreten dieses Bundesgesetzes der Geschäftsstelle der Agentur für Qualitätssicherung und Akkreditierung Austria zugewiesen.
 
-- Bis zum Ablauf des 31. August 2012 haben die Bediensteten gemäß Abs. 1 auch Dienstleistungen bei den abzuschließenden Verfahren des Fachhochschulrates und des Akkreditierungsrates im entsprechend notwendigen Ausmaß zu erbringen.
+(2) Bis zum Ablauf des 31. August 2012 haben die Bediensteten gemäß Abs. 1 auch Dienstleistungen bei den abzuschließenden Verfahren des Fachhochschulrates und des Akkreditierungsrates im entsprechend notwendigen Ausmaß zu erbringen.
 
-- Die Zuweisung  gemäß  Abs. 1  gilt als Dienstzuteilung, die Bediensteten verbleiben  im Planstellenverzeichnis des Bundes und werden vom Bundesministerium für Wissenschaft und Forschung weiterhin  besoldet  und  verwaltet.  Die  Dienst-  und  Fachaufsicht  für  diese  Bediensteten  obliegt  der Präsidentin  oder  dem  Präsidenten  des  Boards  der  Agentur  für  Qualitätssicherung  und  Akkreditierung Austria.
+(3) Die Zuweisung gemäß Abs. 1 gilt als Dienstzuteilung, die Bediensteten verbleiben im Planstellenverzeichnis des Bundes und werden vom Bundesministerium für Wissenschaft und Forschung weiterhin besoldet und verwaltet. Die Dienst- und Fachaufsicht für diese Bediensteten obliegt der Präsidentin oder dem Präsidenten des Boards der Agentur für Qualitätssicherung und Akkreditierung Austria.
 
 #### Neuaufnahmen und Rechtsgrundlagen der Arbeitsverhältnisse
 
@@ -966,11 +1036,11 @@ Bundesrecht konsolidiert
 
 § 36. (1)  Die  erstmalige  Nominierung  der  Mitglieder  der  Generalversammlung  nach  § 11  hat  bis 1. Oktober 2011 zu erfolgen. Bei Säumigkeit geht die Zuständigkeit zur Nominierung auf die zuständige Bundesministerin oder den zuständigen Bundesminister über.
 
-- Bildungseinrichtungen, die zum Zeitpunkt des Inkrafttretens dieses Bundesgesetzes Studien im Sinne des § 27 anbieten, haben sich bis längstens 31. Dezember 2012 einer Registrierung gemäß § 27 zu unterziehen.
+(2) Bildungseinrichtungen, die zum Zeitpunkt des Inkrafttretens dieses Bundesgesetzes Studien im Sinne des § 27 anbieten, haben sich bis längstens 31. Dezember 2012 einer Registrierung gemäß § 27 zu unterziehen.
 
-- Audits an Universitäten nach UG und an der Universität für Weiterbildung Krems, die bis zum Inkrafttreten dieses Bundesgesetzes durchgeführt wurden, sind anzuerkennen, wenn das Audit durch eine im EQAR registrierte oder eine andere unabhängige und international anerkannte Qualitätssicherungsagentur gemäß § 19 durchgeführt wurde.
+(3) Audits an Universitäten nach UG und an der Universität für Weiterbildung Krems, die bis zum Inkrafttreten dieses Bundesgesetzes durchgeführt wurden, sind anzuerkennen, wenn das Audit durch eine im EQAR registrierte oder eine andere unabhängige und international anerkannte Qualitätssicherungsagentur gemäß § 19 durchgeführt wurde.
 
-- Das Eigentumsrecht des Bundes an beweglichen Vermögen, das am Tag vor dem Inkrafttreten diese Bundesgesetzes dem  Fachhochschulrat gemäß  FHStG  und  dem  Akkreditierungsrat  gemäß UniAkkG zur Nutzung überlassen ist, geht einschließlich aller zugehörenden Rechte und Rechtsverhältnisse,  Forderungen  und  Schulden  mit  dem  Tag  des  vollen  Wirksamwerdens  dieses Bundesgesetzes im Wege der Gesamtrechtsfolge auf die Agentur für Qualitätssicherung und Akkreditierung Austria über und ist von dieser in einem Inventarverzeichnis zu erfassen und zu bewerten. Das  im  Eigentum  des  Bundes  stehende  und  bisher  vom  Fachhochschulrat  und  Akkreditierungsrat verwaltete und genutzte bewegliche Vermögen, einschließlich der Einrichtungen, Rechte und Rechtsverhältnisse, Forderungen und Schulden geht mit Inkrafttreten dieses Bundesgesetzes im Wege der Gesamtrechtsnachfolge in das Eigentum der Agentur für Qualitätssicherung und Akkreditierung Austria über.
+(4) Das Eigentumsrecht des Bundes an beweglichen Vermögen, das am Tag vor dem Inkrafttreten dieses Bundesgesetzes dem Fachhochschulrat gemäß FHStG und dem Akkreditierungsrat gemäß UniAkkG zur Nutzung überlassen ist, geht einschließlich aller zugehörenden Rechte und Rechtsverhältnisse, Forderungen und Schulden mit dem Tag des vollen Wirksamwerdens dieses Bundesgesetzes im Wege der Gesamtrechtsfolge auf die Agentur für Qualitätssicherung und Akkreditierung Austria über und ist von dieser in einem Inventarverzeichnis zu erfassen und zu bewerten. Das im Eigentum des Bundes stehende und bisher vom Fachhochschulrat und Akkreditierungsrat verwaltete und genutzte bewegliche Vermögen, einschließlich der Einrichtungen, Rechte und Rechtsverhältnisse, Forderungen und Schulden geht mit Inkrafttreten dieses Bundesgesetzes im Wege der Gesamtrechtsnachfolge in das Eigentum der Agentur für Qualitätssicherung und Akkreditierung Austria über.
 
 www.ris.bka.gv.at
 
@@ -982,35 +1052,35 @@ Seite 18 von 21
 
 Bundesrecht konsolidiert
 
-- Die  Wertansätze  für  das  übergegangene  Vermögen  sind  anlässlich  der  Eröffnungsbilanz festzulegen,  die  binnen  neun  Monaten  ab  Inkrafttreten  dieses  Bundesgesetzes  zu  erstellen  ist. Für  die Bestimmung der Wertansätze in der Eröffnungsbilanz besteht keine Bindung an die Anschaffungs- und Herstellungskosten. Die Wertansätze der technischen Einrichtungen und Anlagen sind entsprechend ihrer Nutzungsmöglichkeit  unter  Berücksichtigung  des  gegenwärtigen  Standes  der  Technik  festzulegen. Die Eröffnungsbilanz  hat  als  Anlage  eine  zusammenfassende  Darstellung  der  Aktiven  und  Passiven  des Fachhochschulrates und des Akkreditierungsrates zu enthalten, die nachvollziehbar und betriebsnotwendig  diesem  Bereich  zuzuordnen  sind,  und  aus  der  die  übergehenden  Gläubiger-  und Schuldnerpositionen erkennbar sind. Die Anlage hat darüber hinaus alle nicht aus der Bilanz ersichtlichen Vermögenswerte  und  Haftungen  zu  enthalten,  die  zu  den  übergegangenen  Betrieben  gehören. Die Wertansätze  der  Eröffnungsbilanz  sind  durch  eine  Wirtschaftsprüferin  oder  einen  Wirtschaftsprüfer  zu prüfen und zu bestätigen. Die Bestellung der Abschlussprüferin oder des Abschlussprüfers hat durch die zuständige Bundesministerin oder den zuständigen Bundesminister zu erfolgen.
+(5) Die Wertansätze für das übergegangene Vermögen sind anlässlich der Eröffnungsbilanz festzulegen, die binnen neun Monaten ab Inkrafttreten dieses Bundesgesetzes zu erstellen ist. Für die Bestimmung der Wertansätze in der Eröffnungsbilanz besteht keine Bindung an die Anschaffungs- und Herstellungskosten. Die Wertansätze der technischen Einrichtungen und Anlagen sind entsprechend ihrer Nutzungsmöglichkeit unter Berücksichtigung des gegenwärtigen Standes der Technik festzulegen. Die Eröffnungsbilanz hat als Anlage eine zusammenfassende Darstellung der Aktiven und Passiven des Fachhochschulrates und des Akkreditierungsrates zu enthalten, die nachvollziehbar und betriebsnotwendig diesem Bereich zuzuordnen sind, und aus der die übergehenden Gläubiger- und Schuldnerpositionen erkennbar sind. Die Anlage hat darüber hinaus alle nicht aus der Bilanz ersichtlichen Vermögenswerte und Haftungen zu enthalten, die zu den übergegangenen Betrieben gehören. Die Wertansätze der Eröffnungsbilanz sind durch eine Wirtschaftsprüferin oder einen Wirtschaftsprüfer zu prüfen und zu bestätigen. Die Bestellung der Abschlussprüferin oder des Abschlussprüfers hat durch die zuständige Bundesministerin oder den zuständigen Bundesminister zu erfolgen.
 
-- Bildungseinrichtungen, die am 1. Juli 2014 Studien im Sinne des § 27 Abs. 5 anbieten, haben bis längstens 31. Dezember 2015 die Bestätigung gemäß § 27 Abs. 5 beizubringen.
+(6) Bildungseinrichtungen, die am 1. Juli 2014 Studien im Sinne des § 27 Abs. 5 anbieten, haben bis längstens 31. Dezember 2015 die Bestätigung gemäß § 27 Abs. 5 beizubringen.
 
 #### Inkrafttreten
 
-§ 37. (1)  Die  §§ 4  bis  13  und  § 36  Abs. 1  dieses  Bundesgesetzes  treten  mit  Ablauf  des  Tages  der Freigabe zur Abfrage im Rechtsinformationssystem des Bundes in Kraft.
+§ 37. (1) Die §§ 4 bis 13 und § 36 Abs. 1 dieses Bundesgesetzes treten mit Ablauf des Tages der Freigabe zur Abfrage im Rechtsinformationssystem des Bundes in Kraft.
 
-- Alle anderen Bestimmungen dieses Bundesgesetzes treten mit 1. März 2012 in Kraft.
+(2) Alle anderen Bestimmungen dieses Bundesgesetzes treten mit 1. März 2012 in Kraft.
 
-§ 25 und § 30 Abs. 4 in der Fassung des Bundesgesetzes BGBl. I Nr. 79/2013 treten mit 1. Jänner 2014 in Kraft.
+(3) § 25 und § 30 Abs. 4 in der Fassung des Bundesgesetzes BGBl. I Nr. 79/2013 treten mit 1. Jänner 2014 in Kraft.
 
-§ 11 Abs. 1 in der Fassung des Bundesgesetzes BGBl I Nr. 45/2014 tritt mit 1. Juli 2015 in Kraft.
+(4) § 11 Abs. 1 in der Fassung des Bundesgesetzes BGBl I Nr. 45/2014 tritt mit 1. Juli 2015 in Kraft.
 
 #### Vollziehung
 
 § 38. Mit der Vollziehung dieses Bundesgesetzes sind betraut:
 
-- hinsichtlich der in § 29 Abs. 2 vorgesehenen Aufsicht über das Vorliegen der Voraussetzungen für die Akkreditierung aus gesundheitsrechtlicher Sicht die Bundesministerin oder der Bundesminister für Gesundheit;
+1. hinsichtlich der in § 29 Abs. 2 vorgesehenen Aufsicht über das Vorliegen der Voraussetzungen für die Akkreditierung aus gesundheitsrechtlicher Sicht die Bundesministerin oder der Bundesminister für Gesundheit;
 
-- hinsichtlich  des  § 30a  die  Bundesministerin  oder  der  Bundesminister  für  Wissenschaft  und Forschung und die Bundesministerin oder der Bundesminister für Unterricht, Kunst und Kultur;
+2. hinsichtlich des § 30a die Bundesministerin oder der Bundesminister für Wissenschaft und Forschung und die Bundesministerin oder der Bundesminister für Unterricht, Kunst und Kultur;
 
-- im Übrigen die Bundesministerin oder der Bundesminister für Wissenschaft und Forschung.
+3. im Übrigen die Bundesministerin oder der Bundesminister für Wissenschaft und Forschung.
 
 ## Anlage
 
 zu § 30 Abs. 1 Z 4
 
-### 'Rahmenvorgaben  für  die  Begutachtung  der  Curricula  durch  den  Qualitätssicherungsrat  für Pädagoginnen- und Pädagogenbildung
+### „Rahmenvorgaben für die Begutachtung der Curricula durch den Qualitätssicherungsrat für Pädagoginnen- und Pädagogenbildung
 
 Der  Qualitätssicherungsrat  für  Pädagoginnen-  und  Pädagogenbildung  orientiert  sich  in  der  Erstellung seiner  Stellungnahmen  im  Rahmen  der  Curricula-Begutachtungsverfahren  zu  den  Curricula  der  neuen Lehramtsstudien an folgenden Rahmenvorgaben zur Studienarchitektur.
 
@@ -1021,9 +1091,9 @@ Der  Qualitätssicherungsrat  für  Pädagoginnen-  und  Pädagogenbildung  orie
 
 - 40 bis 50 ECTS-Credits für allgemeine bildungswissenschaftliche Grundlagen;
 
-- 120 bis 130 ECTS-Credits für Elementar- und Primarstufenpädagogik und -didaktik mit Schwerpunk im jeweiligen Altersbereich (Elementar- oder Primarstufe);
+- 120 bis 130 ECTS-Credits für Elementar- und Primarstufenpädagogik und –didaktik mit Schwerpunk im jeweiligen Altersbereich (Elementar- oder Primarstufe);
 
-- 60 bis 80 ECTS-Credits Schwerpunktsetzung (z. B. in einem fachlichen Bildungsbereich, in Inklusiver Pädagogik, in Sonderund Heilpädagogik, in Sozialpädagogik, in Mehrsprachigkeit usw.);
+- 60 bis 80 ECTS-Credits Schwerpunktsetzung (z. B. in einem fachlichen Bildungsbereich, in Inklusiver Pädagogik, in Sonder- und Heilpädagogik, in Sozialpädagogik, in Mehrsprachigkeit usw.);
 
 - pädagogisch-praktische Studien sind zu integrieren.
 
@@ -1051,7 +1121,7 @@ Für Absolventinnen und Absolventen eines Lehramtsstudiums im Bereich der Sekund
 
 ##### Für Bachelor- und Masterstudien zur Erlangung eines Lehramtes im Bereich der Sekundarstufe (Allgemeinbildung)
 
-Ein  'Studienfach'  bezieht  sich  im  Folgenden  immer  auf  einen  Unterrichtsgegenstand  im  Bereich  der Sekundarstufe (Allgemeinbildung).
+Ein „Studienfach“ bezieht sich im Folgenden immer auf einen Unterrichtsgegenstand im Bereich der Sekundarstufe (Allgemeinbildung).
 
 ###### Bachelorstudium im Umfang von 240 ECTS-Credits; davon:
 
@@ -1059,7 +1129,7 @@ Ein  'Studienfach'  bezieht  sich  im  Folgenden  immer  auf  einen  Unterrichts
 
 - pro  Studienfach  95  bis  100  ECTS-Credits  für  studienfachbezogene  Fachdidaktik  und Fachwissenschaften bzw. 190 bis 200 ECTS-Credits für  mehr als zwei sich gegenseitig inhaltlich überschneidende Fächer (kohärentes Fächerbündel);
 
-- oder  statt  2.  Studienfach  Spezialisierungen  im  Umfang  von  95  bis  100  ECTS  Credtis (z. B. Inklusive Pädagogik, Sonderund Heilpädagogik, Sozialpädagogik; Berufsorientierung, Mehrsprachigkeit, Medienpädagogik usw.);
+- oder statt 2. Studienfach Spezialisierungen im Umfang von 95 bis 100 ECTS Credtis (z. B. Inklusive Pädagogik, Sonder- und Heilpädagogik, Sozialpädagogik; Berufsorientierung, Mehrsprachigkeit, Medienpädagogik usw.);
 
 - pädagogisch-praktische Studien sind zu integrieren.
 
@@ -1105,7 +1175,7 @@ Seite 20 von 21
 
 Bundesrecht konsolidiert
 
-- Falls  im  Masterstudium  pädagogische  Spezialisierungen  (z. B.  Inklusive  Pädagogik, Sonderund Heilpädagogik, Sozialpädagogik; Berufsorientierung, Mehrsprachigkeit, Medienpädagogik usw.) abgedeckt werden sollen, erhöht sich der Aufwand des Masterstudiums auf mindestens 90 ECTS-Credits.
+- Falls im Masterstudium pädagogische Spezialisierungen (z. B. Inklusive Pädagogik, Sonder- und Heilpädagogik, Sozialpädagogik; Berufsorientierung, Mehrsprachigkeit, Medienpädagogik usw.) abgedeckt werden sollen, erhöht sich der Aufwand des Masterstudiums auf mindestens 90 ECTS-Credits.
 
 ##### Für Bachelor- und Masterstudien zur Erlangung eines Lehramtes im Bereich der Sekundarstufe (Berufsbildung)
 
@@ -1119,7 +1189,7 @@ Bundesrecht konsolidiert
 
 - 60  ECTS-Credits  für  allgemeine  bildungswissenschaftliche  Grundlagen;  davon  können maximal 30 ECTS-Credits für eine Berufspraxis mit pädagogischen Anteilen angerechnet werden;
 
-- 120  ECTS-Credits  für  berufsfachliche  Grundlagen;  davon  können  maximal  120  ECTSCredits für eine mindestens dreijährige facheinschlägige Berufspraxis angerechnet werden; falls keine mindestens dreijährige facheinschlägige Berufspraxis vorliegt, können maximal 60 ECTS-Credits angerechnet werden;
+- 120 ECTS-Credits für berufsfachliche Grundlagen; davon können maximal 120 ECTS-Credits für eine mindestens dreijährige facheinschlägige Berufspraxis angerechnet werden; falls keine mindestens dreijährige facheinschlägige Berufspraxis vorliegt, können maximal 60 ECTS-Credits angerechnet werden;
 
 - 60  ECTS-Credits  für  Fachdidaktik;  davon  können  maximal  30  ECTS-Credits  für  eine Berufspraxis mit pädagogischen Anteilen angerechnet werden;
 
