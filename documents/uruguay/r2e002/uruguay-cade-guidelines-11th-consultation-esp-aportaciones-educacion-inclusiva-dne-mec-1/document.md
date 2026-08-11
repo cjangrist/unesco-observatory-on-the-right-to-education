@@ -54,7 +54,7 @@ Existen diferencias entre la índole jurídica de las obligaciones previstas en 
 
 Al margen de las diferencias en cuanto al alcance jurídico inherentes al carácter de cada instrumento, el contenido de la Recomendación es idéntico al de la Convención. Se espera que los Estados Miembros la pongan en práctica en su legislación nacional y sus políticas educativas.
 
-Las  disposiciones  del  artículo  VII  de  la  Convención  y  del  párrafo  correspondiente  de  la  Recomendación, relativas a las obligaciones en materia de presentación de informes, son idénticas. En el artículo VIII de la Constitución  de  la  UNESCO  se  establece  que  ' cada  Estado  Miembro  someterá  a  la  Organización,  en  el momento y la forma que decida la Conferencia General, informes sobre las leyes, reglamentos y estadísticas relativos a sus instituciones y actividades educativas, científicas y culturales, así como sobre el curso dado a las  recomendaciones y convenciones a que se refiere el párrafo 4 del Artículo IV '.  Por  tanto,  incluso  los países que no sean Estados Partes en la Convención deben presentar un informe sobre la aplicación de la Recomendación, lo que significa que se espera que todos los Estados Miembros de la UNESCO presenten un informe nacional sobre la aplicación de estos instrumentos en el marco de las consultas realizadas para su seguimiento.
+Las disposiciones del artículo VII de la Convención y del párrafo correspondiente de la Recomendación, relativas a las obligaciones en materia de presentación de informes, son idénticas. En el artículo VIII de la
 
 > 1 https://www.unesco.org/es/right-education/evolving.
 
@@ -71,6 +71,8 @@ Las  disposiciones  del  artículo  VII  de  la  Convención  y  del  párrafo  
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+Constitución de la UNESCO se establece que “cada Estado Miembro someterá a la Organización, en el momento y la forma que decida la Conferencia General, informes sobre las leyes, reglamentos y estadísticas relativos a sus instituciones y actividades educativas, científicas y culturales, así como sobre el curso dado a las recomendaciones y convenciones a que se refiere el párrafo 4 del Artículo IV”. Por tanto, incluso los países que no sean Estados Partes en la Convención deben presentar un informe sobre la aplicación de la Recomendación, lo que significa que se espera que todos los Estados Miembros de la UNESCO presenten un informe nacional sobre la aplicación de estos instrumentos en el marco de las consultas realizadas para su seguimiento.
 
 # 4. Participación en las consultas
 
@@ -108,9 +110,9 @@ Las directrices se estructuran en torno a tres capítulos:
 
 Con miras a simplificar las directrices proporcionando al mismo tiempo la información sustantiva necesaria para orientar a los Estados Miembros  en la preparación de sus respuestas sobre la base de un proceso participativo, se ofrecen orientaciones de los dos tipos siguientes :
 
-- Preguntas abiertas y cerradas que los Estados Miembros deben responder directamente. Tenga en cuenta que pueden proporcionarse múltiples respuestas cuando sea pertinente.
+1) Preguntas abiertas y cerradas que los Estados Miembros deben responder directamente. Tenga en cuenta que pueden proporcionarse múltiples respuestas cuando sea pertinente.
 
-- Información adicional destinada a orientar a los Estados Miembros para que estructuren y detallen sus  respuestas  a  las  preguntas  abiertas  (incluidos  comentarios  sobre  cómo  responder adecuadamente a las preguntas planteadas). Estos elementos se presentan en cursiva.
+2) Información adicional destinada a orientar a los Estados Miembros para que estructuren y detallen sus respuestas a las preguntas abiertas (incluidos comentarios sobre cómo responder adecuadamente a las preguntas planteadas). Estos elementos se presentan en cursiva.
 
 [[END OF PAGE 6]]
 
@@ -126,7 +128,7 @@ Nombre de la persona de contacto: Carolina Sanguinetti
 
 Correo electrónico y número de teléfono de la persona de contacto: carolina.sanguinetti@mec.gub.uy - +598 24074568 int. 206
 
-# Ratificación  y  aplicación  de  la  Convención  relativa  a  la  Lucha  contra  las  Discriminaciones  en  la Esfera de la Enseñanza 10
+# I. Ratificación y aplicación de la Convención relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza 10
 
 -¿Es su país un Estado Parte en la Convención?
 
@@ -150,7 +152,7 @@ El  Senado  y  la  Cámara  de  Representantes  de  la  República  Oriental  de
 
 ### DECRETAN:
 
-#### Artículo Único.
+#### Artículo Único.-
 Apruébase la Convención relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza, adoptada en el marco de la UNESCO, suscrita en París, el 14 de diciembre de 1960.
 
 No, no se tiene prevista una ratificación. Explique por qué.
@@ -169,7 +171,7 @@ No se identifica.
 
 -¿Se han pronunciado los juzgados, tribunales o autoridades administrativas sobre cuestiones o violaciones relativas al derecho a la educación? 11
 
-□ Si ⌧ No
+□ Sí ⌧ No
 
 No se identifica.
 
@@ -387,7 +389,7 @@ Reconócese el goce y el ejercicio del derecho a la educación, como un bien pú
 ###### Artículo 13. (Fines).- 
 La política educativa nacional tendrá en cuenta los siguientes fines:
 
-- Promover la búsqueda de soluciones alternativas en la resolución de conflictos y una cultura de paz y de tolerancia, entendida como el respeto a los demás y la no discriminación.
+E) Promover la búsqueda de soluciones alternativas en la resolución de conflictos y una cultura de paz y de tolerancia, entendida como el respeto a los demás y la no discriminación.
 
 ###### Artículo 116.-
 
@@ -399,23 +401,23 @@ El Instituto Nacional de Evaluación Educativa cada dos años realizará un info
 
 ##### Artículo 3 Principio generales
 
-- La no discriminación
+e) La no discriminación
 
 ##### Artículo 4 Obligaciones generales
 
-- Los Estados Partes se comprometen a asegurar y promover el pleno ejercicio de todos los derechos humanos y las libertades fundamentales de las personas con discapacidad sin discriminación alguna por motivos de discapacidad. A tal fin, los Estados Partes se comprometen a:
+1. Los Estados Partes se comprometen a asegurar y promover el pleno ejercicio de todos los derechos humanos y las libertades fundamentales de las personas con discapacidad sin discriminación alguna por motivos de discapacidad. A tal fin, los Estados Partes se comprometen a:
 
-- Adoptar  todas  las  medidas  legislativas,  administrativas  y  de  otra  índole  que  sean  pertinentes  para hacer efectivos los derechos reconocidos en la presente Convención;
+a) Adoptar todas las medidas legislativas, administrativas y de otra índole que sean pertinentes para hacer efectivos los derechos reconocidos en la presente Convención;
 
-- Tomar todas las medidas pertinentes, incluidas medidas legislativas, para modificar o derogar leyes, reglamentos, costumbres y prácticas existentes que constituyan discriminación contra las personas con discapacidad
+b) Tomar todas las medidas pertinentes, incluidas medidas legislativas, para modificar o derogar leyes, reglamentos, costumbres y prácticas existentes que constituyan discriminación contra las personas con discapacidad
 
 ##### Artículo 5 Igualdad y no discriminación
 
-- Los Estados Partes reconocen que todas las personas son iguales ante la ley y en virtud de ella y que  tienen  derecho  a  igual  protección  legal  y  a  beneficiarse  de  la  ley  en  igual  medida  sin discriminación alguna.
+1. Los Estados Partes reconocen que todas las personas son iguales ante la ley y en virtud de ella y que tienen derecho a igual protección legal y a beneficiarse de la ley en igual medida sin discriminación alguna.
 
-- Los Estados Partes prohibirán toda discriminación por motivos de discapacidad y garantizarán a todas las personas con discapacidad protección legal igual y efectiva contra la discriminación por cualquier motivo.
+2. Los Estados Partes prohibirán toda discriminación por motivos de discapacidad y garantizarán a todas las personas con discapacidad protección legal igual y efectiva contra la discriminación por cualquier motivo.
 
-- A fin de promover la igualdad y eliminar la discriminación, los Estados Partes adoptarán todas las
+3. A fin de promover la igualdad y eliminar la discriminación, los Estados Partes adoptarán todas las
 
 [[END OF PAGE 13]]
 
@@ -423,35 +425,35 @@ El Instituto Nacional de Evaluación Educativa cada dos años realizará un info
 
 medidas pertinentes para asegurar la realización de ajustes razonables.
 
-- No se considerarán discriminatorias, en virtud de la presente Convención, las medidas específicas que  sean  necesarias  para  acelerar  o  lograr  la  igualdad  de  hecho  de  las  personas  con discapacidad.
+4. No se considerarán discriminatorias, en virtud de la presente Convención, las medidas específicas que sean necesarias para acelerar o lograr la igualdad de hecho de las personas con discapacidad.
 
 ##### Artículo 6 Mujeres con discapacidad
 
-- Los  Estados  Partes  reconocen  que  las  mujeres  y  niñas  con  discapacidad  están  sujetas  a  múltiples formas  de  discriminación  y,  a  ese  respecto,  adoptarán  medidas  para  asegurar  que  puedan  disfrutar plenamente y en igualdad de condiciones de todos los derechos humanos y libertades fundamentales.
+1. Los Estados Partes reconocen que las mujeres y niñas con discapacidad están sujetas a múltiples formas de discriminación y, a ese respecto, adoptarán medidas para asegurar que puedan disfrutar plenamente y en igualdad de condiciones de todos los derechos humanos y libertades fundamentales.
 
 ##### Artículo 23 Respeto del hogar y de la familia
 
-- Los Estados Partes tomarán medidas efectivas y pertinentes para poner fin a la discriminación contra las  personas  con  discapacidad  en  todas  las  cuestiones  relacionadas  con  el  matrimonio,  la  familia,  la paternidad y las relaciones personales, y lograr que las personas con discapacidad estén en igualdad de condiciones con las demás (…)
+1. Los Estados Partes tomarán medidas efectivas y pertinentes para poner fin a la discriminación contra las personas con discapacidad en todas las cuestiones relacionadas con el matrimonio, la familia, la paternidad y las relaciones personales, y lograr que las personas con discapacidad estén en igualdad de condiciones con las demás (…)
 
 ##### Artículo 24 Educación
 
-- Los Estados Partes reconocen el derecho de las personas con discapacidad a la educación. Con miras a hacer  efectivo  este  derecho  sin  discriminación  y  sobre  la  base  de  la  igualdad  de  oportunidades,  los Estados Partes asegurarán un sistema de educación inclusivo a todos los niveles así como la enseñanza a lo largo de la vida (…)
+1. Los Estados Partes reconocen el derecho de las personas con discapacidad a la educación. Con miras a hacer efectivo este derecho sin discriminación y sobre la base de la igualdad de oportunidades, los Estados Partes asegurarán un sistema de educación inclusivo a todos los niveles así como la enseñanza a lo largo de la vida (…)
 
-- Los Estados Partes asegurarán que las personas con discapacidad tengan acceso general a la educación superior, la formación profesional, la educación para adultos y el aprendizaje durante toda la vida sin discriminación y en igualdad de condiciones con las demás. A tal fin, los Estados Partes asegurarán que se realicen ajustes razonables para las personas con discapacidad.
+5. Los Estados Partes asegurarán que las personas con discapacidad tengan acceso general a la educación superior, la formación profesional, la educación para adultos y el aprendizaje durante toda la vida sin discriminación y en igualdad de condiciones con las demás. A tal fin, los Estados Partes asegurarán que se realicen ajustes razonables para las personas con discapacidad.
 
 ##### Artículo 25 Salud
 
 Los Estados Partes reconocen que las personas con discapacidad tienen derecho a gozar del más alto nivel posible de salud sin discriminación por motivos de discapacidad. Los Estados Partes adoptarán las medidas pertinentes para asegurar el acceso de las personas con discapacidad a servicios dé salud que tengan en cuenta las cuestiones de género, incluida la rehabilitación relacionada con la salud.
 
-- Prohibirán la discriminación contra las personas con discapacidad en la prestación de seguros de salud y  de  vida  cuando éstos estén permitidos en la legislación nacional, y velarán por que esos seguros se presten de manera justa y razonable (…)
+e) Prohibirán la discriminación contra las personas con discapacidad en la prestación de seguros de salud y de vida cuando éstos estén permitidos en la legislación nacional, y velarán por que esos seguros se presten de manera justa y razonable (…)
 
 ##### Artículo 27 Trabajo y empleo
 
-- Los Estados Partes reconocen el derecho de las personas con discapacidad a trabajar, en igualdad de condiciones con las demás; ello incluye el derecho a tener la oportunidad de ganarse la vida mediante un trabajo  libremente  elegido  o  aceptado  en  un  mercado  y  un  entorno  laborales  que  sean  abiertos, inclusivos y accesibles a las personas con discapacidad.
+1. Los Estados Partes reconocen el derecho de las personas con discapacidad a trabajar, en igualdad de condiciones con las demás; ello incluye el derecho a tener la oportunidad de ganarse la vida mediante un trabajo libremente elegido o aceptado en un mercado y un entorno laborales que sean abiertos, inclusivos y accesibles a las personas con discapacidad.
 
-- Los Estados Partes salvaguardarán y promoverán el ejercicio del derecho al trabajo, incluso para las personas que adquieran una discapacidad durante el empleo, adoptando medidas pertinentes, incluida la promulgación de legislación, entre ellas:
+2. Los Estados Partes salvaguardarán y promoverán el ejercicio del derecho al trabajo, incluso para las personas que adquieran una discapacidad durante el empleo, adoptando medidas pertinentes, incluida la promulgación de legislación, entre ellas:
 
-- Prohibir la discriminación por motivos de discapacidad con respecto a todas las cuestiones relativas a
+a) Prohibir la discriminación por motivos de discapacidad con respecto a todas las cuestiones relativas a
 
 [[END OF PAGE 14]]
 
@@ -461,13 +463,13 @@ cualquier forma de empleo, incluidas las condiciones de selección, contratació
 
 ##### Artículo 28 Nivel de vida adecuado y protección social
 
-- Los Estados Partes reconocen el derecho de las personas con discapacidad a un nivel de vida adecuado para  ellas  y  sus  familias,  lo  cual  incluye  alimentación,  vestido  y  vivienda  adecuados,  y  a  la  mejora continua de sus condiciones de vida, y adoptarán las medidas pertinentes para salvaguardar y promover el ejercicio de este derecho sin discriminación por motivos de discapacidad.
+1. Los Estados Partes reconocen el derecho de las personas con discapacidad a un nivel de vida adecuado para ellas y sus familias, lo cual incluye alimentación, vestido y vivienda adecuados, y a la mejora continua de sus condiciones de vida, y adoptarán las medidas pertinentes para salvaguardar y promover el ejercicio de este derecho sin discriminación por motivos de discapacidad.
 
-- Los Estados Partes reconocen el derecho de las personas con discapacidad a la protección social y a gozar  de  ese  derecho  sin  discriminación  por  motivos  de  discapacidad,  y  adoptarán  las  medidas pertinentes para proteger y promover el ejercicio de ese derecho.
+2. Los Estados Partes reconocen el derecho de las personas con discapacidad a la protección social y a gozar de ese derecho sin discriminación por motivos de discapacidad, y adoptarán las medidas pertinentes para proteger y promover el ejercicio de ese derecho.
 
 ##### Artículo 29 Participación en la vida política y pública
 
-- Promover activamente un entorno en el que las personas con discapacidad puedan participar plena y efectivamente en la dirección de los asuntos públicos, sin discriminación y en igualdad de condiciones con las demás, y fomentar su participación en los asuntos públicos.
+b) Promover activamente un entorno en el que las personas con discapacidad puedan participar plena y efectivamente en la dirección de los asuntos públicos, sin discriminación y en igualdad de condiciones con las demás, y fomentar su participación en los asuntos públicos.
 
 #### Protocolo  de  actuación  para  garantizar  el  derecho  a  la  educación  inclusiva  de  las  personas  con discapacidad
 
@@ -475,7 +477,7 @@ cualquier forma de empleo, incluidas las condiciones de selección, contratació
 
 ###### Artículo 5.-
 
-- 5.1. La Educación Inclusiva se centra en la participación plena y efectiva, en la accesibilidad, asistencia y logros  en  el  aprendizaje  de  todo  el  estudiantado,  especialmente  de  quienes,  por  diferentes  razones, están en situación de exclusión o riesgo de marginalización.
+5.1. La Educación Inclusiva se centra en la participación plena y efectiva, en la accesibilidad, asistencia y logros en el aprendizaje de todo el estudiantado, especialmente de quienes, por diferentes razones, están en situación de exclusión o riesgo de marginalización.
 
 Busca  implicar  a  las  instituciones,  centros  y  ámbitos  educativos  en  un  proceso  de  transformación permanente  de  reconocimiento  de  la  diversidad,  de  identificación  y  superación  de  barreras  en  los procesos  de  enseñanza  y  aprendizaje,  y  de  promoción  de  la  participación.  Asimismo,  pretende desarrollar en las comunidades, sistemas y estructuras para eliminar la discriminación y los estereotipos, centrándose  en  el  bienestar  y  en  la  continuidad  de  las  trayectorias  educativas,  en  particular  de estudiantes con discapacidad (Convención sobre los Derechos de las Personas con Discapacidad. Art. 24)
 
@@ -612,7 +614,7 @@ Se  desarrollan  instancias  de  sensibilización  y  espacios  de  orientación
 
 □ Otro:
 
-#### ACCIONES PARA GARANTIZAR LA EDUCACIÓN INCLUSIVA E INTERCULTURAL EJE DE INCLUSIÓN Y DERECHOS HUMANOS - MINISTERIO DE EDUCACIÓN Y CULTURA
+#### ACCIONES PARA GARANTIZAR LA EDUCACIÓN INCLUSIVA E INTERCULTURAL - EJE DE INCLUSIÓN Y DERECHOS HUMANOS - MINISTERIO DE EDUCACIÓN Y CULTURA
 
 ##### PROYECTO 'MUROS QUE UNEN'
 
@@ -622,7 +624,7 @@ Por más información, acceder:
 
 https://www.gub.uy/ministerio-educacion-cultura/murosqueunen2022
 
-https://oei.int/oficinas/uruguay/publicaciones/muros-que-unen-una-herramientametodologica-para-abordar-la-movilidad-y-la-interculturalidad-en-las-aulas-de-frontera-2
+https://oei.int/oficinas/uruguay/publicaciones/muros-que-unen-una-herramienta-metodologica-para-abordar-la-movilidad-y-la-interculturalidad-en-las-aulas-de-frontera-2
 
 ##### ACTIVIDAD DE DESCENTRALIZACIÓN EDUCATIVA 'PUNTO MÓVIL DE ATENCIÓN A MIGRANTES EN TEMAS EDUCATIVOS'
 
@@ -648,15 +650,13 @@ El proyecto Articuladores de Inclusión Territorial (AIT) concibe a la inclusió
 
 Actualmente AIT se encuentra en la Cartilla  de  buenas prácticas de la Agencia Uruguaya de Cooperación  Internacional  (AUCI) .  Durante  el  2024  la  propuesta  está  siendo  transferida  a Secretarías de Educación de Bogotá y Tunja en Colombia, con apoyo de Italia, a través de un Proyecto  de  Cooperación financiado  por  la  UE.  La  iniciativa  triangular  pretende  impactar  en términos regionales apuntando a una mejora en los marcos evaluativos de los estándares de formación, con una metodología validada y una estructura replicable.
 
-Para más información,
+Para más información, acceder:
 
-https://www.gub.uy/agencia-uruguaya-cooperacion-
-
-internacional/comunicacion/campanas/buenas-practicas-cooperacion-uruguaya
+https://www.gub.uy/agencia-uruguaya-cooperacion-internacional/comunicacion/campanas/buenas-practicas-cooperacion-uruguaya
 
 https://www.gub.uy/ministerio-educacion-cultura/edinclusiva
 
-https://www.gub.uy/ministerio-educacion-cultura/politicas-y-gestion/articuladores-inclusionterritorio
+https://www.gub.uy/ministerio-educacion-cultura/politicas-y-gestion/articuladores-inclusion-territorio
 
 ##### EXPERIENCIA SOMOS
 
@@ -672,9 +672,7 @@ Ley General de Educación (2008).
 
 Plan de Política Educativa Nacional 2020-2024, MEC.
 
-Protocolo  de  actuación  para  garantizar  el  derecho  a  la  Educación  Inclusiva  en  ámbitos educativos (Decreto 350/022).
-
-acceder:
+Protocolo de actuación para garantizar el derecho a la Educación Inclusiva en ámbitos educativos (Decreto 350/022).
 
 [[END OF PAGE 20]]
 
@@ -696,17 +694,17 @@ Esto  no  obsta  la  utilización,  paralela  o  posterior,  por  parte  de  las
 
 □ La legislación prevé la igualdad de género en la educación
 
-⌧ Las medidas de política tienen como objetivo mejorar la igualdad de género
-
-⌧ La  planificación  del  sector  de  la  educación tiene perspectiva de género
-
-□ Existen medidas de acción positiva o afirmativa
+⌧ La planificación del sector de la educación tiene perspectiva de género
 
 ⌧ Se ofrecen incentivos financieros y becas
 
-□ Se eliminan todas las barreras que impiden a las niñas embarazadas y a las madres jóvenes  acceder  a  la  educación  a  fin  de garantizar la continuidad de su enseñanza
+□ Se ofrecen programas de reinserción para madres jóvenes
 
-□  Se  ofrecen  programas  de  reinserción  para madres jóvenes
+⌧ Las medidas de política tienen como objetivo mejorar la igualdad de género
+
+□ Existen medidas de acción positiva o afirmativa
+
+□ Se eliminan todas las barreras que impiden a las niñas embarazadas y a las madres jóvenes acceder a la educación a fin de garantizar la continuidad de su enseñanza
 
 □ Se garantiza que haya instalaciones de saneamiento seguras y adecuadas que tengan en cuenta el género 20
 
@@ -724,7 +722,7 @@ Esto  no  obsta  la  utilización,  paralela  o  posterior,  por  parte  de  las
 
 □ Otro:
 
-- estereotipos 21 y prejuicios
+estereotipos 21 y prejuicios
 
 □  Se  garantiza  la  paridad  de  género  en  la ciencia, tecnología, ingeniería y matemáticas (CTIM)
 
@@ -742,7 +740,7 @@ En la órbita de Formación Docente 'formal' existe una formación curricular en
 
 ###### Programa de Formación para la Igualdad
 
-El  Programa  de  Formación  para  la  Igualdad  es  coordinado  por  un  equipo  interinstitucional integrado por representantes de la Dirección Nacional de Educación del Ministerio de Educación y Cultura (MEC), el Instituto Nacional de las Mujeres del Ministerio de Desarrollo Social (InmujeresMIDES), Consejo Directivo Central de la Administración Nacional de Educación Pública (CODICENANEP) y el equipo del Departamento de Formación de Plan Ceibal.
+El Programa de Formación para la Igualdad es coordinado por un equipo interinstitucional integrado por representantes de la Dirección Nacional de Educación del Ministerio de Educación y Cultura (MEC), el Instituto Nacional de las Mujeres del Ministerio de Desarrollo Social (Inmujeres-MIDES), Consejo Directivo Central de la Administración Nacional de Educación Pública (CODICEN-ANEP) y el equipo del Departamento de Formación de Plan Ceibal.
 
 Se  dictan  cursos  virtuales,  sincrónicos,  semi  presenciales  y  autoasistidos  en  el  marco  de  la articulación interinstitucional. El público destinatario son personas vinculadas al ámbito educativo de todo el país.
 
@@ -798,8 +796,6 @@ Esto aumenta cuando se identifican identidades vulnerables que interseccionan co
 
 [[START OF PAGE 24]]
 
-22
-
 socioeconómica desfavorable, capital cultural desfavorecido, falta de redes de sostén y contención.
 
 ¿Se  ajusta  la  edad  mínima  legal  para  contraer  matrimonio  a  las  normas  internacionales  (18 años) 22 ?
@@ -844,7 +840,7 @@ A título de referencia, en el artículo/párrafo 5.1.c de la Convención y la R
 
 □  Los  planes  de  estudio  están  libres  de estereotipos 25 y prejuicios
 
-> Cabe señalar que, según la recomendación general núm. 31 del Comité para la Eliminación de la Discriminación contra la Mujer y la observación general núm. 18 del Comité de los Derechos del Niño sobre las prácticas nocivas, adoptadas de manera conjunta, "[...] en circunstancias excepcionales se puede permitir el matrimonio de un niño maduro y capaz menor de 18 años, siempre y cuando el niño tenga como mínimo 16 años de edad y tales decisiones las adopte un juez basándose en motivos excepcionales legítimos definidos por la legislación y en pruebas de madurez, sin dejarse influir por la cultura ni la tradición" (párr. 20).
+> 22 Cabe señalar que, según la recomendación general núm. 31 del Comité para la Eliminación de la Discriminación contra la Mujer y la observación general núm. 18 del Comité de los Derechos del Niño sobre las prácticas nocivas, adoptadas de manera conjunta, "[...] en circunstancias excepcionales se puede permitir el matrimonio de un niño maduro y capaz menor de 18 años, siempre y cuando el niño tenga como mínimo 16 años de edad y tales decisiones las adopte un juez basándose en motivos excepcionales legítimos definidos por la legislación y en pruebas de madurez, sin dejarse influir por la cultura ni la tradición" (párr. 20).
 
 [[END OF PAGE 24]]
 
@@ -934,21 +930,21 @@ Actividades  de  concienciación y formación para docentes, educadores y refere
 
 Este recurso permite realizar un recorrido por la prehistoria y conocer aspectos culturales de los primeros pobladores del territorio. Pretende reconocer la diversidad cultural sobre la que se asentaba el territorio antes de la llegada de los conquistadores europeos.
 
-El  modelo  pedagógico  de Aula  invertida  o  'Flipped  Classroom' busca  transferir  algunos procesos fuera del aula, a través de medios tecnológicos, para potenciar el tiempo en clase y las interacciones docente/estudiantes/objeto de conocimiento. Las actividades propuestas para el aula implican al estudiante como  protagonista  activo de su aprendizaje;  proponiendo, investigando, elaborando hipótesis, proponiendo posibles respuestas y evaluando.
+El modelo pedagógico de Aula invertida o “Flipped Classroom” busca transferir algunos procesos fuera del aula, a través de medios tecnológicos, para potenciar el tiempo en clase y las interacciones docente/estudiantes/objeto de conocimiento. Las actividades propuestas para el aula implican al estudiante como protagonista activo de su aprendizaje; proponiendo,
 
 > 26 Véase la nota 15.
 
-27
-
-> Véase la nota 16.
+> 27 Véase la nota 16.
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
 
-Tipo  de  actividad: Propuesta  que  se  basa  en  la  metodología  de  Aula  invertida  o  'Flipped Classroom'. Espacio Creativo - Artístico y Ciencias Sociales y Humanidades.
+investigando, elaborando hipótesis, proponiendo posibles respuestas y evaluando.
 
-Competencias  generales: Comunicación  -  Pensamiento  creativo  Pensamiento  crítico -Metacognitiva
+Tipo de actividad: Propuesta que se basa en la metodología de Aula invertida o “Flipped Classroom”. Espacio Creativo - Artístico y Ciencias Sociales y Humanidades.
+
+Competencias generales: Comunicación - Pensamiento creativo - Pensamiento crítico - Metacognitiva
 
 ###### En busca de nuestra identidad, ¿somos indígenas? (Propuesta didáctica)
 
@@ -960,7 +956,7 @@ Indígenas o primeros pobladores del territorio: la sociedad uruguaya tiene prof
 
 No se identifica.
 
-¿Con  qué  dificultades  se  ha  tropezado  para  hacer  efectivo  el  derecho  a  la  educación  de  los pueblos indígenas? De ser necesario, se pueden añadir breves datos cuantitativos.
+- ¿Con qué dificultades se ha tropezado para hacer efectivo el derecho a la educación de los pueblos indígenas? De ser necesario, se pueden añadir breves datos cuantitativos.
 
 No se identifica.
 
@@ -1031,9 +1027,7 @@ https://www.gub.uy/ministerio-educacion-cultura/murosqueunen2022
 
 > 32 Véase la nota 16.
 
-29
-
-> Aunque la falta de documentación (como documentos de identidad, certificados de nacimiento, permisos de residencia, etc.) no debería ser un obstáculo para acceder a la educación, esto no siempre es cierto. Véase la publicación de la UNESCO 'Handbook on the right to education', 2018, pág. 96.
+> 29 Aunque la falta de documentación (como documentos de identidad, certificados de nacimiento, permisos de residencia, etc.) no debería ser un obstáculo para acceder a la educación, esto no siempre es cierto. Véase la publicación de la UNESCO “Handbook on the right to education”, 2018, pág. 96.
 
 > 30 Véase la nota 15.
 
@@ -1041,7 +1035,7 @@ https://www.gub.uy/ministerio-educacion-cultura/murosqueunen2022
 
 [[START OF PAGE 29]]
 
-https://oei.int/oficinas/uruguay/publicaciones/muros-que-unen-una-herramienta-metodologica- para-abordar-la-movilidad-y-la-interculturalidad-en-las-aulas-de-frontera-2
+https://oei.int/oficinas/uruguay/publicaciones/muros-que-unen-una-herramienta-metodologica-para-abordar-la-movilidad-y-la-interculturalidad-en-las-aulas-de-frontera-2
 
 ###### 'Punto móvil de atención a migrantes en temas educativos'.
 Estrategia de descentralización de la atención a la ciudadanía liderada por la Dirección Nacional de Educación del MEC. Se desarrollan actividades de orientación, asesoramiento y capacitación a la red de instituciones que apoyan a la población migrante en territorio; y a las personas migrantes, refugiadas y solicitantes de asilo y sus familias.
@@ -1069,7 +1063,7 @@ Ministerio  de  Relaciones  Exteriores  (organismo  coordinador).  Plan  de  Est
 
 Por más información, acceder:
 
-https://www.gub.uy/agencia-uruguaya-cooperacion- internacional/comunicacion/publicaciones/plan-nacional-integracion-para-personas-migrantes- solicitantes-refugio
+https://www.gub.uy/agencia-uruguaya-cooperacion-internacional/comunicacion/publicaciones/plan-nacional-integracion-para-personas-migrantes-solicitantes-refugio
 
 - Explique con más detalles y, cuando proceda, indique las medidas jurídicas y políticas adoptadas.
 
@@ -1077,7 +1071,7 @@ Ley General de Educación (2008).
 
 Ley N°18.250 de Migraciones.
 
-¿Se han adoptado medidas específicas para los desplazados climáticos?
+- ¿Se han adoptado medidas específicas para los desplazados climáticos?
 
 □ Sí ⌧ No
 
@@ -1085,23 +1079,23 @@ Ley N°18.250 de Migraciones.
 
 No se identifica.
 
-¿Con  qué  dificultades  se  han  tropezado  para  hacer  efectivo  el  derecho  a  la  educación  de migrantes, refugiados, solicitantes de asilo, apátridas y desplazados internos? De ser necesario, se pueden añadir breves datos cuantitativos.
+- ¿Con qué dificultades se han tropezado para hacer efectivo el derecho a la educación de migrantes, refugiados, solicitantes de asilo, apátridas y desplazados internos? De ser necesario, se pueden añadir breves datos cuantitativos.
 
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
 
-##### A lgunos desafíos surgidos en la construcción del Plan Nacional de Integración (PNI):
+##### Algunos desafíos surgidos en la construcción del Plan Nacional de Integración (PNI):
 
--coordinación intersectorial
+- coordinación intersectorial
 
--definición de recursos humanos y materiales de cada organismo para incluir en las acciones del Plan
+- definición de recursos humanos y materiales de cada organismo para incluir en las acciones del Plan
 
--expresión presupuestal
+- expresión presupuestal
 
--sostenibilidad
+- sostenibilidad
 
--medición
+- medición
 
 #### Personas con discapacidad:
 
@@ -1117,6 +1111,8 @@ No se identifica.
 
 ⌧ Existen incentivos financieros y becas
 
+□ Otro:
+
 □ Los docentes de las escuelas ordinarias reciben formación específica sobre discapacidad
 
 □ Los docentes reciben formación para luchar contra la estigmatización 33
@@ -1129,15 +1125,13 @@ No se identifica.
 
 ⌧ Se adaptan las infraestructuras educativas y el material didáctico
 
-□ Otro:
-
 - Explique  con  más  detalles  y,  cuando  proceda,  indique  las  medidas  jurídicas  y  políticas adoptadas.
 
 ##### Contexto, organización y distribución
 
 De acuerdo al Censo de 2011, un 15.8% de la población uruguaya está conformada por personas con discapacidad permanente. A su vez, profundizando en los datos censales de 2011, esta cifra se  descompone  en  discapacidad  leve  con  un  total  de  365.462  personas  (72,7%)  discapacidad moderada con 128.876 personas (23,3%), mientras que en el caso de discapacidad severa son 23.433 personas (4%). En el estudio por ubicación geográfica se observa que no hay diferencias significativas  entre  quienes  residen  en  el  medio  rural  y  quienes  lo  hacen  en  el  medio  urbano. Respecto a la incidencia de la discapacidad por tramo etario, muestra que conforme aumenta la edad, mayor es el porcentaje de personas con discapacidad. En Uruguay la población infantil y adolescente con discapacidad es de 47.799 personas, las cuales representan un 9,2% del total de la población con discapacidad y un 5,6 % del rango de edad de 0 a 17 años.
 
-En Uruguay, la Educación Básica Integrada (EBI) comienza con la Educación Inicial (3, 4 y 5 años) y luego continúa de 1º a 6º grado de Primaria, para proseguir en 7º, 8º y 9º grado de la Educación Media (EM). En caso de avanzar es posible ingresar a la Educación Media Superior (EMS) a través discapacidad  en  las  escuelas  comunes.  Por  ese  motivo,  a  partir  de  los  datos  relevados  en  la evaluación nacional de logros educativos en tercero y sexto de Primaria (Aristas 2020), publicó en 2023  un  informe  de  aproximación  a  la  identificación  y  caracterización  de  niños  y  niñas  con discapacidad que asisten al sistema educativo formal. El análisis de ese relevamiento aporta lo siguiente: ● La  prevalencia  de  la  discapacidad  en  estudiantes  de  Primaria  es  del  3,2%  (2,3%  con discapacidad leve y moderada y 0,9% con discapacidad severa y muy severa). ● El  72%  de  las  189  EC  participantes  del  estudio  tiene  al  menos  un  estudiante  con discapacidad y la cantidad de estudiantes con discapacidad alcanza el 10% de la muestra total, lo que interpretan como un aspecto significativo respecto a la inclusión escolar. ● El 55,6% del estudiantado con discapacidad cuenta con diagnóstico y esto aumenta cuando trata de discapacidad severa y muy severa. ● Según tipo de discapacidad, el mayor porcentaje de estudiantes se encuentra en el área socioemocional con un total de  60%,  seguido  por  un  25%  de  discapacidad  intelectual, 18% discapacidad motriz y un 12,7% de discapacidad auditiva o visual. ● En  la  distribución  de  estudiantes  por  sexo,  se  observa  que  hay  mayor  número  de estudiantes mujeres que varones. En  cuanto  a  la disponibilidad  de  recursos  en  los  centros  educativos ,  el  informe  de  INEEd sostiene  que  el  42.7%  no  posee  la  infraestructura  adecuada  y  el  83.9%  no  tiene  materiales específicos  para  la  intervención  educativa  con  estudiantes  con  discapacidad.  Se  agrega  que  el mayor  porcentaje  de  estudiantes  con  discapacidad  concurre  a  escuelas  de  contexto  muy desfavorable y dentro de los primeros quintiles. En su mayoría, solo cuentan con el apoyo de trabajadoras sociales Respecto a la  cultura  inclusiva,  este  estudio  distingue  que  se  aborda  en  mayor  porcentaje  en escuelas  a  las  que  asisten  estudiantes  con  discapacidad  que  en  aquellas  en  las  que  no  hay estudiantes con discapacidad. En ese sentido, las modalidades de trabajo más frecuentes para abordar  la  temática  son:  contenidos  curriculares,  talleres  con  estudiantes  y  en  proyectos institucionales. Los datos de ANEP que analizan los egresos de estudiantes de Educación Especial a partir de los registros de inscripción temprana, muestran que la gran mayoría (83%) sigue en los talleres de la Educación Especial luego de los 12 años. Estos talleres reciben a un gran número de estudiantes con  diversas  discapacidades,  teniendo  como  objetivo  principal  la  preparación  para  una  futura inserción laboral. Se les ofrecen distintas variantes de talleres, como por ejemplo, de tecnología alimentaria,  jardinería,  cerámica,  joyería,  carpintería,  vestimenta,  mantenimiento,  peluquería, entre otros. Por otra parte, un 13% de quienes egresan lo hacen a los centros de Educación Técnica (CETPUTU) y únicamente un 4% ingresa a Educación Secundaria (ANEP, 2022). Ello pone de manifiesto que una vez los estudiantes ingresan al sistema de Educación Especial, son pocos los casos en que avanzan a los niveles siguientes. Al mismo tiempo, el INEEd menciona la falta de información sobre estudiantes con discapacidad también en este ciclo y recurre nuevamente a datos recolectados a través de la observación de docentes  en  la  aplicación  de  Aristas  (evaluación  aplicada  a  estudiantes  de  tercer  año  de Educación Media) y analizados en el informe sobre el estado de la educación uruguaya en los años  2021  y  2022.  Allí,  a  través  del  relevamiento  de  personas  con  necesidades  educativas específicas concluyen que la mayoría de estas personas tiene alguna discapacidad, diferenciándose  entre  leve  (13,6%),  moderada  (37,7%),  severa  (8%)  o  muy  severa  (16,8%). Mientras que las personas con necesidades educativas específicas que no tienen discapacidad representan únicamente un 23,9%. Por  otro  lado,  el  mismo  informe  de  INEEd  analiza  la  distribución  del  estudiantado  con discapacidad según contexto socioeconómico y cultural del centro y concluye que, a diferencia de lo que sucede en Primaria, el mayor porcentaje asiste a centros de contexto favorable o muy favorable.  Este  dato  podría  implicar  que  la  situación  de  pobreza  junto  a  la  de  discapacidad afectan significativamente la posibilidad de continuar los estudios. Es importante mencionar que para la Educación Media no existe división de los centros educativos como comunes o especiales. Ante  esta  realidad,  la  DGES  y  la  DGETP,  iniciaron  el  Proyecto  Red  Mandela,  replicando  la experiencia  de  la  red  de  escuelas  y  jardines  de  infantes  creada  en  2014  por  el  Consejo  de Educación  Inicial  y  Primaria  junto  a  UNICEF  y  el  Instituto  Interamericano  de  Discapacidad  e Inclusión. El objetivo del proyecto consiste en transformar las culturas y prácticas educativas con énfasis  en  la  atención  de  las  diferentes  identidades,  necesidades  y  trayectorias  para  que  el estudiantado  con  discapacidad  aprenda  y  participe  en  aulas  comunes  inclusivas.  Actualmente existen quince centros que integran la Red Mandela. A su vez, este ciclo  cuenta  con Centros de Recursos como CERESO (Centro de Recursos para Estudiantes Sordos) y CeR (Centro de Recursos para estudiantes ciegos y con baja visión) . Entre las instituciones de Educación Superior en Uruguay, la Universidad de la República (UdelaR) es quien cuenta con datos públicos sobre estudiantes activos que se auto perciben con algún tipo de  discapacidad.  Esta  institución  realiza  un  relevamiento  anual  continuo  de  estudiantes  para valorar actividades académicas registradas así como caracterizar la composición demográfica del estudiantado universitario. En el informe de 2022, se registraron un total de 156.437 estudiantes activos, lo que significa que cuentan con al menos una actividad académica realizada en el último año. De este número de estudiantes activos, se describe en el siguiente cuadro la distribución por tipo de discapacidad: En su informe de 2022, el BPS refiere que se brindaron prestaciones económicas en lo referente a educación como Ayudas externas ($2.422.762.559), Transporte ANEP ($4.558.150) y Equinoterapia ($25.024.551), entre otras. El 98,3% de las Ayudas externas son utilizadas por las personas  beneficiarias  para  tratamientos  o  rehabilitación  y  solamente  el  1,7%  de  éstas  lo requieren para el uso de transporte.
+En Uruguay, la Educación Básica Integrada (EBI) comienza con la Educación Inicial (3, 4 y 5 años) y luego continúa de 1º a 6º grado de Primaria, para proseguir en 7º, 8º y 9º grado de la Educación Media (EM). En caso de avanzar es posible ingresar a la Educación Media Superior (EMS) a través
 
 > 33 Véase la nota 15.
 
@@ -1148,33 +1142,76 @@ En Uruguay, la Educación Básica Integrada (EBI) comienza con la Educación Ini
 [[START OF PAGE 31]]
 
 de la Dirección General de Educación Técnico Profesional (DGETP) o la Dirección General de Educación Secundaria (DGES). El último nivel educativo corresponde a la Educación Superior.
----
+
 Entre los 4 y los 17 años los niños, niñas y adolescentes con discapacidad que asisten a centros educativos alcanzan el 87,3 %. Si bien este dato puede ser valorado positivamente en un contexto regional caracterizado por inequidades, debe señalarse que se trata de un porcentaje de casi ocho puntos por debajo en relación con la asistencia de la población sin discapacidad en Uruguay (Unicef, 2013). En este caso, es necesario considerar que los esfuerzos realizados en nuestro país para garantizar el acceso y permanencia de las infancias, junto al proceso normativo guiado por la Convención Internacional de Personas con Discapacidad, hacen que la situación educativa resulte más promisoria en relación con el acceso a los siguientes niveles de la EBI.
+
 A su vez, la disponibilidad de datos públicos sobre estudiantes con discapacidad en el tramo correspondiente a séptimo es escasa, por lo que se pueden observar diferencias significativas en cuanto al caudal de información en comparación a los primeros años de Primaria.
+
 A nivel de Educación Inicial desde el 2021 se integra el Programa APRENDER (Atención Prioritaria en Entornos con Dificultades Estructurales Relativas). Es un Programa de inclusión educativa que procura garantizar el acceso y permanencia de todos los niños y niñas en el sistema educativo, así como el logro de aprendizajes de calidad. Al 2022 ya son 273 centros educativos que integran el Programa, 239 escuelas y 34 Jardines de Infantes de quintiles 1 y 2, distribuidos en todo el territorio nacional. La población de este programa está conformada por 6.270 estudiantes en APRENDER y 249 en Ciclo Inicial APRENDER.
-Educación Especial proporciona los siguientes recursos: Aulas en Educación Común con inclusión en los grupos comunes para estudiantes con discapacidad visual, motriz, discapacidades múltiples y personas sordas; Maestros de apoyo en Educación Común; Escolaridad compartida o doble escolaridad en Educación Común y Educación Especial; Apoyo y pasantías en Educación Especial. Las últimas tres modalidades junto con la figura del Maestro de Apoyo Itinerante constituyen a las Educación Especial como Centros de apoyo a la inclusión educativa. Los estudiantes que asisten exclusivamente a Educación Especial y requieren de una significativa adaptación del formato escolar representan cerca de un 2% del total de inscritos en Educación Primaria, porcentaje alcanzado luego de un leve proceso de descenso que se sostiene desde hace una década. En estos resultados se visualiza que la mayor cantidad de estudiantes de Educación Especial se concentra en el interior del país y que es la EC la que acoge a la mayoría de los
-estudiantes con discapacidad inscritos en primaria. El número de Educación Especial en Uruguay es de 81 centros, de los cuales 27 se encuentran en
+
+Dentro de las modalidades de intervención educativa para el estudiantado con discapacidad la Educación Especial proporciona los siguientes recursos: Aulas en Educación Común con inclusión en los grupos comunes para estudiantes con discapacidad visual, motriz, discapacidades múltiples y personas sordas; Maestros de apoyo en Educación Común; Escolaridad compartida o doble escolaridad en Educación Común y Educación Especial; Apoyo y pasantías en Educación Especial. Las últimas tres modalidades junto con la figura del Maestro de Apoyo Itinerante constituyen a las Educación Especial como Centros de apoyo a la inclusión educativa.
+
+Los estudiantes que asisten exclusivamente a Educación Especial y requieren de una significativa adaptación del formato escolar representan cerca de un 2% del total de inscritos en Educación Primaria, porcentaje alcanzado luego de un leve proceso de descenso que se sostiene desde hace una década. En estos resultados se visualiza que la mayor cantidad de estudiantes de Educación Especial se concentra en el interior del país y que es la EC la que acoge a la mayoría de los estudiantes con discapacidad inscritos en primaria.
+
+El número de Educación Especial en Uruguay es de 81 centros, de los cuales 27 se encuentran en Montevideo y 54 en el resto del país. Esta cantidad también se mantiene estable en los últimos diez años. Estas EE se organizan por tipo de discapacidad: intelectual, auditiva, autismo, motriz, socioemocional, visual y pluridiscapacidad.
+
 Por su parte, el Instituto Nacional de Evaluación Educativa (INEEd) advierte que existe ausencia de información y de criterios homogéneos para analizar la situación de estudiantes con
 
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
 
-(this page came through the extractor with no text)
+discapacidad en las escuelas comunes. Por ese motivo, a partir de los datos relevados en la evaluación nacional de logros educativos en tercero y sexto de Primaria (Aristas 2020), publicó en 2023 un informe de aproximación a la identificación y caracterización de niños y niñas con discapacidad que asisten al sistema educativo formal. El análisis de ese relevamiento aporta lo siguiente:
+
+● La prevalencia de la discapacidad en estudiantes de Primaria es del 3,2% (2,3% con discapacidad leve y moderada y 0,9% con discapacidad severa y muy severa).
+
+● El 72% de las 189 EC participantes del estudio tiene al menos un estudiante con discapacidad y la cantidad de estudiantes con discapacidad alcanza el 10% de la muestra total, lo que interpretan como un aspecto significativo respecto a la inclusión escolar.
+
+● El 55,6% del estudiantado con discapacidad cuenta con diagnóstico y esto aumenta cuando trata de discapacidad severa y muy severa.
+
+● Según tipo de discapacidad, el mayor porcentaje de estudiantes se encuentra en el área socioemocional con un total de 60%, seguido por un 25% de discapacidad intelectual, 18% discapacidad motriz y un 12,7% de discapacidad auditiva o visual.
+
+● En la distribución de estudiantes por sexo, se observa que hay mayor número de estudiantes mujeres que varones.
+
+En cuanto a la disponibilidad de recursos en los centros educativos, el informe de INEEd sostiene que el 42.7% no posee la infraestructura adecuada y el 83.9% no tiene materiales específicos para la intervención educativa con estudiantes con discapacidad. Se agrega que el mayor porcentaje de estudiantes con discapacidad concurre a escuelas de contexto muy desfavorable y dentro de los primeros quintiles. En su mayoría, solo cuentan con el apoyo de trabajadoras sociales
+
+Respecto a la cultura inclusiva, este estudio distingue que se aborda en mayor porcentaje en escuelas a las que asisten estudiantes con discapacidad que en aquellas en las que no hay estudiantes con discapacidad. En ese sentido, las modalidades de trabajo más frecuentes para abordar la temática son: contenidos curriculares, talleres con estudiantes y en proyectos institucionales.
+
+Los datos de ANEP que analizan los egresos de estudiantes de Educación Especial a partir de los registros de inscripción temprana, muestran que la gran mayoría (83%) sigue en los talleres de la Educación Especial luego de los 12 años. Estos talleres reciben a un gran número de estudiantes con diversas discapacidades, teniendo como objetivo principal la preparación para una futura inserción laboral. Se les ofrecen distintas variantes de talleres, como por ejemplo, de tecnología alimentaria, jardinería, cerámica, joyería, carpintería, vestimenta, mantenimiento, peluquería, entre otros.
+
+Por otra parte, un 13% de quienes egresan lo hacen a los centros de Educación Técnica (CETP-UTU) y únicamente un 4% ingresa a Educación Secundaria (ANEP, 2022). Ello pone de manifiesto que una vez los estudiantes ingresan al sistema de Educación Especial, son pocos los casos en que avanzan a los niveles siguientes.
+
+Al mismo tiempo, el INEEd menciona la falta de información sobre estudiantes con discapacidad también en este ciclo y recurre nuevamente a datos recolectados a través de la observación de
 
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
 
--  ¿Con  qué  dificultades  se  ha  tropezado  para  hacer  efectivo  el  derecho  a  la  educación  de  las personas con discapacidad? De ser necesario, se pueden añadir breves datos cuantitativos.
+docentes en la aplicación de Aristas (evaluación aplicada a estudiantes de tercer año de Educación Media) y analizados en el informe sobre el estado de la educación uruguaya en los años 2021 y 2022. Allí, a través del relevamiento de personas con necesidades educativas específicas concluyen que la mayoría de estas personas tiene alguna discapacidad, diferenciándose entre leve (13,6%), moderada (37,7%), severa (8%) o muy severa (16,8%). Mientras que las personas con necesidades educativas específicas que no tienen discapacidad representan únicamente un 23,9%.
 
--Persistencia  de  la  coexistencia  de  un  sistema  diferenciado  de  Educación  Común  y Educación Especial. -Mejorable disposición de recursos en el sistema para la Formación docente específica y permanente sobre Educación Inclusiva en todos los tramos.
+Por otro lado, el mismo informe de INEEd analiza la distribución del estudiantado con discapacidad según contexto socioeconómico y cultural del centro y concluye que, a diferencia de lo que sucede en Primaria, el mayor porcentaje asiste a centros de contexto favorable o muy favorable. Este dato podría implicar que la situación de pobreza junto a la de discapacidad afectan significativamente la posibilidad de continuar los estudios. Es importante mencionar que para la Educación Media no existe división de los centros educativos como comunes o especiales.
+
+Ante esta realidad, la DGES y la DGETP, iniciaron el Proyecto Red Mandela, replicando la experiencia de la red de escuelas y jardines de infantes creada en 2014 por el Consejo de Educación Inicial y Primaria junto a UNICEF y el Instituto Interamericano de Discapacidad e Inclusión. El objetivo del proyecto consiste en transformar las culturas y prácticas educativas con énfasis en la atención de las diferentes identidades, necesidades y trayectorias para que el estudiantado con discapacidad aprenda y participe en aulas comunes inclusivas. Actualmente existen quince centros que integran la Red Mandela.
+
+A su vez, este ciclo cuenta con Centros de Recursos como CERESO (Centro de Recursos para Estudiantes Sordos) y CeR (Centro de Recursos para estudiantes ciegos y con baja visión).
+
+Entre las instituciones de Educación Superior en Uruguay, la Universidad de la República (UdelaR) es quien cuenta con datos públicos sobre estudiantes activos que se auto perciben con algún tipo de discapacidad. Esta institución realiza un relevamiento anual continuo de estudiantes para valorar actividades académicas registradas así como caracterizar la composición demográfica del estudiantado universitario.
+
+En el informe de 2022, se registraron un total de 156.437 estudiantes activos, lo que significa que cuentan con al menos una actividad académica realizada en el último año. De este número de estudiantes activos, se describe en el siguiente cuadro la distribución por tipo de discapacidad:
+
+En su informe de 2022, el BPS refiere que se brindaron prestaciones económicas en lo referente a educación como Ayudas externas ($2.422.762.559), Transporte ANEP ($4.558.150) y Equinoterapia ($25.024.551), entre otras. El 98,3% de las Ayudas externas son utilizadas por las personas beneficiarias para tratamientos o rehabilitación y solamente el 1,7% de éstas lo requieren para el uso de transporte.
+
+- ¿Con qué dificultades se ha tropezado para hacer efectivo el derecho a la educación de las personas con discapacidad? De ser necesario, se pueden añadir breves datos cuantitativos.
+
+- Persistencia de la coexistencia de un sistema diferenciado de Educación Común y Educación Especial.
+
+- Mejorable disposición de recursos en el sistema para la Formación docente específica y permanente sobre Educación Inclusiva en todos los tramos.
 
 [[END OF PAGE 33]]
 
 [[START OF PAGE 34]]
 
--Desafíos en la coordinación interinstitucional.
+- Desafíos en la coordinación interinstitucional.
 
 #### Educandos de familias pobres:
 
@@ -1182,19 +1219,23 @@ Por su parte, el Instituto Nacional de Evaluación Educativa (INEEd) advierte qu
 
 □ El transporte, las comidas y el material educativo están subvencionados o son gratuitos incluso tras finalizar la escolaridad obligatoria
 
-□Existen medidas de acción positiva o afirmativa
+□ Existen medidas de acción positiva o afirmativa
 
 ⌧ Otro:
+
+□ Los docentes reciben formación para luchar contra la estigmatización 35
+
+□ Los planes de estudio están libres de estereotipos 36 y prejuicios
 
 ##### Contexto y descripción
 
 Las Asignaciones Familiares (AFAM-PE) son una transferencia monetaria no contributiva dirigida a mujeres embarazadas (prenatal), niños/as y adolescentes menores de 18 años o personas en situación de discapacidad, que integren hogares en situación de vulnerabilidad socioeconómica o estén en atención de tiempo completo en establecimientos del INAU, o en instituciones en convenio con dicho Instituto.
 
-La  transferencia  tiene  como  requisitos  la  inscripción  y  concurrencia  asidua  del  beneficiario  a institutos  de  enseñanza autorizados  por  el  órgano  competente,  excepto  en  los  casos  de beneficiarios  en  situación de  discapacidad  en  que  se  acredite  que aquello  no es  posible,  y  la periodicidad de controles de asistencia médica brindada a través del sistema público o privado.
+La transferencia tiene como requisitos la inscripción y concurrencia asidua del beneficiario a institutos de enseñanza autorizados por el órgano competente, excepto en los casos de beneficiarios en situación de discapacidad en que se acredite que aquello no es posible, y la periodicidad de controles de asistencia médica brindada a través del sistema público o privado.
 
-La prestación consiste en una transferencia de dinero que se otorga de forma mensual, la cual se  actualiza  conforme  a  la  variación  del  Índice  de  Precios  al  Consumo  (IPC)  y  en  las  mismas oportunidades  en  que  se  ajustan  las  remuneraciones  de  los  funcionarios  públicos  de  la Administración Central.
+La prestación consiste en una transferencia de dinero que se otorga de forma mensual, la cual se actualiza conforme a la variación del Índice de Precios al Consumo (IPC) y en las mismas oportunidades en que se ajustan las remuneraciones de los funcionarios públicos de la Administración Central.
 
-Son  personas  beneficiarias  de  la  prestación:  Mujeres  embarazadas  (prenatal),  niños/as  y adolescentes  menores  de  18  años  o  personas  en  situación  de  discapacidad,  que  integren hogares  en  situación  de  vulnerabilidad  socioeconómica,  o  estén  en  atención  de  tiempo completo en establecimientos del INAU o en instituciones en convenio con dicho Instituto.
+Son personas beneficiarias de la prestación: Mujeres embarazadas (prenatal), niños/as y adolescentes menores de 18 años o personas en situación de discapacidad, que integren hogares en situación de vulnerabilidad socioeconómica, o estén en atención de tiempo completo en establecimientos del INAU o en instituciones en convenio con dicho Instituto.
 
 Ofrece transferencia monetaria mensual a los hogares y personas en situación de vulnerabilidad socioeconómica.
 
@@ -1211,28 +1252,23 @@ Años | EMP* | BCQ**
 
 > 36 Véase la nota 16.
 
-□ Los docentes reciben formación para luchar contra la estigmatización 35
-
-□ Los planes de estudio están libres de estereotipos 36 y prejuicios
-
 [[END OF PAGE 34]]
 
 [[START OF PAGE 35]]
 
-- Explique con más detalles y, cuando proceda, indique las medidas jurídicas y políticas adoptadas.
+2020 | 2025 | 1 persona que luego renunció
+2021 | 2101 | 3
+Total | 8010 | 13
 
-¿Con  qué  dificultades  se  ha  tropezado  para  hacer  efectivo  el  derecho  a  la  educación  de  los educandos de familias pobres? De ser necesario, se pueden añadir breves datos cuantitativos.
+*Educación Media pública
 
-2020 | 2025 1 persona que luego renunció
---- | ---
-2021 | 2101 3
-Total | 8010 13
-
-* Educación Media pública
-
-** Beca Carlos Quijano
+**Beca Carlos Quijano
 
 Fuente: Ministerio de Educación y Cultura, Oficina de Becas.
+
+- Explique con más detalles y, cuando proceda, indique las medidas jurídicas y políticas adoptadas.
+
+- ¿Con qué dificultades se ha tropezado para hacer efectivo el derecho a la educación de los educandos de familias pobres? De ser necesario, se pueden añadir breves datos cuantitativos.
 
 ## 2. Progresos realizados en la aplicación del derecho a la educación en todos los niveles y formas de educación
 
@@ -1308,13 +1344,13 @@ equipo de referencia.
 
 Por más información, acceder:
 
-https://www.gub.uy/ministerio-educacion-cultura/comunicacion/publicaciones/educacioninclusiva-primera-infancia-0
+https://www.gub.uy/ministerio-educacion-cultura/comunicacion/publicaciones/educacion-inclusiva-primera-infancia-0
 
 #### Atención y Educación de la Primera Infancia (AEPI)
 
 El  servicio  estatal  de  AEPI  lo  brindan  centros  educativos  preescolares  (Jardines  de  Infantes) regulados por la Administración Nacional de Educación Pública (ANEP), a través de la Dirección General de Educación Inicial y Primaria y el Instituto del Niño y el Adolescente de Uruguay, a través  de  programas  específicos  de  cuidados  y  estimulación  temprana  como  CAIF  (Centro  de Atención a la Infancia y la Familia). Esta oferta estatal es gratuita, integral y convive con centros privados.
 
-¿Existe una enseñanza preprimaria gratuita y obligatoria?
+- ¿Existe una enseñanza preprimaria gratuita y obligatoria?
 
 ⌧ La educación preprimaria es obligatoria.
 
@@ -1340,7 +1376,7 @@ La Educación Inicial obligatoria corresponde a los tramos de 4 y 5 años y exis
 
 No se identifica.
 
-¿Con qué dificultades se ha tropezado para hacer realidad la atención y educación de la primera infancia y la educación preprimaria?
+- ¿Con qué dificultades se ha tropezado para hacer realidad la atención y educación de la primera infancia y la educación preprimaria?
 
 □ Acceso limitado
 
@@ -1372,7 +1408,7 @@ A título de referencia, en el artículo/párrafo 4.a de la Convención y la Rec
 
 El nivel primario tiene una duración de 9 años, si bien la educación es obligatoria desde los 4 años.
 
-¿Es obligatoria y gratuita la educación primaria?
+- ¿Es obligatoria y gratuita la educación primaria?
 
 ⌧ La educación primaria es obligatoria
 
@@ -1390,7 +1426,7 @@ El nivel primario tiene una duración de 9 años, si bien la educación es oblig
 
 Ley General de Educación (2008).
 
-¿Con qué dificultades se ha tropezado para hacer efectiva la educación primaria?
+- ¿Con qué dificultades se ha tropezado para hacer efectiva la educación primaria?
 
 □ Acceso limitado
 
@@ -1434,7 +1470,7 @@ La Educación Básica Integral tiene 3 años de duración (12-15 años).
 
 La  Educación  Media  Superior  (16-18  años)  completa  el  nivel  de  Educación  Media,  tanto  en  la variante Secundaria como Técnico-Profesional.
 
-¿Son obligatorios y gratuitos el primer y segundo ciclo de secundaria?
+- ¿Son obligatorios y gratuitos el primer y segundo ciclo de secundaria?
 
 ⌧ El primer ciclo de educación secundaria es obligatorio
 
@@ -1462,7 +1498,7 @@ Ley General de Educación (2008).
 
 - Indique si la edad mínima legal para trabajar coincide con la edad de finalización de la educación obligatoria.
 
-- A  fines  de  referencia,  las  leyes  laborales  y  las  leyes  relativas  a  la  educación  obligatoria  son interdependientes y se refuerzan mutuamente. Si la edad mínima para trabajar es inferior a la edad de finalización de la educación obligatoria, los niños corren el riesgo de abandonar la escuela para trabajar  y,  por  tanto,  de  no  completar  la  educación  obligatoria. Por  otra  parte,  si  la  edad  de finalización de la educación obligatoria es inferior a la edad mínima para trabajar, una vez que los niños terminan la educación obligatoria se abre la puerta a la explotación infantil y a la violación de las leyes laborales.
+A fines de referencia, las leyes laborales y las leyes relativas a la educación obligatoria son interdependientes y se refuerzan mutuamente. Si la edad mínima para trabajar es inferior a la edad de finalización de la educación obligatoria, los niños corren el riesgo de abandonar la escuela para trabajar y, por tanto, de no completar la educación obligatoria. Por otra parte, si la edad de finalización de la educación obligatoria es inferior a la edad mínima para trabajar, una vez que los niños terminan la educación obligatoria se abre la puerta a la explotación infantil y a la violación de las leyes laborales.
 
 Sí o No ⌧
 
@@ -1476,7 +1512,7 @@ El  Ministerio  de  Educación  y  Cultura  (MEC),  mediante  la  implementació
 
 La  Administración  Nacional  de  Educación  Pública  (ANEP),  a  través  del  Plan  de  Desarrollo Educativo 2020-2024.
 
-¿Con qué dificultades se ha tropezado para hacer efectiva la educación secundaria?
+- ¿Con qué dificultades se ha tropezado para hacer efectiva la educación secundaria?
 
 □ Acceso limitado
 
@@ -1542,7 +1578,7 @@ La  educación  superior  de  grado  de  gestión  estatal  es  gratuita,  coexi
 
 Educación  y  Cultura  que  facilitan  el  acceso.  A  partir  de  2021  se  ha  incrementado  la  oferta  de formación remota a nivel terciario.
 
-¿Con qué dificultades se ha tropezado para hacer efectiva la educación superior?
+- ¿Con qué dificultades se ha tropezado para hacer efectiva la educación superior?
 
 □ Acceso limitado
 
@@ -1596,7 +1632,7 @@ No se identifica.
 
 - Proporcione más detalles sobre las medidas adoptadas.
 
-La Administración Nacional de Educación Pública (ANEP) c uenta con una Dirección de Educación de  Jóvenes  y  Adultos,  que  desarrolla  programas  de  alfabetización  y  compleción  de  ciclos educativos. Asimismo, desarrolla acciones de reconocimiento de saberes a través de la práctica, con acreditación de la Dirección General de Educación Técnico Profesional.
+La Administración Nacional de Educación Pública (ANEP) cuenta con una Dirección de Educación de Jóvenes y Adultos, que desarrolla programas de alfabetización y compleción de ciclos educativos. Asimismo, desarrolla acciones de reconocimiento de saberes a través de la práctica, con acreditación de la Dirección General de Educación Técnico Profesional.
 
 Programa Aprender Siempre (PAS), Dirección Nacional de Educación del Ministerio de Educación y Cultura (MEC). Se trata de un programa a nivel nacional que realiza actividades educativas no formales  dirigidas  a  personas  jóvenes  y  adultas  mayores  de  14  años  en  contextos  diversos.
 
@@ -1612,7 +1648,7 @@ Programa Aprender Siempre (PAS), Dirección Nacional de Educación del Ministeri
 
 La Dirección Nacional de Educación del MEC es Punto Focal en el Plan Iberoamericano de Alfabetización y Educación a lo Largo de la Vida (PIALV 2021-2022 ), coordinado por OEI España y tuvo participación en CONFINTEA VII.
 
-¿Con  qué  dificultades  se  ha  tropezado  para  hacer  efectivos  el  aprendizaje  y  la  educación  de adultos?
+- ¿Con qué dificultades se ha tropezado para hacer efectivos el aprendizaje y la educación de adultos?
 
 □ Acceso limitado
 
@@ -1634,7 +1670,7 @@ No se identifica.
 
 No se identifica.
 
-## Educación de calidad y entorno de aprendizaje
+## 3. Educación de calidad y entorno de aprendizaje
 
 [[END OF PAGE 43]]
 
@@ -1670,7 +1706,7 @@ Puede incluir información sobre políticas, protocolos o códigos de conducta.
 
 La Administración  Nacional  de  Educación  Pública  (ANEP) regula  las  instituciones  de  gestión estatal y privada del país. Sus normativas  especifican los aspectos señalados,  de  forma centralizada.
 
-¿Con qué dificultades se ha tropezado para hacer efectiva una educación de calidad?
+- ¿Con qué dificultades se ha tropezado para hacer efectiva una educación de calidad?
 
 ⌧ Entornos  de  aprendizaje  poco  estimulantes  o inadecuados
 
@@ -1702,11 +1738,9 @@ A  fines  de  referencia,  en  el  artículo/párrafo  4.d  de  la  Convención 
 
 - Indique las medidas que se han adoptado para mejorar las condiciones de enseñanza y de trabajo del personal de educación, especialmente del personal docente de todos los niveles, y en relación con la formación para la profesión docente ( marque todos los puntos que correspondan ).
 
-- Proporcione detalles sobre cada una de las medidas adoptadas.
-
 ⌧ La formación de docentes se imparte sin discriminación
 
-□  Los  salarios  medios  de  los  docentes  son  competitivos  o  al  menos  comparables  a  los  de  otras profesiones que requieren cualificaciones similares o equivalentes (en todos los niveles)
+□ Los salarios medios de los docentes son competitivos o al menos comparables a los de otras profesiones que requieren cualificaciones similares o equivalentes (en todos los niveles)
 
 □ Se ofrece formación inicial y desarrollo profesional continuo
 
@@ -1714,15 +1748,17 @@ A  fines  de  referencia,  en  el  artículo/párrafo  4.d  de  la  Convención 
 
 ⌧ Se han adoptado medidas para mejorar el prestigio social y el atractivo de la profesión docente
 
-⌧ Se  han  adoptado  medidas  para  promover  la  diversidad  entre  el  personal  docente,  incluida  la corrección de los desequilibrios de género en los distintos niveles de educación
+⌧ Se han adoptado medidas para promover la diversidad entre el personal docente, incluida la corrección de los desequilibrios de género en los distintos niveles de educación
 
 □ Se han establecido sistemas de supervisión del desempeño
 
-□  Se  han  adoptado  medidas  para  aumentar  el  número  de  mujeres  en  puestos  directivos  en  la educación
+□ Se han adoptado medidas para aumentar el número de mujeres en puestos directivos en la educación
 
 □ Otro:
 
 No se identifica.
+
+- Proporcione detalles sobre cada una de las medidas adoptadas.
 
 #### Contexto y acciones
 
@@ -1848,9 +1884,9 @@ No se identifica.
 
 - Explique.
 
-- La Administración  Nacional  de  Educación  Pública  (ANEP) establece  los  requisitos  para  la habilitación de instituciones privadas y las supervisa con los mismos criterios que los centros de gestión estatal.
+La Administración Nacional de Educación Pública (ANEP) establece los requisitos para la habilitación de instituciones privadas y las supervisa con los mismos criterios que los centros de gestión estatal.
 
-¿Con qué dificultades se ha tropezado en la impartición de educación no estatal?
+- ¿Con qué dificultades se ha tropezado en la impartición de educación no estatal?
 
 □ Mala calidad de la infraestructura escolar y el material pedagógico
 
@@ -1930,7 +1966,7 @@ Superior.
 
 La agencia de innovación Ceibal ofrece contenidos abiertos al estudiantado, otorga equipos a cada estudiante y asegura la conectividad del 100% de los centros educativos.
 
-¿Con qué dificultades se ha tropezado a la hora de impartir educación digital? (marque todas las que procedan).
+- ¿Con qué dificultades se ha tropezado a la hora de impartir educación digital? (marque todas las que procedan).
 
 □  Falta  de  contenidos  digitales  de  enseñanza  y aprendizaje de calidad y adaptados a los planes de estudio que respalden vías de aprendizaje y enseñanza flexibles
 
@@ -1960,7 +1996,7 @@ No se identifica.
 
 ## 4 Consolidación de los sistemas de gobernanza
 
-A fines de referencia, el Marco de Acción Educación 2030 establece que 'para garantizar la calidad de la educación y crear condiciones que permitan obtener resultados eficaces en este ámbito, los gobiernos deberán reforzar los sistemas educativos mediante la creación y mejora de mecanismos de gobernanza y rendición de cuentas adecuados, eficaces e inclusivos; la garantía de la calidad; sistemas de gestión e información de la educación; procedimientos y mecanismos de financiación transparentes y eficaces; y acuerdos institucionales de gestión, así como procurar que se disponga de información fiable, oportuna y accesible' (párr. 18).
+A fines de referencia, el Marco de Acción Educación 2030 establece que “para garantizar la calidad de la educación y crear condiciones que permitan obtener resultados eficaces en este ámbito, los gobiernos deberán reforzar los sistemas educativos mediante la creación y mejora de mecanismos de gobernanza y rendición de cuentas adecuados, eficaces e inclusivos; la garantía de la calidad; sistemas de gestión e información de la educación; procedimientos y mecanismos de financiación transparentes y eficaces; y acuerdos institucionales de gestión, así como procurar que se disponga de información fiable, oportuna y accesible” (párr. 18).
 
 - Indique  las  medidas  adoptadas  en  términos  de  gobernanza  (marque  todos  los  puntos  que correspondan).
 
@@ -1968,7 +2004,7 @@ A fines de referencia, el Marco de Acción Educación 2030 establece que 'para g
 
 □ Los resultados del seguimiento se hacen públicos. Indique el enlace.
 
-La Administración  Nacional  de  Educación  Pública  (ANEP )  ha  creado  una  Mesa  de  Educación Inclusiva, capaz de coordinar criterios en los distintos subsistemas, generar sinergias internas para
+La Administración  Nacional  de  Educación  Pública  (ANEP)  ha  creado  una  Mesa  de  Educación Inclusiva, capaz de coordinar criterios en los distintos subsistemas, generar sinergias internas para
 
 [[END OF PAGE 51]]
 
@@ -1992,7 +2028,7 @@ la  adecuada  implementación  de  los  principios  de  accesibilidad,  inclusi�
 
 No de identifica.
 
-¿Con qué dificultades se ha tropezado en términos de gobernanza?
+- ¿Con qué dificultades se ha tropezado en términos de gobernanza?
 
 □ Limitaciones presupuestarias
 
@@ -2014,7 +2050,7 @@ No se identifica.
 
 A fines de referencia, los órganos rectores de la UNESCO han subrayado la necesidad de llevar a cabo una  labor  de  sensibilización. Dada la  importancia  de  la  acción  normativa  en  el  plano  nacional,  es preciso  velar  por  que  la  Convención  se  difunda  ampliamente,  con  el  apoyo  de  las  comisiones nacionales para la UNESCO.
 
-¿Se  han  llevado  a  cabo  actividades  para  familiarizar  a  las  distintas  autoridades  del  país  con  la Convención y la Recomendación y con sus disposiciones sobre el derecho a la educación, así como para  sensibilizarlas  a  los  principios  de  no  discriminación  e  igualdad  de  oportunidades  educativas? (marque todos los puntos que correspondan).
+- ¿Se  han  llevado  a  cabo  actividades  para  familiarizar  a  las  distintas  autoridades  del  país  con  la Convención y la Recomendación y con sus disposiciones sobre el derecho a la educación, así como para  sensibilizarlas  a  los  principios  de  no  discriminación  e  igualdad  de  oportunidades  educativas? (marque todos los puntos que correspondan).
 
 □ Traducción de la Convención o la Recomendación a los idiomas nacionales y posiblemente a los idiomas locales
 
