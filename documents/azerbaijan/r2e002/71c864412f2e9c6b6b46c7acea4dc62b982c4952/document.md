@@ -16,11 +16,13 @@ The people of Azerbaijan, continuing their centuries-long statehood traditions, 
 
 - by maintaining commitment to universal human values, to live in friendship, peace and safety with all the nations of the world and co-operate with them for this purpose.
 
-Having in mind the above- stated noble intentions the Present Constitution is adopted - by nationwide popular vote referendum.
+Having in mind the above- stated noble intentions the Present Constitution is adopted - by nationwide popular vote – referendum.
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+## CONTENTS
 
 SECTION I: GENERAL PROVISIONS
 
@@ -57,8 +59,6 @@ Chapter XI. CHANGES IN THE CONSTITUTION OF THE REPUBLIC OF AZERBAIJAN
 Chapter XII. ADDITIONS TO THE CONSTITUTION OF THE REPUBLIC OF AZERBAIJAN
 
 TRANSITIONAL PROVISIONS
-
-## CONTENTS
 
 [[END OF PAGE 2]]
 
@@ -254,7 +254,7 @@ The capital of the Republic of Azerbaijan is the city of Baku
 
 #### Article 23. Symbols of the State of Azerbaijan
 
-- The state symbols of the Republic of Azerbaijan are the State flag of the Republic of Azerbaijan, State Emblem of the Re -public of Azerbaijan and State anthem of the Republic of Azerbaijan
+- The state symbols of the Republic of Azerbaijan are the State flag of the Republic of Azerbaijan, State Emblem of the Republic of Azerbaijan and State anthem of the Republic of Azerbaijan
 
 - The state flag of the Republic of Azerbaijan consists of three horizontal stripes of the same width. The upper stripe is blue, the middle stripe is red, and the lower stripe is green, with a white crescent and eight-pointed star depicted in the middle of the red stripe on both sides of the flag. The ratio of the width of the flag to its length is 1:2.
 
@@ -442,7 +442,7 @@ VIII. The state shall apply all of its resources for the elimination of unemploy
 
 - Everyone has the right to live in a healthy environment.
 
-- Everyone has the right to gain information about true ecological situation and to get compensation for damage done to his/ her health and property by violation of ecological requirements.
+- Everyone has the right to gain information about true ecological situation and to get compensation for damage done to his/her health and property by violation of ecological requirements.
 
 - No one may cause threat or damage to the environment and natural resources beyond the limits prescribed by law.
 
@@ -540,7 +540,7 @@ I Everyone has the right to freely assemble together with others.
 
 - Freedom of mass information is guaranteed. State censorship in mass media, including the press is prohibited.
 
-- Everyone's right to refute or reply to the information published in mass media and violating his/her rights or damaging his/ her interests shall be guaranteed.
+- Everyone's right to refute or reply to the information published in mass media and violating his/her rights or damaging his/her interests shall be guaranteed.
 
 #### Article 51. Freedom of creative activity
 
@@ -772,7 +772,7 @@ No one may be forced to fulfill duties contradicting the Constitution and laws o
 
 #### Article 80. Responsibility
 
-Violation of provisions of the present Constitution and laws of the Republic of Azerbaijan including abuse of rights and failure to fulfil duties specified in the present Constitution and laws of the Republic of Azerbaijan shall entail responsibility pre -scribed by law.
+Violation of provisions of the present Constitution and laws of the Republic of Azerbaijan including abuse of rights and failure to fulfil duties specified in the present Constitution and laws of the Republic of Azerbaijan shall entail responsibility prescribed by law.
 
 ## SECTION III: STATE POWER
 
@@ -796,7 +796,7 @@ I. The term of office of each convocation of the Milli Majlis is five years. In 
 
 - Elections for each convocation of Milli Majlis of the Republic of Azerbaijan shall be held every five years on the first Sunday of November.
 
-- The term of office of deputies of the Milli Majlis of the Republic of Azerbaijan shall be limited by the term of office of con -vocation of the Milli Majlis of the Republic of Azerbaijan.
+- The term of office of deputies of the Milli Majlis of the Republic of Azerbaijan shall be limited by the term of office of convocation of the Milli Majlis of the Republic of Azerbaijan.
 
 - If by-elections are held to replace those who have ceased to be deputies of the Milli Majlis of the Republic of Azerbaijan, the term of office of a newly elected deputy shall be limited to the remainder of the former deputy's term.
 
@@ -1030,13 +1030,13 @@ II. Draft law that is declared to be a matter of urgency is submitted to the Pre
 
 #### Article 98. Entry into force of acts of Milli Majlis of the Republic of Azerbaijan
 
-If not specified otherwise in the law and resolution of Milli Majlis of the Republic of Azerbaijan themselves the law and reso -lution enter into force on the day of their publication.
+If not specified otherwise in the law and resolution of Milli Majlis of the Republic of Azerbaijan themselves the law and resolution enter into force on the day of their publication.
 
-#### Article 98 1 . The dissolution of the Milli Majlis of the Republic of Azerbaijan
+#### Article 98¹. The dissolution of the Milli Majlis of the Republic of Azerbaijan
 
 I. The President of the Republic of Azerbaijan is empowered to dissolve the Milli Majlis if the same convocation of the Milli Majlis of the Republic of Azerbaijan expresses twice during the year no-confidence to the Cabinet of Ministers of the Republic of Azerbaijan or if the Milli Majlis of the Republic of Azerbaijan fails to appoint during the statutory period the candidates nominated for the membership of the Constitutional Court, the Supreme Court and the Board of the Central Bank of the Republic of Azerbaijan upon a double submission of the President of Azerbaijan, as well as if the Milli Majlis of the Republic of Azerbaijan fails to fulfill its obligations specified in Articles 94, 95 and 97, as well as in Parts II, III, IV and V of Article 96 due to unavoidable reasons.
 
-II. The term of office of the Milli Majlis of the Republic of Azerbaijan elected via extraordinary elections of Milli Majlis's con -vocation may be less than five years. In such case the regular elections to the Milli Majlis of the Republic of Azerbaijan shall be held on the first Sunday of November of the fifth year of a term of office of the Milli Majlis of the Republic of Azerbaijan elected on extraordinary elections of Milli Majlis's convocation.
+II. The term of office of the Milli Majlis of the Republic of Azerbaijan elected via extraordinary elections of Milli Majlis's convocation may be less than five years. In such case the regular elections to the Milli Majlis of the Republic of Azerbaijan shall be held on the first Sunday of November of the fifth year of a term of office of the Milli Majlis of the Republic of Azerbaijan elected on extraordinary elections of Milli Majlis's convocation.
 
 [[END OF PAGE 24]]
 
@@ -1072,7 +1072,7 @@ Results of elections of the President of the Republic of Azerbaijan are official
 
 #### Article 103. Oath of a person elected the President of the Republic of Azerbaijan
 
-I. A person elected the President of the Republic of Azerbaijan, within 3 days of announcement of results of elections of the President of the Republic of Azerbaijan, takes an oath with participation of judges of Constitutional Court of the Republic of Azerbaijan: 'Carrying out powers of the President of the Republic of Azerbaijan I swear to follow the Constitution of the Republic of Azerbaijan, protect sovereignty and territorial integrity of the state, to serve people'.
+I. A person elected the President of the Republic of Azerbaijan, within 3 days of announcement of results of elections of the President of the Republic of Azerbaijan, takes an oath with participation of judges of Constitutional Court of the Republic of Azerbaijan: “Carrying out powers of the President of the Republic of Azerbaijan I swear to follow the Constitution of the Republic of Azerbaijan, protect sovereignty and territorial integrity of the state, to serve people”.
 
 - The President of the Republic of Azerbaijan shall be considered to enter on the execution of his office upon having taken the presidential oath.
 
@@ -1080,7 +1080,7 @@ I. A person elected the President of the Republic of Azerbaijan, within 3 days o
 
 [[START OF PAGE 26]]
 
-#### Article 103 1 . Vice-presidents of the Republic of Azerbaijan
+#### Article 103¹. Vice-presidents of the Republic of Azerbaijan
 
 I. The First Vice-President and Vice-Presidents of the Republic of Azerbaijan are appointed and dismissed by the President of the Republic of Azerbaijan.
 
@@ -1090,7 +1090,7 @@ II. A citizen of the Republic of Azerbaijan who has the right to participate in 
 
 I. The President of the Republic of Azerbaijan shall be deemed to have vacated office before the completion of his term upon resignation, complete inability to exercise his powers due to poor health, or upon dismissal in cases and according to the procedure as provided for in the present Constitution.
 
-II. Upon resigning from office, the President of the Republic of Azerbaijan shall submit his notice of resignation to the Consti -tutional Court of the Republic of Azerbaijan. Upon confirming that the President of the Republic of Azerbaijan personally sub -mitted the notice of resignation, the Constitutional Court of the Republic of Azerbaijan shall take a decision on the acceptance of the resignation. Thereafter, the President of the Republic of Azerbaijan shall be considered to have vacated office by reason of resignation.
+II. Upon resigning from office, the President of the Republic of Azerbaijan shall submit his notice of resignation to the Constitutional Court of the Republic of Azerbaijan. Upon confirming that the President of the Republic of Azerbaijan personally submitted the notice of resignation, the Constitutional Court of the Republic of Azerbaijan shall take a decision on the acceptance of the resignation. Thereafter, the President of the Republic of Azerbaijan shall be considered to have vacated office by reason of resignation.
 
 III. Upon receiving information concerning the inability of the President of the Republic of Azerbaijan to exercise his powers due to poor health, the Milli Majlis of the Republic of Azerbaijan shall apply to the Constitutional Court of the Republic of Azerbaijan for clarification thereof. The Constitutional Court shall decide the issue with a majority of six votes. If the Constitutional Court does not confirm this fact, then the issue shall be deemed to be exhausted.
 
@@ -1112,31 +1112,31 @@ The President of the Republic of Azerbaijan shall have the right of immunity. Th
 
 [[START OF PAGE 27]]
 
-#### Article 106 1 . Immunity of the Vice-Presidents of the Republic of Azerbaijan
+#### Article 106¹. Immunity of the Vice-Presidents of the Republic of Azerbaijan
 
-- The Vice-President of the Republic of Azerbaijan enjoys immunity during the whole term of his/her powers.
+I. The Vice-President of the Republic of Azerbaijan enjoys immunity during the whole term of his/her powers.
 
-- The Vice-President of the Republic of Azerbaijan may not be detained, brought to criminal responsibility except cases when he/she has been caught red-handed, disciplinary measures may not be applied to him/her by court, he/she may not be searched.
+II. The Vice-President of the Republic of Azerbaijan may not be detained, brought to criminal responsibility except cases when he/she has been caught red-handed, disciplinary measures may not be applied to him/her by court, he/she may not be searched.
 
-- The Vice-President of the Republic of Azerbaijan may be detained if he/she has been caught red-handed. In such case the body which detained the vice-president must immediately notify Prosecutor-General of the Azerbaijan Republic about the fact.
+III. The Vice-President of the Republic of Azerbaijan may be detained if he/she has been caught red-handed. In such case the body which detained the vice-president must immediately notify Prosecutor-General of the Azerbaijan Republic about the fact.
 
 IV. Immunity of the Vice-President of the Republic of Azerbaijan might be stopped only by the President of the Azerbaijan Republic, based on application of Prosecutor-General of the Republic of Azerbaijan.
 
 #### Article 107. Removal of the President from office
 
-I. If the President of the Republic of Azerbaijan commits a serious crime, the issue of his/her removal from office may be sub -mitted to the Milli Majlis of the Republic of Azerbaijan at the initiative of the Constitutional Court of the Republic of Azerbaijan on the basis of an opinion of the Supreme Court of the Republic of Azerbaijan presented within 30 days.
+I. If the President of the Republic of Azerbaijan commits a serious crime, the issue of his/her removal from office may be submitted to the Milli Majlis of the Republic of Azerbaijan at the initiative of the Constitutional Court of the Republic of Azerbaijan on the basis of an opinion of the Supreme Court of the Republic of Azerbaijan presented within 30 days.
 
-- The President may be removed from office by a resolution of the Milli Majlis of the Republic of Azerbaijan passed by a majority of 95 deputy votes. The said resolution shall be signed by the Chairman of the Constitutional Court of the Republic of Azerbaijan. If the Constitutional Court of the Republic of Azerbaijan within one week does not support the signing of the resolution, the latter shall not enter into force.
+II. The President may be removed from office by a resolution of the Milli Majlis of the Republic of Azerbaijan passed by a majority of 95 deputy votes. The said resolution shall be signed by the Chairman of the Constitutional Court of the Republic of Azerbaijan. If the Constitutional Court of the Republic of Azerbaijan within one week does not support the signing of the resolution, the latter shall not enter into force.
 
 III. A resolution on the removal of the President of the Republic of Azerbaijan from office shall be adopted within 2 months of the Constitutional Court's submission to the Milli Majlis of the Republic of Azerbaijan. If the resolution is not adopted within the said term, then the accusations against the President of the Republic of Azerbaijan shall be considered to have been rejected.
 
 #### Article 108. Guarantees for the President of the Republic of Azerbaijan
 
-- The President of the Republic of Azerbaijan and his family shall be provided at the expense of the state. The security of the President of the Republic of Azerbaijan and his family shall be provided by the special security services.
+I. The President of the Republic of Azerbaijan and his family shall be provided at the expense of the state. The security of the President of the Republic of Azerbaijan and his family shall be provided by the special security services.
 
-- Guarantees for former presidents of the Republic of Azerbaijan shall be established by a Constitutional law.
+II. Guarantees for former presidents of the Republic of Azerbaijan shall be established by a Constitutional law.
 
-#### Article 108 1 . Guarantees for the First Vice-President of the Republic of Azerbaijan
+#### Article 108¹. Guarantees for the First Vice-President of the Republic of Azerbaijan
 
 The First Vice-President of the Republic of Azerbaijan and his/her family are provided for by the state. Security of the First Vice-President of the Republic of Azerbaijan and his/her family is ensured by special security services.
 
@@ -1144,87 +1144,87 @@ The First Vice-President of the Republic of Azerbaijan and his/her family are pr
 
 The President of the Republic of Azerbaijan shall have the following powers:
 
-- to call the elections to the Milli Majlis of the Republic of Azerbaijan;
+1) to call the elections to the Milli Majlis of the Republic of Azerbaijan;
 
-- to submit the state budget of the Republic of Azerbaijan to the Milli Majlis of the Republic of Azerbaijan for approval;
+2) to submit the state budget of the Republic of Azerbaijan to the Milli Majlis of the Republic of Azerbaijan for approval;
 
-- to approve state economic and social programmes;
+3) to approve state economic and social programmes;
 
-- to appoint the Prime Minister of the Republic of Azerbaijan with the consent of the Milli Majlis of the Republic of Azerbaijan; to dismiss the Prime Minister;
+4) to appoint the Prime Minister of the Republic of Azerbaijan with the consent of the Milli Majlis of the Republic of Azerbaijan; to dismiss the Prime Minister;
 
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
 
-- to appoint and dismiss members of the Cabinet of Ministers of the Republic of Azerbaijan; and to preside over meeting of the Cabinet of Ministers of the Republic of Azerbaijan when necessary;
+5) to appoint and dismiss members of the Cabinet of Ministers of the Republic of Azerbaijan; and to preside over meeting of the Cabinet of Ministers of the Republic of Azerbaijan when necessary;
 
 6) to take decisions regarding the resignation of the Cabinet of Ministers of the Republic of Azerbaijan;
 
-- to establish central and local executive bodies within the limits of the expenses allotted for the executive in the state budget;
+7) to establish central and local executive bodies within the limits of the expenses allotted for the executive in the state budget;
 
-- to repeal resolutions and orders of the Cabinet of Ministers of the Republic of Azerbaijan and the Cabinet of Ministers of the Autonomous Republic of Nakhchivan, and acts of central and local executive bodies;
+8) to repeal resolutions and orders of the Cabinet of Ministers of the Republic of Azerbaijan and the Cabinet of Ministers of the Autonomous Republic of Nakhchivan, and acts of central and local executive bodies;
 
 9) to make submissions to the Milli Majlis of the Republic of Azerbaijan regarding the appointment of judges of the Constitutional Court of the Republic of Azerbaijan, the Supreme Court of the Republic of Azerbaijan and the courts of appeal of the Republic of Azerbaijan; to appoint judges to the other courts of the Republic of Azerbaijan; and to appoint and dismiss the General Prosecutor of the Republic of Azerbaijan with the consent of the Milli Majlis of the Republic of Azerbaijan;
 
-- to make submissions to the Milli Majlis of the Republic of Azerbaijan regarding the appointment and dismissal of the members of the Governing Board of the Central Bank of the Republic of Azerbaijan; and to appoint the Chairman of the Central Bank from among the members of the Governing Board of the Central Bank.
+10) to make submissions to the Milli Majlis of the Republic of Azerbaijan regarding the appointment and dismissal of the members of the Governing Board of the Central Bank of the Republic of Azerbaijan; and to appoint the Chairman of the Central Bank from among the members of the Governing Board of the Central Bank.
 
 11) to submit the military doctrine of the Republic of Azerbaijan to the Milli Majlis of the Republic of Azerbaijan for approval;
 
-- to appoint and dismiss the Supreme Command of the Armed Forces of the Republic of Azerbaijan;
+12) to appoint and dismiss the Supreme Command of the Armed Forces of the Republic of Azerbaijan;
 
 13) to establish the Administration of the President of the Republic of Azerbaijan and to appoint its head;
 
-- to make submissions to the Milli Majlis of the Republic of Azerbaijan regarding the election of the Human Rights Commissioner of the Republic of Azerbaijan;
+14) to make submissions to the Milli Majlis of the Republic of Azerbaijan regarding the election of the Human Rights Commissioner of the Republic of Azerbaijan;
 
-- to make submissions to the Milli Majlis of the Republic of Azerbaijan regarding the establishment of diplomatic representations of the Republic of Azerbaijan in foreign countries and in international organisations, and to appoint and recall diplomatic representatives of the Republic of Azerbaijan in foreign countries and in international organisations;
+15) to make submissions to the Milli Majlis of the Republic of Azerbaijan regarding the establishment of diplomatic representations of the Republic of Azerbaijan in foreign countries and in international organisations, and to appoint and recall diplomatic representatives of the Republic of Azerbaijan in foreign countries and in international organisations;
 
-- to receive the credentials and letters of recall from the diplomatic representatives of foreign countries;
+16) to receive the credentials and letters of recall from the diplomatic representatives of foreign countries;
 
-- to conclude inter-state and inter-governmental treaties; to submit inter-state treaties and those inter-governmental agreements that contain rules contradicting the laws of the Republic of Azerbaijan to the Milli Majlis of the Republic of Azerbaijan for ratification and denunciation; and to sign acts of ratification;
+17) to conclude inter-state and inter-governmental treaties; to submit inter-state treaties and those inter-governmental agreements that contain rules contradicting the laws of the Republic of Azerbaijan to the Milli Majlis of the Republic of Azerbaijan for ratification and denunciation; and to sign acts of ratification;
 
-- to call a referendum;
+18) to call a referendum;
 
-- to sign and publish laws;
+19) to sign and publish laws;
 
-- to settle issues of citizenship;
+20) to settle issues of citizenship;
 
-- to settle issues regarding the granting of political asylum;
+21) to settle issues regarding the granting of political asylum;
 
-- to grant pardons;
+22) to grant pardons;
 
-- to confer state awards;
+23) to confer state awards;
 
-- to award supreme military and supreme special ranks;
+24) to award supreme military and supreme special ranks;
 
-- to declare general and partial mobilization, and demobilization;
+25) to declare general and partial mobilization, and demobilization;
 
-- to make decisions regarding the conscription of citizens of the Republic of Azerbaijan into active military service, and regarding the transfer of active military servicemen to the reserves;
+26) to make decisions regarding the conscription of citizens of the Republic of Azerbaijan into active military service, and regarding the transfer of active military servicemen to the reserves;
 
-- to appoint the Security Council of the Republic of Azerbaijan;
+27) to appoint the Security Council of the Republic of Azerbaijan;
 
-- to make submissions to the Milli Majlis of the Republic of Azerbaijan for its consent to the use of the Armed Forces of the Republic of Azerbaijan for performing tasks not related to their assignment;
+28) to make submissions to the Milli Majlis of the Republic of Azerbaijan for its consent to the use of the Armed Forces of the Republic of Azerbaijan for performing tasks not related to their assignment;
 
-- to declare a state of emergency and martial law;
+29) to declare a state of emergency and martial law;
 
-- to declare war and conclude peace with the consent of the Milli Majlis of the Republic of Azerbaijan;
+30) to declare war and conclude peace with the consent of the Milli Majlis of the Republic of Azerbaijan;
 
-- to form special security services within the limits of the expenses allotted by the state budget;
+31) to form special security services within the limits of the expenses allotted by the state budget;
 
-- to settle other issues that do not fall under the competence of the Milli Majlis of the Republic of Azerbaijan and of the judiciary under the present Constitution.
+32) to settle other issues that do not fall under the competence of the Milli Majlis of the Republic of Azerbaijan and of the judiciary under the present Constitution.
 
 #### Article 110. Signing of laws
 
-- The President of the Republic of Azerbaijan shall sign laws within 56 days of their presentation. If the President of the Republic of Azerbaijan has objections to a law, he may, within the said term, return it to the Milli Majlis of the Republic of Azerbaijan without his signature, together with his objections.
+I. The President of the Republic of Azerbaijan shall sign laws within 56 days of their presentation. If the President of the Republic of Azerbaijan has objections to a law, he may, within the said term, return it to the Milli Majlis of the Republic of Azerbaijan without his signature, together with his objections.
 
-- Constitutional laws shall not enter into force until signed by the President of the Republic of Azerbaijan. If the Milli Majlis of the Republic of Azerbaijan adopts for a second time a law by a majority of 95 votes, which was previously adopted by a majority of 83 votes, and a law by a majority of 83 votes, which was previously adopted by a majority of 63 votes, then the said laws shall enter into force after the second vote.
+II. Constitutional laws shall not enter into force until signed by the President of the Republic of Azerbaijan. If the Milli Majlis of the Republic of Azerbaijan adopts for a second time a law by a majority of 95 votes, which was previously adopted by a majority of 83 votes, and a law by a majority of 83 votes, which was previously adopted by a majority of 63 votes, then the said laws shall enter into force after the second vote.
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
 
-#### Article 110 1 . Delegation of authority to conclude international interstate and intergovernmental treaties
+#### Article 110¹. Delegation of authority to conclude international interstate and intergovernmental treaties
 
-The President of the Republic of Azerbaijan can delegate the authority to the Vice-President, Members of the Cabinet of Ministers of the Republic of Azerbaijan and other officials, appointed by the President of the Republic of Azerbaijan to con -clude international interstate and intergovernmental treaties.
+The President of the Republic of Azerbaijan can delegate the authority to the Vice-President, Members of the Cabinet of Ministers of the Republic of Azerbaijan and other officials, appointed by the President of the Republic of Azerbaijan to conclude international interstate and intergovernmental treaties.
 
 #### Article 111. Declaration of martial law
 
@@ -1236,19 +1236,19 @@ In the event of natural disasters or epidemic, epizootic, severe ecological and 
 
 #### Article 113. Acts of the President of the Republic of Azerbaijan
 
-- The President of the Republic of Azerbaijan shall issue decrees for the establishing of general rules, and issue orders for other matters.
+I. The President of the Republic of Azerbaijan shall issue decrees for the establishing of general rules, and issue orders for other matters.
 
-- Decrees and orders of the President of the Republic of Azerbaijan shall enter into force on the day of their publication, unless otherwise provided therein.
+II. Decrees and orders of the President of the Republic of Azerbaijan shall enter into force on the day of their publication, unless otherwise provided therein.
 
 #### Article 114. Status of the Cabinet of Ministers of the Republic of Azerbaijan
 
-- The President of the Republic of Azerbaijan shall appoint the Cabinet of Ministers of the Republic of Azerbaijan for the purpose of exercising executive power.
+I. The President of the Republic of Azerbaijan shall appoint the Cabinet of Ministers of the Republic of Azerbaijan for the purpose of exercising executive power.
 
-- The Cabinet of Ministers of the Republic of Azerbaijan shall be the higher executive body of the President of the Republic of Azerbaijan.
+II. The Cabinet of Ministers of the Republic of Azerbaijan shall be the higher executive body of the President of the Republic of Azerbaijan.
 
-- The Cabinet of Ministers of the Republic of Azerbaijan shall be subordinate and accountable to the President of the Republic of Azerbaijan.
+III. The Cabinet of Ministers of the Republic of Azerbaijan shall be subordinate and accountable to the President of the Republic of Azerbaijan.
 
-- The President of the Republic of Azerbaijan shall determine the Operating procedures of the Cabinet of Ministers of the Republic of Azerbaijan.
+IV. The President of the Republic of Azerbaijan shall determine the Operating procedures of the Cabinet of Ministers of the Republic of Azerbaijan.
 
 #### Article 115. Composition of the Cabinet of Ministers of the Republic of Azerbaijan
 
@@ -1268,11 +1268,11 @@ As a rule, the Prime Minister of the Republic of Azerbaijan shall preside over t
 
 #### Article 118. Procedure for appointment of the Prime Minister of the Republic of Azerbaijan
 
-- The Prime Minister of the Republic of Azerbaijan shall be appointed by the President of the Republic of Azerbaijan with the consent of the Milli Majlis of the Republic of Azerbaijan.
+I. The Prime Minister of the Republic of Azerbaijan shall be appointed by the President of the Republic of Azerbaijan with the consent of the Milli Majlis of the Republic of Azerbaijan.
 
-- The President of the Republic of Azerbaijan shall submit to the Milli Majlis of the Republic of Azerbaijan for its consideration a proposal naming a candidate for the position of Prime Minister of the Republic of Azerbaijan not later than one month as from the day the President of the Republic of Azerbaijan took office, or not later than two weeks as from the day the Cabinet of Ministers of the Republic of Azerbaijan resigned.
+II. The President of the Republic of Azerbaijan shall submit to the Milli Majlis of the Republic of Azerbaijan for its consideration a proposal naming a candidate for the position of Prime Minister of the Republic of Azerbaijan not later than one month as from the day the President of the Republic of Azerbaijan took office, or not later than two weeks as from the day the Cabinet of Ministers of the Republic of Azerbaijan resigned.
 
-- Ill. The Milli Majlis of the Republic of Azerbaijan shall take its decision regarding the proposed candidate to the position of Prime Minister of the Republic of Azerbaijan not later than one week as from the day the proposal was submitted. If this procedure is violated, or if the candidates proposed by the President of the Republic of Azerbaijan are rejected three times, then the President may appoint a Prime Minister of the Republic of Azerbaijan without the consent of the Milli Majlis of the Republic of Azerbaijan.
+III. The Milli Majlis of the Republic of Azerbaijan shall take its decision regarding the proposed candidate to the position of Prime Minister of the Republic of Azerbaijan not later than one week as from the day the proposal was submitted. If this procedure is violated, or if the candidates proposed by the President of the Republic of Azerbaijan are rejected three times, then the President may appoint a Prime Minister of the Republic of Azerbaijan without the consent of the Milli Majlis of the Republic of Azerbaijan.
 
 #### Article 119. Powers of the Cabinet of Ministers of the Republic of Azerbaijan
 
@@ -1294,9 +1294,9 @@ The Cabinet of Ministers of the Republic of Azerbaijan shall:
 
 #### Article 120. Acts of the Cabinet of Ministers of the Republic of Azerbaijan
 
-- The Cabinet of Ministers of the Republic of Azerbaijan shall issue resolutions for the establishing of general rules, and orders for other matters.
+I. The Cabinet of Ministers of the Republic of Azerbaijan shall issue resolutions for the establishing of general rules, and orders for other matters.
 
-- Resolutions and orders of the Cabinet of Ministers of the Republic of Azerbaijan shall enter into force on the day of their publication, unless otherwise provided therein.
+II. Resolutions and orders of the Cabinet of Ministers of the Republic of Azerbaijan shall enter into force on the day of their publication, unless otherwise provided therein.
 
 #### Article 121. Requirements regarding candidates to members of the Cabinet of Ministers of the Republic of Azerbaijan
 
@@ -1308,43 +1308,43 @@ A citizen of the Republic of Azerbaijan, having voting right, with higher educat
 
 #### Article 122. Requirements regarding members of the Cabinet of Ministers of the Republic of Azerbaijan
 
-The Prime Minister, his deputies, ministers, and heads of other central executive bodies may not occupy any other elected or appointed position; engage in entrepreneurial, commercial and other paid activity, with the exception of scientific, pedagog -ical and creative activity; receive remuneration other than their salaries and funds received from scientific, pedagogical and creative activity.
+The Prime Minister, his deputies, ministers, and heads of other central executive bodies may not occupy any other elected or appointed position; engage in entrepreneurial, commercial and other paid activity, with the exception of scientific, pedagogical and creative activity; receive remuneration other than their salaries and funds received from scientific, pedagogical and creative activity.
 
 #### Article 123. Immunity of the Prime Minister of the Republic of Azerbaijan
 
-- The Prime Minister of the Republic of Azerbaijan shall enjoy immunity during his tenure.
+I. The Prime Minister of the Republic of Azerbaijan shall enjoy immunity during his tenure.
 
-- With the exception of being caught red-handed, the Prime Minister of the Republic of Azerbaijan may not be detained, subject to criminal proceedings, subject to administrative sanctions by a court of law, searched, or inspected.
+II. With the exception of being caught red-handed, the Prime Minister of the Republic of Azerbaijan may not be detained, subject to criminal proceedings, subject to administrative sanctions by a court of law, searched, or inspected.
 
-- The Prime Minister of the Republic of Azerbaijan may be arrested if caught red-handed. In that case, the body that arrested the Prime Minister of the Republic of Azerbaijan shall immediately notify the General Prosecutor of the Republic of Azerbaijan of the arrest.
+III. The Prime Minister of the Republic of Azerbaijan may be arrested if caught red-handed. In that case, the body that arrested the Prime Minister of the Republic of Azerbaijan shall immediately notify the General Prosecutor of the Republic of Azerbaijan of the arrest.
 
-- The immunity of the Prime Minister of the Republic of Azerbaijan may be revoked only by the President of the Republic of Azerbaijan upon the Submission of the General Prosecutor of the Republic of Azerbaijan.
+IV. The immunity of the Prime Minister of the Republic of Azerbaijan may be revoked only by the President of the Republic of Azerbaijan upon the Submission of the General Prosecutor of the Republic of Azerbaijan.
 
 #### Article 124. Local executive authority
 
-- The heads of local executive bodies shall exercise local executive authority.
+I. The heads of local executive bodies shall exercise local executive authority.
 
-- The President of the Republic of Azerbaijan shall appoint and dismiss the heads of local executive bodies.
+II. The President of the Republic of Azerbaijan shall appoint and dismiss the heads of local executive bodies.
 
-- Ill. The President of the Republic of Azerbaijan shall determine the powers of local executive bodies.
+III. The President of the Republic of Azerbaijan shall determine the powers of local executive bodies.
 
 ### Chapter VII JUDICIAL POWER
 
 #### Article 125. Exercise of judicial power
 
-- Judicial power in the Republic of Azerbaijan shall be exercised by the courts of law, through the administration of justice.
+I. Judicial power in the Republic of Azerbaijan shall be exercised by the courts of law, through the administration of justice.
 
-- Judicial power shall be exercised by the Constitutional Court, the Supreme Court, the courts of appeal, general courts and other specialised courts of the Republic of Azerbaijan.
+II. Judicial power shall be exercised by the Constitutional Court, the Supreme Court, the courts of appeal, general courts and other specialised courts of the Republic of Azerbaijan.
 
-- Judicial power shall be exercised through constitutional, civil and criminal proceedings, and through other means prescribed by law.
+III. Judicial power shall be exercised through constitutional, civil and criminal proceedings, and through other means prescribed by law.
 
-- The Prosecutor's Office and the defendant shall participate in criminal proceedings.
+IV. The Prosecutor's Office and the defendant shall participate in criminal proceedings.
 
-- The judicial system and judicial proceedings shall be prescribed by law.
+V. The judicial system and judicial proceedings shall be prescribed by law.
 
-- The use of legal means that are not prescribed by law, for the purpose of altering the powers of the courts, and the establishment of extraordinary emergency courts shall be prohibited.
+VI. The use of legal means that are not prescribed by law, for the purpose of altering the powers of the courts, and the establishment of extraordinary emergency courts shall be prohibited.
 
-- Judicial proceedings shall secure the discovery of the truth.
+VII. Judicial proceedings shall secure the discovery of the truth.
 
 [[END OF PAGE 31]]
 
@@ -1352,39 +1352,39 @@ The Prime Minister, his deputies, ministers, and heads of other central executiv
 
 #### Article 126. Requirements regarding candidates to judges
 
-- Judges shall be citizens of the Republic of Azerbaijan who have the right to participate in elections, have higher legal education and at least 5 years of experience in specialised legal work.
+I. Judges shall be citizens of the Republic of Azerbaijan who have the right to participate in elections, have higher legal education and at least 5 years of experience in specialised legal work.
 
-- Judges may not occupy any other elected or appointed position; engage in entrepreneurial, commercial and other paid activity, with the exception of scientific, pedagogical and creative activity; be involved in political activities or join political parties; receive remuneration other than their salaries and funds from scientific, pedagogical and creative activity.
+II. Judges may not occupy any other elected or appointed position; engage in entrepreneurial, commercial and other paid activity, with the exception of scientific, pedagogical and creative activity; be involved in political activities or join political parties; receive remuneration other than their salaries and funds from scientific, pedagogical and creative activity.
 
 #### Article 127. Independence of judges, and fundamental principles and prerequisites of the administration of justice
 
-- Judges shall be independent and shall be subordinate only to the Constitution and laws of the Republic of Azerbaijan, and may not be replaced during their term of office.
+I. Judges shall be independent and shall be subordinate only to the Constitution and laws of the Republic of Azerbaijan, and may not be replaced during their term of office.
 
-- Judges shall consider cases impartially and fairly, observing equality between the parties, on the basis of facts and in conformity with the law.
+II. Judges shall consider cases impartially and fairly, observing equality between the parties, on the basis of facts and in conformity with the law.
 
-- The application of illegal influence, threats and interference, and direct or indirect obstruction in court proceedings by any person and for any reason, shall be prohibited.
+III. The application of illegal influence, threats and interference, and direct or indirect obstruction in court proceedings by any person and for any reason, shall be prohibited.
 
-- Justice shall be administered on the basis of equality of citizens before the law and the courts.
+IV. Justice shall be administered on the basis of equality of citizens before the law and the courts.
 
-- Proceedings in all courts of law shall be conducted in public. A closed hearing shall be permitted only if a court decides that an open hearing could result in the disclosure of state, professional, or commercial secrets, or that it is necessary to protect the confidentiality of personal or family life.
+V. Proceedings in all courts of law shall be conducted in public. A closed hearing shall be permitted only if a court decides that an open hearing could result in the disclosure of state, professional, or commercial secrets, or that it is necessary to protect the confidentiality of personal or family life.
 
-- Except in cases prescribed by law, the conducting of criminal proceedings in absentia shall be prohibited.
+VI. Except in cases prescribed by law, the conducting of criminal proceedings in absentia shall be prohibited.
 
-- Court proceedings shall be conducted on the basis of the adversarial principle.
+VII. Court proceedings shall be conducted on the basis of the adversarial principle.
 
-- Everyone's right to defense shall be guaranteed at any stage of court proceedings.
+VIII. Everyone's right to defense shall be guaranteed at any stage of court proceedings.
 
-- Justice shall be based on the presumption of innocence.
+IX. Justice shall be based on the presumption of innocence.
 
-- Court proceedings in the Republic of Azerbaijan shall be conducted in the official language of the Republic of Azerbaijan or in a language of the majority of the population of the specific region. Participants in court proceedings, who do not know the language of the proceedings, have the right to be acquainted with materials of proceedings, and to take part in proceedings using an interpreter, and to make statements in the court in their native language.
+X. Court proceedings in the Republic of Azerbaijan shall be conducted in the official language of the Republic of Azerbaijan or in a language of the majority of the population of the specific region. Participants in court proceedings, who do not know the language of the proceedings, have the right to be acquainted with materials of proceedings, and to take part in proceedings using an interpreter, and to make statements in the court in their native language.
 
 #### Article 128. Immunity of judges
 
-- Judges shall enjoy immunity.
+I. Judges shall enjoy immunity.
 
-- A judge may be subject to criminal proceedings only in accordance with the procedure prescribed by law.
+II. A judge may be subject to criminal proceedings only in accordance with the procedure prescribed by law.
 
-- The office of a judge may be terminated only in accordance with the grounds and rules as prescribed by law.
+III. The office of a judge may be terminated only in accordance with the grounds and rules as prescribed by law.
 
 IV. When judges commit a crime, the President of the Republic of Azerbaijan, on the basis of the conclusions of the Supreme Court of the Republic of Azerbaijan, may address the Milli Majlis with the purpose of removing the judges from office. The respective conclusions of the Supreme Court of the Republic of Azerbaijan shall be presented to the President of the Republic of Azerbaijan within 30 days after his/her request.
 
@@ -1396,35 +1396,35 @@ V. Decisions regarding the removal from office of judges of the Constitutional C
 
 #### Article 129. Court judgements and their execution
 
-- The courts of law shall render judgements on behalf of the state, and the execution thereof shall be obligatory.
+I. The courts of law shall render judgements on behalf of the state, and the execution thereof shall be obligatory.
 
-- Failure to execute a court judgement shall entail liability as prescribed by law.
+II. Failure to execute a court judgement shall entail liability as prescribed by law.
 
-- A court judgement shall be grounded in law and evidence.
+III. A court judgement shall be grounded in law and evidence.
 
 #### Article 130. Constitutional Court of the Republic of Azerbaijan
 
-- The Constitutional Court of the Republic of Azerbaijan shall be comprised of nine judges.
+I. The Constitutional Court of the Republic of Azerbaijan shall be comprised of nine judges.
 
-- Judges of the Constitutional Court of the Republic of Azerbaijan shall be appointed by the Milli Majlis of the Republic of Azerbaijan upon the submission of the President of the Republic of Azerbaijan.
+II. Judges of the Constitutional Court of the Republic of Azerbaijan shall be appointed by the Milli Majlis of the Republic of Azerbaijan upon the submission of the President of the Republic of Azerbaijan.
 
-- The Constitutional Court of the Republic of Azerbaijan, based on a request submitted by the President, the Milli Majlis, the Cabinet of Ministers, the Supreme Court, the Prosecutor's Office of the Republic of Azerbaijan, and the Ali Majlis of the Auton -omous Republic of Nakhchivan shall resolve the following issues:
+III. The Constitutional Court of the Republic of Azerbaijan, based on a request submitted by the President, the Milli Majlis, the Cabinet of Ministers, the Supreme Court, the Prosecutor's Office of the Republic of Azerbaijan, and the Ali Majlis of the Autonomous Republic of Nakhchivan shall resolve the following issues:
 
-- the conformity of laws of the Republic of Azerbaijan, decrees and orders of the President, resolutions of the Milli Majlis, resolutions and orders of the Cabinet of Ministers, and normative legal acts of central executive bodies with the Constitution of the Republic of Azerbaijan;
+1) the conformity of laws of the Republic of Azerbaijan, decrees and orders of the President, resolutions of the Milli Majlis, resolutions and orders of the Cabinet of Ministers, and normative legal acts of central executive bodies with the Constitution of the Republic of Azerbaijan;
 
-- the conformity of decrees of the President of the Republic of Azerbaijan, resolutions of the Cabinet of Ministers of the Republic of Azerbaijan, and normative legal acts of central executive bodies with the laws of the Republic of Azerbaijan;
+2) the conformity of decrees of the President of the Republic of Azerbaijan, resolutions of the Cabinet of Ministers of the Republic of Azerbaijan, and normative legal acts of central executive bodies with the laws of the Republic of Azerbaijan;
 
-- the conformity of resolutions of the Cabinet of Ministers and normative legal acts of central executive bodies with the decrees of the President of the Republic of Azerbaijan;
+3) the conformity of resolutions of the Cabinet of Ministers and normative legal acts of central executive bodies with the decrees of the President of the Republic of Azerbaijan;
 
-- in cases prescribed by law, the conformity of judgements of the Supreme Court of the Republic of Azerbaijan with the Constitution and laws of the Republic of Azerbaijan;
+4) in cases prescribed by law, the conformity of judgements of the Supreme Court of the Republic of Azerbaijan with the Constitution and laws of the Republic of Azerbaijan;
 
-- the conformity acts of municipalities with the Constitution and laws of the Republic of Azerbaijan, decrees of the President of the Republic of Azerbaijan, resolutions of the Cabinet of Ministers of the Republic of Azerbaijan (and in the Autonomous Republic of Nakhchivan, with the Constitution and laws of the Autonomous Republic of Nakhchivan and resolutions of the Cabinet of Ministers of the Autonomous Republic of Nakhchivan);
+5) the conformity acts of municipalities with the Constitution and laws of the Republic of Azerbaijan, decrees of the President of the Republic of Azerbaijan, resolutions of the Cabinet of Ministers of the Republic of Azerbaijan (and in the Autonomous Republic of Nakhchivan, with the Constitution and laws of the Autonomous Republic of Nakhchivan and resolutions of the Cabinet of Ministers of the Autonomous Republic of Nakhchivan);
 
-- the conformity of inter-state treaties of the Republic of Azerbaijan that are not yet in force in respect thereof, with the Constitution of the Republic of Azerbaijan; the conformity of inter-governmental agreements of the Republic of Azerbaijan with the Constitution and laws of the Republic of Azerbaijan;
+6) the conformity of inter-state treaties of the Republic of Azerbaijan that are not yet in force in respect thereof, with the Constitution of the Republic of Azerbaijan; the conformity of inter-governmental agreements of the Republic of Azerbaijan with the Constitution and laws of the Republic of Azerbaijan;
 
 7) the conformity of the Constitution and laws of the Autonomous Republic of Nakhchivan, resolutions of the Ali Majlis and the Cabinet of Ministers of the Autonomous Republic of Nakhchivan with the Constitution of the Republic of Azerbaijan; the conformity of laws of the Autonomous Republic of Nakhchivan and resolutions of the Cabinet of Ministers of the Autonomous Republic of Nakhchivan with the laws of the Republic of Azerbaijan; the conformity of resolutions of the Cabinet of Ministers of the Autonomous Republic of Nakhchivan with the decrees of the President of the Republic of Azerbaijan and resolutions of the Cabinet of Ministers of the Republic of Azerbaijan;
 
-- disputes regarding the division of competences between the legislature, the executive and the judiciary.
+8) disputes regarding the division of competences between the legislature, the executive and the judiciary.
 
 IV. The Constitutional Court of the Republic of Azerbaijan shall interpret the Constitution and laws of the Republic of Azerbaijan on the basis of requests submitted by the President, the Milli Majlis, the Cabinet of Ministers, the Supreme Court, and the Prosecutor's Office of the Republic of Azerbaijan, and by the Ali Majlis of the Autonomous Republic of Nakhchivan.
 
@@ -1506,35 +1506,35 @@ The Chairman of the Ali Majlis of the Autonomous Republic of Nakhchivan shall be
 
 #### Article 137. Ali Majlis of the Autonomous Republic of Nalkhchivan
 
-- The Ali Majlis of the Autonomous Republic of Nakhchivan shall be comprised of 45 members.
+I. The Ali Majlis of the Autonomous Republic of Nakhchivan shall be comprised of 45 members.
 
-- The term of office of the Ali Majlis shall be 5 years.
+II. The term of office of the Ali Majlis shall be 5 years.
 
-- The Ali Majlis shall elect the Chairman and Deputy Chairmen of the Ali Majlis, and establish standing and other commissions.
+III. The Ali Majlis shall elect the Chairman and Deputy Chairmen of the Ali Majlis, and establish standing and other commissions.
 
 #### Article 138. General rules established by the Ali Majlis of the Autonomous Republic of Nakhchivan
 
-- The Ali Majlis shall establish general rules with respect to the following issues:
+I. The Ali Majlis shall establish general rules with respect to the following issues:
 
-- elections to the Ali Majlis of the Autonomous Republic of Nakhchivan;
+1) elections to the Ali Majlis of the Autonomous Republic of Nakhchivan;
 
-- taxes;
+2) taxes;
 
-- directions for the economic development of the Autonomous Republic of Nakhchivan;
+3) directions for the economic development of the Autonomous Republic of Nakhchivan;
 
-- social security;
+4) social security;
 
-- environmental protection;
+5) environmental protection;
 
-- tourism;
+6) tourism;
 
-- health, science and culture.
+7) health, science and culture.
 
-- The Ali Majlis shall adopt laws concerning the issues specified in the present Article.
+II. The Ali Majlis shall adopt laws concerning the issues specified in the present Article.
 
 #### Article 139. Issues decided by the Ali Majlis of the Autonomous Republic of Nakhchivan
 
-- The Ali Majlis of the Autonomous Republic of Nakhchivan shall decide the following issues:
+I. The Ali Majlis of the Autonomous Republic of Nakhchivan shall decide the following issues:
 
 -organisation of work of the Ali Majlis;
 
@@ -1548,15 +1548,15 @@ The Chairman of the Ali Majlis of the Autonomous Republic of Nakhchivan shall be
 
 -the expressing of confidence in the Cabinet of Ministers of the Autonomous Republic of Nakhchivan.
 
-- The All Majlis shall adopt resolutions with respect to the issues specified in the present Article.
+II. The All Majlis shall adopt resolutions with respect to the issues specified in the present Article.
 
 #### Article 140. Cabinet of Ministers of the Autonomous Republic of Nakhchivan
 
-- The composition of the Cabinet of Ministers of the Autonomous Republic of Nakhchivan shall be approved by the Ali Majlis of the Autonomous Republic of Nakhchivan upon the proposal of the Prime Minister of the Autonomous Republic of Nakhchivan.
+I. The composition of the Cabinet of Ministers of the Autonomous Republic of Nakhchivan shall be approved by the Ali Majlis of the Autonomous Republic of Nakhchivan upon the proposal of the Prime Minister of the Autonomous Republic of Nakhchivan.
 
-- The Prime Minister of the Autonomous Republic of Nakhchivan shall be appointed by the All Majlis of the Autonomous Republic of Nakhchivan upon the submission of the President of the Republic of Azerbaijan.
+II. The Prime Minister of the Autonomous Republic of Nakhchivan shall be appointed by the All Majlis of the Autonomous Republic of Nakhchivan upon the submission of the President of the Republic of Azerbaijan.
 
-- The Cabinet of Ministers of the Autonomous Republic of Nakhchivan shall:
+III. The Cabinet of Ministers of the Autonomous Republic of Nakhchivan shall:
 
 [[END OF PAGE 36]]
 
@@ -1584,17 +1584,17 @@ Heads of local executive bodies in the Autonomous Republic of Nakhchivan shall b
 
 #### Article 142. Organisation of local self-government
 
-- Local self-government shall be exercised by the municipalities.
+I. Local self-government shall be exercised by the municipalities.
 
-- Municipalities shall be formed on the basis of elections.
+II. Municipalities shall be formed on the basis of elections.
 
-- The foundations of the status of municipalities shall be determined by the present Constitution, and the procedure for elections to municipalities shall be prescribed by law.
+III. The foundations of the status of municipalities shall be determined by the present Constitution, and the procedure for elections to municipalities shall be prescribed by law.
 
 #### Article 143. Organisation of work of municipalities
 
-- Municipalities shall conduct their activities through meetings, and standing and other commissions.
+I. Municipalities shall conduct their activities through meetings, and standing and other commissions.
 
-- Meetings of a municipality shall be summoned by the Chairman of the municipality.
+II. Meetings of a municipality shall be summoned by the Chairman of the municipality.
 
 #### Article 144. Powers of municipalities
 
@@ -1622,31 +1622,31 @@ I. The following issues shall be decided at the meetings of municipalities:
 
 - adoption and implementation of local ecological programmes.
 
-- The legislature and the executive may grant municipalities additional powers. Corresponding funds shall be allocated for the exercise of these powers. The exercise of these powers shall be controlled, respectively, by the legislature and the executive.
+II. The legislature and the executive may grant municipalities additional powers. Corresponding funds shall be allocated for the exercise of these powers. The exercise of these powers shall be controlled, respectively, by the legislature and the executive.
 
 #### Article 145. Decisions of municipalities
 
-- Decisions shall be taken on matters considered at the meetings of a municipality.
+I. Decisions shall be taken on matters considered at the meetings of a municipality.
 
-- Decisions of a municipality shall be taken by a simple majority of the votes of municipality members.
+II. Decisions of a municipality shall be taken by a simple majority of the votes of municipality members.
 
-- Decisions with respect to local taxes and duties shall be taken by a majority of two thirds of the votes of municipality members.
+III. Decisions with respect to local taxes and duties shall be taken by a majority of two thirds of the votes of municipality members.
 
 #### Article 146. Guarantees for the independence of municipalities
 
-- Municipalities shall be independent in the exercise of their powers, but this shall not exclude their responsibility before the citizens residing in the territory of the municipality.
+I. Municipalities shall be independent in the exercise of their powers, but this shall not exclude their responsibility before the citizens residing in the territory of the municipality.
 
 The procedures for the election of municipality members, loss and termination of their powers, and cases of and procedures for early dissolution of municipalities shall be prescribed by law.
 
-- The independent exercise by municipalities of their powers may not damage the sovereignty of the state of Azerbaijan.
+II. The independent exercise by municipalities of their powers may not damage the sovereignty of the state of Azerbaijan.
 
-- The state shall supervise the activities of municipalities.
+III. The state shall supervise the activities of municipalities.
 
-- Municipalities shall submit reports about their activities to the Milli Majlis of the Republic of Azerbaijan in cases and in the manner prescribed by law.
+IV. Municipalities shall submit reports about their activities to the Milli Majlis of the Republic of Azerbaijan in cases and in the manner prescribed by law.
 
-- The judicial protection of municipalities, and compensation for additional expenditures resulting from the decisions of state bodies, shall be guaranteed.
+V. The judicial protection of municipalities, and compensation for additional expenditures resulting from the decisions of state bodies, shall be guaranteed.
 
-#### Article 146 1 . Responsibility of municipalities
+#### Article 146¹. Responsibility of municipalities
 
 The municipalities and municipal servants shall bear civil responsibility for the damage caused to human rights and liberties, as well as the guarantees thereto, in the result of the activity or inactivity, which contradicts the legislation, committed by municipal servants.
 
@@ -1654,53 +1654,53 @@ The municipalities and municipal servants shall bear civil responsibility for th
 
 [[START OF PAGE 39]]
 
-## SECTION V: LAW AND LEGISLATlON
+## SECTION V: LAW AND LEGISLATION
 
 ### Chapter X. LEGISLATIVE SYSTEM
 
 #### Article 147. Legal effect of the Constitution of the Republic of Azerbaijan
 
-- The Constitution of the Republic of Azerbaijan shall have the highest legal authority within the Republic of Azerbaijan.
+I. The Constitution of the Republic of Azerbaijan shall have the highest legal authority within the Republic of Azerbaijan.
 
-- The Constitution shall have direct effect.
+II. The Constitution shall have direct effect.
 
-- The Constitution shall be the foundation of the legislative system of the Republic of Azerbaijan.
+III. The Constitution shall be the foundation of the legislative system of the Republic of Azerbaijan.
 
 #### Article 148. Acts constituting the legislative system of the Republic of Azerbaijan
 
-- The legislative system shall be comprised of the following normative legal acts:
+I. The legislative system shall be comprised of the following normative legal acts:
 
-- the Constitution;
+1) the Constitution;
 
-- acts adopted by referendum;
+2) acts adopted by referendum;
 
-- laws;
+3) laws;
 
-- decrees;
+4) decrees;
 
-- resolutions of the Cabinet of Ministers of the Republic of Azerbaijan;
+5) resolutions of the Cabinet of Ministers of the Republic of Azerbaijan;
 
-- normative acts of central executive bodies.
+6) normative acts of central executive bodies.
 
-- International treaties to which the Republic of Azerbaijan is a party shall be an integral part of the legislative system of the Republic of Azerbaijan.
+II. International treaties to which the Republic of Azerbaijan is a party shall be an integral part of the legislative system of the Republic of Azerbaijan.
 
-- In the Autonomous Republic of Nakchivan, the Constitution and resolutions of the Cabinet of Ministers of the Autonomous Republic of Nakhchivan shall also have legal effect.
+III. In the Autonomous Republic of Nakchivan, the Constitution and resolutions of the Cabinet of Ministers of the Autonomous Republic of Nakhchivan shall also have legal effect.
 
-- The legislative system of the Autonomous Republic of Nakhchivan shall conform to the legislative system of the Republic of Azerbaijan.
+IV. The legislative system of the Autonomous Republic of Nakhchivan shall conform to the legislative system of the Republic of Azerbaijan.
 
 V. Local executive bodies may, within the limits of their authority, adopt acts of normative nature which do not contradict acts constituting the legislative system.
 
 #### Article 149. Normative legal acts
 
-- Normative legal acts shall be based on law and equity (equal approach to equal interests).
+I. Normative legal acts shall be based on law and equity (equal approach to equal interests).
 
-- The application and execution of acts adopted by referendum shall be obligatory for citizens, the legislature, the executive and the judiciary, legal entities and municipalities only upon the publication thereof.
+II. The application and execution of acts adopted by referendum shall be obligatory for citizens, the legislature, the executive and the judiciary, legal entities and municipalities only upon the publication thereof.
 
-- Laws shall not contradict the Constitution. The application and execution of laws, only if published, shall be obligatory for all citizens, the legislature, the executive and the judiciary, legal entities and municipalities.
+III. Laws shall not contradict the Constitution. The application and execution of laws, only if published, shall be obligatory for all citizens, the legislature, the executive and the judiciary, legal entities and municipalities.
 
-- Decrees of the President of the Republic of Azerbaijan shall not contradict the Constitution and laws of the Republic of Azerbaijan. The application and execution of decrees, only if published, shall be obligatory for all citizens, the executive, and legal entities.
+IV. Decrees of the President of the Republic of Azerbaijan shall not contradict the Constitution and laws of the Republic of Azerbaijan. The application and execution of decrees, only if published, shall be obligatory for all citizens, the executive, and legal entities.
 
-- Resolutions of the Cabinet of Ministers of the Republic of Azerbaijan shall not contradict the Constitution and laws of the Republic of Azerbaijan, and decrees of the President of the Republic of Azerbaijan. The application and execution of resolutions of the Cabinet of Ministers, only if published, shall be obligatory for citizens, the central and local executive bodies, and legal entities.
+V. Resolutions of the Cabinet of Ministers of the Republic of Azerbaijan shall not contradict the Constitution and laws of the Republic of Azerbaijan, and decrees of the President of the Republic of Azerbaijan. The application and execution of resolutions of the Cabinet of Ministers, only if published, shall be obligatory for citizens, the central and local executive bodies, and legal entities.
 
 [[END OF PAGE 39]]
 
@@ -1720,7 +1720,7 @@ II. Acts adopted by a municipality shall be binding on citizens living in its te
 
 #### Article 151. Legal effect of international acts
 
-lf a conflict arises between normative legal acts of the legislative system of the Republic of Azerbaijan (with the exception of the Constitution of the Republic of Azerbaijan and acts adopted by referendum) and inter-state treaties to which the Republic of Azerbaijan is a party, the international treaties shall apply.
+If a conflict arises between normative legal acts of the legislative system of the Republic of Azerbaijan (with the exception of the Constitution of the Republic of Azerbaijan and acts adopted by referendum) and inter-state treaties to which the Republic of Azerbaijan is a party, the international treaties shall apply.
 
 ### Chapter XI. CHANGES IN THE CONSTITUTION OF THE REPUBLIC OF AZERBAIJAN
 
@@ -1748,15 +1748,15 @@ Proposals to change or delete Articles 1, 2, 6, 7, 8 and 21 of the present Const
 
 #### Article 156. Procedure for adopting additions to the Constitution of the Republic of Azerbaijan
 
-- Additions to the Constitution shall be adopted in the Milli Majlis of the Republic of Azerbaijan by a majority of 95 votes in the form of Constitutional laws.
+I. Additions to the Constitution shall be adopted in the Milli Majlis of the Republic of Azerbaijan by a majority of 95 votes in the form of Constitutional laws.
 
-- Constitutional laws on additions to the Constitution shall be put to the vote twice in the Milli Majlis of the Republic of Azerbaijan. The second voting shall be held 6 months after the first.
+II. Constitutional laws on additions to the Constitution shall be put to the vote twice in the Milli Majlis of the Republic of Azerbaijan. The second voting shall be held 6 months after the first.
 
-- Constitutional laws on additions to the Constitution shall be submitted to the President of the Republic of Azerbaijan for signature after both the first and second voting, in accordance with the procedure prescribed in the present Constitution for laws.
+III. Constitutional laws on additions to the Constitution shall be submitted to the President of the Republic of Azerbaijan for signature after both the first and second voting, in accordance with the procedure prescribed in the present Constitution for laws.
 
-- Constitutional laws on additions to the Constitution shall enter into force upon being signed by the President of the Republic of Azerbaijan after the second voting.
+IV. Constitutional laws on additions to the Constitution shall enter into force upon being signed by the President of the Republic of Azerbaijan after the second voting.
 
-- Constitutional laws shall be an integral part of the Constitution and shall not contradict the main text of the Constitution.
+V. Constitutional laws shall be an integral part of the Constitution and shall not contradict the main text of the Constitution.
 
 #### Article 157. Initiative for proposing additions to the Constitution of the Republic of Azerbaijan
 
@@ -1776,26 +1776,26 @@ No additions to the Constitution may be proposed regarding the provisions contai
 
 Republic of Azerbaijan adopted on 21 April 1978 shall become null and void as from the day the present Constitution enters into force.
 
-- The President of the Republic of Azerbaijan elected prior to the entering into force of the present Constitution shall exercise the powers assigned to the President of the Republic of Azerbaijan by the present Constitution.
+2. The President of the Republic of Azerbaijan elected prior to the entering into force of the present Constitution shall exercise the powers assigned to the President of the Republic of Azerbaijan by the present Constitution.
 
-- Paragraph V of Article 101 of the present Constitution shall apply to the President of the Republic of Azerbaijan who is elected after the adoption of the present Constitution.
+3. Paragraph V of Article 101 of the present Constitution shall apply to the President of the Republic of Azerbaijan who is elected after the adoption of the present Constitution.
 
-- The powers of people's deputies of the Republic of Azerbaijan and of the Milli Majlis established by the Supreme Council of the Republic of Azerbaijan shall expire on the day of the first meeting of the newly elected Milli Majlis of the Republic of Azerbaijan. The first meeting of the newly elected Milli Majlis shall be held one week after the election of at least 83 deputies of the Milli Majlis. The first session of the Milli Majlis shall last till 31 May 1996. Article 85 of the law of the Republic of Azer -baijan 'On elections to the Milli Majlis,' adopted on 15 August 1995, shall remain in force until the expiration of the authority of the first convocation of the Milli Majlis elected in accordance with the said law.
+4. The powers of people's deputies of the Republic of Azerbaijan and of the Milli Majlis established by the Supreme Council of the Republic of Azerbaijan shall expire on the day of the first meeting of the newly elected Milli Majlis of the Republic of Azerbaijan. The first meeting of the newly elected Milli Majlis shall be held one week after the election of at least 83 deputies of the Milli Majlis. The first session of the Milli Majlis shall last till 31 May 1996. Article 85 of the law of the Republic of Azerbaijan “On elections to the Milli Majlis,” adopted on 15 August 1995, shall remain in force until the expiration of the authority of the first convocation of the Milli Majlis elected in accordance with the said law.
 
-- As from the day the present Constitution enters into force, the Cabinet of Ministers of the Republic of Azerbaijan shall exercise the powers provided for therein.
+5. As from the day the present Constitution enters into force, the Cabinet of Ministers of the Republic of Azerbaijan shall exercise the powers provided for therein.
 
-- As from the day the present Constitution enters into force, the authority of local councils of people's deputies of the Republic of Azerbaijan shall terminate. The powers vested by the legislation of the Republic of Azerbaijan in local councils of people's deputies of the Republic of Azerbaijan shall be exercised by local executive bodies.
+6. As from the day the present Constitution enters into force, the authority of local councils of people's deputies of the Republic of Azerbaijan shall terminate. The powers vested by the legislation of the Republic of Azerbaijan in local councils of people's deputies of the Republic of Azerbaijan shall be exercised by local executive bodies.
 
-- The law on local self-government shall be adopted and municipal elections shall be held within two years of the entering into force of the present Constitution.
+7. The law on local self-government shall be adopted and municipal elections shall be held within two years of the entering into force of the present Constitution.
 
-- Laws and other normative legal acts, which are in force on the territory of the Republic of Azerbaijan when the present Constitution is adopted, shall remain in force if they do not contradict the present Constitution.
+8. Laws and other normative legal acts, which are in force on the territory of the Republic of Azerbaijan when the present Constitution is adopted, shall remain in force if they do not contradict the present Constitution.
 
-- The courts of law of the Republic of Azerbaijan, functioning until the adoption of the present Constitution, shall administer justice in accordance with the authority and principles provided for in the present Constitution.
+9. The courts of law of the Republic of Azerbaijan, functioning until the adoption of the present Constitution, shall administer justice in accordance with the authority and principles provided for in the present Constitution.
 
-- Within one year of the entering into force of the present Constitution, legislation with respect to the status of judges, the judicial system and judicial reform shall be adopted in conformity with the present Constitution, and judges of the Republic of Azerbaijan shall be re-appointed. Until the said legislation is adopted, the appointment and dismissal of judges shall be Conducted on the basis of legislation that existed prior to the entering into force of the present Constitution.
+10. Within one year of the entering into force of the present Constitution, legislation with respect to the status of judges, the judicial system and judicial reform shall be adopted in conformity with the present Constitution, and judges of the Republic of Azerbaijan shall be re-appointed. Until the said legislation is adopted, the appointment and dismissal of judges shall be Conducted on the basis of legislation that existed prior to the entering into force of the present Constitution.
 
-- Within one year of the entering into force of the present Constitution, the Law on the Constitutional Court of the Republic of Azerbaijan shall be adopted, and the Constitutional Court shall be established. The authority of the Constitutional Court provided for in the present Constitution shall not be exercised until the Constitutional Court is established. The Supreme Court of the Republic of Azerbaijan shall resolve the issue referred to in Article 130, paragraph III, item 7 of the present Constitution.
+11. Within one year of the entering into force of the present Constitution, the Law on the Constitutional Court of the Republic of Azerbaijan shall be adopted, and the Constitutional Court shall be established. The authority of the Constitutional Court provided for in the present Constitution shall not be exercised until the Constitutional Court is established. The Supreme Court of the Republic of Azerbaijan shall resolve the issue referred to in Article 130, paragraph III, item 7 of the present Constitution.
 
-- As from the day the present Constitution enters into force, the Higher Arbitration Court of the Republic of Azerbaijan shall be called the Economic Court of the Republic of Azerbaijan and shall exercise the powers provided for by the legislation in force.
+12. As from the day the present Constitution enters into force, the Higher Arbitration Court of the Republic of Azerbaijan shall be called the Economic Court of the Republic of Azerbaijan and shall exercise the powers provided for by the legislation in force.
 
 [[END OF PAGE 42]]
