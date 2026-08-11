@@ -20,25 +20,25 @@ Whereas it is expedient to provide for the obligation to primary education;
 
 Therefore the following Act is hereby made.
 
-## Short title.
+## 1. Short title.
 This Act may be called (Obligation to) Primary Education Act, 1990.
 
-## Definitions.
+## 2. Definitions.
 Unless there is anything repugnant in the context, in this Act-
 
-"Guardian" means the child's father or, in his absence, the mother or, in the absence of both parents, any person taking care of the child.
+a) "Guardian" means the child's father or, in his absence, the mother or, in the absence of both parents, any person taking care of the child.
 
-"Committee"  means  Obligation  to  Primary  Education  Committee  established  as under section 4.
+b) "Committee"  means  Obligation  to  Primary  Education  Committee  established  as under section 4.
 
-"Primary Education" means education for children determined or consented to by the Government.
+c) "Primary Education" means education for children determined or consented to by the Government.
 
-"Primary  Education  Institute"  means  any  governmental  or  non-governmental educational institute where provision for primary education has been made.
+d) "Primary  Education  Institute"  means  any  governmental  or  non-governmental educational institute where provision for primary education has been made.
 
-"Child" means any boy or girl between 6 and 10 years.
+e) "Child" means any boy or girl between 6 and 10 years.
 
 ## 3. Obligation to primary education.
 
-- The Government may, by notification in the official Gazette, declare primary education obligatory in whatever area from whenever onwards.
+(1) The Government may, by notification in the official Gazette, declare primary education obligatory in whatever area from whenever onwards.
 
 [[END OF PAGE 1]]
 
@@ -50,11 +50,11 @@ Unless there is anything repugnant in the context, in this Act-
 
 a) The impossibility of admitting a child in a primary education institute for illness or any other unavoidable reason.
 
-- The  non  availability  of  a  primary  education  institute  within  2  kilometres  of  the dwelling place of the child.
+b) The  non  availability  of  a  primary  education  institute  within  2  kilometres  of  the dwelling place of the child.
 
 c) The impossibility of admitting a child in a primary education institute even if applied for.
 
-- The decision of a primary education officer that the education a child is receiving at the time being is equivalent to a primary education.
+d) The decision of a primary education officer that the education a child is receiving at the time being is equivalent to a primary education.
 
 e) The decision of a primary education officer that it is not desirable to enter a child in a primary education institute on account of it's being mentally retarded.
 
@@ -84,9 +84,9 @@ a) a ward commissioner nominated by the Mayor of the municipal corporation or th
 
 b) two patronizers of learning nominated by the said Mayor or Chairman after taking the advice of the ward commissioner.
 
-- two  lady  patronizers  of  learning  nominated  by  the  said  Mayor  or  Chairman  after taking the advice of the ward commissioner.
+c) two  lady  patronizers  of  learning  nominated  by  the  said  Mayor  or  Chairman  after taking the advice of the ward commissioner.
 
-- the headmaster or lady principal of the primary education institute, who shall be the secretary too.
+d) the headmaster or lady principal of the primary education institute, who shall be the secretary too.
 
 (4) There being more than one primary education institute in a ward, the headmaster or lady principal of any of these shall be member of the Committee and the Chairman of the Upazila respectively the Mayor of the municipal corporation, or the Chairman of the municipal council shall decide who of those shall be secretary of the Committee.
 
