@@ -12,6 +12,8 @@ April 15, 2002
 
 [[START OF PAGE 2]]
 
+2
+
 # An act to adopt the Education Law OF A.D. 2001
 
 It  is  enacted  by  the  Senate  and  the  House  of  Representatives  of  the  Republic  of  Liberia  in Legislature assembled:
@@ -45,11 +47,12 @@ The basic assumptions of Liberian education policy shall be:
 
 The  cardinal  principles  to  guide  our  national  education  philosophy  in  the  education  and training sector shall entail:
 
-2
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+3
 
 (a) protecting  the  inalienable  rights  of  Liberians,  including  freedom  of  speech,  association and religion as enshrined in our constitutions.
 
@@ -95,11 +98,12 @@ The following shall be adopted as the dynamic strategies to achieve our national
 
 (c) the provision of non-formal adult education and learning centers, where adequate, to serve as extension feeder schools for willing and able ones.
 
-3
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+4
 
 (d) a significant change in the national education curricula through the introduction of "core curricula" nationwide, in addition to any locally adopted "complementary curricula".
 
@@ -117,29 +121,30 @@ The following shall be adopted as the dynamic strategies to achieve our national
 
 ### Section 2.1 Categories of Schools
 
-The Substantiative categories of Liberian Education System shall constitute both regular and intermediate institutions of learning. The six categories of institutions of learning of universal education shall comprise: (i) Early Childhood Education; (ii) Primary Education; (iii) Junior Secondary  School  (both  academic  and  technical);  (iv)  Senior  Secondary  School  (both academic and technical); (v) Junior College and other post-secondary educational institutions and  (vi)  Colleges  and  Universities.  Intermediate  institutions  of  learning  shall  involve:  (i) Teacher's Education; (ii) Adult Education; (iii) Vocational Training; (iv) Literacy Programs; (v) non-Degree Theological Seminaries; (vi) Seminars; (vii) Workshops and (viii) Conferences.  Their  distinctive  or  basic  characters  and  the  levels  of  achievement  are  herein below described as follow:
+The Substantiative categories of Liberian Education System shall constitute both regular and intermediate institutions of learning. The six categories of institutions of learning of universal education shall comprise: (i) Early Childhood Education; (ii) Primary Education; (iii) Junior Secondary School (both academic and technical); (iv) Senior Secondary School (both academic and technical); (v) Junior College and other post-secondary educational institutions and (vi) Colleges and Universities. Intermediate institutions of learning shall involve: (i) Teacher’s Education; (ii) Adult Education; (iii) Vocational Training; (iv) Literacy Programs; (v) non-Degree Theological Seminaries; (vi) Seminars; (vii) Workshops and (viii) Conferences. Their distinctive or basic characters and the levels of achievement are herein below described as follow:
 
 ### Section 2.2 Early Childhood Education
 
-The Government of Liberia shall be committed to ensuring that provisions be made for all children to receive sound pre-first or early childhood education as being essential to the later development  and  the  rapid  educational  advancement  of  children  to  the  level  of  primary education  and  beyond.  The  MOE  shall  encourage  and  require  all  districts  and  counties  to establish  facilities  for  early  childhood  education.  The  Government  shall,  therefore,  work harmoniously  with  its  partners  to  ensure  access  to  early  childhood  education  programs, develop standardized and sustainable programs in this area and build capacities for this level to have a favourable impact on the nation's classrooms. The age range for attendance on early childhood programs shall be from 2 to 6 years old. The programs shall aim at providing all necessary opportunities for each child to develop the appropriate physical, mental, emotional and social skills, attitudes and habits to enable him or her to proceed to the primary level and continue to learn and live a useful and happy life.
+The Government of Liberia shall be committed to ensuring that provisions be made for all children to receive sound pre-first or early childhood education as being essential to the later development and the rapid educational advancement of children to the level of primary education and beyond. The MOE shall encourage and require all districts and counties to establish facilities for early childhood education. The Government shall, therefore, work harmoniously with its partners to ensure access to early childhood education programs, develop standardized and sustainable programs in this area and build capacities for this level to have a favourable impact on the nation’s classrooms. The age range for attendance on early childhood programs shall be from 2 to 6 years old. The programs shall aim at providing all necessary opportunities for each child to develop the appropriate physical, mental, emotional and social skills, attitudes and habits to enable him or her to proceed to the primary level and continue to learn and live a useful and happy life.
 
-4
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
+5
+
 ### Section 2.3 Primary Education
 
-Primary education shall be made available and become free and compulsory starting in the year 2003 for all children within the framework of universal primary education (UPE). At the end of the primary education cycle, each Liberian child shall - in addition to the academic competency and survival empowerment - possess marketable skills and be computer literate. Special provision shall be made to reduce wastage at this level and to improve access and the staying power performance of girls in school. The age range for entering and leaving primary education shall be 6 to 11 years old.
+Primary education shall be made available and become free and compulsory starting in the year 2003 for all children within the framework of universal primary education (UPE). At the end of the primary education cycle, each Liberian child shall – in addition to the academic competency and survival empowerment – possess marketable skills and be computer literate. Special provision shall be made to reduce wastage at this level and to improve access and the staying power performance of girls in school. The age range for entering and leaving primary education shall be 6 to 11 years old.
 
 ### Section 2.4 Basic Education
 
-Basic education in Liberia shall be defined as all education, which provides the foundation for continuous and lifelong learning. All citizens of Liberia shall have the right to basic education as  a  human  right,  and  shall  entail  all  education  up  to  the  9 th Grade  (JSS)  as  well  as  adult education  to  include  literacy,  numeracy  and  skill  acquisition  amongst  other  aspects,  taking into  account  both  formal  and  non-formal  education  programs.  Basic  education  shall  be consistent with global parameters and dimensions that not only provide literacy, numeracy, oral expression and problem solving abilities, but also skills which equip human beings to be able to earn a decent living and live productive lives. In Liberia, it shall be free as soon as possible and shall reflect the spirit and content of the global EFA Movement (Education for All) to take into account peace and civic education to enable a person to become a stabilizing member of his or her society and the global village. With the advent of the new information age, a super technological society, computer literacy shall become a part of basic education.
+Basic education in Liberia shall be defined as all education, which provides the foundation for continuous and lifelong learning. All citizens of Liberia shall have the right to basic education as a human right, and shall entail all education up to the 9th Grade (JSS) as well as adult education to include literacy, numeracy and skill acquisition amongst other aspects, taking into account both formal and non-formal education programs. Basic education shall be consistent with global parameters and dimensions that not only provide literacy, numeracy, oral expression and problem solving abilities, but also skills which equip human beings to be able to earn a decent living and live productive lives. In Liberia, it shall be free as soon as possible and shall reflect the spirit and content of the global EFA Movement (Education for All) to take into account peace and civic education to enable a person to become a stabilizing member of his or her society and the global village. With the advent of the new information age, a super technological society, computer literacy shall become a part of basic education.
 
 ### Section 2.5 Secondary Education
 
-Secondary  level  education  shall  include  three  years  of  Junior  High  School  (Junior  High Secondary School, (JSS) and three years of Senior High School (Senior Secondary School, SSS)  and  shall  encompass  1  to  3  years  vocational  technical  schools  and  institutions. Secondary  education  (3  years  JSS  and  3  years  SSS)  shall  be  available  in  public,  missionsponsored,  concession-sponsored,  privately  sponsored  and  self-help  community  schools. Pupils  who  complete  primary  education  (i.e.,  the  Sixth  Grade  Level)  shall  be  eligible  to continue their education at the Junior High School Level up to the Ninth Grade for a Junior High School Certificate; similarly, a Senior Secondary School (i.e., SSS) graduate shall be awarded a Senior Secondary School Diploma, with emphasis on the following pointers.
+Secondary level education shall include three years of Junior High School (Junior High Secondary School, (JSS) and three years of Senior High School (Senior Secondary School, SSS) and shall encompass 1 to 3 years vocational technical schools and institutions. Secondary education (3 years JSS and 3 years SSS) shall be available in public, mission-sponsored, concession-sponsored, privately sponsored and self-help community schools. Pupils who complete primary education (i.e., the Sixth Grade Level) shall be eligible to continue their education at the Junior High School Level up to the Ninth Grade for a Junior High School Certificate; similarly, a Senior Secondary School (i.e., SSS) graduate shall be awarded a Senior Secondary School Diploma, with emphasis on the following pointers.
 
 (a) The ultimate purpose of Liberian Secondary Education shall be to provide opportunities to satisfy the common and diversified liberal, moral, social, spiritual and technological needs of  individual  adolescents  and  the  society.  The  Secondary  School  System  shall  have  the responsibility to develop learning activities that effectively provide for the needs, interests and abilities of students in the modern scientific, technological and information society.
 
@@ -147,11 +152,12 @@ Secondary  level  education  shall  include  three  years  of  Junior  High  Sch
 
 (c) The programs at the Senior Secondary School level hall be focused thus: (i) to provide broad-based program that shall be geared to ward the needs of the national economy to allow students to move into middle-level technical and professional positions and (ii) to
 
-5
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
+6
 
 help students to become problem-solvers, develop independence and assume responsibility as members of the Liberian Society.
 
@@ -161,7 +167,7 @@ Consideration shall be given to the re-introduction of the Sixth Grade National 
 
 ### Section 2.7. Ninth Grade and Twelfth Grade National Examinations
 
-Both the 9 th Grade and the 12 th Grade National Examinations shall continue to be available and  administered  by  the  West  African  Examinations  Council,  under  the  supervision  of  the Ministry of Education. However, as soon as possible, the 12 th Grade National Examinations shall  be  totally  discontinued  and  replaced  by  the  West  African  Senior  School  Certificate Examinations (WASSCE).
+Both the 9th Grade and the 12th Grade National Examinations shall continue to be available and administered by the West African Examinations Council, under the supervision of the Ministry of Education. However, as soon as possible, the 12th Grade National Examinations shall be totally discontinued and replaced by the West African Senior School Certificate Examinations (WASSCE).
 
 ### Section 2.8. Higher Education: Scope
 
@@ -179,19 +185,20 @@ Cognizant of the poor quality and caliber of many teachers who constitute the wo
 
 More serious attention shall be given to vocational and technical education as follows:
 
-(a) The Government of Liberia shall set up and implement specific programmes to attract 'specialist'  teachers  and  special  students  as  well  as  encourage  and  enhance  the professional  participation  of  female  teachers  into  specialized  secondary  technical, vocational and science education.
+(a) The Government of Liberia shall set up and implement specific programmes to attract “specialist” teachers and special students as well as encourage and enhance the professional participation of female teachers into specialized secondary technical, vocational and science education.
 
 (b) The  Government  shall  review,  promote  and  strengthen  science  and  technology education at Teachers Training College (TTCs) and other college levels by support to laboratories, equipment, facilities and staffing, including those related to agriculture, mining, and communication (informatics).
 
-6
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
+7
+
 ### Section 2.12. Local Governing Body for Every Primary School
 
-All  institutions  set  up  for  purposes  of  primary  education,  whether  public  or  private,  shall comply  with  the  Education  Law,  the  policies  and  regulations  of  the  MOE.  Such  schools, among  other  requirements,  shall  have  a  Governing  Body  or  Board,  Parents  and  Teachers' Association (PTA), or Committee which shall include parents, community leaders, teachers and  representatives  of  Local  School  Management  Committee  (LSMC).  The  administrative, instructional and support staffing of such schools shall be in accordance with the numbers and qualification provided by law and regulations. The curricula of primary education as specified by  the  MOE  shall  include  'core'  areas  such  as:  Mathematics,  English  Language,  History, Social Studies and Elementary Basic Science.
+All institutions set up for purposes of primary education, whether public or private, shall comply with the Education Law, the policies and regulations of the MOE. Such schools, among other requirements, shall have a Governing Body or Board, Parents and Teachers’ Association (PTA), or Committee which shall include parents, community leaders, teachers and representatives of Local School Management Committee (LSMC). The administrative, instructional and support staffing of such schools shall be in accordance with the numbers and qualification provided by law and regulations. The curricula of primary education as specified by the MOE shall include “core” areas such as: Mathematics, English Language, History, Social Studies and Elementary Basic Science.
 
 ### Section 2.13. Reform and Standardization
 
@@ -201,9 +208,9 @@ The MOE shall endeavor at all times to give effect to its enunciated policies as
 
 (b) attract  highly  qualified  teachers  and  instructors  by  providing  attractive  salaries, incentives and fringe benefits.
 
-(c) strengthen the teacher's colleges by  providing  adequate  facilities and  relevant programmes as well as support for qualified teacher trainers, training staff development incentives/opportunities in the Teachers' Training Colleges (TTCs) and universities.
+(c) strengthen the teacher’s colleges by providing adequate facilities and relevant programmes as well as support for qualified teacher trainers, training staff development incentives/opportunities in the Teachers’ Training Colleges (TTCs) and universities.
 
-(d) promote science and technology education both at the Secondary Schools Teachers' (TTCs)  and  universities,  by  support  to  science  and  technology  laboratories  and facilities, including those related to agriculture, industry, mining and communication (informatics).
+(d) promote science and technology education both at the Secondary Schools Teachers’ (TTCs) and universities, by support to science and technology laboratories and facilities, including those related to agriculture, industry, mining and communication (informatics).
 
 (e) support vocational and technical education programs at the multilateral high schools and science centres as well as other vocational schools and centres.
 
@@ -223,11 +230,12 @@ Organization, Management And Administration
 
 In accordance with the Executive Law, the Minister of Education appointed by the President of Liberia with the advice and the consent of the Senate shall head the Ministry of Education? This Ministry shall have three departments each to be headed by a Deputy Minister, and shall be  further  organized  into  eight  major  bureaux  and  every  bureau  shall  be  headed  by  an Assistant  Minister,  all  appointed  also  by  the  President  with  the  advise  and  consent  of  the Senate. However, the internal organization of each bureau, including organizational charts of the bureaux, shall be determined by the Minister in consultation with the Deputy Minister to efficiently carry out the exercise of its functions.
 
-7
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+
+8
 
 ### Section 3.2. Duties of Ministers
 
@@ -251,13 +259,14 @@ The  Deputy  Minister  of  Education  for  Administration  shall  be  responsibl
 
 ### Section 3.5. Deputy Minister of Education for Instruction: Duties
 
-The  Deputy  Minister  of  Education  for  Instruction  shall  be  responsible  for  effectuating  the basic purpose of the Ministry, which is education; the development and direction of primary and secondary education which includes, more specifically, planning of curricula, preparation or  selection  of  instructional  material,  and  their  training,  setting  of  standards  of  pupils' completion of courses, and analysis of needs for special educational services and facilities. The Deputy Minister of Education for Instruction shall implement instructional plans of the Ministry, including classroom instruction, supervision, monitoring and evaluation of instruction. He or she shall also monitor and have cognizance of the activities of all relevant autonomous  National  Advisory  Boards  or  Extra-Ministerial  National  Council,  Boards  and Committees  on  education  and  instruction,  particularly  the  Board  for  the  Certification  and licensing of Teachers and the Board for Accreditation of Schools in Liberia.
+The Deputy Minister of Education for Instruction shall be responsible for effectuating the basic purpose of the Ministry, which is education; the development and direction of primary and secondary education which includes, more specifically, planning of curricula, preparation or selection of instructional material, and their training, setting of standards of pupils’ completion of courses, and analysis of needs for special educational services and facilities. The Deputy Minister of Education for Instruction shall implement instructional plans of the Ministry, including classroom instruction, supervision, monitoring and evaluation of instruction. He or she shall also monitor and have cognizance of the activities of all relevant autonomous National Advisory Boards or Extra-Ministerial National Council, Boards and Committees on education and instruction, particularly the Board for the Certification and licensing of Teachers and the Board for Accreditation of Schools in Liberia.
 
-8
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+
+9
 
 ### Section 3.6. Deputy Minister of Education for Planning, Research and Development: Duties
 The Deputy Minister of Education for Planning, Research and Development shall:
@@ -288,15 +297,16 @@ There shall be established a County Education Office in every County created and
 
 (a) To prepare and submit to the Minister of Education for approval the list of positions required to set up the County Education Office; budgets covering personnel salaries; stationery and  office supplies; office furniture and  fixtures; office  equipment; transportation  vehicles;  gas  and  oil;  cost  of  maintenance;  et  cetera,  for  all  District Education Officers and the County Education Office.
 
-9
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
+10
+
 (b) To supervise the implementation of all relevant national education policies, regulations,  decisions,  programs  and  development  projects  through  the  District Education Officers, as directed by the Ministry of Education.
 
-(c) To  make  regular  quarterly  and  annual  or  special  reports  to  the  Deputy  Minister  of Education for Instruction, with a summary of the monthly and annual reports received from  District  Education  Officers  (DEOs)  for  the  reporting  period.  Annual  Reports from County Officers are due no later than on November 30 th .
+(c) To make regular quarterly and annual or special reports to the Deputy Minister of Education for Instruction, with a summary of the monthly and annual reports received from District Education Officers (DEOs) for the reporting period. Annual Reports from County Officers are due no later than on November 30th.
 
 (d) To serve as a member of the County Education and Training Council (CETC).
 
@@ -316,12 +326,11 @@ The  number  of  education  or  school  districts  in  any  particular  county  
 
 (b) To supervise the implementation of all relevant national education policies, regulations, decisions, programs and development projects through public and private Schools  presidents,  principals  and  their  facilities  as  directed  by  the  Ministry  of Education.
 
-(c) To  make  regular  quarterly  and  annual  or  special  reports  to  the  County  Education Officer, with a summary of the monthly and annual operations reports received from the  presidents  and  principals  of  all  public  schools  in  the  School  District.  Annual Reports from District Education Officers are due no later than on November 15 th of every school year.
+(c) To make regular quarterly and annual or special reports to the County Education Officer, with a summary of the monthly and annual operations reports received from the presidents and principals of all public schools in the School District. Annual Reports from District Education Officers are due no later than on November 15th of every school year.
 
 (d) To serve  as  a  member  of  ex-officio  of  the  Local  Schools  Managements  Committee (LSMC) of the District.
 
 (e) To  perform  any  other  administration  duties  as  directed  by  the  County  Education Officer or the Ministry of Education.
 
-10
 
 [[END OF PAGE 10]]
