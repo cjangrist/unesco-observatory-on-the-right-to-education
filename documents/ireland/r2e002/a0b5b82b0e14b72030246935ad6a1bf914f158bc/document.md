@@ -2,7 +2,14 @@
 
 # 'Education for Sustainability'
 
-## The National Strategy on Education for Sustainable Development in Ireland, 20142020
+## The National Strategy on Education for Sustainable Development in Ireland, 2014-2020
+
+AN ROINN
+OIDEACHAIS
+AGUS SCILEANNA
+DEPARTMENT OF
+EDUCATION
+AND SKILLS
 
 July 2014
 
@@ -13,6 +20,24 @@ July 2014
 [[START OF PAGE 2]]
 
 ### Table of Contents
+
+1. Introduction ...............................................................................................................3
+2. Policy Context for Education for Sustainable Development .....................................6
+3. Priority action areas...................................................................................................8
+3.1 Priority action 1: Leadership and coordination .....................................................8
+3.2 Priority action 2: Data collection and baseline measurement ............................11
+3.3 Priority action 3: Curriculum at pre-school, primary and post primary ..............12
+3.4 Priority action 4: Professional development .......................................................16
+3.5 Priority action 5: Further Education and Training ...............................................19
+3.6 Priority action 6: Higher Education and Research ...............................................21
+3.7 Priority action 7: Promoting participation by young people ...............................25
+3.8 Priority action 8: Sustainability in action .............................................................29
+4. Conclusion............................................................................................................36
+Appendix 1: Summary table of recommendations......................................................38
+Appendix 2: List of submissions received through the public consultation process...44
+Appendix 3: List of participants at the ESD roundtable...............................................46
+Appendix 4: Acronyms used in the Strategy................................................................47
+Bibliography .................................................................................................................49
 
 2
 
@@ -51,8 +76,17 @@ This objective emphasises the need for ESD to be an agent for positive change. E
 Box 2 sets out the key principles that underpin the overall objective of this strategy. These key principles have informed the development of this strategy. They are relevant to each of the action areas that have been identified as priority areas and they have influenced the recommendations that are made in each of those areas.
 
 ###### Box 2: Key principles
----
-ESD in Ireland will aim to: - balance environmental , social and economic considerations; - promote lifelong learning; - be locally relevant while also linking the local to the national and international; - engage all sectors of the education system, as well as the non-formal education sector; - be interdisciplinary and recognise interdependence and interconnectivities across other sectors; - use a variety of pedagogical techniques that promote active and participatory
+
+ESD in Ireland will aim to:
+- balance environmental , social and economic considerations;
+- promote lifelong learning;
+- be locally relevant while also linking the local to the national and international;
+- engage all sectors of the education system, as well as the non-formal education sector;
+- be interdisciplinary and recognise interdependence and interconnectivities across other sectors;
+- use a variety of pedagogical techniques that promote active and participatory learning and the development of key dispositions and skills;
+- emphasise social justice and equity;
+- focus on values and promote active democratic citizenship and inclusion as a means of empowering the individual and the community.
+- be an agent for positive change in reorienting societies towards sustainable development.
 
 The eight priority action areas that have been identified as key leverage points to contribute towards achievement of the overall objective of this strategy are outlined in Box 3.
 
@@ -89,7 +123,7 @@ This national strategy emerges from a commitment in Our Sustainable Future (DECL
 
 ###### Box 4: Definition of Sustainable Development
 ---
-'Sustainable development' can be defined as 'development which meets the needs of the present without compromising the ability of future generations to meet their own needs.' Sustainable development is characterised as a continuous, guided process of economic, environmental and social change aimed at promoting wellbeing of citizens now and into the future. To realise development of this nature requires creating a sustainable and resource- efficient economy founded on a fair and just society, which respects the ecological limits and carrying capacity of the natural environment (DECLG, 2012, 10).
+'Sustainable development' can be defined as 'development which meets the needs of the present without compromising the ability of future generations to meet their own needs.' Sustainable development is characterised as a continuous, guided process of economic, environmental and social change aimed at promoting wellbeing of citizens now and into the future. To realise development of this nature requires creating a sustainable and resource-efficient economy founded on a fair and just society, which respects the ecological limits and carrying capacity of the natural environment (DECLG, 2012, 10).
 
 The objective of Our Sustainable Future is to provide for the integration of sustainable development into key areas of policy, to put in place effective implementation mechanisms and to deliver concrete measures to progress sustainable development. It outlines seventy measures that are intended to achieve this objective, ranging from the sustainability of public finances, to climate change and clean energy, sustainable transport, social inclusion and sustainable communities, to education, research and innovation, and skills and training (DECLG, 2012, 21-22).   Progress towards meeting these commitments is monitored by the Cabinet Committee on Climate Change and the Green Economy, which is chaired by the Taoiseach.
 
@@ -163,7 +197,7 @@ The Advisory Group and the associated annual ESD forum will provide an opportuni
 
 ###### Recommendation 2
 ---
-The Department of Education and Skills should be formally represented on key structures representing Development Education in Ireland, under the aegis of the Department of Foreign Affairs and Trade, including the World Wise Global Schools Network which aims to coordinate Development Education activities at post primary level, and on the Irish Aid grants committee. Opportunities for
+The Department of Education and Skills should be formally represented on key structures representing Development Education in Ireland, under the aegis of the Department of Foreign Affairs and Trade, including the World Wise Global Schools Network which aims to coordinate Development Education activities at post primary level, and on the Irish Aid grants committee. Opportunities for advancing Education for Sustainable Development should seek to build synergies with Development Education where this is appropriate.
 
 A related issue that emerged from the consultation process is the need to highlight more effectively what is currently being done to support and promote ESD. The following recommendation is therefore made:
 
@@ -174,13 +208,15 @@ The Department of Education and Skills will provide a specific ESD portal on its
 - | contain information about the work of the Advisory Group on Education for
 Sustainable Development (recommendation 1).
 
-NGOs, the youth sector, and other stakeholders may request to have their resources, or information about those resources, included on or linked to this portal. For the purposes of quality assurance, such resources may be reviewed by the Department of Education and Skills, or by an agency nominated by it, before they are accepted onto the website. However, the Department should act as a facilitator for sharing resources rather than being held ultimately accountable for quality proofing resources. The portal will be maintained by the Department of Education and Skills or an agency nominated by it but the material on the portal will remain the property and responsibility of those who created it.
+NGOs, the youth sector, and other stakeholders may request to have their resources, or information about those resources, included on or linked to this portal. For the purposes of quality assurance, such resources may be reviewed by the Department of Education and Skills, or by an agency nominated by it, before they are accepted
 
 9
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
+onto the website. However, the Department should act as a facilitator for sharing resources rather than being held ultimately accountable for quality proofing resources. The portal will be maintained by the Department of Education and Skills or an agency nominated by it but the material on the portal will remain the property and responsibility of those who created it.
 
 10
 
@@ -236,7 +272,7 @@ ESD principles are integrated into the primary school sector where they are refl
 
 [[START OF PAGE 13]]
 
-' to enable the child to develop as a social being through living and co-operating with others and so contribute to the good of society' (DES, 1999).
+“to enable the child to develop as a social being through living and co-operating with others and so contribute to the good of society” (DES, 1999).
 
 The NCCA has initiated a phased review of the primary curriculum beginning with a new Primary Language Curriculum. This represents an opportunity to embed ESD principles into those subject areas, as they are reviewed, where it is most relevant.
 
@@ -258,7 +294,7 @@ However, a significant opportunity exists to promote ESD through the new Framewo
 
 -Statement 10. [the student] has the awareness, knowledge, skills, values and motivation to live sustainably
 
-In addition, there is a major emphasis in the new Junior Cycle Framework on ensuring that students develop the type of key skills that have been identified as being central to sustainable development. These include critical thinking, analytical skills, creativity in addressing problems, communicating effectively, respecting diversity, and valuing heritage (UNESCO, 2012, 11; UNECE, 2009, 17).   The development of these key skills will enable young people to make informed decisions about issues that affect them and their world.
+In addition, there is a major emphasis in the new Junior Cycle Framework on ensuring that students develop the type of key skills that have been identified as
 
 13
 
@@ -266,11 +302,13 @@ In addition, there is a major emphasis in the new Junior Cycle Framework on ensu
 
 [[START OF PAGE 14]]
 
+being central to sustainable development. These include critical thinking, analytical skills, creativity in addressing problems, communicating effectively, respecting diversity, and valuing heritage (UNESCO, 2012, 11; UNECE, 2009, 17). The development of these key skills will enable young people to make informed decisions about issues that affect them and their world.
+
 Another positive development associated with the Junior Cycle Framework is the new 'short course' format which will afford opportunities for NGOs in particular (but also schools and teachers) to develop ESD resources for junior cycle students. One of the first short courses to be developed by the NCCA is Civic, Social and Political Education (CSPE). The CSPE short course includes an emphasis on sustainable living and development. This short course will be available to schools to implement, should they wish to do so, from September 2014.
 
 New opportunities also exist to promote ESD more prominently in the senior cycle of post primary education. For example, the review of senior cycle subjects by the NCCA focusses on five key skills - communicating, working with others, critical and creative thinking, being personally effective and information processing. Developing these skills is central to supporting learners to have the dispositions that will enable them to live more sustainably.
 
-In addition, the NCCA has developed a draft syllabus for a new Politics and Society subject that is proposed as an optional examinable full subject in the Leaving Certificate. The Minister for Education and Skills has recently prioritised the introduction of this subject. Its availability would strengthen ESD in senior cycle and complement the Blue Star Programme at primary level and the CSPE short course in Junior Cycle . It would also appeal to post primary students who have shown an interest in political issues. The International Association for the Evaluation of Educational Achievement found that Irish 14 year olds ranked 7 th out of 36 participating countries in an international study exploring  young people's active citizenship (International Association for the Evaluation of Educational Achievement, 2011).
+In addition, the NCCA has developed a draft syllabus for a new Politics and Society subject that is proposed as an optional examinable full subject in the Leaving Certificate. The Minister for Education and Skills has recently prioritised the introduction of this subject. Its availability would strengthen ESD in senior cycle and complement the Blue Star Programme at primary level and the CSPE short course in Junior Cycle. It would also appeal to post primary students who have shown an interest in political issues. The International Association for the Evaluation of Educational Achievement found that Irish 14 year olds ranked 7th out of 36 participating countries in an international study exploring young people's active citizenship (International Association for the Evaluation of Educational Achievement, 2011).
 
 Opportunities are also provided through the Transition Year (TY) programme and the Leaving Certificate Applied (LCA) programme 6 .  The TY programme in particular provides a means of strengthening the place of ESD in the curriculum through the Transition Units that are part of the programme. These units afford NGOs in particular an opportunity to work with the NCCA to develop resources that schools may choose to use as part of their TY programme. Some NGOs are already active in this area. For example, ECO-UNESCO have developed TY materials that focus on sustainable development related issues such as biodiversity, resource and energy use, as well as Community Development, Sustainable Enterprises and ECO Health and Well Being. It is also open to schools to develop their own TY materials.
 
@@ -408,13 +446,15 @@ Those individuals who may not have benefited fully from the initial mainstream e
 
 SOLAS (formerly FAS) provides training programmes for jobseekers and unemployed persons across a range of sectors. An important element of this provision relates to sustainable energy, including up-skilling programmes in energy efficiency and renewable energy systems (such as domestic gas installation, solar photo-voltaic, biomass, small scale wind systems, and passive house insulation). These programmes are delivered through the ETBs or via the SOLAS managed training centre network.
 
-Sustainable skills relating to energy efficiency and renewable energy systems, as well as the 'green' skill requirements of construction operatives, craftworkers and others, have been or are being incorporated in the relevant national apprenticeship curriculum, as appropriate.  Important training relevant to sustainable development is also being provided through Skillnets, which is funded from the National Training Fund. Skillnets works with groups of companies in the same region/sector in order to address their training needs. A number of networks are providing training relating to 'sustainability' including the Summit Finuas Network, the CITA Skillnet, the Wind Skillnet and the ULearning Skillnet.
+Sustainable skills relating to energy efficiency and renewable energy systems, as well as the 'green' skill requirements of construction operatives, craftworkers and others,
 
 19
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
+
+have been or are being incorporated in the relevant national apprenticeship curriculum, as appropriate. Important training relevant to sustainable development is also being provided through Skillnets, which is funded from the National Training Fund. Skillnets works with groups of companies in the same region/sector in order to address their training needs. A number of networks are providing training relating to 'sustainability' including the Summit Finuas Network, the CITA Skillnet, the Wind Skillnet and the ULearning Skillnet.
 
 The issue of data collection is relevant to this sector also. As in other areas, there is a need to provide an accurate measurement of current ESD related activity. This is difficult given the number of providers involved, and the fact that not all 'sustainable development' provision is clearly labelled as such. The following recommendations are made:
 
@@ -444,7 +484,7 @@ Some of the challenges that arise in relation to ESD in higher education are sim
 
 ##### 3.6.1 ESD subject specific content and cross disciplinary provision
 
-As in the school sector, higher education should equip students with the knowledge, skills and values to motivate and empower them to live more sustainably (UNECE, 2009, 18; UNECE, 2005, 5). Two approaches can contribute to this objective: 'bolton' (adding new programmes and modules containing elements of ESD) and 'built-in' (integrating sustainability in and across existing programmes) (UNESCO, 2012, 48; UNECE, 2005, 2, 10). These two approaches can be complementary, as is the case in the school curriculum. At third level, Ireland appears to have been more successful in relation to the 'bolt on' rather than the 'built in' approach, a common characteristic also at international level (UNESCO, 2012, 49; Wade, 2008, 38-39; Scottish Executive, 2010, 10).
+As in the school sector, higher education should equip students with the knowledge, skills and values to motivate and empower them to live more sustainably (UNECE, 2009, 18; UNECE, 2005, 5). Two approaches can contribute to this objective: 'bolt-on' (adding new programmes and modules containing elements of ESD) and 'built-in' (integrating sustainability in and across existing programmes) (UNESCO, 2012, 48; UNECE, 2005, 2, 10). These two approaches can be complementary, as is the case in the school curriculum. At third level, Ireland appears to have been more successful in relation to the 'bolt on' rather than the 'built in' approach, a common characteristic also at international level (UNESCO, 2012, 49; Wade, 2008, 38-39; Scottish Executive, 2010, 10).
 
 There is a growing body of programmes being provided by third level institutions in areas relating to sustainable development. This includes provision in disciplines such as engineering and architecture, development studies, environmental science, and geography. 7  The DES is also supporting two PhD programmes relevant to sustainable development: the Earth Systems Institute PhD programme and the TCD-UCD Engineering Structured PhD Programme. Both programmes are intended to produce a critical mass of graduates with strong technical and entrepreneurial skills to drive economic growth and sustainability. In addition, through the Springboard programme, which provides free part-time higher education courses to the unemployed, more than 1,212 places have been filled on courses related to sustainable development.
 
@@ -584,7 +624,7 @@ The Department of Education and Skills (supported by the Department of Children 
 
 Youth (identified in the Youth Work Act, 2001, as those between 10 and 24 years of age) have been identified as key 'change agents' for sustainable development (UNESCO, 2013). The DCYA supports a wide range of youth work programmes and services that are provided by the voluntary youth sector.  Youth work is an educational and developmental process, based on young people's active and voluntary participation and engagement. Programmes and services are delivered by the youth sector to approximately 380,000 young people by some 1,400 youth work personnel, who in turn support a volunteer base of some 40,000.
 
-The youth sector is contributing to sustainable development in at least two ways. In the first instance the type of youth work (non-formal education) programmes supported by the DCYA are intended to develop young people's self-esteem and selfconfidence, build their capacity to make informed decisions, help them to develop social awareness and a sense of social solidarity, and enhance their role as active citizens. These programmes provide learning opportunities that enhance and complement young people's formal educational and training experiences and increase their employability. The acquisition of key knowledge and the development of key skills and competencies that will motivate and empower individuals to become more sustainably aware are as relevant in the youth sector as in the formal education system.
+The youth sector is contributing to sustainable development in at least two ways. In the first instance the type of youth work (non-formal education) programmes supported by the DCYA are intended to develop young people's self-esteem and self-
 
 27
 
@@ -592,7 +632,9 @@ The youth sector is contributing to sustainable development in at least two ways
 
 [[START OF PAGE 28]]
 
-Secondly, some of the specific programmes provided by the youth sector have a central focus on sustainable development. These include the National Youth Council of Ireland's Development Education Programme, One World Week (OWW), ECOUNESCO's Green Pathways programme, the Young Environmentalist Awards, and the 'Youth for Sustainable Development - Global Youth Leaders for Change' programme.
+confidence, build their capacity to make informed decisions, help them to develop social awareness and a sense of social solidarity, and enhance their role as active citizens. These programmes provide learning opportunities that enhance and complement young people's formal educational and training experiences and increase their employability. The acquisition of key knowledge and the development of key skills and competencies that will motivate and empower individuals to become more sustainably aware are as relevant in the youth sector as in the formal education system.
+
+Secondly, some of the specific programmes provided by the youth sector have a central focus on sustainable development. These include the National Youth Council of Ireland's Development Education Programme, One World Week (OWW), ECO-UNESCO's Green Pathways programme, the Young Environmentalist Awards, and the 'Youth for Sustainable Development - Global Youth Leaders for Change' programme.
 
 As is the case in other priority areas of this strategy, there is an opportunity to highlight the range of sustainable development related programmes that are currently provided by the youth sector. Given the extent to which ESD and DE can be interlinked in the Youth sector it is proposed that any proposals in relation to ESD should also consider, where appropriate, encompassing DE. This process will facilitate the identification of areas where the role of young people as change agents for a more sustainable future at home and abroad could be strengthened. The following is recommended:
 
@@ -620,9 +662,9 @@ The DES and other educational stakeholders are involved in a number of practical
 
 A whole institution approach is one of the characteristics of effective ESD. It involves the adoption of sustainable development principles by an educational institution as a whole, including students, parents, teachers, managers and other staff as well as outreach to local communities (Hargreaves, 2008).
 
-Ireland is adopting this approach in the primary and post primary school system through the green schools programme which is run by An Taisce, in partnership with the National Transport Authority (in relation to the travel flag) and supported by the DECLG. The green schools programme has been in operation in Ireland since 1997. Its aim is to engage students through classroom study, school and community action to raise their awareness of sustainable development issues. It promotes wholeschool action for the environment through a focus on a number of key themes such as litter, waste, energy, water, school travel, biodiversity, Green-Home and citizenship. Some 2,700 primary and post primary schools (approximately 70% of all schools) currently participate in the scheme, and 1,116 of these have already been awarded a Green Flag in recognition of their efforts. Involvement in the programme results in significant benefits to participating schools who can reduce waste to landfill by around 45-50%, electricity consumption by around 17%, gas consumption by 13%, oil consumption by around 2%, water consumption by 38%, private car usage in school travel by around 20% (An Taisce submission to the public consultation process). There is potential to extend the green schools programme to all primary and post-primary schools with support from the DES and to promote the achievement of greater sustainable development in all educational institutions. There is also potential to examine the success of the green-schools programme, in integrating into the school system, in order to identify lessons for other ESD related programmes to follow.
+Ireland is adopting this approach in the primary and post primary school system through the green schools programme which is run by An Taisce, in partnership with the National Transport Authority (in relation to the travel flag) and supported by the DECLG. The green schools programme has been in operation in Ireland since 1997. Its aim is to engage students through classroom study, school and community action to raise their awareness of sustainable development issues. It promotes whole-school action for the environment through a focus on a number of key themes such as litter, waste, energy, water, school travel, biodiversity, Green-Home and citizenship. Some 2,700 primary and post primary schools (approximately 70% of all schools) currently participate in the scheme, and 1,116 of these have already been awarded a Green Flag in recognition of their efforts. Involvement in the programme results in significant benefits to participating schools who can reduce waste to landfill by around 45-50%, electricity consumption by around 17%, gas consumption by 13%, oil consumption by around 2%, water consumption by 38%, private car usage in school travel by around 20% (An Taisce submission to the public consultation process). There is potential to extend the green schools programme to all primary and post-primary schools with support from the DES and to promote the achievement of greater sustainable development in all educational institutions. There is also potential to examine the success of the green-schools programme, in integrating into the school system, in order to identify lessons for other ESD related programmes to follow.
 
-An Taisce has sought to extend the benefits of the green schools programme into other sectors. Over the period 2011-2013 An Taisce supported a Green Pre-Schools pilot programme in conjunction with a number of County Childcare Committees. The potential of the early years sector to contribute to sustainable development was noted earlier and the green pre-school pilot project sought to build on this potential. The pilot project resulted in benefits for participating children in a number of ways including building their sense of citizenship, developing their sense of responsibility, as well as fostering opportunities for creativity. There were also practical benefits for the participating early years settings in terms of waste reduction, financial savings, and an improved environment (An Taisce, 2013).
+An Taisce has sought to extend the benefits of the green schools programme into other sectors. Over the period 2011-2013 An Taisce supported a Green Pre-Schools pilot programme in conjunction with a number of County Childcare Committees. The potential of the early years sector to contribute to sustainable development was noted earlier and the green pre-school pilot project sought to build on this potential. The pilot project resulted in benefits for participating children in a number of ways including building their sense of citizenship, developing their sense of responsibility, as well as fostering opportunities for creativity. There were also practical benefits for
 
 29
 
@@ -630,7 +672,9 @@ An Taisce has sought to extend the benefits of the green schools programme into 
 
 [[START OF PAGE 30]]
 
-The 'green-campus programme' is being rolled out in the further and higher education sectors.  At present 18 campuses are formally registered on the programme, with three already having been awarded the Green Flag: GMIT, Castlebar; Coláiste Dhúlaigh College of Further Education, Coolock; and University College Cork, which was the first university in the world to achieve green flag campus status.
+the participating early years settings in terms of waste reduction, financial savings, and an improved environment (An Taisce, 2013).
+
+The 'green-campus programme' is being rolled out in the further and higher education sectors. At present 18 campuses are formally registered on the programme, with three already having been awarded the Green Flag: GMIT, Castlebar; Coláiste Dhúlaigh College of Further Education, Coolock; and University College Cork, which was the first university in the world to achieve green flag campus status.
 
 There are other programmes available in the school sector, in particular, that complement the whole-institution approach adopted through the green schools programme. These include a number of programmes supported by ECO-UNESCO including the Young Environmentalist awards and the Learning to Change programme in post primary schools. It also encompasses the Yellow Flag Programme which adopts a whole school approach to celebrating diversity and inter-culturalism in the school environment. The Yellow Flag involves schools adopting a practical series of 8 steps that bring issues of inter-culturalism, equality and diversity into the whole-school programme and allows schools to apply them to the day to day running of the school and to build links to the wider community. On completing these steps, and being assessed externally, the participating school is awarded its "Yellow Flag" in recognition of its work in promoting diversity & inclusion.
 
@@ -638,7 +682,7 @@ This strategy affords an opportunity for the DES to forge closer links to the gr
 
 ###### Recommendation 32
 
-The Department of Education and Skills should work with An Taisce, the National Transport Authority (in relation to the travel aspect) and the Department of the Environment, Community and Local Government to support the extension of the 'Green Schools' programme into all primary and post primary schools. The possibility of extending the green pre-schools pilot project on a phased basis to early years settings that are funded by the Department of Children and Youth Affairs should also be explored. As a first step in this regard, the Department of Education and Skills should examine the possibility of extending the green preschools pilot into the 40 'Early Start' pre-school units that it funds directly. The extension of the 'Green campus' programme to all further and higher education institutions on a phased basis should also be explored.
+The Department of Education and Skills should work with An Taisce, the National Transport Authority (in relation to the travel aspect) and the Department of the Environment, Community and Local Government to support the extension of the 'Green Schools' programme into all primary and post primary schools. The possibility of extending the green pre-schools pilot project on a phased basis to early years settings that are funded by the Department of Children and Youth Affairs should also be explored. As a first step in this regard, the Department of Education and Skills should examine the possibility of extending the green pre-schools pilot into the 40 'Early Start' pre-school units that it funds directly. The extension of the 'Green campus' programme to all further and higher education institutions on a phased basis should also be explored.
 
 ###### Recommendation 33
 
@@ -662,7 +706,7 @@ The DES has a significant capital budget (€546 million in 2014) to meet the in
 
 As well as designing new buildings that are more sustainable, the DES is also upgrading the energy efficiency of existing school building infrastructure. The summer works scheme is an important element in this work. This scheme devolves funding to individual school authorities to undertake small-scale building works e.g. . for upgrading of Gas, Electrical & Mechanical  window replacement and roof works that are usually undertaken during the summer months.  The scheme also provides that school authorities identify and decide the project that they regard as being a priority to address necessary and immediate works. Over 770 projects have been approved under the 2014 Summer Works Scheme with a total projected expenditure of almost €71 million.
 
-The DES is also partnered with the Sustainable Energy Authority of Ireland (SEAI) on the Energy in Education project. It provides a one stop shop based on an energy web portal designed to help school boards of management, principals, teachers, administrators, caretaking staff, pupils, parents, architects, engineers and contractors to improve energy use practices and to reduce school operating costs along with helping to protect the environment for future generations.
+The DES is also partnered with the Sustainable Energy Authority of Ireland (SEAI) on the Energy in Education project. It provides a one stop shop based on an energy web portal designed to help school boards of management, principals, teachers, administrators, caretaking staff, pupils, parents, architects, engineers and
 
 > 8 In 2012, DES won 3 awards for Colaiste Choilm in Tullamore including Green Building of the Year award.
 
@@ -671,6 +715,8 @@ The DES is also partnered with the Sustainable Energy Authority of Ireland (SEAI
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
+
+contractors to improve energy use practices and to reduce school operating costs along with helping to protect the environment for future generations.
 
 The www.energyineducation.ie website is supported by the Energy in Education Pack, audits, mentoring and SEAI training which provides practical guidance on managing energy in schools, information on involving pupils in the process, case studies and training opportunities.The delivery of the programme, including SEAI training, is supported and promoted by the school patrons and management organisations.
 
@@ -786,13 +832,15 @@ Each of the recommendations made in the action areas have been informed by the o
 
 A particular emphasis is placed on facilitating baseline measurement of existing ESD related provision across the education sector and beyond. This includes specific recommendations for improved data collection in the school sector, the Further Education and Training sector, the Higher Education and research sector, and the Youth and Community sector. The provision of this data will be complemented by data collated from pupils and teachers about their ESD related needs. The collation of such data will inform future policy making in this area, and ensure that future provision is targeted at learners' and teachers' needs. It will also facilitate target setting and the monitoring of progress towards those targets over the lifetime of this strategy and beyond.
 
-The strategy also puts in place key structures that will play a crucial role in relation to monitoring progress under this strategy but which will also provide the leadership and coordination that has been requested by stakeholders through the public consultation process. In particular the establishment of the ESD Advisory Group, chaired by the DES, will strengthen partnerships, information sharing and best practice in relation to this policy area. It will also signify the importance that the DES attaches to ESD.
+The strategy also puts in place key structures that will play a crucial role in relation to monitoring progress under this strategy but which will also provide the leadership and coordination that has been requested by stakeholders through the public consultation process. In particular the establishment of the ESD Advisory Group, chaired by the DES, will strengthen partnerships, information sharing and best
 
 36
 
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
+
+practice in relation to this policy area. It will also signify the importance that the DES attaches to ESD.
 
 It is also anticipated that the measures for highlighting and publicising existing ESD activity and third level research through the specific ESD portal will assist in disseminating key messages about ESD to as wide an audience as possible. Another significant element in this regard will be the encouragement given to third level institutions to continue to reach out to and share the benefits of their expertise with their local communities and to engage in further collaboration with industry in Ireland and with other academic institutions at international level.
 
@@ -811,9 +859,9 @@ The number of policies and strategies that complement and support this national 
 No. | Recommendation | Responsible
 --- | --- | ---
 1 | An Education for Sustainable Development Advisory Group should be established by the Department of Education and Skills in 2014. The Advisory Group, which should be chaired by a senior official within the Department of Education and Skills, should provide a forum for:  highlighting existing activity relating to ESD, new developments and resources, and sharing best practice;  making the findings of ESD research available through the proposed ESD web portal (cf recommendation 3), and considering the issues arising from the findings of such research;  building partnerships and mobilising stakeholders;  contributing to the planning of an annual ESD forum which will invite a wide range of relevant stakeholders to consider issues arising from the work of the Advisory Group;  monitoring progress on the recommendations in the National Strategy for ESD, and reporting annually to the High Level Group on Sustainable Development; and  contributing to a mid-term review of overall progress on the National Strategy in 2017. | DES
-2  | The Department of Education and Skills should be formally represented on key structures representing Development Education in Ireland, under the aegis of the Department of Foreign Affairs and Trade, including the World Wise Global Schools Network which aims to coordinate Development Education activities at post primary level, and on the Irish Aid grants committee. Opportunities for advancing Education for Sustainable Development should seek to build synergies with Development Education where this is appropriate. | DES / DFAT
-3  | The Department of Education and Skills will provide a specific ESD portal on its website, or on the website of one of its agencies, in 2014. This portal should: - comprise a platform for coordinating and sharing ideas and resources on ESD; - contain information about the work of the Advisory Group on Education for Sustainable Development (recommendation 1). | DES
-4  | The Department of Education and Skills should incorporate a specific section on sustainable development in the questionnaire that will issue to primary and post primary schools for the 2015 Lifeskills survey. The results of the 2015 | DES
+2 | The Department of Education and Skills should be formally represented on key structures representing Development Education in Ireland, under the aegis of the Department of Foreign Affairs and Trade, including the World Wise Global Schools Network which aims to coordinate Development Education activities at post primary level, and on the Irish Aid grants committee. Opportunities for advancing Education for Sustainable Development should seek to build synergies with Development Education where this is appropriate. | DES / DFAT
+3 | The Department of Education and Skills will provide a specific ESD portal on its website, or on the website of one of its agencies, in 2014. This portal should: - comprise a platform for coordinating and sharing ideas and resources on ESD; - contain information about the work of the Advisory Group on Education for Sustainable Development (recommendation 1). | DES
+4 | The Department of Education and Skills should incorporate a specific section on sustainable development in the questionnaire that will issue to primary and post primary schools for the 2015 Lifeskills survey. The results of the 2015 | DES
 
 38
 
@@ -846,7 +894,7 @@ opportunity to survey teachers about their training needs in relation to ESD. Th
 16 | The Further Education and Training sector should continue to respond to the identified needs of the green economy as identified through fora such as the Expert Group on Future Skills Needs. | DES / SOLAS / ETBs
 17 | In order to establish a baseline of ESD provision, SOLAS should be asked to report to the Department of Education and Skills in 2015 on the extent of current sustainable development related provision in the Further Education and Training sector. The report should contain recommendations on how to build on existing provision. The report should be considered by the ESD Advisory Group with a view to setting targets for the future and monitoring progress towards their achievement. | DES / SOLAS
 18 | The Higher Education Authority should be asked to report to the Department of Education and Skills by 2016 on the extent of current sustainable development related provision in third level institutions. The report should be considered by the ESD Advisory Group with a view to setting targets for the future and monitoring progress towards their achievement. | DES / HEA
-19 | Higher Education Institutions should seek to introduce more undergraduate and post-graduate programmes that are relevant to sustainable development. They should also explore the potential for introducing principles of sustainable development into existing disciplines. | DES / HEA / 3 rd level institutions
+19 | Higher Education Institutions should seek to introduce more undergraduate and post-graduate programmes that are relevant to sustainable development. They should also explore the potential for introducing principles of sustainable development into existing disciplines. | DES / HEA / 3rd level institutions
 20 | The Higher Education Authority should be asked to report to the Department of Education and Skills on the research that is currently underway, or has been conducted in the past three years, in relation to sustainable development, and the results of this research should be made publicly available. This process could be supported by a forum to disseminate research findings in this area. | DES / HEA
 21 | The Department of Education and Skills should work with the Higher Education Authority to ensure that sustainable development is one of the priority areas reflected in future calls for research programmes that are funded by the | DEA / HEA
 
@@ -858,7 +906,7 @@ opportunity to survey teachers about their training needs in relation to ESD. Th
 
 Department.
 --- | --- | ---
-22 | Third level institutions should continue to seek collaborations with industry and other stakeholders through strategic clusters and centres of excellence for sustainable development. Any opportunities for international cooperation between academic institutions at EU level or beyond should also be promoted. | DES / HEA / 3 rd . level institutions
+22 | Third level institutions should continue to seek collaborations with industry and other stakeholders through strategic clusters and centres of excellence for sustainable development. Any opportunities for international cooperation between academic institutions at EU level or beyond should also be promoted. | DES / HEA / 3rd. level institutions
 23 | The Department of Education and Skills should continue to implement its commitments in relation to research and development that are contained in Our Sustainable Future . | DES
 24 | The Department of Education and Skills should implement where possible the actions and commitments relevant to its remit under the National Strategy on Children and Young People's Participation in Decision-Making (2014-2020) | DES
 25 | The Department of Education and Skills should encourage more primary schools in particular to establish student councils. It should also review the effectiveness of the existing student council model with a view to improving the involvement of primary and post primary students in the operation of their school. The expertise of the Department of Children and Youth Affairs in consulting young people may be utilised as part of this review. | DES / DCYA
@@ -879,7 +927,7 @@ Development in the new Youth Strategy that is currently being developed, as well
 --- | --- | ---
 32 | The Department of Education and Skills should work with An Taisce, the National Transport Authority (in relation to the travel aspect), and the Department of the Environment, Community and Local Government to support the extension of the 'Green Schools' programme into all primary and post primary schools. The possibility of extending the green pre-schools pilot project on a phased basis to early years settings that are funded by the Department of Children and Youth Affairs should also be explored. As a first step in this regard, the Department of Education and Skills should examine the possibility of extending the green pre-schools pilot into the 40 'Early Start' pre-school units that it funds directly. The extension of the 'Green campus' programme to all further and higher education institutions on a phased basis should also be explored. | DES / DTTS, DECLG
 33 | The Department of Education and Skills should explore the potential for supporting other programmes within the education sector that complement and reinforce the whole institution approach of the green-schools programme | DES
-34 | Higher Education institutions should continue to form closer links with schools, the Youth sector, and communities in relation to sustainable development in order to exchange ideas and best practice and in particular to facilitate wider access to the specialist expertise and knowledge on sustainability that is available in third level institutions. The learning from this collaboration could be made available on a national basis. | 3 rd . Level institutions
+34 | Higher Education institutions should continue to form closer links with schools, the Youth sector, and communities in relation to sustainable development in order to exchange ideas and best practice and in particular to facilitate wider access to the specialist expertise and knowledge on sustainability that is available in third level institutions. The learning from this collaboration could be made available on a national basis. | 3rd. Level institutions
 35 | The Department of Education and Skills should continue to strive to improve the sustainability of new and existing educational infrastructure. | DES
 36 | The Department of Education and Skills should continue to work with the SEAI to promote the 'energy in education' programme in an effort to improve energy efficiency in schools. | DES / SEAI
 37 | The Department of Education and Skills should continue to use the data collated from educational institutions on their energy usage to monitor performance in this area and should inform the development of future measures to strengthen energy efficiency. | DES
@@ -893,9 +941,9 @@ Development in the new Youth Strategy that is currently being developed, as well
 
 projects to further reduce, monitor and manage energy usage in the Department's offices.
 --- | --- | ---
-39 | The Department of Education and Skills should ensure that sustainable development is reflected in its next Statement of Strategy, and that annual energy usage is reported in future annual reports. Sustainable development should also be reflected in future mission statements of the agencies under the aegis of the Department, including all further and higher education institutions. From 2016, each primary and post primary school should reflect sustainable development in its school plan and review compliance with those commitments as part of the normal school self- evaluative process. Inspection reports should, where appropriate, comment on the actions taken by schools to promote sustainable development principles. | DES / DES agencies / schools
+39 | The Department of Education and Skills should ensure that sustainable development is reflected in its next Statement of Strategy, and that annual energy usage is reported in future annual reports. Sustainable development should also be reflected in future mission statements of the agencies under the aegis of the Department, including all further and higher education institutions. From 2016, each primary and post primary school should reflect sustainable development in its school plan and review compliance with those commitments as part of the normal school self-evaluative process. Inspection reports should, where appropriate, comment on the actions taken by schools to promote sustainable development principles. | DES / DES agencies / schools
 40 | The Department of Education and Skills should undertake a survey of its employees in 2014 to identify the number who travel to work by sustainable means of transport. Following the results of this survey, the Department should encourage sustainable travel among its employees with a view to increasing the proportion of travelling to work by sustainable means by at least an additional 10% by 2020. | DES
-41 | The Department of Education and Skills, in conjunction with Bus Éireann, should continue to promote the increased energy efficiency of the school transport fleet. . | DES/ Bus Eireann
+41 | The Department of Education and Skills, in conjunction with Bus Éireann, should continue to promote the increased energy efficiency of the school transport fleet.. | DES/ Bus Eireann
 42 | The Department of Education and Skills, An Taisce and the National Transport Authority should aim to increase the number of children and young people who travel to school by sustainable means by 20% by 2020. | DES /DTTS / An Taisce / NTA
 43 | Each school and educational institution should have a travel plan to encourage students to take more sustainable alternatives to the car. | All educational institutions
 44 | The Department of Education and Skills, in conjunction with the National Transport Authority and the Department of the Environment and Local Government to produce guidance on integrated planning and guidance for new school developments by end 2014. | DES / NTA / DECLG
@@ -905,6 +953,8 @@ projects to further reduce, monitor and manage energy usage in the Department's 
 [[END OF PAGE 43]]
 
 [[START OF PAGE 44]]
+
+### Appendix 2: List of submissions received through the public consultation process
 
 1. | Tina Neylon, EcCoWeLL Cork
 --- | ---
@@ -948,8 +998,6 @@ projects to further reduce, monitor and manage energy usage in the Department's 
 39. | Dr. Michael John O' Mahony/ Birgit O' Driscoll An Taisce
 40. | Peter Cullen, QQI
 
-### Appendix 2: List of submissions received through the public consultation process
-
 44
 
 [[END OF PAGE 44]]
@@ -970,6 +1018,8 @@ projects to further reduce, monitor and manage energy usage in the Department's 
 [[END OF PAGE 45]]
 
 [[START OF PAGE 46]]
+
+### Appendix 3: List of participants at the ESD roundtable
 
 Participant | Organisation
 --- | ---
@@ -1016,8 +1066,6 @@ Margaret Ryan | Department of Foreign Affairs and Trade
 Yvonne Ryan | Environmental Education Unit, An Taisce
 Tony Williams | Irish Landscape Institute
 
-### Appendix 3: List of participants at the ESD roundtable
-
 46
 
 [[END OF PAGE 46]]
@@ -1044,7 +1092,7 @@ TY - Transition Year UCC - University College Cork UL - University of Limerick U
 
 ### Bibliography
 
-An Taisce (2013) Summary Report: Green Pre-Schools Programme, October 2012 June 2013
+An Taisce (2013) Summary Report: Green Pre-Schools Programme, October 2012 – June 2013
 
 Commonwealth of Australia, (2007), Caring for Our Future. The Australian Government Strategy for the United Nations Decade of Education for Sustainable Development, 2005-14
 
@@ -1072,13 +1120,15 @@ Lucy G. Hargreaves (2008), The whole-school approach to education for sustainabl
 
 Deirdre Hogan and Roland Tormey, 'A perspective on the relationship between Development Education and Education for Sustainable Development' in Policy & Practice. A Development Education Review (ed) Jenna Coriddi (2008)
 
-Peter Hopkinson, Peter Hughes and Geoff layer (2008), Education for Sustainable Development: Using the UNESCO Framework to embed ESD in a student learning and living experience' in Policy & Practice. A Development Education Review (ed) Jenna Coriddi International Association for the Evaluation of Educational Achievement, (2011) 'Ready to Engage? - The international civic and citizenship education study'.
+Peter Hopkinson, Peter Hughes and Geoff layer (2008), Education for Sustainable Development: Using the UNESCO Framework to embed ESD in a student learning and living experience' in Policy & Practice. A Development Education Review (ed) Jenna Coriddi
 
 49
 
 [[END OF PAGE 49]]
 
 [[START OF PAGE 50]]
+
+International Association for the Evaluation of Educational Achievement, (2011) ‘Ready to Engage? – The international civic and citizenship education study’.
 
 Elaine Nevin, (2008), 'Education and Sustainable Development', in Policy & Practice. A Development Education Review (ed) Jenna Coriddi (2008)
 
