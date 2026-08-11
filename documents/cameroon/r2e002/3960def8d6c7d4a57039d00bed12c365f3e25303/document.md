@@ -40,7 +40,7 @@ Proclame que l'être humain, sans distinction de race, de religion, de sexe, de 
 
 - Toute personne a droit à la vie et à l'intégrité physique et morale. Elle doit être traitée en toute circonstance avec humanité. En aucun cas, elle ne peut être soumise à la torture, à des peines ou traitements cruels, inhumains ou dégradants ;
 
-- Nul  ne  peut  être  inquiété  en  raisons  de  ses  origines,  de  ses  opinions  ou  croyance  en matière religieuse, philosophique ou politique sous réserve du respect de l'ordre public et des bonnes mœurs ;
+- Nul ne peut être inquiété en raison de ses origines, de ses opinions ou croyances en matière religieuse, philosophique ou politique sous réserve du respect de l'ordre public et des bonnes mœurs ;
 
 - L'Etat est laïc. La neutralité et l'indépendance de l'Etat vis-à-vis de toutes les religions sont garanties ;
 
@@ -54,7 +54,7 @@ Proclame que l'être humain, sans distinction de race, de religion, de sexe, de 
 
 - La propriété est le droit d'user, de jouir et de disposer des biens garantis à chacun par la loi.  Nul  ne  saurait  en  être  privé  si  ce  n'est  pour  cause  d'utilité  publique  et  sous  la condition d'une indemnisation dont les modalités sont fixées par la loi ;
 
-- Le droit de propriété ne saurait être exercé contrairement à l'utilité publique, sociale ou de  manière  à  porter  préjudice  à  la  sûreté  ;  à  la  liberté,  à  l'existence  ou  à  la  propriété d'autrui ;
+- Le droit de propriété ne saurait être exercé contrairement à l'utilité publique, sociale ou de manière à porter préjudice à la sûreté, à la liberté, à l'existence ou à la propriété d'autrui ;
 
 - Toute personne a droit à un environnement sain. La protection de l'environnement est un devoir pour tous. L'Etat veille à la défense et la promotion de l'environnement ;
 
@@ -79,10 +79,10 @@ Proclame que l'être humain, sans distinction de race, de religion, de sexe, de 
 
 Les armoiries de la République du Cameroun sont constituées par un écu chapé surmonté côté chef par l'inscription « République du Cameroun », et supporté par un double faisceau de licteurs entrecroisés avec la devise : « Paix - Travail - Patrie », côté pointe.
 
-L'écu est composé d'une étoile d'or sur fond de simple et d'un triangle de gueules, chargé de la carte géographique du Cameroun d'azur, et frappé du glaive de la balance de justice de sable. (8) Le siège des institutions est à Yaoundé.
+L'écu est composé d'une étoile d'or sur fond de sinople et d'un triangle de gueules, chargé de la carte géographique du Cameroun d'azur, et frappé du glaive et de la balance de justice de sable. (8) Le siège des institutions est à Yaoundé.
 
 #### Art.  2. -
-(1)  La  souveraineté  nationale  appartient  au  peuple  camerounais  qui  l'exerce  soit  par l'intermédiaire  du  Président  de  la  République  et  des  membres  du  Parlement,  soit  par  voie  de référendum. Aucune fraction du peuple ni aucun individu ne peut s'en attribuer l'exercice. (2) Les autorités chargés de diriger l'Etat tiennent leurs pouvoirs du peuple par voie d'élections au suffrage universel direct ou indirect, sauf dispositions contraires de la présente Constitution. (3) Le vote est égal et secret ; y participent tous les citoyens âgés d'au moins vingt (20) ans.
+(1) La souveraineté nationale appartient au peuple camerounais qui l'exerce soit par l'intermédiaire du Président de la République et des membres du Parlement, soit par voie de référendum. Aucune fraction du peuple ni aucun individu ne peut s'en attribuer l'exercice. (2) Les autorités chargées de diriger l'Etat tiennent leurs pouvoirs du peuple par voie d'élections au suffrage universel direct ou indirect, sauf dispositions contraires de la présente Constitution. (3) Le vote est égal et secret ; y participent tous les citoyens âgés d'au moins vingt (20) ans.
 
 #### Art.  3. -
 Les  partis  et  formations  politiques  concourent  à  l'expression  du  suffrage.  Ils  doivent respecter les principes de la démocratie, de la souveraineté et de l'unité nationales. Ils se forment et exercent leurs activités conformément à la loi.
@@ -108,13 +108,13 @@ L'autorité de l'Etat est exercée par :
 
 [[START OF PAGE 4]]
 
-(50) jours au plus avant l'expiration des pouvoirs du Président de la République en exercice. (4)  En  cas  de  vacance  de  Présidence  de  la  République  pour  cause  de  décès,  de  démission  ou d'empêchement  définitif  constaté  par  le  Conseil  constitutionnel,  le  scrutin  pour  l'élection  du nouveau Président de la République doit impérativement avoir lieu vingt (20) jours au moins et quarante (40) au plus après l'ouverture de la vacance.  a- l'intérim du Président de la République est  exercé  de  plein  droit,  jusqu'à  l'élection  du  nouveau  Président  de  la  République,  par  le président du Sénat, et si ce dernier est, à son tour, empêché, par son suppléant, suivant l'ordre de préséance du Sénat. b- Le Président de la République par intérim - le Président du Sénat ou son suppléant - ne peut modifier ni la Constitution, ni la composition du gouvernement. Il ne peut recourir au référendum. Il ne peut être candidat à l'élection organisée pour la Présidence de la République.  (5)  Les  candidats  aux  fonctions  de  Président  de  la  République  doivent  être  des citoyens camerounais d'origine, jouir de leurs droits civiques et politique et avoir trente - cinq (35)  ans  révolus  à  la  date  de  l'élection.  (6)  le  régime  de  l'élection  à  la  Présidence  de  la République est fixé par la loi.
+(50) jours au plus avant l'expiration des pouvoirs du Président de la République en exercice. (4) En cas de vacance de la Présidence de la République pour cause de décès, de démission ou d'empêchement définitif constaté par le Conseil constitutionnel, le scrutin pour l'élection du nouveau Président de la République doit impérativement avoir lieu vingt (20) jours au moins et quarante (40) jours au plus après l'ouverture de la vacance. a- l'intérim du Président de la République est exercé de plein droit, jusqu'à l'élection du nouveau Président de la République, par le président du Sénat, et si ce dernier est, à son tour, empêché, par son suppléant, suivant l'ordre de préséance du Sénat. b- Le Président de la République par intérim - le Président du Sénat ou son suppléant - ne peut modifier ni la Constitution, ni la composition du gouvernement. Il ne peut recourir au référendum. Il ne peut être candidat à l'élection organisée pour la Présidence de la République. (5) Les candidats aux fonctions de Président de la République doivent être des citoyens camerounais d'origine, jouir de leurs droits civiques et politiques et avoir trente - cinq (35) ans révolus à la date de l'élection. (6) le régime de l'élection à la Présidence de la République est fixé par la loi.
 
 #### Art. 7 . -
 (1) le Président de la République élu entre en fonction dès sa prestation de serment. (2) Il prête serment devant le peuple camerounais, en présence des membres du Parlement, du Conseil constitutionnel  et  de  la  Cour  Suprême  réunis  en  séance  solennelle.  Le  serment  est  reçu  par  le Président de l'Assemblée Nationale. (3) La formule du serment et les modalités d'application des dispositions des alinéas 1 et 2 ci - dessus sont fixées par la loi. (4) Les fonctions de Président de la  République  sont  incompatibles  avec  toute  autre  fonction  publique  élective  ou  toute  activité professionnelle.
 
 #### Art. 8 .-
-(1) Le Président de la République représente l'Etat dans tous les actes de la vie publique. (2)  Il  est  le  Chef  des  Forces  Armées.  (3)  Il  veille  à  la  sécurité  intérieure  et  extérieure  de  la République.  (4)  Il  accrédite  les  ambassadeurs  et  les  envoyés  extraordinaires  auprès  des puissances étrangères. Les ambassadeurs et les envoyés extraordinaires des puissances étrangères sont  accrédités  auprès  de  lui.  (5)  Le  Président  de  la  République  promulgue  les  lois  dans  les conditions prévues à l'article 31 ci - dessous. (6) Le Président de la République saisit le Conseil constitutionnel dans les conditions déterminées par la Constitution. (7) Il exerce le droit de grâce après avis du Conseil supérieur de la Magistrature. (8) Il exerce le pouvoir réglementaire. (9) Il crée et organise les services publics de l'Etat. (10) Il nomme aux emplois civils et militaires de l'Etat. (11) Il confère les décorations et les distinctions honorifiques de la République. (12)  Le  Président  de  la  République  peut,  en  cas  de  nécessité  et  après  consultation  du Gouvernement,  des  bureaux  de  l'Assemblée  Nationale  et  du  Sénat,  prononcer  dissolution  de l'Assemblée Nationale. L'élection d'une nouvelle Assemblée a lieu conformément  aux dispositions de l'article 15 alinéa 4 ci - dessous.
+(1) Le Président de la République représente l'Etat dans tous les actes de la vie publique. (2) Il est le Chef des Forces Armées. (3) Il veille à la sécurité intérieure et extérieure de la République. (4) Il accrédite les ambassadeurs et les envoyés extraordinaires auprès des puissances étrangères. Les ambassadeurs et les envoyés extraordinaires des puissances étrangères sont accrédités auprès de lui. (5) Le Président de la République promulgue les lois dans les conditions prévues à l'article 31 ci - dessous. (6) Le Président de la République saisit le Conseil constitutionnel dans les conditions déterminées par la Constitution. (7) Il exerce le droit de grâce après avis du Conseil supérieur de la Magistrature. (8) Il exerce le pouvoir réglementaire. (9) Il crée et organise les services publics de l'Etat. (10) Il nomme aux emplois civils et militaires de l'Etat. (11) Il confère les décorations et les distinctions honorifiques de la République. (12) Le Président de la République peut, en cas de nécessité et après consultation du Gouvernement, des bureaux de l'Assemblée Nationale et du Sénat, prononcer la dissolution de l'Assemblée Nationale. L'élection d'une nouvelle Assemblée a lieu conformément aux dispositions de l'article 15 alinéa 4 ci - dessous.
 
 #### Art. 9 .-
 (1) Le Président de la République peut, lorsque les circonstances l'exigent, proclamer par décret, l'état d'urgence qui lui confère des pouvoirs spéciaux dans les conditions fixées par la loi. (2) Le Président de la République peut, en cas de péril grave menaçant l'intégrité du territoire, la vie, l'indépendance ou les institutions de la République, proclamer, par décret, l'état d'exception et prendre toutes mesures qu'il juge nécessaires. Il en informe la Nation par voie de message.
@@ -170,7 +170,7 @@ a- en sessions ordinaires, chaque année au mois de juin, au mois de novembre et
 
 b-  en  sessions  extraordinaires,  à  la  demande  du  Président  de  la  République  ou  du  tiers  des membres composant l'une et l'autre chambres.
 
-Toutefois, les deux chambres ne sont convoquées simultanément que si les matières portées à l'ordre du jour concernant l'une et l'autre.
+Toutefois, les deux chambres ne sont convoquées simultanément que si les matières portées à l'ordre du jour concernent l'une et l'autre.
 
 [[END OF PAGE 5]]
 
@@ -188,19 +188,19 @@ Lorsque  le  Parlement  se  réunit  en  congrès,  le  bureau  de  l'Assemblée
 
 (5) Nul ne peut appartenir à la fois à l'Assemblée Nationale et au Sénat.
 
-(6) La loi fixe le régime électorale de l'assemblée Nationale et du Sénat ainsi que le régime des immunités, des inéligibilités, des incompatibilités, des indemnités et des privilèges des membres du Parlement.
+(6) La loi fixe le régime électoral de l'Assemblée Nationale et du Sénat ainsi que le régime des immunités, des inéligibilités, des incompatibilités, des indemnités et des privilèges des membres du Parlement.
 
 ### Chapitre I De L'assemblée Nationale
 
 #### Art. 15 . -
-(1)  l'Assemblée Nationale est composée de cent quatre - vingt (180) députés élus au suffrage universel direct et secret pour un mandat de cinq (5) ans. Le nombre des députés élus à l'Assemblée Nationale peut -être modifié par la loi. (2) Chaque député représente l'ensemble de la  nation.  (3)  Tout  mandat  impératif  est  nul.  (4)  En  cas  de  crise  grave,  le  Président  de  la épublique  peut,  après  consultation  du  président  du  Conseil  constitutionnel  et  des  bureaux  de l'Assemblée Nationale et du Sénat, demander à l'Assemblée Nationale de décider par une loi de proroger  ou  d'abréger  son  mandat.  Dans  ce  cas,  l'élection  d'une  nouvelle  Assemblée  a  lieu quarante  (40)  jours  au  moins  et  soixante  (60)  jours  au  plus  après  l'expiration  du  délai  de prorogation ou d'abrègement de mandat.
+(1) l'Assemblée Nationale est composée de cent quatre - vingt (180) députés élus au suffrage universel direct et secret pour un mandat de cinq (5) ans. Le nombre des députés élus à l'Assemblée Nationale peut -être modifié par la loi. (2) Chaque député représente l'ensemble de la nation. (3) Tout mandat impératif est nul. (4) En cas de crise grave, le Président de la République peut, après consultation du président du Conseil constitutionnel et des bureaux de l'Assemblée Nationale et du Sénat, demander à l'Assemblée Nationale de décider par une loi de proroger ou d'abréger son mandat. Dans ce cas, l'élection d'une nouvelle Assemblée a lieu quarante (40) jours au moins et soixante (60) jours au plus après l'expiration du délai de prorogation ou d'abrègement de mandat.
 
 #### Art. 16. -
-(1) Au début de chaque législature, l'Assemblée Nationale se réunit de plein droit, en session ordinaires dans les conditions fixées par la loi. (2) Chaque année, l'Assemblée Nationale tient trois (3) sessions ordinaires d'une durée maximum de trente (30) jours chacune.
+(1) Au début de chaque législature, l'Assemblée Nationale se réunit de plein droit, en session ordinaire dans les conditions fixées par la loi. (2) Chaque année, l'Assemblée Nationale tient trois (3) sessions ordinaires d'une durée maximum de trente (30) jours chacune.
 
 a- A l'ouverture de sa première session ordinaire, l'Assemblée nationale élit son Président et son bureau.
 
-b- Au cours de l'une des sessions, l'Assemblée nationale vote le budget de l'Etat. Au cas où le budget n'aurait  pas  été  adopté  avant  la  fin  de  l'année  budgétaire  en  cours,  Le  Président  de  la République  est  habilité  à  reconduire,  par  douzième,  le  budget  de  l'exercice  précédent  jusqu'à l'adoption  du  nouveau  budget.  (3)  L'Assemblée  Nationale  se  réunit  en  session  extraordinaire pour une durée maximum de quinze (15) jours, sur un ordre du jour déterminé, à la demande sur Président  de  la  République  au  d'un  tiers  des  députés.  La  session  extraordinaire  est  close  dès épuisement de l'ordre du jour.
+b- Au cours de l'une des sessions, l'Assemblée nationale vote le budget de l'Etat. Au cas où le budget n'aurait pas été adopté avant la fin de l'année budgétaire en cours, Le Président de la République est habilité à reconduire, par douzième, le budget de l'exercice précédent jusqu'à l'adoption du nouveau budget. (3) L'Assemblée Nationale se réunit en session extraordinaire pour une durée maximum de quinze (15) jours, sur un ordre du jour déterminé, à la demande du Président de la République ou d'un tiers des députés. La session extraordinaire est close dès épuisement de l'ordre du jour.
 
 #### Art.  17 . -
 (1) Les  séances  de  l'Assemblée  Nationale  sont  publiques.  A  la  demande  du Gouvernement  ou  de  la  majorité  absolue  de  ses  membres,  l'Assemblée  Nationale  peut, exceptionnellement, se réunir à huis clos. (2) L'Assemblée Nationale fixe, elle même, ses règles d'organisation et de fonctionnement sous forme de loi portant règlement intérieur.
@@ -212,12 +212,12 @@ b- Au cours de l'une des sessions, l'Assemblée nationale vote le budget de l'Et
 #### Art. 18 . -
 (1) L'ordre du jour de l'Assemblée Nationale est fixé par la conférence des présidents. (2)  La  conférence  des  présidents  comprend  :  les  présidents  des  groupes  parlementaires,  les présidents des commissions et les membres du bureau de l'Assemblée Nationale. Un membre du Gouvernement participe aux travaux de la conférence des présidents. (3) Seuls les textes relevant de sa compétence en vertu de l'article 26 ci - dessous peuvent être inscrits à l'ordre du jour de l'Assemblée Nationale.
 
-a- Sont irrecevables, les propositions de loi ou amendements, qui auraient pour effet, s'ils sont adoptés,  soit  un  diminution  des  ressources  publiques,  soit  l'aggravation  des  charges  publiques sans  réduction  à  due  concurrence  d'autres  dépenses  ou  création  de  recettes  nouvelles  d'égale importance.
+a- Sont irrecevables, les propositions de loi ou amendements, qui auraient pour effet, s'ils sont adoptés, soit une diminution des ressources publiques, soit l'aggravation des charges publiques sans réduction à due concurrence d'autres dépenses ou création de recettes nouvelles d'égale importance.
 
 b- En cas de doute ou de litige sur la recevabilité d'un texte, le Président de la République, le Président de l'Assemblée Nationale ou un tiers des députés saisit le Conseil Constitutionnel qui en décide. (4) l'ordre du jour comporte en priorité et dans l'ordre que le Gouvernement a fixé, la discussion des projets de loi ou des propositions de loi qu'il a acceptées. Les autres propositions de loi retenues par la conférence des présidents sont examinées par la suite. Lorsque, à l'issue de deux sessions ordinaires, une proposition de loi n'a pu être examinée, celle - ci est de plein droit examinée  au  cours  de  la  session  ordinaire  suivante.  (5)  L'urgence  est  de  droit  lorsqu'elle  est demandée par le Gouvernement.
 
 #### Art.  19. -
-(1)  L'Assemblée  Nationale  adopte  les  lois  à  la  majorité  simple  des  députés.  (2) l'Assemblée  nationale  adopte  ou  rejette  les  textes  soumis  à  son  réexamen  par  le  Sénat, conformément aux dispositions de l'articles 30 ci - dessous. (3) Avant leur promulgation, les lois peuvent faire l'objet d'une demande de seconde lecture par le Président de la République. Dans ce cas, ces lois sont adoptées à la majorité absolue des députés.
+(1) L'Assemblée Nationale adopte les lois à la majorité simple des députés. (2) l'Assemblée nationale adopte ou rejette les textes soumis à son réexamen par le Sénat, conformément aux dispositions de l'article 30 ci - dessous. (3) Avant leur promulgation, les lois peuvent faire l'objet d'une demande de seconde lecture par le Président de la République. Dans ce cas, ces lois sont adoptées à la majorité absolue des députés.
 
 ### Chapitre II Du Sénat
 
@@ -232,7 +232,7 @@ b- En cas de doute ou de litige sur la recevabilité d'un texte, le Président d
 [[START OF PAGE 8]]
 
 #### Art.  22 .-
-(1)  Les  séances  du  Sénat  sont  publiques.  A  la  demande  du  gouvernement  ou  de  la majorité absolue de ses membres, le Sénat peut, exceptionnellement, se réunir à huis clos. (2) L Sénat fixe lui - même ses règles d'organisation et de fonctionnement sous forme de loi portant règlement intérieur.
+(1) Les séances du Sénat sont publiques. A la demande du gouvernement ou de la majorité absolue de ses membres, le Sénat peut, exceptionnellement, se réunir à huis clos. (2) Le Sénat fixe lui - même ses règles d'organisation et de fonctionnement sous forme de loi portant règlement intérieur.
 
 #### Art. 23.
 (1) L'ordre du jour du Sénat est fixé par la conférence des Présidents.(2) La conférence des présidents comprend  :  les  présidents  des groupes  parlementaires,  les présidents des commissions et  les  membres  du  bureau  du  sénat.  Un  membre  du  gouvernement  participe  aux travaux de la conférence des Présidents. (3) Seuls les textes relevant de sa compétence en vertu de l'article 26 ci - dessous peuvent être inscrits à l'ordre du jour du Sénat.
@@ -241,7 +241,7 @@ a-  Sont irrecevables, les propositions de loi ou amendements qui auraient pour 
 
 b- En cas de doute ou de litige sur la recevabilité d'un texte, le Président de la République ou le
 
-Président du Sénat ou un tiers des sénateurs saisit le Conseil constitutionnel qui en décide. (4) L'ordre du jour comporte en priorité et dans l'ordre que le gouvernement a fixé, la discussion des  projets  de  loi  ou  des  propositions  de  loi  qu'il  a  acceptées.  Les  autres  propositions  de  loi retenues par la conférence des présidents sont examinées par la suite. Lorsque, à l'issue de deux sessions  ordinaires  une  proposition  de  loi  n'a  pu  être  examinée,  celle  -  ci  est  de  plein  droit examinée au cours de la sessions ordinaire suivante. (5) L'urgence est de droit lorsqu'elle est demandée par le Gouvernement.
+Président du Sénat ou un tiers des sénateurs saisit le Conseil constitutionnel qui en décide. (4) L'ordre du jour comporte en priorité et dans l'ordre que le gouvernement a fixé, la discussion des projets de loi ou des propositions de loi qu'il a acceptées. Les autres propositions de loi retenues par la conférence des présidents sont examinées par la suite. Lorsque, à l'issue de deux sessions ordinaires une proposition de loi n'a pu être examinée, celle - ci est de plein droit examinée au cours de la session ordinaire suivante. (5) L'urgence est de droit lorsqu'elle est demandée par le Gouvernement.
 
 #### Art.  24 .-
 (1)  Le  Sénat  adopte  les  lois  à  la  majorité  simple  des  sénateurs.  (2)  Le  Sénat  peut apporter des amendements  ou  rejeter  tout ou partie des textes  soumis  à  son  examen, conformément aux dispositions de l'article 30 ci - dessous. (3) Avant leur promulgation, les lois peuvent faire l'objet d'une demande de seconde lecture par le Président de la République. Dans ce cas, les lois sont adoptées, à la majorité absolue des sénateurs.
@@ -252,65 +252,65 @@ Président du Sénat ou un tiers des sénateurs saisit le Conseil constitutionne
 l'initiative  des  lois  appartient  concurremment  au  président  de  la  République  et  aux membres du parlement.
 
 #### Art. 26 .-
-(1) la loi est votée par le Parlement. Sont du domaine de la loi :
+(1) la loi est votée par le Parlement. (2) Sont du domaine de la loi :
 
 a- Les droits, garanties et obligations fondamentaux du citoyen :
 
-- La sauvegarde de la liberté et de la sécurité individuelles ;
+1. La sauvegarde de la liberté et de la sécurité individuelles ;
 
-- Le régime des libertés publiques ;
+2. Le régime des libertés publiques ;
 
-- Le droit du travail, le droit syndical, le régime de la protection sociale ;
+3. Le droit du travail, le droit syndical, le régime de la protection sociale ;
 
-- Les  devoirs  et  obligations  du  citoyen  en  fonction  des  impératifs  de  la  défense nationale.
+4. Les devoirs et obligations du citoyen en fonction des impératifs de la défense nationale.
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-b- Le statut des personnes et le régime de biens :
+b- Le statut des personnes et le régime des biens :
 
-- la  nationalité,  l'état  et  la  capacité  des  personnes,  les  régimes  matrimoniaux,  les successions et libéralités ;
+1. la nationalité, l'état et la capacité des personnes, les régimes matrimoniaux, les successions et libéralités ;
 
-- le régime des obligations civiles et commerciales ;
+2. le régime des obligations civiles et commerciales ;
 
-- le régime de la propriété mobilière et immobilière.
+3. le régime de la propriété mobilière et immobilière.
 
 c- L'organisation politique, administrative et judiciaire concernant :
 
-- le régime de l'élection à la Présidence de la République, le régime des élections à l'Assemblée  Nationale,  au  Sénat  et  aux  Assemblées  Régionales  et  locales  et  le régime des consultations référendaires ;
+1. le régime de l'élection à la Présidence de la République, le régime des élections à l'Assemblée Nationale, au Sénat et aux Assemblées Régionales et locales et le régime des consultations référendaires ;
 
-- le régime des associations et des parties politiques ;
+2. le régime des associations et des partis politiques ;
 
-- l'organisation,  le  fonctionnement,  la  détermination  des  compétences  et  des ressources des collectivités territoriales décentralisées ;
+3. l'organisation, le fonctionnement, la détermination des compétences et des ressources des collectivités territoriales décentralisées ;
 
-- les règles générales d'organisation de la défense nationale ;
+4. les règles générales d'organisation de la défense nationale ;
 
-- l'organisation judiciaire et la création des ordres de juridiction ;
+5. l'organisation judiciaire et la création des ordres de juridiction ;
 
-- la détermination des crimes et délits et l'institution des peines de toute nature, la procédure pénale, la procédure civile, les voies d'exécution, l'amnistie.
+6. la détermination des crimes et délits et l'institution des peines de toute nature, la procédure pénale, la procédure civile, les voies d'exécution, l'amnistie.
 
 d- Les questions financières et patrimoniales suivantes :
 
-- le régime d'émission de la monnaie ;
+1. le régime d'émission de la monnaie ;
 
-- le budget ;
+2. le budget ;
 
-- la  création  des  impôts  et  taxes  et  la  détermination  de  l'assiette,  du  taux  et  des modalités de recouvrement de ceux - ci ;
+3. la création des impôts et taxes et la détermination de l'assiette, du taux et des modalités de recouvrement de ceux - ci ;
 
-- Le régime domanial, foncier et minier ;
+4. Le régime domanial, foncier et minier ;
 
-- Le régime des ressources naturelles.
+5. Le régime des ressources naturelles.
 
-- e- La programmation des objectifs de l'action économique et sociale.
+e- La programmation des objectifs de l'action économique et sociale.
 
-- f- Le régime de l'éducation.
+f- Le régime de l'éducation.
 
 #### Art. 27 . -
 Les  matières autres que celles qui sont du domaine de la loi ressortissent au pouvoir réglementaire.
 
 #### Art.  28 .-
-Dans  les  matières  énumérées  à  l'article  26  alinéa  2  ci  -  dessus,  le  parlement,  peut autoriser le Président de la République, pendant un délai limité et sur des objets déterminés, à prendre  des  ordonnances.  Ces  ordonnances  entrent  en  vigueur  dès  leur  publication.  Elles  sont déposées sur le  bureau  de  l'Assemblée  nationale  et  sur  celui  du  Sénat  aux  fins  de  ratification dans le délai fixé par la loi d'habitation. Elles ont un caractère réglementaire tant qu'elles n'ont pas été ratifiées. Elles demeurent en vigueur tant que le Parlement n'a pas refusé de les ratifier.
+Dans les matières énumérées à l'article 26 alinéa 2 ci - dessus, le parlement, peut autoriser le Président de la République, pendant un délai limité et sur des objets déterminés, à prendre des ordonnances. Ces ordonnances entrent en vigueur dès leur publication. Elles sont déposées sur le bureau de l'Assemblée nationale et sur celui du Sénat aux fins de ratification dans le délai fixé par la loi d'habilitation. Elles ont un caractère réglementaire tant qu'elles n'ont pas été ratifiées. Elles demeurent en vigueur tant que le Parlement n'a pas refusé de les ratifier.
 
 #### Art. 29 .-
 (1) Les projets et propositions de loi sont déposés à la fois sur le bureau de l'Assemblée Nationale et sur celui du Sénat. Ils sont examinés par les commissions compétentes avant leur discussion en séance plénière. (2) Le projet de loi examiné en séance plénière est le texte déposé
@@ -338,14 +338,14 @@ Dans ce cas, le texte en cause, accompagné de l'exposé des motifs du rejet, es
 
 1- L'Assemblée Nationale, après délibération, adopte le texte à la majorité absolue des députés. Le  texte  adopté  définitivement  par  l'Assemblée  Nationale  est  transmis  au  Président  de  la République pour promulgation.
 
-2  -  En  cas  d'absence  de  majorité  absolue,  le  président  de  la  République  peut  provoquer  la réunion  d'une  commission  mixte  paritaire  chargée  de  proposer  un  texte  commun  sur  les dispositions rejetées par le Sénat. Le texte élaboré par la commission mixte paritaire est soumis par  le  Président  de  la  République  pour  approbation  aux  deux  chambres.  Aucun  amendement n'est recevable, sauf accord du Président de la République. Si la commission mixte paritaire ne parvient pas à l'adoption d'un texte commun, ou ce texte n'est pas adopté par l'une et l'autre chambres, le Président de la République peut :
+2 - En cas d'absence de majorité absolue, le président de la République peut provoquer la réunion d'une commission mixte paritaire chargée de proposer un texte commun sur les dispositions rejetées par le Sénat. Le texte élaboré par la commission mixte paritaire est soumis par le Président de la République pour approbation aux deux chambres. Aucun amendement n'est recevable, sauf accord du Président de la République. Si la commission mixte paritaire ne parvient pas à l'adoption d'un texte commun, ou si ce texte n'est pas adopté par l'une et l'autre chambres, le Président de la République peut :
 
 - soit demander à l'Assemblée Nationale de statuer définitivement ;
 
 - soit déclarer caduc le projet ou la proposition de loi.
 
 #### Art. 31 .-
-(1) Le Président de la République promulgue les lois adoptées par le Parlement dans un délai  de  quinze  (15)  jours  à  compter  de  leur  transmission,  s'il  ne  formule  aucune  demande  de seconde lecture ou s'il n'en saisit le Conseil Constitutionnel. (2) A l'issue de ce délai, et après avoir constaté sa carence, le Président de l'Assemblée nationale peut se substituer au Président de la République. (3) La publication de lois est effectuée au journal officiel de la République en français et en anglais.
+(1) Le Président de la République promulgue les lois adoptées par le Parlement dans un délai de quinze (15) jours à compter de leur transmission, s'il ne formule aucune demande de seconde lecture ou s'il n'en saisit le Conseil Constitutionnel. (2) A l'issue de ce délai, et après avoir constaté sa carence, le Président de l'Assemblée nationale peut se substituer au Président de la République. (3) La publication des lois est effectuée au journal officiel de la République en français et en anglais.
 
 [[END OF PAGE 10]]
 
@@ -358,10 +358,10 @@ Le  Président  de  la  République  peut,  sur  sa  demande,  être  entendu  p
 Le Premier Ministre et les autres membres du Gouvernement ont accès au Parlement et peuvent participer aux débats.
 
 #### Art. 34 .-
-(1) Lors de la session au cour de laquelle le projet de loi de finances est examiné, le Premier Ministre présente à l'Assemblée Nationale le programme économique, financier, social et  culturel  du  Gouvernement.  (2)  Le  Premier  Ministre  peut  après  délibération  du  conseil ministériel  engager  devant  l'Assemblée  Nationale,  la  responsabilité  du  Gouvernement sur  un programme  ou,  le  cas  échéant,  sur  une  déclaration  de  politique  générale.  Le  vote  ne  peut intervenir moins de quarante - huit (48) heures après la question de confiance. La confiance est refusée  à  la  majorité  absolue  des  membres  de  l'Assemblée  Nationale.  Seuls  sont  recensés  les votes défavorables à la question de confiance. (3) L'Assemblée Nationale peut mettre en cause la responsabilité  du  Gouvernement  par  le  vote  d'une  motion  de  censure.  Pour  être  recevable,  la motion de censure doit être signée par au moins un tiers des membres de l'Assemblée Nationale. Le  vote  ne  peut  intervenir  moins  de  quarante  -  huit  (48)  heures  après  le  dépôt  de  motion  de censure. La motion de censure est adoptée à la majorité des deux tiers des membres composants l'Assemblée Nationale. Seuls sont recensés les votes favorables à la motion de censure. En cas de rejet de la motion de censure, les signataires ne peuvent en déposer une nouvelle avant le délai d'un  an,  sauf  dans  le  cas  prévu  à  l'alinéa  4  ci  -  dessous.  (4)  Le  Premier  Ministre  peut,  après délibération du conseil ministériel, engager devant l'Assemblée Nationale, la responsabilité du gouvernement sur le vote d'un texte. Dans ce cas, ce texte est considéré comme adopté sauf si une motion de censure déposée dans les vingt - quatre (24) heures qui suivent est votée dans les conditions prévues à l'alinéa précédent. (5) Lorsque l'Assemblée Nationale adopte une motion de  censure  ou  refuse  la  confiance  du  Gouvernement,  le  Premier  Ministre  doit  remettre  au Président de la République la démission du Gouvernement. (6) Le Président de la République peut reconduire le Premier Ministre dans ses fonctions et lui demander de reformer un nouveau Gouvernement.
+(1) Lors de la session au cours de laquelle le projet de loi de finances est examiné, le Premier Ministre présente à l'Assemblée Nationale le programme économique, financier, social et culturel du Gouvernement. (2) Le Premier Ministre peut après délibération du conseil ministériel engager devant l'Assemblée Nationale, la responsabilité du Gouvernement sur un programme ou, le cas échéant, sur une déclaration de politique générale. Le vote ne peut intervenir moins de quarante - huit (48) heures après la question de confiance. La confiance est refusée à la majorité absolue des membres de l'Assemblée Nationale. Seuls sont recensés les votes défavorables à la question de confiance. (3) L'Assemblée Nationale peut mettre en cause la responsabilité du Gouvernement par le vote d'une motion de censure. Pour être recevable, la motion de censure doit être signée par au moins un tiers des membres de l'Assemblée Nationale. Le vote ne peut intervenir moins de quarante - huit (48) heures après le dépôt de la motion de censure. La motion de censure est adoptée à la majorité des deux tiers des membres composant l'Assemblée Nationale. Seuls sont recensés les votes favorables à la motion de censure. En cas de rejet de la motion de censure, les signataires ne peuvent en déposer une nouvelle avant le délai d'un an, sauf dans le cas prévu à l'alinéa 4 ci - dessous. (4) Le Premier Ministre peut, après délibération du conseil ministériel, engager devant l'Assemblée Nationale, la responsabilité du gouvernement sur le vote d'un texte. Dans ce cas, ce texte est considéré comme adopté sauf si une motion de censure déposée dans les vingt - quatre (24) heures qui suivent est votée dans les conditions prévues à l'alinéa précédent. (5) Lorsque l'Assemblée Nationale adopte une motion de censure ou refuse la confiance du Gouvernement, le Premier Ministre doit remettre au Président de la République la démission du Gouvernement. (6) Le Président de la République peut reconduire le Premier Ministre dans ses fonctions et lui demander de former un nouveau Gouvernement.
 
 #### Art. 35 .-
-(1)  Le  Parlement  contrôle  l'action  gouvernementale  par  voie  des  questions  orales  ou écrites  et  par  la  constitution  des  commissions  d'enquêtes  sur  des  objets  déterminés.  (2)  Le Gouvernement, sous réserve des impératifs de la défense nationale, de la sécurité de l'Etat, ou du secret  de  l'information  judiciaire,  fournit  des  renseignements  au  Parlement.  (3)  Au  cours  de chaque  section  ordinaire,  une  séance  par  semaine  est  réservée  par  priorité  aux  questions  des membres du Parlement et aux réponses du Gouvernement.
+(1) Le Parlement contrôle l'action gouvernementale par voie des questions orales ou écrites et par la constitution des commissions d'enquête sur des objets déterminés. (2) Le Gouvernement, sous réserve des impératifs de la défense nationale, de la sécurité de l'Etat, ou du secret de l'information judiciaire, fournit des renseignements au Parlement. (3) Au cours de chaque session ordinaire, une séance par semaine est réservée par priorité aux questions des membres du Parlement et aux réponses du Gouvernement.
 
 #### Art.  36 . -
 (1)  le  Président  de  la  République,  après  consultation  du  Président  du  Conseil Constitutionnel, du Président de l'Assemblée Nationale et du Président du Sénat, peut soumettre au  Référendum  tout  projet  de  réforme  qui,  bien  que  relevant  du  domaine  de  la  loi,  serait susceptible  d'avoir  des  répercussions  profondes  sur  l'avenir  de  la  nation  et  les  institutions nationales.
@@ -372,20 +372,20 @@ Le Premier Ministre et les autres membres du Gouvernement ont accès au Parlemen
 
 Il en sera ainsi notamment :
 
-- des projets de loi portant sur l'organisation des pouvoirs publics ou sur la révision de la constitution ;
+1. des projets de loi portant sur l'organisation des pouvoirs publics ou sur la révision de la constitution ;
 
-- des  projets  de  loi  tendant  à  la  ratification  des  accords  ou  des  traités  internationaux présentant, par leurs conséquences, une importance particulière ;
+2. des projets de loi tendant à la ratification des accords ou des traités internationaux présentant, par leurs conséquences, une importance particulière ;
 
-- de certains projet de réforme portant sur le statut des personnes et le régime des biens, etc...
+3. de certains projets de réforme portant sur le statut des personnes et le régime des biens, etc...
 
-- le projet de loi est adopté à la majorité des suffrages exprimés.
+(2) le projet de loi est adopté à la majorité des suffrages exprimés.
 
 (3) la loi détermine les procédures du Référendum.
 
 ## Titre V Du Pouvoir Judiciaire
 
 #### Art.  37 .-
-(1)  La  justice  est  rendu  sur  le  territoire  de  la  République  au  nom  de  du  peuple camerounais. (2) Le pouvoir judiciaire est exercé par la Cour Suprême, les Cours d'Appel, les Tribunaux.  Il  est  indépendant  du  pouvoir  exécutif  et  du  pouvoir  législatif.  Les  magistrats  du siège ne relèvent dans leurs fonctions juridictionnelles que de la loi et de leur conscience. (3) Le Président  de  la  République  est  garant  de  l'indépendance  du  pouvoir  judiciaire.  Il  nomme  les magistrats. Il est assisté dans cette mission par le Conseil Supérieur de la Magistrature qui lui donne son avis sur les propositions de nomination et sur les sanctions disciplinaires concernant les  magistrat  du  siège.  L'organisation  et  le  fonctionnement  du  Conseil  Supérieur  de  la Magistrature sont déterminés par la loi.
+(1) La justice est rendue sur le territoire de la République au nom du peuple camerounais. (2) Le pouvoir judiciaire est exercé par la Cour Suprême, les Cours d'Appel, les Tribunaux. Il est indépendant du pouvoir exécutif et du pouvoir législatif. Les magistrats du siège ne relèvent dans leurs fonctions juridictionnelles que de la loi et de leur conscience. (3) Le Président de la République est garant de l'indépendance du pouvoir judiciaire. Il nomme les magistrats. Il est assisté dans cette mission par le Conseil Supérieur de la Magistrature qui lui donne son avis sur les propositions de nomination et sur les sanctions disciplinaires concernant les magistrats du siège. L'organisation et le fonctionnement du Conseil Supérieur de la Magistrature sont déterminés par la loi.
 
 #### Art. 38 .-
 (1) La Cour Suprême est la plus haute juridiction en matière judiciaire, administrative et de jugement des comptes. (2) Elle comprend :
@@ -394,7 +394,7 @@ Il en sera ainsi notamment :
 
 - Une chambre administrative ;
 
-- Une chambre de compte ;
+- Une chambre des comptes ;
 
 #### Art. 39 .-
 La chambre judiciaire statue souverainement sur :
@@ -406,25 +406,28 @@ La chambre judiciaire statue souverainement sur :
 - toute matière qui lui est expressément attribuée par la loi.
 
 #### Art. 40 .-
-La chambre administrative connaît de l'ensemble du contentieux administratif de l'Etat et des autres collectivités publiques. Elle connaît en appel du contentieux des élections régionales et  municipales.  Elle  statue  souverainement  sur  les  décisions  rendues  en  dernier  ressort  par  les juridictions inférieures en matières de contentieux administratif. Elle connaît de tout autre litige qui lui est expressément attribué par la loi.
+La chambre administrative connaît de l'ensemble du contentieux administratif de l'Etat et des autres collectivités publiques. Elle connaît en appel du contentieux des élections régionales et municipales. Elle statue souverainement sur les décisions rendues en dernier ressort par les juridictions inférieures en matière de contentieux administratif. Elle connaît de tout autre litige qui lui est expressément attribué par la loi.
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
 
 #### Art.  41 .-
-(1)  L'organisation,  le  fonctionnement,  la  composition,  les  attributions  de  la  Cour Suprême et des chambres qui la  compose  ainsi  que  les  conditions  de  saisines  et  la  procédure suivie devant elles sont fixés par la loi. (2) L'organisation, le fonctionnement, la composition, les attributions des Cours d'Appel, des Tribunaux de l'ordre judiciaire, les Tribunaux Administratifs et  des  juridictions  inférieures  des  comptes  ainsi  que  les  conditions  de  saisines  et  la  procédure suivie devant eux sont fixés par la loi.
+(1) L'organisation, le fonctionnement, la composition, les attributions de la Cour Suprême et des chambres qui la composent ainsi que les conditions de saisine et la procédure suivie devant elles sont fixés par la loi. (2) L'organisation, le fonctionnement, la composition, les attributions des Cours d'Appel, des Tribunaux de l'ordre judiciaire, les Tribunaux Administratifs et des juridictions inférieures des comptes ainsi que les conditions de saisine et la procédure suivie devant eux sont fixés par la loi.
+
+#### Art. 42 .-
+Les décisions de la Chambre des Comptes de la Cour Suprême sont susceptibles de recours en cassation devant les Chambres réunies de ladite Cour.
 
 ## Titre VI Des Traités Et Accords Internationaux
 
 #### Art. 43 .-
-Le Président de la République négocie et ratifie les traités et accords internationaux. Les traités  et  accords  internationaux  qui  concernent  le  domaine  de  la  loi,  défini  à  l'article  26  ci  dessus, sont soumis, avant ratification, à l'approbation en forme législative par le Parlement.
+Le Président de la République négocie et ratifie les traités et accords internationaux. Les traités et accords internationaux qui concernent le domaine de la loi, défini à l'article 26 ci - dessus, sont soumis, avant ratification, à l'approbation en forme législative par le Parlement.
 
 #### Art. 44 .-
 Si  le  Conseil  Constitutionnel a déclaré qu'un traité ou accord international comporte une clause contraire à la Constitution, l'approbation en forme législative ou la ratification de ce traité ou de cet accord ne peut intervenir qu'après la révision de la Constitution.
 
 #### Art. 45 .-
-Les traités ou accords internationaux régulièrement approuvés ou ratifiés ont, dès leur publication, une autorité supérieur à celle des lois, sous réserve pour chaque accord ou traité, de son application par l'autre parti.
+Les traités ou accords internationaux régulièrement approuvés ou ratifiés ont, dès leur publication, une autorité supérieure à celle des lois, sous réserve pour chaque accord ou traité, de son application par l'autre partie.
 
 ## Titre VII Du Conseil Constitutionnel
 
@@ -440,23 +443,23 @@ Le  Conseil  Constitutionnel  est  l'instance  compétente  en  matière  consti
 
 - les conflits d'attribution : entre les institutions de l'Etat ; entre l'Etat et les régions ; entre les régions.
 
-(2)  Le  Conseil  Constitutionnel  est  saisi  par  le  Président  de  la  République,  le  président  de l'Assemblée Nationale, le président du Sénat, un tiers des députés ou un tiers des sénateurs. Les présidents des exécutifs des régionaux peuvent saisir le Conseil Constitutionnel lorsque les intérêts de leur région sont en cause. (3) Avant leur promulgation, les lois ainsi que les traités et accords  internationaux  peuvent  être  déférés  au  Conseil  Constitutionnel  par  le  Président  de  la République, le Président de l'Assemblée Nationale, le Président du Sénat, un tiers des députés ou un tiers des sénateurs, les présidents des exécutifs régionaux conformément aux dispositions de l'alinéa 2 ci - dessus. La saisine du Conseil Constitutionnel suspend le délais de promulgation. (4) Le Conseil Constitutionnel donne des avis sur des matières relevant de sa compétence.
+(2) Le Conseil Constitutionnel est saisi par le Président de la République, le président de l'Assemblée Nationale, le président du Sénat, un tiers des députés ou un tiers des sénateurs. Les présidents des exécutifs régionaux peuvent saisir le Conseil Constitutionnel lorsque les intérêts de leur région sont en cause. (3) Avant leur promulgation, les lois ainsi que les traités et accords internationaux peuvent être déférés au Conseil Constitutionnel par le Président de la République, le Président de l'Assemblée Nationale, le Président du Sénat, un tiers des députés ou un tiers des sénateurs, les présidents des exécutifs régionaux conformément aux dispositions de l'alinéa 2 ci - dessus. La saisine du Conseil Constitutionnel suspend le délai de promulgation. (4) Le Conseil Constitutionnel donne des avis sur des matières relevant de sa compétence.
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
 #### Art.  48 .-
-(1)  Le  Conseil  Constitutionnel  veille  à  la  régularité  de  l'élection  présidentielle,  des élections  parlementaires,  des  consultations  référendaires.  Il  en  proclament  les  résultats.  (2)  En cas  de  contestation  sur  la  régularité  de  l'une  des  élections  prévues  à  l'alinéa  1  ci  -  dessus,  le Conseil Constitutionnel peut être saisi par tout candidat, par tout parti politique ayant pris part à l'élection dans  la  circonscription  concernée  ou  toute  personne  ayant  qualité  d'agent  du Gouvernement pour cette élection. (3) En cas de contestation sur la régularité du consultation référendaire,  le  Conseil  Constitutionnel  peut  être  saisi  par  le  Président  de  la  République,  le Président de l'Assemblée Nationale ou le Président du Sénat, un tiers des députés ou un tiers des sénateurs.
+(1) Le Conseil Constitutionnel veille à la régularité de l'élection présidentielle, des élections parlementaires, des consultations référendaires. Il en proclame les résultats. (2) En cas de contestation sur la régularité de l'une des élections prévues à l'alinéa 1 ci - dessus, le Conseil Constitutionnel peut être saisi par tout candidat, par tout parti politique ayant pris part à l'élection dans la circonscription concernée ou toute personne ayant qualité d'agent du Gouvernement pour cette élection. (3) En cas de contestation sur la régularité de la consultation référendaire, le Conseil Constitutionnel peut être saisi par le Président de la République, le Président de l'Assemblée Nationale ou le Président du Sénat, un tiers des députés ou un tiers des sénateurs.
 
 #### Art. 49 .-
-Dans tout les cas de saisine, le Conseil Constitutionnel statue dans un délai de quinze (15) jours. Toutefois, à la demande du Président de la République, ce délai peut être ramené à huit (8) jours.
+Dans tous les cas de saisine, le Conseil Constitutionnel statue dans un délai de quinze (15) jours. Toutefois, à la demande du Président de la République, ce délai peut être ramené à huit (8) jours.
 
 #### Art. 50 .-
-(1) Les décisions du Conseil Constitutionnel ne sont susceptibles d'aucun recours. Elle s'impose aux pouvoirs publics et à toutes les autorités administratives, militaires et juridictionnelles,  ainsi  qu'à  toute  personne  physique  ou  morale.  (2)  Une  décision  déclarée inconstitutionnelle ne peut être ni promulguée ni mise en application.
+(1) Les décisions du Conseil Constitutionnel ne sont susceptibles d'aucun recours. Elles s'imposent aux pouvoirs publics et à toutes les autorités administratives, militaires et juridictionnelles, ainsi qu'à toute personne physique ou morale. (2) Une disposition déclarée inconstitutionnelle ne peut être ni promulguée ni mise en application.
 
 #### Art. 51 .-
-(1) Le Conseil Constitutionnel comprend onze (11) membres, désignés pour un mandat de neuf (9) ans non renouvelable. Les membres du Conseil Constitutionnel sont choisis parmi les personnalités  de  réputation  professionnelle  établie.  Ils  doivent  jouir  d'une  grande  intégralité morale  et  d'une  compétence  reconnue.  (2)  Les  membres  du  Conseil  Constitutionnel  sont nommés par le Président de la République et désignés de la manière suivante :
+(1) Le Conseil Constitutionnel comprend onze (11) membres, désignés pour un mandat de neuf (9) ans non renouvelable. Les membres du Conseil Constitutionnel sont choisis parmi les personnalités de réputation professionnelle établie. Ils doivent jouir d'une grande intégrité morale et d'une compétence reconnue. (2) Les membres du Conseil Constitutionnel sont nommés par le Président de la République et désignés de la manière suivante :
 
 - trois, dont le Président du Conseil, par le Président de la République ;
 
@@ -466,10 +469,10 @@ Dans tout les cas de saisine, le Conseil Constitutionnel statue dans un délai d
 
 - deux par le Conseil Supérieur de la Magistrature.
 
-En sus des onze (11) membres prévus ci - dessus, les anciens Présidents de la République sont, de droit, membres à vie du Conseil Constitutionnel. Le Président du Conseil Constitutionnel a voix  prépondérante  en  cas  de  partage.  (3)  En  cas  de  décès  ou  de  démission  d'un  membre,  ou autre cause d'incapacité ou d'inadaptation dûment constatée par les organes compétents prévus par la loi, il est pourvu au remplacement de ce membre par l'autorité ou l'organe de désignation concerné. Le membre ainsi désigné et nommé achève le mandat commencé. (4) les membres du Conseil  Constitutionnel  prêtent  serment  devant  le  Parlement  réuni  en  congrès  dans  les  formes fixées par la loi. (5) les fonctions de membre du Conseil Constitutionnel sont incompatibles avec celles de membre du Gouvernement, du Parlement ou de la Cour Suprême. Les autres éléments du statut tels les incompatibilités, les obligations, les immunités et les privilèges, sont fixées par la loi.
+En sus des onze (11) membres prévus ci - dessus, les anciens Présidents de la République sont, de droit, membres à vie du Conseil Constitutionnel. Le Président du Conseil Constitutionnel a voix prépondérante en cas de partage. (3) En cas de décès ou de démission d'un membre, ou autre cause d'incapacité ou d'inadaptation dûment constatée par les organes compétents prévus par la loi, il est pourvu au remplacement de ce membre par l'autorité ou l'organe de désignation concerné. Le membre ainsi désigné et nommé achève le mandat commencé. (4) les membres du Conseil Constitutionnel prêtent serment devant le Parlement réuni en congrès dans les formes fixées par la loi. (5) les fonctions de membre du Conseil Constitutionnel sont incompatibles avec celles de membre du Gouvernement, du Parlement ou de la Cour Suprême. Les autres éléments du statut tels les incompatibilités, les obligations, les immunités et les privilèges, sont fixés par la loi.
 
 #### Art.  52 . -
-L'Organisation  et  le  fonctionnement  du  Conseil  Constitutionnel,  les  modalités  de saisine, ainsi que la procédure suivi devant lui sont fixés par la loi.
+L'Organisation et le fonctionnement du Conseil Constitutionnel, les modalités de saisine, ainsi que la procédure suivie devant lui sont fixés par la loi.
 
 [[END OF PAGE 14]]
 
@@ -489,12 +492,12 @@ L'Organisation  et  le  fonctionnement  du  Conseil  Constitutionnel,  les  moda
 ## Titre IX Du Conseil Economique Et Social
 
 #### Art.  54 . -
-il  est  créé  un  Conseil  économique  et  social  dont  la  composition, des  attributions  et l'organisation sont déterminées par la loi.
+il est créé un Conseil économique et social dont la composition, les attributions et l'organisation sont déterminées par la loi.
 
 ## Titre X Des Collectivités Territoriales Décentralisées
 
 #### Art. 55 . -
-(1) Les collectivités territoriales décentralisées de la République sont les régions et les communes. Toute autre type de collectivité territoriale décentralisée est créé par la loi. (2) les collectivités  territoriales  décentralisées  sont  des  personnes  morales  de  droit  public.  Elles jouissent  de  l'autonomie  administrative  et  financière  pour  la  gestion  des  intérêts  régionaux  et locaux. Elles s'administrent librement par des conseils élus et dans les conditions fixées par la loi. Les Conseils des collectivités territoriales décentralisées ont pour mission de promouvoir le développement économique, social, sanitaire, éducatif, culturel et sportif de ces collectivités. (3)  L'Etat  assure  la  tutelle  sur  les  collectivités  territoriales  décentralisées  dans  les  conditions fixées  par  la  loi.  (4)  L'Etat  veille  au  développement  harmonieux  de  toutes  les  collectivités territoriales décentralisées sur la base de la solidarité nationale, des potentialités régionales et de l'équilibre  inter  -  régional.  (5)  L'Organisation,  le  fonctionnement  et  le  régime  financier  des collectivités territoriales décentralisées sont déterminés par la loi. (6) Le régime des communes est déterminé par la loi.
+(1) Les collectivités territoriales décentralisées de la République sont les régions et les communes. Tout autre type de collectivité territoriale décentralisée est créé par la loi. (2) les collectivités territoriales décentralisées sont des personnes morales de droit public. Elles jouissent de l'autonomie administrative et financière pour la gestion des intérêts régionaux et locaux. Elles s'administrent librement par des conseils élus et dans les conditions fixées par la loi. Les Conseils des collectivités territoriales décentralisées ont pour mission de promouvoir le développement économique, social, sanitaire, éducatif, culturel et sportif de ces collectivités. (3) L'Etat assure la tutelle sur les collectivités territoriales décentralisées dans les conditions fixées par la loi. (4) L'Etat veille au développement harmonieux de toutes les collectivités territoriales décentralisées sur la base de la solidarité nationale, des potentialités régionales et de l'équilibre inter - régional. (5) L'Organisation, le fonctionnement et le régime financier des collectivités territoriales décentralisées sont déterminés par la loi. (6) Le régime des communes est déterminé par la loi.
 
 #### Art. 56 .-
 (1) L'Etat transfère aux régions, dans les conditions fixées par la loi, les compétences dans les matières nécessaires à leur développement économique, social, sanitaire, éducatif, culturel et sportif. (2) la loi détermine :
@@ -522,7 +525,7 @@ Le Conseil régional et Le Président du Conseil régional agissent dans le cadr
 
 - les représentants du commandement traditionnel élus par leurs pairs.
 
-Le Conseil régional doit refléter les différentes composantes sociologiques de la région. Le mode d'élection, le nombre, la proportion par catégorie, le régime des inéligibilités, les incompatibilités et des indemnités des conseillers régionaux sont fixés par la loi. (3) Le Conseil régional est présidé par une personnalité autochtone de la région élue en son sein pour la durée du mandat du Conseil. Le Président du Conseil régional est l'Exécutif de la Région. A ce titre, il est  l'interlocuteur  du  représentant  de  l'Etat.  Il  est  assisté  par  un  bureau  régional  élu  en  même temps que lui au sein du Conseil. Le bureau régional doit refléter la composition sociologique de la  région.  Les  parlementaires  de  la  région  assistent  aux  travaux  du  Conseil  régional  avec  voix consultatives.
+Le Conseil régional doit refléter les différentes composantes sociologiques de la région. Le mode d'élection, le nombre, la proportion par catégorie, le régime des inéligibilités, des incompatibilités et des indemnités des conseillers régionaux sont fixés par la loi. (3) Le Conseil régional est présidé par une personnalité autochtone de la région élue en son sein pour la durée du mandat du Conseil. Le Président du Conseil régional est l'Exécutif de la Région. A ce titre, il est l'interlocuteur du représentant de l'Etat. Il est assisté par un bureau régional élu en même temps que lui au sein du Conseil. Le bureau régional doit refléter la composition sociologique de la région. Les parlementaires de la région assistent aux travaux du Conseil régional avec voix consultative.
 
 #### Art.  58 . -
 (1)  Dans  la  région,  un  délégué  nommé  par  le  Président  de  la  République  représente l'Etat. A ce titre, il a la charge des intérêts nationaux, du contrôle administratif, du respect des lois et règlements et du maintien de l'ordre public ; il supervise et coordonne sous l'autorité du Gouvernement, les services des administrations civiles de l'Etat dans la région. (2) Il assure la tutelle de l'Etat sur la région.
@@ -536,7 +539,7 @@ Le Conseil régional doit refléter les différentes composantes sociologiques d
 
 - met en péril l'intégrité du territoire.
 
-Les autres cas de suspension sont fixés par la loi. (2) Le Conseil régional peut être dissous par le Président  de  la  République,  après  avis  du  Conseil  constitutionnel,  dans  tous  les  cas  prévus  à l'alinéa (1) ci - dessus. Les autres cas de dissolution sont fixés par la loi. (3) La substitution de plein  droit  par  l'Etat  dans  les  cas  prévus  aux  alinéas  (1)  et  (2)  ci  -  dessus  est  décidée  par  le Président de la République. (4) Les modalités d'application du présent article sont fixés par la loi.
+Les autres cas de suspension sont fixés par la loi. (2) Le Conseil régional peut être dissous par le Président de la République, après avis du Conseil constitutionnel, dans tous les cas prévus à l'alinéa (1) ci - dessus. Les autres cas de dissolution sont fixés par la loi. (3) La substitution de plein droit par l'Etat dans les cas prévus aux alinéas (1) et (2) ci - dessus est décidée par le Président de la République. (4) Les modalités d'application du présent article sont fixées par la loi.
 
 #### Art.  60 .-
 (1)  Le  Président  et  le  bureau  du  Conseil  régional  peuvent  être  suspendus  par  le Président de la République lorsque lesdits organes :
@@ -551,7 +554,7 @@ Les autres cas de suspension sont fixés par la loi. (2) Le Conseil régional pe
 
 - mettent en péril l'intégrité du territoire.
 
-Les autre cas de suspension sont fixes par la loi. (2) le Président et le bureau du Conseil régional peuvent être destitués par le Président de la République, après avis du Conseil constitutionnel, dans tous les cas prévus à l'alinéa (1) ci - dessus. Les autres cas de destitution sont prévus par la loi.
+Les autres cas de suspension sont fixés par la loi. (2) le Président et le bureau du Conseil régional peuvent être destitués par le Président de la République, après avis du Conseil constitutionnel, dans tous les cas prévus à l'alinéa (1) ci - dessus. Les autres cas de destitution sont prévus par la loi.
 
 (3) La substitution de plein droit par l'Etat dans les cas prévus aux alinéas (1) et (2) ci - dessus est décidée par le Président de la République. (4) Les modalités d'application du présent article sont fixées par la loi.
 
@@ -578,7 +581,7 @@ Les autre cas de suspension sont fixes par la loi. (2) le Président et le burea
 
 - Le Sud - Ouest.
 
-(2) Le Président de la République peut, en temps que de besoins :
+(2) Le Président de la République peut, en tant que de besoin :
 
 a-  modifier  les  dénominations  et  les  délimitations  géographiques  des  Régions  énumérées  à l'alinéa (1) ci - dessus ;
 
@@ -590,7 +593,7 @@ b-  créer  d'autres  Régions.  Dans  ce  cas,  il  leur  attribue  une  dénom
 ## Titre XI De La Révision De La Constitution
 
 #### Art. 63 . -
-(1) l'initiative de la révision de la Constitution appartient concurremment au Président de la République et au Parlement. (2) Toute proposition de révision émanant des membres du Parlement doit être signée par un tiers au moins des membres de l'une ou de l'autre chambre. (3) Le Parlement se réunit en congrès, lorsqu'il est appelé à se prononcer sur un projet ou une proposition de révision de la Constitution. Le texte est adopté à la majorité absolue des membres le composant. Le Président de la République peut demander une seconde lecture. Dans ce cas, la révision est votée à la majorité des deux tiers des membres composants le Parlement.
+(1) l'initiative de la révision de la Constitution appartient concurremment au Président de la République et au Parlement. (2) Toute proposition de révision émanant des membres du Parlement doit être signée par un tiers au moins des membres de l'une ou de l'autre chambre. (3) Le Parlement se réunit en congrès, lorsqu'il est appelé à se prononcer sur un projet ou une proposition de révision de la Constitution. Le texte est adopté à la majorité absolue des membres le composant. Le Président de la République peut demander une seconde lecture. Dans ce cas, la révision est votée à la majorité des deux tiers des membres composant le Parlement.
 
 [[END OF PAGE 17]]
 
@@ -599,7 +602,7 @@ b-  créer  d'autres  Régions.  Dans  ce  cas,  il  leur  attribue  une  dénom
 (4) le Président de la République peut décider de soumettre tout projet ou toute proposition de révision de la Constitution au Référendum. Dans ce cas, le texte est adopté à la majorité simple des suffrages exprimés.
 
 #### Art.  64 .-
-Aucune  procédure  de  révision  ne  peut  être  connue  si  elle  porte  atteinte  à  la  forme républicaine,  à  l'unité  et  à  l'intégrité  territoriale  de  l'Etat  et  aux  principes  démocratiques  qui régissent la République.
+Aucune procédure de révision ne peut être conduite si elle porte atteinte à la forme républicaine, à l'unité et à l'intégrité territoriale de l'Etat et aux principes démocratiques qui régissent la République.
 
 ## Titre XII Des Dispositions Spéciales
 
@@ -607,7 +610,7 @@ Aucune  procédure  de  révision  ne  peut  être  connue  si  elle  porte  att
 Le Préambule fait partie intégrante de la Constitution.
 
 #### Art. 66 .-
-Le Président de la République, Le Premier Ministre, les membres du Gouvernement et assimilés, Le Président et les membres du bureau de l'Assemblée Nationale, Le Président et les membres du bureau du Sénat, les députés, les sénateurs, tout détenteurs d'un mandat électif, les Secrétaires Généraux des Ministères et assimilés, les Directeurs des administrations centrales, les Directeurs Généraux des entreprises publiques et para - publiques, les Magistrats, les personnels des  administrations  chargés  de  l'assiette,  du  recouvrement  et  du  maniement  des  recettes publiques, tout gestionnaire de crédits et des biens publics, doivent faire une déclaration de leurs biens et avoirs au début et à la fin de leur mandat ou de leur fonction.
+Le Président de la République, Le Premier Ministre, les membres du Gouvernement et assimilés, Le Président et les membres du bureau de l'Assemblée Nationale, Le Président et les membres du bureau du Sénat, les députés, les sénateurs, tout détenteur d'un mandat électif, les Secrétaires Généraux des Ministères et assimilés, les Directeurs des administrations centrales, les Directeurs Généraux des entreprises publiques et para - publiques, les Magistrats, les personnels des administrations chargés de l'assiette, du recouvrement et du maniement des recettes publiques, tout gestionnaire de crédits et des biens publics, doivent faire une déclaration de leurs biens et avoirs au début et à la fin de leur mandat ou de leur fonction.
 
 Une  loi  détermine  les  autres  catégories  de  personnes  assujetties  aux  dispositions  du  présent article et en précise les modalités d'application.
 
@@ -620,7 +623,7 @@ a- Le Président de la République en exercice demeure en fonction jusqu'au term
 
 b- les députés à l'Assemblée Nationale restent en fonction jusqu'à la fin de leur mandat en cours, sous réserve de l'application des dispositions de l'article 8 alinéa (12). (3) l'Assemblée Nationale exerce  la  plénitude  du  pouvoir  législatif  et  jouit  de  l'ensemble  des  prérogatives  reconnues  au Parlement  jusqu'à  la  mise  en  place  du  Sénat.  (4)  La  Cour  Suprême  exerce  les  attributions  du Conseil Constitutionnel jusqu'à la mise en place de celui - ci. (5) L'Organisation territoriale de l'Etat reste inchangée jusqu'à la mise en place des régions.
 
-#### Art.  68.
+#### Art. 68.-
 La  Législation  résultant  des  lois  et  règlements  applicables  dans  l'Etat  fédéral  du Cameroun et dans les Etats fédérés à la date de prise d'effet de la présente Constitution reste en vigueur dans ses dispositions qui ne sont pas contraires aux stipulations de celle - ci, tant qu'elle n'aura pas été modifiée par voie législative ou réglementaire.
 
 [[END OF PAGE 18]]
