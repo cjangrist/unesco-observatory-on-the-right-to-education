@@ -1,10 +1,11 @@
 [[START OF PAGE 1]]
+GOVERNMENT OF GHANA
 
-OF INCLUSIVE EDUCATION IN GHANA
+# STANDARDS AND GUIDELINES
 
-STANDARDS AND GUIDESLINES FOR PRACTICE
+FOR PRACTICE OF INCLUSIVE EDUCATION IN GHANA
 
-1
+Ministry of Education
 
 [[END OF PAGE 1]]
 
@@ -12,7 +13,7 @@ STANDARDS AND GUIDESLINES FOR PRACTICE
 
 STANDARDS AND GUIDESLINES FOR PRACTICE OF INCLUSIVE EDUCATION IN GHANA
 
-This Implementation Plan has been developed by the Government of Ghana Ministry of Education, supported by United Nations Children's Fund (UNICEF).
+This Implementation Plan has been developed by the Government of Ghana - Ministry of Education, supported by United Nations Children's Fund (UNICEF).
 
 Design: Art Excel GH · Cover Photo: © UNICEF/GHANA 2015/SANDRINE BOHAN-JACQUOT
 
@@ -36,12 +37,6 @@ MINISTRY OF EDUCATION JUNE 2015
 
 [[START OF PAGE 4]]
 
-4
-
-OF INCLUSIVE EDUCATION IN GHANA
-
-STANDARDS AND GUIDESLINES FOR PRACTICE
-
 © UNICEF/GHANA 2011/QUARMYNE
 
 [[END OF PAGE 4]]
@@ -51,6 +46,28 @@ STANDARDS AND GUIDESLINES FOR PRACTICE
 STANDARDS AND GUIDESLINES FOR PRACTICE OF INCLUSIVE EDUCATION IN GHANA
 
 5
+
+# TABLE OF CONTENTS
+
+1.0 INTRODUCTION 6
+2.0 WHAT ARE THE STANDARDS AND GUIDELINES ABOUT? 6
+3.0 WHO ARE THE STANDARDS AND GUIDELINES FOR? 7
+4.0 STANDARD 1: PROVIDE ACCESS TO SCHOOLS 7
+ 4.1 Site Planning 7
+ 4.2 Walkways, Paths and Roads 7
+ 4.3 Ramps 8
+ 4.4 Buildings 9
+ 4.5 Doors and Doorways 10
+ 4.6 Stairways 10
+ 4.7 Handrails 11
+ 4.8 Water Closets and Toilet Compartments 13
+ 4.9 Grab Bars 13
+5.0 STANDARD 2: PROVIDING HEALTH AND SAFETY IN ALL SCHOOLS 14
+6.0 STANDARD 3: PROVIDING ALL LEARNERS OPPORTUNITIES FOR
+QUALITY LEARNING 15
+7.0 STANDARD 4: MONITOR AND CONDUCT PERIODIC REVIEW OF
+PROGRAMMES AND LEARNERS’ PROGRESS 17
+Annex: Glossary of Terms (Interpretation and Definitions) 18
 
 [[END OF PAGE 5]]
 
@@ -114,11 +131,9 @@ These guidelines are relevant to everyone involved in providing support to early
 
 - Community  organisations  and  role  players, including:
 
-- Parents,  grandparents  and  other  caregivers of learners at Early Childhood Day Care (ECD) centres and schools.
+- Parents, grandparents and other care-givers of learners at Early Childhood Day Care (ECD) centres and schools.
 
-- community organisations, e.g. nongovernmental (NGOs) and community
-
-- based  organisations  (CBOs)  directly  and indirectly linked to education.
+- community organisations, e.g. non-governmental (NGOs) and community based organisations (CBOs) directly and indirectly linked to education.
 
 - Traditional rulers, opinion leaders or individuals within the community who have contributions to make on particular issues and challenges of education.
 
@@ -138,7 +153,7 @@ To  accommodate  all  learners  including  those with disabilities each building
 
 - The  minimum  walk  way  width  shall  be 1200mm and a moderate  two  way  traffic shall be 1650mm - 1800mm.
 
-- Longitudinal walk gradient shall be 3 to 5% (30  mm  -  50  mm  in  1  meter).  The  crossslope of walkways shall not be steeper than 1:40 (See Figure 4.3.1).
+- Longitudinal walk gradient shall be 3 to 5% (30 mm - 50 mm in 1 meter). The cross-slope of walkways shall not be steeper than 1:40 (See Figure 4.3.1).
 
 - When  walks  exceed  60meters  in  length, it  is  recommended a rest area is provided adjacent to  the  walkway  at  convenient intervals  with  space  for  bench  seats.  For comfort the seat shall be between 350mm - 425mm high but not over 450 mm.
 
@@ -169,30 +184,19 @@ STANDARDS AND GUIDESLINES FOR PRACTICE OF INCLUSIVE EDUCATION IN GHANA
 - The  ramp  shall  have  a  clear  trafficable surface  not  less  than  1100mm  wide.  The cross-slope  of  ramp  runs  shall  not  be
 
 LONG DIMENSION PERPENDICULAR
-
 TO ROUTE OF TRAVEL
-
 GRATING ORIENTATION
-
 Figure 4.2.1
 
-Figure 4.2.2
-
 FRONT GUIDE WHEEL
-
 OF WHEELCHAIR
-
 SURFACE OF WALKWAY
-
-6 mm
-
-MAX.
-
-PAVER
-
 13 mm
-
 MAX.
+PAVER
+6 mm
+MAX.
+Figure 4.2.2
 
 8
 
@@ -222,49 +226,29 @@ steeper than 1:40. A cross-slope shall not be  provided  unless  absolutely  nec
 
 ### 4.4   Buildings
 
-All  school  buildings  shall  be  constructed with standard specifications for doorways, windows, ventilation, lightening etc. (Refer to  Department  of  Public  Works  Standard Electrical, Mechanical and  Architectural Guidelines for Design of Accessible Buildings. !
-
-Figure 4.3.1 Camber on Ramps & Walkways
+All school buildings shall be constructed with standard specifications for doorways, windows, ventilation, lightening etc. (Refer to Department of Public Works Standard Electrical, Mechanical and Architectural Guidelines for Design of Accessible Buildings.
 
 max. gradient 1 : 40
-
-Figure 4.3.2
+Figure 4.3.1 Camber on Ramps & Walkways
 
 Preferred width 1 200mm clear
-
 Wheelchair to pass 1 800mm clear
-
-(450 preferred)
-
 300
-
+(450 preferred)
 1 000
-
+Landing
 1 000
-
-300  (450
-
-preferred )
-
+300 (450 preferred)
 1 100
-
 10 000 max
-
 1300
-
-( 1 800 preferred )
-
+(1 800 preferred)
 10 000 max
-
-180 Degree Direction Change
-
-1300
-
 doorswing
-
 Landing
-
-Landing
+180 Degree Direction Change
+1300
+Figure 4.3.2
 
 9
 
@@ -274,6 +258,19 @@ Landing
 
 STANDARDS AND GUIDESLINES FOR PRACTICE OF INCLUSIVE EDUCATION IN GHANA
 
+Stairs ought to be supplementary to ramps
+0.60-0.70m
+0.80-0.90m
+0.15-0.20m
+0.3-0.5m
+Maximum slope 1:20
+0.05 m high for every
+1.0m long
+Level landing
+Surface of ramp
+Gentle slope of 1 in 20
+Level landing
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
 Figure 4.3.3
 
 ### 4.5 Doors and Doorways
@@ -318,89 +315,53 @@ reach range
 
 STANDARDS AND GUIDESLINES FOR PRACTICE OF INCLUSIVE EDUCATION IN GHANA
 
-depths  respectively  and  risers  shall  be between  100mm  and  175mm  in  height, while treads shall have a minimum length of  230mm  and  a  maximum  length  of 280mm, from riser to riser. Open risers are not permitted. Treads are to be stable, firm and slip-resistant. The radius at the leading edge of the tread shall be not greater than 10mm (See Figure 4.6).
+depths respectively and risers shall be between 100mm and 175mm in height, while treads shall have a minimum length of 230mm and a maximum length of 280mm, from riser to riser. Open risers are not permitted. Treads are to be stable, firm and slip-resistant. The radius at the leading edge of the tread shall be not greater than 10mm (See Figure 4.6).
 
-- Paving surfaces at the top and bottom of
+- Paving surfaces at the top and bottom of all flights of stairs or steps shall include a cane-detectable and textured walking surface, a minimum of 915mm deep, (forward of the first riser and continuous from the top of stair), as an early warning of an impending level change to persons with visual limitations (See Figure 4.6).
 
-- all  flights  of  stairs  or  steps  shall  include a  cane-detectable  and  textured  walking surface, a minimum  of  915mm  deep, (forward  of  the  first  riser  and  continuous from the top of stair), as an early warning of  an  impending  level  change  to  persons with visual limitations (See Figure 4.6).
+- Outdoor stairs shall be so designed so that water will not accumulate on walking surfaces.
 
-- Outdoor  stairs  shall  be  so  designed  so that water will not accumulate on walking surfaces.
-
-- 900-1000mm  above  stair  landings.  This height  shall  remain  consistent  along  the length of the stair / ramp.
-
-- Handrails shall have circular cross-section with  an  outside  diameter  between  4060mm. If the cross-section is not circular, it shall have a perimeter dimension between 100-150mm and a horizontal cross-section dimension of 40-60mm in the top 40 % of the cross section of the rail (see figure 4.7.1b).
-
-- The  gripping  surface  of  handrails  shall be  continuous,  without  interruption  -  the exception being handrail brackets or balusters  attached  to  the  bottom  surface
-
-Figure 4.6
-
-Handrail both sides, continuous and
-
-grippable ,  45mm /50mm dia. . in a distinct
-
-contrasting colour.
-
-Textured warning surface at head
-
-to raised. Good lighting important
-
+Handrail both sides, continuous and grippable, 45mm /50mm dia. . in a distinct contrasting colour.
+Textured warning surface at head of flight. Recessed finish preferred to raised. Good lighting important
 Open risers not recommended.
-
 300
-
 min
-
 230
-
 min
-
 915
-
 300
-
 min
-
 900
-
 min. clear width and
-
 depth equal to width
-
-1800max.  unobstructed
-
+of flight at least
+1800max. unobstructed
 175
-
 max
-
-above
-
-nosing
-
-line
-
 850 - 950
-
+above nosing
+line
 All stair nosing distinguishable by
-
+integrated contrasting finishes.
 Return rail to wall or close end.
-
 1500
-
-max,  rise
-
+max, rise
+per flight
 900 - 1000
-
 nominal
-
 175
-
 max
+Figure 4.6
 
 ### 4.7    Handrails
 
-- For  persons  with  limited  walking  abilities, visually impairments and intellectual disabilities,  it  is  essential  that  there  are grip-friendly  handrails  (marking  the  edge or border of the stairway) to support themselves.
+- For persons with limited walking abilities, visually impairments and intellectual disabilities, it is essential that there are grip-friendly handrails (marking the edge or border of the stairway) to support themselves.
 
-- Handrails  are to  be  provided  on  both sides  of  stairs  and  ramps,  and  are  to  be continuous  along  the  full  length  of  each flight or ramp run. The top of the gripping surface shall be at a height between 850950mm,  vertically  above  stair  nosings  or 850-1000mm  above  ramp  surfaces  and
+- Handrails are to be provided on both sides of stairs and ramps, and are to be continuous along the full length of each flight or ramp run. The top of the gripping surface shall be at a height between 850-950mm, vertically above stair nosings or 850-1000mm above ramp surfaces and 900-1000mm above stair landings. This height shall remain consistent along the length of the stair / ramp.
+
+- Handrails shall have circular cross-section with an outside diameter between 40-60mm. If the cross-section is not circular, it shall have a perimeter dimension between 100-150mm and a horizontal cross-section dimension of 40-60mm in the top 40 % of the cross section of the rail (see figure 4.7.1b).
+
+- The gripping surface of handrails shall be continuous, without interruption - the exception being handrail brackets or balusters attached to the bottom surface
 
 11
 
@@ -410,55 +371,34 @@ max
 
 STANDARDS AND GUIDESLINES FOR PRACTICE OF INCLUSIVE EDUCATION IN GHANA
 
-- of the handrail. The surface of the handrail and wall or any other surface adjacent to them shall be free of any sharp or abrasive elements,  and  the  handrail  shall  be  fixed firmly and not rotate within its supports or brackets.
+of the handrail. The surface of the handrail and wall or any other surface adjacent to them shall be free of any sharp or abrasive elements, and the handrail shall be fixed firmly and not rotate within its supports or brackets.
 
-- Handrails  shall  extend  beyond  the  first and  last  stair  risers  on  each  flight  and start  end  and  landing  lines  of  ramp  runs, except  on  the  inside  turn  of  switchback or  dogleg  staircase  and  ramps.  Top  and bottom extensions of a ramp or staircase are  to  be  300mm  minimum  at  a  height between  900  and  1000mm  on  staircases
+- Handrails shall extend beyond the first and last stair risers on each flight and start end and landing lines of ramp runs, except on the inside turn of switchback or dogleg staircase and ramps. Top and bottom extensions of a ramp or staircase are to be 300mm minimum at a height between 900 and 1000mm on staircases and 850mm - 1000mm on ramps. The handrail shall return to the wall, guard or the walking surface or shall be continuous to the handrail of an adjacent ramp run (see figure 4.7.1a).
 
-- and  850mm  -  1000mm  on  ramps.  The handrail  shall  return  to  the  wall,  guard  or the walking surface or shall be continuous to  the  handrail  of  an  adjacent  ramp  run (see figure 4.7.1a).
+- There should be double handrails at different heights i.e. one at a height of 0.60m - 0.70m from the ground level for the use of the children and for the disabled and, one at a height of 0.80m - 0.90m for the use of other users (See figure 4.7.2).
 
-- There should be double handrails at different  heights  i.e.  one  at  a  height  of 0.60m - 0.70m from the ground level for the use of the children and for the disabled and, one at a height of 0.80m - 0.90m for the use of other users (See figure 4.7.2).
-
-- It is recommended that the handrail is made of  a  metal  or  any  other  approved  strong and sturdy material. The handrail surface shall be neither too smooth nor rough.
-
-Figure 4.7.1 Dimensions and Profiles of Typical Handrails
+- It is recommended that the handrail is made of a metal or any other approved strong and sturdy material. The handrail surface shall be neither too smooth nor rough.
 
 Smooth transition and
-
 level rest area after every
-
 10 000mm run of ramp and at
-
 direction change
-
 300
-
 300
-
 900 - 1 000
-
-1 200
-
-ramp
-
 walkway
-
+ramp
+1 200
 a) Elevation of handrail
-
 40
-
 60
-
 max
-
 40
-
 60
-
 max
-
 r 15
-
 b) Typical profiles of handrail
+Figure 4.7.1 Dimensions and Profiles of Typical Handrails
 
 12
 
@@ -468,19 +408,13 @@ b) Typical profiles of handrail
 
 STANDARDS AND GUIDESLINES FOR PRACTICE OF INCLUSIVE EDUCATION IN GHANA
 
-Figure 4.7.2
-
 0.8-0.9m
-
-Run min. 0,30m
-
-Rise max. 0,15m
-
-0,30m
-
 0,8-0,9m
-
 0,6-0,7m
+0,30m
+Run min. 0,30m
+Rise max. 0,15m
+Figure 4.7.2
 
 ### 4.8   Water Closets and Toilet Compartments
 
@@ -490,15 +424,13 @@ Rise max. 0,15m
 
 - The  preferred  toilet  facility  is  a  separate unisex WC  facility, incorporating water closet and hand-washing basin. The dimensions  of  this  WC  compartment  are critical.  The  size  of  a  cubicle  shall  be  at least  1700mm  x  1600mm,  with  a  door that shall open outwards or a sliding door. An  inward-opening  door  can  be  provided where there is a 1200mm internal diameter clear of all fittings, fixtures and the line of the  door  swing.  The  door  shall  be  open from the outside in case of an emergency.
 
-- Toilet paper dispenser shall be mounted so they are reachable from a seated position and  capable  of  being  operated  with  one hand without  binding  and  located  so  that
-
-- the  use  of  the  toilet  and  grab  bar  is  not obstructed (traditional roller to be used as an option).
+- Toilet paper dispenser shall be mounted so they are reachable from a seated position and capable of being operated with one hand without binding and located so that the use of the toilet and grab bar is not obstructed (traditional roller to be used as an option).
 
 - Where soap dispensers are provided, they shall be mounted within reach of all users, no higher than 1200 mm from floor.
 
 ### 4.9 Grab Bars
 
-- All grab bars shall be constructed of stainless steel or other suitable noncorrosive metal tube with an outside diameter of 32mm, with a suitable brushed, polished  or  epoxy  powder  coated  finish that  can  be  easily  cleaned.  The  correct back grab bar must be selected for external cisterns, flush-valve systems or under wall cisterns. The back and side grab-rail may be an integral unit. The cranked grab bar must be installed in the correct orientation as shown on the respective elevation (see figure 4.9)
+- All grab bars shall be constructed of stainless steel or other suitable non-corrosive metal tube with an outside diameter of 32mm, with a suitable brushed, polished or epoxy powder coated finish that can be easily cleaned. The correct back grab bar must be selected for external cisterns, flush-valve systems or under wall cisterns. The back and side grab-rail may be an integral unit. The cranked grab bar must be installed in the correct orientation as shown on the respective elevation (see figure 4.9)
 
 - Grab bars shall be fixed to the wall such that they can support a vertical force of 1 Kilo Newton at any point on the grab bar.
 
@@ -508,63 +440,38 @@ Rise max. 0,15m
 
 [[START OF PAGE 14]]
 
-STANDARDS AND GUIDESLINES FOR PRACTICE OF INCLUSIVE EDUCATION IN GHAN
-
-Figure 4.9 Standard Grab Bar Details
-
-45
-
-Side Elevation
-
-Front Elevation
-
-750
-
-750
-
-206
-
-80
-
-750
-
-750
-
-Side Elevation
-
-Front Elevation
-
-Side Elevation
-
-Front Elevation
-
-750
-
-c) Dog - leg side rail
+STANDARDS AND GUIDESLINES FOR PRACTICE OF INCLUSIVE EDUCATION IN GHANA
 
 a) Flush - valve back rail
+32dia.
+750
+80
+Side Elevation
+750
+Front Elevation
 
 b) Cistern back rail
-
-300
-
-45
-
-300
-
-45
-
-300
-
 32dia.
+750
+206
+Side Elevation
+750
+Front Elevation
 
+c) Dog - leg side rail
+750
 80
-
 32dia.
-
+Side Elevation
 32dia.
+300
+300
+300
+45
+45
+Front Elevation
 
-32dia.
+Figure 4.9 Standard Grab Bar Details
 
 ## 5.0  Standard 2: Providing Health and Safety In all School
 
@@ -660,7 +567,7 @@ fieldtrips, direct-teaching, differentiated teaching, individual teaching, peer 
 
 - Teachers should provide appropriate and adapted games and recreational equipment such as bell balls, show down, soft ball, among others.
 
-- T eachers  should  provide  additional  time for learners with SEN to complete learning activities/tasks and assignment.
+- Teachers should provide additional time for learners with SEN to complete learning activities/tasks and assignment.
 
 - Teachers should provide learnerswith SEN opportunities to  participate in all activities, bothwithin and without the schools.
 
@@ -668,7 +575,7 @@ fieldtrips, direct-teaching, differentiated teaching, individual teaching, peer 
 
 - The focus on Learners should consider the following:
 
-- T eachers shall screen all learners for special educational needs. Families should be invited to witness and  learn about the process andimportance of screening and earlyintervention  of    special  educational needs.
+- Teachers shall screen all learners for special educational needs. Families should be invited to witness and learn about the process andimportance of screening and earlyintervention of special educational needs.
 
 - Teachers shall refer learners suspected of having special educational needs             for further  assessment  by  District  Inclusive Education  Team  (DIET)  and  later  by  the District Assessment Team (DAT).
 
@@ -690,7 +597,7 @@ fieldtrips, direct-teaching, differentiated teaching, individual teaching, peer 
 
 - Every  school  should  provide    continuous in-service training for the teachers/staff.
 
-- Teachers/staff who provide servicesoutside the normal working hours should be remunerated- additional  time for examination, remedial teaching.
+- Teachers/staff who provide services-outside the normal working hours should be remunerated- additional time for examination, remedial teaching.
 
 - All schools should have qualified supporting staff (Attendants/Learning support assistants) for lower primary classes (KG - P3).
 
@@ -722,7 +629,7 @@ STANDARDS AND GUIDESLINES FOR PRACTICE OF INCLUSIVE EDUCATION IN GHANA
 
 ### Guidelines
 
-- Classroom monitoring shall be a continuous activity of every school and diverse means (e.g. observation, projects, pen and paperbased, etc.) shall be adopted to assess and document pupils/learners' performance.
+- Classroom monitoring shall be a continuous activity of every school and diverse means (e.g. observation, projects, pen and paper-based, etc.) shall be adopted to assess and document pupils/learners' performance.
 
 - The school based assessment shall include IEP.
 
@@ -816,7 +723,7 @@ Walkway - The front walk of a house, leading from the door to the sidewalk or ro
 
 STANDARDS AND GUIDESLINES FOR PRACTICE OF INCLUSIVE EDUCATION IN GHANA
 
-This Implementation Plan has been developed by the Government of Ghana Ministry of Education, supported by United Nations Children's Fund (UNICEF).
+This Implementation Plan has been developed by the Government of Ghana - Ministry of Education, supported by United Nations Children's Fund (UNICEF).
 
 19
 
@@ -824,15 +731,10 @@ This Implementation Plan has been developed by the Government of Ghana Ministry 
 
 [[START OF PAGE 20]]
 
-20
-
-OF INCLUSIVE EDUCATION IN GHANA
-
-STANDARDS AND GUIDESLINES FOR PRACTICE
-
 # STANDARDS AND GUIDELINES
 
-FOR PRACTICE OF INCLUSIVE EDUCATION IN GHANA
+FOR PRACTICE OF
+INCLUSIVE EDUCATION IN GHANA
 
 GOVERNMENT OF GHANA
 
