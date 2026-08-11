@@ -12,7 +12,7 @@ Subchefia para Assuntos Jurídicos
 
 Dispõe sobre a educação  especial, o  atendimento educacional especializado e dá outras providências.
 
-A PRESIDENTA DA REPÚBLICA , no uso das atribuições que lhe confere o art. 84, incisos IV e VI, alínea 'a', da Constituição, e tendo em vista o disposto no art. 208, inciso III, da Constituição, arts. 58 a 60 da Lei nº 9.394, de 20 de dezembro de 1996, art. 9º , § 2º , da Lei nº 11.494, de 20 de junho de 2007, art. 24 da Convenção sobre os Direitos das Pessoas com Deficiência e seu Protocolo Facultativo, aprovados por meio do Decreto Legislativo nº 186, de 9 de julho de 2008, com status de emenda constitucional, e promulgados pelo Decreto nº 6.949, de 25 de agosto de 2009,
+A PRESIDENTA DA REPÚBLICA , no uso das atribuições que lhe confere o art. 84, incisos IV e VI, alínea “a”, da Constituição, e tendo em vista o disposto no art. 208, inciso III, da Constituição, arts. 58 a 60 da Lei nº 9.394, de 20 de dezembro de 1996, art. 9º , § 2º , da Lei nº 11.494, de 20 de junho de 2007, art. 24 da Convenção sobre os Direitos das Pessoas com Deficiência e seu Protocolo Facultativo, aprovados por meio do Decreto Legislativo nº 186, de 9 de julho de 2008, com status de emenda constitucional, e promulgados pelo Decreto nº 6.949, de 25 de agosto de 2009,
 
 DECRETA:
 
@@ -121,7 +121,7 @@ O Ministério da Educação realizará o acompanhamento e o monitoramento do ace
 ## Art. 8º
 O Decreto nº 6.253, de 2007, passa a vigorar com as seguintes alterações:
 
-### 'Art.  9º-A.
+### “Art. 9º-A.
 Para  efeito  da  distribuição  dos  recursos  do  FUNDEB,  será  admitida  a  dupla matrícula  dos  estudantes  da  educação  regular  da  rede  pública  que  recebem  atendimento educacional especializado.
 
 www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/decreto/d7611.htm
@@ -140,16 +140,16 @@ Decreto nº 7611
 A dupla matrícula implica o cômputo do estudante tanto na educação regular da rede pública, quanto no atendimento educacional especializado.
 
 #### § 2º
-O atendimento educacional especializado aos estudantes da rede pública de ensino regular poderá ser oferecido pelos sistemas públicos de ensino ou por instituições comunitárias,  confessionais  ou  filantrópicas  sem  fins  lucrativos,  com  atuação  exclusiva  na educação  especial,  conveniadas  com  o  Poder  Executivo  competente,  sem  prejuízo  do disposto no art. 14.' (NR)
+O atendimento educacional especializado aos estudantes da rede pública de ensino regular poderá ser oferecido pelos sistemas públicos de ensino ou por instituições comunitárias, confessionais ou filantrópicas sem fins lucrativos, com atuação exclusiva na educação especial, conveniadas com o Poder Executivo competente, sem prejuízo do disposto no art. 14.” (NR)
 
-### 'Art.  14.
+### “Art. 14.
 Admitir-se-á,  para  efeito  da  distribuição  dos  recursos  do  FUNDEB,  o  cômputo das  matrículas  efetivadas  na  educação  especial  oferecida  por  instituições  comunitárias, confessionais  ou  filantrópicas  sem  fins  lucrativos,  com  atuação  exclusiva  na  educação especial, conveniadas com o Poder Executivo competente.
 
 #### §  1º
 Serão  consideradas,  para  a  educação  especial,  as  matrículas  na  rede  regular  de ensino,  em  classes  comuns  ou  em  classes  especiais  de  escolas  regulares,  e  em  escolas especiais ou especializadas.
 
 #### § 2º
-O credenciamento perante o órgão competente do sistema de ensino, na forma do art. 10, inciso IV e parágrafo único, e art. 11, inciso IV, da Lei nº 9.394, de 1996, depende de aprovação de projeto pedagógico.' (NR)
+O credenciamento perante o órgão competente do sistema de ensino, na forma do art. 10, inciso IV e parágrafo único, e art. 11, inciso IV, da Lei nº 9.394, de 1996, depende de aprovação de projeto pedagógico.” (NR)
 
 ## Art. 9º
 As despesas decorrentes da execução das disposições constantes deste Decreto correrão por conta das dotações próprias consignadas ao Ministério da Educação.
