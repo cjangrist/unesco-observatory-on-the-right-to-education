@@ -1,12 +1,12 @@
 [[START OF PAGE 1]]
 
-<Tit l e >   L a w   o n   t h e   e l e m e n t a r y   s c h o o l     < / T i t l e >
+<Title> Law on the elementary school </Title>
 
-<META name="keywords" content=" SL O , ENL  , T04">
+<META name="description" content=" ">
 
-<META name="description" cont e nt = "   " >
+<META name="keywords" content=" SLO , ENL , T04">
 
-<!-- N O S E A R C H S T A R T - - >
+<!--NOSEARCHSTART-->
 
 # Law on the Elementary School
 
@@ -34,7 +34,7 @@ The goals to be achieved by elementary education are:
 
 - to  foster  literacy  and  the  competency  to  understand,  communicate  and  express  oneself  in  the Slovene language and, in the areas defined as ethnically mixed, also in the Italian and Hungarian language, respectively;
 
-- to promote the awareness of individual s integrity;
+- to promote the awareness of individualís integrity;
 
 - to  foster  the  feeling  of  citizenship  and  national  identity  as  well  as  the  knowledge  of  Slovene history and culture;
 
@@ -48,11 +48,11 @@ The goals to be achieved by elementary education are:
 
 - to foster and preserve our own cultural tradition;
 
-- to enable pupils  personal development according to their abilities and the principles of personal development;
-
 - to learn about other cultures and foreign languages;
 
-- to foster pupils  talents and teach them to understand the works of art and express themselves artistically;
+- to enable pupilsí personal development according to their abilities and the principles of personal development;
+
+- to foster pupilsí talents and teach them to understand the works of art and express themselves artistically;
 
 - to  create  and  promote  a  healthy  way  of  life  and  a  responsible  attitude  towards  the  natural environment.
 
@@ -268,7 +268,7 @@ Private schools shall determine the elementary school curriculum in accordance w
 
 Private elementary schools shall offer instruction in the following compulsory subjects: the Slovene language  and  the  Italian  or  Hungarian  languages  in  ethnically  mixed  areas,  mathematics,  foreign language, history, ethics and society, physical education, at least one natural science subject, at least one social science subject, and at lest one subject in the field of arts.
 
-Notwithstanding the stipulations of the preceding paragraph of this Article, private schools offering instruction in compliance with special educational principles (Steiner, Decroly, Montessori, etc.) may design the elementary school curriculum according to those principles so as to provide the minimum knowledge enabling pupils  completion of elementary education.
+Notwithstanding the stipulations of the preceding paragraph of this Article, private schools offering instruction in compliance with special educational principles (Steiner, Decroly, Montessori, etc.) may design the elementary school curriculum according to those principles so as to provide the minimum knowledge enabling pupilsí completion of elementary education.
 
 5
 
@@ -296,7 +296,7 @@ The curricula of private schools shall guarantee that, in the subjects of paragr
 
 #### Article 31 (Annual Work Programs)
 
-Annual work programs shall  set  forth  the  contents,  scope  and  schedule  of  educational  and  other activities according to the time allocation documents and syllabi as well as the contents, scope and schedule  of  extracurricular  and  other  activities  carried  out  by  the  school.  The  activities  of  school counselors  and  other  support  services,  school  libraries,  school-community  relations,  the  scope  of school activities providing a healthy development of pupils, forms of cooperation with parents, inservice  education  and  training  of  teachers  and  other  staff,  cooperation  with  higher  education institutions  offering  initial  teacher  training,  research  institutions,  educational  support  services  and counseling centers, cooperation with outside specialists, and  other tasks necessary for the implementation of the elementary school curriculum.
+Annual work programs shall set forth the contents, scope and schedule of educational and other activities according to the time allocation documents and syllabi as well as the contents, scope and schedule of extracurricular and other activities carried out by the school. The activities of school counselors and other support services, school libraries, school-community relations, the scope of school activities providing a healthy development of pupils, forms of cooperation with parents, in-service education and training of teachers and other staff, cooperation with higher education institutions offering initial teacher training, research institutions, educational support services and counseling centers, cooperation with outside specialists, and other tasks necessary for the implementation of the elementary school curriculum.
 
 Annual work programs shall be adopted by the councils of elementary schools in compliance with this Act and other legislation by the end of September of each school year at the latest.
 
@@ -304,7 +304,7 @@ Annual work programs shall be adopted by the councils of elementary schools in c
 
 (School Presentation Material)
 
-Elementary  schools  shall  present  pupils    rights  and  duties,  characteristic  elements  of  the  school curriculum and work organization to pupils and parents in a special publication.
+Elementary schools shall present pupilsí rights and duties, characteristic elements of the school curriculum and work organization to pupils and parents in a special publication.
 
 The compulsory parts of the publication shall be determined by the minister having jurisdiction over education (hereinafter: minister).
 
@@ -418,7 +418,7 @@ Provisions of Articles 33, 36, 37 and 38 with the exception of paragraph eight o
 
 (Instruction by Levels of Difficulty)
 
-In the first, second and third grade, teachers shall differentiate their work with pupils according to the pupils  aptitudes (internal differentiation).
+In the first, second and third grade, teachers shall differentiate their work with pupils according to the pupilsí aptitudes (internal differentiation).
 
 In the fourth, fifth, sixth and seventh grade, the work in class shall be organized as basic instruction and instruction at a higher level of difficulty, whereby the latter may be offered only in mathematics, Slovene and foreign languages comprising one fourth of the periods allocated to those subjects at the most (flexible differentiation).
 
@@ -468,31 +468,31 @@ Children shall be enrolled in the first grade of elementary school of the next s
 
 Parents shall enroll children whose sixth birthday occurs in the calendar year of their school entry into the first grade of elementary school.
 
-Upon the proposal by the parents, health officers or assessment committee, the beginning of a child s schooling may be postponed for a year if it is assessed that the child is not ready to start school.
+Upon the proposal by the parents, health officers or assessment committee, the beginning of a childís schooling may be postponed for a year if it is assessed that the child is not ready to start school.
 
-#### Article 46 (Assessment of Child s Readiness to Start School)
+#### Article 46 (Assessment of Childís Readiness to Start School)
 
-If parents so choose, a child s readiness to start school may be assessed when enrolling him/her into elementary school.
+If parents so choose, a childís readiness to start school may be assessed when enrolling him/her into elementary school.
 
-If the parents propose that the beginning of their child s schooling be postponed because they believe that  the  child  is  not  ready  for  school  or  if  such  postponement  is  proposed  by  health  officers,  the assessment of child s readiness to start school shall be compulsory.
+If the parents propose that the beginning of their childís schooling be postponed because they believe that the child is not ready for school or if such postponement is proposed by health officers, the assessment of childís readiness to start school shall be compulsory.
 
-The child s readiness to start school shall be assessed by a committee appointed by the principal. The committee shall consist of the school s medical doctor, counselor and kindergarten or other teacher.
+The childís readiness to start school shall be assessed by a committee appointed by the principal. The committee shall consist of the schoolís medical doctor, counselor and kindergarten or other teacher.
 
 The parents shall be informed about the findings of the committee at least three months before the beginning of classes.
 
-An  appeal  of  the  decision  of  the  committee  of  paragraph  three  may  be  filed  with  a  committee appointed by the minister.
+An appeal of the decision of the committee of paragraph three may be filed with a committee appointed by the minister.
 
 #### Article 47 (Postponement of Schooling)
 
-During the school year, the schooling of a first grader may be postponed for a year for medical or other  reasons  upon  the  proposal  by  school  counselors,  school  health  officers  or  the  assessment committee and in agreement with the child s parents.
+During the school year, the schooling of a first grader may be postponed for a year for medical or other reasons upon the proposal by school counselors, school health officers or the assessment committee and in agreement with the childís parents.
 
-The decision concerning the postponement of schooling shall be made by a committee appointed by the  principal.  It  shall  consist  of  the  school  s  medical  doctor,  psychologist,  specialist  in  pedagogy, kindergarten or other teacher.
+The decision concerning the postponement of schooling shall be made by a committee appointed by the principal. It shall consist of the schoolís medical doctor, psychologist, specialist in pedagogy, kindergarten or other teacher.
 
 An appeal of the decision of the committee of the preceding paragraph may be filed with a committee appointed by the minister.
 
 #### Article 48 (School District)
 
-Parents  have  the  right  to  enroll  their  child  in  a  public  elementary  or  private  elementary  school operating on the basis of a concession located in the school district of their permanent or temporary residence; the public elementary school or the private elementary school with a concession located in that school district is required to enroll the child if the parents so choose. Parents may enroll the child into another elementary school upon that school s consent.
+Parents have the right to enroll their child in a public elementary or private elementary school operating on the basis of a concession located in the school district of their permanent or temporary residence; the public elementary school or the private elementary school with a concession located in that school district is required to enroll the child if the parents so choose. Parents may enroll the child into another elementary school upon that schoolís consent.
 
 10
 
@@ -512,7 +512,7 @@ The stipulations of the first paragraph of this Article do not apply to private 
 
 (Children with Special Needs)
 
-Parents have the right to enroll their child with special needs of the first paragraph of Article 12 of this  Act  in  the  elementary  school  in  the  school  district  of  the  child  s  permanent  residence  unless another elementary school has been assigned as appropriate for the child s schooling by the binding statement of the child s special educational needs issued by the appropriate local education authority because the school in their school district does not meet the requirements for the special educational provision.
+Parents have the right to enroll their child with special needs of the first paragraph of Article 12 of this Act in the elementary school in the school district of the childís permanent residence unless another elementary school has been assigned as appropriate for the childís schooling by the binding statement of the childís special educational needs issued by the appropriate local education authority because the school in their school district does not meet the requirements for the special educational provision.
 
 ## IV. RIGHTS AND DUTIES OF ELEMENTARY SCHOOL PUPILS
 
@@ -540,7 +540,7 @@ For medical reasons, pupils may be excused from participating in various educati
 
 (Absence)
 
-Parents shall notify the school of the reasons for pupil s absence from classes in each individual case.
+Parents shall notify the school of the reasons for pupilís absence from classes in each individual case.
 
 11
 
@@ -558,11 +558,11 @@ Elementary school pupils may not be expelled from school as long as they are of 
 
 If it is necessary for the reasons of learning or education, the elementary school may transfer a pupil to another school if the parents agree or require it and the other school gives its consent.
 
-If  the  school cannot provide a possibility for a pupil s transfer, the decision shall be made by the committee appointed by the minister.
+If the school cannot provide a possibility for a pupilís transfer, the decision shall be made by the committee appointed by the minister.
 
 Before making the decision on the transfer of the pupil, the committee shall obtain the opinion of the parents and the principal of the elementary school which the pupil should be transferred to.
 
-The committee s decision shall be binding.
+The committeeís decision shall be binding.
 
 Children with special needs of the first paragraph of Article 12 of this Act may be transferred to another school on the basis of the statement of their special educational needs.
 
@@ -570,7 +570,7 @@ Children with special needs of the first paragraph of Article 12 of this Act may
 
 Pupils not completing elementary education in nine years may continue to attend school for another two years and thus keep their pupil status.
 
-Notwithstanding the stipulations of the first paragraph of this Article, the principal, upon the proposal of the school s teaching staff, may decide during or at the end of the school year that the pupils of the first paragraph of this Article who disturb the educational process by their inappropriate attitude are no longer allowed to attend the elementary school.
+Notwithstanding the stipulations of the first paragraph of this Article, the principal, upon the proposal of the schoolís teaching staff, may decide during or at the end of the school year that the pupils of the first paragraph of this Article who disturb the educational process by their inappropriate attitude are no longer allowed to attend the elementary school.
 
 The pupils of the first paragraph of this Article shall keep their pupil status even if they attend adult education courses.
 
@@ -578,7 +578,7 @@ The pupils of the first paragraph of this Article shall keep their pupil status 
 
 Pupils shall be eligible for free transportation if their home is more than four kilometers from the elementary school.
 
-Regardless of the distance between their home and the elementary school, pupils shall be eligible for free transportation in the first grade; pupils in other grades shall be eligible if the road traffic accident prevention authorities state that the pupils  safety is at risk on their way to school.
+Regardless of the distance between their home and the elementary school, pupils shall be eligible for free transportation in the first grade; pupils in other grades shall be eligible if the road traffic accident prevention authorities state that the pupilsí safety is at risk on their way to school.
 
 12
 
@@ -608,9 +608,9 @@ Pupils excelling in knowledge or other activities shall receive school prizes an
 
 #### Article 59
 
-(Statutory Instrument on Pupils  Rights and Duties)
+(Statutory Instrument on Pupilsí Rights and Duties)
 
-Pupils  rights and duties, the procedure for the implementation of rights, awards and disciplinary actions shall be in greater detail determined by the minister.
+Pupilsí rights and duties, the procedure for the implementation of rights, awards and disciplinary actions shall be in greater detail determined by the minister.
 
 #### Article 60 (Private Schools)
 
@@ -622,13 +622,13 @@ The stipulations of Articles 58 and 59 of this Act shall not apply to private sc
 
 #### Article 61 (Grading System)
 
-In elementary schools, pupils  knowledge shall be graded by using descriptive or numerical grades.
+In elementary schools, pupilsí knowledge shall be graded by using descriptive or numerical grades.
 
-In the first tier of elementary school, pupils  knowledge in all subjects shall be graded descriptively.
+In the first tier of elementary school, pupilsí knowledge in all subjects shall be graded descriptively.
 
-In  the  second  tier  of  elementary  school,  pupils    knowledge  in  all  subjects  shall  be  graded  by numerical and descriptive grades.
+In the second tier of elementary school, pupilsí knowledge in all subjects shall be graded by numerical and descriptive grades.
 
-In the third tier of elementary school, pupils  knowledge shall be graded by numerical grades.
+In the third tier of elementary school, pupilsí knowledge shall be graded by numerical grades.
 
 13
 
@@ -646,29 +646,29 @@ Pupils shall be informed about the grade awarded.
 
 (Informing Pupils about Their Achievement)
 
-At the end of each assessment period, the elementary school shall send a written information on pupil s scholastic achievement to the parents.
+At the end of each assessment period, the elementary school shall send a written information on pupilís scholastic achievement to the parents.
 
-In  the  first  grade  of  elementary  school,  the  information  of  parents  about  pupil  s  scholastic achievement may be oral.
+In the first grade of elementary school, the information of parents about pupilís scholastic achievement may be oral.
 
-During the school year, reports of pupils  progress shall be sent to their parents. At the end of the year, pupils shall receive certificates stating the grades in individual subjects and the grade for the total achievement.
+During the school year, reports of pupilsí progress shall be sent to their parents. At the end of the year, pupils shall receive certificates stating the grades in individual subjects and the grade for the total achievement.
 
 #### Article 64
 
 (Assessment of Knowledge at the End of Tiers)
 
-At the  end  of  tiers,  pupils    knowledge  shall  be  assessed  by  national  examinations  testing  pupils achievement of minimum standards of education.
+At the end of tiers, pupilsí knowledge shall be assessed by national examinations testing pupilsí achievement of minimum standards of education.
 
-At the end of the first tier, pupils  knowledge of the Slovene language and mathematics shall be assessed.
+At the end of the first tier, pupilsí knowledge of the Slovene language and mathematics shall be assessed.
 
-At the end of the second tier, pupils  knowledge of the Slovene language, mathematics and foreign language shall be assessed.
+At the end of the second tier, pupilsí knowledge of the Slovene language, mathematics and foreign language shall be assessed.
 
-At  the  end  of  the  first  and  second  tier,  pupils    knowledge  shall  be  assessed  according  to  the standardized assessment procedure by elementary schools themselves. Assessment results shall be an additional information on pupils  achievement.
+At the end of the first and second tier, pupilsí knowledge shall be assessed according to the standardized assessment procedure by elementary schools themselves. Assessment results shall be an additional information on pupilsí achievement.
 
-At  the  end  of  the  third  tier,  the  school  shall  assess  pupils    knowledge  in  the  Slovene  language, mathematics,  foreign  language  and  two  compulsory  subjects  (hereinafter:  final  assessment  of knowledge) according to the standardized procedure and in cooperation with external examiners.
+At the end of the third tier, the school shall assess pupilsí knowledge in the Slovene language, mathematics, foreign language and two compulsory subjects (hereinafter: final assessment of knowledge) according to the standardized procedure and in cooperation with external examiners.
 
 The two compulsory subjects, one of which shall be from the field of natural and the other from the field of social sciences, shall be selected by each pupil.
 
-Notwithstanding the stipulations of the second, third and fifth paragraph of this Article, in ethnically mixed areas, pupils  knowledge in:
+Notwithstanding the stipulations of the second, third and fifth paragraph of this Article, in ethnically mixed areas, pupilsí knowledge in:
 
 - the Slovene or Italian and Hungarian language, respectively, and mathematics shall be assessed at the end of the first tier;
 
@@ -712,9 +712,9 @@ If a pupil and parents believe that the pupil has been awarded a wrong grade at 
 
 The principal shall appoint a committee within three days after the receipt of the complaint at the latest. At least one of the committee members shall not be the school employee.
 
-If the committee states that the grade awarded at the end of classes in a school year is inappropriate, the student shall be graded anew. The committee s grade shall be binding.
+If the committee states that the grade awarded at the end of classes in a school year is inappropriate, the student shall be graded anew. The committeeís grade shall be binding.
 
-If  the  committee states that an orthographic or computational mistake or a mistake in the grading method is made during final assessment, the assessment shall be repeated. The committee s decision shall be binding.
+If the committee states that an orthographic or computational mistake or a mistake in the grading method is made during final assessment, the assessment shall be repeated. The committeeís decision shall be binding.
 
 ### 3) Advancement to a Higher Class Standing
 
@@ -766,13 +766,13 @@ Pupils  shall  be  deemed  to  succeed  at  the  final  assessment  of  knowledg
 
 Pupils who in one of the subjects taken at the final assessment receive at least 80% of the points required for a positive grade in that subject shall be awarded a positive grade in that subject if:
 
-- they have positive grades in all subjects of the ninth grade and the mark  Good  in at least one compulsory or elective subject at the end of the ninth grade; or
+- they have positive grades in all subjects of the ninth grade and the mark ìGoodî in at least one compulsory or elective subject at the end of the ninth grade; or
 
-- if they receive positive grades in other subjects taken at the final assessment and at least one of them is at least the grade  Good .
+- if they receive positive grades in other subjects taken at the final assessment and at least one of them is at least the grade ìGoodî.
 
 Pupils who in two of the subjects taken at the final assessment receive at least 90% of the points required for a positive grade in those subjects shall be awarded a positive grade in those subjects if:
 
-- they have positive grades in all subjects of the ninth grade and the mark  Good  in at least two compulsory or elective subjects at the end of the ninth grade; or
+- they have positive grades in all subjects of the ninth grade and the mark ìGoodî in at least two compulsory or elective subjects at the end of the ninth grade; or
 
 16
 
@@ -780,7 +780,7 @@ Pupils who in two of the subjects taken at the final assessment receive at least
 
 [[START OF PAGE 17]]
 
-- if they receive positive grades in other subjects taken at the final assessment and at least two of them are at least the grade  Good .
+- if they receive positive grades in other subjects taken at the final assessment and at least two of them are at least the grade ìGoodî.
 
 The elementary school shall inform the student about the grades received at the final assessment of knowledge.
 
@@ -810,7 +810,7 @@ The principle decides whether the reasons of the preceding paragraph are justifi
 
 #### Article 77 (Examination Panel)
 
-Pupils  reexaminations and grade examinations shall be administered by an examination panel.
+Pupilsí reexaminations and grade examinations shall be administered by an examination panel.
 
 #### Article 78
 
@@ -828,7 +828,7 @@ Upon the proposal of parents, teachers or school counselors, the elementary scho
 
 [[START OF PAGE 18]]
 
-The decision concerning accelerated advancement shall be made by the school s teaching staff in agreement with the pupil s parents.
+The decision concerning accelerated advancement shall be made by the schoolís teaching staff in agreement with the pupilís parents.
 
 #### Article 80
 
@@ -866,7 +866,7 @@ Elementary schools shall issue certificates with descriptive grades to the pupil
 
 The elementary school shall issue final certificates to pupils having completed elementary education.
 
-The final certificate shall list pupils  final grades awarded in the ninth year; the grades in subjects taken at the final assessment of knowledge shall in equal parts consist of the grade assigned for the ninth-year subject and the grade received at the final assessment in that subject.
+The final certificate shall list pupilsí final grades awarded in the ninth year; the grades in subjects taken at the final assessment of knowledge shall in equal parts consist of the grade assigned for the ninth-year subject and the grade received at the final assessment in that subject.
 
 The final certificates  of  pupils  having  finished  modified  education programs of paragraph two of Article 72 shall report the final grades assigned in the ninth year.
 
@@ -910,7 +910,7 @@ Parents shall have the right to provide elementary education of their children a
 
 Parents  shall  notify  in  writing  the  elementary  school  which  their  child  is  enrolled  in  about homeschooling at least three months before the beginning of the school year.
 
-The notice of the preceding paragraph shall contain: a state-approved educational program used for home instruction, child s name and family name, place of instruction, and the name and family name of individual(s) providing instruction.
+The notice of the preceding paragraph shall contain: a state-approved educational program used for home instruction, childís name and family name, place of instruction, and the name and family name of individual(s) providing instruction.
 
 Homeschooling records shall be kept by the elementary school.
 
@@ -920,7 +920,7 @@ Homeschooling records shall be kept by the elementary school.
 
 Homeschooling shall guarantee pupils at least  the same standard of education as the compulsory curriculum of public schools.
 
-Pupil  s  knowledge  shall  be  assessed  in  order  to  assess  the  level  of  achievement  in  learning. Knowledge shall be assessed at the end of each school year. The assessment is carried out by the school which the pupil is enrolled in.
+Pupilís knowledge shall be assessed in order to assess the level of achievement in learning. Knowledge shall be assessed at the end of each school year. The assessment is carried out by the school which the pupil is enrolled in.
 
 The assessment of knowledge for children with special needs receiving home instruction according to modified or special education programs shall be determined by those programs.
 
@@ -952,7 +952,7 @@ The stipulations of Article 67 of this Act shall apply to the assessment of know
 
 (Homeschooling Certificates)
 
-The  elementary  school  which  the  pupil  is  enrolled  in  shall  issue  the  certificate  of  the  pupil  s homeschooling achievements. The homeschooling certificate is an official document.
+The elementary school which the pupil is enrolled in shall issue the certificate of the pupilís homeschooling achievements. The homeschooling certificate is an official document.
 
 Stipulations of Articles 83 through 87 of this Act shall apply to homeschooling certificates.
 
@@ -966,7 +966,7 @@ Elementary education of adults shall be provided according to the adult educatio
 
 Adult education courses may be taken by individuals having completed compulsory schooling but not elementary education.
 
-In  compliance  with  this  Act,  adult  education  shall  be  provided  by  modifying  the  organization  of instruction, pupils  assessment, grading, and advancement, and schedule of classes.
+In compliance with this Act, adult education shall be provided by modifying the organization of instruction, pupilsí assessment, grading, and advancement, and schedule of classes.
 
 The  stipulations  of  this  Act  shall  apply  to  other  requirements  for  the  provision  of  elementary education for adults.
 
@@ -988,39 +988,39 @@ The  stipulations  of  this  Act  shall  apply  to  other  requirements  for  th
 
 Elementary schools shall keep the following files:
 
-- records on pupils enrolled in the elementary school and their parents;
+1. records on pupils enrolled in the elementary school and their parents;
 
-- records on the advancement of pupils, issued certificates and other documents;
+2. records on the advancement of pupils, issued certificates and other documents;
 
-- records on orthopedic skills and morphological characteristics of pupils;
+3. records on orthopedic skills and morphological characteristics of pupils;
 
-- records on pupils needing support and counseling, respectively.
+4. records on pupils needing support and counseling, respectively.
 
 The records of point 1 of the preceding paragraph shall include:
 
 - data on pupils: first and family name, sex, date, place and country of birth, address and citizenship, special health problems needed to be known for working with pupils and providing their safety;
 
-- data on parents: first and family name, address, phone number for urgent messages during pupil s stay at school.
+- data on parents: first and family name, address, phone number for urgent messages during pupilís stay at school.
 
-In addition to the information of line 1 of the preceding paragraph, the records of point 2 of paragraph 1 of this Article shall also include the information on pupil s advancement, issued certificates and other documents.
+In addition to the information of line 1 of the preceding paragraph, the records of point 2 of paragraph 1 of this Article shall also include the information on pupilís advancement, issued certificates and other documents.
 
-In addition to the information of line 1 of the paragraph 2 of this Article, the records of point 3 of paragraph  1  of  this  Article  shall  also  include  the  information  on  pupil  s  orthopedic  skills  and morphological  characteristics  referring  to:  pupil  s  height,  body  volume,  speed  of  alternative movements,  explosive  power,  coordination  of  body  movement,  physical  endurance  of  the  body, motor skills, endurance of shoulders and arms, running speed and endurance under the condition of below-maximum continuing effort.
+In addition to the information of line 1 of the paragraph 2 of this Article, the records of point 3 of paragraph 1 of this Article shall also include the information on pupilís orthopedic skills and morphological characteristics referring to: pupilís height, body volume, speed of alternative movements, explosive power, coordination of body movement, physical endurance of the body, motor skills, endurance of shoulders and arms, running speed and endurance under the condition of below-maximum continuing effort.
 
-Personal data of point 3 of paragraph 1 of this Article shall be collected in agreement with pupil s parents or guardians.
+Personal data of point 3 of paragraph 1 of this Article shall be collected in agreement with pupilís parents or guardians.
 
 In addition to the information of points 1 and 2 of paragraph 1 of this Article, the records of point 4 of paragraph 1 of this Article shall include:
 
 - family and social anamnesis,
 
-- diagnostic procedures,
-
 - development anamnesis,
+
+- diagnostic procedures,
 
 - procedures for professional support,
 
 - expert opinions of other institutions: welfare centers, health institutions, homes, counseling and educational support centers.
 
-Personal data of point 4 shall be collected in agreement with pupil s parents, with the exception of cases when pupils are endangered by their families and need protection.
+Personal data of point 4 shall be collected in agreement with pupilís parents, with the exception of cases when pupils are endangered by their families and need protection.
 
 Counselors shall be obliged to treat the information of point 4 as professional confidentiality. Other professionals  having  received  such  data  due  to  the  nature  of  their  work  shall  also  treat  them  as professional confidentiality.
 
@@ -1048,7 +1048,7 @@ The elementary school shall obtain the data of points 1, 2, 3 and 4 of paragraph
 
 Personal data on pupils kept in files of Article 95 shall be collected, processed, stored and used for the  purposes  of  compulsory  education  and  submitted  to  the  ministry  having  jurisdiction  over education for the performance of regulatory tasks.
 
-For research and statistical analyses, personal information may be used and published only in a form not disclosing pupils  identity.
+For research and statistical analyses, personal information may be used and published only in a form not disclosing pupilsí identity.
 
 #### Article 98
 
@@ -1122,7 +1122,7 @@ Pursuant to this Act, the syllabus and curriculum shall be determined by the res
 
 Pursuant to this Act, the elementary school curriculum shall be implemented gradually.
 
-In  school  years  1999-2000,  2000-2000  and  2001-2002,  it  may  be  introduced  by  schools  having sufficient  enrollment,  meeting  personnel,  space  and  other  requirements  and  possessing  minister  s permit to carry out the curriculum.
+In school years 1999-2000, 2000-2000 and 2001-2002, it may be introduced by schools having sufficient enrollment, meeting personnel, space and other requirements and possessing ministerís permit to carry out the curriculum.
 
 23
 
@@ -1146,7 +1146,7 @@ Parents may enroll their children of the preceding Article in compliance with Ar
 
 (Provision of Education for Sixth Graders)
 
-In school years 1999-2000, 2000-2001 and 2001-2002, education according to the elementary school curriculum in compliance with this Act shall begin to be provided for all pupils of the sixth grade at the schools having the minister s permit and parental consent.
+In school years 1999-2000, 2000-2001 and 2001-2002, education according to the elementary school curriculum in compliance with this Act shall begin to be provided for all pupils of the sixth grade at the schools having the ministerís permit and parental consent.
 
 In the school year 2002-2003, the curriculum of the preceding paragraph shall be provided for all sixth graders in the country.
 
@@ -1200,7 +1200,7 @@ This  Act  shall  repeal  the  Elementary  School  Law  (Official  Gazette  of  
 
 This Act shall enter into force on the fifteenth day after its publication in the Official Gazette of the Republic of Slovenia.
 
-<!-- N O S E A R C H E N D - - >
+<!--NOSEARCHEND-->
 
 25
 
