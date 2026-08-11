@@ -65,11 +65,11 @@ Al momento de la convocatoria, el sostenedor del establecimiento deberá informa
 
 - Requisitos de los postulantes, antecedentes y documentación a presentar;
 
-- Tipos prueba a las que serán sometidos los postulantes, y
+- Tipos de pruebas a las que serán sometidos los postulantes, y
 
 - Monto y condiciones del cobro por participar en el proceso.
 
-Una vez realizada la selección, es establecimiento publicará en un lugar visible la lista de seleccionados.  A quienes no resulten seleccionados o a sus apoderados, cuando lo  soliciten, deberá entregárseles un informe con los resultados de sus pruebas firmado por el encargado del proceso de selección del establecimiento.
+Una vez realizada la selección, el establecimiento publicará en un lugar visible la lista de seleccionados.  A quienes no resulten seleccionados o a sus apoderados, cuando lo  soliciten, deberá entregárseles un informe con los resultados de sus pruebas firmado por el encargado del proceso de selección del establecimiento.
 
 ## TITULO I (Artículos 12-22)
 
@@ -252,11 +252,11 @@ El Ministerio de Educación otorgará el título de técnico de nivel medio a lo
 #### Artículo 32.
 No obstante lo dispuesto en los artículos precedentes, los establecimientos de  educación  de  las  Instituciones  de  la  Defensa  Nacional,  que  impartan  enseñanza media, se regirán en cuanto a su creación, funcionamiento y planes de estudio por sus respectivos reglamentos orgánicos y de funcionamiento y se relacionarán con el Estado a través del Ministerio de Defensa Nacional.
 
-## TITULO III (Artículos 33-47)
+## TITULO III (Artículos 33-77)
 
 ## Reconocimiento Oficial del Estado a las Instituciones de Educación Superior.
 
-### Párrafo 1° (Artículos 33-51)
+### Párrafo 1° (Artículos 33-35)
 
 ### Normas Generales
 
@@ -382,9 +382,7 @@ y, adicionalmente, por cada carrera. | 15 UTM | 30 UTM
 y, adicionalmente, por alumno | 5% UTM | 10% UTM
 y, por la examinación de cada alumno | 5% UTM | 10% UTM
 
-Los aranceles fijados en este artículo podrán pagarse hasta en mensualidades.
-
-diez
+Los aranceles fijados en este artículo podrán pagarse hasta en diez mensualidades.
 
 Dichos aranceles constituirán ingresos propios del Consejo Superior de Educación.
 
@@ -399,7 +397,7 @@ Las nuevas entidades de enseñanza superior deberán presentar al Consejo Superi
 proyecto, enviando copia al Ministerio de Educación.
 
 #### Artículo  45.
-El  Consejo  Superior  de  Educación  verificará  el  desarrollo  del  proyecto institutional  aprobado. Dicho Consejo comprobará el cumplimiento del proyecto durante un período de seis años. Para estos efectos, el Consejo, anualmente, deberá emitir un informe del estado
+El  Consejo  Superior  de  Educación  verificará  el  desarrollo  del  proyecto institucional  aprobado. Dicho Consejo comprobará el cumplimiento del proyecto durante un período de seis años. Para estos efectos, el Consejo, anualmente, deberá emitir un informe del estado
 
 de  avance  del  proyecto  haciendo  las  observaciones  fundadas  que  le  merezca  su desarrollo y fijando plazos para subsanarlas. Sin perjuicio de lo anterior, hará evaluaciones parciales y requerirá las informaciones pertinentes. Además,  el  Consejo  deberá  someter  a  examinaciones  selectivas  determinadas asignaturas  o  cursos  de  las  carreras  impartidas  por  los  establecimientos  sometidos  a acreditación. Se  entenderá  que  la  examinación  es  favorable  cuando  más  del  cincuenta  por ciento de los alumnos examinados aprueban las correspondientes asignaturas. En  el  caso  que  las  observaciones  no  se  subsanen  oportunamente  el  Consejo someterá por el período que determine, la examinación total de la Carrera o dispondrá la suspensión de ingreso de nuevos alumnos a todas o a algunas de sus carreras. Si las situaciones  representadas  se  reiteran,  podrá  solicitar  al  Ministerio  de  Educación  la cancelación de la personalidad jurídica y la revocación del reconocimiento oficial.
 
@@ -593,11 +591,11 @@ Por decreto supremo fundado del Ministerio de Educación previo informe del Cons
 
 En  la  fundamentación  del  decreto  respectivo  deberá  dejarse  constancia  de  la causal que originó la revocación del reconocimiento oficial. Los institutos profesionales se disolverán en la forma establecida en sus estatutos, sin perjuicio de lo establecido precedentemente.
 
-### Párrafo 5° (Artículos 68-G74)
+### Párrafo 5° (Artículos 68-74)
 
 ### Del reconocimiento oficial de los centros de formación técnica.
 
-#### Artículo  64.
+#### Artículo  68.
 Los  centros  de  formación  técnica  que  no  sean  creados  por  ley  deberán organizarse como personas jurídicas de derecho privado, de acuerdo a lo dispuesto en el artículo 34, inciso segundo de esta ley. Los instrumentos constitutivos de las personas jurídicas organizadoras de centros de formación técnica deberán contemplar en todo caso lo siguiente:
 
 - Individualización de sus organizadores;
