@@ -20,11 +20,11 @@ Organization  or  entity  responsible  for  the  preparation  of  the  report: N
 
 Name of contact person:
 
-ÉLIA DOS ANJOS VAZ BILA - SECRETARY GENERAL
+ÉLIA DOS ANJOS VAZ BILA – SECRETARY GENERAL
 
 Email and telephone number of contact person: elia.bila@mined.gov.mz  - +258 84 314 0050
 
-## Ratification and applicability of the Convention against Discrimination in Education 1
+## I. Ratification and applicability of the Convention against Discrimination in Education 1
 
 - Is your country a State Party to the Convention?
 
@@ -42,7 +42,7 @@ Email and telephone number of contact person: elia.bila@mined.gov.mz  - +258 84 
 
 - Please  briefly  explain  the  steps  that  have  been  taken  and  timeline  when relevant, any difficulties encountered (legal, institutional, political or practical) in completing the ratification process. And how UNESCO can assist:
 
-Mozambique  has  already ratified the Convention and submitted the instrument to UNESCO ( ADG Education) last November 2023 during the 42 nd General Conference.
+Mozambique has already ratified the Convention and submitted the instrument to UNESCO ( ADG Education) last November 2023 during the 42nd General Conference.
 
 1
 
@@ -56,13 +56,13 @@ https://www.unesco.org/en/legal-affairs/convention-against-discrimination-educat
 
 - Is the Convention directly applicable in your country's domestic law?
 
- Yes
+■ Yes
 
  No
 
 - Have courts, tribunals and/or administrative authorities adjudicated on issues or violations regarding the right to education? 2
 
- No
+■ No
 
  Yes: Have the provisions of the Convention been invoked?
 
@@ -76,9 +76,9 @@ Information could also be given about the judicial, administrative and other com
 
 According to the Constitution of the Republic of Mozambique, the Judicial Courts are the competent entities with jurisdiction regarding the right to Education.
 
-## Information  on  the  implementation  of  the  Convention  or  Recommendation  in  the  context  of Sustainable Development Goal 4 (SDG4)
+## II. Information on the implementation of the Convention or Recommendation in the context of Sustainable Development Goal 4 (SDG4)
 
-### Towards an inclusive non-discriminatory education system
+### 1. Towards an inclusive non-discriminatory education system
 
 For  reference:  This  section  relates  to  the  main  purpose  of  the  Convention/Recommendation  that  is  to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity as laid out in Articles/Paragraphs 1(1), 2 and 3 of the Convention/Recommendation.
 
@@ -86,7 +86,7 @@ It further corresponds to the overall aspiration of SDG4 which aims to 'ensure i
 
 - Please  indicate  whether  the  rights  and  principles  laid  out  in  the  Convention/Recommendation informed the elaboration of the education legal and/or policy framework:
 
- Yes  No
+■ Yes  No
 
 - If yes, please provide reference:
 
@@ -98,7 +98,7 @@ It further corresponds to the overall aspiration of SDG4 which aims to 'ensure i
 
 [[START OF PAGE 3]]
 
-The rights and principles laid out in the Convention informed the elaboration of (i): Law No. 1/2023 of March 17, which establishes the legal functioning of the Higher Education Subsystem; (ii): Decree No. 43/2023 of August 2, approves the Licensing and Operational Regulations of Higher Education Institutions; (iii): Law 26/2022 of 29 December, Professional Education Law and (iv): The Action Plan for the Acceleration of Literacy for Young People and Adults in Mozambique (2022 -2029).
+The rights and principles laid out in the Convention informed the elaboration of (i): Law No. 1/2023 of March 17, which establishes the legal functioning of the Higher Education Subsystem; (ii): Decree No. 43/2023 of August 2, approves the Licensing and Operational Regulations of Higher Education Institutions; (iii): Law 26/2022 of 29 December, Professional Education Law and (iv): The Action Plan for the Acceleration of Literacy for Young People and Adults in Mozambique (2022 – 2029).
 
 #### 1.1 Non-discrimination and equality in education
 
@@ -134,15 +134,13 @@ Article 35 of the Constitution of the Republic of Mozambique (2018) - establishe
 
 > 4 See: Article/Paragraph 1(1).
 
-> 5 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programme s'.
+> 5 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'.
 
 > 6 Constitution, laws, decrees, regulations, circulars, etc.
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
-
-
 
  Policies, programmes and initiatives aim to prohibit and prevent discrimination and ensure equal access to education
 
@@ -172,7 +170,7 @@ Article 35 of the Constitution of the Republic of Mozambique (2018) - establishe
 
 - Pre-  Primary  Education  Curricular  Plan is  aligned  with  childhood  learning  and development standards.
 
-Combatting discrimination in terms of curriculum:
+ Combatting discrimination in terms of curriculum:
 
  In pre-primary education (including early learning and care)
 
@@ -218,15 +216,15 @@ Combatting discrimination in terms of curriculum:
 
 ##### General measures:
 
- Legislation provides for inclusive education for all
+■ Legislation provides for inclusive education for all
 
- Policy measures aim to enhance inclusion in education for all
+■ Policy measures aim to enhance inclusion in education for all
 
- Multiple and flexible learning pathways 8 are provided for
+■ Multiple and flexible learning pathways 8 are provided for
 
- Curricula and teaching methods are inclusive in design 9
+■ Curricula and teaching methods are inclusive in design 9
 
-> 8 Multiple and flexible learning pathways are 'entry points and re -entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge,  skills  and  c ompetencies  acquired  through  nonformal  and  informal  education'  ( Education  2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
+> 8 Multiple and flexible learning pathways are 'entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge, skills and competencies acquired through nonformal and informal education' (Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
 
 > 9 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
 
@@ -234,13 +232,13 @@ Combatting discrimination in terms of curriculum:
 
 [[START OF PAGE 6]]
 
- Teachers are trained on inclusive education 7 and to value diversity
+■ Teachers are trained on inclusive education 7 and to value diversity
 
- Initiatives to address discrimination and promote cultural diversity and mutual acceptance
+■ Initiatives to address discrimination and promote cultural diversity and mutual acceptance
 
  Other:
 
- Multilingual and intercultural education is supported
+■ Multilingual and intercultural education is supported
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
@@ -252,11 +250,11 @@ Combatting discrimination in terms of curriculum:
 
 - With the approval of Law 18/2018 of December 28th of the SNE, Bilingual Education is now considered a modality and there was a need to design the Bilingual Education Expansion Strategy 2020-2029, a document that defines the main objectives, actions and goals to be achieved during the period 2020-2029;
 
-- In Professional Technical Education, the legal measures that support the inclusion of all trainees  in  the  learning  processes  are:  Gender  equity -which  defends  the  promotion  of access for girls and women to Professional Education, particularly in the areas of science, engineering and technologies; and inclusion -which advocates the promotion of access to Professional Education by trainees with disabilities and special educational needs.
+- In Professional Technical Education, the legal measures that support the inclusion of all trainees in the learning processes are: Gender equity – which defends the promotion of access for girls and women to Professional Education, particularly in the areas of science, engineering and technologies; and inclusion – which advocates the promotion of access to Professional Education by trainees with disabilities and special educational needs.
 
 - In general, what challenges were encountered in the implementation of non-discrimination and equal opportunities principles in education? If needed, brief quantitative information may be added.
 
-- Lack of professionals trained to deal with children with Special Educational Needs in PrePrimary Education;
+- Lack of professionals trained to deal with children with Special Educational Needs in Pre-Primary Education;
 
 - Lack of adequate infrastructure and equipment in Higher Education Institutions (HEI) for people with disabilities;
 
@@ -274,33 +272,33 @@ Combatting discrimination in terms of curriculum:
 
 ##### Other relevant general measures, including gender equality
 
- Legislation provides for gender equality in education
+■ Legislation provides for gender equality in education
 
- Policy measures aim to enhance gender equality
+■ Policy measures aim to enhance gender equality
 
- Gender-responsive education sector planning is undertaken
+■ Gender-responsive education sector planning is undertaken
 
- Providing positive or affirmative action measures
+■ Providing positive or affirmative action measures
 
- Providing financial incentives and fellowships
+■ Providing financial incentives and fellowships
 
  Teachers are trained (initial and in-service) on gender equality
 
- Teachers are trained to combat stigmatisation 10
+■ Teachers are trained to combat stigmatisation 10
 
  Other:
 
- All  barriers  for  pregnant  girls  and  young mothers in education are eliminated to ensure the continuity of their education
+■ All barriers for pregnant girls and young mothers in education are eliminated to ensure the continuity of their education
 
- Re-entry programmes for young mothers are provided for
+■ Re-entry programmes for young mothers are provided for
 
- Ensuring safe and adequate gender-sensitive sanitation facilities 11
+■ Ensuring safe and adequate gender-sensitive sanitation facilities 11
 
- Curricula are rid of all stereotypes 12 and bias
+■ Curricula are rid of all stereotypes 12 and bias
 
- Ensuring gender parity in science, technology, engineering and mathematics (STEM)
+■ Ensuring gender parity in science, technology, engineering and mathematics (STEM)
 
- Ensuring gender parity in technical and vocational training education and training (TVET)
+■ Ensuring gender parity in technical and vocational training education and training (TVET)
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
@@ -320,7 +318,7 @@ Combatting discrimination in terms of curriculum:
 
 > 10 ' Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them' (Cambridge Dictionary).
 
-> 11 ' Gendersensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
+> 11 ' Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
 
 > 12 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
 
@@ -382,8 +380,6 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 
 [[START OF PAGE 9]]
 
-##### Indigenous people:
-
  Other 14 :
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
@@ -391,6 +387,8 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 The Constitution of the Republic of Mozambique does not refer to the existence of Minority Groups (national minorities) in the country. All citizens are treated fairly. However, with regard to the use of national languages, the Government approved the Bilingual Education Strategy which encourages the use of national languages in the first classes of Primary Education in places of linguistic homogeneity.
 
 - What challenges were encountered in realizing the right to education of minorities? If needed, brief quantitative information may be added.
+
+##### Indigenous people:
 
  Legislation provides for the right to education of indigenous people
 
@@ -444,39 +442,39 @@ N/A
 
 ##### People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations 19 :
 
- Legislation provides for their right to education
+■ Legislation provides for their right to education
 
- Policy measures aim to enhance their right to education
+■ Policy measures aim to enhance their right to education
 
  Inclusion in mainstream schools is ensured
 
- Positive or affirmative action measures are provided for
+■ Positive or affirmative action measures are provided for
 
- All administrative barriers to access education are removed
+■ All administrative barriers to access education are removed
 
  Alternative administrative procedures (placement tests, portfolio of evidence, etc.) to overcome administrative barriers 20 are provided for
 
- Teachers are specifically trained to ensure their inclusion
+■ Teachers are specifically trained to ensure their inclusion
 
- Teachers are trained to combat stigmatisation 21
+■ Teachers are trained to combat stigmatisation 21
 
  Other:
 
  Financial incentives and fellowships are provided for
 
- Auxiliary assistance is provided
+■ Auxiliary assistance is provided
 
- Multiple and flexible learning pathways 22 are provided
+■ Multiple and flexible learning pathways 22 are provided
 
- Curricula are rid of all stereotypes 23 and bias
+■ Curricula are rid of all stereotypes 23 and bias
 
  Accelerated learning programmes are provided
 
- Non-formal and/or alternative education programmes are provided
+■ Non-formal and/or alternative education programmes are provided
 
  Language classes to newcomers are provided for
 
- Multilingualism and intercultural education are encouraged
+■ Multilingualism and intercultural education are encouraged
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
@@ -500,19 +498,15 @@ In the case of the Technical and Professional Education Schools grants and fello
 
 - Have specific measures been adopted for climate displaced persons?
 
-
+■ Yes
 
-Yes
-
-
-
-No
+ No
 
 - Please elaborate:
 
 1. In the event of adverse natural phenomena associated with the climate, the Government, with the support of partners, has provided temporary learning spaces that can be used as classrooms built with local materials or tents in the accommodation places. In other cases, students are integrated into safe schools.
 
-- In Pre-Primary Education, the Government has encouraged the creation of child-friendly spaces in accommodation centers for children from 0 to 5 years of age.
+2. In Pre-Primary Education, the Government has encouraged the creation of child-friendly spaces in accommodation centers for children from 0 to 5 years of age.
 
 - What challenges were encountered in realizing the right to education of migrants, refugees, asylum seekers, stateless persons and IDPs? If needed, brief quantitative information may be added.
 
@@ -524,47 +518,45 @@ No
 
 ##### People with disabilities:
 
- Legislation provides for their right to education
+■ Legislation provides for their right to education
 
- Policy measures aim to enhance their right to education
+■ Policy measures aim to enhance their right to education
 
- Inclusion in mainstream schools is ensured
+■ Inclusion in mainstream schools is ensured
 
- Special schools are used as resource centers to inclusive schools
+■ Special schools are used as resource centers to inclusive schools
 
- Positive or affirmative action measures are provided
+■ Positive or affirmative action measures are provided
 
- Financial incentives and fellowships are provided
+■ Financial incentives and fellowships are provided
 
  Other
 
+■ Mainstream teachers are specifically trained on disabilities
+
+■ Teachers are trained to combat stigmatisation 24
+
+■ Auxiliary assistance is provided
+
+■ Curricula and teaching and learning methods are adapted
+
+■ Curricula are rid of all stereotypes 25 and bias
+
+■ Education infrastructure and learning materials are adapted
+
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-- The country has a National Inclusive Education Strategy;
+1. The country has a National Inclusive Education Strategy;
 
-- Approval of the Law for the Promotion and Protection of the Rights of Persons with Disabilities;
+2. Approval of the Law for the Promotion and Protection of the Rights of Persons with Disabilities;
 
-- Ensured compliance with the principles of the International Convention on the Rights of Persons with Disabilities;
+3. Ensured compliance with the principles of the International Convention on the Rights of Persons with Disabilities;
 
-- Technical and Professional Education legislation enshrines the promotion of access to Professional Education for trainees with disabilities and special educational needs (SEN) in accordance with paragraph f) of article 5 of the Professional Education Law. As a way of materializing Government's opportunities, education and professional training institutions have benefited from initiatives to install ramps and bathrooms adapted for people with disabilities.
+4. Technical and Professional Education legislation enshrines the promotion of access to Professional Education for trainees with disabilities and special educational needs (SEN) in accordance with paragraph f) of article 5 of the Professional Education Law. As a way of materializing Government's opportunities, education and professional training institutions have benefited from initiatives to install ramps and bathrooms adapted for people with disabilities.
 
 > 24 Supra note 15.
 
-25
-
-> Supra note 16.
-
- Mainstream teachers are specifically trained on disabilities
-
- Teachers are trained to combat stigmatisation 24
-
- Auxiliary assistance is provided
-
- Curricula and teaching and learning methods are adapted
-
- Curricula are rid of all stereotypes 25 and bias
-
- Education infrastructure and learning materials are adapted
+> 25 Supra note 16.
 
 [[END OF PAGE 11]]
 
@@ -572,43 +564,43 @@ No
 
 - What challenges were encountered in realizing the right to education of people with disabilities? If needed, brief quantitative information may be added.
 
-- Lack of educational infrastructure to serve all people with SEN, considering the nature of the disability;
+1. Lack of educational infrastructure to serve all people with SEN, considering the nature of the disability;
 
-- The diversity of disability types;
+2. The diversity of disability types;
 
-- Adequacy of infrastructure in terms of access for people with disabilities. For infrastructure under construction, adaptations for people with disabilities are already foreseen, including TVET.
-
-- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
-
-- As a way of retaining students at school and increasing access to food, the Ministry of Education and Human Development is implementing with support of partners the School Feeding Program, that aims to provide food in schools previously identified as most in need in certain districts through the administration of a snack, vegetable garden, school nutritional education, school uniform support, bicycle distribution program for girls and social action programs;
-
-- In TVET students from poor households benefit with measures such as free fees, free accommodation in and scholarships offered by civil society organizations and private enterprises;
-
-- Law 4/2007 of 7 February (Social Protection Law) and the National Basic Social Security Strategy 2016-2024 were approved.
-
-- The Mozambican Government has a scholarship line for students from poor households and for this purpose they must present documents proving the real situation of Families, see article 50 of Law No. 1/2023 of 17 March.
-
-- What  challenges  were  encountered  in  realizing  the  right  to  education  of  students  from  poor households? If needed, brief quantitative information may be added.
-
-- Lack of funds;
-
-- Expansion of the Basic Social Protection System;
-
-- Scholarships for Higher Education subsystem, combined with the financial crisis, are not available to all those in need. The demand exceeds supply.
+3. Adequacy of infrastructure in terms of access for people with disabilities. For infrastructure under construction, adaptations for people with disabilities are already foreseen, including TVET.
 
 ##### Students from poor households:
 
- Financial incentives and fellowships for school enrolment are provided
+■ Financial incentives and fellowships for school enrolment are provided
 
- Transport, meals and education material are subsidised  or  provided  free  of  charge  beyond compulsory education
+■ Transport, meals and education material are subsidised or provided free of charge beyond compulsory education
 
- Positive or affirmative action measures are provided
+■ Positive or affirmative action measures are provided
 
  Other:
 
- Teachers are trained to combat stigmatisation 26
+■ Teachers are trained to combat stigmatisation 26
 
- Curricula are rid of all stereotypes 27 and bias
+■ Curricula are rid of all stereotypes 27 and bias
+
+- Please elaborate and, where appropriate, indicate the legal and policy measures taken:
+
+1. As a way of retaining students at school and increasing access to food, the Ministry of Education and Human Development is implementing with support of partners the School Feeding Program, that aims to provide food in schools previously identified as most in need in certain districts through the administration of a snack, vegetable garden, school nutritional education, school uniform support, bicycle distribution program for girls and social action programs;
+
+2. In TVET students from poor households benefit with measures such as free fees, free accommodation in and scholarships offered by civil society organizations and private enterprises;
+
+3. Law 4/2007 of 7 February (Social Protection Law) and the National Basic Social Security Strategy 2016-2024 were approved.
+
+4. The Mozambican Government has a scholarship line for students from poor households and for this purpose they must present documents proving the real situation of Families, see article 50 of Law No. 1/2023 of 17 March.
+
+- What challenges were encountered in realizing the right to education of students from poor households? If needed, brief quantitative information may be added.
+
+1. Lack of funds;
+
+2. Expansion of the Basic Social Protection System;
+
+3. Scholarships for Higher Education subsystem, combined with the financial crisis, are not available to all those in need. The demand exceeds supply.
 
 > 26 Supra note 15.
 
@@ -622,7 +614,7 @@ No
 
 #### 2.1 Early childhood care and education
 
-For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explicitly  provided  for  in  the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initi ally recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 28 and more recently, the Tashkent  Declaration  and  Commitments  to  Action  for  Transforming  Early  Childhood  Care  and Education 29 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre -primary education'.
+For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 28 and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education 29. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked):
 
@@ -630,7 +622,7 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 
  Prior to pre-primary education, ECCE services are affordable
 
- ECCE services are accessible on a non- discriminatory basis
+ ECCE services are accessible on a non-discriminatory basis
 
  ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
@@ -678,9 +670,9 @@ Ministerial Diploma No. 277/2010, of December 31st, which establishes the proced
 
 - What challenges were encountered in realizing early childhood care and education and pre-primary education?
 
- Limited access
+■ Limited access
 
- Issues of equity and inclusion
+■ Issues of equity and inclusion
 
  Poor quality programmes
 
@@ -688,15 +680,15 @@ Ministerial Diploma No. 277/2010, of December 31st, which establishes the proced
 
  Poor learning outcomes
 
- Low number of professionally trained educators
+■ Low number of professionally trained educators
 
- Lack of support to families
+■ Lack of support to families
 
 - Please elaborate. Brief quantitative information may be added.
 
 #### 2.2 Primary and secondary education
 
-For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclus ive, equitable, quality primary and secondary education -of which at least nine years are compulsory.'
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education – of which at least nine years are compulsory.'
 
 ##### Primary education
 
@@ -706,11 +698,11 @@ Registration: 6 years to be completed by June of the year of entry; duration: 6 
 
 - Is primary education compulsory and free of charge?
 
- Primary education is compulsory
+■ Primary education is compulsory
 
  Primary education is not compulsory.
 
- Primary education is free of charge.
+■ Primary education is free of charge.
 
  Primary education is not free.
 
@@ -724,7 +716,7 @@ Law no. 18/2018, of 28 December, Law that approves the National Education System
 
 - What challenges were encountered in realizing primary education?
 
- Limited access
+■ Limited access
 
  Issues of equity and inclusion
 
@@ -760,17 +752,17 @@ In this part, please provide information on the general availability and accessi
 
 - Please provide the age of enrolment and duration of upper secondary education:
 
-- Entry into Upper Secondary Education is at the age of 15, lasting 3 years;
+1. Entry into Upper Secondary Education is at the age of 15, lasting 3 years;
 
-- For Professional Technical Education, the entry age is at least 16 years old, that is, after completion of the lower Secondary Education; lasting 3 years.
+2. For Professional Technical Education, the entry age is at least 16 years old, that is, after completion of the lower Secondary Education; lasting 3 years.
 
 - Is lower and upper secondary education compulsory and free of charge?
 
- Lower secondary education is compulsory.
+■ Lower secondary education is compulsory.
 
  Lower secondary education is not compulsory.
 
- Lower secondary education is free of charge.
+■ Lower secondary education is free of charge.
 
 [[END OF PAGE 15]]
 
@@ -864,12 +856,6 @@ With regard to direct and indirect costs, for Higher Education Subsystem, versus
 
 - What challenges were encountered in realizing higher education?
 
-- Please elaborate. Brief quantitative information may be added.
-
-- Access to Higher Education demand is greater than supply. There are fewer Higher Education Institutions (HEI) in the country in comparing with the demand. The existing ones are not represented throughout the country. There are fewer HEI in the north of the country, and a higher concentration of HEI in Maputo City.
-
-- The quality of Higher Education has been improving in recent years, as a result of the work carried out by the National Quality Assessment Council (CNAQ). However, some challenges still remain.
-
  Limited access
 
  Issues of equity and inclusion
@@ -882,7 +868,13 @@ With regard to direct and indirect costs, for Higher Education Subsystem, versus
 
  Low number of professionally trained professors
 
- Insufficient  mechanisms  to  ensure  smooth transition from secondary to tertiary
+ Insufficient mechanisms to ensure smooth transition from secondary to tertiary
+
+- Please elaborate. Brief quantitative information may be added.
+
+- Access to Higher Education demand is greater than supply. There are fewer Higher Education Institutions (HEI) in the country in comparing with the demand. The existing ones are not represented throughout the country. There are fewer HEI in the north of the country, and a higher concentration of HEI in Maputo City.
+
+- The quality of Higher Education has been improving in recent years, as a result of the work carried out by the National Quality Assessment Council (CNAQ). However, some challenges still remain.
 
 #### 2.4 Adult education and alternative learning
 
@@ -898,15 +890,15 @@ For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides 
 
 [[START OF PAGE 19]]
 
- Provision  of  continuous  learning  (such  as  learning  programmes  to  develop  knowledge,  skills, abilities, or competencies for personal and professional development)
+■ Provision of continuous learning (such as learning programmes to develop knowledge, skills, abilities, or competencies for personal and professional development)
 
  Provision of free of charge learning opportunities
 
- Provision of professional training including reskilling and upskilling programmes
+■ Provision of professional training including reskilling and upskilling programmes
 
- Recognition, validation and certification of non-formal and informal learning
+■ Recognition, validation and certification of non-formal and informal learning
 
- Provision of free of charge career guidance and counselling
+■ Provision of free of charge career guidance and counselling
 
  Lifelong learning entitlements including learning accounts, vouchers, etc.
 
@@ -920,19 +912,19 @@ For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides 
 
 - What challenges were encountered in realizing adult learning and education?
 
- Limited access
+■ Limited access
 
- Issues of equity and inclusion
+■ Issues of equity and inclusion
 
  Poor quality programmes
 
  Other:
 
- Limited funding
+■ Limited funding
 
  Poor learning outcomes
 
- Low number of professionally trained educators
+■ Low number of professionally trained educators
 
 - Please elaborate. Brief quantitative information may be added.
 
@@ -940,7 +932,7 @@ Lack of infrastructure and equipment for professional courses.
 
 ### 3. Quality education provision and learning environment
 
-For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends state s to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
+For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
 
 #### 3.1 General measures
 
@@ -950,21 +942,21 @@ For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommenda
 
 [[START OF PAGE 20]]
 
- State monitoring and inspections
+■ State monitoring and inspections
 
- Health and sanitation
+■ Health and sanitation
 
- Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools)
+■ Safety (children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools)
 
- Infrastructure
+■ Infrastructure
 
- Curriculum
+■ Curriculum
 
- Student-teacher ratio
+■ Student-teacher ratio
 
- School fees (if relevant)
+■ School fees (if relevant)
 
- Other
+■ Other
 
 - Please elaborate on each of the measures taken:
 
@@ -980,17 +972,17 @@ You may include information on policies, protocols or codes of conduct.
 
  Violence in schools
 
- Cost of education
+■ Cost of education
 
- Conflicts or crises
+■ Conflicts or crises
 
  Other:
 
- Low quality educational infrastructure and materials
+■ Low quality educational infrastructure and materials
 
  Inadequate parental support to education
 
- Long distances to schools
+■ Long distances to schools
 
 - Please elaborate. Brief quantitative information may be added.
 
@@ -1004,47 +996,47 @@ For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides 
 
 - Please indicate the measures taken to improve the teaching and working conditions of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked):
 
- Teacher training is provided without discrimination.
+■ Teacher training is provided without discrimination.
 
- Teachers' average salaries are competitive or at least comparable to those paid in other professions requiring similar or equivalent qualifications (at all levels).
+■ Teachers' average salaries are competitive or at least comparable to those paid in other professions requiring similar or equivalent qualifications (at all levels).
 
- Initial training and continuous professional development are provided.
+■ Initial training and continuous professional development are provided.
 
- Minimum standards and qualifications required for the teaching profession.
+■ Minimum standards and qualifications required for the teaching profession.
 
  Measures taken to strengthen the social status and attractiveness of the teaching profession.
 
- Measures  taken  to  promote  diversity  in  the  teaching  workforce,  including  to  redress  gender imbalances at different levels of education.
+■ Measures taken to promote diversity in the teaching workforce, including to redress gender imbalances at different levels of education.
 
- Establishment of performance monitoring systems.
+■ Establishment of performance monitoring systems.
 
- Measures taken to increase women in leadership positions in education.
+■ Measures taken to increase women in leadership positions in education.
 
  Other:
 
 - Please elaborate on each of the measures taken:
 
-In Technical and Professional Education, the measures taken to improve professional training consisted of upgrading trainers into Certificate B , managers into Certificate A and training in Digital Education as a way of providing quality teaching and learning process and enabling trainers to ICT technologies.
+In Technical and Professional Education, the measures taken to improve professional training consisted of upgrading trainers into Certificate B, managers into Certificate A and training in Digital Education as a way of providing quality teaching and learning process and enabling trainers to ICT technologies.
 
 - What challenges were encountered in the education personnel?
 
- Shortage of teaching staff
+■ Shortage of teaching staff
 
- Lack of qualified, trained and motivated teaching staff
+■ Lack of qualified, trained and motivated teaching staff
 
- Lack of training centres
+■ Lack of training centres
 
  Other:
+
+■ Low quality educational infrastructure and materials
+
+■ High student – teacher ratio
 
 - Please elaborate. Brief quantitative information may be added.
 
 To guarantee the quality of infrastructure, the government introduced pre-inspection as a pre-requisite to open training centers and inspection to start training courses. Regarding the qualification of the teaching staff, criteria were established relating to the academic level of the teaching staff, modalities of teaching (see articles 10, 33 and 35 all of Decree nº 43/2023 from August 2nd in conjunction with article 30 of Law nº 1/2023 of March 17th regarding the classification of Higher Education Institutions).
 
 #### 3.3 Respect for human rights and fundamental freedoms
-
-- o Low quality educational infrastructure and materials
-
-- o High student -teacher ratio
 
 [[END OF PAGE 21]]
 
@@ -1054,17 +1046,17 @@ For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provid
 
 - Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items may be ticked):
 
-- Please elaborate on each of the measures taken:
-
-- Qualifications (curricula) in Technical and Professional Education include life skills modules, which have human rights subjects.
-
-- Institutions have carried out activities in matters of human rights through other sectors such as Ministry of Justice, Ministry of Health, Ministry of Internal Affairs and Municipality, and Civil Society Organization.
-
  Curriculum includes human rights education.
 
  Educational and/or extracurricular activities are organized on human rights education.
 
  Other:
+
+- Please elaborate on each of the measures taken:
+
+- Qualifications (curricula) in Technical and Professional Education include life skills modules, which have human rights subjects.
+
+- Institutions have carried out activities in matters of human rights through other sectors such as Ministry of Justice, Ministry of Health, Ministry of Internal Affairs and Municipality, and Civil Society Organization.
 
 #### 3.4 Non-state actors in education
 
@@ -1090,13 +1082,13 @@ Law no. 18/2018, from 28 December, Law that approves the National Education Syst
 
 There are 57 Higher Education Institutions in Mozambique, 35 of which are private and 22 are State-owned. This shows that the Private Sector has been increasingly intervening in Higher Education.
 
- Legal provisions provide for the rights of the parents /legal guardians for providing religious and moral education for their children. Please specify:
+■ Legal provisions provide for the rights of the parents /legal guardians for providing religious and moral education for their children. Please specify:
 
 - According to number 4, of Article 12 of the Constitution of the Republic of Mozambique, the State recognizes the role of religious institutions in promoting peace and socio-economic development;
 
 - Decree No. 43/2023 from August 2, which approves the Licensing, Functioning and Regulations for HEI.
 
- Legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of non-state educational institutions. Please specify what is covered:
+■ Legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of non-state educational institutions. Please specify what is covered:
 
  Registration
 
@@ -1124,25 +1116,25 @@ There are 57 Higher Education Institutions in Mozambique, 35 of which are privat
 
 - What challenges were encountered in non-state education provision?
 
- Low quality educational infrastructure and materials
+■ Low quality educational infrastructure and materials
 
- Low number of professionally trained teachers
+■ Low number of professionally trained teachers
 
- High student - teacher ratio
+■ High student – teacher ratio
 
  Other:
 
  Issues in terms of equity and inclusion
 
- Weak government regulatory and monitoring capacity
+■ Weak government regulatory and monitoring capacity
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
 
-#### 3.5 Digital education
-
 - Please elaborate. Brief quantitative information may be added.
+
+#### 3.5 Digital education
 
 Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion 35 .
 
@@ -1186,39 +1178,39 @@ Distance Learning presupposes digital education. In this modality, all content i
 
 - What challenges were encountered in digital education provision (check all that apply)?
 
+■ Lack of quality, curriculum-aligned digital teaching and learning content that supports flexible learning and teaching pathways
+
+■ Lack of equity and inclusion in digital learning solutions
+
+■ inadequate safety measures and IT support to respond to issues of child online safety or reduce cyber security risks
+
+ Other:
+
+■ Limited access to internet and/or electricity
+
+■ Limited access to hardware (devices, chargers, etc.)
+
+■ Difficulty in regulating the use of digital education solutions
+
+■ Difficulty in sustainably financing digital education solutions at national scale
+
+■ Lack of digital skills development for meaningful use of digital technology in teaching practice
+
+ Disjointed or fragmented solutions that are not centrally systematized or regulated
+
 - Please elaborate. Brief quantitative information may be added.
 
 - Technical and Vocational Education qualifications already include in the Curriculum Plan the use of technologies and innovations, including digitalization;
 
 - Existence of specific digital packages in the training process.
 
- Lack of quality, curriculum-aligned  digital teaching and learning content that supports flexible learning and teaching pathways
-
- Lack of equity and inclusion in digital learning solutions
-
- inadequate safety measures and IT support to respond to issues of child online safety or reduce cyber security risks
-
- Other:
-
- Limited access to internet and/or electricity
-
- Limited access to hardware (devices, chargers, etc.)
-
- Difficulty in regulating the use of digital education solutions
-
- Difficulty in sustainably financing digital education solutions at national scale
-
- Lack of digital skills development for meaningful use of digital technology in teaching practice
-
- Disjointed or fragmented solutions that are not centrally systematized or regulated
-
 ### 4 Strengthening governance systems
 
-For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and  accessible  data  are available' ( para. 18).
+For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for effective education outcomes, governments should strengthen education systems by instituting and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional management arrangements, as well as ensure that robust, timely and accessible data are available" (para. 18).
 
 - Please indicate the measures taken in terms of governance (several items may be ticked):
 
- Monitoring mechanisms to assess compliance with the right to education obligations, including through management information systems.
+■ Monitoring mechanisms to assess compliance with the right to education obligations, including through management information systems.
 
  Monitoring results are made public. Please provide the link:
 
@@ -1254,13 +1246,13 @@ Furthermore, Technical and Professional Education Institutions have the scientif
 
  Lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels
 
- P oor dialogue with teachers' trade unions
+ Poor dialogue with teachers’ trade unions
 
  Other:
 
  Absence of supportive/ inconsistent/obsolete legal and policy environment
 
- Lack or weakness of monitoring systems - including the lack of reliable data
+ Lack or weakness of monitoring systems – including the lack of reliable data
 
 - Please elaborate. Brief quantitative information may be added.
 
