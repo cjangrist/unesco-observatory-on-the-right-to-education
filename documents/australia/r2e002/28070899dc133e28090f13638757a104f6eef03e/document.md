@@ -38,9 +38,24 @@ Australian Government Solicitor.
 
 ## Table of Contents
 
-Notes
-
-32
+Overview iv
+The Constitution 1
+Contents 3
+Covering clauses 6
+Chapter I—The Parliament 8
+Part I—General 8
+Part II – The Senate 8
+Part III – The House of Representatives 11
+Part IV – Both Houses of the Parliament 13
+Part V – Powers of the Parliament 14
+Chapter II—The Executive Government 18
+Chapter III—The Judicature 20
+Chapter IV—Finance and Trade 22
+Chapter V—The States 26
+Chapter VI—New States 28
+Chapter VII—Miscellaneous 29
+Chapter VIII—Alteration of the Constitution 30
+Notes 32
 
 AUSTRALIA'S CONSTITUTION
 
@@ -168,7 +183,7 @@ The Governor-General, however, exercises his or her powers in accordance with th
 
 In practice Ministers are also members of the parliamentary party or coalition of parties which holds a majority of seats in the House of Representatives. Ministers may either be senators or members of the House of Representatives, although established constitutional practice dictates that the Prime Minister must be a member of the House of Representatives rather than a senator. Despite their importance to the operations of the Executive Government, neither the head of the Government (the Prime Minister) nor the principal decision-making body in the Government (the Cabinet, which is made up of senior Government Ministers) is mentioned in the Constitution.
 
-The Federal Executive Council, which is referred to in various provisions of the Constitution, and in the expression 'Governor-General in Council', comprises all past and current Ministers. However, only current Ministers take part in Executive Council business, and usually only two or three Ministers attend meetings of the Council with the GovernorGeneral. Unlike the Cabinet, the Executive Council is not a deliberative body. Its principal functions are to receive advice and approve the signing of formal documents such as regulations and statutory appointments.
+The Federal Executive Council, which is referred to in various provisions of the Constitution, and in the expression 'Governor-General in Council', comprises all past and current Ministers. However, only current Ministers take part in Executive Council business, and usually only two or three Ministers attend meetings of the Council with the Governor-General. Unlike the Cabinet, the Executive Council is not a deliberative body. Its principal functions are to receive advice and approve the signing of formal documents such as regulations and statutory appointments.
 
 ### Federal Judicature
 
@@ -266,161 +281,96 @@ AUSTRALIA'S CONSTITUTION
 
 #### COVERING CLAUSES
 
-1. Short title
-
-2. Act to extend to the Queen's successors
-
-3. Proclamation of Commonwealth
-
-4. Commencement of Act
-
-5. Operation of the Constitution and laws
-
-6. Definitions
-
-7. Repeal of Federal Council Act
-
-8. Application of Colonial Boundaries Act
-
-9. Constitution
-
-#### CHAPTER I-THE PARLIAMENT
-
-##### Part I-General
-
-1. Legislative power
-
-2. Governor-General
-
-3. Salary of Governor-General
-
-4. Provisions relating to Governor-General
-
-5. Sessions of Parliament, prorogation and
-
-dissolution
-
-Summoning Parliament
-
-First session
-
-6. Y early session of Parliament
-
-##### Part II - The Senate
-
-7. The Senate
-
-8. Qualification of electors
-
-9. Method of election of senators
-
-Times and places
-
-10. Application of State laws
-
-11. Failure to choose senators
-
-12. Issue of writs
-
-7
-
-13. Rotation of senators
-
-14. Further provision for rotation
-
-9
-
-15. Casual vacancies
-
-16. Qualifications of senator
-
-17. Election of President
-
-18. Absence of President
-
-19. Resignation of senator
-
-20. Vacancy by absence
-
-21. Vacancy to be notified
-
-22. Quorum
-
-23. Voting in Senate
-
-6
-
-6
-
-6
-
-6
-
-6
-
-6
-
-7
-
-7
-
-7
-
-8
-
-8
-
-8
-
-8
-
-8
-
-8
-
-8
-
-8
-
-8
-
-9
-
-9
-
-9
-
-9
-
-9
-
-9
-
-9
-
-9
-
-9
-
-10
-
-10
-
-11
-
-11
-
-11
-
-11
-
-11
-
-11
-
-Bills reserved
-
-17
+1. Short title 6
+2. Act to extend to the Queen's successors 6
+3. Proclamation of Commonwealth 6
+4. Commencement of Act 6
+5. Operation of the Constitution and laws 6
+6. Definitions 6
+7. Repeal of Federal Council Act 7
+8. Application of Colonial Boundaries Act 7
+9. Constitution 7
+
+#### CHAPTER I—THE PARLIAMENT
+
+##### Part I—General
+
+1. Legislative power 8
+2. Governor-General 8
+3. Salary of Governor-General 8
+4. Provisions relating to Governor-General 8
+5. Sessions of Parliament, prorogation and dissolution 8
+Summoning Parliament 8
+First session 8
+6. Yearly session of Parliament 8
+
+##### Part II – The Senate
+
+7. The Senate 8
+8. Qualification of electors 9
+9. Method of election of senators 9
+Times and places 9
+10. Application of State laws 9
+11. Failure to choose senators 9
+12. Issue of writs 9
+13. Rotation of senators⁷ 9
+14. Further provision for rotation 9
+15. Casual vacancies⁹ 9
+16. Qualifications of senator 10
+17. Election of President 10
+18. Absence of President 11
+19. Resignation of senator 11
+20. Vacancy by absence 11
+21. Vacancy to be notified 11
+22. Quorum 11
+23. Voting in Senate 11
+
+##### Part III – The House of Representatives
+
+24. Constitution of House of Representatives 11
+25. Provisions as to races disqualified from voting 11
+26. Representatives in first Parliament 11
+27. Alteration of number of members 12
+28. Duration of House of Representatives 12
+29. Electoral divisions 12
+30. Qualification of electors 12
+31. Application of State laws 12
+32. Writs for general election 12
+33. Writs for vacancies 12
+34. Qualifications of members 12
+35. Election of Speaker 13
+36. Absence of Speaker 13
+37. Resignation of member 13
+38. Vacancy by absence 13
+39. Quorum 13
+40. Voting in House of Representatives 13
+
+##### Part IV – Both Houses of the Parliament
+
+41. Right of electors of States 13
+42. Oath or affirmation of allegiance 13
+43. Member of one House ineligible for other 13
+44. Disqualification 13
+45. Vacancy on happening of disqualification 14
+46. Penalty for sitting when disqualified 14
+47. Disputed elections 14
+48. Allowance to members 14
+49. Privileges etc. of Houses 14
+50. Rules and orders 14
+
+##### Part V – Powers of the Parliament
+
+51. Legislative powers of the Parliament 14
+52. Exclusive powers of the Parliament 16
+53. Powers of the Houses in respect of legislation 16
+54. Appropriation Bills 16
+55. Tax Bill 16
+56. Recommendation of money votes 17
+57. Disagreement between the Houses 17
+58. Royal assent to Bills 17
+Recommendations by Governor-General 17
+59. Disallowance by the Queen 17
+60. Signification of Queen's pleasure on Bills reserved 17
 
 AUSTRALIA'S CONSTITUTION
 
@@ -430,155 +380,86 @@ AUSTRALIA'S CONSTITUTION
 
 [[START OF PAGE 12]]
 
-#### CHAPTER IITHE EXECUTIVE GOVERNMENT
-
-61. Executive power
-
-62. Federal Executive Council
-
-63. Provisions referring to Governor-General
-
-64. Ministers of State
-
-Ministers to sit in Parliament
-
-65. Number of Ministers
-
-66. Salaries of Ministers
-
-67. Appointment of civil servants
-
-68. Command of naval and military forces
-
-69. Transfer of certain departments
-
-70. Certain powers of Governors to vest in
-
-Governor-General
-
-#### CHAPTER III-THE JUDICATURE
-
-71. Judicial power and Courts
-
-72. Judges' appointment, tenure
-
-and remuneration
-
-73. Appellate jurisdiction of High Court
-
-74. Appeal to Queen in Council
-
-75. Original jurisdiction of High Court
-
-76. Additional original jurisdiction
-
-77. Power to define jurisdiction
-
-78. Proceedings against Commonwealth
-
-or State
-
-79. Number of judges
-
-80. Trial by jury
-
-18
-
-18
-
-18
-
-18
-
-18
-
-18
-
-18
-
-18
-
-18
-
-18
-
-19
-
-20
-
-20
-
-20
-
-21
-
-21
-
-21
-
-21
-
-21
-
-21
-
-21
-
-#### CHAPTER IV-FINANCE AND TRADE
-
-81. Consolidated Revenue Fund
-
-82. Expenditure charged thereon
-
-83. Money to be appropriated by law
-
-84. Transfer of officers
-
-85. Transfer of property of State
-
-86. [Customs, excise, and bounties]
-
-87. [Revenue from customs and excise duties]
-
-88. Uniform duties of customs
-
-89. Payment to States before uniform duties
-
-90. Exclusive power over customs, excise,
-
-and bounties
-
-91. Exceptions as to bounties
-
-92. Trade within the Commonwealth to be free
-
-22
-
-22
-
-22
-
-22
-
-22
-
-23
-
-23
-
-23
-
-23
-
-23
-
-23
-
-23
-
-124. Formation of new States
-
-28
+#### CHAPTER II—THE EXECUTIVE GOVERNMENT
+
+61. Executive power 18
+62. Federal Executive Council 18
+63. Provisions referring to Governor-General 18
+64. Ministers of State 18
+Ministers to sit in Parliament 18
+65. Number of Ministers 18
+66. Salaries of Ministers 18
+67. Appointment of civil servants 18
+68. Command of naval and military forces 18
+69. Transfer of certain departments 18
+70. Certain powers of Governors to vest in Governor-General 19
+
+#### CHAPTER III—THE JUDICATURE
+
+71. Judicial power and Courts 20
+72. Judges' appointment, tenure and remuneration 20
+73. Appellate jurisdiction of High Court 20
+74. Appeal to Queen in Council 21
+75. Original jurisdiction of High Court 21
+76. Additional original jurisdiction 21
+77. Power to define jurisdiction 21
+78. Proceedings against Commonwealth or State 21
+79. Number of judges 21
+80. Trial by jury 21
+
+#### CHAPTER IV—FINANCE AND TRADE
+
+81. Consolidated Revenue Fund 22
+82. Expenditure charged thereon 22
+83. Money to be appropriated by law 22
+84. Transfer of officers 22
+85. Transfer of property of State 22
+86. [Customs, excise, and bounties] 23
+87. [Revenue from customs and excise duties] 23
+88. Uniform duties of customs 23
+89. Payment to States before uniform duties 23
+90. Exclusive power over customs, excise, and bounties 23
+91. Exceptions as to bounties 23
+92. Trade within the Commonwealth to be free 23
+93. Payment to States for five years after uniform tariffs 23
+94. Distribution of surplus 24
+95. Customs duties of Western Australia 24
+96. Financial assistance to States 24
+97. Audit 24
+98. Trade and commerce includes navigation and State railways 24
+99. Commonwealth not to give preference 24
+100. Nor abridge right to use water 24
+101. Inter-State Commission 24
+102. Parliament may forbid preferences by State 25
+103. Commissioners' appointment, tenure, and remuneration 25
+104. Saving of certain rates 25
+105. Taking over public debts of States 25
+105A. Agreements with respect to State debts 25
+
+#### CHAPTER V—THE STATES
+
+106. Saving of Constitutions 26
+107. Saving of power of State Parliaments 26
+108. Saving of State laws 26
+109. Inconsistency of laws 26
+110. Provisions referring to Governor 26
+111. States may surrender territory 26
+112. States may levy charges for inspection laws 26
+113. Intoxicating liquids 26
+114. States may not raise forces. Taxation of property of Commonwealth or State 26
+115. States not to coin money 26
+116. Commonwealth not to legislate in respect of religion 27
+117. Rights of residents in States 27
+118. Recognition of laws etc. of States 27
+119. Protection of States from invasion and violence 27
+120. Custody of offenders against laws of the Commonwealth 27
+
+#### CHAPTER VI—NEW STATES
+
+121. New States may be admitted or established 28
+122. Government of territories 28
+123. Alteration of limits of States 28
+124. Formation of new States 28
 
 AUSTRALIA'S CONSTITUTION
 
@@ -588,11 +469,20 @@ AUSTRALIA'S CONSTITUTION
 
 [[START OF PAGE 13]]
 
-#### CHAPTER VII-MISCELLANEOUS
+#### CHAPTER VII—MISCELLANEOUS
 
-Affirmation
+125. Seat of Government 29
+126. Power to Her Majesty to authorise Governor-General to appoint deputies 29
+127. 29
 
-31
+#### CHAPTER VIII—ALTERATION OF THE CONSTITUTION
+
+128. Mode of altering the Constitution 30
+
+#### SCHEDULE
+
+Oath 31
+Affirmation 31
 
 AUSTRALIA'S CONSTITUTION
 
@@ -738,7 +628,7 @@ After any general election the Parliament shall be summoned to meet not later th
 
 The Parliament shall be summoned to meet not later than six months after the establishment of the Commonwealth.
 
-##### 6.  Y early session of Parliament
+##### 6. Yearly session of Parliament
 
 There shall be a session of the Parliament once at least in every year, so that twelve months shall not intervene between the last sitting of the Parliament in one session and its first sitting in the next session.
 
@@ -898,33 +788,11 @@ For the purposes of the last section, if by the law of any State all persons of 
 
 Notwithstanding anything in section twenty-four, the number of members to be chosen in each State at the first election shall be as follows:
 
-New South Wales
-
-.........
-
-twenty-three;
-
-Victoria
-
-. ....................
-
-twenty;
-
-Queensland
-
-................
-
-eight;
-
-South Australia
-
-. ...........
-
-six;
-
-...................
-
-Tasmania five;
+New South Wales ........ twenty-three;
+Victoria .................... twenty;
+Queensland ............... eight;
+South Australia ........... six;
+Tasmania .................. five;
 
 AUSTRALIA'S CONSTITUTION
 
@@ -936,33 +804,12 @@ AUSTRALIA'S CONSTITUTION
 
 Provided that if Western Australia is an Original State, the numbers shall be as follows:
 
-New South Wales
-
-.........
-
-twenty-six;
-
-Victoria
-
-. ....................
-
-twenty-three;
-
-Queensland
-
-................
-
-nine;
-
-South Australia . ........... seven;
-
-Western Australia
-
-.........
-
-five;
-
-Tasmania ................... five.
+New South Wales ........ twenty-six;
+Victoria .................... twenty-three;
+Queensland ............... nine;
+South Australia ........... seven;
+Western Australia ........ five;
+Tasmania .................. five.
 
 ##### 27. Alteration of number of members
 
@@ -1292,7 +1139,7 @@ AUSTRALIA'S CONSTITUTION
 
 [[START OF PAGE 26]]
 
-### Chapter II-The Executive Government
+### Chapter II—The Executive Government
 
 ##### 61. Executive power
 
@@ -1360,7 +1207,7 @@ AUSTRALIA'S CONSTITUTION
 
 [[START OF PAGE 28]]
 
-### Chapter III-The Judicature
+### Chapter III—The Judicature
 
 ##### 71. Judicial power and Courts
 
@@ -1480,7 +1327,7 @@ AUSTRALIA'S CONSTITUTION
 
 [[START OF PAGE 30]]
 
-### Chapter IV-Finance and Trade
+### Chapter IV—Finance and Trade
 
 ##### 81. Consolidated Revenue Fund
 
@@ -1532,7 +1379,7 @@ On the establishment of the Commonwealth, the collection and control of duties o
 
 ##### 87. [Revenue from customs and excise duties]
 
-During  a  period  of  ten  years  after  the  establishment  of  the  Commonwealth  and  thereafter  until  the  Parliament otherwise provides, of the net revenue of the Commonwealth from duties of customs and of excise not more than onefourth shall be applied annually by the Commonwealth towards its expenditure.
+During a period of ten years after the establishment of the Commonwealth and thereafter until the Parliament otherwise provides, of the net revenue of the Commonwealth from duties of customs and of excise not more than one-fourth shall be applied annually by the Commonwealth towards its expenditure.
 
 The balance shall, in accordance with this Constitution, be paid to the several States, or applied towards the payment of interest on debts of the several States taken over by the Commonwealth.
 
@@ -1656,29 +1503,29 @@ The Parliament may take over from the States their public debts, or a proportion
 
 ##### 105A. Agreements with respect to State debts 19
 
-- The Commonwealth may make agreements with the States with respect to the public debts of the States, including:
+(1) The Commonwealth may make agreements with the States with respect to the public debts of the States, including:
 
-(a)	 the taking over of such debts by the Commonwealth;
+(a) the taking over of such debts by the Commonwealth;
 
-(b)	 the management of such debts;
+(b) the management of such debts;
 
-(c)	 the payment of interest and the provision and management of sinking funds in respect of such debts;
+(c) the payment of interest and the provision and management of sinking funds in respect of such debts;
 
-(d)	 the consolidation, renewal, conversion, and redemption of such debts;
+(d) the consolidation, renewal, conversion, and redemption of such debts;
 
-(e)	 the indemnification of the Commonwealth by the States in respect of debts taken over by the Commonwealth; and
+(e) the indemnification of the Commonwealth by the States in respect of debts taken over by the Commonwealth; and
 
-(f )	 the borrowing of money by the States or by the Commonwealth, or by the Commonwealth for the States.
+(f) the borrowing of money by the States or by the Commonwealth, or by the Commonwealth for the States.
 
-- The Parliament may make laws for validating any such agreement made before the commencement of this section.
+(2) The Parliament may make laws for validating any such agreement made before the commencement of this section.
 
-- The Parliament may make laws for the carrying out by the parties thereto of any such agreement.
+(3) The Parliament may make laws for the carrying out by the parties thereto of any such agreement.
 
-- Any such agreement may be varied or rescinded by the parties thereto.
+(4) Any such agreement may be varied or rescinded by the parties thereto.
 
-- Every such agreement and any such variation thereof shall be binding upon the Commonwealth and the States parties thereto notwithstanding anything contained in this Constitution or the Constitution of the several States or in any law of the Parliament of the Commonwealth or of any State.
+(5) Every such agreement and any such variation thereof shall be binding upon the Commonwealth and the States parties thereto notwithstanding anything contained in this Constitution or the Constitution of the several States or in any law of the Parliament of the Commonwealth or of any State.
 
-- The powers conferred by this section shall not be construed as being limited in any way by the provisions of section one hundred and five of this Constitution.
+(6) The powers conferred by this section shall not be construed as being limited in any way by the provisions of section one hundred and five of this Constitution.
 
 AUSTRALIA'S CONSTITUTION
 
@@ -1688,7 +1535,7 @@ AUSTRALIA'S CONSTITUTION
 
 [[START OF PAGE 34]]
 
-### Chapter V-The States
+### Chapter V—The States
 
 ##### 106. Saving of Constitutions
 
@@ -1766,7 +1613,7 @@ AUSTRALIA'S CONSTITUTION
 
 [[START OF PAGE 36]]
 
-### Chapter VI-New States
+### Chapter VI—New States
 
 ##### 121. New States may be admitted or established
 
@@ -1792,7 +1639,7 @@ AUSTRALIA'S CONSTITUTION
 
 [[START OF PAGE 37]]
 
-### Chapter VII-Miscellaneous
+### Chapter VII—Miscellaneous
 
 ##### 125. Seat of Government
 
@@ -1816,7 +1663,7 @@ AUSTRALIA'S CONSTITUTION
 
 [[START OF PAGE 38]]
 
-### Chapter VIII-Alteration of the Constitution
+### Chapter VIII—Alteration of the Constitution
 
 ##### 128. Mode of altering the Constitution 22
 
@@ -1846,13 +1693,13 @@ AUSTRALIA'S CONSTITUTION
 
 #### Oath
 
-I, A.B. , do swear that I will be faithful and bear true allegiance to Her Majesty Queen Victoria, Her heirs and successors according to law. SO HELP ME GOD!
+I, A.B., do swear that I will be faithful and bear true allegiance to Her Majesty Queen Victoria, Her heirs and successors according to law. SO HELP ME GOD!
 
 #### Affirmation
 
-I, A.B. ,  do solemnly and sincerely affirm and declare that I will be faithful and bear true allegiance to Her Majesty Queen Victoria, Her heirs and successors according to law.
+I, A.B., do solemnly and sincerely affirm and declare that I will be faithful and bear true allegiance to Her Majesty Queen Victoria, Her heirs and successors according to law.
 
-(NOTE The name of the King or Queen of the United Kingdom of Great Britain and Ireland for the time being is to be substituted from time to time. )
+(NOTE – The name of the King or Queen of the United Kingdom of Great Britain and Ireland for the time being is to be substituted from time to time.)
 
 AUSTRALIA'S CONSTITUTION
 
@@ -1864,7 +1711,7 @@ AUSTRALIA'S CONSTITUTION
 
 ## Notes
 
-- The Constitution as printed above contains all the alterations of the Constitution made up to 1 October 2010. These notes generally deal with matters up to that date. Particulars of the Acts by which the Constitution was altered are as follows:
+1. The Constitution as printed above contains all the alterations of the Constitution made up to 1 October 2010. These notes generally deal with matters up to that date. Particulars of the Acts by which the Constitution was altered are as follows:
 
 Act | Number and year | Date of Assent
 --- | --- | ---
@@ -1892,19 +1739,19 @@ s. 105A | ad. No. 1, 1929
 s. 127 | rep. No. 55, 1967
 s. 128 | am. No. 84, 1977
 
-- Covering clause 3 - The Proclamation under covering clause 3 was made on 17 September 1900 and is published in Gazette 1901, p. 1.
+2. Covering clause 3 – The Proclamation under covering clause 3 was made on 17 September 1900 and is published in Gazette 1901, p. 1.
 
-- Covering clause 5 - Cf. the Statute of Westminster Adoption Act 1942 .
+3. Covering clause 5 – Cf. the Statute of Westminster Adoption Act 1942.
 
-- Covering clause 7 - The following Acts have repealed Acts passed by the Federal Council of Australasia:
+4. Covering clause 7 – The following Acts have repealed Acts passed by the Federal Council of Australasia:
 
 Defence Act 1903 (No. 20, 1903), s. 6
 
-Pearl Fisheries Act 1952 (No. 8, 1952), s. 3 ( Pearl Fisheries Act 1952 repealed by Continental Shelf (Living Natural Resources) Act 1968 , s. 3)
+Pearl Fisheries Act 1952 (No. 8, 1952), s. 3 (Pearl Fisheries Act 1952 repealed by Continental Shelf (Living Natural Resources) Act 1968, s. 3)
 
-Service and Execution of Process Act 1901 (No. 11, 1901), s. 2 (s. 2 subsequently repealed by Service and Execution of Process Act 1963 , s. 3).
+Service and Execution of Process Act 1901 (No. 11, 1901), s. 2 (s. 2 subsequently repealed by Service and Execution of Process Act 1963, s. 3).
 
-- Section 7 - The number of senators for each State was increased to 12 by the Representation Act 1983 , s. 3.
+5. Section 7 – The number of senators for each State was increased to 12 by the Representation Act 1983, s. 3.
 
 AUSTRALIA'S CONSTITUTION
 
@@ -1914,46 +1761,46 @@ AUSTRALIA'S CONSTITUTION
 
 [[START OF PAGE 41]]
 
-- Section 9 - The following State Acts have been passed in pursuance of the powers conferred by s. 9:
+6. Section 9 – The following State Acts have been passed in pursuance of the powers conferred by s. 9:
 
-- Section 13 was amended by the Constitution Alteration (Senate Elections) 1906 , and previously read as follows:
+| State | Number | Short title | How affected |
+| --- | --- | --- | --- |
+| New South Wales | No. 73, 1900 | Federal Elections Act 1900 | Ss. 2, 3, 4, 5 and 6 and the Schedule repealed by No. 9, 1903; wholly repealed by No. 41, 1912 |
+|  | No. 9, 1903 | Senators’ Elections Act 1903 | (Still in force) |
+| Victoria | No. 1715 | Federal Elections Act 1900 | Repealed by No. 1860 |
+|  | No. 1860 | Senate Elections (Times and Places) Act 1903 | Repealed by No. 2723 |
+|  | No. 2399 | Senate Elections (Times and Places) Act 1912 | Repealed by No. 2723 |
+|  | No. 2723 | Senate Elections (Times and Places) Act 1915 | Repealed by No. 3769 |
+|  | No. 3769 | Senate Elections (Times and Places) Act 1928 | Repealed by No. 6365 |
+|  | No. 6365 | Senate Elections Act 1958 | (Still in force) |
+| Queensland | 64 Vic. No. 25 | The Parliament of the Commonwealth Elections Act and The Elections Acts 1885 to 1898 Amendment Act of 1900 | Operation exhausted |
+|  | 3 Edw.VII. No. 6 | The Election of Senators Act of 1903 | Repealed by 9 Eliz. II. No. 20 |
+|  | 9 Eliz. II. No. 20 | Senate Elections Act 1960 | (Still in force) |
+| South Australia | No. 834 | The Election of Senators Act 1903 | (Still in force) |
+| Western Australia | No. 11, 1903 | Election of Senators Act 1903 | (Still in force) |
+| Tasmania | 64 Vic. No. 59 | The Federal Elections Act 1900 | Repealed by 26 Geo. V. No. 3 |
+|  | 3 Edw. VII No. 5 | The Election of Senators Act 1903 | Repealed by 26 Geo. V. No. 3 |
+|  | 26 Geo. V No. 3 | Senate Elections Act 1935 | (Still in force) |
 
-State | Number | Short title | How affected
---- | --- | --- | ---
-New South Wales | No. 73, 1900 | Federal Elections Act 1900 | Ss. 2, 3, 4, 5 and 6 and the Schedule repealed by No. 9, 1903; wholly repealed by No. 41, 1912
-No. 9, 1903 | Senators' Elections Act 1903 | (Still in force)
-Victoria | No. 1715 | Federal Elections Act 1900 | Repealed by No. 1860
-No. 1860 | Senate Elections (Times and Places) Act 1903 | Repealed by No. 2723
-No. 2399 | Senate Elections (Times and Places) Act 1912 | Repealed by No. 2723
-No. 2723 | Senate Elections (Times and Places) Act 1915 | Repealed by No. 3769
-No. 3769 | Senate Elections (Times and Places) Act 1928 | Repealed by No. 6365
-No. 6365 | Senate Elections Act 1958 | (Still in force)
-Queensland | 64 Vic. No. 25 | The Parliament of the Commonwealth Elections Act and The Elections Acts 1885 to 1898 Amendment Act of 1900 | Operation exhausted
-3 Edw.VII. No. 6 | The Election of Senators Act of 1903 | Repealed by 9 Eliz. II. No. 20
-9 Eliz. II. No. 20 | Senate Elections Act 1960 | (Still in force)
-South Australia | No. 834 | The Election of Senators Act 1903 | (Still in force)
-Western Australia | No. 11, 1903 | Election of Senators Act 1903 | (Still in force)
-Tasmania | 64 Vic. No. 59 | The Federal Elections Act 1900 | Repealed by 26 Geo. V. No. 3
-3 Edw. VII No. 5 | The Election of Senators Act 1903 | Repealed by 26 Geo. V. No. 3
-26 Geo. V No. 3 | Senate Elections Act 1935 | (Still in force)
+7. Section 13 was amended by the Constitution Alteration (Senate Elections) 1906, and previously read as follows:
 
-' 13. As soon as may be after the Senate first meets, and after each first meeting of the Senate following a dissolution thereof, the Senate shall divide the senators chosen for each State into two classes, as nearly equal in number as practicable; and the places of the senators of the first class shall become vacant at the expiration of the third year, and the places of those of the second class at the expiration of the sixth year, from the beginning of their term of service; and afterwards the places of senators shall become vacant at the expiration of six years from the beginning of their term of service.
+“13. As soon as may be after the Senate first meets, and after each first meeting of the Senate following a dissolution thereof, the Senate shall divide the senators chosen for each State into two classes, as nearly equal in number as practicable; and the places of the senators of the first class shall become vacant at the expiration of the third year, and the places of those of the second class at the expiration of the sixth year, from the beginning of their term of service; and afterwards the places of senators shall become vacant at the expiration of six years from the beginning of their term of service.
 
 The election to fill vacant places shall be made in the year at the expiration of which the places are to become vacant.
 
-For the purposes of this section the term of service of a senator shall be taken to begin on the first day of January following the day of his election, except in the case of the first election and of the election next after any dissolution of the Senate, when it shall be taken to begin on the first day of January preceding the day of his election.'
+For the purposes of this section the term of service of a senator shall be taken to begin on the first day of January following the day of his election, except in the case of the first election and of the election next after any dissolution of the Senate, when it shall be taken to begin on the first day of January preceding the day of his election.”
 
-- Section  14  -  For  the  provisions  applicable  upon  the  increase  in  the  number  of  senators  to  12  made  by  the Representation  Act  1983, see s. 3 of that Act.
+8. Section 14 – For the provisions applicable upon the increase in the number of senators to 12 made by the Representation Act 1983, see s. 3 of that Act.
 
-- Section 15 was amended by the Constitution Alteration (Senate Casual Vacancies) 1977 , and previously read as follows:
+9. Section 15 was amended by the Constitution Alteration (Senate Casual Vacancies) 1977, and previously read as follows:
 
-' 15. If  the  place  of  a  senator  becomes vacant before the expiration of his term of service, the Houses of Parliament of  the  State  for  which  he  was  chosen  shall,  sitting  and  voting  together,  choose  a  person  to  hold  the  place until  the  expiration  of  the  term,  or  until  the  election  of  a  successor  as  hereinafter  provided,  whichever  first happens. But if the Houses of Parliament of the State are not in session at the time when the vacancy is notified, the Governor of the State, with the advice of the Executive Council thereof, may appoint a person to hold the place until the expiration of fourteen days after the beginning of the next session of the Parliament of the State, or until the election of a successor, whichever first happens.
+“15. If the place of a senator becomes vacant before the expiration of his term of service, the Houses of Parliament of the State for which he was chosen shall, sitting and voting together, choose a person to hold the place until the expiration of the term, or until the election of a successor as hereinafter provided, whichever first happens. But if the Houses of Parliament of the State are not in session at the time when the vacancy is notified, the Governor of the State, with the advice of the Executive Council thereof, may appoint a person to hold the place until the expiration of fourteen days after the beginning of the next session of the Parliament of the State, or until the election of a successor, whichever first happens.
 
-At the next general election of members of the House of Representatives, or at the next election of senators for the State, whichever  first  happens,  a  successor  shall,  if  the  term  has  not  then  expired,  be  chosen  to  hold  the  place  from  the  date  of  his  election until the expiration of the term.
+At the next general election of members of the House of Representatives, or at the next election of senators for the State, whichever first happens, a successor shall, if the term has not then expired, be chosen to hold the place from the date of his election until the expiration of the term.
 
-The name of any senator so chosen or appointed shall be certified by the Governor of the State to the Governor-General.'
+The name of any senator so chosen or appointed shall be certified by the Governor of the State to the Governor-General.”
 
-- Section 15 - The proposed law to alter the Constitution entitled 'Constitution Alteration (Simultaneous Elections) 1977' was submitted to the electors in each State of the Commonwealth on 21 May 1977: it was not approved by a majority of all the electors voting in a majority of the States. See Gazette 1977, No. S100, p. 1.
+10. Section 15 – The proposed law to alter the Constitution entitled “Constitution Alteration (Simultaneous Elections) 1977” was submitted to the electors in each State of the Commonwealth on 21 May 1977: it was not approved by a majority of all the electors voting in a majority of the States. See Gazette 1977, No. S100, p. 1.
 
 AUSTRALIA'S CONSTITUTION
 
@@ -1963,61 +1810,61 @@ AUSTRALIA'S CONSTITUTION
 
 [[START OF PAGE 42]]
 
-- Section 29 - The following State Acts were passed in pursuance of the powers conferred by s. 29, but ceased to be in force upon the enactment of the Commonwealth Electoral Act 1902:
+11. Section 29 – The following State Acts were passed in pursuance of the powers conferred by s. 29, but ceased to be in force upon the enactment of the Commonwealth Electoral Act 1902:
 
-- Section 51 - The following Imperial Acts extended the legislative powers of the Parliament:
+| State | Number | Short title |
+| --- | --- | --- |
+| New South Wales | No. 73, 1900 | Federal Elections Act 1900 |
+| Victoria | No. 1667 | Federal House of Representatives Victorian Electorates Act 1900 |
+| Queensland | 64 Vic. No. 25 | The Parliament of the Commonwealth Elections Act and The Elections Acts 1885 to 1898 Amendment Act of 1900 |
+| Western Australia | 64 Vic. No. 6 | Federal House of Representatives Western Australian Electorates Act 1900 |
 
-State | Number | Short title
---- | --- | ---
-New South Wales | No. 73, 1900 | Federal Elections Act 1900
-Victoria | No. 1667 | Federal House of Representatives Victorian Electorates Act 1900
-Queensland | 64 Vic. No. 25 | The Parliament of the Commonwealth Elections Act and The Elections Acts 1885 to 1898 Amendment Act of 1900
-Western Australia | 64 Vic. No. 6 | Federal House of Representatives Western Australian Electorates Act 1900
+12. Section 51 – The following Imperial Acts extended the legislative powers of the Parliament:
 
-Whaling Industry (Regulations) Act 1934 , s. 15 Geneva Convention Act 1937 , s. 2 Emergency Powers (Defence) Act 1939 , s. 5
+Whaling Industry (Regulations) Act 1934, s. 15
+Geneva Convention Act 1937, s. 2
+Emergency Powers (Defence) Act 1939, s. 5
+Army and Air Force (Annual) Act 1940, s. 3.
 
-Army and Air Force (Annual) Act 1940 , s. 3.
+13. Section 51 (xxiiiA) – This section was inserted by the Constitution Alteration (Social Services) 1946.
 
-- Section 51 (xxiiiA) - This section was inserted by the Constitution Alteration (Social Services) 1946 .
+14. Section 51 (xxvi) was amended by the Constitution Alteration (Aboriginals) 1967, and previously read as follows:
 
-- Section 51 (xxvi) was amended by the Constitution Alteration (Aboriginals) 1967, and previously read as follows:
+“(xxvi) the people of any race, other than the aboriginal race in any
+State, for whom it is deemed necessary to make special laws;”
 
-'(xxvi) the people of any race, other than the aboriginal race in any
+15. Section 51 (xxxvii) – The following Acts have been passed by the Parliaments of the States to refer matters to the Parliament under section 51 (xxxvii):
 
-State, for whom it is deemed necessary to make special laws;'
-
-- Section 51 (xxxvii) - The following Acts have been passed by the Parliaments of the States to refer matters to the Parliament under section 51 (xxxvii):
-
-State | Number | Short title | How affected
---- | --- | --- | ---
-New South Wales | No. 65, 1915 | Commonwealth Powers (War) Act 1915 | Expired 9 Jan 1921; see s. 5
-No. 33, 1942 | Commonwealth Powers Act 1942 | Expired; see s. 4
-No. 18, 1943 | Commonwealth Powers Act 1943 | Expired; see s. 4
-No. 48, 1983 | Commonwealth Powers (Meat Inspection) Act 1983 | Repealed by No. 147, 1997
-No. 182, 1986 | Commonwealth Powers (Family Law - Children) Act 1986 | (Still in force)
-No. 61, 1992 | Mutual Recognition (New South Wales) Act 1992 | (Still in force)
-No. 104, 1992 | Commonwealth Powers (State Banking) Act 1992 | (Still in force)
-No. 100, 1993 | Commonwealth Powers (Poultry Processing) Act 1993 | Repealed by No. 55, 1997
-No. 102, 1996 | Trans-Tasman Mutual Recognition (New South Wales) Act 1996 | (Still in force)
-No. 1, 2001 | Corporations (Commonwealth Powers) Act 2001 | (Still in force)
-No. 114, 2002 | Terrorism (Commonwealth Powers) Act 2002 | (Still in force)
-No. 49, 2003 | Commonwealth Powers (De Facto Relationships) Act 2003 | (Still in force)
-No. 69, 2008 | Water (Commonwealth Powers) Act 2008 | (Still in force)
-No. 35, 2009 | Personal Property Securities (Commonwealth Powers) Act 2009 | (Still in force)
-No. 115, 2009 | Industrial Relations (Commonwealth Powers) Act 2009 | (Still in force)
-No. 6, 2010 | Credit (Commonwealth Powers) Act 2010 | (Still in force)
-Victoria | No. 3108 | Commonwealth Powers (Air Navigation) Act 1920 | Repealed by No. 4502, 1937
-No. 3658 | Commonwealth Arrangements Act 1928 | Part III repealed by No. 4502, 1937; Parts I and II repealed by No. 6223, 1958
-No. 4009 | Debt Conversion Agreement Act 1931 (No. 2) | Repealed by No. 73, 2005
-No. 4950 | Commonwealth Powers Act 1943 | Not proclaimed to come into operation and cannot now be so proclaimed
-No. 92, 1986 | Commonwealth Powers (Family Law - Children) Act 1986 | (Still in force)
-No. 2, 1993 | Mutual Recognition (Victoria) Act 1993 | Expired; see s. 6
-No. 59, 1996 | Commonwealth Powers (Industrial Relations) Act 1996 | Repealed by No 24, 2009
-No. 4, 1998 | Trans-Tasman Mutual Recognition (Victoria) Act 1998 | (Still in force)
-No. 62, 1998 | Mutual Recognition (Victoria) Act 1998 | (Still in force)
-No. 6, 2001 | Corporations (Commonwealth Powers) Act 2001 | (Still in force)
-No. 14, 2003 | Terrorism (Commonwealth Powers) Act 2003 | (Still in force)
-No. 84, 2004 | Commonwealth Powers (De Facto Relationships) Act 2004 | (Still in force)
+| State | Number | Short title | How affected |
+| --- | --- | --- | --- |
+| New South Wales | No. 65, 1915 | Commonwealth Powers (War) Act 1915 | Expired 9 Jan 1921; see s. 5 |
+|  | No. 33, 1942 | Commonwealth Powers Act 1942 | Expired; see s. 4 |
+|  | No. 18, 1943 | Commonwealth Powers Act 1943 | Expired; see s. 4 |
+|  | No. 48, 1983 | Commonwealth Powers (Meat Inspection) Act 1983 | Repealed by No. 147, 1997 |
+|  | No. 182, 1986 | Commonwealth Powers (Family Law – Children) Act 1986 | (Still in force) |
+|  | No. 61, 1992 | Mutual Recognition (New South Wales) Act 1992 | (Still in force) |
+|  | No. 104, 1992 | Commonwealth Powers (State Banking) Act 1992 | (Still in force) |
+|  | No. 100, 1993 | Commonwealth Powers (Poultry Processing) Act 1993 | Repealed by No. 55, 1997 |
+|  | No. 102, 1996 | Trans-Tasman Mutual Recognition (New South Wales) Act 1996 | (Still in force) |
+|  | No. 1, 2001 | Corporations (Commonwealth Powers) Act 2001 | (Still in force) |
+|  | No. 114, 2002 | Terrorism (Commonwealth Powers) Act 2002 | (Still in force) |
+|  | No. 49, 2003 | Commonwealth Powers (De Facto Relationships) Act 2003 | (Still in force) |
+|  | No. 69, 2008 | Water (Commonwealth Powers) Act 2008 | (Still in force) |
+|  | No. 35, 2009 | Personal Property Securities (Commonwealth Powers) Act 2009 | (Still in force) |
+|  | No. 115, 2009 | Industrial Relations (Commonwealth Powers) Act 2009 | (Still in force) |
+|  | No. 6, 2010 | Credit (Commonwealth Powers) Act 2010 | (Still in force) |
+| Victoria | No. 3108 | Commonwealth Powers (Air Navigation) Act 1920 | Repealed by No. 4502, 1937 |
+|  | No. 3658 | Commonwealth Arrangements Act 1928 | Part III repealed by No. 4502, 1937; Parts I and II repealed by No. 6223, 1958 |
+|  | No. 4009 | Debt Conversion Agreement Act 1931 (No. 2) | Repealed by No. 73, 2005 |
+|  | No. 4950 | Commonwealth Powers Act 1943 | Not proclaimed to come into operation and cannot now be so proclaimed |
+|  | No. 92, 1986 | Commonwealth Powers (Family Law – Children) Act 1986 | (Still in force) |
+|  | No. 2, 1993 | Mutual Recognition (Victoria) Act 1993 | Expired; see s. 6 |
+|  | No. 59, 1996 | Commonwealth Powers (Industrial Relations) Act 1996 | Repealed by No 24, 2009 |
+|  | No. 4, 1998 | Trans-Tasman Mutual Recognition (Victoria) Act 1998 | (Still in force) |
+|  | No. 62, 1998 | Mutual Recognition (Victoria) Act 1998 | (Still in force) |
+|  | No. 6, 2001 | Corporations (Commonwealth Powers) Act 2001 | (Still in force) |
+|  | No. 14, 2003 | Terrorism (Commonwealth Powers) Act 2003 | (Still in force) |
+|  | No. 84, 2004 | Commonwealth Powers (De Facto Relationships) Act 2004 | (Still in force) |
 
 AUSTRALIA'S CONSTITUTION
 
@@ -2027,63 +1874,63 @@ AUSTRALIA'S CONSTITUTION
 
 [[START OF PAGE 43]]
 
-State | Number | Short title | How affected
---- | --- | --- | ---
-Victoria (continued) | No. 75, 2008 | Water (Commonwealth Powers) Act 2008 | (Still in force)
-No. 24, 2009 | Fair Work (Commonwealth Powers) Act 2009 | (Still in force)
-No. 60, 2009 | Personal Property Securities (Commonwealth Powers) Act 2009 | (Still in force)
-No. 11, 2010 | Credit (Commonwealth Powers) Act 2010 | (Still in force)
-Queensland | 12 Geo. V. No. 30 | The Commonwealth Powers (Air Navigation) Act 1921 | Repealed by 1 Geo. VI. No. 8
-22 Geo. V. No. 30 | The Commonwealth Legislative Power Act 1931 | Repealed by No. 46, 1983
-7 Geo. VI. No. 19 | Commonwealth Powers Act 1943 | Expired; see s. 4
-14 Geo. VI. No. 2 | The Commonwealth Powers (Air Transport) Act 1950 | (Still in force)
-No. 37, 1990 | Commonwealth Powers (Family Law - Children) Act 1990 | (Still in force)
-No. 67, 1992 | Mutual Recognition (Queensland) Act 1992 | (Still in force)
-No. 43, 2001 | Corporations (Commonwealth Powers) Act 2001 | (Still in force)
-No. 79, 2002 | Terrorism (Commonwealth Powers) Act 2002 | (Still in force)
-No. 45, 2003 | Trans-Tasman Mutual Recognition (Queensland) Act 2003 | (Still in force)
-No. 78, 2003 | Commonwealth Powers (De Facto Relationships) Act 2003 | (Still in force)
-No. 58, 2008 | Water (Commonwealth Powers) Act 2008 | (Still in force)
-No. 37, 2009 | Personal Property Securities (Commonwealth Powers) Act | (Still in force)
-No. 49, 2009 | 2009 Fair Work (Commonwealth Powers) and Other Provisions Act 2009 | (Still in force)
-No. 16, 2010 | Credit (Commonwealth Powers) Act 2010 | (Still in force)
-South Australia | No. 1469, 1921 | Commonwealth Powers (Air Navigation) Act 1921 | Repealed by No. 2352, 1937
-No. 2061, 1931 | Commonwealth Legislative Power Act 1931 | (Still in force)
-No. 3, 1943 | Commonwealth Powers Act 1943 | Expired; see s. 5
-No. 89, 1986 | Commonwealth Powers (Family Law) Act 1986 | (Still in force)
-No. 72, 1993 | Mutual Recognition (South Australia) Act 1993 | (Still in force)
-No. 27, 1999 | Trans-Tasman Mutual Recognition (South Australia) Act 1999 | (Still in force)
-No. 21, 2001 | Corporations (Commonwealth Powers) Act 2001 | (Still in force)
-No. 50, 2002 | Terrorism (Commonwealth Powers) Act 2002 | (Still in force)
-No. 43, 2008 | Water (Commonwealth Powers) Act 2008 | (Still in force)
-No. 47, 2009 | Personal Property Securities (Commonwealth Powers) Act 2009 | (Still in force)
-No. 57, 2009 | Fair Work (Commonwealth Powers) Act 2009 | (Still in force)
-No. 86, 2009 | Commonwealth Powers (De Facto Relationships) Act 2009 | (Still in force)
-No. 2, 2010 | Credit (Commonwealth Powers) Act 2010 | (Still in force)
-Western Australia | No. 4, 1943 | Commonwealth Powers Act 1943 | Repealed by No. 58, 1965
-No. 57, 1945 | Commonwealth Powers Act 1945 | Repealed by No. 58, 1965
-No. 30, 1947 | Commonwealth Powers Act 1943, Amendment Act | Repealed by No. 58, 1965
-No. 31, 1947 | 1947 Commonwealth Powers Act 1945, Amendment Act 1947 | Repealed by No. 58, 1965
-No. 73, 1947 | Commonwealth Powers Act 1945, Amendment Act (No. 2) 1947 | Repealed by No. 58, 1965
-No. 81, 1947 | Commonwealth Powers Act 1945-1947, Amendment (Continuance) Act 1947 | Repealed by No. 58, 1965
-No. 53, 1995 | Mutual Recognition (Western Australia) Act | Expired, see s. 7
-No. 6, 2001 | 1995 Mutual Recognition (Western Australia) Act 2001 | (Still in force)
-No. 7, 2001 | Corporations (Commonwealth Powers) Act 2001 | (Still in force)
-No. 53, 2002 | Terrorism (Commonwealth Powers) Act 2002 | (Still in force)
-No. 26, 2006 | Commonwealth Powers (De Facto Relationships) Act 2006 | (Still in force)
-No. 30, 2007 | Trans-Tasman Mutual Recognition (Western Australia) Act 2007 | (Still in force)
-No. 13, 2010 | Credit (Commonwealth Powers) Act 2010 | (Still in force)
-Tasmania | 11 Geo. V. No. 42 | Commonwealth Powers (Air Navigation) Act 1920 | Repealed by 1 Geo. VI. No. 14
-No. 46, 1952 | Commonwealth Powers (Air Transport) Act 1952 | (Still in force)
-No. 62, 1966 | Commonwealth Powers (Trade Practices) Act 1966 | Expired; see s. 2
-No. 5, 1987 | Commonwealth Powers (Family Law) Act 1987 | (Still in force)
-No. 33, 1993 | Mutual Recognition (Tasmania) Act 1993 | (Still in force)
-No. 39, 2001 | Corporations (Commonwealth Powers) Act 2001 | (Still in force)
-No. 68, 2002 | Terrorism (Commonwealth Powers) Act 2002 | (Still in force)
-No. 60, 2003 | Trans-Tasman Mutual Recognition (Tasmania) Act 2003 | (Still in force)
-No. 18, 2006 | Commonwealth Powers (De Facto Relationships) Act 2006 | (Still in force)
-No. 51, 2009 | Credit (Commonwealth Powers) Act 2009 | (Still in force)
-No. 88, 2009 | Industrial Relations (Commonwealth Powers) Act 2009 | (Still in force)
+| State | Number | Short title | How affected |
+| --- | --- | --- | --- |
+| Victoria (continued) | No. 75, 2008 | Water (Commonwealth Powers) Act 2008 | (Still in force) |
+|  | No. 24, 2009 | Fair Work (Commonwealth Powers) Act 2009 | (Still in force) |
+|  | No. 60, 2009 | Personal Property Securities (Commonwealth Powers) Act 2009 | (Still in force) |
+|  | No. 11, 2010 | Credit (Commonwealth Powers) Act 2010 | (Still in force) |
+| Queensland | 12 Geo. V. No. 30 | The Commonwealth Powers (Air Navigation) Act 1921 | Repealed by 1 Geo. VI. No. 8 |
+|  | 22 Geo. V. No. 30 | The Commonwealth Legislative Power Act 1931 | Repealed by No. 46, 1983 |
+|  | 7 Geo. VI. No. 19 | Commonwealth Powers Act 1943 | Expired; see s. 4 |
+|  | 14 Geo. VI. No. 2 | The Commonwealth Powers (Air Transport) Act 1950 | (Still in force) |
+|  | No. 37, 1990 | Commonwealth Powers (Family Law – Children) Act 1990 | (Still in force) |
+|  | No. 67, 1992 | Mutual Recognition (Queensland) Act 1992 | (Still in force) |
+|  | No. 43, 2001 | Corporations (Commonwealth Powers) Act 2001 | (Still in force) |
+|  | No. 79, 2002 | Terrorism (Commonwealth Powers) Act 2002 | (Still in force) |
+|  | No. 45, 2003 | Trans-Tasman Mutual Recognition (Queensland) Act 2003 | (Still in force) |
+|  | No. 78, 2003 | Commonwealth Powers (De Facto Relationships) Act 2003 | (Still in force) |
+|  | No. 58, 2008 | Water (Commonwealth Powers) Act 2008 | (Still in force) |
+|  | No. 37, 2009 | Personal Property Securities (Commonwealth Powers) Act 2009 | (Still in force) |
+|  | No. 49, 2009 | Fair Work (Commonwealth Powers) and Other Provisions Act 2009 | (Still in force) |
+|  | No. 16, 2010 | Credit (Commonwealth Powers) Act 2010 | (Still in force) |
+| South Australia | No. 1469, 1921 | Commonwealth Powers (Air Navigation) Act 1921 | Repealed by No. 2352, 1937 |
+|  | No. 2061, 1931 | Commonwealth Legislative Power Act 1931 | (Still in force) |
+|  | No. 3, 1943 | Commonwealth Powers Act 1943 | Expired; see s. 5 |
+|  | No. 89, 1986 | Commonwealth Powers (Family Law) Act 1986 | (Still in force) |
+|  | No. 72, 1993 | Mutual Recognition (South Australia) Act 1993 | (Still in force) |
+|  | No. 27, 1999 | Trans-Tasman Mutual Recognition (South Australia) Act 1999 | (Still in force) |
+|  | No. 21, 2001 | Corporations (Commonwealth Powers) Act 2001 | (Still in force) |
+|  | No. 50, 2002 | Terrorism (Commonwealth Powers) Act 2002 | (Still in force) |
+|  | No. 43, 2008 | Water (Commonwealth Powers) Act 2008 | (Still in force) |
+|  | No. 47, 2009 | Personal Property Securities (Commonwealth Powers) Act 2009 | (Still in force) |
+|  | No. 57, 2009 | Fair Work (Commonwealth Powers) Act 2009 | (Still in force) |
+|  | No. 86, 2009 | Commonwealth Powers (De Facto Relationships) Act 2009 | (Still in force) |
+|  | No. 2, 2010 | Credit (Commonwealth Powers) Act 2010 | (Still in force) |
+| Western Australia | No. 4, 1943 | Commonwealth Powers Act 1943 | Repealed by No. 58, 1965 |
+|  | No. 57, 1945 | Commonwealth Powers Act 1945 | Repealed by No. 58, 1965 |
+|  | No. 30, 1947 | Commonwealth Powers Act 1943, Amendment Act 1947 | Repealed by No. 58, 1965 |
+|  | No. 31, 1947 | Commonwealth Powers Act 1945, Amendment Act 1947 | Repealed by No. 58, 1965 |
+|  | No. 73, 1947 | Commonwealth Powers Act 1945, Amendment Act (No. 2) 1947 | Repealed by No. 58, 1965 |
+|  | No. 81, 1947 | Commonwealth Powers Act 1945-1947, Amendment (Continuance) Act 1947 | Repealed by No. 58, 1965 |
+|  | No. 53, 1995 | Mutual Recognition (Western Australia) Act 1995 | Expired, see s. 7 |
+|  | No. 6, 2001 | Mutual Recognition (Western Australia) Act 2001 | (Still in force) |
+|  | No. 7, 2001 | Corporations (Commonwealth Powers) Act 2001 | (Still in force) |
+|  | No. 53, 2002 | Terrorism (Commonwealth Powers) Act 2002 | (Still in force) |
+|  | No. 26, 2006 | Commonwealth Powers (De Facto Relationships) Act 2006 | (Still in force) |
+|  | No. 30, 2007 | Trans-Tasman Mutual Recognition (Western Australia) Act 2007 | (Still in force) |
+|  | No. 13, 2010 | Credit (Commonwealth Powers) Act 2010 | (Still in force) |
+| Tasmania | 11 Geo. V. No. 42 | Commonwealth Powers (Air Navigation) Act 1920 | Repealed by 1 Geo. VI. No. 14 |
+|  | No. 46, 1952 | Commonwealth Powers (Air Transport) Act 1952 | (Still in force) |
+|  | No. 62, 1966 | Commonwealth Powers (Trade Practices) Act 1966 | Expired; see s. 2 |
+|  | No. 5, 1987 | Commonwealth Powers (Family Law) Act 1987 | (Still in force) |
+|  | No. 33, 1993 | Mutual Recognition (Tasmania) Act 1993 | (Still in force) |
+|  | No. 39, 2001 | Corporations (Commonwealth Powers) Act 2001 | (Still in force) |
+|  | No. 68, 2002 | Terrorism (Commonwealth Powers) Act 2002 | (Still in force) |
+|  | No. 60, 2003 | Trans-Tasman Mutual Recognition (Tasmania) Act 2003 | (Still in force) |
+|  | No. 18, 2006 | Commonwealth Powers (De Facto Relationships) Act 2006 | (Still in force) |
+|  | No. 51, 2009 | Credit (Commonwealth Powers) Act 2009 | (Still in force) |
+|  | No. 88, 2009 | Industrial Relations (Commonwealth Powers) Act 2009 | (Still in force) |
 
 AUSTRALIA'S CONSTITUTION
 
@@ -2093,43 +1940,43 @@ AUSTRALIA'S CONSTITUTION
 
 [[START OF PAGE 44]]
 
-- Section 72 was amended by the Constitution Alteration (Retirement of Judges) 1977 , and previously read as follows:
+16. Section 72 was amended by the Constitution Alteration (Retirement of Judges) 1977, and previously read as follows:
 
-' 72. The Justices of the High Court and of the other courts created by the Parliament:
+“72. The Justices of the High Court and of the other courts created by the Parliament:
 
 (i) shall be appointed by the Governor-General in Council;
 
-(ii)	 shall not be removed except by the Governor-General in Council, on an address from both Houses of the Parliament in the same session, praying for such removal on the ground of proved misbehaviour or incapacity;
+(ii) shall not be removed except by the Governor-General in Council, on an address from both Houses of the Parliament in the same session, praying for such removal on the ground of proved misbehaviour or incapacity;
 
-(iii)	shall receive such remuneration as the Parliament may fix; but the remuneration shall not be diminished during their continuance in office.'
+(iii) shall receive such remuneration as the Parliament may fix; but the remuneration shall not be diminished during their continuance in office.”
 
-- Section 74 - See Privy Council (Limitation of Appeals) Act 1968, Privy Council (Appeals from the High Court) Act 1975 and Kirmani v Captain Cook Cruises Pty Ltd (No. 2); Ex parte Attorney-General (QLD) (1985) 159 CLR 451.
+17. Section 74 – See Privy Council (Limitation of Appeals) Act 1968, Privy Council (Appeals from the High Court) Act 1975 and Kirmani v Captain Cook Cruises Pty Ltd (No. 2); Ex parte Attorney-General (QLD) (1985) 159 CLR 451.
 
-- Section 105 was amended by the Constitution Alteration (State Debts) 1909 , and previously read as follows:
+18. Section 105 was amended by the Constitution Alteration (State Debts) 1909, and previously read as follows:
 
-' 105. The  Parliament  may  take  over  from  the  States  their  public  debts  as  existing  at  the  establishment  of  the Commonwealth, or a proportion thereof according to the respective numbers of their people as shown by the latest statistics of the Commonwealth, and may convert, renew, or consolidate such debts, or any part thereof; and the States shall indemnify the Commonwealth in respect of the debts taken over, and thereafter the interest payable in respect of the debts shall be deducted and retained from the portions of the surplus revenue of the Commonwealth payable to the several States, or if such surplus is insufficient, or if there is no surplus, then the deficiency or the whole amount shall be paid by the several States.'
+“105. The Parliament may take over from the States their public debts as existing at the establishment of the Commonwealth, or a proportion thereof according to the respective numbers of their people as shown by the latest statistics of the Commonwealth, and may convert, renew, or consolidate such debts, or any part thereof; and the States shall indemnify the Commonwealth in respect of the debts taken over, and thereafter the interest payable in respect of the debts shall be deducted and retained from the portions of the surplus revenue of the Commonwealth payable to the several States, or if such surplus is insufficient, or if there is no surplus, then the deficiency or the whole amount shall be paid by the several States.”
 
-- Section 105A - This section was inserted by the Constitution Alteration (State Debts) 1928 .
+19. Section 105A – This section was inserted by the Constitution Alteration (State Debts) 1928.
 
-- Section 126 - See clause IV of the Letters Patent relating to the Office of Governor-General, published in Gazette 2008 S179, pp. 3 and 4.
+20. Section 126 – See clause IV of the Letters Patent relating to the Office of Governor-General, published in Gazette 2008 S179, pp. 3 and 4.
 
-- Section 127 (titled 'Aborigines not to be counted in reckoning population') was repealed by the Constitution Alteration (Aboriginals) 1967 , and previously read as follows:
+21. Section 127 (titled “Aborigines not to be counted in reckoning population”) was repealed by the Constitution Alteration (Aboriginals) 1967, and previously read as follows:
 
-' 127. In reckoning the numbers of the people of the Commonwealth, or of a State or other part of the Commonwealth, aboriginal natives shall not be counted.'
+“127. In reckoning the numbers of the people of the Commonwealth, or of a State or other part of the Commonwealth, aboriginal natives shall not be counted.”
 
-- Section 128 was amended by the Constitution Alteration (Referendums) 1977 , and previously read as follows:
+22. Section 128 was amended by the Constitution Alteration (Referendums) 1977, and previously read as follows:
 
-' 128. This Constitution shall not be altered except in the following manner:
+“128. This Constitution shall not be altered except in the following manner:
 
-The proposed law for the alteration thereof must be passed by an absolute majority of each House of the Parliament, and not less than two nor more than six months after its passage through both Houses the proposed law shall be submitted in each State to the electors qualified to vote for the election of members of the House of Representatives.
+The proposed law for the alteration thereof must be passed by an absolute majority of each House of the Parliament, and not less than two nor more than six months after its passage through both Houses the proposed law shall be submitted in each State to the electors qualified to vote for the election of members of the House of Representatives.
 
-But if either House passes any such proposed law by an absolute majority, and the other House rejects or fails to pass it, or passes it with any amendment to which the first-mentioned House will not agree, and if after an interval of three months the first-mentioned House in the same or the next session again passes the proposed law by an absolute majority with or without any amendment which has been made or agreed to by the other House, and such other House rejects or fails  to  pass  it  or  passes  it  with  any  amendment  to  which  the  first-mentioned  House  will  not  agree,  the  GovernorGeneral may submit the proposed law as last proposed by the first-mentioned House, and either with or without any amendments subsequently agreed to by both Houses, to the electors in each State qualified to vote for the election of the House of Representatives.
+But if either House passes any such proposed law by an absolute majority, and the other House rejects or fails to pass it, or passes it with any amendment to which the first-mentioned House will not agree, and if after an interval of three months the first-mentioned House in the same or the next session again passes the proposed law by an absolute majority with or without any amendment which has been made or agreed to by the other House, and such other House rejects or fails to pass it or passes it with any amendment to which the first-mentioned House will not agree, the Governor-General may submit the proposed law as last proposed by the first-mentioned House, and either with or without any amendments subsequently agreed to by both Houses, to the electors in each State qualified to vote for the election of the House of Representatives.
 
-When a proposed law is submitted to the electors the vote shall be taken in such manner as the Parliament prescribes. But until the qualification of electors of members of the House of Representatives becomes uniform throughout the Commonwealth, only one-half the electors voting for and against the proposed law shall be counted in any State in which adult suffrage prevails.
+When a proposed law is submitted to the electors the vote shall be taken in such manner as the Parliament prescribes. But until the qualification of electors of members of the House of Representatives becomes uniform throughout the Commonwealth, only one-half the electors voting for and against the proposed law shall be counted in any State in which adult suffrage prevails.
 
-And if in a majority of the States a majority of the electors voting approve the proposed law, and if a majority of all the electors voting also approve the proposed law, it shall be presented to the Governor-General for the Queen's assent.
+And if in a majority of the States a majority of the electors voting approve the proposed law, and if a majority of all the electors voting also approve the proposed law, it shall be presented to the Governor-General for the Queen’s assent.
 
-No alteration  diminishing  the  proportionate  representation  of  any  State  in  either  House  of  the  Parliament,  or  the minimum number of representatives of a State in the House of Representatives, or increasing, diminishing, or otherwise altering the limits of the State, or in any manner affecting the provisions of the Constitution in relation thereto, shall become law unless the majority of the electors voting in that State approve the proposed law.'
+No alteration diminishing the proportionate representation of any State in either House of the Parliament, or the minimum number of representatives of a State in the House of Representatives, or increasing, diminishing, or otherwise altering the limits of the State, or in any manner affecting the provisions of the Constitution in relation thereto, shall become law unless the majority of the electors voting in that State approve the proposed law.”
 
 AUSTRALIA'S CONSTITUTION
 
