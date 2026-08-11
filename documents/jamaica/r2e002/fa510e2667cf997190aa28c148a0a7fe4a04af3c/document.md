@@ -1,973 +1,919 @@
 [[START OF PAGE 1]]
-
 EDUCATION
+
+1
 
 # THE EDUCATION ACT
 
-## ARRANGEMENT  OF SECTIONS
+## ARRANGEMENT OF SECTIONS
 
 ### PART I. Preliminary
 
-- Short title.
+1. Short title.
+2. Interpretation.
 
-- Interpretation.
+### PART II. Minister's Powers and Advisory Bodies
 
-### PART I I . Minisrer's  Powers and Advisory  Bodirs
+3. General powers of the Minister.
+4. Particular powers.
+5. Establishment and constitution of the Teachers Service Commission.
+6. Special committees.
 
-- General powers of  the Minister.
+### PART III. The Statutory System of Education
 
-- Particular powers.
+7. Stages of the statutory system of public education.
+8. Educational Boards.
+9. Management of public educational institutions.
+10. Minister's power to alter endowments.
+11. Certain educational interests to be protected in schemes.
+12. When scheme requires assent of governing body.
+13. Procedure with regard to schemes.
+14. [Repealed by Act 19 of 1980.]
+15. Loans to aided educational institutions.
+16. Transfer of educational institutions to new sites.
+17. Requirements to be fulfilled by public educational institutions.
+18. Conscience clause.
+19. Registration of students.
+20. Declaration of compulsory education areas and compulsory school age.
+21. Duty of parents to secure education of their children.
 
-- Establishment aad d t u t i o n o f the Teacher8 Scrvicc don.
-
-- Special mmmittees.
-
-### PART III. The Sratutory System of Education
-
-- Stages o f the  statntory  system  of  public education.
-
-- Educational Boards.
-
-- Management  of  public  educational  institutions.
-
-- Minister's  power to alter endowments.
-
-- Certain educational interests to  be  protected in schemes.
-
-- When scheme  requires  assent  o f governing M y .
-
-- Procedure with regard  to  schemes.
-
-[Repealed by Act 19 of 1980.1
-
-- IS .   L o a n s to aided educational in s t i t u t i o n s .
-
-- Transfer of e d ~ ~ a t i ~ ~ l institutions to new sites.
-
-- Requirements to  be f u l f i l l e d   by public educational in s t i t u t i o n s .
-
-- Conscience clause.
-
-- Regi s t r a t i o n of students.
-
-- Declaration o f   compulsory education areas and compulsory school age.
-
-- Duty  o f parents  to secure education o f
-
-- their  children.
-
-l I b c inclusion of this page is authorized by LN. 17/1982]
-
-- C o b -
-
+[The inclusion of this page is authorized by L.N. 17/1982]
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
-
 2
 
-EDUCA TION
+EDUCATION
 
-- School attendance  orders.
+22. School attendance orders.
+23. Authorization and powers of Attendance Officers.
+24. Children requiring special educational treatment.
 
-- Authorization and  powers  of  Attendance  05cers.
+### PART IV. Independent Schools
 
-- Children requiring special educational treatment.
+25. Registration of independent schools.
+26. Independent Schools Committee.
+27. Notices of complaint.
+28. Determination of complaints.
+29. Appeal to Minister.
+30. Enforcement.
+31. Removal of disqualifications.
 
-### PART IV. Independent  Schools
+### PART V. Registration and Discipline of Teachers
 
-- Registration o f   independent schools
+32. Functions of the Teachers Service Commission.
+33. Persons who may teach in a public educational institution.
+34. Registration of teachers.
+35. Grounds for refusal of registration.
+36. Authorized teachers.
+37. Appeals Tribunal.
+38. Disciplinary penalties.
 
-- Independent Schools Committee.
+### PART VI. General
 
-- Notices of  complaint.
+39. Inspection of educational institutions.
+40. Enquiry into management of endowed institutions.
+41. Approval required for disposal of property included in endowment.
+42. Certificate of age.
+43. Regulations.
+44. Wishes of parents to be considered in education of students.
 
-- Determination of  complaints
+### SCHEDULES
 
-- Appeal to Minister.
-
-- Enforcement.
-
-- Removal of disqualifications
-
-### PART V . Registration and Disciprine of Teahers
-
-. 32 . Functions  o f & Teaohm  SeMffi  Commission.
-
-- Persons  who may teaoh in a public educational instiRrtioa
-
-- Registration of teachers.
-
-- Grounds for refusal of   repistranion.
-
-- A u t h o W  teachers.
-
-- Appeals Tribunal.
-
-- Disc;Faimry penalties.
-
-### PART-. General
-
-- Inspection o f   educational institutions.
-
-- Enquiry into management  of  endowed institutions.
-
-- Approval  required  for disposal  of  property  included  in  endowment.
-
-- Ce r t i f i c a t e of age.
-
-- Regulations.
-
-- Wishes of parents to  be considered i n education o f students.
-
-### SCmDIJLEs
-
+[The inclusion of this page is authorized by L.N. 17/1982]
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+EDUCATION
 
-EDUCA TION
+3
 
 # THE EDUCATION ACT
 
-[16th December, 1965.1
+Acts
+8 of 1965.
+41 of 1975,
+2nd Sch.
+19 of 1980.
+
+[16th December, 1965.]
 
 ## PART I. Preliminary
 
-### 1.~
-This  Act  may  be  cited  as  the  Education  Act.
-
-- In  this  Act,  unless  the  context  otherwise  requires-
-
-'aided  educational  institution'  means any educational institution which  the  Minister  assists in  maintaining;
-
-- of   educational  training  for students  o f   ages six to fifteen  years; 'all-age  school'  means  a  school  that o f f e r s a  course
-
-- under  section 36 and employed as a teacher i n a public educational institution; 'authorized teacher' means a person registered as such
-
-- public  educational institution, the Board  o f   Man-' Board of Management'  means,  in  relation to  any agement of  that institution;
-
-'child'  means  a  person  who  has  not  attained  the  age of   fifteen years;
-
-'Commission' means the Teachers Service Commission established pursuant to section 5 ;
-
-'community  college'  means  an educational institution providing  tertiary  education  and  offering  a  wide variety o f   professional, para-professional,  vocational and academic  programmes,  or  any  of them, based  upon  the n&ds  of   the community  in'which the college is based,
-
-A C U S of 1965. 41 of 1975. 2nd-Sch. 19 0s 14 8 0 .
+### 1.
+This Act may be cited as the Education Act.
 
 Short title.
 
+### 2.
+In this Act, unless the context otherwise requires—
+
 Interpretation.
 
-; ? ( ; ; ?
+“aided educational institution” means any educational institution which the Minister assists in maintaining;
 
-;.9/$~
+“all-age school” means a school that offers a course of educational training for students of ages six to fifteen years;
 
-19j1980 S. Xb).
+19/1980
+S. 2(b).
 
-: .
+“authorized teacher” means a person registered as such under section 36 and employed as a teacher in a public educational institution;
 
-: .
+19/1980
+S. 2(b).
 
-: .
+“Board of Management” means, in relation to any public educational institution, the Board of Management of that institution;
 
-.
+19/1980
+S. 2(b).
 
-, ,
+“child” means a person who has not attained the age of fifteen years;
 
-. ,   .  .
+“Commission” means the Teachers Service Commission established pursuant to section 5;
 
-.
+19/1980
+S. 2(b).
 
-<:  . . .
+“community college” means an educational institution providing tertiary education and offering a wide variety of professional, para-professional, vocational and academic programmes, or any of them, based upon the needs of the community in which the college is based;
 
-. :
+19/1980
+S. 2(b).
 
-191 I 980 S.Zb),:. . .
-
-' .
-
-._
-
-_,
-
-.  .  - .
-
-,
-
-.  .  .
-
-.
-
-.
-
-i9/1980 S. Xb ) .
-
-mo   inclusion o f t h i s page is  auihorizod by L.N. 17/1982]
-
+[The inclusion of this page is authorized by L.N. 17/1982]
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+4
 
-EDUCA  TZON
+EDUCATION
 
-d
+“compulsory school age” means, in relation to any compulsory education area, the ages between which all children residing in such area are declared, under section 20, to be of compulsory school age;
 
-i 9 & S
+“conscience clause” means section 18;
 
-: % ?
+“educational institution” means any school, technical institution, training centre, teachers college, community college, institution of higher education or such other institution as may be prescribed;
 
-3 g O
+19/1980
+S. 2(b).
 
-'compulsory  school  age'  means,  in  relation to  any compulsory education area, the ages between which all children residing in such area are declared,  under  section 20, to  be  o f   compulsory school age;
+“endowed educational institution” means any educational institution which is wholly or partially maintained by means of any endowment but does not include—
 
-'conscience clause' means section 18;
+(a) any educational institution the endowment of which is applicable and applied solely for the education of persons being trained to be ministers of any religious denomination; or
 
-'educational  institution'  means  any  school,  technical institution,  training  centre,  teachers  college,  community  college, institution  of  higher  education  or such other institution a s may be prescribed;
+(b) any educational institution which is maintained wholly or partially out of annual voluntary subscriptions and has no endowment other than the premises thereof;
 
-'endowed  educational  institution'  means  any  educational institution which is wholly or partially maintained by  means of any endowment but does not include-
+“functions” includes powers and duties;
 
-(a) any  educational  institution  the  endowment of which is applicable and applied solely for the education of persons being trained to be ministers of  any religious denomination; or
+19/1980
+S. 2(b).
 
-(b) any  educational  institution  which  is  maintained wholly  or  partially  out of annual voluntary  subscriptions and has no endowment  other  than  the  premises  thereof;
+“high school” means any secondary school classified by the Minister as a high school;
 
-''functions'' includes powers and duties;
+“independent school” means any school at which education is provided for twenty or more students between the ages of eight years and nineteen years, not being a public educational institution;
 
-'high  school'  means  any  secondary  school  classified by the Minister as a high school;
+19/1980
+S. 2(d).
 
-'independent school' means any school at  which education is provided  for twenty or more students between the ages of eight years and nineteen years, not being a public educational institution;
+“the Independent Schools Committee” means the Independent Schools Committee established under section 26;
 
-'the Independent Schools  Committee' means the Independent  Schools Committee established under section 26;
+“parent”, in relation to any child, includes a guardian and every person who has the actual custody of the child;
 
-'parent', in  relation  to  any child,  includes a guardian and every person who has the actual custody of the child;
-
-inelusion of t h m paae i s authorized by L.N. 17/1982]
-
+[The inclusion of this page is authorized by L.N. 17/1982]
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
-
-ED UCA TZON
+EDUCATION
 
 5
 
-'pre-trained  teacher'  means  a  person  employed,  or seeking  appointment, as a  teacher in a  public educational institution who has not pursued, either at  a  teachers  college  or  some  other  institution recognized  by  the  Minister  as  providing  training for  teachers,  a  programme  of training  which  included  a  course in  teaching  theory and practice;
+“pre-trained teacher” means a person employed, or seeking appointment, as a teacher in a public educational institution who has not pursued, either at a teachers college or some other institution recognized by the Minister as providing training for teachers, a programme of training which included a course in teaching theory and practice;
 
-'pre-primary school' means a school (or a department of  a school) which  offers  a course  of  educational training  and  experience  for  students  who,  at the commencement  of any school year, have  not attained the age of  six years;
+19/1980
+S. 2(b).
 
-'primary  education'  has the  meaning assigned to that expression by section 7;
+“pre-primary school” means a school (or a department of a school) which offers a course of educational training and experience for students who, at the commencement of any school year, have not attained the age of six years;
 
-'primary  school'  means a school  (or department of  a school) that  offers not  less than a five-year  course of educational training and experience for students of  ages six to twelve years;
+19/1980
+S. 2(b).
 
-- mencement  of any  school year, has not  attained the age o f   twelve years; 'primary student'  means a  student  who,  at the corn-
+“primary education” has the meaning assigned to that expression by section 7;
 
-; 9 ; ; 0
+“primary school” means a school (or department of a school) that offers not less than a five-year course of educational training and experience for students of ages six to twelve years;
 
-1911980 S. 2(b).
+19/1980
+S. 2(b).
 
-19/1980 S. 2(b).
+“primary student” means a student who, at the commencement of any school year, has not attained the age of twelve years;
 
-1911980 S. wb).
+19/1980
+S. 2(b).
 
-'public educational institution' means any educational institution which is maintained by the Minister and includes any  aided  educational  institution;
+“public educational institution” means any educational institution which is maintained by the Minister and includes any aided educational institution;
 
-'school',  where  used  without  qualification,  means an institution for providing  primary or secondary education  or  both  primary  and  secondary education;
+“school”, where used without qualification, means an institution for providing primary or secondary education or both primary and secondary education;
 
-'school year' means such period,  not exceeding twelve months,  as may  from time to time  be  prescribed as a school year for the purposes  of  administering this Act;
+“school year” means such period, not exceeding twelve months, as may from time to time be prescribed as a school year for the purposes of administering this Act;
 
-'secondary education' has the meaning assigned to that expression by section 7;
+“secondary education” has the meaning assigned to that expression by section 7;
 
-W e indurion of thm puga ia aulbrized by LN. 17/1982]
-
+[The inclusion of this page is authorized by L.N. 17/1982]
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
-
 6
 
 EDUCATION
 
-1911980 S. Xb).
+“secondary school” means a school (or department of a school) that offers not less than a five-year course of educational training and experience for students who have attained the age of eleven years;
 
-1911980 S. m L
+19/1980
+S. 2(b).
 
-Gtllelal powm of lho Minister.
+“secondary student” means a student who—
 
-'secondary school'  means  a school  (or department o f a school) that offers not less than a five-year course of   educational training and experience for students who have attained the age o f   eleven years; 'secondary  student'  means  a  student  who-
+(a) at the commencement of any school year, has attained the age of twelve years and is under the age of thirteen years; or
 
-(U) at the commencement o f   any  school year, has attained the age of   twelve years and is  under the age of  thirteen years; or
+(b) will attain the age of twelve years by the 31st of December in the year in which he is admitted to school;
 
-(b) will attain the age o f   twelve years by  the 31st of December  in  the year  in  which  he i s admitted to school;
+19/1980
+S. 2(b).
 
-'student'  means  a person for whom education is  provided under this Act;
+“student” means a person for whom education is provided under this Act;
 
-'teachers college' means any institution established for the purpose of  training teachers for service in public educational institutions;
+19/1980
+S. 2(b).
 
-'technical  institution'  means  any college, high  school or other  institution established  for the purpose  of providing  for studies, tr a i n i n g or research in  technology, science, commerce, dance, music or art, or such  other  discipline  as  may  be  prescribed;
+“teachers college” means any institution established for the purpose of training teachers for service in public educational institutions;
 
-'tertiary education' has  the meaning assigned to it by se c t i o n 7;
+“technical institution” means any college, high school or other institution established for the purpose of providing for studies, training or research in technology, science, commerce, dance, music or art, or such other discipline as may be prescribed;
 
-'training  centre'  means  any institution  established for the  purpose  o f providing  education  and  training in any vocation  requiring  manual skill.
+19/1980
+S. 2(b).
 
-## PART 1 1 . Minister's Powers and Advisory  Bodies
+“tertiary education” has the meaning assigned to it by section 7;
+
+19/1980
+S. 2(b).
+
+“training centre” means any institution established for the purpose of providing education and training in any vocation requiring manual skill.
+
+## PART II. Minister's Powers and Advisory Bodies
+
+General powers of the Minister.
 
 ### 3.
-It shall be lawful for the Minister-
+It shall be lawful for the Minister—
 
-(a) to promote the education of  the people of  Jamaica and  the  progressive  development  of institutions devoted to that purpose;
+(a) to promote the education of the people of Jamaica and the progressive development of institutions devoted to that purpose;
 
-( b ) to frame an educational policy designed to provide a  varied and comprehensive educational service in Jamaica;
+(b) to frame an educational policy designed to provide a varied and comprehensive educational service in Jamaica;
 
-m e inclusion o f t h i s p; l $ e  is authorized by LN. 17/19821
-
+[The inclusion of this page is authorized by L.N. 17/1982]
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
-
 EDUCATION
 
 7
 
-(c) to secure the effective execution of the educational policy o f   the Government of Jamaica;
+(c) to secure the effective execution of the educational policy of the Government of Jamaica;
 
-(d to establish a  co-ordinated educational system organized in accordance with the provisions of this Act;
+(d) to establish a co-ordinated educational system organized in accordance with the provisions of this Act;
 
-(e) to contribute towards  the  spiritual,  moral,  mental and  physical  development  of the  community  by securing that  efficient education  shall  be available to meet the needs of the Island.
-
-### 4.
--(1) Without  prejudice  to  the  generality of the  provisions of section 3 the  Minister  shall  have  power-
-
-(U) to establish schools in such places as he may think fit and  to  determine  the  classification  o f such schools;
-
-(b) to maintain or assist in maintaining schools, whether  established  by  him  or  otherwise;
-
-(c) to  establish,  maintain and  assist  in  maintaining such  teachers  colleges  and  other  institutions as he may  consider  necessary  for  the  training  o f teachers  and to take  such other  action as he may consider necessary to ensure that  the requirements for teachers  in public  educational  institutions will be satisfied;
-
-(d) to  establish,  maintain and  assist  in  maintaining such  technical  institutions  and training  centres as he  may  consider  necessary  to  fulfil  the  requirements  for  technical  and  vocational  education;
-
-(e) to  provide or assist  in  providing  such  facilities as he may think fit for tm t i a r y education;
-
-(f, to  provide,  subject  to  such  conditions  as  may  be prescribed, such number of places i n public educational  institutions  as  he  may  from  time  to  time determine;
-
-1911 9 8 0 S. 3(1Xa).
-
-i9/1980 S. 3(1Xb).
+(e) to contribute towards the spiritual, moral, mental and physical development of the community by securing that efficient education shall be available to meet the needs of the Island.
 
 Particular powers.
 
-inclusion of this  page i s autborizcd by LN. 17/19821
+### 4.
+(1) Without prejudice to the generality of the provisions of section 3 the Minister shall have power—
 
+(a) to establish schools in such places as he may think fit and to determine the classification of such schools;
+
+(b) to maintain or assist in maintaining schools, whether established by him or otherwise;
+
+(c) to establish, maintain and assist in maintaining such teachers colleges and other institutions as he may consider necessary for the training of teachers and to take such other action as he may consider necessary to ensure that the requirements for teachers in public educational institutions will be satisfied;
+
+(d) to establish, maintain and assist in maintaining such technical institutions and training centres as he may consider necessary to fulfil the requirements for technical and vocational education;
+
+(e) to provide or assist in providing such facilities as he may think fit for tertiary education;
+
+19/1980
+S. 3(1)(a).
+
+(f) to provide, subject to such conditions as may be prescribed, such number of places in public educational institutions as he may from time to time determine;
+
+19/1980
+S. 3(1)(b).
+
+[The inclusion of this page is authorized by L.N. 17/1982]
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
-
 8
 
 EDUCATION
 
-19/1980 S. 3(l)(c).
+(g) subject to such conditions as may be prescribed, to render to any student or class of students such forms of assistance as may be necessary to enable such student or class of students to take full advantage of the educational facilities available;
 
-1911980 S. 3(1Xd).
+19/1980
+S. 3(1)(c).
 
-1911980 s. 3 w a ) (b).
+(h) to provide for the grant of scholarships, exhibitions, bursaries and other financial assistance including loans for tertiary education.
 
-19/1980 s. 3(3).
+19/1980
+S. 3(1)(d).
 
-Esta'blishment  and mnstimt h of the Teachers Service Commission.
+(2) Assistance to students under paragraph (g) of subsection (1) may include the provision of free places in independent schools, books and medical and dental service, and such other forms of assistance as the Minister may consider necessary in any particular case.
 
-1911980 s. 4. First Sohdule.
+19/1980
+S. 3(2)(a) & (b).
 
-Special cornmiltees 1911980 s. 5.
+(3) For the purposes of this section “free places” means accommodation in an educational institution allotted to students who, or whose parents, are by reason of the allotment exempt from any liability to pay fees for tuition in such institution.
 
-(g) subject  to  such  conditions  as  may  be  prescribed, to  render  to any student or class o f   students such forms of  assistance as may be necessary to enable such student or class o f   students to take full advantage of   the educational facilities available;
+19/1980
+S. 3(3).
 
-(h) to  provide  for  the  grant  of scholarships,  exhibitions, bursaries and other financial assistance including loans for  tertiary  education.
+Establishment and constitution of the Teachers Service Commission.
 
-(2) Assistance to students under paragraph ( g ) of subsection  (1) may include the provision  o f   free places in independent schools, books and medical and dental service, and such other forms of  assistance as the Minister may consider necessary in any particular case.
+19/1980
+S. 4.
+First Schedule.
 
-(31  For  the  purposes of this  section  'free  places' nieans  accommodation in an educational institution allotted to  students  who,  or  whose  parents,  are  by  reason o f the allotment exempt  from  any liability to pay fees for tuition in such institution,
+### 5.
+(1) There shall be established for the purposes of this Act a body to be called the Teachers Service Commission.
 
-### S.
--(l) There shall be established for the purposes  of  this Act a body to be ca l l e d the Teachers Service Commission.
+(2) The provisions of the First Schedule shall have effect as to the constitution of the Commission and otherwise in relation thereto.
 
-( 2 ) The provisions  of the  First  Schedule  shall have effect  as  to  the  constitution  of  the Commission and otherwise in relation thereto.
+(3) The Commission shall have such powers and duties as are specified in Part V or as may be prescribed.
 
-(3) The  Commission  shall  have  such  powers  and duties  as are specified in P a r t  V or as may be prescribed.
+Special committees.
+
+19/1980
+S. 5.
 
 ### 6.
--(1) The Minister  may  from  time  to  time  establish such  special  committees  as  he  may  think  it  expedient  to establish  for  assisting  him  in  an  advisory  capacity  in  the discharge of any o f   his duties under this Act.
+(1) The Minister may from time to time establish such special committees as he may think it expedient to establish for assisting him in an advisory capacity in the discharge of any of his duties under this Act.
 
-(2) Every  special  committee  shall  consist  o f such members as the Minister shall appoint.
+(2) Every special committee shall consist of such members as the Minister shall appoint.
 
-me  inclusion ot this page is anfhorb3 by L.N. 17/1982]
-
+[The inclusion of this page is authorized by L.N. 17/1982]
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
-
 EDUCATION
 
 9
 
-( 3 ) A special  committee  shall  have  such  duties  as the  Minister  shall specify upon  the  appointment of such committee  and  the  Minister  may  refer  any  matter to a special committee.
+(3) A special committee shall have such duties as the Minister shall specify upon the appointment of such committee and the Minister may refer any matter to a special committee.
 
-## PART  III. The Statutwy Syrtern of Education
+## PART III. The Statutory System of Education
+
+Stages of the statutory system of public education.
+
+19/1980
+S. 6.
 
 ### 7.
-The  statutory  system  of public  education shall  be organized i n three  stages,  that  is  to  say-
+The statutory system of public education shall be organized in three stages, that is to say—
 
-(a) primary  education, which  shall consist o f   full-time  eduoation, education generally suitable to the requirements of students who  are not over the age o f   twelve years and,  for  the  purposes  o f this  Act,  shall  include education at a pre-primary school;
+(a) primary education, which shall consist of full-time education generally suitable to the requirements of students who are not over the age of twelve years and, for the purposes of this Act, shall include education at a pre-primary school;
 
-stags of the  statutory systcm o f public A92980
+(b) secondary education, which shall consist of full-time education generally suitable to the requirements of students who have attained the age of eleven years and are not over the age of nineteen years; and
 
-( h ) secondary  education,  which  shall  consist of fulltime  education  generally  suitable to the  requirements of students  who  have  attained  the  age  of eleven years  and are not over the age of  nineteen years; and
+(c) tertiary education, which shall consist of—
 
-(c) tertiary education, which shall consist of-
+(i) full-time education other than primary or secondary education;
 
-(i)  full-time  education  other  than  primary  or secondary education;
+(ii) part-time education; and
 
-(i i ) part-time education; and
+(iii) leisure-time occupation in organized cultural training and recreative activities,
 
-( i i i ) leisure-time occupation in organized cultural training  and  recreative  activities,
+available in pursuance of any provision made under this Act for further education for students who have attained the age of fifteen years.
 
-available  in  pursuance of any  provision  made under this Act for  further  education for students who have attained the age o f   fifteen years.
+Educational Boards.
 
-### S.
--(l) The  Minister  may  from  time  to  time  divide the Island  into  such  educational  districts  as  he  may  think fit and shall  establish  for  each  educational district  an Educational  Board.
+### 8.
+(1) The Minister may from time to time divide the Island into such educational districts as he may think fit and shall establish for each educational district an Educational Board.
 
-effect as to the constitution of  each Educational  Board and otherwise in relation thereto. (2) The provisions o f the Second Schedule shall have m-tiw a d schedule M -~ ~ institutions. 19l1980 s . X . ) .
+(2) The provisions of the Second Schedule shall have effect as to the constitution of each Educational Board and otherwise in relation thereto.
 
-[Tbe iaduaion of thia page ia authorwd by L.N. 41119871
+Second Schedule.
 
+[The inclusion of this page is authorized by L.N. 41/1987]
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
-
 10
 
 EDUCATION
 
-19/19110 '' ' "
+(3) Each Educational Board shall have, in addition to the powers conferred upon Educational Boards by this Act, such powers and duties as may be prescribed.
 
-- Each  Educational  Board  shall  have,  in  addition to  the  powers  conferred upon Educational Boards by  this Act, such powers and duties as may be prescribed.
+(4) Proceedings against any person for an offence against section 21 or 22 or 23 or 24, or for the recovery of any penalties under any of the said sections, may be instituted by the Educational Board for the area in which the offence is committed.
 
-(4) Proceedings  against any person  for  an  offence against  section 21 or  22  or  23  or 24, or  for  the  recovery of  any  penalties  under  any  o f the  said  sections,  may  be instituted  by  the Educational Board for the  area in  which the offence is committed.
+(5) In any action or other legal proceedings brought against any member of an Educational Board in respect of any act done in pursuance or execution or intended execution of this Act, the plaintiff shall not recover unless he alleges in his pleading and proves at the trial that such act was done either maliciously or without reasonable and probable cause.
 
-(5) In any  action or  other legal  proceedings  brought against  any  member  of  an  Educational Board in  respect of any  act  done  in  pursuance  or  execution  or  intended execution o f this Act, the plaintiff  shall not  recover unless he  alleges in his pleading and proves at the trial that  such act was done either maliciously or without reasonable and probable cause.
+Management of public educational institutions.
 
-### ~ 9.
--( 1 ) Every public educational institution shall be administered-
+19/1980
+S. 7(a).
 
-(a) by  a  Board  o f Management, which  shall  consist o f not  less than three persons  appointed  in  the prescribed manner and shall have such powers and duties as  m y be prescribed; or
+### 9.
+(1) Every public educational institution shall be administered—
 
-(b) where the  Minister so directs, in  accordance with the provisions of a scheme  approved by the Minister.
+(a) by a Board of Management, which shall consist of not less than three persons appointed in the prescribed manner and shall have such powers and duties as may be prescribed; or
 
-- Every  scheme  which  provides  for  the  management  of  a public educational institution shall contain provisions  for  the constitution,  powers  and  duties o f a  Board o f   Management fo r the educational institution to which the scheme relates and shall also provide  for the keeping and audit o f   the accounts o f   such Board in a manner satisfactory to the M i n i s t e r .
+(b) where the Minister so directs, in accordance with the provisions of a scheme approved by the Minister.
 
-- The  Minister  may  take  such  action as he  may consider necessary whenever  there is  serious failure in  the successful  working  of any  public  educational  institution
+(2) Every scheme which provides for the management of a public educational institution shall contain provisions for the constitution, powers and duties of a Board of Management for the educational institution to which the scheme relates and shall also provide for the keeping and audit of the accounts of such Board in a manner satisfactory to the Minister.
 
-iadusion o€ thu pas is mtl~rizcd by L. N . 41[1987]
+19/1980
+S. 7(b).
 
+(3) The Minister may take such action as he may consider necessary whenever there is serious failure in the successful working of any public educational institution
+
+[The inclusion of this page is authorized by L.N. 41/1987]
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
-
 EDUCATION
 
 11
 
-and the Board of  Management  appointed under  this section has failed, within  a  reasonable  time  after  having  been  required  by  the  Minister  so  to  do,  to provide a remedy for such  failure.
+and the Board of Management appointed under this section has failed, within a reasonable time after having been required by the Minister so to do, to provide a remedy for such failure.
+
+19/1980
+S. 7(c).
+
+Minister's power to alter endowments.
 
 ### 10.
-The  Minister  may,  for the  purpose  of  rendering  the endowment  of  any  endowed  educational  institution  most conducive to the advancement of education, make schemes-
+The Minister may, for the purpose of rendering the endowment of any endowed educational institution most conducive to the advancement of education, make schemes—
 
-(a) altering  and  adding  to  any  existing  trusts,  directions and provisions which affect such endowment and  the  education  promoted  thereby;
+(a) altering and adding to any existing trusts, directions and provisions which affect such endowment and the education promoted thereby;
 
-(b) making  new  trusts,  directions  and  provisions  in lieu of  any existing trusts, directions and provisions which  affect  such  endowment  and  the  education promoted thereby;
+(b) making new trusts, directions and provisions in lieu of any existing trusts, directions and provisions which affect such endowment and the education promoted thereby;
 
-(c) altering  the constitution, rights and  powers  of  any governing body of  such endowment;
+(c) altering the constitution, rights and powers of any governing body of such endowment;
 
-(4 removing  a  governing  body  o f such  endowment and establishing  a new  governing body  with  such powers as he thinks fit.
+(d) removing a governing body of such endowment and establishing a new governing body with such powers as he thinks fit.
+
+Certain educational interests to be protected in schemes.
 
 ### 11.
-Where the Minister makes in relation  to an endowed educational institution any  scheme  which abolishes or a particular class of persons is entitled, whether as inhabitants o f   a particular district or otherwise, the Minister shall in such scheme have regard to the educational interest of   such class of  persons. modifies any privileges or educational advantages to which
+Where the Minister makes in relation to an endowed educational institution any scheme which abolishes or modifies any privileges or educational advantages to which a particular class of persons is entitled, whether as inhabitants of a particular district or otherwise, the Minister shall in such scheme have regard to the educational interest of such class of persons.
 
-### 12 .
-A scheme shall not be made under this Act interfering tution  if  such governing  body  is  subject  to  the  jurisdiction of the governing body of  any religious denomination unless the governing  body  of  such  educational  institution  assent to the scheme. with  the governing body  of  any endowed  educational insti-
+When scheme requires assent of governing body.
 
-19/1980 s. 7w.
+### 12.
+A scheme shall not be made under this Act interfering with the governing body of any endowed educational institution if such governing body is subject to the jurisdiction of the governing body of any religious denomination unless the governing body of such educational institution assent to the scheme.
 
-Minister's power  to dter endowments.
-
-Certain ,lltcreSts to educational be , protected m schemes.
-
-when ;2gdvscheme quiresassent re- Procedure to schemes. with regard Loan3 to CdKatiod ,9,,980 S. 9(a)&(bl. aidcd institutions.
-
-IThe inolusion of this page ia authorized by LN. 17/1982]
-
+[The inclusion of this page is authorized by L.N. 17/1982]
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
-
 12
 
 EDUCATION
 
+Procedure with regard to schemes.
+
 ### 13.
-41) A draft  o f   every  scheme  proposed  to  be  made under  this  Act  shall  be  prepared  by  such  persons  and  in such manner  as the Minister  directs and shall be  published in the Gazefte together  with  a notice that  any person interested in  any  endowment  or  educational institution  affected by  the  scheme may,  if  he  desires  to  make  any  objections to the scheme, send his objections in writing to the Minister within  two  months  from  the date  o f such  publication.
+(1) A draft of every scheme proposed to be made under this Act shall be prepared by such persons and in such manner as the Minister directs and shall be published in the Gazette together with a notice that any person interested in any endowment or educational institution affected by the scheme may, if he desires to make any objections to the scheme, send his objections in writing to the Minister within two months from the date of such publication.
 
-(2) The Minister  shall consider every objection  sent to him pursuant to the provisions of  this section and thereafter  may  by  order  approve  the  scheme with  such  modifications,  if  any,  as may  appear  to  him  to be necessary  and as  from  such  date  as  he  shall  specify  in  the  order  the scheme shall have effect accordingly.
+(2) The Minister shall consider every objection sent to him pursuant to the provisions of this section and thereafter may by order approve the scheme with such modifications, if any, as may appear to him to be necessary and as from such date as he shall specify in the order the scheme shall have effect accordingly.
 
-(3)  Every such order approving a scheme made under section 10  shall  be  subject  to  affirmative  resolution  and when submitted to each Chamber of  the Legislature shall be accompanied by the scheme.
+(3) Every such order approving a scheme made under section 10 shall be subject to affirmative resolution and when submitted to each Chamber of the Legislature shall be accompanied by the scheme.
 
-(4) The Minister  shall cause  a  copy  o f   every  scheme approved  under  this  Act  to  be  recorded  in  the  Record Office.
+(4) The Minister shall cause a copy of every scheme approved under this Act to be recorded in the Record Office.
 
-### 14. [Repealed  by Act I 9 of 1980.1
+### 14. [Repealed by Act 19 of 1980.]
+
+Loans to aided educational institutions.
+
+19/1980
+S. 9(a) & (b).
 
 ### 15.
--(1) Where the Board  of  Management  of any aided educational  institution  requires  a  loan  for  the  purpose  of improving  or extending  the  buildings  o f   the  institution  or erecting  a  new  educational  institution  in  substitution  for any discontinued educational institution, the  Board of Management may apply to the Minister for a loan from the Government.
+(1) Where the Board of Management of any aided educational institution requires a loan for the purpose of improving or extending the buildings of the institution or erecting a new educational institution in substitution for any discontinued educational institution, the Board of Management may apply to the Minister for a loan from the Government.
 
-(2) I f upon  consideration  o f an  application for a loan  under  this  section,  the  Minister is satisfied  that  the purpose for which the loan is required  ought to be carried out and that the amount required  by way of  such loan may properly  be  obtained  by  borrowing,  he  may  arrange  to obtain a loan from the Government.
+(2) If upon consideration of an application for a loan under this section, the Minister is satisfied that the purpose for which the loan is required ought to be carried out and that the amount required by way of such loan may properly be obtained by borrowing, he may arrange to obtain a loan from the Government.
 
-me  holmion of this pge is authorized by   LN. 17119821
-
+[The inclusion of this page is authorized by L.N. 17/1982]
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
-
 EDUCATION
 
 13
 
-### 16.
--(I) Where the Minister is satisfied that it is expedient that  any public educational institution should be transferred to a new site either because it is not reasonably practicable to  make  to  the  existing  premises  of the  institution the alterations necessary for securing that  they  should conform to the prescribed standards, or in consequence of  any movement  o f population  or  of any  action  taken  or  proposcd to be  taken  under  the  Housing  Act,  or  the Town and Country Planning Act, the Minister may by order authorize a transfer of the institution to the new site.
+Transfer of educational institutions to new sites.
 
-(2) Any  transfer  authorizad under  this section shall not  be  deemed  for  the  purposes  of this  Act  to  constitute the  discontinuance  of  the  institution  or  the  establishment of   a new institution.
+### 16.
+(1) Where the Minister is satisfied that it is expedient that any public educational institution should be transferred to a new site either because it is not reasonably practicable to make to the existing premises of the institution the alterations necessary for securing that they should conform to the prescribed standards, or in consequence of any movement of population or of any action taken or proposed to be taken under the Housing Act, or the Town and Country Planning Act, the Minister may by order authorize a transfer of the institution to the new site.
+
+(2) Any transfer authorized under this section shall not be deemed for the purposes of this Act to constitute the discontinuance of the institution or the establishment of a new institution.
+
+Requirements to be fulfilled by public educational institutions.
 
 ### 17.
--(1) Every public educational institution shall comply with the following requirements, that is to say-
+(1) Every public educational institution shall comply with the following requirements, that is to say—
 
-(a) the  premises  of such institution shall  be  sanitary and be maintained in a condition which the Minister  considers  satisfactory  for  the  conduct  of  an educational institution;
+(a) the premises of such institution shall be sanitary and be maintained in a condition which the Minister considers satisfactory for the conduct of an educational institution;
 
-(b) it shall be open to inspection pursuant to the provisions o f   section 39;
+(b) it shall be open to inspection pursuant to the provisions of section 39;
 
-(c) the  conscience clause  shall  be  observed  therein;
+(c) the conscience clause shall be observed therein;
 
-(d) it shal l be conducted  in  accordance  with  all  the regulations relating thereto;
+(d) it shall be conducted in accordance with all the regulations relating thereto;
 
-(e) it shall not  be conducted for private profit and no portion  o f   the funds thereof  shall be used  for any purpose other than the purpose of  that institution;
+(e) it shall not be conducted for private profit and no portion of the funds thereof shall be used for any purpose other than the purpose of that institution;
 
-- where such institution is a high school the fees for tuition therein shall be fixed by the Board o f   Management  subject  to  the  approval  o f   the  Minister;
+(f) where such institution is a high school the fees for tuition therein shall be fixed by the Board of Management subject to the approval of the Minister;
 
-Transferof institutions tCnewsites. educational
+19/1980
+S. 10.
 
-,itequirecational institulions. men& to be fulfilled by public edu-
+(g) where such institution is an aided educational institution—
 
-@/I980 510-
-
-(g) where  such  institution  is  an  aided  educational  institution-
-
--
-
--
-
-> m e inolusion of bi s   Fage is authorized by LN. 17/1982]
-
+[The inclusion of this page is authorized by L.N. 17/1982]
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
-
 14
 
 EDUCATION
 
-1911980 s . 10.
+(i) the management and efficiency thereof shall be of a standard which in the Minister's opinion justifies the making of grants-in-aid to such institution;
 
-1911980 s. 10.
+(ii) every person holding any interest in or right over the premises of the institution shall inform the Minister, in such manner as shall be prescribed, of the nature and extent of such interest or right;
 
-19/1980 s. 10.
+(iii) the owners or Board of Management thereof shall not discontinue the institution except after serving on the Minister not less than four years' notice, or such shorter notice as the Minister may agree to accept, of their intention to do so;
 
-(i)  the management and eficiency thereof  shall be  of  a  standard  which  in  the  Minister's opinion justifies the making of  grants-in-aid to such institution;
+19/1980
+S. 10.
 
-(ii)  every person holding any interest in or right over  the  premises  of the  institution  shall inform the Minister, in such manner as shall be  prescribed,  o f the  nature  and  extent  o f such interest or right;
+(iv) if the owners or Board of Management thereof decide to discontinue the institution they shall, if the Minister so requires, repay prior to the discontinuance of the institution such portion as the Minister thinks just of any expenditure incurred by the Government in connection with the establishment or alteration of the institution.
 
-(iii)  the owners or Board of Management thereof  shall not  discontinue the institution except after serving on the Minister not less than  four years'  notice,  or  such  shorter notice  as the Minister  may  agree to accept, of  their intention to do so;
+19/1980
+S. 10.
 
-(iv)  if the  owners or Board of Management thereof  decide to discontinue  the institution they shall, if  the Mjnister  so requires, repay prior to the discontinuance o f   the institution such  portion  as the  Minister  thinks  just  o f any  expenditure  incurred  by  the  Government  in connection  with  the  establishment or alteration  of the  institution.
+(2) If it appears to the Minister that in respect of any aided educational institution there has occurred or is about to occur any failure to comply with the requirements of sub-paragraph (iii) of paragraph (g) of subsection (1) the Minister may dismiss the Board of Management thereof and thereafter conduct and maintain the institution—
 
-- If  it  appears  to  the  Minister  that  in  respect  o f any  aided  educational  institution  there  has  occurred  or  is about to occur any failure to comply with the requirements of  sub-paragraph (iii) of  paragraph (g) of  subsection (1) the Minister  may  dismiss  the  Board  of Management  thereof and  thereafter  conduct  and  maintain  the  institution-
+19/1980
+S. 10.
 
-(a) where the notice required under that sub-paragraph was served  on  him,  until  the  expiration  of the notice; or
+(a) where the notice required under that sub-paragraph was served on him, until the expiration of the notice; or
 
-(b) in any other case, until the owners o f   the institution either-
+(b) in any other case, until the owners of the institution either—
 
-(i)  inform him in the prescribed manner o f   their intention  to continue to conduct  and main-
+(i) inform him in the prescribed manner of their intention to continue to conduct and main-
 
-> m e inclusion of this page is authorized by LN. 17/1982]
-
+[The inclusion of this page is authorized by L.N. 17/1982]
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
-
-EDUCATlON
+EDUCATION
 
 15
 
-tain  the institution  as an aided  educational institution; or
+tain the institution as an aided educational institution; or
 
-(ii)  serve on him the notice required  under  that sub-paragraph and such notice expires.
+(ii) serve on him the notice required under that sub-paragraph and such notice expires.
 
-- While  any  educational  institution  is  being  conducted  and maintained by the  Minister  under subsection (2)-
+(3) While any educational institution is being conducted and maintained by the Minister under subsection (2)—
 
-(a) he  shall  keep  the  premises of the  institution  in good repair;
+(a) he shall keep the premises of the institution in good repair;
 
-(b) for  all  purposes  relating  to  the  condition  o f the premises of the institution and the occupation and use  thereof,  any  interest  in  such  premises  which is  held  for  the purposes  o f   the institution  shall be deemed to be vested in him,
+(b) for all purposes relating to the condition of the premises of the institution and the occupation and use thereof, any interest in such premises which is held for the purposes of the institution shall be deemed to be vested in him;
 
-(c) the  owners  of the  institution  shall  be  entitled  to the use  o f   the whole  or  any  part  o f   the premises thereof when  not  required  for  the  purposes  o f the  institution  to  the  like  extent  as  they  would have  been  if  they  had  continued  to  carry on the institution.
+(c) the owners of the institution shall be entitled to the use of the whole or any part of the premises thereof when not required for the purposes of the institution to the like extent as they would have been if they had continued to carry on the institution.
 
-- Any  person  aggrieved  by  a  requirement  o f   the Minister  pursuant  to  sub-paragraph  (iv) of paragraph (s) of subsection  (1) to  repay  any  amount  may  appeal  to  a Judge in Chambers.
+(4) Any person aggrieved by a requirement of the Minister pursuant to sub-paragraph (iv) of paragraph (g) of subsection (1) to repay any amount may appeal to a Judge in Chambers.
 
-( 5 ) Any amount required, pursuant to sub-paragraph (iv) o f   paragraph (g) of  subsection (11, to be repaid  shall be a debt  due to the  Government from the owners or Board recovered  in  the  Supreme Court  or  in  a  Resident  Magistrate's  Court  by  the  Attorney-General,  with  costs of suit, from  the  person  charged  therewith  as  a  debt  due  to  the Government. of  Management of  the institution and may be sued for and
+(5) Any amount required, pursuant to sub-paragraph (iv) of paragraph (g) of subsection (1), to be repaid shall be a debt due to the Government from the owners or Board of Management of the institution and may be sued for and recovered in the Supreme Court or in a Resident Magistrate's Court by the Attorney-General, with costs of suit, from the person charged therewith as a debt due to the Government.
 
-i9j1980 s 10.
+19/1980
+S. 10.
+
+[The inclusion of this page is authorized by L.N. 17/1982]
 
 E
-
-m e inclusion of this  page is authorized by L.N. 17/19821
-
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
-
 16
 
-EDUCATlON
+EDUCATION
 
-Co-cic19/1980 %?) clause.
+Conscience clause.
 
-tional  institution
-### lS.
--(l) It  shal!  not  be  required  as  a  condition  of  the admission or attendance  o f   any  student in a  public educa-
+19/1980
+S. 11(a) & (b).
 
-(a) that  he shall attend  OT  abstain from  attending  any Sunday  School  or  place  o f religious  worship;
+### 18.
+(1) It shall not be required as a condition of the admission or attendance of any student in a public educational institution—
 
-- that  he  shall,  if his  parent objects,  attend  any religious observance or any instruction in religious subjects  at  such  institution  or  elsewhere;
+(a) that he shall attend or abstain from attending any Sunday School or place of religious worship;
 
-(c) that  he  shall  attend  such  institution  on  any  day specially  set  apart  for  religious  worship  by  the religious body to which he belongs.
+(b) that he shall, if his parent objects, attend any religious observance or any instruction in religious subjects at such institution or elsewhere;
 
-(2) If  the  parent  o f   any  student  attending  a public educational institution requests that such student be excused from attendance at any religious observance or any instruction  in  religious  subjects  at  such  institution  or  elsewhere, then,  until  such request  is  withdrawn,  the  student  shall be excused from such attendance without  forfeiting any of  the other benefits of  such institution.
+(c) that he shall attend such institution on any day specially set apart for religious worship by the religious body to which he belongs.
 
-(3) Where the parent of  any student who is a boarder at a public educational institution requests  that the student be  permitted  to  attend  worship  in  accordance  with  the tenets  of a  particular  religious  denomination  on  Sundays or other days exclusively set apart for religious observance by  the  religious  body  to  which  his  parent  belongs,  or  to receive religious instruction  in  accordance with  such tenets outside school hours, the Board of  Management of  the institution shall make arrangements for alfording to the student reasonable opportunities for so doing, so, however, that such arrangements  shall  not entail  expenditure  by  the  Minister or the Board of  Management.
+(2) If the parent of any student attending a public educational institution requests that such student be excused from attendance at any religious observance or any instruction in religious subjects at such institution or elsewhere, then, until such request is withdrawn, the student shall be excused from such attendance without forfeiting any of the other benefits of such institution.
 
-(4) Subject  to  the  provisions  of this  section,  the school  day in every  public educational  institution  shall include time for collective worship on the part of all students in attendance at the institution, and the arrangements made therefor shall provide for a single act of worship attended by  all such students unless, in the opinion of the Board of Management, the premises of the institution are such as to make it impracticable to assemble the students for such purpose.
+(3) Where the parent of any student who is a boarder at a public educational institution requests that the student be permitted to attend worship in accordance with the tenets of a particular religious denomination on Sundays or other days exclusively set apart for religious observance by the religious body to which his parent belongs, or to receive religious instruction in accordance with such tenets outside school hours, the Board of Management of the institution shall make arrangements for affording to the student reasonable opportunities for so doing, so, however, that such arrangements shall not entail expenditure by the Minister or the Board of Management.
 
-me  inclusion o f this page is  aut$orized by LN. 17/19821
+(4) Subject to the provisions of this section, the school day in every public educational institution shall include time for collective worship on the part of all students in attendance at the institution, and the arrangements made
 
+[The inclusion of this page is authorized by L.N. 17/1982]
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
-
 EDUCATION
 
 17
 
-- A copy of this section.printed in  large type shall be kept posted up in a conspicuous place in every public educational institution.
+therefor shall provide for a single act of worship attended by all such students unless, in the opinion of the Board of Management, the premises of the institution are such as to make it impracticable to assemble the students for such purpose.
 
-Registration of students l,,l,,o 12.
+(5) A copy of this section printed in large type shall be kept posted up in a conspicuous place in every public educational institution.
+
+Registration of students.
+
+19/1980
+S. 12.
 
 ### 19.
-The Minister shall cause every public educational institution  to  keep,  in  such  form  and  manner  as  shall  be prescribed,  a  register  to  be  known  as  the  Register  of  Stu-  s. dents,  and  such  register  shall  contain  the  prescribed  particulars  with respect  to  all  persons  who  are  students  at such institution.
+The Minister shall cause every public educational institution to keep, in such form and manner as shall be prescribed, a register to be known as the Register of Students, and such register shall contain the prescribed particulars with respect to all persons who are students at such institution.
 
-- The Minister may by order declare-
+Declaration of compulsory education areas and compulsory school age.
 
-- any  area  within  a  radius  of  three  miles  fiom  any school  specified  in  such  order  to  be  a  compulsory education area; and
+### 20.
+The Minister may by order declare—
 
-- the  compulsory  school  age  in  relation  to  such  compulsory education area.
+(a) any area within a radius of three miles from any school specified in such order to be a compulsory education area; and
 
-### 2 1
-4 1 ) It  shall  be  the  duty  of the  parent  of every child  of compulsory school age residing in a compulsory education area to  cause him  to receive full-time education suitable to his  age and  ability,  and  satisfactory to the  Educational Board  for  the area, either by regular attendance at school or otherwise.
+(b) the compulsory school age in relation to such compulsory education area.
 
-- 1 f   any  child  of  compulsory  school  age  in  a  compulsory education area  who is a registered student at a School  fails to attend  regularly thereat,  the parent of  the child shall be guilty of an offence against this section.
+Duty of parents to secure education of their children.
 
-- In any proceedings  for  an  offence against  this section  the child shall  not be deemed  to  have  failed  to attend  regularly  at school  by reason  of  his absence  therefiom-
+### 21.
+(1) It shall be the duty of the parent of every child of compulsory school age residing in a compulsory education area to cause him to receive full-time education suitable to his age and ability, and satisfactory to the Educational Board for the area, either by regular attendance at school or otherwise.
 
-Declaration of compulsory education compulsory school age.
+(2) If any child of compulsory school age in a compulsory education area who is a registered student at a school fails to attend regularly thereat, the parent of the child shall be guilty of an offence against this section.
 
-DU~Y  of ~ e ~ education of
+19/1980
+S. 13(a).
 
-~
+(3) In any proceedings for an offence against this section the child shall not be deemed to have failed to attend regularly at school by reason of his absence therefrom—
 
-1911980 S. 13(a).
-
-~
-
-'
-
-phe inclusion  of  this  page  is  authorized  by L.N. 1 1   1/2005]
-
+[The inclusion of this page is authorized by L.N. 111/2005]
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
+18
 
 EDUCATION
 
-(a) at  any  time  when  he  was  prevented  from  attending by reason of sickness or any unavoidable cause;
+(a) at any time when he was prevented from attending by reason of sickness or any unavoidable cause;
 
-(b) with leave granted by any  person authorized in that  behalf  by  the  owners  or  the  Board  of  Management of the school;
+(b) with leave granted by any person authorized in that behalf by the owners or the Board of Management of the school;
 
-- school  at  which  the distance
+19/1980
+S. 13(b).
 
-(c) if  the  parent proves  that  the child is registered is not within walking of the child's home.
+(c) if the parent proves that the school at which the child is registered is not within walking distance of the child's home.
 
-- In this section "walking distance" means, in relation  to  any  child  who  has  not  attained  the  age  of  eight years,  two  miles,  and  in  relation  to  any  other  child,  three miles, measured in each case by the nearest available route.
+(4) In this section “walking distance” means, in relation to any child who has not attained the age of eight years, two miles, and in relation to any other child, three miles, measured in each case by the nearest available route.
 
-- Any  person  who  is  guilty  of  an  offence  against this section shall  be  liable  on  summary  conviction  before a  Resident  Magistrate,  in  the  case  of  a  first  conviction,  to a fine  not exceeding  one  dollar,  in the  case  of  a  second conviction,  to  a  fine  not  exceeding  four  dollars,  and  in  the case of a third or subsequent conviction, to a fine not exceeding ten dollars or  to  imprisonment  for a  term not exceeding fourteen days or to both such fine and such imprisonment.
+(5) Any person who is guilty of an offence against this section shall be liable on summary conviction before a Resident Magistrate, in the case of a first conviction, to a fine not exceeding one dollar, in the case of a second conviction, to a fine not exceeding four dollars, and in the case of a third or subsequent conviction, to a fine not exceeding ten dollars or to imprisonment for a term not exceeding fourteen days or to both such fine and such imprisonment.
 
-- Where the court  before  which a  prosecution is brought  for  an  offence  against  this  section  or  section  22  is satisfied-
+(6) Where the court before which a prosecution is brought for an offence against this section or section 22 is satisfied—
 
-(a) that the  child  in  respect  of  whom  the offence  is alleged  to  have  been  committed  has  failed  to  attend regularly  at  the  school  at  which  he  is  a  registered student; or
+(a) that the child in respect of whom the offence is alleged to have been committed has failed to attend regularly at the school at which he is a registered student; or
 
-(b) that a person who  is alleged to have failed to comply with the requirements of an attendance
+19/1980
+S. 13(c).
 
-- order is guilty of an offence against section 22,
+(b) that a person who is alleged to have failed to comply with the requirements of an attendance order is guilty of an offence against section 22,
 
-the court may, whether or not the parent is convicted, direct  that  the  child  in respect  of whom  the  offence is  alleged to  have been  committed be brought  before  a Children's Court
+the court may, whether or not the parent is convicted, direct that the child in respect of whom the offence is alleged to have been committed be brought before a Children's Court
 
-0
-
-0
-
-[The  inclusion  of  this  page  is  authorized  by L.N. 11112005]
-
+[The inclusion of this page is authorized by L.N. 111/2005]
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
-
 EDUCATION
 
-by  the  person  or  authority by  whom  or  on  whose  behalf  the proceedings were instituted, and the Children's Court may,  if it is  satisfied that  it  is  necessary  so  to  do  for  the  purpose  of securing the regular attendance of the  child  at a  school,  make any order which  such a court has power to make under section 80  (2)  of  the  Child  Care  and  Protection  Act  in  the  case  o f children who are brought before it under Part I 1 1  of that Act.
+19
 
-- For  the  purposes  of  the  Child  Care  and  Protection Act any child with respect to whom a direction has been given under this section that he be brought before a Children's Court shall be deemed to be a child about to be brought, or brought, before such a court under Part In of that Act and any order made by  a Children's Court under this section shall be deemed to be an  order  made  under  section  80  (2)  of  that  Act,  and  all  the provisions of that Act shall have effect accordingly, but subject to the modification that in relation to any  such child subsection (1) of section 12 of that Act shall have effect as if the words "or any person to whom a direction has been given under subsection (6) of section 21  of the Education Act",  were inserted therein next after the word "constable".
+by the person or authority by whom or on whose behalf the proceedings were instituted, and the Children's Court may, if it is satisfied that it is necessary so to do for the purpose of securing the regular attendance of the child at a school, make any order which such a court has power to make under section 80 (2) of the Child Care and Protection Act in the case of children who are brought before it under Part III of that Act.
 
-- In  this  section  and sections  22,  23  and  24,  any reference to a Resident Magistrate,  in so far as it relates-
+(7) For the purposes of the Child Care and Protection Act any child with respect to whom a direction has been given under this section that he be brought before a Children's Court shall be deemed to be a child about to be brought, or brought, before such a court under Part III of that Act and any order made by a Children's Court under this section shall be deemed to be an order made under section 80 (2) of that Act, and all the provisions of that Act shall have effect accordingly, but subject to the modification that in relation to any such child subsection (1) of section 12 of that Act shall have effect as if the words “or any person to whom a direction has been given under subsection (6) of section 21 of the Education Act”, were inserted therein next after the word “constable”.
 
-(a)  to  a  Resident  Magistrate's Court  for the  parish  of Kingston or  for the  parish  of  Saint Andrew,  shall,  as respects any time on or after the 13th day of November,  1978, be  construed  as  a  reference to the Family Court-Corporate Area Region; and
+(8) In this section and sections 22, 23 and 24, any reference to a Resident Magistrate, in so far as it relates—
 
-(b) to the Resident Magistrate's Court for a parish within the geographical  jurisdiction of a Family Court established pursuant to Part I1 of the Judicature (Family Court) Act,  shall, as respects any time on or after the date on which  such Court is established, be  construed as a reference to that Family Court.
+L. Nn.
+149/78,
+64/80.
 
-[The  inclusion  of  this  page  is  authorized  by  L.N.  11112005]
+(a) to a Resident Magistrate's Court for the parish of Kingston or for the parish of Saint Andrew, shall, as respects any time on or after the 13th day of November, 1978, be construed as a reference to the Family Court—Corporate Area Region; and
 
-L.Nn. 149178, 64/80.
+(b) to the Resident Magistrate's Court for a parish within the geographical jurisdiction of a Family Court established pursuant to Part II of the Judicature (Family Court) Act, shall, as respects any time on or after the date on which such Court is established, be construed as a reference to that Family Court.
 
+[The inclusion of this page is authorized by L.N. 111/2005]
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
-
 20
 
-ED UCA TION
+EDUCATION
 
-school attendance
-
-orders.
-
-, , . , , , , s. 14.
+School attendance orders.
 
 ### 22.
--(l).If it appears  to  the  Educational  Board  for  any cclmpulsory  education  area  that  the  parent  of  any child of compulsory school age residing in such area is failing to perform the duty imposed on such parent by  section 21 the Educational Board shall serve upon the parent a notice requiring him, within such time as may be specified in the notice, not being less than fourteen days fiom the service thereof, to satisfy the Educational Board that the child is receiving hll-time education suitable to his  age  and  ability  and  satisfactory  to the  Educational Board, either by regular attendance at school or otherwise.
+(1). If it appears to the Educational Board for any compulsory education area that the parent of any child of compulsory school age residing in such area is failing to perform the duty imposed on such parent by section 21 the Educational Board shall serve upon the parent a notice requiring him, within such time as may be specified in the notice, not being less than fourteen days from the service thereof, to satisfy the Educational Board that the child is receiving full-time education suitable to his age and ability and satisfactory to the Educational Board, either by regular attendance at school or otherwise.
 
-- If  a  parent  upon  whom  a  notice  is  served  under this  section  fails  to  satisfy  the  Educational  Board  in  accordance  with  the  requirements  of  the  notice  that  the  child  to whom  the notice relates is receiving hll-time education suitable  to  his  age  and  ability  and  satisfactory  to  the  Educational Board, then, if in the opinion of  the  Educational Board  it  is  expedient that  he  should  attend  school,  the  Board shall serve  upon the parent an order  (hereinafter  referred to  as  a  "school attendance  order")  requiring  the  parent  to cause  the  child  to  become  a  registered  student  at  a  school named in the order:
+(2) If a parent upon whom a notice is served under this section fails to satisfy the Educational Board in accordance with the requirements of the notice that the child to whom the notice relates is receiving full-time education suitable to his age and ability and satisfactory to the Educational Board, then, if in the opinion of the Educational Board it is expedient that he should attend school, the Board shall serve upon the parent an order (hereinafter referred to as a “school attendance order”) requiring the parent to cause the child to become a registered student at a school named in the order:
 
-Provided that the Educational Board may  at any time, at the request  of the parent,  substitute another school  for the  school named in the order.
+19/1980
+S. 14.
 
-- If any person  upon  whom  a  school  attendance order  is  served  fails  to  comply  with  the  requirements  of  the order  he  shall  be  guilty  of  an  offence  against  this  section unless  he  proves  that  he  is  causing  the  child  to  whom  the order  relates  to  receive,  otherwise  than  at  a school,  hlltime  education suitable  to  his  age and ability  and satisfactory to the Educational Board.
+Provided that the Educational Board may at any time, at the request of the parent, substitute another school for the school named in the order.
 
-- If  in any proceedings  against  any  person for a failure  to  comply  with  a  school  attendance  order  that  person  is  acquitted, the  court  may  direct  that  the  school  attend-
+(3) If any person upon whom a school attendance order is served fails to comply with the requirements of the order he shall be guilty of an offence against this section unless he proves that he is causing the child to whom the order relates to receive, otherwise than at a school, full-time education suitable to his age and ability and satisfactory to the Educational Board.
 
-0
+(4) If in any proceedings against any person for a failure to comply with a school attendance order that person is acquitted, the court may direct that the school attend-
 
-1/2005]
-
-[The  inclusion  of  this  page  is  authorized by L.N. 11
-
+[The inclusion of this page is authorized by L.N. 111/2005]
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
-
 EDUCATION
 
 21
 
-ance order shall cease to be in force, but without  prejudice to the duty of  the Educational Board  to take further action under  this  section if  at  any  time  the  Educational Board  is of   the opinion that having regard to any change o f   circumstances it is expedient so to do.
+ance order shall cease to be in force, but without prejudice to the duty of the Educational Board to take further action under this section if at any time the Educational Board is of the opinion that having regard to any change of circumstances it is expedient so to do.
 
-( 5 ) Except  as  provided  in  subsection (4) a  school attendance order made with respect to any child shall, subject  to any amendment  thereof  which may  be made by  the Educational Board, continue in force so long as such child is of compulsory  school  age,  unless  such  order  is  revoked by  the  Educational  Board.
+(5) Except as provided in subsection (4) a school attendance order made with respect to any child shall, subject to any amendment thereof which may be made by the Educational Board, continue in force so long as such child is of compulsory school age, unless such order is revoked by the Educational Board.
 
-(6) Any  person  who  is  guilty  of  an  offence against this section shall be liable on summary conviction before a Resident  Magistrate,  in  the  case  o f   a  first  conviction,  to  a fine not  exceeding one dollar, in the case  of  a  second  conviction, to a fine not exceeding four dollars, and in the case of   a third  or subsequent  conviction to a fine not  exceeding ten  dollars  or  to  imprisonment  for  a  term  not  exceeding fourteen days or to both such fine and such imprisonment.
+(6) Any person who is guilty of an offence against this section shall be liable on summary conviction before a Resident Magistrate, in the case of a first conviction, to a fine not exceeding one dollar, in the case of a second conviction, to a fine not exceeding four dollars, and in the case of a third or subsequent conviction to a fine not exceeding ten dollars or to imprisonment for a term not exceeding fourteen days or to both such fine and such imprisonment.
+
+Authorization and powers of Attendance Officers.
 
 ### 23.
-41) It shall  be  lawful  for  any  person  authorized  in that behalf by an Educational Board (which person is hereinafter  referred tb  as  an  Attendance  Officer)  at  any  time between the hours of  seven o'clock  in the morning  and six o'clock  in  the  evening  on  any  day  to  enter  any  premises and there-
+(1) It shall be lawful for any person authorized in that behalf by an Educational Board (which person is hereinafter referred to as an Attendance Officer) at any time between the hours of seven o'clock in the morning and six o'clock in the evening on any day to enter any premises and there—
 
-(U) make such enquiries as may be necessary to determine  whether the provisions of section 21  or section 22 are  being  complied  with  in relation  to any child whom he has reasonable cause to believe to  be  residing  or  employed  on  such  premises;  or
+(a) make such enquiries as may be necessary to determine whether the provisions of section 21 or section 22 are being complied with in relation to any child whom he has reasonable cause to believe to be residing or employed on such premises; or
 
-( b ) serve on any  person  a notice under  section  22  or section 24.
+(b) serve on any person a notice under section 22 or section 24.
 
-(2) Every Attendance Officer shall be furnished with a certificate o f   authorization  by  the  Educational  Board for
+(2) Every Attendance Officer shall be furnished with a certificate of authorization by the Educational Board for
 
-~ ~ b ~ r F x E t f $g2y i ~
-
-m e indudon af this page is authorized by L.N. 57/1981]
-
+[The inclusion of this page is authorized by L.N. 57/1981]
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
-
 22
 
 EDUCATION
 
-Childrm quiring apccid, educational treatment.
+the area concerned and upon entering any premises as aforesaid, he shall, if required so to do, produce to the occupier his certificate of authorization.
 
-the area concerned and upon entering any premises as aforesaid, he shall, if  required  so to do, produce to the occupier his certificate of  authorization.
+(3) Any person who—
 
-(3) Any person who-
+(a) assaults or obstructs any Attendance Officer while such Attendance Officer is acting pursuant to any power vested in him by this Act; or
 
-(a) assaults or obstructs  any  Attendance  Officer while such Attendance  Officer is  acting pursuant  to any power  vested  in him  by  this  Act; or
+(b) having been requested by any Attendance Officer to give any information of which he may be possessed as to the name, age, residence, parent, employment, or attendance at school of any child, fails without reasonable cause to give such information to the Attendance Officer; or
 
-(b) having  been  requested  by  any  Attendance  Officer to  give  any  information of which  he  may  be possessed  as  to  the  name,  age,  residence,  parent, employment, or attendance at school of  any child, fails without reasonable cause to give such information to the Attendance Officer; or
+(c) knowingly gives to any Attendance Officer any false or misleading information as to the name, age, residence, parent, employment, or attendance at school of any child,
 
-(c) knowingly gives to any Attendance Officer any false or  misleading  information  as  to  the  name,  age, residence,  parent,  employment, or attendance  at school of   any child,
+shall be guilty of an offence against this section, notwithstanding that any child in relation to whom such offence is alleged to have been committed is not of compulsory school age, and shall be liable on summary conviction before a Resident Magistrate to a fine not exceeding forty dollars.
 
-shall  be  guilty  of an  offence  against  this  section,  notwithstanding  that  any  child  in  relation  to  whom  such  offence is  alleged  to  have  been  committed  is  not  of  compulsory school age, and shall be liable on summary conviction before a Resident Magistrate to a fine not exceeding forty dollars.
+Children requiring special educational treatment.
 
 ### 24.
--(1) The Minister  may direct  the Educational Board for  any  compukory  education  area  to  ascertain  for  his information  which children of compulsory school age residing in such area require  special educational treatment; and after  considering  the  report  of  the  Educational Board the Minister may take such steps as he thinks fit to provide for  the  education  of any  such  children  requiring special educational treatment.
+(1) The Minister may direct the Educational Board for any compulsory education area to ascertain for his information which children of compulsory school age residing in such area require special educational treatment; and after considering the report of the Educational Board the Minister may take such steps as he thinks fit to provide for the education of any such children requiring special educational treatment.
 
-(2) For  the  purpose  o f carrying  out  the  directions of  the  Minister  under  this  section  an  Educational  Board may  cause  to  be  served  upon  the  parent  o f any  child  o f compulsory  school age residing in a compulsory education area  in respect  of  which  such  directions  were  given,  a notice  requiring  the  parent  to  submit  the  child,  at a  time and  place  specified  in  the  notice:  for  examination  by  a Medical Ofiiclsr  for  advice as to whether  the child is suffering  from  any  disability  o f mind  or  body  and  as  to  the nature and extent o f any such disability.
+(2) For the purpose of carrying out the directions of the Minister under this section an Educational Board may cause to be served upon the parent of any child of compulsory school age residing in a compulsory education area in respect of which such directions were given, a notice requiring the parent to submit the child, at a time and place specified in the notice, for examination by a Medical Officer for advice as to whether the child is suffering from any disability of mind or body and as to the nature and extent of any such disability.
 
-p'be inclusion of this  page  i s authorized by L.N. 57119811
-
+[The inclusion of this page is authorized by L.N. 57/1981]
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
-
 EDUCATION
 
 23
 
-(3)  I f any  parent  upon  whom  a  notice  is  served under  this section fails without  reasonable  cause to comply with  the  requirements  of such  notice  he  shall  be  guilty of an  offence  against  this  section,  and  shall  be  liable  on summary conviction before a Resident  Magistrate  to a fine not  exceeding four  dollars, and  where  such  offence is  continued  after conviction  the  parent  shall  be  guilty  o f   a conLinuing offence and in  respect o f   cach day during which that offence continues shall be liable to a fine not  exceeding two dollars.
+(3) If any parent upon whom a notice is served under this section fails without reasonable cause to comply with the requirements of such notice he shall be guilty of an offence against this section, and shall be liable on summary conviction before a Resident Magistrate to a fine not exceeding four dollars, and where such offence is continued after conviction the parent shall be guilty of a continuing offence and in respect of each day during which that offence continues shall be liable to a fine not exceeding two dollars.
 
-## PART  IV. Independent Schools
+## PART IV. Independent Schools
+
+Registration of independent schools.
 
 ### 25.
-41) The  Minister  shall  appoint an  officer of the Ministry  of  Education  to  be  the  Registrar  of  Independent Schools  (in  this  Act  referred  to  as  'the  Registrar')  and shall  furnish him  with  a  certificate  of  appointment.
+(1) The Minister shall appoint an officer of the Ministry of Education to be the Registrar of Independent Schools (in this Act referred to as “the Registrar”) and shall furnish him with a certificate of appointment.
 
-(2) The Registrar shail keep a register, to be known as  the  Register of Independent  Schools,  and  such  register shall  be  open  to public  inspection  at all reasonable  times.
+(2) The Registrar shall keep a register, to be known as the Register of Independent Schools, and such register shall be open to public inspection at all reasonable times.
 
-(3) Whenever the Registrar  is satisfied that  there  is any error  in  the  Register  of  Independent  Schools,  or  any omission  therefrom, he  shall  forthwith  rectify  the  error  or omission.
+(3) Whenever the Registrar is satisfied that there is any error in the Register of Independent Schools, or any omission therefrom, he shall forthwith rectify the error or omission.
 
-(4)  Subject  to  thz  provisions  o f subsection (5) the Registrar shall provisionally register in the  Register of Independent  Schools any  independmt school for the  registration  o f   which  the  proprietor  thereof  makes  application in  the prescribed  manner  and furnishes the prescribed  particulars.
+(4) Subject to the provisions of subsection (5) the Registrar shall provisionally register in the Register of Independent Schools any independent school for the registration of which the proprietor thereof makes application in the prescribed manner and furnishes the prescribed particulars.
 
-___
-
-. .
-
-Registradependent 9choo1s. tion 01 in-
-
-[The inclusion o f  this page i s authorized by  L.N.  57119811
-
+[The inclusion of this page is authorized by L.N. 57/1981]
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
-
 24
 
 EDUCATION
 
-(5) No application under subsection (4) may be made in  respect  of  an independent  school where  pursuant  to  the provisions  of  this  Part, the  proprietor  is  disqualified  from being the proprietor  o f   an independent school or the school premises  are  disqualified  from  being  used  as  a  school,  or if  the school premises are used  or proposed  to  be used  for any purpose for which they are disqualified by virtue of the provisions of this Part.
+(5) No application under subsection (4) may be made in respect of an independent school where pursuant to the provisions of this Part, the proprietor is disqualified from being the proprietor of an independent school or the school premises are disqualified from being used as a school, or if the school premises are used or proposed to be used for any purpose for which they are disqualified by virtue of the provisions of this Part.
 
-(6) The Registrar  shall, as soon as may  be  after an independent school has been  provisionally registered, cause the schools  to be  inspected and  thereafter refer  to the Independent Schools Committee-
+(6) The Registrar shall, as soon as may be after an independent school has been provisionally registered, cause the schools to be inspected and thereafter refer to the Independent Schools Committee—
 
-(U) the  application  for  registration;
+(a) the application for registration;
 
-( b ) the particulars furnished;
+(b) the particulars furnished;
 
 (c) the inspection report,
 
-in  relation  to  the  school,  for  the  recommendations o f the Independent  Schools  Committee  as to  whether  the  school should  or should  not  be  registered  under  this  Act.
+in relation to the school, for the recommendations of the Independent Schools Committee as to whether the school should or should not be registered under this Act.
 
-(7) The Registrar  shall,  upon  receipt  o f   the  recommendations  of   the Independent Schools Cornmitt-
+(7) The Registrar shall, upon receipt of the recommendations of the Independent Schools Committee—
 
-(a) register the school finally in the Register of Independent  Schools and  give  notice  to  the  proprietor  that  the  school  has  been  registered;  or
+(a) register the school finally in the Register of Independent Schools and give notice to the proprietor that the school has been registered; or
 
-( b ) if  the Independent Schools Committee is of  opinion that  the school is objectionable upon  all or any of the  grounds  specified  in  subsection  (1) o f section 27, serve upon the proprietor a notice of  complaint under that section.
+(b) if the Independent Schools Committee is of opinion that the school is objectionable upon all or any of the grounds specified in subsection (1) of section 27, serve upon the proprietor a notice of complaint under that section.
 
-(8)  If after  the  expiration  o f six  months  from  the 1st September,  1973 any person-
+(8) If after the expiration of six months from the 1st September, 1973 any person—
 
-(U) conducts  an  independent  school  (whether  established  before  or  after  the  1st  September, 1973) which  is  not  a registered school or  a provisionally
+(a) conducts an independent school (whether established before or after the 1st September, 1973) which is not a registered school or a provisionally
 
-> m t inclusion of this page i s authorized by L.N. 57/1981]
-
+[The inclusion of this page is authorized by L.N. 57/1981]
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
-
-EDUCATZON
+EDUCATION
 
 25
 
-registered  school  or  a  school  in  respect  o f   which an application has been  made  to  the Registrar  for provisional registration;  or
+registered school or a school in respect of which an application has been made to the Registrar for provisional registration; or
 
-( 6 ) being the proprietor of an independent school does any  act  calculated  to  lead  to  the  belief  that  the school is a registered school while it is a provisionally registered school,
+(b) being the proprietor of an independent school does any act calculated to lead to the belief that the school is a registered school while it is a provisionally registered school,
 
-he  shall  be  guilty  of an  offence  against  this  section  and shall  be  liable  on  summary  conviction  before  a  Resident Magistrate, in  the  case  o f a first  conviction,  to  a  fine  not exceeding forty dollars, and in the case of  a  second or subsequent  conviction,  to  a  fine  not  exceeding  one  hundred dollars  or to imprisonment  with  or  without  hard  labour for  a  term  not exceeding three months or to both such fine and such imprisonment.
+he shall be guilty of an offence against this section and shall be liable on summary conviction before a Resident Magistrate, in the case of a first conviction, to a fine not exceeding forty dollars, and in the case of a second or subsequent conviction, to a fine not exceeding one hundred dollars or to imprisonment with or without hard labour for a term not exceeding three months or to both such fine and such imprisonment.
+
+Independent Schools Committee.
 
 ### 26.
--(1) There is hereby established an Independent Schools Committee whose duties shall be-
+(1) There is hereby established an Independent Schools Committee whose duties shall be—
 
-(a) to consider applications for registration of  independent  schools  referred to  the  Committee  by  the Registrar;
+(a) to consider applications for registration of independent schools referred to the Committee by the Registrar;
 
-- to  deal  with  representations  made  to  the  Committee  in  respect  o f notices  of complaint  served under section 27 and disqualifications arising therefrom,
+(b) to deal with representations made to the Committee in respect of notices of complaint served under section 27 and disqualifications arising therefrom,
 
-and  to  make  recommendations  and  give  direction  as  the case may require to the Registrar in relation to such applications and representations.
+and to make recommendations and give direction as the case may require to the Registrar in relation to such applications and representations.
 
-- effect  as  to  the  constitution  o f the  Independent  Schools schedule. Committee and otherwise in relation thereto. (2) The provisions of the Third  Schedule shall have mid
+(2) The provisions of the Third Schedule shall have effect as to the constitution of the Independent Schools Committee and otherwise in relation thereto.
 
-of mmphiui.
+Third Schedule.
+
+Notices of complaint.
 
 ### 27.
-41) I f   at any time the Registrar is satisfied that any  Notice registered or provisionally registered school is objectionable upon all or any of  thc following g r o u n d s
+(1) If at any time the Registrar is satisfied that any registered or provisionally registered school is objectionable upon all or any of the following grounds—
 
-> me  inclusion o f t h i s pge is authorized by LN. 17/19821
-
-Indepndeni Schools committee.
-
+[The inclusion of this page is authorized by L.N. 17/1982]
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
 
 26
 
-EDUCATtON
+EDUCATION
 
-1911980 S. 15.
+(a) that the school premises, or any part thereof, are unsuitable for use as a school;
 
-1911980 s. 1s
+19/1980
+S. 15.
 
-(a) that  the  school  premises,  or  any part  thereof,  are unsuitable for use as a school;
+(b) that the accommodation provided at the school premises is inadequate or unsuitable having regard to the number, ages, and sex of the students attending the school;
 
-(b) that  the  accommodation  provided  at  the  school premises is inadequate or unsuitable having regard to the number, ages, and sex of   the students attending the school;
+19/1980
+S. 15.
 
-(c) that  efficient  or  suitable  instruction  is  not  being provided  at  the  school having  regard  to  the  ages and sex of the  students  attending  the  school;
+(c) that efficient or suitable instruction is not being provided at the school having regard to the ages and sex of the students attending the school;
 
-( d ) that  the  proprietor  of the  school  or  any  teacher employed  therein  is  not  a  proper  person  to  be the  proprietor  of  an  independent  school  or  to be a  teacher  in  any  school, as the  case  may  be,
+(d) that the proprietor of the school or any teacher employed therein is not a proper person to be the proprietor of an independent school or to be a teacher in any school, as the case may be,
 
-the Registrar  shall  serve upon  the  proprietor of  the  school a  notice  of complaint  stating  the  grounds o f complaint together  with  full  particulars  of the  matters  complained of;  and unless  any of  such matters  are stated  in  the notice to  be  in  the  opinion  of the  Registrar  irremediable,  the notice  shall  specify  the  measures  necessary  in  the  opinion of the Registrar to remedy  the matters complained  of, and shall specify  the time,  not  being  less  than six  months  after the  service of  the  notice,  within  which  such  measures  are thereby required  to be taken.
+the Registrar shall serve upon the proprietor of the school a notice of complaint stating the grounds of complaint together with full particulars of the matters complained of; and unless any of such matters are stated in the notice to be in the opinion of the Registrar irremediable, the notice shall specify the measures necessary in the opinion of the Registrar to remedy the matters complained of, and shall specify the time, not being less than six months after the service of the notice, within which such measures are thereby required to be taken.
 
-- I f   it is alleged by any notice of complaint served under  this  section  that  any  person  employed  as  a  teacher at the school is not  a proper person  to be a teacher in any school,  that  person  shall  be  named  in  the  notice  and  the particulars contained in the notice shall specify the grounds of the  allegation,  and  a copy  o f the  notice  shall  be  served upon him.
+(2) If it is alleged by any notice of complaint served under this section that any person employed as a teacher at the school is not a proper person to be a teacher in any school, that person shall be named in the notice and the particulars contained in the notice shall specify the grounds of the allegation, and a copy of the notice shall be served upon him.
 
-- Every  notice of complaint  served  under this section  and  every copy of   such notice so served shall limit the  time,  not  being  less  than  one  month  after  the  service of   the notice or copy, within which representations in respect
+(3) Every notice of complaint served under this section and every copy of such notice so served shall limit the time, not being less than one month after the service of the notice or copy, within which representations in respect
 
-p c inclusion o f this page is authorized  by L.N. 17/19821
+[The inclusion of this page is authorized by L.N. 17/1982]
 
 [[END OF PAGE 26]]
 
@@ -977,24 +923,24 @@ EDUCATION
 
 27
 
-of  the complaint may be made to the Independent  Schools Committee under the provisions of  section 28.
+of the complaint may be made to the Independent Schools Committee under the provisions of section 28.
+
+Determination of complaints.
 
 ### 28.
--(1) Any  person  upon  whom  a  notice  o f   complaint or  a  copy  of  such  notice  is  served  under  section 27  may, within  the  time  limited  in  that  behalf  by  the  notice,  make representations in respect  of  the complaint to the Independent  Schools Committee in  the  prescribed  manner.
+(1) Any person upon whom a notice of complaint or a copy of such notice is served under section 27 may, within the time limited in that behalf by the notice, make representations in respect of the complaint to the Independent Schools Committee in the prescribed manner.
 
-(2)  The  Independent  Schools  Committee  shall,  as soon as may be after representations in respect of  any complaint  are made to it, afford all parties concerned an opportunity  of  being  heard,  and  after  considering  such  evidence as may be tendered  by  them  or on their  behalf,  may direct the Registrar-
+(2) The Independent Schools Committee shall, as soon as may be after representations in respect of any complaint are made to it, afford all parties concerned an opportunity of being heard, and after considering such evidence as may be tendered by them or on their behalf, may direct the Registrar—
 
-(a) to withdraw  the  complaint,  but  without  prejudice to  the  duty  of the  Registrar  to  serve  a  further notice  of complaint  under  section 27  if at  any time  he  is  o f opinion  that  having  regard  to  any change  of  circumstances  he  ought  to  do so; or
+(a) to withdraw the complaint, but without prejudice to the duty of the Registrar to serve a further notice of complaint under section 27 if at any time he is of opinion that having regard to any change of circumstances he ought to do so; or
 
-( b ) to  notify  the  proprietor  of the  school  in  respect o f which the  notice  o f   complaint  was  served  that the school  will be struck off the Register of Independent  Schools on the  specified  date; or
+(b) to notify the proprietor of the school in respect of which the notice of complaint was served that the school will be struck off the Register of Independent Schools on the specified date; or
 
-(c) to  notify  the  proprietor  o f the  school  in  respect of  which  the  notice  o f   complaint wa s served  that the  school will be  struck off the Register of Independent  Schools on  the  specified  date  unless the requirements  o f the  notice  o f   complaint,  subject to  such modifications,  if any,  as  may be specified  by  the  Committee  are  complied  with  to the satisfaction o f   the Registrar before the specified date; or
+(c) to notify the proprietor of the school in respect of which the notice of complaint was served that the school will be struck off the Register of Independent Schools on the specified date unless the requirements of the notice of complaint, subject to such modifications, if any, as may be specified by the Committee are complied with to the satisfaction of the Registrar before the specified date; or
 
-( d ) if the  school  premises  or  any  part thereof are unsuitable  for  use  as  a  school  to  notify  the  proprietor  that  such premises or part are disqualified from being  so used  after the specified date;  or
+(d) if the school premises or any part thereof are unsuitable for use as a school to notify the proprietor that such premises or part are disqualified from being so used after the specified date; or
 
-> W e inclusion of  this page in authorized  by L.N. 1711982)
-
-Detemha-. complainta. hon o f
+[The inclusion of this page is authorized by L.N. 17/1982]
 
 [[END OF PAGE 27]]
 
@@ -1004,19 +950,20 @@ Detemha-. complainta. hon o f
 
 EDUCATION
 
-19/1980 S.  16
+19/1980
+S. 16.
 
-(e) if the  accommodation provided at the school premises is inadequate or unsuitable having regard to the number, ages and sex of  the students attending  the  school,  to  notify  the  proprietor  that  the premises  are  disqualified from  being used  on  and after  the specified date as  a school for students of such  age  or  sex,  or  exceeding  such  number,  as may be specified in the notification;
+(e) if the accommodation provided at the school premises is inadequate or unsuitable having regard to the number, ages and sex of the students attending the school, to notify the proprietor that the premises are disqualified from being used on and after the specified date as a school for students of such age or sex, or exceeding such number, as may be specified in the notification;
 
-- U, if the  proprietor  of the  school  or  any  teacher employed  therein  is  not  a  proper  person  to  be the  proprietor  o f   an independent  school  or to be a  teacher  in  any  school,  as  the  case  may  be,  to notify the proprietor that on and after the specified date  that  person  is  disqualified  from  being  the proprietor of   any independent school or from being a teacher in any school.
+(f) if the proprietor of the school or any teacher employed therein is not a proper person to be the proprietor of an independent school or to be a teacher in any school, as the case may be, to notify the proprietor that on and after the specified date that person is disqualified from being the proprietor of any independent school or from being a teacher in any school.
 
-(3) The  Independent  Schools  Committee  shall,  in directing the Registrar to notify the  proprietor of an independent school of  any disqualification or  any intention to strike the school o f f   the Register of  Independent  Schools, specify  the  date,  which  shall not  be  earlier  than  six weeks from  the  date  o f the  direction,  from  or  on  which  the  disqualification  or  striking  o f f   is  to have effect  and  such date shall, in relation  to  that  disqualification  or  striking off, be the specified date for the purposes o f   this Part.
+(3) The Independent Schools Committee shall, in directing the Registrar to notify the proprietor of an independent school of any disqualification or any intention to strike the school off the Register of Independent Schools, specify the date, which shall not be earlier than six weeks from the date of the direction, from or on which the disqualification or striking off is to have effect and such date shall, in relation to that disqualification or striking off, be the specified date for the purposes of this Part.
 
-(4) Where the Registrar is directed under subsection (2) to notify the proprietor  o f   an independent school of  any disqualification or any intention to strike the school o f f   the Register of   Independent Schools, the Registrar shall comply with the direction by serving forthwith upon such proprietor a notification in writing containing the particulars, including the specified date, given in the direction.
+(4) Where the Registrar is directed under subsection (2) to notify the proprietor of an independent school of any disqualification or any intention to strike the school off the Register of Independent Schools, the Registrar shall comply with the direction by serving forthwith upon such proprietor a notification in writing containing the particulars, including the specified date, given in the direction.
 
-( 5 ) If the  Registrar is directed  to  notify  the  proprietor  of  an independent school that any person  employed as a teacher at the school is disqualified from being a teacher in  any school, a copy of  the notification  shall be served on that person.
+(5) If the Registrar is directed to notify the proprietor of an independent school that any person employed as a teacher at the school is disqualified from being a teacher
 
-m e inclusion o f this page i s authorized  by LN.  1 7 / 1 9 8 2 l
+[The inclusion of this page is authorized by L.N. 17/1982]
 
 [[END OF PAGE 28]]
 
@@ -1026,24 +973,26 @@ EDUCATION
 
 29
 
-(6) Where the person  upon whom  a notice  of  complaint  or  a copy  o f such  notice  is  served  under  section 27 does  not.  within  the  time  limited  in  that  behalf by  the notice,  make  representations  in  respect of the  complaint to  the Independent  Schools Committee, the Registrar  shall request the Committee to give him directions and the Committee  may,  upon  consideration  of  such  information  as it may  require  from  the  Registrar,  give  him  any  direction which  it  would  have  power  to  give  i f representations  in respect  o f the  complaint  had  been  so  made.
+in any school, a copy of the notification shall be served on that person.
 
-(7) Where  any  person is disqualified  under this section either  from being the proprietor  of  an independent school or from  being  a  teacher  in  any school,  then,  unless the Independent  Schools Committee otherwise directs,  that person  shall  be  deemed  to be  disqualified  both  from  being the  proprietor of an  independent  school  and  from  being a teacher in any school.
+(6) Where the person upon whom a notice of complaint or a copy of such notice is served under section 27 does not, within the time limited in that behalf by the notice, make representations in respect of the complaint to the Independent Schools Committee, the Registrar shall request the Committee to give him directions and the Committee may, upon consideration of such information as it may require from the Registrar, give him any direction which it would have power to give if representations in respect of the complaint had been so made.
 
-### 2 9 .
-( 1 ) The  Registrar  or  any  person  aggrieved  by  any direction  o f   the Independent  Schools Committee under subsection (2) of section 28 may within  twenty-one days after notification o f   that direction has been served on him  appeal to  the  Minister  in  such  manner  as may  be  prescribed.
+(7) Where any person is disqualified under this section either from being the proprietor of an independent school or from being a teacher in any school, then, unless the Independent Schools Committee otherwise directs, that person shall be deemed to be disqualified both from being the proprietor of an independent school and from being a teacher in any school.
 
-(2)  At  the hearing o f   an appeal the Minister  may-
+Appeal to Minister.
 
-(a) dismiss  the  appeal  and  confirm  the  directions  o f the Independent Schools Committee; or
+### 29.
+(1) The Registrar or any person aggrieved by any direction of the Independent Schools Committee under subsection (2) of section 28 may within twenty-one days after notification of that direction has been served on him appeal to the Minister in such manner as may be prescribed.
 
-(b) allow the  appeal  and  set  aside  the directions of the Independent  Schools Committee; or
+(2) At the hearing of an appeal the Minister may—
 
-(c) set aside the directions o f   the Independent  Schools Committee  and  give  in  substitution  therefor  such other directions as he may  think  proper.
+(a) dismiss the appeal and confirm the directions of the Independent Schools Committee; or
+
+(b) allow the appeal and set aside the directions of the Independent Schools Committee; or
+
+(c) set aside the directions of the Independent Schools Committee and give in substitution therefor such other directions as he may think proper.
 
 [The inclusion of this page is authorized by L.N. 57/1981]
-
-Appeal  to Minister.
 
 [[END OF PAGE 29]]
 
@@ -1053,34 +1002,34 @@ Appeal  to Minister.
 
 EDUCATION
 
-Enfonamat.
+(3) Where notice of appeal is duly given within the period prescribed by subsection (1)—
 
-( 3 ) Where notice  of  appeal  is  duly given within  the period prescribed by subsection (1)-
+(a) the withdrawal of complaint; or
 
-(a) the withdrawal of  complaint; or
-
-( b ) the  striking of any school  off the Register  of Independent Schools; or
+(b) the striking of any school off the Register of Independent Schools; or
 
 (c) any disqualification,
 
-which  would  be  the  result  of the  direction  in  respect  o f which such notice of  appeal is given shall await the determination or abandcniitent of   the appeal.
+which would be the result of the direction in respect of which such notice of appeal is given shall await the determination or abandonment of the appeal.
+
+Enforcement.
 
 ### 30.
--(1) Subject  to  the  provisions  of section  29,  where a  notification  has  been  ser;;ed  in  accordance  with  section 28  the  Registrar  shall,  on  the  specified  date-
+(1) Subject to the provisions of section 29, where a notification has been served in accordance with section 28 the Registrar shall, on the specified date—
 
-(a) if  the  notification  specified any  intention  to strike a  school  o f f the  Register  of  Independent  Schools, so  strike  o f f   the  school,  unless  any  requirements specified in the notification were complied with  to his  satisEaction  before  the  specified date;
+(a) if the notification specified any intention to strike a school off the Register of Independent Schools, so strike off the school, unless any requirements specified in the notification were complied with to his satisfaction before the specified date;
 
-( b ) i f the  notification specified  any disqualification, record  in  the  Register  of  Independent  Schools  a memorandum  of  that  disqualification.
+(b) if the notification specified any disqualification, record in the Register of Independent Schools a memorandum of that disqualification.
 
-- Any person who-
+(2) Any person who—
 
-(a) uses  any  premises  for  any  purposes  for  which  it is disqualified; or
+(a) uses any premises for any purposes for which it is disqualified; or
 
-(b) acts  as  the  proprietor  of an  independent  school or  accepts  or  endeavours  to  obtain  employment as a  teacher  in  any school while he is  disqualified from being a teacher in any school,
+(b) acts as the proprietor of an independent school or accepts or endeavours to obtain employment as a teacher in any school while he is disqualified from being a teacher in any school,
 
-shall be guilty o f   an offence and shall be liable on summary conviction  before  a  Resident  Magistrate,  in  the  case  of a first conviction, to a fine not exceeding forty dollars,  and in the case o f   a  second or subsequent conviction, to a fine not exceeding  one hundred  dollars or to  imprisonment  with or without hard labour for a term not exceeding three months or  to  both  such  fine  and  such  imprisonment.
+shall be guilty of an offence and shall be liable on summary conviction before a Resident Magistrate, in the case of a first conviction, to a fine not exceeding forty dollars, and in the case of a second or subsequent conviction, to a fine not exceeding one hundred dollars or to imprisonment with or
 
-[The inclusion of this page is authorized by L.N. 571 19811
+[The inclusion of this page is authorized by L.N. 57/1981]
 
 [[END OF PAGE 30]]
 
@@ -1090,33 +1039,37 @@ EDUCATION
 
 31
 
-(3) A prosecution  for  an  offence under  this  section shall not  be  instituted without  the sanction of  the Director of  Public Prosecutions.
+without hard labour for a term not exceeding three months or to both such fine and such imprisonment.
+
+(3) A prosecution for an offence under this section shall not be instituted without the sanction of the Director of Public Prosecutions.
+
+Removal of disqualifications.
 
 ### 31.
--(1) Where  pursuant  to  the  provisions  of this  Part any school is struck of f   the Register o f   Independent  Schools or  any  disqualification  is  imposed,  any  person  may  make representations to the Independent  Schools Committee that by  reason  of any  change  of  circumstances  set  out  in  the representations the name of  the school ought to be restored to  the  Register  of  Independent  Schools or the disqualification  ought to be removed, as the case may require, and the Committee shall consider  such representations  and give  to the  Registrar  such  directions  as  it  considers  just.
+(1) Where pursuant to the provisions of this Part any school is struck off the Register of Independent Schools or any disqualification is imposed, any person may make representations to the Independent Schools Committee that by reason of any change of circumstances set out in the representations the name of the school ought to be restored to the Register of Independent Schools or the disqualification ought to be removed, as the case may require, and the Committee shall consider such representations and give to the Registrar such directions as it considers just.
 
-(2) Any  person  aggrieved  by  any  decision  o f the Independent Schools Committee may appeal to the Minister in  the  manner  and  within  the  time  specified in  section  29, and subsection (2) of   that  section shall have effect in relation to such appeal.
+(2) Any person aggrieved by any decision of the Independent Schools Committee may appeal to the Minister in the manner and within the time specified in section 29, and subsection (2) of that section shall have effect in relation to such appeal.
 
-## PART V. Registration  and  Discipline of Teachers
+## PART V. Registration and Discipline of Teachers
+
+Functions of the Teachers' Service Commission.
+19/1980
+S. 17.
 
 ### 32.
--(1) The Commission shall have power to deal with-
+(1) The Commission shall have power to deal with—
 
-(a) the registration  o f   teaching  personnel  and matters related thereto;
+(a) the registration of teaching personnel and matters related thereto;
 
-(b) the  discipline  o f teaching  personnel  and  matters  yqiiggo related  thereto;  and
+(b) the discipline of teaching personnel and matters related thereto; and
 
-; : $ $ o f catlons.
+(c) the assessment of qualifications and any other matter of a professional nature referred to the Commission by the Minister.
 
-~~d~~ Teachers o f the Service Commi+ S . 17.
+(2) The Commission shall also advise the Minister—
 
-(c) the assessment  of qualifications and any  other matter  of a  professional  nature  referred to  the Commission by the Minister.
+(a) on matters relating to the appointment of principals;
 
-- The Commission shall also advise the Minister-
-
-(U) on matters relating  to the  appointment o f principals;
-
-W e inclusion of thu page ia authorid by LN. 17/1982]
+[The inclusion of this page is authorized by L.N. 17/1982]
 
 [[END OF PAGE 31]]
 
@@ -1124,47 +1077,52 @@ W e inclusion of thu page ia authorid by LN. 17/1982]
 
 32
 
-EDUCATlON
+EDUCATION
 
-PCnOlU Leach in stitution. S. 17. who may a ublk tional in19/1980 Jw-
+(b) if requested by the Minister to do so, on matters relating to the appointment of vice-principals and teachers to posts of special responsibility; and
 
-RWirtra. tiM eachers. Of 19/1%0 S. 17.
+(c) on any other matter that the Commission may wish to bring to the attention of the Minister or which the Minister may refer to the Commission for its advice and guidance in the discharge of any of his duties under this Act.
 
-( b ) if  requested by  the  Minister  to do so, on matters relating to the  appointment of   vice-principals and teachers  to  posts  o f special responsibility;  and
+Persons who may teach in a public educational institution.
+19/1980
+S. 17.
 
-(c) on any other matter that the Commission may wish to bring to the attention o f   the Minister  or which the  Minister  may  refer  to the  Commission  for  i& advice and guidance in the discharge o f   any o f   his duties under this Act.
-
-- A person shall not teach or be employed as a teacher in  a public educational institution  unless  he  is  regktered-
+### 33.
+A person shall not teach or be employed as a teacher in a public educational institution unless he is registered—
 
 (a) as a trained teacher;
 
-(b) as a pre-traned teacher; or
+(b) as a pre-trained teacher; or
 
 (c) as an authorized teacher.
 
+Registration of teachers.
+19/1980
+S. 17.
+
 ### 34.
-4 1) The Commission shall  cause to be kept a Register of   Teachers in which shall be registered the particulars concerning  every  person  who  is  a  registered  teacher.
+(1) The Commission shall cause to be kept a Register of Teachers in which shall be registered the particulars concerning every person who is a registered teacher.
 
-- Every application to the Commission for registration as a  teacher  shall be  made  in  the  prescribed  manner and  shall  be  accompanied  by  such  documents as may  be prescribed.
+(2) Every application to the Commission for registration as a teacher shall be made in the prescribed manner and shall be accompanied by such documents as may be prescribed.
 
-for regisira19/1980 refusal of ti0n. s. 17.
+Grounds for refusal of registration.
+19/1980
+S. 17.
 
 ### 35.
--(1) A person shall not be  registered as a  teacher-
+(1) A person shall not be registered as a teacher—
 
-(a) i f   he does not possess the prescribed qualifications;
+(a) if he does not possess the prescribed qualifications;
 
-(b) if he does not establish that he is o f   good character; or
+(b) if he does not establish that he is of good character; or
 
-(c) i f   within a period  of  six  months immediately preceding the date o f   his application-
+(c) if within a period of six months immediately preceding the date of his application—
 
 (i) he had been refused registration as a teacher by the Commission; or
 
-(ii)  his  registration  as  a  teacher has been  cancelled by the Commission.
+(ii) his registration as a teacher has been cancelled by the Commission.
 
--
-
-I T h e   inclusion d this page  is autborizcd by L.N. 17/19821
+[The inclusion of this page is authorized by L.N. 17/1982]
 
 [[END OF PAGE 32]]
 
@@ -1174,29 +1132,35 @@ EDUCATION
 
 33
 
-(2) In deciding whether a person has established that he is of  good character, regard  shall be had to any criminal offence  o f   which  he  may  have  been  convicted,  and  to  all the circumstances thereof and to the life and conduct o f   such person  subsequent  to  the conviction.
+(2) In deciding whether a person has established that he is of good character, regard shall be had to any criminal offence of which he may have been convicted, and to all the circumstances thereof and to the life and conduct of such person subsequent to the conviction.
 
-(3) The Commission may refuse to register  any person as a teacher-
+(3) The Commission may refuse to register any person as a teacher—
 
-(a) if  he  suffers from any physical or mental defect or deformity  likely  to  interfere  with  the  practice of teaching;
+(a) if he suffers from any physical or mental defect or deformity likely to interfere with the practice of teaching;
 
-(b) if  he has been convicted of  any criminal offence of such a nature  as to render  him,  in the  opinion of the Commission, not a proper  person to be  a ,teacher in any school; or
+(b) if he has been convicted of any criminal offence of such a nature as to render him, in the opinion of the Commission, not a proper person to be a teacher in any school; or
 
-(c) if   he has  in  any  application  for registration  as  a teacher  made  any  statement  or  furnished  any  information which he knew to be false in any mateh1 particular.
+(c) if he has in any application for registration as a teacher made any statement or furnished any information which he knew to be false in any material particular.
+
+Authorized teachers.
+19/1980
+S. 17.
 
 ### 36.
-41) Subject to subsection (3), the Minister may, after consultation  with  the  chairman  o f the  Commission,  direct the Commission to record in the Register of  Teachers under a special  column  to  be  headed  'authorized  teachers',  the name of   any person who would  otherwise be refused registration  as a teacher  on the ground that he does not possess the prescribed qualifications, and the Commission shall give effect to such direction.
+(1) Subject to subsection (3), the Minister may, after consultation with the chairman of the Commission, direct the Commission to record in the Register of Teachers under a special column to be headed “authorized teachers”, the name of any person who would otherwise be refused registration as a teacher on the ground that he does not possess the prescribed qualifications, and the Commission shall give effect to such direction.
 
 (2) Registration as an authorized teacher shall in no circumstances exceed six years.
 
-(3) The Minister  may  not  direct  the registration  as an  authorized  teacher  o f   any person  whose name is struck of f   the Register of  Teachers.
+(3) The Minister may not direct the registration as an authorized teacher of any person whose name is struck off the Register of Teachers.
+
+Appeals Tribunal.
+19/1980
+S. 17.
 
 ### 37.
--(1) There  shall  be  an  Appeals Tribunal  established for  the  purposes of hearing  appeals  from  the Commission Authorid ' $ g i S. 17.
+(1) There shall be an Appeals Tribunal established for the purposes of hearing appeals from the Commission
 
-A,,@* yply$ 6.17.
-
-me inclusion o f this page i s authorirod  by L.N. 17/1982]
+[The inclusion of this page is authorized by L.N. 17/1982]
 
 [[END OF PAGE 33]]
 
@@ -1206,34 +1170,36 @@ me inclusion o f this page i s authorirod  by L.N. 17/1982]
 
 EDUCATION
 
-Founh Sched~e.
+and appeals from disciplinary decisions by a Board of Management of any public educational institution.
 
-Disciplinary ,9,1980 S. 17. penalties.
+Fourth Schedule.
 
-and  appeals  from  disciplinary  decisions  by a  Board of Management  of  any  public  educational  institution.
+(2) The provisions of the Fourth Schedule shall have effect as to the constitution of the Appeals Tribunal and otherwise in relation thereto.
 
-(2) The provisions of  the Fourth Schedule shall have effect  as to the  constitution  of  the  Appeals  Tribunal  and otherwise in relation thereto.
+(3) Any person who is aggrieved by the refusal of the Commission to register him as a teacher or by any decision taken by the Commission pursuant to section 38 or by any disciplinary decision taken by the Board of Management of any public educational institution may appeal to the Appeals Tribunal within such time and in such manner as may be prescribed.
 
-(3) Any  person  who  is  aggrieved  by  the refusal  o f the  Commission  to  register  him  as  a  teacher  or  by  any decision taken  by  the  Commission  pursuant  to  section  38 or by  any disciplinary decision taken by the Board  of Management o f   any public educational institution may  appeal to the Appeals Tribunal within such time and in such manner as may be prescribed.
+(4) The Appeals Tribunal may, on an appeal under subsection (3), either confirm the decision appealed against or vary or quash that decision, and the Tribunal may from time to time return the proceedings to the person or authority concerned with the making of that decision for further information or for such other action as the Tribunal thinks just.
 
-(4) The Appeals Tribunal may, on an appeal under subsection (31, either confirm  the decision  appealed  against or vary  or quash that decision, and the Tribunal may from time to time return the proceedings to the person or authority  concerned  with  the making  of  that  decision for further information  or for such other action as the Tribunal thinks just.
+Disciplinary penalties.
+19/1980
+S. 17.
 
 ### 38.
-41) I f any  teacher  is found i n disciplinary  proceedings  conducted  in  the  prescribed  manner  by  the Commission, to be guilty o f   professional misconduct, the Commission may-
+(1) If any teacher is found in disciplinary proceedings conducted in the prescribed manner by the Commission, to be guilty of professional misconduct, the Commission may—
 
-(a) admonish  him;
+(a) admonish him;
 
-( b ) censure  him;
+(b) censure him;
 
 (c) recommend that he be demoted;
 
 (d) suspend his registration for a period not exceeding one year; or
 
-( e h cause  his  name  to  be struck off the  Register  of Teachers.
+(e) cause his name to be struck off the Register of Teachers.
 
-(2) I f any  teacher is found  in disciplinary proceedings conducted  against such teacher  in  the prescribed  manner,  to have  been  convicted  o f a  criminal  offence  o f   such a nature as to render him, in the opinion of  the Commission, not  a  proper person  to  be  a  teacher  in any school,  the Commission  may,  if  it  thinks  fit, cause  his  name  to  be struck off  the Register of  Teachers.
+(2) If any teacher is found in disciplinary proceedings conducted against such teacher in the prescribed manner, to have been convicted of a criminal offence of such a nature as to render him, in the opinion of the Commission,
 
-> me   inclusion of this page. is  authorized by L.N. 17/19882]
+[The inclusion of this page is authorized by L.N. 17/1982]
 
 [[END OF PAGE 34]]
 
@@ -1241,22 +1207,24 @@ and  appeals  from  disciplinary  decisions  by a  Board of Management  of  any 
 
 EDUCATION
 
-3s
+35
 
-(3) In any action or other legal proceedings brought against any member of  the  Commission, in respect of any act  done in  pursuance or  execution,  or  intended  execution of this  Act,  the plaintiff  shall  not  recover  unless  he alleges in  his  pleadings  and  proves  at  the  hearing,  that  such  act was done either maliciously, or without reasonable or probable  cause.
+not a proper person to be a teacher in any school, the Commission may, if it thinks fit, cause his name to be struck off the Register of Teachers.
 
-(4)  Any person who  is  refused registration  as  a teacher  or whose name  has  been struck off  the Register of Teachers,  may  after  the  expiration  of  six months from the date  of such  refusal  or  cancellation,  as  the case may be, re-apply  for  registration as a  teacher  and  in  dealing  with such  application  the  Commission  shall  have regard  to  all the provisions of  section 35.
+(3) In any action or other legal proceedings brought against any member of the Commission, in respect of any act done in pursuance or execution, or intended execution of this Act, the plaintiff shall not recover unless he alleges in his pleadings and proves at the hearing, that such act was done either maliciously, or without reasonable or probable cause.
+
+(4) Any person who is refused registration as a teacher or whose name has been struck off the Register of Teachers, may after the expiration of six months from the date of such refusal or cancellation, as the case may be, re-apply for registration as a teacher and in dealing with such application the Commission shall have regard to all the provisions of section 35.
 
 ## PART VI. General
 
+Inspection of educational institutions.
+
 ### 39.
--(1) The Minister may cause any educational institution  to be  inspected  at  such  intervals  as he  may  think  fit by persons authorized by him in that behalf  and the Minister shall cause a special inspection of  any such institution to be carried  out  whenever  it  appears  to  him  that  such  special inspection is desirable.
+(1) The Minister may cause any educational institution to be inspected at such intervals as he may think fit by persons authorized by him in that behalf and the Minister shall cause a special inspection of any such institution to be carried out whenever it appears to him that such special inspection is desirable.
 
-- Any person who prevents a person authorized to carry  out  any  inspection  under  this  section from  carrying out such inspection  or obstructs him in  the course  of  such inspection  shall be guilty  of  an offence against  this  section and shall be liable on summary conviction before a Resident Magistrate,  in  the case of  a first conviction,  to  a fine  not exceeding forty dollars, and in the case o f   a second or subsequent  conviction,  to  a  fine  not  exceeding  one  hundred dollars or to imprisonment w i t h or without hard labour for
+(2) Any person who prevents a person authorized to carry out any inspection under this section from carrying out such inspection or obstructs him in the course of such inspection shall be guilty of an offence against this section and shall be liable on summary conviction before a Resident Magistrate, in the case of a first conviction, to a fine not exceeding forty dollars, and in the case of a second or subsequent conviction, to a fine not exceeding one hundred dollars or to imprisonment with or without hard labour for
 
-tiond imihlliom.
-
-IThe inclwon of this page i s authorized by LN. 17/1982]
+[The inclusion of this page is authorized by L.N. 17/1982]
 
 [[END OF PAGE 35]]
 
@@ -1264,75 +1232,80 @@ IThe inclwon of this page i s authorized by LN. 17/1982]
 
 36
 
-ED UCA TION
+EDUCATION
 
-Enquiry into managemmt of endowed inrtiiutions.
+a term not exceeding three months or to both such fine and such imprisonment.
 
-Appval q u m d for disposal  of L, " d " d y in endowment.
+(3) A prosecution for an offence under this section shall not be instituted without the sanction of the Director of Public Prosecutions.
 
-a term not exceeding three months or to both such fine and such  imprisonment.
-
-(3)  A prosecution  for an offence  under  this section shall not  be  instituted without  the sanction  o f   the Director of  Public Prosecutions.
+Enquiry into management of endowed institutions.
 
 ### 40.
--(1) The  Minister  may  from  time to time  cause enquiry  to  be  made  and  evidence  to  be  taken  touching  the management  of any  endowed  educational  institution  and the  application  of its  property  and  income.
+(1) The Minister may from time to time cause enquiry to be made and evidence to be taken touching the management of any endowed educational institution and the application of its property and income.
 
-(2) The  person  directed  to  hold  an  enquiry  under this section shall have the powers and privileges o f   Commissioners  under  sections  10  and  11  o f the  Commissions  of Enquiry Act (giving Commissioners powers to summon and examine  witnesses  and  relating  to  the  duty  o f witnesses summoned, their  expenses,  and  penalty  for  contumacy  or insult).
+(2) The person directed to hold an enquiry under this section shall have the powers and privileges of Commissioners under sections 10 and 11 of the Commissions of Enquiry Act (giving Commissioners powers to summon and examine witnesses and relating to the duty of witnesses summoned, their expenses, and penalty for contumacy or insult).
+
+Approval required for disposal of property included in endowment.
 
 ### 41.
--(1) Notwithstanding  anything  to  the  contrary  contained  in  any  trust,  directions  or  provisions  which  affect the endowment of  any endowed educational institution  any property  included  in such endowment  shall not be encumbered  or  sold  or  otherwise  disposed  of except  with  the prior approval in writing of   the Minister.
+(1) Notwithstanding anything to the contrary contained in any trust, directions or provisions which affect the endowment of any endowed educational institution any property included in such endowment shall not be encumbered or sold or otherwise disposed of except with the prior approval in writing of the Minister.
 
-(2) Any person aggrieved by the refusal o f   the Minister  to  give  his  approval  under  subsection  (1) may  appeal therefrom to a Judge in Chambers.
+(2) Any person aggrieved by the refusal of the Minister to give his approval under subsection (1) may appeal therefrom to a Judge in Chambers.
+
+Certificate of age.
 
 ### 42.
-Where the age of any person  is required  to be ascertained or proved for the purposes of  this Act or any regulations  made  thereunder or for any purpose  connected w i t h the  education  o f such  person,  then,  notwithstanding  anything  contained in  the  Registration (Births  and  Deaths) Act,  any  person shall upon making  application to the Registrar-General  in  the  prescribed  form  and  upon  payment of  the prescribed fee which  shall not exceed ten cents, be entitled to obtain from the Registrar-General  a certified copy  of  the entry in  the  general  register  of births  relating to  the  person  whose  age  is  required  to  be  ascertained  or proved.
+Where the age of any person is required to be ascertained or proved for the purposes of this Act or any regulations made thereunder or for any purpose connected with the education of such person, then, notwithstanding anything contained in the Registration (Births and Deaths) Act, any person shall upon making application to the Registrar-General in the prescribed form and upon payment of the prescribed fee which shall not exceed ten cents,
 
-m e inclusion o f thia page is authorized by LN. 17/19821
+[The inclusion of this page is authorized by L.N. 17/1982]
 
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
 
-ED  UCA  TION
+EDUCATION
 
-31
+37
 
-### 4 3 4 1 )
-The  Minister  may  make  regulations  generally  ~ for  the  proper carrying  out of   ihe  purposes  and  provisions of   this Act  and in particular but without  prejudice to the  generality  of  the  foregoing  may  make  regulations
+be entitled to obtain from the Registrar-General a certified copy of the entry in the general register of births relating to the person whose age is required to be ascertained or proved.
 
-~
+Regulations.
 
-(a) for the management  and conduct o f   public educational institutions;
+### 43.
+(1) The Minister may make regulations generally for the proper carrying out of the purposes and provisions of this Act and in particular but without prejudice to the generality of the foregoing may make regulations—
 
-( b ) specifying  the  powers and  duties of Boards  of Management of  public educational institutions and of  Educational Boards;
+(a) for the management and conduct of public educational institutions;
 
-(c) prescribing,  subject to such exemptions  as may be specified, the  standards  to which  the  premises  o f educational institutions shall conform;
+(b) specifying the powers and duties of Boards of Management of public educational institutions and of Educational Boards;
 
-(4 with respect to the purposes for which the premises of educational  institutions  may  be  used;
+19/1980
+S. 18(a).
 
-(e) prescribing  the  amounts  to  be  paid by  way  o f grants-in-aid or otherwise to any educational institution  or  any  class  o f educational  institution specified  in  such  regulations,  and  the  conditions subject to which any such amounts shall be paid;
+(c) prescribing, subject to such exemptions as may be specified, the standards to which the premises of educational institutions shall conform;
 
-- 0 with respect to the appointment, terms of  employment, disciplinary control and payment  of  salaries of  teachers  and other  personnel  in  public  educational  institutions;
+(d) with respect to the purposes for which the premises of educational institutions may be used;
 
-(g) governing the admission of   students to public educational institutions and the discipline of such Students;
+(e) prescribing the amounts to be paid by way of grants-in-aid or otherwise to any educational institution or any class of educational institution specified in such regulations, and the conditions subject to which any such amounts shall be paid;
 
-(h) specifying, in respect o f   public educational institutions,  the curriculum of  study  to  be  observed, the examinations  to  be  taken  by  students,  and  such other  matters  as  the  Minister  may think fit  in
+19/1980
+S. 18(b).
 
-> I T h e inclusion of this page  is  aUth0rk.d by L.N. 17/1982]
+(f) with respect to the appointment, terms of employment, disciplinary control and payment of salaries of teachers and other personnel in public educational institutions;
 
-19/198a s. 18(a).
+19/1980
+S. 18(c).
 
-191 1980 S. 18tb).
+(g) governing the admission of students to public educational institutions and the discipline of such Students;
 
-]9/1980 s.  I S ( C ) .
+19/1980
+S. 18(d).
 
-19/1980 S.  18(d).
+(h) specifying, in respect of public educational institutions, the curriculum of study to be observed, the examinations to be taken by students, and such other matters as the Minister may think fit in
 
-19/1980 S Wd).
+19/1980
+S. 18(d).
 
-~
-
-d
+[The inclusion of this page is authorized by L.N. 17/1982]
 
 [[END OF PAGE 37]]
 
@@ -1342,25 +1315,27 @@ d
 
 EDUCATION
 
-19/198a S. 1 8 ( d ) .
+relation to the grant of certificates of competency to students who pass such examinations;
 
-19/1980 S. 18(e).
+(i) providing for the award of scholarships, exhibitions, bursaries and other financial assistance including loans for further education and higher education and specifying the conditions subject to which such scholarships, exhibitions and bursaries shall be held or any other financial assistance shall be given;
 
-relation  to  the  grant  of  certificates o f   competency to students who pass such examinations;
+(j) prescribing the particulars to be furnished to the Registrar by the proprietors of independent schools, providing for the notification to the Registrar of any changes in the particulars so furnished, and specifying the circumstances in which the Independent Schools Committee may direct the Registrar to strike any independent school off the Register of Independent Schools in the event of the Registrar being unable to obtain sufficient particulars thereof;
 
-- providing  for  the  award  of scholarships,  exhibitions,  bursaries  and  other  financial  assistance  including  loans  for  further  education  and  higher education  and specifying the conditions subject to which  such scholarships, exhibitions  and  bursaries shall be held or any other financial assistance shall be given; ( z )
+19/1980
+S. 18(d).
 
-- prescribing  the  particulars  to  be  furnished  to  the Registrar by the proprietors of independent schools, providing for the notification to the Registrar  of  any changes in the particulars  so furnished,  and  specifying the  circumstances  in  which the Independent Schools Committee may direct the Registrar to strike any  independent  school o f f   the Register  of  Independent  Schools  in  the  event  o f the Registrar being unaSle to obtain sufficient particulars thereof; ( j )
+(k) defining the several categories of students requiring special educational treatment and making provision as to the special treatment appropriate to the students of each category;
 
-(k) delining the several categories o f   students requiring special  educational  treatment  and  making  provision  as  to  the  special  treatment  appropriate  to the students of  each category;
+19/1980
+S. 18(e).
 
-( I ) prescribing  the  manner  in  which  disciplinary  prooeedings may be instituted before the Commission against  registered  teachers  the  procedure to  be followed  in  the  conduct  of  such  proceedings and matters incidental to or consequential on such proceedings;
+(l) prescribing the manner in which disciplinary proceedings may be instituted before the Commission against registered teachers the procedure to be followed in the conduct of such proceedings and matters incidental to or consequential on such proceedings;
 
-(m) prescribing the manner of   appealing to the Minister and the Tribunal, and as to the proceedings in any such  appeal  and  matters  incidental  to  or  consequential on such proceedings;
+(m) prescribing the manner of appealing to the Minister and the Tribunal, and as to the proceedings in any such appeal and matters incidental to or consequential on such proceedings;
 
-(n) prescribing anything requiring to  be prescribed under this Act;
+(n) prescribing anything requiring to be prescribed under this Act;
 
-[The inclusion of this p g e  is authorized by L.N. 17119821
+[The inclusion of this page is authorized by L.N. 17/1982]
 
 [[END OF PAGE 38]]
 
@@ -1370,18 +1345,20 @@ EDUCATION
 
 39
 
-- with  respect  to  such  other  matters  as  may  be  incidental to or connected with  the foregoing.
+(o) with respect to such other matters as may be incidental to or connected with the foregoing.
 
-(2) Regulations  made  under  this  section  shall  be subject to negative resolution.
+(2) Regulations made under this section shall be subject to negative resolution.
 
-(3) The Minister may cause all or any of the regulations made under this section to be bound  in a book  to be called the Code  o f   Regulations and  thereafter  the  Minister may, at such times as it may seem to him that by reason  o f any amendment  in the regulations  the Code of  Regulations ought to be amended or re-printed,  direct such amendment to be made or such re-printing to be done.
+(3) The Minister may cause all or any of the regulations made under this section to be bound in a book to be called the Code of Regulations and thereafter the Minister may, at such times as it may seem to him that by reason of any amendment in the regulations the Code of Regulations ought to be amended or re-printed, direct such amendment to be made or such re-printing to be done.
 
-of E;. ' " Eatio of stud-. S. 19 19/1980
+Wishes of parents to be considered in education of students.
+19/1980
+S. 19.
 
 ### 44.
-In  the  exercise  and  performance  of the  functions  wishassigned to him by this Act, the Minister  shall have regard to  the  general  principle  that,  so far  as is  compatible with the  provision  o f   efficient instruction  and  training,  and  the avoidance  of  unreasonable  public  expenditure,  the  wishes o f parents are to be considered in the education o f   students.
+In the exercise and performance of the functions assigned to him by this Act, the Minister shall have regard to the general principle that, so far as is compatible with the provision of efficient instruction and training, and the avoidance of unreasonable public expenditure, the wishes of parents are to be considered in the education of students.
 
-me inolusion of this  pge is authorized by LN. 17/1982]
+[The inclusion of this page is authorized by L.N. 17/1982]
 
 [[END OF PAGE 39]]
 
@@ -1389,47 +1366,50 @@ me inolusion of this  pge is authorized by LN. 17/1982]
 
 40
 
-EDUCA  TZON
-
-191  1980 s. 20 Constitution  of the commission.
-
-Grard o f leave d abwncz to mrmbera.
-
-omce and filling pf VBOBIICWS.
+EDUCATION
 
 ## FIRST SCHEDULE
 
 ### The Teachers Service Commission
 
+19/1980
+S. 20.
+Constitution of the Commission.
+
 #### 1.
-41) , % Commission shall consist o f   nineteen members appointed by  the  Minister  in the following manner,  that  is to say-
+(1) The Commission shall consist of nineteen members appointed by the Minister in the following manner, that is to say—
 
-( Q) nine  members  (hereinafter  referred  to as ordinary members) appointed by  the Mmister in his discretion;
+(a) nine members (hereinafter referred to as ordinary members) appointed by the Minister in his discretion;
 
-(6 ) ten  members  appointed  by  the M i n i s t e r (hereinafter referred to as nominated members) whom-
+(b) ten members appointed by the Minister (hereinafter referred to as nominated members) whom—
 
-(i) six shall be persons nominated by  teachers asso c i a t i o n s r e c d z e d by  the Minister:  and
+(i) six shall be persons nominated by teachers associations recognized by the Minister; and
 
-( i i ) four shall be  persons  nominated by any bcdy of persons recognized by the Minister as reprcscnting owners of educiptiona!l institutim.
+(ii) four shall be persons nominated by any body of persons recognized by the Minister as representing owners of educational institutions.
 
-(2)  Each  nominating  body shall as soon as  possible &r the enactment o f the Education (Amendment) A c t . 1980, furnish to the Minister  the names of the persons whom they  nominatc  for appointment under subparagraph (1) ( 6 ) .
+(2) Each nominating body shall as soon as possible after the enactment of the Education (Amendment) Act, 1980, furnish to the Minister the names of the persons whom they nominate for appointment under sub-paragraph (1) (b).
 
-(3) A nominasing body may at any time by insirument i n writing addressed to  the Minister cancel the  nornipation o f   any person no&~ t e d by  it.
+(3) A nominating body may at any time by instrument in writing addressed to the Minister cancel the nomination of any person nominated by it.
 
-(4) Whenever pursuant to subparagraph (3) the occasion requhs, the nominating M y shall submit ,to the Minister the name of an additional person i n place  of any person whose nomination hus been canceued.
+(4) Whenever pursuant to sub-paragraph (3) the occasion requires, the nominating body shall submit to the Minister the name of an additional person in place of any person whose nomination has been cancelled.
 
-- In this Schedule 'homhting body'  means any body authorized under this paragraph to nominate persons for  appoin-ent as members of  the Commission.
+(5) In this Schedule “nominating body” means any body authorized under this paragraph to nominate persons for appointment as members of the Commission.
 
-- The Minister on the application o f any member of the Commission may grant to such member leave o f   absence for any period not exceeding six months and may appoint some other person to aut as a member during the period o f leave of absence so granted :
+Grant of leave of absence to members.
 
-Provided  that  where  leave of absence i s gmted to a nomimted member, a person nominated  by  the  nominating  body concerned in accordance w i t h the  provisions of  paragraph  1 shaU bt appointed t o ac t .
+#### 2.
+The Minister on the application of any member of the Commission may grant to such member leave of absence for any period not exceeding six months and may appoint some other person to act as a member during the period of leave of absence so granted:
+
+Provided that where leave of absence is granted to a nominated member, a person nominated by the nominating body concerned in accordance with the provisions of paragraph 1 shall be appointed to act.
+
+Tenure of office and filling of vacancies.
 
 #### 3.
-41) Subject to the  provisions  o f this Schedule. a membx  of the Commission  shall  hold o f f i c e for  a  period o f th r e e . years  and each member shall be eligible for reappointment.
+(1) Subject to the provisions of this Schedule, a member of the Commission shall hold office for a period of three years and each member shall be eligible for reappointment.
 
-(2)  I f   any vacancy occura in the membership o f the commission such  vacancy  shall  be  filled by ,the appointment  of another  member who  shall,  subject to the  provisions o f this Schedule,  hold office for the  remainder  o f the period  for  which  the  previous  member was appointed. so. however,  that such appointment shall be made in  the same  manner  and  from  the  same  category  o f persons, if  any, as the appointment of  the previous member.
+(2) If any vacancy occurs in the membership of the Commission such vacancy shall be filled by the appointment of another member who shall, subject to the provisions of this Schedule, hold office for the remainder of the period for which the previous member was
 
-me  inclusion of t h i s page  is  authorized by LN. 17/19821
+[The inclusion of this page is authorized by L.N. 17/1982]
 
 [[END OF PAGE 40]]
 
@@ -1439,50 +1419,53 @@ EDUCATION
 
 41
 
-the Commission to be  the chairman thereof.
+appointed, so, however, that such appointment shall be made in the same manner and from the same category of persons, if any, as the appointment of the previous member.
+
+Chairman and vice-chairman.
+
 #### 4.
-41) The  Minister  shall  appoint one  o f the  ordinary members O f chainnan and viachairman.
+(1) The Minister shall appoint one of the ordinary members of the Commission to be the chairman thereof.
 
-(2)  The  members  o f the  Commission  shall  eleot  kom among themselves a  vice-chairman who  shall  serve as such  for a period of one  year  and  shall  be  eligible fm re-eleEtion as vice-chairman.
+(2) The members of the Commission shall elect from among themselves a vice-chairman who shall serve as such for a period of one year and shall be eligible for re-election as vice-chairman.
 
-(3)  In  the case of   the absence or inabi1,ity to act of the chairman the  vice-chairman shall exercise the  fnnctions o f   the chairman.
+(3) In the case of the absence or inability to act of the chairman the vice-chairman shall exercise the functions of the chairman.
 
-(4) In  6he  c u e  of  the  absence or inability to  act at any meeting uf botb  the chairman ancl vice-chairman (the remaining members  shall eleot  one of their number to act as cbairrnan of that meeting and, for that purpose, shall be  deemed  to constitute a quorum.
+(4) In the case of the absence or inability to act at any meeting of both the chairman and vice-chairman the remaining members shall elect one of their number to act as chairman of that meeting and, for that purpose, shall be deemed to constitute a quorum.
+
+Revocation of appointment.
 
 #### 5.
-The  Mgster  may  at  any  time  revoke  the  appointment  of  the chairman  or  any  other  member  of  the  Commission if  he considers it expedient s o to do :
+The Minister may at any time revoke the appointment of the chairman or any other member of the Commission if he considers it expedient so to do:
 
-Provided that-
+Provided that—
 
-(i)  be  shall not revoke the  appointment of a nominated member except after consultasion with  the  nominating body which nominated that member: and
+(i) he shall not revoke the appointment of a nominated member except after consultation with the nominating body which nominated that member; and
 
-(ii)  whenever  a  nominating body has, i n accordance %t h the provisions  o f this  Schedule, cancelled the  nomination  o f a p e m  who has  been appinte.3 a nomi~ted  member  he shall revoke the appointment o f   that member.
+(ii) whenever a nominating body has, in accordance with the provisions of this Schedule, cancelled the nomination of a person who has been appointed a nominated member he shall revoke the appointment of that member.
+
+Resignation of members.
 
 #### 6.
-41) A member of the Commission, other than the chairman, may at any  time resign bis office  by  instrument in  writing  addressed  to the Minister  and  transmitted through  ~e chairman, and  from  the date o f the receipt by  the Minister of  such instrument such member shall cease to be  a member of  the Commission.
+(1) A member of the Commission, other than the chairman, may at any time resign his office by instrument in writing addressed to the Minister and transmitted through the chairman, and from the date of the receipt by the Minister of such instrument such member shall cease to be a member of the Commission.
 
-(2) The chairman may at any time resign his office by instrument in  writing  addressed  to  tbe  Minister  and  such  resignation  shall  take effect from the  date of the receipt of  such  instrument by the Minister.
+(2) The chairman may at any time resign his office by instrument in writing addressed to the Minister and such resignation shall take effect from the date of the receipt of such instrument by the Minister.
+
+Gazetting of appointments.
 
 #### 7.
-The  names of all  members of the Commission  as first cmstituted and every change in  the  membership thereof shall be  published i n the Guzefte.
+The names of all members of the Commission as first constituted and every change in the membership thereof shall be published in the Gazette.
+
+Constitution not affected by vacancy.
 
 #### 8.
-The  Commission shall  be  deemed to be  properly constituted for the  purposes  of  this  Act  notwithstanding  any  vacancy  amongst  the members  or  any  defect in  the  appointment of  a  member  thereto.
+The Commission shall be deemed to be properly constituted for the purposes of this Act notwithstanding any vacancy amongst the members or any defect in the appointment of a member thereto.
+
+Power to appoint committees.
 
 #### 9.
-4 1 ) The Commission shall  have power to appoint a Disciplinary Committee,  an  Appointments Committee  and such other  committees as it may consider necessary from time to time and each such committee shal!. subject  to  the  directions  of  the  Commission,  have  p e r to regulate its own  proceedings.
+(1) The Commission shall have power to appoint a Disciplinary Committee, an Appointments Committee and such other committees as it may consider necessary from time to time and each such committee shall, subject to the directions of the Commission, have power to regulate its own proceedings.
 
-Revocation of appomtmat.
-
-Rcaignnlh ofmcmLms.
-
-GaaDtting of appointmenb.
-
-~onatitutioa not &ctd by w ~ .
-
-POW? to " ' g~$&, , procsdure and me&ings.
-
-We inclusion o f this  page is authorized by L.N. 17119821
+[The inclusion of this page is authorized by L.N. 17/1982]
 
 [[END OF PAGE 41]]
 
@@ -1490,45 +1473,47 @@ We inclusion o f this  page is authorized by L.N. 17119821
 
 42
 
-EDUCA TloN
+EDUCATION
 
-Decision by B majority votc
+(2) The Commission may delegate to any committee the power and authority to carry out on its behalf such functions as the Commission may determine, so, however, that any such delegation shall be without prejudice to the performance of those functions by the Commission.
 
-Remunwation of members.
+Procedure and meetings.
 
-Proteclion. gf commis51011.
+#### 10.
+(1) The Commission shall in each school year meet at least once in every term and at such other times as may be necessary or expedient for the transaction of business and such meetings shall be held at such places and times and on such days as the Commission may determine.
 
-Pmtedion of members of the #IOU. "mmis-
+(2) The chairman may at any time call a special meeting of the Commission and shall call a special meeting to be held within seven days of a written request for that purpose addressed to him by any two members of the Commission.
 
-(2) The commission may delegate to any  mmmibtee  the  power and authority to carry o u t  on its behalf  such functions as the Commission  may  determine, so, however,  that  any  such  delegation shall be without  prejudice  to  the performane of   those functions by tbc Commission.
+(3) The chairman or, in the case of the absence or inability to act of the chairman, the vice-chairman or the person elected to act as chairman, in accordance with the provisions of sub-paragraph (4) of paragraph 4, shall preside at the meetings of the Commission, and when so presiding the chairman, vice-chairman or the person elected as aforesaid to act as chairman, as the case may be, shall have an original and a casting vote.
 
-#### 1 0
-4 1 ) The Commission shall in each school year meet a t least Once in every term and at such other limes as may be neoessary o r expedient for the tr a n s a c t i o n of business and such meetings shall bt held at suah places and times and  on such days as the Commission  may determine.
+(4) Subject to the provisions of this Schedule the Commission may regulate its own proceedings.
 
-(2) The chairman may a t  any time call a special mening of  the Commission and s h a l l call  a  special  meeting to be  held  within  seven days o f   a written request for that purpose addressed to him b y   any t w o members of the Commission.
-
-(3)  The  chairman or, in  the c a s e o f the  absence o r inability to act of   the ohairman, t h e vice-Amirnan  or the person elected to act as  cbainnan, i n aocordanoe with  the  provisions  o f sub-pafagraph (4) cd paragraph 4, shall preside  at th e meetings o f the Commission, and when  so  presiding the  chainaan.  vice-chairman or  the pemm elected as  aforesaid to act as  chairman, as the arse may  be. shdl have  an original and a casting vote.
-
-(4) Subject to the  provisions o f  this Schedule the Commission may regulate its o w n   proceedings.
-
-(5) The  validity  o f any proceedings of the  Commission shall not be  dected by any vacancy  ammgst  the  members o f the commission  or by any  defect  in  the  appointment  of  a  member  thereof.
+(5) The validity of any proceedings of the Commission shall not be affected by any vacancy amongst the members of the Commission or by any defect in the appointment of a member thereof.
 
 #### 11.
-The quorum o f the Commission shall he six including the chairman  or  the  vice-chairman or  the person electcd  to act as chairman under  paragraph 4  (4), not less than two  of the  members appointed under paragraph 1 (1) (a), and at least one memster from each category of members appointed under paragraph 1 (1) (b).
+The quorum of the Commission shall be six including the chairman or the vice-chairman or the person elected to act as chairman under paragraph 4 (4), not less than two of the members appointed under paragraph 1 (1) (a), and at least one member from each category of members appointed under paragraph 1 (1) (b).
+
+Decision by a majority vote.
 
 #### 12.
-The  deoision  o f the  Commission  or of a oommith. a p h t e d by it  shall  be by a  majority o f votes  o f the  membtrs  pment and voting  and  forming a quorum.and  in addi t i o n to an aiginal vote the chairman or any person presiding at a mceting shall have a casting vote in any case in which the voting is equal.
+The decision of the Commission or of a committee appointed by it shall be by a majority of votes of the members present and voting and forming a quorum and in addition to an original vote the chairman or any person presiding at a meeting shall have a casting vote in any case in which the voting is equal.
+
+Remuneration of members.
 
 #### 13.
-There shall be  paid  to  the chairman and  ofher members o f the Commission  such  remuneration,  i f any (whather by anay o f &w or  travelling or  other  allowances)  as the Minister may determine.
+There shall be paid to the chairman and other members of the Commission such remuneration, if any (whether by way of salaries or travelling or other allowances) as the Minister may determine.
+
+Protection of Commission.
 
 #### 14.
-Notwithstanding  anything to  the  contrary no aot done or proceeding taken  under this Act by  the  Commission sh a l l be  questioned on  the  ground  o f   any omission, defect o r irregularity not affcdng the merits o f   the case.
+Notwithstanding anything to the contrary no act done or proceeding taken under this Act by the Commission shall be questioned on the ground of any omission, defect or irregularity not affecting the merits of the case.
 
-#### IS.
-No member d the Commission shall be penonally liable f o r any act or default of the Commission done or  omitted t o be  done  in g d faith i n the course of the operation of the Commadon.
+Protection of members of the Commission.
 
-> m e inolusion of this  p g e  is authorized by L . N . 17/19821
+#### 15.
+No member of the Commission shall be personally liable for any act or default of the Commission done or omitted to be done in good faith in the course of the operation of the Commission.
+
+[The inclusion of this page is authorized by L.N. 17/1982]
 
 [[END OF PAGE 42]]
 
@@ -1536,66 +1521,64 @@ No member d the Commission shall be penonally liable f o r any act or default of
 
 EDUCATION
 
-(Section 8)
-
 43
 
 ## SECOND SCHEDULE
 
-### Constitution and Procedure of Educafionul Boards
+(Section 8)
+
+### Constitution and Procedure of Educational Boards
+
+Constitution.
 
 #### 1.
-Each Educational  Board shall  consist of not less  than seven persons  and  shall  bear  such  name  as  the  Minister  may  direct.
+Each Educational Board shall consist of not less than seven persons and shall bear such name as the Minister may direct.
+
+Appointment of members.
 
 #### 2.
-The  members of each  Educational  Board  shall be appointed  by the  Minister and,  subjecc  to the  provisicns of this  Schedule.  shall hold  o5ce for such  period.  not  exceeding  three  years,  as  the  Minister may  determine,  but  shall  be  eligible  for  reappointment.
+The members of each Educational Board shall be appointed by the Minister and, subject to the provisions of this Schedule, shall hold office for such period, not exceeding three years, as the Minister may determine, but shall be eligible for reappointment.
+
+Chairman and vice-chairman.
 
 #### 3.
-The membcrs  of  each  Educational  Board  shall  annually  appoinl a chairman  and  a vice-chairman  from among  their  number.
+The members of each Educational Board shall annually appoint a chairman and a vice-chairman from among their number.
+
+Resignations.
 
 #### 4.
--(1) Any  member  of an Educational  Board,  other  than  the  chairman,  may  reign  his  oBce  by  instrument  in  writing  addressed  to  the Minister  and  transmitted through the  chairman,  and  from  the  date of  the  receipt  by  the  Minister of such  instrumcnt  such  member  shall cease to be a member o f   such Educatioiial  Board.
+(1) Any member of an Educational Board, other than the chairman, may resign his office by instrument in writing addressed to the Minister and transmitted through the chairman, and from the date of the receipt by the Minister of such instrument such member shall cease to be a member of such Educational Board.
 
-(2) The  chairman of an  Educational  Board  may  at  any  time resign  his  office  by instrument  in  writing  addressed  to  the  Minister and  such  resignation  shall  take  effect as  from  the  date  of  the  receipt by  the Minister of such instrument.
-
-member of an Educational Board if he thinks  it  expedient so to do.
-#### 5.
-The  Minister  may  at  any  time  revoke  the  appointment  o f any
-
-an  Educational  Board,  the  Minister  may  appoint  any  person  to  act
-#### 6.
-In  the  case  of the  absence  or  inability  to  act  of  any  member  of temporarily  in  the place of such member.
-
-#### 7.
--(1) Where  the  chairman  o f an  Educational  Board  proposes  to leave  the  Island  temporarily,  or  where  any  other  member  notifies  the chairman  in  writing  that  he  proposes  to  leave  and  to  be  absent  from the  lsland  for a  period  specified in  the  notification, the  chairman  shall so inform the Minister, stating the proposed period of absence.
-
-( 2 Any  member of an Educational  Board  who leaves the  Island withmt  complying with  tbe  requirements  of  this  paragraph  shall ipJo farto vacate his seat.
-
-#### 8.
-Any  member of an  Educational  Board  who  fails  to  attend  three consecutive  meetings  of  such  Board  without  excuse  acceptable  to  the Board shall cease to be a member thereof.
-
-#### 9.
-If  any  vacancy  occurs  in the  membership of  any Educational Board,  such  vacancy  shall  he  filled  by  the  appointment of  another rnembs  who  shall,  subject  to  the  provisions of this  Schedule,  hold office for  the  remainder of the  period for which  the  previous  member was  appointed, so, however,  that  such  appointment  shall  be  made  in the  same  manner  and  from  the same category o f persons  if any,  as the  appointment of the previous  member.
-
-> LThe indusion of this  page  is authorized by L.N.  151982J
-
-ConsliluDon.
-
-,4Ppoinr. K:z b $
-
-Chairman and vicechairman.
-
-R-simations.
+(2) The chairman of an Educational Board may at any time resign his office by instrument in writing addressed to the Minister and such resignation shall take effect as from the date of the receipt by the Minister of such instrument.
 
 Revocation of appointments.
 
-appointTernmrary ments.
+#### 5.
+The Minister may at any time revoke the appointment of any member of an Educational Board if he thinks it expedient so to do.
 
-Member leavmg the rsland.
+Temporary appointments.
 
-Forfe;,ure of membe: ship.
+#### 6.
+In the case of the absence or inability to act of any member of an Educational Board, the Minister may appoint any person to act temporarily in the place of such member.
 
-Fill,n20f vacancies.
+Member leaving the Island.
+
+#### 7.
+(1) Where the chairman of an Educational Board proposes to leave the Island temporarily, or where any other member notifies the chairman in writing that he proposes to leave and to be absent from the Island for a period specified in the notification, the chairman shall so inform the Minister, stating the proposed period of absence.
+
+(2) Any member of an Educational Board who leaves the Island without complying with the requirements of this paragraph shall ipso facto vacate his seat.
+
+Forfeiture of membership.
+
+#### 8.
+Any member of an Educational Board who fails to attend three consecutive meetings of such Board without excuse acceptable to the Board shall cease to be a member thereof.
+
+Filling of vacancies.
+
+#### 9.
+If any vacancy occurs in the membership of any Educational Board, such vacancy shall be filled by the appointment of another member who shall, subject to the provisions of this Schedule, hold office for the remainder of the period for which the previous member was appointed, so, however, that such appointment shall be made in the same manner and from the same category of persons if any, as the appointment of the previous member.
+
+[The inclusion of this page is authorized by L.N. 17/1982]
 
 [[END OF PAGE 43]]
 
@@ -1603,55 +1586,55 @@ Fill,n20f vacancies.
 
 44
 
-EDUCATlON
+EDUCATION
 
-Gazetling of   appointments.
+Gazetting of appointments.
 
-P d U r e pnd meetmgs.
+#### 10.
+The name of each Educational Board and the names of all members thereof shall, as soon as practicable after such Board is first constituted, be published in the Gazette, and every change in the membership thereof shall be so published.
 
-Minub.
+Procedure and meetings.
+
+#### 11.
+(1) Subject to the provisions of this paragraph each Educational Board may make by-laws for the conduct of its business, the regulation of its proceedings and the times and places of its meetings, but no such by-law shall have effect unless and until it has been approved by the Minister.
+
+(2) The chairman of an Educational Board may at any time call a special meeting of the Board and shall call such meeting within fourteen days of a requisition for that purpose addressed to him by any five members of the Board.
+
+(3) The chairman of an Educational Board, or in his absence the vice-chairman, shall preside at the meetings of the Board, and in the case of the absence of both the chairman and the vice-chairman, the members present and constituting a quorum shall elect a temporary chairman from among their number.
+
+(4) The quorum of each Educational Board shall be five, including the chairman or any other member presiding at the meeting.
+
+(5) The Minister may be represented at any meeting of an Educational Board by such persons as he may authorize to represent him at meetings, and such persons may take part in the proceedings of the Board at the meeting but shall not vote on any matter.
+
+(6) Each Educational Board may delegate to any member or committee thereof the power and authority to carry out on its behalf such duties as such Educational Board may determine.
+
+Minutes.
+
+#### 12.
+Minutes in proper form shall be kept of the proceedings of each Educational Board.
 
 Remuneration of members.
 
-Office of chairman and qemb e n not public OffiCeS.
-
-Constitution of the Independent Schools Committee.
-
-#### 10.
-The  name  of each  Educational  Board  and  the  names  o f all members  thereof shall,  as  soon  as  practicable  after   such  Board  is first conWuted,  be  published  in  the  Gazette, and  every  change in the membership thereof  shall be  so published.
-
-#### 11.
--(1) Subject to the provisions of this paragraph each Educational Board  may  make  by-laws  for  the  conduct  o f its  business, the  regulation  of  its  proceedinss  and  the  times  and  places  o f its  meetings,  but no  such  by-law shall  have effect  unless  and  until  it  has  been  approved by  the Minister.
-
-(2)  The  chairman  o f an  Educational  Board  may  at  any  time call a  special meeting o f the Board  and  shall  call  such meeting  within fourteen days  o f a  requisition  for  that  purpose  addressed  to  him  b y any five members of  the Board.
-
-(3)  The  chairman o f an  Educational Board,  or  in  his  absence the  vice<haiman, shall  preside  at  the meetings  o f the Board, and in  the case o f   the absence of bo t h the chairman and the vice-chairman, the members present and constituting a quorum shall elect a temporary chairman from among their number.
-
-(4) The quorum of  each Educational Board shall be  five, including the chairman or any other member presiding at the meeting.
-
-(5)  The  Minister  may be represented  at  any  meeting  o f an Educational Board  by  such  persons  as  he  may  authorize to  represent him  at  meetings,  and  such  persons  may  take  part  in  the  proceedings of  the Board at  the meeting but shall not vote on any matter.
-
-(6)  Each  Educational  Board  may  delegate  to  any  member  or committee thereof  the  power  and  authority  to carry out  on  its  behalf such duties as  such Educational Eoard may  determine.
-
-#### 12.
-Minutes in proper form shall be  kept o f   the proceadings of  each Educational Board.
-
 #### 13.
-There shall be paid to  the chairman and  other members o f   each Educational Board such remuneration  whether by way  of  honorarium. salary or fees and such allowances as the Minister may determine.
+There shall be paid to the chairman and other members of each Educational Board such remuneration whether by way of honorarium, salary or fees and such allowances as the Minister may determine.
+
+Office of chairman and members not public offices.
 
 #### 14.
-The office o f   chairman or member o f   an Educational Board shall not be  a public o%ce for the purposes of Chapter V of the Constitution of  Jamaica.
+The office of chairman or member of an Educational Board shall not be a public office for the purposes of Chapter V of the Constitution of Jamaica.
 
 ## THIRD SCHEDULE
 
-(Sec t i o n 26)
+(Section 26)
 
-### Constilution and Procedure of the Independent Schools Committee
+### Constitution and Procedure of the Independent Schools Committee
+
+Constitution of the Independent Schools Committee.
 
 #### 1.
-The  Independent Schools Committee shall  consist of t h r e e members,  being persons who  have  had  such  experience  in  teaching  or  in the  conduct,  management or  administration of  educational institutions as the Minister considers suitable, and two other members who shall be representatives of professional  teachers' associations recognized  by  the Minister  and  shall  be  nominated  by  such  associations  in  a  manner approved by the Minister.
+The Independent Schools Committee shall consist of three members, being persons who have had such experience in teaching or in the conduct, management or administration of educational institutions as the Minister considers suitable, and two other members who shall be representatives of professional teachers' associations recognized by the Minister and shall be nominated by such associations in a manner approved by the Minister.
 
-me  inclusion of this page is  authorized by LN. 17/1982]
+[The inclusion of this page is authorized by L.N. 17/1982]
 
 [[END OF PAGE 44]]
 
@@ -1661,61 +1644,56 @@ EDUCATION
 
 45
 
+Appointment and tenure of office of members.
+
 #### 2.
-+ 1 ) The  members of the  Independent Schools Committee  shall he appointed  by  the Minister  and  shall  hold  ofice for such period.  not exceeding two years, as the  Minister shall  determine  and  shall  be eligible  for  reappointment.
+(1) The members of the Independent Schools Committee shall be appointed by the Minister and shall hold office for such period, not exceeding two years, as the Minister shall determine and shall be eligible for reappointment.
 
-(2) The Minister shall appoint one  member of the  Committee  to be  the  chairman thereof.
+(2) The Minister shall appoint one member of the Committee to be the chairman thereof.
 
-revoke  the  appointment of the  chairman  or  any  other  member of the Independent Schools Committee.
+Revocation of appointments.
+
 #### 3.
-The Minister  may,  if  he thinks  it expedient so to do,  at any  time
+The Minister may, if he thinks it expedient so to do, at any time revoke the appointment of the chairman or any other member of the Independent Schools Committee.
 
-the  Minister  may  appoint  any  person  to  act  temporarily  in  the  place of such member.
+Temporary appointments.
+
 #### 4.
-In the  case  of  the  absence  or  inability  to  act  of  any  member,
+In the case of the absence or inability to act of any member, the Minister may appoint any person to act temporarily in the place of such member.
 
-#### 5 -
-4 1 )   Any  member of the  Independent Schools Committee  other than  the  chairman  may  at  any  time  resign  his osce by  instrument in writing addressed to the  Minister and  transmitted through the chairman.  and  from  the  date  of the  receipt  by the  Minister of such instrument such member shall cease to be a member of the Committee.
+Resignations.
 
-Appointment  and tenure of ofice of members'
+#### 5.
+(1) Any member of the Independent Schools Committee other than the chairman may at any time resign his office by instrument in writing addressed to the Minister and transmitted through the chairman, and from the date of the receipt by the Minister of such instrument such member shall cease to be a member of the Committee.
 
-~ ~ of appointmenu.
+(2) The chairman of the Independent Schools Committee may at any time resign his office by instrument in writing addressed to the Minister and such resignation shall take effect as from the date of the receipt of such instrument by the Minister.
 
-Temporary mcnln. appoint-
+Filling of vacancies.
 
-Reslgnationr.
+#### 6.
+If any vacancy occurs in the membership of the Independent Schools Committee such vacancy shall be filled by the appointment of another member who shall, subject to the provisions of this Schedule, hold office for the remainder of the period for which the previous member was appointed, so, however, that such appointment shall be made in the same manner and from the same category of persons as the appointment of the previous member.
 
-(2)  The  chairman of the  Independent Schools Committee  may at any  time resign  his office. by  instrnment  in writing addressed to the Minister  and  such  resignation  shall  take  effect  as  from  the  date  o f   the receipt of such instrument  by  the Minister.
-
-#### 6 .
-I f any  vacancy occurs in the  membership of the Independent Schools Committee  such vacancy  shall  be filled by  the  appointment  of  ~~~~i~~ another  member  who  shall, subject  to  the  provisions  o f this  Schedule, hold  of6ce  for  the  remainder  o f the  period  for  which  the  previous member  was appointed, so, however,  that such  appointment shall be  made i n the  same  manner  and  from  the  same  category of persons as  the  appointment of  the previous member.
+Publication of membership.
 
 #### 7.
-The names of the members of the Independent Schools Committee as  first  constituted  and  every  change  in  the  membership  thereof  shall be published  in  the Guzetre.
+The names of the members of the Independent Schools Committee as first constituted and every change in the membership thereof shall be published in the Gazette.
 
-ing shall be three.
+Quorum.
+
 #### 8.
-The quorum  of   tbe Independent  Schools Committee  at any  meet-
+The quorum of the Independent Schools Committee at any meeting shall be three.
+
+Remuneration of members.
 
 #### 9.
-There  shall  be  paid  to  the  chairman  and  other  members of the Independent  Schools  Committee such remuneration  whether  by  way of  honorarium,  salary  or fees and such allowance as the  Minister  may determine.
+There shall be paid to the chairman and other members of the Independent Schools Committee such remuneration whether by way of honorarium, salary or fees and such allowance as the Minister may determine.
+
+Office of members not to be public office.
 
 #### 10.
-The office of chairman  or  other  member of the  Independent Schools  Committee shall not  be  a  public  oBce  for  the  purposes  o f fiaPter v of  the  Constitution of Jamaica.
+The office of chairman or other member of the Independent Schools Committee shall not be a public office for the purposes of Chapter V of the Constitution of Jamaica.
 
-Publication ofmembership.
-
-QU~-.
-
-R ~ tion o f
-
-office of members not to be public Office.
-
-~
-
-~
-
-me  inclusion of this page i 6   authorized by LN. 17/1982]
+[The inclusion of this page is authorized by L.N. 17/1982]
 
 [[END OF PAGE 45]]
 
@@ -1723,49 +1701,57 @@ me  inclusion of this page i 6   authorized by LN. 17/1982]
 
 46
 
-ED UCA TION
+EDUCATION
+
+General power to regulate procedure.
 
 #### 11.
-Subject  to the  provisions of this Schedule  the,  Independent Schools Committee shall have power to regulate its own procedure. General power  to regulate procedure.
+Subject to the provisions of this Schedule the Independent Schools Committee shall have power to regulate its own procedure.
 
-1911980 s. 21
-
-Constitution of the Tribunal.
-
-Appointmiht and tenure of offia of members
-
-Revocation of   appointment
-
-Temporary appointments.
-
-Resignation.
-
-Filling,of vacannes.
+19/1980
+S. 21.
 
 ## FOURTH SCHEDULE
 
-### THE APPEALS T~IBUNAL
+### THE APPEALS TRIBUNAL
 
-#### Constitution of the  Appeuls  Tribunal
+#### Constitution of the Appeals Tribunal
 
-- The Ap p e a l s Tribunal  (hereinaft81  called  the Tribunal) shall msist  of  a  chairnuin and  two other  members,  one  o f   whom shall be  an attorneyet-law,  appointed  by  the  Minister  and  the  other  shall  be  a representasive o f professional  teachers'  associations recognized by  the Minister and nominated by  such associations i n a - e r approved by the Minister.
+Constitution of the Tribunal.
 
-- The chairman  and  other  members o f the  Tribunal  shall  be  a p pointed  by the  Minister  and  shall  hold office  for  suoh  period  not exceeding  two years, as the  Minister shall dehmine and  shall be eligible for reappointment.
+##### 1.
+The Appeals Tribunal (hereinafter called the Tribunal) shall consist of a chairman and two other members, one of whom shall be an attorney-at-law, appointed by the Minister and the other shall be a representative of professional teachers' associations recognized by the Minister and nominated by such associations in a manner approved by the Minister.
 
-- The Minister may, i f he thinks it  expedient s o to do, at any time revoke the  appintment  o f the  chairman o r any 0 t h   member  of the Tribunal.
+Appointment and tenure of office of members.
 
-(1) In  the case of the  absence or inability to act  of  the  chairman of  the  Tribunal.  the  Minister  may  appoint my  person  to  aot  temporarily as OhmiIman.
+##### 2.
+The chairman and other members of the Tribunal shall be appointed by the Minister and shall hold office for such period not exceeding two years, as the Minister shall determine and shall be eligible for reappointment.
 
-- In the case of  the  absence or inability to  act  o f   any member of  the  Tribunal  other  than  the  chairman,  the  Minister  may  appint any  person  to  act temporarily in  the place  of such member.
+Revocation of appointment.
 
-(1) Any member  of  the Tribunal, other than the  chairman, may at  any bime  resign his office by instrument in writing addressed to  the Minister  and  transmitted through  the  chairman, and  from the  date  o f the receipt by the Minister o f   such instrument suoh  member shall cease to be a member of  'the Tribunal.
+##### 3.
+The Minister may, if he thinks it expedient so to do, at any time revoke the appointment of the chairman or any other member of the Tribunal.
 
-- The chicman o f   the Tribunal may at any time resign his offim by instrument in writing addressed to ,the M i s t e r  and sllch resignation shaU take  effect as from  the  date o f the & p t of such  instrument by the Minister.
+Temporary appointments.
 
-##### 6 .
-I f any  vacancy  oocurs  in  the  membership  of  the  Tribunal sucn vacancy  shall  be  Mled  by  the  appointment  of  anotber  member who shall,  subject  t o the provisions  of this Schedule,  hold  ofice  for the remainder o f   the  period for which the prtvious member was appointed. so, however, that such appointment s h a l l be made in  the same manner and from the same category o f persona, if  any. as the appmutment Of the previous member.
+##### 4.
+(1) In the case of the absence or inability to act of the chairman of the Tribunal, the Minister may appoint any person to act temporarily as chairman.
 
-me  inclusion o f this  pge is  authorized by LN. 17/19821
+(2) In the case of the absence or inability to act of any member of the Tribunal other than the chairman, the Minister may appoint any person to act temporarily in the place of such member.
+
+Resignation.
+
+##### 5.
+(1) Any member of the Tribunal, other than the chairman, may at any time resign his office by instrument in writing addressed to the Minister and transmitted through the chairman, and from the date of the receipt by the Minister of such instrument such member shall cease to be a member of the Tribunal.
+
+(2) The chairman of the Tribunal may at any time resign his office by instrument in writing addressed to the Minister and such resignation shall take effect as from the date of the receipt of such instrument by the Minister.
+
+Filling of vacancies.
+
+##### 6.
+If any vacancy occurs in the membership of the Tribunal such vacancy shall be filled by the appointment of another member who shall, subject to the provisions of this Schedule, hold office for the remainder of the period for which the previous member was appointed, so, however, that such appointment shall be made in the same manner and from the same category of persons, if any, as the appointment of the previous member.
+
+[The inclusion of this page is authorized by L.N. 17/1982]
 
 [[END OF PAGE 46]]
 
@@ -1775,20 +1761,21 @@ EDUCATION
 
 47
 
-- The  names  of  members  o f   the  Tribunal as first  mnstituted and every  change i n the  membership thereof sball be published i n t h e Gazette.
+Publication of membership.
 
-- Tribunal such  remuneration  whether  by  way  o f honorarium, salary or  fees  and  suoh  allowances as the  Minister  may determine.
+##### 7.
+The names of members of the Tribunal as first constituted and every change in the membership thereof shall be published in the Gazette.
+
+Remuneration of members.
+
 ##### 8.
-There shall be paid .to the  chairman and other  members of  the
-
-- The  decision  of  the  Tribunal  shall be by a majority  of  votes of the members present and wthg and, i n addition to an original vote, the chairman shal l have a casting vote in any case. i n whioh the voting is equal.
-
-Publication ? f E ? " ;
-
-: ' ; k n . Remuncra-
+There shall be paid to the chairman and other members of the Tribunal such remuneration whether by way of honorarium, salary or fees and such allowances as the Minister may determine.
 
 Voting.
 
-IThe inclusion of this page ia autbarizcd  by LN. 17/1982]
+##### 9.
+The decision of the Tribunal shall be by a majority of votes of the members present and voting and, in addition to an original vote, the chairman shall have a casting vote in any case in which the voting is equal.
+
+[The inclusion of this page is authorized by L.N. 17/1982]
 
 [[END OF PAGE 47]]
