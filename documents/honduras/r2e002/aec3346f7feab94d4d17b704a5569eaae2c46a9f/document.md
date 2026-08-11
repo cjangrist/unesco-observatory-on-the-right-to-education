@@ -119,9 +119,9 @@ NECESIDADES EDUCATIVAS ESPECIALES: Son las necesidades que tiene una persona der
 
 ESTIMULACIÓN  TEMPRANA: Atención  brindada  al  niño  para  potenciar  y desarrollar al máximo  sus posibilidades físicas, intelectuales, sensoriales y afectivas,  mediante  programas  terapéuticos  sistemáticos  en  todas  las  áreas  del desarrollo humano, sin comprometer el curso lógico de la maduración.
 
-P REVENCIÓN: Por  prevención  se  entiende  la  adopción  de  medidas  a  tiempo encaminadas a impedir que se produzca un deterioro físico, intelectual, psiquiátrico o sensorial (prevención primaria) o a impedir que ese deterioro cause una discapacidad o limitación funcional permanente (prevención secundaria).
+PREVENCIÓN: Por  prevención  se  entiende  la  adopción  de  medidas  a  tiempo encaminadas a impedir que se produzca un deterioro físico, intelectual, psiquiátrico o sensorial (prevención primaria) o a impedir que ese deterioro cause una discapacidad o limitación funcional permanente (prevención secundaria).
 
-REHABILITACIÓN: La rehabilitación es un proceso encaminado a lograr que las personas con discapacidad estén en condiciones de alcanzar y mantener un estado funcional óptimo desde el punto de vista físico, sensorial, intelectual,  psíquico  o social, de manera que cuenten con medios para modificar su propia vida y ser más independientes.
+REHABILITACIÓN: La rehabilitación es un proceso encaminado a lograr que las personas con discapacidad estén en condiciones de alcanzar y mantener un estado
 
 4
 
@@ -129,6 +129,7 @@ REHABILITACIÓN: La rehabilitación es un proceso encaminado a lograr que las pe
 
 [[START OF PAGE 5]]
 
+funcional óptimo desde el punto de vista físico, sensorial, intelectual, psíquico o social, de manera que cuenten con medios para modificar su propia vida y ser más independientes.
 ORGANIZACIONES DE PERSONAS CON DISCAPACIDAD. Son organizaciones de personas con discapacidad, las conformadas por personas con algún tipo de discapacidad con el objetivo de defender sus derechos, su integración familiar, inserción laboral, sensibilización  social y  otros afines.
 
 INSTITUCIONES NO GUBERNAMENTALES QUE TRABAJA EN DISCAPACIDADES. Son todas las Organizaciones no gubernamentales (ONG'S), que  cuentan  con  su  respectiva  personalidad  jurídica  y   trabajan  en  el  área  de discapacidad.
@@ -171,7 +172,7 @@ Todos los miembros de la familia, deben coadyuvar a que sus  integrantes  con  d
 #### ARTICULO  15.-  GARANTES.
 Corresponde  a  los  representantes  legales  de  los menores y mayores dependientes con discapacidad el deber de cuidado permanente  de  estos  en  condiciones  apropiadas  para  su  desarrollo  e  integridad física.
 
-#### ARTÍCULO 16.LAS MUNICIPALIDADES.
+#### ARTÍCULO 16.- LAS MUNICIPALIDADES.
 Las municipalidades deben desarrollar sus propios programas para facilitar el acceso en iguales condiciones de las personas con discapacidad. Además deberán apoyar a las instituciones públicas y  privadas  en  el  desarrollo  y  ejecución  de  los  programas  que  promuevan  la igualdad  de  condiciones  y  oportunidades  para  el  desarrollo  humano  de  las personas con discapacidad.
 
 ### SECCIÓN  II EDUCACIÓN
@@ -331,7 +332,7 @@ Los ascensores deberán contar con facilidades de acceso, manejo, señalización
 ### SECCIÓN VI INFORMACIÓN Y COMUNICACIÓN
 
 #### ARTÍCULO  44.-  INFORMACIÓN   ACCESIBLE.
-Las  instituciones  públicas  y privadas  deben  asegurarse  que  la  información   y  servicios   brindados  al  público sean accesibles a todas las personas con discapacidad, según sus propias necesidades.
+Las  instituciones  públicas  y privadas  deben  asegurarse  que  la  información   y  servicios   brindados  al  público
 
 11
 
@@ -339,6 +340,7 @@ Las  instituciones  públicas  y privadas  deben  asegurarse  que  la  informaci
 
 [[START OF PAGE 12]]
 
+sean accesibles a todas las personas con discapacidad, según sus propias necesidades.
 #### ARTÍCULO 45.- INFORMACIÓN ESPECIAL.
 Las personas con discapacidad y su familia  tendrán  acceso  a  una  información  completa  sobre  el  diagnóstico,  los derechos, servicios y programas disponibles. La información debe presentarse en la forma que resulte accesible para las personas con discapacidad.
 
@@ -346,7 +348,7 @@ Las personas con discapacidad y su familia  tendrán  acceso  a  una  informaci�
 Los  programas  informativos Transmitidos  por  los  canales  de  televisión,  deben  hacer  accesible  la  información brindada, debiendo contar,  con la asistencia de intérpretes o mensajes escritos en las pantallas, para garantizar a las personas con problemas auditivos el derecho  a la  información.  La  Comisión  Nacional  de  Telecomunicaciones  (CONATEL)  debe velar porque todos los medios de información adopten las medidas correspondientes para hacer accesible la información que ofrecen al público.
 
 #### ARTÍCULO 47.- COMUNICACIÓN.
-Los operadores de systems de comunicación deben garantizar a todas las personas con discapacidad el acceso a sus servicios. Los  teléfonos  públicos  se  instalarán  en  lugares  que  sean  accesibles  a  todas  las personas con discapacidad.
+Los operadores de sistemas de comunicación deben garantizar a todas las personas con discapacidad el acceso a sus servicios. Los  teléfonos  públicos  se  instalarán  en  lugares  que  sean  accesibles  a  todas  las personas con discapacidad.
 
 #### ARTÍCULO   48.-  INTERNET.
 Los  locales  de  servicios  de  Internet  abiertos  al público,  deben  estar  ubicados  en  un  entorno  accesible  y  adecuado,  debiendo contar con los programas y opciones para poder ser utilizados, por las personas con discapacidad.
@@ -359,7 +361,7 @@ Las bibliotecas abiertas al público, deben contar con servicios de apoyo, tales
 #### ARTÍCULO  50.-  ACCESIBILIDAD  AL  TRANSPORTE.
 La  Dirección  General  de Transporte, garantiza que las empresas operadoras de los diferentes servicios del rubro,  cumplan  con  los  requerimientos  de  accesibilidad  para  las  personas  con discapacidad, tales como:
 
-A.-Facilitar  el  acceso  de  las  personas  con  discapacidad  y  movilidad  limitada, reservando y dándoles ubicación física prioritaria dentro de las unidades; B.-Los buses de transporte urbano e interurbano, deben disponer de forma mínima de cuatro (4) asientos por cada cuarenta y ocho (48) pasajeros, los cuales deben ser ubicados junto a las puertas de acceso y /o salida de los mismos, debiendo contar con la señalización internacional;
+A.-Facilitar  el  acceso  de  las  personas  con  discapacidad  y  movilidad  limitada, reservando y dándoles ubicación física prioritaria dentro de las unidades; B.-Los buses de transporte urbano e interurbano, deben disponer de forma mínima de cuatro (4) asientos por cada cuarenta y ocho (48) pasajeros, los cuales deben ser
 
 12
 
@@ -367,6 +369,7 @@ A.-Facilitar  el  acceso  de  las  personas  con  discapacidad  y  movilidad  li
 
 [[START OF PAGE 13]]
 
+ubicados junto a las puertas de acceso y /o salida de los mismos, debiendo contar con la señalización internacional;
 C.-Que las terminales  de transporte  cumplan con las condiciones necesarias  para facilitar el acceso  con seguridad a su entorno físico;
 
 - D.-Establecer  paradas  de  buses  del  transporte  urbano  en  sus  diferentes  rutas  y puntos de taxi en lugares que faciliten el acceso a las personas con discapacidad; y, E.-Que  los  conductores  de  buses,  taxis  y  otros  medios  de  transporte  que  ellos utilizan,  brinden  sus  servicios  a  las  personas  con  discapacidad,  facilitándoles  y dándoles un trato de acuerdo a sus necesidades.
@@ -455,7 +458,7 @@ Las  organizaciones  de  y,  para,   personas  con discapacidad deben:
 
 ## CAPITULO VI DE LA DIRECCIÓN GENERAL
 
-#### ARTÍCULO  59.DIRECCIÓN  GENERAL.
+#### ARTÍCULO 59.- DIRECCIÓN GENERAL.
 Créase  la Dirección General de Desarrollo para las Personas con Discapacidad (DIGEDEPDI), como dependencia de  la  Secretaría  de  Estado  en  los  Despachos  de  Gobernación  y  Justicia,  la  cual funcionará como un órgano desconcentrado con autonomía técnica administrativa y financiera.
 
 #### ARTÍCULO  60.-  ATRIBUCIONES  DE  LA  DIRECCIÓN.
@@ -758,5 +761,12 @@ EL  SECRETARIO  DE  ESTADO  EN  LOS  DESPACHOS  DE  GOBERNACIÓN  Y JUSTICIA JOS
 [[START OF PAGE 23]]
 
 23
+Al Poder Ejecutivo
+Por Tanto: Ejecútese
+Tegucigalpa, DC, 13 de Septiembre del 2004
+Ricardo Maduro
+Presidente Constitucional de la Republica
+Secretario de Estado en los Despachos de Gobernación y Justicia
+Jorge Ramón Hernández Alcerro
 
 [[END OF PAGE 23]]
