@@ -38,11 +38,13 @@ According to Article 5 of the Law, the system of pre-school education consists o
 
 The Law stipulates that a family shall help a child to get education in pre-school and other educational institutions or provide pre-school education at home. Attendance of a pre-school institution by a child does not free the family from obligation to raise, develop and teach the child in the family. Parents or person  who  are  acting  as  parents  are  responsible  to  the  society  and  the  state  for  the  development, upbringing  and  education  of  children  and  also  preserving  of  their  life,  health  and  human  dignity. Ukrainian citizens regardless of race, skin color, political, religious and other beliefs, sex, ethnic and social origin, material state, place of residences, language or other characteristics have the right to get pre-school education in pre-school educational institutions regardless of their subordination, types and forms of ownership, as well as in a family.
 
-According to Article 11 of the Law, a pre-school educational institution is an educational institution that  provides  exercise  of  a  child's  right  to  get  pre-school  education,  his/her  physical,  mental  and spiritual development, social adaptation and readiness to continue education. Pre-school educational institutions can be of state, municipal and private ownership forms. The activity of private pre-school educational  institution  is  subject  to  licensing.  The  Law  stipulates  the  following  types  of  pre-school educational institutions:
+According to Article 11 of the Law, a pre-school educational institution is an educational institution that provides exercise of a child's right to get pre-school education, his/her physical, mental and
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+spiritual development, social adaptation and readiness to continue education. Pre-school educational institutions can be of state, municipal and private ownership forms. The activity of private pre-school educational institution is subject to licensing. The Law stipulates the following types of pre-school educational institutions:
 
 - day nursery;
 
@@ -76,13 +78,13 @@ The management of the system of pre-school education is performed by:
 
 - bodies of local self-government.
 
-The procedure for planning activity of a pre-school educational institution and requirements fto the content of pre-school education are established by Chapter IV.
+The procedure for planning activity of a pre-school educational institution and requirements for the content of pre-school education are established by Chapter IV.
 
 The participants of educational process in the sphere of pre-school education are as follows:
 
 - children of pre-school age, teachers, pupils;
 
-- directors (managers), deputy directors (managers) on educational work, tutors, teachersmethodologists, senior tutors, teachers, teachers-defectologists, teachers-speech therapists, practical psychologists, social teachers, instructors of labor, instructors on physical education, instructors of auditory class, music teachers, heads of groups, studios, clubs, other forms of collective work and other specialists;
+- directors (managers), deputy directors (managers) on educational work, tutors, teachers-methodologists, senior tutors, teachers, teachers-defectologists, teachers-speech therapists, practical psychologists, social teachers, instructors of labor, instructors on physical education, instructors of auditory class, music teachers, heads of groups, studios, clubs, other forms of collective work and other specialists;
 
 - assistant teachers and nannies in orphanages, day nurseries and day-nursery-kindergartens;
 
