@@ -76,7 +76,7 @@ ______________
 
 - Vu l'ordonnance n°  97 - 10 du 27 Chaoual 1417 correspondant au 6 mars 1997 relative aux droits d'auteurs et aux droits voisins ;
 
-- Vu la loi n°  98 - 11 du 29 Rabie Ethani 1419 correspondant au 22 août 1998 portant loi d'orientation et de programme à projection quinquennale sur la recherche scientifique  et le développement technologique 19982002 ;
+- Vu la loi n°  98 - 11 du 29 Rabie Ethani 1419 correspondant au 22 août 1998 portant loi d'orientation et de programme à projection quinquennale sur la recherche scientifique  et le développement technologique 1998-2002 ;
 
 Après adoption par le Parlement ;
 
@@ -115,7 +115,7 @@ Le  service  public  de  l'enseignement  supérieur  garanti  à l'enseignement 
 L'enseignement  supérieur  tend  à  l'objectivité  du  savoir  er  respecte  la diversité des opinions .
 
 ### Article 5 /
-Dans le cadre des missions générales définies à l'article 3  cidessus, le service public de l'enseignement supérieur a pour objectif de répondre aux besoins de la société dans les domaines suivants :
+Dans le cadre des missions générales définies à l'article 3  ci-dessus, le service public de l'enseignement supérieur a pour objectif de répondre aux besoins de la société dans les domaines suivants :
 
 3
 
@@ -167,9 +167,9 @@ Le second cycle regroupe des formations  académiques  et  des  formations  prof
 L'accès  au  second  cycle  est ouvert  aux  candidats  titulaires  du  diplôme  de  licence  ou  de  diplômes reconnus équivalents dans la limite des places pédagogiques disponibles.
 
 ### Article 13 / (loi 08-06 du 23 février 2008)
-L'accès au premier cycle et au second cycle est organisé par voie de  concours sur titres et / ou sur épreuves dans des conditions fixées annuellement par le ministre chargé de l'enseignement supérieur. résultats obtenus aux concours prévus ci-dessus et des
+L'accès au premier cycle et au second cycle est organisé par voie de concours sur titres et / ou sur épreuves dans des conditions fixées annuellement par le ministre chargé de l'enseignement supérieur.
 
-L'orientation  des  candidats  à  l'accès  au  premier  cycle  vers  les différents  domaines  est  opérée  en  fonction  des  vœux  exprimés,  des places pédagogiques disponibles.
+L'orientation des candidats à l'accès au premier cycle vers les différents domaines est opérée en fonction des vœux exprimés, des résultats obtenus aux concours prévus ci-dessus et des places pédagogiques disponibles.
 
 ### Article  14 /  (loi  08-06  du  23  février  2008)
 L'accès  à  la  formation  de second cycle assurée au sein d'écoles extérieures à l'université,  telles que  prévues  aux  articles  38  et  40    ci-dessous,  est  subordonné  à  la réussite  à  un  concours  sur  titres  et/ou  sur    épreuves  ouvert  aux candidats  ayant  subi  avec  succès  deux  (2)  années  de  formation supérieure.
@@ -182,13 +182,15 @@ Le second cycle est sanctionné par le diplôme de Master.
 ### Article  16 / (loi  08-06  du  23  février  2008)
 Le  régime  des  études conduisant à l'obtention  des  diplômes  de  licence  et  de  master  est  fixé par voie réglementaire.
 
-Les  programmes  d'enseignement,  les  modalités  d'évaluation,  de progression et d'orientation des étudiants dans le premier et le second cycle  sont  fixés  par  le  ministre  chargé  de  l'enseignement  supérieur  ou conjointement avec le ministre concerné, en cas d'exercice de la tutelle pédagogique.
+Les  programmes  d'enseignement,  les  modalités  d'évaluation,  de progression et d'orientation des étudiants dans le premier et le second
 
 5
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
+cycle sont fixés par le ministre chargé de l'enseignement supérieur ou conjointement avec le ministre concerné, en cas d'exercice de la tutelle pédagogique.
 
 ### Article  17 /  (loi  08-06  du  23  février  2008  )
 Le  troisième  cycle  est  une formation à la recherche et par la recherche intégrant en permanence les dernières innovations scientifiques et technologiques.
@@ -271,7 +273,7 @@ L'enseignement supérieur contribue, au sein de la communauté scientifique et c
 ## TITRE IV DES INSTITUTIONS
 
 ### Article 31 /
-pour la prise en charge des missions définies à l'article 5 cidessus  ,  il  est  créé  un  établissement  public  à  caractère  scientifique, culturel et professionnel .
+pour la prise en charge des missions définies à l'article 5 ci-dessus  ,  il  est  créé  un  établissement  public  à  caractère  scientifique, culturel et professionnel .
 
 ### Article  32  /
 l'établissement  public  à  caractère  scientifique,  culturel  et professionnel  prévu  à  l'article  31  ci-dessus  ,  est  un  établissement national d'enseignement supérieur doté de la personnalité morale et de l'autonomie financière .
@@ -317,7 +319,7 @@ Sans préjudice du principe de la gratuité de l'enseignement et dans dans le ca
 L'établissement  public  à  caractère  scientifique  ,  culturel  et professionnel peut , dans la cadre de ses missions, assurer par voie de contrat  et  conventions,  des  prestations  de  service  et  des  expertises  à titre  onéreux,  exploiter  des  brevets  et  licences  et  commercialiser  les produits de ses différentes activités .
 
 ### Article  37 /
-Dans  son  fonctionnement  et  sa  gestion,  l'établissement public à caractère scientifique, culturel et professionnel et soumis à des règles  adaptés  à  la  spécificité  de  ses  missions  et  ce,  notamment  par l'application  du  contrôle  financier  a  postériori  ,  ainsi  que  l'utilisation directe  des  ressources  provenant  des  activités  citées  à  l'article  36  cidessus qui doit permettre, en particulier, le développement des activités pédagogiques et scientifiques.
+Dans  son  fonctionnement  et  sa  gestion,  l'établissement public à caractère scientifique, culturel et professionnel et soumis à des règles  adaptés  à  la  spécificité  de  ses  missions  et  ce,  notamment  par l'application  du  contrôle  financier  a  postériori  ,  ainsi  que  l'utilisation directe  des  ressources  provenant  des  activités  citées  à  l'article  36  ci-dessus qui doit permettre, en particulier, le développement des activités pédagogiques et scientifiques.
 
 Il  peut,  dans  la  limite  des  ressources  susvisées  ,  créer  une  ou plusieurs filiales et prendre des participations .
 
@@ -476,13 +478,15 @@ Durant cette période, les biens immeubles et meubles de l'établissement  néce
 En  cas de fermeture d'un établissement privé de formation supérieure  en  fin  d'année  universitaire,  il  est  procédé  au  transfert  des étudiants  vers  les  universités  et  les  centres  universitaires  proches  de celui-ci, conformément aux modalités et conditions fixées par le ministre chargé de l'enseignement supérieur.
 
 ### Article 43 bis13 /  (complété par l'article 6 de la loi 08-06 du 23 février 2008)
-La personne morale de droit privé fondatrice ou le responsable de l'établissement habilité à la représenter doit, au début de chaque année universitaire,  justifier  auprès  du  ministre  chargé  de  l'enseignement supérieur de la souscription d'une caution  bancaire permettant de faire face aux dépenses  occasionnées dans les  cas de fermeture  prévus à l'article 43bis 12 ci-dessus.
+La personne morale de droit privé fondatrice ou le responsable de l'établissement habilité à la représenter doit, au début de chaque année
 
 15
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+
+universitaire, justifier auprès du ministre chargé de l'enseignement supérieur de la souscription d'une caution bancaire permettant de faire face aux dépenses occasionnées dans les cas de fermeture prévus à l'article 43bis 12 ci-dessus.
 
 Le montant de la caution est déterminé selon des critères fixés par le ministre chargé de l'enseignement supérieur.
 
@@ -554,7 +558,7 @@ Les missions des personnels enseignants de l'enseignement  supérieur  s'exercen
 
 Ils peuvent également assurer des fonctions d'administration et de gestion  des  établissements  d'enseignement  supérieur  ,  en  privilégiant les enseignants justifiant du grade le plus élevé .
 
-En  outre,  les  fonctions  des  enseignants-  chercheurs  hospitalouniversitaires  comportent  des  activités  de  santé  et  de  soins  effectuées dans des structures hospitalo-universitaires .
+En  outre,  les  fonctions  des  enseignants- chercheurs  hospitalo-universitaires  comportent  des  activités  de  santé  et  de  soins  effectuées dans des structures hospitalo-universitaires .
 
 ### Article  53 /  (  modifié  et  complété  par  l'article  8  de  la  loi  08-06  du  23 février  2008)
 L'aptitude  des  enseignants  chercheurs  et  des  personnels chercheurs  à  encadrer  les  étudiants  au  diplôme  de  doctorat  et  /  ou  à diriger  des  activités  de  recherche  est  consacrée  par  une  habilitation universitaire  délivrée  selon  des  modalités  et  conditions  fixées  par  voie réglementaire.
@@ -604,13 +608,15 @@ Les  étudiants  disposent  de  la  liberté  d'information  et d'expression  sa
 Ils  disposent  de  la  liberté  d'association  et  de  réunion  dans  les conditions fixées par la législation en vigueur .
 
 ### Article 62 /
-les chefs des établissements d'enseignement supérieur sont responsables  de  l'ordre  dans  les  enceintes  universitaires  et  de  leur protection. Ils exercent cette mission dans le cadre de la législation et de la réglementaire en vigueur et du règlement intérieur de l'établissement, en réunissant le cadre  matériel et humain adéquat .
+les chefs des établissements d'enseignement supérieur sont responsables  de  l'ordre  dans  les  enceintes  universitaires  et  de  leur protection. Ils exercent cette mission dans le cadre de la législation et de
 
 19
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
+
+la réglementaire en vigueur et du règlement intérieur de l'établissement, en réunissant le cadre matériel et humain adéquat .
 
 ### Article  63 /
 Il  est  crée  un  conseil  de  l'éthique  et  de  la  déontologie universitaires  auprès  du  ministre  chargé  de  l'enseignement  supérieur  , chargé  de  proposer  toute  mesure  relative  aux  règles  d'éthique  et  de déontologie universitaires, ainsi qu'à leur respect .
