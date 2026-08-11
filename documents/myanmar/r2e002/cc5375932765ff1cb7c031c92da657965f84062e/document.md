@@ -1,5 +1,7 @@
 [[START OF PAGE 1]]
 
+Housing, Land And Property Laws In Force 671
+
 # THE CHILD LAW (1993)
 
 The State Law and Order Restoration Council Law No. 9/93 The 11th Waning Day of Oo Waso, 1355 M.E
@@ -10,9 +12,9 @@ The State Law and Order Restoration Council hereby enacts the following Law:
 
 ## CHAPTER I TITLE AND DEFINITION
 
-- This Law shall be called the Child Law.
+1. This Law shall be called the Child Law.
 
-- The following expressions contained in this Law shall have the meanings given hereunder:
+2. The following expressions contained in this Law shall have the meanings given hereunder:
 
 (a) 'Child' means a person who has not attained the age of 16 years;
 
@@ -30,17 +32,15 @@ The State Law and Order Restoration Council hereby enacts the following Law:
 
 (h) 'Custodian' means a person undertaking responsibility for the custody and care of a child in need of protection and care in accordance with this Law;
 
-(i) 'Training School' means a training school established by the Social Welfare Department to which a child in need of protection and tare or a child who has committed an offence is sent for custody and care under this Law. This expression also includes a home recognized as a training school by the Social Welfare Department;
+(i) 'Training School' means a training school established by the Social Welfare Department to which a child in need of protection and care or a child who has committed an offence is sent for custody and care under this Law. This expression also includes a home recognized as a training school by the Social Welfare Department;
 
 (j) 'Home' means premises, school, centre or department established by a voluntary social worker or non-governmental organization with the objective of taking custody and care of a child in need of protection and care;
-
-Housing, Land And Property Laws In Force
-
-671
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+672 Housing, Land and Property Rights in Burma: The Current Legal Framework
 
 (k) 'Temporary Care Station' means a temporary care station established by the Social Welfare Department for temporary custody and care of a child accused of having committed a crime, during the trial of the case. This expression also includes a home recognized by the Social Welfare Department as a temporary care station;
 
@@ -56,7 +56,7 @@ Housing, Land And Property Laws In Force
 
 ## CHAPTER II AIMS
 
-- The aims of this Law are as follows:­
+3. The aims of this Law are as follows:-
 
 (a) to implement the rights of the child recognized in the United Nations Convention on the Rights of the Child;
 
@@ -66,17 +66,17 @@ Housing, Land And Property Laws In Force
 
 (d) to carry out measures for the best interests of the child depending upon the financial resources of the State;
 
-(e) to enable custody and care of children in need of protection and care by the State or voluntary social workers or non­ governmental organizations;
+(e) to enable custody and care of children in need of protection and care by the State or voluntary social workers or non-governmental organizations;
 
 (f) to enable a separate trial of a juvenile offence and to carry out measures with the objective of reforming the character of the child who has committed an offence.
-
-672
-
-Housing, Land and Property Rights in Burma: The Current Legal Framework
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+Housing, Land And Property Laws In Force 673
+
+## CHAPTER III FORMATION OF THE COMMITTEE
 
 4. The Government:-
 
@@ -84,21 +84,21 @@ Housing, Land and Property Rights in Burma: The Current Legal Framework
 
 (i) Minister, the Ministry of Social Welfare, Relief and Resettlement Chairman;
 
-(ii) Heads of relevant Government departments Members and organizations Members;
+(ii) Heads of relevant Government departments and organizations Members;
 
-(iii) representatives from non-governmental Members organizations who are carrying out work in the interests of children;
+(iii) representatives from non-governmental organizations who are carrying out work in the interests of children Members;
 
 (iv) voluntary social workers who are interested in the affairs of children Members;
 
-(v) a person assigned responsibility by the Secretary Chairman.
+(v) a person assigned responsibility by the Chairman Secretary.
 
-(b)  may  determine  the  Deputy  Chairman  and  Joint  Secretary  as  may  be  necessary  in forming the Committee;
+(b) may determine the Deputy Chairman and Joint Secretary as may be necessary in forming the Committee;
 
 (c) may determine the tenure of the Committee.
 
 ## CHAPTER IV DUTIES AND POWERS OF THE COMMITTEE
 
-- The duties and powers of the Committee are as follows:-
+5. The duties and powers of the Committee are as follows:-
 
 (a) protecting and safeguarding the rights of the child;
 
@@ -110,19 +110,15 @@ Housing, Land and Property Rights in Burma: The Current Legal Framework
 
 (e) giving guidance and supervision in obtaining donations and property from local and foreign voluntary donors and to enable effective utilization of such donations and property in the interests of children;
 
-## CHAPTER III FORMATION OF THE COMMITTEE
-
-Housing, Land And Property Laws In Force
-
-673
-
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
+674 Housing, Land and Property Rights in Burma: The Current Legal Framework
+
 (f) laying down and carrying out work programmes in order to take preventive measures against occurrence of juvenile crimes;
 
-(g) collecting from relevant government departments and organizations and complying the required reports and statistics;
+(g) collecting from relevant government departments and organizations and compiling the required reports and statistics;
 
 (h) reporting to the Government from time to time on the activities of the Committee;
 
@@ -130,9 +126,9 @@ Housing, Land And Property Laws In Force
 
 6. The Committee may:-
 
-(a) from the State, Divisional, District or Township Committees on the Rights of the Child and determine the functions and duties thereof;
+(a) form the State, Divisional, District or Township Committees on the Rights of the Child and determine the functions and duties thereof;
 
-(b) supervise, guide and assists in the activities of the Committees on the Rights of the Child formed under sub-section (a).
+(b) supervise, guide and assist in the activities of the Committees on the Rights of the Child formed under sub-section (a).
 
 7.  (a)  The  office  work  of  the  Committee  shall  be  undertaken  by  the  Social  Welfare Department.
 
@@ -152,13 +148,11 @@ Housing, Land And Property Laws In Force
 
 (b) The child shall be entitled to a monthly allowance for maintenance from his parents who fail or refuse to maintain him.
 
-674
-
-Housing, Land and Property Rights in Burma: The Current Legal Framework
-
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+Housing, Land And Property Laws In Force 675
 
 12. Every child:-
 
@@ -170,19 +164,19 @@ Housing, Land and Property Rights in Burma: The Current Legal Framework
 
 (d) has the right to guardianship in accordance with law, in respect of his person or property.
 
-(a) Every child who is capable of expressing his or her own views in accordance with his age and maturity has the right to express his own views in matters concerning children;
+13. (a) Every child who is capable of expressing his or her own views in accordance with his age and maturity has the right to express his own views in matters concerning children;
 
 (b) The views of the child shall be given due weight in accordance with his age and maturity, by those concerned;
 
 (c)  The  child  shall  be  given  the  opportunity  of  making  a  complaint,  being  heard  and defended in the relevant Government department, organization or court either personally or through a representative in accordance with law, in respect of his rights.
 
-- Every child shall, irrespective of race, religion, status, culture, birth or sex:-
+14. Every child shall, irrespective of race, religion, status, culture, birth or sex:-
 
 (a) be equal before the law;
 
 (b) be given equal opportunities.
 
-- Every child:-
+15. Every child:-
 
 (a) has the right to freedom of speech and expression in accordance with law;
 
@@ -196,13 +190,11 @@ Housing, Land and Property Rights in Burma: The Current Legal Framework
 
 17. (a) Every child shall have the right to be adopted in accordance with law:
 
-Housing, Land And Property Laws In Force
-
-675
-
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
+676 Housing, Land and Property Rights in Burma: The Current Legal Framework
 
 (b) The adoption shall be in the interests of the child;
 
@@ -214,9 +206,9 @@ Housing, Land And Property Laws In Force
 
 (ii) has the right to obtain special care and assistance from the State.
 
-(b)  The  Social  Welfare  Department  shall  lay  down  and  carry  out  measures  as  may  be necessary in order that mentally or physically or disabled children may participate with dignity in the community, stand on their own feet and promote self-reliance.
+(b) The Social Welfare Department shall lay down and carry out measures as may be necessary in order that mentally or physically disabled children may participate with dignity in the community, stand on their own feet and promote self-reliance.
 
-(a) Every child has the right to enjoy health facilities provided by the State:-
+19. (a) Every child has the right to enjoy health facilities provided by the State:-
 
 (b) The Ministry of Health shall:
 
@@ -226,7 +218,7 @@ Housing, Land And Property Laws In Force
 
 (iii) carry out measures to minimize the child mortality rate and to maximize the population of healthy children.
 
-(a) Every child shall:-
+20. (a) Every child shall:-
 
 (i) have opportunities of acquiring education;
 
@@ -236,21 +228,19 @@ Housing, Land And Property Laws In Force
 
 (i)  have  an  objective  of  implementing  the  system  of  free  and  compulsory  primary education;
 
-676
-
-Housing, Land and Property Rights in Burma: The Current Legal Framework
-
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-(ii) may down and carry out measures as may be necessary for regular attendance at schools and the reduction of untimely drop-out rates;
+Housing, Land And Property Laws In Force 677
 
-(iii) make arrangements for literacy of children who are unable for various reasons to attend schools opened by the States.
+(ii) lay down and carry out measures as may be necessary for regular attendance at schools and the reduction of untimely drop-out rates;
+
+(iii) make arrangements for literacy of children who are unable for various reasons to attend schools opened by the State.
 
 21. Every child shall have the right to maintain his or her own cherished language, literature and culture, to profess his or her own religion and to follow his or her own traditions and customs.
 
-22. (a) Every child shall have the right of access to literature contributory to his or her allround development and to acquire knowledge;
+22. (a) Every child shall have the right of access to literature contributory to his or her all-round development and to acquire knowledge;
 
 (b) The Ministry of Information shall:
 
@@ -258,7 +248,7 @@ Housing, Land and Property Rights in Burma: The Current Legal Framework
 
 (ii)  educate and disseminate by mass media to ensure that children and their parents or guardians are made familiar with the rights and ethics of the child and that children have access to national and international news and information concerning them.
 
-- Every child has the right to:-
+23. Every child has the right to:-
 
 (a) rest and leisure and to engage in play;
 
@@ -266,7 +256,7 @@ Housing, Land and Property Rights in Burma: The Current Legal Framework
 
 (c) participate in cultural and artistic activities.
 
-(a) Every child has:
+24. (a) Every child has:
 
 (i) the right to engage in work in accordance with law and of his own volition.
 
@@ -274,15 +264,13 @@ Housing, Land and Property Rights in Burma: The Current Legal Framework
 
 (b) The Ministry of Labour shall protect and safeguard in accordance with law to ensure safety of children employees at the place of work and prevention of infringement and loss of their rights.
 
-Housing, Land And Property Laws In Force
-
-677
-
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-- Every child has, in accordance with law:-
+678 Housing, Land and Property Rights in Burma: The Current Legal Framework
+
+25. Every child has, in accordance with law:-
 
 (a) the right of inheritance;
 
@@ -290,25 +278,25 @@ Housing, Land And Property Laws In Force
 
 (c) the right to sue and be sued.
 
-- In order that every child may enjoy fully the rights mentioned in this Law:-
+26. In order that every child may enjoy fully the rights mentioned in this Law:-
 
 (a) the Government departments and organizations shall perform their respective functions as far as possible;
 
 (b) voluntary social workers or non-governmental organizations also may carry out measures as far as possible, in accordance with law.
 
-- Persons having responsibility in respect of the affairs of children shall have as their objective the best interests of children under the principle 'First Call for Children' regarding protection and care of every child by the community.
+27. Persons having responsibility in respect of the affairs of children shall have as their objective the best interests of children under the principle 'First Call for Children' regarding protection and care of every child by the community.
 
 ## CHAPTER VI EXEMPTION FROM PENAL ACTION
 
-(a) Nothing is an offence which is done by a child under 7 years of age;
+28. (a) Nothing is an offence which is done by a child under 7 years of age;
 
 (b) Nothing is an offence which is done by a child above 7 years of age and under 12, who has not attained sufficient maturity of understanding to judge of the nature and consequences of his conduct on that occasion.
 
-- No action shall be taken under any Criminal Law against any child who has escaped from a training school, temporary care station or a custodian.
+29. No action shall be taken under any Criminal Law against any child who has escaped from a training school, temporary care station or a custodian.
 
 ## CHAPTER VII ETHICS AND DISCIPLINE OF A CHILD
 
-- Every child shall abide by the following ethics and discipline, according to his age:-
+30. Every child shall abide by the following ethics and discipline, according to his age:-
 
 (a) upholding and abiding by the law;
 
@@ -318,13 +306,11 @@ Housing, Land And Property Laws In Force
 
 (d) abiding by the school discipline, work discipline and community discipline;
 
-678
-
-Housing, Land and Property Rights in Burma: The Current Legal Framework
-
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+
+Housing, Land And Property Laws In Force 679
 
 (e) cherishing and preserving the race, language, religion, culture, customs and traditions concerned with him;
 
@@ -360,13 +346,11 @@ Housing, Land and Property Rights in Burma: The Current Legal Framework
 
 (i) informing the parents, guardian or police officer and causing the child to be brought before him;
 
-Housing, Land And Property Laws In Force
-
-679
-
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
+680 Housing, Land and Property Rights in Burma: The Current Legal Framework
 
 (ii) entrusting the child to the parents or guardian on execution of a bond or sending the child to a temporary care station, before receiving the decision of the Director General;
 
@@ -384,7 +368,7 @@ Housing, Land And Property Laws In Force
 
 (d) in the case of a child of unsound mind, sending the child to the Mental Hospital and making arrangements for medical treatment;
 
-(e) in the case of a child who is afflicted with a contagious disease, sending the child to the relevent hospital and making arrangements for medical treatment.
+(e) in the case of a child who is afflicted with a contagious disease, sending the child to the relevant hospital and making arrangements for medical treatment.
 
 35. The Director General may direct the relevant Social Welfare Officer:-
 
@@ -398,13 +382,11 @@ Housing, Land And Property Laws In Force
 
 (a) exercise the power mentioned in section 35 sub-section (c) at his discretion or on the submission  of  the  Principal  of  the  relevant  training  school  or  Probation  Officer  or  the parents or guardian;
 
-680
-
-Housing, Land and Property Rights in Burma: The Current Legal Framework
-
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+
+Housing, Land And Property Laws In Force 681
 
 (b) alter as may be necessary any arrangement laid down under section 34 sub-section
 
@@ -426,7 +408,7 @@ Housing, Land and Property Rights in Burma: The Current Legal Framework
 
 ## CHAPTER IX TAKING ACTION AGAINST A CHILD FOR AN OFFENCE
 
-- Police Officer or a person authorized to take cognizance shall abide the following when arresting a child accused of having committed an offence:-
+37. Police Officer or a person authorized to take cognizance shall abide the following when arresting a child accused of having committed an offence:-
 
 (a) shall not handcuff the child or tie with a rope;
 
@@ -442,13 +424,11 @@ Housing, Land and Property Rights in Burma: The Current Legal Framework
 
 (g) shall release the child on execution of a bond, if the child cannot be sent up as soon as possible to the juvenile court under sub-section (f);
 
-Housing, Land And Property Laws In Force
-
-681
-
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+
+682 Housing, Land and Property Rights in Burma: The Current Legal Framework
 
 (h) shall send the child to a temporary care station or to another appropriate place, if the child is not released on a bond under sub-section (g).
 
@@ -478,15 +458,13 @@ Housing, Land And Property Laws In Force
 
 41. The Juvenile Court shall:-
 
-(a) on receiving a juvenile ease, first and foremost scrutinize the supporting evidence in respect of the age of the child, contained in the proceedings. It shall determine whether the offender is a child or not from the birth certificate, citizenship scrutiny card, foreigners registration certificate, true copy of an extract of school admission register, doctors medical certificate or other valid supporting evidence contained in the proceedings;
-
-682
-
-Housing, Land and Property Rights in Burma: The Current Legal Framework
+(a) on receiving a juvenile case, first and foremost scrutinize the supporting evidence in respect of the age of the child, contained in the proceedings. It shall determine whether the offender is a child or not from the birth certificate, citizenship scrutiny card, foreigner's registration certificate, true copy of an extract of school admission register, doctor's medical certificate or other valid supporting evidence contained in the proceedings;
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+Housing, Land And Property Laws In Force 683
 
 (b) have jurisdiction only in respect of a child who has not attained the age of 16 years at the time of committing the offence. It shall place on record the decision that the offender is a child, before proceeding with the trial of a juvenile case;
 
@@ -510,19 +488,17 @@ Housing, Land and Property Rights in Burma: The Current Legal Framework
 
 (e) shall dispose of the case speedily.
 
-43. The Juvenile Court has the following powers in respect of the trail of juvenile cases:-
+43. The Juvenile Court has the following powers in respect of the trial of juvenile cases:-
 
 (a)  may  direct  anyone  who  is  present  at  the  place  of  trial,  including  the  child  to  leave the court at any time during the trial of the case, if it is considered to be necessary in the interests of the child. If necessary, it may cause force to be used in so directing to leave the court;
-
-Housing, Land And Property Laws In Force
-
-683
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
-(b) may continue to try the case in the absence of the child, notwithstanding the stage of inquiry of trial of the case, if it is considered that the presence in the court of the accused child is not necessary;
+684 Housing, Land and Property Rights in Burma: The Current Legal Framework
+
+(b) may continue to try the case in the absence of the child, notwithstanding the stage of inquiry or trial of the case, if it is considered that the presence in the court of the accused child is not necessary;
 
 (c) may direct the parents or guardian in whose custody and care the child is at present, to attend every day on which the sittings of the court are held;
 
@@ -546,15 +522,13 @@ Housing, Land And Property Laws In Force
 
 45. Notwithstanding anything contained in any existing law, a death sentence, transportation for life or a sentence of whipping shall not be passed on any child.
 
-46. A child shall not ordinarily be sentenced to imprisonment. Only if the Juvenile Court is  satisfied  that  the  child  has  committed  an  offence  which  is  punishable  with  death  or transportation for life under any existing law or that the child is of so unruly or depraved a character or absolutely uncontrollable, he shall not be sentenced to imprisonment. Such sentence of imprisonment shall not exceed a term of 7 years.
-
-684
-
-Housing, Land and Property Rights in Burma: The Current Legal Framework
+46. A child shall not ordinarily be sentenced to imprisonment. Only if the Juvenile Court is satisfied that the child has committed an offence which is punishable with death or transportation for life under any existing law or that the child is of so unruly or depraved a character or absolutely uncontrollable, he shall be sentenced to imprisonment. Such sentence of imprisonment shall not exceed a term of 7 years.
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
+
+Housing, Land And Property Laws In Force 685
 
 47. The Juvenile Court may pass any of the following orders in respect of a child who should not be sentenced to imprisonment:-
 
@@ -568,13 +542,13 @@ Housing, Land and Property Rights in Burma: The Current Legal Framework
 
 (c) may cause the child to submit to the supervision and management of the Probation Officer during a period not exceeding 3 years;
 
-(d) whether the offence is serious or not if the child is of a perverted but has no parents or guardian or it the child has parents or guardian but cannot be admonished and is in no circumstances for custody and care, may commit such child to the custody of any training school for a minimum term of 2 years or till he attains the age of 18 years as a maximum term.
+(d) whether the offence is serious or not if the child is of a perverted character but has no parents or guardian or if the child has parents or guardian but cannot be admonished and is in no circumstances fit for custody and care, may commit such child to the custody of any training school for a minimum term of 2 years or till he attains the age of 18 years as a maximum term.
 
 48. The Juvenile Court may:-
 
 (a) in addition to the sentence of imprisonment passed under section 46 or any order passed under section 47 also pass an order directing the parents or guardian to pay compensation for injury, loss or damage caused to any person by the act of the child;
 
-(b) if in conformity with the following conditions, pass an amending order to entrust a child who has complied with the order passed under section 47 sub-section (c) or subsection (d) for at least one year, to the custody of the parents or guardian concerned, with or without a bond:
+(b) if in conformity with the following conditions, pass an amending order to entrust a child who has complied with the order passed under section 47 sub-section (c) or sub-section (d) for at least one year, to the custody of the parents or guardian concerned, with or without a bond:
 
 (i) improvement in the moral character of the child;
 
@@ -584,13 +558,11 @@ Housing, Land and Property Rights in Burma: The Current Legal Framework
 
 (c) exercise the powers mentioned in sub-section (b) on the application of the principal of the relevant training school, Probation Officer or parents or guardian.
 
-Housing, Land And Property Laws In Force
-
-685
-
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+
+686 Housing, Land and Property Rights in Burma: The Current Legal Framework
 
 49. (a) There shall be right of appeal or right of revision in accordance with the provisions of the Code of Criminal Procedure against the order or decision passed under this Law by the juvenile Court;
 
@@ -606,7 +578,7 @@ Housing, Land And Property Laws In Force
 
 51. The Juvenile Court:-
 
-(a) may, if if believes on information or on personal knowledge that a child is in danger or that if immediate action is not taken, there is likelihood of danger befalling the child direct the Police Officer to search for the child and send him up before it and to commit the child to the custody of a temporary care station before being able to send him up;
+(a) may, if it believes on information or on personal knowledge that a child is in danger or that if immediate action is not taken, there is likelihood of danger befalling the child direct the Police Officer to search for the child and send him up before it and to commit the child to the custody of a temporary care station before being able to send him up;
 
 (b) shall protect a child sent up under sub-section (a) or under section 50 sub-section (a) in any of the following manner:
 
@@ -614,19 +586,17 @@ Housing, Land And Property Laws In Force
 
 (ii) sending the child to a temporary care station to be taken care of until he is free from danger;
 
-(c) may, if reliable information is received that child is abducted for any, unlawful purpose or  that  the  child  is  being  unlawfully  detained  direct  the  relevant  Police  Officer  to  take necessary action for restoration of liberty to such child or for entrusting the child as soon as possible to the custody of his parents or guardian.
+(c) may, if reliable information is received that a child is abducted for any unlawful purpose or that the child is being unlawfully detained direct the relevant Police Officer to take necessary action for restoration of liberty to such child or for entrusting the child as soon as possible to the custody of his parents or guardian.
 
 ## CHAPTER XII CUSTODY AND CARE OF CHILDREN AND YOUTHS IN PRISONS
 
-- The Officer in charge of a prison shall, in respect of a child or youth who has been sentenced to imprisonment:-
-
-686
-
-Housing, Land and Property Rights in Burma: The Current Legal Framework
+52. The Officer in charge of a prison shall, in respect of a child or youth who has been sentenced to imprisonment:-
 
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
+
+Housing, Land And Property Laws In Force 687
 
 (a) not keep him together with adult prisoners until he attains the age of 18 years;
 
@@ -642,9 +612,9 @@ Housing, Land and Property Rights in Burma: The Current Legal Framework
 
 (g) grant him the right to enjoy remission period in accordance with the existing regulations and bye-laws.
 
-- The Officer in charge of a prison:-
+53. The Officer in charge of a prison:-
 
-(a) shall allow the child of a female prisoner to stay together with his mother so in prison till he attains the age of 4 years if there no one outside to take custody and care of him or if his mother desires;
+(a) shall allow the child of a female prisoner to stay together with his mother in prison till he attains the age of 4 years if there is no one outside to take custody and care of him or if his mother desires;
 
 (b) may allow the child mentioned in sub-section (a) to continue to stay together with his mother in prison till he attains the age of 6 years if his mother so desires;
 
@@ -652,33 +622,31 @@ Housing, Land and Property Rights in Burma: The Current Legal Framework
 
 (d) shall inform the Director General of the Social Welfare Department as soon as possible, in order to make arrangements for the care and custody of any child left after a female prisoner dies in prison or if the child staying together with the female prisoner attains the age of 6 years.
 
-- The Director General of the Social Welfare Department may commit a child mentioned in section 53 sub-section (d) to the custody of relatives who will take custody and care of him or if there are no such relatives he may be entrusted to an appropriate training school or to a custodian.
+54. The Director General of the Social Welfare Department may commit a child mentioned in section 53 sub-section (d) to the custody of relatives who will take custody and care of him or if there are no such relatives he may be entrusted to an appropriate training school or to a custodian.
 
 ## CHAPTER XIII TRAINING SCHOOL, TEMPORARY CARE STATION, HOME, RESIDENTIAL NURSERY
 
-- The Director General shall establish the following with the approval of the Minister:-
-
-Housing, Land And Property Laws In Force
-
-687
+55. The Director General shall establish the following with the approval of the Minister:-
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
 
+688 Housing, Land and Property Rights in Burma: The Current Legal Framework
+
 (a) training schools required for the custody and care of a child in need of protection and care or a child who has committed an offence, who is entrusted under this Law;
 
 (b) temporary care stations required for the temporary custody and care during the period of trial of a child who is accused of having committed an offence.
 
-- If the Director General believes that a home established by a voluntary social worker or a non-governmental organization with the intention of taking custody and care of a child in need of protection and care:-
+56. If the Director General believes that a home established by a voluntary social worker or a non-governmental organization with the intention of taking custody and care of a child in need of protection and care:-
 
 (a) is appropriate for the custody and care of children sent under this Law, such home may be recognized as being a training school for the purpose of this Law;
 
 (b) is appropriate for the temporary custody and care during the trial of a child who is accused of having committed an offence, such home may be recognized as being a temporary care station for the purpose of this Law.
 
-- The  Director  General  may  establish  local  residential  nurseries  required  and  care  of children who have not attained the age of 5 year.
+57. The Director General may establish local residential nurseries required for the custody and care of children who have not attained the age of 5 years.
 
-- The Director General may exercise the following powers:-
+58. The Director General may exercise the following powers:-
 
 (a) supervising, inspecting, giving guidance, rendering expertise and giving support as may be necessary to day nurseries and pre-primary schools established on self-help system;
 
@@ -694,19 +662,17 @@ Housing, Land And Property Laws In Force
 
 (a) may, at any time, pass an order to release either absolutely or subject to conditions a child committed to the custody of a training school or a custodian under this Law;
 
-688
-
-Housing, Land and Property Rights in Burma: The Current Legal Framework
-
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
 
+Housing, Land And Property Laws In Force 689
+
 (b) may pass an order to transfer a child undergoing imprisonment to a training school or to a custodian till the day he attains the age of 18 years, if it is considered beneficial for the child;
 
-(c) may pass an order so that the remainder of the term of imprisonment of a child who has been transferred under sub­ section (b) and who is behaving well shall not have effect;
+(c) may pass an order so that the remainder of the term of imprisonment of a child who has been transferred under sub-section (b) and who is behaving well shall not have effect;
 
-(d) may cause to have effect the remainder of the term of imprisonment of a child who has been transferred under sub­ section (b) and who does not behave well. In so causing to have effect, the period of stay of the child at the training school or with the custodian shall be reckoned as the term of imprisonment undergone.
+(d) may cause to have effect the remainder of the term of imprisonment of a child who has been transferred under sub-section (b) and who does not behave well. In so causing to have effect, the period of stay of the child at the training school or with the custodian shall be reckoned as the term of imprisonment undergone.
 
 60. The Minister:
 
@@ -730,13 +696,11 @@ Housing, Land and Property Rights in Burma: The Current Legal Framework
 
 (e) arresting the child without a warrant and handing him over to a police officer, if a child who has escaped from a training school, home, temporary care station or a custodian is found;
 
-Housing, Land And Property Laws In Force
-
-689
-
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
+
+690 Housing, Land and Property Rights in Burma: The Current Legal Framework
 
 (f) co-ordinating and co-operating with the parents or guardians concerned, local elders and persons from social organizations for the benefit of children;
 
@@ -762,27 +726,25 @@ Housing, Land And Property Laws In Force
 
 65.  Whoever commits any of the following acts shall,  on  conviction  be  punished  with imprisonment for a term which may extend to 6 months or with fine which may extend to kyats 1000 or with both:-
 
-(a) employing a permitting a child to perform work which is hazardous to the life of the child  or  which  may cause disease to the child or which is harmful to the child's moral character;
+(a) employing or permitting a child to perform work which is hazardous to the life of the child or which may cause disease to the child or which is harmful to the child's moral character;
 
 (b) taking a child to or allowing him to enter a place where only alcohol is sold, sending the child to buy alcohol, selling alcohol to the child, permitting the child to take alcohol, employing or permitting the child to work in the business which trades in alcohol;
-
-690
-
-Housing, Land and Property Rights in Burma: The Current Legal Framework
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
 
+Housing, Land And Property Laws In Force 691
+
 (c) urging, inducing or abetting the child to gamble;
 
 (d) accepting as pledge any property from the child or abetting the child in any manner to pledge property;
 
-(e) purchasing any property sold by a child, with the exception of purchasing property from a child who earns a livehood by selling;
+(e) purchasing any property sold by a child, with the exception of purchasing property from a child who earns a livelihood by selling;
 
 (f)  inducing  a  child  to  escape  from  a  training  school,  home,  temporary  care  station  or custodian;  abetting  the  run  away;  harbouring,  concealing  or  preventing  the  child  from going back to the original place, knowing that the child has escaped.
 
-- Whoever commits any of the following acts shall,  on  conviction  be  punished  with imprisonment for a term which may extend to 2 years or with fine which may extend to kyats 10,000 or with both:-
+66. Whoever commits any of the following acts shall, on conviction be punished with imprisonment for a term which may extend to 2 years or with fine which may extend to kyats 10,000 or with both:-
 
 (a) neglecting knowingly that a girl under his guardianship, who has not attained the age of 16 is earning a livelihood by prostitution;
 
@@ -798,19 +760,17 @@ Housing, Land and Property Rights in Burma: The Current Legal Framework
 
 ## CHAPTER XVIII YOUTH WHO HAS COMMITTED AN OFFENCE
 
-67. A youth, who at the time of committing the offence has attained the age of 16 years, but has not attained the age of 18 years shall be sent tap for prosecution to the Court which has jurisdiction, in respect of the offence. In sending up for prosecution such case of the youth, it shall be accompanied by supporting evidence in respect of the age of the youth.
-
-Housing, Land And Property Laws In Force
-
-691
+67. A youth, who at the time of committing the offence has attained the age of 16 years, but has not attained the age of 18 years shall be sent up for prosecution to the Court which has jurisdiction, in respect of the offence. In sending up for prosecution such case of the youth, it shall be accompanied by supporting evidence in respect of the age of the youth.
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
 
-- The relevant Court shall, before commencement of the trial of the offence with which a youth is charged decide whether or not the accused is a youth from the birth certificate, Citizenship  Scrutiny  Card,  Foreigner's  Registration  Certificate,  true  copy  of  an  extract of the admission register, Doctor's medical certificate or other valid supporting evidence included in the proceedings and record such decision.
+692 Housing, Land and Property Rights in Burma: The Current Legal Framework
 
-- Notwithstanding that the youth has attained the age of 18 years on the day of passing of the sentence, the Court shall deem as if such person were a youth and pass order accordingly.
+68. The relevant Court shall, before commencement of the trial of the offence with which a youth is charged decide whether or not the accused is a youth from the birth certificate, Citizenship Scrutiny Card, Foreigner's Registration Certificate, true copy of an extract of the admission register, Doctor's medical certificate or other valid supporting evidence included in the proceedings and record such decision.
+
+69. Notwithstanding that the youth has attained the age of 18 years on the day of passing of the sentence, the Court shall deem as if such person were a youth and pass order accordingly.
 
 70. The Court shall take into consideration the following before passing an order on the youth who is found guilty of the offence:-
 
@@ -822,7 +782,7 @@ Housing, Land And Property Laws In Force
 
 (d) the cause of committing the offence.
 
-- Notwithstanding anything contained in any existing Law:-
+71. Notwithstanding anything contained in any existing Law:-
 
 (a) a sentence of death or transportation for life shall not be passed on the youth;
 
@@ -840,13 +800,11 @@ Housing, Land And Property Laws In Force
 
 (c) the notifications and directives issued may be applied in so far as they are not inconsistent with the provisions of this Law.
 
-692
-
-Housing, Land and Property Rights in Burma: The Current Legal Framework
-
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
+
+Housing, Land And Property Laws In Force 693
 
 74. For the purpose of carrying out the provisions of this Law:-
 
@@ -854,14 +812,12 @@ Housing, Land and Property Rights in Burma: The Current Legal Framework
 
 (b)  the  National  Committee  relating  to  the  Rights  of  the  Child,  the  Supreme  Court, relevant Ministry, Government department or Government organizations may issue such orders and directives as may be necessary.
 
-- The following laws are hereby repealed:
+75. The following laws are hereby repealed:
 
 (a) The Young Offenders Act, 1930;
 
 (b) The Children Act, 1955.
 
-Housing, Land And Property Laws In Force
 
-693
 
 [[END OF PAGE 23]]
