@@ -1,7 +1,7 @@
 [[START OF PAGE 1]]
 
 # Ley 89
-(Publicada en La Gaceta Nº 77 del 20-IV -90)
+(Publicada en La Gaceta Nº 77 del 20-IV –90)
 
 El Presidente de la República de Nicaragua
 Hace saber al pueblo nicaragüense que:
@@ -34,6 +34,8 @@ Que es obligación del gobierno impulsar el desarrollo científico, tecnológico
 
 En uso de sus facultades,
 
+Ha Dictado
+
 La siguiente:
 
 # LEY DE AUTONOMÍA DE LAS INSTITUCIONES DE EDUCACIÓN SUPERIOR
@@ -58,9 +60,7 @@ Las instituciones de Educación Superior son: las Universidades Estatales y Priv
 
 - 1.1  Universidad  Nacional  Autónoma  de  Nicaragua,  León  (UNAN-León).
 
-- 1.2 Universidad Nacional Autónoma de Nicaragua,  Managua  (UNANManagua)
-
-Ha Dictado
+- 1.2 Universidad Nacional Autónoma de Nicaragua,  Managua  (UNAN-Managua)
 
 [[END OF PAGE 2]]
 
@@ -85,23 +85,23 @@ Ha Dictado
 #### Arto. 6.
 Son fines y objetivos de las instituciones de Educación Superior nicaragüense:
 
-- Contribuir a la formación científica, técnica, cultural y patriótica de los estudiantes.
+- 8. Contribuir a la formación científica, técnica, cultural y patriótica de los estudiantes.
 
-- Impulsar la superación científica, técnica, cultural y pedagógica del personal docente y la capacitación del personal administrativo.
+- 9. Impulsar la superación científica, técnica, cultural y pedagógica del personal docente y la capacitación del personal administrativo.
 
-- Vincular la formación de los estudiantes al proceso productivo y a las necesidades objetivas del desarrollo económico, en función de los intereses populares.
+- 10. Vincular la formación de los estudiantes al proceso productivo y a las necesidades objetivas del desarrollo económico, en función de los intereses populares.
 
-- Fomentar y desarrollar la investigación científica para contribuir a la transformación de la sociedad y mejoramiento y adaptación de nuevas tecnologías.
+- 11. Fomentar y desarrollar la investigación científica para contribuir a la transformación de la sociedad y mejoramiento y adaptación de nuevas tecnologías.
 
-- Propiciar la capacidad crítica y autocrítica, cultivando en el estudiante la disciplina, la creatividad, el espíritu de cooperación y la eficiencia, dotándolo de sólidos principios morales, cívicos y humanísticos.
+- 12. Propiciar la capacidad crítica y autocrítica, cultivando en el estudiante la disciplina, la creatividad, el espíritu de cooperación y la eficiencia, dotándolo de sólidos principios morales, cívicos y humanísticos.
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-- Organizar la Proyección Social, la Difusión Cultural y la Extensión Universitaria en beneficio del pueblo.
+- 13. Organizar la Proyección Social, la Difusión Cultural y la Extensión Universitaria en beneficio del pueblo.
 
-- Difundir el legado de las figuras patrióticas, culturales y científicas, de los héroes y mártires y de los forjadores de la Nación.
+- 14. Difundir el legado de las figuras patrióticas, culturales y científicas, de los héroes y mártires y de los forjadores de la Nación.
 
 ### Capítulo II Constitución y Régimen de las Instituciones de Educación Superior
 
@@ -111,32 +111,32 @@ Las Universidades y Centros de Educación Técnica Superior legalmente constitui
 #### Arto.  8.
 Las  Universidades  y  Centros  de  Educación  Técnica  Superior  del  país gozarán de autonomía académica, financiera, orgánica y administrativa, entendidas de la siguiente manera:
 
-- Autonomía docente o académica: implica que pueden por sí mismas nombrar y remover a su personal docente y académico, por medio de los procedimientos y requisitos que ellas mismas señalen; seleccionar a sus alumnos, mediante las pruebas y condiciones necesarias; elaborar y aprobar sus planes y programas de estudios y de investigación, etc.
+- 5. Autonomía docente o académica: implica que pueden por sí mismas nombrar y remover a su personal docente y académico, por medio de los procedimientos y requisitos que ellas mismas señalen; seleccionar a sus alumnos, mediante las pruebas y condiciones necesarias; elaborar y aprobar sus planes y programas de estudios y de investigación, etc.
 
-- Autonomía orgánica: implica que proceden libremente a integrar sus distintos órganos de gobierno y a elegir sus autoridades.
+- 6. Autonomía orgánica: implica que proceden libremente a integrar sus distintos órganos de gobierno y a elegir sus autoridades.
 
-- Autonomía administrativa: implica disponer en todo cuanto se refiere a la gestión administrativa y al nombramiento del personal administrativo correspondiente.
+- 7. Autonomía administrativa: implica disponer en todo cuanto se refiere a la gestión administrativa y al nombramiento del personal administrativo correspondiente.
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-- Autonomía financiera o económica: implica la elaboración del presupuesto interno y la gestión financiera, sin perjuicio de la rendición de cuentas y fiscalización, a posterior, por la Contraloría General de la República.
+- 8. Autonomía financiera o económica: implica la elaboración del presupuesto interno y la gestión financiera, sin perjuicio de la rendición de cuentas y fiscalización, a posterior, por la Contraloría General de la República.
 
 #### Arto. 9.
 La Autonomía confiere, además, la potestad de:
 
-- Gozar de patrimonio propio.
+- 1. Gozar de patrimonio propio.
 
-- Expedir certificados  de  estudio;  cartas  de  egresados;  constancias,  diplomas, títulos  y  grados  académicos  y  equivalencias  de  estudios  del  mismo  nivel realizados en otras Universidades y Centros de Educación Superior, nacionales o extranjeros.
+- 2. Expedir certificados  de  estudio;  cartas  de  egresados;  constancias,  diplomas, títulos  y  grados  académicos  y  equivalencias  de  estudios  del  mismo  nivel realizados en otras Universidades y Centros de Educación Superior, nacionales o extranjeros.
 
 Las  Universidades  Estatales  tendrán  la  facultad  de  reconocer  los  grados académicos y los títulos y diplomas universitarios otorgados en el extranjero.
 
-- Autorizar el ejercicio profesional, excepto la abogacía y el notariado, que por Ley compete a la Corte Suprema de Justicia.
+- 3. Autorizar el ejercicio profesional, excepto la abogacía y el notariado, que por Ley compete a la Corte Suprema de Justicia.
 
-- La inviolabilidad de los recintos y locales universitarios. La fuerza pública sólo podrá entrar en ellos con autorización escrita de la autoridad universitaria competente.
+- 4. La inviolabilidad de los recintos y locales universitarios. La fuerza pública sólo podrá entrar en ellos con autorización escrita de la autoridad universitaria competente.
 
-- Aprobar sus propios Estatutos y Reglamentos.
+- 5. Aprobar sus propios Estatutos y Reglamentos.
 
 #### Arto.  10.
 Las  Universidades  y  Centros  de  Educación  Técnica  Superior  podrán mantener y promover relaciones con entidades académicas, científicas y culturales con sede dentro o fuera del país.
@@ -160,15 +160,15 @@ Las Universidades estarán constituidas por facultades, escuelas, departamentos 
 
 Sus órganos de gobierno son:
 
-- El Consejo Universitario
+- 1. El Consejo Universitario
 
-- El Rector
+- 2. El Rector
 
-- El Consejo de Facultad
+- 3. El Consejo de Facultad
 
-- El Decano de Facultad
+- 4. El Decano de Facultad
 
-- El Consejo de Dirección de Escuela y el Director de Escuela, donde los hubiese.
+- 5. El Consejo de Dirección de Escuela y el Director de Escuela, donde los hubiese.
 
 #### Arto. 14.
 Los Centros de Educación Técnica Superior se organizarán y gobernarán según lo que señalen sus leyes constitutivas, estatutos y reglamentos.
@@ -185,39 +185,39 @@ El  Consejo  Universitario  es  el  máximo  órgano  de  gobierno  de  la Unive
 #### Arto.  16.
 Corresponden  al  Consejo  Universitario  las  siguientes  atribuciones:
 
-- Dictar sus propios reglamentos  internos y aprobar  los Estatutos y los diferentes reglamentos.
+- 1. Dictar sus propios reglamentos  internos y aprobar  los Estatutos y los diferentes reglamentos.
 
-- Aprobar las disposiciones destinadas a la mejor organización y funcionamiento técnico, docente y administrativo de la institución.
+- 2. Aprobar las disposiciones destinadas a la mejor organización y funcionamiento técnico, docente y administrativo de la institución.
 
-- Nombrar, a propuesta del Rector, los Vice-Rectores y el Secretario General de la Universidad.
+- 3. Nombrar, a propuesta del Rector, los Vice-Rectores y el Secretario General de la Universidad.
 
-- Aprobar el Presupuesto General de gastos e ingresos de la Universidad y los planes prospectivos de la institución y las facultades.
+- 4. Aprobar el Presupuesto General de gastos e ingresos de la Universidad y los planes prospectivos de la institución y las facultades.
 
-- Aprobar la creación, modificación o supresión de carreras, previo dictamen del Consejo Nacional de Universidades.
+- 5. Aprobar la creación, modificación o supresión de carreras, previo dictamen del Consejo Nacional de Universidades.
 
-- Aprobar los planes de estudio, a propuesta del Consejo de Facultad.
+- 6. Aprobar los planes de estudio, a propuesta del Consejo de Facultad.
 
-- Aprobar  los  nombramientos  y  remociones  de  la  categoría  principal  del personal docente, a propuesta de los consejos de facultad, correspondiendo al Rector, formalizar los respectivos acuerdos de nombramiento.
+- 7. Aprobar  los  nombramientos  y  remociones  de  la  categoría  principal  del personal docente, a propuesta de los consejos de facultad, correspondiendo al Rector, formalizar los respectivos acuerdos de nombramiento.
 
-- Normar y garantizar las elecciones universitarias de conformidad con esta Ley.
+- 8. Normar y garantizar las elecciones universitarias de conformidad con esta Ley.
 
-- Conceder,  a  propuesta  del  Rector,  los  títulos  honoríficos  y  distinciones especiales  a  las  personas  que  por  su  labor  cultural,  científica,  académica  o social, se hagan merecedoras de tales honores.
+- 9. Conceder,  a  propuesta  del  Rector,  los  títulos  honoríficos  y  distinciones especiales  a  las  personas  que  por  su  labor  cultural,  científica,  académica  o social, se hagan merecedoras de tales honores.
 
-- Prevenir y resolver los conflictos que  se susciten entre los diferentes organismos universitarios  y  constituirse  en  tribunal  de  última  instancia  sobre asuntos que hubiere conocido el Consejo de Facultad.
+- 10. Prevenir y resolver los conflictos que  se susciten entre los diferentes organismos universitarios  y  constituirse  en  tribunal  de  última  instancia  sobre asuntos que hubiere conocido el Consejo de Facultad.
 
-- Conocer  de  cualquier  asunto  que  no  sea  de  la  competencia  de  alguna  otra autoridad universitaria.
+- 11. Conocer  de  cualquier  asunto  que  no  sea  de  la  competencia  de  alguna  otra autoridad universitaria.
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-- Formular  y  evaluar  periódicamente  las  políticas  y  objetivos  de  la  institución, teniendo en cuenta los planes y programas de la Universidad.
+- 12. Formular  y  evaluar  periódicamente  las  políticas  y  objetivos  de  la  institución, teniendo en cuenta los planes y programas de la Universidad.
 
-- Aprobar el calendario académico anual y las políticas de ingreso.
+- 13. Aprobar el calendario académico anual y las políticas de ingreso.
 
-- Aprobar todo tipo de aranceles.
+- 14. Aprobar todo tipo de aranceles.
 
-- Conocer  las  recomendaciones  de  la  Asamblea  General  Universitaria  y  del Consejo Nacional de Universidades.
+- 15. Conocer  las  recomendaciones  de  la  Asamblea  General  Universitaria  y  del Consejo Nacional de Universidades.
 
 ### Capítulo III Del Rector
 
@@ -234,15 +234,15 @@ Habrá  un  Vice-Rector  General,  que  deberá  ser  electo  y  podrán  haber 
 #### Arto. 19.
 Para ser Rector en las Universidades Estatales se requiere:
 
-- Ser nicaragüense.
+- 1. Ser nicaragüense.
 
-- Estar en pleno goce de sus derechos civiles y políticos.
+- 2. Estar en pleno goce de sus derechos civiles y políticos.
 
-- Haber cumplido 30 años de edad.
+- 3. Haber cumplido 30 años de edad.
 
-- Poseer título universitario.
+- 4. Poseer título universitario.
 
-- Haber sido profesor universitario al menos durante diez años, o ser profesional con notable prestigio científico-cultural.
+- 5. Haber sido profesor universitario al menos durante diez años, o ser profesional con notable prestigio científico-cultural.
 
 [[END OF PAGE 8]]
 
@@ -254,37 +254,37 @@ Los  consejos  de  facultad  de  las  diversas  facultades  conformarán  el Col
 #### Arto. 21.
 Son atribuciones del Rector las siguientes:
 
-- Cumplir y hacer cumplir la Ley, los estatutos y reglamentos vigentes.
+- 1. Cumplir y hacer cumplir la Ley, los estatutos y reglamentos vigentes.
 
-- Suscribir  los  contratos,  realizar  las  actividades  y  dar  curso  a  los  actos  que sean  necesarios  para  el  cumplimiento  de  los  objetivos  de  la  universidad.
+- 2. Suscribir  los  contratos,  realizar  las  actividades  y  dar  curso  a  los  actos  que sean  necesarios  para  el  cumplimiento  de  los  objetivos  de  la  universidad.
 
-- Convocar  y  presidir  el  Consejo  Universitario,  ejecutando  los  acuerdos  y decisiones de éste.
+- 3. Convocar  y  presidir  el  Consejo  Universitario,  ejecutando  los  acuerdos  y decisiones de éste.
 
-- Autorizar la expedición de los diplomas y títulos universitarios.
+- 4. Autorizar la expedición de los diplomas y títulos universitarios.
 
-- Proponer el nombramiento de los Vice-Rectores y del Secretario General de la Universidad, al Consejo Universitario.
+- 5. Proponer el nombramiento de los Vice-Rectores y del Secretario General de la Universidad, al Consejo Universitario.
 
-- Informar  anualmente  de  las  evaluaciones  académicas  y  de  las  actividades universitarias, a la Asamblea General Universitaria.
+- 6. Informar  anualmente  de  las  evaluaciones  académicas  y  de  las  actividades universitarias, a la Asamblea General Universitaria.
 
-- Velar por la buena marcha y prestigio de la Universidad.
+- 7. Velar por la buena marcha y prestigio de la Universidad.
 
-- Recibir la promesa de Ley de los funcionarios.
+- 8. Recibir la promesa de Ley de los funcionarios.
 
-- Aceptar  o  repudiar  las  herencias,  legados  y  donaciones  que  se  hagan  a  la Universidad  y  autorizar  la  adquisición,  enajenación  y  gravamen  de  bienes propiedad  de  la  misma,  así  como  la  celebración  de  contratos  de  cualquier índole, sujeto a ratificación del Consejo Universitario.
+- 9. Aceptar  o  repudiar  las  herencias,  legados  y  donaciones  que  se  hagan  a  la Universidad  y  autorizar  la  adquisición,  enajenación  y  gravamen  de  bienes propiedad  de  la  misma,  así  como  la  celebración  de  contratos  de  cualquier índole, sujeto a ratificación del Consejo Universitario.
 
-- Designar  las  personas  que  deben  actuar  como  delegados  de  la  Universidad ante otros organismos e instituciones.
+- 10. Designar  las  personas  que  deben  actuar  como  delegados  de  la  Universidad ante otros organismos e instituciones.
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
-- Proponer  al  Consejo  Universitario,  el  proyecto  de  Presupuesto  General  que regirá para la Universidad.
+- 11. Proponer  al  Consejo  Universitario,  el  proyecto  de  Presupuesto  General  que regirá para la Universidad.
 
-- Proponer al Consejo Universitario, los planes prospectivos de desarrollo de la Universidad y de las facultades, velando  por su actualización y seguimiento.
+- 12. Proponer al Consejo Universitario, los planes prospectivos de desarrollo de la Universidad y de las facultades, velando  por su actualización y seguimiento.
 
-- Nombrar al personal administrativo, así como revocar o modificar el nombramiento.
+- 13. Nombrar al personal administrativo, así como revocar o modificar el nombramiento.
 
-- Las  demás  que  le  señalan  las  disposiciones  vigentes  y  las  que  no  estén expresamente atribuidas a otra autoridad.
+- 14. Las  demás  que  le  señalan  las  disposiciones  vigentes  y  las  que  no  estén expresamente atribuidas a otra autoridad.
 
 ### Capítulo IV Del Vice-Rector General
 
@@ -316,34 +316,34 @@ El  Secretario  General  de  la  Universidad  será  también  Secretario  del C
 #### Arto. 27.
 Los requisitos para ser nombrado Secretario General son:
 
-- Ser nicaragüense.
+- 1. Ser nicaragüense.
 
-- Poseer título universitario.
+- 2. Poseer título universitario.
 
-- Ser profesor titular o asistente.
+- 3. Ser profesor titular o asistente.
 
 #### Arto. 28.
 Son atribuciones del Secretario General las siguientes:
 
-- Convocar y asistir  a  las  reuniones  del  Consejo  Universitario  con  voz  y  voto, autorizando las actas respectivas.
+- 1. Convocar y asistir  a  las  reuniones  del  Consejo  Universitario  con  voz  y  voto, autorizando las actas respectivas.
 
-- Ser el órgano oficial de comunicación de la Universidad.
+- 2. Ser el órgano oficial de comunicación de la Universidad.
 
-- Expedir y certificar los documentos solicitados a la Universidad.
+- 3. Expedir y certificar los documentos solicitados a la Universidad.
 
-- Ejercer  la  custodia  del  archivo  general  de  la  Universidad  y  los  sellos  de  la misma.
+- 4. Ejercer  la  custodia  del  archivo  general  de  la  Universidad  y  los  sellos  de  la misma.
 
-- Dirigir y coordinar el funcionamiento del Registro Académico y Estudiantil.
+- 5. Dirigir y coordinar el funcionamiento del Registro Académico y Estudiantil.
 
-- Refrendar la firma del Rector en los títulos, diplomas y resoluciones expedidos por la Universidad.
+- 6. Refrendar la firma del Rector en los títulos, diplomas y resoluciones expedidos por la Universidad.
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
-- Coordinar y supervisar los servicios de Secretaría de las diferentes facultades.
+- 7. Coordinar y supervisar los servicios de Secretaría de las diferentes facultades.
 
-- Cumplir con las funciones que le sean asignadas por el Rector y las que le señale la Ley, estatutos y reglamentos.
+- 8. Cumplir con las funciones que le sean asignadas por el Rector y las que le señale la Ley, estatutos y reglamentos.
 
 ### Capítulo VI De la Asamblea General Universitaria
 
@@ -366,19 +366,19 @@ En  las  Universidades  donde  no  hay  directores  de  escuelas,  la  represent
 #### Arto. 31.
 Son atribuciones del Consejo de Facultad las siguientes:
 
-- Velar por el funcionamiento de la Facultad y por el cumplimiento cabal de todos sus fines.
+- 1. Velar por el funcionamiento de la Facultad y por el cumplimiento cabal de todos sus fines.
 
-- Elaborar los proyectos de reglamentos internos, los planes y programas de estudio.
+- 2. Elaborar los proyectos de reglamentos internos, los planes y programas de estudio.
 
-- Conocer y dictaminar sobre el anteproyecto de presupuesto anual de la Facultad que aprobará el Consejo Universitario.
+- 3. Conocer y dictaminar sobre el anteproyecto de presupuesto anual de la Facultad que aprobará el Consejo Universitario.
 
-- Proponer el nombramiento del personal docente de la Facultad.
+- 4. Proponer el nombramiento del personal docente de la Facultad.
 
-- Elaborar los planes prospectivos de desarrollo de la Facultad.
+- 5. Elaborar los planes prospectivos de desarrollo de la Facultad.
 
-- Conocer las recomendaciones de la Asamblea General de Facultad.
+- 6. Conocer las recomendaciones de la Asamblea General de Facultad.
 
-- Las demás que les señalen los estatutos y reglamentos.
+- 7. Las demás que les señalen los estatutos y reglamentos.
 
 ### Capítulo VIII De los Decanos
 
@@ -397,21 +397,21 @@ Los Decanos de las Universidades Estatales serán electos mediante el sufragio y
 #### Arto. 34.
 Son atribuciones del Decano las siguientes:
 
-- Dirigir  el  desarrollo  de  los  asuntos  académicos,  científicos  y  de  proyección social de su Facultad.
+- 1. Dirigir  el  desarrollo  de  los  asuntos  académicos,  científicos  y  de  proyección social de su Facultad.
 
-- Convocar  y  presidir  al  Consejo  de  la  Facultad  y  representar  a  ésta  en  el Consejo Universitario.
+- 2. Convocar  y  presidir  al  Consejo  de  la  Facultad  y  representar  a  ésta  en  el Consejo Universitario.
 
-- Someter a la consideración del Consejo Universitario, los acuerdos y medidas adoptadas por el Consejo de Facultad que lo ameritan.
+- 3. Someter a la consideración del Consejo Universitario, los acuerdos y medidas adoptadas por el Consejo de Facultad que lo ameritan.
 
-- Proponer al Consejo de Facultad, el nombramiento, cancelación o modificación  del  nombramiento  del  personal  docente  y  al  Rector,  el  del personal administrativo de su Facultad.
+- 4. Proponer al Consejo de Facultad, el nombramiento, cancelación o modificación  del  nombramiento  del  personal  docente  y  al  Rector,  el  del personal administrativo de su Facultad.
 
-- Informar anualmente a todos los miembros de la Facultad, de la evaluación y funcionamiento de la misma.
+- 5. Informar anualmente a todos los miembros de la Facultad, de la evaluación y funcionamiento de la misma.
 
-- Cumplir  y  hacer  cumplir  las  resoluciones  del  Consejo  Universitario  y  del Consejo de su respectiva Facultad.
+- 6. Cumplir  y  hacer  cumplir  las  resoluciones  del  Consejo  Universitario  y  del Consejo de su respectiva Facultad.
 
-- Procurar el desarrollo de las actividades de proyección social de su respectiva Facultad.
+- 7. Procurar el desarrollo de las actividades de proyección social de su respectiva Facultad.
 
-- Las demás que los estatutos y reglamentos señalen.
+- 8. Las demás que los estatutos y reglamentos señalen.
 
 ### Capítulo IX De los Vice-Decanos y Secretarios de Facultad
 
@@ -468,12 +468,13 @@ La organización y funcionamiento de los departamentos docentes y de las  escuel
 Los  Centros de Educación Técnica Superior son los encargados de la formación de los técnicos que el país requiere para su reconstrucción, desarrollo y fortalecimiento económico-social, se regirán por sus estatutos y reglamentos.
 
 ### Capítulo III De los Centros Regionales
-#### Arto. 45.
-Podrán existir centros regionales dependientes de las Universidades, en ciudades y zonas geográficas donde no existan centros de Educación Superior. Su estructura y funcionamiento serán determinados por el Consejo Universitario. Se dará prioridad a las regiones autónomas de la Costa Atlántica.
 
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
+
+#### Arto. 45.
+Podrán existir centros regionales dependientes de las Universidades, en ciudades y zonas geográficas donde no existan centros de Educación Superior. Su estructura y funcionamiento serán determinados por el Consejo Universitario. Se dará prioridad a las regiones autónomas de la Costa Atlántica.
 
 ### Capítulo IV De los Institutos o Centros de Investigación
 
@@ -602,13 +603,13 @@ Los  estatutos  y  reglamentos  determinarán  los  requisitos  y  condiciones p
 #### Arto.  55.
 El  patrimonio  de  las  Universidades  y  Centros  de  Educación  Técnico Superior  estará  constituido  por  los  bienes  y  recursos  que  a  continuación  se enumeran:
 
-- El aporte ordinario y extraordinario del Estado. El aporte ordinario no podrá ser menor del 6% del Presupuesto General de Ingresos de la República, como garantía mínima para hacer efectiva la Autonomía Universitaria.
+- 1. El aporte ordinario y extraordinario del Estado. El aporte ordinario no podrá ser menor del 6% del Presupuesto General de Ingresos de la República, como garantía mínima para hacer efectiva la Autonomía Universitaria.
 
-- Los  bienes  muebles  e  inmuebles  que  les  pertenezcan,  los  ingresos  que ellos  mismos reciban por concepto de matrícula, pensiones, derechos de grado, utilización de laboratorio, prestaciones de servicios, frutos o productos de sus bienes, las adquisiciones que a cualquier título hicieran y los aportes extraordinarios, donaciones, herencias, legados y subvenciones que reciban.
+- 2. Los  bienes  muebles  e  inmuebles  que  les  pertenezcan,  los  ingresos  que ellos  mismos reciban por concepto de matrícula, pensiones, derechos de grado, utilización de laboratorio, prestaciones de servicios, frutos o productos de sus bienes, las adquisiciones que a cualquier título hicieran y los aportes extraordinarios, donaciones, herencias, legados y subvenciones que reciban.
 
-- Lo  correspondiente  a  los  centros  regionales  o  centros  de  investigación adscritos a las Universidades en el Artículo 48 de esta Ley.
+- 3. Lo  correspondiente  a  los  centros  regionales  o  centros  de  investigación adscritos a las Universidades en el Artículo 48 de esta Ley.
 
-- Los demás bienes que adquieren de conformidad con la Ley.
+- 4. Los demás bienes que adquieren de conformidad con la Ley.
 
 [[END OF PAGE 20]]
 
@@ -630,61 +631,61 @@ El Presidente será uno de los Rectores, electo por el Consejo para un período 
 #### Arto.  58.
 Las  atribuciones  del  Consejo  Nacional  de  Universidades  serán  las siguientes:
 
-- Establecer su propio reglamento de funcionamiento.
+- 1. Establecer su propio reglamento de funcionamiento.
 
-- Velar  por  que  las  Universidades  y  Centros  de  Educación  Técnica  Superior respondan  a  la  formación  de  profesionales,  cumpliendo  con  los  fines  y objetivos de las instituciones de Educación Superior nicaragüenses y respetando los principios de la Nueva Educación, establecidos en la Constitución Política de la República.
+- 2. Velar  por  que  las  Universidades  y  Centros  de  Educación  Técnica  Superior respondan  a  la  formación  de  profesionales,  cumpliendo  con  los  fines  y objetivos de las instituciones de Educación Superior nicaragüenses y respetando los principios de la Nueva Educación, establecidos en la Constitución Política de la República.
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
 
-- Elaborar y coordinar la política nacional de la Educación Superior del país, en función de los recursos existentes.
+- 3. Elaborar y coordinar la política nacional de la Educación Superior del país, en función de los recursos existentes.
 
-- Dictaminar sobre la apertura o cierre de carreras.
+- 4. Dictaminar sobre la apertura o cierre de carreras.
 
-- Proponer la política de distribución de los fondos asignados a las Universidades o instituciones de Educación Técnica Superior, atendiendo a la población estudiantil y los costos de operación.
+- 5. Proponer la política de distribución de los fondos asignados a las Universidades o instituciones de Educación Técnica Superior, atendiendo a la población estudiantil y los costos de operación.
 
-- Recomendar normas generales para la vida académica de las instituciones de Educación Superior.
+- 6. Recomendar normas generales para la vida académica de las instituciones de Educación Superior.
 
-- Autorizar la creación de nuevas Universidades o Centros Técnicos Superiores. Antes de otorgar la autorización, el Consejo deberá:
+- 7. Autorizar la creación de nuevas Universidades o Centros Técnicos Superiores. Antes de otorgar la autorización, el Consejo deberá:
 
-- Conocer  las  necesidades  objetivas  país,  de  nuevas  Universidades  o Centros Técnicos Superiores.
+- 1. Conocer  las  necesidades  objetivas  país,  de  nuevas  Universidades  o Centros Técnicos Superiores.
 
-- Valorar los recursos materiales y humanos con que cuenta el país, para ver si  es  posible  la  creación  de  nuevas  Universidades  o  Centros  Técnicos Superiores.
+- 2. Valorar los recursos materiales y humanos con que cuenta el país, para ver si  es  posible  la  creación  de  nuevas  Universidades  o  Centros  Técnicos Superiores.
 
-- Conocer el número de estudiantes que requieran la apertura de la nueva entidad educativa.
+- 3. Conocer el número de estudiantes que requieran la apertura de la nueva entidad educativa.
 
-- Evitar toda duplicidad inútil de carreras.
+- 4. Evitar toda duplicidad inútil de carreras.
 
 Una vez concedida la autorización por el Consejo Nacional de Universidades, la Asamblea Nacional podrá otorgar la personalidad jurídica correspondiente.
 
 #### Arto. 59.
 Son atribuciones del Presidente del Consejo Nacional de Universidades las siguientes:
 
-- Convocar, presidir las sesiones y proponer la agenda a tratar.
+- 1. Convocar, presidir las sesiones y proponer la agenda a tratar.
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
 
-- Cumplir y hacer cumplir los acuerdos adoptados por el Consejo.
+- 2. Cumplir y hacer cumplir los acuerdos adoptados por el Consejo.
 
-- Coordinar  a  las  instituciones  de  Educación  Superior  y  velar  por  que  existan canales  de  comunicación  fluidos  entre  las  instancias  homólogas  de  los centros.
+- 3. Coordinar  a  las  instituciones  de  Educación  Superior  y  velar  por  que  existan canales  de  comunicación  fluidos  entre  las  instancias  homólogas  de  los centros.
 
-- Representar  al  Consejo  Nacional  de  Universidades  ante  los  organismos nacionales o extranjeros.
+- 4. Representar  al  Consejo  Nacional  de  Universidades  ante  los  organismos nacionales o extranjeros.
 
 #### Arto. 60.
 El Secretario del Consejo Nacional de Universidades será el Secretario General de la Universidad, cuyo Rector lo preside y tendrá funciones siguientes:
 
-- Convocar, con instrucción del Presidente, a las sesiones ordinarias y extraordinarias.
+- 1. Convocar, con instrucción del Presidente, a las sesiones ordinarias y extraordinarias.
 
-- Asistir a las reuniones del Consejo, con voz.
+- 2. Asistir a las reuniones del Consejo, con voz.
 
-- Redactar las actas de las sesiones, certificar las mismas y las resoluciones, para todos los efectos de Ley.
+- 3. Redactar las actas de las sesiones, certificar las mismas y las resoluciones, para todos los efectos de Ley.
 
-- Llevar el control y registro de las actas y acuerdos dictados por el Consejo y encargarse, por instrucciones  del  Presidente,  de  cumplir  y  hacer  cumplir  las decisiones del mismo.
+- 4. Llevar el control y registro de las actas y acuerdos dictados por el Consejo y encargarse, por instrucciones  del  Presidente,  de  cumplir  y  hacer  cumplir  las decisiones del mismo.
 
-- Ser el órgano de comunicación del Consejo y realizar las actividades que el Presidente le delegue.
+- 5. Ser el órgano de comunicación del Consejo y realizar las actividades que el Presidente le delegue.
 
 #### Arto. 61.
 Los acuerdos y recomendaciones del Consejo Nacional de Universidades  serán  ratificados  por  los  Consejos  Universitarios  de  las  distintas instituciones, para su plena validez.
@@ -703,7 +704,7 @@ Las autoridades que a la fecha de la promulgación de la presente Ley se encuent
 La  elección  de  los  consejeros  de  facultad  se  hará  dentro  de  un  plazo máximo de sesenta días, a partir de la promulgación de la presente Ley.
 
 #### Arto. 64.
-La elección del Rector y Vice-Rector Genera se hará dentro de los treinta días siguientes a la elección de los Consejos de Facultad.
+La elección del Rector y Vice-Rector General se hará dentro de los treinta días siguientes a la elección de los Consejos de Facultad.
 
 #### Arto.  65.
 La  elección  de  los  directores  de  escuela  se  llevará  a  cabo  en  el transcurso del año mil novecientos noventa. La normas para el desempeño del cargo de Director de Escuela y las de su elección serán objeto de reglamento.
@@ -715,17 +716,17 @@ Las categorías docentes establecidas en el artículo 51 serán definidas por el
 La  garantía  mínima  establecida  en  el  numeral  1)  del  artículo  55,  se alcanzará progresivamente, iniciándose con un porcentaje no menor de un 3%, e incrementándose de acuerdo con las necesidades de la Educación Superior y las posibilidades del país, hasta alcanzar el 6% establecido como garantía mínima.
 
 #### Arto. 68.
-La presente Ley deroga los decretos 38, 325 y 783 publicados en 'La Gaceta, Diario Oficial, número 73, 54 y 189 del 27 de Marzo de 1958, del 4 de Marzo de 1980 y del 22 de Agosto de 1981, respectivamente y sus posteriores reformas, así como todas las Leyes y disposiciones que se le opongan.
+La presente Ley deroga los decretos 38, 325 y 783 publicados en “La Gaceta, Diario Oficial, número 73, 54 y 189 del 27 de Marzo de 1958, del 4 de Marzo de 1980 y del 22 de Agosto de 1981, respectivamente y sus posteriores reformas, así como todas las Leyes y disposiciones que se le opongan.
 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
 
 #### Arto.  69.
-La  presente  Ley  entrará  en  vigencia  a  partir  de  su  publicación  por cualquier  medio  de  comunicación  social,  sin  perjuicio  de  su  publicación  en  'La Gaceta', Diario Oficial.
+La  presente  Ley  entrará  en  vigencia  a  partir  de  su  publicación  por cualquier  medio  de  comunicación  social,  sin  perjuicio  de  su  publicación  en “La Gaceta”, Diario Oficial.
 
-Dado en la Sala de Sesiones de la Asamblea Nacional, a los cuatro días del mes de  Abril  de  mil  novecientos  noventa.  -  'Año  de  la  Paz  y  la  Reconstrucción'.  Carlos Núñez Téllez, Presidente de la Asamblea Nacional. - Rafael Solís Cerda, Secretario de la Asamblea Nacional.
+Dado en la Sala de Sesiones de la Asamblea Nacional, a los cuatro días del mes de  Abril  de  mil  novecientos  noventa.  –  “Año  de  la  Paz  y  la  Reconstrucción”.  – Carlos Núñez Téllez, Presidente de la Asamblea Nacional. – Rafael Solís Cerda, Secretario de la Asamblea Nacional.
 
-Por  tanto:  Téngase  como  Ley  de  la  República.  -  Publíquese  y  Ejecútese.  Managua,  cinco  de  Abril  de  mil  novecientos  noventa.  -  'Año  de  la  Paz  y  la Reconstrucción'. - Daniel Ortega Saavedra, Presidente de la República.
+Por  tanto:  Téngase  como  Ley  de  la  República.  –  Publíquese  y  Ejecútese.  – Managua,  cinco  de  Abril  de  mil  novecientos  noventa.  –  “Año  de  la  Paz  y  la Reconstrucción”. – Daniel Ortega Saavedra, Presidente de la República.
 
 [[END OF PAGE 25]]
