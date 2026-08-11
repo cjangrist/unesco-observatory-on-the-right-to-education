@@ -1,12 +1,16 @@
 [[START OF PAGE 1]]
 
-(this page came through the extractor with no text)
+# TVET POLICY
+
+Department of Education
+Technical Vocational Education & Training Division
+Papua New Guinea
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-Copyright  Department of Education, 2005
+Copyright © Department of Education, 2005
 
 Published  by  Technical  Vocational  Education  and  Training  Division,  Department  of Education PO Box 446, WAIGANI National Capital District Papua New Guinea
 
@@ -20,7 +24,7 @@ Viii, 23 p.; 29 cm.
 
 ISBN 9980-86-004-9
 
-1.  Education  and  State  -  Papua  New  Guinea.  2.  Technical  Education  -  Papua  New Guinea. 3. Vocational Education -Papua  New  Guinea.  I.  Papua  New  Guinea. Department  of  Education.  Technical  Vocational  Education  and  Training  Division.  II. Training Vocational Education and Training Policy.
+1. Education and State – Papua New Guinea. 2. Technical Education – Papua New Guinea. 3. Vocational Education – Papua New Guinea. I. Papua New Guinea. Department of Education. Technical Vocational Education and Training Division. II. Training Vocational Education and Training Policy.
 
 371.11309953 -- dc22
 
@@ -32,9 +36,9 @@ Cover design created by: Mr. Parks Ike Salanu Graphics Artist, Skills Resource T
 
 [[START OF PAGE 3]]
 
-# M Me es ss sa ag ge e f fr ro om m   M Mi in ni is st t e er r f fo or r   E Ed du uc ca at ti io on n
+# Message from Minister for Education
 
-Papua New Guinea is rich in natural resources. There are extensive reserves of natural gas and oil. Mineral deposits of gold and copper abound. The waters around PNG are rich in marine life.  Forest  products  are  major  exports  and  vast  timber  resource  remains  largely  untapped. PNG has rich traditions and colorful culture. All these are perfect recipe for a huge economic development. Despite the availability of these 'raw materials' for economic development, the economy is limping. The advent of new ways in the contemporary Papua New Guinea has set new  targets  to  reach.  Law  and  order,  unemplo skilled workforce, economy, equal distribution of wealth, etc, are the overarching concerns.
+Papua New Guinea is rich in natural resources. There are extensive reserves of natural gas and oil. Mineral deposits of gold and copper abound. The waters around PNG are rich in marine life. Forest products are major exports and vast timber resource remains largely untapped. PNG has rich traditions and colorful culture. All these are perfect recipe for a huge economic development. Despite the availability of these ‘raw materials’ for economic development, the economy is limping. The advent of new ways in the contemporary Papua New Guinea has set new targets to reach. Law and order, unemployment, urban drift, corruption, HIV/AIDS, skilled workforce, economy, equal distribution of wealth, etc, are the overarching concerns.
 
 The  National  Government  has  outlined  its  main  policies  for  economic  recovery  and development including human resource development.
 
@@ -68,13 +72,13 @@ ii
 
 [[START OF PAGE 5]]
 
-# M Me es ss sa ag ge e f fr ro om m   S Se ec cr re et t a ar ry y    f fo or r   E Ed du uc ca at ti io on n
+# Message from Secretary for Education
 
 The  completion  of  the  Technical  Vocational  Education  and  Training  (TVET)  Policy represents a milestone in the development of skilled human resources for Papua New Guinea. It is the first ever National Policy formulated by the National Department of Education for the development of the skilled to technician levels of the workforce. It comes in two parts: The Main Policy Document, and the Policy Rationale and Action Plans.
 
 The Policy presents the vision, rationale, strategies and action plan that would bring the public TVET system to higher levels of quality and efficiency. The development of the competitive and technically skilled and competent workers with positive work values is essential for the economic recovery and growth of the nation.
 
-The  Medium  Term  Development  Strategy  (2005-2010)  is  the  Government's  program  for recovery and development and it has three inter- related objectives- good governance, exportdriven economic growth and rural development, and poverty reduction.
+The Medium Term Development Strategy (2005-2010) is the Government's program for recovery and development and it has three inter- related objectives- good governance, export-driven economic growth and rural development, and poverty reduction.
 
 The Policy implementation poses much  greater challenges that will require greater partnerships with every stakeholder in the TVET system. The managers and teachers of the public TVET institutions and head office personnel are expected to play their vital roles with unwavering commitment and support.
 
@@ -151,13 +155,93 @@ vi
 
 # TABLE OF CONTENTS
 
+Message from Minister for Education . . . i
+Foreword from Secretary for Education . . . iii
+Acknowledgements . . . v
+Abbreviations . . . vi
+1. Introduction . . . 1
+1.1 Purpose, Scope & Audience of the Policy . . . 1
+1.2 Legal Basis . . . 2
+1.3 National Directions . . . 3
+1.4 PNG TVET . . . 4
+2. TVET Division . . . 4
+2.1 The TVET Division . . . 4
+2.2 Vision & Mission . . . 5
+2.3 TVET Principles . . . 5
+3. Roles & Responsibilities . . . 6
+3.1 TVET Management . . . 6
+3.1.1 TVET Division Strengthening . . . 6
+3.1.2 Institutional Strengthening . . . 6
+3.1.3 Administrative Systems . . . 7
+3.1.4 Physical Resources & Infrastructure . . . 7
+3.1.5 Delegations . . . 7
+3.1.6 Systems Performance . . . 7
+3.1.7 National Training Effort . . . 7
+3.1.8 National Unmet Demand . . . 8
+3.1.9 Access & Equity . . . 8
+3.1.10 Client Satisfaction . . . 8
+3.2 TVET Curriculum Branch . . . 8
+3.2.1 Role Definition . . . 8
+3.2.2 Curriculum Handbook . . . 9
+3.2.3 National Curriculum . . . 9
+3.2.4 PNG National Qualifications Framework . . . 9
+3.2.5 Competency-Based Training & Assessment . . . 9
+3.2.6 Recognition of Prior Learning . . . 10
+3.2.7 Occupational Competency Standards . . . 10
+3.2.8 Accreditation . . . 10
+3.2.9 Skills Coordination . . . 10
+3.2.10 Articulation . . . 11
+3.2.11 Open & Distance Learning . . . 11
+3.3 Operations Branch & Technical Colleges . . . 11
+3.3.1 Functions . . . 11
+3.3.2 Performance Development . . . 11
+3.3.3 System Performance . . . 12
+3.3.4 Communication . . . 12
+
 vii
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
-23
+3.3.5 Staff Performance . . . 12
+3.3.6 Continuous Improvement . . . 12
+3.3.7 Resource Utilisation . . . 12
+3.3.8 Staffing Plan . . . 13
+3.3.9 Staff Conditions of Employment . . . 13
+3.3.10 Funds . . . 14
+3.3.11 Physical Resources . . . 15
+3.3.12 Teacher Supply . . . 15
+3.3.13 Twinning . . . 16
+3.3.14 College Rationalisation . . . 16
+3.3.15 Student Selection . . . 16
+3.3.16 Governance . . . 16
+3.4 Vocational Support Services Branch &
+Vocational Centres . . . 16
+3.4.1 Nomenclature . . . 16
+3.4.2 Status . . . 17
+3.4.3 Curriculum . . . 17
+3.4.4 Accountabilities . . . 17
+3.4.5 Provincial Vocational Coordinators . . . 18
+3.4.6 Teacher Training . . . 19
+3.4.7 Relationships . . . 19
+3.4.8 Linkages . . . 19
+3.4.9 Student Selection . . . 19
+3.4.10 Financial & Asset Management . . . 19
+3.4.11 Private Providers . . . 19
+3.4.12 Student Subsidy System . . . 20
+3.5 TVET Inspections Branch . . . 20
+3.5.1 Performance Measures . . . 20
+3.5.2 Teacher Performance . . . 20
+3.5.3 Audit . . . 20
+3.6 Staff Development & Teacher Education . . . 21
+3.6.1 Staff Development Plan . . . 21
+3.6.2 Short-Term Teaching Appointments . . . 21
+3.6.3 Part-Time Study . . . 21
+3.6.4 Teacher Training . . . 21
+3.6.5 Leadership Development . . . 21
+3.6.6 Cultural Change . . . 21
+4. Conclusion . . . 23
 
 viii
 
@@ -275,7 +359,7 @@ ___________________________________________________________________________
 
 ### National Education Plan (2005-2014)
 
-The first National Education Plan (NEP) 1995-2004 was developed as a result of the 1990/1991 Education Sector Review. The second NEP 20052014  builds  upon  the  progress  made  in  the  last  10  years  and  identifies strategies to target improvements that still need to be made giving special attention to the needs of school leavers. The TVET Policy is guided by the NEP.
+The first National Education Plan (NEP) 1995-2004 was developed as a result of the 1990/1991 Education Sector Review. The second NEP 2005-2014 builds upon the progress made in the last 10 years and identifies strategies to target improvements that still need to be made giving special attention to the needs of school leavers. The TVET Policy is guided by the NEP.
 
 ## 1.4 PNG TVET
 
@@ -515,7 +599,7 @@ occupational standards. Credit in the future will be made available for any modu
 
 ### 3.2.5    Competency-Based Training and Assessment
 
-The TVET qualifications are based upon competency-based training and assessment  (CBT&A).  The  seven  core  trade  areas,  namely,  Business Studies -Office Administration, Carpentry Construction, Electrical, MVM, MFW, MFM and Plumbing trades have already been converted to CBT&A.
+The TVET qualifications are based upon competency-based training and assessment (CBT&A). The seven core trade areas, namely, Business Studies - Office Administration, Carpentry Construction, Electrical, MVM, MFW, MFM and Plumbing trades have already been converted to CBT&A.
 
 All other courses will be converted into CBT&A format.
 
@@ -523,7 +607,7 @@ The  PNG  Occupational  Skills  and  Standards  Project  (POSSP)  is  an importa
 
 ### 3.2.6    Recognition of Prior Learning
 
-The introduction of CBT&A, the modularization of courses with flexible entry and exit points, and the introduction of recognition of prior learning (RPL)  provide  the  basis  for  change  from  teacher-directed  to  studentcentred learning. For this to occur, the qualification frameworks, articulated pathways and RPL policies need to be in place but there must also be changes to teacher methodology. RPL is the formal recognition of competencies held by a person.
+The introduction of CBT&A, the modularization of courses with flexible entry and exit points, and the introduction of recognition of prior learning (RPL) provide the basis for change from teacher-directed to student-centred learning. For this to occur, the qualification frameworks, articulated pathways and RPL policies need to be in place but there must also be changes to teacher methodology. RPL is the formal recognition of competencies held by a person.
 
 ### 3.2.7    Occupational Competency Standards
 
@@ -717,7 +801,7 @@ ___________________________________________________________________________
 
 Recruitment  special  provisions : It  is  already  proving  to  be  difficult  to recruit capable staff to a number of teaching programs. Where extraordinary circumstances apply, a selected appointee should commence on a higher salary point than would normally be the case, this will serve to increase the attractiveness of teaching positions.
 
-Diploma availability : The Diploma in Teaching (Technical) is available from the University of Goroka by full-time attendance only. Every effort will  be  made  to  encourage  the  external  offering  of  the  Diploma  as proposed  by  the University's Faculty of Science in  the  document 'Proposed B.TVET Degree program'.
+Diploma availability : The Diploma in Teaching (Technical) is available from the University of Goroka by full-time attendance only. Every effort will  be  made  to  encourage  the  external  offering  of  the  Diploma  as proposed  by  the University’s Faculty of Science in  the  document “Proposed B.TVET Degree program”.
 
 Part-time  study : Ideally the Colleges ought to recruit to teaching positions  persons  with  industry  knowledge  and  experience  who  could then  complete  their  professional  requirements  by  part-time  study.  This part-time  study  should  be  available  to  all  teachers  in  their  first  few (possibly five) years of appointment.
 
@@ -727,7 +811,7 @@ College Governing Councils and Principals ought to pursue opportunities to estab
 
 ### 3.3.14   College Rationalisation
 
-The 'Home College' concept has enabled the maximum utilisation of the physical and human resources that are available in the college. This also assisted in the establishment of the college as a Trade Testing centre for specific  trades.  Colleges  need  to  work  together  to  optimise  the  use  of public resources and the 'Home College' ought to be the national centre of excellence for professional programs for staff, for the development of learning  materials  as  well  as  offering  the  higher  level  or  Advanced Diploma  level  programs.  The  'Home  College'  should  assist  and  foster other Colleges to satisfy the training needs of their communities.
+The “Home College” concept has enabled the maximum utilisation of the physical and human resources that are available in the college. This also assisted in the establishment of the college as a Trade Testing centre for specific  trades.  Colleges  need  to  work  together  to  optimise  the  use  of public resources and the “Home College” ought to be the national centre of excellence for professional programs for staff, for the development of learning  materials  as  well  as  offering  the  higher  level  or  Advanced Diploma  level  programs.  The  “Home College”  should  assist  and  foster other Colleges to satisfy the training needs of their communities.
 
 ### 3.3.15   Student Selection
 
@@ -823,7 +907,7 @@ The provincial vocational coordinator in each province plays a major role in the
 
 ### 3.4.6 Teacher Training
 
-Significant  increases  in  student  numbers  along  with  increased  teacher mobility will require additional numbers of trained professional staff. The residential component of the Diploma in Vocational Education offered at the PNG Education Institute must be developed in distance mode similar to  the  elementary teacher education program. The University of Goroka will be approached to accredit the Diploma in Vocational Education and to articulate it to the University's Diploma in Technical Education and in the future to the proposed B.TVET Degree Program.
+Significant  increases  in  student  numbers  along  with  increased  teacher mobility will require additional numbers of trained professional staff. The residential component of the Diploma in Vocational Education offered at the PNG Education Institute must be developed in distance mode similar to  the  elementary teacher education program. The University of Goroka will be approached to accredit the Diploma in Vocational Education and to articulate it to the University’s Diploma in Technical Education and in the future to the proposed B.TVET Degree Program.
 
 ### 3.4.7 Relationships
 
@@ -831,7 +915,7 @@ The  technical  and  business  colleges  can  provide  the  vocational  centres 
 
 ### 3.4.8 Linkages
 
-There  will  be  greater  consultation  with  other  government  departments, provincial  divisions  and  NGO's  with  a  view  to  a  more  efficient  use  of facilities. This will mean a more cooperative and collaborative approach to the utilization of community facilities and a reduction of duplication of effort and funding.
+There  will  be  greater  consultation  with  other  government  departments, provincial  divisions  and  NGO’s  with  a  view  to  a  more  efficient  use  of facilities. This will mean a more cooperative and collaborative approach to the utilization of community facilities and a reduction of duplication of effort and funding.
 
 ### 3.4.9 Student Selection
 
@@ -857,11 +941,11 @@ Proper,  transparent  and  efficient  financial  and  asset  management  is esse
 
 ### 3.4.11  Private Providers
 
-All  centres  will  be  required  to  be  registered  to  provide  nationally approved curriculum, government support and funding will be dependent upon registration with the NDoE.  Private provision will be encouraged in all  curriculum  areas  including  the  provision  of  short  courses.  Greater autonomy  will  be  granted  to  NGO's.  The  continuation  of  government support to NGO's will be dependent upon the performance of the Centre; appropriate  performance  measures  will  be  developed.  This  performance will be evaluated and monitored by NDoE inspection systems.
+All  centres  will  be  required  to  be  registered  to  provide  nationally approved curriculum, government support and funding will be dependent upon registration with the NDoE.  Private provision will be encouraged in all  curriculum  areas  including  the  provision  of  short  courses.  Greater autonomy  will  be  granted  to  NGO’s.  The  continuation  of  government support to NGO’s will be dependent upon the performance of the Centre; appropriate  performance  measures  will  be  developed.  This  performance will be evaluated and monitored by NDoE inspection systems.
 
 ### 3.4.12  Student Subsidy System
 
-A  subsidy or 'voucher' system could encourage competition and accelerate  the  development  of  a  demand-driven  system.  Subsidies  or 'vouchers'  could  be  made  available  to  Grade  8  graduates,  who  would choose to enrol with any registered provider. The existing subsidy system will be reviewed to provide an improved and more equitable system.
+A  subsidy or “voucher” system could encourage competition and accelerate  the  development  of  a  demand-driven  system.  Subsidies  or “vouchers”  could  be  made  available  to  Grade  8  graduates,  who  would choose to enrol with any registered provider. The existing subsidy system will be reviewed to provide an improved and more equitable system.
 
 ## 3.5 TVET Inspections Branch
 
@@ -887,13 +971,13 @@ Main Document
 
 ___________________________________________________________________________
 
-The performance of TVET institutions is measured in part by the annual appraising, reporting and rating of teachers. New manuals, checklists and forms  have  been  created  to  accommodate  TVET's  requirements.  A culture of self-improvement will increasingly be fostered with the inspector having more  of an advisory and audit role. Continuous improvement  plans  will  also  include  statements  on  initiatives  taken  to improve teacher performance.
+The performance of TVET institutions is measured in part by the annual appraising, reporting and rating of teachers. New manuals, checklists and forms  have  been  created  to  accommodate  TVET’s  requirements.  A culture of self-improvement will increasingly be fostered with the inspector having more  of an advisory and audit role. Continuous improvement  plans  will  also  include  statements  on  initiatives  taken  to improve teacher performance.
 
 The role of Vocational Education inspectors will be reconsidered in view of the changed status and role of the Vocational Centres. The Superintendent Inspections and the Superintendent VSS will be advised in this matter by the review of Secondary Inspectors. Consultations will take place with provincial authorities.
 
 ### 3.5.3 Audit
 
-There will be changes to the role of inspector once the Principals assume a  greater  role  in  compliance  at  the  institutional  level.  The  NDoE  will strengthen its audit function; inspectors will gradually assume more of a 'consultative' (mentoring, leading and coaching) role.
+There will be changes to the role of inspector once the Principals assume a  greater  role  in  compliance  at  the  institutional  level.  The  NDoE  will strengthen its audit function; inspectors will gradually assume more of a “consultative” (mentoring, leading and coaching) role.
 
 ## 3.6 Staff Development and Teacher Education
 
@@ -903,7 +987,7 @@ The Superintendent Inspections has been responsible for coordinating the staff  
 
 ### 3.6.2 Short-Term Teaching Appointments
 
-A more flexible staffing  provision  will  mean  that  there  are  more  shortterm appointments of persons from business or industry with little or no prior  teaching  experience.  The  contract  or  part-time  staff  needs  an introduction  to  teaching  methodology.  This  should  be  prepared  as  a module or learning package by the Staff Development Officer.
+A more flexible staffing  provision  will  mean  that  there  are  more  short-term appointments of persons from business or industry with little or no prior  teaching  experience.  The  contract  or  part-time  staff  needs  an introduction  to  teaching  methodology.  This  should  be  prepared  as  a module or learning package by the Staff Development Officer.
 
 ### 3.6.3 Part-Time Study
 
@@ -925,7 +1009,7 @@ ___________________________________________________________________________
 
 ### 3.6.4 Teacher Training
 
-The NEP projects significant increases in student numbers especially in Vocational Centres. Issues of supply and of teacher performance clearly impact upon TVET's  capacity to produce quality outcomes. The development of the National Teachers Standards Framework needs to be supported and monitored.
+The NEP projects significant increases in student numbers especially in Vocational Centres. Issues of supply and of teacher performance clearly impact upon TVET’s  capacity to produce quality outcomes. The development of the National Teachers Standards Framework needs to be supported and monitored.
 
 ### 3.6.5 Leadership Development
 
@@ -951,9 +1035,9 @@ ___________________________________________________________________________
 
 # 4. Conclusion
 
-The  development  of  an  export  driven  economy,  a  greater  emphasis  on skills  in  small  scale  enterprise  development  and  the  enhancement  of sustainability can only become a reality with a strong performing training system. Further to this, the development of lifelong learning will greatly enhance PNG's capacity to compete globally.
+The  development  of  an  export  driven  economy,  a  greater  emphasis  on skills  in  small  scale  enterprise  development  and  the  enhancement  of sustainability can only become a reality with a strong performing training system. Further to this, the development of lifelong learning will greatly enhance PNG’s capacity to compete globally.
 
-The  Government's  Medium  Term  Development  Strategy  affords  TVET its  second  priority;  this  is  significant  as  until  now  TVET  has  not  been given  the  attention  needed  to  perform  to  PNG's  requirements  and  the expectations of its stakeholders.
+The  Government’s  Medium  Term  Development  Strategy  affords  TVET its  second  priority;  this  is  significant  as  until  now  TVET  has  not  been given  the  attention  needed  to  perform  to  PNG’s  requirements  and  the expectations of its stakeholders.
 
 There  is  no  properly  functioning  system  of  vocational  education  and training  in  PNG.  A  national  training  plan,  a  national  qualifications framework,  a  clear  leading  role  for  business  and  industry  as  well  as quality standards in curriculum and delivery are the essential components of a functional system. This system depends upon the establishment of a coordinating  authority  which  can  produce  a  National  Training  Plan, develop  and  regulate  curriculum,  standards  and  quality  and  ensure  that provision  meets  national  priorities.  Clearly,  NDoE  must  work  closely with the Department of Labour and Industrial Relations, specifically the National  Apprenticeship  and  Trade  Testing  Board  and  the  National Training Council to develop the essential components of a functional and coordinated system.
 
