@@ -19,7 +19,7 @@ complété par D. 05-07-1993 ; modifié par D. 13-07-1998 ; complété par D. 19
 
 ### Article  1er. -
 #### § 1er.
-Le mineur  est soumis  à  l'obligation scolaire pendant une période de douze années commençant avec l'année scolaire qui prend cours dans l'année où il atteint l'âge de six ans et se terminant à la fin de l'année scolaire, dans l'année au cours de laquelle il atteint l'âge de dixhuit ans.
+Le mineur  est soumis  à  l'obligation scolaire pendant une période de douze années commençant avec l'année scolaire qui prend cours dans l'année où il atteint l'âge de six ans et se terminant à la fin de l'année scolaire, dans l'année au cours de laquelle il atteint l'âge de dix-huit ans.
 
 L'obligation  scolaire  est  à  temps  plein  jusqu'à  l'âge  de  quinze  ans  et comporte au maximum sept années d'enseignement primaire et au moins les deux  premières  années  de  l'enseignement  secondaire  de  plein  exercice;    en aucun cas l'obligation scolaire à temps plein ne se prolonge au-delà de seize ans.
 
@@ -29,7 +29,7 @@ Pour l'application de la présente loi, il faut entendre par :
 
 1° enseignement  à  horaire  réduit,  l'enseignement  qui  comprend  moins de  semaines  par  an  ou  de  périodes  par  semaine  que  le  nombre  fixé  pour l'enseignement à temps plein;
 
-- 2° formation,  tous  les  types  de  formation  visés  à  l'article  4  de  la  loi spéciale de réformes institutionnelles du 8 août 1980.
+2° formation,  tous  les  types  de  formation  visés  à  l'article  4  de  la  loi spéciale de réformes institutionnelles du 8 août 1980.
 
 #### § 2.
 L'enseignement  et  la  formation  dispensés  au  mineur  soumis  à l'obligation scolaire doivent contribuer à son éducation ainsi qu'à sa préparation à l'exercice d'une profession.
@@ -40,9 +40,9 @@ Le  mineur  qui  a  terminé  avec  fruit  l'enseignement  secondaire  de plein 
 #### § 4.
 Par  dérogation  aux  dispositions  du  § 1er,  le  mineur  soumis  à
 
-L. 29-06-1983 mis à jour au 23/02/2011
-
 Centre de documentation administrative Secrétariat général
+
+L. 29-06-1983 mis à jour au 23/02/2011
 
 [[END OF PAGE 1]]
 
@@ -82,7 +82,7 @@ Le  mineur  de  nationalité  étrangère  qui  immigre  en  même  temps que  l
 
 modifié par D. 27-12-1993 ; D.13-01-2011
 
-### Article  2.
+### Article  2. -
 La  formation  peut  être  reconnue  par  le  Gouvernement comme répondant aux exigences de l'obligation scolaire à temps partiel, sur avis conforme d'une commission  instituée auprès du Ministère de la Communauté française.
 
 Pour  être  reconnue,  la  formation  doit  répondre  aux  dispositions  de l'article  1er,  § 2,  et  comporter  au  moins  360  heures/année  lorsqu'elle  est suivie  avant  la  fin  de  l'année  scolaire  de  l'année  au  cours  de  laquelle  le mineur  soumis  à  l'obligation  scolaire  aura  seize  ans,  et  au  moins  240 heures/année, lorsqu'elle est suivie entre le 1er juillet de l'année au cours de laquelle le mineur soumis à l'obligation scolaire atteint l'âge de seize ans et la fin de l'année scolaire de l'année où il atteint l'âge de dix-huit ans.
@@ -91,11 +91,11 @@ modifié par D. 08-03-2007
 
 ### Article 3. -
 #### § 1er.
-Sauf le cas d'enseignement à domicile, les personnes investies de la puissance parentale ou qui assument la garde en droit ou en fait du mineur soumis à l'obligation scolaire, sont tenues de veiller à ce que, pendant  la  durée  de  l'obligation  scolaire,  celui-ci  soit  inscrit  comme  élève d'une  école  ou  d'un  établissement  de  formation  et  fréquente  régulièrement cette école ou cet établissement.
-
-L. 29-06-1983 mis à jour au 23/02/2011
+Sauf le cas d'enseignement à domicile, les personnes investies de la puissance parentale ou qui assument la garde en droit ou en fait du mineur soumis à l'obligation scolaire, sont tenues de veiller à ce que, pendant  la  durée  de  l'obligation  scolaire,  celui-ci  soit  inscrit  comme  élève
 
 Centre de documentation administrative Secrétariat général
+
+L. 29-06-1983 mis à jour au 23/02/2011
 
 [[END OF PAGE 2]]
 
@@ -108,6 +108,8 @@ Lois 09547
 III.A.02
 
 p.3
+
+d'une école ou d'un établissement de formation et fréquente régulièrement cette école ou cet établissement.
 
 Le Roi fixe les motifs d'absence qui peuvent être admis comme valables.
 
@@ -222,7 +224,7 @@ Le  titre  VI  :  "Le  contrat  d'occupation  d'étudiants"  de  la  loi  du  3 
 ### Article 11. -
 L'article 6 de la loi du 24 février 1978 relative au contrat de travail du sportif rémunéré est remplacé par la disposition suivante :
 
-"Article  6. - Le  contrat  de  travail  du  sportif  rémunéré  ne  peut  être conclu  valablement,  et  au  plus  tôt,  que  lorsque  le  sportif  a  accompli entièrement sa scolarité obligatoire à temps plein".
+"Article  6. - Le  contrat  de  travail  du  sportif  rémunéré  ne  peut  être
 
 Centre de documentation administrative
 
@@ -240,6 +242,8 @@ Lois 09547
 
 III.A.02 p.6
 
+conclu valablement, et au plus tôt, que lorsque le sportif a accompli entièrement sa scolarité obligatoire à temps plein".
+
 Après avis de la Commission paritaire nationale des Sports, le Roi peut, pour  la  pratique  de  certaines  disciplines  sportives,  fixer  une  limite  d'âge supérieure à celle qui marque la fin de la scolarité obligatoire à temps plein."
 
 ### Article  12. -
@@ -251,7 +255,7 @@ L'article  19,  premier  alinéa  2°,  de  la  loi  du  5  juin  1928 portant  
 #### § 1er.
 L'article 2, premier alinéa, de la loi du 23 septembre 1931 sur le recrutement du personnel de la pêche maritime est remplacé par la disposition suivante:
 
-"Pour l'application de la présente loi, on entend par apprenti-mousse les mineurs qui ont satisfait à l'obligation scolaire à temps plein et qui ont dixhuit ans au maximum."
+"Pour l'application de la présente loi, on entend par apprenti-mousse les mineurs qui ont satisfait à l'obligation scolaire à temps plein et qui ont dix-huit ans au maximum."
 
 #### § 2 .
 L'article  2,  troisième  alinéa,  de  la  même  loi  est  remplacé  par  la disposition suivante :
