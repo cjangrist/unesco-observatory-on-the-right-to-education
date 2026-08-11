@@ -4,6 +4,16 @@
 
 LOI-CADRE n° 14/004 du 11 Février 2014 DE L'ENSEIGNEMENT NATIONAL
 
+Accueil
+Contactez nous
+Nous soutenir
+Législation
+Modèles
+Nos partenaires
+Journal Officiel
+Jurisprudence
+Doctrine
+
 # LOI-CADRE n° 14/004 du 11 Février 2014 DE L'ENSEIGNEMENT NATIONAL
 
 ## EXPOSE DES MOTIFS
@@ -264,7 +274,6 @@ LOI-CADRE n° 14/004 du 11 Février 2014 DE L'ENSEIGNEMENT NATIONAL
 
 - partenariat éducatif : mode de gestion par lequel l'Etat associe notamment les comités des parents d'élèves, les promoteurs des écoles privées agréées, les formations syndicales des enseignants, les confessions religieuses, les organisations non Gouvernement tales ainsi que les partenaires bi et multilatéraux pour résoudre les problèmes de l'éducation.
 
-- l'utilisation des langues nationales et/ou des langues du milieu comme médium et discipline
 
 ## CHAPITRE III : DES OPTIONS FONDAMENTALES
 
@@ -303,6 +312,8 @@ Les options fondamentales de l'enseignement national sont :
 - la lutte contre les maladies endémiques et épidémiques notamment le VIH/SIDA, le paludisme et la tuberculose;
 
 - l'éducation des adultes ;
+
+- l'utilisation des langues nationales et/ou des langues du milieu comme médium et discipline
 
 http://leganet.cd/Legislation/Droit%20Public/enseignement/Loi14.004.11.02.2004.htm
 
@@ -558,9 +569,7 @@ http://leganet.cd/Legislation/Droit%20Public/enseignement/Loi14.004.11.02.2004.h
 
 LOI-CADRE n° 14/004 du 11 Février 2014 DE L'ENSEIGNEMENT NATIONAL
 
-L'enseignement national promeut les établissements techniques, artistiques et professionnels et intellectuel compatibles avec les besoins de la société et l'évolution du monde moderne.
-
-favorise la professionnalisation en assurant une formation orientée vers une culture et un niveau
+L'enseignement national promeut les établissements techniques, artistiques et professionnels et favorise la professionnalisation en assurant une formation orientée vers une culture et un niveau intellectuel compatibles avec les besoins de la société et l'évolution du monde moderne.
 ###### Article 26
 Le champ d'application de la professionnalisation couvre la structure de l'enseignement national au niveau secondaire, supérieur et universitaire, dans la perspective d'une préparation efficace et efficiente à une meilleure insertion dans la société. L'Etat s'engage à promouvoir l'enseignement technique et professionnel en développant un programme d'essaimage et de financement des établissements techniques, artistiques et professionnels en fonction des besoins de l'économie nationale en techniciens, artistes  et ouvriers hautement qualifiés.
 ### SECTION 9 : DE LA MAITRISE ET DU CONTRÔLE DE LA SCIENCE ET DE LA TECHNOLOGIE COMME FACTEURS ESSENTIELS DE LA PUISSANCE ECONOMIQUE DE LA REPUBLIQUE DEMOCRATIQUE DU CONGO
@@ -1190,7 +1199,7 @@ L'enseignement supérieur comprend :
 
 - les écoles supérieures.
 
-###### 1. Des instituts supérieurs techniques, artistiques et technologiques
+###### a. 1. Des instituts supérieurs techniques, artistiques et technologiques
 
 http://leganet.cd/Legislation/Droit%20Public/enseignement/Loi14.004.11.02.2004.htm
 
@@ -1214,7 +1223,7 @@ Les instituts supérieurs techniques, artistiques et technologiques ont pour mis
 
 - encourager la promotion et le rayonnement des arts et des métiers.
 
-###### 2. Des instituts supérieurs pédagogiques
+###### a. 2. Des instituts supérieurs pédagogiques
 
 ###### Article 91
 
@@ -1226,7 +1235,7 @@ Les instituts supérieurs pédagogiques ont pour mission de :
 
 - vulgariser les résultats de la recherche notamment par la production  et la diffusion des manuels scolaires adaptés.
 
-###### 3. Des écoles supérieures
+###### a. 3. Des écoles supérieures
 
 ###### Article 92
 
@@ -1246,7 +1255,7 @@ Les écoles supérieures ont pour mission de :
 
 Les modalités d'organisation et de fonctionnement des écoles supérieures sont fixées par décret du Premier ministre délibéré en conseil des ministres, sur proposition du ministre ayant l'enseignement supérieur et universitaire dans ses attributions.
 
-###### De l'enseignement universitaire
+###### a. De l'enseignement universitaire
 
 ###### Article 95
 
@@ -1274,7 +1283,7 @@ société   ;
 
 La recherche fondamentale et appliquée est produite dans les facultés    ou centres rattachés à l'établissement comme unités d'appui à l'enseignement.
 
-###### Des services spécialisés
+###### b. Des services spécialisés
 
 ###### Article 96
 
@@ -2354,6 +2363,48 @@ http://leganet.cd/Legislation/Droit%20Public/enseignement/Loi14.004.11.02.2004.h
 
 LOI-CADRE n° 14/004 du 11 Février 2014 DE L'ENSEIGNEMENT NATIONAL
 
+###### Article 197
+
+Chaque établissement dispose d'une bibliothèque ou d'une médiathèque et d'autres infrastructures didactiques spécifiques au type d'enseignement dispensé.
+
+### SECTION 8 : DE L'ASSURANCE SCOLAIRE
+
+###### Article 198
+
+Les élèves et les étudiants des établissements de l'enseignement national souscrivent une assurance contre les risques des accidents dont ils peuvent être victimes sur le trajet, à l'intérieur de leurs établissements et pendant le temps où ils sont sous la surveillance effective de leurs préposés.
+
+### SECTION 9 : DE LA COOPERATION EN MATIERE D'EDUCATION
+
+###### Article 199
+
+L'enseignement national est ouvert à la coopération tant bilatérale que multilatérale.
+
+Celle-ci vise notamment le transfert et la maîtrise des technologies, l'échange des enseignants, experts et étudiants ainsi que l'octroi des bourses d'études, le développement et la réhabilitation des infrastructures et des équipements d'éducation.
+
+Elle est fondée sur le principe du respect et des avantages mutuels.
+
+## CHAPITRE V : DE LA GESTION DES RESSOURCES HUMAINES
+
+### SECTION 1: DES DROITS ET OBLIGATIONS DU PERSONNEL DE L'ENSEIGNEMENT NATIONAL
+
+###### Article 200
+
+Le personnel de l'enseignement national a droit à une rémunération juste et honorable, à des conditions sociales et professionnelles décentes et à une considération motivante.
+
+Le personnel des établissements publics de l'enseignement national a le droit de participer à la gestion de son établissement et de constituer des associations professionnelles syndicales pour la défense et la promotion de ses intérêts.
+
+###### Article 201
+
+Le personnel de l'enseignement national fait preuve de hautes qualités humaines, morales, intellectuelles et professionnelles, de sens élevé de responsabilité personnelle et collective.
+
+Il fait montre d'esprit d'initiative, de sens civique et de respect du bien commun, des règlements professionnels ainsi que du code d'éthique.
+
+### SECTION 2 : DES DROITS ET OBLIGATIONS DES APPRENANTS
+
+###### Article 202
+
+Les apprenants ont droit à :
+
 http://leganet.cd/Legislation/Droit%20Public/enseignement/Loi14.004.11.02.2004.htm
 
 44/51
@@ -2624,7 +2675,7 @@ Cette obligation est assumée avec responsabilité.
 
 ###### Article 229
 
-Nul ne peut attenter à la liberté du personnel de l'enseignement national en vue d'obtenir pour luimême ou pour son protégé un avantage scolaire ou académique.
+Nul ne peut attenter à la liberté du personnel de l'enseignement national en vue d'obtenir pour lui-même ou pour son protégé un avantage scolaire ou académique.
 
 ###### Article 230
 
