@@ -510,7 +510,9 @@ The President of the Republic of Macedonia
 
 - proposes two members of the Republican Judicial Council;
 
-- appoints three members to the Security Council of the Republic of Macedonia;- proposes the members of the Council for Inter-Ethnic Relations;
+- appoints three members to the Security Council of the Republic of Macedonia;
+
+- proposes the members of the Council for Inter-Ethnic Relations;
 
 - appoints and dismisses other holders of state and public office determined by the
 
@@ -594,7 +596,7 @@ abroad and appoints chiefs of consular offices;
 
 ### Article 92
 
-The Government and each of its members are accountable to the Assembly. The Assembly may take a vote of no-confidence in the Government. A vote of no-confidence in the Government may be initiated by a minimum od 20 Representatives. The vote of noconfidence in the Government is taken after three days have elapsed from the day of its proposal. Another vote of no-confidence in the Government may not be proposed before 90 days have elapsed since the last such vote, unless proposed by a majority of all Representatives. A vote of no-confidence in the Government is adopted by a majority vote of all the Representatives. If a vote of no-confidence in the Government is passed, the Government is obliged to submit its resignation.
+The Government and each of its members are accountable to the Assembly. The Assembly may take a vote of no-confidence in the Government. A vote of no-confidence in the Government may be initiated by a minimum od 20 Representatives. The vote of no-confidence in the Government is taken after three days have elapsed from the day of its proposal. Another vote of no-confidence in the Government may not be proposed before 90 days have elapsed since the last such vote, unless proposed by a majority of all Representatives. A vote of no-confidence in the Government is adopted by a majority vote of all the Representatives. If a vote of no-confidence in the Government is passed, the Government is obliged to submit its resignation.
 
 ### Article 93
 
@@ -640,9 +642,7 @@ A judge is discharged
 
 - if he/she is sentenced for a criminal offence to a prison term of a minimum of six months;
 
-- owing to a serious disciplinary offence defined in law, making him/her unsuitable to perform
-
-- a judge,s office as decided by the Republican Judicial Council; and
+- owing to a serious disciplinary offence defined in law, making him/her unsuitable to perform a judge,s office as decided by the Republican Judicial Council; and
 
 - owing to unprofessional and unethical performance of a judge,s office, as decided by the Republican Judicial Council in a procedure regulated by law.
 
@@ -720,7 +720,7 @@ conviction, conscience, thought and public expression of thought, political asso
 
 - decides on conflicts of competency among holders of legislative, executive and judicial offices;
 
-- decides on conflicts of competency among Republic bodies and units of local selfgovernment;
+- decides on conflicts of competency among Republic bodies and units of local self-government;
 
 - decides on the answerability of the President of the Republic;
 
@@ -1014,13 +1014,15 @@ Which the Assembly of the Republic of Macedonia adopted at its session held on 7
 
 THE ASSEMBLY OF THE REPUBLIC OF MACEDONIA
 
-No. 07-4542/1 | PRESIDENT
---- | ---
-7 December 2005 | OF THE ASSEMBLY OF THE
-REPUBLIC
-Skopje | OF MACEDONIA
+No. 07-4542/1
+7 December 2005
+Skopje
 
-designed by Ljupco Jordanovski, PhD ,
+PRESIDENT
+OF THE ASSEMBLY OF THE
+REPUBLIC
+OF MACEDONIA
+Ljupco Jordanovski, PhD,
 
 That the copy is true to the original is certified by: DEPUTY-SECRETARY GENERAL OF THE ASSEMBLY OF THE REPUBLIC OF MACEDONIA Felek Kasami
 
@@ -1062,7 +1064,7 @@ The right to appeal or any other legal protection against individual legal acts 
 
 ## AMENDMENT XXIV
 
-- P roposes the Public Prosecutor of the Republic of Macedonia having previously obtained opinion by the Council of Public Prosecutors.
+- Proposes the Public Prosecutor of the Republic of Macedonia having previously obtained opinion by the Council of Public Prosecutors.
 
 - This amendment replaces line 12 of Article 91 of the Constitution of the Republic of Macedonia.
 
@@ -1084,7 +1086,7 @@ The types of courts, their spheres of competence, their establishment, abrogatio
 
 - if he/she so requests;
 
-- if he/she permanently loses the capability of carrying out a judge 's office, which is determined by the Judicial Council of the Republic of Macedonia;
+- if he/she permanently loses the capability of carrying out a judge's office, which is determined by the Judicial Council of the Republic of Macedonia;
 
 - if he/she fulfils the conditions for retirement;
 
@@ -1094,7 +1096,7 @@ The types of courts, their spheres of competence, their establishment, abrogatio
 
 A judge is discharged
 
-- when he/she commits a serious disciplinary offense which makes him/her unsuitable to perform a judge 's office prescribed by law; and
+- when he/she commits a serious disciplinary offense which makes him/her unsuitable to perform a judge's office prescribed by law; and
 
 - he/she performs her judicial duty unprofessionally and unethically under conditions stipulated by law.
 
@@ -1146,13 +1148,13 @@ On the election of judges, lay judges and court presidents, equitable representa
 
 ## AMENDMENT XXX
 
-- The Public Prosecutor 's Office performs his/her duties on the basis of the Constitution and law and the international agreements ratified in accordance with the Constitution. The function of the Public Prosecutor's Office is performed by the Public Prosecutor of the Republic of Macedonia and by the public prosecutors. The competences, establishment, termination, organization and functioning of the Public Prosecutor's Office is stipulated by law adopted by a two-thirds majority vote of the total number of MP's. The Public Prosecutor of the Republic of Macedonia is appointed and dismissed by the Assembly of the Republic of Macedonia for a term of six years with the right to re-election. The public prosecutors are elected by the Council of Public Prosecutors and their term of office shall have no restrictions. In the election of public prosecutors, equitable representation of citizens belonging to all communities shall be observed. The Council decides on dismissal of public prosecutors. The competences, composition and structure of the Council, the term of office of its members, as well as the basis and the procedure for termination of the mandate and for the dismissal of a member of the Council is stipulated by law. The basis and the procedure for termination of the mandate and dismissal of the Public Prosecutor of the Republic of Macedonia and OF the public prosecutors are determined by law. The function of the Public Prosecutor of the Republic of Macedonia and of a public prosecutor is incompatible with membership in a
+- The Public Prosecutor's Office performs his/her duties on the basis of the Constitution and law and the international agreements ratified in accordance with the Constitution. The function of the Public Prosecutor's Office is performed by the Public Prosecutor of the Republic of Macedonia and by the public prosecutors. The competences, establishment, termination, organization and functioning of the Public Prosecutor's Office is stipulated by law adopted by a two-thirds majority vote of the total number of MP's. The Public Prosecutor of the Republic of Macedonia is appointed and dismissed by the Assembly of the Republic of Macedonia for a term of six years with the right to re-election. The public prosecutors are elected by the Council of Public Prosecutors and their term of office shall have no restrictions. In the election of public prosecutors, equitable representation of citizens belonging to all communities shall be observed. The Council decides on dismissal of public prosecutors. The competences, composition and structure of the Council, the term of office of its members, as well as the basis and the procedure for termination of the mandate and for the dismissal of a member of the Council is stipulated by law. The basis and the procedure for termination of the mandate and dismissal of the Public Prosecutor of the Republic of Macedonia and OF the public prosecutors are determined by law. The function of the Public Prosecutor of the Republic of Macedonia and of a public prosecutor is incompatible with membership in a
 
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
 
-- political party or with performance of any other public functions and professions stipulated by law. Political organization and activity in the public prosecution is prohibited.
+political party or with performance of any other public functions and professions stipulated by law. Political organization and activity in the public prosecution is prohibited.
 
 - This amendment replaces paragraphs 2 and 3 of Article 106 of the Constitution of the Republic of Macedonia and deletes Article 107 of the Constitution of the Republic of Macedonia.
 
