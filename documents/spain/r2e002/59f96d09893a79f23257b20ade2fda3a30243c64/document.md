@@ -24,9 +24,7 @@ A todos los que la presente vieren y entendieren. Sabed: Que las Cortes Generale
 
 ### I
 
-La violencia de género no es un problema que afecte al  ámbito  privado.  Al  contrario,  se  manifiesta  como  el tra sociedad. Se trata de una violencia que se dirige sobre
-
-símbolo más brutal de la desigualdad existente en nueslas mujeres por el hecho mismo de serlo, por ser consideradas, por sus agresores, carentes de los derechos mínimos de libertad, respeto y capacidad de decisión.
+La violencia de género no es un problema que afecte al ámbito privado. Al contrario, se manifiesta como el símbolo más brutal de la desigualdad existente en nuestra sociedad. Se trata de una violencia que se dirige sobre las mujeres por el hecho mismo de serlo, por ser consideradas, por sus agresores, carentes de los derechos mínimos de libertad, respeto y capacidad de decisión.
 
 Nuestra  Constitución  incorpora  en  su  artículo  15  el derecho de todos a la vida y a la integridad física y moral, sin que en ningún caso puedan ser sometidos a torturas ni a penas o tratos inhumanos o degradantes. Además, continúa nuestra Carta Magna, estos derechos vinculan a todos los poderes públicos y sólo por ley puede regularse
 
@@ -40,15 +38,11 @@ En  la  realidad  española,  las  agresiones  sobre  las mujeres  tienen  una  
 
 Los poderes públicos no pueden ser ajenos a la violencia de género, que constituye uno de los ataques más flagrantes a derechos fundamentales como la libertad, la igualdad, la vida, la seguridad y la no discriminación proclamados en nuestra Constitución. Esos mismos poderes públicos tienen, conforme a lo dispuesto en el artículo 9.2 de la Constitución, la obligación de adoptar medidas de acción positiva para hacer reales y efectivos dichos derechos, removiendo los obstáculos que impiden o dificultan su plenitud.
 
-En los últimos años se han producido en el derecho español avances legislativos en materia de lucha contra la violencia de género, tales como la Ley Orgánica 11/2003, de 29 de septiembre, de Medidas Concretas en Materia de Seguridad Ciudadana, Violencia Doméstica e Integración Social de los Extranjeros; la Ley Orgánica 15/2003, de 25 de  noviembre,  por  la  que  se  modifica  la  Ley  Orgánica  10/1995,  de  23  de  noviembre,  del  Código  Penal,  o  la Ley  27/2003,  de  31  de  julio,  reguladora  de  la  Orden  de Protección de las Víctimas de la Violencia Doméstica; además de las leyes aprobadas por diversas Comunidades Autónomas,  dentro  de  su  ámbito  competencial. Todas ellas  han  incidido  en  distintos  ámbitos  civiles,  penales, sociales  o  educativos  a  través  de  sus  respectivas  nor-
+En los últimos años se han producido en el derecho español avances legislativos en materia de lucha contra la violencia de género, tales como la Ley Orgánica 11/2003, de 29 de septiembre, de Medidas Concretas en Materia de Seguridad Ciudadana, Violencia Doméstica e Integración Social de los Extranjeros; la Ley Orgánica 15/2003, de 25 de noviembre, por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, o la Ley 27/2003, de 31 de julio, reguladora de la Orden de Protección de las Víctimas de la Violencia Doméstica; además de las leyes aprobadas por diversas Comunidades Autónomas, dentro de su ámbito competencial. Todas ellas han incidido en distintos ámbitos civiles, penales, sociales o educativos a través de sus respectivas normativas.
 
-mativas.
+La Ley pretende atender a las recomendaciones de los organismos internacionales en el sentido de proporcionar una respuesta global a la violencia que se ejerce sobre las mujeres. Al respecto se puede citar la Convención sobre la eliminación de todas las formas de discriminación sobre la mujer de 1979; la Declaración de Naciones Unidas sobre la eliminación de la violencia sobre la Mujer, proclamada en diciembre de 1993 por la Asamblea General; las Resoluciones de la última Cumbre Internacional sobre la Mujer celebrada en Pekín en septiembre de 1995; la Resolución WHA49.25 de la Asamblea Mundial de la Salud declarando la violencia como problema prioritario de salud pública proclamada en 1996 por la OMS; el informe del Parlamento Europeo de julio de 1997; la Resolución de la Comisión de Derechos Humanos de Naciones Unidas de 1997; y la Declaración de 1999 como Año Europeo de Lucha Contra la Violencia de Género, entre otros. Muy recientemente, la Decisión n.º 803/2004/CE del Parlamento Europeo, por la que se aprueba un programa de acción comunitario (2004-2008) para prevenir y combatir la violencia ejercida sobre la infancia, los jóvenes y las mujeres y proteger a las víctimas y grupos de riesgo (programa Daphne II), ha fijado la posición y estrategia de los representantes de la ciudadanía de la Unión al respecto.
 
-La Ley pretende atender a las recomendaciones de los organismos internacionales en el sentido de proporcionar una respuesta global a la violencia que se ejerce sobre las mujeres. Al respecto se puede citar la Convención sobre la  eliminación  de  todas  las  formas  de  discriminación sobre la mujer de 1979; la Declaración de Naciones Unidas sobre la eliminación de la violencia sobre la Mujer, proclamada en diciembre de 1993 por la Asamblea General;  las  Resoluciones  de  la  última  Cumbre  Internacional sobre la Mujer celebrada en Pekín en septiembre de 1995; la  Resolución WHA49.25  de  la Asamblea  Mundial  de  la Salud declarando la violencia como problema prioritario de  salud  pública  proclamada  en  1996  por  la  OMS;  el informe del Parlamento Europeo de julio de 1997; la Resolución de la Comisión de Derechos Humanos de Naciones Unidas  de  1997;  y  la  Declaración  de  1999  como  Año Europeo de Lucha Contra la Violencia de Género, entre otros. Muy recientemente, la Decisión n.º 803/2004/CE del Parlamento Europeo, por la que se aprueba un programa de acción comunitario (2004-2008) para prevenir y combatir la violencia ejercida sobre la infancia, los jóvenes y las mujeres y proteger a las víctimas y grupos de riesgo (programa Daphne II), ha fijado la posición y estrategia de los  representantes  de  la  ciudadanía  de  la  Unión  al  res-
-
-pecto.
-
-El ámbito de la Ley abarca tanto los aspectos preventivos,  educativos,  sociales,  asistenciales  y  de  atención posterior  a  las  víctimas,  como  la  normativa  civil  que incide en el ámbito familiar o de convivencia donde principalmente se producen las agresiones, así como el principio de subsidiariedad en las Administraciones Públicas. Igualmente se aborda con decisión la respuesta punitiva que deben recibir todas las manifestaciones de violencia que esta Ley regula.
+El ámbito de la Ley abarca tanto los aspectos preventivos, educativos, sociales, asistenciales y de atención posterior a las víctimas, como la normativa civil que
 
 [[END OF PAGE 1]]
 
@@ -60,7 +54,9 @@ Miércoles  29  diciembre  2004
 
 42167
 
-La  violencia  de  género  se  enfoca  por  la  Ley  de  un modo integral y multidisciplinar, empezando por el proceso de socialización y educación.
+incide en el ámbito familiar o de convivencia donde principalmente se producen las agresiones, así como el principio de subsidiariedad en las Administraciones Públicas. Igualmente se aborda con decisión la respuesta punitiva que deben recibir todas las manifestaciones de violencia que esta Ley regula.
+
+La violencia de género se enfoca por la Ley de un modo integral y multidisciplinar, empezando por el proceso de socialización y educación.
 
 La conquista de la igualdad y el respeto a la dignidad humana y la libertad de las personas tienen que ser un objetivo prioritario en todos los niveles de socialización.
 
@@ -94,9 +90,9 @@ En idéntico sentido se prevén medidas de apoyo a las funcionarias públicas qu
 
 Se regulan, igualmente, medidas de apoyo económico, modificando el Real Decreto Legislativo 1/1994, de 20 de junio, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social, para que las víctimas de la  violencia  de  género  generen  derecho  a  la  situación legal de desempleo cuando resuelvan o suspendan voluntariamente su contrato de trabajo.
 
-Para garantizar a las víctimas de violencia de género que carezcan de recursos económicos unas ayudas sociales en aquellos supuestos en que se estime que la víctima debido a su edad, falta de preparación general especializada y circunstancias sociales no va a mejorar de forma sustancial su empleabilidad, se prevé su incorporación al programa de acción específico creado al efecto para su inserción profesional. Estas ayudas, que se modularán en relación  a  la  edad  y  responsabilidades  familiares  de  la víctima,  tienen  como  objetivo  fundamental  facilitarle unos recursos mínimos de subsistencia que le permitan independizarse del agresor; dichas ayudas serán compatibles con las previstas en la Ley 35/1995, de 11 de diciembre, de Ayudas y Asistencia a las Víctimas de Delitos Violentos y Contra la Libertad Sexual.
+Para garantizar a las víctimas de violencia de género que carezcan de recursos económicos unas ayudas sociales en aquellos supuestos en que se estime que la víctima debido a su edad, falta de preparación general o especializada y circunstancias sociales no va a mejorar de forma sustancial su empleabilidad, se prevé su incorporación al programa de acción específico creado al efecto para su inserción profesional. Estas ayudas, que se modularán en relación a la edad y responsabilidades familiares de la víctima, tienen como objetivo fundamental facilitarle unos recursos mínimos de subsistencia que le permitan independizarse del agresor; dichas ayudas serán compatibles con las previstas en la Ley 35/1995, de 11 de diciembre, de Ayudas y Asistencia a las Víctimas de Delitos Violentos y Contra la Libertad Sexual.
 
-En el título III, concerniente a la  Tutela Institucional, se procede a la creación de dos órganos administrativos. En primer lugar, la Delegación Especial del Gobierno contra la Violencia sobre la Mujer, en el Ministerio de Trabajo y Asuntos Sociales, a la que corresponderá, entre otras funciones, proponer la política del Gobierno en relación con la violencia sobre la mujer y coordinar e impulsar todas las  actuaciones  que  se  realicen  en  dicha  materia,  que necesariamente  habrán  de  comprender  todas  aquellas actuaciones que hagan efectiva la garantía de los derechos  de  las  mujeres. También  se  crea  el  Observatorio Estatal de Violencia sobre la Mujer, como un órgano colegiado  en  el  Ministerio  de Trabajo  y Asuntos  Sociales,  y que tendrá como principales funciones servir como centro de análisis de la situación y evolución de la violencia gado  en  la  elaboración  de  propuestas  y  medidas  para sobre la mujer, así como asesorar y colaborar con el Deleerradicar este tipo de violencia.
+En el título III, concerniente a la Tutela Institucional, se procede a la creación de dos órganos administrativos. En primer lugar, la Delegación Especial del Gobierno contra la Violencia sobre la Mujer, en el Ministerio de Trabajo y Asuntos Sociales, a la que corresponderá, entre otras funciones, proponer la política del Gobierno en relación con la violencia sobre la mujer y coordinar e impulsar todas las actuaciones que se realicen en dicha materia, que necesariamente habrán de comprender todas aquellas actuaciones que hagan efectiva la garantía de los derechos de las mujeres. También se crea el Observatorio Estatal de Violencia sobre la Mujer, como un órgano colegiado en el Ministerio de Trabajo y Asuntos Sociales, y que tendrá como principales funciones servir como cen-
 
 [[END OF PAGE 2]]
 
@@ -108,7 +104,9 @@ Miércoles  29  diciembre  2004
 
 BOE núm. 313
 
-En su título IV la Ley introduce normas de naturaleza penal, mediante las que se pretende incluir, dentro de los tipos  agravados  de  lesiones,  uno  específico  que  incremente la sanción penal cuando la lesión se produzca contra quien sea o haya sido la esposa del autor, o mujer que esté o haya estado ligada a él por una análoga relación de afectividad,  aun  sin  convivencia. También  se  castigarán como delito las coacciones leves y las amenazas leves de cualquier clase cometidas contra las mujeres mencionadas con anterioridad.
+tro de análisis de la situación y evolución de la violencia sobre la mujer, así como asesorar y colaborar con el Delegado en la elaboración de propuestas y medidas para erradicar este tipo de violencia.
+
+En su título IV la Ley introduce normas de naturaleza penal, mediante las que se pretende incluir, dentro de los tipos agravados de lesiones, uno específico que incremente la sanción penal cuando la lesión se produzca contra quien sea o haya sido la esposa del autor, o mujer que esté o haya estado ligada a él por una análoga relación de afectividad, aun sin convivencia. También se castigarán como delito las coacciones leves y las amenazas leves de cualquier clase cometidas contra las mujeres mencionadas con anterioridad.
 
 Para la ciudadanía, para los colectivos de mujeres y específicamente  para  aquellas  que  sufren  este  tipo  de agresiones, la Ley quiere dar una respuesta firme y contundente y mostrar firmeza plasmándolas en tipos penales específicos.
 
@@ -138,11 +136,11 @@ Por último, la presente Ley incluye en sus disposiciones finales las habilitaci
 
 #### Objeto de la Ley.
 
-- La presente Ley tiene por objeto actuar contra la violencia que, como manifestación de la discriminación, la situación de desigualdad y las relaciones de poder de los hombres sobre las mujeres, se ejerce sobre éstas por parte de quienes sean o hayan sido sus cónyuges o de quienes estén o hayan estado ligados a ellas por relaciones similares de afectividad, aun sin convivencia.
+1. La presente Ley tiene por objeto actuar contra la violencia que, como manifestación de la discriminación, la situación de desigualdad y las relaciones de poder de los hombres sobre las mujeres, se ejerce sobre éstas por parte de quienes sean o hayan sido sus cónyuges o de quienes estén o hayan estado ligados a ellas por relaciones similares de afectividad, aun sin convivencia.
 
-- Por esta Ley se establecen medidas de protección integral cuya finalidad es prevenir, sancionar y erradicar esta violencia y prestar asistencia a sus víctimas.
+2. Por esta Ley se establecen medidas de protección integral cuya finalidad es prevenir, sancionar y erradicar esta violencia y prestar asistencia a sus víctimas.
 
-- La violencia de género a que se refiere la presente Ley comprende todo acto de violencia física y psicológica, incluidas las agresiones a la libertad sexual, las amenazas,  las  coacciones  o  la  privación  arbitraria  de  libertad.
+3. La violencia de género a que se refiere la presente Ley comprende todo acto de violencia física y psicológica, incluidas las agresiones a la libertad sexual, las amenazas, las coacciones o la privación arbitraria de libertad.
 
 [[END OF PAGE 3]]
 
@@ -158,27 +156,27 @@ Miércoles  29  diciembre  2004
 
 A través de esta Ley se articula un conjunto integral de medidas encaminadas a alcanzar los siguientes fines:
 
-- Fortalecer  las  medidas  de  sensibilización  ciudadana de prevención, dotando a los poderes públicos de instrumentos eficaces en el ámbito educativo, servicios sociales, sanitario, publicitario y mediático.
+a) Fortalecer las medidas de sensibilización ciudadana de prevención, dotando a los poderes públicos de instrumentos eficaces en el ámbito educativo, servicios sociales, sanitario, publicitario y mediático.
 
-- Consagrar  derechos  de  las  mujeres  víctimas  de violencia de género, exigibles ante las Administraciones Públicas, y así asegurar un acceso rápido, transparente y eficaz a los servicios establecidos al efecto.
+b) Consagrar derechos de las mujeres víctimas de violencia de género, exigibles ante las Administraciones Públicas, y así asegurar un acceso rápido, transparente y eficaz a los servicios establecidos al efecto.
 
-- Reforzar hasta la consecución de los mínimos exigidos por los objetivos de la ley los servicios sociales de información, de atención, de emergencia, de apoyo y de recuperación  integral,  así  como  establecer  un  sistema para la más eficaz coordinación de los servicios ya existentes a nivel municipal y autonómico.
+c) Reforzar hasta la consecución de los mínimos exigidos por los objetivos de la ley los servicios sociales de información, de atención, de emergencia, de apoyo y de recuperación integral, así como establecer un sistema para la más eficaz coordinación de los servicios ya existentes a nivel municipal y autonómico.
 
-- Garantizar derechos en el ámbito laboral y funcionarial  que  concilien  los  requerimientos  de  la  relación laboral  y  de  empleo  público  con  las  circunstancias  de aquellas trabajadoras o funcionarias que sufran violencia de género.
+d) Garantizar derechos en el ámbito laboral y funcionarial que concilien los requerimientos de la relación laboral y de empleo público con las circunstancias de aquellas trabajadoras o funcionarias que sufran violencia de género.
 
-- Garantizar derechos económicos para las mujeres víctimas de violencia de género, con el fin de facilitar su integración social.
+e) Garantizar derechos económicos para las mujeres víctimas de violencia de género, con el fin de facilitar su integración social.
 
-- Establecer un sistema integral de tutela institucional en el que la Administración General del Estado, a través de la Delegación Especial del Gobierno contra la Violencia sobre la Mujer, en colaboración con el Observatorio Estatal de la Violencia sobre la Mujer, impulse la creación de políticas públicas dirigidas a ofrecer tutela a las víctimas de la violencia contemplada en la presente Ley.
+f) Establecer un sistema integral de tutela institucional en el que la Administración General del Estado, a través de la Delegación Especial del Gobierno contra la Violencia sobre la Mujer, en colaboración con el Observatorio Estatal de la Violencia sobre la Mujer, impulse la creación de políticas públicas dirigidas a ofrecer tutela a las víctimas de la violencia contemplada en la presente Ley.
 
-- Fortalecer el marco penal y procesal vigente para asegurar  una  protección  integral,  desde  las  instancias jurisdiccionales, a las víctimas de violencia de género.
+g) Fortalecer el marco penal y procesal vigente para asegurar una protección integral, desde las instancias jurisdiccionales, a las víctimas de violencia de género.
 
-- Coordinar  los  recursos  e  instrumentos  de  todo tipo  de  los  distintos  poderes  públicos  para  asegurar  la prevención de los hechos de violencia de género y, en su caso, la sanción adecuada a los culpables de los mismos.
+h) Coordinar los recursos e instrumentos de todo tipo de los distintos poderes públicos para asegurar la prevención de los hechos de violencia de género y, en su caso, la sanción adecuada a los culpables de los mismos.
 
-- Promover  la  colaboración  y  participación  de  las entidades,  asociaciones  y  organizaciones  que  desde  la sociedad civil actúan contra la violencia de género.
+i) Promover la colaboración y participación de las entidades, asociaciones y organizaciones que desde la sociedad civil actúan contra la violencia de género.
 
-- Fomentar la especialización de los colectivos profesionales que intervienen en el proceso de información, atención y protección a las víctimas.
+j) Fomentar la especialización de los colectivos profesionales que intervienen en el proceso de información, atención y protección a las víctimas.
 
-- Garantizar  el  principio  de  transversalidad  de  las medidas, de manera que en su aplicación se tengan en cuenta las necesidades y demandas específicas de todas las mujeres víctimas de violencia de género.
+k) Garantizar el principio de transversalidad de las medidas, de manera que en su aplicación se tengan en cuenta las necesidades y demandas específicas de todas las mujeres víctimas de violencia de género.
 
 ## TÍTULO I
 
@@ -186,19 +184,19 @@ A través de esta Ley se articula un conjunto integral de medidas encaminadas a 
 
 #### Artículo 3. Planes de sensibilización.
 
-- Desde la responsabilidad del Gobierno del Estado y de manera inmediata a la entrada en vigor de esta Ley, con la consiguiente dotación presupuestaria, se pondrá en marcha un Plan Nacional de Sensibilización y Prevención de la Violencia de Género que como mínimo recoja los siguientes elementos:
+1. Desde la responsabilidad del Gobierno del Estado y de manera inmediata a la entrada en vigor de esta Ley, con la consiguiente dotación presupuestaria, se pondrá en marcha un Plan Nacional de Sensibilización y Prevención de la Violencia de Género que como mínimo recoja los siguientes elementos:
 
-Que introduzca en el escenario social las nuevas escalas  de  valores  basadas  en  el  respeto  de  los  derechos  y libertades fundamentales y de la igualdad entre hombres y mujeres, así como en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia, todo ello desde la perspectiva de las relaciones de género.
+Que introduzca en el escenario social las nuevas escalas de valores basadas en el respeto de los derechos y libertades fundamentales y de la igualdad entre hombres y mujeres, así como en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia, todo ello desde la perspectiva de las relaciones de género.
 
 Dirigido tanto a hombres como a mujeres, desde un trabajo comunitario e intercultural.
 
-Que  contemple  un  amplio  programa  de  formación complementaria y de reciclaje de los profesionales que intervienen en estas situaciones.
+Que contemple un amplio programa de formación complementaria y de reciclaje de los profesionales que intervienen en estas situaciones.
 
-Controlado por una Comisión de amplia participación, que se creará en un plazo máximo de un mes, en la que se ha de asegurar la presencia de los afectados, las instituciones,  los  profesionales  y  de  personas  de  reconocido prestigio social relacionado con el tratamiento de estos temas.
+Controlado por una Comisión de amplia participación, que se creará en un plazo máximo de un mes, en la que se ha de asegurar la presencia de los afectados, las instituciones, los profesionales y de personas de reconocido prestigio social relacionado con el tratamiento de estos temas.
 
-- Los poderes públicos, en el marco de sus competencias, impulsarán además campañas de información y sensibilización específicas con el fin de prevenir la violencia de género.
+2. Los poderes públicos, en el marco de sus competencias, impulsarán además campañas de información y sensibilización específicas con el fin de prevenir la violencia de género.
 
-- Las  campañas  de  información  y  sensibilización contra esta forma de violencia se realizarán de manera que se garantice el acceso a las mismas de las personas con discapacidad.
+3. Las campañas de información y sensibilización contra esta forma de violencia se realizarán de manera que se garantice el acceso a las mismas de las personas con discapacidad.
 
 ### CAPÍTULO I
 
@@ -206,25 +204,25 @@ Controlado por una Comisión de amplia participación, que se creará en un plaz
 
 #### Artículo 4. Principios y valores del sistema educativo.
 
-- El  sistema  educativo  español  incluirá  entre  sus fines la formación en el respeto de los derechos y libertades  fundamentales  y  de  la  igualdad  entre  hombres  y mujeres, así como en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia.
+1. El sistema educativo español incluirá entre sus fines la formación en el respeto de los derechos y libertades fundamentales y de la igualdad entre hombres y mujeres, así como en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia.
 
-Igualmente,  el  sistema  educativo  español  incluirá, dentro de sus principios de calidad, la eliminación de los obstáculos que dificultan la plena igualdad entre hombres y mujeres y la formación para la prevención de conflictos y para la resolución pacífica de los mismos.
+Igualmente, el sistema educativo español incluirá, dentro de sus principios de calidad, la eliminación de los obstáculos que dificultan la plena igualdad entre hombres y mujeres y la formación para la prevención de conflictos y para la resolución pacífica de los mismos.
 
-- La Educación Infantil contribuirá a desarrollar en la infancia el aprendizaje en la resolución pacífica de conflictos.
+2. La Educación Infantil contribuirá a desarrollar en la infancia el aprendizaje en la resolución pacífica de conflictos.
 
-- La Educación Primaria contribuirá a desarrollar en el alumnado su capacidad para adquirir habilidades en la resolución pacífica de conflictos y para comprender y respetar la igualdad entre sexos.
+3. La Educación Primaria contribuirá a desarrollar en el alumnado su capacidad para adquirir habilidades en la resolución pacífica de conflictos y para comprender y respetar la igualdad entre sexos.
 
-- La Educación Secundaria Obligatoria contribuirá a desarrollar en el alumnado la capacidad para relacionarse con los demás de forma pacífica y para conocer, valorar y respetar  la  igualdad  de  oportunidades  de  hombres  y mujeres.
+4. La Educación Secundaria Obligatoria contribuirá a desarrollar en el alumnado la capacidad para relacionarse con los demás de forma pacífica y para conocer, valorar y respetar la igualdad de oportunidades de hombres y mujeres.
 
-- El Bachillerato y la Formación Profesional contribuirán  a  desarrollar  en  el  alumnado  la  capacidad  para consolidar su madurez personal, social y moral, que les permita actuar de forma responsable y autónoma y para analizar y valorar críticamente las desigualdades de sexo y  fomentar  la  igualdad  real  y  efectiva  entre  hombres  y mujeres.
+5. El Bachillerato y la Formación Profesional contribuirán a desarrollar en el alumnado la capacidad para consolidar su madurez personal, social y moral, que les permita actuar de forma responsable y autónoma y para analizar y valorar críticamente las desigualdades de sexo y fomentar la igualdad real y efectiva entre hombres y mujeres.
 
-- La  Enseñanza para las personas adultas incluirá entre sus objetivos desarrollar actividades en la resolución pacífica de conflictos y fomentar el respeto a la dignidad  de  las  personas  y  a  la  igualdad  entre  hombres  y mujeres.
+6. La Enseñanza para las personas adultas incluirá entre sus objetivos desarrollar actividades en la resolución pacífica de conflictos y fomentar el respeto a la dignidad de las personas y a la igualdad entre hombres y mujeres.
 
-- 7 . Las Universidades incluirán y fomentarán en todos los ámbitos académicos la formación, docencia e investigación  en  igualdad  de  género  y  no  discriminación  de forma transversal.
+7. Las Universidades incluirán y fomentarán en todos los ámbitos académicos la formación, docencia e investigación en igualdad de género y no discriminación de forma transversal.
 
 #### Artículo 5. Escolarización inmediata en caso de violencia de género.
 
-Las Administraciones competentes deberán prever la escolarización inmediata de los hijos que se vean afectados  por  un  cambio  de  residencia  derivada  de  actos  de violencia de género.
+Las Administraciones competentes deberán prever la escolarización inmediata de los hijos que se vean afecta-
 
 [[END OF PAGE 4]]
 
@@ -236,21 +234,23 @@ Miércoles  29  diciembre  2004
 
 BOE núm. 313
 
+dos por un cambio de residencia derivada de actos de violencia de género.
+
 #### Artículo 6. Fomento de la igualdad.
 
 Con  el  fin  de  garantizar  la  efectiva  igualdad  entre hombres  y  mujeres,  las  Administraciones  educativas velarán para que en todos los materiales educativos se eliminen  los  estereotipos  sexistas  o  discriminatorios  y para que fomenten el igual valor de hombres y mujeres.
 
-#### Artículo 7 . Formación inicial y permanente del profesorado.
+#### Artículo 7. Formación inicial y permanente del profesorado.
 
 Las Administraciones educativas adoptarán las medidas necesarias para que en los planes de formación inicial y permanente del profesorado se incluya una formación específica en materia de igualdad, con el fin de asegurar que adquieren los conocimientos y las técnicas necesarias que les habiliten para:
 
-- La educación en el respeto de los derechos y libertades  fundamentales  y  de  la  igualdad  entre  hombres  y mujeres y en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia.
+a) La educación en el respeto de los derechos y libertades fundamentales y de la igualdad entre hombres y mujeres y en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia.
 
 b) La educación en la prevención de conflictos y en la resolución pacífica de los mismos, en todos los ámbitos de la vida personal, familiar y social.
 
-- La detección precoz de la violencia en el ámbito familiar, especialmente sobre la mujer y los hijos e hijas.
+c) La detección precoz de la violencia en el ámbito familiar, especialmente sobre la mujer y los hijos e hijas.
 
-- El fomento de actitudes encaminadas al ejercicio de iguales derechos y obligaciones por parte de mujeres y hombres,  tanto  en  el  ámbito  público  como  privado, y  la  corresponsabilidad  entre  los  mismos  en  el  ámbito doméstico.
+d) El fomento de actitudes encaminadas al ejercicio de iguales derechos y obligaciones por parte de mujeres y hombres, tanto en el ámbito público como privado, y la corresponsabilidad entre los mismos en el ámbito doméstico.
 
 #### Artículo 8. Participación en los Consejos Escolares.
 
@@ -278,9 +278,9 @@ La Delegación Especial del Gobierno contra la Violencia sobre la Mujer , el Ins
 
 #### Artículo 13. Medios de comunicación.
 
-- Las Administraciones Públicas velarán por el cumplimiento estricto de la legislación en lo relativo a la protección  y  salvaguarda  de  los  derechos  fundamentales, con especial atención a la erradicación de conductas favorecedoras de situaciones de desigualdad de las mujeres en todos los medios de comunicación social, de acuerdo con la legislación vigente.
+1. Las Administraciones Públicas velarán por el cumplimiento estricto de la legislación en lo relativo a la protección y salvaguarda de los derechos fundamentales, con especial atención a la erradicación de conductas favorecedoras de situaciones de desigualdad de las mujeres en todos los medios de comunicación social, de acuerdo con la legislación vigente.
 
-- La  Administración  pública  promoverá  acuerdos de  autorregulación  que,  contando  con  mecanismos  de control preventivo y de resolución extrajudicial de controversias eficaces, contribuyan al cumplimiento de la legislación publicitaria.
+2. La Administración pública promoverá acuerdos de autorregulación que, contando con mecanismos de control preventivo y de resolución extrajudicial de controversias eficaces, contribuyan al cumplimiento de la legislación publicitaria.
 
 #### Artículo 14.
 
@@ -294,13 +294,13 @@ La difusión de informaciones relativas a la violencia sobre la mujer garantizar
 
 #### Artículo 15. Sensibilización y formación.
 
-- Las  Administraciones  sanitarias,  en  el  seno  del Consejo  Interterritorial  del  Sistema  Nacional  de  Salud, promoverán e impulsarán actuaciones de los profesionales sanitarios para la detección precoz de la violencia de género y propondrán las medidas que estimen necesarias a fin de optimizar la contribución del sector sanitario en la lucha contra este tipo de violencia.
+1. Las Administraciones sanitarias, en el seno del Consejo Interterritorial del Sistema Nacional de Salud, promoverán e impulsarán actuaciones de los profesionales sanitarios para la detección precoz de la violencia de género y propondrán las medidas que estimen necesarias a fin de optimizar la contribución del sector sanitario en la lucha contra este tipo de violencia.
 
-- En particular, se desarrollarán programas de sensibilización y formación continuada del personal sanitario con el fin de mejorar e impulsar el diagnóstico precoz, la asistencia y la rehabilitación de la mujer en las situaciones de violencia de género a que se refiere esta Ley.
+2. En particular, se desarrollarán programas de sensibilización y formación continuada del personal sanitario con el fin de mejorar e impulsar el diagnóstico precoz, la asistencia y la rehabilitación de la mujer en las situaciones de violencia de género a que se refiere esta Ley.
 
-- Las Administraciones educativas competentes asegurarán que en los ámbitos curriculares de las licenciaturas y diplomaturas, y en los programas de especialización de las profesiones sociosanitarias, se incorporen contenidos dirigidos a la capacitación para la prevención, la detección precoz, intervención y apoyo a las víctimas de esta forma de violencia.
+3. Las Administraciones educativas competentes asegurarán que en los ámbitos curriculares de las licenciaturas y diplomaturas, y en los programas de especialización de las profesiones sociosanitarias, se incorporen contenidos dirigidos a la capacitación para la prevención, la detección precoz, intervención y apoyo a las víctimas de esta forma de violencia.
 
-- En los Planes Nacionales de Salud que procedan se contemplará un apartado de prevención e intervención integral en violencia de género.
+4. En los Planes Nacionales de Salud que procedan se contemplará un apartado de prevención e intervención integral en violencia de género.
 
 [[END OF PAGE 5]]
 
@@ -328,55 +328,55 @@ La Comisión emitirá un informe anual que será remitido al Observatorio Estata
 
 ### Derecho a la información, a la asistencia social integral y a la asistencia jurídica gratuita
 
-#### Artículo 17 . Garantía de los derechos de las víctimas.
+#### Artículo 17. Garantía de los derechos de las víctimas.
 
-- Todas las mujeres víctimas de violencia de género, con independencia de su origen, religión o cualquier otra condición o circunstancia personal o social, tienen garantizados los derechos reconocidos en esta Ley.
+1. Todas las mujeres víctimas de violencia de género, con independencia de su origen, religión o cualquier otra condición o circunstancia personal o social, tienen garantizados los derechos reconocidos en esta Ley.
 
-- La  información,  la  asistencia  social  integral  y  la asistencia jurídica a las víctimas de la violencia de género, en los términos regulados en este capítulo, contribuyen a hacer reales y efectivos sus derechos constitucionales a la integridad  física  y  moral,  a  la  libertad  y  seguridad  y  a la igualdad y no discriminación por razón de sexo.
+2. La información, la asistencia social integral y la asistencia jurídica a las víctimas de la violencia de género, en los términos regulados en este capítulo, contribuyen a hacer reales y efectivos sus derechos constitucionales a la integridad física y moral, a la libertad y seguridad y a la igualdad y no discriminación por razón de sexo.
 
 #### Artículo 18. Derecho a la información.
 
-- Las mujeres víctimas de violencia de género tienen derecho a recibir plena información y asesoramiento adecuado a su situación personal, a través de los servicios,  organismos  u  oficinas  que  puedan  disponer  las Administraciones Públicas.
+1. Las mujeres víctimas de violencia de género tienen derecho a recibir plena información y asesoramiento adecuado a su situación personal, a través de los servicios, organismos u oficinas que puedan disponer las Administraciones Públicas.
 
 Dicha información comprenderá las medidas contempladas en esta Ley relativas a su protección y seguridad, y los derechos y ayudas previstos en la misma, así como la referente al lugar de prestación de los servicios de atención, emergencia, apoyo y recuperación integral.
 
-- Se garantizará, a través de los medios necesarios, que las mujeres con discapacidad víctimas de violencia de género tengan acceso integral a la información sobre sus derechos y sobre los recursos existentes. Esta información  deberá  ofrecerse  en  formato  accesible  y  comprensible  a  las  personas  con  discapacidad,  tales  como lengua  de  signos  u  otras  modalidades  u  opciones  de comunicación, incluidos los sistemas alternativos y aumentativos.
+2. Se garantizará, a través de los medios necesarios, que las mujeres con discapacidad víctimas de violencia de género tengan acceso integral a la información sobre sus derechos y sobre los recursos existentes. Esta información deberá ofrecerse en formato accesible y comprensible a las personas con discapacidad, tales como lengua de signos u otras modalidades u opciones de comunicación, incluidos los sistemas alternativos y aumentativos.
 
-- Asimismo, se articularán los medios necesarios para que las mujeres víctimas de violencia de género que por sus circunstancias personales y sociales puedan tener una mayor dificultad para el acceso integral a la información, tengan garantizado el ejercicio efectivo de este derecho.
+3. Asimismo, se articularán los medios necesarios para que las mujeres víctimas de violencia de género que por sus circunstancias personales y sociales puedan tener una mayor dificultad para el acceso integral a la información, tengan garantizado el ejercicio efectivo de este derecho.
 
 #### Artículo 19. Derecho a la asistencia social integral.
 
-- Las mujeres víctimas de violencia de género tienen derecho a servicios sociales de atención, de emergencia,  de  apoyo  y  acogida  y  de  recuperación  integral.  La organización de estos servicios por parte de las Comunidades Autónomas y las Corporaciones Locales, responderá a los principios de atención permanente, actuación urgente,  especialización  de  prestaciones  y  multidisciplinariedad profesional.
+1. Las mujeres víctimas de violencia de género tienen derecho a servicios sociales de atención, de emergencia, de apoyo y acogida y de recuperación integral. La organización de estos servicios por parte de las Comunidades Autónomas y las Corporaciones Locales, responderá a los principios de atención permanente, actuación urgente, especialización de prestaciones y multidisciplinariedad profesional.
 
-- La  atención  multidisciplinar  implicará  especialmente:
+2. La atención multidisciplinar implicará especialmente:
 
-- Información a las víctimas.
+a) Información a las víctimas.
 
-- Atención psicológica.
+b) Atención psicológica.
 
-- Apoyo social.
+c) Apoyo social.
 
-- Seguimiento  de  las  reclamaciones  de  los  derechos de la mujer.
+d) Seguimiento de las reclamaciones de los derechos de la mujer.
 
-- Apoyo educativo a la unidad familiar.
+e) Apoyo educativo a la unidad familiar.
 
-- Formación preventiva en los valores de igualdad dirigida  a  su  desarrollo  personal  y  a  la  adquisición  de habilidades en la resolución no violenta de conflictos.
+f) Formación preventiva en los valores de igualdad dirigida a su desarrollo personal y a la adquisición de habilidades en la resolución no violenta de conflictos.
 
-- Apoyo a la formación e inserción laboral.
+g) Apoyo a la formación e inserción laboral.
 
-- Los  servicios  adoptarán  fórmulas  organizativas que, por la especialización de su personal, por sus características  de  convergencia  e  integración  de  acciones, garanticen la efectividad de los indicados principios.
+3. Los servicios adoptarán fórmulas organizativas que, por la especialización de su personal, por sus características de convergencia e integración de acciones, garanticen la efectividad de los indicados principios.
 
-- Estos  servicios  actuarán  coordinadamente  y  en colaboración con los Cuerpos de Seguridad, los Jueces de Violencia sobre la Mujer, los servicios sanitarios y las instituciones encargadas de prestar asistencia jurídica a las  víctimas,  del  ámbito  geográfico  correspondiente. Estos servicios podrán solicitar al Juez las medidas urgentes que consideren necesarias.
+4. Estos servicios actuarán coordinadamente y en colaboración con los Cuerpos de Seguridad, los Jueces de Violencia sobre la Mujer, los servicios sanitarios y las instituciones encargadas de prestar asistencia jurídica a las víctimas, del ámbito geográfico correspondiente. Estos servicios podrán solicitar al Juez las medidas urgentes que consideren necesarias.
 
-- También  tendrán  derecho  a  la  asistencia  social integral a través de estos servicios sociales los menores que se encuentren bajo la patria potestad o guarda y custodia de la persona agredida. A estos efectos, los servicios  sociales  deberán  contar  con  personal  específicamente formado para atender a los menores, con el fin de prevenir y evitar de forma eficaz las situaciones que puedan comportar daños psíquicos y físicos a los menores que viven en entornos familiares donde existe violencia de género.
+5. También tendrán derecho a la asistencia social integral a través de estos servicios sociales los menores que se encuentren bajo la patria potestad o guarda y custodia de la persona agredida. A estos efectos, los servicios sociales deberán contar con personal específicamente formado para atender a los menores, con el fin de prevenir y evitar de forma eficaz las situaciones que puedan comportar daños psíquicos y físicos a los menores que viven en entornos familiares donde existe violencia de género.
 
-- En los instrumentos y procedimientos de cooperación  entre  la  Administración  General  del  Estado  y  la Administración  de  las  Comunidades Autónomas  en  las materias reguladas en este artículo, se incluirán compromisos  de  aportación,  por  parte  de  la  Administración General  del  Estado,  de  recursos  financieros  referidos específicamente a la prestación de los servicios.
+6. En los instrumentos y procedimientos de cooperación entre la Administración General del Estado y la Administración de las Comunidades Autónomas en las materias reguladas en este artículo, se incluirán compromisos de aportación, por parte de la Administración General del Estado, de recursos financieros referidos específicamente a la prestación de los servicios.
 
-- 7 . Los organismos de igualdad orientarán y valorarán los programas y acciones que se lleven a cabo y emitirán recomendaciones para su mejora.
+7. Los organismos de igualdad orientarán y valorarán los programas y acciones que se lleven a cabo y emitirán recomendaciones para su mejora.
 
 #### Artículo 20. Asistencia jurídica.
 
-- Las mujeres víctimas de violencia de género que acrediten insuficiencia de recursos para litigar, en los términos establecidos en la Ley 1/1996, de 10 enero, de Asistencia  Jurídica  Gratuita,  tienen  derecho  a  la  defensa  y representación  gratuitas  por  Abogado  y  Procurador  en todos los procesos y procedimientos administrativos que tengan causa directa o indirecta en la violencia padecida. En estos supuestos una misma dirección letrada asumirá la defensa de la víctima. Este derecho asistirá también a los causahabientes en caso de fallecimiento de la víctima. En todo caso, se garantizará la defensa jurídica, gratuita y especializada de forma inmediata a todas las víctimas de violencia de género que lo soliciten, sin perjuicio de que si  no  se  les  reconoce  con  posterioridad  el  derecho  a  la asistencia jurídica gratuita, éstas deberán abonar al abogado los honorarios devengados por su intervención.
+1. Las mujeres víctimas de violencia de género que acrediten insuficiencia de recursos para litigar, en los términos establecidos en la Ley 1/1996, de 10 enero, de Asistencia Jurídica Gratuita, tienen derecho a la defensa y representación gratuitas por Abogado y Procurador en todos los procesos y procedimientos administrativos que tengan causa directa o indirecta en la violencia padecida. En estos supuestos una misma dirección letrada asumirá la defensa de la víctima. Este derecho asistirá también a los causahabientes en caso de fallecimiento de la víctima. En todo caso, se garantizará la defensa jurídica, gratuita y especializada de forma inmediata a todas las víctimas de violencia de género que lo soliciten, sin perjuicio de que si no se les reconoce con posterioridad el derecho a la asistencia jurídica gratuita, éstas deberán abonar al abogado los honorarios devengados por su intervención.
 
 [[END OF PAGE 6]]
 
@@ -388,11 +388,11 @@ Miércoles  29  diciembre  2004
 
 BOE núm. 313
 
-- En  todo  caso,  cuando  se  trate  de  garantizar  la defensa y asistencia jurídica a las víctimas de violencia de género, se procederá de conformidad con lo dispuesto en la  Ley  1/1996,  de  10  enero,  de  Asistencia  Jurídica  Gratuita.
+2. En todo caso, cuando se trate de garantizar la defensa y asistencia jurídica a las víctimas de violencia de género, se procederá de conformidad con lo dispuesto en la Ley 1/1996, de 10 enero, de Asistencia Jurídica Gratuita.
 
-- Los Colegios de Abogados, cuando exijan para el ejercicio  del  turno  de  oficio  cursos  de  especialización, asegurarán  una  formación  específica  que  coadyuve  al ejercicio profesional de una defensa eficaz en materia de violencia de género.
+3. Los Colegios de Abogados, cuando exijan para el ejercicio del turno de oficio cursos de especialización, asegurarán una formación específica que coadyuve al ejercicio profesional de una defensa eficaz en materia de violencia de género.
 
-- Igualmente, los Colegios de Abogados adoptarán las  medidas  necesarias  para  la  designación  urgente  de letrado de oficio en los procedimientos que se sigan por violencia de género.
+4. Igualmente, los Colegios de Abogados adoptarán las medidas necesarias para la designación urgente de letrado de oficio en los procedimientos que se sigan por violencia de género.
 
 ### CAPÍTULO II
 
@@ -400,11 +400,11 @@ BOE núm. 313
 
 #### Artículo 21. Derechos laborales y de Seguridad Social.
 
-- La trabajadora víctima de violencia de género tendrá derecho, en los términos previstos en el Estatuto de los  Trabajadores, a la reducción o a la reordenación de su tiempo de trabajo, a la movilidad geográfica, al cambio de centro de trabajo, a la suspensión de la relación laboral con reserva de puesto de trabajo y a la extinción del contrato de trabajo.
+1. La trabajadora víctima de violencia de género tendrá derecho, en los términos previstos en el Estatuto de los Trabajadores, a la reducción o a la reordenación de su tiempo de trabajo, a la movilidad geográfica, al cambio de centro de trabajo, a la suspensión de la relación laboral con reserva de puesto de trabajo y a la extinción del contrato de trabajo.
 
-- En los términos previstos en la Ley General de la Seguridad  Social,  la  suspensión  y  la  extinción  del  contrato  de  trabajo  previstas  en  el  apartado  anterior  darán lugar a situación legal de desempleo. El tiempo de suspensión se considerará como período de cotización efectiva a efectos de las prestaciones de Seguridad Social y de desempleo.
+2. En los términos previstos en la Ley General de la Seguridad Social, la suspensión y la extinción del contrato de trabajo previstas en el apartado anterior darán lugar a situación legal de desempleo. El tiempo de suspensión se considerará como período de cotización efectiva a efectos de las prestaciones de Seguridad Social y de desempleo.
 
-- Las empresas que formalicen contratos de interinidad para sustituir a trabajadoras víctimas de violencia de género que hayan suspendido su contrato de trabajo o ejercitado su derecho a la movilidad geográfica o al cambio de centro de trabajo, tendrán derecho a una bonificación  del  100  por  100  de  las  cuotas  empresariales  a  la Seguridad  Social  por  contingencias  comunes,  durante todo el período de suspensión de la trabajadora sustituida o durante seis meses en los supuestos de movilidad geográfica  o  cambio  de  centro  de  trabajo.  Cuando  se  produzca la reincorporación, ésta se realizará en las mismas condiciones existentes en el momento de la suspensión del contrato de trabajo.
+3. Las empresas que formalicen contratos de interinidad para sustituir a trabajadoras víctimas de violencia de género que hayan suspendido su contrato de trabajo o ejercitado su derecho a la movilidad geográfica o al cambio de centro de trabajo, tendrán derecho a una bonificación del 100 por 100 de las cuotas empresariales a la Seguridad Social por contingencias comunes, durante todo el período de suspensión de la trabajadora sustituida o durante seis meses en los supuestos de movilidad geográfica o cambio de centro de trabajo. Cuando se produzca la reincorporación, ésta se realizará en las mismas condiciones existentes en el momento de la suspensión del contrato de trabajo.
 
 4. Las  ausencias  o  faltas  de  puntualidad  al  trabajo motivadas por la situación física o psicológica derivada de  la  violencia  de  género  se  considerarán  justificadas, cuando así lo determinen los servicios sociales de atención o servicios de salud, según proceda, sin perjuicio de que dichas ausencias sean comunicadas por la trabajadora a la empresa a la mayor brevedad.
 
@@ -442,13 +442,13 @@ La acreditación de las circunstancias que dan lugar al reconocimiento de los de
 
 ### Derechos económicos
 
-#### Artículo 27 . Ayudas sociales.
+#### Artículo 27. Ayudas sociales.
 
-- Cuando las víctimas de violencia de género careciesen de rentas superiores, en cómputo mensual, al 75 por 100 del salario mínimo interprofesional, excluida la parte proporcional de dos pagas extraordinarias, recibirán una ayuda de pago único, siempre que se presuma que  debido  a  su  edad,  falta  de  preparación  general  o especializada y circunstancias sociales, la víctima tendrá especiales  dificultades  para  obtener  un  empleo  y  por dicha  circunstancia  no  participará  en  los  programas  de empleo establecidos para su inserción profesional.
+1. Cuando las víctimas de violencia de género careciesen de rentas superiores, en cómputo mensual, al 75 por 100 del salario mínimo interprofesional, excluida la parte proporcional de dos pagas extraordinarias, recibirán una ayuda de pago único, siempre que se presuma que debido a su edad, falta de preparación general o especializada y circunstancias sociales, la víctima tendrá especiales dificultades para obtener un empleo y por dicha circunstancia no participará en los programas de empleo establecidos para su inserción profesional.
 
-- El  importe  de  esta  ayuda  será  equivalente  al  de seis meses de subsidio por desempleo. Cuando la víctima de la violencia ejercida contra la mujer tuviera reconocida oficialmente una minusvalía en grado igual o superior al 33 por 100, el importe sería equivalente a 12 meses de subsidio por desempleo.
+2. El importe de esta ayuda será equivalente al de seis meses de subsidio por desempleo. Cuando la víctima de la violencia ejercida contra la mujer tuviera reconocida oficialmente una minusvalía en grado igual o superior al 33 por 100, el importe sería equivalente a 12 meses de subsidio por desempleo.
 
-- Estas ayudas, financiadas con cargo a los Presupuestos Generales del Estado, serán concedidas por las Administraciones  competentes  en  materia  de  servicios sociales.  En  la  tramitación  del  procedimiento  de  concesión, deberá incorporarse informe del Servicio Público de
+3. Estas ayudas, financiadas con cargo a los Presupuestos Generales del Estado, serán concedidas por las Administraciones competentes en materia de servicios sociales. En la tramitación del procedimiento de concesión, deberá incorporarse informe del Servicio Público de
 
 [[END OF PAGE 7]]
 
@@ -466,7 +466,7 @@ La concurrencia de las circunstancias de violencia se acreditará de conformidad
 
 4. En el caso de que la víctima tenga responsabilidades familiares, su importe podrá alcanzar el de un período equivalente al de 18 meses de subsidio, o de 24 meses si la víctima o alguno de los familiares que conviven con ella tiene  reconocida  oficialmente  una  minusvalía  en  grado igual o superior al 33 por 100, en los términos que establezcan  las  disposiciones  de  desarrollo  de  la  presente Ley.
 
-- Estas ayudas serán compatibles con cualquiera de las  previstas  en  la  Ley  35/1995,  de  1 1  de  diciembre,  de Ayudas y Asistencia a las Víctimas de Delitos Violentos y contra la Libertad Sexual.
+5. Estas ayudas serán compatibles con cualquiera de las previstas en la Ley 35/1995, de 11 de diciembre, de Ayudas y Asistencia a las Víctimas de Delitos Violentos y contra la Libertad Sexual.
 
 #### Artículo 28. Acceso a la vivienda y residencias públicas para mayores.
 
@@ -478,39 +478,39 @@ Las  mujeres  víctimas  de  violencia  de  género  serán consideradas colecti
 
 #### Artículo 29. La Delegación Especial del Gobierno contra la Violencia sobre la Mujer.
 
-- La Delegación Especial del Gobierno contra la Violencia sobre la Mujer, adscrito al Ministerio de Trabajo y Asuntos Sociales, formulará las políticas públicas en relación  con  la  violencia  de  género  a  desarrollar  por  el Gobierno, y coordinará e impulsará cuantas acciones se realicen en dicha materia, trabajando en colaboración y coordinación con las Administraciones con competencia en la materia.
+1. La Delegación Especial del Gobierno contra la Violencia sobre la Mujer, adscrito al Ministerio de Trabajo y Asuntos Sociales, formulará las políticas públicas en relación con la violencia de género a desarrollar por el Gobierno, y coordinará e impulsará cuantas acciones se realicen en dicha materia, trabajando en colaboración y coordinación con las Administraciones con competencia en la materia.
 
-2. El titular de la Delegación Especial del Gobierno contra la Violencia sobre la Mujer estará legitimado ante los órganos jurisdiccionales para intervenir en defensa de los derechos y de los intereses tutelados en esta Ley en colaboración  y  coordinación  con  las  Administraciones con competencias en la materia.
+2. El titular de la Delegación Especial del Gobierno contra la Violencia sobre la Mujer estará legitimado ante los órganos jurisdiccionales para intervenir en defensa de los derechos y de los intereses tutelados en esta Ley en colaboración y coordinación con las Administraciones con competencias en la materia.
 
-- Reglamentariamente  se  determinará  el  rango  y las funciones concretas del titular de la Delegación Especial del Gobierno contra la Violencia sobre la Mujer.
+3. Reglamentariamente se determinará el rango y las funciones concretas del titular de la Delegación Especial del Gobierno contra la Violencia sobre la Mujer.
 
 #### Artículo  30. Observatorio  Estatal  de Violencia  sobre  la Mujer.
 
 1. Se constituirá el Observatorio Estatal de Violencia sobre la Mujer, como órgano colegiado adscrito al Ministerio de  Trabajo y Asuntos Sociales, al que corresponderá el asesoramiento, evaluación, colaboración institucional, elaboración  de  informes  y  estudios,  y  propuestas  de actuación en materia de violencia de género. Estos informes, estudios y propuestas considerarán de forma especial la situación de las mujeres con mayor riesgo de sufrir violencia de género o con mayores dificultades para acceder a los servicios. En cualquier caso, los datos contenidos en dichos informes, estudios y propuestas se consignarán desagregados por sexo.
 
-- El Observatorio Estatal de Violencia sobre la Mujer remitirá  al  Gobierno  y  a  las  Comunidades  Autónomas, con periodicidad anual, un informe sobre la evolución de la violencia ejercida sobre la mujer en los términos a que
+2. El Observatorio Estatal de Violencia sobre la Mujer remitirá al Gobierno y a las Comunidades Autónomas, con periodicidad anual, un informe sobre la evolución de la violencia ejercida sobre la mujer en los términos a que
 
 se refiere el artículo 1 de la presente Ley, con determinación de los tipos penales que se hayan aplicado, y de la efectividad de las medidas acordadas para la protección de las víctimas. El informe destacará asimismo las necesidades de reforma legal con objeto de garantizar que la aplicación de las medidas de protección adoptadas puedan asegurar el máximo nivel de tutela para las mujeres.
 
-- Reglamentariamente  se  determinarán  sus  funciones,  su  régimen  de  funcionamiento  y  su  composición, en la que se garantizará, en todo caso, la participación  de  las  Comunidades  Autónomas,  las  entidades locales, los agentes sociales, las asociaciones de consumidores y usuarios, y las organizaciones de mujeres con  implantación  en  todo  el  territorio  del  Estado  así como de las organizaciones empresariales y sindicales más representativas.
+3. Reglamentariamente se determinarán sus funciones, su régimen de funcionamiento y su composición, en la que se garantizará, en todo caso, la participación de las Comunidades Autónomas, las entidades locales, los agentes sociales, las asociaciones de consumidores y usuarios, y las organizaciones de mujeres con implantación en todo el territorio del Estado así como de las organizaciones empresariales y sindicales más representativas.
 
 #### Artículo 31. Fuerzas y Cuerpos de Seguridad.
 
-- El Gobierno establecerá, en las Fuerzas y Cuerpos de Seguridad del Estado, unidades especializadas en la prevención de la violencia de género y en el control de la ejecución de las medidas judiciales adoptadas.
+1. El Gobierno establecerá, en las Fuerzas y Cuerpos de Seguridad del Estado, unidades especializadas en la prevención de la violencia de género y en el control de la ejecución de las medidas judiciales adoptadas.
 
-- El  Gobierno, con el fin de hacer más efectiva la protección  de  las  víctimas,  promoverá  las  actuaciones necesarias para que las Policías Locales, en el marco de su colaboración con las Fuerzas y Cuerpos de Seguridad del Estado, cooperen en asegurar el cumplimiento de las medidas  acordadas  por  los  órganos  judiciales  cuando éstas sean algunas de las previstas en la presente Ley o en el artículo 544 bis de la Ley de Enjuiciamiento Criminal o en el artículo 57 del Código Penal.
+2. El Gobierno, con el fin de hacer más efectiva la protección de las víctimas, promoverá las actuaciones necesarias para que las Policías Locales, en el marco de su colaboración con las Fuerzas y Cuerpos de Seguridad del Estado, cooperen en asegurar el cumplimiento de las medidas acordadas por los órganos judiciales cuando éstas sean algunas de las previstas en la presente Ley o en el artículo 544 bis de la Ley de Enjuiciamiento Criminal o en el artículo 57 del Código Penal.
 
-- La actuación de las Fuerzas y Cuerpos de Seguridad habrá de tener en cuenta el Protocolo de Actuación de las  Fuerzas  y  Cuerpos  de  Seguridad  y  de  Coordinación con los Órganos Judiciales para la protección de la violencia doméstica y de género.
+3. La actuación de las Fuerzas y Cuerpos de Seguridad habrá de tener en cuenta el Protocolo de Actuación de las Fuerzas y Cuerpos de Seguridad y de Coordinación con los Órganos Judiciales para la protección de la violencia doméstica y de género.
 
-- Lo dispuesto en el presente artículo será de aplicación  en  las  Comunidades Autónomas  que  cuenten  con cuerpos de policía que desarrollen las funciones de protección de las personas y bienes y el mantenimiento del orden y la seguridad ciudadana dentro del territorio autónomo, en los términos previstos en sus Estatutos, en la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, y en sus leyes de policía, y todo ello con la finalidad de hacer más efectiva la protección de las víctimas.
+4. Lo dispuesto en el presente artículo será de aplicación en las Comunidades Autónomas que cuenten con cuerpos de policía que desarrollen las funciones de protección de las personas y bienes y el mantenimiento del orden y la seguridad ciudadana dentro del territorio autónomo, en los términos previstos en sus Estatutos, en la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, y en sus leyes de policía, y todo ello con la finalidad de hacer más efectiva la protección de las víctimas.
 
 #### Artículo 32. Planes de colaboración.
 
-- Los poderes públicos elaborarán planes de colaboración que garanticen la ordenación de sus actuaciones en la prevención, asistencia y persecución de los actos de violencia de género, que deberán implicar a las Administraciones  sanitarias,  la  Administración  de  Justicia,  las Fuerzas y Cuerpos de Seguridad y los servicios sociales y organismos de igualdad.
+1. Los poderes públicos elaborarán planes de colaboración que garanticen la ordenación de sus actuaciones en la prevención, asistencia y persecución de los actos de violencia de género, que deberán implicar a las Administraciones sanitarias, la Administración de Justicia, las Fuerzas y Cuerpos de Seguridad y los servicios sociales y organismos de igualdad.
 
-- En desarrollo de dichos planes, se articularán protocolos de actuación que determinen los procedimientos que aseguren una actuación global e integral de las distintas administraciones y servicios implicados, y que garanticen  la  actividad  probatoria  en  los  procesos  que  se sigan.
+2. En desarrollo de dichos planes, se articularán protocolos de actuación que determinen los procedimientos que aseguren una actuación global e integral de las distintas administraciones y servicios implicados, y que garanticen la actividad probatoria en los procesos que se sigan.
 
-- Las  Administraciones  con  competencias  sanitarias promoverán la aplicación, permanente actualización y difusión de protocolos que contengan pautas uniformes de actuación sanitaria, tanto en el ámbito público como privado, y en especial, del Protocolo aprobado por el Consejo Interterritorial del Sistema Nacional de Salud.
+3. Las Administraciones con competencias sanitarias promoverán la aplicación, permanente actualización y difusión de protocolos que contengan pautas uniformes de actuación sanitaria, tanto en el ámbito público como privado, y en especial, del Protocolo aprobado por el Consejo Interterritorial del Sistema Nacional de Salud.
 
 Tales  protocolos  impulsarán  las  actividades  de  prevención, detección precoz e intervención continuada con la mujer sometida a violencia de género o en riesgo de padecerla.
 
@@ -566,17 +566,17 @@ Se  modifica  el  artículo  148  del  Código  Penal  que queda redactado de la
 
 - 5.º Si  la  víctima  fuera  una  persona  especialmente vulnerable que conviva con el autor.»
 
-#### Artículo 37 . Protección contra los malos tratos.
+#### Artículo 37. Protección contra los malos tratos.
 
 El  artículo  153  del  Código  Penal,  queda  redactado como sigue:
 
 «1. El que por cualquier medio o procedimiento causare a otro menoscabo psíquico o una lesión no definidos como delito en este Código, o golpeare o maltratare de obra a otro sin causarle lesión, cuando la ofendida sea o haya sido esposa, o mujer que esté o haya estado ligada a él por una análoga relación de afectividad aun sin convivencia, o persona especialmente vulnerable que conviva con el autor, será castigado con la pena de prisión de seis meses a un año o de trabajos en beneficios de la comunidad de treinta y uno a ochenta días y, en todo caso, privación del derecho a la tenencia y porte de armas de un año y un día a tres años, así como, cuando el Juez  o Tribunal  lo  estime  adecuado  al  interés  del menor o incapaz, inhabilitación para el ejercicio de patria  potestad,  tutela,  curatela,  guarda  o  acogimiento hasta cinco años.
 
-- Si la víctima del delito previsto en el apartado anterior fuere alguna de las personas a que se refiere el artículo 173.2, exceptuadas las personas contempladas  en  el  apartado  anterior  de  este  artículo,  el autor será castigado con la pena de prisión de tres meses  a  un  año  o  de  trabajos  en  beneficio  de  la comunidad de treinta y uno a ochenta días y, en todo caso, privación del derecho a la tenencia y porte de armas  de  un  año  y  un  día  a  tres  años,  así  como, cuando el Juez o  Tribunal lo estime adecuado al interés del menor o incapaz, inhabilitación para el ejercicio de patria potestad, tutela, curatela, guarda o acogimiento de seis meses a tres años.
+2. Si la víctima del delito previsto en el apartado anterior fuere alguna de las personas a que se refiere el artículo 173.2, exceptuadas las personas contempladas en el apartado anterior de este artículo, el autor será castigado con la pena de prisión de tres meses a un año o de trabajos en beneficio de la comunidad de treinta y uno a ochenta días y, en todo caso, privación del derecho a la tenencia y porte de armas de un año y un día a tres años, así como, cuando el Juez o Tribunal lo estime adecuado al interés del menor o incapaz, inhabilitación para el ejercicio de patria potestad, tutela, curatela, guarda o acogimiento de seis meses a tres años.
 
-- Las penas previstas en los apartados 1 y 2 se impondrán en su mitad superior cuando el delito se perpetre  en  presencia  de  menores,  o  utilizando armas, o tenga lugar en el domicilio común o en el domicilio de la víctima, o se realicen quebrantando una pena de las contempladas en el artículo 48 de este Código o una medida cautelar o de seguridad de la misma naturaleza.
+3. Las penas previstas en los apartados 1 y 2 se impondrán en su mitad superior cuando el delito se perpetre en presencia de menores, o utilizando armas, o tenga lugar en el domicilio común o en el domicilio de la víctima, o se realicen quebrantando una pena de las contempladas en el artículo 48 de este Código o una medida cautelar o de seguridad de la misma naturaleza.
 
-- No  obstante  lo  previsto  en  los  apartados anteriores, el Juez o Tribunal, razonándolo en sentencia, en atención a las circunstancias personales del  autor  y  las  concurrentes  en  la  realización  del hecho, podrá imponer la pena inferior en grado.»
+4. No obstante lo previsto en los apartados anteriores, el Juez o Tribunal, razonándolo en sentencia, en atención a las circunstancias personales del autor y las concurrentes en la realización del hecho, podrá imponer la pena inferior en grado.»
 
 #### Artículo 38. Protección contra las amenazas.
 
@@ -602,7 +602,7 @@ Igual  pena  se  impondrá  al  que  de  modo  leve amenace a una persona especi
 
 Se impondrán las penas previstas en los apartados 4 y 5, en su mitad superior cuando el delito se perpetre en presencia de menores, o tenga lugar en el domicilio común o en el domicilio de la víctima, o se realice quebrantando una pena de las contempladas en el artículo 48 de este Código o una medida cautelar o de seguridad de la misma naturaleza.
 
-- No obstante lo previsto en los apartados 4 y 5, el Juez o Tribunal, razonándolo en sentencia, en atención a las circunstancias personales del autor y a  las  concurrentes  en  la  realización  del  hecho, podrá imponer la pena inferior en grado.»
+6. No obstante lo previsto en los apartados 4 y 5, el Juez o Tribunal, razonándolo en sentencia, en atención a las circunstancias personales del autor y a las concurrentes en la realización del hecho, podrá imponer la pena inferior en grado.»
 
 #### Artículo 39. Protección contra las coacciones.
 
@@ -622,7 +622,7 @@ Se  modifica  el  artículo  468  del  Código  Penal  que queda redactado de la
 
 «1. Los que quebrantaren su condena, medida de seguridad, prisión, medida cautelar, conducción o custodia serán castigados con la pena de prisión de seis meses a un año si estuvieran privados de libertad, y con la pena de multa de doce a veinticuatro meses en los demás casos.
 
-- Se impondrá en todo caso la pena de prisión de seis meses a un año a los que quebrantaren una pena de las contempladas en el artículo 48 de este Código o una medida cautelar o de seguridad de la misma naturaleza impuestas en procesos criminales en los que el ofendido sea alguna de las personas a las que se refiere el artículo 173.2.»
+2. Se impondrá en todo caso la pena de prisión de seis meses a un año a los que quebrantaren una pena de las contempladas en el artículo 48 de este Código o una medida cautelar o de seguridad de la misma naturaleza impuestas en procesos criminales en los que el ofendido sea alguna de las personas a las que se refiere el artículo 173.2.»
 
 #### Artículo 41. Protección contra las vejaciones leves.
 
@@ -640,9 +640,9 @@ En los supuestos del número 2.º de este artículo, cuando el ofendido fuere al
 
 #### Artículo 42. Administración penitenciaria.
 
-- La Administración penitenciaria realizará programas  específicos  para  internos  condenados  por  delitos relacionados con la violencia de género.
+1. La Administración penitenciaria realizará programas específicos para internos condenados por delitos relacionados con la violencia de género.
 
-- Las Juntas de Tratamiento valorarán, en las progresiones de grado, concesión de permisos y concesión de  la  libertad  condicional,  el  seguimiento  y  aprovechamiento de dichos programas específicos por parte de los internos a que se refiere el apartado anterior.
+2. Las Juntas de Tratamiento valorarán, en las progresiones de grado, concesión de permisos y concesión de la libertad condicional, el seguimiento y aprovechamiento de dichos programas específicos por parte de los internos a que se refiere el apartado anterior.
 
 ## TÍTULO V
 
@@ -668,11 +668,11 @@ BOE núm. 313
 
 «1. En cada partido habrá uno o más Juzgados de Violencia sobre la Mujer, con sede en la capital de aquél  y  jurisdicción  en  todo  su  ámbito  territorial. Tomarán su designación del municipio de su sede.
 
-- No obstante lo anterior, podrán establecerse, excepcionalmente,  Juzgados  de Violencia  sobre  la Mujer  que  extiendan  su  jurisdicción  a  dos  o  más partidos dentro de la misma provincia.
+2. No obstante lo anterior, podrán establecerse, excepcionalmente, Juzgados de Violencia sobre la Mujer que extiendan su jurisdicción a dos o más partidos dentro de la misma provincia.
 
-- El Consejo General del Poder Judicial podrá acordar,  previo  informe  de  las  Salas  de  Gobierno, que, en aquellas circunscripciones donde sea conveniente en función de la carga de trabajo existente, el conocimiento de los asuntos referidos en el artículo 87 ter de la presente Ley Orgánica, corresponda a uno de los Juzgados de Primera Instancia e Instrucción, o de Instrucción en su caso, determinándose en  esta  situación  que  uno  solo  de  estos  Órganos conozca de todos estos asuntos dentro del partido judicial,  ya  sea  de  forma  exclusiva  o  conociendo también de otras materias.
+3. El Consejo General del Poder Judicial podrá acordar, previo informe de las Salas de Gobierno, que, en aquellas circunscripciones donde sea conveniente en función de la carga de trabajo existente, el conocimiento de los asuntos referidos en el artículo 87 ter de la presente Ley Orgánica, corresponda a uno de los Juzgados de Primera Instancia e Instrucción, o de Instrucción en su caso, determinándose en esta situación que uno solo de estos Órganos conozca de todos estos asuntos dentro del partido judicial, ya sea de forma exclusiva o conociendo también de otras materias.
 
-- En  los  partidos  judiciales  en  que  exista  un solo Juzgado de Primera Instancia e Instrucción será éste el que asuma el conocimiento de los asuntos a que se refiere el artículo 87 ter de esta Ley.»
+4. En los partidos judiciales en que exista un solo Juzgado de Primera Instancia e Instrucción será éste el que asuma el conocimiento de los asuntos a que se refiere el artículo 87 ter de esta Ley.»
 
 #### Artículo 44. Competencia.
 
@@ -680,43 +680,43 @@ Se adiciona un artículo 87 ter en la Ley Orgánica 6/1985, de 1 de julio, del P
 
 «1. Los  Juzgados  de Violencia  sobre  la  Mujer conocerán,  en  el  orden  penal,  de  conformidad  en todo caso con los procedimientos y recursos previstos  en  la  Ley  de  Enjuiciamiento  Criminal,  de  los siguientes supuestos:
 
-- De la instrucción de los procesos para exigir  responsabilidad  penal  por  los  delitos  recogidos  en  los  títulos  del  Código  Penal  relativos  a homicidio, aborto, lesiones, lesiones al feto, delitos contra la libertad, delitos contra la integridad moral, contra la libertad e indemnidad sexuales o cualquier otro delito cometido con violencia o intimidación, siempre que se hubiesen cometido contra quien sea o haya sido su esposa, o mujer que esté  o  haya  estado  ligada  al  autor  por  análoga relación  de  afectividad,  aun  sin  convivencia,  así como de los cometidos sobre los descendientes, propios o de la esposa o conviviente, o sobre los menores o incapaces que con él convivan o que se hallen sujetos a la potestad, tutela, curatela, acogimiento o guarda de hecho de la esposa o conviviente, cuando también se haya producido un acto de violencia de género.
+a) De la instrucción de los procesos para exigir responsabilidad penal por los delitos recogidos en los títulos del Código Penal relativos a homicidio, aborto, lesiones, lesiones al feto, delitos contra la libertad, delitos contra la integridad moral, contra la libertad e indemnidad sexuales o cualquier otro delito cometido con violencia o intimidación, siempre que se hubiesen cometido contra quien sea o haya sido su esposa, o mujer que esté o haya estado ligada al autor por análoga relación de afectividad, aun sin convivencia, así como de los cometidos sobre los descendientes, propios o de la esposa o conviviente, o sobre los menores o incapaces que con él convivan o que se hallen sujetos a la potestad, tutela, curatela, acogimiento o guarda de hecho de la esposa o conviviente, cuando también se haya producido un acto de violencia de género.
 
-- De la instrucción de los procesos para exigir responsabilidad  penal  por  cualquier  delito  contra los derechos y deberes familiares, cuando la víctima sea alguna de las personas señaladas como tales en la letra anterior.
+b) De la instrucción de los procesos para exigir responsabilidad penal por cualquier delito contra los derechos y deberes familiares, cuando la víctima sea alguna de las personas señaladas como tales en la letra anterior.
 
-- De  la  adopción  de  las  correspondientes órdenes de protección a las víctimas, sin perjuicio de las competencias atribuidas al Juez de Guardia.
+c) De la adopción de las correspondientes órdenes de protección a las víctimas, sin perjuicio de las competencias atribuidas al Juez de Guardia.
 
-- Del conocimiento y fallo de las faltas contenidas en los títulos I y II del libro III del Código Penal, cuando la víctima sea alguna de las personas señaladas como tales en la letra a) de este apartado.
+d) Del conocimiento y fallo de las faltas contenidas en los títulos I y II del libro III del Código Penal, cuando la víctima sea alguna de las personas señaladas como tales en la letra a) de este apartado.
 
-- Los  Juzgados  de Violencia  sobre  la  Mujer podrán conocer en el orden civil, en todo caso de conformidad con los procedimientos y recursos previstos  en  la  Ley  de  Enjuiciamiento  Civil,  de  los siguientes asuntos:
+2. Los Juzgados de Violencia sobre la Mujer podrán conocer en el orden civil, en todo caso de conformidad con los procedimientos y recursos previstos en la Ley de Enjuiciamiento Civil, de los siguientes asuntos:
 
-- Los de filiación, maternidad y paternidad.
+a) Los de filiación, maternidad y paternidad.
 
-- Los de nulidad del matrimonio, separación y divorcio.
+b) Los de nulidad del matrimonio, separación y divorcio.
 
-- Los  que  versen  sobre  relaciones  paterno filiales.
+c) Los que versen sobre relaciones paterno filiales.
 
-- Los  que  tengan  por  objeto  la  adopción  o modificación de medidas de trascendencia familiar.
+d) Los que tengan por objeto la adopción o modificación de medidas de trascendencia familiar.
 
-- Los que versen exclusivamente sobre guarda y custodia de hijos e hijas menores o sobre alimentos  reclamados  por  un  progenitor  contra  el otro en nombre de los hijos e hijas menores.
+e) Los que versen exclusivamente sobre guarda y custodia de hijos e hijas menores o sobre alimentos reclamados por un progenitor contra el otro en nombre de los hijos e hijas menores.
 
-- Los que versen sobre la necesidad de asentimiento en la adopción.
+f) Los que versen sobre la necesidad de asentimiento en la adopción.
 
-- Los que tengan por objeto la oposición a las resoluciones administrativas en materia de protección de menores.
+g) Los que tengan por objeto la oposición a las resoluciones administrativas en materia de protección de menores.
 
-- Los  Juzgados  de Violencia  sobre  la  Mujer tendrán de forma exclusiva y excluyente competencia en el orden civil cuando concurran simultáneamente los siguientes requisitos:
+3. Los Juzgados de Violencia sobre la Mujer tendrán de forma exclusiva y excluyente competencia en el orden civil cuando concurran simultáneamente los siguientes requisitos:
 
-- Que se trate de un proceso civil que tenga por  objeto  alguna  de  las  materias  indicadas  en  el número 2 del presente artículo.
+a) Que se trate de un proceso civil que tenga por objeto alguna de las materias indicadas en el número 2 del presente artículo.
 
-- Que alguna de las  partes  del  proceso  civil sea víctima de los actos de violencia de género, en los términos a que hace referencia el apartado 1 a) del presente artículo.
+b) Que alguna de las partes del proceso civil sea víctima de los actos de violencia de género, en los términos a que hace referencia el apartado 1 a) del presente artículo.
 
-- Que  alguna  de  las  partes  del  proceso  civil sea  imputado  como  autor,  inductor  o  cooperador necesario en la realización de actos de violencia de género.
+c) Que alguna de las partes del proceso civil sea imputado como autor, inductor o cooperador necesario en la realización de actos de violencia de género.
 
-- Que se hayan iniciado ante el Juez de Violencia sobre la Mujer actuaciones penales por delito o falta a consecuencia de un acto de violencia sobre la mujer, o se haya adoptado una orden de protección a una víctima de violencia de género.
+d) Que se hayan iniciado ante el Juez de Violencia sobre la Mujer actuaciones penales por delito o falta a consecuencia de un acto de violencia sobre la mujer, o se haya adoptado una orden de protección a una víctima de violencia de género.
 
-- Cuando el Juez apreciara que los actos puestos en su conocimiento, de forma notoria, no constituyen expresión de violencia de género, podrá inadmitir  la  pretensión,  remitiéndola  al  órgano  judicial competente.
+4. Cuando el Juez apreciara que los actos puestos en su conocimiento, de forma notoria, no constituyen expresión de violencia de género, podrá inadmitir la pretensión, remitiéndola al órgano judicial competente.
 
-- En todos estos casos está vedada la mediación.»
+5. En todos estos casos está vedada la mediación.»
 
 #### Artículo 45. Recursos en materia penal.
 
@@ -728,7 +728,7 @@ Se adiciona un nuevo ordinal 4.º al artículo 82.1 de la Ley Orgánica 6/1985, 
 
 Se adiciona un nuevo párrafo al artículo 82.4 en la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, con la siguiente redacción:
 
-«Las  Audiencias  Provinciales  conocerán,  asimismo, de los recursos que establezca la ley contra las  resoluciones  dictadas  en  materia  civil  por  los Juzgados de Violencia sobre la Mujer de la provincia. A fin de facilitar el conocimiento de estos recursos, y atendiendo al número de asuntos existentes, podrán especializarse una o varias de sus secciones de conformidad con lo previsto en el artículo 98 de la citada Ley Orgánica.»
+«Las Audiencias Provinciales conocerán, asimismo, de los recursos que establezca la ley contra las resoluciones dictadas en materia civil por los Juzgados de Violencia sobre la Mujer de la provin-
 
 [[END OF PAGE 11]]
 
@@ -740,7 +740,9 @@ Miércoles  29  diciembre  2004
 
 42177
 
-#### Artículo 47 . Formación.
+cia. A fin de facilitar el conocimiento de estos recursos, y atendiendo al número de asuntos existentes, podrán especializarse una o varias de sus secciones de conformidad con lo previsto en el artículo 98 de la citada Ley Orgánica.»
+
+#### Artículo 47. Formación.
 
 El Gobierno, el Consejo General del Poder Judicial y las Comunidades Autónomas, en el ámbito de sus respectivas competencias, asegurarán una formación específica relativa a la igualdad y no discriminación por razón de sexo y sobre violencia de género en los cursos de formación de Jueces y Magistrados, Fiscales, Secretarios  Judiciales,  Fuerzas  y  Cuerpos  de  Seguridad  y Médicos Forenses. En todo caso, en los cursos de formación anteriores se introducirá el enfoque de la discapacidad de las víctimas.
 
@@ -788,7 +790,7 @@ Se incluye un nuevo artículo 46 ter en la Ley 38/1988, de 28 de diciembre, de D
 
 2. En  tanto  las  Comunidades  Autónomas  no fijen la sede de los Juzgados de Violencia sobre la Mujer, ésta se entenderá situada en aquellas poblaciones que se establezcan en el anexo XIII de la presente Ley.»
 
-#### Artículo 53. Notificación de las sentencias dictadas por Tribunales .
+#### Artículo 53. Notificación de las sentencias dictadas por Tribunales.
 
 Se adiciona un nuevo párrafo en el artículo 160 de la Ley de Enjuiciamiento Criminal, con el contenido siguiente:
 
@@ -810,13 +812,13 @@ Miércoles  29  diciembre  2004
 
 BOE núm. 313
 
-- tículos anteriores deberán ser practicadas y adoptadas durante las horas de audiencia.
+tículos anteriores deberán ser practicadas y adoptadas durante las horas de audiencia.
 
-- La Policía Judicial habrá de realizar las citaciones a que se refiere el artículo 796, ante el Juzgado de Violencia sobre la Mujer, en el día hábil más próximo, entre aquéllos que se fijen reglamentariamente.
+2. La Policía Judicial habrá de realizar las citaciones a que se refiere el artículo 796, ante el Juzgado de Violencia sobre la Mujer, en el día hábil más próximo, entre aquéllos que se fijen reglamentariamente.
 
-No obstante el detenido, si lo hubiere, habrá de ser puesto a disposición del Juzgado de Instrucción de  Guardia,  a  los  solos  efectos  de  regularizar  su situación personal, cuando no sea posible la presentación ante el Juzgado de Violencia sobre la Mujer que resulte competente.
+No obstante el detenido, si lo hubiere, habrá de ser puesto a disposición del Juzgado de Instrucción de Guardia, a los solos efectos de regularizar su situación personal, cuando no sea posible la presentación ante el Juzgado de Violencia sobre la Mujer que resulte competente.
 
-- Para  la  realización  de  las  citaciones  antes referidas, la Policía Judicial fijará el día y la hora de la comparecencia coordinadamente con el Juzgado de Violencia sobre la Mujer. A estos efectos el Consejo General del Poder Judicial, de acuerdo con lo establecido en el artículo 110 de la Ley Orgánica del Poder Judicial,  dictará  los  Reglamentos  oportunos para asegurar esta coordinación.»
+3. Para la realización de las citaciones antes referidas, la Policía Judicial fijará el día y la hora de la comparecencia coordinadamente con el Juzgado de Violencia sobre la Mujer. A estos efectos el Consejo General del Poder Judicial, de acuerdo con lo establecido en el artículo 110 de la Ley Orgánica del Poder Judicial, dictará los Reglamentos oportunos para asegurar esta coordinación.»
 
 #### Artículo 55. Notificación de las sentencias dictadas por Juzgado de lo Penal.
 
@@ -838,25 +840,25 @@ Reglamentos oportunos para asegurar esta coordinación.»
 
 ### Normas procesales civiles
 
-#### Artículo 57 . Pérdida de la competencia objetiva cuando se produzcan actos de violencia sobre la mujer.
+#### Artículo 57. Pérdida de la competencia objetiva cuando se produzcan actos de violencia sobre la mujer.
 
 Se adiciona un nuevo artículo 49 bis en la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, cuya redacción es la siguiente:
 
 ##### «Artículo 49 bis. Pérdida de la competencia cuando se produzcan actos de violencia sobre la mujer.
 
-- Cuando  un  Juez,  que  esté  conociendo  en primera instancia de un procedimiento civil, tuviese noticia de la comisión de un acto de violencia de los definidos en el artículo 1 de la Ley Orgánica de Medidas  de  Protección  Integral  contra  la  Violencia  de Género, que haya dado lugar a la iniciación de un proceso penal o a una orden de protección, tras verificar la concurrencia de los requisitos previstos en el párrafo tercero del artículo 87 ter de la Ley Orgánica del Poder Judicial, deberá inhibirse, remitiendo los autos en el estado en que se hallen al Juez de Violencia sobre la Mujer que resulte competente, salvo que se haya iniciado la fase del juicio oral.
+1. Cuando un Juez, que esté conociendo en primera instancia de un procedimiento civil, tuviese noticia de la comisión de un acto de violencia de los definidos en el artículo 1 de la Ley Orgánica de Medidas de Protección Integral contra la Violencia de Género, que haya dado lugar a la iniciación de un proceso penal o a una orden de protección, tras verificar la concurrencia de los requisitos previstos en el párrafo tercero del artículo 87 ter de la Ley Orgánica del Poder Judicial, deberá inhibirse, remitiendo los autos en el estado en que se hallen al Juez de Violencia sobre la Mujer que resulte competente, salvo que se haya iniciado la fase del juicio oral.
 
-- Cuando un Juez que esté conociendo de un procedimiento  civil,  tuviese  noticia  de  la  posible comisión de un acto de violencia de género, que no haya dado lugar a la iniciación de un proceso penal, ni a dictar una orden de protección, tras verificar que concurren  los  requisitos  del  párrafo  tercero  del artículo 87 ter de la Ley Orgánica del Poder Judicial, deberá inmediatamente citar a las partes a una comparecencia con el Ministerio Fiscal que se celebrará en las siguientes 24 horas a fin de que éste tome conocimiento  de  cuantos  datos  sean  relevantes sobre los  hechos  acaecidos. Tras  ella,  el  Fiscal,  de manera inmediata, habrá de decidir si procede, en las  24  horas  siguientes,  a  denunciar  los  actos  de violencia de género o a solicitar orden de protección ante  el  Juzgado  de Violencia  sobre  la  Mujer  que resulte competente. En el supuesto de que se interponga denuncia o se solicite la orden de protección, el  Fiscal  habrá de entregar copia de la denuncia o solicitud  en  el Tribunal,  el  cual  continuará  conociendo del asunto hasta que sea, en su caso, requerido de inhibición por el Juez de Violencia sobre la Mujer competente.
+2. Cuando un Juez que esté conociendo de un procedimiento civil, tuviese noticia de la posible comisión de un acto de violencia de género, que no haya dado lugar a la iniciación de un proceso penal, ni a dictar una orden de protección, tras verificar que concurren los requisitos del párrafo tercero del artículo 87 ter de la Ley Orgánica del Poder Judicial, deberá inmediatamente citar a las partes a una comparecencia con el Ministerio Fiscal que se celebrará en las siguientes 24 horas a fin de que éste tome conocimiento de cuantos datos sean relevantes sobre los hechos acaecidos. Tras ella, el Fiscal, de manera inmediata, habrá de decidir si procede, en las 24 horas siguientes, a denunciar los actos de violencia de género o a solicitar orden de protección ante el Juzgado de Violencia sobre la Mujer que resulte competente. En el supuesto de que se interponga denuncia o se solicite la orden de protección, el Fiscal habrá de entregar copia de la denuncia o solicitud en el Tribunal, el cual continuará conociendo del asunto hasta que sea, en su caso, requerido de inhibición por el Juez de Violencia sobre la Mujer competente.
 
-- Cuando un Juez de Violencia sobre la Mujer que esté conociendo de una causa penal por violencia de género tenga conocimiento de la existencia de un proceso civil, y verifique la concurrencia de los requisitos del párrafo tercero del artículo 87 ter de la Ley Orgánica del Poder Judicial, requerirá de inhibición al  Tribunal Civil, el cual deberá acordar de inmediato su inhibición y la remisión de los autos al órgano requirente.
+3. Cuando un Juez de Violencia sobre la Mujer que esté conociendo de una causa penal por violencia de género tenga conocimiento de la existencia de un proceso civil, y verifique la concurrencia de los requisitos del párrafo tercero del artículo 87 ter de la Ley Orgánica del Poder Judicial, requerirá de inhibición al Tribunal Civil, el cual deberá acordar de inmediato su inhibición y la remisión de los autos al órgano requirente.
 
-- A  los  efectos  del  párrafo  anterior,  el  requerimiento de inhibición se acompañará de testimonio de la incoación de diligencias previas o de juicio de faltas, del auto de admisión de la querella, o de la orden de protección adoptada.
+A los efectos del párrafo anterior, el requerimiento de inhibición se acompañará de testimonio de la incoación de diligencias previas o de juicio de faltas, del auto de admisión de la querella, o de la orden de protección adoptada.
 
-- En los casos previstos en los apartados 1 y 2 de este artículo, el  Tribunal Civil remitirá los autos al Juzgado de Violencia sobre la Mujer sin que sea de aplicación lo previsto en el artículo 48.3 de la Ley de Enjuiciamiento Civil, debiendo las partes desde ese momento comparecer ante dicho órgano.
+4. En los casos previstos en los apartados 1 y 2 de este artículo, el Tribunal Civil remitirá los autos al Juzgado de Violencia sobre la Mujer sin que sea de aplicación lo previsto en el artículo 48.3 de la Ley de Enjuiciamiento Civil, debiendo las partes desde ese momento comparecer ante dicho órgano.
 
-En  estos  supuestos  no  serán  de  aplicación  las restantes  normas  de  esta  sección,  ni  se  admitirá declinatoria, debiendo las partes que quieran hacer valer la competencia del Juzgado de Violencia sobre la Mujer presentar testimonio de alguna de las resoluciones  dictadas  por  dicho  Juzgado  a  las  que  se refiere el párrafo final del número anterior.
+En estos supuestos no serán de aplicación las restantes normas de esta sección, ni se admitirá declinatoria, debiendo las partes que quieran hacer valer la competencia del Juzgado de Violencia sobre la Mujer presentar testimonio de alguna de las resoluciones dictadas por dicho Juzgado a las que se refiere el párrafo final del número anterior.
 
-- Los  Juzgados  de Violencia  sobre  la  Mujer ejercerán  sus  competencias  en  materia  civil  de forma exclusiva y excluyente, y en todo caso de conformidad con los procedimientos y recursos previstos en la Ley de Enjuiciamiento Civil.»
+5. Los Juzgados de Violencia sobre la Mujer ejercerán sus competencias en materia civil de forma exclusiva y excluyente, y en todo caso de conformidad con los procedimientos y recursos previstos en la Ley de Enjuiciamiento Civil.»
 
 [[END OF PAGE 13]]
 
@@ -878,29 +880,27 @@ Se modifica el artículo 14 de la Ley de Enjuiciamiento Criminal, que queda reda
 
 «Fuera de los casos que expresa y limitadamente atribuyen la Constitución y las leyes a Jueces y Tribunales determinados, serán competentes:
 
-- Para el conocimiento y fallo de los juicios de faltas, el Juez de Instrucción, salvo que la competencia corresponda al Juez de Violencia sobre la Mujer de  conformidad  con  el  número  quinto  de  este artículo.  Sin  embargo,  conocerá  de  los  juicios  por faltas tipificadas en los artículos 626, 630, 632 y 633 del Código Penal, el Juez de Paz del lugar en que se hubieran cometido. También conocerán los Jueces de  Paz  de  los  juicios  por  faltas  tipificadas  en  el artículo  620.1.º  y  2.º,  del  Código  Penal,  excepto cuando el ofendido fuere alguna de las personas a que se refiere el artículo 173.2 del mismo Código.
+1. Para el conocimiento y fallo de los juicios de faltas, el Juez de Instrucción, salvo que la competencia corresponda al Juez de Violencia sobre la Mujer de conformidad con el número quinto de este artículo. Sin embargo, conocerá de los juicios por faltas tipificadas en los artículos 626, 630, 632 y 633 del Código Penal, el Juez de Paz del lugar en que se hubieran cometido. También conocerán los Jueces de Paz de los juicios por faltas tipificadas en el artículo 620.1.º y 2.º, del Código Penal, excepto cuando el ofendido fuere alguna de las personas a que se refiere el artículo 173.2 del mismo Código.
 
-- Para la instrucción de las causas, el Juez de Instrucción del partido en que el delito se hubiere cometido, o el Juez de Violencia sobre la Mujer, o el Juez Central de Instrucción respecto de los delitos que la Ley determine.
+2. Para la instrucción de las causas, el Juez de Instrucción del partido en que el delito se hubiere cometido, o el Juez de Violencia sobre la Mujer, o el Juez Central de Instrucción respecto de los delitos que la Ley determine.
 
-- Para  el  conocimiento  y  fallo  de  las  causas por delitos a los que la Ley señale pena privativa de libertad de duración no superior a cinco años o pena de  multa  cualquiera  que  sea  su  cuantía,  o  cualesquiera otras de distinta naturaleza, bien sean únicas, conjuntas o alternativas, siempre que la duración de éstas no exceda de diez años, así como por faltas, sean o no incidentales, imputables a los autores de estos delitos o a otras personas, cuando la comisión de la falta o su prueba estuviesen relacionadas con aquéllos,  el  Juez  de  lo  Penal  de  la  circunscripción donde el delito fue cometido, o el Juez de lo Penal correspondiente a la circunscripción del Juzgado de Violencia sobre la Mujer en su caso, o el Juez Central  de  lo  Penal  en  el  ámbito  que  le  es  propio,  sin perjuicio de la competencia del Juez de Instrucción de Guardia del lugar de comisión del delito para dictar sentencia de conformidad, o del Juez de Violencia  sobre  la  Mujer  competente  en  su  caso,  en  los términos establecidos en el artículo 801.
+3. Para el conocimiento y fallo de las causas por delitos a los que la Ley señale pena privativa de libertad de duración no superior a cinco años o pena de multa cualquiera que sea su cuantía, o cualesquiera otras de distinta naturaleza, bien sean únicas, conjuntas o alternativas, siempre que la duración de éstas no exceda de diez años, así como por faltas, sean o no incidentales, imputables a los autores de estos delitos o a otras personas, cuando la comisión de la falta o su prueba estuviesen relacionadas con aquéllos, el Juez de lo Penal de la circunscripción donde el delito fue cometido, o el Juez de lo Penal correspondiente a la circunscripción del Juzgado de Violencia sobre la Mujer en su caso, o el Juez Central de lo Penal en el ámbito que le es propio, sin perjuicio de la competencia del Juez de Instrucción de Guardia del lugar de comisión del delito para dictar sentencia de conformidad, o del Juez de Violencia sobre la Mujer competente en su caso, en los términos establecidos en el artículo 801.
 
 No obstante, en los supuestos de competencia del Juez de lo Penal, si el delito fuere de los atribuidos al Tribunal del Jurado, el conocimiento y fallo corresponderá a éste.
 
-- Para el conocimiento y fallo de las causas en los demás casos la Audiencia Provincial de la circunscripción  donde  el  delito  se  haya  cometido,  o  la Audiencia Provincial correspondiente a la circunscripción del Juzgado de Violencia sobre la Mujer en su caso, o la Sala de lo Penal de la Audiencia Nacional.
+4. Para el conocimiento y fallo de las causas en los demás casos la Audiencia Provincial de la circunscripción donde el delito se haya cometido, o la Audiencia Provincial correspondiente a la circunscripción del Juzgado de Violencia sobre la Mujer en su caso, o la Sala de lo Penal de la Audiencia Nacional.
 
 No obstante, en los supuestos de competencia de la Audiencia Provincial, si el delito fuere de los atribuidos al Tribunal de Jurado, el conocimiento y fallo corresponderá a éste.
 
-- Los  Juzgados  de Violencia  sobre  la  Mujer serán  competentes  en  las  siguientes  materias,  en todo caso de conformidad con los procedimientos y recursos previstos en esta Ley:
+5. Los Juzgados de Violencia sobre la Mujer serán competentes en las siguientes materias, en todo caso de conformidad con los procedimientos y recursos previstos en esta Ley:
 
-- De la instrucción de los procesos para exigir  responsabilidad  penal  por  los  delitos  recogidos  en  los  títulos  del  Código  Penal  relativos  a homicidio, aborto, lesiones, lesiones al feto, delitos contra la libertad, delitos contra la integridad
+a) De la instrucción de los procesos para exigir responsabilidad penal por los delitos recogidos en los títulos del Código Penal relativos a homicidio, aborto, lesiones, lesiones al feto, delitos contra la libertad, delitos contra la integridad moral, contra la libertad e indemnidad sexuales o cualquier otro delito cometido con violencia o intimidación, siempre que se hubiesen cometido contra quien sea o haya sido su esposa, o mujer que esté o haya estado ligada al autor por análoga relación de afectividad, aun sin convivencia, así como de los cometidos sobre los descendientes, propios o de la esposa o conviviente, o sobre los menores o incapaces que con él convivan o que se hallen sujetos a la potestad, tutela, curatela, acogimiento o guarda de hecho de la esposa o conviviente, cuando también se haya producido un acto de violencia de género.
 
-moral, contra la libertad e indemnidad sexuales o cualquier otro delito cometido con violencia o intimidación, siempre que se hubiesen cometido contra quien sea o haya sido su esposa, o mujer que esté  o  haya  estado  ligada  al  autor  por  análoga relación  de  afectividad,  aun  sin  convivencia,  así como de los cometidos sobre los descendientes, propios o de la esposa o conviviente, o sobre los menores o incapaces que con él convivan o que se hallen sujetos a la potestad, tutela, curatela, acogimiento o guarda de hecho de la esposa o conviviente, cuando también se haya producido un acto de violencia de género.
+b) De la instrucción de los procesos para exigir responsabilidad penal por cualquier delito contra los derechos y deberes familiares, cuando la víctima sea alguna de las personas señaladas como tales en la letra anterior.
 
-- De la instrucción de los procesos para exigir responsabilidad  penal  por  cualquier  delito  contra los derechos y deberes familiares, cuando la víctima sea alguna de las personas señaladas como tales en la letra anterior.
+c) De la adopción de las correspondientes órdenes de protección a las víctimas, sin perjuicio de las competencias atribuidas al Juez de Guardia.
 
-- De  la  adopción  de  las  correspondientes órdenes de protección a las víctimas, sin perjuicio de las competencias atribuidas al Juez de Guardia.
-
-- Del conocimiento y fallo de las faltas contenidas en los títulos I y II del libro III del Código Penal, cuando la víctima sea alguna de las personas señaladas como tales en la letra a) de este apartado.»
+d) Del conocimiento y fallo de las faltas contenidas en los títulos I y II del libro III del Código Penal, cuando la víctima sea alguna de las personas señaladas como tales en la letra a) de este apartado.»
 
 #### Artículo 59. Competencia territorial.
 
@@ -920,9 +920,9 @@ Se  adiciona  un  nuevo  artículo  17  bis  en  la  Ley  de Enjuiciamiento Crim
 
 #### Artículo 61. Disposiciones generales.
 
-- Las medidas de protección y seguridad previstas en  el  presente  capítulo  serán  compatibles  con  cualesquiera de las medidas cautelares y de aseguramiento que se pueden adoptar en los procesos civiles y penales.
+1. Las medidas de protección y seguridad previstas en el presente capítulo serán compatibles con cualesquiera de las medidas cautelares y de aseguramiento que se pueden adoptar en los procesos civiles y penales.
 
-- En todos los procedimientos relacionados con la violencia de género, el Juez competente, de oficio o a instancia de las víctimas, de los hijos, de las personas que convivan con ellas o se hallen sujetas a su guarda o custodia, del Ministerio Fiscal o de la Administración de la que dependan los servicios de atención a las víctimas o su acogida, deberá pronunciarse en todo caso sobre la pertinencia  de  la  adopción  de  las  medidas  cautelares  y  de
+2. En todos los procedimientos relacionados con la violencia de género, el Juez competente, de oficio o a instancia de las víctimas, de los hijos, de las personas que convivan con ellas o se hallen sujetas a su guarda o custodia, del Ministerio Fiscal o de la Administración de la que dependan los servicios de atención a las víctimas o su acogida, deberá pronunciarse en todo caso sobre la pertinencia de la adopción de las medidas cautelares y de
 
 [[END OF PAGE 14]]
 
@@ -942,27 +942,27 @@ Recibida la solicitud de adopción de una orden de protección, el Juez de Viole
 
 #### Artículo 63. De la protección de datos y las limitaciones a la publicidad.
 
-- En las actuaciones y procedimientos relacionados con la violencia de género se protegerá la intimidad de las víctimas;  en  especial,  sus  datos  personales,  los  de  sus descendientes y los de cualquier otra persona que esté bajo su guarda o custodia.
+1. En las actuaciones y procedimientos relacionados con la violencia de género se protegerá la intimidad de las víctimas; en especial, sus datos personales, los de sus descendientes y los de cualquier otra persona que esté bajo su guarda o custodia.
 
-- Los Jueces competentes podrán acordar, de oficio o  a  instancia  de  parte,  que  las  vistas  se  desarrollen  a puerta cerrada y que las actuaciones sean reservadas.
+2. Los Jueces competentes podrán acordar, de oficio o a instancia de parte, que las vistas se desarrollen a puerta cerrada y que las actuaciones sean reservadas.
 
 #### Artículo 64. De las medidas de salida del domicilio, alejamiento o suspensión de las comunicaciones.
 
-- El  Juez  podrá  ordenar  la  salida  obligatoria  del inculpado por violencia de género del domicilio en el que hubiera estado conviviendo o tenga su residencia la unidad familiar, así como la prohibición de volver al mismo.
+1. El Juez podrá ordenar la salida obligatoria del inculpado por violencia de género del domicilio en el que hubiera estado conviviendo o tenga su residencia la unidad familiar, así como la prohibición de volver al mismo.
 
-- El Juez, con carácter excepcional, podrá autorizar a que la persona protegida concierte, con una agencia o sociedad pública allí donde la hubiere y que incluya entre sus actividades la del arrendamiento de viviendas, la permuta del uso atribuido de la vivienda familiar de la que sean copropietarios, por el uso de otra vivienda, durante el tiempo y en las condiciones que se determinen.
+2. El Juez, con carácter excepcional, podrá autorizar a que la persona protegida concierte, con una agencia o sociedad pública allí donde la hubiere y que incluya entre sus actividades la del arrendamiento de viviendas, la permuta del uso atribuido de la vivienda familiar de la que sean copropietarios, por el uso de otra vivienda, durante el tiempo y en las condiciones que se determinen.
 
-- El Juez podrá prohibir al inculpado que se aproxime a la persona protegida, lo que le impide acercarse a la misma en cualquier lugar donde se encuentre, así como acercarse a su domicilio, a su lugar de trabajo o a cualquier otro que sea frecuentado por ella.
+3. El Juez podrá prohibir al inculpado que se aproxime a la persona protegida, lo que le impide acercarse a la misma en cualquier lugar donde se encuentre, así como acercarse a su domicilio, a su lugar de trabajo o a cualquier otro que sea frecuentado por ella.
 
-Podrá acordarse la utilización de instrumentos con la tecnología adecuada  para  verificar  de  inmediato  su incumplimiento.
+Podrá acordarse la utilización de instrumentos con la tecnología adecuada para verificar de inmediato su incumplimiento.
 
-- El Juez fijará una distancia mínima entre el inculpado y  la  persona  protegida  que  no  se  podrá  rebasar,  bajo apercibimiento de incurrir en responsabilidad penal.
+El Juez fijará una distancia mínima entre el inculpado y la persona protegida que no se podrá rebasar, bajo apercibimiento de incurrir en responsabilidad penal.
 
-- La  medida  de  alejamiento  podrá  acordarse  con independencia de que la persona afectada, o aquéllas a quienes se pretenda proteger, hubieran abandonado previamente el lugar.
+4. La medida de alejamiento podrá acordarse con independencia de que la persona afectada, o aquéllas a quienes se pretenda proteger, hubieran abandonado previamente el lugar.
 
-- El Juez podrá prohibir al inculpado toda clase de comunicación con la persona o personas que se indique, bajo apercibimiento de incurrir en responsabilidad penal.
+5. El Juez podrá prohibir al inculpado toda clase de comunicación con la persona o personas que se indique, bajo apercibimiento de incurrir en responsabilidad penal.
 
-- Las medidas a que se refieren los apartados anteriores podrán acordarse acumulada o separadamente.
+6. Las medidas a que se refieren los apartados anteriores podrán acordarse acumulada o separadamente.
 
 #### Artículo 65. De las medidas de suspensión de la patria potestad o la custodia de menores.
 
@@ -972,7 +972,7 @@ El Juez podrá suspender para el inculpado por violencia  de  género  el  ejerc
 
 El  Juez  podrá  ordenar  la  suspensión  de  visitas  del inculpado por violencia de género a sus descendientes.
 
-#### Artículo 67 . De la medida de suspensión del derecho a la tenencia, porte y uso de armas.
+#### Artículo 67. De la medida de suspensión del derecho a la tenencia, porte y uso de armas.
 
 El Juez podrá acordar, respecto de los inculpados en delitos relacionados con la violencia a que se refiere esta Ley, la suspensión del derecho a la tenencia, porte y uso de armas, con la obligación de depositarlas en los términos establecidos por la normativa vigente.
 
@@ -994,17 +994,17 @@ Se añade un artículo 18 quáter en la Ley 50/1981, de 30 de diciembre, regulad
 
 «1. El Fiscal General del Estado nombrará, oído el Consejo Fiscal, como delegado, un Fiscal contra la Violencia sobre la Mujer, con categoría de Fiscal de Sala, que ejercerá las siguientes funciones:
 
-- Practicar  las  diligencias  a  que  se  refiere  el artículo 5 del Estatuto Orgánico del Ministerio Fiscal, e  intervenir  directamente  en  aquellos  procesos penales de especial trascendencia apreciada por el Fiscal  General  del  Estado,  referentes  a  los  delitos por  actos  de  violencia  de  género  comprendidos en el artículo 87 ter.1 de la Ley Orgánica del Poder Judicial.
+a) Practicar las diligencias a que se refiere el artículo 5 del Estatuto Orgánico del Ministerio Fiscal, e intervenir directamente en aquellos procesos penales de especial trascendencia apreciada por el Fiscal General del Estado, referentes a los delitos por actos de violencia de género comprendidos en el artículo 87 ter.1 de la Ley Orgánica del Poder Judicial.
 
-- Intervenir, por delegación del Fiscal General del Estado, en los procesos civiles comprendidos en el artículo 87 ter.2 de la Ley Orgánica del Poder Judicial.
+b) Intervenir, por delegación del Fiscal General del Estado, en los procesos civiles comprendidos en el artículo 87 ter.2 de la Ley Orgánica del Poder Judicial.
 
-- Supervisar  y  coordinar  la  actuación  de  las Secciones contra la Violencia sobre la Mujer, y recabar informes de las mismas, dando conocimiento al Fiscal Jefe de las Fiscalías en que se integren.
+c) Supervisar y coordinar la actuación de las Secciones contra la Violencia sobre la Mujer, y recabar informes de las mismas, dando conocimiento al Fiscal Jefe de las Fiscalías en que se integren.
 
-- Coordinar  los  criterios  de  actuación  de  las diversas Fiscalías en materias de violencia de género, para lo cual podrá proponer al Fiscal General  del  Estado  la  emisión  de  las  correspondientes instrucciones.
+d) Coordinar los criterios de actuación de las diversas Fiscalías en materias de violencia de género, para lo cual podrá proponer al Fiscal General del Estado la emisión de las correspondientes instrucciones.
 
-- Elaborar semestralmente, y presentar al Fiscal General del Estado, para su remisión a la Junta de Fiscales de Sala del Tribunal Supremo, y al Consejo  Fiscal,  un  informe  sobre  los  procedimientos seguidos y actuaciones practicadas por el Ministerio Fiscal en materia de violencia de género.
+e) Elaborar semestralmente, y presentar al Fiscal General del Estado, para su remisión a la Junta de Fiscales de Sala del Tribunal Supremo, y al Consejo Fiscal, un informe sobre los procedimientos seguidos y actuaciones practicadas por el Ministerio Fiscal en materia de violencia de género.
 
-- Para su adecuada actuación se le adscribirán los  profesionales  y  expertos  que  sean  necesarios
+2. Para su adecuada actuación se le adscribirán los profesionales y expertos que sean necesarios
 
 [[END OF PAGE 15]]
 
@@ -1060,7 +1060,7 @@ El  Gobierno  y  las  Comunidades  Autónomas,  que hayan  asumido  competencias
 
 Uno. Las letras b) y g) del artículo 2 de la Ley Orgánica  8/1985,  de  3  de  julio,  reguladora  del  Derecho  a  la Educación, quedarán redactadas de la forma siguiente:
 
-«b) La formación en el respeto de los derechos y  libertades  fundamentales,  de  la  igualdad  entre hombres y mujeres y en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia.
+«b) La formación en el respeto de los derechos y libertades fundamentales, de la igualdad entre hombres y mujeres y en el ejercicio de la tolerancia
 
 [[END OF PAGE 16]]
 
@@ -1072,15 +1072,17 @@ Miércoles  29  diciembre  2004
 
 BOE núm. 313
 
-- La formación para la paz, la cooperación y la solidaridad entre los pueblos y para la prevención de conflictos y para la resolución pacífica de los mismos y no violencia en todos los ámbitos de la vida personal, familiar y social.»
+y de la libertad dentro de los principios democráticos de convivencia.
+
+g) La formación para la paz, la cooperación y la solidaridad entre los pueblos y para la prevención de conflictos y para la resolución pacífica de los mismos y no violencia en todos los ámbitos de la vida personal, familiar y social.»
 
 Dos. Se incorporan tres nuevas letras en el apartado 1 del artículo 31 de la Ley Orgánica 8/1985, de 3 de julio, reguladora  del  Derecho  a  la  Educación,  que  quedarán redactadas de la forma siguiente:
 
 «k) Las organizaciones de mujeres con implantación en todo el territorio del Estado.
 
-- El Instituto de la Mujer.
+l) El Instituto de la Mujer.
 
-- Personalidades de reconocido prestigio en la  lucha  para  la  erradicación  de  la  violencia  de género.»
+m) Personalidades de reconocido prestigio en la lucha para la erradicación de la violencia de género.»
 
 Tres. La letra e) del apartado 1 del artículo 32 de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, quedará redactada de la forma siguiente:
 
@@ -1108,7 +1110,7 @@ Dos. Se modifica la letra e) y se añade la letra l) en el apartado 3 del artíc
 
 «e) El  fomento  de  los  hábitos  de  comportamiento democrático y las habilidades y técnica en la prevención de conflictos y en la resolución pacífica de los mismos.
 
-- La formación para la prevención de conflictos y para la resolución pacífica de los mismos en todos  los  ámbitos  de  la  vida  personal,  familiar  y social.»
+l) La formación para la prevención de conflictos y para la resolución pacífica de los mismos en todos los ámbitos de la vida personal, familiar y social.»
 
 Tres. Se modifica el apartado 3 del artículo 34 de la Ley  Orgánica  1/1990,  de  3  de  octubre,  de  Ordenación General del Sistema Educativo, que quedará redactada de la siguiente forma:
 
@@ -1120,25 +1122,25 @@ Uno. Se adiciona una nueva letra b), con el consiguiente  desplazamiento  de  lo
 
 «b) La eliminación de los obstáculos que dificultan la plena igualdad entre hombres y mujeres.
 
-- La formación en el respeto de los derechos y libertades fundamentales, de la igualdad entre hombres y mujeres y en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia.
+n) La formación en el respeto de los derechos y libertades fundamentales, de la igualdad entre hombres y mujeres y en el ejercicio de la tolerancia y de la libertad dentro de los principios democráticos de convivencia.
 
-- ñ) La formación para la prevención de conflictos y para la resolución pacífica de los mismos y no violencia en todos los ámbitos de la vida personal familiar y social.
+ñ) La formación para la prevención de conflictos y para la resolución pacífica de los mismos y no violencia en todos los ámbitos de la vida personal familiar y social.
 
-- El desarrollo de las capacidades afectivas.»
+o) El desarrollo de las capacidades afectivas.»
 
 Dos. Se adicionan dos nuevas letras e) y f), con el consiguiente desplazamiento de las actuales, en el apartado 2 del artículo 12 de la Ley Orgánica 10/2002, de 23 de diciembre, de Calidad de la Educación, con el siguiente contenido:
 
 «e) Ejercitarse en la prevención de los conflictos y en la resolución pacífica de los mismos.
 
-- Desarrollar sus capacidades afectivas.»
+f) Desarrollar sus capacidades afectivas.»
 
 Tres. Se adicionan tres nuevas letras b), c) y d), con el  consiguiente  desplazamiento  de  las  actuales,  en  el apartado  2  del  artículo  15  de  la  Ley  Orgánica  10/2002, de 23 de diciembre, de Calidad de la Educación, con el siguiente contenido:
 
 «b) Adquirir  habilidades  en  la  prevención  de conflictos y en la resolución pacífica de los mismos que  permitan  desenvolverse  con  autonomía  en  el ámbito familiar y doméstico, así como en los grupos sociales en los que se relacionan.
 
-- Comprender  y  respetar  la  igualdad  entre sexos.
+c) Comprender y respetar la igualdad entre sexos.
 
-- Desarrollar sus capacidades afectivas.»
+d) Desarrollar sus capacidades afectivas.»
 
 [[END OF PAGE 17]]
 
@@ -1154,9 +1156,9 @@ Cuatro. Se adicionan tres nuevas letras b),  c)  y  d), con el consiguiente desp
 
 «b) Conocer, valorar y respetar la igualdad de oportunidades de hombres y mujeres.
 
-- Relacionarse  con  los  demás  sin  violencia, resolviendo pacíficamente los conflictos.
+c) Relacionarse con los demás sin violencia, resolviendo pacíficamente los conflictos.
 
-- Desarrollar sus capacidades afectivas.»
+d) Desarrollar sus capacidades afectivas.»
 
 Cinco. Se  modifica  la  letra  f)  del  apartado  1  y  se añade un nuevo apartado 5 en el  artículo  23  de  la  Ley Orgánica 10/2002, de 23 de diciembre, de Calidad de la Educación, que queda redactado de la forma siguiente:
 
@@ -1168,9 +1170,9 @@ Seis. Se adicionan dos nuevas letras b) y c), con el consiguiente desplazamiento
 
 «b) Consolidar una madurez personal, social y moral, que les permita actuar de forma responsable, autónoma y prever y resolver pacíficamente los conflictos personales, familiares y sociales.
 
-- Fomentar  la  igualdad  real  y  efectiva  entre hombres y mujeres y analizar y valorar críticamente las desigualdades entre ellos.»
+c) Fomentar la igualdad real y efectiva entre hombres y mujeres y analizar y valorar críticamente las desigualdades entre ellos.»
 
-- Siete. Se adiciona un nuevo apartado 3 en el artículo 40 de la Ley Orgánica 10/2002, de 23 de diciembre, de Calidad de la Educación, con el siguiente contenido:
+Siete. Se adiciona un nuevo apartado 3 en el artículo 40 de la Ley Orgánica 10/2002, de 23 de diciembre, de Calidad de la Educación, con el siguiente contenido:
 
 «3. Con el fin de promover la efectiva igualdad entre hombres y mujeres, las Administraciones educativas velarán para que todos los currículos y los materiales educativos reconozcan el igual valor de hombres y mujeres y se elaboren a partir de presupuestos no discriminatorios para las mujeres. Asimismo, deberán fomentar el respeto en la igualdad de derechos y obligaciones.»
 
@@ -1178,7 +1180,7 @@ Ocho. Se  adicionan  dos  nuevas  letras  e)  y  f)  en  el apartado  2  del  ar
 
 «e) Desarrollar  habilidades  en  la  resolución pacífica de los conflictos en las relaciones personales, familiares y sociales.
 
-- Fomentar el respeto a la dignidad de las personas y a la igualdad entre hombres y mujeres.»
+f) Fomentar el respeto a la dignidad de las personas y a la igualdad entre hombres y mujeres.»
 
 Nueve. Se modifica la letra d) del artículo 56 de la Ley Orgánica 10/2002, de 23 de diciembre, de Calidad de la Educación, que queda redactada de la forma siguiente:
 
@@ -1204,23 +1206,23 @@ Uno. Se modifica el artículo 3, letra a), de la Ley 34/1988, de 11 de noviembre
 
 «Es ilícita:
 
-- La publicidad que atente contra la dignidad de la persona o vulnere los valores y derechos reconocidos en la Constitución, especialmente a los que se  refieren  sus  artículos  18  y  20,  apartado  4.  Se entenderán  incluidos  en  la  previsión  anterior  los anuncios  que  presenten  a  las  mujeres  de  forma vejatoria,  bien  utilizando  particular  y  directamente su  cuerpo  o  partes  del  mismo  como  mero  objeto desvinculado del producto que se pretende promocionar, bien su imagen asociada a comportamientos estereotipados  que  vulneren  los  fundamentos  de nuestro  ordenamiento  coadyuvando  a  generar  la violencia a que se refiere la Ley Orgánica de medidas  de  protección  integral  contra  la  violencia  de género.»
+a) La publicidad que atente contra la dignidad de la persona o vulnere los valores y derechos reconocidos en la Constitución, especialmente a los que se refieren sus artículos 18 y 20, apartado 4. Se entenderán incluidos en la previsión anterior los anuncios que presenten a las mujeres de forma vejatoria, bien utilizando particular y directamente su cuerpo o partes del mismo como mero objeto desvinculado del producto que se pretende promocionar, bien su imagen asociada a comportamientos estereotipados que vulneren los fundamentos de nuestro ordenamiento coadyuvando a generar la violencia a que se refiere la Ley Orgánica de medidas de protección integral contra la violencia de género.»
 
 Dos. Se adiciona un nuevo apartado 1 bis en el artículo 25 de la Ley 34/1988, de 11 de noviembre, General de Publicidad, con el contenido siguiente:
 
 «1 bis. Cuando una publicidad sea considerada ilícita por afectar a la utilización vejatoria o discriminatoria de la imagen de la mujer, podrán solicitar del anunciante su cesación y rectificación:
 
-- La Delegación Especial del Gobierno contra la Violencia sobre la Mujer.
+a) La Delegación Especial del Gobierno contra la Violencia sobre la Mujer.
 
-- El Instituto de la Mujer o su equivalente en el ámbito autonómico.
+b) El Instituto de la Mujer o su equivalente en el ámbito autonómico.
 
-- Las asociaciones legalmente  constituidas que tengan como objetivo único la defensa de los intereses de la mujer y no incluyan como asociados a personas jurídicas con ánimo de lucro.
+c) Las asociaciones legalmente constituidas que tengan como objetivo único la defensa de los intereses de la mujer y no incluyan como asociados a personas jurídicas con ánimo de lucro.
 
-- Los  titulares  de  un  derecho  o  interés  legítimo.»
+d) Los titulares de un derecho o interés legítimo.»
 
 Tres. Se  adiciona  una  disposición  adicional  a  la Ley 34/1988, de 11 de noviembre, General de Publicidad, con el contenido siguiente:
 
-«La acción de cesación cuando una publicidad sea  considerada  ilícita  por  afectar  a  la  utilización vejatoria o discriminatoria de la imagen de la mujer, se ejercitará en la forma y en los términos previstos en los artículos 26 y 29, excepto en materia de legitimación que la tendrán, además del Ministerio Fiscal, las personas y las Instituciones a que se refiere el artículo 25.1 bis de la presente Ley.»
+«La acción de cesación cuando una publicidad sea considerada ilícita por afectar a la utilización vejatoria o discriminatoria de la imagen de la mujer, se ejercitará en la forma y en los términos previstos
 
 [[END OF PAGE 18]]
 
@@ -1232,11 +1234,13 @@ Miércoles  29  diciembre  2004
 
 BOE núm. 313
 
-## Disposición  adicional  séptima. Modificación  de  la  Ley del Estatuto de los  Trabajadores.
+en los artículos 26 y 29, excepto en materia de legitimación que la tendrán, además del Ministerio Fiscal, las personas y las Instituciones a que se refiere el artículo 25.1 bis de la presente Ley.»
+
+## Disposición adicional séptima. Modificación de la Ley del Estatuto de los Trabajadores.
 
 Uno. Se introduce un nuevo apartado 7 en el artículo  37  de  la  Ley  del  Estatuto  de  los Trabajadores,  texto refundido aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, con el siguiente contenido:
 
-«7 . La trabajadora víctima de violencia de género tendrá derecho, para hacer efectiva su protección o su derecho a la asistencia social integral, a la reducción de la jornada de trabajo con disminución proporcional del salario o a la reordenación del tiempo  de  trabajo,  a  través  de  la  adaptación  del horario,  de  la  aplicación  del  horario  flexible  o  de otras  formas  de  ordenación  del  tiempo  de  trabajo que se utilicen en la empresa.
+«7. La trabajadora víctima de violencia de género tendrá derecho, para hacer efectiva su protección o su derecho a la asistencia social integral, a la reducción de la jornada de trabajo con disminución proporcional del salario o a la reordenación del tiempo de trabajo, a través de la adaptación del horario, de la aplicación del horario flexible o de otras formas de ordenación del tiempo de trabajo que se utilicen en la empresa.
 
 Estos derechos se podrán ejercitar en los términos que para estos supuestos concretos se establezcan en los convenios colectivos o en los acuerdos entre la empresa y los representantes de los trabajadores, o conforme al acuerdo entre la empresa y la trabajadora  afectada.  En  su  defecto,  la  concreción de estos derechos corresponderá a la trabajadora, siendo  de  aplicación  las  reglas  establecidas  en  el apartado anterior, incluidas las relativas a la resolución de discrepancias.»
 
@@ -1296,7 +1300,7 @@ Tres. Se modifica el apartado 2 del artículo 210 de la Ley General de la Seguri
 
 «2. A efectos de determinación del período de ocupación cotizada a que se refiere el apartado anterior se tendrán en cuenta todas las cotizaciones que no hayan sido computadas para el reconocimiento de un derecho anterior, tanto de nivel contributivo como  asistencial.  No  obstante,  no  se  considerará como derecho anterior el que se reconozca en virtud de la suspensión de la relación laboral prevista en el artículo 45.1.n) del Estatuto de los  Trabajadores.
 
-No  se  computarán  las  cotizaciones  correspondientes  al  tiempo  de  abono  de  la  prestación  que efectué la entidad gestora o, en su caso, la empresa, excepto cuando la prestación se perciba en virtud de la  suspensión  de  la  relación  laboral  prevista  en  el artículo 45.1.n) del Estatuto de los Trabajadores, tal como establece el artículo 124.5 de esta Ley.»
+No se computarán las cotizaciones correspondientes al tiempo de abono de la prestación que efectúe la entidad gestora o, en su caso, la empresa, excepto cuando la prestación se perciba en virtud de la suspensión de la relación laboral prevista en el artículo 45.1.n) del Estatuto de los Trabajadores, tal como establece el artículo 124.5 de esta Ley.»
 
 Cuatro. Se modifica el apartado 2 del artículo 231 de la  Ley  General  de  la  Seguridad  Social,  texto  refundido aprobado por Real Decreto Legislativo 1/1994, de 20 de junio, con el siguiente contenido:
 
@@ -1362,23 +1366,21 @@ Dos. Se modifica la rúbrica del capítulo V del título IV del  libro  I  de  l
 
 Tres. Se modifica el apartado 1 del artículo 87 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, que queda redactado de la siguiente forma:
 
-### «Artículo 87 .
+### «Artículo 87.
 
-- Los Juzgados de Instrucción conocerán, en el orden penal:
+1. Los Juzgados de Instrucción conocerán, en el orden penal:
 
-- De  la  instrucción  de  las  causas  por  delito cuyo  enjuiciamiento  corresponda  a  las Audiencias Provinciales y a los Juzgados de lo Penal, excepto de aquellas causas que sean competencia de los Juzgados de Violencia sobre la Mujer.
+a) De la instrucción de las causas por delito cuyo enjuiciamiento corresponda a las Audiencias Provinciales y a los Juzgados de lo Penal, excepto de aquellas causas que sean competencia de los Juzgados de Violencia sobre la Mujer.
 
-- Les corresponde asimismo dictar sentencia de conformidad con la acusación en los casos establecidos por la Ley.
+b) Les corresponde asimismo dictar sentencia de conformidad con la acusación en los casos establecidos por la Ley.
 
-- Del  conocimiento  y  fallo  de  los  juicios  de faltas, salvo los que sean competencia de los Jueces
+c) Del conocimiento y fallo de los juicios de faltas, salvo los que sean competencia de los Jueces de Paz, o de los Juzgados de Violencia sobre la Mujer.
 
-- de  Paz,  o  de  los  Juzgados  de  Violencia  sobre  la Mujer.
+d) De los procedimientos de ‘‘habeas corpus’’.
 
-- De los procedimientos de ''habeas corpus''.
+e) De los recursos que establezca la ley contra las resoluciones dictadas por los Juzgados de Paz del partido y de las cuestiones de competencia entre éstos.
 
-- De los recursos que establezca la ley contra las  resoluciones  dictadas  por  los  Juzgados  de  Paz del partido y de las cuestiones de competencia entre éstos.
-
-- De la adopción de la orden de protección a las víctimas de violencia sobre la mujer cuando esté desarrollando funciones de guardia, siempre que no pueda  ser  adoptada  por  el  Juzgado  de  Violencia sobre la Mujer.»
+f) De la adopción de la orden de protección a las víctimas de violencia sobre la mujer cuando esté desarrollando funciones de guardia, siempre que no pueda ser adoptada por el Juzgado de Violencia sobre la Mujer.»
 
 Tres  bis. Se  adiciona  un  nuevo  párrafo  en  el  apartado 2, del artículo 89 bis de la Ley Orgánica del Poder Judicial, con el contenido siguiente:
 
@@ -1402,7 +1404,7 @@ Se añade una disposición adicional cuarta a la Ley de Enjuiciamiento Criminal 
 
 «1. Las referencias que se hacen al Juez de Instrucción y al Juez de Primera Instancia en los apartados 1 y 7 del artículo 544 ter de esta Ley, en la redacción  dada  por  la  Ley  27/2003,  de  31  de  julio, reguladora de la Orden de Protección de las Víctimas  de  la  Violencia Doméstica  se entenderán hechas,  en  su  caso,  al  Juez  de Violencia  sobre  la Mujer.
 
-- Las  referencias  que  se  hacen  al  Juez  de Guardia en el título III del libro IV, y en los artículos 962 a 971 de esta Ley, se entenderán hechas, en su caso, al Juez de Violencia sobre la Mujer.»
+2. Las referencias que se hacen al Juez de Guardia en el título III del libro IV, y en los artículos 962 a 971 de esta Ley, se entenderán hechas, en su caso, al Juez de Violencia sobre la Mujer.»
 
 [[END OF PAGE 21]]
 
@@ -1448,7 +1450,7 @@ El Estado garantizará el pago de alimentos reconocidos e impagados a favor de l
 
 ## Disposición adicional vigésima. Cambio de apellidos.
 
-El artículo 58 de la Ley del Registro Civil, de 8 de junio de 1957 , queda redactado de la siguiente forma:
+El artículo 58 de la Ley del Registro Civil, de 8 de junio de 1957, queda redactado de la siguiente forma:
 
 «2. Cuando se den circunstancias excepcionales,  y  a  pesar  de  faltar  los  requisitos  que  señala dicho artículo, podrá accederse al cambio por Real Decreto a propuesta del Ministerio de Justicia, con audiencia del Consejo de Estado. En caso de que el solicitante de la autorización del cambio de sus apellidos sea objeto de violencia de género y en cualquier otro supuesto en que la urgencia de la situación así lo requiriera podrá accederse al cambio por Orden  del  Ministerio  de  Justicia,  en  los  términos fijados por el Reglamento.»
 
@@ -1470,7 +1472,7 @@ Todas las referencias y menciones contenidas en las leyes  procesales  penales  
 
 ## Disposición final segunda. Habilitación competencial.
 
-La presente Ley se dicta al amparo de lo previsto en el artículo 149.1, 1.ª, 5.ª, 6.ª, 7 .ª, 8.ª, 17 .ª, 18.ª y 30.ª de la Constitución Española.
+La presente Ley se dicta al amparo de lo previsto en el artículo 149.1, 1.ª, 5.ª, 6.ª, 7.ª, 8.ª, 17.ª, 18.ª y 30.ª de la Constitución Española.
 
 [[END OF PAGE 22]]
 
@@ -1484,27 +1486,27 @@ BOE núm. 313
 
 ## Disposición final tercera. Naturaleza de la presente Ley.
 
-La  presente  Ley  tiene  el  carácter  de  Ley  Orgánica,  a excepción  de  los  siguientes  preceptos:  título  I,  título  II, título III, artículos 42, 43, 44, 45, 46, 47 , 70, 71, 72, así como las disposiciones adicionales primera, segunda, sexta, séptima,  octava,  novena,  undécima,  decimotercera,  decimoquinta,  decimosexta,  decimoséptima,  decimoctava,  decimonovena y vigésima, la disposición transitoria segunda y las disposiciones finales cuarta, quinta y sexta.
+La presente Ley tiene el carácter de Ley Orgánica, a excepción de los siguientes preceptos: título I, título II, título III, artículos 42, 43, 44, 45, 46, 47, 70, 71, 72, así como las disposiciones adicionales primera, segunda, sexta, séptima, octava, novena, undécima, decimotercera, decimoquinta, decimosexta, decimoséptima, decimoctava, decimonovena y vigésima, la disposición transitoria segunda y las disposiciones finales cuarta, quinta y sexta.
 
 ## Disposición final cuarta. Habilitación normativa.
 
-- Se habilita al Gobierno para que dicte, en el plazo de seis meses a partir de la publicación de esta Ley en el «Boletín Oficial del Estado», las disposiciones que fueran necesarias para su aplicación.
+1. Se habilita al Gobierno para que dicte, en el plazo de seis meses a partir de la publicación de esta Ley en el «Boletín Oficial del Estado», las disposiciones que fueran necesarias para su aplicación.
 
 A través del Ministerio de Justicia se adoptarán en el referido  plazo  las  medidas  necesarias  para  la  implantación  de  los  Juzgados  de  Violencia  sobre  la  Mujer,  así como para la adecuación de la estructura del Ministerio Fiscal a las previsiones de la presente Ley.
 
-- En  el  plazo  de  seis  meses  desde  la  entrada  en vigor de la presente Ley Orgánica el Consejo General del Poder  Judicial  dictará  los  reglamentos  necesarios  para la  ordenación  de  los  señalamientos,  adecuación  de  los servicios de guardia a la existencia de los nuevos Juzgados de Violencia sobre la Mujer, y coordinación de la Policía Judicial con los referidos Juzgados.
+2. En el plazo de seis meses desde la entrada en vigor de la presente Ley Orgánica el Consejo General del Poder Judicial dictará los reglamentos necesarios para la ordenación de los señalamientos, adecuación de los servicios de guardia a la existencia de los nuevos Juzgados de Violencia sobre la Mujer, y coordinación de la Policía Judicial con los referidos Juzgados.
 
 ## Disposición final quinta. Modificaciones reglamentarias.
 
-para internos a que se refiere la presente Ley. En el mismo plazo  procederá  a  modificar  el  Real  Decreto  738/1997 , de 23 de mayo y el Real Decreto 996/2003, de 25 de julio.
+El Gobierno, en el plazo de seis meses desde la aprobación de esta Ley, procederá a la modificación del artículo 116.4 del Real Decreto 190/1996, de 9 de febrero, por el que se aprueba el Reglamento Penitenciario, estableciendo la obligatoriedad para la Administración Penitenciaria de realizar los programas específicos de tratamiento para internos a que se refiere la presente Ley. En el mismo plazo procederá a modificar el Real Decreto 738/1997, de 23 de mayo y el Real Decreto 996/2003, de 25 de julio.
 
-En  el  plazo  mencionado  en  el  apartado  anterior,  el Estado y las Comunidades Autónomas, en el ámbito de sus respectivas competencias, adaptarán su normativa a las previsiones contenidas en la presente Ley.
+En el plazo mencionado en el apartado anterior, el Estado y las Comunidades Autónomas, en el ámbito de sus respectivas competencias, adaptarán su normativa a las previsiones contenidas en la presente Ley.
 
-## Disposición  final  sexta. Modificación  de  la  Ley  1/1996, de 10 de enero, de Asistencia Jurídica Gratuita.
+## Disposición final sexta. Modificación de la Ley 1/1996, de 10 de enero, de Asistencia Jurídica Gratuita.
 
-Se  modifica  el  apartado  5  del  artículo  3  de  la  Ley 1/1996, de 10 de enero, de Asistencia Gratuita, que quedará redactado como sigue:
+Se modifica el apartado 5 del artículo 3 de la Ley 1/1996, de 10 de enero, de Asistencia Gratuita, que quedará redactado como sigue:
 
-«5. Tampoco será necesario que las víctimas de violencia de género acrediten previamente carecer de recursos  cuando  soliciten  defensa  jurídica  gratuita especializada,  que  se  les  prestará  de  inmediato,  sin perjuicio de que si no se le reconoce con posterioridad el derecho a la misma, éstas deban abonar al abogado los honorarios devengados por su intervención.»
+«5. Tampoco será necesario que las víctimas de violencia de género acrediten previamente carecer de recursos cuando soliciten defensa jurídica gratuita especializada, que se les prestará de inmediato, sin perjuicio de que si no se le reconoce con posterioridad el derecho a la misma, éstas deban abonar al abogado los honorarios devengados por su intervención.»
 
 ## Disposición final séptima. Entrada en vigor.
 
@@ -1514,7 +1516,13 @@ Por tanto,
 
 Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley orgánica.
 
-El Gobierno, en el plazo de seis meses desde la aprobación  de  esta  Ley,  procederá  a  la  modificación  del  artículo 116.4 del Real Decreto 190/1996, de 9 de febrero, por el  que se aprueba el Reglamento Penitenciario, estableciendo la obligatoriedad para la Administración Penitenciaria de realizar los programas específicos de tratamiento El Presidente del Gobierno, JOSÉ LUIS RODRÍGUEZ ZAPATERO
+Madrid, 28 de diciembre de 2004.
+
+JUAN CARLOS R.
+
+El Presidente del Gobierno,
+
+JOSÉ LUIS RODRÍGUEZ ZAPATERO
 
 ## ANEXO
 
@@ -1525,27 +1533,23 @@ El Gobierno, en el plazo de seis meses desde la aprobación  de  esta  Ley,  pro
 Provincia | Partido judicial número | Exclusivos | Compatibles | Categoría del titular
 --- | --- | --- | --- | ---
 Andalucía
-Almería. | 1 | - | 1
-2 | - | 1
-3 | - | 1
-4 | - | 1
-5 | - | 1
-6 | - | 1
-7 | - | 1
-8 | - | 1
-Cádiz. | 1 | - | 1
-2 | - | 1
-3 | - | 1 | Servido por Magistrado.
-4 | - | 1
-5 | - | 1
-6 | - | 1 | Servido por Magistrado.
-7 | - | 1 | Servido por Magistrado.
-8 | - | 1
-9 | - | 1 | Servido por Magistrado.
-
-Madrid, 28 de diciembre de 2004.
-
-JUAN CARLOS R.
+Almería. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | - | 1 |
+ | 4 | - | 1 |
+ | 5 | - | 1 |
+ | 6 | - | 1 |
+ | 7 | - | 1 |
+ | 8 | - | 1 |
+Cádiz. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | - | 1 | Servido por Magistrado.
+ | 4 | - | 1 |
+ | 5 | - | 1 |
+ | 6 | - | 1 | Servido por Magistrado.
+ | 7 | - | 1 | Servido por Magistrado.
+ | 8 | - | 1 |
+ | 9 | - | 1 | Servido por Magistrado.
 
 [[END OF PAGE 23]]
 
@@ -1557,63 +1561,63 @@ Miércoles  29  diciembre  2004
 
 42189
 
-Provincia | Partido judicial número | Exclusivos | Compatibles
---- | --- | --- | ---
-10 | - | 1
-11 | - | 1
-12 | - | 1
-13 | - | 1
-14 | - | 1
-15 | - | 1
-Córdoba.
-1 | - | 1
-2 | - | 1
-3 | - | 1
-4 | - | 1
-5 | - | 1
-6 | - | 1
-7 | - | 1
-8 | - | 1
-9 | - | 1
-10 | - | 1
-11 | - | 1
-12 | - | 1
-Granada.
-1 | - | 1
-2 | - | 1
-3 | 1 | -
-4 | - | 1
-5 | - | 1
-6 | - | 1
-7 | - | 1
-8 | - | 1 1
-Huelva. | 9 | -
-1 | - | 1
-2 | - | 1
-3 | - | 1
-4 | - | 1
-5 | - | 1
-Jaén. | 6 | - | 1
-1 | - | 1
-2 | - | 1
-3 | - | 1
-4 | - | 1
-5 | - | 1
-6 | - | 1
-7 | - | 1
-8 | - | 1
-9 | - | 1
-Málaga. | 10 | - | 1
-1 | - | 1
-2 | - | 1
-3 | 1 | -
-4 | - | 1
-5 | - | 1
-6 | - | 1
-7 | - | 1
-8 | - | 1
-9 10 | - - | 1 1
-11 12 | - - | 1 1
+Provincia | Partido judicial número | Exclusivos | Compatibles | Categoría del titular
+--- | --- | --- | --- | ---
+ | 10 | - | 1 | Servido por Magistrado.
+ | 11 | - | 1 |
+ | 12 | - | 1 |
+ | 13 | - | 1 |
+ | 14 | - | 1 |
+ | 15 | - | 1 |
+Córdoba. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | - | 1 |
+ | 4 | - | 1 |
+ | 5 | - | 1 |
+ | 6 | - | 1 |
+ | 7 | - | 1 |
+ | 8 | - | 1 |
+ | 9 | - | 1 |
+ | 10 | - | 1 |
+ | 11 | - | 1 |
+ | 12 | - | 1 |
+Granada. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | 1 | - |
+ | 4 | - | 1 | Servido por Magistrado.
+ | 5 | - | 1 |
+ | 6 | - | 1 |
+ | 7 | - | 1 |
+ | 8 | - | 1 |
+ | 9 | - | 1 |
+Huelva. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | - | 1 |
+ | 4 | - | 1 |
+ | 5 | - | 1 |
+ | 6 | - | 1 |
+Jaén. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | - | 1 |
+ | 4 | - | 1 |
+ | 5 | - | 1 |
+ | 6 | - | 1 |
+ | 7 | - | 1 |
+ | 8 | - | 1 |
+ | 9 | - | 1 |
+ | 10 | - | 1 |
+Málaga. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | 1 | - |
+ | 4 | - | 1 |
+ | 5 | - | 1 | Servido por Magistrado.
+ | 6 | - | 1 | Servido por Magistrado.
+ | 7 | - | 1 |
+ | 8 | - | 1 |
+ | 9 | - | 1 |
+ | 10 | - | 1 |
+ | 11 | - | 1 |
+ | 12 | - | 1 | Servido por Magistrado.
 
 [[END OF PAGE 24]]
 
@@ -1625,61 +1629,59 @@ Miércoles  29  diciembre  2004
 
 BOE núm. 313
 
-Provincia | Partido judicial número | Exclusivos | Compatibles
---- | --- | --- | ---
-Sevilla.
-1 | - | 1
-2 | - | 1
-3 | - | 1
-4 | - | 1
-5 | - | 1
-6 | 1 | -
-7 | - | 1
-8 | - | 1
-9 | - | 1
-10 | - | 1
-11 | - | 1
-12 | - | 1
-13 | - | 1
-14 | - | 1
-15 | - | 1
+Provincia | Partido judicial número | Exclusivos | Compatibles | Categoría del titular
+--- | --- | --- | --- | ---
+Sevilla. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | - | 1 |
+ | 4 | - | 1 |
+ | 5 | - | 1 |
+ | 6 | 1 | - |
+ | 7 | - | 1 |
+ | 8 | - | 1 |
+ | 9 | - | 1 |
+ | 10 | - | 1 |
+ | 11 | - | 1 |
+ | 12 | - | 1 | Servido por Magistrado.
+ | 13 | - | 1 |
+ | 14 | - | 1 |
+ | 15 | - | 1 |
 Aragón
-Huesca. | 1 | - | 1
-2 | - | 1
-3 | - | 1
-4 | - | 1
-5 | - | 1
-6 | - | 1
-Teruel.
-1 | - | 1
-2 | - | 1
-3 | - | 1
-Zaragoza.
-1 | - | 1
-2 | - | 1
-3 | - | 1
-4 | - | 1
-5 | - | 1
-6 | - | 1
-7 | - | 1
+Huesca. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | - | 1 |
+ | 4 | - | 1 |
+ | 5 | - | 1 |
+ | 6 | - | 1 |
+Teruel. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | - | 1 |
+Zaragoza. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | - | 1 |
+ | 4 | - | 1 |
+ | 5 | - | 1 |
+ | 6 | - | 1 |
+ | 7 | - | 1 |
 Asturias
-Asturias.
-1 | - | 1
-2 | - | 1
-3 | - | 1
-4 | - | 1
-5 | - | 1
-6 | - | 1
-7 | - | 1
-8 | - | 1
-9 | - | 1
-10 | - | 1
-11 | - - | 1 1
-12 | - | 1
-13 14 | - | 1
-15 | - | 1
-16 | - | 1
-17 18 | - - | 1 1
+Asturias. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | - | 1 |
+ | 4 | - | 1 | Servido por Magistrado.
+ | 5 | - | 1 |
+ | 6 | - | 1 |
+ | 7 | - | 1 |
+ | 8 | - | 1 | Servido por Magistrado.
+ | 9 | - | 1 |
+ | 10 | - | 1 |
+ | 11 | - | 1 |
+ | 12 | - | 1 |
+ | 13 | - | 1 |
+ | 14 | - | 1 |
+ | 15 | - | 1 |
+ | 16 | - | 1 |
+ | 17 | - | 1 |
+ | 18 | - | 1 |
 
 [[END OF PAGE 25]]
 
@@ -1687,66 +1689,62 @@ Asturias.
 
 BOE núm. 313
 
-Miércoles  29  diciembre  2004
+Miércoles 29 diciembre 2004
 
 42191
 
-Provincia | Partido judicial número | Exclusivos | Compatibles
---- | --- | --- | ---
+Provincia | Partido judicial número | Exclusivos | Compatibles | Categoría del titular
+--- | --- | --- | --- | ---
 Illes Balears
-Illes Balears.
-1 | - | 1
-2 | - | 1
-3 | 1 | -
-4 | - | 1
-5 | - | 1
-6 | - | 1
-7 | - | 1
+Illes Balears. | 1 | - | 1 | Servido por Magistrado.
+ | 2 | - | 1 |
+ | 3 | 1 | - |
+ | 4 | - | 1 |
+ | 5 | - | 1 | Servido por Magistrado.
+ | 6 | - | 1 |
+ | 7 | - | 1 |
 Canarias
-Las Palmas.
-1 | - | 1
-2 | 1 | -
-3 | - | 1
-4 | - | 1
-5 | - | 1
-6 | - | 1
-7 | - | 1
-8 | - | 1
-Santa Cruz de Tenerife.
-1 | - | 1
-2 | - | 1
-3 | 1 | -
-4 | - | 1
-5 | - | 1
-6 | - | 1
-7 | - | 1
-8 | - | 1
-9 | - | 1
-10 | - | 1
-11 | - | 1
-12 | - | 1
+Las Palmas. | 1 | - | 1 | Servido por Magistrado.
+ | 2 | 1 | - |
+ | 3 | - | 1 |
+ | 4 | - | 1 |
+ | 5 | - | 1 | Servido por Magistrado.
+ | 6 | - | 1 | Servido por Magistrado.
+ | 7 | - | 1 |
+ | 8 | - | 1 |
+Santa Cruz de Tenerife. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | 1 | - |
+ | 4 | - | 1 |
+ | 5 | - | 1 |
+ | 6 | - | 1 |
+ | 7 | - | 1 | Servido por Magistrado.
+ | 8 | - | 1 |
+ | 9 | - | 1 |
+ | 10 | - | 1 |
+ | 11 | - | 1 |
+ | 12 | - | 1 | Servido por Magistrado.
 Cantabria
-Cantabria.
-1 | - | 1
-2 | - | 1
-3 | - | 1
-4 | - | 1
-5 | - | 1
-6 | - | 1
-7 | - | 1
-Castilla y León | 8
-Ávila.
-1 | - | 1
-2 | - | 1
-3 | - | 1
-4 | - | 1
-Burgos.
-1 | - | 1
-2 | - | 1
-3 | - | 1
-4 | - | 1
-5 | - | 1
-6 7 | - - | 1 1
+Cantabria. | 1 | - | 1 | Servido por Magistrado.
+ | 2 | - | 1 |
+ | 3 | - | 1 |
+ | 4 | - | 1 |
+ | 5 | - | 1 |
+ | 6 | - | 1 |
+ | 7 | - | 1 |
+ | 8 | - | 1 |
+Castilla y León
+Ávila. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | - | 1 |
+ | 4 | - | 1 |
+Burgos. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | - | 1 |
+ | 4 | - | 1 |
+ | 5 | - | 1 |
+ | 6 | - | 1 |
+ | 7 | - | 1 |
 
 [[END OF PAGE 26]]
 
@@ -1754,64 +1752,64 @@ Burgos.
 
 42192
 
-Miércoles  29  diciembre  2004
+Miércoles 29 diciembre 2004
 
 BOE núm. 313
 
 Provincia | Partido judicial número | Exclusivos | Compatibles | Categoría del titular
 --- | --- | --- | --- | ---
-León.
-1 | - | 1
-2 | - | 1
-3 | - | 1
-4 | - | 1 | Magistrado.
-5 | - | 1
-6 | - | 1
-7 | - | 1
-Palencia. | 1 | - | 1
-2 | - | 1
-3 | - | 1
-Salamanca. | 1 | - | 1
-2 | - | 1
-3 | - | 1
-4 | - | 1
-5 | - | 1
-Segovia. | 1 | - | 1
-2 | - | 1
-3 | - | 1
-4 | - | 1
-Soria. | 1 | - | 1
-2 | - | 1
-3 | - | 1
-Valladolid. | 1 | - | 1
-2 | - | 1
-Zamora. | 3 | - | 1
-1 | - | 1
-- | 1
-2
-3 | - | 1
-4 | - | 1
-Castilla-La Mancha | 5
-- | 1
-Albacete. | 1 | - - | 1 1
-2 3 | - | 1
-4 | - | 1
-5 | - | 1
-6 | - | 1
-- | 1
-Ciudad Real. | 7 | - | 1
-1 2 | - | 1
-3 4 | - - | 1
-5 | - | 1 1
-- | 1
-6 7 | - | 1
-8 | - | 1 1
-9 | - | 1
-Cuenca. | 10 | -
-1 | - - | 1 1
-2 | - | 1
-3
-4 | - | 1
+León. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | - | 1 |
+ | 4 | - | 1 | Servido por Magistrado.
+ | 5 | - | 1 |
+ | 6 | - | 1 |
+ | 7 | - | 1 |
+Palencia. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | - | 1 |
+Salamanca. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | - | 1 |
+ | 4 | - | 1 |
+ | 5 | - | 1 |
+Segovia. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | - | 1 |
+ | 4 | - | 1 |
+Soria. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | - | 1 |
+Valladolid. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | - | 1 |
+Zamora. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | - | 1 |
+ | 4 | - | 1 |
+ | 5 | - | 1 |
+Castilla-La Mancha
+Albacete. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | - | 1 |
+ | 4 | - | 1 |
+ | 5 | - | 1 |
+ | 6 | - | 1 |
+ | 7 | - | 1 |
+Ciudad Real. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | - | 1 |
+ | 4 | - | 1 |
+ | 5 | - | 1 |
+ | 6 | - | 1 |
+ | 7 | - | 1 |
+ | 8 | - | 1 |
+ | 9 | - | 1 |
+ | 10 | - | 1 |
+Cuenca. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | - | 1 |
+ | 4 | - | 1 |
 
 [[END OF PAGE 27]]
 
@@ -1819,64 +1817,64 @@ Cuenca. | 10 | -
 
 BOE núm. 313
 
-Miércoles  29  diciembre  2004
+Miércoles 29 diciembre 2004
 
 42193
 
-Provincia | Partido judicial número | Exclusivos | Categoría del titular
---- | --- | --- | ---
-Guadalajara.
-1 | - | 1
-2 | - | 1
-3 | - | 1
-Toledo. | 1 | - | 1
-2 | - | 1
-3 | - | 1
-4 | - | Servido por Magistrado.
-5 | - | 1 1
-6 | - | 1
-7 | - | 1
+Provincia | Partido judicial número | Exclusivos | Compatibles | Categoría del titular
+--- | --- | --- | --- | ---
+Guadalajara. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | - | 1 |
+Toledo. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | - | 1 |
+ | 4 | - | 1 | Servido por Magistrado.
+ | 5 | - | 1 |
+ | 6 | - | 1 |
+ | 7 | - | 1 |
 Cataluña
-Barcelona.
-1 | -
-2 | - | Servido por Magistrado.
-3 | - | Servido por Magistrado.
-4 | - | Servido por Magistrado.
-5 | - | 1 1
-6 | - | Servido por Magistrado.
-7 | - | 1
-8 | - | 1
-9 | - | 1
-10 | - | Servido por Magistrado.
-11 | 2 | 1 -
-12 | - | 1
-13 | - | Servido por Magistrado.
-14 | - | Servido por Magistrado.
-15 16 | - - | Servido por Magistrado.
-Servido por Magistrado.
-17 | - | Servido por Magistrado.
-18 19 | - - | 1 Servido por Magistrado. 1
-20 21 | - - | Servido por Magistrado.
-22 | - | 1 1
-23
-- | 1
-24 | - | Servido por Magistrado.
-25 | - | Servido por Magistrado.
-Girona.
-1 | - | Servido por Magistrado.
-2 | - | 1 1
-3 | - | 1
-4 | - | 1
-5 | - | 1
-6 | - | 1
-7 | - | 1 1
-8 9 | - - | 1
-Lleida. | 1 | -
-2 | - | 1 1
-3 | - | 1
-4 | - | 1
-5 | - | 1
-6 7 | - - | 1 1
+Barcelona. | 1 | - | 1 |
+ | 2 | - | 1 | Servido por Magistrado.
+ | 3 | - | 1 | Servido por Magistrado.
+ | 4 | - | 1 | Servido por Magistrado.
+ | 5 | - | 1 |
+ | 6 | - | 1 | Servido por Magistrado.
+ | 7 | - | 1 |
+ | 8 | - | 1 |
+ | 9 | - | 1 |
+ | 10 | - | 1 | Servido por Magistrado.
+ | 11 | 2 | - |
+ | 12 | - | 1 |
+ | 13 | - | 1 | Servido por Magistrado.
+ | 14 | - | 1 |
+ | 15 | - | 1 | Servido por Magistrado.
+ | 16 | - | 1 | Servido por Magistrado.
+ | 17 | - | 1 | Servido por Magistrado.
+ | 18 | - | 1 | Servido por Magistrado.
+ | 19 | - | 1 | Servido por Magistrado.
+ | 20 | - | 1 |
+ | 21 | - | 1 | Servido por Magistrado.
+ | 22 | - | 1 |
+ | 23 | - | 1 |
+ | 24 | - | 1 | Servido por Magistrado.
+ | 25 | - | 1 | Servido por Magistrado.
+Girona. | 1 | - | 1 | Servido por Magistrado.
+ | 2 | - | 1 |
+ | 3 | - | 1 |
+ | 4 | - | 1 |
+ | 5 | - | 1 |
+ | 6 | - | 1 |
+ | 7 | - | 1 |
+ | 8 | - | 1 |
+ | 9 | - | 1 |
+Lleida. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | - | 1 |
+ | 4 | - | 1 |
+ | 5 | - | 1 |
+ | 6 | - | 1 |
+ | 7 | - | 1 |
 
 [[END OF PAGE 28]]
 
@@ -1884,66 +1882,64 @@ Lleida. | 1 | -
 
 42194
 
-Miércoles  29  diciembre  2004
+Miércoles 29 diciembre 2004
 
 BOE núm. 313
 
-Provincia | Partido judicial número | Exclusivos | Categoría del titular
---- | --- | --- | ---
-Tarragona.
-1 | - | 1
-2 | - | Servido por Magistrado.
-3 | - | 1 1
-4 | - | 1
-5 | - | 1
-6 | - | 1
-7 | - | 1
-8 | - | 1
+Provincia | Partido judicial número | Exclusivos | Compatibles | Categoría del titular
+--- | --- | --- | --- | ---
+Tarragona. | 1 | - | 1 |
+ | 2 | - | 1 | Servido por Magistrado.
+ | 3 | - | 1 |
+ | 4 | - | 1 |
+ | 5 | - | 1 |
+ | 6 | - | 1 |
+ | 7 | - | 1 |
+ | 8 | - | 1 |
 Comunidad Valenciana
-Alicante/Alacant.
-1 | - | Servido por Magistrado.
-2 | - | 1 1
-3 | 1 | -
-4 | - | Servido por Magistrado.
-5 | - | 1 1
-6 | - | 1
-7 | - | 1
-8 | - | Servido por Magistrado.
-9 | - | 1 1 Servido por Magistrado.
-10 | - | 1
-11 | - | 1
-12 | - | 1
-13 | - | Servido por Magistrado.
-Castellón/Castelló.
-1 | - | 1
-2 | - | 1
-3 | - | 1
-4 | - | 1
--
-5 | 1
-Valencia. | 1
-1 | - - | Servido por Magistrado.
-2 | -
-3 4 | - | Servido por Magistrado.
-5 | - | 1
-6 | 1 | -
-7 | - | 1
-8 | - | Servido por Magistrado.
-9 | - | 1 1
-10 | - | 1
-11 | -
-12 | -
-13 14 | - - | Servido por Magistrado.
-15 | - | 1
-16 | - | 1
-17 | - | 1
-18 | - | 1
+Alicante/Alacant. | 1 | - | 1 | Servido por Magistrado.
+ | 2 | - | 1 |
+ | 3 | 1 | - |
+ | 4 | - | 1 | Servido por Magistrado.
+ | 5 | - | 1 |
+ | 6 | - | 1 |
+ | 7 | - | 1 |
+ | 8 | - | 1 | Servido por Magistrado.
+ | 9 | - | 1 | Servido por Magistrado.
+ | 10 | - | 1 |
+ | 11 | - | 1 |
+ | 12 | - | 1 |
+ | 13 | - | 1 | Servido por Magistrado.
+Castellón/Castelló. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | - | 1 |
+ | 4 | - | 1 |
+ | 5 | - | 1 |
+Valencia. | 1 | - | 1 |
+ | 2 | - | 1 | Servido por Magistrado.
+ | 3 | - | 1 |
+ | 4 | - | 1 | Servido por Magistrado.
+ | 5 | - | 1 |
+ | 6 | 1 | - |
+ | 7 | - | 1 |
+ | 8 | - | 1 | Servido por Magistrado.
+ | 9 | - | 1 |
+ | 10 | - | 1 |
+ | 11 | - | 1 |
+ | 12 | - | 1 |
+ | 13 | - | 1 |
+ | 14 | - | 1 | Servido por Magistrado.
+ | 15 | - | 1 |
+ | 16 | - | 1 |
+ | 17 | - | 1 |
+ | 18 | - | 1 |
 Extremadura
-Badajoz. | 1 | -
-2 | - | 1
-3 | - | 1 1
-4 | - | Servido por Magistrado.
-5 6 | - - | 1 1
+Badajoz. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | - | 1 |
+ | 4 | - | 1 | Servido por Magistrado.
+ | 5 | - | 1 |
+ | 6 | - | 1 |
 
 [[END OF PAGE 29]]
 
@@ -1951,13 +1947,67 @@ Badajoz. | 1 | -
 
 BOE núm. 313
 
-Miércoles  29  diciembre  2004
+Miércoles 29 diciembre 2004
 
 42195
 
 Provincia | Partido judicial número | Exclusivos | Compatibles | Categoría del titular
 --- | --- | --- | --- | ---
-Galicia | 7 8 9 10 11 12 13 14 1 2 3 4 5 6 7 | - - - - - - - - - - - - - - - | 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 | Servido por Magistrado.
+ | 7 | - | 1 |
+ | 8 | - | 1 |
+ | 9 | - | 1 |
+ | 10 | - | 1 |
+ | 11 | - | 1 |
+ | 12 | - | 1 |
+ | 13 | - | 1 |
+ | 14 | - | 1 |
+Cáceres. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | - | 1 |
+ | 4 | - | 1 | Servido por Magistrado.
+ | 5 | - | 1 |
+ | 6 | - | 1 |
+ | 7 | - | 1 |
+Galicia
+A Coruña. | 1 | - | 1 |
+ | 2 | - | 1 | Servido por Magistrado.
+ | 3 | - | 1 | Servido por Magistrado.
+ | 4 | - | 1 |
+ | 5 | - | 1 |
+ | 6 | - | 1 |
+ | 7 | - | 1 |
+ | 8 | - | 1 |
+ | 9 | - | 1 |
+ | 10 | - | 1 |
+ | 11 | - | 1 |
+ | 12 | - | 1 |
+ | 13 | - | 1 |
+ | 14 | - | 1 |
+Lugo. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | - | 1 |
+ | 4 | - | 1 |
+ | 5 | - | 1 |
+ | 6 | - | 1 |
+ | 7 | - | 1 |
+ | 8 | - | 1 |
+ | 9 | - | 1 |
+Ourense. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | - | 1 |
+ | 4 | - | 1 |
+ | 5 | - | 1 |
+ | 6 | - | 1 |
+ | 7 | - | 1 |
+ | 8 | - | 1 |
+ | 9 | - | 1 |
+Pontevedra. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | - | 1 | Servido por Magistrado.
+ | 4 | - | 1 |
+ | 5 | - | 1 |
+ | 6 | - | 1 |
+ | 7 | - | 1 |
 
 [[END OF PAGE 30]]
 
@@ -1965,60 +2015,61 @@ Galicia | 7 8 9 10 11 12 13 14 1 2 3 4 5 6 7 | - - - - - - - - - - - - - - - | 1
 
 42196
 
-Miércoles  29  diciembre  2004
+Miércoles 29 diciembre 2004
 
 BOE núm. 313
 
 Provincia | Partido judicial número | Exclusivos | Compatibles | Categoría del titular
 --- | --- | --- | --- | ---
-- | 1
-8 9 | - | 1
-10 | - | 1
-11 | - | 1
-12 | - | 1
-13 | - | 1
+ | 8 | - | 1 |
+ | 9 | - | 1 |
+ | 10 | - | 1 |
+ | 11 | - | 1 |
+ | 12 | - | 1 |
+ | 13 | - | 1 |
 Madrid
-1 | - | 1 | Servido por Magistrado.
-2 3 | - | 1 1
-4 | - | 1 | Servido | por Magistrado.
-5 | - - | 1 | Servido por Magistrado.
-6 | - | 1 | Servido por Magistrado.
-7 | - | 1
-8 | - | 1
-9 | - | 1 | Servido por | Magistrado.
-10 | - | 1 | Servido por Magistrado.
-11 | 2 | -
-12 | - | 1 | Servido por Magistrado.
-13 | - | 1 | Servido | por Magistrado.
-14 | - | 1 | Servido por Magistrado.
-15 | - | 1 | Servido por Magistrado.
-16 | - | 1 | Servido | Magistrado.
-17 | - | 1 | por Servido | por Matistrado.
-18 | - | 1 | Servido por | Magistrado.
-19 | - | 1 | Servido | por Magistrado.
-20 | - | 1
-21 - | 1
+Madrid. | 1 | - | 1 |
+ | 2 | - | 1 | Servido por Magistrado.
+ | 3 | - | 1 |
+ | 4 | - | 1 | Servido por Magistrado.
+ | 5 | - | 1 | Servido por Magistrado.
+ | 6 | - | 1 | Servido por Magistrado.
+ | 7 | - | 1 |
+ | 8 | - | 1 |
+ | 9 | - | 1 | Servido por Magistrado.
+ | 10 | - | 1 | Servido por Magistrado.
+ | 11 | 2 | - |
+ | 12 | - | 1 | Servido por Magistrado.
+ | 13 | - | 1 | Servido por Magistrado.
+ | 14 | - | 1 | Servido por Magistrado.
+ | 15 | - | 1 | Servido por Magistrado.
+ | 16 | - | 1 | Servido por Magistrado.
+ | 17 | - | 1 | Servido por Matistrado.
+ | 18 | - | 1 | Servido por Magistrado.
+ | 19 | - | 1 | Servido por Magistrado.
+ | 20 | - | 1 |
+ | 21 | - | 1 |
 Murcia
-1 | - | 1
-2 | - | 1 | Servido | por Magistrado.
-3 | - | 1
-4 | - | 1 | Servido por Magistrado.
-5 | - | 1
-6 | 1 | -
-7 | - 1
-8 | - | 1
-9 | - | 1
-10 | - | 1
-11 | - | 1
+Murcia. | 1 | - | 1 |
+ | 2 | - | 1 | Servido por Magistrado.
+ | 3 | - | 1 |
+ | 4 | - | 1 | Servido por Magistrado.
+ | 5 | - | 1 |
+ | 6 | 1 | - |
+ | 7 | - | 1 |
+ | 8 | - | 1 |
+ | 9 | - | 1 |
+ | 10 | - | 1 |
+ | 11 | - | 1 |
 Navarra
-1 | - | 1
-2 | - | 1
-3 | - | 1
-4 | - | 1
-5 | - | 1
+Navarra. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | - | 1 |
+ | 4 | - | 1 |
+ | 5 | - | 1 |
 País Vasco
-1 | - | 1
-2 | - | 1
+Álava. | 1 | - | 1 |
+ | 2 | - | 1 |
 
 [[END OF PAGE 31]]
 
@@ -2026,57 +2077,54 @@ País Vasco
 
 BOE núm. 313
 
-Miércoles  29  diciembre  2004
+Miércoles 29 diciembre 2004
 
 42197
 
-Provincia | Partido judicial número | Exclusivos | Categoría del titular
---- | --- | --- | ---
-Guipúzcoa.
-1 2 | - | 1
-- | 1
-3 | - | 1
-4 | - | 1
-5 | - | 1
-6 | - | 1
-Vizcaya.
-1 | - | 1
-2 | - | Servido por Magistrado.
-3 | - | 1
-4 | 1 | -
-5 | - | 1
-6 | - | Servido por Magistrado.
+Provincia | Partido judicial número | Exclusivos | Compatibles | Categoría del titular
+--- | --- | --- | --- | ---
+Guipúzcoa. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | - | 1 |
+ | 4 | - | 1 |
+ | 5 | - | 1 |
+ | 6 | - | 1 |
+Vizcaya. | 1 | - | 1 |
+ | 2 | - | 1 | Servido por Magistrado.
+ | 3 | - | 1 |
+ | 4 | 1 | - |
+ | 5 | - | 1 |
+ | 6 | - | 1 | Servido por Magistrado.
 La Rioja
-La Rioja.
-1 | - | 1
-2 | - | 1
-3 | - | 1
+La Rioja. | 1 | - | 1 |
+ | 2 | - | 1 |
+ | 3 | - | 1 |
 Ciudad de Ceuta
-Ceuta.
-12 | - | Servido por Magistrado.
+Ceuta. | 12 | - | 1 | Servido por Magistrado.
 Ciudad de Melilla
-Melilla. | 8 | - | Servido por Magistrado.
-Total nacional ......................... | 14 | 421»
+Melilla. | 8 | - | 1 | Servido por Magistrado.
+Total nacional ......................... |  | 14 | 421» |
 
 21761
 
-# LEY  ORGÁNICA  2/2004,  de  28  de  diciembre, por la que se modifica la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.
+# LEY ORGÁNICA 2/2004, de 28 de diciembre, por la que se modifica la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.
 
 JUAN CARLOS I
 
 REY DE ESPAÑA
 
-A todos los que la presente vieren y entendieren. Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley orgánica.
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley orgánica.
 
 ## EXPOSICIÓN DE MOTIVOS
 
 La presente Ley pretende dar respuesta a la preocupación expuesta por la práctica totalidad de los Grupos parlamentarios, en la proposición no de Ley aprobada el 21 de septiembre pasado por el Congreso de los Diputados, en la que se insta al Gobierno, entre otras cuestiones, a la adopción de las medidas precisas que refuercen la independencia del Poder Judicial.
 
-A tal fin, y sin perjuicio de otras reformas posteriores de  mayor  calado  que  puedan  realizarse,  se  aborda  la regulación de tres aspectos puntuales que coinciden en la necesidad de una reforma legal urgente. De un lado, se modifica  el  sistema  de  mayorías  para  la  adopción  de determinados acuerdos por el Pleno del Consejo General del  Poder  Judicial  y,  de  otro,  se  fortalece  la  figura  de Magistrado suplente del Tribunal Supremo y del Jefe del Servicio  de  Inspección  del  Consejo  General  del  Poder Judicial.
+A tal fin, y sin perjuicio de otras reformas posteriores de mayor calado que puedan realizarse, se aborda la regulación de tres aspectos puntuales que coinciden en la necesidad de una reforma legal urgente. De un lado, se modifica el sistema de mayorías para la adopción de determinados acuerdos por el Pleno del Consejo General del Poder Judicial y, de otro, se fortalece la figura de Magistrado suplente del Tribunal Supremo y del Jefe del Servicio de Inspección del Consejo General del Poder Judicial.
 
-La garantía tradicional de la independencia de los Jueces y Magistrados integrantes del Poder Judicial (artículo 117 .1 CE) se proyecta en la actuación del Poder Judicial -según el Pacto de Estado para la Reforma de la Justicia, suscrito el 28 de mayo de 2001- como un «poder independiente,  unitario  e  integrado,  con  una  estructura  vertebrada, regida por una coherencia institucional que le permita desarrollar más eficazmente sus funciones constitucionales».  Esta  clásica  exigencia  de  la  independencia  es  predicable  frente  a  todos  -otros  poderes  del Estado, los demás órganos judiciales o el encargado de velar  por  la  misma:  el  Consejo  General  del  Poder  Judicial-  y  constituye,  junto  a  la  mejora  de  la  calidad  de  la justicia, uno de los pilares sobre los que se inspira esta reforma.
+La garantía tradicional de la independencia de los Jueces y Magistrados integrantes del Poder Judicial (artículo 117.1 CE) se proyecta en la actuación del Poder Judicial –según el Pacto de Estado para la Reforma de la Justicia, suscrito el 28 de mayo de 2001– como un «poder independiente, unitario e integrado, con una estructura vertebrada, regida por una coherencia institucional que le permita desarrollar más eficazmente sus funciones constitucionales». Esta clásica exigencia de la independencia es predicable frente a todos –otros poderes del Estado, los demás órganos judiciales o el encargado de velar por la misma: el Consejo General del Poder Judicial– y constituye, junto a la mejora de la calidad de la justicia, uno de los pilares sobre los que se inspira esta reforma.
 
-Acorde con lo anterior, la presente reforma pretende potenciar al Tribunal Supremo, como órgano jurisdiccional superior en todos los órdenes, y a las Presidencias de los Tribunales  Superiores  como  los  órganos  judiciales en los que culmina la organización judicial de la Comunidad Autónoma, velando por el prestigio de las instituciones y la cualificación de sus miembros.
+Acorde con lo anterior, la presente reforma pretende potenciar al Tribunal Supremo, como órgano jurisdiccional superior en todos los órdenes, y a las Presidencias de los Tribunales Superiores como los órganos judiciales en los que culmina la organización judicial de la Comunidad Autónoma, velando por el prestigio de las instituciones y la cualificación de sus miembros.
 
 En este sentido se pretende fortalecer el mérito y la capacidad como las razones esenciales del nombramiento y acceso al Tribunal Supremo y a las Presidencias de los
 
