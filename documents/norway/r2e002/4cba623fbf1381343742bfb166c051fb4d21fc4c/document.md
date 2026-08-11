@@ -64,33 +64,33 @@ The translation is provided by the Ministry of Education and Research.
 
 The purpose of this Act is to make provisions for universities and university colleges to
 
-- provide higher education at a high international level;
+a) provide higher education at a high international level;
 
-- conduct research and academic and artistic development work at a high international level;
+b) conduct research and academic and artistic development work at a high international level;
 
-- disseminate knowledge of the institution's activities and promote an understanding of the principle of academic freedom and application of scientific and artistic methods and results in the teaching of students, in the institution's own general activity as well as in public administration, in cultural life and in business and industry.
+c) disseminate knowledge of the institution's activities and promote an understanding of the principle of academic freedom and application of scientific and artistic methods and results in the teaching of students, in the institution's own general activity as well as in public administration, in cultural life and in business and industry.
 
-#### Section 1-2. The scope of the Act - universities and university colleges
+#### Section 1-2. The scope of the Act – universities and university colleges
 
-- The Act must apply to universities and university colleges that provide education accredited pursuant to this Act or that have obtained institutional accreditation, cf. Section 3-1, as
+(1) The Act must apply to universities and university colleges that provide education accredited pursuant to this Act or that have obtained institutional accreditation, cf. Section 3-1, as
 
-- a university,
+a) a university,
 
-- a specialized university institution or
+b) a specialized university institution or
 
-- a university college.
+c) a university college.
 
-- The category to which an individual institution belongs will be decided by the King on the basis of an accreditation assessment by the Norwegian Agency for Quality Assurance in Education (NOKUT).
+(2) The category to which an individual institution belongs will be decided by the King on the basis of an accreditation assessment by the Norwegian Agency for Quality Assurance in Education (NOKUT).
 
-- The King may, on the basis of an accreditation assessment by NOKUT, decide that certain provisions of this Act will apply correspondingly to other institutions.
+(3) The King may, on the basis of an accreditation assessment by NOKUT, decide that certain provisions of this Act will apply correspondingly to other institutions.
 
-- The Ministry may, on the recommendation of the board, decide that deviations may be made from provisions of this Act and from regulations laid down pursuant to the Act in connection with time-limited educational or organizational pilot schemes.
+(4) The Ministry may, on the recommendation of the board, decide that deviations may be made from provisions of this Act and from regulations laid down pursuant to the Act in connection with time-limited educational or organizational pilot schemes.
 
-- The Act must apply to universities and university colleges with activities in the Realm. The Act must apply to Svalbard and Jan Mayen unless otherwise prescribed by the King. The King may lay down special provisions out of regard for local conditions.
+(5) The Act must apply to universities and university colleges with activities in the Realm. The Act must apply to Svalbard and Jan Mayen unless otherwise prescribed by the King. The King may lay down special provisions out of regard for local conditions.
 
-- The Act will not apply to activities conducted outside the Realm. The King may nevertheless decide that such activities must wholly or partly be made subject to the provisions of the Act.
+(6) The Act will not apply to activities conducted outside the Realm. The King may nevertheless decide that such activities must wholly or partly be made subject to the provisions of the Act.
 
-- By agreement with a foreign state or international organization, the scope of the Act may be extended or restricted within specific fields.
+(7) By agreement with a foreign state or international organization, the scope of the Act may be extended or restricted within specific fields.
 
 #### Section 1-3. The institutions' activities
 
@@ -100,29 +100,29 @@ The purpose of this Act is to make provisions for universities and university co
 
 Universities and university colleges must promote the purpose of the Act by:
 
-- providing higher education based on the foremost within research, academic and artistic development work, and experience-based knowledge;
+a) providing higher education based on the foremost within research, academic and artistic development work, and experience-based knowledge;
 
 b) conducting research and academic and artistic development work;
 
-- efficiently managing the resources provided and actively seeking external resources;
+c) efficiently managing the resources provided and actively seeking external resources;
 
-- helping to disseminate and communicate the results of research and of academic and artistic development work;
+d) helping to disseminate and communicate the results of research and of academic and artistic development work;
 
-- contributing to innovation and value creation based on results from research and academic and artistic development work;
+e) contributing to innovation and value creation based on results from research and academic and artistic development work;
 
-- facilitating participation in the public debate by the institution's staff and students;
+f) facilitating participation in the public debate by the institution's staff and students;
 
-- helping to ensure that Norwegian higher education and research are at the forefront of international research and of developments within higher education;
+g) helping to ensure that Norwegian higher education and research are at the forefront of international research and of developments within higher education;
 
-- cooperating with other universities, university colleges and corresponding institutions in other countries, local and regional civic and working life, public administration and international organizations;
+h) cooperating with other universities, university colleges and corresponding institutions in other countries, local and regional civic and working life, public administration and international organizations;
 
-- providing continuing and further education in the institution's field of accreditation.
+i) providing continuing and further education in the institution's field of accreditation.
 
 #### Section 1-4. The special responsibilities of certain institutions
 
 (1) Universities and university colleges have a special responsibility for basic research and research training in the fields in which they award doctorates.
 
-(2) The University of Bergen, the University of Oslo, the University of Tromsø - the Arctic University of Norway, the Norwegian University of Science and Technology, and the University of Stavanger have a special national responsibility for developing, managing and maintaining museums with scientific collections and public exhibitions. The Ministry may issue further regulations concerning cooperation and division of responsibilities between the universities in this area.
+(2) The University of Bergen, the University of Oslo, the University of Tromsø – the Arctic University of Norway, the Norwegian University of Science and Technology, and the University of Stavanger have a special national responsibility for developing, managing and maintaining museums with scientific collections and public exhibitions. The Ministry may issue further regulations concerning cooperation and division of responsibilities between the universities in this area.
 
 (3) The Ministry may assign certain institutions a special national responsibility for research or education in specific fields. In the same way, the Ministry may assign certain institutions special national responsibility for developing, managing and maintaining research libraries, knowledge repositories and databases, as well as museums with scientific collections and public exhibitions for specific fields.
 
@@ -134,11 +134,11 @@ b) conducting research and academic and artistic development work;
 
 (2) In other respects, universities and university colleges are entitled to establish their own academic and value basis within the framework laid down in or pursuant to law.
 
-- Universities or university colleges may not be instructed regarding
+(3) Universities or university colleges may not be instructed regarding
 
-- the academic content of their teaching and the content of research or artistic or academic development work.
+a) the academic content of their teaching and the content of research or artistic or academic development work.
 
-- individual appointments.
+b) individual appointments.
 
 [[END OF PAGE 3]]
 
@@ -158,7 +158,7 @@ Universities and university colleges must have a satisfactory internal system fo
 
 Universities and university colleges are responsible for maintaining and further developing Norwegian academic language.
 
-### Chapter 2. The Norwegian Agency for Quality Assurance in Education - NOKUT
+### Chapter 2. The Norwegian Agency for Quality Assurance in Education – NOKUT
 
 #### Section 2-1. NOKUT's responsibilities and authority
 
@@ -178,11 +178,11 @@ Universities and university colleges are responsible for maintaining and further
 
 [[START OF PAGE 5]]
 
-- Requirements for quality assurance systems and quality work;
+a) Requirements for quality assurance systems and quality work;
 
-- Standards and criteria for accreditation of institutions and study programmes;
+b) Standards and criteria for accreditation of institutions and study programmes;
 
-- Procedural rules for NOKUT's activity.
+c) Procedural rules for NOKUT's activity.
 
 NOKUT may issue more detailed regulations concerning the same topics.
 
@@ -192,13 +192,13 @@ NOKUT may issue more detailed regulations concerning the same topics.
 
 (2) The board is appointed by the Ministry and consists of nine members. One member must be a student at a university or university college, and one member must be a student at a tertiary vocational college. One member must be appointed from among NOKUT's staff and have the right to vote in matters concerning the staff. Deputy board members must be appointed, including personal deputy board members for the staff and student members. The Ministry must appoint the chair of the board.
 
-- The board's term of office is four years. Student members are appointed for two years.
+(3) The board's term of office is four years. Student members are appointed for two years.
 
-- Members of the board may not hold leading positions or office at institutions that are subject to this Act.
+(4) Members of the board may not hold leading positions or office at institutions that are subject to this Act.
 
-- The board appoints NOKUT's director for a fixed term. The fixed term must be six years.
+(5) The board appoints NOKUT's director for a fixed term. The fixed term must be six years.
 
-### Chapter 3. Academic provisions - accreditation
+### Chapter 3. Academic provisions – accreditation
 
 #### Section 3-1. Accreditation of study programmes and institutions
 
@@ -290,7 +290,7 @@ NOKUT decides, upon application from individuals, whether education from a forei
 
 (2) The Ministry may issue regulations concerning consideration of appeals and ranking of applicants.
 
-- There must be a separate admission to higher degree courses.
+(3) There must be a separate admission to higher degree courses.
 
 (4) The Ministry may impose a restriction on admissions when it is found necessary following a total assessment of educational provision in Norway.
 
@@ -304,11 +304,11 @@ NOKUT decides, upon application from individuals, whether education from a forei
 
 (9) If an institution has recruited foreign students by means of external placement services, the institution is responsible for
 
-- ensuring that the students have received satisfactory information concerning the courses to which they have been admitted, including the course structure, the nominal duration of the course and academic prerequisites;
+a) ensuring that the students have received satisfactory information concerning the courses to which they have been admitted, including the course structure, the nominal duration of the course and academic prerequisites;
 
-- ensuring that the student has received satisfactory information concerning the educational institution, including information concerning the institution's various facilities for students;
+b) ensuring that the student has received satisfactory information concerning the educational institution, including information concerning the institution's various facilities for students;
 
-- knowing how the student has been recruited and on what conditions the service has been provided to the student.
+c) knowing how the student has been recruited and on what conditions the service has been provided to the student.
 
 #### Section 3-8. Teaching
 
@@ -330,7 +330,7 @@ NOKUT decides, upon application from individuals, whether education from a forei
 
 (4) The examination result must be made known within three weeks unless for special reasons more time is required. The board may itself make exceptions in respect of specific examinations and may in temporary regulations pursuant to the seventh subsection set a longer time limit when it is impossible to provide the number of qualified examiners required to complete the grading within three weeks. The board may itself in a regulation pursuant to the seventh subsection set a longer time limit for dissertations and similar larger written works.
 
-(5) Re-grading pursuant to Sections 5-2 and 5-3 must be carried out by at least two new examiners, of whom at least one must be external. Grades may be changed in the appellant's favour and disfavour. If the final grade is set on the basis of both a written and an oral test and the grade is changed after the regrading of the written part of the examination, a new oral test must be held to determine the final grade.
+(5) Re-grading pursuant to Sections 5-2 and 5-3 must be carried out by at least two new examiners, of whom at least one must be external. Grades may be changed in the appellant's favour and disfavour. If the final grade is set on the basis of both a written and an oral test and the grade is changed after the re-grading of the written part of the examination, a new oral test must be held to determine the final grade.
 
 (6) The grade awarded following an examination, test, assessment of an assignment or other assessment must either be pass/fail or be based on a scale of five grades from A to E to indicate a pass and F for fail.
 
@@ -344,35 +344,35 @@ NOKUT decides, upon application from individuals, whether education from a forei
 
 [[START OF PAGE 10]]
 
-- Permission to register for an examination pursuant to this section may be refused if the candidate has not attended required courses or completed required practice.
+(2) Permission to register for an examination pursuant to this section may be refused if the candidate has not attended required courses or completed required practice.
 
-- The board issues regulations concerning permission to sit examinations, and may stipulate a separate final registration date for a candidate who sits an examination without having been admitted as a student.
+(3) The board issues regulations concerning permission to sit examinations, and may stipulate a separate final registration date for a candidate who sits an examination without having been admitted as a student.
 
-- The board may decide that examination candidates who have not been admitted as students on the course concerned, must pay a fee to cover the extra expenses incurred by the institution in holding examinations for this group of candidates or any fees prescribed for the course or study programme. The Ministry may issue regulations concerning fees pursuant to this provision.
+(4) The board may decide that examination candidates who have not been admitted as students on the course concerned, must pay a fee to cover the extra expenses incurred by the institution in holding examinations for this group of candidates or any fees prescribed for the course or study programme. The Ministry may issue regulations concerning fees pursuant to this provision.
 
 #### Section 3-11. Diplomas
 
-- The institution must issue a diploma for a completed course. At the same time, a Diploma Supplement must be issued. NOKUT may issue guidelines for the content of the Diploma Supplement.
+(1) The institution must issue a diploma for a completed course. At the same time, a Diploma Supplement must be issued. NOKUT may issue guidelines for the content of the Diploma Supplement.
 
-- A person who has not completed their education, must on request be provided with transcripts of the grades he or she obtained in examinations or tests passed.
+(2) A person who has not completed their education, must on request be provided with transcripts of the grades he or she obtained in examinations or tests passed.
 
-- In the case of candidates who sit examinations pursuant to Section 3-10, first subsection, second sentence, it must be indicated on the diploma or transcript if the candidate's knowledge and skills have been assessed in a different way from the students who were admitted to the course.
+(3) In the case of candidates who sit examinations pursuant to Section 3-10, first subsection, second sentence, it must be indicated on the diploma or transcript if the candidate's knowledge and skills have been assessed in a different way from the students who were admitted to the course.
 
-- It must be indicated on the diploma if the education has been provided in cooperation with other institutions, cf. Section 3-2, first subsection.
+(4) It must be indicated on the diploma if the education has been provided in cooperation with other institutions, cf. Section 3-2, first subsection.
 
-- When issuing diplomas, the institution must grant authorization to health personnel, in so far as this is provided in regulations issued pursuant to the Act of 2 July 1999 No. 64 relating to health personnel.
+(5) When issuing diplomas, the institution must grant authorization to health personnel, in so far as this is provided in regulations issued pursuant to the Act of 2 July 1999 No. 64 relating to health personnel.
 
 ### Chapter 4. The students' rights and obligations
 
 #### Section 4-1. Student bodies
 
-- The students attending universities and university colleges may establish a student body to safeguard the interests of students and present their views to the board of the institution. Students at individual faculties or departments may similarly establish student bodies there.
+(1) The students attending universities and university colleges may establish a student body to safeguard the interests of students and present their views to the board of the institution. Students at individual faculties or departments may similarly establish student bodies there.
 
-- Elections to bodies as mentioned in the first subsection must be by ballot among the students unless unanimously decided otherwise by a general meeting. A decision to adopt a voting system other than ballot will only apply to the immediately subsequent election.
+(2) Elections to bodies as mentioned in the first subsection must be by ballot among the students unless unanimously decided otherwise by a general meeting. A decision to adopt a voting system other than ballot will only apply to the immediately subsequent election.
 
-- Institutions must provide conditions in which student bodies are able to perform their functions in a satisfactory manner. The extent of such arrangements must be specified in an agreement between the institution and the highest student body.
+(3) Institutions must provide conditions in which student bodies are able to perform their functions in a satisfactory manner. The extent of such arrangements must be specified in an agreement between the institution and the highest student body.
 
-- Student bodies must be heard in all questions concerning students at the relevant level.
+(4) Student bodies must be heard in all questions concerning students at the relevant level.
 
 #### Section 4-2. Individual education plan
 
@@ -388,23 +388,23 @@ Between the institution and students admitted to courses of 60 credits or more, 
 
 (2) The board is responsible for ensuring that the learning environment at the institution, including the physical and psychological working environment, is fully satisfactory on the basis of an overall assessment of considerations regarding the health, safety and welfare of the students. The design of the physical working environment must as far as possible and reasonable, ensure
 
-- that premises, access roads, staircases, etc. are dimensioned and equipped for the activities that take place there.
+a) that premises, access roads, staircases, etc. are dimensioned and equipped for the activities that take place there.
 
-- that the premises have satisfactory lighting and acoustics and a sound indoor climate and air quality.
+b) that the premises have satisfactory lighting and acoustics and a sound indoor climate and air quality.
 
-- that the premises are properly maintained and are clean and tidy.
+c) that the premises are properly maintained and are clean and tidy.
 
-- that the premises are equipped so as to avoid detrimental physical strain for the students.
+d) that the premises are equipped so as to avoid detrimental physical strain for the students.
 
-- that activities are planned so as to prevent injuries and accidents.
+e) that activities are planned so as to prevent injuries and accidents.
 
-- that technical installations and equipment are provided with protective devices and are maintained so as to protect students from danger to life and health.
+f) that technical installations and equipment are provided with protective devices and are maintained so as to protect students from danger to life and health.
 
-- that premises, access roads, sanitary facilities and technical installations are designed in such a way that people with disabilities can study at the institution.
+g) that premises, access roads, sanitary facilities and technical installations are designed in such a way that people with disabilities can study at the institution.
 
-- that the learning environment is well adapted for students of both sexes.
+h) that the learning environment is well adapted for students of both sexes.
 
-- that the learning environment is designed according to the principles of universal design.
+i) that the learning environment is designed according to the principles of universal design.
 
 The Ministry may in regulations lay down further provisions concerning requirements regarding the learning environment.
 
@@ -440,7 +440,7 @@ A student who in connection with his or her studies acquires knowledge of someon
 
 (1) The board itself or the institution's appeals committee, cf. Section 5-1, may annul an examination or test or accreditation of a course if the student a) by using a forged diploma or by other dishonest means, has gained admission to the examination or test or to attend the course concerned, or
 
-- has intentionally attempted to cheat or intentionally or through gross negligence has cheated in connection with the examination or test or prior to the final grading of the examination or test, or while taking the course in question.
+b) has intentionally attempted to cheat or intentionally or through gross negligence has cheated in connection with the examination or test or prior to the final grading of the examination or test, or while taking the course in question.
 
 (2) The board itself or the institution's appeals committee, cf. Section 5-1, may annul credit for or recognition of a course, or exemption from an examination or test, if the student obtained it by using a forged diploma or by other dishonest means.
 
@@ -468,7 +468,7 @@ A student who in connection with his or her studies acquires knowledge of someon
 
 (5) The student is entitled to seek the assistance of a lawyer or other spokesperson from the date the question of expulsion or exclusion is raised, or from the date of any written warning pursuant to the first subsection. The expenses for this are covered by the institution, according to rates determined pursuant to Regulations relating to lawyers' fees from the state etc. of 3 December 1997 no. 1441 ( salærforskriften ) . Should the board itself, or the institution's appeals committee, cf. Section 5-1, find that more time has been spent than what is reasonable and necessary, the fee may be reduced. A decision to reduce the fee may be appealed to the Ministry or a special appeals body appointed by the Ministry, cf. Section 5-1 seventh subsection.
 
-#### Section 4-9. Exclusion owing to criminal offences - police certificate of good conduct
+#### Section 4-9. Exclusion owing to criminal offences – police certificate of good conduct
 
 [[END OF PAGE 13]]
 
@@ -518,7 +518,7 @@ A student who in connection with his or her studies acquires knowledge of someon
 
 #### Section 4-12. Register for exchange of information concerning excluded students
 
-(1) The register of excluded students (Register for utestengte studenter - RUST) is a government register that ensures efficient exchange of information. The information in the register is made available to universities, university colleges, NUCAS (Norwegian Universities and Colleges Admission Service) and NOKUT when it is necessary for their work. The purpose of the register is to prevent a candidate or applicant who has forfeited rights due to a decision as mentioned in the second subsection, from being given such rights at another institution.
+(1) The register of excluded students (Register for utestengte studenter – RUST) is a government register that ensures efficient exchange of information. The information in the register is made available to universities, university colleges, NUCAS (Norwegian Universities and Colleges Admission Service) and NOKUT when it is necessary for their work. The purpose of the register is to prevent a candidate or applicant who has forfeited rights due to a decision as mentioned in the second subsection, from being given such rights at another institution.
 
 (2) Universities and university colleges must enter in this register information about decisions pursuant to Section 3-7 eighth subsection, Section 4-8 first to third subsection and Section 4-10 third subsection, that have consequences for admission to courses and the right to take examinations at other institutions. Once the period which the decision covers has expired, the information about the decision must be deleted from the register.
 
@@ -552,7 +552,7 @@ A student who in connection with his or her studies acquires knowledge of someon
 
 (1) The educational institution may process personal data regarding an applicant, student or PhD candidate when the purpose of the processing is to safeguard the rights of the data subject, or to fulfil the institution's tasks and duties under the Act relating to universities and university colleges.
 
-(2) The educational institution may process information about a person's names, personal identity number, temporary personal identity number, D number and grades from upper secondary education and universities and university colleges obtained from government authorities, public diploma systems, state, countymunicipal and private educational institutions when it is necessary to fulfil the purpose mentioned in the first subsection. The information may be obtained electronically.
+(2) The educational institution may process information about a person's names, personal identity number, temporary personal identity number, D number and grades from upper secondary education and universities and university colleges obtained from government authorities, public diploma systems, state, county-municipal and private educational institutions when it is necessary to fulfil the purpose mentioned in the first subsection. The information may be obtained electronically.
 
 (3) The educational institution may also process information about health, social issues and other sensitive information which the student him/herself has given to the institution, or has consented to the institutions receiving, when such information is necessary for purposes as described in the first subsection. These restrictions in the institutions' permission to process information concerning health, social issues or other sensitive information do not apply for necessary processing pursuant to Sections 4-10 and 4-12.
 
@@ -568,37 +568,37 @@ A student who in connection with his or her studies acquires knowledge of someon
 
 [[START OF PAGE 17]]
 
-- Norwegian Universities and Colleges Admission Service (NUCAS) is a coordinated national service which processes applications for admission to higher education. NUCAS, the educational institutions and other bodies that participate in the coordinated admission, may process personal data about an applicant, when the purpose is to process an application for admission to higher education.
+(1) Norwegian Universities and Colleges Admission Service (NUCAS) is a coordinated national service which processes applications for admission to higher education. NUCAS, the educational institutions and other bodies that participate in the coordinated admission, may process personal data about an applicant, when the purpose is to process an application for admission to higher education.
 
-- The provisions in Section 4-15 second, third and fourth subsection apply correspondingly for NUCAS.
+(2) The provisions in Section 4-15 second, third and fourth subsection apply correspondingly for NUCAS.
 
-- The government body that is responsible for NUCAS is the controller of the personal data in the coordinated admission process. The Ministry may issue regulations concerning the processing and registration of personal data for the coordinated admission.
+(3) The government body that is responsible for NUCAS is the controller of the personal data in the coordinated admission process. The Ministry may issue regulations concerning the processing and registration of personal data for the coordinated admission.
 
 #### Section 4-17. Student ombudsperson
 
-- The board must ensure that all students have access to a student ombudsperson.
+(1) The board must ensure that all students have access to a student ombudsperson.
 
-- The student ombudsperson is to advice and help the students in matters concerning their study situation. The student ombudsperson must not be instructed in this work. The student ombudsperson has a duty of secrecy, cf. sections 13 to 13 e of the Public Administration Act.
+(2) The student ombudsperson is to advice and help the students in matters concerning their study situation. The student ombudsperson must not be instructed in this work. The student ombudsperson has a duty of secrecy, cf. sections 13 to 13 e of the Public Administration Act.
 
-- The Ministry may issue further regulations concerning student ombudspersons.
+(3) The Ministry may issue further regulations concerning student ombudspersons.
 
 ### Chapter 5. Appeals
 
 #### Section 5-1. Appeals committee and special national appeals body
 
-- Universities and university colleges must establish an appeals committee to deal with appeals against individual decisions and, according to the decision of the board, other appeals cases brought by the students.
+(1) Universities and university colleges must establish an appeals committee to deal with appeals against individual decisions and, according to the decision of the board, other appeals cases brought by the students.
 
-- The appeals committee must have five members with personal deputies. The Chair and the Chair's deputy must satisfy the statutory qualification requirements for judges of the Court of Appeal ( lagdommere ). The Chair and the Chair's deputy must not be members of the institution's staff. Two members must be students.
+(2) The appeals committee must have five members with personal deputies. The Chair and the Chair's deputy must satisfy the statutory qualification requirements for judges of the Court of Appeal (lagdommere). The Chair and the Chair's deputy must not be members of the institution's staff. Two members must be students.
 
-- Representatives for the institution's owner and members of the institution's board may not be members of the appeals committee.
+(3) Representatives for the institution's owner and members of the institution's board may not be members of the appeals committee.
 
-- The appeals committee has a quorum when the Chair or Chair's deputy and two other members are present.
+(4) The appeals committee has a quorum when the Chair or Chair's deputy and two other members are present.
 
-- Decisions by the appeals committee are final.
+(5) Decisions by the appeals committee are final.
 
-- The Ministry may issue regulations concerning appeals procedures.
+(6) The Ministry may issue regulations concerning appeals procedures.
 
-- The Ministry may establish a special national appeals body to deal with appeals against individual decisions in specific areas and decisions pursuant to the Freedom of Information Act.
+(7) The Ministry may establish a special national appeals body to deal with appeals against individual decisions in specific areas and decisions pursuant to the Freedom of Information Act.
 
 #### Section 5-2. Appeals regarding procedural errors in connection with examinations
 
@@ -616,7 +616,7 @@ A student who in connection with his or her studies acquires knowledge of someon
 
 (5) The board itself or the institution's appeals committee, cf. Section 5-1, is the appeals body for the institution's decisions pursuant to this provision.
 
-#### Section 5-3. Appeals regarding a student's grade - right to explanation
+#### Section 5-3. Appeals regarding a student's grade – right to explanation
 
 (1) A student is entitled to an explanation of the grade awarded for his or her performance. At oral examinations or assessments of practical skills, a request for such an explanation must be made immediately on notification of the grade. Requests for explanations of other assessments must, if the student has been informed of the grade electronically and can request an explanation in the same way, be submitted within one week after the announcement of the grade. In announcements of other kinds, the explanation must be requested within one week after the candidate learns of the grade, but never more than three weeks after the announcement of the grade.
 
@@ -632,17 +632,17 @@ A student who in connection with his or her studies acquires knowledge of someon
 
 [[START OF PAGE 19]]
 
-- If the result of the re-grading varies from the original grading by two or more grades, the educational institution must conduct a further assessment before the final grade is determined.
+(6) If the result of the re-grading varies from the original grading by two or more grades, the educational institution must conduct a further assessment before the final grade is determined.
 
-- Grades awarded following re-grading pursuant to this section cannot be appealed.
+(7) Grades awarded following re-grading pursuant to this section cannot be appealed.
 
 #### Section 5-4. Body for international cooperation on education
 
-- The Ministry has established an administrative body that is to work to coordinate and promote international cooperation on education throughout the course of education. For administration purposes, this body is subordinate to the Ministry.
+(1) The Ministry has established an administrative body that is to work to coordinate and promote international cooperation on education throughout the course of education. For administration purposes, this body is subordinate to the Ministry.
 
-- Individual decisions made by the administrative body concerning allocation of funds may be appealed to the body that delegated the authority to make decisions. The appeals body cannot review the discretionary assessments made by the administrative body.
+(2) Individual decisions made by the administrative body concerning allocation of funds may be appealed to the body that delegated the authority to make decisions. The appeals body cannot review the discretionary assessments made by the administrative body.
 
-- The Ministry may issue regulations concerning the administrative body's case handling, mandate, organization and other administrative matters.
+(3) The Ministry may issue regulations concerning the administrative body's case handling, mandate, organization and other administrative matters.
 
 ### Chapter 6. Appointments
 
@@ -656,9 +656,9 @@ Universities and university colleges must make active, targeted and systematic e
 
 #### Section 6-3. Advertisement of and appointments to academic positions
 
-- Appointments to academic positions are made by the board or, when so decided by the board, by a subordinate body or by one or more appointments committees. The board must itself decide the composition of such appointments committees. Unless the board unanimously decides otherwise, the students must be represented in the appointing body.
+(1) Appointments to academic positions are made by the board or, when so decided by the board, by a subordinate body or by one or more appointments committees. The board must itself decide the composition of such appointments committees. Unless the board unanimously decides otherwise, the students must be represented in the appointing body.
 
-- The appointing body must itself advertise academic positions. If one sex is clearly underrepresented in the position category in the subject area in question, applications from members of that sex must be specifically invited.
+(2) The appointing body must itself advertise academic positions. If one sex is clearly underrepresented in the position category in the subject area in question, applications from members of that sex must be specifically invited.
 
 [[END OF PAGE 19]]
 
@@ -676,27 +676,27 @@ Universities and university colleges must make active, targeted and systematic e
 
 (1) Appointment for a fixed term of years may be used for:
 
-- Rector
+a) Rector
 
-- Director
+b) Director
 
-- Prorector
+c) Prorector
 
-- heads of faculties and departments
+d) heads of faculties and departments
 
-- student ombudsperson
+e) student ombudsperson
 
-- post-doctoral positions
+f) post-doctoral positions
 
-- research fellows
+g) research fellows
 
-- research assistants
+h) research assistants
 
-- residents ( spesialistkandidater )
+i) residents (spesialistkandidater)
 
 j) academic positions where competence in creative or performing arts is an essential element of the competence requirements
 
-- positions on tenure conditions
+k) positions on tenure conditions
 
 (2) The fixed term pursuant to the first subsection (a), (c) and (d) must be four years. No one may be employed pursuant to (a) and (c) for a continuous period of more than eight years or for more than twelve years pursuant to (d). When special grounds so indicate, the Ministry, on the recommendation of the board, may establish a fixed term other than four years.
 
@@ -714,9 +714,9 @@ j) academic positions where competence in creative or performing arts is an esse
 
 (1) If there is no applicant to a permanent academic position at a higher educational institution who, according to established conditions or the appointing authority's assessment, is clearly qualified for permanent employment, and it is unlikely that an application will be received from a qualified applicant if the position is readvertised, an applicant may be employed for a limited period when:
 
-- the possibility of temporary employment has been mentioned in the announcement of the vacancy and
+a) the possibility of temporary employment has been mentioned in the announcement of the vacancy and
 
-- the applicant concerned, in the view of the appointing authority, would be able to acquire the necessary qualifications during the period of employment.
+b) the applicant concerned, in the view of the appointing authority, would be able to acquire the necessary qualifications during the period of employment.
 
 The period of employment must be stipulated by the appointing authority, and must not exceed three years. The period of employment may however be extended by a certain period required to properly evaluate the person's qualifications, but not in excess of six months. The period of employment may not be further extended, nor may the person concerned be given a new temporary appointment in the position. On expiry of the period of employment, the holder of the position is entitled to be considered for permanent employment before the position is readvertised. If the employee is not deemed to qualify for a permanent position, he or she must step down from the position without a notice period, even if he or she has been employed for more than three years.
 
@@ -812,29 +812,29 @@ The University of Oslo will prepare the basic astronomical information necessary
 
 (2) For students at universities and university colleges, the following personal data may be processed:
 
-- personal identity number
+a) personal identity number
 
-- temporary personal identity number
+b) temporary personal identity number
 
-- name
+c) name
 
-- citizenship
+d) citizenship
 
-- information regarding education from universities and university colleges such as study progress and grades
+e) information regarding education from universities and university colleges such as study progress and grades
 
-- For PhD candidates and staff at universities and university colleges, the following personal data may be processed:
+(3) For PhD candidates and staff at universities and university colleges, the following personal data may be processed:
 
-- personal identity number
+a) personal identity number
 
-- temporary personal identity number
+b) temporary personal identity number
 
-- ID type and ID number
+c) ID type and ID number
 
-- name
+d) name
 
-- citizenship
+e) citizenship
 
-- Information regarding their position and how it is financed.
+f) Information regarding their position and how it is financed.
 
 (4) The Ministry may order universities and university colleges to report personal data as mentioned in the second and third subsection to the database for statistics on higher education. The information may be obtained electronically.
 
@@ -856,19 +856,19 @@ The University of Oslo will prepare the basic astronomical information necessary
 
 [[START OF PAGE 25]]
 
-### Chapter 8. Miscellaneous provisions - private institutions
+### Chapter 8. Miscellaneous provisions – private institutions
 
 #### Section 8-1. The institution's organization and management
 
-- Private universities and university colleges must be limited companies pursuant to the Limited Liability Companies Act or foundations pursuant to the Foundations Act.
+(1) Private universities and university colleges must be limited companies pursuant to the Limited Liability Companies Act or foundations pursuant to the Foundations Act.
 
-- The board must have representatives from the students and staff. The board must be composed of at least five members. If the board has more than ten members, the groups representing students and staff must each have at least two members. The requirements laid down in Section 28 of the Gender Equality Act, cf. Section 7-6, third subsection, concerning representation of both sexes must be fulfilled within each constituency ( valgkrets ).
+(2) The board must have representatives from the students and staff. The board must be composed of at least five members. If the board has more than ten members, the groups representing students and staff must each have at least two members. The requirements laid down in Section 28 of the Gender Equality Act, cf. Section 7-6, third subsection, concerning representation of both sexes must be fulfilled within each constituency (valgkrets).
 
-- There must be the greatest possible transparency concerning the work of the board. The board must establish and conduct systematic controls (internal control) to ensure compliance with requirements stipulated in laws or pursuant to laws. The Ministry may issue regulations concerning internal control.
+(3) There must be the greatest possible transparency concerning the work of the board. The board must establish and conduct systematic controls (internal control) to ensure compliance with requirements stipulated in laws or pursuant to laws. The Ministry may issue regulations concerning internal control.
 
-- The board must make sure the students receive the education that was presupposed when accreditation was granted, that all conditions for any government support are being met, and that the enterprise is run in accordance with statutes and regulations.
+(4) The board must make sure the students receive the education that was presupposed when accreditation was granted, that all conditions for any government support are being met, and that the enterprise is run in accordance with statutes and regulations.
 
-- The board itself must make the decision that in its judgement it is appropriate to begin another academic year. The decision must be made before the courses start.
+(5) The board itself must make the decision that in its judgement it is appropriate to begin another academic year. The decision must be made before the courses start.
 
 #### Section 8-2. Delegation of authority
 
@@ -876,15 +876,15 @@ The board may delegate its decision-making powers to other persons or bodies at 
 
 #### Section 8-3. State support and fees
 
-- Private universities and university colleges that satisfy the requirements set out in this Act may on application to the King be declared entitled to state support to cover operating costs of courses accredited by NOKUT.
+(1) Private universities and university colleges that satisfy the requirements set out in this Act may on application to the King be declared entitled to state support to cover operating costs of courses accredited by NOKUT.
 
-- All private universities and university colleges must use the state support and student fees for the accredited education and within the purpose of the law.
+(2) All private universities and university colleges must use the state support and student fees for the accredited education and within the purpose of the law.
 
-- Private universities and university colleges that receive state support must use the support and fees to benefit the students. Private universities and university colleges that receive state support must not distribute proceeds.
+(3) Private universities and university colleges that receive state support must use the support and fees to benefit the students. Private universities and university colleges that receive state support must not distribute proceeds.
 
-- Private universities and university colleges that do not receive state support, must not distribute so much in proceeds that the equity is less than 20 per cent of the assets.
+(4) Private universities and university colleges that do not receive state support, must not distribute so much in proceeds that the equity is less than 20 per cent of the assets.
 
-- The Ministry may issue regulations concerning the use of state support and student fees, including when winding up.
+(5) The Ministry may issue regulations concerning the use of state support and student fees, including when winding up.
 
 #### Section 8-4. Agreements with closely related parties
 
@@ -910,7 +910,7 @@ The board may delegate its decision-making powers to other persons or bodies at 
 
 (4) The Ministry may issue regulations concerning the institution's obligation to assist during supervision, e.g. for how information should be provided, and for access to the institution's premises.
 
-#### Section 8.6 . Reporting
+#### Section 8-6. Reporting
 
 (1) Private universities and university colleges must report their accounting information and compiled data on the education they offer, students and staff to the Ministry.
 
@@ -948,7 +948,7 @@ If state support is used in contravention of provisions stipulated in or pursuan
 
 #### Section 8-11. Violation fine
 
-(1) If an institutions violates the provisions stipulated in or pursuant to this Act, the Ministry may impose a violation fine on the institution. A violation fine may be imposed on an enterprise even though no individual person is guilty of wrongdoing.
+(1) If an institution violates the provisions stipulated in or pursuant to this Act, the Ministry may impose a violation fine on the institution. A violation fine may be imposed on an enterprise even though no individual person is guilty of wrongdoing.
 
 (2) The size of the violation fine will be determined for each case. A final decision to impose a violation fine is enforceable by execution.
 
@@ -956,7 +956,7 @@ If state support is used in contravention of provisions stipulated in or pursuan
 
 #### Section 8-12. Withdrawal of accreditation
 
-(1) If an institution does not correct serious matters that contravene provisions stipulated in or pursuant to this Act within the time limit pursuant to Section 88, the Ministry may withdraw accreditation of the institution or the course.
+(1) If an institution does not correct serious matters that contravene provisions stipulated in or pursuant to this Act within the time limit pursuant to Section 8-8, the Ministry may withdraw accreditation of the institution or the course.
 
 (2) The Ministry may issue regulations concerning case management regarding withdrawal of accreditation pursuant to this provision.
 
@@ -1000,9 +1000,9 @@ If state support is used in contravention of provisions stipulated in or pursuan
 
 (3) The board may itself establish a different board composition than that specified in the first subsection. Such a decision must have the support of at least half of the board members. The academic staff, the technical and administrative staff, the students and external members must all be satisfactorily represented on the board. None of these groups may alone have a majority. Section 4-4, first subsection, will apply correspondingly.
 
-(4) The board may itself decide that the board must have a majority of external members. Such a decision must have the support of at least two-thirds of the members of the board. The academic staff, the technical and administrative staff and the students must all be satisfactorily represented on the board. Section 44, first subsection, will apply correspondingly.
+(4) The board may itself decide that the board must have a majority of external members. Such a decision must have the support of at least two-thirds of the members of the board. The academic staff, the technical and administrative staff and the students must all be satisfactorily represented on the board. Section 4-4, first subsection, will apply correspondingly.
 
-(5) The chair of the board and board members are entitled to reasonable remuneration for functioning as such. The renumeration will be determined by the Ministry.
+(5) The chair of the board and board members are entitled to reasonable remuneration for functioning as such. The remuneration will be determined by the Ministry.
 
 (6) The Ministry may in special cases establish a different board composition or management system than that specified in the first subsection or established pursuant to the third or fourth subsection.
 
@@ -1018,7 +1018,7 @@ If state support is used in contravention of provisions stipulated in or pursuan
 
 (5) The Ministry may extend the period of service for the board and the board members in special cases.
 
-(6) External board members and their deputies are proposed by the board of the institution. In the case of university colleges of the arts, proposals are made by the board of the university college and by the Norwegian Council for Cultural Affairs. In the case of Sámi allsakuvla (the Sami University College), Sámediggi (the Sami parliament) independently appoints two of the external board members and one deputy. The Ministry independently appoints the chair, unless the institution has chosen the Rector as chair of the board, and other external members and numerical deputies for four years.
+(6) External board members and their deputies are proposed by the board of the institution. In the case of university colleges of the arts, proposals are made by the board of the university college and by the Norwegian Council for Cultural Affairs. In the case of Sámi allaskuvla (the Sami University College), Sámediggi (the Sami parliament) independently appoints two of the external board members and one deputy. The Ministry independently appoints the chair, unless the institution has chosen the Rector as chair of the board, and other external members and numerical deputies for four years.
 
 (7) The board may itself decide that certain positions will not be eligible for election to the institution's board.
 
@@ -1094,9 +1094,9 @@ If state support is used in contravention of provisions stipulated in or pursuan
 
 (1) The Rector may be appointed through an election if the board so decides. To be valid, such a decision must be endorsed by at least half of the board members. Both the institution's staff and external candidates are eligible. The board may provide further rules concerning nomination of external candidates. If the Rector has been elected, the following applies:
 
-- The Rector serves as chair of the board. On behalf of the board, the Rector has overall responsibility for and manages and supervises the institution's activity. The Rector, or the Prorector, is entitled to attend meetings in all the institution's boards and committees.
+a) The Rector serves as chair of the board. On behalf of the board, the Rector has overall responsibility for and manages and supervises the institution's activity. The Rector, or the Prorector, is entitled to attend meetings in all the institution's boards and committees.
 
-- The Rector decides matters which may not be postponed until the board is able to convene. The Rector may also be authorized to deal with current business which ought to be settled before the next regular board meeting and which is not considered important enough for an extraordinary meeting to be called. In matters concerning dismissal or suspension, the Rector may only order temporary suspension from service pending the board's consideration of such matters.
+b) The Rector decides matters which may not be postponed until the board is able to convene. The Rector may also be authorized to deal with current business which ought to be settled before the next regular board meeting and which is not considered important enough for an extraordinary meeting to be called. In matters concerning dismissal or suspension, the Rector may only order temporary suspension from service pending the board's consideration of such matters.
 
 (2) The electoral period is normally four years. No one may be re-elected Rector who will have served in the position for a continuous period of eight years at the beginning of the new electoral period.
 
@@ -1108,13 +1108,13 @@ If state support is used in contravention of provisions stipulated in or pursuan
 
 (4) When counted, votes must be weighted according to a distribution key decided by the board within the following limits:
 
-- academic staff 51-71 per cent
+a) academic staff 51-71 per cent
 
-- technical and administrative staff 5-25 per cent
+b) technical and administrative staff 5-25 per cent
 
-- students 15-30 per cent.
+c) students 15-30 per cent.
 
-If the election takes place in a special electoral body ( særskilt valgforsamling ), this must have a corresponding composition.
+If the election takes place in a special electoral body (særskilt valgforsamling), this must have a corresponding composition.
 
 (5) The board itself may issue further rules concerning the election.
 
@@ -1132,7 +1132,7 @@ If the election takes place in a special electoral body ( særskilt valgforsamli
 
 (6) If the board, Rector or Director is uncertain as to whether a decision by the board is in accordance with rules or conditions for allocations, etc., the issue in doubt must be resolved by the Ministry.
 
-(7) The Director has general powers to authorize payments and is authorized to issue binding documents concerning the institution's properties, cf. Section 123, unless otherwise provided in legislation or in the document of title concerned.
+(7) The Director has general powers to authorize payments and is authorized to issue binding documents concerning the institution's properties, cf. Section 12-3, unless otherwise provided in legislation or in the document of title concerned.
 
 #### Section 10-4. The Rector's resignation
 
@@ -1148,17 +1148,17 @@ If the election takes place in a special electoral body ( særskilt valgforsamli
 
 #### Section 11-1. Special appointment provisions for state universities and university colleges
 
-- The board appoints heads of faculty and a head of administration if the board decides to establish such positions.
+(1) The board appoints heads of faculty and a head of administration if the board decides to establish such positions.
 
-- The board may decide that heads of faculty will appoint heads of department if such appointments must be made.
+(2) The board may decide that heads of faculty will appoint heads of department if such appointments must be made.
 
-- Appointment of the Prorector and of heads of faculties and departments and the Director must be made pursuant to Section 10-3 on the basis of recommendation by a selection committee. The board itself must decide the composition of the selection committee and lay down further rules concerning recommendation, etc. Unless the board unanimously decides otherwise, the students must be represented on the selection committee.
+(3) Appointment of the Prorector and of heads of faculties and departments and the Director must be made pursuant to Section 10-3 on the basis of recommendation by a selection committee. The board itself must decide the composition of the selection committee and lay down further rules concerning recommendation, etc. Unless the board unanimously decides otherwise, the students must be represented on the selection committee.
 
-- When special grounds so indicate, the board may itself appoint someone to the position of Prorector or head of faculty or department without prior advertisement of the vacancy.
+(4) When special grounds so indicate, the board may itself appoint someone to the position of Prorector or head of faculty or department without prior advertisement of the vacancy.
 
-- Appointments to technical and administrative positions are made by appointment committees set up pursuant to the provisions of the Civil Service Act. The board decides whether the institution will have one or more such appointments committees.
+(5) Appointments to technical and administrative positions are made by appointment committees set up pursuant to the provisions of the Civil Service Act. The board decides whether the institution will have one or more such appointments committees.
 
-- If the board appoints someone to another management position than those mentioned in subsection 3, this must be done on the basis of the recommendation of Rector, or the Director if the Rector has been elected pursuant to Section 10-2.
+(6) If the board appoints someone to another management position than those mentioned in subsection 3, this must be done on the basis of the recommendation of Rector, or the Director if the Rector has been elected pursuant to Section 10-2.
 
 #### Section 11-2. (Repealed)
 
@@ -1166,17 +1166,17 @@ If the election takes place in a special electoral body ( særskilt valgforsamli
 
 #### Section 11-3. Summary discharge, notice, suspension and disciplinary measures
 
-- The appointing body itself decides cases pursuant to Section 30 first subsection of the Civil Service Act concerning summary discharge, notice, suspension or disciplinary measures.
+(1) The appointing body itself decides cases pursuant to Section 30 first subsection of the Civil Service Act concerning summary discharge, notice, suspension or disciplinary measures.
 
-- Appeals against decisions concerning summary discharge, notice, suspension or disciplinary measures are ruled on by the Ministry when such decisions have been taken by the board, and otherwise by the board itself.
+(2) Appeals against decisions concerning summary discharge, notice, suspension or disciplinary measures are ruled on by the Ministry when such decisions have been taken by the board, and otherwise by the board itself.
 
 ### Chapter 12. Various provisions
 
 #### Section 12-1. External matters
 
-- The board must represent the institution in relation to the public authorities.
+(1) The board must represent the institution in relation to the public authorities.
 
-- The Rector is the institution's legal representative, deputy and spokesperson in relation to the public authorities and the general public. In individual cases, the Rector may appoint a representative in his or her place.
+(2) The Rector is the institution's legal representative, deputy and spokesperson in relation to the public authorities and the general public. In individual cases, the Rector may appoint a representative in his or her place.
 
 #### Section 12-2. The parties
 
@@ -1184,23 +1184,23 @@ If the election takes place in a special electoral body ( særskilt valgforsamli
 
 [[START OF PAGE 34]]
 
-- The State, represented by the Ministry, is a party in legal actions concerning the business of the institution unless the contrary follows from the second subsection.
+(1) The State, represented by the Ministry, is a party in legal actions concerning the business of the institution unless the contrary follows from the second subsection.
 
-- The State, represented by the institution, is a party when the matter in dispute originates in an individual decision taken by the institution pursuant to the Public Administration Act and the decision may not be appealed to the Ministry or to another body outside the institution.
+(2) The State, represented by the institution, is a party when the matter in dispute originates in an individual decision taken by the institution pursuant to the Public Administration Act and the decision may not be appealed to the Ministry or to another body outside the institution.
 
-- The Ministry may decide that the State represented by the institution must be a party also in other cases concerning the institution.
+(3) The Ministry may decide that the State represented by the institution must be a party also in other cases concerning the institution.
 
 #### Section 12-3. Property management
 
-- The board of an institution managing its own property may itself dispose of real property with the consent of the Ministry or according to general rules issued by the Ministry.
+(1) The board of an institution managing its own property may itself dispose of real property with the consent of the Ministry or according to general rules issued by the Ministry.
 
-- The Ministry may issue rules concerning the renting and letting of real property.
+(2) The Ministry may issue rules concerning the renting and letting of real property.
 
 #### Section 12-4. Cooperation and participation in other activities
 
-- Subject to general guidelines laid down by the Ministry, an institution may establish or participate in self-owning operations or in companies provided such participation is relevant to the institution's academic activities and beneficial to society. The institution must not limit its independence in academic matters and must not delegate its day-to-day teaching and research.
+(1) Subject to general guidelines laid down by the Ministry, an institution may establish or participate in self-owning operations or in companies provided such participation is relevant to the institution's academic activities and beneficial to society. The institution must not limit its independence in academic matters and must not delegate its day-to-day teaching and research.
 
-- The Ministry must receive annual reports on the institution's participation in such cooperation and on its importance to the other activities of the institution. The Ministry may order the institution to withdraw from such cooperation if this is considered necessary out of regard for the primary responsibilities of the institution.
+(2) The Ministry must receive annual reports on the institution's participation in such cooperation and on its importance to the other activities of the institution. The Ministry may order the institution to withdraw from such cooperation if this is considered necessary out of regard for the primary responsibilities of the institution.
 
 ## Part IV. Miscellaneous provisions
 
@@ -1222,7 +1222,7 @@ The King may issue further transitional provisions.
 
 [[START OF PAGE 35]]
 
-With effect from the entry into force of the present Act the following amendments are made to other Acts: - - -
+With effect from the entry into force of the present Act the following amendments are made to other Acts: – – –
 
 #### Section 13-4. Repeal of earlier Acts
 
