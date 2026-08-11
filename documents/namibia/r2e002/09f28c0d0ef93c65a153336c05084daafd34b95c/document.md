@@ -1,14 +1,16 @@
 [[START OF PAGE 1]]
 
-Rl,80
-
-# GOVERNMENT GAZETrE
+# GOVERNMENT GAZETTE
 
 OF THE
 
 REPUBLIC OF NAMIBIA
 
-WINDHOEK -21 August 1992
+R1,80
+
+WINDHOEK — 21 August 1992
+
+No. 460
 
 ## CONTENTS
 
@@ -16,23 +18,19 @@ Page
 
 ### GOVERNMENT NOTICE
 
-No. 105 Promulgation of University of Namibia Act, 1992 (Act 18 of 1992), of the National Assembly .
+No. 105 Promulgation of University of Namibia Act, 1992 (Act 18 of 1992), of the National Assembly ........................................................................................................................ 1
 
 ## Government Notice
 
 ### OFFICE OF THE PRIME MINISTER
 
-No. 105
-
-1992
+No. 105                                                                                                                            1992
 
 #### PROMULGATION OF ACT OF THE NATIONAL ASSEMBLY
 
 The following Act which has been passed by the National Assembly and signed by the President in terms of the Namibian Constitution is hereby published in terms of Article 56 of that Constitution.
 
 No. 18 of 1992: University of Namibia Act, 1992.
-
-No. 460
 
 [[END OF PAGE 1]]
 
@@ -46,66 +44,6 @@ No. 460
 
 Act No. 18, 1992
 
-- Definitions.
-
-- Establishment and seat of the University.
-
-- Status and propriety capacity of the University.
-
-- Aims of the University.
-
-- Constitution of the University.
-
-- Chancellor of the University.
-
-- Vice-Chancellor of the University.
-
-- Pro-Vice-Chancellors of the University.
-
-- Council of the University.
-
-- Senate of the University.
-
-- Joint committees of Council and Senate.
-
-- Remuneration of members of Council, Senate and committees.
-
-- Registrar, Bursar and Librarian of the University.
-
-- Academic Assembly of the University.
-
-- Students' Representative Council of the University.
-
-- Faculties and departments.
-
-- Appointment of staff.
-
-- Degrees, diplomas and certificates.
-
-- Admission to equivalent status at the University.
-
-- Degrees honoris causa.
-
-- 2!. Registration of, fees payable by, and discipline of, students.
-
-- Reports and financial statements.
-
-- Subsidies to the University.
-
-- Vacancies not to affect powers ofthe University or its Councilor Senate.
-
-- Statutes and regulations.
-
-- Transitional provisions and savings.
-
-- Transfer of staff.
-
-- Transfer of assets, liabilities, rights and obligations.
-
-- Repeal of law and abolition of the Academy.
-
-- Short title and commencement.
-
 UNIVERSITY OF NAMIBIA ACT, 1992
 
 # ACT
@@ -115,6 +53,37 @@ To establish the University of Namibia and to provide for its administration and
 (Signed by the President on 15 August 1992)
 
 ## ARRANGEMENT OF SECTIONS
+
+1. Definitions.
+2. Establishment and seat of the University.
+3. Status and propriety capacity of the University.
+4. Aims of the University.
+5. Constitution of the University.
+6. Chancellor of the University.
+7. Vice-Chancellor of the University.
+8. Pro-Vice-Chancellors of the University.
+9. Council of the University.
+10. Senate of the University.
+11. Joint committees of Council and Senate.
+12. Remuneration of members of Council, Senate and committees.
+13. Registrar, Bursar and Librarian of the University.
+14. Academic Assembly of the University.
+15. Students' Representative Council of the University.
+16. Faculties and departments.
+17. Appointment of staff.
+18. Degrees, diplomas and certificates.
+19. Admission to equivalent status at the University.
+20. Degrees honoris causa.
+21. Registration of, fees payable by, and discipline of, students.
+22. Reports and financial statements.
+23. Subsidies to the University.
+24. Vacancies not to affect powers of the University or its Council or Senate.
+25. Statutes and regulations.
+26. Transitional provisions and savings.
+27. Transfer of staff.
+28. Transfer of assets, liabilities, rights and obligations.
+29. Repeal of law and abolition of the Academy.
+30. Short title and commencement.
 
 [[END OF PAGE 2]]
 
@@ -128,25 +97,25 @@ Government Gazette 21 August 1992
 
 Act No. 18, 1992
 
-## Definitions.
-
 UNIVERSITY OF NAMIBIA ACT, 1992
 
 BE IT ENACTED by the National Assembly of the Republic of Namibia, as follows:-
 
-- In this Act, unless the context otherwise indicates -
+## Definitions.
 
-"academic staff' means -
+1. In this Act, unless the context otherwise indicates -
+
+"academic staff" means -
 
 (a) all those persons employed by the University whose conditions of employment include the obligation to undertake teaching or research;
 
-(b) the Librarian appointed in terms of section I3(c);
+(b) the Librarian appointed in terms of section 13(c);
 
 (c) any incumbent of a post declared by the Council to be an academic post;
 
 "academic year" means the academic year of the University as prescribed;
 
-"administrative staff' means all those persons employed by the University who are not academic staff;
+"administrative staff" means all those persons employed by the University who are not academic staff;
 
 "Chancellor" means the Chancellor of the University elected in terms of section 6(1);
 
@@ -156,9 +125,9 @@ BE IT ENACTED by the National Assembly of the Republic of Namibia, as follows:-
 
 "prescribed" means prescribed by statutes or regulations framed under section 25;
 
-"ProVice-Chancellor" means a Pro- Vice-Chancellor of the University appointed under section 8(1);
+"Pro-Vice-Chancellor" means a Pro-Vice-Chancellor of the University appointed under section 8(1);
 
-"Senate" means the Senate of fhe University referred to in section 10;
+"Senate" means the Senate of the University referred to in section 10;
 
 "Students' Representative Council" means the Students' Representative Council referred to in section 15(1);
 
@@ -176,37 +145,37 @@ No. 460
 
 Act No. 18, 1992
 
-## Establishment and seat of the University.
-
-## Status and proprietary capacity of the University.
-
-## Aims of the University.
-
-## Constitution of the University.
-
 UNIVERSITY OF NAMIBIA ACT, 1992
 
 "this Act" includes the statutes and regulations;
 
 "Vice-Chancellor" means the Vice-Chancellor of the University appointed in terms of section 7(2).
 
-(1) There is hereby established a university to be known as the University of Namibia.
+## Establishment and seat of the University.
 
-- The seat of the University shall be at Windhoek.
+2. (1) There is hereby established a university to be known as the University of Namibia.
 
-(1) The University shall be a juristic person capable in law of suing and being sued in its own name and shall have the power, subject to this Act, of purchasing or in any other manner acquiring, holding, hiring, letting, selling, exchanging or otherwise alienating any movable or immovable property, of granting to any person a real right in or servitude on its property and of investing, lending or borrowing money.
+(2) The seat of the University shall be at Windhoek.
 
-- The University may receive money or property by way of donation or bequest or in trust and may control, use or administer it or deal with it in any other manner subject to those conditions, if any, of the donation, bequest or trust which are consistent with the aims of the University.
+## Status and proprietary capacity of the University.
 
-- The aims of the University shall be to provide higher education, to undertake research, to advance and disseminate knowledge, to provide extension services, to encourage the growth and nurturing of cultural expression within the context of the Namibian society, to further training and continuing education, to contribute to the social and economic development of Namibia and to foster relationships with any person or institution, both nationally and internationally.
+3. (1) The University shall be a juristic person capable in law of suing and being sued in its own name and shall have the power, subject to this Act, of purchasing or in any other manner acquiring, holding, hiring, letting, selling, exchanging or otherwise alienating any movable or immovable property, of granting to any person a real right in or servitude on its property and of investing, lending or borrowing money.
 
-- The University shall consist of -
+(2) The University may receive money or property by way of donation or bequest or in trust and may control, use or administer it or deal with it in any other manner subject to those conditions, if any, of the donation, bequest or trust which are consistent with the aims of the University.
+
+## Aims of the University.
+
+4. The aims of the University shall be to provide higher education, to undertake research, to advance and disseminate knowledge, to provide extension services, to encourage the growth and nurturing of cultural expression within the context of the Namibian society, to further training and continuing education, to contribute to the social and economic development of Namibia and to foster relationships with any person or institution, both nationally and internationally.
+
+## Constitution of the University.
+
+5. The University shall consist of -
 
 (a) a Chancellor;
 
 (b) a Vice-Chancellor;
 
-(c) such Pro-V ice-Chancellors as may be appointed by the Council in terms of section 8(1);
+(c) such Pro-Vice-Chancellors as may be appointed by the Council in terms of section 8(1);
 
 (d) a Council;
 
@@ -224,35 +193,35 @@ Government Gazette 21 August 1992
 
 Act No. 18, 1992
 
-## Chancellor of the University.
-
-## Vice-Chancellor of the University.
-
-## ProVice-Chancellors of the University.
-
 UNIVERSITY OF NAMIBIA ACT, 1992
 
 (f) the academic and administrative staff, and students of the University.
 
-(I) The Chancellor of the University shall be the titular head of the University and shall be elected by the Council in the prescribed manner.
+## Chancellor of the University.
 
-- The Chancellor shall have the right to confer or grant degrees, diplomas, certificates and other awards and distinctions of the University and to perform such other functions as may be prescribed.
+6. (1) The Chancellor of the University shall be the titular head of the University and shall be elected by the Council in the prescribed manner.
 
-- The Chancellor shall hold office for a period of six years and shall be eligible for re-election at the expiration of his or her term of office.
+(2) The Chancellor shall have the right to confer or grant degrees, diplomas, certificates and other awards and distinctions of the University and to perform such other functions as may be prescribed.
 
-- Upon the death or resignation of the Chancellor, the Council shall as soon as possible elect a new Chancellor.
+(3) The Chancellor shall hold office for a period of six years and shall be eligible for re-election at the expiration of his or her term of office.
 
-(1) The Vice-Chancellor of the University shall be the chief academic and administrative officer of the University.
+(4) Upon the death or resignation of the Chancellor, the Council shall as soon as possible elect a new Chancellor.
 
-- The Vice-Chancellor shall be appointed by the Council in the prescribed manner on conditions of employment and privileges determined by the Council.
+## Vice-Chancellor of the University.
 
-- The Vice-Chancellor's powers, duties and functions shall be as prescribed.
+7. (1) The Vice-Chancellor of the University shall be the chief academic and administrative officer of the University.
 
-- The Vice-Chancellor shall hold office for a period of six years and shall be eligible for re-appointment at the expiration of his or her term of office.
+(2) The Vice-Chancellor shall be appointed by the Council in the prescribed manner on conditions of employment and privileges determined by the Council.
 
-- The Vice-Chancellor may from time to time designate any person in the employment of the University to serve, in any particular case or for such period as he or she may determine, in his or her place as a member of any committee referred to in section 9(9), 10(8) or 11 and to perform the duties and functions and exercise the powers connected therewith.
+(3) The Vice-Chancellor's powers, duties and functions shall be as prescribed.
 
-(1) The Council may appoint one or more persons as Pro- Vice-Chancellors of the University.
+(4) The Vice-Chancellor shall hold office for a period of six years and shall be eligible for re-appointment at the expiration of his or her term of office.
+
+(5) The Vice-Chancellor may from time to time designate any person in the employment of the University to serve, in any particular case or for such period as he or she may determine, in his or her place as a member of any committee referred to in section 9(9), 10(8) or 11 and to perform the duties and functions and exercise the powers connected therewith.
+
+## Pro-Vice-Chancellors of the University.
+
+8. (1) The Council may appoint one or more persons as Pro-Vice-Chancellors of the University.
 
 [[END OF PAGE 5]]
 
@@ -266,27 +235,27 @@ No. 460
 
 Act No. 18, 1992
 
-## Council ofthe University.
-
 UNIVERSITY OF NAMIBIA ACT, 1992
 
-- The conditions of employment, privileges, period of office, powers, duties and functions ofa Pro-ViceChancellor shall be determined by the Council.
+(2) The conditions of employment, privileges, period of office, powers, duties and functions of a Pro-Vice-Chancellor shall be determined by the Council.
 
-- The Vice-Chancellor may from time to time delegate to a Pro- Vice-Chancellor any of his or her powers, but shall not be divested of a power so delegated.
+(3) The Vice-Chancellor may from time to time delegate to a Pro-Vice-Chancellor any of his or her powers, but shall not be divested of a power so delegated.
 
-(1) Subject to this Act, the government and executive authority of the University shall be vested in the Council of the University.
+## Council of the University.
 
-- Subject to subsection (3), the Council shall consist of -
+9. (1) Subject to this Act, the government and executive authority of the University shall be vested in the Council of the University.
+
+(2) Subject to subsection (3), the Council shall consist of -
 
 (a) the Vice-Chancellor;
 
-(b) such Pro- Vice-Chancellors as may be appointed in terms of section 8(1);
+(b) such Pro-Vice-Chancellors as may be appointed in terms of section 8(1);
 
 (c) not more than six persons appointed by the President of the Republic of Namibia;
 
 (d) four members of the Senate appointed by the Senate;
 
-(e) two persons elected in the prescribed manner by the graduates of the University and of the university component of the Academy referred to in section I of the law repealed by section 29;
+(e) two persons elected in the prescribed manner by the graduates of the University and of the university component of the Academy referred to in section 1 of the law repealed by section 29;
 
 (f) the Permanent Secretary: Education and Culture;
 
@@ -306,29 +275,29 @@ No. 460
 
 Government Gazette 21 August 1992
 
-Act No. 18, 1992
-
 7
+
+Act No. 18, 1992
 
 UNIVERSITY OF NAMIBIA ACT, 1992
 
-(3) Upon recogmtion of the Students' Representative Council in accordance with the provisions of section 15(1), the Students' Representative Council shall be entitled to appoint two students of the University as members of the Council whereupon the Council shall consist of the members referred to in subsection (2) and such students.
+(3) Upon recognition of the Students' Representative Council in accordance with the provisions of section 15(1), the Students' Representative Council shall be entitled to appoint two students of the University as members of the Council whereupon the Council shall consist of the members referred to in subsection (2) and such students.
 
 (4) The members of the Council referred to in paragraphs (c), (h) and (j) of subsection (2) shall not be persons who are members of the academic or administrative staff.
 
-(5) A member of the Council, other than a member referred to in paragraph (a), (b), (f) or (g) of subsection (2), shall hold office for a period of three years unless he or she resigns in writing to the Councilor vacates his or her office on any other prescribed ground.
+(5) A member of the Council, other than a member referred to in paragraph (a), (b), (f) or (g) of subsection (2), shall hold office for a period of three years unless he or she resigns in writing to the Council or vacates his or her office on any other prescribed ground.
 
 (6) Whenever the office of a member of the Council becomes vacant, such vacancy shall be filled with due regard to the provisions of subsection (2).
 
-(a) The Council shall elect from among its members a chairperson and a vice-chairperson who shall hold office for such period as may be prescribed.
+(7) (a) The Council shall elect from among its members a chairperson and a vice-chairperson who shall hold office for such period as may be prescribed.
 
 (b) The chairperson shall preside at all meetings of the Council at which he or she is present and the vice-chairperson shall preside in the absence of the chairperson.
 
-(c) In the absence of both the chairperson and vicechairperson from a meeting of the Council, the members present thereat shall elect one of their number to preside at that meeting.
+(c) In the absence of both the chairperson and vice-chairperson from a meeting of the Council, the members present thereat shall elect one of their number to preside at that meeting.
 
-(a) The Council shall hold at least one meeting in each half of the academic year.
+(8) (a) The Council shall hold at least one meeting in each half of the academic year.
 
-(b) The meetings of the Council shall be held at such times and places as the Council may determine, but the chairperson of the Council may at any time, and shall on the written request of at least one-third ofthe members ofthe Council, convene a special meeting of the Council.
+(b) The meetings of the Council shall be held at such times and places as the Council may determine, but the chairperson of the Council may at any time, and shall on the written request of at least one-third of the members of the Council, convene a special meeting of the Council.
 
 [[END OF PAGE 7]]
 
@@ -342,23 +311,23 @@ No. 460
 
 Act No. 18, 1992
 
-## Senate of the University.
-
 UNIVERSITY OF NAMIBIA ACT, 1992
 
 (c) The procedures at and the quorum for a meeting of the Council shall be as prescribed.
 
-(a) The Council may establish committees of the Council consisting of members of the Councilor, of such members as well as other persons, and designate the chairperson and the vice-chairperson thereof.
+(9) (a) The Council may establish committees of the Council consisting of members of the Council or, of such members as well as other persons, and designate the chairperson and the vice-chairperson thereof.
 
-(b) The Council may delegate any of its powers to any such committee if the majority of the members of the committee are persons who are members of the Council, but it shall not be divested of apower so delegated, and a decision of such committee may be altered or set aside by the Council at its first ensuing meeting.
+(b) The Council may delegate any of its powers to any such committee if the majority of the members of the committee are persons who are members of the Council, but it shall not be divested of a power so delegated, and a decision of such committee may be altered or set aside by the Council at its first ensuing meeting.
 
-- The chairperson of the Council, or in his or her absence, the vice-chairperson of the Council, and the ViceChancellor shall be ex officio members of every committee established under subsection (9).
+(10) The chairperson of the Council, or in his or her absence, the vice-chairperson of the Council, and the Vice-Chancellor shall be ex officio members of every committee established under subsection (9).
 
-(1) The Senate ofthe University shall consist of-
+## Senate of the University.
+
+10. (1) The Senate of the University shall consist of -
 
 (a) the Vice-Chancellor who shall be the chairperson of the Senate;
 
-(b) such Pro-Vice-Chancellors as may be appointed in terms of section 8( I);
+(b) such Pro-Vice-Chancellors as may be appointed in terms of section 8(1);
 
 (c) not more than five members of the Council, other than members referred to in section 9(3), appointed by the Council;
 
@@ -384,23 +353,23 @@ UNIVERSITY OF NAMIBIA ACT, 1992
 
 (g) such other persons as may be prescribed and who shall be appointed by the Council on the recommendation of the members of the Senate referred to in paragraphs (a) to (f).
 
-- A member of the Senate, other than a member referred to in paragraph (a), (b), (d) or (e) of subsection (1), shall hold office for such period as may be prescribed unless he or she resigns in writing to the Senate or vacates his or her office on any other prescribed ground.
+(2) A member of the Senate, other than a member referred to in paragraph (a), (b), (d) or (e) of subsection (1), shall hold office for such period as may be prescribed unless he or she resigns in writing to the Senate or vacates his or her office on any other prescribed ground.
 
-- Whenever the office of a member of the Senate becomes vacant, such vacancy shall be filled with due regard to the provisions of subsection (1).
+(3) Whenever the office of a member of the Senate becomes vacant, such vacancy shall be filled with due regard to the provisions of subsection (1).
 
-(a) The Senate shall elect from among its members a vice-chairperson who shall hold office for such period as may be prescribed.
+(4) (a) The Senate shall elect from among its members a vice-chairperson who shall hold office for such period as may be prescribed.
 
 (b) The chairperson shall preside at all meetings of the Senate at which he or she is present and the vice-chairperson shall preside in the absence of the chairperson.
 
-(c) In the absence of both the chairperson and vicechairperson from a meeting of the Senate, the members present thereat shall elect one of their number to preside at that meeting.
+(c) In the absence of both the chairperson and vice-chairperson from a meeting of the Senate, the members present thereat shall elect one of their number to preside at that meeting.
 
-(a) The Senate shall hold at least three meetings in each academic year, of which at least one meeting shall be held in each half of the academic year.
+(5) (a) The Senate shall hold at least three meetings in each academic year, of which at least one meeting shall be held in each half of the academic year.
 
 (b) The meetings of the Senate shall be held at such times and places as the Senate may determine, but the chairperson may at any time and shall on the written request of at least one-third of the members of the Senate, convene a special meeting of the Senate.
 
 (c) The procedures at and the quorum for a meeting of the Senate shall be as prescribed.
 
-- The organisation and superintendence of instruction, examinations, lectures, classes, curricula and research shall be vested in the Senate.
+(6) The organisation and superintendence of instruction, examinations, lectures, classes, curricula and research shall be vested in the Senate.
 
 [[END OF PAGE 9]]
 
@@ -414,11 +383,9 @@ No. 460
 
 Act No. 18, 1992
 
-## Joint committees of Council and Senate.
-
 UNIVERSITY OF NAMIBIA ACT, 1992
 
-- The Senate shall -
+(7) The Senate shall -
 
 (a) make recommendations to the Council in connection with matters referred to it by the Council or which the Senate considers necessary in the interest of the University;
 
@@ -426,17 +393,19 @@ UNIVERSITY OF NAMIBIA ACT, 1992
 
 (c) perform such other functions as may be prescribed.
 
-(a) The Senate may establish committees of the Senate consisting of members of the Senate or, of such members as well as other persons, and designate the chairperson and the vice-chairperson thereof.
+(8) (a) The Senate may establish committees of the Senate consisting of members of the Senate or, of such members as well as other persons, and designate the chairperson and the vice-chairperson thereof.
 
 (b) The Senate may delegate any of its powers to any such committee, but it shall not be divested of a power so delegated and a decision of such a committee may be altered or set aside by the Senate at its first ensuing meeting.
 
-- The Vice-Chancellor shall be an ex officio member of every committee established under subsection (8).
+(9) The Vice-Chancellor shall be an ex officio member of every committee established under subsection (8).
 
-(1) The Council and the Senate may by mutual agreement establish joint committees of the Council and the Senate consisting of members of the Council and the Senate appointed by the Council and the Senate, respectively, from among their own members.
+## Joint committees of Council and Senate.
 
-- The Councilor the Senate may delegate any of its powers to any such joint committee, but shall not be divested of a power so delegated andmay alter or set aside a decision of such joint committee at the first ensuing meeting of the Councilor the Senate, as the case may be.
+11. (1) The Council and the Senate may by mutual agreement establish joint committees of the Council and the Senate consisting of members of the Council and the Senate appointed by the Council and the Senate, respectively, from among their own members.
 
-- The chairperson of the Councilor in his or her absence, the vice-chairperson of the Council, and the ViceChancellor shall be ex officio members of every joint committee established under subsection (I).
+(2) The Council or the Senate may delegate any of its powers to any such joint committee, but shall not be divested of a power so delegated and may alter or set aside a decision of such joint committee at the first ensuing meeting of the Council or the Senate, as the case may be.
+
+(3) The chairperson of the Council or in his or her absence, the vice-chairperson of the Council, and the Vice-Chancellor shall be ex officio members of every joint committee established under subsection (1).
 
 [[END OF PAGE 10]]
 
@@ -446,39 +415,39 @@ No. 460
 
 Government Gazette 21 August 1992
 
-II
+11
 
 Act No. 18, 1992
 
-## Remuneration of members of Council, Senate and committees,
-
-## Registrar, Bursar and Librarian of the University,
-
-## Academic Assembly of the University,
-
-## Students' Representative Council of the University,
-
 UNIVERSITY OF NAMIBIA ACT, 1992
 
-- The Council may determine the allowances payable to members of the Council and the Senate, and any committtee of the Councilor the Senate and any joint committee of the Council and the Senate, but any such allowance payable to a member who is in the full-time service of the State shall be subject to the laws governing his or her conditions of employment.
+## Remuneration of members of Council, Senate and committees.
 
-- The Council shall appoint -
+12. The Council may determine the allowances payable to members of the Council and the Senate, and any committee of the Council or the Senate and any joint committee of the Council and the Senate, but any such allowance payable to a member who is in the full-time service of the State shall be subject to the laws governing his or her conditions of employment.
 
-(a) a person as Registrar of the University who shall assist the Vice-Chancellor in the administration ofthe University and who shall be the secretary of the Council and the Senate;
+## Registrar, Bursar and Librarian of the University.
+
+13. The Council shall appoint -
+
+(a) a person as Registrar of the University who shall assist the Vice-Chancellor in the administration of the University and who shall be the secretary of the Council and the Senate;
 
 (b) a person as Bursar of the University who shall be responsible for the financial administration of the University;
 
 (c) a person as Librarian of the University who shall be responsible for the administration and safeguarding of the libraries of the University.
 
-(1) The Academic Assembly of the University shall consist of the members of the Senate, the academic and administrative staff and students of the University.
+## Academic Assembly of the University.
 
-- Meetings of the Academic Assembly shall be convened and held in the manner, at the times when and places where, and for the purposes the Vice-Chancellor thinks fit.
+14. (1) The Academic Assembly of the University shall consist of the members of the Senate, the academic and administrative staff and students of the University.
 
-(1) If a body is established by the students of the University which the Council considers to be representative of such students, the Council shall, subject to subsection (2), recognise such body as the Students' Representative Council of the University.
+(2) Meetings of the Academic Assembly shall be convened and held in the manner, at the times when and places where, and for the purposes the Vice-Chancellor thinks fit.
 
-- The constitution of the Students' Representative Council and any amendment thereof shall be submitted to the Council for approval and shall not be of force unless approved by the Council.
+## Students' Representative Council of the University.
 
-- The composition, mode of election, tenure of office, powers, privileges, functions and duties of the Students' Representative Council shall be governed by its constitution.
+15. (1) If a body is established by the students of the University which the Council considers to be representative of such students, the Council shall, subject to subsection (2), recognise such body as the Students' Representative Council of the University.
+
+(2) The constitution of the Students' Representative Council and any amendment thereof shall be submitted to the Council for approval and shall not be of force unless approved by the Council.
+
+(3) The composition, mode of election, tenure of office, powers, privileges, functions and duties of the Students' Representative Council shall be governed by its constitution.
 
 [[END OF PAGE 11]]
 
@@ -492,31 +461,31 @@ No. 460
 
 Act No. 18, 1992
 
+UNIVERSITY OF NAMIBIA ACT, 1992
+
 ## Faculties and departments.
 
-## Appointment of staff
+16. (1) The Council may from time to time establish such faculties and departments as it may determine on the recommendation of the Senate.
+
+(2) There shall be constituted a faculty board for each faculty in the prescribed manner and which shall perform such functions as may be prescribed.
+
+## Appointment of staff.
+
+17. (1) The academic staff of the University shall be appointed by the Council on the recommendation of the Senate.
+
+(2) The administrative staff of the University shall be appointed by the Council.
+
+(3) Subject to subsection (4), the conditions of employment including remuneration, and service benefits of the academic and administrative staff shall be determined by the Council.
+
+(4) All persons employed by the University who are not Namibian citizens shall be required to enter into a fixed period service contract with the University on such conditions and for such period as may be determined by the Council in each particular case.
+
+(5) The dismissal of any member of the academic or administrative staff shall, unless such dismissal was effected by the Council, be subject to a right of appeal to the Council in the prescribed manner.
 
 ## Degrees, diplomas and certificates.
 
-UNIVERSITY OF NAMIBIA ACT, 1992
+18. (1) Subject to this Act, the University may confer the degree of bachelor, master or doctor, as it may deem expedient to confer.
 
-(I) The Council may from time to time establish such faculties and departments as it may determine on the recommendation of the Senate.
-
-- There shall be constituted a faculty board for each faculty in the prescribed manner and which shall perform such functions as may be prescribed.
-
-(I) The academic staff of the University shall be appointed by the Council on the recommendation of the Senate.
-
-- The administrative staff of the University shall be appointed by the Council.
-
-- Subject to subsection (4), the conditions of employment including remuneration, and service benefits of the academic and administrative staff shall be determined by the Council.
-
-- All persons employed by the University who are not Namibian citizens shall be required to enter into a fixed period service contract with the University on such conditions and for such period as may be determined by the Council in each particular case.
-
-- The dismissal of any member of the academic or administrative staff shall, unless such dismissal was effected by the Council, be subject to a right of appeal to the Council in the prescribed manner.
-
-(1) Subject to this Act, the University may confer the degree of bachelor, master or doctor, as it may deem expedient to confer.
-
-- Subject to the provisions of sections 19 and 20, the University shall not confer a degree upon any person unless such person has -
+(2) Subject to the provisions of sections 19 and 20, the University shall not confer a degree upon any person unless such person has -
 
 (a) attended as a student of the University for such period, and satisfied such other requirements; and
 
@@ -534,31 +503,31 @@ Government Gazette 21 August 1992
 
 13
 
-~~--- Act No. 18, 1992
-
-## Admission to equivalent status at the University.
-
-## Degrees honoris causa.
-
-## Registration of, fees payable by, and discipline of, students.
+Act No. 18, 1992
 
 UNIVERSITY OF NAMIBIA ACT, 1992
 
-- Subject to this Act, the University may grant a diploma or certificate to a person who has pursued a course of study provided by the University and has complied with the requirements determined by the Senate or to any other person who in its opinion possesses the qualifications for such a diploma or certificate.
+(3) Subject to this Act, the University may grant a diploma or certificate to a person who has pursued a course of study provided by the University and has complied with the requirements determined by the Senate or to any other person who in its opinion possesses the qualifications for such a diploma or certificate.
 
-- Subject to the provisions of the statutes, framed under section 25, the Senate may -
+## Admission to equivalent status at the University.
+
+19. Subject to the provisions of the statutes, framed under section 25, the Senate may -
 
 (a) admit a graduate of any other university (whether in Namibia or elsewhere) to a status at the University equivalent to that which he or she possesses at such other university; and
 
 (b) admit as a candidate for the degree of bachelor or for the degree of master or doctor of the University any person who has passed at any other university (whether in Namibia or elsewhere) or at any other institution considered by the Senate to be equivalent to a university, such examinations as in the opinion of the Senate are equivalent to or higher than the examinations prescribed for a degree of the University which is a prerequisite for such degree of bachelor, master or doctor of the University.
 
-(1) The University may on the resolution of the Council and the Senate and without examination, confer a degree honoris causa of master or doctor in a faculty upon a person whom the Council and the Senate consider worthy of such a degree.
+## Degrees honoris causa.
 
-- The holder of a degree conferred in terms of subsection (1) shall not, by reason of the conferment thereof, be entitled to practise a profession.
+20. (1) The University may on the resolution of the Council and the Senate and without examination, confer a degree honoris causa of master or doctor in a faculty upon a person whom the Council and the Senate consider worthy of such a degree.
 
-(1) The requirements for registration as a student at the University and the renewal and cancellation of such registration shall be determined by the Council on the recommendation of the Senate.
+(2) The holder of a degree conferred in terms of subsection (1) shall not, by reason of the conferment thereof, be entitled to practise a profession.
 
-- The fees payable by a student shall be determined by the Council after consultation with the Senate.
+## Registration of, fees payable by, and discipline of, students.
+
+21. (1) The requirements for registration as a student at the University and the renewal and cancellation of such registration shall be determined by the Council on the recommendation of the Senate.
+
+(2) The fees payable by a student shall be determined by the Council after consultation with the Senate.
 
 (3) A student shall be subject to the prescribed disciplinary provisions.
 
@@ -574,31 +543,31 @@ No. 460
 
 Act No. 18, 1992
 
+UNIVERSITY OF NAMIBIA ACT, 1992
+
 ## Reports and financial statements.
+
+22. (1) The Council shall, not later than six months after the end of each academic year, furnish to the Minister a report concerning its activities during the preceding academic year, together with certified copies of its audited financial statements in respect of that academic year.
+
+(2) The Minister shall lay on the Table in the National Assembly every report and audited financial statements furnished to the Minister in terms of subsection (1), within seven days after receiving it if the National Assembly is then in ordinary session or, if the National Assembly is not then in session, within seven days after the commencement of its next ensuing ordinary session.
 
 ## Subsidies to the University.
 
-## Vacancies not to affect powers of the University or its Councilor Senate.
+23. The Minister, in consultation with the Minister of Finance, may out of moneys appropriated by the National Assembly for the purpose grant subsidies to the University in respect of capital and normal recurrent expenditure of the University, on the basis of principles mutually agreed upon by the Minister, the Minister of Finance and the University.
+
+## Vacancies not to affect powers of the University or its Council or Senate.
+
+24. No vacancy in the office of Chancellor or Vice-Chancellor or deficiency in the number of members of the Council or the Senate shall impair or affect the corporate existence of the University or any powers, rights or privileges conferred by this Act upon the University or the Council or the Senate.
 
 ## Statutes and regulations.
 
-UNIVERSITY OF NAMIBIA ACT, 1992
-
-(1) The Council shall, not later than six months after the end of each academic year, furnish to the Minister a report concerning its activities during the preceding academic year, together with certified copies of its audited financial statements in respect of that academic year.
-
-- The Minister shall lay on the Table in the National Assembly every report and audited financial statements furnished to the Minister in terms of subsection (1), within seven days after receiving it if the National Assembly is then in ordinary session or, if the National Assembly is not then in session, within seven days after the commencement of its next ensuing ordinary session.
-
-- The Minister, in consultation with the Minister of Finance, may out of moneys appropriated by the National Assembly for the purpose grant subsidies to the University in respect of capital and normal recurrent expenditure of the University, on the basis of principles mutually agreed upon by the Minister, the Minister of Finance and the University.
-
-- No vacancy in the office of Chancellor or ViceChancellor or deficiency in the number of members of the Councilor the Senate shall impair or affect the corporate existence of the University or any powers, rights or privileges conferred by this Act upon the University or the Councilor the Senate.
-
-(1) Subject to the provisions of subsection (2), the Council may frame -
+25. (1) Subject to the provisions of subsection (2), the Council may frame -
 
 (a) statutes in relation to any matter required or permitted to be prescribed by statute in terms of this Act or any other matter which the Council considers necessary or expedient for the effective carrying out of the aims of the University or the achievement of the purposes of this Act;
 
 (b) regulations for the better carrying out of the statutes.
 
-- No statute or regulation proposed to be framed under subsection (1) and which deals with any matter in relation to the composition of the Senate shall be adopted by the Council unless the Council has consulted with the Senate.
+(2) No statute or regulation proposed to be framed under subsection (1) and which deals with any matter in relation to the composition of the Senate shall be adopted by the Council unless the Council has consulted with the Senate.
 
 [[END OF PAGE 14]]
 
@@ -612,9 +581,9 @@ Government Gazette 21 August 1992
 
 Act No. 18, 1992
 
-## Transitional provisions and savings.
-
 UNIVERSITY OF NAMIBIA ACT, 1992
+
+## Transitional provisions and savings.
 
 26. (1) Notwithstanding the provisions of section 6 the first Chancellor of the University shall be the incumbent of the office of President of the Republic of Namibia on the date of commencement of this Act, who shall be deemed to have been elected as Chancellor of the University in terms of that section.
 
@@ -622,13 +591,13 @@ UNIVERSITY OF NAMIBIA ACT, 1992
 
 (3) Notwithstanding the provisions of section 9 the Council shall be deemed to be duly constituted upon the persons referred to in paragraphs (a), (c), (f) and (g) of subsection (2) of section 9 becoming members of the Council.
 
-(4) Notwithstanding the provisions of section 10the Council shall be entitled to perform any function of the Senate until the Senate is duly constituted in accordance with the provisions of this Act.
+(4) Notwithstanding the provisions of section 10 the Council shall be entitled to perform any function of the Senate until the Senate is duly constituted in accordance with the provisions of this Act.
 
-(5) Notwithstanding the repeal of the Academy Act, 1985 any regulation made under that Act in relation to requirements for registration as a student, the statutes and rules framed thereunder and in force immediately before the commencement of this Act, shall, in so far as the provisions thereof are not inconsistent with this Act. remain in force until such regulations, statutes and rules are superseded by statutes and regulations framed under this Act.
+(5) Notwithstanding the repeal of the Academy Act, 1985 any regulation made under that Act in relation to requirements for registration as a student, the statutes and rules framed thereunder and in force immediately before the commencement of this Act, shall, in so far as the provisions thereof are not inconsistent with this Act, remain in force until such regulations, statutes and rules are superseded by statutes and regulations framed under this Act.
 
-(6) The Council shall appoint a committee or committees ofthe Council to govern and administer, subject to subsection (7), those components of the Academy which had been carried on by the Academy as a technicon and a college, respectively, until an institution is established by or under any law to supersede any such component or both those components.
+(6) The Council shall appoint a committee or committees of the Council to govern and administer, subject to subsection (7), those components of the Academy which had been carried on by the Academy as a technicon and a college, respectively, until an institution is established by or under any law to supersede any such component or both those components.
 
-(7) The committee or committees referred to in subsection (6) shall govern and administer the components referred to in that subsection subject to the authority of the Council and the Senate and in accordance with the provisions of the Academy Act, 1985and the regulations, statutes and rules made or framed thereunder, as if the said Act had not been repealed by this Act, and may perform Act No. IS, 1992
+(7) The committee or committees referred to in subsection (6) shall govern and administer the components referred to in that subsection subject to the authority of the Council and the Senate and in accordance with the provisions of the Academy Act, 1985 and the regulations, statutes and rules made or framed thereunder, as if the said Act had not been repealed by this Act, and may perform
 
 [[END OF PAGE 15]]
 
@@ -640,15 +609,27 @@ Government Gazette 21 August 1992
 
 No. 460
 
-## Transfer of staff.
+Act No. 18, 1992
 
 UNIVERSITY OF NAMIBIA ACT, 1992
 
 any function which had been entrusted to any person or authority contemplated in that Act: Provided that the power conferred by section 39 of that Act to make regulations shall be construed as a power vesting in the Council to issue directives.
 
-- Any person who at the commencement ofthis Act was registered or provisionally registered with (a) the university component of the Academy as a student shall, with effect from that commencement, be deemed to have been registered or provisionally registered, as the case may be, with the University as a student; and (b) the technicon or college component of the Academy as a student shall, with effect from that commencement, be deemed to have been registered or provisionally registered, as the case may be, with a corresponding component falling under the control and supervision of a committee referred to in section 26(6). (9) For the purposes of section 18(2)(a) any period attended as a student of the university component of the Academy shall be calculated as a period attended as a student of the University. (10) For the purposes of this section and sections 27 and 28 "the Academy" means the Academy referred to in section I ofthe Academy Act, 1985repealed by section 29. 27. (1) Subject to subsections (4) and (5), all persons who immediately before the commencement of this Act were employed by the Academy and who would at such commencement have been in the employ of the Academy but for the passing of this Act, shall with effect from the commencement of this Act be deemed to be in the employment of the University until their appointment, transfer or termination of employment as contemplated in subsection (3). (2) The Council shall establish a committee, consist-
+(8) Any person who at the commencement of this Act was registered or provisionally registered with -
 
-- ing of such persons as the Council may determine, which committee shall in respect of persons referred to in subsection (1) make recommendations to the Council in connection with -
+(a) the university component of the Academy as a student shall, with effect from that commencement, be deemed to have been registered or provisionally registered, as the case may be, with the University as a student; and
+
+(b) the technicon or college component of the Academy as a student shall, with effect from that commencement, be deemed to have been registered or provisionally registered, as the case may be, with a corresponding component falling under the control and supervision of a committee referred to in section 26(6).
+
+(9) For the purposes of section 18(2)(a) any period attended as a student of the university component of the Academy shall be calculated as a period attended as a student of the University.
+
+(10) For the purposes of this section and sections 27 and 28 "the Academy" means the Academy referred to in section 1 of the Academy Act, 1985 repealed by section 29.
+
+## Transfer of staff.
+
+27. (1) Subject to subsections (4) and (5), all persons who immediately before the commencement of this Act were employed by the Academy and who would at such commencement have been in the employ of the Academy but for the passing of this Act, shall with effect from the commencement of this Act be deemed to be in the employment of the University until their appointment, transfer or termination of employment as contemplated in subsection (3).
+
+(2) The Council shall establish a committee, consisting of such persons as the Council may determine, which committee shall in respect of persons referred to in subsection (1) make recommendations to the Council in connection with -
 
 [[END OF PAGE 16]]
 
@@ -670,19 +651,19 @@ UNIVERSITY OF NAMIBIA ACT, 1992
 
 (c) the termination of the employment of any such persons.
 
-- The Council may upon receipt of the recommendations of the committee referred to in subsection (2) -
+(3) The Council may upon receipt of the recommendations of the committee referred to in subsection (2) -
 
 (a) appoint any such persons to the academic or administrative staff of the University on terms and conditions of employment as it may determine, but subject to section 17(4);
 
 (b) determine that any such persons be employed in posts additional to the establishment of the University under the supervision and control of a committee referred to in section 26(6), pending their transfer to an institution contemplated in that section; or
 
-(c) terminate the employment of any such persons on such conditions as it may determine: Provided that no such persons employment shall be terminated without such persons being given an opportunity to be heard by the Council.
+(c) terminate the employment of any such persons on such conditions as it may determine: Provided that no such person's employment shall be terminated without such person's being given an opportunity to be heard by the Council.
 
 (4) The conditions of employment and service benefits which immediately before the commencement of this Act applied to persons referred to in subsection (1) shall continue to apply to them until their appointment or transfer or termination of employment as contemplated in subsection (3).
 
-- Nothing in this Act shall be construed as granting any person who in terms of subsection (1) is deemed to be employed by the University any right to appointment to any particular post on the establishment of the University.
+(5) Nothing in this Act shall be construed as granting any person who in terms of subsection (1) is deemed to be employed by the University any right to appointment to any particular post on the establishment of the University.
 
-- When a person is appointed or transferred as contemplated in subsection (3), he or she shall retain all vacation and sick leave which immediately before such appointment or transfer accrued to his or her credit and all monetary benefits attached thereto.
+(6) When a person is appointed or transferred as contemplated in subsection (3), he or she shall retain all vacation and sick leave which immediately before such appointment or transfer accrued to his or her credit and all monetary benefits attached thereto.
 
 [[END OF PAGE 17]]
 
@@ -696,26 +677,26 @@ No. 460
 
 Act No. 18, 1992
 
+UNIVERSITY OF NAMIBIA ACT, 1992
+
 ## Transfer of assets, liabilities, rights and obligations.
+
+28. (1) Subject to the provisions of subsection (2), all the assets, liabilities, rights and obligations of the Academy shall as from the commencement of this Act vest in the University.
+
+(2) If an institution is established to supersede a component or both components referred to in section 26(6), the Council in consultation with the relevant committee referred to in that section may, with approval of such institution, transfer such assets, liabilities, rights or obligations of the University to such institution as it may determine.
+
+(3) The Registrar of Deeds shall, free of charge, make such entries or endorsements which he or she considers necessary to effect any transfer under subsection (1) or (2), in or on any relevant register, title deed or other document in his or her office, on request and submitted to him or her.
+
+(4) No transfer duty shall be payable in respect of a transfer of any immovable property referred to in subsection (1) or (2).
 
 ## Repeal of law and abolition of Academy.
 
+29. (1) Subject to this Act, the Academy Act, 1985 (Act 9 of 1985) is hereby repealed.
+
+(2) The Academy established by the Act referred to in subsection (1) is hereby abolished and the body corporate styled as such is hereby dissolved.
+
 ## Short title and commencement.
 
-UNIVERSITY OF NAMIBIA ACT, 1992
-
-(1) Subjectto the provisions of subsection (2), all the assets, liabilities, rights and obligations of the Academy shall as from the commencement of this Act vest in the University.
-
-- If an institution is established to supersede a component or both components referred to in section 26(6), the Council in consultation with the relevant committee referred to in that section may, with approval of such institution, transfer such assets, liabilities, rights or obligations of the University to such institution as it may determine.
-
-- The Registrar of Deeds shall, free of charge, make such entries or endorsements which he or she considers necessary to effect any transfer under subsection (I) or (2), in or on any relevant register, title deed or other document in his or her office, on request and submitted to him or her.
-
-- No transfer duty shall be payable in respect of a transfer of any immovable property referred to in subsection (1) or (2).
-
-(1) Subject to this Act, the Academy Act, 1985 (Act 9 of 1985) is hereby repealed.
-
-- The Academy established by the Act referred to in subsection (1) is hereby abolished and the body corporate styled as such is hereby dissolved.
-
-- This Act shall be called the University of Namibia Act, 1992, and shall come into operation on a date to be determined by the Minister by notice in the Gazette.
+30. This Act shall be called the University of Namibia Act, 1992, and shall come into operation on a date to be determined by the Minister by notice in the Gazette.
 
 [[END OF PAGE 18]]
