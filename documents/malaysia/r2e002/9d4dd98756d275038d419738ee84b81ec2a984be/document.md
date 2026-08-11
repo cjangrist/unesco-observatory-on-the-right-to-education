@@ -57,6 +57,42 @@ Act 30
 
 #### PRELIMINARY
 
+Section
+
+1. Short title
+
+2. Interpretation
+
+### PART II
+
+#### HIGHER EDUCATION
+
+3. Responsibility of Minister
+
+4. Power of Minister to appoint person or body to investigate
+
+### PART III
+
+#### UNIVERSITIES
+
+5. Prohibition on establishing Universities
+
+5A. Non-application of Act to University established under treaty, etc.
+
+6. Incorporation and establishment of a University
+
+7. Effect of Incorporation Order and general powers of a higher educational institution which is a University
+
+8. Constitution of a University
+
+9. University to keep office as an address for service in Malaysia
+
+10. Copies of Statutes, etc., to be kept at office of University
+
+11. Grants-in-aid and accounts
+
+12. Establishment of Campus of a University
+
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
@@ -65,61 +101,61 @@ Act 30
 
 4
 
+Laws of Malaysia
+
+ACT 30
+
 Section
 
-- Acquisition of land for purposes of the University
+13. Acquisition of land for purposes of the University
 
-- Exemption from estate duty
+14. Exemption from estate duty
 
-- Prohibition  on  a  student  or  a  students'  organization,  body  or  group associating with societies, etc ., except as provided under the Constitution or approved by the Vice-Chancellor
+15. Prohibition on a student or a students’ organization, body or group associating with societies, etc., except as provided under the Constitution or approved by the Vice-Chancellor
 
-- 15A. Prohibition on collection of money by a student or by an organization, body or group of students
+15A. Prohibition on collection of money by a student or by an organization, body or group of students
 
-- 15B. Criminal liability of office-bearers, etc. , of a students' organization, body or group
+15B. Criminal liability of office-bearers, etc., of a students’ organization, body or group
 
-- 15C. Presumptions
+15C. Presumptions
 
-- 15D. Suspension and expulsion of a student charged with a criminal offence or against whom a criminal offence is proved
+15D. Suspension and expulsion of a student charged with a criminal offence or against whom a criminal offence is proved
 
-- Power of Vice-Chancellor to suspend or dissolve any organization, body or group of students
+16. Power of Vice-Chancellor to suspend or dissolve any organization, body or group of students
 
-- 16A. Discipline of staff, officers and employees of the University
+16A. Discipline of staff, officers and employees of the University
 
-- 16B. Disciplinary authority in respect of students of the University
+16B. Disciplinary authority in respect of students of the University
 
-- 16C. Disciplinary rules
+16C. Disciplinary rules
 
-- 16D. Surcharge
+16D. Surcharge
 
-- Constitution  to  provide  protection  of  benefits  under  provident  fund scheme
+17. Constitution to provide protection of benefits under provident fund scheme
 
-- Transitional provisions
+18. Transitional provisions
 
 ### PART IV
 
 #### UNIVERSITY COLLEGES
 
-- Prohibition on establishing University Colleges
+19. Prohibition on establishing University Colleges
 
-- Incorporation and establishment of a University College
+20. Incorporation and establishment of a University College
 
-- Constitution of a University College
+21. Constitution of a University College
 
-- Application of provisions of Part III to this Part
+22. Application of provisions of Part III to this Part
 
 ### PART V
 
 #### GENERAL
 
-- Offence of establishing a University or University College
+23. Offence of establishing a University or University College
 
-- Certain prohibitions in respect of 'University' or 'University College'
+24. Certain prohibitions in respect of “University” or “University College”
 
-- 24A. Service
-
-Laws of Malaysia
-
-ACT 30
+24A. Service
 
 [[END OF PAGE 4]]
 
@@ -156,35 +192,35 @@ SECOND SCHEDULE
 
 7
 
-#### Short title
-
-1. This  Act  may  be  cited  as  the  Universities  and  University Colleges Act 1971.
-
-#### Interpretation
-
-- In this Act-
-
-'Board',  in  relation  to  a  University,  means  the  Board  of Directors  of  the  University  constituted  in  accordance  with  the Constitution of the University;
-
-'Campus'  in  relation  to  a  University  or  University  College, means the Campus of the University or University College;
-
-'Chancellor', in relation to a University, means the Chancellor of the University and includes any other person, by whatever name called, who has been appointed as the Head of a University and 'Pro-Chancellor' shall be construed accordingly;
-
 LAWS OF MALAYSIA
 
 Act 30
 
 # UNIVERSITIES AND UNIVERSITY COLLEGES ACT 1971
 
-An  Act  to  provide  for  the  establishment,  maintenance  and administration  of  Universities  and  University  Colleges  and  for other matters connected with it.
+An Act to provide for the establishment, maintenance and administration of Universities and University Colleges and for other matters connected with it.
 
-[ Throughout Malaysia-30 April 1971 ]
+[Throughout Malaysia—30 April 1971]
 
-BE IT ENACTED by the Seri Paduka Baginda Yang di-Pertuan Agong  with  the  advice  and  consent  of  the  Dewan  Negara  and Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows:
+BE IT ENACTED by the Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows:
 
-## PART  I
+## PART I
 
 ### PRELIMINARY
+
+#### Short title
+
+1. This Act may be cited as the Universities and University Colleges Act 1971.
+
+#### Interpretation
+
+2. In this Act—
+
+“Board”, in relation to a University, means the Board of Directors of the University constituted in accordance with the Constitution of the University;
+
+“Campus” in relation to a University or University College, means the Campus of the University or University College;
+
+“Chancellor”, in relation to a University, means the Chancellor of the University and includes any other person, by whatever name called, who has been appointed as the Head of a University and “Pro-Chancellor” shall be construed accordingly;
 
 [[END OF PAGE 7]]
 
@@ -216,7 +252,7 @@ ACT 30
 
 'University or University College education' means the education provided by a University or University College;
 
-'Vice-Chancellor', in relation to a University, means the ViceChancellor,  President,  Rector  or  Director  of  the  University  and includes any other person, by whatever name called, who has been appointed  as  the  chief  executive  officer  of  the  University  and 'Deputy Vice-Chancellor' shall be construed accordingly.
+“Vice-Chancellor”, in relation to a University, means the Vice-Chancellor, President, Rector or Director of the University and includes any other person, by whatever name called, who has been appointed as the chief executive officer of the University and “Deputy Vice-Chancellor” shall be construed accordingly.
 
 ## PART  II
 ### HIGHER EDUCATION
@@ -405,9 +441,9 @@ ACT 30
 
 #### Prohibition on a student or a students' organization, body or group associating with societies, etc ., except as provided under the Constitution or approved by the Vice-Chancellor
 
-15. (1) No person, while he is a student of the University, shall be a member of, or shall in any manner associate with, any society, political  party,  trade  union  or  any  other  organization,  body  or group  of  persons  whatsoever,  whether  or  not  it  is  established under  any  law,  whether  it  is  in  the  University  or  outside  the University,  and  whether  it  is  in  Malaysia  or  outside  Malaysia, except  as  may  be  provided  by  or  under  the  Constitution,  or except  as  may  be  approved  in  advance  in  writing  by  the  ViceChancellor.
+15. (1) No person, while he is a student of the University, shall be a member of, or shall in any manner associate with, any society, political party, trade union or any other organization, body or group of persons whatsoever, whether or not it is established under any law, whether it is in the University or outside the University, and whether it is in Malaysia or outside Malaysia, except as may be provided by or under the Constitution, or except as may be approved in advance in writing by the Vice-Chancellor.
 
-(2) No  organization, body or group of students of the University, whether established by, under or in accordance with the  Constitution,  or  otherwise,  shall  have  any  affiliation, association  or  other  dealing  whatsoever  with  any  society, political  party,  trade  union  or  any  other  organization,  body  or group  of  persons  whatsoever,  whether  or  not  it  is  established under  any  law,  whether  it  is  in  the  University  or  outside  the University,  and  whether  it  is  in  Malaysia  or  outside  Malaysia, except  as  may  be  provided  by  or  under  the  Constitution,  or except  as  may  be  approved  in  advance  in  writing  by  the  ViceChancellor.
+(2) No organization, body or group of students of the University, whether established by, under or in accordance with the Constitution, or otherwise, shall have any affiliation, association or other dealing whatsoever with any society, political party, trade union or any other organization, body or group of persons whatsoever, whether or not it is established under any law, whether it is in the University or outside the University, and whether it is in Malaysia or outside Malaysia, except as may be provided by or under the Constitution, or except as may be approved in advance in writing by the Vice-Chancellor.
 
 (3) No person, while he is a student of the University, shall express  or  do  anything  which  may  be  construed  as  expressing support,  sympathy  or  opposition  to  any  political  party  or  trade union  or  as  expressing  support  or  sympathy  with  any  unlawful organization, body or group of persons.
 
@@ -431,7 +467,7 @@ Universities and University Colleges 15
 
 (3) The Minister may, in any particular case, in his absolute discretion, grant exemption to any person from the application of subsection (1), subject to such terms and conditions and for such period as he may, in his absolute discretion, deem fit.
 
-(4) Without  prejudice  to  the  provisions  of  any  other  written law  relating  to  the  delegation  of  powers,  the  Minister  may,  by notification  in  the Gazette ,  delegate  the  exercise  of  his  powers under  subsection  (3)  to  the  Vice-Chancellor  in  respect  of collection of money within the Campus from persons within the Campus,  subject  to  such  conditions  and  restrictions  as  may  be prescribed in such notification.
+(4) Without prejudice to the provisions of any other written law relating to the delegation of powers, the Minister may, by notification in the Gazette, delegate the exercise of his powers under subsection (3) to the Vice-Chancellor in respect of collection of money within the Campus from persons within the
 
 [[END OF PAGE 15]]
 
@@ -445,7 +481,9 @@ Laws of Malaysia
 
 ACT 30
 
-(5) The provisions of this section shall be in addition to and not in derogation from the provisions of any written law relating to  house  to  house  and  street  collections,  public  collections,  or collection of money or sale of badges.
+Campus, subject to such conditions and restrictions as may be prescribed in such notification.
+
+(5) The provisions of this section shall be in addition to and not in derogation from the provisions of any written law relating to house to house and street collections, public collections, or collection of money or sale of badges.
 
 #### Criminal liability of office-bearers, etc ., of a students' organization, body or group
 
@@ -531,7 +569,7 @@ Universities and University Colleges 19
 
 (4) A  staff,  officer  or  employee  who  is  a  member  of  a disciplinary committee shall not be lower in rank than any staff, officer  or  employee  over  whom  the  disciplinary  committee  has disciplinary authority.
 
-(5) In any case where a member of a disciplinary committee is himself a complainant in any disciplinary proceedings before the disciplinary  committee,  he  shall  not  be  present  in  such proceedings  and  the  Board  shall  appoint  any  other  person  to participate in such proceedings.
+(5) In any case where a member of a disciplinary committee is himself a complainant in any disciplinary proceedings before the disciplinary committee, he shall not be present in such
 
 [[END OF PAGE 19]]
 
@@ -544,6 +582,8 @@ Universities and University Colleges 19
 Laws of Malaysia
 
 ACT 30
+
+proceedings and the Board shall appoint any other person to participate in such proceedings.
 
 (6) Subsection (4) shall apply to any other person appointed to a disciplinary committee under subsection (5).
 
@@ -579,7 +619,7 @@ Chancellors,  any  member  of  the  staff,  any  officer  or  any employee of th
 
 Provided that no delegation shall be made under this subsection to the Chancellor or the Pro-Chancellors.
 
-(4) Any  student  dissatisfied  with  the  decision  of  the  ViceChancellor who is the disciplinary authority under subsection (1) or  of  any  person  or  board  delegated  with  functions,  powers  or duties under subsection (3) may, within thirty days from the date of the service of the decision on him, appeal against such decision to  the  Minister  who  may,  if  he  deems  fit,  summarily  reject  the appeal.
+(4) Any student dissatisfied with the decision of the Vice-Chancellor who is the disciplinary authority under subsection (1) or of any person or board delegated with functions, powers or duties under subsection (3) may, within thirty days from the date of the service of the decision on him, appeal against such decision to the Minister who may, if he deems fit, summarily reject the appeal.
 
 (5) Where the Minister does not summarily reject an appeal under subsection (4), he shall appoint a committee of two or more persons,  from  within  or  without  the  University,  to  consider  the appeal and make its recommendations to him, and, upon receiving such recommendations, the Minister may give such decision on the appeal as he deems fit and proper.
 
@@ -587,7 +627,7 @@ Provided that no delegation shall be made under this subsection to the Chancello
 
 16C. (1) The Board shall have the power to make such disciplinary rules  as  it  deems  necessary  or  expedient  to  provide  for  the discipline of the members of the staff, officers and employees of the University and of the students of the University; the disciplinary rules made under this subsection shall be published in the Gazette .
 
-(2) The  disciplinary  rules  made  by  the  Board  under  this section may include provisions for the interdiction with reduction in  salary  or  in  other  remuneration,  or  provisions  for  the suspension without salary or other remuneration, of a member of the staff or an officer or employee of the University, and for the suspension of a student of the University, during the pendency of disciplinary proceedings.
+(2) The disciplinary rules made by the Board under this section may include provisions for the interdiction with reduction in salary or in other remuneration, or provisions for the suspension without salary or other remuneration, of a member of the staff or an officer or employee of the University, and for the
 
 [[END OF PAGE 21]]
 
@@ -601,7 +641,9 @@ Laws of Malaysia
 
 ACT 30
 
-(3) The disciplinary rules made under this section shall create such  disciplinary  offences  and  provide  for  such  disciplinary punishments  as  the  Board  may  deem  appropriate,  and  the punishments so provided may extend to dismissal or reduction in rank in the case of members of the staff, officers or employees of the University, and expulsion from the University in the case of students of the University.
+suspension of a student of the University, during the pendency of disciplinary proceedings.
+
+(3) The disciplinary rules made under this section shall create such disciplinary offences and provide for such disciplinary punishments as the Board may deem appropriate, and the punishments so provided may extend to dismissal or reduction in rank in the case of members of the staff, officers or employees of the University, and expulsion from the University in the case of students of the University.
 
 (4) The  disciplinary  rules  made  under  this  section  shall,  in prescribing  the  procedure  for  disciplinary  proceedings,  provide for an opportunity for representations to be made by the person against  whom  disciplinary  proceedings  are  taken  before  a decision  is  arrived  at  by  the  disciplinary  authority  on  the disciplinary charge laid against such person.
 
@@ -705,6 +747,8 @@ Universities and University Colleges 25
 
 Laws of Malaysia
 
+ACT 30
+
 ## PART  IV
 ### UNIVERSITY COLLEGES
 
@@ -732,7 +776,7 @@ Laws of Malaysia
 
 (4) Anything done or appointment made for and on behalf of the University College prior to the date of the coming into force
 
-ACT 30
+
 
 [[END OF PAGE 26]]
 
@@ -740,9 +784,9 @@ ACT 30
 
 030e.fm  Page 27  Monday, March 27, 2006  2:42 PM
 
-27
-
 Universities and University Colleges
+
+27
 
 of the Constitution shall, on and after that date, be deemed to be made for, by or on behalf of the University College.
 
@@ -806,9 +850,9 @@ ACT 30
 
 030e.fm  Page 29  Monday, March 27, 2006  2:42 PM
 
-29
-
 Universities and University Colleges
+
+29
 
 any act, neglect or default done or committed by it or him in such capacity.
 
@@ -850,24 +894,6 @@ for  any  act  or  omission  done  in  good  faith  in  the  discharge  of its o
 
 30
 
-#### Citation
-
-1. This  Constitution  may  be  cited  as  the  Constitution  of  the  University  of ……………………………………………
-
-#### Interpretation
-
-2. (1) In this Constitution, unless the context otherwise requires-
-
-'Alumni of the University' means the Alumni of the University constituted in accordance with section 22;
-
-'Authority' means any of the Authorities of the University referred to in section 12, and includes any Authority established by Statute;
-
-'Chair' means the post of professor however styled;
-
-'Convocation' means a Convocation held in accordance with section 44;
-
-'Foundation Day' means the date on which the Incorporation Order made by the Yang di-Pertuan Agong under section 6 of the Universities and University Colleges Act 1971 comes into force;
-
 Laws of Malaysia
 
 ACT 30
@@ -887,6 +913,24 @@ ACT 30
 [Section 8]
 
 ### CONSTITUTION
+
+#### Citation
+
+1. This  Constitution  may  be  cited  as  the  Constitution  of  the  University  of ……………………………………………
+
+#### Interpretation
+
+2. (1) In this Constitution, unless the context otherwise requires-
+
+'Alumni of the University' means the Alumni of the University constituted in accordance with section 22;
+
+'Authority' means any of the Authorities of the University referred to in section 12, and includes any Authority established by Statute;
+
+'Chair' means the post of professor however styled;
+
+'Convocation' means a Convocation held in accordance with section 44;
+
+'Foundation Day' means the date on which the Incorporation Order made by the Yang di-Pertuan Agong under section 6 of the Universities and University Colleges Act 1971 comes into force;
 
 [[END OF PAGE 30]]
 
@@ -940,9 +984,9 @@ Universities and University Colleges
 
 32
 
-ACT 30
-
 Laws of Malaysia
+
+ACT 30
 
 (a) to provide courses of instruction, to hold examinations, to make provision for  research,  and  to  take  such  other  steps  as  may  appear  necessary  or desirable for the advancement and dissemination of knowledge;
 
@@ -998,7 +1042,7 @@ Universities and University Colleges 33
 
 ###### Additional powers of the University
 
-- 4A. (1) The Board may, with the approval of the Minister of Finance-
+4A. (1) The Board may, with the approval of the Minister of Finance-
 
 (a) where  it  appears  to  be  requisite,  advantageous  or  convenient  for  or  in connection with the discharge of the functions, exercise of the powers and carrying on of the activities of the University, enter into equity participation, partnership, joint venture, undertaking or any other form of co-operation or arrangement in association with, or otherwise-
 
@@ -1024,9 +1068,9 @@ Universities and University Colleges 33
 
 34
 
-ACT 30
-
 Laws of Malaysia
+
+ACT 30
 
 opinion  of  the  Board  would  be  beneficial  and  advantageous  to  the University;
 
@@ -1052,7 +1096,7 @@ opinion  of  the  Board  would  be  beneficial  and  advantageous  to  the Unive
 
 (i) purchase, take on lease or hire or otherwise acquire and invest in any real and personal estate which may be deemed necessary or convenient for any of the purposes of the University.
 
-- Section 4B shall apply to a corporation established under paragraph (1) (c) .
+(2) Section 4B shall apply to a corporation established under paragraph (1)(c).
 
 ###### Provisions relating to corporations
 
@@ -1074,9 +1118,9 @@ opinion  of  the  Board  would  be  beneficial  and  advantageous  to  the Unive
 
 030e.fm  Page 35  Monday, March 27, 2006  2:42 PM
 
-35
-
 Universities and University Colleges
+
+35
 
 (3) The Board may at any time amend, revoke, or add to, any regulation made in respect of any corporation under subsection (1).
 
@@ -1088,7 +1132,7 @@ Universities and University Colleges
 
 (7) Regulations made under this section shall be published in the Gazette.
 
-- Every corporation established under paragraph 4A(1) (c) -
+(8) Every corporation established under paragraph 4A(1)(c)-
 
 (a) shall be a body corporate by such name as the Board shall give to such corporation;
 
@@ -1132,7 +1176,7 @@ ACT 30
 
 (15)The seal of every corporation shall be officially and judicially noticed.
 
-###### Conduct of study, etc ., in association, etc ., with any University
+###### Conduct of study, etc., in association, etc., with any University
 
 4C. The University may, with the approval of the Minister, conduct any course of study or training programme jointly or in association, affiliation, collaboration or otherwise, with any University or institution of higher education or other educational institution or organization within or outside Malaysia.
 
@@ -1144,7 +1188,7 @@ ACT 30
 
 6. (1)  The common seal of the University shall be such seal as may be approved by the Chancellor on the recommendation of the Board and such seal may in like manner from time to time be broken, changed, altered and made anew.
 
-(2) The common seal of the University shall be kept in the custody of the ViceChancellor.
+(2) The common seal of the University shall be kept in the custody of the Vice-Chancellor.
 
 (3) The common seal of the University shall not be affixed to any instrument except in the presence of-
 
@@ -1164,7 +1208,15 @@ who shall sign their names to the instrument in token of such presence; and such
 
 030e.fm  Page 37  Monday, March 27, 2006  2:42 PM
 
+Universities and University Colleges
+
 37
+
+(5) Any document or instrument which (if executed by a person not being a body corporate) will not require to be under seal may in like manner be executed by the University provided that such document or instrument shall be executed on behalf of the University by an officer or any person generally or specially authorized by the Board.
+
+#### PART II
+
+##### THE OFFICERS OF THE UNIVERSITY
 
 ###### The Chancellor
 
@@ -1192,14 +1244,6 @@ who shall sign their names to the instrument in token of such presence; and such
 
 (3) The Vice-Chancellor shall be the chief executive and academic officer of the University.
 
-Universities and University Colleges
-
-(5) Any document or instrument which (if executed by a person not being a body corporate) will not require to be under seal may in like manner be executed by the University provided that such document or instrument shall be executed on behalf of the University by an officer or any person generally or specially authorized by the Board.
-
-#### PART II
-
-##### THE OFFICERS OF THE UNIVERSITY
-
 [[END OF PAGE 37]]
 
 [[START OF PAGE 38]]
@@ -1216,13 +1260,13 @@ ACT 30
 
 (5) The Vice-Chancellor shall, subject to the provisions of this Constitution, exercise general supervision over the arrangements for instruction, research, finance, administration, welfare and discipline in the University, and may exercise such other powers as may be conferred upon him by this Constitution and any Statute, Rules or Regulation.
 
-( Deleted by Act A295 ).
+(6) ( Deleted by Act A295 ).
 
 (7) The terms of office and other conditions of service of the Vice-Chancellor shall be determined by the Minister, after consultation with the Board, and shall be binding on the University.
 
-(8) There  shall  be  at  least  one  Deputy  Vice-Chancellor;  the  Deputy  ViceChancellor or Deputy Vice-Chancellors, as the case may be, shall be appointed by the Minister after consultation with the Vice-Chancellor, and any fit and proper person may be so appointed either from within or without the University; the terms of office and other conditions of service of a Deputy Vice-Chancellor shall be determined by the Minister after consultation with the Vice-Chancellor, and shall be binding on the University.
+(8) There  shall  be  at  least  one  Deputy  Vice-Chancellor;  the  Deputy  Vice-Chancellor or Deputy Vice-Chancellors, as the case may be, shall be appointed by the Minister after consultation with the Vice-Chancellor, and any fit and proper person may be so appointed either from within or without the University; the terms of office and other conditions of service of a Deputy Vice-Chancellor shall be determined by the Minister after consultation with the Vice-Chancellor, and shall be binding on the University.
 
-(9) If  for  any  substantial  period  the  Vice-Chancellor  is  unable  by  reason  of illness, leave of absence or any other cause to exercise any of the functions of his office,  the  Deputy  Vice-Chancellor  or,  if  there  is  more  than  one  Deputy  ViceChancellor, such one of them as may be nominated by the Minister shall exercise such functions; and in the event of the absence or disability of the Deputy ViceChancellor  or  all  the  Deputy  Vice-Chancellors  (if  there  be  more  than  one)  the Minister shall make such temporary arrangements as he may think fit for the exercise of such functions.
+(9) If  for  any  substantial  period  the  Vice-Chancellor  is  unable  by  reason  of illness, leave of absence or any other cause to exercise any of the functions of his office,  the  Deputy  Vice-Chancellor  or,  if  there  is  more  than  one  Deputy  Vice-Chancellor, such one of them as may be nominated by the Minister shall exercise such functions; and in the event of the absence or disability of the Deputy Vice-Chancellor  or  all  the  Deputy  Vice-Chancellors  (if  there  be  more  than  one)  the Minister shall make such temporary arrangements as he may think fit for the exercise of such functions.
 
 ###### Registrar, Bursar and Librarian
 
@@ -1245,6 +1289,10 @@ ACT 30
 Universities and University Colleges
 
 39
+
+#### PART III
+
+##### THE UNIVERSITY AUTHORITIES
 
 ###### The Authorities
 
@@ -1284,10 +1332,6 @@ Universities and University Colleges
 
 15. (1) The  Minister  may  appoint  any  member  of  the  Board  to  exercise  the functions of the Chairman during any period the Chairman is for any reason unable
 
-#### PART III
-
-##### THE UNIVERSITY AUTHORITIES
-
 [[END OF PAGE 39]]
 
 [[START OF PAGE 40]]
@@ -1296,9 +1340,9 @@ Universities and University Colleges
 
 40
 
-ACT 30
-
 Laws of Malaysia
+
+ACT 30
 
 to exercise his functions or during any period of any vacancy in the office of the Chairman.
 
@@ -1312,7 +1356,7 @@ to exercise his functions or during any period of any vacancy in the office of t
 
 ###### The Senate
 
-(1) The Senate shall consist of-
+17. (1) The Senate shall consist of-
 
 (a) the Vice-Chancellor, who shall be Chairman;
 
@@ -1382,9 +1426,9 @@ and in either case to report thereon to such Faculty, School, Centre, Academy or
 
 42
 
-ACT 30
-
 Laws of Malaysia
+
+ACT 30
 
 (c) the  Dean  of  the  Faculty  or  Head  of  the  School,  Centre,  Academy  or Institute to which the Chair will be allocated; and
 
@@ -1392,7 +1436,7 @@ Laws of Malaysia
 
 (2) Save  as  provided  in  subsection  (3)  the  Selection  Committee  shall  be convened and presided by the Vice-Chancellor.
 
-(3) Whenever it is decided to fill an appointment other than that to a Chair, the Board  may,  on  the  recommendation  of  the  Vice-Chancellor,  appoint  different Selection  Committees  in  respect  of  different  appointments  and  the  Selection Committee  convened  for  that  purpose  shall  be  presided  by  the  Deputy  ViceChancellor, or, in his absence, by a member elected by the members present at the meeting.
+(3) Whenever it is decided to fill an appointment other than that to a Chair, the Board  may,  on  the  recommendation  of  the  Vice-Chancellor,  appoint  different Selection  Committees  in  respect  of  different  appointments  and  the  Selection Committee  convened  for  that  purpose  shall  be  presided  by  the  Deputy  Vice-Chancellor, or, in his absence, by a member elected by the members present at the meeting.
 
 (4)  Where  the  Deputy  Vice-Chancellor  is  not  a  member  of  the  Selection Committee,  he  shall  for  the  purpose  of  the  meeting  in  which  he  presides  under subsection  (3)  and  the  decision  made  thereat,  be  deemed  to  be  a  member  of  the Selection Committee.
 
@@ -1422,12 +1466,6 @@ Laws of Malaysia
 
 030e.fm  Page 43  Monday, March 27, 2006  2:42 PM
 
-###### Statutes
-
-25. Subject to the provisions of this Constitution, Statutes may be made to deal with any or all of the following matters:
-
-(a) the powers and duties of the officers of the University;
-
 Universities and University Colleges 43
 
 of office of a person elected or appointed to be a member of an Authority, otherwise than ex-officio , shall be three years:
@@ -1436,7 +1474,7 @@ Provided that-
 
 (a) where the person is elected or appointed because he holds an office or is a member of some other Authority or body, he shall cease to be a member of the Authority if before the expiry of his term of office he ceases to hold such office or to be a member of such Authority or body; and
 
-(b) a person who retires at the end of his term of office shall be eligible for reelection or reappointment if he is otherwise qualified.
+(b) a person who retires at the end of his term of office shall be eligible for re-election or reappointment if he is otherwise qualified.
 
 (2) Where a person is a member of an Authority ex-officio , a person appointed to act for him shall be a member of the Authority ex-officio so long as he is so acting and is otherwise qualified.
 
@@ -1459,6 +1497,12 @@ Provided that-
 #### PART IV
 
 ##### STATUTES, RULES AND REGULATIONS
+
+###### Statutes
+
+25. Subject to the provisions of this Constitution, Statutes may be made to deal with any or all of the following matters:
+
+(a) the powers and duties of the officers of the University;
 
 [[END OF PAGE 43]]
 
@@ -1550,9 +1594,9 @@ Universities and University Colleges 45
 
 28. (1) The Board may, subject to the provisions of this section, make, amend or revoke any Rules.
 
-- The draft of any Rules dealing with-
+(2) The draft of any Rules dealing with-
 
-(a) any matter referred to in paragraphs 27 (a) , (b) , (c) , (d) , (g) and (i) ; or
+(a) any matter referred to in paragraphs 27(a), (b), (c), (d), (g) and (i); or
 
 (b) any matter within the jurisdiction of the Senate,
 
@@ -1588,13 +1632,13 @@ ACT 30
 
 (2) The Statutes, Rules and Regulations of the University as amended from time to time shall be published in book form at such intervals as the Board may direct, and copies shall be made available for purchase at a reasonable price by members of the public.
 
-- Nothing in this section shall apply to-
+(3) Nothing in this section shall apply to-
 
 (a) any  Rules  or  Regulation  containing  only  instructions  to  examiners  or invigilators; or
 
 (b) any Rules or Regulation which the Board resolves not to publish.
 
-###### Constitution, inconsistencies between the Statutes, etc .
+###### Constitution, inconsistencies between the Statutes, etc.
 
 31. In the event of-
 
@@ -1670,7 +1714,7 @@ ACT 30
 
 (b) to one item of capital expenditure to another item of capital expenditure.
 
-- Subsection (1) shall not apply to-
+(2) Subsection (1) shall not apply to-
 
 (a) moneys deposited  with  the  University  by  any  person,  wherever  by  the conditions of such deposit any such sum has become repayable;
 
@@ -1712,7 +1756,15 @@ ACT 30
 
 030e.fm  Page 49  Monday, March 27, 2006  2:42 PM
 
+Universities and University Colleges
+
 49
+
+(2) The audited accounts, with any observation made thereon by the auditors, shall be presented to the Minister.
+
+#### PART VI
+
+##### GENERAL PROVISIONS
 
 ###### Convocation
 
@@ -1720,7 +1772,7 @@ ACT 30
 
 (2)  In the absence of the Chancellor or of a Pro-Chancellor, authorized for this purpose by the Chancellor, the Vice-Chancellor shall preside over Convocation.
 
-( Deleted by Act A946 ).
+(3) ( Deleted by Act A946 ).
 
 ###### Appointments of teachers and employees
 
@@ -1739,14 +1791,6 @@ ACT 30
 ###### Royal Professors
 
 46. (1) Notwithstanding sections 20 and 45, the Yang di-Pertuan Agong may, after consultation with the Chancellor, from time to time appoint persons of exceptional academic distinction to be professors of the University:
-
-Universities and University Colleges
-
-(2) The audited accounts, with any observation made thereon by the auditors, shall be presented to the Minister.
-
-#### PART VI
-
-##### GENERAL PROVISIONS
 
 [[END OF PAGE 49]]
 
@@ -1796,13 +1840,13 @@ Provided that, except with the agreement of the Minister, students who have been
 
 Universities and University Colleges 51
 
-number of registered students to be representatives to the SRC as may be determined by the Vice-Chancellor, being, in any case, not more than half of the number of representatives elected under paragraph (a) .
+number of registered students to be representatives to the SRC as may be determined by the Vice-Chancellor, being, in any case, not more than half of the number of representatives elected under paragraph (a).
 
 (3) The SRC shall elect from among its members a President, a Vice-President, a Secretary and a Treasurer, who shall be its only office-bearers, unless otherwise authorized in writing by the Vice-Chancellor; the office-bearers so authorized by the Vice-Chancellor shall be elected by the SRC from the members of the SRC.
 
-- The members of the SRC and its office-bearers shall be elected for one year.
+(4) The members of the SRC and its office-bearers shall be elected for one year.
 
-(5) The SRC's decision shall be taken by a majority vote with not less than twothirds of the members being present and voting.
+(5) The SRC’s decision shall be taken by a majority vote with not less than two-thirds of the members being present and voting.
 
 (6) The SRC may form from time to time, with the prior approval in writing of the  Vice-Chancellor,  appoint ad  hoc committees  from  among  its  members  for specific purposes or objects.
 
@@ -1840,9 +1884,9 @@ Laws of Malaysia ACT 30
 
 (13) The SRC shall hold meetings from time to time as it may deem necessary and it shall be the duty of the Secretary to keep minutes of every meeting of the SRC and such minutes shall be confirmed at a subsequent meeting.
 
-(14) For the purpose of this section 'registered student' means a student who is following a course of study in the University for a degree or a diploma, not being a post-graduate diploma, and includes a student who is a holder of a diploma and is following a course of study for a degree:
+(14) For the purpose of this section “registered student” means a student who is following a course of study in the University for a degree or a diploma, not being a post-graduate diploma, and includes a student who is a holder of a diploma and is following a course of study for a degree:
 
-Provided that a student shall cease to be a registered student within the meaning of this subsection-
+Provided that a student shall cease to be a registered student within the meaning of this subsection—
 
 (a) upon the publication of the results of the final examination for such course of study, if he passes such examination; or
 
@@ -1854,7 +1898,7 @@ Provided that a student shall cease to be a registered student within the meanin
 
 (2) Subsections  48(3),  (4),  (5),  (6),  (7),  (8),  (11),  (12)  and  (13)  shall  apply mutatis mutandis to a student body established under this section as they apply to the SRC.
 
-50. ( Deleted by Act A295 ).
+50. (Deleted by Act A295).
 
 ###### Acts ultra vires the Constitution of the SRC or a student body
 
@@ -1884,9 +1928,9 @@ prejudicial to the well-being or reputation of the University or acts in contrav
 
 (4) Nothing in this section shall apply to any power to make or approve Statutes, Rules or Regulations.
 
-###### Deprivation of degree, etc ., on grounds of misconduct
+###### Deprivation of degree, etc., on grounds of misconduct
 
-53. (1) If any member of an Authority, or any graduate of the University, or any person who has received a degree, diploma, certificate or other academic distinction from the University, is convicted by a court of law of any heinous offence whether within or without Malaysia, or is in the opinion of the Board guilty of scandalous conduct, it shall be lawful for the Chancellor, on the recommendation of not less than two-thirds of all the members of the Board-
+53. (1) If any member of an Authority, or any graduate of the University, or any person who has received a degree, diploma, certificate or other academic distinction from the University, is convicted by a court of law of any heinous offence whether within or without Malaysia, or is in the opinion of the Board guilty of scandalous conduct, it shall be lawful for the Chancellor, on the recommendation of not less than two-thirds of all the members of the Board—
 
 (a) to remove him from membership of the Authority; or
 
@@ -1912,13 +1956,33 @@ ACT 30
 
 any Authority or other body in the University, the question shall be referred to the Minister, whose decision thereon shall be final.
 
-55. ( Deleted by Act A80 ).
+55. (Deleted by Act A80).
+
+### NOTE
+
+[This Schedule has been modified to apply to the following Universities:
+
+1. Universiti Kebangsaan Malaysia vide P.U.(A)110/1974 and 112/1978;
+
+2. Universiti Teknologi Malaysia vide P.U.(A)230/1976, 231/1976, 118/1978 and 119/1978;
+
+3. Universiti Putra Malaysia vide P.U.(A)410/1976 and 116/1978;
+
+4. University of Malaya vide P.U.(A)110/1978;
+
+5. Universiti Sains Malaysia vide P.U.(A)268/1975 and 114/1978; and
+
+6. Universiti Utara Malaysia vide P.U.(A)348/1986.]
+
+## SECOND SCHEDULE
+
+[Subsection 12(3) of the Constitution]
 
 ### Disqualification
 
-1. The  following  person  shall  be  disqualified  from  being  appointed  or  being  a member of an Authority of the University:
+1. The following person shall be disqualified from being appointed or being a member of an Authority of the University:
 
-(a) if there has been proved against him, or he has been convicted on, a charge in respect of-
+(a) if there has been proved against him, or he has been convicted on, a charge in respect of—
 
 (i) an offence involving fraud, dishonesty or moral turpitude;
 
@@ -1934,31 +1998,11 @@ any Authority or other body in the University, the question shall be referred to
 
 ### Cessation from being a member
 
-- A member of an Authority shall cease to be a member-
+2. A member of an Authority shall cease to be a member—
 
 (a) if he fails to attend three consecutive meetings of the Authority without leave of the chairman of the Authority; or
 
 (b) if his appointment is revoked.
-
-### NOTE
-
-[This Schedule has been modified to apply to the following Universities:
-
-- Universiti Kebangsaan Malaysia vide P.U.(A)110/1974 and 112/1978;
-
-- Universiti Teknologi Malaysia vide P.U.(A)230/1976, 231/1976, 118/1978 and 119/1978;
-
-- Universiti Putra Malaysia vide P.U.(A)410/1976 and 116/1978;
-
-- University of Malaya vide P.U.(A)110/1978;
-
-- Universiti Sains Malaysia vide P.U.(A)268/1975 and 114/1978; and
-
-- Universiti Utara Malaysia vide P.U.(A)348/1986.]
-
-## SECOND SCHEDULE
-
-[Subsection 12(3) of the Constitution]
 
 [[END OF PAGE 54]]
 
@@ -1966,15 +2010,15 @@ any Authority or other body in the University, the question shall be referred to
 
 030e.fm  Page 55  Monday, March 27, 2006  2:42 PM
 
-55
+Universities and University Colleges 55
 
 ### Resignation
 
-3. A member of the Authority may resign by giving one month's notice in writing to the chairman of the Authority.
+3. A member of the Authority may resign by giving one month’s notice in writing to the chairman of the Authority.
 
 ### Filling of vacancies
 
-4. Where any  person  ceases  to  be  a  member  of  an  Authority  by  reason  of  the provisions of this Act, another person may be appointed to fill the vacancy for the remainder of the term for which the member was appointed.
+4. Where any person ceases to be a member of an Authority by reason of the provisions of this Act, another person may be appointed to fill the vacancy for the remainder of the term for which the member was appointed.
 
 ### Allowance
 
@@ -1990,13 +2034,13 @@ any Authority or other body in the University, the question shall be referred to
 
 7. (1) The Authority shall cause minutes of all its meetings to be maintained and kept in a proper form.
 
-(2) Minutes  made  of  meetings  of  the  Authority  shall,  if  duly  signed,  be admissible in evidence in all legal proceedings without further proof.
+(2) Minutes made of meetings of the Authority shall, if duly signed, be admissible in evidence in all legal proceedings without further proof.
 
-(3) Every  meeting  of  the  Authority  in  respect  of  the  proceedings  of  which minutes have been so made shall be deemed to have been duly convened and held and all members thereat to have been duly qualified to act.
+(3) Every meeting of the Authority in respect of the proceedings of which minutes have been so made shall be deemed to have been duly convened and held and all members thereat to have been duly qualified to act.
 
 ### Disclosure of interest
 
-8. (1) A member of the Authority having, directly or indirectly, by himself or his partner-
+8. (1) A member of the Authority having, directly or indirectly, by himself or his partner—
 
 (a) an interest in a company or undertaking with which the Authority proposes to make a contract; or
 
@@ -2005,8 +2049,6 @@ any Authority or other body in the University, the question shall be referred to
 shall disclose to the Authority the fact of his interest and its nature.
 
 (2) A disclosure under subparagraph (1) shall be recorded in the minutes of the Authority and, unless specifically authorized by the chairman, such member shall take no part in the deliberation or decision of the Authority relating to the contract or matter.
-
-Universities and University Colleges
 
 [[END OF PAGE 55]]
 
@@ -2018,7 +2060,7 @@ Universities and University Colleges
 
 ### Validity of acts and proceedings
 
-9. No act done or proceeding taken under this Constitution shall be questioned on the ground of-
+9. No act done or proceeding taken under this Constitution shall be questioned on the ground of—
 
 (a) a  vacancy  in  the  membership  of,  or  a  defect  in  the  constitution  of,  the Authority;
 
@@ -2049,9 +2091,9 @@ Act A295 | Universities and University Colleges (Amendment) Act 1975 | 13-05-197
 Act A550 | Universities and University Colleges (Amendment) Act 1983 | 20-02-1983
 Act A946 | Universities and University Colleges (Amendment) Act 1996 | *01-10-1996
 
-* NOTE - Para 2, P.U.(B)428/1996 - the Minister suspends the operation of the whole of Act A946 in respect of all  Universities and University Colleges established under the Universities and University Colleges Act 1971.
+*NOTE– Para 2, P.U.(B)428/1996 — the Minister suspends the operation of the whole of Act A946 in respect of all Universities and University Colleges established under the Universities and University Colleges Act 1971.
 
--See also  P.U.(B)102/1998  and  P.U.(B)163/1998-the  Minister  revokes  the suspension of operation of the whole of Act A946 in respect of the Universities mentioned in it.
+– See also P.U.(B)102/1998 and P.U.(B)163/1998—the Minister revokes the suspension of operation of the whole of Act A946 in respect of the Universities mentioned in it.
 
 [[END OF PAGE 57]]
 
@@ -2074,20 +2116,20 @@ Section | Amending authority | In force from
 2 | Act A946 | 01-10-1996
 3 | Act A946 | 01-10-1996
 5 | Act A550 | 20-02-1983
-Act A946 | 01-10-1996
+ | Act A946 | 01-10-1996
 5A | Act A550 | 20-02-1983
-Act A946 | 01-10-1996
+ | Act A946 | 01-10-1996
 6 | Act A80 | 24-09-1971
 7 | Act A946 | 01-10-1996
 8 | Act A946 | 01-10-1996
 10 | Act A946 | 01-10-1996
 11 | Act A80 | 24-09-1971
 15 | Act A295 | 13-05-1975
-15A-15C | Act A295 | 13-05-1975
+15A–15C | Act A295 | 13-05-1975
 15D | Act A295 | 13-05-1975
-Act A946 | 01-10-1996
+ | Act A946 | 01-10-1996
 16 | Act A295 | 13-05-1975
-Act A946 | 01-10-1996
+ | Act A946 | 01-10-1996
 
 [[END OF PAGE 58]]
 
@@ -2095,29 +2137,27 @@ Act A946 | 01-10-1996
 
 030e.fm  Page 59  Monday, March 27, 2006  2:42 PM
 
-59
-
-Universities and University Colleges
+Universities and University Colleges 59
 
 Section | Amending authority | In force from
 --- | --- | ---
 16A | Act A295 | 13-05-1975
-Act A946 | 01-10-1996
+ | Act A946 | 01-10-1996
 16B | Act A295 | 13-05-1975
-Act A946 | 01-10-1996
+ | Act A946 | 01-10-1996
 16C | Act A295 | 13-05-1975
 16D | Act A946 | 01-10-1996
 19 | Act A946 | 01-10-1996
 22 | Act A295 | 13-05-1975
-Act A946 | 01-10-1996
+ | Act A946 | 01-10-1996
 23 | Act A946 | 01-10-1996
 24 | Act A946 | 01-10-1996
-24A-24D | Act A946 | 01-10-1996
+24A–24D | Act A946 | 01-10-1996
 26 | Act A946 | 01-10-1996
 First Schedule | Act A80 | 24-09-1971
-Act A295 | 13-05-1975
-Act A550 | 20-02-1983
-Act A946 | 01-10-1996
+ | Act A295 | 13-05-1975
+ | Act A550 | 20-02-1983
+ | Act A946 | 01-10-1996
 Second Schedule | Act A946 | 01-10-1996
 
 [[END OF PAGE 59]]
