@@ -16,6 +16,30 @@ Draft for Public Comment
 
 ## TABLE OF CONTENTS
 
+MESSAGE FROM THE SECRETARY..............................................................................................................................1
+
+DEPARTMENT'S MISSION STATEMENT .....................................................................................................................4
+
+NATIONAL OUTCOME GOALS....................................................................................................................................5
+
+Most Recent Data for National Outcome Goals...............................................................................................6
+
+LINKING DEPARTMENT PERFORMANCE TO NATIONAL OUTCOMES .......................................................................8
+
+DEPARTMENT PERFORMANCE GOALS FOR 2011-2014 ............................................................................................9
+
+Goal 1: Postsecondary Education, Career-Technical Education, and Adult Education. Increase college access, quality, and completion by improving higher education and lifelong learning opportunities for youth and adults............................................................................................................................................11
+
+Goal 2: Elementary and Secondary. Prepare all elementary and secondary students for college and career by improving the education system's ability to consistently deliver excellent classroom instruction with rigorous academic standards while providing effective support services. ...........................................19
+
+Goal 3: Early Learning. Improve the health, social-emotional, and cognitive outcomes for all children from birth through 3rd grade, so that all children, particularly those with high needs, are on track for graduating from high school college- and career-ready. ..............................................................................31
+
+Goal 4: Equity. Ensure effective educational opportunities for all students regardless of race, ethnicity, national origin, age, sex, disability, language, and socioeconomic status. ...................................................39
+
+Goal 5: Continuous Improvement of the U.S. Education System. Enhance the education system's ability to continuously improve through better and more widespread use of data, research and evaluation, transparency, innovation, and technology....................................................................................................47
+
+Goal 6: U.S. Department of Education Capacity. Improve the organizational capacities of the Department to implement this Strategic Plan. ..................................................................................................................57
+
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
@@ -28,7 +52,7 @@ Strategic Plan, FY 2011-2014
 
 In President Obama's first address to Congress, he challenged America to meet an ambitious goal for education: By 2020, we will once again have the highest proportion of college graduates in the world.  Meeting this goal is vital for securing our long-term economic security, because the country that out-educates us today will out-compete us tomorrow.  We must work to ensure that all children and adults in America receive a world-class education that will prepare them to succeed in college and careers for rich and fulfilling lives in a vibrant and prosperous democracy.
 
-We often refer to the President's goal as the 'North Star' for the work of the U.S. Department of Education as described in this fiscal year (FY) 2011-2014 Strategic Plan.  A generation ago, we ranked first in the world in the rate of college degree attainment for 25- to 34-year-olds; now we rank 16th, and the global achievement gap is growing. 1 Reaching the President's goal will require comprehensive education reforms from cradle to career, beginning with children at birth, supporting them through postsecondary education, and helping them succeed as lifelong learners who can adapt to the constant changes in the diverse and technology-driven workplaces of the global economy.  Our youngest children must be in early learning environments that prepare them for success in kindergarten and beyond.  We must continue to close the achievement gap and ensure that elementary and secondary school students are on track to graduate from high school ready for college and careers.  Once students enroll in a postsecondary education institution-whether at a trade or technical school, community college, a liberal arts college, a state university, or a research university-we must provide support and assistance to help them complete their certificates and degrees, with grants, loans, tax credits, and workstudy assistance.  Doing this will equip them with the knowledge and skills to participate and engage in the nation's future.  Finally, at every level of the education system, we must promote competency in the arts and sciences to promote our competitiveness in a 21st century economy.  Our Strategic Plan sets specific objectives for each of these goals and explains what the Department will do to support youth, adults, families, and education professionals in meeting them.
+We often refer to the President's goal as the 'North Star' for the work of the U.S. Department of Education as described in this fiscal year (FY) 2011-2014 Strategic Plan.  A generation ago, we ranked first in the world in the rate of college degree attainment for 25- to 34-year-olds; now we rank 16th, and the global achievement gap is growing. 1 Reaching the President's goal will require comprehensive education reforms from cradle to career, beginning with children at birth, supporting them through postsecondary education, and helping them succeed as lifelong learners who can adapt to the constant changes in the diverse and technology-driven workplaces of the global economy.  Our youngest children must be in early learning environments that prepare them for success in kindergarten and beyond.  We must continue to close the achievement gap and ensure that elementary and secondary school students are on track to graduate from high school ready for college and careers.  Once students enroll in a postsecondary education institution-whether at a trade or technical school, community college, a liberal arts college, a state university, or a research university-we must provide support and assistance to help them complete their certificates and degrees, with grants, loans, tax credits, and work-study assistance.  Doing this will equip them with the knowledge and skills to participate and engage in the nation's future.  Finally, at every level of the education system, we must promote competency in the arts and sciences to promote our competitiveness in a 21st century economy.  Our Strategic Plan sets specific objectives for each of these goals and explains what the Department will do to support youth, adults, families, and education professionals in meeting them.
 
 We are bringing a new emphasis to the importance of early learning in the Department, recognizing that the path to college completion and a productive career begins at birth.  Our goal is to increase access to improve the health, social-emotional, and cognitive outcomes for all children from birth through 3rd grade, so that all children, particularly those with high needs, are on track for graduating from high school ready for college and careers.  Specifically, through the Race to the Top-Early Learning Challenge (RTT-ELC), we are helping states to build strong early learning systems that provide increased access to high-quality programs for the children who need it most.  We intend to support the development of comprehensive assessment systems that provide teachers, administrators, and families with information on how young children are learning and how early learning programs can be strengthened, especially through family literacy programs.  In addition, we will work with states to ensure that early learning professionals have the necessary knowledge and skills to support young children's health, social-emotional, and educational development.  To support states and communities in their work, the Department is working closely with the U.S. Department of Health and Human Services (HHS) to dramatically improve coordination among early childhood programs and services and to create a stronger focus on health, social-emotional, and cognitive outcomes of children from birth through 3rd grade.
 
@@ -42,9 +66,9 @@ Page 1
 
 [[START OF PAGE 4]]
 
-Strategic Plan, FY 2011-2014
-
 Draft for Public Comment
+
+Strategic Plan, FY 2011-2014
 
 75 percent of high school students earn a diploma with their class. 2 We need to reduce the dropout rate and make sure that our high schools deliver the world-class education that all of our children deserve.  Furthermore, in too many places, a high school diploma does not fully prepare students for success in college.  Every year, four out of 10 students going from high school to college take at least one remedial course, making up for content they should have mastered in high school and spending tuition dollars on courses that will not count toward a postsecondary credential. 3 To help eliminate the need for such remediation and ensure that all high school graduates are ready for college-level work the first day they arrive on campus, we will support state-led efforts to set standards aligned to readiness for college and careers.  We also will promote rigorous and fair accountability for states, districts, and schools based on the collection and use of comprehensive performance data, including student academic growth, that inform educational improvements to drive higher student achievement and improved educational outcomes for all students.  All educators-especially principals and teachers-will need new tools and resources, including time for professional collaboration and development, to create positive learning cultures and climates, engage families and communities, and implement rigorous interventions, especially in our lowest-performing schools, and we will support education stakeholders to ensure the development of these tools.
 
@@ -68,9 +92,9 @@ Page 2
 
 [[START OF PAGE 5]]
 
-Strategic Plan, FY 2011-2014
-
 Draft for Public Comment
+
+Strategic Plan, FY 2011-2014
 
 program (SIG) is using approximately $4 billion to provide the substantial and extended support needed to turn around hundreds of our nation's persistently lowest-achieving schools.
 
@@ -225,59 +249,112 @@ Strategic Plan, FY 2011-2014
 
 Eliminate the achievement gap
 
-> 13 U.S. Department of Education, Institute of Education Sciences, National Center for Education Statistics, NAEP. Note: Data reflect public school students only.
-
-> 14 U.S. Department of Commerce, Census Bureau, 2005-07 and 2006-08 American Community Survey (ACS) 3-year Public Use Microdata Sample data.  Note:  ACS data used to provide greater accuracy for smaller populations.
-
-Differences in Proficiency among Racial/Ethnic Groups (2009 and 2011)
-
-13
-
-4th Grade (
-
-2009 and
-
-2011)
-
-8th Grade (
-
-2009 and
-
-2011)
+Differences in Proficiency among Racial/Ethnic Groups (2009 and 2011) 13
 
 NAEP Reading
 
+4th Grade (2009 and 2011)
+
+| | 2009 | 2011 |
+| --- | --- | --- |
+| Black | 15% | 16% |
+| Hispanic | 16% | 18% |
+| American Indian/Alaska Native | 22% | 19% |
+| Total | 32% | 32% |
+| White | 41% | 42% |
+| Asian/Pacific Islander | 48% | 49% |
+
+8th Grade (2009 and 2011)
+
+| | 2009 | 2011 |
+| --- | --- | --- |
+| Black | 13% | 14% |
+| Hispanic | 16% | 18% |
+| American Indian/Alaska Native | 21% | 22% |
+| Total | 30% | 32% |
+| White | 39% | 41% |
+| Asian/Pacific Islander | 44% | 46% |
+
 NAEP Mathematics
 
-NAEP Proficiency rates for English
+4th Grade (2009 and 2011)
 
-Learners and all non-English Learners
+| | 2009 | 2011 |
+| --- | --- | --- |
+| Black | 15% | 17% |
+| Hispanic | 21% | 24% |
+| American Indian/Alaska Native | 23% | 24% |
+| Total | 38% | 40% |
+| White | 50% | 52% |
+| Asian/Pacific Islander | 61% | 62% |
 
-(
+8th Grade (2009 and 2011)
 
-2009 and
+| | 2009 | 2011 |
+| --- | --- | --- |
+| Black | 12% | 13% |
+| Hispanic | 17% | 20% |
+| American Indian/Alaska Native | 20% | 17% |
+| Total | 33% | 34% |
+| White | 43% | 43% |
+| Asian/Pacific Islander | 53% | 55% |
 
-2011)
+NAEP Proficiency rates for English Learners and all non-English Learners (2009 and 2011)
 
-NAEP Proficiency rates for Students with Disabilities
+Reading
 
-and all Students without Disabilities
+| | 2009 | 2011 |
+| --- | --- | --- |
+| 4th Grade, EL | 6% | 6% |
+| 4th Grade, Not EL | 34% | 35% |
+| 8th Grade, EL | 3% | 3% |
+| 8th Grade, Not EL | 32% | 34% |
 
-(
+Mathematics
 
-2009 and
+| | 2009 | 2011 |
+| --- | --- | --- |
+| 4th Grade, EL | 12% | 14% |
+| 4th Grade, Not EL | 41% | 43% |
+| 8th Grade, EL | 5% | 5% |
+| 8th Grade, Not EL | 35% | 36% |
 
-2011)
+NAEP Proficiency rates for Students with Disabilities and all Students without Disabilities (2009 and 2011)
 
-College Attainment Rates
+Reading
 
-(
+| | 2009 | 2011 |
+| --- | --- | --- |
+| 4th Grade, SWD | 12% | 11% |
+| 4th Grade, Not SWD | 34% | 35% |
+| 8th Grade, SWD | 8% | 7% |
+| 8th Grade, Not SWD | 33% | 34% |
 
-2005-07 and
+Mathematics
 
-2007-09)
+| | 2009 | 2011 |
+| --- | --- | --- |
+| 4th Grade, SWD | 19% | 17% |
+| 4th Grade, Not SWD | 41% | 43% |
+| 8th Grade, SWD | 9% | 9% |
+| 8th Grade, Not SWD | 35% | 36% |
 
-14
+College Attainment Rates (2005-07 and 2007-09) 14
+
+| | 2005-07 | 2007-09 |
+| --- | --- | --- |
+| Hispanic | 17% | 18% |
+| American Indian/Alaska Native | 20% | 20% |
+| Black | 26% | 27% |
+| Native Hawaiian/Pacific Islander | 25% | 24% |
+| Two or more races | 36% | 38% |
+| U.S. Total | 37% | 39% |
+| White | 44% | 46% |
+| Asian | 69% | 69% |
+
+> 13 U.S. Department of Education, Institute of Education Sciences, National Center for Education Statistics, NAEP. Note: Data reflect public school students only.
+
+> 14 U.S. Department of Commerce, Census Bureau, 2005-07 and 2006-08 American Community Survey (ACS) 3-year Public Use Microdata Sample data.  Note:  ACS data used to provide greater accuracy for smaller populations.
 
 Page 7
 
@@ -301,17 +378,17 @@ The National Outcome Goals are the improvements in student achievement needed at
 
 To meet the National Outcome Goals, the country needs to modernize education delivery.  The six Department Performance Goals will guide the day-to-day work of the Department's staff.
 
-- Postsecondary Education, Career-Technical Education, and Adult Education. Increase college access, quality, and completion by improving higher education and lifelong learning opportunities for youth and adults.
+1. Postsecondary Education, Career-Technical Education, and Adult Education. Increase college access, quality, and completion by improving higher education and lifelong learning opportunities for youth and adults.
 
-- Elementary and Secondary. Prepare all elementary and secondary students for college and career by improving the education system's ability to consistently deliver excellent classroom instruction with rigorous academic standards while providing effective support services.
+2. Elementary and Secondary. Prepare all elementary and secondary students for college and career by improving the education system's ability to consistently deliver excellent classroom instruction with rigorous academic standards while providing effective support services.
 
-- Early Learning. Improve the health, social-emotional, and cognitive outcomes for all children from birth through 3rd grade, so that all children, particularly those with high needs, are on track for graduating from high school college- and career-ready.
+3. Early Learning. Improve the health, social-emotional, and cognitive outcomes for all children from birth through 3rd grade, so that all children, particularly those with high needs, are on track for graduating from high school college- and career-ready.
 
-- Equity. Ensure effective educational opportunities for all students regardless of race, ethnicity, national origin, age, sex, disability, language, and socioeconomic status.
+4. Equity. Ensure effective educational opportunities for all students regardless of race, ethnicity, national origin, age, sex, disability, language, and socioeconomic status.
 
-- Continuous Improvement of the U.S. Education System. Enhance the education system's ability to continuously improve through better and more widespread use of data, research and evaluation, transparency, innovation, and technology.
+5. Continuous Improvement of the U.S. Education System. Enhance the education system's ability to continuously improve through better and more widespread use of data, research and evaluation, transparency, innovation, and technology.
 
-- U.S. Department of Education Capacity. Improve the organizational capacities of the Department to implement this Strategic Plan.
+6. U.S. Department of Education Capacity. Improve the organizational capacities of the Department to implement this Strategic Plan.
 
 Page 8
 
@@ -327,7 +404,7 @@ Strategic Plan, FY 2011-2014
 
 As mentioned in the previous section, this Plan links the Department's day-to-day work to the Department's goals and to the National Outcomes necessary for achieving the President's 2020 college attainment goal.  The day-to-day work is organized into six goals related to the organization of the Department.  Priorities are not intended to signify their relative importance; success on each will be necessary to ensure that the Department is maximizing its impact on the education system.
 
-This Strategic Plan will help to align the Administration's yearly budget requests and the Department's legislative agenda.  For example, the Administration will leverage the opportunity to participate in the reauthorization of the Workforce Investment Act (WIA) to ensure that adult students and individuals with disabilities are collegeand career-ready, and have the knowledge and skills necessary to pursue a successful career pathway. Continuous improvement rests in large part on an ongoing cycle of assessing performance, examining data, modifying instruction, and improving practices.  Creating a culture of continuous improvement is at the heart of our efforts to work with and support elementary, secondary, and postsecondary educators and policy makers at the Federal, state, and local levels.
+This Strategic Plan will help to align the Administration's yearly budget requests and the Department's legislative agenda.  For example, the Administration will leverage the opportunity to participate in the reauthorization of the Workforce Investment Act (WIA) to ensure that adult students and individuals with disabilities are college- and career-ready, and have the knowledge and skills necessary to pursue a successful career pathway. Continuous improvement rests in large part on an ongoing cycle of assessing performance, examining data, modifying instruction, and improving practices.  Creating a culture of continuous improvement is at the heart of our efforts to work with and support elementary, secondary, and postsecondary educators and policy makers at the Federal, state, and local levels.
 
 Accomplishing all of this Plan's priorities will require tireless efforts from Department staff working with Congress and the White House, partners at the state and local levels, and all other stakeholders.  This includes meeting numerous legislative challenges, such as the reauthorization of the Elementary and Secondary Education Act (ESEA), WIA, the Carl D. Perkins Career & Technical Education Act (CTEA), the Higher Education Act (HEA), and others.  Additionally, state and Federal fiscal constraints may impact the Department's ability to provide the necessary incentives and resources to increase quality, transparency, and accountability.
 
@@ -417,7 +494,7 @@ Prior to entering postsecondary education, prospective students need easily acce
 
 Providing Federal student aid in a simple, reliable, and efficient manner is the main way that the Department supports college access and completion.  In FY 2011, the Department expects to deliver nearly $175 billion in grants, work-study, and loan assistance to almost 15 million postsecondary students 16 and their families.  These students attend approximately 6,300 institutions of postsecondary education accredited by dozens of agencies. 17 In addition, the Department administers $2 billion annually in grants to strengthen postsecondary institutions and promote college readiness, and an additional $2 billion in grant funds for CTE, adult education and literacy, and correctional education to help adults build skills and prepare adults for work, citizenship, and lifelong learning.
 
-The Department has already taken significant steps to increase college access, quality, and completion.  Through HCERA, Congress ended student loan subsidies to banks, saving billions of dollars that are now used for financial aid through the Pell Grant Program and by reducing borrowers' repayments.  In two years, enrollment of Pell Grant recipients in postsecondary education increased more than 50 percent, from 6 million to 9.6 million students. 18 The law also appropriates $2.6 billion over the next 10 years for grants to Historically Black Colleges and Universities and Minority-Serving Institutions, and provides $750 million over the next five years to states, institutions, and organizations that are creating partnerships to ease the pathway to college for our disadvantaged populations while increasing the quality of a postsecondary education and supporting workforce readiness for success in careers.  In addition, the Department has simplified the application for Federal student aid so it is easier and faster for students to apply for aid.
+The Department has already taken significant steps to increase college access, quality, and completion.  Through HCERA, Congress ended student loan subsidies to banks, saving billions of dollars that are now used for financial aid through the Pell Grant Program and by reducing borrowers' repayments.  In two years, enrollment of Pell Grant recipients in postsecondary education increased more than 50 percent, from 6 million to 9.6 million
 
 > 15 U.S. Department of Education, NCES, 2003-04 and 2008-09 IPEDS.
 
@@ -434,6 +511,8 @@ Page 11
 Draft for Public Comment
 
 Strategic Plan, FY 2011-2014
+
+students. 18 The law also appropriates $2.6 billion over the next 10 years for grants to Historically Black Colleges and Universities and Minority-Serving Institutions, and provides $750 million over the next five years to states, institutions, and organizations that are creating partnerships to ease the pathway to college for our disadvantaged populations while increasing the quality of a postsecondary education and supporting workforce readiness for success in careers.  In addition, the Department has simplified the application for Federal student aid so it is easier and faster for students to apply for aid.
 
 Building on these accomplishments, the Department will continue to collaborate with stakeholders and provide leadership to accomplish four key sub-goals:
 
@@ -471,7 +550,7 @@ Strategic Plan, FY 2011-2014
 
 #### SUB-GOAL 1.1:  ACCESS. CLOSE THE OPPORTUNITY GAP BY IMPROVING THE AFFORDABILITY OF AND ACCESS TO COLLEGE AND WORKFORCE TRAINING, ESPECIALLY FOR LOW-INCOME STUDENTS, FIRST-GENERATION COLLEGE STUDENTS, INDIVIDUALS WITH DISABILITIES, AND OTHER CHRONICALLY UNDERREPRESENTED POPULATIONS.
 
-Postsecondary education access-and success-can only be achieved if students complete high school or its equivalent and if postsecondary education and training are relevant and affordable.  Many of the nation's students are currently ill prepared for the academic rigor required for success at a postsecondary institution. Others lack the financial resources to pay for school.  Although the Department expects to deliver nearly $175 billion in student financial aid in FY 2011, affordability remains a problem.  During the past 10 years, published college prices rose more rapidly than the cost of other goods and services. 19 Well over three-quarters of undergraduates from low-income families have unmet financial need for attending public two-year or fouryear colleges and universities. 20
+Postsecondary education access-and success-can only be achieved if students complete high school or its equivalent and if postsecondary education and training are relevant and affordable.  Many of the nation's students are currently ill prepared for the academic rigor required for success at a postsecondary institution. Others lack the financial resources to pay for school.  Although the Department expects to deliver nearly $175 billion in student financial aid in FY 2011, affordability remains a problem.  During the past 10 years, published college prices rose more rapidly than the cost of other goods and services. 19 Well over three-quarters of undergraduates from low-income families have unmet financial need for attending public two-year or four-year colleges and universities. 20
 
 The Department will take a number of steps to support efforts that complement its work in strengthening student financial aid.  The Department will work with all stakeholders throughout the education and career pipelines to improve the academic readiness of students for postsecondary education and employment, support the adoption of internationally benchmarked college- and career-ready standards so that high school students graduate with the competencies necessary for postsecondary education, and ensure that information on obtaining financial aid and making sound choices is easily available to students.
 
@@ -749,13 +828,13 @@ World-class standards are essential for meaningful education reform.  Clear, hig
 
 Since the 1990s, Federal legislation has required states to develop their own standards as well as student assessments that are aligned with these standards.  Today, every state has in place a set of elementary and secondary education standards for core subjects as well as an assessment system that measures student progress toward math and reading/language arts standards in grades 3-8 and once in high school.  However, existing Federal accountability requirements, including a requirement to reach 100 percent proficiency by 2014, effectively create perverse incentives for states to lower rather than raise their academic standards.  The result is that few states have standards that are sufficiently challenging to prepare students for the demands of college and today's workforce.  Students, families, and teachers do not have the information they need to determine whether a student is on track to being college- and career-ready by the time he or she graduates from high school, and four of every 10 new college students take remedial courses. 27
 
-States have recognized the need to improve the rigor and quality of their standards and assessments.  Beginning in 2009, 44 states, the District of Columbia, and the U.S. Virgin Islands partnered in a state-led effort to develop common college- and career-ready internationally benchmarked standards in English language arts and mathematics.  With such standards in place, educators can create the curricular frameworks, curriculum materials, professional development materials, and other supports that they need to effectively implement a coherent system of teaching and learning that meets the needs of all students and that truly prepares our nation's young people to be college- and career- ready.  The standards must be coupled with high-quality formative, interim, and summative assessments that can measure the extent to which students are mastering these standards and provide students, families, and teachers with timely, relevant, and actionable information on student knowledge and skills, including growth in knowledge and skills over time in order to improve teaching and learning.
+States have recognized the need to improve the rigor and quality of their standards and assessments.  Beginning in 2009, 44 states, the District of Columbia, and the U.S. Virgin Islands partnered in a state-led effort to develop common college- and career-ready internationally benchmarked standards in English language arts and mathematics.  With such standards in place, educators can create the curricular frameworks, curriculum materials, professional development materials, and other supports that they need to effectively implement a coherent system of teaching and learning that meets the needs of all students and that truly prepares our nation's young people to be college- and career-ready.  The standards must be coupled with high-quality formative, interim, and summative assessments that can measure the extent to which students are mastering these standards and provide students, families, and teachers with timely, relevant, and actionable information on student knowledge and skills, including growth in knowledge and skills over time in order to improve teaching and learning.
 
 ##### How will we get there? (Actions/Means)
 
 The Department will:
 
-- Require all states to demonstrate that their standards lead to college- and career-readiness and encourage state-led efforts to develop and adopt internationally benchmarked college- and careerready standards;
+- Require all states to demonstrate that their standards lead to college- and career-readiness and encourage state-led efforts to develop and adopt internationally benchmarked college- and career-ready standards;
 
 - Support states in the development and implementation of high-quality assessment systems aligned to college- and career-ready standards;
 
@@ -1009,7 +1088,7 @@ The Department will:
 
 - Fund and support coherent models of instructional supports for STEM and encourage third parties, including other Federal agencies, to develop robust, content-rich professional development offerings for teachers and schools;
 
-- Support state consortia in developing high-quality science assessments aligned with college- and careerready standards;
+- Support state consortia in developing high-quality science assessments aligned with college- and career-ready standards;
 
 - Fund efforts to increase the capacity of district- and state-level leaders to design and implement strong STEM networks to lead STEM education reforms; and
 
@@ -1057,7 +1136,7 @@ To enhance the quality of these programs and services and improve outcomes for c
 
 > 35 For the purpose of this document, 'high need' is defined as 'children and students at risk of educational failure, and [specifically referring] to English Learners and children and students with disabilities as examples of high-need children' (U.S. Department of Education, Supplemental Priorities for Discretionary Grant Programs, 2011.)
 
-> 36 U.S. Department of Education, NCES, 'School Readiness Survey of the National Household Education Survey (NHES), 2007.
+> 36 U.S. Department of Education, NCES, 'School Readiness Survey of the National Household Education Survey (NHES),' 2007.
 
 > 37 Frede, E., Jung, K., Barnett, W.S., & Figueras, A. (2009).  The APPLES Blossom:  Abbott Preschool Program Longitudinal Effects Study (APPLES), Preliminary Results through 2nd Grade, Interim Report.  New Brunswick, NJ: National Institute for Early Education Research.
 
@@ -1289,7 +1368,7 @@ All students-regardless of circumstance-deserve a world-class education.  To ens
 
 Moreover, too many students feel unsafe or unwelcome at school because they are (or are perceived as) different from or inferior to other students.   All students should have an equal opportunity to learn and excel in a safe and supportive environment.  Because inequities at all levels of education still exist, educational equity is the civil rights issue of our generation.
 
-The Department is working to provide a greater focus on equity throughout its comprehensive reform initiatives, incorporating the concept of shared responsibility and accountability to meet the needs of students, families, and educators.  Equity is addressed in priorities that include awarding competitive grants; reauthorizing statutes designed to increase equity, including ESEA; improving the affordability of postsecondary education; ensuring a safe learning environment where students are free from bullying and harassment; ensuring the equitable distribution of effective teachers and resources in low-performing, high-poverty, and high-minority schools; increasing traditionally underrepresented students' access to college- and career-ready curricula such as STEM classes, advanced placement, and other high-level courses;  and increasing access to high-quality early learning programs for high-needs children.
+The Department is working to provide a greater focus on equity throughout its comprehensive reform initiatives, incorporating the concept of shared responsibility and accountability to meet the needs of students, families, and educators.  Equity is addressed in priorities that include awarding competitive grants; reauthorizing statutes designed to increase equity, including ESEA; improving the affordability of postsecondary education; ensuring a
 
 > 45 U.S. Department of Education, NCES, 'School Readiness Survey of the National Household Education Survey (NHES),' 2007.
 
@@ -1317,7 +1396,9 @@ Draft for Public Comment
 
 Strategic Plan, FY 2011-2014
 
-In addition, the Department has committed to making effective use of its Office for Civil Rights (OCR) by reinvigorating its law enforcement responsibilities, including complaint investigation and resolution, proactive compliance reviews and technical assistance activities, and policy guidance.  OCR's activities support progress on the Department's work to ensure that the nation's struggling schools are transformed, and that all students are free from bullying or harassment and have equitable access to great teachers and leaders, resources, collegeand career-ready coursework, and the true promise of a high-quality education.
+safe learning environment where students are free from bullying and harassment; ensuring the equitable distribution of effective teachers and resources in low-performing, high-poverty, and high-minority schools; increasing traditionally underrepresented students' access to college- and career-ready curricula such as STEM classes, advanced placement, and other high-level courses; and increasing access to high-quality early learning programs for high-needs children.
+
+In addition, the Department has committed to making effective use of its Office for Civil Rights (OCR) by reinvigorating its law enforcement responsibilities, including complaint investigation and resolution, proactive compliance reviews and technical assistance activities, and policy guidance.  OCR's activities support progress on the Department's work to ensure that the nation's struggling schools are transformed, and that all students are free from bullying or harassment and have equitable access to great teachers and leaders, resources, college- and career-ready coursework, and the true promise of a high-quality education.
 
 The Department will continue its equity-focused initiatives as follows:
 
@@ -1336,7 +1417,7 @@ Increase in the combined annual number of significant proactive and outreach act
 Establish Departmental priorities to address equity-related issues in the Department's grants and awards | Continuous Improvement of the U.S. Education System
 Increase in the availability of data related to student access to resources and opportunities to succeed, such as disaggregated student access to college- and career-ready math and science courses; disparate discipline rates, school-based arrests, and referrals to law enforcement; and school-level expenditures | U.S. Department of Education Capacity
 Increase in the percentage of state report cards that include student achievement, school climate, college enrollment, and teacher and school leader measures. | Continuous Improvement of the U.S. Education System
-Increase in the percentage of individuals completing and filing the FAFSA who come from low-income households and/or non- traditional students | Postsecondary Education, Career-Technical Education, and Adult Education
+Increase in the percentage of individuals completing and filing the FAFSA who come from low-income households and/or non-traditional students | Postsecondary Education, Career-Technical Education, and Adult Education
 
 Page 40
 
@@ -1380,9 +1461,9 @@ The Department's work can make significant advancement in closing opportunity an
 
 Leveraging its most powerful assets for addressing the serious disparities that undermine equal access to a quality education, the Department will work with Congress to ensure that new or updated legislation furthers educational equity and will seek to enhance its ability to set priorities for Federal Departmental funding.
 
-The Department's strategy for reauthorizing the Elementary and Secondary Education Act (ESEA) is to strengthen an important part of the cradle-to-career pipeline that aims to bring significantly more, betterprepared students to the doors of higher education, ready to excel.  It seeks to promote a culture of college readiness and success by ensuring that students experience a challenging high school curriculum drawn from high academic standards and increased access to college-level, dual credit, and other accelerated courses in high-need schools.
+The Department's strategy for reauthorizing the Elementary and Secondary Education Act (ESEA) is to strengthen an important part of the cradle-to-career pipeline that aims to bring significantly more, better-prepared students to the doors of higher education, ready to excel.  It seeks to promote a culture of college readiness and success by ensuring that students experience a challenging high school curriculum drawn from high academic standards and increased access to college-level, dual credit, and other accelerated courses in high-need schools.
 
-At the postsecondary level, the Health Care and Education Reconciliation Act of 2010 provided for, and offset the cost of, increases in the amount of the maximum Pell Grant award to account for the costs of inflation over the next decade.  It also provides funding to support Historically Black Colleges and Universities, HispanicServing Institutions, Tribal Colleges and Universities, and other Minority-Serving Institutions.
+At the postsecondary level, the Health Care and Education Reconciliation Act of 2010 provided for, and offset the cost of, increases in the amount of the maximum Pell Grant award to account for the costs of inflation over the next decade.  It also provides funding to support Historically Black Colleges and Universities, Hispanic-Serving Institutions, Tribal Colleges and Universities, and other Minority-Serving Institutions.
 
 Equity is also infused in the priorities for funding the Department's discretionary grants, including:
 
