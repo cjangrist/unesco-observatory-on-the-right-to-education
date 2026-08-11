@@ -8,11 +8,11 @@ StF:  BGBl. Nr. 678/1994 (NR:  GP XVIII  RV  1386  AB  1514  S.  157.  BR:  AB 4
 
 in diesem Abkommen bedeutet:
 
-- der Ausdruck 'Hochschule' alle Institutionen, denen von der Republik Österreich beziehungsweise von der Schweizerischen Eidgenossenschaft Hochschulcharakter zuerkannt werden kann;
+- der Ausdruck „Hochschule“ alle Institutionen, denen von der Republik Österreich beziehungsweise von der Schweizerischen Eidgenossenschaft Hochschulcharakter zuerkannt werden kann;
 
-- der  Ausdruck  'akademischer  Grad'  jeden  Diplomgrad  oder  sonstigen  Hochschulgrad, der von einer Hochschule als Abschluß eines ordentlichen Studiums verliehen wird;
+- der  Ausdruck  „akademischer Grad“  jeden  Diplomgrad  oder  sonstigen  Hochschulgrad, der von einer Hochschule als Abschluß eines ordentlichen Studiums verliehen wird;
 
-- die Bezeichnung 'Prüfung' beziehungsweise 'Staatsprüfung' sowohl Abschlußprüfungen eines Studiums wie auch Zwischenprüfungen oder andere Formen von Teilprüfungen innerhalb eines ordentlichen Studiums.
+- die Bezeichnung „Prüfung“ beziehungsweise „Staatsprüfung“ sowohl Abschlußprüfungen eines Studiums wie auch Zwischenprüfungen oder andere Formen von Teilprüfungen innerhalb eines ordentlichen Studiums.
 
 ## Artikel 2
 
@@ -36,11 +36,11 @@ Click here for checking the up-to-date list of amendments in the Austrian Legal 
 
 For  the  purpose  of  this  agreement,  the  following  terms  shall  have  the  following meaning:
 
-- the  term  'higher  education  institution"  all  kinds  of  institutions  which  can  be conferred higher education character by the Republic of Austria or the Swiss Federation, respectively;
+- the  term  „higher  education  institution"  all  kinds  of  institutions  which  can  be conferred higher education character by the Republic of Austria or the Swiss Federation, respectively;
 
-- the term 'academic degree" every diploma degree or other title in higher education, which is issued by a higher education institution attesting the successful completion of a degree programme;
+- the term „academic degree" every diploma degree or other title in higher education, which is issued by a higher education institution attesting the successful completion of a degree programme;
 
-- the term 'examination" or 'state examination", respectively, final examinations of  a  study  programme  a  well  as  intermediate  examinations  or  other  kinds  of partial examinations within a degree programme.
+- the term „examination" or „state examination", respectively, final examinations of  a  study  programme  a  well  as  intermediate  examinations  or  other  kinds  of partial examinations within a degree programme.
 
 ## Article 2
 
@@ -142,7 +142,13 @@ Zl. 196.11.03/12-V.I/93
 
 Das Bundesministerium für auswärtige Angelegenheiten beehrt sich, den Erhalt der Note der Schweizerischen Botschaft Zl. 663.0 U'ch vom 10. November 1993 zu bestätigen, die wie folgt lautet:
 
-'Die  Schweizerische  Botschaft  entbietet  dem  Bundesministerium  für  auswärtige Angelegenheiten  ihre  Empfehlungen  und  beehrt  sich,  zu  dem  heute  unterzeichneten Abkommen über die gegenseitige Anerkennung von Gleichwertigkeiten im Hochschulbereich zwischen der Schweizerischen Eidgenossenschaft und der Republik Österreich folgendes festzuhalten:
+„Die  Schweizerische  Botschaft  entbietet  dem  Bundesministerium  für  auswärtige Angelegenheiten  ihre  Empfehlungen  und  beehrt  sich,  zu  dem  heute  unterzeichneten Abkommen über die gegenseitige Anerkennung von Gleichwertigkeiten im Hochschulbereich zwischen der Schweizerischen Eidgenossenschaft und der Republik Österreich folgendes festzuhalten:
+
+- Die Zuständigkeit der Hochschulen der Vertragsstaaten für konkrete Entscheidungen in Anrechnungs-, Anerkennungs- und Zulassungsangelegenheiten wird durch dieses Abkommen nicht berührt. Die Hochschulen üben ihre Zuständigkeit in diesen Angelegenheiten nach Maßgabe der Bestimmungen dieses Abkommens aus.
+
+- Zum Zeitpunkt der Errichtung von Fachhochschulen in den beiden Vertragsstaaten werden sich die Vertragsparteien über die Modalitäten von deren Unterstellung unter das Abkommen verständigen.
+
+Die Schweizerische Botschaft benützt auch diesen Anlaß, um dem Bundesministerium für auswärtige Angelegenheiten den Ausdruck ihrer ausgezeichneten Hochachtung zu erneuern.“
 
 Das Bundesministerium für auswärtige Angelegenheiten ist mit dem Inhalt dieser Note einverstanden und benützt diese Gelegenheit, der Schweizerischen Botschaft den Ausdruck seiner ausgezeichneten Hochachtung zu erneuern.
 
@@ -163,13 +169,19 @@ The Swiss Embassy takes also this opportunity to renew the assurance of its high
 Vienna, 10 November 1993 TO THE FEDERAL MINISTRY OF FOREIGN AFFAIRS VIENNA
 # FEDERAL MINISTRY OF FOREIGN AFFAIRS
 
-Zl. 196.11.03/12-V.1/93
+Zl. 196.11.03/12-V.I/93
 
 ## Note Verbale
 
 The Federal Ministry of Foreign Affairs has the honour to confirm the receipt of the  note  of  the  Swiss  Embassy  no.  663.0  U'ch  of  10 November 1993,  which  reads  as follows:
 
-'The Swiss Embassy presents its compliments to the Federal Ministry of Foreign Affairs and has the honour on the occasion of the Agreement between the Republic of Austria and the Swiss Federation on the Mutual Recognition of Equivalences in Higher Education, which has been signed today, to make the following statement:
+„The Swiss Embassy presents its compliments to the Federal Ministry of Foreign Affairs and has the honour on the occasion of the Agreement between the Republic of Austria and the Swiss Federation on the Mutual Recognition of Equivalences in Higher Education, which has been signed today, to make the following statement:
+
+- The provisions of the present agreement shall be without prejudice to the competences of the higher education institutions of the Contracting States to take concrete decisions in matters of recognition and admission. The higher education institutions execute their competences in these matters in accordance with the provisions of the present agreement.
+
+- From the time of having established Fachhochschule programmes in both Contracting States the latter shall communicate on the modalities of extending the application of the present agreement to the Fachhochschule programmes.
+
+The Swiss Embassy takes also this opportunity to renew the assurance of its highest consideration to the Federal Ministry of Foreign Affairs.“
 
 The Federal Ministry of Foreign Affairs agrees upon the contents of this note and takes this opportunity to renew the assurance of its highest consideration to the Swiss Embassy.
 
