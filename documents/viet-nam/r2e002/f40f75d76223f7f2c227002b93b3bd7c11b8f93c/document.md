@@ -4,7 +4,7 @@ THE MINISTRY OF EDUCATION AND TRAINING - THE MINISTRY OF LABOR, WAR INVALIDS AND
 
 -------
 
-No. 42/2013/TTLT-BGDĐT-BLĐTBXHBTC
+No. 42/2013/TTLT-BGDĐT-BLĐTBXH-BTC
 
 SOCIALIST REPUBLIC OF VIETNAM
 
@@ -110,11 +110,13 @@ Disabled people benefiting different policies on grants for school supplies or e
 
 - Public educational institutions having students who are disabled people shall be granted funding for learning materials and school supplies for disabled people ensure that it is kept to the minimum.
 
-Every year, when the annual budget estimates are made, according to quantity of disabled people studying and their types of impairment, the educational institution shall prepare a plan for purchase (of special shared learning materials and school supplies) and a detailed budget estimates, then send them to superior agency for approval, the superior agency shall synthesize and send them to the financial authority for consideration and approval. According to approved budget estimates and actual condition of the educational institution, the headmaster of the educational institution shall purchase materials and supplies as prescribed.
+Every year, when the annual budget estimates are made, according to quantity of disabled people studying and their types of impairment, the educational institution shall prepare a plan for purchase (of special shared learning
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+materials and school supplies) and a detailed budget estimates, then send them to superior agency for approval, the superior agency shall synthesize and send them to the financial authority for consideration and approval. According to approved budget estimates and actual condition of the educational institution, the headmaster of the educational institution shall purchase materials and supplies as prescribed.
 
 ### Article 8. Dossiers, procedures and methods of payment of scholarships and grants for equipment and school supplies provided for disabled people (hereinafter referred to as disabled equipment and supplies grants) prescribed in Clause 1 and Clause 2 Article 7 of this Joint Circular
 
@@ -224,7 +226,7 @@ The funding for scholarships and disabled equipment and supplies grants shall be
 
 - Every year, Ministries, agencies, central authorities, People's Committees of central-affiliated cities and provinces shall synthesize and send reports on implementation of policies on scholarships and disabled equipment and supplies grants to the Ministry of Education and Training and the Ministry of Finance at the end date of the school year.
 
-### Article. Effect
+### Article 12. Effect
 
 - This Joint Circular comes into force from March 5, 2014.
 
