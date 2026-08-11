@@ -4,7 +4,7 @@
 
 # REPORT BY LATVIA
 
-ON THE APPLICATION OF THE 1974 RECOMMENDATION CONCERNING EDUCATION FOR INTERNATIONAL UNDERSTANDING, CO-OPERATION AND PEACE AND EDUCATION RELATING TO HUMAN RIGHTS AND FUNDAMENTAL FREEDOMSIV.
+ON THE APPLICATION OF THE 1974 RECOMMENDATION CONCERNING EDUCATION FOR INTERNATIONAL UNDERSTANDING, CO-OPERATION AND PEACE AND EDUCATION RELATING TO HUMAN RIGHTS AND FUNDAMENTAL FREEDOMS
 
 ## IV. Information about the respondent
 
@@ -70,7 +70,7 @@ Higher education institutions
 
 Article  112  of  the Constitution  of  the  Republic  of  Latvia states  that  anyone  is  entitled  to education. The State shall ensure that anyone may acquire primary and secondary education without charge.
 
-Pursuant to Article 3. 1 of the Education Law , a prohibition of differential treatment is stipulated, thus guaranteeing the persons referred to in Section 3 of the Education Law the right to acquire education regardless of the material and social status, race, nationality, ethnic origin, gender, religious  and  political  affiliation,  state  of  health,  occupation  and  place  of  residence.  Article  10 'Education and Religion' states that the education system shall ensure freedom of conscience. Students shall have the option to acquire Christian religious instruction or ethics, or Christian religious instruction and ethics concurrently.
+Pursuant to Article 3.¹ of the Education Law, a prohibition of differential treatment is stipulated, thus guaranteeing the persons referred to in Section 3 of the Education Law the right to acquire education regardless of the material and social status, race, nationality, ethnic origin, gender, religious and political affiliation, state of health, occupation and place of residence. Article 10 “Education and Religion” states that the education system shall ensure freedom of conscience. Students shall have the option to acquire Christian religious instruction or ethics, or Christian religious instruction and ethics concurrently.
 
 Article  42  of  the Environmental  Protection  Law states  that  the  matters  in  respect  of environmental education and education for sustainable development shall be included in the mandatory curricula of the subject or course standard in accordance with the specific character of  each  subject  by  coordinating  and  ensuring  succession  on  different  education  levels.  The environmental protection course shall be included in the mandatory part of all study programmes of  authorities of higher education and colleges. A course regarding sustainable development shall be included in all higher educations' and colleges' initial study programmes for pedagogues.
 
@@ -110,29 +110,29 @@ In addition, each Party have specific duties in regards to the Agreement.
 
 #### A1b. Please provide the full names of any laws, legislation or legal frameworks referred to in A1a and, where possible, web links to relevant documents.
 
-The Constitution of the Republic of Latvia ( Satversme ) - https://likumi.lv/ta/en/en/id/57980the-constitution-of-the-republic-of-latvia
+The Constitution of the Republic of Latvia (Satversme) - https://likumi.lv/ta/en/en/id/57980-the-constitution-of-the-republic-of-latvia
 
 The Education Law - https://likumi.lv/ta/en/en/id/50759-education-law
 
-The Environmental Protection Law -https://likumi.lv/ta/en/en/id/147917-environmentalprotection-law
+The Environmental Protection Law - https://likumi.lv/ta/en/en/id/147917-environmental-protection-law
 
 Cooperation agreement between the Ministry of Education and Science, the Ministry of Environmental Protection and Regional Development and the Latvian National Commission for UNESCO - not available online.
 
 #### *A2 Please indicate which GCED and ESD themes are covered in national or sub-national laws, legislation or legal frameworks on education by entering the appropriate number in each white cell.
 
+KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
+
 National | Sub-national*
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Pre- primary | Primary/ secondary | Tertiary | Non- formal** | Pre- primary | Primary/ secondary | Tertiary | Non- formal
+Pre-primary | Primary/secondary | Tertiary | Non-formal** | Pre-primary | Primary/secondary | Tertiary | Non-formal
 1. | Cultural diversity and tolerance | 1 | 1 | 1 | 99 | 99 | 99 | 99 | 99
 2. | Gender equality | 1 | 1 | 1 | 99 | 99 | 99 | 99 | 99
 3. | Human rights | 1 | 1 | 1 | 99 | 99 | 99 | 99 | 99
-4. | Peace and non- violence | 1 | 1 | 1 | 99 | 99 | 99 | 99 | 99
+4. | Peace and non-violence | 1 | 1 | 1 | 99 | 99 | 99 | 99 | 99
 5. | Climate change | 1 | 1 | 1 | 99 | 99 | 99 | 99 | 99
 6. | Environmental sustainability | 1 | 1 | 1 | 99 | 99 | 99 | 99 | 99
 7. | Human survival and well-being | 1 | 1 | 1 | 99 | 99 | 99 | 99 | 99
 8. | Sustainable consumption and production | 1 | 1 | 1 | 99 | 99 | 99 | 99 | 99
-
-KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
 
 * In Latvia, legislation regulates the education content at the national level.
 
@@ -146,9 +146,7 @@ KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given lev
 
 stakeholders.  Informal  learning  is  an  education  process  which  includes  acquisition  of  new knowledge,  skills,  competences,  attitudes,  and  values  from  daily  experience  and  work experience enriching and enhancing the personality and, perhaps, work skills; however, unlike non-formal  education,  informal  learning  is  not  included  within  the  programme  or  training course, it takes place in society including one's family, as well as at work (for example, when finding out new information from TV broadcasts, visiting libraries, museums, and exhibitions, adopting the parental or friends' experience). The state does not regulate informal learning. However, GCED and ESD are an integral part of many events.
 
-#### A3a  Please  describe  any  specific  current  national  or  sub-national  education  policies, frameworks  or  strategic  objectives  in  your  country  that  promote  global  citizenship education  (GCED)  and/or  education  for  sustainable  development  (ESD).  Explain whether GCED and/or ESD themes 2  are mentioned explicitly or are inferred and what types or levels of education are covered.
-
-> 2 See the schema described in paragraph 11 of Section II of these guidelines.
+#### A3a Please describe any specific current national or sub-national education policies, frameworks or strategic objectives in your country that promote global citizenship education (GCED) and/or education for sustainable development (ESD). Explain whether GCED and/or ESD themes 2 are mentioned explicitly or are inferred and what types or levels of education are covered.
 
 The Sustainable Development Strategy of Latvia until 2030
 
@@ -231,6 +229,8 @@ Since  establishment  of  the  UN  SDGs,  Latvia  has  worked  towards  mapping 
 initiatives and activities. Implementation of the ESD and GCED has been seen as an integral part
 
 of the Agenda 2030, particularly of the SDG 4: Ensure inclusive and equitable quality education
+
+> 2 See the schema described in paragraph 11 of Section II of these guidelines.
 
 [[END OF PAGE 5]]
 
@@ -412,9 +412,7 @@ Development Cooperation Policy Guidelines for 2016-2020
 
 Latvia: Implementation of the Sustainable Development Goals -
 
-https://www.pkc.gov.lv/sites/default/files/inline-
-
-files/Latvia%20Implementation%20of%20the%20SDGs_4.pdf
+https://www.pkc.gov.lv/sites/default/files/inline-files/Latvia%20Implementation%20of%20the%20SDGs_4.pdf
 
 Education Development Guidelines 2014-2020 (Latvian only) -
 
@@ -484,7 +482,7 @@ Assessment of student outcomes | 99 | 99 | 99 | 99
 
 *  In  Latvia,  education  policies  and  strategic  objectives for  curricula, textbook  development, teacher education, assessment of students' outcomes etc. are defined at the national level.
 
-** According to the Education Law non-formal education - education activities in conformity with interests and demand are organised outside the formal education. Non-formal education includes  interest-related  education  programmes  (traditionally  organised  for  children  and youth under the guidance of teachers) and non-formal adult education programmes. Nonformal education programmes are made in compliance with social demand both in the fields related  to  professional  activities  and  when  directed  towards  personal  interests  of  the population. Non-formal education should be implemented in the line of the principles defined in the Education Development Guidelines. There are no formal education and professional development  requirements  for  the  non-formal  education  educators.  However  the  EPALE national contact point provides information activities on EDS and GCED theme ы for  adult educators.  Informal  learning  is  an  education  process  which  includes  acquisition  of  new knowledge,  skills,  competences,  attitudes,  and  values  from  daily  experience  and  work experience  enriching  and  enhancing  the  personality  and,  perhaps,  work  skills;  however, unlike non-formal education, informal learning is not included within the programme or training course, it takes place in society including one's family, as well as at work (for example, when finding out new information from TV broadcasts, visiting libraries, museums, and exhibitions, adopting the parental or friends' experience). The state does not regulate informal learning. However, GCED and ESD are an integral part of many events.
+** According to the Education Law non-formal education - education activities in conformity with interests and demand are organised outside the formal education. Non-formal education includes interest-related education programmes (traditionally organised for children and youth under the guidance of teachers) and non-formal adult education programmes. Non-formal education programmes are made in compliance with social demand both in the fields related to professional activities and when directed towards personal interests of the population. Non-formal education should be implemented in the line of the principles defined in the Education Development Guidelines. There are no formal education and professional development requirements for the non-formal education educators. However the EPALE national contact point provides information activities on EDS and GCED themeы for adult educators. Informal learning is an education process which includes acquisition of new knowledge, skills, competences, attitudes, and values from daily experience and work experience enriching and enhancing the personality and, perhaps, work skills; however, unlike non-formal education, informal learning is not included within the programme or training course, it takes place in society including one's family, as well as at work (for example, when finding out new information from TV broadcasts, visiting libraries, museums, and exhibitions, adopting the parental or friends' experience). The state does not regulate informal learning. However, GCED and ESD are an integral part of many events.
 
 [[END OF PAGE 9]]
 
@@ -496,7 +494,7 @@ Assessment of student outcomes | 99 | 99 | 99 | 99
 
 #### B1a. Please describe in which ways GCED and ESD are mainstreamed in school curricula. Indicate  whether  topics  are  taught  as  standalone  subjects  or  are  integrated  into  the curricula of other subjects. Explain whether GCED and/or ESD themes 3  are mentioned explicitly or are inferred and what types or levels of education are covered.
 
-The  paradigm  of  education  for  sustainable  development  and  global  citizenship  education  is reflected in Latvia's new competence-based curricula, which will be fully implemented by 2023, modernizing  school  education  in  terms  of  curricula,  teaching  methods  and  teaching/learning materials. The new curricula provides a more integrated and streamlined learning of disciplinebased  subjects  with  stronger  focus  on  application  of  knowledge,  independent  reasoning  and creativity. The learning process is built on attitudes and values of responsible citizenship - ability to express one's position on social, economic and political processes, take responsible decisions and have a positive impact on welfare locally and globally, recognize injustice and act to prevent it, treat with tolerance different cultures and their heritage.
+The paradigm of education for sustainable development and global citizenship education is reflected in Latvia's new competence-based curricula, which will be fully implemented by 2023, modernizing school education in terms of curricula, teaching methods and teaching/learning materials. The new curricula provides a more integrated and streamlined learning of discipline-based subjects with stronger focus on application of knowledge, independent reasoning and creativity. The learning process is built on attitudes and values of responsible citizenship - ability to express one's position on social, economic and political processes, take responsible decisions and have a positive impact on welfare locally and globally, recognize injustice and act to prevent it, treat with tolerance different cultures and their heritage.
 
 In order to introduce the new competence-based approach in general education curricula, the following regulations have been approved by the Cabinet of Ministers:
 
@@ -642,23 +640,23 @@ Through arts and cultural activities students can experience cultural diversity,
 
 #### B1b. Please provide examples of curricula in which GCED and/or ESD are mainstreamed and, where possible, web links to relevant documents.
 
-State Guidelines for Pre-school Education and the Model Pre-school Education Programmes -https://likumi.lv/ta/en/en/id/303371-regulations-regarding-the-state-guidelinesfor-pre-school-education-and-the-model-pre-school-education-programmes
+State Guidelines for Pre-school Education and the Model Pre-school Education Programmes - https://likumi.lv/ta/en/en/id/303371-regulations-regarding-the-state-guidelines-for-pre-school-education-and-the-model-pre-school-education-programmes
 
-State Basic Education Standard and Model Basic Education Programmes -https://likumi.lv/ta/en/en/id/303768-regulations-regarding-the-state-basic-education-standardand-model-basic-education-programmes
+State Basic Education Standard and Model Basic Education Programmes - https://likumi.lv/ta/en/en/id/303768-regulations-regarding-the-state-basic-education-standard-and-model-basic-education-programmes
 
-State General Secondary Education Standard and Model General Secondary Education Programmes -https://likumi.lv/ta/en/en/id/309597-regulations-regarding-the-state-generalsecondary-education-standard-and-model-general-secondary-education-programmes
+State General Secondary Education Standard and Model General Secondary Education Programmes - https://likumi.lv/ta/en/en/id/309597-regulations-regarding-the-state-general-secondary-education-standard-and-model-general-secondary-education-programmes
 
-State  Standard  for  Vocational  Education (Latvian  only)  -    https://likumi.lv/ta/id/315146noteikumi-par-valsts-profesionalas-videjas-izglitibas-standartu-un-valsts-arodizglitibasstandartu)
+State Standard for Vocational Education (Latvian only) - https://likumi.lv/ta/id/315146-noteikumi-par-valsts-profesionalas-videjas-izglitibas-standartu-un-valsts-arodizglitibas-standartu)
 
-State  Standard  for  the  First  Level  Professional  Higher  Education (Latvian only) -https://likumi.lv/ta/id/6397-noteikumi-par-pirma-limena-profesionalas-augstakas-izglitibas-valstsstandartu
+State Standard for the First Level Professional Higher Education (Latvian only) - https://likumi.lv/ta/id/6397-noteikumi-par-pirma-limena-profesionalas-augstakas-izglitibas-valsts-standartu
 
-State  Standard  for  the  Second  Level  Professional  Higher  Education (Latvian  only)  https://likumi.lv/ta/id/268761-noteikumi-par-otra-limena-profesionalas-augstakas-izglitibasvalsts-standartu
+State Standard for the Second Level Professional Higher Education (Latvian only) - https://likumi.lv/ta/id/268761-noteikumi-par-otra-limena-profesionalas-augstakas-izglitibas-valsts-standartu
 
-State  Standard  for  Academic  Education (Latvian only) -https://likumi.lv/ta/id/266187noteikumi-par-valsts-akademiskas-izglitibas-standartu
+State Standard for Academic Education (Latvian only) - https://likumi.lv/ta/id/266187-noteikumi-par-valsts-akademiskas-izglitibas-standartu
 
-The Environmental Protection Law -https://likumi.lv/ta/en/en/id/147917-environmentalprotection-law
+The Environmental Protection Law - https://likumi.lv/ta/en/en/id/147917-environmental-protection-law
 
-Guidelines for the upbringing of learners and the procedure for evaluating information, teaching aids, materials and teaching methods (Latvian only) - https://likumi.lv/ta/id/283735izglitojamo-audzinasanas-vadlinijas-un-informacijas-macibu-lidzeklu-materialu-un-macibu-unaudzinasanas-metozu-izvertesanas
+Guidelines for the upbringing of learners and the procedure for evaluating information, teaching aids, materials and teaching methods (Latvian only) - https://likumi.lv/ta/id/283735-
 
 [[END OF PAGE 12]]
 
@@ -666,7 +664,11 @@ Guidelines for the upbringing of learners and the procedure for evaluating infor
 
 13
 
+izglitojamo-audzinasanas-vadlinijas-un-informacijas-macibu-lidzeklu-materialu-un-macibu-un-audzinasanas-metozu-izvertesanas
+
 #### *B2 Please indicate which GCED and ESD themes are taught as part of the curriculum at each level of education by entering the appropriate number in each white cell.
+
+KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education*
 --- | --- | --- | --- | --- | ---
@@ -678,8 +680,6 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education*
 6. | Environmental sustainability | 1 | 1 | 1 | 9
 7. | Human survival and well-being | 1 | 1 | 1 | 9
 8. | Sustainable consumption and production | 1 | 1 | 1 | 9
-
-KEY: 0 = no, 1 = yes, 9 = unknown
 
 *  In  Latvia,  according to  the  Education  Law  non-formal  education - education activities in conformity with interests and demand are organised outside the formal education. Non-formal education includes interest-related education  programmes  (traditionally organised  for children  and  youth  under  the  guidance  of  teachers)  and  non-formal  adult  education programmes. Non-formal education programmes are made in compliance with social demand both  in  the  fields  related  to  professional  activities  and  when  directed  towards  personal interests of the population. Non-formal education should be implemented in the line of the principles defined in the Education Development Guidelines.
 
@@ -693,7 +693,9 @@ Informal learning is an education process which includes acquisition of new know
 
 #### *B3 Please indicate in which subjects or fields of study GCED and ESD are taught in primary and secondary education by entering the appropriate number in each white cell.
 
-Cultural diversity and tolerance | Gender equality | Human rights | Peace and non- violence | Climate change | Environmental sustainability | Human survival and well- being | Sustainable consumption and production
+KEY: 0 = no, 1 = yes, 9 = unknown
+
+Cultural diversity and tolerance | Gender equality | Human rights | Peace and non-violence | Climate change | Environmental sustainability | Human survival and well-being | Sustainable consumption and production
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Arts | 1 | 9 | 9 | 9 | 9 | 1 | 9 | 1
 Civics, civil or citizenship education | 1 | 1 | 1 | 1 | 9 | 9 | 1 | 1
@@ -707,8 +709,6 @@ Religious education | 1 | 1 | 1 | 1 | 9 | 9 | 1 | 9
 Science | 1 | 1 | 9 | 9 | 1 | 1 | 1 | 1
 Social studies | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Integrated studies | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
-
-KEY: 0 = no, 1 = yes, 9 = unknown
 
 #### *B4 Please indicate the approaches used to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
 
@@ -748,7 +748,7 @@ Informal learning is an education process which includes acquisition of new know
 
 16
 
-### Teacher education (including the training of trainers and educators) (paras 4 and 33-37 of the 1974 Recommendation )
+### C. Teacher education (including the training of trainers and educators) (paras 4 and 33-37 of the 1974 Recommendation)
 
 #### C1a. Please describe in which ways GCED and ESD are mainstreamed in initial training and in  continuing  professional  development  of  teachers,  trainers  and  educators.  Indicate whether all teachers, trainers and educators or only some are required to receive training to teach GCED and/or ESD.
 
@@ -834,7 +834,7 @@ training programmes are optional.
 
 #### C1b. Please provide examples of teacher training policies or curricula in which GCED and/or ESD are mainstreamed and, where possible, web links to relevant documents. If  possible, include examples related to initial training and to continuing professional development.
 
-The requirements for teachers are based on the Regulation of the Cabinet of Ministers of Latvia No. 569, adopted on 11 September 2018, 'Regulations regarding the education and professional qualification  required  for  teachers,  and  the  procedure  of  teachers'  professional  competence improvement' (available in Latvian here: https://likumi.lv/ta/id/301572-noteikumi-par- pedagogiem-nepieciesamo-izglitibu-un-profesionalo-kvalifikaciju-un-pedagogu-profesionalas- kompetences-pilnveides), which define the education and professional qualifications necessary for a teacher and the procedure for the improvement of professional competence of teachers.
+The requirements for teachers are based on the Regulation of the Cabinet of Ministers of Latvia No. 569, adopted on 11 September 2018, 'Regulations regarding the education and professional qualification required for teachers, and the procedure of teachers' professional competence improvement' (available in Latvian here: https://likumi.lv/ta/id/301572-noteikumi-par-pedagogiem-nepieciesamo-izglitibu-un-profesionalo-kvalifikaciju-un-pedagogu-profesionalas-kompetences-pilnveides), which define the education and professional qualifications necessary for a teacher and the procedure for the improvement of professional competence of teachers.
 
 ##### University of Liepaja
 
@@ -864,9 +864,9 @@ included in professional master's programme 'Teacher'.
 
 ESD aspects are included in the content of many other teachers' study programmes at bachelor's, master's and doctoral level. Higher education institutions, which are implementing initial education programmes for teachers, supported the inclusion of study course 'Introduction to the education for  sustainable  development'  in  bachelor's  level  programmes  for  teachers  and  study  course 'Education  for  sustainable  development'  in  master's  level  programmes  for  teachers.  The implementation  of  these  study  courses  remain  the  choice  of  particular  higher  education institutions.
 
-More information (in Latvian): https://unesco.lv/lv/izglitiba/pieejama-publikacija-par-izglitibu- ilgtspejigai-attistibai-skolotaju-izglitiba/
+More information (in Latvian): https://unesco.lv/lv/izglitiba/pieejama-publikacija-par-izglitibu-ilgtspejigai-attistibai-skolotaju-izglitiba/
 
-National  Centre  for  Education  -  information  on  professional  development  possibilities  for teachers: https://www.visc.gov.lv/lv/jaunumi?category%5B82%5D=82&created%5Bmin%5D=--.- -.----&created%5Bmax%5D=--.--.----
+National Centre for Education - information on professional development possibilities for teachers: https://www.visc.gov.lv/lv/jaunumi?category%5B82%5D=82&created%5Bmin%5D=--.--.----&created%5Bmax%5D=--.--.----
 
 The  NGO  sector  also  plays  an  important  role  in  professional  development  of  teachers  on ESD/GCED/SDGs issues in education.
 
@@ -878,11 +878,9 @@ Several networks have been established, for example, the Interdisciplinary Natio
 
 18
 
-> 4  Supported by the Memorandum of Cooperation between the Ministry of Environmental Protection and Regional Development  and  the  Fund  of  Environmental  Education  (the  representative  of  Foundation  for  Environmental Education (FEE International) in Latvia). The fund implements all programmes of the FEE International (Green Key, Blue Flag, Young Reporters, Learning about Forests, Eco-Schools) in Latvia.
+NGO Center for Education Initiatives (CEI) has been founded with the goal to promote changes in the community's perception about the role of education in creating human rights society and to promote the development of the further education in Latvia without reference to people's nationality, race, social status, religion and sex, as well as the physical and mental level of development. The Center implements various projects on the topics of SDGs and teachers are one of their target groups. More information: http://iic.lv/about-cei/
 
-NGO Center for Education Initiatives (CEI) has been founded with the goal to promote changes in the community's perception about the role of education in creating human rights society and to  promote  the  development  of  the  further  education  in  Latvia  without  reference  to  people's nationality,  race,  social  status,  religion  and  sex,  as  well  as  the  physical  and  mental  level  of development. The Center implements various projects on the topics of SDGs and teachers are one of their target groups. More information: http://iic.lv/about-cei/
-
-Green Liberty ('Zaļā brīvība' in Latvian) is a non -profit NGO, founded in 1993. It's mission is to contribute to the development of a society, where people live in harmony with each other and the environment. Green Liberty works in global education via projects that are focused on media, solidarity  economy,  fair  trade,  and  sustainable  tropical  fruits  and  supermarket  private  label products. It organizes CSO seminars, workshops and lectures. People are actively engaged in discussing  development  issues,  informing  them  about  interconnections  between  development and environmental issues, and global impacts of local processes. More information: https://www.zalabriviba.lv/
+Green Liberty ('Zaļā brīvība' in Latvian) is a non-profit NGO, founded in 1993. It's mission is to contribute to the development of a society, where people live in harmony with each other and the environment. Green Liberty works in global education via projects that are focused on media, solidarity economy, fair trade, and sustainable tropical fruits and supermarket private label products. It organizes CSO seminars, workshops and lectures. People are actively engaged in discussing development issues, informing them about interconnections between development and environmental issues, and global impacts of local processes. More information: https://www.zalabriviba.lv/
 
 Other examples of teachers' cooperation include Children's Environmental School (http://www.videsskola.lv/),  Association  of  Environmental  Educators,  Fund  of  Environmental Education (http://www.videsfonds.lv/lv/s-kums) and Institute of Sustainable Education (http://www.ise-lv.eu/index.php?sub_show=59&show=).
 
@@ -894,7 +892,9 @@ The  UNESCO  Associated  School  Project  network  in  Latvia  organizes  specia
 
 The Baltic Sea project is an international network among young people and teachers for a better environment in the Baltic Sea catchment area. More information: www.b-s-p.org.
 
-Company 'Zaļa josta' provides e nvironmental education materials (including video, games, etc.), that can be used by teachers: http://www.zalajosta.lv/lv/vides-izglitibas-materiali
+Company 'Zaļa josta' provides environmental education materials (including video, games, etc.), that can be used by teachers: http://www.zalajosta.lv/lv/vides-izglitibas-materiali
+
+> 4 Supported by the Memorandum of Cooperation between the Ministry of Environmental Protection and Regional Development and the Fund of Environmental Education (the representative of Foundation for Environmental Education (FEE International) in Latvia). The fund implements all programmes of the FEE International (Green Key, Blue Flag, Young Reporters, Learning about Forests, Eco-Schools) in Latvia.
 
 [[END OF PAGE 18]]
 
@@ -902,11 +902,7 @@ Company 'Zaļa josta' provides e nvironmental education materials (including vid
 
 19
 
-#### *C2 Please indicate whether teachers, trainers and educators are trained to teach GCED and ESD  during  initial  or  pre-service  training  and/or  through  continuing  professional development. Please enter the appropriate number in each white cell.
-
-#### *C3 Please indicate on which GCED and ESD themes pre-service or in-service training is available for teachers, trainers and educators at each level of education by entering the appropriate number in each white cell.
-
-#### *C4   Please  indicate  whether  teachers,  trainers  and  educators  are  trained  to  teach  the following  dimensions  of  learning  in  GCED  and  ESD.  Please  enter  the  appropriate number in each white cell.
+#### *C2 Please indicate whether teachers, trainers and educators are trained to teach GCED and ESD during initial or pre-service training and/or through continuing professional development. Please enter the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -919,6 +915,10 @@ Continuing professional development
 For teachers of selected subjects only (in which GCED or ESD are typically taught) | 1 | 1 | 1 | 1
 For teachers of other subjects | 1 | 1 | 1 | 1
 
+#### *C3 Please indicate on which GCED and ESD themes pre-service or in-service training is available for teachers, trainers and educators at each level of education by entering the appropriate number in each white cell.
+
+KEY: 0 = no, 1 = yes, 9 = unknown
+
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | --- | ---
 1. | Cultural diversity and tolerance | 1 | 1 | 1 | 1
@@ -930,7 +930,7 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 7. | Human survival and well-being | 1 | 1 | 1 | 1
 8. | Sustainable consumption and production | 1 | 1 | 1 | 1
 
-KEY: 0 = no, 1 = yes, 9 = unknown
+#### *C4 Please indicate whether teachers, trainers and educators are trained to teach the following dimensions of learning in GCED and ESD. Please enter the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -949,14 +949,14 @@ Attitudes and behaviours | 1 | 1 | 1 | 1
 
 #### *C5 Please indicate whether teachers, trainers and educators are trained to use the following approaches to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
 
+KEY: 0 = no, 1 = yes, 9 = unknown
+
 Global citizenship and education for sustainable development
 --- | ---
 GCED/ESD are taught as separate subject(s) | 0
-Cross curriculum approach ( e.g. GCED/ESD are taught in more than one subject but not throughout the curriculum ) | 1
-Integrated approach ( e.g. GCED/ESD are taught throughout the whole curriculum ) | 1
-Whole school approach (e.g. GCED/ESD are integrated in the school ethos, management, governance, curriculum, teacher training, teaching practices, the learning environment, and in learning experiences in the community and life outside school ) | 1
-
-KEY: 0 = no, 1 = yes, 9 = unknown
+Cross curriculum approach (e.g. GCED/ESD are taught in more than one subject but not throughout the curriculum) | 1
+Integrated approach (e.g. GCED/ESD are taught throughout the whole curriculum) | 1
+Whole school approach (e.g. GCED/ESD are integrated in the school ethos, management, governance, curriculum, teacher training, teaching practices, the learning environment, and in learning experiences in the community and life outside school) | 1
 
 ### D. Student assessment (paras 4 and 5 of the 1974 Recommendation )
 
@@ -994,9 +994,9 @@ PISA 2018 Global Competence study showed the following results for Latvia:
 
 -76% of students are aware of the effect of economic development on environment.
 
-#### *D2 Please indicate whether the GCED and ESD themes below are generally included in student  assessments  or  examinations  at  each  level  of  education  by  entering  the appropriate number in each white cell.
+#### *D2 Please indicate whether the GCED and ESD themes below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
 
-- In  Latvia,  within  the  pre-school  education process the education institution independently develops the procedures for evaluating learning achievements of a child according to the basic principles for the evaluation in pre-school education specified in the State guidelines for preschool education (see part B).
+KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary* | Primary and secondary | Tertiary | Non-formal education**
 --- | --- | --- | --- | --- | ---
@@ -1009,9 +1009,9 @@ Pre-primary* | Primary and secondary | Tertiary | Non-formal education**
 7. | Human survival and well-being | 1 | 1 | 1 | 9
 8. | Sustainable consumption and production | 1 | 1 | 1 | 9
 
-KEY: 0 = no, 1 = yes, 9 = unknown
+* In Latvia, within the pre-school education process the education institution independently develops the procedures for evaluating learning achievements of a child according to the basic principles for the evaluation in pre-school education specified in the State guidelines for pre-school education (see part B).
 
-** According to the Education Law non-formal education - education activities in conformity with interests and demand are organised outside the formal education. Non-formal education includes  interest-related  education  programmes  (traditionally  organised  for  children  and youth under the guidance of teachers) and non-formal adult education programmes. Nonformal education programmes are made in compliance with social demand both in the fields related  to  professional  activities  and  when  directed  towards  personal  interests  of  the population.  Therefore  the  inclusion  of  GCED  /ESD  in  the  assessments  depends  on  the particular programme and its organizer.
+** According to the Education Law non-formal education - education activities in conformity with interests and demand are organised outside the formal education. Non-formal education includes interest-related education programmes (traditionally organised for children and youth under the guidance of teachers) and non-formal adult education programmes. Non-formal education programmes are made in compliance with social demand both in the fields related to professional activities and when directed towards personal interests of the population. Therefore the inclusion of GCED /ESD in the assessments depends on the particular programme and its organizer.
 
 [[END OF PAGE 21]]
 
@@ -1021,18 +1021,18 @@ KEY: 0 = no, 1 = yes, 9 = unknown
 
 #### *D3 Please indicate which of the dimensions of learning in GCED and ESD below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
 
-- In  Latvia,  within  the  pre-school  education process the education institution independently develops the procedures for evaluating learning achievements of a child according to the basic principles for the evaluation in pre-school education specified in the State guidelines for preschool education (see part B).
+KEY: 0 = no, 1 = yes, 9 = unknown
 
-** According to the Education Law non-formal education - education activities in conformity with interests and demand are organised outside the formal education. Non-formal education includes  interest-related  education  programmes  (traditionally  organised  for  children  and youth under the guidance of teachers) and non-formal adult education programmes. Nonformal education programmes are made in compliance with social demand both in the fields related  to  professional  activities  and  when  directed  towards  personal  interests  of  the population. Therefore the inclusion of dimensions of the GCED /ESD in the assessments depends on the particular programme and its organizer.
-
-Pre- primary* | Primary and secondary | Tertiary | Non-formal education**
+Pre-primary* | Primary and secondary | Tertiary | Non-formal education**
 --- | --- | --- | --- | ---
 Knowledge | 1 | 1 | 1 | 9
 Skills | 1 | 1 | 1 | 9
 Values | 1 | 1 | 1 | 9
 Attitudes and behaviours | 1 | 1 | 1 | 9
 
-KEY: 0 = no, 1 = yes, 9 = unknown
+* In Latvia, within the pre-school education process the education institution independently develops the procedures for evaluating learning achievements of a child according to the basic principles for the evaluation in pre-school education specified in the State guidelines for pre-school education (see part B).
+
+** According to the Education Law non-formal education - education activities in conformity with interests and demand are organised outside the formal education. Non-formal education includes interest-related education programmes (traditionally organised for children and youth under the guidance of teachers) and non-formal adult education programmes. Non-formal education programmes are made in compliance with social demand both in the fields related to professional activities and when directed towards personal interests of the population. Therefore the inclusion of dimensions of the GCED /ESD in the assessments depends on the particular programme and its organizer.
 
 [[END OF PAGE 22]]
 
@@ -1054,7 +1054,7 @@ GCED and ESD are not mainstreamed.
 
 Some GCED and/or ESD themes 6  are mainstreamed. Select this option if GCED is mainstreamed but ESD is not (or vice versa).
 
-- 2 Extensively
+2 Extensively
 
 Most GCED and ESD themes are mainstreamed.
 
@@ -1101,13 +1101,13 @@ Informal learning is an education process which includes acquisition of new know
 
 According to the Regulations of the Cabinet of Ministers No 332 'State Standard for Vocational Education' accepted on June 2, 2020, GCED / ESD issues are integrated in VET.
 
-Vocational education content reform is being implemented, ensuring a transition from subjectbased vocational education curricula to result-based learning, as well as introducing a modular approach in the implementation of vocational education programmes and strengthening workbased learning, including the following activities:
+Vocational education content reform is being implemented, ensuring a transition from subject-based vocational education curricula to result-based learning, as well as introducing a modular approach in the implementation of vocational education programmes and strengthening work-based learning, including the following activities:
 
 - The ESF-supported project Establishment of Sectoral Qualifications System and Enhancement of Efficiency and Quality of Vocational Education has been implemented since the end of 2016. The project improves the sectoral qualification system and to prepare descriptions, to develop and improve 200 professional standards and professional qualification requirements, develop and introduce 185 modular vocational education programmes and develop content of professional qualification exams for 206 professional qualifications, as well as develop relevant teaching aids and methodological materials.
 
 - The implementation of the developed modular vocational education programmes is ensured in areas  such  as  finishing  work  and  dry  construction,  forestry,  crop  production  and  horticulture, digital printing, renewable energy, customer service, financial and accounting started in school year 2019/2020.
 
--  ESF  funded  project Increasing  the  Number  of  Qualified  Students  in  Vocational  Education Institutions after their Participation on Work-Based Learning and Apprenticeships in an Enterprise is being implemented in order to promote the introduction of work-based learning. By the end of 2023, within this project support will be provided for engaging 3 150 unique students in workbased learning and 11 025 unique students in apprenticeship in an enterprise.
+- ESF funded project Increasing the Number of Qualified Students in Vocational Education Institutions after their Participation on Work-Based Learning and Apprenticeships in an Enterprise is being implemented in order to promote the introduction of work-based learning. By the end of 2023, within this project support will be provided for engaging 3 150 unique students in work-based learning and 11 025 unique students in apprenticeship in an enterprise.
 
 -  The Erasmus+ programme project Testing New Approaches to Training VET and Workplace Tutors for Work Based Learning (TTT4WBL) aiming to support the implementation of work-based learning  in  Baltic  countries,  exchanging  experience  and  testing  new  approaches  in  joint preparation of supervisors in an education institution and the company was completed in February 2020. Along with already prepared 300 work-based learning supervisors of WB learning from schools  and  companies,  based  on  improved  professional  improvement  programmes  for supervisors of WB learning and apprenticeship and methodical teaching aids, the preparation of WB learning supervisors using the tandem training approach continued (training for 26 more WB learning supervisors using the tandem approach took place in February 2020).
 
@@ -1123,7 +1123,7 @@ Sectoral expert councils with involvement of sectoral experts in the development
 
 Starting from the beginning of 2016, a collegial advisory institution - convent, has been operating in  vocational  education  institutions.  The  convent  includes  the  head  of  vocational  education institution,  representatives  of  the  ministry,  local  government,  as  well  as  employers  and associations thereof, and may also include also a representative of the respective planning region. The aim of this convent is to facilitate development of vocational education institutions setting the strategic direction of their operation in accordance with market demands.
 
-Within the ESF project Efficient management of vocational education establishments and raising the staff competenc e that started in 2016 support is provided to teachers of vocational education institutions,  internship  supervisors,  administration  representatives  and  sectoral  experts  for  the improvement  of  professional  competence  (latest  news  and  novelties  in  sectors,  practical pedagogics in the implementation of work-based learning, development and implementation of modular  vocational  education  programmes,  increasing  of  general  skills  and  competences, promotion of continuing education of adults and traineeship in companies).
+Within the ESF project Efficient management of vocational education establishments and raising the staff competence that started in 2016 support is provided to teachers of vocational education institutions, internship supervisors, administration representatives and sectoral experts for the improvement of professional competence (latest news and novelties in sectors, practical pedagogics in the implementation of work-based learning, development and implementation of modular vocational education programmes, increasing of general skills and competences, promotion of continuing education of adults and traineeship in companies).
 
 The Latvian authorities are supportive of GCED /ESD, responsible business conduct and devote efforts  to  increasing  the  level  of  knowledge  among  entrepreneurs  through  seminars  and conferences promoting the benefits of responsible business conduct and best practices.
 
@@ -1135,9 +1135,9 @@ The measures of the Education Development Guidelines for 2014-2020 were  focused
 
 The implementation of GCED and/or ESD principles require an integrated approach, which can be used in adult education, depending on the goals of the particular programme.
 
-The implementation of the Adult Education Management Model Implementation Plan for 20162020 aimed to ensure accessibility of education and its quality for residents irrespective of their age, sex, previous education, place of residence, income level, ethnic origin, functional disorders, and other factors.
+The implementation of the Adult Education Management Model Implementation Plan for 2016-2020 aimed to ensure accessibility of education and its quality for residents irrespective of their age, sex, previous education, place of residence, income level, ethnic origin, functional disorders, and other factors.
 
-An  inter-sectoral  consultative  institution  Adult  Education  Management  Council ,  has  been established and  is functioning to carry out coordination of the plan and  monitor the implementation. It consists of representatives from ministries involved in adult education and other organizations, as well as representatives from social and cooperation partners.
+An inter-sectoral consultative institution – Adult Education Management Council, has been established and is functioning to carry out coordination of the plan and monitor the implementation. It consists of representatives from ministries involved in adult education and other organizations, as well as representatives from social and cooperation partners.
 
 In 2019, the development of project Adult Education Management Model Implementation Plan for 2021-2026 started in cooperation with stakeholders, incl. social and cooperation partners. There are intentions to pay more attention to the quality of adult education, incl. to definition of the criteria for the quality of non-formal education in the regulatory framework, building understanding at state level of the need for adult education, segmenting of the target group, targeted support measures, as well as possibilities of public-private partnership in the development of adult education will be evaluated.
 
@@ -1151,7 +1151,7 @@ In 2017, the implementation of ESF project Improving the Professional Competence
 
 employed) aged above 25 and to eliminate any non-compliances in labour force qualification with labour demand, promote competitiveness and increase work productivity of workers.
 
-Adult education project 'Sustainable Development of Libraries and Society: We Build This World Ourselves' (2019/2020) has been organized in cooperation with the Library Association of Latvia and the National Library of Latvia and supported by the Ministry of Education and Science in order to reach libraries in different regions of Latvia, organizing regional seminars to promote exchange of experience in relation to achieving the UN Sustainable Development Goals.
+Adult education project “Sustainable Development of Libraries and Society: We Build This World Ourselves” (2019/2020) has been organized in cooperation with the Library Association of Latvia and the National Library of Latvia and supported by the Ministry of Education and Science in order to reach libraries in different regions of Latvia, organizing regional seminars to promote exchange of experience in relation to achieving the UN Sustainable Development Goals.
 
 The goal of youth policy in Latvia is to build a friendly youth-oriented support system that offers a wide range of possibilities for social inclusion and  social cohesion, by promoting the competitiveness of the youth in the social life and labour market. Youth policy in Latvia is based on  the  following  key  principles:  participation;  availability  of  information;  equal  opportunities; respect for the interests of young people; favourable economic preconditions; youth integration; mobility and international cooperation.
 
@@ -1161,13 +1161,13 @@ Policy measures have been introduced to reduce the proportion of youngsters with
 
 #### H1 Please describe what kinds of research or experimentation have been carried out to improve the implementation of GCED and/or ESD. Describe briefly how the results of such activities have influenced education policies, curricula and/or teaching practices.
 
-Several universities of Latvia and/or their academic staff are the members of the 'Baltic and Black Sea Circle Consortium' (BBCC). The aim of this consortium is to promote and realize ESD ideas  and  conceptions  through  scientific  research  activities  and  improvement  of  education quality, including teacher education quality, in the process of cooperation and collaboration in the framework of this network.
+Several universities of Latvia and/or their academic staff are the members of the “Baltic and Black Sea Circle Consortium” (BBCC). The aim of this consortium is to promote and realize ESD ideas and conceptions through scientific research activities and improvement of education quality, including teacher education quality, in the process of cooperation and collaboration in the framework of this network.
 
 There are several UNESCO Chairs in Latvia that are working in the fields of ESD and GCED, including: UNESCO Chair on Interplay of Tradition and Innovation in Education for Sustainable Development at Daugavpils University, UNESCO Chair in Sustainable Coastal Development at the University of Latvia, UNESCO Chair on Biosphere and Man at Vidzeme University of Applied Sciences (more information : https://latvijasdargumi.unesco.lv/en/networks/#map-9).
 
-In addition to basic research funding, there are two major nationally funded competitive research funding  programmes  which  allowed  to  foster  research  linked  to  ESD  -  State  research programmes and Fundamental and applied research programme.
+In addition to basic research funding, there are two major nationally funded competitive research funding programmes which allowed to foster research linked to ESD – State research programmes and Fundamental and applied research programme.
 
-These funding programmes were linked to nationally defined priority directions in science. There are several priority directions which are directly linked to fostering sustainable development, as well as education in corresponding thematic fields, for instance, during the period of 2014-2017 Research and sustainable use of local natural resources and Sustainable development of the state and society ; and further expanded during the period of 2018-2021: Climate change, nature protection, environment and sustainable transport ; Research and sustainable use of local natural resources for the development of a knowledge-based bio-economy ; Culture of knowledge and innovations for economic sustainability .
+These funding programmes were linked to nationally defined priority directions in science. There are several priority directions which are directly linked to fostering sustainable development, as well as education in corresponding thematic fields, for instance, during the period of 2014–2017 Research and sustainable use of local natural resources and Sustainable development of the state and society; and further expanded during the period of 2018–2021: Climate change, nature protection, environment and sustainable transport; Research and sustainable use of local natural resources for the development of a knowledge-based bio-economy; Culture of knowledge and innovations for economic sustainability.
 
 [[END OF PAGE 26]]
 
@@ -1189,7 +1189,7 @@ Both state and EU Structural funds instruments support better integration betwee
 
 research in HE, thus further aiming to redefine HEIs as knowledge-hubs.
 
-EU Structural  funds'  Programmes  for  Research  and Innovation,  which  were  implemented  to
+EU Structural funds’ Programmes for Research and Innovation, which were implemented to
 
 foster research and development of ESD, included activities such as grants for applied research
 
@@ -1203,17 +1203,17 @@ increase the number of modernised STEM study programmes, including medicine and 
 
 industries; reducing fragmentation of study programmes.
 
-Since  2014,  Latvia's  national  research  and  innovation  (R&I)  system  has  been  developed  in
+Since 2014, Latvia’s national research and innovation (R&I) system has been developed in
 
 accordance  to  the  national  Smart  specialisation  strategy  (RIS3)  focusing  R&I  on  5  identified
 
-priority  areas,  namely  'Knowledge  intensive  bio-economy',  'Smart  energy',  'Biomedicine,
+priority  areas,  namely  “Knowledge  intensive  bio-economy”,  “Smart  energy”,  “Biomedicine,
 
-medical  technologies  and  biotechnology',  'Smart  materials,  technology  and  engineering',
+medical  technologies  and  biotechnology”,  “Smart  materials,  technology  and  engineering”,
 
-'Advanced ICT'.
+“Advanced ICT”.
 
-R&I  in  'Knowledge  intensive  bio-economy'  is  focused  on  sustainable  and  productive  forest
+R&I  in  “Knowledge  intensive  bio-economy”  is  focused  on  sustainable  and  productive  forest
 
 growing in changing climatic conditions; full use of wood biomass for chemical processing and
 
@@ -1225,7 +1225,7 @@ plant and animal raw materials; technological solutions for the use of plant and
 
 and processing by-products; food safety.
 
-R&I  in 'Smart energy' is focused on development of smart grids - development of demand-supply
+R&I  in “Smart energy” is focused on development of smart grids - development of demand-supply
 
 systems, smart buildings, home, appliances and home automation systems; development of next-
 
@@ -1253,11 +1253,11 @@ in June 2018.
 
 -
 
-Each year  since  2012  State  Education  Development  Agency  has  organised  Researchers'
+Each year  since  2012  State  Education  Development  Agency  has  organised  Researchers’
 
-Night. The main objectives of the Researchers' Night are to familiarize larger public, especially
+Night. The main objectives of the Researchers’ Night are to familiarize larger public, especially
 
-young people with the scientist's profession; to show the impact of sciences such as chemistry,
+young people with the scientist’s profession; to show the impact of sciences such as chemistry,
 
 medical  science,  biochemistry,  physics,  on  everyday  human  life;  to  show  researchers  as
 
@@ -1273,7 +1273,7 @@ most of the HEIs, museums, scientific institutions and other institutions and pr
 
 Since  November  2017,  Riga  Technical  University  in  cooperation  with  Investment  and
 
-Development Agency of Latvia has begun publishing of a quarterly journal 'Innovation' which
+Development Agency of Latvia has begun publishing of a quarterly journal “Innovation” which
 
 communicates in Latvian and English about science and innovation research results and best
 
@@ -1281,9 +1281,9 @@ practice examples.
 
 -
 
-In December 2017, Ministry of Education and Science has published the first Latvia's Science
+In December 2017, Ministry of Education and Science has published the first Latvia’s Science
 
-Calendar  'KNOWLEDGE! IT IS IN LATVIA'S NATURE', which incorporated digital  video
+Calendar  “KNOWLEDGE! IT IS IN LATVIA’S NATURE”, which incorporated digital  video
 
 stories  of  12  Latvian  scientists  representing  12  different  fields.  During  2018  the  calendar
 
@@ -1295,19 +1295,19 @@ stories  of  12  Latvian  scientists  representing  12  different  fields.  Duri
 
 exhibition and citizen science events have taken place in major HEIs, the National Library of Latvia, the Cabinet of Ministers, the State Chancellery, and the International Airport of Latvia. Starting with 2019, it is published in Latvian and English.
 
--Another public  media  which communicates  science is Latvian  Radio  1  programme 'Known into Unknown'.
+- Another public media which communicates science is Latvian Radio 1 programme “Known into Unknown”.
 
-#### H2 Please indicate which types of activities are available that promote international cooperation at each level of education by entering the appropriate number in each white cell.
-
-Pre-primary | Primary and secondary | Tertiary | Non-formal education
---- | --- | --- | --- | ---
-Hosting of international meetings on GCED and/or ESD | 9 | 9 | 9 | 9
-Participation in international meetings abroad on GCED and/or ESD | 9 | 1 | 1 | 9
-Support for programmes hosting foreign students, researchers and/or teachers | 9 | 9 | 1 | 9
-Membership of international networks including ASPnet | 9 | 1 | 9 | 9
-Joint research projects on GCED and/or ESD with foreign institutions | 9 | 1 | 1 | 9
+#### H2 Please indicate which types of activities are available that promote international co-operation at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
+
+|  | Pre-primary | Primary and secondary | Tertiary | Non-formal education |
+| --- | --- | --- | --- | --- |
+| Hosting of international meetings on GCED and/or ESD | 9 | 9 | 9 | 9 |
+| Participation in international meetings abroad on GCED and/or ESD | 9 | 1 | 1 | 9 |
+| Support for programmes hosting foreign students, researchers and/or teachers | 9 | 9 | 1 | 9 |
+| Membership of international networks including ASPnet | 9 | 1 | 9 | 9 |
+| Joint research projects on GCED and/or ESD with foreign institutions | 9 | 1 | 1 | 9 |
 
 ### I. Any other comments
 
@@ -1323,9 +1323,9 @@ The COVID-19 pandemic is currently the main factor that influences all processes
 
 Therefore it would be useful:
 
--to  promote  the  dissemination  of  good  practice  examples  and  development  of networking, making it possible to learn from others' experience (including during and post COVD-19);
+- to promote the dissemination of good practice examples and development of networking, making it possible to learn from others’ experience (including during and post COVD-19);
 
--to promote wider possibilities for obtaining financial support for ESD/ GCED activities (including for the NGO sector).
+- to promote wider possibilities for obtaining financial support for ESD/ GCED activities (including for the NGO sector).
 
 [[END OF PAGE 28]]
 
@@ -1333,9 +1333,9 @@ Therefore it would be useful:
 
 29
 
-#### I2 Please provide any other relevant information or clarifications regarding the implementation of the 1974 Recommendation or the mainstreaming of GCED and ESD in your country's education system.
+#### I2 Please provide any other relevant information or clarifications regarding the implementation of the 1974 Recommendation or the mainstreaming of GCED and ESD in your country’s education system.
 
-In Latvia, GCED and ESD is promoted at various levels and various forms of education, especially considering the process of implementation of the UN Sustainable Development Goals. It  is  important  to  mention  that  the  implementation  of  SDGs  is  promoted through  Latvia's strategic planning system, thus ensuring coordination of various national policies and policy documents. Regular policy assessments allow to ensure the monitoring of SDGs, including GCED and
+In Latvia, GCED and ESD is promoted at various levels and various forms of education, especially considering the process of implementation of the UN Sustainable Development Goals. It is important to mention that the implementation of SDGs is promoted through Latvia’s strategic planning system, thus ensuring coordination of various national policies and policy documents. Regular policy assessments allow to ensure the monitoring of SDGs, including GCED and
 
 EDS, regarding both policy implementation and future policy planning.
 
