@@ -1,10 +1,11 @@
 [[START OF PAGE 1]]
 
-# denmark 2020
+# DENMARK 2020
 
 Knowledge > Growth > Prosperity > Welfare
 
-the danish government February 2010
+THE DANISH GOVERNMENT
+February 2010
 
 [[END OF PAGE 1]]
 
@@ -16,11 +17,12 @@ the danish government February 2010
 
 [[START OF PAGE 3]]
 
-# denmark 2020
+# DENMARK 2020
 
 Knowledge > Growth > Prosperity > Welfare
 
-the danish government February 2010
+THE DANISH GOVERNMENT
+February 2010
 
 [[END OF PAGE 3]]
 
@@ -33,6 +35,24 @@ the danish government February 2010
 [[START OF PAGE 5]]
 
 ## Contents
+
+Denmark 2020 – Knowledge > growth > prosperity > welfare 5
+We have achieved much since 2001 6
+The crisis has impacted on the itinerary, but not on the destination 8
+How to overcome the crisis 9
+The Government’s 10 goals for 2020 11
+1. Denmark is to be among the world’s wealthiest countries 12
+2. The Danish supply of labour is to be among the 10 highest in the world 16
+3. Danish schoolchildren are to be among the cleverest in the world 18
+4. At least one Danish university is to be in Europe’s top 10 20
+5. Denmark is to be among the 10 countries in the world where people live the longest 22
+6. Denmark is to be a green, sustainable society and among the world’s three most energy efficient countries 25
+7. Denmark is to be among the best at creating equal opportunities 28
+8. Denmark is to be among the freest countries and among the best in Europe at achieving integration 30
+9. Danes are to be among the world’s most trusting and safe people 32
+10. The public sector is to be among the most efficient and least bureaucratic in the world 34
+International cooperation 37
+Strong cooperation within the Unity of the Realm 39
 
 3
 
@@ -207,7 +227,7 @@ From an economic point of view, we can boost Danish prosperity in two ways: by w
 
 ## The Government's 10 goals for 2020
 
-The Government has established 10 ambitious goals for Denmark. The Government's goals are to bring the nation together and mobilise all our forces. All the Government's goals combined place focus on the longterm challenges facing Denmark.
+The Government has established 10 ambitious goals for Denmark. The Government's goals are to bring the nation together and mobilise all our forces. All the Government's goals combined place focus on the long-term challenges facing Denmark.
 
 The  goal  that  Denmark  is  to  be  among  the  world's  10  wealthiest  countries  in  2020  is  the  overall  goal. Prosperity and growth are a precondition for freely shaping our society: with safe and secure welfare, decent care for the elderly, a world-class health service and a clean environment.
 
@@ -219,25 +239,25 @@ The Government's Work Plan for the years ahead focuses on ways to generate the p
 
 ### The Government's goals for Denmark 2020
 
-- Denmark is to be among the world's wealthiest countries
+1. Denmark is to be among the world's wealthiest countries
 
-- The Danish supply of labour is to be among the 10 highest in the world
+2. The Danish supply of labour is to be among the 10 highest in the world
 
-- Danish schoolchildren are to be among the cleverest in the world
+3. Danish schoolchildren are to be among the cleverest in the world
 
-- At least one Danish university is to be in Europe's top 10
+4. At least one Danish university is to be in Europe's top 10
 
-- Denmark is to be among the 10 countries in the world where people live the longest
+5. Denmark is to be among the 10 countries in the world where people live the longest
 
-- Denmark is to be a green, sustainable society and among the world's three most energy efficient countries
+6. Denmark is to be a green, sustainable society and among the world's three most energy efficient countries
 
-- Denmark is to be among the best at creating equal opportunities
+7. Denmark is to be among the best at creating equal opportunities
 
-- Denmark is to be among the freest countries and among the best in Europe at achieving integration
+8. Denmark is to be among the freest countries and among the best in Europe at achieving integration
 
-- Danes are to be among the world's most trusting and safe people
+9. Danes are to be among the world's most trusting and safe people
 
-- The public sector is to be among the most efficient and least bureaucratic in the world
+10. The public sector is to be among the most efficient and least bureaucratic in the world
 
 11
 
@@ -253,7 +273,7 @@ The precondition for us to be able to finance our welfare in the future is consi
 
 A well-regulated economy is a precondition for lasting prosperity. Since 2001, the Government has pursued a  responsible  and  sustainable  economic  policy.  We  consolidated  the  economy  and  repaid  our  debt  in  the good years. Therefore, when the crisis struck, Denmark was better prepared than most other countries.
 
-It is the Government's aim and objective that the economic policy is to be sustainable over time. We must reestablish  the  balance  in  public  finances  and  halt  debt  accumulation.  It  would  be  irresponsible  of  the Government to leave the bill to future generations. In the light of the economic crisis, this implies that we must take action here and now as well as further action in 2011-2013 and the following years.
+It is the Government's aim and objective that the economic policy is to be sustainable over time. We must re-establish the balance in public finances and halt debt accumulation. It would be irresponsible of the Government to leave the bill to future generations. In the light of the economic crisis, this implies that we must take action here and now as well as further action in 2011-2013 and the following years.
 
 In the short term, our point of departure is that even though we begin to detect indications of progress in the Danish economy, progress is not self-sustainable yet. The handling of the economic crisis remains crucial. It is  important  that  the  crisis  policy  is  phased  out  in  a  controlled  manner,  including  the  successful  support granted to the financial sector and the temporary crisis schemes for the business community.
 
@@ -311,7 +331,7 @@ overall. In addition to freezing total public consumption, there is a need for f
 
 [[START OF PAGE 17]]
 
-- Strategy for public-private cooperation. The  Government will launch a strategy to promote publicprivate cooperation. As part of the strategy, the Government will simplify rules and the framework for public procurement and for public-private cooperation in general.
+- Strategy for public-private cooperation. The Government will launch a strategy to promote public-private cooperation. As part of the strategy, the Government will simplify rules and the framework for public procurement and for public-private cooperation in general.
 
 - Better access to venture capital. The Government will make an additional DKK 500 million available to the market for venture capital. This amount will be provided in addition to the DKK 500 million from the Danish Enterprise Package for Small and Medium-sized Enterprises. At the same time, an evaluation of  the  Growth  Fund  has  been  initiated.  In  continuation  of  the  evaluation,  the  Government  will  take further steps to strengthen the market for risk capital, among other things by establishing a more flexible framework for institutional investors' investments in unlisted shares etc. by making it possible to obtain exemption from the present 10 per cent limit. And we will improve the opportunities to invest in unlisted shares for endowment pension and annuity pension funds.
 
@@ -335,7 +355,7 @@ We have implemented the Welfare Agreement, which improves the supply of labour b
 
 Nevertheless,  approx.  700,000  working-age  Danes  are  not  economically  active  and  not  in  education  or training, but are dependent on social welfare. This is unacceptable: to the people who are excluded from the community and to the many that go to work every day and pay taxes that finance our social welfare.
 
-In the short term, the Government has taken initiatives on an ongoing basis to prevent unemployment from becoming a permanent feature of society. We have implemented a number of initiatives targeted at young people, including more traineeships, simplified contact programmes and early-stage welfare-to-work options. Most recently, we have made it easier for persons having been given notice of dismissal to receive education and training, and we have prolonged the flexible scheme regarding work-sharing. And the Government will take  further  steps  to  prevent  unemployment  from  becoming  a  permanent  feature  of  society  -  the  worst scenario being long-term unemployment. We have placed special focus on immigrants and on avoiding longterm unemployment among young people.
+In the short term, the Government has taken initiatives on an ongoing basis to prevent unemployment from becoming a permanent feature of society. We have implemented a number of initiatives targeted at young people, including more traineeships, simplified contact programmes and early-stage welfare-to-work options. Most recently, we have made it easier for persons having been given notice of dismissal to receive education and training, and we have prolonged the flexible scheme regarding work-sharing. And the Government will take further steps to prevent unemployment from becoming a permanent feature of society - the worst scenario being long-term unemployment. We have placed special focus on immigrants and on avoiding long-term unemployment among young people.
 
 In the medium term, the Government will continue an active reform policy and take the necessary initiatives to boost total Danish labour supply up to 2020. We need more people in ordinary employment and fewer people on social welfare. Inter alia, we will propose a change to the early retirement pension scheme, etc. to the effect that fewer will be referred to permanent exclusion from the labour market. And we will encourage students to complete their education programmes sooner.
 
@@ -351,7 +371,7 @@ Expectations  are  that  in  the  years  ahead  there  will  be  an  increasing 
 
 - Special effort to combat youth unemployment. The increasing unemployment rate implies a special risk to young people. If they do not gain a foothold in the labour market due to the crisis, it may have consequences  for  their  entire  lives.  Therefore,  the  Government  has  introduced  initiatives  to  prevent youth unemployment. We have, among other things, created a framework for the set-up of 5,000 extra traineeships in 2010. The Government will continue this effort in 2011. In connection with the agreed evaluation of the Government's Ungepakke (youth package) in spring 2010, the Government will take steps  to  set  up  5,000  extra  traineeships  in  2011  within  the  framework  of  the  Employers'  Trainee Reimbursement (AER) Scheme. The Government will monitor developments closely throughout 2010.
 
-- Special effort to combat long-term unemployment. The Government has consulted the social partners, companies  and  practicians  in  order  to  establish  a  basis  for  a  proactive  proposal  to  prevent  long-term unemployment. The proposal will, among other things, contain improved guidelines for the unemployed on  how  to  use  training  services  by  targeting  the  entire  education  effort  at  the  first  part  of  the unemployment period so that it is directed towards employment within areas in need of labour. In the future,  the  job  centres  are  to  intensify  screenings  of  general  competencies.  Intensive  and  targeted services  are  to  be  established  for  persons  in  need  of  improving  elementary  reading,  writing  and arithmetic skills. And the Government will intensify the effort to combat long-term unemployment by keeping  close contact with persons with a particularly high risk  of  long-term  unemployment. Specifically, unemployed persons are to be invited to an interview every month after the first welfare-towork offer. Today, these interviews take place every three months.
+- Special effort to combat long-term unemployment. The Government has consulted the social partners, companies and practicians in order to establish a basis for a proactive proposal to prevent long-term unemployment. The proposal will, among other things, contain improved guidelines for the unemployed on how to use training services by targeting the entire education effort at the first part of the unemployment period so that it is directed towards employment within areas in need of labour. In the future, the job centres are to intensify screenings of general competencies. Intensive and targeted services are to be established for persons in need of improving elementary reading, writing and arithmetic skills. And the Government will intensify the effort to combat long-term unemployment by keeping close contact with persons with a particularly high risk of long-term unemployment. Specifically, unemployed persons are to be invited to an interview every month after the first welfare-to-work offer. Today, these interviews take place every three months.
 
 - Reform of early retirement pension and the inclusive  labour  market. The Government will open negotiations with the parties of the Folketing on an altogether novel regime regarding early retirement pension  and  flex  jobs.  The  goal  is  that  a  great  many  more  are  to  obtain  and  be  retained  in  ordinary employment and that much smaller numbers are to be granted early retirement pension and flex jobs. The Government will make a targeted effort to ensure that especially young people do not end as early retirees as a consequence of mental disorders that today can be treated to an increasing extent.
 
@@ -725,11 +745,11 @@ Besides  making  daily  life  easier  for  Danes,  innovation  in  relation  to 
 
 [[START OF PAGE 38]]
 
-that the Government published in autumn 2009, and is to be seen in association with the municipalities' right to offer provision of local government services. The right to offer provision of local government services  means  that  a  municipality  is  permitted  on  a  pilot  scheme  basis  to  bypass  applicable  central government  regulations  in  order  to  test  new  ways  of  doing  things.  The  Government  also  encourages municipalities and regions to formulate their own plans for how internal requirements and procedural rules can be reduced, whereby additional resources are transferred from paperwork to delivering citizenfocused service.
+that the Government published in autumn 2009, and is to be seen in association with the municipalities' right to offer provision of local government services. The right to offer provision of local government services  means  that  a  municipality  is  permitted  on  a  pilot  scheme  basis  to  bypass  applicable  central government  regulations  in  order  to  test  new  ways  of  doing  things.  The  Government  also  encourages municipalities and regions to formulate their own plans for how internal requirements and procedural rules can be reduced, whereby additional resources are transferred from paperwork to delivering citizen-focused service.
 
 - More freedom in public sector collective agreements. In connection with the collective bargaining in 2011 for the public sector, the Government wishes a simplification of the present collective agreement rules,  whereby  barriers  to  a  modern  management  and  human  resources  policy  can  be  removed  and  a better framework be created for the performance of tasks within local, regional and central government. In May 2010, the Wage Commission ( lønkommission ) will present its report to the collective agreement parties in the public sector with a view to having it incorporated as common background material during the  bargaining  in  2011.  The  Government  wishes  a  simplification  that  reduces  the  scope  of  central agreements,  so  as  to  allow  greater  room  for  local  agreements  between  employees  and  managers regarding labour regulations and local pay formation.
 
-- Public welfare technology. The Government will continue to promote the use of new technology and new methods of working in the delivery of citizen-focused services, so that employees in the service sectors  are  given  more  time  to  deliver  service  and  care.  As  part  of  the  Government's  Quality Improvement Reform, a total of DKK 3 billion has been allocated to a foundation for public welfare technology (PWT Foundation - Investments in Public Welfare Technology). The foundation is to cofinance investments in labour-saving technology and new working and organisational forms in the period 2009-2015. The funds will be distributed to specific projects in connection with agreements regarding the annual Finance and Appropriation Acts. Up to now, approx. DKK 650 million has been distributed to over 40 projects within, for example, care technology in the care service sector, robotics and automation technology, and communication technologies.
+- Public welfare technology. The Government will continue to promote the use of new technology and new methods of working in the delivery of citizen-focused services, so that employees in the service sectors  are  given  more  time  to  deliver  service  and  care.  As  part  of  the  Government's  Quality Improvement Reform, a total of DKK 3 billion has been allocated to a foundation for public welfare technology (PWT Foundation - Investments in Public Welfare Technology). The foundation is to co-finance investments in labour-saving technology and new working and organisational forms in the period 2009-2015. The funds will be distributed to specific projects in connection with agreements regarding the annual Finance and Appropriation Acts. Up to now, approx. DKK 650 million has been distributed to over 40 projects within, for example, care technology in the care service sector, robotics and automation technology, and communication technologies.
 
 - Public digitalisation. In  cooperation  with  municipalities  and  regions,  the  Government  will  generalise the  use  of  IT,  so  that  IT  technology  becomes  used  as  a  lever  for  new  work  procedures  within  the provision  of  citizen-focused  service  and  frees  public  sector  staff  from  having  to  perform  unnecessary routine  tasks.  The  focal  point  is  the  use  of  joint  public  sector  portals  for  citizens  ' borger.dk '  (The Citizen Portal) and ' virk.dk ' (The Business Portal), the new digital signature as well as the exchange of written  communication  via  the  digital  document  boxes  of  citizens  and  businesses.  In  addition,  the Government  will  increase  citizens'  use  of  digital  self-service,  whereby  citizens  themselves  enter  the information that the public authorities need to use in their case-handling, in the same way that this takes place  today,  for  example,  within  the  tax  area.  We  will  work  towards  raising  awareness  of  the  good examples  of  integrated,  digital  self-service,  which  has  been  introduced  and  is  continuously  being developed in several municipalities.
 
@@ -747,7 +767,7 @@ for expanding the portfolio of tasks undertaken by the existing central governme
 
 - Form of governance in the major cities. To supplement the local government reform, the Government will  also  normalise  the  form  of  governance  in  the  major  cities.  Today,  Copenhagen,  Århus,  Odense, Aalborg and Frederiksberg are able to choose between a magistracy system, an intermediate government system or a committee-less government system instead of the standard municipal committee government system.  From  several  quarters,  these  alternative  forms  of  governance  have  been  subjected  to  justified criticism. The Government will therefore adjust the Local Government Act ( Styrelsesloven ), so that after the  next  municipal  elections  the  major  cities  transfer  to  an  ordinary,  majority  rule-based  system  of governance. This means that as in the country's other municipalities, it will be clear who can be held accountable  for  the  political  results,  both  positive  and  less  positive.  In  the  same  connection,  the Government will evaluate the conditions for the leading politicians in parties that are unable to secure representation in the municipal councils, including their remuneration.
 
-'Away with red tape' plan ( Væk med bøvlet-plan ). The Government will carry out an extensive useroriented  screening  of  all  areas  where  the  citizen  encounters  the  system  -  e.g.  in  connection  with applications for government benefits, the issue of licences and permits, and control checks. The goal is better citizen-focused public service. Outdated and unnecessarily burdensome rules and regulations are to be eliminated. Complicated rules and procedures are to be simplified and, if possible, digitalised, and in general de minimis thresholds are to be introduced for when the public sector raises a claim against a citizen.  Based  on  the  results  of  the  screening,  the  Government  will  present  a  catalogue  of  specific proposals for reducing bureaucracy in a way that ensures better citizen-focused service. The efforts in this regard should be seen in the light of the steps already taken by the Government to launch ambitious efforts to reduce bureaucracy not only for businesses but also at local, regional and central government level. The Government will build on the positive lessons learned from incorporating the wishes of users and citizens regarding reduced levels of bureaucracy.
+'Away with red tape' plan ( Væk med bøvlet-plan ). The Government will carry out an extensive user-oriented  screening  of  all  areas  where  the  citizen  encounters  the  system  -  e.g.  in  connection  with applications for government benefits, the issue of licences and permits, and control checks. The goal is better citizen-focused public service. Outdated and unnecessarily burdensome rules and regulations are to be eliminated. Complicated rules and procedures are to be simplified and, if possible, digitalised, and in general de minimis thresholds are to be introduced for when the public sector raises a claim against a citizen.  Based  on  the  results  of  the  screening,  the  Government  will  present  a  catalogue  of  specific proposals for reducing bureaucracy in a way that ensures better citizen-focused service. The efforts in this regard should be seen in the light of the steps already taken by the Government to launch ambitious efforts to reduce bureaucracy not only for businesses but also at local, regional and central government level. The Government will build on the positive lessons learned from incorporating the wishes of users and citizens regarding reduced levels of bureaucracy.
 
 37
 
@@ -785,7 +805,7 @@ with NGOs that work towards promoting open societies, democracy and human rights
 
 - International climate cooperation. Denmark played an active role in the preparations and execution of the UN Climate Change Conference in Copenhagen in December 2009. The outcome of the conference was an agreement - the Copenhagen Accord - supported by the majority of the countries in the world to reduce  global  emissions  of  greenhouse  gases  that  will  enable  global  warming  to  be  limited  to  a maximum of two degrees. At the same time, agreement was reached that the world's wealthiest countries are to set aside substantial resources to enable the poor countries in the world to continue their economic development, at the same time as the emission of greenhouse gases is reduced. The Government will continue its active efforts within the climate sphere, also within the remit of the COP15 presidency in the period leading up to the climate change conference in Mexico in November 2010.
 
-- Stability and peace. The Government has taken the lead in the efforts to promote stability and peace in Afghanistan. It is a difficult task, where Danish troops, police officers, diplomats and civilian advisers each day make a huge effort under difficult conditions, and where tangible progress is fortunately being made. The increased international engagement creates the possibility for Afghanistan to gradually take over responsibility for its own security. Consequently and in parallel with gradually bringing home our troops from the fighting in Afghanistan, the Danish Armed Forces will increasingly be able to contribute to peace-support operations elsewhere in the world under UN, NATO and, the day that the defence optout in the EU is lifted, EU mandate. In light of the lessons learned from, for example, Afghanistan, we will enhance our ability to integrate the civilian and military operations in conflict areas.
+- Stability and peace. The Government has taken the lead in the efforts to promote stability and peace in Afghanistan. It is a difficult task, where Danish troops, police officers, diplomats and civilian advisers each day make a huge effort under difficult conditions, and where tangible progress is fortunately being made. The increased international engagement creates the possibility for Afghanistan to gradually take over responsibility for its own security. Consequently and in parallel with gradually bringing home our troops from the fighting in Afghanistan, the Danish Armed Forces will increasingly be able to contribute to peace-support operations elsewhere in the world under UN, NATO and, the day that the defence opt-out in the EU is lifted, EU mandate. In light of the lessons learned from, for example, Afghanistan, we will enhance our ability to integrate the civilian and military operations in conflict areas.
 
 - A  modern  defence. The  Government  recently  concluded  a  defence  agreement  that  strengthens  the development of a modern defence force that can be deployed in international operations. The goal is to be able to deploy capabilities corresponding to up to 2,000 troops in international missions. The Danish Defence Agreement entails that we inject additional resources into the Danish armed forces and at the same time focus on further preparing the armed forces for the new tasks and assignments, including with respect to investments in new equipment. Military service is to be retained.
 
