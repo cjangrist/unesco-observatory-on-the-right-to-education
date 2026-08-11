@@ -843,7 +843,7 @@ El personal docente disfrutará de vacaciones remuneradas, según sus años de s
 
 1) De cinco (5) a diez (10) años de servicio: Diez (10) días remunerados;
 
-- De diez (10) años un (1) día a quince (15) años de servicio: Quince (15) días remunerados;
+2) De diez (10) años un (1) día a quince (15) años de servicio: Quince (15) días remunerados;
 
 3)  De  quince  (15)  años  un  (1)  día  a  veinte  (20)  años  de  servicio:  Veinte  (20)  días remunerados;
 
@@ -1234,7 +1234,7 @@ La  aplicación  del  Artículo  50  de  la  presente  Ley  será  escalonada  s
 ##### ARTICULO  86
 Para  el  cálculo  del  sueldo  base  de  los  docentes  laborantes  en  el  nivel primario, a través de procedimientos del valor por hora clase, se establece la tabla siguiente:
 
-AÑO | VALOR HORA | # CLASES | SUELDO BASE CLASE MENSUALES
+AÑO | VALOR HORA CLASE | # CLASES MENSUALES | SUELDO BASE
 --- | --- | --- | ---
 1998 | Lps. 13.57 | 156 | Lps. 2,116.92
 1999 | Lps. 16.15 | 156 | Lps. 2,519.40
