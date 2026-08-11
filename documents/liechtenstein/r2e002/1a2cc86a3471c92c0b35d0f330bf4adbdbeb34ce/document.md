@@ -22,17 +22,12 @@ Dem nachstehenden vom Landtag gefassten Beschluss erteile Ich Meine Zustimmung: 
 
 ###### Ziele
 
-- Dieses Gesetz soll dazu beitragen, dass:
-
-- positive Lebensbedingungen für Kinder und Jugendliche und deren Familien sowie eine kinder-, jugend- und familienfreundliche Umwelt erhalten bleiben oder geschaffen werden;
-
-- Kinder und Jugendliche psychisch und körperlich gesund aufwachsen und sich zu eigenverantwortlichen und gemeinschaftsfähigen Persönlichkeiten entwickeln sowie sich am gesellschaftlichen Leben aktiv beteiligen können;
-
-- die Integration von Kindern und Jugendlichen sowie das interkulturelle Verständnis gefördert werden;
-
-- Kinder und Jugendliche sowie deren Familien individuelle und kollektive Benachteiligungen überwinden können und soziale Ungleichheiten bei Kindern und Jugendlichen ausgeglichen werden;
-
-- Kinder und Jugendliche insbesondere aufgrund einer Behinderung, ihres Geschlechtes, ihrer sozialen oder ethnischen Herkunft, ihrer Hautfarbe, ihrer Sprache, ihrer Religion oder ihrer Weltanschauung weder persön-
+1) Dieses Gesetz soll dazu beitragen, dass:
+a) positive Lebensbedingungen für Kinder und Jugendliche und deren Familien sowie eine kinder-, jugend- und familienfreundliche Umwelt erhalten bleiben oder geschaffen werden;
+b) Kinder und Jugendliche psychisch und körperlich gesund aufwachsen und sich zu eigenverantwortlichen und gemeinschaftsfähigen Persönlichkeiten entwickeln sowie sich am gesellschaftlichen Leben aktiv beteiligen können;
+c) die Integration von Kindern und Jugendlichen sowie das interkulturelle Verständnis gefördert werden;
+d) Kinder und Jugendliche sowie deren Familien individuelle und kollektive Benachteiligungen überwinden können und soziale Ungleichheiten bei Kindern und Jugendlichen ausgeglichen werden;
+e) Kinder und Jugendliche insbesondere aufgrund einer Behinderung, ihres Geschlechtes, ihrer sozialen oder ethnischen Herkunft, ihrer Hautfarbe, ihrer Sprache, ihrer Religion oder ihrer Weltanschauung weder persön-
 
 Fassung: 01.01.2017
 
@@ -46,29 +41,24 @@ Fassung: 01.01.2017
 
 KJG
 
-- lich noch bei der Einbindung in das soziale, politische und kulturelle Leben, benachteiligt werden;
-
-- die Erziehung zur Achtung der Menschenrechte, zu Toleranz und gesellschaftlichem Verantwortungsbewusstsein in einem demokratischen Rechtsstaat unterstützt wird;
-
-- die Rechte von Kindern und Jugendlichen im Sinne des Übereinkommens vom 20. November 1989 über die Rechte des Kindes geschützt und gefördert werden.
-
-- Die Werthaltungen, die in den Zielen zum Ausdruck kommen, sind Leitlinien und Richtschnur für das Handeln derjenigen Personen, die im Rahmen dieses Gesetzes beruflich Aufgaben zu erfüllen haben.
+lich noch bei der Einbindung in das soziale, politische und kulturelle Leben, benachteiligt werden;
+f) die Erziehung zur Achtung der Menschenrechte, zu Toleranz und gesellschaftlichem Verantwortungsbewusstsein in einem demokratischen Rechtsstaat unterstützt wird;
+g) die Rechte von Kindern und Jugendlichen im Sinne des Übereinkommens vom 20. November 1989 über die Rechte des Kindes geschützt und gefördert werden.
+2) Die Werthaltungen, die in den Zielen zum Ausdruck kommen, sind Leitlinien und Richtschnur für das Handeln derjenigen Personen, die im Rahmen dieses Gesetzes beruflich Aufgaben zu erfüllen haben.
 
 ##### Art. 2
 
 ###### Zweck, Grundsätze
 
-- Kinder und Jugendliche werden nach den Bestimmungen dieses Gesetzes und der dazu erlassenen Verordnungen in ihrer psychischen, gesundheitlichen, ethischen, sozialen und kulturellen Entwicklung unterstützt. Sie haben Anspruch auf Hilfe, Schutz und Förderung sowie Berücksichtigung ihrer Interessen im Sinne der nachfolgenden Kapitel. Dies gilt auch für junge Erwachsene, soweit dies gesetzlich ausdrücklich vorgesehen ist.
-
-- In erster Linie tragen die Eltern als Erziehungsberechtigte die Verantwortung für ihre Kinder und Jugendlichen. Weiteren Erziehungsberechtigten und anderen Erwachsenen kommt im Rahmen ihrer jeweiligen Pflichten die Verantwortung für die Erziehung, Betreuung, Aufsicht oder Sicherheit von Kindern und Jugendlichen zu.
-
-- Familien sowie weitere Personen und Institutionen, die Erziehungsund Betreuungsaufgaben oder Aufsichtsfunktionen wahrnehmen, werden nach den Bestimmungen dieses Gesetzes und der dazu erlassenen Verordnungen unterstützt.
+1) Kinder und Jugendliche werden nach den Bestimmungen dieses Gesetzes und der dazu erlassenen Verordnungen in ihrer psychischen, gesundheitlichen, ethischen, sozialen und kulturellen Entwicklung unterstützt. Sie haben Anspruch auf Hilfe, Schutz und Förderung sowie Berücksichtigung ihrer Interessen im Sinne der nachfolgenden Kapitel. Dies gilt auch für junge Erwachsene, soweit dies gesetzlich ausdrücklich vorgesehen ist.
+2) In erster Linie tragen die Eltern als Erziehungsberechtigte die Verantwortung für ihre Kinder und Jugendlichen. Weiteren Erziehungsberechtigten und anderen Erwachsenen kommt im Rahmen ihrer jeweiligen Pflichten die Verantwortung für die Erziehung, Betreuung, Aufsicht oder Sicherheit von Kindern und Jugendlichen zu.
+3) Familien sowie weitere Personen und Institutionen, die Erziehungs- und Betreuungsaufgaben oder Aufsichtsfunktionen wahrnehmen, werden nach den Bestimmungen dieses Gesetzes und der dazu erlassenen Verordnungen unterstützt.
 
 ##### Art. 3
 
 ###### Rechte von Kindern und Jugendlichen
 
-- Kinder und Jugendliche haben entsprechend dem Übereinkommen vom 20. November 1989 über die Rechte des Kindes nach Massgabe der Kapitel II bis VI dieses Gesetzes das Recht:
+1) Kinder und Jugendliche haben entsprechend dem Übereinkommen vom 20. November 1989 über die Rechte des Kindes nach Massgabe der Kapitel II bis VI dieses Gesetzes das Recht:
 
 2
 
@@ -82,31 +72,22 @@ KJG
 
 852.0
 
-- in ihrer Unversehrtheit geschützt zu werden, insbesondere vor Diskriminierung, Vernachlässigung, Verwahrlosung, sexuellem Missbrauch und Gewalt;
-
-- auf gewaltfreie Erziehung; körperliche Bestrafungen, seelische Verletzungen und andere entwürdigende Massnahmen sind unzulässig;
-
-- in sozialen, politischen, wirtschaftlichen und kulturellen Angelegenheiten, die sie besonders betreffen, mitzureden, mitzuwirken und mitzubestimmen sowie am gesellschaftlichen Leben in altersgerechter Weise teilzunehmen;
-
-- bei sie betreffenden Entscheidungen angehört zu werden, soweit sie fähig sind, ihre eigene Meinung zu äussern, und auf Berücksichtigung ihrer Meinung entsprechend ihrem Alter und ihrer Reife; dies gilt insbesondere in Gerichts- und Verwaltungsverfahren;
-
-- dass ihr Wohl bei allen sie aufgrund dieses Gesetzes oder der dazu erlassenen Verordnungen betreffenden Massnahmen vorrangig berücksichtigt wird.
-
-- Kinder und Jugendliche können sich an die Ombudsperson wenden, wenn sie der Meinung sind, dass ihre Rechte verletzt sind.
+a) in ihrer Unversehrtheit geschützt zu werden, insbesondere vor Diskriminierung, Vernachlässigung, Verwahrlosung, sexuellem Missbrauch und Gewalt;
+b) auf gewaltfreie Erziehung; körperliche Bestrafungen, seelische Verletzungen und andere entwürdigende Massnahmen sind unzulässig;
+c) in sozialen, politischen, wirtschaftlichen und kulturellen Angelegenheiten, die sie besonders betreffen, mitzureden, mitzuwirken und mitzubestimmen sowie am gesellschaftlichen Leben in altersgerechter Weise teilzunehmen;
+d) bei sie betreffenden Entscheidungen angehört zu werden, soweit sie fähig sind, ihre eigene Meinung zu äussern, und auf Berücksichtigung ihrer Meinung entsprechend ihrem Alter und ihrer Reife; dies gilt insbesondere in Gerichts- und Verwaltungsverfahren;
+e) dass ihr Wohl bei allen sie aufgrund dieses Gesetzes oder der dazu erlassenen Verordnungen betreffenden Massnahmen vorrangig berücksichtigt wird.
+2) Kinder und Jugendliche können sich an die Ombudsperson wenden, wenn sie der Meinung sind, dass ihre Rechte verletzt sind.
 
 ##### Art. 4
 
 ###### Allgemeine Aufgaben der Kinder- und Jugendbehörde
 
 Das Amt für Soziale Dienste ist die Kinder- und Jugendbehörde und hat im Rahmen dieses Gesetzes insbesondere:
-
-- die Interessen von Kindern und Jugendlichen und, soweit es ausdrücklich vorgesehen ist, von jungen Erwachsenen wahrzunehmen;
-
-- die Bevölkerung über Kinder- und Jugendfragen zu informieren;
-
-- durch Planung und Entwicklung dafür zu sorgen, dass ein bedarfsgerechtes Angebot an Dienstleistungen zur Sicherstellung der psychosozialen Versorgung von Kindern und Jugendlichen sowie ein leicht zugängliches Angebot für Eltern zur pädagogischen Unterstützung und Beratung zur Verfügung steht;
-
-- die psychosozialen Dienstleistungen der privaten und öffentlichen Institutionen der Kinder- und Jugendhilfe und der Kinder- und Jugendarbeit zu koordinieren sowie unter Berücksichtigung anderer privater und öffentlicher Angebote für Kinder und Jugendliche für die Abstimmung der verschiedenen Dienstleistungen zu sorgen;
+a) die Interessen von Kindern und Jugendlichen und, soweit es ausdrücklich vorgesehen ist, von jungen Erwachsenen wahrzunehmen;
+b) die Bevölkerung über Kinder- und Jugendfragen zu informieren;
+c) durch Planung und Entwicklung dafür zu sorgen, dass ein bedarfsgerechtes Angebot an Dienstleistungen zur Sicherstellung der psychosozialen Versorgung von Kindern und Jugendlichen sowie ein leicht zugängliches Angebot für Eltern zur pädagogischen Unterstützung und Beratung zur Verfügung steht;
+d) die psychosozialen Dienstleistungen der privaten und öffentlichen Institutionen der Kinder- und Jugendhilfe und der Kinder- und Jugendarbeit zu koordinieren sowie unter Berücksichtigung anderer privater und öffentlicher Angebote für Kinder und Jugendliche für die Abstimmung der verschiedenen Dienstleistungen zu sorgen;
 
 Fassung: 01.01.2017
 
@@ -120,33 +101,23 @@ Fassung: 01.01.2017
 
 KJG
 
-- den regionalen und internationalen Austausch und die Zusammenarbeit im Kinder- und Jugendbereich zu fördern;
-
-- die nationalen und internationalen Entwicklungen im Kinderund Jugendbereich zu beobachten und zu analysieren sowie darüber Berichte und Studien zu erstellen und zu veröffentlichen;
-
-- Projekte, Veranstaltungen und Kampagnen, insbesondere mit präventiver Zielsetzung, durchzuführen;
-
-- die Regierung in Kinder- und Jugendfragen zu beraten.
+e) den regionalen und internationalen Austausch und die Zusammenarbeit im Kinder- und Jugendbereich zu fördern;
+f) die nationalen und internationalen Entwicklungen im Kinder- und Jugendbereich zu beobachten und zu analysieren sowie darüber Berichte und Studien zu erstellen und zu veröffentlichen;
+g) Projekte, Veranstaltungen und Kampagnen, insbesondere mit präventiver Zielsetzung, durchzuführen;
+h) die Regierung in Kinder- und Jugendfragen zu beraten.
 
 ##### Art. 5
 
 ###### Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes bedeuten:
-
-- Kinder: Personen, die das 14. Lebensjahr noch nicht vollendet haben;
-
-- Jugendliche: Personen, die das 14., aber noch nicht das 18. Lebensjahr vollendet haben;
-
-- junge Erwachsene: Personen, die das 18., aber noch nicht das 25. Lebensjahr vollendet haben;
-
-- junge Menschen: Kinder, Jugendliche und junge Erwachsene;
-
-- Erziehungsberechtigte und erziehungsberechtigte Person: wer nach dem ABGB erziehungsberechtigt ist;
-
-- private Erziehung: Erziehung durch die Erziehungsberechtigten oder durch Personen, denen von den Erziehungsberechtigten die Erziehung vorübergehend übertragen wird;
-
-- öffentliche Erziehung: formale Erziehung in öffentlichen oder privaten Bildungseinrichtungen sowie informelle Erziehung wie sie in der Gesellschaft stattfindet.
+a) Kinder: Personen, die das 14. Lebensjahr noch nicht vollendet haben;
+b) Jugendliche: Personen, die das 14., aber noch nicht das 18. Lebensjahr vollendet haben;
+c) junge Erwachsene: Personen, die das 18., aber noch nicht das 25. Lebensjahr vollendet haben;
+d) junge Menschen: Kinder, Jugendliche und junge Erwachsene;
+e) Erziehungsberechtigte und erziehungsberechtigte Person: wer nach dem ABGB erziehungsberechtigt ist;
+f) private Erziehung: Erziehung durch die Erziehungsberechtigten oder durch Personen, denen von den Erziehungsberechtigten die Erziehung vorübergehend übertragen wird;
+g) öffentliche Erziehung: formale Erziehung in öffentlichen oder privaten Bildungseinrichtungen sowie informelle Erziehung wie sie in der Gesellschaft stattfindet.
 
 ## II. Kinder- und Jugendhilfe
 
@@ -170,43 +141,28 @@ KJG
 
 852.0
 
-- der Entfaltung der Persönlichkeit von Kindern und Jugendlichen in psychischer und körperlicher Gesundheit sowie der Förderung deren gedeihlichen Entwicklung und Sozialisation;
-
-- der Integration von Kindern und Jugendlichen in sprachlicher, sozialer, kultureller und gesellschaftlicher Hinsicht;
-
-- von Kindern und Jugendlichen und deren Bezugspersonen in Belangen des familiären und sozialen Umfeldes, der Bildung und Ausbildung, des Arbeitsplatzes sowie in weiteren für das Wohl von Kindern und Jugendlichen massgeblichen Belangen;
-
-- von jungen Erwachsenen, insbesondere bei ihrer Verselbständigung;
-
-- der privaten Erziehung, insbesondere von Eltern und anderen Erziehungsberechtigten bei ihren Erziehungsaufgaben;
-
-- der öffentlichen Erziehung, insbesondere der Schulen, sofern diese der Ergänzung bedürfen;
-
-- von Familien mit Kindern und Jugendlichen zur besseren Vereinbarkeit von Familie und Beruf sowie bei besonderen Belastungen;
-
-- des gewaltfreien Umgangs mit und unter Kindern und Jugendlichen in der Familie und in der Gesellschaft.
+a) der Entfaltung der Persönlichkeit von Kindern und Jugendlichen in psychischer und körperlicher Gesundheit sowie der Förderung deren gedeihlichen Entwicklung und Sozialisation;
+b) der Integration von Kindern und Jugendlichen in sprachlicher, sozialer, kultureller und gesellschaftlicher Hinsicht;
+c) von Kindern und Jugendlichen und deren Bezugspersonen in Belangen des familiären und sozialen Umfeldes, der Bildung und Ausbildung, des Arbeitsplatzes sowie in weiteren für das Wohl von Kindern und Jugendlichen massgeblichen Belangen;
+d) von jungen Erwachsenen, insbesondere bei ihrer Verselbständigung;
+e) der privaten Erziehung, insbesondere von Eltern und anderen Erziehungsberechtigten bei ihren Erziehungsaufgaben;
+f) der öffentlichen Erziehung, insbesondere der Schulen, sofern diese der Ergänzung bedürfen;
+g) von Familien mit Kindern und Jugendlichen zur besseren Vereinbarkeit von Familie und Beruf sowie bei besonderen Belastungen;
+h) des gewaltfreien Umgangs mit und unter Kindern und Jugendlichen in der Familie und in der Gesellschaft.
 
 ##### Art. 7
 
 ###### Anwendungsbereich
 
 Die Kinder- und Jugendhilfe kommt zur Anwendung insbesondere bei:
-
-- Erziehungsschwierigkeiten, Problemen und Krisen in der Familie;
-
-- Trennung und Scheidung sowie Obsorge- und Besuchrechtsregelungen;
-
-- sozialen Auffälligkeiten, Verhaltensauffälligkeiten, psychischen Störungen, bei Entwicklungsstörungen sowie körperlicher und geistiger Behinderung von Kindern und Jugendlichen;
-
-- Suchtgefährdung und Suchterkrankung von Kindern und Jugendlichen;
-
-- Arbeitslosigkeit, Problemen am Arbeitsplatz und in der Ausbildung von Jugendlichen oder Problemen in der Schule;
-
-- Anwendung von Gewalt, körperlicher oder psychischer Misshandlung, sexuellem Missbrauch oder anderen sexuellen Übergriffen gegenüber Kindern und Jugendlichen;
-
-- Ausreissen und Trebegehen von Kindern und Jugendlichen;
-
-- Vernachlässigung oder Verwahrlosung von Kindern und Jugendlichen;
+a) Erziehungsschwierigkeiten, Problemen und Krisen in der Familie;
+b) Trennung und Scheidung sowie Obsorge- und Besuchrechtsregelungen;
+c) sozialen Auffälligkeiten, Verhaltensauffälligkeiten, psychischen Störungen, bei Entwicklungsstörungen sowie körperlicher und geistiger Behinderung von Kindern und Jugendlichen;
+d) Suchtgefährdung und Suchterkrankung von Kindern und Jugendlichen;
+e) Arbeitslosigkeit, Problemen am Arbeitsplatz und in der Ausbildung von Jugendlichen oder Problemen in der Schule;
+f) Anwendung von Gewalt, körperlicher oder psychischer Misshandlung, sexuellem Missbrauch oder anderen sexuellen Übergriffen gegenüber Kindern und Jugendlichen;
+g) Ausreissen und Trebegehen von Kindern und Jugendlichen;
+h) Vernachlässigung oder Verwahrlosung von Kindern und Jugendlichen;
 
 Fassung: 01.01.2017
 
@@ -220,19 +176,13 @@ Fassung: 01.01.2017
 
 KJG
 
-- Unterbringungen von Kindern und Jugendlichen;
-
-- ausserhäuslicher Betreuung und Pflege von Kindern und Jugendlichen;
-
-- Adoptionen von Kindern und Jugendlichen aus dem In- und Ausland;
-
-- Dissozialität und Straffälligkeit von Kindern und Jugendlichen;
-
-- Durchsetzung von Unterhaltsansprüchen und Unterhaltsvereinbarungen;
-
-- Feststellung und Anerkennung von Vaterschaften;
-
-- Schwangerschaft von Kindern und Jugendlichen.
+i) Unterbringungen von Kindern und Jugendlichen;
+k) ausserhäuslicher Betreuung und Pflege von Kindern und Jugendlichen;
+l) Adoptionen von Kindern und Jugendlichen aus dem In- und Ausland;
+m) Dissozialität und Straffälligkeit von Kindern und Jugendlichen;
+n) Durchsetzung von Unterhaltsansprüchen und Unterhaltsvereinbarungen;
+o) Feststellung und Anerkennung von Vaterschaften;
+p) Schwangerschaft von Kindern und Jugendlichen.
 
 ##### Art. 8
 
@@ -244,11 +194,9 @@ Die Kinder- und Jugendhilfe umfasst Leistungen insbesondere in psychologischer, 
 
 ###### Durchführung
 
-- Die Durchführung der Kinder- und Jugendhilfe obliegt, vorbehaltlich der Zuständigkeiten des Landgerichts nach Art. 24 Abs. 4, Art. 27 und 28 Abs. 3, dem Amt für Soziale Dienste. Es nimmt dabei die Aufgaben aufgrund dieses Gesetzes, der dazu erlassenen Verordnungen sowie anderer gesetzlicher Bestimmungen wahr und leistet Amtshilfe für inländische und ausländische Gerichte und Behörden.
-
-- Private Einrichtungen können nach Massgabe des Art. 57 zur Mitwirkung in der Kinder- und Jugendhilfe herangezogen werden. Das Amt für Soziale Dienste kann im Einzelfall andere Facheinrichtungen, Fachpersonen und Privatpersonen mit der Erbringung von Hilfen nach Abschnitt B beauftragen sowie Aufträge an Organisationen und Einzelpersonen nach Art. 59 vergeben.
-
-- Die an der Durchführung der Kinder- und Jugendhilfe beteiligten Fachpersonen orientieren sich am anerkannten Stand der wissenschaftlichen Entwicklung und handeln fachlich begründet.
+1) Die Durchführung der Kinder- und Jugendhilfe obliegt, vorbehaltlich der Zuständigkeiten des Landgerichts nach Art. 24 Abs. 4, Art. 27 und 28 Abs. 3, dem Amt für Soziale Dienste. Es nimmt dabei die Aufgaben aufgrund dieses Gesetzes, der dazu erlassenen Verordnungen sowie anderer gesetzlicher Bestimmungen wahr und leistet Amtshilfe für inländische und ausländische Gerichte und Behörden.
+2) Private Einrichtungen können nach Massgabe des Art. 57 zur Mitwirkung in der Kinder- und Jugendhilfe herangezogen werden. Das Amt für Soziale Dienste kann im Einzelfall andere Facheinrichtungen, Fachpersonen und Privatpersonen mit der Erbringung von Hilfen nach Abschnitt B beauftragen sowie Aufträge an Organisationen und Einzelpersonen nach Art. 59 vergeben.
+3) Die an der Durchführung der Kinder- und Jugendhilfe beteiligten Fachpersonen orientieren sich am anerkannten Stand der wissenschaftlichen Entwicklung und handeln fachlich begründet.
 
 6
 
@@ -266,25 +214,19 @@ KJG
 
 ###### Verschwiegenheitspflichten
 
-- Die in anerkannten privaten Einrichtungen der Kinder- und Jugendhilfe tätigen Personen sowie die im Einzelfall beauftragten Fachpersonen sind zur Verschwiegenheit über alle ihnen aus dieser Tätigkeit bekannt gewordenen Tatsachen, an deren Geheimhaltung ein schutzwürdiges Interesse einer Person besteht, verpflichtet.
-
-- Sie dürfen vertrauliche Informationen nur in Erfüllung einer ausdrücklichen gesetzlichen Pflicht oder aufgrund einer Ermächtigung der Berechtigten preisgeben.
-
-- Die Verschwiegenheitspflicht besteht nicht gegenüber anderen in der Kinder- und Jugendhilfe tätigen Personen im Rahmen der fachlich erforderlichen Zusammenarbeit.
+1) Die in anerkannten privaten Einrichtungen der Kinder- und Jugendhilfe tätigen Personen sowie die im Einzelfall beauftragten Fachpersonen sind zur Verschwiegenheit über alle ihnen aus dieser Tätigkeit bekannt gewordenen Tatsachen, an deren Geheimhaltung ein schutzwürdiges Interesse einer Person besteht, verpflichtet.
+2) Sie dürfen vertrauliche Informationen nur in Erfüllung einer ausdrücklichen gesetzlichen Pflicht oder aufgrund einer Ermächtigung der Berechtigten preisgeben.
+3) Die Verschwiegenheitspflicht besteht nicht gegenüber anderen in der Kinder- und Jugendhilfe tätigen Personen im Rahmen der fachlich erforderlichen Zusammenarbeit.
 
 ##### Art. 11
 
 ###### Anspruchsberechtigung
 
-- Kinder und Jugendliche, deren Eltern sowie weitere Bezugspersonen haben Anspruch auf Hilfen nach Abschnitt B. Es können sowohl die Dienstleistungen des Amtes für Soziale Dienste als auch der privaten Einrichtungen der Kinderund Jugendhilfe im Rahmen ihrer jeweiligen Zuständigkeit in Anspruch genommen werden.
-
-- Junge Erwachsene haben Anspruch auf Hilfen nach Abschnitt B, wenn:
-
-- eine Hilfe bereits vor Vollendung des 18. Lebensjahres geleistet wurde und die Fortsetzung der bisher erbrachten Leistung erforderlich ist;
-
-- sie noch nicht selbsterhaltungsfähig sind oder besondere Lebensumstände vorliegen, die eine Erbringung von Hilfen zur Verselbständigung erforderlich und zielführend erscheinen lassen; für Personen, die einen dauerhaften Erwerb erzielt und dadurch Arbeitslosenansprüche erworben haben, ist das Sozialhilfegesetz anzuwenden.
-
-- Kinder und Jugendliche können sich auch ohne Kenntnis der Erziehungsberechtigten an das Amt für Soziale Dienste wenden und sich von ihm beraten lassen, wenn die Beratung aufgrund einer Not- oder Konfliktlage erforderlich ist und solange durch die Mitteilung an die Erziehungsberechtigten der Beratungszweck verhindert würde.
+1) Kinder und Jugendliche, deren Eltern sowie weitere Bezugspersonen haben Anspruch auf Hilfen nach Abschnitt B. Es können sowohl die Dienstleistungen des Amtes für Soziale Dienste als auch der privaten Einrichtungen der Kinder- und Jugendhilfe im Rahmen ihrer jeweiligen Zuständigkeit in Anspruch genommen werden.
+2) Junge Erwachsene haben Anspruch auf Hilfen nach Abschnitt B, wenn:
+a) eine Hilfe bereits vor Vollendung des 18. Lebensjahres geleistet wurde und die Fortsetzung der bisher erbrachten Leistung erforderlich ist;
+b) sie noch nicht selbsterhaltungsfähig sind oder besondere Lebensumstände vorliegen, die eine Erbringung von Hilfen zur Verselbständigung erforderlich und zielführend erscheinen lassen; für Personen, die einen dauerhaften Erwerb erzielt und dadurch Arbeitslosenansprüche erworben haben, ist das Sozialhilfegesetz anzuwenden.
+3) Kinder und Jugendliche können sich auch ohne Kenntnis der Erziehungsberechtigten an das Amt für Soziale Dienste wenden und sich von ihm beraten lassen, wenn die Beratung aufgrund einer Not- oder Konfliktlage erforderlich ist und solange durch die Mitteilung an die Erziehungsberechtigten der Beratungszweck verhindert würde.
 
 Fassung: 01.01.2017
 
@@ -298,19 +240,16 @@ Fassung: 01.01.2017
 
 KJG
 
-- Kinder und Jugendliche, deren Wohl gefährdet ist oder geschädigt wird, haben Anspruch darauf, dass das Amt für Soziale Dienste von sich aus behördliche Massnahmen gemäss Abschnitt C ergreift und die erforderlichen Hilfen leistet.
-
-- Kinder und Jugendliche, die eine mit Strafe bedrohte Handlung begangen haben, haben Anspruch darauf, dass sie vom Amt für Soziale Dienste gemäss Abschnitt D unterstützt werden.
+4) Kinder und Jugendliche, deren Wohl gefährdet ist oder geschädigt wird, haben Anspruch darauf, dass das Amt für Soziale Dienste von sich aus behördliche Massnahmen gemäss Abschnitt C ergreift und die erforderlichen Hilfen leistet.
+5) Kinder und Jugendliche, die eine mit Strafe bedrohte Handlung begangen haben, haben Anspruch darauf, dass sie vom Amt für Soziale Dienste gemäss Abschnitt D unterstützt werden.
 
 ##### Art. 12
 
 ###### Mitwirkung der Betroffenen
 
-- Die in der Kinder- und Jugendhilfe tätigen Fachpersonen streben eine Zusammenarbeit mit den Erziehungsberechtigten und Bezugspersonen sowie den altersgerechten aktiven Einbezug von Kindern und Jugendlichen an.
-
-- Personen, für die Leistungen der Kinder- und Jugendhilfe erbracht werden, sind zur Mitwirkung verpflichtet.
-
-- Die Wünsche der Erziehungsberechtigten zur Gestaltung der Kinderund Jugendhilfe werden berücksichtigt, soweit sie angemessen sind und keine unvertretbaren Mehrkosten verursachen.
+1) Die in der Kinder- und Jugendhilfe tätigen Fachpersonen streben eine Zusammenarbeit mit den Erziehungsberechtigten und Bezugspersonen sowie den altersgerechten aktiven Einbezug von Kindern und Jugendlichen an.
+2) Personen, für die Leistungen der Kinder- und Jugendhilfe erbracht werden, sind zur Mitwirkung verpflichtet.
+3) Die Wünsche der Erziehungsberechtigten zur Gestaltung der Kinder- und Jugendhilfe werden berücksichtigt, soweit sie angemessen sind und keine unvertretbaren Mehrkosten verursachen.
 
 ### B. Hilfen
 
@@ -318,15 +257,14 @@ KJG
 
 ###### Information und Prävention
 
-- Im Rahmen der Kinder- und Jugendhilfe werden sowohl Ratsuchende als auch die Öffentlichkeit über Belange von Kindern, Jugendlichen und Familien, insbesondere über allgemeine Fragen der Erziehung und der Entwicklung von Kindern und Jugendlichen, informiert.
-
-- Zur gedeihlichen Entwicklung von Kindern und Jugendlichen und zur Reduzierung von Entwicklungsrisiken werden präventive Hilfen geleistet.
+1) Im Rahmen der Kinder- und Jugendhilfe werden sowohl Ratsuchende als auch die Öffentlichkeit über Belange von Kindern, Jugendlichen und Familien, insbesondere über allgemeine Fragen der Erziehung und der Entwicklung von Kindern und Jugendlichen, informiert.
+2) Zur gedeihlichen Entwicklung von Kindern und Jugendlichen und zur Reduzierung von Entwicklungsrisiken werden präventive Hilfen geleistet.
 
 ##### Art. 14
 
 ###### Beratung, Betreuung, Abklärung und Therapie
 
-- Bei Bedarf erhalten Kinder, Jugendliche und deren Familien sowie weitere Bezugspersonen Beratung, Betreuung, Abklärung und Therapie
+1) Bei Bedarf erhalten Kinder, Jugendliche und deren Familien sowie weitere Bezugspersonen Beratung, Betreuung, Abklärung und Therapie
 
 8
 
@@ -342,25 +280,19 @@ KJG
 
 durch die entsprechenden in der Kinder- und Jugendhilfe tätigen Fachpersonen.
 
-- Zum Zweck der Beratung, Betreuung, Abklärung und Therapie können Kinder und Jugendliche auch in geeigneten Einrichtungen untergebracht werden, insbesondere:
-
-- in einer anerkannten privaten Einrichtung der Kinder- und Jugendhilfe;
-
-- in einer anderen pädagogisch-therapeutischen Einrichtung; oder
-
-- in einer kinder- und jugendpsychiatrischen oder anderen medizinischen Einrichtung.
+2) Zum Zweck der Beratung, Betreuung, Abklärung und Therapie können Kinder und Jugendliche auch in geeigneten Einrichtungen untergebracht werden, insbesondere:
+a) in einer anerkannten privaten Einrichtung der Kinder- und Jugendhilfe;
+b) in einer anderen pädagogisch-therapeutischen Einrichtung; oder
+c) in einer kinder- und jugendpsychiatrischen oder anderen medizinischen Einrichtung.
 
 ##### Art. 15
 
 ###### Sonderhilfen
 
 Bei Bedarf werden:
-
-- über Art. 14 hinausgehende Hilfen, wie pädagogische Unterstützung, Förderung der psychischen und körperlichen Entwicklung, Entlastung bei schwierigen Umständen, gewährt;
-
-- Kinder und Jugendliche bei einer Pflegefamilie oder einer Pflegeperson untergebracht;
-
-- Kinder und Jugendliche in einer Tagesbetreuungseinrichtung oder in ähnlichen Einrichtungen, bei einer Tagesmutter oder einer anderen geeigneten Privatperson in Betreuung gegeben.
+a) über Art. 14 hinausgehende Hilfen, wie pädagogische Unterstützung, Förderung der psychischen und körperlichen Entwicklung, Entlastung bei schwierigen Umständen, gewährt;
+b) Kinder und Jugendliche bei einer Pflegefamilie oder einer Pflegeperson untergebracht;
+c) Kinder und Jugendliche in einer Tagesbetreuungseinrichtung oder in ähnlichen Einrichtungen, bei einer Tagesmutter oder einer anderen geeigneten Privatperson in Betreuung gegeben.
 
 ##### Art. 16
 
@@ -386,25 +318,19 @@ Fassung: 01.01.2017
 
 KJG
 
-- wenn der Unterhalt sowie weitere notwendige oder für eine normale Lebensführung und altersgemässe Entwicklung von Kindern und Jugendlichen übliche Aufwendungen von niemand anderem finanziert werden können;
-
-- für Jugendliche, die an einem Programm oder Projekt nach Art. 16 teilnehmen;
-
-- für junge Erwachsene, wenn die Voraussetzungen nach Art. 11 Abs. 2 Bst. b erfüllt sind;
-
-- für berufstätige Erziehungsberechtigte, die sich die Eigenbeiträge für die ausserhäusliche Tagesbetreuung eines Kindes, einer Jugendlichen oder eines Jugendlichen nicht oder nicht zur Gänze leisten können; das Nähere regelt die Regierung mit Verordnung;
-
-- zur Entlastung von Familien, die diese aufgrund besonderer Belastungen, beispielsweise aufgrund einer psychischen oder körperlichen Krankheit oder Behinderung eines Kindes, einer Jugendlichen oder eines Jugendlichen oder einer erziehungsberechtigten Person, benötigen.
+a) wenn der Unterhalt sowie weitere notwendige oder für eine normale Lebensführung und altersgemässe Entwicklung von Kindern und Jugendlichen übliche Aufwendungen von niemand anderem finanziert werden können;
+b) für Jugendliche, die an einem Programm oder Projekt nach Art. 16 teilnehmen;
+c) für junge Erwachsene, wenn die Voraussetzungen nach Art. 11 Abs. 2 Bst. b erfüllt sind;
+d) für berufstätige Erziehungsberechtigte, die sich die Eigenbeiträge für die ausserhäusliche Tagesbetreuung eines Kindes, einer Jugendlichen oder eines Jugendlichen nicht oder nicht zur Gänze leisten können; das Nähere regelt die Regierung mit Verordnung;
+e) zur Entlastung von Familien, die diese aufgrund besonderer Belastungen, beispielsweise aufgrund einer psychischen oder körperlichen Krankheit oder Behinderung eines Kindes, einer Jugendlichen oder eines Jugendlichen oder einer erziehungsberechtigten Person, benötigen.
 
 ##### Art. 18
 
 ###### Kostenbeteiligung und Kostentragung
 
-- Personen, die Hilfen im Rahmen der Kinderund Jugendhilfe erhalten, sind mit Ausnahme von Abs. 2 von einer Kostenbeteiligung befreit, sofern die Hilfen vom Amt für Soziale Dienste selbst erbracht oder von ihm angeordnet werden.
-
-- Die Eltern und andere Erziehungsberechtigte können an den Kosten für Unterbringungen oder Betreuungen nach Art. 14 Abs. 2 und Art. 15 Bst. b und c beteiligt werden. Die Eigenbeiträge sind so festzulegen, dass sich die Höhe der Kostenbeteiligung an den durch den stationären oder betreuungsbedingten Aufenthalt des Kindes, der Jugendlichen oder des Jugendlichen reduzierten Haushaltsaufwendungen orientiert. Bei einkommensschwachen Eltern und anderen Erziehungsberechtigten ist der Eigenbeitrag zu reduzieren oder ganz zu erlassen. Das Amt für Soziale Dienste legt die Eigenbeiträge fest und entscheidet über die Reduktion oder den Erlass im Einzelfall.
-
-- Für die nicht vom Amt für Soziale Dienste selbst erbrachten oder angeordneten Hilfen sind die Kosten grundsätzlich von den Personen zu tragen, die die Hilfen in Anspruch nehmen. Sofern sich Hilfsbedürftige eine angemessene und förderliche Hilfe nicht leisten können, kann sich das Amt für Soziale Dienste an den Kosten beteiligen.
+1) Personen, die Hilfen im Rahmen der Kinder- und Jugendhilfe erhalten, sind mit Ausnahme von Abs. 2 von einer Kostenbeteiligung befreit, sofern die Hilfen vom Amt für Soziale Dienste selbst erbracht oder von ihm angeordnet werden.
+2) Die Eltern und andere Erziehungsberechtigte können an den Kosten für Unterbringungen oder Betreuungen nach Art. 14 Abs. 2 und Art. 15 Bst. b und c beteiligt werden. Die Eigenbeiträge sind so festzulegen, dass sich die Höhe der Kostenbeteiligung an den durch den stationären oder betreuungsbedingten Aufenthalt des Kindes, der Jugendlichen oder des Jugendlichen reduzierten Haushaltsaufwendungen orientiert. Bei einkommensschwachen Eltern und anderen Erziehungsberechtigten ist der Eigenbeitrag zu reduzieren oder ganz zu erlassen. Das Amt für Soziale Dienste legt die Eigenbeiträge fest und entscheidet über die Reduktion oder den Erlass im Einzelfall.
+3) Für die nicht vom Amt für Soziale Dienste selbst erbrachten oder angeordneten Hilfen sind die Kosten grundsätzlich von den Personen zu tragen, die die Hilfen in Anspruch nehmen. Sofern sich Hilfsbedürftige eine angemessene und förderliche Hilfe nicht leisten können, kann sich das Amt für Soziale Dienste an den Kosten beteiligen.
 
 10
 
@@ -418,9 +344,8 @@ KJG
 
 852.0
 
-- Das Amt für Soziale Dienste trägt die Kosten für die von ihm angeordneten Hilfen, sofern keine gesetzliche Leistungspflicht anderer Kostenträger besteht.
-
-- Die anerkannten privaten Einrichtungen der Kinder- und Jugendhilfe übernehmen im Rahmen ihres Budgets die Kosten für die von ihnen gemäss Leistungsvertrag erbrachten Hilfen. Falls sie für die Erbringung einer Hilfe im Einzelfall zusätzliche finanzielle Mittel benötigen, entscheidet das Amt für Soziale Dienste über Art und Ausmass der Hilfe und trägt die Kosten gemäss Abs. 4.
+4) Das Amt für Soziale Dienste trägt die Kosten für die von ihm angeordneten Hilfen, sofern keine gesetzliche Leistungspflicht anderer Kostenträger besteht.
+5) Die anerkannten privaten Einrichtungen der Kinder- und Jugendhilfe übernehmen im Rahmen ihres Budgets die Kosten für die von ihnen gemäss Leistungsvertrag erbrachten Hilfen. Falls sie für die Erbringung einer Hilfe im Einzelfall zusätzliche finanzielle Mittel benötigen, entscheidet das Amt für Soziale Dienste über Art und Ausmass der Hilfe und trägt die Kosten gemäss Abs. 4.
 
 ### C. Massnahmen zur Sicherung des Wohles von Kindern und Jugendlichen
 
@@ -436,9 +361,8 @@ für Soziale Dienste, das Schulamt und andere Landesbehörden zur koordinierten 
 
 ###### Meldepflichten
 
-- Jede Person, die den begründeten Verdacht auf Vorliegen einer schwerwiegenden Verletzung oder Gefährdung des Wohles von Kindern und Jugendlichen oder Kenntnis davon hat, ist verpflichtet, dem Amt für Soziale Dienste Meldung zu erstatten. Schwerwiegende Verletzungen oder Gefährdungen liegen insbesondere bei Misshandlungen und anderen schweren Gewaltanwendungen, sexuellem Missbrauch, grober Vernachlässigung, drohender Zwangsverheiratung, Verwahrlosung und Suchtmittelabhängigkeit vor.
-
-- Wer den begründeten Verdacht auf Vorliegen einer weniger schwerwiegenden Verletzung oder Gefährdung des Wohles von Kindern und Jugendlichen oder Kenntnis davon hat, ist zur Meldung an das Amt für Soziale Dienste berechtigt.
+1) Jede Person, die den begründeten Verdacht auf Vorliegen einer schwerwiegenden Verletzung oder Gefährdung des Wohles von Kindern und Jugendlichen oder Kenntnis davon hat, ist verpflichtet, dem Amt für Soziale Dienste Meldung zu erstatten. Schwerwiegende Verletzungen oder Gefährdungen liegen insbesondere bei Misshandlungen und anderen schweren Gewaltanwendungen, sexuellem Missbrauch, grober Vernachlässigung, drohender Zwangsverheiratung, Verwahrlosung und Suchtmittelabhängigkeit vor.
+2) Wer den begründeten Verdacht auf Vorliegen einer weniger schwerwiegenden Verletzung oder Gefährdung des Wohles von Kindern und Jugendlichen oder Kenntnis davon hat, ist zur Meldung an das Amt für Soziale Dienste berechtigt.
 
 Fassung: 01.01.2017
 
@@ -456,9 +380,8 @@ KJG
 
 ###### Abklärungen
 
-- Erhält das Amt für Soziale Dienste eine Meldung nach Art. 20 oder sonst Kenntnis von der Verletzung oder Gefährdung des Wohles von Kindern und Jugendlichen, so führt es die für deren Beurteilung notwendigen Abklärungen durch oder lässt entsprechende Abklärungen durchführen.
-
-- Die in der Kinder- und Jugendhilfe oder in der Kinder- und Jugendarbeit tätigen Personen, Lehrpersonen, Kindergärtnerinnen und Kindergärtner sowie Angehörige von Berufen des Gesundheitswesens haben bei der Aufklärung, ob eine Verletzung oder Gefährdung des Wohles von Kindern und Jugendlichen vorliegt und bei der Abklärung, ob Handlungsbedarf besteht mitzuwirken und das Amt für Soziale Dienste mit ihrem Fachwissen und ihrer Erfahrung zu unterstützen.
+1) Erhält das Amt für Soziale Dienste eine Meldung nach Art. 20 oder sonst Kenntnis von der Verletzung oder Gefährdung des Wohles von Kindern und Jugendlichen, so führt es die für deren Beurteilung notwendigen Abklärungen durch oder lässt entsprechende Abklärungen durchführen.
+2) Die in der Kinder- und Jugendhilfe oder in der Kinder- und Jugendarbeit tätigen Personen, Lehrpersonen, Kindergärtnerinnen und Kindergärtner sowie Angehörige von Berufen des Gesundheitswesens haben bei der Aufklärung, ob eine Verletzung oder Gefährdung des Wohles von Kindern und Jugendlichen vorliegt und bei der Abklärung, ob Handlungsbedarf besteht mitzuwirken und das Amt für Soziale Dienste mit ihrem Fachwissen und ihrer Erfahrung zu unterstützen.
 
 ##### Art. 22
 
@@ -470,9 +393,8 @@ Personen, die der amtlichen oder einer berufsrechtlichen Verschwiegenheitspflich
 
 ###### Hilfen und weitere Massnahmen
 
-- Ist das Wohl von Kindern und Jugendlichen verletzt oder gefährdet, leistet das Amt für Soziale Dienste selbst oder veranlasst die erforderlichen Hilfen nach Abschnitt B. Eine angemessene Hilfeleistung kann in Absprache mit dem Amt für Soziale Dienste durch geeignete Dritte, insbesondere durch in Art. 21 Abs. 2 genannte Personen, die ein persönliches Vertrauensverhältnis zu den betroffenen Kindern und Jugendlichen haben, erbracht werden.
-
-- Erforderlichenfalls hat das Amt für Soziale Dienste bei Vorliegen einer Verletzung oder Gefährdung des Wohles von Kindern und Jugendlichen weitere geeignete Massnahmen zu ergreifen, insbesondere hat es Weisungen und Auflagen nach Art. 24 zu erteilen oder eine Unterbringung nach Art. 25 ff. zu veranlassen. Der Amtsarzt und die diensthabenden Ärztinnen und Ärzte im Rahmen ihres Not- oder Notfalldienstes sowie die Landespo-
+1) Ist das Wohl von Kindern und Jugendlichen verletzt oder gefährdet, leistet das Amt für Soziale Dienste selbst oder veranlasst die erforderlichen Hilfen nach Abschnitt B. Eine angemessene Hilfeleistung kann in Absprache mit dem Amt für Soziale Dienste durch geeignete Dritte, insbesondere durch in Art. 21 Abs. 2 genannte Personen, die ein persönliches Vertrauensverhältnis zu den betroffenen Kindern und Jugendlichen haben, erbracht werden.
+2) Erforderlichenfalls hat das Amt für Soziale Dienste bei Vorliegen einer Verletzung oder Gefährdung des Wohles von Kindern und Jugendlichen weitere geeignete Massnahmen zu ergreifen, insbesondere hat es Weisungen und Auflagen nach Art. 24 zu erteilen oder eine Unterbringung nach Art. 25 ff. zu veranlassen. Der Amtsarzt und die diensthabenden Ärztinnen und Ärzte im Rahmen ihres Not- oder Notfalldienstes sowie die Landespo-
 
 12
 
@@ -488,33 +410,24 @@ KJG
 
 lizei unterstützen das Amt für Soziale Dienste auf dessen Ersuchen bei der Durchführung von Massnahmen.
 
-- Erforderlichenfalls sind präventiv Hilfen zu leisten und Massnahmen durchzuführen, beispielsweise wenn Anzeichen von Verwahrlosung oder Suchtmittelabhängigkeit bei Kindern und Jugendlichen vorhanden sind.
-
-- Eine behördliche Massnahme endet, wenn ihr Zweck erreicht ist oder wenn der Zweck auf eine andere Weise sichergestellt werden kann. Die behördliche Massnahme endet jedenfalls, wenn der betroffene junge Mensch das 18. Lebensjahr vollendet hat.
+3) Erforderlichenfalls sind präventiv Hilfen zu leisten und Massnahmen durchzuführen, beispielsweise wenn Anzeichen von Verwahrlosung oder Suchtmittelabhängigkeit bei Kindern und Jugendlichen vorhanden sind.
+4) Eine behördliche Massnahme endet, wenn ihr Zweck erreicht ist oder wenn der Zweck auf eine andere Weise sichergestellt werden kann. Die behördliche Massnahme endet jedenfalls, wenn der betroffene junge Mensch das 18. Lebensjahr vollendet hat.
 
 ##### Art. 24
 
 ###### Weisungen und Auflagen
 
-- Bei Gefährdung des Wohles von Kindern und Jugendlichen kann das Amt für Soziale Dienste Kindern und Jugendlichen sowie den Erziehungsberechtigten Weisungen und Auflagen erteilen.
-
-- Es kann Kinder und Jugendliche insbesondere anweisen:
-
-- an einem Programm oder Projekt teilzunehmen;
-
-- sich einer Beratung, Betreuung, Abklärung oder Therapie zu unterziehen;
-
-- pädagogische Hilfen in Anspruch zu nehmen;
-
-- eine Tätigkeit, Schulung oder Ausbildung aufzunehmen. 3) Es kann die Erziehungsberechtigten insbesondere anweisen:
-
-- für eine geregelte Betreuung und Erziehung zu sorgen;
-
-- bestimmte professionelle Hilfen für ihre Kinder und Jugendlichen in Anspruch zu nehmen oder zuzulassen, insbesondere eine pädagogische, psychologische oder ärztliche Beratung, Behandlung oder Kontrolle;
-
-- sich selbst einer bestimmten psychologischen oder ärztlichen Untersuchung, Behandlung oder Therapie zu unterziehen, einschliesslich Massnahmen zur Kontrolle und zur Abstinenzsicherung bei Suchterkrankungen.
-
-- Weigert sich eine erziehungsberechtigte Person eine Weisung oder Auflage zu befolgen und bleibt die Gefährdung des Wohles des Kindes, der Jugendlichen oder des Jugendlichen bestehen, so beantragt das Amt für Soziale Dienste beim Landgericht, ebendiese Massnahme im Ausserstreitverfahren gerichtlich zu verfügen. Das Landgericht kann das Amt für
+1) Bei Gefährdung des Wohles von Kindern und Jugendlichen kann das Amt für Soziale Dienste Kindern und Jugendlichen sowie den Erziehungsberechtigten Weisungen und Auflagen erteilen.
+2) Es kann Kinder und Jugendliche insbesondere anweisen:
+a) an einem Programm oder Projekt teilzunehmen;
+b) sich einer Beratung, Betreuung, Abklärung oder Therapie zu unterziehen;
+c) pädagogische Hilfen in Anspruch zu nehmen;
+d) eine Tätigkeit, Schulung oder Ausbildung aufzunehmen.
+3) Es kann die Erziehungsberechtigten insbesondere anweisen:
+a) für eine geregelte Betreuung und Erziehung zu sorgen;
+b) bestimmte professionelle Hilfen für ihre Kinder und Jugendlichen in Anspruch zu nehmen oder zuzulassen, insbesondere eine pädagogische, psychologische oder ärztliche Beratung, Behandlung oder Kontrolle;
+c) sich selbst einer bestimmten psychologischen oder ärztlichen Untersuchung, Behandlung oder Therapie zu unterziehen, einschliesslich Massnahmen zur Kontrolle und zur Abstinenzsicherung bei Suchterkrankungen.
+4) Weigert sich eine erziehungsberechtigte Person eine Weisung oder Auflage zu befolgen und bleibt die Gefährdung des Wohles des Kindes, der Jugendlichen oder des Jugendlichen bestehen, so beantragt das Amt für Soziale Dienste beim Landgericht, ebendiese Massnahme im Ausserstreitverfahren gerichtlich zu verfügen. Das Landgericht kann das Amt für
 
 Fassung: 01.01.2017
 
@@ -528,9 +441,8 @@ Fassung: 01.01.2017
 
 KJG
 
-- Soziale Dienste mit der Überwachung der Einhaltung der Weisung oder Auflage beauftragen. 2
-
-- Vorbehalten bleiben die §§ 176 bis 176b und 215 ABGB sowie § 195 StGB.
+Soziale Dienste mit der Überwachung der Einhaltung der Weisung oder Auflage beauftragen. 2
+5) Vorbehalten bleiben die §§ 176 bis 176b und 215 ABGB sowie § 195 StGB.
 
 #### Unterbringung in geeigneten Einrichtungen
 
@@ -538,11 +450,9 @@ KJG
 
 ###### a) Grundsatz
 
-- Kinder und Jugendliche, deren Wohl bei Belassung im gegebenen Umfeld durch psychische Störung, Sucht, soziale Devianz, Verwahrlosung, Gewaltanwendung, sexuellen Missbrauch oder durch andere Beeinträchtigungen schwerwiegend gefährdet ist, sei es durch eigenes Verhalten oder durch das Verhalten anderer Personen, dürfen auch gegen ihren Willen oder den Willen der Erziehungsberechtigten in geeigneten Einrichtungen nach Art. 14 Abs. 2 untergebracht werden, wenn ihnen die nötige Hilfe anders nicht erwiesen werden kann.
-
-- Die Belastung, welche Kinder und Jugendliche aufgrund einer psychischen Störung oder ihres abweichenden Verhaltens für ihre Umgebung bedeuten, insbesondere die Gefährdung des Lebens oder der Gesundheit anderer Personen, sind bei der Unterbringung zu berücksichtigen.
-
-- Die Unterbringung kann in einer offenen oder in einer geschlossenen Einrichtung erfolgen.
+1) Kinder und Jugendliche, deren Wohl bei Belassung im gegebenen Umfeld durch psychische Störung, Sucht, soziale Devianz, Verwahrlosung, Gewaltanwendung, sexuellen Missbrauch oder durch andere Beeinträchtigungen schwerwiegend gefährdet ist, sei es durch eigenes Verhalten oder durch das Verhalten anderer Personen, dürfen auch gegen ihren Willen oder den Willen der Erziehungsberechtigten in geeigneten Einrichtungen nach Art. 14 Abs. 2 untergebracht werden, wenn ihnen die nötige Hilfe anders nicht erwiesen werden kann.
+2) Die Belastung, welche Kinder und Jugendliche aufgrund einer psychischen Störung oder ihres abweichenden Verhaltens für ihre Umgebung bedeuten, insbesondere die Gefährdung des Lebens oder der Gesundheit anderer Personen, sind bei der Unterbringung zu berücksichtigen.
+3) Die Unterbringung kann in einer offenen oder in einer geschlossenen Einrichtung erfolgen.
 
 ##### Art. 26
 
@@ -554,11 +464,9 @@ Das Amt für Soziale Dienste kann mit Einverständnis der Erziehungsberechtigten
 
 ###### c) Unterbringung durch das Landgericht
 
-- Das Landgericht entscheidet auf Antrag des Amtes für Soziale Dienste binnen vier Wochen über die Unterbringung, wenn:
-
-- die Erziehungsberechtigten der Unterbringung in einer offenen Einrichtung nicht zustimmen; oder
-
-- die Unterbringung in einer geschlossenen Einrichtung erfolgen soll.
+1) Das Landgericht entscheidet auf Antrag des Amtes für Soziale Dienste binnen vier Wochen über die Unterbringung, wenn:
+a) die Erziehungsberechtigten der Unterbringung in einer offenen Einrichtung nicht zustimmen; oder
+b) die Unterbringung in einer geschlossenen Einrichtung erfolgen soll.
 
 14
 
@@ -572,23 +480,15 @@ KJG
 
 852.0
 
-- Der Antrag des Amtes für Soziale Dienste hat Angaben über den Ort und die Dauer der Unterbringung sowie sein Fachgutachten zu enthalten. Erforderlichenfalls holt das Landgericht zusätzlich ein kinder- und jugendpsychiatrisches oder kinder- und jugendpsychologisches Gutachten oder weitere Fachgutachten ein.
-
-- Das Landgericht bestellt Kindern und Jugendlichen erforderlichenfalls eine Person, die ihnen rechtlichen Beistand leistet und ihre Interessen im Verfahren vertritt. Die Kosten trägt das Land.
-
-- Die Entscheidung über die Unterbringung sowie über die Bestellung einer Person nach Abs. 3 ist den Erziehungsberechtigten, dem Amt für Soziale Dienste und in geeigneter Form den betroffenen Kindern und Jugendlichen sowie gegebenenfalls dem Amtsarzt, dem diensthabenden Arzt oder der diensthabenden Ärztin zur Kenntnis zu bringen.
-
-- Die Unterbringung darf längstens für ein Jahr angeordnet werden. Das Amt für Soziale Dienste hat regelmässig zu überprüfen, ob der Zweck der Massnahme erreicht wird und ob die Unterbringung weiterhin gerechtfertigt ist; dafür sind insbesondere Berichte der betreuenden in- oder ausländischen Institution einzuholen.
-
-- Über eine Verlängerung der Massnahme entscheidet das Landgericht auf Antrag des Amtes für Soziale Dienste. Das Landgericht entscheidet zudem über die vorzeitige Beendigung der Massnahme:
-
-- auf Antrag des Amtes für Soziale Dienste; oder
-
-- auf Antrag des betroffenen Kindes oder Jugendlichen oder der betroffenen Jugendlichen oder der Erziehungsberechtigten; die Stellungnahme des Amtes für Soziale Dienste sowie ein unabhängiges Fachgutachten sind einzuholen.
-
-- Kinder und Jugendliche sind aus einer Einrichtung zu entlassen, sobald der Zweck der Massnahme erreicht ist, ihr psychischer Zustand es erlaubt und ihre weitere Betreuung sichergestellt ist.
-
-- Gegen die Entscheidung des Landgerichts können die von der Massnahme betroffenen Kinder und Jugendlichen, die Personen, die ihnen rechtlichen Beistand nach Abs. 3 leisten, die Erziehungsberechtigten sowie das Amt für Soziale Dienste binnen 14 Tagen Rekurs an das Obergericht erheben. Gegen die Entscheidung des Obergerichts steht denselben der Revisionsrekurs an den Obersten Gerichtshof offen.
+2) Der Antrag des Amtes für Soziale Dienste hat Angaben über den Ort und die Dauer der Unterbringung sowie sein Fachgutachten zu enthalten. Erforderlichenfalls holt das Landgericht zusätzlich ein kinder- und jugendpsychiatrisches oder kinder- und jugendpsychologisches Gutachten oder weitere Fachgutachten ein.
+3) Das Landgericht bestellt Kindern und Jugendlichen erforderlichenfalls eine Person, die ihnen rechtlichen Beistand leistet und ihre Interessen im Verfahren vertritt. Die Kosten trägt das Land.
+4) Die Entscheidung über die Unterbringung sowie über die Bestellung einer Person nach Abs. 3 ist den Erziehungsberechtigten, dem Amt für Soziale Dienste und in geeigneter Form den betroffenen Kindern und Jugendlichen sowie gegebenenfalls dem Amtsarzt, dem diensthabenden Arzt oder der diensthabenden Ärztin zur Kenntnis zu bringen.
+5) Die Unterbringung darf längstens für ein Jahr angeordnet werden. Das Amt für Soziale Dienste hat regelmässig zu überprüfen, ob der Zweck der Massnahme erreicht wird und ob die Unterbringung weiterhin gerechtfertigt ist; dafür sind insbesondere Berichte der betreuenden in- oder ausländischen Institution einzuholen.
+6) Über eine Verlängerung der Massnahme entscheidet das Landgericht auf Antrag des Amtes für Soziale Dienste. Das Landgericht entscheidet zudem über die vorzeitige Beendigung der Massnahme:
+a) auf Antrag des Amtes für Soziale Dienste; oder
+b) auf Antrag des betroffenen Kindes oder Jugendlichen oder der betroffenen Jugendlichen oder der Erziehungsberechtigten; die Stellungnahme des Amtes für Soziale Dienste sowie ein unabhängiges Fachgutachten sind einzuholen.
+7) Kinder und Jugendliche sind aus einer Einrichtung zu entlassen, sobald der Zweck der Massnahme erreicht ist, ihr psychischer Zustand es erlaubt und ihre weitere Betreuung sichergestellt ist.
+8) Gegen die Entscheidung des Landgerichts können die von der Massnahme betroffenen Kinder und Jugendlichen, die Personen, die ihnen rechtlichen Beistand nach Abs. 3 leisten, die Erziehungsberechtigten sowie das Amt für Soziale Dienste binnen 14 Tagen Rekurs an das Obergericht erheben. Gegen die Entscheidung des Obergerichts steht denselben der Revisionsrekurs an den Obersten Gerichtshof offen.
 
 Fassung: 01.01.2017
 
@@ -606,29 +506,24 @@ KJG
 
 ###### d) Unterbringung bei Gefahr im Verzug
 
-- Bei Gefahr im Verzug hat das Amt für Soziale Dienste die sofortige Unterbringung oder die Zurückbehaltung in einer geeigneten Einrichtung unter Benachrichtigung des Landgerichts anzuordnen.
-
-- Die Unterbringung in einer geeigneten Einrichtung kann bei Gefahr im Verzug auch vom Amtsarzt, einem diensthabenden Arzt oder einer diensthabenden Ärztin im Rahmen des Not- oder Notfalldienstes unter Benachrichtigung des Landgerichts und des Amtes für Soziale Dienste angeordnet werden.
-
-- Das Landgericht hat binnen fünf Tagen über die Zulässigkeit der Anordnungen zu entscheiden.
-
-- Das Amt für Soziale Dienste hat erforderlichenfalls weitere Massnahmen unverzüglich beim Landgericht zu beantragen oder selbst zu treffen.
+1) Bei Gefahr im Verzug hat das Amt für Soziale Dienste die sofortige Unterbringung oder die Zurückbehaltung in einer geeigneten Einrichtung unter Benachrichtigung des Landgerichts anzuordnen.
+2) Die Unterbringung in einer geeigneten Einrichtung kann bei Gefahr im Verzug auch vom Amtsarzt, einem diensthabenden Arzt oder einer diensthabenden Ärztin im Rahmen des Not- oder Notfalldienstes unter Benachrichtigung des Landgerichts und des Amtes für Soziale Dienste angeordnet werden.
+3) Das Landgericht hat binnen fünf Tagen über die Zulässigkeit der Anordnungen zu entscheiden.
+4) Das Amt für Soziale Dienste hat erforderlichenfalls weitere Massnahmen unverzüglich beim Landgericht zu beantragen oder selbst zu treffen.
 
 ##### Art. 29
 
 ###### e) Anhörung
 
-- Das Amt für Soziale Dienste und die Gerichte haben Kinder und Jugendliche sowie Erziehungsberechtigte vor der Entscheidung über eine Unterbringung oder Zurückbehaltung persönlich anzuhören. Die Anhörung hat gegebenenfalls in der Einrichtung stattzufinden.
-
-- Die Anhörung kann ausnahmsweise unterbleiben, wenn eine in Abs. 1 genannte Person nicht fähig ist, ihre eigene Meinung zu äussern, oder die Anhörung aus anderen Gründen nicht möglich ist.
-
-- Ist die Anhörung vorübergehend nicht durchführbar, so ist sie sobald wie möglich nachzuholen.
+1) Das Amt für Soziale Dienste und die Gerichte haben Kinder und Jugendliche sowie Erziehungsberechtigte vor der Entscheidung über eine Unterbringung oder Zurückbehaltung persönlich anzuhören. Die Anhörung hat gegebenenfalls in der Einrichtung stattzufinden.
+2) Die Anhörung kann ausnahmsweise unterbleiben, wenn eine in Abs. 1 genannte Person nicht fähig ist, ihre eigene Meinung zu äussern, oder die Anhörung aus anderen Gründen nicht möglich ist.
+3) Ist die Anhörung vorübergehend nicht durchführbar, so ist sie sobald wie möglich nachzuholen.
 
 ##### Art. 30
 
 ###### Strafanzeigen des Amtes für Soziale Dienste
 
-- Vorbehaltlich § 53 StPO kann das Amt für Soziale Dienste auch in Fällen, in denen es Meldungen über die Gefährdung oder Verletzung des Wohles von Kindern und Jugendlichen erhält, selbst aber kein persönliches Vertrauensverhältnis zu diesen hat oder herstellt, von der Anzeige einer strafbaren Handlung an die Staatsanwaltschaft oder die Landespolizei absehen, wenn dadurch eine angemessene Hilfeleistung an die betroffenen
+1) Vorbehaltlich § 53 StPO kann das Amt für Soziale Dienste auch in Fällen, in denen es Meldungen über die Gefährdung oder Verletzung des Wohles von Kindern und Jugendlichen erhält, selbst aber kein persönliches Vertrauensverhältnis zu diesen hat oder herstellt, von der Anzeige einer strafbaren Handlung an die Staatsanwaltschaft oder die Landespolizei absehen, wenn dadurch eine angemessene Hilfeleistung an die betroffenen
 
 16
 
@@ -644,7 +539,7 @@ KJG
 
 Kinder und Jugendlichen durch Dritte, deren Wirksamkeit eines persönlichen Vertrauensverhältnisses bedarf, beeinträchtigt oder unterbunden würde.
 
-- Die Staatsanwaltschaft und das Landgericht informieren das Amt für Soziale Dienste über das Ergebnis ihrer Erledigung, wenn das Amt für Soziale Dienste strafbare Handlungen, die im Zusammenhang mit einer Gefährdung oder Verletzung des Wohles von Kindern und Jugendlichen stehen, angezeigt hat.
+2) Die Staatsanwaltschaft und das Landgericht informieren das Amt für Soziale Dienste über das Ergebnis ihrer Erledigung, wenn das Amt für Soziale Dienste strafbare Handlungen, die im Zusammenhang mit einer Gefährdung oder Verletzung des Wohles von Kindern und Jugendlichen stehen, angezeigt hat.
 
 ### D. Unterstützung bei Straffälligkeit von Kindern und Jugendlichen
 
@@ -652,21 +547,17 @@ Kinder und Jugendlichen durch Dritte, deren Wirksamkeit eines persönlichen Vert
 
 ###### Unterstützung durch Massnahmen und Zusammenarbeit
 
-- Kinder und Jugendliche, die eine mit Strafe bedrohte Handlung begangen haben, sind mit geeigneten, insbesondere pädagogisch-therapeutischen Massnahmen zu unterstützen, um weiteren Straftaten und einer dissozialen Entwicklung vorzubeugen.
-
-- Zu diesem Zweck sind das Amt für Soziale Dienste, die Landespolizei, die Staatsanwaltschaft, das Landgericht sowie die Bewährungshilfe zur Zusammenarbeit verpflichtet. Sie haben sich gegenseitig zu unterstützen und ihre Tätigkeit miteinander abzustimmen. Dies gilt insbesondere bei der Umsetzung diversioneller Massnahmen.
+1) Kinder und Jugendliche, die eine mit Strafe bedrohte Handlung begangen haben, sind mit geeigneten, insbesondere pädagogisch-therapeutischen Massnahmen zu unterstützen, um weiteren Straftaten und einer dissozialen Entwicklung vorzubeugen.
+2) Zu diesem Zweck sind das Amt für Soziale Dienste, die Landespolizei, die Staatsanwaltschaft, das Landgericht sowie die Bewährungshilfe zur Zusammenarbeit verpflichtet. Sie haben sich gegenseitig zu unterstützen und ihre Tätigkeit miteinander abzustimmen. Dies gilt insbesondere bei der Umsetzung diversioneller Massnahmen.
 
 ##### Art. 32
 
 ###### Meldung an das Amt für Soziale Dienste
 
 Die Staatsanwaltschaft hat dem Amt für Soziale Dienste zu melden:
-
-- Kinder und Jugendliche, die eine mit Strafe bedrohte Handlung begangen haben;
-
-- die Einleitung von Strafverfahren gegen Jugendliche; und
-
-- das Ergebnis der Erledigung durch die Staatsanwaltschaft oder die Gerichte in Jugendgerichtsverfahren.
+a) Kinder und Jugendliche, die eine mit Strafe bedrohte Handlung begangen haben;
+b) die Einleitung von Strafverfahren gegen Jugendliche; und
+c) das Ergebnis der Erledigung durch die Staatsanwaltschaft oder die Gerichte in Jugendgerichtsverfahren.
 
 Fassung: 01.01.2017
 
@@ -684,23 +575,18 @@ KJG
 
 ###### Abklärungen und Empfehlungen
 
-- Das Amt für Soziale Dienste hat die nach Art. 32 gemeldeten Fälle zu prüfen.
-
-- Wenn die Umstände und die Art der Straftat auf familiäre, schulische, berufliche oder soziale Probleme oder auf eine Störung der Persönlichkeitsentwicklung hinweisen, trifft das Amt für Soziale Dienste die erforderlichen Abklärungen.
-
-- Das Amt für Soziale Dienste teilt der Staatsanwaltschaft oder dem Landgericht Feststellungen nach Abs. 2 mit und übermittelt ihnen Empfehlungen für geeignete, insbesondere pädagogisch-therapeutische Massnahmen.
-
-- Ergibt sich aus den Abklärungen des Amtes für Soziale Dienste ein Handlungsbedarf zur Sicherung des Wohles von Kindern und Jugendlichen, so kommt Abschnitt C zur Anwendung. Das Amt für Soziale Dienste informiert das Landgericht oder die Staatsanwaltschaft über geleistete Hilfen oder getroffene Massnahmen, solange diese mit der Angelegenheit der betroffenen Kinder und Jugendlichen befasst sind.
+1) Das Amt für Soziale Dienste hat die nach Art. 32 gemeldeten Fälle zu prüfen.
+2) Wenn die Umstände und die Art der Straftat auf familiäre, schulische, berufliche oder soziale Probleme oder auf eine Störung der Persönlichkeitsentwicklung hinweisen, trifft das Amt für Soziale Dienste die erforderlichen Abklärungen.
+3) Das Amt für Soziale Dienste teilt der Staatsanwaltschaft oder dem Landgericht Feststellungen nach Abs. 2 mit und übermittelt ihnen Empfehlungen für geeignete, insbesondere pädagogisch-therapeutische Massnahmen.
+4) Ergibt sich aus den Abklärungen des Amtes für Soziale Dienste ein Handlungsbedarf zur Sicherung des Wohles von Kindern und Jugendlichen, so kommt Abschnitt C zur Anwendung. Das Amt für Soziale Dienste informiert das Landgericht oder die Staatsanwaltschaft über geleistete Hilfen oder getroffene Massnahmen, solange diese mit der Angelegenheit der betroffenen Kinder und Jugendlichen befasst sind.
 
 ##### Art. 34
 
 ###### Erziehungsmassnahmen und besondere Erhebungen
 
-- Hilfen nach Abschnitt B können vom Landgericht als Erziehungsmassnahmen im Sinne des § 3 des Jugendgerichtsgesetzes angeordnet werden.
-
-- Beruht die Anordnung des Landgerichts auf einer Empfehlung des Amtes für Soziale Dienste, so richten sich Kostentragung und Kostenbeteiligung nach Art. 18.
-
-- Ist das Amt für Soziale Dienste nach § 21 des Jugendgerichtsgesetzes mit besonderen Erhebungen betraut, findet Art. 33 Abs. 3 Anwendung.
+1) Hilfen nach Abschnitt B können vom Landgericht als Erziehungsmassnahmen im Sinne des § 3 des Jugendgerichtsgesetzes angeordnet werden.
+2) Beruht die Anordnung des Landgerichts auf einer Empfehlung des Amtes für Soziale Dienste, so richten sich Kostentragung und Kostenbeteiligung nach Art. 18.
+3) Ist das Amt für Soziale Dienste nach § 21 des Jugendgerichtsgesetzes mit besonderen Erhebungen betraut, findet Art. 33 Abs. 3 Anwendung.
 
 18
 
@@ -714,9 +600,9 @@ KJG
 
 852.0
 
-### Pflegeverhältnisse zum Zweck der Adoption und Adoptionen im Ausland
+### E. Pflegeverhältnisse zum Zweck der Adoption und Adoptionen im Ausland
 
-#### Allgemeine Bestimmungen für die Aufnahme von Kindern und Jugendlichen
+#### 1. Allgemeine Bestimmungen für die Aufnahme von Kindern und Jugendlichen
 
 ##### Art. 35
 
@@ -728,17 +614,12 @@ Wer Kinder oder Jugendliche zum Zweck der Adoption in seinen Haushalt aufnehmen 
 
 ###### Allgemeine Voraussetzungen
 
-- Ein Kind, eine Jugendliche oder ein Jugendlicher darf nur zum Zweck der Adoption aufgenommen oder im Ausland adoptiert werden, wenn die künftigen Adoptiveltern oder die künftige Adoptivperson (künftige Adoptivpersonen) und ihre Mitbewohnerinnen und Mitbewohner nach Leumund, Gesundheit, Persönlichkeit, erzieherischer Eignung, nach den wirtschaftlichen Verhältnissen sowie den Wohnverhältnissen für gute Pflege, Erziehung und Ausbildung sowie für den Unterhalt des Kindes, der Jugendlichen oder des Jugendlichen Gewähr bieten und das Wohl anderer in dem Haushalt lebender Kinder und Jugendlicher nicht gefährdet wird.
-
-- Das Amt für Soziale Dienste prüft vor Erteilung der Bewilligung, ob:
-
-- der Adoption keine rechtlichen Hindernisse entgegenstehen;
-
-- die Voraussetzungen nach Abs. 1 vorliegen;
-
-- die gesamten Umstände erwarten lassen, dass die Adoption dem Wohl des Kindes, der Jugendlichen oder des Jugendlichen dient.
-
-- Die Regierung regelt das Nähere über das Bewilligungsverfahren und die Voraussetzungen für die Aufnahme von Kindern und Jugendlichen zum Zweck der Adoption und im Ausland adoptierter Kinder und Jugendlichen mit Verordnung.
+1) Ein Kind, eine Jugendliche oder ein Jugendlicher darf nur zum Zweck der Adoption aufgenommen oder im Ausland adoptiert werden, wenn die künftigen Adoptiveltern oder die künftige Adoptivperson (künftige Adoptivpersonen) und ihre Mitbewohnerinnen und Mitbewohner nach Leumund, Gesundheit, Persönlichkeit, erzieherischer Eignung, nach den wirtschaftlichen Verhältnissen sowie den Wohnverhältnissen für gute Pflege, Erziehung und Ausbildung sowie für den Unterhalt des Kindes, der Jugendlichen oder des Jugendlichen Gewähr bieten und das Wohl anderer in dem Haushalt lebender Kinder und Jugendlicher nicht gefährdet wird.
+2) Das Amt für Soziale Dienste prüft vor Erteilung der Bewilligung, ob:
+a) der Adoption keine rechtlichen Hindernisse entgegenstehen;
+b) die Voraussetzungen nach Abs. 1 vorliegen;
+c) die gesamten Umstände erwarten lassen, dass die Adoption dem Wohl des Kindes, der Jugendlichen oder des Jugendlichen dient.
+3) Die Regierung regelt das Nähere über das Bewilligungsverfahren und die Voraussetzungen für die Aufnahme von Kindern und Jugendlichen zum Zweck der Adoption und im Ausland adoptierter Kinder und Jugendlichen mit Verordnung.
 
 Fassung: 01.01.2017
 
@@ -756,13 +637,10 @@ KJG
 
 ###### Unterhalts- und Versicherungspflichten
 
-- Wer Kinder oder Jugendliche zum Zweck der Adoption in seinen Haushalt aufnimmt, muss:
-
-- für deren Unterhalt wie für den eigener Kinder und Jugendlicher aufkommen; § 140 ABGB gilt sinngemäss. Die Gewährung von Pflegegeld ist ausgeschlossen;
-
-- für diese eine Kranken-, Unfall- und Haftpflichtversicherung in angemessenem Umfang abschliessen.
-
-- Stellt sich nach Aufnahme von Kindern und Jugendlichen heraus, dass die Adoption nicht zustande kommen kann, sind dennoch sämtliche Kosten für deren Unterhalt einschliesslich Versicherungen von den Pflegepersonen zu tragen, bis eine Adoption durch Drittpersonen zustande kommt, oder, sofern dies für das Wohl der Kinder und Jugendlichen erforderlich war, sie in ihren Heimatstaat zurückgekehrt sind.
+1) Wer Kinder oder Jugendliche zum Zweck der Adoption in seinen Haushalt aufnimmt, muss:
+a) für deren Unterhalt wie für den eigener Kinder und Jugendlicher aufkommen; § 140 ABGB gilt sinngemäss. Die Gewährung von Pflegegeld ist ausgeschlossen;
+b) für diese eine Kranken-, Unfall- und Haftpflichtversicherung in angemessenem Umfang abschliessen.
+2) Stellt sich nach Aufnahme von Kindern und Jugendlichen heraus, dass die Adoption nicht zustande kommen kann, sind dennoch sämtliche Kosten für deren Unterhalt einschliesslich Versicherungen von den Pflegepersonen zu tragen, bis eine Adoption durch Drittpersonen zustande kommt, oder, sofern dies für das Wohl der Kinder und Jugendlichen erforderlich war, sie in ihren Heimatstaat zurückgekehrt sind.
 
 ##### Art. 38
 
@@ -774,13 +652,10 @@ Das Gewaltverbot für Eltern gemäss § 146a Abs. 2 ABGB gilt auch für Pflegepe
 
 ###### Pflegezeit und Aufsicht
 
-- Die Pflegezeit vor einer Adoption soll ein halbes Jahr nicht überschreiten.
-
-- Während der Pflegezeit prüft das Amt für Soziale Dienste, ob die Voraussetzungen für die Aufnahme von Kindern und Jugendlichen weiterhin erfüllt sind und berät die künftigen Adoptivpersonen bei Bedarf.
-
-- Die künftigen Adoptivpersonen haben dem Amt für Soziale Dienste jede wesentliche Änderung der Verhältnisse während der Pflegezeit zu melden.
-
-- Können Mängel oder Schwierigkeiten nicht behoben werden und erscheinen Massnahmen zur Abhilfe nutzlos, so hat das Amt für Soziale Dienste die Bewilligung zu entziehen und die notwendigen Massnahmen zu treffen.
+1) Die Pflegezeit vor einer Adoption soll ein halbes Jahr nicht überschreiten.
+2) Während der Pflegezeit prüft das Amt für Soziale Dienste, ob die Voraussetzungen für die Aufnahme von Kindern und Jugendlichen weiterhin erfüllt sind und berät die künftigen Adoptivpersonen bei Bedarf.
+3) Die künftigen Adoptivpersonen haben dem Amt für Soziale Dienste jede wesentliche Änderung der Verhältnisse während der Pflegezeit zu melden.
+4) Können Mängel oder Schwierigkeiten nicht behoben werden und erscheinen Massnahmen zur Abhilfe nutzlos, so hat das Amt für Soziale Dienste die Bewilligung zu entziehen und die notwendigen Massnahmen zu treffen.
 
 20
 
@@ -794,7 +669,7 @@ KJG
 
 852.0
 
-- Die Regierung regelt das Nähere betreffend die Aufsicht über Pflegeverhältnisse zum Zweck der Adoption mit Verordnung.
+5) Die Regierung regelt das Nähere betreffend die Aufsicht über Pflegeverhältnisse zum Zweck der Adoption mit Verordnung.
 
 #### 2. Besondere Bestimmungen für die Aufnahme von Kindern und Jugendlichen aus dem Ausland
 
@@ -802,21 +677,14 @@ KJG
 
 ###### Zusätzliche Voraussetzungen
 
-- Kinder und Jugendliche, die bisher im Ausland gelebt haben, dürfen nur zum Zweck der Adoption aufgenommen oder im Ausland adoptiert werden, wenn die künftigen Adoptivpersonen bereit sind, die Kinder und Jugendlichen in ihrer Eigenart anzunehmen und entsprechend ihrem Alter mit ihrem Herkunftsland vertraut zu machen.
-
-- Dem Amt für Soziale Dienste sind zudem vorzulegen:
-
-- ein ärztlicher Bericht über die Gesundheit des Kindes, der Jugendlichen oder des Jugendlichen;
-
-- ein Bericht, der die bisherige Lebensgeschichte des Kindes, der Jugendlichen oder des Jugendlichen, soweit sie bekannt ist, darstellt;
-
-- die Zustimmung der Eltern des Kindes, der Jugendlichen oder des Jugendlichen zur Adoption oder die Erklärung einer Behörde im Herkunftsland, weshalb die Zustimmung nicht beigebracht werden kann;
-
-- die Erklärung einer nach dem Recht des Herkunftslandes zuständigen Behörde, dass die Adoption dem Wohl des Kindes, der Jugendlichen oder des Jugendlichen entspricht;
-
-- die schriftliche Willensbekundung der künftigen Adoptivpersonen, dass sie das Kind, die Jugendliche oder den Jugendlichen adoptieren wollen.
-
-- Das Amt für Soziale Dienste prüft vor Erteilung der Bewilligung, ob die Voraussetzungen nach Abs. 1 und 2 vorliegen.
+1) Kinder und Jugendliche, die bisher im Ausland gelebt haben, dürfen nur zum Zweck der Adoption aufgenommen oder im Ausland adoptiert werden, wenn die künftigen Adoptivpersonen bereit sind, die Kinder und Jugendlichen in ihrer Eigenart anzunehmen und entsprechend ihrem Alter mit ihrem Herkunftsland vertraut zu machen.
+2) Dem Amt für Soziale Dienste sind zudem vorzulegen:
+a) ein ärztlicher Bericht über die Gesundheit des Kindes, der Jugendlichen oder des Jugendlichen;
+b) ein Bericht, der die bisherige Lebensgeschichte des Kindes, der Jugendlichen oder des Jugendlichen, soweit sie bekannt ist, darstellt;
+c) die Zustimmung der Eltern des Kindes, der Jugendlichen oder des Jugendlichen zur Adoption oder die Erklärung einer Behörde im Herkunftsland, weshalb die Zustimmung nicht beigebracht werden kann;
+d) die Erklärung einer nach dem Recht des Herkunftslandes zuständigen Behörde, dass die Adoption dem Wohl des Kindes, der Jugendlichen oder des Jugendlichen entspricht;
+e) die schriftliche Willensbekundung der künftigen Adoptivpersonen, dass sie das Kind, die Jugendliche oder den Jugendlichen adoptieren wollen.
+3) Das Amt für Soziale Dienste prüft vor Erteilung der Bewilligung, ob die Voraussetzungen nach Abs. 1 und 2 vorliegen.
 
 ##### Art. 41
 
@@ -854,15 +722,14 @@ Die künftigen Adoptivpersonen sowie Personen, die ein Kind, eine Jugendliche od
 
 ###### Obsorge
 
-- Vom Zeitpunkt der Ausreise von Kindern und Jugendlichen aus ihren Heimatstaaten bis zu ihrer Adoption obliegt die Obsorge für Kinder und Jugendliche den künftigen Adoptivpersonen, soweit die Obsorge für diese Zeit nicht einer Person oder Behörde im Heimatstaat obliegt. Die Regelungen des ABGB über die Obsorge finden für die künftigen Adoptivpersonen sinngemäss Anwendung.
-
-- Die Unterhalts- und Versicherungspflichten nach Art. 37 entstehen mit dem Zeitpunkt der Ausreise von Kindern und Jugendlichen aus ihren Heimatstaaten.
+1) Vom Zeitpunkt der Ausreise von Kindern und Jugendlichen aus ihren Heimatstaaten bis zu ihrer Adoption obliegt die Obsorge für Kinder und Jugendliche den künftigen Adoptivpersonen, soweit die Obsorge für diese Zeit nicht einer Person oder Behörde im Heimatstaat obliegt. Die Regelungen des ABGB über die Obsorge finden für die künftigen Adoptivpersonen sinngemäss Anwendung.
+2) Die Unterhalts- und Versicherungspflichten nach Art. 37 entstehen mit dem Zeitpunkt der Ausreise von Kindern und Jugendlichen aus ihren Heimatstaaten.
 
 ##### Art. 45
 
 ###### Vermittlung von Kindern und Jugendlichen
 
-- Wer die Vermittlung von Kindern und Jugendlichen aus dem Ausland zum Zweck der Adoption gewerbsmässig betreibt, bedarf einer Bewilligung des Amtes für Soziale Dienste.
+1) Wer die Vermittlung von Kindern und Jugendlichen aus dem Ausland zum Zweck der Adoption gewerbsmässig betreibt, bedarf einer Bewilligung des Amtes für Soziale Dienste.
 
 22
 
@@ -876,21 +743,17 @@ KJG
 
 852.0
 
-- Niemand darf aus einer Tätigkeit im Zusammenhang mit einer internationalen Adoption unstatthafte Vermögensoder sonstige Vorteile erlangen. Es dürfen nur Kosten und Auslagen, einschliesslich angemessener Honorare an der Adoption beteiligter Personen in Rechnung gestellt und gezahlt werden.
-
-- Das Amt für Soziale Dienste übt die Aufsicht über die Vermittlungsstellen aus. Bei missbräuchlicher Adoptionsvermittlung, insbesondere nach Abs. 2, hat es die Bewilligung zu entziehen und die notwendigen Massnahmen zu treffen.
-
-- Die Regierung regelt das Nähere über die Vermittlung von Kindern und Jugendlichen aus dem Ausland zum Zweck der Adoption mit Verordnung, insbesondere betreffend die Voraussetzungen und die Aufsicht über die Vermittlungsstellen.
+2) Niemand darf aus einer Tätigkeit im Zusammenhang mit einer internationalen Adoption unstatthafte Vermögens- oder sonstige Vorteile erlangen. Es dürfen nur Kosten und Auslagen, einschliesslich angemessener Honorare an der Adoption beteiligter Personen in Rechnung gestellt und gezahlt werden.
+3) Das Amt für Soziale Dienste übt die Aufsicht über die Vermittlungsstellen aus. Bei missbräuchlicher Adoptionsvermittlung, insbesondere nach Abs. 2, hat es die Bewilligung zu entziehen und die notwendigen Massnahmen zu treffen.
+4) Die Regierung regelt das Nähere über die Vermittlung von Kindern und Jugendlichen aus dem Ausland zum Zweck der Adoption mit Verordnung, insbesondere betreffend die Voraussetzungen und die Aufsicht über die Vermittlungsstellen.
 
 ##### Art. 46 3
 
 ###### Verfahren nach dem Haager Übereinkommen
 
-- Das Amt für Soziale Dienste ist die Zentrale Behörde im Sinne des Art. 6 Abs. 1 des Übereinkommens vom 29. Mai 1993 über den Schutz von Kindern und die Zusammenarbeit auf dem Gebiet der Internationalen Adoption ("Haager Übereinkommen").
-
-- Das Landgericht ist die zuständige Behörde für die Ausstellung einer Adoptionsbescheinigung im Sinne des Art. 23 Abs. 1 des "Haager Übereinkommens".
-
-- Bei Aufnahme von Kindern und Jugendlichen aus Vertragsstaaten des "Haager Übereinkommens" richtet sich das Verfahren nach diesem Übereinkommen.
+1) Das Amt für Soziale Dienste ist die Zentrale Behörde im Sinne des Art. 6 Abs. 1 des Übereinkommens vom 29. Mai 1993 über den Schutz von Kindern und die Zusammenarbeit auf dem Gebiet der Internationalen Adoption ("Haager Übereinkommen").
+2) Das Landgericht ist die zuständige Behörde für die Ausstellung einer Adoptionsbescheinigung im Sinne des Art. 23 Abs. 1 des "Haager Übereinkommens".
+3) Bei Aufnahme von Kindern und Jugendlichen aus Vertragsstaaten des "Haager Übereinkommens" richtet sich das Verfahren nach diesem Übereinkommen.
 
 ##### Art. 47
 
@@ -926,25 +789,14 @@ Kindern und Jugendlichen ist, soweit möglich, von den zuständigen Behörden in
 
 ###### Bewilligungspflicht
 
-- Wer Kinder und Jugendliche unter 16 Jahren in seinen Haushalt auf-
-
-- nehmen will, bedarf für jedes Kind, für jede Jugendliche und jeden Jugendlichen einer Bewilligung des Amtes für Soziale Dienste, sofern die Aufnahme erfolgt:
-
-- entgeltlich; und
-
-- während eines Zeitraumes von wenigstens drei Monaten an 40 Stunden pro Monat.
-
-- Von der Bewilligungspflicht ausgenommen sind:
-
-- Betreuungsund Pflegeverhältnisse von Verwandten oder Verschwägerten bis und mit dem dritten Grad;
-
-- Pflegeverhältnisse, soweit den Pflegepersonen die Erziehungsrechte durch das Gericht übertragen wurden;
-
-- gerichtlich oder amtlich angeordnete Pflegeverhältnisse.
-
-- Wer eine Bewilligung des Amtes für Soziale Dienste nach Abs. 1
-
-- erhalten hat, bedarf keiner zusätzlichen Gewerbebewilligung des Amtes für Volkswirtschaft.
+1) Wer Kinder und Jugendliche unter 16 Jahren in seinen Haushalt aufnehmen will, bedarf für jedes Kind, für jede Jugendliche und jeden Jugendlichen einer Bewilligung des Amtes für Soziale Dienste, sofern die Aufnahme erfolgt:
+a) entgeltlich; und
+b) während eines Zeitraumes von wenigstens drei Monaten an 40 Stunden pro Monat.
+2) Von der Bewilligungspflicht ausgenommen sind:
+a) Betreuungs- und Pflegeverhältnisse von Verwandten oder Verschwägerten bis und mit dem dritten Grad;
+b) Pflegeverhältnisse, soweit den Pflegepersonen die Erziehungsrechte durch das Gericht übertragen wurden;
+c) gerichtlich oder amtlich angeordnete Pflegeverhältnisse.
+3) Wer eine Bewilligung des Amtes für Soziale Dienste nach Abs. 1 erhalten hat, bedarf keiner zusätzlichen Gewerbebewilligung des Amtes für Volkswirtschaft.
 
 24
 
@@ -962,9 +814,8 @@ KJG
 
 ###### Voraussetzungen
 
-- Die Aufnahme von Kindern und Jugendlichen unter 16 Jahren darf nur erfolgen, wenn die Betreuungs- oder Pflegepersonen und ihre Mitbewohnerinnen und Mitbewohner nach Persönlichkeit, Gesundheit und erzieherischer Eignung sowie nach den Wohnverhältnissen für gute Pflege, Erziehung und Ausbildung der Kinder und Jugendlichen Gewähr bieten und das Wohl anderer im Haushalt lebender Kinder und Jugendlicher nicht gefährdet wird.
-
-- Das Amt für Soziale Dienste prüft vor Erteilung der Bewilligung das Vorliegen dieser Voraussetzungen.
+1) Die Aufnahme von Kindern und Jugendlichen unter 16 Jahren darf nur erfolgen, wenn die Betreuungs- oder Pflegepersonen und ihre Mitbewohnerinnen und Mitbewohner nach Persönlichkeit, Gesundheit und erzieherischer Eignung sowie nach den Wohnverhältnissen für gute Pflege, Erziehung und Ausbildung der Kinder und Jugendlichen Gewähr bieten und das Wohl anderer im Haushalt lebender Kinder und Jugendlicher nicht gefährdet wird.
+2) Das Amt für Soziale Dienste prüft vor Erteilung der Bewilligung das Vorliegen dieser Voraussetzungen.
 
 ##### Art. 51
 
@@ -976,13 +827,10 @@ Das Gewaltverbot für Eltern gemäss § 146a Abs. 2 ABGB gilt auch für Betreuun
 
 ###### Aufsicht
 
-- Das Amt für Soziale Dienste prüft nach Aufnahme des Betreuungsoder Pflegeverhältnisses, ob die Voraussetzungen nach Art. 50 Abs. 1 weiterhin erfüllt sind und berät die Betreuungsoder Pflegepersonen bei Bedarf.
-
-- Können Mängel oder Schwierigkeiten auch in Zusammenarbeit mit den Eltern oder der gesetzlichen Vertretung nicht behoben werden und erscheinen andere Massnahmen zur Abhilfe nutzlos, so hat das Amt für Soziale Dienste die Bewilligung zu entziehen und die notwendigen Massnahmen zu treffen.
-
-- Bei Gefahr im Verzug trifft das Amt für Soziale Dienste unverzüglich die notwendigen Massnahmen.
-
-- Die Regierung regelt das Nähere betreffend die Aufsicht über Betreuungs- und Pflegeverhältnisse mit Verordnung.
+1) Das Amt für Soziale Dienste prüft nach Aufnahme des Betreuungs- oder Pflegeverhältnisses, ob die Voraussetzungen nach Art. 50 Abs. 1 weiterhin erfüllt sind und berät die Betreuungs- oder Pflegepersonen bei Bedarf.
+2) Können Mängel oder Schwierigkeiten auch in Zusammenarbeit mit den Eltern oder der gesetzlichen Vertretung nicht behoben werden und erscheinen andere Massnahmen zur Abhilfe nutzlos, so hat das Amt für Soziale Dienste die Bewilligung zu entziehen und die notwendigen Massnahmen zu treffen.
+3) Bei Gefahr im Verzug trifft das Amt für Soziale Dienste unverzüglich die notwendigen Massnahmen.
+4) Die Regierung regelt das Nähere betreffend die Aufsicht über Betreuungs- und Pflegeverhältnisse mit Verordnung.
 
 Fassung: 01.01.2017
 
@@ -1002,33 +850,33 @@ KJG
 
 ###### Bewilligungspflicht
 
-- Der Betrieb von Einrichtungen, die Kinder und Jugendliche zur Betreuung oder Pflege aufnehmen, bedarf einer Bewilligung des Amtes für Soziale Dienste.
+1) Der Betrieb von Einrichtungen, die Kinder und Jugendliche zur Betreuung oder Pflege aufnehmen, bedarf einer Bewilligung des Amtes für Soziale Dienste.
 
-- Ausgenommen von der Bewilligungspflicht sind Kindergärten und schulische Einrichtungen, die unter der Aufsicht des Staates stehen.
+2) Ausgenommen von der Bewilligungspflicht sind Kindergärten und schulische Einrichtungen, die unter der Aufsicht des Staates stehen.
 
-- Wer eine Bewilligung des Amtes für Soziale Dienste nach Abs. 1 erhalten hat, bedarf keiner zusätzlichen Gewerbebewilligung des Amtes für Volkswirtschaft.
+3) Wer eine Bewilligung des Amtes für Soziale Dienste nach Abs. 1 erhalten hat, bedarf keiner zusätzlichen Gewerbebewilligung des Amtes für Volkswirtschaft.
 
 ##### Art. 54
 
 ###### Voraussetzungen
 
-- Eine Einrichtung darf nur betrieben werden, wenn:
+1) Eine Einrichtung darf nur betrieben werden, wenn:
 
-- eine für die körperliche und psychische Entwicklung förderliche Betreuung oder Pflege der Kinder und Jugendlichen durch das Vorliegen eines nach wissenschaftlich anerkannten Kriterien erstellten pädagogischen Konzepts gesichert erscheint;
+a) eine für die körperliche und psychische Entwicklung förderliche Betreuung oder Pflege der Kinder und Jugendlichen durch das Vorliegen eines nach wissenschaftlich anerkannten Kriterien erstellten pädagogischen Konzepts gesichert erscheint;
 
-- die leitende Person und die Mitarbeiterinnen und Mitarbeiter nach Persönlichkeit, Gesundheit, erzieherischer Befähigung und Ausbildung für ihre Aufgabe geeignet sind und die Zahl der Mitarbeitenden in einem angemessenen Verhältnis zu der Zahl der zu betreuenden Kinder und Jugendlichen steht;
+b) die leitende Person und die Mitarbeiterinnen und Mitarbeiter nach Persönlichkeit, Gesundheit, erzieherischer Befähigung und Ausbildung für ihre Aufgabe geeignet sind und die Zahl der Mitarbeitenden in einem angemessenen Verhältnis zu der Zahl der zu betreuenden Kinder und Jugendlichen steht;
 
-- für gesunde und abwechslungsreiche Ernährung gesorgt ist;
+c) für gesunde und abwechslungsreiche Ernährung gesorgt ist;
 
-- die Einrichtungen den anerkannten Anforderungen der Wohnhygiene und des Brandschutzes entsprechen;
+d) die Einrichtungen den anerkannten Anforderungen der Wohnhygiene und des Brandschutzes entsprechen;
 
-- die Einrichtung eine gesicherte wirtschaftliche und organisatorische Grundlage hat; und
+e) die Einrichtung eine gesicherte wirtschaftliche und organisatorische Grundlage hat; und
 
-- die Einrichtung über eine angemessene Haftpflichtversicherung verfügt.
+f) die Einrichtung über eine angemessene Haftpflichtversicherung verfügt.
 
-- Das Amt für Soziale Dienste prüft vor Erteilung der Bewilligung das Vorliegen dieser Voraussetzungen.
+2) Das Amt für Soziale Dienste prüft vor Erteilung der Bewilligung das Vorliegen dieser Voraussetzungen.
 
-- Die Regierung regelt das Nähere über das Bewilligungsverfahren und die Anforderungen an den Betrieb der Einrichtung mit Verordnung.
+3) Die Regierung regelt das Nähere über das Bewilligungsverfahren und die Anforderungen an den Betrieb der Einrichtung mit Verordnung.
 
 26
 
@@ -1052,13 +900,13 @@ Das Gewaltverbot für Eltern gemäss § 146a Abs. 2 ABGB gilt auch für Betreuun
 
 ###### Aufsicht
 
-- Das Amt für Soziale Dienste prüft regelmässig nach Aufnahme des Betriebes, ob die Voraussetzungen nach Art. 54 weiterhin erfüllt sind.
+1) Das Amt für Soziale Dienste prüft regelmässig nach Aufnahme des Betriebes, ob die Voraussetzungen nach Art. 54 weiterhin erfüllt sind.
 
-- Können Mängel oder Schwierigkeiten durch Beratung oder Vermittlung fachkundiger Hilfe nicht beseitigt werden, so fordert das Amt für Soziale Dienste die leitende Person der Einrichtung unter Mitteilung an den Träger auf, unverzüglich die zur Behebung der Mängel oder Schwierigkeiten nötigen Vorkehrungen zu treffen.
+2) Können Mängel oder Schwierigkeiten durch Beratung oder Vermittlung fachkundiger Hilfe nicht beseitigt werden, so fordert das Amt für Soziale Dienste die leitende Person der Einrichtung unter Mitteilung an den Träger auf, unverzüglich die zur Behebung der Mängel oder Schwierigkeiten nötigen Vorkehrungen zu treffen.
 
-- Sind diese Massnahmen erfolglos geblieben oder erscheinen sie zum vornherein ungenügend, entzieht das Amt für Soziale Dienste die Bewilligung und trifft die notwendigen Massnahmen.
+3) Sind diese Massnahmen erfolglos geblieben oder erscheinen sie zum vornherein ungenügend, entzieht das Amt für Soziale Dienste die Bewilligung und trifft die notwendigen Massnahmen.
 
-- Die Regierung regelt das Nähere betreffend die Aufsicht über die Betreuungs- und Pflegeverhältnisse mit Verordnung.
+4) Die Regierung regelt das Nähere betreffend die Aufsicht über die Betreuungs- und Pflegeverhältnisse mit Verordnung.
 
 ### G. Private Einrichtungen und finanzielle Beiträge
 
@@ -1066,9 +914,9 @@ Das Gewaltverbot für Eltern gemäss § 146a Abs. 2 ABGB gilt auch für Betreuun
 
 ###### Mitwirkung privater Einrichtungen
 
-- Geeignete private Einrichtungen wie Beratungsstellen, pädagogischtherapeutische Einrichtungen oder Tagesbetreuungseinrichtungen, können zur Mitwirkung in der Kinder- und Jugendhilfe herangezogen und finanziell unterstützt werden. Das Amt für Soziale Dienste schliesst zu diesem Zweck mit den Trägern solcher Einrichtungen Leistungsverträge ab, die der Genehmigung durch die Regierung bedürfen. Mit der Genehmigung des Leistungsvertrages gilt die Einrichtung als anerkannt.
+1) Geeignete private Einrichtungen wie Beratungsstellen, pädagogisch-therapeutische Einrichtungen oder Tagesbetreuungseinrichtungen, können zur Mitwirkung in der Kinder- und Jugendhilfe herangezogen und finanziell unterstützt werden. Das Amt für Soziale Dienste schliesst zu diesem Zweck mit den Trägern solcher Einrichtungen Leistungsverträge ab, die der Genehmigung durch die Regierung bedürfen. Mit der Genehmigung des Leistungsvertrages gilt die Einrichtung als anerkannt.
 
-- Der Leistungsvertrag regelt insbesondere die Form der Mitwirkung der privaten Einrichtung sowie die finanziellen Beiträge, die an sie ausgerichtet werden können.
+2) Der Leistungsvertrag regelt insbesondere die Form der Mitwirkung der privaten Einrichtung sowie die finanziellen Beiträge, die an sie ausgerichtet werden können.
 
 Fassung: 01.01.2017
 
@@ -1082,35 +930,35 @@ Fassung: 01.01.2017
 
 KJG
 
-- Das Amt für Soziale Dienste überwacht die Einhaltung der Leistungsverträge und richtet die finanziellen Beiträge aus.
+3) Das Amt für Soziale Dienste überwacht die Einhaltung der Leistungsverträge und richtet die finanziellen Beiträge aus.
 
-- Das Amt für Soziale Dienste kann anerkannte private Einrichtungen der Kinder- und Jugendhilfe fachlich und organisatorisch unterstützen.
+4) Das Amt für Soziale Dienste kann anerkannte private Einrichtungen der Kinder- und Jugendhilfe fachlich und organisatorisch unterstützen.
 
 ##### Art. 58
 
 ###### Aufsicht über private Einrichtungen
 
-- Die Aufsicht über die anerkannten privaten Einrichtungen der Kinder- und Jugendhilfe obliegt dem Amt für Soziale Dienste, insbesondere in fachlicher, finanzieller und organisatorischer Hinsicht.
+1) Die Aufsicht über die anerkannten privaten Einrichtungen der Kinder- und Jugendhilfe obliegt dem Amt für Soziale Dienste, insbesondere in fachlicher, finanzieller und organisatorischer Hinsicht.
 
-- Werden im Rahmen der Aufsichtstätigkeit Mängel oder Schwierigkeiten festgestellt und diese trotz Mahnung nicht behoben, so kann das Amt für Soziale Dienste den Leistungsvertrag kündigen und bei der Regierung die Aberkennung als private Einrichtung der Kinder- und Jugendhilfe beantragen sowie gegebenenfalls die Bewilligung nach Art. 56 Abs. 3 entziehen.
+2) Werden im Rahmen der Aufsichtstätigkeit Mängel oder Schwierigkeiten festgestellt und diese trotz Mahnung nicht behoben, so kann das Amt für Soziale Dienste den Leistungsvertrag kündigen und bei der Regierung die Aberkennung als private Einrichtung der Kinder- und Jugendhilfe beantragen sowie gegebenenfalls die Bewilligung nach Art. 56 Abs. 3 entziehen.
 
 ##### Art. 59
 
 ###### Mitwirkung anderer Organisationen und von Einzelpersonen
 
-- Für einzelne Projekte und Dienstleistungen kann das Amt für Soziale Dienste im Rahmen der Kinder- und Jugendhilfe Aufträge auch an Organisationen, die nicht anerkannte private Einrichtungen der Kinder- und Jugendhilfe sind, sowie an Einzelpersonen vergeben oder sich an von diesen angebotenen Programmen beteiligen und diese finanzieren.
+1) Für einzelne Projekte und Dienstleistungen kann das Amt für Soziale Dienste im Rahmen der Kinder- und Jugendhilfe Aufträge auch an Organisationen, die nicht anerkannte private Einrichtungen der Kinder- und Jugendhilfe sind, sowie an Einzelpersonen vergeben oder sich an von diesen angebotenen Programmen beteiligen und diese finanzieren.
 
-- Insbesondere können finanziell unterstützt werden:
+2) Insbesondere können finanziell unterstützt werden:
 
-- Trainings- und Beschäftigungsprogramme, Arbeits- und Eingliederungsprojekte sowie andere soziale und pädagogisch orientierte Projekte;
+a) Trainings- und Beschäftigungsprogramme, Arbeits- und Eingliederungsprojekte sowie andere soziale und pädagogisch orientierte Projekte;
 
-- Entlastungs- und Unterstützungsdienste, die der besseren Vereinbarkeit von Familie und Beruf dienen oder Familien mit besonderen Belastungen zugute kommen.
+b) Entlastungs- und Unterstützungsdienste, die der besseren Vereinbarkeit von Familie und Beruf dienen oder Familien mit besonderen Belastungen zugute kommen.
 
 ##### Art. 60
 
 ###### Sicherung von Betreuungsplätzen
 
-Das Amt für Soziale Dienste sorgt zur Gewährleistung der Kinder- und Jugendhilfe für die Sicherung von Betreuungsplätzen in pädagogisch-therapeutischen Einrichtungen und legt bei Bedarf der Regierung entsprechende Verträge mit ausländischen Institutionen und Behörden zur Genehmigung und Unterzeichnung vor. Es überprüft, ob die Kinder- und Jugendhilfe durch die Errichtung und den Betrieb der erforderlichen Einrichtungen im Inland besser gewährleistet werden kann.
+Das Amt für Soziale Dienste sorgt zur Gewährleistung der Kinder- und Jugendhilfe für die Sicherung von Betreuungsplätzen in pädagogisch-therapeutischen Einrichtungen und legt bei Bedarf der Regierung entsprechende Verträge mit ausländischen Institutionen und Behörden zur Genehmigung
 
 28
 
@@ -1123,6 +971,8 @@ Fassung: 01.01.2017
 KJG
 
 852.0
+
+und Unterzeichnung vor. Es überprüft, ob die Kinder- und Jugendhilfe durch die Errichtung und den Betrieb der erforderlichen Einrichtungen im Inland besser gewährleistet werden kann.
 
 ### H. Anerkennung von Vaterschaften
 
@@ -1140,15 +990,15 @@ Erklärungen über die Anerkennung der Vaterschaft sowie damit im Zusammenhang s
 
 ###### Zweck, Grundsätze
 
-- Der Kinder- und Jugendschutz bezweckt:
+1) Der Kinder- und Jugendschutz bezweckt:
 
-- den Schutz von Kindern und Jugendlichen vor Gefahren und Situationen, die sie schädigen oder in ihrer Entwicklung beeinträchtigen können, sowie vor Handlungen und Tätigkeiten, die ihnen aufgrund ihres Altersund Entwicklungsstandes nicht zuträglich sind;
+a) den Schutz von Kindern und Jugendlichen vor Gefahren und Situationen, die sie schädigen oder in ihrer Entwicklung beeinträchtigen können, sowie vor Handlungen und Tätigkeiten, die ihnen aufgrund ihres Alters- und Entwicklungsstandes nicht zuträglich sind;
 
-- die Stärkung von Kindern und Jugendlichen in ihrer Fähigkeit zum Selbstschutz.
+b) die Stärkung von Kindern und Jugendlichen in ihrer Fähigkeit zum Selbstschutz.
 
-- Alle Erwachsenen sind im Rahmen der privaten und öffentlichen Erziehung verpflichtet, ihre Verantwortung für Kinder und Jugendliche innerhalb ihres Einflussbereiches zu übernehmen. Sie sollen in der Wahrnehmung ihrer Pflichten bestärkt, aber auch zur Verantwortung gezogen werden, wenn sie diese verletzen.
+2) Alle Erwachsenen sind im Rahmen der privaten und öffentlichen Erziehung verpflichtet, ihre Verantwortung für Kinder und Jugendliche innerhalb ihres Einflussbereiches zu übernehmen. Sie sollen in der Wahrnehmung ihrer Pflichten bestärkt, aber auch zur Verantwortung gezogen werden, wenn sie diese verletzen.
 
-- Gefährdungen ist durch präventive Massnahmen wie Information, Aufklärung und Beratung entgegenzuwirken. Kinder, Jugendliche und Erwachsene sollen insbesondere darin bestärkt werden, gefährliche Einflüsse kritisch zu bewerten und abzuwehren.
+3) Gefährdungen ist durch präventive Massnahmen wie Information, Aufklärung und Beratung entgegenzuwirken. Kinder, Jugendliche und Erwachsene sollen insbesondere darin bestärkt werden, gefährliche Einflüsse kritisch zu bewerten und abzuwehren.
 
 Fassung: 01.01.2017
 
@@ -1168,17 +1018,17 @@ KJG
 
 Der Kinder- und Jugendschutz beinhaltet insbesondere den Schutz von Kindern und Jugendlichen vor:
 
-- Konsum von Suchtmitteln, Substanzmissbrauch und Abhängigkeit von Suchtmitteln sowie Suchtverhalten;
+a) Konsum von Suchtmitteln, Substanzmissbrauch und Abhängigkeit von Suchtmitteln sowie Suchtverhalten;
 
-- politischer, weltanschaulicher oder religiöser Indoktrinierung, insbesondere durch Sekten;
+b) politischer, weltanschaulicher oder religiöser Indoktrinierung, insbesondere durch Sekten;
 
-- Pornographie, Prostitution, Pädophilie und anderen Formen der Verletzung ihrer sexuellen Integrität;
+c) Pornographie, Prostitution, Pädophilie und anderen Formen der Verletzung ihrer sexuellen Integrität;
 
-- Diskriminierung wie Sexismus und Rassismus, politischer Radikalisierung wie Rechtsradikalismus, Gewalt, Gewaltund Kriegsverherrlichung sowie anderen Formen der Menschenverachtung;
+d) Diskriminierung wie Sexismus und Rassismus, politischer Radikalisierung wie Rechtsradikalismus, Gewalt, Gewalt- und Kriegsverherrlichung sowie anderen Formen der Menschenverachtung;
 
-- Handel mit Kindern und Jugendlichen;
+e) Handel mit Kindern und Jugendlichen;
 
-- wirtschaftlicher Ausbeutung und Abhängigkeit durch Schulden sowie anderen Formen der Ausnutzung der körperlichen oder geistigen Unreife im Geschäftsverkehr und im Arbeitsleben.
+f) wirtschaftlicher Ausbeutung und Abhängigkeit durch Schulden sowie anderen Formen der Ausnutzung der körperlichen oder geistigen Unreife im Geschäftsverkehr und im Arbeitsleben.
 
 ### B. Besondere Gefährdungen
 
@@ -1186,11 +1036,11 @@ Der Kinder- und Jugendschutz beinhaltet insbesondere den Schutz von Kindern und 
 
 ###### Aufsicht
 
-- Als Aufsichtspersonen gelten erwachsene Personen, denen kraft ihres beruflichen Auftrages oder im Auftrag von Erziehungsberechtigten Kinder und Jugendliche anvertraut sind.
+1) Als Aufsichtspersonen gelten erwachsene Personen, denen kraft ihres beruflichen Auftrages oder im Auftrag von Erziehungsberechtigten Kinder und Jugendliche anvertraut sind.
 
-- Die Erziehungsberechtigten haben den Kontrollorganen nach Art. 75 Auskunft darüber zu erteilen, ob sie einen Auftrag nach Abs. 1 erteilt haben. Bei Verweigerung der Auskunft gilt der Auftrag als nicht erteilt.
+2) Die Erziehungsberechtigten haben den Kontrollorganen nach Art. 75 Auskunft darüber zu erteilen, ob sie einen Auftrag nach Abs. 1 erteilt haben. Bei Verweigerung der Auskunft gilt der Auftrag als nicht erteilt.
 
-- Die Erziehungsberechtigten und Aufsichtspersonen haben im Rahmen ihrer elterlichen Erziehungspflichten oder ihrer Aufsichtspflicht dafür zu sorgen, dass die ihnen anvertrauten Kinder und Jugendlichen die Kinder- und Jugendschutzbestimmungen einhalten.
+3) Die Erziehungsberechtigten und Aufsichtspersonen haben im Rahmen ihrer elterlichen Erziehungspflichten oder ihrer Aufsichtspflicht dafür zu sorgen, dass die ihnen anvertrauten Kinder und Jugendlichen die Kinder- und Jugendschutzbestimmungen einhalten.
 
 30
 
@@ -1208,31 +1058,31 @@ KJG
 
 ###### Ausgangsregelung
 
-- Die Erziehungsberechtigten entscheiden vorbehaltlich Abs. 2 und 3 sowie Art. 66 über den Aufenthalt ihrer Kinder und Jugendlichen.
+1) Die Erziehungsberechtigten entscheiden vorbehaltlich Abs. 2 und 3 sowie Art. 66 über den Aufenthalt ihrer Kinder und Jugendlichen.
 
-- Kinder dürfen, vorbehaltlich Abs. 4, nur ausserhalb von Privathaushalten übernachten oder sich zwischen 22.00 Uhr und 5.00 Uhr in der Öffentlichkeit aufhalten, sofern sie in Begleitung einer erziehungsberechtigten Person oder einer Aufsichtsperson sind.
+2) Kinder dürfen, vorbehaltlich Abs. 4, nur ausserhalb von Privathaushalten übernachten oder sich zwischen 22.00 Uhr und 5.00 Uhr in der Öffentlichkeit aufhalten, sofern sie in Begleitung einer erziehungsberechtigten Person oder einer Aufsichtsperson sind.
 
-- Jugendliche unter 16 Jahren dürfen, vorbehaltlich Abs. 4, nur ausserhalb von Privathaushalten übernachten oder sich zwischen 24.00 Uhr und 5.00 Uhr in der Öffentlichkeit aufhalten, sofern sie:
+3) Jugendliche unter 16 Jahren dürfen, vorbehaltlich Abs. 4, nur ausserhalb von Privathaushalten übernachten oder sich zwischen 24.00 Uhr und 5.00 Uhr in der Öffentlichkeit aufhalten, sofern sie:
 
-- in Begleitung einer erziehungsberechtigten Person oder einer Aufsichtsperson sind; oder
+a) in Begleitung einer erziehungsberechtigten Person oder einer Aufsichtsperson sind; oder
 
-- für den konkreten Anlass die schriftliche Erlaubnis einer erziehungsberechtigten Person vorweisen können; die Erlaubnis hat zu enthalten:
+b) für den konkreten Anlass die schriftliche Erlaubnis einer erziehungsberechtigten Person vorweisen können; die Erlaubnis hat zu enthalten:
 
-- das Datum;
+1. das Datum;
 
-- den oder die Aufenthaltsorte;
+2. den oder die Aufenthaltsorte;
 
-- die Uhrzeit, wann der oder die Jugendliche wieder zu Hause sein muss;
+3. die Uhrzeit, wann der oder die Jugendliche wieder zu Hause sein muss;
 
-- die Unterschrift der erziehungsberechtigten Person.
+4. die Unterschrift der erziehungsberechtigten Person.
 
-- Kinder und Jugendliche unter 16 Jahren dürfen mit Erlaubnis einer erziehungsberechtigten Person in Begleitung einer bevollmächtigten Jugendlichen oder eines bevollmächtigten Jugendlichen in Gruppen auswärts übernachten, wenn die Übernachtung im Rahmen eines Lagers einer Einrichtung oder Vereinigung der Kinder- und Jugendarbeit stattfindet, und eine erwachsene Person die Oberaufsicht hat.
+4) Kinder und Jugendliche unter 16 Jahren dürfen mit Erlaubnis einer erziehungsberechtigten Person in Begleitung einer bevollmächtigten Jugendlichen oder eines bevollmächtigten Jugendlichen in Gruppen auswärts übernachten, wenn die Übernachtung im Rahmen eines Lagers einer Einrichtung oder Vereinigung der Kinder- und Jugendarbeit stattfindet, und eine erwachsene Person die Oberaufsicht hat.
 
-- Die Erziehungsberechtigten und Aufsichtspersonen haben dafür zu sorgen, dass ausserhalb der erlaubten Ausgangszeiten auch der Heim- oder Rückweg der Kinder und Jugendlichen unter Aufsicht stattfindet.
+5) Die Erziehungsberechtigten und Aufsichtspersonen haben dafür zu sorgen, dass ausserhalb der erlaubten Ausgangszeiten auch der Heim- oder Rückweg der Kinder und Jugendlichen unter Aufsicht stattfindet.
 
-- Die Erziehungsberechtigten haben den Kontrollorganen nach Art. 75 Auskunft darüber zu erteilen, ob sie eine Erlaubnis nach Abs. 3 Bst. b erteilt haben; bei Verweigerung der Auskunft gilt die Erlaubnis als nicht erteilt.
+6) Die Erziehungsberechtigten haben den Kontrollorganen nach Art. 75 Auskunft darüber zu erteilen, ob sie eine Erlaubnis nach Abs. 3 Bst. b erteilt haben; bei Verweigerung der Auskunft gilt die Erlaubnis als nicht erteilt.
 
-- Andere Erwachsene, insbesondere Wirtinnen und Wirte sowie Personen, die Veranstaltungen durchführen, haben Kinder und Jugendliche, die sich ausserhalb der erlaubten Ausgangszeiten in ihrem Bereich befinden, zur Heim- oder Rückkehr anzuhalten.
+7) Andere Erwachsene, insbesondere Wirtinnen und Wirte sowie Personen, die Veranstaltungen durchführen, haben Kinder und Jugendliche, die sich ausserhalb der erlaubten Ausgangszeiten in ihrem Bereich befinden, zur Heim- oder Rückkehr anzuhalten.
 
 Fassung: 01.01.2017
 
@@ -1250,23 +1100,23 @@ KJG
 
 ###### Kinder- und jugendgefährdende Örtlichkeiten
 
-- Geht von einer Örtlichkeit aufgrund der Art, der Lage, der Ausstattung, der Betriebsweise, der dort stattfindenden Veranstaltungen, Darbietungen oder Schaustellungen oder vom voraussichtlichen Besucherkreis eine Gefahr für Kinder und Jugendliche nach Art. 62 Abs. 1 Bst. a und Art. 63 aus, haben die Personen, die für solche Örtlichkeiten verantwortlich sind oder dort Veranstaltungen durchführen, sicherzustellen, dass Kinder und Jugendliche, allenfalls bestimmte Altersgruppen, davon ausgeschlossen werden. Von einer Örtlichkeit kann dauerhaft oder nur zeitweise eine Gefahr für Kinder und Jugendliche ausgehen.
+1) Geht von einer Örtlichkeit aufgrund der Art, der Lage, der Ausstattung, der Betriebsweise, der dort stattfindenden Veranstaltungen, Darbietungen oder Schaustellungen oder vom voraussichtlichen Besucherkreis eine Gefahr für Kinder und Jugendliche nach Art. 62 Abs. 1 Bst. a und Art. 63 aus, haben die Personen, die für solche Örtlichkeiten verantwortlich sind oder dort Veranstaltungen durchführen, sicherzustellen, dass Kinder und Jugendliche, allenfalls bestimmte Altersgruppen, davon ausgeschlossen werden. Von einer Örtlichkeit kann dauerhaft oder nur zeitweise eine Gefahr für Kinder und Jugendliche ausgehen.
 
-- Wenn eine Örtlichkeit aus mehreren abgetrennten Räumen besteht, muss sich der Ausschluss von Kindern und Jugendlichen auf jene Teile beziehen, für die eine der Voraussetzungen nach Abs. 1 zutrifft.
+2) Wenn eine Örtlichkeit aus mehreren abgetrennten Räumen besteht, muss sich der Ausschluss von Kindern und Jugendlichen auf jene Teile beziehen, für die eine der Voraussetzungen nach Abs. 1 zutrifft.
 
-- Kinder und Jugendliche dürfen Örtlichkeiten, von denen sie ausgeschlossen wurden, nicht betreten.
+3) Kinder und Jugendliche dürfen Örtlichkeiten, von denen sie ausgeschlossen wurden, nicht betreten.
 
-- Für Örtlichkeiten, von denen eine Gefahr für die Sicherheit von Kindern und Jugendlichen ausgeht, haben die Personen, die für solche Örtlichkeiten verantwortlich sind oder dort Veranstaltungen durchführen, Sicherheitsvorkehrungen zu treffen, die dem besonderen Sicherheitsbedürfnis von Kindern und Jugendlichen entsprechen.
+4) Für Örtlichkeiten, von denen eine Gefahr für die Sicherheit von Kindern und Jugendlichen ausgeht, haben die Personen, die für solche Örtlichkeiten verantwortlich sind oder dort Veranstaltungen durchführen, Sicherheitsvorkehrungen zu treffen, die dem besonderen Sicherheitsbedürfnis von Kindern und Jugendlichen entsprechen.
 
-- Das Amt für Soziale Dienste kann den Ausschluss von Kindern und Jugendlichen von kinder- und jugendgefährdenden Örtlichkeiten mit sofortiger Wirkung anordnen, soweit dies dringend erforderlich ist. Es kann auch Beschränkungen oder Auflagen anordnen, wenn dadurch die Gefährdung ausgeschlossen oder wesentlich gemindert wird.
+5) Das Amt für Soziale Dienste kann den Ausschluss von Kindern und Jugendlichen von kinder- und jugendgefährdenden Örtlichkeiten mit sofortiger Wirkung anordnen, soweit dies dringend erforderlich ist. Es kann auch Beschränkungen oder Auflagen anordnen, wenn dadurch die Gefährdung ausgeschlossen oder wesentlich gemindert wird.
 
-- Die Regierung regelt das Nähere mit Verordnung. Sie kann insbesondere kinder- und jugendgefährdende Örtlichkeiten näher bezeichnen und Altersbeschränkungen vorsehen; die Beurteilung der schädlichen Wirkung oder der Entwicklungsbeeinträchtigung gemäss Art. 62 Abs. 1 Bst. a durch Gefahren im Sinne von Art. 63 richtet sich nach dem Stand der wissenschaftlichen Erkenntnisse.
+6) Die Regierung regelt das Nähere mit Verordnung. Sie kann insbesondere kinder- und jugendgefährdende Örtlichkeiten näher bezeichnen und Altersbeschränkungen vorsehen; die Beurteilung der schädlichen Wirkung oder der Entwicklungsbeeinträchtigung gemäss Art. 62 Abs. 1 Bst. a durch Gefahren im Sinne von Art. 63 richtet sich nach dem Stand der wissenschaftlichen Erkenntnisse.
 
 ##### Art. 67
 
 ###### Kinder- und jugendgefährdende Produkte und Dienstleistungen
 
-- Produkte und Dienstleistungen, einschliesslich Medienprodukte und -dienstleistungen, von denen Gefahren für Kinder und Jugendliche nach
+1) Produkte und Dienstleistungen, einschliesslich Medienprodukte und -dienstleistungen, von denen Gefahren für Kinder und Jugendliche nach
 
 32
 
@@ -1280,21 +1130,21 @@ KJG
 
 852.0
 
-- Art. 62 Abs. 1 Bst. a und Art. 63 oder für die Sicherheit von Kindern und Jugendlichen ausgehen, dürfen diesen, allenfalls bestimmten Altersgruppen, nicht angeboten, überlassen, vorgeführt oder sonstwie zugänglich gemacht werden. Die Sicherheit kann beispielsweise durch Produkte wie Feuerwerkskörper, waffenähnliche Gegenstände, gefährdet sein.
+Art. 62 Abs. 1 Bst. a und Art. 63 oder für die Sicherheit von Kindern und Jugendlichen ausgehen, dürfen diesen, allenfalls bestimmten Altersgruppen, nicht angeboten, überlassen, vorgeführt oder sonstwie zugänglich gemacht werden. Die Sicherheit kann beispielsweise durch Produkte wie Feuerwerkskörper, waffenähnliche Gegenstände, gefährdet sein.
 
-- Personen, die kinder- und jugendgefährdende Produkte oder Dienstleistungen nach Abs. 1 anbieten oder vorführen und Unternehmer, die den Zugang zu solchen Produkten oder Dienstleistungen ermöglichen, haben durch geeignete und zumutbare Massnahmen sicherzustellen, dass Kinder und Jugendliche keinen Zugang zu Produkten und Dienstleistungen erhalten, die für ihre Altersgruppe nicht geeignet sind.
+2) Personen, die kinder- und jugendgefährdende Produkte oder Dienstleistungen nach Abs. 1 anbieten oder vorführen und Unternehmer, die den Zugang zu solchen Produkten oder Dienstleistungen ermöglichen, haben durch geeignete und zumutbare Massnahmen sicherzustellen, dass Kinder und Jugendliche keinen Zugang zu Produkten und Dienstleistungen erhalten, die für ihre Altersgruppe nicht geeignet sind.
 
-- Automaten und ähnliche Geräte, die kinder- und jugendgefährdende Produkte enthalten, dürfen nur aufgestellt werden, wenn durch entsprechende Sicherheitsvorkehrung sichergestellt ist, dass Kinder und Jugendliche diese Produkte nicht erhalten. Dies gilt insbesondere für Selbstbedienungsautomaten wie Zigaretten- und Spielautomaten.
+3) Automaten und ähnliche Geräte, die kinder- und jugendgefährdende Produkte enthalten, dürfen nur aufgestellt werden, wenn durch entsprechende Sicherheitsvorkehrung sichergestellt ist, dass Kinder und Jugendliche diese Produkte nicht erhalten. Dies gilt insbesondere für Selbstbedienungsautomaten wie Zigaretten- und Spielautomaten.
 
-- Personen, die kinder- und jugendgefährdende Produkte und Dienstleistungen herstellen, vertreiben, anbieten oder vorführen haben insbesondere auch sicherzustellen, dass Kinder und Jugendliche, allenfalls bestimmte Altersgruppen, nicht bei der Herstellung, beim Vertrieb, beim Verkauf oder bei der Vorführung von kinder- und jugendgefährdenden Produkten und Dienstleistungen mitwirken, es sei denn, dass deren Mitwirkung nach anderen gesetzlichen Bestimmungen erlaubt ist, und erforderlichenfalls eine entsprechende Bewilligung einer zuständigen Behörde vorliegt.
+4) Personen, die kinder- und jugendgefährdende Produkte und Dienstleistungen herstellen, vertreiben, anbieten oder vorführen haben insbesondere auch sicherzustellen, dass Kinder und Jugendliche, allenfalls bestimmte Altersgruppen, nicht bei der Herstellung, beim Vertrieb, beim Verkauf oder bei der Vorführung von kinder- und jugendgefährdenden Produkten und Dienstleistungen mitwirken, es sei denn, dass deren Mitwirkung nach anderen gesetzlichen Bestimmungen erlaubt ist, und erforderlichenfalls eine entsprechende Bewilligung einer zuständigen Behörde vorliegt.
 
-- Das Amt für Soziale Dienste kann Massnahmen im Sinne des Abs. 6 mit sofortiger Wirkung anordnen, soweit dies dringend erforderlich ist.
+5) Das Amt für Soziale Dienste kann Massnahmen im Sinne des Abs. 6 mit sofortiger Wirkung anordnen, soweit dies dringend erforderlich ist.
 
-- Die Regierung regelt das Nähere mit Verordnung, insbesondere kann sie:
+6) Die Regierung regelt das Nähere mit Verordnung, insbesondere kann sie:
 
-- kinderund jugendgefährdende Produkte und Dienstleistungen bezeichnen und festlegen, welche Produkte und Dienstleistungen nur für bestimmte Altersgruppen geeignet sind; die Beurteilung der schädlichen Wirkung oder der Entwicklungsbeeinträchtigung gemäss Art. 62 Abs. 1 Bst. a durch Gefahren im Sinne von Art. 63 richtet sich nach dem Stand der wissenschaftlichen Erkenntnisse;
+a) kinder- und jugendgefährdende Produkte und Dienstleistungen bezeichnen und festlegen, welche Produkte und Dienstleistungen nur für bestimmte Altersgruppen geeignet sind; die Beurteilung der schädlichen Wirkung oder der Entwicklungsbeeinträchtigung gemäss Art. 62 Abs. 1 Bst. a durch Gefahren im Sinne von Art. 63 richtet sich nach dem Stand der wissenschaftlichen Erkenntnisse;
 
-- festlegen, welche Massnahmen die Verantwortlichen nach Abs. 2 zu treffen haben;
+b) festlegen, welche Massnahmen die Verantwortlichen nach Abs. 2 zu treffen haben;
 
 Fassung: 01.01.2017
 
@@ -1308,29 +1158,29 @@ Fassung: 01.01.2017
 
 KJG
 
-- die Ausstellung von kinder- und jugendgefährdenden Produkten und Dienstleistungen an Orten, wo sie Kindern und Jugendlichen zugänglich sind, verbieten;
+c) die Ausstellung von kinder- und jugendgefährdenden Produkten und Dienstleistungen an Orten, wo sie Kindern und Jugendlichen zugänglich sind, verbieten;
 
-- die Bewerbung von kinder- und jugendgefährdenden Produkten und Dienstleistungen im Sinne des Art. 70 beschränken;
+d) die Bewerbung von kinder- und jugendgefährdenden Produkten und Dienstleistungen im Sinne des Art. 70 beschränken;
 
-- Kindern und Jugendlichen den Konsum und Besitz bestimmter kinderund jugendgefährdender Produkte verbieten.
+e) Kindern und Jugendlichen den Konsum und Besitz bestimmter kinder- und jugendgefährdender Produkte verbieten.
 
-- Die Bestimmungen der Mediengesetzgebung über den Schutz von Kindern und Jugendlichen bleiben vorbehalten.
+7) Die Bestimmungen der Mediengesetzgebung über den Schutz von Kindern und Jugendlichen bleiben vorbehalten.
 
 ##### Art. 68
 
 ###### Altersfreigabe, Klassifizierung und Hinweispflichten für audio-visuelle Medienprodukte und -dienstleistungen
 
-- Audio-visuelle Medienprodukte und -dienstleistungen, insbesondere Filme und Unterhaltungssoftware, dürfen Kindern und Jugendlichen nur dann angeboten, überlassen, vorgeführt oder sonstwie zugänglich gemacht werden und von diesen nur dann in ihren Besitz gebracht und konsumiert werden, wenn sie für ihre jeweilige Altersgruppe nach Abs. 2 freigegeben sind.
+1) Audio-visuelle Medienprodukte und -dienstleistungen, insbesondere Filme und Unterhaltungssoftware, dürfen Kindern und Jugendlichen nur dann angeboten, überlassen, vorgeführt oder sonstwie zugänglich gemacht werden und von diesen nur dann in ihren Besitz gebracht und konsumiert werden, wenn sie für ihre jeweilige Altersgruppe nach Abs. 2 freigegeben sind.
 
-- Personen, die audio-visuelle Medienprodukte und -dienstleistungen gewerbsmässig anbieten oder vorführen, haben entsprechend den Empfehlungen der vom Amt für Soziale Dienste bezeichneten Referenzstellen die Mindestalterklassifizierung sicherzustellen und auf diese deutlich sichtbar hinzuweisen. Liegt keine Empfehlung vor, so erfolgt die Mindestalterklassifizierung nach den Vorgaben des Amtes für Soziale Dienste.
+2) Personen, die audio-visuelle Medienprodukte und -dienstleistungen gewerbsmässig anbieten oder vorführen, haben entsprechend den Empfehlungen der vom Amt für Soziale Dienste bezeichneten Referenzstellen die Mindestalterklassifizierung sicherzustellen und auf diese deutlich sichtbar hinzuweisen. Liegt keine Empfehlung vor, so erfolgt die Mindestalterklassifizierung nach den Vorgaben des Amtes für Soziale Dienste.
 
-- In Fernsehprogrammen von Zeitungen und Zeitschriften, für die Beiträge nach den Bestimmungen der Medienförderungsgesetzgebung ausgerichtet werden, ist nach Möglichkeit auf die Mindestalterempfehlungen hinzuweisen.
+3) In Fernsehprogrammen von Zeitungen und Zeitschriften, für die Beiträge nach den Bestimmungen der Medienförderungsgesetzgebung ausgerichtet werden, ist nach Möglichkeit auf die Mindestalterempfehlungen hinzuweisen.
 
 ##### Art. 69
 
 ###### Alkoholhaltige Getränke und Tabakwaren
 
-- Die Abgabe und Weitergabe von alkoholhaltigen Getränken sowie Tabakerzeugnissen und Raucherwaren mit Tabakersatzstoffen (Tabakwaren) an Kinder und nicht berechtigte Jugendliche nach Abs. 3 und 4 sind verboten. Dies gilt auch dann, wenn die alkoholhaltigen Getränke und Tabakwaren für andere Personen bestimmt sind.
+1) Die Abgabe und Weitergabe von alkoholhaltigen Getränken sowie Tabakerzeugnissen und Raucherwaren mit Tabakersatzstoffen (Tabakwaren) an Kinder und nicht berechtigte Jugendliche nach Abs. 3 und 4 sind verboten. Dies gilt auch dann, wenn die alkoholhaltigen Getränke und Tabakwaren für andere Personen bestimmt sind.
 
 34
 
@@ -1344,33 +1194,33 @@ KJG
 
 852.0
 
-- An Veranstaltungen, die sich speziell an Kinder und Jugendliche richten, dürfen gebrannter Alkohol (Spirituosen) und industriell hergestellte alkoholhaltige Mischgetränke (Alkopops) nicht abgegeben werden.
+2) An Veranstaltungen, die sich speziell an Kinder und Jugendliche richten, dürfen gebrannter Alkohol (Spirituosen) und industriell hergestellte alkoholhaltige Mischgetränke (Alkopops) nicht abgegeben werden.
 
-- Der Konsum und der Besitz von alkoholhaltigen Getränken und Tabakwaren sind Kindern sowie Jugendlichen unter 16 Jahren verboten.
+3) Der Konsum und der Besitz von alkoholhaltigen Getränken und Tabakwaren sind Kindern sowie Jugendlichen unter 16 Jahren verboten.
 
-- Der Konsum und der Besitz von Spirituosen und Alkopops sind Kindern und Jugendlichen verboten.
+4) Der Konsum und der Besitz von Spirituosen und Alkopops sind Kindern und Jugendlichen verboten.
 
-- Kinder und Jugendliche dürfen zur Übertretung der Verbote nach Abs. 1 bis 4 nicht verleitet werden.
+5) Kinder und Jugendliche dürfen zur Übertretung der Verbote nach Abs. 1 bis 4 nicht verleitet werden.
 
-- Im Getränkeangebot in Gaststätten sowie in Vereinslokalen, Diskotheken, Clubs und bei Veranstaltungen, die Kindern und Jugendlichen zugänglich sind, sind mindestens drei gängige alkoholfreie Getränke günstiger anzubieten als das günstigste alkoholhaltige Getränk in der gleichen Menge.
+6) Im Getränkeangebot in Gaststätten sowie in Vereinslokalen, Diskotheken, Clubs und bei Veranstaltungen, die Kindern und Jugendlichen zugänglich sind, sind mindestens drei gängige alkoholfreie Getränke günstiger anzubieten als das günstigste alkoholhaltige Getränk in der gleichen Menge.
 
-- Alkoholhaltige Getränke müssen so zum Verkauf angeboten werden, dass sie von alkoholfreien Getränken deutlich unterscheidbar sind.
+7) Alkoholhaltige Getränke müssen so zum Verkauf angeboten werden, dass sie von alkoholfreien Getränken deutlich unterscheidbar sind.
 
 ##### Art. 70
 
 ###### Werbung für alkoholhaltige Getränke und Tabakwaren
 
-- Die Werbung für alkoholhaltige Getränke und Tabakwaren, die sich speziell an Kinder und Jugendliche richtet, sowie der Einsatz von Kindern und Jugendlichen zur Bewerbung von alkoholhaltigen Getränken und Tabakwaren sind verboten.
+1) Die Werbung für alkoholhaltige Getränke und Tabakwaren, die sich speziell an Kinder und Jugendliche richtet, sowie der Einsatz von Kindern und Jugendlichen zur Bewerbung von alkoholhaltigen Getränken und Tabakwaren sind verboten.
 
-- Alkoholhaltige Getränke und Tabakwaren dürfen nicht mit Angaben und Abbildungen versehen werden, die sich speziell an Kinder und Jugendliche richten. Bezüglich der Aufmachung alkoholhaltiger Getränke und Tabakwaren gilt dasselbe.
+2) Alkoholhaltige Getränke und Tabakwaren dürfen nicht mit Angaben und Abbildungen versehen werden, die sich speziell an Kinder und Jugendliche richten. Bezüglich der Aufmachung alkoholhaltiger Getränke und Tabakwaren gilt dasselbe.
 
-- Die Werbung für alkoholhaltige Getränke und Tabakwaren ist insbesondere verboten:
+3) Die Werbung für alkoholhaltige Getränke und Tabakwaren ist insbesondere verboten:
 
-- an Orten, wo sich hauptsächlich Kinder und Jugendliche aufhalten;
+a) an Orten, wo sich hauptsächlich Kinder und Jugendliche aufhalten;
 
-- an Kultur-, Sport- oder anderen Veranstaltungen, die hauptsächlich von Kindern und Jugendlichen besucht werden;
+b) an Kultur-, Sport- oder anderen Veranstaltungen, die hauptsächlich von Kindern und Jugendlichen besucht werden;
 
-- in Medienprodukten und -dienstleistungen, wie Zeitungen, Zeitschriften, Filme, Unterhaltungssoftware, die hauptsächlich für Kinder und Jugendliche bestimmt sind;
+c) in Medienprodukten und -dienstleistungen, wie Zeitungen, Zeitschriften, Filme, Unterhaltungssoftware, die hauptsächlich für Kinder und Jugendliche bestimmt sind;
 
 Fassung: 01.01.2017
 
@@ -1384,25 +1234,25 @@ Fassung: 01.01.2017
 
 KJG
 
-- durch unentgeltliche Abgabe von Werbegegenständen an Kinder und Jugendliche wie T-Shirts, Mützen, Fähnchen, Badebälle;
+d) durch unentgeltliche Abgabe von Werbegegenständen an Kinder und Jugendliche wie T-Shirts, Mützen, Fähnchen, Badebälle;
 
-- durch unentgeltliche Abgabe von alkoholhaltigen Getränken und Tabakwaren an Kinder und Jugendliche;
+e) durch unentgeltliche Abgabe von alkoholhaltigen Getränken und Tabakwaren an Kinder und Jugendliche;
 
-- auf Spielzeug;
+f) auf Spielzeug;
 
-- auf Schulmaterialien wie Schulmappen, Etuis, Füllfederhaltern.
+g) auf Schulmaterialien wie Schulmappen, Etuis, Füllfederhaltern.
 
-- Die Bestimmungen der Mediengesetzgebung zum Schutz von Kindern und Jugendlichen bleiben vorbehalten.
+4) Die Bestimmungen der Mediengesetzgebung zum Schutz von Kindern und Jugendlichen bleiben vorbehalten.
 
 ##### Art. 71
 
 ###### Betäubungsmittel
 
-- Auf die Herstellung, die Abgabe, den Bezug und die Verwendung von Betäubungsmitteln finden die Straf- und sonstigen gesetzlichen Bestimmungen über die Betäubungsmittel Anwendung. Bei Zuwiderhandlungen durch Kinder und Jugendliche kommen neben dem Jugendgerichtsgesetz auch die Bestimmungen dieses Gesetzes, insbesondere die Art. 31 bis 34, zur Anwendung.
+1) Auf die Herstellung, die Abgabe, den Bezug und die Verwendung von Betäubungsmitteln finden die Straf- und sonstigen gesetzlichen Bestimmungen über die Betäubungsmittel Anwendung. Bei Zuwiderhandlungen durch Kinder und Jugendliche kommen neben dem Jugendgerichtsgesetz auch die Bestimmungen dieses Gesetzes, insbesondere die Art. 31 bis 34, zur Anwendung.
 
-- Der Konsum und der Besitz von Substanzen, die unter das Betäubungsmittelgesetz fallen, deren Konsum und Besitz Erwachsenen aber nicht untersagt ist, ist Kindern und Jugendlichen verboten. Bei Übertretung dieser Verbote durch Kinder und Jugendliche kommen die Kinder- und Jugendschutzbestimmungen zur Anwendung; eine strafrechtliche Verfolgung findet nicht statt.
+2) Der Konsum und der Besitz von Substanzen, die unter das Betäubungsmittelgesetz fallen, deren Konsum und Besitz Erwachsenen aber nicht untersagt ist, ist Kindern und Jugendlichen verboten. Bei Übertretung dieser Verbote durch Kinder und Jugendliche kommen die Kinder- und Jugendschutzbestimmungen zur Anwendung; eine strafrechtliche Verfolgung findet nicht statt.
 
-- Substanzen, die nicht unter das Betäubungsmittelgesetz fallen, jedoch der Betäubung, Aufputschung oder Berauschung dienen, dürfen nicht an Kinder und Jugendliche abgegeben oder weitergegeben werden und von diesen nicht konsumiert oder in ihren Besitz gebracht werden. Dies gilt jedoch nicht, wenn die Anwendung ärztlich angeordnet wurde. Es kommen die Kinderund Jugendschutzbestimmungen, insbesondere Art. 67, zur Anwendung.
+3) Substanzen, die nicht unter das Betäubungsmittelgesetz fallen, jedoch der Betäubung, Aufputschung oder Berauschung dienen, dürfen nicht an Kinder und Jugendliche abgegeben oder weitergegeben werden und von diesen nicht konsumiert oder in ihren Besitz gebracht werden. Dies gilt jedoch nicht, wenn die Anwendung ärztlich angeordnet wurde. Es kommen die Kinder- und Jugendschutzbestimmungen, insbesondere Art. 67, zur Anwendung.
 
 36
 
@@ -1428,19 +1278,19 @@ Die Gemeinden sind bei der Durchführung des Kinder- und Jugendschutzes zur Mitw
 
 ###### Alterskontroll- und Hinweispflichten
 
-- Die nach Abschnitt B verantwortlichen Personen haben in ihrem Bereich für die Einhaltung der Altersbeschränkungen zu sorgen, indem sie Alterskontrollen durchführen. Dies betrifft insbesondere Gaststätten, Lebensmittelläden, Kioske, Videotheken, Kinos, Vereinslokale, Discotheken, Clubs und Veranstaltungen.
+1) Die nach Abschnitt B verantwortlichen Personen haben in ihrem Bereich für die Einhaltung der Altersbeschränkungen zu sorgen, indem sie Alterskontrollen durchführen. Dies betrifft insbesondere Gaststätten, Lebensmittelläden, Kioske, Videotheken, Kinos, Vereinslokale, Discotheken, Clubs und Veranstaltungen.
 
-- Die nach Abs. 1 Verantwortlichen haben auf die für ihren Bereich geltenden Kinder- und Jugendschutzbestimmungen nach den Vorgaben des Amtes für Soziale Dienste an geeigneten Stellen deutlich sichtbar hinzuweisen. In Bezug auf die Altersbeschränkungen gelten die Hinweispflichten auch für Werbung und Ankündigungen.
+2) Die nach Abs. 1 Verantwortlichen haben auf die für ihren Bereich geltenden Kinder- und Jugendschutzbestimmungen nach den Vorgaben des Amtes für Soziale Dienste an geeigneten Stellen deutlich sichtbar hinzuweisen. In Bezug auf die Altersbeschränkungen gelten die Hinweispflichten auch für Werbung und Ankündigungen.
 
-- Die nach Abs. 1 Verantwortlichen haben durch weitere geeignete Massnahmen, insbesondere durch Aufklärung, Verweigerung der Abgabe von Produkten oder der Erbringung von Dienstleistungen, Verweigerung des Zutritts oder Verweisung von Örtlichkeiten, dafür zu sorgen, dass die für ihren Bereich geltenden Kinder- und Jugendschutzbestimmungen eingehalten werden.
+3) Die nach Abs. 1 Verantwortlichen haben durch weitere geeignete Massnahmen, insbesondere durch Aufklärung, Verweigerung der Abgabe von Produkten oder der Erbringung von Dienstleistungen, Verweigerung des Zutritts oder Verweisung von Örtlichkeiten, dafür zu sorgen, dass die für ihren Bereich geltenden Kinder- und Jugendschutzbestimmungen eingehalten werden.
 
-- Die Gemeinden haben dafür zu sorgen, dass die Kinder- und Jugendschutzbestimmungen und insbesondere die Altersbeschränkungen bei Veranstaltungen in gemeindeeigenen Räumlichkeiten und auf öffentlichen Plätzen der Gemeinde deutlich sichtbar bekannt gemacht und eingehalten werden.
+4) Die Gemeinden haben dafür zu sorgen, dass die Kinder- und Jugendschutzbestimmungen und insbesondere die Altersbeschränkungen bei Veranstaltungen in gemeindeeigenen Räumlichkeiten und auf öffentlichen Plätzen der Gemeinde deutlich sichtbar bekannt gemacht und eingehalten werden.
 
 ##### Art. 74
 
 ###### Ausweispflicht
 
-- Zum Nachweis der Erreichung eines nach diesem Gesetz oder der dazu erlassenen Verordnungen bestimmten Mindestalters ist auf Verlangen ein gültiger Ausweis vorzuzeigen.
+1) Zum Nachweis der Erreichung eines nach diesem Gesetz oder der dazu erlassenen Verordnungen bestimmten Mindestalters ist auf Verlangen ein gültiger Ausweis vorzuzeigen.
 
 Fassung: 01.01.2017
 
@@ -1454,27 +1304,27 @@ Fassung: 01.01.2017
 
 KJG
 
-- Als Ausweis nach Abs. 1 gelten:
+2) Als Ausweis nach Abs. 1 gelten:
 
-- Reisepass;
+a) Reisepass;
 
-- Identitätskarte;
+b) Identitätskarte;
 
-- Führerausweis.
+c) Führerausweis.
 
-- Die Ausweispflicht nach Abs. 1 besteht gegenüber den Kontrollorganen der Landespolizei, der Gemeinden und des Amtes für Soziale Dienste sowie gegenüber anderen Personen, die zur Durchführung von Alterskontrollen verpflichtet sind, insbesondere in Gaststätten, Lebensmittelläden, Kiosken, Videotheken, Kinos, Vereinslokalen, Discotheken, Clubs und bei Veranstaltungen.
+3) Die Ausweispflicht nach Abs. 1 besteht gegenüber den Kontrollorganen der Landespolizei, der Gemeinden und des Amtes für Soziale Dienste sowie gegenüber anderen Personen, die zur Durchführung von Alterskontrollen verpflichtet sind, insbesondere in Gaststätten, Lebensmittelläden, Kiosken, Videotheken, Kinos, Vereinslokalen, Discotheken, Clubs und bei Veranstaltungen.
 
 ##### Art. 75
 
 ###### Kontroll- und Überwachungsorgane
 
-- Für die Kontrolle und Überwachung der Einhaltung der Kinderund Jugendschutzbestimmungen sind die Landespolizei, die Gemeinden, das Amt für Soziale Dienste und andere mit Kinder- und Jugendschutzfragen befasste Behörden zuständig. Sie haben bei der Erfüllung ihrer Aufgaben zusammenzuwirken.
+1) Für die Kontrolle und Überwachung der Einhaltung der Kinder- und Jugendschutzbestimmungen sind die Landespolizei, die Gemeinden, das Amt für Soziale Dienste und andere mit Kinder- und Jugendschutzfragen befasste Behörden zuständig. Sie haben bei der Erfüllung ihrer Aufgaben zusammenzuwirken.
 
-- Die Landespolizei ist insbesondere für die Organisation und Koordination von Personenkontrollen zuständig. Sie hat insbesondere dafür zu sorgen, dass die Personenkontrollen in Gaststätten und bei Veranstaltungen systematisch durchgeführt werden. Bei begründetem Verdacht auf Übertretung der Verbote, die für den Konsum von Alkohol und Betäubungsmitteln gelten, ist sie berechtigt, an Kindern und Jugendlichen einen Nachweistest vorzunehmen oder zu veranlassen. Eine Verweigerung des Nachweistestes führt zu einer Meldung nach Abs. 6.
+2) Die Landespolizei ist insbesondere für die Organisation und Koordination von Personenkontrollen zuständig. Sie hat insbesondere dafür zu sorgen, dass die Personenkontrollen in Gaststätten und bei Veranstaltungen systematisch durchgeführt werden. Bei begründetem Verdacht auf Übertretung der Verbote, die für den Konsum von Alkohol und Betäubungsmitteln gelten, ist sie berechtigt, an Kindern und Jugendlichen einen Nachweistest vorzunehmen oder zu veranlassen. Eine Verweigerung des Nachweistestes führt zu einer Meldung nach Abs. 6.
 
-- Müssen Kinder und Jugendliche in Folge einer polizeilichen Kontrolle zur Übergabe an die Erziehungsberechtigten nach Hause verbracht werden, so haben die Erziehungsberechtigten die Kosten für den Heimtransport zu tragen. Die Landespolizei stellt eine Gebühr von 150 Franken in Rechnung.
+3) Müssen Kinder und Jugendliche in Folge einer polizeilichen Kontrolle zur Übergabe an die Erziehungsberechtigten nach Hause verbracht werden, so haben die Erziehungsberechtigten die Kosten für den Heimtransport zu tragen. Die Landespolizei stellt eine Gebühr von 150 Franken in Rechnung.
 
-- Die Kontrollorgane der Landespolizei, der Gemeinden und des Amtes für Soziale Dienste haben Kindern und Jugendlichen alkoholhaltige Getränke, Tabakwaren und andere kinder- und jugendgefährdende Produkte abzunehmen und die Produkte einzuziehen, wenn diese im direkten Zusammenhang mit einer Übertretung der Kinder- und Jugendschutzbestimmungen stehen.
+4) Die Kontrollorgane der Landespolizei, der Gemeinden und des Amtes für Soziale Dienste haben Kindern und Jugendlichen alkoholhaltige Getränke, Tabakwaren und andere kinder- und jugendgefährdende Produkte abzunehmen und die Produkte einzuziehen, wenn diese im direkten Zusammenhang mit einer Übertretung der Kinder- und Jugendschutzbestimmungen stehen.
 
 38
 
@@ -1488,25 +1338,25 @@ KJG
 
 852.0
 
-- Das Amt für Soziale Dienste kann Testkäufe durch Kinder und Jugendliche vornehmen lassen. Um die pädagogische Betreuung der beteiligten Kinder oder Jugendlichen sicherzustellen, dürfen Privatpersonen und juristische Personen nur in Absprache mit dem Amt für Soziale Dienste Testkäufe durch Kinder und Jugendliche vornehmen lassen. Der Einsatz von Kindern und Jugendlichen ist nur mit Zustimmung der Eltern zulässig.
+5) Das Amt für Soziale Dienste kann Testkäufe durch Kinder und Jugendliche vornehmen lassen. Um die pädagogische Betreuung der beteiligten Kinder oder Jugendlichen sicherzustellen, dürfen Privatpersonen und juristische Personen nur in Absprache mit dem Amt für Soziale Dienste Testkäufe durch Kinder und Jugendliche vornehmen lassen. Der Einsatz von Kindern und Jugendlichen ist nur mit Zustimmung der Eltern zulässig.
 
-- Die Kontrollorgane der Landespolizei und der Gemeinden melden dem Amt für Soziale Dienste:
+6) Die Kontrollorgane der Landespolizei und der Gemeinden melden dem Amt für Soziale Dienste:
 
-- festgestellte Übertretungen der Kinder- und Jugendschutzbestimmungen durch Kinder und Jugendliche, ausgenommen Bagatellfälle;
+a) festgestellte Übertretungen der Kinder- und Jugendschutzbestimmungen durch Kinder und Jugendliche, ausgenommen Bagatellfälle;
 
-- wenn sie einen Jugendlichen oder eine Jugendliche wiederholt in einem schwer berauschten Zustand angetroffen haben.
+b) wenn sie einen Jugendlichen oder eine Jugendliche wiederholt in einem schwer berauschten Zustand angetroffen haben.
 
-- Die Kontrollorgane der Gemeinden und des Amtes für Soziale Dienste haben festgestellte Übertretungen durch Erwachsene der Landespolizei zur Anzeige zu bringen.
+7) Die Kontrollorgane der Gemeinden und des Amtes für Soziale Dienste haben festgestellte Übertretungen durch Erwachsene der Landespolizei zur Anzeige zu bringen.
 
 ##### Art. 76
 
 ###### Pädagogische Massnahmen bei Übertretungen durch Kinder und Jugendliche
 
-- Das Amt für Soziale Dienste hat die Erziehungsberechtigten von nach Art. 75 Abs. 6 gemeldeten Übertretungen der Kinder- und Jugendschutzbestimmungen durch ihre Kinder und Jugendlichen zu unterrichten. Die Erziehungsberechtigten haben geeignete Erziehungsmassnahmen zu treffen.
+1) Das Amt für Soziale Dienste hat die Erziehungsberechtigten von nach Art. 75 Abs. 6 gemeldeten Übertretungen der Kinder- und Jugendschutzbestimmungen durch ihre Kinder und Jugendlichen zu unterrichten. Die Erziehungsberechtigten haben geeignete Erziehungsmassnahmen zu treffen.
 
-- Das Amt für Soziale Dienste kann Kinder und Jugendliche und ihre Erziehungsberechtigten verpflichten, an pädagogischen Aussprachen mit einer Fachperson des Amtes für Soziale Dienste teilzunehmen und die dort vereinbarten Erziehungsmassnahmen umzusetzen.
+2) Das Amt für Soziale Dienste kann Kinder und Jugendliche und ihre Erziehungsberechtigten verpflichten, an pädagogischen Aussprachen mit einer Fachperson des Amtes für Soziale Dienste teilzunehmen und die dort vereinbarten Erziehungsmassnahmen umzusetzen.
 
-- Das Amt für Soziale Dienste kann Kinder und Jugendliche zur Teilnahme an einem Kurs, einer Schulung, einem Training oder einem pädagogisch-therapeutischen Gruppenprogramm verpflichten. Es kann Kindern und Jugendlichen auch die Weisung oder Auflage erteilen, in der Freizeit bestimmte erzieherisch wirksame Aufgaben, wie gemeinnützige Aktivitäten oder Mithilfe beim Betrieb gemeinnütziger Einrichtungen, unentgeltlich zu übernehmen, wobei sie für höchstens 40 Stunden verpflichtet werden dürfen.
+3) Das Amt für Soziale Dienste kann Kinder und Jugendliche zur Teilnahme an einem Kurs, einer Schulung, einem Training oder einem pädagogisch-therapeutischen Gruppenprogramm verpflichten. Es kann Kindern und Jugendlichen auch die Weisung oder Auflage erteilen, in der Freizeit bestimmte erzieherisch wirksame Aufgaben, wie gemeinnützige Aktivitäten oder Mithilfe beim Betrieb gemeinnütziger Einrichtungen, unentgeltlich zu übernehmen, wobei sie für höchstens 40 Stunden verpflichtet werden dürfen.
 
 Fassung: 01.01.2017
 
@@ -1520,13 +1370,13 @@ Fassung: 01.01.2017
 
 KJG
 
-- Kinder und Jugendliche dürfen nur zu solchen Aufgaben herangezogen werden, deren Übernahme ihnen unter Berücksichtigung ihrer persönlichen Verhältnisse, insbesondere ihrer Fähigkeiten, ihres Alters und ihrer Gesundheit, zumutbar ist.
+4) Kinder und Jugendliche dürfen nur zu solchen Aufgaben herangezogen werden, deren Übernahme ihnen unter Berücksichtigung ihrer persönlichen Verhältnisse, insbesondere ihrer Fähigkeiten, ihres Alters und ihrer Gesundheit, zumutbar ist.
 
-- Mit dem Vollzug und der Überwachung von Massnahmen nach Abs. 3 kann das Amt für Soziale Dienste geeignete Institutionen beauftragen.
+5) Mit dem Vollzug und der Überwachung von Massnahmen nach Abs. 3 kann das Amt für Soziale Dienste geeignete Institutionen beauftragen.
 
-- Das Land hat Kinder und Jugendliche für den Fall ihrer Verpflichtung zur Übernahme gemeinnütziger Aufgaben nach Abs. 3 gegen Krankheit und Unfall zu versichern, sofern kein anderer Versicherungsschutz besteht.
+6) Das Land hat Kinder und Jugendliche für den Fall ihrer Verpflichtung zur Übernahme gemeinnütziger Aufgaben nach Abs. 3 gegen Krankheit und Unfall zu versichern, sofern kein anderer Versicherungsschutz besteht.
 
-- Weiters sorgt das Land für einen Versicherungsschutz in jenen Fällen, in denen Kinder und Jugendliche bei der Übernahme einer gemeinnützigen Aufgabe einer Einrichtung, einem Betrieb, einem Träger oder einem Dritten Schaden zufügen, sofern kein anderer Versicherungsschutz besteht. Das Land hat den Schaden nur in Geld zu ersetzen. Von Einrichtungen, Betrieben und Trägern kann das Land Rückersatz begehren, insoweit diesen oder ihren Organen Vorsatz oder grobe Fahrlässigkeit, insbesondere durch Vernachlässigung der Aufsicht oder Anleitung, zur Last fällt.
+7) Weiters sorgt das Land für einen Versicherungsschutz in jenen Fällen, in denen Kinder und Jugendliche bei der Übernahme einer gemeinnützigen Aufgabe einer Einrichtung, einem Betrieb, einem Träger oder einem Dritten Schaden zufügen, sofern kein anderer Versicherungsschutz besteht. Das Land hat den Schaden nur in Geld zu ersetzen. Von Einrichtungen, Betrieben und Trägern kann das Land Rückersatz begehren, insoweit diesen oder ihren Organen Vorsatz oder grobe Fahrlässigkeit, insbesondere durch Vernachlässigung der Aufsicht oder Anleitung, zur Last fällt.
 
 ## IV. Kinder- und Jugendförderung
 
@@ -1536,15 +1386,15 @@ KJG
 
 Die Kinder- und Jugendförderung bezweckt insbesondere durch Förderung der offenen sowie der verbandlichen Kinder- und Jugendarbeit im ausserschulischen und ausserberuflichen Bereich:
 
-- die altersgemässe Entfaltung junger Menschen und die Erweiterung deren Lern- und Entwicklungsmöglichkeiten;
+a) die altersgemässe Entfaltung junger Menschen und die Erweiterung deren Lern- und Entwicklungsmöglichkeiten;
 
-- die soziale und kulturelle Integration sowie das interkulturelle Verständnis junger Menschen;
+b) die soziale und kulturelle Integration sowie das interkulturelle Verständnis junger Menschen;
 
-- die Unterstützung benachteiligter junger Menschen und die Verbesserung deren Chancengleichheit;
+c) die Unterstützung benachteiligter junger Menschen und die Verbesserung deren Chancengleichheit;
 
-- die Befähigung junger Menschen zu Selbst- und Mitbestimmung, Übernahme von Eigenverantwortung und gesellschaftlicher Mitverantwortung sowie deren Hinführung zu sozialem Engagement;
+d) die Befähigung junger Menschen zu Selbst- und Mitbestimmung, Übernahme von Eigenverantwortung und gesellschaftlicher Mitverantwortung sowie deren Hinführung zu sozialem Engagement;
 
-- die Erziehung junger Menschen zu Toleranz und Achtung der Menschenrechte.
+e) die Erziehung junger Menschen zu Toleranz und Achtung der Menschenrechte.
 
 40
 
@@ -1568,29 +1418,29 @@ Die Kinder- und Jugendförderung umfasst Information, Beratung und Unterstützun
 
 ###### Gegenstand der Kinder- und Jugendförderung
 
-- Gefördert werden können Initiativen von jungen Menschen, Angebote für junge Menschen, Einrichtungen und Anlagen sowie Aus- und Weiterbildung, insbesondere:
+1) Gefördert werden können Initiativen von jungen Menschen, Angebote für junge Menschen, Einrichtungen und Anlagen sowie Aus- und Weiterbildung, insbesondere:
 
-- Jugendinitiativen;
+a) Jugendinitiativen;
 
-- Veranstaltungen und Projekte für Kinder und Jugendliche;
+b) Veranstaltungen und Projekte für Kinder und Jugendliche;
 
-- der internationale Jugendaustausch;
+c) der internationale Jugendaustausch;
 
-- Kinderfreizeitangebote;
+d) Kinderfreizeitangebote;
 
-- Jugendinformation und Fachberatung;
+e) Jugendinformation und Fachberatung;
 
-- der Betrieb von Kinder- und Jugendtreffs und von Kinder- und Jugendfreizeiteinrichtungen;
+f) der Betrieb von Kinder- und Jugendtreffs und von Kinder- und Jugendfreizeiteinrichtungen;
 
-- Räumlichkeiten und Anlagen für Kinder und Jugendliche;
+g) Räumlichkeiten und Anlagen für Kinder und Jugendliche;
 
-- Fortbildungen und Jugendleiterurlaub für ehrenamtlich tätige Personen;
+h) Fortbildungen und Jugendleiterurlaub für ehrenamtlich tätige Personen;
 
-- Kurse und Veranstaltungen der Fortund Weiterbildung für in der Kinder- und Jugendarbeit tätige Personen;
+i) Kurse und Veranstaltungen der Fort- und Weiterbildung für in der Kinder- und Jugendarbeit tätige Personen;
 
-- Praktikums- und Ausbildungsplätze in der Kinder- und Jugendarbeit.
+k) Praktikums- und Ausbildungsplätze in der Kinder- und Jugendarbeit.
 
-- Bei Förderungen nach Abs. 1 ist zu berücksichtigen, ob andere staatliche Förderungen, beispielsweise aus dem Kultur- oder Sportbereich, geltend gemacht werden können. In diesen Fällen ist mit Ausnahme bereichsübergreifender Projekte und Programme eine Förderung im Rahmen der Kinder- und Jugendförderung nicht vorgesehen.
+2) Bei Förderungen nach Abs. 1 ist zu berücksichtigen, ob andere staatliche Förderungen, beispielsweise aus dem Kultur- oder Sportbereich, geltend gemacht werden können. In diesen Fällen ist mit Ausnahme bereichsübergreifender Projekte und Programme eine Förderung im Rahmen der Kinder- und Jugendförderung nicht vorgesehen.
 
 ##### Art. 80
 
@@ -1598,7 +1448,7 @@ Die Kinder- und Jugendförderung umfasst Information, Beratung und Unterstützun
 
 Im Rahmen der Kinder- und Jugendförderung können insbesondere gefördert werden:
 
-- Einrichtungen der Kinder- und Jugendarbeit;
+a) Einrichtungen der Kinder- und Jugendarbeit;
 
 Fassung: 01.01.2017
 
@@ -1612,11 +1462,11 @@ Fassung: 01.01.2017
 
 KJG
 
-- Vereine, Verbände, Abteilungen von Verbänden oder andere Vereinigungen der Kinder- und Jugendarbeit;
+b) Vereine, Verbände, Abteilungen von Verbänden oder andere Vereinigungen der Kinder- und Jugendarbeit;
 
-- Kinder- und Jugendorganisationen und Jugendgruppen;
+c) Kinder- und Jugendorganisationen und Jugendgruppen;
 
-- Einzelpersonen und Personengruppen, die Veranstaltungen oder Projekte im Bereich der Kinder- und Jugendarbeit durchführen.
+d) Einzelpersonen und Personengruppen, die Veranstaltungen oder Projekte im Bereich der Kinder- und Jugendarbeit durchführen.
 
 ##### Art. 81
 
@@ -1624,33 +1474,33 @@ KJG
 
 Zur Prüfung der Förderungswürdigkeit sind folgende Kriterien heranzuziehen:
 
-- die Übereinstimmung mit dem Zweck der Kinder- und Jugendförderung;
+a) die Übereinstimmung mit dem Zweck der Kinder- und Jugendförderung;
 
-- die Öffentlichkeit, Zugänglichkeit, Gemeinnützigkeit, Planmässigkeit und Wirtschaftlichkeit;
+b) die Öffentlichkeit, Zugänglichkeit, Gemeinnützigkeit, Planmässigkeit und Wirtschaftlichkeit;
 
-- die Erbringung von Eigenleistung;
+c) die Erbringung von Eigenleistung;
 
-- die qualifizierte Leitung und Betreuung;
+d) die qualifizierte Leitung und Betreuung;
 
-- das Vorliegen eines Programms oder Konzeptes;
+e) das Vorliegen eines Programms oder Konzeptes;
 
-- eine angemessene Struktur (Organisation, Personal, Räumlichkeiten);
+f) eine angemessene Struktur (Organisation, Personal, Räumlichkeiten);
 
-- eine der Kinderund Jugendförderung entsprechende Didaktik und Methodik.
+g) eine der Kinder- und Jugendförderung entsprechende Didaktik und Methodik.
 
 ##### Art. 82
 
 ###### Zuständigkeit
 
-- Die Kinderund Jugendförderung obliegt dem Land und den Gemeinden.
+1) Die Kinder- und Jugendförderung obliegt dem Land und den Gemeinden.
 
-- Dabei gilt der Grundsatz, dass Initiativen, Angebote, Einrichtungen und Anlagen gemäss Art. 79 Abs. 1 Bst. a bis g von den Gemeinden zu fördern sind, wenn sie gemeindebezogen sind, und vom Land, wenn sie im Interesse des Landes liegen und landesweit, regional, überregional oder international ausgerichtet sind.
+2) Dabei gilt der Grundsatz, dass Initiativen, Angebote, Einrichtungen und Anlagen gemäss Art. 79 Abs. 1 Bst. a bis g von den Gemeinden zu fördern sind, wenn sie gemeindebezogen sind, und vom Land, wenn sie im Interesse des Landes liegen und landesweit, regional, überregional oder international ausgerichtet sind.
 
-- Die Förderungen nach Art. 79 Abs. 1 Bst. h bis k obliegen dem Land.
+3) Die Förderungen nach Art. 79 Abs. 1 Bst. h bis k obliegen dem Land.
 
-- Die Landesförderung erfolgt durch:
+4) Die Landesförderung erfolgt durch:
 
-- Ausrichtung finanzieller Beiträge und durch Bereitstellung von Sachmitteln. Die finanziellen Beiträge können einmalig oder regelmässig in Form von Jahresbeiträgen ausbezahlt werden;
+a) Ausrichtung finanzieller Beiträge und durch Bereitstellung von Sachmitteln. Die finanziellen Beiträge können einmalig oder regelmässig in Form von Jahresbeiträgen ausbezahlt werden;
 
 42
 
@@ -1664,23 +1514,23 @@ KJG
 
 852.0
 
-- fachliche Unterstützung durch das Amt für Soziale Dienste. Das Amt für Soziale Dienste informiert und berät in Fragen der Kinder- und Jugendförderung.
+b) fachliche Unterstützung durch das Amt für Soziale Dienste. Das Amt für Soziale Dienste informiert und berät in Fragen der Kinder- und Jugendförderung.
 
-- Die Regierung regelt das Nähere betreffend die Kinder- und Jugendförderung des Landes, insbesondere über die Förderungsvoraussetzungen und den Umfang der Förderung, mit Verordnung. Das Amt für Soziale Dienste entscheidet im Einzelfall über die Förderungswürdigkeit, die Art, den Umfang und die Höhe der Förderung.
+5) Die Regierung regelt das Nähere betreffend die Kinder- und Jugendförderung des Landes, insbesondere über die Förderungsvoraussetzungen und den Umfang der Förderung, mit Verordnung. Das Amt für Soziale Dienste entscheidet im Einzelfall über die Förderungswürdigkeit, die Art, den Umfang und die Höhe der Förderung.
 
-- In ihrem Zuständigkeitsbereich obliegt es den Gemeinden, wie sie die Kinder- und Jugendförderung, den Interessen der Kinder und Jugendlichen entsprechend, durchführen. Die Gemeindeförderung erfolgt insbesondere durch:
+6) In ihrem Zuständigkeitsbereich obliegt es den Gemeinden, wie sie die Kinder- und Jugendförderung, den Interessen der Kinder und Jugendlichen entsprechend, durchführen. Die Gemeindeförderung erfolgt insbesondere durch:
 
-- den Betrieb von Kinder- und Jugendtreffs sowie Kinder- und Jugendfreizeiteinrichtungen;
+a) den Betrieb von Kinder- und Jugendtreffs sowie Kinder- und Jugendfreizeiteinrichtungen;
 
-- Ausrichtung finanzieller Beiträge und durch Bereitstellung von Personal und Sachmitteln.
+b) Ausrichtung finanzieller Beiträge und durch Bereitstellung von Personal und Sachmitteln.
 
 ##### Art. 83
 
 ###### Zusammenarbeit
 
-- Das Land und die Gemeinden koordinieren ihre Kinder- und Jugendförderung. Zu diesem Zweck arbeiten die in den Gemeinden mit der Kinder- und Jugendförderung befassten Gremien und Einrichtungen mit dem Amt für Soziale Dienste zusammen.
+1) Das Land und die Gemeinden koordinieren ihre Kinder- und Jugendförderung. Zu diesem Zweck arbeiten die in den Gemeinden mit der Kinder- und Jugendförderung befassten Gremien und Einrichtungen mit dem Amt für Soziale Dienste zusammen.
 
-- Die Kinder- und Jugendförderung, das Schulwesen, die staatliche Berufsförderung, die Kulturund Sportförderung und andere staatliche Förderungsbereiche für junge Menschen sind hinsichtlich der Förderungsmassnahmen und Programme aufeinander abzustimmen.
+2) Die Kinder- und Jugendförderung, das Schulwesen, die staatliche Berufsförderung, die Kultur- und Sportförderung und andere staatliche Förderungsbereiche für junge Menschen sind hinsichtlich der Förderungsmassnahmen und Programme aufeinander abzustimmen.
 
 ##### Art. 84
 
@@ -1704,13 +1554,13 @@ KJG
 
 ###### Aufsicht
 
-- Die Aufsicht über die Kinder- und Jugendförderung im Zuständigkeitsbereich des Landes obliegt dem Amt für Soziale Dienste und erfolgt nach den in Art. 81 genannten Kriterien.
+1) Die Aufsicht über die Kinder- und Jugendförderung im Zuständigkeitsbereich des Landes obliegt dem Amt für Soziale Dienste und erfolgt nach den in Art. 81 genannten Kriterien.
 
-- Die Empfänger von regelmässigen Landesförderungen unterstehen einer Betriebsaufsicht. Bei einmaligen Förderungen, insbesondere bei Veranstaltungen und Projekten, beschränkt sich die Aufsicht auf Prüfung der Verwendung der Fördermittel.
+2) Die Empfänger von regelmässigen Landesförderungen unterstehen einer Betriebsaufsicht. Bei einmaligen Förderungen, insbesondere bei Veranstaltungen und Projekten, beschränkt sich die Aufsicht auf Prüfung der Verwendung der Fördermittel.
 
-- Werden im Rahmen der Aufsichtstätigkeit Mängel festgestellt und diese trotz Mahnung nicht behoben, so kann das Amt für Soziale Dienste die Fördermittel verweigern, den Leistungsvertrag kündigen oder andere geeignete Massnahmen anordnen.
+3) Werden im Rahmen der Aufsichtstätigkeit Mängel festgestellt und diese trotz Mahnung nicht behoben, so kann das Amt für Soziale Dienste die Fördermittel verweigern, den Leistungsvertrag kündigen oder andere geeignete Massnahmen anordnen.
 
-- Die Aufsicht über die Kinder- und Jugendförderung obliegt in ihrem Zuständigkeitsbereich den Gemeinden nach den in Art. 81 genannten Kriterien.
+4) Die Aufsicht über die Kinder- und Jugendförderung obliegt in ihrem Zuständigkeitsbereich den Gemeinden nach den in Art. 81 genannten Kriterien.
 
 ##### Art. 86
 
@@ -1744,11 +1594,11 @@ KJG
 
 ###### Verfahren der Beteiligung
 
-- Vom Land und von den Gemeinden sind geeignete Verfahren der Beteiligung von Kindern und Jugendlichen zu entwickeln. Diese sollen zu einem festen Bestandteil in den Meinungsbildungs- und Entscheidungsprozessen auf Landes- und Gemeindeebene werden.
+1) Vom Land und von den Gemeinden sind geeignete Verfahren der Beteiligung von Kindern und Jugendlichen zu entwickeln. Diese sollen zu einem festen Bestandteil in den Meinungsbildungs- und Entscheidungsprozessen auf Landes- und Gemeindeebene werden.
 
-- Gesetzesvorlagen, die Kinder und Jugendliche besonders betreffen, sind an die Schulen zu versenden, damit ihre Schülerinnen und Schüler im Jugendalter dazu Stellung nehmen können.
+2) Gesetzesvorlagen, die Kinder und Jugendliche besonders betreffen, sind an die Schulen zu versenden, damit ihre Schülerinnen und Schüler im Jugendalter dazu Stellung nehmen können.
 
-- Bei öffentlichen Planungen, die die Interessen von Kindern und Jugendlichen betreffen, legen das Land und die Gemeinden in geeigneter Weise öffentlich dar, wie sie diese Interessen berücksichtigen.
+3) Bei öffentlichen Planungen, die die Interessen von Kindern und Jugendlichen betreffen, legen das Land und die Gemeinden in geeigneter Weise öffentlich dar, wie sie diese Interessen berücksichtigen.
 
 ### B. Kinder- und Jugendbeirat
 
@@ -1756,15 +1606,15 @@ KJG
 
 ###### Aufgaben
 
-- Der Kinder- und Jugendbeirat vertritt die Interessen von Kindern und Jugendlichen auf Landesebene. Er ist von der Regierung in Angelegenheiten, die Kinder und Jugendliche betreffen, anzuhören und bei politischen Entscheidungen von landesweiter Bedeutung für Kinder und Jugendliche miteinzubeziehen.
+1) Der Kinder- und Jugendbeirat vertritt die Interessen von Kindern und Jugendlichen auf Landesebene. Er ist von der Regierung in Angelegenheiten, die Kinder und Jugendliche betreffen, anzuhören und bei politischen Entscheidungen von landesweiter Bedeutung für Kinder und Jugendliche miteinzubeziehen.
 
-- Der Kinder- und Jugendbeirat:
+2) Der Kinder- und Jugendbeirat:
 
-- hat Kinder und Jugendliche mit ihren Anliegen sowie Personen, Institutionen und Organisationen, die mit Kinder- und Jugendangelegenheiten befasst sind und ein derartiges Anliegen vorbringen, anzuhören und deren Anliegen zu behandeln;
+a) hat Kinder und Jugendliche mit ihren Anliegen sowie Personen, Institutionen und Organisationen, die mit Kinder- und Jugendangelegenheiten befasst sind und ein derartiges Anliegen vorbringen, anzuhören und deren Anliegen zu behandeln;
 
-- setzt sich für die Beteiligung von Kindern und Jugendlichen auf Landesund Gemeindeebene ein und koordiniert und fördert entsprechende Projekte und Initiativen;
+b) setzt sich für die Beteiligung von Kindern und Jugendlichen auf Landes- und Gemeindeebene ein und koordiniert und fördert entsprechende Projekte und Initiativen;
 
-- äussert sich zur Kinderund Jugendförderung und zu weiteren für Kinder und Jugendliche bedeutsamen Angelegenheiten;
+c) äussert sich zur Kinder- und Jugendförderung und zu weiteren für Kinder und Jugendliche bedeutsamen Angelegenheiten;
 
 Fassung: 01.01.2017
 
@@ -1778,9 +1628,9 @@ Fassung: 01.01.2017
 
 KJG
 
-- gibt Stellungnahmen zu Gesetzes- und Verordnungsentwürfen ab, die Kinder und Jugendliche in besonderem Mass berühren;
+d) gibt Stellungnahmen zu Gesetzes- und Verordnungsentwürfen ab, die Kinder und Jugendliche in besonderem Mass berühren;
 
-- kann an die Regierung und an das Amt für Soziale Dienste Anträge stellen und kinder- und jugendpolitische Empfehlungen abgeben.
+e) kann an die Regierung und an das Amt für Soziale Dienste Anträge stellen und kinder- und jugendpolitische Empfehlungen abgeben.
 
 ##### Art. 90
 
@@ -1792,25 +1642,25 @@ Zur Erfüllung seiner Aufgaben arbeitet der Kinder- und Jugendbeirat mit Landesb
 
 ###### Wahl und Zusammensetzung
 
-- Der Kinder- und Jugendbeirat wird von der Plenarversammlung nach Art. 92 aus ihrem Kreis für eine Funktionsperiode von zwei Jahren gewählt. Das Ergebnis ist der Regierung und dem Amt für Soziale Dienste zur Kenntnis zu bringen.
+1) Der Kinder- und Jugendbeirat wird von der Plenarversammlung nach Art. 92 aus ihrem Kreis für eine Funktionsperiode von zwei Jahren gewählt. Das Ergebnis ist der Regierung und dem Amt für Soziale Dienste zur Kenntnis zu bringen.
 
-- Der Kinder- und Jugendbeirat besteht aus einer vorsitzenden Person, deren Stellvertretung und höchstens acht weiteren Mitgliedern. Anzustreben sind eine ausgewogene Vertretung von Frauen und Männern sowie die Vertretung mindestens eines Jugendlichen oder einer Jugendlichen.
+2) Der Kinder- und Jugendbeirat besteht aus einer vorsitzenden Person, deren Stellvertretung und höchstens acht weiteren Mitgliedern. Anzustreben sind eine ausgewogene Vertretung von Frauen und Männern sowie die Vertretung mindestens eines Jugendlichen oder einer Jugendlichen.
 
-- Der Kinder- und Jugendbeirat kann insbesondere zu seinen Beratungen beiziehen:
+3) Der Kinder- und Jugendbeirat kann insbesondere zu seinen Beratungen beiziehen:
 
-- Mitarbeitende des Kinder- und Jugenddienstes;
+a) Mitarbeitende des Kinder- und Jugenddienstes;
 
-- Mitarbeitende des Schulamtes;
+b) Mitarbeitende des Schulamtes;
 
-- Mitarbeitende der Schulsozialarbeit;
+c) Mitarbeitende der Schulsozialarbeit;
 
-- die Ombudsperson für Kinder und Jugendliche.
+d) die Ombudsperson für Kinder und Jugendliche.
 
 ##### Art. 92
 
 ###### Plenarversammlung
 
-- Die Plenarversammlung besteht aus stimmberechtigten Vertreterinnen und Vertretern von:
+1) Die Plenarversammlung besteht aus stimmberechtigten Vertreterinnen und Vertretern von:
 
 46
 
@@ -1824,37 +1674,37 @@ KJG
 
 852.0
 
-- Vereinigungen und Einrichtungen der Kinder- und Jugendarbeit, Kinderund Jugendorganisationen sowie Einrichtungen der Kinderund Jugendhilfe;
+a) Vereinigungen und Einrichtungen der Kinder- und Jugendarbeit, Kinder- und Jugendorganisationen sowie Einrichtungen der Kinder- und Jugendhilfe;
 
-- Jugendgruppen sowie Kinder- und Jugendabteilungen von Vereinen und politischen Parteien, die landesweit tätig sind;
+b) Jugendgruppen sowie Kinder- und Jugendabteilungen von Vereinen und politischen Parteien, die landesweit tätig sind;
 
-- repräsentativen Organisationen der Kinder- und Jugendbeteiligung;
+c) repräsentativen Organisationen der Kinder- und Jugendbeteiligung;
 
-- Interessensvertretungen von Kindern und Jugendlichen in den Gemeinden;
+d) Interessensvertretungen von Kindern und Jugendlichen in den Gemeinden;
 
-- Elternvereinigungen.
+e) Elternvereinigungen.
 
-- Die in Abs. 1 genannten Gremien können jeweils eine Person in die Plenarversammlung entsenden. Eine ausgewogene Vertretung von Frauen und Männern ist anzustreben.
+2) Die in Abs. 1 genannten Gremien können jeweils eine Person in die Plenarversammlung entsenden. Eine ausgewogene Vertretung von Frauen und Männern ist anzustreben.
 
-- Die Plenarversammlung ist von der vorsitzenden Person des Kinderund Jugendbeirates durch öffentliche Ausschreibung rechtzeitig vor Ablauf der Mandatsperiode einzuberufen. Die vorsitzende Person ist für die Durchführung der Wahl zum Kinder- und Jugendbeirat besorgt.
+3) Die Plenarversammlung ist von der vorsitzenden Person des Kinder- und Jugendbeirates durch öffentliche Ausschreibung rechtzeitig vor Ablauf der Mandatsperiode einzuberufen. Die vorsitzende Person ist für die Durchführung der Wahl zum Kinder- und Jugendbeirat besorgt.
 
-- Sind die vorsitzende Person und ihre Stellvertretung verhindert, so kann jedes andere Mitglied des Kinder- und Jugendbeirates die Einberufung der Plenarversammlung und die Durchführung der Wahl zum Kinder- und Jugendbeirat übernehmen.
+4) Sind die vorsitzende Person und ihre Stellvertretung verhindert, so kann jedes andere Mitglied des Kinder- und Jugendbeirates die Einberufung der Plenarversammlung und die Durchführung der Wahl zum Kinder- und Jugendbeirat übernehmen.
 
-- Wird die Plenarversammlung von keinem Mitglied des Kinder- und Jugendbeirates einberufen, so sorgt das Amt für Soziale Dienste für deren Einberufung und für die Durchführung der Neuwahl.
+5) Wird die Plenarversammlung von keinem Mitglied des Kinder- und Jugendbeirates einberufen, so sorgt das Amt für Soziale Dienste für deren Einberufung und für die Durchführung der Neuwahl.
 
 ##### Art. 93
 
 ###### Geschäftsordnung
 
-- Der Kinder- und Jugendbeirat gibt sich eine Geschäftsordnung.
+1) Der Kinder- und Jugendbeirat gibt sich eine Geschäftsordnung.
 
-- Die Geschäftsordnung ist von der Plenarversammlung zu genehmigen und der Regierung sowie dem Amt für Soziale Dienste zur Kenntnis zu bringen.
+2) Die Geschäftsordnung ist von der Plenarversammlung zu genehmigen und der Regierung sowie dem Amt für Soziale Dienste zur Kenntnis zu bringen.
 
 ##### Art. 94
 
 ###### Finanzierung und Berichterstattung
 
-- Der Kinder- und Jugendbeirat erhält für den administrativen Aufwand, die Sitzungsgelder und die Finanzierung von Kinder- und Jugend-
+1) Der Kinder- und Jugendbeirat erhält für den administrativen Aufwand, die Sitzungsgelder und die Finanzierung von Kinder- und Jugend-
 
 Fassung: 01.01.2017
 
@@ -1868,13 +1718,13 @@ Fassung: 01.01.2017
 
 KJG
 
-- beteiligungsprojekten einen pauschalen jährlichen Landesbeitrag. Er verfügt frei über die Verteilung des Gesamtbetrages.
+beteiligungsprojekten einen pauschalen jährlichen Landesbeitrag. Er verfügt frei über die Verteilung des Gesamtbetrages.
 
-- Die Sitzungsgelder dürfen die im Gesetz über die Bezüge der Mitglieder der Regierung und der Kommissionen sowie der nebenamtlichen Richter und der Ad-hoc-Richter festgelegten Beträge nicht überschreiten. 4
+2) Die Sitzungsgelder dürfen die im Gesetz über die Bezüge der Mitglieder der Regierung und der Kommissionen sowie der nebenamtlichen Richter und der Ad-hoc-Richter festgelegten Beträge nicht überschreiten. 4
 
-- Der Kinder- und Jugendbeirat erstattet jährlich einen Rechenschaftsbericht über seine Tätigkeit und über die Verwendung der finanziellen Mittel einschliesslich einer Jahresrechnung zuhanden der Regierung und des Amtes für Soziale Dienste.
+3) Der Kinder- und Jugendbeirat erstattet jährlich einen Rechenschaftsbericht über seine Tätigkeit und über die Verwendung der finanziellen Mittel einschliesslich einer Jahresrechnung zuhanden der Regierung und des Amtes für Soziale Dienste.
 
-- Das Amt für Soziale Dienste kann die Buchführung auf ihre Ordnungsmässigkeit überprüfen lassen.
+4) Das Amt für Soziale Dienste kann die Buchführung auf ihre Ordnungsmässigkeit überprüfen lassen.
 
 ### C. Interessensvertretungen von Kindern und Jugendlichen in den Gemeinden
 
@@ -1882,9 +1732,9 @@ KJG
 
 ###### Bestellung
 
-- Jede Gemeinde bestellt für ihren Bereich eine geeignete Interessensvertretung für Kinder und Jugendliche.
+1) Jede Gemeinde bestellt für ihren Bereich eine geeignete Interessensvertretung für Kinder und Jugendliche.
 
-- Den Kindern und Jugendlichen ist von den Interessensvertretungen in den Gemeinden in ihren Angelegenheiten altersgerecht Gehör zu verschaffen.
+2) Den Kindern und Jugendlichen ist von den Interessensvertretungen in den Gemeinden in ihren Angelegenheiten altersgerecht Gehör zu verschaffen.
 
 ## VI. Ombudsstelle für Kinder und Jugendliche 5
 
@@ -1892,9 +1742,9 @@ KJG
 
 ###### Aufgaben
 
-- Beim Verein für Menschenrechte in Liechtenstein ist eine weisungsunabhängige, allgemein zugängliche Ombudsstelle für Kinder, Jugendliche und Erwachsene in Kinder- und Jugendangelegenheiten eingerichtet, die von einer Ombudsperson geleitet wird. Die Ombudsperson ist verpflichtet, Anliegen dieser Personen anzuhören und Anregungen und Beschwerden entgegenzunehmen. 6
+1) Beim Verein für Menschenrechte in Liechtenstein ist eine weisungsunabhängige, allgemein zugängliche Ombudsstelle für Kinder, Jugendliche und Erwachsene in Kinder- und Jugendangelegenheiten eingerichtet, die von einer Ombudsperson geleitet wird. Die Ombudsperson ist verpflichtet, Anliegen dieser Personen anzuhören und Anregungen und Beschwerden entgegenzunehmen. 6
 
-- Die Ombudsperson:
+2) Die Ombudsperson:
 
 48
 
@@ -1908,35 +1758,33 @@ KJG
 
 852.0
 
-- vermittelt bei Meinungsverschiedenheiten zwischen Kindern, Jugendlichen oder Erziehungsberechtigten einerseits und Gerichten, Landesoder Gemeindebehörden, öffentlichen oder privaten Einrichtungen oder Organisationen, die mit der Betreuung von Kindern und Jugendlichen befasst sind, andererseits;
+a) vermittelt bei Meinungsverschiedenheiten zwischen Kindern, Jugendlichen oder Erziehungsberechtigten einerseits und Gerichten, Landes- oder Gemeindebehörden, öffentlichen oder privaten Einrichtungen oder Organisationen, die mit der Betreuung von Kindern und Jugendlichen befasst sind, andererseits;
 
-- wird im Interesse von Kindern und Jugendlichen bei Gerichten, Landesund Gemeindebehörden, öffentlichen und privaten Einrichtungen und Organisationen, die mit der Betreuung von Kindern und Jugendlichen befasst sind, mit einer Beschwerde, Anregung oder Eingabe vorstellig; in Verfahren kommt ihr keine Parteistellung zu;
+b) wird im Interesse von Kindern und Jugendlichen bei Gerichten, Landes- und Gemeindebehörden, öffentlichen und privaten Einrichtungen und Organisationen, die mit der Betreuung von Kindern und Jugendlichen befasst sind, mit einer Beschwerde, Anregung oder Eingabe vorstellig; in Verfahren kommt ihr keine Parteistellung zu;
 
-- überprüft die Umsetzung des Übereinkommens über die Rechte des Kindes und seiner Zusatzprotokolle sowie weiterer internationaler Schutzbestimmungen für Kinder und Jugendliche durch die Gerichte und die öffentliche Verwaltung, hält Kontakt zu den regionalen und internationalen Kontrollorganen und berichtet diesen und kann zur Erfüllung ihrer Aufgaben eigene Untersuchungen durchführen;
+c) überprüft die Umsetzung des Übereinkommens über die Rechte des Kindes und seiner Zusatzprotokolle sowie weiterer internationaler Schutzbestimmungen für Kinder und Jugendliche durch die Gerichte und die öffentliche Verwaltung, hält Kontakt zu den regionalen und internationalen Kontrollorganen und berichtet diesen und kann zur Erfüllung ihrer Aufgaben eigene Untersuchungen durchführen;
 
-- gibt Stellungnahmen zu Gesetzes- und Verordnungsentwürfen und zur Ratifikation internationaler Übereinkommen ab, die Kinder und Jugendliche in besonderem Mass berühren;
+d) gibt Stellungnahmen zu Gesetzes- und Verordnungsentwürfen und zur Ratifikation internationaler Übereinkommen ab, die Kinder und Jugendliche in besonderem Mass berühren;
 
-- leistet Öffentlichkeitsarbeit im Rahmen ihres Aufgabenbereiches.
+e) leistet Öffentlichkeitsarbeit im Rahmen ihres Aufgabenbereiches.
 
 ##### Art. 97
 
 ###### Bestellung und Abberufung
 
-- Die Ombudsperson wird vom Verein für Menschenrechte in Liechtenstein bestellt; sie muss in persönlicher und fachlicher Hinsicht geeignet sein, die Aufgaben nach Art. 96 zu erfüllen. Der Bestellung hat eine öffentliche Ausschreibung voranzugehen. 7
+1) Die Ombudsperson wird vom Verein für Menschenrechte in Liechtenstein bestellt; sie muss in persönlicher und fachlicher Hinsicht geeignet sein, die Aufgaben nach Art. 96 zu erfüllen. Der Bestellung hat eine öffentliche Ausschreibung voranzugehen. 7
 
-- Aufgehoben
+2) Aufgehoben 8
 
-- 8
+3) Nicht als Ombudsperson bestellt werden dürfen:
 
-- Nicht als Ombudsperson bestellt werden dürfen:
+a) Mitglieder der Regierung und deren Stellvertretungen sowie Landtagsabgeordnete und deren Stellvertretungen;
 
-- Mitglieder der Regierung und deren Stellvertretungen sowie Landtagsabgeordnete und deren Stellvertretungen;
+b) Gemeindevorstehende und Mitglieder der Gemeinderäte;
 
-- Gemeindevorstehende und Mitglieder der Gemeinderäte;
+c) Richterinnen und Richter, Rechtspflegerinnen und Rechtspfleger sowie Staatsanwältinnen und Staatsanwälte;
 
-- Richterinnen und Richter, Rechtspflegerinnen und Rechtspfleger sowie Staatsanwältinnen und Staatsanwälte;
-
-- Staats- und Gemeindepersonal;
+d) Staats- und Gemeindepersonal;
 
 Fassung: 01.01.2017
 
@@ -1950,9 +1798,9 @@ Fassung: 01.01.2017
 
 KJG
 
-- Personen, die in einer öffentlichen oder privaten Einrichtung oder Organisation tätig sind, die mit der Betreuung von Kindern und Jugendlichen befasst ist.
+e) Personen, die in einer öffentlichen oder privaten Einrichtung oder Organisation tätig sind, die mit der Betreuung von Kindern und Jugendlichen befasst ist.
 
-- Die Ombudsperson ist vom Verein für Menschenrechte in Liechtenstein vorzeitig abzuberufen, wenn gewichtige Umstände eintreten, die sie für dieses Amt nicht mehr geeignet erscheinen lassen. 9
+4) Die Ombudsperson ist vom Verein für Menschenrechte in Liechtenstein vorzeitig abzuberufen, wenn gewichtige Umstände eintreten, die sie für dieses Amt nicht mehr geeignet erscheinen lassen. 9
 
 ##### Art. 98
 
@@ -1960,10 +1808,8 @@ KJG
 
 Die Gerichte, die Landes- und Gemeindebehörden sowie die öffentlichen und privaten Einrichtungen und Organisationen, die mit der Betreuung von Kindern und Jugendlichen befasst sind, haben die Ombudsperson bei der Erfüllung ihrer Aufgaben zu unterstützen, indem sie ihr auf Verlangen die erforderlichen Auskünfte erteilen und Akteneinsicht gewähren. Sie sind insoweit von der Pflicht zur Amtsverschwiegenheit oder ihren berufsrechtlichen Verschwiegenheitspflichten entbunden.
 
-##### Art. 99 und 100
+##### Art. 99 und 100 10
 ###### Aufgehoben
-
-10
 
 ## VII. Strafbestimmungen
 
@@ -1973,15 +1819,15 @@ Die Gerichte, die Landes- und Gemeindebehörden sowie die öffentlichen und priv
 
 Vom Landgericht wird wegen Übertretung mit einer Busse bis 5 000 Franken, im Nichteinbringlichkeitsfalle mit einer Freiheitsstrafe bis zu einem Monat bestraft, wer:
 
-- eine gerichtliche Weisung oder Auflage nach Art. 24 Abs. 4 nicht befolgt;
+a) eine gerichtliche Weisung oder Auflage nach Art. 24 Abs. 4 nicht befolgt;
 
-- der Meldepflicht nach Art. 20 Abs. 1 nicht nachkommt;
+b) der Meldepflicht nach Art. 20 Abs. 1 nicht nachkommt;
 
-- ohne Bewilligung nach Art. 35 oder 39 Abs. 4 ein Kind, eine Jugendliche oder einen Jugendlichen zum Zweck der Adoption in seinen Haushalt aufnimmt oder im Ausland adoptiert;
+c) ohne Bewilligung nach Art. 35 oder 39 Abs. 4 ein Kind, eine Jugendliche oder einen Jugendlichen zum Zweck der Adoption in seinen Haushalt aufnimmt oder im Ausland adoptiert;
 
-- die Versicherungspflichten nach Art. 37 verletzt;
+d) die Versicherungspflichten nach Art. 37 verletzt;
 
-- die Auflage nach Art. 41 nicht erfüllt;
+e) die Auflage nach Art. 41 nicht erfüllt;
 
 50
 
@@ -1995,39 +1841,31 @@ KJG
 
 852.0
 
-- der Meldepflicht nach Art. 43 nicht nachkommt;
+f) der Meldepflicht nach Art. 43 nicht nachkommt;
 
-- ohne Bewilligung nach Art. 45 Abs. 1 oder 3 Kinder und Jugendliche vermittelt;
+g) ohne Bewilligung nach Art. 45 Abs. 1 oder 3 Kinder und Jugendliche vermittelt;
 
-- ohne Bewilligung nach Art. 49 Abs. 1 oder 52 Abs. 2 ein Kind, eine
+h) ohne Bewilligung nach Art. 49 Abs. 1 oder 52 Abs. 2 ein Kind, eine Jugendliche oder einen Jugendlichen in seinen Haushalt aufnimmt;
 
-- Jugendliche oder einen Jugendlichen in seinen Haushalt aufnimmt;
+i) ohne Bewilligung nach Art. 53 Abs. 1 oder 56 Abs. 3 eine Betreuungs- oder Pflegeeinrichtung betreibt;
 
-- ohne Bewilligung nach Art. 53 Abs. 1 oder 56 Abs. 3 eine Betreuungsoder Pflegeeinrichtung betreibt;
-
-- ohne Anerkennung als solche nach Art. 58 Abs. 2 eine private Einrichtung der Kinder- und Jugendhilfe betreibt.
+k) ohne Anerkennung als solche nach Art. 58 Abs. 2 eine private Einrichtung der Kinder- und Jugendhilfe betreibt.
 
 ##### Art. 102
 
 ###### Übertretungen der Kinder- und Jugendschutzbestimmungen
 
-- Vom Landgericht wird wegen Übertretung mit einer Busse bis 5 000 Franken, im Nichteinbringlichkeitsfalle mit einer Freiheitsstrafe bis zu einem Monat bestraft, wer als erziehungsberechtigte Person oder als Aufsichtsperson nicht für die Einhaltung der Kinder- und Jugendschutzbestimmungen sorgt (Art. 64 Abs. 3) und seine Aufsichts- oder elterliche Erziehungspflicht in grober Weise oder wiederholt verletzt. Von einer Bestrafung Erziehungsberechtigter kann abgesehen werden, wenn ein Beratungsangebot angenommen wird, und dadurch zu erwarten ist, dass künftig für die Einhaltung der Kinder- und Jugendschutzbestimmungen gemäss Art. 64 Abs. 3 gesorgt wird.
+1) Vom Landgericht wird wegen Übertretung mit einer Busse bis 5 000 Franken, im Nichteinbringlichkeitsfalle mit einer Freiheitsstrafe bis zu einem Monat bestraft, wer als erziehungsberechtigte Person oder als Aufsichtsperson nicht für die Einhaltung der Kinder- und Jugendschutzbestimmungen sorgt (Art. 64 Abs. 3) und seine Aufsichts- oder elterliche Erziehungspflicht in grober Weise oder wiederholt verletzt. Von einer Bestrafung Erziehungsberechtigter kann abgesehen werden, wenn ein Beratungsangebot angenommen wird, und dadurch zu erwarten ist, dass künftig für die Einhaltung der Kinder- und Jugendschutzbestimmungen gemäss Art. 64 Abs. 3 gesorgt wird.
 
-- Vom Landgericht wird wegen Übertretung mit einer Busse bis 5 000 Franken, im Nichteinbringlichkeitsfalle mit einer Freiheitsstrafe bis zu einem Monat bestraft, wer als Erwachsener:
+2) Vom Landgericht wird wegen Übertretung mit einer Busse bis 5 000 Franken, im Nichteinbringlichkeitsfalle mit einer Freiheitsstrafe bis zu einem Monat bestraft, wer als Erwachsener:
 
-- nicht sicherstellt, dass Kinder und Jugendliche von kinder- und jugend-
+a) nicht sicherstellt, dass Kinder und Jugendliche von kinder- und jugendgefährdenden Örtlichkeiten ausgeschlossen werden (Art. 66 Abs. 1 und 2);
 
-- gefährdenden Örtlichkeiten ausgeschlossen werden (Art. 66 Abs. 1 und 2);
+b) Kindern und Jugendlichen kinder- und jugendgefährdende Produkte oder Dienstleistungen zugänglich macht (Art. 67 Abs. 1);
 
-- Kindern und Jugendlichen kinder- und jugendgefährdende Produkte
+c) nicht sicherstellt, dass Kinder und Jugendliche keinen Zugang zu Produkten und Dienstleistungen erhalten, die für ihre Altersgruppe nicht geeignet sind (Art. 67 Abs. 2);
 
-- oder Dienstleistungen zugänglich macht (Art. 67 Abs. 1);
-
-- nicht sicherstellt, dass Kinder und Jugendliche keinen Zugang zu Produkten und Dienstleistungen erhalten, die für ihre Altersgruppe nicht geeignet sind (Art. 67 Abs. 2);
-
-- Automaten oder ähnliche Geräte, die kinder- und jugendgefährdende
-
-- Produkte enthalten, ohne Sicherheitsvorkehrung aufstellt (Art. 67 Abs. 3);
+d) Automaten oder ähnliche Geräte, die kinder- und jugendgefährdende Produkte enthalten, ohne Sicherheitsvorkehrung aufstellt (Art. 67 Abs. 3);
 
 Fassung: 01.01.2017
 
@@ -2041,35 +1879,35 @@ Fassung: 01.01.2017
 
 KJG
 
-- nicht sicherstellt, dass Kinder und Jugendliche nicht bei der Herstellung, beim Vertrieb, beim Verkauf oder bei der Vorführung von kinder- und jugendgefährdenden Produkten und Dienstleistungen mitwirken (Art. 67 Abs. 4);
+e) nicht sicherstellt, dass Kinder und Jugendliche nicht bei der Herstellung, beim Vertrieb, beim Verkauf oder bei der Vorführung von kinder- und jugendgefährdenden Produkten und Dienstleistungen mitwirken (Art. 67 Abs. 4);
 
-- Kindern und Jugendlichen nicht freigegebene audio-visuelle Medienprodukte oder -dienstleistungen zugänglich macht (Art. 68 Abs. 1);
+f) Kindern und Jugendlichen nicht freigegebene audio-visuelle Medienprodukte oder -dienstleistungen zugänglich macht (Art. 68 Abs. 1);
 
-- die Mindestalterklassifizierung nicht sicherstellt oder auf diese nicht deutlich sichtbar hinweist (Art. 68 Abs. 2);
+g) die Mindestalterklassifizierung nicht sicherstellt oder auf diese nicht deutlich sichtbar hinweist (Art. 68 Abs. 2);
 
-- alkoholhaltige Getränke oder Tabakwaren an Kinder oder nicht berechtigte Jugendliche abgibt oder weitergibt (Art. 69 Abs. 1);
+h) alkoholhaltige Getränke oder Tabakwaren an Kinder oder nicht berechtigte Jugendliche abgibt oder weitergibt (Art. 69 Abs. 1);
 
-- an Kinder- und Jugendveranstaltungen Spirituosen oder Alkopops abgibt (Art. 69 Abs. 2);
+i) an Kinder- und Jugendveranstaltungen Spirituosen oder Alkopops abgibt (Art. 69 Abs. 2);
 
-- Kinder und Jugendliche zur Übertretung der Abgabe-, Weitergabe-, Besitz- oder Konsumverbote betreffend alkoholhaltige Getränke und Tabakwaren verleitet (Art. 69 Abs. 5);
+k) Kinder und Jugendliche zur Übertretung der Abgabe-, Weitergabe-, Besitz- oder Konsumverbote betreffend alkoholhaltige Getränke und Tabakwaren verleitet (Art. 69 Abs. 5);
 
-- weniger als drei gängige alkoholfreie Getränke günstiger anbietet als das günstigste alkoholhaltige Getränk in der gleichen Menge (Art. 69 Abs. 6);
+l) weniger als drei gängige alkoholfreie Getränke günstiger anbietet als das günstigste alkoholhaltige Getränk in der gleichen Menge (Art. 69 Abs. 6);
 
-- alkoholhaltige Getränke nicht deutlich unterscheidbar zum Verkauf anbietet (Art. 69 Abs. 7);
+m) alkoholhaltige Getränke nicht deutlich unterscheidbar zum Verkauf anbietet (Art. 69 Abs. 7);
 
-- den Werbebeschränkungen für alkoholhaltige Getränke und Tabakwaren zuwiderhandelt (Art. 70 Abs. 1 bis 3);
+n) den Werbebeschränkungen für alkoholhaltige Getränke und Tabakwaren zuwiderhandelt (Art. 70 Abs. 1 bis 3);
 
-- Substanzen, die der Betäubung, Aufputschung oder Berauschung dienen, an Kinder und Jugendliche abgibt oder weitergibt (Art. 71 Abs. 3);
+o) Substanzen, die der Betäubung, Aufputschung oder Berauschung dienen, an Kinder und Jugendliche abgibt oder weitergibt (Art. 71 Abs. 3);
 
-- seinen Alterskontroll- und Hinweispflichten nicht nachkommt (Art. 73 Abs. 1 und 2);
+p) seinen Alterskontroll- und Hinweispflichten nicht nachkommt (Art. 73 Abs. 1 und 2);
 
-- nicht dafür sorgt, dass die in seinem Bereich geltenden Kinder- und Jugendschutzbestimmungen eingehalten werden (Art. 73 Abs. 3);
+q) nicht dafür sorgt, dass die in seinem Bereich geltenden Kinder- und Jugendschutzbestimmungen eingehalten werden (Art. 73 Abs. 3);
 
-- Testkäufe ohne Absprache mit dem Amt für Soziale Dienste durchführt (Art. 75 Abs. 5).
+r) Testkäufe ohne Absprache mit dem Amt für Soziale Dienste durchführt (Art. 75 Abs. 5).
 
-- Vom Landgericht wird wegen Übertretung mit einer Busse bis 20 000 Franken, im Nichteinbringlichkeitsfalle mit einer Freiheitsstrafe bis zu drei Monaten bestraft, wer die Übertretungen des Abs. 2 in Ausübung seines Gewerbes oder gewerbsmässig (§ 70 Strafgesetzbuch) begeht.
+3) Vom Landgericht wird wegen Übertretung mit einer Busse bis 20 000 Franken, im Nichteinbringlichkeitsfalle mit einer Freiheitsstrafe bis zu drei Monaten bestraft, wer die Übertretungen des Abs. 2 in Ausübung seines Gewerbes oder gewerbsmässig (§ 70 Strafgesetzbuch) begeht.
 
-- Die Bestimmungen des Strafgesetzbuches sowie der strafrechtlichen Nebenerlasse finden ergänzend Anwendung. Übertretungen des Abs. 2 werden nach diesem Artikel nicht bestraft, wenn die zugrunde liegenden
+4) Die Bestimmungen des Strafgesetzbuches sowie der strafrechtlichen Nebenerlasse finden ergänzend Anwendung. Übertretungen des Abs. 2 werden nach diesem Artikel nicht bestraft, wenn die zugrunde liegenden
 
 52
 
@@ -2085,13 +1923,11 @@ KJG
 
 Handlungen oder Unterlassungen nach dem Strafgesetzbuch mit strengerer Strafe bedroht sind.
 
-- Die Staatsanwaltschaft meldet dem Amt für Soziale Dienste jede Anzeige wegen Übertretung der Kinder- und Jugendschutzbestimmungen durch Erwachsene.
+5) Die Staatsanwaltschaft meldet dem Amt für Soziale Dienste jede Anzeige wegen Übertretung der Kinder- und Jugendschutzbestimmungen durch Erwachsene.
 
-- Das Landgericht meldet jede rechtskräftige Verurteilung eines Gewerbetreibenden oder eines Angestellten eines Gewerbebetriebes wegen Übertretung der Kinder- und Jugendschutzbestimmungen dem Amt für Volkswirtschaft, welches überprüft, ob die Gewerbebewilligung zu entziehen ist.
+6) Das Landgericht meldet jede rechtskräftige Verurteilung eines Gewerbetreibenden oder eines Angestellten eines Gewerbebetriebes wegen Übertretung der Kinder- und Jugendschutzbestimmungen dem Amt für Volkswirtschaft, welches überprüft, ob die Gewerbebewilligung zu entziehen ist.
 
-- Wer an der Aussprache nach Art. 76 Abs. 2 nicht teilnimmt oder die
-
-- dort getroffenen Vereinbarungen nicht einhält, oder wer einen Auftrag nach Art. 76 Abs. 3 nicht ordnungsgemäss ausführt, wird vom Amt für Soziale Dienste mit einer Ordnungsbusse bestraft. Die Ordnungsbusse beträgt für Erwachsene 200 Franken und für Jugendliche 50 Franken.
+7) Wer an der Aussprache nach Art. 76 Abs. 2 nicht teilnimmt oder die dort getroffenen Vereinbarungen nicht einhält, oder wer einen Auftrag nach Art. 76 Abs. 3 nicht ordnungsgemäss ausführt, wird vom Amt für Soziale Dienste mit einer Ordnungsbusse bestraft. Die Ordnungsbusse beträgt für Erwachsene 200 Franken und für Jugendliche 50 Franken.
 
 ## VIII. Gebühren, Datenbearbeitung und Rechtsmittel
 
@@ -2125,9 +1961,9 @@ KJG
 
 ###### Rechtsmittel
 
-- Gegen Entscheidungen und Verfügungen des Amtes für Soziale Dienste, mit Ausnahme von Weisungen und Auflagen nach Art. 24, kann binnen 14 Tagen ab Zustellung Beschwerde an die Regierung erhoben werden.
+1) Gegen Entscheidungen und Verfügungen des Amtes für Soziale Dienste, mit Ausnahme von Weisungen und Auflagen nach Art. 24, kann binnen 14 Tagen ab Zustellung Beschwerde an die Regierung erhoben werden.
 
-- Gegen Entscheidungen und Verfügungen der Regierung kann binnen 14 Tagen ab Zustellung Beschwerde an den Verwaltungsgerichtshof erhoben werden.
+2) Gegen Entscheidungen und Verfügungen der Regierung kann binnen 14 Tagen ab Zustellung Beschwerde an den Verwaltungsgerichtshof erhoben werden.
 
 ## IX. Übergangs- und Schlussbestimmungen
 
@@ -2135,11 +1971,11 @@ KJG
 
 ###### Übergangsbestimmungen
 
-- Auf zum Zeitpunkt des Inkrafttretens dieses Gesetzes hängige Adoptionsverfahren finden die Bestimmungen dieses Gesetzes keine Anwendung.
+1) Auf zum Zeitpunkt des Inkrafttretens dieses Gesetzes hängige Adoptionsverfahren finden die Bestimmungen dieses Gesetzes keine Anwendung.
 
-- Private Einrichtungen, die vor Inkrafttreten dieses Gesetzes zur Mitwirkung in der Kinder- und Jugendhilfe herangezogen wurden, gelten als anerkannte Einrichtungen der Kinder- und Jugendhilfe. Sie verlieren die Anerkennung, wenn sie nicht innerhalb eines Jahres nach Inkrafttreten dieses Gesetzes einen Leistungsvertrag abschliessen.
+2) Private Einrichtungen, die vor Inkrafttreten dieses Gesetzes zur Mitwirkung in der Kinder- und Jugendhilfe herangezogen wurden, gelten als anerkannte Einrichtungen der Kinder- und Jugendhilfe. Sie verlieren die Anerkennung, wenn sie nicht innerhalb eines Jahres nach Inkrafttreten dieses Gesetzes einen Leistungsvertrag abschliessen.
 
-- Zigarettenautomaten, für die innerhalb eines Jahres nach Inkrafttreten dieses Gesetzes keine dem Art. 67 Abs. 3 entsprechende Sicherheitsvorkehrung getroffen wurde, sind zu entfernen.
+3) Zigarettenautomaten, für die innerhalb eines Jahres nach Inkrafttreten dieses Gesetzes keine dem Art. 67 Abs. 3 entsprechende Sicherheitsvorkehrung getroffen wurde, sind zu entfernen.
 
 ##### Art. 107
 
@@ -2147,9 +1983,9 @@ KJG
 
 Die Regierung erlässt die zur Durchführung dieses Gesetzes notwendigen Verordnungen, insbesondere über:
 
-- die finanzielle Hilfe an einkommensschwache Erziehungsberechtigte (Art. 17 Bst. d);
+a) die finanzielle Hilfe an einkommensschwache Erziehungsberechtigte (Art. 17 Bst. d);
 
-- Pflegeverhältnisse zum Zweck der Adoption und Adoptionen im Ausland (Art. 36 Abs. 3 und Art. 39 Abs. 5);
+b) Pflegeverhältnisse zum Zweck der Adoption und Adoptionen im Ausland (Art. 36 Abs. 3 und Art. 39 Abs. 5);
 
 54
 
@@ -2163,23 +1999,19 @@ KJG
 
 852.0
 
-- die Vermittlung von Kindern und Jugendlichen aus dem Ausland (Art. 45
+c) die Vermittlung von Kindern und Jugendlichen aus dem Ausland (Art. 45 Abs. 4);
 
-- Abs. 4);
+d) private Betreuungs- und Pflegeverhältnisse (Art. 52 Abs. 4);
 
-- private Betreuungs- und Pflegeverhältnisse (Art. 52 Abs. 4);
+e) Betreuungs- und Pflegeeinrichtungen (Art. 54 Abs. 3 und Art. 56 Abs. 4);
 
-- Betreuungs- und Pflegeeinrichtungen (Art. 54 Abs. 3 und Art. 56 Abs. 4);
+f) kinder- und jugendgefährdende Örtlichkeiten (Art. 66 Abs. 6);
 
-- kinder- und jugendgefährdende Örtlichkeiten (Art. 66 Abs. 6);
+g) kinder- und jugendgefährdende Produkte und Dienstleistungen (Art. 67 Abs. 6);
 
-- kinder- und jugendgefährdende Produkte und Dienstleistungen (Art. 67
+h) die Kinder- und Jugendförderung des Landes (Art. 82 Abs. 5);
 
-- Abs. 6);
-
-- die Kinder- und Jugendförderung des Landes (Art. 82 Abs. 5);
-
-- die Gebühren für administrative Dienstleistungen des Amtes für Soziale
+i) die Gebühren für administrative Dienstleistungen des Amtes für Soziale Dienste (Art. 103).
 
 ##### Art. 108
 
@@ -2187,37 +2019,27 @@ KJG
 
 Es werden aufgehoben:
 
-- Jugendgesetz vom 19. Dezember 1979, LGBl. 1980 Nr. 38;
+a) Jugendgesetz vom 19. Dezember 1979, LGBl. 1980 Nr. 38;
 
-- Gesetz vom 5. Dezember 1984 über die Abänderung des Jugendgesetzes, LGBl. 1985 Nr. 12;
+b) Gesetz vom 5. Dezember 1984 über die Abänderung des Jugendgesetzes, LGBl. 1985 Nr. 12;
 
-- Gesetz vom 16. Dezember 1994 über die Abänderung des Jugendgesetzes, LGBl. 1995 Nr. 21;
+c) Gesetz vom 16. Dezember 1994 über die Abänderung des Jugendgesetzes, LGBl. 1995 Nr. 21;
 
-- Gesetz vom 17. April 2002 über die Abänderung des Jugendgesetzes,
+d) Gesetz vom 17. April 2002 über die Abänderung des Jugendgesetzes, LGBl. 2002 Nr. 66;
 
-- LGBl. 2002 Nr. 66;
-
-- Gesetz vom 19. Oktober 2005 über die Abänderung des Jugendgesetzes, LGBl. 2005 Nr. 235.
+e) Gesetz vom 19. Oktober 2005 über die Abänderung des Jugendgesetzes, LGBl. 2005 Nr. 235.
 
 ##### Art. 109
 
 ###### Abänderung von Bezeichnungen
 
-- In § 1 des Jugendgerichtsgesetzes vom 20. Mai 1987, LGBl. 1988 Nr.
+1) In § 1 des Jugendgerichtsgesetzes vom 20. Mai 1987, LGBl. 1988 Nr. 39, sind in der grammatikalisch jeweils richtigen Form zu ersetzen:
 
-- 39, sind in der grammatikalisch jeweils richtigen Form zu ersetzen:
+a) die Bezeichnung "Jugendhilfe" durch die Bezeichnung "Kinder- und Jugendhilfe";
 
-- die Bezeichnung "Jugendhilfe" durch die Bezeichnung "Kinder- und Jugendhilfe";
+b) die Bezeichnung "Jugendschutz" durch die Bezeichnung "Kinder- und Jugendschutz";
 
-- die Bezeichnung "Jugendschutz" durch die Bezeichnung "Kinder- und
-
-- Jugendschutz";
-
-- die Bezeichnung "Jugendpflege" durch die Bezeichnung "Kinder- und
-
-- Jugendförderung".
-
-- Dienste (Art. 103).
+c) die Bezeichnung "Jugendpflege" durch die Bezeichnung "Kinder- und Jugendförderung".
 
 Fassung: 01.01.2017
 
@@ -2231,37 +2053,29 @@ Fassung: 01.01.2017
 
 KJG
 
-- In Art. 4 des Sozialhilfegesetzes vom 15. November 1984, LGBl. 1985
+2) In Art. 4 des Sozialhilfegesetzes vom 15. November 1984, LGBl. 1985 Nr. 17, sind in der grammatikalisch jeweils richtigen Form zu ersetzen:
 
-- Nr. 17, sind in der grammatikalisch jeweils richtigen Form zu ersetzen:
+a) die Bezeichnung "Jugendhilfe" durch die Bezeichnung "Kinder- und Jugendhilfe";
 
-- die Bezeichnung "Jugendhilfe" durch die Bezeichnung "Kinder- und
+b) die Bezeichnung "Jugendpflege" durch die Bezeichnung "Kinder- und Jugendförderung".
 
-- Jugendhilfe";
-
-- die Bezeichnung "Jugendpflege" durch die Bezeichnung "Kinder- und
-
-- Jugendförderung".
-
-- In Art. 1 Abs. 3 des Gesetzes vom 13. Dezember 2007 über den Nichtraucherschutz und die Werbung für Tabakerzeugnisse, LGBl. 2008 Nr. 27, ist die Bezeichnung "Jugendgesetz" durch die Bezeichnung "Kinder- und Jugendgesetz" zu ersetzen.
+3) In Art. 1 Abs. 3 des Gesetzes vom 13. Dezember 2007 über den Nichtraucherschutz und die Werbung für Tabakerzeugnisse, LGBl. 2008 Nr. 27, ist die Bezeichnung "Jugendgesetz" durch die Bezeichnung "Kinder- und Jugendgesetz" zu ersetzen.
 
 ##### Art. 110
 
 ###### Inkrafttreten
 
-- Dieses Gesetz tritt unter Vorbehalt des ungenutzten Ablaufs der Referendumsfrist und vorbehaltlich Abs. 2 am 1. Februar 2009 in Kraft.
+1) Dieses Gesetz tritt unter Vorbehalt des ungenutzten Ablaufs der Referendumsfrist und vorbehaltlich Abs. 2 am 1. Februar 2009 in Kraft.
 
-- Art. 46 tritt an dem Tag in Kraft, an welchem das Übereinkommen vom 29. Mai 1993 über den Schutz von Kindern und die Zusammenarbeit auf dem Gebiet der Internationalen Adoption für das Fürstentum Liechten-
+2) Art. 46 tritt an dem Tag in Kraft, an welchem das Übereinkommen vom 29. Mai 1993 über den Schutz von Kindern und die Zusammenarbeit auf dem Gebiet der Internationalen Adoption für das Fürstentum Liechtenstein in Kraft tritt.
 
 In Stellvertretung des Landesfürsten:
 
-gez. Alois Erbprinz
+gez. Alois
+Erbprinz
 
 gez. Otmar Hasler
-
 Fürstlicher Regierungschef
-
-- stein in Kraft tritt.
 
 56
 
