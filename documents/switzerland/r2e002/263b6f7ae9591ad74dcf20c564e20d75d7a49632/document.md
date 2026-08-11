@@ -18,15 +18,15 @@ L'Assemblée fédérale de la Confédération suisse, vu l'art. 63 de la Constit
 
 3  Pour atteindre les buts de la présente loi:
 
-- la Confédération, les cantons et les organisations du monde du travail collaborent;
+a. la Confédération, les cantons et les organisations du monde du travail collaborent;
 
-- les  cantons collaborent entre eux et les organisations du monde du travail, entre elles.
+b. les cantons collaborent entre eux et les organisations du monde du travail, entre elles.
 
 #### Art. 2 Objet et champ d'application
 
 1  La  présente  loi  régit,  pour  tous  les  secteurs  professionnels  autres  que  ceux  des hautes écoles:
 
-- la  formation  professionnelle  initiale,  y  compris  la  maturité  professionnelle fédérale;
+a. la formation professionnelle initiale, y compris la maturité professionnelle fédérale;
 
 RO 2003 4557
 
@@ -44,17 +44,17 @@ RO 2003 4557
 
 Formation professionnelle
 
-- la formation professionnelle supérieure;
+b. la formation professionnelle supérieure;
 
-- la formation continue à des fins professionnelles;
+c. la formation continue à des fins professionnelles;
 
-- les procédures de qualification, les certificats délivrés et les titres décernés;
+d. les procédures de qualification, les certificats délivrés et les titres décernés;
 
-- la formation des responsables de la formation professionnelle;
+e. la formation des responsables de la formation professionnelle;
 
-- les compétences et les principes dans le domaine de l'orientation professionnelle, universitaire et de carrière;
+f. les compétences et les principes dans le domaine de l'orientation professionnelle, universitaire et de carrière;
 
-- la  participation  de  la  Confédération  aux  coûts  de  la  formation  professionnelle.
+g. la participation de la Confédération aux coûts de la formation professionnelle.
 
 2  Elle ne s'applique pas aux formations réglées par d'autres lois fédérales.
 
@@ -64,15 +64,15 @@ Formation professionnelle
 
 La présente loi encourage et développe:
 
-- un  système  de  formation  professionnelle  qui  permette  aux  individus  de s'épanouir sur les plans professionnel et personnel et de s'intégrer dans la société, en particulier dans le monde du travail, tout en les rendant aptes et disposés  à  faire  preuve  de  flexibilité  professionnelle  et  à  rester  dans  le monde du travail;
+a. un système de formation professionnelle qui permette aux individus de s'épanouir sur les plans professionnel et personnel et de s'intégrer dans la société, en particulier dans le monde du travail, tout en les rendant aptes et disposés à faire preuve de flexibilité professionnelle et à rester dans le monde du travail;
 
-- un  système  de  formation  professionnelle  qui  serve  la  compétitivité  des entreprises;
+b. un système de formation professionnelle qui serve la compétitivité des entreprises;
 
-- l'égalité des chances de formation sur le plan social et à l'échelle régionale, l'égalité  effective  entre  les  sexes  de  même que l'élimination des inégalités qui frappent les personnes handicapées dans la formation professionnelle.
+c. l'égalité des chances de formation sur le plan social et à l'échelle régionale, l'égalité effective entre les sexes de même que l'élimination des inégalités qui frappent les personnes handicapées dans la formation professionnelle.
 
-- la perméabilité des types et des filières de formation au sein de la formation professionnelle ainsi qu'entre la formation professionnelle et les autres secteurs du système éducatif;
+d. la perméabilité des types et des filières de formation au sein de la formation professionnelle ainsi qu'entre la formation professionnelle et les autres secteurs du système éducatif;
 
-- la transparence du système de formation professionnelle.
+e. la transparence du système de formation professionnelle.
 
 #### Art. 4 Développement de la formation professionnelle
 
@@ -98,9 +98,9 @@ Formation professionnelle. LF
 
 La Confédération encourage:
 
-- l'information et la documentation qui sont d'intérêt national ou intéressent toute une région linguistique;
+a. l'information et la documentation qui sont d'intérêt national ou intéressent toute une région linguistique;
 
-- la création de moyens didactiques destinés aux minorités linguistiques.
+b. la création de moyens didactiques destinés aux minorités linguistiques.
 
 #### Art. 6 Compréhension et échanges entre les communautés linguistiques
 
@@ -108,9 +108,9 @@ La Confédération encourage:
 
 2  Elle peut notamment encourager:
 
-- le plurilinguisme individuel, en veillant en particulier à la diversité des langues d'enseignement ainsi qu'à la formation des enseignants sur le plan linguistique;
+a. le plurilinguisme individuel, en veillant en particulier à la diversité des langues d'enseignement ainsi qu'à la formation des enseignants sur le plan linguistique;
 
-- les  échanges  d'enseignants  et  de  personnes  en  formation  entre  les  régions linguistiques, s'ils sont soutenus par les cantons, les organisations du monde du travail ou les entreprises.
+b. les échanges d'enseignants et de personnes en formation entre les régions linguistiques, s'ils sont soutenus par les cantons, les organisations du monde du travail ou les entreprises.
 
 #### Art. 7 Groupes et régions défavorisés
 
@@ -162,7 +162,7 @@ Le Conseil fédéral peut, dans le cadre des moyens disponibles, prendre des mes
 
 #### Art. 14 Contrat d'apprentissage
 
-1  Les personnes qui commencent une formation et les prestataires de la formation à la pratique professionnelle concluent un contrat d'apprentissage. Ce contrat est régi par les dispositions y relatives du code des obligations 3  (art. 344 à 346 a ),  à  moins que la présente loi n'en dispose autrement.
+1  Les personnes qui commencent une formation et les prestataires de la formation à la pratique professionnelle concluent un contrat d'apprentissage. Ce contrat est régi par les dispositions y relatives du code des obligations3 (art. 344 à 346a), à moins que la présente loi n'en dispose autrement.
 
 2  Le contrat est conclu au début de l'apprentissage et porte sur toute la durée de la formation. Il peut être conclu pour chaque partie de l'apprentissage si ce dernier a lieu successivement dans plusieurs entreprises.
 
@@ -194,13 +194,13 @@ Formation professionnelle. LF
 
 2  Elle permet notamment à la personne en formation d'acquérir:
 
-- les qualifications spécifiques qui lui permettront d'exercer une activité professionnelle avec compétence et en toute sécurité;
+a. les qualifications spécifiques qui lui permettront d'exercer une activité professionnelle avec compétence et en toute sécurité;
 
-- la culture générale de base qui lui permettra d'accéder au monde du travail et d'y rester ainsi que de s'intégrer dans la société;
+b. la culture générale de base qui lui permettra d'accéder au monde du travail et d'y rester ainsi que de s'intégrer dans la société;
 
-- les connaissances et les compétences économiques, écologiques, sociales et culturelles qui lui permettront de contribuer au développement durable;
+c. les connaissances et les compétences économiques, écologiques, sociales et culturelles qui lui permettront de contribuer au développement durable;
 
-- l'aptitude et la disponibilité à apprendre tout au long de sa vie, d'exercer son sens critique et de prendre des décisions.
+d. l'aptitude et la disponibilité à apprendre tout au long de sa vie, d'exercer son sens critique et de prendre des décisions.
 
 3  Elle fait suite à l'école obligatoire ou à une qualification équivalente. Le Conseil fédéral détermine les critères permettant de fixer l'âge minimum des personnes qui commencent une formation professionnelle initiale.
 
@@ -212,9 +212,9 @@ Formation professionnelle. LF
 
 1  La formation professionnelle initiale comprend:
 
-- une formation à la pratique professionnelle;
+a. une formation à la pratique professionnelle;
 
-- une formation scolaire composée d'une partie de culture générale et d'une partie spécifique à la profession;
+b. une formation scolaire composée d'une partie de culture générale et d'une partie spécifique à la profession;
 
 - 4 RS 415.0
 
@@ -230,15 +230,15 @@ Formation professionnelle. LF
 
 Formation professionnelle
 
-- des compléments à la formation à la pratique professionnelle et à la formation scolaire, là où l'exige l'apprentissage de la profession.
+c. des compléments à la formation à la pratique professionnelle et à la formation scolaire, là où l'exige l'apprentissage de la profession.
 
 2  La formation professionnelle initiale se déroule en règle générale dans les lieux de formation suivants:
 
-- dans l'entreprise formatrice, un réseau d'entreprises formatrices, une école de métiers, une école de commerce ou dans d'autres institutions accréditées à cette fin, pour ce qui concerne la formation à la pratique professionnelle;
+a. dans l'entreprise formatrice, un réseau d'entreprises formatrices, une école de métiers, une école de commerce ou dans d'autres institutions accréditées à cette fin, pour ce qui concerne la formation à la pratique professionnelle;
 
-- dans une école professionnelle, pour ce qui concerne la formation générale et la formation spécifique à la profession;
+b. dans une école professionnelle, pour ce qui concerne la formation générale et la formation spécifique à la profession;
 
-- dans les cours interentreprises et dans d'autres lieux de formation comparables, pour ce qui concerne les compléments à la formation à la pratique professionnelle et à la formation scolaire.
+c. dans les cours interentreprises et dans d'autres lieux de formation comparables, pour ce qui concerne les compléments à la formation à la pratique professionnelle et à la formation scolaire.
 
 3  Les parts de la formation selon l'al. 1, la manière dont elles sont organisées et leur répartition dans le temps sont fixées dans les ordonnances sur la formation en fonction de l'activité professionnelle et de ses exigences.
 
@@ -282,15 +282,15 @@ Formation professionnelle. LF
 
 2  Les ordonnances sur la formation fixent en particulier:
 
-- les  activités  faisant  l'objet  d'une  formation  professionnelle  initiale  et  la durée de celle-ci;
+a. les activités faisant l'objet d'une formation professionnelle initiale et la durée de celle-ci;
 
-- les objectifs et les exigences de la formation à la pratique professionnelle;
+b. les objectifs et les exigences de la formation à la pratique professionnelle;
 
-- les objectifs et les exigences de la formation scolaire;
+c. les objectifs et les exigences de la formation scolaire;
 
-- l'étendue des contenus de la formation et les parts assumées par les lieux de formation;
+d. l'étendue des contenus de la formation et les parts assumées par les lieux de formation;
 
-- les procédures de qualification, les certificats délivrés et les titres décernés.
+e. les procédures de qualification, les certificats délivrés et les titres décernés.
 
 3  Les  procédures  de  qualification  des  formations  non  formelles  se  fondent  sur  les ordonnances correspondantes.
 
@@ -304,11 +304,11 @@ Formation professionnelle. LF
 
 2  Ils doivent avoir obtenu l'autorisation du canton pour former des apprentis; l'autorisation du canton ne fait l'objet d'aucun émolument.
 
-- 6 Nouvelle expression selon le ch. I 8 de l'O du 15 juin 2012 (Réorganisation des départements), en vigueur depuis le 1 er  janv. 2013 (RO 2012 3655). Il a été tenu compte de cette mod. dans tout le texte.
+6 Nouvelle expression selon le ch. I 8 de l'O du 15 juin 2012 (Réorganisation des départements), en vigueur depuis le 1er janv. 2013 (RO 2012 3655). Il a été tenu compte de cette mod. dans tout le texte.
 
-- 8 Introduit par l'art. 21 ch. 2 de la loi du 18 juin 2004 sur les publications officielles, en vigueur depuis le 1 er  janv. 2005 (RO 2004 4929; FF 2003 7047).
+7 RS 170.512
 
-- 7 RS 170.512
+8 Introduit par l'art. 21 ch. 2 de la loi du 18 juin 2004 sur les publications officielles, en vigueur depuis le 1er janv. 2005 (RO 2004 4929; FF 2003 7047).
 
 7
 
@@ -326,11 +326,11 @@ Formation professionnelle
 
 2  L'école professionnelle a un mandat de formation qui lui est propre. Elle:
 
-- favorise l'épanouissement de la personnalité et les compétences sociales des personnes en formation en leur transmettant les connaissances théoriques de base nécessaires à l'exercice de leur profession ainsi qu'une bonne culture générale;
+a. favorise l'épanouissement de la personnalité et les compétences sociales des personnes en formation en leur transmettant les connaissances théoriques de base nécessaires à l'exercice de leur profession ainsi qu'une bonne culture générale;
 
-- met  en  valeur  les  talents  des  personnes  en  formation  et  satisfait,  par  des offres adéquates, aux besoins de celles qui ont beaucoup de facilité comme de celles qui éprouvent des difficultés;
+b. met en valeur les talents des personnes en formation et satisfait, par des offres adéquates, aux besoins de celles qui ont beaucoup de facilité comme de celles qui éprouvent des difficultés;
 
-- favorise l'égalité effective entre les sexes ainsi que l'élimination des désavantages que subissent les personnes handicapées en leur offrant des types et des programmes de formation adéquats.
+c. favorise l'égalité effective entre les sexes ainsi que l'élimination des désavantages que subissent les personnes handicapées en leur offrant des types et des programmes de formation adéquats.
 
 3  La fréquentation de l'école professionnelle est obligatoire.
 
@@ -384,21 +384,21 @@ Formation professionnelle. LF
 
 3  Font de surcroît l'objet de la surveillance notamment:
 
-- la qualité de la formation à la pratique professionnelle, y compris celle de la formation dispensée dans les cours interentreprises et d'autres lieux de formation comparables;
+a. la qualité de la formation à la pratique professionnelle, y compris celle de la formation dispensée dans les cours interentreprises et d'autres lieux de formation comparables;
 
-- la qualité de la formation scolaire;
+b. la qualité de la formation scolaire;
 
-- les examens et les autres procédures de qualification;
+c. les examens et les autres procédures de qualification;
 
-- le respect des dispositions légales du contrat d'apprentissage;
+d. le respect des dispositions légales du contrat d'apprentissage;
 
-- le respect du contrat d'apprentissage par les parties.
+e. le respect du contrat d'apprentissage par les parties.
 
 4  Sur  proposition  commune  du  prestataire  de  la  formation  professionnelle  et  de  la personne en formation, le canton arrête des décisions portant sur:
 
-- l'équivalence des formations professionnelles non formelles visées à l'art. 17, al. 5;
+a. l'équivalence des formations professionnelles non formelles visées à l'art. 17, al. 5;
 
-- les cas visés à l'art. 18, al. 1.
+b. les cas visés à l'art. 18, al. 1.
 
 9
 
@@ -412,9 +412,9 @@ Formation professionnelle
 
 5  Dans le cadre de la surveillance, les cantons peuvent notamment:
 
-- exiger la rétrocession, partielle ou totale, des montants qu'ils ont transmis à des tiers en vertu de l'art. 52, al. 2, 2 e  phrase;
+a. exiger la rétrocession, partielle ou totale, des montants qu'ils ont transmis à des tiers en vertu de l'art. 52, al. 2, 2e phrase;
 
-- annuler un contrat d'apprentissage.
+b. annuler un contrat d'apprentissage.
 
 ### Section 5 Maturité professionnelle fédérale
 
@@ -442,9 +442,9 @@ Formation professionnelle
 
 La formation professionnelle supérieure s'acquiert:
 
-- par un examen professionnel fédéral ou par un examen professionnel fédéral supérieur;
+a. par un examen professionnel fédéral ou par un examen professionnel fédéral supérieur;
 
-- par une formation reconnue par la Confédération et dispensée par une école supérieure.
+b. par une formation reconnue par la Confédération et dispensée par une école supérieure.
 
 10
 
@@ -480,9 +480,9 @@ Formation professionnelle. LF
 
 9 RS 170.512
 
-- 11 Nouvelle expression selon le ch. I 8 de l'O du 15 juin 2012 (Réorganisation des départements), en vigueur depuis le 1 er  janv. 2013 (RO 2012 3655). Il a été tenu compte de cette mod. dans tout le texte.
+10 Phrase introduite par l'art. 21 ch. 2 de la loi du 18 juin 2004 sur les publications officielles, en vigueur depuis le 1er janv. 2005 (RO 2004 4929; FF 2003 7047).
 
-- 10 Phrase introduite par l'art. 21 ch. 2 de la loi du 18 juin 2004 sur les publications officielles, en vigueur depuis le 1 er  janv. 2005 (RO 2004 4929; FF 2003 7047).
+11 Nouvelle expression selon le ch. I 8 de l'O du 15 juin 2012 (Réorganisation des départements), en vigueur depuis le 1er janv. 2013 (RO 2012 3655). Il a été tenu compte de cette mod. dans tout le texte.
 
 11
 
@@ -500,9 +500,9 @@ Formation professionnelle
 
 La formation continue à des fins professionnelles a pour but, dans un cadre structuré:
 
-- de  renouveler,  d'approfondir  et  de  compléter  les  qualifications  professionnelles des participants et de leur permettre d'en acquérir de nouvelles;
+a. de renouveler, d'approfondir et de compléter les qualifications professionnelles des participants et de leur permettre d'en acquérir de nouvelles;
 
-- d'améliorer leur flexibilité professionnelle.
+b. d'améliorer leur flexibilité professionnelle.
 
 #### Art. 31 Offre de formation continue à des fins professionnelles
 
@@ -514,9 +514,9 @@ Les cantons veillent à ce que l'offre de formation continue à des fins profess
 
 2  Elle soutient notamment l'offre visant:
 
-- à  permettre  aux  personnes  dont  la  profession  connaît  des  modifications structurelles de se maintenir dans la vie active;
+a. à permettre aux personnes dont la profession connaît des modifications structurelles de se maintenir dans la vie active;
 
-- à faciliter la réinsertion professionnelle des personnes ayant temporairement réduit leur activité professionnelle ou l'ayant interrompue.
+b. à faciliter la réinsertion professionnelle des personnes ayant temporairement réduit leur activité professionnelle ou l'ayant interrompue.
 
 3  Elle soutient de surcroît les mesures visant à promouvoir la coordination, la transparence et la qualité de l'offre de formation continue à des fins professionnelles.
 
@@ -530,11 +530,9 @@ Les cantons veillent à ce que l'offre de formation continue à des fins profess
 
 Les  qualifications  professionnelles  sont  attestées  par  un  examen  global,  par  une combinaison d'examens partiels ou par d'autres procédures de qualification reconnues par le SEFRI.
 
-12
+12 RS 837.0
 
 12
-
-RS 837.0
 
 [[END OF PAGE 12]]
 
@@ -664,9 +662,9 @@ La Confédération peut offrir des cours de formation aux autres responsables de
 
 - 2  A cet effet, elle entretient un institut de niveau haute école chargé:
 
-- d'assurer la formation et la formation continue des responsables de la formation  professionnelle,  notamment  des  enseignants,  lorsque  la  compétence n'en appartient pas aux cantons;
+a. d'assurer la formation et la formation continue des responsables de la formation professionnelle, notamment des enseignants, lorsque la compétence n'en appartient pas aux cantons;
 
-- de faire de la recherche, de mener des études et des projets pilotes et de fournir des prestations de services dans le domaine de la formation professionnelle et de la formation continue à des fins professionnelles.
+b. de faire de la recherche, de mener des études et des projets pilotes et de fournir des prestations de services dans le domaine de la formation professionnelle et de la formation continue à des fins professionnelles.
 
 - 3  Le Conseil fédéral peut charger l'institut d'autres tâches d'intérêt national.
 
@@ -692,15 +690,15 @@ Formation professionnelle
 
 - 8  L'institut collabore avec des établissements de formation appropriés.
 
-#### Art. 48 a 16 Prestations commerciales
+#### Art. 48a16 Prestations commerciales
 
 1  L'institut peut fournir des prestations commerciales à des tiers pour autant que ces prestations remplissent les conditions suivantes:
 
-- elles sont liées étroitement à ses tâches principales;
+a. elles sont liées étroitement à ses tâches principales;
 
-- elles n'entravent pas l'exécution de ses tâches principales;
+b. elles n'entravent pas l'exécution de ses tâches principales;
 
-- elles  n'exigent  pas  d'importantes  ressources  matérielles  et  humaines  supplémentaires.
+c. elles n'exigent pas d'importantes ressources matérielles et humaines supplémentaires.
 
 2  Les prestations commerciales sont fournies à des prix permettant au moins de couvrir  les  coûts  calculés  sur  la  base  d'une  comptabilité  analytique.  Le  DEFR  peut autoriser  des  dérogations  pour  certaines  prestations  à  condition  qu'elles  n'entrent pas en concurrence avec le secteur privé.
 
@@ -750,11 +748,11 @@ Formation professionnelle. LF
 
 3  Elle verse le reste de sa participation:
 
-- aux cantons et à des tiers pour qu'ils financent des projets de développement de la formation professionnelle et de développement de la qualité (art. 54);
+a. aux cantons et à des tiers pour qu'ils financent des projets de développement de la formation professionnelle et de développement de la qualité (art. 54);
 
-- aux cantons et à des tiers en contrepartie de prestations particulières d'intérêt public (art. 55);
+b. aux cantons et à des tiers en contrepartie de prestations particulières d'intérêt public (art. 55);
 
-- à  des  tiers  pour  la  tenue  des  examens  professionnels  fédéraux  et  des  examens professionnels fédéraux supérieurs et pour soutenir des filières de formation dans les écoles supérieures (art. 56).
+c. à des tiers pour la tenue des examens professionnels fédéraux et des examens professionnels fédéraux supérieurs et pour soutenir des filières de formation dans les écoles supérieures (art. 56).
 
 17 RS 837.0
 
@@ -774,29 +772,29 @@ Formation professionnelle
 
 2  Les forfaits sont versés aux cantons pour:
 
-- l'offre:
+a. l'offre:
 
-- d'encadrement  individuel  spécialisé  destiné  aux  personnes  engagées dans une formation professionnelle initiale 19  de deux ans (art. 18, al. 2),
+1. d'encadrement individuel spécialisé destiné aux personnes engagées dans une formation professionnelle initiale19 de deux ans (art. 18, al. 2),
 
-- de mesures préparant à la formation professionnelle initiale (art. 12),
+2. de mesures préparant à la formation professionnelle initiale (art. 12),
 
-- d'écoles professionnelles (art. 21),
+3. d'écoles professionnelles (art. 21),
 
-- de cours interentreprises et de cours d'autres lieux de formation comparables (art. 23),
+4. de cours interentreprises et de cours d'autres lieux de formation comparables (art. 23),
 
-- de cours de formation générale approfondie menant à la maturité professionnelle fédérale (art. 25),
+5. de cours de formation générale approfondie menant à la maturité professionnelle fédérale (art. 25),
 
-- de  cours  de  préparation  aux  examens  professionnels  fédéraux  et  aux examens professionnels fédéraux supérieurs (art. 28),
+6. de cours de préparation aux examens professionnels fédéraux et aux examens professionnels fédéraux supérieurs (art. 28),
 
-- de filières de formation dans les écoles supérieures (art. 29),
+7. de filières de formation dans les écoles supérieures (art. 29),
 
-- de cours de formation continue à des fins professionnelles (art. 30 à 32),
+8. de cours de formation continue à des fins professionnelles (art. 30 à 32),
 
-- de cours de formation des formateurs (art. 45),
+9. de cours de formation des formateurs (art. 45),
 
-- de qualification des conseillers d'orientation professionnelle, universitaire et de carrière (art. 50);
+10. de qualification des conseillers d'orientation professionnelle, universitaire et de carrière (art. 50);
 
-- la  tenue  des  examens  et  l'exécution  des  autres  procédures  de  qualification (art. 40, al. 1), sous réserve de l'art. 52, al. 3, let. c.
+b. la tenue des examens et l'exécution des autres procédures de qualification (art. 40, al. 1), sous réserve de l'art. 52, al. 3, let. c.
 
 #### Art. 54 Subventions en faveur de projets de développement de la formation professionnelle et de développement de la qualité
 
@@ -806,9 +804,9 @@ Les subventions visées à l'art. 4, al. 1, en faveur des projets de développem
 
 1  Par prestations particulières d'intérêt public, on entend notamment:
 
-- les mesures visant à réaliser une égalité effective entre hommes et femmes ainsi que les mesures destinées à la formation et à la formation continue à des fins professionnelles des personnes handicapées (art. 3, let. c);
+a. les mesures visant à réaliser une égalité effective entre hommes et femmes ainsi que les mesures destinées à la formation et à la formation continue à des fins professionnelles des personnes handicapées (art. 3, let. c);
 
-- l'information et la documentation (art. 5, let. a);
+b. l'information et la documentation (art. 5, let. a);
 
 - 18 Nouvelle teneur selon le ch. II 4 de la LF du 6 oct. 2006 (Réforme de la péréquation financière), en vigueur depuis le 1 er  janv. 2008 (RO 2007 5779; FF 2005 5641).
 
@@ -824,21 +822,21 @@ Formation professionnelle. LF
 
 412.10
 
-- la  création  de  moyens  didactiques  destinés  aux  minorités  linguistiques (art. 5, let. b);
+c. la création de moyens didactiques destinés aux minorités linguistiques (art. 5, let. b);
 
-- les  mesures favorisant la compréhension et les échanges entre les communautés linguistiques (art. 6);
+d. les mesures favorisant la compréhension et les échanges entre les communautés linguistiques (art. 6);
 
-- les mesures en faveur des groupes et des régions défavorisés (art. 7);
+e. les mesures en faveur des groupes et des régions défavorisés (art. 7);
 
-- les mesures pour intégrer dans la formation professionnelle les jeunes éprouvant des difficultés scolaires, sociales ou linguistiques (art. 7);
+f. les mesures pour intégrer dans la formation professionnelle les jeunes éprouvant des difficultés scolaires, sociales ou linguistiques (art. 7);
 
-- les mesures en faveur du maintien dans la vie active et de la réinsertion professionnelle (art. 32, al. 2);
+g. les mesures en faveur du maintien dans la vie active et de la réinsertion professionnelle (art. 32, al. 2);
 
-- les mesures visant à promouvoir la coordination, la transparence et la qualité de l'offre de formation continue à des fins professionnelles (art. 32, al. 3);
+h. les mesures visant à promouvoir la coordination, la transparence et la qualité de l'offre de formation continue à des fins professionnelles (art. 32, al. 3);
 
-- l'encouragement des autres procédures de qualification (art. 35).
+i. l'encouragement des autres procédures de qualification (art. 35).
 
-- les mesures permettant d'assurer et d'étendre l'offre de places d'apprentissage (art. 1, al. 1).
+j. les mesures permettant d'assurer et d'étendre l'offre de places d'apprentissage (art. 1, al. 1).
 
 2  Les  subventions  en  faveur  de  prestations  d'intérêt  public  ne  sont  accordées  que pour des prestations à long terme qui ne pourraient être fournies sans subventions.
 
@@ -854,11 +852,11 @@ La  Confédération  peut  soutenir  par  des  subventions  la  tenue  des  exam
 
 1  Les subventions visées aux art. 53 à 56 ne sont allouées que si le projet:
 
-- répond à un besoin;
+a. répond à un besoin;
 
-- est organisé de manière adéquate;
+b. est organisé de manière adéquate;
 
-- inclut des mesures permettant d'assurer le développement de la qualité.
+c. inclut des mesures permettant d'assurer le développement de la qualité.
 
 2  Le Conseil fédéral peut prévoir d'autres conditions et charges. Il règle le calcul des subventions.
 
@@ -880,9 +878,9 @@ La Confédération réduit le montant des subventions allouées ou refuse d'en a
 
 1  L'Assemblée fédérale approuve pour chaque période de subventionnement pluriannuelle, par un arrêté simple:
 
-- le  plafond  des  dépenses  accordées  pour  les  forfaits  versés  aux  cantons  en vertu de l'art. 53;
+a. le plafond des dépenses accordées pour les forfaits versés aux cantons en vertu de l'art. 53;
 
-- le  crédit  d'engagement  des  subventions  destinées  aux  projets  visés  à l'art. 54, aux prestations particulières d'intérêt public visées à l'art. 55, à la tenue  des  examens  professionnels  fédéraux  et  des  examens  professionnels fédéraux supérieurs ainsi qu'aux filières de formation des écoles supérieures, visés à l'art. 56.
+b. le crédit d'engagement des subventions destinées aux projets visés à l'art. 54, aux prestations particulières d'intérêt public visées à l'art. 55, à la tenue des examens professionnels fédéraux et des examens professionnels fédéraux supérieurs ainsi qu'aux filières de formation des écoles supérieures, visés à l'art. 56.
 
 2  La  participation  de  la  Confédération  équivaut  environ  au  quart  du  montant  des dépenses affectées par les pouvoirs publics à la formation professionnelle en application  de  la  présente  loi.  La  Confédération  attribue  un  montant  correspondant  à 10 % de cette participation à des projets et prestations prévus aux art. 54 et 55.
 
@@ -898,7 +896,7 @@ La Confédération réduit le montant des subventions allouées ou refuse d'en a
 
 4  Le Conseil fédéral peut prendre la mesure prévue à l'al. 3 à condition:
 
-- que 30 % au moins des entreprises totalisant 30 % au moins des employés et des personnes en formation de la branche participent déjà financièrement au fonds;
+a. que 30 % au moins des entreprises totalisant 30 % au moins des employés et des personnes en formation de la branche participent déjà financièrement au fonds;
 
 20 RS 221.215.311
 
@@ -912,11 +910,11 @@ Formation professionnelle. LF
 
 412.10
 
-- que l'organisation dispose de sa propre institution de formation;
+b. que l'organisation dispose de sa propre institution de formation;
 
-- que  les  contributions  ne  soient  prélevées  que  pour  les  professions  spécifiques à la branche;
+c. que les contributions ne soient prélevées que pour les professions spécifiques à la branche;
 
-- que les contributions soient investies dans des mesures de formation professionnelle qui bénéficient à toutes les entreprises.
+d. que les contributions soient investies dans des mesures de formation professionnelle qui bénéficient à toutes les entreprises.
 
 - 5  Le genre et le montant des contributions de formation sont fonction du montant des contributions versées par les membres de l'organisation et destinées à la formation professionnelle. Le Conseil fédéral en fixe le montant maximal; celui-ci peut varier en fonction des branches.
 
@@ -931,11 +929,11 @@ Formation professionnelle. LF
 
 1  Les autorités de recours sont:
 
-- une autorité cantonale désignée par le canton, pour les décisions prises par les  autorités  cantonales  ou  par  les  prestataires  de  la  formation  professionnelle ayant un mandat du canton;
+a. une autorité cantonale désignée par le canton, pour les décisions prises par les autorités cantonales ou par les prestataires de la formation professionnelle ayant un mandat du canton;
 
-- 21   le SEFRI, pour les autres décisions prises par des organisations extérieures à l'administration fédérale.
+b.21 le SEFRI, pour les autres décisions prises par des organisations extérieures à l'administration fédérale.
 
-- et d.  ... 22
+c. et d. ...22
 
 2  Au surplus la procédure est régie par les dispositions générales du droit de la procédure administrative fédérale.
 
@@ -959,9 +957,9 @@ Formation professionnelle. LF
 
 Formation professionnelle
 
-- sans détenir l'autorisation mentionnée aux art. 20, al. 2;
+a. sans détenir l'autorisation mentionnée aux art. 20, al. 2;
 
-- sans avoir conclu de contrat d'apprentissage (art. 14).
+b. sans avoir conclu de contrat d'apprentissage (art. 14).
 
 2  En cas de faute légère, l'autorité de jugement peut adresser un avertissement.
 
@@ -969,9 +967,9 @@ Formation professionnelle
 
 1  Sera puni de l'amende quiconque:
 
-- porte un titre protégé sans avoir réussi l'examen correspondant ou sans avoir suivi avec succès une procédure de qualification équivalente;
+a. porte un titre protégé sans avoir réussi l'examen correspondant ou sans avoir suivi avec succès une procédure de qualification équivalente;
 
-- utilise un titre donnant l'impression qu'il a réussi l'examen correspondant ou suivi avec succès une procédure de qualification équivalente.
+b. utilise un titre donnant l'impression qu'il a réussi l'examen correspondant ou suivi avec succès une procédure de qualification équivalente.
 
 2  Les dispositions pénales de la loi fédérale du 19 décembre 1986 contre la concurrence déloyale 23  sont réservées.
 
@@ -989,9 +987,9 @@ La poursuite pénale incombe aux cantons.
 
 3  Il  consulte  les  cantons  et  les  organisations  du  monde du travail intéressées avant d'édicter:
 
-- les dispositions d'exécution;
+a. les dispositions d'exécution;
 
-- les ordonnances sur la formation.
+b. les ordonnances sur la formation.
 
 4  La Confédération exerce la haute surveillance sur l'exécution de la présente loi par les cantons.
 
@@ -1035,9 +1033,9 @@ La Confédération et les cantons peuvent confier des tâches d'exécution de la
 
 1  La  Commission  fédérale  de  la  formation  professionnelle  est  chargée  des  tâches suivantes:
 
-- elle conseille les autorités fédérales sur les questions générales relevant de la politique  en  matière  de  formation  professionnelle  et  sur  les  questions  de développement, de coordination et d'harmonisation de celles-ci avec la politique générale en matière de formation;
+a. elle conseille les autorités fédérales sur les questions générales relevant de la politique en matière de formation professionnelle et sur les questions de développement, de coordination et d'harmonisation de celles-ci avec la politique générale en matière de formation;
 
-- elle  évalue  les  projets  de  développement  de  la  formation  professionnelle visés à l'art. 54, les demandes de subventions pour des prestations particulières  d'intérêt  public  visées  à  l'art.  55  et  les  demandes  de  soutien  dans  le domaine de la formation professionnelle visées à l'art. 56 ainsi que les projets  de  recherche,  les  études,  les  projets  pilote  et  les  prestations  de  service dans le domaine de la formation professionnelle et de la formation continue à des fins professionnelles visées à l'art. 48, al. 2, let. b.
+b. elle évalue les projets de développement de la formation professionnelle visés à l'art. 54, les demandes de subventions pour des prestations particulières d'intérêt public visées à l'art. 55 et les demandes de soutien dans le domaine de la formation professionnelle visées à l'art. 56 ainsi que les projets de recherche, les études, les projets pilote et les prestations de service dans le domaine de la formation professionnelle et de la formation continue à des fins professionnelles visées à l'art. 48, al. 2, let. b.
 
 > 24 Phrase introduite par le ch II de la LF du 17 déc. 2004, en vigueur depuis le 5 oct. 2005 (RO 2005 4635; FF 2004 117).
 
@@ -1097,31 +1095,29 @@ Formation professionnelle. LF
 
 412.10
 
+## Annexe (art. 72)
+
 ### Abrogation et modification du droit en vigueur
 
 #### I
 
 Sont abrogées:
 
-- la loi fédérale du 19 avril 1978 sur la formation professionnelle 28
+1. la loi fédérale du 19 avril 1978 sur la formation professionnelle28
 
-- la loi fédérale du 19 juin 1992 sur les aides financières aux écoles supérieures de travail social 29
+2. la loi fédérale du 19 juin 1992 sur les aides financières aux écoles supérieures de travail social29
 
 #### II
 
 Les actes mentionnés ci-après sont modifiés comme suit:
 
-...
-
-30
+...30
 
 > 28 [RO 1979 1687, 1985 660 ch. I 21, 1987 600 art. 17 al. 3, 1991 857 appendice ch. 4, 1992 288 annexe ch. 17 2521 art. 55 ch. 1, 1996 2588 art. 25 al. 2, annexe ch. 1, 1998 1822 art. 2, 1999 2374 ch. I 2, 2003 187 annexe ch. II 2]
 
-> 30 Les mod. peuvent être consultées au RO 2003 4557.
-
 > 29 [RO 1992 1973]
 
-## Annexe (art. 72)
+> 30 Les mod. peuvent être consultées au RO 2003 4557.
 
 25
 
