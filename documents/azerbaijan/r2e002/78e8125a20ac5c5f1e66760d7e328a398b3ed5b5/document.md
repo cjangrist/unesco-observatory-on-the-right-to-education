@@ -10,7 +10,7 @@ Following Article 96 of the Constitution of the Republic of Azerbaijan, the Draf
 
 <Signed>
 
-IlhamAliyev
+Ilham Aliyev
 
 Baku City, April 17, 2013
 
@@ -49,7 +49,7 @@ Since the date of entry of the Migration Code of the Republic of Azerbaijan into
 
 - 3.3 Law No 724-IQ of the Republic of Azerbaijan on Labor Migration, dated October 28, 1999 (The Statute Book of the Republic of Azerbaijan, 2000, No 1, Article 3; 2007, No 10, Article 938; 2008, No 10, Article 886; 2009, No 7, Article 519);
 
-- 3.4 Law No 414-IIQ ofthe Republic of Azerbaijan on Approval of the Regulation on the Transit of Foreigners and Stateless Persons through the territory of the Republic of Azerbaijan, dated December 27, 2002 (The Statute Book of the Republic of Azerbaijan, 2003, No 2, Article 80; 2007, No 5, Article 438).
+- 3.4 Law No 414-IIQ of the Republic of Azerbaijan on Approval of the Regulation on the Transit of Foreigners and Stateless Persons through the territory of the Republic of Azerbaijan, dated December 27, 2002 (The Statute Book of the Republic of Azerbaijan, 2003, No 2, Article 80; 2007, No 5, Article 438).
 ## Article 4
 This Law shall enter into force on June 1, 2013.
 
@@ -71,6 +71,40 @@ SECTION I
 
 GENERAL PROVISIONS
 
+CHAPTER 1 Laws and regulations of the Republic of Azerbaijan in the sphere of migration 1
+
+CHAPTER 2 Migration registration of foreigners and stateless persons 3
+
+SECTION II
+
+ENTRY TO AND EXIT FROM THE REPUBLIC OF AZERBAIJAN
+
+CHAPTER 3 Exit and entry of citizens of the Republic of Azerbaijan 4
+
+CHAPTER 4 Entry/exit and temporary stay of foreigners and stateless persons on the territory of the Republic of Azerbaijan 7
+
+SECTION III
+
+DOCUMENTS ALLOWING ENTRY, EXIT, TEMPORARY STAY, RESIDENCE AND EMPLOYMENT OF FOREIGNERS AND STATELESS PERSONS ON THE TERRITORY OF THE REPUBLIC OF AZERBAIJAN, AND ISSUANCE OF SUCH DOCUMENTS
+
+CHAPTER 5 Visas 12
+
+CHAPTER 6 Extending temporary stay of foreigners and stateless persons on the territory of the Republic of Azerbaijan 17
+
+CHAPTER 7 Permission for temporary residence on the territory of the Republic of Azerbaijan 19
+
+CHAPTER 8 Permission for permanent residence on the territory of the Republic of Azerbaijan 23
+
+SECTION IV
+
+LABOR MIGRATION
+
+CHAPTER 9 Government regulation of labor migration 27
+
+CHAPTER 10 Regulation of labor of citizens of the Republic of Azerbaijan abroad 27
+
+CHAPTER 11 Regulation of labor of foreigners and stateless persons on the territory of the Republic of Azerbaijan 28
+
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
@@ -78,6 +112,16 @@ GENERAL PROVISIONS
 SECTION V
 
 LEGAL STATUS OF FOREIGNERS AND STATELESS PERSONS IN THE REPUBLIC OF AZERBAIJAN
+
+CHAPTER 12 Fundamentals of legal status of foreigners and stateless persons 33
+
+SECTION VI
+
+FINAL PROVISIONS
+
+CHAPTER 13 Deportation of foreigners and stateless persons from the territory of the Republic of Azerbaijan 35
+
+CHAPTER 15 Liability 37
 
 [[END OF PAGE 5]]
 
@@ -103,9 +147,9 @@ The laws and regulations of the Republic of Azerbaijan in the sphere of migratio
 
 #### Article 3 Basic definitions
 
-- 3.0 For the purposes of this Code, the following basic definitions shall be applied: 3.0.1 foreigner means a person who is not a citizen of the Republic of Azerbaijan and is a citizen of another state; 3.0.2 Stateless person means a person who is not considered as a national by any State under the operation of its law. 3.0.3 young person means a person under 18 years old; 3.0.4 passport means  a  document,  issued  by  the  national  government  of  a  person,  which  entitles  its  holder  to entry/exit and certifies the identity and nationality of its holder; 3.0.5 identification card means the document certifying the identity of its holder in the Republic of Azerbaijan; 3.0.6 person temporarily staying in the Republic of Azerbaijan means a foreigner or stateless person not holding a  residence  permit  in  Azerbaijan,  who  enter  the  Republic  of  Azerbaijan  legally  for  the  purposes  of  tourism, individual business, business travel, and in relation to other similar cases which have temporary nature; 3.0.7 person temporary residing in the Republic of Azerbaijan means a foreigner or stateless person holding a temporary residence permit in the Republic of Azerbaijan in compliance with the order set forth in this Code; 3.0.8 person permanently residing in the Republic of Azerbaijan means a foreigner or stateless person holding a permanent residence permit in the Republic of Azerbaijan in compliance with the order set forth in this Code; 3.0.9 labor  migration means  movement  of  a  natural  person  by  migrating  legally  from  one  country  to  another country with the aim to engage in a paid labor activity; means a natural person legally migration from one country to another country with the aim to
+- 3.0 For the purposes of this Code, the following basic definitions shall be applied: 3.0.1 foreigner means a person who is not a citizen of the Republic of Azerbaijan and is a citizen of another state; 3.0.2 Stateless person means a person who is not considered as a national by any State under the operation of its law. 3.0.3 young person means a person under 18 years old; 3.0.4 passport means a document, issued by the national government of a person, which entitles its holder to entry/exit and certifies the identity and nationality of its holder; 3.0.5 identification card means the document certifying the identity of its holder in the Republic of Azerbaijan; 3.0.6 person temporarily staying in the Republic of Azerbaijan means a foreigner or stateless person not holding a residence permit in Azerbaijan, who enter the Republic of Azerbaijan legally for the purposes of tourism, individual business, business travel, and in relation to other similar cases which have temporary nature; 3.0.7 person temporary residing in the Republic of Azerbaijan means a foreigner or stateless person holding a temporary residence permit in the Republic of Azerbaijan in compliance with the order set forth in this Code; 3.0.8 person permanently residing in the Republic of Azerbaijan means a foreigner or stateless person holding a permanent residence permit in the Republic of Azerbaijan in compliance with the order set forth in this Code; 3.0.9 labor migration means movement of a natural person by migrating legally from one country to another country with the aim to engage in a paid labor activity;
 
-- 3.0.10 labor migrant engage in a paid labor activity;
+- 3.0.10 labor migrant means a natural person legally migration from one country to another country with the aim to engage in a paid labor activity;
 
 [[END OF PAGE 6]]
 
@@ -125,9 +169,7 @@ migration; and government control over migration and struggle against illegal mi
 
 #### Article 5 Partakers of migration process
 
-- 5.0Partakers of the migration process are the following: 5.0.1 government authorities taking part in the management and regulation of the migration processes, and executing the government control over those processes; 5.0.2 citizens of Azerbaijan, who go abroad, reside there temporarily or permanently, and engage in a paid labor activity there; 5.0.3 persons inviting foreigners and stateless persons to the Republic of Azerbaijan and taking part in the process of registration of them in the Republic of Azerbaijan; 5.0.4 foreigners on stateless persons who enter the Republic of Azerbaijan with or without a visa, stay in the country temporarily, prolong their temporary residence period; hold a temporary or permanent residence permit, and hold a work permit to engage in a paid labor activity in the Republic of Azerbaijan; 5.0.5 offices, enterprises and  organizations,  not depending  on their organizational and legal  form;  subsidiary and representative  offices  of  foreign  legal  entities;  and  natural  persons  engaging  in  entrepreneurship,  who  invite foreigners and stateless persons to the Republic of Azerbaijan and take part in the processes of issuance of permits allowing them to stay temporarily in the country, prolong the period of temporary stay, get registered and migrate for labor purposes and issuance of temporary and permanent residence permits for them; 5.0.6 legal entities officially registered in the Republic of Azerbaijan, which intermediate in employment of citizens
-
-- of the Republic of Azerbaijan abroad.
+- 5.0 Partakers of the migration process are the following: 5.0.1 government authorities taking part in the management and regulation of the migration processes, and executing the government control over those processes; 5.0.2 citizens of Azerbaijan, who go abroad, reside there temporarily or permanently, and engage in a paid labor activity there; 5.0.3 persons inviting foreigners and stateless persons to the Republic of Azerbaijan and taking part in the process of registration of them in the Republic of Azerbaijan; 5.0.4 foreigners or stateless persons who enter the Republic of Azerbaijan with or without a visa, stay in the country temporarily, prolong their temporary residence period; hold a temporary or permanent residence permit, and hold a work permit to engage in a paid labor activity in the Republic of Azerbaijan; 5.0.5 offices, enterprises and organizations, not depending on their organizational and legal form; subsidiary and representative offices of foreign legal entities; and natural persons engaging in entrepreneurship, who invite foreigners and stateless persons to the Republic of Azerbaijan and take part in the processes of issuance of permits allowing them to stay temporarily in the country, prolong the period of temporary stay, get registered and migrate for labor purposes and issuance of temporary and permanent residence permits for them; 5.0.6 legal entities officially registered in the Republic of Azerbaijan, which intermediate in employment of citizens of the Republic of Azerbaijan abroad.
 
 [[END OF PAGE 7]]
 
@@ -259,7 +301,7 @@ relating  to  anti-terror,  rescue  and  military  necessity  shall  exit  from 
 
 9.5 The right of persons allowed to work with government secrets to reside abroad permanently may be restricted temporarily until the privacy period of the information which they are allowed to get acquainted ends, but not for more than 5 years.
 
-9.6 Information on the citizens whose right to entry to and exit from the country is restricted shall be included in restriction registriesof automatized information and research system and the active status of the information shall be changed if pertinent grounds are eliminated.
+9.6 Information on the citizens whose right to entry to and exit from the country is restricted shall be included in restriction registries of automatized information and research system and the active status of the information shall be changed if pertinent grounds are eliminated.
 
 9.7 Where a state of emergency or a danger for human life, health and freedom arises in any country, the pertinent executive  authority  by  informing  the  population  of  the  Republic  of  Azerbaijan  shall  recommend  the  citizens  to temporarily avoid going to that country.
 
@@ -361,7 +403,7 @@ PERSONS ON THE TERRITORY OF THE REPUBLIC OF AZERBAIJAN
 
 17.1.5 when they are provisionally charged by imposing on them the obligations set forth in the Criminal Code of the Republic of Azerbaijan or when they are released from the punishment provisionally earlier, respectively, until the  probation  period  or  non-served  part  of  the  punishment  ends,  or  the  provisional  charging,  or  the  imposed obligations are terminated earlier completely;
 
-17.1.6 when there is a court ruling on restriction of their right to exit from the country temporarily due to the nonexecution  of  the  execution  document  provided  on  the  basis  of  a  court  ruling  within  the  determined  time  period without  any  reasonable  ground,  entered  into  legal  force,  until  the  making  of  the  decision  on  termination  of  the restriction;
+17.1.6 when there is a court ruling on restriction of their right to exit from the country temporarily due to the non-execution of the execution document provided on the basis of a court ruling within the determined time period without any reasonable ground, entered into legal force, until the making of the decision on termination of the restriction;
 
 17.1.7  when  they  commit  an  administrative  misdemeanor,  until  the  execution  of  administrative  punishment measures on them, entered into force.
 
@@ -407,7 +449,7 @@ PERSONS ON THE TERRITORY OF THE REPUBLIC OF AZERBAIJAN
 
 - 19.6 If an obligatory stay happens during a transit passage, the period of temporary stay of foreigners and stateless persons  in  the  Republic  of  Azerbaijan  is  prolonged  until  the  time  when  the  grounds  for  the  obligatory  stay  are removed, in compliance with Articles 41-43 of this Code.
 
-19.7 Foreigners and stateless persons using the territory of the Republic of Azerbaijan as a transit though railway or auto transport shall not be allowed to stay on the area belong the borders.
+19.7 Foreigners and stateless persons using the territory of the Republic of Azerbaijan as a transit through railway or auto transport shall not be allowed to stay on the area belong the borders.
 
 19.8 Transit passage of foreigners and stateless persons taking part in international cargos may use the territory of the  Republic of  Azerbaijan as a transit area  from  state border  checkpoints appointed  for global and international cargos and auto-vehicle roads.
 
@@ -439,13 +481,13 @@ PERSONS ON THE TERRITORY OF THE REPUBLIC OF AZERBAIJAN
 
 - 21.4.2 persons entering on a visa-free basis - for 90 days.
 
-- 21.5 Registration of the places of stay of the foreigners and stateless persons being protected by the Representative Office of the United Nations High Commissioner for Refugees (UNHCR) in Azerbaijan for the protection period shall be conducted o the basis of the Representative Office by the pertinent executive authority.
+- 21.5 Registration of the places of stay of the foreigners and stateless persons being protected by the Representative Office of the United Nations High Commissioner for Refugees (UNHCR) in Azerbaijan for the protection period shall be conducted on the basis of the Representative Office by the pertinent executive authority.
 
 - 21.6 No government fee is required for the registration of the places of stay of foreigners and stateless persons.
 
 - 21.7 When the foreigners and the stateless persons leave their places of stay, the receiving party shall inform the pertinent  executive  authority  of  it  and  their  places  of  stay  are  excluded  from  the  registry  on  the  basis  of  that information. When the registration period ends, the foreigners and stateless persons are considered as ones excluded from the registry.
 
-- 21.8 When a foreigner or stateless person move his/her place of stay, his/her new place of stay shall be registered in the order set forth in Articles 21.2- - 21.4 of this Code.
+- 21.8 When a foreigner or stateless person move his/her place of stay, his/her new place of stay shall be registered in the order set forth in Articles 21.2-21.4 of this Code.
 
 #### Article 22 Foreigners and stateless persons registered by the pertinent executive authority
 
@@ -499,13 +541,13 @@ VISAS
 
 24.9 The rules (terms) stipulated in the international agreements on visas, where the Republic of Azerbaijan is a party to, may be different than the rules (terms) stipulated in this Code.
 
-#### Article 25 Am entry visa issued for business travel
+#### Article 25 An entry visa issued for business travel
 
 25.1  The  business  travel  visa  is  issued  to  associates  of  diplomatic  representative  offices  and  consular  offices  of foreign countries in the Republic of Azerbaijan, including the associates of the representative offices of international organizations,  their  administrative  and  technical  staffs  and  family  members,  and  foreigners  who  travel  to  the Republic  of  Azerbaijan  with  a  special  mission  in  the  cases  set  forth  by  the  international  agreements  where  the Republic of Azerbaijan is a party to. On these visas, the period of stay in the country is determined by the validity period of the issued visa.
 
 25.2 A business travel visa may also be issued to foreigners and stateless persons who attend in official events and conferences and the period of stay in these visas is determined up to 180 days.
 
-25.3  For  the  registration  of  a  business  travel  visa,  a  n  official  nota  of  the  country  or  international  organization represented by a foreigner or stateless person is citizen, or the application of pertinent executive authorities of the Republic of Azerbaijan, and the documents mentioned in Article 36 of this Code are required.
+25.3 For the registration of a business travel visa, an official nota of the country or international organization represented by a foreigner or stateless person is citizen, or the application of pertinent executive authorities of the Republic of Azerbaijan, and the documents mentioned in Article 36 of this Code are required.
 
 [[END OF PAGE 15]]
 
@@ -517,7 +559,7 @@ VISAS
 
 #### Article 27 Entry visa issued for the purposes of science and education
 
-27.1  A  science  and  education  visa  is  issued  on  the  basis  of  an  application  submitted  by  government  authorities, research and development institutions, education institutions officially registered in the Republic of Azerbaijan to foreigners and stateless persons entering the Republic of Azerbaijan to attend an applicable conference, seminar and other scientific event, to get education by enrolling an education institution or to get retrained. 27.2 On a science or education visa, period of stay in the country shall be determined up to 90 days. 27.3 For the registration of a science or education visa, a document certifying that a person has sufficient funds to pay for his/her expenses related to his education and residence in the Republic of Azerbaijan (when the education of a foreigner or stateless person in the Republic of Azerbaijanis not financed by the country where s/he is a citizen or
+27.1 A science and education visa is issued on the basis of an application submitted by government authorities, research and development institutions, education institutions officially registered in the Republic of Azerbaijan to foreigners and stateless persons entering the Republic of Azerbaijan to attend an applicable conference, seminar and other scientific event, to get education by enrolling an education institution or to get retrained. 27.2 On a science or education visa, period of stay in the country shall be determined up to 90 days. 27.3 For the registration of a science or education visa, a document certifying that a person has sufficient funds to pay for his/her expenses related to his education and residence in the Republic of Azerbaijan (when the education of a foreigner or stateless person in the Republic of Azerbaijan is not financed by the country where s/he is a citizen or
 
 - a permanent resident), and the documents set forth in Article 36 of this Code.
 
@@ -527,13 +569,13 @@ VISAS
 
 #### Article 29 Entry visa for the purpose of medical treatment
 
-- 29.1 A medical treatment visa is issued to foreigners and stateless persons entering the Republic of Azerbaijan to be diagnosed and treated in the  Republic of  Azerbaijan,  on  the  basis  of  an  application  of  medical  institution  ni  the
+- 29.1 A medical treatment visa is issued to foreigners and stateless persons entering the Republic of Azerbaijan to be diagnosed and treated in the Republic of Azerbaijan, on the basis of an application of medical institution in the
 
 Republic of Azerbaijan as a receiving party. 29.2 On a medical treatment visa, the period of stay in the country shall be determined up to 90 days. 29.3  For  the  purpose  of  the  registration  of  a  medical  treatment  visa,  the  invited  person  shall  have  a  reference certifying that s/he has any disease to be diagnosed or treated, and the documents set forth in Article 36 of this Code.
 
 #### Article 30 Entry visa for the purpose of individual travel
 
-30.1 A n individual travel visa is issued to foreigners and stateless persons entering the Republic of Azerbaijan on the basis of an invitation of a citizen of the Republic of Azerbaijan, a foreigner or stateless persons permanently residing  in  the  Republic  of  Azerbaijan,  a  labor  migrant  holding  a  temporary  residence  permit  or  a  foreigner  or stateless person who gets education (only for the family members of that labor migrant or the foreigner and stateless
+30.1 An individual travel visa is issued to foreigners and stateless persons entering the Republic of Azerbaijan on the basis of an invitation of a citizen of the Republic of Azerbaijan, a foreigner or stateless persons permanently residing in the Republic of Azerbaijan, a labor migrant holding a temporary residence permit or a foreigner or stateless person who gets education (only for the family members of that labor migrant or the foreigner and stateless
 
 person), registered by the pertinent government authority. 30.2 On an individual travel visa, the period of stay in the country shall be determined up to 90 days. 30.3  For  the  registration  of  an  individual  travel  visa,  the  inviting  person  shall  have  a  copy  of  his/her  original identification card, an obligation on the guarantee of the financial expenses related to the travel of a foreigner or stateless person (ticket, daily sustenance, medical and etc.) and the document certifying that the invited person is a family member of the labor migrant or the foreigner and stateless person getting education, and the documents set
 
@@ -565,7 +607,7 @@ forth in Article 36 of this Code are required.
 
 33.2 On a tourism visa, the period of stay in the country shall be determined up to 30 days.
 
-33.3  For  the  registration  of  a  tourism  visa,  a  document  certifying  that  a  travel  is  conducted  for  the  purpose  of tourism (a tourism voucher or tourism notification, or a passenger ticket and a document certifying the reservation of a place in a hotel, camping, tourist base or other similar objects) and the documents set forth in  Article 36 o this Code are required.
+33.3 For the registration of a tourism visa, a document certifying that a travel is conducted for the purpose of tourism (a tourism voucher or tourism notification, or a passenger ticket and a document certifying the reservation of a place in a hotel, camping, tourist base or other similar objects) and the documents set forth in Article 36 of this Code are required.
 
 33.4 The procedure of issuance of electron visas to tourists is determined by Article 38 of this Code.
 
@@ -579,7 +621,7 @@ forth in Article 36 of this Code are required.
 
 #### Article 35 Information included in a visa application form
 
-35.1 On a visa application form, the words of 'the Republic of Azerbaijan', the state blazon, the serial number of the visa, the type of the visa, the purpose of the entry to the country, the first name and the last name of the visa holder, the  passport  number,  the  sex,  the  date  of  birth,  the  nationality,  the  total  number  of  the  persons  accompanying him/her, the place and date of issue of the visa, the signature of the competent person issuing the visa and the seal of the pertinent government authority, the start and end dates of the validity of the visa, the number of entries, the total number of the days for which the visa holder may stay in the county, not depending the number of the entries during the  validity  period  of  the  visa,  and  the  image  of  the  face  of  the  visa  holder  in  compliance  with  biometric identification requirements shall be reflected.
+35.1 On a visa application form, the words of 'the Republic of Azerbaijan', the state blazon, the serial number of the visa, the type of the visa, the purpose of the entry to the country, the first name and the last name of the visa holder, the passport number, the sex, the date of birth, the nationality, the total number of the persons accompanying him/her, the place and date of issue of the visa, the signature of the competent person issuing the visa and the seal of the pertinent government authority, the start and end dates of the validity of the visa, the number of entries, the total number of the days for which the visa holder may stay in the country, not depending the number of the entries during the validity period of the visa, and the image of the face of the visa holder in compliance with biometric identification requirements shall be reflected.
 
 35.2 The names of the parameters set forth in the visa application form shall be written both in Azerbaijani and English languages.
 
@@ -609,7 +651,7 @@ forth in Article 36 of this Code are required.
 
 36.1.7 applicable documents set forth in Articles 25-34 of this Code, depending on the purpose of a travel.
 
-36.2 For the registration of a visa for foreigners and stateless persons who are under 18, but are holders of a passport or do not travel with accompaniment of their legal representatives, in addition to the documents set forth in Article 36.3 of this Code, a copy of the original certificate of birth, a permission of parents or a legal representative and copies of the original documents certifying their identities are also required.
+36.2 For the registration of a visa for foreigners and stateless persons who are under 18, but are holders of a passport or do not travel with accompaniment of their legal representatives, in addition to the documents set forth in Article 36.1 of this Code, a copy of the original certificate of birth, a permission of parents or a legal representative and copies of the original documents certifying their identities are also required.
 
 36.3  The  amount  of  the  state  duty  received  for  the  issuance  of  a  visa  is  determined  by  the  pertinent  law  of  the Republic of Azerbaijan. The state duty paid for the issuance of a visa is not reimbursed , not depending on the result of the consideration of an application.
 
@@ -699,9 +741,9 @@ EXTENDING TEMPORARY STAY OF FOREIGNERS AND STATELESS PERSONS ON THE TERRITORY OF
 
 - 41.1.5 Two photos of 3.5 x 4.5 cm sizes;
 
-- 41.1.6 the document of a residential area where a person is to be registered (an extractionfrom the official registry of real estate on the official registration of ownership right, a leasing or renting contract or other document set forth in the applicable laws and regulations of the Republic of Azerbaijan);
+- 41.1.6 the document of a residential area where a person is to be registered (an extraction from the official registry of real estate on the official registration of ownership right, a leasing or renting contract or other document set forth in the applicable laws and regulations of the Republic of Azerbaijan);
 
-- 41.1.7an application of the person providing a place of residence to a foreigner or stateless person (except the cases where there is a residential area under the possession of the foreigner or stateless person);
+- 41.1.7 an application of the person providing a place of residence to a foreigner or stateless person (except the cases where there is a residential area under the possession of the foreigner or stateless person);
 
 - 41.1.8 a copy of the original identification card of the person granting a place of residence to a foreigner or stateless person (except the cases where there is a residential area under the possession of the foreigner or stateless person);
 
@@ -751,7 +793,7 @@ EXTENDING TEMPORARY STAY OF FOREIGNERS AND STATELESS PERSONS ON THE TERRITORY OF
 
 ### CHAPTER 7
 
-PERMISSION FOR TEMPORARY RESIDENCE ON THE TERRITORY OF THE REPUBLICOF AZERBAIJAN
+PERMISSION FOR TEMPORARY RESIDENCE ON THE TERRITORY OF THE REPUBLIC OF AZERBAIJAN
 
 #### Article 44 Permission for temporary residence on the territory of the Republic of Azerbaijan and a document certifying it
 
@@ -765,7 +807,7 @@ PERMISSION FOR TEMPORARY RESIDENCE ON THE TERRITORY OF THE REPUBLICOF AZERBAIJAN
 
 44.3 When a temporary residence permit is given to foreigners and stateless persons, those persons are provided with  a  certificate  of  temporary  residence  permit  to  reside  on  the  territory  of  the  Republic  of  Azerbaijan  by  the pertinent government authority.
 
-44,4    A  certificate  of  temporary  residence  permit  in  the  Republic  of  Azerbaijan  is  a  document  authorizing foreigners and stateless persons to reside in the Republic of Azerbaijan temporarily and exit from the Republic of Azerbaijan  and  return  back  to  the  Republic  of  Azerbaijan  with  a  visa-free  basis  during  its  validity  period,  and certifying the identities and registration of the places of residence of those persons.
+44.4 A certificate of temporary residence permit in the Republic of Azerbaijan is a document authorizing foreigners and stateless persons to reside in the Republic of Azerbaijan temporarily and exit from the Republic of Azerbaijan and return back to the Republic of Azerbaijan with a visa-free basis during its validity period, and certifying the identities and registration of the places of residence of those persons.
 
 44.5 When any information is changed in the identity cards of foreigners and stateless persons or their certificates of permit are lost, they shall inform the pertinent executive authority of it within 10 business days and shall submit an application for re-registration or termination of the certificates of permit.
 
@@ -879,7 +921,7 @@ justifying the rejection of the issuance of a temporary residence permit (prolon
 
 50.0 In the following cases, the applications of foreigners and stateless persons for the issuance (prolongation) of a temporary residence permit on the territory of the Republic of Azerbaijan are rejected, and the previously issued permits are cancelled.
 
-50.0.1 when they may damage the national security of the Republic of Azerbaijan and the public order; 50.0.2  when  they  submit  fake  documents  or  inaccurate  information  for  the  purpose  of  obtaining  a  temporary residence permit in the Republic of Azerbaijan; 50.0.3 when they do not hold documents certifying their identities or when they do not submit one or more of the documents set forth in Article 44 of this Code; 50.0.4 when less than 3 months remain until the expiry date of the passport or other border crossing document; 50.0.5  when  they  are  carriers  of  the  virus  of  a  disease  included  in  the  list  of  dangerously  infectious  diseases, approved by the pertinent executive authority (except the persons who are married to citizens of the Republic of Azerbaijan); 50.0.6 when they were departed from the territory of the Republic of Azerbaijan and their entry to the country is restricted; 50.0.7 when the ground justifying the issuance of a temporary residence permit on the territory of the Republic of Azerbaijan is removed and when there are not any other grounds set forth in this Code, regarding the issuance of a temporary residence permit; 50.0.8 when they stay abroad for more than 90 days within 180 days; 50.0.9 when they leave the territory of the Republic of Azerbaijan for residing abroad permanently; 50.0.10 when they are considered as personas-non-grata in the Republic of Azerbaijan; 50.0.11 when a decision on their deportation from the territory of the Republic of Azerbaijan is made;
+50.0.1 when they may damage the national security of the Republic of Azerbaijan and the public order; 50.0.2 when they submit fake documents or inaccurate information for the purpose of obtaining a temporary residence permit in the Republic of Azerbaijan; 50.0.3 when they do not hold documents certifying their identities or when they do not submit one or more of the documents set forth in Article 46 of this Code; 50.0.4 when less than 3 months remain until the expiry date of the passport or other border crossing document; 50.0.5 when they are carriers of the virus of a disease included in the list of dangerously infectious diseases, approved by the pertinent executive authority (except the persons who are married to citizens of the Republic of Azerbaijan); 50.0.6 when they were departed from the territory of the Republic of Azerbaijan and their entry to the country is restricted; 50.0.7 when the ground justifying the issuance of a temporary residence permit on the territory of the Republic of Azerbaijan is removed and when there are not any other grounds set forth in this Code, regarding the issuance of a temporary residence permit; 50.0.8 when they stay abroad for more than 90 days within 180 days; 50.0.9 when they leave the territory of the Republic of Azerbaijan for residing abroad permanently; 50.0.10 when they are considered as personas-non-grata in the Republic of Azerbaijan; 50.0.11 when a decision on their deportation from the territory of the Republic of Azerbaijan is made;
 
 50.0.12 when they violate the declared purpose of their entry to the Republic of Azerbaijan during residing on the territory of the Republic of Azerbaijan temporarily.
 
@@ -893,7 +935,7 @@ justifying the rejection of the issuance of a temporary residence permit (prolon
 
 51.2  Foreigners  and  stateless  persons  shall  obtain  a  work  permit  through  the  legal  entities  engaging  in  a  work, natural persons engaging in entrepreneurship without establishing a legal entity, and  subsidiary and representative offices of foreign legal entities.
 
-51.3 A work permit is a document authorizing foreigners and stateless persons to engage in a paid labor activity on he territory of the Republic of Azerbaijan.
+51.3 A work permit is a document authorizing foreigners and stateless persons to engage in a paid labor activity on the territory of the Republic of Azerbaijan.
 
 - 51.4 A work permit is issued by the pertinent executive authority in the order established in this Code.
 
@@ -915,7 +957,7 @@ PERMANENT RESIDENCE PERMIT ON THE TERRITORY OF THE REPUBLIC OF AZERBAIJAN
 
 52.2 Foreigners and stateless persons shall be given a permanent residence permit on the territory of the Republic of Azerbaijan by the pertinent executive authority.
 
-52.3 When foreigners and stateless persons are given a permanent residence permit on the territory f the Republic of Azerbaijan, those persons shall be provided with a certificate of permanent residence permit on the territory of the Republic of Azerbaijan.
+52.3 When foreigners and stateless persons are given a permanent residence permit on the territory of the Republic of Azerbaijan, those persons shall be provided with a certificate of permanent residence permit on the territory of the Republic of Azerbaijan.
 
 52.4  A  certificate  of  permanent  residence  permit  on  the  territory  of  the  Republic  of  Azerbaijan  is  a  document authorizing foreigners and stateless persons to reside on the territory of the Republic of Azerbaijan permanently and exit from the Republic of Azerbaijan and return back without a visa-free basis in its validity period, and certifying identities and registration of places of residences of those persons on the territory of the country.
 
@@ -935,7 +977,7 @@ PERMANENT RESIDENCE PERMIT ON THE TERRITORY OF THE REPUBLIC OF AZERBAIJAN
 
 53.1.3 a copy of the original birth certificate or a document equal to it, approved by a notary office (for persons who are under the age of 18);
 
-53.1.4  a  reference  on  family  members  (by  showing  first  names,  last  names,  birth  dates,  occupations,  places  of residence or plays of stay of the family members);
+53.1.4  a  reference  on  family  members  (by  showing  first  names,  last  names,  birth  dates,  occupations,  places  of residence or places of stay of the family members);
 
 53.1.5 a copy of the original marriage certificate, approved by a notary office;
 
@@ -947,33 +989,34 @@ PERMANENT RESIDENCE PERMIT ON THE TERRITORY OF THE REPUBLIC OF AZERBAIJAN
 
 53.1.9 a copy of the original certificate of temporary/permanent residence permit on the territory of the Republic of Azerbaijan;
 
-53.1.10 a copy of the original document certifying that the ground for issuance of a temporary permanent residence in the Republic of Azerbaijan are not removed, approved by a notary office;
+53.1.10 a copy of the original document certifying that the ground for issuance of a temporary residence permit in the Republic of Azerbaijan are not removed, approved by a notary office;
 
-53.1.1 Two photos of 3.5 x 4.5 sized;
+53.1.11 Two photos of 3.5 x 4.5 sized;
 
 53.1.12 approvals of children who are 14-18 ages, approved by a notary office;
 
 53.1.13 the document of a residential area where a person is to be registered (an extraction from the official registry of real estate on the official registration of ownership right, a leasing or renting contract or other document set forth in the applicable laws and regulations of the Republic of Azerbaijan);
 
-53.1.4 an application of the person providing a place of residence to a foreigner or stateless person (except the cases where there is a residential area under the possession of the foreigner or stateless person);
+53.1.14 an application of the person providing a place of residence to a foreigner or stateless person (except the cases where there is a residential area under the possession of the foreigner or stateless person);
 
-53.1.5 a copy of the original identification card of the person granting a place of residence to a foreigner or stateless person (except the cases where there is a residential area under the possession of the foreigner or stateless person); 53.1.6 a document certifying the payment of the state duty.
+53.1.15 a copy of the original identification card of the person granting a place of residence to a foreigner or stateless person (except the cases where there is a residential area under the possession of the foreigner or stateless person);
+53.1.16 a document certifying the payment of the state duty.
 
 53.2  The  document  certifying  the  payment  of  the  state  duty  shall  be  provided  when  a  certificate  of  permanent residence permit is presented to foreigners and stateless persons.
 
 53.3  Fingerprints  of  a  person  applying  for  a  permanent  residence  permit  (except  the  children  under  the  age  of 15)shall be taken in accordance with biometric identification requirements.
 
-#### Article 54 Procedure of issuance (prolongation) of a temporary residence permit to foreigners and stateless persons on the territory of the Republic of Azerbaijan
+#### Article 54 Procedure of issuance (prolongation) of a permanent residence permit to foreigners and stateless persons on the territory of the Republic of Azerbaijan
 
 54.1 Foreigners and stateless persons shall apply to the pertinent executive authority when there are cases certifying the issuance of a permanent residence permit to them, at least 3 months before the expiry date of their temporary residence permits on the territory of the Republic of Azerbaijan
 
 54.2 Foreigners and stateless persons shall apply for temporarily residing in the Republic of Azerbaijan personally or through their legal representatives;
 
-54.3  A  permanent  residence  permit  for  a  child  under  the  age  of  14  to  reside  permanently  in  the  Republic  of Azerbaijan  shall  be  obtained  on  the  basis  of  an  application  of  his/her  parents  or  other  legal  representative.  A permanent residence permit or a child between 14-18 years old shall be obtained on the basis of an application of his/her parents or other legal representative, after obtaining the approval of the child.
+54.3  A  permanent  residence  permit  for  a  child  under  the  age  of  14  to  reside  permanently  in  the  Republic  of Azerbaijan  shall  be  obtained  on  the  basis  of  an  application  of  his/her  parents  or  other  legal  representative.  A permanent residence permit for a child between 14-18 years old shall be obtained on the basis of an application of his/her parents or other legal representative, after obtaining the approval of the child.
 
 54.4 An application form and other documents required for the issuance of a permanent residence permit on the territory of the Republic of Azerbaijan may be submitted in the form of an electron application.
 
-54.5 While reviewing the applications of foreigners and stateless persons for issuance of a permanent residencepermit in  the  Republic  of  Azerbaijan,  their  knowledge  of  the  rights  and  obligations,  set  forth  by  the  laws  of  the Republic of Azerbaijan, and of the issues related to the government shall be tested by a commission consisting of experts of the pertinent executive authorities.
+54.5 While reviewing the applications of foreigners and stateless persons for issuance of a permanent residence permit in  the  Republic  of  Azerbaijan,  their  knowledge  of  the  rights  and  obligations,  set  forth  by  the  laws  of  the Republic of Azerbaijan, and of the issues related to the government shall be tested by a commission consisting of experts of the pertinent executive authorities.
 
 [[END OF PAGE 26]]
 
@@ -1101,7 +1144,7 @@ REGULATION OF LABOUR ACTIVITY OF CITIZENS OF THE REPUBLIC OF AZERBAIJAN IN FOREI
 
 REGULATION OF LABOUR ACTIVITY OF FOREIGNERS AND STATELESS PERSONS
 
-#### Article 6.Labour activity of foreigners and stateless persons in the Republic of Azerbaijan
+#### Article 61.Labour activity of foreigners and stateless persons in the Republic of Azerbaijan
 
 61.1. Every able-bodied and over 18 years old foreigner or stateless person is entitled to perform labour activities within  the  territory  of  the  Republic  of  Azerbaijan  after  getting  working  permit  through  legal  entities,  individuals dealing with entrepreneurship activity not establishing legal entity and branch offices and representations of foreign legal entities that employed him in a way and at terms stipulated in this Code.
 
@@ -1121,7 +1164,7 @@ Taking into account the demand of domestic labour market, restrictions on some a
 
 - 63.4. Foreigners and stateless persons may carry out paid labour activity in the Republic of Azerbaijan after  legal entities,  physical  persons  engaging  in  entrepreneurship  not  establishing  a  legal  entity  and  branch  offices  and representations of foreign legal entities obtain working permit for them.
 
-63.5. Legal entities, physical persons engaging in entrepreneurship not establishing a legal entity and branch offices and representations of foreign legal entity shall employ foreigners and stateless persons only in their own working place and shall conclude a labour contract with the doe the duration a working permit.
+63.5. Legal entities, physical persons engaging in entrepreneurship not establishing a legal entity and branch offices and representations of foreign legal entity shall employ foreigners and stateless persons only in their own working place and shall conclude a labour contract with them for the duration of a working permit.
 
 63.6. It is prohibited for legal entities, physical persons engaging in entrepreneurship not establishing a legal entity and branch offices and representations of foreign legal entity to collect and keep passports or personal identification documents of foreigners and stateless persons they employ.
 
@@ -1159,7 +1202,7 @@ Taking into account the demand of domestic labour market, restrictions on some a
 
 64.0.13. heads of branch offices and representations of foreign legal entities in the Republic of Azerbaijan and their deputies;
 
-64.0.14. those married with the citizen of the Republic o Azerbaijan, subject to registration of that citizen in the territory of the Republic of Azerbaijan at the place of residence;
+64.0.14. those married with the citizen of the Republic of Azerbaijan, subject to registration of that citizen in the territory of the Republic of Azerbaijan at the place of residence;
 
 64.0.15. those, who applied for IDP status, received IDP status or was granted a political asylum;
 
@@ -1219,7 +1262,7 @@ Taking into account the demand of domestic labour market, restrictions on some a
 
 67.3. Applications for a working permit should be reviewed within 20 days.
 
-67.4. the relevant executive authority should forward the information on the documents stipulated in the provisions 65.0.2, 65.0.3, 65.0.64, 65.0.5 and 65.0.7 of this Code to the relevant executive authority to obtain their opinions.
+67.4. the relevant executive authority should forward the information on the documents stipulated in the provisions 65.0.2, 65.0.3, 65.0.4, 65.0.5 and 65.0.7 of this Code to the relevant executive authority to obtain their opinions.
 
 67.5. The relevant executive authority reviews the information within 5 working days and provides its opinion to the relevant executive authority on the availability/possibility of local labor force to meet the labor force needs of an employer.
 
@@ -1301,7 +1344,7 @@ Taking into account the demand of domestic labour market, restrictions on some a
 
 72.2.1. to inspect the observation of this code and the normative legal acts that regulate employment of foreigners and stateless persons as labor force;
 
-72.2.2. to inquiry information or a reference letter from an employer and form a foreigner or stateless person in case of issues arising during inspections;
+72.2.2. to inquiry information or a reference letter from an employer and from a foreigner or stateless person in case of issues arising during inspections;
 
 72.2.3. to revoke the working permit in accordance with the cases stipulated in the Article 73 of this Code;
 
@@ -1319,7 +1362,7 @@ Taking into account the demand of domestic labour market, restrictions on some a
 
 #### Article 73. Basis for revoking working permit
 
-73.0. The relevant executive authority revokes the working permit in the flowing cases:
+73.0. The relevant executive authority revokes the working permit in the following cases:
 
 - 73.0.1. upon the receipt of an application from a foreigner or stateless person or from an employer;
 
@@ -1327,7 +1370,7 @@ Taking into account the demand of domestic labour market, restrictions on some a
 
 - 73.0.3. if the documents provided in the application form for a working permit represents false information;
 
-- 73.0.4. in the cases stipulated in the Articles 67.13, 68.2 and 69.6- of this Code;
+- 73.0.4. in the cases stipulated in the Articles 67.13, 68.2 and 69.6 of this Code;
 
 - 73.0.5. if the legal entity as an employer terminated its operation;
 
@@ -1417,7 +1460,7 @@ FROM THE REPUBLIC OF AZERBAIJAN
 
 78.1.2. expulsion from the Republic of Azerbaijan in the administrative way is applied as an administrative penalty for committing an administrative offence;
 
-78.1.3. decision is  made  for expulsion of the  foreigner and stateless person from the territory of  the  Republic of Azerbaijan according to the Article 79 of this Code (afterwards "decision on expulsion);
+78.1.3. decision is  made  for expulsion of the  foreigner and stateless person from the territory of  the  Republic of Azerbaijan according to the Article 79 of this Code (afterwards "decision on expulsion");
 
 78.2. The punishment in the form of obligatory expulsion of foreigners or stateless persons from the Republic of Azerbaijan  for  committing  a  crime  is  applied  in  the  cases  stipulated  in  the  Criminal  Code  of  the  Republic  of Azerbaijan and executed in the way defined in the Code of Execution of Punishments of the Republic of Azerbaijan. Other issues arising from expulsion of those persons from the Republic of Azerbaijan are settled with this Code.
 
@@ -1509,7 +1552,7 @@ FROM THE REPUBLIC OF AZERBAIJAN
 
 82.3. Persons accused of facilitating illegal entry of foreigners or stateless persons to the Republic of Azerbaijan, illegal  stay  in  the  Republic  of  Azerbaijan,  residence,  illegal  transit  through  the  territory  of  the  Republic  of Azerbaijan, as well as an illegal employment are liable in compliance with the respective provisions of the law.
 
-82.4. There is a liability in compliance with the respective provisions of the law, if foreigners or stateless persons, who have been expelled from the  Republic  of  Azerbaijan  on  administrative  or  forced  reasons  and  their  entry  is banned for a certain period, enter the country purposefully by making changes to their documents, .
+82.4. There is a liability in compliance with the respective provisions of the law, if foreigners or stateless persons, who have been expelled from the  Republic  of  Azerbaijan  on  administrative  or  forced  reasons  and  their  entry  is banned for a certain period, enter the country purposefully by making changes to their documents.
 
 [[END OF PAGE 39]]
 
