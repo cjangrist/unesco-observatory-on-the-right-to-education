@@ -14,7 +14,7 @@ Le Président de la République promulgue la loi dont la teneur suit :
 
 ### Les objectifs fondamentaux et l'organisation générale
 
-###### Article premier
+###### Article premier -
 L'enseignement supérieur vise à assurer la formation universitaire, développer les aptitudes, contribuer à édifier la société du savoir, enrichir les connaissances,  développer  la  technologie  et    la  mettre  au service de la communauté nationale.
 
 ###### Art. 2 -
@@ -30,7 +30,7 @@ L'enseignement  supérieur et la recherche scientifique ont pour mission fondame
 
 - contribuer à la diffusion des valeurs de citoyenneté, à l'enracinement des valeurs de la modernité, à l'affirmation de l'identité nationale et à son enrichissement culturel ainsi que son interaction positive avec les autres cultures humaines,
 
-- contribuer  à  l'enrichissement  de  la  culture  arabomusulmane  et favoriser l'interaction avec les cultures humaines,
+- contribuer à l'enrichissement de la culture arabo-musulmane et favoriser l'interaction avec les cultures humaines,
 
 - consolider l'utilisation de la langue arabe et la maîtrise des  langues  étrangères  en  vue  d'interagir  avec  le  progrès universel et le développement des échanges intellectuels.
 
@@ -55,7 +55,7 @@ Les études d'ingénieur, d'architecture, de médecine, de pharmacie, de médeci
 
 Dans tous les cas, le cadre général du régime des études et les  conditions  d'obtention  de  chaque  diplôme  sont  fixés  par décret, après avis du conseil scientifique de l'établissement ou de l'institut supérieur, délibération du conseil de l'université, le cas échéant, et habilitation du conseil des universités visés aux articles 20, 23 et 27 de la présente loi.
 
-- Les étapes de formation peuvent être exceptionnellement  réparties  en  années  d'études  ou  en semestres, en fonction des nécessités de la formation dans certaines spécialités.
+Les étapes de formation peuvent être exceptionnellement réparties en années d'études ou en semestres, en fonction des nécessités de la formation dans certaines spécialités.
 
 ###### Art-  4 -
 L'enseignement  supérieur  est  organisé  dans  le cadre  d'universités pluridisciplinaires et  du  réseau  des instituts supérieurs des études technologiques.
@@ -77,7 +77,7 @@ Les  universités  et  les  établissements  d'enseignement supérieur  et  de  
 
 Page 844
 
-Journal Officiel de la République Tunisienne -4 mars 2008
+Journal Officiel de la République Tunisienne — 4 mars 2008
 
 N° 19
 
@@ -85,10 +85,16 @@ N° 19
 
 [[START OF PAGE 2]]
 
-###### Article  8 :
+N° 19
+
+Journal Officiel de la République Tunisienne — 4 mars 2008
+
+Page 845
+
+###### Article 8 :
 La  formation  pratique  durant  les  études constitue  l'un  des  éléments    de  la  formation.  Les  régimes des études fixent les modalités de son organisation et de son évaluation.
 
-###### Art. 9
+###### Art. 9 -
 L'étudiant est au centre du système de l'enseignement supérieur. Dans ce cadre, il a le droit à :
 
 - l'acquisition    du  savoir  et  la  poursuite  régulière  des enseignements,
@@ -126,7 +132,7 @@ Les biens appartenant à ces universités ne peuvent pas faire l'objet de saisie
 
 Dans le cas où l'université ayant un statut scientifique et technologique est dissoute, ses biens font retour à l'Etat qui assure l'exécution de ses engagements.
 
-###### Art. 11
+###### Art. 11 -
 Les universités sont autonomes dans l'accomplissement de leurs missions scientifiques et pédagogiques. Elles garantissent l'objectivité du savoir.
 
 ###### Art. 12 -
@@ -144,7 +150,7 @@ Les universités ont pour mission de :
 
 - établir des liens de partenariat et de coopération avec les organismes similaires dans le monde en vue d'instaurer des  co-diplômes,  de  diriger  en  co-tutelle  des  travaux  de recherche débouchant sur des diplômes universitaires, d'échanger des experts et des expertises et de réaliser des recherches  communes  en  rapport  avec  les  priorités  du développement.
 
-###### Art. 13
+###### Art. 13 -
 Les activités des universités et des établissements  universitaires  en  matière  de  formation,  de recherche  et  de  développement  technologique  font  l'objet de  contrats  de  formation  et  de  recherche.  Lesdits  contrats sont conclus pour une durée de quatre (4) ans entre l'Etat, représenté par le ministre chargé de l'enseignement supérieur et le ministre concerné, le cas échéant, d'une part, et les universités  et  les  établissements  d'enseignement supérieur,  d'autre  part.  Les  priorités  nationales  sont,  dans tous  les  cas,  prises  en  considération  dans  les  contrats  de formation et de recherche.
 
 Lesdits contrats fixent les obligations des universités et des établissements d'enseignement supérieur, les moyens et les crédits qui peuvent leur être alloués par l'Etat, ainsi que les ressources propres qu'ils s'engagent à mobiliser conformément à l'article 7 de la présente loi.
@@ -160,11 +166,7 @@ L'université assure la tutelle scientifique et pédagogique sur tous les établ
 
 Le président de l'université exerce la tutelle administrative et financière sur les établissements d'enseignement  supérieur  et  de  recherche  qui  relèvent  du ministère chargé de l'enseignement supérieur.
 
-N° 19
 
-Journal Officiel de la République Tunisienne -4 mars 2008
-
-Page 845
 
 [[END OF PAGE 2]]
 
@@ -197,13 +199,13 @@ Le vice-président  ou  les  deux  vice-présidents,  selon  le cas,  assiste(nt
 
 Le président de l'université peut, par décision, déléguer certaines  de  ses  attributions  à  son  vice-président  ou  à  ses deux vice-présidents, selon leur domaine de compétence. Il peut  déléguer  une  partie  de  ses  attributions  relatives  au fonctionnement administratif et financier au secrétaire général de l'université, suivant les mêmes formules et par les mêmes modalités.
 
-###### Art. 20
+###### Art. 20 -
 Chaque université comporte un conseil dénommé conseil de l'université dont la composition et les modalités de fonctionnement sont fixées par décret.
 
-###### Art. 21
+###### Art. 21 -
 Le conseil de l'université examine les questions suivantes :
 
-- définition  des  programmes  de  l'université  dans  les domaines scientifiques et pédagogiques et les domaines de formation, de recherche et de coopération interuniversitaires, et ce, dans le cadre des priorités nationales,
+- définition des programmes de l'université dans les domaines scientifiques et pédagogiques et les domaines de formation, de recherche et de coopération inter-universitaires, et ce, dans le cadre des priorités nationales,
 
 - organisation de la vie universitaire et mise en place des méthodes  appropriées  pour  l'amélioration  du  rendement scientifique et pédagogique des établissements qui relèvent de l'université,
 
@@ -244,7 +246,7 @@ Les  établissements  d'enseignement  supérieur et de recherche sont des établ
 
 Page 846
 
-Journal Officiel de la République Tunisienne -4 mars 2008
+Journal Officiel de la République Tunisienne — 4 mars 2008
 
 N° 19
 
@@ -252,7 +254,13 @@ N° 19
 
 [[START OF PAGE 4]]
 
-Ces  établissements  jouissent  de  la  personnalité  morale et  de  l'autonomie  financière.  Leurs  budgets  sont  rattachés pour ordre au budget de l'Etat.
+N° 19
+
+Journal Officiel de la République Tunisienne — 4 mars 2008
+
+Page 847
+
+Ces établissements jouissent de la personnalité morale et de l'autonomie financière. Leurs budgets sont rattachés pour ordre au budget de l'Etat.
 
 Les établissements d'enseignement supérieur et de recherche  peuvent  être  érigés  en  établissements  publics  à caractère scientifique et technologique s'ils répondent à des conditions  fixées  par  décret.  Leur  passage  audit  statut  est effectué par décret.
 
@@ -277,7 +285,7 @@ Les directeurs sont désignés selon des conditions fixées par décret.
 
 Le doyen ou directeur est nommé par décret pour une durée de  trois ans renouvelable une seule fois.
 
-###### Art. 26
+###### Art. 26 -
 Le doyen ou directeur assure le fonctionnement de l'établissement d'enseignement supérieur et de recherche. Il préside le conseil scientifique de l'établissement et en arrête l'ordre du jour. Il coordonne l'activité  des  structures  d'enseignement  et  de  recherche scientifique relevant de l'établissement.
 
 Le doyen ou directeur représente, suivant le cas, l'établissement  à  l'égard  des  tiers  et  devant  la  justice.  Il conclut les conventions et les contrats, après autorisation du président de l'université. Il est l'ordonnateur du budget de l'établissement.
@@ -288,17 +296,17 @@ Le doyen ou directeur est assisté d'un conseil scientifique à caractère consu
 ###### Art.  28 -
 Les  établissements  d'enseignement  supérieur et  de  recherche  comportent des départements sous réserve des  dispositions  de  l'article  31  de  la  présente  loi.  La composition  des  départements,  leurs  attributions  et  les modalités de leur fonctionnement sont fixées par décret.
 
-###### Art. 29
+###### Art. 29 -
 Chaque établissement d'enseignement supérieur  et  de  recherche  est  doté  d'un  comité  pour  la qualité dont la composition et les règles de fonctionnement sont  fixées  par  décision  du  président  de  l'université  après avis du conseil scientifique de l'établissement.
 
-###### Art. 30
+###### Art. 30 -
 Chaque établissement d'enseignement supérieur et de recherche est doté d'un conseil de discipline dont la composition, les attributions et les règles de fonctionnement sont fixées par décret.
 
 #### CHAPITRE II
 
 ##### De la recherche scientifique dans les établissements d'enseignement supérieur et de recherche
 
-###### Art. 31
+###### Art. 31 -
 La recherche scientifique dans les établissements  d'enseignement  supérieur  et  de  recherche constitue un élément intimement lié à l'enseignement. Ces deux  activités  s'enrichissent  mutuellement  afin  d'assurer une formation par la recherche scientifique et à son profit.
 
 La  recherche  scientifique est organisée  au  sein de laboratoires  de  recherche  ou  d'unités  de  recherche  créés conformément  à  la  réglementation  en  vigueur  et  dans  le cadre des priorités nationales. Ils sont créés à la demande de l'établissement, sur proposition du président de l'université et après avis du conseil de l'université.
@@ -309,16 +317,12 @@ Les structures de recherche visées à l'article 31 de la présente loi, partici
 ###### Art. 33 -
 Les structures de recherche visent à atteindre la qualité et l'excellence des recherches. Les organes d'évaluation concernés veillent à l'adhésion desdites structures aux orientations nationales.
 
-###### Art. 34
+###### Art. 34 -
 Il peut être créé des groupements de laboratoires de recherche et/ou d'unités de recherche relevant des établissements d'une ou de plusieurs universités en vue de réaliser la synergie entre les groupes de  recherche,  pour  optimiser  l'allocation  de  ressources  en vue de la réalisation des priorités nationales.
 
 Ces groupements assurent la réalisation des recherches convergentes dans des domaines visant à encourager l'innovation  scientifique  et  technologique  et  ce,  selon  des conditions fixées par décret.
 
-N° 19
 
-Journal Officiel de la République Tunisienne -4 mars 2008
-
-Page 847
 
 [[END OF PAGE 4]]
 
@@ -326,9 +330,9 @@ Page 847
 
 ## TITRE IV
 
-### Dispositions financières relatives aux universités et établissements d'enseignement supérieur et de recherche a caractère administratif
+### Dispositions financières relatives aux universités et établissements d'enseignement supérieur et de recherche à caractère administratif
 
-###### Art. 35
+###### Art. 35 -
 Les ressources des universités et des établissements  d'enseignement  supérieur  et  de  recherche qui en relèvent sont composées des :
 
 - revenus  provenant  des  contrats  de  formation  et  de recherche, des études, d'expertise et tous autres services,
@@ -356,7 +360,7 @@ Les universités procèdent directement à leur ordonnancement.
 ###### Art. 36 -
 La répartition par articles des ressources et des dépenses inscrites au budget de gestion des établissements d'enseignement supérieur et de recherche est effectuée par décision du président de l'université concernée suivant une nomenclature approuvée par le ministre des finances.
 
-Pour les dépenses d'équipement inscrites au budget des universités, la répartition par paragraphe et sous-paragraphe des crédits d'engagement est effectuée par arrêté du ministre  des  finances.  Le  ministre  de  tutelle  répartit  par arrêté  les  crédits  de  paiement  par  paragraphe  et  sousparagraphe.
+Pour les dépenses d'équipement inscrites au budget des universités, la répartition par paragraphe et sous-paragraphe des crédits d'engagement est effectuée par arrêté du ministre des finances. Le ministre de tutelle répartit par arrêté les crédits de paiement par paragraphe et sous-paragraphe.
 
 ###### Art. 37 -
 Des réaffectations à l'intérieur des budgets de gestion des établissements relevant du ministère chargé de l'enseignement supérieur peuvent être réalisées par décision du président de l'université concernée.
@@ -370,7 +374,7 @@ Le  budget  de  l'établissement  d'enseignement supérieur  et  de  recherche  
 
 Les  excédents  constatés  à  la  clôture  de  la  gestion,  au niveau du budget d'un établissement d'enseignement supérieur  et  de  recherche,  sont  reportés  au  budget  de l'année  suivante  et  répartis  par  décision  du  président  de l'université concernée.
 
-###### Art. 39
+###### Art. 39 -
 Les dépenses des universités et des établissements qui en relèvent sont composées des dépenses de gestion et des dépenses de développement. Ces dépenses sont  obligatoirement  soumises  au  visa  du  contrôle  des dépenses publiques selon le mode de l'engagement provisionnel  dans  la  limite  de  la  moitié  (1/2)  des  crédits ouverts.
 
 ###### Art.  40 -
@@ -380,7 +384,7 @@ Il  est  créé  auprès  de  chaque  université  une commission des marchés d
 
 ### De l'évaluation, l'assurance-qualité et l'accréditation
 
-###### Art. 41
+###### Art. 41 -
 L'évaluation, l'assurance-qualité et l'accréditation  constituent  des  mécanismes  fondamentaux pour  réaliser  les  objectifs  du  secteur  de  l'enseignement supérieur et de la recherche scientifique.
 
 ###### Art.  42 -
@@ -390,7 +394,7 @@ La  composition,  les  modalités  de  fonctionnement  de l'Instance  et  les  i
 
 Le président et les membres de l'Instance sont désignés par décret.
 
-###### Art. 43
+###### Art. 43 -
 L'instance nationale de l'évaluation, de l'assurance-qualité et de l'accréditation veille à l'évaluation, l'assurance-qualité et l'accréditation dans l'enseignement supérieur.
 
 Les opérations d'évaluation sont réalisées par des commissions d'experts composées conformément aux règlements fixés  par  l'Instance.  Les  indemnités  allouées  à leurs membres sont fixées par décret.
@@ -399,18 +403,24 @@ Les opérations d'évaluation sont réalisées par des commissions d'experts com
 
 ##### De l'évaluation
 
-###### Art. 44
+###### Art. 44 -
 L'évaluation des universités, des établissements et des parcours de formation et leurs programmes consiste à auditer leur performance académique  et  institutionnelle  sur  la  base  de  critères  de qualité  préétablis,  en  vue  d'arrêter  les  mesures  adéquates pour  améliorer  la  performance  de  l'établissement  et  la promouvoir avec efficacité et compétence.
 
 Page 848
 
-Journal Officiel de la République Tunisienne -4 mars 2008
+Journal Officiel de la République Tunisienne — 4 mars 2008
 
 N° 19
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
+N° 19
+
+Journal Officiel de la République Tunisienne — 4 mars 2008
+
+Page 849
 
 ###### Art. 45 -
 L'évaluation s'effectue sur la base de critères, de  méthodes  et  de  procédures  objectives  garantissant  la transparence  et  l'équité    et  qui  sont  rendus  publics  par l'Instance aux  fins d'information  des  universités,  des établissements  d'enseignement  supérieur  et  de  recherche, des personnels enseignants, des étudiants et des personnels administratifs.
@@ -489,11 +499,7 @@ L'accréditation de l'établissement comprend les programmes et les méthodes p�
 
 L'accréditation des programmes consiste en la certification, par l'Instance chargée de l'assurance qualité, de la conformité des programmes et des méthodes pédagogiques et de recherche de l'établissement, aux standards de qualité prévus à l'article 50  de  la  présente  loi  et  leur  adéquation  aux  compétences  et aptitudes attendues des diplômés.
 
-N° 19
 
-Journal Officiel de la République Tunisienne -4 mars 2008
-
-Page 849
 
 [[END OF PAGE 6]]
 
@@ -502,7 +508,7 @@ Page 849
 ###### Art.  54 -
 Les  établissements  d'enseignement  supérieur et de recherche qui se distinguent et répondent aux standards de l'assurance qualité conformément à l'article 50 de la présente loi, peuvent, à leur demande,  obtenir l'accréditation  par  l'instance  nationale  de  l'évaluation,  de l'assurance-qualité et de l'accréditation. dans ce cas, lesdits établissements  s'engagent  à  respecter  les  standards  de  la qualité susvisés dans les domaines de  l'enseignement, de la recherche scientifique et de la gestion pédagogique, administrative et financière.
 
-###### Art. 55
+###### Art. 55 -
 L'obtention de l'accréditation permet à l'établissement concerné de bénéficier de crédits supplémentaires,  lui  permettant  de  faire  face  aux  exigences qu'implique  son  engagement  à  respecter  les  standards  de qualité dont les conditions seront fixées par décret. Ces crédits sont imputés sur ceux destinés à l'appui de la qualité.
 
 ## TITRE VI
@@ -512,14 +518,14 @@ L'obtention de l'accréditation permet à l'établissement concerné de bénéfi
 ###### Art. 56 -
 Les délais de réalisation du passage au régime prévu à l'article 3 de la présente loi sont fixés par décret.
 
-Sous  réserve des dispositions de l'article 3 de la présente loi, l'application du régime prévu par la loi n°8970 du 28 juillet 1989 relative à l'enseignement supérieur et à la recherche scientifique, et les textes qui l'ont modifiée et complétée, notamment la loi n° 2000-67 du 17 juillet 2000, prend fin à la fin de l'année universitaire 2011-2012, et ce, en ce qui concerne le régime des études.
+Sous réserve des dispositions de l'article 3 de la présente loi, l'application du régime prévu par la loi n° 89-70 du 28 juillet 1989 relative à l'enseignement supérieur et à la recherche scientifique, et les textes qui l'ont modifiée et complétée, notamment la loi n° 2000-67 du 17 juillet 2000, prend fin à la fin de l'année universitaire 2011-2012, et ce, en ce qui concerne le régime des études.
 
 Les  modalités  d'inscription  des  étudiants  titulaires  du diplôme  de  maîtrise  dans  les  cycles  de  mastère  et  de doctorat ainsi que les conditions de soutenance des thèses préparés sous le régime de la loi prévue à l'alinéa précédent, sont fixées par décret.
 
 Dans tous les cas, sont fixées par décret les procédures relatives  à  la  valorisation  des  acquis  des  étudiants  dans  le cadre de la législation en vigueur.
 
 ###### Art.  57 -
-Le  régime  de  l'évaluation,  de  l'assurance  qualité  et  de  l'accréditation  prévu  à  la  présente  loi  est instauré dans un délai ne dépassant pas les cinq ans à partir de la date de sa publication.
+Le régime de l'évaluation, de l'assurance - qualité et de l'accréditation prévu à la présente loi est instauré dans un délai ne dépassant pas les cinq ans à partir de la date de sa publication.
 
 ###### Art. 58 -
 Sous réserve des dispositions de l'article 56 de la  présente  loi  ainsi  que  celles  de  la  loi  n°  90-72  du  30 juillet 1990, portant création de l'institution de la recherche et de l'enseignement supérieur agricoles, toutes dispositions antérieures  contraires  à  la  présente  loi  sont  abrogées  et notamment  la  loi  n°  89-70  du  28  juillet  1989,  relative  à l'enseignement  supérieur  et  à  la  recherche  scientifique,  et les textes qui l'ont modifiée et complétée et notamment la loi n° 2000-67 du 17 juillet 2000.
@@ -532,7 +538,7 @@ Zine El Abidine Ben Ali
 
 Page 850
 
-Journal Officiel de la République Tunisienne -4 mars 2008
+Journal Officiel de la République Tunisienne — 4 mars 2008
 
 N° 19
 
