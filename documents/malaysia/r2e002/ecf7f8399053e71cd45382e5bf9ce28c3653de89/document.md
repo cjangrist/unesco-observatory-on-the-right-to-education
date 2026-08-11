@@ -26,39 +26,19 @@ PUBLISHED BY THE COMMISSIONER OF LAW REVISION, MALAYSIA UNDER THE AUTHORITY OF T
 
 # CHILD CARE CENTRE ACT 1984
 
-Date  of  Royal  Assent
+Date of Royal Assent … ... ... ... … 4 September 1984
 
-… ...
+Date of publication in the Gazette … … 6 September 1984
 
-...
+## PREVIOUS REPRINT
 
-... …
-
-- 4  September  1984
-
-Date  of  publication  in  the Gazette … …
-
-- 6  September  1984
-
-## PREVIOUS  REPRINT
-
-First  Reprint
-
-... ... ... ... ... 2001
+First Reprint ... ... ... ... ... 2001
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
 3
-
-Section
-
-- Short  title,  commencement  and  application
-
-- Interpretation
-
-- Exemptions
 
 LAWS OF MALAYSIA
 
@@ -72,31 +52,39 @@ Act 308
 
 #### PRELIMINARY
 
+Section
+
+1. Short title, commencement and application
+
+2. Interpretation
+
+3. Exemptions
+
 ### PART II
 
 #### REGISTRATION OF CHILD CARE CENTRES
 
-- All  child  care  centres  to  be  registered
+4. All child care centres to be registered
 
-- Categories  of  child  care  centres
+5. Categories of child care centres
 
-- Prohibition  of  unregistered  child  care  centres
+6. Prohibition of unregistered child care centres
 
-- Registration
+7. Registration
 
-- Terms and conditions to  be  imposed
+8. Terms and conditions to be imposed
 
-- Register  to  be  kept
+9. Register to be kept
 
-- Inspection  of  register  kept
+10. Inspection of register kept
 
-- Certificate  of  registration
+11. Certificate of registration
 
 ### PART III
 
 #### CANCELLATION OF REGISTRATION
 
-- Cancellation  of  registration
+12. Cancellation of registration
 
 [[END OF PAGE 3]]
 
@@ -108,43 +96,43 @@ Laws of Malaysia
 
 ACT 308
 
+### PART IV
+
+#### APPOINTMENT OF AUTHORIZED OFFICERS
+
 Section
 
-- Appointment of officers
+13. Appointment of officers
 
-- Powers of the  Director  General  and  authorized  officers
+14. Powers of the Director General and authorized officers
 
 ### PART V
 
 #### DIRECTIONS
 
-- Director  General  to  give  written  directions
+15. Director General to give written directions
 
-- Order  for  temporary  closure  of  child  care  centres
+16. Order for temporary closure of child care centres
 
 ### PART VI
 
 #### MISCELLANEOUS
 
-- Offences  and  penalties
+17. Offences and penalties
 
-- Presumption
+18. Presumption
 
-- Existing  child  care  centres
+19. Existing child care centres
 
-- Power to enter  and  inspect  premises
+20. Power to enter and inspect premises
 
-- Prosecution  of  offences
+21. Prosecution of offences
 
-- Appeal
+22. Appeal
 
-- Regulations
+23. Regulations
 
-- Provision  to  allow  reception  of  children  above  the  age  of  four years
-
-### PART IV
-
-#### APPOINTMENT OF AUTHORIZED OFFICERS
+24. Provision to allow reception of children above the age of four years
 
 [[END OF PAGE 4]]
 
@@ -162,9 +150,12 @@ Act  308
 
 An Act to provide for the registration, control and inspection of child  care  centres  and  for  purposes  connected  therewith.
 
-[
-
-Federal  Territory  Kuala  Lumpur-1  March  1985, P.U.  (B)  101/1985; Selangor-1 March 1985, P.U.  (B)  101/1985; Other  States-1  February  1986, P.U.  (B)  55/1986 ]
+[Federal Territory Kuala Lumpur—1 March 1985,
+P.U. (B) 101/1985;
+Selangor—1 March 1985,
+P.U. (B) 101/1985;
+Other States—1 February 1986,
+P.U. (B) 55/1986]
 
 BE IT ENACTED by the Seri Paduka Baginda Yang di-Pertuan Agong  with  the  advice  and  consent  of  the  Dewan  Negara  and Dewan Rakyat in Parliament assembled, and by the authority of
 
@@ -174,15 +165,15 @@ the  same,  as  follows:
 
 ### PRELIMINARY
 
-#### Short title,  commencement and application
+#### Short title, commencement and application
 
-- This Act may be cited as the Child Care Centre Act 1984 and shall come into force on such date as the Minister may, by notification in  the Gazette ,  appoint  and  the  Minister  may  appoint  different dates for the coming into force of different parts or provisions and for  different  parts  of  Malaysia.
+1. This Act may be cited as the Child Care Centre Act 1984 and shall come into force on such date as the Minister may, by notification in the Gazette, appoint and the Minister may appoint different dates for the coming into force of different parts or provisions and for different parts of Malaysia.
 
 #### Interpretation
 
-- In  this  Act,  unless  the  context  otherwise  requires-
+2. In this Act, unless the context otherwise requires—
 
-'authorized  officer'  means  an  officer  appointed  under section  13;
+“authorized officer” means an officer appointed under section 13;
 
 [[END OF PAGE 5]]
 
@@ -194,29 +185,29 @@ Laws of Malaysia
 
 ACT 308
 
-'child care centre' means any premises at which four or more children under the age of four years from more than one household are  received  to  be  looked  after  for  reward;
+“child care centre” means any premises at which four or more children under the age of four years from more than one household are received to be looked after for reward;
 
-'Director General' means the Director General of Social Welfare;
+“Director General” means the Director General of Social Welfare;
 
-'register'  means  any  register  required  to  be  kept  under  the provisions  of  this  Act;
+“register” means any register required to be kept under the provisions of this Act;
 
-'registered child care centre' means a child care centre registered under  section  7;
+“registered child care centre” means a child care centre registered under section 7;
 
-'relative'  means  a  grandparent,  brother,  sister,  uncle  or  aunt related  by  consanguinity.
+“relative” means a grandparent, brother, sister, uncle or aunt related by consanguinity.
 
 #### Exemptions
 
-(1) This  Act  shall  not  apply  to-
+3. (1) This Act shall not apply to—
 
-(a) any government hospital or private hospital licensed under the  Private  Hospital  Act  1971  [ Act  43 ];
+(a) any government hospital or private hospital licensed under the Private Hospital Act 1971 [Act 43];
 
-(b) any institution exempted from the provisions of this Act by  the  Director  General;
+(b) any institution exempted from the provisions of this Act by the Director General;
 
-(c) any  kindergarten  or  nursery  school  which  is  registered under  the  *Education  Act  1961  [ Act  43  of  1961 ];
+(c) any kindergarten or nursery school which is registered under the *Education Act 1961 [Act 43 of 1961];
 
-(d) any children's home run by the Government or a State Government.
+(d) any children’s home run by the Government or a State Government.
 
-(2) This  Act  shall  not  apply  to  the  reception  of  a  child  by  a relative.
+(2) This Act shall not apply to the reception of a child by a relative.
 
 ## PART II
 
@@ -226,7 +217,7 @@ ACT 308
 
 4. Subject to the provisions of this Act, every child care centre shall  be  registered  under  this  Act.
 
-* NOTE -The Education Act 1961 [ Act 43 of 1961 ] has since been repealed by the Education Act 1966 [ Act  550 ]-see subsection  155(1)  of  Act  550.
+*NOTE—The Education Act 1961 [Act 43 of 1961] has since been repealed by the Education Act 1996 [Act 550]–see subsection 155(1) of Act 550.
 
 [[END OF PAGE 6]]
 
@@ -238,7 +229,7 @@ Child Care Centre
 
 #### Categories of  child  care  centres
 
-- There shall be two categories of child care centres as follows:
+5. There shall be two categories of child care centres as follows:
 
 (a) home based child care centre which is a child care centre which receives less than ten children into the homes of the  person  registered  under  section  7;
 
@@ -288,7 +279,7 @@ ACT 308
 
 #### Register  to  be  kept
 
-9. (1) The Director General shall cause to be kept, in such form as he may specify, a register of child care centres registered under this  Act  containing-
+9. (1) The Director General shall cause to be kept, in such form as he may specify, a register of child care centres registered under this Act containing—
 
 (a) the name and address of every person registered in respect of  any  child  care  centre;
 
@@ -328,9 +319,9 @@ Child Care Centre
 
 #### Cancellation of  registration
 
-12. The Director General may cancel the registration made under section  7-
+12. The Director General may cancel the registration made under section 7—
 
-(a) wherever  there  has  been  any  contravention  of  or  noncompliance  with  any  conditions  imposed  in  respect  of any  registration  made  under  this  Act;
+(a) wherever there has been any contravention of or non-compliance with any conditions imposed in respect of any registration made under this Act;
 
 [[END OF PAGE 9]]
 
@@ -346,7 +337,7 @@ ACT 308
 
 (c) on the ground that the person to whom the certificate of registration  has  been  issued  has  been  convicted  of  any offence  under  this  Act  or  any  offence  involving  moral turpitude;
 
-(d) if  it  appears  to  him  that-
+(d) if it appears to him that—
 
 (i) the child care centre has ceased to be operated as such  or  to  exist;  or
 
@@ -358,21 +349,21 @@ ACT 308
 
 #### Appointment of officers
 
-- The Minister may by notification in the Gazette appoint such number of officers as he may consider necessary for the purposes of  this  Act.
+13. The Minister may by notification in the Gazette appoint such number of officers as he may consider necessary for the purposes of this Act.
 
 #### Powers of the Director General and authorized officers
 
-- The Director General and any authorized officer may from time to time enter and inspect any premises used for the purposes of  a  child  care  centre  for  the  purpose  of  ensuring  that-
+14. The Director General and any authorized officer may from time to time enter and inspect any premises used for the purposes of a child care centre for the purpose of ensuring that—
 
-(a) the  health  and  well-being  of  the  children  or  employees therein  are  satisfactory;
+(a) the health and well-being of the children or employees therein are satisfactory;
 
-(b) the registers, records, time tables, menus, books of accounts are  properly  maintained;
+(b) the registers, records, time tables, menus, books of accounts are properly maintained;
 
-(c) adequate  and  suitable  equipment  are  provided  therein;
+(c) adequate and suitable equipment are provided therein;
 
-(d) the  structure,  hygiene  and  sanitation  are  maintained;
+(d) the structure, hygiene and sanitation are maintained;
 
-(e) adequate precautions are taken against fire or other peril likely  to  endanger  the  lives  or  health  of  children  cared for  therein.
+(e) adequate precautions are taken against fire or other peril likely to endanger the lives or health of children cared for therein.
 
 [[END OF PAGE 10]]
 
@@ -386,35 +377,35 @@ Child Care Centre
 
 ### DIRECTIONS
 
-#### Director  General  to  give  written  directions
+#### Director General to give written directions
 
-15. (1) The  Director  General  may,  in  respect  of  any  registered child  care  centre,  give  such  directions  in  writing  as  he  thinks necessary  to  ensure  that-
+15. (1) The Director General may, in respect of any registered child care centre, give such directions in writing as he thinks necessary to ensure that—
 
-(a) the  centre  is  operated  and  managed  satisfactorily;
+(a) the centre is operated and managed satisfactorily;
 
-(b) the welfare of the children attending the centre is promoted in  a  proper  manner;
+(b) the welfare of the children attending the centre is promoted in a proper manner;
 
-(c) adequate apparatus and equipment necessary as safeguards against  fire  are  provided  therein;  and
+(c) adequate apparatus and equipment necessary as safeguards against fire are provided therein; and
 
-(d) the  provisions  of  this  Act  are  complied  with.
+(d) the provisions of this Act are complied with.
 
-(2) A direction  under  subsection  (1)-
+(2) A direction under subsection (1)—
 
-(a) shall be served upon the person registered in respect of the  child  care  centre;  and
+(a) shall be served upon the person registered in respect of the child care centre; and
 
-(b) shall specify a period of time within which the directions shall  be  complied  with.
+(b) shall specify a period of time within which the directions shall be complied with.
 
 #### Order for temporary closure of child care centres
 
-16. (1) The  Director  General  may-
+16. (1) The Director General may—
 
-(a) if  it  appears  to  him  that  there  is  any  danger  or  risk  of danger to persons in any premises of a registered child care  centre;  or
+(a) if it appears to him that there is any danger or risk of danger to persons in any premises of a registered child care centre; or
 
-(b) if,  in  respect  of  any  such  premises  a  direction  given under section 15 is not complied with within the period of  time  specified  in  the  notice  served  thereunder,
+(b) if, in respect of any such premises a direction given under section 15 is not complied with within the period of time specified in the notice served thereunder,
 
-by order in writing direct that the premises shall cease to be used as  a  child  care  centre  for  such  period  as  he  thinks  fit  or  until further  notice.
+by order in writing direct that the premises shall cease to be used as a child care centre for such period as he thinks fit or until further notice.
 
-(2) Any order under this section shall be served on the person registered in respect of the child care centre, and shall take effect from the  date  of  service  thereof.
+(2) Any order under this section shall be served on the person registered in respect of the child care centre, and shall take effect from the date of service thereof.
 
 [[END OF PAGE 11]]
 
@@ -426,13 +417,13 @@ Laws of Malaysia
 
 ACT 308
 
-- It shall be sufficient service of any order under this section if-
+(3) It shall be sufficient service of any order under this section if—
 
-(a) it  is  delivered  personally  to  the  person  on  whom  it  is served;
+(a) it is delivered personally to the person on whom it is served;
 
-(b) it is sent by registered post to the last known address of that  person;  or
+(b) it is sent by registered post to the last known address of that person; or
 
-(c) a copy thereof is posted in a conspicuous place upon or in  the  premises  to  which  it  relates.
+(c) a copy thereof is posted in a conspicuous place upon or in the premises to which it relates.
 
 ## PART VI
 
@@ -440,17 +431,17 @@ ACT 308
 
 #### Offences and penalties
 
-- Any person  who-
+17. Any person who—
 
-(a) operates or takes part in the management of a child care centre in any premises other than premises specified in the  certificate  of  registration  of  the  child  care  centre;
+(a) operates or takes part in the management of a child care centre in any premises other than premises specified in the certificate of registration of the child care centre;
 
-(b) in or in connection with any application under this Act makes any statement or furnishes information, whether such statement be oral or written, which is false in any material  particular  and  which  he  knows  or  reasonably ought  to  know  is  false  in  such  particular;
+(b) in or in connection with any application under this Act makes any statement or furnishes information, whether such statement be oral or written, which is false in any material particular and which he knows or reasonably ought to know is false in such particular;
 
-(c) obstructs the Director General or any authorized officer in  the  exercise  of  any  of  his  powers  under  this  Act;
+(c) obstructs the Director General or any authorized officer in the exercise of any of his powers under this Act;
 
-(d) refuses to produce any book, document or other article upon  being  so  required  under  section  20,  or,  when  so required, furnishes information which is false in material particular  and  which  he  knows  or  reasonably  ought  to know is false  in  such  particular;
+(d) refuses to produce any book, document or other article upon being so required under section 20, or, when so required, furnishes information which is false in material particular and which he knows or reasonably ought to know is false in such particular;
 
-(e) operates or takes part in the management of a child care centre which is operated in any name other than the name in  which  it  is  registered;
+(e) operates or takes part in the management of a child care centre which is operated in any name other than the name in which it is registered;
 
 (f) fails to comply with an order served on him under section 16,
 
@@ -476,7 +467,7 @@ shall be guilty of an offence and shall on conviction be liable to a fine not ex
 
 20. (1) The Director General or any authorized officer shall have power  to  enter  at  any  reasonable  time  any  premises  reasonably suspected  of  being  used  for  the  purpose  of  a  child  care  centre without registration or where he has any reasonable grounds for believing  that  there  has  been  contravention  of  the  provisions  of this Act and shall inspect such premises to make any inquiry which he  considers  necessary.
 
-(2) In the course of inspection under this section the Director General  or  any  authorized  officer  may-
+(2) In the course of inspection under this section the Director General or any authorized officer may—
 
 (a) put  questions  concerning  the  management  of  the  child care  centre  to  the  person  registered  under  this  Act  and to  any  other  person  in  charge  of  the  child  care  centre whose evidence he may consider necessary, and all such persons shall be legally bound to answer such questions truthfully  to  the  best  of  their  ability;
 
@@ -554,43 +545,47 @@ Child Care Centre
 
 Laws of Malaysia
 
-- LAWS OF MALAYSIA
+ACT 308
 
-Act  308
+LAWS OF MALAYSIA
+
+Act 308
 
 # CHILD CARE CENTRE ACT 1984
 
 ## LIST OF AMENDMENTS
 
-- Amending law Short  title In  force  from
+Amending law    Short title    In force from
 
-- NIL  -
-
-ACT 308
+– NIL –
 
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
 
-17
-
 Child Care Centre
 
-LAWS OF MALAYSIA Act  308
+17
+
+LAWS OF MALAYSIA
+
+Act 308
 
 # CHILD CARE CENTRE ACT 1984
 
 ## LIST OF SECTIONS AMENDED
 
-Section Amending authority In  force  from
+Section    Amending authority    In force from
 
-- NIL  -
+– NIL –
 
 DICETAK OLEH
 
 PERCETAKAN NASIONAL MALAYSIA BERHAD,
 
 KUALA LUMPUR
+
+PNMB
 
 BAGI PIHAK DAN DENGAN PERINTAH KERAJAAN MALAYSIA
 
