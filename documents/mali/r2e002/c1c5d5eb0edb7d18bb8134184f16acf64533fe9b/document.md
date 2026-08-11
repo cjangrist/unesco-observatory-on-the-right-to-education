@@ -2,7 +2,7 @@
 
 # ORDONNANCE N°02-062/P-RM DU 05 JUIN 2002
 
-portant code de protection del'enfant
+portant code de protection de l'enfant
 
 LE PRESIDENT DE LA REPUBLIQUE,
 
@@ -40,7 +40,7 @@ Dans le cadre de l'identité nationale malienne et de la conscience d'appartenan
 - Respecter et consolider les droits de l'enfant en tenant compte de son intérêt supérieur de manière à ce qu'il acquiert les vertus du travail, de l'initiative, les valeurs de l'effort personnel, le sens de l'auto responsabilité et de la responsabilité vis à vis des parents, du groupe familial et de la société et assurer, par les moyens appropriés, sa participation à tout ce qui le concerne.
 
 ###### ARTICLE 2 :
-Est enfant, au sens du présent code, toute personne humaine âgée de moins de dixhuit ans et qui n'a pas encore atteint l'âge de la majorité par dispositions spéciales.
+Est enfant, au sens du présent code, toute personne humaine âgée de moins de dix-huit ans et qui n'a pas encore atteint l'âge de la majorité par dispositions spéciales.
 
 ###### ARTICLE 3 :
 L'intérêt supérieur de l'enfant doit être la considération primordiale dans toutes les mesures prises à son égard par les tribunaux, les autorités administratives, les institutions publiques et privées de protection sociale.
@@ -57,7 +57,7 @@ Tout enfant a droit à une identité dès sa naissance et à l'enregistrement de
 L'identité est constituée, du prénom, du nom de famille, de la date de naissance et de la nationalité.
 
 ###### ARTICLE 5 :
-Tout enfant a droit au respect de sa vie privée, sans préjudice des droits et responsabilités dont sont  titulaires, en vertu de la loi, les parents ou ceux qui en sont la charge.
+Tout enfant a droit au respect de sa vie privée, sans préjudice des droits et responsabilités dont sont titulaires, en vertu de la loi, les parents ou ceux qui en ont la charge.
 
 ###### ARTICLE 6 :
 Dans toutes les mesures prises à l'égard de l'enfant, l'action de prévention au sein de la famille doit être une considération primordiale en vue de sauvegarder le rôle familial et consolider, par une protection nécessaire à son développement naturel, la responsabilité qui incombe aux parents ou tuteur ou gardien, dans l'éducation de l'enfant, sa scolarité et son encadrement.
@@ -68,7 +68,7 @@ Toute décision prise doit tendre à maintenir l'enfant dans son milieu familial
 La dite décision doit garantir à l'enfant le droit de continuer à bénéficier des différentes conditions de vie et des services adaptés à ses besoins, à son âge et compatibles avec son milieu familial normal.
 
 ###### ARTICLE 8 :
-Dans toutes les mesures prises à l'égard de l'enfant, celui à qui incombe la responsabilité d'intervenir, informe l'enfant et ses parents ou ceux qui en ont la charge, du contenu détaillé et des différentes étapes, ainsi que de tous les droits et garanties énoncés par la loi en leur faveur, y compris leur droit à se faire assister par un avocat ou à demander la révision ou l'information des décisions prises en la matière.
+Dans toutes les mesures prises à l'égard de l'enfant, celui à qui incombe la responsabilité d'intervenir, informe l'enfant et ses parents ou ceux qui en ont la charge, du contenu détaillé et des différentes étapes, ainsi que de tous les droits et garanties énoncés par la loi en leur faveur, y compris leur droit à se faire assister par un avocat ou à demander la révision ou la réformation des décisions prises en la matière.
 
 ###### ARTICLE 9 :
 Tout enfant a le droit d'exprimer librement ses opinions qui doivent être prises en considération conformément à son âge et à son degré de maturité. A cette fin, sera donnée à l'enfant une occasion spéciale pour exprimer ses opinions et être écouté dans toutes les procédures judiciaires et les mesures sociales et scolaires concernant sa situation.
@@ -104,7 +104,7 @@ L'enfant bénéficie de toutes les garanties du droit humanitaire international 
 Il est interdit de faire participer ou d'impliquer l'enfant dans un conflit armé, ou de l'enrôler dans les forces et groupes armés avant l'âge de 18 ans.
 
 ###### ARTICLE 18 :
-Il est interdit d'exploiter l'enfant dans les différentes formes de criminalité organisée, y compris le fait de lui inculper le fanatisme et la haine et de l'inciter à commettre des actes de violence et de terreur.
+Il est interdit d'exploiter l'enfant dans les différentes formes de criminalité organisée, y compris le fait de lui inculquer le fanatisme et la haine et de l'inciter à commettre des actes de violence et de terreur.
 
 ###### ARTICLE 19 :
 Les enfants n'ayant ni père, ni mère, ni ascendant auquel on puisse recourir ou qui sont totalement délaissés par leurs parents ou ascendant sont placés sous la responsabilité des services compétents de l'Etat qui pourvoient à leur éducation et à leurs soins.
@@ -120,7 +120,7 @@ Tout enfant a le droit à :
 
 - l'emploi à partir de quinze ans conformément aux pertinentes dispositions du code du travail et ses textes subséquents ;
 
-- l'immunisation contre les maladies du programme élargi de vaccination. Cette obligation, dont les modalités d'application seront précises par voie réglementaire, relève de la responsabilité des parents et de l'Etat ;
+- l'immunisation contre les maladies du programme élargi de vaccination. Cette obligation, dont les modalités d'application seront précisées par voie réglementaire, relève de la responsabilité des parents et de l'Etat ;
 
 - la protection contre toute publication ou diffusion de son image qui ne respecterait pas son intégrité, son honneur et sa vie privée ;
 
@@ -128,7 +128,7 @@ Tout enfant a le droit à :
 
 ### CHAPITRE II : DES DEVOIRS FONDAMENTAUX DE L'ENFANT
 
-###### CHAPITRE 21 :
+###### ARTICLE 21 :
 Tout enfant a des devoirs envers ses parents, sa famille, la société, l'Etat et toute autre communauté légalement reconnue ainsi qu'envers la Communauté Internationale.
 
 L'enfant, selon son âge et ses capacités, et sous réserve des restrictions contenues dans le présent code, a le devoir :
@@ -184,7 +184,7 @@ Au sens du présent code on entend par :
 
 "état matrimonial" : Fait d'être marié, célibataire, veuf, divorcé ou séparé.
 
-"harcèlement" : Fait pour une personne de faire des remarques ou des gestions vexatoires lorsqu'elle sait ou devrait raisonnablement savoir que ces remarques ou ces gestes sont importuns.
+"harcèlement" : Fait pour une personne de faire des remarques ou des gestes vexatoires lorsqu'elle sait ou devrait raisonnablement savoir que ces remarques ou ces gestes sont importuns.
 
 "sexe" : Le droit à un traitement égal sans discrimination fondée sur le sexe inclut le droit à un traitement égal sans discrimination fondée sur le fait qu'une femme est enceinte ou peut le devenir.
 
@@ -313,6 +313,12 @@ Ne constitue pas une atteinte à un droit reconnu par le présent titre la mise 
 
 - soit que le programme spécial, tel que défini, satisfait aux exigences requises.
 
+## TITRE II : DE LA PROTECTION DE L'ENFANT EN DANGER
+### CHAPITRE I : DES DEFINITIONS
+
+###### ARTICLE 50 :
+Sont considérés, en particulier, comme des situations difficiles menaçant la santé de l'enfant, son développement ou son intégrité physique ou morale :
+
 - la perte des parents de l'enfant qui demeure sans soutien familial ;
 
 - l'enfant recueilli, abandonné et trouvé ;
@@ -337,12 +343,6 @@ Ne constitue pas une atteinte à un droit reconnu par le présent titre la mise 
 
 - l'incapacité des parents ou de ceux qui ont la charge de l'enfant d'assurer sa protection et son éducation.
 
-## TITRE II : DE LA PROTECTION DE L'ENFANT EN DANGER
-### CHAPITRE I : DES DEFINITIONS
-
-###### ARTICLE 50 :
-Sont considérés, en particulier, comme des situations difficiles menaçant la santé de l'enfant, son développement ou son intégrité physique ou morale :
-
 ###### ARTICLE 51 :
 Est considérée comme "négligence" la mise en danger de l'intégrité mentale ou psychologique ou physique de l'enfant soit par son abandon par ses parents, sans motif  valable dans un endroit ou dans une institution publique ou privée, soit par l'abandon du foyer familial par les parents pendant une longue période sans fournir à l'enfant les commodités nécessaires, soit par le refus des deux parents de recevoir l'enfant suite à un jugement relatif à sa garde, soit par le refus de le soigner et de veiller à son bon traitement, soit par le rejet affectif grave et/ou continu de l'enfant par ses parents.
 
@@ -350,7 +350,7 @@ Est considérée comme "négligence" la mise en danger de l'intégrité mentale 
 Est considéré comme "enfant recueilli" par une institution publique ou privée ou par un individu tout enfant dont les parents, tuteurs ou toute autre personne chargée de sa garde se sont manifestement désintéressés depuis plus d'un an. Peuvent être déclarés abandonnés par le juge des enfants à moins qu'un parent n'ait demandé dans les mêmes délais d'en assurer la charge et que le juge des enfants n'ait jugé cette demande conforme à l'intérêt de l'enfant.
 
 ###### ARTICLE 53 :
-Est considéré comme "enfant trouvé", le nouveau -né recueilli par un individu, une institution publique ou privée dont les père et mère n'ont pu être identifiés.
+Est considéré comme "enfant trouvé", le nouveau-né recueilli par un individu, une institution publique ou privée dont les père et mère n'ont pu être identifiés.
 
 [[END OF PAGE 7]]
 
@@ -404,7 +404,7 @@ Au sens du présent code, sont appelées "institutions éducatives de protection
 Un délégué à la protection de l'enfance est nommé auprès de chaque Haut Commissaire de région et du district de Bamako.
 
 ###### ARTICLE 67 :
-Le délégué à la protection de l'enfance a pour mission d'intervenir dans tous les cas où il s'avère que la santé de l'enfant ou son intégrité physique ou morale est menacée ou morale est menacée ou exposée à un danger dû au milieu dans lequel il vit ou à des activités, à des actes qu'il accomplit, ou en raison de divers mauvais traitements qu'il subit et en particulier dans les situations difficiles prévues à l'article 50 du présent code.
+Le délégué à la protection de l'enfance a pour mission d'intervenir dans tous les cas où il s'avère que la santé de l'enfant ou son intégrité physique ou morale est menacée ou exposée à un danger dû au milieu dans lequel il vit ou à des activités, à des actes qu'il accomplit, ou en raison de divers mauvais traitements qu'il subit et en particulier dans les situations difficiles prévues à l'article 50 du présent code.
 
 ###### ARTICLE 68 :
 Le délégué à la protection de l'enfance dispose, à cet effet, des prérogatives qui l'habilitent légalement :
@@ -418,7 +418,7 @@ Le délégué à la protection de l'enfance dispose, à cet effet, des prérogat
 - à établir un rapport sur les agissements qu'il constate à l'encontre des enfants qu'il soumet au juge des enfants.
 
 ###### ARTICLE 69 :
-Le délégué à la protection de l'enfance dispose les prérogatives d'officier de police judiciaire et, ce exclusivement, dans le cadre de l'accomplissement de sa fonction. Ses pouvoirs de police judiciaire s'exercent dans les conditions et limitent précisées par le présent code.
+Le délégué à la protection de l'enfance dispose des prérogatives d'officier de police judiciaire et, ce exclusivement, dans le cadre de l'accomplissement de sa fonction. Ses pouvoirs de police judiciaire s'exercent dans les conditions et limites précisées par le présent code.
 
 ###### ARTICLE 70 :
 Le délégué à la protection de l'enfance doit avant d'entrer en fonction, prêter le serment ci-après devant le tribunal de première instance territorialement compétent : "je jure d'assumer mes fonctions avec honneur et probité et de veiller au respect de la loi et du secret professionnel".
@@ -465,7 +465,7 @@ La protection judiciaire de l'enfant est assurée par les juridictions pour mine
 #### SECTION 1 : DE LA SAISINE DU JUGE DES ENFANTS
 
 ###### ARTICLE 78 :
-Le juge des enfants est saisi de la situation de l'enfant menacé suite à une demande écrite ou non émanent :
+Le juge des enfants est saisi de la situation de l'enfant menacé suite à une demande écrite ou non émanant :
 
 - conjointement des parents ou de l'un d'eux ;
 
@@ -542,7 +542,7 @@ Le juge des enfants peut prononcer pour un délai précis l'une des mesures suiv
 #### SECTION 3 : DES RECOURS
 
 ###### ARTICLE 87 :
-Les décisions du juge des enfants sont susceptibles de recours à l'exception de ceux visés à l'article à l'article 92.
+Les décisions du juge des enfants sont susceptibles de recours à l'exception de ceux visés à l'article 92.
 
 Le droit d'appel et d'opposition appartient à l'enfant qui peut l'exercer lui-même ou par son représentant légal ou son conseil, au délégué à la protection de l'enfance, aux parents, tuteur ou gardien de l'enfant. L'appel est adressé au tribunal pour enfants dans les quinze jours qui suivent le prononcé des mesures.
 
@@ -573,7 +573,7 @@ Les listes fixant les familles et institutions habilitées à prendre en charge 
 ###### ARTICLE 94 :
 Les frais occasionnés par les mesures d'assistance éducative sont, dans tous les cas, à la charge des parents non indigents auxquelles des aliments peuvent être réclamés.
 
-Lorsque l'un d'eux exerce une profession ou un emploi, le simple avis de la décision prise par le juge des enfants ou le tribunal pour enfants notifié à l'employeur ou à l'organisme payeur vaut saisiearrêt.
+Lorsque l'un d'eux exerce une profession ou un emploi, le simple avis de la décision prise par le juge des enfants ou le tribunal pour enfants notifié à l'employeur ou à l'organisme payeur vaut saisie-arrêt.
 
 [[END OF PAGE 11]]
 
@@ -582,7 +582,7 @@ Lorsque l'un d'eux exerce une profession ou un emploi, le simple avis de la déc
 Cet avis impose le paiement direct au profit de la personne ou de l'institution assurant l'assistance éducative, médicale ou psycho - éducative.
 
 ## TITRE III : DE LA PROTECTION DE L'ENFANT CONTREVENANT
-### CHAPITRE I : DE LA RESPONSABILITE PENALE, DES GUARANTIES JUDICIAIRES ET DROITS SPECIFIQUES DE L'ENFANT CONTREVENANT
+### CHAPITRE I : DE LA RESPONSABILITE PENALE, DES GARANTIES JUDICIAIRES ET DROITS SPECIFIQUES DE L'ENFANT CONTREVENANT
 #### SECTION 1 : DE LA RESPONSABILITE PENALE DE L'ENFANT
 
 ###### ARTICLE 95 :
@@ -612,7 +612,7 @@ Dans les cas prévus aux alinéas précédents, le mineur sera remis à ses pare
 Les enfants âgés de plus de 13 ans et de moins de 18 ans, auxquelles est imputée une infraction qualifiée de contravention, délit ou crime, ne sont déférés aux juridictions pénales de droit commun. Ils ne sont justiciables que des juridictions pour mineurs.
 
 ###### ARTICLE 100 :
-Le présent code institue la médiation qui a pour effet de mettre fin aux poursuites et dont l'opportunité, comme celle des poursuites et dont l'opportunité, comme celle des poursuites, appartient au Procureur de la République et au juge de paix.
+Le présent code institue la médiation qui a pour effet de mettre fin aux poursuites et dont l'opportunité, comme celle des poursuites, appartient au Procureur de la République et au juge de paix.
 
 ###### ARTICLE 101 :
 La constitution de partie civile est admise devant les juridictions pour enfants. Suivant les cas, l'action civile est portée devant :
@@ -681,7 +681,7 @@ Tout manquement aux dispositions des articles 104 à 108 expose son auteur à de
 Le mineur suspecté ou accusé d'infraction à la loi pénale est présumé innocent jusqu' à ce que sa culpabilité ait été légalement établie.
 
 ###### ARTICLE 111 :
-Lors de la première comparution, le juge des enfants est tenu de signaler au mineur qu'il lui sera désigné un défenseur d'office au cas ou lui et ses parents n'auraient pas la possibilité d'en constituer.
+Lors de la première comparution, le juge des enfants est tenu de signaler au mineur qu'il lui sera désigné un défenseur d'office au cas où lui et ses parents n'auraient pas la possibilité d'en constituer.
 
 Par la même occasion, il lui sera indiqué qu'il communiquera en toute confidentialité avec le conseil constitué ou désigné.
 
@@ -781,7 +781,7 @@ L'acte de médiation, qui s'impose à tous, est exonéré des frais d'enregistre
 Les Magistrats composant les juridictions pour enfants, qu'ils soient du parquet ou du siège, doivent être spécialisés dans le domaine de l'enfance.
 
 ###### ARTICLE 127 :
-Les juridictions pour mineurs sont des juridictions spéciales compétentes pour juger les infractions dont la connaissance leur est attribuée pour une disposition formelle de la loi en raison de la qualité personnelle de leur auteur et de la nature des infractions.
+Les juridictions pour mineurs sont des juridictions spéciales compétentes pour juger les infractions dont la connaissance leur est attribuée par une disposition formelle de la loi en raison de la qualité personnelle de leur auteur et de la nature des infractions.
 
 ###### ARTICLE 128 :
 Conformément à la loi portant sur la minorité pénale et institution de juridictions pour mineurs, les juridictions pour mineurs sont :
@@ -915,7 +915,7 @@ Le juge des enfants recueille, par une enquête sociale, tous les renseignements
 fréquentation scolaire, son assiduité, sa conduite à l'école, sur les conditions dans lesquelles il a vécu ou a été élevé et de son éducation.
 
 ###### ARTICLE 153 :
-Lorsqu'il n'existe pas un service spécialement organisé à cet effet auprès du Tribunal, il peut désigner pour effectuer la dite enquête, toute personne qui lui ressemble qualifiée en qualité d'expert,  les frais d'enquête étant alors réglés comme frais de justice criminelle.
+Lorsqu'il n'existe pas un service spécialement organisé à cet effet auprès du Tribunal, il peut désigner pour effectuer la dite enquête, toute personne qui lui semble qualifiée en qualité d'expert, les frais d'enquête étant alors réglés comme frais de justice criminelle.
 
 ###### ARTICLE 154 :
 Il ordonne, si nécessaire, la constitution d'un dossier médical qui sera joint au dossier social.
@@ -983,7 +983,7 @@ Si une prévention est établie à l'égard du mineur de plus de 13 ans et de mo
 
 - admonestation ;
 
-- remise à ses parents, à son tuteur, à la personne qui en avait la garde, à une institution éducative de protection - - ou de rééducation appropriée ou une institution d'éducation spécialisée appropriée ;
+- remise à ses parents, à son tuteur, à la personne qui en avait la garde, à une institution éducative de protection ou de rééducation appropriée ou une institution d'éducation spécialisée appropriée ;
 
 - placement dans un établissement médical ou psycho-éducatif ;
 
@@ -995,7 +995,7 @@ Si une prévention est établie à l'égard du mineur de plus de 13 ans et de mo
 Les mesures de placement sont révisables à tout moment par le Tribunal, soit d'office, soit à la requête du Procureur de la République, soit à la requête du délégué à la liberté surveillée.
 
 ###### ARTICLE 165 :
-Dans le cas où le Tribunal pour enfants décide d'une condamnation pénale contre un mineur de plus de 13 ans et de moins de 18 ans, la peine qui est prononcée ne peut s'élever audessus de la moitié de celle à laquelle il aurait pu être condamné s'il avait plus de 18 ans.
+Dans le cas où le Tribunal pour enfants décide d'une condamnation pénale contre un mineur de plus de 13 ans et de moins de 18 ans, la peine qui est prononcée ne peut s'élever au-dessus de la moitié de celle à laquelle il aurait pu être condamné s'il avait plus de 18 ans.
 
 ##### Sous-section 5 : De la procédure au niveau de la Chambre Spéciale des Mineurs
 
