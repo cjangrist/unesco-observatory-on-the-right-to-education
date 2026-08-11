@@ -70,6 +70,56 @@ ii
 
 ## Table of Contents
 
+Executive Summary..........................................................................................................................1
+Chapter 1: National Vision and Development Overview ...............................................................3
+1.1 Introduction ............................................................................................................................3
+1.2 Development Overview..........................................................................................................3
+1.3 Development Constraints and Challenges ............................................................................4
+1.4 National Vision.......................................................................................................................5
+Chapter 2: Medium Term Strategic Framework .............................................................................7
+2.1 Introduction ............................................................................................................................7
+2.2 Strategic Priorities..................................................................................................................7
+2.3 Policy Implementation and Monitoring.................................................................................11
+Chapter 3: Private Sector Development and Employment Creation .........................................14
+3.1 Sector Overview ..................................................................................................................14
+3.2 Key Issues and Challenges .................................................................................................16
+3.3 Policy Objectives .................................................................................................................17
+3.4 Priorities and Strategies.......................................................................................................17
+3.5 Performance Indicators........................................................................................................18
+Chapter 4: Macroeconomic Stability and Equitable Growth ......................................................19
+4.1 Recent Economic Performance...........................................................................................19
+4.2 Key Issues and Challenges .................................................................................................19
+4.3 Policy Objectives .................................................................................................................20
+4.4 Priorities and Strategies.......................................................................................................20
+4.5 Performance Indicators........................................................................................................20
+Chapter 5: Good Governance and Public Sector Reform..........................................................22
+5.1 Overview..............................................................................................................................22
+5.2 Policy Objectives .................................................................................................................22
+5.3 Providing Policy Stability......................................................................................................22
+5.4 Providing Stable Institutions ................................................................................................23
+5.5 Developing a Productive Public Sector ...............................................................................24
+Chapter 6: Primary Sector Development and the Environment.................................................25
+6.1 Primary Sector – Agriculture, Forestry, Fisheries................................................................25
+6.2 Environment and Disaster Management .............................................................................30
+Chapter 7: Provision of Basic Services and Strengthening Social Development....................32
+7.1 Overview..............................................................................................................................32
+7.2 Health...................................................................................................................................32
+7.3 Gender and Development....................................................................................................35
+Chapter 8: Education and Human Resource Development........................................................37
+8.1 Sector Overview ..................................................................................................................37
+8.2 Key Issues and Challenges .................................................................................................38
+8.3 Policy Objectives .................................................................................................................38
+8.4 Priorities and Strategies.......................................................................................................39
+8.5 Performance Indicators........................................................................................................39
+Chapter 9: Support Services: Infrastructure and Utilities .........................................................40
+9.1 Sector Overview ..................................................................................................................40
+9.2 Key Issues and Challenges .................................................................................................43
+9.3 Policy Objectives .................................................................................................................43
+9.4 Priorities and Strategies.......................................................................................................44
+9.5 Performance Indicators........................................................................................................44
+Appendix 1: Key Economic Indicators .........................................................................................46
+Appendix 2: Key Social Indicators ................................................................................................47
+
 iii
 
 Priorities and Action Agenda for Vanuatu 2006 - 2015
@@ -127,43 +177,45 @@ iv
 
 [[START OF PAGE 7]]
 
+## Executive Summary
+
 ### National Vision
 
-Government policy is to raise the welfare of the people of Vanuatu.  Achieving this requires formal development  planning.    Vanuatu  has  been  working  on  this  since  1997  when  the  Comprehensive Reform  Program  was  initiated.    There  was  a  summit  in  2002  during  which  the  Prime  Minister announced five priorities.  This was followed in 2003 by a Prioritised Action Agenda (PAA) which built upon these five priorities.  This document is an update of the PAA, building on the experience of the past, taking account of what has been achieved and the challenges that remain.
+Government policy is to raise the welfare of the people of Vanuatu. Achieving this requires formal development planning. Vanuatu has been working on this since 1997 when the Comprehensive Reform Program was initiated. There was a summit in 2002 during which the Prime Minister announced five priorities. This was followed in 2003 by a Prioritised Action Agenda (PAA) which built upon these five priorities. This document is an update of the PAA, building on the experience of the past, taking account of what has been achieved and the challenges that remain.
 
-Chapter 1 sets out the National Vision for Vanuatu and provides an overview of development.  With a rapidly growing population, economic growth has to be higher than population growth if people are to
+Chapter 1 sets out the National Vision for Vanuatu and provides an overview of development. With a rapidly growing population, economic growth has to be higher than population growth if people are to be better off. This has not been achieved and incomes, measured in terms of spending power, have declined. There is still substantial hardship and poverty and increasing unemployment, especially among young people.
 
-be better off. This has not been achieved  and  incomes,  measured  in terms of spending power, have declined. There is still substantial hardship  and  poverty  and  increasing unemployment, especially among young people.
+The Vision is based on the recognition of the need for economic growth, that this growth must be led by the private sector and that Government's role is to create an enabling environment for both domestic and foreign investors whilst ensuring that development is sustainable.
 
-The Vision  is  based  on  the  recognition of  the  need  for  economic  growth,  that this  growth  must  be  led  by  the  private sector and that Government's role is to create an enabling environment for both domestic  and  foreign  investors  whilst ensuring that development is sustainable.
+The Vision reflects the people's expressed wishes for more employment and economic opportunities through which to earn income, for better health and education, the provision of basic infrastructure for themselves and especially for their children, and a wish for social stability.
 
-The Vision reflects the people's expressed wishes for more employment National Vision 'An Educated, Healthy and Wealthy Vanuatu' By  2015  Vanuatu  will  have  achieved  a  significant increase in real per capita incomes, along with steady growth  in  levels  of  employment.  Within  the  region, Vanuatu will be among the leading countries in achieving the Millennium Development Goals in education,  health,  environmental  management,  and other  key  social  indicators.  Public  sector  reforms  will have raised standards of governance, levels of productivity in the civil service, and will have resulted in higher standards of services and managerial accountability.    Through  continuing  structural  reform, Vanuatu  will  have  established  an  effective  enabling environment  to  sustain  the  significant  private  sector growth, which it aims to achieve in output and employment.
+National Vision
 
-and  economic  opportunities  through  which  to  earn  income,  for  better  health  and  education,  the provision of basic infrastructure for themselves and especially for their children, and a wish for social stability.
+'An Educated, Healthy and Wealthy Vanuatu'
+
+By 2015 Vanuatu will have achieved a significant increase in real per capita incomes, along with steady growth in levels of employment. Within the region, Vanuatu will be among the leading countries in achieving the Millennium Development Goals in education, health, environmental management, and other key social indicators. Public sector reforms will have raised standards of governance, levels of productivity in the civil service, and will have resulted in higher standards of services and managerial accountability. Through continuing structural reform, Vanuatu will have established an effective enabling environment to sustain the significant private sector growth, which it aims to achieve in output and employment.
 
 ### National Strategic Priorities
 
-From the Vision, a set of overarching national strategic priorities can be identified for the allocation of development resources, as well as policy initiatives and implementation action.  This is the basis for the PAA.  The overall approach is set out in chapter 2, especially the key priority areas:
+From the Vision, a set of overarching national strategic priorities can be identified for the allocation of development resources, as well as policy initiatives and implementation action. This is the basis for the PAA. The overall approach is set out in chapter 2, especially the key priority areas:
 
 - Private Sector Development and Employment Creation;
 
-- Good Governance and Public Sector Reform;
-
 - Macroeconomic Stability and Equitable Growth;
+
+- Good Governance and Public Sector Reform;
 
 - Primary Sector Development (natural resources and the environment);
 
-- Education and Human Resource Development;
-
 - Provision of Better Basic Services, especially in rural areas;
+
+- Education and Human Resource Development;
 
 - Economic Infrastructure and Support Services.
 
-The  main  priority  is  to  create  an  environment  for  private  sector  led  economic  growth,  including activities  in  the  primary  sectors  of  agriculture,  forestry  and  fisheries,  as  well  as  in  tourism.    This embraces  public  sector  reform  and  good  governance,  improving  the  investment,  operating  and regulatory environment for the private sector, and providing the necessary infrastructure and support services,  particularly  in  rural  areas,  for  the  primary  sectors  and  tourism  as  well  as  in  the  urban centres.
+The main priority is to create an environment for private sector led economic growth, including activities in the primary sectors of agriculture, forestry and fisheries, as well as in tourism. This embraces public sector reform and good governance, improving the investment, operating and regulatory environment for the private sector, and providing the necessary infrastructure and support services, particularly in rural areas, for the primary sectors and tourism as well as in the urban centres.
 
-At  the  next  level  of  priority  is  human  resource  development.    As  the  economy begins  to grow,  an increasing  number  of  economic  and  employment  opportunities  will  be  created  for  both  men  and women.  This will require a skilled, educated and motivated gender-balanced labour force.  Adequate
-
-## Executive Summary
+At the next level of priority is human resource development. As the economy begins to grow, an increasing number of economic and employment opportunities will be created for both men and women. This will require a skilled, educated and motivated gender-balanced labour force. Adequate
 
 1
 
@@ -197,17 +249,17 @@ To  translate  the  policies  into  funded  activities,  programs  and  projects
 
 Current Government policies for national development were summarised in the Priorities and Action Agenda (PAA 2003) published in 2003.  These policies are based on the Comprehensive Reform Program (CRP), which was initiated in 1997.  As implementation of the CRP policies proceeded in the late  1990s,  refinements  were  introduced  through  the  deliberations  of  National  Summits  and  the National  Business  Forum.    In  addition,  Provinces  have  prepared  Rural  Economic  Development Initiatives (REDI) Plans to identify key needs in the Provinces and outer islands.
 
-The PAA 2003 summarised the refined national development policies, which was endorsed by the Council of Ministers (COM) and the Development Committee of Officials (DCO).  The Prime Minister during the CRP summit of November 2002 announced Government's commitments to the following priorities:
+The PAA 2003 summarised the refined national development policies, which was endorsed by the Council of Ministers (COM) and the Development Committee of Officials (DCO). The Prime Minister during the CRP summit of November 2002 announced Government's commitments to the following priorities:
 
-- Improving governance and public service delivery by providing policy stability & fiscal sustainability via a strengthened law-enforcement and macroeconomic management capacity and a small, efficient, and accountable government;
+1. Improving governance and public service delivery by providing policy stability & fiscal sustainability via a strengthened law-enforcement and macroeconomic management capacity and a small, efficient, and accountable government;
 
-- Improving the lives of the people in rural areas by improving service delivery, expanding market access to rural produce, lowering costs of credit and transportation, and ensuring sustainable use of natural resources;
+2. Improving the lives of the people in rural areas by improving service delivery, expanding market access to rural produce, lowering costs of credit and transportation, and ensuring sustainable use of natural resources;
 
-- Raising private investment by lowering obstacles to growth of private enterprise including lowering costs of doing business, facilitating long-term secure access to land, and providing better support services to business;
+3. Raising private investment by lowering obstacles to growth of private enterprise including lowering costs of doing business, facilitating long-term secure access to land, and providing better support services to business;
 
-- Enabling greater stakeholder participation in policy formulation by institutionalising the role of chiefs, non-governmental organisations, and civil society in decisionmaking at all levels of government; and,
+4. Enabling greater stakeholder participation in policy formulation by institutionalising the role of chiefs, non-governmental organisations, and civil society in decision-making at all levels of government; and,
 
-- Increasing equity in access to income and economic opportunity by all members of the community. Specific areas of focus include: enabling universal access to primary education by school-age children, universal access to basic health services, and inducing increased employment opportunity for those seeking work.
+5. Increasing equity in access to income and economic opportunity by all members of the community. Specific areas of focus include: enabling universal access to primary education by school-age children, universal access to basic health services, and inducing increased employment opportunity for those seeking work.
 
 Much has happened both in Vanuatu and in the global economic environment during the past three years and it is therefore timely to review and update the PAA.  However whilst much has changed, many of the  key  issues  and  challenges  facing  Vanuatu  still  need  to  be  addressed.    Equally  many opportunities remain unrealised.
 
@@ -217,7 +269,7 @@ This chapter provides an overview of development, highlights the key constraints
 
 ### 1.2 Development Overview
 
-In  recent  years  Vanuatu  has  not  been  able  to  realise  its  full  development  potential  despite  the substantial reforms and restructuring that have occurred since 1997. There have been many reasons for this relatively poor performance.  Chief amongst these has been that generally poor standards of governance remain at all levels of the public service, despite the improvements that have been made since  the  CRP.  Weak institutions  and  poor  standards  of  governance  have  been  widely  recognised within Vanuatu as critical factors in constraining development.
+In recent years Vanuatu has not been able to realise its full development potential despite the substantial reforms and restructuring that have occurred since 1997. There have been many reasons for this relatively poor performance. Chief amongst these has been that generally poor standards of governance remain at all levels of the public service, despite the improvements that have been made
 
 3
 
@@ -227,17 +279,21 @@ Priorities and Action Agenda for Vanuatu 2006 - 2015 'An Educated, Healthy and W
 
 [[START OF PAGE 10]]
 
-Progress with reform has been hampered by the many changes of Government and the consequent lack  of  political  stability  has  led  to  frequent  policy  shifts  and  inconsistency  in  policy  analysis, formulation and application. The consequent lack of clear leadership and direction has itself resulted in a lack of discipline and commitment to adhere to the generally sound institutional processes, which exist throughout government.
+since the CRP. Weak institutions and poor standards of governance have been widely recognised within Vanuatu as critical factors in constraining development.
 
-This has led to a perceived decline in standards of public service delivery, especially in rural areas. Despite additional financial resources being allocated to the education and health sectors there have been  disappointingly  small  improvements  in  overall  levels  of  education  attainment  or  in  standards being achieved.  Moreover rural health services often seem to lack resources and capacity to deal with the health problems and needs of the people.  Transport services continue to be constrained by lack of adequate infrastructure and maintenance problems.
+Progress with reform has been hampered by the many changes of Government and the consequent lack of political stability has led to frequent policy shifts and inconsistency in policy analysis, formulation and application. The consequent lack of clear leadership and direction has itself resulted in a lack of discipline and commitment to adhere to the generally sound institutional processes, which exist throughout government.
 
-Beyond  these  governance  issues  the  country  is  experiencing  a  rapidly  increasing  population, especially  in  the  urban  centres  of  Port  Vila  and  Luganville.  The  increasing  monetisation  of  the Vanuatu economy, and the lack of economic opportunities in the rural areas are amongst the main causes  of  the  urban  drift.  Moreover  the  increasing  urbanisation  is  itself  putting  pressure  on  urban infrastructure and is causing deterioration in the urban environment.
+This has led to a perceived decline in standards of public service delivery, especially in rural areas. Despite additional financial resources being allocated to the education and health sectors there have been disappointingly small improvements in overall levels of education attainment or in standards being achieved. Moreover rural health services often seem to lack resources and capacity to deal with the health problems and needs of the people. Transport services continue to be constrained by lack of adequate infrastructure and maintenance problems.
 
-Economic performance has therefore been characterised by generally low rates of economic growth
+Beyond these governance issues the country is experiencing a rapidly increasing population, especially in the urban centres of Port Vila and Luganville. The increasing monetisation of the Vanuatu economy, and the lack of economic opportunities in the rural areas are amongst the main causes of the urban drift. Moreover the increasing urbanisation is itself putting pressure on urban infrastructure and is causing deterioration in the urban environment.
 
-(see  Figure  1.1), although there has been an upturn  in  the  last three years,  and by a relatively weak fiscal situation; although like  growth  there has been an improvement in the fiscal performance in the last three years. Prospects for moving to a higher and sustained  level  of growth  and  fiscal stability are
+Economic performance has therefore been characterised by generally low rates of economic growth (see Figure 1.1), although there has been an upturn in the last three years, and by a relatively weak fiscal situation; although like growth there has been an improvement in the fiscal performance in the last three years. Prospects for moving to a higher and sustained level of growth and fiscal stability are however constrained by Vanuatu's high-cost business environment and the often non-transparent and inconsistent regulatory and investment environment.
 
 Figure 1.1: Growth Performance
+
+Income per person (1983 prices) - left hand scale
+
+Economic growth rate - right hand scale
 
 40,000
 
@@ -283,23 +339,17 @@ Figure 1.1: Growth Performance
 
 2005
 
+-5%
+
 0%
 
 5%
 
-Income per person (1983 prices) - left hand scale
-
-Economic growth rate - right hand scale
-
-20%
+10%
 
 15%
 
-10%
-
--5%
-
-however constrained by Vanuatu's high-cost business environment and the often non-transparent and inconsistent regulatory and investment environment.
+20%
 
 The consequence has been little productive investment with few new economic opportunities being created, especially in rural areas. Slow economic growth with rapid population growth means there has been little  improvement  in  Income  per  Person  (per  capita  income).  Income  per  Person  in  real terms (excluding inflation) has declined by 18% between 1994 and 2003 before rising slightly since 2004 (see Figure 1.1).  Unemployment appears to be increasing, especially amongst young people. This is leading to increasing social concerns as well as increasing levels of hardship and poverty.
 
@@ -313,13 +363,7 @@ The principal development constraints facing Vanuatu, highlighted in Figure 1.2,
 
 [[START OF PAGE 11]]
 
-The  structural  weaknesses,  Figure  1.3, are  issues  over  which  the  government can  exercise  some  policy  control  and guidance.  These  weaknesses  are  all amenable to change through government intervention.
-
-Although  Vanuatu  is  a  relatively  small, open economy with many development and  structural constraints, the nation also possesses some important advantages:
-
-- Strong traditional culture which promotes  social  stability  and family welfare;
-
-Figure 1.2 : Key Development Constraints
+Figure 1.2: Key Development Constraints
 
 - Widely scattered and mountainous island geography;
 
@@ -327,17 +371,11 @@ Figure 1.2 : Key Development Constraints
 
 - Small domestic market with little potential for economies of scale;
 
-- Increasingly  competitive  international  markets  for tourism and investment;
+- Increasingly competitive international markets for tourism and investment;
 
 - Social and cultural system with limited understanding and experience with business concepts and practices.
 
-- Fertile land, natural resources and unspoilt environment.
-
-#### 1.3.1  Globalisation
-
-However,  even  though  the  country  is fortunate  to  have  these  advantages,  it must nevertheless continue to strengthen its links in the global community.  The  continuing  process  of liberalisation, deregulation and globalisation in the international economy  offers  both  opportunities  and challenges that Vanuatu can ill afford to ignore.
-
-To believe that changes in the international  economy  can  be  ignored will result in the economy becoming left behind. It would mean  the loss of opportunities for economic growth, which if properly and carefully harnessed, could contribute significantly to the kind of development that is desired.    Equally,  Vanuatu  should  not
+The structural weaknesses, Figure 1.3, are issues over which the government can exercise some policy control and guidance. These weaknesses are all amenable to change through government intervention.
 
 Figure 1.3: Principal Structural Weaknesses in the Vanuatu Economy
 
@@ -345,19 +383,29 @@ Figure 1.3: Principal Structural Weaknesses in the Vanuatu Economy
 
 - High cost domestic business environment;
 
-- Expensive  international  connections  in  both  airfares  and communications;
+- Expensive international connections in both airfares and communications;
 
 - Investment approval process that can be non-transparent and burdensome for investors;
 
-- Underdeveloped  financial  system  especially  in  the  rural areas;
+- Underdeveloped financial system especially in the rural areas;
 
 - Increasing urbanisation and rising urban unemployment;
 
-- Labour force lacking technical  and  managerial  education and job skills needed to support economic development;
+- Labour force lacking technical and managerial education and job skills needed to support economic development;
 
-- Land  and  capital  market  development  constrained  by social values and traditions.
+- Land and capital market development constrained by social values and traditions.
 
-embrace  these  developments  without  careful  consideration  of  the  likely  consequences  on  the country's economy and natural environment.
+Although Vanuatu is a relatively small, open economy with many development and structural constraints, the nation also possesses some important advantages:
+
+- Strong traditional culture which promotes social stability and family welfare;
+
+- Fertile land, natural resources and unspoilt environment.
+
+#### 1.3.1  Globalisation
+
+However, even though the country is fortunate to have these advantages, it must nevertheless continue to strengthen its links in the global community. The continuing process of liberalisation, deregulation and globalisation in the international economy offers both opportunities and challenges that Vanuatu can ill afford to ignore.
+
+To believe that changes in the international economy can be ignored will result in the economy becoming left behind. It would mean the loss of opportunities for economic growth, which if properly and carefully harnessed, could contribute significantly to the kind of development that is desired. Equally, Vanuatu should not embrace these developments without careful consideration of the likely consequences on the country's economy and natural environment.
 
 #### 1.3.2  Policy Stability and Service Delivery
 
@@ -389,23 +437,25 @@ Standards of governance and the efficiency of the public  service  need  to  be 
 
 #### 1.4.1  International Commitments
 
-Vanuatu  is  a  member  of  the  international  community.  As  such  it  has  made  commitments  at  both regional and international levels in the areas of trade, regional co-operation, and  national development.  Government will pursue these commitments in the interest of Vanuatu and its citizens. Of  particular  importance  is  the  commitment  of  Government  to  the  United  Nations  Millennium Declaration  that  was  adopted  by  the  UN  General  Assembly  in  2000.    The  Declaration  establishes eight  goals  to  which  the  international  community  will  commit  its  resources.    The  Millennium Development Goals (MDG) are:
+Vanuatu is a member of the international community. As such it has made commitments at both regional and international levels in the areas of trade, regional co-operation, and national development. Government will pursue these commitments in the interest of Vanuatu and its citizens.
 
-- Eradicate extreme poverty and hunger
+Of particular importance is the commitment of Government to the United Nations Millennium Declaration that was adopted by the UN General Assembly in 2000. The Declaration establishes eight goals to which the international community will commit its resources. The Millennium Development Goals (MDG) are:
 
-- Achieve universal primary education
+1. Eradicate extreme poverty and hunger
 
-- Promote gender equality and empower women
+2. Achieve universal primary education
 
-- Reduce child mortality
+3. Promote gender equality and empower women
 
-- Improve maternal health
+4. Reduce child mortality
 
-- Combat HIV/AIDS, malaria and other diseases
+5. Improve maternal health
 
-- Ensure environmental sustainability
+6. Combat HIV/AIDS, malaria and other diseases
 
-- Develop a Global Partnership for Development
+7. Ensure environmental sustainability
+
+8. Develop a Global Partnership for Development
 
 Government is committed to achieving these Goals and the MDG targets and indicators have been included as Performance Indicators in relevant sections of the PAA.
 
@@ -429,11 +479,9 @@ The following section discusses each of these overarching strategic priorities i
 
 ### 2.2 Strategic Priorities
 
-To accomplish the broad goals, or development outcomes, outlined in the National Vision, Strategic Priorities need  to  be  set  for  the  medium-term  to  provide  intermediate  milestones  against  which
+To accomplish the broad goals, or development outcomes, outlined in the National Vision, Strategic Priorities need to be set for the medium-term to provide intermediate milestones against which progress can be measured. The Strategic Priorities provide policy direction at the overall national (macroeconomic) level. Strategic Priorities focus on key results or changes that must be achieved in the society and economy in order to take us towards the Vision.
 
-progress can be measured. The Strategic Priorities provide policy direction at the overall national (macroeconomic) level. Strategic Priorities focus on key results or changes  that  must  be  achieved  in  the society and economy in order to take us towards the Vision.
-
-Although  the  seven  Strategic  Priorities (see  Figure 2.1)  are  divided  into  seven separate sectors they are all interlinked,  some  in  complementary  ways, some in ways, which may cause conflict. All  require  resources,  human,  physical and financial. The challenge is to allocate  scarce  domestic  development resources,  complemented  by  external
+Although the seven Strategic Priorities (see Figure 2.1) are divided into seven separate sectors they are all inter-linked, some in complementary ways, some in ways, which may cause conflict. All require resources, human, physical and financial. The challenge is to allocate scarce domestic development resources, complemented by external development assistance to achieve the development outcomes in the Vision.
 
 Figure 2.1: Strategic Priorities
 
@@ -451,8 +499,6 @@ Figure 2.1: Strategic Priorities
 
 - Economic Infrastructure and Support Services (Chapter 9).
 
-development assistance to achieve the development outcomes in the Vision.
-
 #### 2.2.1  Private Sector Development and Employment Creation
 
 With a population growth rate of around 2.6% it is estimated that the number of young people entering the  labour  force  averages  around  3,500  each  year.  Private  sector  development  and  employment creation,  including  in  tourism,  agriculture  and  fisheries  is  therefore  the  top  priority.  This  means creating an environment in which economic opportunities can be generated and is at the core of the national development strategy. Good education and good health, important as they might be, are not ends  in  themselves;  they  provide  individuals  with  the  skills,  knowledge  and  physical  ability  to contribute to the creation of economic wealth and social welfare through employment and economic activity in both the formal and informal sectors.
@@ -465,61 +511,61 @@ Priorities and Action Agenda for Vanuatu 2006 - 2015 'An Educated, Healthy and W
 
 [[START OF PAGE 14]]
 
-The rural areas have always been regarded  as  the  heart  of  the  nation, however  in  the  last  decade  the  heart has  become  weaker  as  production  in the traditional subsistence economy has failed  to  keep  pace  with  developments in  the  formal  economy. There needs to be renewed emphasis on strengthening the rural economy.
+The rural areas have always been regarded as the heart of the nation, however in the last decade the heart has become weaker as production in the traditional subsistence economy has failed to keep pace with developments in the formal economy. There needs to be renewed emphasis on strengthening the rural economy.
 
-The era of globalisation means that the emphasis  in  trade  must  shift  from  an emphasis  on  import  substitution  to  an export  orientation.    A  more  competitive domestic market will reduce the cost of
+The era of globalisation means that the emphasis in trade must shift from an emphasis on import substitution to an export orientation. A more competitive domestic market will reduce the cost of many goods and services and provide the basis for more competitive exports.
 
-Figure 2.2: Policy Objectives Private Sector Development and Employment Creation
+Figure 2.2: Policy Objectives
+
+Private Sector Development and Employment Creation
 
 Lowering obstacles to growth of private enterprise including:
 
-- Lowering costs of doing business;
+1. Lowering costs of doing business;
 
-- Improving access to rural financial services - saving and credit;
+2. Improving access to rural financial services – saving and credit;
 
-- Facilitating long-term secure access to land;
+3. Facilitating long-term secure access to land;
 
-- Providing better support services to business;
+4. Providing better support services to business;
 
-- Ensuring a conducive environment for increased commodity exports .
-
-many goods and services and provide the basis for more competitive exports.
+5. Ensuring a conducive environment for increased commodity exports .
 
 #### 2.2.2  Macroeconomic Stability and Equitable Growth
 
-Sound monetary and economic management, strong institutions and fiscal discipline are essential to underpin private sector development.  Without the right economic policy environment (fiscal, monetary
+Sound monetary and economic management, strong institutions and fiscal discipline are essential to underpin private sector development. Without the right economic policy environment (fiscal, monetary and regulatory), strong and well-managed institutions and a high standard of governance providing a cost-effective, efficient and customer oriented public sector, none of the sector priorities can be successfully addressed.
 
-and regulatory), strong and wellmanaged institutions and a high standard of governance providing a cost-effective, efficient and customer oriented public sector, none of the sector priorities can be successfully addressed.
+Vanuatu has a good record in maintaining macroeconomic stability in terms of achieving sustainable fiscal balances and a healthy balance of payments position, stable currency and low inflation. However, economic growth has been low and erratic with not enough of the benefits of growth flowing to the outer islands and grass roots. The result has been high levels of hardship and poverty in many parts of the country.
 
-Figure 2.3: Policy Objectives Macroeconomic stability and Equitable Growth
+Figure 2.3: Policy Objectives
 
-- Maintain sustainable fiscal balances while reprioritising expenditures, reducing debt and minimising the subsidies paid to public enterprises;
+Macroeconomic stability and Equitable Growth
 
-- Keep inflation at low and stable levels;
+1. Maintain sustainable fiscal balances while re-prioritising expenditures, reducing debt and minimising the subsidies paid to public enterprises;
 
-Vanuatu has a good record in maintaining  macroeconomic  stability  in terms of achieving sustainable fiscal balances and a healthy balance of payments position,  stable  currency  and low inflation. However, economic growth has been low and erratic with not enough of the benefits of growth flowing to the outer islands and grass roots. The result  has  been  high  levels  of  hardship and poverty in many parts of the country.
+2. Keep inflation at low and stable levels;
 
-- Maintain a sustainable external position including a stable currency;
+3. Maintain a sustainable external position including a stable currency;
 
-- Strengthen supervision and oversight of the financial sector including offshore financial services;
+4. Strengthen supervision and oversight of the financial sector including offshore financial services;
 
-- Promote equitable and sustainable economic growth through the implementation of PAA policies to  improve  basic  services,  infrastructure  and  the environment for private sector development.
+5. Promote equitable and sustainable economic growth through the implementation of PAA policies to improve basic services, infrastructure and the environment for private sector development.
 
 #### 2.2.3  Good Governance and Public Sector Reform
 
-Good governance, which includes inspired leadership and sound management, as well as honesty, transparency  and  consistency  in  the  rule  of  law  is  a  pre-requisite  for  all  other  strategies  to  be implemented effectively.
+Good governance, which includes inspired leadership and sound management, as well as honesty, transparency and consistency in the rule of law is a pre-requisite for all other strategies to be implemented effectively.
 
-Providing  policy  stability  is  essential  in order  to  provide  wide  and  continuing support to the policies needed to achieve the National Vision. This will be assisted  by  having  clear  and  agreed directions for public expenditure through the  development  of  a  Medium  Term Expenditure  Framework  (MTEF).    This
+Providing policy stability is essential in order to provide wide and continuing support to the policies needed to achieve the National Vision. This will be assisted by having clear and agreed directions for public expenditure through the development of a Medium Term Expenditure Framework (MTEF). This will necessitate ministries focusing more sharply on the outputs they produce and the services they deliver. Policy stability will also be improved through improved cooperation and consultation between government and the non-government and private sectors. Such cooperation can be expected to result in wider support for development policies. In addition there are benefits to be gained from strengthening the role of NGO's in the provision of services to many parts of the community. This may require targeting those in the most disadvantaged categories where numbers may be small and the costs of service provision are high. This becomes an increasingly important issue as government's budget becomes more focused on core activities.
 
-Figure 2.4: Policy Objectives Good Governance and Public Sector Reform
+Figure 2.4: Policy Objectives
 
-- Providing policy stability;
+Good Governance and Public Sector Reform
 
-- Providing stable institutions; and
+1. Providing policy stability;
 
-- Developing a productive public sector.
+2. Providing stable institutions; and
 
-will necessitate ministries focusing more sharply on the outputs they produce and the services they deliver. Policy stability will also be improved through improved cooperation and consultation between government  and  the  non-government  and  private  sectors.    Such  cooperation  can  be  expected  to result  in  wider  support  for  development  policies.    In  addition  there  are  benefits  to  be  gained  from strengthening the role of NGO's in the provision of services to many parts of the community.  This may require targeting those in the most disadvantaged categories where numbers may be small and the  costs  of  service  provision  are  high.    This  becomes  an  increasingly  important  issue  as government's budget becomes more focused on core activities.
+3. Developing a productive public sector.
 
 8
 
@@ -527,57 +573,59 @@ will necessitate ministries focusing more sharply on the outputs they produce an
 
 [[START OF PAGE 15]]
 
-Stable institutions are critical for success in policy implementation. But there is also a need to ensure that the organisation of government  ministries  and  departments  is  efficiently and  effectively contributing to national development according to the policies of this PAA.  Of particular importance in providing stable institutions is to ensure that weaknesses in the legal sector are addressed and that oversight institutions such as the Auditor-General and Ombudsman's office are working effectively.
+Stable institutions are critical for success in policy implementation. But there is also a need to ensure that the organisation of government ministries and departments is efficiently and effectively contributing to national development according to the policies of this PAA. Of particular importance in providing stable institutions is to ensure that weaknesses in the legal sector are addressed and that oversight institutions such as the Auditor-General and Ombudsman's office are working effectively.
 
-Government has been implementing a comprehensive public sector reform program since 1997.  For Vanuatu  to  be  successful  in  achieving  a  more  productive  public  sector  there  will  need  to  be  a continuing high level of commitment on the part of political leaders and government administrators to implementing the program, including the continuing reform of State Owned Enterprises (SOEs).
+Government has been implementing a comprehensive public sector reform program since 1997. For Vanuatu to be successful in achieving a more productive public sector there will need to be a continuing high level of commitment on the part of political leaders and government administrators to implementing the program, including the continuing reform of State Owned Enterprises (SOEs).
 
 #### 2.2.4  Primary Sector Development and Environmental Management
 
-The traditional structure of Vanuatu society and its subsistence-based rural economy have been built
+The traditional structure of Vanuatu society and its subsistence-based rural economy have been built on the sustainable use of the nation's valuable natural resources and the conservation and careful exploitation of the fragile rural eco-systems. In some areas these are now under threat from changing attitudes in society and from the increasing monetisation of the economy. However, there is also a need to expand traditional subsistence production both for domestic consumption and export. The challenge is to reconcile these conflicting factors to enable sustainable growth and rising rural incomes.
 
-on  the  sustainable  use  of  the  nation's valuable natural resources and the conservation and careful exploitation  of the  fragile  rural  eco-systems.    In  some areas  these  are  now  under  threat  from changing  attitudes  in  society  and  from the increasing monetisation of the economy.    However,  there  is  also  a need  to  expand  traditional  subsistence production both for domestic consumption and export.  The challenge is to reconcile these conflicting factors to enable  sustainable  growth  and  rising rural incomes.
+There is considerable potential for greater output and niche-market production for export. Also there is considerable scope for increased production for the domestic market to both strengthen national food security and reduce dependence on food imports.
 
-There is considerable potential for greater output and niche-market production for export. Also there is considerable scope for increased production  for  the  domestic  market  to both  strengthen  national  food  security and reduce dependence on food imports.
+Figure 2.5: Policy Objectives
 
-Figure 2.5: Policy Objectives Primary Production:
+Primary Production:
 
-- Sustainably raise incomes from agriculture, fishing and forestry resources for domestic and export markets;
+1. Sustainably raise incomes from agriculture, fishing and forestry resources for domestic and export markets;
 
-- Improve and strengthen regulatory and sustainable management arrangements for the sector;
+2. Improve and strengthen regulatory and sustainable management arrangements for the sector;
 
-- Involve all stakeholders in the development of sector strategies and their implementation.
+3. Involve all stakeholders in the development of sector strategies and their implementation.
 
 Environmental and Disaster Management:
 
-- Promote sound and sustainable environmental management practices;
+1. Promote sound and sustainable environmental management practices;
 
-- Ensure sustainable management and conservation of Vanuatu's biodiversity;
+2. Ensure sustainable management and conservation of Vanuatu's biodiversity;
 
-- Integrate Hazard and Risk Management concerns into policies in order to reduce environmental risk;
+3. Integrate Hazard and Risk Management concerns into policies in order to reduce environmental risk;
 
-- Promote traditional and cultural disaster management know-how and self-help within the community.
+4. Promote traditional and cultural disaster management know-how and self-help within the community.
 
 #### 2.2.5  Provision of Better Basic Services and Strengthening Social Development
 
-Health and social welfare, including issues  of  nutrition,  youth,  gender,  age and other special needs, must be addressed  to  ensure  a  stable  social environment. HIV/AIDS,  NCDs  and hardship and poverty are emerging issues  and  need  to  be  considered  as potential  threats  to  the  achievement  of the Vision.
+Health and social welfare, including issues of nutrition, youth, gender, age and other special needs, must be addressed to ensure a stable social environment. HIV/AIDS, NCDs and hardship and poverty are emerging issues and need to be considered as potential threats to the achievement of the Vision.
 
-An  efficient  and  focused  health  care system  is also important for  human
+An efficient and focused health care system is also important for human resources development. Quality of medical services and health care is a major contributor to an improved quality of life. Improvements in the health care system have already led to longer life expectancy and a generally healthier community and workforce. With longer life expectancy (partly the result of progress in lowering infant and child mortality rates), the growth rate in population has risen.
 
-Figure 2.6: Policy Objectives Basic Services and Social Development Health:
+Figure 2.6: Policy Objectives
 
-- Improve the health status of the people;
+Basic Services and Social Development
 
-- Improve access to services;
+Health:
 
-- Improve the quality of services delivered;
+1. Improve the health status of the people;
 
-- Make more effective use of resources.
+2. Improve access to services;
+
+3. Improve the quality of services delivered;
+
+4. Make more effective use of resources.
 
 Gender:
 
-- Promote gender equality and empower women.
-
-resources  development.    Quality  of  medical  services  and  health  care  is  a  major  contributor  to  an improved  quality  of  life.  Improvements  in  the  health  care  system  have  already  led  to  longer  life expectancy and a generally healthier community and workforce.  With longer life expectancy (partly the result of progress in lowering infant and child mortality rates), the growth rate in population has risen.
+1. Promote gender equality and empower women.
 
 9
 
@@ -593,21 +641,21 @@ Sustained growth and development is achievable only through the participation an
 
 #### 2.2.6  Education and Human Resource Development
 
-Education,  training  and  human  resource  development  are  essential  to  the  achievement  of  each individual's  own  potential  and  aspirations  and  are  also  central  to  the  nation's  ability  to  achieve sustainable development.  Education and training must be targeted at meeting the skill and workforce demands in the different sectors of the economy.
+Education, training and human resource development are essential to the achievement of each individual's own potential and aspirations and are also central to the nation's ability to achieve sustainable development. Education and training must be targeted at meeting the skill and workforce demands in the different sectors of the economy.
 
-Education and training are the key to developing the single largest resource - the people of Vanuatu, and particularly the youth.  For Vanuatu to achieve its Vision, education and training institutions have
+Education and training are the key to developing the single largest resource - the people of Vanuatu, and particularly the youth. For Vanuatu to achieve its Vision, education and training institutions have to become more efficient and effective in delivering a higher standard of education and training to meet the needs of the people and the economy as a whole. Identifying occupational skills and education standards that are most critically needed in the private sector, as well as in government is a major task that must be addressed on an ongoing basis. Priority will be given to the development and implementation of a National HRD Plan.
 
-to  become  more  efficient  and  effective in delivering a higher standard of education and training to meet the needs  of  the  people  and  the  economy as a whole. Identifying occupational skills  and  education  standards  that  are most  critically needed  in  the private sector,  as  well  as  in  government  is  a major  task  that  must  be  addressed  on an ongoing basis.  Priority will be given to the development and implementation of a National HRD Plan.
+Figure 2.7: Policy Objectives
 
-Figure 2.7: Policy Objectives Education and Human Resource Development
+Education and Human Resource Development
 
-- Improve access to education and ensure gender balance;
+1. Improve access to education and ensure gender balance;
 
-- Raise the quality and relevance of education;
+2. Raise the quality and relevance of education;
 
-- Improve planning, fiscal and financial management in the sector;
+3. Improve planning, fiscal and financial management in the sector;
 
-- Develop and implement a national HRD plan.
+4. Develop and implement a national HRD plan.
 
 The gradual achievement of MDG targets for literacy and gender balance in education will result in greater numbers of youth entering the labour force with a higher level of educational attainment than in  the  past.    However,  Vanuatu's  education  system  was  established  as  an  academic  system  and needs to be re-balanced with more vocational outcomes.  There is a critical need to strengthen the entrepreneurial skills training and vocational-technical program in secondary schools to better prepare school leavers to undertake post-secondary training.
 
@@ -621,27 +669,29 @@ Formal employment is the primary aspiration of almost all school leavers. Howeve
 
 [[START OF PAGE 17]]
 
-The major focus in the sector is to provide 'Education for All (EFA)'. The EFA goals are consistent with MDG 1, 2 and 3.  There is also an emphasis on adult literacy because of the impact that this has on learning attainment of children.  The main policy objectives concern improving access, quality and the relevance of education and training, improving management of the sector with a view to reducing costs, and developing and implementing a National HRD Plan.
+The major focus in the sector is to provide 'Education for All (EFA)'. The EFA goals are consistent with MDG 1, 2 and 3. There is also an emphasis on adult literacy because of the impact that this has on learning attainment of children. The main policy objectives concern improving access, quality and the relevance of education and training, improving management of the sector with a view to reducing costs, and developing and implementing a National HRD Plan.
 
 #### 2.2.7  Support Services: Infrastructure and Utilities
 
 Reliable and competitively priced economic infrastructure and utilities are an essential requirement for sustainable development. Without these supporting services it will be impossible to attract investment, create employment and generate additional wealth and opportunities for the people.
 
-The  constraints  and  challenges  in  providing  adequate  and  efficient  infrastructure,  utilities  and supporting services are both physical and structural. The country is widely scattered and the island geography is often rugged. The costs of providing infrastructure, transport, power and communications  services  in  such  circumstances  are  high  and  the  economies  of  scale  are  small.
+The constraints and challenges in providing adequate and efficient infrastructure, utilities and supporting services are both physical and structural. The country is widely scattered and the island geography is often rugged. The costs of providing infrastructure, transport, power and communications services in such circumstances are high and the economies of scale are small.
 
-Vanuatu  is  also  highly vulnerable  to natural disasters arising from its climate and geology, which can lead to serious disruptions  to  supplies  and  services.  In addition, the high rate of population growth  and  the  continued  increase  in urbanisation  is  having  an  increasingly severe  and  adverse  impact  on  urban infrastructure and urban services.
+Vanuatu is also highly vulnerable to natural disasters arising from its climate and geology, which can lead to serious disruptions to supplies and services. In addition, the high rate of population growth and the continued increase in urbanisation is having an increasingly severe and adverse impact on urban infrastructure and urban services.
 
-Figure 2.8: Policy Objectives Infrastructure & Utilities
+The policy objectives covering these services centre on the need to provide transport and utility services, which provide the people with a satisfactory quality of service at a reasonable price.
 
-- Ensure the provision of competitively priced, quality infrastructure,  utilities  and  services,  either  through public enterprises or through private sector partnerships and competition;
+Figure 2.8: Policy Objectives
 
-- Encourage the development of competitive private sector involvement in utilities and services;
+Infrastructure & Utilities
 
-The  policy objectives covering these services  centre  on  the  need  to  provide transport and utility services, which provide  the  people  with  a  satisfactory quality of service at a reasonable price.
+1. Ensure the provision of competitively priced, quality infrastructure, utilities and services, either through public enterprises or through private sector partnerships and competition;
 
-- Minimize subsidies for public utilities;
+2. Encourage the development of competitive private sector involvement in utilities and services;
 
-- Ensure economic infrastructure and support services are available to other sectors.
+3. Minimize subsidies for public utilities;
+
+4. Ensure economic infrastructure and support services are available to other sectors.
 
 ### 2.3 Policy Implementation and Monitoring
 
@@ -751,49 +801,29 @@ annual  reports  on  their  activities  and report on the implementation of outp
 
 ##### 2.3.2.1 Annual Development Report
 
-It is proposed that an Annual Development Report is prepared as a summary of progress in implementing the  policies  in  this  PAA.    The  Report would describe the progress made in the Strategic Priorities and sector priorities using the Performance Indicators  that  are  specified  in  later chapters.  Inputs to the Report would come  from  Ministry  Annual  Reports and  reports  by some  constitutional bodies,  such  as  the  Auditor-General. The Department of Economic  and Sector Planning would coordinate the preparation of the Annual Development  Report. The  Report would  then  be  considered  by  senior Government officials in the DCO followed  by  tabling  in  the  Council  of Ministers.    The  Report,  together  with any  recommended  changes  of  policy or strategy, could then go to an
+It is proposed that an Annual Development Report is prepared as a summary of progress in implementing the policies in this PAA. The Report would describe the progress made in the Strategic Priorities and sector priorities using the Performance Indicators that are specified in later chapters. Inputs to the Report would come from Ministry Annual Reports and reports by some constitutional bodies, such as the Auditor-General. The Department of Economic and Sector Planning would coordinate the preparation of the Annual Development Report. The Report would then be considered by senior Government officials in the DCO followed by tabling in the Council of Ministers. The Report, together with any recommended changes of policy or strategy, could then go to an annual, or once every two years, National Summit.
 
 National Summit
 
 Annual Development Report
 
-Ministry Annual
+Ministry Annual Reports
 
-Reports
+Recurrent budget activities
 
-Recurrent
+Development project activities
 
-budget activities
+Aid donor reports
 
-Development
+Constitutional Body reports
 
-project activities
+Council of Ministers
 
-Aid donor
-
-reports
-
-Constitutional
-
-Body reports
-
-Council of
-
-Ministers
-
-Development
-
-Committee of
-
-Officials
+Development Committee of Officials
 
 Figure 2.10: Monitoring Policy Implementation
 
-Ministerial Budget
-
-Committee
-
-annual, or once every two years, National Summit.
+Ministerial Budget Committee
 
 13
 
@@ -855,7 +885,7 @@ The  decision  in  late  2003  to  adopt  an 'open sky policy' encouraged the in
 
 Australia is the largest provider of visitors accounting for  59% of total arrivals  in  2004;  14%  of  visitors  came from New Zealand and about 11% from New  Caledonia.  The  remaining  visitors came from the other pacific island countries,  Europe  and  North  America. Tourism activities have expanded to the outer islands in recent years assisted by the Vanuatu Bungalows Association.
 
-International cruise ships visiting
+International cruise ships visiting Vanuatu has fluctuated in recent years as a result of P&O's announcement to increase the number of its cruises to Vanuatu. Despite the announcement the number of visitors by cruise ship fell considerably in 2004. However, cruise ship arrivals have increased during 2005 and are expected to grow further in 2006. Cruise ships have also extended their trips to other islands such as Walarano and Pentecost.
 
 Figure 3.1: Tourist arrivals
 
@@ -905,13 +935,11 @@ Tourist arrivals
 
 Cruiseship visitors
 
-Vanuatu has fluctuated in recent years as a result of P&O's announcement to increase the number of its  cruises  to  Vanuatu.  Despite  the  announcement  the  number  of  visitors  by  cruise  ship  fell considerably in 2004. However, cruise ship arrivals have increased during 2005 and are expected to grow further in 2006. Cruise ships have also extended their trips to other islands such as Walarano and Pentecost.
-
 Government supports the development of tourism through the National Tourism Development Office (NTDO), which coordinates investment and development planning and promotes high standards of tourism products.  Government also supports private sector marketing efforts through a grant to the Vanuatu Tourism Office (VTO).  The tourism master plan has been revised and was adopted at the beginning of 2005.
 
 #### 3.1.5  Trade & Commerce
 
-Income from agricultural exports is the main source of cash in rural areas.  Vanuatu has made several policy  changes  as  part  of  the  CRP  to  promote  international  trade  and  a  greater  export  orientation. Import duties were reduced in 1998 to bands within zero to 30 percent and simplified to a total of eight categories.  The Custom services charge of 5 percent for imports, as well as export taxes and duties, were also abolished.  Restrictions imposed on exports of kava by only licensed dealers were lifted in April 1999 although VCMB policies have now changed.  Many of these policy changes are necessary as  part  of  Vanuatu's  accession  process  leading  to  membership  of  the  World  Trade  Organisation (WTO).
+Income from agricultural exports is the main source of cash in rural areas. Vanuatu has made several policy changes as part of the CRP to promote international trade and a greater export orientation. Import duties were reduced in 1998 to bands within zero to 30 percent and simplified to a total of eight categories. The Custom services charge of 5 percent for imports, as well as export taxes and duties, were also abolished. Restrictions imposed on exports of kava by only licensed dealers were lifted in
 
 15
 
@@ -921,7 +949,9 @@ Priorities and Action Agenda for Vanuatu 2006 - 2015 'An Educated, Healthy and W
 
 [[START OF PAGE 22]]
 
-Vanuatu,  since  2003,  is  also  a  party  to  the  Melanesian  Free  Trade  Agreement  between  the Melanesian countries.  The free trade agreement amongst the Forum Island Countries, the Pacific Island Countries Trade Agreement (PICTA), and the Pacific Agreement on Closer Relations (PACER) have been endorsed.  Discussions on a new bilateral trade agreement with New Caledonia are still in progress.
+April 1999 although VCMB policies have now changed. Many of these policy changes are necessary as part of Vanuatu's accession process leading to membership of the World Trade Organisation (WTO).
+
+Vanuatu, since 2003, is also a party to the Melanesian Free Trade Agreement between the Melanesian countries. The free trade agreement amongst the Forum Island Countries, the Pacific Island Countries Trade Agreement (PICTA), and the Pacific Agreement on Closer Relations (PACER) have been endorsed. Discussions on a new bilateral trade agreement with New Caledonia are still in progress.
 
 ### 3.2 Key Issues and Challenges
 
@@ -937,17 +967,17 @@ Obstacles preventing ni-Vanuatu business people from realising their full potent
 
 #### 3.2.3  Tourism
 
-Tourism  has  great  potential  for  further  development  but  faces  some  serious  constraints.    These include:
+Tourism has great potential for further development but faces some serious constraints. These include:
 
-- The  inadequacy  of  existing  accommodation  in  terms  of  quality,  size  of  units  and  limited distribution  around  the  country  including  a  lack  of  boutique  resorts  to  attract  high  income tourists;
+- The inadequacy of existing accommodation in terms of quality, size of units and limited distribution around the country including a lack of boutique resorts to attract high income tourists;
 
 - Lack of adequate infrastructure for international air passengers and cruise ship passengers as well as poor roads on the main resort islands and air services between the islands;
 
 - International and domestic air services are underdeveloped and unnecessarily expensive;
 
-- Lack  of  effective  and  targeted  marketing  and  promotion  of  Vanuatu  and  its  unique  tourist attractions  particularly  in  niche  markets  such  as  adventure,  diving,  game  fishing,  nature tourism and other special activities;
-
 - The land on beachfronts for building tourist facilities is insecure;
+
+- Lack of effective and targeted marketing and promotion of Vanuatu and its unique tourist attractions particularly in niche markets such as adventure, diving, game fishing, nature tourism and other special activities;
 
 - Lack of community awareness of tourism developments and the benefits that can accrue to the local community;
 
@@ -973,65 +1003,65 @@ Potential  niche  markets  for  agricultural  exports  exist  but  supplying  th
 
 The policy objectives for private sector development and employment creation are grouped around:
 
-- Lowering costs of doing business;
+1. Lowering costs of doing business;
 
-- Improving access to rural financial services - saving and credit;
+2. Improving access to rural financial services – saving and credit;
 
-- Facilitating long-term secure access to land;
+3. Facilitating long-term secure access to land;
 
-- Providing better support services to business;
+4. Providing better support services to business;
 
-- Ensuring a conducive environment for increased commodity exports.
+5. Ensuring a conducive environment for increased commodity exports.
 
 ### 3.4 Priorities and Strategies
 
 Priorities are based on the above Policy Objectives. These are to:
 
-- Lower costs of doing business through;
+1. Lower costs of doing business through;
 
-- Effective oversight and regulation of utilities (covered in chapter 9);
+a. Effective oversight and regulation of utilities (covered in chapter 9);
 
-- Improved public service productivity to reduce delays (covered in chapter 5);
+b. Improved public service productivity to reduce delays (covered in chapter 5);
 
-- Promoting  more  competitive  domestic  markets  and  exports  by  reviewing  and expanding the existing tax base to make it more attractive to investment, including an Export Incentive Scheme;
+c. Promoting more competitive domestic markets and exports by reviewing and expanding the existing tax base to make it more attractive to investment, including an Export Incentive Scheme;
 
-- Better transport services and infrastructure (covered in chapter 9);
+d. Better transport services and infrastructure (covered in chapter 9);
 
-- Improving access to rural financial services - saving and credit - through;
+2. Improving access to rural financial services – saving and credit - through;
 
-- Developing micro-credit schemes further;
+a. Developing micro-credit schemes further;
 
-- Implementing the registration of movable assets as collateral;
+b. Implementing the registration of movable assets as collateral;
 
-- Facilitating long-term secure access to land through;
+3. Facilitating long-term secure access to land through;
 
-- Reviewing and updating legislation on leasing of land to provide greater guarantee and security to investment in land-based projects;
+a. Reviewing and updating legislation on leasing of land to provide greater guarantee and security to investment in land-based projects;
 
-- Providing better support services to business through;
+4. Providing better support services to business through;
 
-- Support  to  the  Chamber  of  Commerce,  ni-Vanuatu  Business  Centre  and  NGOs  in providing support services to small and micro enterprises including encouraging the development of small scale niche market activities in the rural areas;
+a. Support to the Chamber of Commerce, ni-Vanuatu Business Centre and NGOs in providing support services to small and micro enterprises including encouraging the development of small scale niche market activities in the rural areas;
 
-- Improved  marketing  of  Vanuatu  investment  opportunities  and  products  including tourism;
+b. Improved marketing of Vanuatu investment opportunities and products including tourism;
 
-- Reducing administrative barriers to Foreign Direct Investment.
+c. Reducing administrative barriers to Foreign Direct Investment.
 
-- Ensuring a conducive environment for increased commodity exports through;
+6. Ensuring a conducive environment for increased commodity exports through;
 
-- Clarifying the role of the private sector in commodity trading by reviewing the role of the VCMB;
+a. Clarifying the role of the private sector in commodity trading by reviewing the role of the VCMB;
 
-- Maintaining and improving quarantine and other trade facilitation services.
+b. Maintaining and improving quarantine and other trade facilitation services.
 
-- Specific priorities and strategies to improve tourism are contained in the Tourism Master Plan and include:
+7. Specific priorities and strategies to improve tourism are contained in the Tourism Master Plan and include:
 
-- Increased tourist arrivals through better marketing and improved air links;
+a. Increased tourist arrivals through better marketing and improved air links;
 
-- Increased tourism facilities and product range in both rural and urban centres;
+b. Increased tourism facilities and product range in both rural and urban centres;
 
-- Promoting and improving tourism development in the outer islands;
+c. Promoting and improving tourism development in the outer islands;
 
-- Targeting high income tourists and niche tourist markets;
+d. Targeting high income tourists and niche tourist markets;
 
-- Improved  quality  of  tourism  services  through  accreditation,  and  awareness  and training programs.
+e. Improved quality of tourism services through accreditation, and awareness and training programs.
 
 17
 
@@ -1047,15 +1077,15 @@ The impact of policy implementation can be measured by the following indicators:
 
 - Growth in visitor arrivals, cruise ship arrivals and tourist expenditure;
 
-- Commodity exports;
-
 - Manufactured output and exports;
+
+- Commodity exports;
 
 - Levels of foreign direct investment;
 
-- Level of credit to private sector borrowers through the commercial banking system, including growth in micro-credit; and
-
 - Numbers of active employee accounts at VPF;
+
+- Level of credit to private sector borrowers through the commercial banking system, including growth in micro-credit; and
 
 - Contribution of the private sector to GDP.
 
@@ -1179,15 +1209,15 @@ Performance indicators for the priorities and strategies and policy objectives a
 
 - Economic growth;
 
-- Inflation rate;
-
 - Poverty indicators;
+
+- Inflation rate;
 
 - Real exchange rate;
 
-- Budget outcomes (recurrent and overall deficit, revenue and expenditure ratios to GDP);
-
 - Months of import cover;
+
+- Budget outcomes (recurrent and overall deficit, revenue and expenditure ratios to GDP);
 
 - Public debt levels and ratio to GDP;
 
@@ -1411,7 +1441,7 @@ The  lack  of  research  into  agricultural crops  is  an  issue.    However  re
 
 There  is also no  effective  extension service.  Lack of effective dissemination of  information  to  farmers  is  therefore  a problem. This includes livestock information e.g. on pig and poultry feed, and lack of access to knowledge about improved varieties resulting from research.
 
-The  potential  for  agricultural  expansion is great. Vanuatu  has favourable climatic  conditions  for  a  variety  of  high value  crops  and  livestock,  an  absence of  most  economically  significant  pests
+The potential for agricultural expansion is great. Vanuatu has favourable climatic conditions for a variety of high value crops and livestock, an absence of most economically significant pests and diseases, and a 'natural' environment for producing organically grown food products. There is also good potential for organically grown cocoa, coffee and kava.
 
 Figure 6.1: Agricultural Priorities
 
@@ -1439,17 +1469,15 @@ Improved marketing through:
 
 - Identification of markets in collaboration with private sector.
 
-and diseases, and a 'natural' environment for producing organically grown food products.  There is also good potential for organically grown cocoa, coffee and kava.
-
 ##### 6.1.2.2  Livestock
 
-Vanuatu  has  one  of  the  most  conducive  environments  in  the  world  for  raising  beef  cattle. Domestically  the  production  of  beef,  pork,  poultry  and  sheep/goat  for  local  consumption  forms  an
+Vanuatu has one of the most conducive environments in the world for raising beef cattle. Domestically the production of beef, pork, poultry and sheep/goat for local consumption forms an essential part of the rural economy. Any improvement in the capacity of farmers and their communities to produce, process and sell these animals and products would have a positive effect upon rural farmers incomes, and offer opportunities to promote rural enterprises such as butcheries. Improvements in domestic livestock production and processing would also improve the level of food security and safety in rural communities, while promoting the substitution of local meat for imported products.
 
-essential part of the rural economy.  Any improvement in the  capacity  of  farmers and their communities to produce, process and  sell these animals and products  would  have  a  positive  effect upon  rural  farmers  incomes,  and  offer opportunities to promote rural enterprises such as butcheries. Improvements in domestic livestock production  and  processing  would  also improve  the  level  of  food  security  and safety in rural communities, while promoting the substitution of local meat for imported products.
+Although beef exports have increased in recent years there remain many capacity issues hindering such growth. Cattle production is limited by poor transport, a lack of credit for rural farmers, and limited government extension programs. Processing for export is hindered by high utility and freight costs compounded by the relatively small-scale level of processing throughput. Vanuatu's ability to gain access for its beef to potential high-value markets such as the European Union is hindered by limited government and industry capacity to meet overseas import requirements. Improving the returns for export beef by selling to higher value markets, and improving the economics of processing through improved cattle production and increased processing throughput, would have a significant positive affect upon export revenues, and encourage further positive growth within the cattle industry.
 
-Although beef exports have increased in recent years there remain many capacity  issues  hindering  such  growth. Cattle production is limited by poor transport, a lack of credit for rural farmers, and limited government extension programs. Processing for export  is  hindered  by  high  utility  and freight costs compounded by the relatively small-scale level of processing throughput.    Vanuatu's  ability  to  gain access  for  its  beef  to  potential  high-
+Figure 6.2: Livestock Priorities
 
-Figure 6.2: Livestock Priorities Increased exports through:
+Increased exports through:
 
 - Improved DLQ capacity of to meet overseas country requirements;
 
@@ -1479,8 +1507,6 @@ Expand other livestock through:
 
 - Development of locally produced feed rations for poultry and pigs.
 
-value markets such as the European Union is hindered by limited government and industry capacity to  meet  overseas  import  requirements.    Improving  the  returns  for  export  beef  by  selling  to  higher value markets, and improving the economics of processing through improved cattle production and increased processing throughput, would have a significant positive affect upon export revenues, and encourage further positive growth within the cattle industry.
-
 27
 
 Priorities and Action Agenda for Vanuatu 2006 - 2015 'An Educated, Healthy and Wealthy Vanuatu'
@@ -1505,11 +1531,11 @@ Past efforts at raising rural income from fishing has had mixed success.  Lack o
 
 Access  rights  to  near  shore  and  reef fisheries  are  complicated  by  traditional land and reef ownership arrangements. Moreover, Provinces have little capacity for the management of coastal fisheries, which  is  their  responsibility.    Therefore there is irregular enforcement of regulations by the provinces.
 
-Greater  emphasis  should  be  placed  on the management of coastal fisheries on which the majority of the rural population rely to some extent and which can make a  greater  contribution  to  rural  incomes, nutrition and self-reliance than the commercial fishing sector. Comanagement with local communities through fishery  wardens and  the like  is essential for the sustainable management  and  conservation  of  the resources and the maintenance of biodiversity, particularly for over exploited and endangered species. There is a need for capacity building for education, awareness building, monitoring  and  reporting  to  allow  them to meet their obligations.  NGOs should be encouraged to take over some of the responsibilities for promoting the conservation and sustainable exploitation of the resources and to build capacity in the custodial communities.
+Greater emphasis should be placed on the management of coastal fisheries on which the majority of the rural population rely to some extent and which can make a greater contribution to rural incomes, nutrition and self-reliance than the commercial fishing sector. Co-management with local communities through fishery wardens and the like is essential for the sustainable management and conservation of the resources and the maintenance of biodiversity, particularly for over exploited and endangered species. There is a need for capacity building for education, awareness building, monitoring and reporting to allow them to meet their obligations. NGOs should be encouraged to take over some of the responsibilities for promoting the conservation and sustainable exploitation of the resources and to build capacity in the custodial communities.
 
-Poor institutional capacity of the
+Figure 6.3: Marine Priorities
 
-Figure 6.3: Marine Priorities Improved fisheries management through:
+Improved fisheries management through:
 
 - Preparing a sector strategy;
 
@@ -1517,19 +1543,19 @@ Figure 6.3: Marine Priorities Improved fisheries management through:
 
 - Revision of fisheries legislation;
 
-- Institutional  capacity  building  within  the  fisheries Department;
+- Institutional capacity building within the fisheries Department;
 
 - Strengthening Provincial capacity for coastal fishery management.
 
 Sustainable coastal and reef management through:
 
-- Mobilising  communities  to  manage  their  coastal and reef fishery resources;
+- Mobilising communities to manage their coastal and reef fishery resources;
 
 - Facilitating the marketing of reef fish;
 
 - Improving stakeholder involvement in the sector;
 
-- Mobilising  local  communities  to  arrange  their  own fish aggregating devices;
+- Mobilising local communities to arrange their own fish aggregating devices;
 
 - Assessment of the sustainable management of the live reef fish trade.
 
@@ -1537,13 +1563,15 @@ Sustainable offshore management through
 
 - Effective monitoring of catches and enforcement of Total Allowable Catch limits;
 
-- Maximising  the  resource  rental  from  the  oceanic tuna;
+- Maximising the resource rental from the oceanic tuna;
 
 - Promoting local investment in value-adding activities and fish exports.
 
 Expand employment of seafarers through:
 
 - Seafarer training.
+
+Poor institutional capacity of the
 
 28
 
@@ -1631,15 +1659,15 @@ Performance in achieving the policy objectives will be monitored using the follo
 
 - Income growth as measured by 5 yearly Household Income and Expenditure Surveys;
 
-- Share of the sector and sub-sectors in GDP;
-
 - Output growth in agriculture, livestock, fisheries including subsistence;
+
+- Share of the sector and sub-sectors in GDP;
 
 - Export growth of primary production products;
 
-- Government and donor resource allocations for the sector.
-
 - Development of sector strategies;
+
+- Government and donor resource allocations for the sector.
 
 ### 6.2 Environment and Disaster Management
 
@@ -1657,7 +1685,7 @@ Modern  legislation has been introduced for environmental management.  The  Envi
 
 Vanuatu's biodiversity  is  threatened  by  a  number  of  introduced  species  of  plants  and  animals  and over harvesting of some reef and lagoon fish.  However, quarantine protocols have been developed to prevent  the  import  of  weeds,  pests  and  diseases.    As  a  result,  Vanuatu  is  largely  free  of  animal diseases and parasites, which has allowed the cattle industry to flourish.
 
-With  Vanuatu's  population  growing  at  2.6%  per  year  and  urban  areas  growing  faster,  there  is increasing  pressure  on  both  urban  infrastructure  and  the  environment  in  Port  Vila  and  Luganville. Water  pollution  in  Port  Vila  harbour  and  the  lagoons  is  serious.    The  probable  cause  of  the  high pollution  is  the  lack  of  a  sewerage  system  and  poor  management  of  many  individual  septic  tank systems.  The urban environment of Port Vila is particularly  important  for  sustaining  the  growth  of tourism.    A  new  Port  Vila  development  plan  would  assist  in  defining  how  public  amenity  can  be maintained or improved and the attractiveness of the town enhanced for both residents and tourists.
+With Vanuatu's population growing at 2.6% per year and urban areas growing faster, there is increasing pressure on both urban infrastructure and the environment in Port Vila and Luganville. Water pollution in Port Vila harbour and the lagoons is serious. The probable cause of the high pollution is the lack of a sewerage system and poor management of many individual septic tank systems. The urban environment of Port Vila is particularly important for sustaining the growth of
 
 30
 
@@ -1665,7 +1693,9 @@ With  Vanuatu's  population  growing  at  2.6%  per  year  and  urban  areas  gr
 
 [[START OF PAGE 37]]
 
-The  safe  disposal  of  solid  waste  is  a  significant  problem  for  many  communities.    Assessing  solid waste disposal issues is a moderately high priority for many islands.
+tourism. A new Port Vila development plan would assist in defining how public amenity can be maintained or improved and the attractiveness of the town enhanced for both residents and tourists.
+
+The safe disposal of solid waste is a significant problem for many communities. Assessing solid waste disposal issues is a moderately high priority for many islands.
 
 The effects of global warming on climate are hard to predict, but it is likely that storms will become more severe and that climatic zones will shift, affecting rainfall patterns and drought.  Sea level rise would have an impact in the future especially as many roads and settlements are close to the coast.
 
@@ -1743,13 +1773,15 @@ Prevalence of underweight children under 5 years of age | 23% (1983) | 12% (1996
 
 Malaria continues to be a major disease threat despite programs to increase access to treated bed nets.
 
-Malnutrition  is  also  a  concern,  and  has  a  serious  impact  on  the  ability  of  children  to  achieve educational standards.  The most readily available data  on malnutrition are from the MOH (1996), which concluded that 12% of children were underweight (low weight for age) and 20% stunted (low height  for  age)  with  6%  showing  wasting  (low  weight  for  height).  The  total  proportion  showing (possible) nutritional problems was in the order of 25% - a high level.
+Malnutrition is also a concern, and has a serious impact on the ability of children to achieve educational standards. The most readily available data on malnutrition are from the MOH (1996), which concluded that 12% of children were underweight (low weight for age) and 20% stunted (low
 
 32
 
 [[END OF PAGE 38]]
 
 [[START OF PAGE 39]]
+
+height for age) with 6% showing wasting (low weight for height). The total proportion showing (possible) nutritional problems was in the order of 25% - a high level.
 
 The general health situation in Vanuatu is in a period of transition, with communicable diseases still accounting for a large proportion of illness and death but with a rising incidence of non-communicable diseases (NCDs), or 'life-style' diseases.
 
@@ -1829,15 +1861,15 @@ The  Ministry  of  Health  Master  Services  Plan  contains  strategies  and  ta
 
 - Infant/child mortality;
 
-- births attended;
-
 - maternal mortality;
+
+- births attended;
 
 - immunization coverage;
 
-- malaria, TB, NCD incidence;
-
 - contraceptive prevalence rate;
+
+- malaria, TB, NCD incidence;
 
 - availability of timely and accurate health statistics.
 
@@ -1845,7 +1877,7 @@ Many of these indicators are also contained in the Millennium Development Goals 
 
 Figure 7.2: Millennium Development Goals for Health
 
-- Reduce by two-thirds, between 1990 and 2015, the underfive mortality rate
+- Reduce by two-thirds, between 1990 and 2015, the under-five mortality rate
 
 - Reduce  by  three-quarters,  between  1990  and  2015,  the maternal mortality rate
 
@@ -1869,11 +1901,9 @@ It is however important also that progress and development is managed such that 
 
 #### 7.3.1  Key Issues and Challenges
 
-Both health and education are important aspects of human development. Eliminating gender disparity at  all  levels  of  education  would  help  to  increase  the  status  and  capabilities  of  women.  Female education is also an important determinant of economic development.  Focussing on women's health
+Both health and education are important aspects of human development. Eliminating gender disparity at all levels of education would help to increase the status and capabilities of women. Female education is also an important determinant of economic development. Focussing on women's health not only helps women but also helps to improve the health of the whole family. Health issues are covered earlier in this chapter.
 
-not only helps women but also helps to improve  the  health  of the whole family. Health issues are covered  earlier  in  this chapter.
-
-The MDG goal for gender and equality is to 'Eliminate gender disparity in primary and secondary education, preferably by 2005, and  in all levels of education no later  than  2015'.  The male-female differential in education has been
+The MDG goal for gender and equality is to 'Eliminate gender disparity in primary and secondary education, preferably by 2005, and in all levels of education no later than 2015'. The male-female differential in education has been closing very rapidly. The ratio of girls to boys in primary was 88% in 1991 rising to 92% in 2002 with much better progress in secondary education (see Figure 7.3). However, significantly fewer women attend tertiary education than men. In 2003 for every 100 men enrolled in University of the South Pacific (USP) enrolments either on campus (Fiji Islands, Samoa and Vanuatu) or through the in country USP centres there were only 60 women. In 1999 there were 50 women (115) for every 100 men (232) awarded scholarships for study through the Ministry of Education (see Figure 7.3).
 
 Figure 7.3: Indicators for Gender and Development
 --- | --- | ---
@@ -1884,8 +1914,6 @@ Ratio of women to men receiving tertiary scholarships | 50 (1999)
 Share of women in wage employment in the non-agricultural sector | 23% (1989) | 40% (1999)
 Proportion of seats held by women in national parliament | 2% (2002) 1 female 52 total | 4% (2004) 2 females 52 total
 Proportion of departments or ministries headed by women | 18% (2003) 56 positions 10 female heads
-
-closing very rapidly.  The ratio of girls to boys in primary was 88% in 1991 rising to 92% in 2002 with much better progress in secondary education (see Figure 7.3). However, significantly fewer women attend  tertiary  education  than  men.  In  2003  for  every  100  men  enrolled  in  University  of  the  South Pacific  (USP)  enrolments  either  on  campus  (Fiji  Islands,  Samoa  and  Vanuatu)  or  through  the  in country USP centres there were only 60 women. In 1999 there were 50 women (115) for every 100 men (232) awarded scholarships for study through the Ministry of Education (see Figure 7.3).
 
 The  share  of  women  in  wage  employment  in  the  non-agricultural  sector  measures  the  degree  to which labour markets are open to women in industry and service sectors, which not only affects equal employment  opportunity  for  women  but  also  economic  efficiency  through  flexibility  of  the  labour market and therefore the economy's ability to adapt to change.
 
@@ -1923,9 +1951,9 @@ The main priorities are to:
 
 - The share of women in wage employment in the non-agricultural sector;
 
-- Proportion of departments or ministries headed by women;
-
 - Proportion of seats held by women in national parliament;
+
+- Proportion of departments or ministries headed by women;
 
 - Percentage of women on Boards and other Government committees.
 
@@ -1955,7 +1983,7 @@ The education system aims to empower future generations to become self reliant i
 
 In the medium term, the education sector is concentrating on the Millennium Development Goals of achieving universal primary education, gender equality in education, and education which contributes to the alleviation of poverty.
 
-The  environment  in  which  these  goals  must  be  achieved  is  unique,  including  more  than  105 vernaculars, two official languages and one national language; schools scattered over more than 60 islands;  a  high  rate  of  population  growth,  and  rapid  urban  drift.    The  growing  population  (and increasing enrolment and retention rates) puts considerable pressure on the education system and places  increasing  demands  on  the  national  budget.    In  addition  there  is  growing  support  for recognising  traditional  skills  and  valuing  custom  and  culture  as  part  of  the  Vanuatu  National  SelfReliance Strategy.  The Ministry is currently embarking on a major restructure to decentralise school administration and support to the provincial level, strengthen planning, monitoring and auditing at the national level, and consult school communities and stakeholders as part of planning for an Education Sector Wide Approach (SWAp) to strengthen the system.
+The environment in which these goals must be achieved is unique, including more than 105 vernaculars, two official languages and one national language; schools scattered over more than 60 islands; a high rate of population growth, and rapid urban drift. The growing population (and increasing enrolment and retention rates) puts considerable pressure on the education system and places increasing demands on the national budget. In addition there is growing support for recognising traditional skills and valuing custom and culture as part of the Vanuatu National Self-Reliance Strategy. The Ministry is currently embarking on a major restructure to decentralise school administration and support to the provincial level, strengthen planning, monitoring and auditing at the national level, and consult school communities and stakeholders as part of planning for an Education Sector Wide Approach (SWAp) to strengthen the system.
 
 In 2004 some 39,000 students were enrolled and completed primary school, up by 11% since 2000. Junior and senior secondary enrolments have also increased with 10,600 students enrolled in 2004. Student teacher ratios in the 441 primary schools was 20:1, while in the 74 secondary schools the ratio  was  15:1.  Progress  towards  universal  Primary  Education  has  been  slower  than  hoped  for. However, figures from the population censuses show that, in 1999, 78% of children in the 6 to 12 year age  group  were  attending  primary  school.  This  compares  with  74%  in  1989.    No  significant differences  in  the  enrolment  of  boys  and  girls  was  recorded  but  girls  are  an  increasingly  smaller percentage higher up the education system.
 
@@ -2079,7 +2107,7 @@ Over  the  last  two  decades  the  Vanuatu  Meteorological  Service  has  suffe
 
 Less  than  20%  of  the  total  households  enumerated  in  the  1999  National  Census  reported  having access  to  electricity.    The  remaining  households  indicated  other  sources  of  light  such  as  gas, kerosene, wood, etc.  The information suggested that excluding the two municipality areas, Lakatoro, Lenakel and other privately operated sources of power supply, more than 80% of the population of the country living in rural areas do not have access to electricity and are still using traditional means for their sources of light.
 
-The Port Vila and Luganville municipal electricity networks are operated and maintained by UNELCO through concession contracts that  extend to 2031 and 2010, respectively. There are presently just under  5,000  customers  on  the  Port  Vila  network  and  nearly  1,000  customers  on  the  Luganville network.    The  Public  Works  Department  had,  until  recently,  the  responsibility  for  operations  of  the provincial town electricity supplies at Luganville, Isangel on Tanna and Norsup/Lakatoro on Malekula but these are now operated and maintained by UNELCO.  Power to Luganville is largely supplied by the Sarakata hydro-electric scheme funded by the Japanese in 1994.  Consumers in Luganville pay similar prices as in Port Vila where electricity is exclusively provided by diesel generators.  Savings on fuel  costs  from  the hydro-generation have been used to extend the electricity reticulation on Santo and used to provide solar powered systems in rural villages.  There is a need for enhanced oversight of the Sarakata 'Fund' to improve transparency.
+The Port Vila and Luganville municipal electricity networks are operated and maintained by UNELCO through concession contracts that extend to 2031 and 2010, respectively. There are presently just under 5,000 customers on the Port Vila network and nearly 1,000 customers on the Luganville network. The Public Works Department had, until recently, the responsibility for operations of the provincial town electricity supplies at Luganville, Isangel on Tanna and Norsup/Lakatoro on Malekula but these are now operated and maintained by UNELCO. Power to Luganville is largely supplied by
 
 40
 
@@ -2087,7 +2115,9 @@ The Port Vila and Luganville municipal electricity networks are operated and mai
 
 [[START OF PAGE 47]]
 
-Government, through its Energy Unit of the Ministry of Land and National Resources, undertakes the electrification of the smaller village communities.  Around 500 solar powered systems are operating for  rural  health  clinics,  schools  and  private  homes.    These  systems  were  financed  through  the Sarakata Fund and through donor assistance but are maintained by the Energy Unit.  The Energy Unit is also involved in the identification of other means of electricity generation and is promoting a number of mini hydro schemes as well as geothermal power for Efate and other Islands.
+the Sarakata hydro-electric scheme funded by the Japanese in 1994. Consumers in Luganville pay similar prices as in Port Vila where electricity is exclusively provided by diesel generators. Savings on fuel costs from the hydro-generation have been used to extend the electricity reticulation on Santo and used to provide solar powered systems in rural villages. There is a need for enhanced oversight of the Sarakata 'Fund' to improve transparency.
+
+Government, through its Energy Unit of the Ministry of Land and National Resources, undertakes the electrification of the smaller village communities. Around 500 solar powered systems are operating for rural health clinics, schools and private homes. These systems were financed through the Sarakata Fund and through donor assistance but are maintained by the Energy Unit. The Energy Unit is also involved in the identification of other means of electricity generation and is promoting a number of mini hydro schemes as well as geothermal power for Efate and other Islands.
 
 #### 9.1.3  Telecommunications
 
@@ -2111,7 +2141,7 @@ As with all infrastructure the maintenance of aviation assets is a critical issu
 
 The Public Works Department has a National Road Inventory with a recorded 1,766km that is the responsibility of PWD and 225km that is the responsibility of provincial Government. The condition of the road network is poor due to inadequate funds and machinery for maintenance.
 
-Limited institutional capacity in terms of staffing, budget and machinery at both national and provincial level  has  hindered  planning  and  the  development  and  maintenance  of  the  road  network.  The  new program for roads and infrastructure being developed under the Millennium Challenge Account will have a major impact on the nation's road network.  This will add considerably to the importance of developing a sound and adequately resourced road-asset maintenance program.
+Limited institutional capacity in terms of staffing, budget and machinery at both national and provincial level has hindered planning and the development and maintenance of the road network. The new
 
 41
 
@@ -2121,7 +2151,9 @@ Priorities and Action Agenda for Vanuatu 2006 - 2015 'An Educated, Healthy and W
 
 [[START OF PAGE 48]]
 
-The proposal to establish a Land Transport Authority within the Ministry of Internal Affairs to regulate licensing  and  safety  is  under  active  consideration  by  Government.    The  proposal  to  establish  a transport  Planning  Committee  within  the  Ministry  of  Infrastructure  and  Public  utilities  is  also  under active consideration by the Government.
+program for roads and infrastructure being developed under the Millennium Challenge Account will have a major impact on the nation's road network. This will add considerably to the importance of developing a sound and adequately resourced road-asset maintenance program.
+
+The proposal to establish a Land Transport Authority within the Ministry of Internal Affairs to regulate licensing and safety is under active consideration by Government. The proposal to establish a transport Planning Committee within the Ministry of Infrastructure and Public utilities is also under active consideration by the Government.
 
 ##### 9.1.4.3  Marine Transport
 
@@ -2131,10 +2163,6 @@ There  is  a  total  of  22  public  ports  and wharves  in  Vanuatu  though  th
 
 Safety  at  sea  has  been  a  concern  and considerable efforts have been undertaken to ensure that Vanuatu ports and shipping safety standards are compliant  with  international  standards. In  2004  a  port  security  plan  and  port security  regulations  were  introduced  to improve management, safety standards and enforcement in the maritime industry  and  to  conform  with  the  new International Ships and Port Facility Security Code (ISPS).
 
-#### 9.1.5  Water Supply
-
-The  Port  Vila  water  supply  system  is owned  by  the  state  but  operated  by UNELCO  under  a  concession  contract
-
 Figure 9.1: Institutional Structure for Marine Transport
 
 - Ports and Harbours Department - responsible for operation and management of the main ports at Port Vila and Luganville.
@@ -2143,11 +2171,13 @@ Figure 9.1: Institutional Structure for Marine Transport
 
 - Vanuatu Maritime Training School - situated in Santo provides training for fishermen and local and international seafarers.
 
-- Shipping Industry - which until 1999 was essentially restricted to Ni-Vanuatu operators and now includes around 120 ships (up from about 67 in 1999) capable of inter-island transport as well as an informal sector of smaller boats.  This number has increased as the Government has recently introduced two additional vessels donated by the Government of the Peoples Republic of China.
+- Shipping Industry - which until 1999 was essentially restricted to Ni-Vanuatu operators and now includes around 120 ships (up from about 67 in 1999) capable of inter-island transport as well as an informal sector of smaller boats. This number has increased as the Government has recently introduced two additional vessels donated by the Government of the Peoples Republic of China.
 
 - Provincial Government - responsible for operation and management of designated ports.
 
-that runs to 2032.  Water supply systems in Luganville, Lakatoro and Isangel are government owned and operated by PWD.  Government, through the water section of the Department of Geology and Mines, as well as NGOs, assist with the development of village water supply systems. This assistance includes the provision of training to village dwellers to maintain their own water systems, although this has met with limited success.
+#### 9.1.5  Water Supply
+
+The Port Vila water supply system is owned by the state but operated by UNELCO under a concession contract that runs to 2032. Water supply systems in Luganville, Lakatoro and Isangel are government owned and operated by PWD. Government, through the water section of the Department of Geology and Mines, as well as NGOs, assist with the development of village water supply systems. This assistance includes the provision of training to village dwellers to maintain their own water systems, although this has met with limited success.
 
 Approximately 80% of the population have access to improved water services (reticulated supply and rainwater  catchment  tanks)  and  over  80%  of  the  population  have  access  to  improved  sanitation (reticulated and non-reticulated solutions such as improved pit latrines).  The MDG goal for water and sanitation is to 'Halve, by 2015, the proportion of people without sustainable access to safe drinking water and basic sanitation.'
 
@@ -2275,9 +2305,9 @@ Performance of the sector in meeting its objectives and delivering on the priori
 
 - Land transport : kms of new roads constructed; kms of roads maintained; bio-fuel use
 
-- Marine transport : safety record; level of subsidies; port and handling charges
-
 - Meteorological : accuracy of forewarning.
+
+- Marine transport : safety record; level of subsidies; port and handling charges
 
 - Power: average price measure; power consumption; access of population to electricity.
 
@@ -2285,9 +2315,9 @@ Performance of the sector in meeting its objectives and delivering on the priori
 
 - Water: average price measure; water consumption; access of population to improved water supplies (MDG).
 
+Priorities and Action Agenda for Vanuatu 2006 – 2015
+“An Educated, Healthy and Wealthy Vanuatu”
 45
-
-Priorities and Action Agenda for Vanuatu 2006 - 2015 'An Educated, Healthy and Wealthy Vanuatu'
 
 [[END OF PAGE 51]]
 
@@ -2300,7 +2330,7 @@ Item | 2000 | 2004
 1. Economic growth
 GDP growth rate in real terms (annual percentage) | 2.7 | 3.7
 GDP growth rate in nominal terms (annual percentage) | 3.9 | 5.2
-Consumer prices - rate of change (annual percentage) | 2.5 | 0.8
+Consumer prices – rate of change (annual percentage) | 2.5 | 0.8
 2. Personal incomes
 Income per person in purchasing power terms (Vatu - 1983 prices) | 78,713 | 79,683
 3. External debt
@@ -2319,36 +2349,38 @@ Data for 2004 is estimated.
 
 [[START OF PAGE 53]]
 
+## Appendix 2: Key Social Indicators
+
 Item | 1989 | 1999 | 2004
 --- | --- | --- | ---
 1. Demographic Indicators
 Total Population | 142,419 | 186,678 | 212,000
 Annual Population Growth Rate (% change) | 2.6% | 2.6% | 2.6%
-Dependency Ratio (% of dependents to working age) | 91.4 | N/A
+Dependency Ratio (% of dependents to working age) |  | 91.4 | N/A
 Total Fertility Rate (births per woman) | 5.3 | 4.8 | N/A
 Ave. Household Size | 5.1% | 5.1% | N/A
 2. Health
 Life Expectancy at Birth (years)
-Male | 65.6 | 65.6
-Female | 69.0 | 69.0
+Male |  | 65.6 | 65.6
+Female |  | 69.0 | 69.0
 Population with Access to Health Services (%) | N/A | N/A | N/A
 Urban | N/A | N/A | N/A
 Rural | N/A | N/A | N/A
 Population per Doctor | N/A | N/A | N/A
-Government Expenditure on Health (million vatu) | 872 | 942
-As % of Total Government Spending | 15.4 | 14.1
-As % of GDP | 2.7 | 2.7
+Government Expenditure on Health (million vatu) |  | 872 | 942
+As % of Total Government Spending |  | 15.4 | 14.1
+As % of GDP |  | 2.7 | 2.7
 3. Education
-Adult Literacy Rate (%) | 66.0 | 66.0
+Adult Literacy Rate (%) |  | 66.0 | 66.0
 Male | N/A | N/A | N/A
 Female | N/A | N/A | N/A
 Combined School Enrolment Ratio
 Male | N/A | 1:2 | 1:07
 Female | N/A | 1 | 1
-Primary Enrolment | 38,960
+Primary Enrolment |  |  | 38,960
 Male | N/A | 18004 | 20349
 Female | N/A | 16329 | 18611
-Secondary enrolment: | 10591
+Secondary enrolment: |  |  | 10591
 Junior enrolment: Male | N/A | 1955 | 4539
 Female | N/A | 1886 | 4418
 Senior enrolment: Male | N/A | 1996 | 826
@@ -2360,11 +2392,10 @@ Government Expenditure on Education (million vatu) | N/A | 1,789 | 1,922
 As % of Total Government Spending | N/A | 31.7 | 28.8
 As % of GDP | N/A | 5.5 | 5.4
 
-## Appendix 2: Key Social Indicators
-
 Note: N/A stands for not available
 
-Priorities and Action Agenda for Vanuatu 2006 - 2015 An 'Educated, Healthy and Wealthy Vanuatu'
+Priorities and Action Agenda for Vanuatu 2006 – 2015
+An “Educated, Healthy and Wealthy Vanuatu”
 
 47
 
