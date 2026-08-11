@@ -96,27 +96,27 @@ ADOPTONS  SOLENNELLEMENT  LA  PRESENTE  CONSTITUTION    QUI  EST  LA LOI FONDAME
 
 #### Article 1
 
+Le Burundi est une République indépendante, souveraine, laïque, démocratique, unitaire et respectant sa diversité ethnique et religieuse.
+
 #### Article 2
-
-#### Article 3
-
-#### Article 4
-
-#### Article 5
-
-#### Article 6
-
-Le Burundi est une République indépendante, souveraine, laïque, démocratique,  unitaire  et respectant  sa diversité ethnique  et religieuse.
 
 Le territoire national du Burundi est inaliénable et indivisible.
 
-Le  Burundi  est  subdivisé  en  provinces,  communes,  zones  et collines,  et  toutes  autres  subdivisions  prévues  par  la  loi.  Leurs organisation et  fonctionnement sont fixés par la loi.  Elle  peut  en modifier les limites et le nombre.
+#### Article 3
 
-Le statut et le rétablissement de la monarchie peuvent faire l'objet du référendum.  Tout parti militant pacifiquement en faveur de la restauration de la monarchie a le droit de fonctionner.
+Le Burundi est subdivisé en provinces, communes, zones et collines, et toutes autres subdivisions prévues par la loi. Leurs organisation et fonctionnement sont fixés par la loi. Elle peut en modifier les limites et le nombre.
 
-La  langue  nationale  est  le  Kirundi.  Les  langues  officielles  sont  le Kirundi et toutes autres langues déterminées par la loi.
+#### Article 4
 
-Tous  les  textes  législatifs  doivent  avoir  leur  version  originale  en Kirundi.
+Le statut et le rétablissement de la monarchie peuvent faire l'objet du référendum. Tout parti militant pacifiquement en faveur de la restauration de la monarchie a le droit de fonctionner.
+
+#### Article 5
+
+La langue nationale est le Kirundi. Les langues officielles sont le Kirundi et toutes autres langues déterminées par la loi.
+
+Tous les textes législatifs doivent avoir leur version originale en Kirundi.
+
+#### Article 6
 
 Le principe de la République du Burundi est le Gouvernement du peuple, par le peuple et pour le peuple.
 
@@ -128,27 +128,27 @@ Le principe de la République du Burundi est le Gouvernement du peuple, par le p
 
 #### Article 7
 
+La souveraineté nationale appartient au peuple qui l'exerce, soit directement par la voie du référendum, soit indirectement par ses représentants.
+
+Aucune partie du peuple, aucun individu ne peut s'en attribuer l'exercice.
+
 #### Article 8
-
-#### Article 9
-
-#### Article 10
-
-#### Article 11
-
-La  souveraineté  nationale  appartient  au  peuple  qui  l'exerce,  soit directement par la voie du référendum, soit indirectement par ses représentants .
-
-Aucune  partie  du  peuple,  aucun  individu  ne  peut  s'en  attribuer l'exercice .
 
 Le suffrage est universel, égal, secret, libre et transparent. Il peut être direct ou indirect dans les conditions prévues par la loi.
 
-Sont  électeurs, dans  les conditions déterminées  par  le  code électoral,  tous  les  burundais  âgés  de  dix-huit  ans  révolus  et jouissant de leurs droits civils et politiques .
+Sont électeurs, dans les conditions déterminées par le code électoral, tous les burundais âgés de dix-huit ans révolus et jouissant de leurs droits civils et politiques.
 
-La  capitale  du  Burundi  est  fixée  à  Bujumbura.  La  loi  peut  la transférer en tout autre lieu de la République.
+#### Article 9
 
-Le drapeau du Burundi est tricolore : vert, blanc et rouge. Il a la forme  d'un  rectangle  partagé  par  un  sautoir,  comportant  en  son centre  un  disque  blanc  frappé  de  trois  étoiles  rouges  à  six branches qui forment un triangle équilatéral fictif inscrit dans un cercle fictif ayant le même centre que le disque et dont la base est parallèle à la longueur du drapeau.
+La capitale du Burundi est fixée à Bujumbura. La loi peut la transférer en tout autre lieu de la République.
+
+#### Article 10
+
+Le drapeau du Burundi est tricolore : vert, blanc et rouge. Il a la forme d'un rectangle partagé par un sautoir, comportant en son centre un disque blanc frappé de trois étoiles rouges à six branches qui forment un triangle équilatéral fictif inscrit dans un cercle fictif ayant le même centre que le disque et dont la base est parallèle à la longueur du drapeau.
 
 La loi précise les dimensions et les autres détails du drapeau.
+
+#### Article 11
 
 La devise du Burundi est « Unité, Travail, Progrès». L'emblème de la République du Burundi est un écu frappé de la tête du lion ainsi que de trois lances, le tout entouré de la devise nationale.
 
@@ -172,23 +172,23 @@ Les enfants nés des hommes ou des femmes burundais ont les mêmes droits au reg
 
 #### Article 13
 
+Tous les burundais sont égaux en mérite et en dignité. Tous les citoyens jouissent des mêmes droits et ont droit à la même protection de la loi. Aucun burundais ne sera exclu de la vie sociale, économique ou politique de la nation du fait de sa race, de sa langue, de sa religion, de son sexe ou de son origine ethnique.
+
 #### Article 14
-
-#### Article 15
-
-#### Article 16
-
-#### Article 17
-
-Tous les  burundais  sont  égaux  en  mérite  et  en  dignité.  Tous  les citoyens  jouissent  des  mêmes  droits  et  ont  droit  à  la  même protection  de  la  loi.  Aucun  burundais  ne  sera  exclu  de  la  vie sociale, économique ou politique de la nation du fait de sa race, de sa langue, de sa religion, de son sexe ou de son origine ethnique.
 
 Tous les burundais ont le droit de vivre au Burundi dans la paix et dans la sécurité. Ils doivent vivre ensemble dans l'harmonie, tout en respectant la dignité humaine et en tolérant leurs différences.
 
+#### Article 15
+
 Le Gouvernement est construit sur la volonté du peuple burundais. Il est responsable devant lui et en respecte les libertés et droits fondamentaux.
 
-Le Gouvernement burundais doit être composé de sorte que tous les burundais y soient représentés et qu'il les représente tous; que chacun  ait  des  chances  égales  d'en  faire  partie;  que  tous  les citoyens aient accès aux services publics et que les décisions et les actions du Gouvernement recueillent le plus large soutien possible .
+#### Article 16
 
-Le  Gouvernement  a  pour  tâche  de  réaliser  les  aspirations  du peuple burundais, en particulier de guérir les divisions du passé, d'améliorer la qualité de la vie de tous les burundais et de garantir à tous  la possibilité de vivre au Burundi à l'abri de la peur, de la discrimination, de la maladie et de la faim.
+Le Gouvernement burundais doit être composé de sorte que tous les burundais y soient représentés et qu'il les représente tous; que chacun ait des chances égales d'en faire partie; que tous les citoyens aient accès aux services publics et que les décisions et les actions du Gouvernement recueillent le plus large soutien possible.
+
+#### Article 17
+
+Le Gouvernement a pour tâche de réaliser les aspirations du peuple burundais, en particulier de guérir les divisions du passé, d'améliorer la qualité de la vie de tous les burundais et de garantir à tous la possibilité de vivre au Burundi à l'abri de la peur, de la discrimination, de la maladie et de la faim.
 
 [[END OF PAGE 6]]
 
@@ -214,11 +214,11 @@ Le Gouvernement respecte la séparation des pouvoirs, la primauté du  droit  et
 
 #### Article 19
 
+Les droits et devoirs proclamés et garantis, entre autres, par la Déclaration universelle des droits de l'homme, les Pactes internationaux relatifs aux droits de l'homme, la Charte africaine des droits de l'homme et des peuples, la Convention sur l'élimination de toutes les formes de discrimination à l'égard des femmes et la Convention relative aux droits de l'enfant font partie intégrante de la Constitution de la République du Burundi.
+
+Ces droits fondamentaux ne font l'objet d'aucune restriction ou dérogation, sauf dans certaines circonstances justifiables par l'intérêt général ou la protection d'un droit fondamental.
+
 #### Article 20
-
-Les  droits  et  devoirs  proclamés  et  garantis,  entre  autres,  par  la Déclaration universelle des droits de l'homme, les Pactes internationaux relatifs aux droits de l'homme, la Charte africaine des droits de l'homme et des peuples, la Convention sur l'élimination  de  toutes  les  formes  de  discrimination  à  l'égard  des femmes et la Convention relative aux droits de l'enfant font partie intégrante de la Constitution de la République du Burundi.
-
-Ces  droits  fondamentaux  ne  font  l'objet  d'aucune  restriction  ou dérogation, sauf dans  certaines circonstances  justifiables par l'intérêt général ou la protection d'un droit fondamental.
 
 Tous les citoyens ont des droits et des obligations.
 
@@ -226,13 +226,13 @@ Tous les citoyens ont des droits et des obligations.
 
 #### Article 21
 
+La dignité humaine est respectée et protégée. Toute atteinte à la dignité humaine est réprimée par le code pénal.
+
 #### Article 22
 
-La  dignité  humaine  est  respectée  et  protégée.  Toute  atteinte  à  la dignité humaine est réprimée par le code pénal.
+Tous les citoyens sont égaux devant la loi, qui leur assure une protection égale.
 
-Tous  les  citoyens  sont  égaux  devant  la  loi,  qui  leur  assure  une protection égale.
-
-Nul ne peut être l'objet de discrimination du fait notamment de son origine, de sa race, de son ethnie, de son sexe, de sa couleur, de sa langue,  de  sa  situation  sociale,  de  ses  convictions  religieuses, philosophiques ou politiques ou du fait d'un handicap physique ou mental  ou  du  fait  d'être  porteur  du  VIH/SIDA  ou  toute  autre maladie incurable.
+Nul ne peut être l'objet de discrimination du fait notamment de son origine, de sa race, de son ethnie, de son sexe, de sa couleur, de sa langue, de sa situation sociale, de ses convictions religieuses, philosophiques ou politiques ou du fait d'un handicap physique ou mental ou du fait d'être porteur du VIH/SIDA ou toute autre maladie incurable.
 
 [[END OF PAGE 8]]
 
@@ -242,33 +242,31 @@ Nul ne peut être l'objet de discrimination du fait notamment de son origine, de
 
 #### Article 23
 
+Nul ne sera traité de manière arbitraire par l'Etat ou ses organes. L'Etat a l'obligation d'indemniser toute personne victime de traitement arbitraire de son fait ou du fait de ses organes.
+
 #### Article 24
-
-#### Article 25
-
-#### Article 26
-
-#### Article 27
-
-L'État veille dans la mesure du possible à ce que tous les citoyens disposent  des  moyens  de  mener  une  existence  conforme  à  la dignité humaine.
-
-#### Article 28
-
-Toute femme, tout homme a droit au respect de sa vie privée et de sa vie familiale,  de  son  domicile  et  de  ses  communications personnelles.
-
-#### Article 29
-
-de
-
-Nul ne sera traité de manière arbitraire par l'Etat ou ses organes. L'Etat a l'obligation d'indemniser toute personne victime traitement arbitraire de son fait ou du fait de ses organes.
 
 Toute femme, tout homme a droit à la vie.
 
-Toute  femme,    tout  homme  a  droit  à  la  liberté  de  sa  personne, notamment  à  l'intégrité  physique  et  psychique  et  à  la  liberté  de mouvement. Nul ne sera soumis à la  torture, ni à des peines ou traitements cruels, inhumains ou dégradants.
+#### Article 25
 
-Nul  ne  sera  tenu  en  esclavage  ou  en  servitude.  L'esclavage  et  le trafic d'esclaves sont interdits sous toutes leurs formes.
+Toute femme, tout homme a droit à la liberté de sa personne, notamment à l'intégrité physique et psychique et à la liberté de mouvement. Nul ne sera soumis à la torture, ni à des peines ou traitements cruels, inhumains ou dégradants.
 
-La liberté de se marier est garantie, de même que le droit de choisir son  ou  sa  partenaire.  Le  mariage  ne  peut  être  conclu  qu'avec  le libre et plein consentement des futurs époux.
+#### Article 26
+
+Nul ne sera tenu en esclavage ou en servitude. L'esclavage et le trafic d'esclaves sont interdits sous toutes leurs formes.
+
+#### Article 27
+
+L'État veille dans la mesure du possible à ce que tous les citoyens disposent des moyens de mener une existence conforme à la dignité humaine.
+
+#### Article 28
+
+Toute femme, tout homme a droit au respect de sa vie privée et de sa vie familiale, de son domicile et de ses communications personnelles.
+
+#### Article 29
+
+La liberté de se marier est garantie, de même que le droit de choisir son ou sa partenaire. Le mariage ne peut être conclu qu'avec le libre et plein consentement des futurs époux.
 
 Le mariage entre deux personnes de même sexe est interdit.
 
@@ -288,21 +286,23 @@ Tout  enfant  a  droit,  de  la  part  de  sa  famille,  de  la  société  et  
 
 #### Article 31
 
+La liberté d'expression est garantie. L'État respecte la liberté de religion, de pensée, de conscience et d'opinion.
+
 #### Article 32
+
+La liberté de réunion et d'association est garantie, de même que le droit de fonder des associations ou organisations conformément à la loi.
 
 #### Article 33
 
+Tous les citoyens burundais ont le droit de circuler et de s'établir librement n'importe où sur le territoire national, ainsi que de le quitter et d'y revenir.
+
 #### Article 34
-
-#### Article 35
-
-La liberté de réunion et d'association est garantie, de même que le droit de fonder des associations ou organisations  conformément à la loi .
-
-Tous les citoyens burundais ont le droit de circuler et de s'établir librement  n'importe  où  sur  le  territoire  national,  ainsi  que  de  le quitter et d'y revenir .
 
 Nul ne peut être arbitrairement privé de sa nationalité, ni du droit d'en changer.
 
-L'État  assure  la  bonne  gestion  et  l'exploitation  rationnelle  des ressources naturelles du pays, tout en préservant l'environnement et la conservation  de ces ressources pour les générations à venir .
+#### Article 35
+
+L'État assure la bonne gestion et l'exploitation rationnelle des ressources naturelles du pays, tout en préservant l'environnement et la conservation de ces ressources pour les générations à venir.
 
 [[END OF PAGE 10]]
 
@@ -312,11 +312,9 @@ L'État  assure  la  bonne  gestion  et  l'exploitation  rationnelle  des ressou
 
 #### Article 36
 
-#### Article 40
-
 Toute personne a droit à la propriété.
 
-Nul  ne  peut  être  privé  de  sa  propriété  que  pour  cause  d'utilité publique,  dans  les  cas  et  de  la  manière  établis  par  la  loi  et moyennant une juste et préalable indemnité ou en exécution d'une décision judiciaire coulée en force de chose jugée.
+Nul ne peut être privé de sa propriété que pour cause d'utilité publique, dans les cas et de la manière établis par la loi et moyennant une juste et préalable indemnité ou en exécution d'une décision judiciaire coulée en force de chose jugée.
 
 #### Article 37
 
@@ -336,9 +334,11 @@ Nul ne peut être inculpé, arrêté, détenu ou jugé que dans les cas détermi
 
 Le droit de la défense est garanti devant toutes les juridictions.
 
-Nul  ne  peut  être  distrait,  contre  son  gré,  du  juge  que  la  loi  lui assigne.
+Nul ne peut être distrait, contre son gré, du juge que la loi lui assigne.
 
-Toute personne accusée d'un acte délictueux est présumée innocente jusqu'à ce que sa culpabilité ait été légalement établie au cours d'un procès public durant  lequel toutes les garanties nécessaires à sa libre défense lui auront été assurées .
+#### Article 40
+
+Toute personne accusée d'un acte délictueux est présumée innocente jusqu'à ce que sa culpabilité ait été légalement établie au cours d'un procès public durant lequel toutes les garanties nécessaires à sa libre défense lui auront été assurées.
 
 [[END OF PAGE 11]]
 
@@ -348,35 +348,35 @@ Toute personne accusée d'un acte délictueux est présumée innocente jusqu'à 
 
 #### Article 41
 
-#### Article 42
-
-#### Article 43
-
-#### Article 44
-
-#### Article 45
-
-#### Article 46
-
-Nul  ne  sera  condamné  pour  des  actes  ou  omissions  qui,  au moment où ils ont été commis, ne constituaient pas une infraction.
+Nul ne sera condamné pour des actes ou omissions qui, au moment où ils ont été commis, ne constituaient pas une infraction.
 
 De même, il ne peut être infligé de peine plus forte que celle qui était applicable au moment où l'infraction a été commise.
 
+#### Article 42
+
 Nul ne peut être soumis à des mesures de sûreté que dans les cas et les formes prévus par la loi notamment pour des raisons d'ordre public ou de sécurité de l'Etat.
+
+#### Article 43
 
 Nul ne peut faire l'objet d'immixtion arbitraire dans sa vie privée, sa famille, son domicile ou sa correspondance, ni d'atteintes à son honneur et à sa réputation.
 
 Il ne peut être ordonné de perquisitions ou de visites domiciliaires que dans les formes et les conditions prévues par la loi.
 
-Le  secret  de  correspondance  et  de  communication  est  garanti dans le respect des formes et conditions déterminées par la loi.
+Le secret de correspondance et de communication est garanti dans le respect des formes et conditions déterminées par la loi.
 
-Tout  enfant  a  droit  à  des  mesures  particulières  pour  assurer  ou améliorer les soins nécessaires à son bien-être, à sa santé et à sa sécurité physique et pour être protégé contre les mauvais traitements, les exactions ou l'exploitation.
+#### Article 44
+
+Tout enfant a droit à des mesures particulières pour assurer ou améliorer les soins nécessaires à son bien-être, à sa santé et à sa sécurité physique et pour être protégé contre les mauvais traitements, les exactions ou l'exploitation.
+
+#### Article 45
 
 Nul enfant ne peut être utilisé directement dans un conflit armé. La protection des enfants est assurée en période de conflit armé.
 
-Nul  enfant  ne  peut  être  détenu  si  ce  n'est  en  dernier  recours, auquel cas la durée de sa détention sera la plus courte possible.
+#### Article 46
 
-Tout enfant a le droit d'être séparé des détenus de plus de 16 ans et  de  faire  l'objet  d'un  traitement  et  de  conditions  de  détention adaptés à son âge .
+Nul enfant ne peut être détenu si ce n'est en dernier recours, auquel cas la durée de sa détention sera la plus courte possible.
+
+Tout enfant a le droit d'être séparé des détenus de plus de 16 ans et de faire l'objet d'un traitement et de conditions de détention adaptés à son âge.
 
 [[END OF PAGE 12]]
 
@@ -386,33 +386,33 @@ Tout enfant a le droit d'être séparé des détenus de plus de 16 ans et  de  f
 
 #### Article 47
 
+Toute restriction d'un droit fondamental doit être fondée sur une base légale; elle doit être justifiée par l'intérêt général ou par la protection d'un droit fondamental d'autrui; elle doit être proportionnée au but visé.
+
 #### Article 48
-
-#### Article 49
-
-#### Article 50
-
-#### Article 51
-
-#### Article 52
-
-Toute restriction d'un droit fondamental doit être fondée sur une base  légale;  elle  doit  être  justifiée  par  l'intérêt  général  ou  par  la protection d'un droit fondamental d'autrui; elle doit être proportionnée au but visé.
 
 Les droits fondamentaux doivent être respectés dans l'ensemble de l'ordre juridique, administratif et institutionnel. La Constitution est la loi suprême. Le législatif, l'exécutif et le judiciaire doivent la faire respecter. Toute loi non conforme à la Constitution est frappée de nullité.
 
+#### Article 49
+
 Aucun citoyen ne peut être contraint à l'exil.
+
+#### Article 50
 
 Le droit d'asile est reconnu dans les conditions définies par la loi.
 
 L'extradition n'est autorisée que dans les limites prévues par la loi.
 
-Aucun  Burundais  ne  peut  être  extradé  à  l'étranger sauf  s'il  est poursuivi par une juridiction pénale internationale pour crime de génocide, crime de guerre ou autres crimes contre l'humanité.
+Aucun Burundais ne peut être extradé à l'étranger sauf s'il est poursuivi par une juridiction pénale internationale pour crime de génocide, crime de guerre ou autres crimes contre l'humanité.
 
-Tout  burundais  a  le  droit  de  participer,  soit  directement,  soit indirectement par ses représentants, à la direction et à la gestion des affaires de l'Etat sous réserve des conditions légales, notamment d'âge et de capacité.
+#### Article 51
 
-Tout  burundais  a  également  le  droit  d'accéder  aux  fonctions publiques de son pays.
+Tout burundais a le droit de participer, soit directement, soit indirectement par ses représentants, à la direction et à la gestion des affaires de l'Etat sous réserve des conditions légales, notamment d'âge et de capacité.
 
-Toute  personne  est  fondée  à  obtenir  la  satisfaction  des  droits économiques, sociaux et culturels indispensables à sa dignité et au libre  développement  de  sa  personne,  grâce  à  l'effort  national  et compte tenu des ressources du pays.
+Tout burundais a également le droit d'accéder aux fonctions publiques de son pays.
+
+#### Article 52
+
+Toute personne est fondée à obtenir la satisfaction des droits économiques, sociaux et culturels indispensables à sa dignité et au libre développement de sa personne, grâce à l'effort national et compte tenu des ressources du pays.
 
 [[END OF PAGE 13]]
 
@@ -422,37 +422,37 @@ Toute  personne  est  fondée  à  obtenir  la  satisfaction  des  droits écono
 
 #### Article 53
 
-#### Article 54
-
-#### Article 55
-
-#### Article 56
-
-#### Article 57
-
-#### Article 58
-
-#### Article 59
-
 Tout citoyen a droit à l'égal accès à l'instruction, à l'éducation et à la culture.
 
-L'Etat a le  devoir  d'organiser  l'enseignement  public    et  d'en favoriser l'accès.
+L'Etat a le devoir d'organiser l'enseignement public et d'en favoriser l'accès.
 
 Toutefois, le droit de fonder les écoles privées est garanti dans les conditions fixées par la loi.
 
-L'Etat reconnaît à tous les citoyens le droit au travail et s'efforce de créer des conditions qui rendent la jouissance de ce droit effective. Il reconnaît le droit qu'a toute personne de jouir des conditions de travail  justes  et  satisfaisantes  et  garantit  au  travailleur  la  juste rétribution de ses services ou de sa production.
+#### Article 54
+
+L'Etat reconnaît à tous les citoyens le droit au travail et s'efforce de créer des conditions qui rendent la jouissance de ce droit effective. Il reconnaît le droit qu'a toute personne de jouir des conditions de travail justes et satisfaisantes et garantit au travailleur la juste rétribution de ses services ou de sa production.
+
+#### Article 55
 
 Toute personne a le droit d'accéder aux soins de santé.
 
-L'Etat  a  l'obligation  de  favoriser  le  développement  du  pays,  en particulier le développement rural.
+#### Article 56
+
+L'Etat a l'obligation de favoriser le développement du pays, en particulier le développement rural.
+
+#### Article 57
 
 A compétence égale, toute personne a droit, sans aucune discrimination, à un salaire égal pour un travail égal.
 
-Chacun  a  droit  à  la  protection  des  intérêts  moraux  et  matériels découlant de toute production scientifique, littéraire ou artistique dont il est l'auteur.
+#### Article 58
+
+Chacun a droit à la protection des intérêts moraux et matériels découlant de toute production scientifique, littéraire ou artistique dont il est l'auteur.
+
+#### Article 59
 
 Tout étranger qui se trouve sur le territoire de la République jouit de la protection accordée aux personnes et aux biens en vertu de la présente Constitution et de la loi.
 
-Un  étranger  poursuivi  pour  crime  de  génocide,  crime  contre l'humanité,  crime  de  guerre  ou  acte  de  terrorisme  peut  être extradé.
+Un étranger poursuivi pour crime de génocide, crime contre l'humanité, crime de guerre ou acte de terrorisme peut être extradé.
 
 [[END OF PAGE 14]]
 
@@ -462,33 +462,33 @@ Un  étranger  poursuivi  pour  crime  de  génocide,  crime  contre l'humanité
 
 #### Article 60
 
+Le pouvoir judiciaire, gardien des droits et des libertés publiques, assure le respect de ces droits et libertés dans les conditions prévues par la loi.
+
 #### Article 61
 
-Nul ne peut abuser des droits reconnus par la Constitution ou par la  loi  pour  compromettre l'unité nationale, la paix, la démocratie, l'indépendance du Burundi, porter atteinte à la laïcité de l'Etat ou violer de toute autre manière la présente Constitution.
+Nul ne peut abuser des droits reconnus par la Constitution ou par la loi pour compromettre l'unité nationale, la paix, la démocratie, l'indépendance du Burundi, porter atteinte à la laïcité de l'Etat ou violer de toute autre manière la présente Constitution.
 
 ### 2. DES DEVOIRS FONDAMENTAUX DE L'INDIVIDU ET DU CITOYEN
 
 #### Article 62
 
-#### Article 63
-
-#### Article 64
-
-#### Article 65
-
-#### Article 66
-
-Le pouvoir judiciaire, gardien des droits et des libertés publiques, assure  le  respect  de  ces  droits  et  libertés  dans  les  conditions prévues par la loi.
-
 Toute personne a le devoir de respecter ses compatriotes et de leur témoigner de la considération, sans discrimination aucune.
+
+#### Article 63
 
 Chaque citoyen a des devoirs envers la famille et la société, envers l'Etat et les autres collectivités publiques.
 
-Chaque  burundais  a  le  devoir  de  préserver  et  renforcer  l'unité nationale conformément à la Charte de l'Unité Nationale.
+#### Article 64
 
-Chacun  est  tenu  de  respecter  les  lois  et  les  institutions  de  la République.
+Chaque burundais a le devoir de préserver et renforcer l'unité nationale conformément à la Charte de l'Unité Nationale.
 
-Chaque  burundais  a  le  devoir  de  préserver  le  développement harmonieux de la famille et d'œuvrer en faveur de la cohésion et du  respect  de  cette  famille,  de  respecter    à  tout  moment  ses parents, de les nourrir et de les assister en cas de nécessité.
+#### Article 65
+
+Chacun est tenu de respecter les lois et les institutions de la République.
+
+#### Article 66
+
+Chaque burundais a le devoir de préserver le développement harmonieux de la famille et d'œuvrer en faveur de la cohésion et du respect de cette famille, de respecter à tout moment ses parents, de les nourrir et de les assister en cas de nécessité.
 
 [[END OF PAGE 15]]
 
@@ -498,31 +498,31 @@ Chaque  burundais  a  le  devoir  de  préserver  le  développement harmonieux 
 
 #### Article 67
 
+Chaque individu a le devoir de respecter et de considérer son semblable sans discrimination aucune, et d'entretenir avec lui les relations qui permettent de promouvoir, de sauvegarder et de renforcer le respect et la tolérance.
+
 #### Article 68
-
-#### Article 69
-
-#### Article 70
-
-#### Article 71
-
-Chaque  individu  a  le  devoir  de  respecter  et  de  considérer  son semblable sans discrimination aucune, et d'entretenir avec lui les relations  qui  permettent  de  promouvoir,  de  sauvegarder  et  de renforcer le respect et la tolérance.
 
 Chaque burundais doit veiller, dans ses relations avec la société, à la préservation et au renforcement des valeurs culturelles burundaises et contribuer à l'établissement d'une société moralement saine.
 
-Les   biens   publics   sont   sacrés   et   inviolables.  Chacun   est tenu  de  les   respecter scrupuleusement   et   de   les   protéger. Chaque   Burundais   a  le devoir de défendre le patrimoine de la nation.
+#### Article 69
+
+Les biens publics sont sacrés et inviolables. Chacun est tenu de les respecter scrupuleusement et de les protéger. Chaque Burundais a le devoir de défendre le patrimoine de la nation.
 
 Tout acte de sabotage, de vandalisme, de corruption, de détournement, de dilapidation, ou tout autre acte qui porte atteinte au bien public est réprimé dans les conditions prévues par la loi.
 
-Tous  les  citoyens  sont  tenus  de  s'acquitter    de  leurs  obligations civiques et de défendre la patrie.
+#### Article 70
+
+Tous les citoyens sont tenus de s'acquitter de leurs obligations civiques et de défendre la patrie.
 
 Chacun a le devoir de travailler pour le bien commun et de remplir ses obligations professionnelles.
 
-Tous les  citoyens  sont  égaux  devant  les  charges  publiques.  Il  ne peut être établi d'exonération que par la loi.
+Tous les citoyens sont égaux devant les charges publiques. Il ne peut être établi d'exonération que par la loi.
 
 L'Etat peut proclamer la solidarité de tous devant les charges qui résultent des calamités naturelles et nationales.
 
-Tout  burundais  chargé  d'une  fonction  publique  ou  élu  à  une fonction  politique  a  le  devoir  de  l'accomplir  avec  conscience, probité, dévouement et loyauté dans l'intérêt général.
+#### Article 71
+
+Tout burundais chargé d'une fonction publique ou élu à une fonction politique a le devoir de l'accomplir avec conscience, probité, dévouement et loyauté dans l'intérêt général.
 
 [[END OF PAGE 16]]
 
@@ -532,19 +532,19 @@ Tout  burundais  chargé  d'une  fonction  publique  ou  élu  à  une fonction 
 
 #### Article 72
 
-#### Article 73
-
-#### Article 74
-
 Chaque burundais a le devoir de défendre l'indépendance nationale et l'intégrité du territoire.
 
-Tout  citoyen  a  le  devoir    sacré  de  veiller  et  de  participer  à  la défense de sa patrie.
+Tout citoyen a le devoir sacré de veiller et de participer à la défense de sa patrie.
 
-Tout burundais, tout étranger qui se trouve sur le territoire de la République  du  Burundi  a  le  devoir  de  ne  pas  compromettre  la sécurité de l'Etat.
+Tout burundais, tout étranger qui se trouve sur le territoire de la République du Burundi a le devoir de ne pas compromettre la sécurité de l'Etat.
+
+#### Article 73
 
 Tout individu a le devoir de contribuer à la sauvegarde de la paix, de la démocratie et de la justice sociale.
 
-Tout  burundais  a  le  devoir  de  contribuer  par  son  travail  à  la construction et à la prospérité du pays.
+#### Article 74
+
+Tout burundais a le devoir de contribuer par son travail à la construction et à la prospérité du pays.
 
 [[END OF PAGE 17]]
 
@@ -552,33 +552,33 @@ Tout  burundais  a  le  devoir  de  contribuer  par  son  travail  à  la constr
 
 18
 
-#### Article 75
-
-#### Article 76
-
-#### Article 77
-
-#### Article 78
-
-#### Article 79
-
-#### Article 80
-
 ## TITRE III
 
 ### DU SYSTEME DES PARTIS POLITIQUES
 
+#### Article 75
+
 Le multipartisme est reconnu en République du Burundi.
 
-Les partis politiques peuvent se constituer librement, conformément à la loi . Ils sont agréés conformément à la loi.
+#### Article 76
 
-Constitue  un  parti  politique  une  association  sans  but  lucratif regroupant des citoyens autour d'un projet de société démocratique  fondé  sur  l'unité  nationale,    avec  un  programme politique distinct aux objectifs précis répondant au souci de servir l'intérêt général et d'assurer l'épanouissement de tous les citoyens.
+Les partis politiques peuvent se constituer librement, conformément à la loi. Ils sont agréés conformément à la loi.
 
-Les partis politiques, dans leur organisation et leur fonctionnement, doivent répondre aux principes démocratiques. Ils doivent être ouverts à tous les Burundais et leur caractère national doit  également  être  reflété  au  niveau  de  leur  direction.  Ils  ne peuvent prôner la violence, l'exclusion et la haine sous toutes leurs formes,  notamment  celles  basées  sur  l'appartenance  ethnique, régionale,  religieuse ou de genre.
+#### Article 77
 
-Les  partis  politiques  et  les  coalitions  de  partis  politiques  doivent promouvoir la libre  expression  du  suffrage  et  participent  à  la  vie politique par des moyens pacifiques.
+Constitue un parti politique une association sans but lucratif regroupant des citoyens autour d'un projet de société démocratique fondé sur l'unité nationale, avec un programme politique distinct aux objectifs précis répondant au souci de servir l'intérêt général et d'assurer l'épanouissement de tous les citoyens.
 
-La  loi  garantit  la  non-ingérence  des  pouvoirs  publics  dans  le fonctionnement interne des partis politiques, sauf pour ce qui est des restrictions nécessaires à la prévention de la haine ethnique, politique,  régionale,  religieuse  ou  de  genre    et  au  maintien  de l'ordre public.
+#### Article 78
+
+Les partis politiques, dans leur organisation et leur fonctionnement, doivent répondre aux principes démocratiques. Ils doivent être ouverts à tous les Burundais et leur caractère national doit également être reflété au niveau de leur direction. Ils ne peuvent prôner la violence, l'exclusion et la haine sous toutes leurs formes, notamment celles basées sur l'appartenance ethnique, régionale, religieuse ou de genre.
+
+#### Article 79
+
+Les partis politiques et les coalitions de partis politiques doivent promouvoir la libre expression du suffrage et participent à la vie politique par des moyens pacifiques.
+
+#### Article 80
+
+La loi garantit la non-ingérence des pouvoirs publics dans le fonctionnement interne des partis politiques, sauf pour ce qui est des restrictions nécessaires à la prévention de la haine ethnique, politique, régionale, religieuse ou de genre et au maintien de l'ordre public.
 
 [[END OF PAGE 18]]
 
@@ -588,27 +588,27 @@ La  loi  garantit  la  non-ingérence  des  pouvoirs  publics  dans  le fonction
 
 #### Article 81
 
+Les partis politiques peuvent former des coalitions lors des élections, selon des modalités fixées par la loi électorale.
+
 #### Article 82
+
+Les membres des corps de défense et de sécurité ainsi que les magistrats en activités ne sont pas autorisés à adhérer aux partis politiques.
 
 #### Article 83
 
-#### Article 84
-
-#### Article 85
-
-Les partis politiques peuvent former des coalitions lors des élections, selon des modalités fixées par la loi électorale.
-
-Les  membres  des  corps  de  défense  et  de  sécurité  ainsi  que  les magistrats en activités ne sont pas autorisés à adhérer aux partis politiques.
-
-Le  financement  extérieur  des  partis  politiques  est  interdit,  sauf dérogation exceptionnelle établie par la loi.
+Le financement extérieur des partis politiques est interdit, sauf dérogation exceptionnelle établie par la loi.
 
 Tout financement de nature à porter atteinte à l'indépendance et à la souveraineté nationales est interdit.
 
 La loi détermine et organise les sources de financement des partis politiques.
 
-Aux  fins  de  promouvoir  la  démocratie,  la  loi    peut  autoriser  le financement des partis politiques de manière équitable, proportionnellement  au  nombre  de  sièges  qu'ils  détiennent  à l'Assemblée nationale. Ce financement peut s'appliquer aussi bien au fonctionnement des partis politiques qu'aux campagnes électorales,  et  doit  être  transparent.  Les  types  de  subventions, d'avantages  et  de  facilités  que  l'Etat  peut  accorder  aux  partis politiques sont fixés par la loi.
+#### Article 84
 
-Les  conditions  dans  lesquelles  les  partis  politiques  sont  formés, exercent et cessent leurs activités sont déterminées par la loi.
+Aux fins de promouvoir la démocratie, la loi peut autoriser le financement des partis politiques de manière équitable, proportionnellement au nombre de sièges qu'ils détiennent à l'Assemblée nationale. Ce financement peut s'appliquer aussi bien au fonctionnement des partis politiques qu'aux campagnes électorales, et doit être transparent. Les types de subventions, d'avantages et de facilités que l'Etat peut accorder aux partis politiques sont fixés par la loi.
+
+#### Article 85
+
+Les conditions dans lesquelles les partis politiques sont formés, exercent et cessent leurs activités sont déterminées par la loi.
 
 [[END OF PAGE 19]]
 
@@ -616,39 +616,39 @@ Les  conditions  dans  lesquelles  les  partis  politiques  sont  formés, exerc
 
 20
 
-#### Article 86
-
-#### Article 87
-
-#### Article 88
-
-#### Article 89
-
-#### Article 90
-
-#### Article 91
-
 ## TITRE IV
 
 ### DES ELECTIONS
 
+#### Article 86
+
 Le droit de vote est garanti.
 
-Les  élections  sont  libres,  transparentes  et  régulières.  Le  code électoral en détermine les modalités pratiques.
+#### Article 87
 
-Les  élections  sont  organisées  de  manière  impartiale  aux  niveaux national, des communes et des collines, ainsi qu'à d'autres niveaux fixés par la loi.
+Les élections sont libres, transparentes et régulières. Le code électoral en détermine les modalités pratiques.
 
-Une  commission  électorale  nationale  indépendante,  garantit  la liberté, l'impartialité et l'indépendance du processus électoral.
+#### Article 88
 
-La commission est composée de cinq personnalités indépendantes. Ses membres sont nommés par décret après avoir été préalablement approuvés séparément  par l'Assemblée nationale et le Sénat  à la majorité de trois quarts.
+Les élections sont organisées de manière impartiale aux niveaux national, des communes et des collines, ainsi qu'à d'autres niveaux fixés par la loi.
+
+#### Article 89
+
+Une commission électorale nationale indépendante, garantit la liberté, l'impartialité et l'indépendance du processus électoral.
+
+#### Article 90
+
+La commission est composée de cinq personnalités indépendantes. Ses membres sont nommés par décret après avoir été préalablement approuvés séparément par l'Assemblée nationale et le Sénat à la majorité de trois quarts.
+
+#### Article 91
 
 La Commission est chargée des missions suivantes :
 
-- Organiser les  élections  au  niveau  national,  au  niveau des communes et à celui des collines;
+a) Organiser les élections au niveau national, au niveau des communes et à celui des collines;
 
-- Veiller à ce que ces élections soient libres, régulières et transparentes;
+b) Veiller à ce que ces élections soient libres, régulières et transparentes;
 
-- Proclamer les résultats provisoires des élections dans un délai défini par la loi ;
+c) Proclamer les résultats provisoires des élections dans un délai défini par la loi ;
 
 [[END OF PAGE 20]]
 
@@ -656,13 +656,13 @@ La Commission est chargée des missions suivantes :
 
 21
 
-- Promulguer  les  arrangements,  le  code  de  conduite  et les  détails  techniques,  y  compris  l'emplacement  des bureaux  de  vote  et  les  heures  auxquelles  ils  sont ouverts;
+d) Promulguer les arrangements, le code de conduite et les détails techniques, y compris l'emplacement des bureaux de vote et les heures auxquelles ils sont ouverts;
 
-- Entendre les plaintes concernant le respect des règles électorales  et  y  donner  suite.  Les  décisions  de  la Commission sont sans appel;
+e) Entendre les plaintes concernant le respect des règles électorales et y donner suite. Les décisions de la Commission sont sans appel;
 
-- Veiller, en appliquant des règles appropriées, à ce que les campagnes électorales ne se déroulent  de manière à  inciter  à  la  violence  ethnique  ou  de  toute  autre manière contraire à la présente Constitution;
+f) Veiller, en appliquant des règles appropriées, à ce que les campagnes électorales ne se déroulent de manière à inciter à la violence ethnique ou de toute autre manière contraire à la présente Constitution;
 
-- Assurer  le  respect  des  dispositions  de  la  présente Constitution relatives à la multiethnicité  et au genre et connaître des contestations à cet égard.
+g) Assurer le respect des dispositions de la présente Constitution relatives à la multiethnicité et au genre et connaître des contestations à cet égard.
 
 [[END OF PAGE 21]]
 
@@ -670,21 +670,29 @@ La Commission est chargée des missions suivantes :
 
 22
 
+## TITRE V
+
+### DU POUVOIR EXECUTIF
+
 #### Article 92
+
+Le pouvoir exécutif est exercé par un Président de la République, deux Vice-présidents de la République et les membres du Gouvernement.
 
 #### Article 93
 
+Une loi organique fixe le régime des indemnités et avantages du Président, des Vice-Présidents et des membres du Gouvernement ainsi que le régime des incompatibilités. Elle précise également leur régime spécifique de sécurité sociale.
+
 #### Article 94
 
-Lors de leur entrée en fonction et à la fin de celle-ci, le Président de la République, les Vice-Présidents de la République et les membres du  Gouvernement  sont  tenus  de  faire  sur  leur  honneur  une déclaration écrite de leurs biens et patrimoine adressée à la Cour suprême.
+Lors de leur entrée en fonction et à la fin de celle-ci, le Président de la République, les Vice-Présidents de la République et les membres du Gouvernement sont tenus de faire sur leur honneur une déclaration écrite de leurs biens et patrimoine adressée à la Cour suprême.
 
 ### 1. DU PRESIDENT DE LA REPUBLIQUE
 
 #### Article 95
 
-Le  Président  de  la  République,  Chef  de  l'Etat,  incarne  l'unité nationale,  veille  au  respect  de  la  Constitution  et  assure  par  son arbitrage la  continuité  de  l'Etat  et  le  fonctionnement  régulier  des institutions.
+Le Président de la République, Chef de l'Etat, incarne l'unité nationale, veille au respect de la Constitution et assure par son arbitrage la continuité de l'Etat et le fonctionnement régulier des institutions.
 
-Il  est  le  garant  de  l'indépendance  nationale,  de  l'intégrité  du territoire et du respect des traités et accords internationaux .
+Il est le garant de l'indépendance nationale, de l'intégrité du territoire et du respect des traités et accords internationaux.
 
 #### Article 96
 
@@ -694,19 +702,11 @@ Le Président de la République est élu au suffrage universel direct pour un ma
 
 Le candidat aux fonctions de Président de la République doit :
 
-- avoir la qualité d'électeur dans les conditions précisées par la loi électorale ;
+1) avoir la qualité d'électeur dans les conditions précisées par la loi électorale ;
 
-- être de nationalité burundaise de naissance ;
+2) être de nationalité burundaise de naissance ;
 
-- être âgé de trente-cinq ans révolus au moment de l'élection ;
-
-## TITRE V
-
-### DU POUVOIR EXECUTIF
-
-Le pouvoir exécutif est exercé par un Président de la République, deux Vice-présidents de la République et les membres du Gouvernement.
-
-Une  loi  organique  fixe  le  régime  des  indemnités  et  avantages  du Président, des Vice-Présidents et des membres du Gouvernement ainsi  que  le  régime  des  incompatibilités.  Elle  précise  également leur régime spécifique de sécurité sociale.
+3) être âgé de trente-cinq ans révolus au moment de l'élection ;
 
 [[END OF PAGE 22]]
 
@@ -714,37 +714,37 @@ Une  loi  organique  fixe  le  régime  des  indemnités  et  avantages  du Pré
 
 23
 
+4) résider sur le territoire du Burundi au moment de la présentation des candidatures ;
+
+5) jouir de tous ses droits civils et politiques ;
+
+6) souscrire à la Constitution et à la Charte de l'Unité Nationale.
+
+En outre, le candidat aux élections présidentielles ne doit pas avoir été condamné pour crime ou délits de droit commun à une peine déterminée par la loi électorale.
+
+La loi électorale prévoit également le délai après lequel une personne condamnée au sens de l'alinéa précédent peut retrouver son éligibilité depuis l'exécution de sa peine.
+
 #### Article 98
 
 Les candidats peuvent être présentés par les partis politiques ou se présenter en qualité d'indépendants.
 
-Est considéré comme indépendant, le candidat qui, au moment de la  présentation  des  candidatures  n'est  présenté  par  aucun  parti politique.
+Est considéré comme indépendant, le candidat qui, au moment de la présentation des candidatures n'est présenté par aucun parti politique.
 
 #### Article 99
 
-Chaque candidature aux élections présidentielles doit être parrainée  par un groupe de deux cents personnes formé en tenant compte des composantes ethniques et du genre.
+Chaque candidature aux élections présidentielles doit être parrainée par un groupe de deux cents personnes formé en tenant compte des composantes ethniques et du genre.
 
-Les membres du groupe de parrainage doivent eux-mêmes réunir les  conditions  de  fond  requises  pour  l'éligibilité  aux  élections législatives.
+Les membres du groupe de parrainage doivent eux-mêmes réunir les conditions de fond requises pour l'éligibilité aux élections législatives.
 
 #### Article 100
 
-Les  fonctions  du  Président  de  la  République  sont  incompatibles avec  l'exercice  de  toute  autre  fonction  publique  élective,  de  tout emploi public et de toute activité professionnelle.
+Les fonctions du Président de la République sont incompatibles avec l'exercice de toute autre fonction publique élective, de tout emploi public et de toute activité professionnelle.
 
 #### Article 101
 
 Dans le cas où le candidat élu Président de la République occupait une fonction publique, il est placé d'office en position de détachement dès la proclamation des résultats.
 
 Dans le cas où il occupait une fonction privée, rémunérée ou non, pour son propre compte ou pour le compte d'un tiers, il cesse toute activité dès la proclamation des résultats.
-
-- résider  sur  le  territoire  du  Burundi  au  moment  de  la présentation des candidatures ;
-
-- jouir de tous ses droits civils et politiques ;
-
-- souscrire à la Constitution et à la Charte de l'Unité Nationale.
-
-En  outre,  le  candidat  aux  élections  présidentielles  ne  doit pas  avoir  été  condamné  pour  crime  ou  délits  de  droit commun à une peine déterminée par la loi électorale.
-
-La loi électorale prévoit également le délai après lequel une personne  condamnée  au  sens  de  l'alinéa  précédent  peut retrouver son éligibilité depuis l'exécution de sa peine.
 
 [[END OF PAGE 23]]
 
@@ -804,7 +804,7 @@ Le  Président  de  la  République  peut  déléguer    ses  pouvoirs  aux Vice
 
 #### Article 108
 
-Le Président de la  République, en consultation avec les deux VicePrésidents,  nomme  les  membres  du  Gouvernement  et  met  fin  à leurs fonctions.
+Le Président de la République, en consultation avec les deux Vice-Présidents, nomme les membres du Gouvernement et met fin à leurs fonctions.
 
 #### Article 109
 
@@ -894,9 +894,9 @@ A  l'expiration  de  ses  fonctions,  le  Président  de  la  République  a dro
 
 #### Article 121
 
-En cas d'absence ou d'empêchement temporaire du Président de la République,  le  Premier  Vice-Président  assure    la  gestion  des affaires  courantes  et  à  défaut  de  ce  dernier,  le  Deuxième  VicePrésident.
+En cas d'absence ou d'empêchement temporaire du Président de la République, le Premier Vice-Président assure la gestion des affaires courantes et à défaut de ce dernier, le Deuxième Vice-Président.
 
-En cas de vacance pour cause de démission, de décès ou de toute autre  cause  de  cessation  définitive  de  ses  fonctions,  l'intérim  est assuré par le Président de l'Assemblée Nationale ou, si ce dernier est  à  son  tour  empêché  d'exercer  ses  fonctions,  par  les  VicePrésidents de la République et le Gouvernement agissant collégialement.
+En cas de vacance pour cause de démission, de décès ou de toute autre cause de cessation définitive de ses fonctions, l'intérim est assuré par le Président de l'Assemblée Nationale ou, si ce dernier est à son tour empêché d'exercer ses fonctions, par les Vice-Présidents de la République et le Gouvernement agissant collégialement.
 
 La vacance est constatée par la Cour Constitutionnelle saisie  par les Vice-Présidents de la République et le Gouvernement agissant collégialement.
 
@@ -924,29 +924,29 @@ Le  Premier  Vice-Président  assure  la  coordination  du  domaine politique et
 
 Le  Deuxième  Vice-Président  assure  la  coordination  du  domaine économique et  social.
 
-Les Vice-Présidents sont nommés par le Président de la République après  approbation préalable de leur candidature par l'Assemblée Nationale et le Sénat  votant séparément et à la majorité de leurs membres. Ils sont choisis parmi les  élus.
+#### Article 123
+
+Les Vice-Présidents sont nommés par le Président de la République après approbation préalable de leur candidature par l'Assemblée Nationale et le Sénat votant séparément et à la majorité de leurs membres. Ils sont choisis parmi les élus.
 
 Ils peuvent être démis de leurs fonctions par le Président de la République.
 
 #### Article 124
 
-Les Vice-Présidents appartiennent à des groupes ethniques et des partis politiques différents .
+Les Vice-Présidents appartiennent à des groupes ethniques et des partis politiques différents.
 
 Sans préjudice de l'alinéa précédent, il est tenu compte, dans leur nomination du caractère prédominant de leur appartenance ethnique au sein de leurs partis politiques respectifs.
 
-Le  Premier  Vice-Président  préside  le  Conseil  des  Ministres  sur délégation du Président de la République et sur un ordre du jour déterminé.
+#### Article 125
 
-En  cas  d'empêchement  du  Premier  Vice-Président,  le  Président confère cette délégation au Deuxième Vice-Président.
+Le Premier Vice-Président préside le Conseil des Ministres sur délégation du Président de la République et sur un ordre du jour déterminé.
+
+En cas d'empêchement du Premier Vice-Président, le Président confère cette délégation au Deuxième Vice-Président.
+
+#### Article 126
 
 Les Vice-Présidents prennent par arrêté, chacun dans son secteur, toutes les mesures d'exécution des décrets présidentiels.
 
-Les  Ministres  chargés  de  leur  exécution  contresignent  les  arrêtés des Vice-Présidents.
-
-#### Article 123
-
-#### Article 125
-
-#### Article 126
+Les Ministres chargés de leur exécution contresignent les arrêtés des Vice-Présidents.
 
 [[END OF PAGE 29]]
 
@@ -984,7 +984,7 @@ Lorsque  le  Président  révoque  un  Ministre,  il  est  procédé  à  son re
 
 #### Article 130
 
-Le  Président  de  la  République  après  consultation  des  deux  VicePrésidents de la République veille à ce que le Ministre chargé de la Force de Défense Nationale ne soit pas de la même ethnie que le Ministre responsable de la Police  Nationale.
+Le Président de la République après consultation des deux Vice-Présidents de la République veille à ce que le Ministre chargé de la Force de Défense Nationale ne soit pas de la même ethnie que le Ministre responsable de la Police Nationale.
 
 #### Article 131
 
@@ -992,7 +992,7 @@ Le  Gouvernement  détermine  et  conduit  la  politique  de  la  nation dans le
 
 #### Article 132
 
-Le Gouvernement délibère obligatoirement sur la politique générale de l'Etat, les projets de traités et accords internationaux, les projets de  lois,  les  projets  de  décrets  présidentiels,  d'arrêtés  d'un  VicePrésident  et  d'ordonnances  des  Ministres  ayant  un  caractère  de réglementation générale.
+Le Gouvernement délibère obligatoirement sur la politique générale de l'Etat, les projets de traités et accords internationaux, les projets de lois, les projets de décrets présidentiels, d'arrêtés d'un Vice-Président et d'ordonnances des Ministres ayant un caractère de réglementation générale.
 
 #### Article 133
 
@@ -1274,17 +1274,17 @@ La loi de finances détermine, pour chaque année, les ressources et les charges
 
 Les deux chambres du Parlement se réunissent en congrès pour :
 
-- Recevoir un message du Président de la République ;
+1) Recevoir un message du Président de la République ;
 
-- Accuser  le  Président  de  la  République  en  cas  de  haute trahison par  une  résolution  prise  par  les  deux  tiers  des membres de l'Assemblée Nationale et du Sénat ;
+2) Accuser le Président de la République en cas de haute trahison par une résolution prise par les deux tiers des membres de l'Assemblée Nationale et du Sénat ;
 
-- Réexaminer  le  projet  de  la  loi  de  finances  conformément  à l'article 177 ;
+3) Réexaminer le projet de la loi de finances conformément à l'article 177 ;
 
-- Elire le premier Président de la République post-transition.
+4) Elire le premier Président de la République post-transition.
 
-- Evaluer, tous les six mois, la mise  en  application  du programme du   Gouvernement
+5) Evaluer, tous les six mois, la mise en application du programme du Gouvernement
 
-- Recevoir le serment de la CENI
+6) Recevoir le serment de la CENI
 
 Le  Bureau  du  Parlement  réuni  en  congrès  est  composé  des bureaux de l'Assemblée Nationale et du Sénat. La présidence et la vice-présidence des séances sont confiées respectivement au Président de l'Assemblée Nationale et au Président du Sénat.
 
@@ -1428,13 +1428,13 @@ La  loi électorale prévoit également  le  délai  après  lequel  une personn
 
 Le Sénat est composé de :
 
-- Deux  délégués  de  chaque  province,  élus  par  un  collège électoral composé de membres des Conseils communaux de la province considérée, provenant de communautés ethniques différentes et élus par des scrutins distincts ;
+1) Deux délégués de chaque province, élus par un collège électoral composé de membres des Conseils communaux de la province considérée, provenant de communautés ethniques différentes et élus par des scrutins distincts ;
 
-- Trois personnes issues de l'ethnie Twa ;
+2) Trois personnes issues de l'ethnie Twa ;
 
-- Les anciens Chefs d'Etat .
+3) Les anciens Chefs d'Etat.
 
-Il est assuré un minimum de 30% de femmes. La loi électorale en  détermine  les  modalités  pratiques,  avec  cooptation  le  cas échéant.
+Il est assuré un minimum de 30% de femmes. La loi électorale en détermine les modalités pratiques, avec cooptation le cas échéant.
 
 #### Article 181
 
@@ -1478,17 +1478,17 @@ Les  lois  organiques  sont  votées  à  la  majorité  des  deux  tiers  des s
 
 Le Sénat est doté des compétences suivantes :
 
-- Approuver  les  amendements  à  la  Constitution  et  aux  lois organiques, y compris des lois régissant le processus électoral ;
+1) Approuver les amendements à la Constitution et aux lois organiques, y compris des lois régissant le processus électoral ;
 
-- Etre  saisi  du  rapport  de  l'ombudsman  sur  tout  aspect  de l'administration publique ;
+2) Etre saisi du rapport de l'ombudsman sur tout aspect de l'administration publique ;
 
-- Approuver  les  textes  de  lois  concernant  la  délimitation,  les attributions et les pouvoirs des entités territoriales ;
+3) Approuver les textes de lois concernant la délimitation, les attributions et les pouvoirs des entités territoriales ;
 
-- Mener  des  enquêtes  dans  l'administration  publique  et,  le  cas échéant,  faire  des  recommandations  pour  s'assurer  qu'aucune région  ou  aucun  groupe  n'est  exclu  du  bénéfice  des  services publics ;
+4) Mener des enquêtes dans l'administration publique et, le cas échéant, faire des recommandations pour s'assurer qu'aucune région ou aucun groupe n'est exclu du bénéfice des services publics ;
 
-- Contrôler l'application des dispositions constitutionnelles exigeant  la  représentativité  ethnique  et  de  genre  et  l'équilibre dans toutes les structures et les institutions de l'Etat notamment l'administration publique et les corps de défense et de sécurité ;
+5) Contrôler l'application des dispositions constitutionnelles exigeant la représentativité ethnique et de genre et l'équilibre dans toutes les structures et les institutions de l'Etat notamment l'administration publique et les corps de défense et de sécurité ;
 
-- Conseiller  le  Président  de  la  République  et  le  Président  de l'Assemblée  Nationale  sur  toute  question,  notamment  d'ordre législatif ;
+6) Conseiller le Président de la République et le Président de l'Assemblée Nationale sur toute question, notamment d'ordre législatif ;
 
 [[END OF PAGE 44]]
 
@@ -1496,43 +1496,37 @@ Le Sénat est doté des compétences suivantes :
 
 45
 
-- Formuler des observations  ou  proposer  des  amendements concernant la législation adoptée par l'Assemblée Nationale ;
+7) Formuler des observations ou proposer des amendements concernant la législation adoptée par l'Assemblée Nationale ;
 
-- Elaborer  et  déposer  des  propositions  de  lois  pour  examen  par l'Assemblée Nationale ;
+8) Elaborer et déposer des propositions de lois pour examen par l'Assemblée Nationale ;
 
-- Approuver les nominations uniquement aux fonctions suivantes :
+9) Approuver les nominations uniquement aux fonctions suivantes :
 
-- les chefs des Corps de défense et de sécurité ;
+a) les chefs des Corps de défense et de sécurité ;
 
-- les gouverneurs de province ;
+b) les gouverneurs de province ;
 
-- les ambassadeurs ;
+c) les ambassadeurs ;
 
-- d)
+d) l'Ombudsman ;
 
-- l'Ombudsman ;
+e) les membres du Conseil Supérieur de la Magistrature ;
 
-- les membres du Conseil Supérieur de la Magistrature ;
+f) les membres de la Cour Suprême ;
 
-- les membres de la Cour Suprême ;
+g) les membres de la Cour Constitutionnelle ;
 
-- les membres de la Cour Constitutionnelle ;
+h) le Procureur Général de la République et les magistrats du Parquet Général de la République ;
 
-- le  Procureur  Général  de  la  République  et  les magistrats du Parquet Général de la République ;
+i) le président de la Cour d'Appel et le président de la Cour Administrative ;
 
-- le président de la Cour d'Appel et le président de la Cour Administrative ;
+j) le Procureur Général près la Cour d'Appel ;
 
-- le Procureur Général près la Cour d'Appel ;
+k) les présidents des Tribunaux de Grande Instance, du Tribunal de Commerce et du Tribunal du Travail ;
 
-- les présidents des Tribunaux de Grande Instance, du Tribunal de Commerce et du
+l) les procureurs de la République ;
 
-- Tribunal du Travail ;
-
-- les procureurs de la République ;
-
-- l)
-
-- les membres de la Commission électorale nationale indépendante.
+m) les membres de la Commission électorale nationale indépendante.
 
 ### 4. DE LA PROCEDURE D'ADOPTION DES LOIS
 
@@ -1682,13 +1676,15 @@ Avant  de  promulguer  les  lois  organiques,  le Président de la République d
 
 #### Article 198
 
-Le  Président  de  la  République  peut,  après  consultation  des  VicePrésidents de la République, du Président de l'Assemblée Nationale et du Président du Sénat, soumettre au référendum tout projet de texte  constitutionnel,  législatif  ou  autre,  susceptible  d'avoir  des répercussions profondes sur la vie et l'avenir de la nation ou sur la nature ou le fonctionnement des institutions de la République.
+Le Président de la République peut, après consultation des Vice-Présidents de la République, du Président de l'Assemblée Nationale et du Président du Sénat, soumettre au référendum tout projet de texte constitutionnel, législatif ou autre, susceptible d'avoir des répercussions profondes sur la vie et l'avenir de la nation ou sur la nature ou le fonctionnement des institutions de la République.
 
 [[END OF PAGE 50]]
 
 [[START OF PAGE 51]]
 
 51
+
+et du Président du Sénat, soumettre au référendum tout projet de texte constitutionnel, législatif ou autre, susceptible d'avoir des répercussions profondes sur la vie et l'avenir de la nation ou sur la nature ou le fonctionnement des institutions de la République.
 
 #### Article 199
 
@@ -1732,6 +1728,10 @@ L'Assemblée  Nationale  et  le  Sénat  ont  le  droit  de  constituer  des com
 
 53
 
+## TITRE VIII
+
+### DU POUVOIR JUDICIAIRE
+
 #### Article 205
 
 La  justice    est  rendue  par  les  cours  et  tribunaux  sur  tout  le territoire de la République au nom du peuple burundais.
@@ -1764,10 +1764,6 @@ Dans  l'exercice  de  ses  fonctions,  le  juge  n'est  soumis  qu'à  la Consti
 
 Le  Président  de  la  République,  Chef  de  l'Etat,  est  garant  de l'indépendance de la Magistrature. Il est assisté dans cette mission par le Conseil Supérieur de la Magistrature.
 
-## TITRE VIII
-
-### DU POUVOIR JUDICIAIRE
-
 [[END OF PAGE 53]]
 
 [[START OF PAGE 54]]
@@ -1792,11 +1788,11 @@ Un magistrat ne peut être révoqué que pour faute professionnelle ou incompét
 
 Le Conseil Supérieur de la Magistrature assiste le Président de la République et le Gouvernement dans :
 
-- l'élaboration de la politique en matière de justice ;
+1. l'élaboration de la politique en matière de justice ;
 
-- le suivi de la situation du pays dans le domaine judiciaire et dans  celui des droits de l'homme ;
+2. le suivi de la situation du pays dans le domaine judiciaire et dans celui des droits de l'homme ;
 
-- l'élaboration  des  stratégies  en  matière  de  lutte  contre l'impunité.
+3. l'élaboration des stratégies en matière de lutte contre l'impunité.
 
 #### Article 214
 
@@ -1910,7 +1906,7 @@ La Cour Constitutionnelle est compétente pour :
 
 -statuer  sur  la  régularité  des  élections  présidentielles  et législatives et des référendums  et en proclamer les résultats définitifs;
 
--recevoir le serment du Président de la République, des VicePrésidents de la République et des membres du Gouvernement avant leur entrée en fonctions.
+-recevoir le serment du Président de la République, des Vice-Présidents de la République et des membres du Gouvernement avant leur entrée en fonctions.
 
 -constater la vacance du poste de Président de la République.
 
@@ -1960,7 +1956,7 @@ Les  décisions  de  la  Haute  Cour  de  Justice  ne  sont  susceptibles d'aucu
 
 #### Article 235
 
-En cas de condamnation, le Président de la République, les VicePrésidents de la République, le Président de l'Assemblée nationale et le Président du Sénat  sont déchus de leurs fonctions.
+En cas de condamnation, le Président de la République, les Vice-Présidents de la République, le Président de l'Assemblée nationale et le Président du Sénat sont déchus de leurs fonctions.
 
 #### Article 236
 
@@ -1971,6 +1967,10 @@ Les règles d'organisation et de fonctionnement de la Haute Cour de Justice ains
 [[START OF PAGE 59]]
 
 59
+
+## TITRE IX
+
+### DE L'OMBUDSMAN
 
 #### Article 237
 
@@ -1988,15 +1988,15 @@ L'Ombudsman est nommé par l'Assemblée Nationale à la majorité des  trois  qu
 
 Son mandat est de six ans non renouvelable.
 
-## TITRE IX
-
-### DE  L'OMBUDSMAN
-
 [[END OF PAGE 59]]
 
 [[START OF PAGE 60]]
 
 60
+
+## TITRE X
+
+### DES CORPS DE DEFENSE ET DE SECURITE
 
 #### Article 240
 
@@ -2022,25 +2022,21 @@ Il est créé des commissions parlementaires chargées de superviser le  travail
 
 Ni les corps de défense et de sécurité, ni aucun de leurs membres ne peuvent, dans l'exercice de leurs fonctions :
 
-## TITRE X
-
-### DES CORPS DE DEFENSE ET DE SECURITE
-
 [[END OF PAGE 60]]
 
 [[START OF PAGE 61]]
 
 61
 
-- Porter préjudice aux intérêts d'un parti politique qui, aux termes de la    Constitution, est légal;
+a) Porter préjudice aux intérêts d'un parti politique qui, aux termes de la Constitution, est légal;
 
-- Manifester leurs préférences politiques;
+b) Manifester leurs préférences politiques;
 
-- Avantager  de  manière  partisane  les  intérêts  d'un  parti politique;
+c) Avantager de manière partisane les intérêts d'un parti politique;
 
-- Être membre d'un parti politique ou d'une association à caractère politique;
+d) Être membre d'un parti politique ou d'une association à caractère politique;
 
-- Participer  à  des  activités  ou  manifestations  à  caractère politique.
+e) Participer à des activités ou manifestations à caractère politique.
 
 La loi portant organisation et fonctionnement des corps de défense et de sécurité en réprime la violation.
 
@@ -2064,7 +2060,7 @@ Les corps de défense et de sécurité développent en leur sein une culture non
 
 #### Article 248
 
-Les  lois  organiques  déterminent  la  mise  en  place,  les  missions, l'organisation, l'instruction, les conditions de service et le fonctionnement  de  la  Force  de  défense  nationale,  de  la  Police nationale et du Service national de renseignement.
+Les lois organiques déterminent la mise en place, les missions, l'organisation, l'instruction, les conditions de service et le
 
 [[END OF PAGE 61]]
 
@@ -2072,25 +2068,27 @@ Les  lois  organiques  déterminent  la  mise  en  place,  les  missions, l'orga
 
 62
 
+fonctionnement de la Force de défense nationale, de la Police nationale et du Service national de renseignement.
+
 #### Article 249
 
 Dans les limites déterminées par la Constitution et les lois, seul le Président  de  la  République  peut  autoriser  l'usage  de  la  Force Armée :
 
-- Dans la défense de l'Etat;
+a) Dans la défense de l'Etat;
 
-- Dans  le rétablissement de l'ordre et de la sécurité publique;
+b) Dans le rétablissement de l'ordre et de la sécurité publique;
 
-- Dans  l'accomplissement  des  obligations  et  engagements internationaux.
+c) Dans l'accomplissement des obligations et engagements internationaux.
 
 #### Article 250
 
 Lorsque la force de défense nationale est utilisée dans l'un des cas cités  au  paragraphe  ci-dessus,  le  Président  consulte  officiellement les instances compétentes habilitées et informe le Parlement promptement et de façon détaillée sur :
 
-- La  ou  les  raisons  de  l'emploi  de  la  force  de  défense nationale;
+a) La ou les raisons de l'emploi de la force de défense nationale;
 
-- Tout endroit où cette force est déployée;
+b) Tout endroit où cette force est déployée;
 
-- La période pour laquelle cette force est déployée.
+c) La période pour laquelle cette force est déployée.
 
 #### Article 251
 
@@ -2158,13 +2156,15 @@ Un civil ne peut être assujetti au code de justice militaire ni jugé par une j
 
 65
 
+## TITRE XI
+
+### DES COLLECTIVITES LOCALES
+
 #### Article 262
 
 La commune ainsi que d'autres collectivités locales de la République sont créées par une loi organique.
 
-La loi détermine les principes fondamentaux de leur statut, de leur organisation, de leurs compétences, de leurs ressources ainsi que sont
-
-les conditions dans lesquelles ces collectivités locales administrées.
+La loi détermine les principes fondamentaux de leur statut, de leur organisation, de leurs compétences, de leurs ressources ainsi que les conditions dans lesquelles ces collectivités locales sont administrées.
 
 #### Article 263
 
@@ -2185,10 +2185,6 @@ Les  élections  au  niveau  communal  sont  tenues,  conformément  aux procéd
 #### Article 266
 
 La commission électorale nationale indépendante veille à ce que les Conseils Communaux reflètent d'une manière générale la diversité ethnique de leur électorat. Au cas où la composition d'un Conseil Communal ne refléterait pas cette diversité ethnique, la commission  électorale  nationale  indépendante  peut  ordonner  la cooptation au Conseil de personnes provenant d'un groupe ethnique  sous-représenté,  à  condition  que  les  personnes  ainsi cooptées ne constituent pas plus d'un cinquième des membres du Conseil. Les personnes à coopter sont désignées par la commission électorale  nationale indépendante.
-
-## TITRE XI
-
-### DES COLLECTIVITES LOCALES
 
 [[END OF PAGE 65]]
 
@@ -2304,9 +2300,7 @@ L'Observatoire  National  pour  la  prévention  et  l'éradication  du génocid
 
 -de proposer des politiques et des mesures pour réhabiliter les  victimes  du  génocide,  des  crimes  de  guerre  et  des autres crimes contre l'humanité ;
 
--de contribuer à la mise en œuvre d'un vaste programme de sensibilisation et d'éducation à la paix, à l'unité et à la
-
-- réconciliation nationale.
+-de contribuer à la mise en œuvre d'un vaste programme de sensibilisation et d'éducation à la paix, à l'unité et à la réconciliation nationale.
 
 #### Article 275
 
@@ -2324,6 +2318,8 @@ des autres crimes contre l'humanité.
 
 70
 
+### 3. DU CONSEIL NATIONAL DE SECURITE
+
 #### Article 277
 
 Le  Conseil  National  de  Sécurité  est  un  organe  consultatif  chargé d'assister  le  Président  de  la  République  et  le  Gouvernement  dans l'élaboration de la politique en matière de sécurité, dans le suivi de la  situation  du  pays  en  matière  de  sécurité  et  dans  l'élaboration des stratégies de défense, de sécurité et de maintien de l'ordre en cas de crise.
@@ -2340,9 +2336,7 @@ Les membres du Conseil  National de Sécurité sont nommés par le Président de
 
 #### Article  279
 
-Une  loi organique détermine les missions, la l'organisation et le fonctionnement du Conseil National Sécurité.
-
-composition, de
+Une loi organique détermine les missions, la composition, l'organisation et le fonctionnement du Conseil National de Sécurité.
 
 ### 4. DU CONSEIL ECONOMIQUE ET SOCIAL
 
@@ -2353,8 +2347,6 @@ Le  Conseil  Economique  et  Social  est  un  organe  consultatif  ayant compét
 Il est obligatoirement consulté sur tout projet de plan de développement, sur les questions de l'environnement et de conservation de la nature et sur tout projet d'intégration régionale ou sous-régionale.
 
 Le Conseil Economique et Social peut, de sa propre initiative, sous forme de recommandations, attirer l'attention de l'Assemblée Nationale, du Sénat ou du Gouvernement sur les réformes d'ordre
-
-### 3. DU CONSEIL NATIONAL DE SECURITE
 
 [[END OF PAGE 70]]
 
@@ -2368,7 +2360,7 @@ Il donne également son avis sur toutes les questions portées à son examen  pa
 
 #### Article 281
 
-Le Conseil Economique et Social est composé de membres choisis pour leur compétence dans les différents secteurs socioprofessionnels du pays.
+Le Conseil Economique et Social est composé de membres choisis pour leur compétence dans les différents secteurs socio-professionnels du pays.
 
 Les membres du Conseil Economique et Social sont nommés par le Président de la République en concertation avec les Vice-Présidents de la République.
 
@@ -2418,6 +2410,10 @@ Une loi organique détermine les missions, la composition, l'organisation  et  l
 
 73
 
+## TITRE XIII
+
+### DES TRAITES ET ACCORDS INTERNATIONAUX
+
 #### Article 289
 
 Le Président de la République a la haute direction des négociations internationales. Il signe et ratifie les traités et accords internationaux.
@@ -2444,10 +2440,6 @@ Les  Corps  de  défense  et  de  sécurité  peuvent  participer  à  des opér
 
 L'Assemblée  Nationale  et  le  Sénat  doivent  être  informés  dans  les délais n'excédant pas sept jours.
 
-## TITRE XIII
-
-### DES TRAITES ET ACCORDS INTERNATIONAUX
-
 [[END OF PAGE 73]]
 
 [[START OF PAGE 74]]
@@ -2468,6 +2460,10 @@ Lorsque  la  Cour  Constitutionnelle,  saisie  par  le  Président  de  la Répu
 
 75
 
+## TITRE XIV
+
+### DE LA REVISION DE LA CONSTITUTION
+
 #### Article 297
 
 L'initiative de la révision de la Constitution appartient concurremment au Président de la République après consultation du Gouvernement, à l'Assemblée Nationale ou au Sénat statuant respectivement à la majorité absolue des membres qui les composent.
@@ -2486,10 +2482,6 @@ Le  projet  ou  la  proposition  d'amendement  de  la  Constitution  est adopté
 
 Sénat.
 
-## TITRE  XIV
-
-### DE LA REVISION DE LA CONSTITUTION
-
 [[END OF PAGE 75]]
 
 [[START OF PAGE 76]]
@@ -2498,7 +2490,7 @@ Sénat.
 
 ## TITRE XV
 
-### DES DISPOSITIONS PARTICULIERES POUR LA PREMIERE PERIODE POSTTRANSITION
+### DES DISPOSITIONS PARTICULIERES POUR LA PREMIERE PERIODE POST-TRANSITION
 
 #### Article 301
 
@@ -2514,7 +2506,7 @@ Le Président élu pour la première période post-transition ne peut pas dissou
 
 #### Article 303
 
-À  titre  exceptionnel  également  et  aux  seules  fins  des  premières élections des députés, et uniquement si un parti a remporté plus des trois cinquièmes des sièges au suffrage direct, un total de dixhuit à vingt-un membres supplémentaires sont cooptés en nombres  égaux  à  partir  des  listes de tous les partis  ayant enregistré au moins le seuil fixé pour les suffrages, ou à raison de deux personnes par parti au cas où plus de sept partis réuniraient les conditions requises .
+À  titre  exceptionnel  également  et  aux  seules  fins  des  premières élections des députés, et uniquement si un parti a remporté plus des trois cinquièmes des sièges au suffrage direct, un total de dix-huit à vingt-un membres supplémentaires sont cooptés en nombres  égaux  à  partir  des  listes de tous les partis  ayant enregistré au moins le seuil fixé pour les suffrages, ou à raison de deux personnes par parti au cas où plus de sept partis réuniraient les conditions requises .
 
 Les modalités de cooptation seront déterminées par la loi électorale.
 
@@ -2523,6 +2515,10 @@ Les modalités de cooptation seront déterminées par la loi électorale.
 [[START OF PAGE 77]]
 
 77
+
+## TITRE XVI
+
+### DES DISPOSITIONS TRANSITOIRES
 
 #### Article 304
 
@@ -2543,9 +2539,5 @@ La  Constitution  Intérimaire  Post-Transition  de  la  République  du Burundi
 #### Article 307
 
 La  présente  Constitution  de  la  République  du  Burundi  entre  en vigueur le jour de sa promulgation.
-
-## TITRE XVI
-
-### DES DISPOSITIONS TRANSITOIRES
 
 [[END OF PAGE 77]]
