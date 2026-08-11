@@ -92,7 +92,7 @@ A formação do instrutor de Libras pode ser realizada também por organizaçõe
 As pessoas surdas terão prioridade nos cursos de formação previstos no caput.
 
 ### Art.  7º
-Nos  próximos  dez  anos,  a  partir  da  publicação  deste  Decreto,  caso  não  haja  docente  com  título  de  pósgraduação ou de graduação em Libras para o ensino dessa disciplina em cursos de educação superior, ela poderá ser ministrada por profissionais que apresentem pelo menos um dos seguintes perfis:
+Nos  próximos  dez  anos,  a  partir  da  publicação  deste  Decreto,  caso  não  haja  docente  com  título  de  pós-graduação ou de graduação em Libras para o ensino dessa disciplina em cursos de educação superior, ela poderá ser ministrada por profissionais que apresentem pelo menos um dos seguintes perfis:
 
 ##### I -
 professor de Libras, usuário dessa língua com curso de pós-graduação ou com formação superior e certificado de proficiência em Libras, obtido por meio de exame promovido pelo Ministério da Educação;
@@ -190,11 +190,11 @@ Para garantir o atendimento educacional especializado e o acesso previsto no cap
 ##### I -
 promover cursos de formação de professores para:
 
-###### o ensino e uso da Libras;
+###### a) o ensino e uso da Libras;
 
-###### a tradução e interpretação de Libras - Língua Portuguesa; e
+###### b) a tradução e interpretação de Libras - Língua Portuguesa; e
 
-###### o ensino da Língua Portuguesa, como segunda língua para pessoas surdas;
+###### c) o ensino da Língua Portuguesa, como segunda língua para pessoas surdas;
 
 ##### II -
 ofertar, obrigatoriamente, desde a educação infantil, o ensino da Libras e também da Língua Portuguesa, como segunda língua para alunos surdos;
@@ -202,13 +202,13 @@ ofertar, obrigatoriamente, desde a educação infantil, o ensino da Libras e tam
 ##### III -
 prover as escolas com:
 
-###### professor de Libras ou instrutor de Libras;
+###### a) professor de Libras ou instrutor de Libras;
 
-###### tradutor e intérprete de Libras - Língua Portuguesa;
+###### b) tradutor e intérprete de Libras - Língua Portuguesa;
 
-###### professor para o ensino de Língua Portuguesa como segunda língua para pessoas surdas; e
+###### c) professor para o ensino de Língua Portuguesa como segunda língua para pessoas surdas; e
 
-###### professor  regente  de  classe  com  conhecimento  acerca  da  singularidade  lingüística  manifestada  pelos  alunos surdos;
+###### d) professor  regente  de  classe  com  conhecimento  acerca  da  singularidade  lingüística  manifestada  pelos  alunos surdos;
 
 ##### IV -
 garantir o atendimento às necessidades educacionais especiais de alunos surdos, desde a educação infantil, nas salas de aula e, também, em salas de recursos, em turno contrário ao da escolarização;
@@ -266,7 +266,7 @@ A  definição  de  espaço  para  o  desenvolvimento  da  modalidade  oral  da 
 A  formação  do  tradutor  e  intérprete  de  Libras  -  Língua  Portuguesa  deve  efetivar-se  por  meio  de  curso superior de Tradução e Interpretação, com habilitação em Libras - Língua Portuguesa.
 
 ### Art. 18.
-Nos próximos dez anos, a partir da publicação deste Decreto, a formação de tradutor e intérprete de Libras Língua Portuguesa, em nível médio, deve ser realizada por meio de:
+Nos próximos dez anos, a partir da publicação deste Decreto, a formação de tradutor e intérprete de Libras - Língua Portuguesa, em nível médio, deve ser realizada por meio de:
 
 ##### I -
 cursos de educação profissional;
