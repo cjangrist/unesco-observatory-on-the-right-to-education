@@ -6,6 +6,8 @@ A NATIONAL LITERACY STRATEGY
 
 2014-2019
 
+MINISTRY FOR EDUCATION AND EMPLOYMENT
+
 1
 
 [[END OF PAGE 1]]
@@ -60,13 +62,41 @@ A NATIONAL LITERACY STRATEGY
 
 ## Contents
 
+Minister’s Foreword  6
+Executive Summary  8
+Introduction  17
+Defining Literacy  18
+The Role of Literacy in Personal and Social Development  20
+The National Curriculum Framework for All  21
+The Overriding Principles of the Strategy  22
+Family and Community-based Literacy Programmes  23
+School-initiated and School-based Programmes  25
+National Initiatives  25
+The National Literacy Strategy Framework  26
+The Structure of the National Literacy Strategy for All  28
+A Bilingual Policy  28
+Gender Considerations  29
+The Consultation Process  30
+The Implementation Process  31
+The First Years  31
+The Early Years  34
+The Junior Years  35
+The Secondary Years  38
+Youths  42
+Adults  45
+Children with Learning Difficulties and Disabilities  46
+Third Country Nationals  50
+Digital Literacy  52
+References  56
+Appendix: The Consultative Working Groups  60
+
 5
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-## Minister's Foreword
+## Minister’s Foreword
 
 We consider our efforts to improve levels of literacy to be an important factor in ensuring that everybody feels included in Maltese society.  Over one hundred policy measures are being proposed by the National Literacy Strategy for All in Malta so that we continue to ensure that all our children, youths and adults have the opportunity to acquire the competencies required for them to lead fulfilling lives.
 
@@ -78,13 +108,15 @@ We invite you to join us in this highly challenging and ambitious project as we 
 
 Evarist Bartolo
 
-Minister for Education and Employment A NATIONAL LITERACY STRATEGY
+Minister for Education and Employment
 
 6
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+
+A NATIONAL LITERACY STRATEGY
 
 7
 
@@ -182,7 +214,7 @@ A Balanced Literacy Model
 
 -Promote research studies that will provide a better understanding of literacy practices in Malta and Gozo.
 
--Promote literacy awareness through national initiatives, the media and familyoriented measures.
+-Promote literacy awareness through national initiatives, the media and family-oriented measures.
 
 ### The main objectives for the First Years (0-3) are as follows:
 
@@ -354,7 +386,7 @@ A NATIONAL LITERACY STRATEGY
 
 -All stakeholders are to have a shared vision regarding the objectives for the development of language and literacy abilities through the new technologies.
 
--All the stakeholders in schools are to be involved in all the stages of decisionmaking regarding the one to one vision to ensure the school has full ownership of the project.
+-All the stakeholders in schools are to be involved in all the stages of decision-making regarding the one to one vision to ensure the school has full ownership of the project.
 
 14
 
@@ -422,7 +454,7 @@ Literacy acquisition is not only one of the most important goals of schooling an
 
 > 5    Kress, G. (2003). Literacy in the New Media Age. Rouledge: London.
 
-> 6    Wiegel, M, James, C & Gardner, H.  (2009). Learning: Peering Backward and Looking Forward in the Digital Era', International Journal of Learning and Media (ILJM), 1 (1).
+> 6    Wiegel, M, James, C & Gardner, H. (2009). Learning: Peering Backward and Looking Forward in the Digital Era’, International Journal of Learning and Media (ILJM), 1 (1).
 
 18
 
@@ -460,7 +492,7 @@ This happens as early as kindergarten  11 . In Malta, the level of education and
 
 > 11    Lee, V.E. & Burkam, D.T. (2002). Inequality at the Starting Gate: Social Background Differences in Achievement as Children begin School. Washington, DC: Economic Policy Institute.
 
-> 12   Mifsud, C.L., Grech, R., Hutchison, D., Morrison, J., Rudd, P. & Hanson, J., (2004) Literacy for School Improvement Value Added for Malta . Agenda Publishers, Malta.
+> 12   Mifsud, C.L., Grech, R., Hutchison, D., Morrison, J., Rudd, P. & Hanson, J., (2004) Literacy for School Improvement – Value Added for Malta. Agenda Publishers, Malta.
 
 20
 
@@ -494,7 +526,7 @@ Placing Literacy as the first cross-curricular theme highlights the fact that al
 
 ## The Overriding Principles of the Strategy
 
-In Europe the phenomenon of children who go through the statutory years of schooling without obtaining the basic skills which allow them to move ahead is increasing  16 .  There is also concern about the long term benefits of intervention programmes and what can be done to ensure that there is not a 'fade out' of effects  17 .
+In Europe the phenomenon of children who go through the statutory years of schooling without obtaining the basic skills which allow them to move ahead is increasing  16 .  There is also concern about the long term benefits of intervention programmes and what can be done to ensure that there is not a ‘fade out’ of effects  17 .
 
 The goal in educational intervention is to have lasting effects.  How do we structure programmes that produce lasting effects?  Empirical evidence points to the need for comprehensive interventions that span multiple years and target key transition points. These should be crucial elements of programmes addressing the learning needs of children  18 .
 
@@ -514,7 +546,7 @@ In order to reach everybody the National Literacy Strategy for All features elem
 
 > 20   Kaplan, M.S. (2001), School-Based Intergenerational Programs. Hamburg, Germany: UNESCO.
 
-> 21     Mifsud, C.L., Grech, R., Hutchison, D., Morrison, J., Rudd, P. & Hanson, J., (2004) Literacy for School Improvement - Value Added for Malta. Agenda Publishers, Malta .
+> 21     Mifsud, C.L., Grech, R., Hutchison, D., Morrison, J., Rudd, P. & Hanson, J., (2004) Literacy for School Improvement – Value Added for Malta. Agenda Publishers, Malta.
 
 22
 
@@ -530,13 +562,13 @@ Family literacy programmes are effective in improving both child literacy and pa
 
 Research shows that there are long-term cognitive and non-cognitive gains for disadvantaged children participating in these programmes and long-term returns for society, such as better employment opportunities  23 .  They are particularly effective when parents are trained to teach specific literacy skills and they have clear guidelines about tasks and techniques  24 . Such programmes are more effective when they provide parents with training in socio-emotional support skills, and not only in educational support skills 25 .
 
-Family literacy initiatives are to be run in a way that they complement classroom literacy programmes. This can be achieved by developing a national literacy policy which includes a range of complementary programmes which are targeted to the needs of specific groups. Greater attention needs to be given to the cultural validity of such initiatives, in order to ensure that the needs of low-income families and ethnically diverse target groups are met successfully.  These programmes should seek to improve child literacy and socio-emotional development, while also developing the parents' capacity to support their child's reading ability, for example through dialogic reading programmes. The National Literacy Strategy for All will seek to consolidate existing programmes like those run by the Foundation for Educational Services (FES) like NWAR, Klabb Ħilti, Id F'Id, Malta Writing Programme, Klabb Naħla and Klabb Arzella.  Existing programmes should be reviewed on an ongoing basis and new initiatives developed.
+Family literacy initiatives are to be run in a way that they complement classroom literacy programmes. This can be achieved by developing a national literacy policy which includes a range of complementary programmes which are targeted to the needs of specific groups. Greater attention needs to be given to the cultural validity of such initiatives, in order to ensure that the needs of low-income families and ethnically diverse target groups are met successfully. These programmes should seek to improve child literacy and socio-emotional development, while also developing the parents’ capacity to support their child’s reading ability, for example through dialogic reading programmes. The National Literacy Strategy for All will seek to consolidate existing programmes like those run by the Foundation for Educational Services (FES) like NWAR, Klabb Ħilti, Id F’Id, Malta Writing Programme, Klabb Naħla and Klabb Arzella. Existing programmes should be reviewed on an ongoing basis and new initiatives developed.
 
 > 22    Carpentieri, J., Fairfax-Cholmeley, K., Litster, J., & Vorhaus, J. (2011) Family Literacy in Europe: Using Parental Support Initiatives to Enhance Early Literacy Development. London: NRDC, Institute of Education.
 
 > 23    Kağitçibaşi, Ç., Sunar, D., Bekman, S., & Cemalcilar, Z. (2005). Continuing Effects of Early Intervention in Adult Life: Preliminary Findings of Turkish Early Enrichment Project Second Follow Up Study. Istanbul: Mother Child Education Foundation Publications.
 
-> 24    Sénéchal , M., & Young, L. (2008). The Effect of Family Literacy Interventions on Children's Acquisition of Reading from Kindergarten to Grade 3: A Meta-Analytic Review. Review of Educational Research, 78(4), 880-907.
+> 24    Sénéchal , M., & Young, L. (2008). The Effect of Family Literacy Interventions on Children’s Acquisition of Reading from Kindergarten to Grade 3: A Meta-Analytic Review. Review of Educational Research, 78(4), 880-907.
 
 > 25    Desforges, C. & Abouchaar, A. (2003). The Impact of Parental Involvement, Parental Support and Family Education on Pupil Achievements and Adjustments: A Literature Review. London: DfES.
 
@@ -584,9 +616,9 @@ It is important that programmes are reviewed and evaluated on an on-going basis.
 
 ## The National Literacy Strategy Framework
 
-Formal Education | Non-formal Education | Additional measures
+ | Formal Education | Non-formal Education | Additional measures
 --- | --- | --- | ---
-The First Years | - Family support - Health screening - Child Development and Assessment Unit (CDAU) - Child Care | - Coordination among the health, education and social services authorities. - Shared Reading programmes - Book-rich environments
+The First Years |  | - Family support - Health screening - Child Development and Assessment Unit (CDAU) - Child Care | - Coordination among the health, education and social services authorities. - Shared Reading programmes - Book-rich environments
 The Early Years Cycle | - Balanced Literacy teaching and learning - Increased Reading Time. - Guided Reading - Shared Reading - Baseline Assessment - Core Competencies Extended Profiling system - Early Intervention - Oracy Programme - Complementary Education | - Family Literacy programmes - After-school programmes | - Book-rich environments - Better resourced classroom Libraries
 The Junior Years Cycle | - Balanced Literacy teaching and learning - Increased Reading Time. - Guided Reading - Shared Reading - Core Competences Strategy - Literacy Intervention - Oracy Programme - Complementary Education - School Initiated Action Plans (SIAPs) - Assessment for Learning | - Family Literacy programmes - After-school Literacy programmes - Malta Writing Programme (MWP) | - Book-rich environments - Better resourced classroom Libraries
 
@@ -598,12 +630,12 @@ The Junior Years Cycle | - Balanced Literacy teaching and learning - Increased R
 
 A NATIONAL LITERACY STRATEGY
 
-Formal Education | Non-formal Education | Additional measures
+ | Formal Education | Non-formal Education | Additional measures
 --- | --- | --- | ---
 The Secondary Years | - Balanced Literacy teaching and learning - Increased Reading Time. - Adolescent Literacy - Core Curriculum Programme - Specific School Literacy programmes - Reading clubs - Assessment for Learning | - Basic Skills courses in Youth and Community Centres - courses run by Non-Government Organisations (NGOs) | - Youth literacy - Literacy for Employment - Strengthening the connection between learning and work - Better resourced local and public Libraries
 Transition from Secondary education to Higher Education, training or work | - Embedded literacy programmes | - Link programmes for transition from Secondary to Higher Education | - Strengthening the connection between learning and work
 Youths | - Basic Skills programmes for young people - Embedded literacy programmes - Employment and Training Cooperation(ETC) courses - Malta College for Arts Science and Technology(MCAST) courses | - Basic Skills courses in Youth and Community Centres - courses run by Non-Government Organisations (NGOs) | - Youth literacy - Literacy for Employment - Strengthening the connection between learning and work - Better resourced local and public Libraries
-Adults | - Adult Education courses - Embedded literacy programmes - Employment and Training Coorporation (ETC) programmes - Local Council programmes - Aċċess Centres | - Basic Skills courses in Community Centres | - Literacy for Employment - Strengthening the connection between learning and work - Better resourced local and public Librarie s
+Adults | - Adult Education courses - Embedded literacy programmes - Employment and Training Coorporation (ETC) programmes - Local Council programmes - Aċċess Centres | - Basic Skills courses in Community Centres | - Literacy for Employment - Strengthening the connection between learning and work - Better resourced local and public Libraries
 
 27
 
@@ -629,11 +661,11 @@ Some concern has been shown that a child exposed to more than one language may b
 
 > 27    Council of Europe (2007). From Linguistic Diversity to Plurilingual Education Language Policy Division, Strasbourg.
 
-> 28   Johnstone R (2002), Addressing 'the age factor': Some implications for languages policy, Council of Europe, http:/ / www.coe.int/t/dg4/linguistic/source/JohnstoneEN.pdf
+> 28   Johnstone R (2002), Addressing 'the age factor': Some implications for languages policy, Council of Europe, http://www.coe.int/t/dg4/linguistic/source/JohnstoneEN.pdf
 
-> 29   European Commission (2011), European Strategy Framework for Education and Training. Language Learning at Pre-primary School Level: Making it Efficient and Sustainable - A Policy Handbook, Brussels. http:/ /ec.europa.eu/ education/languages/pdf/ellpwp_en.pdf
+> 29   European Commission (2011), European Strategy Framework for Education and Training. Language Learning at Pre-primary School Level: Making it Efficient and Sustainable - A Policy Handbook, Brussels. http://ec.europa.eu/education/languages/pdf/ellpwp_en.pdf
 
-> 30   Edelenbos, P, Johnstone, R, Kubanek, A. The Main Pedagogical Principles Underlying the Teaching of Languages to Very Young Learners, European Commission, 2006, http:/ /ec.europa.eu/education/policies/lang/doc/young_en.pdf
+> 30   Edelenbos, P, Johnstone, R, Kubanek, A. The Main Pedagogical Principles Underlying the Teaching of Languages to Very Young Learners, European Commission, 2006, http://ec.europa.eu/education/policies/lang/doc/young_en.pdf
 
 28
 
@@ -723,7 +755,7 @@ Early literacy achievement is associated also with lower rates of early school l
 
 Situational factors, such as socio-economic status, limited language proficiency, learning difficulties or disabilities, and parents or caregivers who have themselves experienced reading difficulties, may prevent children from gaining the appropriate experiences that encourage learning  36,37 .  On a national basis there is a need for a collaborative effort by relevant ministries, Local Councils, Public Libraries, early years professionals and the media to seek to raise public awareness of the importance of literacy acquisition in the first years.
 
-> 33   Copple, C., & Bredekamp, S. (Eds.). (2009). Developmentally Appropriate Practice in Early Childhood Programs Serving Children  from Birth to Age 8. Washington, DC: National Association for the Education of Young Children Literacy Panel. Retrieved October 11, 2013, from http:/ /www.nifl.gov/publications/pdf/ NELPReport09.pdf.
+> 33   Copple, C., & Bredekamp, S. (Eds.). (2009). Developmentally Appropriate Practice in Early Childhood Programs Serving Children  from Birth to Age 8. Washington, DC: National Association for the Education of Young Children Literacy Panel. Retrieved October 11, 2013, from http://www.nifl.gov/publications/pdf/NELPReport09.pdf.
 
 > 34    Strickland, D.S. & Riley-Ayers, S. (2006). Early Literacy: Policy and Practice in the Preschool Years . Rutgers: New Brunswick.
 
@@ -789,9 +821,9 @@ For these requirements to be implemented a number of policies need to be present
 
 - 11 Screening and profiling procedures to ensure appropriate intervention by class and complementary teachers and other support specialists are to be developed further.
 
-> 38    Entwisle, D. R., & Alexander K. L. (1993). Entry into School: The Beginning School Transition and Educational Stratication in the United States. Annual Review of Sociology, 19(1), 401-423.
+> 38    Entwisle, D. R., & Alexander K. L. (1993). Entry into School: The Beginning School Transition and Educational Stratification in the United States. Annual Review of Sociology, 19(1), 401-423.
 
-> 39    National Institute for Literacy (2006). The Early Childhood Longitudinal Study. Retrieved October 11th from http:/ /www.nifl.gov/nifl/facts/ECLS.html.
+> 39    National Institute for Literacy (2006). The Early Childhood Longitudinal Study. Retrieved October 11th from http://www.nifl.gov/nifl/facts/ECLS.html.
 
 > 40   Tabors, P.O. & Snow, C.E. (2003). Young Bilingual Children and Early Literacy Development. In S.B. Neuman  & D.K. Dickinson (Eds), Handbook of Early Literacy Research. New York: Guilford Press.
 
@@ -819,9 +851,9 @@ In the Junior years, specific areas of literacy learning are introduced. Student
 
 For effective literacy learning to take place, school standards and policies for literacy need to be planned and implemented. The accomplishment of specific targets, appropriate resource allocation, specialised staff, curriculum content, and professional development should be priorities. There is also a need to promote a team effort, requiring the support of educators at all grade levels, school management, support and complementary staff, parents, and members of the wider community.
 
-> 41   Literacy for Learning (2004): The Report of the Expert Panel on Literacy in Grades 4-6 in Ontario. Retrieved 15th October 2013 from http:/ /www.edu.gov.on.ca/eng/document/reports/literacy/panel/literacy.pdf.
+> 41   Literacy for Learning (2004): The Report of the Expert Panel on Literacy in Grades 4-6 in Ontario. Retrieved 15th October 2013 from http://www.edu.gov.on.ca/eng/document/reports/literacy/panel/literacy.pdf.
 
-> 42   Louden, W., Rohl, M., Barratt Pugh, C., Brown, C., Cairney, T., Elderfield, J., House, H., Meiers, M.,Rivalland, J. & Rowe, K. (2005) 'In Teachers' Hands: Effective Literacy Teaching Practices in the Early Years of Schooling', Monitoring Learning. Retrieved 15th October, 2013 from http:/ /research.acer.edu.au/monitoring_learning/2
+> 42   Louden, W., Rohl, M., Barratt Pugh, C., Brown, C., Cairney, T., Elderfield, J., House, H., Meiers, M.,Rivalland, J. & Rowe, K. (2005) 'In Teachers' Hands: Effective Literacy Teaching Practices in the Early Years of Schooling', Monitoring Learning. Retrieved 15th October, 2013 from http://research.acer.edu.au/monitoring_learning/2
 
 35
 
@@ -897,7 +929,7 @@ A NATIONAL LITERACY STRATEGY
 
 - 26 The Literacy Team shall engage with State primary schools to ensure that there are frequent and systematic opportunities for Shared and Guided reading, as part of the mainstream teaching and learning process. It is expected that these opportunities feature in the School Initiated Action Plans (SIAPs).
 
-- 27 The Literacy T eams shall also engage with staff in the various peripatetic curricular services giving provision in their College. This is to enhance mutual understanding of the literacy challenges faced by that College and to seek to achieve a common purpose.
+- 27 The Literacy Teams shall also engage with staff in the various peripatetic curricular services giving provision in their College. This is to enhance mutual understanding of the literacy challenges faced by that College and to seek to achieve a common purpose.
 
 - 28 The Year 3 Literacy Competences Test shall be administered to all Year 3 learners in state primary schools. Non-state schools shall be invited to participate.
 
@@ -945,7 +977,7 @@ The overriding objective of this policy for the secondary school years is to see
 
 A NATIONAL LITERACY STRATEGY
 
-- 34 Class-based screening is to take place at the beginning of each school year in order to appraise each student's level of proficiency with the support of the College Literacy T eam.
+- 34 Class-based screening is to take place at the beginning of each school year in order to appraise each student's level of proficiency with the support of the College Literacy Team.
 
 - 35 Learners who are struggling in literacy may be provided with additional sessions by specifically designated tutors. These sessions are to be adapted to the level of ability of these students.
 
@@ -959,7 +991,7 @@ A NATIONAL LITERACY STRATEGY
 
 - 40	 That the involvement of parents in the learning process of their children is defined better.  They are to be better informed about the systems prevailing in schools. Parents are to be briefed about the teaching and learning strategies adopted in schools in order to strengthen school-home links and allow them to play a larger role in the education of their children.
 
-- 41 In the first year of secondary school, each student is to have a portfolio from their primary school years.  At least this portfolio should be available for those students who are exempted from the Benchmark Examination. This could feature evidence of pieces of writing from different subjects, student retellings to assess construction of meaning, continuous records of independent reading, self-evaluations, goalsetting checklists that will help in self-assessment, and anecdotal notes explaining achievement over time. This should provide learners, teachers and parents with an opportunity to discuss the learning progress of the students, plan how to meet targets and encourage learners to assume responsibility for their learning.
+- 41 In the first year of secondary school, each student is to have a portfolio from their primary school years.  At least this portfolio should be available for those students who are exempted from the Benchmark Examination. This could feature evidence of pieces of writing from different subjects, student retellings to assess construction of meaning, continuous records of independent reading, self-evaluations, goal-setting checklists that will help in self-assessment, and anecdotal notes explaining achievement over time. This should provide learners, teachers and parents with an opportunity to discuss the learning progress of the students, plan how to meet targets and encourage learners to assume responsibility for their learning.
 
 - 42 There should be increased opportunities for teachers to reflect on their practice and to evaluate, plan and devise programmes that are deemed necessary by the School Literacy Policy.
 
@@ -983,7 +1015,7 @@ A NATIONAL LITERACY STRATEGY
 
 - 49 Content Language Integrated Learning (CLIL) is used more extensively.  This may involve that some non-language subjects are taught exclusively through English or Maltese.
 
-- There is increased exposure to the English Language through additional reading opportunities, the media, new technologies, etc.
+- 50. There is increased exposure to the English Language through additional reading opportunities, the media, new technologies, etc.
 
 - 51 A Centre for Maltese Language and Literature and related educational resources is to be set up. Such a Centre should provide teachers with high quality materials and resources.
 
@@ -1028,7 +1060,7 @@ Policies targeting youth literacy skills should seek to strengthen existing prog
 
 Further Studies and Adult Education, Education Division, Malta:  Government Printing Press.
 
-> 50   Lindsay, D. (2012,). Maltese Literacy Rates of 'Particular Concern' The Malta Independent, retrieved from http:/ /www.independent.com.mt/articles/2012-09-09/news/maltese-literacy-rates-of-particular-concern-315767/
+> 50   Lindsay, D. (2012,). Maltese Literacy Rates of 'Particular Concern' The Malta Independent, retrieved from http://www.independent.com.mt/articles/2012-09-09/news/maltese-literacy-rates-of-particular-concern-315767/
 
 > 51    Ministry of Education and Employment (2012). An Early School Leaving Strategy. Malta.
 
@@ -1052,7 +1084,7 @@ A NATIONAL LITERACY STRATEGY
 
 - 59 Courses in Information Literacy Skills are held for youth workers and youth mentors.
 
-- 60 Youth mentors are trained to establish the buddy system in formal and nonformal settings.  Mentors can also serve as an important link between education professionals and Learning Support Assistants (LSAs) and youth workers within nonformal contexts.
+- 60 Youth mentors are trained to establish the buddy system in formal and non-formal settings.  Mentors can also serve as an important link between education professionals and Learning Support Assistants (LSAs) and youth workers within non-formal contexts.
 
 - 61 Living Libraries projects within formal and non-formal education institutions are embarked upon.  Living Library projects invite people working from different industries to give presentations to youths.  Learners create a living installation with the help of library and literacy staff using self-produced print and audio-visual material based on various information sources.
 
@@ -1160,9 +1192,9 @@ In Malta a number of services for children with learning difficulties and disabi
 
 > 55   Kaye, H. S. (2005). Unpublished Tabulations of 2005 Data from the U.S. Survey of Income and Program Participation. Washington, DC: U.S. Census Bureau, Survey of Income and Program Participation (SIPP).
 
-> 56   Mooney, M. & Pacuilla-Silver, H. (2010). Literacy, Employment and Youth with Learning Disabilities: Aligning Workforce Development Policies and Programs retrieved November 1st 2013 from http:/ /files.eric.ed.gov/fulltext/ ED512296.pdf
+> 56   Mooney, M. & Pacuilla-Silver, H. (2010). Literacy, Employment and Youth with Learning Disabilities: Aligning Workforce Development Policies and Programs retrieved November 1st 2013 from http://files.eric.ed.gov/fulltext/ED512296.pdf
 
-> 57    Bezzina, F., Callus, A.M. & Cardona, G.C. (2010). The Quality of Life of Disabled People: Some Answers from Census 2005. Malta: KNPD, available from: http/ /www.knpd.org/
+> 57    Bezzina, F., Callus, A.M. & Cardona, G.C. (2010). The Quality of Life of Disabled People: Some Answers from Census 2005. Malta: KNPD, available from: http//www.knpd.org/
 
 > 58   Report by a Working Party of the Division of Educational and Child Psychology (1999). Dyslexia, Literacy and Psychological Assessment. U.K: The British Psychological Society.
 
@@ -1234,7 +1266,7 @@ In most state primary schools, complementary education and literacy support teac
 
 > 63    Calleja, C., Cauchi, B., & Grech, M. (2010). Education and Ethnic Minorities in Malta. Malta: e-SPICES Learning Partnership.
 
-> 64    Bezzina, F., Callus, A.M. & Cardona, G.C. (2010). The Quality of Life of Disabled People: Some Answers from Census 2005. Malta: KNPD, available from: http/ /www.knpd.org/
+> 64    Bezzina, F., Callus, A.M. & Cardona, G.C. (2010). The Quality of Life of Disabled People: Some Answers from Census 2005. Malta: KNPD, available from: http//www.knpd.org/
 
 > 64    Vassallo, J. (2013). The Integration of Third Country Nationals in the Maltese Education System . Department of Quality and Standards in Education, Ministry for Education and Employment.
 
@@ -1342,7 +1374,7 @@ This policy makes a number of recommendations for nurturing digital literacies i
 
 - 122	 Information and parental education sessions are offered to parents to allow them to be able to assist their children in accessing the relevant e-content from home.
 
-> 69 Hague, C & Payton, S (2010), Digital Literacy across the Curriculum. Futurelab , retrieved 26th October from  www. futurelab.org.uk/ projects/digital-participation.
+> 69 Hague, C & Payton, S (2010), Digital Literacy across the Curriculum. Futurelab, retrieved 26th October from www.futurelab.org.uk/projects/digital-participation.
 
 > 70   Ministry for Education and Employment (2012). A National Curriculum Framework for All. Malta: Salesian Press.
 
@@ -1404,7 +1436,7 @@ A NATIONAL LITERACY STRATEGY
 
 ## References
 
-Asian American Justice Center, (2007). Adult Literacy Education in Immigrant Communities: Identifying Policy and Program Priorities for Helping Newcomers Learn English. Retrieved on 26th October, 2013 from http:/ /www.aecf.org/upload/publicationfiles/IM3622H5009.pdf
+Asian American Justice Center, (2007). Adult Literacy Education in Immigrant Communities: Identifying Policy and Program Priorities for Helping Newcomers Learn English. Retrieved on 26th October, 2013 from http://www.aecf.org/upload/publicationfiles/IM3622H5009.pdf
 
 Bailey, I (2006), Overview of the Adult Literacy System in Ireland and Current Issues in its Implementation, in Review of Adult Learning and Literacy: volume 6: Connecting Research, Policy, and Practice, eds J Comings, B Garner, C Smith & N Center for the Study of Adult Learning and Literacy, Lawrence Erlbaum Associates, Mahwah, pp.197-240.
 
@@ -1418,17 +1450,19 @@ Calleja, C., Cauchi, B., & Grech, M. (2010). Education and Ethnic Minorities in 
 
 Carpentieri, J., Fairfax-Cholmeley, K., Litster, J., & Vorhaus, J. (2011) Family Literacy in Europe: Using Parental Support Initiatives to Enhance Early Literacy Development. London: NRDC, Institute of Education.
 
-Copple, C., & Bredekamp, S. (Eds.). (2009). Developmentally Appropriate Practice in Early Childhood Programs Serving Children from Birth to Age 8. Washington, DC: National Association for the Education of Young Children Literacy Panel. Retrieved October 11, 2013, from http:/ /www.nifl.gov/ publications/pdf/ NELPReport09.pdf
+Copple, C., & Bredekamp, S. (Eds.). (2009). Developmentally Appropriate Practice in Early Childhood Programs Serving Children from Birth to Age 8. Washington, DC: National Association for the Education of Young Children Literacy Panel. Retrieved October 11, 2013, from http://www.nifl.gov/publications/pdf/NELPReport09.pdf
 
 Council of Europe (2007). From Linguistic Diversity to Plurilingual Education. Language Policy Division, Strasbourg.
 
 Desforges, C. & Abouchaar, A. (2003). The Impact of Parental Involvement, Parental Support and Family Education on Pupil Achievements and Adjustments: A Literature Review. London: DfES.
 
-Driessen, G., Van Der Silk, F & De Bot, K. (2002) Home Language and Language Proficiency: A Large-Scale Longitudinal Study in Dutch Primary Schools. J ournal of Multilingual and Multicultural Development, 20, 175-194.
+Driessen, G., Van Der Silk, F & De Bot, K. (2002) Home Language and Language Proficiency: A Large-Scale Longitudinal Study in Dutch Primary Schools. Journal of Multilingual and Multicultural Development, 20, 175-194.
 
-Entwisle, D. R., & Alexander K. L. (1993). Entry into School: The Beginning School Transition and Educational Stratication in the United States. Annual Review of Sociology, 19(1), 401-423. European Union High Level Group of Experts on Literacy (2012) Act now! Final report: EU High Level Group of Experts on Literacy. Luxembourg: Publications Office of the European Union.
+Entwisle, D. R., & Alexander K. L. (1993). Entry into School: The Beginning School Transition and Educational Stratication in the United States. Annual Review of Sociology, 19(1), 401-423.
 
-Frendo, V. (2005). Children's Rights and Cultural Diversity in the School. A Focus on the Integration of Non-Maltese Speaking Children in the Primary Classroom. (Unpublished Master's dissertation). University of Malta, Malta.
+European Union High Level Group of Experts on Literacy (2012) Act now! Final report: EU High Level Group of Experts on Literacy. Luxembourg: Publications Office of the European Union.
+
+Frendo, V. (2005). Children's Rights and Cultural Diversity in the School. A Focus on the Integration
 
 56
 
@@ -1437,6 +1471,8 @@ Frendo, V. (2005). Children's Rights and Cultural Diversity in the School. A Foc
 [[START OF PAGE 59]]
 
 A NATIONAL LITERACY STRATEGY
+
+of Non-Maltese Speaking Children in the Primary Classroom. (Unpublished Master's dissertation). University of Malta, Malta.
 
 Galea, S., Attard Tonna, M., & Cassar, J. (2011). Young Migrant Women in the Making. Educational Experiences in Maltese Secondary Schools. In J. Christododoulou (Ed.), Young Migrant Women in Secondary Education. Promoting Integration and Mutual Understanding Through Dialogue and Exchange (pp. 87-124). Cyprus: University of Nicosia Press.
 
@@ -1448,7 +1484,7 @@ Gregg, N. (2009). Research-Based Best Practice: Assessing and Accommodating the 
 
 Evans, J (ed) (2004). Literacy Moves On: Using Popular Culture, New Technologies and Critical Literacy in the Primary Classroom. London: David Fulton Publishers.
 
-Hague, C & Payton, S (2010), Digital Literacy across the Curriculum. Futurelab, retrieved 26th October from  www.futurelab.org.uk/ projects/digital-participation.
+Hague, C & Payton, S (2010), Digital Literacy across the Curriculum. Futurelab, retrieved 26th October from www.futurelab.org.uk/projects/digital-participation.
 
 Herrington, J., Oliver, R., & Reeves, C. (2003). Patterns of Engagement in Authentic Online Learning Environments. Australian Journal of Educational Technology, 19(1), 59-71.
 
@@ -1456,7 +1492,7 @@ Henry, M.K. (2004). Unlocking Literacy: Effective Decoding & Spelling Instructio
 
 Jacobs, J. E., Lanza, S., Osgood, D. W., Eccles, J. S., & Wigfield, A. (2002) 'Ontogeny of Children's Self Beliefs: Gender and Domain Differences across Grades One Through 12', Child Development, 73, 509-527.
 
-Johnstone, R (2002) Addressing 'the age factor': Some implications for languages policy, Council of Europe, http:/ /www.coe.int/t/dg4/linguistic/source/JohnstoneEN.pdf
+Johnstone, R (2002) Addressing 'the age factor': Some implications for languages policy, Council of Europe, http://www.coe.int/t/dg4/linguistic/source/JohnstoneEN.pdf
 
 Kağitçibaşi, Ç., Sunar, D., Bekman, S., & Cemalcilar, Z. (2005). Continuing Effects of Early Intervention in Adult Life: Preliminary Findings of Turkish Early Enrichment Project Second Follow Up Study. Istanbul: Mother Child Education Foundation Publications.
 
@@ -1474,13 +1510,11 @@ Lee, V.E. & Burkam, D.T. (2002). Inequality at the Starting Gate: Social Backgro
 
 [[START OF PAGE 60]]
 
-Lindsay, D. (2012, September 9). Maltese Literacy Rates of 'Particular Concern' The Malta Independent, retrieved from http:/ /www.independent.com.mt/articles/2012-09-09/news/malteseliteracy-rates-of-particular-concern-315767/
+Lindsay, D. (2012, September 9). Maltese Literacy Rates of 'Particular Concern' The Malta Independent, retrieved from http://www.independent.com.mt/articles/2012-09-09/news/maltese-literacy-rates-of-particular-concern-315767/
 
-Literacy for Learning (2004): The Report of the Expert Panel on Literacy in Grades 4-6 in Ontario. Retrieved 15th October 2013 from http:/ /www.edu.gov.on.ca/eng/document/reports/literacy/panel/literacy.pdf.
+Literacy for Learning (2004): The Report of the Expert Panel on Literacy in Grades 4-6 in Ontario. Retrieved 15th October 2013 from http://www.edu.gov.on.ca/eng/document/reports/literacy/panel/literacy.pdf.
 
-Louden, W., Rohl, M., Barratt Pugh, C., Brown, C., Cairney, T., Elderfield, J., House, H., Meiers, M.,Rivalland, J. & Rowe, K. (2005) 'In Teachers' Hands: Effective Literacy Teaching Practices in the Early Years of Schooling', Monitoring Learning . Retrieved 15th October, 2013 from http:/ /research.
-
-acer.edu.au/monitoring_learning/2
+Louden, W., Rohl, M., Barratt Pugh, C., Brown, C., Cairney, T., Elderfield, J., House, H., Meiers, M.,Rivalland, J. & Rowe, K. (2005) 'In Teachers' Hands: Effective Literacy Teaching Practices in the Early Years of Schooling', Monitoring Learning. Retrieved 15th October, 2013 from http://research.acer.edu.au/monitoring_learning/2
 
 Mifsud, C.L, Grech, R., Muscat, D. & Rudd, P. (2006) A Study of Young People following Basic Skills Courses in Malta. Department Further Studies and Adult Education, Education Division, Malta: Government Printing Press.
 
@@ -1492,13 +1526,11 @@ Ministry for Education and Employment (2012). A National Curriculum Framework fo
 
 Ministry of Education and Employment (2012). An Early School Leaving Strategy. Malta
 
-Mooney, M. & Pacuilla-Silver, H. (2010). Literacy, Employment and Youth with Learning Disabilities: Aligning Workforce Development Policies and Programs retrieved November 1st 2013 from http:/ /
-
-files.eric.ed.gov/fulltext/ED512296.pdf
+Mooney, M. & Pacuilla-Silver, H. (2010). Literacy, Employment and Youth with Learning Disabilities: Aligning Workforce Development Policies and Programs retrieved November 1st 2013 from http://files.eric.ed.gov/fulltext/ED512296.pdf
 
 National Center for Family Literacy. (2008). Developing Early Literacy: Report of the National Early Literacy Panel.
 
-National Institute for Literacy (2006). The Early Childhood Longitudinal Study. Retrieved October 11th from http:/ /www.nifl.gov/nifl/facts/ECLS.html.
+National Institute for Literacy (2006). The Early Childhood Longitudinal Study. Retrieved October 11th from http://www.nifl.gov/nifl/facts/ECLS.html.
 
 Neuman, S., Copple, C., & Bredekamp, S. (2000). Learning to Read and Write: Developmentally Appropriate Practices for Young Children. Washington, DC: National Association for the Education of Young Children.
 
@@ -1508,7 +1540,7 @@ Nygaard, C. (2009) Students' Antisocial and Violent Behaviour in State Secondary
 
 Organisation for Economic Co-operation and Development. (2009). PISA 2009 Assessment Framework: Key Competencies in Reading, Mathematics and Science. Paris.
 
-Organisation for Economic Co-operation and Development (OECD)(1996), Lifelong Learning for All , OECD, Paris Programme for International Student Assessment (PISA 2009+) (2013), Malta Report, Ministry for Education and Employment, Malta.
+Organisation for Economic Co-operation and Development (OECD)(1996), Lifelong Learning for All, OECD, Paris
 
 58
 
@@ -1517,6 +1549,8 @@ Organisation for Economic Co-operation and Development (OECD)(1996), Lifelong Le
 [[START OF PAGE 61]]
 
 A NATIONAL LITERACY STRATEGY
+
+Programme for International Student Assessment (PISA 2009+) (2013), Malta Report, Ministry for Education and Employment, Malta.
 
 Progress in International Reading Literacy Study (PIRLS, 2011), Malta Report, Ministry for Education and Employment, Malta.
 
@@ -1593,5 +1627,7 @@ A NATIONAL LITERACY STRATEGY
 [[START OF PAGE 64]]
 
 62
+
+MINISTRY FOR EDUCATION AND EMPLOYMENT
 
 [[END OF PAGE 64]]
