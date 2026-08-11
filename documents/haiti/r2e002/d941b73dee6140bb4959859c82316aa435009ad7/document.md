@@ -20,6 +20,43 @@ Septembre  2015
 
 # TABLE DES MATIÈRES
 
+Acknowledgments....................................................................................... Error! Bookmark not defined.
+Abbreviations.............................................................................................. Error! Bookmark not defined.
+1. Introduction...............................................................................................................................................1
+1.1 Généralités..........................................................................................................................................1
+1.2 Justification pour une Stratégie Nationale de Protection de l’Enfant .................................................1
+1.3 Processus d’élaboration ......................................................................................................................2
+2. Le Contexte du pays et la situation de la protection de l’Enfant en Haiti.................................................3
+2.1 Contexte du pays.................................................................................................................................3
+2.1 Les questions de protection de l’Enfant..............................................................................................5
+2.3 Le Cadre actuel de Protection de l’Enfant ..........................................................................................7
+2.3.1 L’engagement politique – la Coordination – la Collaboration entre les acteurs..........................7
+3. Définitions...............................................................................................................................................11
+3.1 Définitions générales ........................................................................................................................11
+3.2 Définitions de la vulnérabilité des enfants........................................................................................12
+4. La Stratégie Nationale de Protection – Généralités................................................................................14
+4.1 Nature de la SNPE ............................................................................................................................14
+Approches...........................................................................................................................................15
+4.2 Grands axes de la SNPE ...................................................................................................................16
+Le lien avec la protection sociale........................................................................................................16
+4.3 Les acteurs de la mise en œuvre de la SNPE....................................................................................18
+4.4 Opérationnalisation de la SNPE........................................................................................................21
+5. La Stratégie Nationale de Protection de l’Enfant....................................................................................21
+5.1 Vision, Principes Fondamentaux et Objectifs de la SNPE ...............................................................21
+5.2 Les Objectifs de la SNPE :................................................................................................................24
+6. Objectifs, Sous Objectifs et Actions Stratégiques de la SNPE...............................................................24
+Objectif 1 : Formaliser et renforcer l’engagement de l'État dans la mise en œuvre de la SNPE et dans
+la protection de l’enfant dans son ensemble .......................................................................................24
+Objectif 2 : Compléter et appliquer le cadre normatif concernant la protection de l’enfant - des lois,
+normes, standards, régulations............................................................................................................27
+Objectif 3 : Renforcement des services de base par rapport aux questions de protection de l’enfant 28
+Objectif 4 : Renforcer les connaissances et capacités des communautés, des familles et des enfants
+par rapport à la protection de l’enfant.................................................................................................32
+Objectif 5 : Etablir un système de suivi et évaluation.........................................................................34
+7. Coordination et collaboration : Gestion de la Stratégie Nationale de Protection de l’Enfant.................36
+8. Suivi et Evaluation..................................................................................................................................38
+Annex A. Cadre Logique de la Stratégie Nationale de Protection de l’Enfant Haïti, 2015 – 2020............40
+
 iii
 
 [[END OF PAGE 2]]
@@ -48,7 +85,7 @@ La  SNPE  cherche  à  s'inscrire  dans  le  Plan  Stratégique  de  Développem
 
 Le République d'Haïti a ratifié la convention internationale relative aux droits des enfants (CDE) en 1995 et ainsi s'engage à respecter les droits des enfants. Ces droits sont déterminés dans plusieurs articles de la CDE. Concernant les enfants en situation difficile, l'article  19 de la CDE oblige l'Etat partie à prendre :
 
-« toutes  les  mesures  législatives,  administratives,  sociales  et  éducatives  appropriées  pour protéger  l'enfant  contre  toute  forme  de  violence,  d'atteinte  ou  de  brutalités  physiques  ou mentales,  d'abandon  ou  de  négligence,  de  mauvais  traitements  ou  d'exploitation,  y  compris  la violence sexuelle, pendant qu'il est sous la garde de ses parents ou de l'un d'eux, de son ou ses représentants légaux ou de toute autre personne à qui il est confié.'
+« toutes les mesures législatives, administratives, sociales et éducatives appropriées pour protéger l'enfant contre toute forme de violence, d'atteinte ou de brutalités physiques ou mentales, d'abandon ou de négligence, de mauvais traitements ou d'exploitation, y compris la violence sexuelle, pendant qu'il est sous la garde de ses parents ou de l'un d'eux, de son ou ses représentants légaux ou de toute autre personne à qui il est confié.”
 
 Ces mesures de protection comprendront en outre :
 
@@ -60,7 +97,7 @@ Ces mesures de protection comprendront en outre :
 
 « des procédures efficaces pour l'établissement de programmes sociaux visant à fournir l'appui nécessaire à l'enfant et à ceux à qui il est confié, ainsi que pour d'autres formes de prévention, et aux fins d'identification, de rapport, de renvoi, d'enquête, de traitement et de suivi pour les cas de  mauvais  traitements  de  l'enfant  décrits  ci-dessus,  et  comprendra  également,  selon  qu'il conviendra, des procédures d'intervention judiciaire. » 1
 
-Le droit à la protection des enfants est aussi inscrit dans la constitution haïtienne en son article 261 qui stipule que: ' la loi assure la protection à tous les enfants. Tout enfant a droit à l'amour, à l'affection, à la compréhension et aux soins moraux et matériels de son père et de sa mère.'
+Le droit à la protection des enfants est aussi inscrit dans la constitution haïtienne en son article 261 qui stipule que: “ la loi assure la protection à tous les enfants. Tout enfant a droit à l'amour, à l'affection, à la compréhension et aux soins moraux et matériels de son père et de sa mère.”
 
 La SNPE est plus spécifiquement justifiée par le fait que:
 
@@ -146,7 +183,7 @@ En particulier, des représentants des intervenants suivants ont été consulté
 
 La population d'Haïti est d'environ 10,413, 211 habitants constituée de 35% de moins de 15 ans et 58.4% entre  15  et  64  ans 2 avec  un  taux  de  naissance  de  trois  enfants  par  femme  en  milieu  urbain  et  quatre enfants par femme en milieu rural. La population haïtienne est presque également répartie entre les zones urbaines  (49,5%) et les  zones  rurales  (50,5%),  conséquence  d'une  migration  urbaine  croissante 3 liée  à plusieurs  facteurs  incluant  l'absence  d'infrastructures  et  de  services  en  milieu  rural 4 .  La  distribution spatiale de la population manifeste de fortes inégalités. Trois départements (Ouest, Artibonite et Nord) absorbent 62,5% de la population totale, en particulier, Port-au-Prince abrite 45,9% de la population totale et le département des Nippes est le moins peuplé (3,1%) 5 .
 
-Plus des trois quarts de la population (77%) haïtienne vivent dans la pauvreté, avec moins de 2 US$ par personne par jour en 2005 et plus de la moitié (56%) sont affectés par la pauvreté extrême, avec un revenu de moins de USD$1 par jour 6 . Le coefficient de Gini (0,65) reflète des disparités frappantes. Le quintile le plus riche bénéficie de 70% du revenu national, tandis que les plus pauvres doivent se contenter de 1,5% seulement 7 du même revenu. Les ménages dirigés par les femmes constituent 45% de la population des ménages.    Ces  ménages  sont  bien  plus  pauvres  que  ceux  dirigés  par  les  hommes  et  62%  de  ménages ruraux dirigés par les femmes vivent en-dessous du seuil de pauvreté 8 .
+Plus des trois quarts de la population (77%) haïtienne vivent dans la pauvreté, avec moins de 2 US$ par
 
 > 2 Institut Haïtien de Statistique et d'Informatique (IHSI), Janvier 2012, http://www.ihsi.ht/produit_demo_soc.htm, 16/01/2014
 
@@ -162,7 +199,9 @@ Plus des trois quarts de la population (77%) haïtienne vivent dans la pauvreté
 
 [[START OF PAGE 6]]
 
-Le pays est  aussi  caractérisé  par  des  profondes  inégalités  dans  l'accès  aux  services  et  aux  moyens  de production  qui affectent 80% de la population 9 .  Finalement, il existe une privation de fait des services essentiels: plus de 60% de la population n'ont pas d'accès à l'énergie. Au niveau global, un peu moins de quatre ménages sur dix (38 %) disposent de l'électricité: 86 % dans l'aire métropolitaine de la capitale, 55 % dans les autres villes et 15 % en milieu rural 10 . L'offre de services en matière d'éducation est à la fois insuffisante et inégale. La majorité (90%) des services est administrée par le secteur non-public. Près de huit enfants de 6 à 11 ans, sans disparité entre les filles et les garçons, sur dix (77 %) fréquentent  l'école primaire 11 . Selon l'IHSI, dans un recensement de 2003, l'analphabétisme parmi les personnes de 10 ans et plus est à 61%.
+personne par jour en 2005 et plus de la moitié (56%) sont affectés par la pauvreté extrême, avec un revenu de moins de USD$1 par jour 6. Le coefficient de Gini (0,65) reflète des disparités frappantes. Le quintile le plus riche bénéficie de 70% du revenu national, tandis que les plus pauvres doivent se contenter de 1,5% seulement 7 du même revenu. Les ménages dirigés par les femmes constituent 45% de la population des ménages. Ces ménages sont bien plus pauvres que ceux dirigés par les hommes et 62% de ménages ruraux dirigés par les femmes vivent en-dessous du seuil de pauvreté 8.
+
+Le pays est aussi caractérisé par des profondes inégalités dans l'accès aux services et aux moyens de production qui affectent 80% de la population 9. Finalement, il existe une privation de fait des services essentiels: plus de 60% de la population n'ont pas d'accès à l'énergie. Au niveau global, un peu moins de quatre ménages sur dix (38 %) disposent de l'électricité: 86 % dans l'aire métropolitaine de la capitale, 55 % dans les autres villes et 15 % en milieu rural 10. L'offre de services en matière d'éducation est à la fois insuffisante et inégale. La majorité (90%) des services est administrée par le secteur non-public. Près de huit enfants de 6 à 11 ans, sans disparité entre les filles et les garçons, sur dix (77 %) fréquentent l'école primaire 11. Selon l'IHSI, dans un recensement de 2003, l'analphabétisme parmi les personnes de 10 ans et plus est à 61%.
 
 Lié  à  sa  situation  géographique,  Haïti  est  vulnérable  aux  désastres  naturels,  incluant  les  séismes, ouragans, inondations et sécheresses, une vulnérabilité qui est accrue par la dégradation environnementale causée par la déforestation. Ces désastres naturels, surtout le séisme du 12 Janvier 2010, ont exacerbés et vont continuer à aggraver les difficultés socio-économiques du pays.
 
@@ -200,9 +239,9 @@ Les  violations  du  droit  à  la  protection  de  l'enfant  constituent  depui
 
 Peu d'information actualisée existe sur  les différentes formes des violations et les chiffres existants ne sont pas toujours valables. Cette section de la SNPE, ne peut donc pas et ne vise pas à donner une image complète des violations du droit à  la protection des enfants. Ladite section ne tient pas compte de toutes les vulnérabilités identifiées en Haiti de manière exhaustive. Ce qui sera présenté plus bas dans le cadre des définitions de la vulnérabilité des enfants en Haïti.
 
-Les  résultats  de  l'enquête  sur  la violence  contre  les  enfants de  2012 14 indiquent  que  cette  forme  de violation est très répandue en Haïti. La prévalence de la violence physique et  des  châtiments  corporels reste particulièrement importante : 60,5 % des femmes et 57,2 % des hommes âgés de 18 à 24 ans ont été victimes de violence physique avant l'âge de 18 ans. Selon cette enquête, 25,7% des filles et 21,2% des garçons  ont  été  exposés  à  la violence  sexuell e  et  34,6%  des  filles  et  27,2%  des  garçons  à  la violence psychologique .  Les  violences  ont  lieu  au  sein  des  familles  et  communautés  mais  aussi  au  sein  des institutions telles que l'école.
+Les résultats de l'enquête sur la violence contre les enfants de 2012 14 indiquent que cette forme de violation est très répandue en Haïti. La prévalence de la violence physique et des châtiments corporels reste particulièrement importante : 60,5 % des femmes et 57,2 % des hommes âgés de 18 à 24 ans ont été victimes de violence physique avant l'âge de 18 ans. Selon cette enquête, 25,7% des filles et 21,2% des garçons ont été exposés à la violence sexuelle et 34,6% des filles et 27,2% des garçons à la violence psychologique. Les violences ont lieu au sein des familles et communautés mais aussi au sein des institutions telles que l'école.
 
-Une des plus grandes préoccupations  dans la protection des enfants en Haïti est le nombre très élevé des institutions  pour  enfants. Selon  le décret-loi  du  22  septembre  1971,  ces  institutions  incluent :  «  les institutions  publiques  ou  privées,  laïques  ou  religieuses,  habilitées  à  recevoir  et  prendre  en  charge  les enfants orphelins, abandonnés, irréguliers d'ordre physique ou mental ». Ces institutions, pour la plupart, ne sont pas enregistrées et interviennent par conséquent en dehors du suivi et du contrôle de l'Etat. Ils hébergent des enfants, qui, dans la majorité des cas  ne sont ni des  orphelins, ni des enfants abandonnés, ceux-ci vivant en institution uniquement pour des raisons socio- économiques. En 2010, l'IBESR, avec l'accompagnement  de  ses  partenaires  de  protection,  a  initié  le  recensement  des  enfants  vivant  en institutions.  Après l'évaluation de ces institutions,  l'IBESR a estimé qu'environ 30,000 enfants vivent en institution  et  plus  de  80%  d'entre  eux    ne  sont  orphelins  ni  de  père  et  ni  de  mère 15 .  Les  raisons  du placement  des  enfants  en  institution  incluent  d'un  côté  la  pauvreté  et  le  manque  d'appui  aux  familles vulnérables et de l'autre l'existence d'une multitude d'institutions qui se proposent de prendre en charge des enfants.  En  2012,    un répertoire a  été  élaboré,    faisant  état  de    775  maisons  d'enfants 16 ,  dont  484 uniquement  à  Port-au-Prince,  avec  moins  de  la  moitié  respectant  les  standards  minimums  de  prise  en charge. Entre 2011 et 2013, l'IBESR a fermé 45 de ces structures pour maltraitance et négligence grave. Un  autre  facteur  lié  à  la  séparation  des  enfants  de  leurs  familles  et  l'expansion  des  institutions  non contrôlées est l'adoption des enfants. Selon un rapport du Service Social International 17 ,  1,238  enfants haïtiens  ont  été  soumis  à  l'adoption  internationale  en  2009.  En  2010,  année  du  séisme,  ce  nombre  est passé  à  2,601,  soit  le  double  de  l'année  précédente,  dont  la  majorité  dans  les  trois  mois  suivant  le séisme 18 .
+Une des plus grandes préoccupations dans la protection des enfants en Haïti est le nombre très élevé des institutions pour enfants. Selon le décret-loi du 22 septembre 1971, ces institutions incluent : « les institutions publiques ou privées, laïques ou religieuses, habilitées à recevoir et prendre en charge les enfants orphelins, abandonnés, irréguliers d'ordre physique ou mental ». Ces institutions, pour la plupart, ne sont pas enregistrées et interviennent par conséquent en dehors du suivi et du contrôle de l'Etat. Ils hébergent des enfants, qui, dans la majorité des cas ne sont ni des orphelins, ni des enfants abandonnés, ceux-ci vivant en institution uniquement pour des raisons socio- économiques. En 2010, l'IBESR, avec l'accompagnement de ses partenaires de protection, a initié le recensement des enfants vivant en institutions. Après l'évaluation de ces institutions, l'IBESR a estimé qu'environ 30,000 enfants vivent en institution et plus de 80% d'entre eux ne sont orphelins ni de père et ni de mère 15. Les raisons du placement des enfants en institution incluent d'un côté la pauvreté et le manque d'appui aux familles vulnérables et de l'autre l'existence d'une multitude d'institutions qui se proposent de prendre en charge
 
 > 12 Les opinions des enfants reflétés dans ce document sont issues de discussions menées dans le cadre d'un atelier avec la participation de 37 enfants et adolescents de 7 à 17 ans dont 26 filles et 11 garçons.
 
@@ -218,17 +257,21 @@ Une des plus grandes préoccupations  dans la protection des enfants en Haïti e
 
 [[START OF PAGE 8]]
 
+des enfants. En 2012, un répertoire a été élaboré, faisant état de 775 maisons d'enfants 16, dont 484 uniquement à Port-au-Prince, avec moins de la moitié respectant les standards minimums de prise en charge. Entre 2011 et 2013, l'IBESR a fermé 45 de ces structures pour maltraitance et négligence grave.
+
+Un autre facteur lié à la séparation des enfants de leurs familles et l'expansion des institutions non contrôlées est l'adoption des enfants. Selon un rapport du Service Social International 17, 1,238 enfants haïtiens ont été soumis à l'adoption internationale en 2009. En 2010, année du séisme, ce nombre est passé à 2,601, soit le double de l'année précédente, dont la majorité dans les trois mois suivant le séisme 18.
+
 Selon les résultats de l'EMMUS V, 50% des enfants entre 5 et 14 ans ont travaillé, dont
 
 51% de garçons et  49,8%  de  filles,  en  2012  en  Haïti,  avec  la  proportion  des  enfants  travailleurs  plus élevée en milieu rural (61%) qu'en milieu urbain (32% 19 ).  La domesticité infantile ,  les enfants envoyés dans un foyer, souvent de la campagne vers la ville, pour y réaliser des travaux domestiques en échange de leur prise en charge par le responsable du foyer, a été identifié comme un des thèmes majeurs dans la protection de l'enfant. En 1999, l'UNICEF estime le nombre d'enfants domestiques en Haïti à 250,000 soit environ 20% des enfants âgés de 7 à 10 ans. En 2002, dans une recherche conduite par la FAFO, trois critères objectifs sont retenus comme constitutifs du travail des enfants domestiques : une séparation des enfants de leurs parents, une charge de travail élevée pour l'enfant et un manque ou un retard dans la scolarité. En utilisant ces critères, l'étude estime à 173,000 le nombre d'enfants domestiques soit 8,2% de la population infantile âgée de 5 à 17 ans 20 .
 
 Peu de données sont disponibles pour évaluer l'ampleur des mouvements d'enfants . En 2010, la Brigade de  Protection  des  Mineurs  (BPM)  a  retenu  280  enfants  sur  les  1,200  enfants  contrôlés  aux  points frontaliers officiels  entre Haïti et la  République Dominicaine 21 .  Toutefois,    par rapport  à la traite et  au trafic des enfants, les données sont encore plus rares, mais on soupçonne, que  « des milliers d'enfants haïtiens sont victimes de traite ou de trafic chaque année » 22 .
 
-En 2011 un recensement a trouvé qu'au moins 3,380 enfants et jeunes habitaient dans les rues de Port-auPrince et de Carrefour 23 ,  dont 22% suite au tremblement de terre.  Ce problème est également  présent dans les autres centres urbains du pays.
+En 2011 un recensement a trouvé qu'au moins 3,380 enfants et jeunes habitaient dans les rues de Port-au-Prince et de Carrefour 23, dont 22% suite au tremblement de terre. Ce problème est également présent dans les autres centres urbains du pays.
 
 Selon des sources gouvernementales, quelques 120,000 enfants vivaient avec un handicap en 2011 , dont beaucoup ne jouiraient pas de leurs droits élémentaires, notamment en matière d'éducation et de santé.
 
-En  dernier  lieu  et  de  manière  toute  aussi  préoccupante,  il  faut  considérer    la  situation  des  enfants  en conflit avec la loi. Selon les chiffres du MJSP, il y aurait environ 250 enfants en détention à la fin 2012, dont 76,2% de condamnés. Les conditions d'incarcération des mineurs ne permettent pas la réalisation de leurs  droits.  La  situation  est  meilleure  au  centre  «Cermicol»  dans  le  département  de  l'Ouest,  où  des organisations non gouvernementales ont mis en place un programme de soutien aux mineurs incarcérés.
+En dernier lieu et de manière toute aussi préoccupante, il faut considérer la situation des enfants en conflit avec la loi. Selon les chiffres du MJSP, il y aurait environ 250 enfants en détention à la fin 2012, dont 76,2% de condamnés. Les conditions d'incarcération des mineurs ne permettent pas la réalisation de
 
 > 16 Le décret-loi du 22 septembre 1971 définit une de façon large. La maison d'enfants comprend « les institutions publiques ou privées, laïques ou religieuses, habilitées à recevoir et prendre en charge les enfants orphelins, abandonnés, irréguliers d'ordre physique ou mental ».
 
@@ -251,6 +294,8 @@ En  dernier  lieu  et  de  manière  toute  aussi  préoccupante,  il  faut  con
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+
+leurs droits. La situation est meilleure au centre «Cermicol» dans le département de l'Ouest, où des organisations non gouvernementales ont mis en place un programme de soutien aux mineurs incarcérés.
 
 Quelles sont les causes des violations du droit à la protection, du point de vue des enfants ?
 
@@ -358,7 +403,7 @@ Selon son  Plan d'action de 2012, l'IBESR a déconcentré ses services dans neuf
 
 Les  droits  des  enfants  en  général  et  les  droits  des  enfants  à  la  protection  en  particulier  ne  sont  pas suffisamment  disséminés  et  connus  par  la  population.  Un  besoin  fort  existe  dans  le  domaine  de  la sensibilisation et de l'éducation pour s'assurer que les pratiques positives dans l'éducation des enfants et la protection de l'enfant sont favorisées par rapport aux attitudes et pratiques négatives.
 
-Plusieurs mécanisme sont sur place qui facilitent la participation des enfants, comme le Parlement des Jeunes, le Gouvernement d'Enfants, les Clubs d'Enfants et des activités de la Journée de l'Enfant, ainsi que  des  consultations  des  enfants  dans  les  procédures  régissant  le  fonctionnement  et  l'inspection  des maisons d'enfants, tous encouragés et appuyés par l'IBESR. Les possibilités de participer aux questions qui affectent la vie des enfants ne sont pas systématiques. Les enfants ont peu de possibilités de participer aux questions qui affectent leur vie, que ce soit au sein de la famille, de la communauté, à l'école ou au niveau politique. La participation des enfants est toujours ad hoc et non systématisée.
+Plusieurs mécanisme sont sur place qui facilitent la participation des enfants, comme le Parlement des Jeunes, le Gouvernement d'Enfants, les Clubs d'Enfants et des activités de la Journée de l'Enfant, ainsi que des consultations des enfants dans les procédures régissant le fonctionnement et l'inspection des
 
 > 30 Sud-Est (Anse-à-Pitre) Artibonite (Saint-Marc) ; Grand'Anse (Jérémie) ; Plateau Central (Lascahobas Belladère, Savanette, Thomonde, Cerca-la-Source et Thomassique) ; Nord et Nord-Est
 
@@ -370,7 +415,9 @@ Plusieurs mécanisme sont sur place qui facilitent la participation des enfants,
 
 [[START OF PAGE 13]]
 
-Au niveau des réseaux de protection activés, certaines informations clés sur la protection de l'enfant sont vulgarisées. Les nouvelles législations qui ont récemment renforcé le cadre légal de protection de l'enfant ont déjà été disséminées auprès des acteurs clés de protection tels que les agents de la BPM, les magistrats incluant les juges pour enfants, les agents du Ministère à la Condition Féminine et aux Droits des Femmes et  bien évidemment ceux de l'IBESR. Certaines communautés ont été touchées. Autant d'interventions qui devront être systématisées et reproduites dans tout le pays.
+maisons d'enfants, tous encouragés et appuyés par l'IBESR. Les possibilités de participer aux questions qui affectent la vie des enfants ne sont pas systématiques. Les enfants ont peu de possibilités de participer aux questions qui affectent leur vie, que ce soit au sein de la famille, de la communauté, à l'école ou au niveau politique. La participation des enfants est toujours ad hoc et non systématisée.
+
+Au niveau des réseaux de protection activés, certaines informations clés sur la protection de l'enfant sont vulgarisées. Les nouvelles législations qui ont récemment renforcé le cadre légal de protection de l'enfant ont déjà été disséminées auprès des acteurs clés de protection tels que les agents de la BPM, les magistrats incluant les juges pour enfants, les agents du Ministère à la Condition Féminine et aux Droits des Femmes et bien évidemment ceux de l'IBESR. Certaines communautés ont été touchées. Autant d'interventions qui devront être systématisées et reproduites dans tout le pays.
 
 # 3. DEFINITIONS
 
@@ -436,7 +483,7 @@ Un enfant affecté/infecté par le VIH/Sida est toute personne âgée de moins d
 
 Un enfant apatride est toute personne âgée de moins de 18 ans qu'aucun État ne considère comme son ressortissant par application de sa législation. L'enfant est « sans nationalité, soit qu'il n'en ait jamais eu, soit qu'en ayant eu une, il l'ait perdue sans en acquérir une autre ».
 
-Un enfant appartenant à une minorité est toute personne âgée de moins de 18 ans appartenant à « un groupe numériquement inférieur au reste de la population d'un État, en position non dominante, dont les membres  - ressortissants  de  l'État possèdent,  du  point de vue  ethnique, culturel, religieux  ou linguistique, des caractéristiques qui diffèrent du reste de celles de la population et manifestent, même de façon implicite, un sentiment de solidarité, à l'effet de préserver leur culture, leurs traditions, leur religion ou leur langue.
+Un enfant appartenant à une minorité est toute personne âgée de moins de 18 ans appartenant à « un groupe numériquement inférieur au reste de la population d'un État, en position non dominante, dont les membres – ressortissants de l'État – possèdent, du point de vue ethnique, culturel, religieux ou linguistique, des caractéristiques qui diffèrent du reste de celles de la population et manifestent, même de façon implicite, un sentiment de solidarité, à l'effet de préserver leur culture, leurs traditions, leur religion ou leur langue.
 
 Un enfant bénéficiant de protection de remplacement est toute personne âgée de moins de 18 ans dont la famille, même avec une assistance appropriée, est incapable d'assurer sa prise en charge et pour cette raison l'enfant est pris en charge par des membres de la famille élargie ou des amis ou d'autres personnes.
 
@@ -652,15 +699,15 @@ A cet effet, un point focal de protection de l'enfant sera nommé dans chaque mi
 
 Les  ministères  doivent  s'engager  pour    que  toutes  les  politiques  sectorielles  intègrent  et  prennent  en compte  les  objectifs  de  protection  de  l'enfant  mentionnés  dans  la  présente  stratégie.  L'objectif  est  de soutenir l'intégration effective de la protection de l'enfant dans les interventions des tous les secteurs et de favoriser la synergie des interventions en faveur de la protection des enfants en Haïti.
 
+À côté des ministères sectoriels, la Police Nationale d'Haïti (PNH), surtout la Brigade de Protection des Mineurs (BPM), la Direction de l'Administration Pénitentiaire (DAP) et les tribunaux jouent un rôle majeur dans la protection de l'enfant. Il en est de même du Conseil Supérieur du Pouvoir Judiciaire (CSPJ), l'organe qui contrôle et supervise le travail des juges.
+
 Les enfants voient les principaux acteurs responsables comme des acteurs traditionnels et des acteurs non-traditionnels :
 
-« Par  acteurs  traditionnels  nous  voyons  ceux  qui,  en  général,  sont  identifiés  comme  directement impliqués dans la protection des enfants et par acteurs non traditionnels, ceux que l'on a tendance à oublier ou dont on minimise le rôle dans ce domaine.
+« Par acteurs traditionnels nous voyons ceux qui, en général, sont identifiés comme directement impliqués dans la protection des enfants et par acteurs non traditionnels, ceux que l'on a tendance à oublier ou dont on minimise le rôle dans ce domaine.
 
-Les acteurs traditionnels : l'Institut du Bien-Etre Social et de Recherches ; le Ministère de la Justice, le Ministère de l'Education Nationale ;  Le Ministère de la Santé Publique ; Le Ministère à la Condition Féminine et  aux  Droits  de  la  Femme;  le  Bureau  du  Secrétaire  d'Etat  à  l'Intégration  des  Personnes Handicapées, le Ministère de la Jeunesse, des Sports et de l'Action Civique ; les parents, professeurs, les leaders religieux, les enfants, les jeunes et les média etc.
+Les acteurs traditionnels : l'Institut du Bien-Etre Social et de Recherches ; le Ministère de la Justice, le Ministère de l'Education Nationale ; Le Ministère de la Santé Publique ; Le Ministère à la Condition Féminine et aux Droits de la Femme; le Bureau du Secrétaire d'Etat à l'Intégration des Personnes Handicapées, le Ministère de la Jeunesse, des Sports et de l'Action Civique ; les parents, professeurs, les leaders religieux, les enfants, les jeunes et les média etc.
 
-Les acteurs moins traditionnels : Le Ministère des Travaux Publics pour la question de l'accessibilité des trottoirs, de transports adaptés (enfants handicapés), le Ministère du Commerce pour la question liée  à  la  sécurité  économique  des  familles  à  travers  l'accès  au  crédit  pour  financer  des  micros entreprises ; le Ministère de la Communication pour la question de la programmation des stations de télévision par rapport à la diffusion de programmes appropriés aux enfants etc.
-
-À côté des ministères sectoriels, la Police Nationale d'Haïti (PNH), surtout la Brigade de Protection des Mineurs  (BPM),  la  Direction  de  l'Administration  Pénitentiaire  (DAP)  et  les  tribunaux  jouent  un  rôle majeur  dans  la  protection  de  l'enfant.  Il  en  est  de  même  du  Conseil  Supérieur  du  Pouvoir  Judiciaire (CSPJ), l'organe qui contrôle et supervise le travail des juges.
+Les acteurs moins traditionnels : Le Ministère des Travaux Publics pour la question de l'accessibilité des trottoirs, de transports adaptés (enfants handicapés), le Ministère du Commerce pour la question liée à la sécurité économique des familles à travers l'accès au crédit pour financer des micros entreprises ; le Ministère de la Communication pour la question de la programmation des stations de télévision par rapport à la diffusion de programmes appropriés aux enfants etc.
 
 19
 
@@ -772,9 +819,9 @@ La non-discrimination,  qui  garantit  tous  les  droits  énoncés  dans  la  C
 
 #### Principe 2: Intérêt supérieur de l'enfant
 
-L'article 3 de la CDE prévoit que « L'Intérêt supérieur de l'enfant doit être une considération primordiale dans  toutes  les  mesures  qui  affectent  les  enfants.'  Le  Comité́  des  droits  de  l'enfant  des  nations  unies renforce la compréhension et l'application du droit de l'enfant à ce que son intérêt supérieur soit évalué́ et soit  une  considération  primordiale.  L'objectif  global  de  l'article  3  est  de  promouvoir  un  véritable changement dans les attitudes, qui favorise le plein respect de l'enfant en tant que titulaire de droits.
+L'article 3 de la CDE prévoit que « L'Intérêt supérieur de l'enfant doit être une considération primordiale dans toutes les mesures qui affectent les enfants.” Le Comité des droits de l'enfant des nations unies renforce la compréhension et l'application du droit de l'enfant à ce que son intérêt supérieur soit évalué et soit une considération primordiale. L'objectif global de l'article 3 est de promouvoir un véritable changement dans les attitudes, qui favorise le plein respect de l'enfant en tant que titulaire de droits.
 
-Dans son 'observation générale' du comité,  l'article 3 de la CDE fixe un cadre comportant quatre types différents d'obligation pour les États parties:
+Dans son “observation générale” du comité, l'article 3 de la CDE fixe un cadre comportant quatre types différents d'obligation pour les États parties:
 
 22
 
@@ -784,41 +831,41 @@ Dans son 'observation générale' du comité,  l'article 3 de la CDE fixe un cad
 
 a) L'élaboration de toutes les mesures d'application que les gouvernements prennent;
 
-b) Les décisions sur des cas individuels rendues par les autorités judiciaires ou administratives ou par des entités publiques par l'intermédiaire de leurs agents qui concernent un ou plusieurs enfants déterminé́(s);
+b) Les décisions sur des cas individuels rendues par les autorités judiciaires ou administratives ou par des entités publiques par l'intermédiaire de leurs agents qui concernent un ou plusieurs enfants déterminé(s);
 
-c)  Les  décisions  adoptées  par  des  entités  de  la  société́  civile  et  par  le  secteur  privé,  notamment  des organisations commerciales et des organisations à but non lucratif fournissant des services qui concernent les enfants ou ont une incidence sur eux;
+c) Les décisions adoptées par des entités de la société civile et par le secteur privé, notamment des organisations commerciales et des organisations à but non lucratif fournissant des services qui concernent les enfants ou ont une incidence sur eux;
 
 d) Les lignes directrices relatives aux actions menées par les personnes qui travaillent avec et pour les enfants, notamment les parents et les pourvoyeurs de soins 37
 
 #### Principe 3: Survie et Développement
 
-Le droit à la vie est un droit universellement reconnu pour tous les êtres humains. Pour les enfants, le droit à la vie, prévu dans l'article 6 de la CDE, est la chance de pouvoir vivre sa vie d'enfant et avoir la possibilité de grandir, se développer et devenir adulte. Ce droit comporte deux aspects essentiels : le droit d'avoir sa vie protégée dès la naissance et le droit de pouvoir survivre et se développer convenablement 38 .
+Le droit à la vie est un droit universellement reconnu pour tous les êtres humains. Pour les enfants, le droit à la vie, prévu dans l'article 6 de la CDE, est la chance de pouvoir vivre sa vie d'enfant et avoir la possibilité de grandir, se développer et devenir adulte. Ce droit comporte deux aspects essentiels : le droit d'avoir sa vie protégée dès la naissance et le droit de pouvoir survivre et se développer convenablement 38.
 
 #### Principe 4: Participation de l'enfant
 
 L'article 12 de la CDE donne aux enfants le droit d'avoir un rôle actif dans leur propre vie et de participer aux décisions les concernant. De plus, le droit à la participation est aussi un moyen pour obtenir justice et pour dénoncer les abus. Ainsi, la participation permet aux enfants de s'opposer aux violations de leurs droits et d'entreprendre des actions pour pro- mouvoir et protéger ces droits. En ratifiant la CDE, les Etats parties garantissent à l'enfant qui est capable de discernement le droit d'exprimer librement son opinion sur toute question l'intéressant, les opinions de l'enfant étant dûment prises en considération eut égard à son âge et à son degré de maturité.
 
+> 37 Comité des droits de l'enfant, Convention relative aux droits de l'enfant, Distr. Générale 29 mai 2013, Observation générale no 14 (2013) sur le droit de l'enfant pour que son intérêt supérieur soit une considération primordiale (art.3, par1)
+
+> 38 http://www.humanium.org/fr/comprendre-2/droit-a-la-vie/
+
 ##### CONTRIBUTION DES ENFANTS DANS LE PROCESSUS
 
-Les  enfants  ont  droit  à  la  Protection  mais  sont  aussi  des  acteurs  dans  leur  propre  protection.  Les participants ont ainsi identifiés des actions que les enfants peuvent mettre en œuvre afin de participer au processus visant à garantir un environnement protecteur aux enfants. De ces actions citons:
+Les enfants ont droit à la Protection mais sont aussi des acteurs dans leur propre protection. Les participants ont ainsi identifiés des actions que les enfants peuvent mettre en œuvre afin de participer au processus visant à garantir un environnement protecteur aux enfants. De ces actions citons:
 
-- S'organiser et faire du plaidoyer par devant les autorités afin de les porter à respecter leurs engagements et à en prendre d'autres en faveur du respect des droits des enfants, notamment la mise en œuvre de la stratégie en développement ;
+1) S'organiser et faire du plaidoyer par devant les autorités afin de les porter à respecter leurs engagements et à en prendre d'autres en faveur du respect des droits des enfants, notamment la mise en œuvre de la stratégie en développement ;
 
-- Comité́  des  droits  de  l'enfant,  Convention  relative  aux  droits  de  l'enfant,  Distr.  Générale  29  mai  2013, 2) Dénoncer  les  cas  d'abus  et  de  violence  contre  les  enfants  en  exigeant  le  respect  de  la confidentialité ;
+2) Dénoncer les cas d'abus et de violence contre les enfants en exigeant le respect de la confidentialité ;
 
-37
+3) Partager leurs connaissances avec les autres enfants, avec leurs parents et autres membres de leur communauté ;
 
-- Observation  générale  no  14  (2013)  sur  le  droit  de  l'enfant  pour  que  son  intérêt  supérieur  soit  une  considération primordiale (art.3, par1) 3) Partager leurs connaissances avec les autres enfants, avec leurs parents et autres membres de leur communauté ;
+4) Etre eux-mêmes des modèles pour les autres enfants, en respectant les autres et en prenant leurs responsabilités ;
 
-38
+5) Faire de la sensibilisation dans leur communauté ;
 
-- http://www.humanium.org/fr/comprendre-2/droit-a-la-vie/ 4) Etre  eux-mêmes des modèles pour les autres enfants, en respectant les autres et en prenant leurs responsabilités ;
+6) Faire du volontariat dans les centres hébergeant les enfants ;
 
-- Faire de la sensibilisation dans leur communauté ;
-
-- Faire du volontariat dans les centres hébergeant les enfants ;
-
-- Participer dans le suivi de la mise en œuvre de la SNPE.
+7) Participer dans le suivi de la mise en œuvre de la SNPE.
 
 23
 
@@ -842,9 +889,8 @@ La participation des familles et des communautés dans la protection des enfants
 
 ## 5.2 Les Objectifs de la SNPE :
 
-Formaliser et renforcer l'engagement de l'État dans la mise en œuvre de la SNPE et dans la
-
-Objectif 1 protection de l'enfant dans son ensemble
+Objectif 1
+Formaliser et renforcer l'engagement de l'État dans la mise en œuvre de la SNPE et dans la protection de l'enfant dans son ensemble
 
 Objectif 2
 
@@ -866,7 +912,7 @@ Etablir un système de suivi et évaluation
 
 ## Objectif 1 : Formaliser et renforcer l'engagement de l'État dans la mise en œuvre de la SNPE et dans la protection de l'enfant dans son ensemble
 
-L'engagement de l'Etat à promouvoir, respecter, protéger et réaliser le droit de l'enfant à la protection est un élément clés de l'environnement protecteur. L'État haïtien a montré son engagement politique, entre autre,  par  la  ratification  des  instruments  internationaux,  le  renforcement  des  lois  nationales,    son engagement de développer et exécuter la SNPE.
+L'engagement de l'Etat à promouvoir, respecter, protéger et réaliser le droit de l'enfant à la protection est un élément clés de l'environnement protecteur. L'État haïtien a montré son engagement politique, entre autre, par la ratification des instruments internationaux, le renforcement des lois nationales, son
 
 24
 
@@ -874,14 +920,15 @@ L'engagement de l'Etat à promouvoir, respecter, protéger et réaliser le droit
 
 [[START OF PAGE 27]]
 
-La SNPE vise à formaliser le leadership dans la coordination et le cadre  de coopération avec des différents secteurs et acteurs ainsi que l'intégration de la protection dans les politiques des autres secteurs et la sécurisation d'un budget  pour l'exécution de la SNPE.
+engagement de développer et exécuter la SNPE.
+
+La SNPE vise à formaliser le leadership dans la coordination et le cadre de coopération avec des différents secteurs et acteurs ainsi que l'intégration de la protection dans les politiques des autres secteurs et la sécurisation d'un budget pour l'exécution de la SNPE.
+Résultat 1 : Les acteurs dans la protection collaborent et s'engagent sous le leadership de MAST /IBESR dans une programmation et une réponse coordonnée, décentralisée et multisectorielle en protection de l'enfant avec un budget doté selon l'identification des besoins
 
 Sous-Objectif | Actions stratégiques:
 --- | ---
 Sous Objectif 1.1 Formaliser le leadership et la coordination dans la protection de l'enfant | Renforcer le Groupe de Travail sur la Protection de l'Enfant (GTPE) pour remplir son rôle en matière de protection de l'enfant Etablir des mécanismes de coordination au niveau départemental Etablir des mécanismes de coordination au niveau communal Renforcer la coordination des groupes techniques/thématiques, stratégiques Renforcer des groupes stratégiques
 Sous Objectif 1.2 Engager les ministères clés (MAST, MCFDF, MENFP, MJSP, MSPP, MJSAC) dans la mise en œuvre de la SNPE | Clarifier les rôles et responsabilités de tous les ministères concernés par la protection de l'enfant Nommer un point focal de protection de l'enfant dans chaque ministère qui sera membre du CTNPE/GTPE Développer des Protocoles de Coopération Mettre en place un Comité Interministériel Inclure/intégrer les questions de protection de l'enfant dans les documents stratégiques, les politiques sectorielles et les Plans d'Action des Ministères clés Établir des liens entre la SNPE et la protection sociale et assurer une considération des enfants et familles vulnérables dans la Politique de Protection Sociale de l'Etat Officialiser le Comité Intra-Institutionnelle de lutte contre la Traite des personnes Etablir un Comité Exécutif sur l'implémentation du Plan de Désinstitutionalisation des Enfants
-
-Résultat 1 : Les acteurs dans la protection collaborent et s'engagent sous le leadership de MAST /IBESR dans une programmation  et une réponse coordonnée, décentralisée et multisectorielle en protection de l'enfant avec un budget doté selon l'identification des besoins
 
 25
 
@@ -894,7 +941,7 @@ Enregistrement des naissances : Établir la coopération entre les Ministères (
 Sous Objectif 1.3 Mobiliser et rendre disponible des ressources pour la mise en œuvre des activités comme présentées dans le cadre du Plan d'Action budgétisé | Planifier et budgétiser des actions en matière de protection de l'enfant (Plan d'Action budgétisé) Faire le Plaidoyer pour l'allocation d'un budget de fonctionnement et de programmation au MAST et dans les différents ministères concernés pour la gestion et la coordination de la SNPE, Développer un plan de mobilisation de ressources alternatives Rendre disponible les ressources pour la protection de l'enfant
 Sous Objectif 1.4 Développer des stratégies spécifiques pour les questions de protection de l'enfant les plus urgentes | Développer des stratégies/Plans d'Action spécifiques pour les questions de protection les plus urgentes Renforcer la question de la protection de l'enfant dans le plan inter agences de préparation pour l'urgence
 Sous Objectif 1.5 Développer un cadre de coordination des interventions de la société civile dans la protection des enfants | Créer un comité d'évaluation et de priorisation des projets de protection de l'enfant Renforcer des entités au sein du gouvernement qui supervise des organisations de la société civile travaillant dans protection de l'enfant (ONG, associations/fondations) Développer des protocoles de coopération standardisée Rédiger et signer des protocoles de coopération avec tous les partenaires Développer une législation sur les associations
-Sous Objectif 1.6 Ratifier des instruments internationaux | Ratifier des instruments internationaux non encore ratifiés par Haïti : (3 ième Protocole à la CDE, Convention de NU sur l'Apatridie, Convention des NU sur la Torture)
+Sous Objectif 1.6 Ratifier des instruments internationaux | Ratifier des instruments internationaux non encore ratifiés par Haïti : (3ième Protocole à la CDE, Convention de NU sur l'Apatridie, Convention des NU sur la Torture)
 
 26
 
@@ -910,11 +957,11 @@ Au cours des dernières années, l'État haïtien a démontré de grands efforts
 
 La SNPE vise à compléter ce cadre normatif,  fournir à la population haïtienne des informations sur ce cadre et assurer l'application de la législation, des normes, standards et règlementations par les acteurs.
 
+Résultat 2 : Le cadre normatif concernant la protection de l'enfant - des lois, normes, standards, règlementations - est harmonisé avec la CDE et les autres instruments internationaux, sont connus par la population et les acteurs et appliqués
+
 Sous-Objectif | Actions stratégiques:
 --- | ---
-Sous Objectif 2.1 Harmoniser le cadre normatif concernant la protection de l'enfant avec les instruments internationaux des droits de l'homme ratifiés par Haïti et la constitution haïtienne | Analyser la législation nationale par rapport à la protection de l'enfant pour identifier les divergences entre la constitution, les instruments internationaux de protection de l'enfant ratifiés, les lois et les décrets Compléter la réforme législative en cours en vue de s'assurer que la protection de l'enfant soit toujours garantie Faire le plaidoyer pour l'adoption du Code de Protection de l'Enfant auprès des partis politiques, du Parlement et des parlementaires de la 50 e législature Responsabiliser les acteurs pertinents à élaborer et faire le plaidoyer pour adopter le Code de la Famille auprès des partis politiques et des parlementaires de la 50 e législature Développer et adopter une loi cadre sur les familles d'accueil Développer et adopter les décrets d'application nécessaires Réviser le décret de 1971 et développer des standards minima Développer des procédures opérationnelles et standards pour la gestion des vulnérabilités les plus importantes Uniformiser les lignes directrices pour l'évaluation de la situation de l'enfant
-
-Résultat 2 : Le cadre normatif concernant la protection de l'enfant - des lois, normes, standards, règlementations - est harmonisé avec la CDE et les autres  instruments internationaux, sont connus par la population et les acteurs et appliqués
+Sous Objectif 2.1 Harmoniser le cadre normatif concernant la protection de l'enfant avec les instruments internationaux des droits de l'homme ratifiés par Haïti et la constitution haïtienne | Analyser la législation nationale par rapport à la protection de l'enfant pour identifier les divergences entre la constitution, les instruments internationaux de protection de l'enfant ratifiés, les lois et les décrets Compléter la réforme législative en cours en vue de s'assurer que la protection de l'enfant soit toujours garantie Faire le plaidoyer pour l'adoption du Code de Protection de l'Enfant auprès des partis politiques, du Parlement et des parlementaires de la 50e législature Responsabiliser les acteurs pertinents à élaborer et faire le plaidoyer pour adopter le Code de la Famille auprès des partis politiques et des parlementaires de la 50e législature Développer et adopter une loi cadre sur les familles d'accueil Développer et adopter les décrets d'application nécessaires Réviser le décret de 1971 et développer des standards minima Développer des procédures opérationnelles et standards pour la gestion des vulnérabilités les plus importantes Uniformiser les lignes directrices pour l'évaluation de la situation de l'enfant
 
 27
 
@@ -944,11 +991,11 @@ Puisque la séparation familiale est une des questions et préoccupations les pl
 
 [[START OF PAGE 31]]
 
+Résultat 3: Les structures et services gouvernementaux et ceux des organisations œuvrant en faveur de la protection de l'enfant sont dotés de capacités techniques et sont opérationnels en vue de prévenir et répondre aux violations du droit à la protection de l'enfant
+
 Sous-Objectif | Actions stratégiques:
 --- | ---
-Sous Objectif 3.1 Restructurer et renforcer des services de l' IBESR pour assurer une couverture cohérente et de qualité de la protection des enfants | Plaidoyer pour l'adoption de la Loi Cadre de l'IBESR Voter, promulguer et mettre en œuvre la Loi Cadre de l'IBESR Exécuter un audit interne au niveau de l'IBESR/diagnostic organisationnel et professionnel Faire le plaidoyer pour un renforcement des ressources financières et matérielles Renforcer les ressources humaines en augmentant le nombre du personnel technique alloué à l'IBESR Systématisation des profils de poste des agents de l'IBESR Développer des profils de poste spécifiques aux travailleurs sociaux et autres professionnels de la protection de l'enfance, cela dans chacun des cadres d'intervention Revoir les formations en travail social proposées par l'Université d'Etat d'Haiti (UEH) - (à développer en conjonction avec les besoins de la réforme de l'IBESR) Faire un plaidoyer auprès de l'UEH pour l'adoption de cursus plus pertinents en fonction de l'évolution de l'IBESR Renforcement des capacités par des formations systématiques et concrètes sur le terrain pour les acteurs clés Décentraliser les services de l'IBESR dans tous les départements Renforcer les liens entre l'IBESR et le service des affaires sociales au niveau des Mairies et les rendre opérationnels par rapport à la protection des enfants et assurer les mécanismes de coordination avec les cellules de protection communautaire Intégrer la protection de l'enfant dans les plans de développement communal Développer des outils standardisés pour tous les agents de terrain Mettre en place un service de famille d'accueil au sein de l'IBESR
-
-Résultat 3: Les structures et services gouvernementaux et ceux des organisations œuvrant en faveur de la protection de l'enfant sont dotés de capacités techniques et sont opérationnels en vue de prévenir et répondre aux violations du droit à la protection de l'enfant
+Sous Objectif 3.1 Restructurer et renforcer des services de l' IBESR pour assurer une couverture cohérente et de qualité de la protection des enfants | Plaidoyer pour l'adoption de la Loi Cadre de l'IBESR Voter, promulguer et mettre en œuvre la Loi Cadre de l'IBESR Exécuter un audit interne au niveau de l'IBESR/diagnostic organisationnel et professionnel Faire le plaidoyer pour un renforcement des ressources financières et matérielles Renforcer les ressources humaines en augmentant le nombre du personnel technique alloué à l'IBESR Systématisation des profils de poste des agents de l'IBESR Développer des profils de poste spécifiques aux travailleurs sociaux et autres professionnels de la protection de l'enfance, cela dans chacun des cadres d'intervention Revoir les formations en travail social proposées par l'Université d'Etat d'Haiti (UEH) - (à développer en conjonction avec les besoins de la réforme de l'IBESR) Faire un plaidoyer auprès de l'UEH pour l'adoption de cursus plus pertinents en fonction de l'évolution de l'IBESR Renforcement des capacités par des formations systématiques et concrètes sur le terrain pour les acteurs clés Décentraliser les services de l'IBESR dans tous les départements Renforcer les liens entre l'IBESR et le service des affaires sociales au niveau des Mairies et les rendre opérationnels par rapport à la protection des enfants et assurer les mécanismes de coordination avec les cellules de protection communautaire Intégrer la protection de l'enfant dans les plans de développement communal Développer des outils standardisés pour tous les agents de terrain Mettre en place un service de famille d'accueil au sein de l'IBESR Développer un Code de Conduite pour tous les acteurs intervenants
 
 29
 
@@ -958,8 +1005,8 @@ Résultat 3: Les structures et services gouvernementaux et ceux des organisation
 
 dans la protection de l'enfance Finaliser le travail sur les procédures d'opérations standard pour la réduction des vulnérabilités Faire un plaidoyer pour rendre opérationnel 7 jours sur 7 le numéro d'urgence de l'IBESR
 --- | ---
-Sous Objectif 3.2 Renforcer les services de la PNH par rapport à la protection de l'enfant | Institutionnaliser des formations sur la protection de l'enfant pour tous les agents de la PNH Renforcer le personnel de la BPM au niveau des départements Assurer des formations thématiques spécifiques : alternatives à l'incarcération, justice restauratrice, accueil et entretien avec les enfants Renforcer les capacités de soutien psychosocial
-Sous Objectif 3.3 Renforcer des services de : - la coordination départementale du MCFDF - la santé, - l'éducation, - l'enregistrement à la naissance, - l'OPC par rapport à la protection de l'enfant | Renforcer les mécanismes de contrôle dans les zones frontalières Développer des stratégies de renforcement des services de protection dans tous les secteurs Renforcer les mécanismes existants à travers les ASECS et les organisations à base communautaire Renforcer la coordination départementale du MCFDF par rapport aux questions de la protection de l'enfant Renforcer les services de santé par rapport aux questions de la protection de l'enfant Renforcer les services d'accueil de l'Organisation Nationale des Migrations (ONM) par rapport à la protection des enfants rapatriés et/ou victimes de traite des enfants Renforcer les services d'enregistrement à la naissance Renforcer les écoles/directeurs/enseignants par rapport aux questions de la protection de l'enfant Systématiser l'appui psychologique et psycho-sociale dans tous les départements Renforcer l'OPC et disséminer des informations sur le rôle de l'OPC Vulgariser les services sociaux et de protection du MAST et régulariser l'application des normes
+Sous Objectif 3.2 Renforcer les services de la PNH par rapport à la protection de l'enfant | Institutionnaliser des formations sur la protection de l'enfant pour tous les agents de la PNH Renforcer le personnel de la BPM au niveau des départements Assurer des formations thématiques spécifiques : alternatives à l'incarcération, justice restauratrice, accueil et entretien avec les enfants Renforcer les capacités de soutien psychosocial Renforcer les mécanismes de contrôle dans les zones frontalières
+Sous Objectif 3.3 Renforcer des services de : - la coordination départementale du MCFDF - la santé, - l'éducation, - l'enregistrement à la naissance, - l'OPC par rapport à la protection de l'enfant | Développer des stratégies de renforcement des services de protection dans tous les secteurs Renforcer les mécanismes existants à travers les ASECS et les organisations à base communautaire Renforcer la coordination départementale du MCFDF par rapport aux questions de la protection de l'enfant Renforcer les services de santé par rapport aux questions de la protection de l'enfant Renforcer les services d'accueil de l'Organisation Nationale des Migrations (ONM) par rapport à la protection des enfants rapatriés et/ou victimes de traite des enfants Renforcer les services d'enregistrement à la naissance Renforcer les écoles/directeurs/enseignants par rapport aux questions de la protection de l'enfant Systématiser l'appui psychologique et psycho-sociale dans tous les départements Renforcer l'OPC et disséminer des informations sur le rôle de l'OPC Vulgariser les services sociaux et de protection du MAST et régulariser l'application des normes
 Sous Objectif 3.4 | Renforcer la couverture et la qualité des services de protection sociale auprès des familles et des enfants en difficulté et/ou à risque
 
 30
@@ -988,11 +1035,11 @@ La capacité des familles et des communautés de protéger leurs enfants est une
 
 La SNPE vise à organiser des campagnes et des séances d'information et de sensibilisation et de renfoncement des capacités des familles, des communautés et des leaders communautaires ainsi que des enfants. Le renforcement des connaissances et capacités inclut aussi des habilitations sur la prise en charge des enfants. Le renforcement de la participation des enfants est reconnu comme une des éléments clés de la SNPE.  Ceci est reflété dans un des principes fondamentaux de cette stratégie.
 
+Résultat 4 : Les familles, communautés et enfants ont des connaissances et capacités d'être des acteurs proactif dans la protection
+
 Sous objectif | Action stratégique
 --- | ---
 Sous Objectif 4.1 Renforcer les connaissances des intervenants en matière de protection de l'enfant | Mener une enquête pour identifier les besoins/les défis majeurs par rapport aux nécessités de renforcement des capacités Développer une stratégie de communication sur des questions de protection de l'enfant Organiser des campagnes sur les droits des enfants/la protection des enfants au niveau communautaire durant des occasions/journées spéciales Développer des campagnes spécifiques Sensibiliser sur des questions de la protection de l'enfant Sensibiliser les médias sur les questions de protection Promouvoir la participation de l'enfant Mener des études périodiques: attitudes à travers des enfants et changement des attitudes
-
-Résultat 4 : Les familles, communautés et enfants ont des connaissances et capacités d'être des acteurs proactif dans la protection
 
 32
 
@@ -1032,7 +1079,7 @@ Sous Objectif 5.1 Veiller à la mise en œuvre effective et efficace de la SNPE 
 
 impliqués
 --- | ---
-Sous Objectif 5.2 Développer un système de suivi et d'évaluation harmonisé | Identifier les besoins en information de l'Etat en matière de suivi et d'évaluation de la protection de l'enfant Identifier les besoins en information de l'IBESR à partir des documents existant au niveau de l'IBESR Consolider des diagnostiques, les sources de données existantes à partir des différents rapports d'étude disponibles à l'IBESR Mener des études spécifiques Création d'un « dépôt/banque » (stock/ collection) des études /un site web Renforcement de l'intégration des indicateurs sur la protection de l'enfant dans les enquêtes nationales… (IHSI, EMMUS) 40 Mettre en place un système harmonisé de collecte et de rapportage des données sur la protection de l'enfant au sein du MAST et coordonné par un département de recherches au sein de l'IBESR 41 Définir et/ou harmoniser les indicateurs de services servant à mesurer les activités/interventions de l'IBESR à tous les niveaux (central, départemental, communal et communautaire) Créer des mécanismes de surveillance au niveau des départements
+Sous Objectif 5.2 Développer un système de suivi et d'évaluation harmonisé | Identifier les besoins en information de l'Etat en matière de suivi et d'évaluation de la protection de l'enfant Identifier les besoins en information de l'IBESR à partir des documents existant au niveau de l'IBESR Consolider des diagnostiques, les sources de données existantes à partir des différents rapports d'étude disponibles à l'IBESR Mener des études spécifiques Création d'un « dépôt/banque » (stock/ collection) des études /un site web Renforcement de l'intégration des indicateurs sur la protection de l'enfant dans les enquêtes nationales… (IHSI, EMMUS)40 Mettre en place un système harmonisé de collecte et de rapportage des données sur la protection de l'enfant au sein du MAST et coordonné par un département de recherches au sein de l'IBESR41 Définir et/ou harmoniser les indicateurs de services servant à mesurer les activités/interventions de l'IBESR à tous les niveaux (central, départemental, communal et communautaire) Créer des mécanismes de surveillance au niveau des départements Rendre accessible et disséminer des données
 Sous Objectif 5.3 Renforcer les capacités des acteurs pour la gestion du système de suivi et d'évaluation | Renforcer les capacités de collecte, reportage, analyse et gestion des données Renforcer les capacités en suivi et évaluation Renforcer les capacités en suivi et évaluation dans des situations d'urgence
 
 > 40 IHSI: Institut Haïtien de Statistique et d'Informatique, EMMUS : Enquête Mortalité Morbidité et Utilisation des Services
@@ -1047,7 +1094,7 @@ Sous Objectif 5.3 Renforcer les capacités des acteurs pour la gestion du systè
 
 Des pistes des solutions pour mieux protéger les enfants, identifiés par des enfants :
 
--Augmenter  le  budge t  relatif  aux  programmes  de  protection  de  l'enfant dans  les  différents  ministères concernés
+- Augmenter le budget relatif aux programmes de protection de l'enfant dans les différents ministères concernés
 
 - Mettre  en  place  une institution  étatique  qui  a  la  responsabilité de  s'assurer  que  toutes  les  lois concernant les enfants sont appliquées (contrôle)
 
@@ -1081,7 +1128,7 @@ La coordination vise à assurer la mise en œuvre efficace et effective de la SN
 
 ### Le Comité National de Coordination de Protection de l'Enfant (CNCPE)
 
-Au niveau national le  Groupe  de Travail  Protection de  l'Enfant (GTPE)  national  remplira son  rôle en matière  de  protection  de  l'enfant  en  fonction  d'un  CNCPE,  assumant  la  responsabilité  première  des actions de protection des enfants. Il va jouer un rôle essentiel dans la coordination, le suivi et l'évaluation de la mise en œuvre de la SNPE.
+Au niveau national le Groupe de Travail Protection de l'Enfant (GTPE) national remplira son rôle en
 
 36
 
@@ -1089,7 +1136,9 @@ Au niveau national le  Groupe  de Travail  Protection de  l'Enfant (GTPE)  natio
 
 [[START OF PAGE 39]]
 
-Le CTNPE sera présidé par un représentant du MAST et co-présidé par le Directeur Général de IBESR, qui prend la responsabilité de coordonner l'action de tous les intervenants dans la mise en œuvre de la SNPE.  Les  ministères  et  les  intervenants  dans  la  protection  de  l'enfant  seront  représentés  au  sein  du CNCPE.
+matière de protection de l'enfant en fonction d'un CNCPE, assumant la responsabilité première des actions de protection des enfants. Il va jouer un rôle essentiel dans la coordination, le suivi et l'évaluation de la mise en œuvre de la SNPE.
+
+Le CTNPE sera présidé par un représentant du MAST et co-présidé par le Directeur Général de IBESR, qui prend la responsabilité de coordonner l'action de tous les intervenants dans la mise en œuvre de la SNPE. Les ministères et les intervenants dans la protection de l'enfant seront représentés au sein du CNCPE.
 
 Le CNCPE se réunit une fois par mois et assure :
 
@@ -1193,12 +1242,11 @@ Code | Sous Objectif (SO) Effets (E) | Extraits | Code stratégie | Actions Stra
 [[START OF PAGE 43]]
 
 ### 1.1 | Formaliser le leadership et la coordination dans la PE
-| Le leadership de MAST/IBESR est promu Les mécanismes de coordination sont établis aux niveaux national, départemental et communal | 1.1.1 | Renforcer le Groupe de Travail Protection de l'Enfant (GTPE) : Inclure dans les Termes de Référence du GTPE national sa responsabilité par rapport à la SNPE | TdR, renforcés et reflétant le rôle du MAST, IBESR et des membres du GTPE dans l'exécution de la SNPE # des membres du GTPE qui participent dans les réunions du GTPE | TdR Notes des réunions des GTPEs Liste des participants | Volonté politique Volonté des membres du GTPE
+| Tous les acteurs dans la protection de l'enfant collaborent sous le leadership et sous la coordination de MAST/IBESR | Le leadership de MAST/IBESR est promu Les mécanismes de coordination sont établis aux niveaux national, départemental et communal Les thèmes urgents de la PE sont traités par des groupes de travaux Les questions de la PE sont considérées dans le plan de préparation pour urgences | 1.1.1 | Renforcer le Groupe de Travail Protection de l'Enfant (GTPE) : Inclure dans les Termes de Référence du GTPE national sa responsabilité par rapport à la SNPE | TdR, renforcés et reflétant le rôle du MAST, IBESR et des membres du GTPE dans l'exécution de la SNPE # des membres du GTPE qui participent dans les réunions du GTPE | TdR Notes des réunions des GTPEs Liste des participants | Volonté politique Volonté des membres du GTPE
 --- | --- | --- | --- | --- | --- | --- | ---
-Les thèmes urgents de la PE sont traités par des groupes de travaux Les questions de la PE sont considérées | 1.1.2 | Etablir des mécanismes de coordination au niveau départemental (Comité Départemental de Coordination de PE, CDCPE) | TdR, renforcés et reflétant le rôle des membres du GTPE dans l'exécution de la SNPE TdR standardisé | TdR TdR de tous les GTPE départementaux Notes des réunions des GTPEs Liste des participants | Volonté politique Volonté des membres du GTPE
-dans le plan de préparation | Inclure dans les Termes de Référence des GTPE départementaux leurs responsabilités dans la mise en œuvre de la SNPE Revue et standardisation des TdR des GTPE départementaux
-Tous les acteurs dans la protection de l'enfant collaborent sous le leadership et sous la coordination de | pour urgences | 1.1.3 | Etablir des mécanismes de coordination au niveau communal (Comite Communal de Coordination de PE, CCCPE) au niveau des Mairies, ASEC/CASEC | TdR, des mécanismes communaux, reflétant le rôle des membres du GTPE dans l'exécution de la SNPE TdRs standardisé | TdR Notes des réunions des GTPEs Liste des participants | Volonté des Mairies, ASEC/CASEC
-MAST/IBESR | 1.1.4 | Renforcer la coordination des groupes technique (GT) | Les TdR des GT sont formulés Nombre de réunions des GT se tiennent régulièrement pour atteindre leurs buts. Nombre d'actions initiés/menés par les GT | TdR des GT Rapport des réunions | Volonté des acteurs dans la PE
+1.1.2 | Etablir des mécanismes de coordination au niveau départemental (Comité Départemental de Coordination de PE, CDCPE) Inclure dans les Termes de Référence des GTPE départementaux leurs responsabilités dans la mise en œuvre de la SNPE Revue et standardisation des TdR des GTPE départementaux | TdR, renforcés et reflétant le rôle des membres du GTPE dans l'exécution de la SNPE TdR standardisé | TdR TdR de tous les GTPE départementaux Notes des réunions des GTPEs Liste des participants | Volonté politique Volonté des membres du GTPE
+1.1.3 | Etablir des mécanismes de coordination au niveau communal (Comite Communal de Coordination de PE, CCCPE) au niveau des Mairies, ASEC/CASEC | TdR, des mécanismes communaux, reflétant le rôle des membres du GTPE dans l'exécution de la SNPE TdRs standardisé | TdR Notes des réunions des GTPEs Liste des participants | Volonté des Mairies, ASEC/CASEC
+1.1.4 | Renforcer la coordination des groupes technique (GT) | Les TdR des GT sont formulés Nombre de réunions des GT se tiennent régulièrement pour atteindre leurs buts. Nombre d'actions initiés/menés par les GT | TdR des GT Rapport des réunions | Volonté des acteurs dans la PE
 
 41
 
@@ -1213,9 +1261,9 @@ Rapport des activités /projets
 1.1.7 | GTPE à traiter/inclure les questions relatives aux urgences en PE | Nombre de composantes liées à la protection de l'enfance incluses dans le dans le plan de préparation pour urgences (niveau national et niveau Départemental | Plan de préparation pour urgences (niveau national et niveau Départemental ; | Volonté des membres du GTPE
 1.1.8 | Faire le plaidoyer pour l'intégration de la PE dans le Plan Stratégique de Développement d'Haïti (PSDH) | Le PSDH est complété par des points relatifs à la protection de l'enfant. | Existence d'un PSDH complet | Volonté politique/des membres du GTPE
 ### 1.2 | Engager les ministères clés (MAST, MCFDF, MENFP, MJSP, MSPP, MJSAC) dans la mise en œuvre de la SNPE
-| Des Protocoles avec des Ministères clés déterminent les responsabilités dans la PE Les documents | 1.2.1 | Clarifier des rôles et responsabilités de tous les ministères concernés par la PE et/Développer des Protocoles de Coopération | Nombre de Ministères clés ayant signé un protocole dans le cadre de la mise en œuvre du GTPE | Existence de protocoles | Volonté politique
+| Des Protocoles avec des Ministères clés déterminent les responsabilités dans la PE Les documents stratégiques des Ministères clés incluent des questions de PE | 1.2.1 | Clarifier des rôles et responsabilités de tous les ministères concernés par la PE et/Développer des Protocoles de Coopération | Nombre de Ministères clés ayant signé un protocole dans le cadre de la mise en œuvre du GTPE | Existence de protocoles | Volonté politique
 1.2.2 | Mettre en place 'un comité interministériel constituer des ministères piliers du secteur protection, 43 | Comite établi | TdR du Comité
-stratégiques des Ministères clés incluent des questions de PE | 1.2.3 | Nominer un point focal de PE (PFPE) dans chaque ministère qui sera membre du CTNPE/GTPE | # des ministères ayant un PFPE | Nomination des PFPE TdR des PF | Volonté politique
+1.2.3 | Nominer un point focal de PE (PFPE) dans chaque ministère qui sera membre du CTNPE/GTPE | # des ministères ayant un PFPE | Nomination des PFPE TdR des PF | Volonté politique
 1.2.4 | Inclure/intégrer les questions de la PE dans les documents stratégiques, les politiques sectorielles et les Plans | # des documents incluant la PE | Existence de documents stratégiques, politiques sectorielles, Plans | Volonté politique
 
 42
@@ -1230,15 +1278,15 @@ stratégiques des Ministères clés incluent des questions de PE | 1.2.3 | Nomin
 
 d'Action des Ministères clés | d'Action des Ministères clés
 --- | --- | --- | --- | --- | --- | --- | ---
-1.2.5 | Établir des liens entre la SNPE et la protection sociale par le développement et le renforcement des programmes sociaux et d'aide financière des familles vulnérables | Nombre de programmes sociaux et d'aide financière pour des familles vulnérables Nombre de familles vulnérables | Programmes sociaux incluant les familles vulnérables | Volonté politique Ressources financiers
+Les ministères clés sont engagés dans la PE | 1.2.5 | Établir des liens entre la SNPE et la protection sociale par le développement et le renforcement des programmes sociaux et d'aide financière des familles vulnérables | Nombre de programmes sociaux et d'aide financière pour des familles vulnérables Nombre de familles vulnérables | Programmes sociaux incluant les familles vulnérables | Volonté politique Ressources financiers
 1.2.6 | Considérer des dispositions en faveur des enfants et familles vulnérables dans l'élaboration de la Politique de Protection Sociale de l'Etat: Ex. dans le cadre de la réunification familiale, aux familles d'accueil, familles vulnérables à la séparation familiale | La Politique de Protection Sociale considère des enfants et familles vulnérables | Document « Politique de Protection Sociale » | Volonté politique Ressources financières
-Les ministères clés sont engagés dans la PE | 1.2.7 | Etablir le Comité Intra-Institutionnelle de la Traite | Le Comité Intra-Institutionnelle de la Traite est établi | TdR du Comité Notes des réunions | Volonté politique
+1.2.7 | Etablir le Comité Intra-Institutionnelle de la Traite | Le Comité Intra-Institutionnelle de la Traite est établi | TdR du Comité Notes des réunions | Volonté politique
 1.2.8 | Etablir un Comité Exécutif pour l'implémentation du Plan de Désinstitutionalisation des Enfants | Comité Exécutif est établi | TdR du Comité Notes des réunions | Volonté politique
 1.2.9 | Établir des partenariats pour l'enregistrement rapport à l'enregistrement des naissances entre les Ministères (Intérieur, Justice, Culture) et IBESR | Protocole de coopération Nombre des réunions | Protocole de Coopération Notes des réunions | Volonté politique
-### 1.3 | Mobiliser et rendre disponible des ressources pour la mise en œuvre des
-| Les besoins dans la PE sont identifiés, définis et | 1.3.1. | Finaliser le Plan d'Action budgétisé | Le Plan d'Action départementale (PADPE) est budgétisé et actualisé régulièrement | - PAD budgétisé - PAD actualisé annuellement | Volonté des membres du GTPE
-activités comme présentées dans le cadre du Plan d'Action budgétisé | budgétisés | 1.3.2 | Faire le Plaidoyer pour l'allocation d'un budget pour la SNPE/ le PNPE | Nombre de plaidoyers conduits | Plaidoyer Notes des Plaidoyers | Volonté politique
-Le budget nécessaire pour l'exécution du PANPE est disponible | 1.3.3 | Rendre disponible les ressources pour la PE - au niveau des départements et - au niveau des différents ministères sectoriels impliqués dans la mise en | % du montant du budget alloué de l'état alloué à la protection de l'enfant. | Rapports Budgétaires | Volonté politique
+### 1.3 | Mobiliser et rendre disponible des ressources pour la mise en œuvre des activités comme présentées dans le cadre du Plan d'Action budgétisé
+| Le budget nécessaire pour l'exécution du PANPE est disponible | Les besoins dans la PE sont identifiés, définis et budgétisés | 1.3.1. | Finaliser le Plan d'Action budgétisé | Le Plan d'Action départementale (PADPE) est budgétisé et actualisé régulièrement | - PAD budgétisé - PAD actualisé annuellement | Volonté des membres du GTPE
+1.3.2 | Faire le Plaidoyer pour l'allocation d'un budget pour la SNPE/ le PNPE | Nombre de plaidoyers conduits | Plaidoyer Notes des Plaidoyers | Volonté politique
+1.3.3 | Rendre disponible les ressources pour la PE - au niveau des départements et - au niveau des différents ministères sectoriels impliqués dans la mise en | % du montant du budget alloué de l'état alloué à la protection de l'enfant. | Rapports Budgétaires | Volonté politique
 
 43
 
@@ -1249,19 +1297,7 @@ Le budget nécessaire pour l'exécution du PANPE est disponible | 1.3.3 | Rendre
 œuvre de la SNEP
 --- | --- | --- | --- | --- | --- | --- | ---
 ### 1.4 | Développer des stratégies spécifiques pour les questions de PE les plus urgentes
-| Stratégies pour les questions/ thèmes protection les plus urgents existent | 1.4.1. | Développer des stratégies/Plans d'Action (PA) spécifiques : | Nombre de stratégies et Plans d'action développés | Documents des stratégies et PA | Ressources financières et humaines
-- La prévention de la séparation familiale et la prévention de l'institutionnalisation
-- la désinstitutionalisation des enfants
-- la protection de remplacement (mise en œuvre du Dispositif de placement en famille d'accueil, réforme du processus de gestion des adoptions)
-- la traite des enfants
-- les enfants en contact avec la loi
-- les enfants en domesticité
-Les stratégies pour les questions de PE les plus urgentes sont définies | - les enfants en situation de rue
-- lutte contre les violences faites aux enfants - protection des enfants en mouvement
-(incluant les thèmes: l'expulsion, rapatriement et déportation)
--les enfants handicapés
--les enfants non accompagnés
-- lutte contre le châtiment corporelle et des autres violences faites aux enfants en milieu scolaire
+| Les stratégies pour les questions de PE les plus urgentes sont définies | Stratégies pour les questions/ thèmes protection les plus urgents existent | 1.4.1. | Développer des stratégies/Plans d'Action (PA) spécifiques : - La prévention de la séparation familiale et la prévention de l'institutionnalisation - la désinstitutionalisation des enfants - la protection de remplacement (mise en œuvre du Dispositif de placement en famille d'accueil, réforme du processus de gestion des adoptions) - la traite des enfants - les enfants en contact avec la loi - les enfants en domesticité - les enfants en situation de rue - lutte contre les violences faites aux enfants - protection des enfants en mouvement (incluant les thèmes: l'expulsion, rapatriement et déportation) -les enfants handicapés -les enfants non accompagnés - lutte contre le châtiment corporelle et des autres violences faites aux enfants en milieu scolaire | Nombre de stratégies et Plans d'action développés | Documents des stratégies et PA | Ressources financières et humaines
 1.4.2 | Renforcer la question de la PE dans le plan inter agences de préparation pour l'urgence | Le plan actualisé est disponible | Plan de contingence inclue question de PE | Volonté politique
 ### 1.5 | Développer un cadre de coordination des interventions de la société civile dans le secteur PE
 | Des protocoles de coopération sont systématisés | 1.5.1 | Créer un comité d'évaluation et de priorisation des projets de PE | Comité est créé | TdR Notes des réunions | Volonté politique
@@ -1273,14 +1309,14 @@ Les stratégies pour les questions de PE les plus urgentes sont définies | - le
 
 [[START OF PAGE 47]]
 
-1.5.3 | Etablir un lien entre le Ministère de la Planification et de la Coopération Externe à travers l'unité de coordination des ONG (l'UCONG) impliquant l'IBESR | Lien est établi | Existence d'un protocole | Volonté politique
+Les interventions de la société civile dans la PE sont coordonnées | 1.5.3 | Etablir un lien entre le Ministère de la Planification et de la Coopération Externe à travers l'unité de coordination des ONG (l'UCONG) impliquant l'IBESR | Lien est établi | Existence d'un protocole | Volonté politique
 --- | --- | --- | --- | --- | --- | --- | ---
-Les interventions de la société civile dans la PE sont coordonnées | 1.5.4 | Développer des protocoles de coopération standardisée | Nombre de protocoles élaborés suivant les standards | Protocoles | Volonté des acteurs dans la PE
+1.5.4 | Développer des protocoles de coopération standardisée | Nombre de protocoles élaborés suivant les standards | Protocoles | Volonté des acteurs dans la PE
 1.5.5 | Rédiger et signer des protocoles de coopération avec tous les partenaires | Nombre des protocoles relatifs aux partenaires | Protocoles | Volonté des acteurs dans la PE
 1.5.6 | Développer une législation sur les associations | Législation développée et adoptée | Législation | Volonté politique
 ### 1.6 | Ratifier des instruments internationaux relatif a la PE
-| Ratification des instruments internationaux | 1.6.1 | Plaidoyer pour ratifier des instruments internationaux non encore ratifiés par Haïti : 3ième Protocole à la CDE, Convention de NU sur l'Apatridie, Convention des NU sur la Torture | Nombre de plaidoyers conduits | Plaidoyers | Volonté politique
-Pour compléter Les trois instruments protocoles additionnels à la Convention des Nations Unies relative aux droits de l'enfant déjà ratifiées par Haiti. | 1.6.2 | Ratifier des instruments internationaux non encore ratifiés par Haïti | Nombre instruments ratifiés dans le cadre de la mise en œuvre de la CDE | Ratification | - Volonté politique
+| Pour compléter Les trois instruments protocoles additionnels à la Convention des Nations Unies relative aux droits de l'enfant déjà ratifiées par Haiti. | Ratification des instruments internationaux | 1.6.1 | Plaidoyer pour ratifier des instruments internationaux non encore ratifiés par Haïti : 3ième Protocole à la CDE, Convention de NU sur l'Apatridie, Convention des NU sur la Torture | Nombre de plaidoyers conduits | Plaidoyers | Volonté politique
+1.6.2 | Ratifier des instruments internationaux non encore ratifiés par Haïti | Nombre instruments ratifiés dans le cadre de la mise en œuvre de la CDE | Ratification | - Volonté politique
 ## Résultat 2 : Le cadre normatif concernant la protection de l'enfant est connu par la population et les acteurs et est appliqué
 | Nombre des cas de violations amenés au tribunal Nombre des cas traités par le tribunal en faveur de la protection de l'enfant | -Décisions en faveur des enfants rendues par les tribunaux documentés | - Volonté politique - Environnement favorable à la dénonciation des cas de violation des droits de la PE - Capacités des intervenants
 
@@ -1291,17 +1327,18 @@ Pour compléter Les trois instruments protocoles additionnels à la Convention d
 [[START OF PAGE 48]]
 
 ### 2.1 | Harmoniser le cadre normatif concernant la PE avec les instruments internationaux des droits de l'homme ratifiés par Haïti et avec la Constitution haïtienne
-cadre | Législation est modifiée et adoptée Des décrets sont adoptés POS sont développés | 2.1.1 | Analyser la législation nationale par rapport à la protection de l'enfant | Rapport de l'Analyse | Rapport de l'Analyse | Ressources financières et humaines
+| Le cadre normatif se trouve en harmonie avec les instruments internationaux des droits de l'homme ratifiés par Haïti et avec la Constitution haïtienne | Législation est modifiée et adoptée Des décrets sont adoptés POS sont développés | 2.1.1 | Analyser la législation nationale par rapport à la protection de l'enfant | Rapport de l'Analyse | Rapport de l'Analyse | Ressources financières et humaines
 --- | --- | --- | --- | --- | --- | --- | ---
 2.1.2 | Compléter la réforme législative en cours en vue de s'assurer que la protection de l'enfant est toujours garantie | Nombre de modifications législatives en faveur des enfants | Loi modifiée | Volonté politique
 2.1.3 | Faire le plaidoyer pour l'adoption du Code de Protection de l'Enfant | Nombre de de actions de plaidoyer auprès des parlementaires Code de PE est adopté | Notes plaidoyer/ Plaidoyers élaborés Publication du loi | Volonté politique Volonté des acteurs clés dans la PE
-Le normatif se trouve en harmonie avec les instruments internationaux des droits de l'homme ratifiés par Haïti et avec la Constitution haïtienne | 2.1.4 | Responsabiliser les acteurs pertinents à élaborer et faire le plaidoyer pour adopter le Code de la Famille | Nombre de plaidoyer | Plaidoyer | Volonté des acteurs clés dans la PE
+2.1.4 | Responsabiliser les acteurs pertinents à élaborer et faire le plaidoyer pour adopter le Code de la Famille | Nombre de plaidoyer | Plaidoyer | Volonté des acteurs clés dans la PE
 2.1.5 | Développer une loi cadre sur la famille d'accueil (FDA) | Loi cadre FdA développée | Publication de la loi | Volonté politique
 2.1.6 | Adoption du projet de Loi sur la Nationalité | Loi sur la Nationalité adoptée | Publication de la loi | Volonté politique
 2.1.7 | Développer et adopter des décrets d'application Traite, Adoption, Maternité, paternité et filiation | Adoption des 3 décrets | Publication des décrets | Volonté politique Ressources financiers et humaines
 2.1.8 | Révision du Décret 1971 | Décret 1971 est révisé | Publication du décret | Volonté politique Ressources financières et humaines
 2.1.9 | Développer des Procédures Opérationnelles Standards (POS) pour | # des POS développés | POS disponibles | Volonté politique Ressources financières et humaines
-- la fermeture des maisons d'enfants - la prévention et la réponse aux situations de vulnérabilités dans les urgences
+- la fermeture des maisons d'enfants
+- la prévention et la réponse aux situations de vulnérabilités dans les urgences
 - la prise en charge des enfants
 
 46
@@ -1310,18 +1347,18 @@ Le normatif se trouve en harmonie avec les instruments internationaux des droits
 
 [[START OF PAGE 49]]
 
-2.1.10 | victimes de violences sexuelles la prise en charges des enfants des pires formes de travail la prise en charge des enfants en avec la loi | Document des lignes | Volonté politique
+victimes de violences sexuelles
+- la prise en charges des enfants victimes des pires formes de travail
+- la prise en charge des enfants en contact avec la loi
 --- | --- | --- | --- | --- | --- | --- | ---
-- victimes -
-contact
-Uniformiser les lignes directrices pour l'évaluation de la situation de l'enfant | Les lignes directrices pour l'évaluation de la situation de l'enfant | directrices | Ressources financières et humaines
+2.1.10 | Uniformiser les lignes directrices pour l'évaluation de la situation de l'enfant | Les lignes directrices pour l'évaluation de la situation de l'enfant | Document des lignes directrices | Volonté politique Ressources financières et humaines
 ### 2.2 | Vulgariser les législations/ le cadre normatif en vigueur
-| Les professionnels/ intervenants et la population sont bien informés sur le cadre législatif/normat if La population est formée et informée | 2.2.1 | Diffuser, vulgariser et sensibiliser sur le cadre normatif relatif à la protection de l'enfant auprès de tous les professionnels et intervenants | Nombre des sessions de sensibilisation | Matériels de sensibilisation Rapport des sessions de sensibilisation | Ressources financières et humaines
-Les violations du droit de la protection sont amenées au tribunal | 2.2.2 | Diffuser, vulgariser et sensibiliser sur le cadre normatif relatif à la protection de l'enfant dans le secteur ainsi que les communautés | Nombre des sessions de sensibilisation | Matériels de sensibilisation Rapport des sessions de sensibilisation | Ressources financières et humaines
+| Les violations du droit de la protection sont amenées au tribunal | Les professionnels/intervenants et la population sont bien informés sur le cadre législatif/normatif La population est formée et informée | 2.2.1 | Diffuser, vulgariser et sensibiliser sur le cadre normatif relatif à la protection de l'enfant auprès de tous les professionnels et intervenants | Nombre des sessions de sensibilisation | Matériels de sensibilisation Rapport des sessions de sensibilisation | Ressources financières et humaines
+2.2.2 | Diffuser, vulgariser et sensibiliser sur le cadre normatif relatif à la protection de l'enfant dans le secteur ainsi que les communautés | Nombre des sessions de sensibilisation | Matériels de sensibilisation Rapport des sessions de sensibilisation | Ressources financières et humaines
 ### 2.3 | Renforcer et former le personnel requis a leur mise en ouvre
-| Le matériel standardisé de formation est développé Les ressources humaines sont augmentées Les intervenants (juges, magistrats, avocats, paquets, huissiers, juge délégué) est | 2.3.1 | Analyser les difficultés dans l'application du cadre normatif/ Identifier les besoins de formations | Analyse réalisé | Rapport de l'Analyse | Ressources financières et humaines
+| Les violations du droit de protection sont traitées adéquatement par les tribunaux | Le matériel standardisé de formation est développé Les ressources humaines sont augmentées Les intervenants (juges, magistrats, avocats, paquets, huissiers, juge délégué) est | 2.3.1 | Analyser les difficultés dans l'application du cadre normatif/ Identifier les besoins de formations | Analyse réalisé | Rapport de l'Analyse | Ressources financières et humaines
 2.3.2 | Développer des partenariats avec les institutions de formation (Universités, école de la magistrature) | Nombre de protocoles de partenariats | Protocoles | Volonté politique et volonté des institutions
-Les violations du droit de protection sont traitées adéquatement par les tribunaux | 2.3.3 | Elaborer des guides de formation | Nombre et qualité des guides | Guides de formation | Ressources financières et humaines
+2.3.3 | Elaborer des guides de formation | Nombre et qualité des guides | Guides de formation | Ressources financières et humaines
 2.3.4 | Assurer la formation sur le cadre normatif relatif à la protection de l'enfant aux juges, magistrats, avocats, paquets, huissiers, juge délégué | Nombre de formations de qualité, approuvé par l'Ecole de la Magistrature des différentes catégories de personnel | Modules de formation Rapports des formations Evaluations des formations | Ressources financières et humaines
 
 47
@@ -1337,7 +1374,7 @@ formé pour appliquer le cadre normatif | 2.3.5 | Augmenter les ressources humai
 ## Résultat 3 : Les services de base de IBESR, de la sante, de la justice/de la police, de la coordination départementale du MCFDF, de l'OPC sont renforcés par des capacités, ressources et des mécanismes de coopération et de référence en place pour prévenir et répondre aux violations de droit de PE
 | Nombre de personnel qualifié/formé à IBESR avec un contrat régulier % du personnel formé dans la PE dans les services de bases Nombre des cas de violation du droit de PE par service traités Nombre de cas référés entre les services | - Contrats - Rapports des formations - Cas documentés - Protocoles de référence - Cas référés | - Volonté politique/des différents secteurs - Ressources alloués - PE est une priorité au niveau nationale et des différents secteurs au niveau des Départements
 ### 3.1 | Restructurer et renforcer des services de l' IBESR pour assurer la couverture cohérente et de qualité de la PE à l'échelle nationale
-| Le cadre législatif de IBESR est en place Les ressources humaines sont renforces/augme | 3.1.1 | Plaidoyer pour l'adoption de la Loi Cadre de IBESR | Nombre de plaidoyers conduits | Plaidoyers | Volonté politique
+| Le cadre législatif de IBESR est en place Les ressources humaines sont renforces/augmentes et formés dans la PE | 3.1.1 | Plaidoyer pour l'adoption de la Loi Cadre de IBESR | Nombre de plaidoyers conduits | Plaidoyers | Volonté politique
 3.1.2 | Voter le Loi Cadre de IBESR | La loi cadre de l'IBESR est adoptée et publié | Publication de la loi | Volonté politique
 3.1.3 | Promulguer et mettre en œuvre la Loi Cadre de IBESR | Volonté politique
 3.1.4 | Faire un Audit Interne au niveau de IBESR | Un audit est réalisé | Rapport du Audit | Ressources financiers et humaines
@@ -1389,7 +1426,7 @@ Le personnel de la BPM a augmenté | 3.2.2 | Assurer des formations thématiques
 La PNH prévient et réponde aux violations du droit de la PE | 3.2.4 | Renforcer le personnel de la BPM au niveau des départements | Augmentation de l'effectif de la BPM | Rapports ressources humaines PNH | Volonté politique Ressources financières et techniques
 3.2.5 | Renforcer des capacités de soutien psychosocial de la BPM | Nombre de formations Nombre de cas bénéficiant d'un appui psychosocial | Modules Rapport des formations Evaluations des formation | Volonté politique Ressources financiers et techniques
 3.2.6 | Renforcer les mécanismes de contrôles dans les zones frontalières | # de BPM stationnes a la frontière (# augmenté | Rapport ressources humaines | Volonté politique Ressources financières
-### 3.3 | Renforcer des services de : - la coordination départementale de MCFDF - la santé, - l'éducation, - l'enregistremen t à la naissance,
+### 3.3 | Renforcer des services de : - la coordination départementale de MCFDF - la santé, - l'éducation, - l'enregistrement à la naissance,
 | Ressources humaines par rapport à la PE dans les services de bases sont augmentés Ressources humaines formées dans la PE | 3.3.1 | La coordination Départemental de la MCFDF
 Augmentation du nombre du staff | Nombre de staff additionnel | Rapport ressources humaines | Volonté politique Ressources financières
 Assurer des formations en protection de l'enfant | Nombre des formations de qualité réalisées Nombre de personnel atteint | Modules Rapport des formations | Volonté politique Ressources
@@ -1400,17 +1437,17 @@ Assurer des formations en protection de l'enfant | Nombre des formations de qual
 
 [[START OF PAGE 54]]
 
-- l'OPC | Le personnel des services | Evaluation des formations | financières
+- l'OPC par rapport à la protection | Le personnel des services de base est formé en appui psychosocial L'enregistrement des naissances augmenté dans les hôpitaux Politique de « sauf garde » des enfants appliquée dans les écoles | Evaluation des formations | financières
 --- | --- | --- | --- | ---
-par rapport à la protection | de base est formé | 3.3.2 | Les services de santé :
-en appui psychosocial L'enregistremen t des naissances augmenté dans | Assurer des formations en protection de l'enfant pour le personnel des services de santé | Nombre de formations de qualité réalisées Nombre de personnel touché | Modules Rapport des formations Evaluations des formation | Volonté politique Ressources financiers
-les hôpitaux Politique de « sauf garde » des enfants | Renforcer des capacités de personnelle des services de santé dans le soutien psychosocial | Nombre des formations de qualité réalisées Nombre de personnel touché | Modules Rapport des formations Evaluations des formation | Ressources financiers
-appliquée dans les écoles | Systématiser l'appui psychologique aux enfants au niveau des structures de santé | Pourcentage des structures ayant un service d'appui psychologique Nombre des appuis offerts aux enfants | Rapports des services de santé | Ressources financières
+3.3.2 | Les services de santé :
+Assurer des formations en protection de l'enfant pour le personnel des services de santé | Nombre de formations de qualité réalisées Nombre de personnel touché | Modules Rapport des formations Evaluations des formation | Volonté politique Ressources financiers
+Renforcer des capacités de personnelle des services de santé dans le soutien psychosocial | Nombre des formations de qualité réalisées Nombre de personnel touché | Modules Rapport des formations Evaluations des formation | Ressources financiers
+Systématiser l'appui psychologique aux enfants au niveau des structures de santé | Pourcentage des structures ayant un service d'appui psychologique Nombre des appuis offerts aux enfants | Rapports des services de santé | Ressources financières
 Renforcer/assurer que les hôpitaux à fournir des certificats d'attestation de naissance | Nombre des certificats d'attestation de naissances données | Rapports des hôpitaux | Volonté politique Ressources humaines
 Renforcer la capacité du Département du Registre National Civil afin d'améliorer l'efficacité des processus du système d'enregistrement des naissances | Pourcentage d'enfants enfants enregistrés | Registre civil Archives des Ministères de la Justice | Volonté politique Ressources financières et humains
 3.3.3 | L'éducation et les écoles
 Faciliter l'Expansion du Commission Municipale d'Education (CME) | Volonté politique
-Les services de base de sante, de l'éducation et des femmes mènent des | Formation sur le Code de Conduit pour tout personnel ou volontaire des écoles | Nombre de formations réalisées Nombre de personnes touchées | Rapport des formations Evaluation/connaissance s sur le Code | Volonté politique Ressources financières et
+Les services de base de sante, de l'éducation et des femmes mènent des | Formation sur le Code de Conduit pour tout personnel ou volontaire des écoles | Nombre de formations réalisées Nombre de personnes touchées | Rapport des formations Evaluation/connaissances sur le Code | Volonté politique Ressources financières et
 
 52
 
@@ -1422,8 +1459,8 @@ actions en faveur de la PE | humains
 --- | --- | --- | ---
 Appliquer la politique « sauf garder les enfants » | Nombre d'écoles exécutant la politique | Rapports des écoles | Ressources financières et humaines Volonté politique
 Renforcer les capacités des directeurs et des enseignants par rapport à la PE à l'école | Nombre de formations de qualité réalisée Nombre de directeurs et enseignants atteints | Modules Rapport des formations Evaluations des formation | Ressources financières et humaines Volonté politique
-Former les directeurs et enseignants sur les approches disciplinaires positives et non violentes | Nombre de formations de qualité réalisées Nombre de directeurs et enseignants touchés | Modules Rapport des formations Evaluations des | Ressources financières et humaines Volonté politique
-Organiser des causeries dans les écoles sur les droits des enfants, et la protection, les droits civils, la santé de reproduction | Nombre de causeries organisées Nombre d'étudiants touchés | formation Modules Rapport des causeries | Ressources financières et humaines Volonté politique
+Former les directeurs et enseignants sur les approches disciplinaires positives et non violentes | Nombre de formations de qualité réalisées Nombre de directeurs et enseignants touchés | Modules Rapport des formations Evaluations des formation | Ressources financières et humaines Volonté politique
+Organiser des causeries dans les écoles sur les droits des enfants, et la protection, les droits civils, la santé de reproduction | Nombre de causeries organisées Nombre d'étudiants touchés | Modules Rapport des causeries | Ressources financières et humaines Volonté politique
 Sensibiliser les responsables des écoles sur la gestion des risques et des désastres | Nombre de sensibilisations Nombre de responsables touchées | Matériel de sensibilisation Rapport des sensibilisations Evaluation des formations | Ressources humaines Volonté politique
 Impliquer les Conseils des écoles dans la vigilance de PE en milieu scolaire | Nombre des conseils d'écoles impliqués des écoles Nombre des actions des conseils | Rapports écoles | Ressources financières et humaines Volonté politique
 
@@ -1469,7 +1506,7 @@ Les enfants sont prises en charge dans un milieu familial | 3.6.3 | Établir des
 
 [[START OF PAGE 58]]
 
-- Volonté des enfants - Ressources/capa cités techniques
+- Volonté des enfants - Ressources/capacités techniques
 --- | --- | --- | ---
 3.6.5 | Créer et renforcer des formes de prise en charge alternative
 Prise en charge par / la famille élargie | Nombre d'enfants séparés intégrés dans des familles élargies | Registre de l'IBESR | Volonté des familles Volonté des enfants Ressources/ capacités techniques
@@ -1514,6 +1551,7 @@ pour les enfants placés en institution (écoles, églises et autres) | particip
 Les communautés, familles et enfants savent comment prévenir et répondre aux violations du droit de protection | Les communautés, familles et enfants sont sensibilise dans les questions de PE | 4.1.2 | Développer une stratégie de communication sur des questions de protection de l'enfant et changements comportementaux | Stratégie développé | Stratégie | Ressources humaines, techniques et financières
 4.1.3 | Organiser des campagnes sur les droits des enfants/la PE au niveau communautaire | Nombre de séances de sensibilisation et Nombre de participants Nombre de journées célébrées et Nombre des participants Nombre d'enfants | Matériels de sensibilisation Rapport des sessions de sensibilisation | Ressources financières et capacités techniques
 4.1.4 | Organiser des campagnes sur les droits des enfants/la PE/ aux occasions/ journées spéciales
+4.1.5 | Développer des campagnes spécifiques :
 Campagne en pro/sur les bénéfices de la prise en charge parentale
 
 58
@@ -1528,10 +1566,10 @@ Campagnes d'élimination de la violence contre les femmes et les filles à la ma
 4.1.6 | Sensibiliser des médias sur les questions de protection | Nombre de séances de sensibilisation Nombre de participants | Matériel de sensibilisation Liste de participation Rapports sur des séances | Ressources humaines et capacité technique
 4.1.7 | Promouvoir la participation de l'enfant | Nombre des séances de sensibilisation Nombre de participants | Matériel de sensibilisation Liste de participation Rapports sur des séances | Capacités techniques Volonté des acteurs
 4.1.8 | Mener des études périodiques: attitudes a travers des enfants et changement des attitude | Nombre d'études | Rapport des études | Ressources financières et capacités techniques
-### 4.2 | Renforcer des capacités des leaders communautaire s, religieux et des comités de protection
+### 4.2 | Renforcer des capacités des leaders communautaires, religieux et des comités de protection
 | Les leaders communautaires , religieux et des comités de protection ont des connaissances dans la PE Les leaders communautaires , religieux et des | 4.2.1 | Organiser une enquête pour identifier les besoins/les défis majeurs par rapport aux nécessites de renforcement des capacités | Enquête menée | Rapport de l'enquête | Ressources financières et capacités techniques
 4.2.2 | Renforcer des capacités des leaders communautaires et religieux d'adresser des questions de protection | Nombre de séances conduites Nombre de participants | Rapports des ateliers | Ressources financières et capacités techniques Implication des leaders
-Les leaders communautaires, religieux savent comment prévenir et répondre aux violations du | comités de protection on t des connaissances sur la protection sociale | 4.2.3 | Renforcer des connaissances sur des questions de protection sociale et juridique, dans la communication, le plaidoyer, la mobilisation sociale | Nombre de séances Nombre de participants | Rapports | Ressources financières et capacités techniques
+Les leaders communautaires, religieux savent comment prévenir et répondre aux violations du | comités de protection ont des connaissances sur la protection sociale | 4.2.3 | Renforcer des connaissances sur des questions de protection sociale et juridique, dans la communication, le plaidoyer, la mobilisation sociale | Nombre de séances Nombre de participants | Rapports | Ressources financières et capacités techniques
 4.2.4 | Renforcer des capacités des comités/réseaux de protection pour faciliter la mobilisation sociale | Nombre de comités/ membre des comités formées par année | Modules de formation Rapports des formations | Ressources financières et capacités
 
 59
@@ -1542,11 +1580,11 @@ Les leaders communautaires, religieux savent comment prévenir et répondre aux 
 
 droit de protection | Evaluations des formations | techniques
 --- | --- | --- | --- | --- | --- | ---
-### Renforcer des capacités des familles et communautés dans la protection et la prise en charge des enfants (appui aux parents, familles d'accueil et familles élargies)
-Les familles et communautés | Les familles et communautés ont les connaissances pour mieux protéger les enfants Des familles et | 4.3.1 | Organiser une enquête pour identifier les besoins/les défis majeurs par rapport aux nécessités de renforcement des capacités | Enquête | Rapport de l'enquête | Ressources financières et capacités techniques
+### 4.3 | Renforcer des capacités des familles et communautés dans la protection et la prise en charge des enfants (appui aux parents, familles d'accueil et familles élargies)
+| Les familles et communautés ont les connaissances pour mieux protéger les enfants Des familles et communautés ont les moyens pour mieux protéger les enfants | 4.3.1 | Organiser une enquête pour identifier les besoins/les défis majeurs par rapport aux nécessités de renforcement des capacités | Enquête | Rapport de l'enquête | Ressources financières et capacités techniques
 4.3.2 | Assister à l'établissement/organisation des crèches communautaires, Centres Juvéniles, Centres Culturelles, espace pour les jeunes | Nombre d'espaces crées Nombre de personnel formés | Espaces Rapport des espaces | Ressources financières et capacités techniques
-4.3.3 | Mettre en œuvre des programmes d'éducation parentale et de prise en charge | Nombre de sessions de sensibilisation et des formations réalisées Nombre des participants | Matériels de sensibilisation Rapport des sessions de sensibilisation  | Ressources financières et capacités techniques
-ont des connaissances et ressources pour prendre en charge et protéger leurs enfants | 4.3.4 | Assurer aux familles vulnérables un meilleur accès à la protection sociale a travers des programmes de la protection sociale | Nombre des familles ayant un accès a la protection sociale | Liste des bénéficiaires Rapport sur l'assistance | Ressources financières Volonté politique
+4.3.3 | Mettre en œuvre des programmes d'éducation parentale et de prise en charge | Nombre de sessions de sensibilisation et des formations réalisées Nombre des participants | Matériels de sensibilisation Rapport des sessions de sensibilisation | Ressources financières et capacités techniques
+Les familles et communautés ont des connaissances et ressources pour prendre en charge et protéger leurs enfants | 4.3.4 | Assurer aux familles vulnérables un meilleur accès à la protection sociale a travers des programmes de la protection sociale | Nombre des familles ayant un accès a la protection sociale | Liste des bénéficiaires Rapport sur l'assistance | Ressources financières Volonté politique
 4.3.5 | Renforcer les capacités des familles et des communautés à répondre aux besoins psychosociaux des enfants vulnérables
 4.3.6 | Supporter l'autonomisation économique par des moyens de subsistance durable (Transfer de cash, Micro crédit, VSLA Association Village de Epargne et de Prêts | Nombre des familles vulnérables bénéficiant des activités génératrices revenues | Rapports de suivi Liste de familles bénéficiaires | Ressources financières et capacités techniques
 ### 4.4 | Assurer la participation des enfants, leurs connaissances, compétences de vie et résilience
@@ -1561,11 +1599,11 @@ ont des connaissances et ressources pour prendre en charge et protéger leurs en
 
 4.4.3 | Développer des outils de communication adaptés aux enfants/jeunes selon les tranches d'âge (portes d'entrée : familles, écoles, hôpital, centres de santé, églises, évènement culturel et sportif). | Outils | Outils | Ressources financières et capacités techniques
 --- | --- | --- | --- | ---
-4.4.4 | Sensibiliser les enfants sur leurs droits/des questions de protection à travers les écoles (intégration dans le curriculum), clubs de jeunes etc. | Nombre de séances de sensibilisation sur la protection | Matériels de sensibilisation Rapport des sessions de sensibilisation  | Disponibilité du matériel Capacités techniques Volonté politique
+4.4.4 | Sensibiliser les enfants sur leurs droits/des questions de protection à travers les écoles (intégration dans le curriculum), clubs de jeunes etc. | Nombre de séances de sensibilisation sur la protection | Matériels de sensibilisation Rapport des sessions de sensibilisation | Disponibilité du matériel Capacités techniques Volonté politique
 4.4.5 | Sensibiliser sur des questions de violence dans les écoles et en route à/de l'école (« safe school ») | Nombre de sessions sensibilisation Nombre d'écoles atteints | Matériels de sensibilisation Rapport des sessions de sensibilisation | Disponibilité du matériel Capacités techniques
 4.4.6 | Etablir, au niveau national et départemental des pools des Enfants formes sur leurs droits, les techniques de plaidoyer, et les pratiques de communication de base | Nombre de pools des enfants avec des enfants formés | Matériel de formation Rapports | Disponibilité du matériel Capacités techniques
 4.4.7 | Rendre le Parlement des Enfants opérationnel et effectivement représentatif, au niveau central et local et assurer la participation égale pour tous les enfants au parlement et au gouvernement des enfants | Nombre d'enfants des participants Nombre d'enfants des différents Nombre d'enfants vulnérables Nombre d'enfants des familles vulnérables | Liste de membres | Volonté politique et de tous les acteurs
-4.4.8 | Assurer, faciliter la participation des enfants à la conception et au suivi des activités/projets/programmes de protection de l'enfant | Nombre/Pourcentage d'activités projets/programmes avec participation des enfants | Rapports de activités/projets/program mes | Volonté des acteurs
+4.4.8 | Assurer, faciliter la participation des enfants à la conception et au suivi des activités/projets/programmes de protection de l'enfant | Nombre/Pourcentage d'activités projets/programmes avec participation des enfants | Rapports de activités/projets/programmes | Volonté des acteurs
 4.4.9 | Programmes scolaires pour aider aux enfants/ados à aborder différents aspects de la violence sexuelle, physique et psychologique, aider les | Nombre de Programmes scolaires Nombre d'enfants participants | Matériels de sensibilisation Liste de participants | Volonté politique
 
 61
@@ -1635,9 +1673,9 @@ Enfants en institutions
 Recherches de l'IBESR 45 par l'IHSI, intégrant les données de l'IBESR, du MAST, de la Santé, de la Justice (enregistrement des naissances, arrestations, détention,) | Capacités techniques
 --- | --- | --- | --- | --- | --- | --- | ---
 5.2.7 | Définir et/ou harmoniser les indicateurs servant à mesurer les activités/interventions de l'IBERS à tous les niveaux (Central, départemental, communal et communautaire) | Nombre d'indicateurs définis et harmonisés Un ensemble harmonisé d'indicateurs prioritaires Nombre de Départements avec des indicateurs harmonisés | Document définissant les indicateurs | Volonté politique et des acteurs Capacités techniques
-5.2.8 | Réviser et harmoniser les outils de collecte, analyse, évaluation et partage | Les outils sont développés | Outils | Capacités techniques
+Réviser et harmoniser les outils de collecte, analyse, évaluation et partage | Les outils sont développés | Outils | Capacités techniques
 Créer des procédures standard d'opération de gestion de l'information/PSOGI (Elaboration et gestion des fichiers des intervenants et des interventions, …) | PSOGI Nombre de formulaires des Fichiers L'ensemble des formulaires standardisés et appliqués | PSOGI Fichiers | Capacités techniques
-Au niveau des départements : Créer des mécanismes de surveillance au niveau des départements en association avec les organismes et les instituts de recherches départementaux | Mécanismes créés | Termes de référence | Volonté politique
+5.2.8 | Au niveau des départements : Créer des mécanismes de surveillance au niveau des départements en association avec les organismes et les instituts de recherches départementaux | Mécanismes créés | Termes de référence | Volonté politique
 5.2.9 | Rendre accessible et disséminer des données | Dissémination | Dissémination | Volonté des acteurs
 ### 5.3 | Renforcer des capacités des acteurs pour la gestion du système de suivi et d'évaluation
 | Les capacités dans le suivi et l'évaluation sont renforcées' | 5.3.1 | Renforcer les capacités de collecte, reportage, analyse et de gestion des données | Nombre de formations Nombre de participants | Modules Rapports de formations Evaluations des formations | Ressources humaines et financières
@@ -1650,9 +1688,9 @@ Au niveau des départements : Créer des mécanismes de surveillance au niveau d
 
 [[START OF PAGE 68]]
 
-Des actions de suivi sont menées Nombre d'activités/ projets/ programs | 5.3.2 | Renforcement des capacités en suivi et évaluation | Nombre de formations Nombre de participants Nombre d'activités/projets évalués / projets/ programs évalués | Modules Rapports des formations Evaluations des formations | Ressources humaines et financières
+Des actions de suivi sont menées Nombre d'activités/ projets/ programs évalués | 5.3.2 | Renforcement des capacités en suivi et évaluation | Nombre de formations Nombre de participants Nombre d'activités/projets évalués / projets/ programs évalués | Modules Rapports des formations Evaluations des formations | Ressources humaines et financières
 --- | --- | --- | --- | --- | ---
-Les un suivi | 5.3.3 | Renforcement des capacités des acteurs suivant leurs besoins | Nombre de formations Nombre des participants | Modules Rapports des formations Evaluations des formations | Ressources humaines et financières
+Les acteurs font un suivi et des évaluations réguliers | 5.3.3 | Renforcement des capacités des acteurs suivant leurs besoins | Nombre de formations Nombre des participants | Modules Rapports des formations Evaluations des formations | Ressources humaines et financières
 
 66
 
