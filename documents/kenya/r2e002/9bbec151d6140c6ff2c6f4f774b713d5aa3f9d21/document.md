@@ -34,7 +34,7 @@ Website: www.education.go.ke
 
 ## FOREWORD
 
-V alue  education  is  an  integral  part  of  quality  education.  The  Kenya  vision 2030  underscores  the  importance  of  security,  peace  building  and  conflict management for social, economic and political development. In the face of challenges such as climate change, environmental degradation and inequitable access to limited life-sustaining resources, there is potential to either exacerbate existing socioeconomic tensions or create new ones leading to conflict and violence. The education sector therefore has the duty to equip young people with requisite knowledge, skills and  attitudes  for  building  peace  as  well  as  values  for  constructive  intrapersonal, interpersonal and intergroup relations at the national and international levels.
+Value education is an integral part of quality education. The Kenya vision 2030 underscores the importance of security, peace building and conflict management for social, economic and political development. In the face of challenges such as climate change, environmental degradation and inequitable access to limited life-sustaining resources, there is potential to either exacerbate existing socio-economic tensions or create new ones leading to conflict and violence. The education sector therefore has the duty to equip young people with requisite knowledge, skills and attitudes for building peace as well as values for constructive intrapersonal, interpersonal and intergroup relations at the national and international levels.
 
 The  Government  of  Kenya  is  committed  to  promoting  peace  and  harmonious coexistence among Kenyan. This is reflected in the Kenya Vision 2030 whose social pillar emphasizes promotion of  a just and cohesive society, enjoying equitable social development  in  a  clean  and  secure  environment.  In  line  with  this,  the  Ministry  of Education Science and Technology (MoEST) initiated the Peace Education Programme in 2008 with a view to enhancing knowledge, skills and values for peace.
 
@@ -52,7 +52,7 @@ Prof. Jacob T. Kaimenyi, PhD, FICD, EBS CABINET SECRETARY
 
 ## ACKNOWLEDGEMENTS
 
-T he  Education  Sector  Policy  on  Peace  Education  is  a  product  of  extensive consultation and collaboration among individuals and institutions. The process of developing this policy began in 2010 when the Ministry constituted a technical team comprising officers from MoEST, the Teachers Service Commission (TSC), the Kenya Education Management Institute (KEMI), the Kenya Institute for Curriculum Development (KICD), Moi University, UNICEF and UNESCO staff. The team held two workshops to develop the initial framework and the first draft policy document. In August 2011, the framework was shared with senior managers from the Ministries of Education Science and Technology, Ministry of Youth and Sports and the Nairobi Peace Initiative (NPI) in Mombasa. Based on the their inputs, the first draft of the policy was developed in a retreat held in Nakuru attended by policy makers from MoEST and representatives from; the Ministry of Justice and National Cohesion, the Ministry of State for Internal Security, the University for Peace in Africa Programme, UNESCO and UNICEF. The draft policy was then subjected to stakeholders review in February 2012 at the Kenya Institute for Curriculum Development. In May 2013, a workshop to finalize the Policy was held in Nakuru. The workshop brought together stakeholders from  the  MoEST,  Department  of  Youth  Affairs  and  Sports,  Department  of  Higher Education, Directorate of Adult and Continuing Education, Kenya Bureau of Statistics, National  Steering  Committee  on  Peace  Building  (NSCPB),  KICD,  Department  of Social Cohesion, Kenya National Commission for UNESCO (KNATCOM), UNESCO, UNICEF,  the  Association  of  the  Development  of  Education  in  Africa  (ADEA)  and World Vision Kenya.
+The Education Sector Policy on Peace Education is a product of extensive consultation and collaboration among individuals and institutions. The process of developing this policy began in 2010 when the Ministry constituted a technical team comprising officers from MoEST, the Teachers Service Commission (TSC), the Kenya Education Management Institute (KEMI), the Kenya Institute for Curriculum Development (KICD), Moi University, UNICEF and UNESCO staff. The team held two workshops to develop the initial framework and the first draft policy document. In August 2011, the framework was shared with senior managers from the Ministries of Education Science and Technology, Ministry of Youth and Sports and the Nairobi Peace Initiative (NPI) in Mombasa. Based on the their inputs, the first draft of the policy was developed in a retreat held in Nakuru attended by policy makers from MoEST and representatives from; the Ministry of Justice and National Cohesion, the Ministry of State for Internal Security, the University for Peace in Africa Programme, UNESCO and UNICEF. The draft policy was then subjected to stakeholders review in February 2012 at the Kenya Institute for Curriculum Development. In May 2013, a workshop to finalize the Policy was held in Nakuru. The workshop brought together stakeholders from the MoEST, Department of Youth Affairs and Sports, Department of Higher Education, Directorate of Adult and Continuing Education, Kenya Bureau of Statistics, National Steering Committee on Peace Building (NSCPB), KICD, Department of Social Cohesion, Kenya National Commission for UNESCO (KNATCOM), UNESCO, UNICEF, the Association of the Development of Education in Africa (ADEA) and World Vision Kenya.
 
 The Ministry of Education Science and Technology appreciates the contribution and commitment of  the  representatives  of  the  organisations  who  participated  in  all  the above activities. Special thanks go to the technical team that coordinated the policy development process. I wish also appreciate all stakeholders for their inputs during the national stakeholders forum. Special gratitude goes to UNICEF (Kenya Country Office) and UNESCO (KCO) for financial and technical support in the development of this policy.
 
@@ -66,11 +66,56 @@ Dr. Belio R. Kipsang PRINCIPAL SECRETARY
 
 ## TABLE OF CONTENTS
 
+FOREWORD 2
+ACKNOWLEDGMENTS 3
+ABBREVIATIONS 6
+DEFINITION OF TERMS 8
+
+SECTION 1: INTRODUCTION 9
+1.1 Background 9
+1.2 Rationale 10
+1.3 Linkages with existing legal and policy documents 11
+1.4 Scope 13
+1.5 Policy Goal 13
+1.6 Policy Objectives 14
+1.7 Outcomes of this Policy 14
+
+SECTION 2: GUIDING PRINCIPLES 15
+2.1 Proactive and preventive 15
+2.2 Appreciation for diversity 15
+2.3 Cohesion and integration 15
+2.4 Respect for human rights 15
+2.5 Environmental Sustainability 16
+2.6 Inclusiveness and Participation 16
+2.7 Integrity 16
+2.8 Coordination, partnerships and collaboration 16
+2.9 Conflict sensitivity 17
+
 4
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+
+SECTION 3: POLICY STATEMENTS AND STRATEGIES 19
+3.1 Integrate conflict sensitive approaches in education and training to foster a culture of peace 19
+3.2 Integrate Peace Education into the education and training curricula 19
+3.3 Emergency preparedness and response 20
+3.4 Institutional framework for peace education 21
+3.5 Coordination, Collaboration and Partnerships 21
+3.6 Information management and Communication 22
+
+SECTION 4: INSTITUTIONAL FRAMEWORK 23
+4.1 Institutional Framework 23
+4.2 Minimum Requirements for the implementation of the Education Sector Policy on Peace Education 25
+4.3 Knowledge generation through research 25
+4.4 Communication 26
+4.5 Monitoring and Evaluation 26
+4.6 Policy Review 26
+
+SECTION 5: ANNEXES 27
+Annex 1: List of other policy and legal documents this policy makes references to 27
+Annex 2: IMPLEMENTATION FRAMEWORK 28
 
 5
 
@@ -79,6 +124,31 @@ Dr. Belio R. Kipsang PRINCIPAL SECRETARY
 [[START OF PAGE 8]]
 
 ## ABRREVIATIONS
+
+ACE Adult and Continuing Education
+ADEA Association for the Development of Education in Africa
+BCCP Behaviour Change Communication Programme
+CDE County Director of Education
+CBOs Community Based Organizations
+CSOs Civil Society Organizations
+DBE Directorate of Basic Education
+DPs Development Partners
+DPP&EACA Directorate of Policy, Partnership and East African Community Affairs
+DQAS Directorate of Quality Assurance and Standards
+DS&TE Directorate of Secondary and Tertiary Education
+ECDE Early Childhood Development Education
+EFA Education for All
+ESD Education for Sustainable Development
+FBOs Faith Based Organizations
+ICQN Inter-Country Quality Node
+IEC Information Education Communication
+INSET In-Servicing of Teachers
+KESSP Kenya Education Sector Support Program
+KICD Kenya Institute of Curriculum Development
+MDGs Millennium Development Goals
+MoEST Ministry of Education Science and Technology
+NDOC National Disaster Operation Centre
+NGOs Non-Governmental Organizations
 
 6
 
@@ -171,9 +241,9 @@ Education  and  training  alone  may  not  offer  immediate  remedies  to  the  
 
 In its role as the lever for peace and development, education and training should be seen as a comprehensive framework resting on four pillars: learning to know, learning to do, learning to be and learning to live together . Education and training should also be accessible to all, be of high quality and facilitate the achievement of a just, peaceful and sustainable future.
 
-The  Government  of  Kenya  acknowledges  the  role  of  peace  in  enhancing  socioeconomic development. The national anthem lays emphasis on peaceful coexistence as a prerequisite for nation building while the national goals of education strive to promote sustainable development, peace, social justice and responsibility, respect for diversity, international consciousness, national unity and moral and religious values. The Kenya Vision 2030, which is the blue print for social, economic and political development underscores the need to diffuse a culture of peace and respect for the sanctity of human life through social institutions, in particular through education and training.
+The Government of Kenya acknowledges the role of peace in enhancing socio-economic development. The national anthem lays emphasis on peaceful coexistence as a prerequisite for nation building while the national goals of education strive to promote sustainable development, peace, social justice and responsibility, respect for diversity, international consciousness, national unity and moral and religious values. The Kenya Vision 2030, which is the blue print for social, economic and political development underscores the need to diffuse a culture of peace and respect for the sanctity of human life through social institutions, in particular through education and training.
 
-> 1 Collier et al 2003: Breaking the Conflict Trap. Washington DC: World Bank in Conflictsensitive education policy- A Preliminary Review Education Above All (2012)
+> 1 Collier et al 2003: Breaking the Conflict Trap. Washington DC: World Bank in Conflict-sensitive education policy- A Preliminary Review Education Above All (2012)
 
 9
 
@@ -189,7 +259,7 @@ The  Peace  education  was  introduced  to  strengthen  peace  initiatives  impl
 
 ### 1.2 Rationale
 
-Kenya is a signatory to international treaties and conventions that advocate peaceful and harmonious co-existence among people of all nations. The Universal Declaration of Human Rights (1948) Article 26(2) states that education should promote understanding, tolerance and friendship among all nations. This policy contributes to the actualization of the commitments in Kenya.
+Kenya is a signatory to international treaties and conventions that advocate peaceful and harmonious co-existence among people of all nations. The Universal Declaration of
 
 > 2 Kenya National Literacy Survey Report (2007)
 
@@ -199,7 +269,9 @@ Kenya is a signatory to international treaties and conventions that advocate pea
 
 [[START OF PAGE 13]]
 
-African Ministers of Education have committed their Governments to the promotion of  peace  building through education and training. This is reflected in the Mombasa and Naivasha communiqués signed in 2008 and 2012 respectively. The communiques were outcomes of two international meetings on Peace Education held in Kenya under the auspices of the ADEA 3 Inter- Country Quality Node (ICQN) on Peace Education. This policy reflects the spirit of these Communiqués and provides a framework for the implementation of these commitments and recommendations in Kenya.
+Human Rights (1948) Article 26(2) states that education should promote understanding, tolerance and friendship among all nations. This policy contributes to the actualization of the commitments in Kenya.
+
+African Ministers of Education have committed their Governments to the promotion of peace building through education and training. This is reflected in the Mombasa and Naivasha communiqués signed in 2008 and 2012 respectively. The communiques were outcomes of two international meetings on Peace Education held in Kenya under the auspices of the ADEA 3 Inter- Country Quality Node (ICQN) on Peace Education. This policy reflects the spirit of these Communiqués and provides a framework for the implementation of these commitments and recommendations in Kenya.
 
 The implementation of the Peace Education Programme involves various actors. This necessitates  proper  coordination,  collaboration  and  partnership  mechanisms  that minimize overlaps and promote targeted resourcing as well as creating synergy in the implementation. The policy provides a framework for effective coordination of various players involved in peace building through the education and training sector.
 
@@ -341,13 +413,15 @@ The national values and principles of governance as stipulated in the Constituti
 
 ### 2.4 Respect for human rights
 
-In recognition of both values and principles of human rights and fundamental freedoms as enshrined in the Bill of Rights in the Constitution of Kenya 2010, the education and training sector shall foster respect for human dignity, sanctity of human life and care for one another. Education and training systems and settings should be organized in a way that not only provides knowledge about human rights and the mechanisms to protect them, but also  creates  a  human  rights  friendly  environment  that  nurtures  the  skills needed to promote, defend and apply human rights in daily life so that the citizenry can achieve its full potential.
+In recognition of both values and principles of human rights and fundamental freedoms as enshrined in the Bill of Rights in the Constitution of Kenya 2010, the education and
 
 15
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
+
+training sector shall foster respect for human dignity, sanctity of human life and care for one another. Education and training systems and settings should be organized in a way that not only provides knowledge about human rights and the mechanisms to protect them, but also creates a human rights friendly environment that nurtures the skills needed to promote, defend and apply human rights in daily life so that the citizenry can achieve its full potential.
 
 ### 2.5 Environmental Sustainability
 
@@ -363,13 +437,15 @@ One of the national goals of education in Kenya is to promote sound moral and re
 
 ### 2.8 Coordination, partnerships and collaboration
 
-The education and training sector recognizes the significant role played by other actors in  peace  building.  MoEST  will  coordinate,  and  seek  to  forge  new  partnerships  and collaboration with, the various actors in peace building through education and training. This will create synergies and minimize duplication in the implementation of the Peace Education Programme.
+The education and training sector recognizes the significant role played by other actors in peace building. MoEST will coordinate, and seek to forge new partnerships and
 
 16
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
+
+collaboration with, the various actors in peace building through education and training. This will create synergies and minimize duplication in the implementation of the Peace Education Programme.
 
 ### 2.9 Conflict sensitivity
 
@@ -556,53 +632,23 @@ Peace education initiatives in the education sector shall be implemented through
 
 Cabinet Secretary
 
-Director General of
-
-Education
-
-Directorate of
-
-Policy, Partnership
-
-& EACA
-
-Sub-county
-
-Education Officer
-
-School Managers,
-
-Teachers, Parents
-
-and Learners
-
-DPs, CBOs, NGOs,
-
-CSOs and FBOs
-
-Other Government
-
-Ministries and
-
-autonomous
-
-agencies and SAGAS
-
 Principal Secretary
 
-National Steering
+DPs, CBOs, NGOs, CSOs and FBOs
 
-Committee on peace
+Other Government Ministries and autonomous agencies and SAGAS
 
-education
+Director General of Education
 
-Peace Education
+Directorate of Policy, Partnership & EACA
 
-coordination
+National Steering Committee on peace education
 
-committee at the
+Peace Education coordination committee at the county
 
-county
+Sub-county Education Officer
+
+School Managers, Teachers, Parents and Learners
 
 23
 
@@ -736,55 +782,55 @@ This policy will be reviewed from time to time to ensure that it remains relevan
 
 ### Annex 1: List of other policy and legal documents this policy makes references to
 
-- Gender Policy in Education (July 2007)
+a) Gender Policy in Education (July 2007)
 
-- National Cohesion and Integration Act (2008)
+b) National Cohesion and Integration Act (2008)
 
-- Persons with Disability Act (2003)
+c) Persons with Disability Act (2003)
 
-- Teachers Service Commission Act 2012
+d) Teachers Service Commission Act 2012
 
-- TSC Code of Regulations for Teachers (Revised 2005)
+e) TSC Code of Regulations for Teachers (Revised 2005)
 
-- Truth, Justice and Reconciliation Commission Act (2008)
+f) Truth, Justice and Reconciliation Commission Act (2008)
 
-- National Youth Policy;
+g) National Youth Policy;
 
-- Basic Education Act 2013;
+h) Basic Education Act 2013;
 
-- Strategic Plan on Arms Control and Management;
+i) Strategic Plan on Arms Control and Management;
 
-- National Food Security and Nutrition Policy;
+j) National Food Security and Nutrition Policy;
 
-- National Gender and Development Policy;
+k) National Gender and Development Policy;
 
-- African Union on Post-Conflict Reconstruction and development;
+l) African Union on Post-Conflict Reconstruction and development;
 
-- IGAD-CEWARN Protocol;
+m) IGAD-CEWARN Protocol;
 
-- East Africa Community Regional Peace and Security Strategy;
+n) East Africa Community Regional Peace and Security Strategy;
 
-- Policy on National Cohesion and Integration 2011;
+o) Policy on National Cohesion and Integration 2011;
 
-- National Policy on Peace building and Conflict Management 2013;
+p) National Policy on Peace building and Conflict Management 2013;
 
-- Policy on National Values and Principles of Governance
+q) Policy on National Values and Principles of Governance
 
-- University Education Act 2013
+r) University Education Act 2013
 
-- Technical, Vocational, education and Training Act
+s) Technical, Vocational, education and Training Act
 
-- Basic Education Act 2013
+t) Basic Education Act 2013
 
-- Kenya Institute of Curriculum Development Act 2013
+u) Kenya Institute of Curriculum Development Act 2013
 
-- Kenya National Commission for UNESCO Act 2013
+v) Kenya National Commission for UNESCO Act 2013
 
-- National Cohesion and Integration Act 2008
+w) National Cohesion and Integration Act 2008
 
-- Kenya National Examination Council Act 2012
+x) Kenya National Examination Council Act 2012
 
-- Truth, Justice and Reconciliation Act 2008
+y) Truth, Justice and Reconciliation Act 2008
 
 27
 
@@ -798,18 +844,17 @@ This policy will be reviewed from time to time to ensure that it remains relevan
 
 [[START OF PAGE 31]]
 
-### ANNEX 2:  IMPLEMENTATION FRAMEWORK
+### ANNEX 2: IMPLEMENTATION FRAMEWORK
 
-Sources Funds Risks / Assumptions MoEST • Political goodwill from management • Financial Support from Stakeholders and partners • Timely permissions and access to information granted | • Audit report will be in place on time • Cooperation from Stakeholders • Availability of | funds • Findings will accepted and incorporated • Funds will available
---- | --- | ---
-lines of | MoEST& Partners
-assessment Source Responsibility MoEST headquarters | MoEST headquarters | MoEST
-of peace conflict analysis and Data Education Sector, Stakeholders, Benchmarking with other countries, Communities, Surveys reports and formats | No. of recipients of report | Policies and Sector Plans, Conflict Analysis Report
-to foster a culture on a comprehensive Indicator 5 Report developed and validated by year 3 | Report disseminated to 70% of the target group by the 2 nd year | Number of recommendations incorporated
-in education and training plans and programmes Timeline (Year) 1 2 3 4
-sensitive approaches training policy priorities, Target Group/ Category Education and training sector, national security agencies, NSCPBCM, Ministry of Interior and Coordination of National Government, National museums of Kenya, other stakeholders involved in peace building) | Education Sector, Stakeholders, | MoEST policy makers, TSC, Development Partners, County and Sub County education officials,
-Integration of conflict education and Expected Output Conflict factors assessed , analyzed , and documented and finding used to inform next phase of Education Sector planning | Dissemination reports | Findings integrated into policies and sector plan
-Policy Statement: Strategy 1: Situate Activity 1.1 Conduct a comprehensive conflict analysis and assessment of the education sector (develop Concept Note, form Technical Team, develop methodological framework, carry out assessment, finalize and validate report) | 1.2. Document and disseminate findings. | 1.3 Integrate findings from the conflict analysis into the education sector policy and plans
+### Policy Statement: Integration of conflict sensitive approaches in education and training to foster a culture of peace
+
+##### Strategy 1: Situate education and training policy priorities, plans and programmes on a comprehensive conflict analysis and assessment
+
+Activity | Expected Output | Target Group/ Category | Timeline (Year) 1 2 3 4 5 | Indicator | Data Source | Responsibility | Cost lines | Sources of Funds | Risks / Assumptions
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+1.1 Conduct a comprehensive conflict analysis and assessment of the education sector (develop Concept Note, form Technical Team, develop methodological framework, carry out assessment, finalize and validate report) | Conflict factors assessed, analyzed, and documented and finding used to inform next phase of Education Sector planning | Education and training sector, national security agencies, NSCPBCM, Ministry of Interior and Coordination of National Government, National museums of Kenya, other stakeholders involved in peace building) | | Report developed and validated by year 3 | Education Sector, Stakeholders, Benchmarking with other countries, Communities, Surveys reports and formats | MoEST headquarters | | MoEST | • Political goodwill from management • Financial Support from Stakeholders and partners • Timely permissions and access to information granted
+1.2. Document and disseminate findings. | Dissemination reports | Education Sector, Stakeholders, | | Report disseminated to 70% of the target group by the 2nd year | No. of recipients of report | MoEST headquarters | | | • Audit report will be in place on time • Cooperation from Stakeholders • Availability of funds
+1.3 Integrate findings from the conflict analysis into the education sector policy and plans | Findings integrated into policies and sector plan | MoEST policy makers, TSC, Development Partners, County and Sub County education officials, | | Number of recommendations incorporated | Policies and Sector Plans, Conflict Analysis Report | MoEST | | MoEST& Partners | • Findings will accepted and incorporated • Funds will available
 
 29
 
@@ -817,14 +862,18 @@ Policy Statement: Strategy 1: Situate Activity 1.1 Conduct a comprehensive confl
 
 [[START OF PAGE 32]]
 
-Education in the education and training curricula pre-primary, primary, secondary, TVET, higher education and adult education curricula, as well as in the teacher training curriculum. Target Group/ Category Timeline (Year) Indicator Data Source Responsibility Cost lines Sources of Funds Risks / Assumptions 1 2 3 4 5 Risk : Funding gaps Assumption : Sustained partnership. | Risk : Funding gaps Assumption : Sustained partnership. | Risk : Funding gap Assumption : Ownership by the teachers/lecturers/ tutors/instructors; materials ready | Risk: Process may be derailed by major reforms in the education sector currently underway. Assumption: KICD approval of curriculum development.
---- | --- | --- | ---
-KICD, MoEST through Education Quality Assurance and Standards Commission, Director Policy and Partnership; Peace Education Technical Team including, Universities, Tertiary | Director Policy and Partnership; Peace Education Technical Team including KICD | KICD, MoEST, Quality Assurance and Standards Officers; Technical Team; Heads of Learning Institutions; Teachers | KICD, Director Policy and Partnership, Peace Education Technical Team, KEMI, other ministries/ government department, Universities and Partners
-Ministry approval memos; Minutes of Technical Team; workshop reports; participant lists. | Ministry approval memos; Minutes of Technical Team; workshop reports; participant list. | Workshop reports, participant list, records of work covered, learners written work | Curriculum development Panel including minutes and reports; KICD Curriculum and Research service; Minutes of the Technical Committee
-Working teams; workshop; draft instructional guidelines; | Draft PED Activity books by year1; validated PED Activity Book by year 3 ; workshops; | Scheme of work, lessons plans, learners written work, sensitization workshops | Curriculum development Panel; draft curriculum with Peace Education unit incorporate; Meeting of Technical Committee
-ECD, Primary, Secondary, ACE, Tertiary | ECD, ACE, Tertiary and Universities | ECD, Primary, Secondary, ACE, Tertiary and Universities | Teachers at all levels of education.
-Integrate Peace peace education in Expected Output Instructional materials for teaching Peace Education developed. | Peace Education Activity Books. Supplementary materials for learners. | Peace Education content in scheme of work, lesson plans, learners written work, teaching-learning aids | Peace Education unit added to the teacher training curriculum.
-Policy Statement: Strategy 1: Integrate Activity 1.1 Review and harmonize the existing content on peace education | 1.2 Develop content for PED | 1.3 Integrate and infuse Peace Education in all teaching subjects or where applicable. | 1.4 Incorporate peace education in teacher training curriculum.
+Mainstream Peace Education into the Curriculum
+
+### Policy Statement: Integrate Peace Education in the education and training curricula
+
+##### Strategy 1: Integrate peace education in pre-primary, primary, secondary, TVET, higher education and adult education curricula, as well as in the teacher training curriculum.
+
+Activity | Expected Output | Target Group/ Category | Timeline (Year) 1 2 3 4 5 | Indicator | Data Source | Responsibility | Cost lines | Sources of Funds | Risks / Assumptions
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+1.1 Review and harmonize the existing content on peace education | Instructional materials for teaching Peace Education developed. | ECD, Primary, Secondary, ACE, Tertiary | | Working teams; workshop; draft instructional guidelines; | Ministry approval memos; Minutes of Technical Team; workshop reports; participant lists. | KICD, MoEST through Education Quality Assurance and Standards Commission, Director Policy and Partnership; Peace Education Technical Team including, Universities, Tertiary | | | Risk: Funding gaps Assumption: Sustained partnership.
+1.2 Develop content for PED | Peace Education Activity Books. Supplementary materials for learners. | ECD, ACE, Tertiary and Universities | | Draft PED Activity books by year1; validated PED Activity Book by year 3; workshops; | Ministry approval memos; Minutes of Technical Team; workshop reports; participant list. | Director Policy and Partnership; Peace Education Technical Team including KICD | | | Risk: Funding gaps Assumption: Sustained partnership.
+1.3 Integrate and infuse Peace Education in all teaching subjects or where applicable. | Peace Education content in scheme of work, lesson plans, learners written work, teaching-learning aids | ECD, Primary, Secondary, ACE, Tertiary and Universities | | Scheme of work, lessons plans, learners written work, sensitization workshops | Workshop reports, participant list, records of work covered, learners written work | KICD, MoEST, Quality Assurance and Standards Officers; Technical Team; Heads of Learning Institutions; Teachers | | | Risk: Funding gap Assumption: Ownership by the teachers/lecturers/tutors/instructors; materials ready
+1.4 Incorporate peace education in teacher training curriculum. | Peace Education unit added to the teacher training curriculum. | Teachers at all levels of education. | | Curriculum development Panel; draft curriculum with Peace Education unit incorporate; Meeting of Technical Committee | Curriculum development Panel including minutes and reports; KICD Curriculum and Research service; Minutes of the Technical Committee | KICD, Director Policy and Partnership, Peace Education Technical Team, KEMI, other ministries/government department, Universities and Partners | | | Risk: Process may be derailed by major reforms in the education sector currently underway. Assumption: KICD approval of curriculum development.
 
 30
 
@@ -832,17 +881,14 @@ Policy Statement: Strategy 1: Integrate Activity 1.1 Review and harmonize the ex
 
 [[START OF PAGE 33]]
 
-Risk : Funding gap Assumption : Own- ership by concerned stakeholders | Risks / Assumptions | Risks : Funding gaps; Transfer of Heads of Learning Institutions; Insecurity Assumptions : Support from stakeholders; | Risks : Funding gaps Assumptions : Timely development of training manuals/ guidelines; ownership by trainees
---- | --- | --- | ---
-Sources of Funds
-Cost lines
-KICD, MoEST through Director Quality Assurance and Standards, Heads of Learning Institutions; Teach- ers; Learners | Responsibility | Quality Assurance and Standards Officers; Heads of Learning Institutions; | Quality Assurance and Standards Officers; Technical Team.
-Tournaments, Drama, and Music festival programmes; Register of Peace Club and Societies Mem- bers; designed peace materials. | Data Source | Participants list; workshop programmes and reports; newsletter | Participants list; training programme and reports.
-Peace education themes inte- grated into the guidelines on co-curricular activities Number of co-curricular items with a theme on peace in drama and music festivals Musical pieces; plays, No. of peace tourna- ment; No. of Peace Clubs; peace publicity materials | Indicator | Participants list; workshop programmes; advocacy; newsletters to parents; number of stakeholders sensitized | Training manuals and programmes; participants list; certificates of participation; concept notes; percentage of teachers trained.
-Education Timeline (Year) 1 2 | 3 4 5
-ECD, Primary, Secondary, Adult, Tertiary and Univer- sities | learning of Peace Target Group/ | Category Parents; CBOs; Teachers Unions; FBOs; NGOs; sponsors | Teachers, Instructors, Lecturers
-Peace themes in drama, music festivals; peace tournaments; con- stitution of peace clubs in learning institutions. | the teaching and Expected Output | Sensitized stakeholders on peace Education | Trained teachers/ instructors/ lecturers on Peace Education
-1.5 Integrate peace education in co-curricular activities such as drama, art, music, games, sports and clubs and societies. | Strategy 2: Strengthen Activity | 2.1. Sensitize all stakeholders through advocacy, information sharing, and capacity building workshops and | training. 2.2 Conduct in service training for practicing teachers on Peace Education.
+1.5 Integrate peace education in co-curricular activities such as drama, art, music, games, sports and clubs and societies. | Peace themes in drama, music festivals; peace tournaments; constitution of peace clubs in learning institutions. | ECD, Primary, Secondary, Adult, Tertiary and Universities | | Peace education themes integrated into the guidelines on co-curricular activities; Number of co-curricular items with a theme on peace in drama and music festivals; Musical pieces; plays, No. of peace tournament; No. of Peace Clubs; peace publicity materials | Tournaments, Drama, and Music festival programmes; Register of Peace Club and Societies Members; designed peace materials. | KICD, MoEST through Director Quality Assurance and Standards, Heads of Learning Institutions; Teachers; Learners | | | Risk: Funding gap Assumption: Ownership by concerned stakeholders
+
+##### Strategy 2: Strengthen the teaching and learning of Peace Education
+
+Activity | Expected Output | Target Group/ Category | Timeline (Year) 1 2 3 4 5 | Indicator | Data Source | Responsibility | Cost lines | Sources of Funds | Risks / Assumptions
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+2.1. Sensitize all stakeholders through advocacy, information sharing, and capacity building workshops and training. | Sensitized stakeholders on peace Education | Parents; CBOs; Teachers Unions; FBOs; NGOs; sponsors | | Participants list; workshop programmes; advocacy; newsletters to parents; number of stakeholders sensitized | Participants list; workshop programmes and reports; newsletter | Quality Assurance and Standards Officers; Heads of Learning Institutions; | | | Risks: Funding gaps; Transfer of Heads of Learning Institutions; Insecurity Assumptions: Support from stakeholders;
+2.2 Conduct in service training for practicing teachers on Peace Education. | Trained teachers/instructors/lecturers on Peace Education | Teachers, Instructors, Lecturers | | Training manuals and programmes; participants list; certificates of participation; concept notes; percentage of teachers trained. | Participants list; training programme and reports. | Quality Assurance and Standards Officers; Technical Team. | | | Risks: Funding gaps Assumptions: Timely development of training manuals/guidelines; ownership by trainees
 
 31
 
@@ -850,16 +896,20 @@ Peace themes in drama, music festivals; peace tournaments; con- stitution of pea
 
 [[START OF PAGE 34]]
 
-Risks / Assumptions | • Guidelines will cover diverse interests • Availability of resources • Political goodwill | • Willingness of development partners to contribute supplies • Availability of resources • Political goodwill | Risks / Assumptions | • Willingness of development partners to contribute supplies • Availability of resources • Political goodwill
---- | --- | --- | --- | ---
-Sources of Funds | Sources of Funds
-Cost lines | Cost lines
-Responsibility | Education cluster PE-Technical Team Principal Secretary Cabinet Secretary | Education cluster PE-Technical Team Principal Secretary Cabinet Secretary | Responsibility | • Education Clusters • PE-Technical Committee
-Data Source | Department of special programs, Kenya Red Cross, UNHCR, UNICEF, Arid and Semi lands And other partners | Department of special programs, Kenya Red Cross, UNHCR, UNICEF, Arid and Semi lands and other partners | Data Source | Kenya Red Cross, UNHCR, UNICEF, and other partners
-sector Indicator | Guidelines on emergency preparedness reviewed | Categories of supplies/ consignments | emergency response plan Indicator | A hand book for emergency response coordination
-plans for the education and training Target Group/ Category Timeline (Year) 1 2 3 4 5 | All Education Stakeholders Institutional Managers | All Education Stakeholders | coordinated education and training sector Output Target Group/ Category Timeline (Year) 1 2 3 4 5 | Institutional Stakeholder and development partners
-place emergency preparedness Expected Output | Pre-conflict, conflict and post conflict emergency preparedness guidelines reviewed | Emergency supplies availed in warehouses | a timely and Expected | Response teams Coordinated
-Strategy 1: Put in Activity | 1.1 Review guidelines on emergency preparedness (Formation of technical team; preparing the draft; review, finalization and validation) | 1.2 Preposition suppliesin times of crisis and emergency (Develop indicators, identify monitors, report and disseminate information to the intended users.) | Strategy 2: Develop Activity | 2.1. Strengthen coordination framework for actors in emergency response. TASKS Identify actors, develop coordination/ communication strategy.
+### Policy Statement: Education and training sector emergency preparedness and response initiatives
+
+##### Strategy 1: Put in place emergency preparedness plans for the education and training sector
+
+Activity | Expected Output | Target Group/ Category | Timeline (Year) 1 2 3 4 5 | Indicator | Data Source | Responsibility | Cost lines | Sources of Funds | Risks / Assumptions
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+1.1 Review guidelines on emergency preparedness (Formation of technical team; preparing the draft; review, finalization and validation) | Pre-conflict, conflict and post conflict emergency preparedness guidelines reviewed | All Education Stakeholders Institutional Managers | | Guidelines on emergency preparedness reviewed | Department of special programs, Kenya Red Cross, UNHCR, UNICEF, Arid and Semi lands And other partners | Education cluster PE-Technical Team Principal Secretary Cabinet Secretary | | | • Guidelines will cover diverse interests • Availability of resources • Political goodwill
+1.2 Preposition suppliesin times of crisis and emergency (Develop indicators, identify monitors, report and disseminate information to the intended users.) | Emergency supplies availed in warehouses | All Education Stakeholders | | Categories of supplies/consignments | Department of special programs, Kenya Red Cross, UNHCR, UNICEF, Arid and Semi lands and other partners | Education cluster PE-Technical Team Principal Secretary Cabinet Secretary | | | • Willingness of development partners to contribute supplies • Availability of resources • Political goodwill
+
+##### Strategy 2: Develop a timely and coordinated education and training sector emergency response plan
+
+Activity | Expected Output | Target Group/ Category | Timeline (Year) 1 2 3 4 5 | Indicator | Data Source | Responsibility | Cost lines | Sources of Funds | Risks / Assumptions
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+2.1. Strengthen coordination framework for actors in emergency response. TASKS Identify actors, develop coordination/communication strategy. | Response teams Coordinated | Institutional Stakeholder and development partners | | A hand book for emergency response coordination | Kenya Red Cross, UNHCR, UNICEF, and other partners | • Education Clusters • PE-Technical Committee | | | • Willingness of development partners to contribute supplies • Availability of resources • Political goodwill
 
 32
 
@@ -867,17 +917,22 @@ Strategy 1: Put in Activity | 1.1 Review guidelines on emergency preparedness (F
 
 [[START OF PAGE 35]]
 
-Risks / Assumptions | • Resources available • Goodwill from all stakeholders | Cooperation from existing peer counselors and education managers | Risks / Assumptions | Availability of funds
---- | --- | --- | --- | ---
-Sources of Funds | Sources of Funds | MoEST and Partners
-Cost lines | Cost lines | l
-Responsibility | • CDE, TSC County Director • Adult opinion leaders and out of school stakeholders • PE Steering Committee, CDE and TSC CDE | Technical committee/ steering committee, Institution managers, Education Managers e.g. CDE (Education and TSC) | Responsibility | MoEST HQs CDEs
-Data Source | Red Cross, UNHCR, NDOC, UNICEF, Socio Programs, Care Kenya | Training schedules | Data Source | Reports
-and training sector Indicator | • Training manual developed • Numbers of workshops and seminars organized/ conducted | Percentage of peer educators' groups trained | Indicator | county levels. Groups Trained
-support systems for the education Timeline (Year) | for peace education Timeline (Year) 1 2 3 4 5 | and the national and
-psychosocial care and Target Group/ Category | All Education Stakeholders and learners | Learners, peer counselors and educators Student leaders | institutional framework Target Group/ Category | Coordination Structures County Peace education Focal Persons Teachers CDEs
-effective Expected Output | • Training modules developed • Capacity building workshops and seminars conducted | Material on peace education developed and distributed FRAMEWORK | Developsound Expected Output | Peace Education County Focal Persons and Teachers trained on coordinating peace at their level
-Strategy 3: Establish Activity | 3.2 Build capacity of teachers, learners, education officials and other education stakeholders on psychosocial response and care. (Develop training modules, organize workshops and | seminars) 3.3 Strengthen peer support programmes in learning institutions. (Train peer educators, provide materials on PE) INSTITUTIONAL | Policy Statement: Activity | Strategy 1: Establish 1.1 Build the capacity of Peace education County Focal Persons and Teachers to coordinate Peace Education at the County and school levels respectively
+##### Strategy 3: Establish effective psychosocial care and support systems for the education and training sector
+
+Activity | Expected Output | Target Group/ Category | Timeline (Year) | Indicator | Data Source | Responsibility | Cost lines | Sources of Funds | Risks / Assumptions
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+3.2 Build capacity of teachers, learners, education officials and other education stakeholders on psychosocial response and care. (Develop training modules, organize workshops and seminars) | • Training modules developed • Capacity building workshops and seminars conducted | All Education Stakeholders and learners | | • Training manual developed • Numbers of workshops and seminars organized/conducted | Red Cross, UNHCR, NDOC, UNICEF, Socio Programs, Care Kenya | • CDE, TSC County Director • Adult opinion leaders and out of school stakeholders • PE Steering Committee, CDE and TSC CDE | | | • Resources available • Goodwill from all stakeholders
+3.3 Strengthen peer support programmes in learning institutions. (Train peer educators, provide materials on PE) | Material on peace education developed and distributed | Learners, peer counselors and educators Student leaders | | Percentage of peer educators’ groups trained | Training schedules | Technical committee/steering committee, Institution managers, Education Managers e.g. CDE (Education and TSC) | | | Cooperation from existing peer counselors and education managers
+
+## INSTITUTIONAL FRAMEWORK
+
+### Policy Statement: Developsound institutional framework for peace education
+
+##### Strategy 1: Establish Peace Education Coordination Structures and the national and county levels.
+
+Activity | Expected Output | Target Group/ Category | Timeline (Year) 1 2 3 4 5 | Indicator | Data Source | Responsibility | Cost lines | Sources of Funds | Risks / Assumptions
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+1.1 Build the capacity of Peace education County Focal Persons and Teachers to coordinate Peace Education at the County and school levels respectively | County Focal Persons and Teachers trained on coordinating peace at their level | County Peace education Focal Persons Teachers CDEs | | Groups Trained | Reports | MoEST HQs CDEs | | MoEST and Partners | Availability of funds
 
 33
 
@@ -885,16 +940,17 @@ Strategy 3: Establish Activity | 3.2 Build capacity of teachers, learners, educa
 
 [[START OF PAGE 36]]
 
-Risks / Assumptions • Availability of data on the partners • Cooperation of players • Availability of funds | • Political will • Resources shall be available • Ease in cooperation by partners and all players | • Availability of personnel to be trained • Funding and other resources shall be available
---- | --- | ---
-Sources of Funds MoEST | MoEST, Partners | MoEST, Partners
-Cost lines Meeting and Printing costs Subsistence Transport Telecosts | Printing Meeting Travels/ Accomm | Transport Subsistence Venue Accommodation Training Materials Facilitation
-Responsibility MoEST, Technical Committee on Peace Education, County focal persons | MoEST, National, County and lower level technical committees on Peace Education | MoEST HQs, Partners
-Data Source MoEST, Directorate of Policy and Partnerships | MoEST, Directorate of Policy and Partnerships | MoEST, Directorate of Policy and Partnerships
-Indicator Comprehensive list of stakeholders available by • Type of work • Size • Region • Affiliation | • A list of partners and their roles • A revised structure, TOR and guidelines for the different players • Effective coordination | Training materials List trained personnel Better coordination
-Target Group/ Category Timeline (Year) 1 2 3 4 All stakeholders working on peace education | MoEST, other line Ministries and gov't agencies, other partners | PEOs from MoEST, MoP, MoYA, TSC at county and HQs
-Expected Output A comprehensive database of all peace building stakeholders | Clearly defined roles of players in the programme | Personnel coordinating peace education trained
-Activity 1.1 Conduct a mapping of stakeholders promoting peace through education | 1.2 Review the roles of different partners/players in peace education | 1.3 Strengthen the capacity of the ministry to effectively coordinate peace activities in the sector (to cover capacity to effectively coordinate in light of the new structures)
+### Policy Statement: Effective coordination and strong collaboration and partnerships
+
+##### Strategy 1: Strengthen the existing structure to make it more functional in coordinating peace education and partnership building
+
+Activity | Expected Output | Target Group/ Category | Timeline (Year) 1 2 3 4 5 | Indicator | Data Source | Responsibility | Cost lines | Sources of Funds | Risks / Assumptions
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+1.1 Conduct a mapping of stakeholders promoting peace through education | A comprehensive database of all peace building stakeholders | All stakeholders working on peace education | | Comprehensive list of stakeholders available by • Type of work • Size • Region • Affiliation | MoEST, Directorate of Policy and Partnerships | MoEST, Technical Committee on Peace Education, County focal persons | Meeting and Printing costs Subsistence Transport Telecosts | MoEST | • Availability of data on the partners • Cooperation of players • Availability of funds
+1.2 Review the roles of different partners/players in peace education | Clearly defined roles of players in the programme | MoEST, other line Ministries and gov’t agencies, other partners | | • A list of partners and their roles • A revised structure, TOR and guidelines for the different players • Effective coordination | MoEST, Directorate of Policy and Partnerships | MoEST, National, County and lower level technical committees on Peace Education | Printing Meeting Travels/ Accomm | MoEST, Partners | • Political will • Resources shall be available • Ease in cooperation by partners and all players
+1.3 Strengthen the capacity of the ministry to effectively coordinate peace activities in the sector (to cover capacity to effectively coordinate in light of the new structures) | Personnel coordinating peace education trained | PEOs from MoEST, MoP, MoYA, TSC at county and HQs | | Training materials List trained personnel Better coordination | MoEST, Directorate of Policy and Partnerships | MoEST HQs, Partners | Transport Subsistence Venue Accommodation Training Materials Facilitation | MoEST, Partners | • Availability of personnel to be trained • Funding and other resources shall be available
+
+##### Strategy 2: Establish and enhance networks within Government and other stakeholders undertaking peace building initiatives through education and training.
 
 34
 
@@ -902,16 +958,16 @@ Activity 1.1 Conduct a mapping of stakeholders promoting peace through education
 
 [[START OF PAGE 37]]
 
-• Political will • Full cooperation from players throughout the process • Availability of funds | • Political will • Capacity to develop funding proposals exists | • Political will • Adequacy of resources • Availability of capacity to organize the peace days | • Political will • Community willingness and cooperation • Availability of data for baseline on conflicts/ violence
---- | --- | --- | ---
-MoEST, Partners | MoEST, Partners | MoEST, Partners | MoEST, Partners
-Transport Subsistence Venue Accommodation Training Materials Facilitation | Proposal development costs | Posters Printing Refreshments Allowances | Meeting and Telecosts
-MoEST Peace Education Officers, Partners | MoEST Peace Education Officers, Partners | MoEST HQs, County Directors (TSC,MoEST), Local Peace Committees, ACE Instructors, teachers | County Directors, Sub County Education officials, County and Local Peace Committees, ACE Instructors and MDTIs
-MoEST, partners | MoEST Programme budget and review reports Partner budget reports | MoEST, CDE, UN Agencies | CDE, FBOs/ Provincial Admin
-Annual Reports/ Reviews List of activities and tasks Operational work plans | Programme % Government allocation to peace education activities Proportion of activities implemented from external funding | initiatives Peace days included in MoEST calendar, Peace Concert, Peace Posters. | Meeting attendance Meeting reports/ resolutions Reduced incidences of conflict/violence in learning institutions
-All state and non-state actors | to support the MoEST, partners | communities in CDE (TSC,MoEST), Youth, learners, parents, surrounding community | FBOs, CBOs, Community leaders (elders), Youth and women leaders, ACE
-Peace education joint work plan developed | resource mobilization Peace Education Programme implemented with resources from Government and other sources | counties and the local County/Sub county Peace Days/functions/ open days | Community peace meetings/ barazas Establish a peace education section ii the museum of Kenya
-2.1 Hold stakeholder forums to facilitate networking | Strategy 3: Facilitate 3.1 Develop resource mobilization mechanisms based on the activities framework | Strategy 4: Involve 4.1 Integrate peace in all education days in learning institutions as well as public forums | 4.2 Advocate for peace building among communities through education hard to reach areas by engaging communities through peace education forums
+2.1 Hold stakeholder forums to facilitate networking | Peace education joint work plan developed | All state and non-state actors | | Annual Reports/Reviews List of activities and tasks Operational work plans | MoEST, partners | MoEST Peace Education Officers, Partners | Transport Subsistence Venue Accommodation Training Materials Facilitation | MoEST, Partners | • Political will • Full cooperation from players throughout the process • Availability of funds
+
+##### Strategy 3: Facilitate resource mobilization to support the Peace Education Programme
+
+3.1 Develop resource mobilization mechanisms based on the activities framework | Peace Education Programme implemented with resources from Government and other sources | MoEST, partners | | % Government allocation to peace education activities Proportion of activities implemented from external funding | MoEST Programme budget and review reports Partner budget reports | MoEST Peace Education Officers, Partners | Proposal development costs | MoEST, Partners | • Political will • Capacity to develop funding proposals exists
+
+##### Strategy 4: Involve counties and the local communities in peace education initiatives
+
+4.1 Integrate peace in all education days in learning institutions as well as public forums | County/Sub county Peace Days/functions/open days | CDE (TSC,MoEST), Youth, learners, parents, surrounding community | | Peace days included in MoEST calendar, Peace Concert, Peace Posters. | MoEST, CDE, UN Agencies | MoEST HQs, County Directors (TSC,MoEST), Local Peace Committees, ACE Instructors, teachers | Posters Printing Refreshments Allowances | MoEST, Partners | • Political will • Adequacy of resources • Availability of capacity to organize the peace days
+4.2 Advocate for peace building among communities through education hard to reach areas by engaging communities through peace education forums | Community peace meetings/barazas Establish a peace education section ii the museum of Kenya | FBOs, CBOs, Community leaders (elders), Youth and women leaders, ACE | | Meeting attendance Meeting reports/resolutions Reduced incidences of conflict/violence in learning institutions | CDE, FBOs/ Provincial Admin | County Directors, Sub County Education officials, County and Local Peace Committees, ACE Instructors and MDTIs | Meeting and Telecosts | MoEST, Partners | • Political will • Community willingness and cooperation • Availability of data for baseline on conflicts/violence
 
 35
 
@@ -919,17 +975,13 @@ Peace education joint work plan developed | resource mobilization Peace Educatio
 
 [[START OF PAGE 38]]
 
-Policy Statement: Information management and Communication | Risks/ Assumptions | Availability of funds, political goodwill, cooperation from all stakeholders
---- | --- | ---
-Sources of Funds
-Cost lines | MoEST- Headquarters and County offices
-Responsibility
-Data Source | Media, leaders, communities, youth in and out of school, children, learners at all levels
-Indicator | • Availability of strategy document • % of people reached • Availability of reports • Availability of BCC/P materials
-Timeline (Year)
-Target Group/ Category | Media, leaders, communities, youth in and out of school, children, learners at all levels
-Expected Output | • Strategy Developed, • A detailed framework developed for engaging different players on information & communication on peace education
-Activity | Develop of communication and information management strategy to enhance peaceful coexistence (Advocacy - c ommemoration of international days that have a bearing on peace, literacy day, campaigns, documentation of traditional mechanisms of peace resolution among various communities ; Media engagement; Training and sensitization of media; BCC/P Materials Development; Social media, interactive platform
+### Policy Statement: Information management and Communication
+
+##### Strategy: Enhance the effectiveness of communication and information management on peace education
+
+Activity | Expected Output | Target Group/ Category | Timeline (Year) | Indicator | Data Source | Responsibility | Cost lines | Sources of Funds | Risks/ Assumptions
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Develop of communication and information management strategy to enhance peaceful coexistence (Advocacy – commemoration of international days that have a bearing on peace, literacy day, campaigns, documentation of traditional mechanisms of peace resolution among various communities; Media engagement; Training and sensitization of media; BCC/P Materials Development; Social media, interactive platform | • Strategy Developed, • A detailed framework developed for engaging different players on information & communication on peace education | Media, leaders, communities, youth in and out of school, children, learners at all levels | | • Availability of strategy document • % of people reached • Availability of reports • Availability of BCC/P materials | Media, leaders, communities, youth in and out of school, children, learners at all levels | MoEST– Headquarters and County offices | | | Availability of funds, political goodwill, cooperation from all stakeholders
 
 36
 
@@ -943,8 +995,14 @@ Activity | Develop of communication and information management strategy to enhan
 
 [[START OF PAGE 40]]
 
-Ministry of Education
+unicef
 
+Ministry of Education
 Science and Technology
+
+UNESCO
+United Nations
+Educational, Scientific and
+Cultural Organization
 
 [[END OF PAGE 40]]
