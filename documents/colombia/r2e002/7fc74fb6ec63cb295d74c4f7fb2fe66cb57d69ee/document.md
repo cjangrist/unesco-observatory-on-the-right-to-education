@@ -35,20 +35,22 @@ A los programas de educación no formal que al momento de entrar en�
 Los empleados y trabajadores del sector público o privado podrán solicitar el retiro parcial de sus cesantías de las entidades administradoras de fondos de cesantías para el pago de  matrículas  en  instituciones  y  programas  técnicos  conducentes  a  certificados  de  aptitud ocupacional, debidamente acreditados, que impartan educación para el Trabajo y el Desarrollo Humano del empleado, trabajador, su cónyuge, compañera o compañero permanente o sus descendientes, conforme a los procedimientos establecidos en la ley.
 
 ## Artículo 5°.
-Los certificados de aptitud ocupacional, expedidos por las instituciones acreditadas como  de  'Educación  para  el  Trabajo  y  el  Desarrollo  Humano',  serán  reconocidos  como requisitos idóneos de formación para acceder a un empleo público en el nivel técnico que se señala  en  el  Decreto  785  del  3  de  marzo  de  2005  y  las  disposiciones  que  lo  modifiquen  o adicionen.
+Los certificados de aptitud ocupacional, expedidos por las instituciones acreditadas como de “Educación para el Trabajo y el Desarrollo Humano”, serán reconocidos como requisitos idóneos de formación para acceder a un empleo público en el nivel técnico que se
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
+señala en el Decreto 785 del 3 de marzo de 2005 y las disposiciones que lo modifiquen o adicionen.
+
 ## Artículo 6°.
-Incorpórese al texto del artículo 387 literal c) del Estatuto Tributario el siguiente texto  'los  programas  técnicos  y  de  educación  para  el  Trabajo  y  el  Desarrollo  Humano debidamente acreditadas'.
+Incorpórese al texto del artículo 387 literal c) del Estatuto Tributario el siguiente texto “los programas técnicos y de educación para el Trabajo y el Desarrollo Humano debidamente acreditadas”.
 
 ## Artículo 7°.
 Los programas conducentes a certificado de Aptitud Ocupacional impartidos por las instituciones de Educación  para el Trabajo y el  Desarrollo  Humano  debidamente certificadas, podrán ser objeto de reconocimiento para la formación de ciclos propedéuticos por las Instituciones de Educación Superior y tendrán igual tratamiento que los programas técnicos y tecnológicos.
 
 ## Artículo 8°.
-El Instituto Colombiano para la Educación Técnica en el Exterior (Icetex) y demás instituciones  del  Estado  que  ofrezcan  créditos  educativos;  y las  instituciones  del  Estado  que ofrezcan incentivos para proyectos productivos o creación de empresas, darán igual tratamiento en la asignación de recursos y beneficios a los Estudiantes de las instituciones de Educación para el Trabajo y el Desarrollo Humano debidamente acreditadas.
+El Instituto Colombiano para la Educación Técnica en el Exterior (Icetex) y demás instituciones del Estado que ofrezcan créditos educativos; y las instituciones del Estado que ofrezcan incentivos para proyectos productivos o creación de empresas, darán igual tratamiento en la asignación de recursos y beneficios a los Estudiantes de las instituciones de Educación para el Trabajo y el Desarrollo Humano debidamente acreditadas.
 
 ## Artículo 9°.
 La presente ley rige a partir de su promulgación y deroga las disposiciones que le sean contrarias.
@@ -69,7 +71,7 @@ El Secretario General de la honorable Cámara de Representantes,
 
 Angelino Lizcano Rivera.
 
-## REPUBLICA DE COLOMBIA - GOBIERNO NACIONAL
+## REPUBLICA DE COLOMBIA – GOBIERNO NACIONAL
 
 Publíquese y cúmplase.
 
