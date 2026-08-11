@@ -50,13 +50,15 @@ Framework  Law  on  Higher  Education  in  Bosnia  and  Herzegovina  (Official  
 
 State-level  legislation  in  the  field  of  education  is  based  primarily  on  the  most  important international declarations and conventions governing human rights and freedoms. All laws at the cantonal, entity and Brčko District level must be harmonized with the laws at the level of BiH.
 
-Framework Law on Preschool Education in Bosnia and Herzegovina in Article 6 (Prohibition of discrimination),  paragraph  (1),  provides  that  'every  child  shall  have  equal  access  and  equal opportunities to participate in appropriate upbringing and education, without discrimination on any grounds'. Article 10 (Right to Language) emphasizes that the language and culture of all constituent people and any national minority living in Bosnia and Herzegovina shall be respected and  included  in  preschool  education  in  accordance  with  the  Constitution  of  Bosnia  and Herzegovina,  the  European  Convention  on  Human  Rights  and  Fundamental  Freedoms,  the Framework  Convention  for  the  Protection  of  National  Minorities  and  the  Convention  on  the Rights of the Child.
+Framework Law on Preschool Education in Bosnia and Herzegovina in Article 6 (Prohibition of discrimination), paragraph (1), provides that “every child shall have equal access and equal opportunities to participate in appropriate upbringing and education, without discrimination on any grounds“. Article 10 (Right to Language) emphasizes that the language and culture of all
 
 3
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+constituent people and any national minority living in Bosnia and Herzegovina shall be respected and included in preschool education in accordance with the Constitution of Bosnia and Herzegovina, the European Convention on Human Rights and Fundamental Freedoms, the Framework Convention for the Protection of National Minorities and the Convention on the Rights of the Child.
 
 Article 3 of the Framework Law Primary and Secondary Education in Bosnia and Herzegovina defines the general objectives of education, which include, inter alia: the promotion of respect for human rights and fundamental freedoms and the preparation of every person for life in a society that respects the principles of democracy and the rule of law; ensuring equal opportunities for education and choice at all levels of education, regardless of gender, race, nationality, social and cultural origin and status, family status, religion, psychophysical and other personal characteristics.
 
@@ -68,13 +70,15 @@ Ten cantons in FBiH, Republic of Srpska and Brčko District of BiH have their ow
 
 Strategic  documents  in  the  field  of  education  have  been  adopted  at  the  level  of  BiH,  which directly or indirectly promote respect for human rights and freedoms, as well as the prohibition of any form of discrimination in education. Here are some of them:
 
-Platform for the development of preschool education in BiH for the period 2017-2022 (Official Gazette of BiH, number 2/18); Strategic platform for the development of adult education in the context  of  lifelong  learning  in  Bosnia  and  Herzegovina  for  the  period  2014-2020  (Official Gazette of BiH, number 96/14); Priorities for the development of higher education in BiH for the period 2016-2026 (Official Gazette of BiH, number 35/16); Principles and standards in the field of adult education in Bosnia and Herzegovina (Official Gazette of BiH, number 39/14), etc.
+Platform for the development of preschool education in BiH for the period 2017-2022 (Official Gazette of BiH, number 2/18); Strategic platform for the development of adult education in the context of lifelong learning in Bosnia and Herzegovina for the period 2014-2020 (Official Gazette of BiH, number 96/14); Priorities for the development of higher education in BiH for the
 
 4
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+period 2016-2026 (Official Gazette of BiH, number 35/16); Principles and standards in the field of adult education in Bosnia and Herzegovina (Official Gazette of BiH, number 39/14), etc.
 
 5
 
@@ -86,7 +90,7 @@ Platform for the development of preschool education in BiH for the period 2017-2
 
 Laws  at  all  levels  of  government,  as  well  as  at  all  levels  of  education,  ensure  that  every individual  has  an  equal  right  of  access  and  equal  opportunities  to  participate  in  appropriate education, without discrimination on any grounds.
 
-In addition to laws prohibiting discrimination in education, the competent education authorities are  taking  a  number  of  activities,  in  accordance  with  the  financial  possibilities,  in  order  to provide education to all on equal terms. In this regard, we will mention the FBiH Ministry of Education  and  Science,  which  through  several  of  its  programs  allocates  funds  and  provides support to programs and projects aimed at eliminating discrimination in education. These are the following programs: 'Support for projects to improve the inclusiveness of preschool and primary education', Support to projects for hiring Roma mediators in order to increase the coverage and regular attendance of primary education of Roma children', etc.
+In addition to laws prohibiting discrimination in education, the competent education authorities are taking a number of activities, in accordance with the financial possibilities, in order to provide education to all on equal terms. In this regard, we will mention the FBiH Ministry of Education and Science, which through several of its programs allocates funds and provides support to programs and projects aimed at eliminating discrimination in education. These are the following programs: “Support for projects to improve the inclusiveness of preschool and primary education”, Support to projects for hiring Roma mediators in order to increase the coverage and regular attendance of primary education of Roma children”, etc.
 
 Also, the program "Support to training programs, vocational training and professional development  of  adults  with  a  focus  on  women  for  easier  integration  into  the  labour  market", which the FBiH Ministry of Education and Science implements through a public call, provides financial  support  to  public  secondary  school  programs  aimed  at  improving  the  skills  and competencies of adults with a focus on women through a program of training, vocational training or professional development, in order to facilitate their integration into the labour market.
 
@@ -106,7 +110,7 @@ Although  preschool  education  is  not  explicitly  defined  by  the  Conventio
 
 When we talk about preschool education in Bosnia and Herzegovina, we can say that in most cantons  in  FBiH,  preschool  education  is  mandatory  only  in  the  year  before  starting  primary school  and  these  are  short-term  programs.  Only  these  short  programs  before  starting  primary school are free. These programs include children aged 5 to 6 years. The duration of shortened free  programs  in  the  year  before  starting  primary  school  is  150  hours  in  most  cantons  that implement this program, but in some areas the program lasts longer (It lasted for 300 hours in Canton 10).
 
-In the Republic of Srpska, this program is not mandatory, but it is still being implemented. The program was fully introduced (100 % coverage of children with preschool education in the year before starting school) in Tuzla Canton, Zenica - Doboj Canton, Sarajevo Canton, Brčko District of Bosnia and Herzegovina, Bosnian - Podrinje Canton Goražde and Canton 10.
+In the Republic of Srpska, this program is not mandatory, but it is still being implemented. The program was fully introduced (100 % coverage of children with preschool education in the year before starting school) in Tuzla Canton, Zenica – Doboj Canton, Sarajevo Canton, Brčko District of Bosnia and Herzegovina, Bosnian – Podrinje Canton Goražde and Canton 10.
 
 In order to improve preschool education in Bosnia and Herzegovina, the Council of Ministers of Bosnia and Herzegovina, at its 123rd session, held on 4 December 2017, at the proposal of the Ministry  of  Civil  Affairs,  decided  to  adopt  the  Platform  for  the  Development  of  Preschool Education  in  Bosnia  and  Herzegovina  for  the  period  2017-2022.  The  platform  follows  the policies,  objectives  and  practices  of  European  countries.  With  its  adoption,  Bosnia  and Herzegovina  has  committed  itself  to  continuous  progress  in  the  development  of  preschool education.  The  platform  includes  five  specific  objectives:  increasing  the  coverage  of  children with preschool education, ensuring the quality of preschool education, ensuring regular funding, strengthening  inclusion  and  sensitizing  society  to  the  importance  of  preschool  education. Environments  that  have  enacted  their  own  laws  in  line  with  the  Framework  Law,  mainly implement the specific objectives of the Platform, to a greater or lesser extent. In the past period, most work was done on increasing the coverage of children with preschool education, quality assurance and regular financing of preschool education, as well as on strengthening inclusion.
 
@@ -114,7 +118,7 @@ The Framework Law on Preschool Education in Bosnia and Herzegovina and the Platf
 
 ### Primary and secondary education
 
-In the Framework Law on Primary and Secondary Education in BiH, Article 16 clearly specifies that primary education is compulsory and free for all children. Primary education lasts for nine years, and children begin with primary education at the age of six. Please note here that primary education is free in the sense that parents are exempt from paying tuition. The Federal Ministry of Education and Science, in cooperation with the Cantonal Ministry of Education and Science, is  implementing a project to purchase free textbooks, primarily for students from families in a state of social need, and some cantonal ministries of education are doing the same. Local selfgovernment  units  finance  transportation  costs  for  primary  school  students  living  at  a  certain distance from the school, which is regulated by cantonal, entity and Brčko District regulations (mainly Pedagogical Standards and Norms for Primary Education).
+In the Framework Law on Primary and Secondary Education in BiH, Article 16 clearly specifies that primary education is compulsory and free for all children. Primary education lasts for nine years, and children begin with primary education at the age of six. Please note here that primary education is free in the sense that parents are exempt from paying tuition. The Federal Ministry of Education and Science, in cooperation with the Cantonal Ministry of Education and Science,
 
 7
 
@@ -122,7 +126,9 @@ In the Framework Law on Primary and Secondary Education in BiH, Article 16 clear
 
 [[START OF PAGE 8]]
 
-Difficulties  that  the  competent  education  authorities  face  are  inclusion  and  the  completion  of primary education for Roma children, due to frequent migration, as well as the lack of teaching aids and technology in working with children with disabilities. However, the work of schools is organized in such a way as to take into account the needs related to the upbringing and education of  children  with  disabilities,  such  as  fewer  classes  and  an  increased  number  of  teaching assistants.
+is implementing a project to purchase free textbooks, primarily for students from families in a state of social need, and some cantonal ministries of education are doing the same. Local self-government units finance transportation costs for primary school students living at a certain distance from the school, which is regulated by cantonal, entity and Brčko District regulations (mainly Pedagogical Standards and Norms for Primary Education).
+
+Difficulties that the competent education authorities face are inclusion and the completion of primary education for Roma children, due to frequent migration, as well as the lack of teaching aids and technology in working with children with disabilities. However, the work of schools is organized in such a way as to take into account the needs related to the upbringing and education of children with disabilities, such as fewer classes and an increased number of teaching assistants.
 
 ### Secondary education
 
@@ -136,7 +142,7 @@ According to the competent ministries of education, a certain percentage of chil
 
 ### Higher education
 
-The Framework Law on Higher Education in BiH, in Article 7, states that higher education is available to all who have completed a four-year high school in Bosnia and Herzegovina. Higher education is aimed at the full development of the human personality, respect for human rights, civil and other rights and freedoms. Article 7 also states that access to higher education provided by  licensed  higher  education  institutions  in  Bosnia  and  Herzegovina  shall  not  be  restricted, directly or indirectly, on any actual or presumed basis, such as: gender, race, sexual orientation, physical  or  other  disability,  marital  status,  skin  color,  language,  religion,  political  or  other opinion, national, ethnic or social origin, etc.
+The Framework Law on Higher Education in BiH, in Article 7, states that higher education is available to all who have completed a four-year high school in Bosnia and Herzegovina. Higher education is aimed at the full development of the human personality, respect for human rights, civil and other rights and freedoms. Article 7 also states that access to higher education provided
 
 8
 
@@ -144,7 +150,9 @@ The Framework Law on Higher Education in BiH, in Article 7, states that higher e
 
 [[START OF PAGE 9]]
 
-In addition to the Framework Law defining the field of higher education in BiH, Priorities for the development of higher education in BiH for the period 2016-2026 have been developed, which represent  the  main  measures  and  activities  to  be  implemented  in  Bosnia  and  Herzegovina  to strengthen  the  development  of  higher  education,  and  to  achieve  its  full  involvement  in  the European Higher Education Area.
+by licensed higher education institutions in Bosnia and Herzegovina shall not be restricted, directly or indirectly, on any actual or presumed basis, such as: gender, race, sexual orientation, physical or other disability, marital status, skin color, language, religion, political or other opinion, national, ethnic or social origin, etc.
+
+In addition to the Framework Law defining the field of higher education in BiH, Priorities for the development of higher education in BiH for the period 2016-2026 have been developed, which represent the main measures and activities to be implemented in Bosnia and Herzegovina to strengthen the development of higher education, and to achieve its full involvement in the European Higher Education Area.
 
 The priorities for the development of higher education are grouped into seven key areas: good governance  and  management;  resources;  the  link  between  the  labour  market  and  higher education; qualification standards; student experience; internationalization and statistics.
 
@@ -211,7 +219,6 @@ The Framework Law on Preschool Education in BiH, as well as the Framework Law on
 Also, laws in the field of education, at the entity or cantonal level, as well as the laws of the Brčko District of BiH, take into account the rights of national minorities.
 
 #### The curriculum is adapted to the needs of national minorities -
-At its 155th session held on 25 September 2018, the Council of Ministers of BiH adopted the Framework Action Plan on the Educational Needs of Roma People in Bosnia and Herzegovina for  the  Period  2018  to  2022  (it  should  be  emphasized  that  the  Roma  minority  is  the  most numerous in BiH), for which the Ministry of Human Rights and Refugees of BiH is responsible. This plan consists of three objectives and fifteen measures and has four units.
 
 12
 
@@ -219,7 +226,11 @@ At its 155th session held on 25 September 2018, the Council of Ministers of BiH 
 
 [[START OF PAGE 13]]
 
-The first contains the right of national minorities to education, the second contains elements and recommendations on the basis of which the competent ministries of education should prepare and  adopt  their  action  plans,  the  third  contains  goals  and  measures  related  to  the  Romani language,  history  and  culture,  and  the  fourth  contains  the  monitoring  and  evaluation  of  the Framework Action Plan on the educational needs of Roma in BiH.
+At its 155th session held on 25 September 2018, the Council of Ministers of BiH adopted the Framework Action Plan on the Educational Needs of Roma People in Bosnia and Herzegovina for the Period 2018 to 2022 (it should be emphasized that the Roma minority is the most numerous in BiH), for which the Ministry of Human Rights and Refugees of BiH is responsible.
+
+This plan consists of three objectives and fifteen measures and has four units.
+
+The first contains the right of national minorities to education, the second contains elements and recommendations on the basis of which the competent ministries of education should prepare and adopt their action plans, the third contains goals and measures related to the Romani language, history and culture, and the fourth contains the monitoring and evaluation of the Framework Action Plan on the educational needs of Roma in BiH.
 
 The Framework Action Plan envisages measures through three objectives:
 
@@ -227,11 +238,11 @@ Objective  1:  "Contents  on  Roma  history  and  culture  included  in  existin
 
 In the area of discrimination, the following measures are envisaged:
 
-Objective  3:  "Prevention  of  prejudice,  stereotypes  and  discrimination  until  2020'  (measures: develop a guide for school administration, teachers, kindergarten staff, parents and children in order  to  get  acquainted  with  the  traditions,  culture  and  customs  of  the  Roma;  promote  the Guidelines  for  the  Prevention  of  Discrimination  in  Education;  organize  training  for  school administration, teachers, parents and children in order to recognize discrimination, stereotypes and prejudices and the involvement of Roma mediators in education).
+Objective 3: "Prevention of prejudice, stereotypes and discrimination until 2020” (measures: develop a guide for school administration, teachers, kindergarten staff, parents and children in order to get acquainted with the traditions, culture and customs of the Roma; promote the Guidelines for the Prevention of Discrimination in Education; organize training for school administration, teachers, parents and children in order to recognize discrimination, stereotypes and prejudices and the involvement of Roma mediators in education).
 
 #### Teachers are trained to adapt to the needs of national minorities -
 
-Framework Action Plan on the Educational Needs of Roma in Bosnia and Herzegovina for the period  from  2018  to  2022  in  Objective  2  -  "Romani  language  introduced  in  schools  as  an optional subject or through alternative solutions by 2022" provides the following measures: (providing  professional  training  of  teachers  or  professors  of  Romani  language  at  higher education institutions and introduction of Romani language in schools as an optional subject)
+Framework Action Plan on the Educational Needs of Roma in Bosnia and Herzegovina for the period from 2018 to 2022 in Objective 2 – "Romani language introduced in schools as an optional subject or through alternative solutions by 2022" provides the following measures: (providing professional training of teachers or professors of Romani language at higher education institutions and introduction of Romani language in schools as an optional subject)
 
 13
 
@@ -255,7 +266,7 @@ In  Bosnia  and  Herzegovina,  there  are  currently  73  people  in  refugee  s
 
 The  Rulebook  on  the  Manner  of  Exercising  the  Right  to  Education  of  Persons  Granted International Protection in BiH (Official Gazette of BiH, number 42/17) prescribes the manner in which refugees and foreigners under subsidiary protection attend preschool, primary, secondary and higher education in BiH.
 
-Higher  education  of  refugees  and  foreigners  under  subsidiary  protection  is  provided  in accordance with the current legislation governing this area in BiH (in the FBiH at the cantonal level, in the Republic of Srpska at the entity level), and the Ministry does not provide funding for either full-time or part-time higher education for these persons.
+Higher education of refugees and foreigners under subsidiary protection is provided in accordance with the current legislation governing this area in BiH (in the FBiH at the cantonal
 
 14
 
@@ -263,13 +274,15 @@ Higher  education  of  refugees  and  foreigners  under  subsidiary  protection 
 
 [[START OF PAGE 15]]
 
+level, in the Republic of Srpska at the entity level), and the Ministry does not provide funding for either full-time or part-time higher education for these persons.
+
 #### Measures adopted by state and local authorities to ensure the right of refugees to education -
 
 The Ministry has taken all measures to include children in refugee status or subsidiary protection status in traditional education.
 
 All children are included in the education system of BiH, which includes preschool education, primary,  secondary  and  higher  education.  Children  are  also  included  in  afterschool  care, playgroups, sections, language courses. Through non-governmental organizations, trainings for people  working  in  education  were  organized,  as  well  as  initiatives  to  promote  diversity.  An alternative  administrative  procedure  for  enrollment  in  primary  and  secondary  schools  is  also provided, as well as the equivalence and nostrification of diplomas, which is prescribed by the Rulebook.
 
-A total of 21 children attend the school in the school year 2019/2020, of which 17 children attend primary school and 4 children secondary school. 9 children are educated in the Sarajevo Canton (1 foreign er under subsidiary protection and 10 refugees), and 12 are in the City of Mostar (12 refugees).
+A total of 21 children attend the school in the school year 2019/2020, of which 17 children attend primary school and 4 children secondary school. 9 children are educated in the Sarajevo Canton (1 foreigner under subsidiary protection and 10 refugees), and 12 are in the City of Mostar (12 refugees).
 
 For all children included in the education system, the BiH Women's Initiative, with which the BiH Ministry of Human Rights and Refugees has signed a cooperation protocol, ensured that children receive textbooks and school supplies from school, or through a Centre for Social Work, or through the municipality. Children who are entitled to child allowance can also be entitled to free school lunch.
 
@@ -287,7 +300,7 @@ At  the  end  of    2019,  187  asylum  seekers  (families  with  children)  wer
 
 In accordance with the obligation for accessibility and access to education for these children, the Ministry  of  Human  Rights  and  Refugees  of  BiH,  in  cooperation  with  non-governmental organizations, conducts pedagogical and educational workshops with children in these centres, although these children would need access to education (BiH Ministry of Security).
 
-The Ministry of Human Rights and Refugees, in accordance with the Convention on the Rights of the Child and regulations in BiH relating to the care and protection of children, requested the Ministry of Security of BiH to provide them with access to the education system in HerzegovinaNeretva Canton, which has not been realized to date.
+The Ministry of Human Rights and Refugees, in accordance with the Convention on the Rights of the Child and regulations in BiH relating to the care and protection of children, requested the Ministry of Security of BiH to provide them with access to the education system in Herzegovina-Neretva Canton, which has not been realized to date.
 
 The BiH Ministry of Human Rights and Refugees will continue to ensure access to the right to education for refugees and persons under subsidiary protection while in status, raise awareness and inform about equal treatment and access to this right in Bosnia and Herzegovina.
 
