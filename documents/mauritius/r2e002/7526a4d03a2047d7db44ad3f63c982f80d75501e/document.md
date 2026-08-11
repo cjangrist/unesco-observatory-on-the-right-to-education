@@ -10,11 +10,50 @@ Framework
 
 # Table of Contents
 
+Vision ...................................................................................................................................... 4
+I. Purpose ............................................................................................................................... 4
+A generic policy document............................................................................................ 5
+An overarching national policy framework to develop sector-based and organisation-specific policies........................................................................................ 5
+An unfinished agenda for gender equality. ................................................................. 6
+An updated gender policy framework......................................................................... 7
+II. Guiding principles of the National Gender Policy Framework. .................................. 9
+Based on the realisation of human rights:................................................................... 9
+Millennium Development Goals action framework.................................................... 9
+Accountability for Outcomes...................................................................................... 10
+Human-centered and outcome-oriented.................................................................... 11
+A gender perspective is necessary and adds value.................................................... 11
+Development value....................................................................................................... 14
+Substantive as well as formal equality....................................................................... 15
+Gender differences among men and among women................................................. 16
+Moving from disempowerment to empowerment..................................................... 17
+A coordinated, cooperative approach among sectors............................................... 20
+Taking into account unpaid, non –market work and achieving gender-equitable work-life balance. ........................................................................................................ 21
+
 1
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+III. Broad operational strategies for achieving gender equality. .................................... 22
+Rights-based................................................................................................................. 22
+A gender-responsive strategic framework for resource allocation and service delivery. First steps: Situation analysis and impact assessments. ........................... 22
+Using Gender-responsive information and statistical systems. ............................... 24
+Formulating gender –responsive outcome objectives............................................... 25
+Working out the related chain of results in an iterative process............................. 26
+Including measures for gender equality among priorities for public expenditure.26
+Strategic Partnerships with other organisations. ..................................................... 28
+Accountability for performance relating to outputs, but which focus on outcomes. ....................................................................................................................................... 28
+Gender-responsive costing and budgeting of development interventions. ............. 29
+Gender-responsive monitoring and evaluation: reporting on commitments......... 30
+IV The Institutional Arrangements for achieving gender equality................................. 31
+At the level of the state and across sectors: strategic partnerships......................... 31
+Within organisations. .................................................................................................. 34
+Multistakeholder outreach strategies for achieving gender equality and women’s empowerment: a local and participatory approach . .............................................. 36
+Gender-responsive private sector activity and organisations.................................. 38
+The Media. ................................................................................................................... 40
+Political Parties. ........................................................................................................... 41
+Civil Society Organisations......................................................................................... 41
 
 2
 
@@ -54,7 +93,7 @@ A society  in  which  all  girls  and  boys,  women  and  men  live  together  i
 
 ## I. Purpose
 
-The  National  Gender  Policy  Framework  outlines  Mauritius'  vision  for  gender equality  and  women's  empowerment.  Its  vision  encapsulates  the  different  outcomes expected of a state in which there is gender equality. It is results-oriented and sets out in broad terms how to translate that vision into reality It  is  a  generic  policy  statement.      It  gives  clear  signals  to  all  stakeholders  that achieving gender equality is an objective integral to all sectors of national activity, in line It  provides a philosophical framework, general guiding principles, values, norms of  conduct  and  standards  to  attain  while  adopting  a  gender  perspective  in  order  to achieve  gender  equality.    It  sets  out  why  there  needs  to  be  a  gender  policy,  what  it with national values and international commitments. involves and who should be responsible for it.
+The National Gender Policy Framework outlines Mauritius' vision for gender equality and women's empowerment. Its vision encapsulates the different outcomes expected of a state in which there is gender equality. It is results-oriented and sets out in broad terms how to translate that vision into reality
 
 4
 
@@ -63,6 +102,10 @@ The  National  Gender  Policy  Framework  outlines  Mauritius'  vision  for  gen
 [[START OF PAGE 6]]
 
 ### A generic policy document.
+
+It is a generic policy statement. It gives clear signals to all stakeholders that achieving gender equality is an objective integral to all sectors of national activity, in line with national values and international commitments.
+
+It provides a philosophical framework, general guiding principles, values, norms of conduct and standards to attain while adopting a gender perspective in order to achieve gender equality. It sets out why there needs to be a gender policy, what it involves and who should be responsible for it.
 
 The  national  policy  framework  gives  a  basic  understanding  of  the  concept  of gender  and  sets  out  the  reason  why  there  should  be  a  gender  approach  to  all development interventions. It provides a framework for developing further this understanding  and  for  building  consensus  over  gender-  sensitive  policy  and  practice across  the  whole  gamut  of  development  interventions.  In  this  sense  it  also  acts  as  a handbook, and provides the tools to justify and also apply policy.
 
@@ -88,7 +131,7 @@ This updated national gender policy framework is based on awareness that there i
 
 The  successful  work  on  the  legislative  front  across  many  critical  domains  can create the perception that the near achievement of formal equality is sufficient to ensure actual  equality  in  terms  of  opportunity  and  outcomes.  Moreover,  the  mechanisms  to translate legislative provisions into systematic and adequately resourced implementation that  yields  the  desired  outcomes  are  still  weak.  The  actors  actively  applying  a  gender perspective are in a minority and isolated across sectors and within organisations.
 
-Gender relations are dynamic. They can be transformed within a relatively short period, often partly as a result of targeted interventions, as unintended consequences of other interventions and by changes in social and economic conditions, all interacting in complex ways. The new conditions can themselves create further heightened expectations about what constitutes desirable gender relations, changes the norms and the  standards  of  what  is  to  be  expected  of  relations  between  men  and  women.  The pattern  of  changes  and  expectations  can  be  uneven.  Among  gender  advocates,  who have championed much of the legislative and regulatory measures, the expectations can evolve rapidly. Socio economic changes and shocks have also transformed behaviour and  mind  sets.    Such  changes  have  often  been  spearheaded  by  women,  who  have transformed their fertility behaviour in over a decade in the 1969s and 1970s and have broken  down  resistance  to  -their  albeit  lower  paid  and  more  precarious-  factory  work outside  the  confines  of  home  and  shattered  the  family    model  of  the  sole  male But  many  changes  are  not  yet  very  broad-based  or  far-reaching.  There  is  still much  work  left  to  do  to  uproot  deep-seated  causes  of  gender  inequality,  to  change behaviour and to shift mindsets and attitudes regarding what gender relations should be breadwinner during the 1980s. and to create the conditions for women's empowerment.
+Gender relations are dynamic. They can be transformed within a relatively short period, often partly as a result of targeted interventions, as unintended consequences of other interventions and by changes in social and economic conditions, all interacting in complex ways. The new conditions can themselves create further heightened expectations about what constitutes desirable gender relations, changes the norms and the standards of what is to be expected of relations between men and women. The pattern of changes and expectations can be uneven. Among gender advocates, who have championed much of the legislative and regulatory measures, the expectations can evolve rapidly. Socio economic changes and shocks have also transformed behaviour
 
 6
 
@@ -96,15 +139,19 @@ Gender relations are dynamic. They can be transformed within a relatively short 
 
 [[START OF PAGE 8]]
 
-In order to respond to changing gender relations and socio economic conditions, sector-specific  policy  documents  and  accompanying  action  plans  need  to  be  more frequently  reviewed  and  adjusted  to  keep  track  of  these  developments,  assess  the progress already made and take steps to make further progress.
+and mind sets. Such changes have often been spearheaded by women, who have transformed their fertility behaviour in over a decade in the 1960s and 1970s and have broken down resistance to -their albeit lower paid and more precarious- factory work outside the confines of home and shattered the family model of the sole male breadwinner during the 1980s.
+
+But many changes are not yet very broad-based or far-reaching. There is still much work left to do to uproot deep-seated causes of gender inequality, to change behaviour and to shift mindsets and attitudes regarding what gender relations should be and to create the conditions for women's empowerment.
+
+In order to respond to changing gender relations and socio economic conditions, sector-specific policy documents and accompanying action plans need to be more frequently reviewed and adjusted to keep track of these developments, assess the progress already made and take steps to make further progress.
 
 ### An updated gender policy framework.
 
-The new updated gender policy  framework  has  also  been  developed  because the previous gender policy and action plan validated in 2005 has been overtaken by a changing  policy  and  institutional  environment.  It  is  now  an  opportune  moment  to translate  international  commitments  made  in  regard  of  gender  equality,  the  ensuing more  effective
+The new updated gender policy framework has also been developed because the previous gender policy and action plan validated in 2005 has been overtaken by a changing policy and institutional environment. It is now an opportune moment to translate international commitments made in regard of gender equality, the ensuing supportive national legislation and relevant policy objectives into more effective implementation.
 
-supportive national legislation and relevant policy objectives into implementation. The current processes of globalisation and liberalisation are transforming the way economic, social and cultural life is organised everywhere in the world and in Mauritius. The erosion of trade preferences in the sugar and textiles sector has already affected livelihood  prospects  of  women  and  men  in  different  ways,  subjecting  them  to  global market turbulences.
+The current processes of globalisation and liberalisation are transforming the way economic, social and cultural life is organised everywhere in the world and in Mauritius. The erosion of trade preferences in the sugar and textiles sector has already affected livelihood prospects of women and men in different ways, subjecting them to global market turbulences.
 
-There are now far reaching policy and institutional reforms under way. They seek to alter the way government shapes and conducts its core missions and relates to other institutional  actors  such  as  the  private  sector  and  civil  society.  These  reforms  are  the shift towards programme-based budgeting and new performance management systems and  human  resource  development  strategies  in  the  public  sector.  Such  technical  and operational changes will require changes in institutional culture and mind-sets towards a results  and  performance-driven  approach.  The  management  of  such  transformations presents  significant  challenges,  even  when  a  progressive  and  iterative  approach  is taken. A  performance-based  budgeting  system  seeks  to  align  state  budgets  and programmes  more  closely  to  policy  priorities.  Apart  from  this  greater  effectiveness,  it also aims to achieve greater efficiency and economy in public sector actions. Ministries and  agencies  have  to  be  more  transparent  about  and  accountable  for  what  they  will spend  on,  for  what  purpose,  and  with  what  results.  They  need  also  to  take  steps  to understand what factors lead to or inhibit performance and to take appropriate corrective measures in the light of such knowledge and information. Such an integrated planning and budgeting system, particularly as it is focused on  development  outcomes,  creates  appropriate  conditions  for  implementing  resultsoriented strategies to achieve gender equality, for learning from practice how to improve on these strategies and for reporting on progress achieved. However,  at  the  same  time,  the  drive  for  efficiency  and  economy  in  public financial  management  can  pose  threats  to  the  gender  equality  agenda,  as  state expenditure can correct for and mitigate gender-based disadvantages.  Private markets are not inherently egalitarian and are certainly not risk-free. The basis for state or public action in conditions of liberalisation have to be carefully examined and asserted. In  the  absence  of  a  widely-endorsed  policy  framework  for  guiding  public interventions  -for  including  gender  analysis  in  the  changing  institutional  and  technical routines from the outset- gender equality can be ranked as a low priority. The  new  national  gender  policy  framework  clearly  and  firmly  sets  out  what  is expected  of  state and  para-statal agencies  in the development  of  and  shift to performance based systems and how to make them gender-responsive in the process.
+There are now far reaching policy and institutional reforms under way. They seek to alter the way government shapes and conducts its core missions and relates to other institutional actors such as the private sector and civil society. These reforms are the
 
 7
 
@@ -112,7 +159,19 @@ There are now far reaching policy and institutional reforms under way. They seek
 
 [[START OF PAGE 9]]
 
-It also gives guidance to non state agencies and institutions about how to foster a gender-sensitive culture in their organisations, become more gender-responsive in their own actions and become more proactive in ensuring that states are accountable to their commitments taken in regard to gender equality and that citizens- girls and boys, men and women- are able to claim their rights.
+shift towards programme-based budgeting and new performance management systems and human resource development strategies in the public sector. Such technical and operational changes will require changes in institutional culture and mind-sets towards a results and performance-driven approach. The management of such transformations presents significant challenges, even when a progressive and iterative approach is taken.
+
+A performance-based budgeting system seeks to align state budgets and programmes more closely to policy priorities. Apart from this greater effectiveness, it also aims to achieve greater efficiency and economy in public sector actions. Ministries and agencies have to be more transparent about and accountable for what they will spend on, for what purpose, and with what results. They need also to take steps to understand what factors lead to or inhibit performance and to take appropriate corrective measures in the light of such knowledge and information.
+
+Such an integrated planning and budgeting system, particularly as it is focused on development outcomes, creates appropriate conditions for implementing results-oriented strategies to achieve gender equality, for learning from practice how to improve on these strategies and for reporting on progress achieved.
+
+However, at the same time, the drive for efficiency and economy in public financial management can pose threats to the gender equality agenda, as state expenditure can correct for and mitigate gender-based disadvantages. Private markets are not inherently egalitarian and are certainly not risk-free. The basis for state or public action in conditions of liberalisation have to be carefully examined and asserted.
+
+In the absence of a widely-endorsed policy framework for guiding public interventions -for including gender analysis in the changing institutional and technical routines from the outset- gender equality can be ranked as a low priority.
+
+The new national gender policy framework clearly and firmly sets out what is expected of state and para-statal agencies in the development of and shift to performance based systems and how to make them gender-responsive in the process.
+
+It also gives guidance to non state agencies and institutions about how to foster a gender-sensitive culture in their organisations, become more gender-responsive in their
 
 8
 
@@ -120,17 +179,19 @@ It also gives guidance to non state agencies and institutions about how to foste
 
 [[START OF PAGE 10]]
 
+own actions and become more proactive in ensuring that states are accountable to their commitments taken in regard to gender equality and that citizens- girls and boys, men and women- are able to claim their rights.
+
 ## II. Guiding principles of the National Gender Policy Framework.
 
 ### Based on the realisation of human rights:
 
-The National Gender Policy Framework is derived from the national constitution and the human rights instruments- treaties, conventions- that the Republic of Mauritius is party  to  at  the  global,  regional  and  sub-regional  levels.  Mauritius  has  ratified  the Convention for the Elimination of All Forms of Discrimination Against Women [CEDAW]. As an overarching convention, the CEDAW informs and is compatible with other human rights instruments, which cover all dimensions of human development, security and wellbeing -economic, social, cultural, environmental. The commitments made to universal human rights mean that women's rights are human rights and that customary, cultural and religious practices need to be subject to the right to gender equality.
+The National Gender Policy Framework is derived from the national constitution and the human rights instruments- treaties, conventions- that the Republic of Mauritius is party to at the global, regional and sub-regional levels. Mauritius has ratified the Convention for the Elimination of All Forms of Discrimination Against Women [CEDAW]. As an overarching convention, the CEDAW informs and is compatible with other human rights instruments, which cover all dimensions of human development, security and well-being –economic, social, cultural, environmental. The commitments made to universal human rights mean that women's rights are human rights and that customary, cultural and religious practices need to be subject to the right to gender equality.
 
-The National Gender Policy Framework has also been guided by the commitments made at all the United Nations international conferences on Women and in particular  to  the  implementation  of  the  Beijing  Platform  of  Action  in  1995.  Mauritius  is party to the 1997 SADC Declaration on Gender, its 1998 Addendum on the Prevention and Eradication of Violence against Women and Children, the African Union Declaration on Gender Equality signed in 2004 and the Commonwealth Plan of Action on Gender Equality 2005-2015. It has signed and ratified the Protocol on the Rights of Women of the African Charter on Human and People's Rights in 2005.
+The National Gender Policy Framework has also been guided by the commitments made at all the United Nations international conferences on Women and in particular to the implementation of the Beijing Platform of Action in 1995. Mauritius is party to the 1997 SADC Declaration on Gender, its 1998 Addendum on the Prevention and Eradication of Violence against Women and Children, the African Union Declaration on Gender Equality signed in 2004 and the Commonwealth Plan of Action on Gender Equality 2005-2015. It has signed and ratified the Protocol on the Rights of Women of the African Charter on Human and People's Rights in 2005.
 
 ### Millennium Development Goals action framework.
 
-Mauritius  is  also  a  signatory  to  the  Millennium  Declaration.  The  Millennium Declaration makes clear that the Millennium Development Goals [MDGs] are underpinned  by  economic,  social  and  cultural  rights.  The  National  Gender  Policy Frameworksubscribes  to  the  development  orientation  enshrined  in  the    MDGs.The
+Mauritius is also a signatory to the Millennium Declaration. The Millennium Declaration makes clear that the Millennium Development Goals [MDGs] are underpinned by economic, social and cultural rights. The National Gender Policy Framework subscribes to the development orientation enshrined in the MDGs. The
 
 9
 
@@ -144,7 +205,7 @@ More importantly, the goals, targets and indicators embody an outcome-based and 
 
 The  National  Gender  Policy  Framework  does  not  only  refer  to  the  third  MDG goal, Achieving Gender Equality and Women's Empowerment. All the other seven goals, concerning  poverty,  education,  health,  environment  and  partnerships  for  development have to be gender-responsive. This is because it cannot be presumed that women and men face the same situation in these domains, and that all women and all men face the same situation. When framing strategies and outcomes in these sectors and thematic areas, the gender differences, disparities and issues have to be taken into account.
 
-### A countability for Outcomes.
+### Accountability for Outcomes.
 
 Rights entail corresponding duties and obligations. State parties who have made commitments to human rights become duty-bearers who have an obligation to meet their commitments  and  are  accountable  for  progress  made.  All  sectors  need  to  apply  a gender lens to the diagnosis of their sector. They need to consider how the achievement of  gender  equality  supports  their  own  sectoral  objectives.  They  need  to  put  in  place mechanisms that ensure that their interventions at the very least do not lead to greater inequality between women and men and at the most actively promotes gender equality and achieves tangible results.
 
@@ -154,7 +215,7 @@ Rights entail corresponding duties and obligations. State parties who have made 
 
 [[START OF PAGE 12]]
 
-All  Ministries and Dgencies need to refer to the gender-responsive elements of the  conventions,  treaties,  conferences,  MDG  goals  and  relevant  to  their  sector  when developing their strategies, programmes, budgets, monitoring and evaluation frameworks.
+All Ministries and Agencies need to refer to the gender-responsive elements of the conventions, treaties, conferences, MDG goals and relevant to their sector when developing their strategies, programmes, budgets, monitoring and evaluation frameworks.
 
 ### Human-centred and outcome-oriented.
 
@@ -238,13 +299,13 @@ Fourth, public action, through government policies, regulation, programmes and b
 
 Gender analysis involves creating data, information and knowledge about these conditions  to  inform  policy-making.  Gender-responsive  policy-making  means  being informed by such context-specific knowledge about gender relations in order to shape and implement policy which aims to change the situation.
 
-### D evelopment value.
+### Development value.
 
 The attainment of gender equality and the need to be gender-responsive have both intrinsic and instrumental values and purposes.
 
 Gender equality has an intrinsic value. Equality and equity are valued as such, in their own right.
 
-A gender perspective can also have an instrumental value. Applying  a gender perspective can  help to achieve  other  objectives,  such  as  education,  economic development  and  health,  adequate  nutrition.  It  makes  sense  to  have  a  gender perspective when there are differences and relationships among individuals whose lives, capacities, livelihoods and well-being are targeted by sectoral programmes. The National Gender Policy Framework for Mauritius places an intrinsic value as well  as  an  instrumental  value  on  the  achievement  of  gender  equality  and  women's empowerment.
+A gender perspective can also have an instrumental value. Applying a gender perspective can help to achieve other objectives, such as education, economic development and health, adequate nutrition. It makes sense to have a gender
 
 14
 
@@ -252,11 +313,21 @@ A gender perspective can also have an instrumental value. Applying  a gender per
 
 [[START OF PAGE 16]]
 
-### Sub stantive as well as formal equality.
+perspective when there are differences and relationships among individuals whose lives, capacities, livelihoods and well-being are targeted by sectoral programmes.
 
-The  National  Gender  Policy  Framework  is  based  on  the  understanding  that formal equality is not tantamount to substantive equality. It calls for an explicit analysis of the substantive and real conditions facing women and men in any development situation. Development  actors  and  practitioners  cannot  assume a  priori ,  that  they  are treating  everybody  the  same,  without  distinction  of  sex,  age,  family  status,  colour, religion, ethnic affiliation and sexual orientation. This is because treating people as if they were the same, when in fact they are not , can cause bias, prejudice and de facto discrimination. What is important is not just intention but actual outcomes. The unintended outcome can be perverse. It can lead to a violation of human rights and a state of disempowerment, exclusion, deprivation and injustice. There is therefore an obligation to engage in knowledge-based policy-making, to find out what the situation of women and men are, rather than assume that it is irrelevant to  do  so.  It  involves  the  integration  of  a  gender  perspective  at  all  stages  of  the  policy process. A supposedly neutral approach may in fact be biased in favour of men and may expect  that  women  conform  to  patterns  of  behaviour  which  are  in  fact  usual  male patterns and which are treated as the norm. It cannot be assumed that all women face the same conditions as men in the public sphere and that they benefit from the same
+The National Gender Policy Framework for Mauritius places an intrinsic value as well as an instrumental value on the achievement of gender equality and women's empowerment.
 
-privileges  and  facilities  as  men  in  the  private  household  or  family  sphere.  This  is particularly  so  because  historically  women  have  been  assigned  to  the  private  family sphere usually under men's control, while the public sphere has been and continue to be a male domain. Policies which lead to bias against women are based on an implicit or explicit assumption that the man is the money earner in the workplace and the woman is the consumer in the home and as the physical bearer of their children, is also their carer and  their  parents'  carers,  and  that  all  men  and  women  live  these  conjugal  lives throughout their lives. In substance and reality, these arrangements may be diverse, and may  be  evolving  rapidly.  When  these  arrangements  do  exist,  they  may  tend  to perpetuate the existing inequitable relationships between women and men. Equality of treatment only prevails when the existence of differences, disparities,  and  the  nature  of  gender  relations  have  been  examined  and  relevant measures  are  then  taken  to  ensure  equality  in  terms  of  opportunity  and  in  terms  of outcomes. It prevails also when steps are taken to confront stereotypes about what men and women can and should do and which limit their potential.
+### Substantive as well as formal equality.
+
+The National Gender Policy Framework is based on the understanding that formal equality is not tantamount to substantive equality. It calls for an explicit analysis of the substantive and real conditions facing women and men in any development situation.
+
+Development actors and practitioners cannot assume a priori, that they are treating everybody the same, without distinction of sex, age, family status, colour, religion, ethnic affiliation and sexual orientation.
+
+This is because treating people as if they were the same, when in fact they are not, can cause bias, prejudice and de facto discrimination. What is important is not just intention but actual outcomes. The unintended outcome can be perverse. It can lead to a violation of human rights and a state of disempowerment, exclusion, deprivation and injustice.
+
+There is therefore an obligation to engage in knowledge-based policy-making, to find out what the situation of women and men are, rather than assume that it is irrelevant to do so. It involves the integration of a gender perspective at all stages of the policy process.
+
+A supposedly neutral approach may in fact be biased in favour of men and may expect that women conform to patterns of behaviour which are in fact usual male patterns and which are treated as the norm. It cannot be assumed that all women face the same conditions as men in the public sphere and that they benefit from the same privileges and facilities as men in the private household or family sphere. This is
 
 15
 
@@ -264,17 +335,25 @@ privileges  and  facilities  as  men  in  the  private  household  or  family  s
 
 [[START OF PAGE 17]]
 
-It  means  that  state  and  non  state  actors  have  to  ensure  that  they  have  taken steps to understand the situation of women and men in their respective domains, both in terms of their objective situation and in terms of their subjective insights and perspective into their own situation.
+particularly so because historically women have been assigned to the private family sphere usually under men's control, while the public sphere has been and continue to be a male domain. Policies which lead to bias against women are based on an implicit or explicit assumption that the man is the money earner in the workplace and the woman is the consumer in the home and as the physical bearer of their children, is also their carer and their parents' carers, and that all men and women live these conjugal lives throughout their lives. In substance and reality, these arrangements may be diverse, and may be evolving rapidly. When these arrangements do exist, they may tend to perpetuate the existing inequitable relationships between women and men.
+
+Equality of treatment only prevails when the existence of differences, disparities, and the nature of gender relations have been examined and relevant measures are then taken to ensure equality in terms of opportunity and in terms of outcomes.
+
+It prevails also when steps are taken to confront stereotypes about what men and women can and should do and which limit their potential.
+
+It means that state and non state actors have to ensure that they have taken steps to understand the situation of women and men in their respective domains, both in terms of their objective situation and in terms of their subjective insights and perspective into their own situation.
 
 ### Gender differences among men and among women.
 
-The  National  Gender  Policy  Framework  operates  under  the  principle  that women,  as  men, cannot  be  treated  as  a  homogeneous  category .  This  principle needs to inform all policies and programmes in order to make them gender-responsive. Differences  among women and among men based on ethnicity, sexuality, disability, age that  are  more embodied on the one hand and other more socio economic variables education,  marital  status,  income,  health,  location-  should  not  be  overlooked.  Policies and programmes, which want to develop a more finely targeted approach have to be sensitive about the differences among men and among women when addressing other issues: The experience of poverty and the dynamics leading to poverty may not be the same for women and men. But not all women and not all men are poor. Ageing and disability  is  not  experienced  in  the  same  way  by  women  and  men.  But  equally,  the situation of young and elderly women is not the same, of married and unmarried women is also not the same.
+The National Gender Policy Framework operates under the principle that women, as men, cannot be treated as a homogeneous category. This principle needs to inform all policies and programmes in order to make them gender-responsive. Differences among women and among men based on ethnicity, sexuality, disability, age that are more embodied on the one hand and other more socio economic variables –
 
 16
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
+
+education, marital status, income, health, location- should not be overlooked. Policies and programmes, which want to develop a more finely targeted approach have to be sensitive about the differences among men and among women when addressing other issues: The experience of poverty and the dynamics leading to poverty may not be the same for women and men. But not all women and not all men are poor. Ageing and disability is not experienced in the same way by women and men. But equally, the situation of young and elderly women is not the same, of married and unmarried women is also not the same.
 
 This principle means that all sectoral interventions have to be sensitive to gender differences, which include differences among men and among women.
 
@@ -352,7 +431,7 @@ A  coordinated,  cooperative  and  overarching  approach  is  needed  to  addres
 
 [[START OF PAGE 22]]
 
-### Taking into account unpaid, non -market work and achieving genderequitable work-life balance.
+### Taking into account unpaid, non –market work and achieving gender-equitable work-life balance.
 
 The National Gender Policy Framework is based on an understanding that the social  and  economic  dimensions  are  mutually  supportive. Women's  and  men's contributions  in  both  spheres,  how  one  sphere  contributes  to  the  other,  has  to  be explicitly  accounted  for,  recognised,  valued  and  become  more  balanced.  Time  spent caring for children and loved ones has two dimensions. It is valued for its own sake. But such unpaid work together with domestic tasks and household maintenance is also part of social reproduction, without which economic production cannot take place and without which the social fabric that sustains families, communities and psychological well-being cannot be maintained. While it yields benefits to the recipients and the wider society, the unpaid, taken for granted, work generates costs for the carer, usually women, in terms of activities  and  prospects  sacrificed  and  potential  unfulfilled  over  a  lifetime.  These interactions have to be considered in a holistic way in crafting development interventions designed  to  achieve  both  social  and  economic  transformation  in  a  gender-balanced manner.  Men and women have rights and responsibilities in both spheres and family responsibilities  cannot  be  ascribed  to  women  only.  Achieving  work-life  balance  and gender  balance  in both spheres  are both sides of the same  coin. Such  an understanding has to permeate social and economic policies.
 
@@ -372,7 +451,7 @@ All  sectoral  entities  and  organisations  are  invited  to  refer  to  the  n
 
 This commitment to a rights-based framework carries an obligation of conduct as well as an obligation of results: how to carry out interventions and allocate expenditure equitably and what to seek to achieve. Both obligations focus on elimination of de facto discrimination and on substantive equality.
 
-All state and parastatal entities need to develop a strategic framework to guide resource  mobilisation  and  the  allocation  of  these  scarce  resources  and  to  inform  the regulations  they  put  in  place.  In  reviewing/developing  this  strategic  framework  in  the context of switching to a medium-term expenditure framework[MTEF] and performancebased  budgeting[PBB],  they  need  to  specify  the  policy  framework  concerning  gender equality and women's empowerment  in their respective sectors, consider their responsibility to  implement effectively legislation and plans of action concerning gender equality, in order to guide resource allocation..
+All state and parastatal entities need to develop a strategic framework to guide resource mobilisation and the allocation of these scarce resources and to inform the regulations they put in place. In reviewing/developing this strategic framework in the context of switching to a medium-term expenditure framework[MTEF] and performance-based budgeting[PBB], they need to specify the policy framework concerning gender equality and women's empowerment in their respective sectors, consider their responsibility to implement effectively legislation and plans of action concerning gender equality, in order to guide resource allocation..
 
 ### A gender-responsive strategic framework for resource allocation and service delivery. First steps: Situation analysis and impact assessments.
 
@@ -414,7 +493,7 @@ Disaggregation  by  sex  is  one  component  of  a  gender-responsive  informati
 
 [[START OF PAGE 26]]
 
-Micro data and administrative data also need to be disaggregated to the lowest possible  level  of  decision-making  and  to  take  into  account  the  differences  in  contexts and  the  fact  that  women  as  men  cannot  be  treated  as  a  homogeneous  category.  It cannot be assumed that what applies in one area can be generalised to other areas: the situation  of  women  and  men  in  Rodrigues  island  and  Mauritius  island,  of  urban,  periurban  and  rural  areas  and  districts  cannot  be  presumed  to  be  the  same,  because location  interacts  with  other  economic  and  socio  cultural  variables,  and  can  produce different profiles and patterns of exclusion, substantive discrimination and opportunity.
+Micro data and administrative data also need to be disaggregated to the lowest possible level of decision-making and to take into account the differences in contexts and the fact that women as men cannot be treated as a homogeneous category. It cannot be assumed that what applies in one area can be generalised to other areas: the situation of women and men in Rodrigues island and Mauritius island, of urban, peri-urban and rural areas and districts cannot be presumed to be the same, because location interacts with other economic and socio cultural variables, and can produce different profiles and patterns of exclusion, substantive discrimination and opportunity.
 
 Such an information system is important for policy formulation, programming and budgeting, monitoring and impact assessment purposes.
 
@@ -422,9 +501,9 @@ Micro data and administrative data need to be combined to assess whether the int
 
 At the macro level, the information system needs over time to be able to model interactions among different economic and social sectors and environmental processes. Such interactions are particularly  important  in  the  vulnerable  context  of  a  small  island developing state such as Mauritius [SIDS]. They can be modelled through the building of satellite  accounts  to  the  System  of  National  Accounts.  Such  satellite  accounts  can include one for unpaid labour, based on data on the time use of women, men girls and boys.  Social  accounting  matrices  which  include  time  spent  on  unpaid  work  and  on leisure can inform on the differential impact of  policies.
 
-### Formulating gender -responsive outcome objectives.
+### Formulating gender –responsive outcome objectives.
 
-The National Gender Policy Framework builds on several decades of experience nationally, regionally and globally over the best means to achieve gender equality. There are two broad, interrelated approaches: One is to institutionalise a gender perspective, applying a gender analysis to all sectors of development intervention and throughout the policy  cycle  and  processes.  The  other  is  to  develop  specific  positive  and  affirmative actions within and coordinated across sectors to correct and mitigate for current gender disadvantages which have been accumulated historically. Both types of intervention are necessary  and  complementary  for  attaining  gender  equality  and  for  effectiveness  in achieving other policy objectives.
+The National Gender Policy Framework builds on several decades of experience nationally, regionally and globally over the best means to achieve gender equality. There are two broad, interrelated approaches: One is to institutionalise a gender perspective, applying a gender analysis to all sectors of development intervention and throughout the policy cycle and processes. The other is to develop specific positive and affirmative
 
 25
 
@@ -432,7 +511,9 @@ The National Gender Policy Framework builds on several decades of experience nat
 
 [[START OF PAGE 27]]
 
-The situation analysis and the relevant development standards can identify what the gaps are and what the development challenges are. The next step is to formulate the outcome objective, concerning the gap to be closed and to develop the strategies and interventions  needed  to  close  the  gap.  Is  the  expenditure  adequate  to  reduce  gender equality and achieve other objectives?
+actions within and coordinated across sectors to correct and mitigate for current gender disadvantages which have been accumulated historically. Both types of intervention are necessary and complementary for attaining gender equality and for effectiveness in achieving other policy objectives.
+
+The situation analysis and the relevant development standards can identify what the gaps are and what the development challenges are. The next step is to formulate the outcome objective, concerning the gap to be closed and to develop the strategies and interventions needed to close the gap. Is the expenditure adequate to reduce gender equality and achieve other objectives?
 
 ### Working out the related chain of results in an iterative process.
 
@@ -440,7 +521,7 @@ To find this out, one needs to go beyond inputs in order to work out the require
 
 This can be arrived at through an iterative process, which is both top-down and bottom-up :  The  bottom-up  approach  is  to  work  out  why  the  gaps  exist  and  what different options exist to close them. In other words, what outputs and interventions are needed to address them, as if there was no financial resource constraint. The top-down approach  is  to  work  within  the  hard  budget  envelope  assigned  to  the  sector.  Such  a constraint necessarily involves ranking, phasing among competing alternatives as well as  identifying  complementary  interventions;  costing  and  choosing  among  options.  It means being clear what the policy priorities are and what are the gains and losses under different scenarios.
 
-The  National  Gender  Policy  Framework  states  that  interventions  in  the  worst case  should  not  worsen  gender  inequality.  The  '  do-nothing  scenario'  has  to  assess what are the costs in terms of perpetuatingender inequality. The different options should be transparent and form the basis of policy dialogue and negotiation.
+The National Gender Policy Framework states that interventions in the worst case should not worsen gender inequality. The “ do-nothing scenario” has to assess what are the costs in terms of perpetuating gender inequality. The different options should be transparent and form the basis of policy dialogue and negotiation.
 
 ### Including measures for gender equality among priorities for public expenditure.
 
@@ -458,7 +539,7 @@ The  ways  in  which  the  state  mobilises  resources  through  taxes  on  inco
 
 These  considerations  need  to  be  at  the  heart  of  decisions  concerning  fiscal policy, to determine the fiscal space, the size of the resource envelope, the criteria for its allocation among sectors as well as within sectors over the medium and longer term.
 
-> 2 These exist when the effect of one party's s action on another party is not taken into account reflected in calculating market prices and costs, so that social costs and/or social benefits can be higher than private costs and benefits. Positive externalities such as the benefits of women's education on children's nutrition and education are in fact transmitted through gender relations.
+> 2 These exist when the effect of one party's action on another party is not taken into account or reflected in calculating market prices and costs, so that social costs and/or social benefits can be higher than private costs and benefits. Positive externalities such as the benefits of women's education on children's nutrition and education are in fact transmitted through gender relations.
 
 27
 
@@ -476,7 +557,7 @@ The determinants of factors  which  create  development  problems  in  one  sect
 
 Outcomes  and  impacts  cannot  be  attributed  to  any  entity  because  several external factors may intervene to contribute to them or frustrate them. For this reason, organisations  can  only  take  responsibility  for  outputs,  which  are  within  their  span  of control.
 
-However  these  outputs  have  to  be  outcome-focused  and  the  links  leading  to them  have  to  be  specified.  For  instance,  how  outputs  or  outcomes  are  framed  is particularly important. What is the meaningful development problem for women and for men?: Is the focus on building roads, or on reducing congestion or on reducing travel time and then for whom, to what extent?  And with what results in terms of impacts and for whom? How can the chain of results be specified and how can indicators of having achieved these objectives be produced and with what costs. If travel time is the issue then other strategies can also be used not just transport ones. Building roads no matter how efficiently and at least cost can have the perverse result of increasing congestion, if it encourages even more cars on the roads.
+However these outputs have to be outcome-focused and the links leading to them have to be specified. For instance, how outputs or outcomes are framed is particularly important. What is the meaningful development problem for women and for men?: Is the focus on building roads, or on reducing congestion or on reducing travel time and then for whom, to what extent? And with what results in terms of impacts and for whom? How can the chain of results be specified and how can indicators of having achieved these objectives be produced and with what costs. If travel time is the issue then other strategies can also be used not just transport ones. Building roads no matter
 
 28
 
@@ -484,7 +565,9 @@ However  these  outputs  have  to  be  outcome-focused  and  the  links  leading
 
 [[START OF PAGE 30]]
 
-Clarity about objectives and outcomes and about priorities is thus essential. And both equity and efficiency considerations have to be taken into account. It is not enough to  switch  from  input-based  budgeting  to  outpus-based  budgeting  in  a  multi-year  time period.
+how efficiently and at least cost can have the perverse result of increasing congestion, if it encourages even more cars on the roads.
+
+Clarity about objectives and outcomes and about priorities is thus essential. And both equity and efficiency considerations have to be taken into account. It is not enough to switch from input-based budgeting to outpus-based budgeting in a multi-year time period.
 
 Social responsibility entails clarity about outcomes. It is no longer sufficient and acceptable to just deliver services and let events take their course, without feeling any responsibility for actual outcomes. It is on the basis of these outcomes that resources can justifiably be allocated to particular budgetary entities and organisations.
 
@@ -496,13 +579,15 @@ Providing  budget  information  in  the  form  of    gender-sensitive  objective
 
 ### Gender-responsive costing and budgeting of development interventions.
 
-Costing  needs  to  take  into  account  total  resource  costs.  This  means  that  the costs of unpaid labour in the household and voluntary services to the community have to be explicitly taken into account. A cost reduction, and thus economy measure, has to be really about reducing costs and should not in fact be an exercise which shifts costs from one sector to another and has unrecognised, unrecorded, undesirable impacts across many other sectors. Such an economy measure carries cost in terms of effectiveness. Time use data can generate information about such costs of unpaid labour. For instance, reducing time spent convalescing in hospitals carries costs in terms of caring services in the  home,  which  may  in  fact  lead  to  inability  of  the  unpaid  carer  to  work  as  well  as increase stress.
+Costing needs to take into account total resource costs. This means that the costs of unpaid labour in the household and voluntary services to the community have to be explicitly taken into account. A cost reduction, and thus economy measure, has to be really about reducing costs and should not in fact be an exercise which shifts costs from one sector to another and has unrecognised, unrecorded, undesirable impacts across many other sectors. Such an economy measure carries cost in terms of effectiveness. Time use data can generate information about such costs of unpaid labour. For instance, reducing time spent convalescing in hospitals carries costs in terms of caring services in
 
 29
 
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
+
+the home, which may in fact lead to inability of the unpaid carer to work as well as increase stress.
 
 ### Gender-responsive monitoring and evaluation: reporting on commitments.
 
@@ -532,7 +617,7 @@ The legislature is responsible for ensuring the appropriate legislative framewor
 
 The executive as a whole takes collective responsibility to translate international commitments and legislative provision into policy priorities and leadership in demonstrating  clear  and  unambiguous  commitment  and  accountability  for  achieving gender equality.
 
-There  is  a  national  machinery,  a  Gender  Management  System  [GMS]  that manages the integration of a gender approach in the formulation, implementation and monitoring  of  policies,  programmes,  activities  and  budgets  The  lead  agency  for  this integration is the Ministry of Women's Rights, Child Development, Family Welfare and Consumer  Protection  [MWRCDFWCP].  It  is  responsible  for  overall  reporting  and monitoring  of  the  application  of  the  strategies  for  achieving  gender  equality.  Such  a responsibility is too vast to be placed on the shoulders of MWRDFWCP alone, with the resources it actually has.
+There is a national machinery, a Gender Management System [GMS] that manages the integration of a gender approach in the formulation, implementation and monitoring of policies, programmes, activities and budgets The lead agency for this integration is the Ministry of Women's Rights, Child Development, Family Welfare and Consumer Protection [MWRCDFWCP]. It is responsible for overall reporting and monitoring of the application of the strategies for achieving gender equality. Such a
 
 31
 
@@ -540,13 +625,15 @@ There  is  a  national  machinery,  a  Gender  Management  System  [GMS]  that m
 
 [[START OF PAGE 33]]
 
-The development of a strategic framework includes a strategic planning exercise to clarify and match the mandates and missions with the organisational, technical and financial  means  to  operate  efficiently.  A  test  of  the  sincerity  of  purpose  of  a  national gender policy has to be that sufficient and appropriate resources are allocated for the organisation responsible for taking the lead on gender equality as well as units of other organisations.
+responsibility is too vast to be placed on the shoulders of MWRDFWCP alone, with the resources it actually has.
+
+The development of a strategic framework includes a strategic planning exercise to clarify and match the mandates and missions with the organisational, technical and financial means to operate efficiently. A test of the sincerity of purpose of a national gender policy has to be that sufficient and appropriate resources are allocated for the organisation responsible for taking the lead on gender equality as well as units of other organisations.
 
 Other central ministries also form part of the GMS to the extent of their mandate and responsibilities. They are responsible for setting norms of conduct for state policy processes,  as  well  as  the  regulatory  framework  and  contractual  arrangements  under which public and private partnerships are created. Explicitly ensuring that these norms and frameworks are gender-inclusive and gender-responsive is part of their remit.
 
 Central ministries  such  as  the  Ministry  of  Finance  and  Economic  Development [MOFED], the Ministry for Civil Service Affairs and Administrative Reform[MCSAAR], are respectively responsible for overseeing the articulation of policy, planning and budgeting on  the  one  hand,  and  governance,  human  resource  management  and  development policies and performance management systems in the public sector on the other hand. The  onus  to  make  such  changes  in  public  financial  management  and  public  sector management is on them as well as the need to ensure that they are gender-responsive.
 
-The National Gender Policy applies the principle of cooperation to consider that a strategic partnership is  the most effective way of consolidating institutional resources for  achieving  gender  equality.  A  the  central  level, MOFED and MCSAAR can be the strategic  partners  of  the  MWRCDFWCP in  developing  and  supporting  genderresponsive  systems  and  policy  processes,  especially  in  the  context  of  public  sector
+The National Gender Policy applies the principle of cooperation to consider that a strategic partnership is the most effective way of consolidating institutional resources for achieving gender equality. A the central level, MOFED and MCSAAR can be the strategic partners of the MWRCDFWCP in developing and supporting gender-responsive systems and policy processes, especially in the context of public sector
 
 reform.
 
@@ -558,7 +645,7 @@ The strategic partners need to develop the technical and organisational capacity
 
 [[START OF PAGE 34]]
 
-Line  ministries  and  sectoral  agencies  are  responsible  for  developing  genderresponsive,  policies,  programmes  and  budgets,  within  their  sectoral  and  functional scope,  with  the  support  of  the  central  ministries.  They  are  also  responsible  for generating sex-disaggregated administrative data for gender-responsive planning, implementing and monitoring of their interventions.
+Line ministries and sectoral agencies are responsible for developing gender-responsive, policies, programmes and budgets, within their sectoral and functional scope, with the support of the central ministries. They are also responsible for generating sex-disaggregated administrative data for gender-responsive planning, implementing and monitoring of their interventions.
 
 Gender  focal  points[GFPs]  have  been  identified  at  the  administrative  and technical levels within each organisation, as part of the GMS. So far, their ability to make significant  inroads  in  the  practices  and  mindsets  within  their  respective  organisations, has been limited. It is an indicator of the low priority hitherto assigned to the issue of gender.  However,  as  a  group  GFPs,  to  the  extent  that  there  is  continuity  in  their nomination, have learned as a group and  they value the networking and opportunities for acquiring knowledge and exchanging know-how.
 
@@ -566,7 +653,7 @@ The  National  Gender  Policy  Framework  considers  that GFPs can  evolve  as k
 
 This community of practice needs to be supported by gender expertise through a network of external advisors,   academic, research and policy analysis institutions  and think tanks.
 
-The Central Statistical Office has the responsibility for taking the lead in setting up  and  supporting  user-producer  networks  of  statistics, for incorporating  gender expertise  within  its  multi-disciplinary  teams,  for  supporting  the  production  of  gendersensitive  indicators  and  for  developing  over  time  the  statistical  capacity  so  that  it  is progressively able to build accounts of the interactions between economy, environment, society from a gender-informed perspective.
+The Central Statistical Office has the responsibility for taking the lead in setting up and supporting user-producer networks of statistics, for incorporating gender expertise within its multi-disciplinary teams, for supporting the production of gender-sensitive indicators and for developing over time the statistical capacity so that it is progressively able to build accounts of the interactions between economy, environment, society from a gender-informed perspective.
 
 33
 
@@ -588,13 +675,27 @@ This  cell  or  technical  centre  of  responsibility  has  the  task  of  foste
 
 The management and supervisory skills of staff at all levels have to be developed to include their sensitivity to gender equality issues.
 
-The  mainstreaming  of  gender  equality  considerations  requires  a  mix  of  skills within  the  organisation:  the  ability  to  analyse,  to  network,  to  have  a  baseline understanding  of  socio-economic  and  gender  issues,  to  manage  change  as  well  as specialist  thematic  gender expertise and knowledge of sources of gender expertise at country,  regional and global levels. Those responsible for service delivery and transfers to individuals and households need not to lose sight of their users and clients and need to be encouraged to develop inter-personal and communication skills which are sensitive to their gender-based differences and potential disadvantages. Appropriate  incentive  systems  and  capacity  development  need  to  be  put  into place to facilitate this process. A large part of this task falls under the responsibility of MCSAAR, and related  agencies  which  deliver  capacity  development  for  public  sector managers. Specific  gender  competencies  and  tasks  related  to  the  application  of  gender mainstreaming need to be included in the definition of performance, in the development of  work  plans  and  in  performance  appraisal.  Gender-related  skills  and  tasks  can  no longer be relegated to subordinate positions and voluntary, ad-hoc work on top of other more formally-recognised tasks. The specific skills required depend on the substantive jobs,  and  staff  members  need  opportunities  to  learn/acquire  the  skills  relative  to  their particular work roles. Men are strongly encouraged to develop such skills and to champion the cause of gender equality, to become role models for transforming the ethos and culture of their organisations. Human resource policies need to be developed to ensure that the principle  of gender  parity  or  gender  balance  in  management  and  decision-making posts  is achieved as early as possible. At the same time, supportive human resource management strategies have to be devised  which  take  into  account  the life-patterns  of  women  and  men  with  family responsibilities and to provide for decent work principles  This include working hours, travel arrangements and other conditions of service, including arrangements for flexitime and provisions for child care. An empowering  organisation is  a  pre-condition  for  the  mainstreaming  of gender equality considerations. It needs to eliminate disempowering rules, practices and behaviour, and to ensure that all women and men staff have the capacity to negotiate effectively and to contribute with full creativity to the dynamism of development. Organisations  have  to  develop  own  gender-sensitive  and  equal  opportunity policies  within  which  take  into  account  their  members  of  staff's  rights  as  well  as
+The mainstreaming of gender equality considerations requires a mix of skills within the organisation: the ability to analyse, to network, to have a baseline understanding of socio-economic and gender issues, to manage change as well as specialist thematic gender expertise and knowledge of sources of gender expertise at country, regional and global levels. Those responsible for service delivery and transfers
 
 34
 
 [[END OF PAGE 35]]
 
 [[START OF PAGE 36]]
+
+to individuals and households need not to lose sight of their users and clients and need to be encouraged to develop inter-personal and communication skills which are sensitive to their gender-based differences and potential disadvantages.
+
+Appropriate incentive systems and capacity development need to be put into place to facilitate this process. A large part of this task falls under the responsibility of MCSAAR, and related agencies which deliver capacity development for public sector managers.
+
+Specific gender competencies and tasks related to the application of gender mainstreaming need to be included in the definition of performance, in the development of work plans and in performance appraisal. Gender-related skills and tasks can no longer be relegated to subordinate positions and voluntary, ad-hoc work on top of other more formally-recognised tasks. The specific skills required depend on the substantive jobs, and staff members need opportunities to learn/acquire the skills relative to their particular work roles. Men are strongly encouraged to develop such skills and to champion the cause of gender equality, to become role models for transforming the ethos and culture of their organisations.
+
+Human resource policies need to be developed to ensure that the principle of gender parity or gender balance in management and decision-making posts is achieved as early as possible.
+
+At the same time, supportive human resource management strategies have to be devised which take into account the life-patterns of women and men with family responsibilities and to provide for decent work principles This include working hours, travel arrangements and other conditions of service, including arrangements for flexitime and provisions for child care.
+
+An empowering organisation is a pre-condition for the mainstreaming of gender equality considerations. It needs to eliminate disempowering rules, practices and behaviour, and to ensure that all women and men staff have the capacity to negotiate effectively and to contribute with full creativity to the dynamism of development.
+
+Organisations have to develop own gender-sensitive and equal opportunity policies within which take into account their members of staff's rights as well as
 
 35
 
@@ -604,17 +705,15 @@ The  mainstreaming  of  gender  equality  considerations  requires  a  mix  of  
 
 obligations, under existing legislations and regulations. This means a transformation of organisational  culture which  is  gender-inclusive  and  does  not  have  predominantly masculine or feminine management cultures. All codes of practice and ethics need to be revisited and make explicitly gender-sensitive.
 
-Within each organisation, policies regarding sexual harassment have to be put in place    which  are  binding  for  all  members  of  staff,    which  sets  clear  rules  and unambiguous signals of a policy of zero-tolerance for sexual harassment, for all forms of gender-based violence and images and practices which are demeaning and insulting to
+Within each organisation, policies regarding sexual harassment have to be put in place which are binding for all members of staff, which sets clear rules and unambiguous signals of a policy of zero-tolerance for sexual harassment, for all forms of gender-based violence and images and practices which are demeaning and insulting to women.
 
-These transformations have to be undertaken, like the drafting of gender policies, in  a  participatory  manner,  favouring  dialogue,  identifying  resistance  and  facilitating
-
-women. change.
+These transformations have to be undertaken, like the drafting of gender policies, in a participatory manner, favouring dialogue, identifying resistance and facilitating change.
 
 The required resources to apply such standards of gender-responsive programme  formulation  and  delivery  and  gender-inclusive  organisational  development have to be explicitly  included  in  implementation  plans  costed  and  budgeted  for.  In  no way  should  the  gender  policy  document  be  a  symbolic  a  wish  list  unconnected  with resources to implement it.
 
 ### Multistakeholder outreach strategies for achieving gender equality and women's empowerment: a local  and participatory approach .
 
-The Ministry of Women's  Rights, Child Development, Family Welfare & Consumer  Protection  provides  outreach  activities  and  service  delivery  to  women, children, families as separate social groups and categories. It has dedicated units and programmes for each of these categories. At the same time, within the same localities or districts,  there  are  other  ministries,  NGOs  district  councils and  municipalities  providing outreach activities and services delivery in various sectors: community  centres, counselling services on sexual and reproductive health, on family planning and marital counselling, parent and teachers' association, youth clubs and sports clubs, in addition to  family  centres  and  women  centres.  There  are  also  programmes  which  are  not location-specific, but which focus on overlapping target groups, such as the Empowerment  Programme,  which  focuses  partly  on  unemployed  women  and  young persons.
+The Ministry of Women's Rights, Child Development, Family Welfare & Consumer Protection provides outreach activities and service delivery to women, children, families as separate social groups and categories. It has dedicated units and programmes for each of these categories. At the same time, within the same localities or districts, there are other ministries, NGOs district councils and municipalities providing outreach activities and services delivery in various sectors: community centres, counselling services on sexual and reproductive health, on family planning and marital counselling, parent and teachers' association, youth clubs and sports clubs, in addition to family centres and women centres. There are also programmes which are not
 
 36
 
@@ -622,7 +721,9 @@ The Ministry of Women's  Rights, Child Development, Family Welfare & Consumer  P
 
 [[START OF PAGE 38]]
 
-The  MWRCDFWCP  also  oversees  and  supports  organisations  such  as  the National Women's Council, which is an organisation catering for women's associations and the National Women Entrepreneur Council.
+location-specific, but which focus on overlapping target groups, such as the Empowerment Programme, which focuses partly on unemployed women and young persons.
+
+The MWRCDFWCP also oversees and supports organisations such as the National Women's Council, which is an organisation catering for women's associations and the National Women Entrepreneur Council.
 
 There is recognition of the need to rationalise and coordinate such structures and programmes  and  adapt  them  to  changing  needs  and  priorities.  Specifically,  women's centres'  programmes  have  been  historically  focused  on  a  stereotypical  model  of women's  role  in  the  family  as  home-makers  and  also  on  building  women's  skills  in women-specific stereotypical areas. Opening hours, the focus on physical centres, the content  of  courses  and  nature  activities  may  no  longer  be  adapted  to  the  needs  of different women and men in specific localities.
 
@@ -630,7 +731,7 @@ The National Gender Policy Framework considers that such outreach activities hav
 
 The  approach  from  service-providers  should  be  based  on  the  principles  of cooperation and the outcome-focus, and on the cross-cutting and holistic approach to gender equality.  It  encourages  such  agencies,  starting  from  MWRCDFWCP  to  set  up partnerships with other ministries and agencies and develop programmes based on the same  principles  and  operational  guidelines  of  this  framework  targeted  to  specific localities and  starting from areas where  there is relatively  more  exclusion  and deprivation.
 
-A web of services of proximity, involving diverse stakeholders and including the media, in particular local radio, breaks down social isolation and exclusion, fragmentation  and  polarisation.  It  makes  for  safer  and  more  inclusive  and  vibrant neighbourhood s,  in  which  social  and  environmental  issues  can  be  addressed  and potential conflicts resolved and more participatory forms of development nurtured.
+A web of services of proximity, involving diverse stakeholders and including the media, in particular local radio, breaks down social isolation and exclusion, fragmentation and polarisation. It makes for safer and more inclusive and vibrant neighbourhoods, in which social and environmental issues can be addressed and potential conflicts resolved and more participatory forms of development nurtured.
 
 37
 
@@ -654,11 +755,11 @@ The past economic growth of Mauritius, from sugar, tobacco and tea plantations a
 
 [[START OF PAGE 40]]
 
-A  low-cost  approach  to  global  competitiveness    in  fact  means  for  workers particularly, the suspension of their daily household family commitments such that they are  lower  cost  and  more  available  as  migrants.  Even  with  the  cumulation  of  paid  and unpaid  workloads,  taking  shortcuts    in  provisioning  for  the  family  through    fast  food consumption  and  bought  services  and  the  cutting  back  to  the  minimum  on  timeconsuming extended-  family  obligations  necessary  to  sustain  lifetime  social  insurance and  social  networks,  there  can  be  no  competition  between  Mauritian  workers  and migrant  workers.      The  low  road  is  now  no  longer  open  to  Mauritius  as  it  cannot  be competitive in the global 'race to the bottom', in terms of both labour and environmental standards.
+A low-cost approach to global competitiveness in fact means for workers particularly, the suspension of their daily household family commitments such that they are lower cost and more available as migrants. Even with the cumulation of paid and unpaid workloads, taking shortcuts in provisioning for the family through fast food consumption and bought services and the cutting back to the minimum on time-consuming extended- family obligations necessary to sustain lifetime social insurance and social networks, there can be no competition between Mauritian workers and migrant workers. The low road is now no longer open to Mauritius as it cannot be competitive in the global 'race to the bottom', in terms of both labour and environmental standards.
 
-The 'high road' to competitiveness, based on niches, knowledge and innovation provides a more conducive environment for gender equality and should build on the high and  increasing  capabilities  of  young  and  more  educated  women.  It  is  now  time  for private  sector  organisations  to  create  an  enabling  environment  for  making  use  of  the potential and talents of women as well as men and develop human resource strategies that  allows  for  family-friendly  policies,  even  in  the  context  of  24-hour  .  IT-based  and outsourcing organisations, for career-paths that take into account the time-use and lifepatterns of  women and the responsibilities for child- care, and provide for more genderbalanced responsibilities. Such arrangements need to be developed in partnership with state and other actors.
+The 'high road' to competitiveness, based on niches, knowledge and innovation provides a more conducive environment for gender equality and should build on the high and increasing capabilities of young and more educated women. It is now time for private sector organisations to create an enabling environment for making use of the potential and talents of women as well as men and develop human resource strategies that allows for family-friendly policies, even in the context of 24-hour . IT-based and outsourcing organisations, for career-paths that take into account the time-use and life-patterns of women and the responsibilities for child- care, and provide for more gender-balanced responsibilities. Such arrangements need to be developed in partnership with state and other actors.
 
-Mauritius can choose to export some of its work force to take advantage of the 'crisis  of  care'  in  advanced  industrial  and  ageing  societies.  But  it  has  to  continue  to make  Mauritius  an  attractive  and  safe  place  to  live  and  do  business  in  order  to encourage  foreign  investment,  foreign  residents,  tourism  and  the  influx  of  skilled workers. It is also an ageing society. So there is a limit to externalising or passing on the costs of doing business. Sooner or later, these passed- on costs erode the economic base  itself.    These  costs  are  the  rise  in  crime,  of  substance  abuse,  delinquency,  of gender-based  violence,  violence  at  school,  child  abuse  and  the  neglect  of  children, which are manifestations of a home-grown 'crisis of care'. While there is awareness of the  environmental  limits  to  economic  growth  to  a  certain  extent,  there  is  greater blindness  over  the  social  limits  to  growth.  Short-term,  short-sighted  and  self-centered approaches  are  rapidly  self-defeating.  It  is  no  longer  an  option  to  revert  to  the  male bread-winner model in which women do all the care work and socialisation of children in the seclusion of the family cell.
+Mauritius can choose to export some of its work force to take advantage of the 'crisis of care' in advanced industrial and ageing societies. But it has to continue to make Mauritius an attractive and safe place to live and do business in order to encourage foreign investment, foreign residents, tourism and the influx of skilled workers. It is also an ageing society. So there is a limit to externalising or passing on the costs of doing business. Sooner or later, these passed- on costs erode the economic base itself. These costs are the rise in crime, of substance abuse, delinquency, of gender-based violence, violence at school, child abuse and the neglect of children, which are manifestations of a home-grown 'crisis of care'. While there is awareness of the environmental limits to economic growth to a certain extent, there is greater blindness over the social limits to growth. Short-term, short-sighted and self-centered
 
 39
 
@@ -666,7 +767,9 @@ Mauritius can choose to export some of its work force to take advantage of the '
 
 [[START OF PAGE 41]]
 
-It  is  thus  important  for  private  business  to  subscribe  to  the  principle  of  the National  Gender  policy  Framework  that  social  and  economic  dimensions  are  mutually supportive and that both social costs and benefits have to be considered for economic growth to be sustainable and viable.
+approaches are rapidly self-defeating. It is no longer an option to revert to the male bread-winner model in which women do all the care work and socialisation of children in the seclusion of the family cell.
+
+It is thus important for private business to subscribe to the principle of the National Gender policy Framework that social and economic dimensions are mutually supportive and that both social costs and benefits have to be considered for economic growth to be sustainable and viable.
 
 Revisioning development along a high road involves opening the eyes and minds to the gender-based nature of economic and social arrangements. It means  practically forging  new  social  and  economic  arrangements  which  are  more  gender-equitable  but which are also more effective in promoting economic development.
 
@@ -692,11 +795,9 @@ Political parties have  a  special responsibility to fast track strategies  and 
 
 Across  parties  and  within  Parliament,  there  needs  to  be  a  zero-tolerance  of language and behaviour that is abusive and demeaning to women, and personal attacks on candidates that explicitly reveal an anti-women bias.
 
-Manifestoes and programmes need to include explicit reference to their position regarding gender equality and women's empowerment, across all thematic and sectoral
+Manifestoes and programmes need to include explicit reference to their position regarding gender equality and women's empowerment, across all thematic and sectoral areas.
 
-areas. Candidates, male and female, need to be briefed on policies regarding gender
-
-equality and women's empowerment.
+Candidates, male and female, need to be briefed on policies regarding gender equality and women's empowerment.
 
 ### Civil Society Organisations.
 
