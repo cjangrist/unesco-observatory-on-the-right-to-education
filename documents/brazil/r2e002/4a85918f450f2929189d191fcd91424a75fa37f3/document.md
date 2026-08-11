@@ -4,9 +4,18 @@
 
 L13146
 
+Presidência da República
+
+Secretaria-Geral
+Subchefia para Assuntos Jurídicos
+
+# LEI Nº 13.146, DE 6 DE JULHO DE 2015.
+
 Mensagem de veto
 
 Vigência
+
+Institui a Lei Brasileira de Inclusão da Pessoa com Deficiência (Estatuto da Pessoa com Deficiência).
 
 A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
 
@@ -18,15 +27,15 @@ A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu san
 
 #### CAPÍTULO I DISPOSIÇÕES GERAIS
 
-###### Art.  1º
-É  instituída  a  Lei  Brasileira  de  Inclusão  da  Pessoa  com  Deficiência  (Estatuto  da  Pessoa  com  Deficiência), destinada a assegurar e a promover, em condições de igualdade, o exercício dos direitos e das liberdades fundamentais por pessoa com deficiência, visando à sua inclusão social e cidadania.
+###### Art. 1º
+É instituída a Lei Brasileira de Inclusão da Pessoa com Deficiência (Estatuto da Pessoa com Deficiência), destinada a assegurar e a promover, em condições de igualdade, o exercício dos direitos e das liberdades fundamentais por pessoa com deficiência, visando à sua inclusão social e cidadania.
 
-Parágrafo único. Esta Lei tem como base a Convenção sobre os Direitos das Pessoas com Deficiência e seu Protocolo Facultativo,  ratificados  pelo  Congresso  Nacional  por  meio  do  Decreto  Legislativo  nº  186,  de  9  de  julho  de  2008  ,  em conformidade com o procedimento previsto no § 3º do art. 5º da Constituição da República Federativa do Brasil , em vigor para o Brasil, no plano jurídico externo, desde 31 de agosto de 2008, e promulgados pelo Decreto nº 6.949, de 25 de agosto de 2009 , data de início de sua vigência no plano interno.
+Parágrafo único. Esta Lei tem como base a Convenção sobre os Direitos das Pessoas com Deficiência e seu Protocolo Facultativo, ratificados pelo Congresso Nacional por meio do Decreto Legislativo nº 186, de 9 de julho de 2008 , em conformidade com o procedimento previsto no § 3º do art. 5º da Constituição da República Federativa do Brasil , em vigor para o Brasil, no plano jurídico externo, desde 31 de agosto de 2008, e promulgados pelo Decreto nº 6.949, de 25 de agosto de 2009 , data de início de sua vigência no plano interno.
 
 ###### Art. 2º
 Considera-se pessoa com deficiência aquela que tem impedimento de longo prazo de natureza física, mental, intelectual ou sensorial, o qual, em interação com uma ou mais barreiras, pode obstruir sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas.
 
-§  1º  A  avaliação  da  deficiência,  quando  necessária,  será  biopsicossocial,  realizada  por  equipe  multiprofissional  e interdisciplinar e considerará:       (Vigência)
+§ 1º A avaliação da deficiência, quando necessária, será biopsicossocial, realizada por equipe multiprofissional e interdisciplinar e considerará: (Vigência)
 
 - I - os impedimentos nas funções e nas estruturas do corpo;
 
@@ -36,26 +45,18 @@ Considera-se pessoa com deficiência aquela que tem impedimento de longo prazo d
 
 - IV - a restrição de participação.
 
-§ 2º O Poder Executivo criará instrumentos para avaliação da deficiência.        (Vide Lei nº 13.846, de 2019)       (Vide
+§ 2º O Poder Executivo criará instrumentos para avaliação da deficiência. (Vide Lei nº 13.846, de 2019) (Vide
 
 Lei nº 14.126, de 2021)
 
 ###### Art. 3º
 Para fins de aplicação desta Lei, consideram-se:
 
-- I  -  acessibilidade:  possibilidade  e  condição  de  alcance  para  utilização,  com  segurança  e  autonomia,  de  espaços, mobiliários,  equipamentos  urbanos,  edificações,  transportes,  informação  e  comunicação,  inclusive  seus  sistemas  e tecnologias, bem como de outros serviços e instalações abertos ao público, de uso público ou privados de uso coletivo, tanto na zona urbana como na rural, por pessoa com deficiência ou com mobilidade reduzida;
+- I - acessibilidade: possibilidade e condição de alcance para utilização, com segurança e autonomia, de espaços, mobiliários, equipamentos urbanos, edificações, transportes, informação e comunicação, inclusive seus sistemas e tecnologias, bem como de outros serviços e instalações abertos ao público, de uso público ou privados de uso coletivo, tanto na zona urbana como na rural, por pessoa com deficiência ou com mobilidade reduzida;
 
-- II  -  desenho  universal:  concepção  de  produtos,  ambientes,  programas  e  serviços  a  serem  usados  por  todas  as pessoas, sem necessidade de adaptação ou de projeto específico, incluindo os recursos de tecnologia assistiva;
+- II - desenho universal: concepção de produtos, ambientes, programas e serviços a serem usados por todas as pessoas, sem necessidade de adaptação ou de projeto específico, incluindo os recursos de tecnologia assistiva;
 
-- III  -  tecnologia assistiva ou ajuda técnica: produtos, equipamentos, dispositivos, recursos, metodologias, estratégias, práticas  e  serviços  que  objetivem  promover  a  funcionalidade,  relacionada  à  atividade  e  à  participação  da  pessoa  com
-
-Presidência da República
-
-Secretaria-Geral Subchefia para Assuntos Jurídicos
-
-# LEI Nº 13.146, DE 6 DE JULHO DE 2015.
-
-Institui a Lei Brasileira de Inclusão  da  Pessoa  com Deficiência (Estatuto da Pessoa com Deficiência).
+- III - tecnologia assistiva ou ajuda técnica: produtos, equipamentos, dispositivos, recursos, metodologias, estratégias, práticas e serviços que objetivem promover a funcionalidade, relacionada à atividade e à participação da pessoa com
 
 www.planalto.gov.br/CCIVIL_03/_Ato2015-2018/2015/Lei/L13146.htm
 
@@ -73,17 +74,17 @@ deficiência ou com mobilidade reduzida, visando à sua autonomia, independênci
 
 - IV - barreiras: qualquer entrave, obstáculo, atitude ou comportamento que limite ou impeça a participação social da pessoa,  bem  como  o  gozo,  a  fruição  e  o  exercício  de  seus  direitos  à  acessibilidade,  à  liberdade  de  movimento  e  de expressão, à comunicação, ao acesso à informação, à compreensão, à circulação com segurança, entre outros, classificadas em:
 
-- barreiras  urbanísticas:  as  existentes  nas  vias  e  nos  espaços  públicos  e  privados  abertos  ao  público  ou  de  uso coletivo;
+a) barreiras urbanísticas: as existentes nas vias e nos espaços públicos e privados abertos ao público ou de uso coletivo;
 
-- barreiras arquitetônicas: as existentes nos edifícios públicos e privados;
+b) barreiras arquitetônicas: as existentes nos edifícios públicos e privados;
 
-- barreiras nos transportes: as existentes nos sistemas e meios de transportes;
+c) barreiras nos transportes: as existentes nos sistemas e meios de transportes;
 
-- barreiras nas comunicações e na informação: qualquer entrave, obstáculo, atitude ou comportamento que dificulte ou impossibilite a expressão ou o recebimento de mensagens e de informações por intermédio de sistemas de comunicação e de tecnologia da informação;
+d) barreiras nas comunicações e na informação: qualquer entrave, obstáculo, atitude ou comportamento que dificulte ou impossibilite a expressão ou o recebimento de mensagens e de informações por intermédio de sistemas de comunicação e de tecnologia da informação;
 
-- barreiras atitudinais: atitudes ou comportamentos que impeçam ou prejudiquem a participação social da pessoa com deficiência em igualdade de condições e oportunidades com as demais pessoas;
+e) barreiras atitudinais: atitudes ou comportamentos que impeçam ou prejudiquem a participação social da pessoa com deficiência em igualdade de condições e oportunidades com as demais pessoas;
 
-- barreiras tecnológicas: as que dificultam ou impedem o acesso da pessoa com deficiência às tecnologias;
+f) barreiras tecnológicas: as que dificultam ou impedem o acesso da pessoa com deficiência às tecnologias;
 
 - V - comunicação: forma de interação dos cidadãos que abrange, entre outras opções, as línguas, inclusive a Língua Brasileira  de  Sinais  (Libras),  a  visualização  de  textos,  o  Braille,  o  sistema  de  sinalização  ou  de  comunicação  tátil,  os caracteres ampliados, os dispositivos multimídia, assim como a linguagem simples, escrita e oral, os sistemas auditivos e os meios  de  voz  digitalizados  e  os  modos,  meios  e  formatos  aumentativos  e  alternativos  de  comunicação,  incluindo  as tecnologias da informação e das comunicações;
 
@@ -351,7 +352,7 @@ Parágrafo único. Para os efeitos desta Lei, considera-se violência contra a p
 #### CAPÍTULO IV DO DIREITO À EDUCAÇÃO
 
 ###### Art. 27.
-A educação constitui direito da pessoa com deficiência, assegurados sistema educacional inclusivo em todos os níveis e aprendizado ao longo de toda a vida, de forma a alcançar o máximo desenvolvimento possível de seus talentos e habilidades físicas, sensoriais, intelectuais e sociais,  segundo  suas  características,  interesses  e  necessidades  de aprendizagem.
+A educação constitui direito da pessoa com deficiência, assegurados sistema educacional inclusivo em todos os níveis e aprendizado ao longo de toda a vida, de forma a alcançar o máximo desenvolvimento possível de seus talentos e
 
 www.planalto.gov.br/CCIVIL_03/_Ato2015-2018/2015/Lei/L13146.htm
 
@@ -365,7 +366,9 @@ www.planalto.gov.br/CCIVIL_03/_Ato2015-2018/2015/Lei/L13146.htm
 
 L13146
 
-Parágrafo  único.  É  dever  do  Estado,  da  família,  da  comunidade  escolar  e  da  sociedade  assegurar  educação  de qualidade à pessoa com deficiência, colocando-a a salvo de toda forma de violência, negligência e discriminação.
+habilidades físicas, sensoriais, intelectuais e sociais, segundo suas características, interesses e necessidades de aprendizagem.
+
+Parágrafo único. É dever do Estado, da família, da comunidade escolar e da sociedade assegurar educação de qualidade à pessoa com deficiência, colocando-a a salvo de toda forma de violência, negligência e discriminação.
 
 ###### Art. 28.
 Incumbe ao poder público assegurar, criar, desenvolver, implementar, incentivar, acompanhar e avaliar:
@@ -918,7 +921,7 @@ Parágrafo  único.  Para  fazer  cumprir  o  disposto  neste  artigo,  os  proc
 #### CAPÍTULO IV DO DIREITO À PARTICIPAÇÃO NA VIDA PÚBLICA E POLÍTICA
 
 ###### Art. 76.
-O poder público deve garantir à pessoa com deficiência todos os direitos políticos e a oportunidade de exercêlos em igualdade de condições com as demais pessoas.
+O poder público deve garantir à pessoa com deficiência todos os direitos políticos e a oportunidade de exercê-los em igualdade de condições com as demais pessoas.
 
 § 1º À pessoa com deficiência será assegurado o direito de votar e de ser votada, inclusive por meio das seguintes ações:
 
@@ -957,7 +960,7 @@ O  poder  público  deve  fomentar  o  desenvolvimento  científico,  a  pesquis
 
 § 1º O fomento pelo poder público deve priorizar a geração de conhecimentos e técnicas que visem à prevenção e ao tratamento de deficiências e ao desenvolvimento de tecnologias assistiva e social.
 
-§ 2º A acessibilidade e as tecnologias assistiva e social devem ser fomentadas mediante a criação de cursos de pósgraduação, a formação de recursos humanos e a inclusão do tema nas diretrizes de áreas do conhecimento.
+§ 2º A acessibilidade e as tecnologias assistiva e social devem ser fomentadas mediante a criação de cursos de pós-graduação, a formação de recursos humanos e a inclusão do tema nas diretrizes de áreas do conhecimento.
 
 §  3º  Deve  ser  fomentada  a  capacitação  tecnológica  de  instituições  públicas  e  privadas  para  o  desenvolvimento  de tecnologias assistiva e social que sejam voltadas para melhoria da funcionalidade e da participação social da pessoa com deficiência.
 
@@ -1177,7 +1180,7 @@ A  Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.45
 
 ...........................................................................................
 
-§ 8º Para o aprendiz com deficiência com 18 (dezoito) anos ou mais, a validade do contrato de aprendizagem  pressupõe  anotação  na  CTPS  e  matrícula  e  frequência  em  programa  de aprendizagem  desenvolvido  sob  orientação  de  entidade  qualificada  em  formação  técnico- profissional metódica.' (NR)
+§ 8º Para o aprendiz com deficiência com 18 (dezoito) anos ou mais, a validade do contrato de aprendizagem pressupõe anotação na CTPS e matrícula e frequência em programa de aprendizagem desenvolvido sob orientação de entidade qualificada em formação técnico-profissional metódica.' (NR)
 
 'Art. 433. ..................................................................
 
@@ -1502,13 +1505,13 @@ A Lei nº 10.098, de 19 de dezembro de 2000 , passa a vigorar com as seguintes a
 
 - II  -  barreiras:  qualquer  entrave,  obstáculo,  atitude  ou  comportamento  que  limite  ou  impeça  a participação  social  da  pessoa,  bem  como  o  gozo,  a  fruição  e  o  exercício  de  seus  direitos  à acessibilidade,  à  liberdade  de  movimento  e  de  expressão,  à  comunicação,  ao  acesso  à informação, à compreensão, à circulação com segurança, entre outros, classificadas em:
 
-- barreiras urbanísticas: as existentes nas vias e nos espaços públicos e privados abertos ao público ou de uso coletivo;
+a) barreiras urbanísticas: as existentes nas vias e nos espaços públicos e privados abertos ao público ou de uso coletivo;
 
-- barreiras arquitetônicas: as existentes nos edifícios públicos e privados;
+b) barreiras arquitetônicas: as existentes nos edifícios públicos e privados;
 
-- barreiras nos transportes: as existentes nos sistemas e meios de transportes;
+c) barreiras nos transportes: as existentes nos sistemas e meios de transportes;
 
-- barreiras  nas  comunicações  e  na  informação:  qualquer  entrave,  obstáculo,  atitude  ou comportamento que dificulte ou impossibilite a expressão ou o recebimento de mensagens e de informações por intermédio de sistemas de comunicação e de tecnologia da informação;
+d) barreiras nas comunicações e na informação: qualquer entrave, obstáculo, atitude ou comportamento que dificulte ou impossibilite a expressão ou o recebimento de mensagens e de informações por intermédio de sistemas de comunicação e de tecnologia da informação;
 
 www.planalto.gov.br/CCIVIL_03/_Ato2015-2018/2015/Lei/L13146.htm
 
@@ -1712,7 +1715,7 @@ O Título IV do Livro IV da Parte Especial da Lei nº 10.406, de 10 de janeiro d
 
 ###### 'CAPÍTULO III Da Tomada de Decisão Apoiada
 
-Art.  1.783-A.  A  tomada  de  decisão  apoiada  é  o  processo  pelo  qual  a  pessoa  com  deficiência elege pelo menos 2 (duas) pessoas idôneas, com as quais mantenha vínculos e que gozem de sua confiança, para prestar-lhe apoio na tomada de decisão sobre atos da vida civil, fornecendolhes os elementos e informações necessários para que possa exercer sua capacidade.
+Art.  1.783-A.  A  tomada  de  decisão  apoiada  é  o  processo  pelo  qual  a  pessoa  com  deficiência elege pelo menos 2 (duas) pessoas idôneas, com as quais mantenha vínculos e que gozem de sua confiança, para prestar-lhe apoio na tomada de decisão sobre atos da vida civil, fornecendo-lhes os elementos e informações necessários para que possa exercer sua capacidade.
 
 §  1º  Para  formular  pedido  de  tomada  de  decisão  apoiada,  a  pessoa  com  deficiência  e  os apoiadores devem apresentar termo em que constem os limites do apoio a ser oferecido e os compromissos dos apoiadores, inclusive o prazo de vigência do acordo e o respeito à vontade, aos direitos e aos interesses da pessoa que devem apoiar.
 
@@ -1743,7 +1746,7 @@ O art. 1º da Lei nº 11.126, de 27 de junho de 2005 , passa a vigorar com a seg
 
 .............................................................................................
 
-§ 2º O disposto no caput deste artigo aplica-se a todas as modalidades e jurisdições do serviço de transporte coletivo de passageiros, inclusive em esfera internacional com origem no território brasileiro.' (NR)
+§ 2º O disposto no caput deste artigo aplica-se a todas as modalidades e jurisdições do serviço de transporte coletivo de passageiros, inclusive em esfera internacional com origem no território
 
 www.planalto.gov.br/CCIVIL_03/_Ato2015-2018/2015/Lei/L13146.htm
 
@@ -1756,6 +1759,7 @@ www.planalto.gov.br/CCIVIL_03/_Ato2015-2018/2015/Lei/L13146.htm
 26/03/2021
 
 L13146
+brasileiro.' (NR)
 
 ###### Art. 118.
 O inciso IV do art. 46 da Lei nº 11.904, de 14 de janeiro de 2009 , passa a vigorar acrescido da seguinte alínea 'k':
