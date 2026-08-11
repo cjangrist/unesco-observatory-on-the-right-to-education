@@ -9,7 +9,7 @@ Vu la Constitution ;
 
 Vu la résolution n° 001-2007/AN du 04 juin 2007, portant validation du mandat des députés ;
 
-a délibéré en sa séance du 1 er avril 2010 et adopté la loi dont la teneur suit :
+a délibéré en sa séance du 1er avril 2010 et adopté la loi dont la teneur suit :
 
 ## CHAPITRE I : DES DISPOSITIONS GENERALES
 
@@ -67,7 +67,7 @@ En  outre,  elle  bénéficie  d'une  réduction  des  frais  d'appareillages  o
 
 #### Article 9 :
 
-L'éducation  inclusive  est  garantie  dans  les  établissements      préscolaires,  primaires,  postprimaires, secondaires et universitaires du Burkina Faso.
+L'éducation inclusive est garantie dans les établissements préscolaires, primaires, post-primaires, secondaires et universitaires du Burkina Faso.
 
 #### Article 10 :
 
@@ -303,11 +303,13 @@ Tout manquement aux dispositions des articles 6, 7, 8, 10, 13, 14, 15, 16, 17, 1
 
 #### Article 53 :
 
-Le licenciement ou le rejet de candidature pour motif injustifié de handicap, par toute personne physique ou morale  autre que l'Etat et ses structures, est puni d'une amende de cinquante mille (50 000) francs CFA à trois cent mille (300 000) francs CFA et en cas de récidive d'une amende de trois  cent  mille  (300 000)  francs  CFA à un million (1 000 000) de francs CFA sans préjudice des dommages et intérêts.
+Le licenciement ou le rejet de candidature pour motif injustifié de handicap, par toute personne physique ou morale autre que l'Etat et ses structures, est puni d'une amende de cinquante mille (50 000) francs CFA à trois cent mille (300 000) francs CFA et en cas de récidive d'une amende de
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+
+trois cent mille (300 000) francs CFA à un million (1 000 000) de francs CFA sans préjudice des dommages et intérêts.
 
 #### Article 54 :
 
@@ -337,6 +339,8 @@ La présente loi qui abroge toutes dispositions antérieures contraires sera ex�
 
 [[START OF PAGE 12]]
 
+Ainsi fait et délibéré en séance publique à Ouagadougou, le 1er avril 2010.
+
 Pour le Président de l'Assemblée nationale, le Premier Vice-président
 
 Kanidoua NABOHO
@@ -344,7 +348,5 @@ Kanidoua NABOHO
 Le Secrétaire de séance
 
 T. Gandi SANOU
-
-Ainsi fait et délibéré en séance publique à Ouagadougou, le 1 er avril 2010.
 
 [[END OF PAGE 12]]
