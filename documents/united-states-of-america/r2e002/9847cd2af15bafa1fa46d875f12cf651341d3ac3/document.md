@@ -56,7 +56,7 @@ CONSTITUTION  OF  THE  UNITED  STATES
 
 5
 
-- porary Appointments until the next Meeting of the Legislature, which shall then fill such Vacancies. No Person shall be a Senator who shall not have attained to the Age of thirty Years, and been nine Years a Citizen of the United  States,  and  who  shall  not,  when  elected,  be  an  Inhabitant of that State for which he shall be chosen. The Vice President of the United States shall be President of the Senate but shall have no Vote, unless they be equally divided. The  Senate  shall  chuse  their  other  Officers,  and  also  a President pro tempore, in the Absence of the Vice President, or when  he  shall  exercise  the  Office  of  President  of  the  United States. The  Senate  shall  have  the  sole  Power  to  try  all  Impeachments. When sitting for that Purpose, they shall be on Oath or Affirmation.  When  the  President  of  the  United  States  is  tried the  Chief  Justice  shall  preside:  And  no  Person  shall  be  convicted  without  the  Concurrence  of  two  thirds  of  the  Members present. Judgment  in  Cases  of  Impeachment  shall  not  extend  further  than  to  removal  from  Office,  and  disqualification  to  hold and enjoy any Office of honor, Trust or Profit under the United States: but the Party convicted shall nevertheless be liable and subject  to  Indictment,  Trial,  Judgment  and  Punishment,  according to Law.
+porary Appointments until the next Meeting of the Legislature, which shall then fill such Vacancies. No Person shall be a Senator who shall not have attained to the Age of thirty Years, and been nine Years a Citizen of the United  States,  and  who  shall  not,  when  elected,  be  an  Inhabitant of that State for which he shall be chosen. The Vice President of the United States shall be President of the Senate but shall have no Vote, unless they be equally divided. The  Senate  shall  chuse  their  other  Officers,  and  also  a President pro tempore, in the Absence of the Vice President, or when  he  shall  exercise  the  Office  of  President  of  the  United States. The  Senate  shall  have  the  sole  Power  to  try  all  Impeachments. When sitting for that Purpose, they shall be on Oath or Affirmation.  When  the  President  of  the  United  States  is  tried the  Chief  Justice  shall  preside:  And  no  Person  shall  be  convicted  without  the  Concurrence  of  two  thirds  of  the  Members present. Judgment  in  Cases  of  Impeachment  shall  not  extend  further  than  to  removal  from  Office,  and  disqualification  to  hold and enjoy any Office of honor, Trust or Profit under the United States: but the Party convicted shall nevertheless be liable and subject  to  Indictment,  Trial,  Judgment  and  Punishment,  according to Law.
 
 ### Section. 4.
 The Times, Places and Manner of holding Elections  for  Senators  and  Representatives,  shall  be  prescribed  in each State by the Legislature thereof; but the Congress may at
@@ -83,7 +83,7 @@ Each  House  shall  keep  a  Journal  of  its  Proceedings,  and from  time  to 
 Neither House, during the Session of Congress, shall, without the Consent of the other, adjourn for more than three days, nor to any other Place than that in which the two Houses shall be sitting.
 
 ### Section. 6.
-The Senators and Representatives shall receive a  Compensation  for  their  Services,  to  be  ascertained  by  Law, and paid  out  of  the  Treasury  of  the  United  States.  They  shall in  all  Cases,  except  Treason,  Felony  and  Breach  of  the  Peace, be  privileged  from  Arrest  during  their  Attendance  at  the  Session  of  their  respective  Houses,  and  in  going  to  and  returning from the same; and for any Speech or Debate in either House, they shall not be questioned in any other Place.
+The Senators and Representatives shall receive a Compensation for their Services, to be ascertained by Law, and paid out of the Treasury of the United States. They shall in all Cases, except Treason, Felony and Breach of the Peace, be privileged from Arrest during their Attendance at the Session of their respective Houses, and in going to and returning
 
 [[END OF PAGE 6]]
 
@@ -93,12 +93,14 @@ CONSTITUTION  OF  THE  UNITED  STATES
 
 7
 
+from the same; and for any Speech or Debate in either House, they shall not be questioned in any other Place.
+
 No  Senator  or  Representative  shall,  during  the  Time  for which he was elected, be appointed to any civil Office under the Authority of the United States, which shall have been created, or  the  Emoluments  whereof  shall  have  been  encreased  during such time; and no Person holding any Office under the United States, shall be a Member of either House during his Continuance in Office.
 
 ### Section.  7.
 All  Bills  for  raising  Revenue  shall  originate  in the  House  of  Representatives;  but  the  Senate  may  propose  or concur with amendments as on other Bills.
 
-Every Bill which shall have passed the House of Representatives  and  the  Senate,  shall,  before  it  become  a  law,  be  presented to the President of the United States: If he approve he shall  sign  it,  but  if  not  he  shall  return  it,  with  his  Objections to that House in which it shall have originated, who shall enter the Objections at large on their Journal, and proceed to reconsider it. If after such Reconsideration two thirds of that House shall  agree  to  pass  the  Bill,  it  shall  be  sent,  together  with  the Objections, to the other House, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall become a Law. But in all such Cases the Votes of both Houses shall  be  determined  by  Yeas  and  Nays,  and  the  Names  of  the Persons voting for and against the Bill shall be entered on the Journal of each House respectively. If any Bill shall not be returned  by  the  President  within  ten  Days  (Sundays  excepted) after it  shall  have  been  presented to him, the Same shall be a Law, in like Manner as if he had signed it, unless the Congress by their Adjournment prevent its Return, in which Case it shall not be a Law Every Order, Resolution, or Vote to which the Concurrence of  the  Senate  and  House  of  Representatives  may  be  necessary (except on a question of Adjournment) shall be presented to the President of the United States; and before the Same shall take Effect, shall be approved by him, or being disapproved by him, shall  be  repassed  by  two  thirds  of  the  Senate  and  House  of Representatives,  according  to  the  Rules  and  Limitations  prescribed in the Case of a Bill.
+Every Bill which shall have passed the House of Representatives and the Senate, shall, before it become a law, be presented to the President of the United States: If he approve he shall sign it, but if not he shall return it, with his Objections to that House in which it shall have originated, who shall enter the Objections at large on their Journal, and proceed to reconsider it. If after such Reconsideration two thirds of that House shall agree to pass the Bill, it shall be sent, together with the Objections, to the other House, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall become a Law. But in all such Cases the Votes of both Houses shall be determined by Yeas and Nays, and the Names of the Persons voting for and against the Bill shall be entered on the Journal of each House respectively. If any Bill shall not be returned by the President within ten Days (Sundays excepted) after it shall have been presented to him, the Same shall be a Law, in like Manner as if he had signed it, unless the Congress
 
 [[END OF PAGE 7]]
 
@@ -107,6 +109,10 @@ Every Bill which shall have passed the House of Representatives  and  the  Senat
 8
 
 CONSTITUTION  OF  THE  UNITED  STATES
+
+by their Adjournment prevent its Return, in which Case it shall not be a Law.
+
+Every Order, Resolution, or Vote to which the Concurrence of the Senate and House of Representatives may be necessary (except on a question of Adjournment) shall be presented to the President of the United States; and before the Same shall take Effect, shall be approved by him, or being disapproved by him, shall be repassed by two thirds of the Senate and House of Representatives, according to the Rules and Limitations prescribed in the Case of a Bill.
 
 ### Section.  8.
 The  Congress  shall  have  Power  To  lay  and  collect  Taxes,  Duties,  Imposts  and  Excises,  to  pay  the  Debts  and provide  for  the  common  Defence  and  general  Welfare  of  the United States; but all Duties, Imposts and Excises shall be uniform throughout the United States;
@@ -143,11 +149,11 @@ To  raise  and  support  Armies,  but  no  Appropriation  of Money to that Use s
 
 To  make  Rules  for  the  Government  and  Regulation  of  the land and naval Forces;
 
-To provide for calling forth the Militia to execute the Laws of the Union, suppress Insurrections and repeal Invasions;
+To provide for calling forth the Militia to execute the Laws of the Union, suppress Insurrections and repel Invasions;
 
 To provide for organizing, arming, and disciplining, the Militia,  and for governing such Part of them as may be employed in  the  Service of the United States, reserving to the States respectively,  the  Appointment  of  the  Officers,  and  the  Authority of  training the Militia according to the discipline prescribed by Congress;
 
-To  exercise  exclusive  Legislation  in  all  Cases  whatsoever, over such District (not exceeding ten Miles square) as may, by Cession  of  Particular  States,  and  the  Acceptance  of  Congress, become the  Seat  of  the  Government  of  the  United  States,  and to exercise like Authority over all Places purchased by the Consent of the Legislature of the State in which the Same shall be, for the Erection of Forts, Magazines, Arsenals, dock-Yards and other needful Buildings;-And
+To  exercise  exclusive  Legislation  in  all  Cases  whatsoever, over such District (not exceeding ten Miles square) as may, by Cession  of  Particular  States,  and  the  Acceptance  of  Congress, become the  Seat  of  the  Government  of  the  United  States,  and to exercise like Authority over all Places purchased by the Consent of the Legislature of the State in which the Same shall be, for the Erection of Forts, Magazines, Arsenals, dock-Yards and other needful Buildings;—And
 
 To make all Laws which shall be necessary and proper for carrying  into  Execution  the  foregoing  Powers  and  all  other Powers  vested  by  this  Constitution  in  the  Government  of  the United States, or in any Department or Officer thereof.
 
@@ -162,11 +168,11 @@ CONSTITUTION  OF  THE  UNITED  STATES
 ### Section. 9.
 The Migration or Importation of such Persons as any  of  the  States  now  existing  shall  think  proper  to  admit, shall  not  be  prohibited  by  the  Congress  prior  to  the  Year  one thousand  eight  hundred  and  eight,  but  a  Tax  or  duty  may  be imposed on such Importation, not exceeding ten dollars for each Person.
 
-The  Privilege  of  the  Writ  of  Habeas  Corpus  shall  not  be suspended,  unless  when  in  Cases  or  Rebellion  or  Invasion  the public Safety may require it.
+The  Privilege  of  the  Writ  of  Habeas  Corpus  shall  not  be suspended, unless when in Cases of Rebellion or Invasion the public Safety may require it.
 
 No Bill  of  Attainder  or  ex  post  facto  Law  shall  be  passed.
 
-No Capitation, or other direct, Tax shall be laid, unless in Proportion to the Census of Enumeration herein before directed to be taken.
+No Capitation, or other direct, Tax shall be laid, unless in Proportion to the Census or Enumeration herein before directed to be taken.
 
 No Tax or Duty shall be laid on Articles exported from any State.
 
@@ -224,10 +230,10 @@ In  Case  of  the  Removal  of  the  President  from  Office,  or  of his  Death
 
 The President shall,  at  stated  Times,  receive  for  his  Services,  a  Compensation, which shall neither be encreased nor diminished during the Period for which he shall have been elected, and he shall not receive within that Period any other Emolument from the United States, or any of them.
 
-Before  he  enter  on  the  Execution  of  his  Office,  he  shall take  the  following  Oath  or  Affirmation:-''I  do  solemnly  swear (or  affirm)  that  I  will  faithfully  execute  the  Office  of  President of  the  United  States,  and  will  to  the  best  of  my  Ability,  preserve, protect and defend the Constitution of the  United States.''
+Before he enter on the Execution of his Office, he shall take the following Oath or Affirmation:—‘‘I do solemnly swear (or affirm) that I will faithfully execute the Office of President of the United States, and will to the best of my Ability, preserve, protect and defend the Constitution of the United States.’’
 
 ### Section.  2.
-The  President  shall  be  Commander  in  Chief  of the Army and Navy of the United States, and of the Militia of the  several  States,  when  called  into  the  actual  Service  of  the United  States;  he  may  require  the  Opinion,  in  writing,  of  the principal  Officer  in  each  of  the  executive  Departments,  upon any  Subject  relating  to  the  Duties  of  their  respective  Offices, and  he  shall  have  Power  to  Grant  Reprieves  and  Pardons  for Offences against the United States, except in Cases of Impeachment.
+The President shall be Commander in Chief of the Army and Navy of the United States, and of the Militia of the several States, when called into the actual Service of the United States; he may require the Opinion, in writing, of the
 
 [[END OF PAGE 13]]
 
@@ -236,6 +242,8 @@ The  President  shall  be  Commander  in  Chief  of the Army and Navy of the Uni
 14
 
 CONSTITUTION  OF  THE  UNITED  STATES
+
+principal Officer in each of the executive Departments, upon any Subject relating to the Duties of their respective Offices, and he shall have Power to Grant Reprieves and Pardons for Offences against the United States, except in Cases of Impeachment.
 
 He shall have Power, by and with the Advice and Consent of the Senate, to make Treaties, provided two thirds of the Senators  present  concur;  and  he  shall  nominate,  and  by  and  with the  Advice  and  Consent  of  the  Senate,  shall  appoint  Ambassadors,  other  public  Ministers  and  Consuls,  Judges  of  the  supreme Court, and all other Officers of the United States, whose Appointments are not herein otherwise provided for, and which shall be established by Law: but the Congress may by Law vest the Appointment of such inferior Officers, as they think proper, in  the  President  alone,  in  the  Courts  of  Law,  or  in  the  Heads of Departments.
 
@@ -261,9 +269,9 @@ The President, Vice President and all Civil Officers of the United States, shall
 The  judicial  Power  of  the  United  States,  shall be vested in one supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish. The Judges,  both  of  the  supreme  and  inferior  Courts,  shall  hold their Offices during good Behaviour, and shall, at stated Times, receive  for  their  Services,  a  Compensation,  which  shall  not  be diminished during their Continuance in Office.
 
 ### Section. 2.
-The judicial Power shall extend to all Cases, in Law  and  Equity,  arising  under  this  Constitution,  the  Laws  of the United States, and Treaties made, or which shall be made, under  their  Authority;-to  all  Cases  affecting  Ambassadors, other  public  ministers  and  Consuls;-to  all  Cases  of  admiralty and maritime Jurisdiction;-to Controversies to which the United States shall be a Party;-to Controversies between two or  more  States;-between  a  State  and  Citizens  of  another State;-between Citizens of different States;-between Citizens of  the  same  State  claiming  Lands  under  Grants  of  different States,  and  between  a  State,  or  the  Citizens  thereof,  and  foreign States, Citizens or Subjects.
+The judicial Power shall extend to all Cases, in Law and Equity, arising under this Constitution, the Laws of the United States, and Treaties made, or which shall be made, under their Authority;—to all Cases affecting Ambassadors, other public ministers and Consuls;—to all Cases of admiralty and maritime Jurisdiction;—to Controversies to which the United States shall be a Party;—to Controversies between two or more States;—between a State and Citizens of another State;—between Citizens of different States;—between Citizens of the same State claiming Lands under Grants of different States, and between a State, or the Citizens thereof, and foreign States, Citizens or Subjects.
 
-In all  Cases affecting Ambassadors, other public Ministers and Consuls, and those in which a State shall be Party, the supreme  Court  shall  have  original  Jurisdiction.  In  all  the  other Cases  before  mentioned,  the  supreme  Court  shall  have  appellate  Jurisdiction,  both  as  to  Law  and  Fact,  with  such  Exceptions, and under such Regulations as the Congress shall make.
+In all Cases affecting Ambassadors, other public Ministers and Consuls, and those in which a State shall be Party, the supreme Court shall have original Jurisdiction. In all the other Cases before mentioned, the supreme Court shall have appel-
 
 [[END OF PAGE 15]]
 
@@ -272,6 +280,8 @@ In all  Cases affecting Ambassadors, other public Ministers and Consuls, and tho
 16
 
 CONSTITUTION  OF  THE  UNITED  STATES
+
+late Jurisdiction, both as to Law and Fact, with such Exceptions, and under such Regulations as the Congress shall make.
 
 The  Trial  of  all  Crimes,  except  in  Cases  of  Impeachment, shall  be  by  Jury;  and  such  Trial  shall  be  held  in  the  State where  the  said  Crimes  shall  have  been  committed;  but  when not  committed  within  any  State,  the  Trial  shall  be  at  such Place or Places as the Congress may by Law have directed.
 
@@ -310,7 +320,7 @@ The  United  States  shall  guarantee  to  every State  in  this  Union  a  Repu
 
 ## Article. V.
 
-The  Congress,  whenever  two  thirds  of  both  Houses  shall deem it necessary, shall propose Amendments to this Constitution,  or,  on  the  Application  of  the  Legislatures  of  two  thirds  of the several States, shall call a Convention for proposing Amendments,  which,  in  either  Case,  shall  be  valid  to  all  Intents and Purposes, as Part of this Constitution, when ratified by the Legislatures of three fourths of the several States, or by Conventions  in  three  fourths  thereof,  as  the  one  or  the  other Mode  of  Ratification  may  be  proposed  by  the  Congress;  Provided  that  no  Amendment  which  may  be  made  prior  to  the Year One thousand eight hundred and eight shall in any Manner  affect  the  first  and  fourth  Clauses  in  the  Ninth  Section  of the  first  Article;  and  that  no  State,  without  its  Consent,  shall be deprived of its equal Suffrage in the Senate.
+The Congress, whenever two thirds of both Houses shall deem it necessary, shall propose Amendments to this Constitution, or, on the Application of the Legislatures of two thirds of the several States, shall call a Convention for proposing Amendments, which, in either Case, shall be valid to all Intents and Purposes, as Part of this Constitution, when ratified by the Legislatures of three fourths of the several States, or by
 
 [[END OF PAGE 17]]
 
@@ -319,6 +329,8 @@ The  Congress,  whenever  two  thirds  of  both  Houses  shall deem it necessary
 18
 
 CONSTITUTION  OF  THE  UNITED  STATES
+
+Conventions in three fourths thereof, as the one or the other Mode of Ratification may be proposed by the Congress; Provided that no Amendment which may be made prior to the Year One thousand eight hundred and eight shall in any Manner affect the first and fourth Clauses in the Ninth Section of the first Article; and that no State, without its Consent, shall be deprived of its equal Suffrage in the Senate.
 
 ## Article. VI.
 
@@ -340,18 +352,18 @@ CONSTITUTION  OF  THE  UNITED  STATES
 
 The Ratification of the Conventions of nine States, shall be sufficient  for  the  Establishment  of  this  Constitution  between the States so ratifying the same.
 
-The Word, ''the,'' being interlined  between  the  seventh and  eighth  Lines  of  the  first Page,  The  Word  ''Thirty''  being partly written on an Erazure in the  fifteenth  Line  of  the  first Page, The Words ''is tried'' being interlined between the thirty  second  and  thirty  third Lines  of  the  first  Page  and  the Word ''the''  being  interlined  between  the  forty  third  and  forty fourth Lines of the second Page.
+The Word, ‘‘the,’’ being interlined between the seventh and eighth Lines of the first Page, The Word ‘‘Thirty’’ being partly written on an Erazure in the fifteenth Line of the first Page, The Words ‘‘is tried’’ being interlined between the thirty second and thirty third Lines of the first Page and the Word ‘‘the’’ being interlined between the forty third and forty fourth Lines of the second Page.
 
-done  in  Convention  by  the  Unanimous Consent  of  the  States  present  the  Seventeenth Day of September in the Year of  our  Lord  one  thousand  seven  hundred and Eighty seven and of the Independence of the United States of America  the  Twelfth.  In  witness  whereof  We have hereunto subscribed our Names, Delaware GEO: READ GUNNING BEDFORD JUN JOHN DICKINSON RICHARD BASSETT JACO: BROOM
+done in Convention by the Unanimous Consent of the States present the Seventeenth Day of September in the Year of our Lord one thousand seven hundred and Eighty seven and of the Independence of the United States of America the Twelfth. In witness whereof We have hereunto subscribed our Names,
 
-Attest WILLIAM JACKSON Secretary | G o . WASHINGTON-Presid and deputy
+Attest WILLIAM JACKSON Secretary | Go. WASHINGTON—Presidt. and deputy from Virginia
 --- | ---
 New Hampshire | JOHN LANGDON NICHOLAS GILMAN
 Massachusetts | NATHANIEL GORHAM RUFUS KING
-Connecticut | W M SAM L JOHNSON ROGER SHERMAN
+Connecticut | WM SAML JOHNSON ROGER SHERMAN
 New York . . . . | ALEXANDER HAMILTON
-New Jersey | WIL: LIVINGSTON DAVID BREARLEY. W M PATTERSON. JONA: DAYTON
-Pennsylvania | B FRANKLIN THOMAS MIFFLIN ROB T MORRIS GEO. CLYMER THO S FITZSIMONS JARED INGERSOL JAMES WILSON GOUV MORRIS
+New Jersey | WIL: LIVINGSTON DAVID BREARLEY. WM PATERSON. JONA: DAYTON
+Pennsylvania | B FRANKLIN THOMAS MIFFLIN ROBT MORRIS GEO. CLYMER THOS FITZSIMONS JARED INGERSOLL JAMES WILSON GOUV MORRIS
 
 [[END OF PAGE 19]]
 
@@ -361,15 +373,12 @@ Pennsylvania | B FRANKLIN THOMAS MIFFLIN ROB T MORRIS GEO. CLYMER THO S FITZSIMO
 
 CONSTITUTION  OF  THE  UNITED  STATES
 
-Maryland JAMES MCHENRY DAN OF S T THO S JENIFER DAN L CARROLL
-
-Virginia JOHN BLAIRJAMES MADISON JR.
-
-North Carolina W M BLOUNT RICH D DOBBS SPAIGHT HU WILLIAMSON J. RUTLEDGE
-
-South Carolina CHARLES COTESWORTH PINCKNEY CHARLES PINCKNEY PIERCE BUTLER
-
-Georgia WILLIAM FEW ABR BALDWIN
+Delaware | GEO: READ GUNNING BEDFORD JUN JOHN DICKINSON RICHARD BASSETT JACO: BROOM
+Maryland | JAMES MCHENRY DAN OF ST THOS JENIFER DANL CARROLL
+Virginia | JOHN BLAIR— JAMES MADISON JR.
+North Carolina | WM BLOUNT RICHD DOBBS SPAIGHT HU WILLIAMSON
+South Carolina | J. RUTLEDGE CHARLES COTESWORTH PINCKNEY CHARLES PINCKNEY PIERCE BUTLER
+Georgia | WILLIAM FEW ABR BALDWIN
 
 [[END OF PAGE 20]]
 
@@ -379,15 +388,15 @@ CONSTITUTION  OF  THE  UNITED  STATES
 
 21
 
-## In Convention Monday, September 17 th 1787.
+## In Convention Monday, September 17th 1787.
 ### Present
 The States of
 
-New  Hampshire,  Massachusetts,  Connecticut,  M R Hamilton from  New  York,  New  Jersey,  Pennsylvania,  Delaware,  Maryland, Virginia, North Carolina, South Carolina and Georgia.
+New Hampshire, Massachusetts, Connecticut, MR Hamilton from New York, New Jersey, Pennsylvania, Delaware, Maryland, Virginia, North Carolina, South Carolina and Georgia.
 
 ### Resolved,
 
-That the preceeding Constitution be laid before the United States in Congress assembled, and that it is the Opinion of this Convention,  that  it  should  afterwards  be  submitted  to  a  Convention of Delegates, chosen in each State by the People thereof,  under  the  Recommendation  of  its  Legislature,  for  their  Assent  and  Ratification;  and  that  each  Convention  assenting  to, and ratifying the Same, should give Notice thereof to the United States in Congress assembled. Resolved, That it is the Opinion of this Convention, that as soon as the Conventions of nine States  shall  have  ratified  this  Constitution,  the  United  States in  Congress  assembled  should  fix  a  Day  on  which  Electors should be appointed by the States which shall have ratified the same, and a Day on which the Electors should assemble to vote for the President, and the Time and Place for commencing Proceedings  under  this  Constitution.  That  after  such  Publication the  Electors  should  be  appointed,  and  the  Senators  and  Representatives elected: That the Electors should meet on the Day fixed  for  the  Election  of  the  President,  and  should  transmit their  Votes  certified,  signed,  sealed  and  directed,  as  the  Constitution requires, to the Secretary of the United States in Congress assembled, that the Senators and Representatives should convene  at  the  Time  and  Place  assigned;  that  the  Senators should appoint a President of the Senate, for the sole Purpose of receiving, opening and counting the Votes for President; and, that  after  he  shall  be  chosen,  the  Congress,  together  with  the President,  should,  without  Delay,  proceed  to  execute  this  Constitution.
+That the preceeding Constitution be laid before the United States in Congress assembled, and that it is the Opinion of this Convention, that it should afterwards be submitted to a Convention of Delegates, chosen in each State by the People thereof, under the Recommendation of its Legislature, for their Assent and Ratification; and that each Convention assenting to, and ratifying the Same, should give Notice thereof to the United States in Congress assembled. Resolved, That it is the Opinion of this Convention, that as soon as the Conventions of nine States shall have ratified this Constitution, the United States in Congress assembled should fix a Day on which Electors should be appointed by the States which shall have ratified the same, and a Day on which the Electors should assemble to vote for the President, and the Time and Place for commencing Proceedings under this Constitution. That after such Publication the Electors should be appointed, and the Senators and Representatives elected: That the Electors should meet on the Day fixed for the Election of the President, and should transmit their Votes certified, signed, sealed and directed, as the Constitution requires, to the Secretary of the United States in Congress assembled, that the Senators and Representatives should convene at the Time and Place assigned; that the Senators
 
 [[END OF PAGE 21]]
 
@@ -397,9 +406,11 @@ That the preceeding Constitution be laid before the United States in Congress as
 
 CONSTITUTION  OF  THE  UNITED  STATES
 
+should appoint a President of the Senate, for the sole Purpose of receiving, opening and counting the Votes for President; and, that after he shall be chosen, the Congress, together with the President, should, without Delay, proceed to execute this Constitution.
+
 By the Unanimous Order of the Convention
 
-G o : WASHINGTON-Presid t .
+Go: WASHINGTON—Presidt.
 
 W. JACKSON Secretary.
 
