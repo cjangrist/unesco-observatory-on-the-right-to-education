@@ -8,7 +8,7 @@ Tenth consultation of Member States on the application of the Convention and the
 
 ## GUIDELINES FOR THE PREPARATION OF REPORTS BY MEMBER STATES ON THE APPLICATION OF THE 1960 CONVENTION AND RECOMMENDATION AGAINST DISCRIMINATION IN EDUCATION
 
-Approved by the UNESCO Executive Board at its 207 th  session in October 2019
+Approved by the UNESCO Executive Board at its 207th session in October 2019
 
 ### 1. Introduction
 
@@ -18,7 +18,7 @@ The right to education is today one of the key principles underpinning the Educa
 
 The  Convention  has  been  recognized  as  a cornerstone  of  Education  2030  agenda .  It  also represents a powerful tool to advance SDG4 by ensuring effective articulation between normative and operational work.
 
-The present Guidelines are intended to assist Member States in the preparation of national reports on the implementation of the Convention as well as the Recommendation in the context of the 10 th Consultation.
+The present Guidelines are intended to assist Member States in the preparation of national reports on the implementation of the Convention as well as the Recommendation in the context of the 10th Consultation.
 
 ### 2. Reporting obligations
 
@@ -26,11 +26,13 @@ There are differences in the legal nature of the obligations under the Conventio
 
 Bearing in mind the differences in wording and in legal scope inherent to the nature of these two categories  of  instruments,  the  content  of  the  Recommendation  is  identical  to  that  of  the Convention. Member States are expected to give effect to it in national legislation and education policies.
 
-Most importantly, the reporting obligation under the provisions of Article VII of the Convention and of  the  Recommendation  is  the  same.  Article  VIII  of  UNESCO's  Constitution  states  that  ' Each Member State shall  submit  to  the  Organization,  at  such  times  and  in  such  manner  as  shall  be determined by the General Conference, reports on the laws, regulations and statistics relating to its educational,  scientific  and  cultural  institutions  and  activities,  and  on  the  action  taken  upon  the recommendations  and  convent ions  referred  to  in  Article  IV,  paragraph  4' .  Therefore,  even  if  a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national  report on  the  implementation  of  these  instruments  in  the  context  of  monitoring consultations.
+Most importantly, the reporting obligation under the provisions of Article VII of the Convention and of the Recommendation is the same. Article VIII of UNESCO’s Constitution states that “Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General Conference, reports on the laws, regulations and statistics relating to its educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4”. Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+national report on the implementation of these instruments in the context of monitoring consultations.
 
 ### 3. Participation in consultations
 
@@ -62,9 +64,9 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 [[START OF PAGE 3]]
 
-- Open-ended  and  closed-ended  questions  to  be  directly  filled  in  by  Member  States through  a  participatory  process.  Please  note  that  multiple  answers  may  be  provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States through a participatory process. Please note that multiple answers may be provided where relevant.
 
-- Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses  to  the  open-ended  questions  (including  remarks  on  how  to  respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 In  their  responses,  Member  States  are  encouraged  to  provide  information  in  a  concise  manner while preserving substantive and relevant content.
 
@@ -88,9 +90,9 @@ Email of contact person:
 
 albert.mutesa@unesco.rw
 
-### Information on the legislative, judicial, administrative and other measures taken by the state at the national level
+### I. Information on the legislative, judicial, administrative and other measures taken by the state at the national level
 
-#### Ratification of the Convention 2
+#### 1. Ratification of the Convention 2
 
 Is your country a State Party to the Convention?
 
@@ -128,7 +130,7 @@ http://portal.unesco.org/en/ev.php-URL_ID=12949&URL_DO=DO_TOPIC&URL_SECTION=201.
 
 [[START OF PAGE 5]]
 
-#### Ratification of the Protocol 3
+#### 2. Ratification of the Protocol 3
 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
 
 Has your country ratified the Protocol?
@@ -139,7 +141,7 @@ Yes
 
 No, please briefly explain the difficulties encountered:
 
-#### Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
+#### 3. Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
 
 In case your country is a State Party to the Convention:
 
@@ -217,26 +219,25 @@ Out of the formal education system the Government of Rwanda also initiated diffe
 
 #### 1. Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
 
-Articles/Paragraphs  1(1),  2  and  3  of  the  Convention/Recommendation  provide  for  nondiscrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
+Articles/Paragraphs 1(1), 2 and 3 of the Convention/Recommendation provide for non-discrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
 
 This corresponds to the overall aspiration of SDG4 which aims to ' ensure inclusive  and equitable  quality  education  and  promote  lifelong  learning  opportunities  for  all ' by 2030. It therefore covers all the SDG4 targets, but also specifically SDG target 4.5. 4
 
-- 1.1 Please indicate measures adopted by your government to eliminate and prevent discrimination in education within the meaning of the Convention/Recommendation (please tick all that apply) 5  (several items could be ticked/mentioned):
+1.1 Please indicate measures adopted by your government to eliminate and prevent discrimination in education within the meaning of the Convention/Recommendation (please tick all that apply)5 (several items could be ticked/mentioned):
 
-- Constitutional laws and/or legislation prohibit discrimination in education
+✓ Constitutional laws and/or legislation prohibit discrimination in education
 
-- Regulations prohibit discrimination in education
+✓ Regulations prohibit discrimination in education
 
-- Policies and programmes aim to eliminate and prevent discrimination in education
+✓ Policies and programmes aim to eliminate and prevent discrimination in education
 
-- Access to justice in case of violations of the right to non-discrimination in education
+✓ Access to justice in case of violations of the right to non-discrimination in education
 
-- Combatting discrimination in terms of curriculum
+✓ Combatting discrimination in terms of curriculum
 
-- Other:
+✓ Other:
 
 ✓ National Comprehensive School Feeding Policy
----
 ✓ National Older Persons Policy
 ✓ National Decentralization Policy
 ✓ Education Sector Policy
@@ -260,45 +261,45 @@ References to the list of stated above sample policies all are indication how mu
 
 [[START OF PAGE 8]]
 
-- 1.2 Please indicate  actions  taken  by  your  government  to  guarantee  equal  access  to  all  levels and types of education in your country (several items could be ticked/mentioned):
+1.2 Please indicate actions taken by your government to guarantee equal access to all levels and types of education in your country (several items could be ticked/mentioned):
 
-- Constitutional laws and/or legislation guarantee equal access to education
+✓ Constitutional laws and/or legislation guarantee equal access to education
 
-- Regulations ensure equal access to all levels and types of education
+✓ Regulations ensure equal access to all levels and types of education
 
-- Policies  and  programmes  ensure  equal  access  to  all  levels  and  types  of education
+✓ Policies and programmes ensure equal access to all levels and types of education
 
  Other:
 
-Sensitization  zero  out  of schools' program  across  the  country,  implementation  of school feeding program in all school, decentralization of education management up to Education manager at cell level common known as (UMUJYANA W ' UBUREZI)
+Sensitization zero out of schools’ program across the country, implementation of school feeding program in all school, decentralization of education management up to Education manager at cell level common known as (UMUJYANA W’UBUREZI)
 
-- Please indicate the relevant legal, regulatory or policy texts and provide a brief description of the measures taken :
+- Please indicate the relevant legal, regulatory or policy texts and provide a brief description of the measures taken:
 
-This notably is covered under SDG target 4.1 and partly target 4.b 6
+This notably is covered under SDG target 4.1 and partly target 4.b⁶
 
-MINEDUC's mission is to transform Rwandan citizens into skilled human capital for the  socioeconomic  development  of  the  country  by  ensuring  equitable  access  to quality education, focusing on  combating  illiteracy, promotion  of  science  and technology, critical thinking, and positive values.
+MINEDUC’s mission is to transform Rwandan citizens into skilled human capital for the socioeconomic development of the country by ensuring equitable access to quality education, focusing on combating illiteracy, promotion of science and technology, critical thinking, and positive values.
 
-CESA 16-25 seeks to provide each education stakeholder the opportunity to make his or her best contribution to education and training in Africa where Both CESA and the SDG4 frameworks have a number of common indicators, from the above regional and international  goals  the  Government  of  Rwanda  has  developed  and  implement the following instruments Vision 2020 and for the first four years of Vision 2050 will be the National Strategy for Transformation (NST1), which provided the foundation and vehicle towards Vision 2050.
+CESA 16-25 seeks to provide each education stakeholder the opportunity to make his or her best contribution to education and training in Africa where Both CESA and the SDG4 frameworks have a number of common indicators, from the above regional and international goals the Government of Rwanda has developed and implement the following instruments Vision 2020 and for the first four years of Vision 2050 will be the National Strategy for Transformation (NST1), which provided the foundation and vehicle towards Vision 2050.
 
-- 1.3 Please  indicate  the  actions  taken  and  planned  in  your  country  to  ensure  equality  of opportunities  (in  terms  of  access,  participation  and  completion),  equal  treatment  and  to support the inclusion of all learners (including girls and women, the economically and socially marginalized,  people  with  disabilities  and  other  vulnerable  groups)  in  learning  processes (several items could be ticked/mentioned):
+1.3 Please indicate the actions taken and planned in your country to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners (including girls and women, the economically and socially marginalized, people with disabilities and other vulnerable groups) in learning processes (several items could be ticked/mentioned):
 
 ✓ Providing financial incentives and fellowships
 
  Providing positive or affirmative action measures
 
-- Ensuring inclusion in mainstream schools for all learners
+✓ Ensuring inclusion in mainstream schools for all learners
 
-- Training teachers on inclusive education
+✓ Training teachers on inclusive education
 
-- Providing auxiliary assistance
+✓ Providing auxiliary assistance
 
-- Adapting education infrastructure
+✓ Adapting education infrastructure
 
-- Adapting curricula and methods
+✓ Adapting curricula and methods
 
-- Providing language classes to newcomers (e.g. refugees)
+✓ Providing language classes to newcomers (e.g. refugees)
 
-- Eliminating administrative barriers to education 7
+✓ Eliminating administrative barriers to education⁷
 
 > 6 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programmes'.
 
@@ -308,17 +309,17 @@ CESA 16-25 seeks to provide each education stakeholder the opportunity to make h
 
 [[START OF PAGE 9]]
 
-- Ensuring gender parity in science, technology, engineering and mathematics (STEM) and technical and vocational training (TVET)
+✓ Ensuring gender parity in science, technology, engineering and mathematics (STEM) and technical and vocational training (TVET)
 
- Providing  re-entry  programmes  for  young mothers
+ Providing re-entry programmes for young mothers
 
-- Eliminating all barriers for pregnant girls or young mothers in education
+✓ Eliminating all barriers for pregnant girls or young mothers in education
 
  Other:
 
-- Providing flexible learning pathways
+✓ Providing flexible learning pathways
 
-- Valuing diversity in schools
+✓ Valuing diversity in schools
 
 ✓  Combatting stereotyping and stigmatisation
 
@@ -342,7 +343,7 @@ Article 25 of the Constitution provides that only monogamous marriage is legally
 
 The age of consent for legally marriage was revised from 21 to 18, in March 2024
 
-#### Progress made with respect to implementing the right to education in the context of SDG 4
+#### 2. Progress made with respect to implementing the right to education in the context of SDG 4
 
 ##### 2.1 Pre-primary education
 
@@ -354,15 +355,15 @@ Pre-primary  education  is  not  explicitly  provided  for  in  the  Convention/
 
 [[START OF PAGE 10]]
 
-Child initially recognized 'the right to education during early childhood as beginning at birth' (General  Comment  7).  This  became  more  explicit  with  the  2010  Moscow  Framework  for Action and Cooperation 8 .  In the current context of the Education 2030 agenda, under SDG target  4.2,  states  have  now  committed  to  'the  provision  of  at  least  one  year  of  free  and compulsory preprimary education'.
+Child initially recognized “the right to education during early childhood as beginning at birth” (General Comment 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation8. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to “the provision of at least one year of free and compulsory pre-primary education”.
 
 - Is compulsory and free of charge pre-primary education available in your country?
 
-- Pre-primary education is compulsory: Please provide the age of enrolment and duration:
+✓ Pre-primary education is compulsory: Please provide the age of enrolment and duration:
 
 The pre-primary in Rwanda is compulsory for every Rwandan kid from 3 year to to six to enter in primary schools.
 
-- Pre-primary education is free of charge for all: Please provide the duration:
+✓ Pre-primary education is free of charge for all: Please provide the duration:
 
 The  pre-primary  is  freed  of  charge  in  Rwanda  for  3years  as  we  are  also  applying  free education for 12 years.
 
@@ -394,25 +395,17 @@ This has caused a huge budget for school construction and recruitment of teacher
 
 [[START OF PAGE 11]]
 
-No:
-
-What are the measures your government intends to take to ensure free secondary education?
-
-Is already implementing the 12 years basic education no longer 9 years.
-
-- Is secondary education (middle/high) compulsory in your country?
-
 - Is primary education available free of charge to all?
 
-- Yes: Please provide the duration and indicate the extent to which it is.
+✓ Yes: Please provide the duration and indicate the extent to which it is.
 
-For  this,  please  list  the  laws  and  policies  that  ensure  the  universal  and  free  availability  of primary education and indicate whether direct and indirect costs are charged (such as tuition fees,  exam  fees,  schools  supplies,  uniforms,  transport  costs  and  compulsory  levies  on parents).
+For this, please list the laws and policies that ensure the universal and free availability of primary education and indicate whether direct and indirect costs are charged (such as tuition fees, exam fees, schools supplies, uniforms, transport costs and compulsory levies on parents).
 
-The education in Rwanda is free of charge as government is investing in education through school construction purchase of text book payment of teachers and provision of  fund  for  school  feeding  and  support  of  school  management  through  capitation grant fund.
+The education in Rwanda is free of charge as government is investing in education through school construction purchase of text book payment of teachers and provision of fund for school feeding and support of school management through capitation grant fund.
 
 No:
 
-Is  your  country  already  engaged  in  legal  and  policy  reforms  to  work  towards  universal and free primary education?
+Is your country already engaged in legal and policy reforms to work towards universal and free primary education?
 
 ✓ Yes
 
@@ -420,7 +413,7 @@ Is  your  country  already  engaged  in  legal  and  policy  reforms  to  work  
 
 - Please briefly provide information on the reforms taken:
 
-The  government  of Rwanda  in  partnership with its tagholders started the implementation  of  universal  and  free  primary  education  and  develop  the  NINE YEARS BASIC EDUCATION IMPLEMENTATION strategy of November 2008.
+The government of Rwanda in partnership with its tagholders started the implementation of universal and free primary education and develop the NINE YEARS BASIC EDUCATION IMPLEMENTATION strategy of November 2008.
 
 ###### Secondary education
 
@@ -428,11 +421,19 @@ In this part, please provide information on the general availability and accessi
 
 - Is secondary education (middle/high) available free of charge?
 
-- Yes: Please provide the duration and describe the extent to which it is.
+✓ Yes: Please provide the duration and describe the extent to which it is.
 
-Please list the laws and policies that ensure the free availability of secondary education and describe  whether  direct  and  indirect  costs  are  covered  (such  as  tuition  fees,  exam  fees, school supplies, uniforms, transport costs and compulsory levies on parents).
+Please list the laws and policies that ensure the free availability of secondary education and describe whether direct and indirect costs are covered (such as tuition fees, exam fees, school supplies, uniforms, transport costs and compulsory levies on parents).
 
-The Government of Rwanda is implementing 12 years universal and  free Basic education.
+The Government of Rwanda is implementing 12 years universal and free Basic education.
+
+No:
+
+What are the measures your government intends to take to ensure free secondary education?
+
+Is already implementing the 12 years basic education no longer 9 years.
+
+- Is secondary education (middle/high) compulsory in your country?
 
 [[END OF PAGE 11]]
 
@@ -502,9 +503,9 @@ Article 4 of the Convention requires states to make 'higher education equally ac
 
  Higher education is generally free of charge
 
-- Higher  education  is  accessible  on  the  basis  of  individual  capacity  as  assessed  by reference to relevant qualifications and experience.
+✓ Higher education is accessible on the basis of individual capacity as assessed by reference to relevant qualifications and experience.
 
-- Higher education is accessible through financial incentives and scholarships.
+✓ Higher education is accessible through financial incentives and scholarships.
 
  Higher education is accessible through positive or affirmative action measures
 
@@ -522,7 +523,7 @@ In  this  part,  you  may  also  provide  information  on  the  difficulties  ex
 
 [[START OF PAGE 14]]
 
-The government of Rwanda has established Student financing scheme O ctober 2015 in partnership Development Bank of Rwanda (BRD) with the High Education Council to contribute to Rwanda's human resource development .
+The government of Rwanda has established Student financing scheme October 2015 in partnership Development Bank of Rwanda (BRD) with the High Education Council to contribute to Rwanda’s human resource development.
 
 ##### 2.4 Adult education and alternative learning
 
@@ -530,17 +531,17 @@ Article/Paragraph 4(c) of the Convention/Recommendation provides for adult educa
 
 -  Please indicate the efforts made by your government to establish a system of continuing education and equitable access to learning and training opportunities (several items could be ticked/mentioned):
 
-- Provision  of  education  for  persons  who  have  not  received  or  completed  the whole period of their primary education
+✓ Provision of education for persons who have not received or completed the whole period of their primary education
 
-- Provision of literacy programmes
+✓ Provision of literacy programmes
 
-- Provision of appropriate learning and life-skills programmes
+✓ Provision of appropriate learning and life-skills programmes
 
-- Provision of free of charge learning opportunities
+✓ Provision of free of charge learning opportunities
 
-- Provision of flexible learning pathways
+✓ Provision of flexible learning pathways
 
-- Provision of professional training and qualifications
+✓ Provision of professional training and qualifications
 
  Other:
 
@@ -562,11 +563,11 @@ Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide fo
 
 [[START OF PAGE 15]]
 
-- Establishment of minimum norms and standards in education
+✓ Establishment of minimum norms and standards in education
 
-- Establishment  of  conditions  relating  to  the  quality  of  the  education  provided (e.g. infrastructure, learner/teacher ratios, teaching and learning materials, use of ICT).
+✓ Establishment of conditions relating to the quality of the education provided (e.g. infrastructure, learner/teacher ratios, teaching and learning materials, use of ICT).
 
-- Adoption of legal or regulatory provisions to ensure that children learn in a safe environment free from violence or harassment,  including school-related gender-based violence (in and around schools).
+✓ Adoption of legal or regulatory provisions to ensure that children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools).
 
 - Please elaborate further on the measures taken:
 
@@ -580,17 +581,17 @@ Article/Paragraph  4(d)  of  the  Convention/Recommendation  provides  for  the 
 
 -  Please  indicate  the  measures  taken  to  improve  the  teaching  and  working  conditions  of education personnel, especially teaching staff at all levels in your country and regarding the training for the teaching profession (several items could be ticked/mentioned):
 
-- Teachers' average salaries are competitive or at least comparable to those paid in other professions requiring similar or equivalent qualifications (at all levels)
+✓ Teachers’ average salaries are competitive or at least comparable to those paid in other professions requiring similar or equivalent qualifications (at all levels)
 
-- Initial training and continuous professional development is provided
+✓ Initial training and continuous professional development is provided
 
-- Minimum standards and qualifications are required for the teaching profession
+✓ Minimum standards and qualifications are required for the teaching profession
 
-- Measures  taken  to  strengthen  the  social  status  and  attractiveness  of  the teaching profession
+✓ Measures taken to strengthen the social status and attractiveness of the teaching profession
 
-- Performance monitoring systems
+✓ Performance monitoring systems
 
-- Measures taken to increase women in leadership positions in education
+✓ Measures taken to increase women in leadership positions in education
 
  Other:
 
@@ -606,15 +607,15 @@ The  Government  of  Rwanda  has  taken  the  measures  to  improve  the  teachi
 
 - Have there been instances of discrimination as regards the training for education personnel in your country?
 
-- There  is  no  discrimination  problem  in  Rwanda  since  1994  after  Genocide against Tutsi
+✓ There is no discrimination problem in Rwanda since 1994 after Genocide against Tutsi
 
-- Yes: Has your government addressed this issue?
+✓ Yes: Has your government addressed this issue?
 
  Yes
 
  No
 
-- No
+✓ No
 
 ##### 2.7 Respect for human rights and fundamental freedoms
 
@@ -622,9 +623,9 @@ Article/Paragraph  5(1)(a)  of  the  Convention/Recommendation  provides  for  t
 
 -  Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items could be ticked/mentioned):
 
-- Curriculum includes human rights education
+✓ Curriculum includes human rights education
 
-- Educational  and/or  extracurricular  activities  are  organized  on  human  rights education
+✓ Educational and/or extracurricular activities are organized on human rights education
 
  Other:
 
@@ -676,15 +677,15 @@ Article/Paragraph  5(1)(c)  of  the  Convention/Recommendation  provides  for  t
 
 -  Please indicate the legal, policy and regulatory measures that protect the rights given to national  minorities  to  carry  out  their  own  educational  activities  (several  items  could  be ticked/mentioned):
 
-- Constitutional  laws  and/or  legislation  protect  the  right  to  education  of  national minorities.
+✓ Constitutional laws and/or legislation protect the right to education of national minorities.
 
-- Legislation or regulations guarantee the right of national minorities to study in their mother tongue.
+✓ Legislation or regulations guarantee the right of national minorities to study in their mother tongue.
 
 Curriculum is adapted to national minority needs
 
 Teachers are trained to adapt to national minority needs
 
-- Other:
+✓ Other:
 
 As  the  Government  of  Rwanda  is  implementing  equal  opportunities  to  all
 
@@ -708,7 +709,7 @@ N/A
 
 ##### 2.10  Rights of refugees and migrants
 
-The rights of refugees and migrants are not explicitly provided for in the Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in education based notably on national origin. 14 In this context,  a  number  of  Member  States  that  participated  in  the  9 th Consultation  reported  on measures adopted to ensure refugees' and migrants' right to education. Growing displacement  and  influx  of  refugees  worldwide  and  the  emergence  of  major  educational challenges  in  this  area,  as  well  as  the  frameworks  recently  adopted  by  the  international community, 15 demonstrate  the  opportunity  for  states  to  report  on  measures  adopted  to include refugees and migrants in their educational systems.
+The rights of refugees and migrants are not explicitly provided for in the Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in education based notably on national origin.14 In this context, a number of Member States that participated in the 9th Consultation reported on measures adopted to ensure refugees’ and migrants’ right to education. Growing displacement and influx of refugees worldwide and the emergence of major educational challenges in this area, as well as the frameworks recently adopted by the international community,15 demonstrate the opportunity for states to report on measures adopted to include refugees and migrants in their educational systems.
 
 Besides, this aspect also corresponds to SDG target 4.5, which calls on states to 'ensure equal access to all levels of education and vocational training for the vulnerable', including 'children in vulnerable situations', and covers the majority of SDG4 targets.
 
@@ -720,7 +721,7 @@ The  government  of  Rwanda  is  providing  the  same  opportunity  in  educatio
 
 Pursuant  to  Law  n°  13ter/2014  of  21/05/2014  relating  to  refugees,  especially  in Articles 3 and 6;
 
-Ministerial  instruction  N o 02/2016  of  1/06/2016  determining  the  management  of refugees' camps
+Ministerial instruction No 02/2016 of 1/06/2016 determining the management of refugees’ camps
 
 Prime Minister's Order determining the organisation and functioning of the National Refugee Status determination committee and benefits granted to its members
 
@@ -736,21 +737,21 @@ Prime Minister's Order determining the organisation and functioning of the Natio
 
 - Please  briefly  indicate  measures  adopted  by  national  and  local  authorities  to  ensure refugees' and migrants' right to education (several items could be ticked/mentioned):
 
-- Inclusion in mainstream education
+✓ Inclusion in mainstream education
 
-- Provision of language courses
+✓ Provision of language courses
 
-- Specific training for educational staff
+✓ Specific training for educational staff
 
-- Initiatives  addressing  discrimination  and  promoting  cultural  diversity  and  mutual acceptance
+✓ Initiatives addressing discrimination and promoting cultural diversity and mutual acceptance
 
-- Alternative administrative procedure (placement tests, portfolio of evidence, etc.)
+✓ Alternative administrative procedure (placement tests, portfolio of evidence, etc.)
 
-- Accelerated learning programmes
+✓ Accelerated learning programmes
 
-- Non-formal and/or alternative education programmes
+✓ Non-formal and/or alternative education programmes
 
-- Financial support
+✓ Financial support
 
  Other innovative measures:
 
@@ -760,9 +761,9 @@ Please briefly elaborate further on the measures taken:
 
 The Government of Rwanda continues to demonstrate a strong commitment to economic development  with  the  ambition  to  transform  from  a  low  to  a  mid-level  development country.  Refugees  are  also  included  in  different  initiatives  including  social-economic inclusion strategy, education, and health.
 
-### Methods used to draw the attention of the  various  authorities in the  country  to  the instruments and to remove the obstacles encountered
+### III. Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
 
-#### Challenges and obstacles
+#### 1. Challenges and obstacles
 
 - 1.1 Please indicate and provide any information on the difficulties encountered in the process of implementing  the  key  provisions  of  the  Convention/Recommendation  (including  legal  and practical obstacles) and on the main issues that need to be addressed for promoting further the right to education in your country (several items could be ticked/mentioned):
 
@@ -798,13 +799,13 @@ UNESCO  governing  bodies  have  underlined  the  need  for  awareness  raising.
 
 -  Have  activities  been  carried  out  to  draw  the  attention  of  the  various  authorities  of  the country to the Convention/Recommendation and their provisions about the right to education and  to  raise  awareness  of  the  principles  of  non-discrimination  and  equality  of  educational opportunities? (several items could be ticked/mentioned)
 
-- Translation  of  the  Convention/Recommendation  into  the  national  and  possibly  local languages
+✓ Translation of the Convention/Recommendation into the national and possibly local languages
 
-- Dissemination and advocacy of the core content of the Convention/Recommendation or the core principles of the right to education
+✓ Dissemination and advocacy of the core content of the Convention/Recommendation or the core principles of the right to education
 
-- Increased public awareness through advocacy material on the Convention/ Recommendation or the core principles of the right to education
+✓ Increased public awareness through advocacy material on the Convention/Recommendation or the core principles of the right to education
 
-- Activities  undertaken  or  supported  by  the  National  Commission  to  promote  nondiscrimination  and  equality  of  educational  opportunities  and  to  foster  debate  on critical issues in relation to the rights enshrined in the instruments
+✓ Activities undertaken or supported by the National Commission to promote non-discrimination and equality of educational opportunities and to foster debate on critical issues in relation to the rights enshrined in the instruments
 
  Other:
 
