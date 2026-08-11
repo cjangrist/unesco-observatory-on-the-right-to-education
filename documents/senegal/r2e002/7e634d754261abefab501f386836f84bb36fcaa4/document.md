@@ -1,4 +1,5 @@
 [[START OF PAGE 1]]
+Recueil des textes relatifs aux droits de l'enfant au Sénégal (DESPS-SCAC-CABEX) cabex@cabex.sn
 
 # LOI N° 91-22 DU 16 FEVRIER 1991 portant orientation de l'Education nationale, modifiée
 
@@ -10,11 +11,11 @@ La loi n° 71-36 du 3 juin 1971 portant orientation de l'Education nationale, a 
 
 Ces objectifs, résumés à l'article premier, demeurent encore valables aujourd'hui. Comment, en effet, ne pas souscrire aux affirmations selon laquelle l'Education nationale doit tendre :
 
-« à élever le niveau culturel de la nation »
+1. « à élever le niveau culturel de la nation »
 
-« à former des hommes et des femmes libres, capables de créer les conditions de leur épanouissement à tous les niveaux, de contribuer au développement des sciences et de la technique et d'apporter des solutions efficaces aux problèmes du développement national » ?
+2. « à former des hommes et des femmes libres, capables de créer les conditions de leur épanouissement à tous les niveaux, de contribuer au développement des sciences et de la technique et d'apporter des solutions efficaces aux problèmes du développement national » ?
 
-Mais, si la volonté qui animait alors le législateur de faire de l'Education nationale un instrument apte « à préparer les conditions d'un développement intégral assumé par la nation toute entière » et dont la mission constante est de maintenir l'ensemble de la nation dans le courant du progrès contemporain et a également animé les responsables chargés de mettre en œ uvre la politique éducative du pays, il faut reconnaître que tous les espoirs dans la rénovation de notre système éducatif inaugurée en 1971 n'ont pas été comblés.
+Mais, si la volonté qui animait alors le législateur de faire de l'Education nationale un instrument apte « à préparer les conditions d'un développement intégral assumé par la nation toute entière » et dont la mission constante est de maintenir l'ensemble de la nation dans le courant du progrès contemporain et a également animé les responsables chargés de mettre en œuvre la politique éducative du pays, il faut reconnaître que tous les espoirs dans la rénovation de notre système éducatif inaugurée en 1971 n'ont pas été comblés.
 
 Malgré la croissance continue des effectifs, trop nombreux sont les enfants qui ne peuvent bénéficier de l'instruction à laquelle ils ont droit ; de ce point de vue, l'enseignement moyen pratique qui devrait accueillir les élèves issus de l'enseignement élémentaire non reçus dans les collèges est resté à un état pour ainsi dire embryonnaire et ne répond pas, de très loin, à l'idée généreuse qui l'avait fait créer. L'utilisation de nos langues nationales à l'école n'a pas dépassé le stade expérimental et des différentes réformes des programmes n'ont pas supprimé le caractère à bien des égards extraverti de notre enseignement. Enfin, la prééminence de la théorie sur la pratique dans les contenus et les méthodes comme celle de la formation initiale sur la formation continue, empêche notre système éducatif de répondre pleinement aux exigences de notre développement.
 
@@ -24,13 +25,12 @@ Même si le constat global d'échec dressé lors de ces journées mémorables a 
 
 Les Etats généraux de l'Education et de la Formation concluaient à la nécessité « d'une refonte radicale de notre système éducatif, dans la perspective d'une nouvelle école plus conforme aux aspirations profondes du peuple sénégalais, à la maitrise des conditions scientifiques et techniques de notre développement intégral, à la démocratie, à la justice sociale, à la paix, au progrès humain ».
 
-Recueil des textes relatifs aux droits de l'enfant au Sénégal (DESPS-SCAC-CABEX)
 
-cabex@cabex.sn
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+Recueil des textes relatifs aux droits de l'enfant au Sénégal (DESPS-SCAC-CABEX) cabex@cabex.sn
 
 De la libre discussion menée au sein des Etats généraux, sont sorties des propositions de réforme qui ont été unanimement adoptées par les participants, représentants de toutes les couches et de toutes les tendances de la population. Approfondies et précisées au cours des travaux de la Commission Nationale de Réforme de l'Education et de la Formation, ces propositions ont été soumises au Président de la République et, pour la plupart, retenues par le Gouvernement.
 
@@ -54,13 +54,12 @@ Par ailleurs, afin de répondre aux défis posés par le développement, l'écol
 
 En ce sens vont les dispositions qui instituent un enseignement polyvalent unique et qui repoussent au niveau de l'enseignement secondaire et professionnel la différenciation entre différents types d'enseignements et différentes filières, entre lesquelles des passerelles permettent d'ailleurs les passages nécessaires.
 
-Recueil des textes relatifs aux droits de l'enfant au Sénégal (DESPS-SCAC-CABEX)
 
-cabex@cabex.sn
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+Recueil des textes relatifs aux droits de l'enfant au Sénégal (DESPS-SCAC-CABEX) cabex@cabex.sn
 
 Les objectifs que voilà appellent, pour être atteints, une organisation telle qu'elle permette à tous de recevoir l'éducation à laquelle ils peuvent prétendre, telle aussi qu'aucune des voies qu'ils empruntent ne conduisent à une impasse scolaire ou professionnelle.
 
@@ -80,7 +79,7 @@ Les structures de l'éducation spéciale, celles de l'orientation scolaire et pr
 
 Dans le souci de cohérence et d'efficacité, la nécessité d'une coordination de toutes les structures et actions d'éducation est explicitée, tant au niveau national qu'aux différents niveaux décentralisés.
 
-Enfin, les exigences démocratiques conduisent à affirmer que la gestion de l'Ecole requiert la participation active de tous les acteurs impliqués dans l' œ uvre d'éducation et de formation.
+Enfin, les exigences démocratiques conduisent à affirmer que la gestion de l'Ecole requiert la participation active de tous les acteurs impliqués dans l'œuvre d'éducation et de formation.
 
 Telles sont, en résumé, les grandes orientations que nous nous proposons de donner à l'Ecole nouvelle, afin de renforcer son action au service du développement et l'accord qu'elle doit entretenir avec la société dont elle a pour mission de faire partager des idéaux, les règles et les lois, en même temps qu'elle doit contribuer à l'améliorer dans le sens de toujours plus de justice, de dignité et de liberté.
 
@@ -90,41 +89,40 @@ Le Président de la République promulgue la loi dont la teneur suit :
 
 ## TITRE PREMIER. DISPOSITIONS GENERALES
 
-#### Article premier .
+#### Article premier.
 
 L'Education nationale, au sens de la présente loi, tend :
 
-- à préparer les conditions d'un développement intégral, assumé par la nation toute entière : elle a pour but de former des hommes et des femmes capables de travailler efficacement à la construction du pays ; elle porte un intérêt particulier aux problèmes économiques sociaux et culturels rencontrés par le Sénégal dans son effort de développement et elle garde un souci constant de mettre les formations qu'elle dispense en relation avec ces problèmes et leurs solutions.
+1. à préparer les conditions d'un développement intégral, assumé par la nation toute entière : elle a pour but de former des hommes et des femmes capables de travailler efficacement à la construction du pays ; elle porte un intérêt particulier aux problèmes économiques sociaux et culturels rencontrés par le Sénégal dans son effort de développement et elle garde un souci constant de mettre les formations qu'elle dispense en relation avec ces problèmes et leurs solutions.
 
-- à promouvoir les valeurs dans lesquelles la nation se reconnaît : elle est éducation pour la liberté, la démocratie pluraliste et le respect des droits de l'homme, développant le sens moral et civique de ceux qu'elle forme, elle vise à en faire des hommes et des femmes dévoués au bien commun respectueux des lois et des règles de la vie sociale et œ uvrant à les améliorer dans le sens de la justice, de l'équité et du respect mutuel.
+2. à promouvoir les valeurs dans lesquelles la nation se reconnaît : elle est éducation pour la liberté, la démocratie pluraliste et le respect des droits de l'homme, développant le sens moral et civique de ceux qu'elle forme, elle vise à en faire des hommes et des femmes dévoués au bien commun respectueux des lois et des règles de la vie sociale et œuvrant à les améliorer dans le sens de la justice, de l'équité et du respect mutuel.
 
-Recueil des textes relatifs aux droits de l'enfant au Sénégal (DESPS-SCAC-CABEX)
 
-cabex@cabex.sn
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+Recueil des textes relatifs aux droits de l'enfant au Sénégal (DESPS-SCAC-CABEX) cabex@cabex.sn
 
-- à élever le niveau culturel de la population : elle permet aux hommes et aux femmes qu'elle forme d'acquérir les connaissances nécessaires à leur insertion harmonieuse dans la communauté et à leur participation active à la vie de la nation ; elle leur fournit un instrument de réflexion, leur permettant d'exercer un jugement ; participant à l'avancée des sciences et des techniques, elle maintient la nation dans le courant du progrès contemporain.
+3. à élever le niveau culturel de la population : elle permet aux hommes et aux femmes qu'elle forme d'acquérir les connaissances nécessaires à leur insertion harmonieuse dans la communauté et à leur participation active à la vie de la nation ; elle leur fournit un instrument de réflexion, leur permettant d'exercer un jugement ; participant à l'avancée des sciences et des techniques, elle maintient la nation dans le courant du progrès contemporain.
 
-#### Article 2 .
+#### Article 2.
 
 L'Education nationale contribue à faire acquérir la capacité de transformer le milieu et la société et aide chacun à épanouir ses potentialités :
 
-- en assurant une formation qui lie l'école à la vie, la théorie à la pratique, l'enseignement à la production, conçue comme activité éducative devant contribuer au développement des facultés intellectuelles et de l'habileté manuelle des enseignés, tout en les préparant à une insertion harmonieuse dans la vie professionnelle ;
+1. en assurant une formation qui lie l'école à la vie, la théorie à la pratique, l'enseignement à la production, conçue comme activité éducative devant contribuer au développement des facultés intellectuelles et de l'habileté manuelle des enseignés, tout en les préparant à une insertion harmonieuse dans la vie professionnelle ;
 
-- en adaptant ses contenus, objectifs et méthodes aux besoins spécifiques des enseignés, en fonction des âges, des étapes de l'enseignement, des filières les plus aptes à l'épanouissement optimal de leurs possibilités ;
+2. en adaptant ses contenus, objectifs et méthodes aux besoins spécifiques des enseignés, en fonction des âges, des étapes de l'enseignement, des filières les plus aptes à l'épanouissement optimal de leurs possibilités ;
 
-- en établissant, entre les différentes filières et les différents paliers de l'éducation, les passerelles permettant la réorientation et les promotions souhaitées et jugées légitimes ;
+3. en établissant, entre les différentes filières et les différents paliers de l'éducation, les passerelles permettant la réorientation et les promotions souhaitées et jugées légitimes ;
 
-- en mettant en place une éducation spéciale qui prend en charge les victimes des différends handicaps ou inadaptations pour réaliser leur intégration ou réinsertion scolaires et sociales.
+4. en mettant en place une éducation spéciale qui prend en charge les victimes des différends handicaps ou inadaptations pour réaliser leur intégration ou réinsertion scolaires et sociales.
 
 ## TITRE II : PRINCIPES GENERAUX DE L'EDUCATION NATIONALE
 
-#### Article 3 .
+#### Article 3.
 
-L'Education nationale est placée sous la responsabilité de l'Etat, qui garantit aux citoyens la réalité du droit à l'éducation par la mise en place d'un système de formation. Les collectivités locales et publiques contribuent à l'effort de l'Etat en matière d'éducation. L'initiative privée, individuelle ou collective peut, dans les conditions définies par la loi, concourir à l' œ uvre d'éducation et de formation. L'Etat est garant de la qualité de l'éducation et de la formation, ainsi que des titres décernés. Il
+L'Education nationale est placée sous la responsabilité de l'Etat, qui garantit aux citoyens la réalité du droit à l'éducation par la mise en place d'un système de formation. Les collectivités locales et publiques contribuent à l'effort de l'Etat en matière d'éducation. L'initiative privée, individuelle ou collective peut, dans les conditions définies par la loi, concourir à l'œuvre d'éducation et de formation. L'Etat est garant de la qualité de l'éducation et de la formation, ainsi que des titres décernés. Il
 
 contrôle les niveaux de l'éducation et de la formation.
 
@@ -138,19 +136,18 @@ La scolarité obligatoire est assurée gratuitement au sein des établissements 
 
 Il est fait obligation aux parents, dont les enfants atteignent l'âge de 6 ans, de les inscrire dans une école publique ou privée. Les parents sont tenus de s'assurer de l'assiduité de leur enfant jusqu'à l'âge de 16 ans. Tout enfant, âgé de moins de 16 ans et n'ayant pu être maintenu dans l'enseignement général, est orienté vers une structure de formation professionnelle.
 
-#### Article 4 . (Loi n° 2004-37 du 15 décembre 2004)
+#### Article 4. (Loi n° 2004-37 du 15 décembre 2004)
 
 L'Education nationale est laïque : elle respecte et garantit à tous les niveaux, la liberté de conscience des citoyens.
 
 Au sein des établissements publics et privés d'enseignement, dans le respect du principe de laïcité de l'Etat, une éducation religieuse optionnelle peut être proposée. Les parents choisissent librement d'inscrire ou non leurs enfants à cet enseignement.
 
-Recueil des textes relatifs aux droits de l'enfant au Sénégal (DESPS-SCAC-CABEX)
 
-cabex@cabex.sn
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+Recueil des textes relatifs aux droits de l'enfant au Sénégal (DESPS-SCAC-CABEX) cabex@cabex.sn
 
 #### Article 5.
 
@@ -166,7 +163,7 @@ Dispensant une connaissance approfondie de l'histoire et des cultures africaines
 
 L'éducation nationale reflète également l'appartenance du Sénégal à la communauté de culture des pays francophones en même temps qu'elle est ouverte sur les valeurs de civilisation universelle et qu'elle inscrit dans les grands courants du monde contemporain, par là, elle développe l'esprit de coopération et de paix entre les hommes.
 
-#### Article 7 .
+#### Article 7.
 
 L'Education nationale est permanente et au service du peuple sénégalais : elle vise l'éradication complète et définitive de l'analphabétisme, ainsi que le perfectionnement professionnel et la promotion sociale de tous les citoyens, pour l'amélioration des conditions d'existence et d'emploi et l'élévation de la productivité du travail.
 
@@ -174,7 +171,7 @@ L'Education nationale est permanente et au service du peuple sénégalais : elle
 
 ### Chapitre premier : Généralités
 
-#### Article. 8 .
+#### Article. 8.
 
 Le système scolaire et universitaire est organisé en différents cycles, fixés ainsi qu'il suit, selon l'âge des enseignés et le type de formation recherchée :
 
@@ -190,7 +187,7 @@ Les structures de l'orientation scolaire et professionnelle et de l'éducation s
 
 ### Chapitre 2. - Le cycle fondamental.
 
-#### Article. 9 .
+#### Article. 9.
 
 Le cycle fondamental est subdivisé en une éducation préscolaire et un enseignement polyvalent unique, comprenant successivement un enseignement élémentaire et un enseignement moyen.
 
@@ -198,13 +195,12 @@ A l'issue de ce cycle, l'élève est muni des éléments essentiels pour son ada
 
 #### Article 10.
 
-Recueil des textes relatifs aux droits de l'enfant au Sénégal (DESPS-SCAC-CABEX)
 
-cabex@cabex.sn
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+Recueil des textes relatifs aux droits de l'enfant au Sénégal (DESPS-SCAC-CABEX) cabex@cabex.sn
 
 L'éducation préscolaire accueille les jeunes enfants qui n'ont pas atteint l'âge de la scolarité dans l'enseignement polyvalent.
 
@@ -246,7 +242,7 @@ L'enseignement moyen polyvalent a pour objet :
 
 ### Chapitre 3. Le cycle secondaire et professionnel
 
-#### Article 13 .
+#### Article 13.
 
 Le cycle secondaire et professionnel reçoit les élèves issus de l'enseignement polyvalent qui désirent poursuivre leurs études et qui sont aptes à le faire.
 
@@ -258,13 +254,12 @@ A l'issue du cycle secondaire et professionnel, les élèves accèdent soit à l
 
 L'Enseignement secondaire, général ou technique, donne aux élèves les connaissances et aptitudes nécessaires pour accès aux différentes filières de l'enseignement supérieur, tout en enrichissant et approfondissant la formation acquise antérieurement.
 
-Recueil des textes relatifs aux droits de l'enfant au Sénégal (DESPS-SCAC-CABEX)
 
-cabex@cabex.sn
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+Recueil des textes relatifs aux droits de l'enfant au Sénégal (DESPS-SCAC-CABEX) cabex@cabex.sn
 
 Son objet est :
 
@@ -274,7 +269,7 @@ Son objet est :
 
 -d'approfondir les connaissances qu'ont les élèves des processus de production ;
 
--de familiariser les élèves avec les grandes œ uvres de la culture nationale, de la culture africaine, de la francophonie et de la culture universelle.
+-de familiariser les élèves avec les grandes œuvres de la culture nationale, de la culture africaine, de la francophonie et de la culture universelle.
 
 #### Article 15.
 
@@ -306,13 +301,12 @@ L'enseignement supérieur vise à former les agents de développement dont le S�
 
 -d'élaborer, de critiquer et de diffuser les nouvelles connaissances en se constituant comme lieu d'interaction et de coopération entre le monde du travail et les centres de décisions économiques, administratifs et scientifiques ;
 
-Recueil des textes relatifs aux droits de l'enfant au Sénégal (DESPS-SCAC-CABEX)
 
-cabex@cabex.sn
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+Recueil des textes relatifs aux droits de l'enfant au Sénégal (DESPS-SCAC-CABEX) cabex@cabex.sn
 
 -d'étudier et d'élaborer les voies d'une stratégie de développement endogène et autocentré en participant notamment à l'élaboration, l'application et l'évaluation des plans nationaux, sous-régionaux et régionaux de développement ;
 
@@ -322,7 +316,7 @@ cabex@cabex.sn
 
 ### Chapitre 5. : L'éducation permanente de base.
 
-#### Article 17 .
+#### Article 17.
 
 L'éducation permanente de base, destinée à accueillir ceux qui n'ont pu fréquenter ou qui ont dû quitter, à un moment ou à un autre, les structures proprement scolaires, est organisée selon deux niveaux :
 
@@ -342,7 +336,7 @@ Elle joue en outre un rôle d information et d'animation dans le processus d'ada
 
 ### Chapitre 6 : L'orientation scolaire.
 
-#### Article 18 .
+#### Article 18.
 
 L'orientation scolaire et professionnelle, qu'il s'agisse des modalités d'évaluation des procédures de passage d'une classe à l'autre ou d'un cycle à l'autre, des examens et des concours, ou de l'orientation proprement dite entre les différentes filières, formelles et non formelles, et vers l'éducation spéciale, se fonde, à tous les niveaux, sur le souci permanent de doter chacun des possibilités les plus larges d'éducation, pour l'épanouissement optimal de ses potentialités et de sa personnalité, et sur le respect scrupuleux des exigences démocratiques
 
@@ -358,13 +352,12 @@ Elle a pour objectifs :
 
 -la participation à l'évaluation objective du système éducatif.
 
-Recueil des textes relatifs aux droits de l'enfant au Sénégal (DESPS-SCAC-CABEX)
 
-cabex@cabex.sn
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+Recueil des textes relatifs aux droits de l'enfant au Sénégal (DESPS-SCAC-CABEX) cabex@cabex.sn
 
 ### Chapitre 7 : L'éducation spéciale
 
@@ -376,7 +369,7 @@ Son objet est de dispenser aux jeunes handicapés une éducation adaptée à leu
 
 ## TITRE V : ADMINISTRATION ET GESTION DE L'EDUCATION
 
-#### Article 20 .
+#### Article 20.
 
 Les structures centrales chargées d'impulser, d'élaborer, d'organiser et de suivre les actions d'éducation, de formation, d'enseignement et de recherche sont coordonnées au niveau national.
 
@@ -384,7 +377,7 @@ Aux différents niveaux décentralisés, des structures de direction et d'admini
 
 Cette coordination, accompagnée d'une évaluation régulière dans tous les secteurs et à tous les niveaux du système éducatif, vise à garder à ce dernier la souplesse pour s'adapter constamment aux exigences du développement.
 
-#### Article 21 .
+#### Article 21.
 
 La gestion des infrastructures, des moyens et des personnels de l'Education nationale, est fondée sur les principes de démocratie, d'objectivité et de compétence.
 
@@ -396,7 +389,7 @@ Les modalités d'application de la présente loi sont fixées par décret.
 
 ## TITRE VI : DISPOSITIONS FINALES.
 
-#### Article 23 .
+#### Article 23.
 
 Sont abrogées toutes les dispositions contraires à la présente loi et notamment la loi d'orientation de l'Education nationale n° 71-36 du 3 juin 1971.
 
@@ -406,8 +399,6 @@ Fait à Dakar, le 16 février 1991.
 
 Abdou Diouf
 
-Recueil des textes relatifs aux droits de l'enfant au Sénégal (DESPS-SCAC-CABEX)
 
-cabex@cabex.sn
 
 [[END OF PAGE 9]]
