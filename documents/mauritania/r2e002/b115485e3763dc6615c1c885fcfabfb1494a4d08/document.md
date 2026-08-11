@@ -6,7 +6,7 @@ BIMENSUEL Paraissant les 15 et 30 de chaque mois
 
 30 Août 1999
 
-41  иme annйe
+41 ème année
 
 N° 957
 
@@ -44,13 +44,13 @@ Loi n° 99 - 036 autorisant le Président de la République, par application de 
 
 354
 
-24 juillet 1999 27 juillet 1999
+24 juillet 1999
 
-Loi n° 99 - 038 relative aux frais de Justice.
+Loi n° 99 - 038 relative aux frais de Justice. 355
 
-355
+27 juillet 1999
 
-Loi n° 99 - 040 autorisant le Président de la République à apporter l'adhésion  de  la  République  Islamique  de  Mauritanie  à  la  Convention contre la torture et les autres peines ou traitements cruels, inhumains ou dégradants adoptée le 10 Décembre 1984. 356
+Loi n° 99 - 040 autorisant le Président de la République à apporter l'adhésion de la République Islamique de Mauritanie à la Convention contre la torture et les autres peines ou traitements cruels, inhumains ou dégradants adoptée le 10 Décembre 1984. 356
 
 ## II - DECRETS, ARRETES, DECISIONS, CIRCULAIRES
 
@@ -94,6 +94,54 @@ Arrêté n° R - 564 instituant un Comité Technique de suivi de la réorganisat
 [[START OF PAGE 3]]
 
 JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE  30 Août 1999 957
+
+30 juin 1999
+
+Arrêté n° R - 513 portant agrément d'une coopérative agro - pastorale et agricole dénommée Merzougha/Toujounine/Nouakchott. 361
+
+### Ministère du Commerce, de l'Artisanat et du Tourisme
+
+#### Actes Divers
+
+29 juin 1999
+
+Arrêté n° 399 portant nomination des vices présidents et des membres du comité de surveillance du marché. 361
+
+### Ministère de l'Education Nationale
+
+#### Actes Réglementaires
+
+29 juin 1999
+
+Arrêté n° R - 509 fixant les programmes d'instruction civique de l'enseignement secondaire. 362
+
+29 juin 1999
+
+Arrêté n° R - 510 fixant le programme de l'Anglais pour la première année du 1er cycle de l'enseignement secondaire. 363
+
+29 juin 1999
+
+Arrêté n° R - 511 fixant le programme du Français pour la 2° année de l'enseignement fondamental. 363
+
+29 juin 1999
+
+Arrêté n° R - 512 fixant les programmes d'instruction civique de l'enseignement fondamental. 363
+
+### Ministère de la Fonction Publique, du Travail, de la Jeunesse et des Sports
+
+#### Actes Divers
+
+14 juillet 1999
+
+Arrêté n° 421 portant rectificatif de l'arrêté n° 077 du 13/02/1999. 363
+
+### Ministère de la Culture et de l'Orientation Islamique
+
+#### Actes Divers
+
+13 juillet 1999
+
+Arrêté n° R - 558 portant création d'un institut islamique. 364
 
 ## III.- TEXTES PUBLIES A TITRE D'INFORMATION
 ## IV- ANNONCES
@@ -204,9 +252,7 @@ Des textes réglementaires fixeront, en tant que de besoin, les modalités d'app
 Des décrets et arrêtés fixeront, en tant que de besoin, les modalités d'application de la présente loi.
 
 #### ART. 16 -
-Les dispositions de la loi n° 69 269 du 1 er août 1969 portant réorganisation de l'enseignement du second  degré,  de  la  loi  n°  75.023  du  20 janvier 1975 portant réorganisation de l'enseignement  fondamental,  de  la  loi  n° 70.243 du 25 juillet 1970 relative à l'enseignement supérieur et de la loi n° 98 -  007  du  20  janvier  1998  relative  à  la formation technique et professionnelle non loi,
-
-- contraires à celles de la présente demeurent en vigueur.
+Les dispositions de la loi n° 69 - 269 du 1er août 1969 portant réorganisation de l'enseignement du second degré, de la loi n° 75.023 du 20 janvier 1975 portant réorganisation de l'enseignement fondamental, de la loi n° 70.243 du 25 juillet 1970 relative à l'enseignement supérieur et de la loi n° 98 - 007 du 20 janvier 1998 relative à la formation technique et professionnelle non contraires à celles de la présente loi, demeurent en vigueur.
 
 #### ART. 17 -
 Sont abrogées toutes dispositions antérieures contraires à la présente loi et notamment  celle de la délibération  n°  040  du  18  octobre  1979 arrêtant les modalités d'application du régime transitoire.
@@ -243,11 +289,9 @@ Nouakchott, le 20 Juillet 1999 MAAOUYA OULD SID'AHMED TAYA Le Premier Ministre C
 #### ARTICLE  PREMIER  -
 Est promoteur immobilier toute personne morale qui réalise, à titre de  profession  habituelle, conformément    à la réglementation en vigueur, les opération suivantes :
 
-- l'aménagement  de  terrains  lotis  par  le destinés
+- l'aménagement de terrains lotis par le Ministère de l'Equipement destinés principalement à l'habitat social ;
 
-- Ministère de l'Equipement principalement à l'habitat social ;
-
--les constructions ou rénovations d'immeubles individuels, collectifs ou semi -collectifs à usage d'habitation sociale en vue de la vente ou de la location
+- les constructions ou rénovations d'immeubles individuels, collectifs ou semi - collectifs à usage d'habitation sociale en vue de la vente ou de la location
 #### ART. 2 -
 L'exercice des activités énumérées à l'article premier, est soumis à un  agrément  délivré  par  le  Ministre  de l'Equipement après avis de la commission consultative pour la promotion immobilière dont les attributions, la composition et les règles de fonctionnement seront fixées par décret.
 
@@ -278,41 +322,27 @@ Toute personne morale qui sollicite un agrément doit fournir le dossier ci - ap
 
 - une  attestation  d'inscription  au  registre national des contribuables ( RNC) ;
 
--une liste du personnel technique d'encadrement  avec  curriculum  vitae  et diplômes
+- une liste du personnel technique d'encadrement avec curriculum vitae et diplômes
 
-- et
+- une liste du matériel technique et installations fixes avec titres de propriété ;
 
--une liste du matériel technique installations fixes avec titres de propriété ;
+- une attestation de numéro de l'employeur délivrée par la Caisse Nationale de Sécurité Sociale ;
 
-- une attestation de numéro de l'employeur délivrée par la Caisse Nationale de Sécurité
+- une attestation de solde de leur compte bancaire ;
 
-- Sociale ;
-
-- une  attestation  de  solde  de  leur  compte
-
-- bancaire ;
-
-- le récépissé du numéro d'immatriculation
-
-- au registre du commerce ;
+- le récépissé du numéro d'immatriculation au registre du commerce ;
 
 - les statuts de la société, le procès - verbal de l'Assemblée Générale Consultative ;
 
--les noms  et adresses des principaux dirigeants statutaires ;
+- les noms et adresses des principaux dirigeants statutaires ;
 
-- une  attestation  de  libération  des  trois quarts  du  capital  délivrée  par  une  banque de la place.
+- une attestation de libération des trois quarts du capital délivrée par une banque de la place.
 
-#### ART.  6  -
-Le  Ministre  de  l'Equipement statue dans un délai de quarante cinq jours, la la
-
-- sur tout dossier transmis par Commission Consultative pour promotion immobilière.
+#### ART. 6 -
+Le Ministre de l'Equipement statue dans un délai de quarante cinq jours, sur tout dossier transmis par la Commission Consultative pour la promotion immobilière.
 
 #### ART. 7 -
-Un registre chronologique d'enregistrement  d'agrément,  est  tenu  au
-
-- niveau  de  la  direction  de  l'Habitat.  Toute
-
-modification  pouvant  intervenir dans  le cadre de cette inscription doit être consignée dans ce registre.
+Un registre chronologique d'enregistrement d'agrément, est tenu au niveau de la direction de l'Habitat. Toute modification pouvant intervenir dans le cadre de cette inscription doit être consignée dans ce registre.
 
 ### TITRE III DES SANCTIONS
 
@@ -527,7 +557,7 @@ Le  Chef  d'Etat  -  Major  de  la Gendarmerie Nationale est chargé de l'exécu
 ### Décret  n°  126  -  99  du  17  juillet  1999 portant  nomination  d'élèves  -  officiers  au grade  de  sous  -  lieutenant  d'active  de l'Armée Nationale.
 
 #### ARTICLE PREMIER -
-Les élèves officiers d'actives dont les noms et matricules suivent,  sont  nommés  au  grade  de  sous  lieutenant d'active ou d'enseigne de vaisseau  de  2°  classe  à  compter  des  dates précisées en face de leurs noms et conformément aux indications suivantes
+Les élèves officiers d'actives dont les noms et matricules suivent, sont nommés au grade de sous - lieutenant d'active ou d'enseigne de vaisseau de 2° classe à compter des dates précisées en face de leurs noms et conformément aux indications suivantes
 
 #### I - SECTION TERRE
 
@@ -615,13 +645,13 @@ La  déclaration  en  vue  de  la reconnaissance des associations de gestion par
 
 Cette  déclaration  doit  être  accompagnée d'un dossier mentionnant :
 
-- le nom, l'objet, le ressort territorial et le siège social de l'association ;
+a) le nom, l'objet, le ressort territorial et le siège social de l'association ;
 
-- les  noms,  prénoms,  âges,  domiciles  et professions de ceux qui sont chargés de son administration ou de sa direction.
+b) les noms, prénoms, âges, domiciles et professions de ceux qui sont chargés de son administration ou de sa direction.
 
-- le procès -verbal de la réunion constitutive  faisant  ressortir  le  nombre de personnes présentes, celui des adhérents, ainsi que la nature des voix ;
+c) le procès - verbal de la réunion constitutive faisant ressortir le nombre de personnes présentes, celui des adhérents, ainsi que la nature des voix ;
 
-- deux exemplaires des statuts de l'association de gestion participative des oasis.
+d) deux exemplaires des statuts de l'association de gestion participative des oasis.
 
 ##### ART. 5 -
 L'arrêté de reconnaissance mentionnant  entre  autres,  la  date  de  la déclaration,  le  nom,  l'objet  et  le  siège  de l'association est publié au Journal Officiel. Un registre de recensement des associations  oasiennes  agréées  est  ouvert auprès des services régionaux du Ministre chargé de l'Agriculture.
@@ -640,15 +670,15 @@ Les changements survenus dans l'administration ou la direction de l'association 
 ##### ART.  7 -
 Les statuts de l'association doivent comprendre les éléments suivants :
 
-- l'indication du nom de l'association, de son  objet,  de  sa  durée  et  de  son  siège social
+a) l'indication du nom de l'association, de son objet, de sa durée et de son siège social
 
-- les conditions d'admission et de radiation de ses membres
+b) les conditions d'admission et de radiation de ses membres
 
-- les règles d'organisation et de fonctionnement  de  l'association,  ainsi que la détermination des pouvoirs conférés  aux  membres  chargés  de  son administration ou sa direction, les conditions de modification des statuts et de dissolution de l'association
+c) les règles d'organisation et de fonctionnement de l'association, ainsi que la détermination des pouvoirs conférés aux membres chargés de son administration ou sa direction, les conditions de modification des statuts et de dissolution de l'association
 
-- les  modalités  de  contrôle  des  comptes par un commissaire aux comptes
+d) les modalités de contrôle des comptes par un commissaire aux comptes
 
-- les  règles  suivant  lesquelles  les  biens seront  dévolus  en  cas  de  dissolution volontaire,  statutaire  ou  prononcée  en justice.
+e) les règles suivant lesquelles les biens seront dévolus en cas de dissolution volontaire, statutaire ou prononcée en justice.
 
 ##### ART. 8 -
 Lorsque l'assemblée générale est appelée à se prononcer sur une dévolution de  biens,  quel  qu'en  soit  le  mode,  elle  ne peut, conformément à l'article 1 er de la loi du  9  juin  1964  relative  aux  associations, attribuer  aux  associés,  en  dehors  de  la reprise des parts sociales, une part quelconque des biens de l'association.
@@ -697,26 +727,26 @@ son remplacement.
 
 JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE  30 Août 1999 957
 
-La démission collective du bureau entraîne la démission du président de l'association. Il est alors procédé à une nouvelle élection. Lorsque l'assemblée générale ne peut élire les un chargé d'administrer  collègialement  l'association
+La démission collective du bureau entraîne la démission du président de l'association. Il est alors procédé à une nouvelle élection.
 
-le bureau, le wali désigné parmi membres réguliers de l'association comité de gestion provisoire jusqu'à l'élection d'un bureau.
+Lorsque l'assemblée générale ne peut élire le bureau, le wali désigné parmi les membres réguliers de l'association un comité de gestion provisoire chargé d'administrer collègialement l'association jusqu'à l'élection d'un bureau.
 
 Cette élection doit intervenir impérativement  dans  les  six  mois  suivant la  date  de  l'arrêté  désignant  les  membres du comité de gestion provisoire.
 
 ##### ART. 13 -
 L'assemblée générale délibère, lors de ses réunions ordinaires, sur l'ensemble des questions relatives à la gestion participative de l'oasis, et, les activités  liées  à  son  développement  et  la protection de son environnement. Elle délibère en particulier sur :
 
-- la  gestion  du  bureau  qui  doit  rendre compte de la situation financière et des opérations accomplies pendant les semestre ;
+a) la gestion du bureau qui doit rendre compte de la situation financière et des opérations accomplies pendant les semestre ;
 
-- les propositions de dissolution de l'association  ou  de  modification  de  ses statuts ;
+b) les propositions de dissolution de l'association ou de modification de ses statuts ;
 
-- l'approbation,  le  vote  et  la  délibération sur les emprunts qui peuvent être nécessaires à l'association ;
+c) l'approbation, le vote et la délibération sur les emprunts qui peuvent être nécessaires à l'association ;
 
-- le contrôle et la vérification des comptes présentés par le commissaires aux comptes de l'association ;
+d) le contrôle et la vérification des comptes présentés par le commissaires aux comptes de l'association ;
 
-- l'autorisation  de  toutes  actions  devant les tribunaux ;
+e) l'autorisation de toutes actions devant les tribunaux ;
 
-- toutes les questions qui relèvent de manière générale de sa compétence conformément  à  la  loi  n°  016  -  98 relative  à  la  gestion  participative  des oasis.
+f) toutes les questions qui relèvent de manière générale de sa compétence conformément à la loi n° 016 - 98 relative à la gestion participative des oasis.
 
 Lors des réunions extraordinaires, l'assemblée générale ne peut délibérer que sur les questions qui lui sont soumises par le  bureau  ou  le  représentant  du  ministre chargé de l'Agriculture et, qui sont expressément mentionnées dans la convocation.
 
@@ -737,17 +767,17 @@ Les  décisions  du  bureau  sont  consignées dans un registre spécialement ou
 ##### ART.  16 -
 Le président est l'autorité exécutive de l'association. A ce titre :
 
-- il  représente  l'association  en  justice  et vis - à - vis des tiers dans tous les actes de la vie civile de l'association ;
+a) il représente l'association en justice et vis - à - vis des tiers dans tous les actes de la vie civile de l'association ;
 
-- il  prépare  les  décisions  de  l'assemblée générale et du bureau et les fait exécuter ;
+b) il prépare les décisions de l'assemblée générale et du bureau et les fait exécuter ;
 
-- il  exerce  une  surveillance  générale  sur les  intérêts  de  l'association,  ainsi  que sur ses travaux et réalisations ;
+c) il exerce une surveillance générale sur les intérêts de l'association, ainsi que sur ses travaux et réalisations ;
 
-- il veille à la conservation des documents relatifs à l'administration, la direction et la gestion de l'association, qui sont déposés au siège social ;
+d) il veille à la conservation des documents relatifs à l'administration, la direction et la gestion de l'association, qui sont déposés au siège social ;
 
-- il prépare le budget, et présente à l'assemblée générale les comptes annuels ;
+e) il prépare le budget, et présente à l'assemblée générale les comptes annuels ;
 
-- il est l'ordonnateur du budget de l'association ;
+f) il est l'ordonnateur du budget de l'association ;
 
 359
 
@@ -757,26 +787,27 @@ Le président est l'autorité exécutive de l'association. A ce titre :
 
 JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE  30 Août 1999 957
 
-- il élabore le projet de règlement intérieur de l'association et le soumet à l'approbation du bureau et de l'assemblée générale ;
+g) il élabore le projet de règlement intérieur de l'association et le soumet à l'approbation du bureau et de l'assemblée générale ;
 
-- il  est  chargé  d'une manière générale de toutes les autres attributions qui lui sont conférées par la loi n° 016 - 98 relative à la gestion participative des oasis et par le présent décret.
+h) il est chargé d'une manière générale de toutes les autres attributions qui lui sont conférées par la loi n° 016 - 98 relative à la gestion participative des oasis et par le présent décret.
 
-Le  contrôle  des  comptes  de  l'association est assuré par un commissaire aux comptes élu par l'assemblée générale.
+##### ART. 17 -
+Le contrôle des comptes de l'association est assuré par un commissaire aux comptes élu par l'assemblée générale.
 
-Dans le  cas  où  une  association  reçoit  une subvention de l'Etat, celui - ci peut exercer un contrôle sur les comptes de l'association.
+Dans le cas où une association reçoit une subvention de l'Etat, celui - ci peut exercer un contrôle sur les comptes de l'association.
 
 ##### ART. 18 -
 Le périmètre oasien est délimité par arrêté du wali sur proposition des services techniques régionaux en collaboration avec l'association de gestion participative des oasis.
 
-- Le dossier de délimitation doit comprendre :
+Le dossier de délimitation doit comprendre :
 
-- un plan parcellaire du périmètre concerné indiquant notamment son tracé et la vocation spécifique de ses différentes zones ;
+a) un plan parcellaire du périmètre concerné indiquant notamment son tracé et la vocation spécifique de ses différentes zones ;
 
-- la  liste  des  ouvrages  et  équipements  y existant ;
+b) la liste des ouvrages et équipements y existant ;
 
-- le programme des travaux d'aménagement à exécuter par l'association de gestion participative des oasis  et  une  estimation  sommaire  de leur coût.
+c) le programme des travaux d'aménagement à exécuter par l'association de gestion participative des oasis et une estimation sommaire de leur coût.
 
-- la charte de coopération et de développement prévue à l'article 7 de la loi  n°  016  -  98  relative  à  la  gestion participative des oasis lorsque la délimitation concerne un périmètre commun à plusieurs oasis.
+d) la charte de coopération et de développement prévue à l'article 7 de la loi n° 016 - 98 relative à la gestion participative des oasis lorsque la délimitation concerne un périmètre commun à plusieurs oasis.
 
 #### SECTION II - MISE EN VALEUR ET PROTECTION DU MILIEU OASIEN
 ##### Paragraphe 1 - gestion des ressources en eau
@@ -818,7 +849,7 @@ JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE  30 Août 1999 957
 ###### ART. 24 -
 Les Ministres de l'Intérieur, des Postes et Télécommunications et du Développement Rural et de l'Environnement  sont  chargés,  chacun  en ce qui le concerne, de l'exécution du présent  décret  qui  sera  publié  au  Journal Officiel.
 
-### Arrêté  n° R  564  du  15  juillet  1999 instituant un Comité Technique de suivi de la  réorganisation  foncière  dans  le  secteur rural .
+### Arrêté n° R - 564 du 15 juillet 1999 instituant un Comité Technique de suivi de la réorganisation foncière dans le secteur rural.
 
 #### ARTICLE  PREMIER  -
 Il  est  institué  un comité technique de suivi de la réorganisation foncière dans le secteur rural.
@@ -918,7 +949,7 @@ MM.
 
 -Yahya  ould  Sidi  Jaafar, directeur de l'administration territoriale au ministère de l'Intérieur, ès qualité ;
 
-###### Industriels et commerçants :
+###### b) Industriels et commerçants :
 
 MM.
 
@@ -976,7 +1007,7 @@ Le Secrétaire Général du Ministère  du  Commerce,  de  l'Artisanat  et du  T
 # Ministère de l'Education Nationale
 
 ## Actes Réglementaires
-### Arrêté n° R - 509 du 29 juin 1999 fixant les de programmes d'instruction civique l'enseignement secondaire.
+### Arrêté n° R - 509 du 29 juin 1999 fixant les programmes d'instruction civique de l'enseignement secondaire.
 
 362
 
@@ -1017,14 +1048,10 @@ Le présent arrêté abroge  et remplace toutes dispositions antérieures contra
 #### ART. 3 -
 L'Inspecteur Général de l'Enseignement  Fondamental,  le  Directeur de l'Enseignement Fondamental et le directeur de l'Institut Pédagogique National sont chargés, chacun en ce qui le concerne,  de  l'exécution  du  présent  arrêté qui sera publié au Journal Officiel.
 
-### Arrêté n° R - 512 du 29 juin 1999 fixant les de
+### Arrêté n° R - 512 du 29 juin 1999 fixant les programmes d'instruction civique de l'enseignement fondamental.
 
-programmes d'instruction civique l'enseignement fondamental.
-
-#### ARTICLE  PREMIER  -
-Les  programmes l'Enseignement arrêté sont  approuvés  et  entrent  en  vigueur  à
-
-d'instruction civique de Fondamental annexés au présent partir du 1 er octobre 1999.
+#### ARTICLE PREMIER -
+Les programmes d'instruction civique de l'Enseignement Fondamental annexés au présent arrêté sont approuvés et entrent en vigueur à partir du 1er octobre 1999.
 
 #### ART.  2
 Le présent arrêté abroge  et remplace toutes dispositions antérieures contraires notamment l'arrêté n° R - 91 du 25 avril 1994 fixant les programmes d'éducation civique de l'école fondamentale.
@@ -1061,7 +1088,7 @@ Le présent arrêté sera  publié au Journal Officiel.
 
 ## Actes Divers
 
-### Arrêté  n° R  558  du  13  juillet  1999 portant création d'un institut islamique.
+### Arrêté n° R - 558 du 13 juillet 1999 portant création d'un institut islamique.
 
 #### ARTICLE  PREMIER  -
 Monsieur  Sidaty ould Hademine  est  autorisé  à  ouvrir  à Beribava ( Moughataa de Néma, Hodh El Charghi) un institut islamique dénommé « Institut Tawfiq ».
@@ -1122,7 +1149,7 @@ Toutes  personnes  intéressées  sont  admises  à former opposition à la pré
 Le Conservateur de la Propriété foncière BA HOUDOU ABDOUL
 
 ### AVIS DE DEMANDE D'IMMATRICULATION
-Au Livre foncier d' ....du Suivant  réquisition,  n°  899  déposée  le      ,  le sieur Jejmedine ould Babani, profession ____, demeurant à Nouakchott et domicilié à il a demandé l'immatriculation au livre foncier  du  cercle  du  Trarza  d'un  immeuble urbain  bâti, consistant  un  forme  rectangle, d'une contenance totale de 01a 80 ca, situé à Nouakchott, Toujounine, cercle du Trarza, connu  sous  le  nom  du  lot  n°  857/PK  -  8  et borné au nord par le lot 855, sud par le lot 859, est par les lots 858 et 860 et ouest par une rue s/n.
+Au Livre foncier d' ....du
 
 364
 
@@ -1131,6 +1158,10 @@ Au Livre foncier d' ....du Suivant  réquisition,  n°  899  déposée  le      
 [[START OF PAGE 18]]
 
 JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE  30 Août 1999 957
+
+Suivant réquisition, n° 899 déposée le , le sieur Jejmedine ould Babani, profession ____, demeurant à Nouakchott et domicilié à
+
+il a demandé l'immatriculation au livre foncier du cercle du Trarza d'un immeuble urbain bâti, consistant un forme rectangle, d'une contenance totale de 01a 80 ca, situé à Nouakchott, Toujounine, cercle du Trarza, connu sous le nom du lot n° 857/PK - 8 et borné au nord par le lot 855, sud par le lot 859, est par les lots 858 et 860 et ouest par une rue s/n.
 
 Il déclare que ledit immeuble lui appartient en vertu d'un acte administratif.
 
@@ -1271,9 +1302,7 @@ secrétaire général : Abdellahi ould Dady, 1965
 
 Nouakchott
 
-trésorier : Lemrabott ould Dady, Nouakchott
-
-1972
+trésorier : Lemrabott ould Dady, 1972 Nouakchott
 
 ## RECEPISSE N°0615 du 20 juillet 1999 portant déclaration d'une association dénommée « Union des Handicapés de Riyad ».
 
@@ -1327,11 +1356,7 @@ présidente :    Aichetou  mint  Sidi  ould  Didy,
 
 JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE  30 Août 1999 957
 
-secrétaire
-
-général :  Salma  mint  Sid'Bouna,
-
-1954 Aioun
+secrétaire général : Salma mint Sid'Bouna, 1954 Aioun
 
 trésorier : Dah ould Cheikh
 
@@ -1351,13 +1376,9 @@ Durée de l'Association : indéterminée
 
 ### COMPOSITION DE L'ORGANE EXECUTIF
 
-président :    Cheikh  Tourad  ould  Mohamed
+président : Cheikh Tourad ould Mohamed 1957 Guerrou
 
-1957  Guerrou
-
-Responsable relations extérieures : Moustapha ould M'Khaitir
-
-Med
+Responsable relations extérieures : Med Moustapha ould M'Khaitir
 
 Gestionnaire : Chriva mint Abdallahi
 
@@ -1412,8 +1433,8 @@ Il  est  porté à la connaissance du public la perte du titre foncier n° 4138 
 Le Notaire.
 
 AVIS DIVERS | BIMENSUEL Paraissant les 15 et 30 de chaque mois | ABONNEMENTS ET ACHAT AU NUMERO
---- | --- | --- | ---
-Les annonces sont reзues au service du Journal Officiel --------------------- L'administration decline toute responsabilitй quant а la teneur des annonces. | POUR LES ABONNEMNETS ET ACHATS AU NUMERO S'adresser а la direction de l'Edition du Journal Officiel ; BP 188, Nouakchott ( Mauritanie) les achats s'effectuent exclusivement au comptant, par chиque ou virement bancaire compte chиque postal n° 391 Nouakchott | Abonnements . ordinaire PAYS DU MAGHREB Etrangers Achats au numйro prix unitaire | un an 4000 UM 4000 UM 5000 UM : 200 UM
+--- | --- | ---
+Les annonces sont reçues au service du Journal Officiel --------------------- L'administration decline toute responsabilité quant à la teneur des annonces. | POUR LES ABONNEMENTS ET ACHATS AU NUMERO S'adresser à la direction de l'Edition du Journal Officiel; BP 188, Nouakchott (Mauritanie) les achats s'effectuent exclusivement au comptant, par chèque ou virement bancaire compte chèque postal n° 391 Nouakchott | Abonnements . un an ordinaire 4000 UM PAYS DU MAGHREB 4000 UM Etrangers 5000 UM Achats au numéro : prix unitaire 200 UM
 
 367
 
@@ -1423,7 +1444,7 @@ Les annonces sont reзues au service du Journal Officiel --------------------- L
 
 JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE  30 Août 1999 957
 
-Editй par la Direction Genйrale de la Lйgislation, de la Traduction et de l'Edition
+Edité par la Direction Générale de la Législation, de la Traduction et de l'Edition
 
 PREMIER MINISTERE
 
