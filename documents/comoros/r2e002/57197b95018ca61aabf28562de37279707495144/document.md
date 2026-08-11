@@ -10,7 +10,7 @@ Vu la Loi référendaire portant révision de la Constitution de l'Union des Com
 
 Vu La Loi n°94-035/AF du 20 décembre 1994, portant orientation sur l'Education
 
-Vu le Décret n°11-078/PR du 30 mai 2011, portant réorganisation générale et missions des services des Ministères de I'Union des Comores,
+Vu le Décret n°11-078/PR du 30 mai 2011, portant réorganisation générale et missions des services des Ministères de l'Union des Comores,
 
 Vu le Décret n°09-025/PR du 07 mars 2009, fixant le cadre organique du Ministère de l'Education Nationale, de la Recherche, de la culture et des Arts ;
 
@@ -19,7 +19,7 @@ Vu les nécessités de services ;
 ## ARRETE
 
 ### Article 1er :
-ll est créé au sein du système éducatif comorien une Commission Nationale de Révision de la Loi portant Orientation de l'Education de 1994.
+Il est créé au sein du système éducatif comorien une Commission Nationale de Révision de la Loi portant Orientation de l'Education de 1994.
 
 ### Article 2 :
 La Commission Nationale a pour mission de :
