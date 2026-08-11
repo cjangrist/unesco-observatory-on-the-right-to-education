@@ -4,7 +4,7 @@
 
 ## PREAMBULE
 
-Le Tchad, proclamé République le 28 Novembre  1958, a accédé à la souveraineté nationale et internationale le 11 août I960.
+Le Tchad, proclamé République le 28 Novembre  1958, a accédé à la souveraineté nationale et internationale le 11 août 1960.
 
 Depuis cette date, il a connu une évolution institutionnelle et politique mouvementée.
 
@@ -52,13 +52,13 @@ Proclamons notre attachement à la cause de l'unité africaine et notre engageme
 
 [[START OF PAGE 3]]
 
-#### Article  1 er :
+#### Article 1er :
 Le  Tchad  est  une  République  souveraine,  indépendante,  laïque, sociale, une et indivisible, fondée sur les principes de la démocratie, le règne de la loi et de la justice.
 
-II est affirmé la séparation des religions et de l'Etat,
+Il est affirmé la séparation des religions et de l'Etat,
 
 #### Article 2 :
-D'une  superficie d'un  million deux   cent quatre-vingt-quatre  mille (1.284.000)   km 2 ,   la   République   du  Tchad   est   organisée   en   circonscriptions administratives et en collectivités territoriales dont  l'autonomie est garantie par la présente Constitution.
+D'une superficie d'un million deux cent quatre-vingt-quatre mille (1.284.000) km², la République du Tchad est organisée en circonscriptions administratives et en collectivités territoriales dont l'autonomie est garantie par la présente Constitution.
 
 #### Article 3 :
 La Souveraineté appartient au peuple qui l'exerce soit directement par référendum, soit indirectement par l'intermédiaire de ses représentants élus.
@@ -79,10 +79,10 @@ Le suffrage est universel, direct ou indirect, égal et secret.
 Sont électeurs dans les conditions déterminées par la loi tous les Tchadiens des deux sexes, âgés de dix-huit ans révolus et jouissant de leurs droits civiques et politiques.
 
 #### Article 7 :
-Le .principe de l'exercice du pouvoir est le Gouvernement du peuple par le peuple et pour le peuple, fondé sur la séparation des pouvoirs : Exécutif, Législatif et Judiciaire.
+Le principe de l'exercice du pouvoir est le Gouvernement du peuple par le peuple et pour le peuple, fondé sur la séparation des pouvoirs : Exécutif, Législatif et Judiciaire.
 
 #### Article 8 :
-L'emblème national est le drapeau tricolore : bleu, or, rouge à bandes verticales et à dimensions égaies, le bleu étant du coté de la hampe.
+L'emblème national est le drapeau tricolore : bleu, or, rouge à bandes verticales et à dimensions égales, le bleu étant du coté de la hampe.
 
 La Devise de la République du Tchad est : Unité - Travail - Progrès.
 
@@ -235,7 +235,7 @@ L'enseignement privé est reconnu et s'exerce dans les conditions définies par 
 [[START OF PAGE 7]]
 
 #### Article  39 :
-L'Etat  assure  la  promotion  et  le  développement  de  l'enseignement public générai, technique et professionnel,
+L'Etat assure la promotion et le développement de l'enseignement public général, technique et professionnel,
 
 #### Article  40 :
 L'Etat  et  les  Collectivités  Autonomes  créent  les  conditions  et  les institutions qui assurent et garantissent l'éducation des enfants, la promotion du genre et des personnes handicapées.
@@ -353,7 +353,7 @@ Le  pouvoir  exécutif  est  exercé  par  le  Président  de  la  République. 
 
 Il est le garant de l'indépendance nationale, de l'intégrité territoriale et du respect de la Constitution, des traités et accords internationaux,
 
-II assure, par son arbitrage, le fonctionnement régulier des pouvoirs publics ainsi que la continuité de l'Etat.
+Il assure, par son arbitrage, le fonctionnement régulier des pouvoirs publics ainsi que la continuité de l'Etat.
 
 ### CHAPITRE 1 : DU PRÉSIDENT DE LA RÉPUBLIQUE
 
@@ -458,7 +458,7 @@ Les fonctions du Président de la République sont incompatibles avec l'exercice
 Le Président de la République est tenu lors de son entrée en fonction et  à  la  fin  de  son  mandat,  de  faire  sur  l'honneur  une  déclaration  écrite  de  son patrimoine, adressée à la Cour Suprême,
 
 #### Article 78 :
-Durant son mandat, le Président de la République ne peut, par luimême, ni par intermédiaire, rien acheter ou prendre en bail qui appartienne au domaine de l'Etat.
+Durant son mandat, le Président de la République ne peut, par lui-même, ni par intermédiaire, rien acheter ou prendre en bail qui appartienne au domaine de l'Etat.
 
 Il ne peut prendre part, ni par lui-même, ni par intermédiaire, aux marchés publics et privés de l'Etat ou de ses démembrements,
 
@@ -471,7 +471,7 @@ Elle détermine également les modalités d'octroi d'une pension et autres avant
 En  cas  d'absence  du  territoire  ou  d'empêchement  temporaire  du Président de la République, son intérim est assuré par  un  membre  du Gouvernement désigné par ses soins, dans la limite des pouvoirs qu'il lui  aura délégués.  Un  acte  réglementaire  du  Président  de  la  République  détermine  les conditions d'exercice de l'intérim.
 
 #### Article 81 :
-En cas de vacance de la Présidence de la République pour quelque cause  que  ce  soit  ou  d'empêchement  définitif  constaté  par  la  Cour  Suprême saisie par le Gouvernement et statuant à la majorité absolue de ses membres, les attributions du Président de la République, à l'exception des pouvoirs prévus aux articles  85,  88,  95  et  96  sont  provisoirement  exercées  par  le  Président  de l'Assemblée Nationale et, en cas d'empêchement de ce dernier, par le 1 er Viceprésident
+En cas de vacance de la Présidence de la République pour quelque cause que ce soit ou d'empêchement définitif constaté par la Cour Suprême saisie par le Gouvernement et statuant à la majorité absolue de ses membres, les attributions du Président de la République, à l'exception des pouvoirs prévus aux articles 85, 88, 95 et 96 sont provisoirement exercées par le Président de l'Assemblée Nationale et, en cas d'empêchement de ce dernier, par le 1er Vice-président
 
 Dans tous les cas, il est procédé à de nouvelles élections présidentielles quarante cinq (45) jours au moins et quatre vingt dix (90) jours au plus, après l'ouverture de la vacance.
 
@@ -605,12 +605,13 @@ Les actes du Président de la République autres que ceux relatifs :
 - aux décrets simples ;
 
 sont contresignés le cas échéant, par les ministres responsables,
-#### Article 101 :
-Le Président de la République peut déléguer certains de ses pouvoirs aux ministres.
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+
+#### Article 101 :
+Le Président de la République peut déléguer certains de ses pouvoirs aux ministres.
 
 #### Article 102 :
 Le Président de fa République adresse, une fois par an, un message à l'Assemblée Nationale sur l'état de la Nation.
@@ -623,7 +624,7 @@ Il peut aussi, à tout moment, adresser des messages à l'Assemblée Nationale, 
 Le Gouvernement est composé du Président de la République et des ministres.
 
 #### Article 104 ;
-Le Gouvernement exécute la politique de la Nation définie en Conseil des Ministres, II assure l'exécution des lois,
+Le Gouvernement exécute la politique de la Nation définie en Conseil des Ministres, Il assure l'exécution des lois,
 
 #### Article 105 :
 Les ministres sont nommés par le Président de la République.
@@ -953,14 +954,14 @@ La  Cour  Suprême  assiste  le  Gouvernement  et  l'Assemblée  Nationale  dans
 
 L'Assemblée  Nationale  règle  les  comptes  de  la  Nation  selon  les  modalités prévues par la loi organique relative à la loi de finances.
 
-Elle est, à cet effet, assistée par la Cour Suprême qu'elle charge de toute enquête et étude se rapportant à l'exécution des recettes et des dépenses publiques ou à la gestion de la trésorerie nationale, des collectivités autonomes, des administrations ou institutions relevant de l'Etat ou soumises au contrôle de celuici.
+Elle est, à cet effet, assistée par la Cour Suprême qu'elle charge de toute enquête et étude se rapportant à l'exécution des recettes et des dépenses publiques ou à la gestion de la trésorerie nationale, des collectivités autonomes, des administrations ou institutions relevant de l'Etat ou soumises au contrôle de celui-ci.
 
 Le projet de loi de règlement doit être déposé à l'Assemblée Nationale un (1) an au plus tard après l'exécution du budget.
 
 #### Article  137  ;
 L'initiative  des  lois  appartient  concurremment  au  Président  de  la République et aux membres de l'Assemblée Nationale.
 
-Les  projets  de  loi  sont  soumis,  par  lé  Président  de  la  République,  à  la  Cour Suprême, pour avis, avant d'être examinés en Conseil des Ministres.
+Les projets de loi sont soumis, par le Président de la République, à la Cour Suprême, pour avis, avant d'être examinés en Conseil des Ministres.
 
 Les projets de loi sont délibérés en Conseil des Ministres et déposés au Bureau de l'Assemblée Nationale.
 
@@ -988,7 +989,7 @@ Les projets et propositions de lois sont envoyés pour examen aux commissions sp
 Les projets et propositions pour lesquels une telle demande n'a pas été faite sont envoyés à l'une des commissions permanentes.
 
 #### Article 143 :
-Les membres de l'Assemblée Nationale et le Gouvernement ont te droit d'amendement
+Les membres de l'Assemblée Nationale et le Gouvernement ont le droit d'amendement
 
 Lorsque  l'Assemblée  Nationale  a  confié  l'examen  d'un  projet  de  texte  à  une Commission, le  Gouvernement  peut,  après  l'ouverture  des  débats,  s'opposer  à l'examen  de  tout  amendement  qui  n'a  pas  été  préalablement  soumis  à  cette Commission.
 
@@ -1040,7 +1041,7 @@ Ces  moyens  sont  exercés  dans  les  conditions  déterminées  par  le  Règ
 Le  pouvoir  judiciaire  est  indépendant  du  pouvoir  exécutif  et  du pouvoir législatif.
 
 #### Article 147 :
-II est institué un seul ordre de juridiction dont la Cour Suprême est l'instance la plus haute en matière judiciaire, administrative, constitutionnelle et de contrôle des comptes.
+Il est institué un seul ordre de juridiction dont la Cour Suprême est l'instance la plus haute en matière judiciaire, administrative, constitutionnelle et de contrôle des comptes.
 
 #### Article 148 :
 Le pouvoir judiciaire est exercé au Tchad par la Cour Suprême, les cours d'Appel, la Haute Cour Militaire, les tribunaux et les justices de paix. Il est le gardien des libertés et de la propriété individuelle. Il veille au respect des droits fondamentaux.
@@ -1191,7 +1192,7 @@ Les  réparations  coutumières  et  traditionnelles  ne  peuvent  faire obstacl
 [[START OF PAGE 30]]
 
 #### Article  164 :
-II  est  institué  un  organe  consultatif  dénommé  Haut  Conseil  des Collectivités Autonomes et des Chefferies Traditionnelles.
+Il  est  institué  un  organe  consultatif  dénommé  Haut  Conseil  des Collectivités Autonomes et des Chefferies Traditionnelles.
 
 #### Article  165 :
 Le  Haut  Conseil  des  Collectivités  Autonomes  et  des  Chefferies Traditionnelles est une assemblée consultative.
@@ -1204,7 +1205,7 @@ Une loi organique détermine le mode de désignation, le nombre et le titre  des
 ## TITRE VIII : DU CONSEIL ECONOMIQUE, SOCIAL ET CULTUREL
 
 #### Article 167 :
-II est institué un organe consultatif dénommé Conseil Economique, Social et Culturel.
+Il est institué un organe consultatif dénommé Conseil Economique, Social et Culturel.
 
 #### Article 168 :
 Le Conseil Economique, Social et Culturel est chargé de donner son avis sur les questions à caractère économique, social, culturel ou environnemental portées à son examen par le Président de la République ou par le Président de l'Assemblée Nationale.
@@ -1222,7 +1223,7 @@ Une  loi organique fixe la composition, l'organisation et le fonctionnement du C
 ## TITRE IX : DE LA COMMISSION NATIONALE DES DROITS DE L'HOMME
 
 #### Article 171 :
-II est institué une Commission Nationale des Droits de l'Homme. La  Commission  Nationale  des  Droits  de  l'Homme  (CNDH)  est  une  autorité administrative indépendante.
+Il est institué une Commission Nationale des Droits de l'Homme. La  Commission  Nationale  des  Droits  de  l'Homme  (CNDH)  est  une  autorité administrative indépendante.
 
 [[END OF PAGE 30]]
 
@@ -1252,7 +1253,7 @@ Les  règles  d'organisation  et  de  fonctionnement  ainsi  que  la composition
 ## TITRE X : DE LA JUSTICE MILITAIRE
 
 #### Article 175 :
-II est institué une justice militaire comprenant un Tribunal militaire et une Haute Cour Militaire,
+Il est institué une justice militaire comprenant un Tribunal militaire et une Haute Cour Militaire,
 
 #### Article  176 :
 Le  Tribunal  Militaire  connaît  au  premier  degré  de  toutes  les contraventions et délits commis par les militaires quel que soit leur grade.
@@ -1272,7 +1273,7 @@ Une  loi  fixe  la  composition,  l'organisation,  le  fonctionnement  et  la co
 [[START OF PAGE 32]]
 
 #### Article  179 :
-II  est  institué  une  Haute  Autorité  des  Media  et  de  l'Audiovisuel (HAMA).
+Il  est  institué  une  Haute  Autorité  des  Media  et  de  l'Audiovisuel (HAMA).
 
 La  Haute  Autorité  des  Media  et  de  l'Audiovisuel  est  une  autorité  administrative indépendante.
 
@@ -1420,7 +1421,7 @@ L'action de la Garde Nationale et Nomade s'exerce sur l'ensemble du territoire n
 [[START OF PAGE 35]]
 
 #### Article 197 :
-II est institué un Corps de Police Judiciaire.
+Il est institué un Corps de Police Judiciaire.
 
 #### Article 198 :
 Le Corps de Police Judicaire est composé d'officiers et d'agents de police judicaire, issus de la Gendarmerie Nationale et de la Police Nationale.
