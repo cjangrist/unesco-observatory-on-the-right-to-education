@@ -216,6 +216,8 @@ The  Government  of  Tanzania  has  been  implementing  Primary  Education  Deve
 The  SWASH  Strategic  plan  aim  at  enhancing  the  provision  of  adequate  safe  water,  sanitation  and hygiene facilities as well as improving the academic performance, school attendance and overall health of school children. It will act as a guide to various stakeholders including the Government, Development Partners,  NGOs,  Civil  Society  Organizations  Communities  and  others  to  work  together  towards attainment of better healthy learning environment among school children.
 
 The  development  of  this  strategic  plan  took  advantage  of  the  on-going  initiatives  of  Primary  and Secondary School Development Program (PEDP & SEDP) which apart from raising enrolment they aim at improving the quality of education as whole. It also recognizes the support from a range of players who complements  the  national  and  regional  efforts  in  implementing  SWASH.  Furthermore,  the  disease burden  in developing countries due to diseases primarily related to poor Sanitation and Hygiene has rendered  the  global  community  to  give  WASH  a  considerable  priority.  For  instance,  the  inclusion  of Sanitation  in  MDGs  (goal  7)  and  MKUKUTA  is  the  evidence  of  the  International  and  National commitment to improve the performance in the education sub-sector. It is reported that 60-80% of OPD cases  in  health  facilities  are  due  to  water  borne  and  sanitation  related  diseases.  Therefore,  the development  of  this  strategic  plan  among  others  will  play  a  key  role  in  preventing  WASH  related diseases to school children and the community at large. In so doing the absenteeism brought about by WASH related diseases will dramatically be contained leading to maximization of attendances and hence academic performance in schools. Although this strategic plan has a span of five years from 2012 - 2017, it  is  expected  that  after  two  years  of  implementation,  a  review  will  be  carried  out  to  adapt  changes based on experience learnt.
+Permanent Secretary
+Ministry of Education and Vocational Training
 
 iii
 
@@ -225,7 +227,7 @@ iii
 
 ## ACKNOWLEDGEMENT
 
-The  development  of  School  WASH  strategic  plan  involved  various  stakeholders  including sectoral representatives, Development  Partners  (DPs), international, National and  NonGovernmental Organizations (NGOs) and other actors. Their tireless efforts and time during the development  of  this  strategic  plan  has  contributed  to  its  finalization.  This  document  will  be used as a guide in responding to various challenges facing SWASH.
+The development of School WASH strategic plan involved various stakeholders including sectoral representatives, Development Partners (DPs), international, National and Non-Governmental Organizations (NGOs) and other actors. Their tireless efforts and time during the development of this strategic plan has contributed to its finalization. This document will be used as a guide in responding to various challenges facing SWASH.
 
 The government of Tanzania would like to thank UNICEF for their immense support in financing the development of this document. Also we would like to acknowledge other supporters like WaterAid and SNV - Netherlands Development Organization who assisted the initial stages in carrying the school WASH mapping survey that was used as a baseline data.
 
@@ -234,6 +236,8 @@ This  exercise  would  not  have  been  possible  without  the  proper  coordina
 The MoEVT strongly appreciates the contribution made by Assistant Director of Environmental Health Services Mr. Elias Chinamo (MoHSW), Assistant Director of Sanitation Eng. Aman Mafuru (MoW), SWASH Coordinators Theresia Kuiwite (MoEVT) and Odilia Mushi (PMORALG) for the preparation of the initial document and in collaboration with other technical members from the same sector ministries and other experts from NGOs for its finalization.
 
 Finally but not least in importance, the MoEVT is indebted to nobody except Ms. Sarah House from UNICEF with her great contribution and advisory role during the whole process.
+The Commissioner for Education
+Ministry of Education and Vocational Training
 
 iv
 
@@ -303,7 +307,7 @@ Key ministry is the one having direct role(s) on Water Supply, Sanitation and Hy
 
 WASH facilities  includes  water  supply  facilities,  latrines,  hand-washing  facilities,  incinerators, refuse pits, and other waste collection and disposal facilities
 
-Water sourcesspring water, tap water, shallow wells, rain water harvesting etc
+Water sources- spring water, tap water, shallow wells, rain water harvesting etc
 
 Sanitation means of preventing human contact from the hazards of waste to promote health. It is  generally  used  to  refer  to  the  provision  of  facilities  and  services  for  the  safe  disposal  of human  feaces  and  urine,  but  it  can  also  be  used  to  refer  to  the  maintenance  of  hygienic conditions,  through  services  such  as  garbage  collection,  including  for  menstrual  hygiene protection materials, and wastewater disposal .
 
@@ -321,23 +325,19 @@ vii
 
 [[START OF PAGE 9]]
 
-- Improved  sanitation  includes  the  following  technologies  (as  defined  by  the  Joint Monitoring Programme (JMP) for water and sanitation of WHO and UNICEF).
+- Improved sanitation – includes the following technologies (as defined by the Joint Monitoring Programme (JMP) for water and sanitation of WHO and UNICEF).
 
-- o connection to public sewer
-
-- o connection to septic system
-
-- o pour-flush latrine
-
-- o simple pit latrine with a slab
-
-- o ventilated improved pit latrine
+- connection to public sewer
+- connection to septic system
+- pour-flush latrine
+- simple pit latrine with a slab
+- ventilated improved pit latrine
 
 Hygiene is the method of using cleanliness as a method of preventing disease .
 
-- Personal hygiene keeping the body clean to prevent disease.
+- Personal hygiene – keeping the body clean to prevent disease.
 
-- Hygiene promotion the planned, systematic attempt to enable people to take action to prevent or mitigate water, sanitation and hygiene related diseases .
+- Hygiene promotion – the planned, systematic attempt to enable people to take action to prevent or mitigate water, sanitation and hygiene related diseases.
 
 - Hygiene  education -the  provision  of  education  and  /  or  information  to  encourage people to maintain good hygiene and prevent hygiene related diseases .
 
@@ -351,9 +351,9 @@ Cross cutting issues in this document refers to gender and disability issues.
 
 - Gender -refers to the society constructed roles, behavior, activities and attributes that particular society consider appropriate for men and women .
 
-- Disability is  the  loss  or  limitation  of  opportunities  to  take  part  in  the  normal  life  of  the community on an equal level with others due to temporary or permanent physical, mental or social barriers. Such a loss or limitation could be aggravated by community's perception of disabled people.
+- Disability –is the loss or limitation of opportunities to take part in the normal life of the community on an equal level with others due to temporary or permanent physical, mental or social barriers. Such a loss or limitation could be aggravated by community's perception of disabled people.
 
-- Menstruation or menses is  a  natural  bodily  process for girls  and women and which means women and girls have particular sanitary and hygiene needs.
+- Menstruation or menses – is a natural bodily process for girls and women and which means women and girls have particular sanitary and hygiene needs.
 
 viii
 
@@ -363,11 +363,76 @@ viii
 
 ## TABLE OF CONTENT
 
+FOREWORD .................................................................................................................................... III
+ACKNOWLEDGEMENT .................................................................................................................... IV
+EXECUTIVE SUMMARY .................................................................................................................... V
+DEFINITION OF TERMS .................................................................................................................. VII
+TABLE OF CONTENT ....................................................................................................................... IX
+CHAPTER ONE ................................................................................................................................. 1
+1.0 INTRODUCTION ......................................................................................................................... 1
+1.1 BACKGROUND INFORMATION ................................................................................................................ 1
+1.2 SCHOOL WASH INITIATIVE ................................................................................................................... 2
+1.3 RATIONALE FOR SWASH STRATEGIC PLAN ................................................................................................ 2
+1.4 PURPOSE FOR SWASH STRATEGIC PLAN .................................................................................................. 3
+1.5 ORGANIZATION OF THE DOCUMENT STRUCTURE ......................................................................................... 3
+1.6 TIME FRAME ..................................................................................................................................... 3
+2.0 SITUATIONAL ANALYSIS ............................................................................................................ 4
+2.1 INTRODUCTION .................................................................................................................................. 4
+2.1.1 Primary Schools Enrolment ................................................................................................... 4
+2.1.2 Disease burden ..................................................................................................................... 5
+2.1.3 Sanitation Facilities .............................................................................................................. 5
+2.1.4 Hygienic Behaviour and Practice ........................................................................................... 6
+2.1.5 Water Supply ........................................................................................................................ 6
+2.1.6 Waste Management ............................................................................................................. 6
+2.1.7 Operation and Maintenance .................................................................................................. 7
+2.1.8 SWASH in Curricula ............................................................................................................... 7
+2.1.9 Institutional Arrangement .................................................................................................... 7
+2.1.10 Monitoring and Evaluation of SWASH ................................................................................... 8
+2.1.11 SWOC Analysis ...................................................................................................................... 8
+2.1.12 Policy guidelines and Strategy Formulation ............................................................................ 9
+2.1.13 Institutional Arrangement ................................................................................................... 10
+2.1.14 Capacity Building ................................................................................................................ 11
+2.1.15 Infrastructure Development and Maintenance ..................................................................... 12
+2.1.16 Cross Cutting Issues ............................................................................................................. 12
+2.1.17 Financial Mobilisation and Management ............................................................................. 13
+3.1 INTRODUCTION ................................................................................................................................ 14
+3.2. VISION, MISSION, GOAL AND OBJECTIVES OF SCHOOL WASH STRATEGIC PLAN ................................................ 14
+3.2.1 Vision ................................................................................................................................. 14
+3.2.2 Mission ............................................................................................................................... 14
+3.2.3 Goal................................................................................................................................... 14
+3.2.4. Objectives of school WASH Strategic Plan ..................................................................................... 14
+3.3. STRATEGIC PLAN AREAS ............................................................................................................................ 15
+3.3.1 Strategic area 1: Policy Guidelines and Strategy Formulation ................................................ 15
+3.3.3 Strategic Area 3: Awareness and Capacity Building .............................................................. 16
+3.3.4 Strategic Area 4: Infrastructure Development and Maintenance ........................................... 17
+3.3.5 Strategic Area 5: Cross Cutting Issues .................................................................................. 18
+3.3.6 Strategic Area 6: Financial Mobilization and Management of Resources ................................ 18
+
 ix
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+
+3.4 LOGICAL FRAMEWORK ....................................................................................................................... 20
+ACTION PLAN ............................................................................................................................................... 29
+CHAPTER FOUR ............................................................................................................................. 35
+4.0 FINANCING .............................................................................................................................. 35
+4.1 FINANCING SCHOOL WASH INTERVENTIONS ............................................................................................ 35
+4.1.1 Source of Funds ................................................................................................................... 36
+4.1.2 Financial Management ........................................................................................................ 36
+CHAPTER FIVE ............................................................................................................................... 38
+5.0 MONITORING AND EVALUATION ..................................................................................... 38
+5.1 INTRODUCTION ................................................................................................................................ 38
+5.2 SCHOOL WASH STRATEGIC PLAN REVIEW PROCESS ................................................................................... 38
+5.3 OBJECTIVES OF MONITORING AND EVALUATION ....................................................................................... 38
+5.4. INDICATORS FOR MONITORING AND EVALUATION ............................................................................................ 39
+5.4.1 School Wash Indicators ....................................................................................................... 39
+5.5 M & E MATRIX ............................................................................................................................... 41
+ANNEXES ....................................................................................................................................... 42
+ANNEX 1: ORGANIZATIONAL STRUCTURE FOR IMPLEMENTATION OF SCHOOL WASH .............. 42
+ANNEX 2: ROLES AND RESPONSIBILITIES .............................................................................. 43
+ANNEX 3: SCHOOL WASH INDICATORS MATRIX ........................................................................... 47
 
 x
 
@@ -375,17 +440,21 @@ x
 
 [[START OF PAGE 12]]
 
-#### 1.1 Background Information
-
-Water, Sanitation and Hygiene related diseases remain one of the most significant child health problems worldwide. Infections such as cholera, malaria, trachoma, bilharzias and diarrhea are on increase in our communities. The most affected ones are children. These diseases not only affect children's physical development but also school attendance and academic performance. The  challenges  of  School  Water,  Sanitation  and  Hygiene  (SWASH)  are  more  pronounced  in developing countries unlike the developed world. According to a report by the UN children's agency and its partners, titled " Raising Clean Hands," in sixty (60) countries in the developing world,  more  than  half  of  primary  schools  have  no  adequate  water  facilities  and  nearly  two thirds  lack  adequate  sanitation  (UN,  2004).  Furthermore,  lack  of  separate  and  adequate sanitation  and  washing  facilities  for  adolescent  girls  discourages  them  from  attending  school due to failure of meeting hygiene needs during menstruation which in turn affects their school performance  and  increase  their  risk  of  dropping  out.  At  this  particular  moment  they  need changing room, adequate water and facilities for disposal of sanitary pads.  Likewise, there are problems  of  accessibility  to  WASH  facilities  especially  to  school  children  with  disabilities. Improving  water  supply,  sanitation  and  hygiene  in  schools  is  crucial  as  it  embraces  the  well being of school children, reduces the risk of WASH related diseases, contributes to education enrolment and performance, increases dignity and cognitive ability and reduces absenteeism.
-
-In  Tanzania,  high  rates  of  communicable  diseases  due  to  poor  sanitation  and  unhygienic behaviour  is  experienced.  The  situation  among  other  things  is  perpetuated  by  the  existing coverage  and  access  of  school  WASH  facilities.  The  study  conducted  by  SNV,  Water  Aid  and UNICEF in 2009 in 16 districts covering 2697 schools in Tanzania mainland. The survey revealed that 6% of the schools had no latrines, 84% has no hand washing facilities, 86% had no water for hand washing and 38% of the schools had no water supply (SWASH Mapping Report, 2011). This  critical  shortage  explains  the  continued  existence  of  diarrhea,  worms,  acute  respiratory infections, trachoma and dysentery which are all linked to inadequate access to water supply, improper sanitation and unhygienic behavior.
-
-The WASH situation above has tremendously grown wider due to ongoing programs in primary and secondary schools. The Primary Education Development Programme (PEDP) and Secondary Education Development Programme (SEDP) have all led to the increased enrollment of children in  schools.  This  increase  has  mounted  a  huge  demand  for  facilities  particularly  classrooms, chairs, laboratories, latrine and water supply. Unfortunately, water and latrine facilities did not receive equal attention like others. As a result the situation of WASH continues to deteriorate. Responding to the situation, this Strategic Plan provides a framework for the implementation of School WASH activities for the period of 2012- 2017. It addresses the dissatisfaction realized by the Government and other partners on the inadequacy of WASH services in schools.
-
 ## CHAPTER ONE
 
 ### 1.0 INTRODUCTION
+
+#### 1.1 Background Information
+
+Water, Sanitation and Hygiene related diseases remain one of the most significant child health problems worldwide. Infections such as cholera, malaria, trachoma, bilharzias and diarrhea are on increase in our communities. The most affected ones are children. These diseases not only affect children's physical development but also school attendance and academic performance.
+
+The challenges of School Water, Sanitation and Hygiene (SWASH) are more pronounced in developing countries unlike the developed world. According to a report by the UN children's agency and its partners, titled "Raising Clean Hands," in sixty (60) countries in the developing world, more than half of primary schools have no adequate water facilities and nearly two thirds lack adequate sanitation (UN, 2004). Furthermore, lack of separate and adequate sanitation and washing facilities for adolescent girls discourages them from attending school due to failure of meeting hygiene needs during menstruation which in turn affects their school performance and increase their risk of dropping out. At this particular moment they need changing room, adequate water and facilities for disposal of sanitary pads. Likewise, there are problems of accessibility to WASH facilities especially to school children with disabilities.
+
+Improving water supply, sanitation and hygiene in schools is crucial as it embraces the well being of school children, reduces the risk of WASH related diseases, contributes to education enrolment and performance, increases dignity and cognitive ability and reduces absenteeism.
+
+In Tanzania, high rates of communicable diseases due to poor sanitation and unhygienic behaviour is experienced. The situation among other things is perpetuated by the existing coverage and access of school WASH facilities. The study conducted by SNV, Water Aid and UNICEF in 2009 in 16 districts covering 2697 schools in Tanzania mainland. The survey revealed that 6% of the schools had no latrines, 84% has no hand washing facilities, 86% had no water for hand washing and 38% of the schools had no water supply (SWASH Mapping Report, 2011). This critical shortage explains the continued existence of diarrhea, worms, acute respiratory infections, trachoma and dysentery which are all linked to inadequate access to water supply, improper sanitation and unhygienic behavior.
+
+The WASH situation above has tremendously grown wider due to ongoing programs in primary and secondary schools. The Primary Education Development Programme (PEDP) and Secondary Education Development Programme (SEDP) have all led to the increased enrollment of children in schools. This increase has mounted a huge demand for facilities particularly classrooms, chairs, laboratories, latrine and water supply. Unfortunately, water and latrine facilities did not receive equal attention like others. As a result the situation of WASH continues to deteriorate. Responding to the situation, this Strategic Plan provides a framework for the implementation of School WASH activities for the period of 2012– 2017. It addresses the dissatisfaction realized by the Government and other partners on the inadequacy of WASH services in schools.
 
 1
 
@@ -393,7 +462,7 @@ The WASH situation above has tremendously grown wider due to ongoing programs in
 
 [[START OF PAGE 13]]
 
-The demand for WASH facilities in schools is enormous; hence, an integrated approach among the key actors is required to facilitate implementation of the planned activities. To realize this, the  Strategic  Plan  will  be  streamlined  in  key  ministries  namely:  Ministry  of  Education  and Vocational  Training  (MoEVT),  Ministry  of  Community  Development,  Gender  and  Children (MCDGC), Ministry of Water (MoW), Prime Minister's Office Regional Administration and Local Government  (PMO -RALG)  and  Ministry  of  Health and  Social  Welfare  (MoHSW)  to  jointly collaborate  in  addressing  the  provision  of  WASH  facilities  in  schools.  This  joint  mission emanates from the fact that WASH services in schools rests on the above ministries. However, the  Ministry  of  Finance  and  Economic  Affairs  (MoFEA)  is  one  of  the  actors  in  provision  of SWASH  services  because  it  finances  and  monitors  the  funds  allocated  for  SWASH  activities. Furthermore,  there  is  a  signed  Memorandum  of  Understanding  (MoU)  to  enable  the  above mentioned ministries to work together harmoniously on SWASH activities. According to MoU, MoEVT is responsible to ensure that hygiene education is taught; and schools have improved sanitation  and  safe  drinking  water  facilities  and  WASH  components  are  incorporated  in  the school curriculum.
+The demand for WASH facilities in schools is enormous; hence, an integrated approach among the key actors is required to facilitate implementation of the planned activities. To realize this, the Strategic Plan will be streamlined in key ministries namely: Ministry of Education and Vocational Training (MoEVT), Ministry of Community Development, Gender and Children (MCDGC), Ministry of Water (MoW), Prime Minister's Office Regional Administration and Local Government (PMO-RALG) and Ministry of Health and Social Welfare (MoHSW) to jointly collaborate in addressing the provision of WASH facilities in schools. This joint mission emanates from the fact that WASH services in schools rests on the above ministries. However, the Ministry of Finance and Economic Affairs (MoFEA) is one of the actors in provision of SWASH services because it finances and monitors the funds allocated for SWASH activities. Furthermore, there is a signed Memorandum of Understanding (MoU) to enable the above mentioned ministries to work together harmoniously on SWASH activities. According to MoU, MoEVT is responsible to ensure that hygiene education is taught; and schools have improved sanitation and safe drinking water facilities and WASH components are incorporated in the school curriculum.
 
 #### 1.2 School WASH Initiative
 
@@ -427,7 +496,7 @@ The purposes of Strategic Plan are to:
 
 #### 1.5 Organization of the document structure
 
-This  document  consists  of  5  chapters.  The  first  chapter  gives  the  background,  purpose  and rationale for this strategic plan. The second chapter describes the Tanzanian school situation as far as SWASH is concerned and explains the roles and responsibility of the various stake holders that will come in implementing this plan. Chapter 3 details the strategies for implementing the plan  showing  the  strategic  areas;  It  starts  with  the  mission  and  vision  of  the  plan,  goal  and objectives and eventually strategic areas, planned activities and expected output and outcome. Finally, the M & E methodology fo r the plan is outlined
+This document consists of 5 chapters. The first chapter gives the background, purpose and rationale for this strategic plan. The second chapter describes the Tanzanian school situation as far as SWASH is concerned and explains the roles and responsibility of the various stake holders that will come in implementing this plan. Chapter 3 details the strategies for implementing the plan showing the strategic areas; It starts with the mission and vision of the plan, goal and objectives and eventually strategic areas, planned activities and expected output and outcome. Finally, the M & E methodology for the plan is outlined
 
 #### 1.6 Time frame
 
@@ -439,11 +508,17 @@ This school WASH Strategic Plan will be implemented in phases of five years. Pha
 
 [[START OF PAGE 15]]
 
+## CHAPTER TWO
+
+### 2.0 SITUATIONAL ANALYSIS
+
 #### 2.1 Introduction
 
-Provision  of  water,  sanitation  and  hygiene  services  in  schools  is  facing  new  challenges  of addressing the demands of a fast growing school children population due to expansion of the education  sector.  Education  in  Tanzania  has  expanded  considerably  after  the  adoption  of Education  Sector  Development  Program  (ESDP  2001),  from  which  PEDP  and  SEDP  were developed.  The implementation of  these  programmes has contributed to  a high  demand for sanitation  facilities  and  services  for  school  children,  teachers  and  other  staff.  Therefore,  the situation analysis focuses on the subsequent areas:
+Provision of water, sanitation and hygiene services in schools is facing new challenges of addressing the demands of a fast growing school children population due to expansion of the education sector. Education in Tanzania has expanded considerably after the adoption of Education Sector Development Program (ESDP 2001), from which PEDP and SEDP were developed. The implementation of these programmes has contributed to a high demand for sanitation facilities and services for school children, teachers and other staff. Therefore, the situation analysis focuses on the subsequent areas:
 
 ##### 2.1.1 Primary Schools Enrolment
+
+Table 2.1: Government Primary school enrolment from 2002-2011
 
 Year | Stud. Enrol.
 --- | ---
@@ -458,15 +533,7 @@ Year | Stud. Enrol.
 2010 | 8,419,305
 2011 | 8,363,386
 
-Table 2.1: Government Primary school enrolment from 2002-2011
-
-Source:
-
-BEST, 2011
-
-## CHAPTER TWO
-
-### 2.0 SITUATIONAL ANALYSIS
+Source: BEST, 2011
 
 4
 
@@ -614,8 +681,7 @@ STRENGTHS | WEAKNESSES
 --- | ---
 • Ministerial crosscutting Issues in policies and guidelines in place • MoEVT, MoCDGC and MoHSW have designs for people with special needs • Increased awareness on early childhood development. • Availability of human resources to handle crosscutting issues. | • Inadequate mainstreaming of Cross cutting Issues at LGAs. • Inadequate provision of WASH facilities, for people with special needs. • Inadequate dissemination of guidelines to the school community.
 OPPORTUNITIES | CHALLENGES
-• Political will and advocacy for equal gender participation • Presence of special institutions dealing with people with disabilities such as, special needs unit in MoEVT, Patandi, SEKUCo, CCBRT, etc • Menstrual hygiene guidance for Tanzania - girls | • Lack of priority and attitudes towards rights among disabled and adolescent girls • Community's resistance in accommodating some changes • High poverty level in the
-books and teachers guidelines | community.
+• Political will and advocacy for equal gender participation • Presence of special institutions dealing with people with disabilities such as, special needs unit in MoEVT, Patandi, SEKUCo, CCBRT, etc • Menstrual hygiene guidance for Tanzania – girls books and teachers guidelines | • Lack of priority and attitudes towards rights among disabled and adolescent girls • Community's resistance in accommodating some changes • High poverty level in the community.
 
 12
 
@@ -629,10 +695,8 @@ books and teachers guidelines | community.
 
 STRENGTHS | WEAKNESSES
 --- | ---
-• Government funding through national budget • Presence of some partners in funding school Water, Sanitation and Hygiene • Community willingness to contribute resources. • Presence of human resources to manage SWASH funds | • Highly inadequate funding and delay in fund disbursement • Lack of clear and update unit cost for school Water, Sanitation and Hygiene facilities • Inadequate advocacy on school Water, Sanitation and Hygiene • Low priority accorded to resource allocation School Water, Sanitation and Hygiene • Mismanagement of WASH funds
-some
-CHALLENGES
-OPPORTUNITIES
+• Government funding through national budget • Presence of some partners in funding school Water, Sanitation and Hygiene • Community willingness to contribute some resources. • Presence of human resources to manage SWASH funds | • Highly inadequate funding and delay in fund disbursement • Lack of clear and update unit cost for school Water, Sanitation and Hygiene facilities • Inadequate advocacy on school Water, Sanitation and Hygiene • Low priority accorded to resource allocation School Water, Sanitation and Hygiene • Mismanagement of WASH funds
+OPPORTUNITIES | CHALLENGES
 • Availability of training avenues to improve financial management skills • Availability of avenues for advocacy on School Water, Sanitation and Hygiene • EThekwini Declaration. • Presence of government financial system in budgeting such as Mid Term Expenditure Framework ( MTEF ) | • Conflict of interest and priority. • Continued inflation rate in the financial system • Changing of Govt priority/agenda • No budget line/cost centre for WASH • Development partners having different fiscal year
 
 13
@@ -641,9 +705,11 @@ OPPORTUNITIES
 
 [[START OF PAGE 25]]
 
+## CHAPTER THREE
+
 ### 3.1 Introduction
 
-This  strategic  plan  has  prioritised  interventions  identified  through  situational  analysis  of SWASH.  The  strategic  plan  areas  were  also  analyzed  according  to  Strength,  Weakness, Opportunity and Challenges (SWOC) of various issues affecting the school WASH in Tanzania. The logical frame work is developed and had focuses on all key strategic areas where it shows Strategic Objectives, Outputs; Major activities; Performance indicators and Means of verification. It also indicates responsible institutions, time frame and the risks that may hinder or delay implementation of the strategic plan. Furthermore, an action plan is developed which captures  all  issues  contained  in  logical  framework  except  risks.  The  action  plan  also  has  a portion for indicative budget estimates.
+This strategic plan has prioritised interventions identified through situational analysis of SWASH. The strategic plan areas were also analyzed according to Strength, Weakness, Opportunity and Challenges (SWOC) of various issues affecting the school WASH in Tanzania. The logical frame work is developed and had focuses on all key strategic areas where it shows Strategic Objectives, Outputs; Major activities; Performance indicators and Means of verification. It also indicates responsible institutions, time frame and the risks that may hinder or delay implementation of the strategic plan. Furthermore, an action plan is developed which captures all issues contained in logical framework except risks. The action plan also has a portion for indicative budget estimates.
 
 ### 3.2. Vision, Mission, Goal and Objectives of School WASH Strategic Plan
 
@@ -655,7 +721,7 @@ To have school communities with safe water provision, improved sanitation and ed
 
 #### 3.2.2 Mission
 
-To  ensure  equitable,  good  quality,  easily  accessible,  affordable  and  sustainable  safe  water, sanitation and hygiene services delivered to all school children and staff including those with special needs for better health and well-being.
+To ensure equitable, good quality, easily accessible, affordable and sustainable safe water, sanitation and hygiene services delivered to all school children and staff including those with special needs for better health and well-being.
 
 #### 3.2.3 Goal
 
@@ -666,8 +732,6 @@ To promote environmental health, safety, and well-being of school communities th
 (i) To advocate and lobby for support from political leaders and decision makers for improved water supply, sanitation and hygiene in schools
 
 (ii) To build human resource capacity for improved school water, sanitation and hygiene service delivery which is gender friendly and accessible
-
-## CHAPTER THREE
 
 14
 
@@ -683,7 +747,7 @@ To promote environmental health, safety, and well-being of school communities th
 
 (vi) To  improve  hygiene  practices  among  school  children,  their  families  and communities
 
-(vii) To improve water, sanitation and hygiene facilities for better health and wellbeing for school children.
+(vii) To improve water, sanitation and hygiene facilities for better health and well-being for school children.
 
 (viii) To establish funding mechanism  to support the implementation and sustainability of SWASH
 
@@ -849,13 +913,13 @@ Gender, disability, environment and HIV/Aids issues are addressed
 
 ##### Strategic Objectives
 
-- o To develop separate sanitation facilities for boys and girls in all schools.
+- To develop separate sanitation facilities for boys and girls in all schools.
 
-- o To  develop  appropriate  WASH  facilities  for  girls  to  enable  to  respond  to  their menses related needs with dignity by 2017.
+- To  develop  appropriate  WASH  facilities  for  girls  to  enable  to  respond  to  their menses related needs with dignity by 2017.
 
-- o To provide SWASH facilities for school children and teachers with disabilities by 2017
+- To provide SWASH facilities for school children and teachers with disabilities by 2017
 
-- o Waste disposal should be separately from sanitary  waste, sanitary waste should be disposed  through incineration
+- Waste disposal should be separately from sanitary  waste, sanitary waste should be disposed  through incineration
 
 ##### Strategic outputs
 
@@ -889,9 +953,9 @@ This strategic area aims at mobilizing financing of SWASH from the Government, D
 
 ##### Key Result area
 
-- square4 Financial resources for SWASH adequately procured and managed
+- Financial resources for SWASH adequately procured and managed
 
-- square4 Availability of resources for SWASH
+- Availability of resources for SWASH
 
 ##### Strategic objective
 
@@ -934,7 +998,7 @@ This strategic area aims at mobilizing financing of SWASH from the Government, D
 Strategic objective | Strategic Outputs | Major Activities | Performance indicators | Means of verification | Responsible | Time frame | Risks
 --- | --- | --- | --- | --- | --- | --- | ---
 To develop school WASH guidelines and operational manuals by 2013 | Relevant SWASH policy guidelines developed by 2013 | Review and develop policy guidelines and operational manuals | Type and number of policy guidelines and operational manuals developed | Policy guidelines and manuals in | MOEVT MOHSW MoW PMO-RALG DPs | Dec 2012 | Partners not active in fulfilling their commitments, roles and responsibilities
-Developed documents disseminated, adopted and operationalized by 2014 | Disseminate policy guidelines and operational manuals | Numbers of policy guidelines and SWASH packages disseminated and adopted | Physical verification policy guidelines and SWASH packages in schools | MOEVT MOHSW MoW PMO-RALG DPs | March 2013 | Ministries/Partne rs not allocated adequate funds
+Developed documents disseminated, adopted and operationalized by 2014 | Disseminate policy guidelines and operational manuals | Numbers of policy guidelines and SWASH packages disseminated and adopted | Physical verification policy guidelines and SWASH packages in schools | MOEVT MOHSW MoW PMO-RALG DPs | March 2013 | Ministries/Partners not allocated adequate funds
 To develop SWASH implementation strategy | SWASH policy guidelines adhered to in all schools by 2017 | Review, develop and enforce SWASH relevant regulations and standards | All schools adhering to policy guidelines | Interviewing of stakeholders | MOEVT MOHSW MoW PMO-RALG DPs | March 2013 | Schools capacity to interpret and implement SWASH
 SWASH implementation strategy developed and used by 2014 | Develop SWASH implementation strategy | SWASH facilities in place | Physical verification | MOEVT MOHSW MoW PMO-RALG DPs | 2013 - 2016
 
@@ -950,11 +1014,11 @@ SWASH implementation strategy developed and used by 2014 | Develop SWASH impleme
 
 Strategic Objective | Strategic Outputs | Major activities | Performance indicators | Means of verification | Responsible | Time frame | Risk
 --- | --- | --- | --- | --- | --- | --- | ---
-To ensure there is effective coordination of School WASH interventions at all levels by 2017 | Institutional coordinating bodies/commit tees established | Appoint a coordination team of school WASH interventions at all levels by 2017 | SWASH coordination unit established | Minutes of meetings and recommendation s/resolutions are in place | MOEVT, PMO- RALG | December 2013 | Partners delay in fulfilling their roles and responsibilities
+To ensure there is effective coordination of School WASH interventions at all levels by 2017 | Institutional coordinating bodies/committees established | Appoint a coordination team of school WASH interventions at all levels by 2017 | SWASH coordination unit established | Minutes of meetings and recommendations/resolutions are in place | MOEVT, PMO- RALG | December 2013 | Partners delay in fulfilling their roles and responsibilities
 Prepare ToR and framework for coordination of SWASH interventions at all levels | Roles and responsibilities for coordination unit place | List of roles and responsibilities | MOEVT, PMO- RALG MoW | December 2013 | Ministries/Partners not allocated adequate funds Inflation
 Establish and operationalize Technical Working Group for SWASH from regional to school community | Funds allocation and utilization reports are available | Reading reports | MOEVT, PMO-RALG MoW | December 2013 | Ministries/Partners not allocated adequate funds Inflation
 Sensitize Policy and Decision makers at National, Regional and Council levels on SWASH | Policy makers awareness on SWASH | Reading reports | MOEVT, PMO-RALG MoW | December 2013 | Ministries/Partners not allocated adequate funds Inflation
-Work plan and budget for coordinating/c ommittees established | Carry out regular technical meetings on SWASH at all levels | Monitoring and Evaluation reports are present | Reading reports | MOEVT, PMO-RALG | July 2014 | Ministries/Partners not allocated adequate funds Inflation
+Work plan and budget for coordinating/committees established | Carry out regular technical meetings on SWASH at all levels | Monitoring and Evaluation reports are present | Reading reports | MOEVT, PMO-RALG | July 2014 | Ministries/Partners not allocated adequate funds Inflation
 
 21
 
@@ -971,9 +1035,9 @@ Knowledgeable stakeholders' on SWASH issues
 Strategic objective | Strategic Outputs | Major Activities | Performance indicators | Means of verification | Responsible | Time frame | Risks
 --- | --- | --- | --- | --- | --- | --- | ---
 • To identify key resource people, coordinators, teachers and build their capacity for WASH to sustain services delivery by 2017 | • Resource people on SWASH program identified and facilitated | Conduct needs assessment of necessary additional knowledge and skills and identify key actors in school WASH at all levels | 75% Resource people on SWASH program identified and resourced and facilitated by 2017 | Reading / reviewing reports | MOEVT PMO-RALG MOH&SW MOEVT DPs | Dec 2013 | Stakeholders not active in fulfilling their commitments, roles and responsibilities
-Identified key resource people undertaking Training of Trainers on SWASH | Resource people are engaged in training of trainers by 2017 | Review, prepare, pre-test and print relevant training materials and Prepare and conduct tailor made courses | training materials available and tailor made courses conducted | Physical verification of training materials and facilities | MOEVT PMO-RALG DPs | July 2013 | Ministries/Part ners not allocating adequate funds
-• To Identify and train SWASH implementers at varies levels | • SWASH implemente rs identifies at all levels | Receive and review implementers needs and abilities | SWASH implementers at varies levels known | Interviewing teachers and other SWASH implementers | MOEVT PMO-RALG | July 2013- Dec 2013 | Ministries/Part ners not allocated adequate funds
-• | Trainers engaged in training of teachers, in- | Train TOTs for conducting training teachers, inspectors and other stakeholders on SWASH at Council levels | Number of Trained TOTs | Number of TOs and their reports | MOEVT PMO-RALG MoW, DPs | July 2014 | Ministries/Part ners not allocated adequate
+Identified key resource people undertaking Training of Trainers on SWASH | Resource people are engaged in training of trainers by 2017 | Review, prepare, pre-test and print relevant training materials and Prepare and conduct tailor made courses | training materials available and tailor made courses conducted | Physical verification of training materials and facilities | MOEVT PMO-RALG DPs | July 2013 | Ministries/Partners not allocating adequate funds
+• To Identify and train SWASH implementers at varies levels | • SWASH implementers identifies at all levels | Receive and review implementers needs and abilities | SWASH implementers at varies levels known | Interviewing teachers and other SWASH implementers | MOEVT PMO-RALG | July 2013- Dec 2013 | Ministries/Partners not allocated adequate funds
+• | Trainers engaged in training of teachers, in- | Train TOTs for conducting training teachers, inspectors and other stakeholders on SWASH at Council levels | Number of Trained TOTs | Number of TOs and their reports | MOEVT PMO-RALG MoW, DPs | July 2014 | Ministries/Partners not allocated adequate
 
 22
 
@@ -983,7 +1047,7 @@ Identified key resource people undertaking Training of Trainers on SWASH | Resou
 
 service teachers and coordinators by 2017 | Equip WASH focal offices at all levels | Focal offices in place | Physical visits to WASH office and reading reports | MOEVT PMO-RALG MoW, DPs | July 2014 | funds
 --- | --- | --- | --- | --- | --- | --- | ---
-To impart knowledge and skills to pupils and students on WASH | Pupils and students have needed knowledge and skills on on SWASH practices | Trainings Pupils and students on SWASH practices | Pupils and students well informed on SWASH practices | Physical verification | MOEVT PMO-RALG MoW | July 2014 - July 2015 | Ministries/Part ners not allocated adequate funds
+To impart knowledge and skills to pupils and students on WASH | Pupils and students have needed knowledge and skills on on SWASH practices | Trainings Pupils and students on SWASH practices | Pupils and students well informed on SWASH practices | Physical verification | MOEVT PMO-RALG MoW | July 2014 - July 2015 | Ministries/Partners not allocated adequate funds
 Establishment of school SWASH Clubs and organize competition events to enhance SWASH communication | Number of SWASH clubs established and participating in SWASH National events | Physical verification | MOEVT PMO-RALG MoW, | July 2014 - July 2015
 
 23
@@ -1015,10 +1079,10 @@ Train stakeholders on how to prepare their own O & M plans and implement them | 
 
 ##### Key result area: Cross-cutting issues in SWASH interventions
 
-Strategic objective | Strategic Outputs | Major Activities | Performance indicators | Means of verification | Responsibl e | Time frame | Risks
+Strategic objective | Strategic Outputs | Major Activities | Performance indicators | Means of verification | Responsible | Time frame | Risks
 --- | --- | --- | --- | --- | --- | --- | ---
-o To and develop appropriate WASH facilities for girls to enable to respond to their menses related needs with dignity and sensitize their appropriate use by 2017. | o SWASH facilities for girls are adequately addressed and provided in 50% of the schools by 2017 | o Construct facilities | • All schools have separate sanitary facilities for boys and girls • 50% of school have changing rooms for girls and facilities for safe disposal of sanitary pads by 2017 | Physical verification Read reports | MOEVT PMO-RALG DPs | 2012 - 2017 | Partners not active in fulfilling their commitments, roles and responsibilitie s Key Ministries/Par tners not allocated adequate funds Community Resistance to change
-o Teachers and school committees are aware of all cross- cutting issues in SWASH interventions by 2017 | Create awareness to teachers and pupils on appropriate use of the SWASH facilities | • 30% of school have facilities for school children and teachers with disabilities by 2017 | MOEVT PMO-RALG DPs | March 2013
+o To and develop appropriate WASH facilities for girls to enable to respond to their menses related needs with dignity and sensitize their appropriate use by 2017. | o SWASH facilities for girls are adequately addressed and provided in 50% of the schools by 2017 | o Construct facilities | • All schools have separate sanitary facilities for boys and girls • 50% of school have changing rooms for girls and facilities for safe disposal of sanitary pads by 2017 | Physical verification Read reports | MOEVT PMO-RALG DPs | 2012 - 2017 | Partners not active in fulfilling their commitments, roles and responsibilities Key Ministries/Partners not allocated adequate funds Community Resistance to change
+o Teachers and school committees are aware of all cross-cutting issues in SWASH interventions by 2017 | Create awareness to teachers and pupils on appropriate use of the SWASH facilities | • 30% of school have facilities for school children and teachers with disabilities by 2017 | MOEVT PMO-RALG DPs | March 2013
 
 25
 
@@ -1042,11 +1106,11 @@ Waste disposal be separately from sanitary waste and sanitary waste be disposed 
 
 Strategic objective | Strategic Outputs | Major Activities | Performance indicators | Means of verification | Responsible | Time frame | Risks
 --- | --- | --- | --- | --- | --- | --- | ---
-To significantly increase funding for School WASH and strengthen resource management by 2017 by arguing MDAs to set aside funds for SWASH, solicit fund for SWASH from DPs, CBOs and NGOs and embark on good governance in financial matters | Commitment by policy and decision makers and community to effectively support SWASH | Identify potential partners and solicit their support | Budget lines for SWASH available at all levels | Reports and resolutions of the meetings | MOEVT & PMO-RALG MoW | July 2013 | Partners not active in fulfilling their commitmen ts, roles and responsibilit ies Ministries/P artners do not allocate adequate funds Partner representati ves not attending meeting regularly
+To significantly increase funding for School WASH and strengthen resource management by 2017 by arguing MDAs to set aside funds for SWASH, solicit fund for SWASH from DPs, CBOs and NGOs and embark on good governance in financial matters | Commitment by policy and decision makers and community to effectively support SWASH | Identify potential partners and solicit their support | Budget lines for SWASH available at all levels | Reports and resolutions of the meetings | MOEVT & PMO-RALG MoW | July 2013 | Partners not active in fulfilling their commitments, roles and responsibilities Ministries/Partners do not allocate adequate funds Partner representatives not attending meeting regularly
 Disseminate the strategy and conduct advocacy sessions to partners for mobilisation of resources
-Carryout community awareness campaigns for mobilisation of resources | Reports on awareness campaigns | financial reports | MOEVT & PMO-RALG MoW DPs (UNICEF) | March 2013
+Carryout community awareness campaigns for mobilisation of resources | Reports on awareness campaigns | MOEVT & PMO-RALG MoW DPs (UNICEF) | March 2013
 Sustainable financing mechanisms and management for SWASH in place at all levels) | Develop SWASH financial guidelines | Relevant financial management records are present
-Adequate funds are available for SWASH are available from MDAs, DPs CBOs, NGOs | Carryout periodical financial auditing | Percentage of the MTEF budget allocated to SWASH and the amount of funds disbursed against | MOEVT & PMO-RALG DPs | April 2013
+Adequate funds are available for SWASH are available from MDAs, DPs CBOs, NGOs | Carryout periodical financial auditing | Percentage of the MTEF budget allocated to SWASH and the amount of funds disbursed against | financial reports | MOEVT & PMO-RALG DPs | April 2013
 
 27
 
@@ -1072,11 +1136,11 @@ Framework for good governance for SWASH funding in place (SWASH targets and acti
 
 Strategic Objective | Major activities | Time frame 2012-2017 | Cost estimate (Tsh)
 --- | --- | --- | --- | ---
-2012/20 13 | 2013/20 14 | 2014/201 5 | 2015/201 6 | 2016/ 2017
-To develop school WASH guidelines and operational manuals by 2013 To develop SWASH | Review and develop policy guidelines and operational manuals | 300,000,000.00
+2012/2013 | 2013/2014 | 2014/2015 | 2015/2016 | 2016/2017
+To develop school WASH guidelines and operational manuals by 2013  To develop SWASH implementation strategy | Review and develop policy guidelines and operational manuals | 300,000,000.00
 Disseminate policy guidelines and operational manuals | 200,000,000.00
-implementati | Review, develop and enforce SWASH relevant regulations and standards | 360,000,000.00
-on strategy | Develop SWASH implementation strategy | 150,000,000.00
+Review, develop and enforce SWASH relevant regulations and standards | 360,000,000.00
+Develop SWASH implementation strategy | 150,000,000.00
 Produce and disseminate brail materials | 150,000,000.00
 Subtotal 4 | 1,160,000,000.00
 
@@ -1093,9 +1157,9 @@ Subtotal 4 | 1,160,000,000.00
 Strategic Objective | Major activities | Time frame 2012-2017 | Cost estimate (Tsh) '000
 --- | --- | --- | --- | ---
 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17
-To ensure there is effective coordination of School WASH at all levels | Prepare ToR and framework for coordination of SWASH interventions at all levels | 1,000.00
+To ensure there is effective coordination of School WASH interventions at all levels by 2017 | Prepare ToR and framework for coordination of SWASH interventions at all levels | 1,000.00
 Establish Technical Working Group for SWASH from regional to school community | 100,000.00
-interventions by 2017 | Sensitize Policy and Decision makers at National, Regional and Council levels on SWASH | 300,000.00
+Sensitize Policy and Decision makers at National, Regional and Council levels on SWASH | 300,000.00
 Carryout regular technical meetings on SWASH at all levels | 800,000.00
 Subtotal 1 | 1,201,000.00
 
@@ -1113,7 +1177,7 @@ Subtotal 1 | 1,201,000.00
 
 Strategic Objective | Major activities | Time frame 2012-2017 | Cost estimate (Tsh) '000
 --- | --- | --- | --- | ---
-2012/20 13 | 2013/20 14 | 2014/201 5 | 2015/2016 | 2016/ 2017
+2012/2013 | 2013/2014 | 2014/2015 | 2015/2016 | 2016/2017
 To identify key implementers and built human resource capacity for WASH to sustain services delivery of sanitation and hygiene at school by 2017 | Identifying key actors in school WASH at all levels | 12,000.00
 Conduct needs assessment of necessary additional knowledge and skills | 150,000.00
 Review, prepare, pre-test and print relevant training materials | 300,000.00
@@ -1138,17 +1202,15 @@ Subtotal 3 | 4,470,000.00
 
 Strategic Objective | Major activities | Time frame 2012-2017 | Cost estimate (Tsh) '000
 --- | --- | --- | --- | ---
-2012/20 13 | 2013/20 14 | 2014/20 15 | 2015/20 16 | 2016/ 2017
+2012/2013 | 2013/2014 | 2014/2015 | 2015/2016 | 2016/2017
 To increase by 50 % 4 number of schools with adequate 5 WASH facilities from the current levels by 2017 | Mobilization of construction resources for WASH facilities | 12,000.00
 Construction of WASH facilities | 32,000,000.00
 Development of operation and maintenance (O & M) manual | 150,000.00
 Train stakeholders on how to prepare their own O & M plans and implement them | 250,000.00
 
-Subtotal 5
+Subtotal 5 | 44,400,000.00
 
 > 4 Decided as conservative figure due to lack of baseline data
-
-44,400,000.00
 
 32
 
@@ -1162,7 +1224,7 @@ Subtotal 5
 
 Strategic Objective | Major activities | Time frame 2012-2017 | Cost estimate (Tsh)
 --- | --- | --- | --- | ---
-2012/20 13 | 2013/20 14 | 2014/20 15 | 2015/201 6 | 2016/ 2017
+2012/2013 | 2013/2014 | 2014/2015 | 2015/2016 | 2016/2017
 To ensure that appropriate facilities for girls are provided to enable them respond to their menses related needs with dignity by 2017. To ensure that SWASH facilities are designed to enable safe and easy access for school children and staff with disabilities by 2017 | Promote collaboration with private and CSOs institutions working with people with disabilities and gender issues | 200,000.00
 Sensitize stakeholders to effectively address cross- cutting issues related to SWASH | 150,000.00
 Prepare and disseminate IEC/BCC materials on SWASH related cross- cutting issues | 375,000.00
@@ -1180,7 +1242,7 @@ Subtotal 6 | 725,000.00
 
 Strategic Objective | Major activities | Time frame 2012-2017 | Cost estimate (Tsh) '000
 --- | --- | --- | --- | ---
-2012/20 13 | 2013/20 14 | 2014/20 15 | 2015/201 6 | 2016/ 2017
+2012/2013 | 2013/2014 | 2014/2015 | 2015/2016 | 2016/2017
 To significantly increase funding for school WASH and strengthen resource management by 2017 | Identify potential partners and solicit their support | 1,000.00
 Disseminate the strategy and conduct advocacy sessions to partners for mobilisation of resources | 50,000.00
 Carryout community awareness on SWASH for mobilisation of resources | 600,000.00
@@ -1204,7 +1266,7 @@ The  provision  of  water,  sanitation  and  hygiene  in  primary  and  secondar
 
 A  unit  cost  for  construction  of  a  toilet  facility  (VIP)  with  16-20  drop  holes  is  estimated  to  be  TZS  16 million while Operational and Maintenance for the existing toilets facilities is taken to be 20% of the installation cost. In this regard, to achieve the 50% increase in toilet facilities alone, TZS 98.9 7 billions (USD 65.97 millions) 8 are  required,  being  TZS  743.99  millions  ($495,  987)  per LGA.  At  the  same time, Operational and Maintenance  of the 20% of the existing  adequate  toilets  facilities  will  cost  TZS  19.8 billion ($13.2millions). Therefore total installation and O&M for toilets alone is TZS 118.8 billions ($79.2 millions).
 
-Regarding water supply services, consideration will be based on locally available sources in respective schools. However, for the purpose of costing this item, a borehole and rain water harvesting tank (90m 3 ) are planned for each school. The average unit cost for rainwater harvesting tank and borehole is TZS 12 millions and 20 millions respectively. But 10% of the cost will be borne by the community. Therefore, the Government and other partner's contribution will be TZS 10.8 and 18 millions for the tank and borehole, respectively.  Under  this  category  TZS  179.5  billion  ($119.5  millions)  are  needed.  On  average  1.359 billions ($906,000) are required per each LGA to meet the target on water supply. Overall cost for water supply and provision of toilets is TZS 244 billion ($162.7 millions) equivalent to $1,223,057 per LGA. In order to achieve the objectives of this strategic plan, there are other complementary activities which are  included  in  the  budget.  These  include:  Institutional:  arrangement  (TZS  1.2  billions);  Financial mobilization and resource management (TZS 1.53 billions); Awareness and Capacity Building (TZS 4.47 billions);  Policy  Guideline  and  Strategic  formulation  (TSZ  1.16  billions);  Crosscutting  issues  (TZS  725
+Regarding water supply services, consideration will be based on locally available sources in respective schools. However, for the purpose of costing this item, a borehole and rain water harvesting tank (90m³) are planned for each school. The average unit cost for rainwater harvesting tank and borehole is TZS 12 millions and 20 millions respectively. But 10% of the cost will be borne by the community. Therefore, the Government and other partner's contribution will be TZS 10.8 and 18 millions for the tank and borehole, respectively.  Under  this  category  TZS  179.5  billion  ($119.5  millions)  are  needed.  On  average  1.359 billions ($906,000) are required per each LGA to meet the target on water supply. Overall cost for water supply and provision of toilets is TZS 244 billion ($162.7 millions) equivalent to $1,223,057 per LGA. In order to achieve the objectives of this strategic plan, there are other complementary activities which are  included  in  the  budget.  These  include:  Institutional:  arrangement  (TZS  1.2  billions);  Financial mobilization and resource management (TZS 1.53 billions); Awareness and Capacity Building (TZS 4.47 billions);  Policy  Guideline  and  Strategic  formulation  (TSZ  1.16  billions);  Crosscutting  issues  (TZS  725
 
 > 6 Prime Minister's Office Regional Administration and Local Government. Routine Reports June, 2009.
 
@@ -1241,21 +1303,25 @@ Financial management of the school sanitation and hygiene funds will follow the 
 STRATEGIC AREA | TIME FRAME | TOTAL
 --- | --- | --- | --- | --- | --- | --- | ---
 YEAR 1 | YEAR 2 | YEAR 3 | YEAR 4 | YEAR 5
-x 10 3
+x 10³
 1 | Strategic Area 1: Institutional arrangement | 72,787.88 | 145,575.76 | 218,363.64 | 294,151.52 | 72,787.88 | 800,666.67
 2 | Strategic Area 2:Financial mobilization and management | 92,787.88 | 185,575.76 | 278,363.64 | 371,151.52 | 92,787.88 | 1,020,666.67
 3 | Strategic Area 3: Capacity Building | 270,909.09 | 541,818.18 | 812,727.27 | 1,083,636.36 | 270,909.09 | 2,980,000.00
 4 | Strategic Area 4: Policy Guidelines and Strategy Formulation | 70,303.03 | 140,606.06 | 210,909.09 | 281,212.12 | 70,303.03 | 773,333.33
 5 | Strategic Area5 Infrastructure Development and Maintenance | 14,787,878.79 | 29,575,757.58 | 44,363,636.36 | 59,151,515.15 | 14,787,878.79 | 162,666,666.67
-5 | Strategic Area 6: Cross Cutting Issues | 43,939.39 | 87,878.79 | 131,818.18 | 175,757.58 | 43,939.39 | 483,333,33
-6 | Monitoring and Evaluation | 108,969.70 | 217,939.39 | 326,909.09 | 435,478.79 | 108,969.70 | 1.198,666.67
-TOTAL | 15,447,575.76 10,523,010 | 30,895,151.52 21,046,020 | 46,342727.27 31,569,030 | 61,790,303.03 42,092,040 | 15,44,575.76 10,523,010 | 169,923,333.33 105,230,100
+5 | Strategic Area 6: Cross Cutting Issues | 43,939.39 | 87,878.79 | 131,818.18 | 175,757.58 | 43,939.39 | 483,333.33
+6 | Monitoring and Evaluation | 108,969.70 | 217,939.39 | 326,909.09 | 435,478.79 | 108,969.70 | 1,198,666.67
+TOTAL | 15,447,575.76 10,523,010 | 30,895,151.52 21,046,020 | 46,342,727.27 31,569,030 | 61,790,303.03 42,092,040 | 15,447,575.76 10,523,010 | 169,923,333.33 105,230,100
 
 37
 
 [[END OF PAGE 48]]
 
 [[START OF PAGE 49]]
+
+## CHAPTER FIVE
+
+### 5.0 MONITORING AND EVALUATION
 
 ### 5.1 Introduction
 
@@ -1280,10 +1346,6 @@ The achievement of the School WASH strategic plan will need the implementation o
 - To develop SWASH implementation strategy
 
 - To appoint a coordination team of School WASH interventions at all levels by 2017
-
-## CHAPTER FIVE
-
-### 5.0 MONITORING AND EVALUATION
 
 38
 
@@ -1335,6 +1397,9 @@ Monitoring  the  implementation  of  the  School  WASH  plan,  a  series  of  in
 
 [[START OF PAGE 51]]
 
+the information will improve the monitoring and will pave the way for the mid tem and end of
+term evaluation (See Annex 2)
+
 The indicators of performance are under the following categories.
 
 - WASH status
@@ -1347,18 +1412,18 @@ The indicators of performance are under the following categories.
 
 - Community involvement.
 
-Strategic Objective | Major activities | Time frame 2012-2017 | Cost estimate (Tsh) '000
---- | --- | --- | --- | ---
-201 2/1 3 | 201 3/4 | 2014/1 5 | 2015/ 16 | 2016/ 17
-To ensure successful implementation of SWASH interventions within budget and agreed timeframe by 2017 To ensure effective use of resources allocated to SWASH and better understanding of what has been successful and failure for future corrective measures | Develop M&E framework. | 50,000.00
-Develop monitoring and evaluation tools for SWASH for all levels | 308,000.00
-Conduct orientation training on monitoring and evaluation to TOTs at all levels | 510,000.00
-Strengthen the existing monitoring and evaluation system to accommodate SWASH aspects | 160,000.00
-Carry out periodic documentation and dissemination of lesson learnt and experience | 154,000.00
-Carryout regular monitoring and evaluation as per agreed time | 616,000.00
-Subtotal | 1,798,000.00
-
 ##### Table 5.1:  Monitoring and Evaluation framework
+
+Strategic Objective | Major activities | Time frame 2012-2017 | Cost estimate (Tsh) ‘000
+--- | --- | --- | ---
+ |  | 2012/13  2013/4  2014/15  2015/16  2016/17 |
+To ensure successful implementation of SWASH interventions within budget and agreed timeframe by 2017 | Develop M&E framework. |  | 50,000.00
+ | Develop monitoring and evaluation tools for SWASH for all levels |  | 308,000.00
+ | Conduct orientation training on monitoring and evaluation to TOTs at all levels |  | 510,000.00
+To ensure effective use of resources allocated to SWASH and better understanding of what has been successful and failure for future corrective measures | Strengthen the existing monitoring and evaluation system to accommodate SWASH aspects |  | 160,000.00
+ | Carry out periodic documentation and dissemination of lesson learnt and experience |  | 154,000.00
+ | Carryout regular monitoring and evaluation as per agreed time |  | 616,000.00
+Subtotal |  |  | 1,798,000.00
 
 40
 
@@ -1370,15 +1435,15 @@ Subtotal | 1,798,000.00
 
 The monitoring and evaluation matrix specifies the type of information which will be collected at  different  levels  of  implementation  of  this  strategic  plan.  The  matrix  also  provides  the methodologies  of  collecting  various  types  of  information  and  frequency  of  collection.  The sectoral ministries, LGAs and other stakeholders implementing the strategic plan are expected to be guided by monitoring matrix for systematic collection of SWASH information.
 
-What information to be collected | Methodology | Source of data | Frequency of collection | Responsible authority/institutio n
+#### Table 5.2. Matrix for Monitoring and Evaluation
+
+What information to be collected | Methodology | Source of data | Frequency of collection | Responsible authority/institution
 --- | --- | --- | --- | ---
 School(s) population | Data review | School register EIS BEST | Annually Quarterly | Lead- MOEVT others PMO-RALG LGA
 Water supply service facilities including O&M | Data review National Surveys purposeful survey | MIS TDHS HBS EIS | Quarterly Periodical, | Lead-MOWI Others MOHSW PMO RALG
 Toilet/latrine facilities including O&M | Data review Surveys Physical observation | TDHS HBS AHSA EIS | Quarterly Periodical, | Lead -MOEVT Others MOHSW PMO RALG MOWI
 Hygiene facilities, practice including O&M | Data review physical observation Purposeful survey | MIS TDHS HBS EIS | Quarterly Periodical | Lead- MOEVT Others MOHSW PMO RALG MOWI
 waste management, landscaping. | physical observation Purposeful survey | physical observation Purposeful survey | Quarterly Periodical | Lead-MOHSW others MOEVT PMO RALG
-
-#### Table 5.2. Matrix for Monitoring and Evaluation
 
 41
 
@@ -1390,187 +1455,61 @@ waste management, landscaping. | physical observation Purposeful survey | physic
 
 ### Annex 1: Organizational Structure for Implementation of School WASH
 
-R
+WSDP- Water Sector Development Program (MoW- Chair)
+
+Education Sector Development Committee (ESDC) (MoEVT- Chair)
+
+NSHSC National Sanitation & Hygiene Steering Committee (MoHSW-chair)
+
+Cross Sectoral Technical working Group
+
+NTCSH National Technical Committee on Sanitation &
+
+RWSS-TWG Rural Water Supply and sanitation
+
+TWG SWASH Technical Working Group on School WASH (Supporting DPs)
+
+HHTWG House Hold Technical Working Group
+
+Coordinator MoHSW
+
+Focal person MOEVT-SWASH Thematic Working Group
+
+Coordinator PMO-RALG
+
+RWSTs
+
+Regional School WASH Coordinator
+
+DWSTs
+
+District School WASH Coordinator
+
+WDC
+
+Education and Sanitation Representatives
+
+SC/SB
+
+School Community
+
+UNICEF
+WATER AID
+SNV
+AMREF,
+KWF
+WSP
+TAWASANET
+NGOs
+CBOs
+FBOs & DP
+ADB
 
 Key
 
 Line of Command
 
 Requests and report submission
-
-TWG SWASH
-
-Technical
-
-Working
-
-Group  on  School  WASH
-
-(Supporting DPs)
-
-Coordinator
-
-MoHSW
-
-Focal person
-
-MOEVT-SWASH
-
-Thematic
-
-Working
-
-Group
-
-WDC
-
-District
-
-School  WASH
-
-Coordinator
-
-RWSTs
-
-Cross
-
-Sectoral
-
-Technical
-
-working
-
-Group
-
-School Community
-
-SC/SB
-
-DWSTs
-
-Regional
-
-School
-
-WASH
-
-Coordinator
-
-Education
-
-and
-
-Sanitation
-
-Representatives
-
-NTCSH
-
-National
-
-Technical
-
-Committee
-
-on
-
-Sanitation
-
-&
-
-NSHSC
-
-National
-
-Sanitation
-
-&
-
-Hygiene Steering Committee
-
-(MoHSW-chair)
-
-Coordinator
-
-PMO-RALG
-
-Education
-
-Sector
-
-Development
-
-Committee
-
-(ESDC)
-
-(MoEVT- Chair)
-
-WSDP-
-
-Water
-
-Sector
-
-Development
-
-Program
-
-(MoW- Chair)
-
-HHTWG
-
-House
-
-Hold
-
-Technical
-
-Working
-
-Group
-
-RWSS-TWG
-
-Rural
-
-Water
-
-Supply
-
-and
-
-sanitation
-
-UNICEF
-
-WATER
-
-AID
-
-SNV
-
-AMREF,
-
-KWF
-
-WSP
-
-TAWASA
-
-NET
-
-NGOs
-
-CBOs
-
-FBOs
-
-&
-
-DP
-
-ADB
 
 Members of the team
 
@@ -1647,7 +1586,7 @@ Private sector Local artisans Construction companies | • Advise on technical d
 
 ### Annex 3: School Wash Indicators matrix
 
-Indicator | Baseline 2009 | Targeted achieveme nt | Data Source | Type | Frequency
+Indicator | Baseline 2009 | Targeted achievement | Data Source | Type | Frequency
 --- | --- | --- | --- | --- | ---
 SWASH Status End Evaluation
 Proportion of schools with adequate latrine and washroom (1:40 and 1:50 latrine hole:pupil ratio). | 20% | 50% | EMIS HMIS WMIS | OUTCOME | Annually
@@ -1655,10 +1594,10 @@ Proportion of schools with adequate and safe water supply | 38% | 50% | EMIS HMI
 No. of schools with latrine and hand washing facilities for pupils with special needs (physical disability and adolescence girls) | 7% | 40% | EMIS HMIS WMIS | OUTPUT | Annually
 Proportion of schools with hand washing facilities with soap. | 4% | 40% | EMIS HMIS WMIS | OUTPUT | Annually
 No. of schools with latrine and hand washing facilities for teaching staff and other workers with special needs | 7% | 50% | EMIS HMIS | OUTPUT | Annually
-No. of health education sessions conducted to pupils. | 50% | EMIS HMIS | OUTPUT | Annually
-No. of WASH learning materials disseminated to school pupils. | 50% | EMIS HIMS | OUTPUT | Annually
-No. of school with adequate standard dustbins. | 50% | EMIS HIMS | OUTPUT | Annually
-No. of schools with | 50% | EMIS | OUTPUT | Annually
+No. of health education sessions conducted to pupils. |  | 50% | EMIS HMIS | OUTPUT | Annually
+No. of WASH learning materials disseminated to school pupils. |  | 50% | EMIS HIMS | OUTPUT | Annually
+No. of school with adequate standard dustbins. |  | 50% | EMIS HIMS | OUTPUT | Annually
+No. of schools with |  | 50% | EMIS | OUTPUT | Annually
 
 47
 
@@ -1666,18 +1605,18 @@ No. of schools with | 50% | EMIS | OUTPUT | Annually
 
 [[START OF PAGE 59]]
 
-adequate cleaning materials. | HIMS
+adequate cleaning materials. |  |  | HIMS |  |
 --- | --- | --- | --- | --- | ---
-Proportion of schools with appropriate solid waste disposal facilities. | 50% | EMIS HIMS | OUTPUT | Annually
-No. of schools with first aid services. | 50% | EMIS HIMS | OUTPUT | Annually
+Proportion of schools with appropriate solid waste disposal facilities. |  | 50% | EMIS HIMS | OUTPUT | Annually
+No. of schools with first aid services. |  | 50% | EMIS HIMS | OUTPUT | Annually
 No of schools with acceptable latrines for special groups | 6% | 50% | EMIS HIMS | OUTPUT | Annually
-Number of multi-sect oral staff trained at all levels in WASH | 50% | Checklist | INPUT | Quarterly
+Number of multi-sectoral staff trained at all levels in WASH |  | 50% | Checklist | INPUT | Quarterly
 Number of teachers trained on School Wash | 10% | 50% | Checklist | OUTPUT | Quarterly
 No of schools with functional health clubs | 30% | 50% | Checklist | OUTPUT | Quarterly
 Financial resources
-Total government and donor allocation and disbursed for School WASH/school | 160,823,00 0.00 annually | EMIS HIMS | INPUT | Annually
-Total government and donor spent for School WASH/school | 160,823,00 0.00 annually | INPUT | Annually
-Community involvement | 90% | Checklist Local Govt, Data | Quarterly
+Total government and donor allocation and disbursed for School WASH/school |  | 160,823,000.00 annually | EMIS HIMS | INPUT | Annually
+Total government and donor spent for School WASH/school |  | 160,823,000.00 annually |  | INPUT | Annually
+Community involvement |  | 90% | Checklist Local Govt, Data |  | Quarterly
 
 48
 
@@ -1685,16 +1624,16 @@ Community involvement | 90% | Checklist Local Govt, Data | Quarterly
 
 [[START OF PAGE 60]]
 
-Proportion of community involved in school WASH | 75% | Checklist Local Govt, Data | PROCESS | Annually
---- | --- | --- | --- | ---
-Participation of school health committees in Wash | 100% | Checklist | PROCESS | Quarterly
+Proportion of community involved in school WASH |  | 75% | Checklist Local Govt, Data | PROCESS | Annually
+--- | --- | --- | --- | --- | ---
+Participation of school health committees in Wash |  | 100% | Checklist | PROCESS | Quarterly
 SWASH Mid reviews
 Policy formulation
-Type and number of policy guidelines and operational manuals developed | (i) Relevant SWASH policy guidelines developed by 2013 (ii) SWASH implementation strategy developed and used by 2014 (iii) Numbers of policy guidelines and SWASH packages disseminated and adopted | Checklist | Product | Quarterly
-Numbers of policy guidelines and SWASH packages disseminated and adopted | (i) Guidelines supplied to all Districts | Checklist | Product | Quarterly
-Number schools adhering to policy guidelines | (ii) All schools adhering to policy guidelines by 2017 | Checklist | Product | Quarterly
+Type and number of policy guidelines and operational manuals developed |  | (i) Relevant SWASH policy guidelines developed by 2013 (ii) SWASH implementation strategy developed and used by 2014 (iii) Numbers of policy guidelines and SWASH packages disseminated and adopted | Checklist | Product | Quarterly
+Numbers of policy guidelines and SWASH packages disseminated and adopted |  | (i) Guidelines supplied to all Districts | Checklist | Product | Quarterly
+Number schools adhering to policy guidelines |  | (ii) All schools adhering to policy guidelines by 2017 | Checklist | Product | Quarterly
 Institutional arrangement
-(i) Funds allocation and utilization reports are available (ii) Roles and responsibilities for coordination unit and individuals established (iii) Funds allocation and utilization reports are available | (i) Institutional coordinating bodies/committee s established and functionalized. (ii) Work plan and budget of the coordinating/com mittees established (iii) Resources mobilization for SWASH activities in place by 2017 | Checklist | Product | Quarterly
+(i) Funds allocation and utilization reports are available (ii) Roles and responsibilities for coordination unit and individuals established (iii) Funds allocation and utilization reports are available |  | (i) Institutional coordinating bodies/committees established and functionalized. (ii) Work plan and budget of the coordinating/committees established (iii) Resources mobilization for SWASH activities in place by 2017 | Checklist | Product | Quarterly
 
 49
 
@@ -1702,16 +1641,16 @@ Institutional arrangement
 
 [[START OF PAGE 61]]
 
-Recorded meetings and recommendations/resolu tions of meetings | Regular meetings with minutes and recommendations/res olutions well documented | Checklist | Product | Quarterly
+Recorded meetings and recommendations/resolutions of meetings |  | Regular meetings with minutes and recommendations/resolutions well documented | Checklist | Product | Quarterly
 --- | --- | --- | --- | --- | ---
-M&E reports | Monitoring and Evaluation reports are present and used by decision makers | Checklist | Product | Quarterly
+M&E reports |  | Monitoring and Evaluation reports are present and used by decision makers | Checklist | Product | Quarterly
 Awareness and Capacity building
 Percentage of teachers and other stakeholders with appropriate knowledge and skills in SWASH. Resource people on SWASH programme identified and resourced and facilitated by 2017 | 10% | 75% Resource people engaged on training on TOTs by 2017 | Checklist | Product | Quarterly
 Effectively functioning National and District coordination units | 10% | 75%Trainers engaged in training teachers, in-service teachers , coordinators by 2017 | Checklist | Product | Quarterly
-Number of SWASH clubs established | 75% of schools with sanitation clubs by 2017 | Checklist | Product | Quarterly
+Number of SWASH clubs established |  | 75% of schools with sanitation clubs by 2017 | Checklist | Product | Quarterly
 Number of SWASH clubs participating in SWASH National events | 30% | Majority of schools attending/ participating in SWASH National events | Checklist | Product | Quarterly
 Infrastructure Development and maintenance
-Number of SWASH facilities constructed, properly used and maintained | • 50% of schools access hand washing facilities by 2017 • 40% of schools with sanitary facilities enhanced by 2017 • 40% of schools access Clean and safe water by 2017 | Checklist | Output | Quarterly
+Number of SWASH facilities constructed, properly used and maintained |  | • 50% of schools access hand washing facilities by 2017 • 40% of schools with sanitary facilities enhanced by 2017 • 40% of schools access Clean and safe water by 2017 | Checklist | Output | Quarterly
 
 50
 
@@ -1719,17 +1658,17 @@ Number of SWASH facilities constructed, properly used and maintained | • 50% o
 
 [[START OF PAGE 62]]
 
-Number of schools with facilities that are accessible to adolescent girls, children and staff with disabilities | • 20% of schools with facilities that are accessible to adolescent | Checklist | Product | Quarterly
---- | --- | --- | --- | ---
-Cross Cutting Issues | Checklist | Product
-Availability of facilities for safe disposal of sanitary pads Changing rooms for girls in schools are present | • All schools have separate sanitary facilities for boys and girls • 50% of school have changing rooms for girls and facilities for safe disposal of sanitary pads by 2017 | Checklist | Product | Quarterly
-Availability of SWASH facilities for school children and teachers with disabilities | 30% of school have facilities for school children and teachers with disabilities by 2017 | Checklist | Product | Quarterly
-IEC/BCC materials distributed for sensitization | 50% school to have waste collection and disposal points as well sanitary incinerators by 2017 | Checklist | Product | Quarterly
-Meetings and trainings workshop made | Training and meetings on SWASH done in all districts | Checklist | Product | Quarterly
+Number of schools with facilities that are accessible to adolescent girls, children and staff with disabilities |  | • 20% of schools with facilities that are accessible to adolescent | Checklist | Product | Quarterly
+--- | --- | --- | --- | --- | ---
+Cross Cutting Issues |  |  | Checklist | Product |
+Availability of facilities for safe disposal of sanitary pads Changing rooms for girls in schools are present |  | • All schools have separate sanitary facilities for boys and girls • 50% of school have changing rooms for girls and facilities for safe disposal of sanitary pads by 2017 | Checklist | Product | Quarterly
+Availability of SWASH facilities for school children and teachers with disabilities |  | 30% of school have facilities for school children and teachers with disabilities by 2017 | Checklist | Product | Quarterly
+IEC/BCC materials distributed for sensitization |  | 50% school to have waste collection and disposal points as well sanitary incinerators by 2017 | Checklist | Product | Quarterly
+Meetings and trainings workshop made |  | Training and meetings on SWASH done in all districts | Checklist | Product | Quarterly
 Financial Mobilisation and Resource Management
-List of potential partners to support SWASH | Commitment by policy and decision makers to effectively support SWASH Commitment and willingness by community to support SWASH. | Checklist | Product | Quarterly
-Budget lines for SWASH available at all levels | Sustainable financing mechanisms and management for SWASH in place at all levels | Checklist | Product | Quarterly
-Percentage of the MTEF budget allocated to | Adequate funds are available for SWASH | Checklist | Output | Quarterly
+List of potential partners to support SWASH |  | Commitment by policy and decision makers to effectively support SWASH Commitment and willingness by community to support SWASH. | Checklist | Product | Quarterly
+Budget lines for SWASH available at all levels |  | Sustainable financing mechanisms and management for SWASH in place at all levels | Checklist | Product | Quarterly
+Percentage of the MTEF budget allocated to |  | Adequate funds are available for SWASH | Checklist | Output | Quarterly
 
 51
 
@@ -1737,11 +1676,11 @@ Percentage of the MTEF budget allocated to | Adequate funds are available for SW
 
 [[START OF PAGE 63]]
 
-SWASH | are available from MDAs, DPs CBOs, NGOs
---- | --- | --- | --- | ---
-Amount of funds disbursed against allocation at all levels | All funds allocated disbursed and utilized | Checklist | Product | Quarterly
-Quantity and quality SWASH facilities provided | Framework for good governance for SWASH funding in place (SWASH targets and activities are put in the MTEF) | Checklist | Product | Quarterly
-Relevant financial management records are present | Clean audit reports produced annually | Checklist | Product | Quarterly
+SWASH |  | are available from MDAs, DPs CBOs, NGOs |  |  |
+--- | --- | --- | --- | --- | ---
+Amount of funds disbursed against allocation at all levels |  | All funds allocated disbursed and utilized | Checklist | Product | Quarterly
+Quantity and quality SWASH facilities provided |  | Framework for good governance for SWASH funding in place (SWASH targets and activities are put in the MTEF) | Checklist | Product | Quarterly
+Relevant financial management records are present |  | Clean audit reports produced annually | Checklist | Product | Quarterly
 
 52
 
