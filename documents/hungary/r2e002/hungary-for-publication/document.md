@@ -6,17 +6,17 @@
 
 ### A. About the 1974 Recommendation
 
-- UNESCO's 1974 Recommendation concerning Education for International Understanding,  Co-operation  and  Peace  and  Education  relating  to  Human  Rights  and Fundamental  Freedoms 1 (the ' 1974  Recommendation' )  aims  to  promote  international education and world peace through understanding, solidarity and cooperation. It was adopted on 19 November 1974 by the General Conference of UNESCO at its 18th session.
+1. UNESCO’s 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms¹ (the “1974 Recommendation”) aims to promote international education and world peace through understanding, solidarity and cooperation. It was adopted on 19 November 1974 by the General Conference of UNESCO at its 18th session.
 
-- The 1974 Recommendation applies to formal, non-formal and informal education and to all levels, from pre-primary to tertiary and adult education and lifelong learning. The General Conference recommended ' that Member States should apply ' the provisions included in the 1974 Recommendation ' by taking whatever legislative or other steps ' that provide institutional (e.g.  policies  and  legal  frameworks)  and  pedagogical  (e.g.  curricula,  teacher  training, educational materials, equipment, and student assessment) support for its  implementation, based on the ' objectives ', referred to in paragraph 4 of the 1974 Recommendation , ' regarded as major guiding principles of education policy '  including: an international dimension and a global  perspective  on  education,  cultural  diversity,  interdependence,  communication, rights and responsibilities, international solidarity and cooperation, and problem solving.
+2. The 1974 Recommendation applies to formal, non-formal and informal education and to all levels, from pre-primary to tertiary and adult education and lifelong learning. The General Conference recommended “that Member States should apply” the provisions included in the 1974 Recommendation “by taking whatever legislative or other steps” that provide institutional (e.g. policies and legal frameworks) and pedagogical (e.g. curricula, teacher training, educational materials, equipment, and student assessment) support for its implementation, based on the “objectives”, referred to in paragraph 4 of the 1974 Recommendation, “regarded as major guiding principles of education policy” including: an international dimension and a global perspective on education, cultural diversity, interdependence, communication, rights and responsibilities, international solidarity and cooperation, and problem solving.
 
-- Today, the principles of the 1974 Recommendation apply equally well to Education for Sustainable Development (ESD) and to Global Citizenship Education (GCED) and therefore represent a powerful tool for promoting the 2030 Agenda for Sustainable Development and in particular SDG Target 4.7 on the promotion of sustainable development and global citizenship through  education,  Target  12.8  on  access  to  information  on  sustainable  development  and Target 13.3 on climate change education.
+3. Today, the principles of the 1974 Recommendation apply equally well to Education for Sustainable Development (ESD) and to Global Citizenship Education (GCED) and therefore represent a powerful tool for promoting the 2030 Agenda for Sustainable Development and in particular SDG Target 4.7 on the promotion of sustainable development and global citizenship through education, Target 12.8 on access to information on sustainable development and Target 13.3 on climate change education.
 
-- The  General  Conference  in  its  39th  session  recommended  the  use  of  the 1974 Recommendation reporting process to support the implementation and monitoring of Target 4.7 of Sustainable Development Goal 4 (39 C/Resolution 79). The UNESCO Executive Board at its 209th session approved the use of the current guidelines for both the monitoring of the 1974 Recommendation and the collection of data needed for the following global SDG indicator for which UNESCO is custodian (209 EX/Decision 18.II):
+4. The General Conference in its 39th session recommended the use of the 1974 Recommendation reporting process to support the implementation and monitoring of Target 4.7 of Sustainable Development Goal 4 (39 C/Resolution 79). The UNESCO Executive Board at its 209th session approved the use of the current guidelines for both the monitoring of the 1974 Recommendation and the collection of data needed for the following global SDG indicator for which UNESCO is custodian (209 EX/Decision 18.II):
 
-- 4.7.1,  12.8.1  and  13.3.1: The extent to which (i) global  citizenship  education  and (ii) education  for  sustainable  development  are  mainstreamed  in  (a)  national  education policies; (b) curricula; (c) teacher education and (d) student assessment.
+4.7.1, 12.8.1 and 13.3.1: The extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education and (d) student assessment.
 
-- Questions marked with an asterisk (*) will be used in the calculation of the respective indicators  ( Table  1 ).  As  approved  by  the  Inter-Agency  and  Expert  Group  on  the  SDG Indicators, the indicators will be calculated for primary and secondary education only.
+5. Questions marked with an asterisk (*) will be used in the calculation of the respective indicators (Table 1). As approved by the Inter-Agency and Expert Group on the SDG Indicators, the indicators will be calculated for primary and secondary education only.
 
 Table 1 Questions used in the calculation of the global SDG indicator for Targets 4.7, 12.8 and 13.3
 
@@ -32,19 +32,19 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 ### B. Reporting obligations
 
-- The General Conference, at its 18th session, when adopting the 1974 Recommendation recommended ' that Member States submit […] reports concerning the action taken by them in pursuance of this recommendation '. Moreover, in accordance with Article VIII of UNESCO's Constitution ' Each Member State shall submit to the Organization […] reports […] on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4 .'
+6. The General Conference, at its 18th session, when adopting the 1974 Recommendation recommended “that Member States submit […] reports concerning the action taken by them in pursuance of this recommendation”. Moreover, in accordance with Article VIII of UNESCO’s Constitution “Each Member State shall submit to the Organization […] reports […] on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4.”
 
-- Thus, all UNESCO Member States are expected to report on the steps they have taken  to  implement  the 1974  Recommendation preferably  by  completing  the  following questionnaire. Such reporting takes place every four years.
+7. Thus, all UNESCO Member States are expected to report on the steps they have taken to implement the 1974 Recommendation preferably by completing the following questionnaire. Such reporting takes place every four years.
 
 ## II. Guidelines for completion of the questionnaire
 
-- This  questionnaire  and  its  accompanying  guidelines  are  addressed  to  Ministers responsible for relations with UNESCO. The questionnaire is typically completed by Ministries of Education and other government authorities responsible for education. Responses should cover, as far as possible, education at all levels of government, including sub-national levels where applicable as well as education outside the government sector.
+8. This questionnaire and its accompanying guidelines are addressed to Ministers responsible for relations with UNESCO. The questionnaire is typically completed by Ministries of Education and other government authorities responsible for education. Responses should cover, as far as possible, education at all levels of government, including sub-national levels where applicable as well as education outside the government sector.
 
-- National respondents are encouraged to consult widely both within, across and beyond government, including with Ministries of Environment, with national human rights institutions, the education sector, civil society partners and others, as necessary, to gather the information needed to complete the questionnaire.
+9. National respondents are encouraged to consult widely both within, across and beyond government, including with Ministries of Environment, with national human rights institutions, the education sector, civil society partners and others, as necessary, to gather the information needed to complete the questionnaire.
 
-- Responses to the seventh consultation should cover:
+10. Responses to the seventh consultation should cover:
 
-(i)      the time period 2017-2020;
+(i) the time period 2017-2020;
 
 (ii) education at all levels of formal education from pre-primary to tertiary education as well as non-formal education;
 
@@ -52,79 +52,79 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 (iv) where possible, education outside the government sector.
 
-- To assist  countries  in  responding  to  this  questionnaire,  UNESCO  has  developed  the following  set  of  global  citizenship  education  and  education  for  sustainable  development themes. The list is based on a review of current common practices in many countries as well as a review of relevant literature. While the terms ESD and GCED may be used differently in some countries, the list of themes typically captures what are seen as key elements of Target 4.7.  Please  refer  to  the  definitions  of  key  terms  in Section  III before  completing  the questionnaire.
+11. To assist countries in responding to this questionnaire, UNESCO has developed the following set of global citizenship education and education for sustainable development themes. The list is based on a review of current common practices in many countries as well as a review of relevant literature. While the terms ESD and GCED may be used differently in some countries, the list of themes typically captures what are seen as key elements of Target 4.7. Please refer to the definitions of key terms in Section III before completing the questionnaire.
 
 ### Global citizenship education and education for sustainable development
 
-- cultural diversity and tolerance
+1. cultural diversity and tolerance
 
-- 1.1 international or intercultural understanding, solidarity and cooperation
+1.1 international or intercultural understanding, solidarity and cooperation
 
-- 1.2 intercultural and interreligious dialogue
+1.2 intercultural and interreligious dialogue
 
-- 1.3 local, national and/or global citizenship
+1.3 local, national and/or global citizenship
 
-- gender equality education
+2. gender equality education
 
-- 2.1 gender-based equal opportunities
+2.1 gender-based equal opportunities
 
-- 2.2 gender equality and justice
+2.2 gender equality and justice
 
-- 2.3 gender roles, identity and stereotypes
+2.3 gender roles, identity and stereotypes
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-- human rights education
+3. human rights education
 
-- 3.1 equality  and  non-discrimination  based  on race, colour,  language, religion, disability,  political  or  other  opinion,  national  or  social  origin,  birth  or  other status
+3.1 equality and non-discrimination based on race, colour, language, religion, disability, political or other opinion, national or social origin, birth or other status
 
-- 3.2 human rights values, human dignity, justice, inclusion and participation
+3.2 human rights values, human dignity, justice, inclusion and participation
 
-- 3.3 respect for  human  rights  and  fundamental  freedoms  (as  outlined  in international conventions and declarations)
+3.3 respect for human rights and fundamental freedoms (as outlined in international conventions and declarations)
 
-- peace and non-violence
+4. peace and non-violence
 
-- 4.1 friendly relations among peoples and nations
+4.1 friendly relations among peoples and nations
 
-- 4.2 challenging negative stereotypes, promoting peaceful solutions, learning to live together, including others and preventing violent extremism
+4.2 challenging negative stereotypes, promoting peaceful solutions, learning to live together, including others and preventing violent extremism
 
-- 4.3 preventing all forms of violence including bullying, verbal abuse and genderbased violence
+4.3 preventing all forms of violence including bullying, verbal abuse and gender-based violence
 
-- climate change education
+5. climate change education
 
-- 5.1 mitigation
+5.1 mitigation
 
-- 5.2 adaptation
+5.2 adaptation
 
-- 5.3 impact reduction
+5.3 impact reduction
 
-- 5.4 early warning
+5.4 early warning
 
-- environmental sustainability
+6. environmental sustainability
 
-- 6.1 caring for the planet, protecting nature
+6.1 caring for the planet, protecting nature
 
-- 6.2 environmental justice
+6.2 environmental justice
 
-- 6.3 biodiversity, water
+6.3 biodiversity, water
 
-- human survival and well-being
+7. human survival and well-being
 
-- 7.1 environmental health as it pertains to  human well-being, disaster risk reduction
+7.1 environmental health as it pertains to human well-being, disaster risk reduction
 
-- 7.2 health of the planet for future generations
+7.2 health of the planet for future generations
 
-- 7.3 sustainable cities and communities
+7.3 sustainable cities and communities
 
-- sustainable consumption and production
+8. sustainable consumption and production
 
-- 8.1 responsible and sustainable lifestyles
+8.1 responsible and sustainable lifestyles
 
-- 8.2 green economy, green jobs
+8.2 green economy, green jobs
 
-- 8.3 sustainable energy
+8.3 sustainable energy
 
 [[END OF PAGE 3]]
 
@@ -141,7 +141,7 @@ Themes of global citizenship and education for sustainable development
 4. Peace and non-violence | Education about peace and peace-building, mediation, conflict prevention and resolution, non-violence, reconciliation and living together peacefully. It includes advocating for friendly relations among peoples and nations, challenging negative stereotypes, promoting peaceful solutions, learning to live together and preventing violent extremism and other forms of violence including bullying.
 5. Climate change education | Education to help people, in particular youth, understand, address, mitigate, and adapt to the impacts of climate change. It encourages changes in attitudes and behaviours needed to put the world on a more sustainable development path, and build a new generation of climate change-aware citizens. It covers various responses to climate change including mitigation, adaptation, impact reduction and early warning.
 6. Environmental sustainability | Education about responsible interactions with the environment to avoid depletion or degradation and to promote environmental quality and health. It includes, caring for the planet and protecting nature, environmental justice, biodiversity and water.
-7. Human survival and well- being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
+7. Human survival and well-being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
 
 [[END OF PAGE 4]]
 
@@ -176,12 +176,6 @@ Vocational education | Education that is designed for learners to acquire the kn
 [[START OF PAGE 7]]
 
 ## IV. Information about the respondent
-
-Hungary
----
-
-17.12.2020
----
 
 Country:
 
@@ -227,7 +221,7 @@ Others (please specify) :
 
 ## VI. Questionnaire
 
-### Laws and policies (preamble and paras 4 and 7 of the 1974 Recommendation )
+### A. Laws and policies (preamble and paras 4 and 7 of the 1974 Recommendation)
 
 #### A1a. Please  describe any  specific national or sub-national laws, legislation or legal framework(s) in your country that govern the promotion of global citizenship education (GCED) and/or education for sustainable development (ESD). Explain whether GCED and/or ESD themes 2  are mentioned explicitly or are inferred and what types or levels of education are covered.
 
@@ -255,11 +249,11 @@ The Fundamental Law of Hungary (referred as the Constitution of Hungary): https:
 
 Act CXC of 2011 on National Public Education:
 
-http://www.ilo.org/dyn/natlex/docs/ELECTRONIC/106832/131356/F1702001629/act_national_education.pdf
+http://www.ilo.org/dyn/natlex/docs/ELECTRONIC/106832/131356/F-1702001629/act_national_education.pdf
 
 Act XC of 2014 on International Development Cooperation and International Humanitarian Aid
 
-Act CCIV of 2011 on Higher Education: http://etk.pte.hu/public/upload/files/internationalstudents/CodesAndGuidlines/TheHungarian HigherEducationAct.pdf
+Act CCIV of 2011 on Higher Education: http://etk.pte.hu/public/upload/files/internationalstudents/CodesAndGuidlines/TheHungarianHigherEducationAct.pdf
 
 Hungary's International Development Cooperation Strategy for the period 2014-2020;
 
@@ -269,7 +263,7 @@ Government Decree on International Development Cooperation no. 1182/2014 of III.
 
 National Core Curriculum: Gov. decree no. 110/2012 of I. 31.
 
-National Framework Strategy on National Sustainable Development of Hungary https://www.parlament.hu/documents/127649/4101265/NFFT-ENG-web.pdf/f692c792-424d4f5a-9f9d-9e6200303148?t=1580130885736
+National Framework Strategy on National Sustainable Development of Hungary https://www.parlament.hu/documents/127649/4101265/NFFT-ENG-web.pdf/f692c792-424d-4f5a-9f9d-9e6200303148?t=1580130885736
 
 2091/2017. (XII. 28.) Government Decree on the implementation of the Sustainable Development framework (Agenda 2030)
 
@@ -277,9 +271,7 @@ Economic Strategy (2019-2030, Ministry of Innovation and Technology)
 
 18/2016. (VIII. 5.) Ministry of Human Capacities Decree
 
-For detailed information: The Institutions of Sustainability in Hungary https://www.parlament.hu/documents/127649/1361679/Sustain_Hun_en.pdf/e9fb3d0c-5a6a-
-
-18f0-7b35-0c6da64dcafe?t=1580128923864
+For detailed information: The Institutions of Sustainability in Hungary https://www.parlament.hu/documents/127649/1361679/Sustain_Hun_en.pdf/e9fb3d0c-5a6a-18f0-7b35-0c6da64dcafe?t=1580128923864
 
 [[END OF PAGE 10]]
 
@@ -287,21 +279,21 @@ For detailed information: The Institutions of Sustainability in Hungary https://
 
 #### *A2 Please indicate which GCED and ESD themes are covered in national or sub-national laws, legislation or legal frameworks on education by entering the appropriate number in each white cell.
 
-#### A3a.  Please  describe  any  specific  current  national  or  sub-national  education  policies, frameworks  or  strategic  objectives  in  your  country  that  promote  global  citizenship education  (GCED)  and/or  education  for  sustainable  development  (ESD).  Explain whether GCED and/or ESD themes 3  are mentioned explicitly or are inferred and what types or levels of education are covered.
-
-National | Sub-national
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Pre- primary | Primary/ secondary | Tertiary | Non- formal | Pre- primary | Primary/ secondary | Tertiary | Non- formal
-1. | Cultural diversity and tolerance | 1 | 1 | 1 | 99 | 99 | 99 | 99 | 99
-2. | Gender equality | 0 | 1 | 1 | 99 | 99 | 99 | 99 | 99
-3. | Human rights | 0 | 1 | 1 | 99 | 99 | 99 | 99 | 99
-4. | Peace and non- violence | 1 | 1 | 1 | 99 | 99 | 99 | 99 | 99
-5. | Climate change | 0 | 1 | 1 | 99 | 99 | 99 | 99 | 99
-6. | Environmental sustainability | 1 | 1 | 1 | 99 | 99 | 99 | 99 | 99
-7. | Human survival and well-being | 0 | 1 | 1 | 99 | 99 | 99 | 99 | 99
-8. | Sustainable consumption and production | 1 | 1 | 1 | 99 | 99 | 99 | 99 | 99
-
 KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
+
+ | National |  |  |  | Sub-national |  |  | 
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+ | Pre-primary | Primary/secondary | Tertiary | Non-formal | Pre-primary | Primary/secondary | Tertiary | Non-formal
+1. Cultural diversity and tolerance | 1 | 1 | 1 | 99 | 99 | 99 | 99 | 99
+2. Gender equality | 0 | 1 | 1 | 99 | 99 | 99 | 99 | 99
+3. Human rights | 0 | 1 | 1 | 99 | 99 | 99 | 99 | 99
+4. Peace and non-violence | 1 | 1 | 1 | 99 | 99 | 99 | 99 | 99
+5. Climate change | 0 | 1 | 1 | 99 | 99 | 99 | 99 | 99
+6. Environmental sustainability | 1 | 1 | 1 | 99 | 99 | 99 | 99 | 99
+7. Human survival and well-being | 0 | 1 | 1 | 99 | 99 | 99 | 99 | 99
+8. Sustainable consumption and production | 1 | 1 | 1 | 99 | 99 | 99 | 99 | 99
+
+#### A3a. Please describe any specific current national or sub-national education policies, frameworks or strategic objectives in your country that promote global citizenship education (GCED) and/or education for sustainable development (ESD). Explain whether GCED and/or ESD themes 3 are mentioned explicitly or are inferred and what types or levels of education are covered.
 
 ##### ESD-related strategies:
 The Hungarian Government approved the first National Sustainable Development Strategy in 2007. The Hungarian Parliament established the National Council for Sustainable Development, which adopted the National Framework Strategy for Sustainable Development 2012-2024 (hereinafter: NFSSD). ESD is represented in the NFSSD not only as part of the targets related to human resources but as part of each of the four main areas of concern.
@@ -324,7 +316,7 @@ Non-formal and informal ESD is addressed in the National Framework Strategy on S
 
 ##### GCED-related strategies:
 ###### Community service :
-It is self-evident that developing skills can be most effective by practising them. This consideration led to the introduction of a minimum 50hour-long compulsory community service as a pre-requisite for issuing secondary school leaving examination certificates in 2016. Most typical fields of this voluntary work are social institutions, old-age homes, public health institutions, environmental protection organizations and the kind. There is no doubt that this type of service promotes skills like empathy, flexibility, co-operation and problem-solving skills and has a positive effect on attitudes like respect and responsibility.
+It is self-evident that developing skills can be most effective by practising them. This consideration led to the introduction of a minimum 50-hour-long compulsory community service as a pre-requisite for issuing secondary school leaving examination certificates in 2016. Most typical fields of this voluntary work are social institutions, old-age homes, public health institutions, environmental protection organizations and the kind. There is no doubt that this type of service promotes skills like empathy, flexibility, co-operation and problem-solving skills and has a positive effect on attitudes like respect and responsibility.
 
 By putting students in an out-of-school environment they are likely to encounter people of different attitudes, ages, beliefs, social backgrounds etc. - still mostly within their local community. Certification of the decision of the community service required for issuing secondary school leaving examination certificates shall be required for the first time in the case of secondary school leaving examination started after 1 January 2016. (Act CXC of 2011 on National Public Education: Section 97 (2))
 
@@ -343,7 +335,7 @@ Textbooks and workbooks developed in the framework of the state-funded education
 ###### Digital Child Protection Strategy:
 Hungary pays particular attention to digital child protection, the prevention of school bullying and peer abuse and implementing restorative practices for the treatment of such cases. The rapid technological change of the 21st century and the growing appreciation of the Internet among young people call for creating a safe digital environment for children providing access exclusively to digital space contents having a positive impact on their development.
 
-The Digital Child Protection Strategy of Hungary which was adopted in Government Resolution 1488/2016 (IX. 2). The Digital Child Protection Strategy (hereinafter referred to as DCPS) focuses on promoting mindful, value-creating use of the Internet, on developing conscious media use and on emphasizing the enforcement of policies and measures to protect children, privacy and rights related to personality. In relation to DCPS, a detailed action plan has been adopted to implement the DCPS objectives with the involvement of inter-ministerial and nongovernmental actors.
+The Digital Child Protection Strategy of Hungary which was adopted in Government Resolution 1488/2016 (IX. 2). The Digital Child Protection Strategy (hereinafter referred to as DCPS) focuses on promoting mindful, value-creating use of the Internet, on developing conscious media use and on emphasizing the enforcement of policies and measures to protect children, privacy and rights related to personality. In relation to DCPS, a detailed action plan has been adopted to implement the DCPS objectives with the involvement of inter-ministerial and non-governmental actors.
 
 The Ministry of Human Capacities of Hungary supports school anti-bullying programs that can be effective tools in preventing and handling cases of school bullying. ENABLE implemented by the Educational Authority of Hungary with the support of the Ministry of Human Capacities of Hungary is a remarkable example of such programs. Through this program, teachers receive practical assistance in preventing, detecting, and intervening school bullying. The program's accredited in-service teacher training has been integrated into the repertoire of the Pedagogical Education Centres. (ENABLE is a complex program aiming to reduce violence and harassment in schools with its mainly classroom-based activities held by trained teachers and school psychologists. Institutions can choose from two modules, both of which take 10 lessons.)
 
@@ -501,7 +493,7 @@ GCED  and  ESD  are  incorporated into the curricula of several Hungarian HEIs. 
 
 6. In the pre-school education of children belonging to nationalities, the preservation, care, strengthening, transmission, language education and the possibility of integration based on multicultural education must be ensured.
 
-7. In the pre-school education of the children of families forced to leave their homeland (hereinafter: migrants), the preservation, care, strengthening and social integration of selfidentity must be ensured.'
+7. In the pre-school education of the children of families forced to leave their homeland (hereinafter: migrants), the preservation, care, strengthening and social integration of self-identity must be ensured.'
 
 ##### Excerpts from the National Core Curriculum:
 
@@ -540,7 +532,9 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 
 #### *B3 Please indicate in which subjects or fields of study GCED and ESD are taught in primary and secondary education by entering the appropriate number in each white cell.
 
-Cultural diversity and tolerance | Gender equality | Human rights | Peace and non- violence | Climate change | Environmental sustainability | Human survival and well- being | Sustainable consumption and production
+KEY: 0 = no, 1 = yes, 9 = unknown
+
+Cultural diversity and tolerance | Gender equality | Human rights | Peace and non-violence | Climate change | Environmental sustainability | Human survival and well-being | Sustainable consumption and production
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Arts | 1 | 0 | 1 | 1 | 0 | 1 | 1 | 1
 Civics, civil or citizenship education | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
@@ -556,8 +550,6 @@ Social studies | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Integrated studies | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Other (please specify)
 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
-
-KEY: 0 = no, 1 = yes, 9 = unknown
 
 [[END OF PAGE 19]]
 
@@ -589,7 +581,7 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 
 [[START OF PAGE 21]]
 
-### Teacher education (including the training of trainers and educators) (paras 4 and 33-37 of the 1974 Recommendation )
+### C. Teacher education (including the training of trainers and educators) (paras 4 and 33-37 of the 1974 Recommendation)
 
 #### C1a. Please describe in which ways GCED and ESD are mainstreamed in initial training and in  continuing  professional  development  of  teachers,  trainers  and  educators.  Indicate whether all teachers, trainers and educators or only some are required to receive training to teach GCED and/or ESD.
 
@@ -666,7 +658,7 @@ In  continuing  professional  development  of  teachers,  trainers  and  educato
 
 The University promotes non-formal education and training of teachers through various channels, be it a conference, a forum, a meeting of experts, sharing of good practices, workshops or other non-formal forms of training. The Faculties support the further training of lecturers in these fields and the expansion of their knowledge.
 
-All future teachers studying at the University of Szeged (USZ) have the possibility to enroll to the elective courses Environmental Hazards and Environmental Education, Multicultural Education Roma Integration, and The Health Promoting School Project offered by the Juhász Gyula Faculty of Education. These courses put a great emphasis on ESD either/or GCED issues.  The common Teaching  Profession  Module  of  each  upper-primary  and  secondary  school  teacher  training program offered at USZ mainstreams GCED within the compulsory subject course of Psychology and Sociology of Education. Lower primary teacher training integrated GCED and ESD into its curriculum in the form of subject courses like Men and Society, Sociology of Education, or Natural Sciences.   Within  the  continuing  professional  development  of  teachers  the  in-service  teacher training programs of the Faculty of Juhász Gyula contain a compulsory knowledge block which also includes GCE issues within the subject School and Society.  There are also teacher training programs  specialized  for  GCED  and  ESD  issues  like  Teacher  of  Natural  and  Environmental Sciences,  or  Teacher  of  Technical  Sciences,  Life  conduct  and  Practice;  and  also  in-service teacher  training  programs  like  Health  Promotion,  Mental  Health  Promotion;  Youth  Studies; Multicultural Education or Roma Integration Studies.
+All future teachers studying at the University of Szeged (USZ) have the possibility to enroll to the elective courses Environmental Hazards and Environmental Education, Multicultural Education – Roma Integration, and The Health Promoting School Project offered by the Juhász Gyula Faculty of Education. These courses put a great emphasis on ESD either/or GCED issues. The common Teaching Profession Module of each upper-primary and secondary school teacher training program offered at USZ mainstreams GCED within the compulsory subject course of Psychology and Sociology of Education. Lower primary teacher training integrated GCED and ESD into its curriculum in the form of subject courses like Men and Society, Sociology of Education, or Natural Sciences. Within the continuing professional development of teachers the in-service teacher training programs of the Faculty of Juhász Gyula contain a compulsory knowledge block which also includes GCE issues within the subject School and Society. There are also teacher training programs specialized for GCED and ESD issues like Teacher of Natural and Environmental Sciences, or Teacher of Technical Sciences, Life conduct and Practice; and also in-service teacher training programs like Health Promotion, Mental Health Promotion; Youth Studies; Multicultural Education or Roma Integration Studies.
 
 At the national level, certain programmes of teacher training are obliged to involve the issue of diversity: teacher of Romology, Greek and Greek as Ethnic Minority Language and Culture.  At the  national  level,  certain  programmes  of  teacher  training  cover  issues  of  gender:  teacher  of Spanish, Dutch, Portuguese, and Romology.
 
@@ -694,12 +686,14 @@ The aim of the  teacher training  in  Hungary  is  to  develop  the  8  key  com
 ###### In the field of helping and developing of groups and communities:
 The graduated teacher has a basic knowledge of social and intergroup processes, the functioning of democracy, enculturation,  and multiculturalism.  He  /  She  knows  the  psychological, sociological,  and cultural characteristics of the groups and communities. He / she can apply methods that support collaboration, both in subject teaching and in leisure activities. He / She is able to deal with conflicts effectively. He / She helps to develop the commitment of group members to the community, to learn to take a responsible, active role in a democratic society, and to accept local, national and universal human values. He / She is able to interpret socio-cultural phenomena that affect learners' chances, life in school and out of school, and use them for their  benefit.  It  can  contribute  to  creating  a  tolerant,  open  atmosphere  in  schools  and classrooms. In his / her own attitudes, the teacher is committed to basic democratic values, characterized by social sensitivity and helpfulness. He / She carries out his teaching work without prejudices, he / she tries to adopt the approach of inclusion. He / She is committed to national values and identity, he / she is open to education for democratic thinking and behaviour, and to that of environmental awareness. In the world of the school, he / she consciously strives to accept the diversity of values, to be open to the opinions and values of others, and to respect them, especially regarding ethnicities and nationalities.
 
-###### In the field of learning support, organization and management :
-The teacher has a basic knowledge of methods for recognizing and developing learning motivation. He / She has the knowledge necessary to create the physical, emotional, social, learning characteristics and conditions of the learner-centered learning environment. He / She is informed about the issues of differential pedagogy, adaptive learning organization, selection and application of educational strategies and methods. He / She knows the importance of preparing for lifelong learning. He / She is able to select and implement methods and organizational forms for well-thought-out strategies for different goals, providing motivation, differentiation, learner activity, helping learners to develop their ability to think, solve problems and cooperate. He / She is able to organize a learning environment that is calm, safe, and conducive to effective learning. He / she is able to establish the ability-system of lifelong learning and to practice his  /  her  techniques.  He  /  she  acknowledges  that  in  order  to  create  the  right  learning atmosphere,  the  specific  needs,  ideas,  and  initiatives  of  students  must  be  taken  into account. He / She seeks to work with learners to make the learning process effective. He /She strives to apply learning and teaching strategies and methods that promote activity, interactivity, and differentiation in accordance with age, individual and group characteristics.
+###### In the field of learning support, organization and management:
+The teacher has a basic knowledge of methods for recognizing and developing learning motivation. He / She has the knowledge necessary to create the physical, emotional, social, learning characteristics and conditions of the learner-centered learning environment. He / She is informed about the issues of differential pedagogy, adaptive learning organization, selection and application of educational strategies and methods. He / She knows the importance of preparing for lifelong learning. He / She is able to select and implement methods and organizational forms for well-thought-out strategies for different goals, providing motivation, differentiation, learner
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
+
+activity, helping learners to develop their ability to think, solve problems and cooperate. He / She is able to organize a learning environment that is calm, safe, and conducive to effective learning. He / she is able to establish the ability-system of lifelong learning and to practice his / her techniques. He / she acknowledges that in order to create the right learning atmosphere, the specific needs, ideas, and initiatives of students must be taken into account. He / She seeks to work with learners to make the learning process effective. He /She strives to apply learning and teaching strategies and methods that promote activity, interactivity, and differentiation in accordance with age, individual and group characteristics.
 
 The teacher education curricula is under revision in Hungary. As the key values of the National Core Curriculum will be explicitly present in the renewed teacher training curricula, ESD will be strongly present in the new trainings.
 
@@ -760,20 +754,20 @@ Beside these, 8/2013 (I. 30.) EMMI decree declares that the GCED and ESD must ap
 
 Concrete examples - courses in teacher training at the University of Pécs (UP)
 
-###### Creating an inclusive learning environment, mutual acceptance, fostering respectful dialogue, development of willingness to debate and critical thinking in teacher training at the UP
-· Human and Child Psychology · Personality and Health Psychology · Developmental Psychology · Learning Centered Communication · Learning & Teaching + School practice related to the course Learning & Teaching  · School and Society · Education &  School  +  Practice  connected  to  the  subject  'Education  and  the  school'  ·  Practice  of intercultural education
+###### 1. Creating an inclusive learning environment, mutual acceptance, fostering respectful dialogue, development of willingness to debate and critical thinking in teacher training at the UP
+· Human and Child Psychology · Personality and Health Psychology · Developmental Psychology · Learning Centered Communication · Learning & Teaching + School practice related to the course Learning & Teaching · School and Society · Education & School + Practice connected to the subject 'Education and the school' · Practice of intercultural education
 
-###### Independent teacher training programs to prepare for teaching the language and culture of the Croatian, German and Roma minorities in Hungary:
-· Teacher of Romology · Teacher of German language and culture and German as a minority language and culture · Teacher of Croatian language and culture and Croatian as a minority language and culture . Ethnic Minority  Kindergarten  Teacher  (German)  .  Ethnic  Minority  Primary  School  Teacher (German)
+###### 2. Independent teacher training programs to prepare for teaching the language and culture of the Croatian, German and Roma minorities in Hungary:
+· Teacher of Romology · Teacher of German language and culture and German as a minority language and culture · Teacher of Croatian language and culture and Croatian as a minority language and culture . Ethnic Minority Kindergarten Teacher (German) . Ethnic Minority Primary School Teacher (German)
 
-###### Teacher training programs for in-service teachers (4 semesters):
-· Social work at schools · Roma social studies  · School practice leading mentor teacher  · Preventive and corrective pedagogy, psychology  · Talent management, talent development
+###### 3. Teacher training programs for in-service teachers (4 semesters):
+· Social work at schools · Roma social studies · School practice leading mentor teacher · Preventive and corrective pedagogy, psychology · Talent management, talent development
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
 
-###### In  service-training  programs  of  the  project  Methodological  renewal  of  public education to reduce early school leaving
+###### 4. In service-training programs of the project Methodological renewal of public education to reduce early school leaving
 
 - Conflict management and the development of emotional intelligence
 
@@ -787,7 +781,7 @@ Concrete examples - courses in teacher training at the University of Pécs (UP)
 
 - Dormitory education to prevent early school leaving
 
-- Developing  learners'  resilience  -  an  intercultural  perspective  in  institutional development preventing drop-out
+- Developing learners’ resilience - an intercultural perspective in institutional development preventing drop-out
 
 - Complex  development of learners against early school leaving without qualification - Personalized differentiation against early school leaving
 
@@ -801,7 +795,7 @@ Concrete examples - courses in teacher training at the University of Pécs (UP)
 
 - Complex  development of learners against early school leaving without qualification - Exercise-based methods
 
-###### Examples of mutual solidarity, common identity and collective responsibility at the University of Pécs:
+###### 5. Examples of mutual solidarity, common identity and collective responsibility at the University of Pécs:
 
 Let's teach for Hungary! A university mentoring program in which students assist the career guidance of disadvantaged children. The aim is to reduce early school leaving, to present the possibilities of further education, to set an example. The student  revives,  systematizes,  and  expands  on  understanding  the  connections between  school  and  society.  He  /  She  acquires  knowledge  of  psychology  and social psychology that can positively influence non-formal learning processes. He /  She  learns  the  approaches  and  practices  of  formative  and  metacognitive assessment.  He  /  She  learns  the  most  important  theoretical  approaches  and practical  implementation  of  positive  psychology.  The  student  will  be  able  to implement successful learning support practice in non-formal learning situations (mentoring), especially among primary school children and their families living in disadvantaged areas. As the course is completed, the student will become open and accepting with a diverse learner and family environment, believing in the power of peer support, recognizing the importance of emotional intelligence and formative assessment in supporting learning. He /She evaluates the problem situations that arise as challenges, self-development situations, he / she approaches them with a positive attitude, and strives to frame them positively.
 
@@ -819,13 +813,20 @@ Inclusive University The University of Pécs Inclusive University is a value-ori
 
 The Emerging University , with its emphasis on inclusive academic excellence and the theoretical and practical implementation of complex development for inclusion, is  of  paramount  importance  to  PTE,  with  the  aim  of  educating  our  students  to become outstanding professionals. https://www.inclusiveuniversity.eu/
 
-Wlislocki  Henrik  Roma  Student  College  (WHSz) In  2001,  the  Department  of Romology launched the Wlislocki Henrik Student College with support from the European  Union's  pre-accession  (PHARE).  The  aim  of  the  WHSz  is  to  bring together Roma/Gypsy students attending the various faculties and departments at the University of Pecs as well as those who are interested in Roma studies and Roma  culture.  In  addition  to  building  research  skills,  the  WHSz  also  strongly reinforces community development and social responsibility and is run based on the principle of inclusivity. Throughout the implementation of the project, a major focus was on building inclusivity in order to achieve a more tolerant society. The WHSz has operated for 15 years and today its inclusive complex model is welldescribed and documented. Looking toward the future, this project seeks to jointly review,  improve,  and  prepare  a  methodological  description  together  with  its international partners in order to facilitate international adaptation of the university model. With the support of a significant EU fund, the WHSz launched a scholarship program from 2013-2015. It is important to mention that two pillars provided the backbone for this program: the University of Pécs and the NGO Számá dă Noj Association, with its long standing history of community empowerment. These two pillars  complement  each  other:  while  the  university's  background  provides opportunities  for  inclusion  into  higher  education,  the  NGO  provides  a  vivid relationship  between  the  local  Roma/  Gypsy  communities  and  the  students; student volunteering opportunities are essential in the WHSz program. Through these  two  pillars,  research,  training,  practice  and  application  are  supported  in significant ways. https://wlislocki.pte.hu/content/wlislocki-henrik-roma-studentcollege-whsz?language=en Green University The idea of the 'Green University' is a complex system including built environment, ecologically conscious operation and maintenance, the formation  of  related  attitudes  and  the  creation  of  an  educational  and  research background.  Nearly  200  courses  are  dealing  with  environmental  issues  and sustainable development at the university at present. https://zoldegyetem.pte.hu/en An  amendment  to  the  Government  Decree  326/2013.  (VIII.  30.)    entered  into  force  in  2018 includes ESD competences in the competence portfolio of teachers. This means that for teachers' qualification  and  advancement  processes,  their  ESD  competences  need  to  be  proven  with evidences from their daily work. This applies to each kindergarten teacher, primary and secondary school teacher (of all subject areas), but even school psychologists, speech therapists, special need instructors, school management and school leaders.
+Wlislocki Henrik Roma Student College (WHSz) In 2001, the Department of Romology launched the Wlislocki Henrik Student College with support from the European Union's pre-accession (PHARE). The aim of the WHSz is to bring together Roma/Gypsy students attending the various faculties and departments at the University of Pecs as well as those who are interested in Roma studies and Roma culture. In addition to building research skills, the WHSz also strongly reinforces community development and social responsibility and is run based on the principle of inclusivity. Throughout the implementation of the project, a major focus was on building inclusivity in order to achieve a more tolerant society. The WHSz has operated for 15 years and today its inclusive complex model is well-described and documented. Looking toward the future, this project seeks to jointly review, improve, and prepare a methodological description together with its international partners in order to facilitate international adaptation of the university model. With the support of a significant EU fund, the WHSz launched a scholarship program from 2013-2015. It is important to mention that two pillars provided the backbone for this program: the University of Pécs and the NGO Számá dă Noj Association, with its long standing history of community empowerment. These two pillars complement each other: while the university's background provides opportunities for inclusion into higher education, the NGO provides a vivid relationship between the local Roma/ Gypsy communities and the students; student volunteering opportunities are essential in the WHSz program. Through these two pillars, research, training, practice and application are supported in
 
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
 
-A mixed group of experts (teacher training, education researcher, certification expert, head of institution and practicing teacher members) was involved in the elaboration of the competence framework. Through the work of this expert group, ESD competencies have been integrated into the evaluation process of educators, and the necessary tools, guides and recommendations have been developed. This served as an initial only the first step towards integrating teachers' ESD competences in teachers' pre- and in-service training as well.
+significant ways. https://wlislocki.pte.hu/content/wlislocki-henrik-roma-student-college-whsz?language=en
+
+Green University The idea of the “Green University” is a complex system including built environment, ecologically conscious operation and maintenance, the formation of related attitudes and the creation of an educational and research background. Nearly 200 courses are dealing with environmental issues and sustainable development at the university at present.
+https://zoldegyetem.pte.hu/en
+
+An amendment to the Government Decree 326/2013. (VIII. 30.) entered into force in 2018 includes ESD competences in the competence portfolio of teachers. This means that for teachers’ qualification and advancement processes, their ESD competences need to be proven with evidences from their daily work. This applies to each kindergarten teacher, primary and secondary school teacher (of all subject areas), but even school psychologists, speech therapists, special need instructors, school management and school leaders.
+
+A mixed group of experts (teacher training, education researcher, certification expert, head of institution and practicing teacher members) was involved in the elaboration of the competence framework. Through the work of this expert group, ESD competencies have been integrated into the evaluation process of educators, and the necessary tools, guides and recommendations have been developed. This served as an initial only the first step towards integrating teachers’ ESD competences in teachers’ pre- and in-service training as well.
 
 In line with this, with the support of the Ministry of Human Capacities of Hungary, in the school term 2019/2020 5633 teachers and school principals took part in conferences or thematic lectures (free of charge) and 5166 teachers received workshops at 80 sites last year. In 2020, about 15.000 teachers qualified successfully and for 2021 already 10.935 teachers applied for the qualification.
 
@@ -848,40 +849,40 @@ For teachers of other subjects | 1 | 1 | 1 | 9
 
 #### *C3 Please indicate on which GCED and ESD themes pre-service or in-service training is available for teachers, trainers and educators at each level of education by entering the appropriate number in each white cell.
 
-#### *C4   Please  indicate  whether  teachers,  trainers  and  educators  are  trained  to  teach  the following  dimensions  of  learning  in  GCED  and  ESD.  Please  enter  the  appropriate number in each white cell.
+KEY: 0 = no, 1 = yes, 9 = unknown
 
-#### *C5 Please indicate whether teachers, trainers and educators are trained to use the following approaches to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
+ | Pre-primary | Primary and secondary | Tertiary | Non-formal education
+--- | --- | --- | --- | ---
+1. Cultural diversity and tolerance | 1 | 1 | 1 | 9
+2. Gender equality | 0 | 0 | 1 | 9
+3. Human rights | 1 | 1 | 1 | 9
+4. Peace and non-violence | 1 | 1 | 1 | 9
+5. Climate change | 1 | 1 | 1 | 9
+6. Environmental sustainability | 1 | 1 | 1 | 9
+7. Human survival and well-being | 1 | 1 | 1 | 9
+8. Sustainable consumption and production | 1 | 1 | 1 | 9
+
+#### *C4 Please indicate whether teachers, trainers and educators are trained to teach the following dimensions of learning in GCED and ESD. Please enter the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
-Pre-primary | Primary and secondary | Tertiary | Non-formal education
---- | --- | --- | --- | --- | ---
-1. | Cultural diversity and tolerance | 1 | 1 | 1 | 9
-2. | Gender equality | 0 | 0 | 1 | 9
-3. | Human rights | 1 | 1 | 1 | 9
-4. | Peace and non-violence | 1 | 1 | 1 | 9
-5. | Climate change | 1 | 1 | 1 | 9
-6. | Environmental sustainability | 1 | 1 | 1 | 9
-7. | Human survival and well-being | 1 | 1 | 1 | 9
-8. | Sustainable consumption and production | 1 | 1 | 1 | 9
-
-KEY: 0 = no, 1 = yes, 9 = unknown
-
-Pre-primary | Primary and secondary | Tertiary | Non-formal education
+ | Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
 Knowledge | 1 | 1 | 1 | 9
 Skills | 1 | 1 | 1 | 9
 Values | 1 | 1 | 1 | 9
 Attitudes and behaviours | 1 | 1 | 1 | 9
 
+#### *C5 Please indicate whether teachers, trainers and educators are trained to use the following approaches to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
+
 KEY: 0 = no, 1 = yes, 9 = unknown
 
-Global citizenship and education for sustainable development
+ | Global citizenship and education for sustainable development
 --- | ---
 GCED/ESD are taught as separate subject(s) | 0
-Cross curriculum approach ( e.g. GCED/ESD are taught in more than one subject but not throughout the curriculum ) | 1
-Integrated approach ( e.g. GCED/ESD are taught throughout the whole curriculum ) | 1
-Whole school approach (e.g. GCED/ESD are integrated in the school ethos, management, governance, curriculum, teacher training, teaching practices, the learning environment, and in learning experiences in the community and life outside school ) | 1
+Cross curriculum approach (e.g. GCED/ESD are taught in more than one subject but not throughout the curriculum) | 1
+Integrated approach (e.g. GCED/ESD are taught throughout the whole curriculum) | 1
+Whole school approach (e.g. GCED/ESD are integrated in the school ethos, management, governance, curriculum, teacher training, teaching practices, the learning environment, and in learning experiences in the community and life outside school) | 1
 
 [[END OF PAGE 29]]
 
@@ -891,7 +892,7 @@ Whole school approach (e.g. GCED/ESD are integrated in the school ethos, managem
 
 #### D1a.  Please describe in which ways GCED and ESD are covered in student assessments and examinations. Indicate whether students are assessed only on their knowledge of and skills  related  to  the  topics  being  tested  or  also  on  their  values,  attitudes  and/or behaviours.
 
-There are no specific student assessments and examinations in Hungary focusing on GCED and ESD. However, the school leaving examinations (especially in in Civic Education, History, Geography, Biology, Physics and Chemistry) contain GCED and ESD knowledge, skill and attitude elements. Also in national competence assessments related to natural science, ESDrelated knowledge, skill and attitude elements are assessed.
+There are no specific student assessments and examinations in Hungary focusing on GCED and ESD. However, the school leaving examinations (especially in in Civic Education, History, Geography, Biology, Physics and Chemistry) contain GCED and ESD knowledge, skill and attitude elements. Also in national competence assessments related to natural science, ESD-related knowledge, skill and attitude elements are assessed.
 
 There are no student assessments at pre-primary level in Hungary, and but there are development thresholds in the Kindergarten Education National Curriculum.
 
@@ -907,7 +908,7 @@ Students are assessed only on their knowledge of and skills in the formal educat
 Students are assessed on the basis of their knowledge.
 
 ###### University of Szeged
-The Learning Outcomes approach is used at the University of Szeged. The course description of each subject course contains the knowledge, skills, attitudes, autonomy/responsibility targeted outcomes students should reach by the end of the given subject course. All these four elements are measured according to predefined objective aspects. Students are assessed and evaluated primarily on the basis of their knowledge, their proficiency in a given topic, however, university values and principles require students to represent global citizenship and the spirit and mindset of sustainable development in their behavior and attitudes.
+The Learning Outcomes approach is used at the University of Szeged. The course description of each subject course contains the knowledge, skills, attitudes, autonomy/responsibility targeted outcomes students should reach by the end of the given subject course. All these four elements are measured according to pre-defined objective aspects. Students are assessed and evaluated primarily on the basis of their knowledge, their proficiency in a given topic, however, university values and principles require students to represent global citizenship and the spirit and mindset of sustainable development in their behavior and attitudes.
 
 ###### University of Veterinary Medicine Budapest
 In certain subjects dealing with the mentioned topics, the knowledge and skills of students are being primarily evaluated, but the values and attitudes are also taken into consideration.
@@ -916,37 +917,37 @@ In certain subjects dealing with the mentioned topics, the knowledge and skills 
 The student assessments and examinations contain only or mostly knowledge-based tasks and questions.
 
 ###### Kodolányi János University
-Values, attitudes, behaviours are not tested. In the so called thematic weeks and in the obligatory course 'Culture, sport, well-being'' we discuss GCED and ESD topics.
+Values, attitudes, behaviours are not tested. In the so called thematic weeks and in the obligatory course “Culture, sport, well-being”” we discuss GCED and ESD topics.
 
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
 
-#### *D2 Please indicate whether the GCED and ESD themes below are generally included in student  assessments  or  examinations  at  each  level  of  education  by  entering  the appropriate number in each white cell.
+#### *D2 Please indicate whether the GCED and ESD themes below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
+
+KEY: 0 = no, 1 = yes, 9 = unknown
+
+ | Pre-primary | Primary and secondary | Tertiary | Non-formal education
+--- | --- | --- | --- | ---
+1. Cultural diversity and tolerance | 0 | 1 | 1 | 9
+2. Gender equality | 0 | 0 | 1 | 9
+3. Human rights | 0 | 1 | 1 | 9
+4. Peace and non-violence | 0 | 1 | 1 | 9
+5. Climate change | 0 | 1 | 1 | 9
+6. Environmental sustainability | 0 | 1 | 1 | 9
+7. Human survival and well-being | 0 | 1 | 1 | 9
+8. Sustainable consumption and production | 0 | 1 | 1 | 9
 
 #### *D3 Please indicate which of the dimensions of learning in GCED and ESD below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
-Pre-primary | Primary and secondary | Tertiary | Non-formal education
---- | --- | --- | --- | --- | ---
-1. | Cultural diversity and tolerance | 0 | 1 | 1 | 9
-2. | Gender equality | 0 | 0 | 1 | 9
-3. | Human rights | 0 | 1 | 1 | 9
-4. | Peace and non-violence | 0 | 1 | 1 | 9
-5. | Climate change | 0 | 1 | 1 | 9
-6. | Environmental sustainability | 0 | 1 | 1 | 9
-7. | Human survival and well-being | 0 | 1 | 1 | 9
-8. | Sustainable consumption and production | 0 | 1 | 1 | 9
-
-Pre-primary | Primary and secondary | Tertiary | Non-formal education
+ | Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
 Knowledge | 0 | 1 | 1 | 9
 Skills | 0 | 1 | 1 | 9
 Values | 0 | 1 | 1 | 9
 Attitudes and behaviours | 0 | 1 | 1 | 9
-
-KEY: 0 = no, 1 = yes, 9 = unknown
 
 [[END OF PAGE 31]]
 
@@ -954,27 +955,19 @@ KEY: 0 = no, 1 = yes, 9 = unknown
 
 ### E. Mainstreaming of GCED and ESD in laws and policies, curricula, teacher education and student assessment (paras 4-5, 7, 10-19 and 33-37 of the 1974 Recommendation )
 
-#### *E1 Based on your responses to questions in the previous four sections (laws and policies, curricula,  teacher  education  and  student  assessment)  please  indicate  to  what  extent global citizenship education (GCED) and education for sustainable development (ESD) are mainstreamed 5  in (a) education laws and policies, (b) curricula (c) teacher education (including the training of trainers and educators) and (d) student assessment in your country. Please enter the appropriate number in each white cell in the table below.
+#### *E1 Based on your responses to questions in the previous four sections (laws and policies, curricula, teacher education and student assessment) please indicate to what extent global citizenship education (GCED) and education for sustainable development (ESD) are mainstreamed⁵ in (a) education laws and policies, (b) curricula (c) teacher education (including the training of trainers and educators) and (d) student assessment in your country. Please enter the appropriate number in each white cell in the table below.
 
 KEY:
 
-- 0 Not at all
+0 Not at all GCED and ESD are not mainstreamed.
 
-- 1 Partially
+1 Partially Some GCED and/or ESD themes⁶ are mainstreamed. Select this option if GCED is mainstreamed but ESD is not (or vice versa).
 
-- 2 Extensively
+2 Extensively Most GCED and ESD themes are mainstreamed.
 
-- 9 Not known
+9 Not known It is not known whether GCED and ESD are mainstreamed or not.
 
-99 Not applicable GCED and ESD are not mainstreamed.
-
-Some GCED and/or ESD themes 6  are mainstreamed. Select this option if GCED is mainstreamed but ESD is not (or vice versa).
-
-Most GCED and ESD themes are mainstreamed.
-
-It is not known whether GCED and ESD are mainstreamed or not.
-
-The given level of government does not have responsibility for the given component (policies, curricula, teacher education or student assessment) and/or does not have responsibility for the given level or type of education. This may occur at the national level in federal countries where education is the responsibility of individual states or at the sub-national level in small countries where there is only one level of government.
+99 Not applicable The given level of government does not have responsibility for the given component (policies, curricula, teacher education or student assessment) and/or does not have responsibility for the given level or type of education. This may occur at the national level in federal countries where education is the responsibility of individual states or at the sub-national level in small countries where there is only one level of government.
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | --- | ---
@@ -997,7 +990,7 @@ Sub-national
 
 [[START OF PAGE 33]]
 
-### Technical  and  vocational  education  and  training (paras 25-29  of the 1974 Recommendation )
+### F. Technical and vocational education and training (paras 25-29 of the 1974 Recommendation )
 
 #### F1 Please  describe  any  major  initiatives  that  have  been  undertaken  to  promote  GCED and/or  ESD  in  technical  and  vocational  education  and  training.  Describe  briefly  the outcomes and impact of such initiatives and provide examples of good practices.
 
@@ -1007,17 +1000,17 @@ The tasks of the SSCs include the continuous development and modernization of th
 
 As a good practice, an SSC has been established in the field of environmental protection, among others. As a result, the topic of sustainable development can appear in the VET professional content even better than before, in line with the needs of the economy. The training of environmental professionals thus better meets the needs of the labour market.
 
-### Adult education (para 30 of the 1974 Recommendation )
+### G. Adult education (para 30 of the 1974 Recommendation )
 
 #### G1 Please  describe  any  major  initiatives  that  have  been  undertaken  to  promote  GCED and/or ESD in adult education and other forms of non-formal education including youth education, out-of-school  education,  etc.  Describe  briefly  the  outcomes and  impact  of such initiatives and provide examples of good practices.
 
 United Nations Association of Hungary (UNA-H): Mobile UN-Academies are organized cross-country wise to promote GCED and ESD in tertiary, adult youth education.
 
-As for VET: Training activities relevant to the topic of Open Learning Centers (OLC) are carried out in the framework of the EDIOP 6.1.4 project. Within EDIOP-6.1.4-16 project with the title of 'Development of labour market competencies in convergence regions' until 31 October 2020, altogether 855 pcs OLC-specific learning programmes were launched. One of the most popular learning programmes is called 'Conscious Citizen in the 21st Century', in which 40 groups participated.
+As for VET: Training activities relevant to the topic of Open Learning Centers (OLC) are carried out in the framework of the EDIOP 6.1.4 project. Within EDIOP-6.1.4-16 project with the title of “Development of labour market competencies in convergence regions” until 31 October 2020, altogether 855 pcs OLC-specific learning programmes were launched. One of the most popular learning programmes is called “Conscious Citizen in the 21st Century”, in which 40 groups participated.
 
 In connection with the development, Open Learning Centers operate in the country. The work of the trainers and learning counsellors   - who work in the centers - is backed by a web-based professional support, the facilitation of an online professional community and the operation of a help desk, so that they can perform their tasks more effectively and get to know each other's good practices.
 
-Some good examples of learning programmes: effective self-management, presentation techniques, women in the 21st century, basic knowledge of fire and accident prevention, innovative computing - cloud storage, middle management academy, use of smartphones, tablets, conscious citizen in the 21st century, I will be an entrepreneur.
+Some good examples of learning programmes: effective self-management, presentation techniques, women in the 21st century, basic knowledge of fire and accident prevention, innovative computing — cloud storage, middle management academy, use of smartphones, tablets, conscious citizen in the 21st century, I will be an entrepreneur.
 
 [[END OF PAGE 33]]
 
@@ -1029,15 +1022,11 @@ Some good examples of learning programmes: effective self-management, presentati
 
 Hungary takes part in international networks, being especially active in UNECE Steering Committee for ESD and the Carpathian Convention Framework. Such networks provided knowledge to elaborate standards and indicators for ESD competences of teachers (in-service teacher qualification and teacher training), for example, but other good examples inspired the further development of ESD-related national frameworks, especially the Hungarian Green Kindergarten Network and the Hungarian Eco-School Network. Hungary hosted the regional conference on ESD of the Carpathian Convention Framework (the first event dedicated to ESD in that network).
 
-#### H2 Please indicate which types of activities are available that promote international cooperation at each level of education by entering the appropriate number in each white cell.
+#### H2 Please indicate which types of activities are available that promote international co-operation at each level of education by entering the appropriate number in each white cell.
 
-### Any other comments
+KEY: 0 = no, 1 = yes, 9 = unknown
 
-#### I1 Please indicate whether your country has faced any constraints, in particular related to global or national  crises,  including  natural  disasters,  in  implementing  the  1974 Recommendation during the reporting period.
-
-#### I2 Please provide any other relevant information or clarifications regarding the implementation of the 1974 Recommendation or the mainstreaming of GCED and ESD in your country's education system.
-
-Pre-primary | Primary and secondary | Tertiary | Non-formal education
+ | Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
 Hosting of international meetings on GCED and/or ESD | 1 | 1 | 1 | 9
 Participation in international meetings abroad on GCED and/or ESD | 1 | 1 | 1 | 9
@@ -1046,6 +1035,10 @@ Membership of international networks including ASPnet | 1 | 1 | 1 | 9
 Joint research projects on GCED and/or ESD with foreign institutions | 1 | 1 | 1 | 9
 Other activities (please specify):
 
-KEY: 0 = no, 1 = yes, 9 = unknown
+### I. Any other comments
+
+#### I1 Please indicate whether your country has faced any constraints, in particular related to global or national crises, including natural disasters, in implementing the 1974 Recommendation during the reporting period.
+
+#### I2 Please provide any other relevant information or clarifications regarding the implementation of the 1974 Recommendation or the mainstreaming of GCED and ESD in your country’s education system.
 
 [[END OF PAGE 34]]
