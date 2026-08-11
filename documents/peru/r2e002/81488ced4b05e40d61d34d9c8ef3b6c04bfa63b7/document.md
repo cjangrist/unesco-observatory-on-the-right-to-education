@@ -12,21 +12,35 @@ Acuerdo Nº 117-2016-MSI.- Autorizan viaje de funcionarias a Argentina, en comis
 
 ## MUNICIPALIDAD DE SANTA ANITA
 
-Ordenanza  Nº  00209/MDSA.Establecen beneficio tributario  y  administrativo  en  la  jurisdicción  del  distrito
+Ordenanza Nº 00209/MDSA.- Establecen beneficio tributario y administrativo en la jurisdicción del distrito
 
 603345
 
-Ordenanza Nº 00210/MDSA.Prorrogan  vigencia  de  la Ordenanza Nº 00177/MDSA que aprueba la estructura de costos  y  estimación  de  ingresos  del  servicio  de  emisión mecanizada  de  actualización  de  valores,  determinación de  tributos,  impresión  y  distribución  al  domicilio  fiscal de  los  recibos  de  pago  del  Impuesto  Predial  y  Arbitrios Municipales 603347
+Ordenanza Nº 00210/MDSA.- Prorrogan vigencia de la Ordenanza Nº 00177/MDSA que aprueba la estructura de costos y estimación de ingresos del servicio de emisión mecanizada de actualización de valores, determinación de tributos, impresión y distribución al domicilio fiscal de los recibos de pago del Impuesto Predial y Arbitrios Municipales 603347
 
 # PROVINCIAS
 
 ## MUNICIPALIDAD PROVINCIAL DEL CALLAO
 
-Ordenanza  Nº  028-2016.Aprueban  desafectación  de área  de  terreno  total  ubicado  entre  las  avenidas  Tomas Valle y Elmer Faucett 603348
+Ordenanza Nº 028-2016.- Aprueban desafectación de área de terreno total ubicado entre las avenidas Tomas Valle y Elmer Faucett 603348
+
+## MUNICIPALIDAD PROVINCIAL DE CAÑETE
+
+Ordenanza Nº 039-2016-MPC.- Aprueban modificación del Plan de Desarrollo Urbano del distrito de Chilca 603350
+
+# CONVENIOS INTERNACIONALES
+
+Acuerdo relativo al Proyecto GCP/RLA/199/BRA “Fortalecimiento del Sector Algodonero mediante la Cooperación Sur Sur” 603351
+
+Addendum Nº 3 al Convenio de Financiación entre la Unión Europea y la República del Perú relativo al “Programa de Apoyo a la Política Peruana de Promoción de las exportaciones de productos ecológicos (EURO-ECO-TRADE)” 603352
+
+Entrada en vigencia del Addendum Nº 3 al Convenio de Financiación entre la Union Europea y la República del Perú relativo al “Programa de Apoyo a la Política Peruana de Promoción de las Exportaciones de Productos Ecológicos (EURO-ECO-TRADE)” 603353
+
+Entrada en vigencia del Acuerdo relativo al Proyecto GCP/RLA/199/BRA “Fortalecimiento del Sector Algodonero mediante la Cooperación Sur Sur. 603353
 
 # PODER LEGISLATIVO
 
-## CONGRESO DE LA REPUBLICA
+## CONGRESO DE LA REPÚBLICA
 
 ### LEY Nº 30512
 
@@ -34,7 +48,9 @@ LA PRESIDENTA DEL CONGRESO DE LA REPÚBLICA
 
 POR CUANTO:
 
-EL CONGRESO DE LA REPÚBLICA; Ha dado la Ley siguiente:
+EL CONGRESO DE LA REPÚBLICA;
+
+Ha dado la Ley siguiente:
 
 # LEY DE INSTITUTOS Y ESCUELAS DE EDUCACIÓN SUPERIOR Y DE LA CARRERA PÚBLICA DE SUS DOCENTES
 
@@ -44,55 +60,39 @@ EL CONGRESO DE LA REPÚBLICA; Ha dado la Ley siguiente:
 
 #### Artículo 1. Objeto de la ley
 
-La  presente  ley  regula  la  creación,  licenciamiento, régimen  académico,  gestión,  supervisión  y  fi  scalización de los institutos de Educación Superior (IES) y escuelas de Educación Superior (EES) públicos y privados, a fi  n de que brinden una formación de calidad para el desarrollo integral de las personas, que responda a las necesidades del país, del mercado laboral y del sistema educativo y su articulación con los sectores productivos, que permita el desarrollo de la ciencia y la tecnología.
+La presente ley regula la creación, licenciamiento, régimen académico, gestión, supervisión y fiscalización de los institutos de Educación Superior (IES) y escuelas de Educación Superior (EES) públicos y privados, a fin de que brinden una formación de calidad para el desarrollo integral de las personas, que responda a las necesidades del país, del mercado laboral y del sistema educativo y su articulación con los sectores productivos, que permita el desarrollo de la ciencia y la tecnología.
 
-Asimismo,  regula  el  desarrollo  de  la  carrera  pública docente de los IES y EES públicos.
+Asimismo, regula el desarrollo de la carrera pública docente de los IES y EES públicos.
 
 #### Artículo 2. Ámbito de aplicación
 
-Están  comprendidos  en  esta  ley  los  institutos y escuelas  de  Educación  Superior  públicos  y  privados, nacionales  y  extranjeros,  que  forman  parte  de  la  etapa
+Están comprendidos en esta ley los institutos y escuelas de Educación Superior públicos y privados, nacionales y extranjeros, que forman parte de la etapa de Educación Superior, con excepción de las escuelas e institutos superiores de formación artística.
 
-## MUNICIPALIDAD PROVINCIAL DE CAÑETE
-
-Ordenanza Nº 039-2016-MPC.Aprueban modificación del Plan de  Desarrollo Urbano  del  distrito de  Chilca 603350
-
-# CONVENIOS INTERNACIONALES
-
-Acuerdo relativo al Proyecto GCP/RLA/199/BRA 'Fortalecimiento del Sector Algodonero mediante la Cooperación Sur Sur' 603351
-
-Addendum  Nº  3 al  Convenio  de  Financiación  entre la  Unión  Europea  y  la  República  del  Perú  relativo  al 'Programa de Apoyo a la Política Peruana de Promoción de las exportaciones de productos ecológicos (EURO-ECOTRADE)' 603352
-
-Entrada en vigencia del Addendum Nº 3 al Convenio de Financiación entre la Union Europea y la República del Perú relativo  al  'Programa  de  Apoyo  a  la  Política  Peruana  de Promoción de las Exportaciones de Productos Ecológicos (EURO-ECO-TRADE)' 603353
-
-Entrada  en  vigencia del  Acuerdo  relativo  al  Proyecto GCP/RLA/199/BRA 'Fortalecimiento del Sector Algodonero mediante la Cooperación Sur Sur. 603353
-
-de Educación Superior, con excepción de las escuelas e institutos superiores de formación artística.
-
-Para  efectos  de  la  presente  ley,  cuando  se  haga referencia  a  la  Educación  Superior  se  refi  ere  a  la  que brindan los institutos y escuelas señalados en el presente artículo.
+Para efectos de la presente ley, cuando se haga referencia a la Educación Superior se refiere a la que brindan los institutos y escuelas señalados en el presente artículo.
 
 La carrera pública docente regulada en la presente ley comprende a los docentes que prestan servicios en IES y EES públicos.
 
 #### Artículo 3. Fines de la Educación Superior
 
-La Educación Superior tiene los siguientes fi  nes:
+La Educación Superior tiene los siguientes fines:
 
-- Formar a personas en los campos de la ciencia, la  tecnología  y  la  docencia,  para  contribuir  con su  desarrollo  individual,  social  inclusivo  y  su adecuado desenvolvimiento en el entorno laboral regional, nacional y global.
+- Formar a personas en los campos de la ciencia, la tecnología y la docencia, para contribuir con su desarrollo individual, social inclusivo y su adecuado desenvolvimiento en el entorno laboral regional, nacional y global.
 
-- Contribuir al desarrollo del país y a la sostenibilidad  de  su  crecimiento  a  través  del incremento del nivel educativo, la productividad y la competitividad.
+- Contribuir al desarrollo del país y a la sostenibilidad de su crecimiento a través del incremento del nivel educativo, la productividad y la competitividad.
 
-- Brindar  una  oferta  formativa  de  calidad  que cuente  con  las  condiciones  necesarias  para responder a los requerimientos de los sectores productivos y educativos.
+- Brindar una oferta formativa de calidad que cuente con las condiciones necesarias para responder a los requerimientos de los sectores productivos y educativos.
 
-- Promover  el  emprendimiento,  la  innovación,  la investigación aplicada, la educación permanente y  el  equilibrio  entre  la  oferta  formativa  y  la demanda laboral.
+- Promover el emprendimiento, la innovación, la investigación aplicada, la educación permanente y el equilibrio entre la oferta formativa y la demanda laboral.
 
 #### Artículo 4. Rectoría del Ministerio de Educación
 
-El Ministerio de Educación (Minedu) es el ente rector de  las  políticas  nacionales  de  la  Educación  Superior, incluyendo la política de aseguramiento de la calidad.
+El Ministerio de Educación (Minedu) es el ente rector de las políticas nacionales de la Educación Superior, incluyendo la política de aseguramiento de la calidad.
 
 #### Artículo 5. Institutos de Educación Superior (IES)
 
 Los institutos de Educación Superior (IES) son instituciones educativas de la segunda etapa del sistema educativo nacional, con énfasis en una formación aplicada.
 
-Los IES brindan formación de carácter técnico, debidamente  fundamentada  en  la  naturaleza de un saber  que  garantiza  la  integración  del  conocimiento teórico  e  instrumental  a  fi  n  de  lograr  las  competencias requeridas por los sectores productivos para la inserción laboral.  Brindan,  además,  estudios  de  especialización,
+Los IES brindan formación de carácter técnico, debidamente fundamentada en la naturaleza de un saber que garantiza la integración del conocimiento teórico e instrumental a fin de lograr las competencias requeridas por los sectores productivos para la inserción laboral. Brindan, además, estudios de especialización,
 
 [[END OF PAGE 1]]
 
@@ -102,17 +102,13 @@ Los IES brindan formación de carácter técnico, debidamente  fundamentada  en 
 
 NORMAS LEGALES
 
-de  perfeccionamiento  profesional  en  áreas  específi  cas y  otros  programas de formación continua, y otorgan los respectivos certifi  cados.
+Miércoles 2 de noviembre de 2016 / El Peruano
 
-La  gestión  de  los  IES  públicos  está  a  cargo  del Organismo  de  Gestión  de  Institutos y  Escuelas  de Educación  Superior  Tecnológica  Públicos  (Educatec), creado por el artículo 43.
+de perfeccionamiento profesional en áreas específicas y otros programas de formación continua, y otorgan los respectivos certificados.
 
-Miércoles 2 de noviembre de 2016 /
+La gestión de los IES públicos está a cargo del Organismo de Gestión de Institutos y Escuelas de Educación Superior Tecnológica Públicos (Educatec), creado por el artículo 43.
 
-El Peruano
-
-- Pertinencia. Relaciona la oferta educativa con la demanda del sector productivo y educativo, las necesidades de desarrollo local y regional, y las necesidades de servicios a nivel local, regional, nacional e internacional.
-
-Los  IES  otorgan  el  grado  de  bachiller  técnico  y  los títulos de técnico y de profesional técnico a nombre de la Nación. Asimismo, pueden brindar a nombre de la Nación los certifi  cados de estudios técnicos y de auxiliar técnico.
+Los IES otorgan el grado de bachiller técnico y los títulos de técnico y de profesional técnico a nombre de la Nación. Asimismo, pueden brindar a nombre de la Nación los certificados de estudios técnicos y de auxiliar técnico.
 
 #### Artículo 6. Escuelas de Educación Superior (EES)
 
@@ -141,9 +137,11 @@ La  gestión  de  las  EEST  públicas  está  a  cargo  de Educatec y la gesti�
 #### Artículo 7. Principios de la Educación Superior
 La Educación Superior se sustenta en los siguientes principios:
 
-- Calidad  educativa.  Capacidad  de  la  Educación Superior  para  adecuarse  a  las  demandas  del entorno  y,  a  la  vez,  trabajar  en  una  previsión de  necesidades  futuras,  tomando  en  cuenta  el entorno laboral, social, cultural y personal de los benefi  ciarios  de  manera  inclusiva,  asequible  y accesible.  Valora  los  resultados  que  alcanza  la institución con el aprendizaje de los estudiantes y en el reconocimiento de estos por parte de su medio social, laboral y cultural.
+- Calidad educativa. Capacidad de la Educación Superior para adecuarse a las demandas del entorno y, a la vez, trabajar en una previsión de necesidades futuras, tomando en cuenta el entorno laboral, social, cultural y personal de los beneficiarios de manera inclusiva, asequible y accesible. Valora los resultados que alcanza la institución con el aprendizaje de los estudiantes y en el reconocimiento de estos por parte de su medio social, laboral y cultural.
 
-- Flexibilidad. Permite el tránsito entre los diversos niveles de califi  cación en el mundo educativo y del  trabajo,  así  como  la  permeabilidad  con  los cambios del entorno social.
+- Pertinencia. Relaciona la oferta educativa con la demanda del sector productivo y educativo, las necesidades de desarrollo local y regional, y las necesidades de servicios a nivel local, regional, nacional e internacional.
+
+- Flexibilidad. Permite el tránsito entre los diversos niveles de calificación en el mundo educativo y del trabajo, así como la permeabilidad con los cambios del entorno social.
 
 - Inclusión social. Permite que todas las personas, sin discriminación, ejerzan sus derechos, aprovechen sus habilidades, potencien sus identidades y tomen ventaja  de  las  oportunidades  que  les  ofrezca  su medio, accediendo a servicios públicos de calidad, de manera que los factores culturales, económicos, sociales,  étnicos  y  geográfi  cos  se  constituyan  en facilitadores para el acceso a la educación superior.
 
@@ -193,9 +191,7 @@ Miércoles 2 de noviembre de 2016 El Peruano /
 
 NORMAS LEGALES
 
-programación curricular,  la  planifi  cación  de  clases  y  las didácticas  para  el  aprendizaje  son  responsabilidad  de cada IES y EES.
-
-así como  en  correspondencia con las necesidades de  la  demanda  y  la  política  y  prioridades  regionales  y nacionales.
+programación curricular, la planificación de clases y las didácticas para el aprendizaje son responsabilidad de cada IES y EES.
 
 Los estudios conducentes a grado o título de Educación Superior, denominados programas de estudios, garantizan las horas prácticas durante la formación y las experiencias formativas en situaciones reales de trabajo, que pueden ser realizadas en los IES y EES en centros laborales o en instituciones educativas públicas y privadas.
 
@@ -229,7 +225,9 @@ Se  aplica  la  formación  dual  en  forma  progresiva  en los IES y EEST públ
 
 #### Artículo 14. Admisión a los programas de estudios
 
-Los IES y EES privados defi  nen el número de vacantes de  acuerdo  a  su  capacidad  operativa,  garantizando  el cumplimiento de las condiciones básicas de calidad, en el marco de la normativa vigente. Educatec o el gobierno regional respectivo, según corresponda, aprueba el número de vacantes de los IES y EES públicos, en función a  su  capacidad  institucional,  docente  y  presupuestal, Las convocatorias para la admisión a los programas de  estudios  son  responsabilidad  de  cada  IES  y  EEST. La  metodología  de  admisión  la  defi  ne  cada  institución, garantizando el cumplimiento de los principios de mérito, transparencia  y  equidad.  En  el  caso  de  las  EESP,  el Ministerio de Educación establece los lineamientos para el  desarrollo  de  los  procesos  de  admisión  en  dichas instituciones, garantizando el cumplimiento de los principios de mérito, transparencia y equidad.
+Los IES y EES privados definen el número de vacantes de acuerdo a su capacidad operativa, garantizando el cumplimiento de las condiciones básicas de calidad, en el marco de la normativa vigente. Educatec o el gobierno regional respectivo, según corresponda, aprueba el número de vacantes de los IES y EES públicos, en función a su capacidad institucional, docente y presupuestal, así como en correspondencia con las necesidades de la demanda y la política y prioridades regionales y nacionales.
+
+Las convocatorias para la admisión a los programas de estudios son responsabilidad de cada IES y EEST. La metodología de admisión la define cada institución, garantizando el cumplimiento de los principios de mérito, transparencia y equidad. En el caso de las EESP, el Ministerio de Educación establece los lineamientos para el desarrollo de los procesos de admisión en dichas instituciones, garantizando el cumplimiento de los principios de mérito, transparencia y equidad.
 
 Los  IES  y  EES  incorporan  en  todos  los  procesos de  admisión  medios  de  información  y  comunicación alternativa y realizan las adaptaciones o ajustes razonables respectivos en el examen de admisión para personas con discapacidad.
 
@@ -285,7 +283,7 @@ Además,  los  títulos  se  otorgan  de  acuerdo  a  las exigencias académicas
 
 Los  programas  de  formación  continua  se  organizan bajo el sistema de créditos y no conducen a la obtención de grados o títulos.
 
-#### Artículo 18. Requisitos de acceso a la Educación S uperior en IES y EES
+#### Artículo 18. Requisitos de acceso a la Educación Superior en IES y EES
 
 Para el acceso a la Educación Superior impartida en los IES y EES se requiere haber culminado la Educación Básica.
 
@@ -443,11 +441,9 @@ El Peruano
 
 NORMAS LEGALES
 
-responsable  de  cada  programa  académico.  Convoca  a un representante de los estudiantes, de los docentes por programa de estudios y del personal administrativo como mínimo una vez por semestre.
+responsable de cada programa académico. Convoca a un representante de los estudiantes, de los docentes por programa de estudios y del personal administrativo como mínimo una vez por semestre.
 
-y  prohibiciones  establecidos  en  la  presente  ley  son sancionados  conforme  a  las  normas  del  procedimiento administrativo  disciplinario  señaladas  en  la  Ley  30057, Ley del Servicio Civil.
-
-En  el  caso  de  los  IES  y  EEST,  lo  conforman  los responsables de las unidades, de las áreas, el secretario académico, el responsable de cada programa académico, un representante de los estudiantes y un máximo de cinco representantes del sector empresarial o profesional. Los representantes del empresariado participan directamente en la elaboración de los planes de estudio.
+En el caso de los IES y EEST, lo conforman los responsables de las unidades, de las áreas, el secretario académico, el responsable de cada programa académico, un representante de los estudiantes y un máximo de cinco representantes del sector empresarial o profesional. Los representantes del empresariado participan directamente en la elaboración de los planes de estudio.
 
 Los criterios de selección se especifi  can en el reglamento de la presente ley.
 
@@ -485,7 +481,7 @@ Los directores generales de los IES y EEST públicos son  designados  por  un  p
 
 Los  directores  generales  de  las  EESP  públicas  son designados por un periodo de tres años por el Ministerio de  Educación,  pudiendo  ser  renovada  su  designación previa evaluación, conforme a la normativa emitida por el Ministerio de Educación. La permanencia en el puesto está sujeta a evaluaciones periódicas. En tanto no se designe a su sucesor, continúa en el cargo. El puesto de director general  de  las  EESP  forma  parte  de  la  carrera  pública docente regulada en la presente ley y son seleccionados por concurso público de méritos.
 
-Los  directores  generales  de  los  IES  y  de  las  EEST que  transgredan  los  principios,  deberes,  obligaciones
+Los directores generales de los IES y de las EEST que transgredan los principios, deberes, obligaciones y prohibiciones establecidos en la presente ley son sancionados conforme a las normas del procedimiento administrativo disciplinario señaladas en la Ley 30057, Ley del Servicio Civil.
 
 #### Artículo 33. Funciones del director general de IES y EES públicos
 
@@ -641,11 +637,9 @@ Miércoles 2 de noviembre de 2016 /
 
 El Peruano
 
-#### Artículo 45. Funciones del Educatec
-
 NORMAS LEGALES
 
-- Órganos de administración interna.
+#### Artículo 45. Funciones del Educatec
 
 Son funciones del Educatec las siguientes:
 
@@ -691,7 +685,9 @@ Son funciones del Educatec las siguientes:
 
 El Educatec tiene la siguiente estructura orgánica:
 
-- Alta  Dirección.  Consejo  Directivo,  Jefatura  y Secretaría General.
+- Alta Dirección. Consejo Directivo, Jefatura y Secretaría General.
+
+- Órganos de administración interna.
 
 - Órganos de línea.
 
@@ -871,6 +867,8 @@ NORMAS LEGALES
 
 Miércoles 2 de noviembre de 2016 /
 
+El Peruano
+
 #### Artículo 59. Objetivos de la gestión de las EESP
 
 Son objetivos de la gestión de las EESP las siguientes:
@@ -923,11 +921,9 @@ En  materia  de  Educación  Superior  Pedagógica,  el Ministerio de Educación
 
 - Fiscalizar  y  sancionar  el  incumplimiento  de  las políticas nacionales y sectoriales y las obligaciones contenidas en la presente ley, su reglamento y la normativa emitida por el Ministerio de Educación, en el ámbito de su competencia.
 
-- Establecer  los  lineamientos  para  la  selección de los especialistas de Educación Superior Pedagógica  de  las  direcciones  regionales  de educación o las que hagan sus veces.
+- Establecer los lineamientos para la selección de los especialistas de Educación Superior Pedagógica de las direcciones regionales de educación o las que hagan sus veces.
 
-El Peruano
-
-- Supervisar y fi  scalizar la administración efi  ciente y  transparente  de  la  gestión  de  los  recursos directamente  recaudados  en  las  EESP,  en  el marco de las normas presupuestales vigentes y la normativa emitida por el Ministerio de Educación; en coordinación con los gobiernos regionales.
+- Supervisar y fiscalizar la administración eficiente y transparente de la gestión de los recursos directamente recaudados en las EESP, en el marco de las normas presupuestales vigentes y la normativa emitida por el Ministerio de Educación; en coordinación con los gobiernos regionales.
 
 - Acompañar los procesos de mejora continua de la calidad del servicio que brindan las EESP.
 
@@ -1086,9 +1082,7 @@ Miércoles 2 de noviembre de 2016 /
 
 El Peruano
 
-El reglamento de la presente ley establece el plazo y el procedimiento para el reingreso.
-
-#### Artículo  73.  Promoción  en  la  carrera  pública  del docente
+#### Artículo 73. Promoción en la carrera pública del docente
 
 La promoción es el mecanismo de progresión en las categorías de la carrera pública del docente de acuerdo a  sus  logros  y  méritos,  y  conlleva  a  la  mejora  de  su remuneración.
 
@@ -1130,18 +1124,17 @@ El término de la carrera pública del docente se produce por las siguientes cir
 
 - Jubilación.
 
-h)
-
-Haber  alcanzado  el  límite  de  edad  de  setenta
-
-años, excepto para los docentes extraordinarios.
+- Haber alcanzado el límite de edad de setenta años, excepto para los docentes extraordinarios.
 
 - Fallecimiento.
 
 #### Artículo 76. Reingreso a la carrera pública docente
-El docente que haya renunciado a la carrera pública puede  reingresar  a  la  misma  categoría  que  tenía  al momento de su retiro, previa evaluación, siempre y cuando  exista plaza vacante y no se encuentre comprendido  en  los  impedimentos  establecidos  por  la normativa  correspondiente  para  el  ingreso  a  la  carrera pública del docente.
 
-El  reingreso  a  la  carrera  pública  del  docente  debe producirse  dentro  de  los  dos  años  posteriores  a  la renuncia.
+El docente que haya renunciado a la carrera pública puede reingresar a la misma categoría que tenía al momento de su retiro, previa evaluación, siempre y cuando exista plaza vacante y no se encuentre comprendido en los impedimentos establecidos por la normativa correspondiente para el ingreso a la carrera pública del docente.
+
+El reingreso a la carrera pública del docente debe producirse dentro de los dos años posteriores a la renuncia.
+
+El reglamento de la presente ley establece el plazo y el procedimiento para el reingreso.
 
 En los casos en que el término de la carrera pública del docente no haya tenido como causal la renuncia, no será aplicable lo establecido en el presente artículo, debiendo sujetarse a lo establecido en los artículos 70 y 71.
 
@@ -1303,13 +1296,15 @@ El  destaque  es  la  acción  administrativa  por  medio de la cual un docente 
 
 [[START OF PAGE 14]]
 
-Miércoles 2 de noviembre de 2016 /
-
 603258
 
 NORMAS LEGALES
 
-institución  de  origen  a  una  plaza  vacante,  sin  modifi  car su  categoría  en  la  institución  de  destino  sin  exceder  el ejercicio presupuestal. La institución de destino abonará la remuneración de este durante la duración del destaque. Procede únicamente entre instituciones del mismo tipo.
+Miércoles 2 de noviembre de 2016 /
+
+El Peruano
+
+institución de origen a una plaza vacante, sin modificar su categoría en la institución de destino sin exceder el ejercicio presupuestal. La institución de destino abonará la remuneración de este durante la duración del destaque. Procede únicamente entre instituciones del mismo tipo.
 
 #### Artículo 87. Licencias
 
@@ -1363,7 +1358,7 @@ Son las autorizaciones para ausentarse por horas del centro laboral durante la j
 
 #### Artículo 90. Racionalización
 
-La  racionalización  de  puestos  y  posiciones  en  los IES y EES públicos es un proceso orientado a optimizar la asignación de los mismos docentes en función de las necesidades reales  y  verifi  cadas  del  servicio  educativo. Supone la  identifi  cación  de  excedencias  y  necesidades de  puestos  y  posiciones  de  personal  docente  de  las referidas  instancias  educativas,  buscando  equilibrar  la El Peruano oferta y demanda educativa. Es un proceso permanente, obligatorio y prioritario.
+La racionalización de puestos y posiciones en los IES y EES públicos es un proceso orientado a optimizar la asignación de los mismos docentes en función de las necesidades reales y verificadas del servicio educativo. Supone la identificación de excedencias y necesidades de puestos y posiciones de personal docente de las referidas instancias educativas, buscando equilibrar la oferta y demanda educativa. Es un proceso permanente, obligatorio y prioritario.
 
 #### Artículo 91. Responsabilidad del proceso de racionalización
 
@@ -1505,15 +1500,13 @@ Los  docentes  de  IES  y  EES  públicos  contratados pueden ser:
 
 603260
 
+NORMAS LEGALES
+
 Miércoles 2 de noviembre de 2016 /
 
 El Peruano
 
-NORMAS LEGALES
-
 una remuneración que no excede a la establecida para la Categoría 3 y no deben superar el cinco por ciento del número total de docentes.
-
-acuerdo a los lineamientos establecidos por el Ministerio de Educación.
 
 #### Artículo 104. Evaluación de docentes contratados
 
@@ -1555,11 +1548,13 @@ Las  asignaciones  mencionadas  no  tienen  carácter remunerativo  ni  pensiona
 
 #### Artículo 107. Contratación de asistentes y auxiliares
 
-Los IES y EEST públicos pueden contratar asistentes y  auxiliares  de  educación  superior  a  fi  n  de  cubrir  las necesidades  de  los  programas  de  estudios.  El  proceso de contratación considera las posiciones vacantes que  cuenten  con  el  respectivo  presupuesto,  según  los requerimientos de los IES y EEST públicos.
+Los IES y EEST públicos pueden contratar asistentes y auxiliares de educación superior a fin de cubrir las necesidades de los programas de estudios. El proceso de contratación considera las posiciones vacantes que cuenten con el respectivo presupuesto, según los requerimientos de los IES y EEST públicos.
 
-El proceso de contratación es convocado y realizado por  el  director  general  de  los  IES  y  EEST  públicos,  de El contrato es de plazo determinado y no forma parte de  la  carrera  pública  docente,  ni  adquiere  derechos asociados a la misma. La duración del contrato no puede ser  mayor  al  periodo  que  corresponde  el  año  fi  scal respectivo dentro del cual se efectúa la contratación.
+El proceso de contratación es convocado y realizado por el director general de los IES y EEST públicos, de acuerdo a los lineamientos establecidos por el Ministerio de Educación.
 
-- El reglamento de la presente ley regula el procedimiento, requisitos y condiciones, para las contrataciones  de  asistentes  y  auxiliares  de  Educación Superior, así como las características para la renovación del mismo.
+El contrato es de plazo determinado y no forma parte de la carrera pública docente, ni adquiere derechos asociados a la misma. La duración del contrato no puede ser mayor al periodo que corresponde el año fiscal respectivo dentro del cual se efectúa la contratación.
+
+El reglamento de la presente ley regula el procedimiento, requisitos y condiciones, para las contrataciones de asistentes y auxiliares de Educación Superior, así como las características para la renovación del mismo.
 
 #### Artículo 108. Deberes, derechos y régimen disciplinario de los asistentes y auxiliares contratados
 
@@ -1685,13 +1680,11 @@ El Peruano
 
 NORMAS LEGALES
 
-- El Ministerio de Educación y las autoridades competentes  tienen  la  facultad  de  imponer  medidas preventivas, correctivas o cautelares las cuales se desarrollan en el reglamento de la presente ley.
+El Ministerio de Educación y las autoridades competentes tienen la facultad de imponer medidas preventivas, correctivas o cautelares las cuales se desarrollan en el reglamento de la presente ley.
 
-### CUARTA. Adecuación de los institutos superiores de educación (ISE)
+Créase el Registro de Infracciones y Sanciones de IES y EES Públicos y Privados a cargo del Ministerio de Educación quien emitirá los lineamientos y normas complementarias para su implementación.
 
-Créase  el  Registro  de  Infracciones  y  Sanciones  de IES  y  EES  Públicos  y  Privados  a  cargo  del  Ministerio de  Educación  quien  emitirá  los  lineamientos  y  normas complementarias para su implementación.
-
-#### Artículo 118. Tipifi  cación
+#### Artículo 118. Tipificación
 
 La tipifi  cación de las infracciones, así como la cuantía y  la  graduación  de  las  sanciones  se  establecen  en  el reglamento de la presente ley.
 
@@ -1719,13 +1712,15 @@ A fi  n de percibir la remuneración correspondiente a la primera categoría de 
 
 Todo  cálculo  de  benefi  cios  sociales,  asignaciones  u otros  conceptos diferentes a la remuneración transitoria se realiza sobre la base de los porcentajes de la RIMS señalados en la presente disposición.
 
-### TERCERA.  Régimen  del  personal  administrativo de IES y de IESP
+### TERCERA. Régimen del personal administrativo de IES y de IESP
 
-Los  servidores  administrativos  que  a  la  fecha  de entrada  en  vigencia  de  la  presente  ley  se  encuentren prestando servicios en un IES o en un IESP, mantienen su régimen laboral pudiendo trasladarse al régimen de la Ley 30057, Ley del Servicio Civil, conforme a su cuarta disposición  complementaria  transitoria  y  sus  normas reglamentarias.
+Los servidores administrativos que a la fecha de entrada en vigencia de la presente ley se encuentren prestando servicios en un IES o en un IESP, mantienen su régimen laboral pudiendo trasladarse al régimen de la Ley 30057, Ley del Servicio Civil, conforme a su cuarta disposición complementaria transitoria y sus normas reglamentarias.
 
-Autorízase  al  Ministerio  de  Educación  a  expedir  los lineamientos  para  la  adecuación  de  los  ISE  públicos  y privados, y de ser el caso el cierre de estos.
+### CUARTA. Adecuación de los institutos superiores de educación (ISE)
 
-### QUINTA. Licenciamiento, supervisión, fi  scalización y sanción de las EES
+Autorízase al Ministerio de Educación a expedir los lineamientos para la adecuación de los ISE públicos y privados, y de ser el caso el cierre de estos.
+
+### QUINTA. Licenciamiento, supervisión, fiscalización y sanción de las EES
 
 El Ministerio de Educación realiza los procedimientos de licenciamiento, supervisión, fi  scalización y sanción de las EES dentro del marco de sus competencias.
 
@@ -1769,11 +1764,9 @@ NORMAS LEGALES
 
 ### DÉCIMA. Requisitos de directores generales y de docentes de IESP y EESP
 
-Los concursos públicos para la selección de directores generales de IESP y EESP que se realicen durante los primeros cinco años de vigencia de la presente ley, podrán permitir la postulación de quienes cuenten con el grado de  maestro  y  los  requisitos  de  experiencia  y  categoría señalados en el artículo 31.
+Los concursos públicos para la selección de directores generales de IESP y EESP que se realicen durante los primeros cinco años de vigencia de la presente ley, podrán permitir la postulación de quienes cuenten con el grado de maestro y los requisitos de experiencia y categoría señalados en el artículo 31.
 
-Para la aplicación de lo dispuesto en el primer párrafo, autorízase  al  pliego  Ministerio  de  Educación  a  realizar modifi  caciones  presupuestarias  en  el  nivel  institucional a  favor  del  pliego  Educatec y  de  los  pliegos  gobiernos regionales, según corresponda, las que serán aprobadas por decreto supremo  refrendado  por  el  ministro  de Economía  y  Finanzas  y  el  ministro  de  Educación,  a propuesta de este último.
-
-Los  concursos  públicos  para  el  ingreso  a  la  carrera pública docente en IESP y EESP que se realicen durante los  primeros  cinco  años  de  vigencia  de  la  presente  ley y  las  Evaluaciones  de  Sufi  ciencia,  podrán  permitir  la postulación de quienes cuenten con título de profesor o licenciatura  en  Educación  y  el  requisito  de  experiencia señalado en el inciso 69.2 del artículo 69 de la presente ley o la clasifi  cación en la Tercera Escala de la Carrera Pública Magisterial de la Educación Básica.
+Los concursos públicos para el ingreso a la carrera pública docente en IESP y EESP que se realicen durante los primeros cinco años de vigencia de la presente ley y las Evaluaciones de Suficiencia, podrán permitir la postulación de quienes cuenten con título de profesor o licenciatura en Educación y el requisito de experiencia señalado en el inciso 69.2 del artículo 69 de la presente ley o la clasificación en la Tercera Escala de la Carrera Pública Magisterial de la Educación Básica.
 
 ### DÉCIMA PRIMERA. Docentes contratados de IES e IESP
 
@@ -1799,9 +1792,11 @@ Los  modelos  artísticos  contratados  de  las  Escuelas de  Formación  Artís
 
 ### DÉCIMA CUARTA. Financiamiento
 
-La  progresiva  implementación  del  Educatec y  de la  carrera  pública  del  docente  de  Institutos  y  Escuelas de  Educación  Superior,  así  como  la  contratación  de directores  para  dichos  institutos  y  escuelas  durante  el año  fi  scal  2016,  se  fi  nancian  con  cargo  al  presupuesto institucional  del  Ministerio  de  Educación  sin  demandar recursos adicionales al Tesoro Público, en atención a los recursos  que  dicho  pliego  programe  para  las  referidas fi  nalidades.
+La progresiva implementación del Educatec y de la carrera pública del docente de Institutos y Escuelas de Educación Superior, así como la contratación de directores para dichos institutos y escuelas durante el año fiscal 2016, se financian con cargo al presupuesto institucional del Ministerio de Educación sin demandar recursos adicionales al Tesoro Público, en atención a los recursos que dicho pliego programe para las referidas finalidades.
 
-En tanto los IES y EEST públicos no sean gestionados por  el  Educatec y  a  efectos  de  implementar  la  carrera pública del docente de estos, autorízase al pliego Ministerio de  Educación  a  realizar  modifi  caciones  presupuestarias en el nivel institucional a favor de los pliegos gobiernos regionales, las que serán aprobadas por decreto supremo refrendado por el ministro de Economía y Finanzas y el ministro de Educación, a propuesta de este último.
+Para la aplicación de lo dispuesto en el primer párrafo, autorízase al pliego Ministerio de Educación a realizar modificaciones presupuestarias en el nivel institucional a favor del pliego Educatec y de los pliegos gobiernos regionales, según corresponda, las que serán aprobadas por decreto supremo refrendado por el ministro de Economía y Finanzas y el ministro de Educación, a propuesta de este último.
+
+En tanto los IES y EEST públicos no sean gestionados por el Educatec y a efectos de implementar la carrera pública del docente de estos, autorízase al pliego Ministerio de Educación a realizar modificaciones presupuestarias en el nivel institucional a favor de los pliegos gobiernos regionales, las que serán aprobadas por decreto supremo refrendado por el ministro de Economía y Finanzas y el ministro de Educación, a propuesta de este último.
 
 En  los  años  fi  scales  subsiguientes,  la  aplicación  de lo  dispuesto en la presente ley se fi  nancia con cargo al presupuesto  institucional  del  Educatec,  sin  demandar recursos adicionales al Tesoro Público.
 
@@ -1809,7 +1804,7 @@ Para  el  caso  de  las  EESP,  en  los  años  fi  scales subsiguientes, la apl
 
 ### DÉCIMA QUINTA.  Cálculo  de  derechos  laborales de docentes de IES y EES
 
-La  asignación  por  cumplir  veinticinco  o  treinta  años de  servicios,  la  compensación  por  tiempo  de  servicios, el subsidio por fallecimiento del servidor y sus familiares directos,  y  los  gastos  de  sepelio,  establecidos  en  el Decreto  Legislativo  276,  Ley  de  Bases  de  la  Carrera Administrativa y de Remuneraciones del Sector Público, y su reglamento aprobado por el Decreto Supremo 005-90PCM, en el lapso comprendido desde la derogatoria de la Ley 24029, Ley del Profesorado, hasta la vigencia de la presente ley, se aplican a los docentes nombrados de los institutos y escuelas de Educación Superior Tecnológica, Pedagógica,  y  Artística,  ubicados  en  la  escala  salarial transitoria  en  aplicación  de  lo  dispuesto  en  la  tercera disposición complementaria, transitoria y fi  nal  de  la  Ley 29944, Ley de Reforma Magisterial.
+La asignación por cumplir veinticinco o treinta años de servicios, la compensación por tiempo de servicios, el subsidio por fallecimiento del servidor y sus familiares directos, y los gastos de sepelio, establecidos en el Decreto Legislativo 276, Ley de Bases de la Carrera Administrativa y de Remuneraciones del Sector Público, y su reglamento aprobado por el Decreto Supremo 005-90-PCM, en el lapso comprendido desde la derogatoria de la Ley 24029, Ley del Profesorado, hasta la vigencia de la presente ley, se aplican a los docentes nombrados de los institutos y escuelas de Educación Superior Tecnológica, Pedagógica, y Artística, ubicados en la escala salarial transitoria en aplicación de lo dispuesto en la tercera disposición complementaria, transitoria y final de la Ley 29944, Ley de Reforma Magisterial.
 
 Los  montos,  criterios  y  condiciones  para  el  pago  de los  conceptos  antes  señalados  se  aprueban  por  decreto supremo refrendado por el ministro de Economía y Finanzas y el ministro de Educación, a propuesta de este último.
 
@@ -1821,7 +1816,7 @@ Dichos  conceptos  se  otorgan  a  los  docentes  que  a la fecha de la entrada 
 
 Modifícase los artículos 49 y 51 de la Ley 28044, Ley General de Educación, los cuales quedan redactados de la siguiente manera:
 
-#### ' Artículo 49.- Defi  nición y fi  nalidad
+#### “Artículo 49.- Definición y finalidad
 
 La  Educación  Superior  es  la  segunda  etapa  del Sistema Educativo que consolida la formación integral de las personas, produce conocimiento, desarrolla la investigación e innovación y forma profesionales en el más alto nivel de especialización y perfeccionamiento en todos los campos del saber, el arte, la cultura, la ciencia y la tecnología a fi  n de cubrir la demanda de la sociedad y contribuir al desarrollo y sostenibilidad del país y su adecuada inserción internacional.
 
@@ -1842,11 +1837,10 @@ El Peruano
 NORMAS LEGALES
 
 #### Artículo 51.- Los actores de la Educación Superior
+
 Los principales actores de la Educación Superior son:
 
-Magisterial y de Contratación Docente, según corresponda, convocadas durante los siguientes cinco años contados a partir de ocurridos los hechos'.
-
-- Las  instituciones e instancias  de  Educación Superior, que pueden ser universidades, escuelas o institutos; públicos o privados; y que gozan  de  autonomía,  conforme  a  la  ley  de  la materia, y que se rigen por sus estatutos y ley específi  ca.
+- Las instituciones e instancias de Educación Superior, que pueden ser universidades, escuelas o institutos; públicos o privados; y que gozan de autonomía, conforme a la ley de la materia, y que se rigen por sus estatutos y ley específica.
 
 - El promotor que es el fundador, gestor o propietario de la institución educativa, que, en el caso de las públicas, es una entidad del Estado, y  en  el  caso  de  las  privadas,  es  una  persona natural o jurídica.
 
@@ -1860,29 +1854,33 @@ Magisterial y de Contratación Docente, según corresponda, convocadas durante l
 
 - El Ministerio de Educación actúa como ente rector de la política de aseguramiento de la calidad de la Educación Superior y es responsable, a través del órgano competente, del licenciamiento de institutos y  escuelas  de  Educación  Superior,  así  como  la optimización, fusión, fortalecimiento, reconversión, reorganización y cierre de las Escuelas de Educación Superior Pedagógica (EESP) públicas, sus fi  liales y programas de estudios.
 
-La Educación Superior contempla, entre otros, el proceso formativo, el funcionamiento de las instituciones  e  instancias  de  Educación  Superior  y su interrelación con la comunidad, poniendo especial énfasis en el aseguramiento de la calidad, acceso y articulación, en benefi  cio de los estudiantes'.
+La Educación Superior contempla, entre otros, el proceso formativo, el funcionamiento de las instituciones e instancias de Educación Superior y su interrelación con la comunidad, poniendo especial énfasis en el aseguramiento de la calidad, acceso y articulación, en beneficio de los estudiantes”.
 
 ### SEGUNDA. Modifi  cación del artículo 48 de la Ley 29944, Ley de Reforma Magisterial
 
 Modifícase el literal h) e incorpórase el literal i) y un último  párrafo  al  artículo  48  de  la  Ley  29944,  Ley  de Reforma Magisterial, de acuerdo a los siguientes textos:
 
-#### ' Artículo 48.- Cese temporal
-
-[…] h) Realizar  cualquier  acción  dirigida  a  sustraer, reproducir  en  forma  impresa  o  digital,  en  todo o  en  parte,  los  instrumentos  o  documentación relativos a las evaluaciones de logros de aprendizaje de estudiantes de Educación Básica o de las evaluaciones previstas en el artículo 13 de la presente ley, antes, durante o después de la  aplicación  de  las  referidas  evaluaciones,  así como cualquier  otra  acción  dirigida  a  afectar  o alterar sus resultados o a obtener benefi  cio para sí o para terceros.
-
-- Otras  que  se  establecen  en  las  disposiciones legales pertinentes.
+#### “Artículo 48.- Cese temporal
 
 […]
 
-Los profesores, los docentes contratados y los postulantes  involucrados  en  las  acciones  señaladas en  el  literal  h)  están  impedidos  de  participar  en  las evaluaciones  de  Acceso  a  Cargos  y  Ascenso  de Escala Magisterial y de Ingreso a la Carrera Pública
+h) Realizar cualquier acción dirigida a sustraer, reproducir en forma impresa o digital, en todo o en parte, los instrumentos o documentación relativos a las evaluaciones de logros de aprendizaje de estudiantes de Educación Básica o de las evaluaciones previstas en el artículo 13 de la presente ley, antes, durante o después de la aplicación de las referidas evaluaciones, así como cualquier otra acción dirigida a afectar o alterar sus resultados o a obtener beneficio para sí o para terceros.
 
-### TERCERA.  Modifi  cación  del  artículo  6  de  la  Ley 27506, Ley de Canon
+i) Otras que se establecen en las disposiciones legales pertinentes.
+
+[…]
+
+Los profesores, los docentes contratados y los postulantes involucrados en las acciones señaladas en el literal h) están impedidos de participar en las evaluaciones de Acceso a Cargos y Ascenso de Escala Magisterial y de Ingreso a la Carrera Pública Magisterial y de Contratación Docente, según corresponda, convocadas durante los siguientes cinco años contados a partir de ocurridos los hechos”.
+
+### TERCERA. Modificación del artículo 6 de la Ley 27506, Ley de Canon
 
 Modifícase  el  numeral  6.2  del  artículo  6  de  la  Ley 27506, Ley de Canon, en los términos siguientes:
 
-#### ' Artículo 6.- Utilización del canon
+#### “Artículo 6.- Utilización del canon
 
-[…] 6.2 Los recursos que  los gobiernos regionales y gobiernos locales reciban por concepto de canon  serán  utilizados  exclusivamente  para  el fi  nanciamiento o co-fi  nanciamiento de proyectos u obras de infraestructura de impacto regional y local, respectivamente,  a  cuyo  efecto  establecen  una cuenta  destinada  a  esta  fi  nalidad.  Los  gobiernos regionales  entregarán  el  20%  (veinte  por  ciento) del  total  percibido  por  canon  a  las  universidades públicas  y el 10%  (diez  por  ciento)  del  total percibido por canon a los institutos y escuelas de educación superior de su circunscripción, destinado exclusivamente  a  la  inversión  en  investigación científi  ca y tecnológica y de su respectiva infraestructura,  que  potencien  su  desarrollo.  El canon petrolero mantiene las condiciones actuales de distribución conforme a ley'.
+[…]
+
+6.2 Los recursos que los gobiernos regionales y gobiernos locales reciban por concepto de canon serán utilizados exclusivamente para el financiamiento o co-financiamiento de proyectos u obras de infraestructura de impacto regional y local, respectivamente, a cuyo efecto establecen una cuenta destinada a esta finalidad. Los gobiernos regionales entregarán el 20% (veinte por ciento) del total percibido por canon a las universidades públicas y el 10% (diez por ciento) del total percibido por canon a los institutos y escuelas de educación superior de su circunscripción, destinado exclusivamente a la inversión en investigación científica y tecnológica y de su respectiva infraestructura, que potencien su desarrollo. El canon petrolero mantiene las condiciones actuales de distribución conforme a ley”.
 
 ## DISPOSICIONES COMPLEMENTARIAS FINALES
 
@@ -1987,7 +1985,7 @@ Primera Vicepresidenta del Congreso de la República
 
 ## AGRICULTURA Y RIEGO
 
-### Modifican Anexo I, Clasificador de Productos Veterinarios  y  Alimentos  para  Animales, contenido  en  la    R.D.  Nº  1257-2007-AGSENASA-DIAIA y emiten otras disposiciones complementarias
+### Modifican Anexo I, Clasificador de Productos Veterinarios y Alimentos para Animales, contenido en la R.D. Nº 1257-2007-AG-SENASA-DIAIA y emiten otras disposiciones complementarias
 
 #### RESOLUCIÓN DIRECTORAL Nº 0088-2016-MINAGRI-SENASA-DIAIA
 
@@ -1995,6 +1993,6 @@ Primera Vicepresidenta del Congreso de la República
 
 ##### VISTOS:
 
-La Resolución Directoral Nº  008-98-AG-SENASADGSA de fecha 20 de febrero de 1998, Resolución que
+La Resolución Directoral Nº 008-98-AG-SENASA-DGSA de fecha 20 de febrero de 1998, Resolución que
 
 [[END OF PAGE 21]]
