@@ -10,6 +10,24 @@ Date of assent 11 December 2002
 
 ## Contents
 
+Page
+1 Title 6
+2 Commencement 6
+3 Purpose 6
+Amendments to Part I (Rights to Primary and Secondary Education) of principal Act
+4 Interpretation 7
+Amendments to Part XIII (Interpretation) of principal Act
+5 Heading to Part XIII amended 8
+6 New section 159AAA inserted 8
+159AAA Object of provisions relating to tertiary education 8
+7 Interpretation 9
+8 New sections 159AA to 159AF inserted 11
+159AA Tertiary education strategy 11
+159AB Importance of tertiary education strategy 11
+159AC Statement of tertiary education priorities 11
+159AD Roles within tertiary education sector 12
+159AE Ministry may hold and disseminate information 12
+159AF Secretary may delegate certain powers and functions to Commission 12
 1
 
 [[END OF PAGE 1]]
@@ -18,6 +36,43 @@ Date of assent 11 December 2002
 
 Education (Tertiary Reform) Amendment Act 2002
 
+2002 No 50
+
+New Part 13A inserted in principal Act
+9 New Part 13A inserted 13
+Part 13A
+Tertiary Education Commission
+Preliminary provisions
+159A Purpose of Part 13
+159B Definition of organisation 13
+Establishment of Commission
+159C Establishment of Commission 14
+159D Composition of Commission 14
+159E Powers of Commission 14
+Functions of Commission
+159F Functions of Commission 15
+159G Principles guiding how Commission operates 16
+159H Minister may review performance of Commission 16
+159I Delegation of functions or powers of Minister 16
+159J Minister may direct Commission 17
+159K Application of Commerce Act 1986 18
+Charters
+159L What is a charter? 18
+159M Content of charters, and assessment criteria 19
+159N Organisations that must or may have a charter 19
+159O Preparing charters 20
+159P Minister's approval of charters 20
+159Q Minister's special powers in relation to charters of institutions 21
+159R Minister may approve interim charters for institutions 21
+159S Amendments to, and review of, charters 22
+159T Expiry of charters 22
+159U Charter may lapse if organisation does not receive funding 22
+159V Charters must be available 22
+Profiles
+159W What is a profile? 23
+159X Content of profiles and criteria for approval 23
+159Y Organisations that must have a profile 24
+159Z Profiles must be publicly available 24
 2
 
 [[END OF PAGE 2]]
@@ -28,12 +83,76 @@ Education (Tertiary Reform) Amendment Act 2002
 
 Education (Tertiary Reform) Amendment Act 2002
 
+Funding by Commission
+159ZA Minister must determine design of funding mechanisms 25
+159ZB Approval of profiles for funding purposes 26
+159ZC Payment of funding 26
+159ZD Conditions on funding 27
+159ZE Accountability for funding received under section 159ZC 27
+159ZF Commission may suspend funding 28
+Amendments to Part XIV (Establishment and disestablishment of institutions) of principal Act
+10 Establishment of institutions 28
+11 Disestablishment of institutions 29
+Amendments to Part XV (Administration of tertiary institution) of principal Act
+12 Incorporation 29
+13 Functions of Councils 29
+14 New section 184A inserted 30
+184A Interim arrangements for charters 30
+15 Heading and sections 184 to 191 repealed 30
+16 New heading and section 191A inserted 30
+Profiles
+191A Each institution to have a profile 30
+17 Heading and section 199 repealed 31
+18 New section 201A inserted 31
+201A How institutions may use income and capital 31
+19 Application of Public Finance Act 1989 31
+Amendments to Part XVI (Courses and students) of principal Act
+20 Fees for domestic students 32
+Amendments to Part XVIII (Private training establishments) of principal Act
+21 New section 232 substituted 32
+232 Courses for foreign students to be quality assured unless exempt 32
+22 Grant or refusal of application 33
+23 New section 236AA inserted 34
+236AA Conditions on registration 34
+24 New section 236C inserted 35
 3
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
+Education (Tertiary Reform) Amendment Act 2002
+
+2002 No 50
+
+236C Fees for domestic students must not exceed maximums set in conditions of funding 35
+25 New section 237 substituted 35
+237 Cancellation of registration 35
+26 Section 238A repealed 36
+Amendments to Part 18A (Code of practice for providers who enrol international students) of principal Act
+27 Heading to Part 18A amended 36
+28 Interpretation 36
+29 Signatories to code may enrol persons as international students 36
+30 New sections 238H and 238I substituted 36
+238H Export education levy 36
+238I Purpose and administration of export education levy 37
+31 Money for annual fee to transfer into export education levy account 38
+Amendment to Part XIX (Vice-Chancellors Committee) of principal Act
+32 Functions of Committee 39
+Amendments to Part XX (New Zealand Qualifications Authority) of principal Act
+33 Functions of Authority 39
+34 New section 255A inserted 39
+255A Compliance notices 39
+35 Approval of courses 41
+36 New section 258A inserted 41
+258A Conditions on course approvals 41
+37 Accreditation to provide approved courses 42
+38 New section 259A inserted 42
+259A Conditions on accreditation to provide approved courses 42
+39 Exercise of certain powers of Authority 43
+40 Minister may consent to registered establishments using certain terms in their names 43
+Repeal of Part XXI (Skill New Zealand) and Sixteenth Schedule of principal Act
+41 Part XXI and Sixteenth Schedule repealed 44
 4
 
 [[END OF PAGE 4]]
@@ -44,6 +163,37 @@ Education (Tertiary Reform) Amendment Act 2002
 
 Education (Tertiary Reform) Amendment Act 2002
 
+Amendments to Part XXVII (Recognition and funding of other services) of principal Act
+42 Interpretation 44
+43 Grants to other education services 44
+44 Recognised bodies to keep accounts 45
+Repeal of Part XXIII (Tertiary Research Board) of principal Act
+45 Repeal of Part XXIII 45
+Amendments to Part XXIV (Miscellaneous provisions) of principal Act
+46 Offences 45
+New Schedule 13A inserted in principal Act
+47 New Schedule 13A inserted 47
+Transitional provisions
+48 Interpretation 47
+Absorption of Skill New Zealand into Commission
+49 Skill New Zealand absorbed into Commission 48
+50 Final report and accounts 48
+51 Transfers of contracts and leases do not give rise to claims 49
+52 Effect of absorption of Skill New Zealand into Commission 49
+Transfer of employees to Commission
+53 Transfer of employees of Skill New Zealand 50
+54 Transfer of employees of Ministry 50
+55 Transfer does not break continuity of employment 50
+56 Protection of terms and conditions for transferred employees 50
+57 No compensation for technical redundancy 51
+Miscellaneous
+58 Chief executive may be called General Manager 51
+Consequential amendments
+59 Consequential amendments 52
+Schedule 1 52
+New Schedule 13A inserted in principal Act
+Schedule 2 75
+Consequential amendments
 5
 
 [[END OF PAGE 5]]
@@ -188,7 +338,7 @@ Part 5 s 7
 
 ' charter means a document of the kind described in section 159L or, in the case of an institution that has a charter approved under Part XV, a document of the kind described in section 184
 
-' Commission meansthe Tertiary Education Commission established under section 159C
+' Commission means the Tertiary Education Commission established under section 159C
 
 ' give public notice means to publish a notice in the Gazette that-
 
@@ -242,7 +392,7 @@ Education (Tertiary Reform) Amendment Act 2002
 
 '(5) Regulations made under subsection (4),-
 
-'(a) if made on or before 30 June in any year, expire on the close of December of that year unless they are expressly confirmed by Act of Parliament passed during that year; and
+'(a) if made on or before 30 June in any year, expire on the close of 31 December of that year unless they are expressly confirmed by Act of Parliament passed during that year; and
 
 '(b) if made on or after 1 July in any year, expire on the close of 31 December in the following year unless they are
 
@@ -374,7 +524,7 @@ to section 303 or section 306 or section 307 (which relate to student allowances
 
 The principal Act is amended by inserting, after Part XIII, the following Part:
 
-#### ' Part13A ' Tertiary Education Commission
+#### ' Part 13A ' Tertiary Education Commission
 
 ##### ' Preliminary provisions
 
@@ -518,7 +668,7 @@ In performing its functions, the Commission must, in addition to complying with 
 
 '(b) consider any submissions made by the Commission on the proposed review.
 
-'(3) The Minister may appoint any agency to conduct a review under thissection on behalf of the Minister, and in that case clause 16 of Schedule 13A applies to the agency as if it were the Minister.
+'(3) The Minister may appoint any agency to conduct a review under this section on behalf of the Minister, and in that case clause 16 of Schedule 13A applies to the agency as if it were the Minister.
 
 ###### ' 159I Delegation of functions or powers of Minister
 
@@ -666,7 +816,7 @@ Education (Tertiary Reform) Amendment Act 2002
 
 '(b) by notice in the Gazette , exempt any group of organ­ isations or type of organisation from the requirement to have a charter or from any requirement about the con­ tent of charters.
 
-'(5) Subsection 4 does not apply to institutions.
+'(5) Subsection (4) does not apply to institutions.
 
 ###### ' 159O Preparing charters
 
@@ -784,6 +934,8 @@ Education (Tertiary Reform) Amendment Act 2002
 
 Part 9 s 9
 
+##### ' Profiles
+
 ###### ' 159W What is a profile?
 
 An organisation's profile is a document that-
@@ -820,9 +972,7 @@ An organisation's profile is a document that-
 
 '(2) Notices given under subsection (1)-
 
-'(a) mayprescribe different content and form, criteria, infor­ mation, timetables, and processes for different organ­
-
-##### ' Profiles
+'(a) may prescribe different content and form, criteria, infor­ mation, timetables, and processes for different organ­
 
 23
 
@@ -1022,9 +1172,9 @@ The Commission may suspend or terminate payment, or any or all further payments,
 
 ### 10 Establishment of institutions
 
-- Section 162(2) of the principal Act is amended by inserting, after the words 'a polytechnic,', the words 'a specialist col­ lege,'.
+(1) Section 162(2) of the principal Act is amended by inserting, after the words 'a polytechnic,', the words 'a specialist col­ lege,'.
 
-- Section 162(3) of the principal Act is amended by inserting, after paragraph (a), the following paragraph:
+(2) Section 162(3) of the principal Act is amended by inserting, after paragraph (a), the following paragraph:
 
 '(ab) satisfy himself or herself that the establishment of the institu­ tion is in the interests of the tertiary education system and the nation as a whole; and.'
 
@@ -1040,9 +1190,9 @@ Education (Tertiary Reform) Amendment Act 2002
 
 Part 12 s 13
 
-- Section 162(4) of the principal Act is amended by inserting, after the words 'a polytechnic,', the words 'a specialist col­ lege,'.
+(3) Section 162(4) of the principal Act is amended by inserting, after the words 'a polytechnic,', the words 'a specialist col­ lege,'.
 
-- Section 162(4)(b) of the principal Act is amended by inserting, after subparagraph (ii), the following subparagraph:
+(4) Section 162(4)(b) of the principal Act is amended by inserting, after subparagraph (ii), the following subparagraph:
 
 '(iia) a specialist college is characterised by teaching and (if rele­ vant) research of a specialist nature that maintains, enhances, disseminates, and assists in the application of knowledge and expertise:'
 
@@ -1060,7 +1210,7 @@ Section 166(1) of the principal Act is amended by inserting, after the word 'pol
 
 ### 13 Functions of Councils
 
-- Section 180 of the principal Act is amended by omitting para­ graphs (b) to (e), and substituting the following paragraphs:
+(1) Section 180 of the principal Act is amended by omitting para­ graphs (b) to (e), and substituting the following paragraphs:
 
 '(b) to prepare, negotiate, and adopt a charter for the institution:
 
@@ -1070,7 +1220,7 @@ Section 166(1) of the principal Act is amended by inserting, after the word 'pol
 
 '(e) to determine the policies of the institution in relation to the implementation of its charter, the carrying out of its profile, and, subject to the State Sector Act 1988, the management of its affairs.'
 
-- Section 180 of the principal Act is amended by adding, as sub­ section (2), the following subsection:
+(2) Section 180 of the principal Act is amended by adding, as sub­ section (2), the following subsection:
 
 '(2) If, at any time before 1 January 2004, an institution does not have a profile, the references in subsection (1) to a profile must
 
@@ -1138,9 +1288,9 @@ Part 12 s 19
 
 ### 17 Heading and section 199 repealed
 
-- The principal Act is amended by repealing section 199 and the heading before it.
+(1) The principal Act is amended by repealing section 199 and the heading before it.
 
-- Section 228(2A) of the principal Act is consequentially amended by omitting the words 'section 199 of this Act', and substituting the expression 'section 159ZC'.
+(2) Section 228(2A) of the principal Act is consequentially amended by omitting the words 'section 199 of this Act', and substituting the expression 'section 159ZC'.
 
 ### 18 New section 201A inserted
 
@@ -1158,7 +1308,7 @@ The principal Act is amended by inserting, after section 201, the following sect
 
 ### 19 Application of Public Finance Act 1989
 
-- Section 203 of the principal Act is amended by repealing sub­ section (2), and substituting the following subsections:
+(1) Section 203 of the principal Act is amended by repealing sub­ section (2), and substituting the following subsections:
 
 '(2) Section 41 of the Public Finance Act 1989 applies to every institution, but every reference in that section to a financial year must be read as a reference to an academic year.
 
@@ -1176,7 +1326,7 @@ Education (Tertiary Reform) Amendment Act 2002
 
 2002 No 50
 
-- Despite subsection (1), section 203(2) of the principal Act, as it read immediately before 1 January 2003, continues to apply after that date to every institution that does not have a profile.
+(2) Despite subsection (1), section 203(2) of the principal Act, as it read immediately before 1 January 2003, continues to apply after that date to every institution that does not have a profile.
 
 ## Amendments to Part XVI (Courses and students) of principal Act
 
@@ -1200,7 +1350,7 @@ The principal Act is amended by repealing section 232, and substituting the foll
 
 '(b) the course is of less than 3 months' duration and is an exempt course, as provided for in subsection (2).
 
-'(2) The Qualifications Authority may, by notice in the Gazette , exempt courses of study or training for the purpose of subsec­ tion (1)(b).
+'(2) The Qualifications Authority may, by notice in the Gazette, exempt courses of study or training for the purpose of subsec­ tion (1)(b).
 
 '(3) A notice under subsection (2)-
 
@@ -1230,19 +1380,19 @@ Part 21 s 22
 
 ### 22 Grant or refusal of application
 
-- Section 236(1) of the principal Act is amended by omitting all the words before paragraph (a), and substituting the words 'The Qualifications Authority must grant an application for registration of a private training establishment, and may only grant such an application, if it is satisfied that-'.
+(1) Section 236(1) of the principal Act is amended by omitting all the words before paragraph (a), and substituting the words 'The Qualifications Authority must grant an application for registration of a private training establishment, and may only grant such an application, if it is satisfied that-'.
 
-- Section 236(1) of the principal Act is amended by-
+(2) Section 236(1) of the principal Act is amended by-
 
 (a) omitting from paragraph (e) the word 'education,-', and substituting the word 'education.'; and
 
 (b) omitting all the words after paragraph (e).
 
-- Section 236(1)(b) of the principal Act is amended by inserting, after the word 'has', the words ', or will at the relevant time have,'.
+(3) Section 236(1)(b) of the principal Act is amended by inserting, after the word 'has', the words ', or will at the relevant time have,'.
 
-- Section 236(1)(d)(ii) of the principal Act is amended by in­ serting, after the words 'study or training', the words '(other than a course of less than 3 months' duration)'.
+(4) Section 236(1)(d)(ii) of the principal Act is amended by in­ serting, after the words 'study or training', the words '(other than a course of less than 3 months' duration)'.
 
-- Section 236(1)(d) of the principal Act is amended by adding the following subparagraph:
+(5) Section 236(1)(d) of the principal Act is amended by adding the following subparagraph:
 
 '(iv) allows, or will allow, every foreign student enrolled for a course of study or training that is of less than 3 months'
 
@@ -1260,7 +1410,7 @@ Education (Tertiary Reform) Amendment Act 2002
 
 duration to withdraw from it within a period (being less than 7 days) specified by the Authority, and refunds, or will refund, to any student who so withdraws a minimum amount or pro­ portion, specified by the Authority, of any payments made by the student to the establishment in respect of the course; and'
 
-- Section 236 of the principal Act is amended by adding the following subsection:
+(6) Section 236 of the principal Act is amended by adding the following subsection:
 
 '(4) The Authority must give written notice to a private training es­ tablishment when it grants or refuses to grant registration and, if it refuses registration, it must give reasons for the refusal.'
 
@@ -1304,11 +1454,11 @@ The principal Act is amended by inserting, after section 236B, the following sec
 
 #### ' 236C Fees for domestic students must not exceed maximums set in conditions of funding
 
-Aregistered private training establishment that receives fund­ ing under section 159ZC must not fix, in relation to domes­ tic students, a fee (or a fee of a particular kind) that exceeds any maximum specified in a condition imposed under section 159ZD(2) as being the maximum fee (or fee of that kind) that can be charged to a domestic student.'
+A registered private training establishment that receives fund­ ing under section 159ZC must not fix, in relation to domes­ tic students, a fee (or a fee of a particular kind) that exceeds any maximum specified in a condition imposed under section 159ZD(2) as being the maximum fee (or fee of that kind) that can be charged to a domestic student.'
 
 ### 25 New section 237 substituted
 
-- The principal Act is amended by repealing section 237, and substituting the following section:
+(1) The principal Act is amended by repealing section 237, and substituting the following section:
 
 #### ' 237 Cancellation of registration
 
@@ -1342,7 +1492,7 @@ Education (Tertiary Reform) Amendment Act 2002
 
 '(4) Nothing in this section limits the Authority's powers under section 255A(7) to cancel an establishment's registration.'
 
-- Section 238 of the principal Act is consequentially repealed.
+(2) Section 238 of the principal Act is consequentially repealed.
 
 ### 26 Section 238A repealed
 
@@ -1356,7 +1506,7 @@ The principal Act is amended by omitting from the heading to Part 18A the words 
 
 ### 28 Interpretation
 
-Section 238D of the principal Act is amended by repealing paragraph (a) of the definition of international student .
+Section 238D of the principal Act is amended by repealing paragraph (a) of the definition of international student.
 
 ### 29 Signatories to code may enrol persons as international students
 
@@ -1472,13 +1622,13 @@ Section 241(b) of the principal Act is amended by omitting the words 'sections 2
 
 ### 33 Functions of Authority
 
-- Section 253(1) of the principal Act is amended by inserting, after paragraph (c), the following paragraph:
+(1) Section 253(1) of the principal Act is amended by inserting, after paragraph (c), the following paragraph:
 
 '(ca) subject to subsection (2), to establish policies and criteria for the registration of private training establishments:.'
 
-- Section 253(2) of the principal Act is amended by omitting the words 'paragraph (d) or paragraph (e) of subsection (1) of this section', and substituting the words 'subsection (1)(ca), (d), or (e)'.
+(2) Section 253(2) of the principal Act is amended by omitting the words 'paragraph (d) or paragraph (e) of subsection (1) of this section', and substituting the words 'subsection (1)(ca), (d), or (e)'.
 
-- Section 253(3) of the principal Act is amended by omitting the words 'paragraph (d) or paragraph (e) of subsection (1) of this section', and substituting the words 'subsection (1)(ca), (d), and (e)'.
+(3) Section 253(3) of the principal Act is amended by omitting the words 'paragraph (d) or paragraph (e) of subsection (1) of this section', and substituting the words 'subsection (1)(ca), (d), and (e)'.
 
 ### 34 New section 255A inserted
 
@@ -1546,13 +1696,13 @@ Part 33 s 36
 
 ### 35 Approval of courses
 
-- Section 258 of the principal Act is amended by inserting, after subsection (9), the following subsections:
+(1) Section 258 of the principal Act is amended by inserting, after subsection (9), the following subsections:
 
 '(9A) If the Authority withdraws an approval under this section, it must give notice of the withdrawal, with reasons, to the insti­ tution concerned.
 
 '(9B) Nothing in this section limits the Authority's power to with­ draw an approval under section 255A(7).'
 
-- Section 258(10) of the principal Act is amended by adding the words ', and may impose conditions on any such grant'.
+(2) Section 258(10) of the principal Act is amended by adding the words ', and may impose conditions on any such grant'.
 
 ### 36 New section 258A inserted
 
@@ -1636,11 +1786,11 @@ Section 260 of the principal Act is amended by omitting from subsections (1) and
 
 ### 40 Minister may consent to registered establishments using certain terms in their names
 
-- Section 264A(2) of the principal Act is amended by inserting, after paragraph (b), the following paragraph:
+(1) Section 264A(2) of the principal Act is amended by inserting, after paragraph (b), the following paragraph:
 
 '(ba) be satisfied that consenting to the application is in the interests of the tertiary education system and the nation as a whole; and.'
 
-- Section 264A of the principal Act is amended by adding the following subsections:
+(2) Section 264A of the principal Act is amended by adding the following subsections:
 
 '(4) The Minister may audit any registered establishment that has been given consent to use one of the terms in subsection (1) for continuous compliance with the requirements for consent to use the term.
 
@@ -1672,15 +1822,15 @@ Part XXI and the Sixteenth Schedule of the principal Act are repealed.
 
 ### 42 Interpretation
 
-Section 320 of the principal Act is amended by inserting, be­ fore the definition of fi nancial year , the following definition:
+Section 320 of the principal Act is amended by inserting, be­ fore the definition of financial year, the following definition:
 
-' educational body , or body , means a body corporate that is recog­ nised by the Minister as a body that provides any educational or de­ velopmental service or facility, including an organisation as defined in section 159B.'
+'educational body, or body, means a body corporate that is recog­ nised by the Minister as a body that provides any educational or de­ velopmental service or facility, including an organisation as defined in section 159B.'
 
 ### 43 Grants to other education services
 
-- The heading to section 321 of the principal Act is amended by omitting the words 'other education services', and substitut­ ing the words 'educational bodies'.
+(1) The heading to section 321 of the principal Act is amended by omitting the words 'other education services', and substitut­ ing the words 'educational bodies'.
 
-- Section 321 of the principal Act is amended by repealing sub­ sections (1) and (2), and substituting the following subsec­ tions:
+(2) Section 321 of the principal Act is amended by repealing sub­ sections (1) and (2), and substituting the following subsec­ tions:
 
 '(1) An educational body may be paid grants out of public money appropriated by Parliament for the purpose on such conditions as the Minister thinks fit.
 
@@ -1700,9 +1850,9 @@ Part 46 s 46
 
 ### 44 Recognised bodies to keep accounts
 
-- The heading to section 322 of the principal Act is amended by omitting the word 'Recognised', and substituting the word 'Educational'.
+(1) The heading to section 322 of the principal Act is amended by omitting the word 'Recognised', and substituting the word 'Educational'.
 
-- Section 322 of the principal Act is amended by repealing sub­ sections (2) to (4), and substituting the following subsection:
+(2) Section 322 of the principal Act is amended by repealing sub­ sections (2) to (4), and substituting the following subsection:
 
 '(2) Every grant under section 321 to an educational body must be paid under a funding agreement that specifies-
 
@@ -1716,9 +1866,9 @@ Part 46 s 46
 
 ### 45 Repeal of Part XXIII
 
-- Theprincipal Act is amended by repealing Part XXIII (Tertiary Research Board).
+(1) The principal Act is amended by repealing Part XXIII (Tertiary Research Board).
 
-- The principal Act is consequentially amended by-
+(2) The principal Act is consequentially amended by-
 
 (a) repealing section 202(b):
 
@@ -1730,7 +1880,7 @@ Part 46 s 46
 
 ### 46 Offences
 
-- Section 292 of the principal Act is amended by repealing sub­ sections (4) and (5), and substituting the following subsec­ tions:
+(1) Section 292 of the principal Act is amended by repealing sub­ sections (4) and (5), and substituting the following subsec­ tions:
 
 '(4) A person must not-
 
@@ -1796,7 +1946,7 @@ Part 48 s 48
 
 '(b) as provided by section 192(11).'
 
-- Section 292(8) of the principal Act is amended by omitting the words 'subsection (4) or subsection (6) of this section', and substituting the words 'any of subsections (4), (5), or (6)'.
+(2) Section 292(8) of the principal Act is amended by omitting the words 'subsection (4) or subsection (6) of this section', and substituting the words 'any of subsections (4), (5), or (6)'.
 
 ## New Schedule 13A inserted in principal Act
 
@@ -1808,7 +1958,9 @@ The principal Act is amended by inserting, after Schedule 13, the Schedule 13A s
 
 ### 48 Interpretation
 
-In sections 49 to 57, unless the context otherwise requires,assets has the same meaning as in section 216(1) of the Education Act 1989
+In sections 49 to 57, unless the context otherwise requires,-
+
+assets has the same meaning as in section 216(1) of the Education Act 1989
 
 Commission means the Tertiary Education Commission es­ tablished under section 159C of the Education Act 1989 (as inserted by section 9 of this Act)
 
@@ -1816,7 +1968,9 @@ liabilities has the same meaning as in section 216(1) of the Education Act 1989
 
 Ministry means the Ministry of Education
 
-Skill New Zealand means the agency that was continued by section 270 of the Education Act 1989 as in force immediately before the commencement of this section transferred employee means an employee of Skill New Zealand or of the Ministry who transfers to the Commission.
+Skill New Zealand means the agency that was continued by section 270 of the Education Act 1989 as in force immediately before the commencement of this section
+
+transferred employee means an employee of Skill New Zealand or of the Ministry who transfers to the Commission.
 
 47
 
@@ -1834,21 +1988,21 @@ Education (Tertiary Reform) Amendment Act 2002
 
 ### 49 Skill New Zealand absorbed into Commission
 
-- On the date of commencement of this section, Skill New Zealand ceases to exist and-
+(1) On the date of commencement of this section, Skill New Zealand ceases to exist and-
 
 (a) the term of office of every member of the Board of Skill New Zealand expires; and
 
 (b) all assets and liabilities of Skill New Zealand vest in the Commission.
 
-- No member of the Board of Skill New Zealand is entitled to compensation as a result of the expiry under this section of his or her term of office.
+(2) No member of the Board of Skill New Zealand is entitled to compensation as a result of the expiry under this section of his or her term of office.
 
-- On and from the date of commencement of this section, every reference to Skill New Zealand in any enactment (other than this Act), or in any instrument, register, agreement, deed, lease, application, notice, or other document in force at the effective date, must, unless the context otherwise requires, be read as a reference to the Commission.
+(3) On and from the date of commencement of this section, every reference to Skill New Zealand in any enactment (other than this Act), or in any instrument, register, agreement, deed, lease, application, notice, or other document in force at the effective date, must, unless the context otherwise requires, be read as a reference to the Commission.
 
 ### 50 Final report and accounts
 
-- As soon as reasonably practicable after the commencement of this section, the Commission must arrange for the final report of Skill New Zealand to be delivered to the Minister.
+(1) As soon as reasonably practicable after the commencement of this section, the Commission must arrange for the final report of Skill New Zealand to be delivered to the Minister.
 
-- The report must-
+(2) The report must-
 
 (a) describe Skill New Zealand's operations for the period beginning on 1 July 2002 and ending immediately be­ fore the commencement of this section; and
 
@@ -1858,7 +2012,7 @@ Education (Tertiary Reform) Amendment Act 2002
 
 (ii) an audit report prepared by the Auditor­General.
 
-- The Minister must present a copy of the report to the House of Representatives under section 44A of the Public Finance Act 1989.
+(3) The Minister must present a copy of the report to the House of Representatives under section 44A of the Public Finance Act 1989.
 
 48
 
@@ -1874,21 +2028,21 @@ Part 49 s 52
 
 ### 51 Transfers of contracts and leases do not give rise to claims
 
-- No person has any claim against the Crown for breach of any contract merely because the administration of the contract or the benefit of the contract is vested in the Commission by sec­ tion 49.
+(1) No person has any claim against the Crown for breach of any contract merely because the administration of the contract or the benefit of the contract is vested in the Commission by sec­ tion 49.
 
-- Subsection (1) applies whether or not the vesting involves the Commission and its employees gaining access to any infor­ mation, data, programme, intellectual property right, know­ how, chattel, equipment, transmission device, or facility of the claimant or any other person.
+(2) Subsection (1) applies whether or not the vesting involves the Commission and its employees gaining access to any infor­ mation, data, programme, intellectual property right, know­ how, chattel, equipment, transmission device, or facility of the claimant or any other person.
 
 ### 52 Effect of absorption of Skill New Zealand into Commission
 
-- On and from the date of commencement of this Act, anything done or omitted to be done by, or in relation to, Skill New Zealand must be treated as having been done or omitted by, or in relation to, the Commission.
+(1) On and from the date of commencement of this Act, anything done or omitted to be done by, or in relation to, Skill New Zealand must be treated as having been done or omitted by, or in relation to, the Commission.
 
-- The disestablishment of Skill New Zealand and the transfer of its undertaking and functions to the Commission does not affect-
+(2) The disestablishment of Skill New Zealand and the transfer of its undertaking and functions to the Commission does not affect-
 
 (a) the assets, liabilities, or rights of the Crown or Skill New Zealand (other than by transferring them); or
 
 (b) the commencement or continuation of proceedings by or against Skill New Zealand; those proceedings may instead be commenced or continued by or against the Commission.
 
-- If the transfer of an asset or liability under section 49 is regis­ trable, the person responsible for keeping the register must register the transfer immediately after written notice of the transfer is received by him or her from any person authorised for this purpose by the Minister.
+(3) If the transfer of an asset or liability under section 49 is regis­ trable, the person responsible for keeping the register must register the transfer immediately after written notice of the transfer is received by him or her from any person authorised for this purpose by the Minister.
 
 49
 
@@ -1902,17 +2056,17 @@ Education (Tertiary Reform) Amendment Act 2002
 
 2002 No 50
 
-- Subsection (2) does not limit section 49, section 51, or sections 53 to 57.
+(4) Subsection (2) does not limit section 49, section 51, or sections 53 to 57.
 
 ## Transfer of employees to Commission
 
 ### 53 Transfer of employees of Skill New Zealand
 
-- Every person who is employed by Skill New Zealand imme­ diately before the commencement of this Act transfers to the Commission on that date of commencement.
+(1) Every person who is employed by Skill New Zealand imme­ diately before the commencement of this Act transfers to the Commission on that date of commencement.
 
-- The transfer of an employee by this section is subject to any relevant transfer provisions in the employment agreement or contract applying to that employee.
+(2) The transfer of an employee by this section is subject to any relevant transfer provisions in the employment agreement or contract applying to that employee.
 
-- Subsection (2) is subject to section 57.
+(3) Subsection (2) is subject to section 57.
 
 ### 54 Transfer of employees of Ministry
 
@@ -1924,9 +2078,9 @@ For the purpose of any provisions of a transferred employee's employment agreeme
 
 ### 56 Protection of terms and conditions for transferred employees
 
-- The employment of a transferred employee must be on terms and conditions no less favourable than those applying to the employee immediately before the date of the person's transfer to the Commission.
+(1) The employment of a transferred employee must be on terms and conditions no less favourable than those applying to the employee immediately before the date of the person's transfer to the Commission.
 
-- Subsection (1)-
+(2) Subsection (1)-
 
 (a) continues to apply to the terms and conditions of em­ ployment of a transferred employee until those terms and conditions are varied by agreement between the transferred employee and the Commission; but
 
@@ -1940,15 +2094,15 @@ For the purpose of any provisions of a transferred employee's employment agreeme
 
 Education (Tertiary Reform) Amendment Act 2002
 
-Part 58 s 58
+Part 5 s 58
 
 (b) does not apply to a transferred employee who, after the transfer, receives any subsequent appointment within the Commission.
 
 ### 57 No compensation for technical redundancy
 
-- Anemployee who has transferred, or will transfer, to the Com­ mission under section 53 or section 54 is not entitled to receive any payment or other benefit solely on the ground that the per­ son has ceased, or will cease, to be an employee of Skill New Zealand or the Ministry as a result of his or her transfer to the Commission.
+(1) An employee who has transferred, or will transfer, to the Com­ mission under section 53 or section 54 is not entitled to receive any payment or other benefit solely on the ground that the per­ son has ceased, or will cease, to be an employee of Skill New Zealand or the Ministry as a result of his or her transfer to the Commission.
 
-- Anemployee of the Ministry is not entitled to receive any pay­ ment or other benefit on the ground that his or her position in the Ministry has ceased to exist if-
+(2) An employee of the Ministry is not entitled to receive any pay­ ment or other benefit on the ground that his or her position in the Ministry has ceased to exist if-
 
 (a) the position ceases to exist as a result of a transfer of functions of the Ministry to the Commission; and
 
@@ -1958,13 +2112,13 @@ Part 58 s 58
 
 (ii) the employee is offered, and accepts, other em­ ployment in the Ministry.
 
-- This section overrides an employee's employment agreement to the extent that it is inconsistent with that agreement.
+(3) This section overrides an employee's employment agreement to the extent that it is inconsistent with that agreement.
 
 ## Miscellaneous
 
 ### 58 Chief executive may be called General Manager
 
-For the first 3 years after the Tertiary Education Commission is established, the person appointed as its chief executive offi­ cer under clause 36 of Schedule 13A of the principal Act (as inserted by section 47 of this Act) may be called the General Manager.
+For the first 3 years after the Tertiary Education Commission is established, the person appointed as its chief executive offi­ cer under clause 36 of Schedule 13A of the principal Act (as
 
 51
 
@@ -1972,11 +2126,13 @@ For the first 3 years after the Tertiary Education Commission is established, th
 
 [[START OF PAGE 52]]
 
-Part 59 s 59
+Part 5 s 59
 
 Education (Tertiary Reform) Amendment Act 2002
 
 2002 No 50
+
+inserted by section 47 of this Act) may be called the General Manager.
 
 ## Consequential amendments
 
@@ -1986,9 +2142,13 @@ The enactments specified in Schedule 2 are consequentially amended in the manner
 
 # Schedule 1
 
+s 47
+
 ## New Schedule 13A inserted in principal Act
 
 ### Schedule 13A
+
+s 159C(3)
 
 #### Administrative provisions applying to Tertiary Education Commission
 
@@ -2004,9 +2164,9 @@ member means a member of the Commission.
 
 ###### 2 Method of appointment
 
-- Every member is appointed by notice published in the Gazette .
+(1) Every member is appointed by notice published in the Gazette.
 
-- The notice of appointment must specify the member's term of office.
+(2) The notice of appointment must specify the member's term of office.
 
 ###### 3 When appointment takes effect
 
@@ -2014,11 +2174,7 @@ Every member takes office from the date stated in the notice of appointment.
 
 ###### 4 Restrictions on appointments
 
-- When appointing members of the Commission, the Minister must have regard to the need for the members of the Commis­
-
-s 47
-
-s 159C(3)
+(1) When appointing members of the Commission, the Minister must have regard to the need for the members of the Commis­
 
 52
 
@@ -2036,9 +2192,9 @@ Schedule 13A -continued
 
 sion to collectively have a breadth of experience and expertise, and depth of knowledge regarding areas of the tertiary educa­ tion sector.
 
-- The Minister may appoint a person as a member only if, in the Minister's opinion, the person has the appropriate skills and experience to assist the Commission to perform its functions and to achieve its objectives.
+(2) The Minister may appoint a person as a member only if, in the Minister's opinion, the person has the appropriate skills and experience to assist the Commission to perform its functions and to achieve its objectives.
 
-- A person must not be appointed as a member unless, before that appointment, he or she-
+(3) A person must not be appointed as a member unless, before that appointment, he or she-
 
 (a) consents in writing to be a member; and
 
@@ -2052,11 +2208,11 @@ A person appointed as a member may hold that office concur­ rently with any oth
 
 ###### 6 Term of office
 
-- The term of office of a member is 3 years or any shorter term specified by the Minister in the member's notice of appoint­ ment.
+(1) The term of office of a member is 3 years or any shorter term specified by the Minister in the member's notice of appoint­ ment.
 
-- A member may be reappointed.
+(2) A member may be reappointed.
 
-- Despite subclause (1), every member, unless ceasing to hold office under clause 8 or clause 9, continues in office until-
+(3) Despite subclause (1), every member, unless ceasing to hold office under clause 8 or clause 9, continues in office until-
 
 (a) the member is reappointed; or
 
@@ -2066,7 +2222,7 @@ A person appointed as a member may hold that office concur­ rently with any oth
 
 ###### 7 Remuneration and allowances
 
-- A member of the Commission is entitled to receive, from the Commission's funds, remuneration and other benefits not
+(1) A member of the Commission is entitled to receive, from the Commission's funds, remuneration and other benefits not
 
 53
 
@@ -2084,15 +2240,15 @@ Schedule 13A -continued
 
 within subclause (2) for services as a member at a rate and of a kind determined by the Minister.
 
-- A member of the Commission is entitled to be paid, out of the Commission's funds, reasonable and actual allowances for travelling and other expenses relating to the performance of his or her duties and responsibilities as a member.
+(2) A member of the Commission is entitled to be paid, out of the Commission's funds, reasonable and actual allowances for travelling and other expenses relating to the performance of his or her duties and responsibilities as a member.
 
 ##### Resignation and removal of members
 
 ###### 8 Resignation
 
-- A member may, at any time, resign from office by notice in writing to the Minister.
+(1) A member may, at any time, resign from office by notice in writing to the Minister.
 
-- A member's resignation is effective from the date of receipt by the Minister of the notice or from any later time specified in the notice.
+(2) A member's resignation is effective from the date of receipt by the Minister of the notice or from any later time specified in the notice.
 
 ###### 9 Removal from office
 
@@ -2100,9 +2256,9 @@ The Minister may, at any time, and for any reason that in the Minister's opinion
 
 ###### 10 No compensation for resignation or removal
 
-- A member who resigns from office under clause 8 or who is removed from office under clause 9 is not entitled to any com­ pensation or other payment relating to that resignation or re­ moval.
+(1) A member who resigns from office under clause 8 or who is removed from office under clause 9 is not entitled to any com­ pensation or other payment relating to that resignation or re­ moval.
 
-- Subclause (1) does not apply to a chairperson or a deputy chair­ person if the Minister expressly provides, at the time of ap­ pointment of the person to the position, for that person to be entitled to compensation or another payment upon resignation or removal from the position.
+(2) Subclause (1) does not apply to a chairperson or a deputy chair­ person if the Minister expressly provides, at the time of ap­ pointment of the person to the position, for that person to be entitled to compensation or another payment upon resignation or removal from the position.
 
 54
 
@@ -2122,9 +2278,9 @@ Schedule 13A -continued
 
 ###### 11 Position if vacancy in membership
 
-- If a member, for any reason, ceases to hold office as a member, the Minister may appoint another person as a member.
+(1) If a member, for any reason, ceases to hold office as a member, the Minister may appoint another person as a member.
 
-- A member who is appointed under subclause (1) is appointed for the residue of the term for which the vacating member was appointed.
+(2) A member who is appointed under subclause (1) is appointed for the residue of the term for which the vacating member was appointed.
 
 ###### 12 Proceedings not invalidated by vacancy
 
@@ -2134,7 +2290,7 @@ No act or proceeding of the Commission is invalid merely be­ cause there was a 
 
 ###### 13 Duties of members
 
-- When exercising powers or performing duties as a member, every member must act-
+(1) When exercising powers or performing duties as a member, every member must act-
 
 (a) in good faith; and
 
@@ -2144,7 +2300,7 @@ No act or proceeding of the Commission is invalid merely be­ cause there was a 
 
 (d) in accordance with any code of conduct issued by a Minister of the Crown that applies to Crown entities generally.
 
-- Nomember, when exercising powers or performing duties as a member, may act as a representative of, or promote the views of, any particular person or group of persons.
+(2) No member, when exercising powers or performing duties as a member, may act as a representative of, or promote the views of, any particular person or group of persons.
 
 ###### 14 Collective duties of members
 
@@ -2172,27 +2328,27 @@ Schedule 13A -continued
 
 ###### 15 Members accountable to Minister
 
-- Amember is accountable to the Minister for performing his or her duties and responsibilities as a member.
+(1) A member is accountable to the Minister for performing his or her duties and responsibilities as a member.
 
-- If there is a breach of any of the collective duties of members set out in clause 14,-
+(2) If there is a breach of any of the collective duties of members set out in clause 14,-
 
 (a) each member is accountable to the Minister for the breach; and
 
 (b) the breach justifies all or any of the members being re­ moved from office.
 
-- Subclause (2) does not apply to a member if-
+(3) Subclause (2) does not apply to a member if-
 
 (a) he or she did not know, and could not reasonably be expected to know, that the duty was to be or was being breached; or
 
 (b) he or she took all reasonable steps to prevent the duty being breached.
 
-- The duties of members under clause 13 are duties owed only to the Minister and the Commission, and the collective duties of members under clause 14 are owed only to the Minister; a fail­ ure to adequately perform those duties does not give grounds for a cause of action against that member by any other person.
+(4) The duties of members under clause 13 are duties owed only to the Minister and the Commission, and the collective duties of members under clause 14 are owed only to the Minister; a fail­ ure to adequately perform those duties does not give grounds for a cause of action against that member by any other person.
 
 ###### 16 Power of Minister to require information to be supplied
 
-- The Minister may, by written notice, require the Commission to supply, at a specified time or times, or at specified intervals, any information that the Minister requires that relates to any aspect of the Commission's activities.
+(1) The Minister may, by written notice, require the Commission to supply, at a specified time or times, or at specified intervals, any information that the Minister requires that relates to any aspect of the Commission's activities.
 
-- The Commission must comply with requirements made under subclause (1) unless-
+(2) The Commission must comply with requirements made under subclause (1) unless-
 
 (a) the supply of the information would infringe the privacy of any natural person or deceased natural person; and
 
@@ -2214,9 +2370,9 @@ Schedule 13A -continued
 
 ###### 17 Liability of members
 
-- Amember is not personally liable, in any action taken against him or her by the Commission, for any liability of the Commis­ sion, or for any act done or omitted to be done by the Commis­ sion or by any person acting under a delegation of the Com­ mission's functions, duties, and powers, provided the member acted in good faith in pursuance or intended pursuance of the functions, duties, and powers of the Commission.
+(1) A member is not personally liable, in any action taken against him or her by the Commission, for any liability of the Commis­ sion, or for any act done or omitted to be done by the Commis­ sion or by any person acting under a delegation of the Com­ mission's functions, duties, and powers, provided the member acted in good faith in pursuance or intended pursuance of the functions, duties, and powers of the Commission.
 
-- Every member is indemnified by the Commission for costs and damages arising from civil proceedings, and costs arising from successfully defended criminal proceedings, if the pro­ ceedings relate to actions taken by the member while he or she was acting in good faith in pursuance or intended pursuance of the functions, duties, or powers of the Commission.
+(2) Every member is indemnified by the Commission for costs and damages arising from civil proceedings, and costs arising from successfully defended criminal proceedings, if the pro­ ceedings relate to actions taken by the member while he or she was acting in good faith in pursuance or intended pursuance of the functions, duties, or powers of the Commission.
 
 ###### 18 Members not in service of the Crown
 
@@ -2254,9 +2410,9 @@ Schedule 13A -continued
 
 ###### 20 Obligation to disclose interest
 
-- Amemberwho(otherwisethan as a member) has a direct or in­ direct interest in any of the transactions or other matters listed in subclause (2) must, as soon as practicable after the member knows about the relevant facts, disclose the nature of the in­ terest in accordance with clause 21.
+(1) A member who (otherwise than as a member) has a direct or in­ direct interest in any of the transactions or other matters listed in subclause (2) must, as soon as practicable after the member knows about the relevant facts, disclose the nature of the in­ terest in accordance with clause 21.
 
-- The transactions and other matters are-
+(2) The transactions and other matters are-
 
 (a) the Commission's performance of a function or exercise of a power:
 
@@ -2264,13 +2420,13 @@ Schedule 13A -continued
 
 ###### 21 Method of disclosure of interest
 
-- If clause 20 applies, the member must disclose the details listed in subclause (2) in an interests register and must also disclose them to-
+(1) If clause 20 applies, the member must disclose the details listed in subclause (2) in an interests register and must also disclose them to-
 
 (a) the chairperson or, if there is no chairperson, the deputy chairperson; or
 
 (b) if the member concerned is the chairperson, or the pos­ itions of the chairperson and deputy chairperson are va­ cant, the Minister.
 
-- The details are-
+(2) The details are-
 
 (a) the nature of the interest and the monetary value of the interest (if the monetary value can be quantified); or
 
@@ -2300,13 +2456,13 @@ Schedule 13A -continued
 
 ###### 23 Effect of non­compliance
 
-- If a member fails to comply with the disclosure requirements in clause 20, the validity of the Commission's performance of the function, or exercise of the power, or of the arrangement, agreement, or contract made or entered into by the Commis­ sion, is not affected.
+(1) If a member fails to comply with the disclosure requirements in clause 20, the validity of the Commission's performance of the function, or exercise of the power, or of the arrangement, agreement, or contract made or entered into by the Commis­ sion, is not affected.
 
-- The chairperson must report, as soon as practicable, to the Minister any failure (including his or her own) to disclose an interest in a transaction or other matter and any failure to act in a manner that is consistent with the limitations placed on interested members.
+(2) The chairperson must report, as soon as practicable, to the Minister any failure (including his or her own) to disclose an interest in a transaction or other matter and any failure to act in a manner that is consistent with the limitations placed on interested members.
 
 ###### 24 Confidentiality of information
 
-- A member of the Commission who has information in his or her capacity as a member that would not otherwise be available to him or her must not disclose the information to any person, or make use of, or act on, the information, except-
+(1) A member of the Commission who has information in his or her capacity as a member that would not otherwise be available to him or her must not disclose the information to any person, or make use of, or act on, the information, except-
 
 (a) for the purposes of the Commission; or
 
@@ -2314,7 +2470,7 @@ Schedule 13A -continued
 
 (c) in accordance with subclause (2).
 
-- Subclause (1) does not apply if the member is required or au­ thorised by this Act or by the Commission to disclose, use, or act on the information.
+(2) Subclause (1) does not apply if the member is required or au­ thorised by this Act or by the Commission to disclose, use, or act on the information.
 
 ##### Chairperson and deputy chairperson
 
@@ -2334,13 +2490,15 @@ Education (Tertiary Reform) Amendment Act 2002
 
 2002 No 50
 
+Schedule 13A -continued
+
 ###### 26 Term of office
 
-- The term of office of the chairperson and of the deputy chair­ person is 3 years.
+(1) The term of office of the chairperson and of the deputy chair­ person is 3 years.
 
-- The chairperson and the deputy chairperson may be reap­ pointed.
+(2) The chairperson and the deputy chairperson may be reap­ pointed.
 
-- Despite subsection (1), a member appointed as the chairperson or as the deputy chairperson holds office until-
+(3) Despite subsection (1), a member appointed as the chairperson or as the deputy chairperson holds office until-
 
 (a) the member is reappointed; or
 
@@ -2352,9 +2510,9 @@ Education (Tertiary Reform) Amendment Act 2002
 
 ###### 27 Resignation
 
-- A chairperson or deputy chairperson may, without resigning as a member, resign from the office of chairperson or deputy chairperson by written notice to the Minister.
+(1) A chairperson or deputy chairperson may, without resigning as a member, resign from the office of chairperson or deputy chairperson by written notice to the Minister.
 
-- The resignation of the chairperson or deputy chairperson under subsection (1) is effective from the date of receipt by the Min­ ister of the notice or from any later time specified in the notice.
+(2) The resignation of the chairperson or deputy chairperson under subsection (1) is effective from the date of receipt by the Min­ ister of the notice or from any later time specified in the notice.
 
 ###### 28 Appointment of new chairperson or deputy chairperson
 
@@ -2362,11 +2520,9 @@ If the chairperson or deputy chairperson ceases to be the chairperson or deputy 
 
 ###### 29 Performance and exercise of chairperson's functions, duties, and powers during vacancy
 
-- During a vacancy in the office of chairperson, or while the chairperson is for any reason unable to perform and exercise the functions, duties, and powers of the chairperson, the deputy chairperson has and may perform and exercise the functions, duties, and powers of the chairperson.
+(1) During a vacancy in the office of chairperson, or while the chairperson is for any reason unable to perform and exercise the functions, duties, and powers of the chairperson, the deputy chairperson has and may perform and exercise the functions, duties, and powers of the chairperson.
 
-- No act done by the deputy chairperson acting as the chairper­ son may, in any proceedings, be questioned on the grounds that
-
-Schedule 13A -continued
+(2) No act done by the deputy chairperson acting as the chairper­ son may, in any proceedings, be questioned on the grounds that
 
 60
 
@@ -2392,27 +2548,27 @@ Except as otherwise provided in this Act, the Commission may regulate its own pr
 
 ###### 31 Times and places of meetings
 
-- The Commission or the chairperson must appoint the times and places for meetings of the Commission.
+(1) The Commission or the chairperson must appoint the times and places for meetings of the Commission.
 
-- Members must be given no less than 5 working days' notice of any Commission meeting, but the chairperson may convene an extraordinary meeting to be held within a shorter period than 5 working days if all members agree.
+(2) Members must be given no less than 5 working days' notice of any Commission meeting, but the chairperson may convene an extraordinary meeting to be held within a shorter period than 5 working days if all members agree.
 
-- The chairperson must convene a meeting on receipt of a writ­ ten request signed by no fewer than 4 members.
+(3) The chairperson must convene a meeting on receipt of a writ­ ten request signed by no fewer than 4 members.
 
-- The chairperson may permit a member to participate in a par­ ticular meeting by any means of communication that allows the member to reasonably engage in the proceedings of the meeting.
+(4) The chairperson may permit a member to participate in a par­ ticular meeting by any means of communication that allows the member to reasonably engage in the proceedings of the meeting.
 
 ###### 32 Quorum
 
-- A quorum for a meeting of the Commission is-
+(1) A quorum for a meeting of the Commission is-
 
 (a) 5 members if the Commission has 9 members; or
 
 (b) 4 members if the Commission has fewer than 9 mem­ bers.
 
-- Nobusiness may be transacted at a meeting of the Commission if a quorum is not present, either in person or as permitted under clause 31(4).
+(2) No business may be transacted at a meeting of the Commission if a quorum is not present, either in person or as permitted under clause 31(4).
 
 ###### 33 Who presides at meetings
 
-- The chairperson must preside at all meetings of the Commis­ sion at which he or she is present.
+(1) The chairperson must preside at all meetings of the Commis­ sion at which he or she is present.
 
 61
 
@@ -2428,39 +2584,39 @@ Education (Tertiary Reform) Amendment Act 2002
 
 Schedule 13A -continued
 
-- If the chairperson is not present, or if there is no chairperson, the deputy chairperson, if present, must preside.
+(2) If the chairperson is not present, or if there is no chairperson, the deputy chairperson, if present, must preside.
 
-- The members present must elect 1 of their number to be chair­ person for the meeting if-
+(3) The members present must elect 1 of their number to be chair­ person for the meeting if-
 
 (a) the chairperson or the deputy chairperson is not present; or
 
 (b) there is no chairperson and no deputy chairperson.
 
-- The elected person has and may perform and exercise all the functions, duties, and powers of the chairperson for the pur­ poses of the meeting.
+(4) The elected person has and may perform and exercise all the functions, duties, and powers of the chairperson for the pur­ poses of the meeting.
 
 ###### 34 Voting at meetings
 
-- All questions arising at a meeting of the Commission must be decided by a majority of the votes cast by the members present, either in person or as permitted under clause 31(4).
+(1) All questions arising at a meeting of the Commission must be decided by a majority of the votes cast by the members present, either in person or as permitted under clause 31(4).
 
-- The member presiding at the meeting has a deliberative vote and, if the votes are equal, also has a casting vote.
+(2) The member presiding at the meeting has a deliberative vote and, if the votes are equal, also has a casting vote.
 
 ###### 35 Resolutions
 
-- A resolution in writing, signed or assented to by letter, fax, or electronic message by all members, is as valid and effectual as if it had been passed at a meeting of the Commission duly called and constituted.
+(1) A resolution in writing, signed or assented to by letter, fax, or electronic message by all members, is as valid and effectual as if it had been passed at a meeting of the Commission duly called and constituted.
 
-- A resolution to which subclause (1) applies may consist of several documents in the same form, each signed or appearing to have been sent by 1 or more members.
+(2) A resolution to which subclause (1) applies may consist of several documents in the same form, each signed or appearing to have been sent by 1 or more members.
 
 ##### Chief executive of Commission
 
 ###### 36 Chief executive
 
-- The Commission must appoint a chief executive.
+(1) The Commission must appoint a chief executive.
 
-- The chief executive must not be a member of the Commission.
+(2) The chief executive must not be a member of the Commission.
 
-- The Commission must act independently when appointing the chief executive.
+(3) The Commission must act independently when appointing the chief executive.
 
-- The Commission must monitor and evaluate the performance of the chief executive.
+(4) The Commission must monitor and evaluate the performance of the chief executive.
 
 62
 
@@ -2486,9 +2642,9 @@ The chief executive must-
 
 ###### 38 Terms and conditions of employment of chief executive
 
-- The chief executive must be appointed on terms and conditions determined by the Commission.
+(1) The chief executive must be appointed on terms and conditions determined by the Commission.
 
-- However, the Commission must not determine any terms and conditions of employment for the chief executive without-
+(2) However, the Commission must not determine any terms and conditions of employment for the chief executive without-
 
 (a) consulting with the State Services Commissioner; and
 
@@ -2496,13 +2652,13 @@ The chief executive must-
 
 (c) consulting with the Minister, if necessary, in accordance with subsection (3).
 
-- The Commission must consult with the Minister if, after con­ sidering a recommendation made by the State Services Com­ missioner about the terms and conditions of employment of the chief executive, the Commission does not intend to adopt that recommendation.
+(3) The Commission must consult with the Minister if, after con­ sidering a recommendation made by the State Services Com­ missioner about the terms and conditions of employment of the chief executive, the Commission does not intend to adopt that recommendation.
 
 ###### 39 Declaration of interests
 
-- A person who is proposed to be appointed as chief executive must declare any direct or indirect pecuniary interests to the Commission before accepting appointment to the position of chief executive.
+(1) A person who is proposed to be appointed as chief executive must declare any direct or indirect pecuniary interests to the Commission before accepting appointment to the position of chief executive.
 
-- If the chief executive has any direct or indirect interest in any transaction or other matter listed in clause 20(2), he or she must disclose that interest to the Commission.
+(2) If the chief executive has any direct or indirect interest in any transaction or other matter listed in clause 20(2), he or she must disclose that interest to the Commission.
 
 63
 
@@ -2526,19 +2682,19 @@ The chief executive may appoint any employees (including employees on secondment
 
 ###### 41 Certain State Sector Act 1988 provisions apply
 
-- Section 56(1) and (2) of the State Sector Act 1988 (which re­ quires departments to be good employers) and section 58 of that Act (which relates to equal employment opportunities) apply to the Commission as if the Commission were a depart­ ment referred to in those provisions.
+(1) Section 56(1) and (2) of the State Sector Act 1988 (which re­ quires departments to be good employers) and section 58 of that Act (which relates to equal employment opportunities) apply to the Commission as if the Commission were a depart­ ment referred to in those provisions.
 
-- To avoid doubt, no person employed by the Commission is employed in the service of the Crown for the purposes of the State Sector Act 1988.
+(2) To avoid doubt, no person employed by the Commission is employed in the service of the Crown for the purposes of the State Sector Act 1988.
 
 ###### 42 Superannuation
 
-- The Commission may subsidise or contribute to any registered superannuation scheme for the purpose of providing benefits for its employees.
+(1) The Commission may subsidise or contribute to any registered superannuation scheme for the purpose of providing benefits for its employees.
 
-- Any person who, immediately before becoming an employee of the Commission, is a contributor to the Government Super­ annuation Fund under Part II or Part IIA of the Government Superannuation Fund Act 1956 is deemed, for the purpose of that Act, to be employed in the Government service so long as he or she continues to be an employee of the Commission.
+(2) Any person who, immediately before becoming an employee of the Commission, is a contributor to the Government Super­ annuation Fund under Part II or Part IIA of the Government Superannuation Fund Act 1956 is deemed, for the purpose of that Act, to be employed in the Government service so long as he or she continues to be an employee of the Commission.
 
-- The Government Superannuation Fund Act 1956 applies to the person in all respects as if the person's service as an employee of the Commission were Government service.
+(3) The Government Superannuation Fund Act 1956 applies to the person in all respects as if the person's service as an employee of the Commission were Government service.
 
-- Nothing in subclause (2) entitles a person to become a con­ tributor to the Government Superannuation Fund if the person has ceased to be a contributor.
+(4) Nothing in subclause (2) entitles a person to become a con­ tributor to the Government Superannuation Fund if the person has ceased to be a contributor.
 
 64
 
@@ -2554,13 +2710,13 @@ Schedule 1
 
 Schedule 13A -continued
 
-- For the purpose of applying the Government Superannuation Fund Act 1956, the chief executive of the Commission is the 'controlling authority'.
+(5) For the purpose of applying the Government Superannuation Fund Act 1956, the chief executive of the Commission is the 'controlling authority'.
 
 ##### Committees
 
 ###### 43 Commission may appoint committees
 
-- The Commission may, by resolution, appoint 1 or more com­ mittees to-
+(1) The Commission may, by resolution, appoint 1 or more com­ mittees to-
 
 (a) advise the Commission on any matters relating to the Commission's functions, duties, or powers that are re­ ferred to the committee by the Commission; or
 
@@ -2568,17 +2724,17 @@ Schedule 13A -continued
 
 (c) develop specific strategies and recommendations, as de­ termined by the Commission.
 
-- Acommittee must consist of at least 1 member of the Commis­ sion and may include any other persons that the Commission thinks fit.
+(2) A committee must consist of at least 1 member of the Commis­ sion and may include any other persons that the Commission thinks fit.
 
-- A person must not be appointed as a member of a committee unless, before that appointment, he or she-
+(3) A person must not be appointed as a member of a committee unless, before that appointment, he or she-
 
 (a) consents in writing to be a member; and
 
 (b) discloses to the chairperson the details of any interest the person would or may have if he or she were a mem­ ber of that committee.
 
-- The Commission may, by resolution, alter, discharge, con­ tinue, or reconstitute a committee appointed under subclause (1).
+(4) The Commission may, by resolution, alter, discharge, con­ tinue, or reconstitute a committee appointed under subclause (1).
 
-- A member or person who resigns from, or is removed from, a committee is not entitled to any compensation or other pay­ ment relating to that resignation or removal.
+(5) A member or person who resigns from, or is removed from, a committee is not entitled to any compensation or other pay­ ment relating to that resignation or removal.
 
 65
 
@@ -2596,9 +2752,9 @@ Schedule 13A -continued
 
 ###### 44 Procedure of committees
 
-- Subject to the Commission's direction, and except as other­ wise provided in this Act, a committee may regulate its own procedure.
+(1) Subject to the Commission's direction, and except as other­ wise provided in this Act, a committee may regulate its own procedure.
 
-- A Commission member must chair all committee meetings.
+(2) A Commission member must chair all committee meetings.
 
 ###### 45 Obligations of committee members who are not Commission members
 
@@ -2606,9 +2762,9 @@ For the purposes of performing a function or exercising a power, a member of a c
 
 ###### 46 Fees and allowances for committee members
 
-- A member of a committee appointed by the Commission may be paid, from the Commission's funds, remuneration and other benefits not within subclause (2) for services as a member of that committee at a rate and of a kind determined by the Min­ ister.
+(1) A member of a committee appointed by the Commission may be paid, from the Commission's funds, remuneration and other benefits not within subclause (2) for services as a member of that committee at a rate and of a kind determined by the Min­ ister.
 
-- A member of a committee appointed by the Commission is entitled to be paid, out of the Commission's funds, reasonable and actual allowances for travelling and other expenses relat­ ing to the performance of his or her duties and responsibilities as a committee member.
+(2) A member of a committee appointed by the Commission is entitled to be paid, out of the Commission's funds, reasonable and actual allowances for travelling and other expenses relat­ ing to the performance of his or her duties and responsibilities as a committee member.
 
 ##### Commission's finances and method of contracting
 
@@ -2640,23 +2796,23 @@ Schedule 13A -continued
 
 ###### 48 Bank accounts
 
-- The Commission must open at any registered bank or regis­ tered banks (within the meaning of the Reserve Bank of New Zealand Act 1989) any accounts that are necessary for the per­ formance or exercise of its functions, duties, and powers.
+(1) The Commission must open at any registered bank or regis­ tered banks (within the meaning of the Reserve Bank of New Zealand Act 1989) any accounts that are necessary for the per­ formance or exercise of its functions, duties, and powers.
 
-- All money received by the Commission, or by any member or employee of the Commission, for its purposes must, as soon as practicable after the money has been received, be paid into a Commission bank account.
+(2) All money received by the Commission, or by any member or employee of the Commission, for its purposes must, as soon as practicable after the money has been received, be paid into a Commission bank account.
 
 ###### 49 Restrictions on investments
 
-- Surplus money that belongs to the Commission and that is not immediately required by it may only be invested in accordance with section 25 of the Public Finance Act 1989.
+(1) Surplus money that belongs to the Commission and that is not immediately required by it may only be invested in accordance with section 25 of the Public Finance Act 1989.
 
-- Surplus money includes money belonging to the Commission and other money that the Commission manages on any other person's behalf.
+(2) Surplus money includes money belonging to the Commission and other money that the Commission manages on any other person's behalf.
 
 ###### 50 No controlling interests
 
-- The Commission must not control any other entity or hold a percentage of the voting rights in any other entity that would require it to seek control of that entity.
+(1) The Commission must not control any other entity or hold a percentage of the voting rights in any other entity that would require it to seek control of that entity.
 
-- If a contravention of subsection (1) arises (through inadver­ tence or otherwise), the Commission must take all reasonable steps to remedy the default as soon as practicable.
+(2) If a contravention of subsection (1) arises (through inadver­ tence or otherwise), the Commission must take all reasonable steps to remedy the default as soon as practicable.
 
-- For the purposes of this clause, an entity is controlled by the Commission if-
+(3) For the purposes of this clause, an entity is controlled by the Commission if-
 
 (a) the entity is a subsidiary of the Commission; or
 
@@ -2678,11 +2834,11 @@ Education (Tertiary Reform) Amendment Act 2002
 
 Schedule 13A -continued
 
-- For the purposes of this clause,-
+(4) For the purposes of this clause,-
 
 entity means any person, whether corporate or unincorporate
 
-- subsidiary -
+subsidiary -
 
 (a) means a subsidiary within the meaning of sections 5 to 8 of the Companies Act 1993; and
 
@@ -2698,9 +2854,9 @@ The Commission may not enter into a derivative instrument, or amend the terms of
 
 ###### 53 Commission is public authority
 
-- For the avoidance of doubt, the Commission is a public au­ thority for the purposes of the Inland Revenue Acts.
+(1) For the avoidance of doubt, the Commission is a public au­ thority for the purposes of the Inland Revenue Acts.
 
-- In this section, Inland Revenue Acts has the same meaning as in section 3(1) of the Tax Administration Act 1994.
+(2) In this section, Inland Revenue Acts has the same meaning as in section 3(1) of the Tax Administration Act 1994.
 
 ###### 54 Method of contracting
 
@@ -2732,7 +2888,7 @@ sion, in writing or orally, by a person acting under the express or implied auth
 
 ###### 55 Statement of intent
 
-- In fulfilling the requirements under section 41D(1) of the Pub­ lic Finance Act 1989, the Commission must, instead of includ­ ing in its statement of intent the information described in sub­ section (1)(a), (b), and (c) of that section (which is about ob­ jectives, activities, and performance targets), include the fol­ lowing information in its statement of intent:
+(1) In fulfilling the requirements under section 41D(1) of the Pub­ lic Finance Act 1989, the Commission must, instead of includ­ ing in its statement of intent the information described in sub­ section (1)(a), (b), and (c) of that section (which is about ob­ jectives, activities, and performance targets), include the fol­ lowing information in its statement of intent:
 
 (a) contextual information about the Commission, includ­ ing its functions, its current organisational structure, any notable features of its operating environment, and the likely implications of those features; and
 
@@ -2766,9 +2922,7 @@ Act 1989) links to the things referred to in paragraph (b); and
 
 (e) a general description of the manner in which the Com­ mission proposes to operate and, in particular,-
 
-(i) which other persons or bodies engaged in similar or related
-
-- work it proposes to liaise with, and how it proposes to liaise with those other persons or bodies; and
+(i) which other persons or bodies engaged in similar or related work it proposes to liaise with, and how it proposes to liaise with those other persons or bodies; and
 
 (ii) what capability it needs to do its work, and how it will develop that capability; and
 
@@ -2810,9 +2964,9 @@ Schedule 13A -continued
 
 (i) any other information material to under­ standing and assessing the information provided in the statement of intent with­ out which that information is false or misleading in a material particular.
 
-- The grouping of outputs in the statement of output objectives referred to in section 41D(1)(h) of the Public Finance Act 1989 must be done so that, in the case of outputs funded by appro­ priation, a group of outputs does not contain outputs funded from more than 1 appropriation in the Estimates.
+(2) The grouping of outputs in the statement of output objectives referred to in section 41D(1)(h) of the Public Finance Act 1989 must be done so that, in the case of outputs funded by appro­ priation, a group of outputs does not contain outputs funded from more than 1 appropriation in the Estimates.
 
-- The Minister may, in relation to the Commission, exercise his or her powers under section 41G(1) of the Public Finance Act 1989 as if that section included a reference to paragraphs (b), (f), and (g) of subsection (1); and that section applies accord­ ingly.
+(3) The Minister may, in relation to the Commission, exercise his or her powers under section 41G(1) of the Public Finance Act 1989 as if that section included a reference to paragraphs (b), (f), and (g) of subsection (1); and that section applies accord­ ingly.
 
 ###### 56 Annual report
 
@@ -2880,27 +3034,27 @@ Schedule 13A -continued
 
 ###### 58 Further delegation by member, chief executive, or committee
 
-- If the Commission has, under clause 57, delegated any func­ tion, duty, or power to a member, the chief executive, or a committee, that member, chief executive, or committee may delegate the function, duty, or power to 1 or more employees of the Commission.
+(1) If the Commission has, under clause 57, delegated any func­ tion, duty, or power to a member, the chief executive, or a committee, that member, chief executive, or committee may delegate the function, duty, or power to 1 or more employees of the Commission.
 
-- No delegation under subclause (1) may be made without the prior written approval of the Commission.
+(2) No delegation under subclause (1) may be made without the prior written approval of the Commission.
 
-- Adelegation under subclause (1) must be in writing, signed by the member, the chief executive, or at least 2 of the members of the committee, as the case may be.
+(3) A delegation under subclause (1) must be in writing, signed by the member, the chief executive, or at least 2 of the members of the committee, as the case may be.
 
 ###### 59 Delegation by chief executive of chief executive's functions, duties, or powers
 
-- The chief executive of the Commission may, either generally or specifically, delegate any of his or her functions, duties, or powers under this Act or any other Act to 1 or more employees of the Commission.
+(1) The chief executive of the Commission may, either generally or specifically, delegate any of his or her functions, duties, or powers under this Act or any other Act to 1 or more employees of the Commission.
 
-- For the avoidance of doubt, the chief executive must not dele­ gate functions, duties, or powers delegated by the Commission to the chief executive except in accordance with clause 58.
+(2) For the avoidance of doubt, the chief executive must not dele­ gate functions, duties, or powers delegated by the Commission to the chief executive except in accordance with clause 58.
 
-- If the chief executive has delegated any functions, duties, or powers to an employee of the Commission under subclause (1), the employee may delegate those functions, duties, or powers to any other employee of the Commission.
+(3) If the chief executive has delegated any functions, duties, or powers to an employee of the Commission under subclause (1), the employee may delegate those functions, duties, or powers to any other employee of the Commission.
 
-- No delegation under subclause (3) may be made without the prior written approval of the chief executive.
+(4) No delegation under subclause (3) may be made without the prior written approval of the chief executive.
 
-- Adelegation under subclause (3) must be in writing and signed by the employee.
+(5) A delegation under subclause (3) must be in writing and signed by the employee.
 
 ###### 60 Delegations to employees and to classes of employees
 
-- A delegation to an employee or employees may be to-
+(1) A delegation to an employee or employees may be to-
 
 73
 
@@ -2922,15 +3076,15 @@ Schedule 13A -continued
 
 (c) any member of a class of persons specified in the dele­ gation.
 
-- If a delegation is to a class of persons, it applies, subject to any express terms of the delegation, to the members of the class for the time being, irrespective of any change in the membership of the class.
+(2) If a delegation is to a class of persons, it applies, subject to any express terms of the delegation, to the members of the class for the time being, irrespective of any change in the membership of the class.
 
 ###### 61 Effect of delegation
 
-- Subject to the Commission's direction, or the chief executive's direction, as the case may be, a person to whom any powers are delegated may exercise those powers in the same manner and with the same effect as if they had been conferred on that person directly by this Act and not by delegation.
+(1) Subject to the Commission's direction, or the chief executive's direction, as the case may be, a person to whom any powers are delegated may exercise those powers in the same manner and with the same effect as if they had been conferred on that person directly by this Act and not by delegation.
 
-- Adelegation does not affect or prevent the performance of any function or duty, or the exercise of any power, by the delegator, or affect the responsibility of the delegator for the actions of any person acting under the delegation.
+(2) A delegation does not affect or prevent the performance of any function or duty, or the exercise of any power, by the delegator, or affect the responsibility of the delegator for the actions of any person acting under the delegation.
 
-- If a function, duty, or power of the Commission is delegated to a person, that person, for the purposes of performing or exercising the delegated function, duty, or power, must act in accordance with the Commission's duties as if he or she were a member of the Commission.
+(3) If a function, duty, or power of the Commission is delegated to a person, that person, for the purposes of performing or exercising the delegated function, duty, or power, must act in accordance with the Commission's duties as if he or she were a member of the Commission.
 
 ###### 62 Presumption of acting in accordance with delegation
 
@@ -2962,15 +3116,17 @@ Schedule 13A -continued
 
 ###### 64 Duration of delegation
 
-- Every delegation-
+(1) Every delegation-
 
 (a) is revocable at will, but the revocation does not take effect until it is communicated to the delegate; and
 
 (b) continues in force according to its terms until it is re­ voked despite any change in the membership of the Commission or in the identity of the chief executive.
 
-- The revocation of a delegation must be made or confirmed in writing.
+(2) The revocation of a delegation must be made or confirmed in writing.
 
 # Schedule 2
+
+s 37
 
 ## Consequential amendments
 
@@ -2990,8 +3146,6 @@ Omit from Schedule 2 the item that inserts the Education Training and Support Ag
 
 Repeal section 19.
 
-s 37
-
 75
 
 [[END OF PAGE 75]]
@@ -3004,37 +3158,37 @@ Education (Tertiary Reform) Amendment Act 2002
 
 2002 No 50
 
-1 -continued
+1—continued
 
 #### Government Superannuation Act 1956 (1956 No 47)
 
 Omit paragraph (cb) from the definition of controlling authority in section 2, and substitute the following paragraphs:
 
-'(cb) a contributor employed by Career Services established under Part XXII of the Education Act 1989 means the general man­ ager of that Service:
+“(cb) a contributor employed by Career Services established under Part XXII of the Education Act 1989 means the general manager of that Service:
 
-'(cc) a contributor employed by the Tertiary Education Commission established under Part 13A of the Education Act 1989 means the chief executive of the Commission:'
+“(cc) a contributor employed by the Tertiary Education Commission established under Part 13A of the Education Act 1989 means the chief executive of the Commission:”
 
 #### Modern Apprenticeship Training Act 2000 (2000 No 94)
 
 Repeal the definition of Agency in section 4.
 
-Omit from the definition of apprenticeship co­ordinator in section 4 the word 'Agency' and substitute the word 'Commission'.
+Omit from the definition of apprenticeship co­ordinator in section 4 the word “Agency” and substitute the word “Commission”.
 
 Insert in section 4, in its appropriate alphabetical order, the following definition:
 
-' Commission meansthe Tertiary Education Commission established by section 159C of the Education Act 1989.'
+“Commission means the Tertiary Education Commission established by section 159C of the Education Act 1989.”
 
-Omit from the definition of funding agreement in section 4 the word 'Agency' in both places where it appears and substitute in each case the word 'Commission'.
+Omit from the definition of funding agreement in section 4 the word “Agency” in both places where it appears and substitute in each case the word “Commission”.
 
-Omit from the heading above section 9 the word 'Agency's' and substitute the word 'Commission's'.
+Omit from the heading above section 9 the word “Agency’s” and substitute the word “Commission’s”.
 
-Omit from the heading to section 9 and section 9 the word 'Agency' in both places where it appears and substitute in each case the word 'Commission'.
+Omit from the heading to section 9 and section 9 the word “Agency” in both places where it appears and substitute in each case the word “Commission”.
 
-Omit from section 10(1) the word 'Agency' and substitute the word 'Commission'.
+Omit from section 10(1) the word “Agency” and substitute the word “Commission”.
 
-Omit from section 10(1)(a) the words 'the existence of other fund­ ing agreements, or funding agreements under the Industry Training Act 1992' and substitute the words 'the existence of other funding arrangements'.
+Omit from section 10(1)(a) the words “the existence of other funding agreements, or funding agreements under the Industry Training Act 1992” and substitute the words “the existence of other funding arrangements”.
 
-Omit from section 11 the word 'Agency' in both places where it appears and substitute in each case the word 'Commission'.
+Omit from section 11 the word “Agency” in both places where it appears and substitute in each case the word “Commission”.
 
 76
 
@@ -3048,35 +3202,37 @@ Education (Tertiary Reform) Amendment Act 2002
 
 Schedule 2
 
-1 -continued
+1—continued
 
-Omit from the heading to section 12 and section 12 the word 'Agency' in both places where it appears and substitute in each case the word 'Commission'.
+Omit from the heading to section 12 and section 12 the word “Agency” in both places where it appears and substitute in each case the word “Commission”.
 
-Omit from the heading to section 13 and section 13 the word 'Agency' wherever it appears and substitute in each case the word 'Commission'.
+Omit from the heading to section 13 and section 13 the word “Agency” wherever it appears and substitute in each case the word “Commission”.
 
-Omit from the heading to section 14 and section 14 the word 'Agency' in both places where it appears and substitute in each case the word 'Commission'.
+Omit from the heading to section 14 and section 14 the word “Agency” in both places where it appears and substitute in each case the word “Commission”.
 
-Omit from section 18(2) the word 'Agency' and substitute the word 'Commission'.
+Omit from section 18(2) the word “Agency” and substitute the word “Commission”.
 
-Omit from section 20(1) the word 'Agency' in both places where it appears and substitute in each case the word 'Commission'.
+Omit from section 20(1) the word “Agency” in both places where it appears and substitute in each case the word “Commission”.
 
-Omit from section 23 the word 'Agency' in both places where it appears and substitute in each case the word 'Commission'.
+Omit from section 23 the word “Agency” in both places where it appears and substitute in each case the word “Commission”.
 
-Omit from section 24 the word 'Agency' in both places where it appears and substitute in each case the word 'Commission'.
+Omit from section 24 the word “Agency” in both places where it appears and substitute in each case the word “Commission”.
 
-Omit from section 25 the word 'Agency' in both places where it appears and substitute in each case the word 'Commission'.
+Omit from section 25 the word “Agency” in both places where it appears and substitute in each case the word “Commission”.
 
-Omit from section 27 the word 'Agency' wherever it appears and substitute in each case the word 'Commission'.
+Omit from section 27 the word “Agency” wherever it appears and substitute in each case the word “Commission”.
 
 #### Ombudsmen Act 1975 (1975 No 9)
 
-Insert in Part II of the First Schedule, in its appropriate alphabetical order, the item 'Tertiary Education Commission.'
+Insert in Part II of the First Schedule, in its appropriate alphabetical order, the item “Tertiary Education Commission.”
 
 Omit from Part II of the First Schedule the items relating to Skill New Zealand and the Tertiary Research Board.
 
 #### Public Finance Act 1989 (1989 No 44)
 
-Insert in the Fourth, Fifth, Sixth, and Seventh Schedules, in its appro­ priate alphabetical order, the item 'Tertiary Education Commission'. Omit from the Fourth, Fifth, Sixth, and Seventh Schedules the items relating to 'Skill New Zealand and the Tertiary Research Board'.
+Insert in the Fourth, Fifth, Sixth, and Seventh Schedules, in its appropriate alphabetical order, the item “Tertiary Education Commission”.
+
+Omit from the Fourth, Fifth, Sixth, and Seventh Schedules the items relating to “Skill New Zealand and the Tertiary Research Board”.
 
 77
 
@@ -3088,10 +3244,6 @@ Education (Tertiary Reform) Amendment Act 2002
 
 2002 No 50
 
-3 December 2002
-
-5 December 2002
-
 ### 2 Regulations amended
 
 #### Education (Change of Name of Education Entities) Order 2000 (SR 2000/117)
@@ -3102,11 +3254,13 @@ Revoke clause 3(3) and so much of the Schedule as relates to Skill New Zealand.
 
 Revoke clause 2(11) and substitute:
 
-'(11) the chief executive of the Tertiary Education Commission:'
+“(11) the chief executive of the Tertiary Education Commission:”
 
 # Legislative history
 
-Divided from Tertiary Education Reform Bill (Bill 180­2) as Bill 180­3A Third reading
+3 December 2002 Divided from Tertiary Education Reform Bill (Bill 180­2) as Bill 180­3A
+
+5 December 2002 Third reading
 
 78
 
