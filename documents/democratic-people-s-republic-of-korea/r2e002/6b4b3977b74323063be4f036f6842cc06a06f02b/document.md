@@ -32,7 +32,7 @@ Resolutely prioritising education work compared to all other work is the consist
 
 ### Article 3 (Definition of common education, execution of universal compulsory twelve-year education)
 
-Common education is general education that gives the most general and foundational knowledge about nature and society. Common education includes preschool education, primary education, secondary education. The State shall thoroughly execute universal compulsory twelve-year education so that all new generations receive complete secondary common education until the period they reach working age
+Common education is general education that gives the most general and foundational knowledge about nature and society. Common education includes preschool education, primary education, secondary education. The State shall thoroughly execute universal compulsory twelve-year education so that all new generations receive complete secondary common education until
 
 https://www.lawandnorthkorea.com/lawsblog/common-education-law-2015
 
@@ -45,6 +45,8 @@ https://www.lawandnorthkorea.com/lawsblog/common-education-law-2015
 9/25/2020
 
 Common Education Law of the Democratic People's Republic of Korea (2015) - Law and North Korea
+
+the period they reach working age
 
 ### Article 4 (Principle of guaranteeing education and cultural work)
 L A W   A N D   N O R T H   K O R E A   YOUR SINGLE SOURCE OF DPRK LAWS IN ENGLISH (/)
@@ -184,7 +186,7 @@ Blind and deaf schools shall be placed in required areas according to the decisi
 
 ### Article 26 (Education administration work and improving the educational environment)
 
-General education institutions shall regularize and standardize education administration work, shall manage the educational environment in conformity with pedagogical requirements, and must frugally manage school buildings, planning, and facilities. Relevant institutions, enterprises and organizations must periodically maintain things such as school buildings, laboratories, and practical training sites. School facilities may not be used for different work that is not related to education work.
+General education institutions shall regularize and standardize education administration work, shall manage the educational environment in conformity with pedagogical requirements, and must frugally manage school buildings, planning, and facilities. Relevant institutions, enterprises and organizations must periodically maintain things such as school buildings, laboratories,
 
 https://www.lawandnorthkorea.com/lawsblog/common-education-law-2015
 
@@ -197,6 +199,8 @@ https://www.lawandnorthkorea.com/lawsblog/common-education-law-2015
 9/25/2020
 
 Common Education Law of the Democratic People's Republic of Korea (2015) - Law and North Korea
+
+and practical training sites. School facilities may not be used for different work that is not related to education work.
 
 L A W   A N D   N O R T H   K O R E A   YOUR SINGLE SOURCE OF DPRK LAWS IN ENGLISH (/)
 
@@ -397,15 +401,17 @@ L A W   A N D   N O R T H   K O R E A   YOUR SINGLE SOURCE OF DPRK LAWS IN ENGLI
 
 Sep 18 Land Lease Law of the Democratic People's Republic of Korea (2011)
 
+(/lawsblog/land-lease-law-2011)
+
 Sep 15 Central Bank Law of the Democratic People's Republic of Korea (2015)
 
-(/lawsblog/land-lease-law-2011) (/lawsblog/central-bank-law-2015)
+(/lawsblog/central-bank-law-2015)
 
 Law and North Korea is a resource by Daye Gang. Daye is a barrister at the Victorian Bar in Australia, a PhD candidate at Monash University, and a consultant with the Citizens' Alliance for North Korean Human Rights.
 
 We are an unfunded project. All donations are gratefully accepted to maintain this resource.
 
-Laws (https://www.lawandnorthkorea.com/laws)      Method & Glossary (https://www.lawandnorthkorea.com/method-andglossary)      Blog (https://www.lawandnorthkorea.com/blog)      About (https://www.lawandnorthkorea.com/about)      Contact (https://www.lawandnorthkorea.com/contact)
+Laws (https://www.lawandnorthkorea.com/laws)      Method & Glossary (https://www.lawandnorthkorea.com/method-and-glossary)      Blog (https://www.lawandnorthkorea.com/blog)      About (https://www.lawandnorthkorea.com/about)      Contact (https://www.lawandnorthkorea.com/contact)
 
 Powered by Squarespace (http://www.squarespace.com?
 
