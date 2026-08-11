@@ -12,11 +12,13 @@ An Act to amend the Education Act 2011 Certified: 12 May 2015
 
 1 SHORT TITLE .............................................................................................................................. 1 2 COMMENCEMENT ...................................................................................................................... 1 3 ACT AMENDED  ............................................................................................................................ 1 SCHEDULE - AMENDMENT OF EDUCATION ACT 2011 ................................................................1
 
-- AMENDMENT OF SECTION 109 ................................................................................................. 1
+[1] AMENDMENT OF SECTION 109 ................................................................................................. 1
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+1
 
 Enacted by the Parliament of Nauru as follows:
 
@@ -40,7 +42,7 @@ The Schedule amends the Education Act 2011 .
 
 Omit
 
-Penalty:  $100'
+Penalty: $100’
 
 Substitute
 
@@ -50,7 +52,7 @@ Penalty:  $10,000 fine or imprisonment for 1 year or both
 
 Omit
 
-Penalty:  $200'
+Penalty: $200’
 
 Substitute
 
@@ -69,26 +71,25 @@ Penalty:  $20,000 fine or imprisonment for 2 years or both
 New clause will now read:
 
 #### 109 Offences on school premises
-
-1
-
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-- In this section:
+2
 
-'school premises' means land (including a building or structure on the land) occupied by a school.
+(1) In this section:
 
-- A person must not trespass on school premises.
+‘school premises’ means land (including a building or structure on the land) occupied by a school.
+
+(2) A person must not trespass on school premises.
 
 Penalty:  $10,000 fine or imprisonment for 1 year or both.
 
-- A person who is not a student of the school commits an offence if the  person  behaves  in  an  offensive  or  disorderly  way  on  school premises.
+(3) A person who is not a student of the school commits an offence if the person behaves in an offensive or disorderly way on school premises.
 
 Penalty:  $20,000 fine or imprisonment for 2 years or both.
 
-- A person commits an offence if the person:
+(4) A person commits an offence if the person:
 
 (a)  is on school premises; and
 
@@ -98,8 +99,6 @@ Penalty:  $20,000 fine or imprisonment for 2 years or both.
 
 Penalty:  $20,000 fine or imprisonment for 2 years or both.
 
-- An offence against this section is a strict liability offence.
-
-2
+(5) An offence against this section is a strict liability offence.
 
 [[END OF PAGE 3]]
