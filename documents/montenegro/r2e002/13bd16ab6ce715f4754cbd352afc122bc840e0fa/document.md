@@ -2,7 +2,7 @@
 
 # ZAKON O OSNOVNOM OBRAZOVANJU I VASPITANJU
 
-('Sl. list RCG', br 64/2002, 49/2007, 'Sl. list CG', br. 45/2010, 40/2011 - dr. zakon i 39/2013)
+(„Sl. list RCG“, br 64/2002, 49/2007, „Sl. list CG“, br. 45/2010, 40/2011 – dr. zakon i 39/2013)
 
 ## I OSNOVNE ODREDBE
 ### Sadržaj zakona Član 1
@@ -11,9 +11,21 @@ Osnovno obrazovanje i vaspitanje, kao dio jedinstvenog obrazovnog sistema, ostva
 
 ### Ciljevi obrazovanja Član 2
 
-- Ciljevi osnovnog obrazovanja i vaspitanja su: 1) obezbjeđivanje osnovnog obrazovanja svim građanima; 2) razvoj kreativnih ličnosti; 3) postizanje međunarodno uporedivih standarda znanja i sticanja znanja za nastavak školovanja; 4) razvijanje kritičkog mišljenja, samostalnosti i zainteresovanosti za nova znanja; 5) osposobljavanje za samostalno rasuđivanje i učešće u društvenom životu; 6) sticanje opštih znanja koja omogućavaju samostalnu, efikasnu i kreativnu primjenu u praksi; 7) omogućavanje razvoja ličnosti učenika, u skladu sa njegovim sposobnostima i zakonitostima razvoja; 8) vaspitavanje za poštovanje nacionalnih vrijednosti istorije i kulture, kao i za uvažavanje kulturnih i ostalih osobenosti drugih naroda; 9) vaspitavanje za međusobnu toleranciju, poštovanje različitosti, saradnju sa drugima, poštovanje prava čovjeka i osnovnih sloboda, a time i razvijanje sposobnosti za život u demokratskom društvu; 10) usvajanje znanja o osnovnim zakonitostima razvoja prirode i društva i očuvanja zdravlja; 11) razvijanje demokratskih stavova, tolerancije i kooperacije (u školi i izvan nje) i poštovanja prava drugih; 12) formiranje i podsticanje zdravog načina života i odgovornog odnosa prema životnoj sredini. 13) razvijanje radnih sposobnosti učenika: marljivost, strpljenje, red, rad i disciplina;
-
-- razvijanje profesionalne orijentacije kod učenika.
+Ciljevi osnovnog obrazovanja i vaspitanja su:
+1) obezbjeđivanje osnovnog obrazovanja svim građanima;
+2) razvoj kreativnih ličnosti;
+3) postizanje međunarodno uporedivih standarda znanja i sticanja znanja za nastavak školovanja;
+4) razvijanje kritičkog mišljenja, samostalnosti i zainteresovanosti za nova znanja;
+5) osposobljavanje za samostalno rasuđivanje i učešće u društvenom životu;
+6) sticanje opštih znanja koja omogućavaju samostalnu, efikasnu i kreativnu primjenu u praksi;
+7) omogućavanje razvoja ličnosti učenika, u skladu sa njegovim sposobnostima i zakonitostima razvoja;
+8) vaspitavanje za poštovanje nacionalnih vrijednosti istorije i kulture, kao i za uvažavanje kulturnih i ostalih osobenosti drugih naroda;
+9) vaspitavanje za međusobnu toleranciju, poštovanje različitosti, saradnju sa drugima, poštovanje prava čovjeka i osnovnih sloboda, a time i razvijanje sposobnosti za život u demokratskom društvu;
+10) usvajanje znanja o osnovnim zakonitostima razvoja prirode i društva i očuvanja zdravlja;
+11) razvijanje demokratskih stavova, tolerancije i kooperacije (u školi i izvan nje) i poštovanja prava drugih;
+12) formiranje i podsticanje zdravog načina života i odgovornog odnosa prema životnoj sredini.
+13) razvijanje radnih sposobnosti učenika: marljivost, strpljenje, red, rad i disciplina;
+14) razvijanje profesionalne orijentacije kod učenika.
 
 [[END OF PAGE 1]]
 
@@ -60,8 +72,7 @@ Obrazovanje nadarenih učenika izvodi se u skladu sa ovim zakonom, tako da im š
 ### Pojmovnik Član 11
 
 Pojedini izrazi u ovom zakonu imaju sljedeće značenje: - djeca sa posebnim obrazovnim potrebama" su djeca sa smetnjama u razvoju (sa tjelesnom, mentalnom, senzornom smetnjom i s kombinovanim smetnjama) i djeca sa teškoćama u razvoju (djeca sa poremećajima u ponašanju; teškim hroničnim oboljenjima; dugotrajno bolesna djeca i druga djeca koja imaju poteškoće u učenju i druge teškoće uzrokovane emocionalnim, socijalnim, jezičkim i kulturološkim preprekama); - "ciklus" obuhvata period u kojem se stiče obrazovanje u toku tri razreda, i to: - prvi ciklus - prvi, drugi i treći razred; - drugi ciklus - četvrti, peti i šesti razred; - treći ciklus - sedmi, osmi i deveti razred; - "nastavna godina" je period u kojem se izvodi redovna nastava; - "školska godina" je period u kojem se ostvaruje redovna nastava i ostali oblici obrazovno-vaspitnog rada; - "osnovnoškolska obaveza" podrazumijeva obavezu djece uzrasta od šest do 15 godina života da pohađaju osnovnu školu po javno važećem obrazovnom programu; - "klasifikacioni period" je dio polugodišta (nastavne godine) u kojem se realizuje nastavni plan i program i mjere postignuća učenika; - "norma časova nastavnika" podrazumijeva neposredno izvođenja nastave u okviru nedeljnog radnog
-
-- vremena propisanog obrazovnim programom.
+vremena propisanog obrazovnim programom.
 
 [[END OF PAGE 3]]
 
@@ -151,10 +162,9 @@ Učenici u školi izučavaju strane jezike: engleski, ruski, italijanski, francu
 
 U toku radne nedjelje učenici škole po obaveznom programu imaju sljedeći broj časova: - prvi ciklus najviše 20 časova, s tim što se broj časova povećava od I do III razreda; - drugi ciklus najviše 27 časova, s tim što se broj časova povećava od IV do VI razreda; - treći ciklus najviše 30,5 časova, s tim što se broj časova povećava od VII do IX razreda. U školama u kojima se crnogorski jezik izučava kao nematernji jezik norma časova se uvećava za dva časa. Školski čas, po pravilu, traje 45 minuta. Obrazovnim programom, u zavisnosti od uzrasta učenika i realizacije nastavnih ciljeva, određuje se broj časova i dužina trajanja školskog časa.
 
-### Obrazovanje u inostranstvu
-
 ### Čl. 27 i 28
 (brisano)
+### Obrazovanje u inostranstvu
 ### Član 29
 
 Za djecu građana Crne Gore koji su na privremenom boravku u inostranstvu može se obezbijediti dopunsko osnovno obrazovanje i vaspitanje po posebnom nastavnom planu i programu.
@@ -165,15 +175,14 @@ Za djecu građana Crne Gore koji su na privremenom boravku u inostranstvu može 
 
 [[START OF PAGE 8]]
 
-Obrazovno-vaspitni rad, u smislu člana 29 ovog zakona, može da izvodi nastavnik koji, pored uslova utvrđenih ovim zakonom, ima najmanje četiri godine radnog iskustva u struci, ističe se u stručnopedagoškom radu i poznaje jezik zemlje u kojoj će obavljati obrazovno-vaspitni rad. Odluku o upućivanju nastavnika na rad u inostranstvo donosi ministar. Nastavnik se upućuje na rad u inostranstvo na vrijeme od dvije godine. Ministar može donijeti odluku o prestanku rada nastavnika u inostranstvu, kada utvrdi:
-
-- da ne ostvaruje obrazovni program iz člana 29 ovog zakona;
-
-- da je izvršio težu povredu radne dužnosti;
-
-- da je izvršio zloupotrebu položaja;
-
-- u drugim slučajevima utvrđenim zakonom.
+Obrazovno-vaspitni rad, u smislu člana 29 ovog zakona, može da izvodi nastavnik koji, pored uslova utvrđenih ovim zakonom, ima najmanje četiri godine radnog iskustva u struci, ističe se u stručno-pedagoškom radu i poznaje jezik zemlje u kojoj će obavljati obrazovno-vaspitni rad.
+Odluku o upućivanju nastavnika na rad u inostranstvo donosi ministar.
+Nastavnik se upućuje na rad u inostranstvo na vrijeme od dvije godine.
+Ministar može donijeti odluku o prestanku rada nastavnika u inostranstvu, kada utvrdi:
+1) da ne ostvaruje obrazovni program iz člana 29 ovog zakona;
+2) da je izvršio težu povredu radne dužnosti;
+3) da je izvršio zloupotrebu položaja;
+4) u drugim slučajevima utvrđenim zakonom.
 
 Međusobna prava i obaveze između Ministarstva i nastavnika upućenog na rad u inostranstvo bliže se utvrđuju ugovorom o radu.
 
