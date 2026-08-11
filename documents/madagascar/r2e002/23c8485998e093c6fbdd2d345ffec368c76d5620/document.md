@@ -66,14 +66,21 @@ A ce titre, ils en assurent l'appui et le contrôle.
 #### Section 4 Pouvoirs et Compétences des Partenaires
 
 ##### Art. 11 :
-L'Etat adopte comme règle dans l'exécution de sa politique d'éducation et de formation, le Partenariat Public - Privé. En conséquence, est reconnu le rôle de partenaire à part entière, aux organismes publics et privés, aux associations intéressées à la promotion et au développement du système d'éducation, d'enseignement et de formation, notamment : - les familles, les organismes familiaux et communautaires ; - les établissements d'enseignement privé ; - les organisations non gouvernementales et les autres associations volontaires ; - les institutions de recherche et les opérateurs économiques. Les modes de relation entre le Ministère chargé de l'Education, de l'Enseignement et de la Formation et les différents partenaires sont définis par voie réglementaire.
-##### Art. 12 :
-Tous les partenaires privés agréés, dans les domaines de l'enseignement, l'éducation et la formation, participent aux missions du Ministère chargé de l'Education, de l'Enseignement et de la Formation. Dans le cadre d'une convention suivie d'un contrat de résultat, ils exécutent des tâches précises conformes à la politique nationale d'éducation.
+L'Etat adopte comme règle dans l'exécution de sa politique d'éducation et de formation, le Partenariat
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
+Public - Privé. En conséquence, est reconnu le rôle de partenaire à part entière, aux organismes publics et privés, aux associations intéressées à la promotion et au développement du système d'éducation, d'enseignement et de formation, notamment :
+- les familles, les organismes familiaux et communautaires ;
+- les établissements d'enseignement privé ;
+- les organisations non gouvernementales et les autres associations volontaires ;
+- les institutions de recherche et les opérateurs économiques.
+Les modes de relation entre le Ministère chargé de l'Education, de l'Enseignement et de la Formation et les différents partenaires sont définis par voie réglementaire.
+##### Art. 12 :
+Tous les partenaires privés agréés, dans les domaines de l'enseignement, l'éducation et la formation, participent aux missions du Ministère chargé de l'Education, de l'Enseignement et de la Formation.
+Dans le cadre d'une convention suivie d'un contrat de résultat, ils exécutent des tâches précises conformes à la politique nationale d'éducation.
 Les conditions d'attribution ou de retrait de l'agrément sont fixées par voie réglementaire.
 
 #### Section 5 Des fonctions de l'école et des établissements d'enseignement et de formation
@@ -100,17 +107,18 @@ L'élève/apprenant est au centre de l'action éducative et des activités de fo
 ##### Art. 18 :
 L'élève/apprenant a droit à une information diversifiée et complète sur tout ce qui a trait à l'orientation scolaire et universitaire afin qu'il puisse choisir en connaissance de cause et avec conviction son parcours scolaire et professionnel.
 ##### Art. 19 :
-Le personnel de l'éducation et de la formation doit, en s'acquittant de leurs devoirs professionnels, se conformer aux principes d'équité et d'égalité des chances et établir avec les élèves des rapports fondés sur l'honnêteté, l'objectivité et le respect de la personne de l'enfant et du jeune et de leurs droits.
-##### Art. 20 :
-Il est du devoir de l'élève/apprenant de respecter l'enseignant/formateur et tous les membres de la communauté éducative et de s'astreindre aux exigences imposées par le respect dû à l'établissement d'éducation et de formation.
-##### Art. 21 :
-L'organisation de la vie scolaire, de formation et estudiantine est fixée par arrêté du Ministre chargé de l'Education, de l'Enseignement et de la Formation. Le régime disciplinaire des établissements d'enseignement et de formation est fixé par arrêté du Ministre chargé
+Le personnel de l'éducation et de la formation doit, en s'acquittant de leurs devoirs professionnels, se conformer aux principes d'équité et d'égalité des chances et établir avec les élèves des rapports fondés sur
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
-de l'Education, de l'Enseignement et de la Formation.
+l'honnêteté, l'objectivité et le respect de la personne de l'enfant et du jeune et de leurs droits.
+##### Art. 20 :
+Il est du devoir de l'élève/apprenant de respecter l'enseignant/formateur et tous les membres de la communauté éducative et de s'astreindre aux exigences imposées par le respect dû à l'établissement d'éducation et de formation.
+##### Art. 21 :
+L'organisation de la vie scolaire, de formation et estudiantine est fixée par arrêté du Ministre chargé de l'Education, de l'Enseignement et de la Formation.
+Le régime disciplinaire des établissements d'enseignement et de formation est fixé par arrêté du Ministre chargé de l'Education, de l'Enseignement et de la Formation.
 
 ## TITRE II DE L'ORGANISATION DU SYSTEME D' EDUCATION,
 
@@ -185,7 +193,7 @@ L'éducation à la citoyenneté et au civisme a pour composantes : - l'éducatio
 ##### Art. 37 :
 L'éducation à la citoyenneté et au civisme a pour objectifs : - d'informer, de former et d'encadrer tout citoyen sur ses droits et ses devoirs comme membre d'une famille, d'un village ou d'un quartier, d'une Collectivité Territoriale, d'une nation ; - de développer la conscience et le respect des droits et des libertés de l'homme, la pratique de la démocratie et la fierté de l'identité nationale ; - de former le citoyen à la sauvegarde et à l'extension de l'environnement et du patrimoine national, tant culturel, matériel qu'immatériel ; - de compléter et de parfaire ses compétences et ses capacités pour en faire un citoyen poli, honnête, éclairé, responsable et actif. L'éducation à la citoyenneté et au civisme s'adresse à toutes les personnes de tous âges.
 
-- L'Office National de l'Education de Masse et du Civisme en est le fer de lance.
+L'Office National de l'Education de Masse et du Civisme en est le fer de lance.
 
 [[END OF PAGE 8]]
 
@@ -237,11 +245,13 @@ L'éducation fondamentale dispensée sur dix ans a pour objectifs spécifiques :
 La fin du cycle de l'éducation fondamentale du 1er cycle est sanctionnée par un Certificat. La fin du cycle de l'éducation fondamentale du second cycle est sanctionnée par un Brevet.
 
 ##### Art. 44 :
-L'organisation de l'éducation fondamentale, la répartition des cours, les programmes et les méthodes d'enseignement, le suivi et l'évaluation de toutes les activités éducatives, le calendrier scolaire, sont définis par voie réglementaire.
+L'organisation de l'éducation fondamentale, la répartition des cours, les programmes et les méthodes d'enseignement, le suivi et l'évaluation de toutes les activités éducatives, le calendrier scolaire, sont définis par
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
+voie réglementaire.
 
 #### Section 2 L'enseignement secondaire
 
@@ -250,32 +260,41 @@ L'enseignement secondaire est ouvert aux élèves ayant terminé les cycles fond
 ##### Art. 46 :
 L'enseignement secondaire est d'une durée de deux ans. Il vise à doter l'élève, en plus d'une culture générale solide, d'une formation approfondie qui lui donne la possibilité de poursuivre ses études dans le cycle universitaire soit d'intégrer la formation professionnelle, soit de rentrer dans la vie active.
 ##### Art. 47 :
-Le baccalauréat est l'examen de fin d'études du secondaire, il permet la poursuite des études dans l'enseignement supérieur. du secondaire, l'organisation de l'action éducative qui y est menée, ainsi que l'évaluation par le baccalauréat,
-
-La fréquentation du secondaire est certifiée par une attestation faisant état du niveau atteint. Le régime général sont définis par voie réglementaire.
+Le baccalauréat est l'examen de fin d'études du secondaire, il permet la poursuite des études dans l'enseignement supérieur.
+La fréquentation du secondaire est certifiée par une attestation faisant état du niveau atteint. Le régime général du secondaire, l'organisation de l'action éducative qui y est menée, ainsi que l'évaluation par le baccalauréat, sont définis par voie réglementaire.
 
 #### Section 3 La Formation Technique et Professionnelle
 
 ##### Art. 48 :
-La Formation Technique et Professionnelle a pour mission de former les jeunes et adultes, selon les besoins réels et évolutifs de l'économie. Elle contribue au développement socio-culturel et économique de la famille, de la région et de la nation. L'économie de marché, le partenariat, l'autonomie, la cohérence et l'excellence technique et professionnelle déterminent les principes généraux de l'organisation et du fonctionnement du dispositif de la Formation Technique et Professionnelle. en association : - de favoriser sa promotion sociale pour l'accès aux différents niveaux de cultures professionnelles et de qualifications par le développement de l'Apprentissage des Métiers de Base (AMB) ; - d'acquérir des compétences de base techniques, technologiques et des compétences spécifiques liées à une filière professionnelle dans une formation initiale ; la formation initiale permet soit de s'insérer sur le marché du par les dispositions légales et réglementaires en vigueur ; - de se perfectionner, de s'adapter à l'évolution et au changement des techniques, des technologies aux
-
+La Formation Technique et Professionnelle a pour mission de former les jeunes et adultes, selon les besoins réels et évolutifs de l'économie. Elle contribue au développement socio-culturel et économique de la famille, de la région et de la nation.
+L'économie de marché, le partenariat, l'autonomie, la cohérence et l'excellence technique et professionnelle déterminent les principes généraux de l'organisation et du fonctionnement du dispositif de la Formation Technique et Professionnelle.
 ##### Art. 49 :
-La formation technique et professionnelle permet à toute personne, jeune ou adulte, individuellement ou travail, soit de poursuivre dans la formation professionnalisante correspondant à toute catégorie d'emploi définie conditions de travail en vue d'une reconversion ou d'un pré emploi par l'intermédiaire de la formation continue.
+La formation technique et professionnelle permet à toute personne, jeune ou adulte, individuellement ou en association :
+- de favoriser sa promotion sociale pour l'accès aux différents niveaux de cultures professionnelles et de qualifications par le développement de l'Apprentissage des Métiers de Base (AMB) ;
+- d'acquérir des compétences de base techniques, technologiques et des compétences spécifiques liées à une filière professionnelle dans une formation initiale ; la formation initiale permet soit de s'insérer sur le marché du travail, soit de poursuivre dans la formation professionnalisante correspondant à toute catégorie d'emploi définie par les dispositions légales et réglementaires en vigueur ;
+- de se perfectionner, de s'adapter à l'évolution et au changement des techniques, des technologies aux conditions de travail en vue d'une reconversion ou d'un pré emploi par l'intermédiaire de la formation continue.
 ##### Art. 50 :
-Le sous secteur de la Formation Technique et Professionnelle met en place une structure adéquate en matière de : - Conseil et de concertation pour toute question de stratégies et de politiques relatives au développement de la Formation Technique et Professionnelle ; - Elaboration, actualisation, évaluation des curricula conformément à la prévision de la demande sociale et économique ; - Orientation pédagogique et professionnelle et suivi post formation.
-##### Art. 51 :
-La structure, la mission, les attributions des centres, établissements, instituts et des groupements d'établissements de formation technique et professionnelle publics et privés ainsi que le recrutement, le régime et l'organisation généraux des examens et concours sont définis par voie réglementaire. La fréquentation des centres et établissements de formation technique et professionnelle est certifiée par une attestation faisant état du niveau atteint. L'équivalence des titres délivrés par les centres et les établissements de formation technique et professionnelle est définie par voie réglementaire.
+Le sous secteur de la Formation Technique et Professionnelle met en place une structure adéquate en
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+
+matière de :
+- Conseil et de concertation pour toute question de stratégies et de politiques relatives au développement de la Formation Technique et Professionnelle ;
+- Elaboration, actualisation, évaluation des curricula conformément à la prévision de la demande sociale et économique ;
+- Orientation pédagogique et professionnelle et suivi post formation.
+##### Art. 51 :
+La structure, la mission, les attributions des centres, établissements, instituts et des groupements d'établissements de formation technique et professionnelle publics et privés ainsi que le recrutement, le régime et l'organisation généraux des examens et concours sont définis par voie réglementaire.
+La fréquentation des centres et établissements de formation technique et professionnelle est certifiée par une attestation faisant état du niveau atteint.
+L'équivalence des titres délivrés par les centres et les établissements de formation technique et professionnelle est définie par voie réglementaire.
 
 #### Section 4 De l'enseignement Supérieur et des Recherches Scientifiques
 
 ##### Art. 52 :
 Pour un développement rapide et durable, le pays doit se doter d'un enseignement supérieur moderne, appuyé et alimenté par une recherche performante.
 ##### Art. 53 :
-Des structures sont mises en place pour : - anticiper le développement dans tous les secteurs de la vie nationale ; ?- identifier les besoins du pays en ressources humaines ; - déterminer les formations et les recherches pertinentes ; - assurer la relève au niveau des enseignants chercheurs. Elles sont définies par voie réglementaire.
+Des structures sont mises en place pour : - anticiper le développement dans tous les secteurs de la vie nationale ; - identifier les besoins du pays en ressources humaines ; - déterminer les formations et les recherches pertinentes ; - assurer la relève au niveau des enseignants chercheurs. Elles sont définies par voie réglementaire.
 ##### Art. 54 :
 Un processus contractuel entre les institutions d'enseignement supérieur et de recherches et les opérateurs du secteur privé est établi afin de répondre aux besoins du marché de travail et de l'économie.
 ##### Art. 55 :
@@ -302,13 +321,13 @@ Les établissements éducatifs privés sont soumis à l'inspection pédagogique,
 ##### Art. 61 :
 En cas de manquement à l'une des obligations énoncées dans ce chapitre ou de non-respect des bonnes mœurs et des règles d'hygiène et de la sécurité dans l'établissement éducatif, le propriétaire se voit retirer, après son audition, l'autorisation citée à l'article 56 de la présente loi sans préjudice des sanctions prévues par la législation en vigueur.
 ##### Art. 62 :
-En cas de retrait de l'autorisation prévue à l'article 61, l'autorité de tutelle peut, si l'intérêt des enfants ou
-
-des élèves l'exige, demander au juge des référés territorialement compétent de nommer un gérant parmi les membres du personnel éducatif, sur proposition de l'autorité de tutelle, qui dirige l'établissement pendant une période déterminée ne dépassant pas l'année suivante.
+En cas de retrait de l'autorisation prévue à l'article 61, l'autorité de tutelle peut, si l'intérêt des enfants ou des élèves l'exige, demander au juge des référés territorialement compétent de nommer un gérant parmi les
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+membres du personnel éducatif, sur proposition de l'autorité de tutelle, qui dirige l'établissement pendant une période déterminée ne dépassant pas l'année suivante.
 
 La fermeture totale ou partielle momentanée ou définitive d'un établissement ne peut se faire sans l'accord du Ministre de tutelle.
 
