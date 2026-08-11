@@ -34,6 +34,8 @@ Document Generated: 2018-08-26
 
 Changes to legislation: There are currently no known outstanding effects for the Standards in Scotland's Schools etc. Act 2000. (See end of Document for details)
 
+## [ F1 Health promotion
+
 ###### Annotations:
 
 ###### Amendments (Textual)
@@ -77,8 +79,6 @@ are health-promoting.
 (b) an environment and facilities,
 
 which promote the physical, social, mental and emotional health and well-being of pupils in attendance at the school or residing in the hostel. ]
-
-## [ F1 Health promotion
 
 [[END OF PAGE 2]]
 
@@ -412,11 +412,11 @@ Standards in Scotland's Schools etc. Act 2000 asp 6
 
 Document Generated: 2018-08-26
 
-Standards in Scotland's Schools etc. Act 2000. (See end of Document for details)
-
 9
 
 Changes to legislation: There are currently no known outstanding effects for the
+
+Standards in Scotland's Schools etc. Act 2000. (See end of Document for details)
 
 ###### Annotations:
 ###### Amendments (Textual)
@@ -834,15 +834,51 @@ Changes to legislation: There are currently no known outstanding effects for the
 
 17
 
-(ii) at a nursery school, or other establishment, by a person other than an education authority, in pursuance of arrangements entered into under section 35 of this Act, cannot be justified in any proceedings on the ground that it was so given in pursuance of a right exercisable by virtue of having a position as a member of staff. (2) Subsection (1) above applies to corporal punishment given at any time and whether or not given at the place where education is provided. (3) Subject  to  subsection  (4)  below,  references  in  this  section  to  giving  corporal punishment are references to doing anything for the purposes of punishing the pupil concerned (whether or not there are other reasons for doing it) which, apart from any justification, would constitute physical assault upon that pupil. (4) Corporal punishment shall not be taken to be given to a pupil by virtue of anything done for reasons which include averting(a) an immediate danger of personal injury to; or (b) an immediate danger to the property of, any person (including the pupil concerned). (5) In subsection (1) above, 'member of staff', in relation to the pupil concerned, means(a) any  person  who  works  as  a  teacher  at  the  school  or  other  place  at  which education is provided for the pupil; or (b) any other person who (whether in connection with the provision of education for the pupil or otherwise)(i) works at that school or place; or (ii) otherwise provides services there (whether or not for payment), and has lawful control or charge of the pupil. (6) Section  48A  of  the  1980  Act  (which  makes  provision  with  regard  to  corporal
+(ii) at a nursery school, or other establishment, by a person other than an education authority, in pursuance of arrangements entered into under section 35 of this Act,
 
-- punishment in schools etc.) is repealed.
+cannot be justified in any proceedings on the ground that it was so given in pursuance of a right exercisable by virtue of having a position as a member of staff.
+
+(2) Subsection (1) above applies to corporal punishment given at any time and whether or not given at the place where education is provided.
+
+(3) Subject to subsection (4) below, references in this section to giving corporal punishment are references to doing anything for the purposes of punishing the pupil concerned (whether or not there are other reasons for doing it) which, apart from any justification, would constitute physical assault upon that pupil.
+
+(4) Corporal punishment shall not be taken to be given to a pupil by virtue of anything done for reasons which include averting—
+
+(a) an immediate danger of personal injury to; or
+
+(b) an immediate danger to the property of,
+
+any person (including the pupil concerned).
+
+(5) In subsection (1) above, 'member of staff', in relation to the pupil concerned, means—
+
+(a) any person who works as a teacher at the school or other place at which education is provided for the pupil; or
+
+(b) any other person who (whether in connection with the provision of education for the pupil or otherwise)—
+
+(i) works at that school or place; or
+
+(ii) otherwise provides services there (whether or not for payment), and
+
+has lawful control or charge of the pupil.
+
+(6) Section 48A of the 1980 Act (which makes provision with regard to corporal punishment in schools etc.) is repealed.
 
 ## Ending of self-governing status of schools
 
 ### 17 Ending of self-governing status of school
 
-- The Scottish Ministers may by order provide that, on such date as may be specified in the order, a self-governing school so specified shall cease to be under the management of its board of management and that it shall, in consequence, cease to be a school which is a self-governing school; and the board shall, on that date, cease to exist. (2) On and after that date, the education authority in whose area the school is situated shall manage the school. (3) On that date(a) all(i) land and other property (including corporeal and incorporeal moveable property); and (ii) rights and obligations,
+(1) The Scottish Ministers may by order provide that, on such date as may be specified in the order, a self-governing school so specified shall cease to be under the management of its board of management and that it shall, in consequence, cease to be a school which is a self-governing school; and the board shall, on that date, cease to exist.
+
+(2) On and after that date, the education authority in whose area the school is situated shall manage the school.
+
+(3) On that date—
+
+(a) all—
+
+(i) land and other property (including corporeal and incorporeal moveable property); and
+
+(ii) rights and obligations,
 
 which immediately before that date were vested in that board shall transfer to and vest in that authority; and
 
@@ -896,7 +932,7 @@ the Scottish Ministers may, after consultation with the education authority, req
 
 ### 19 Transfer of staff of self-governing school
 
-- This subsection and subsections (2) to (4) below apply to any person who, immediately before the date specified in an order under section 17 of this Act as respects a selfgoverning school, is employed by the board of management of the school.
+- This subsection and subsections (2) to (4) below apply to any person who, immediately before the date specified in an order under section 17 of this Act as respects a self-governing school, is employed by the board of management of the school.
 
 [[END OF PAGE 18]]
 
@@ -1160,9 +1196,7 @@ and  education  authorities  shall,  in  discharging  those  functions  and  exe
 
 ###### Amendments (Textual)
 
-Words in s. 34(a) inserted (28.6.2014) by Children and Young People (Scotland) Act 2014 (asp 8), s.
-
-- F24 102(3), Sch. 5 para. 7(a) ; S.S.I. 2014/131, art. 2(1)
+F24 Words in s. 34(a) inserted (28.6.2014) by Children and Young People (Scotland) Act 2014 (asp 8), s. 102(3), Sch. 5 para. 7(a); S.S.I. 2014/131, art. 2(1)
 
 - F25 Words in s. 34(b) substituted (28.6.2014) by Children and Young People (Scotland) Act 2014 (asp 8), s. 102(3), Sch. 5 para. 7(b) ; S.S.I. 2014/131, art. 2(1)
 
@@ -1238,9 +1272,7 @@ Standards in Scotland's Schools etc. Act 2000. (See end of Document for details)
 
 authority shall, if the school education normally provided in such a class is suited to the ability and aptitude of the child, admit the child to such a class.
 
-(2) Subsection (1) above is without prejudice to any other power or duty of the education
-
-- authority.
+(2) Subsection (1) above is without prejudice to any other power or duty of the education authority.
 
 ### 39 Repeal of Part II of Education (Scotland) Act 1996
 
@@ -1254,9 +1286,31 @@ For section 14 of the 1980 Act there shall be substituted-
 
 #### ' 14 Education for children unable to attend school etc.
 
-(1) If an education authority are satisfied that, by reason of(a) any extraordinary circumstances (not being circumstances mentioned in paragraph (b), or subsection (2) or (3), below)(i) a pupil is unable; or (ii) it would be unreasonable to expect a pupil, to  attend  a  suitable  educational  establishment  for  the  purpose  of receiving education, they may; (b) a pupil's prolonged ill-health(i) the pupil is unable; or (ii) it would be unreasonable to expect the pupil, to attend such an establishment for that purpose, they shall, without undue delay after those circumstances become apparent to them, make special arrangements for the pupil to receive education elsewhere than at an educational establishment. (2) If an education authority have, under section 34(1) of this Act, granted a pupil exemption from the obligation to attend school, the exemption being to enable the pupil to give assistance at home in circumstances arising out of the illness or infirmity of a member of the pupil's family, they shall in so far as is practicable and without undue delay make such special arrangements as are mentioned in subsection (1) above. (3) If a pupil withdraws, excluded by the education authority (or with the consent of the authority in circumstances where he would have been so excluded but for his withdrawal), from a public school in their area they shall, without undue delay(a) provide school education for him in a school managed by them;
+(1) If an education authority are satisfied that, by reason of—
 
-(b) make arrangements  for  him  to  receive  such  education  in  any  other school the managers of which are willing to receive him; or
+(a) any extraordinary circumstances (not being circumstances mentioned in paragraph (b), or subsection (2) or (3), below)—
+
+(i) a pupil is unable; or
+
+(ii) it would be unreasonable to expect a pupil,
+
+to attend a suitable educational establishment for the purpose of receiving education, they may;
+
+(b) a pupil's prolonged ill-health—
+
+(i) the pupil is unable; or
+
+(ii) it would be unreasonable to expect the pupil,
+
+to attend such an establishment for that purpose, they shall, without undue delay after those circumstances become apparent to them, make special arrangements for the pupil to receive education elsewhere than at an educational establishment.
+
+(2) If an education authority have, under section 34(1) of this Act, granted a pupil exemption from the obligation to attend school, the exemption being to enable the pupil to give assistance at home in circumstances arising out of the illness or infirmity of a member of the pupil's family, they shall in so far as is practicable and without undue delay make such special arrangements as are mentioned in subsection (1) above.
+
+(3) If a pupil withdraws, excluded by the education authority (or with the consent of the authority in circumstances where he would have been so excluded but for his withdrawal), from a public school in their area they shall, without undue delay—
+
+(a) provide school education for him in a school managed by them;
+
+(b) make arrangements for him to receive such education in any other school the managers of which are willing to receive him; or
 
 (c) make such special arrangements as are mentioned in subsection (1) above.'.
 
@@ -1286,19 +1340,19 @@ A pupil with legal capacity in terms of subsections (4A) and (4B) of section 2 o
 
 ### 42 Grants in respect of activities relating to school education
 
-- The Scottish Ministers may make grants to persons who, to any extent, undertake, or engage in, activities relating to school education (or propose to undertake or engage in such activities).
+(1) The Scottish Ministers may make grants to persons who, to any extent, undertake, or engage in, activities relating to school education (or propose to undertake or engage in such activities).
 
-- The Scottish Ministers may make the payment of a grant in pursuance of subsection (1) above subject to such conditions and requirements (including a requirement that the whole or any part of a grant be repaid) as they think fit.
+(2) The Scottish Ministers may make the payment of a grant in pursuance of subsection (1) above subject to such conditions and requirements (including a requirement that the whole or any part of a grant be repaid) as they think fit.
 
 ## Placing requests
 
 ### 43 Placing requests: extent of education authority's duty
 
-- The 1980 Act shall be amended in accordance with this section.
+(1) The 1980 Act shall be amended in accordance with this section.
 
-- In section 28A(1) (which relates to the duty to comply with a placing request), after 'school', where it secondly occurs, there shall be inserted ' (other than a nursery school or a nursery class in a school) '.
+(2) In section 28A(1) (which relates to the duty to comply with a placing request), after 'school', where it secondly occurs, there shall be inserted ' (other than a nursery school or a nursery class in a school) '.
 
-- In section 28C (which relates to the reference to an appeal committee of a refusal of a placing request), subsection (2) is repealed.
+(3) In section 28C (which relates to the reference to an appeal committee of a refusal of a placing request), subsection (2) is repealed.
 
 F26
 
@@ -1312,11 +1366,11 @@ F26 S. 43(4) repealed (14.11.2005) by Education (Additional Support for Learning
 
 ### 44 Further provision as respects placing requests
 
-- Section 28A of the 1980 Act shall be further amended in accordance with this section.
+(1) Section 28A of the 1980 Act shall be further amended in accordance with this section.
 
-- In subsection (1), after the words 'parent of a child' there shall be inserted ' of school age '.
+(2) In subsection (1), after the words 'parent of a child' there shall be inserted ' of school age '.
 
-- After subsection (1) there shall be inserted-
+(3) After subsection (1) there shall be inserted—
 
 [[END OF PAGE 26]]
 
@@ -1330,23 +1384,23 @@ Changes to legislation: There are currently no known outstanding effects for the
 
 27
 
-'(1A) The education authorities shall-
+'(1A) The education authorities shall—
 
 (a) in carrying out the duty imposed on them by subsection (1) above; and
 
 (b) in deciding when that duty does not apply,
 
-have  regard  to  such  guidance  as  the  Scottish  Ministers  may  give  in  that respect.'.
+have regard to such guidance as the Scottish Ministers may give in that respect.'.
 
-- In subsection (3)(a) (which sets out certain exceptions to the duty of an education authority to accede to a parent's request that a child be placed in a specified school under their management), after sub-paragraph (v) there shall be added-
+(4) In subsection (3)(a) (which sets out certain exceptions to the duty of an education authority to accede to a parent's request that a child be placed in a specified school under their management), after sub-paragraph (v) there shall be added—
 
-'(vi) assuming  that  pupil  numbers  remain  constant,  make  it necessary,  at  the  commencement  of  a  future  stage  of  the child's primary education, for the authority to elect either to create an additional class (or an additional composite class) in the specified school or to take an additional teacher into employment at that school; or
+'(vi) assuming that pupil numbers remain constant, make it necessary, at the commencement of a future stage of the child's primary education, for the authority to elect either to create an additional class (or an additional composite class) in the specified school or to take an additional teacher into employment at that school; or
 
 (vii) though neither of the tests set out in sub-paragraphs (i) and (ii) above is satisfied, have the consequence that the capacity of the school would be exceeded in terms of pupil numbers;'.
 
-- In subsection (3A), the words 'Subject to subsection (3B) below,' are repealed.
+(5) In subsection (3A), the words 'Subject to subsection (3B) below,' are repealed.
 
-- Subsections (3B) and (3E) (which restrict an education authority's entitlement, where they would be prevented from retaining reserved places at a specified school, to refuse a placing request) are repealed.
+(6) Subsections (3B) and (3E) (which restrict an education authority's entitlement, where they would be prevented from retaining reserved places at a specified school, to refuse a placing request) are repealed.
 
 F27
 
@@ -1430,7 +1484,7 @@ F28 Ss. 45-54 repealed (2.4.2012) by The Public Services Reform (General Teachin
 
 F28 Ss. 45-54 repealed (2.4.2012) by The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215), art. 2, Sch. 7
 
-### 50 Professional Conduct Committee and Investigating and Disciplinary Subcommittees
+### 50 Professional Conduct Committee and Investigating and Disciplinary Sub-committees
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1510,15 +1564,17 @@ Standards in Scotland's Schools etc. Act 2000. (See end of Document for details)
 
 ### 55 Abolition of Scottish Joint Negotiating Committee for School Education
 
-- The committee established under section 91 of the 1980 Act (committee to consider pay  and  conditions  of  teaching  staff  employed  in  providing  school  education)  is abolished; and accordingly sections 91 to 97D of, and Schedule 1B to, that Act are repealed.
+(1) The committee established under section 91 of the 1980 Act (committee to consider pay and conditions of teaching staff employed in providing school education) is abolished; and accordingly sections 91 to 97D of, and Schedule 1B to, that Act are repealed.
 
-- Where-
+(2) Where—
 
 (a) a settlement formulated under section 91(1) of that Act;
 
 (b) a determination which, under subsection (8) of section 97B of that Act, has the same effect as a settlement so formulated; or
 
-(c) an award which, under subsection (9) of the said section 97B, has that effect, is still in force on the date on which this section comes into force, the order, settlement, determination or award shall, notwithstanding subsection (1) above, remain in force until superseded.
+(c) an award which, under subsection (9) of the said section 97B, has that effect,
+
+is still in force on the date on which this section comes into force, the order, settlement, determination or award shall, notwithstanding subsection (1) above, remain in force until superseded.
 
 ## Sex education and medical matters
 
@@ -1528,13 +1584,13 @@ The  Scottish  Ministers  may,  as  respects  education  about  sexual  matters 
 
 ### 57 Consent of child to medical procedures
 
-After section 131 of the 1980 Act there shall be inserted-
+After section 131 of the 1980 Act there shall be inserted—
 
 #### ' 131A Consent of child to medical procedures
 
-- Nothing in this Act shall prejudice any capacity of a child enjoyed by virtue of section 2(4) of the Age of Legal Capacity (Scotland) Act 1991 (c.50) (capacity of child with sufficient understanding to consent to surgical, medical or dental procedure or treatment); and without prejudice to that generality, where under or by virtue of this Act a child is required to submit, or to be submitted, to any medical or dental examination, inspection or treatment but the child has the capacity mentioned in the said section 2(4), the examination, inspection or treatment shall only be carried out if the child consents.
+(1) Nothing in this Act shall prejudice any capacity of a child enjoyed by virtue of section 2(4) of the Age of Legal Capacity (Scotland) Act 1991 (c.50) (capacity of child with sufficient understanding to consent to surgical, medical or dental procedure or treatment); and without prejudice to that generality, where under or by virtue of this Act a child is required to submit, or to be submitted, to any medical or dental examination, inspection or treatment but the child has the capacity mentioned in the said section 2(4), the examination, inspection or treatment shall only be carried out if the child consents.
 
-- In subsection (1) above, without prejudice to the generality of the expression in question, 'medical examination' includes an examination under section 58 of this Act and 'medical treatment' includes cleansing under that section.'.
+(2) In subsection (1) above, without prejudice to the generality of the expression in question, 'medical examination' includes an examination under section 58 of this Act and 'medical treatment' includes cleansing under that section.'.
 
 [[END OF PAGE 30]]
 
@@ -1550,9 +1606,18 @@ Standards in Scotland's Schools etc. Act 2000. (See end of Document for details)
 
 31
 
+## General
+
 ### 58 Interpretation
 
-(1) In this ActF29 ... 'the 1980 Act' means the Education (Scotland) Act 1980 (c.44); F30 ... F31 ...
+(1) In this Act—
+F29
+...
+“the 1980 Act” means the Education (Scotland) Act 1980 (c.44);
+F30
+...
+F31
+...
 
 [ F32 '  enforcement direction ' means a direction under section 10C(1) of this Act; ]
 
@@ -1572,7 +1637,7 @@ Standards in Scotland's Schools etc. Act 2000. (See end of Document for details)
 
 'school [ F37 improvement ] plan' means [ F38 an improvement ] plan prepared under section 6(1)(a) of this Act for a school.
 
-- Any expression used in this Act and in the 1980 Act has the same meaning in this Act as in that Act.
+(2) Any expression used in this Act and in the 1980 Act has the same meaning in this Act as in that Act.
 
 ###### Annotations:
 
@@ -1590,8 +1655,6 @@ Standards in Scotland's Schools etc. Act 2000. (See end of Document for details)
 
 - F34 Words in s. 58(1) substituted (28.11.2004) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 122(1), 129(2), Sch. 14 para. 12 (with ss. 119, 121) (see S.S.I. 2003/456, art. 2)
 
-## General
-
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
@@ -1608,39 +1671,34 @@ F35 Words in s. 58(1) inserted (1.8.2016) by Education (Scotland) Act 2016 (asp 
 
 ### 59 Regulations
 
-- The Scottish Ministers may, by statutory instrument, make regulations prescribing standards  and  requirements  to  which  an  education  authority  shall  conform  in discharging the authority's functions under this Act.
+(1) The Scottish Ministers may, by statutory instrument, make regulations prescribing standards and requirements to which an education authority shall conform in discharging the authority's functions under this Act.
 
-- Regulations under this section may make different provision as to different cases or circumstances.
+(2) Regulations under this section may make different provision as to different cases or circumstances.
 
-- A statutory instrument made in the exercise of the powers conferred by this section shall be subject to annulment in pursuance of a resolution of the Scottish Parliament.
+(3) A statutory instrument made in the exercise of the powers conferred by this section shall be subject to annulment in pursuance of a resolution of the Scottish Parliament.
 
 ### 60 Amendments and repeals
 
-- The enactments specified in schedule 2 to this Act shall have effect subject to the amendments and repeals specified in that schedule, being amendments and repeals which are either minor or are consequential upon the provisions of this Act.
+(1) The enactments specified in schedule 2 to this Act shall have effect subject to the amendments and repeals specified in that schedule, being amendments and repeals which are either minor or are consequential upon the provisions of this Act.
 
-- There are also repealed, to the extent specified in the second column of schedule 3 to this Act, the enactments mentioned in that schedule.
+(2) There are also repealed, to the extent specified in the second column of schedule 3 to this Act, the enactments mentioned in that schedule.
 
 ###### Annotations:
 
 ###### Commencement Information
 
-- I4
+I4 S. 60(2) in force for specified purposes at Royal Assent (see s. 61(2)(c));
+s. 60(1) in force for specified purposes at 23.8.2000 by S.S.I. 2000/298, art. 3, Sch. (with transitional provisions in art. 4);
+s. 60 in force for specified purposes at 13.10.2000 by S.S.I. 2000/361, art. 3(1), Sch. Pt. I (subject to transitional provisions in art. 4);
+s. 60 in force for specified purposes at 1.11.2001 by S.S.I. 2000/361, art. 3(2), Sch. Pt. II (subject to transitional provisions in art. 4)
 
-- 60(1) in force for specified purposes at 23.8.2000 by S.S.I. 2000/298, art. 3, Sch. provisions in art. 4);
-
-- 60 in force for specified purposes at 13.10.2000 by S.S.I. 2000/361, art. 3(1), Sch. Pt. I (subject to transitional provisions in art. 4);
-
-- 60 in force for specified purposes at 1.11.2001 by S.S.I. 2000/361, art. 3(2), Sch. Pt. II (subject to transitional provisions in art. 4)
-
-- I5 S. 60 in force at 31.12.2004 for specified purposes by S.S.I. 2004/528, art. 2(b)
-
-S. 60(2) in force for specified purposes at Royal Assent (see s. 61(2)(c)); (with transitional
+I5 S. 60 in force at 31.12.2004 for specified purposes by S.S.I. 2004/528, art. 2(b)
 
 ### 61 Short title, commencement, transitional provisions and savings
 
-- This Act may be cited as the Standards in Scotland's Schools etc. Act 2000.
+(1) This Act may be cited as the Standards in Scotland's Schools etc. Act 2000.
 
-- There shall come into force on Royal Assent-
+(2) There shall come into force on Royal Assent—
 
 (a) this section;
 
@@ -1660,11 +1718,11 @@ Changes to legislation: There are currently no known outstanding effects for the
 
 33
 
-- and the other provisions of this Act shall come into force on such day as the Scottish Ministers may by order made by statutory instrument appoint.
+and the other provisions of this Act shall come into force on such day as the Scottish Ministers may by order made by statutory instrument appoint.
 
-- Different days may be so appointed for different provisions and for different purposes.
+(3) Different days may be so appointed for different provisions and for different purposes.
 
-- An order under subsection (2) above may contain such transitional provisions and savings as the Scottish Ministers think fit.
+(4) An order under subsection (2) above may contain such transitional provisions and savings as the Scottish Ministers think fit.
 
 ###### Annotations:
 ###### Subordinate Legislation Made
@@ -1735,11 +1793,11 @@ F41 Sch. 2 para. 2 repealed (1.10.2010) by The Equality Act 2010 (Consequential 
 ##### 3
 (1) The 1980 Act shall be amended in accordance with this paragraph.
 
-- In section 1(5)(a)(i) (nursery schools and nursery classes included in definition of 'school education' for purposes of Act), for 'hereinafter' substitute ' such schools and classes being '.
+(2) In section 1(5)(a)(i) (nursery schools and nursery classes included in definition of 'school education' for purposes of Act), for 'hereinafter' substitute ' such schools and classes being '.
 
-- In section 9 (conscience clause) for the words ', every grant-aided school and every self-governing school' substitute ' and every grant-aided school '.
+(3) In section 9 (conscience clause) for the words ', every grant-aided school and every self-governing school' substitute ' and every grant-aided school '.
 
-- In section 10 (safeguards for religious beliefs)-
+(4) In section 10 (safeguards for religious beliefs)—
 
 (a) the words ', or at any self-governing school' are repealed;
 
@@ -1763,13 +1821,31 @@ Changes to legislation: There are currently no known outstanding effects for the
 
 (d) the words 'or, as the case may be, by the board of management' are repealed.
 
-- In section 30 (duty of parents to provide education for their children), the existing provisions become subsection (1); and after that subsection add-
+(5) In section 30 (duty of parents to provide education for their children), the existing provisions become subsection (1); and after that subsection add—
 
 '(2) Section 1 of the Standards in Scotland's Schools etc. Act 2000 (asp 6) (right of child to be provided with school education by, or by virtue of arrangements made by, an education authority) is without prejudice to the choice afforded a parent by subsection (1) above.'.
 
-- In section 57 (medical and dental examination and inspection)(a) for subsection (2) substitute'(2) For the purpose of securing the proper medical or dental inspection of the pupils and young persons for whom there is a duty under the said section 39 to provide such inspection, an education authority may require  the  parent  of  any  pupil  in  attendance  at  any  school under their management to submit the pupil for medical or dental inspection in accordance with arrangements made by the appropriate Health  Board  in  agreement  with  the  authority;  and  the  authority may  require  any  young  person  in  attendance  at  any  educational establishment under their management to submit for such medical or dental inspection.'; and (b) in subsection (3), for the word 'person' substitute ' parent '. (7) In section 66(3) (inspection of educational establishments), after 'person' insert ' wilfully '. (8) In section 70 (powers of Scottish Ministers to enforce duties of education authorities etc.), the existing provisions become subsection (1); and after that subsection add'(2) Without  prejudice  to  the  generality  of  subsection  (1)  above,  in  that subsection the expression 'enactment' includes(a) an Act of the Scottish Parliament but only in so far as it is an Act which relates to school education; and (b) an order, regulation, rule or other instrument which has effect by virtue of an Act of the Scottish Parliament but only in so far as it is an instrument which so relates.'.
+(6) In section 57 (medical and dental examination and inspection)—
 
-- In section 135(1) (interpretation), in the definition of 'independent school', for the words ', a grant-aided school or a self-governing school' substitute ' or a grantaided school '.
+(a) for subsection (2) substitute—
+
+'(2) For the purpose of securing the proper medical or dental inspection of the pupils and young persons for whom there is a duty under the said section 39 to provide such inspection, an education authority may require the parent of any pupil in attendance at any school under their management to submit the pupil for medical or dental inspection in accordance with arrangements made by the appropriate Health Board in agreement with the authority; and the authority may require any young person in attendance at any educational establishment under their management to submit for such medical or dental inspection.';
+
+and
+
+(b) in subsection (3), for the word 'person' substitute ' parent '.
+
+(7) In section 66(3) (inspection of educational establishments), after 'person' insert ' wilfully '.
+
+(8) In section 70 (powers of Scottish Ministers to enforce duties of education authorities etc.), the existing provisions become subsection (1); and after that subsection add—
+
+'(2) Without prejudice to the generality of subsection (1) above, in that subsection the expression 'enactment' includes—
+
+(a) an Act of the Scottish Parliament but only in so far as it is an Act which relates to school education; and
+
+(b) an order, regulation, rule or other instrument which has effect by virtue of an Act of the Scottish Parliament but only in so far as it is an instrument which so relates.'.
+
+(9) In section 135(1) (interpretation), in the definition of 'independent school', for the words ', a grant-aided school or a self-governing school' substitute ' or a grant-aided school '.
 
 [[END OF PAGE 35]]
 
@@ -1801,30 +1877,31 @@ Changes to legislation: There are currently no known outstanding effects for the
 
 ###### Amendments (Textual)
 
-F42
-
-###### Annotations:
-
-###### Commencement Information
-
-- I8 Sch. 3 in force at 13.10.2000 for specified purposes by S.S.I. 2000/361, art. 3(1), Sch. Pt. I (subject to transitional provisions in art. 4)
-
-- I9 Sch. 3 in force at 31.12.2004 for specified purposes by S.S.I. 2004/528, art. 2(b)
-
-Enactment | Extent of Repeal
---- | ---
-F43 | . . .
-Sex Discrimination Act 1975 (c.65) | In section 22, in the Table, paragraph 7A. In section 82(1), the definitions of 'board of management' and 'self-governing school'.
-Race Relations Act 1976 (c.74) | In section 17, in the Table, paragraph 7A. In section 19(6)(c)(i), the words '7A,'. In section 78(1), the definitions of 'board of management' and 'self-governing school'.
-National Health Service (Scotland) Act 1978 (c.29) | In section 39, in subsection (1), the words 'or at any self-governing school'; and in each
-
-Sch. 2 para. 4 repealed (1.8.2007) by Scottish Schools (Parental Involvement) Act 2006 (asp 8), s. 24(2), Sch. ; S.S.I. 2007/31, art. 2(b), Sch. 2
+F42 Sch. 2 para. 4 repealed (1.8.2007) by Scottish Schools (Parental Involvement) Act 2006 (asp 8), s. 24(2), Sch.; S.S.I. 2007/31, art. 2(b), Sch. 2
 
 ## SCHEDULE 3
 
 (introduced by section 60(2))
 
 ### FURTHER REPEALS
+
+###### Annotations:
+
+###### Commencement Information
+
+I8 Sch. 3 in force at 13.10.2000 for specified purposes by S.S.I. 2000/361, art. 3(1), Sch. Pt. I (subject to transitional provisions in art. 4)
+
+I9 Sch. 3 in force at 31.12.2004 for specified purposes by S.S.I. 2004/528, art. 2(b)
+
+Enactment | Extent of Repeal
+--- | ---
+F43
+. . .
+. . .
+. . .
+Sex Discrimination Act 1975 (c.65) | In section 22, in the Table, paragraph 7A. In section 82(1), the definitions of 'board of management' and 'self-governing school'.
+Race Relations Act 1976 (c.74) | In section 17, in the Table, paragraph 7A. In section 19(6)(c)(i), the words '7A,'. In section 78(1), the definitions of 'board of management' and 'self-governing school'.
+National Health Service (Scotland) Act 1978 (c.29) | In section 39, in subsection (1), the words 'or at any self-governing school'; and in each
 
 [[END OF PAGE 36]]
 
@@ -1840,17 +1917,17 @@ Changes to legislation: There are currently no known outstanding effects for the
 
 of subsections (3) and (4), the words 'and of every board of management'.
 
-In section 1(5)(a), the words 'in attendance at schools'.
+Education (Scotland) Act 1980 (c.44) | In section 1(5)(a), the words 'in attendance at schools'.
 
 In section 2A, in subsection (1), the words 'or self-governing'; and in subsection (2), the words 'or a board of management'.
 
-In section 8, in subsection (1), the words 'and boards of management of selfgoverning schools'; and in subsection (2), the words 'or board of management'.
+In section 8, in subsection (1), the words 'and boards of management of self-governing schools'; and in subsection (2), the words 'or board of management'.
 
-In section 19, in subsection (1), the words 'or to the premises and equipment of selfgoverning schools'; in subsection (2), paragraph (b) and the words ', or as the case may be of the self-governing school,'; and in subsection (3), the words ', or of any selfgoverning school', 'or school', 'or as the case may be with the board of management' and 'or board'.
+In section 19, in subsection (1), the words 'or to the premises and equipment of self-governing schools'; in subsection (2), paragraph (b) and the words ', or as the case may be of the self-governing school,'; and in subsection (3), the words ', or of any self-governing school', 'or school', 'or as the case may be with the board of management' and 'or board'.
 
 In section 28A (and in that section as substituted by Schedule A2 to the 1980 Act), in subsection (3)(a), the word 'or' where it occurs immediately after sub-paragraph (iv).
 
-In section 48A(5)(a)(i), the words ', or selfgoverning,'.
+In section 48A(5)(a)(i), the words ', or self-governing,'.
 
 In section 51, in subsection (1), the words 'or (2AB)'; and subsections (2AB) and (2AC).
 
@@ -1862,9 +1939,7 @@ In section 55(b), the words 'except in relation to a school which is a self-gove
 
 In section 57(3), the words 'or board of management'.
 
-In section 58, in subsection (1), the words ', and the board of management of any selfgoverning school may by notice in writing issued with respect to that school,' and '(or as the case may be at that school)'; in subsection (2), the words ', or in the case of a self-governing school, the board of management,'; in subsection (3), the words ', or in the case of a self-governing school
-
-Education (Scotland) Act 1980 (c.44)
+In section 58, in subsection (1), the words ', and the board of management of any self-governing school may by notice in writing issued with respect to that school,' and '(or as the case may be at that school)'; in subsection (2), the words ', or in the case of a self-governing school, the board of management,'; in subsection (3), the words ', or in the case of a self-governing school
 
 [[END OF PAGE 37]]
 
@@ -1884,19 +1959,19 @@ the board of management' and ', or in the case of a self-governing school any of
 
 In section 123(1), the words '(where the child is in attendance at a school under the management of that authority) or by the board of management of a self-governing school (where the child is in attendance at that self-governing school)'.
 
-In section 125A, in paragraph (a), the words ', the board of management of a selfgoverning school'; in paragraph (b), the words ', board of management'; and the words ', board of management' where they last occur.
+In section 125A, in paragraph (a), the words ', the board of management of a self-governing school'; in paragraph (b), the words ', board of management'; and the words ', board of management' where they last occur.
 
-In section 135(1), the definition of 'board of management'; in the definition of 'grantaided school', the words ', a self-governing school'; in the definition of 'school', the words ', a self-governing school'; and the definition of 'self-governing school'.
+In section 135(1), the definition of 'board of management'; in the definition of 'grant-aided school', the words ', a self-governing school'; in the definition of 'school', the words ', a self-governing school'; and the definition of 'self-governing school'.
 
-Section 14.
+Education (Scotland) Act 1981 (c.58) | Section 14.
 
 Schedule 5.
 
-In paragraph 6 of Schedule 5, subparagraph (aa).
+Representation of the People Act 1983 (c.2) | In paragraph 6 of Schedule 5, sub-paragraph (aa).
 
-In paragraph 1 of Schedule 3, the words 'on their own initiative'.
+School Boards (Scotland) Act 1988 (c.47) | In paragraph 1 of Schedule 3, the words 'on their own initiative'.
 
-Part I.
+Self-Governing Schools etc. (Scotland) Act 1989 (c.39) | Part I.
 
 In section 69, subsection (2).
 
@@ -1907,14 +1982,6 @@ Section 76.
 In section 77(2), paragraph (a) and the word 'or' immediately following that paragraph.
 
 In section 80(1), the definitions of 'appointed member', 'articles of constitution' and 'articles of management', 'board of management', 'capital grants', 'denominational school', 'eligible school', 'grant regulations', 'the incorporation date', 'interest in land', 'land', 'land obligations', 'parent' (and 'parent member'), 'premises', 'pupil', 'recovery regulations', 'recurrent
-
-Education (Scotland) Act 1981 (c.58)
-
-Representation of the People Act 1983 (c.2)
-
-School Boards (Scotland) Act 1988 (c.47)
-
-Self-Governing Schools etc. (Scotland) Act 1989 (c.39)
 
 [[END OF PAGE 38]]
 
@@ -1928,13 +1995,13 @@ Document Generated: 2018-08-26
 
 Changes to legislation: There are currently no known outstanding effects for the Standards in Scotland's Schools etc. Act 2000. (See end of Document for details)
 
-grant', 'scheme of government', 'self- governing school', 'special purpose grants' and 'staff member'.
+grant', 'scheme of government', 'self-governing school', 'special purpose grants' and 'staff member'.
 
 Schedules 1 to 5 and 7 to 9; and in Schedule 10, paragraphs 3 and 8(19) and (20).
 
 Children Act 1989 (c. 41)
 
-In paragraph 3 of Schedule 9, in sub- paragraph (1), head (g); and in sub- paragraph (3), the words ', 'self-governing school''.
+In paragraph 3 of Schedule 9, in sub-paragraph (1), head (g); and in sub-paragraph (3), the words “, “self-governing school””.
 
 Environmental Protection Act 1990 (c.43)
 
@@ -1946,7 +2013,7 @@ In Part II of Schedule 1, in paragraph 50, sub-paragraph (c).
 
 Value Added Tax Act 1994 (c.23)
 
-In note (1)(a) to Group 6 in Schedule 9, sub- paragraph (vi).
+In note (1)(a) to Group 6 in Schedule 9, sub-paragraph (vi).
 
 Employment Rights Act 1996 (c.18)
 
@@ -1956,7 +2023,7 @@ Data Protection Act 1998 (c.29)
 
 In section 30(5)(b), sub-paragraph (i).
 
-In paragraph 6 of Schedule 11, in sub- paragraph (a), the words from 'or, in relation' to the end.
+In paragraph 6 of Schedule 11, in sub-paragraph (a), the words from 'or, in relation' to the end.
 
 ###### Annotations:
 
