@@ -18,7 +18,7 @@ The development of the FSM Language Policy has been a National effort.  Informat
 
 The FSM Language Policy addresses issues related to local Micronesian language, English and other languages of international importance.  High competence in at least one Micronesian language and English is the ultimate goal of this policy.  To promote unity and assist in development of a National Identity, the policy also recommends that children should have an opportunity to learn a Micronesian language other than their first language.
 
-Education's theme during the 1 st FSM National Economic Summit was 'Education - Underpinning Economic Growth'.  The policy continues on that theme and takes an active look at how language and culture underpins education and the role of language in economic and social development.
+Education’s theme during the 1st FSM National Economic Summit was “Education - Underpinning Economic Growth”. The policy continues on that theme and takes an active look at how language and culture underpins education and the role of language in economic and social development.
 
 A number of individuals and groups need to be recognized for the development of this policy. Principal writer and researcher was Jimmy Hicks of the FSM National Department of Education Staff.  Tony Tawerilmang with the assistance of Callistus Legdesog developed the conceptual paper which was designed to generate discussion on issues.  Jimmy Hicks, Weldis Welley and Oliver Joseph of the FSM NDOE visited each State to both gather information for the Language Policy Development and returned to the States to report back and gather feedback on the Language Policy in its draft form.  Advise and assistance has always been available from Dr. Mary Spencer, Director of the Micronesian Language Institute (MLI) and currently Dean of the UOG College of Arts and Sciences, Dr. Marilyn Salas of the Micronesian Multicultural Education Research Center (MERC),  Dean James L. Craig of the UOG College of Education and Dr. Rita Inos of the Pacific Resources for Education and Learning (PREL).   Special acknowledgment needs to be made of the participants in the FSM Language Policy Development Workshop held in January 1997 in Palikir, Pohnpei. Without the discussions, decisions, and setting of direction made during that workshop, this Language Policy could not have been developed.  For more information contact:
 
@@ -36,7 +36,37 @@ FSM Language Policy
 
 ## Table of Contents
 
-Pag
+Page
+
+ABSTRACT............................................................................................................................................ 1
+INTRODUCTION.................................................................................................................................. 2
+TABLE - FSM LANGUAGE POLICY - COMPONENTS .................................................................................. 3
+ORIENTATION OF LANGUAGE POLICY........................................................................................ 4
+LANGUAGE POLICY DEVELOPMENT............................................................................................ 4
+MAJOR FINDINGS.................................................................................................................................. 5
+Local Languages............................................................................................................................. 5
+English............................................................................................................................................ 6
+Other International Languages ....................................................................................................... 7
+Language Acquisition...................................................................................................................... 7
+STRATEGIES FOR THE FSM LANGUAGE POLICY ...................................................................... 7
+LEGISLATION........................................................................................................................................ 8
+IMPLEMENTATION PLANS ...................................................................................................................... 8
+COMPONENTS OF THE IMPLEMENTATION PLAN ..................................................................... 8
+GUIDING PRINCIPLES FOR FSM LANGUAGE POLICY ................................................................................ 8
+NATIONAL LANGUAGE AND CULTURAL INSTITUTE................................................................................ 10
+STANDARDS, ASSESSMENT, CURRICULUM & INSTRUCTION ................................................................... 11
+MATERIALS DEVELOPMENT................................................................................................................. 13
+Principles of Materials Development ............................................................................................ 14
+TRAINING & TECHNICAL ASSISTANCE.................................................................................................. 16
+Table - Technical Assistance and Training Needs to Support Language Policy ............................. 16
+PUBLIC EDUCATION PROGRAM ............................................................................................................ 18
+WORKPLACE LANGUAGE DEVELOPMENT.............................................................................................. 19
+RESEARCH, EVALUATION AND REPORTING ........................................................................................... 20
+TECHNOLOGY..................................................................................................................................... 21
+BENCHMARKS................................................................................................................................... 22
+IMPLEMENTATION PROCESS........................................................................................................ 23
+STATE LANGUAGE POLICY COMPONENT................................................................................. 23
+CONCLUSION..................................................................................................................................... 24
 
 [[END OF PAGE 3]]
 
@@ -85,7 +115,7 @@ FSM Language Policy
 ## Table - FSM Language Policy - Components
 --- | --- | ---
 National Component | Common Needs Across States | Possible State Components
- Develop guiding principles/recommendation s for improving language use in the FSM in first languages and English  Designate official language(s)  Develop programs for technical assistance in linguistics (reference grammars and dictionaries and development of school grammars and dictionaries), process design for materials development, and research and development  Develop standards and assessment for first language acquisition and acquisition of English and other international languages which are second or foreign languages in the FSM  Determine need for FSM languages requirement from COM- FSM  Seek funding (internal and external) for program implementation  Assist with public information campaign for improving language competence in the FSM |  Technical assistance needs in development/revision of reference grammars and dictionaries, innovative process for materials development, and research and development  Need for local language materials for instruction in students first language  Need for English materials which emphasize the local values, culture and tradition and promote productive sectors and develop role models for students  Need for sharing of instructional and support materials in local languages across the FSM  Need for sharing of instructional and support materials in English which promote the FSM productive sectors  Need for public education on trends and patterns in language usage, how language(s) is best acquired in both first and second languages and languages role in economic growth and social development  Need to seek funding (internal and external) for program implementation  Develop and deliver staff training programs in English as a second or foreign language |  Develop guiding principles - recommendations for improving language use in the State  Designate official State language(s)  Set up State Language Commission(s)  Determine official spelling systems  Develop curriculum and instructional materials for local language(s) and English  Develop local language high school graduation requirements  Develop local language requirements for entrance into high school  Determine patterns and trends in language usage in the State - research & development  Develop and deliver staff training programs in local language(s)  Develop and deliver staff training programs in English as a second or foreign language  Develop and deliver public information campaigns in the State on language policy, research in language acquisition, need for standards in spelling and grammar, etc.
+ Develop guiding principles/recommendations for improving language use in the FSM in first languages and English  Designate official language(s)  Develop programs for technical assistance in linguistics (reference grammars and dictionaries and development of school grammars and dictionaries), process design for materials development, and research and development  Develop standards and assessment for first language acquisition and acquisition of English and other international languages which are second or foreign languages in the FSM  Determine need for FSM languages requirement from COM-FSM  Seek funding (internal and external) for program implementation  Assist with public information campaign for improving language competence in the FSM |  Technical assistance needs in development/revision of reference grammars and dictionaries, innovative process for materials development, and research and development  Need for local language materials for instruction in students first language  Need for English materials which emphasize the local values, culture and tradition and promote productive sectors and develop role models for students  Need for sharing of instructional and support materials in local languages across the FSM  Need for sharing of instructional and support materials in English which promote the FSM productive sectors  Need for public education on trends and patterns in language usage, how language(s) is best acquired in both first and second languages and languages role in economic growth and social development  Need to seek funding (internal and external) for program implementation  Develop and deliver staff training programs in English as a second or foreign language |  Develop guiding principles - recommendations for improving language use in the State  Designate official State language(s)  Set up State Language Commission(s)  Determine official spelling systems  Develop curriculum and instructional materials for local language(s) and English  Develop local language high school graduation requirements  Develop local language requirements for entrance into high school  Determine patterns and trends in language usage in the State - research & development  Develop and deliver staff training programs in local language(s)  Develop and deliver staff training programs in English as a second or foreign language  Develop and deliver public information campaigns in the State on language policy, research in language acquisition, need for standards in spelling and grammar, etc.
 
 3
 
@@ -165,7 +195,7 @@ An additional finding was that while most state curriculum call for local langua
 
 There are a number of findings on English usage.  One, English is the primary means of communication across our islands and with the external world. However, English is the first language of only 2% of the FSM population. However, English is not used the same by different groups in the FSM.   Three primary uses can be seen for English.  One, English serves as an international language for the communication by our businessmen, leaders and students with the external world.  Second, English serves as a second language as we communicate among ourselves across our diverse islands and cultures.  Third, English is used as a foreign language in many of our remote schools and islands - primarily as the medium of instruction in the school system.
 
-A second major finding is related to the level of competence in English.  Even through the largest single segment of our instructional time is devoted to English instruction at all grades levels, our 7 th grade students are reading at a 2 nd grade level when compared against their international peer group.  Our 12 th graders, on the average, have a reading level five to seven years behind their international peer
+A second major finding is related to the level of competence in English. Even through the largest single segment of our instructional time is devoted to English instruction at all grades levels, our 7th grade students are reading at a 2nd grade level when compared against their international peer group. Our 12th graders, on the average, have a reading level five to seven years behind their international peer
 
 6
 
@@ -237,23 +267,23 @@ FSM Language Policy
 
 - c Our languages areas still strong [however there are trends which indicate language shift and loss], but they must expand and grow if they are to remain strong.
 
-- Students should have an opportunity to study and improve upon their local language at elementary, secondary, and postsecondary levels of education in the FSM.
+1) Students should have an opportunity to study and improve upon their local language at elementary, secondary, and postsecondary levels of education in the FSM.
 
-- All local languages need reference grammars and dictionaries.
+2) All local languages need reference grammars and dictionaries.
 
-- Student grammars and dictionaries must be developed at appropriate grade levels.
+3) Student grammars and dictionaries must be developed at appropriate grade levels.
 
-- Local languages must expand to allow new concepts and thoughts to be expressed.
+4) Local languages must expand to allow new concepts and thoughts to be expressed.
 
-- Baseline indicators must be established to measure language competence and improvement.
+5) Baseline indicators must be established to measure language competence and improvement.
 
-- Assessment instruments and evaluation processes must be established for local languages.
+6) Assessment instruments and evaluation processes must be established for local languages.
 
-- Instructional materials, general reading and content specific information should be available in local languages and convey information important to economic and social development of the Nation.
+7) Instructional materials, general reading and content specific information should be available in local languages and convey information important to economic and social development of the Nation.
 
 - d Local language should be the foundation for developing thinking and learning skills.  Acquisition of English and other languages should build upon the basic (reading, writing, arithmetic & mathematics) and thinking skills learning in the primary language of the student.  Note that research shows that a solid foundation in the primary language improves academic achievement in a second language.
 
-- e Competence in the primary State language should be an entry requirement into high school and should be incorporated into high school entrance tests.  Major FSM languages should be offered for study at the College of Micronesia Federated States of Micronesia.
+- e Competence in the primary State language should be an entry requirement into high school and should be incorporated into high school entrance tests. Major FSM languages should be offered for study at the College of Micronesia - Federated States of Micronesia.
 
 - f Students should be introduced to English through materials that are relevant to Micronesia students and convey content information important to the economic and social development of the Nation.  The materials might be locally developed, adapted from newspapers and magazines, South Pacific materials, government or private pamphlets and reports, or other materials that are relevant to the economic, political, and social development of the FSM.
 
@@ -343,7 +373,7 @@ assessment program is recommended to be included in the FSM National Standardize
 
 Developing or aligning curriculum in line with the standards will largely be a job for individual State Department's of Education.  The FSM National Department of Education and National Language and Cultural Institute will provide technical assistance in this area.
 
-For instructional purposes, a two tract system is recommended to accommodate both local language instruction and English.  For example, 1 st graders would move directly into reading and writing in local languages while oral English would be introduced.  The skills developed for the reading and writing in local languages would form the basis for teaching English reading and writing. A gradual transition into English as the medium of instruction should be made with primary emphasis on English at the upper elementary and high school levels.  However, students should have an opportunity to continue writing in their local languages and expanding their competence to express complex thoughts and ideas through the 12 th grade.
+For instructional purposes, a two tract system is recommended to accommodate both local language instruction and English. For example, 1st graders would move directly into reading and writing in local languages while oral English would be introduced. The skills developed for the reading and writing in local languages would form the basis for teaching English reading and writing. A gradual transition into English as the medium of instruction should be made with primary emphasis on English at the upper elementary and high school levels. However, students should have an opportunity to continue writing in their local languages and expanding their competence to express complex thoughts and ideas through the 12th grade.
 
 It is also recommended that students have a opportunity to learn other Micronesian languages certainly at the secondary and post secondary levels in the FSM and perhaps at the elementary level.
 
@@ -365,7 +395,7 @@ The primary role of materials development will occur at the State level.  Howeve
 
 FSM Language Policy
 
-developers of materials.  We can also greatly expand the use of newspaper and magazine articles.  Also use can be made of pamphlets, reports and publications by government agencies and business in the FSM.  This approach would also allow 'real world' reading to be incorporated into instruction.  An additional resource can be the local language instructional courses to be developed by COM-FSM. The student developed papers and documents can be a valuable resource.  Curriculum writers in the State could devote a portion of their time editing of external documents for use in the school system.  Research and coordination of research efforts can also play a major role in speeding up the process of materials development.  Using technology, research efforts at the National or State level can be shared across the Nation.  Additionally, the sharing of materials developed in local languages and in English among the FSM States would provide a mechanism for getting more materials available for instruction.  The U.S. Peace Corps local language materials and instructional methods could also be a significant resource in language materials development.
+developers of materials. We can also greatly expand the use of newspaper and magazine articles. Also use can be made of pamphlets, reports and publications by government agencies and business in the FSM. This approach would also allow “real world” reading to be incorporated into instruction. An additional resource can be the local language instructional courses to be developed by COM-FSM. The student developed papers and documents can be a valuable resource. Curriculum writers in the State could devote a portion of their time editing of external documents for use in the school system. Research and coordination of research efforts can also play a major role in speeding up the process of materials development. Using technology, research efforts at the National or State level can be shared across the Nation. Additionally, the sharing of materials developed in local languages and in English among the FSM States would provide a mechanism for getting more materials available for instruction. The U.S. Peace Corps local language materials and instructional methods could also be a significant resource in language materials development.
 
 The FSM NDOE in cooperation with the States and the NLCI will compile a listing of quality but inexpensive printing agencies both within and outside of the U.S.
 
@@ -383,15 +413,15 @@ The following are recommended as Principles for Materials Development and usage 
 
 - e Materials should be developed in local languages and English to:
 
-- promote Micronesian customs, beliefs, and values,
+1) promote Micronesian customs, beliefs, and values,
 
-- promote the development of community role models,
+2) promote the development of community role models,
 
-- provide content information on the productive sectors (agriculture, marine, and tourism), and,
+3) provide content information on the productive sectors (agriculture, marine, and tourism), and,
 
-- promote development of National and State identifies.
+4) promote development of National and State identifies.
 
-- give age appropriate materials for students instructional use.
+5) give age appropriate materials for students instructional use.
 
 14
 
@@ -401,11 +431,11 @@ The following are recommended as Principles for Materials Development and usage 
 
 FSM Language Policy
 
-- ensure provision of quality teaching instructions and training for use of materials be considered part of the materials development process.
+6) ensure provision of quality teaching instructions and training for use of materials be considered part of the materials development process.
 
-- provide content related materials (science, social studies, mathematics) and thematic materials related to agriculture, marine & fisheries, and tourism.
+7) provide content related materials (science, social studies, mathematics) and thematic materials related to agriculture, marine & fisheries, and tourism.
 
-- f Materials should be developed in high quality, attractive formats.  Innovative use of information technology might also allow use of 'Print on Demand' whereby materials could be printed at the school or classroom level as needed.  This approach could also allow adaptation of materials to fit local community conditions or to use local pictures and examples in a State or Nation based text.
+- f Materials should be developed in high quality, attractive formats. Innovative use of information technology might also allow use of “Print on Demand” whereby materials could be printed at the school or classroom level as needed. This approach could also allow adaptation of materials to fit local community conditions or to use local pictures and examples in a State or Nation based text.
 
 - g Materials can be print media, audio/visual, computer based or other means of transferring information.
 
@@ -415,7 +445,7 @@ FSM Language Policy
 
 - j Materials should be copyrighted by the organization developing the materials, but for acknowledgment purposes only, not for restricted use.
 
-- k Materials developed by other government agencies, such as R&D, the private sector, religious organizations should be considered for use in the school system with editing and development of teacher materials as needed. Maximum use should be made of newspaper and magazine articles, government and business pamphlets and reports, and other 'real world' reading materials as the basis of instructional materials.
+- k Materials developed by other government agencies, such as R&D, the private sector, religious organizations should be considered for use in the school system with editing and development of teacher materials as needed. Maximum use should be made of newspaper and magazine articles, government and business pamphlets and reports, and other “real world” reading materials as the basis of instructional materials.
 
 - l Textbooks and other materials used in schools should be reviewed for their appropriateness not only in skills development, but also for values and content information.
 
@@ -463,7 +493,7 @@ The need for local technical assistance providers is very high.  Since the termi
 
 The use of technology for providing technical assistance and training is vital to the FSM. Given the vast distances separating our islands, especially for our remote islands and schools, and the lack of an adequate infrastructure, we must be creative and seek cost effective means to delivery technical assistance and training to the school and classroom levels in the FSM.  Technology must also play a role in making technical assistance and training available to specialist, principals, teachers and the community as programs are being implemented.  The current technical assistance and training model needs to be expanded.  Currently what technical assistance and training is to be provided to principals, teachers, and the community is on a top down model.  Information technology can also provide the opportunity for a bottom up model where principals, teachers, and the public actively seek the type of technical assistance and training they need to provide quality instruction to students.  Mechanisms to provide access to the Internet and to create a FSM Intranet should also be explored.
 
-It should be noted that there has been concern over lack of impact of training and professional development programs in the past.  There has been too little impact for the funds and effort expended.  The FSM Strategic Plan for Improvement of Education addresses this issue in some detail.  A set of 'Principles of Professional Development' was developed as part of the Strategic Plan for Improvement of Education.  In general the principles address the following areas:  (1) Linked to Overall Planning and Priorities, (2) Relevant, (3) Development in Structure, (4) Local Expertise, (5) Practice Based, (6) Assessment & Evaluation, (7) Follow up and Follow Through, (8) Role of Technology and What We Can Lean from Industry, (9) Rewards and Incentives, (10) Self-Directed Improvement, (11) Equity in Accessing Needed Training.  The most important point to realize is that for language and related trainings to be effective, there must be major changes in the professional development and training delivery systems.  These changes are
+It should be noted that there has been concern over lack of impact of training and professional development programs in the past. There has been too little impact for the funds and effort expended. The FSM Strategic Plan for Improvement of Education addresses this issue in some detail. A set of “Principles of Professional Development” was developed as part of the Strategic Plan for Improvement of Education. In general the principles address the following areas: (1) Linked to Overall Planning and Priorities, (2) Relevant, (3) Development in Structure, (4) Local Expertise, (5) Practice Based, (6) Assessment & Evaluation, (7) Follow up and Follow Through, (8) Role of Technology and What We Can Lean from Industry, (9) Rewards and Incentives, (10) Self-Directed Improvement, (11) Equity in Accessing Needed Training. The most important point to realize is that for language and related trainings to be effective, there must be major changes in the professional development and training delivery systems. These changes are
 
 17
 
@@ -477,7 +507,7 @@ detailed in the Principles of Professional Development included in the appendix 
 
 ### Public Education Program
 
-The FSM Strategic Education Plan is based upon moving the education system to a result based system.  This movement to a results based system has a number of components. One is basing decision on assessments and evaluation.  A second is designing programs based on the best understanding of current research in education.  This does not mean changing systems due to 'fads' within education, but on but on what research says are the best methods for developing children in the education system or for continuing education for all segments of the FSM populace.
+The FSM Strategic Education Plan is based upon moving the education system to a result based system. This movement to a results based system has a number of components. One is basing decision on assessments and evaluation. A second is designing programs based on the best understanding of current research in education. This does not mean changing systems due to “fads” within education, but on but on what research says are the best methods for developing children in the education system or for continuing education for all segments of the FSM populace.
 
 To adequately facilitate the development of FSM Language Education Policy a number questions need to be addressed:
 
@@ -519,19 +549,19 @@ FSM Language Policy
 
 These are all issues that form the need for a massive public education system.   The Public Education Program for the FSM National Language Policy will seek to:
 
-- Provide information on the levels of language competence of FSM students in local languages and English,
+a) Provide information on the levels of language competence of FSM students in local languages and English,
 
-- Provide information on the role of language(s) in economic growth and social development,
+b) Provide information on the role of language(s) in economic growth and social development,
 
-- Provide research information on the how languages are learned.
+c) Provide research information on the how languages are learned.
 
-- Provide information on different methodologies for language instruction.
+d) Provide information on different methodologies for language instruction.
 
-- Provide information on current programs and trends in the school system and community.
+e) Provide information on current programs and trends in the school system and community.
 
-- Explain the concept of a National Language Policy as a Framework for State language policies.
+f) Explain the concept of a National Language Policy as a Framework for State language policies.
 
-- Explain the need for high competence in local languages and English and need not to place one above the other.
+g) Explain the need for high competence in local languages and English and need not to place one above the other.
 
 It was agreed that a one time public education program using one method would not be effective. A variety of sites, information sources and presentations will be needed.  The FSM National Department of Education in cooperation with the State will develop briefing documents, pamphlets, and handouts and also see the possibility of for development of radio and TV programs.
 
@@ -589,15 +619,15 @@ A yearly evaluation report on the status of languages, language policy, material
 
 The role of technology in the FSM education system for language acquisition improvement is to:
 
-- Improve communications and transfer of information on language issues,
+a) Improve communications and transfer of information on language issues,
 
-- Provide a medium for rapid development, review and completion of instructional materials, grammars and dictionaries, and other needed print or audio/visual materials,
+b) Provide a medium for rapid development, review and completion of instructional materials, grammars and dictionaries, and other needed print or audio/visual materials,
 
-- Provide computer assisted instruction to students and the workforce,
+c) Provide computer assisted instruction to students and the workforce,
 
-- Provide a research tool through the Internet, and
+d) Provide a research tool through the Internet, and
 
-- Provide a means for improved teacher training through distance education and directed learning by individuals or small groups.
+e) Provide a means for improved teacher training through distance education and directed learning by individuals or small groups.
 
 The FSM NDOE will seek to identify sources of funds to place a computer in each of the States for language policy and developmental use and provide funding assistance for Internet connections through FSM Telecommunications.  These computers will be networked with the computers being provided to States under the FSM Information Management System Program.
 
@@ -703,9 +733,9 @@ Language is our link with our children, family, community, and the world.  Our l
 
 - c Mission, Priorities & Guiding Principles of the Educational System - FSM Strategic Plan for Improvement of Education
 
-- Mission, Priorities & Guiding Principles of the Educational System FSM Strategic Plan for Improvement of Education
+- 1) Mission, Priorities & Guiding Principles of the Educational System - FSM Strategic Plan for Improvement of Education
 
-- Principles of Professional Development
+- 2) Principles of Professional Development
 
 24
 
@@ -714,6 +744,18 @@ Language is our link with our children, family, community, and the world.  Our l
 [[START OF PAGE 28]]
 
 FSM Language Policy
+
+- 3) Principles for Assessment and Evaluation
+
+- 4) Principles for Materials Development
+
+- d National Language Policy in the Federated States of Micronesia : A Conceptual Framework by Tony Tawerilmang
+
+- e FSM National Language and Cultural Institute - Position Paper
+
+- f Participants of FSM National Language Policy Workshop - January 20 - 24, 1997
+
+- g Language Tables from FSM 1994 Census
 
 25
 
