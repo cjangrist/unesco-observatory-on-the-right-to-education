@@ -16,7 +16,7 @@ to quickly adapt to new challenges.
 
 # TRAINING
 
-## SECTOR PLAN 2009 -2030
+## SECTOR PLAN 2009 – 2030
 
 2
 
@@ -25,6 +25,15 @@ to quickly adapt to new challenges.
 [[START OF PAGE 3]]
 
 ## Table of Content
+
+- Section 1 – Introduction 4
+- Section 2 - Situational Analysis 7
+- Section 3 - SWOT Analysis 25
+- Section 4 – Strategic Vision and Planning Framework 26
+- Section 5 – Implementation Framework and Action Plans 29
+- Section 6 – Monitoring and evaluation Framework 45
+- Appendices 1- 3 50-53
+- References 54
 
 3
 
@@ -50,19 +59,21 @@ The pervasive impact of globalization on developing countries dictates that pers
 
 [[START OF PAGE 5]]
 
-The  objective  of  the  training  and  Workforce  Development  Sector  Plan  is  to  enhance  labour quality,  flexibility  and  mobility  through  education,  training  and  the  ingraining  of  lifelong learning in the psyche of the population. The plan will ensure the preparation of individuals with basic and advanced skills necessary to succeed in the 21 st -Century knowledge economy; develop training  programs  that  meet  the  economic  needs  of  communities  and  employers;  provide opportunities for low-wage workers to receive education and learn skills that will enable them to move up career ladders; and partner with workforce development stakeholders countrywide.
+The objective of the training and Workforce Development Sector Plan is to enhance labour quality, flexibility and mobility through education, training and the ingraining of lifelong learning in the psyche of the population. The plan will ensure the preparation of individuals with basic and advanced skills necessary to succeed in the 21st-Century knowledge economy; develop training programs that meet the economic needs of communities and employers; provide opportunities for low-wage workers to receive education and learn skills that will enable them to move up career ladders; and partner with workforce development stakeholders countrywide.
 
 Since  the  preparation  of  the  last  Five-year  Plan,  there  have  been  significant  changes  to  the Jamaican economy resulting from the process of globalization. With these changes, the existing planning models have become increasingly limited in scope, and do not adequately embody the planning needs of the country. These changes, together with the failure of previous medium-term plans to deliver the transformation necessary to move Jamaica closer to sustainable, long term development; and a new focus on a participatory, integrated approach to national planning, have necessitated  the  commissioning  of  a  strategic  development  plan  of  the  nature  of  Vision  2030 Jamaica. All short - and medium-term plans within the period leading up to 2030, will henceforth be within the strategic framework of Vision 2030 Jamaica.
 
 The Training and Workforce Development (TWD) Sector Plan is one of 31 Sector Plans that form the foundation for the development of Vision 2030 Jamaica - a 21-year plan designed to put Jamaica in a position to achieve developed country status by 2030. Vision 2030 Jamaica is based on a fundamental vision to make 'Jamaica the place of choice to live, work, raise families, and  do  business',  and  on  guiding  principles  which  put  'people'  at  the  centre  of  Jamaica's transformation.  The  vision  of  this  sector  plan  is  to  facilitate  equality  of  opportunities,  social cohesion and partnerships.
 
-The  preparation  of  the  Plan  has  been  supported  by  a  quantitative  systems  dynamics  model  Threshold 21 Jamaica (T21 Jamaica) - which supports comprehensive, integrated planning that enables a broad range of interconnected factors in economic, social and environmental areas to be  used  to  project  future  consequences  of  different  strategies  across  a  range  of  indicators.  In addition, it enables planners to trace causes of changes in any variable or indicator back to the assumptions.
+The preparation of the Plan has been supported by a quantitative systems dynamics model – Threshold 21 Jamaica (T21 Jamaica) – which supports comprehensive, integrated planning that enables a broad range of interconnected factors in economic, social and environmental areas to be used to project future consequences of different strategies across a range of indicators. In
 
 5
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
+addition, it enables planners to trace causes of changes in any variable or indicator back to the assumptions.
 
 This sector plan was developed using the processes below.
 
@@ -106,7 +117,7 @@ It is now firmly accepted that a major factor driving the wealth, productivity a
 
 One of the main challenges for national economies in the globalized marketplace is therefore to boost  the  human  capital  endowments  of  the  labour  force,  equipping  them  with  the  skills necessary  to  contribute  to  labour  productivity,  economic  growth,  social  development  and international competitiveness. A sound education is necessary to adequately equip people with the knowledge and skills needed to take advantage of the emerging opportunities facilitated by globalization.
 
-In addition to traditional academic and technical skills, the education and training system must produce  individuals who  are  flexible and  possess attributes such as initiative,  problem identification  and  solving,  communication,  and  team  spirit.  There  is  now  a  noticeable  shift  in demand  for  types  of  skilled  workers.  Present  trends  are  clearly  in  favour  of  highly-skilled technicians and professionals. These skills will be relevant to the new and emerging paradigms of technology-driven production. It also has been postulated that small-island developing states need to move into knowledge-based and service industries. Graduates of training programmes are  therefore  required  to  have  a  more  broad-based  education  that  imparts  not  only  academic qualifications, but also a variety of skills and competencies. Training programmes and strategies need to ensure a smooth transition from school-to-work. Career development programmes also need to be infused into education and training programmes as one strategy for providing these requisite skills. 5
+In addition to traditional academic and technical skills, the education and training system must produce individuals who are flexible and possess attributes such as initiative, problem identification and solving, communication, and team spirit. There is now a noticeable shift in demand for types of skilled workers. Present trends are clearly in favour of highly-skilled technicians and professionals. These skills will be relevant to the new and emerging paradigms of technology-driven production. It also has been postulated that small-island developing states need to move into knowledge-based and service industries. Graduates of training programmes are therefore required to have a more broad-based education that imparts not only academic
 
 > 4 Education for all in the Caribbean: Assessment 2000 Monograph series.
 
@@ -116,7 +127,9 @@ In addition to traditional academic and technical skills, the education and trai
 
 [[START OF PAGE 8]]
 
-Another challenge of the Government is how to ensure that all graduates of tertiary institutions find gainful employment. It is reported that less than 50.0 per cent of graduates each year will find a job. This makes it necessary to encourage other alternatives, such as more persons being engaged  in  their  own  businesses.  Developing  an  entrepreneurial  culture  must  involve  the teaching of entrepreneurship in all formal institutions, as well as  in  community-based organizations. In order to advance the culture, friendly government policies as well as technical and financial support systems must be in place to ensure that potential entrepreneurs learn not only  how  to  develop  businesses,  but  also  find  access  to  adequate  funding,  monitoring  and mentorship support for the continuity of  their businesses. In order for full development to take place, therefore, entrepreneurship must be the cog on which the wheel of the economy turns; this must be the way toward first world status.
+qualifications, but also a variety of skills and competencies. Training programmes and strategies need to ensure a smooth transition from school-to-work. Career development programmes also need to be infused into education and training programmes as one strategy for providing these requisite skills. 5
+
+Another challenge of the Government is how to ensure that all graduates of tertiary institutions find gainful employment. It is reported that less than 50.0 per cent of graduates each year will find a job. This makes it necessary to encourage other alternatives, such as more persons being engaged in their own businesses. Developing an entrepreneurial culture must involve the teaching of entrepreneurship in all formal institutions, as well as in community-based organizations. In order to advance the culture, friendly government policies as well as technical and financial support systems must be in place to ensure that potential entrepreneurs learn not only how to develop businesses, but also find access to adequate funding, monitoring and mentorship support for the continuity of their businesses. In order for full development to take place, therefore, entrepreneurship must be the cog on which the wheel of the economy turns; this must be the way toward first world status.
 
 ### Key Accomplishments
 
@@ -228,7 +241,7 @@ Additionally, training and workforce development programmes are provided by comm
 
 ### Financing Training and Workforce Development
 
-Human  resources  are  the  principal  asset  of  every  country  and  required  by  all  business enterprises. But without investments in developing the capacity to acquire skills, build knowledge and innovate,  the  potential  for  human  resources  to  attract  business  investment  is  limited.  Training  and workforce development are being increasingly conceived and promoted as a cooperative effort in which the various relevant institutions in the public and private sectors must participate and share responsibilities.
+Human resources are the principal asset of every country and required by all business enterprises. But without investments in developing the capacity to acquire skills, build knowledge and innovate, the potential for human resources to attract business investment is limited. Training and workforce development are being increasingly conceived and promoted as a cooperative effort in
 
 > 9 See Appendix for additional information on HEART.
 
@@ -238,11 +251,15 @@ Human  resources  are  the  principal  asset  of  every  country  and  required 
 
 [[START OF PAGE 13]]
 
-Currently, government allocates over J$15 billion to the provision of training. This allocation is used mainly to access training opportunities through public training entities such as MIND and HEART,  as  well  as  through  the  private  training  institutions.  Additionally,  11  per  cent  or approximately just under J$ 220 million is spent by the private sector on training and workforce development annually 10 .
+which the various relevant institutions in the public and private sectors must participate and share responsibilities.
+
+Currently, government allocates over J$15 billion to the provision of training. This allocation is used mainly to access training opportunities through public training entities such as MIND and HEART, as well as through the private training institutions. Additionally, 11 per cent or approximately just under J$ 220 million is spent by the private sector on training and workforce development annually 10 .
 
 ### Output of the Training System
 
 The annual output from the education and training system for the period 2004/05 to 2007/08 is summarized in Tables 1 and 2.
+
+Table 1 Output at Secondary and Post-Secondary Levels
 
 Programme | 2004/05 | 2005/06 | 2006/07 | 2007/2008
 --- | --- | --- | --- | ---
@@ -253,9 +270,7 @@ Level 3 & Above | 1,722 | 2,210 | 2,396 | 2,102
 Unit Competencies | 17,890 | 28,572 | 32,269 | 15,461
 Other Certificates | 13,774 | 13,550 | 8,464 | 4,030
 
-Table 1 Output at Secondary and Post-Secondary Levels
-
-Sources: Jamaica Education Statistics 2005/06 - 2007/08, HEART Trust/NTA, PPDD
+Sources: Jamaica Education Statistics 2005/06 – 2007/08, HEART Trust/NTA, PPDD
 
 #### Qualification for Tertiary Level Institutions
 
@@ -281,9 +296,10 @@ Available  data  indicate  that  the  output  of  tertiary  institutions  in  20
 
 [[START OF PAGE 15]]
 
-TABLE 2: OUTPUT OF PROFESSIONAL, SENIOR OFFICIALS AND TECHNICIANS, 2004 - 2006
+TABLE 2: OUTPUT OF PROFESSIONAL, SENIOR OFFICIALS AND TECHNICIANS, 2004 – 2006
+OCCUPATION | 2006 |  |  | 2007 |  |  | 2008 |  |
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-OCCUPATION | Male | 2006 Female | TOTAL | Male | 2007 Female | TOTAL | Male | 2008 Female | TOTAL
+ | Male | Female | TOTAL | Male | Female | TOTAL | Male | Female | TOTAL
 Teachers | 669 | 2,555 | 3,224 | 525 | 2,392 | 2,917 | 576 | 2,208 | 2,784
 Vocational Instructors | 1 220 | 1 491 | 2,711 | 560 | 826 | 1,386 | 488 | 641 | 1,129
 Other occupations in education | 6 | 43 | 49 | 16 | 113 | 129 | 19 | 205 | 224
@@ -330,6 +346,9 @@ Source:    Compiled  from  data  supplied  by  the  University  of  the  West  I
 
 [[START OF PAGE 16]]
 
+BOX 1
+TERTIARY PROGRAMMES
+
 ##### Community Colleges
 
 Community Colleges provide pre-university,  general education, professional and para-professional training opportunities. There are nine community colleges: Moneague and Brown's Town in St. Ann, Bethlehem in St.  Elizabeth,  Montego  Bay  in  St.  James,  Portmore  in  St.  Catherine,  Brown's  Town,  Knox,  Excelsior Community College (EXED) in Kingston and the College of Agriculture, Science and Education (CASE) in Portland. Moneague College, Bethlehem and CASE are multi-disciplinary institutions as they also serve as teacher training institutions.
@@ -344,7 +363,7 @@ Teacher  education  was  provided  by  nine  public  institutions,  the  educati
 
 ##### Public and private universities
 
-The University of the West Indies is a regional institution with its largest campus located in Jamaica.  At its Mona  campus,  it  offers  research  and  degree  programmes  at  the  undergraduate  and  postgraduate  levels  degrees  in  Law  and  Medicine,  Languages,  English  and  Caribbean  Culture,  the  Social  Sciences,  Pure  and Applied Sciences, Computer Science, Education, Nursing and Media and Communications. UWI also offers a joint degree in Hospitality and Tourism Management with the University of Technology, Jamaica.
+The University of the West Indies is a regional institution with its largest campus located in Jamaica. At its Mona campus, it offers research and degree programmes at the undergraduate and postgraduate levels - degrees in Law and Medicine, Languages, English and Caribbean Culture, the Social Sciences, Pure and Applied Sciences, Computer Science, Education, Nursing and Media and Communications. UWI also offers a joint degree in Hospitality and Tourism Management with the University of Technology, Jamaica.
 
 The  Mico  College  is  a  teachers'  college  that  is  remaking  itself  into  a  University  College  offering  degree programmes. In mid-2006, it was accorded University College status by the Jamaican government.
 
@@ -354,7 +373,7 @@ Northern  Caribbean  University  is  a  private  Seventh  Day  Adventist  instit
 
 Other providers of tertiary training include University College of the Caribbean, International University of the  Caribbean, Dental  Auxillary  School, Schools of Nursing and Midwifery, Caribbean Maritime Institute, University  of  New  Orleans,  Jamaica  Theological  Seminary,  the  Jamaica  Institute  of  Management  and  the Nova South Eastern University. In addition a number of local Universities and College offer programmes with extra-regional institutions.
 
-BOX 1 TERTIARY PROGRAMMES
+
 
 16
 
@@ -442,7 +461,9 @@ Table 3 shows changes in employment between 1990 and 2008 by industry grouping. 
 
 [[START OF PAGE 19]]
 
-1990 | 2008 | % Change
+Table 3: Employment by Sector 1990 and 2008
+
+ | 1990 | 2008 | % Change
 --- | --- | --- | ---
 Goods Producing Sectors
 Agriculture/Forestry/Fishing | 239,600 | 216,500 | -9.6
@@ -458,11 +479,9 @@ Community/Social/Personal Services | 246,325 | 317,700 | 29.0
 Industry Not Specified | 4,750 | 1,700 | -64.2
 Total Employed Labour Force | 900,800 | 1,158,800 | 28.6
 
-Table 3: Employment by Sector 1990 and 2008
-
 Source: Adapted from the Economic and Social Survey Jamaica, 1990, 2008
 
-Only very modest growth has occurred for plant and machine operators, and craft and related trades  workers,  while  skilled  agricultural  and  fishery  workers  and  elementary  occupations declined  during  the  period.  These  changes  reflect  the  increase  in  services,  the  growth  in distribution, declines in manufacturing, re-structuring in agriculture, and a continued loss of lowskill elementary jobs.
+Only very modest growth has occurred for plant and machine operators, and craft and related trades workers, while skilled agricultural and fishery workers and elementary occupations declined during the period. These changes reflect the increase in services, the growth in distribution, declines in manufacturing, re-structuring in agriculture, and a continued loss of low-skill elementary jobs.
 
 Figure 2 shows differences in employment by occupational group between the years 1996 and 2006. The number of professionals, officials and technicians has increased the most, along with service workers and shop and market sales, followed by clerks.
 
@@ -474,7 +493,7 @@ The skills demand scenario also is compounded by the high migration rate of Jama
 
 [[START OF PAGE 20]]
 
-Figure 2: Employment by Occupational Group, 1996-2006
+Figure 2: Employment by Occupational Group, 1996—2006
 
 -
 
@@ -544,11 +563,12 @@ Job  growth  has  been  limited  due  to  a  number  of  factors  that  include 
 
 Table  4  outlines  the  distribution  of  40  occupations  in  Jamaica,  the  level  of  certification,  the average  years  of  schooling  required  for  employment  in  each  of  them  and  the  average  income earned by individuals that work in these occupational fields.
 
-Employed
+Table 4: Occupations and Levels of Training and Earning in 2001, Jamaica Census 2001
+
+Employed | Unemployed
+Certification
+Position | Occupation | Percent of Total | Mean Wage | Average Years of Schooling | None | CXC /GCE | Certificate /Diploma | Degree | Rate | Average Years of Schooling
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Average | Certification
-Percent of | Mean | Years of | CXC | Certificate | Average Years of
-Position | Occupation | Total | Wage | Schooling | None | /GCE | /Diploma | Degree | Rate | Schooling
 1 | Farmer - Mixed Crop Grower | 10.9 | 114,707 | 7.8 | 94.0 | 3.5 | 0.3 | 0.1 | 1.4 | 8.1
 2 | Domestic Worker - Helper | 4.7 | 144,167 | 8.5 | 88.9 | 7.9 | 0.3 | 0.0 | 10.5 | 8.4
 3 | Building Trade - Mason/Bricklayer | 3.4 | 282,385 | 9.1 | 88.3 | 7.3 | 0.2 | 0.1 | 22.8 | 9.2
@@ -560,10 +580,10 @@ Position | Occupation | Total | Wage | Schooling | None | /GCE | /Diploma | Degr
 9 | Cook | 2.2 | 222,921 | 9.6 | 69.1 | 20.9 | 2.3 | 0.4 | 11.6 | 9.9
 10 | Mechanic - Motor Vehicles | 2.0 | 284,318 | 10.0 | 70.3 | 20.0 | 2.1 | 0.6 | 11.0 | 9.4
 11 | Textile Worker - Tailor, Dressmaker | 2.0 | 179,691 | 9.7 | 72.8 | 20.2 | 1.2 | 0.1 | 8.0 | 9.6
-12 | Waiter/Waitress Bartender | 1.9 | 204,297 | 10.0 | 68.0 | 25.6 | 1.1 | 19.7 | 9.8
+12 | Waiter/Waitress Bartender | 1.9 | 204,297 | 10.0 | 68.0 | 25.6 | 1.1 | . | 19.7 | 9.8
 13 | Hairdressers/Barbers/Beauticians | 1.7 | 211,580 | 10.2 | 60.5 | 28.2 | 3.3 | 0.1 | 11.3 | 10.1
-14 | Building Trade - Carpenter/Joiner Construction Labourer - Building, Road, | 1.6 | 271,845 | 9.4 | 84.9 | 11.1 | 0.2 | 20.0 | 9.3
-15 | Dam, Grave Etc | 1.5 | 248,400 | 8.9 | 86.7 | 7.5 | 0.6 | 0.4 | 26.4 | 8.7
+14 | Building Trade - Carpenter/Joiner | 1.6 | 271,845 | 9.4 | 84.9 | 11.1 | 0.2 | . | 20.0 | 9.3
+15 | Construction Labourer - Building, Road, Dam, Grave Etc | 1.5 | 248,400 | 8.9 | 86.7 | 7.5 | 0.6 | 0.4 | 26.4 | 8.7
 16 | Clerk - Secretarial | 1.5 | 379,675 | 12.1 | 7.1 | 51.3 | 28.2 | 4.5 | 8.9 | 11.5
 17 | Clerk - Cashier/Ticket | 1.5 | 241,561 | 10.8 | 36.4 | 49.2 | 7.6 | 0.9 | 14.6 | 10.7
 18 | Vendor - Street, Non-Food | 1.4 | 204,260 | 9.0 | 85.7 | 10.3 | 0.6 | 0.1 | 2.3 | 9.9
@@ -572,8 +592,6 @@ Position | Occupation | Total | Wage | Schooling | None | /GCE | /Diploma | Degr
 21 | Sweeper - Street/Park etc. | 1.3 | 164,226 | 8.4 | 91.7 | 5.1 | 0.0 | 0.3 | 14.6 | 8.2
 22 | Business Professions - Accountant/Auditor | 1.3 | 783,003 | 13.2 | 2.7 | 32.9 | 29.4 | 28.8 | 5.2 | 12.8
 
-Table 4: Occupations and Levels of Training and Earning in 2001, Jamaica Census 2001
-
 20
 
 [[END OF PAGE 20]]
@@ -581,11 +599,12 @@ Table 4: Occupations and Levels of Training and Earning in 2001, Jamaica Census 
 [[START OF PAGE 21]]
 
 Employed | Unemployed
+Certification
+Position | Occupation | Percent of Total | Mean Wage | Average Years of Schooling | None | CXC /GCE | Certificate /Diploma | Degree | Rate | Average Years of Schooling
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Position | Occupation | Percent of Total | Mean Wage | Average Years of Schooling | None | Certification CXC /GCE | Certificate /Diploma | Degree | Rate | Average Years of Schooling
 23 | Vendor - Street, Food | 1.2 | 170,155 | 8.8 | 86.5 | 9.8 | 0.6 | 0.1 | 3.0 | 7.8
-24 | Teacher - Primary Education Domestic Worker - Helper in Office, | 1.2 | 423,969 | 13.4 | 2.8 | 21.4 | 58.1 | 13.1 | 1.8 | 11.4
-25 | Restaurant etc | 1.1 | 175,330 | 9.1 | 80.3 | 14.6 | 0.6 | 0.2 | 7.8 | 9.1
+24 | Teacher - Primary Education | 1.2 | 423,969 | 13.4 | 2.8 | 21.4 | 58.1 | 13.1 | 1.8 | 11.4
+25 | Domestic Worker - Helper in Office, Restaurant etc | 1.1 | 175,330 | 9.1 | 80.3 | 14.6 | 0.6 | 0.2 | 7.8 | 9.1
 26 | Driver - Heavy Truck etc. | 1.0 | 334,686 | 9.4 | 74.2 | 18.2 | 1.1 | 0.2 | 7.0 | 8.9
 27 | Metal Worker - Welder | 1.0 | 268,755 | 9.9 | 74.2 | 17.2 | 0.8 | 0.0 | 15.7 | 9.8
 28 | Building Finisher - Electrician | 1.0 | 311,367 | 10.4 | 55.6 | 30.8 | 4.6 | 0.7 | 11.1 | 10.1
@@ -596,8 +615,7 @@ Position | Occupation | Percent of Total | Mean Wage | Average Years of Schoolin
 33 | Labourer in Manufacturing Operation | 0.9 | 193,416 | 9.4 | 76.3 | 17.0 | 1.1 | 0.0 | 16.9 | 9.4
 34 | Housekeeper (incl Warden Butler etc.) | 0.8 | 198,552 | 9.9 | 70.0 | 22.5 | 1.2 | 0.2 | 13.5 | 9.4
 35 | Fishery Worker - Fishermen | 0.8 | 255,803 | 8.5 | 94.3 | 2.9 | 0.2 | 0.2 | 5.7 | 9.1
-Agent/Representative -
-36 | Technical/Commercial Sales | 0.8 | 448,028 | 11.3 | 22.7 | 49.4 | 14.7 | 4.9 | 7.6 | 10.3
+36 | Agent/Representative - Technical/Commercial Sales | 0.8 | 448,028 | 11.3 | 22.7 | 49.4 | 14.7 | 4.9 | 7.6 | 10.3
 37 | General Manager - Other | 0.7 | 913,593 | 11.9 | 18.9 | 30.1 | 20.6 | 20.1 | 2.3 | 11.0
 38 | Farmer - Horticulture & Nursery Plants | 0.7 | 176,092 | 8.0 | 93.7 | 3.1 | 1.2 | 0.0 | 7.4 | 8.4
 39 | Driver - Bus | 0.7 | 308,476 | 9.7 | 67.2 | 23.3 | 2.7 | 0.0 | 7.2 | 9.0
@@ -725,13 +743,13 @@ At the same time, the 'least advertised but popular occupations' included the fo
 
 These findings show the services orientation of in-demand jobs and also highlight the need for higher level training and diversity of training offerings.
 
-workers  in  the  category Service  workers,  shop  and  market  sales  workers. Additionally, health care has emerged as both a growing area of employment with possibilities for health tourism. The training of nurses, especially, has emerged as a great need, with Jamaica both exporting and importing nurses. If health tourism becomes a reality, additional demand will be created for nurses, technicians, and other health para-professionals.
-
 23
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
+
+workers in the category Service workers, shop and market sales workers. Additionally, health care has emerged as both a growing area of employment with possibilities for health tourism. The training of nurses, especially, has emerged as a great need, with Jamaica both exporting and importing nurses. If health tourism becomes a reality, additional demand will be created for nurses, technicians, and other health para-professionals.
 
 24
 
@@ -763,30 +781,6 @@ This SWOT Analysis presents a review and analysis of the state of training and w
 
 - Strong private sector
 
-### OPPORTUNITIES
-
-- Large pool of unattached youth available for training
-
-- Strategic location of Jamaica
-
-- English speaking
-
-- CARICOM Single Market and Economy (CSME)
-
-- Training
-
-- Brand recognition of Jamaica for export
-
-- Private sector growth in training
-
-- Investment friendly/attractive
-
-- New businesses in growth areas
-
-- New investment in tourism, construction and mining
-
-- Growing service sector
-
 ### WEAKNESSES
 
 - Low education level of secondary school leavers
@@ -811,6 +805,30 @@ This SWOT Analysis presents a review and analysis of the state of training and w
 
 ·
 
+### OPPORTUNITIES
+
+- Large pool of unattached youth available for training
+
+- Strategic location of Jamaica
+
+- English speaking
+
+- CARICOM Single Market and Economy (CSME)
+
+- Training
+
+- Brand recognition of Jamaica for export
+
+- Private sector growth in training
+
+- Investment friendly/attractive
+
+- New businesses in growth areas
+
+- New investment in tourism, construction and mining
+
+- Growing service sector
+
 ### THREATS
 
 - Crime & violence
@@ -823,7 +841,7 @@ This SWOT Analysis presents a review and analysis of the state of training and w
 
 - Unaffordability of training to the average Jamaican
 
-- Inability to retain future - trained workers
+- Inability to retain future – trained workers
 
 - Effect of high interest rates & taxes on business start-ups
 
@@ -839,11 +857,11 @@ This SWOT Analysis presents a review and analysis of the state of training and w
 
 ## SECTION 4 - STRATEGIC VISION AND PLANNING FRAMEWORK FOR TRAINING  SECTOR
 
-he  long-term  process  of  planning  for  the  Training  Sector  is  guided  by  a  Vision  that describes a desirable future for the sector that can be achieved through the efforts of the stakeholders within a realistic time frame.  The Sector Vision was crafted by the Training Task Force through the contributions of the stakeholders represented on the Task Force and at stakeholder consultations held during the Vision 2030 Jamaica planning process. T
+The long-term process of planning for the Training Sector is guided by a Vision that describes a desirable future for the sector that can be achieved through the efforts of the stakeholders within a realistic time frame. The Sector Vision was crafted by the Training Task Force through the contributions of the stakeholders represented on the Task Force and at stakeholder consultations held during the Vision 2030 Jamaica planning process.
 
-The Sector Vision is as follows :
+The Sector Vision is as follows:
 
-'Quality training for productive citizenship and nation building'
+“Quality training for productive citizenship and nation building”
 
 ### Strategic Planning Framework
 
@@ -862,24 +880,24 @@ As indicated in the situational analysis, the Jamaican workforce has for years b
 Goals | Outcomes
 --- | ---
 1.0:- A Learning Society is created | 1.1. The Value of Learning is promoted
-1.2. Appropriate Policy Support is developed
-1.3. Learning opportunities are increased
-1.4. An ICT literate society is created
-1.5. Career Development is Integrated at all levels and in all areas of training
-2.0:- An integrated and efficient training and workforce development system is established | 1.6. Employability skills and opportunities are increased
-2.1. Training institutions/facilities are strategically placed geographically
-2.2:- Coordination, accountability and efficiency are at their highest
-2.3. The system of programme offerings is rationalised to reflect institutional strength and community and national needs
-2.4. All stakeholders have access to a nationally integrated training and workforce information system
-2.5. There is strong partnership among all stakeholders
-2.6. Multiple pathways are enabled for efficiency
-3.0:- Equal is | 3.1. People with special needs have meaningful access to all training
-3.2. Alternative training modules are provided to increase access
-3.3. The financial resources for training are adequate
-3.4. The training system is seamlessly articulated
+ | 1.2. Appropriate Policy Support is developed
+ | 1.3. Learning opportunities are increased
+ | 1.4. An ICT literate society is created
+ | 1.5. Career Development is Integrated at all levels and in all areas of training
+ | 1.6. Employability skills and opportunities are increased
+2.0:- An integrated and efficient training and workforce development system is established | 2.1. Training institutions/facilities are strategically placed geographically
+ | 2.2:- Coordination, accountability and efficiency are at their highest
+ | 2.3. The system of programme offerings is rationalised to reflect institutional strength and community and national needs
+ | 2.4. All stakeholders have access to a nationally integrated training and workforce information system
+ | 2.5. There is strong partnership among all stakeholders
+ | 2.6. Multiple pathways are enabled for efficiency
+3.0:- Equal access to training is provided for all | 3.1. People with special needs have meaningful access to all training
+ | 3.2. Alternative training modules are provided to increase access
+ | 3.3. The financial resources for training are adequate
+ | 3.4. The training system is seamlessly articulated
 4.0 :- A sustainable outcomes /competency based National Qualifications Framework (NQF) | 4.1. All stakeholders are aware of, accept, and utilise the NQF
-4.2. CBET is implemented nationally
-4.3. The NQF is aligned with International standards
+ | 4.2. CBET is implemented nationally
+ | 4.3. The NQF is aligned with International standards
 
 #### 4.2.3 Sector Indicators and Targets
 
@@ -891,14 +909,14 @@ The proposed indicators and targets for the Training Sector Plan over the period
 
 [[START OF PAGE 28]]
 
-Sector Indicators | Baseline | Targets | Comments
---- | --- | --- | ---
-2007 or Most Current | 2012 | 2015 | 2030
-1. % of youth that are unattached
-2. % of labour Force with training
-3. % of illiterate adults enrolled in literacy programme
+Table 5: Training Sector Plan – Indicators and Targets (All data disaggregated by Gender wherever appropriate)
 
-Table 5: Training Sector Plan - Indicators and Targets (All data disaggregated by Gender wherever appropriate)
+Sector Indicators | Baseline | Targets |  |  | Comments
+--- | --- | --- | --- | --- | ---
+ | 2007 or Most Current | 2012 | 2015 | 2030 | 
+1. % of youth that are unattached |  |  |  |  | 
+2. % of labour Force with training |  |  |  |  | 
+3. % of illiterate adults enrolled in literacy programme |  |  |  |  | 
 
 28
 
@@ -910,29 +928,28 @@ Table 5: Training Sector Plan - Indicators and Targets (All data disaggregated b
 
 ### 5.1 Implementation Framework
 
-The implementation of the Training and Workforce Development Sector Plan is an essential component of the implementation, monitoring and evaluation framework for the Vision 2030 Jamaica - National Development Plan.  The Plan is implemented at the sectoral level by ministries, departments and agencies (MDAs) of Government as well as non-state stakeholders including the private sector, NGOs and CBOs. The involvement of stakeholders is fundamental to the successful implementation of the National Development Plan and the Training Sector Plan.
+The implementation of the Training and Workforce Development Sector Plan is an essential component of the implementation, monitoring and evaluation framework for the Vision 2030 Jamaica – National Development Plan. The Plan is implemented at the sectoral level by ministries, departments and agencies (MDAs) of Government as well as non-state stakeholders including the private sector, NGOs and CBOs. The involvement of stakeholders is fundamental to the successful implementation of the National Development Plan and the Training Sector Plan.
 
 #### Components of Vision 2030 Jamaica
 
 The Vision 2030 Jamaica National Development Plan has three (3) components:
 
-- Integrated National Development Plan: The integrated National Development Plan presents the overall plan for Vision 2030 Jamaica, integrating all 31 sector plans into a single comprehensive plan for long-term national development. The integrated National Development Plan presents the National Vision, the four National Goals and fifteen National Outcomes, and the National Strategies required to achieve the national goals and outcomes.
+1. Integrated National Development Plan: The integrated National Development Plan presents the overall plan for Vision 2030 Jamaica, integrating all 31 sector plans into a single comprehensive plan for long-term national development. The integrated National Development Plan presents the National Vision, the four National Goals and fifteen National Outcomes, and the National Strategies required to achieve the national goals and outcomes.
 
-- Medium Term Socio-Economic Policy Framework (MTF):
+2. Medium Term Socio-Economic Policy Framework (MTF): The Medium Term Socio-Economic Policy Framework (MTF), is a 3-yearly plan which summarizes the national priorities and targets for the country and identifies the key actions to achieve those targets over each 3-year period from FY2009/2010 to FY2029/2030.
 
-The Medium Term Socio-Economic Policy Framework (MTF), is a 3-yearly plan which summarizes  the  national  priorities  and  targets  for the country and identifies the key actions to achieve those targets over each 3-year period from FY2009/2010 to FY2029/2030.
-
-- Thirty-one (31) Sector Plans: At  the  sectoral  level  Vision  2030  Jamaica  will  be implemented through the strategic frameworks and action  plans  for  each  sector  as  contained  in  the respective sector plans. Vision 2030 Jamaica includes  a total of thirty-one (31) sector  plans covering the main economic, social, environmental and governance sectors relevant to national development.
+3. Thirty-one (31) Sector Plans: At the sectoral level Vision 2030 Jamaica will be implemented through the strategic frameworks and action plans for each sector as contained in the respective sector plans. Vision 2030 Jamaica includes a total of thirty-one (31) sector plans covering the main economic, social, environmental and governance sectors relevant to national development.
 
 #### 5.1.1 Accountability for Implementation and Coordination
 
-The Cabinet, as the principal body with responsibility for policy and the direction of the Government, has ultimate responsibility for implementation of the National Development Plan.   Each ministry and agency will be accountable for implementing the National Development Plan (NDP) through various policies, programmes and interventions that are aligned with the strategies and actions of the NDP and the sector plans. A robust results-based monitoring and evaluation system will be established to ensure that goals and outcomes of the Plan are achieved. This system will build on existing national and sectoral monitoring and evaluation frameworks and will be highly participatory.
+The Cabinet, as the principal body with responsibility for policy and the direction of the Government, has ultimate responsibility for implementation of the National Development Plan. Each ministry and agency will be accountable for implementing the National Development Plan (NDP) through various policies, programmes and interventions that are aligned with the strategies and actions of the NDP and the sector plans. A robust results-based monitoring and evaluation system will be established to ensure that goals and
 
 29
 
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
+outcomes of the Plan are achieved. This system will build on existing national and sectoral monitoring and evaluation frameworks and will be highly participatory.
 
 #### 5.1.2 Resource Allocation for Implementation
 
@@ -944,17 +961,17 @@ The Action Plan represents the main framework for the implementation of the Trai
 
 The Action Plan contains the following elements:
 
-- Sector Goals
+i. Sector Goals
 
-- Sector Outcomes
+ii. Sector Outcomes
 
-- Sector Strategies
+iii. Sector Strategies
 
-- Sector Actions
+iv. Sector Actions
 
-- Responsible Agencies
+v. Responsible Agencies
 
-- Timeframe
+vi. Timeframe
 
 30
 
@@ -966,19 +983,22 @@ The Action Plan contains the following elements:
 
 ##### Sector Goals
 
-- A Learning society is created
+1. A Learning society is created
 
-- An integrated and efficient training and workforce development system is established
+2. An integrated and efficient training and workforce development system is established
 
-- Equal access to training is provided for all
+3. Equal access to training is provided for all
 
-- A sustainable outcomes/competency-based National Qualification Framework
+4. A sustainable outcomes/competency-based National Qualification Framework
 
 ##### GOAL 1: A Learning Society is Created
 
 OUTCOMES | STRATEGIES | SPECIFIC ACTIONS | TIMEFRAME | RESPONSIBILITY
---- | --- | --- | --- | --- | --- | ---
-1.1 The Value of Learning is Promoted | 1.1.1 1.1.2 1.1.3 1.1.4 | Infuse career education in school curricula at all levels Increase public education programmes emphasizing Lifelong Learning Expand mentorship programmes - (Big Brother/Little Brother; Big Sister/Little Sister) at all levels Establish Career Development Centres and train persons to | 1.1.1.1 1.1.1.2 1.1.1.3 1.1.1.4 | Review and update curriculum including the preparation of teachers/trainers/ facilitators Promote Lifelong Learning (Public Education) Incorporate mentorship component into selected training programmes Establish Career Development Centres in training institutions and | 2008-2013 Dev: 2008 - 2010 Imp. 2010/Ongoing 2008 - 2011 2008 - 2013 | HEART Trust /NTA (Career Div.) JIS / HEART Trust /NTA UWI/UTech/Tertiary Institutions HEART Trust /NTA /MOE
+--- | --- | --- | --- | ---
+1.1 The Value of Learning is Promoted | 1.1.1 Infuse career education in school curricula at all levels | 1.1.1.1 Review and update curriculum including the preparation of teachers/trainers/facilitators | 2008-2013 | HEART Trust /NTA (Career Div.)
+ | 1.1.2 Increase public education programmes emphasizing Lifelong Learning | 1.1.1.2 Promote Lifelong Learning (Public Education) | Dev: 2008 – 2010; Imp. 2010/Ongoing | JIS / HEART Trust /NTA
+ | 1.1.3 Expand mentorship programmes - (Big Brother/Little Brother; Big Sister/Little Sister) at all levels | 1.1.1.3 Incorporate mentorship component into selected training programmes | 2008 – 2011 | UWI/UTech/Tertiary Institutions
+ | 1.1.4 Establish Career Development Centres and train persons to | 1.1.1.4 Establish Career Development Centres in training institutions and | 2008 – 2013 | HEART Trust /NTA /MOE
 
 31
 
@@ -988,14 +1008,16 @@ OUTCOMES | STRATEGIES | SPECIFIC ACTIONS | TIMEFRAME | RESPONSIBILITY
 
 OUTCOMES | STRATEGIES | SPECIFIC ACTIONS | TIMEFRAME | RESPONSIBILITY
 --- | --- | --- | --- | ---
-effectively guide individuals 1.1.5 Expand Technical Vocational Education and Training programmes in all schools and training institutions | communities 1.1.1.5 Introduce Broad- Based Curricula in all schools | 2008/ongoing | MOE/Tech Voc Unit
+ | effectively guide individuals | communities |  | 
+ | 1.1.5 Expand Technical Vocational Education and Training programmes in all schools and training institutions | 1.1.1.5 Introduce Broad-Based Curricula in all schools | 2008/ongoing | MOE/Tech Voc Unit
 
 OUTCOMES | STRATEGIES | SPECIFIC ACTIONS | TIMEFRAME | RESPONSIBILITY
 --- | --- | --- | --- | ---
-1.2 Appropriate policy support is developed | 1.2.1 Encourage the commitment of political directorate to foster buy-in | 1.2.1.1 Establish a public/private sector forum/committee to be chaired by the relevant political representative/s for ongoing development and review of public policy and legislation relating to training | 2010/ongoing | HEART Trust/NTA -Lead Agency MIND Private Sector training institutions, Economic sectoral representatives MOE
-1.2.2 Review and improve the Legal Framework for training and work force development | 1.2.1.2 Establish a time table for beginning and completing the initial review process | 2010 - 2013 | As above
-1.2.1.3 Introduce policies and procedures to govern Institutions (was previously 1.2.5) | 2012 - Onwards | HEART Trust/NTA /MOE
-1.2.3 Adopt a policy of Lifelong Learning | 1.2.3.1 Convene a Task Force for the development of mechanisms for the infusion of LLP 1.2.3.2 Develop a roadmap/mechanism for the infusion of lifelong learning policy into the institutional | 2010 2010 | Jamaica Foundation for Life Long Learning HEART Trust/NTA
+1.2 Appropriate policy support is developed | 1.2.1 Encourage the commitment of political directorate to foster buy-in | 1.2.1.1 Establish a public/private sector forum/committee to be chaired by the relevant political representative/s for ongoing development and review of public policy and legislation relating to training | 2010/ongoing | HEART Trust/NTA –Lead Agency; MIND; Private Sector training institutions; Economic sectoral representatives; MOE
+ | 1.2.2 Review and improve the Legal Framework for training and work force development | 1.2.1.2 Establish a time table for beginning and completing the initial review process | 2010 - 2013 | As above
+ |  | 1.2.1.3 Introduce policies and procedures to govern Institutions (was previously 1.2.5) | 2012 - Onwards | HEART Trust/NTA /MOE
+ | 1.2.3 Adopt a policy of Lifelong Learning | 1.2.3.1 Convene a Task Force for the development of mechanisms for the infusion of LLP | 2010 | Jamaica Foundation for Life Long Learning
+ |  | 1.2.3.2 Develop a roadmap/mechanism for the infusion of lifelong learning policy into the institutional | 2010 | HEART Trust/NTA
 
 32
 
@@ -1005,9 +1027,16 @@ OUTCOMES | STRATEGIES | SPECIFIC ACTIONS | TIMEFRAME | RESPONSIBILITY
 
 OUTCOMES | STRATEGIES | SPECIFIC ACTIONS | TIMEFRAME | RESPONSIBILITY
 --- | --- | --- | --- | ---
-framework for the design and delivery of Techvoc education
-1.2.4 Promote a culture of advocacy | 1.2.4.1 Conduct workshops for middle level and senior staff in policy analysis and advocacy | 2011 | MIND HEART Trust/NTA
-1.3. learning opportunities are increased | 1.3.1 Increase the use of technology driven training programmes 1.3.2 Provide incentives d to public and private sector companies and community-based organisations to create learning opportunities 1.3.3 Expand cooperative education work-based learning including summer internship 1.3.4 Utilize public educational institutions for training fully 1.3.5 Promote distance education /training programmes | 1.3.1.1 Equip training institutions with the technology to facilitate learning and the training of teachers/facilitators Training for teachers/facilitators in the use of technology in learning 1.3.2.1 Allow Tax incentives to participating organisations 1.3.3.1 Strengthen the National Youth Service programme 1.3.3.2 Provide opportunities in learning institutions to promote paid employment opportunities for participants 1.3.4.1 Training institutions collaborate to share resources 1.3.5.1. Provide resources for distance education delivery 1.3.5.2 Conduct needs assessment to determine | 2008-2013 On-going 2008-2012 2008-2012 2008-2012 2008-2012 2008-2012 2008-2016 | HEART/MICT HEART, Training Institutions MOF&PS MOE MOE/Learning Institutions MOE/Learning Institutions MOF&PS/MOE/HEART Trust
+ |  | framework for the design and delivery of Techvoc education |  | 
+ | 1.2.4 Promote a culture of advocacy | 1.2.4.1 Conduct workshops for middle level and senior staff in policy analysis and advocacy | 2011 | MIND; HEART Trust/NTA
+1.3. learning opportunities are increased | 1.3.1 Increase the use of technology driven training programmes | 1.3.1.1 Equip training institutions with the technology to facilitate learning and the training of teachers/facilitators | 2008-2013 | HEART/MICT
+ |  | Training for teachers/facilitators in the use of technology in learning | On-going | HEART, Training Institutions
+ | 1.3.2 Provide incentives d to public and private sector companies and community-based organisations to create learning opportunities | 1.3.2.1 Allow Tax incentives to participating organisations | 2008-2012 | MOF&PS
+ | 1.3.3 Expand cooperative education work-based learning including summer internship | 1.3.3.1 Strengthen the National Youth Service programme | 2008-2012 | MOE
+ |  | 1.3.3.2 Provide opportunities in learning institutions to promote paid employment opportunities for participants | 2008-2012 | MOE/Learning Institutions
+ | 1.3.4 Utilize public educational institutions for training fully | 1.3.4.1 Training institutions collaborate to share resources | 2008-2012 | MOE/Learning Institutions
+ | 1.3.5 Promote distance education /training programmes | 1.3.5.1. Provide resources for distance education delivery | 2008-2016 | MOF&PS/MOE/HEART Trust
+ |  | 1.3.5.2 Conduct needs assessment to determine needs and requirements of | 2008-2012 | MOE/HEARTMLSS
 
 33
 
@@ -1017,7 +1046,9 @@ framework for the design and delivery of Techvoc education
 
 OUTCOMES | STRATEGIES | SPECIFIC ACTIONS | TIMEFRAME | RESPONSIBILITY
 --- | --- | --- | --- | ---
-1.3.6 Develop and expand Programmes to cater for the physically and mentally challenged 1.3.7 Increase access to funding for learning | persons with special needs 1.3.6.1 Develop and enhance facilities to accommodate persons with special needs and increase the numbers of teachers/facilitators in the education and training systems 1.3.7.1 Increase collaboration with financial institutions for attractive and affordable loans | 2008-2012 2008-2012 | MOE/HEART/MLSS SLB/MFPS/Private Financial Institutions
+ |  | persons with special needs |  | 
+ | 1.3.6 Develop and expand Programmes to cater for the physically and mentally challenged | 1.3.6.1 Develop and enhance facilities to accommodate persons with special needs and increase the numbers of teachers/facilitators in the education and training systems | 2008-2012 | MOE/HEART/MLSS
+ | 1.3.7 Increase access to funding for learning | 1.3.7.1 Increase collaboration with financial institutions for attractive and affordable loans and scholarships for training | 2008-2012 | SLB/MFPS/Private Financial Institutions
 
 34
 
@@ -1048,9 +1079,7 @@ OUTCOME | STRATEGIES | SPECIFIC ACTIONS | TIMEFRAME | RESPONSIBILITY
 
 [[START OF PAGE 37]]
 
-.
-
-##### GOAL 2: An integrated and efficient training and workforce development system is established
+##### GOAL 2: An integrated and efficient training and workforce development system is established.
 
 OUTCOMES | STRATEGIES | SPECIFIC ACTIONS | TIMEFRAME | RESPONSIBILITY
 --- | --- | --- | --- | ---
@@ -1064,7 +1093,7 @@ OUTCOMES | STRATEGIES | SPECIFIC ACTIONS | TIMEFRAME | RESPONSIBILITY
 
 OUTCOMES | STRATEGIES | SPECIFIC ACTIONS | TIMEFRAME | RESPONSIBILITY
 --- | --- | --- | --- | ---
-2.2. Coordination, accountability and efficiency are Improved | 2.2.1 Strengthen the capacity of NCTVET 2.2.2. Introduce a Performance Management system | 2.2.1.1. Empower HEART- NTA to work with Secondary Schools and Tertiary Institutions to adopt NCTVET Framework for job certification 2.2.2.1. Conduct Training Needs Analysis | 2009 - 2011 2008 - 2010 | MOE/Tertiary Institutions MOE/Tertiary Institutions
+2.2. Coordination, accountability and efficiency are Improved | 2.2.1 Strengthen the capacity of NCTVET 2.2.2. Introduce a Performance Management system | 2.2.1.1. Empower HEART-NTA to work with Secondary Schools and Tertiary Institutions to adopt NCTVET Framework for job certification 2.2.2.1. Conduct Training Needs Analysis | 2009 - 2011 2008 - 2010 | MOE/Tertiary Institutions MOE/Tertiary Institutions
 2.3. The system of programme offerings is rationalised to reflect institutional strength & community/ national needs | 2.3.1. Improve stakeholder Analysis and evaluation mechanisms 2.3.2. Regularise Tracer Studies | 2.3.1.1. Conduct Tracer Studies for secondary and tertiary TVET oriented programmes | 2009 - 2011 Ongoing | MOE, HEART-NTA, Tertiary Institutions
 
 38
@@ -1081,7 +1110,7 @@ OUTCOMES | STRATEGIES | SPECIFIC ACTIONS | TIMEFRAME | RESPONSIBILITY
 3.1.2. Create the infrastructure to accommodate persons with special needs | 3.1.2.1. Develop and Introduce facilities to support the needs of special individuals (Transportation, scholarships, nutrition, day care infrastructure and ICT) | 2008-2012 On-going | MOE in collaboration with the private sector/JCPD/ Bureau of Gender affairs
 3.1.3. Provide incentives to stakeholders to offer special needs programmes | 3.1.3.1. Provide Special concessions for the establishment of training programmes for individuals with special needs | 2008-2012 On-going | Ministry of Finance and the Public Service
 3.1.4. Increase Financial assistance to the poor/needy trainees | 3.1.4.1. Develop partnership with CBOs, FBOs, NGOs, Workplace to provide remedial training | 2008-2012 On-going | HEART/NTA, MOE, in partnership with Workplaces, NGOs, FBO, and CBOs
-3.1.5 Increase opportunities to create a more literate population | 3.1.5.1. Explore Alternative modes for remedial education e.g. E- Learning, Distance Education, Radio, TV | 2008-2012 On-going | HEART/NTA, MOE, in partnership with Workplaces, NGOs, FBO, and CBOs
+3.1.5 Increase opportunities to create a more literate population | 3.1.5.1. Explore Alternative modes for remedial education e.g. E-Learning, Distance Education, Radio, TV | 2008-2012 On-going | HEART/NTA, MOE, in partnership with Workplaces, NGOs, FBO, and CBOs
 3.1.5.2. Expand National Reading Programmes and implement 'Drop Everything and Read' activities | 2009-2015 On-going | MOE
 3.1.6 Capacity for Remedial Education improved | 3.1.6.1. Engage National Libraries and establish Reading Centres | 2008-2015 | Jamaica Library Services (JLS)
 
@@ -1093,7 +1122,7 @@ OUTCOMES | STRATEGIES | SPECIFIC ACTIONS | TIMEFRAME | RESPONSIBILITY
 
 OUTCOME | STRATEGIES | SPECIFIC ACTION | TIMEFRAME | RESPONSIBILITY
 --- | --- | --- | --- | ---
-3.2. The use of alternative training modalities is increased to improve access | 3.2.1. Introduce technology- based training in all programmes 3.2.2. Promote recognition of prior learning 3.2.3. Emphasize structured workforce training 3.2.4. Increase emphasis on blended learning | 3.2.1.1. Establish the standard for the use of technology in training delivery 3.2.1.2. Develop and implement a National Policy for technology integration in the delivery of all programmes 3.2.1.3. IntegrateICT in the delivery of all programmes in training institutions/ schools 3.2.2.1. Increase accredited training organizations 3.2.3.1. Develop and implement Programme to provide Participatory Learning | 2008-2012 2008-2012 2008-2012 2008-2012 2008-2012 | OPM, MOE,HEART,JBTE,IOE, Local and International Partners NCTVET MIND MOEY JEF JMA PSOJ TRADE UNIONS MLSS
+3.2. The use of alternative training modalities is increased to improve access | 3.2.1. Introduce technology-based training in all programmes 3.2.2. Promote recognition of prior learning 3.2.3. Emphasize structured workforce training 3.2.4. Increase emphasis on blended learning | 3.2.1.1. Establish the standard for the use of technology in training delivery 3.2.1.2. Develop and implement a National Policy for technology integration in the delivery of all programmes 3.2.1.3. IntegrateICT in the delivery of all programmes in training institutions/ schools 3.2.2.1. Increase accredited training organizations 3.2.3.1. Develop and implement Programme to provide Participatory Learning | 2008-2012 2008-2012 2008-2012 2008-2012 2008-2012 | OPM, MOE,HEART,JBTE,IOE, Local and International Partners NCTVET MIND MOEY JEF JMA PSOJ TRADE UNIONS MLSS
 
 40
 
@@ -1165,15 +1194,15 @@ OUTCOMES | STRATEGIES | SPECIFIC ACTIONS | TIMEFRAME | RESPONSIBILITY
 
 A number of institutions and agencies, including the following, will be involved in the monitoring and evaluation framework for the National Development Plan and the Training Sector Plan:
 
-- Parliament : The Vision 2030 Jamaica Annual Progress Report, will be presented to the Parliament for deliberations and discussion.
+1. Parliament: The Vision 2030 Jamaica Annual Progress Report, will be presented to the Parliament for deliberations and discussion.
 
-- The Economic Development Committee (EDC) is  a  committee of Cabinet chaired by the Prime Minister. The EDC will review progress and emerging policy implications on the implementation of Vision 2030 Jamaica and the relevant sector plans.
+2. The Economic Development Committee (EDC) is a committee of Cabinet chaired by the Prime Minister. The EDC will review progress and emerging policy implications on the implementation of Vision 2030 Jamaica and the relevant sector plans.
 
-- The National Planning Council (NPC) is a consultative and advisory body which brings together top decision-makers in the Government, private sector, labour and civil society. It is proposed that the NPC accommodates discussion on the Plan at least once every quarter as a national consultative forum on the implementation of Vision 2030 Jamaica.
+3. The National Planning Council (NPC) is a consultative and advisory body which brings together top decision-makers in the Government, private sector, labour and civil society. It is proposed that the NPC accommodates discussion on the Plan at least once every quarter as a national consultative forum on the implementation of Vision 2030 Jamaica.
 
-- The Vision 2030 Jamaica Technical Monitoring Committee (TMC) , or Steering Committee, is to be chaired by the Office of the Prime Minister and will provide oversight for the technical coordination and monitoring of the Plan and reporting on the progress of implementation.
+4. The Vision 2030 Jamaica Technical Monitoring Committee (TMC), or Steering Committee, is to be chaired by the Office of the Prime Minister and will provide oversight for the technical coordination and monitoring of the Plan and reporting on the progress of implementation.
 
-- The Vision 2030 Jamaica Technical Secretariat to be institutionalized within the PIOJ will play a leading role in coordinating implementation, analyzing social and economic data and information, consolidating sectoral information into comprehensive reports on Vision 2030 Jamaica's achievements and results, maintaining liaisons with sectoral focal
+5. The Vision 2030 Jamaica Technical Secretariat to be institutionalized within the PIOJ will play a leading role in coordinating implementation, analyzing social and economic data and information, consolidating sectoral information into comprehensive reports on Vision 2030 Jamaica's achievements and results, maintaining liaisons with sectoral focal
 
 45
 
@@ -1183,9 +1212,9 @@ A number of institutions and agencies, including the following, will be involved
 
 points in MDAs, and supporting the establishment and operation of Thematic Working Groups.
 
-- Ministries, Departments and Agencies (MDAs) represent very important bodies within the implementation, monitoring and evaluation system. They are the Sectoral Focal Points that will provide data/information on a timely basis on the selected sector indicators and action plans, and be responsible for the timely preparation of sector reports that will feed into the Vision 2030 Jamaica Annual Progress Report. For the Training Sector Plan, the main MDAs comprising the relevant Sectoral Focal Point will include HEART Trust/NTA, MIND, NGOs, FBOs, and CBOs that are delivering training programmes.
+6. Ministries, Departments and Agencies (MDAs) represent very important bodies within the implementation, monitoring and evaluation system. They are the Sectoral Focal Points that will provide data/information on a timely basis on the selected sector indicators and action plans, and be responsible for the timely preparation of sector reports that will feed into the Vision 2030 Jamaica Annual Progress Report. For the Training Sector Plan, the main MDAs comprising the relevant Sectoral Focal Point will include HEART Trust/NTA, MIND, NGOs, FBOs, and CBOs that are delivering training programmes.
 
-- Thematic Working Groups (TWGs) are consultative bodies aimed at providing multistakeholder participation in improving the coordination, planning, implementation and monitoring of programmes and projects relevant to the NDP and sector plans, including the Training Sector Plan. TWGs will be chaired by Permanent Secretaries or senior Government officials and shall comprise technical representatives of MDAs, National Focal Points, the private sector, Civil Society Organizations and International Development Partners.  TWGs will meet a minimum of twice annually.
+7. Thematic Working Groups (TWGs) are consultative bodies aimed at providing multi-stakeholder participation in improving the coordination, planning, implementation and monitoring of programmes and projects relevant to the NDP and sector plans, including the Training Sector Plan. TWGs will be chaired by Permanent Secretaries or senior Government officials and shall comprise technical representatives of MDAs, National Focal Points, the private sector, Civil Society Organizations and International Development Partners. TWGs will meet a minimum of twice annually.
 
 ### Indicator Framework and Data Sources
 
@@ -1221,9 +1250,9 @@ The timely preparation and submission of progress reports and other monitoring a
 
 The main reports/outputs of the performance monitoring system are listed below.
 
-- The Vision 2030 Jamaica Annual Progress Report will be the main output of the performance monitoring and evaluation system.
+1. The Vision 2030 Jamaica Annual Progress Report will be the main output of the performance monitoring and evaluation system.
 
-- The annual sectoral reports compiled by the Sectoral Focal Points for submission to the Vision 2030 Jamaica Technical Monitoring Committee. These will be integrated into the Annual Progress Report.
+2. The annual sectoral reports compiled by the Sectoral Focal Points for submission to the Vision 2030 Jamaica Technical Monitoring Committee. These will be integrated into the Annual Progress Report.
 
 47
 
@@ -1231,13 +1260,11 @@ The main reports/outputs of the performance monitoring system are listed below.
 
 [[START OF PAGE 48]]
 
-- Other products of the performance monitoring system include issues/sector briefs and research reports.
+3. Other products of the performance monitoring system include issues/sector briefs and research reports.
 
 ### Capacity Development
 
-There is recognition that building and strengthening technical and institutional capacity for the effective implementation, monitoring and evaluation of the NDP and the Training Sector Plan is critical for success. This calls for substantial resources, partnership and long-term commitment to training MDA staff. Training needs will have to be identified at all levels of the system; a reorientation of work processes, instruments, procedures and systems development will have to be undertaken; and staffing and institutional arrangements will need to be put in place. Partnership with the Management Institute for National Development (MIND) and other institutions will also be required to provide training in critical areas such as results-based project management and analysis, monitoring and evaluation, and data management to public sector staff
-
-and others.
+There is recognition that building and strengthening technical and institutional capacity for the effective implementation, monitoring and evaluation of the NDP and the Training Sector Plan is critical for success. This calls for substantial resources, partnership and long-term commitment to training MDA staff. Training needs will have to be identified at all levels of the system; a reorientation of work processes, instruments, procedures and systems development will have to be undertaken; and staffing and institutional arrangements will need to be put in place. Partnership with the Management Institute for National Development (MIND) and other institutions will also be required to provide training in critical areas such as results-based project management and analysis, monitoring and evaluation, and data management to public sector staff and others.
 
 48
 
@@ -1251,14 +1278,14 @@ Corporate and opposition buy in | Funding issues | Planning and implementation i
 --- | --- | --- | ---
 To get buy in to the process | Significant increase in the number of scholarships, grants & easily repayable loans available to learners | Effective coordination | School curriculum adjusted to make them relevant and dynamic
 Selling the programmes to the targets | Resources | Strategic planning | Development of learning solutions
-Effective marketing/promotion | Adequate financial resources | Project management approach to implementation
+Effective marketing/promotion | Adequate financial resources | Project management approach to implementation | 
 The public is aware and is educated about the Plan | Reaching marginalized groups | Relevant policy and programmes support | Improving on behaviour modification
-Improvement in information dissemination | Providing greater access to training
-Effective implementation strategies for the Plan | Strategic location of institutions to accommodate access
-Facilitating and assessing learning using CBET | Providing flexible learner centred training opportunities
-Training and development needs identification | Increase access to training and greater numbers of learners accessing training opportunities
-Competent and committed staff | Support structure for marginalization
-Adequate supply of quality human resources
+ |  | Improvement in information dissemination | Providing greater access to training
+ |  | Effective implementation strategies for the Plan | Strategic location of institutions to accommodate access
+ |  | Facilitating and assessing learning using CBET | Providing flexible learner centred training opportunities
+ |  | Training and development needs identification | Increase access to training and greater numbers of learners accessing training opportunities
+ |  | Competent and committed staff | Support structure for marginalization
+ |  | Adequate supply of quality human resources | 
 
 49
 
@@ -1270,34 +1297,34 @@ Adequate supply of quality human resources
 
 ### The Human Employment and Resource Training Trust/ National Training Agency (HEART Trust/NTA)
 
-The HEART Trust/NTA is mandated to enable public and private technical and vocational education and training institutions to efficiently produce adequate numbers of skilled and semi-skilled workers largely for the productive sectors of the economy. The short-term aim is to reduce the number of uncertified workers by 50 per cent by 2008. The Agency is dependent on the involvement of Private Sector Employers for financing (via contributions) 1 and providing on-the-job skill training opportunities.  The organization also sets standards, develops curricula, administers examinations and accredits training programmes for the country through the National Council on Technical Vocational Education and Training (NCTVET).
+The HEART Trust/NTA is mandated to enable public and private technical and vocational education and training institutions to efficiently produce adequate numbers of skilled and semi-skilled workers largely for the productive sectors of the economy. The short-term aim is to reduce the number of uncertified workers by 50 per cent by 2008. The Agency is dependent on the involvement of Private Sector Employers for financing (via contributions)¹ and providing on-the-job skill training opportunities. The organization also sets standards, develops curricula, administers examinations and accredits training programmes for the country through the National Council on Technical Vocational Education and Training (NCTVET).
 
 The HEART Tax has proven to be an effective mechanism for financing the development and administration of the training system in Jamaica. As a consequence, the organisation is  viewed  globally  as  a  world-class  organisation  and  has been  used  as  a  bench  mark  throughout  the  English  speaking Caribbean  and  elsewhere  in  the  world.  HEART  Trust/NTA  has  received  CARICOM  approval  to  issue  the  Caribbean  Vocational  Qualification,  a Technical Vocational Education and Training certification usable across the region.
 
 #### Programs and Services
 
-Programs  and  Services  include  institution  based,  community  based  and  firm  based  training.  The  organisation  has  been  focusing  on  broadening  the modalities and number of training opportunities available and on the standardisation of the training system in the island. The organisation finances the Technical High School Programme, the TVET Rationalization Project 1 and directly administers training in over 28 Institutions islandwide and over 100 special church based and community based training institutions. They also administer the School Leavers Training Opportunities Programme (SLTOPS) under which school leavers are placed in firms where they may receive job experience and training, and the Apprenticeship programme. The organisation has been focusing on broadening the modalities and number of training opportunities available and on the standardisation of the training system in the island. To this end, they have sought to streamline the certification of all training programmes accredited by them to ensure that programmes certified at a particular level may be at the same standard regardless of the modality for training delivery. Included, is the provision of support to school based TVET programmes to facilitate the acquisition of vocational certification at the secondary level. They have also added to their institution based programmes, with the introduction of the Enterprise Based Training Programme (EBT). Under this programme, HEART Trust/NTA certifies training delivered within firms in approved skill areas  and offers  financial assistance to the firms  for the delivery of training.  They have also sought to broaden the level of certification of Jamaican workers by the introduction of a scheme for recognising prior learning.  Under this scheme, experienced workers may be tested and certified at the level of skill demonstrated by them.
+Programs and Services include institution based, community based and firm based training. The organisation has been focusing on broadening the modalities and number of training opportunities available and on the standardisation of the training system in the island. The organisation finances the Technical High School Programme, the TVET Rationalization Project¹ and directly administers training in over 28 Institutions islandwide and over 100 special church based and community based training institutions. They also administer the School Leavers Training Opportunities Programme (SLTOPS) under which school leavers are placed in firms where they may receive job experience and training, and the Apprenticeship programme. The organisation has been focusing on broadening the modalities and number of training opportunities available and on the standardisation of the training system in the island. To this end, they have sought to streamline the certification of all training programmes accredited by them to ensure that programmes certified at a particular level may be at the same standard regardless of the modality for training delivery. Included, is the provision of support to school based TVET programmes to facilitate the acquisition of vocational certification at the secondary level. They have also added to their institution based programmes, with the introduction of the Enterprise Based Training Programme (EBT). Under this programme, HEART Trust/NTA certifies training delivered within firms in approved skill areas and offers financial assistance to the firms for the delivery of training. They have also sought to broaden the level of certification of Jamaican workers by the introduction of a scheme for recognising prior learning. Under this scheme, experienced workers may be tested and certified at the level of skill demonstrated by them.
 
-ENROLMENT AND OUTPUT OF SKILLED AND SEMI-SKILLED MANPOWER FROM NON-FORMAL HUMAN EMPLOYMENT AND RESOURCE TRAINING/ NATIONAL TRAINING AGENCY  PROGRAMMES 2005 - 2006
+ENROLMENT AND OUTPUT OF SKILLED AND SEMI-SKILLED MANPOWER FROM NON-FORMAL HUMAN EMPLOYMENT AND RESOURCE TRAINING/ NATIONAL TRAINING AGENCY PROGRAMMES 2005 – 2006
 
-2005 | 2006
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-ENROLMENT | OUTPUT | ENROLMENT | OUTPUT
+ | 2005 |  |  |  |  |  | 2006 |  |  |  |  | 
+ | ENROLMENT |  |  | OUTPUT |  |  | ENROLMENT |  |  | OUTPUT |  | 
 SKILL AREAS | Male | Female | TOTAL | Male | Female | TOTAL | Male | Female | TOTAL | Male | Female | TOTAL
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Agricultural | 694 | 848 | 1 542 | 500 | 534 | 1 034 | 472 | 595 | 1 067 | 277 | 316 | 593
 Apparel and Sewn Products | 130 | 2 757 | 2 887 | 67 | 1 894 | 1 961 | 116 | 2 736 | 2 852 | 63 | 1 853 | 1 916
 Art & Craft | 132 | 192 | 324 | 35 | 141 | 176 | 192 | 241 | 433 | 88 | 170 | 258
 Beauty Care Services | 36 | 1 164 | 1 200 | 17 | 727 | 744 | 73 | 1 708 | 1 781 | 24 | 1 253 | 1 277
 Building Construction | 6 787 | 679 | 7 466 | 3 828 | 143 | 3 971 | 10 892 | 598 | 11 490 | 7 748 | 418 | 8 166
 Cabinet Making | 532 | 20 | 552 | 239 | 9 | 248 | 673 | 20 | 693 | 526 | 15 | 541
-Commercial Skills Early Childhood Care and | 2 075 | 6 000 | 8 075 | 1 543 | 4 192 | 5 735 | 6 394 | 13 019 | 19 413 | 3 791 | 7 133 | 10 924
-Other Education/Training Skills | 47 | 1 842 | 1 889 | 36 | 898 | 934 | 148 | 2 613 | 2 761 | 79 | 1 422 | 1 501
-Hospitality Information & Communication | 2 764 | 8 611 | 11 375 | 1 698 | 5 438 | 7 136 | 4 581 | 12 461 | 17 042 | 3 000 | 7 788 | 10 788
-Technology Machine& Appliance | 3 111 | 5 728 | 8 839 | 1 714 | 3 780 | 5 494 | 5 629 | 9 569 | 15 198 | 4 174 | 7 710 | 11 884
-Maintenance/ Repair Transportation/Automotive | 2 205 | 186 | 2 391 | 1 299 | 125 | 1 424 | 2 867 | 128 | 2 995 | 1 712 | 80 | 1 792
-Trade | 2 727 | 240 | 2 967 | 1 361 | 184 | 1 545 | 3 268 | 152 | 3 420 | 2 282 | 111 | 2 393
-Other Skills | 2 114 | 2 522 | 4 636 | 1 244 13 | 1 381 | 2 625 | 1 951 | 2 318 | 4 269 | 1 408 | 1 413 | 2 821
-TOTAL | 23 354 | 30 789 | 54 143 | 581 | 19 446 | 33 027 | 37 256 | 46 158 | 83 414 | 25 172 | 29 682 | 54 854
+Commercial Skills | 2 075 | 6 000 | 8 075 | 1 543 | 4 192 | 5 735 | 6 394 | 13 019 | 19 413 | 3 791 | 7 133 | 10 924
+Early Childhood Care and Other Education/Training Skills | 47 | 1 842 | 1 889 | 36 | 898 | 934 | 148 | 2 613 | 2 761 | 79 | 1 422 | 1 501
+Hospitality | 2 764 | 8 611 | 11 375 | 1 698 | 5 438 | 7 136 | 4 581 | 12 461 | 17 042 | 3 000 | 7 788 | 10 788
+Information & Communication Technology | 3 111 | 5 728 | 8 839 | 1 714 | 3 780 | 5 494 | 5 629 | 9 569 | 15 198 | 4 174 | 7 710 | 11 884
+Machine& Appliance Maintenance/ Repair | 2 205 | 186 | 2 391 | 1 299 | 125 | 1 424 | 2 867 | 128 | 2 995 | 1 712 | 80 | 1 792
+Transportation/Automotive Trade | 2 727 | 240 | 2 967 | 1 361 | 184 | 1 545 | 3 268 | 152 | 3 420 | 2 282 | 111 | 2 393
+Other Skills | 2 114 | 2 522 | 4 636 | 1 244 | 1 381 | 2 625 | 1 951 | 2 318 | 4 269 | 1 408 | 1 413 | 2 821
+TOTAL | 23 354 | 30 789 | 54 143 | 13 581 | 19 446 | 33 027 | 37 256 | 46 158 | 83 414 | 25 172 | 29 682 | 54 854
 
 Does not include Remedial and Continuing Education Programmes
 
@@ -1313,6 +1340,21 @@ Source: Planning and Projects Division, Human Employment and Resource Training/ 
 
 ### LIST OF TASK FORCE MEMBERS
 
+Mr. Donald Foster (HEART/NTA, Chair)
+Dr. Jon Jones (Dental Auxiliary School)
+Ms. Claire Spence (USAID)
+Mr. Thomas McArdle (HEART/NTA)
+Mr. Wayne Robinson (Jamaica Independent Schools Association.)
+Mr. Fritz Pinnock (Caribbean Maritime Institute)
+Mrs. Paulette Dunn Smith (HEART/NTA)
+Dr. Leila McWhinney Dehaney (Ministry of Health)
+Mrs. Ruby Brown (Management Institute for National Development)
+Mr. Clive Grossett (HEART/NTA)
+Dr. Marcia Stewart (JBTE)
+Mr. Steven Kerr (PIOJ)
+Miss Natalie Leiba (PIOJ/UWI)
+Mr. Charles Clayton (PIOJ)
+Miss Herma Maxwell (PIOJ)
 51
 
 [[END OF PAGE 51]]
@@ -1385,19 +1427,19 @@ VTDI | Vocational Training Development Institute
 
 ## REFERENCES
 
-Crow Cal, Dr. Career Development as a Vehicle for Improving Learning and Creating Successful Futures , Centre for Learning Connections, USA, 2004
+Crow Cal, Dr. Career Development as a Vehicle for Improving Learning and Creating Successful Futures, Centre for Learning Connections, USA, 2004
 
 Fox, Kristin. Mapping Unattached Youth in Jamaica IDB, 2003
 
-Inter American Development Bank (IDB). The informal Sector in Jamaica , IDB, 2006
+Inter American Development Bank (IDB). The informal Sector in Jamaica, IDB, 2006
 
-Jamaica Employers Federation (JEF). State of the Industry Report on Training and Development, JEF, Kingston, 2004 - 2008
+Jamaica Employers Federation (JEF). State of the Industry Report on Training and Development, JEF, Kingston, 2004 – 2008
 
-Planning Institute of Jamaica (PIOJ). Economic and Social Survey Jamaica , PIOJ, Kingston, 2002- 2008
+Planning Institute of Jamaica (PIOJ). Economic and Social Survey Jamaica, PIOJ, Kingston, 2002- 2008
 
-Statistical Institute of Jamaica (STATIN). Labour Force Survey , STATIN, Kingston, 2006 - 2008
+Statistical Institute of Jamaica (STATIN). Labour Force Survey, STATIN, Kingston, 2006 – 2008
 
-World Economic Forum. Global Competitiveness Report and Index , 2006
+World Economic Forum. Global Competitiveness Report and Index, 2006
 
 54
 
