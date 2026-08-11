@@ -32,9 +32,9 @@ The upper secondary school prepares pupils for employment and further studies. I
 
 The Minister of Education, Science and Culture governs the affairs covered by this Act, and is ultimately responsible for the following:
 
-- General policy making regarding upper secondary school matters
+- a. General policy making regarding upper secondary school matters
 
-- National  Curriculum  Guide  and  validation  of  school  curriculum  guide  and  study programme descriptions
+- b. National Curriculum Guide and validation of school curriculum guide and study programme descriptions
 
 1
 
@@ -44,11 +44,11 @@ The Minister of Education, Science and Culture governs the affairs covered by th
 
 2
 
-- Supervision of school administration and school activities
+- c. Supervision of school administration and school activities
 
-- Providing  support  for  developmental  work  in  upper  secondary  schools  and  for development of instructional material
+- d. Providing support for developmental work in upper secondary schools and for development of instructional material
 
-- Gathering, processing and disseminating information on school activities
+- e. Gathering, processing and disseminating information on school activities
 
 ## CHAPTER II
 
@@ -72,21 +72,21 @@ The  Minister  of  Education,  Science  and  Culture  shall  appoint  a  school 
 
 The role of the school board is:
 
-- To determine the  emphases  in  school  activities  and  contribute  to  the  best  service possible to the community in which the school operates, and to promote the school's connections with local economical, social and cultural activities
+- a. To determine the emphases in school activities and contribute to the best service possible to the community in which the school operates, and to promote the school's connections with local economical, social and cultural activities
 
-- To confer with the head teacher regarding studies offered
+- b. To confer with the head teacher regarding studies offered
 
-- To  confirm  the  school  curriculum  guide  based  on  a  reference  from  the  school general assembly and to follow up on curriculum implementation
+- c. To confirm the school curriculum guide based on a reference from the school general assembly and to follow up on curriculum implementation
 
-- To  provide  the  head  teacher  with  reference  regarding  the  annual  operating  and financial plan according to national budget provisions and to follow up on the plan's implementation
+- d. To provide the head teacher with reference regarding the annual operating and financial plan according to national budget provisions and to follow up on the plan's implementation
 
-- To assist the head teacher in determining the amount of fees established by the head teacher, cf. Article 45.
+- e. To assist the head teacher in determining the amount of fees established by the head teacher, cf. Article 45.
 
-- To assist the head teacher concerning agreements made in the name of the school
+- f. To assist the head teacher concerning agreements made in the name of the school
 
-- To assist the head teacher regarding personnel matters
+- g. To assist the head teacher regarding personnel matters
 
-- To provide the Minister of Education, Science and Culture with reference regarding applicants for the position of head teacher
+- h. To provide the Minister of Education, Science and Culture with reference regarding applicants for the position of head teacher
 
 2
 
@@ -182,25 +182,25 @@ The  Minister  of  Education,  Science  and  Culture  can  provide  schools,  ot
 
 5
 
-- Role and objectives of the school
+- a. Role and objectives of the school
 
-- Administration and organisation
+- b. Administration and organisation
 
-- School curriculum guide and study programme descriptions
+- c. School curriculum guide and study programme descriptions
 
-- Organisation of teaching and learning
+- d. Organisation of teaching and learning
 
-- Personnel qualifications requirements
+- e. Personnel qualifications requirements
 
-- Admission requirements for pupils
+- f. Admission requirements for pupils
 
-- Pupils' rights and duties
+- g. Pupils' rights and duties
 
-- Working conditions for teachers and pupils as well as their support structures
+- h. Working conditions for teachers and pupils as well as their support structures
 
-- Internal quality management system
+- i. Internal quality management system
 
-- Finances and insurances
+- j. Finances and insurances
 
 Accreditation of an upper secondary school provides a confirmation that, at the time in which  accreditation  is  granted,  the  activities  of  the  respective  school  comply  with  general conditions  of  this  Act  and  other  law  and  regulations  issued  under  this  Act.  A  school  that  has received accreditation is autonomous as far as regards school operations and activities, apart from the conditions stipulated in this Act, regulations or other official edicts issued under this Act.
 
@@ -304,25 +304,25 @@ The National Curriculum Guide for Upper Secondary Schools, issued by the Ministe
 
 The  general  part  of  the  National  Curriculum  Guide  shall  describe  the  objectives  and operations of the upper secondary school. The general part of the National Curricula Guide shall at least include the following:
 
-- Provisions  on  the  structure  of  study  programme  descriptions  and  on  the  relevance between core subjects in the upper secondary school
+- a. Provisions on the structure of study programme descriptions and on the relevance between core subjects in the upper secondary school
 
-- Conditions on how the objectives of specific courses, study programmes as well as final learning objectives shall be defined
+- b. Conditions on how the objectives of specific courses, study programmes as well as final learning objectives shall be defined
 
-- Criteria for study requirements and study process
+- c. Criteria for study requirements and study process
 
-- Rules for evaluation methods, reporting and grading
+- d. Rules for evaluation methods, reporting and grading
 
-- Definition  of  work  based  learning  and  rules  regarding  organisation  of  work  based learning
+- e. Definition of work based learning and rules regarding organisation of work based learning
 
-- Rules for evaluation of vocational training and definition of skills objectives
+- f. Rules for evaluation of vocational training and definition of skills objectives
 
-- Rules  for  recognition  of  non-formal  and  informal  learning,  equivalence  of  learning and evaluation of learning when pupils move between schools or study programmes
+- g. Rules for recognition of non-formal and informal learning, equivalence of learning and evaluation of learning when pupils move between schools or study programmes
 
-- General rules on school curricula guides
+- h. General rules on school curricula guides
 
-- Provisions on evaluation of school activities
+- i. Provisions on evaluation of school activities
 
-- General rules on rights and duties of pupils and on conflict resolution
+- j. General rules on rights and duties of pupils and on conflict resolution
 
 #### Article 22
 
@@ -358,11 +358,11 @@ Minister  certification of a study  programme  description  is  subject  to  it 
 
 The Minister  may  issue  study  programme  descriptions  that  can  serve  as  guidelines  for individual upper secondary schools in their work. Such study programme guidelines are then part of the upper secondary school curriculum guide and may cover the following study programmes:
 
-- Vocational study programmes leading to professional rights including journeyman's certificate
+- a. Vocational study programmes leading to professional rights including journeyman's certificate
 
-- Study programmes leading to matriculation examination
+- b. Study programmes leading to matriculation examination
 
-- Other  study  programmes  leading  to  defined  final  examinations  according  to Minister decision
+- c. Other study programmes leading to defined final examinations according to Minister decision
 
 #### Article 24
 
@@ -385,17 +385,17 @@ The  Occupational  Councils  shall  elect  a  chair  and  a  vice-chair  from  a
 
 The  Occupational  Councils  shall  advise  the  Minister  regarding  vocational  education  at upper secondary school level in their respective occupations. Their role is as follows:
 
-- To propose general study objectives and define the needs for knowledge and skills which the study programme descriptions for the respective occupations shall be based on, and shall form a part of the general part of the National Curriculum Guide, and to make proposals for learning outcomes
+- a. To propose general study objectives and define the needs for knowledge and skills which the study programme descriptions for the respective occupations shall be based on, and shall form a part of the general part of the National Curriculum Guide, and to make proposals for learning outcomes
 
-- To devise criteria for division of study between school-based and workplace learning
+- b. To devise criteria for division of study between school-based and workplace learning
 
-- To  make  proposals  regarding  structure  and  content  of  examinations  for  individual occupations
+- c. To make proposals regarding structure and content of examinations for individual occupations
 
-- To  keep  a  record  of  companies  and  workplaces  that  fulfil  the  requirements  for providing workplace learning cf. Article 28
+- d. To keep a record of companies and workplaces that fulfil the requirements for providing workplace learning cf. Article 28
 
-- To make proposals for study programme descriptions for individual study programmes which upper secondary schools can use as guidelines cf. Article 23, and
+- e. To make proposals for study programme descriptions for individual study programmes which upper secondary schools can use as guidelines cf. Article 23, and
 
-- To provide the Minister of Education, Science and Culture with reference on study programme  descriptions  for  vocational  education  and  training  whenever  individual schools apply for confirmation from the Minister, cf. Article 23
+- f. To provide the Minister of Education, Science and Culture with reference on study programme descriptions for vocational education and training whenever individual schools apply for confirmation from the Minister, cf. Article 23
 
 The Minister of Education, Science and Culture can seek the opinion of an Occupational Council regarding certification requests from upper secondary schools, cf. Article 12.
 
@@ -509,15 +509,15 @@ The  Minister  of  Education,  Science  and  Culture  may  issue  a  Regulation 
 
 The school curriculum guide of each upper secondary school shall contain rules that prescribe the rights and duties of pupils. The school rules shall contain provisions regarding the following:
 
-- School attendance
+- a. School attendance
 
-- Behaviour and conduct
+- b. Behaviour and conduct
 
-- Study assessment, study progress and examination rules
+- c. Study assessment, study progress and examination rules
 
-- Penalty for violation of school rules
+- d. Penalty for violation of school rules
 
-- Rules on conflict resolution and penalty exertion
+- e. Rules on conflict resolution and penalty exertion
 
 For decisions by the head teacher concerning rights or obligations of pupils cf. Article 1, paragraph 2 of the Administrative Procedures Act, such as expulsion from school for more than one day or if a pupil is refused access to the classroom in a particular field or subject for a period of time, procedures shall follow the Administrative Procedures Act. Head teacher's decisions are subject to appeal to the Ministry of Education, Science and Culture. Provisions in Chapter VII of the Administrative Procedures Act shall apply to case submissions.
 
@@ -548,9 +548,9 @@ The  Minister  of  Education,  Science  and  Culture  may  issue  a  Regulation 
 ##### Languages, pupils with other mother tongue than Icelandic
 The language of instruction in upper secondary schools shall be Icelandic. Schools may conduct studies in other languages than Icelandic when:
 
-- Entailed by the nature of studies or curricula and
+- a. Entailed by the nature of studies or curricula and
 
-- When  the  study  programme  in  question  is  intended  for  pupils  that  do  not  have command of the Icelandic  language  or  must  carry  out,  or  have  carried  out,  part  of their studies abroad.
+- b. When the study programme in question is intended for pupils that do not have command of the Icelandic language or must carry out, or have carried out, part of their studies abroad.
 
 Pupils who do not have Icelandic as their native language have the right for instruction in Icelandic as second language. The same applies to pupils that have stayed for a long time abroad and have little knowledge of Icelandic. The objective is to provide pupils, whose native language is  not  Icelandic,  with  the  opportunity  to  maintain  their  native  language  as  an  optional  subject, through distance learning or otherwise.
 
@@ -608,13 +608,13 @@ The  upper  secondary  school  may  provide  funding  for  the  pupils'  associa
 
 The objectives of evaluation and quality control in upper secondary schools are:
 
-- To provide information about school activities, its achievements and development to educational authorities, upper secondary schools, personnel, receiving schools, the economy, parents and pupils
+- a. To provide information about school activities, its achievements and development to educational authorities, upper secondary schools, personnel, receiving schools, the economy, parents and pupils
 
-- To  ensure  that  school  activities  are  according  to  Law,  Regulations  and  National Curriculum Guide for Upper Secondary Schools
+- b. To ensure that school activities are according to Law, Regulations and National Curriculum Guide for Upper Secondary Schools
 
-- To increase the quality of studies and school activities and encourage developmental work
+- c. To increase the quality of studies and school activities and encourage developmental work
 
-- To  ensure  that  pupils'  rights  are  respected  and  that  they  get  the  service  they  are entitled to according to law
+- d. To ensure that pupils' rights are respected and that they get the service they are entitled to according to law
 
 #### Article 41
 
@@ -684,9 +684,9 @@ Service  agreements  made  with  other  than  public  upper  secondary  schools 
 
 The head teacher shall decide on the amount of fee for enrolment and material that pupils have to pay at the outset of a school year or semester:
 
-- The enrolment fee shall take into account costs incurred by pupils' registration. Pupils who are allowed to enrol outside of predefined enrolment period may be charged 25% higher  fee,  which  may  be  conferred  to  school  funds,  since  its  income  shall  be allocated in the interest of pupils according to the school charter
+- a. The enrolment fee shall take into account costs incurred by pupils' registration. Pupils who are allowed to enrol outside of predefined enrolment period may be charged 25% higher fee, which may be conferred to school funds, since its income shall be allocated in the interest of pupils according to the school charter
 
-- Schools  may  not  collect  fee  for  material,  which  it  decides  unilaterally  to  give  to pupils. Fee for material provided to pupils by the school can be collected, whenever the material is of use or benefit to pupils. The fee shall be based on real material cost and  contribution  to  schools  out  of  the  National  Budget  to  meet  cost  of  material. Financial  accounts  shall  be  kept  accordingly.  Rules  for  general  operations  apply  to revisions hereof.
+- b. Schools may not collect fee for material, which it decides unilaterally to give to pupils. Fee for material provided to pupils by the school can be collected, whenever the material is of use or benefit to pupils. The fee shall be based on real material cost and contribution to schools out of the National Budget to meet cost of material. Financial accounts shall be kept accordingly. Rules for general operations apply to revisions hereof.
 
 The  Minister  of  Education,  Science  and  Culture  prescribes  the  limit  of  enrolment  and material fee in a Regulation.
 
@@ -724,11 +724,11 @@ When  establishing  a  new  upper  secondary  school,  an  agreement  shall  be 
 
 When the Minister of Education, Science and Culture and local authorities jointly decide to establish an upper secondary school, an agreement shall be made concerning preparation and supervision  of  capital  implementation.  Capital  implementation  can  be  under  supervision  and responsibility of the state, local authorities or jointly of state and local authorities, according to agreement:
 
-- When  local  authorities  administer  preparations  and  work  implementation  cf. paragraph  2  the  National  Treasury  pays  60%  of  costs  incurred  by  capital implementation, other building lot work, capital equipment and if relevant, pupils' residence, according to specific criteria for capital investment.
+- a. When local authorities administer preparations and work implementation cf. paragraph 2 the National Treasury pays 60% of costs incurred by capital implementation, other building lot work, capital equipment and if relevant, pupils' residence, according to specific criteria for capital investment.
 
-- When  the  Ministry administers preparations and work  implementation, cf. paragraph 2, local authorities pay 40% of costs incurred by capital implementation, other building lot work, capital equipment and if relevant, pupils' residence, according to specific criteria for capital investment.
+- b. When the Ministry administers preparations and work implementation, cf. paragraph 2, local authorities pay 40% of costs incurred by capital implementation, other building lot work, capital equipment and if relevant, pupils' residence, according to specific criteria for capital investment.
 
-- In the case of a joint implementation, the National Treasury pays 60% and local authorities 40%.
+- c. In the case of a joint implementation, the National Treasury pays 60% and local authorities 40%.
 
 If  the  state  and  local  authorities,  one  or  more,  decide  to  provide their joint school with housing  and  equipment  owned  by  a  third  party,  division  of  incurred  costs  shall  be  especially agreed upon. Division of costs between state and local authorities shall be treated similarly as if it were an implementation under their administration cf. paragraph 2.
 
