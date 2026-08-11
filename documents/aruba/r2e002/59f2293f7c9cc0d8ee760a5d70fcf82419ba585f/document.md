@@ -22,6 +22,8 @@ Wijzigingen: Geen
 
 # Hoofdstuk I: Grondrechten
 
+## Artikel I.1
+
 Allen die zich in Aruba bevinden, worden in gelijke gevallen gelijk behandeld. Discriminatie wegens godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, kleur, taal, nationale of maatschappelijke afkomst, het behoren tot een nationale minderheid, vermogen, geboorte, of op welke grond dan ook is niet toegestaan.
 
 ## Artikel I.2
@@ -38,9 +40,9 @@ De doodstraf kan niet worden opgelegd.
 
 ## Artikel I.5
 
-- Een ieder heeft op persoonlijk vrijheid en veiligheid. Niemand mag zijn vrijheid worden ontnomen, dan volgens bij of krachtens landsverordening te stellen regels in geval van:
+- Een ieder heeft recht op persoonlijke vrijheid en veiligheid. Niemand mag zijn vrijheid worden ontnomen, dan volgens bij of krachtens landsverordening te stellen regels in geval van:
 
-- rechtmatige gevangenishouding na veroordeling door een daartoe bevoegde rechters;
+- rechtmatige gevangenishouding na veroordeling door een daartoe bevoegde rechter;
 
 - rechtmatige arrestatie of gevangenishouding, wegens weigering een overeenkomstig een wettelijke regeling door een rechter gegeven bevel op te volgen of ten einde de nakoming van een door een wettelijke  regeling  voorgeschreven  uitdrukkelijke  verplichting  te verzekeren;
 
@@ -53,6 +55,8 @@ De doodstraf kan niet worden opgelegd.
 - het strafrechtelijk onderzoek in gevaar te brengen;
 
 - rechtmatige gevangenishouding van een minderjarige met het doel in te grijpen in zijn opvoeding of, in het geval van zijn rechtmatige gevangenhouding, ten einde hem voor het bevoegde gezag te geleiden;
+
+- rechtmatige gevangenhouding van personen ter voorkoming van de verspreiding van besmettelijke ziekten, van geesteszieken, van verslaafden aan alcohol of verdovende middelen of van landlopers;
 
 [[END OF PAGE 1]]
 
@@ -270,7 +274,7 @@ zeggenschap van hen die geheel of gedeeltelijk uit de openbare kas bekostigd ond
 
 ## Artikel I.21
 
-De Staten kunnen een ontwerp-landsverordening, inhoudende beperkingen van de in dit hoofdstuk genoemde grondrechten, niet goedkeuren of niet besluiten tot voordracht van een zodanige ontwerplandsverordening dan met volstrekte meerderheid der stemmen van het aantal zitting hebbende leden.
+De Staten kunnen een ontwerp-landsverordening, inhoudende beperkingen van de in dit hoofdstuk genoemde grondrechten, niet goedkeuren of niet besluiten tot voordracht van een zodanige ontwerp-landsverordening dan met volstrekte meerderheid der stemmen van het aantal zitting hebbende leden.
 
 ## Artikel I.22
 
@@ -390,7 +394,7 @@ maart 16, 2007
 
 ====================================================================
 
-De bezoldiging, het pensioen, alsmede overige geldelijke voorzieningen van de ministers en de Gevolmachigde Minister worden bij landsverordening geregeld.
+De bezoldiging, het pensioen, alsmede overige geldelijke voorzieningen van de ministers en de Gevolmachtigde Minister worden bij landsverordening geregeld.
 
 ## Artikel II. 10
 
@@ -460,11 +464,11 @@ maart 16, 2007
 
 ## Artikel III.5
 
-- De leden van de Staten worden rechtsreeks gekozen door de ingezetenen van Aruba, die Nederlander zijn en de leeftijd van achttien jaren hebben bereikt.
+- De leden van de Staten worden rechtstreeks gekozen door de ingezetenen van Aruba, die Nederlander zijn en de leeftijd van achttien jaren hebben bereikt.
 
 - Van het kiesrecht is uitgesloten:
 
-- hij die wegens het begaan van een daartoe bij de landsverordening aangewezen  delict  bij  onherroepelijk  rechterlijke  uitspraak  is veroordeeld tot een vrijheidsstraf van ten minste een jaar, en hierbij tevens is ontzet van het kiesrecht;
+- hij die wegens het begaan van een daartoe bij de landsverordening aangewezen delict bij onherroepelijke rechterlijke uitspraak is veroordeeld tot een vrijheidsstraf van ten minste een jaar, en hierbij tevens is ontzet van het kiesrecht;
 
 - hij die krachtens onherroepelijke rechterlijke uitspraak wegens een geestelijke stoornis onbekwaam is rechtshandelingen te verrichten.
 
@@ -500,7 +504,7 @@ maart 16, 2007
 
 - De landsverordening kan ten aanzien van andere openbare betrekkingen bepalen, dat zij niet gelijktijdig met het lidmaatschap van de Staten kunnen worden uitgeoefend.
 
-- De Staten kunnen een zodanige ontwerp-landsverordening niet goedkeuren of niet besluiten tot voordracht van een zodanige ontwerplandsverordening dan met twee derden der uitgebrachte stemmen.
+- De Staten kunnen een zodanige ontwerp-landsverordening niet goedkeuren of niet besluiten tot voordracht van een zodanige ontwerp-landsverordening dan met twee derden der uitgebrachte stemmen.
 
 ## Artikel III.8
 
@@ -508,7 +512,7 @@ maart 16, 2007
 
 - Wanneer personen die verkeren in een der gevallen, bedoeld in het eerste lid, tegelijkertijd gekozen worden, wordt alleen toegelaten hij die de meeste stemmen verkreeg, en bij gelijk aantal stemmen de oudste. Indien in laatstbedoeld geval ook de leeftijden gelijk zijn, beslist het lot.
 
-- Hij die na zin verkiezing komt te verkeren in het geval, be-
+- Hij die na zijn verkiezing komt te verkeren in het geval, be-
 
 9
 
@@ -536,7 +540,7 @@ De Staten onderzoeken de geloofsbrieven van hun nieuwbenoemde leden en beslissen
 
 - Alles wat verder het kiesrecht en de verkiezingen betreft, wordt bij landsverordening geregeld.
 
-- Bij landsverordening worden regels gesteld ter bevordering van een evenwichtige en verantwoord verkiezingsverloop.
+- Bij landsverordening worden regels gesteld ter bevordering van een evenwichtig en verantwoord verkiezingsverloop.
 
 ## Artikel III.11
 
@@ -638,9 +642,9 @@ verordening.
 
 ## Artikel III.20
 
-De leden van de Staten, de ministers en ander personen die deelnemen aan de beraadslaging, kunnen niet in rechte worden vervolgd of aangesproken voor hetgeen zij in de vergaderingen van de Staten of van commissies daaruit hebben gezegd of aan deze schriftelijk hebben overgelegd.
+De leden van de Staten, de ministers en andere personen die deelnemen aan de beraadslaging, kunnen niet in rechte worden vervolgd of aangesproken voor hetgeen zij in de vergaderingen van de Staten of van commissies daaruit hebben gezegd of aan deze schriftelijk hebben overgelegd.
 
-## Artikel III.20
+## Artikel III.21
 
 De Staten stellen het reglement van orde voor hun vergaderingen vast. Het wordt openbaar gemaakt op de voor landsverordeningen voorgeschreven wijze.
 
@@ -790,9 +794,9 @@ De leden van de Algemene Rekenkamer leggen voor de ambtsaanvaarding in handen va
 
 - De adviezen van de in dit hoofdstuk bedoelde colleges zijn openbaar, voor zover niet strijdig met het belang van het Land of dat van het Koninkrijk.
 
-- Bij landsverordening kan worden bepaald, dat andere belangen dan het belang van het Land en dat van het Koninkrijk openbaarmaking kunnen verhinderen van de in voorgaande lid bedoelde adviezen.
+- Bij landsverordening kan worden bepaald, dat andere belangen dan het belang van het Land en dat van het Koninkrijk openbaarmaking kunnen verhinderen van de in het voorgaande lid bedoelde adviezen.
 
-- Adviezen, uitgebracht ter zake van ontwerp-landsverordening die door de regering worden ingediend, worden aan de Staten overgelegd, voor zover deze overlegging niet strijdig is met het belang van het Land, dat van het Koninkrijk of andere bij landsverordening als zodanig aan te wijzen belangen.
+- Adviezen, uitgebracht ter zake van ontwerp-landsverordeningen die door de regering worden ingediend, worden aan de Staten overgelegd, voor zover deze overlegging niet strijdig is met het belang van het Land, dat van het Koninkrijk of andere bij landsverordening als zodanig aan te wijzen belangen.
 
 14
 
@@ -890,7 +894,7 @@ Bij  landsverordening  worden  de  bekendmaking  en  de  inwerkingtreding van la
 
 - Belastingen worden geheven uit kracht van een landsverordening.
 
-- De Staten kunnen een zodanige ontwerp-landsverordening niet goedkeuren of niet besluiten tot voordracht van een zodanige ontwerplandsverordening dan met volstrekte meerderheid der stemmen van het aantal zitting hebbende leden.
+- De Staten kunnen een zodanige ontwerp-landsverordening niet goedkeuren of niet besluiten tot voordracht van een zodanige ontwerp-landsverordening dan met volstrekte meerderheid der stemmen van het aantal zitting hebbende leden.
 
 - Andere heffingen worden bij landsverordening geregeld.
 
@@ -932,13 +936,13 @@ van de financiën van het Land.
 
 - Het aangaan of garanderen van een geldlening ten name of ten laste van het land geschiedt niet dan krachtens landsverordening.
 
-- De Staten kunnen een zodanige ontwerp-landsverordening niet goedkeuren of niet besluiten tot voordracht van een zodanige ontwerplandsverordening dan met volstrekte meerderheid der stemmen van het aantal zitting hebbende leden.
+- De Staten kunnen een zodanige ontwerp-landsverordening niet goedkeuren of niet besluiten tot voordracht van een zodanige ontwerp-landsverordening dan met volstrekte meerderheid der stemmen van het aantal zitting hebbende leden.
 
 ## Artikel V.15
 
 - Bij landsverordening wordt het geldstelsel geregeld.
 
-- De Staten kunnen een zodanige ontwerp-landsverordening niet goedkeuren of niet besluiten tot voordracht van een zodanige ontwerplandsverordening dan met twee derden der stemmen van het aantal zitting hebbende leden.
+- De Staten kunnen een zodanige ontwerp-landsverordening niet goedkeuren of niet besluiten tot voordracht van een zodanige ontwerp-landsverordening dan met twee derden der stemmen van het aantal zitting hebbende leden.
 
 ## Artikel V.16
 
@@ -1036,7 +1040,7 @@ hun toestemming niet dan ingevolge een landsverordening naar elders worden gezon
 
 ## Artikel V. 28
 
-In geval van buitengewone omstandigheden kan bij landsbesluit worden bepaald, dat in Aruba woonachtige dienstplichtigen buitengewoon in werkelijke dienst worden gehouden of geroepen. Alsdan wordt onverwijld een voorstel van landsverordening bij de Staten ingediend om het in werkelijk dienst blijven van dienstplichtigen zoveel nodig te bepalen.
+In geval van buitengewone omstandigheden kan bij landsbesluit worden bepaald, dat in Aruba woonachtige dienstplichtigen buitengewoon in werkelijke dienst worden gehouden of geroepen. Alsdan wordt onverwijld een voorstel van landsverordening bij de Staten ingediend om het in werkelijke dienst blijven van dienstplichtigen zoveel nodig te bepalen.
 
 ## Artikel V.29
 
@@ -1054,7 +1058,7 @@ Er wordt in Aruba recht gesproken in naam des Konings.
 
 ## Artikel VI.2
 
-- De rechterlijke macht wordt alleen uitgeoefend door de rechter die lid zijn van het Gemeenschappelijk Hof van Justitie.
+- De rechterlijke macht wordt alleen uitgeoefend door de rechters die lid zijn van het Gemeenschappelijk Hof van Justitie.
 
 - Elke tussenkomst in rechtszaken is verboden.
 
@@ -1146,7 +1150,7 @@ maart 16, 2007
 
 - De president en de overige leden van het Hof worden door de Koning voor het leven benoemd.
 
-- De plaatsvervangende leden van het Hof worden op een daartoestrekkende schriftelijke aanbevelingen van het Hof door de Koning benoemd. De benoeming kan voor bepaalde tijd geschieden, doch ten minste voor drie jaar.
+- De plaatsvervangende leden van het Hof worden op een daartoe strekkende schriftelijke aanbeveling van het Hof door de Koning benoemd. De benoeming kan voor bepaalde tijd geschieden, doch ten minste voor drie jaar.
 
 ## Artikel VI.11
 
@@ -1154,7 +1158,7 @@ maart 16, 2007
 
 - De Ministeriële Samenwerkingsraad stelt op zijn beurt een aanbevelingslijst op en doet deze toekomen aan de regering ten einde deze aan  de  Koning  aan  te  bieden.  Bij  het  opstellen  van  de  aanbevelingslijst neemt de Ministeriële Samenwerkingsraad de aanbeveling van het Hof zoveel mogelijk in acht.
 
-- Indien de Ministeriele Samenwerkingsraad voornemens is af te wijken van de aanbeveling van het Hof, wint hij daaromtrent, alvorens die lijst aan de regering te zenden, het gevoelen van het Hof in. Het gevoelen van het Hof, alsmede de aanbeveling van het Hof worden bij de door de Ministeriele Samenwerkingsraad opgemaakte aanbevelingslijst gevoegd. De Ministeriële Samenwerkingsraad motiveert, waarom hij is afgeweken van de aanbeveling van het Hof.
+- Indien de Ministeriële Samenwerkingsraad voornemens is af te wijken van de aanbeveling van het Hof, wint hij daaromtrent, alvorens die lijst aan de regering te zenden, het gevoelen van het Hof in. Het gevoelen van het Hof, alsmede de aanbeveling van het Hof worden bij de door de Ministeriële Samenwerkingsraad opgemaakte aanbevelingslijst gevoegd. De Ministeriële Samenwerkingsraad motiveert, waarom hij is afgeweken van de aanbeveling van het Hof.
 
 ## Artikel VI.12
 
@@ -1274,11 +1278,11 @@ gens misdrijf zijn veroordeeld, dan wel bij zulk een uitspraak een  maatregel  i
 
 ## Artikel VI.18
 
-1. Elk lid der rechterlijke macht tegen wie hetzij rechtsingang, hetzij machtiging tot opneming in een huis van bewaring of geneeskundig gesticht voor krankzinningen is verleend, of op wie lijfsdwang is ten uitvoer gelegd, wordt daardoor in zijn bediening geschorst.
+1. Elk lid der rechterlijke macht tegen wie hetzij rechtsingang, hetzij machtiging tot opneming in een huis van bewaring of geneeskundig gesticht voor krankzinnigen is verleend, of op wie lijfsdwang is ten uitvoer gelegd, wordt daardoor in zijn bediening geschorst.
 
 2. Schorsing in de bediening brengt geen schorsing mede in het genot der bezoldiging.
 
-## Artikel VI.l9
+## Artikel VI.19
 
 23
 
@@ -1314,7 +1318,7 @@ De werkzaamheden als rechter in eerste aanleg worden door de president van het H
 
 ## Artikel VI.22
 
-- Wanneer de plaats van procureur-generaal openvalt, nodigt de regering  het  Gemeenschappelijk  Hof  van  Justitie,  de  procureursgeneraal van de Nederlandse Antillen en Aruba daaronder begrepen, uit een aanbeveling voor de benoeming te doen. Het Hof maakt bij volstrekte meerderheid van stemmen een aanbevelingslijst op, bevattende de namen van ten hoogste drie kandidaten.
+- Wanneer de plaats van procureur-generaal openvalt, nodigt de regering het Gemeenschappelijk Hof van Justitie, de procureurs-generaal van de Nederlandse Antillen en Aruba daaronder begrepen, uit een aanbeveling voor de benoeming te doen. Het Hof maakt bij volstrekte meerderheid van stemmen een aanbevelingslijst op, bevattende de namen van ten hoogste drie kandidaten.
 
 - De regering stelt op haar beurt een aanbevelingslijst op en zendt deze aan de Koning. Bij het opstellen van de aanbevelingslijst neemt de regering zoveel mogelijk de aanbevelingen van het Hof in acht.
 
@@ -1374,7 +1378,7 @@ De rechtspositie van de leden van het openbaar ministerie bij het Gemeenschappel
 
 # Hoofdstuk VII: Slotbepalingen
 
-## Artikel VII.l
+## Artikel VII.1
 
 - Bij landsverordening kunnen in de bepalingen van deze Staatsregeling wijzigingen worden aangebracht. Elk ontwerp dan wel voor-
 
