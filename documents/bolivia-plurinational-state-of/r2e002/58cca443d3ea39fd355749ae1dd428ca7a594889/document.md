@@ -1,18 +1,26 @@
 [[START OF PAGE 1]]
+Promulgada
+Estado Plurinacional de Bolivia
+Ministerio de Educación
 
-1
+# Ley de la Educación “Avelino Siñani - Elizardo Pérez”
 
+No. 070
+
+La Paz, 20 de diciembre del 2010
+
+Revolución en la Educación
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-LEY NRO 070/2010-2011
+LEY NRO 070/2010–2011
 
 LA ASAMBLEA LEGISLATIVA PLURINACIONAL
 
 DECRETA:
 
-# LEY DE LA EDUCACIÓN 'AVELINO SIÑANI - ELIZARDO PÉREZ'
+# LEY DE LA EDUCACIÓN “AVELINO SIÑANI - ELIZARDO PÉREZ”
 
 ## TÍTULO I MARCO FILOSÓFICO Y POLÍTICO DE LA EDUCACIÓN BOLIVIANA
 
@@ -56,7 +64,7 @@ DECRETA:
 
 - Del derecho de las madres y padres. Se  respeta el derecho de las madres y padres a elegir la educación que convenga para sus hijas e hijos.
 
-- Inamovilidad funcionaría. Se garantiza la carrera docente y la inamovilidad del personal docente, administrativo y de servicio del magisterio nacional.
+- Inamovilidad funcionaria. Se garantiza la carrera docente y la inamovilidad del personal docente, administrativo y de servicio del magisterio nacional.
 
 - Escalafón  nacional  del  magisterio. El  reglamento  del  escalafón  nacional  del servicio  de  educación,  es  el  instrumento  normativo  de  vigencia  plena  que garantiza la carrera docente, administrativa y de servicio del Sistema Educativo Plurinacional.
 
@@ -295,12 +303,10 @@ El Subsistema de Educación Regular comprende:
 
 - Educación Secundaria Comunitaria Productiva.
 
-##### Artículo  12.  (Educación    Inicial  en  Familia  Comunitaria) .
-Constituye  la  base fundamental para la formación integral de la niña y el niño, se reconoce y fortalece a la familia y la comunidad como el primer espacio de socialización y aprendizaje. De cinco años de duración, comprende dos etapas:
+##### Artículo 12. (Educación Inicial en Familia Comunitaria).
+Constituye la base fundamental para la formación integral de la niña y el niño, se reconoce y fortalece a la familia y la comunidad como el primer espacio de socialización y aprendizaje. De cinco años de duración, comprende dos etapas:
 
-###### 1. Educación Inicial en Familia Comunitaria, no escolarizada
-
-.
+###### 1. Educación Inicial en Familia Comunitaria, no escolarizada.
 
 Es  de  responsabilidad  compartida  entre  la  familia,  la  comunidad  y  el  Estado, orientada a recuperar, fortalecer y promover la identidad cultural del entorno de la niña y el niño, el apoyo a la familia en la prevención y promoción de la salud y la  buena  nutrición,  para  su  desarrollo  psicomotriz,  socio-afectivo,  espiritual  y cognitivo. De tres años de duración.
 
@@ -326,7 +332,7 @@ Comprende  la formación básica, cimiento de todo el proceso de formación post
 las vocaciones y potencialidades productivas de las regiones y del Estado Plurinacional. De seis años de duración.
 
 ##### Artículo 15. (Educación escolarizada integral para la población en desventaja social).
-Es la educación integral escolarizada dirigida a la atención de niñas, niños y adolescentes, jóvenes trabajadores desprotegidos  y  en desventaja  social  para protegerlos  del  entorno,  mediante  programas  especiales  de  hogares  abiertos  con servicios integrales de salud, alimentación, educación, reinserción escolar y sociolaboral, considerando políticas de rezago escolar como prioridad educativa.
+Es la educación integral escolarizada dirigida a la atención de niñas, niños y adolescentes, jóvenes trabajadores desprotegidos y en desventaja social para protegerlos del entorno, mediante programas especiales de hogares abiertos con servicios integrales de salud, alimentación, educación, reinserción escolar y socio-laboral, considerando políticas de rezago escolar como prioridad educativa.
 
 ### CAPÍTULO II SUBSISTEMA DE EDUCACIÓN ALTERNATIVA Y ESPECIAL
 
@@ -373,7 +379,7 @@ Los saberes,  conocimientos  y  experiencias  de  las  personas  adquiridos  en 
 
 - Los  niveles  de  la  formación  y  capacitación  técnica  tendrán  su  respectiva certificación  como  Técnico  Básico,  Técnico  Auxiliar  y  Técnico  Medio,  que habilita a las y los estudiantes su continuidad en la Educación Superior y su incorporación  al  sector  productivo.  Otras  certificaciones  técnicas  estarán sujetas a reglamentación y autorización expresa del Ministerio de Educación.
 
-##### Articulo  20.  (Centros  de  Capacitación  Técnica).
+##### Artículo 20. (Centros de Capacitación Técnica).
 Los  Centros  de  Capacitación Técnica son instituciones educativas que desarrollan programas de corta duración, dependen del Subsistema de Educación Alternativa y Especial. Son instituciones de carácter  fiscal,  de  convenio  y  privado  que  funcionarán  de  acuerdo  a  reglamento establecido por el Ministerio de Educación.
 
 #### SECCIÓN I EDUCACIÓN ALTERNATIVA
@@ -388,7 +394,7 @@ Los  Centros  de  Capacitación Técnica son instituciones educativas que desarr
 
 - Comprende  las  acciones  educativas  destinadas  a  jóvenes  y  adultos  que requieren continuar sus estudios; de acuerdo a sus necesidades y expectativas  de  vida  y  de  su  entorno  social,  mediante  procesos  educativos sistemáticos  e  integrales,  con  el  mismo  nivel  de  calidad,  pertinencia  y equiparación de condiciones que en el Subsistema Regular.
 
-- Comprende el desarrollo de procesos de formación permanente en y para la vida,    que  respondan  a  las  necesidades,  expectativas,  intereses  de  las organizaciones,  comunidades,  familias  y  personas,  en  su  formación  sociocomunitaria  productiva  que  contribuyan  a  la  organización  y  movilización social y política.
+- Comprende el desarrollo de procesos de formación permanente en y para la vida, que respondan a las necesidades, expectativas, intereses de las organizaciones, comunidades, familias y personas, en su formación socio-comunitaria productiva que contribuyan a la organización y movilización social y política.
 
 ##### Artículo 22. (Estructura de la Educación Alternativa).
 
@@ -404,11 +410,11 @@ Son áreas de la Educación Alternativa:
 
 - Los  niveles  de  formación  de  la  Educación  de  Personas  Jóvenes  y  Adultas comprenden:
 
-- Educación  Primaria  de  Personas  Jóvenes  y  Adultas,  Alfabetización  y  Postalfabetización.
+- Educación Primaria de Personas Jóvenes y Adultas, Alfabetización y Post-alfabetización.
 
 - Educación Secundaria de Personas Jóvenes y Adultas.
 
-- I II II I. . E Es stos niveles y etapas tendrán su respectiva certificación al concluir la totalidad de las  etapas  establecidas  en  la  Educación  Secundaria  de  Personas  Jóvenes  y Adultas,  se  entregará  una  certificación  que  los  acreditará  como  Bachiller Técnico-Humanístico,  y  de  manera  gradual  como  Técnico  Medio  los  habilitará para dar continuidad en su formación en el nivel superior y su incorporación al sector productivo.
+III. Estos niveles y etapas tendrán su respectiva certificación al concluir la totalidad de las etapas establecidas en la Educación Secundaria de Personas Jóvenes y Adultas, se entregará una certificación que los acreditará como Bachiller Técnico-Humanístico, y de manera gradual como Técnico Medio los habilitará para dar continuidad en su formación en el nivel superior y su incorporación al sector productivo.
 
 ##### Artículo 24. (Educación Permanente, no escolarizada).
 
@@ -869,7 +875,7 @@ Las y los profesionales  en  Ciencias  de  la  Educación  y  Pedagogía  apoyan
 
 #### SECCIÓN V EVALUACIÓN Y ACREDITACIÓN UNIVERSITARIA
 
-##### Artículo 68. (Agencia Plurinacional de Evaluación  y Acreditación de la Educación Superior Universitaria - APEAESU).
+##### Artículo 68. (Agencia Plurinacional de Evaluación  y Acreditación de la Educación Superior Universitaria – APEAESU).
 
 - La  evaluación  es  el  proceso  de  cualificación  de  la  calidad  de  la  educación superior universitaria; contempla la autoevaluación, la evaluación por pares y la evaluación social.
 
@@ -1075,9 +1081,7 @@ Son las instancias de apoyo técnico pedagógico al Sistema Educativo Plurinacio
 
 [[START OF PAGE 34]]
 
-- Administrar e implementar técnicamente recursos
-
-curriculares y didácticos en coordinación con las autoridades correspondientes.
+- Administrar e implementar técnicamente recursos curriculares y didácticos en coordinación con las autoridades correspondientes.
 
 ##### Artículo  86.  (Ámbito  de  acción).
 La estructura  de Apoyo  Técnico  de  Recursos y Servicios, se definirá de acuerdo a las necesidades del Sistema Educativo Plurinacional en sus diferentes modalidades y niveles, a través de la constitución de equipos multidisciplinarios de fortalecimiento a los espacios educativos, se regulará mediante reglamento específico.
@@ -1137,7 +1141,7 @@ Las instancias de Participación  Social  Comunitaria  en  la  educación,  est�
 
 [[START OF PAGE 36]]
 
-- científica,  crítica  y  solidaria  desde  la  planificación  hasta  la evaluación en lo nacional y en cada una  de las entidades territoriales autónomas.
+científica,  crítica  y  solidaria  desde  la  planificación  hasta  la evaluación en lo nacional y en cada una  de las entidades territoriales autónomas.
 
 - Consejos Educativos Social Comunitarios, a nivel Departamental, Regional, Distrital, de Núcleo y Unidades Educativas: Participan en la gestión educativa, de acuerdo a su ámbito de competencia, en correspondencia con las políticas educativas plurinacionales y reglamentación específica.
 
@@ -1166,13 +1170,15 @@ El Ministerio de Educación implementará programas de formación complementaria
 La Comisión Nacional de Acreditación de Carreras Universitarias en actual funcionamiento, cumplirá las funciones de Agencia Plurinacional de Evaluación y Acreditación de Carreras Universitarias, mientras dure el proceso de implementación según las prerrogativas en la presente ley.
 
 #### Séptima.  (Instituto  Normal  Superior  Católico).
-Las  y  los  estudiantes  que  a  la fecha de la promulgación de la presente ley cursan estudios, continuarán hasta su graduación,  en  las  mismas  condiciones  con  las  que  fueron inscritos. El Instituto Normal Superior Católico concluirá su funcionamiento, con la graduación de la última admisión autorizada por el Ministerio de Educación.
+Las y los estudiantes que a la fecha de la promulgación de la presente ley cursan estudios, continuarán hasta su
 
 36
 
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
+
+graduación, en las mismas condiciones con las que fueron inscritos. El Instituto Normal Superior Católico concluirá su funcionamiento, con la graduación de la última admisión autorizada por el Ministerio de Educación.
 
 #### Octava.  (Instituto Normal Superior Adventista).
 Las y los estudiantes que a la fecha de la promulgación de la presente ley cursan estudios, continuarán hasta su graduación,  en  las  mismas  condiciones  con  las  que  fueron  inscritos.  El  Instituto Normal Superior Adventista concluirá su funcionamiento, con la graduación de la última admisión autorizada por el Ministerio de Educación.
@@ -1196,13 +1202,15 @@ Todos los cargos y autoridades de los subsistemas y niveles del Sistema Educativ
 Las escuelas de frontera son prioridad del Estado, tendrán carácter integral y recibirán atención en personal, infraestructura y equipamiento, sobre la base de las Políticas y Programas Educativos extraordinarios definidos por el Ministerio de Educación.
 
 #### Décima segunda. (Planes y Programas intersectoriales).
-Los Planes y Programas intersectoriales  y  articuladores  relacionados  con  educación,  y  que  constituyan prioridades  del  Estado  Plurinacional,  deberán  ser  implementados  por  el  Sistema Educativo Plurinacional a través de planes de acción conjunta y coordinada  para  su  incorporación  sistemática  en  los  distintos  componentes  del Sistema. Constituyen prioridades: Educación sin violencia, educación en derechos humanos, educación en seguridad ciudadana, educación en derechos de la Madre Tierra, educación contra el racismo, educación en valores y ética.
+Los Planes y Programas intersectoriales  y  articuladores  relacionados  con  educación,  y  que  constituyan prioridades  del  Estado  Plurinacional,  deberán  ser  implementados  por  el  Sistema
 
 37
 
 [[END OF PAGE 37]]
 
 [[START OF PAGE 38]]
+
+Educativo Plurinacional a través de planes de acción conjunta y coordinada para su incorporación sistemática en los distintos componentes del Sistema. Constituyen prioridades: Educación sin violencia, educación en derechos humanos, educación en seguridad ciudadana, educación en derechos de la Madre Tierra, educación contra el racismo, educación en valores y ética.
 
 ### DISPOSICIÓN ABROGATORIA
 
