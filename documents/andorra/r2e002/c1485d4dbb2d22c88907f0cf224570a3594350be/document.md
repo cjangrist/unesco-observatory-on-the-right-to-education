@@ -14,19 +14,19 @@ Lleis ordinàries
 
 Atès que el Consell General en la seva sessió del dia 3 de juny del 2014 ha aprovat la següent:
 
-La Llei d'ajuts a l'estudi del 2002 ha donat una resposta efectiva i satisfactòria a les necessitats d'ajuts a l'ensenyament de la nostra societat. Les innovacions en el món educatiu i la nova estructura de l'Espai Europeu d'Ensenyament Superior, amb l'ampliació del sistema d'ajuts al segon cicle universitari, fan necessari l'establiment d'un marc legislatiu que inclogui la possibilitat de desenvolupar reglamentàriament aspectes que, per la seva idiosincràsia, estan subjectes a canvis i modificacions.
-
 # llei 9/2014, del 3 de juny, d'ajuts a l'estudi
 
 ## Exposició de motius
 
-La societat andorrana aspira a proporcionar la millor educació possible a les noves generacions. Una aspiració que es correspon amb la voluntat col·lectiva de fer d'Andorra un país pròsper, benestant i cohesionat, on totes les persones que hi viuen puguin lliurement desenvolupar la pròpia personalitat, formar-se com a ciutadans i participar del progrés col· lectiu.
+La societat andorrana aspira a proporcionar la millor educació possible a les noves generacions. Una aspiració que es correspon amb la voluntat col·lectiva de fer d'Andorra un país pròsper, benestant i cohesionat, on totes les persones que hi viuen puguin lliurement desenvolupar la pròpia personalitat, formar-se com a ciutadans i participar del progrés col·lectiu.
 
 L'educació fa possible la superació dels condicionants personals, socials, econòmics i culturals de partida; és la clau de les oportunitats per superar les desigualtats i per desvetllar i aprofitar tots els talents de la societat.
 
 Per això el dret de tota persona a l'educació és un dret que la Constitució d'Andorra reconeix com a fonamental i que la Llei qualificada d'educació desenvolupa. Per garantir-lo de manera efectiva i oferir l'oportunitat de superar els obstacles de tota mena que puguin menyscabar-lo, els poders públics s'han dotat d'un sistema d'ajuts a l'estudi que compensa les desigualtats econòmiques i socials i, en els nivells d'ensenyament post obligatori, incentiva la continuïtat de l'estudi.
 
 L'any 2002, el Govern va fer una reflexió important per actualitzar les mesures que calia adoptar per facilitar, en condicions d'equitat, l'accés als serveis escolars de l'ensenyament obligatori mitjançant l'atorgament de beques a fons perdut. Així mateix, va establir un sistema de crèdits per als estudiants de carreres universitàries superiors i per als ensenyaments de postgrau.
+
+La Llei d'ajuts a l'estudi del 2002 ha donat una resposta efectiva i satisfactòria a les necessitats d'ajuts a l'ensenyament de la nostra societat. Les innovacions en el món educatiu i la nova estructura de l'Espai Europeu d'Ensenyament Superior, amb l'ampliació del sistema d'ajuts al segon cicle universitari, fan necessari l'establiment d'un marc legislatiu que inclogui la possibilitat de desenvolupar reglamentàriament aspectes que, per la seva idiosincràsia, estan subjectes a canvis i modificacions.
 
 L'ampliació de l'abast dels ajuts a l'ensenyament superior, per incloure els ajuts al segon cicle, fa que la figura del crèdit d'estudi esdevingui innecessària en aquest context, perquè els ajuts al primer i al segon cicles universitaris queden coberts per aquesta Llei. Els ajuts al tercer cicle continuen gestionant-se pels principis rectors que són aplicables actualment.
 
