@@ -6,7 +6,7 @@ Tenth consultation of Member States on the application of the Convention and the
 
 GUIDELINES FOR THE PREPARATION OF REPORTS BY MEMBER STATES ON THE APPLICATION OF THE 1960 CONVENTION AND RECOMMENDATION AGAINST DISCRIMINATION IN EDUCATION
 
-Approved by the UNESCO Executive Board at its 207 th session in October 2019
+Approved by the UNESCO Executive Board at its 207th session in October 2019
 
 ## 1. Introduction
 
@@ -16,7 +16,7 @@ The right to education is today one of the key principles underpinning the Educa
 
 The  Convention  has  been  recognized  as  a cornerstone  of  Education  2030  agenda .  It  also represents a powerful tool to advance SDG4 by ensuring effective articulation between normative and operational work.
 
-The present Guidelines are intended to assist Member States in the preparation of national reports on the implementation of the Convention as well as the Recommendation in the context of the 10 th Consultation.
+The present Guidelines are intended to assist Member States in the preparation of national reports on the implementation of the Convention as well as the Recommendation in the context of the 10th Consultation.
 
 ## 2. Reporting obligations
 
@@ -74,9 +74,9 @@ Country name: Australia
 
 Organization or entity responsible for the preparation of the report: Department of Education, Skills and Employment
 
-## Information on the legislative, judicial, administrative and other measures taken by the state at the national level
+## I. Information on the legislative, judicial, administrative and other measures taken by the state at the national level
 
-### Ratification of the Convention 2
+### 1. Ratification of the Convention 2
 
 Is your country a State Party to the Convention?
 
@@ -112,7 +112,7 @@ http://portal.unesco.org/en/ev.php-URL_ID=12949&URL_DO=DO_TOPIC&URL_SECTION=201.
 
 [[START OF PAGE 5]]
 
-### Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
+### 2. Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
 
 Has your country ratified the Protocol?
 
@@ -122,7 +122,7 @@ o No, please briefly explain the difficulties encountered:
 
 Australia ratified the Protocol Instituting a Conciliation and Good offices Commission to be Responsible for Seeking the settlement of any Disputes which may Arise between States Parties to the Convention against Discrimination in Education (1962) on 22 August 1974.
 
-### Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
+### 3. Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
 
 In case your country is a State Party to the Convention:
 
@@ -200,7 +200,7 @@ Not applicable
 
 ### 1. Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
 
-Articles/Paragraphs  1(1),  2  and  3  of  the  Convention/Recommendation  provide  for  nondiscrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
+Articles/Paragraphs  1(1),  2  and  3  of  the  Convention/Recommendation  provide  for  non-discrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
 
 This corresponds to the overall aspiration of SDG4 which aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all' by 2030. It therefore covers all the SDG4 targets, but also specifically SDG target 4.5. 4
 
@@ -292,8 +292,6 @@ Australia's Attorney General's Department has carried the Disability Discriminat
 
 - 1.3 Please  indicate  the  actions  taken  and  planned  in  your  country  to  ensure  equality  of opportunities (in terms of access, participation and completion), equal treatment and to support the  inclusion  of  all  learners  (including  girls  and  women,  the  economically  and  socially marginalized,  people  with  disabilities  and  other  vulnerable  groups)  in  learning  processes (several items could be ticked/mentioned):
 
-- x Other:
-
 - x Providing financial incentives and fellowships
 
 - x Providing positive or affirmative action measures
@@ -304,13 +302,11 @@ Australia's Attorney General's Department has carried the Disability Discriminat
 
 - x Ensuring gender parity in science, technology, engineering and mathematics (STEM) and technical and vocational training (TVET)
 
-o
-
-Providing  re-entry  programmes  for  young
-
-mothers
+- o Providing re-entry programmes for young mothers
 
 - o Eliminating all barriers for pregnant girls or young mothers in education
+
+- x Other:
 
 - x Providing auxiliary assistance
 
@@ -332,7 +328,7 @@ The Australian Government will invest an estimated $29.6 billion to support the 
 
 Since 2018, the Nationally Consistent Collection of Data on School Students with Disability (NCCD) is used to calculate the loading. The NCCD focuses on the adjustment provided to the student based on their functional needs to participate in education, rather than the type of disability. The collection counts all students receiving adjustments to support their access and participation in learning due to disability - not just those with medical diagnosis.
 
-Through the NCCD, teachers use professional judgement, supported by evidence, to include students in the collection based on nationally consistent guidelines. Decisions are made in consultation with the student and their parents or carers. The NCCD model recognises the professional  knowledge,  practice  and  judgements  of  teachers  and  school  staff  who  best understand the educational needs of their students.
+Through the NCCD, teachers use professional judgement, supported by evidence, to include students in the collection based on nationally consistent guidelines. Decisions are made in consultation with the student and their parents or carers. The NCCD model recognises the
 
 > 6 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programmes'.
 
@@ -341,6 +337,8 @@ Through the NCCD, teachers use professional judgement, supported by evidence, to
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
+professional knowledge, practice and judgements of teachers and school staff who best understand the educational needs of their students.
 
 The NCCD process aligns with, and helps to reinforce, schools' obligations under the Disability Discrimination Act 1992 and the Disability Standards for Education 2005.
 
@@ -364,11 +362,13 @@ The Australian Curriculum provides opportunities for teachers to develop inclusi
 
 ##### Australia's Higher Education Loan Program (HELP)
 
-(https://www.education.gov.au/higher-education-loan-program-help) provides loans to students studying approved higher education courses. The scheme allows students to defer the costs of tuition until their taxable income reaches a certain level at which repayments commence.
+(https://www.education.gov.au/higher-education-loan-program-help) provides loans to students studying approved higher education courses. The scheme allows students to
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+
+defer the costs of tuition until their taxable income reaches a certain level at which repayments commence.
 
 The CGS and the HELP scheme supports students facing disadvantage, as they need not pay upfront for their higher education. As Commonwealth supported students, they receive subsidised tuition and are able to borrow their entire student contribution amount under the HECS-HELP loan scheme.
 
@@ -376,7 +376,7 @@ In  addition,  Australia  has  a  number  of  smaller  programs  designed  to  i
 
 ##### The Higher Education Participation and Partnerships Program (HEPPP)
 
-(https://www.education.gov.au/higher-education-participation-and-partnershipsprogramme-heppp) provides funding to assist public universities to undertake activities and implement strategies that improve access to undergraduate courses for people from low SES backgrounds, as well as improving the retention and completion rates of those students.
+(https://www.education.gov.au/higher-education-participation-and-partnerships-programme-heppp) provides funding to assist public universities to undertake activities and implement strategies that improve access to undergraduate courses for people from low SES backgrounds, as well as improving the retention and completion rates of those students.
 
 ##### The Higher Education Disability Support Program
 
@@ -388,11 +388,15 @@ In  addition,  Australia  has  a  number  of  smaller  programs  designed  to  i
 
 A current key program that targets regional and remote students is the Rural and Regional Enterprise Scholarships, which commenced in 2016. The Government has committed $58.1 million for 3,155 scholarships, which are valued at up to $18,000 each and support flexible study arrangements, including full-time, part-time and online study. Students can undertake study for six months full-time up to a maximum of four years full-time, or the part-time equivalent. To date, three scholarship rounds have been run in 2018 and 2019, with 2,071 students supported. A fourth round opened on 20 January 2020 on a rolling application basis for students commencing studies at any time in the 2020 academic calendar year. Special consideration is being provided to students affected by natural disasters, such as drought and bushfires.
 
-The Government is also funding the establishment and operational costs of 25 communityowned Regional University Centres (Centres) across regional and remote Australia. The Centres are community-owned facilities in regional and remote communities that provide infrastructure such as study spaces, video conferencing, computing facilities and internet access, as well as pastoral and academic support for students studying via distance at any Australian university, enabling students to study with local support available, while still living and working in their local community. The program is aimed at addressing educational access issues in regional and remote communities where there are thin markets for education provision, providing a cost effective and less disruptive option for students compared with relocating for further study From 2020 to 2029 , 24.5 per cent of all Australian Government recurrent funding will be targeted towards supporting vulnerable and disadvantaged students through these loadings.
+The Government is also funding the establishment and operational costs of 25 community-owned Regional University Centres (Centres) across regional and remote Australia. The Centres are community-owned facilities in regional and remote communities that provide infrastructure such as study spaces, video conferencing, computing facilities and internet access, as well as pastoral and academic support for students studying via distance at any Australian university, enabling students to study with local support available, while still living and working in their local community. The program is aimed at addressing educational access issues in regional and remote communities where there are thin
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+
+markets for education provision, providing a cost effective and less disruptive option for students compared with relocating for further study
+
+From 2020 to 2029, 24.5 per cent of all Australian Government recurrent funding will be targeted towards supporting vulnerable and disadvantaged students through these loadings.
 
 A base amount is provided for every student, with additional loadings to support disadvantaged schools and facilitate achievement of priority cohorts, including for students with disability.
 
@@ -448,7 +452,7 @@ The Australian Government has implemented the following programs in the early ch
 
 #### Child Care Safety Net
 
-- Under the Australian Government's Child Care Package Child Care Safety Net, lowincome families on combined family incomes of $68,163 or less a year who do not meet the activity test can access 24 hours of subsidised care per fortnight. In addition, families who do not meet the activity test but have a preschool-age child attending preschool in a Centre Based Day Care service will be eligible for 36 hours of subsidised care per fortnight.
+- Under the Australian Government's Child Care Package Child Care Safety Net, low-income families on combined family incomes of $68,163 or less a year who do not meet the activity test can access 24 hours of subsidised care per fortnight. In addition, families who do not meet the activity test but have a preschool-age child attending preschool in a Centre Based Day Care service will be eligible for 36 hours of subsidised care per fortnight.
 
 - The low income provision recognises the importance of children from low income families having access to quality early learning, in circumstances where their parents may not otherwise meet the activity test. Children from disadvantaged backgrounds derive a greater benefit than other children from participating in a quality early learning program, and access to affordable child care for families who face multiple vulnerabilities is an important mechanism to increase engagement with the workforce.
 
@@ -478,7 +482,7 @@ The Australian Government has implemented the following programs in the early ch
 
 - o seeking to commence a new service in a community where another service has closed, resulting in a lack of suitable child care (market failure) and the new service will require funding to establish a viable operation.
 
-- While the CCCF Special Circumstances grant opportunity was extended to services experiencing financial viability issues as a result of COVID-19, applications for COVID19 specific funding closed on 3 April, in consideration of the Prime Minister's 2 April announcement of the Early Childhood Education and Care Relief Package.
+- While the CCCF Special Circumstances grant opportunity was extended to services experiencing financial viability issues as a result of COVID-19, applications for COVID-19 specific funding closed on 3 April, in consideration of the Prime Minister's 2 April announcement of the Early Childhood Education and Care Relief Package.
 
 #### In Home Care program
 
@@ -572,13 +576,13 @@ It is an offence under section 100 of the Marriage Act for a person to solemnise
 
 #### 2.1 Pre-primary education
 
-Pre-primary  education  is  not  explicitly  provided  for  in  the  Convention/Recommendation. However, the international community has increasingly recognized the importance of early childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 8 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory preprimary education'.
+Pre-primary  education  is  not  explicitly  provided  for  in  the  Convention/Recommendation. However, the international community has increasingly recognized the importance of early childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 8 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 - Is compulsory and free of charge pre-primary education available in your country?
 
 o Pre-primary education is compulsory: Please provide the age of enrolment and duration:
 
-While pre-primary education in Australia is not compulsory or fee-free, the National Partnership on Universal Access to Early Childhood Education (UANP)-an agreement between the federal and state and territory governments-has resulted in nearly all children in the year before fulltime school accessing a quality pre-primary education program.
+While pre-primary education in Australia is not compulsory or fee-free, the National Partnership on Universal Access to Early Childhood Education (UANP)—an agreement between the federal and state and territory governments—has resulted in nearly all
 
 > 8 Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'.
 
@@ -586,13 +590,15 @@ While pre-primary education in Australia is not compulsory or fee-free, the Nati
 
 [[START OF PAGE 17]]
 
+children in the year before fulltime school accessing a quality pre-primary education program.
+
 While Early Education and Child Care in Australia is not compulsory or fee-free, the National Quality Framework for early learning and child care is the national approach to the regulation and assessment of services. The National Quality Framework comprises the Education and Care Services National Law (National Law) and the Education and Care Services National Regulations (National Regulations).
 
 - o Pre-primary education is free of charge for all: Please provide the duration:
 
-- Please list the laws and policies that ensure the availability of pre-primary education for all and provide information on the difficulties experienced by your government in the realization of access to pre-primary education. Brief quantitative information could be added.
-
 See above
+
+- Please list the laws and policies that ensure the availability of pre-primary education for all and provide information on the difficulties experienced by your government in the realization of access to pre-primary education. Brief quantitative information could be added.
 
 While Early Education and Child Care in Australia is not compulsory or fee-free, the National Quality Framework for early learning and child care is the national approach to the regulation and assessment of services. The National Quality Framework comprises the Education and Care Services National Law (National Law) and the Education and Care Services National Regulations (National Regulations).
 
@@ -714,27 +720,25 @@ The age variations reflect the different compulsory schooling requirements acros
 
 - Indicate whether your country has adopted and reviewed legislation related to the minimum age of entry into employment so that it is aligned with the end of compulsory education:
 
-Please  note  that  minimum  age  labour  laws  and  those  related  to  compulsory  education interdependent and mutually reinforce each other. If the minimum age of employment is below that of compulsory education, the child is at risk of dropping out of school to work and therefore not completing compulsory education. On the other hand, if compulsory education is lower than the minimum age of employment, once the child has completed compulsory education, the door is open to child exploitation and the violation of labour laws.
+Please  note  that  minimum  age  labour  laws  and  those  related  to  compulsory  education interdependent and mutually reinforce each other. If the minimum age of employment is below that of compulsory education, the child is at risk of dropping out of school to work and therefore
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
 
-#### 2.3 Higher education
+not completing compulsory education. On the other hand, if compulsory education is lower than the minimum age of employment, once the child has completed compulsory education, the door is open to child exploitation and the violation of labour laws.
 
-Yes
-
-o
-
-No o
+Yes o No o
 
 - Please provide reference to the relevant laws and provisions:
 
 N/A
 
-Australia has a range of laws in place to regulate the participation of children in the workforce. These measures include state and territory compulsory education legislation, child employment/protection legislation, and work health and safety legislation supported by strong monitoring systems including labour inspection. In addition, Australia's national social security system ensures that there are no financial incentives for children to work to support their family's finances.  These measures are consistent with, and have been instrumental to, the abolition of child labour and setting appropriate parameters around children's participation in paid work in Australia.
+Australia has a range of laws in place to regulate the participation of children in the workforce. These measures include state and territory compulsory education legislation, child employment/protection legislation, and work health and safety legislation supported by strong monitoring systems including labour inspection. In addition, Australia's national social security system ensures that there are no financial incentives for children to work to support their family's finances. These measures are consistent with, and have been instrumental to, the abolition of child labour and setting appropriate parameters around children's participation in paid work in Australia.
 
-In Australia, the minimum age for admission to employment is the time at which a child ceases to be of compulsory school age (between the ages of 15 and 17 depending on the state or territory jurisdiction).  Generally, state and territory legislation requires children to participate in schooling (or an approved equivalent) to Year 10, and then participate in full- time schooling, approved training or employment, or a combination of these activities until the age of 17.
+In Australia, the minimum age for admission to employment is the time at which a child ceases to be of compulsory school age (between the ages of 15 and 17 depending on the state or territory jurisdiction). Generally, state and territory legislation requires children to participate in schooling (or an approved equivalent) to Year 10, and then participate in full-time schooling, approved training or employment, or a combination of these activities until the age of 17.
+
+#### 2.3 Higher education
 
 Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  higher  education. Ensuring higher education is essential to achieve SDG4, both targets 4.3 9 , and target 4.4 10 .
 
@@ -764,7 +768,7 @@ o Other:
 
 - è Non-differential treatment, including of foreign students
 
-In Australia, it is unlawful to discriminate on the basis of a number of protected attributes including age, disability, race, sex, intersex status, gender identity and sexual orientation in certain areas of public life, including education and employment. Australia's federal antidiscrimination laws are contained in the following legislation:
+In Australia, it is unlawful to discriminate on the basis of a number of protected attributes including age, disability, race, sex, intersex status, gender identity and sexual orientation in certain areas of public life, including education and employment. Australia's federal anti-discrimination laws are contained in the following legislation:
 
 - Age Discrimination Act 2004
 
@@ -806,7 +810,7 @@ In  this  part,  you  may  also  provide  information  on  the  difficulties  ex
 
 Through the Commonwealth Grant Scheme (CGS) (https://www.education.gov.au/commonwealth-grant-scheme-cgs), the Australian Government subsidises tuition costs for higher education students across a wide range of discipline  areas  and  qualification  levels.  Since  the  beginning  of  2012,  public  universities have been able to decide how many domestic students they enrol in bachelor level courses (excluding  medicine).  They  receive  funding  for  these  'Commonwealth  supported  places' (CSPs), up to a limit currently determined by the Minister for Education and Training.
 
-Australia's Higher Education Loan Program (HELP) (https://www.education.gov.au/highereducation-loan-program-help) provides loans to students studying approved higher education courses. The scheme allows students to defer the costs of tuition until their taxable income reaches a certain level at which repayments commence.
+Australia's Higher Education Loan Program (HELP) (https://www.education.gov.au/higher-education-loan-program-help) provides loans to students studying approved higher education courses. The scheme allows students to defer the costs of tuition until their taxable income reaches a certain level at which repayments commence.
 
 The CGS and the HELP scheme supports students facing disadvantage, as they need not pay upfront for their higher education. As Commonwealth supported students, they receive subsidised tuition and are able to borrow their entire student contribution amount under the HECS-HELP loan scheme.
 
@@ -840,8 +844,6 @@ Article/Paragraph 4(c) of the Convention/Recommendation provides for adult educa
 
 - Please indicate the efforts made by your government to establish a system of continuing education and equitable access to learning and training opportunities (several items could be ticked/mentioned):
 
-- Please elaborate further on the measures taken:
-
 o Provision of education for persons who have not received or completed the whole period of their primary education
 
 o Provision of literacy programmes
@@ -855,6 +857,8 @@ x Provision of flexible learning pathways
 x Provision of professional training and qualifications
 
 o Other:
+
+- Please elaborate further on the measures taken:
 
 The Australian Government is committed to ensuring all Australians are able to continue accessing high-quality tertiary education throughout their lives.
 
@@ -896,13 +900,14 @@ In the 2019-20 Budget, the Government announced the development of a national Te
 
 Over time, the TLR will expand to include non-AQF credentials such as soft skills, microcredentials and industry training. This aims to demonstrate a student's complete learnings and capabilities gained throughout their tertiary education.
 
-The TLR will help students and graduates navigate their learning journey and prepare for the workplace. By providing a single source for education achievements, the TLR will help individuals identify opportunities for skill development and encourage students and job seekers to regularly review and improve upon their skills to remain competitive in the job market and reach their personal career goals. Further to this, the TLR will provide verified acknowledgement of prior learning to help streamline the transition between education and employment and encourage engagement in lifelong learning.
+The TLR will help students and graduates navigate their learning journey and prepare for the workplace. By providing a single source for education achievements, the TLR will help individuals identify opportunities for skill development and encourage students and job seekers to regularly review and improve upon their skills to remain competitive in the job market and reach their personal career goals. Further to this, the TLR will
 
-[1] ' Future Skills', (2019), AlphaBeta, p.8
+[1] “Future Skills”, (2019), AlphaBeta, p.8
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
+provide verified acknowledgement of prior learning to help streamline the transition between education and employment and encourage engagement in lifelong learning.
 
 ###### National Microcredentials Marketplace
 
@@ -930,11 +935,12 @@ The Accreditation of Initial Teacher Education Programs in Australia: Standards 
 
 The accreditation standards require higher education providers to specify how pre-service teachers undertaking their programs will develop the knowledge and skills they need to be successful in the classroom. The accreditation standards set high level requirements to ensure that all initial teacher education graduates meet the requirements of the graduate career stage of the Australian Professional Standards for Teachers .
 
-The teacher standards outline the competencies and skills teacher graduates should demonstrate upon entering the profession. The accreditation and teacher standards together act as a framework which sets quality standards while allowing higher education providers and schools the flexibility to design and deliver teacher training in ways that meet local needs and circumstances The Australian Curriculum (or an approved alternative) is required to be implemented in all Australian Schools for all students in years Foundation to 10. Presented as a developmental sequence of learning it describes to teachers, parents, students and others in the wider community what is to be taught and the quality of learning expected of young people as they progress through school.
+The teacher standards outline the competencies and skills teacher graduates should demonstrate upon entering the profession. The accreditation and teacher standards together act as a framework which sets quality standards while allowing higher education providers and schools the flexibility to design and deliver teacher training in ways that meet local needs and circumstances
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
+The Australian Curriculum (or an approved alternative) is required to be implemented in all Australian Schools for all students in years Foundation to 10. Presented as a developmental sequence of learning it describes to teachers, parents, students and others in the wider community what is to be taught and the quality of learning expected of young people as they progress through school.
 
 ##### National Quality Framework for Early Childhood Education and Care
 
@@ -1035,17 +1041,18 @@ Teachers in Australia must successfully complete an accredited Bachelor or highe
 
 Since 2013, a nationally consistent approach to initial teacher education has been in place through the Accreditation of Initial Teacher Education Programs in Australia: Standards and Procedures . To be accredited, initial teacher education providers must demonstrate how their programs deliver the necessary discipline-specific curriculum and pedagogical studies, general education studies and professional experience to develop effective teachers who meet the graduate level of the Australian Professional Standards for Teachers .
 
-In 2014, the Australian Government established the Teacher Education Ministerial Advisory Group (TEMAG) to provide advice to the Government on how initial teacher education could be improved to better prepare new teachers. While significant national progress has been made towards achieving the TEMAG reforms, effort is ongoing to ensure the intent of the reforms is fully realised.
+In 2014, the Australian Government established the Teacher Education Ministerial Advisory Group (TEMAG) to provide advice to the Government on how initial teacher education could be improved to better prepare new teachers. While significant national
 
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
+progress has been made towards achieving the TEMAG reforms, effort is ongoing to ensure the intent of the reforms is fully realised.
 
 The Standards and Procedures set out the requirements that initial teacher education programs must meet to be nationally accredited. Since 2011, all initial teacher education students have been required to possess levels of literacy and numeracy broadly equivalent to the top 30 per cent of the Australian adult population. In 2015, all education ministers agreed that from 1 July 2016, all initial teacher education students would need to successfully meet the standard assessed by the Literacy and Numeracy Test for Initial Teacher Education Students (the test), before graduation. The test provides a nationally consistent way to demonstrate that students have met the minimum standard of personal literacy and numeracy that is expected of a prospective teacher.
 
 ##### National Quality Framework for Early Childhood Education and Care
 
-- Under the National Quality Framework, early childhood education and care services must meet a range of requirements, including educator qualifications and educator-tochild ratios. The Education and Care Services National Law Act 2010 (National Law) and the Education and Care Services National Regulations set out the minimum requirements for providers and services.
+- Under the National Quality Framework, early childhood education and care services must meet a range of requirements, including educator qualifications and educator-to-child ratios. The Education and Care Services National Law Act 2010 (National Law) and the Education and Care Services National Regulations set out the minimum requirements for providers and services.
 
 - The Australian Children's Education and Care Quality Authority (ACECQA) has the power to determine the qualifications required to be held by educators, including the assessment of equivalent qualifications, in accordance with section 225 of the National Law. ACECQA assesses qualifications for equivalence against the Qualification Assessment Guidelines for Individual Applicants.
 
@@ -1059,7 +1066,7 @@ The Standards and Procedures set out the requirements that initial teacher educa
 
 - The Strategy is intended to support the long term quality and sustainability of the early childhood workforce. It will have a particular focus on helping to remove the barriers for educators and ECTs to work in services that support vulnerable and disadvantaged children.
 
-A final Strategy is expected to be approved by all Australian Ministers and launched in mid2021.
+A final Strategy is expected to be approved by all Australian Ministers and launched in mid-2021.
 
 - Have there been instances of discrimination as regards the training for education personnel in your country?
 
@@ -1095,13 +1102,14 @@ The  Australian  Governments  also  endorses  an  annual  National  Day  of  Act
 
 The Higher Education Standards Framework Explanatory Statement (available at https://www.legislation.gov.au/Details/F2015L01639/Explanatory%20Statement/Text ) includes a Statement of Compatibility with Human Rights, prepared in accordance with Part 3 of the Human Rights (Parliamentary Scrutiny) Act 2011(available at https://www.legislation.gov.au/Details/C2016C00195).
 
-The Statement notes that the Threshold Standards instrument engages the right to freedom from discrimination, set out in Article 2(2) of the International Covenant on Economic, Social and Cultural  Rights  (ICESCR)  and  Article  26  of  the  International  Covenant  on  Civil  and Political  Rights  (ICCPR).  Sections  1.1  (Admission)  and  2.2  (Diversity  and  Equity)  of  the Threshold Standards instrument ensure that students from all backgrounds are admitted using policies that are fairly applied, with the academic preparation they need to participate in  their  intended  study,  with  student  diversity  accommodated,  including  the  underrepresentation and/or disadvantage experienced by identified groups.
+The Statement notes that the Threshold Standards instrument engages the right to freedom from discrimination, set out in Article 2(2) of the International Covenant on Economic, Social and Cultural Rights (ICESCR) and Article 26 of the International Covenant on Civil and Political Rights (ICCPR). Sections 1.1 (Admission) and 2.2 (Diversity and Equity) of the Threshold Standards instrument ensure that students from all backgrounds are admitted using policies that are fairly applied, with the academic preparation they need to participate
 
 > 12 Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development'.
 
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
+in their intended study, with student diversity accommodated, including the under-representation and/or disadvantage experienced by identified groups.
 
 #### 2.8 Private education
 
@@ -1115,7 +1123,7 @@ Yes x No o
 
 Higher education providers, including private providers, must be registered with TEQSA. The Higher Education Standards Framework (Threshold Standards) 2015 legislative instrument (https://www.legislation.gov.au/Details/F2015L01639/), provides the basis for TEQSA's regulation of the higher education sector. The Standards outline the requirements and expectations of higher education providers regarding the delivery of higher education in or from Australia, including Standard 2.2 (Diversity and Equity). The Standards establish a baseline for operational quality and integrity of providers and underpin and protect the quality and reputation of the higher education sector.
 
--Do legal provisions prohibiting discrimination on the grounds listed by the Convention/Recommendation 13 explicitly apply to private educational institutions?
+- Do legal provisions prohibiting discrimination on the grounds listed by the Convention/Recommendation 13 explicitly apply to private educational institutions?
 
 Yes x No o
 
@@ -1125,7 +1133,7 @@ Under Australian constitutional arrangements, state and territory governments ar
 
 Non-government schools must abide by all employment and discrimination regulations and laws relevant to the state or territory in which they operate, including adherence to national Australian Government law. For example, all schools in Australia, regardless of government or  non-government,  must  adhere  to  the  requirements  outlined  under  the Disability Discrimination Act 1992.
 
-Parents  or  guardians  apply  to  send  their  children  to  a  non-government  school.  Nongovernment  schools can operate preferential selection arrangements, for  example prioritising accepting students from a particular faith or cultural background.
+Parents or guardians apply to send their children to a non-government school. Non-government schools can operate preferential selection arrangements, for example prioritising accepting students from a particular faith or cultural background.
 
 - Does your country have an education policy framework for minimum educational standards as regards the rights of the parents /legal guardians for providing religious and moral education for their children?
 
@@ -1169,13 +1177,14 @@ See response to 1.3.
 
 #### 2.10  Rights of refugees and migrants
 
-The rights of refugees and migrants are not explicitly provided for in the Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in education based notably on national origin. 14 In this context,  a  number  of  Member  States  that  participated  in  the  9 th Consultation  reported  on measures adopted to ensure refugees' and migrants' right to education. Growing displacement and influx of refugees worldwide and the emergence of major educational challenges in this area,  as  well  as  the  frameworks  recently  adopted  by  the  international  community, 15 demonstrate the opportunity for states to report on measures adopted to include refugees and migrants in their educational systems.
+The rights of refugees and migrants are not explicitly provided for in the Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in education based notably on national origin. 14 In this context, a number of Member States that participated in the 9th Consultation reported on
 
 > 14 Articles/Paragraphs 1 and 3.
 
 [[END OF PAGE 33]]
 
 [[START OF PAGE 34]]
+measures adopted to ensure refugees’ and migrants’ right to education. Growing displacement and influx of refugees worldwide and the emergence of major educational challenges in this area, as well as the frameworks recently adopted by the international community, 15 demonstrate the opportunity for states to report on measures adopted to include refugees and migrants in their educational systems.
 
 Besides, this aspect also corresponds to SDG target 4.5, which calls on states to 'ensure equal access to all levels of education and vocational training for the vulnerable', including 'children in vulnerable situations', and covers the majority of SDG4 targets.
 
@@ -1207,23 +1216,24 @@ Please briefly elaborate further on the measures taken:
 
 The Australia Government believes that all students have the right to learn in a safe and supportive environment, free of discrimination.
 
-The Australian Government Department of Education, Skills and Employment developed the  Australian  Student  Wellbeing  Framework  (the  Framework)  to  provides  guiding principles and effective practices to support whole school communities build and maintain positive  relationships  though  leadership,  inclusion,  student  voice,  partnerships  and support.
+The Australian Government Department of Education, Skills and Employment developed the Australian Student Wellbeing Framework (the Framework) to provides guiding principles and effective practices to support whole school communities build and maintain
 
 > 15 Namely  the  2016  New  York  Declaration  for  Refugees  and  Migrants,  the  Comprehensive  Refugee  Response Framework and the two Global Compacts on refugees and for safe, orderly and regular migration.
 
 [[END OF PAGE 34]]
 
 [[START OF PAGE 35]]
+positive relationships though leadership, inclusion, student voice, partnerships and support.
 
-It  also  provides  funding  for  the  Student  Wellbeing  Hub,  which  is  an  online  portal  that provides students, parents and educators with evidence-informed resources to support and strengthen the integral relationships between students' social and emotional development and their learning outcomes. This includes specific resources that address racism and how students can be empowered to take action against racism.
+It also provides funding for the Student Wellbeing Hub, which is an online portal that provides students, parents and educators with evidence-informed resources to support and strengthen the integral relationships between students' social and emotional development and their learning outcomes. This includes specific resources that address racism and how students can be empowered to take action against racism.
 
 The  Australian  Governments  also  endorses  an  annual  National  Day  of  Action  against Bullying and Violence, which empowers students and unites school communities to find workable solutions to address bullying and violence.
 
-## Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
+## III. Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
 
-### Challenges and obstacles
+### 1. Challenges and obstacles
 
-- 1.1 Please indicate and provide any information on the difficulties encountered in the process of implementing  the  key  provisions  of  the  Convention/Recommendation  (including  legal  and practical obstacles) and on the main issues that need to be addressed for promoting further the right to education in your country (several items could be ticked/mentioned):
+1.1 Please indicate and provide any information on the difficulties encountered in the process of implementing the key provisions of the Convention/Recommendation (including legal and practical obstacles) and on the main issues that need to be addressed for promoting further the right to education in your country (several items could be ticked/mentioned):
 
 o Challenges related to equitable access and inclusion in education (such as poverty and socio-economic  factors,  cultural  and  traditional  attitudes,  remoteness,  migration  and displacement, etc.)
 
@@ -1241,7 +1251,7 @@ o Other:
 
 Nil
 
-- 1.2 Please provide a brief assessment of the effectiveness of the methods introduced to remove the obstacles encountered:
+1.2 Please provide a brief assessment of the effectiveness of the methods introduced to remove the obstacles encountered:
 
 Nil
 
@@ -1261,7 +1271,7 @@ o Dissemination and advocacy of the core content of the Convention/Recommendatio
 
 o Increased public awareness through advocacy material on the Convention/ Recommendation or the core principles of the right to education
 
-x Activities undertaken  or supported by the  National  Commission  to  promote  non- discrimination  and  equality  of  educational  opportunities  and  to  foster  debate  on  critical issues in relation to the rights enshrined in the instruments
+x Activities undertaken or supported by the National Commission to promote non-discrimination and equality of educational opportunities and to foster debate on critical issues in relation to the rights enshrined in the instruments
 
 o Other:
 
