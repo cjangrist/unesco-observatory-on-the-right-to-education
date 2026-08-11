@@ -6,17 +6,17 @@
 
 ### A. About the 1974 Recommendation
 
-- UNESCO's 1974 Recommendation concerning Education for International Understanding,  Co-operation  and  Peace  and  Education  relating  to  Human  Rights  and Fundamental  Freedoms 1 (the ' 1974  Recommendation' ) aims  to  promote  international education and world peace through understanding, solidarity and cooperation. It was adopted on 19 November 1974 by the General Conference of UNESCO at its 18th session.
+1. UNESCO's 1974 Recommendation concerning Education for International Understanding,  Co-operation  and  Peace  and  Education  relating  to  Human  Rights  and Fundamental  Freedoms 1 (the ' 1974  Recommendation' ) aims  to  promote  international education and world peace through understanding, solidarity and cooperation. It was adopted on 19 November 1974 by the General Conference of UNESCO at its 18th session.
 
-- The 1974 Recommendation applies to formal, non-formal and informal education and to all levels, from pre-primary to tertiary and adult education and lifelong learning. The General Conference recommended ' that Member States should apply ' the provisions included in the 1974 Recommendation ' by taking whatever legislative or other steps ' that provide institutional (e.g.  policies  and  legal  frameworks)  and  pedagogical  (e.g.  curricula,  teacher  training, educational materials, equipment, and student assessment) support for its  implementation, based on the ' objectives ', referred to in paragraph 4 of the 1974 Recommendation , ' regarded as major guiding principles of education policy '  including: an international dimension and a global  perspective  on  education,  cultural  diversity,  interdependence,  communication, rights and responsibilities, international solidarity and cooperation, and problem solving.
+2. The 1974 Recommendation applies to formal, non-formal and informal education and to all levels, from pre-primary to tertiary and adult education and lifelong learning. The General Conference recommended ' that Member States should apply ' the provisions included in the 1974 Recommendation ' by taking whatever legislative or other steps ' that provide institutional (e.g.  policies  and  legal  frameworks)  and  pedagogical  (e.g.  curricula,  teacher  training, educational materials, equipment, and student assessment) support for its  implementation, based on the ' objectives ', referred to in paragraph 4 of the 1974 Recommendation , ' regarded as major guiding principles of education policy '  including: an international dimension and a global  perspective  on  education,  cultural  diversity,  interdependence,  communication, rights and responsibilities, international solidarity and cooperation, and problem solving.
 
-- Today, the principles of the 1974 Recommendation apply equally well to Education for Sustainable Development (ESD) and to Global Citizenship Education (GCED) and therefore represent a powerful tool for promoting the 2030 Agenda for Sustainable Development and in particular SDG Target 4.7 on the promotion of sustainable development and global citizenship through  education,  Target  12.8  on  access  to  information  on  sustainable  development  and Target 13.3 on climate change education.
+3. Today, the principles of the 1974 Recommendation apply equally well to Education for Sustainable Development (ESD) and to Global Citizenship Education (GCED) and therefore represent a powerful tool for promoting the 2030 Agenda for Sustainable Development and in particular SDG Target 4.7 on the promotion of sustainable development and global citizenship through  education,  Target  12.8  on  access  to  information  on  sustainable  development  and Target 13.3 on climate change education.
 
-- The  General  Conference  in  its  39th  session  recommended  the  use  of  the 1974 Recommendation reporting process to support the implementation and monitoring of Target 4.7 of Sustainable Development Goal 4 (39 C/Resolution 79). The UNESCO Executive Board at its 209th session approved the use of the current guidelines for both the monitoring of the 1974 Recommendation and the collection of data needed for the following global SDG indicator for which UNESCO is custodian (209 EX/Decision 18.II):
+4. The  General  Conference  in  its  39th  session  recommended  the  use  of  the 1974 Recommendation reporting process to support the implementation and monitoring of Target 4.7 of Sustainable Development Goal 4 (39 C/Resolution 79). The UNESCO Executive Board at its 209th session approved the use of the current guidelines for both the monitoring of the 1974 Recommendation and the collection of data needed for the following global SDG indicator for which UNESCO is custodian (209 EX/Decision 18.II):
 
-- 4.7.1,  12.8.1  and  13.3.1: The extent to which (i) global citizenship education and (ii) education  for  sustainable  development  are  mainstreamed  in  (a)  national  education policies; (b) curricula; (c) teacher education and (d) student assessment.
+4.7.1,  12.8.1  and  13.3.1: The extent to which (i) global citizenship education and (ii) education  for  sustainable  development  are  mainstreamed  in  (a)  national  education policies; (b) curricula; (c) teacher education and (d) student assessment.
 
-- Questions marked with an asterisk (*) will be used in the calculation of the respective indicators  ( Table  1 ).  As  approved  by  the  Inter-Agency  and  Expert  Group  on  the  SDG Indicators, the indicators will be calculated for primary and secondary education only.
+5. Questions marked with an asterisk (*) will be used in the calculation of the respective indicators  ( Table  1 ).  As  approved  by  the  Inter-Agency  and  Expert  Group  on  the  SDG Indicators, the indicators will be calculated for primary and secondary education only.
 
 Table 1 Questions used in the calculation of the global SDG indicator for Targets 4.7, 12.8 and 13.3
 
@@ -32,17 +32,17 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 ### B. Reporting obligations
 
-- The General Conference, at its 18th session, when adopting the 1974 Recommendation recommended ' that Member States submit […] reports concerning the action taken by them in pursuance of this recommendation '. Moreover, in accordance with Article VIII of UNESCO's Constitution ' Each Member State shall submit to the Organization […] reports […] on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4 .'
+6. The General Conference, at its 18th session, when adopting the 1974 Recommendation recommended ' that Member States submit […] reports concerning the action taken by them in pursuance of this recommendation '. Moreover, in accordance with Article VIII of UNESCO's Constitution ' Each Member State shall submit to the Organization […] reports […] on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4 .'
 
-- Thus, all UNESCO Member States are expected to report on the steps they have taken  to  implement  the 1974  Recommendation preferably  by  completing  the  following questionnaire. Such reporting takes place every four years.
+7. Thus, all UNESCO Member States are expected to report on the steps they have taken  to  implement  the 1974  Recommendation preferably  by  completing  the  following questionnaire. Such reporting takes place every four years.
 
 ## II. Guidelines for completion of the questionnaire
 
-- This  questionnaire  and  its  accompanying  guidelines  are  addressed  to  Ministers responsible for relations with UNESCO. The questionnaire is typically completed by Ministries of Education and other government authorities responsible for education. Responses should cover, as far as possible, education at all levels of government, including sub-national levels where applicable as well as education outside the government sector.
+8. This  questionnaire  and  its  accompanying  guidelines  are  addressed  to  Ministers responsible for relations with UNESCO. The questionnaire is typically completed by Ministries of Education and other government authorities responsible for education. Responses should cover, as far as possible, education at all levels of government, including sub-national levels where applicable as well as education outside the government sector.
 
-- National respondents are encouraged to consult widely both within, across and beyond government, including with Ministries of Environment, with national human rights institutions, the education sector, civil society partners and others, as necessary, to gather the information needed to complete the questionnaire.
+9. National respondents are encouraged to consult widely both within, across and beyond government, including with Ministries of Environment, with national human rights institutions, the education sector, civil society partners and others, as necessary, to gather the information needed to complete the questionnaire.
 
-- Responses to the seventh consultation should cover:
+10. Responses to the seventh consultation should cover:
 
 (i)      the time period 2017-2020;
 
@@ -52,79 +52,79 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 (iv) where possible, education outside the government sector.
 
-- To assist countries in  responding to this  questionnaire,  UNESCO has developed the following  set  of  global  citizenship  education  and  education  for  sustainable  development themes. The list is based on a review of current common practices in many countries as well as a review of relevant literature. While the terms ESD and GCED may be used differently in some countries, the list of themes typically captures what are seen as key elements of Target 4.7.  Please  refer  to  the  definitions  of  key  terms  in Section  III before  completing  the questionnaire.
+11. To assist countries in  responding to this  questionnaire,  UNESCO has developed the following  set  of  global  citizenship  education  and  education  for  sustainable  development themes. The list is based on a review of current common practices in many countries as well as a review of relevant literature. While the terms ESD and GCED may be used differently in some countries, the list of themes typically captures what are seen as key elements of Target 4.7.  Please  refer  to  the  definitions  of  key  terms  in Section  III before  completing  the questionnaire.
 
 ### Global citizenship education and education for sustainable development
 
-- cultural diversity and tolerance
+1. cultural diversity and tolerance
 
-- 1.1 international or intercultural understanding, solidarity and cooperation
+1.1 international or intercultural understanding, solidarity and cooperation
 
-- 1.2 intercultural and interreligious dialogue
+1.2 intercultural and interreligious dialogue
 
-- 1.3 local, national and/or global citizenship
+1.3 local, national and/or global citizenship
 
-- gender equality education
+2. gender equality education
 
-- 2.1 gender-based equal opportunities
+2.1 gender-based equal opportunities
 
-- 2.2 gender equality and justice
+2.2 gender equality and justice
 
-- 2.3 gender roles, identity and stereotypes
+2.3 gender roles, identity and stereotypes
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-- human rights education
+3. human rights education
 
-- 3.1 equality  and  non-discrimination  based  on race, colour,  language, religion, disability,  political  or  other  opinion,  national  or  social  origin,  birth  or  other status
+3.1 equality  and  non-discrimination  based  on race, colour,  language, religion, disability,  political  or  other  opinion,  national  or  social  origin,  birth  or  other status
 
-- 3.2 human rights values, human dignity, justice, inclusion and participation
+3.2 human rights values, human dignity, justice, inclusion and participation
 
-- 3.3 respect  for  human  rights  and  fundamental  freedoms  (as  outlined  in international conventions and declarations)
+3.3 respect  for  human  rights  and  fundamental  freedoms  (as  outlined  in international conventions and declarations)
 
-- peace and non-violence
+4. peace and non-violence
 
-- 4.1 friendly relations among peoples and nations
+4.1 friendly relations among peoples and nations
 
-- 4.2 challenging negative stereotypes, promoting peaceful solutions, learning to live together, including others and preventing violent extremism
+4.2 challenging negative stereotypes, promoting peaceful solutions, learning to live together, including others and preventing violent extremism
 
-- 4.3 preventing all forms of violence including bullying, verbal abuse and genderbased violence
+4.3 preventing all forms of violence including bullying, verbal abuse and gender-based violence
 
-- climate change education
+5. climate change education
 
-- 5.1 mitigation
+5.1 mitigation
 
-- 5.2 adaptation
+5.2 adaptation
 
-- 5.3 impact reduction
+5.3 impact reduction
 
-- 5.4 early warning
+5.4 early warning
 
-- environmental sustainability
+6. environmental sustainability
 
-- 6.1 caring for the planet, protecting nature
+6.1 caring for the planet, protecting nature
 
-- 6.2 environmental justice
+6.2 environmental justice
 
-- 6.3 biodiversity, water
+6.3 biodiversity, water
 
-- human survival and well-being
+7. human survival and well-being
 
-- 7.1 environmental health as it pertains to human well-being, disaster risk reduction
+7.1 environmental health as it pertains to human well-being, disaster risk reduction
 
-- 7.2 health of the planet for future generations
+7.2 health of the planet for future generations
 
-- 7.3 sustainable cities and communities
+7.3 sustainable cities and communities
 
-- sustainable consumption and production
+8. sustainable consumption and production
 
-- 8.1 responsible and sustainable lifestyles
+8.1 responsible and sustainable lifestyles
 
-- 8.2 green economy, green jobs
+8.2 green economy, green jobs
 
-- 8.3 sustainable energy
+8.3 sustainable energy
 
 [[END OF PAGE 3]]
 
@@ -141,7 +141,7 @@ Themes of global citizenship and education for sustainable development
 4. Peace and non-violence | Education about peace and peace-building, mediation, conflict prevention and resolution, non-violence, reconciliation and living together peacefully. It includes advocating for friendly relations among peoples and nations, challenging negative stereotypes, promoting peaceful solutions, learning to live together and preventing violent extremism and other forms of violence including bullying.
 5. Climate change education | Education to help people, in particular youth, understand, address, mitigate, and adapt to the impacts of climate change. It encourages changes in attitudes and behaviours needed to put the world on a more sustainable development path, and build a new generation of climate change-aware citizens. It covers various responses to climate change including mitigation, adaptation, impact reduction and early warning.
 6. Environmental sustainability | Education about responsible interactions with the environment to avoid depletion or degradation and to promote environmental quality and health. It includes, caring for the planet and protecting nature, environmental justice, biodiversity and water.
-7. Human survival and well- being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
+7. Human survival and well-being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
 
 [[END OF PAGE 4]]
 
@@ -311,29 +311,29 @@ In accordance with Decree No. 6,949 of 25 August 2009, which promulgates the Int
 
 ###### Article 21
 
-- States Parties shall take all appropriate measures to ensure that persons with disabilities can exercise their right to freedom, freedom of expression and opinion, including the freedom to seek, receive and share information and ideas, on equal opportunities with other persons and through all forms of communication of their choice, in accordance with Article 2 of the Convention, including:
+1. States Parties shall take all appropriate measures to ensure that persons with disabilities can exercise their right to freedom, freedom of expression and opinion, including the freedom to seek, receive and share information and ideas, on equal opportunities with other persons and through all forms of communication of their choice, in accordance with Article 2 of the Convention, including:
 
 (e) recognize and promote the use of sign languages.
 
 ###### Article 24
 
-- States Parties shall recognize the right of persons with disabilities to education. In order to achieve this right without discrimination and on the basis of equality of opportunities, States Parties shall ensure an inclusive educational system at all levels, as well as lifelong learning, with the following objectives:
+1. States Parties shall recognize the right of persons with disabilities to education. In order to achieve this right without discrimination and on the basis of equality of opportunities, States Parties shall ensure an inclusive educational system at all levels, as well as lifelong learning, with the following objectives:
 
-- Facilitation  of  braille  learning,  alternative  writing,  modes,  means  and  formats  of  increased  and  alternative communication, and orientation and mobility skills, as well as facilitation of peer support and counseling;
+a) Facilitation  of  braille  learning,  alternative  writing,  modes,  means  and  formats  of  increased  and  alternative communication, and orientation and mobility skills, as well as facilitation of peer support and counseling;
 
-- Facilitating the learning of sign language and promoting the linguistic identity of the deaf community;
+b) Facilitating the learning of sign language and promoting the linguistic identity of the deaf community;
 
-- Ensure that the education of people, in particular blind, deaf and deaf children, is taught in the languages and modes and  media  best  suited  to  the  individual  and  in  environments  that  give  maximum  favor  their  academic  and  social development.
+c) Ensure that the education of people, in particular blind, deaf and deaf children, is taught in the languages and modes and  media  best  suited  to  the  individual  and  in  environments  that  give  maximum  favor  their  academic  and  social development.
 
 ###### Article 30
 
-- States Parties shall recognize the right of persons with disabilities to participate in cultural life on equal opportunities with other persons, and shall take all appropriate measures to ensure that persons with disabilities can:
+1. States Parties shall recognize the right of persons with disabilities to participate in cultural life on equal opportunities with other persons, and shall take all appropriate measures to ensure that persons with disabilities can:
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
-- Persons with disabilities will be able, on equal opportunities with others, to ensure that their specific cultural and linguistic identity is recognized and supported, including sign languages and deaf culture.
+4. Persons with disabilities will be able, on equal opportunities with others, to ensure that their specific cultural and linguistic identity is recognized and supported, including sign languages and deaf culture.
 
 The creation of Bilingual Schools is in the National Education Plan (Law 13,005/2014), specifically, in strategy 4.7, which we describe below:
 
@@ -399,7 +399,7 @@ The  THEMES GCED and ESD are not explicitly  mentioned  in  national  laws  but 
 
 - 1.8 CNE/CP Opinion No. 03 of 03/10/2004: Deals with the National Curriculum Guidelines for the Education of Ethnic-Racial Relations and for the Teaching of Afro-Brazilian and African History and Culture.
 
-- 1.9 Law No. 10,639, of 09/01/2003: Amends Law No. 9,394, of 12/20/1996, which establishes the guidelines and bases of national education, to include in the curriculum of the educational networks the mandatory theme of "AfroBrazilian History and Culture".
+- 1.9 Law No. 10,639, of 09/01/2003: Amends Law No. 9,394, of 12/20/1996, which establishes the guidelines and bases of national education, to include in the curriculum of the educational networks the mandatory theme of "Afro-Brazilian History and Culture".
 
 ###### II - Quilombola School Education:
 
@@ -495,11 +495,11 @@ GCED and ESD present in the National Curriculum Guidelines for Professional and 
 
 - Law No. 13,005 of June 25, 2014  -  National  Education  Plan  PNE  -  2014-2024  (Law  No.  13,005/2014)  http://planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13005.htm
 
-- General National Curriculum Guidelines for Basic Education - Resolution of the Basic Education Chamber of the National Council of Education No. 4, of July 13, 2010 -http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=13448-diretrizescuriculares-nacionais-2013-pdf&Itemid=30192
+- General National Curriculum Guidelines for Basic Education - Resolution of the Basic Education Chamber of the National Council of Education No. 4, of July 13, 2010 -http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=13448-diretrizes-curiculares-nacionais-2013-pdf&Itemid=30192
 
 - Rights of children and adolescents (Law No. 8,069/1990).
 
-- National Common Curriculum Base - BNCC, approved by the National Council of Education - CNE, through CNE/CP  Resolution  No.  2,  of December  22,  2017  -    http://portal.mec.gov.br/conselho-nacional-deeducacao/base-nacional-comum-curricular-bncc
+- National Common Curriculum Base - BNCC, approved by the National Council of Education - CNE, through CNE/CP  Resolution  No.  2,  of December  22,  2017  -    http://portal.mec.gov.br/conselho-nacional-de-educacao/base-nacional-comum-curricular-bncc
 
 ##### 2 -General Coordinator of Didactical Materials, substitute:
 
@@ -529,7 +529,7 @@ Law No. 9,503/1997 17 - http://www.planalto.gov.br/ccivil_03/leis/l9503compilado
 
 - Environmental education
 
-Law  No.  9,795/1999  http://www.planalto.gov.br/ccivil_03/leis/l9795.htm  ,  Cne/CP  Opinion  No.  14/2012 http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=10955-pcp01412&Itemid=30192 and Resolution CNE/CP No. 2/2012 http://portal.mec.gov.br/dmdocuments/rcp002_12.pdf
+Law  No.  9,795/1999  http://www.planalto.gov.br/ccivil_03/leis/l9795.htm  ,  Cne/CP  Opinion  No.  14/2012 http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=10955-pcp014-12&Itemid=30192 and Resolution CNE/CP No. 2/2012 http://portal.mec.gov.br/dmdocuments/rcp002_12.pdf
 
 - Food and nutrition education
 
@@ -541,7 +541,7 @@ Law No. 10,741/2003 http://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm
 
 - Human rights education
 
-Decree No. 7,037/2009 http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Decreto/D7037.htm , Cne/CP Opinion No. 8/2012 http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=10389-pcp008-12pdf&category_slug=marco-2012-pdf&Itemid=30192 and RESOLUTION CNE/CP No. 1/2012 http://portal.mec.gov.br/dmdocuments/rcp001_12.pdf
+Decree No. 7,037/2009 http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Decreto/D7037.htm , Cne/CP Opinion No. 8/2012 http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=10389-pcp008-12-pdf&category_slug=marco-2012-pdf&Itemid=30192 and RESOLUTION CNE/CP No. 1/2012 http://portal.mec.gov.br/dmdocuments/rcp001_12.pdf
 
 - Education of ethnic-racial relations and teaching of Afro-Brazilian, African and indigenous history and culture
 
@@ -583,7 +583,7 @@ http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm
 
 - 1.2 - http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/decreto/D7824.htm
 
-- 1.3  -  http://www.prograd.ufu.br/legislacoes/portaria-normativa-no-18-de-11-de-outubro-de-2012-mec-implementacaode-cotas
+- 1.3  -  http://www.prograd.ufu.br/legislacoes/portaria-normativa-no-18-de-11-de-outubro-de-2012-mec-implementacao-de-cotas
 
 - 1.4 - http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12711.htm
 
@@ -599,21 +599,21 @@ http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm
 
 ###### II -QUILOMBOLA SCHOOL EDUCATION
 
-- 2.1 -http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=11963-rceb008-12pdf&category_slug=novembro-2012-pdf&Itemid=30192
+- 2.1 - http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=11963-rceb008-12-pdf&category_slug=novembro-2012-pdf&Itemid=30192
 
 - 2.2 - http://etnicoracial.mec.gov.br/images/pdf/diretrizes_curric_educ_quilombola.pdf
 
 ###### III -ITINERANCY POPULATIONS
 
-- 3.1 -http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=10770-rceb003-12-pdf1&category_slug=maio-2012-pdf&Itemid=30192
+- 3.1 - http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=10770-rceb003-12-pdf-1&category_slug=maio-2012-pdf&Itemid=30192
 
-- 3.2 -http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=9609-pceb01411&category_slug=dezembro-2011-pdf&Itemid=30192
+- 3.2 - http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=9609-pceb014-11&category_slug=dezembro-2011-pdf&Itemid=30192
 
 ###### IV -EDUCATION IN THE COUNTRYSIDE
 
 - 4.1 - https://abmes.org.br/arquivos/legislacoes/Port-MEC-1344-2016-11-30.pdf
 
-- 4.2 - https://www.in.gov.br/materia/-/asset_publisher/Kujrw0TZC2Mb/content/id/21519929/do1-2016-05-11-portaria-n391-de-10-de-maio-de-2016-21519867
+- 4.2 - https://www.in.gov.br/materia/-/asset_publisher/Kujrw0TZC2Mb/content/id/21519929/do1-2016-05-11-portaria-n-391-de-10-de-maio-de-2016-21519867
 
 - 4.3 - http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12960.htm
 
@@ -625,7 +625,7 @@ http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm
 
 [[START OF PAGE 18]]
 
-- 4.6 -http://www.fnde.gov.br/acesso-a-informacao/institucional/legislacao/item/4963-resolu%C3%A7%C3%A3o-cdfnde-n%C2%BA-38,-de-8-de-outubro-de-2013
+- 4.6 -http://www.fnde.gov.br/acesso-a-informacao/institucional/legislacao/item/4963-resolu%C3%A7%C3%A3o-cd-fnde-n%C2%BA-38,-de-8-de-outubro-de-2013
 
 - 4.7 - http://portal.mec.gov.br/dmdocuments/rceb004_10.pdf
 
@@ -637,15 +637,15 @@ http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm
 
 ###### V - INDIGENOUS SCHOOL EDUCATION
 
-- 5.1 -http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=27591-pareceres-da-camarade-educacao-basica-14-2015-pdf&category_slug=novembro-2015-pdf&Itemid=30192
+- 5.1 -http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=27591-pareceres-da-camara-de-educacao-basica-14-2015-pdf&category_slug=novembro-2015-pdf&Itemid=30192
 
-- 5.2  -  http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=25211-parecer-cne-ceb009-15pdf&category_slug=outubro-2015-pdf&Itemid=30192
+- 5.2  -  http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=25211-parecer-cne-ceb009-15-pdf&category_slug=outubro-2015-pdf&Itemid=30192
 
-- 5.3 -http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=16870-res-cne-cp-00107012015&category_slug=janeiro-2015-pdf&Itemid=30192
+- 5.3 -http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=16870-res-cne-cp-001-07012015&category_slug=janeiro-2015-pdf&Itemid=30192
 
-- 5.4 -http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=15619-pcp00614&category_slug=maio-2014-pdf&Itemid=30192
+- 5.4 -http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=15619-pcp006-14&category_slug=maio-2014-pdf&Itemid=30192
 
-- 5.5 -http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=16386-portsecadi98&category_slug=setembro-2014-pdf&Itemid=30192
+- 5.5 -http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=16386-portsecadi-98&category_slug=setembro-2014-pdf&Itemid=30192
 
 - 5.6 -  http://www.lex.com.br/legis_25017657_PORTARIA_N_1062_DE_30_DE_OUTUBRO_D
 
@@ -655,9 +655,9 @@ http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm
 
 - 5.9 - http://www.crmariocovas.sp.gov.br/Downloads/ccs/concurso_2013/PDFs/resol_federal_05_12.pdf
 
-- 5.10 -http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=10806-pceb013-12pdf&Itemid=30192
+- 5.10 -http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=10806-pceb013-12-pdf&Itemid=30192
 
-- 5.11 -http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=9250-pceb01011&category_slug=outubro-2011-pdf&Itemid=30192
+- 5.11 -http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=9250-pceb010-11&category_slug=outubro-2011-pdf&Itemid=30192
 
 - 5.12 - http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Lei/L12416.htm
 
@@ -685,19 +685,19 @@ https://www.in.gov.br/en/web/dou/-/resolucao-cne/cp-n-1-de-5-de-janeiro-de-2021-
 
 #### *A2 Please indicate which GCED and ESD themes are covered in national or sub-national laws, legislation or legal frameworks on education by entering the appropriate number in each white cell.
 
+KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
+
 National | Sub-national
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Pre- primary | Primary/ secondary | Tertiary | Non- formal | Pre- primary | Primary/ secondary | Tertiary | Non- formal
+Pre-primary | Primary/secondary | Tertiary | Non-formal | Pre-primary | Primary/secondary | Tertiary | Non-formal
 1. | Cultural diversity and tolerance | 1 | 1 | 1 | 99 | 1 | 1 | 1 | 99
 2. | Gender equality | 1 | 1 | 1 | 99 | 1 | 1 | 1 | 99
 3. | Human rights | 1 | 1 | 1 | 99 | 1 | 1 | 1 | 99
-4. | Peace and non- violence | 1 | 1 | 1 | 99 | 1 | 1 | 1 | 99
+4. | Peace and non-violence | 1 | 1 | 1 | 99 | 1 | 1 | 1 | 99
 5. | Climate change | 1 | 1 | 1 | 99 | 1 | 1 | 1 | 99
 6. | Environmental sustainability | 1 | 1 | 1 | 99 | 1 | 1 | 1 | 99
 7. | Human survival and well-being | 1 | 1 | 1 | 99 | 1 | 1 | 1 | 99
 8. | Sustainable consumption and production | 1 | 1 | 1 | 99 | 1 | 1 | 1 | 99
-
-KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
 
 #### A3a.  Please  describe  any  specific  current  national  or  sub-national  education  policies, frameworks  or  strategic  objectives  in  your  country  that  promote  global  citizenship education  (GCED)  and/or  education  for  sustainable  development  (ESD).  Explain whether GCED and/or ESD themes 3  are mentioned explicitly or are inferred and what types or levels of education are covered.
 
@@ -771,7 +771,7 @@ The Action for the construction, expansion and reform of schools consists of giv
 
 ##### 1 -General Coordinator of Strategic Management of Basic Education:
 
-BNCC Implementation Support Program - ProBNCC: https://www.gov.br/mec/pt-br/programas-e-acoes/programa-deapoio-a-implementacao-da-base-nacional-comum-curricularprobncc;%20http://basenacionalcomum.mec.gov.br/implementacao/pro-bncc/material-de-apoio/
+BNCC Implementation Support Program - ProBNCC: https://www.gov.br/mec/pt-br/programas-e-acoes/programa-de-apoio-a-implementacao-da-base-nacional-comum-curricular-probncc;%20http://basenacionalcomum.mec.gov.br/implementacao/pro-bncc/material-de-apoio/
 
 ##### 4 -Department of Policies for Bilingual Education for Death People:
 
@@ -845,7 +845,7 @@ Assessment of student outcomes | 1 | 1 | 1 | 99
 
 Entities, networks, systems and educational establishments have autonomy to elaborate their curricular approaches, as provided for by Law No. 9394/1996 9Law of Guidelines and Bases of National Education - LDB).
 
-GCED and/or ESD themes are explicitly mentioned in the Common National Curriculum Base of Basic Education (PrePrimary, Primary and Secondary).
+GCED and/or ESD themes are explicitly mentioned in the Common National Curriculum Base of Basic Education (Pre-Primary, Primary and Secondary).
 
 ##### 2 -General Coordinator of Didactical Materials, substitute:
 
@@ -855,13 +855,15 @@ Thus, themes required by specific legislation and norms should be included, in t
 
 ##### 4 -Department of Policies for Bilingual Education for Death People:
 
-As for the school curriculum, we want to emphasize that the guide document of our country is the Common National Curriculum Base - BNCC, which covers the themes related to  the GCED and/or ESD,   whose deaf education is inserted to  date,  although  scientific  evidence  on  the  subject    shows    that  deaf    education  has  specific  methodologies  and didactics, applied to the context of this  education, already preconized in the records of laws,  decrees and universal declarations.
+As for the school curriculum, we want to emphasize that the guide document of our country is the Common National
 
 > 4 See the schema described in paragraph 11 of Section II of these guidelines.
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
+
+Curriculum Base - BNCC, which covers the themes related to  the GCED and/or ESD, whose deaf education is inserted to date, although scientific evidence on the subject shows that deaf education has specific methodologies and didactics, applied to the context of this education, already preconized in the records of laws, decrees and universal declarations.
 
 It is also necessary to reinforce that the bilingual education of deaf people tin their own methodologies that is, based on  the  Brazilian  Sign  Language  -  Libras  (L1)  as  the  language  of  instruction  to  students  in  the  death  people  and Portuguese as second language (L2), reading and writing, which establishes a bilingual education in fact.
 
@@ -895,15 +897,19 @@ IV - systematically elaborate and publish specific and differentiated didactic m
 
 #### B1b. Please provide examples of curricula in which GCED and/or ESD are mainstreamed and, where possible, web links to relevant documents.
 
-State and municipal curricula should be aligned with the Common  National Curriculum Base (BNCC): http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf Contemporary Cross-Cutting Themes at BNCC
+State and municipal curricula should be aligned with the Common  National Curriculum Base (BNCC): http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf
 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
 
+Contemporary Cross-Cutting Themes at BNCC
+
 http://basenacionalcomum.mec.gov.br/images/implementacao/guia_pratico_temas_contemporaneos.pdf
 
 #### *B2 Please indicate which GCED and ESD themes are taught as part of the curriculum at each level of education by entering the appropriate number in each white cell.
+
+KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | --- | ---
@@ -916,11 +922,11 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 7. | Human survival and well-being | 1 | 1 | 1 | 9
 8. | Sustainable consumption and production | 1 | 1 | 1 | 9
 
-KEY: 0 = no, 1 = yes, 9 = unknown
-
 #### *B3 Please indicate in which subjects or fields of study GCED and ESD are taught in primary and secondary education by entering the appropriate number in each white cell.
 
-Cultural diversity and tolerance | Gender equality | Human rights | Peace and non- violence | Climate change | Environmental sustainability | Human survival and well- being | Sustainable consumption and production
+KEY: 0 = no, 1 = yes, 9 = unknown
+
+Cultural diversity and tolerance | Gender equality | Human rights | Peace and non-violence | Climate change | Environmental sustainability | Human survival and well-being | Sustainable consumption and production
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Arts | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Civics, civil or citizenship education | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
@@ -932,8 +938,6 @@ Languages | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Mathematics | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Religious education | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Science | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
-
-KEY: 0 = no, 1 = yes, 9 = unknown
 
 [[END OF PAGE 25]]
 
@@ -962,7 +966,7 @@ KEY: 0 = no, 1 = yes, 9 = unknown
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | --- | ---
 3. | Human rights education | 1 | 1 | 1 | 9
-3.1 | equality and non- discrimination based on race, colour, language, religion, disability, political or other opinion, national or social origin, birth or other status | 1 | 1 | 1 | 9
+3.1 | equality and non-discrimination based on race, colour, language, religion, disability, political or other opinion, national or social origin, birth or other status | 1 | 1 | 1 | 9
 3.2 | human rights values, human dignity, justice, inclusion and participation | 1 | 1 | 1 | 9
 3.3 | respect for human rights and fundamental freedoms (as outlined in international conventions and declarations) | 1 | 1 | 1 | 9
 
@@ -1004,11 +1008,11 @@ Decree No. 5626 of December 22, 2005, in article 14, states that educational fed
 
 I - promote teacher training courses for:
 
-- the teaching and use of Libras;
+a) the teaching and use of Libras;
 
-- the translation and interpretation of Libras - Portuguese language; and
+b) the translation and interpretation of Libras - Portuguese language; and
 
-- the teaching of the Portuguese language as a second language for deaf people;
+c) the teaching of the Portuguese language as a second language for deaf people;
 
 [[END OF PAGE 27]]
 
@@ -1018,11 +1022,11 @@ II - offer, mandatorily, since early childhood education, the teaching of Libras
 
 III - provide schools with:
 
-- Libras teacher or Libras instructor;
+a) Libras teacher or Libras instructor;
 
-- translator and interpreter of Libras - Portuguese language;
+b) translator and interpreter of Libras - Portuguese language;
 
-- teacher for the teaching of Portuguese as a second language for deaf people; And
+c) teacher for the teaching of Portuguese as a second language for deaf people; And
 
 d)professor class regent with knowledge about the linguistic singularity   manifested by deaf students;
 
@@ -1036,7 +1040,7 @@ The legislation regulating the Initial and Continuing Training Programs, coordin
 
 In the case of Prolind, the Notice of convocation of higher education institutions - federal and state public HEIs,  which want  to  present  proposals  for  projects  of  specific  Undergraduate  Courses  for  teacher  training  for  the  exercise  of teaching to indigenous peoples,  should consider  the political-pedagogical guidelines published in the  Notice. In this sense, the Notice establishes that PROLIND will support projects of specific Undergraduate Courses for the training of teachers for the exercise of teaching to indigenous peoples, who integrate teaching, research and extension, promote the valorization of the study of relevant indigenous themes, such as mother tongues, management and sustainability of the lands and cultures of indigenous peoples, and enable the provision of basic intercultural education in indigenous schools. The projects supported also promote the political training of teachers who work in teaching indigenous peoples, as intercultural agents in the promotion and realization of the projects of their communities.
 
-Ordinance No. 98, of 12/06/2013  of the Indigenous Knowledge Act at the School establishes that the continuing education  of  teachers  working  in  basic  education  in  indigenous  schools  dev    and  include  a  bilingual/multilingual perspective, capable of contemplating the ethno-sociolinguistic complexity of the indigenous peoples served, and taking place on the basis of the following axes: I - literacy and numbering in indigenous languages as a first language; II literacy  and  numbering in  Portuguese  as  a  first  language;  III  -  literacy  and  numbering  in  indigenous  languages  or Portuguese as a second language or additional language; and IV - indigenous verbal knowledge and arts.
+Ordinance No. 98, of 12/06/2013  of the Indigenous Knowledge Act at the School establishes that the continuing education  of  teachers  working  in  basic  education  in  indigenous  schools  dev    and  include  a  bilingual/multilingual perspective, capable of contemplating the ethno-sociolinguistic complexity of the indigenous peoples served, and taking place on the basis of the following axes: I - literacy and numbering in indigenous languages as a first language; II - literacy  and  numbering in  Portuguese  as  a  first  language;  III  -  literacy  and  numbering  in  indigenous  languages  or Portuguese as a second language or additional language; and IV - indigenous verbal knowledge and arts.
 
 #### C1b. Please provide examples of teacher training policies or curricula in which GCED and/or ESD are mainstreamed and, where possible, web links to relevant documents. If  possible, include examples related to initial training and to continuing professional development.
 
@@ -1056,7 +1060,7 @@ The Ministry of Education - MEC offers continuing training courses through the h
 
 In  the  initial  training  of  teachers,  the    teaching  of  sign  language  (http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/decreto/d5626.htm ) is mandatory
 
-The Ministry of Education develops a broad program for training managers and teachers in special education, through RENAFOR (National Network for The Training of Education Professionals) addressing issues related to  equality, nondiscrimination, human dignity and others.
+The Ministry of Education develops a broad program for training managers and teachers in special education, through RENAFOR (National Network for The Training of Education Professionals) addressing issues related to  equality, non-discrimination, human dignity and others.
 
 Ex. Training course for basic education teachers in an educational service specialized in the context of a pandemic.
 
@@ -1070,6 +1074,8 @@ The Indigenous Knowledge Action at the School aims to offer specific continuing 
 
 #### *C2 Please indicate whether teachers, trainers and educators are trained to teach GCED and ESD  during  initial  or  pre-service  training  and/or  through  continuing  professional development. Please enter the appropriate number in each white cell.
 
+KEY: 0 = no, 1 = yes, 9 = unknown
+
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
 Initial or pre-service training | 1 | 1 | 9 | 9
@@ -1079,17 +1085,11 @@ Continuing professional development | 1 | 1 | 9 | 9
 For teachers of selected subjects only (in which GCED or ESD are typically taught) | 1 | 1 | 9 | 9
 For teachers of other subjects | 1 | 1 | 1 | 9
 
-KEY: 0 = no, 1 = yes, 9 = unknown
-
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
 
 #### *C3 Please indicate on which GCED and ESD themes pre-service or in-service training is available for teachers, trainers and educators at each level of education by entering the appropriate number in each white cell.
-
-#### *C4   Please  indicate  whether  teachers,  trainers  and  educators  are  trained  to  teach  the following  dimensions  of  learning  in  GCED  and  ESD.  Please  enter  the  appropriate number in each white cell.
-
-#### *C5 Please indicate whether teachers, trainers and educators are trained to use the following approaches to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -1104,6 +1104,8 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 7. | Human survival and well-being | 1 | 1 | 1 | 9
 8. | Sustainable consumption and production | 1 | 1 | 1 | 9
 
+#### *C4   Please  indicate  whether  teachers,  trainers  and  educators  are  trained  to  teach  the following  dimensions  of  learning  in  GCED  and  ESD.  Please  enter  the  appropriate number in each white cell.
+
 KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
@@ -1112,6 +1114,8 @@ Knowledge | 1 | 1 | 1 | 9
 Skills | 1 | 1 | 1 | 9
 Values | 1 | 1 | 1 | 9
 Attitudes and behaviours | 1 | 1 | 1 | 9
+
+#### *C5 Please indicate whether teachers, trainers and educators are trained to use the following approaches to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -1165,14 +1169,14 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 
 #### *D3 Please indicate which of the dimensions of learning in GCED and ESD below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
 
+KEY: 0 = no, 1 = yes, 9 = unknown
+
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
 Knowledge | 1 | 1 | 1 | 9
 Skills | 1 | 1 | 1 | 9
 Values | 1 | 1 | 1 | 9
 Attitudes and behaviours | 1 | 1 | 1 | 9
-
-KEY: 0 = no, 1 = yes, 9 = unknown
 
 ### E. Mainstreaming of GCED and ESD in laws and policies, curricula, teacher education and student assessment (paras 4-5, 7, 10-19 and 33-37 of the 1974 Recommendation )
 
@@ -1221,7 +1225,7 @@ Sub-national
 
 [[START OF PAGE 33]]
 
-### Technical  and  vocational  education  and  training (paras 25-29  of the 1974 Recommendation )
+### F. Technical  and  vocational  education  and  training (paras 25-29  of the 1974 Recommendation )
 
 #### F1 Please  describe  any  major  initiatives  that  have  been  undertaken  to  promote  GCED and/or  ESD  in  technical  and  vocational  education  and  training.  Describe  briefly  the outcomes and impact of such initiatives and provide examples of good practices.
 
@@ -1253,7 +1257,7 @@ XIII - guarantee of the right to education and lifelong learning." (NR)
 
 Art. 37. The education of young people and adults will be aimed at those who have not had access to or continuity of studies in primary and secondary education in their own age and will be an instrument for education and lifelong learning.................................... (NR)
 
-'Art. 58.
+“Art. 58.
 
 § 3 - The offer of special education, pursuant to the caput  of this article, begins in early childhood education and extends throughout life, subject to item III of Art. 4 and Art. 4 and the sole paragraph of Art. 60 of this Law." (NR)
 
@@ -1263,7 +1267,7 @@ Art. 37. The education of young people and adults will be aimed at those who hav
 
 This legal framework is one of the most important thrusters for thinking and elaborating Lifelong Learning and Education projects for the special education and EJA public.
 
-Lifelong Learning and Education in the context of The JaS implies an opportunity to provide access to nonformal  and  informal  learning,  in  addition  to  formal  ones.  Through  the  Student  Life  Project,  the  most  appropriate pathopaths  to  learning  conditions,  validation  of  basic  skills  already  acquired,  consolidation  of  the  possibilities  of integration  with  professional  proposal  and  adaptations  necessary  to  the  structural  conditions  of  life,  locomotion, materials and access to the curriculum can be determined.
+Lifelong Learning and Education in the context of The JaS implies an opportunity to provide access to non-formal  and  informal  learning,  in  addition  to  formal  ones.  Through  the  Student  Life  Project,  the  most  appropriate pathopaths  to  learning  conditions,  validation  of  basic  skills  already  acquired,  consolidation  of  the  possibilities  of integration  with  professional  proposal  and  adaptations  necessary  to  the  structural  conditions  of  life,  locomotion, materials and access to the curriculum can be determined.
 
 Resolution No. 11 of October 7, 2020 was published, establishing the procedures for the use of the existing financial balances in the accounts of the states, municipalities and the Federal District, arising from previous transfers of the Program to Support Education Systems for The Care of Youth and Adults Education - PEJA.
 
@@ -1271,9 +1275,7 @@ This  important  milestone  of  the modality aims  to  articulate the new classe
 
 We also mention the Operational Guidelines for The Education of Youth and Adults (EJA) that have already undergone a public consultation from which they received contributions from various organs and individuals and is in the final phase of homologation and aims to adapt to the precepts of the National Common Curriculum Base (BNCC), and other legislation and norms of recent promulgation.
 
-### H. Research and International Co-operation (paras 41-45 of the
-
-Recommendation )
+### H. Research and International Co-operation (paras 41-45 of the 1974 Recommendation )
 
 #### H1 Please describe what kinds of research or experimentation have been carried  out to improve the implementation of GCED and/or ESD. Describe briefly how the results of such activities have influenced education policies, curricula and/or teaching practices.
 
@@ -1291,7 +1293,7 @@ A study on basic education educational establishments that contain students enro
 
 ##### 4 -Department of Policies for Bilingual Education for Death People:
 
-1974
+
 
 [[END OF PAGE 34]]
 
@@ -1299,11 +1301,9 @@ A study on basic education educational establishments that contain students enro
 
 The Education of the Deaf, in the current government, is being rethought with a focus on the linguistic respect of these students. Curricula, teaching materials, training of professionals in the area, schools and bilingual classes, that is, every framework necessary for this public to have a fair and full school performance, and therefore, acquire with ownership all relevant content that concerns GCED and ESD through a proposal of bilingual education, with Libras as a first language and Portuguese written as a second language. This education goes through all stages of teaching.
 
-#### H2 Please indicate which types of activities are available that promote international cooperation at each level of education by entering the appropriate number in each white cell.
+#### H2 Please indicate which types of activities are available that promote international co-operation at each level of education by entering the appropriate number in each white cell.
 
-### Any other comments
-
-#### I1 Please indicate whether your country has faced any constraints, in particular related to global or national  crises,  including  natural  disasters,  in  implementing  the  1974 Recommendation during the reporting period.
+KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
@@ -1314,7 +1314,9 @@ Membership of international networks including ASPnet | 1 | 1 | 1 | 1
 Joint research projects on GCED and/or ESD with foreign institutions | 9 | 1 | 1 | 1
 Other activities (please specify): | 9 | 1 | 1 | 1
 
-KEY: 0 = no, 1 = yes, 9 = unknown
+### I. Any other comments
+
+#### I1 Please indicate whether your country has faced any constraints, in particular related to global or national  crises,  including  natural  disasters,  in  implementing  the  1974 Recommendation during the reporting period.
 
 Health crises: Pandemic corona virus and Zika virus outbreak
 
