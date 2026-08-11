@@ -43,9 +43,9 @@ Art / Paragraf | Gegenstand / Bezeichnung
 
 § 1. (1) Dieses Bundesgesetz  regelt den Erwerb  der  mit dem  erfolgreichen Abschluss  der 8. Schulstufe  bzw.  der  erfolgreichen  Erfüllung  der  ersten  acht  Jahre  der  allgemeinen  Schulpflicht verbundenen Berechtigungen durch Jugendliche und Erwachsene, welche den Pflichtschulabschluss nicht im Rahmen  des Schulbesuches oder sonst durch Externistenprüfungen erlangt haben und die Voraussetzungen für die Zulassung zur Prüfung (§ 2) erfüllen.
 
-- Prüfungen zum Erwerb des Pflichtschulabschlusses gemäß Abs. 1 erfolgen durch die Ablegung von  Externistenprüfungen  gemäß  § 42  des  Schulunterrichtsgesetzes  (SchUG),  BGBl.  Nr. 472/1986. Soweit dieses Bundesgesetz nicht anderes bestimmt, gelten die Vorschriften über Externistenprüfungen.
+(2) Prüfungen zum Erwerb des Pflichtschulabschlusses gemäß Abs. 1 erfolgen durch die Ablegung von Externistenprüfungen gemäß § 42 des Schulunterrichtsgesetzes (SchUG), BGBl. Nr. 472/1986. Soweit dieses Bundesgesetz nicht anderes bestimmt, gelten die Vorschriften über Externistenprüfungen.
 
-- Der Erwerb der mit dem Pflichtschulabschluss gemäß Abs. 1 verbundenen Berechtigungen durch Jugendliche und Erwachsene verfolgt den Zweck, einen altersgerechten Zugang zu weiterer Bildung zu eröffnen  und  für  Absolventen  und  Absolventinnen  verbesserte  Bedingungen  für  den  Einstieg  in  das Berufsleben oder für das berufliche Fortkommen zu schaffen.
+(3) Der Erwerb der mit dem Pflichtschulabschluss gemäß Abs. 1 verbundenen Berechtigungen durch Jugendliche und Erwachsene verfolgt den Zweck, einen altersgerechten Zugang zu weiterer Bildung zu eröffnen und für Absolventen und Absolventinnen verbesserte Bedingungen für den Einstieg in das Berufsleben oder für das berufliche Fortkommen zu schaffen.
 
 www.ris.bka.gv.at
 
@@ -57,57 +57,57 @@ Seite 1 von 6
 
 Bundesrecht konsolidiert
 
-- Mit der erfolgreichen Ablegung der Externistenprüfungen gemäß Abs. 1 und 2 (Pflichtschulabschluss-Prüfung) werden die mit
+(4) Mit der erfolgreichen Ablegung der Externistenprüfungen gemäß Abs. 1 und 2 (Pflichtschulabschluss-Prüfung) werden die mit
 
-- dem erfolgreichen Abschluss der 8. Schulstufe bzw. der erfolgreichen Erfüllung der ersten acht Jahre der allgemeinen Schulpflicht und
+1. dem erfolgreichen Abschluss der 8. Schulstufe bzw. der erfolgreichen Erfüllung der ersten acht Jahre der allgemeinen Schulpflicht und
 
-- dem erfolgreichen Abschluss der 4. Klasse der Hauptschule oder der 8. Klasse der Volksschuloberstufe oder der 4. Klasse der Neuen Mittelschule oder der Polytechnischen Schule auf der 8. Schulstufe
+2. dem erfolgreichen Abschluss der 4. Klasse der Hauptschule oder der 8. Klasse der Volksschuloberstufe oder der 4. Klasse der Neuen Mittelschule oder der Polytechnischen Schule auf der 8. Schulstufe
 
-verbundenen  Berechtigungen  erlangt,  wobei  nach  den  Erfordernissen  der  verschiedenen  Schularten mittlerer und höherer Schulen durch Verordnung des zuständigen Regierungsmitglieds zu bestimmen ist, welche  Prüfungsgebiete  gemäß  § 3  Abs. 1  Z 4  für  die  Aufnahme  in  bestimmte  mittlere  und  höhere Schulen erfolgreich absolviert sein müssen.
+verbundenen Berechtigungen erlangt, wobei nach den Erfordernissen der verschiedenen Schularten mittlerer und höherer Schulen durch Verordnung des zuständigen Regierungsmitglieds zu bestimmen ist, welche Prüfungsgebiete gemäß § 3 Abs. 1 Z 4 für die Aufnahme in bestimmte mittlere und höhere Schulen erfolgreich absolviert sein müssen.
 
-- Nach erfolgreicher Absolvierung der Pflichtschulabschluss-Prüfung können zusätzliche Teilprüfungen  über  jene  Prüfungsgebiete  gemäß  § 3  Abs. 1  Z 4  abgelegt  werden,  deren  erfolgreiche Absolvierung  gemäß  der  auf Grund  des Abs. 4 ergangenen  Verordnung  im  Hinblick  auf  den beabsichtigten weiterführenden Schulbesuch erforderlich ist. Auf zusätzliche Teilprüfungen zur Pflichtschulabschluss-Prüfung finden die  nachstehenden Bestimmungen  über die PflichtschulabschlussPrüfung bzw. über Teilprüfungen derselben sinngemäß Anwendung.
+(5) Nach erfolgreicher Absolvierung der Pflichtschulabschluss-Prüfung können zusätzliche Teilprüfungen über jene Prüfungsgebiete gemäß § 3 Abs. 1 Z 4 abgelegt werden, deren erfolgreiche Absolvierung gemäß der auf Grund des Abs. 4 ergangenen Verordnung im Hinblick auf den beabsichtigten weiterführenden Schulbesuch erforderlich ist. Auf zusätzliche Teilprüfungen zur Pflichtschulabschluss-Prüfung finden die nachstehenden Bestimmungen über die Pflichtschulabschluss-Prüfung bzw. über Teilprüfungen derselben sinngemäß Anwendung.
 
 ### Zulassung zur Pflichtschulabschluss-Prüfung
 
 § 2. (1)  Zur  Pflichtschulabschluss-Prüfung  sind  Personen  auf  Antrag  zuzulassen,  die  am  Tag  des Antretens  zur  Pflichtschulabschluss-Prüfung  oder  zur  ersten  Teilprüfung  derselben  das  16. Lebensjahr vollendet  und  die  8. Schulstufe  nach  dem  Lehrplan  der  Hauptschule,  der  Neuen  Mittelschule,  der Polytechnischen Schule oder der 4. oder einer höheren Klasse der allgemein bildenden höheren Schule nicht oder nicht erfolgreich abgeschlossen haben.
 
-- Der Antrag auf Zulassung ist bei der öffentlichen oder mit dem  Öffentlichkeitsrecht ausgestatteten  Neuen  Mittelschule  einzubringen,  vor  deren  Prüfungskommission  die  Ablegung  der Pflichtschulabschluss-Prüfung beabsichtigt wird.
+(2) Der Antrag auf Zulassung ist bei der öffentlichen oder mit dem Öffentlichkeitsrecht ausgestatteten Neuen Mittelschule einzubringen, vor deren Prüfungskommission die Ablegung der Pflichtschulabschluss-Prüfung beabsichtigt wird.
 
-- Der  Antrag  hat  neben  den  in  § 3  Abs. 1  und  Abs. 2  Z 2  des  Bildungsdokumentationsgesetzes, BGBl. I Nr. 12/2002, genannten Angaben zu enthalten:
+(3) Der Antrag hat neben den in § 3 Abs. 1 und Abs. 2 Z 2 des Bildungsdokumentationsgesetzes, BGBl. I Nr. 12/2002, genannten Angaben zu enthalten:
 
-- die Angabe der zuletzt besuchten Schule,
+1. die Angabe der zuletzt besuchten Schule,
 
-- Angaben über die gewählte Prüfungsform, sofern gemäß § 3 eine Wahlmöglichkeit besteht,
+2. Angaben über die gewählte Prüfungsform, sofern gemäß § 3 eine Wahlmöglichkeit besteht,
 
-- das gewählte Prüfungsgebiet gemäß § 3 Abs. 1 Z 4,
+3. das gewählte Prüfungsgebiet gemäß § 3 Abs. 1 Z 4,
 
-- beim Prüfungsgebiet 'Weitere Sprache' gemäß § 3 Abs. 1 Z 4 lit. c die gewählte Sprache,
+4. beim Prüfungsgebiet „Weitere Sprache“ gemäß § 3 Abs. 1 Z 4 lit. c die gewählte Sprache,
 
-- gegebenenfalls  den  Antrag  auf  Entfall  von  Prüfungsgebieten  gemäß  § 3  Abs. 4  (unter  Vorlage der Zeugnisse),
+5. gegebenenfalls den Antrag auf Entfall von Prüfungsgebieten gemäß § 3 Abs. 4 (unter Vorlage der Zeugnisse),
 
-- gegebenenfalls  die  in  Aussicht  genommene  Anerkennung  von  Prüfungen  gemäß  § 9  Abs. 6 (unter Vorlage bereits vorhandener Zeugnisse) und
+6. gegebenenfalls die in Aussicht genommene Anerkennung von Prüfungen gemäß § 9 Abs. 6 (unter Vorlage bereits vorhandener Zeugnisse) und
 
-- den beabsichtigten  Zeitpunkt  der Ablegung der Prüfung oder den beabsichtigten Zeitpunkt der Ablegung  der  ersten  Teilprüfung  und  einen  in  Aussicht  genommenen  Zeitrahmen  für  die weiteren Teilprüfungen.
+7. den beabsichtigten Zeitpunkt der Ablegung der Prüfung oder den beabsichtigten Zeitpunkt der Ablegung der ersten Teilprüfung und einen in Aussicht genommenen Zeitrahmen für die weiteren Teilprüfungen.
 
-- Über die Zulassung hat der oder die Vorsitzende der Prüfungskommission zu entscheiden.
+(4) Über die Zulassung hat der oder die Vorsitzende der Prüfungskommission zu entscheiden.
 
-- Nach der Zulassung zur Pflichtschulabschluss-Prüfung ist ein Wechsel der Prüfungskommission nicht mehr zulässig.
+(5) Nach der Zulassung zur Pflichtschulabschluss-Prüfung ist ein Wechsel der Prüfungskommission nicht mehr zulässig.
 
 ### Prüfungsgebiete der Pflichtschulabschluss-Prüfung
 
 § 3. (1)  Die  Pflichtschulabschluss-Prüfung  umfasst  thematisch  und  didaktisch  erwachsenengerecht abgefasste Aufgabenstellungen in folgenden Prüfungsgebieten:
 
-'Deutsch - Kommunikation und Gesellschaft': Eine einstündige schriftliche Klausurarbeit und eine mündliche Prüfung;
+1. „Deutsch – Kommunikation und Gesellschaft“: Eine einstündige schriftliche Klausurarbeit und eine mündliche Prüfung;
 
-'Englisch  -  Globalität  und  Transkulturalität':  Nach  Wahl  des  Prüfungskandidaten  oder  der Prüfungskandidatin eine einstündige schriftliche Klausurarbeit oder eine mündliche Prüfung;
+2. „Englisch – Globalität und Transkulturalität“: Nach Wahl des Prüfungskandidaten oder der Prüfungskandidatin eine einstündige schriftliche Klausurarbeit oder eine mündliche Prüfung;
 
-'Mathematik': Eine einstündige schriftliche Klausurarbeit und eine mündliche Prüfung;
+3. „Mathematik“: Eine einstündige schriftliche Klausurarbeit und eine mündliche Prüfung;
 
-- nach Wahl des Prüfungskandidaten oder der Prüfungskandidatin zwei der nachstehend genannten Prüfungsgebiete:
+4. nach Wahl des Prüfungskandidaten oder der Prüfungskandidatin zwei der nachstehend genannten Prüfungsgebiete:
 
-'Kreativität und Gestaltung',
+a) „Kreativität und Gestaltung“,
 
-'Gesundheit und Soziales',
+b) „Gesundheit und Soziales“,
 
 www.ris.bka.gv.at
 
@@ -119,13 +119,13 @@ Seite 2 von 6
 
 Bundesrecht konsolidiert
 
-'Weitere Sprache' (mit Bezeichnung der vom Prüfungskandidaten oder von der Prüfungskandidatin gewählten Sprache),
+c) „Weitere Sprache“ (mit Bezeichnung der vom Prüfungskandidaten oder von der Prüfungskandidatin gewählten Sprache),
 
-d) 'Natur und Technik'.
+d) „Natur und Technik“.
 
-Die  Prüfungsgebiete  gemäß  lit.  a  bis  d  können  nach  Wahl  des  Prüfungskandidaten  oder  der Prüfungskandidatin  in  Form  einer  einstündigen  schriftlichen  Klausurarbeit,  in  Form  einer mündlichen  Prüfung  oder  in  Form  einer  Projektarbeit  (einschließlich  deren  Präsentation  und Diskussion unter Einbeziehung des fachlichen Umfeldes) abgelegt werden.
+Die Prüfungsgebiete gemäß lit. a bis d können nach Wahl des Prüfungskandidaten oder der Prüfungskandidatin in Form einer einstündigen schriftlichen Klausurarbeit, in Form einer mündlichen Prüfung oder in Form einer Projektarbeit (einschließlich deren Präsentation und Diskussion unter Einbeziehung des fachlichen Umfeldes) abgelegt werden.
 
-'Berufsorientierung':  Die  mündliche  Präsentation  eines  der  Prüfungskommission  vorgelegten Portfolios.
+5. „Berufsorientierung“: Die mündliche Präsentation eines der Prüfungskommission vorgelegten Portfolios.
 
 (2) Die Prüfungsanforderungen in den Prüfungsgebieten gemäß Abs. 1 Z 1 bis 4 sind jene der Neuen Mittelschule  (in  den  Prüfungsgebieten  gemäß  Abs. 1  Z 1  bis  3  in  der  grundlegenden  und  vertieften Allgemeinbildung). Die Prüfungsanforderungen im Prüfungsgebiet gemäß Abs. 1 Z 5 sind eine schriftliche  Dokumentation  von  Projekten  und  Arbeiten  in  einem  Portfolio  sowie  eine  mündliche Auseinandersetzung mit allgemein bildenden Aspekten der Berufsorientierung.
 
@@ -133,11 +133,11 @@ Die  Prüfungsgebiete  gemäß  lit.  a  bis  d  können  nach  Wahl  des  Prüf
 
 (4) Ein Prüfungsgebiet gemäß Abs. 1 Z 1 bis 4 entfällt auf Antrag, wenn der Prüfungskandidat oder die Prüfungskandidatin
 
-- den erfolgreichen Abschluss  des  Unterrichtsgegenstandes  oder  der  Unterrichtsgegenstände nachweist, der bzw. die (allenfalls auch nur zum Teil) durch die Verordnung gemäß Abs. 3 dem jeweiligen Prüfungsgebiet zugeordnet wurde bzw. wurden, oder
+1. den erfolgreichen Abschluss des Unterrichtsgegenstandes oder der Unterrichtsgegenstände nachweist, der bzw. die (allenfalls auch nur zum Teil) durch die Verordnung gemäß Abs. 3 dem jeweiligen Prüfungsgebiet zugeordnet wurde bzw. wurden, oder
 
-- die erfolgreiche Absolvierung von Externistenprüfungen oder Teilprüfungen von Externistenprüfungen  nachweist  und  der  oder  die  Vorsitzende  der  Prüfungskommission  die Gleichwertigkeit der Prüfung feststellt.
+2. die erfolgreiche Absolvierung von Externistenprüfungen oder Teilprüfungen von Externistenprüfungen nachweist und der oder die Vorsitzende der Prüfungskommission die Gleichwertigkeit der Prüfung feststellt.
 
-(5) Der Entfall von Prüfungsgebieten ist nur in dem Maß zulässig, als - auch unter Bedachtnahme auf  allfällige  Anerkennungen  gemäß  § 9  Abs.  6  -  zumindest  eine  Teilprüfung  gemäß  Abs.  1  vor  der zuständigen Prüfungskommission (§ 4) abzulegen ist.
+(5) Der Entfall von Prüfungsgebieten ist nur in dem Maß zulässig, als – auch unter Bedachtnahme auf allfällige Anerkennungen gemäß § 9 Abs. 6 – zumindest eine Teilprüfung gemäß Abs. 1 vor der zuständigen Prüfungskommission (§ 4) abzulegen ist.
 
 ### Prüfungskommission der Pflichtschulabschluss-Prüfung
 
@@ -153,7 +153,7 @@ Die  Prüfungsgebiete  gemäß  lit.  a  bis  d  können  nach  Wahl  des  Prüf
 
 (2)  Die  Pflichtschulabschluss-Prüfung  sowie  Teilprüfungen  derselben  sind  innerhalb  von  fünf Jahren, gerechnet vom Zeitpunkt der Zulassung, nach den zu diesem Zeitpunkt geltenden Prüfungsvorschriften, danach nach den jeweils geltenden Vorschriften abzulegen.
 
-(3) Nicht oder mit 'Nicht genügend' beurteilte Teilprüfungen dürfen jeweils nach Ablauf zumindest eines Monats drei Mal wiederholt werden.
+(3) Nicht oder mit „Nicht genügend“ beurteilte Teilprüfungen dürfen jeweils nach Ablauf zumindest eines Monats drei Mal wiederholt werden.
 
 (4)  Dem Vorsitzenden oder der Vorsitzenden obliegt die Leitung der Prüfung. Er oder sie hat für einen ordnungsgemäßen Prüfungsablauf zu sorgen.
 
@@ -177,27 +177,27 @@ Bundesrecht konsolidiert
 
 (2)  Maßstab  für  die  Beurteilung  bzw.  Bewertung  sind  die  Anforderungen  der  Neuen  Mittelschule (§ 3 Abs. 2). Grundlage für die Beurteilung bzw. Bewertung sind die vom Prüfungskandidaten oder von der Prüfungskandidatin bei der Lösung der Aufgaben erwiesene Kenntnis des Prüfungsgebietes, die dabei gezeigte Einsicht in die Zusammenhänge zwischen verschiedenen Sachgebieten des Prüfungsgebietes, die Eigenständigkeit im Denken und in der Anwendung des Inhaltes des Prüfungsgebietes, die Erreichung der Bildungs- und Lehraufgabe sowie der Lernziele des betreffenden Prüfungsgebietes und die im Rahmen der Präsentation (§ 3 Abs. 1  Z 4  und  5)  nachgewiesenen  Kompetenzen  in  der  Ausdrucks-  und Diskursfähigkeit in der deutschen Sprache.
 
-(3) Die Beurteilungsstufen für die Beurteilung der bei den Teilprüfungen gemäß § 3 Abs. 1 Z 1 bis 4 erbrachten  Leistungen sind:  'Sehr gut',  'Gut',  'Befriedigend',  'Genügend' und  'Nicht genügend'. In den Prüfungsgebieten gemäß § 3 Abs. 1 Z 1 bis 3 ist mit der Beurteilung das Erlangen der grundlegenden oder der vertieften Allgemeinbildung auszuweisen, wobei die Leistungen in der grundlegenden Allgemeinbildung  mit  'Befriedigend',  'Genügend'  oder  'Nicht  genügend'  und  die  Leistungen  in  der vertieften Allgemeinbildung mit 'Sehr gut', 'Gut', 'Befriedigend' oder 'Genügend' zu beurteilen sind.
+(3) Die Beurteilungsstufen für die Beurteilung der bei den Teilprüfungen gemäß § 3 Abs. 1 Z 1 bis 4 erbrachten Leistungen sind: „Sehr gut“, „Gut“, „Befriedigend“, „Genügend“ und „Nicht genügend“. In den Prüfungsgebieten gemäß § 3 Abs. 1 Z 1 bis 3 ist mit der Beurteilung das Erlangen der grundlegenden oder der vertieften Allgemeinbildung auszuweisen, wobei die Leistungen in der grundlegenden Allgemeinbildung mit „Befriedigend“, „Genügend“ oder „Nicht genügend“ und die Leistungen in der vertieften Allgemeinbildung mit „Sehr gut“, „Gut“, „Befriedigend“ oder „Genügend“ zu beurteilen sind.
 
 (4) Nach Entgegennahme der Aufgabenstellung ist ein Rücktritt nicht mehr zulässig. Die betreffende Teilprüfung ist zu beurteilen.
 
 (5) Vorgetäuschte Leistungen sind nicht zu beurteilen.
 
-(6) Die Gesamtbeurteilung der Pflichtschulabschluss-Prüfung hat auf 'Bestanden' zu lauten, wenn unter Außerachtlassung  allenfalls entfallener Prüfungsgebiete und gemäß  § 9  Abs. 6 anerkannter Teilprüfungen
+(6) Die Gesamtbeurteilung der Pflichtschulabschluss-Prüfung hat auf „Bestanden“ zu lauten, wenn – unter Außerachtlassung allenfalls entfallener Prüfungsgebiete und gemäß § 9 Abs. 6 anerkannter Teilprüfungen
 
-- alle Teilprüfungen gemäß § 3 Abs. 1 Z 1 bis 4 beurteilt wurden und keine Beurteilung auf 'Nicht genügend' lautet und
+1. alle Teilprüfungen gemäß § 3 Abs. 1 Z 1 bis 4 beurteilt wurden und keine Beurteilung auf „Nicht genügend“ lautet und
 
-- im Rahmen des Prüfungsgebietes gemäß § 3 Abs. 1 Z 5 ein Portfolio vorgelegt und präsentiert wurde.
+2. im Rahmen des Prüfungsgebietes gemäß § 3 Abs. 1 Z 5 ein Portfolio vorgelegt und präsentiert wurde.
 
-Andernfalls hat die Gesamtbeurteilung auf 'Nicht bestanden' zu lauten.
+Andernfalls hat die Gesamtbeurteilung auf „Nicht bestanden“ zu lauten.
 
 ### Zeugnis über die Pflichtschulabschluss-Prüfung / Teilprüfungszeugnis
 
 § 7. (1) Die Leistungen des Prüfungskandidaten oder der Prüfungskandidatin sind bei Ablegung von Teilprüfungen  der  Pflichtschulabschluss-Prüfung  in  Teilprüfungszeugnissen  je  absolvierter  Teilprüfung zu beurkunden.
 
-- Nach  erfolgreicher Ablegung  aller  Teilprüfungen oder  nach  erfolgreicher  Ablegung  der Pflichtschulabschluss-Prüfung an einem Prüfungstermin ist ein Zeugnis über die PflichtschulabschlussPrüfung  auszustellen.  Das  Zeugnis  über  die  Pflichtschulabschluss-Prüfung  hat  die  Beurteilung  in  den einzelnen Prüfungsgebieten gemäß § 3 Abs. 1 Z 1 bis 4, die Bewertung im Prüfungsgebiet gemäß § 3 Abs. 1 Z 5, bei Entfall von Prüfungsgebieten gemäß § 3 Abs. 4 und bei Anerkennung von Prüfungsgebieten  gemäß  § 9  Abs. 6  einen  entsprechenden  Vermerk  sowie  die  Gesamtbeurteilung  zu enthalten.
+(2) Nach erfolgreicher Ablegung aller Teilprüfungen oder nach erfolgreicher Ablegung der Pflichtschulabschluss-Prüfung an einem Prüfungstermin ist ein Zeugnis über die Pflichtschulabschluss-Prüfung auszustellen. Das Zeugnis über die Pflichtschulabschluss-Prüfung hat die Beurteilung in den einzelnen Prüfungsgebieten gemäß § 3 Abs. 1 Z 1 bis 4, die Bewertung im Prüfungsgebiet gemäß § 3 Abs. 1 Z 5, bei Entfall von Prüfungsgebieten gemäß § 3 Abs. 4 und bei Anerkennung von Prüfungsgebieten gemäß § 9 Abs. 6 einen entsprechenden Vermerk sowie die Gesamtbeurteilung zu enthalten.
 
-- Die  Teilprüfungszeugnisse  gemäß  Abs.  1  sowie  das  Zeugnis  über  die  PflichtschulabschlussPrüfung  gemäß  Abs.  2  sind  entsprechend  den Anlagen  1 und 2 zu  diesem  Bundesgesetz  auf  dem  für öffentliche Schulen vorgesehenen Unterdruckpapier zu gestalten.
+(3) Die Teilprüfungszeugnisse gemäß Abs. 1 sowie das Zeugnis über die Pflichtschulabschluss-Prüfung gemäß Abs. 2 sind entsprechend den Anlagen 1 und 2 zu diesem Bundesgesetz auf dem für öffentliche Schulen vorgesehenen Unterdruckpapier zu gestalten.
 
 ### Lehrgänge zur Vorbereitung auf die Pflichtschulabschluss-Prüfung
 
@@ -205,7 +205,7 @@ Andernfalls hat die Gesamtbeurteilung auf 'Nicht bestanden' zu lauten.
 
 (2) Die Anerkennung hat zu erfolgen, wenn
 
-- der vorzulegende Lehroder Studienplan von seinen Anforderungen her den Prüfungsanforderungen gemäß § 3 zumindest gleichwertig ist und
+1. der vorzulegende Lehr- oder Studienplan von seinen Anforderungen her den Prüfungsanforderungen gemäß § 3 zumindest gleichwertig ist und
 
 www.ris.bka.gv.at
 
@@ -217,13 +217,13 @@ Seite 4 von 6
 
 Bundesrecht konsolidiert
 
-- die  Vortragenden  sowie  die  Prüfer  und  Prüferinnen  über  den  erfolgreichen  Abschluss  eines facheinschlägigen,  zum  Unterricht  an  Hauptschulen,  Neuen  Mittelschulen,  Polytechnischen Schulen  oder  mittleren  und  höheren  Schulen  befähigenden  Studiums  an  einer  anerkannten postsekundären Bildungseinrichtung verfügen.
+2. die Vortragenden sowie die Prüfer und Prüferinnen über den erfolgreichen Abschluss eines facheinschlägigen, zum Unterricht an Hauptschulen, Neuen Mittelschulen, Polytechnischen Schulen oder mittleren und höheren Schulen befähigenden Studiums an einer anerkannten postsekundären Bildungseinrichtung verfügen.
 
 Als  Vortragende  in  Lehrgängen  zur  Vorbereitung  auf  die  Pflichtschulabschluss-Prüfung  kommen  auch Personen  in  Betracht,  welche  ein  facheinschlägiges  Studium  an  einer  anerkannten  postsekundären Bildungseinrichtung erfolgreich abgeschlossen haben und über eine zumindest zwölfmonatige Berufserfahrung als Vortragende in der Aus-, Fort- oder Weiterbildung verfügen.
 
 (3) Die Anerkennung eines Lehrgangs nach Abs. 1 und 2 erfolgt im Hinblick auf den eingereichten Lehr- oder Studienplan für die Dauer von höchstens fünf Jahren und ist bei Änderung oder Neuerlassung desselben neu zu beantragen.
 
-(4)  Die  Anerkennung  erfolgt  durch  Bescheid.  Vor  der  Anerkennung  ist  der  örtlich  zuständige Landesschulrat bzw. Stadtschulrat für Wien zu hören. Die Anerkennung ist gemeinsam mit dem Lehroder Studienplan, der dem anerkannten Lehrgang zu Grunde liegt, durch den Rechtsträger gemäß Abs. 1 auf geeignete Weise kund zu machen.
+(4) Die Anerkennung erfolgt durch Bescheid. Vor der Anerkennung ist der örtlich zuständige Landesschulrat bzw. Stadtschulrat für Wien zu hören. Die Anerkennung ist gemeinsam mit dem Lehr- oder Studienplan, der dem anerkannten Lehrgang zu Grunde liegt, durch den Rechtsträger gemäß Abs. 1 auf geeignete Weise kund zu machen.
 
 ### Prüfungen an Lehrgängen zur Vorbereitung auf die Pflichtschulabschluss-Prüfung
 
@@ -235,9 +235,9 @@ Als  Vortragende  in  Lehrgängen  zur  Vorbereitung  auf  die  Pflichtschulabsc
 
 (4)  Gleichzeitig  mit  dem Vorschlag des oder der für die Vorsitzführung in  Aussicht genommenen fachkundigen  Experten  oder  Expertin  sind  dem  Landesschulrat  bzw.  dem  Stadtschulrat  für  Wien  die Aufgabenstellungen der schriftlichen Klausurarbeiten zu übermitteln. Findet der Landesschulrat bzw. der Stadtschulrat für Wien die vorgelegten Aufgabenstellungen im Hinblick auf den für das Prüfungsgebiet maßgeblichen  Lehrplan  und  im  Hinblick  auf  die  geforderte  Gleichwertigkeit  ungeeignet,  hat  er  unter Setzung einer angemessenen Frist die Vorlage neuer Aufgabenstellungen zu verlangen. Die Aufgabenstellungen der mündlichen Teilprüfungen sind dem Vorsitzenden am Prüfungstag vor Beginn der Prüfung zur Genehmigung vorzulegen.
 
-(5)  Nicht  oder  mit  'Nicht  genügend'  beurteilte  Abschlussprüfungen  dürfen  jeweils  nach  Ablauf zumindest eines Monats drei Mal wiederholt werden.
+(5) Nicht oder mit „Nicht genügend“ beurteilte Abschlussprüfungen dürfen jeweils nach Ablauf zumindest eines Monats drei Mal wiederholt werden.
 
-(6)  Erfolgreich  abgelegte  Abschlussprüfungen  an  anerkannten  Lehrgängen  sind  auf  Antrag  des Prüfungskandidaten oder der Prüfungskandidatin als Teilprüfungen der Pflichtschulabschluss-Prüfung im entsprechenden Prüfungsgebiet anzuerkennen. Die Anerkennung ist nur in dem Maß zulässig, als - auch unter  Bedachtnahme  auf  einen  allfälligen  Entfall  von  Prüfungsgebieten  gemäß  § 3  Abs. 4  und  5  zumindest eine Teilprüfung gemäß § 3 Abs. 1 vor der zuständigen Prüfungskommission (§ 4) abzulegen ist. Die zum Nachweis der Anerkennung der Abschlussprüfung eingereichten Unterlagen sind zusammen mit  den  sonstigen  Unterlagen  für  die  Pflichtschulabschluss-Prüfung  bei  der  in  § 2  Abs. 4  genannten Schule aufzubewahren.
+(6) Erfolgreich abgelegte Abschlussprüfungen an anerkannten Lehrgängen sind auf Antrag des Prüfungskandidaten oder der Prüfungskandidatin als Teilprüfungen der Pflichtschulabschluss-Prüfung im entsprechenden Prüfungsgebiet anzuerkennen. Die Anerkennung ist nur in dem Maß zulässig, als – auch unter Bedachtnahme auf einen allfälligen Entfall von Prüfungsgebieten gemäß § 3 Abs. 4 und 5 – zumindest eine Teilprüfung gemäß § 3 Abs. 1 vor der zuständigen Prüfungskommission (§ 4) abzulegen ist. Die zum Nachweis der Anerkennung der Abschlussprüfung eingereichten Unterlagen sind zusammen mit den sonstigen Unterlagen für die Pflichtschulabschluss-Prüfung bei der in § 2 Abs. 4 genannten Schule aufzubewahren.
 
 ### Verfahrensvorschriften
 
@@ -257,13 +257,13 @@ Bundesrecht konsolidiert
 
 § 11. Den Vorsitzenden, den Prüfern und Prüferinnen sowie den Schriftführern und Schriftführerinnen der
 
-- an öffentlichen Schulen eingerichteten Prüfungskommissionen,
+1. an öffentlichen Schulen eingerichteten Prüfungskommissionen,
 
-- an Schulen mit Öffentlichkeitsrecht, deren Lehrer- und Lehrerinnenpersonalaufwand zur Gänze vom Bund getragen wird, und
+2. an Schulen mit Öffentlichkeitsrecht, deren Lehrer- und Lehrerinnenpersonalaufwand zur Gänze vom Bund getragen wird, und
 
-- vom Landesschulrat bzw. vom Stadtschulrat für Wien bestellten Vorsitzenden und Prüfern und Prüferinnen
+3. vom Landesschulrat bzw. vom Stadtschulrat für Wien bestellten Vorsitzenden und Prüfern und Prüferinnen
 
-gebührt eine  Abgeltung gemäß dem Prüfungstaxengesetz - Schulen/Pädagogische Hochschulen, BGBl. Nr. 314/1976, nach Maßgabe der für eine entsprechende Externistenprüfung vorgesehenen Abgeltung.
+gebührt eine Abgeltung gemäß dem Prüfungstaxengesetz – Schulen/Pädagogische Hochschulen, BGBl. Nr. 314/1976, nach Maßgabe der für eine entsprechende Externistenprüfung vorgesehenen Abgeltung.
 
 ### Geltung und Wirksamkeit anderer Rechtsvorschriften
 
@@ -273,15 +273,13 @@ gebührt eine  Abgeltung gemäß dem Prüfungstaxengesetz - Schulen/Pädagogisch
 
 § 13. (1)  Dieses  Bundesgesetz  sowie  die  Anlagen  1  und  2  zu  diesem  Bundesgesetz  treten  mit 1. September 2012 in Kraft.
 
-§ 10 in der Fassung des Bundesgesetzes BGBl. I Nr. 75/2013 tritt mit 1. Jänner 2014 in Kraft.
+(2) § 10 in der Fassung des Bundesgesetzes BGBl. I Nr. 75/2013 tritt mit 1. Jänner 2014 in Kraft.
 
 ### Vollziehung
 
 § 14. Mit der Vollziehung dieses Bundesgesetzes ist der Bundesminister oder die Bundesministerin für Unterricht, Kunst und Kultur betraut.
 
 ### Anlage 1
-
-### Anlage 2
 
 #### EXTERNISTENPRÜFUNGSKOMMISSION
 
@@ -290,6 +288,8 @@ der
 PFLICHTSCHULABSCHLUSS-PRÜFUNG
 
 (Anm.: Anlage 1 ist als PDF dokumentiert.)
+
+### Anlage 2
 
 #### EXTERNISTENPRÜFUNGSKOMMISSION
 
