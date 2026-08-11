@@ -16,12 +16,11 @@ Implementation of programs to integrate students with disabilities into both pub
 
 ### Establishment of Specialized Educational Facilities:
 
-The opening of two schools in Sabah Al-Ahmad Residential City -Al-Irada School for Boys and Al-Tahaddi School for Girls -dedicated to serving students with all types of disabilities.
+The opening of two schools in Sabah Al-Ahmad Residential City — Al-Irada School for Boys and Al-Tahaddi School for Girls — dedicated to serving students with all types of disabilities.
 
 ### Infrastructure and Facilities:
-environment in kindergartens, equipped with the latest tools and educational
 
-The State is committed to providing a safe and stimulating educational resources that foster learning and exploration among children.
+The State is committed to providing a safe and stimulating educational environment in kindergartens, equipped with the latest tools and educational resources that foster learning and exploration among children.
 
 [[END OF PAGE 1]]
 
