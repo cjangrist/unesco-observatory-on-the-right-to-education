@@ -1,7 +1,5 @@
 [[START OF PAGE 1]]
 
-20 to 29.  ......
-
 # CONSTITUTION OF BOTSWANA
 
 ## ARRANGEMENT OF SECTIONS
@@ -10,51 +8,53 @@
 
 #### The Republic
 
-- Declaration of Republic
+- 1. Declaration of Republic
 
-- Public Seal
+- 2. Public Seal
 
 ### CHAPTER II
 
 #### Protection of Fundamental Rights and Freedoms of the Individual
 
-- Fundamental rights and freedoms of the individual
+- 3. Fundamental rights and freedoms of the individual
 
-- Protection of right to life
+- 4. Protection of right to life
 
-- Protection of right to personal liberty
+- 5. Protection of right to personal liberty
 
-- Protection from slavery and forced labour
+- 6. Protection from slavery and forced labour
 
-- Protection from inhuman treatment
+- 7. Protection from inhuman treatment
 
-- Protection from deprivation of property
+- 8. Protection from deprivation of property
 
-- Protection for privacy of home and other property
+- 9. Protection for privacy of home and other property
 
-- Provisions to secure protection of law
+- 10. Provisions to secure protection of law
 
-- Protection of freedom of conscience
+- 11. Protection of freedom of conscience
 
-- Protection of freedom of expression
+- 12. Protection of freedom of expression
 
-- Protection of freedom of assembly and association
+- 13. Protection of freedom of assembly and association
 
-- Protection of freedom of movement
+- 14. Protection of freedom of movement
 
-- Protection from discrimination on the grounds of race, etc.
+- 15. Protection from discrimination on the grounds of race, etc.
 
-- Derogation from fundamental rights and freedoms
+- 16. Derogation from fundamental rights and freedoms
 
-- Declarations relating to emergencies
+- 17. Declarations relating to emergencies
 
-- Enforcement of protective provisions
+- 18. Enforcement of protective provisions
 
-- Interpretation and savings
+- 19. Interpretation and savings
 
 ### CHAPTER III
 
 #### Citizenship
+
+20 to 29. ......
 
 ### CHAPTER IV
 
@@ -62,41 +62,41 @@
 
 #### PART I The President and the Vice-President
 
-- Office of President
+- 30. Office of President
 
-- First President
+- 31. First President
 
-- Election of President after dissolution of Parliament
+- 32. Election of President after dissolution of Parliament
 
-- Qualification for election as President
+- 33. Qualification for election as President
 
-- Tenure of office of President
+- 34. Tenure of office of President
 
-- Vacancy in office of President
+- 35. Vacancy in office of President
 
-- Discharge of functions of President during absence, illness, etc.
+- 36. Discharge of functions of President during absence, illness, etc.
 
-- Oath of President
+- 37. Oath of President
 
-- Returning officer at elections of President
+- 38. Returning officer at elections of President
 
-- Vice-President
+- 39. Vice-President
 
-- Salary and allowances of President
+- 40. Salary and allowances of President
 
-- Protection of President in respect of legal proceedings
+- 41. Protection of President in respect of legal proceedings
 
 #### PART II The Cabinet
 
-- Ministers and Assistant Ministers
+- 42. Ministers and Assistant Ministers
 
-- Tenure of office of Ministers and Assistant Ministers
+- 43. Tenure of office of Ministers and Assistant Ministers
 
-- Cabinet
+- 44. Cabinet
 
-- Oaths to be taken by Ministers and Assistant Ministers
+- 45. Oaths to be taken by Ministers and Assistant Ministers
 
-- Secretary to the Cabinet
+- 46. Secretary to the Cabinet
 
 Copyright Government of Botswana
 
@@ -106,13 +106,181 @@ Copyright Government of Botswana
 
 #### PART III Executive Functions
 
+- 47. Functions of President
+
+- 48. Command of armed forces
+
+- 49. Functions of Vice-President
+
+- 50. Functions of Cabinet Ministers and Assistant Ministers
+
+- 51. Attorney-General
+
+- 51A. Director of Public Prosecutions
+
+- 52. Permanent Secretaries
+
+- 53. Prerogative of Mercy
+
+- 54. Advisory Committee on Prerogative of Mercy
+
+- 55. Functions of Advisory Committee on Prerogative of Mercy
+
+- 56. Constitution of offices
+
+### CHAPTER V
+
+#### Parliament
+
+#### PART I Composition
+
+- 57. Parliament
+
+- 58. Composition of National Assembly
+
+- 59. Speaker
+
+- 60. Deputy Speaker
+
+- 61. Qualifications for election to National Assembly
+
+- 62. Disqualifications for membership of National Assembly
+
+- 63. Constituencies
+
+- 64. Delimitation Commission
+
+- 65. Report of Commission
+
+- 65A. Appointment of Independent Electoral Commission
+
+- 66. Appointment of Secretary to Independent Electoral Commission
+
+- 67. The franchise
+
+- 68. Tenure of office of members
+
+- 69. Determination of questions as to membership of National Assembly
+
+- 70. Clerk of the Assembly
+
+#### PART II General Provisions Relating to Procedure in National Assembly
+
+- 71. Oaths to be taken by Speaker and Members
+
+- 72. Presiding in Assembly
+
+- 73. Quorum in Assembly
+
+- 74. Voting in Assembly
+
+- 75. Unqualified persons sitting or voting
+
+- 76. Regulation of procedure in Assembly
+
+#### PART III Ntlo ya Dikgosi
+
+- 77. Establishment and composition of Ntlo ya Dikgosi
+
+- 78. Designation for Member to Ntlo ya Dikgosi
+
+- 79. Qualifications for Members of Ntlo ya Dikgosi
+
+- 80. Oath of allegiance
+
+- 81. Secretary to Ntlo ya Dikgosi
+
+- 82. Tenure of office of Members of Ntlo ya Dikgosi
+
+- 83. Rules of Procedure of Ntlo ya Dikgosi
+
+- 84. Ntlo ya Dikgosi may transact business notwithstanding vacancies
+
+- 85. Functions of Ntlo ya Dikgosi
+
 Copyright Government of Botswana
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-#### PART IV
+#### PART IV Powers of Parliament
+
+- 86. Legislative powers
+
+- 87. Mode of exercising legislative powers
+
+- 88. Introduction of Bills
+
+- 89. Alteration of Constitution
+
+#### PART V Summoning, Prorogation and Dissolution
+
+- 90. Sessions of Parliament
+
+- 91. Prorogation and dissolution of Parliament
+
+- 92. Vote of no confidence in the Government
+
+- 93. Sittings of National Assembly
+
+#### PART VI Interpretation
+
+- 94. Votes of two-thirds of the Assembly
+
+### CHAPTER VI
+
+#### The Judicature
+
+#### PART I The High Court
+
+- 95. Jurisdiction and composition
+
+- 96. Appointment of judges of High Court
+
+- 97. Tenure of office of judges of High Court
+
+- 98. Oaths to be taken by judges of High Court
+
+#### PART II Court of Appeal
+
+- 99. Composition and jurisdiction
+
+- 100. Appointment of judges of Court of Appeal
+
+- 101. Tenure of office of judges of Court of Appeal
+
+- 102. Oaths to be taken by judges of Court of Appeal
+
+#### PART III Judicial Service Commission
+
+- 103. Composition and procedure
+
+- 104. Appointment, etc., of judicial officers
+
+#### PART IV Interpretation of the Constitution
+
+- 105. Reference to High Court of cases involving interpretation of Constitution
+
+- 106. Appeal to Court of Appeal
+
+#### PART V Judicial Committee
+
+- 107. ......
+
+### CHAPTER VII
+
+#### The Public Service
+
+- 108. Power to specify qualifications for certain offices
+
+- 109. Public Service Commission
+
+- 110. Appointment, etc., of public officers
+
+- 111. Appeals to President
+
+- 112. Powers of President in relation to certain public offices
 
 Copyright Government of Botswana
 
@@ -120,49 +288,51 @@ Copyright Government of Botswana
 
 [[START OF PAGE 4]]
 
-- Tenure of office of Director of Public Prosecutions
+- 113. Tenure of office of Director of Public Prosecutions
 
-- Tenure of office of Auditor-General
+- 114. Tenure of office of Auditor-General
 
-- Pensions laws and protection of pensions rights
+- 115. Pensions laws and protection of pensions rights
 
-- Power of Commissions in relation to pensions, etc.
+- 116. Power of Commissions in relation to pensions, etc.
 
 ### CHAPTER VIII
 #### Finance
 
-- Consolidated Fund
+- 117. Consolidated Fund
 
-- Withdrawals from Consolidated Fund or other public funds
+- 118. Withdrawals from Consolidated Fund or other public funds
 
-- Authorization of expenditure
+- 119. Authorization of expenditure
 
-- Authorization of expenditure in advance of appropriation
+- 120. Authorization of expenditure in advance of appropriation
 
-- Contingencies Fund
+- 121. Contingencies Fund
 
-- Remuneration of certain officers
+- 122. Remuneration of certain officers
 
-- Public debt
+- 123. Public debt
 
-- Auditor-General
+- 124. Auditor-General
 
-- Resignations
+### CHAPTER IX
 
-- Reappointments and concurrent appointments
+#### Miscellaneous
 
-- Interpretation
+- 125. Resignations
 
-First Schedule - Election of Specially Elected Members of the National Assembly Second Schedule - Division of Districts into regions for the purpose of selecting Members of Ntlo ya Dikgosi
+- 126. Reappointments and concurrent appointments
+
+- 127. Interpretation
+
+First Schedule - Election of Specially Elected Members of the National Assembly
+Second Schedule - Division of Districts into regions for the purpose of selecting Members of Ntlo ya Dikgosi
 
 L.N. 83, 1966, Act 30, 1969, Act 43, 1969, Act 25, 1970, Act 28, 1972, Act 24, 1973, Act 28, 1978, S.I. 25, 1980, Act 32, 1982, Act 1, 1983, Act 22, 1987, S.I. 37, 1991, Act 27, 1992, S.I. 51, 1993, S.I. 119, 1993, Act 16, 1997, Act 18, 1997, Act 1, 1999, Act 2, 2002, Act 12, 2002, Act 9, 2005, S.I. 91, 2006.
 
 [ Date of Commencement: 30th September, 1966 ]
 
 ## CHAPTER I
-
-### CHAPTER IX
-#### Miscellaneous
 
 Copyright Government of Botswana
 
@@ -248,23 +418,23 @@ for his or her education or welfare during any period ending not later than the 
 
 (2) Any person who is arrested or detained shall be informed as soon as reasonably practicable, in a language that he or she understands, of the reasons for his or her arrest or detention.
 
-- Any person who is arrested or detained-
+(3) Any person who is arrested or detained-
 
-( a ) for the purpose of bringing him or her before a court in execution of the order of a court; or
+(a) for the purpose of bringing him or her before a court in execution of the order of a court; or
 
-( b ) upon reasonable suspicion of his or her having committed, or being about to commit, a criminal offence under the law in force in Botswana,
+(b) upon reasonable suspicion of his or her having committed, or being about to commit, a criminal offence under the law in force in Botswana,
 
-and who is not released, shall be brought as soon as is reasonably practicable before a court; and if any person arrested or detained as mentioned in paragraph ( b ) of this subsection is not tried within a reasonable time, then, without prejudice to any further proceedings that may be brought against him or her, he or she shall be released either unconditionally or upon reasonable conditions, including in particular such conditions as are reasonably necessary to ensure that he or she appears at a later date for trial or for proceedings preliminary to trial.
+and who is not released, shall be brought as soon as is reasonably practicable before a court; and if any person arrested or detained as mentioned in paragraph (b) of this subsection is not tried within a reasonable time, then, without prejudice to any further proceedings that may be brought against him or her, he or she shall be released either unconditionally or upon reasonable conditions, including in particular such conditions as are reasonably necessary to ensure that he or she appears at a later date for trial or for proceedings preliminary to trial.
 
 (4) Any person who is unlawfully arrested or detained by any other person shall be entitled to compensation therefor from that other person.
 
 #### 6. Protection from slavery and forced labour
 
-- No person shall be held in slavery or servitude.
+(1) No person shall be held in slavery or servitude.
 
-- No person shall be required to perform forced labour.
+(2) No person shall be required to perform forced labour.
 
-- For the purposes of this section, the expression "forced labour" does not include-
+(3) For the purposes of this section, the expression "forced labour" does not include-
 
 ( a ) any labour required in consequence of the sentence or order of a court;
 
@@ -306,15 +476,15 @@ Copyright Government of Botswana
 
 (ii) securing to any person having an interest in or right over the property a right of access to the High Court, either direct or on appeal from any other authority, for the determination of his or her interest or right, the legality of the taking of possession or acquisition of the property, interest or right, and the amount of any compensation to which he or she is entitled, and for the purpose of obtaining prompt payment of that compensation.
 
-- No person who is entitled to compensation under this section shall be prevented from remitting, within a reasonable time after he or she has received any amount of that compensation, the whole of that amount (free from any deduction, charge or tax made or levied in respect of its remission) to any country of his or her choice outside Botswana.
+(2) No person who is entitled to compensation under this section shall be prevented from remitting, within a reasonable time after he or she has received any amount of that compensation, the whole of that amount (free from any deduction, charge or tax made or levied in respect of its remission) to any country of his or her choice outside Botswana.
 
-- Subsection (1)( b )(i) of this section shall be deemed to be satisfied in relation to any Law applicable to the taking of possession of minerals or the acquisition of rights to minerals if that law makes provision for the payment at reasonable intervals of adequate royalties.
+(3) Subsection (1)(b)(i) of this section shall be deemed to be satisfied in relation to any Law applicable to the taking of possession of minerals or the acquisition of rights to minerals if that law makes provision for the payment at reasonable intervals of adequate royalties.
 
-- Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of subsection (2) of this section to the extent that the law in question authorizes-
+(4) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of subsection (2) of this section to the extent that the law in question authorizes-
 
-( a ) the attachment, by order of a court, of any amount of compensation to which a person is entitled in satisfaction of the judgment of a court or pending the determination of civil proceedings to which he or she is a party; or
+(a) the attachment, by order of a court, of any amount of compensation to which a person is entitled in satisfaction of the judgment of a court or pending the determination of civil proceedings to which he or she is a party; or
 
-( b ) the imposition of reasonable restrictions on the manner in which any amount of
+(b) the imposition of reasonable restrictions on the manner in which any amount of
 
 Copyright Government of Botswana
 
@@ -324,7 +494,7 @@ Copyright Government of Botswana
 
 compensation is to be remitted.
 
-- Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of subsection (1) of this section-
+(5) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of subsection (1) of this section-
 
 ( a ) to the extent that the law in question makes provision for the taking of possession or acquisition of any property-
 
@@ -354,7 +524,7 @@ and except so far as that provision or, as the case may be, the thing done under
 
 (iv) property subject to a trust, for the purpose of vesting the property in persons appointed as trustees under the instrument creating the trust or by a court, or by order of a court, for the purpose of giving effect to the trust.
 
-- Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of subsection (1) of this section to the extent that the law in question makes provision for the compulsory taking of possession in the public interest of any property, or the compulsory acquisition in the public interest in or right over property, where that property, interest or right is held by a body corporate established by law for public purposes in which no moneys have been invested other than moneys provided by Parliament.
+(6) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of subsection (1) of this section to the extent that the law in question makes provision for the compulsory taking of possession in the public interest of any property, or the compulsory acquisition in the public interest in or right over property, where that property, interest or right is held by a body corporate established by law for public purposes in which no moneys have been invested other than moneys provided by Parliament.
 
 #### 9. Protection for privacy of home and other property
 
@@ -406,23 +576,23 @@ Copyright Government of Botswana
 
 [[START OF PAGE 10]]
 
-- No person shall be held to be guilty of a criminal offence on account of any act or omission that did not, at the time it took place, constitute such an offence, and no penalty shall be imposed for any criminal offence that is severer in degree or description than the maximum penalty that might have been imposed for that offence at the time when it was committed.
+(4) No person shall be held to be guilty of a criminal offence on account of any act or omission that did not, at the time it took place, constitute such an offence, and no penalty shall be imposed for any criminal offence that is severer in degree or description than the maximum penalty that might have been imposed for that offence at the time when it was committed.
 
-- No person who shows that he or she has been tried by a competent court for a criminal offence and either convicted or acquitted shall again be tried for that offence or for any other criminal offence of which he or she could have been convicted at the trial for that offence, save upon the order of a superior court in the course of appeal or review proceedings relating to the conviction or acquittal.
+(5) No person who shows that he or she has been tried by a competent court for a criminal offence and either convicted or acquitted shall again be tried for that offence or for any other criminal offence of which he or she could have been convicted at the trial for that offence, save upon the order of a superior court in the course of appeal or review proceedings relating to the conviction or acquittal.
 
-- No person shall be tried for a criminal offence if he or she shows that he or she has been pardoned for that offence.
+(6) No person shall be tried for a criminal offence if he or she shows that he or she has been pardoned for that offence.
 
-- No person who is tried for a criminal offence shall be compelled to give evidence at the trial.
+(7) No person who is tried for a criminal offence shall be compelled to give evidence at the trial.
 
-- No person shall be convicted of a criminal offence unless that offence is defined and the penalty therefor is prescribed in a written law:
+(8) No person shall be convicted of a criminal offence unless that offence is defined and the penalty therefor is prescribed in a written law:
 
 Provided that nothing in this subsection shall prevent a court of record from punishing any person for contempt of itself notwithstanding that the act or omission constituting the contempt is not defined in a written law and the penalty therefor is not so prescribed.
 
-- Any court or other adjudicating authority prescribed by law for the determination of the existence or extent of any civil right or obligation shall be established or recognized by law and shall be independent and impartial; and where proceedings for such a determination are instituted by any person before such a court or other adjudicating authority, the case shall be given a fair hearing within a reasonable time.
+(9) Any court or other adjudicating authority prescribed by law for the determination of the existence or extent of any civil right or obligation shall be established or recognized by law and shall be independent and impartial; and where proceedings for such a determination are instituted by any person before such a court or other adjudicating authority, the case shall be given a fair hearing within a reasonable time.
 
-- Except with the agreement of all the parties thereto, all proceedings of every court and proceedings for the determination of the existence or extent of any civil right or obligation before any other adjudicating authority, including the announcement of the decision of the court or other authority, shall be held in public.
+(10) Except with the agreement of all the parties thereto, all proceedings of every court and proceedings for the determination of the existence or extent of any civil right or obligation before any other adjudicating authority, including the announcement of the decision of the court or other authority, shall be held in public.
 
-- Nothing in subsection (10) shall prevent the court or other adjudicating authority from excluding from the proceedings persons other than the parties thereto and their legal representatives to such extent as the court or other authority-
+(11) Nothing in subsection (10) shall prevent the court or other adjudicating authority from excluding from the proceedings persons other than the parties thereto and their legal representatives to such extent as the court or other authority-
 
 ( a ) may consider necessary or expedient in circumstances where publicity would prejudice the interests of justice or in interlocutory proceedings; or
 
@@ -444,7 +614,7 @@ Copyright Government of Botswana
 
 [[START OF PAGE 11]]
 
-- court to try a member of a disciplined force for a criminal offence notwithstanding any trial and conviction or acquittal of that member under the disciplinary law of that force, so, however, that any court so trying such a member and convicting him or her shall in sentencing him or her to any punishment take into account any punishment awarded him or her under that disciplinary law;
+court to try a member of a disciplined force for a criminal offence notwithstanding any trial and conviction or acquittal of that member under the disciplinary law of that force, so, however, that any court so trying such a member and convicting him or her shall in sentencing him or her to any punishment take into account any punishment awarded him or her under that disciplinary law;
 
 ( e ) subsection (8) of this section to the extent that the law in question authorizes a court to convict a person of a criminal offence under any customary law to which, by virtue of that law, such person is subject.
 
@@ -454,25 +624,25 @@ Copyright Government of Botswana
 
 #### 11. Protection of freedom of conscience
 
-- Except with his or her own consent, no person shall be hindered in the enjoyment of his or her freedom of conscience, and for the purposes of this section the said freedom includes freedom of thought and of religion, freedom to change his or her religion or belief, and freedom, either alone or in community with others, and both in public and in private, to manifest and propagate his or her religion or belief in worship, teaching, practice and observance.
+(1) Except with his or her own consent, no person shall be hindered in the enjoyment of his or her freedom of conscience, and for the purposes of this section the said freedom includes freedom of thought and of religion, freedom to change his or her religion or belief, and freedom, either alone or in community with others, and both in public and in private, to manifest and propagate his or her religion or belief in worship, teaching, practice and observance.
 
-- Every religious community shall be entitled, at its own expense, to establish and maintain places of education and to manage any place of education which it wholly maintains; and no such community shall be prevented from providing religious instruction for persons of that community in the course of any education provided at any place of education which it wholly maintains or in the course of any education which it otherwise provides.
+(2) Every religious community shall be entitled, at its own expense, to establish and maintain places of education and to manage any place of education which it wholly maintains; and no such community shall be prevented from providing religious instruction for persons of that community in the course of any education provided at any place of education which it wholly maintains or in the course of any education which it otherwise provides.
 
-- Except with his or her own consent (or, if he or she is a minor, the consent of his or her guardian) no person attending any place of education shall be required to receive religious instruction or to take part in or attend any religious ceremony or observance if that instruction, ceremony or observance relates to a religion other than his or her own.
+(3) Except with his or her own consent (or, if he or she is a minor, the consent of his or her guardian) no person attending any place of education shall be required to receive religious instruction or to take part in or attend any religious ceremony or observance if that instruction, ceremony or observance relates to a religion other than his or her own.
 
-- No person shall be compelled to take any oath which is contrary to his or her religion or belief or to take any oath in a manner which is contrary to his or her religion or belief.
+(4) No person shall be compelled to take any oath which is contrary to his or her religion or belief or to take any oath in a manner which is contrary to his or her religion or belief.
 
-- Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes provision which is reasonably required-
+(5) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes provision which is reasonably required-
 
-( a ) in the interests of defence, public safety, public order, public morality or public health; or
+(a) in the interests of defence, public safety, public order, public morality or public health; or
 
-( b ) for the purpose of protecting the rights and freedoms of other persons, including the right to observe and practise any religion without the unsolicited intervention of members of any other religion,
+(b) for the purpose of protecting the rights and freedoms of other persons, including the right to observe and practise any religion without the unsolicited intervention of members of any other religion,
 
 and except so far as that provision or, as the case may be, the thing done under the authority thereof is shown not to be reasonably justifiable in a democratic society.
 
 #### 12. Protection of freedom of expression
 
-- Except with his or her own consent, no person shall be hindered in the enjoyment of his or her freedom of expression, that is to say, freedom to hold opinions without interference, freedom to receive ideas and information without interference, freedom to communicate ideas and information without interference (whether the
+(1) Except with his or her own consent, no person shall be hindered in the enjoyment of his or her freedom of expression, that is to say, freedom to hold opinions without interference, freedom to receive ideas and information without interference, freedom to communicate ideas and information without interference (whether the
 
 Copyright Government of Botswana
 
@@ -494,7 +664,7 @@ and except so far as that provision or, as the case may be, the thing done under
 
 #### 13. Protection of freedom of assembly and association
 
-- Except with his or her own consent, no person shall be hindered in the enjoyment of his or her freedom of assembly and association, that is to say, his or her right to assemble freely and associate with other persons and in particular to form or belong to trade unions or other associations for the protection of his or her interests.
+(1) Except with his or her own consent, no person shall be hindered in the enjoyment of his or her freedom of assembly and association, that is to say, his or her right to assemble freely and associate with other persons and in particular to form or belong to trade unions or other associations for the protection of his or her interests.
 
 (2) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes provision-
 
@@ -512,7 +682,7 @@ and except so far as that provision or, as the case may be, the thing done under
 
 (1) No person shall be deprived of his or her freedom of movement, and for the purposes of this section the said freedom means the right to move freely throughout Botswana, the right to reside in any part of Botswana, the right to enter Botswana and immunity from expulsion from Botswana.
 
-- Any restriction on a person's freedom of movement that is involved in his or
+(2) Any restriction on a person's freedom of movement that is involved in his or
 
 Copyright Government of Botswana
 
@@ -540,13 +710,13 @@ her lawful detention shall not be held to be inconsistent with or in contraventi
 
 #### 15. Protection from discrimination on the grounds of race, etc.
 
-- Subject to the provisions of subsections (4), (5) and (7) of this section, no law shall make any provision that is discriminatory either of itself or in its effect.
+(1) Subject to the provisions of subsections (4), (5) and (7) of this section, no law shall make any provision that is discriminatory either of itself or in its effect.
 
-- Subject to the provisions of subsections (6), (7) and (8) of this section, no person shall be treated in a discriminatory manner by any person acting by virtue of any written law or in the performance of the functions of any public office or any public authority.
+(2) Subject to the provisions of subsections (6), (7) and (8) of this section, no person shall be treated in a discriminatory manner by any person acting by virtue of any written law or in the performance of the functions of any public office or any public authority.
 
-- In this section, the expression "discriminatory" means affording different treatment to different persons, attributable wholly or mainly to their respective descriptions by race, tribe, place of origin, political opinions, colour, creed or sex whereby persons of one such description are subjected to disabilities or restrictions to which persons of another such description are not made subject or are accorded privileges or advantages which are not accorded to persons of another such description.
+(3) In this section, the expression "discriminatory" means affording different treatment to different persons, attributable wholly or mainly to their respective descriptions by race, tribe, place of origin, political opinions, colour, creed or sex whereby persons of one such description are subjected to disabilities or restrictions to which persons of another such description are not made subject or are accorded privileges or advantages which are not accorded to persons of another such description.
 
-- Subsection (1) of this section shall not apply to any law so far as that law makes provision-
+(4) Subsection (1) of this section shall not apply to any law so far as that law makes provision-
 
 ( a ) for the appropriation of public revenues or other public funds;
 
@@ -614,7 +784,7 @@ detention is authorized;
 
 unless before the expiration of that period, it is approved by a resolution passed by the National Assembly, supported by the votes of a majority of all the voting members of the Assembly.
 
-- Subject to the provisions of subsection (4) of this section, a declaration approved by a resolution of the National Assembly under subsection (2) of this section shall continue in force until the expiration of a period of six months beginning with the date of its being so approved or until such earlier date as may be specified in the resolution:
+(3) Subject to the provisions of subsection (4) of this section, a declaration approved by a resolution of the National Assembly under subsection (2) of this section shall continue in force until the expiration of a period of six months beginning with the date of its being so approved or until such earlier date as may be specified in the resolution:
 
 Provided that the National Assembly may, by resolution, supported by the votes of a majority of all the voting members of the Assembly, extend its approval of the declaration for periods of not more than six months at a time.
 
@@ -638,31 +808,37 @@ Copyright Government of Botswana
 
 [[START OF PAGE 16]]
 
-- provisions of sections 3 to 16 (inclusive) of this Constitution. (3) If in any proceedings in any subordinate court any question arises as to the contravention of any of the provisions of sections 3 to 16 (inclusive) of this Constitution, the person presiding in that court may, and shall if any party to the proceedings so requests, refer the question to the High Court unless, in his or her opinion, the raising of the question is merely frivolous or vexatious. (4) Parliament may confer upon the High Court such powers in addition to those conferred by this section as may appear to be necessary or desirable for the purpose of enabling that court more effectively to exercise the jurisdiction conferred upon it by this section. (5) Rules of court making provision with respect to the practice and procedure of
+provisions of sections 3 to 16 (inclusive) of this Constitution.
 
-- the High Court for the purposes of this section may be made by the person or authority for the time being having power to make rules of court with respect to the practice and procedure of that court generally.
+(3) If in any proceedings in any subordinate court any question arises as to the contravention of any of the provisions of sections 3 to 16 (inclusive) of this Constitution, the person presiding in that court may, and shall if any party to the proceedings so requests, refer the question to the High Court unless, in his or her opinion, the raising of the question is merely frivolous or vexatious.
+
+(4) Parliament may confer upon the High Court such powers in addition to those conferred by this section as may appear to be necessary or desirable for the purpose of enabling that court more effectively to exercise the jurisdiction conferred upon it by this section.
+
+(5) Rules of court making provision with respect to the practice and procedure of the High Court for the purposes of this section may be made by the person or authority for the time being having power to make rules of court with respect to the practice and procedure of that court generally.
 
 #### 19. Interpretation and savings
 
-- In this Chapter, unless the context otherwise requires-
+(1) In this Chapter, unless the context otherwise requires-
 
 "court" means any court of law having jurisdiction in Botswana other than a court established by a disciplinary law, and in sections 4 and 6 of this Constitution a court established by a disciplinary law;
 
-"disciplinary law" means a law regulating the discipline of any disciplined force; "disciplined force" means-
+"disciplinary law" means a law regulating the discipline of any disciplined force;
 
-( a ) a naval, military or air force;
+"disciplined force" means-
 
-( b ) a police force; or
+(a) a naval, military or air force;
 
-( c ) a prison service;
+(b) a police force; or
+
+(c) a prison service;
 
 "legal representative" means a person entitled to practise in Botswana as an advocate or attorney;
 
-"member" , in relation to a disciplined force, includes any person who, under the law regulating the discipline of that force, is subject to that discipline.
+"member", in relation to a disciplined force, includes any person who, under the law regulating the discipline of that force, is subject to that discipline.
 
-- In relation to any person who is a member of a disciplined force raised under an Act of Parliament, nothing contained in or done under the authority of the disciplinary law of that force shall be held to be inconsistent with or in contravention of any of the provisions of this Chapter other than sections 4, 6 and 7.
+(2) In relation to any person who is a member of a disciplined force raised under an Act of Parliament, nothing contained in or done under the authority of the disciplinary law of that force shall be held to be inconsistent with or in contravention of any of the provisions of this Chapter other than sections 4, 6 and 7.
 
-- In relation to any person who is a member of a disciplined force raised otherwise than as aforesaid and lawfully present in Botswana, nothing contained in or done under the authority of the disciplinary law of that force shall be held to be inconsistent with or in contravention of any of the provisions of this Chapter.
+(3) In relation to any person who is a member of a disciplined force raised otherwise than as aforesaid and lawfully present in Botswana, nothing contained in or done under the authority of the disciplinary law of that force shall be held to be inconsistent with or in contravention of any of the provisions of this Chapter.
 
 ## CHAPTER III
 
@@ -682,9 +858,9 @@ There shall be a President of the Republic of Botswana who shall be the Head of 
 
 #### 31. First President
 
-(1) The first President shall be the person who immediately before 30th September, 1966 holds the office of Prime Minister under the Constitution. (2) The first President shall be deemed to have assumed office at the coming into
+(1) The first President shall be the person who immediately before 30th September, 1966 holds the office of Prime Minister under the Constitution.
 
-- operation of this Constitution.
+(2) The first President shall be deemed to have assumed office at the coming into operation of this Constitution.
 
 Copyright Government of Botswana
 
@@ -708,9 +884,9 @@ Copyright Government of Botswana
 
 ( d ) the returning officer shall declare to be elected as President any candidate for whom support has been declared in accordance with paragraph ( a ) above by not less than such number of persons elected as Members of the National Assembly in the Parliamentary election as corresponds to more than half the total number of seats for Elected Members in the Assembly, and if there is no such person the returning officer shall declare that no candidate has been elected.
 
-- Parliament may make provision whereby the time for nominating Presidential candidates may be extended in the event of there being no qualified candidate nominated at the expiration of the time for the delivery of such nominations.
+(4) Parliament may make provision whereby the time for nominating Presidential candidates may be extended in the event of there being no qualified candidate nominated at the expiration of the time for the delivery of such nominations.
 
-- Where, at the expiration of the time for the delivery of nominations in the election of a President, more than one qualified candidate is validly nominated and any of those candidates dies before the commencement of the poll in the Parliamentary election, the poll in the Parliamentary election shall be countermanded, fresh nominations of Parliamentary candidates shall take place in every constituency and a fresh election of a President shall be held in accordance with the foregoing provisions of this section.
+(5) Where, at the expiration of the time for the delivery of nominations in the election of a President, more than one qualified candidate is validly nominated and any of those candidates dies before the commencement of the poll in the Parliamentary election, the poll in the Parliamentary election shall be countermanded, fresh nominations of Parliamentary candidates shall take place in every constituency and a fresh election of a President shall be held in accordance with the foregoing provisions of this section.
 
 (6) Where-
 
@@ -728,11 +904,11 @@ the new National Assembly shall meet on such day (not being more than 14 days af
 
 (7) A person elected to the office of President under this section shall assume that office on the day upon which he or she is declared elected.
 
-- Without prejudice to the provisions of section 92 of this Constitution, an Elected Member of the National Assembly may, in the event of there being one or more successful election petitions following a general election, move, at the first sitting of the Assembly after the resultant by-elections have been decided and the Members thereby elected have taken their seats, that the President does not enjoy the support of the majority of the Elected Members of the Assembly; and in the voting on that question the Specially Elected Members of the Assembly shall have no vote. If it appears as a result of the voting on that question that the President does not enjoy the support of a majority of the elected Members of the Assembly, the office of President shall become vacant.
+(8) Without prejudice to the provisions of section 92 of this Constitution, an Elected Member of the National Assembly may, in the event of there being one or more successful election petitions following a general election, move, at the first sitting of the Assembly after the resultant by-elections have been decided and the Members thereby elected have taken their seats, that the President does not enjoy the support of the majority of the Elected Members of the Assembly; and in the voting on that question the Specially Elected Members of the Assembly shall have no vote. If it appears as a result of the voting on that question that the President does not enjoy the support of a majority of the elected Members of the Assembly, the office of President shall become vacant.
 
-- Any Elected Member of the Assembly may give notice to the President that he or she intends to move in the Assembly a motion under subsection (8) and notwithstanding any other provision of this Constitution the President shall not after receipt of any such notice be empowered to dissolve Parliament before the conclusion of the sitting of the Assembly mentioned in the said subsection (8).
+(9) Any Elected Member of the Assembly may give notice to the President that he or she intends to move in the Assembly a motion under subsection (8) and notwithstanding any other provision of this Constitution the President shall not after receipt of any such notice be empowered to dissolve Parliament before the conclusion of the sitting of the Assembly mentioned in the said subsection (8).
 
-- If the office of President becomes vacant in accordance with subsection (8) of this section the seats of the Specially Elected Members of the Assembly shall also become vacant, and the election of a person to the office of President shall take place before the election of the Specially Elected Members.
+(10) If the office of President becomes vacant in accordance with subsection (8) of this section the seats of the Specially Elected Members of the Assembly shall also become vacant, and the election of a person to the office of President shall take place before the election of the Specially Elected Members.
 
 (11) In this section-
 
@@ -778,7 +954,7 @@ citizenship in force at that time, shall be regarded as a citizen by descent.
 
 #### 35. Vacancy in office of President
 
-(1) Whenever the President dies, resigns or ceases to hold office, the VicePresident shall assume office as President with effect from the date of the death, resignation or ceasing to be President.
+(1) Whenever the President dies, resigns or ceases to hold office, the Vice-President shall assume office as President with effect from the date of the death, resignation or ceasing to be President.
 
 (2) If the office of President-
 
@@ -818,9 +994,9 @@ which case not more than two further ballots may be taken;
 
 ( h ) if there is no candidate duly nominated for the first ballot in accordance with paragraph ( b ) or if after the number of ballots permitted under paragraph ( f ) have been taken no candidate has been declared elected Parliament shall stand dissolved or, in the case of a Presidential election held in accordance with section 32(6) of this Constitution, the foregoing general election shall be void.
 
-- No business other than the election of a President shall be transacted at a meeting of the National Assembly under subsection (4) of this section or under section 32(6) of this Constitution and such a meeting or any sitting thereof shall not be regarded as a meeting or sitting of the Assembly for the purposes of any other provision of this Constitution.
+(6) No business other than the election of a President shall be transacted at a meeting of the National Assembly under subsection (4) of this section or under section 32(6) of this Constitution and such a meeting or any sitting thereof shall not be regarded as a meeting or sitting of the Assembly for the purposes of any other provision of this Constitution.
 
-- At any time when the office of Speaker is vacant or the holder of that office is unable by reason of absence or illness to exercise the functions vested in him or her by this section and section 32(6) of this Constitution, those functions may be exercised by the Deputy Speaker of the National Assembly or, if there is no Deputy Speaker or the Deputy Speaker is unable by reason of absence or illness to exercise those functions, by such member of the Assembly (not being the President or Vice-President or a Minister or Assistant Minister) as the Assembly may elect for that purpose.
+(7) At any time when the office of Speaker is vacant or the holder of that office is unable by reason of absence or illness to exercise the functions vested in him or her by this section and section 32(6) of this Constitution, those functions may be exercised by the Deputy Speaker of the National Assembly or, if there is no Deputy Speaker or the Deputy Speaker is unable by reason of absence or illness to exercise those functions, by such member of the Assembly (not being the President or Vice-President or a Minister or Assistant Minister) as the Assembly may elect for that purpose.
 
 #### 36. Discharge of functions of President during absence, illness, etc.
 
@@ -832,7 +1008,7 @@ which case not more than two further ballots may be taken;
 
 to discharge such of the functions of the office of President as he or she may specify, and the Vice-President or other Minister may discharge those functions until his or her authority is revoked by the President.
 
-- If the President is incapable by reason of physical or mental infirmity of discharging the functions of his or her office and the infirmity is of such a nature that the President is unable to authorize another person under this section to perform those functions-
+(2) If the President is incapable by reason of physical or mental infirmity of discharging the functions of his or her office and the infirmity is of such a nature that the President is unable to authorize another person under this section to perform those functions-
 
 ( a ) the Vice-President; or
 
@@ -840,11 +1016,11 @@ to discharge such of the functions of the office of President as he or she may s
 
 shall perform the functions of the office of President.
 
-(3) A person performing the functions of the office of President under this section shall not exercise the power of the President to revoke the appointment of the VicePresident or to dissolve Parliament.
+(3) A person performing the functions of the office of President under this section shall not exercise the power of the President to revoke the appointment of the Vice-President or to dissolve Parliament.
 
 (4) A person performing the functions of the office of President by virtue of subsection (2) of this section shall cease to perform those functions if he or she is notified by the President that the President is about to resume those functions.
 
-- For the purposes of this section, a certificate of the Chief Justice that-
+(5) For the purposes of this section, a certificate of the Chief Justice that-
 
 ( a ) the President is incapable by reason of physical or mental infirmity of
 
@@ -878,7 +1054,7 @@ A person assuming the office of President shall, before entering upon the duties
 
 #### 39. Vice President
 
-- There shall be a Vice-President who shall be appointed by the President from among the Elected Members of the National Assembly who are citizens of Botswana by birth or descent, which appointment shall be endorsed by the said Elected Members.
+(1) There shall be a Vice-President who shall be appointed by the President from among the Elected Members of the National Assembly who are citizens of Botswana by birth or descent, which appointment shall be endorsed by the said Elected Members.
 
 (2) The Vice-President shall continue in office until a person elected at the next election of President under section 32 or 35 of this Constitution assumes office:
 
@@ -888,9 +1064,9 @@ Provided that the office of Vice-President shall become vacant-
 
 (ii) if the holder of the office ceases to be a Member of the National Assembly for any other reason than a dissolution of Parliament.
 
-- The Vice-President shall not enter upon the duties of his or her office unless he or she has taken and subscribed the oath of allegiance and such oath for the due execution of his or her office as may be prescribed by Parliament.
+(3) The Vice-President shall not enter upon the duties of his or her office unless he or she has taken and subscribed the oath of allegiance and such oath for the due execution of his or her office as may be prescribed by Parliament.
 
-- If the Vice-President is absent from Botswana or is incapable by reason of illness or any other cause of discharging the functions of his or her office, the President may appoint a person, from among the Members of the Assembly, to perform the functions of the office of Vice-President and any person so appointed may discharge those functions accordingly:
+(4) If the Vice-President is absent from Botswana or is incapable by reason of illness or any other cause of discharging the functions of his or her office, the President may appoint a person, from among the Members of the Assembly, to perform the functions of the office of Vice-President and any person so appointed may discharge those functions accordingly:
 
 Provided that a person appointed under this subsection shall cease to perform the functions of the office of Vice-President-
 
@@ -902,7 +1078,7 @@ Provided that a person appointed under this subsection shall cease to perform th
 
 (iv) upon the President giving him or her notice that the Vice-President is about to resume his or her functions.
 
-- Where the Vice-President is performing the functions of the office of President in accordance with section 35 or 36 of this Constitution he or she may appoint a person,
+(5) Where the Vice-President is performing the functions of the office of President in accordance with section 35 or 36 of this Constitution he or she may appoint a person,
 
 Copyright Government of Botswana
 
@@ -910,7 +1086,7 @@ Copyright Government of Botswana
 
 [[START OF PAGE 22]]
 
-from among the Members of the Assembly, to perform the functions of the office of VicePresident and any person so appointed may discharge those functions accordingly:
+from among the Members of the Assembly, to perform the functions of the office of Vice-President and any person so appointed may discharge those functions accordingly:
 
 Provided that a person appointed under this subsection shall cease to perform the functions of the office of Vice-President-
 
@@ -924,27 +1100,27 @@ Provided that a person appointed under this subsection shall cease to perform th
 
 #### 40. Salary and allowances of President
 
-- The President shall receive such salary and allowances as may be prescribed by resolution of the National Assembly, which shall be a charge on the general revenues of the Republic.
+(1) The President shall receive such salary and allowances as may be prescribed by resolution of the National Assembly, which shall be a charge on the general revenues of the Republic.
 
-- The salary and allowances of the President shall not be altered to his or her disadvantage during his or her period of office.
+(2) The salary and allowances of the President shall not be altered to his or her disadvantage during his or her period of office.
 
-- A person who has held the office of President shall receive such pension or, upon the expiration of his or her term of office, such gratuity as may be prescribed by resolution of the National Assembly, which shall be a charge on the Consolidated Fund.
+(3) A person who has held the office of President shall receive such pension or, upon the expiration of his or her term of office, such gratuity as may be prescribed by resolution of the National Assembly, which shall be a charge on the Consolidated Fund.
 
 #### 41. Protection of President in respect of legal proceedings
 
-- Whilst any person holds or performs the functions of the office of President no criminal proceedings shall be instituted or continued against him or her in respect of anything done or omitted to be done by him or her either in his or her official capacity or in his or her private capacity and no civil proceedings shall be instituted or continued in respect of which relief is claimed against him or her in respect of anything done or omitted to be done in his or her private capacity.
+(1) Whilst any person holds or performs the functions of the office of President no criminal proceedings shall be instituted or continued against him or her in respect of anything done or omitted to be done by him or her either in his or her official capacity or in his or her private capacity and no civil proceedings shall be instituted or continued in respect of which relief is claimed against him or her in respect of anything done or omitted to be done in his or her private capacity.
 
-- Where provision is made by law limiting the time within which proceedings of any description may be brought against any person, the term of any person in the office of President shall not be taken into account in calculating any period of time prescribed by that law which determines whether any such proceedings as are mentioned in subsection (1) of this section may be brought against that person.
+(2) Where provision is made by law limiting the time within which proceedings of any description may be brought against any person, the term of any person in the office of President shall not be taken into account in calculating any period of time prescribed by that law which determines whether any such proceedings as are mentioned in subsection (1) of this section may be brought against that person.
 
 ### PART II The Cabinet (ss 42-46)
 
 #### 42. Ministers and Assistant Ministers
 
-- There shall be such offices of Minister of the Government (not exceeding six or such other number as Parliament may from time to time provide) as may be established by Parliament or, subject to the provisions of any Act of Parliament, by the President.
+(1) There shall be such offices of Minister of the Government (not exceeding six or such other number as Parliament may from time to time provide) as may be established by Parliament or, subject to the provisions of any Act of Parliament, by the President.
 
-- There shall be such offices of Assistant Minister (not exceeding three or such number as Parliament may from time to time provide) as may be established by Parliament or, subject to the provisions of any Act of Parliament, by the President.
+(2) There shall be such offices of Assistant Minister (not exceeding three or such number as Parliament may from time to time provide) as may be established by Parliament or, subject to the provisions of any Act of Parliament, by the President.
 
-- Appointments to the office of Minister or Assistant Minister shall be made by the President from among Members of the National Assembly:
+(3) Appointments to the office of Minister or Assistant Minister shall be made by the President from among Members of the National Assembly:
 
 Provided that-
 
@@ -958,7 +1134,7 @@ Copyright Government of Botswana
 
 [[START OF PAGE 23]]
 
-- Assistant Minister.
+Assistant Minister.
 
 #### 43. Tenure of office of Ministers and Assistant Ministers
 
@@ -992,7 +1168,7 @@ The office of any Minister or Assistant Minister shall become vacant-
 
 ( c ) in the absence of the President and the Vice-President, such Minister as the President may designate.
 
-- The Cabinet may act notwithstanding any vacancy in its membership.
+(3) The Cabinet may act notwithstanding any vacancy in its membership.
 
 #### 45. Oaths to be taken by Ministers and Assistant Ministers
 
@@ -1000,7 +1176,7 @@ The Vice-President, a Minister or an Assistant Minister shall not enter upon the
 
 #### 46. Secretary to the Cabinet
 
-- There shall be a Secretary to the Cabinet whose office shall be a public office.
+(1) There shall be a Secretary to the Cabinet whose office shall be a public office.
 
 (2) The Secretary to the Cabinet shall have charge of the Cabinet Office and shall be responsible, in accordance with such instructions as may be given to him or her by the President, for arranging the business for, and keeping the minutes of, the Cabinet, for conveying decisions of the Cabinet to the appropriate person or authority, and shall have such other functions as the President may from time to time direct.
 
@@ -1008,9 +1184,9 @@ The Vice-President, a Minister or an Assistant Minister shall not enter upon the
 
 #### 47. Functions of President
 
-(1) The executive power of Botswana shall vest in the President and, subject to the provisions of this Constitution, shall be exercised by him or her either directly or through officers subordinate to him or her. (2) In the exercise of any function conferred upon him or her by this Constitution
+(1) The executive power of Botswana shall vest in the President and, subject to the provisions of this Constitution, shall be exercised by him or her either directly or through officers subordinate to him or her.
 
-or any other law the President shall, unless it is otherwise provided, act in his or her own deliberate judgment and shall not be obliged to follow the advice tendered by any other person or authority.
+(2) In the exercise of any function conferred upon him or her by this Constitution or any other law the President shall, unless it is otherwise provided, act in his or her own deliberate judgment and shall not be obliged to follow the advice tendered by any other person or authority.
 
 Copyright Government of Botswana
 
@@ -1022,17 +1198,17 @@ Copyright Government of Botswana
 
 #### 48. Command of armed forces
 
-- The supreme command of the armed forces of the Republic shall vest in the President and he or she shall hold the office of Commander in Chief.
+(1) The supreme command of the armed forces of the Republic shall vest in the President and he or she shall hold the office of Commander in Chief.
 
-- The powers conferred on the President by subsection (1) of this section shall include-
+(2) The powers conferred on the President by subsection (1) of this section shall include-
 
-( a ) the power to determine the operational use of the armed forces;
+(a) the power to determine the operational use of the armed forces;
 
-( b ) the power to appoint members of the armed forces, to make appointments on promotion to any office in the armed forces and to dismiss any member of the armed forces.
+(b) the power to appoint members of the armed forces, to make appointments on promotion to any office in the armed forces and to dismiss any member of the armed forces.
 
-- The President may, by directions in writing and subject to such conditions as he or she may think fit, delegate to any member of the armed forces any of the powers mentioned in subsection (2) of this section.
+(3) The President may, by directions in writing and subject to such conditions as he or she may think fit, delegate to any member of the armed forces any of the powers mentioned in subsection (2) of this section.
 
-- Parliament may regulate the exercise of the powers conferred by or under this section.
+(4) Parliament may regulate the exercise of the powers conferred by or under this section.
 
 #### 49. Functions of Vice-President
 
@@ -1040,15 +1216,15 @@ The Vice-President shall be the principal assistant of the President in the disc
 
 #### 50. Functions of Cabinet Ministers and Assistant Ministers
 
-- The Cabinet shall be responsible for advising the President with respect to the policy of the Government and with respect to such other matters as may be referred to it by the President and shall, subject to the provisions of this Constitution, be responsible to the National Assembly for all things done by or under the authority of the President, Vice-President or any Minister in the execution of his or her office.
+(1) The Cabinet shall be responsible for advising the President with respect to the policy of the Government and with respect to such other matters as may be referred to it by the President and shall, subject to the provisions of this Constitution, be responsible to the National Assembly for all things done by or under the authority of the President, Vice-President or any Minister in the execution of his or her office.
 
-- The President shall, so far as practicable and subject to the provisions of this Constitution, consult the Cabinet on matters of policy and the exercise of his or her functions.
+(2) The President shall, so far as practicable and subject to the provisions of this Constitution, consult the Cabinet on matters of policy and the exercise of his or her functions.
 
-- The obligation of the President to consult his or her Cabinet and for the Cabinet to accept responsibility under this section shall not apply to the exercise by the President of his or her powers in relation to the appointment or removal of the VicePresident, Ministers and Assistant Ministers, the dissolution of Parliament, the Prerogative of Mercy, the assignment of responsibility to the Vice-President or any Minister and the specification of the functions of an Assistant Minister.
+(3) The obligation of the President to consult his or her Cabinet and for the Cabinet to accept responsibility under this section shall not apply to the exercise by the President of his or her powers in relation to the appointment or removal of the Vice-President, Ministers and Assistant Ministers, the dissolution of Parliament, the Prerogative of Mercy, the assignment of responsibility to the Vice-President or any Minister and the specification of the functions of an Assistant Minister.
 
-- A Minister shall be responsible, under the direction of the President, for such business of the government of Botswana (including the administration of any department of Government) as the President may assign to him or her.
+(4) A Minister shall be responsible, under the direction of the President, for such business of the government of Botswana (including the administration of any department of Government) as the President may assign to him or her.
 
-- An Assistant Minister shall-
+(5) An Assistant Minister shall-
 
 ( a ) assist the President or the Vice-President in the discharge of such of the functions of the office of President or Vice-President as the President may specify; or
 
@@ -1056,9 +1232,9 @@ The Vice-President shall be the principal assistant of the President in the disc
 
 #### 51. Attorney-General
 
-- There shall be an Attorney-General appointed by the President whose office shall be a public office.
+(1) There shall be an Attorney-General appointed by the President whose office shall be a public office.
 
-- A person shall not be qualified to be appointed to the Office of Attorney-
+(2) A person shall not be qualified to be appointed to the Office of Attorney-
 
 Copyright Government of Botswana
 
@@ -1068,7 +1244,7 @@ Copyright Government of Botswana
 
 General unless he or she is qualified to be appointed to the Office of a Judge of the High Court.
 
-- The Attorney-General shall be the principal legal adviser to the Government.
+(3) The Attorney-General shall be the principal legal adviser to the Government.
 
 (4) A person holding the Office of Attorney-General shall vacate his or her office when he or she attains the age of 60 years or such other age as may be prescribed by Parliament.
 
@@ -1140,17 +1316,17 @@ Provided that his or her seat shall become vacant-
 
 (ii) if the President, by instrument in writing under his or her hand, so directs.
 
-- The Committee shall not be summoned except by the authority of the President who shall, as far as is practicable, attend and preside at all meetings of the Committee, and, in the absence of the President, the member of the Committee appointed under subsection (1)( a ) of this section shall preside.
+(3) The Committee shall not be summoned except by the authority of the President who shall, as far as is practicable, attend and preside at all meetings of the Committee, and, in the absence of the President, the member of the Committee appointed under subsection (1)( a ) of this section shall preside.
 
-- The Committee may act notwithstanding any vacancy in its membership and its proceedings shall not be invalidated by the presence or participation of any person not entitled to be present at or to participate in those proceedings.
+(4) The Committee may act notwithstanding any vacancy in its membership and its proceedings shall not be invalidated by the presence or participation of any person not entitled to be present at or to participate in those proceedings.
 
 (5) Subject to the provisions of this section, the Committee may regulate its own procedure.
 
 #### 55. Functions of Advisory Committee on Prerogative of Mercy
 
-- Where any person has been sentenced to death for any offence, the President shall cause a written report of the case from the trial judge, together with such other information derived from the record of the case or elsewhere as he or she may require, to be considered at a meeting of the Advisory Committee on the Prerogative of Mercy; and after obtaining the advice of the Committee he or she shall decide whether to exercise any of his or her powers under section 53 of this Constitution.
+(1) Where any person has been sentenced to death for any offence, the President shall cause a written report of the case from the trial judge, together with such other information derived from the record of the case or elsewhere as he or she may require, to be considered at a meeting of the Advisory Committee on the Prerogative of Mercy; and after obtaining the advice of the Committee he or she shall decide whether to exercise any of his or her powers under section 53 of this Constitution.
 
-- The President may consult with the Committee before deciding whether to exercise any of his or her powers under the said section 53 in any case not falling within subsection (1) of this section.
+(2) The President may consult with the Committee before deciding whether to exercise any of his or her powers under the said section 53 in any case not falling within subsection (1) of this section.
 
 #### 56. Constitution of offices
 
@@ -1204,9 +1380,9 @@ There shall be a Parliament of Botswana which shall consist of the President and
 
 (1) There shall be a Deputy Speaker of the National Assembly who shall be elected from among the persons who are Members of the Assembly other than the President, the Vice-President, Ministers or Assistant Ministers.
 
-- The Members of the National Assembly shall elect a person to the office of Deputy Speaker when the Assembly first sits after any dissolution and, if the office becomes vacant otherwise than by reason of the dissolution of the Assembly, at the first sitting of the Assembly after the office becomes vacant.
+(2) The Members of the National Assembly shall elect a person to the office of Deputy Speaker when the Assembly first sits after any dissolution and, if the office becomes vacant otherwise than by reason of the dissolution of the Assembly, at the first sitting of the Assembly after the office becomes vacant.
 
-- The Deputy Speaker shall vacate his or her office-
+(3) The Deputy Speaker shall vacate his or her office-
 
 ( a ) if he or she ceases to be a Member of the National Assembly, otherwise than by reason of a dissolution of Parliament;
 
@@ -1256,9 +1432,9 @@ Subject to the provisions of section 62 of this Constitution, a person shall be 
 
 ( g ) holds, or is acting in, any office the functions of which involve any responsibility for, or in connection with, the conduct of any elections to the Assembly or the compilation or revision of any electoral register for the purposes of such elections.
 
-- Parliament may provide that a person shall not be qualified for election to the National Assembly for such period (not exceeding five years) as may be prescribed if he or she is convicted of any such offence connected with elections to the Assembly as may be prescribed.
+(2) Parliament may provide that a person shall not be qualified for election to the National Assembly for such period (not exceeding five years) as may be prescribed if he or she is convicted of any such offence connected with elections to the Assembly as may be prescribed.
 
-- For the purposes of this section two or more terms of imprisonment that are required to be served consecutively shall be regarded as a single term of imprisonment for the aggregate period of those terms, and no account shall be taken of a sentence of imprisonment imposed as an alternative to or in default of the payment of a fine.
+(3) For the purposes of this section two or more terms of imprisonment that are required to be served consecutively shall be regarded as a single term of imprisonment for the aggregate period of those terms, and no account shall be taken of a sentence of imprisonment imposed as an alternative to or in default of the payment of a fine.
 
 #### 63. Constituencies
 
@@ -1274,21 +1450,24 @@ Copyright Government of Botswana
 
 (1) The Judicial Service Commission shall, not later than 1st March, 1969, and thereafter at intervals of not less than five nor more than 10 years, appoint a Delimitation Commission consisting of a Chairman and not more than four other members.
 
-- Notwithstanding the provisions of subsection (1) of this section, at any time when-
+(2) Notwithstanding the provisions of subsection (1) of this section, at any time when-
 
 ( a ) Parliament has made provision altering the number of seats of Elected Members in the National Assembly; or
 
-( b ) a comprehensive national population census is held in Botswana, the Judicial Service Commission shall, as soon as practicable thereafter, appoint a Delimitation Commission.
+( b ) a comprehensive national population census is held in Botswana,
+the Judicial Service Commission shall, as soon as practicable thereafter, appoint a Delimitation Commission.
 
-- The Chairman of a Delimitation Commission shall be selected from among persons who hold or have held high judicial office.
+(3) The Chairman of a Delimitation Commission shall be selected from among persons who hold or have held high judicial office.
 
-- No person shall be qualified to be appointed as Chairman or member of a Delimitation Commission who-
+(4) No person shall be qualified to be appointed as Chairman or member of a Delimitation Commission who-
 
 ( a ) is a Member of the National Assembly;
 
-( b ) is or has been within the preceding five years actively engaged in politics; or ( c ) is a public officer.
+( b ) is or has been within the preceding five years actively engaged in politics; or
 
-- A person shall be deemed to be actively engaged in politics or to have been so engaged during the relevant period if-
+( c ) is a public officer.
+
+(5) A person shall be deemed to be actively engaged in politics or to have been so engaged during the relevant period if-
 
 ( a ) he or she is, or was at any time during that period, a Member of the National Assembly;
 
@@ -1298,9 +1477,9 @@ Copyright Government of Botswana
 
 Provided that no person shall be disqualified from holding the office of Chairman or member of a Delimitation Commission by reason only of the fact that he or she has been the Speaker of the National Assembly if he or she was elected to that office from amongst persons who were not Members of the National Assembly.
 
-- The office of Chairman or other member of the Delimitation Commission shall become vacant if circumstances arise that, were he or she not Chairman or member of the Delimitation Commission, would disqualify him or her for appointment as such.
+(6) The office of Chairman or other member of the Delimitation Commission shall become vacant if circumstances arise that, were he or she not Chairman or member of the Delimitation Commission, would disqualify him or her for appointment as such.
 
-- If, after the appointment of the Delimitation Commission and before the Commission has submitted its report under section 65, the office of Chairman or any other member of the Commission falls vacant or the holder of the office becomes unable for any reason to discharge his or her functions as a member of the Commission, the Judicial Service Commission may, subject to the provisions of subsections (3) to (5) of this section, appoint another person to be a member of the Commission:
+(7) If, after the appointment of the Delimitation Commission and before the Commission has submitted its report under section 65, the office of Chairman or any other member of the Commission falls vacant or the holder of the office becomes unable for any reason to discharge his or her functions as a member of the Commission, the Judicial Service Commission may, subject to the provisions of subsections (3) to (5) of this section, appoint another person to be a member of the Commission:
 
 Provided that a member appointed under this section because of the inability of some other member to discharge his or her functions shall cease to be a member of the Commission when, in the opinion of the Judicial Service Commission, that other member is able to resume his or her functions as a member of the Commission.
 
@@ -1314,27 +1493,27 @@ Copyright Government of Botswana
 
 [[START OF PAGE 30]]
 
-- The boundaries of each constituency shall be such that the number of inhabitants thereof is as nearly equal to the population quota as is reasonably practicable:
+(2) The boundaries of each constituency shall be such that the number of inhabitants thereof is as nearly equal to the population quota as is reasonably practicable:
 
 Provided that the number of inhabitants of a constituency may be greater or less than the population quota in order to take account of natural community of interest, means of communication, geographical features, density of population, and the boundaries of Tribal Territories and administrative districts.
 
-- In this section "population quota" means the number obtained by dividing the number of inhabitants of Botswana (as ascertained by reference to the latest comprehensive national population census in Botswana) by the number of constituencies into which Botswana is divided under section 63 of this Constitution.
+(3) In this section "population quota" means the number obtained by dividing the number of inhabitants of Botswana (as ascertained by reference to the latest comprehensive national population census in Botswana) by the number of constituencies into which Botswana is divided under section 63 of this Constitution.
 
-- The President shall as soon as practicable after the submission of the report of the Delimitation Commission, by Proclamation published in the Gazette , declare the boundaries of the constituencies as delimited by the Commission.
+(4) The President shall as soon as practicable after the submission of the report of the Delimitation Commission, by Proclamation published in the Gazette, declare the boundaries of the constituencies as delimited by the Commission.
 
-- A Proclamation made under subsection (4) of this section shall come into force at the next dissolution of the National Assembly after it is made.
+(5) A Proclamation made under subsection (4) of this section shall come into force at the next dissolution of the National Assembly after it is made.
 
-- The Commission may by regulation or otherwise regulate its own procedure and may, subject to its rules of procedure, act notwithstanding any vacancy in its membership or the absence of any member and its proceedings shall not be invalidated by the presence or participation of any person not entitled to be present at or to participate in those proceedings:
+(6) The Commission may by regulation or otherwise regulate its own procedure and may, subject to its rules of procedure, act notwithstanding any vacancy in its membership or the absence of any member and its proceedings shall not be invalidated by the presence or participation of any person not entitled to be present at or to participate in those proceedings:
 
 Provided that any decision of the Commission shall require the concurrence of a majority of all its members.
 
 (7) In the exercise of its functions under this section the Delimitation Commission shall not be subject to the direction or control of any other person or authority.
 
-- A Delimitation Commission shall stand dissolved upon the date on which its report is delivered to the President.
+(8) A Delimitation Commission shall stand dissolved upon the date on which its report is delivered to the President.
 
 #### 65A.  Appointment of Independent Electoral Commission
 
-- There shall be an Independent Electoral Commission which shall consist of-
+(1) There shall be an Independent Electoral Commission which shall consist of-
 
 ( a ) a Chairman who shall be a judge of the High Court appointed by the Judicial Service Commission;
 
@@ -1342,15 +1521,15 @@ Provided that any decision of the Commission shall require the concurrence of a 
 
 ( c ) five other persons who are fit, proper and impartial, appointed by the Judicial Service Commission from a list of persons recommended by the All Party Conference.
 
-- Where the All Party Conference fail to agree on all or any number of persons referred to in subsection (1)( c ) of this section up to dissolution of Parliament, the Judicial Service Commission shall appoint such person or persons as are necessary to fill any vacancy.
+(2) Where the All Party Conference fail to agree on all or any number of persons referred to in subsection (1)( c ) of this section up to dissolution of Parliament, the Judicial Service Commission shall appoint such person or persons as are necessary to fill any vacancy.
 
-- For the purposes of this section, "All Party Conference" means a meeting of all registered political parties convened from time to time by the Minister.
+(3) For the purposes of this section, "All Party Conference" means a meeting of all registered political parties convened from time to time by the Minister.
 
-- The first appointments of the Chairman and the Members of the Commission shall be made not later than 31st January, 1999, and thereafter subsequent appointments shall be made at the last dissolution of every two successive lives of Parliament.
+(4) The first appointments of the Chairman and the Members of the Commission shall be made not later than 31st January, 1999, and thereafter subsequent appointments shall be made at the last dissolution of every two successive lives of Parliament.
 
-- The Chairman and the members of the Commission shall hold office for a period of two successive lives of Parliament.
+(5) The Chairman and the members of the Commission shall hold office for a period of two successive lives of Parliament.
 
-- A person shall not be qualified to be appointed as a member of the Independent Electoral Commission if-
+(6) A person shall not be qualified to be appointed as a member of the Independent Electoral Commission if-
 
 ( a ) he or she has been declared insolvent or adjudged or otherwise declared
 
@@ -1360,21 +1539,21 @@ Copyright Government of Botswana
 
 [[START OF PAGE 31]]
 
-- bankrupt under any law in force in any part of the Commonwealth and has not been discharged, or has made a composition with his or her creditors and has not paid his or her debts in full; or
+bankrupt under any law in force in any part of the Commonwealth and has not been discharged, or has made a composition with his or her creditors and has not paid his or her debts in full; or
 
 ( b ) he or she has been convicted of any offence involving dishonesty in any country.
 
-- A person appointed a member of the Commission shall not enter upon the duties of the office of Commissioner until he or she has taken and subscribed the oath of allegiance and such oath for the due execution of his or her office as may be prescribed by an Act of Parliament.
+(7) A person appointed a member of the Commission shall not enter upon the duties of the office of Commissioner until he or she has taken and subscribed the oath of allegiance and such oath for the due execution of his or her office as may be prescribed by an Act of Parliament.
 
-- The Commission shall regulate its own procedure and proceedings.
+(8) The Commission shall regulate its own procedure and proceedings.
 
-- The Chairman shall preside over all proceedings, and in his or her absence, the legal practitioner referred to in subsection (1)( b ) shall preside over the proceedings.
+(9) The Chairman shall preside over all proceedings, and in his or her absence, the legal practitioner referred to in subsection (1)( b ) shall preside over the proceedings.
 
-- The quorum shall be four members, one of whom shall be the Chairman or the said legal practitioner.
+(10) The quorum shall be four members, one of whom shall be the Chairman or the said legal practitioner.
 
-- All issues shall be decided by the decision of the majority of the members present and voting.
+(11) All issues shall be decided by the decision of the majority of the members present and voting.
 
-- The Commission shall be responsible for-
+(12) The Commission shall be responsible for-
 
 ( a ) the conduct and supervision of elections of the Elected Members of the National Assembly and members of a local authority, and conduct of a referendum;
 
@@ -1384,27 +1563,25 @@ Copyright Government of Botswana
 
 ( d ) performing such other functions as may be prescribed by an Act of Parliament.
 
-- The Commission shall on the completion of any election conducted by it,
+(13) The Commission shall on the completion of any election conducted by it,
 
 submit a report on the exercise of its functions under the preceding provisions of this section to the Minister for the time being responsible for matters relating to such elections, and that Minister shall, not later than seven days after the National Assembly first meets after he or she has received the report, lay it before the National Assembly.
 
 #### 66. Appointment of Secretary to Independent Electoral Commission
 
-- There shall be a Secretary to the Independent Electoral Commission referred to in section 65A (in this section referred to as "the Secretary").
+(1) There shall be a Secretary to the Independent Electoral Commission referred to in section 65A (in this section referred to as "the Secretary").
 
-- The Secretary shall be appointed by the President.
+(2) The Secretary shall be appointed by the President.
 
-- The functions of the Secretary shall, subject to the directions and supervision of the Independent Electoral Commission, be to exercise general supervision over the registration of voters for elections of-
+(3) The functions of the Secretary shall, subject to the directions and supervision of the Independent Electoral Commission, be to exercise general supervision over the registration of voters for elections of-
 
 ( a ) the Elected Members of the National Assembly; and
 
-( b )
+( b ) the members of any local authority,
 
-- the members of any local authority,
+and over the conduct of such elections.
 
-- and over the conduct of such elections.
-
-- A person shall not be qualified to be appointed as Secretary to the Independent Electoral Commission if-
+(4) A person shall not be qualified to be appointed as Secretary to the Independent Electoral Commission if-
 
 ( a ) he or she is not a citizen of Botswana;
 
@@ -1412,7 +1589,7 @@ submit a report on the exercise of its functions under the preceding provisions 
 
 ( c ) he or she has been convicted of any offence involving dishonesty in any country.
 
-- A person shall not enter upon the duties of the office of Secretary until he or she has taken and subscribed to the oath of allegiance and such oath for the due execution of his or her office as may be prescribed by an Act of Parliament.
+(5) A person shall not enter upon the duties of the office of Secretary until he or she has taken and subscribed to the oath of allegiance and such oath for the due execution of his or her office as may be prescribed by an Act of Parliament.
 
 Copyright Government of Botswana
 
@@ -1460,15 +1637,15 @@ Copyright Government of Botswana
 
 [[START OF PAGE 33]]
 
-- has more than one residence in Botswana in the constituency in which he or she has his or her principal residence; or
+has more than one residence in Botswana in the constituency in which he or she has his or her principal residence; or
 
 ( b ) in the case of a person who does not have a residence in Botswana but is able to register in person, in the constituency in which he or she last resided, or in which he or she was born; or
 
 ( c ) in the case of a person who is not resident in Botswana and is unable to register in person, at such place as may be prescribed by Parliament and registration at such place shall be treated as registration in the constituency in which he or she last resided, or in which he or she was born in Botswana.
 
-- A person shall be entitled to be registered as a voter in one constituency only.
+(4) A person shall be entitled to be registered as a voter in one constituency only.
 
-- Every person who is registered in any constituency as a voter for the purposes of elections of the Elected Members of the National Assembly shall, unless he or she is disqualified by Parliament from voting in such elections on the grounds of his or her having been convicted of an offence in connection with the elections or on the grounds of his or her having been reported guilty of such an offence by the court trying an election petition or on the grounds of his or her being in lawful custody at the date of the election, be entitled so to vote in that constituency in accordance with the provisions made by or under a law in that behalf; and no other person may so vote.
+(5) Every person who is registered in any constituency as a voter for the purposes of elections of the Elected Members of the National Assembly shall, unless he or she is disqualified by Parliament from voting in such elections on the grounds of his or her having been convicted of an offence in connection with the elections or on the grounds of his or her having been reported guilty of such an offence by the court trying an election petition or on the grounds of his or her being in lawful custody at the date of the election, be entitled so to vote in that constituency in accordance with the provisions made by or under a law in that behalf; and no other person may so vote.
 
 #### 68. Tenure of office of Members
 
@@ -1480,13 +1657,13 @@ Copyright Government of Botswana
 
 ( c ) subject to the provisions of subsections (2) to (3) of this section, if any circumstances arise that, if he or she were not a Member of the Assembly, would cause him or her to be disqualified for election thereto.
 
-- If circumstances such as are referred to in paragraph ( c ) of the preceding subsection arise in relation to a Member of the Assembly by virtue of the fact that he or she is declared insolvent, adjudged to be of unsound mind, sentenced to death or imprisonment, or convicted of an election offence and it is open to the Member to appeal against the decision (either with the leave of the court or other authority or without such leave), he or she shall forthwith cease to perform his or her functions as a Member of the Assembly but, subject to the next following subsection, he or she shall not vacate his or her seat until the expiration of a period of 30 days thereafter:
+(2) If circumstances such as are referred to in paragraph ( c ) of the preceding subsection arise in relation to a Member of the Assembly by virtue of the fact that he or she is declared insolvent, adjudged to be of unsound mind, sentenced to death or imprisonment, or convicted of an election offence and it is open to the Member to appeal against the decision (either with the leave of the court or other authority or without such leave), he or she shall forthwith cease to perform his or her functions as a Member of the Assembly but, subject to the next following subsection, he or she shall not vacate his or her seat until the expiration of a period of 30 days thereafter:
 
 Provided that the Speaker may, at the request of the Member, from time to time extend that period for further periods of 30 days to enable the Member to pursue an appeal against the decision, so, however, that extensions of time exceeding in the aggregate 150 days shall not be given without the approval of the Assembly signified by resolution.
 
-- If, on the determination of any appeal, such circumstances continue to exist and no further appeal is open to the Member of the Assembly, or if, by reason of the expiration of any period for entering an appeal or notice thereof or the refusal of leave to appeal or for any other reason, it ceases to be open to the Member to appeal, he or she shall forthwith vacate his or her seat.
+(3) If, on the determination of any appeal, such circumstances continue to exist and no further appeal is open to the Member of the Assembly, or if, by reason of the expiration of any period for entering an appeal or notice thereof or the refusal of leave to appeal or for any other reason, it ceases to be open to the Member to appeal, he or she shall forthwith vacate his or her seat.
 
-- If at any time before the Member of the Assembly vacates his or her seat such circumstances as aforesaid cease to exist, his or her seat shall not become vacant by reason of those circumstances, and he or she may resume the performance of his or her functions as a Member of the Assembly.
+(4) If at any time before the Member of the Assembly vacates his or her seat such circumstances as aforesaid cease to exist, his or her seat shall not become vacant by reason of those circumstances, and he or she may resume the performance of his or her functions as a Member of the Assembly.
 
 #### 69. Determination of questions as to membership of National Assembly
 
@@ -1496,36 +1673,54 @@ Copyright Government of Botswana
 
 [[START OF PAGE 34]]
 
-(1) The High Court shall have jurisdiction to hear and determine any question whether-( a ) any person has been validly elected as an Elected Member of the National Assembly or the seat of any such Member has become vacant; ( b ) any person has been validly elected as Speaker of the Assembly or, having been so elected, has vacated the office of Speaker. (2) Any question whether any person has been validly elected as a Specially Elected Member of the National Assembly or whether the seat of any such Member has
+(1) The High Court shall have jurisdiction to hear and determine any question whether-
 
-- become vacant shall be determined by the Speaker. (3) Parliament may make provision with respect to-( a ) the persons who may apply to the High Court for the determination of any question under this section; ( b ) the circumstances and manner in which the conditions upon which any such application may be made; and the powers, practice and procedure of the High Court in relation to any such
+( a ) any person has been validly elected as an Elected Member of the National Assembly or the seat of any such Member has become vacant;
 
-( c ) application.
+( b ) any person has been validly elected as Speaker of the Assembly or, having been so elected, has vacated the office of Speaker.
+
+(2) Any question whether any person has been validly elected as a Specially Elected Member of the National Assembly or whether the seat of any such Member has become vacant shall be determined by the Speaker.
+
+(3) Parliament may make provision with respect to-
+
+( a ) the persons who may apply to the High Court for the determination of any question under this section;
+
+( b ) the circumstances and manner in which the conditions upon which any such application may be made; and
+
+( c ) the powers, practice and procedure of the High Court in relation to any such application.
 
 #### 70. Clerk of the Assembly
 
-(1) There shall be a Clerk of the National Assembly and an Assistant Clerk of the National Assembly and their offices shall be offices in the public service. (2) There shall be such other offices in the department of the Clerk of the Assembly as may be prescribed by resolution of the National Assembly and such offices shall be offices in the public service.
+(1) There shall be a Clerk of the National Assembly and an Assistant Clerk of the National Assembly and their offices shall be offices in the public service.
+
+(2) There shall be such other offices in the department of the Clerk of the Assembly as may be prescribed by resolution of the National Assembly and such offices shall be offices in the public service.
 
 ### PART II General Provisions Relating to Procedure in National Assembly (ss 71-76)
 #### 71. Oaths to be taken by Speaker and Members
 
 The Speaker, before assuming the duties of his or her office, and every Member of the National Assembly before taking his or her seat therein, shall take and subscribe before the Assembly the oath of allegiance.
 
-#### Presiding in Assembly
+#### 72. Presiding in Assembly
 
-There shall preside at any sitting of the National Assembly-( a ) the Speaker; ( b ) in the absence of the Speaker, the Deputy Speaker; or
+There shall preside at any sitting of the National Assembly-
+
+( a ) the Speaker;
+
+( b ) in the absence of the Speaker, the Deputy Speaker; or
 
 ( c ) in the absence of the Speaker and the Deputy Speaker, such Member of the Assembly (not being the President or Vice-President or a Minister or Assistant Minister) as the Assembly may elect for that sitting.
 
-#### Quorum in Assembly
+#### 73. Quorum in Assembly
 
 If objection is taken by any Member of the National Assembly present that there are present in the Assembly (besides the person presiding) less than one third of the Members of the Assembly and, after such interval as may be prescribed in the rules of procedure of the Assembly, the person presiding ascertains that the number of Members present is less than one third, he or she shall thereupon adjourn the Assembly.
 
 #### 74. Voting in Assembly
 
-(1) Save as otherwise provided in this Constitution, any question proposed for decision in the National Assembly shall be determined by a majority of the votes of the Members present and voting. (2) ... vote nor a casting vote and if upon any question before the Assembly the votes are
+(1) Save as otherwise provided in this Constitution, any question proposed for decision in the National Assembly shall be determined by a majority of the votes of the Members present and voting.
 
-(3) The person presiding in the National Assembly shall have neither an original equally divided the motion shall be lost.
+(2) ...
+
+(3) The person presiding in the National Assembly shall have neither an original vote nor a casting vote and if upon any question before the Assembly the votes are equally divided the motion shall be lost.
 
 #### 75. Unqualified persons sitting or voting
 
@@ -1539,14 +1734,14 @@ Copyright Government of Botswana
 
 #### 76. Regulation of procedure in Assembly
 
-- Subject to the provisions of this Constitution, the National Assembly may regulate its own procedure.
+(1) Subject to the provisions of this Constitution, the National Assembly may regulate its own procedure.
 
-- The National Assembly may act notwithstanding any vacancy in its membership (including any vacancy not filled when the Assembly first meets after any dissolution) and the presence or participation of any person not entitled to be present or to participate in the proceedings of the Assembly shall not invalidate those proceedings.
+(2) The National Assembly may act notwithstanding any vacancy in its membership (including any vacancy not filled when the Assembly first meets after any dissolution) and the presence or participation of any person not entitled to be present or to participate in the proceedings of the Assembly shall not invalidate those proceedings.
 
 ### PART III Ntlo ya Dikgosi (ss 77-85)
 #### 77. Establishment and composition of Ntlo ya Dikgosi
 
-(1) There shall be a Ntlo ya Dikgosi for Botswana which shall consist of not less than 33 nor more than 35 Members which shall be constituted as follows
+(1) There shall be a Ntlo ya Dikgosi for Botswana which shall consist of not less than 33 nor more than 35 Members which shall be constituted as follows—
 
 ( a ) one person from each of the following areas, which person for the time being performs the functions of the office of Kgosi in respect of such areas-
 
@@ -1585,9 +1780,9 @@ Copyright Government of Botswana
 
 (2)The Members for the Ghanzi, Chobe, Kgalagadi and North-East areas referred to in section 77(1)( a ) shall be selected, from their own number, to the Ntlo ya Dikgosi by persons for the time being performing the functions of the office of Kgosi within each of those areas.
 
-- For the purpose of selecting the Members under section 77(1)( c ), there shall be 20 regions, as listed in the Second Schedule to this Constitution, the boundaries of which shall be defined by an Act of Parliament.
+(3) For the purpose of selecting the Members under section 77(1)( c ), there shall be 20 regions, as listed in the Second Schedule to this Constitution, the boundaries of which shall be defined by an Act of Parliament.
 
-(4) There shall be a Regional Electoral College for each region composed of paid Dikgosana from that region up to and including a Kgosi, which shall
+(4) There shall be a Regional Electoral College for each region composed of paid Dikgosana from that region up to and including a Kgosi, which shall—
 
 ( a ) when necessary, meet at a Kgotla or other suitable venue;
 
@@ -1599,7 +1794,7 @@ Copyright Government of Botswana
 
 [[START OF PAGE 36]]
 
-- for local government; and
+for local government; and
 
 ( c ) select a Member to the Ntlo ya Dikgosi for that region by election or in such other manner as the Regional Electoral College may agree.
 
@@ -1607,13 +1802,13 @@ Copyright Government of Botswana
 
 #### 79. Qualifications for membership of Ntlo ya Dikgosi
 
-(1) A person shall be qualified to be appointed under section 77(1)( b ) as a Member of the Ntlo ya Dikgosi if he or she
+(1) A person shall be qualified to be appointed under section 77(1)( b ) as a Member of the Ntlo ya Dikgosi if he or she—
 
 ( a ) is a citizen of Botswana; and
 
 ( b ) has attained the age of 21 years.
 
-(2) No person shall be qualified to be appointed, selected or designated as a Member of the Ntlo ya Dikgosi if he or she
+(2) No person shall be qualified to be appointed, selected or designated as a Member of the Ntlo ya Dikgosi if he or she—
 
 ( a ) is, by virtue of his or her own act, under any acknowledgement of allegiance, obedience or adherence to a foreign power or state;
 
@@ -1625,7 +1820,7 @@ Copyright Government of Botswana
 
 ( e ) is under sentence of death imposed on him or her by a court in any part of the Commonwealth or any country with a comparable legal system, or is under a sentence of imprisonment (by whatever name called) exceeding six months imposed on him or her by such a court or substituted by a competent authority for some other sentence imposed on him or her by such a court;
 
-( f ) holds, or is acting in,anyoffice the functions ofwhichinvolveany responsibility for, or in connection with, the conduct of any elections to the National Assembly or the compilation or revision of any electoral register for the purposes of such elections; or
+( f ) holds, or is acting in, any office the functions of which involve any responsibility for, or in connection with, the conduct of any elections to the National Assembly or the compilation or revision of any electoral register for the purposes of such elections; or
 
 ( g ) is disqualified for election to the National Assembly by virtue of provision made in pursuance of section 62 (2) of this Constitution.
 
@@ -1643,7 +1838,7 @@ There shall be a Secretary to the Ntlo ya Dikgosi whose office shall be an offic
 
 #### 82. Tenure of office of Members of Ntlo ya Dikgosi
 
-(1) A Member of the Ntlo ya Dikgosi shall vacate his or her seat in the Ntlo ya Dikgosi
+(1) A Member of the Ntlo ya Dikgosi shall vacate his or her seat in the Ntlo ya Dikgosi—
 
 Copyright Government of Botswana
 
@@ -1686,13 +1881,13 @@ The Ntlo ya Dikgosi shall not be disqualified for the transaction of business by
 
 (1) The Ntlo ya Dikgosi shall consider the copy of any Bill which has been referred to it under the provisions of section 88(2) of this Constitution and the Ntlo ya Dikgosi shall be entitled to submit resolutions thereon to the National Assembly.
 
-- Any resolution which has been submitted to the National Assembly in accordance with the last foregoing subsection shall forthwith be laid before the Assembly by the Clerk of the Assembly.
+(2) Any resolution which has been submitted to the National Assembly in accordance with the last foregoing subsection shall forthwith be laid before the Assembly by the Clerk of the Assembly.
 
-- Any Minister who is responsible for a Bill such as is referred to in subsection (1) of this section, or his or her representative, may attend the proceedings of the Ntlo ya Dikgosi when the copy of the Bill is being considered.
+(3) Any Minister who is responsible for a Bill such as is referred to in subsection (1) of this section, or his or her representative, may attend the proceedings of the Ntlo ya Dikgosi when the copy of the Bill is being considered.
 
-- Any Minister may consult the Ntlo ya Dikgosi in respect of any matter on which he or she desires to obtain the opinion of the Ntlo ya Dikgosi , and for that purpose the Minister or his or her representative may attend the proceedings of the Ntlo ya Dikgosi .
+(4) Any Minister may consult the Ntlo ya Dikgosi in respect of any matter on which he or she desires to obtain the opinion of the Ntlo ya Dikgosi, and for that purpose the Minister or his or her representative may attend the proceedings of the Ntlo ya Dikgosi.
 
-- The Ntlo ya Dikgosi shall be entitled to discuss any matter within the executive or legislative authority of Botswana of which it considers it is desirable to take cognizance in the interests of the tribes and tribal organizations it represents and to make representations thereon to the President, or to send messages thereon to the
+(5) The Ntlo ya Dikgosi shall be entitled to discuss any matter within the executive or legislative authority of Botswana of which it considers it is desirable to take cognizance in the interests of the tribes and tribal organizations it represents and to make representations thereon to the President, or to send messages thereon to the
 
 Copyright Government of Botswana
 
@@ -1700,7 +1895,11 @@ Copyright Government of Botswana
 
 [[START OF PAGE 38]]
 
-National Assembly. (6) A person attending the proceedings of the Ntlo ya Dikgosi by virtue of the provisions of subsection (3) or (4) of this section shall be entitled to take part in the proceedings of the Ntlo ya Dikgosi relating to the matter in respect of which he or she attends as if he or she were a Member of the Ntlo ya Dikgosi : Provided that he or she shall not be entitled to vote in the Ntlo ya Dikgosi .
+National Assembly.
+
+(6) A person attending the proceedings of the Ntlo ya Dikgosi by virtue of the provisions of subsection (3) or (4) of this section shall be entitled to take part in the proceedings of the Ntlo ya Dikgosi relating to the matter in respect of which he or she attends as if he or she were a Member of the Ntlo ya Dikgosi:
+
+Provided that he or she shall not be entitled to vote in the Ntlo ya Dikgosi.
 
 ### PART IV Powers of Parliament (ss 86-89)
 #### 86. Legislative powers
@@ -1715,9 +1914,21 @@ enactment shall be "enacted by the Parliament of Botswana".
 
 #### 88. Introduction of Bills
 
-- Except upon the recommendation of the President, which recommendation may be signified by the Vice-President or a Minister, the National Assembly shall not-( a ) proceed upon any Bill (including any amendment to a Bill) that, in the opinion of the person presiding, makes provision for any of the following purposes(i) for the imposition of taxation or the alteration of taxation otherwise than by reduction; (ii) for the imposition of any charge upon the revenues or other funds of Botswana or the alteration of any such charge otherwise than by reduction; (iii) for the payment, issue or withdrawal from any public fund of Botswana of any moneys not charged thereon or any increase in the amount of such payment, issue or withdrawal; or (iv) for the composition or remission of any debt to the Government of Botswana; ( b ) proceed upon any motion (including any amendment to a motion) the effect of which, in the opinion of the person presiding, would be to make provision for any of those purposes.
+(1) Except upon the recommendation of the President, which recommendation may be signified by the Vice-President or a Minister, the National Assembly shall not-
 
-- The National Assembly shall not proceed upon any Bill (including any amendment to a Bill) that, in the opinion of the person presiding, would, if enacted, alter
+( a ) proceed upon any Bill (including any amendment to a Bill) that, in the opinion of the person presiding, makes provision for any of the following purposes-
+
+(i) for the imposition of taxation or the alteration of taxation otherwise than by reduction;
+
+(ii) for the imposition of any charge upon the revenues or other funds of Botswana or the alteration of any such charge otherwise than by reduction;
+
+(iii) for the payment, issue or withdrawal from any public fund of Botswana of any moneys not charged thereon or any increase in the amount of such payment, issue or withdrawal; or
+
+(iv) for the composition or remission of any debt to the Government of Botswana;
+
+( b ) proceed upon any motion (including any amendment to a motion) the effect of which, in the opinion of the person presiding, would be to make provision for any of those purposes.
+
+(2) The National Assembly shall not proceed upon any Bill (including any amendment to a Bill) that, in the opinion of the person presiding, would, if enacted, alter
 
 Copyright Government of Botswana
 
@@ -1725,7 +1936,7 @@ Copyright Government of Botswana
 
 [[START OF PAGE 39]]
 
-- any of the provisions of this Constitution or affect-
+any of the provisions of this Constitution or affect-
 
 ( a ) the designation, recognition, removal of powers of Dikgosi or Dikgosana
 
@@ -1743,25 +1954,25 @@ unless-
 
 #### 89. Alteration of Constitution
 
-- Subject to the provisions of this section Parliament may alter this Constitution.
+(1) Subject to the provisions of this section Parliament may alter this Constitution.
 
-- A Bill for an Act of Parliament under this section shall not be introduced into the National Assembly unless the text of the Bill has been published in the Gazette not less than 30 days before it is so introduced.
+(2) A Bill for an Act of Parliament under this section shall not be introduced into the National Assembly unless the text of the Bill has been published in the Gazette not less than 30 days before it is so introduced.
 
-- In so far as it alters any of the provisions of-
+(3) In so far as it alters any of the provisions of-
 
 ( a ) Chapter II; sections 30 to 44 inclusive, 47 to 51 inclusive, and 56; sections 77 to 79 inclusive and section 85; Chapter VII; or sections 117 to 120 inclusive and section 127 in its application to any of the provisions mentioned in this paragraph;
 
 ( b ) sections 57, 63 to 66 inclusive, 86 to 89 inclusive, 90(2) and (3), 91(2), (3), (4) and (5), and 92; Chapter VI; and section 127 in its application to any of the provisions mentioned in this paragraph,
 
-- a Bill for an Act of Parliament under this section shall not be passed by the National Assembly unless-
+a Bill for an Act of Parliament under this section shall not be passed by the National Assembly unless-
 
 (i) the final voting on the Bill in the Assembly takes place not less than three months after the previous voting thereon in the Assembly; and
 
 (ii) at such final voting the Bill is supported by the votes of not less than two-thirds of all the Members of the Assembly.
 
-- In so far as it alters any of the provisions mentioned in subsection (3)( b ) of this section no Bill shall be presented to the President for his or her assent unless after its passage by the Assembly it has been submitted to the electors qualified to vote in the election of the Elected Members of the National Assembly, and, on a vote taken in such manner as Parliament may prescribe, the majority of the electors voting have approved the Bill.
+(4) In so far as it alters any of the provisions mentioned in subsection (3)( b ) of this section no Bill shall be presented to the President for his or her assent unless after its passage by the Assembly it has been submitted to the electors qualified to vote in the election of the Elected Members of the National Assembly, and, on a vote taken in such manner as Parliament may prescribe, the majority of the electors voting have approved the Bill.
 
-- In this section-
+(5) In this section-
 
 ( a ) references to any provision of this Constitution include references to any provision of a law that alters that provision; and
 
@@ -1771,11 +1982,11 @@ unless-
 
 #### 90. Sessions of Parliament
 
-- Each session of Parliament shall be held at such place within Botswana and shall commence at such time as the President may appoint.
+(1) Each session of Parliament shall be held at such place within Botswana and shall commence at such time as the President may appoint.
 
-- There shall be a session of Parliament at least once in every year so that a period of six months shall not intervene between the last sitting of Parliament in one session and the first sitting thereof in the next session.
+(2) There shall be a session of Parliament at least once in every year so that a period of six months shall not intervene between the last sitting of Parliament in one session and the first sitting thereof in the next session.
 
-- Whenever Parliament is dissolved a general election of the Elected Members
+(3) Whenever Parliament is dissolved a general election of the Elected Members
 
 Copyright Government of Botswana
 
@@ -1787,9 +1998,17 @@ of the Assembly shall be held within 60 days of the date of the dissolution and 
 
 #### 91. Prorogation and dissolution of Parliament
 
-- The President may at any time prorogue Parliament. (2) Subject to the provisions of this Constitution, the President may at any time dissolve Parliament. (3) Subject to the provisions of subsection (4) of this section, Parliament, unless sooner dissolved, shall continue for five years from the date of the first sitting of the National Assembly after any dissolution and shall then stand dissolved. (4) At any time when Botswana is at war, Parliament may from time to time extend the period of five years specified in subsection (3) of this section for not more than 12 months at a time: Provided that the life of Parliament shall not be extended under this subsection for more than five years.
+(1) The President may at any time prorogue Parliament.
 
-- If, after a dissolution of Parliament and before the holding of the general election of the Elected Members of the National Assembly, the President considers that, owing to the existence of a state of war or of a state of emergency in Botswana or any part thereof, it is necessary to recall Parliament, the President may summon the Parliament that has been dissolved to meet and that Parliament shall be deemed to be the Parliament for the time being, but the general election of the Elected Members of the National Assembly shall proceed and the Parliament that has been recalled shall, if not sooner dissolved, again stand dissolved on the day before the day on which the election is held.
+(2) Subject to the provisions of this Constitution, the President may at any time dissolve Parliament.
+
+(3) Subject to the provisions of subsection (4) of this section, Parliament, unless sooner dissolved, shall continue for five years from the date of the first sitting of the National Assembly after any dissolution and shall then stand dissolved.
+
+(4) At any time when Botswana is at war, Parliament may from time to time extend the period of five years specified in subsection (3) of this section for not more than 12 months at a time:
+
+Provided that the life of Parliament shall not be extended under this subsection for more than five years.
+
+(5) If, after a dissolution of Parliament and before the holding of the general election of the Elected Members of the National Assembly, the President considers that, owing to the existence of a state of war or of a state of emergency in Botswana or any part thereof, it is necessary to recall Parliament, the President may summon the Parliament that has been dissolved to meet and that Parliament shall be deemed to be the Parliament for the time being, but the general election of the Elected Members of the National Assembly shall proceed and the Parliament that has been recalled shall, if not sooner dissolved, again stand dissolved on the day before the day on which the election is held.
 
 #### 92. Vote of no confidence in the Government
 
@@ -1811,7 +2030,7 @@ Any reference in this Constitution to the votes of two-thirds of the Members of 
 
 other law.
 
-- The judges of the High Court shall be the Chief Justice and such number of
+(2) The judges of the High Court shall be the Chief Justice and such number of
 
 Copyright Government of Botswana
 
@@ -1823,21 +2042,21 @@ other judges of the Court as may be prescribed by Parliament:
 
 Provided that the office of a judge of the High Court shall not be abolished while there is a substantive holder thereof.
 
-- The High Court shall be a superior court of record and, save as otherwise provided by Parliament, shall have all the powers of such a court.
+(3) The High Court shall be a superior court of record and, save as otherwise provided by Parliament, shall have all the powers of such a court.
 
-- The High Court shall sit in such places as the Chief Justice may appoint.
+(4) The High Court shall sit in such places as the Chief Justice may appoint.
 
-- The High Court shall have jurisdiction to supervise any civil or criminal proceedings before any subordinate court or any court martial and may make such orders, issue such writs and give such directions as it may consider appropriate for the purpose of ensuring that justice is duly administered by any such court.
+(5) The High Court shall have jurisdiction to supervise any civil or criminal proceedings before any subordinate court or any court martial and may make such orders, issue such writs and give such directions as it may consider appropriate for the purpose of ensuring that justice is duly administered by any such court.
 
-- The Chief Justice may make rules with respect to the practice and procedure of the High Court in relation to the jurisdiction and powers conferred on it by subsection (5) of this section.
+(6) The Chief Justice may make rules with respect to the practice and procedure of the High Court in relation to the jurisdiction and powers conferred on it by subsection (5) of this section.
 
-- The Chief Justice may appoint a Rules of Court Advisory Committee to assist him or her in reviewing and overhauling the rules made under subsection (6) and to advise on proposals to update and amend such rules.
+(7) The Chief Justice may appoint a Rules of Court Advisory Committee to assist him or her in reviewing and overhauling the rules made under subsection (6) and to advise on proposals to update and amend such rules.
 
 #### 96. Appointment of judges of High Court
 
-- The Chief Justice shall be appointed by the President.
+(1) The Chief Justice shall be appointed by the President.
 
-- The other judges of the High Court shall be appointed by the President, acting in accordance with the advice of the Judicial Service Commission.
+(2) The other judges of the High Court shall be appointed by the President, acting in accordance with the advice of the Judicial Service Commission.
 
 (3) A person shall not be qualified to be appointed as a judge of the High Court unless-
 
@@ -1849,9 +2068,9 @@ Provided that the office of a judge of the High Court shall not be abolished whi
 
 ( d ) he or she is a Chief Magistrate who has held that office for not less than five years.
 
-- In computing, for the purposes of subsection (3) of this section, the period during which any person has been qualified to practise as an advocate or attorney any period during which he or she has held judicial office after becoming so qualified shall be included.
+(4) In computing, for the purposes of subsection (3) of this section, the period during which any person has been qualified to practise as an advocate or attorney any period during which he or she has held judicial office after becoming so qualified shall be included.
 
-- If the office of Chief Justice is vacant or if the Chief Justice is for any reason unable to perform the functions of his or her office, then, until a person has been appointed to and has assumed the functions of that office or until the Chief Justice has resumed those functions, as the case may be, those functions shall be performed by such one of the judges of the High Court or such other person qualified for appointment as a judge of the High Court as the President may appoint for that purpose:
+(5) If the office of Chief Justice is vacant or if the Chief Justice is for any reason unable to perform the functions of his or her office, then, until a person has been appointed to and has assumed the functions of that office or until the Chief Justice has resumed those functions, as the case may be, those functions shall be performed by such one of the judges of the High Court or such other person qualified for appointment as a judge of the High Court as the President may appoint for that purpose:
 
 Provided that-
 
@@ -1877,21 +2096,21 @@ Provided that the President, acting in accordance with the advice of the Judicia
 
 #### 97. Tenure of office of judges of High Court
 
-- Subject to the provisions of this section, a person holding the office of a judge of the High Court shall vacate that office on attaining the age of 70 years or such other age as may be prescribed by Parliament:
+(1) Subject to the provisions of this section, a person holding the office of a judge of the High Court shall vacate that office on attaining the age of 70 years or such other age as may be prescribed by Parliament:
 
 Provided that the President, acting in accordance with the advice of the Judicial Service Commission, may permit a judge who has attained that age to continue in office for such period as may be necessary to enable him or her to deliver judgment or to do any other thing in relation to proceedings that were commenced before him or her before he or she attained that age.
 
 (2) A judge of the High Court may be removed from office only for inability to perform the functions of his or her office (whether arising from infirmity of body or mind or from any other cause) or for misbehaviour, and shall not be so removed except in accordance with the provisions of this section.
 
-- If the President considers that the question of removing a judge of the High Court under this section ought to be investigated then-
+(3) If the President considers that the question of removing a judge of the High Court under this section ought to be investigated then-
 
 ( a ) he or she shall appoint a tribunal which shall consist of a Chairman and not less than two other members, who hold or have held high judicial office;
 
 ( b ) the tribunal shall enquire into the matter and report on the facts thereof to the President and advise the President whether the judge ought to be removed from office under this section for inability as aforesaid or for misbehaviour.
 
-- Where a tribunal appointed under subsection (3) of this section advises the President that a judge of the High Court ought to be removed from office for inability as aforesaid or for misbehaviour, the President shall remove such judge from office.
+(4) Where a tribunal appointed under subsection (3) of this section advises the President that a judge of the High Court ought to be removed from office for inability as aforesaid or for misbehaviour, the President shall remove such judge from office.
 
-- If the question of removing a judge of the High Court from office has been referred to a tribunal under subsection (3) of this section, the President may suspend the judge from performing the functions of his or her office, and any such suspension may at any time be revoked by the President and shall in any case cease to have effect if the
+(5) If the question of removing a judge of the High Court from office has been referred to a tribunal under subsection (3) of this section, the President may suspend the judge from performing the functions of his or her office, and any such suspension may at any time be revoked by the President and shall in any case cease to have effect if the
 
 Copyright Government of Botswana
 
@@ -1953,11 +2172,11 @@ Copyright Government of Botswana
 
 [[START OF PAGE 44]]
 
-- she has attained the age of 70 years or such other age as may be prescribed for the purposes of section 101 of this Constitution;
+she has attained the age of 70 years or such other age as may be prescribed for the purposes of section 101 of this Constitution;
 
 (ii) a person appointed under this subsection, who is not a judge of the Court of Appeal, may, notwithstanding the assumption or resumption of the functions of the office of President of the Court of Appeal by the holder of that office, continue to act as a judge of the Court of Appeal for so long thereafter and to such extent as may be necessary to enable him or her to deliver judgment or to do any other thing in relation to proceedings that were commenced before him or her previously thereto.
 
-- If the office of a Justice of Appeal is vacant or if any Justice of Appeal is appointed to act as Chief Justice or President of the Court of Appeal or is for any reason unable to perform the functions of his or her office, the President, acting in accordance with the advice of the Judicial Service Commission, may appoint a person qualified for appointment as a Justice of Appeal to act as a Justice of Appeal:
+(6) If the office of a Justice of Appeal is vacant or if any Justice of Appeal is appointed to act as Chief Justice or President of the Court of Appeal or is for any reason unable to perform the functions of his or her office, the President, acting in accordance with the advice of the Judicial Service Commission, may appoint a person qualified for appointment as a Justice of Appeal to act as a Justice of Appeal:
 
 Provided that a person may be so appointed notwithstanding that he or she has attained the age of 70 years or such other age as may be prescribed for the purposes of section 101 of this Constitution.
 
@@ -1967,7 +2186,7 @@ Provided that the President, acting in accordance with the advice of the Judicia
 
 #### 101.  Tenure of office of judges of Court of Appeal
 
-- Subject to the provisions of this section, a person holding the office of a judge of the Court of Appeal shall vacate that office on attaining the age of 70 years or such other age as may be prescribed by Parliament:
+(1) Subject to the provisions of this section, a person holding the office of a judge of the Court of Appeal shall vacate that office on attaining the age of 70 years or such other age as may be prescribed by Parliament:
 
 Provided that-
 
@@ -1977,9 +2196,9 @@ Provided that-
 
 (iii) the appointment as President of the Court of Appeal or as Justice of Appeal serving for a fixed period under paragraph (ii) above shall not affect the date at which he or she is due to retire.
 
-- A judge of the Court of Appeal may be removed from office only for inability to perform the functions of his or her office (whether arising from infirmity of body or mind or from any other cause) or for misbehaviour, and shall not be so removed except in accordance with the provisions of this section.
+(2) A judge of the Court of Appeal may be removed from office only for inability to perform the functions of his or her office (whether arising from infirmity of body or mind or from any other cause) or for misbehaviour, and shall not be so removed except in accordance with the provisions of this section.
 
-- If the President considers that the question of removing a judge of the Court of Appeal under this section ought to be investigated then-
+(3) If the President considers that the question of removing a judge of the Court of Appeal under this section ought to be investigated then-
 
 ( a ) he or she shall appoint a tribunal which shall consist of a Chairman and not less
 
@@ -2018,7 +2237,7 @@ A judge of the Court of Appeal shall not enter upon the duties of his or her off
 
 ( f ) a person of intergrity and experience not being a legal practitioner appointed by the President.
 
-(2) A member nominated under paragraph ( e ) or appointed under paragraph ( f ) of subsection (1) shall hold office for a period of two years, but shall be eligible for renomination or re-appointment, as the case may be, for another term of office for two years:
+(2) A member nominated under paragraph ( e ) or appointed under paragraph ( f ) of subsection (1) shall hold office for a period of two years, but shall be eligible for re-nomination or re-appointment, as the case may be, for another term of office for two years:
 
 Provided that-
 
@@ -2028,9 +2247,9 @@ Provided that-
 
 (3) A member of the Commission shall not enter upon the duties of his or her office until he or she has taken and subscribed such oath for the due execution of his or her office as may be prescribed by Parliament.
 
-- The Judicial Service Commission shall not be subject to the direction or control of any other person or authority in the exercise of its functions under this Constitution.
+(4) The Judicial Service Commission shall not be subject to the direction or control of any other person or authority in the exercise of its functions under this Constitution.
 
-(5) The Commission may regulate its own procedure and, subject to that procedure, may act notwithstanding any vacancy in its membership or the absence of any member and its proceedings shall not be invalidated by the presence or participation of any person not entitled to be present at or to participate in those proceedings. members present, and in the event of an equality of votes, the Chairman shall have a
+(5) The Commission may regulate its own procedure and, subject to that procedure, may act notwithstanding any vacancy in its membership or the absence of any member and its proceedings shall not be invalidated by the presence or participation of any person not entitled to be present at or to participate in those proceedings.
 
 Copyright Government of Botswana
 
@@ -2038,13 +2257,13 @@ Copyright Government of Botswana
 
 [[START OF PAGE 46]]
 
-(6) The decisions of the Commission shall be by the vote of a majority of the casting vote.
+(6) The decisions of the Commission shall be by the vote of a majority of the members present, and in the event of an equality of votes, the Chairman shall have a casting vote.
 
 #### 104.  Appointment, etc., of judicial officers
 
-- Power to appoint persons to hold or act in offices to which this section applies, to exercise disciplinary control over persons holding or acting in such offices and to remove such persons from office shall vest in the President acting in accordance with the advice of the Judicial Service Commission.
+(1) Power to appoint persons to hold or act in offices to which this section applies, to exercise disciplinary control over persons holding or acting in such offices and to remove such persons from office shall vest in the President acting in accordance with the advice of the Judicial Service Commission.
 
-- The offices to which this section applies are-
+(2) The offices to which this section applies are-
 
 ( a ) the office of Registrar of the Court of Appeal and High Court;
 
@@ -2052,7 +2271,7 @@ Copyright Government of Botswana
 
 ( c ) such other offices of President or member of any court or connected with any court as may be prescribed by or under an Act of Parliament.
 
-- In this section references to a court do not include references to a court martial.
+(3) In this section references to a court do not include references to a court martial.
 
 ### PART IV Interpretation of the Constitution (ss 105-106)
 #### 105.  Reference to High Court of cases involving interpretation of Constitution
@@ -2069,9 +2288,9 @@ An appeal shall lie as of right to the Court of Appeal from any decision of the 
 
 Provided that no appeal shall lie from a determination of the High Court under this section dismissing an application on the ground that it is frivolous or vexatious.
 
-### PART V Judicial Committee (s 107: repealed) ]
+### PART V Judicial Committee (s 107: repealed)
 
-#### 107.  [ Repealed.
+#### 107. [Repealed.]
 
 ## CHAPTER VII
 ### The Public Service (ss 108-116)
@@ -2084,7 +2303,7 @@ Subject to the provisions of this Constitution and of any Act of Parliament, pow
 
 (1) There shall be a Public Service Commission for Botswana which shall consist of a Chairman and not less than two nor more than four other members. (2) The members of the Public Service Commission shall be appointed by the President.
 
-- A person shall not be qualified for appointment as a member of the Public Service Commission if he or she is a Member of the National Assembly or a public officer, or is or has within the two years immediately preceding his or her appointment
+(3) A person shall not be qualified for appointment as a member of the Public Service Commission if he or she is a Member of the National Assembly or a public officer, or is or has within the two years immediately preceding his or her appointment
 
 Copyright Government of Botswana
 
@@ -2112,9 +2331,9 @@ been actively engaged in politics.
 
 ( b ) the tribunal shall enquire into the matter and report on the facts thereof to the President and recommend to him or her whether the member ought to be removed under subsection (6) of this section, and the President shall act in accordance with that recommendation.
 
-- A member of the Public Service Commission shall not be removed from office except in accordance with the provisions of this section.
+(8) A member of the Public Service Commission shall not be removed from office except in accordance with the provisions of this section.
 
-- If the office of Chairman of the Public Service Commission is vacant or if the person holding that office is for any reason unable to perform the functions of his or her office, then, until a person has been appointed to and has assumed the functions of that office or until the person holding that office has resumed those functions, as the case may be, those functions shall be performed by such one of the other members of the Commission as may be designated in that behalf by the President.
+(9) If the office of Chairman of the Public Service Commission is vacant or if the person holding that office is for any reason unable to perform the functions of his or her office, then, until a person has been appointed to and has assumed the functions of that office or until the person holding that office has resumed those functions, as the case may be, those functions shall be performed by such one of the other members of the Commission as may be designated in that behalf by the President.
 
 (10) If at any time there are less than two members of the Public Service Commission besides the Chairman or if any such member is appointed to act as Chairman or is for any reason unable to perform the functions of his or her office, the President may appoint a person who is qualified for appointment as a member of the Commission to act as a member, and any person so appointed shall, subject to the provisions of subsection (5)( b ) of this section, continue to act until the office in which he or she is acting is filled, or as the case may be, until the holder thereof resumes his or her functions or until his or her appointment to act is revoked by the President.
 
@@ -2130,39 +2349,39 @@ Copyright Government of Botswana
 
 [[START OF PAGE 48]]
 
-- Except as may be otherwise provided in its rules or procedure, the Commission may act notwithstanding any vacancy in its membership or the absence of any member and its proceedings shall not be invalidated by the presence or participation of any person not entitled to be present at or to participate in those proceedings.
+(14) Except as may be otherwise provided in its rules or procedure, the Commission may act notwithstanding any vacancy in its membership or the absence of any member and its proceedings shall not be invalidated by the presence or participation of any person not entitled to be present at or to participate in those proceedings.
 
-- Any decision of the Commission shall require the concurrence of a majority of all the members thereof.
+(15) Any decision of the Commission shall require the concurrence of a majority of all the members thereof.
 
-- A member of the Commission shall not, during the tenure of his or her office or during the three years immediately following such tenure, be eligible for appointment to any public office other than that of Ambassador, High Commissioner or other principal representative of Botswana in any other country or accredited to any international organization.
+(16) A member of the Commission shall not, during the tenure of his or her office or during the three years immediately following such tenure, be eligible for appointment to any public office other than that of Ambassador, High Commissioner or other principal representative of Botswana in any other country or accredited to any international organization.
 
 #### 110.  Appointment, etc., of public officers
 
-- Subject to the provisions of this section and of sections 111, 113 and 114 of this Constitution, power to appoint persons to hold or to act in any office in the public service, to exercise disciplinary control over persons holding or acting in such offices and to remove from such offices shall vest in such person or persons as may be prescribed by Act of Parliament.
+(1) Subject to the provisions of this section and of sections 111, 113 and 114 of this Constitution, power to appoint persons to hold or to act in any office in the public service, to exercise disciplinary control over persons holding or acting in such offices and to remove from such offices shall vest in such person or persons as may be prescribed by Act of Parliament.
 
-- The provisions of this section shall not apply in relation to the following offices, that is to say-
+(2) The provisions of this section shall not apply in relation to the following offices, that is to say-
 
 ( a ) the office of judge of the Court of Appeal or of the High Court;
 
 ( b ) any office to which section 104 or 112 of the Constitution applies.
 
-- Before any person or persons as may have been prescribed under the provisions of subsection (1) exercise power to appoint to or to act in any public office any person who holds or is acting in any office the power to make appointments to which is vested by this Constitution in the President acting in accordance with the advice of the Judicial Service Commission such person shall consult with the Judicial Service Commission.
+(3) Before any person or persons as may have been prescribed under the provisions of subsection (1) exercise power to appoint to or to act in any public office any person who holds or is acting in any office the power to make appointments to which is vested by this Constitution in the President acting in accordance with the advice of the Judicial Service Commission such person shall consult with the Judicial Service Commission.
 
 #### 111.  Appeals to President
 
-- Any person other than a member of the Botswana Police Force or the Prison Service who has been removed from office or subjected to any other punishment by the exercise of any powers conferred on any person under the provisions of section 110 of this Constitution may appeal to the Public Service Commission who may dismiss such appeal or allow it wholly or in part.
+(1) Any person other than a member of the Botswana Police Force or the Prison Service who has been removed from office or subjected to any other punishment by the exercise of any powers conferred on any person under the provisions of section 110 of this Constitution may appeal to the Public Service Commission who may dismiss such appeal or allow it wholly or in part.
 
-- Subject to the provisions of subsection (3) every decision of the Public Service Commission under the provisions of this section shall be final.
+(2) Subject to the provisions of subsection (3) every decision of the Public Service Commission under the provisions of this section shall be final.
 
-- Notwithstanding anything contained in subsection (2) if the Public Service Commission dismisses an appeal or allows it in part only the person who appealed may appeal to the President.
+(3) Notwithstanding anything contained in subsection (2) if the Public Service Commission dismisses an appeal or allows it in part only the person who appealed may appeal to the President.
 
-- If any person appeals to the President in accordance with the provisions of subsection (3) of this section the President shall either dismiss the appeal or shall order that it be heard by a tribunal appointed by the President, the Chairman of which shall be a person who holds or has held high judicial office or is qualified to be appointed as a judge of the High Court.
+(4) If any person appeals to the President in accordance with the provisions of subsection (3) of this section the President shall either dismiss the appeal or shall order that it be heard by a tribunal appointed by the President, the Chairman of which shall be a person who holds or has held high judicial office or is qualified to be appointed as a judge of the High Court.
 
-- If the President appoints a tribunal to hear an appeal in accordance with subsection (4) of this section the tribunal shall hear the appeal and shall advise the President whether or not the appeal should be allowed either wholly or in part, and the President shall act in accordance with that advice.
+(5) If the President appoints a tribunal to hear an appeal in accordance with subsection (4) of this section the tribunal shall hear the appeal and shall advise the President whether or not the appeal should be allowed either wholly or in part, and the President shall act in accordance with that advice.
 
 #### 112.  Powers of President in relation to certain public offices
 
-- The power to appoint a person to hold or act in offices to which this section applies and to remove from office and to exercise disciplinary control over persons
+(1) The power to appoint a person to hold or act in offices to which this section applies and to remove from office and to exercise disciplinary control over persons
 
 Copyright Government of Botswana
 
@@ -2180,7 +2399,7 @@ holding or acting in such offices shall, subject to the provisions of sections 1
 
 ( c ) Attorney-General;
 
-( c A) Director of Public Prosecutions;
+( cA ) Director of Public Prosecutions;
 
 ( d ) Permanent Secretary;
 
@@ -2199,13 +2418,13 @@ holding or acting in such offices shall, subject to the provisions of sections 1
 
 ( b ) the tribunal shall enquire into the matter and report on the facts thereof to the President and advise the President whether the person holding the office of Director of Public Prosecutions ought to be removed from office under this section for inability as aforesaid or for misbehaviour or for incompetence.
 
-- Where a tribunal appointed under subsection (3) of this section advises the President that a person holding the office of Director of Public Prosecutions ought to be removed from office for inability as aforesaid or for misbehaviour or for incompetence, the President shall remove such person from office.
+(4) Where a tribunal appointed under subsection (3) of this section advises the President that a person holding the office of Director of Public Prosecutions ought to be removed from office for inability as aforesaid or for misbehaviour or for incompetence, the President shall remove such person from office.
 
 (5) If the question of removing a person holding the office of Director of Public Prosecutions from office has been referred to a tribunal under this section, the President may suspend that person from performing the functions of his or her office, and any such suspension may at any time be revoked by the President and shall in any case cease to have effect if the tribunal advises the President that the person ought not to be removed from office.
 
 #### 114.  Tenure of office of Auditor-General
 
-(1) Subject to the provisions of this section, a person holding the office of AuditorGeneral shall vacate his or her office when he or she attains the age of 60 years or such other age as may be prescribed by Parliament.
+(1) Subject to the provisions of this section, a person holding the office of Auditor-General shall vacate his or her office when he or she attains the age of 60 years or such other age as may be prescribed by Parliament.
 
 (2) A person holding the office of Auditor-General may be removed from office only for inability to perform the functions of his or her office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour and shall not be so removed except in accordance with the provisions of this section.
 
@@ -2237,13 +2456,13 @@ Copyright Government of Botswana
 
 or any law in force at a later date that is not less favourable to that person.
 
-- Where a person is entitled to exercise an option as to which of two or more laws shall apply in his or her case, the law for which he or she opts shall, for the purposes of this section, be deemed to be more favourable to him or her than the other law or laws.
+(3) Where a person is entitled to exercise an option as to which of two or more laws shall apply in his or her case, the law for which he or she opts shall, for the purposes of this section, be deemed to be more favourable to him or her than the other law or laws.
 
-- All pensions benefits shall (except to the extent to which under any law providing for the funding of pensions benefits they are a charge on a fund established by that law and have been duly paid out of that fund to the person or authority to whom payment is due) be a charge on the Consolidated Fund.
+(4) All pensions benefits shall (except to the extent to which under any law providing for the funding of pensions benefits they are a charge on a fund established by that law and have been duly paid out of that fund to the person or authority to whom payment is due) be a charge on the Consolidated Fund.
 
-- In this section "pensions benefits" means any pensions, compensation, gratuities or other like allowances for persons in respect of their service as public officers or as members of the armed forces or for the widows, children, dependants or personal representatives of such persons in respect of such service.
+(5) In this section "pensions benefits" means any pensions, compensation, gratuities or other like allowances for persons in respect of their service as public officers or as members of the armed forces or for the widows, children, dependants or personal representatives of such persons in respect of such service.
 
-- References in this section to the law with respect to pensions benefits include (without prejudice to their generality) references to the law regulating the circumstances in which such benefits may be granted or in which the grant of such benefits may be refused, the law regulating the circumstances in which any such benefits that have been granted may be withheld, reduced in amount or suspended and the law regulating the amount of any such benefits.
+(6) References in this section to the law with respect to pensions benefits include (without prejudice to their generality) references to the law regulating the circumstances in which such benefits may be granted or in which the grant of such benefits may be refused, the law regulating the circumstances in which any such benefits that have been granted may be withheld, reduced in amount or suspended and the law regulating the amount of any such benefits.
 
 (7) In this section references to service as a public officer include references to service as a public officer of the former Protectorate of Bechuanaland.
 
@@ -2255,7 +2474,7 @@ Copyright Government of Botswana
 
 #### 116.  Power of Commissions in relation to pensions, etc.
 
-- Where under any law any person or authority has a discretion-
+(1) Where under any law any person or authority has a discretion-
 
 ( a ) to decide whether or not any pensions benefits shall be granted; or
 
@@ -2265,9 +2484,9 @@ those benefits shall be granted and may not be withheld, reduced in amount or su
 
 (2) Where the amount of any pensions benefits that may be granted to any person is not fixed by law, the amount of the benefits to be granted to him or her shall be the greatest amount for which he or she is eligible unless the appropriate Commission concurs in his or her being granted benefits of a smaller amount.
 
-- The appropriate Commission shall not concur under subsection (1) or subsection (2) of this section in action taken on the ground that any person who holds or has held the office of a judge of the Court of Appeal or of the High Court or the AuditorGeneral or Director of Prosecutions has been guilty of misbehaviour unless he or she has been removed from office by reason of such misbehaviour.
+(3) The appropriate Commission shall not concur under subsection (1) or subsection (2) of this section in action taken on the ground that any person who holds or has held the office of a judge of the Court of Appeal or of the High Court or the Auditor-General or Director of Public Prosecutions has been guilty of misbehaviour unless he or she has been removed from office by reason of such misbehaviour.
 
-- In this section "the appropriate Commission" means-
+(4) In this section "the appropriate Commission" means-
 
 ( a ) in the case of benefits for which any person may be eligible in respect of the service in the public service of a person who, immediately before he or she ceased to be a public officer, was subject to the disciplinary control of the Judicial Service Commission or that have been granted in respect of such service, the Judicial Service Commission;
 
@@ -2284,15 +2503,15 @@ All revenues or other moneys raised or received for the purposes of the Governme
 
 #### 118.  Withdrawals from Consolidated Fund or other public funds
 
-- No moneys shall be withdrawn from the Consolidated Fund except-
+(1) No moneys shall be withdrawn from the Consolidated Fund except-
 
 ( a ) to meet expenditure that is charged upon the Fund by this Constitution or by any Act of Parliament;
 
 ( b ) where the issue of those moneys has been authorized by an Appropriation Act, by a supplementary estimate approved by resolution of the National Assembly or by a law enacted in pursuance of section 120 of this Constitution.
 
-- No moneys shall be withdrawn from any public fund of Botswana other than the Consolidated Fund unless the issue of those moneys has been authorized by or under a law.
+(2) No moneys shall be withdrawn from any public fund of Botswana other than the Consolidated Fund unless the issue of those moneys has been authorized by or under a law.
 
-- No moneys shall be withdrawn from the Consolidated Fund except in the manner prescribed by Parliament.
+(3) No moneys shall be withdrawn from the Consolidated Fund except in the manner prescribed by Parliament.
 
 Copyright Government of Botswana
 
@@ -2304,11 +2523,11 @@ Copyright Government of Botswana
 
 #### 119.  Authorization of expenditure
 
-- The Minister for the time being responsible for finance shall cause to be prepared and laid before the National Assembly, before or not later than 30 days after the commencement of each financial year, estimates of the revenues and expenditure of Botswana for that year.
+(1) The Minister for the time being responsible for finance shall cause to be prepared and laid before the National Assembly, before or not later than 30 days after the commencement of each financial year, estimates of the revenues and expenditure of Botswana for that year.
 
-- The organisations of expenditure contained in the estimates for a financial year (other than expenditure charged upon the Consolidated Fund by this Constitution or any other law) shall be included in a Bill to be known as an Appropriation Bill which shall be introduced into the Assembly to provide for the issue from the Consolidated Fund of the sums necessary to meet that expenditure and the appropriation of those sums for the purposes specified in the said Bill.
+(2) The organisations of expenditure contained in the estimates for a financial year (other than expenditure charged upon the Consolidated Fund by this Constitution or any other law) shall be included in a Bill to be known as an Appropriation Bill which shall be introduced into the Assembly to provide for the issue from the Consolidated Fund of the sums necessary to meet that expenditure and the appropriation of those sums for the purposes specified in the said Bill.
 
-- If in any financial year it is found-
+(3) If in any financial year it is found-
 
 ( a ) that the amount appropriated by the Appropriation Act for the purposes included in any organisation of expenditure is insufficient or that a need has arisen for expenditure for a purpose for which no amount has been appropriated by the Appropriation Act; or
 
@@ -2336,35 +2555,35 @@ Copyright Government of Botswana
 
 #### 122.  Remuneration of certain officers
 
-- There shall be paid to the holders of the offices to which this section applies such salaries and such allowances as may be prescribed by Parliament.
+(1) There shall be paid to the holders of the offices to which this section applies such salaries and such allowances as may be prescribed by Parliament.
 
-- The salaries and any allowances payable to the holders of the offices to which this section applies shall be a charge on the Consolidated Fund.
+(2) The salaries and any allowances payable to the holders of the offices to which this section applies shall be a charge on the Consolidated Fund.
 
-- The salary payable to the holder of any office to which this section applies and his or her terms of office, other than allowances, shall not be altered to his or her disadvantage after his or her appointment.
+(3) The salary payable to the holder of any office to which this section applies and his or her terms of office, other than allowances, shall not be altered to his or her disadvantage after his or her appointment.
 
-- Where a person's salary or terms of office depend upon his or her option, the salary or terms for which he or she opts shall, for the purposes of subsection (3) of this section, be deemed to be more advantageous to him or her than any others for which he or she might have opted.
+(4) Where a person's salary or terms of office depend upon his or her option, the salary or terms for which he or she opts shall, for the purposes of subsection (3) of this section, be deemed to be more advantageous to him or her than any others for which he or she might have opted.
 
-- This section applies to the offices of judge of the Court of Appeal, judge of the High Court, member of the Public Service Commission, member of the Judicial Service Commission, member of the Delimitation Commission, Auditor-General, Director of Public Prosecutions and Attorney-General.
+(5) This section applies to the offices of judge of the Court of Appeal, judge of the High Court, member of the Public Service Commission, member of the Judicial Service Commission, member of the Delimitation Commission, Auditor-General, Director of Public Prosecutions and Attorney-General.
 
 #### 123.  Public debt
 
-- There shall be charged on the Consolidated Fund all debt charges for which Botswana is liable.
+(1) There shall be charged on the Consolidated Fund all debt charges for which Botswana is liable.
 
-- For the purposes of this section debt charges include interest, sinking fund charges, the repayment or amortization of debt, and all expenditure in connection with the raising of loans on the security of the revenues or the Consolidated Fund of the former Protectorate of Bechuanaland or Botswana, and the service and redemption of debt thereby created.
+(2) For the purposes of this section debt charges include interest, sinking fund charges, the repayment or amortization of debt, and all expenditure in connection with the raising of loans on the security of the revenues or the Consolidated Fund of the former Protectorate of Bechuanaland or Botswana, and the service and redemption of debt thereby created.
 
 #### 124.  Auditor-General
 
-- There shall be an Auditor-General, whose office shall be a public office.
+(1) There shall be an Auditor-General, whose office shall be a public office.
 
-- The public accounts of Botswana and of all officers, courts and authorities of the Government of Botswana shall be audited and reported on by the Auditor-General and for that purpose the Auditor-General or any person authorized by him or her in that behalf shall have access to all books, records, reports and other documents relating to those accounts:
+(2) The public accounts of Botswana and of all officers, courts and authorities of the Government of Botswana shall be audited and reported on by the Auditor-General and for that purpose the Auditor-General or any person authorized by him or her in that behalf shall have access to all books, records, reports and other documents relating to those accounts:
 
 Provided that, if it is so provided by Parliament in the case of any body corporate directly established by law, the accounts of that body corporate shall be audited and reported on by such person as may be specified by or under that law.
 
-- The Auditor-General shall submit his or her reports to the Minister responsible for finance, who shall cause them to be laid before the National Assembly.
+(3) The Auditor-General shall submit his or her reports to the Minister responsible for finance, who shall cause them to be laid before the National Assembly.
 
-- The Auditor-General shall perform such other duties and exercise such other powers in relation to the accounts of the Government or the accounts of other public authorities or other bodies as may be prescribed by or under any Act of Parliament.
+(4) The Auditor-General shall perform such other duties and exercise such other powers in relation to the accounts of the Government or the accounts of other public authorities or other bodies as may be prescribed by or under any Act of Parliament.
 
-- In the exercise of his or her functions the Auditor-General shall not be subject to the direction or control of any other person or authority.
+(5) In the exercise of his or her functions the Auditor-General shall not be subject to the direction or control of any other person or authority.
 
 ## CHAPTER IX
 ### Miscellaneous (ss 125-127)
@@ -2381,13 +2600,13 @@ Copyright Government of Botswana
 
 [[START OF PAGE 54]]
 
-- The resignation of any person from any office established by this Constitution shall take effect on the date or at the time indicated in the writing signifying the resignation or, if no such date or time is so indicated, at the time the writing is received by the person or authority to whom it is addressed or by any person authorized by that person or authority to receive it.
+(2) The resignation of any person from any office established by this Constitution shall take effect on the date or at the time indicated in the writing signifying the resignation or, if no such date or time is so indicated, at the time the writing is received by the person or authority to whom it is addressed or by any person authorized by that person or authority to receive it.
 
 #### 126.  Reappointments and concurrent appointments
 
-- Where any person has vacated any office established by this Constitution, he or she may, if qualified, again be appointed or elected to hold that office in accordance with the provisions of this Constitution.
+(1) Where any person has vacated any office established by this Constitution, he or she may, if qualified, again be appointed or elected to hold that office in accordance with the provisions of this Constitution.
 
-- Where a power is conferred by this Constitution upon any person to make any appointment to any office, a person may be appointed to that office notwithstanding that some other person may be holding that office, when that other person is on leave of absence pending the relinquishment of the office; and where two or more persons are holding the same office by reason of an appointment made in pursuance of this subsection, then, for the purposes of any function conferred upon the holder of that office, the person last appointed shall be deemed to be the sole holder of the office.
+(2) Where a power is conferred by this Constitution upon any person to make any appointment to any office, a person may be appointed to that office notwithstanding that some other person may be holding that office, when that other person is on leave of absence pending the relinquishment of the office; and where two or more persons are holding the same office by reason of an appointment made in pursuance of this subsection, then, for the purposes of any function conferred upon the holder of that office, the person last appointed shall be deemed to be the sole holder of the office.
 
 #### 127.  Interpretation
 
@@ -2437,29 +2656,29 @@ Copyright Government of Botswana
 
 ( d ) the Industrial Court.
 
-- In this Constitution, unless the context otherwise requires, references to offices in the public service shall be construed as including references to the offices of judges of the Court of Appeal and judges of the High Court and the offices of members of all subordinate courts (being offices the emoluments attaching to which, or any part of the emoluments attaching to which, are paid directly out of moneys provided by Parliament).
+(2) In this Constitution, unless the context otherwise requires, references to offices in the public service shall be construed as including references to the offices of judges of the Court of Appeal and judges of the High Court and the offices of members of all subordinate courts (being offices the emoluments attaching to which, or any part of the emoluments attaching to which, are paid directly out of moneys provided by Parliament).
 
-- For the purposes of this Constitution a person shall not be considered to be a public officer by reason only that he or she is in receipt of any remuneration or allowance as the President, Vice-President, a Minister or Assistant Minister, Speaker, Deputy Speaker or Member of the Assembly, a Member of the Ntlo ya Dikgosi or a member of any Commission established by this Constitution.
+(3) For the purposes of this Constitution a person shall not be considered to be a public officer by reason only that he or she is in receipt of any remuneration or allowance as the President, Vice-President, a Minister or Assistant Minister, Speaker, Deputy Speaker or Member of the Assembly, a Member of the Ntlo ya Dikgosi or a member of any Commission established by this Constitution.
 
-- For the purposes of this Constitution, a person shall not be considered as holding a public office by reason only of the fact that he or she is in receipt of a pension or other like allowance in respect of service under the Government of Botswana or the former Protectorate of Bechuanaland.
+(4) For the purposes of this Constitution, a person shall not be considered as holding a public office by reason only of the fact that he or she is in receipt of a pension or other like allowance in respect of service under the Government of Botswana or the former Protectorate of Bechuanaland.
 
-- In this Constitution, unless the context otherwise requires, a reference to the holder of an office by the term designating his or her office shall be construed as including a reference to any person for the time being lawfully acting in or performing the functions of that office:
+(5) In this Constitution, unless the context otherwise requires, a reference to the holder of an office by the term designating his or her office shall be construed as including a reference to any person for the time being lawfully acting in or performing the functions of that office:
 
 Provided that nothing in this subsection shall apply to references to the President or Vice-President in section 35, 36 or 39 of this Constitution.
 
-- In this Constitution, unless it is otherwise provided or required by the context, a reference to the power to make appointments to any office shall be construed as including a reference to the power to make appointments on promotion and transfer and to confirm appointments and to the power to appoint a person to act in or perform the functions of that office at any time when the office is vacant or the holder thereof is unable (whether by reason of absence or infirmity of mind or body or any other cause) to perform the functions of that office.
+(6) In this Constitution, unless it is otherwise provided or required by the context, a reference to the power to make appointments to any office shall be construed as including a reference to the power to make appointments on promotion and transfer and to confirm appointments and to the power to appoint a person to act in or perform the functions of that office at any time when the office is vacant or the holder thereof is unable (whether by reason of absence or infirmity of mind or body or any other cause) to perform the functions of that office.
 
-- References in this Constitution to the power to remove a public officer from his or her office shall be construed as including references to any power conferred by any law to require or permit that officer to retire from the public service:
+(7) References in this Constitution to the power to remove a public officer from his or her office shall be construed as including references to any power conferred by any law to require or permit that officer to retire from the public service:
 
 Provided that nothing in this subsection shall be construed as conferring on any person or authority power to require a judge of the Court of Appeal or the High Court, the Auditor-General or the Director of Public Prosecutions to retire from the public service.
 
-- Any provision in this Constitution that vests in any person or authority power to remove any public officer from his or her office shall be without prejudice to the power of any person or authority to abolish any office or to any law providing for the compulsory retirement of public officers generally or in any class of public officer on attaining an age specified therein.
+(8) Any provision in this Constitution that vests in any person or authority power to remove any public officer from his or her office shall be without prejudice to the power of any person or authority to abolish any office or to any law providing for the compulsory retirement of public officers generally or in any class of public officer on attaining an age specified therein.
 
-- Where power is vested by this Constitution in any person or authority to appoint any person to act in or perform the functions of any office if the holder thereof is himself unable to perform those functions, no such appointment shall be called in question on the ground that the holder of the office was not unable to perform those functions.
+(9) Where power is vested by this Constitution in any person or authority to appoint any person to act in or perform the functions of any office if the holder thereof is himself unable to perform those functions, no such appointment shall be called in question on the ground that the holder of the office was not unable to perform those functions.
 
-- No provision of this Constitution that any person or authority shall not be subject to the direction or control of any other person or authority in the exercise of any functions under this Constitution shall be construed as precluding a court of law from exercising jurisdiction in relation to any question whether that person or authority has performed those functions in accordance with this Constitution or any other law.
+(10) No provision of this Constitution that any person or authority shall not be subject to the direction or control of any other person or authority in the exercise of any functions under this Constitution shall be construed as precluding a court of law from exercising jurisdiction in relation to any question whether that person or authority has performed those functions in accordance with this Constitution or any other law.
 
-- Where any power is conferred by this Constitution to make any Act, order,
+(11) Where any power is conferred by this Constitution to make any Act, order,
 
 Copyright Government of Botswana
 
@@ -2469,14 +2688,14 @@ Copyright Government of Botswana
 
 regulation or rule, or to give any direction or instruction, the power shall be construed as including the power, exercisable in like manner to amend or revoke any such Act, order, regulation, rule, direction or instruction.
 
-- Any reference in this Constitution to a law made before 30th September, 1966 shall be construed as a reference to that law as it had effect on 29th September, 1966.
+(12) Any reference in this Constitution to a law made before 30th September, 1966 shall be construed as a reference to that law as it had effect on 29th September, 1966.
 
-- The Interpretation Act, 1889 shall apply, with the necessary adaptations, for the purpose of interpreting this Constitution and otherwise in relation thereto as it applies for the purpose of interpreting and in relation to Acts of the Parliament of the United Kingdom.
+(13) The Interpretation Act, 1889 shall apply, with the necessary adaptations, for the purpose of interpreting this Constitution and otherwise in relation thereto as it applies for the purpose of interpreting and in relation to Acts of the Parliament of the United Kingdom.
 
 ## FIRST SCHEDULE TO THE CONSTITUTION
 ### ( Section 58(2)(b) ) ELECTION OF SPECIALLY ELECTED MEMBERS OF THE NATIONAL ASSEMBLY
 
-(1) In this Schedule-
+1. (1) In this Schedule-
 
 "by-election" means an election to fill a vacancy among the Specially Elected Members occurring otherwise than upon a dissolution of Parliament;
 
@@ -2486,29 +2705,29 @@ regulation or rule, or to give any direction or instruction, the power shall be 
 
 "prescribed" means prescribed by rules made under paragraph 2 of this Schedule.
 
-- At any time when the office of Speaker is vacant or the holder of that office is unable by reason of absence or illness to exercise the functions vested in him or her by this Schedule those functions may be exercised by the Deputy Speaker of the National Assembly or, if there is no Deputy Speaker or the Deputy Speaker is unable by reason of absence or illness to exercise those functions, by such Member of the Assembly (not being the President or Vice-President or a Minister or Assistant Minister) as the Assembly may elect for that purpose.
+(2) At any time when the office of Speaker is vacant or the holder of that office is unable by reason of absence or illness to exercise the functions vested in him or her by this Schedule those functions may be exercised by the Deputy Speaker of the National Assembly or, if there is no Deputy Speaker or the Deputy Speaker is unable by reason of absence or illness to exercise those functions, by such Member of the Assembly (not being the President or Vice-President or a Minister or Assistant Minister) as the Assembly may elect for that purpose.
 
-- Subject to the provisions of this Schedule the National Assembly may make rules for the election of its Specially Elected Members.
+2. Subject to the provisions of this Schedule the National Assembly may make rules for the election of its Specially Elected Members.
 
-- Elections of Specially Elected Members shall be conducted by the Speaker and, subject to the provisions of this Schedule and of any rules made under paragraph 2 thereof, shall be conducted in such manner as he or she may direct.
+3. Elections of Specially Elected Members shall be conducted by the Speaker and, subject to the provisions of this Schedule and of any rules made under paragraph 2 thereof, shall be conducted in such manner as he or she may direct.
 
-(1) The President shall nominate four candidates for election in the case of a general election and he or she shall nominate one candidate for election in the case of a by-election.
+4. (1) The President shall nominate four candidates for election in the case of a general election and he or she shall nominate one candidate for election in the case of a by-election.
 
-- The names of the four candidates or, as the case may be, the name of the one candidate nominated for election by the President under the foregoing subparagraph shall be presented to the National Assembly in such manner as may be prescribed, and any Elected Member of the Assembly (other than the President if he or she is an Elected Member) shall thereupon be entitled to nominate four candidates for election in the case of a general election and one candidate for election in the case of a by-election.
+(2) The names of the four candidates or, as the case may be, the name of the one candidate nominated for election by the President under the foregoing subparagraph shall be presented to the National Assembly in such manner as may be prescribed, and any Elected Member of the Assembly (other than the President if he or she is an Elected Member) shall thereupon be entitled to nominate four candidates for election in the case of a general election and one candidate for election in the case of a by-election.
 
-- A list of the candidates nominated for election by the President and the Elected Members of the National Assembly under the foregoing provisions of this paragraph shall be prepared, and each Elected Member of the Assembly shall be entitled to vote-
+(3) A list of the candidates nominated for election by the President and the Elected Members of the National Assembly under the foregoing provisions of this paragraph shall be prepared, and each Elected Member of the Assembly shall be entitled to vote-
 
 ( a ) in the case of a general election, for four candidates; and
 
 ( b ) in the case of a by-election, for one candidate,
 
-- on the list so constituted.
+on the list so constituted.
 
-- The vote of every Elected Member of the National Assembly shall be given by ballot in such a manner as not to disclose how he or she has voted.
+(4) The vote of every Elected Member of the National Assembly shall be given by ballot in such a manner as not to disclose how he or she has voted.
 
-- An Elected Member of the National Assembly shall not cast more than one vote for any one candidate.
+(5) An Elected Member of the National Assembly shall not cast more than one vote for any one candidate.
 
-(1) The Speaker shall cause elections of Specially Elected Members to be held-
+5. (1) The Speaker shall cause elections of Specially Elected Members to be held-
 
 ( a ) in the case of a general election, as soon as practicable after the holding of a general election of the Elected Members of the National Assembly and before the Assembly first meets after that general election; and
 
@@ -2520,24 +2739,30 @@ Copyright Government of Botswana
 
 ( b ) in the case of a by-election, as soon as practicable after a vacancy has occurred among the Specially Elected Members.
 
-- A meeting of the Elected Members of the National Assembly that is held for the purpose of a general election shall be summoned by the Speaker.
+(2) A meeting of the Elected Members of the National Assembly that is held for the purpose of a general election shall be summoned by the Speaker.
 
-- No other business than the holding of a general election may be transacted at any meeting of the Elected Members of the National Assembly summoned under subparagraph (2) of this paragraph and such a meeting shall not be regarded as a meeting of the Assembly for the purposes of any other provision of this Constitution.
+(3) No other business than the holding of a general election may be transacted at any meeting of the Elected Members of the National Assembly summoned under subparagraph (2) of this paragraph and such a meeting shall not be regarded as a meeting of the Assembly for the purposes of any other provision of this Constitution.
 
-- When the votes have been cast, whether at a general election or at a by-election, a list shall be prepared showing the persons for whom votes have been cast in order according to the number of votes received by each of them, the person or persons who received the highest number of votes being placed first and those who received any lower number of votes being placed in descending order.
+6. When the votes have been cast, whether at a general election or at a by-election, a list shall be prepared showing the persons for whom votes have been cast in order according to the number of votes received by each of them, the person or persons who received the highest number of votes being placed first and those who received any lower number of votes being placed in descending order.
 
-- In the case of a general election, and subject to the provisions of paragraph 9 of this Schedule, those persons shall be deemed to have been elected as Specially Elected Members who stand in the first and each succeeding place on the list until the number of persons to be elected as Specially Elected Members has been completed.
+7. In the case of a general election, and subject to the provisions of paragraph 9 of this Schedule, those persons shall be deemed to have been elected as Specially Elected Members who stand in the first and each succeeding place on the list until the number of persons to be elected as Specially Elected Members has been completed.
 
-- In the case of a by-election, and subject to the provisions of paragraph 10 of this Schedule, the person who stands in the first place on the list shall be deemed to have been elected.
+8. In the case of a by-election, and subject to the provisions of paragraph 10 of this Schedule, the person who stands in the first place on the list shall be deemed to have been elected.
 
-- Where, by reason of an equality of votes between them, the number of candidates in any place on the list who would otherwise be deemed to have been elected under paragraph 7 of this Schedule exceeds the number of persons remaining to be elected as Specially Elected Members after the persons in the preceding places have been elected, none of the candidates in that place or in any succeeding place shall be deemed to have been elected and a further election shall be held to fill the vacancies still remaining among the Specially Elected Members; and the provisions of this Schedule shall apply in relation to that further election as if it were a general election where the total number of Specially Elected Members was equal to the number of vacancies still remaining to be filled.
+9. Where, by reason of an equality of votes between them, the number of candidates in any place on the list who would otherwise be deemed to have been elected under paragraph 7 of this Schedule exceeds the number of persons remaining to be elected as Specially Elected Members after the persons in the preceding places have been elected, none of the candidates in that place or in any succeeding place shall be deemed to have been elected and a further election shall be held to fill the vacancies still remaining among the Specially Elected Members; and the provisions of this Schedule shall apply in relation to that further election as if it were a general election where the total number of Specially Elected Members was equal to the number of vacancies still remaining to be filled.
 
-- Where, in a by-election, two or more candidates equally receive the highest number of votes, no candidates shall be deemed to have been elected and a further by-election shall be held, in accordance with the provisions of this Schedule, at which only those candidates who received the highest number of votes in the original by-election may again stand as candidates.
+10. Where, in a by-election, two or more candidates equally receive the highest number of votes, no candidates shall be deemed to have been elected and a further by-election shall be held, in accordance with the provisions of this Schedule, at which only those candidates who received the highest number of votes in the original by-election may again stand as candidates.
 
 ## SECOND SCHEDULE TO THE CONSTITUTION
 ### DIVISION OF DISTRICTS INTO REGIONS FOR THE PURPOSE OF SELECTING MEMBERS OF NTLO YA DIKGOSI
 
-THE CENTR AL DISTRI CT (1) Bobirw a Region (2) Boteti region (3) Mahala pye Region (4) Serowe Region (5) Tonota Region (6)
+THE CENTRAL DISTRICT
+(1) Bobirwa Region
+(2) Boteti region
+(3) Mahalapye Region
+(4) Serowe Region
+(5) Tonota Region
+(6)
 
 Copyright Government of Botswana
 
@@ -2545,7 +2770,25 @@ Copyright Government of Botswana
 
 [[START OF PAGE 58]]
 
-Tswapo ng Region (7) Tutume Region THE GHANZ I DISTRI CT (8) Ghanzi East Region (9) Ghanzi West Region THE KGALA GADI DISTRI CT (10) Kgalag adi North Region (11) Kgalag adi South Region THE KWEN ENG DISTRI CT (12) Letlhak eng Region (13) Molepol ole Region (14) Thama ga Region THE NORTH WEST DISTRI CT (15) Maun Region (16) Ngami Region (17) Okavan go Region THE SOUTH ERN DISTRI CT (18) Kanye Region (19)
+Tswapong Region
+(7) Tutume Region
+THE GHANZI DISTRICT
+(8) Ghanzi East Region
+(9) Ghanzi West Region
+THE KGALAGADI DISTRICT
+(10) Kgalagadi North Region
+(11) Kgalagadi South Region
+THE KWENENG DISTRICT
+(12) Letlhakeng Region
+(13) Molepolole Region
+(14) Thamaga Region
+THE NORTH WEST DISTRICT
+(15) Maun Region
+(16) Ngami Region
+(17) Okavango Region
+THE SOUTHERN DISTRICT
+(18) Kanye Region
+(19)
 
 Copyright Government of Botswana
 
@@ -2553,7 +2796,8 @@ Copyright Government of Botswana
 
 [[START OF PAGE 59]]
 
-Moshup a Region (20) Ngwak etseWe st Region.
+Moshupa Region
+(20) Ngwaketse West Region.
 
 Copyright Government of Botswana
 
