@@ -6,17 +6,17 @@
 
 ### A. About the 1974 Recommendation
 
-- UNESCO's 1974 Recommendation concerning Education for International Understanding,  Co-operation  and  Peace  and  Education  relating  to  Human  Rights  and Fundamental  Freedoms 1 (the ' 1974  Recommendation' )  aims  to  promote  international education and world peace through understanding, solidarity and cooperation. It was adopted on 19 November 1974 by the General Conference of UNESCO at its 18th session.
+1. UNESCO’s 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms¹ (the “1974 Recommendation”) aims to promote international education and world peace through understanding, solidarity and cooperation. It was adopted on 19 November 1974 by the General Conference of UNESCO at its 18th session.
 
-- The 1974 Recommendation applies to formal, non-formal and informal education and to all levels, from pre-primary to tertiary and adult education and lifelong learning. The General Conference recommended ' that Member States should apply ' the provisions included in the 1974 Recommendation ' by taking whatever legislative or other steps ' that provide institutional (e.g.  policies  and  legal  frameworks)  and  pedagogical  (e.g.  curricula,  teacher  training, educational materials, equipment, and student assessment) support for its  implementation, based on the ' objectives ', referred to in paragraph 4 of the 1974 Recommendation , ' regarded as major guiding principles of education policy '  including: an international dimension and a global  perspective  on  education,  cultural  diversity,  interdependence,  communication, rights and responsibilities, international solidarity and cooperation, and problem solving.
+2. The 1974 Recommendation applies to formal, non-formal and informal education and to all levels, from pre-primary to tertiary and adult education and lifelong learning. The General Conference recommended “that Member States should apply” the provisions included in the 1974 Recommendation “by taking whatever legislative or other steps” that provide institutional (e.g. policies and legal frameworks) and pedagogical (e.g. curricula, teacher training, educational materials, equipment, and student assessment) support for its implementation, based on the “objectives”, referred to in paragraph 4 of the 1974 Recommendation, “regarded as major guiding principles of education policy” including: an international dimension and a global perspective on education, cultural diversity, interdependence, communication, rights and responsibilities, international solidarity and cooperation, and problem solving.
 
-- Today, the principles of the 1974 Recommendation apply equally well to Education for Sustainable Development (ESD) and to Global Citizenship Education (GCED) and therefore represent a powerful tool for promoting the 2030 Agenda for Sustainable Development and in particular SDG Target 4.7 on the promotion of sustainable development and global citizenship through  education,  Target  12.8  on  access  to  information  on  sustainable  development  and Target 13.3 on climate change education.
+3. Today, the principles of the 1974 Recommendation apply equally well to Education for Sustainable Development (ESD) and to Global Citizenship Education (GCED) and therefore represent a powerful tool for promoting the 2030 Agenda for Sustainable Development and in particular SDG Target 4.7 on the promotion of sustainable development and global citizenship through education, Target 12.8 on access to information on sustainable development and Target 13.3 on climate change education.
 
-- The  General  Conference  in  its  39th  session  recommended  the  use  of  the 1974 Recommendation reporting process to support the implementation and monitoring of Target 4.7 of Sustainable Development Goal 4 (39 C/Resolution 79). The UNESCO Executive Board at its 209th session approved the use of the current guidelines for both the monitoring of the 1974 Recommendation and the collection of data needed for the following global SDG indicator for which UNESCO is custodian (209 EX/Decision 18.II):
+4. The General Conference in its 39th session recommended the use of the 1974 Recommendation reporting process to support the implementation and monitoring of Target 4.7 of Sustainable Development Goal 4 (39 C/Resolution 79). The UNESCO Executive Board at its 209th session approved the use of the current guidelines for both the monitoring of the 1974 Recommendation and the collection of data needed for the following global SDG indicator for which UNESCO is custodian (209 EX/Decision 18.II):
 
-- 4.7.1,  12.8.1  and  13.3.1: The extent to which (i) global  citizenship  education  and (ii) education  for  sustainable  development  are  mainstreamed  in  (a)  national  education policies; (b) curricula; (c) teacher education and (d) student assessment.
+4.7.1, 12.8.1 and 13.3.1: The extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education and (d) student assessment.
 
-- Questions marked with an asterisk (*) will be used in the calculation of the respective indicators  ( Table  1 ).  As  approved  by  the  Inter-Agency  and  Expert  Group  on  the  SDG Indicators, the indicators will be calculated for primary and secondary education only.
+5. Questions marked with an asterisk (*) will be used in the calculation of the respective indicators (Table 1). As approved by the Inter-Agency and Expert Group on the SDG Indicators, the indicators will be calculated for primary and secondary education only.
 
 Table 1 Questions used in the calculation of the global SDG indicator for Targets 4.7, 12.8 and 13.3
 
@@ -32,19 +32,19 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 ### B. Reporting obligations
 
-- The General Conference, at its 18th session, when adopting the 1974 Recommendation recommended ' that Member States submit […] reports concerning the action taken by them in pursuance of this recommendation '. Moreover, in accordance with Article VIII of UNESCO's Constitution ' Each Member State shall submit to the Organization […] reports […] on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4 .'
+6. The General Conference, at its 18th session, when adopting the 1974 Recommendation recommended “that Member States submit […] reports concerning the action taken by them in pursuance of this recommendation”. Moreover, in accordance with Article VIII of UNESCO’s Constitution “Each Member State shall submit to the Organization […] reports […] on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4.”
 
-- Thus, all UNESCO Member States are expected to report on the steps they have taken  to  implement  the 1974  Recommendation preferably  by  completing  the  following questionnaire. Such reporting takes place every four years.
+7. Thus, all UNESCO Member States are expected to report on the steps they have taken to implement the 1974 Recommendation preferably by completing the following questionnaire. Such reporting takes place every four years.
 
 ## II. Guidelines for completion of the questionnaire
 
-- This  questionnaire  and  its  accompanying  guidelines  are  addressed  to  Ministers responsible for relations with UNESCO. The questionnaire is typically completed by Ministries of Education and other government authorities responsible for education. Responses should cover, as far as possible, education at all levels of government, including sub-national levels where applicable as well as education outside the government sector.
+8. This questionnaire and its accompanying guidelines are addressed to Ministers responsible for relations with UNESCO. The questionnaire is typically completed by Ministries of Education and other government authorities responsible for education. Responses should cover, as far as possible, education at all levels of government, including sub-national levels where applicable as well as education outside the government sector.
 
-- National respondents are encouraged to consult widely both within, across and beyond government, including with Ministries of Environment, with national human rights institutions, the education sector, civil society partners and others, as necessary, to gather the information needed to complete the questionnaire.
+9. National respondents are encouraged to consult widely both within, across and beyond government, including with Ministries of Environment, with national human rights institutions, the education sector, civil society partners and others, as necessary, to gather the information needed to complete the questionnaire.
 
-- Responses to the seventh consultation should cover:
+10. Responses to the seventh consultation should cover:
 
-(i)      the time period 2017-2020;
+(i) the time period 2017-2020;
 
 (ii) education at all levels of formal education from pre-primary to tertiary education as well as non-formal education;
 
@@ -52,79 +52,79 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 (iv) where possible, education outside the government sector.
 
-- To assist  countries  in  responding  to  this  questionnaire,  UNESCO  has  developed  the following  set  of  global  citizenship  education  and  education  for  sustainable  development themes. The list is based on a review of current common practices in many countries as well as a review of relevant literature. While the terms ESD and GCED may be used differently in some countries, the list of themes typically captures what are seen as key elements of Target 4.7.  Please  refer  to  the  definitions  of  key  terms  in Section  III before  completing  the questionnaire.
+11. To assist countries in responding to this questionnaire, UNESCO has developed the following set of global citizenship education and education for sustainable development themes. The list is based on a review of current common practices in many countries as well as a review of relevant literature. While the terms ESD and GCED may be used differently in some countries, the list of themes typically captures what are seen as key elements of Target 4.7. Please refer to the definitions of key terms in Section III before completing the questionnaire.
 
 ### Global citizenship education and education for sustainable development
 
-- cultural diversity and tolerance
+1. cultural diversity and tolerance
 
-- 1.1 international or intercultural understanding, solidarity and cooperation
+1.1 international or intercultural understanding, solidarity and cooperation
 
-- 1.2 intercultural and interreligious dialogue
+1.2 intercultural and interreligious dialogue
 
-- 1.3 local, national and/or global citizenship
+1.3 local, national and/or global citizenship
 
-- gender equality education
+2. gender equality education
 
-- 2.1 gender-based equal opportunities
+2.1 gender-based equal opportunities
 
-- 2.2 gender equality and justice
+2.2 gender equality and justice
 
-- 2.3 gender roles, identity and stereotypes
+2.3 gender roles, identity and stereotypes
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-- human rights education
+3. human rights education
 
-- 3.1 equality  and  non-discrimination  based  on race, colour,  language, religion, disability,  political  or  other  opinion,  national  or  social  origin,  birth  or  other status
+3.1 equality and non-discrimination based on race, colour, language, religion, disability, political or other opinion, national or social origin, birth or other status
 
-- 3.2 human rights values, human dignity, justice, inclusion and participation
+3.2 human rights values, human dignity, justice, inclusion and participation
 
-- 3.3 respect for  human  rights  and  fundamental  freedoms  (as  outlined  in international conventions and declarations)
+3.3 respect for human rights and fundamental freedoms (as outlined in international conventions and declarations)
 
-- peace and non-violence
+4. peace and non-violence
 
-- 4.1 friendly relations among peoples and nations
+4.1 friendly relations among peoples and nations
 
-- 4.2 challenging negative stereotypes, promoting peaceful solutions, learning to live together, including others and preventing violent extremism
+4.2 challenging negative stereotypes, promoting peaceful solutions, learning to live together, including others and preventing violent extremism
 
-- 4.3 preventing all forms of violence including bullying, verbal abuse and genderbased violence
+4.3 preventing all forms of violence including bullying, verbal abuse and gender-based violence
 
-- climate change education
+5. climate change education
 
-- 5.1 mitigation
+5.1 mitigation
 
-- 5.2 adaptation
+5.2 adaptation
 
-- 5.3 impact reduction
+5.3 impact reduction
 
-- 5.4 early warning
+5.4 early warning
 
-- environmental sustainability
+6. environmental sustainability
 
-- 6.1 caring for the planet, protecting nature
+6.1 caring for the planet, protecting nature
 
-- 6.2 environmental justice
+6.2 environmental justice
 
-- 6.3 biodiversity, water
+6.3 biodiversity, water
 
-- human survival and well-being
+7. human survival and well-being
 
-- 7.1 environmental health as it pertains to  human well-being, disaster risk reduction
+7.1 environmental health as it pertains to human well-being, disaster risk reduction
 
-- 7.2 health of the planet for future generations
+7.2 health of the planet for future generations
 
-- 7.3 sustainable cities and communities
+7.3 sustainable cities and communities
 
-- sustainable consumption and production
+8. sustainable consumption and production
 
-- 8.1 responsible and sustainable lifestyles
+8.1 responsible and sustainable lifestyles
 
-- 8.2 green economy, green jobs
+8.2 green economy, green jobs
 
-- 8.3 sustainable energy
+8.3 sustainable energy
 
 [[END OF PAGE 3]]
 
@@ -141,7 +141,7 @@ Themes of global citizenship and education for sustainable development
 4. Peace and non-violence | Education about peace and peace-building, mediation, conflict prevention and resolution, non-violence, reconciliation and living together peacefully. It includes advocating for friendly relations among peoples and nations, challenging negative stereotypes, promoting peaceful solutions, learning to live together and preventing violent extremism and other forms of violence including bullying.
 5. Climate change education | Education to help people, in particular youth, understand, address, mitigate, and adapt to the impacts of climate change. It encourages changes in attitudes and behaviours needed to put the world on a more sustainable development path, and build a new generation of climate change-aware citizens. It covers various responses to climate change including mitigation, adaptation, impact reduction and early warning.
 6. Environmental sustainability | Education about responsible interactions with the environment to avoid depletion or degradation and to promote environmental quality and health. It includes, caring for the planet and protecting nature, environmental justice, biodiversity and water.
-7. Human survival and well- being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
+7. Human survival and well-being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
 
 [[END OF PAGE 4]]
 
@@ -177,12 +177,6 @@ Vocational education | Education that is designed for learners to acquire the kn
 
 ## IV. Information about the respondent
 
-MALAYSIA
----
-
-MINISTRY OF EDUCATION, MALAYSIA
----
-
 Country:
 
 MALAYSIA
@@ -203,15 +197,15 @@ Please indicate below the names of other organizations and contributors consulte
 
 ### Government institutions including other Ministries (please specify) :
 
-1.Institute of Teacher Education Malaysia, Technical and Vocational Division MoE Malaysia
+1. Institute of Teacher Education Malaysia, Technical and Vocational Division MoE Malaysia
 
-- Committee for Strategic Planning and Strengthening of General Courses for Higher Education Institutions, Ministry of Higher Education, Malaysia (MoHE)
+2. Committee for Strategic Planning and Strengthening of General Courses for Higher Education Institutions, Ministry of Higher Education, Malaysia (MoHE)
 
-- Department of Higher Education, MoHE
+3. Department of Higher Education, MoHE
 
-- Department of Polytechnic and Community College Education (MoHE)
+4. Department of Polytechnic and Community College Education (MoHE)
 
-- Ministry of Rural Development
+5. Ministry of Rural Development
 
 ### National human rights institutions (please specify) :
 
@@ -245,29 +239,29 @@ MARA, KEMAS, RISDA, PERDA & KEDA - formal education, JAKOA - non-formal educatio
 
 #### A1a. Please  describe any  specific national or sub-national laws, legislation or legal framework(s) in your country that govern the promotion of global citizenship education (GCED) and/or education for sustainable development (ESD). Explain whether GCED and/or ESD themes 2  are mentioned explicitly or are inferred and what types or levels of education are covered.
 
-- o The 1974  Environmental Quality Act - to ensure the protection and to enhance the quality of the environment ;
+- The 1974 Environmental Quality Act - to ensure the protection and to enhance the quality of the environment ;
 
-- o The concept of sustainable development was also a focus in the Malaysia National Vision Policy implemented from 2001 to 2010 ;
+- The concept of sustainable development was also a focus in the Malaysia National Vision Policy implemented from 2001 to 2010 ;
 
-- o The pursuit for enviromentally sustainable development to reinforce long-term growth was one of the thrusts in the 8th Malaysia Plan (2001-2005) and the subsequent Malaysia Plans to ensure balance between development needs and the environment exists ;
+- The pursuit for enviromentally sustainable development to reinforce long-term growth was one of the thrusts in the 8th Malaysia Plan (2001-2005) and the subsequent Malaysia Plans to ensure balance between development needs and the environment exists ;
 
-- o Provisions of other frameworks for environment policies and strategies are the National Policy  on  Environment  (2002),  National  Physial  Plan  (2005),  the  National  Green Technology Policy and the National Climate Change Policy(2009).
+- Provisions of other frameworks for environment policies and strategies are the National Policy on Environment (2002), National Physial Plan (2005), the National Green Technology Policy and the National Climate Change Policy(2009).
 
-- o The National Philosophy of Education (NPE) in Malaysia written in 1988 serves as the basis for policy development on education and is in itself a promotion of GCED and ESD ;
+- The National Philosophy of Education (NPE) in Malaysia written in 1988 serves as the basis for policy development on education and is in itself a promotion of GCED and ESD ;
 
-- o The principles of ESD are incorporated in the education system in Malaysia. The aspects of  sustainable  development  are  integrated  in  the  National  School  Curriculum  from preschool to secondary school ;
+- The principles of ESD are incorporated in the education system in Malaysia. The aspects of sustainable development are integrated in the National School Curriculum from preschool to secondary school ;
 
-- o The Malaysia Education Blueprint (2013-2025) which was launced in 2013 is a long term comprehensive plan built on five aspirations- access, quality, equity, unity and efficiency which are in principle, elements for inclusive and sustainable development;
+- The Malaysia Education Blueprint (2013-2025) which was launced in 2013 is a long term comprehensive plan built on five aspirations- access, quality, equity, unity and efficiency which are in principle, elements for inclusive and sustainable development;
 
-- o The  GCED  and  ESD  elements  are  embedded  in  the  curricula    -  the  Primary  School Standard Curriculum (KSSR)  and the Secondary School Standard Curriculum (KSSM) for all levels and subjects.
+- The GCED and ESD elements are embedded in the curricula - the Primary School Standard Curriculum (KSSR) and the Secondary School Standard Curriculum (KSSM) for all levels and subjects.
 
-- o KSSM and KSSR are built based on six pillars namely communication; spirituality, attitudes and values; humanity; self appearance ; physical and aesthetic development as well as science and technology . These six pillars are aligned with the basic domains of  GCED and ESD  - cognitive, social emotional and behavioural.
+- KSSM and KSSR are built based on six pillars namely communication; spirituality, attitudes and values; humanity; self appearance ; physical and aesthetic development as well as science and technology. These six pillars are aligned with the basic domains of GCED and ESD - cognitive, social emotional and behavioural.
 
-- o The principles of GCED and ESD are integrated in teacher education in universities as well as in teacher education institutes in Malaysia.
+- The principles of GCED and ESD are integrated in teacher education in universities as well as in teacher education institutes in Malaysia.
 
-- o For higher education, the general law that governs its rules, regulations and practices is the Education Act 1996 (Act 550) and the National Education Philosophy which forms the core  values  of  the  act  and  processes  covered  by  the  act.  For  governance  and implementation, this act is supported by several acts and strategic plans as listed below in subsection A1b.
+- For higher education, the general law that governs its rules, regulations and practices is the Education Act 1996 (Act 550) and the National Education Philosophy which forms the core values of the act and processes covered by the act. For governance and implementation, this act is supported by several acts and strategic plans as listed below in subsection A1b.
 
-- o The right of Orang Asli to have acess to education.
+- The right of Orang Asli to have acess to education.
 
 > 2 See the schema described in paragraph 11 of Section II of these guidelines.
 
@@ -277,7 +271,7 @@ MARA, KEMAS, RISDA, PERDA & KEDA - formal education, JAKOA - non-formal educatio
 
 #### A1b. Please provide the full names of any laws, legislation or legal frameworks referred to in A1a and, where possible, web links to relevant documents.
 
-- The 11 th  Malaysia Plan (2016-2020);
+- The 11th Malaysia Plan (2016-2020);
 
 - The Malaysia Education Blueprint (2013-2025) ;
 
@@ -301,9 +295,9 @@ MARA, KEMAS, RISDA, PERDA & KEDA - formal education, JAKOA - non-formal educatio
 
 - Aboriginal Peoples Act 1954 (Act 134), in Section 17.
 
-https://www.moe.gov.my/menumedia/media-cetak/penerbitan/dasar/1207-malaysia-educationblueprint-2013-2025/file
+https://www.moe.gov.my/menumedia/media-cetak/penerbitan/dasar/1207-malaysia-education-blueprint-2013-2025/file
 
-https://www.epu.gov.my/en/economic-developments/development-plans/rmk/mid-term-revieweleventh-malaysia-plan-2016-2020
+https://www.epu.gov.my/en/economic-developments/development-plans/rmk/mid-term-review-eleventh-malaysia-plan-2016-2020
 
 http://bpk.moe.gov.my/index.php/terbitan-bpk/kurikulum-sekolah-menengah/category/10-kssm
 
@@ -337,7 +331,7 @@ In Malaysia, GCED and ESD are not taught as subjects, but aspects of sustainable
 
 ##### MOHE
 
-In 2015, Ministry of Higher Education (MOHE) launched the Malaysia Education Blueprint 20152025 (Higher Education) or the MEB (HE). The birth of MEB (HE) consolidates the Ministry's overriding aspiration to create a higher education system that ranks among the world's leading education systems and that enables Malaysia to compete in the global economy. MEB (HE) takes into  account  the  aspirations  from  SDG  4  which  is  to  'ensure  inclusive  and  equitable  quality education and promoting lifelong learning opportunities for all'.
+In 2015, Ministry of Higher Education (MOHE) launched the Malaysia Education Blueprint 2015–2025 (Higher Education) or the MEB (HE). The birth of MEB (HE) consolidates the Ministry’s overriding aspiration to create a higher education system that ranks among the world’s leading education systems and that enables Malaysia to compete in the global economy. MEB (HE) takes into account the aspirations from SDG 4 which is to “ensure inclusive and equitable quality education and promoting lifelong learning opportunities for all”.
 
 > 3 See the schema described in paragraph 11 of Section II of these guidelines.
 
@@ -355,7 +349,7 @@ As Malaysia aspire to have one of the most educated and skilled workforce in the
 
 ###### Quality
 
-Malaysia  evaluates  its  higher  education  system  quality  aspiration  against  the  quality  of  the system, quality of the institutions and quality of graduates.  By the quality of the system, Malaysia targeted to be ranked in the top 25 countries for research output based on U21 Ranking System (Malaysia is ranked at 27 th for overall U21 Ranking for 2020). By the quality of the institutions: Malaysia aims to have one Malaysian university to be ranked in the top 25 in Asia, two universities to be ranked in the top 100 globally, and four universities to be ranked in the top 200 by 2025 (according to QS World University Rankings). According to QS World University Rankings 2021, one university is ranked in the top 100 globally and four others are ranked in the top 200 globally. By the quality of graduates, Malaysia targeted the graduate employability to be increased to more than 80% by 2025. Currently, Malaysia has achieved 86.2% of graduate employability with more than 130,000 international students in HLIs in 2019.
+Malaysia evaluates its higher education system quality aspiration against the quality of the system, quality of the institutions and quality of graduates. By the quality of the system, Malaysia targeted to be ranked in the top 25 countries for research output based on U21 Ranking System (Malaysia is ranked at 27th for overall U21 Ranking for 2020). By the quality of the institutions: Malaysia aims to have one Malaysian university to be ranked in the top 25 in Asia, two universities to be ranked in the top 100 globally, and four universities to be ranked in the top 200 by 2025 (according to QS World University Rankings). According to QS World University Rankings 2021, one university is ranked in the top 100 globally and four others are ranked in the top 200 globally. By the quality of graduates, Malaysia targeted the graduate employability to be increased to more than 80% by 2025. Currently, Malaysia has achieved 86.2% of graduate employability with more than 130,000 international students in HLIs in 2019.
 
 ###### Equity
 
@@ -371,7 +365,7 @@ Given Malaysia's multi-ethnic society, MOHE aspires to create an education syste
 
 ###### Efficiency
 
-Malaysia is deeply committed to higher education and invest in higher education. Hence, MOHE is  focusing  on  improving  the  overall  efficiency  and  productivity  of  higher  learning  institutions. Specifically,  the  Ministry  will  seek  to  produce  larger  numbers  of  graduates  at  the  same  cost, without  compromising  on  educational  quality  or  restricting  access  to  eligible  students.  For instance, the cost per student and the cost per graduate in the higher education system will be closely  monitored.    On  the  efficiency  of  resources,  it  is  accessed  through  the  U21  Ranking System, where Malaysia is currently ranked at the 12 th out of 50 countries on resources committed to higher education.
+Malaysia is deeply committed to higher education and invest in higher education. Hence, MOHE is focusing on improving the overall efficiency and productivity of higher learning institutions. Specifically, the Ministry will seek to produce larger numbers of graduates at the same cost, without compromising on educational quality or restricting access to eligible students. For instance, the cost per student and the cost per graduate in the higher education system will be closely monitored. On the efficiency of resources, it is accessed through the U21 Ranking System, where Malaysia is currently ranked at the 12th out of 50 countries on resources committed to higher education.
 
 ##### Ministry of Rural Development
 
@@ -401,63 +395,63 @@ Strategies indicate for related thrusts as follows:
 
 ###### 1. THRUST 03: EXCELLENT HUMAN CAPITAL
 
-- Strengthen rural communities with knowledge and soft skills as well as technical knowledge (hard skills);
+i. Strengthen rural communities with knowledge and soft skills as well as technical knowledge (hard skills);
 
-- Enhance the marketability of rural human capital in various sectors;
+ii. Enhance the marketability of rural human capital in various sectors;
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
-- Improve  and  provide  a  comprehensive  infrastructure  including  strengthen professionalism for teachers in MRSM;
+iii. Improve and provide a comprehensive infrastructure including strengthen professionalism for teachers in MRSM;
 
-- Equip the rural communities with skills required for 4IR;
+iv. Equip the rural communities with skills required for 4IR;
 
-- Conserve, preserve, promote and protect the culture, arts and heritage of the rural communities;
+v. Conserve, preserve, promote and protect the culture, arts and heritage of the rural communities;
 
-- Increase opportunities for skills training for dropout students;
+vi. Increase opportunities for skills training for dropout students;
 
-- Upgrade  the  preschool  education  system  in  terms  of  physical  infrastructure, teacher's professionalism and syllabus;
+vii. Upgrade the preschool education system in terms of physical infrastructure, teacher’s professionalism and syllabus;
 
-- Increase parental involvement and cooperation in the early childhood education;
+viii. Increase parental involvement and cooperation in the early childhood education;
 
-- Improve nutrition and health of children in nursery, kindergarten and preschool including for special needs children;
+ix. Improve nutrition and health of children in nursery, kindergarten and preschool including for special needs children;
 
-- Continue providing general schooling aids and per capita grant to poor children in nursery, kindergarten, preschool including for special needs children;
+x. Continue providing general schooling aids and per capita grant to poor children in nursery, kindergarten, preschool including for special needs children;
 
-- Develop a 'first-class mentality' among the rural communities; and
+xi. Develop a “first-class mentality” among the rural communities; and
 
-- Strengthen unity among the multi-racial communities
+xii. Strengthen unity among the multi-racial communities
 
 ###### 2.         THRUST 05: EMINENT RURAL YOUTH
 
-- Establish TVET as the leading choice of education among rural youths;
+i. Establish TVET as the leading choice of education among rural youths;
 
-- Improve the quality of education in line with the needs of the Fourth Industrial Revolution (4IR);
+ii. Improve the quality of education in line with the needs of the Fourth Industrial Revolution (4IR);
 
-- Strengthen Teaching and Learning methods that emphasize on practical training;
+iii. Strengthen Teaching and Learning methods that emphasize on practical training;
 
-- Increase  involvement  of  innovative  and  creative  youth  in  the  high-income economic sector;
+iv. Increase involvement of innovative and creative youth in the high-income economic sector;
 
-- Enhance appreciation of history and socio-cultural as well as national development policies; and
+v. Enhance appreciation of history and socio-cultural as well as national development policies; and
 
-- Expand  self-development  programs  that  emphasize  on  religious  and  cultural values, local customs as well as recreational and sports activities
+vi. Expand self-development programs that emphasize on religious and cultural values, local customs as well as recreational and sports activities
 
 ###### 3.         THRUST 06: PROGRESSIVE RURAL WOMEN
 
-- Increase opportunities for women to participate in the economy and entrepreneurship sector;
+i. Increase opportunities for women to participate in the economy and entrepreneurship sector;
 
-- Optimize women capacity and employment rates;
+ii. Optimize women capacity and employment rates;
 
-- Increase women's ownership of productive assets, investment and savings; and
+iii. Increase women’s ownership of productive assets, investment and savings; and
 
-- Increase health awareness and access to health services.
+iv. Increase health awareness and access to health services.
 
 ###### 4.         THRUST 09: BIODIVERSITY AND SUSTAINABLE ENVIRONMENT
 
-- Promote green agricultural practices among the rural communities; and
+i. Promote green agricultural practices among the rural communities; and
 
-- Integrate  traditional  knowledge  in  rural  environmental  management  with  the involvement of rural communities
+ii. Integrate traditional knowledge in rural environmental management with the involvement of rural communities
 
 Types of education covered: Preprimary, secondary, tertiary (TVET) & non-formal education in Ministry of Rural Development (MRD) education institutions lead by MARA, KEMAS. LKW (PERDA and KEDA), and JAKOA.
 
@@ -465,7 +459,7 @@ Types of education covered: Preprimary, secondary, tertiary (TVET) & non-formal 
 
 The Malaysia Education Blueprint (2013-2025)
 
-https://www.moe.gov.my/menumedia/media-cetak/penerbitan/dasar/1207-malaysia-educationblueprint-2013-2025/file
+https://www.moe.gov.my/menumedia/media-cetak/penerbitan/dasar/1207-malaysia-education-blueprint-2013-2025/file
 
 Secondary School Standard Curriculum or Kurikulum Standard Sekolah Menengah (KSSM) http://bpk.moe.gov.my/index.php/terbitan-bpk/kurikulum-sekolah-menengah/category/10-kssm Primary School Standard Curriculum or Kurikulum Standard Sekolah Rendah (KSSR)
 
@@ -517,7 +511,7 @@ Textbook development | 1 | 1 | 0 | 99
 Teacher education and training | 1 | 1 | 0 | 1
 Assessment of student outcomes | 1 | 1 | 0 | 1
 
-### Curriculum (paras 4 and 10-19 of the 1974 Recommendation )
+### B. Curriculum (paras 4 and 10-19 of the 1974 Recommendation)
 
 #### B1a. Please describe in which ways GCED and ESD are mainstreamed in school curricula. Indicate  whether  topics  are  taught  as  standalone  subjects  or  are  integrated  into  the curricula of other subjects. Explain whether GCED and/or ESD themes 4  are mentioned explicitly or are inferred and what types or levels of education are covered.
 
@@ -529,13 +523,15 @@ In 2019 Civics Education was reintroduced, focusing on good citizenry in the con
 
 ##### MOHE
 
-In Malaysia, one of the criteria for curriculum approval and implementation is to embed the content of  the  General  Education  Subjects  (MPU)  into  the  curriculum  as  mandated  by  the  Malaysian Cabinet Paper 2013. MPU modules comprises two compulsory general courses (e.g., 4-6 credits for  a  bachelor's  degree  programme  and  2-3  credits  for  a  certificate  or  diploma  programme), namely (1) Appreciation of Ethics and Civilisations; and (2) Philosophy and Current Issues). The first  course  covers  Malaysian  core  principles  and  values,  ethnic  diversity  of  Malaysian  and historical perspectives leading to the formation of Malaysian identity and Malaysia as a nationstate.  On  the  other  hand,  the  second  course  seeks  to  provides  basic  philosophical  thinking approach in handling current and contemporary issues of national and global significance. These compulsory courses are complemented by several more electives under the themes of soft skills, knowledge about Malaysia and citizenship, and aspects of service learning, to complete the whole package of the MPU module. The learning outcomes for all MPU courses are guided by the MQF learning outcome domains and clusters which include coverage on GCED and ESD.
+In Malaysia, one of the criteria for curriculum approval and implementation is to embed the content of the General Education Subjects (MPU) into the curriculum as mandated by the Malaysian
 
 > 4 See the schema described in paragraph 11 of Section II of these guidelines.
 
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
+
+Cabinet Paper 2013. MPU modules comprises two compulsory general courses (e.g., 4-6 credits for a bachelor’s degree programme and 2-3 credits for a certificate or diploma programme), namely (1) Appreciation of Ethics and Civilisations; and (2) Philosophy and Current Issues). The first course covers Malaysian core principles and values, ethnic diversity of Malaysian and historical perspectives leading to the formation of Malaysian identity and Malaysia as a nation-state. On the other hand, the second course seeks to provides basic philosophical thinking approach in handling current and contemporary issues of national and global significance. These compulsory courses are complemented by several more electives under the themes of soft skills, knowledge about Malaysia and citizenship, and aspects of service learning, to complete the whole package of the MPU module. The learning outcomes for all MPU courses are guided by the MQF learning outcome domains and clusters which include coverage on GCED and ESD.
 
 On the other hand, The Department of Polytechnic and Community College Education (DPCCE) also commits to ESD and GCED through the curriculum and green initiatives.
 
@@ -549,13 +545,13 @@ The  elements  of  ESD  and  GCED  are  taught  to  all  students  of  polytechn
 
 ##### MOE
 
-Aspects or elements of ESD are integrated in the KSSR and KSSM. As an example, in the form Two (Grade 8) Science Curriculum, elements of climate change are introduced as part of the Learning Objectives and Learning Outcomes under the theme 'Man and the Variety of Living Things'.  The  learning  objective  for  this  particular  theme  is  'to  evaluate  the  role  of  man  in maintaining the balance in nature. The learning outcomes expected from this theme are :
+Aspects or elements of ESD are integrated in the KSSR and KSSM. As an example, in the form Two (Grade 8) Science Curriculum, elements of climate change are introduced as part of the Learning Objectives and Learning Outcomes under the theme ‘Man and the Variety of Living Things’. The learning objective for this particular theme is ‘to evaluate the role of man in maintaining the balance in nature. The learning outcomes expected from this theme are :
 
-- explain the effects of human activities on the balance in nature ;
+i) explain the effects of human activities on the balance in nature ;
 
-- ii) decribe how man solves problems related to environment ; and
+ii) decribe how man solves problems related to environment ; and
 
-- iii) justify that human need a stable, productive and balanced ecosystem.
+iii) justify that human need a stable, productive and balanced ecosystem.
 
 Other  examples  of  environmental  issues  under  the  theme  include  the  global  climate  change, habitat desctruction, species extinction, air, soil and water pollution, loss of wetlands, solid waste management, deforestation, land overuse, over fishing and toxin in the environment.
 
@@ -579,7 +575,7 @@ More recently, MoE Malaysia embarked on the pilot project to embed GCED elements
 
 The Malaysia Education Blueprint (2013-2025)
 
-https://www.moe.gov.my/menumedia/media-cetak/penerbitan/dasar/1207-malaysia-educationblueprint-2013-2025/file
+https://www.moe.gov.my/menumedia/media-cetak/penerbitan/dasar/1207-malaysia-education-blueprint-2013-2025/file
 
 Secondary School Standard Curriculum or Kurikulum Standard Sekolah Menengah (KSSM) http://bpk.moe.gov.my/index.php/terbitan-bpk/kurikulum-sekolah-menengah/category/10-kssm
 
@@ -589,6 +585,8 @@ https://www.moe.gov.my/menumedia/media-cetak/penerbitan/dskp-kssr
 
 #### *B2 Please indicate which GCED and ESD themes are taught as part of the curriculum at each level of education by entering the appropriate number in each white cell.
 
+KEY: 0 = no, 1 = yes, 9 = unknown
+
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | --- | ---
 1. | Cultural diversity and tolerance | 1 | 1 | 1 | 1
@@ -597,10 +595,8 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 4. | Peace and non-violence | 1 | 1 | 1 | 1
 5. | Climate change | 1 | 1 | 1 | 1
 6. | Environmental sustainability | 1 | 1 | 1 | 1
-7. | Human survival and well- being | 1 | 1 | 1 | 1
+7. | Human survival and well-being | 1 | 1 | 1 | 1
 8. | Sustainable consumption and production | 1 | 1 | 1 | 1
-
-KEY: 0 = no, 1 = yes, 9 = unknown
 
 [[END OF PAGE 18]]
 
@@ -610,7 +606,7 @@ KEY: 0 = no, 1 = yes, 9 = unknown
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
-Cultural diversity and tolerance | Gender equality | Human rights | Peace and non- violence | Climate change | Environmental sustainability | Human survival and well- being | Sustainable consumption and production
+Cultural diversity and tolerance | Gender equality | Human rights | Peace and non-violence | Climate change | Environmental sustainability | Human survival and well-being | Sustainable consumption and production
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Arts | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Civics, civil or citizenship education | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
@@ -656,7 +652,7 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 
 [[START OF PAGE 21]]
 
-### Teacher education (including the training of trainers and educators) (paras 4 and 33-37 of the 1974 Recommendation )
+### C. Teacher education (including the training of trainers and educators) (paras 4 and 33-37 of the 1974 Recommendation)
 
 #### C1a. Please describe in which ways GCED and ESD are mainstreamed in initial training and in  continuing  professional  development  of  teachers,  trainers  and  educators.  Indicate whether all teachers, trainers and educators or only some are required to receive training to teach GCED and/or ESD.
 
@@ -694,7 +690,9 @@ The dominant teaching-learning techniques recommended during the TOT training se
 
 For Polytechnic and Community College, KIPA is a mandatory requirement under the Code Of Practice  For  Accreditation  Program  (COPTPA)  which  requires  all  TVET  educators  to  obtain accreditation and teaching competency certificates.
 
-#### *C2 Please indicate whether teachers, trainers and educators are trained to teach GCED and ESD  during  initial  or  pre-service  training  and/or  through  continuing  professional development. Please enter the appropriate number in each white cell.
+#### *C2 Please indicate whether teachers, trainers and educators are trained to teach GCED and ESD during initial or pre-service training and/or through continuing professional development. Please enter the appropriate number in each white cell.
+
+KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
@@ -705,15 +703,11 @@ Continuing professional development
 For teachers of selected subjects only (in which GCED or ESD are typically taught) | 1 | 1 | 1 | 9
 For teachers of other subjects | 1 | 1 | 0 | 9
 
-KEY: 0 = no, 1 = yes, 9 = unknown
-
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
 
 #### *C3 Please indicate on which GCED and ESD themes pre-service or in-service training is available for teachers, trainers and educators at each level of education by entering the appropriate number in each white cell.
-
-#### *C4   Please  indicate  whether  teachers,  trainers  and  educators  are  trained  to  teach  the following  dimensions  of  learning  in  GCED  and  ESD.  Please  enter  the  appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -725,12 +719,14 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 4. | Peace and non-violence | 1 | 1 | 1 | 9
 5. | Climate change | 1 | 1 | 1 | 9
 6. | Environmental sustainability | 1 | 1 | 1 | 9
-7. | Human survival and well- being | 1 | 1 | 1 | 9
+7. | Human survival and well-being | 1 | 1 | 1 | 9
 8. | Sustainable consumption and production | 1 | 1 | 1 | 9
+
+#### *C4 Please indicate whether teachers, trainers and educators are trained to teach the following dimensions of learning in GCED and ESD. Please enter the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
-Pre- primary | Primary and secondary | Tertiary | Non-formal education
+Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
 Knowledge | 1 | 1 | 1 | 1
 Skills | 1 | 1 | 1 | 1
@@ -758,7 +754,7 @@ Whole school approach (e.g. GCED/ESD are integrated in the school ethos, managem
 
 ##### MOE
 
-Realising the importance of a more holistic assessment, Malaysia is changing its assessment system to be in tandem with global development through the school-based assessment (SBA). SBA  has  changed  two  important  dimensions  of  assessment  -  from  total  reliance  on  normreferenced to more emphasis on criterion-referenced and formative function of assessment. This will allow teachers to focus more time on learning and growth, cultivating and developing social emotional as well as behavioural skills. Most importantly SBA will provide teachers the space and opportunities to pursue and practice the necessary teaching and learning approaches related to GCED and ESD.
+Realising the importance of a more holistic assessment, Malaysia is changing its assessment system to be in tandem with global development through the school-based assessment (SBA). SBA has changed two important dimensions of assessment - from total reliance on norm-referenced to more emphasis on criterion-referenced and formative function of assessment. This will allow teachers to focus more time on learning and growth, cultivating and developing social emotional as well as behavioural skills. Most importantly SBA will provide teachers the space and opportunities to pursue and practice the necessary teaching and learning approaches related to GCED and ESD.
 
 ##### MOHE
 
@@ -786,9 +782,7 @@ Meanwhile, student assessment and examination in Polytechnic and Community Colle
 
 Assessment in polytechnic and community college is designed to comply with our curriculum and ensure  the  learning  outcomes  are  achievable.  In  addition,  students  values,  attitude  and behaviours are assessed through alternative assessment.
 
-#### *D2 Please indicate whether the GCED and ESD themes below are generally included in student  assessments  or  examinations  at  each  level  of  education  by  entering  the appropriate number in each white cell.
-
-#### *D3 Please indicate which of the dimensions of learning in GCED and ESD below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
+#### *D2 Please indicate whether the GCED and ESD themes below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -803,9 +797,11 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 7. | Human survival and well-being | 1 | 1 | 9 | 9
 8. | Sustainable consumption and production | 1 | 1 | 9 | 9
 
+#### *D3 Please indicate which of the dimensions of learning in GCED and ESD below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
+
 KEY: 0 = no, 1 = yes, 9 = unknown
 
-Pre- primary | Primary and secondary | Tertiary | Non-formal education
+Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
 Knowledge | 1 | 1 | 1 | 1
 Skills | 1 | 1 | 1 | 1
@@ -830,11 +826,17 @@ GCED and ESD are not mainstreamed.
 
 Some GCED and/or ESD themes 6  are mainstreamed. Select this option if GCED is mainstreamed but ESD is not (or vice versa).
 
-2 Extensively 9 Not known 99 Not applicable
+2 Extensively
 
 Most GCED and ESD themes are mainstreamed.
 
-It is not known whether GCED and ESD are mainstreamed or not. The given level of government does not have responsibility for the given component (policies, curricula, teacher education or student assessment) and/or does not have responsibility for the given level or type of education. This may occur at the national level in federal countries where education is the responsibility of individual states or at the sub-national level in small countries where there is only one level of government.
+9 Not known
+
+It is not known whether GCED and ESD are mainstreamed or not.
+
+99 Not applicable
+
+The given level of government does not have responsibility for the given component (policies, curricula, teacher education or student assessment) and/or does not have responsibility for the given level or type of education. This may occur at the national level in federal countries where education is the responsibility of individual states or at the sub-national level in small countries where there is only one level of government.
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
@@ -857,13 +859,13 @@ Sub-national
 
 [[START OF PAGE 27]]
 
-### Technical  and  vocational  education  and  training (paras 25-29  of the 1974 Recommendation )
+### F. Technical  and  vocational  education  and  training (paras 25-29  of the 1974 Recommendation )
 
 #### F1 Please  describe  any  major  initiatives  that  have  been  undertaken  to  promote  GCED and/or  ESD  in  technical  and  vocational  education  and  training.  Describe  briefly  the outcomes and impact of such initiatives and provide examples of good practices.
 
 ##### MOE
 
-Technical and Vocational Education is one of the focus areas in the education transformation in Malaysia to close the demand gap for skilled workers as well as to retain youth who are not academically  inclined  in  schools.  It  is  therefore  imperative  that  TVET  promote  growth  and efficiency  that  support  sustainable  development.  Although  GCED  and  ESD  are  not  taught  as subjects  in  TVET, GCED and ESD elements are embedded in many TVET programmes and initiatives to ensure harmonisation between economic prosperity, environment and social wellbeing.
+Technical and Vocational Education is one of the focus areas in the education transformation in Malaysia to close the demand gap for skilled workers as well as to retain youth who are not academically  inclined  in  schools.  It  is  therefore  imperative  that  TVET  promote  growth  and efficiency  that  support  sustainable  development.  Although  GCED  and  ESD  are  not  taught  as subjects  in  TVET, GCED and ESD elements are embedded in many TVET programmes and initiatives to ensure harmonisation between economic prosperity, environment and social well-being.
 
 Among the initiatives are as follows:
 
@@ -877,9 +879,9 @@ Among the initiatives are as follows:
 
 Major initiatives taken to promote GCED and/or ESD in technical and vocational education and training include:
 
-- structured training targeted for the lecturers are conducted to ensure the lecturers have professional competencies.
+a)structured training targeted for the lecturers are conducted to ensure the lecturers have professional competencies.
 
-- green technology compliance course to all students as an additional certificate which awarded them as Green Collar Worker.
+b)green technology compliance course to all students as an additional certificate which awarded them as Green Collar Worker.
 
 https://drive.google.com/open?id=1H0KutjautNc1x4X2LhCt7DwGE2Xuhba8 https://drive.google.com/open?id=1ekFnJ4HQf0qS1MNp9fH5YytgA0Sm2pqh https://drive.google.com/open?id=1J29eNt5syzeRV1qU9QihYXB3VWWz7AKX
 
@@ -893,13 +895,13 @@ https://drive.google.com/open?id=1H0KutjautNc1x4X2LhCt7DwGE2Xuhba8 https://drive
 
 Initiatives taken by Department of Polytechnic and Community College Education to promote GCED and/or ESD in adult education and other forms of non-formal education including youth education, out-of-school education are to:
 
-- develop and strengthen innovative programs - Skill based training programs are specially designed for the Tahfiz/Pondok(Islamic School) students to expand the access for these students to TVET education. Community Entrepreneurship Programme is also designed to produce highly skilled entrepreneurs in the community and improve the socio-economic status of the local community
+a. develop and strengthen innovative programs - Skill based training programs are specially designed for the Tahfiz/Pondok(Islamic School) students to expand the access for these students to TVET education. Community Entrepreneurship Programme is also designed to produce highly skilled entrepreneurs in the community and improve the socio-economic status of the local community
 
 b. conduct reskilling and upskilling programs with industry - various skills based, customized and professional programs are conducted to enhance career development of industry personnel
 
-- strengthen the Life Long Learning infrastructure - by using integrated data platforms to encourage greater community involvement
+c. strengthen the Life Long Learning infrastructure - by using integrated data platforms to encourage greater community involvement
 
-- increase promotional activities - dissemination of information, courses & trainings, success stories and other relevant information via National Life Long Learning Portal, social media and available platforms
+d. increase promotional activities - dissemination of information, courses & trainings, success stories and other relevant information via National Life Long Learning Portal, social media and available platforms
 
 -
 
@@ -919,11 +921,13 @@ This includes research that enhances the quality of education in promoting peace
 
 (iv) Long-term Research Grant Scheme (LRGS).
 
-The  importance  of  fundamental  research  under  MOHE  is  to  spearhead  and  cultivate  knowledge creation,  talent  development  and  global  academic  excellence.  In  year  2020,  MOHE  has  been allocated a total of RM 250 million to fund this program which focuses on basic research that produces new theories, concepts and ideas. The targeted research results are high-impact publications, talent generation (PhD and Masters students) as well as significant research impact on society, industry, government and academia.
+The  importance  of  fundamental  research  under  MOHE  is  to  spearhead  and  cultivate  knowledge creation,  talent  development  and  global  academic  excellence.  In  year  2020,  MOHE  has  been allocated a total of RM 250 million to fund this program which focuses on basic research that produces new theories, concepts and ideas. The targeted research results are high-impact publications, talent
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
+
+generation (PhD and Masters students) as well as significant research impact on society, industry, government and academia.
 
 Some of the studies that has been funded under this program in relation to Education for Sustainable Development (ESD), indigenous people (Orang Asli) in Malaysia, bully management, disability and gender roles are:
 
@@ -951,13 +955,93 @@ Recognized HICoE has immediate impact on the production of new research talents,
 
 The  timeline  of  HICoE  is  attached  to  show  various  projects  carried  out  by  Higher  Institutions  of Learning in various fields throughout 2010-2019.
 
+BATCH 1
+2010
+
+UMPEDAC, UM
+Renewable Energy
+
+UMBI, UKM
+Cancer Biomarkers
+
+IBS, UPM
+Animal Vaccines and Therapeutic
+
+INFORMM, USM
+Diagnostics Platforms
+
+CDR, USM
+Behavioral Research in Addiction
+
+ARL, UiTM
+Islamic Financial Criminology
+
+BATCH 2
+2012
+
+INOS, UMT
+Sustainability of Marine
+
+BATCH 3
+2015
+
+PRC, UM
+Optical devices for Communication
+
+IOES, UM
+Interaction of Air-Ocean-Land
+
+REDAC, USM
+Sustainable Urban Stormwater Management
+
+IMEN, UKM
+MEMs for Biomedical - Focus Study : Artificial Kidney
+
+WCC, UTM
+Antenna and Propagation for 5G Wireless Communications
+
+CISIR, UTP
+Neuro Chemical Imaging Under Biomedical Image Analysis
+
+BATCH 4
+2016
+
+AMTEC, UTM
+Water Reclamation
+
+IKG, UTM
+Vibration Engineering and Integrity Assessment
+
+BATCH 5
+2017
+
+INTROP, UPM
+Tropical Wood and Fibre
+
+ITAFoS, UPM
+Tropical Agrifood
+
+IBD, UTM
+Biodiversity Utilization for Human Wellness - Plant and Microbial Based Bioproduct
+
+BATCH 6
+2019
+
+TIDREC, UM
+Vector & Vector-borne Infectious Disease
+
+CBBR, UTP
+Biomass Thermochemical Conversion Technologies
+
 -
 
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
 
-#### H2 Please indicate which types of activities are available that promote international cooperation at each level of education by entering the appropriate number in each white cell.
+#### H2 Please indicate which types of activities are available that promote international co-operation at each level of education by entering the appropriate number in each white cell.
+
+KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
@@ -967,8 +1051,6 @@ Support for programmes hosting foreign students, researchers and/or teachers | 1
 Membership of international networks including ASPnet | 0 | 1 | 1 | 9
 Joint research projects on GCED and/or ESD with foreign institutions | 0 | 0 | 1 | 9
 Other activities (please specify): | - | - | Students exchange, Internship programmes | -
-
-KEY: 0 = no, 1 = yes, 9 = unknown
 
 ### I. Any other comments
 
