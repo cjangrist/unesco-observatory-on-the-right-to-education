@@ -12,8 +12,51 @@ Early Childhood Development Policy Framework
 
 _________________________________________________________________________________________________________
 
-i
+## TABLE OF CONTENTS
 
+ABBREVIATIONS/ACRONYMS .............................................................iii
+FOREWORD ........................................................................................ vi
+ACKNOWLEDGEMENTS ...................................................................... vii
+MEMBERS OF THE ECD POLICY TECHNICAL COMMITTEE ...............viii
+1.0 INTRODUCTION .......................................................................1
+1.1 Background of ECD Policy ..................................................................................... 1
+1.2 Declining status of child development in Kenya............................................... 1
+1.3 Importance of the early years of development................................................... 2
+1.4 Benefits of investing in the early years ............................................................... 2
+2.0 RATIONALE FOR THE COMPREHENSIVE POLICY FRAMEWORK 4
+3.0 IMPORTANCE OF A COMPREHENSIVE POLICY FRAMEWORK...5
+4.0 Principles of the Early Childhood Development (ECD) Policy
+Framework...............................................................................6
+4.1 Target groups............................................................................................................. 7
+5.0 Roles and responsibilities of partners in the provision of early
+childhood development services ..............................................7
+5.1 Parents and other caregivers ................................................................................. 7
+5.2 The Community......................................................................................................... 8
+5.3 Ministry of Education (MOE) ................................................................................. 8
+5.4 Ministry of Health (MOH)........................................................................................ 9
+5.5 Ministry of Home Affairs (MOHA).......................................................................... 9
+5.6 Ministry of Water (MOW)......................................................................................... 9
+5.7 Ministry of Planning and National Development (MOPND)............................ 9
+5.8 Ministry of Finance (MOF)...................................................................................... 9
+5.9 Ministry of Gender, Culture, Sports and Social Services (MOGCS&SS)... 10
+5.10 Ministry of Local Government (MOLG).............................................................. 10
+5.11 Office of the President (OP)................................................................................... 10
+5.12 State Law Office and Ministry of Justice and Constitutional Affairs......... 10
+5.13 Ministry of Agriculture (MOA).............................................................................. 11
+5.14 Ministry of Roads and Public Works, Ministry of Housing and Ministry of
+Information and Communications ..................................................................... 11
+5.15 Universities and research institutions .............................................................. 11
+5.16 NGOs, private sector and CBOs.......................................................................... 11
+5.17 Faith Based Organizations................................................................................... 11
+5.18 Bi-lateral and multilateral development partners .......................................... 12
+6.0 IMPLEMENTATION OF ECD POLICY FRAMEWORK .................12
+7.0 CONTEXT ..............................................................................13
+7.1 Kenya political and administrative systems .................................................... 13
+7.2 Education system ................................................................................................... 16
+7.3 Current health and nutrition status of children............................................. 17
+7.4 HIV and AIDS pandemic ....................................................................................... 20
+
+i
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
@@ -22,8 +65,22 @@ Early Childhood Development Policy Framework
 
 _________________________________________________________________________________________________________
 
-ii
+7.5 Child labour ............................................................................................................. 20
+7.6 Government policy supporting early childhood development service delivery
+..................................................................................................................................... 20
+7.7 Early childhood development systems for direct and indirect service delivery
+..................................................................................................................................... 21
+7.8 Subsystems .............................................................................................................. 24
+8.0 EARLY CHILDHOOD DEVELOPMENT POLICY FRAMEWORK ...25
+8.1 Vision statement..................................................................................................... 25
+8.2 Mission statements ................................................................................................ 25
+8.3 Goal............................................................................................................................ 25
+8.4 Objectives.................................................................................................................. 25
+8.5 Proposed System for Direct Service Delivery ................................................... 25
+9.0 CHALLENGES AND STRATEGIES ............................................27
+9.1 Policy Statements ................................................................................................... 27
 
+ii
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
@@ -89,7 +146,7 @@ MIS | - | Management of Information System
 MOA | - | Ministry of Agriculture
 MOE | - | Ministry of Education
 MOF | - | Ministry of Finance
-MOGCS&SS- | Ministry of Gender, Culture, Sports and Social Services
+MOGCS&SS | - | Ministry of Gender, Culture, Sports and Social Services
 MOH | - | Ministry of Health
 MOHA | - | Ministry of Home Affairs
 MOI&C | - | Ministry of Information and Communication
@@ -119,6 +176,8 @@ iv
 [[START OF PAGE 6]]
 
 Early Childhood Development Policy Framework
+
+_________________________________________________________________________________________________________
 
 UCI | - | Universal Child Immunization
 --- | --- | ---
@@ -189,95 +248,31 @@ ________________________________________________________________________________
 
 ## Members of the ECD Policy Technical Committee
 
-- Leah Rotich -
-
-MOE-ECD
-
-- Samuel Ngaruiya -
-
-MOE-ECD
-
-- Hellen Kimathi -
-
-KIE-NACECE
-
-- King'ara Kiragu -
-
-MOE-CICECE
-
-- Anne Njenga -
-
-Mwana Mwende Child Development Trust
-
-- Anne Njenga -
-
-MOE-DQAS
-
-- Susan Mutungi -
-
-MGCS&SS
-
-- Dr. Anne Wamae -
-
-MOH
-
-- Jane Omogi -
-
-MOE - KNATCOM
-
-- Dr. Barbara Koech -
-
-Kenyatta University
-
-- Livingstone Oruuko -
-
-Department of Children's Services
-
-- Nasra Hyder -
-
-State Law Office
-
-- Rosemary Ngaruro -
-
-MoH-Nutrition
-
-- Dr. Marianne Ndonga -
-
-MoH-Child Health
-
-- Susan Mburu -
-
-MOE/ECD
-
-- Lorna Adida -
-
-MOE/ECD
+1. Leah Rotich - MOE-ECD
+2. Samuel Ngaruiya - MOE-ECD
+3. Hellen Kimathi - KIE-NACECE
+4. King’ara Kiragu - MOE-CICECE
+5. Anne Njenga - Mwana Mwende Child Development Trust
+6. Anne Njenga - MOE-DQAS
+7. Susan Mutungi - MGCS&SS
+8. Dr. Anne Wamae - MOH
+9. Jane Omogi - MOE – KNATCOM
+10. Dr. Barbara Koech - Kenyatta University
+11. Livingstone Oruuko - Department of Children’s Services
+12. Nasra Hyder - State Law Office
+13. Rosemary Ngaruro - MoH-Nutrition
+14. Dr. Marianne Ndonga - MoH-Child Health
+15. Susan Mburu - MOE/ECD
+16. Lorna Adida - MOE/ECD
 
 The following officers represented their Ministries or Departments at some point:
 
-- Dr. Anne Wamae -
-
-MOH/Child Health
-
-- Peter Mwaura -
-
-MOE-School Infrastructure
-
-- Michael Karanja -
-
-KIE/ NACECE
-
-- Valerie Wambani -
-
-Ministry of Health
-
-- Alec Asutsa -
-
-MOE/Directorate of Policy and Planning
-
-- Francis Njenga -
-
-Ministry of Health
+1. Dr. Anne Wamae - MOH/Child Health
+2. Peter Mwaura - MOE-School Infrastructure
+3. Michael Karanja - KIE/ NACECE
+4. Valerie Wambani - Ministry of Health
+5. Alec Asutsa - MOE/Directorate of Policy and Planning
+6. Francis Njenga - Ministry of Health
 
 viii
 
@@ -345,11 +340,19 @@ Early Childhood Development Policy Framework
 
 _________________________________________________________________________________________________________
 
-(b) Enhanced enrolment in primary schools on equal grounds. Free primary  education  has  increased  the  potential  for  all  children  to attend  school.  However,  all  children  need  to  be  equally  'ready  to learn'  and  to  hence  maximize  their  opportunities  within  the  FPE; therefore,  the  aim  is to  have  100%  participation in  ECDE to  ensure an adequate foundation for education. Presently, there is low access to  pre-schools  (40%  nationally  and  in  some  districts  less  that  20%)
+(b) Enhanced enrolment in primary schools on equal grounds. Free primary education has increased the potential for all children to attend school. However, all children need to be equally “ready to learn” and to hence maximize their opportunities within the FPE; therefore, the aim is to have 100% participation in ECDE to ensure an adequate foundation for education. Presently, there is low access to pre-schools (40% nationally and in some districts less that 20%) necessitating increased support for this age sector.
 
-- necessitating increased support for this age sector. (c) Increase productivity. Parents will be supported adequately so that they are able to raise children who are healthy and who will grow up to  be  productive  and  to  contribute  effectively  to  their families, communities  and  the  nation. In addition, normally functioning children  will  be  able  to  appreciate  those  with  disabilities  and  treat them as equals, thus enhancing the status and potential of children with special needs. (d) Cost  savings  for  both  the  families  and  the  nation. Increased investments in this sub-sector will support parents so that they are able  to  provide  quality  care  for  their  children.  Quality  care  will translate into children being healthier. They will have fewer incidences of disease. They will also have better academic performance and fewer school dropouts and repetition as a result of having  been  exposed  to  stimulating  learning  experiences  both  at home  and  in  the  early  childhood  development  (ECD)  centres.  The money  saved  by  families  and  the  Government  in  health  care  and education services could be used in development programs. (Schwinhart and Weirlart, 1980). (e) Reduction of poverty. Quality early childhood development experiences contribute to more productive human resources because children who are exposed to such experiences have better success in school and hence they grow up to get better paying jobs when they enter the labour market. Such adults have higher living standards. (f) Reduction of social inequalities. Quality early childhood development  programs  help  children  with  special  needs  and  those from poor families to maximise their potential, minimize the progression of disabilities  and  get out  of  the  cycle  of  poverty.  When children with special needs and those from disadvantaged backgrounds are exposed to stimulating early childhood development experiences,  their  placement,  retention  and  academic  performance are  enhanced.  This  means  that  they  are more  likely to  enter  at  the right  time  and  complete  school  successfully,  get  better  paying  jobs and therefore live higher quality lives. (g) Improved  chances  for  the  girl  child .  Girls  who  enrol  in  early childhood development centres are more likely to proceed to primary school  and  higher  levels  of  formal  education.  This  is  because  their parents have been sensitised on the importance of formal education for  both  boys  and  girls  through  parental  and  community  education programs. Increased  investment
+(c) Increase productivity. Parents will be supported adequately so that they are able to raise children who are healthy and who will grow up to be productive and to contribute effectively to their families, communities and the nation. In addition, normally functioning children will be able to appreciate those with disabilities and treat them as equals, thus enhancing the status and potential of children with special needs.
 
-(h) Improved  moral  values  in  the  community. during  this  period  will  support  parents  so  that  they  are  able  to inculcate  values and  morals in  their  children.  The  window  of  moral and  values  training  is  open  during  the  early  years.  Such  children
+(d) Cost savings for both the families and the nation. Increased investments in this sub-sector will support parents so that they are able to provide quality care for their children. Quality care will translate into children being healthier. They will have fewer incidences of disease. They will also have better academic performance and fewer school dropouts and repetition as a result of having been exposed to stimulating learning experiences both at home and in the early childhood development (ECD) centres. The money saved by families and the Government in health care and education services could be used in development programs. (Schwinhart and Weirlart, 1980).
+
+(e) Reduction of poverty. Quality early childhood development experiences contribute to more productive human resources because children who are exposed to such experiences have better success in school and hence they grow up to get better paying jobs when they enter the labour market. Such adults have higher living standards.
+
+(f) Reduction of social inequalities. Quality early childhood development programs help children with special needs and those from poor families to maximise their potential, minimize the progression of disabilities and get out of the cycle of poverty. When children with special needs and those from disadvantaged backgrounds are exposed to stimulating early childhood development experiences, their placement, retention and academic performance are enhanced. This means that they are more likely to enter at the right time and complete school successfully, get better paying jobs and therefore live higher quality lives.
+
+(g) Improved chances for the girl child. Girls who enrol in early childhood development centres are more likely to proceed to primary school and higher levels of formal education. This is because their parents have been sensitised on the importance of formal education for both boys and girls through parental and community education programs.
+
+(h) Improved moral values in the community. Increased investment during this period will support parents so that they are able to inculcate values and morals in their children. The window of moral and values training is open during the early years. Such children
 
 3
 
@@ -391,7 +394,7 @@ Government  of  Kenya  (GOK)  has  emphasized  the  importance  of partnership i
 
 ## 3.0 Importance of a comprehensive policy framework
 
-(a) To  regulate  the  provision  of  services  for  infants  and  children,  there are a number of sector-based policies targeting this age group. There are also many areas which are either functioning without any policy or where the policy is not stated but assumed. Although these sectorbased  policies  play  a  crucial  role  in  guiding  service  provision  for infants  and  children,  it  is  essential  to  have  a  comprehensive  policy framework  to  provide  broad  guidelines  for  the  coordination  and harmonization of quality services across sectors.
+(a) To  regulate  the  provision  of  services  for  infants  and  children,  there are a number of sector-based policies targeting this age group. There are also many areas which are either functioning without any policy or where the policy is not stated but assumed. Although these sector-based  policies  play  a  crucial  role  in  guiding  service  provision  for infants  and  children,  it  is  essential  to  have  a  comprehensive  policy framework  to  provide  broad  guidelines  for  the  coordination  and harmonization of quality services across sectors.
 
 (b) There is need to develop a policy framework to guide the activities of the various partners in the provision of services for young children. A policy framework is the most important instrument for advocacy, for ensuring  provision  of  quality  services  and  for  harnessing  resources and  other  support  for  young  children.  When  legalized,  a  policy framework  becomes  the  legal  instrument  that  all  those  providing services  for  young  children  must  adhere  to.  In  addition,  the  policy framework guides the Government in its commitment of resources to programmes  for  young  children.  A  policy  framework  is  therefore extremely  important  for  addressing  the  total  well-being  of  young children.
 
@@ -833,13 +836,13 @@ effective  and  equitable  access  to  quality  early  childhood  development se
 
 (a) Location :  The  Republic  of  Kenya  straddles  the  Equator  in  East Africa. It has an area of 582,646 sq km, of which 13,396 sq. km is water and 569,250 sq. km is land. It is bordered by Tanzania to the south,  Uganda  to  the  west,  Sudan  and  Ethiopia  to  the  north  and Somalia  to  the  east.  The  southeast  coastline  on  the  Indian  Ocean has several natural harbors giving Kenya an economic advantage.
 
-(b) Land productivity and population distribution : In terms of rainfall distribution,  land  use  and  productivity,  Kenya  is  divided  into  four major  regions: 1) high potential;  2)  medium  potential;  3)  low potential;  and  4)  semi-arid  and  arid  regions.  Population  density  is highly skewed with about 80% of the population concentrated in the 17% of the land area comprising the high, medium and low potential regions.  Thus,  only  20%  of  the  population  is  sparsely  scattered  in the semi-arid or arid region which makes up 83% of the land area. For example, the population density is as high as 230 persons in the high potential areas and as low as 3 persons per sq. km in the semiarid or arid areas (Poverty Reduction Strategy Paper for Period 20012004, Vol.1, 2001).
+(b) Land productivity and population distribution : In terms of rainfall distribution,  land  use  and  productivity,  Kenya  is  divided  into  four major  regions: 1) high potential;  2)  medium  potential;  3)  low potential;  and  4)  semi-arid  and  arid  regions.  Population  density  is highly skewed with about 80% of the population concentrated in the 17% of the land area comprising the high, medium and low potential regions.  Thus,  only  20%  of  the  population  is  sparsely  scattered  in the semi-arid or arid region which makes up 83% of the land area. For example, the population density is as high as 230 persons in the high potential areas and as low as 3 persons per sq. km in the semi-arid or arid areas (Poverty Reduction Strategy Paper for Period 2001-2004, Vol.1, 2001).
 
 (c) In the densely populated areas social services are overstretched, while  in  semi-arid  and  arid  areas  where  population  densities  are extremely low and sparsely distributed it is very difficult to provide the  same  services.  The  problem  of  service  provision  in  the  latter areas is compounded by the fact that the inhabitants are nomadic pastoralists.
 
 (d) Decentralization  policy :  Adopted  in  1982,  the  decentralization policy is implemented in Kenya through the District Focus for Rural Development (DFRD). The District Commissioners (DCs) are responsible for implementing all Government development programs and handling the related funding from the district to the grassroots level.  The  Development  Committees, set up at the district, division and location levels, not only implement  programs identified  by the Government but also spearhead similar programs and recommend them to the Government for financial and technical support.
 
-(e) Economic  development: During  the  post-independence  era,  the average economic growth rate in Kenya declined from 6.6% in 197479  to  4%  in  1980-89  and  2.4%  in  1990-2000.  Since  1980  this decline in economic performance has been accompanied by declining investment levels. In addition, the economy has been devastated in recent years by declining world market prices. The Kenyan economy shrank  by  0.3%  in  2000,  the  first  year  of  negative  growth  since
+(e) Economic  development: During  the  post-independence  era,  the average economic growth rate in Kenya declined from 6.6% in 1974-79  to  4%  in  1980-89  and  2.4%  in  1990-2000.  Since  1980  this decline in economic performance has been accompanied by declining investment levels. In addition, the economy has been devastated in recent years by declining world market prices. The Kenyan economy shrank  by  0.3%  in  2000,  the  first  year  of  negative  growth  since
 
 13
 
@@ -851,7 +854,7 @@ Early Childhood Development Policy Framework
 
 _________________________________________________________________________________________________________
 
-- independence (Poverty Reduction Strategy Paper for the Period 20012004. Vol. 1. 2001).  However, between 2001 and 2002, GDP grew by 1%, and currently, the rate of growth is estimated at 5%.
+independence (Poverty Reduction Strategy Paper for the Period 2001-2004. Vol. 1. 2001). However, between 2001 and 2002, GDP grew by 1%, and currently, the rate of growth is estimated at 5%.
 
 (f) Kenya showed a GDP gross national income per capita of  $1,010 in  2002,  which  is  below  the  average  of  low-income  countries  and that  of  sub-Saharan  Africa.  According  to  the  Economic  Survey (2004), the GDP per capita income showed insignificant growth, from $271 in 1999 to $376 in 2003.
 
@@ -859,7 +862,9 @@ ________________________________________________________________________________
 
 (h) The PRSP states that three-quarters of the poor live in rural areas. Nearly  half  of  Nairobi's  poor  live  in  urban  slums.  Table  1.1  shows disaggregated  poverty  data  by  province  and  towns.  The  causes  of poverty include low agricultural productivity, insecurity, unemployment,  low  wages,  bad  governance,  shortage of land, inadequate  and  poor  infrastructure,  HIV/AIDS,  gender  imbalance and the high cost of social services including education and health. Recent reforms such as economic liberalization, market competition, private  and  public  sector  reform  and  labor  retrenchment  have worsened the situation.
 
-% of overall poverty
+Table 1.1: Regional differentials in the incidence of poverty
+
+ | % of overall poverty |  | 
 --- | --- | --- | ---
 Rural areas | 1992 | 1994 | 1997
 Central | 36 | 32 | 31
@@ -870,8 +875,6 @@ Rift Valley | 51 | 43 | 50
 Western | 55 | 54 | 59
 North Eastern | - | 58 | -
 Total Rural | 48 | 47 | 53
-
-Table 1.1: Regional differentials in the incidence of poverty
 
 > 1 Central Bureau of Statistics, 2004. Economic Survey. Nairobi: Ministry of Planning and National Development, Kenya.
 
@@ -897,21 +900,21 @@ Total Kenya | 45 | 40 | 52
 
 Reference: Interim Poverty Reduction Strategy Paper 2000-2003. (2000).
 
-(i) Female labor force: Women's participation in the labor market has increased as more women acquire higher education. The number of wage-earning  women  rose  from  503,400  in  2002  to  511,000  in 2003; however, only  25% of women  are engaged in formal employment  compared  with  some  40%  for  men 2 .  The  growing involvement  of  women  in  paid  employment  has  increased  the demand for ECDE services.
+(i) Female labor force: Women’s participation in the labor market has increased as more women acquire higher education. The number of wage-earning women rose from 503,400 in 2002 to 511,000 in 2003; however, only 25% of women are engaged in formal employment compared with some 40% for men². The growing involvement of women in paid employment has increased the demand for ECDE services.
 
-(j) Population  size: Kenya's  population  was  30.2  million  in  2000, comprising  14.7 million (49%) males  and  15.5  million  (51%) females. [See  Table 1.2.] Children under 15 years of age made up 44% of the population and 52% were aged 15 to 64 years, and those from birth to the age for entering primary school (0+-5+) constituted approximately 20% of the population 3
-
-(k) The average life expectancy in Kenya has declined significantly in recent years. In 2004 it was said to be 45 years of age, far below the world average of 65 years. Life expectancy for men in Kenya is 44 years  while  for  women  it  is  46  years.  However,  according  to  the Kenya  Demographic  and  Health  Survey  (KDHS)  in  2003,  the mortality  of  younger  women  between  ages  15-34  years  is  higher than that of men, most likely due to the HIV/AIDS pandemic.
-
-1993 | 1999 | 2000
---- | --- | --- | --- | ---
-Population | Male | 12.9 | 14.3 | 14.7
-(millions) | Female | 13.1 | 15.1 | 15.5
-Fertility rate (children per | 5.4 | 4.7 | 3.99
+(j) Population size: Kenya’s population was 30.2 million in 2000, comprising 14.7 million (49%) males and 15.5 million (51%) females. [See Table 1.2.] Children under 15 years of age made up 44% of the population and 52% were aged 15 to 64 years, and those from birth to the age for entering primary school (0+-5+) constituted approximately 20% of the population³
 
 Table 1.2: Trends in population and fertility rate
 
+ |  | 1993 | 1999 | 2000
+--- | --- | --- | --- | ---
+Population (millions) | Male | 12.9 | 14.3 | 14.7
+ | Female | 13.1 | 15.1 | 15.5
+Fertility rate (children per mother) |  | 5.4 | 4.7 | 3.99
+
 Reference: Central Bureau of Statistics. (2001).
+
+(k) The average life expectancy in Kenya has declined significantly in recent years. In 2004 it was said to be 45 years of age, far below the world average of 65 years. Life expectancy for men in Kenya is 44 years while for women it is 46 years. However, according to the Kenya Demographic and Health Survey (KDHS) in 2003, the mortality of younger women between ages 15-34 years is higher than that of men, most likely due to the HIV/AIDS pandemic.
 
 > 2 Central Bureau of Statistics, 2004. Economic Survey. Nairobi: Ministry of Planning and National Development, Kenya.
 
@@ -987,120 +990,76 @@ ________________________________________________________________________________
 
 Figure 1.1 Infant mortality rates in East African countries, 1990 and 2004
 
-0
-
-20
-
-40
-
-60
-
-80
-
-100
-
-120
-
-140
+INFANT MORTALITY (1990 and 2004)
 
 Morality Rates
 
+0
+20
+40
+60
+80
+100
+120
+140
+
 Uganda
-
 Sudan
-
 Eritrea
-
 Ethiopia
-
 Tanzania
-
 Kenya
 
 Selected East African Countries
 
-INFANT MORTALITY (1990 and 2004)
-
 Infant mortality rate (under 1) (1990) I-3 I-2
-
 Infant mortality rate (under 1) (2004) I-3 I-2
 
 [Reference: www.unicef.org/sowc06/statistics.php]
 
 Figure 1.2 Under-5 mortality rates in East African countries, 1990 and 2004
 
-0
-
-50
-
-100
-
-150
-
-200
-
-250
+UNDER-5 MORTALITY RATES (1990 and 2004)
 
 Deaths per
-
 1000 Live
-
 Births
 
+0
+50
+100
+150
+200
+250
+
 Uganda
-
 Sudan
-
 Eritrea
-
 Ethiopia
-
 Tanzania
-
 Kenya
 
 East African Countries
 
-UNDER-5 MORTALITY RATES (1990 and 2004)
-
 Under-5 mortality rate (1990) I-1 I-2
-
 Under-5 mortality rate (2004) I-1 I-2
 
 [Reference: www.unicef.org/sowc06/statistics.php]
 
 Figure 1.3 Comparative mortality rates: Least developed countries and Kenya, 1990 and 2004
 
-0
-
-50
-
-100
-
-150
-
-200
-
-Infant
-
-mortality
-
-rate
-
-(under 1 yr)
-
-Under-5
-
-mortality
-
-rate
-
-(2004)
-
 COMPARATIVE MORTALITY RATES
 
-Least Developed Countries
+0
+50
+100
+150
+200
 
+Infant mortality rate (under 1 yr)
+Under-5 mortality rate (2004)
+
+Least Developed Countries
 Kenya
 
 [Reference: www.unicef.org/sowc06/statistics.php]
@@ -1115,65 +1074,44 @@ Early Childhood Development Policy Framework
 
 _________________________________________________________________________________________________________
 
-(c) The problem of infant and child mortality is not distributed equally across the  provinces. As Figure 1.4 below shows, in 2003 Nyanza Province had the highest infant and under-five mortality rates yet it had the highest increase in medical facilities and services.
-
-(d) The four major childhood diseases responsible for the high childhood mortality rate are malaria, acute lower respiratory infections, diarrhoea, dehydration and measles. HIV/AIDS is also a major contributor  to  early  child  mortality.  Other  contributing  factors  include poor hygienic conditions, lack of access to safe drinking water, lack of exclusive  breastfeeding,  inadequate  cleaning  of  bottle  teats,  and  overdiluted-milks (KDHS, 2003).
-
-(e)    As of 1999, 40% of Kenyan children below 5 years of age were iron deficient.  About  73%  of  Kenyan  children  under  5  years  of  age  also suffered  from  anaemia 10 .  The  time  spent  by  mothers  away  from  their babies due to wage or self-employment, collecting water and looking for food,  limits  the  time  they  spend  caring  for  their  children,  hence  an increase in children's vulnerability to disease and malnutrition.
-
-(f) Stunting  occurs  especially  in  the  drought-prone  areas  of  Kenya's arid and semi-arid region. In 2001, 35% of children were considered to be  moderately  stunted  compared  to  33%  in  1998.  About  15%  were severely stunted in 1998. About 30% of the children under five are too stunted, meaning they have chronic malnutrition. Almost 6% are wasted which is  a  sign  of  severe  malnutrition.  Overall,  one  in  five  children  is under weight. Malnutrition is higher in rural areas and among families of lower economic status. There are, however, regional disparities, with a 41% stunting rate in the Eastern Province, 38% in the Western Province, 37.5%  in  the  Rift  Valley  and  29%,  the  lowest,  in  the  Central  Province (Multiple Indicator Cluster Survey 2001, KDHS, 2003).
-
-(g)       Immunization  coverage  has  made  the  most  significant  gains  over the years. In 1989 for example, the coverage was only 51%. By 1990 this
+(c) The problem of infant and child mortality is not distributed equally across the provinces. As Figure 1.4 below shows, in 2003 Nyanza Province had the highest infant and under-five mortality rates yet it had the highest increase in medical facilities and services.
 
 Figure 1.4 Comparative early childhood development mortality rate by province
 
-0
-
-50
-
-100
-
-150
-
-200
-
-250
+Early Childhood Mortality Rate By Province
 
 Mortality Rate
 
-Infant mortality
+0
+50
+100
+150
+200
+250
 
-rate (under 1)
+Infant mortality rate (under 1) (2003)
+Under-5 mortality rate (2003)
 
-(2003)
-
-Under-5 mortality
-
-rate (2003
-
-Mortality Rates for Each
-
-Province
-
-Early Childhood Mortality Rate By Province
+Mortality Rates for Each Province
 
 Nairobi
-
 Central
-
 Coast
-
 Eastern
-
 Nyanza
-
 Rift Valley
-
 Western
-
 North Eastern
 
 [Reference: Kenya Demographic Health Survey, 2003]
+
+(d) The four major childhood diseases responsible for the high childhood mortality rate are malaria, acute lower respiratory infections, diarrhoea, dehydration and measles. HIV/AIDS is also a major contributor to early child mortality. Other contributing factors include poor hygienic conditions, lack of access to safe drinking water, lack of exclusive breastfeeding, inadequate cleaning of bottle teats, and over-diluted-milks (KDHS, 2003).
+
+(e) As of 1999, 40% of Kenyan children below 5 years of age were iron deficient. About 73% of Kenyan children under 5 years of age also suffered from anaemia¹⁰. The time spent by mothers away from their babies due to wage or self-employment, collecting water and looking for food, limits the time they spend caring for their children, hence an increase in children’s vulnerability to disease and malnutrition.
+
+(f) Stunting occurs especially in the drought-prone areas of Kenya’s arid and semi-arid region. In 2001, 35% of children were considered to be moderately stunted compared to 33% in 1998. About 15% were severely stunted in 1998. About 30% of the children under five are too stunted, meaning they have chronic malnutrition. Almost 6% are wasted which is a sign of severe malnutrition. Overall, one in five children is under weight. Malnutrition is higher in rural areas and among families of lower economic status. There are, however, regional disparities, with a 41% stunting rate in the Eastern Province, 38% in the Western Province, 37.5% in the Rift Valley and 29%, the lowest, in the Central Province (Multiple Indicator Cluster Survey 2001, KDHS, 2003).
+
+(g) Immunization coverage has made the most significant gains over the years. In 1989 for example, the coverage was only 51%. By 1990 this
 
 > 10 National Survey on Iron, Vitamin A and Zinc 1999.
 
@@ -1191,7 +1129,7 @@ had  risen  to  71.2%  which  was  very  close  to  the  Universal  Child Immuni
 
 ### 7.4 HIV and AIDS pandemic
 
-The HIV/AIDS pandemic has been on the rise, with a large a number of the infected  population  (80  to  90%)  being  between  15  to  49  years.  This  is  a national  disaster  as  this  age  cohort  forms  the  backbone  of  the  country's economy  in  terms  of  economic  productivity  and  child  bearing.  Of  those infected, 10% are children aged 5 years and below (GOK/UNICEF 1997). Of the children infected, 1/3 rd  die before they celebrate their first birthday, the other 1/3 rd  between 1 to 3 years of age and the rest between 3-15 years of age (HIV/AIDS in Kenya, 2002). There were over 1.1 million AIDS orphans in Kenya in 2001. Of all orphans in Kenya, 80%  are AIDS orphans. These were projected to rise to 1.2 million in 2005 (GOK/UNICEF 1997).
+The HIV/AIDS pandemic has been on the rise, with a large a number of the infected population (80 to 90%) being between 15 to 49 years. This is a national disaster as this age cohort forms the backbone of the country’s economy in terms of economic productivity and child bearing. Of those infected, 10% are children aged 5 years and below (GOK/UNICEF 1997). Of the children infected, 1/3rd die before they celebrate their first birthday, the other 1/3rd between 1 to 3 years of age and the rest between 3-15 years of age (HIV/AIDS in Kenya, 2002). There were over 1.1 million AIDS orphans in Kenya in 2001. Of all orphans in Kenya, 80% are AIDS orphans. These were projected to rise to 1.2 million in 2005 (GOK/UNICEF 1997).
 
 ### 7.5 Child labour
 
@@ -1239,295 +1177,144 @@ Early Childhood Development Policy Framework
 
 _________________________________________________________________________________________________________
 
-Figure 1.5 Early  childhood  development  Delivery  System  for  Direct Services for All Children
+Figure 1.5 Early childhood development Delivery System for Direct Services for All Children
 
-ECDE
+Age (yrs)
+8
+7
+6
+5
+4
+3
+2
+1
+0
+(Conception)
 
 Approach
 
-Service
-
-Workforce        Lead
-
-Supporting
-
-Providers
-
-Delivery Points
-
-Ministry
-
-Ministries
-
-Age (yrs)
-
-8
-
-7
-
-6     --------------------------------------------------------------------------------------------------------------------------------------
-
-5
-
-4
-
-3
-
-2
-
-1
-
-0
-
-(Conceptio
-
-n)
-
-KEY:     MOHA
-
-MOE
-
-MOH
+Primary Education
+School Health
+Ensuring Children’s Rights
 
 IMCI
-
 Clinical IMCI
-
-Community
-
-IMCI
-
+Community IMCI
 ITN
-
--ECDE Centres
-
--Madrassa
-
--Koranic schools
-
--Duksi
-
-MOE,
-
-MOLG
-
-MOH
-
-Teachers
-
-CORPS
-
-Health
-
-Workers
-
-Caregivers
 
 ECDE
 
-Primary
+Provision of Care
+Ensuring Children’s Rights
 
-Education
+Repro. Health
+Safe Motherhood
 
--Primary
+Service Delivery Points
 
-Schools,
-
--Community
-
-Centres,
-
+-Primary Schools,
+-Community Centres,
 -Households,
+-Children’s Homes
+-Children’s Courts
 
--Children
+-Health Centres
+-ECDE Centres
+-Children’s Homes
+-Prisons,
+-Households
 
-¶
+-ECDE Centres
+-Madrassa
+-Koranic schools
+-Duksi
 
-s
+Children’s Homes
+Day Care Centres
 
-Homes
+-Children’s Courts
+-Households
 
--Children
+-Health Centres
 
-¶
+Workforce
 
-s
+Teachers
+CORPS
+Chiefs, Police,
+Social Workers
 
-Courts
+CORPS
+Health Workers
+Caregivers
+ECDE
 
 Teachers
 
-MOE
-
-MOHA
-
-,
-
-MOLG
-
-MOGSCSS,
-
-MOL
-
-MOF, MOPND,
-
-OP, AGC
-
-MOA, MOW
-
-MOLG
-
-MOGSCSS,
-
-MOL
-
-MOF, MOPND,
-
-OP, AGC
-
-MOA, MOW
-
--Public
-
-sector
-
--Non-public
-
-sector,
-
--Families,
-
--Communi-
-
-ties,
-
--NGOs,
-
--Faith-based
-
-Orgs,
-
--Enterprises,
-
--Individuals
-
-School Health
-
-CORPS
-
-MOH
-
--Health Centres
-
--ECDE Centres
-
--Children
-
-¶
-
-s Homes
-
--Prisons,
-
--Households
-
-MOHA
-
-MOLG
-
-MOHA
-
--Public sector
-
--Non-public
-
-sector,
-
--Families,
-
--Communi-
-
-ties,
-
--NGOs,
-
--Faith-based
-
-Orgs,
-
--Enterprises,
-
--Individuals
-
-Ensuring Children
-
-¶
-
-s
-
-Rights
-
-Ensuring
-
-Children
-
-¶
-
-s Rights
-
-Repro. Health
-
-Safe
-
-Motherhood
-
--Health Centres
-
--Children
-
-¶
-
-s Courts
-
--Households
-
 -Caregivers
-
 -Administrators
+-Social Workers
+-Children’s Officers
 
--Social
-
-Workers
-
--Children
-
-¶
-
-s
-
-Officers
-
--Health
-
-workers
-
+-Health workers
 -CORPS
 
+Lead Ministry
+
+MOE
+MOH
+MOHA
+
 MOH
 
-Chiefs, Police,
+MOE,
+MOLG
 
-Social Workers
+MOHA
+MOLG
 
-Provision of Care
+MOH
 
-Children
+Supporting Ministries
 
-¶
+MOHA, MOLG
+MOGSCSS,
+MOL
+MOF, MOPND,
+OP, AGC
+MOA, MOW
 
-s Homes
+MOLG
+MOGSCSS,
+MOL
+MOF, MOPND,
+OP, AGC
+MOA, MOW
 
-Day Care Centres
+Providers
+
+-Public sector
+-Non-public sector,
+-Families,
+-Communities,
+-NGOs,
+-Faith-based Orgs,
+-Enterprises,
+-Individuals
+
+-Public sector
+-Non-public sector,
+-Families,
+-Communities,
+-NGOs,
+-Faith-based Orgs,
+-Enterprises,
+-Individuals
+
+KEY:
+MOHA
+MOE
+MOH
 
 22
 
@@ -1539,249 +1326,118 @@ Early Childhood Development Policy Framework
 
 _________________________________________________________________________________________________________
 
-Figure  1.6        Early  childhood  development  Delivery  System  for  Indirect Services for All Children
-
-Community
-
-Empowerment/
-
-Mobilisation,
-
-Parent Educ.
-
-Infrastructure,
-
-Transportation
+Figure 1.6 Early childhood development Delivery System for Indirect Services for All Children
 
 Age (yrs)
+8
+7
+6
+5
+4
+3
+2
+1
+(Conception)
 
 Approach
 
-Service
+Curriculum development for ECDE, Parent / Comm. Educ.
 
-Workforce     Lead Ministry/Institutions
+Training at all levels in all sectors
 
-Delivery Points
+Registration & Licensing
 
-8
-
-7
-
-6
-
-5
-
-4
-
-3
-
-2
-
-1
-
-(Conception)
+Community Empowerment/Mobilisation, Parent Educ.
 
 Quality Assurance
 
--MOE & Other relevant Gov.
+Research, Data Collection, Projection of Services Needed
 
-Offices
+Advocacy
 
-MOGCSSS, MOE, MOH,
+Materials, Drugs, Equipment
 
-Faith Based Org., NGOs,
+Infrastructure, Transportation
 
-CBOs,
+Service Delivery Points
 
-MOE, MOH, MOHA,
+KIE, MTCs, DSS, Universities, Faith-based Org., NGOs
 
-MOGCSSS, Public and
+NACECE/DICECE, MTCs, Universities/Colleges, Available Community Centres, Faith Based Org., NGOs
 
-Private Sector, Faith-Based,
+-MOE & Other relevant Gov. Offices
 
-CBS, MGCSSS
+-Community Centres
+-ECDE / Health Centres
+-Barazas
+-Households
+
+At Site (institutional)
+Relevant Govt. Offices
+
+KIE, MOE, DICECE, Universities, ECDE Centres, Communities, Relevant Govt. Offices
+
+MOE, KIE (NACECE), DICECE, 3rd Channel, Media
+
+MOH, MOE, KIE, Universities, ECDE Centres, Communities, Relevant Govt. Offices
+
+All Govt. Ministries, Communities, NGOs, Faith Based Org.
+
+Workforce
+
+Lecturers,
+NACECE,
+
+Lecturers,
+NACECE
+
+Clerks,
+Officers
 
 DFTs, PACE
-
 DICECE,
-
 PHTs, CDOs,
-
 Nutritionists
 
 QASO
 
-Curriculum
-
-development for
-
-ECDE, Parent /
-
-Comm. Educ.
-
-KIE, MTCs, DSS,
-
-Universities, Faith-based
-
-Org., NGOs
-
-Lecturers,
-
-NACECE,
-
-At Site (institutional)
-
-Relevant Govt. .Offices
-
--Community Centres
-
--ECDE / Health Centres
-
--Barazas
-
--Households
-
-Registration &
-
-Licensing
-
-Lecturers,
-
-NACECE
-
-MOE, MOH, MOHA, OP,
-
-MOGCSSS
-
-Public Sector, MOPND, MOE,
-
-MOH, MOA, MOW, NGOs,
-
-MOE, MOH, Public Sector,
-
-MOGCSSS, Private Sector/
-
-Faith- Based Org.,
-
-Enterprises, Individuals
-
-Training at all
-
-levels in all
-
-sectors
-
-Research,
-
-Data Collection,
-
-Projection of
-
-Services Needed
-
-Materials, Drugs,
-
-Equipment
-
-All Govt. Ministries,
-
-Communities, NGOs, Faith
-
-Based Org.
-
-Advocacy
-
 DICECE,
-
 NACECE, Univ.
-
 Lecturers, CBS,
+NGOs
 
+NACECE, DICECE,
+PHTs, Children’s Officer,
+NGOs, Faith Based Org.
+
+MOH, MOE,
+DICECE,
+NACECE, Univ.
+Lecturers, CBS,
 NGOs
 
 Govt. Personnel,
-
 Officers
 
-MOH, MOE, KIE, Universities,
-
-ECDE Centres, Communities,
-
-Relevant Govt. Offices
-
-MOH, MOE,
-
-DICECE,
-
-NACECE, Univ.
-
-Lecturers, CBS,
-
-NGOs
-
-MOE. MOH, MOLG, NGOs,
-
-Faith-based Org., Private Sector,
-
-Communities
-
-MOE. MOH, MOHA, MOGCSSS,
-
-NGOs, Faith-based Org., Private
-
-Sector, Communities
-
-Clerks,
-
-Officers
-
-MOE, KIE, MOH,
-
-MOHA, MOL,
-
-MOGCSSS, SLA,
-
-Universities, NGOs,
-
-NACECE, DICECE,
-
-PHTs, Children
-
-¶
-
-s Officer,
-
-NGOs, Faith Based Org.
-
-NACECE/ DICECE,  MTCs,
-
-Universities/ Colleges,
-
-Available Community Centres
-
-Faith Based Org.
-
-Org., NGOs
-
-MOE,KIE ( NACECE),
-
-DICECE,
-
-3
-
-rd
-
-Channel, Media
-
-KIE, MOE, DICECE,
-
-Universities, ECDE
-
-Centres, Communities
-
-Relevant Govt. Offices
+Lead Ministry/Institutions
 
 MOE/KIE
+
+MOE, MOH, Public Sector, MOGCSSS, Private Sector/Faith-Based Org., Enterprises, Individuals
+
+MOE, MOH, MOHA, OP, MOGCSSS
+
+MOGCSSS, MOE, MOH, Faith Based Org., NGOs, CBOs,
+
+MOE, MOH, MOHA, MOGCSSS, Public and Private Sector, Faith-Based, CBS, MGCSSS
+
+Public Sector, MOPND, MOE, MOH, MOA, MOW, NGOs,
+
+MOE, KIE, MOH, MOHA, MOL, MOGCSSS, SLA, Universities, NGOs,
+
+MOE, MOH, MOLG, NGOs, Faith-based Org., Private Sector, Communities
+
+MOE, MOH, MOHA, MOGCSSS, NGOs, Faith-based Org., Private Sector, Communities
 
 23
 
@@ -1797,33 +1453,29 @@ ________________________________________________________________________________
 
 Within  the  systems  that  provide  and  support  the  Early  childhood  development  services there are subsystems that must be enumerated. Within the implementation of the sector policies for the provision of early childhood development service, these subsystems require resources and must be guided by quality standards and guidelines. Various partners use different  categorizations  of  these  subsystems  as  reflected  in  their  policy  statements  and strategic plans 11 . These have been consolidated and amalgamated within this comprehensive Early Childhood Development Policy Framework.
 
-SUBSYSTEMS
---- | --- | --- | --- | ---
-SECTORAL SUBSYSTEMS | COMPREHENSIVE ECD
-Ministry of Education | Ministry of Gender, Sports Culture & Social Services | Ministry of Health | Ministry of Home Affairs | POLICY FRAMEWORK
-Registration | Registration | Human Resources
-Training | Training | Human Resource Management & Development | Human Resource Management & Development | (Development/ Training, Recruitment & Management, Performance Based Contracts)
-Pedagogy | Pedagogy
-Staffing | Staffing
-Quality Assurance and Standards | Quality Assurance and Standards | Standards and Quality Assurance | Standards and Quality Assurance | Standards and Quality Assurance
-Monitoring and Evaluation | Monitoring and Evaluation | Monitoring & Evaluation | Monitoring & Evaluation | Research, Monitoring, Evaluation &
-Research and Documentation | Research & documentation | Documentation
-Financing | Financing | Financial Management | Financial Management | Financial Management (Sourcing, Allocation and Accounting)
-Administration | Administration | Health Planning | Resource Planning (Projections, Strategic Plans, Work Plans)
-Infrastructure | Interface between Services and Community | Interface (Relationships, Process and Infrastructure) between partners, community and services
-Commodity Supply and Management | Sourcing, Supply, Distribution and
-Investment and Maintenance (infrastructure, equipment, transport) | Management of Equipment, Other Materials, Physical Facilities, and Transportation
-Communication (ICT) | Communication Systems/ICT | Communication (Channels, Modes, Third Channel)/ICT
-
 Table 1.3 Selected sectoral subsystems and comprehensive policy subsystems
+
+SUBSYSTEMS
+
+SECTORAL SUBSYSTEMS |  |  |  | COMPREHENSIVE ECD POLICY FRAMEWORK
+Ministry of Education | Ministry of Gender, Sports Culture & Social Services | Ministry of Health | Ministry of Home Affairs | 
+Registration | Registration |  |  | Human Resources (Development/ Training, Recruitment & Management, Performance Based Contracts)
+Training | Training | Human Resource Management & Development | Human Resource Management & Development | 
+Pedagogy | Pedagogy |  |  | 
+Staffing | Staffing |  |  | 
+Quality Assurance and Standards | Quality Assurance and Standards | Standards and Quality Assurance | Standards and Quality Assurance | Standards and Quality Assurance
+Monitoring and Evaluation | Monitoring and Evaluation | Monitoring & Evaluation | Monitoring & Evaluation | Research, Monitoring, Evaluation & Documentation
+Research and Documentation |  |  | Research & documentation | 
+Financing | Financing | Financial Management | Financial Management | Financial Management (Sourcing, Allocation and Accounting)
+Administration | Administration | Health Planning |  | Resource Planning (Projections, Strategic Plans, Work Plans)
+Infrastructure |  | Interface between Services and Community |  | Interface (Relationships, Process and Infrastructure) between partners, community and services
+ |  | Commodity Supply and Management |  | Sourcing, Supply, Distribution and Management of Equipment, Other Materials, Physical Facilities, and Transportation
+ |  | Investment and Maintenance (infrastructure, equipment, transport) |  | 
+Communication (ICT) |  | Communication Systems/ICT |  | Communication (Channels, Modes, Third Channel)/ICT
 
 Reference: Ministry of Health. The Second National Health Sector Strategic Plan of Kenya NHSSP II 2005-10. Reversing the trends. Draft (May 2005); Ministry of Education Policy Framework on ECD: A Discussion Paper (April 2005).
 
-> 11 Ministry of Health. The Second National Health Sector Strategic Plan of Kenya NHSSP II 2005-
-
-> Reversing the trends. Draft. May 2005; Ministry of Education Policy Framework on ECD:
-
-> 10 A Discussion Paper. April 2005
+> 11 Ministry of Health. The Second National Health Sector Strategic Plan of Kenya NHSSP II 2005-10Reversing the trends. Draft. May 2005; Ministry of Education Policy Framework on ECD: A Discussion Paper. April 2005
 
 24
 
@@ -1879,179 +1531,52 @@ Early Childhood Development Policy Framework
 
 _________________________________________________________________________________________________________
 
-PROPOSED SYSTEM FOR COORDINATED DIRECT SERVICE PROVISION  IN  THE  EARLY  CHILDHOOD  DEVELOPMENT  POLICY FRAMEWORK
+PROPOSED SYSTEM FOR COORDINATED DIRECT SERVICE PROVISION IN THE EARLY CHILDHOOD DEVELOPMENT POLICY FRAMEWORK
 
-THROUGH
+OVERALL RESPONSIBILITY
 
-DISTRICT SOCIAL DEVELOPMENT STUCTURES
+COORDINATING MINISTRY
+DONORS
+National Council For Children’s Services
+National Committee on ECD
 
-OR
+OVERALL PLANNING OFFICES
 
-OTHER STRUCTURES
+Overall Policy & Planning
+Overall QAS & Services Guidelines
+Overall Assessment (M&E)
+Overall Liaising/Coordination
 
-Min. of
+DIRECT SERVICES MINISTRIES & OTHER SERVICE PROVIDERS
 
-Health
+Min. of Health
+Min. of Education
+Min. of Local Gov.
+Min. of Home Affairs
+Private Organizations
 
-Min. of
-
-Education
-
-Min. of
-
-Local Gov.
-
-COORDINATING
-
-MINISTRY
-
-OVERALL
-
-RESPONSIBILITY
-
-OVERALL PLANNING
-
-OFFICES
-
-DIRECT SERVICES
-
-MINISTRIES & OTHER
-
-SERVICE PROVIDERS
-
-SERVICE DELIVERY
-
-PROGRAMMES
-
-SERVICE DELIVERY
-
-AND PROGRAMME
-
-IMPLEMENTATION
-
-THROUGH
-
-ESTABLISHED
-
-INFRASTRUCTURE
-
-PROGRAMME M&E &
-
-ASSESSMENT OF
-
-CHILD STATUS &
-
-PROGRAMME
-
-IMPACT
-
-Min. of
-
-Home
-
-Affairs
-
-Overall
-
-Policy &
-
-Planning
-
-Overall QAS
-
-& Services
-
-Guidelines
-
-Overall
-
-Assessment
-
-(M&E)
+SERVICE DELIVERY PROGRAMMES
 
 C-IMCI
+ECD, ECDE Registration, etc
+ECD Training, Licensing, etc.
+Protective Services
+Misc. Programes/Services
 
-ECD, ECDE
+SERVICE DELIVERY AND PROGRAMME IMPLEMENTATION THROUGH ESTABLISHED INFRASTRUCTURE
 
-Registration,
+THROUGH
+DISTRICT SOCIAL DEVELOPMENT STUCTURES
+OR
+OTHER STRUCTURES
 
-etc
+PROGRAMME M&E & ASSESSMENT OF CHILD STATUS & PROGRAMME IMPACT
 
-ECD Training,
-
-Licensing,
-
-etc.
-
-Protective
-
-Services
-
-Private
-
-Organizations
-
-Misc.
-
-Programes/
-
-Services
-
-Overall
-
-Liaising/
-
-Coordination
-
-Min of
-
-Health
-
-Programmes
-
-M&E Data
-
-Min of Educ
-
-Programmes
-
-M&E Data
-
-Min of
-
-Local Gov.
-
-Programmes
-
-M&E Data
-
-Min. of
-
-Home
-
-Affairs
-
-Programmes
-
-M&E Data
-
-Other
-
-Organizations.
-
-Programmes
-
-M&E Data
-
-National Council For Children
-
-¶
-
-s Services
-
-DONORS
-
-National Committee on ECD
+Min of Health Programmes M&E Data
+Min of Educ Programmes M&E Data
+Min of Local Gov. Programmes M&E Data
+Min. of Home Affairs Programmes M&E Data
+Other Organizations. Programmes M&E Data
 
 26
 
@@ -2103,11 +1628,11 @@ ________________________________________________________________________________
 
 #### 9.1.2 Policy Statements for human resources (development/training, recruitment, management and performance based contracts)
 
-(a) The Government, in collaboration with its partners, shall support,  develop,  implement,  harmonize  and  coordinate  intersectoral  training  programmes  at  various  levels  and  different delivery  modes  for  all  levels  and  types  of  service  providers, particularly in health and education and for the advocacy of the rights  of  children,  especially  the  vulnerable  and  marginalized, including children with special needs.
+(a) The Government, in collaboration with its partners, shall support, develop, implement, harmonize and coordinate inter-sectoral training programmes at various levels and different delivery modes for all levels and types of service providers, particularly in health and education and for the advocacy of the rights of children, especially the vulnerable and marginalized, including children with special needs.
 
 (b) The Government with its partners shall develop and implement mechanisms  to  ensure  that  training  at  all  levels  for  early childhood  development  service  provision,  including  community empowerment,  is  accessible and  training opportunities are equitably distributed, especially in the marginalised areas.
 
-(c) The Government, in collaboration with its partners, shall develop or strengthen pedagogies to ensure that they are ´ user friendly µ , culturally sensitive,  relevant,  comprehensive  and inter-sectoral.
+(c) The Government, in collaboration with its partners, shall develop or strengthen pedagogies to ensure that they are “user friendly”, culturally sensitive, relevant, comprehensive and inter-sectoral.
 
 (d) The Government with its partners shall develop and implement mechanisms  to  identify  and  strengthen  existing  recruitment procedures,  ensuring  transparency,  access  and  equity  at  all levels.
 
@@ -2137,11 +1662,11 @@ ________________________________________________________________________________
 
 #### 9.2.2 Policy statement for standards and quality assurance
 
-(a) The Government in collaboration with its partners shall develop, implement  and monitor the use of clearly defined ´ UserFriendly µ standards  and quality guidelines that cover all aspects  of  programmes  for  children  in  different  sectors  and contexts  and  serve  to  advocate  for the  rights  of  children.    The Standard Service Guidelines (SSG) shall be reviewed when need arises.
+(a) The Government in collaboration with its partners shall develop, implement and monitor the use of clearly defined “User-Friendly” standards and quality guidelines that cover all aspects of programmes for children in different sectors and contexts and serve to advocate for the rights of children. The Standard Service Guidelines (SSG) shall be reviewed when need arises.
 
 (b) The Government shall ensure that organizations and partners in the  provision  of  indirect  services  for  children,  particularly  in health  and  education,  have  quality  assurance  standards  and guidelines  comparable  to  the  minimum  standards  that  the Government has set for direct delivery of services to children.
 
-(c) The National Council for Children · s Services within MOHA shall appoint  a  National  Committee  on  ECD  to  co-ordinate  ECD activities.
+(c) The National Council for Children’s Services within MOHA shall appoint a National Committee on ECD to co-ordinate ECD activities.
 
 (d) Ministry of Education shall be the overall lead ministry.
 
@@ -2195,7 +1720,7 @@ Early Childhood Development Policy Framework
 
 _________________________________________________________________________________________________________
 
-- children, especially the vulnerable  and marginalized,  including children with special needs.
+children, especially the vulnerable and marginalized, including children with special needs.
 
 (e) The  GOK  shall  ensure  that  the  phasing  in  and  accessibility  to financial  management  training is equitable and timely to enhance quality service delivery for all children, especially the marginalised  and  vulnerable,  including  children  with  special needs.
 
@@ -2211,7 +1736,7 @@ ________________________________________________________________________________
 
 #### 9.5.2 Policy statements for resource planning (projections, strategic plans, work plans)
 
-(a) The Government in collaboration  with its partners, shall  develop mechanisms that ensure  resource  planning  is  conducted  as  per standards and quality guidelines, develop culturally sensitive and ´ user-friendly µ resource planning training programmes and develop  activities  and  programmes  that  promote  a  culture  of industry, transparency and accountability.
+(a) The Government in collaboration with its partners, shall develop mechanisms that ensure resource planning is conducted as per standards and quality guidelines, develop culturally sensitive and “user-friendly” resource planning training programmes and develop activities and programmes that promote a culture of industry, transparency and accountability.
 
 (b) The Government, in collaboration with its partners, shall develop mechanisms that ensure monitoring and evaluation data relating to the status of children, particularly the vulnerable and marginalised including children with special needs, is the basis of resource  planning  to  ensure  the  provision  of  quality  services  for children  in  an  equitable  manner,  especially  in  education  and health.
 
@@ -2313,11 +1838,11 @@ Early Childhood Development Policy Framework
 
 _________________________________________________________________________________________________________
 
-- and  families, resulting  in  reduced  partnering  and  inadequate advocacy for children's rights and needs.
+and families, resulting in reduced partnering and inadequate advocacy for children’s rights and needs.
 
 #### 9.9.2 Policy statements for partnering and advocacy
 
-(a) The  Government  shall  develop  mechanisms,  within  which  the lead  Ministry  and  the  National  Council  for  Children · s  Services shall  work  together,  to  enhance  its  capacity  for  leadership, partnering  and  coordination  of  services  provided  for  children and families by both the Government and other partners.
+(a) The Government shall develop mechanisms, within which the lead Ministry and the National Council for Children’s Services shall work together, to enhance its capacity for leadership, partnering and coordination of services provided for children and families by both the Government and other partners.
 
 (b) The Government, in collaboration with its partners, shall clearly define  the  roles  of  different  partners  at  all  levels,  including families  and  communities,  to  enhance  the  coordination  and provision of  quality services  and  the equitable distribution  and access of the same, especially in education and health, particularly  for  the  vulnerable  and  marginalised  communities and children with special needs.
 
