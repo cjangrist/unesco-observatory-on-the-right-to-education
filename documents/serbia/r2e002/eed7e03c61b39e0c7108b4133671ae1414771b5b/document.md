@@ -1,10 +1,36 @@
 [[START OF PAGE 1]]
 
-BUDITE NA PRAVNOJ STRANI online@paragraf.rs www.paragraf.rs
+PARAGRAF
+
+Pravna i ekonomska izdanja
+za uspešno i zakonito poslovanje
+
+BUDITE NA PRAVNOJ STRANI
+online@paragraf.rs
+www.paragraf.rs
 
 Preuzeto iz elektronske pravne baze Paragraf Lex
 
-Ukoliko ovaj propis niste preuzeli sa Paragrafovog sajta ili niste sigurni da li je u pitanju važeća verzija propisa, poslednju verziju možete naći OVDE .
+PROPISI SRBIJE
+PROPISI CRNE GORE
+PROPISI BOSNE I HERCEGOVINE
+
+STRUČNI ČASOPISI ZA:
+Pravo
+Javni sektor
+Računovodstvo, porezi i carine
+
+Savetovanja
+Priručnici
+Konsalting
+
+ADRESARI
+Advokati, Notari, Knjigovođe, Špediteri, Sudski tumači, Geometri, Revizori, Sudski veštaci
+
+MOBILNA APLIKACIJA
+PARAGRAF LEX
+
+Ukoliko ovaj propis niste preuzeli sa Paragrafovog sajta ili niste sigurni da li je u pitanju važeća verzija propisa, poslednju verziju možete naći OVDE.
 
 # ZAKON O OSNOVNOM OBRAZOVANJU I VASPITANJU
 
@@ -114,7 +140,7 @@ Učenik sa izuzetnim sposobnostima upisan u prvi razred srednje muzičke, odnosn
 
 #### Član 12
 
-Obrazovno-vaspitni rad ostvaruje se na srpskom jeziku i ćiriličkom pismu. Za pripadnike nacionalne manjine obrazovno-vaspitni rad ostvaruje se na jeziku i pismu nacionalne manjine. Izuzetno, za pripadnike nacionalne manjine obrazovno-vaspitni rad može da se izvodi i dvojezično na jeziku i pismu nacionalne manjine i na srpskom jeziku. Kada se obrazovno-vaspitni rad ostvaruje na jeziku i pismu nacionalne manjine odnosno dvojezično na jeziku i pismu nacionalne manjine i na srpskom, ministarstvo nadležno za poslove obrazovanja (u daljem tekstu: Ministarstvo) po pribavljenom mišljenju odgovarajućeg nacionalnog saveta nacionalne manjine daje saglasnost za ostvarivanje obrazovnovaspitnog rada za manje od 15 učenika upisanih u prvi razred. Ako nacionalni savet nacionalne manjine ne dostavi mišljenje u roku od 15 dana od dana prijema zahteva, smatra se da je mišljenje dato. Kada se obrazovno-vaspitni rad ostvaruje na srpskom jeziku, za učenika pripadnika nacionalne manjine organizuje se nastava jezika nacionalne manjine sa elementima nacionalne kulture kao izborni program. Bliže uslove za ostvarivanje programa obrazovno-vaspitnog rada dvojezično na jeziku i pismu nacionalne manjine i na srpskom jeziku propisuje ministar nadležan za poslove obrazovanja (u daljem tekstu: ministar). Obrazovno-vaspitni rad može da se izvodi na stranom jeziku, odnosno dvojezično na stranom i srpskom jeziku ili na stranom jeziku i jeziku i pismu nacionalne manjine, uz saglasnost Ministarstva. Bliže uslove za ostvarivanje programa obrazovno-vaspitnog rada na stranom jeziku, odnosno dvojezično iz stava 7. ovog člana propisuje ministar. Kada se obrazovanje stiče na jeziku nacionalne manjine, stranom jeziku ili dvojezično, učenje srpskog jezika je obavezno. Obrazovno-vaspitni rad za učenike koji koriste znakovni jezik, odnosno posebno pismo ili druga tehnička rešenja ostvaruje se u skladu sa Zakonom.
+Obrazovno-vaspitni rad ostvaruje se na srpskom jeziku i ćiriličkom pismu. Za pripadnike nacionalne manjine obrazovno-vaspitni rad ostvaruje se na jeziku i pismu nacionalne manjine. Izuzetno, za pripadnike nacionalne manjine obrazovno-vaspitni rad može da se izvodi i dvojezično na jeziku i pismu nacionalne manjine i na srpskom jeziku. Kada se obrazovno-vaspitni rad ostvaruje na jeziku i pismu nacionalne manjine odnosno dvojezično na jeziku i pismu nacionalne manjine i na srpskom, ministarstvo nadležno za poslove obrazovanja (u daljem tekstu: Ministarstvo) po pribavljenom mišljenju odgovarajućeg nacionalnog saveta nacionalne manjine daje saglasnost za ostvarivanje obrazovno-vaspitnog rada za manje od 15 učenika upisanih u prvi razred. Ako nacionalni savet nacionalne manjine ne dostavi mišljenje u roku od 15 dana od dana prijema zahteva, smatra se da je mišljenje dato. Kada se obrazovno-vaspitni rad ostvaruje na srpskom jeziku, za učenika pripadnika nacionalne manjine organizuje se nastava jezika nacionalne manjine sa elementima nacionalne kulture kao izborni program. Bliže uslove za ostvarivanje programa obrazovno-vaspitnog rada dvojezično na jeziku i pismu nacionalne manjine i na srpskom jeziku propisuje ministar nadležan za poslove obrazovanja (u daljem tekstu: ministar). Obrazovno-vaspitni rad može da se izvodi na stranom jeziku, odnosno dvojezično na stranom i srpskom jeziku ili na stranom jeziku i jeziku i pismu nacionalne manjine, uz saglasnost Ministarstva. Bliže uslove za ostvarivanje programa obrazovno-vaspitnog rada na stranom jeziku, odnosno dvojezično iz stava 7. ovog člana propisuje ministar. Kada se obrazovanje stiče na jeziku nacionalne manjine, stranom jeziku ili dvojezično, učenje srpskog jezika je obavezno. Obrazovno-vaspitni rad za učenike koji koriste znakovni jezik, odnosno posebno pismo ili druga tehnička rešenja ostvaruje se u skladu sa Zakonom.
 
 ## II ŠKOLA
 
@@ -310,9 +336,22 @@ programa i godišnjeg plana rada škole.
 
 #### Član 26a
 
-- način prilagođavanja programa muzičkog i baletskog obrazovanja i vaspitanja, obrazovanje i vaspitanje učenika sa smetnjama u razvoju i invaliditetom, učenika sa izuzetnim sposobnostima, za obrazovanje i vaspitanje na jeziku nacionalne
+Plan nastave i učenja u osnovnom obrazovanju i vaspitanju sadrži:
+1) listu obaveznih predmeta i izbornih programa i aktivnosti po razredima;
+2) ukupan godišnji fond časova po predmetima, programima i aktivnostima;
+3) nedeljni fond časova po predmetima, programima i aktivnostima.
 
-Plan nastave i učenja u osnovnom obrazovanju i vaspitanju sadrži: 1) listu obaveznih predmeta i izbornih programa i aktivnosti po razredima; 2) ukupan godišnji fond časova po predmetima, programima i aktivnostima; 3) nedeljni fond časova po predmetima, programima i aktivnostima. Program nastave i učenja u osnovnom obrazovanju i vaspitanju sadrži: 1) ciljeve osnovnog obrazovanja i vaspitanja; 2) ciljeve učenja predmeta, izbornih programa i aktivnosti po razredima; 3) opšte predmetne kompetencije; 4) specifične predmetne kompetencije; 5) ishode učenja; 6) obrazovne standarde za osnovno obrazovanje i vaspitanje; 7) ključne pojmove sadržaja svakog predmeta; 8) uputstvo za didaktičko-metodičko ostvarivanje programa; 9) uputstvo za formativno i sumativno ocenjivanje učenika; manjine i obrazovanje odraslih.
+Program nastave i učenja u osnovnom obrazovanju i vaspitanju sadrži:
+1) ciljeve osnovnog obrazovanja i vaspitanja;
+2) ciljeve učenja predmeta, izbornih programa i aktivnosti po razredima;
+3) opšte predmetne kompetencije;
+4) specifične predmetne kompetencije;
+5) ishode učenja;
+6) obrazovne standarde za osnovno obrazovanje i vaspitanje;
+7) ključne pojmove sadržaja svakog predmeta;
+8) uputstvo za didaktičko-metodičko ostvarivanje programa;
+9) uputstvo za formativno i sumativno ocenjivanje učenika;
+10) način prilagođavanja programa muzičkog i baletskog obrazovanja i vaspitanja, obrazovanje i vaspitanje učenika sa smetnjama u razvoju i invaliditetom, učenika sa izuzetnim sposobnostima, za obrazovanje i vaspitanje na jeziku nacionalne manjine i obrazovanje odraslih.
 
 ### Školski program
 
@@ -398,7 +437,29 @@ Učenik koji je navršio 15 godina života, a nije stekao osnovno obrazovanje i 
 
 #### Član 31
 
-Obrazovno-vaspitni rad organizuje se u odeljenju, u grupi i individualno. Odeljenje istog razreda može da ima do 30 učenika. Izuzetno, odeljenje istog razreda može da ima do 33 učenika uz saglasnost Ministarstva. U jednom odeljenju mogu da budu do dva učenika sa smetnjama u razvoju i invaliditetom. Broj učenika utvrđen u stavu 2. ovog člana umanjuje se za dva po učeniku koji osnovno obrazovanje i vaspitanje stiče ostvarivanjem individualnog obrazovnog plana sa prilagođavanjem načina rada, kao i uslova u kojima se izvodi obrazovnovaspitni rad, odnosno sa učenjem jezika na kome se odvija obrazovno-vaspitni rad (IOP1), odnosno za tri po učeniku koji osnovno obrazovanje i vaspitanje stiče ostvarivanjem individualnog obrazovnog plana sa prilagođavanjem ciljeva, sadržaja i načina ostvarivanja programa nastave i učenja i ishoda obrazovno-vaspitnog rada (u daljem tekstu: IOP2). Obrazovno-vaspitni rad od prvog do četvrtog razreda može da se organizuje i u kombinovanom odeljenju. Kombinovano odeljenje sastavljeno od učenika dva razreda može da ima do 15 učenika, a odeljenje od tri ili četiri razreda do deset učenika. Za predmete za koje je podela odeljenja na grupe predviđena planom i programom nastave i učenja organizuje se ostvarivanje obrazovno-vaspitnog rada u grupi. Izuzetno, u grupi može da se organizuje i ostvarivanje nastave izbornih programa, ukoliko nije moguće organizovanje obrazovno-vaspitnog rada na nivou odeljenja. Grupa iz stava 9. ovog člana, po pravilu, formira se na nivou razreda i ima najmanje 15, a najviše do 30 učenika. Obrazovnovaspitni rad u grupi sa manje od 15 učenika organizuje se uz saglasnost ministra. Odeljenje ili grupa u školi za obrazovanje učenika sa smetnjama u razvoju i invaliditetom može da ima do deset učenika, a kada odeljenje čine učenici sa smetnjama koje se manifestuju istovremeno u nekoliko oblasti, usled čega se učenik suočava sa brojnim preprekama u zadovoljenju osnovnih potreba i potrebna im je najkompleksnija podrška, odeljenje istog razreda ima do šest učenika. U muzičkoj i baletskoj školi obrazovno-vaspitni rad organizuje se u grupi, u klasi i individualno.
+Obrazovno-vaspitni rad organizuje se u odeljenju, u grupi i individualno.
+
+Odeljenje istog razreda može da ima do 30 učenika.
+
+Izuzetno, odeljenje istog razreda može da ima do 33 učenika uz saglasnost Ministarstva.
+
+U jednom odeljenju mogu da budu do dva učenika sa smetnjama u razvoju i invaliditetom.
+
+Broj učenika utvrđen u stavu 2. ovog člana umanjuje se za dva po učeniku koji osnovno obrazovanje i vaspitanje stiče ostvarivanjem individualnog obrazovnog plana sa prilagođavanjem načina rada, kao i uslova u kojima se izvodi obrazovno-vaspitni rad, odnosno sa učenjem jezika na kome se odvija obrazovno-vaspitni rad (IOP1), odnosno za tri po učeniku koji osnovno obrazovanje i vaspitanje stiče ostvarivanjem individualnog obrazovnog plana sa prilagođavanjem ciljeva, sadržaja i načina ostvarivanja programa nastave i učenja i ishoda obrazovno-vaspitnog rada (u daljem tekstu: IOP2).
+
+Obrazovno-vaspitni rad od prvog do četvrtog razreda može da se organizuje i u kombinovanom odeljenju.
+
+Kombinovano odeljenje sastavljeno od učenika dva razreda može da ima do 15 učenika, a odeljenje od tri ili četiri razreda do deset učenika.
+
+Za predmete za koje je podela odeljenja na grupe predviđena planom i programom nastave i učenja organizuje se ostvarivanje obrazovno-vaspitnog rada u grupi.
+
+Izuzetno, u grupi može da se organizuje i ostvarivanje nastave izbornih programa, ukoliko nije moguće organizovanje obrazovno-vaspitnog rada na nivou odeljenja.
+
+Grupa iz stava 9. ovog člana, po pravilu, formira se na nivou razreda i ima najmanje 15, a najviše do 30 učenika. Obrazovno-vaspitni rad u grupi sa manje od 15 učenika organizuje se uz saglasnost ministra.
+
+Odeljenje ili grupa u školi za obrazovanje učenika sa smetnjama u razvoju i invaliditetom može da ima do deset učenika, a kada odeljenje čine učenici sa smetnjama koje se manifestuju istovremeno u nekoliko oblasti, usled čega se učenik suočava sa brojnim preprekama u zadovoljenju osnovnih potreba i potrebna im je najkompleksnija podrška, odeljenje istog razreda ima do šest učenika.
+
+U muzičkoj i baletskoj školi obrazovno-vaspitni rad organizuje se u grupi, u klasi i individualno.
 
 ### Nastava
 
@@ -632,7 +693,7 @@ Program izleta, ekskurzija i nastave u prirodi sastavni je deo školskog program
 
 Školska biblioteka je mesto bibliotečko-informacione, vaspitno-obrazovne i kulturne aktivnosti škole.
 
-U školskoj biblioteci prikuplja se, obrađuje i učenicima, nastavnicima i stručnim saradnicima daje na korišćenje bibliotečkoinformaciona građa (knjige, serijske publikacije i dr.) i izvori.
+U školskoj biblioteci prikuplja se, obrađuje i učenicima, nastavnicima i stručnim saradnicima daje na korišćenje bibliotečko-informaciona građa (knjige, serijske publikacije i dr.) i izvori.
 
 Biblioteka je dužna da u svom fondu prikuplja udžbenike i druga nastavna sredstva namenjena učenicima sa smetnjama u razvoju i invaliditetom, kao i stručnu literaturu za nastavnike i stručne saradnike.
 
@@ -684,9 +745,37 @@ Uz dokumentaciju potrebnu za upis, roditelj dostavlja i dokaz o zdravstvenom pre
 
 [[START OF PAGE 16]]
 
-Deca iz osetljivih društvenih grupa mogu da se upišu u školu, bez dokaza o prebivalištu roditelja i potrebne dokumentacije, a sa dostavljenim dokazom o zdravstvenom pregledu deteta. Ispitivanje deteta upisanog u školu vrše psiholog, odnosno pedagog škole na maternjem jeziku deteta, primenom standardnih postupaka i instrumenata, preporučenih od nadležnog zavoda, odnosno ovlašćene stručne organizacije. Ako ne postoji mogućnost da se ispitivanje deteta vrši na maternjem jeziku, škola angažuje prevodioca na predlog nacionalnog saveta nacionalne manjine. Ispitivanje dece sa motoričkim i čulnim smetnjama vrši se uz primenu oblika ispitivanja na koji dete može optimalno da odgovori. U postupku ispitivanja deteta upisanog u školu, škola može da utvrdi potrebu za donošenjem individualnog obrazovnog plana ili potrebu za pružanjem dodatne podrške u obrazovanju. Ako dodatna podrška zahteva finansijska sredstva, škola upućuje pisani zahtev osnivaču po pribavljenom mišljenju interresorne komisije. Dete starosti od šest do šest i po godina upisuje se u prvi razred nakon provere spremnosti za polazak u školu. Škola je dužna da organizuje proveru spremnosti. Proveru spremnosti deteta vrši psiholog, odnosno pedagog škole primenom standardnih postupaka i instrumenata, preporučenih od nadležnog zavoda, odnosno ovlašćene stručne organizacije. U postupku provere spremnosti na osnovu mišljenja psihologa, odnosno pedagoga škola može da preporuči: 1) upis deteta u prvi razred; 2) upis deteta u školu nakon godinu dana, uz pohađanje pripremnog predškolskog programa. Roditelj, odnosno drugi zakonski zastupnik deteta, kome je preporučen upis deteta u školu nakon godinu dana, može da podnese zahtev komisiji škole za ponovno utvrđivanje spremnosti za upis u školu u roku od osam dana od dana dobijanja preporuke škole iz stava 12. ovog člana. Komisiju čine: psiholog, pedagog, nastavnik razredne nastave i pedijatar deteta. Komisija škole, primenom standardnih postupaka i instrumenata, može da odobri upis deteta ili da potvrdi upis deteta u školu nakon godinu dana, o čemu odluku donosi u roku od 15 dana od dana prijema zahteva iz stava 13. ovog člana. Odluka komisije je konačna. Ako dete starije od sedam i po godina zbog bolesti ili drugih razloga nije upisano u prvi razred, može da se upiše u prvi ili odgovarajući razred na osnovu prethodne provere znanja. Prethodnu proveru znanja obavlja tim sastavljen od nastavnika razredne nastave, pedagoga i psihologa škole uvažavajući standarde postignuća i ceneći najbolji interes deteta. Škola je dužna da upiše svako dete sa područja škole. Škola može da upiše i dete sa područja druge škole, na zahtev roditelja, u skladu sa prostornim i kadrovskim mogućnostima škole. Roditelj, odnosno drugi zakonski zastupnik može da izabere školu u koju će da upiše dete podnošenjem zahteva izabranoj školi najkasnije do 1. februara tekuće kalendarske godine u kojoj se vrši upis. van područja škole do 30. aprila tekuće kalendarske godine u kojoj se vrši upis, nakon sagledavanja raspoloživih kapaciteta,
+Deca iz osetljivih društvenih grupa mogu da se upišu u školu, bez dokaza o prebivalištu roditelja i potrebne dokumentacije, a sa dostavljenim dokazom o zdravstvenom pregledu deteta.
 
-Škola je dužna da obavesti roditelja, odnosno drugog zakonskog zastupnika o odluci po njegovom zahtevu za upis deteta a u skladu sa prostornim, kadrovskim i finansijskim mogućnostima škole.
+Ispitivanje deteta upisanog u školu vrše psiholog, odnosno pedagog škole na maternjem jeziku deteta, primenom standardnih postupaka i instrumenata, preporučenih od nadležnog zavoda, odnosno ovlašćene stručne organizacije. Ako ne postoji mogućnost da se ispitivanje deteta vrši na maternjem jeziku, škola angažuje prevodioca na predlog nacionalnog saveta nacionalne manjine.
+
+Ispitivanje dece sa motoričkim i čulnim smetnjama vrši se uz primenu oblika ispitivanja na koji dete može optimalno da odgovori.
+
+U postupku ispitivanja deteta upisanog u školu, škola može da utvrdi potrebu za donošenjem individualnog obrazovnog plana ili potrebu za pružanjem dodatne podrške u obrazovanju. Ako dodatna podrška zahteva finansijska sredstva, škola upućuje pisani zahtev osnivaču po pribavljenom mišljenju interresorne komisije.
+
+Dete starosti od šest do šest i po godina upisuje se u prvi razred nakon provere spremnosti za polazak u školu. Škola je dužna da organizuje proveru spremnosti.
+
+Proveru spremnosti deteta vrši psiholog, odnosno pedagog škole primenom standardnih postupaka i instrumenata, preporučenih od nadležnog zavoda, odnosno ovlašćene stručne organizacije.
+
+U postupku provere spremnosti na osnovu mišljenja psihologa, odnosno pedagoga škola može da preporuči:
+1) upis deteta u prvi razred;
+2) upis deteta u školu nakon godinu dana, uz pohađanje pripremnog predškolskog programa.
+
+Roditelj, odnosno drugi zakonski zastupnik deteta, kome je preporučen upis deteta u školu nakon godinu dana, može da podnese zahtev komisiji škole za ponovno utvrđivanje spremnosti za upis u školu u roku od osam dana od dana dobijanja preporuke škole iz stava 12. ovog člana. Komisiju čine: psiholog, pedagog, nastavnik razredne nastave i pedijatar deteta.
+
+Komisija škole, primenom standardnih postupaka i instrumenata, može da odobri upis deteta ili da potvrdi upis deteta u školu nakon godinu dana, o čemu odluku donosi u roku od 15 dana od dana prijema zahteva iz stava 13. ovog člana. Odluka komisije je konačna.
+
+Ako dete starije od sedam i po godina zbog bolesti ili drugih razloga nije upisano u prvi razred, može da se upiše u prvi ili odgovarajući razred na osnovu prethodne provere znanja.
+
+Prethodnu proveru znanja obavlja tim sastavljen od nastavnika razredne nastave, pedagoga i psihologa škole uvažavajući standarde postignuća i ceneći najbolji interes deteta.
+
+Škola je dužna da upiše svako dete sa područja škole.
+
+Škola može da upiše i dete sa područja druge škole, na zahtev roditelja, u skladu sa prostornim i kadrovskim mogućnostima škole.
+
+Roditelj, odnosno drugi zakonski zastupnik može da izabere školu u koju će da upiše dete podnošenjem zahteva izabranoj školi najkasnije do 1. februara tekuće kalendarske godine u kojoj se vrši upis.
+
+Škola je dužna da obavesti roditelja, odnosno drugog zakonskog zastupnika o odluci po njegovom zahtevu za upis deteta van područja škole do 30. aprila tekuće kalendarske godine u kojoj se vrši upis, nakon sagledavanja raspoloživih kapaciteta, a u skladu sa prostornim, kadrovskim i finansijskim mogućnostima škole.
 
 ### Upis u školu za obrazovanje učenika sa smetnjama u razvoju i invaliditetom
 
@@ -824,7 +913,7 @@ Zaključnu ocenu iz vladanja na predlog odeljenjskog starešine utvrđuje odelje
 
 Detetu i učeniku kome je usled socijalne uskraćenosti, smetnji u razvoju, invaliditeta, teškoća u učenju, rizika od ranog napuštanja školovanja i drugih razloga potrebna dodatna podrška u obrazovanju i vaspitanju, škola obezbeđuje otklanjanje fizičkih i komunikacijskih prepreka, prilagođavanje načina ostvarivanja školskog programa i izradu, donošenje i ostvarivanje individualnog obrazovnog plana.
 
-Cilj dodatne podrške u obrazovanju i vaspitanju jeste postizanje optimalnog uključivanja učenika u redovan obrazovnovaspitni rad, osamostaljivanje u vršnjačkom kolektivu i njegovo napredovanje.
+Cilj dodatne podrške u obrazovanju i vaspitanju jeste postizanje optimalnog uključivanja učenika u redovan obrazovno-vaspitni rad, osamostaljivanje u vršnjačkom kolektivu i njegovo napredovanje.
 
 Za ostvarivanje dodatne podrške u obrazovanju i vaspitanju, direktor škole, nastavnik, stručni saradnik, vaspitač, pedagoški asistent i roditelj, odnosno drugi zakonski zastupnik može da dobije posebnu stručnu pomoć u pogledu sprovođenja inkluzivnog obrazovanja i vaspitanja.
 
@@ -982,13 +1071,32 @@ nastave i obavljanje ispita dok traje štrajk.
 
 #### Član 80
 
+Škola vodi evidenciju o:
+1) učeniku, odnosno detetu;
+2) uspehu učenika;
+3) ispitima;
+4) obrazovno-vaspitnom radu;
+5) zaposlenom.
+
 ### Evidencija o učeniku
 
 #### Član 81
 
-Evidenciju o učeniku čine podaci kojima se određuje njegov identitet (lični podaci), obrazovni, socijalni i zdravstveni status, kao i podaci o preporučenoj i pruženoj dodatnoj obrazovnoj, zdravstvenoj i socijalnoj podršci. Lični podaci o učeniku, odnosno detetu su: ime i prezime učenika, jedinstveni matični broj građana, pol, datum rođenja, mesto, opština i država rođenja, adresa, mesto, opština i država stanovanja, kontakt telefon, matični broj učenika, nacionalna pripadnost i državljanstvo. Izjašnjenje o nacionalnoj pripadnosti nije obavezno. Lični podaci o roditelju, odnosno drugom zakonskom zastupniku ili hranitelju učenika, odnosno deteta su: ime i prezime, jedinstveni matični broj građana, pol, datum rođenja, mesto, opština i država rođenja, adresa, mesto, opština i država stanovanja, kontakt telefon, odnosno adresa elektronske pošte. Podaci kojima se određuje obrazovni status učenika jesu: podaci o vrsti škole i trajanju obrazovanja i vaspitanja, jeziku na kojem se izvodi obrazovno-vaspitni rad, organizaciji obrazovno-vaspitnog rada, obaveznim predmetima i izbornim programima i aktivnostima, stranim jezicima, podaci o individualnom obrazovnom planu, dopunskoj i dodatnoj nastavi, celodnevnoj nastavi i produženom boravku, vannastavnim aktivnostima za koje se opredelio i drugim oblastima školskog programa u kojima učestvuje, učešću na takmičenjima, izostancima, izrečenim vaspitnim i vaspitno-disciplinskim merama, učešću u radu organa škole i opredeljenju za nastavak obrazovanja. Podaci kojima se određuje socijalni status učenika, odnosno deteta, roditelja, odnosno drugog zakonskog zastupnika ili hranitelja su: podaci o uslovima stanovanja (stanovanje u stanu, kući, porodičnoj kući, podstanarstvu, domu, da li učenik ima svoju sobu i drugim oblicima stanovanja), udaljenosti domaćinstva od škole; stanju porodice (broj članova porodičnog domaćinstva, da li su roditelji živi, da li jedan ili oba roditelja žive u inostranstvu, bračni status roditelja, odnosno drugog zakonskog zastupnika ili hranitelja, njihov obrazovni nivo i zaposlenje), kao i podatak o primanju novčane socijalne pomoći i da li porodica može da obezbedi užinu, knjige i pribor za učenje. Podatak kojim se određuje zdravstveni status učenika, odnosno deteta je podatak o tome da li je učenik obuhvaćen primarnom zdravstvenom zaštitom. Podaci o preporučenoj i pruženoj dodatnoj obrazovnoj, zdravstvenoj i socijalnoj podršci su podaci koje dostavlja interresorna
+Evidenciju o učeniku čine podaci kojima se određuje njegov identitet (lični podaci), obrazovni, socijalni i zdravstveni status, kao i podaci o preporučenoj i pruženoj dodatnoj obrazovnoj, zdravstvenoj i socijalnoj podršci.
 
-komisija koja vrši procenu potreba i podaci o njihovoj ostvarenosti.
+Lični podaci o učeniku, odnosno detetu su: ime i prezime učenika, jedinstveni matični broj građana, pol, datum rođenja, mesto, opština i država rođenja, adresa, mesto, opština i država stanovanja, kontakt telefon, matični broj učenika, nacionalna pripadnost i državljanstvo.
+
+Izjašnjenje o nacionalnoj pripadnosti nije obavezno.
+
+Lični podaci o roditelju, odnosno drugom zakonskom zastupniku ili hranitelju učenika, odnosno deteta su: ime i prezime, jedinstveni matični broj građana, pol, datum rođenja, mesto, opština i država rođenja, adresa, mesto, opština i država stanovanja, kontakt telefon, odnosno adresa elektronske pošte.
+
+Podaci kojima se određuje obrazovni status učenika jesu: podaci o vrsti škole i trajanju obrazovanja i vaspitanja, jeziku na kojem se izvodi obrazovno-vaspitni rad, organizaciji obrazovno-vaspitnog rada, obaveznim predmetima i izbornim programima i aktivnostima, stranim jezicima, podaci o individualnom obrazovnom planu, dopunskoj i dodatnoj nastavi, celodnevnoj nastavi i produženom boravku, vannastavnim aktivnostima za koje se opredelio i drugim oblastima školskog programa u kojima učestvuje, učešću na takmičenjima, izostancima, izrečenim vaspitnim i vaspitno-disciplinskim merama, učešću u radu organa škole i opredeljenju za nastavak obrazovanja.
+
+Podaci kojima se određuje socijalni status učenika, odnosno deteta, roditelja, odnosno drugog zakonskog zastupnika ili hranitelja su: podaci o uslovima stanovanja (stanovanje u stanu, kući, porodičnoj kući, podstanarstvu, domu, da li učenik ima svoju sobu i drugim oblicima stanovanja), udaljenosti domaćinstva od škole; stanju porodice (broj članova porodičnog domaćinstva, da li su roditelji živi, da li jedan ili oba roditelja žive u inostranstvu, bračni status roditelja, odnosno drugog zakonskog zastupnika ili hranitelja, njihov obrazovni nivo i zaposlenje), kao i podatak o primanju novčane socijalne pomoći i da li porodica može da obezbedi užinu, knjige i pribor za učenje.
+
+Podatak kojim se određuje zdravstveni status učenika, odnosno deteta je podatak o tome da li je učenik obuhvaćen primarnom zdravstvenom zaštitom.
+
+Podaci o preporučenoj i pruženoj dodatnoj obrazovnoj, zdravstvenoj i socijalnoj podršci su podaci koje dostavlja interresorna komisija koja vrši procenu potreba i podaci o njihovoj ostvarenosti.
 
 ### Evidencija o uspehu učenika
 
@@ -996,13 +1104,9 @@ komisija koja vrši procenu potreba i podaci o njihovoj ostvarenosti.
 
 Evidenciju o uspehu učenika čine podaci kojima se utvrđuje postignut uspeh učenika u učenju i vladanju i to: ocene u toku klasifikacionog perioda, zaključne ocene iz nastavnih predmeta, izbornih programa i aktivnosti i vladanja na kraju prvog i drugog polugodišta, ocene postignute na ispitima, zaključne ocene na kraju školske godine, izdatim đačkim knjižicama, svedočanstvima, diplomama, kao i posebnim diplomama za izuzetan uspeh, nagradama i pohvalama.
 
-Škola vodi evidenciju o: 1) učeniku, odnosno detetu; 2) uspehu učenika; 3) ispitima; 4) obrazovno-vaspitnom radu; 5) zaposlenom.
-
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
-
-Podatke u evidencijama prikuplja škola. podataka, bez obzira na način njihovog vođenja.
 
 ### Evidencija o ispitima
 
@@ -1038,7 +1142,9 @@ Prikupljeni podaci čine osnov za vođenje evidencije. U školi može da se vodi
 
 #### Član 88
 
-Direktor škole se stara i odgovoran je za blagovremen i tačan unos podataka i održavanje ažurnosti evidencija i bezbednost
+Podatke u evidencijama prikuplja škola.
+
+Direktor škole se stara i odgovoran je za blagovremen i tačan unos podataka i održavanje ažurnosti evidencija i bezbednost podataka, bez obzira na način njihovog vođenja.
 
 ### Rokovi čuvanja podataka u evidenciji
 
@@ -1056,7 +1162,30 @@ Svi ostali podaci iz čl. 81. do 84. ovog zakona čuvaju se deset godina. Podaci
 
 #### Član 90
 
-Na osnovu podataka unetih u evidenciju škola izdaje javne isprave. Javne isprave, u smislu ovog zakona, jesu: 1) đačka knjižica; 2) prevodnica; 3) svedočanstvo o završenom razredu prvog ciklusa za učenike koji odlaze u inostranstvo i za odrasle; 4) svedočanstvo o svakom završenom razredu drugog ciklusa; 5) uverenje o položenom ispitu iz stranog jezika; 6) svedočanstvo o završenom osnovnom obrazovanju i vaspitanju; 7) uverenje o obavljenom završnom ispitu. Škola upisanom učeniku, na početku školske godine, izdaje đačku knjižicu, a prilikom ispisivanja - prevodnicu. Učenik prelazi iz jedne u drugu školu na osnovu prevodnice. Škola učeniku prilikom ispisivanja izdaje prevodnicu. Prevodnica se izdaje u roku od sedam dana od dana prijema obaveštenja o upisu učenika u drugu školu, a škola u koju učenik prelazi, u roku od sedam dana obaveštava školu iz koje se učenik ispisao da je primila prevodnicu. Škola koja ostvaruje pripremni predškolski program izdaje javnu ispravu, u skladu sa zakonom kojim se uređuje predškolsko vaspitanje i obrazovanje. Javna isprava izdaje se na srpskom jeziku ćiriličkim pismom, latiničkim pismom u skladu sa Zakonom, a kada se obrazovnovaspitni rad izvodi na jeziku nacionalne manjine, javna isprava izdaje se i na jeziku i pismu te nacionalne manjine. Sadržaj obrazaca javnih isprava propisuje ministar i odobrava njihovo izdavanje.
+Na osnovu podataka unetih u evidenciju škola izdaje javne isprave.
+
+Javne isprave, u smislu ovog zakona, jesu:
+1) đačka knjižica;
+2) prevodnica;
+3) svedočanstvo o završenom razredu prvog ciklusa za učenike koji odlaze u inostranstvo i za odrasle;
+4) svedočanstvo o svakom završenom razredu drugog ciklusa;
+5) uverenje o položenom ispitu iz stranog jezika;
+6) svedočanstvo o završenom osnovnom obrazovanju i vaspitanju;
+7) uverenje o obavljenom završnom ispitu.
+
+Škola upisanom učeniku, na početku školske godine, izdaje đačku knjižicu, a prilikom ispisivanja - prevodnicu.
+
+Učenik prelazi iz jedne u drugu školu na osnovu prevodnice.
+
+Škola učeniku prilikom ispisivanja izdaje prevodnicu.
+
+Prevodnica se izdaje u roku od sedam dana od dana prijema obaveštenja o upisu učenika u drugu školu, a škola u koju učenik prelazi, u roku od sedam dana obaveštava školu iz koje se učenik ispisao da je primila prevodnicu.
+
+Škola koja ostvaruje pripremni predškolski program izdaje javnu ispravu, u skladu sa zakonom kojim se uređuje predškolsko vaspitanje i obrazovanje.
+
+Javna isprava izdaje se na srpskom jeziku ćiriličkim pismom, latiničkim pismom u skladu sa Zakonom, a kada se obrazovno-vaspitni rad izvodi na jeziku nacionalne manjine, javna isprava izdaje se i na jeziku i pismu te nacionalne manjine.
+
+Sadržaj obrazaca javnih isprava propisuje ministar i odobrava njihovo izdavanje.
 
 ### Duplikat javne isprave
 
@@ -1122,11 +1251,11 @@ Poslovi utvrđeni članom 12. stav 4. (ostvarivanje obrazovno-vaspitnog rada na 
 
 Novčanom kaznom od 100.000,00 do 1.000.000,00 dinara kazniće se za prekršaj škola ako:
 
-- obavi ispit suprotno odredbama ovog zakona (čl. 70-74);
+1) obavi ispit suprotno odredbama ovog zakona (čl. 70-74);
 
-- ne vodi propisanu evidenciju ili evidenciju vodi suprotno odredbama ovog zakona (čl. 80-89);
+2) ne vodi propisanu evidenciju ili evidenciju vodi suprotno odredbama ovog zakona (čl. 80-89);
 
-- izda javnu ispravu suprotno odredbama ovog zakona (čl. 90-93).
+3) izda javnu ispravu suprotno odredbama ovog zakona (čl. 90-93).
 
 Novčanom kaznom od 25.000,00 do 100.000,00 dinara za prekršaj iz stava 1. ovog člana kazniće se i direktor, odnosno odgovorno lice škole.
 
