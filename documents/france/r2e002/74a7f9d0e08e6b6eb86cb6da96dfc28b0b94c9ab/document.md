@@ -20,13 +20,13 @@ A modifié les dispositions suivantes :
 
 ###### Article 2
 
-- I.-Paragraphe modificateur
+I.-Paragraphe modificateur
 
-- II.-1. Les trois premiers alinéas du I de l'article 1er de la loi n° 2002-303 du 4 mars 2002 relative aux droits des malades et à la qualité du système de santé deviennent l'article L. 114-5 du code de l'action sociale et des familles.
+II.-1. Les trois premiers alinéas du I de l'article 1er de la loi n° 2002-303 du 4 mars 2002 relative aux droits des malades et à la qualité du système de santé deviennent l'article L. 114-5 du code de l'action sociale et des familles.
 
-- Les dispositions de l'article L. 114-5 du code de l'action sociale et des familles tel qu'il résulte du 1 du présent II sont applicables aux instances en cours à la date d'entrée en vigueur de la loi n° 2002-303 du 4 mars 2002 précitée, à l'exception de celles où il a été irrévocablement statué sur le principe de l'indemnisation.
+2. Les dispositions de l'article L. 114-5 du code de l'action sociale et des familles tel qu'il résulte du 1 du présent II sont applicables aux instances en cours à la date d'entrée en vigueur de la loi n° 2002-303 du 4 mars 2002 précitée, à l'exception de celles où il a été irrévocablement statué sur le principe de l'indemnisation.
 
-- III.-Les dispositions du a du 2° du I et du II du présent article sont applicables à Mayotte et dans les Terres australes et antarctiques françaises.
+III.-Les dispositions du a du 2° du I et du II du présent article sont applicables à Mayotte et dans les Terres australes et antarctiques françaises.
 
 IV.-Paragraphe modificateur
 
@@ -150,7 +150,9 @@ A modifié les dispositions suivantes :
 
 ###### Article 15
 
-- A modifié les dispositions suivantes : · Modifie Code civil - art. 272 (V)
+A modifié les dispositions suivantes :
+
+- Modifie Code civil - art. 272 (V)
 
 #### Chapitre II : Ressources des personnes handicapées.
 
@@ -548,15 +550,25 @@ Ce schéma fixe la programmation de la mise en accessibilité des services de tr
 
 En cas d'impossibilité technique avérée de mise en accessibilité de réseaux existants, des moyens de transport adaptés aux besoins des personnes handicapées ou à mobilité réduite doivent être mis à leur disposition. Ils sont organisés et financés par l'autorité organisatrice de transport normalement compétente dans un délai de trois ans. Le coût du transport de substitution pour les usagers handicapés ne doit pas être supérieur au coût du transport public existant.
 
-Les réseaux souterrains de transports ferroviaires et de transports guidés existants ne sont pas soumis au délai prévu au deuxième alinéa, à condition d'élaborer un schéma délai de trois ans, des transports de substitution répondant aux conditions prévues à
+Les réseaux souterrains de transports ferroviaires et de transports guidés existants ne
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
-directeur dans les conditions prévues au troisième alinéa et de mettre en place, dans un l'alinéa précédent. Dans un délai de trois ans à compter de la publication de la présente loi, les autorités organisatrices de transports publics mettent en place une procédure de dépôt de plainte en matière d'obstacles à la libre circulation des personnes à mobilité réduite. Un plan de mise en accessibilité de la voirie et des aménagements des espaces publics est établi dans chaque commune à l'initiative du maire ou, le cas échéant, du président de l'établissement public de coopération intercommunale. Ce plan fixe notamment les dispositions susceptibles de rendre accessible aux personnes handicapées et à mobilité réduite l'ensemble des circulations piétonnes et des aires de stationnement d'automobiles situées sur le territoire de la commune ou de l'établissement public de coopération intercommunale. Ce plan de mise en accessibilité fait partie intégrante du plan de déplacements urbains quand il existe. L'octroi des aides publiques favorisant le développement des systèmes de transport collectif est subordonné à la prise en compte de l'accessibilité. II.-Tout matériel roulant acquis lors d'un renouvellement de matériel ou à l'occasion de l'extension des réseaux doit être accessible aux personnes handicapées ou à mobilité réduite. Des décrets préciseront, pour chaque catégorie de matériel, les modalités d'application de cette disposition. III., IV., V.-Paragraphes modificateurs
+sont pas soumis au délai prévu au deuxième alinéa, à condition d'élaborer un schéma directeur dans les conditions prévues au troisième alinéa et de mettre en place, dans un délai de trois ans, des transports de substitution répondant aux conditions prévues à l'alinéa précédent.
 
-- VI.-Les modalités d'application du présent article sont définies par décret.
+Dans un délai de trois ans à compter de la publication de la présente loi, les autorités organisatrices de transports publics mettent en place une procédure de dépôt de plainte en matière d'obstacles à la libre circulation des personnes à mobilité réduite.
+
+Un plan de mise en accessibilité de la voirie et des aménagements des espaces publics est établi dans chaque commune à l'initiative du maire ou, le cas échéant, du président de l'établissement public de coopération intercommunale. Ce plan fixe notamment les dispositions susceptibles de rendre accessible aux personnes handicapées et à mobilité réduite l'ensemble des circulations piétonnes et des aires de stationnement d'automobiles situées sur le territoire de la commune ou de l'établissement public de coopération intercommunale. Ce plan de mise en accessibilité fait partie intégrante du plan de déplacements urbains quand il existe.
+
+L'octroi des aides publiques favorisant le développement des systèmes de transport collectif est subordonné à la prise en compte de l'accessibilité.
+
+II.-Tout matériel roulant acquis lors d'un renouvellement de matériel ou à l'occasion de l'extension des réseaux doit être accessible aux personnes handicapées ou à mobilité réduite. Des décrets préciseront, pour chaque catégorie de matériel, les modalités d'application de cette disposition.
+
+III., IV., V.-Paragraphes modificateurs
+
+VI.-Les modalités d'application du présent article sont définies par décret.
 
 ###### Article 46
 
@@ -602,9 +614,9 @@ A modifié les dispositions suivantes :
 
 ###### Article 52
 
-- I., II., III., V., VI. - Paragraphes modificateurs
+I., II., III., V., VI. - Paragraphes modificateurs
 
-- Les dispositions du 3° du I du présent article sont applicables à Mayotte et dans les Terres australes et antarctiques françaises.
+IV. - Les dispositions du 3° du I du présent article sont applicables à Mayotte et dans les Terres australes et antarctiques françaises.
 
 [[END OF PAGE 11]]
 
@@ -864,13 +876,15 @@ A modifié les dispositions suivantes :
 
 ###### Article 74
 
-- Paragraphe modificateur
+I. - Paragraphe modificateur
 
 II. - Dans un délai d'un an à compter de la publication de la présente loi, le Gouvernement déposera devant le Parlement un rapport présentant les moyens permettant de développer l'audiodescription des programmes télévisés au niveau de la production et de la diffusion, ainsi qu'un plan de mise en oeuvre de ces préconisations.
 
 ###### Article 75
 
-- A modifié les dispositions suivantes : · Crée Code de l'éducation - art. L312-9-1 (V)
+A modifié les dispositions suivantes :
+
+- Crée Code de l'éducation - art. L312-9-1 (V)
 
 ###### Article 76
 
@@ -886,9 +900,9 @@ Les personnes aphasiques peuvent se faire accompagner devant les juridictions pa
 
 ###### Article 77
 
-- Afin de garantir l'exercice de la libre circulation et d'adapter les nouvelles épreuves du permis de conduire aux personnes sourdes et malentendantes, un interprète ou un médiateur langue des signes sera présent aux épreuves théoriques et pratiques du permis de conduire pour véhicules légers (permis B) lors des sessions spécialisées pour les personnes sourdes, dont la fréquence minimale sera fixée par décret.
+I. - Afin de garantir l'exercice de la libre circulation et d'adapter les nouvelles épreuves du permis de conduire aux personnes sourdes et malentendantes, un interprète ou un médiateur langue des signes sera présent aux épreuves théoriques et pratiques du permis de conduire pour véhicules légers (permis B) lors des sessions spécialisées pour les personnes sourdes, dont la fréquence minimale sera fixée par décret.
 
-- Afin de permettre aux candidats de suivre les explications de l'interprète ou du médiateur en langue des signes, il sera accordé, lors des examens théoriques, le temps nécessaire, défini par décret, à la bonne compréhension des traductions entre les candidats et le traducteur.
+II. - Afin de permettre aux candidats de suivre les explications de l'interprète ou du médiateur en langue des signes, il sera accordé, lors des examens théoriques, le temps nécessaire, défini par décret, à la bonne compréhension des traductions entre les candidats et le traducteur.
 
 ###### Article 78
 
@@ -1004,7 +1018,9 @@ II. - Les dispositions du I s'appliquent à compter de l'imposition des revenus 
 
 ###### Article 86
 
-- A modifié les dispositions suivantes : · Modifie Code du travail - art. L323-8-1 (AbD)
+A modifié les dispositions suivantes :
+
+- Modifie Code du travail - art. L323-8-1 (AbD)
 
 ###### Article 87
 
@@ -1120,29 +1136,47 @@ Pour chaque ordonnance, un projet de loi de ratification est déposé devant le 
 
 ###### Article 93
 
-- Modifié par Ordonnance n°2008-859 du 28 août 2008 - art. 8 La présente loi s'applique à Saint-Pierre-et-Miquelon, à l'exception des dispositions des articles 14, 30, 41, 43, 44, des III à V de l'article 45, des articles 49, 50 et de celles des I et
+- Modifié par Ordonnance n°2008-859 du 28 août 2008 - art. 8
 
-II de l'article 85, et sous réserve des adaptations suivantes :
+La présente loi s'applique à Saint-Pierre-et-Miquelon, à l'exception des dispositions des articles 14, 30, 41, 43, 44, des III à V de l'article 45, des articles 49, 50 et de celles des I et II de l'article 85, et sous réserve des adaptations suivantes :
 
 1°, 2°, 3°, 4°, 5°, 6°, 7°, 8°, 9° - Paragraphes modificateurs
 
 ###### Article 93-1
 
-· Créé par Ordonnance n°2008-859 du 28 août 2008 - art. 8 L'article 41, à l'exception des III et V, l'article 42, l'article 43, à l'exception du I et du 1° du II, l'article 45, à l'exception du V, les articles 50, 51 et le IV de l'article 65 de la présente loi sont applicables à Mayotte, sous réserve des adaptations suivantes : 1° Pour l'application de l'article 41, les mots : ' à la date de publication de la loi n° 2005-102 du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées ' sont remplacés par les mots : ' à la date de publication de l'ordonnance n° 2008-859 du 28 août 2008 relative à l'extension et à l'adaptation outre-mer de diverses mesures bénéficiant aux personnes handicapées et en matière d'action sociale et médico-sociale ' ; 2° Pour l'application du III de l'article 43, la référence aux articles L. 111-9, L. 112-17, L. 125-3 et L. 131-4 du code de la construction et de l'habitation est supprimée ; médico-sociale de Mayotte mentionné au chapitre VI du livre V du code de l'action sociale
+· Créé par Ordonnance n°2008-859 du 28 août 2008 - art. 8
 
-- 3° Pour l'application de l'article 51, les mots : ' le schéma départemental d'organisation sociale et médico-sociale mentionné à l'article L. 312-4 du code de l'action sociale et des familles ' sont remplacés par les mots : ' le schéma d'organisation sociale et et des familles
+L'article 41, à l'exception des III et V, l'article 42, l'article 43, à l'exception du I et du 1° du II, l'article 45, à l'exception du V, les articles 50, 51 et le IV de l'article 65 de la présente loi sont applicables à Mayotte, sous réserve des adaptations suivantes :
+
+1° Pour l'application de l'article 41, les mots : ' à la date de publication de la loi n° 2005-102 du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées ' sont remplacés par les mots : ' à la date de publication de l'ordonnance n° 2008-859 du 28 août 2008 relative à l'extension et à l'adaptation outre-mer de diverses mesures bénéficiant aux personnes handicapées et en matière d'action sociale et médico-sociale ' ;
+
+2° Pour l'application du III de l'article 43, la référence aux articles L. 111-9, L. 112-17, L. 125-3 et L. 131-4 du code de la construction et de l'habitation est supprimée ;
+
+3° Pour l'application de l'article 51, les mots : ' le schéma départemental d'organisation sociale et médico-sociale mentionné à l'article L. 312-4 du code de l'action sociale et des familles ' sont remplacés par les mots : ' le schéma d'organisation sociale et médico-sociale de Mayotte mentionné au chapitre VI du livre V du code de l'action sociale et des familles
 
 ###### Article 93-2
 
-- Créé par Ordonnance n°2008-859 du 28 août 2008 - art. 8 La section 3 du chapitre Ier du titre Ier du livre Ier, les articles L. 123-2 et L. 151-1, ainsi
+- Créé par Ordonnance n°2008-859 du 28 août 2008 - art. 8
 
-que le chapitre II du titre V du livre Ier du code de la construction et de l'habitation sont applicables à Mayotte sous réserve des adaptations mentionnées ci-après : 1° Pour l'application du cinquième alinéa de l'article L. 111-7-3, la référence à la ' commission départementale consultative de la protection civile, de la sécurité et de l'accessibilité ' est remplacée par la référence à la ' commission de sécurité contre les risques d'incendie et de panique dans les établissements recevant du public '. Son rôle, sa composition et son fonctionnement sont définis par arrêté préfectoral ; 2° Pour l'application de l'article L. 111-7-4, la référence à l'article L. 111-23 est supprimée ; 3° Pour son application l'article L. 151-1 est ainsi rédigé : Art.L. 151-1.-Comme il est dit à l'article L. 461-1 du code de l'urbanisme : ' Art.L. 461-1.-Le préfet et l'autorité compétente mentionnée aux articles L. 422-1 à L. 422-3 ou ses délégués, ainsi que les fonctionnaires et les agents commissionnés à cet effet par le ministre chargé de l'urbanisme et assermentés peuvent visiter les constructions en cours, procéder aux vérifications qu'ils jugent utiles et se faire communiquer tous documents techniques se rapportant à la réalisation des bâtiments, et en particulier ceux relatifs à l'accessibilité aux personnes handicapées quel que soit le type de handicap. Ce droit de visite et de communication peut aussi être exercé après l'achèvement des travaux pendant trois ans. ' ; 111-7-4, L. 111-8, L. 111-9, L. 111-10, L. 111-10-1, L. 112-17, L. 112-18, L. 112-19, L. 125-3, L. 131-4 et L. 135-1 ' est remplacée par la référence aux articles : ' L. 111-4, L.
+La section 3 du chapitre Ier du titre Ier du livre Ier, les articles L. 123-2 et L. 151-1, ainsi que le chapitre II du titre V du livre Ier du code de la construction et de l'habitation sont
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
 
-4° Pour l'application de l'article L. 152-1, la référence aux articles : ' L. 111-4, L. 111-7 à L. 111-7 à L. 111-7-4 '.
+applicables à Mayotte sous réserve des adaptations mentionnées ci-après :
+
+1° Pour l'application du cinquième alinéa de l'article L. 111-7-3, la référence à la ' commission départementale consultative de la protection civile, de la sécurité et de l'accessibilité ' est remplacée par la référence à la ' commission de sécurité contre les risques d'incendie et de panique dans les établissements recevant du public '. Son rôle, sa composition et son fonctionnement sont définis par arrêté préfectoral ;
+
+2° Pour l'application de l'article L. 111-7-4, la référence à l'article L. 111-23 est supprimée ;
+
+3° Pour son application l'article L. 151-1 est ainsi rédigé :
+
+Art.L. 151-1.-Comme il est dit à l'article L. 461-1 du code de l'urbanisme :
+
+' Art.L. 461-1.-Le préfet et l'autorité compétente mentionnée aux articles L. 422-1 à L. 422-3 ou ses délégués, ainsi que les fonctionnaires et les agents commissionnés à cet effet par le ministre chargé de l'urbanisme et assermentés peuvent visiter les constructions en cours, procéder aux vérifications qu'ils jugent utiles et se faire communiquer tous documents techniques se rapportant à la réalisation des bâtiments, et en particulier ceux relatifs à l'accessibilité aux personnes handicapées quel que soit le type de handicap. Ce droit de visite et de communication peut aussi être exercé après l'achèvement des travaux pendant trois ans. ' ;
+
+4° Pour l'application de l'article L. 152-1, la référence aux articles : ' L. 111-4, L. 111-7 à L. 111-7-4, L. 111-8, L. 111-9, L. 111-10, L. 111-10-1, L. 112-17, L. 112-18, L. 112-19, L. 125-3, L. 131-4 et L. 135-1 ' est remplacée par la référence aux articles : ' L. 111-4, L. 111-7 à L. 111-7-4 '.
 
 ###### Article 93-3
 
@@ -1152,9 +1186,13 @@ A Mayotte, en Nouvelle-Calédonie, en Polynésie française et à Wallis-et-Futu
 
 ###### Article 93-4
 
-- Créé par Ordonnance n°2008-859 du 28 août 2008 - art. 8 I. - Les 1° et 4° de l'article 71, les articles 72 et 73 de la présente loi sont applicables en Nouvelle-Calédonie, en Polynésie française et à Wallis-et-Futuna. II. - Les articles 76 et 78 de la présente loi sont applicables à Mayotte ; ils sont également applicables en Nouvelle-Calédonie, en Polynésie française et à Wallis-et-Futuna, sous réserve de l'adaptation suivante : A l'article 78, les mots : ' qu'ils soient gérés par l'Etat, les collectivités territoriales ou un
+- Créé par Ordonnance n°2008-859 du 28 août 2008 - art. 8
 
-organisme les représentant ' sont remplacés par les mots : ' gérés par l'Etat ou un établissement public de l'Etat '.
+I. - Les 1° et 4° de l'article 71, les articles 72 et 73 de la présente loi sont applicables en Nouvelle-Calédonie, en Polynésie française et à Wallis-et-Futuna.
+
+II. - Les articles 76 et 78 de la présente loi sont applicables à Mayotte ; ils sont également applicables en Nouvelle-Calédonie, en Polynésie française et à Wallis-et-Futuna, sous réserve de l'adaptation suivante :
+
+A l'article 78, les mots : ' qu'ils soient gérés par l'Etat, les collectivités territoriales ou un organisme les représentant ' sont remplacés par les mots : ' gérés par l'Etat ou un établissement public de l'Etat '.
 
 ###### Article 94
 
@@ -1202,7 +1240,9 @@ Les dispositions de l'article 36 entreront en vigueur le 1er janvier 2006.
 
 ###### Article 98
 
-- Modifié par LOI n°2007-1824 du 25 décembre 2007 - art. 100 Le montant des contributions mentionnées à l'article 36 est réduit de 80 % pour l'année 2006, de 60 % pour l'année 2007, de 40 % pour l'année 2008 et de 20 % pour l'année 2009.
+- Modifié par LOI n°2007-1824 du 25 décembre 2007 - art. 100
+
+Le montant des contributions mentionnées à l'article 36 est réduit de 80 % pour l'année 2006, de 60 % pour l'année 2007, de 40 % pour l'année 2008 et de 20 % pour l'année 2009.
 
 Le montant des dépenses consacrées à la rémunération des personnels affectés à des missions d'aide à l'accueil, à l'intégration et à l'accompagnement des élèves ou étudiants handicapés au sein des écoles, des établissements scolaires et des établissements d'enseignement supérieur est déduit du montant des contributions mentionnées à l'article 36.
 
@@ -1216,35 +1256,35 @@ Les dispositions du VI de l'article 19 entreront en vigueur le 1er janvier 2006.
 
 ###### Article 100
 
-- I.-A titre transitoire, le Fonds de solidarité vieillesse gère la Caisse nationale de solidarité pour l'autonomie instituée par la loi n° 2004-626 du 30 juin 2004 relative à la solidarité pour l'autonomie des personnes âgées et des personnes handicapées.
+I.-A titre transitoire, le Fonds de solidarité vieillesse gère la Caisse nationale de solidarité pour l'autonomie instituée par la loi n° 2004-626 du 30 juin 2004 relative à la solidarité pour l'autonomie des personnes âgées et des personnes handicapées.
 
-- II.-L'article L. 14-10-5 du code de l'action sociale et des familles prend effet à compter du 1er janvier 2006.
+II.-L'article L. 14-10-5 du code de l'action sociale et des familles prend effet à compter du 1er janvier 2006.
 
 Pour l'année 2005, les crédits mentionnés aux 1° et 2° de l'article 13 de la loi n° 2004-626 du 30 juin 2004 précitée sont affectés au financement des mesures suivantes :
 
-- 1° Pour ce qui concerne le 1° de l'article 13 :
+1° Pour ce qui concerne le 1° de l'article 13 :
 
-- La contribution aux régimes de base d'assurance maladie prévue au I de l'article 12 de la loi de financement de la sécurité sociale pour 2005 (n° 2004-1370 du 20 décembre 2004) ;
+a) La contribution aux régimes de base d'assurance maladie prévue au I de l'article 12 de la loi de financement de la sécurité sociale pour 2005 (n° 2004-1370 du 20 décembre 2004) ;
 
-- Les dépenses de prévention et d'animation pour les personnes âgées ;
+b) Les dépenses de prévention et d'animation pour les personnes âgées ;
 
-- Par voie de fonds de concours créé par l'Etat, les opérations d'investissement et d'équipement, notamment pour la mise aux normes techniques et de sécurité des établissements pour personnes âgées ;
+c) Par voie de fonds de concours créé par l'Etat, les opérations d'investissement et d'équipement, notamment pour la mise aux normes techniques et de sécurité des établissements pour personnes âgées ;
 
-- Par voie de subvention, une contribution financière :
+d) Par voie de subvention, une contribution financière :
 
 -aux opérations d'investissement liées au développement de l'offre de lits médicalisés et aux adaptations architecturales concernant la prise en charge des personnes souffrant de troubles de la désorientation ;
 
 -à la mise en oeuvre des nouvelles normes techniques, sanitaires et de sécurité ;
 
-- 2° Pour ce qui concerne le 2° de l'article 13 :
+2° Pour ce qui concerne le 2° de l'article 13 :
 
-- La contribution aux régimes de base d'assurance maladie prévue au II de l'article 12 de la loi de financement de la sécurité sociale pour 2005 précitée ;
+a) La contribution aux régimes de base d'assurance maladie prévue au II de l'article 12 de la loi de financement de la sécurité sociale pour 2005 précitée ;
 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
 
-- Les crédits de cette section peuvent également financer, par voie de fonds de concours créé par l'Etat :
+b) Les crédits de cette section peuvent également financer, par voie de fonds de concours créé par l'Etat :
 
 -les établissements mentionnés au a du 5° du I de l'article L. 312-1 du code de l'action sociale et des familles, dans les conditions définies à l'article L. 314-4 du même code ;
 
@@ -1278,19 +1318,109 @@ Les textes réglementaires d'application de la présente loi sont publiés dans 
 
 L'ensemble des textes réglementaires d'application du chapitre II du titre IV de la présente loi sera soumis pour avis au Conseil supérieur pour le reclassement professionnel et social des travailleurs handicapés institué à l'article L. 323-34 du code du travail.
 
-Par le Président de la République : Jacques Chirac Le Premier ministre, Jean-Pierre Raffarin Le ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche, François Fillon Le ministre de l'intérieur, de la sécurité intérieure et des libertés locales, Dominique de Villepin Le ministre de l'emploi, du travail et de la cohésion sociale, Jean-Louis Borloo Le ministre des solidarités, de la santé et de la famille, Philippe Douste-Blazy Le garde des sceaux, ministre de la justice, Dominique Perben Le ministre de l'économie, des finances et de l'industrie, Hervé Gaymard Le ministre de l'équipement, des transports, de l'aménagement du territoire, du tourisme et de la mer, Gilles de Robien Le ministre de la fonction publique et de la réforme de l'Etat, Renaud Dutreil Le ministre de l'agriculture, de l'alimentation, de la pêche et de la ruralité, Dominique Bussereau Le ministre de la culture et de la communication, Renaud Donnedieu de Vabres Le ministre des petites et moyennes entreprises, du commerce, de l'artisanat, des professions libérales et de la consommation, Christian Jacob La ministre de l'outre-mer, Brigitte Girardin La ministre déléguée à l'intérieur, Marie-Josée Roig Le ministre délégué au budget et à la réforme budgétaire, porte-parole du Gouvernement, Jean-François Copé Le ministre délégué à la recherche, François d'Aubert Le ministre délégué aux relations du travail, Gérard Larcher Le ministre délégué au logement et à la ville, Marc-Philippe Daubresse La secrétaire d'Etat aux personnes handicapées, Marie-Anne Montchamp La secrétaire d'Etat aux personnes âgées, Catherine Vautrin Le secrétaire d'Etat à la réforme de l'Etat, Eric Woerth Le secrétaire d'Etat aux transports et à la mer, François Goulard Le secrétaire d'Etat à l'agriculture, à l'alimentation, à la pêche et à la ruralité, Nicolas Forissier (1) Travaux préparatoires : loi n° 2005-102. Sénat :
+Par le Président de la République :
+Jacques Chirac
+
+Le Premier ministre,
+Jean-Pierre Raffarin
+
+Le ministre de l'éducation nationale,
+de l'enseignement supérieur
+et de la recherche,
+François Fillon
+
+Le ministre de l'intérieur,
+de la sécurité intérieure
+et des libertés locales,
+Dominique de Villepin
+
+Le ministre de l'emploi, du travail
+et de la cohésion sociale,
+Jean-Louis Borloo
+
+Le ministre des solidarités,
+de la santé et de la famille,
+Philippe Douste-Blazy
+
+Le garde des sceaux, ministre de la justice,
+Dominique Perben
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
 
-(this page came through the extractor with no text)
+Le ministre de l'économie,
+des finances et de l'industrie,
+Hervé Gaymard
+
+Le ministre de l'équipement, des transports,
+de l'aménagement du territoire,
+du tourisme et de la mer,
+Gilles de Robien
+
+Le ministre de la fonction publique
+et de la réforme de l'Etat,
+Renaud Dutreil
+
+Le ministre de l'agriculture, de l'alimentation,
+de la pêche et de la ruralité,
+Dominique Bussereau
+
+Le ministre de la culture
+et de la communication,
+Renaud Donnedieu de Vabres
+
+Le ministre des petites et moyennes entreprises,
+du commerce, de l'artisanat,
+des professions libérales
+et de la consommation,
+Christian Jacob
+
+La ministre de l'outre-mer,
+Brigitte Girardin
+
+La ministre déléguée à l'intérieur,
+Marie-Josée Roig
+
+Le ministre délégué au budget
 
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
 
-(this page came through the extractor with no text)
+et à la réforme budgétaire,
+porte-parole du Gouvernement,
+Jean-François Copé
+
+Le ministre délégué à la recherche,
+François d'Aubert
+
+Le ministre délégué aux relations du travail,
+Gérard Larcher
+
+Le ministre délégué au logement et à la ville,
+Marc-Philippe Daubresse
+
+La secrétaire d'Etat aux personnes handicapées,
+Marie-Anne Montchamp
+
+La secrétaire d'Etat aux personnes âgées,
+Catherine Vautrin
+
+Le secrétaire d'Etat à la réforme de l'Etat,
+Eric Woerth
+
+Le secrétaire d'Etat aux transports
+et à la mer,
+François Goulard
+
+Le secrétaire d'Etat à l'agriculture,
+à l'alimentation, à la pêche
+et à la ruralité,
+Nicolas Forissier
+
+(1) Travaux préparatoires : loi n° 2005-102.
+Sénat :
 
 [[END OF PAGE 28]]
 
@@ -1300,7 +1430,7 @@ Projet de loi n° 183 (2003-2004) ;
 
 Rapport de M. Paul Blanc, au nom de la commission des affaires sociales, n° 210 (2003-2004) ;
 
-Discussion les 24, 25, 26 février 2003 et adoption le 1er mars 2003.
+Discussion les 24, 25 et 26 février 2004 et adoption le 1er mars 2004.
 
 Assemblée nationale :
 
