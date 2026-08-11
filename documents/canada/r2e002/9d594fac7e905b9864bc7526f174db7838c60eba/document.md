@@ -16,8 +16,6 @@ Legislative Counsel Office Tel: (902) 368-4291 Email: legislation@gov.pe.ca
 
 [[START OF PAGE 2]]
 
-1. In this Act
-
 # CHAPTER S-2.1
 
 # SCHOOL ACT
@@ -25,18 +23,41 @@ Legislative Counsel Office Tel: (902) 368-4291 Email: legislation@gov.pe.ca
 ## PART I
 ### DEFINITIONS
 
-this Act | Definitions
---- | ---
-(a) 'administrative position' with respect to instructional personnel includes the position of principals, vice-principals, and such other administrative staff of a school board as the Minister may designate after consultation with school boards; | administrative position
-(b) 'Agency' means, the Education Negotiating Agency constituted under section 110; | Agency
-(c) 'authorized representative' means (i) in the case of instructional personnel, the union or association which represents them for the purposes of collective bargaining, (ii) in the case of non-instructional personnel, the union which represents them for the purposes of collective bargaining; | authorized representative
-(d) 'Chief Health Officer' means the person so designated or appointed pursuant to the Public Health Act R.S.P.E.I. 1988, Cap. P- 30; | Chief Health Officer
-(e) repealed by 1994, c.56, s.1; | Commission
-(f) 'Department' means the Department of Education and Early Childhood Development; | Department
-(g) 'Director of Child Protection' means the person appointed to that office pursuant to the Child Protection Act R.S.P.E.I. 1988, Cap. C-5.1; | Director of Protection
-(g.1) 'eligible parent' means a resident of the province who, under section 23 of the Canadian Charter of Rights and Freedoms, has the right to have his or her children receive French first language instruction in the province; | eligible parent
-(h) repealed by 2012(2nd),c.23,s.1; | English school board English school
-(i) 'English school system' means the administrative system in which English is used as the language of instruction and in which French is taught as a second language or by means of a French immersion program; | system
+1. In this Act
+
+(a) “administrative position” with respect to instructional personnel includes the position of principals, vice-principals, and such other administrative staff of a school board as the Minister may designate after consultation with school boards;
+
+(b) “Agency” means, the Education Negotiating Agency constituted under section 110;
+
+(c) “authorized representative” means
+(i) in the case of instructional personnel, the union or association which represents them for the purposes of collective bargaining,
+(ii) in the case of non-instructional personnel, the union which represents them for the purposes of collective bargaining;
+
+(d) “Chief Health Officer” means the person so designated or appointed pursuant to the Public Health Act R.S.P.E.I. 1988, Cap. P-30;
+
+(e) repealed by 1994, c.56, s.1;
+
+(f) “Department” means the Department of Education and Early Childhood Development;
+
+(g) “Director of Child Protection” means the person appointed to that office pursuant to the Child Protection Act R.S.P.E.I. 1988, Cap. C-5.1;
+
+(g.1) “eligible parent” means a resident of the province who, under section 23 of the Canadian Charter of Rights and Freedoms, has the right to have his or her children receive French first language instruction in the province;
+
+(h) repealed by 2012(2nd),c.23,s.1;
+
+(i) “English school system” means the administrative system in which English is used as the language of instruction and in which French is taught as a second language or by means of a French immersion program;
+
+Definitions
+administrative position
+Agency
+authorized representative
+Chief Health Officer
+Commission
+Department
+Director of Child Protection
+eligible parent
+English school board
+English school system
 
 1
 
@@ -50,18 +71,45 @@ Cap. S-2.1
 
 School Act
 
-expulsion | (j) 'expulsion' means exclusion from a school until the end of the school year in which the exclusion occurs, unless this Act provides otherwise;
---- | ---
-French first language instruction | (k) 'French first language instruction' means primary and secondary school instruction in French as a first language, but does not include a French immersion program;
-French school board | (l) repealed by 2012(2nd),c.23,s.1;
-French school system | (m) 'French school system' means the administrative system in which French is used as the language of instruction and in which English is taught as a second language;
-instructional license | (m.1) 'instructional license' means a license to teach issued under subsection 3(1);
-instructional personnel | (n) 'instructional personnel' means a person who has been issued a instructional license and such other employees of a school board as the Minister may designate;
-Minister | (o) 'Minister' means the Minister of Education and Early Childhood Development;
-non-instructional personnel | (p) 'non-instructional personnel' means members of the transportation group, members of the property maintenance group, members of the school secretaries administrative support group, members of the school board office administration support group, educational assistants and such other persons as the Minister may designate, but excludes supervisory personnel;
-notifiable, nuisance or regulated disease parent | (q) repealed by 2012(2nd),c.23,s.1; (r) 'parent' includes a guardian and a person who has custody of or access to a student under an enactment or by virtue of any court order but in Part X does not include a foster parent or the Director of Child Protection;
-principal | (s) 'principal' means a teacher appointed by the school board to exercise educational leadership and supervisory and administrative responsibilities for a school;
-Provincial Superintendent regulated disease | (t) repealed by 1994, c.56, s.1; (t.1) 'regulated disease' means a notifiable disease or condition or communicable disease set out in a regulation under the Public Health Act or declared by the Minister of Health and Wellness to be
+(j) “expulsion” means exclusion from a school until the end of the school year in which the exclusion occurs, unless this Act provides otherwise;
+
+(k) “French first language instruction” means primary and secondary school instruction in French as a first language, but does not include a French immersion program;
+
+(l) repealed by 2012(2nd),c.23,s.1;
+
+(m) “French school system” means the administrative system in which French is used as the language of instruction and in which English is taught as a second language;
+
+(m.1) “instructional license” means a license to teach issued under subsection 3(1);
+
+(n) “instructional personnel” means a person who has been issued a instructional license and such other employees of a school board as the Minister may designate;
+
+(o) “Minister” means the Minister of Education and Early Childhood Development;
+
+(p) “non-instructional personnel” means members of the transportation group, members of the property maintenance group, members of the school secretaries administrative support group, members of the school board office administration support group, educational assistants and such other persons as the Minister may designate, but excludes supervisory personnel;
+
+(q) repealed by 2012(2nd),c.23,s.1;
+
+(r) “parent” includes a guardian and a person who has custody of or access to a student under an enactment or by virtue of any court order but in Part X does not include a foster parent or the Director of Child Protection;
+
+(s) “principal” means a teacher appointed by the school board to exercise educational leadership and supervisory and administrative responsibilities for a school;
+
+(t) repealed by 1994, c.56, s.1;
+
+(t.1) “regulated disease” means a notifiable disease or condition or communicable disease set out in a regulation under the Public Health Act or declared by the Minister of Health and Wellness to be a notifiable disease or condition pursuant to that Act;
+
+expulsion
+French first language instruction
+French school board
+French school system
+instructional license
+instructional personnel
+Minister
+non-instructional personnel
+notifiable, nuisance or regulated disease
+parent
+principal
+Provincial Superintendent
+regulated disease
 
 2
 
@@ -75,47 +123,52 @@ Cap. S-2.1
 
 3
 
-(u) 'school'  means  a  building  or  a  part  of  a  building  which  is designated as a school; school
+(u) “school” means a building or a part of a building which is designated as a school;
 
-(u.1) 'school-sponsored activity' means any activity, whether conducted  on  or  off  the  property  of  a  school,  that  is  sponsored, recognized or authorized by a principal or a school board; school-sponsored activity
+(u.1) “school-sponsored activity” means any activity, whether conducted on or off the property of a school, that is sponsored, recognized or authorized by a principal or a school board;
 
-(v) 'school board' means a board of trustees, appointed or elected in accordance with this Act; school board
+(v) “school board” means a board of trustees, appointed or elected in accordance with this Act;
 
 (w) repealed by 2012(2nd),c.23,s.1;
 
-school unit or unit
+(x) “school year” means a period beginning and ending on such dates as may be prescribed in the regulations;
 
-(x) 'school  year'  means  a  period  beginning  and  ending  on  such dates as may be prescribed in the regulations; school year
+(y) “student” means a person
+(i) enrolled in an educational program authorized by this Act, or
+(ii) required under section 69 to attend school;
 
-(y) 'student' means a person
+(z) “student teacher” means a person engaged in practice teaching while enrolled in a teacher education program recognized by the Minister;
 
-(i) enrolled in an educational program authorized by this Act, or (ii) required under section 69 to attend school;
+(z.1) “Superintendent” means the person appointed as the chief executive officer of a school board;
 
-(z) 'student  teacher'  means  a  person  engaged  in  practice  teaching while  enrolled  in  a  teacher  education  program  recognized  by  the Minister;
+(aa) “supervisory personnel”
+(i) with respect to instructional personnel, includes such supervisory staff of a school board as the Minister may designate, after consultation with the school boards,
+(ii) with respect to non-instructional personnel, includes such supervisory staff of school boards as the Minister may designate, after consultation with the school boards;
 
-student
+(bb) “teacher” means a person holding a valid and subsisting instructional license;
 
-student teacher
+(bb.1) “Treasury Board” means the Treasury Board constituted under subsection 8(1) of the Executive Council Act R.S.P.E.I. 1988, Cap. E-12;
 
-(z.1) 'Superintendent'  means  the  person  appointed  as  the  chief executive officer of a school board; Superintendent
-
-(aa) 'supervisory personnel'
-
-(i) with respect to instructional personnel, includes such supervisory staff of a school board as the Minister may designate, after consultation with the school boards, supervisory personnel
-
-(ii) with  respect  to  non-instructional  personnel,  includes  such supervisory staff of school boards as the Minister may designate, after consultation with the school boards;
-
-(bb) 'teacher' means  a  person  holding  a  valid and  subsisting instructional license; teacher
-
-(bb.1) 'Treasury  Board'  means  the  Treasury  Board  constituted under subsection 8(1) of the Executive Council Act R.S.P.E.I. 1988, Cap. E-12; Treasury Board
-
-(cc) 'trustee' means a person elected or appointed under this Act as a member of a school board in the province; trustee
+(cc) “trustee” means a person elected or appointed under this Act as a member of a school board in the province;
 
 (dd) repealed by 2012(2nd),c.23,s.1;
 
-Unit Superintendent
+(ee) repealed by 2006,c.39,s.1. 1993,c.35,s.1; 1994,c.56,s.1; 1995,c.8,s.1; 2000(2nd),c.3,s.62; 2003,c.43,s.1; 2006,c.39,s.1; 2007,c.16,s.1; 2009,c.73,s.2; 2010,c.44,s.1; 2010,c.28,s.41; 2012(2nd),c.23,s.1.
 
-(ee) repealed by 2006,c.39,s.1. 1993,c.35,s.1; 1994,c.56,s.1; 1995,c.8,s.1; 2000(2nd),c.3,s.62; 2003,c.43,s.1; 2006,c.39,s.1; 2007,c.16,s.1; 2009,c.73,s.2; 2010,c.44,s.1; 2010,c.28,s.41; 2012(2nd),c.23,s.1. where numbers warrant Administration Delegation Minister issues instructional licenses Minister may refuse to issue instructional license Minister may suspend, revoke instructional license School board not to pay where license suspended or revoked Notice
+school
+school-sponsored activity
+school board
+school unit or unit
+school year
+student
+student teacher
+Superintendent
+supervisory personnel
+teacher
+Treasury Board
+trustee
+Unit Superintendent
+where numbers warrant
 
 3
 
@@ -164,7 +217,15 @@ except where the person's instructional license has been reinstated.
 
 (a) the suspension or revocation of an instructional license for cause;
 
-(b) the voluntary surrender by a teacher of an instructional license or the  retirement  of  a  teacher  if  the  Minister  believes  on  reasonable grounds that the voluntary surrender or the retirement resulted from concerns  about  the  teacher  and  the  safety  of  children  or  other persons; and
+(b) the voluntary surrender by a teacher of an instructional license or the retirement of a teacher if the Minister believes on reasonable grounds that the voluntary surrender or the retirement resulted from
+
+Administration
+Delegation
+Minister issues instructional licenses
+Minister may refuse to issue instructional license
+Minister may suspend, revoke instructional license
+School board not to pay where license suspended or revoked
+Notice
 
 4
 
@@ -178,7 +239,9 @@ Cap. S-2.1
 
 5
 
-(c) the  reinstatement  of  instructional  licenses  for  which  notice  was provided in the circumstances referred to in clauses (a) or (b).
+concerns about the teacher and the safety of children or other persons; and
+
+(c) the reinstatement of instructional licenses for which notice was provided in the circumstances referred to in clauses (a) or (b).
 
 (5) The  Minister  shall  provide  a  copy  of  any  notice  given  under subsection  (4)  to  the  Superintendent  of  each  school  board  in  the province. 1993, c.35, s.3; 2006,c.39,s.2; 2010,c.44,s.2; 2012(2nd),c.23,s.2.
 
@@ -200,7 +263,14 @@ Cap. S-2.1
 
 (a) during which the person's authorization to substitute is suspended; or
 
-(b) after the person's authorization to substitute has been revoked, Notice to Unit Superintendents Authorization to substitute for a teacher Minister may suspend or revoke authorization Notice Notice to Unit Superintendents School board not to pay where authorization suspended or revoked Appeal No appeal Decision on appeal final Salary scales, instructional personnel Minister establishes salary scales, benefits for supervisory personnel Duties Powers except where the person's authorization to substitute has been reinstated. 2010,c.44,s.3.
+(b) after the person’s authorization to substitute has been revoked,
+
+Notice to Unit Superintendents
+Authorization to substitute for a teacher
+Minister may suspend or revoke authorization
+Notice
+Notice to Unit Superintendents
+School board not to pay where authorization suspended or revoked
 
 5
 
@@ -214,7 +284,9 @@ Cap. S-2.1
 
 School Act
 
-(1)  A person
+except where the person’s authorization to substitute has been reinstated. 2010,c.44,s.3.
+
+5. (1) A person
 
 (a) who is refused an instructional license under clause 3(1.1)(b) or (c); or
 
@@ -253,6 +325,14 @@ may appeal the refusal, suspension or revocation to a board established under th
 (h) establish an accountability framework for the school system.
 
 (2) The Minister may
+
+Appeal
+No appeal
+Decision on appeal final
+Salary scales, instructional personnel
+Minister establishes salary scales, benefits for supervisory personnel
+Duties
+Powers
 
 6
 
@@ -308,7 +388,7 @@ Cap. S-2.1
 
 Directives to school boards
 
-Directives of Minister to provide and coordinate educational and administrative services by school boards Allocation between school boards Minister's request for information Request for information, private schools, home schools Annual report to Legislative Assembly Certification and Standards Board Idem
+Directives of Minister to provide and coordinate educational and administrative services by school boards
 
 7
 
@@ -348,7 +428,14 @@ School Act
 
 11. (1) The Minister shall establish a Certification and Standards Board, in accordance with the regulations.
 
-(2) The Certification and Standards Board shall make recommendations to the Minister respecting the standards and criteria for instructional licenses and authorizations to substitute for teachers, including the qualifications for, and the classes and categories of licenses and  authorizations  to  substitute  for  teachers  in  accordance  with  the regulations.
+(2) The Certification and Standards Board shall make recommendations to the Minister respecting the standards and criteria for instructional licenses and authorizations to substitute for teachers, including the qualifications for, and the classes and categories of licenses
+
+Allocation between school boards
+Minister’s request for information
+Request for information, private schools, home schools
+Annual report to Legislative Assembly
+Certification and Standards Board
+Idem
 
 8
 
@@ -361,6 +448,8 @@ School Act
 Cap. S-2.1
 
 9
+
+and authorizations to substitute for teachers in accordance with the regulations.
 
 (3) The Minister may approve, deny or vary the recommendations of the Certification and Standards Board under subsection (2). 1993,c.35,s.11; 2010,c.44,s.5.
 
@@ -409,7 +498,7 @@ English Language School Board
 
 former school boards
 
-French Language School Board French Language School Board continued English Language School Board Trustees Body corporate Initial appointment of trustees to English School Board Repeal Dissolution Repeal
+French Language School Board
 
 9
 
@@ -439,17 +528,27 @@ School Act
 
 (2)  This section is repealed on June 30, 2014. 2012(2nd),c.23,s.7.
 
-27.3 (1)  On January 1, 2013, Transitional matters
+27.3 (1) On January 1, 2013,
 
-(a)  the assets and  liabilities of the former  school boards are transferred  to  and  become  the  assets  and  liabilities  of  the  English Language School Board;
+(a) the assets and liabilities of the former school boards are transferred to and become the assets and liabilities of the English Language School Board;
 
-(b)  all  contracts  and  agreements entered into by the former school boards are assumed by the English Language School Board and may be enforced by or against the English Language School Board;
+(b) all contracts and agreements entered into by the former school boards are assumed by the English Language School Board and may be enforced by or against the English Language School Board;
 
-(c)  all  legal  proceedings  and  rights  of  action  by  or  against  the former school boards may be brought or continued by or against the English Language School Board;
+(c) all legal proceedings and rights of action by or against the former school boards may be brought or continued by or against the English Language School Board;
 
-(d)  all employment contracts of supervisory personnel, noninstructional  personnel  and  instructional  personnel  of  the  former school boards are assumed by the English Language School Board;
+(d) all employment contracts of supervisory personnel, non-instructional personnel and instructional personnel of the former school boards are assumed by the English Language School Board;
 
-(e)  any  disciplinary  matters  in  respect  of  students  and  staff  of  the former  school  boards  that  were  commenced  by  the  former  school boards and not concluded on the coming into force of this section are continued as disciplinary matters in respect of those persons by the English Language School Board;
+(e) any disciplinary matters in respect of students and staff of the former school boards that were commenced by the former school
+
+French Language School Board continued
+English Language School Board
+Trustees
+Body corporate
+Initial appointment of trustees to English School Board
+Repeal
+Dissolution
+Repeal
+Transitional matters
 
 10
 
@@ -463,7 +562,9 @@ Cap. S-2.1
 
 11
 
-(f)  the  policies  of  the  former  school  boards  are  adopted  by  the English  Language  School  Board  and  apply  in  those  areas  of  the province  that  were  formerly  under  the  jurisdiction  of  the  Western School  Board  and  the  Eastern  School  District,  respectively,  for  a period  of  six  months,  unless  replaced  earlier  by  a  policy  made  or developed by the English Language School Board;
+boards and not concluded on the coming into force of this section are continued as disciplinary matters in respect of those persons by the English Language School Board;
+
+(f) the policies of the former school boards are adopted by the English Language School Board and apply in those areas of the province that were formerly under the jurisdiction of the Western School Board and the Eastern School District, respectively, for a period of six months, unless replaced earlier by a policy made or developed by the English Language School Board;
 
 (g)  the  appointment  of  a  person  appointed  by  the  Minister  to  the Education  Negotiating  Agency  as  a  representative  of  the  Eastern School District or the Western School Board that was in effect on the coming into force of this section is continued as an appointment of the person to the Education Negotiating Agency as a representative of the English Language School Board;
 
@@ -497,7 +598,7 @@ Retroactive application
 
 Repeal
 
-Qualifications for trustee Ineligibility as candidates Additional qualifications, candidates for the French Language School Board Electoral zones Elections held every third year Eligibility to vote Additional qualification, voters for the French Language School Board Trustees, term of four years
+Qualifications for trustee
 
 11
 
@@ -541,7 +642,15 @@ School Act
 
 (2) Voters in an election for the French Language School Board must also meet one of the qualifications set out in section 29. 1993, c.35, s.32; 2012(2nd),c.23,s.10.
 
-33. (1) Subject  to  subsection  (2)  and  to  sections  34  and  38,  trustees elected  in  May  2008,  and  in  every  school  board  election  held  under section 31 thereafter, shall be elected in accordance with the regulations for a term of four years.
+33. (1) Subject to subsection (2) and to sections 34 and 38, trustees elected in May 2008, and in every school board election held under section 31 thereafter, shall be elected in accordance with the regulations for a term of four years.
+
+Ineligibility as candidates
+Additional qualifications, candidates for the French Language School Board
+Electoral zones
+Elections held every third year
+Eligibility to vote
+Additional qualification, voters for the French Language School Board
+Trustees, term of four years
 
 12
 
@@ -571,15 +680,23 @@ Cap. S-2.1
 
 #### D. Trustee Appointments
 
-35. (1)  Where  a  trustee's  position  on  a  school  board  becomes  vacant during the trustee's term of office, the Lieutenant Governor in Council
+35. (1) Where a trustee’s position on a school board becomes vacant during the trustee’s term of office, the Lieutenant Governor in Council
 
-(a)  shall make provision to fill the vacancy by holding a by-election ,
+(a) shall make provision to fill the vacancy by holding a by-election,
+if the vacancy occurs within the first two years of the trustee’s term of office; or
 
-if the vacancy occurs within the first two years of the trustee's term of office; or
+(b) may appoint a replacement if
 
-(b)  may appoint a replacement if
+(i) the vacancy occurs within the final two years of the trustee’s term of office, or
 
-(i) the  vacancy occurs within the final two years of the trustee's term of office, or Trustee appointments Trustees' terms deemed to continue Trustee appointment Replacement to serve balance of term Expiry of term Change participation between school systems Offence to vote for more than one school board Replacement for vacant trustee position Replacements serve balance of term Application Number of terms Term of office begins First meeting of new school board Elect chairperson of school board Resignation of trustee Disqualification of trustee
+Trustee appointments
+Trustees’ terms deemed to continue
+Trustee appointment
+Replacement to serve balance of term
+Expiry of term
+Change participation between school systems
+Offence to vote for more than one school board
+Replacement for vacant trustee position
 
 13
 
@@ -623,7 +740,16 @@ School Act
 
 (d) ceases to be resident of the electoral zone for which the trustee was elected;
 
-(e) becomes  an  employee  of  any  school  board,  or  a  designated employee of the Department;
+(e) becomes an employee of any school board, or a designated employee of the Department;
+
+Replacements serve balance of term
+Application
+Number of terms
+Term of office begins
+First meeting of new school board
+Elect chairperson of school board
+Resignation of trustee
+Disqualification of trustee
 
 14
 
@@ -671,17 +797,13 @@ Cap. S-2.1
 
 #### I. School Board Meetings
 
-41. (1) A school board shall make policies, including procedural policies and a policy outlining a code of ethics for trustees, regarding the conduct of its meetings and shall permit any person to inspect those policies. of meetings
+41. (1) A school board shall make policies, including procedural policies and a policy outlining a code of ethics for trustees, regarding the conduct of its meetings and shall permit any person to inspect those policies.
 
 Trustee disqualified for absence
-
 Idem
-
 Individual trustee responsibilities
-
 Trustee remuneration
-
-Policies for conduct Regular school board meetings published Annual meeting of school boards Regular meetings open to public Exclusion from meeting Resolutions at meetings held in private Idem Quorum Binding resolution requires quorum Resolution not valid, when Committees of school board Inspection
+Policies for conduct of meetings
 
 15
 
@@ -727,6 +849,18 @@ School Act
 
 (b) policies adopted by the school board;
 
+Regular school board meetings published
+Annual meeting of school boards
+Regular meetings open to public
+Exclusion from meeting
+Resolutions at meetings held in private
+Idem
+Quorum
+Binding resolution requires quorum
+Resolution not valid, when
+Committees of school board
+Inspection
+
 16
 
 [[END OF PAGE 17]]
@@ -767,27 +901,21 @@ Cap. S-2.1
 
 #### M. Annual Reports
 
-48. Every school board shall submit an annual report to the Minister in accordance with Minister's directives. 1993, c.35, s.48. Annual reports
+48. Every school board shall submit an annual report to the Minister in accordance with Minister’s directives. 1993, c.35, s.48.
 
 #### N. Responsibilities of School Boards
 
-49. A school board shall, subject to the regulations, the Minister's orders under subsection 63.2(5) and the Minister's directives:
+49. A school board shall, subject to the regulations, the Minister’s orders under subsection 63.2(5) and the Minister’s directives:
 
 Exceptions
-
 Delegation by school board
-
 School board not to delegate, when
-
 Idem
-
 Management of schools and property
-
 Other uses of schools
-
 Use of school buses, etc.
-
-School board responsibilities School board policies Admission of students to schools Placement of students
+Annual reports
+School board responsibilities
 
 17
 
@@ -843,7 +971,11 @@ School Act
 
 51. (1) A  school  board  shall  admit  students  to  schools  in  its  system  in accordance with this Act and the regulations.
 
-(2) A  school  board  shall  determine  the  placement  of  students  in  the various classes and schools in accordance with the students' needs, their educational  attainments,  the  facilities  of  the  system  and  any  school attendance plan currently in effect in the system.
+(2) A school board shall determine the placement of students in the various classes and schools in accordance with the students’ needs, their educational attainments, the facilities of the system and any school attendance plan currently in effect in the system.
+
+School board policies
+Admission of students to schools
+Placement of students
 
 18
 
@@ -857,41 +989,43 @@ Cap. S-2.1
 
 19
 
-(3) For the purposes of placement, kindergarten shall be the first level of education provided  in schools. 1993, c.35, s.51; 2010,c.44,s.6; 2012(2nd)c.23,s.20.
+(3) For the purposes of placement, kindergarten shall be the first level of education provided in schools. 1993, c.35, s.51; 2010,c.44,s.6; 2012(2nd)c.23,s.20.
 
-52. Subject  to  Minister's  directives,  a  school  board  may  recognize  for placement or grant credit for
+52. Subject to Minister’s directives, a school board may recognize for placement or grant credit for
 
-(a) educational  activities  provided  by  a  licensed  private  school  or through a home education program; or
+(a) educational activities provided by a licensed private school or through a home education program; or
 
-(b) other  educational  activities  not  provided  by  the  school  board. 1993,c.35,s.52; 2003,c.43,s.3.
+(b) other educational activities not provided by the school board. 1993,c.35,s.52; 2003,c.43,s.3.
 
-53. A  school  board  shall  regulate  the  attendance  of  students  and  is responsible for the enforcement of the attendance provisions of this Act. 1993,c.35,s.53.
+53. A school board shall regulate the attendance of students and is responsible for the enforcement of the attendance provisions of this Act. 1993,c.35,s.53.
 
 #### P. Disturbances on School Premises
 
-54. (1) Any  person  who  creates  or  attempts  to  create  a  disturbance  on school premises may be excluded from the premises by any staff person of the school.
+54. (1) Any person who creates or attempts to create a disturbance on school premises may be excluded from the premises by any staff person of the school.
 
-Kindergarten
+(2) Subsection (1) does not apply during school hours to a student enrolled in that school who is not suspended or expelled from that school. 1993, c.35, s.54.
 
-Recognition of educational activities not provided by school boards
-
-Attendance of students
-
-Disturbances on school premises
-
-(2) Subsection  (1)  does  not  apply  during  school  hours  to  a  student enrolled  in  that  school  who  is  not  suspended  or  expelled  from  that school. 1993, c.35, s.54. Exception
-
-55. Repealed  by  2006,c.39,s.6. 1993, c.35, s.55; 1994,  c.56, s.14; 2006,c.39,s.6. Student records
+55. Repealed by 2006,c.39,s.6. 1993, c.35, s.55; 1994, c.56, s.14; 2006,c.39,s.6.
 
 #### R. Student Teachers
 
-56. If  a  school  board  receives  a  request  from  a  recognized  teacher training  institution  for  permission  for  student  teachers  to  practise  and observe teaching, the school board may permit student teachers enrolled at that institution to have reasonable access to classrooms in accordance with the regulations and school board policies and procedures respecting practice teaching. 1993, c.35, s.56. Practice teaching
+56. If a school board receives a request from a recognized teacher training institution for permission for student teachers to practise and observe teaching, the school board may permit student teachers enrolled at that institution to have reasonable access to classrooms in accordance with the regulations and school board policies and procedures respecting practice teaching. 1993, c.35, s.56.
 
 #### S. Closure of Schools
 
-57. (1)  Subject  to  the  regulations  and  with  the  prior  approval  of  the Lieutenant  Governor  in  Council,  a  school  board  may  close  a  school permanently. Permanent closure of schools
+57. (1) Subject to the regulations and with the prior approval of the Lieutenant Governor in Council, a school board may close a school permanently.
 
-(2) Subject  to  the  regulations,  a  school  board  may  close  a  school  for  a specified period. 1997,c.46,s.2. Temporary closure Employment and management of personnel Competitions Terms and conditions of employment Contracts with employees Sabbatical leaves for instructional personnel Superintendent Superintendent responsibilities Trustee, officer employee, reference to No action for performance of responsibilities
+(2) Subject to the regulations, a school board may close a school for a specified period. 1997,c.46,s.2.
+
+Kindergarten
+Recognition of educational activities not provided by school boards
+Attendance of students
+Disturbances on school premises
+Exception
+Student records
+Practice teaching
+Permanent closure of schools
+Temporary closure
 
 19
 
@@ -911,7 +1045,7 @@ School Act
 
 (2) Employees of any school board and the Department are eligible to compete for school board positions.
 
-(3) A school board may prescribe terms and conditions of employment for  instructional  and  non-instructional  personnel,  but  such  terms  and conditions of employment  shall  not  conflict  with  this Act  or the regulations or a current collective agreement between the Agency and the authorized representative for instructional personnel or for noninstructional personnel. 1993, c.35, s.58; 1994, c.56, s.14.
+(3) A school board may prescribe terms and conditions of employment for instructional and non-instructional personnel, but such terms and conditions of employment shall not conflict with this Act or the regulations or a current collective agreement between the Agency and the authorized representative for instructional personnel or for non-instructional personnel. 1993, c.35, s.58; 1994, c.56, s.14.
 
 59. Each  school  board  shall  enter  into  contracts  with  its  employees  in accordance with this Act and the regulations. 1993, c.35, s.59.
 
@@ -921,7 +1055,7 @@ School Act
 
 61. (1) Each school board shall appoint an Superintendent who shall be the chief executive officer of the school board.
 
-- Subject  to  the  direction  of  the  school  board,  the  Superintendent shall
+(2) Subject to the direction of the school board, the Superintendent shall
 
 (a) exercise general supervision and management over the employees of the school board;
 
@@ -933,7 +1067,17 @@ School Act
 
 62. (1) In  this  section  a  reference  to  a  trustee,  officer  or  employee  of  a school board includes a former trustee, officer or employee of a school board.
 
-(2) No action for damages lies or shall be instituted against a school board or a trustee, an official trustee appointed under subsection 63.1(1), officer  or  employee  of  a  school  board  for  anything  said  or  done  or omitted to be said or done by that person in the performance or intended performance  of  responsibilities  or  in  the  exercise  of  power  or  for  any alleged neglect or default in the performance or intended performance of the responsibility or exercise of the power.
+(2) No action for damages lies or shall be instituted against a school board or a trustee, an official trustee appointed under subsection 63.1(1), officer or employee of a school board for anything said or done or
+
+Employment and management of personnel
+Competitions
+Terms and conditions of employment
+Contracts with employees
+Sabbatical leaves for instructional personnel
+Superintendent
+Superintendent responsibilities
+Trustee, officer employee, reference to
+No action for performance of responsibilities
 
 20
 
@@ -947,11 +1091,11 @@ Cap. S-2.1
 
 21
 
-(3) Subsection (2) does not provide a defence to an action for damages where Exceptions
+omitted to be said or done by that person in the performance or intended performance of responsibilities or in the exercise of power or for any alleged neglect or default in the performance or intended performance of the responsibility or exercise of the power.
 
-(a) the trustee, an official trustee appointed under subsection 63.1(1),
+(3) Subsection (2) does not provide a defence to an action for damages where
 
-officer or employee has in relation to the conduct that is the subject matter of the action been guilty of dishonesty, gross negligence or malicious or wilful misconduct;
+(a) the trustee, an official trustee appointed under subsection 63.1(1), officer or employee has in relation to the conduct that is the subject matter of the action been guilty of dishonesty, gross negligence or malicious or wilful misconduct;
 
 (b) the cause of action is libel or slander; or
 
@@ -959,29 +1103,25 @@ officer or employee has in relation to the conduct that is the subject matter of
 
 63. (1) A school board, in accordance with policy adopted by the school board, may indemnify a trustee, an officer or an employee of the school board
 
-(a) against  a  claim  for  damages  against  the  trustee,  an  officer  or employee arising out of that person's responsibilities for or on behalf of the school board; or
+(a) against a claim for damages against the trustee, an officer or employee arising out of that person’s responsibilities for or on behalf of the school board; or
 
-(b) where an inquiry under the Public Inquiries Act R.S.P.E.I. 1988,
+(b) where an inquiry under the Public Inquiries Act R.S.P.E.I. 1988, Cap. P-31 or other proceeding involves the administration and conduct of the business of the school board.
 
-Cap.  P-31  or  other  proceeding  involves  the  administration  and conduct of the business of the school board.
+(2) Indemnification under subsection (1) may include costs and fees necessarily incurred in proceedings arising out of the claim or inquiry or other proceedings.
 
-(2) Indemnification  under  subsection  (1)  may  include  costs  and  fees necessarily incurred in proceedings arising out of the claim or inquiry or other proceedings.
+(3) A school board may by a majority vote indemnify a trustee, an officer or an employee of the school board for the costs and fees necessarily incurred where a prosecution arises out of the performance of that person’s school board responsibilities.
 
-(3) A  school  board  may  by  a  majority  vote  indemnify  a  trustee,  an officer  or  an  employee  of  the  school  board  for  the  costs  and  fees necessarily incurred where a prosecution arises out of the performance of that person's school board responsibilities.
-
-(4) A  school  board  shall  not  seek  indemnity  against  a  trustee,  an officer or employee of the school board in respect of any action of the trustee, officer or employee of the school board, except
+(4) A school board shall not seek indemnity against a trustee, an officer or employee of the school board in respect of any action of the trustee, officer or employee of the school board, except
 
 (a) where the claim for damages against the school board arises out of the gross negligence of the trustee, officer or employee; or
 
-(b) where,  in  relation  to  the  action  that  gave  rise  to  the  claim  for damages  against  an  officer  or  employee,  the  officer  or  employee wilfully acted contrary to the terms of that person's employment or to an order of a superior. 1993, c.35, s.63; 2012(2nd),c.23,s.23.
+(b) where, in relation to the action that gave rise to the claim for damages against an officer or employee, the officer or employee wilfully acted contrary to the terms of that person’s employment or to an order of a superior. 1993, c.35, s.63; 2012(2nd),c.23,s.23.
 
+Exceptions
 Indemnification of trustee
-
 Includes costs and fees
-
 Indemnify where prosecution
-
-School board not indemnified Official trustee Powers and duties, remuneration Trustees cease to hold office No term past next election Effect of appointment Inquiry into administration Examination of documents and attendance at meetings
+School board not indemnified
 
 21
 
@@ -1037,7 +1177,15 @@ or operation, including the actions of trustees, of a school board.
 
 (ii) all bank books, and
 
-(iii) any other papers, documents or things, of a school board; and
+(iii) any other papers, documents or things,
+
+Official trustee
+Powers and duties, remuneration
+Trustees cease to hold office
+No term past next election
+Effect of appointment
+Inquiry into administration
+Examination of documents and attendance at meetings
 
 22
 
@@ -1051,37 +1199,53 @@ Cap. S-2.1
 
 23
 
-(b)  may  attend  any  meeting  of  a  school  board  and  may  not  be excluded from such a meeting under subsection 42(2).
+of a school board; and
 
-(3)  The books, papers, documents and things referred to in subsection (2) shall be made available to the person appointed by the Minister at the time the person requests them from the person who has custody of them. Idem
+(b) may attend any meeting of a school board and may not be excluded from such a meeting under subsection 42(2).
 
-(4) If the Minister so provides, a person appointed under subsection (1) has all the powers,  privileges  and  immunities  of  a  commissioner appointed under the Public Inquiries Act R.S.P.E.I. 1988, Cap-P-31. Power
+(3) The books, papers, documents and things referred to in subsection (2) shall be made available to the person appointed by the Minister at the time the person requests them from the person who has custody of them.
 
-(5) A person  appointed  under  subsection  (1)  shall  report  to the Minister on the examination and inspection and, on receipt of the report, the Minister may make any order to the school board that seems proper to the Minister. Report and order
+(4) If the Minister so provides, a person appointed under subsection (1) has all the powers, privileges and immunities of a commissioner appointed under the Public Inquiries Act R.S.P.E.I. 1988, Cap. P-31.
 
-(6) The Minister may, on receipt of a report under subsection (1), make any  order  to  any  trustee  of  the  school  board  that  seems  proper  to  the Minister. Order
+(5) A person appointed under subsection (1) shall report to the Minister on the examination and inspection and, on receipt of the report, the Minister may make any order to the school board that seems proper to the Minister.
 
-(7)  Where a trustee fails to comply with an order made to the trustee under  subsection  (6),  the  Minister  may,  by  order,  vacate  the  trustee's position on the school board. 2010, c.26, s.7. Failure of trustee to comply with order
+(6) The Minister may, on receipt of a report under subsection (1), make any order to any trustee of the school board that seems proper to the Minister.
 
-64. Repealed by 2006,c.39,s.7. 1993, c.35, s.64; 2006,c.39.7. | Transitional
---- | ---
-65. Repealed by 2006,c.39,s.7. 1993, c.35, s.65; 2006,c.39,s.7. | Interim school board
+(7) Where a trustee fails to comply with an order made to the trustee under subsection (6), the Minister may, by order, vacate the trustee’s position on the school board. 2010, c.26, s.7.
+
+64. Repealed by 2006,c.39,s.7. 1993, c.35, s.64; 2006,c.39,s.7.
+
+65. Repealed by 2006,c.39,s.7. 1993, c.35, s.65; 2006,c.39,s.7.
 
 ## PART V
 
 ### SCHOOL COUNCILS
 
-66. (1) Parents  of  students  attending  a  school  may  establish  a  school council for the school. School council
+66. (1) Parents of students attending a school may establish a school council for the school.
 
-(2) The majority of the members of the school council of a school must be parents of students attending that school. Members
+(2) The majority of the members of the school council of a school must be parents of students attending that school.
 
-(3) The Minister shall make policies respecting the establishment of a school council, the election of members and the dissolution of the school council. Policies
+(3) The Minister shall make policies respecting the establishment of a school council, the election of members and the dissolution of the school council.
 
 (4) The school council shall determine its own procedure.
 
 (5) A Home and School Association in any school may be considered a school council. 1993, c.35, s.66; 1994, c.56, s.14; 2007,c.16,s.5.
 
-67. The functions of a school council are Procedure Home and School Association Functions Right to free school privileges Person of compulsory school age
+67. The functions of a school council are
+
+Idem
+Power
+Report and order
+Order
+Failure of trustee to comply with order
+Transitional
+Interim school board
+School council
+Members
+Policies
+Procedure
+Home and School Association
+Functions
 
 23
 
@@ -1113,7 +1277,7 @@ School Act
 
 (viii) parent-school communications and parental access to information on their children,
 
-(ix) any other matters that have a significant impact on the day-today life or financial resources of the family or the quality of life of the student in the school;
+(ix) any other matters that have a significant impact on the day-to-day life or financial resources of the family or the quality of life of the student in the school;
 
 (b) to provide a channel of communication between the school and the  community,  and  to  build  awareness  among  parents  of  school programs, activities, and issues;
 
@@ -1139,14 +1303,16 @@ have  the  right  to  free  school  privileges  in  the  public  schools  of  th
 
 #### B. Compulsory School Age
 
-69. (1) For the purposes of this Act, 'person of compulsory school age' means a person from six to sixteen years, and includes a person who will reach the age of six by the date prescribed by the regulations.
+69. (1) For the purposes of this Act, “person of compulsory school age” means a person from six to sixteen years, and includes a person who will reach the age of six by the date prescribed by the regulations.
+
+Right to free school privileges
+Person of compulsory school age
 
 24
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
-
 School Act
 
 Cap. S-2.1
@@ -1155,13 +1321,9 @@ Cap. S-2.1
 
 (2) Subject to sections 70, 74 and 75, all persons of compulsory school age residing in the province, who have not graduated from high school, shall attend school.
 
-Compulsory attendance at school
-
 (3) The parent of a person required to attend school under this section shall cause the person to attend school.
 
-Duty of parent
-
-(4) For  the  purposes  of  this  section,  attendance  at  school  includes attendance at Attendance
+(4) For the purposes of this section, attendance at school includes attendance at
 
 (a) a public school or an education program provided by the school board;
 
@@ -1171,31 +1333,37 @@ Duty of parent
 
 (d) an education program authorized by the Minister.
 
-(5) A  parent  who  fails  or  neglects  to  comply  with  subsection  (3)  is guilty of an offence. 1993,c.35,s.69; 2003,c.43,s.4; 2010,c.44,s.8; 2012(2nd),c.23,s.25.
+(5) A parent who fails or neglects to comply with subsection (3) is guilty of an offence. 1993,c.35,s.69; 2003,c.43,s.4; 2010,c.44,s.8; 2012(2nd),c.23,s.25.
 
 #### C. School Absences
 
-- A student is excused from attending school on an instructional day if (a) the  student  is  unable  to  attend  school  because  of  illness  or through other cause which has been reported to and approved by the principal;
+70. A student is excused from attending school on an instructional day if
 
-(b) the  day  is  recognized  as  a  religious  holiday  by  the  religious denomination to which the student belongs; or
+(a) the student is unable to attend school because of illness or through other cause which has been reported to and approved by the principal;
 
-(c) the  Minister  certifies  in  writing  to  the  school  board  that  the student
+(b) the day is recognized as a religious holiday by the religious denomination to which the student belongs; or
+
+(c) the Minister certifies in writing to the school board that the student
 
 (i) is exempt from attending school, or
 
-(ii) is  taking  part  in  a  home  education  program.  1993,c.35,s.70; 2003,c.43,s.5.
+(ii) is taking part in a home education program. 1993,c.35,s.70; 2003,c.43,s.5.
 
-71. (1) Where it appears to the principal of any school that a student is frequently  absent  from  school  without  satisfactory  explanation,  the principal shall report the matter to the Superintendent.
+71. (1) Where it appears to the principal of any school that a student is frequently absent from school without satisfactory explanation, the principal shall report the matter to the Superintendent.
 
-(2) On receipt of a report under this section, the Superintendent shall investigate  the  report  and  take  such  action  as  may  be  required  by  the regulations. 1993, c.35, s.71; 2012(2nd),c.23,s.26.
+(2) On receipt of a report under this section, the Superintendent shall investigate the report and take such action as may be required by the regulations. 1993, c.35, s.71; 2012(2nd),c.23,s.26.
 
 #### D. Student Responsibilities
 
-- Students enrolled in a school have the following responsibilities:
+72. Students enrolled in a school have the following responsibilities:
 
-(a) to observe the code of conduct and other rules and policies of the
+(a) to observe the code of conduct and other rules and policies of the school board and of the school;
 
-school board and of the school;
+Compulsory attendance at school
+
+Duty of parent
+
+Attendance
 
 Offence for parent not to send to school
 
@@ -1205,21 +1373,19 @@ Frequent absence from school
 
 Superintendent investigates
 
-Student responsibilities Corporal punishment prohibited Reasonable restraint where danger Suspension of student Report to parents Report
+Student responsibilities
 
 25
-
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
-
 26
 
 Cap. S-2.1
 
 School Act
 
-(b) to  attend  classes regularly and punctually and participate in the educational programs in which the student is enrolled;
+(b) to attend classes regularly and punctually and participate in the educational programs in which the student is enrolled;
 
 (c) to be diligent in pursuing the student's studies;
 
@@ -1227,9 +1393,9 @@ School Act
 
 #### E. Discipline of Students
 
-73. (1) The  manner  in  which  a  student  is  disciplined  while  attending school or school-sponsored activities shall be similar to that administered by  a  kind,  firm  and  judicious  parent,  but  shall  not  include  corporal punishment.
+73. (1) The manner in which a student is disciplined while attending school or school-sponsored activities shall be similar to that administered by a kind, firm and judicious parent, but shall not include corporal punishment.
 
-(2) Subsection  (1)  does  not  preclude  reasonable  action  by  a  school staff member or authorized adult to restrain a student who is creating an immediate  danger  to  the  student  or  to  others  or  is  creating  significant damage to property. 1993, c.35, s.73.
+(2) Subsection (1) does not preclude reasonable action by a school staff member or authorized adult to restrain a student who is creating an immediate danger to the student or to others or is creating significant damage to property. 1993, c.35, s.73.
 
 #### F. Suspension or Expulsion of Student
 
@@ -1245,32 +1411,40 @@ School Act
 
 (iii) riding on a school bus,
 
-(iv) participating  in  an  activity  approved  or  sponsored  by  the school or the school board, or
+(iv) participating in an activity approved or sponsored by the school or the school board, or
 
 (v) school and from all school activities.
 
-- The principal or the Superintendent who suspended a student under Reinstatement
+(2) The principal or the Superintendent who suspended a student under clause (1)(b) may reinstate the student.
 
-clause (1)(b) may reinstate the student.
+(3) Where a student is suspended under clause (1)(b), the person suspending the student shall forthwith report the circumstances to the parent of the student in accordance with the regulations.
 
-(3) Where  a  student  is  suspended  under  clause  (1)(b),  the  person suspending  the  student  shall  forthwith  report  the  circumstances  to  the parent of the student in accordance with the regulations.
+(4) Where a student is suspended for more than five consecutive instructional days
 
-(4) Where  a  student  is  suspended  for  more  than  five  consecutive instructional days
-
-(a) if  a  principal  orders  the  suspension,  he  or  she  shall  report  it forthwith to the Superintendent;
+(a) if a principal orders the suspension, he or she shall report it forthwith to the Superintendent;
 
 (b) if the Superintendent orders the suspension, he or she shall report it forthwith to the school board.
 
-(5) Where  a student is suspended  for more  than 5 consecutive
+(5) Where a student is suspended for more than 5 consecutive instructional days, the school board shall hold a hearing respecting the suspension, at the parent’s request, or it may hold a hearing of its own
 
-- instructional  days,  the  school  board  shall  hold  a  hearing  respecting  the suspension, at the parent's request, or it may hold a hearing of its own Hearing
+Corporal punishment prohibited
+
+Reasonable restraint where danger
+
+Suspension of student
+
+Reinstatement
+
+Report to parents
+
+Report
+
+Hearing
 
 26
-
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
-
 School Act
 
 Cap. S-2.1
@@ -1279,9 +1453,9 @@ Cap. S-2.1
 
 initiative. 1993,c.35,s.74; 1994,c.56,s.19; 1996,c.40,s.9; 2012(2nd),c.23,s.27.
 
-75. (1) A  school  board  may  suspend  or  expel  a  student  in  accordance with the regulations.
+75. (1) A school board may suspend or expel a student in accordance with the regulations.
 
-(2) If  a  school  board  is  considering  a  suspension  or  expulsion,  the school  board  shall,  in  accordance  with  the  regulations,  hold  a  hearing and make a decision in accordance with the regulations. 1993, c.35, s.75.
+(2) If a school board is considering a suspension or expulsion, the school board shall, in accordance with the regulations, hold a hearing and make a decision in accordance with the regulations. 1993, c.35, s.75.
 
 76. (1) The student and a parent of the student have the right to be heard at a hearing regarding suspension or expulsion of the student.
 
@@ -1289,27 +1463,25 @@ initiative. 1993,c.35,s.74; 1994,c.56,s.19; 1996,c.40,s.9; 2012(2nd),c.23,s.27.
 
 #### G. Student Records
 
-77. (1) A  school  board  shall  ensure  that  schools  under  its  jurisdiction establish  and  maintain,  for  the  prescribed  period,  a  record  for  each student enrolled at a school.
+77. (1) A school board shall ensure that schools under its jurisdiction establish and maintain, for the prescribed period, a record for each student enrolled at a school.
 
-(2) Subject  to  the  regulations,  a  school  board  shall  establish  written procedures  respecting  the  storage,  retrieval  and  appropriate  use  of student records.
+(2) Subject to the regulations, a school board shall establish written procedures respecting the storage, retrieval and appropriate use of student records.
 
 (3) Student records are the property of the school board.
 
-(4) No person shall knowingly disclose to any person any information from  a  student  record  that  identifies  a  student,  unless  the  disclosure complies with the regulations and is
+(4) No person shall knowingly disclose to any person any information from a student record that identifies a student, unless the disclosure complies with the regulations and is
 
 (a) made with the written consent of
 
-(i) the student's parent, or
+(i) the student’s parent, or
 
-(ii) in  the  case  of  a  student  who  is  of  the  age  of  majority,  the student;
+(ii) in the case of a student who is of the age of majority, the student;
 
-(b) made to a school board employee or other person consulting with or providing services, assessment or advice regarding the student to the student's teacher, principal, the school board or to an educational institution;
+(b) made to a school board employee or other person consulting with or providing services, assessment or advice regarding the student to the student’s teacher, principal, the school board or to an educational institution;
 
 (c) approved by the principal or the Superintendent for release to an educational institution, an individual or organization that
 
-(i) is considering acceptance or placement of the student in one of
-
-its programs, or
+(i) is considering acceptance or placement of the student in one of its programs, or
 
 (ii) provides scholarships, bursaries or services to a student;
 
@@ -1327,14 +1499,12 @@ Procedures
 
 Idem
 
-Disclosure requirements Minister Offence Parent may examine student records Person 16 or older may examine own records Not contrary to Youth Criminal Justice Act Liability for property damage Not applicable to parent of adult student
+Disclosure requirements
 
 27
-
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
-
 28
 
 Cap. S-2.1
@@ -1343,11 +1513,11 @@ School Act
 
 (d) authorized by the Superintendent if the Superintendent believes on reasonable grounds that the disclosure will avert or minimize an imminent danger to the health or safety of any person;
 
-(e) made to the Director of Child Protection for the purposes of an investigation  under  the Child  Protection  Act R.S.P.E.I.  1988,  Cap. C-5.1;
+(e) made to the Director of Child Protection for the purposes of an investigation under the Child Protection Act R.S.P.E.I. 1988, Cap. C-5.1;
 
 (f) made to a police or corrections agency;
 
-(g) required by  or  under  an  enactment  of  the  province  or  of Parliament; or
+(g) required by or under an enactment of the province or of Parliament; or
 
 (h) required by a court order.
 
@@ -1361,24 +1531,36 @@ School Act
 
 (6) Every person who fails to comply with subsection (4) is guilty of an offence under this Act. 2010,c.28,s.41; 2012(2nd),c.23,s.28.
 
-77.1 (1) Subject  to  section  81,  a  parent  may,  in  accordance  with  the regulations,  examine  the  student  records  kept  by  a  school  or  a  school board respecting the child of that parent.
+77.1 (1) Subject to section 81, a parent may, in accordance with the regulations, examine the student records kept by a school or a school board respecting the child of that parent.
 
-(2) A person who is at least 16 years old may, in accordance with the regulations,  examine  the  student  records  kept  by  a  school  or  a  school board respecting that person.
+(2) A person who is at least 16 years old may, in accordance with the regulations, examine the student records kept by a school or a school board respecting that person.
 
-77.2 Nothing in this Act authorizes the release of information from any record  kept  under  this  Act  to  any  person  in  a  manner  contrary  to  the Youth Criminal Justice Act (Canada) or the Youth Justice Act R.S.P.E.I. 1988, Cap. Y-3. 1993, c.35, s.77; 2006,c.39,s.8.
+77.2 Nothing in this Act authorizes the release of information from any record kept under this Act to any person in a manner contrary to the Youth Criminal Justice Act (Canada) or the Youth Justice Act R.S.P.E.I. 1988, Cap. Y-3. 1993, c.35, s.77; 2006,c.39,s.8.
 
 #### H. Liability For Damage To Property
 
-78. (1) If  property  of  a  school  board or of a government department or other publicly funded agency is destroyed, damaged, lost or converted by the intentional or negligent act of a student, the student and the student's parents  are  jointly  and  severally  liable  to  the  school  board  or  to  the government department or publicly funded agency with respect to the act of the student.
+78. (1) If property of a school board or of a government department or other publicly funded agency is destroyed, damaged, lost or converted by the intentional or negligent act of a student, the student and the student's parents are jointly and severally liable to the school board or to the government department or publicly funded agency with respect to the act of the student.
 
-(2) Subsection  (1)  does  not  apply  to  the  parent  of  a  student  who  is eighteen years of age or older. 1993, c.35, s.78.
+(2) Subsection (1) does not apply to the parent of a student who is eighteen years of age or older. 1993, c.35, s.78.
+
+Minister
+
+Offence
+
+Parent may examine student records
+
+Person 16 or older may examine own records
+
+Not contrary to Youth Criminal Justice Act
+
+Liability for property damage
+
+Not applicable to parent of adult student
 
 28
-
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
-
 School Act
 
 Cap. S-2.1
@@ -1395,13 +1577,13 @@ Cap. S-2.1
 
 (4) For the purposes of this section, a decision from which an appeal may be taken includes a failure to make a decision.
 
-(5) Notwithstanding any other provision of this Act, the power to hear an  appeal  under  this  section  shall  not  be  delegated  to  a  school  board employee. 1993, c.35, s.79.
+(5) Notwithstanding any other provision of this Act, the power to hear an appeal under this section shall not be delegated to a school board employee. 1993, c.35, s.79.
 
 #### J. Parents
 
 80. (1) A parent of a student attending a school is entitled to be informed of the student's attendance, behaviour and progress in the school.
 
-(2) A  parent  of  a  student  has  the  responsibility  to  encourage  the student in the pursuit of learning. 1993, c.35, s.80.
+(2) A parent of a student has the responsibility to encourage the student in the pursuit of learning. 1993, c.35, s.80.
 
 81. Notwithstanding any other provision of this Act, any rights given to a parent do not apply to a parent who is prohibited from access to a student
 
@@ -1417,14 +1599,32 @@ Cap. S-2.1
 
 82. (1) A school board may hire a teacher under a permanent contract of employment.
 
-(2) A permanent contract of employment is a contract entered into by the school board with a teacher Significant decision affecting student Parent's right to be heard Decision final Includes failure to make decision Employee not to hear appeal Parents to be informed Parent's responsibility Parent's rights abrogated, where Permanent contract of employment Permanent contract of employment Permanent contract from year to year Probationary contract Probationary period Idem
+(2) A permanent contract of employment is a contract entered into by the school board with a teacher
+
+Significant decision affecting student
+
+Parent's right to be heard
+
+Decision final
+
+Includes failure to make decision
+
+Employee not to hear appeal
+
+Parents to be informed
+
+Parent's responsibility
+
+Parent's rights abrogated, where
+
+Permanent contract of employment
+
+Permanent contract of employment
 
 29
-
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
-
 30
 
 Cap. S-2.1
@@ -1439,13 +1639,11 @@ School Act
 
 83. (1) A school board may hire a teacher under a probationary contract.
 
-(2) Subject  to  the  other  provisions  of  this  section,  a  teacher  who  has completed two probationary contracts in two different school years shall be eligible for a permanent contract with a school board.
+(2) Subject to the other provisions of this section, a teacher who has completed two probationary contracts in two different school years shall be eligible for a permanent contract with a school board.
 
 (3) The probationary contracts under subsection (2) shall be executed within a period of five consecutive school years, provided that the last contract is for the school year immediately preceding the execution of a permanent contract with a school board.
 
-(4) Notwithstanding  any  other  provision  of  this  Act,  probationary contracts must be effective for a period equivalent to at least 50% of the school year, or for a period of at least one semester. Qualifying period
-
-Terms of contract
+(4) Notwithstanding any other provision of this Act, probationary contracts must be effective for a period equivalent to at least 50% of the school year, or for a period of at least one semester.
 
 (5) A probationary contract shall
 
@@ -1453,19 +1651,13 @@ Terms of contract
 
 (b) terminate on June 30 in the school year of employment or on the date specified in the contract, whichever is earlier. 1995, c.37, s.1; 1996, c.40, s.10.
 
-84. (1) A school board may hire a teacher under a fixed term contract. Fixed term contract
-
-Idem
-
-Probation, full-time contracts
+84. (1) A school board may hire a teacher under a fixed term contract.
 
 (2) A fixed term contract
 
 (a) shall specify the date of commencement of employment;
 
-(b) shall terminate on June 30 in the school year of employment or
-
-on the date specified in the contract, whichever is earlier;
+(b) shall terminate on June 30 in the school year of employment or on the date specified in the contract, whichever is earlier;
 
 (c) repealed by 1994, c.56, s.22.
 
@@ -1473,19 +1665,35 @@ on the date specified in the contract, whichever is earlier;
 
 (a) for a period of not less than 190 school days; and
 
-(b) executed  in  the  two  years  immediately  preceding  the  execution of  a  permanent  contract.  1993,  c.35,  s.84;  1994,  c.56,  s.22;  1995, c.37, s.2.
+(b) executed in the two years immediately preceding the execution of a permanent contract. 1993, c.35, s.84; 1994, c.56, s.22; 1995, c.37, s.2.
+
+Permanent contract from year to year
+
+Probationary contract
+
+Probationary period
+
+Idem
+
+Qualifying period
+
+Terms of contract
+
+Fixed term contract
+
+Idem
+
+Probation, full-time contracts
 
 30
-
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
-
 School Act
 
-31
-
 Cap. S-2.1
+
+31
 
 85. (1) A school board shall credit time served under a probationary or permanent contract of employment with another school board within the province or the Commission for the purpose of calculating the probationary period under section 83 and eligibility for benefits.
 
@@ -1493,23 +1701,23 @@ Cap. S-2.1
 
 (a) contracted with a school board to work at least 50% of a school year;
 
-(b) been  employed  by  the  Department  in  the  year  immediately preceding the contract referred to in clause (a); and
+(b) been employed by the Department in the year immediately preceding the contract referred to in clause (a); and
 
 (c) has previously held a permanent contract of employment with a school board in the province
 
-the  teacher  shall  be  deemed  to  have  entered  a  permanent  contract  of employment  for  all  purposes  with  the  school  board.  1993,c.35,s.85; 1998,c.102,s.1; 2012(2nd),c.23,s.30.
+the teacher shall be deemed to have entered a permanent contract of employment for all purposes with the school board. 1993,c.35,s.85; 1998,c.102,s.1; 2012(2nd),c.23,s.30.
 
 #### B. Instructional Licenses
 
-86. (1) No  person  may  be  employed  by  a  school  board  to  teach  unless that person has a valid and subsisting instructional license issued by the Minister under this Act.
+86. (1) No person may be employed by a school board to teach unless that person has a valid and subsisting instructional license issued by the Minister under this Act.
 
-(2) Subsection  (1)  does  not  apply  to  substitutes  for  teachers.  1993, c.35, s.86; 2010c.44.s.9.
+(2) Subsection (1) does not apply to substitutes for teachers. 1993, c.35, s.86; 2010,c.44,s.9.
 
 #### C. Substitutes for Teachers
 
 87. (1) A substitute for a teacher is a person who is brought into a school from time to time for short periods to replace a teacher.
 
-(2) No person may be employed as a substitute for a teacher unless that person  has  an  authorization  to  substitute  for  a  teacher  issued  by  the Minister under section 4. 1993, c.35, s.87; 2010c.44,s.10.
+(2) No person may be employed as a substitute for a teacher unless that person has an authorization to substitute for a teacher issued by the Minister under section 4. 1993, c.35, s.87; 2010,c.44,s.10.
 
 #### D. Termination of Instructional Contracts
 
@@ -1523,7 +1731,7 @@ the  teacher  shall  be  deemed  to  have  entered  a  permanent  contract  of e
 
 (c) in accordance with section 90; or
 
-(d) by a school  board  for  cause  or  for  unsatisfactory  service. 1993,c.35,s.88; 1996,c.40,s.11; 2003,c.43,s.6.
+(d) by a school board for cause or for unsatisfactory service. 1993,c.35,s.88; 1996,c.40,s.11; 2003,c.43,s.6.
 
 Credit for service with other school board
 
@@ -1537,41 +1745,31 @@ Substitute for a teacher
 
 Substitute must have authorization
 
-Termination of teacher contract No appeal, where Termination of contract where fewer teachers required Suspension for cause etc.
+Termination of teacher contract
 
 31
-
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
-
 32
 
 Cap. S-2.1
 
 School Act
 
-Investigation
+89. No appeal lies from a termination of contract of employment of a teacher pursuant to section 83 or 84. 1993, c.35, s.89.
 
-Notice to Minister where safety issue
-
-Report to Minister
-
-Supervisor must have instructional license
-
-89. No  appeal  lies  from  a  termination  of  contract  of  employment  of  a teacher pursuant to section 83 or 84. 1993, c.35, s.89.
-
-90. Notwithstanding  any  other  provision  of  this  Act,  where  a  school board determines that the number of instructional personnel required in the  system  is  less  than  the  number  of  instructional  personnel  presently employed  by  the  school  board,  the  school  board  may  terminate  the contract of a teacher at the end of the school year by notice in writing hand delivered or sent by registered mail not later than April 30. 1993, c.35, s.90; 2012(2nd),c.23,s.31.
+90. Notwithstanding any other provision of this Act, where a school board determines that the number of instructional personnel required in the system is less than the number of instructional personnel presently employed by the school board, the school board may terminate the contract of a teacher at the end of the school year by notice in writing hand delivered or sent by registered mail not later than April 30. 1993, c.35, s.90; 2012(2nd),c.23,s.31.
 
 #### E. Discipline of Instructional Personnel
 
-91. (1)  A  school  board,  or  its  designate,  may  suspend  a  teacher  at  any time for cause or for unsatisfactory service.
+91. (1) A school board, or its designate, may suspend a teacher at any time for cause or for unsatisfactory service.
 
-(2) The  Superintendent  shall  suspend  a  teacher,  with  pay,  where  the Superintendent is satisfied that
+(2) The Superintendent shall suspend a teacher, with pay, where the Superintendent is satisfied that
 
-(a) the  welfare  or  safety  of  students,  staff  or  other  persons  at  the school is threatened by the presence in the school of the teacher; or
+(a) the welfare or safety of students, staff or other persons at the school is threatened by the presence in the school of the teacher; or
 
-(b) time  is  required  to  investigate  a  possible  disciplinary  matter involving the teacher.
+(b) time is required to investigate a possible disciplinary matter involving the teacher.
 
 (3) Where a teacher
 
@@ -1583,7 +1781,7 @@ Supervisor must have instructional license
 
 the school board that employs or employed the teacher shall notify the Minister in writing of the suspension or termination and its reasons for the suspension or termination, if any, within 15 days of the suspension or termination.
 
-(4) A school board shall send a written report to the Minister respecting the resignation or retirement of a teacher if, in the opinion of the school board, the resignation or retirement may have been related to the  suitability  of  the  teacher  to  hold  an  instructional  license,  including concerns  about  the  safety  of  children  or  other  persons.  1993,c.35,s.91; 1994,c.56,s.23; 2003,c.43,s.7; 2006,c.39,s.9; 2012(2nd),c.23,s.32.
+(4) A school board shall send a written report to the Minister respecting the resignation or retirement of a teacher if, in the opinion of the school board, the resignation or retirement may have been related to the suitability of the teacher to hold an instructional license, including concerns about the safety of children or other persons. 1993,c.35,s.91; 1994,c.56,s.23; 2003,c.43,s.7; 2006,c.39,s.9; 2012(2nd),c.23,s.32.
 
 Sections 92 to 96 repealed by 2003,c.43,s.8.
 
@@ -1591,12 +1789,24 @@ Sections 92 to 96 repealed by 2003,c.43,s.8.
 
 97. No person shall be employed by a school board to supervise a person who holds an instructional license, unless the person to be employed as the supervisor holds an instructional license under this Act. 1993, c.35, s.97; 2010,c.44,s.11.
 
-32
+No appeal, where
 
+Termination of contract where fewer teachers required
+
+Suspension for cause etc.
+
+Investigation
+
+Notice to Minister where safety issue
+
+Report to Minister
+
+Supervisor must have instructional license
+
+32
 [[END OF PAGE 33]]
 
 [[START OF PAGE 34]]
-
 School Act
 
 Cap. S-2.1
@@ -1605,44 +1815,50 @@ Cap. S-2.1
 
 97.1 (1) Subject to section 97, a school board may hire a person to hold a supervisory instructional position
 
-(a) for  a  term  not  exceeding  three  years,  if  the  position  is  not  the position of Superintendent; and
+(a) for a term not exceeding three years, if the position is not the position of Superintendent; and
 
 (b) for a term not exceeding five years, if the position is the position of Superintendent.
 
-(2) A  supervisor  hired  under  this  section  shall  be  deemed  to  hold  a teacher contract for the purposes of determining whether the supervisor has a permanent or probationary teacher's contract under section 82 or 83.
+(2) A supervisor hired under this section shall be deemed to hold a teacher contract for the purposes of determining whether the supervisor has a permanent or probationary teacher’s contract under section 82 or 83.
 
-(3) Nothing  in  this  section  prevents  a  school  board  from  renewing  a supervisory instructional contract, provided that renewal of the contract may be made only within the last five months of the contract. 1995, c.37, s.3; 1998,c.102,s.2; 2007,c.16,s.12; 2012(2nd),c.23,s.33.
+(3) Nothing in this section prevents a school board from renewing a supervisory instructional contract, provided that renewal of the contract may be made only within the last five months of the contract. 1995, c.37, s.3; 1998,c.102,s.2; 2007,c.16,s.12; 2012(2nd),c.23,s.33.
 
 #### I. Responsibilities of Teachers
 
 98. Every teacher shall, in accordance with the Act, the regulations, the teacher's contract of employment and the collective agreement
 
-(a) teach the educational programs that are prescribed, approved or authorized  pursuant  to  this  Act  and  assigned  to  the  teacher  by  the principal or the school board;
+(a) teach the educational programs that are prescribed, approved or authorized pursuant to this Act and assigned to the teacher by the principal or the school board;
 
 (b) encourage students in the pursuit of learning;
 
-(c) consult  with  parents  where  necessary  and  encourage  parents  to co-operate with and  encourage  their  children's participation in school programs and activities;
+(c) consult with parents where necessary and encourage parents to co-operate with and encourage their children's participation in school programs and activities;
 
-(d) assist  in  developing  co-operation  and  co-ordination  of  effort among staff members of the school;
+(d) assist in developing co-operation and co-ordination of effort among staff members of the school;
 
-(e) maintain, under the direction of the principal, order and discipline  in  the  school,  on  school  property  and  during  activities sponsored or approved by the school board;
+(e) maintain, under the direction of the principal, order and discipline in the school, on school property and during activities sponsored or approved by the school board;
 
-(f) attend  to  the  health,  comfort  and  safety  of  students  under  the teacher's supervision;
+(f) attend to the health, comfort and safety of students under the teacher's supervision;
 
 (g) immediately report to the principal the possibility that a student has a regulated disease;
 
-(h) conduct  classes  and  carry  out  such  other  responsibilities  as  are assigned to the teacher by the principal or by the school board;
+(h) conduct classes and carry out such other responsibilities as are assigned to the teacher by the principal or by the school board;
 
-(i) keep  up  to  date  on  the  content  and  pedagogy  of  the  fields  in which they teach;
+(i) keep up to date on the content and pedagogy of the fields in which they teach;
 
-(j) deliver  class  attendance  and  other  records,  the  school  key  and other school property in the teacher's possession to the school board Supervisory instructional position Effect on status ex Renewal Responsibilities of teachers Responsibilities of principal Responsibility of student teacher on  demand,  or  when  the  teacher's  employment  ceases  for  any reason. 1993,c.35,s.98; 2012(2nd),c.23,s.34.
+(j) deliver class attendance and other records, the school key and other school property in the teacher’s possession to the school board on demand, or when the teacher’s employment ceases for any reason. 1993,c.35,s.98; 2012(2nd),c.23,s.34.
+
+Supervisory instructional position
+
+Effect on status etc.
+
+Renewal
+
+Responsibilities of teachers
 
 33
-
 [[END OF PAGE 34]]
 
 [[START OF PAGE 35]]
-
 34
 
 Cap. S-2.1
@@ -1651,25 +1867,25 @@ School Act
 
 #### J. Responsibilities of Principals
 
-99. The  principal  of  a  school  shall,  subject  to  the  Minister's  directives and the policies of the school board
+99. The principal of a school shall, subject to the Minister’s directives and the policies of the school board
 
 (a) be responsible for such school as may be assigned by the school board;
 
 (b) provide educational leadership in the school;
 
-(c) ensure that the instruction provided by teachers employed at the school is consistent with the courses of study and  education programs prescribed, approved or authorized pursuant to this Act;
+(c) ensure that the instruction provided by teachers employed at the school is consistent with the courses of study and education programs prescribed, approved or authorized pursuant to this Act;
 
 (d) perform the supervisory, management and other duties required or assigned by the Superintendent or the school board;
 
-(e) evaluate or make provision for the evaluation of teachers under the principal's supervision and report to the Superintendent respecting the evaluation;
+(e) evaluate or make provision for the evaluation of teachers under the principal’s supervision and report to the Superintendent respecting the evaluation;
 
 (f) perform teaching duties as assigned by the school board;
 
-(g) maintain  proper  order  and  discipline  in  the  school  and  on  the school property and during activities sponsored or approved by the school board;
+(g) maintain proper order and discipline in the school and on the school property and during activities sponsored or approved by the school board;
 
-(h) foster  co-operation  and  co-ordination  of  effort  among  staff members of the school;
+(h) foster co-operation and co-ordination of effort among staff members of the school;
 
-(i) ensure records are maintained in respect of each student enrolled in  the  school  in  accordance  with  the  regulations  and  school  board policy;
+(i) ensure records are maintained in respect of each student enrolled in the school in accordance with the regulations and school board policy;
 
 (j) ensure that teachers conduct such assessments as are appropriate to determine the progress and promotion of students, as required by the Minister or the school board;
 
@@ -1683,16 +1899,18 @@ School Act
 
 (o) encourage the establishment of and consult the School Council on matters relevant to its functions;
 
-(p) initiate  the  development  of  a  school  development  plan.  1993, c.35, s.99; 1994, c.56, s.24; 2007,c.16,s.13; 2012(2nd),c.23,s.35.
+(p) initiate the development of a school development plan. 1993, c.35, s.99; 1994, c.56, s.24; 2007,c.16,s.13; 2012(2nd),c.23,s.35.
 
-100. (1) A  student  teacher  who  is  practice  teaching  in  a  school  has  the same responsibility as a teacher with respect to the discipline and order of students under the student teacher's supervision.
+100. (1) A student teacher who is practice teaching in a school has the same responsibility as a teacher with respect to the discipline and order of students under the student teacher's supervision.
+
+Responsibilities of principal
+
+Responsibility of student teacher
 
 34
-
 [[END OF PAGE 35]]
 
 [[START OF PAGE 36]]
-
 School Act
 
 Cap. S-2.1
@@ -1713,7 +1931,23 @@ Sections 102 to 109 repealed by 1997,c.46,s.3.
 
 #### E. Term of Supervisory Contracts
 
-109.1 (1) A  school  board  may  hire  a  person  for  a  supervisory  noninstructional position for a term not exceeding three years.
+109.1 (1) A school board may hire a person for a supervisory non-instructional position for a term not exceeding three years.
+
+(2) Nothing in this section prevents a school board from renewing a supervisory non-instructional contract, provided that renewal of the contract may be made only within the last five months of the contract. 1995, c.37, s.4; 1998,c.102,s.3.
+
+## PART IX
+
+### I. EDUCATION NEGOTIATING AGENCY
+
+110. (1) There is hereby constituted an Education Negotiating Agency, which shall be composed of representatives of the Minister, the Treasury Board and school boards, appointed in accordance with the regulations.
+
+(2) Subject to sections 6, 7 and 8, the Agency is responsible for conducting collective bargaining governing employment of all instructional and non-instructional personnel, except supervisory personnel and persons excluded by law from collective bargaining units.
+
+(3) The Agency shall not make an offer having financial implications without the prior approval of the Treasury Board. 1994, c.56, s.26; 2003,c.43,s.9; 2006,c.39,s.10.
+
+111. (1) The Agency and the authorized representatives for the instructional or non-instructional personnel shall be signatories to the collective agreement.
+
+(2) Where the Agency enters into a collective agreement with the authorized representatives for instructional or non-instructional personnel, the agreement is binding on all school boards, the Agency, the Minister, the Treasury Board, and each employee represented by the authorized representatives, as if the employee were personally privy to the agreement.
 
 Idem
 
@@ -1721,100 +1955,107 @@ Responsibilities of substitute for teacher
 
 Supervisory contracts, term
 
-(2) Nothing  in  this  section  prevents  a  school  board  from  renewing  a supervisory  non-instructional  contract,  provided  that  renewal  of  the contract may be made only within the last five months of the contract. 1995, c.37, s.4; 1998,c.102,s.3. Renewal
+Renewal
 
-## PART IX
+Education Negotiating Agency
 
-### I. EDUCATION NEGOTIATING AGENCY
+Function
 
-110. (1) There  is  hereby  constituted  an  Education  Negotiating  Agency, which shall be composed of representatives of the Minister, the Treasury Board and school boards, appointed in accordance with the regulations. Education Negotiating Agency
+Approval, Management Board
 
-(2) Subject  to  sections  6,  7  and  8,  the  Agency  is  responsible  for conducting collective bargaining governing employment of all instructional and non-instructional personnel, except supervisory personnel and persons excluded by law from collective bargaining units. Function
+Signatories
 
-(3) The Agency shall not make an offer having financial implications without  the  prior  approval  of  the  Treasury  Board.  1994,  c.56,  s.26; 2003,c.43.s.9; 2006,c.39,s.10.
-
-111. (1) The Agency and the authorized representatives for the instructional  or  non-instructional  personnel  shall  be  signatories  to  the collective agreement.
-
-(2) Where  the  Agency  enters  into  a  collective  agreement  with  the authorized representatives for instructional or non-instructional personnel, the agreement is binding on all school boards, the Agency, the Minister,  the  Treasury  Board,  and  each  employee  represented  by  the Approval, Management Board Signatories Collective agreement Enforcement Arbitration Act does not apply Enrolment with French Language School Board Any student may be registered in English school system Transfers between school systems Regulations re French school system Student excluded for health reasons authorized representatives,  as  if  the  employee  were  personally  privy  to the agreement.
+Collective agreement
 
 35
-
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
-
 36
 
 Cap. S-2.1
 
 School Act
 
-(3) Collective  agreements  under  this  Part  are  enforceable  by  the Minister,  school  boards  and  the  authorized  representative.  1993,  c.35, s.111; 1994, c.56, s.27; 1997,c.46,s.4; 2003,c.43.s.10.
+(3) Collective agreements under this Part are enforceable by the Minister, school boards and the authorized representative. 1993, c.35, s.111; 1994, c.56, s.27; 1997,c.46,s.4; 2003,c.43,s.10.
 
 111.1 The Arbitration Act R.S.P.E.I. 1988, Cap. A-16 does not apply to proceedings before a grievance review board established under a collective agreement. 2003,c.43,s.11.
 
 ## PART X
+
 ### FRENCH FIRST LANGUAGE INSTRUCTION
 
-112. An eligible parent may enrol his or her school-aged child with the French  Language  School  Board  in  accordance  with  the  regulations. 1993, c.35, s.112; 2006,c.39,s.11; 2012(2nd),c.23,s.36.
+112. An eligible parent may enrol his or her school-aged child with the French Language School Board in accordance with the regulations. 1993, c.35, s.112; 2006,c.39,s.11; 2012(2nd),c.23,s.36.
 
-(1) Subject to this Act and the regulations, any student resident in the province may be registered in the English school system.
+113. (1) Subject to this Act and the regulations, any student resident in the province may be registered in the English school system.
 
-- Transfers  of  students  between  school  systems  may  be  effected  in accordance with this Act and the regulations. 1993, c.35, s.113.
+(2) Transfers of students between school systems may be effected in accordance with this Act and the regulations. 1993, c.35, s.113.
 
-114. The  Lieutenant  Governor  in  Council  may  make  regulations,  in addition to the regulations made under section 147, with respect to the French school system and, in particular,
+114. The Lieutenant Governor in Council may make regulations, in addition to the regulations made under section 147, with respect to the French school system and, in particular,
 
 (a) prescribing the method for determining those who are entitled to receive French first language instruction in the province;
 
-(b) establishing  procedures  for  determining  the  demand  for  French first language instruction in the province;
+(b) establishing procedures for determining the demand for French first language instruction in the province;
 
-(c) - (i)  repealed by 2006,c.39,s.12;
+(c) – (i) repealed by 2006,c.39,s.12;
 
 (j) providing for the administration of French first language instruction in the province;
 
-(k) - (n)  repealed by 2006,c.39,s.12;
+(k) – (n) repealed by 2006,c.39,s.12;
 
-(o) generally  providing  for  the  provision  and  administration  of French first language instruction in the province. 1993, c.35, s.114; 2006,c.39,s.12.
+(o) generally providing for the provision and administration of French first language instruction in the province. 1993, c.35, s.114; 2006,c.39,s.12.
 
 ## PART XI
 
 ### HEALTH AND SAFETY
 
-115. (1) A principal may, where it appears necessary in the interest of the students, immediately exclude a student from the school until the student has been examined by a health officer appointed pursuant to the Public Health Act .
+115. (1) A principal may, where it appears necessary in the interest of the students, immediately exclude a student from the school until the student has been examined by a health officer appointed pursuant to the Public Health Act.
+
+Enforcement
+
+Arbitration Act does not apply
+
+Enrolment with French Language School Board
+
+Any student may be registered in English school system
+
+Transfers between school systems
+
+Regulations re French school system
+
+Student excluded for health reasons
 
 36
-
 [[END OF PAGE 37]]
 
 [[START OF PAGE 38]]
-
 School Act
 
 Cap. S-2.1
 
 37
 
-(2) A principal shall notify the office of the Chief Health Officer of the occurrence of a regulated disease, where required to do so by the Public Health Act .
+(2) A principal shall notify the office of the Chief Health Officer of the occurrence of a regulated disease, where required to do so by the Public Health Act.
 
-(3) Subject  to  subsection  (1),  a  student  who  has  a  regulated  disease shall not be excluded from the school for that reason except by order of a health officer.
+(3) Subject to subsection (1), a student who has a regulated disease shall not be excluded from the school for that reason except by order of a health officer.
 
 (4) School board employees and trustees shall maintain confidentiality respecting students reported or excluded under this section.
 
-(5) A  health  officer  shall  determine  when  an  excluded  student  may return to school. 1993, c.35, s.115; 2012(2nd),c.23,s.37.
+(5) A health officer shall determine when an excluded student may return to school. 1993, c.35, s.115; 2012(2nd),c.23,s.37.
 
-116. (1) A teacher or other school staff member who has reasonable and probable cause to suspect that a student has been deserted, abandoned or abused  shall  forthwith  report  or  cause  to  be  reported  the  matter  to  the Director of Child Protection in accordance with the Child Protection Act .
+116. (1) A teacher or other school staff member who has reasonable and probable cause to suspect that a student has been deserted, abandoned or abused shall forthwith report or cause to be reported the matter to the Director of Child Protection in accordance with the Child Protection Act.
 
-(2) Nothing in this Act shall be construed to preclude the disclosure to the  Director  of  Child  Protection  or  a  child  care  worker  of  information indicative of child abuse or relevant to a report of child abuse or to an investigation pursuant to the Child Protection Act . 1993, c.35, s.116;2000(2nd),c.3,s.62; 2010,c.28,s.41.
+(2) Nothing in this Act shall be construed to preclude the disclosure to the Director of Child Protection or a child care worker of information indicative of child abuse or relevant to a report of child abuse or to an investigation pursuant to the Child Protection Act. 1993, c.35, s.116;2000(2nd),c.3,s.62; 2010,c.28,s.41.
 
-117. (1) Where  a  student  is  injured  or  there  is  a  medical  emergency, teachers  and  school  staff  shall  provide  assistance  to  the  student  and obtain medical treatment where necessary.
+117. (1) Where a student is injured or there is a medical emergency, teachers and school staff shall provide assistance to the student and obtain medical treatment where necessary.
 
-(2) Costs  of  medical  treatment,  including  ambulances,  shall  be  borne by the student or the parent. 1993, c.35, s.117.
+(2) Costs of medical treatment, including ambulances, shall be borne by the student or the parent. 1993, c.35, s.117.
 
-118. Teachers shall obtain the consent of parents for the participation of students  in  authorized  school  activities  off  the  school  property.  1993, c.35, s.118.
+118. Teachers shall obtain the consent of parents for the participation of students in authorized school activities off the school property. 1993, c.35, s.118.
 
 119. (1) A student may attend a course or program conducted off school premises with the approval of the school board.
 
-(2) If  bodily  injury  or  death  is  caused  to  a  student  registered  in  a program approved pursuant to subsection (1), during or as a result of the course or program, no cause of action for loss or damage suffered by the student accrues to the student or to any person against the school board or any of the trustees, if it is shown that the members of the school board believed,  upon  reasonable  grounds,  that  the  person  with  whom  the student  was  placed  was  competent  to  give  instruction  and  that  the premises and equipment were such as to provide reasonable safeguards against injury or death. 1993, c.35, s.119.
+(2) If bodily injury or death is caused to a student registered in a program approved pursuant to subsection (1), during or as a result of the course or program, no cause of action for loss or damage suffered by the student accrues to the student or to any person against the school board or any of the trustees, if it is shown that the members of the school board believed, upon reasonable grounds, that the person with whom the student was placed was competent to give instruction and that the premises and equipment were such as to provide reasonable safeguards against injury or death. 1993, c.35, s.119.
 
 Principal notifies Chief Health Officer
 
@@ -1836,45 +2077,72 @@ Consent to activities off school property
 
 Courses, programs off school property
 
-Injury or death, approved outside program School patrol, liability
+Injury or death, approved outside program
 
 37
-
 [[END OF PAGE 38]]
 
 [[START OF PAGE 39]]
-
 38
 
 Cap. S-2.1
 
 School Act
 
-120. Where  property  damage,  bodily  injury  or  death  is  caused  to  any person instructed, directed or controlled by a school patrol in the course of acting as such, no cause of action arises or accrues by reason of or in respect thereof against any school board, trustee, employees, servants or agents of the school board or any student or parent of the student or any volunteer involved in the school patrol program. 1993, c.35, s.120.
+120. Where property damage, bodily injury or death is caused to any person instructed, directed or controlled by a school patrol in the course of acting as such, no cause of action arises or accrues by reason of or in respect thereof against any school board, trustee, employees, servants or agents of the school board or any student or parent of the student or any volunteer involved in the school patrol program. 1993, c.35, s.120.
 
 ## PART XII
+
 ### FINANCE
 
 #### A. School Board Budgets
 
-School board funding program | 121. (1) The Minister shall establish a school board funding program.
---- | ---
-School board budget information | (2) Each school board shall submit to the Minister budget information in accordance with the regulations and Minister's directives.
-Annual budget meetings | (3) The Minister shall meet annually with school boards to discuss budget matters.
-Minister approves school board budgets | (4) On or before the date fixed by Minister's directives, the Minister shall approve a budget for each school board with such recommendations or conditions as the Minister considers necessary.
-Projected budget for more than one year on request | (5) Each school board shall prepare and submit to the Minister a projected budget for more than one year where requested to do so by the Minister. 1993, c.35, s.121.
-Fiscal year | 122. (1) A school board's fiscal year shall end on March 31.
-No accumulated deficit | (2) A school board shall not budget for a current deficit in any fiscal year if such deficit would create an accumulated deficit.
-Deficit first call on grant | (3) Where a school board has incurred a deficit, the deficit shall be a first call on the school board's grant for the second fiscal year following and the school board shall budget accordingly.
-Surplus remains with school board | (4) Where a school board shows a surplus on its financial statement for a fiscal year, the surplus shall remain with the school board. 1993, c.35, s.122; 2012(2nd),c.23,s.38.
-Revised budget | 123. The Minister may approve a revised or amended budget subject to such terms and conditions as the Minister considers necessary. 1993, c.35, s.123.
+121. (1) The Minister shall establish a school board funding program.
+
+(2) Each school board shall submit to the Minister budget information in accordance with the regulations and Minister's directives.
+
+(3) The Minister shall meet annually with school boards to discuss budget matters.
+
+(4) On or before the date fixed by Minister's directives, the Minister shall approve a budget for each school board with such recommendations or conditions as the Minister considers necessary.
+
+(5) Each school board shall prepare and submit to the Minister a projected budget for more than one year where requested to do so by the Minister. 1993, c.35, s.121.
+
+122. (1) A school board's fiscal year shall end on March 31.
+
+(2) A school board shall not budget for a current deficit in any fiscal year if such deficit would create an accumulated deficit.
+
+(3) Where a school board has incurred a deficit, the deficit shall be a first call on the school board's grant for the second fiscal year following and the school board shall budget accordingly.
+
+(4) Where a school board shows a surplus on its financial statement for a fiscal year, the surplus shall remain with the school board. 1993, c.35, s.122; 2012(2nd),c.23,s.38.
+
+123. The Minister may approve a revised or amended budget subject to such terms and conditions as the Minister considers necessary. 1993, c.35, s.123.
+
+School patrol, liability
+
+School board funding program
+
+School board budget information
+
+Annual budget meetings
+
+Minister approves school board budgets
+
+Projected budget for more than one year on request
+
+Fiscal year
+
+No accumulated deficit
+
+Deficit first call on grant
+
+Surplus remains with school board
+
+Revised budget
 
 38
-
 [[END OF PAGE 39]]
 
 [[START OF PAGE 40]]
-
 School Act
 
 Cap. S-2.1
@@ -1883,11 +2151,11 @@ Cap. S-2.1
 
 #### B. Administration and Finance
 
-124. Each  school  board  shall  maintain  administrative  and  operating control  systems  and  safeguards  as  prescribed  by  the  Act  and  the regulations. 1993, c.35, s.124.
+124. Each school board shall maintain administrative and operating control systems and safeguards as prescribed by the Act and the regulations. 1993, c.35, s.124.
 
-125. A school  board  may  maintain  accounts  in  such  types  of  financial institutions  as  may  be  authorized  by  Minister's  directives.  1993,  c.35, s.125.
+125. A school board may maintain accounts in such types of financial institutions as may be authorized by Minister's directives. 1993, c.35, s.125.
 
-126. (1) The Minister may require any information or explanation from a school  board  or  its  auditors  respecting  the  finances  or  accounting methods of the school board.
+126. (1) The Minister may require any information or explanation from a school board or its auditors respecting the finances or accounting methods of the school board.
 
 (2) Each school board shall submit monthly interim financial statements to the Minister in accordance with Minister's directives.
 
@@ -1897,13 +2165,13 @@ Cap. S-2.1
 
 (a) the liability or expenditure can be provided for out of the school board's annual budget or out of other monies available to the school board for the purpose;
 
-(b) the  liability  or  expenditure  is  included  in  an  amended  budget approved by the Minister under section 123; or
+(b) the liability or expenditure is included in an amended budget approved by the Minister under section 123; or
 
-(c) the liability or expenditure is approved  by the Lieutenant Governor in Council. 1993, c.35, s.127.
+(c) the liability or expenditure is approved by the Lieutenant Governor in Council. 1993, c.35, s.127.
 
 #### C. Construction and Location of Schools
 
-128. (1) The Minister, after consultation with the school board concerned,  may  recommend  to  the  Minister  of  Transportation  and Infrastructure Renewal
+128. (1) The Minister, after consultation with the school board concerned, may recommend to the Minister of Transportation and Infrastructure Renewal
 
 (a) the purchase, rental or acceptance of gifts of land or buildings for school purposes;
 
@@ -1911,16 +2179,32 @@ Cap. S-2.1
 
 (c) capital additions to school buildings.
 
-(2) A school board, with the Minister's approval, shall determine the location of school buildings.
+(2) A school board, with the Minister’s approval, shall determine the location of school buildings.
 
-(3) The  Minister  of  Transportation  and  Infrastructure  Renewal  may transfer  real  property  to  a  school  board  upon  completion  of  a  building Administrative and operating control systems Accounts in financial institutions Information from auditors Monthly interim financial statements Annual audited financial statements School board incurs liabilities, expenditures Construction and capital additions to schools Location of school buildings Transfer of real property to school board Disposal of real property by school board Minister's approval for leases Minister's approval for capital construction projects Insurance Insurance proceeds Salary scales project. 1993, c.35, s.128; 1994, c.56, s.27; 2010,c.31,s.3; 2012(2nd),c.23,s.39.
+(3) The Minister of Transportation and Infrastructure Renewal may transfer real property to a school board upon completion of a building project. 1993, c.35, s.128; 1994, c.56, s.27; 2010,c.31,s.3; 2012(2nd),c.23,s.39.
+
+Administrative and operating control systems
+
+Accounts in financial institutions
+
+Information from auditors
+
+Monthly interim financial statements
+
+Annual audited financial statements
+
+School board incurs liabilities, expenditures
+
+Construction and capital additions to schools
+
+Location of school buildings
+
+Transfer of real property to school board
 
 39
-
 [[END OF PAGE 40]]
 
 [[START OF PAGE 41]]
-
 40
 
 Cap. S-2.1
@@ -1931,15 +2215,15 @@ School Act
 
 129. (1) A school board may dispose of its real property in accordance with the guidelines issued by the Lieutenant Governor in Council.
 
-(2) School  boards  shall  obtain  the  approval  of  the  Minister  before entering into any lease agreements respecting real property owned by the school board.
+(2) School boards shall obtain the approval of the Minister before entering into any lease agreements respecting real property owned by the school board.
 
-(3) School  boards  shall  obtain  the  Minister's  approval  for  capital construction  projects  in  accordance  with  the  regulations  and  Minister's directives. 1993, c.35, s.129.
+(3) School boards shall obtain the Minister's approval for capital construction projects in accordance with the regulations and Minister's directives. 1993, c.35, s.129.
 
 #### E. Insurance
 
-130. (1) A school board shall, in respect of its operations, keep in force policies  of  insurance  as  required  by  the  regulations  for  the  purpose  of indemnifying the school board, its employees, agents and others acting on its behalf, including volunteers, in respect of claims for
+130. (1) A school board shall, in respect of its operations, keep in force policies of insurance as required by the regulations for the purpose of indemnifying the school board, its employees, agents and others acting on its behalf, including volunteers, in respect of claims for
 
-(a) damages  for  death,  bodily  injury,  personal  injury  or  property damage;
+(a) damages for death, bodily injury, personal injury or property damage;
 
 (b) damages to owned property; and
 
@@ -1947,22 +2231,34 @@ School Act
 
 (i) that the school board has agreed to insure, or
 
-(ii) for  which  the  school  board  otherwise  has  or  may  have assumed liability.
+(ii) for which the school board otherwise has or may have assumed liability.
 
-(2) Proceeds of an insurance claim payable to a school board shall be used  to  replace  the  property  insured  or  in  such  other  manner  as  the Minister may authorize. 1993, c.35, s.130; 1996, c.40, s.12.
+(2) Proceeds of an insurance claim payable to a school board shall be used to replace the property insured or in such other manner as the Minister may authorize. 1993, c.35, s.130; 1996, c.40, s.12.
 
 #### F. Salary Scales and Benefits
 
 131. Each school board shall pay instructional, non-instructional, administrative and supervisory personnel only those amounts specified in the salary scales and benefits established by a collective agreement or, if there is no applicable collective agreement, by Minister's directive. 1993, c.35, s.131; 1994, c.56, s.27; 2012(2nd),c.23,s.40.
 
-132. Repealed by 2012(2nd),c.23,s.41. 1993, c.35, s.132; 2012(2nd),c.23,s.41. Fidelity bonds
+132. Repealed by 2012(2nd),c.23,s.41. 1993, c.35, s.132; 2012(2nd),c.23,s.41.
+
+Disposal of real property by school board
+
+Minister's approval for leases
+
+Minister's approval for capital construction projects
+
+Insurance
+
+Insurance proceeds
+
+Salary scales
+
+Fidelity bonds
 
 40
-
 [[END OF PAGE 41]]
 
 [[START OF PAGE 42]]
-
 School Act
 
 Cap. S-2.1
@@ -1970,35 +2266,36 @@ Cap. S-2.1
 41
 
 ## PART XIII
+
 ### MISCELLANEOUS PROVISIONS
 
 #### A. Private Schools
 
-133. (1)  The  Minister  may  grant  a  license  to  a  private  school  that provides  elementary  or  secondary  school  programs  in  accordance  with the regulations.
+133. (1) The Minister may grant a license to a private school that provides elementary or secondary school programs in accordance with the regulations.
 
-(2) For greater certainty, a private school that provides a kindergarten program  requires  a  license  under  subsection  (1).  1993,  c.35,  s.133; 2010,c.44,s.12.
+(2) For greater certainty, a private school that provides a kindergarten program requires a license under subsection (1). 1993, c.35, s.133; 2010,c.44,s.12.
 
 134. The Minister may suspend or cancel a private school license if
 
-(a) the  private  school  fails  to  comply  with  or  maintain  any  of  the standards required by the regulations;
+(a) the private school fails to comply with or maintain any of the standards required by the regulations;
 
 (b) the private school employs unqualified instructional personnel or administrators; or
 
-(c) in  the  opinion  of  the  Minister,  the  students  registered  at  the private  school  are  not  achieving  acceptable  educational  progress. 1993, c.35, s.134.
+(c) in the opinion of the Minister, the students registered at the private school are not achieving acceptable educational progress. 1993, c.35, s.134.
 
-135. The  Minister  may  appoint  persons  as  private  school  inspectors  to assess  instructional  personnel,  educational  programs,  and  instructional materials and to inspect schools, and school buildings and to fulfil such other responsibilities as may be required by Minister's directives. 1993, c.35, s.135.
+135. The Minister may appoint persons as private school inspectors to assess instructional personnel, educational programs, and instructional materials and to inspect schools, and school buildings and to fulfil such other responsibilities as may be required by Minister's directives. 1993, c.35, s.135.
 
-136. (1) Where  the  Minister  has  grounds  to  suspend  the  license  of  a private school,
+136. (1) Where the Minister has grounds to suspend the license of a private school,
 
 (a) the Minister may order compliance with the Act within 30 days of the date of the order; and
 
-(b) where a private school has not complied with the Minister's order under  this  section  within  30  days,  the  Minister  may  suspend  or revoke the license.
+(b) where a private school has not complied with the Minister's order under this section within 30 days, the Minister may suspend or revoke the license.
 
-(2) Where  the  grounds  for  suspension  relate  to  health  and  safety standards  under  the  regulations,  the  Minister  may  order  immediate suspension or revocation of the license. 1993, c.35, s.136.
+(2) Where the grounds for suspension relate to health and safety standards under the regulations, the Minister may order immediate suspension or revocation of the license. 1993, c.35, s.136.
 
 137. No person shall operate a private school without or in contravention of a license issued under section 133. 1993, c.35, s.137.
 
-138. A  person  who  operates  a  private  school  that  is  unlicensed  or  for which the license has been suspended or revoked, is guilty of an offence and is liable to a fine of not less than $500 for each day that the person continues to operate the private school. 1993, c.35, s.138.
+138. A person who operates a private school that is unlicensed or for which the license has been suspended or revoked, is guilty of an offence and is liable to a fine of not less than $500 for each day that the person continues to operate the private school. 1993, c.35, s.138.
 
 Private school licenses
 
@@ -2010,18 +2307,16 @@ Private school inspectors
 
 Minister may order compliance with Act
 
-Immediate suspension of license, health or safety issues Mandatory to have private school
+Immediate suspension of license, health or safety issues
 
-license
+Mandatory to have private school license
 
-Offence, unlicensed private school Notice of intention Advice, comments by Department Attend courses offered by school board Termination of home education program Educational program Must have teacher's license Schools to be nonsectarian Rights limited as reasonable in circumstances Parent's right vest in adult student
+Offence, unlicensed private school
 
 41
-
 [[END OF PAGE 42]]
 
 [[START OF PAGE 43]]
-
 42
 
 Cap. S-2.1
@@ -2030,15 +2325,15 @@ School Act
 
 #### B. Home Education
 
-139. (1)  A parent who intends to provide a home education program for his  or  her  child  shall,  before  the  commencement  of  the  school  year, provide the Minister with
+139. (1) A parent who intends to provide a home education program for his or her child shall, before the commencement of the school year, provide the Minister with
 
-(a) a  notice  of  the  parent's  intention  to  provide  a  home  education program; and
+(a) a notice of the parent’s intention to provide a home education program; and
 
 (b) a copy of the proposed home education program.
 
-(2) The  Department  may  provide  to  the  parent  advice  and  comments on the home education program.
+(2) The Department may provide to the parent advice and comments on the home education program.
 
-(3) A student attending a home education program may attend courses offered  by  a  school  board  as  permitted  by  the  regulations.1993,  c.35, s.139; 2003,c.43,s.12.
+(3) A student attending a home education program may attend courses offered by a school board as permitted by the regulations. 1993, c.35, s.139; 2003,c.43,s.12.
 
 140. Repealed by 2003,c.43,s.13.
 
@@ -2046,7 +2341,7 @@ School Act
 
 141. (1) The Minister may authorize an educational program at a youth custody facility or other place at which a young person must be present under an order made by a youth justice court under the Youth Criminal Justice Act (Canada) or the Youth Justice Act R.S.P.E.I. 1988, Cap. Y-3.
 
-(2) Persons  teaching  in  programs  offered  under  subsection  (1)  must hold an instructional license under this Act. 1993, c.35, s.141; 2006,c.39,s.13; 2010c.44,s.13.
+(2) Persons teaching in programs offered under subsection (1) must hold an instructional license under this Act. 1993, c.35, s.141; 2006,c.39,s.13; 2010,c.44,s.13.
 
 #### D. General
 
@@ -2054,14 +2349,30 @@ School Act
 
 143. (1) The exercise of any right or the receipt of any benefit under this Act is subject to those limitations that are reasonable in each circumstance under which the right is being exercised or the benefit is being received.
 
-(2) Where by or under this Act any authority or right is vested in, or any obligation is imposed upon, a parent or a guardian of a student, such authority,  right  or  obligation  shall,  where  the  student  is  an  adult,  be vested in or imposed upon the student. 1993, c.35, s.143.
+(2) Where by or under this Act any authority or right is vested in, or any obligation is imposed upon, a parent or a guardian of a student, such authority, right or obligation shall, where the student is an adult, be vested in or imposed upon the student. 1993, c.35, s.143.
+
+Notice of intention
+
+Advice, comments by Department
+
+Attend courses offered by school board
+
+Termination of home education program
+
+Educational program
+
+Must have teacher's license
+
+Schools to be non-sectarian
+
+Rights limited as reasonable in circumstances
+
+Parent's right vest in adult student
 
 42
-
 [[END OF PAGE 43]]
 
 [[START OF PAGE 44]]
-
 School Act
 
 Cap. S-2.1
@@ -2070,44 +2381,54 @@ Cap. S-2.1
 
 #### E. Offences
 
-144. Where no punishment is provided for an offence under this Act, the punishment for that offence shall be a fine of not more than $1,000 or imprisonment for a period of not more than six months, or both. 1993, c.35, s.144; 2006,c.39,s.14. Offence
+144. Where no punishment is provided for an offence under this Act, the punishment for that offence shall be a fine of not more than $1,000 or imprisonment for a period of not more than six months, or both. 1993, c.35, s.144; 2006,c.39,s.14.
 
 145. (1) No person shall disturb or interrupt the proceedings of a school or a school function without authority or reasonable cause to do so.
 
-(2) No  person  shall  canvass,  sell  or  offer  to  sell  goods,  services  or merchandise  in  a  school  or  on  school  property  without  the  prior permission of the principal and in accordance with school board policy.
+(2) No person shall canvass, sell or offer to sell goods, services or merchandise in a school or on school property without the prior permission of the principal and in accordance with school board policy.
 
-(3) A  person  contravening  subsection  (1)  or  (2)  who  is  directed  to leave a school or school property by a staff member or a trustee
+(3) A person contravening subsection (1) or (2) who is directed to leave a school or school property by a staff member or a trustee
 
-(a) shall immediately leave the school property; and Disturbance or disruption prohibited Permission to sell on school property Person directed to leave school property
+(a) shall immediately leave the school property; and
 
-(b) shall  not  re-enter  school  property  except  with  prior  approval from the principal of the school or the superintendent of the school board.
+(b) shall not re-enter school property except with prior approval from the principal of the school or the superintendent of the school board.
 
-(4) A  person  who  contravenes  subsection  (1),  (2)  or  (3)  commits  an offence. Offence
+(4) A person who contravenes subsection (1), (2) or (3) commits an offence.
 
-(5) Where,  for  the  purpose  of  this  section  the  assistance  of  a  peace officer is required to ensure the removal of an unauthorized person from the premises, it is the duty of a peace officer to provide assistance at the request of the staff member or trustee. 1993, c.35, s.145.
+(5) Where, for the purpose of this section the assistance of a peace officer is required to ensure the removal of an unauthorized person from the premises, it is the duty of a peace officer to provide assistance at the request of the staff member or trustee. 1993, c.35, s.145.
 
 #### F. Local Financing
 
-146. (1) Subject to subsection (2), when a school board desires to offer programs  or  services  above  and  beyond  those  for  which  funding  is provided by the Minister, it may  seek  supplementary  funding in accordance with the terms of the Real Property Tax Act R.S.P.E.I. 1988, Cap. R-5.
+146. (1) Subject to subsection (2), when a school board desires to offer programs or services above and beyond those for which funding is provided by the Minister, it may seek supplementary funding in accordance with the terms of the Real Property Tax Act R.S.P.E.I. 1988, Cap. R-5.
 
-(2) Before seeking supplementary funding, the school board shall (a) receive approval for the program or service from the Minister;
+(2) Before seeking supplementary funding, the school board shall
 
-(b) publish  the  relevant  facts  about  the  program  or  service  to  be offered  and  the  tax  to  be  levied  in  a  newspaper  having  general circulation within the system;
+(a) receive approval for the program or service from the Minister;
+
+(b) publish the relevant facts about the program or service to be offered and the tax to be levied in a newspaper having general circulation within the system;
 
 (c) conduct a plebiscite on the matter if, within thirty days following the publication under clause (b), five per cent or more of the eligible voters of the system protest in writing to the school board against the implementation of the tax.
+
+Offence
+
+Disturbance or disruption prohibited
+
+Permission to sell on school property
+
+Person directed to leave school property
+
+Offence
 
 Assistance of peace officer
 
 Supplementary funding
 
-Idem , requirements Plebiscite Idem eligible voter Report to Minister Regulations
+Idem, requirements
 
 43
-
 [[END OF PAGE 44]]
 
 [[START OF PAGE 45]]
-
 44
 
 Cap. S-2.1
@@ -2116,17 +2437,18 @@ School Act
 
 (3) A property tax may be levied to raise supplementary funding for a program or service approved by the Minister
 
-(a) if,  within  thirty  days  following  the  publication  under  clause (2)(a),  less  than  five  per  cent  of  the  eligible  voters  of  the  system protest in writing to the school board against the implementation of the tax; or
+(a) if, within thirty days following the publication under clause (2)(a), less than five per cent of the eligible voters of the system protest in writing to the school board against the implementation of the tax; or
 
-(b) when  a  majority  of  those  who  cast  their  ballots  in  a  plebiscite concerning the supplementary funding do so in favour of the tax.
+(b) when a majority of those who cast their ballots in a plebiscite concerning the supplementary funding do so in favour of the tax.
 
 (4) Where a plebiscite is to be held under this section it shall be held in accordance with the regulations.
 
-(5) In this section 'eligible voter' means a person who qualifies under section 32.
+(5) In this section “eligible voter” means a person who qualifies under section 32.
 
-(6) Each year a school board shall give account to the Minister for the expenditures  of  any  supplementary  funds  made  by  that  system.  1993, c.35, s.146; 2012(2nd),c.23,s.42.
+(6) Each year a school board shall give account to the Minister for the expenditures of any supplementary funds made by that system. 1993, c.35, s.146; 2012(2nd),c.23,s.42.
 
 ## PART XIV
+
 ### REGULATIONS
 
 147. The Lieutenant Governor in Council may make regulations
@@ -2139,30 +2461,38 @@ School Act
 
 (d) establishing procedures for the closure of schools;
 
-(e) respecting the requirement of school boards to obtain insurance or  to  participate  in  schemes  or  arrangements  to  protect  the  school board  and  its  trustees  and  employees  with  respect  to  loss  or  legal liability;
+(e) respecting the requirement of school boards to obtain insurance or to participate in schemes or arrangements to protect the school board and its trustees and employees with respect to loss or legal liability;
 
-(f) respecting  the  provision  of  information  to  the  Minister  by  a school board;
+(f) respecting the provision of information to the Minister by a school board;
 
 (g) respecting the purchase and sale of vehicles by school boards;
 
-(h) respecting  insurance  coverage  required  on  school  buses  and other vehicles carrying students on school sponsored activities;
+(h) respecting insurance coverage required on school buses and other vehicles carrying students on school sponsored activities;
 
-(h.1) respecting  the  use  of  school  buses  or  other  personal  property owned or leased by a school board for purposes that are not directly related to services for students;
+(h.1) respecting the use of school buses or other personal property owned or leased by a school board for purposes that are not directly related to services for students;
 
-(h.2)  respecting  insurance  coverage  required  for  the  use  of  school buses or other personal property pursuant to clause (h.1.);
+(h.2) respecting insurance coverage required for the use of school buses or other personal property pursuant to clause (h.1.);
 
-(i) respecting  the  operation,  maintenance,  safety  and  inspection  of school buses and other vehicles in which students are transported;
+(i) respecting the operation, maintenance, safety and inspection of school buses and other vehicles in which students are transported;
 
-(j) respecting  the  age  and  the  qualifications  and  responsibilities  of school bus drivers;
+(j) respecting the age and the qualifications and responsibilities of school bus drivers;
 
 (k) respecting medical examinations of school board employees;
 
-44
+Plebiscite
 
+Idem
+
+eligible voter
+
+Report to Minister
+
+Regulations
+
+44
 [[END OF PAGE 45]]
 
 [[START OF PAGE 46]]
-
 School Act
 
 Cap. S-2.1
@@ -2171,27 +2501,27 @@ Cap. S-2.1
 
 (l) determining the process by which the authorized representative of the instructional personnel is ascertained;
 
-(m) respecting the licensing and certification of instructional personnel,  substitutes  for  teachers  and  the  role  of  the  Certification and Standards Board;
+(m) respecting the licensing and certification of instructional personnel, substitutes for teachers and the role of the Certification and Standards Board;
 
 (n) respecting collective bargaining for instructional personnel;
 
 (o) respecting the terms and conditions of employment for instructional personnel;
 
-(p) respecting  the  terms  and  conditions  of  employment  for  noninstructional personnel;
+(p) respecting the terms and conditions of employment for non-instructional personnel;
 
-(q) providing  for  the  manner  of  establishing  salary  scales  and benefits for instructional personnel;
+(q) providing for the manner of establishing salary scales and benefits for instructional personnel;
 
-(r) prescribing  the  form  of  contracts  for  instructional  and  noninstructional personnel;
+(r) prescribing the form of contracts for instructional and non-instructional personnel;
 
 (s) respecting qualifications of supervisory and administrative personnel;
 
 (t) respecting grievance review boards established under a collective agreement;
 
-(u) providing  for  the  suspension  and  dismissal  of  non-instructional personnel including appeal procedures;
+(u) providing for the suspension and dismissal of non-instructional personnel including appeal procedures;
 
-(v) providing procedures  for the  suspension  and  revocation  of instructional licenses, including appeal procedures;
+(v) providing procedures for the suspension and revocation of instructional licenses, including appeal procedures;
 
-(v.1) respecting  the  contents  of  notices  that  may  be  given  under subsection 3(4) or 4(3);
+(v.1) respecting the contents of notices that may be given under subsection 3(4) or 4(3);
 
 (w) defining the extent of free school privileges;
 
@@ -2199,35 +2529,34 @@ Cap. S-2.1
 
 (y) respecting student records;
 
-(z) respecting private schools, the qualifications of instructors, curriculum  and  other  criteria  for  the  licensing  and  operation  of private schools;
+(z) respecting private schools, the qualifications of instructors, curriculum and other criteria for the licensing and operation of private schools;
 
 (aa) respecting home education programs;
 
-(bb)  establishing the number of trustees for each school board;
+(bb) establishing the number of trustees for each school board;
 
 (cc) respecting supplementary funding;
 
-(dd) respecting  all  aspects  of  school  board  elections,  including  the establishment of electoral zones;
+(dd) respecting all aspects of school board elections, including the establishment of electoral zones;
 
 (dd.1) respecting fees for any document provided or service performed under this Act or the regulations;
 
-(ee) defining  words,  phrases  or  terms  for  which  no  definition  is given under this Act;
+(ee) defining words, phrases or terms for which no definition is given under this Act;
 
-(ff) generally  providing  for  the  better  administration  of  this  Act. 1993,  c.35,  s.147;  1994,  c.56,  s.27;  1997,c.46,s.5;  2003,  c.43,s.14, 2006,c.39,s.15; 2007,c.16,s.14; 2012(2nd),c.23,s.43.
+(ff) generally providing for the better administration of this Act. 1993, c.35, s.147; 1994, c.56, s.27; 1997,c.46,s.5; 2003, c.43,s.14, 2006,c.39,s.15; 2007,c.16,s.14; 2012(2nd),c.23,s.43.
 
 45
-
 [[END OF PAGE 46]]
 
 [[START OF PAGE 47]]
+46
 
 Cap. S-2.1
 
 School Act
 
-46
-
 ## PART XV
+
 ### GENERAL
 
 148. Consequential amendments. 1993, c.35, s.148.
@@ -2239,5 +2568,4 @@ Consequential amendments
 Repeal
 
 46
-
 [[END OF PAGE 47]]
