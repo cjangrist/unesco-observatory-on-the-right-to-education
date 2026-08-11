@@ -4,6 +4,8 @@ Cinquante troisième Année                                       Numéro 09    
 
 # JOURNAL  OFFICIEL DE LA REPUBLIQUE DU MALI
 
+SECRETARIAT GENERAL DU GOUVERNEMENT
+
 TARIFS DES ABONNEMENTS                                TARIFS DES INSERTIONS                                             OBSERVATIONS
 
 Un an          6 mois
@@ -24,9 +26,9 @@ Il n'est jamais compté moins de 2.000 F pour les annonces.
 
 Prix au numéro de l'année courante.............500F Prix au numéro des années précédentes......600F
 
-- Les demandes d'abonnement et les annonces doivent être adressées au Sécrétariat Général du Gouvernement-D.J.O.D.I.J
+- Les demandes d'abonnement et les annonces doivent être adressées au Secrétariat Général du Gouvernement-D.J.O.D.I.J
 
-- Les  abonnements prendront effet à compter de la date  de paiement de leur  montant. Les  abon- nements  sont  payables  d'avance.
+- Les abonnements prendront effet à compter de la date de paiement de leur montant. Les abonnements sont payables d'avance.
 
 # SOMMAIRE
 
@@ -34,7 +36,17 @@ Prix au numéro de l'année courante.............500F Prix au numéro des année
 
 ### LOIS
 
-SECRETARIAT GENERAL DU GOUVERNEMENT
+24 février 2012- Loi N°2012-011 fixant les émoluments et autres avantages accordés au Président de la République………........................................................................................................................…p322
+
+Loi N°2012-012 relative à la pension et aux avantages accordés aux anciens Présidents de la République……...........................................................................................................................…p322
+
+Loi N°2012-013 relative aux établissements privés d'enseignement en République du Mali…..............................................................................................................................................p323
+
+24 février 2012- Loi N°2012-014 relative au bien-être animal…...............................….......….…p324
+
+27 février 2012-Loi N°2012-015 portant Code Minier.........................................................................................p329
+
+Annonces et communications..............................................................................................................................p355
 
 [[END OF PAGE 1]]
 
@@ -73,13 +85,13 @@ Le Président de la République bénéficie de la gratuité du logement, des fou
 Les domestiques attachés au Palais de la Présidence sont à la charge de l'Etat.
 
 ## ARTICLE 5 :
-La présente loi abroge toutes les dispositions antérieures contraires, notamment celles de la Loi N°92012 du 17 septembre 1992 fixant le régime des émoluments et autres avantages accordés au Président de la République.
+La présente loi abroge toutes les dispositions antérieures contraires, notamment celles de la Loi N°92-012 du 17 septembre 1992 fixant le régime des émoluments et autres avantages accordés au Président de la République.
 
 Bamako, le 24 février 2012
 
 Le Président de la République, Amadou Toumani TOURE
 
-# LOI N°2012-012/ DU 24 FEVRIER 2012 RELATIVE A LA PENSION AUX AVANTAGES  ACCORDES AUX ANCIENS PRESIDENTS DE LA REPUBLIQUE
+# LOI N°2012-012/ DU 24 FEVRIER 2012 RELATIVE A LA PENSION ET AUX AVANTAGES ACCORDES AUX ANCIENS PRESIDENTS DE LA REPUBLIQUE
 
 L'ASSEMBLEE NATIONALE A DELIBERE ET ADOPTE EN SA SEANCE DU 26 JANVIER 2012,
 
@@ -269,7 +281,7 @@ Les établissements privés d'enseignement ou associations d'établissements pri
 Un décret pris en Conseil des Ministres fixe les modalités d'application de la présente loi.
 
 ### ARTICLE 21 :
-La présente loi abroge toutes dispositions antérieures contraires, notamment celles de la Loi N°94032 du 25 juillet 1994 portant statut de l'enseignement privé.
+La présente loi abroge toutes dispositions antérieures contraires, notamment celles de la Loi N°94-032 du 25 juillet 1994 portant statut de l'enseignement privé.
 
 Bamako, le 24 février 2012
 
@@ -313,7 +325,7 @@ Elle  couvre  l'ensemble  des  pratiques relatives  aux  animaux  d'élevage,  d
 
 - L'utilisation des animaux pour le transport, le trait et le bât.
 
-La présente loi complète, en ce qui concerne les animaux sauvages les dispositions de la Loi N°95-031 du 20 mars 1995 fixant les conditions de gestion de la faune sauvage et  de  son  habitat  de  la  Loi  N°02-017  du  03    juin  2002 régissant  la  détention,  l'exportation,  la  réexportation, l'importation,  le  transport  et  le  transit  de  spécimens d'espèces de la faune et du flore sauvages et la Loi N°95032 du 20 mars 1995 fixant les conditions de gestion de la pêche et de la pisciculture et celles du Règlement N°4/ 2007/CM/UEMOA portant création et modalités  de fonctionnement du Comité consultatif sur l'harmonisation des politiques et des Législations des Etats membres de l'UEMOA en matière de pêche et d'aquaculture.
+La présente loi complète, en ce qui concerne les animaux sauvages les dispositions de la Loi N°95-031 du 20 mars 1995 fixant les conditions de gestion de la faune sauvage et de son habitat de la Loi N°02-017 du 03 juin 2002 régissant la détention, l'exportation, la réexportation, l'importation, le transport et le transit de spécimens d'espèces de la faune et du flore sauvages et la Loi N°95-032 du 20 mars 1995 fixant les conditions de gestion de la pêche et de la pisciculture et celles du Règlement N°4/2007/CM/UEMOA portant création et modalités de fonctionnement du Comité consultatif sur l'harmonisation des politiques et des Législations des Etats membres de l'UEMOA en matière de pêche et d'aquaculture.
 
 ## CHAPITRE II : DES DEFINITIONS
 
@@ -322,7 +334,7 @@ Au sens de la présente loi on entend par :
 
 Abattage : la  mise  à  mort  d'animaux  à  des  fins  de production de denrées alimentaires.
 
-Animaux domestiques : animaux domestiques des espèces équine, bobine, ovine, caprine et porcine, lapin domestique, chiens et chats domestiques, pigeons domestiques, volaille domestique à savoir les poules, les pintades, les oies et canards domestiques.
+Animaux domestiques : animaux domestiques des espèces équine, bovine, ovine, caprine et porcine, lapin domestique, chiens et chats domestiques, pigeons domestiques, volaille domestique à savoir les poules, les pintades, les oies et canards domestiques.
 
 Animaux sauvages : tous les vertébrés, à l'exception des animaux domestiques, des céphalopodes et des décapodes marcheurs.
 
@@ -336,7 +348,7 @@ Animal errant : désigne  tout  animal  non  soumis  à  la surveillance  direct
 
 Empoisonnement : désigne  l'induction  de  la  mort  par l'administration d'un poison violent.
 
-Euthanasie : désigne l'induction de la mort en respectant les principes de bien être animal c'est-à-dire au moyen de méthodes provoquant une perte de conscience rapide et irréversible et réduisant au minimum douleur et stresses chez  l'animal.
+Euthanasie : désigne l'induction de la mort en respectant les principes de bien être animal c'est-à-dire au moyen de méthodes provoquant une perte de conscience rapide et irréversible et réduisant au minimum douleur et stress chez l'animal.
 
 La règle des trois R : elle comprend :
 
@@ -355,7 +367,7 @@ Stress : ensemble  de  perturbations  biologiques  et psychiques provoqués par 
 ## CHAPITRE  III :  DE  LA  PROTECTION  DES ANIMAUX
 
 ### ARTICLE 4 :
-L'animal est un sensible ; à ce titre il doit être placé dans des conditions de vie  qui répondent à ses besoins physiologiques, éthologiques et sanitaires sans lui occasionner  inutilement  de  douleur  ou  de  stress.  Ces conditions incluent des éléments contribuant à la qualité de vie des animaux, parmi lesquels on compte les « cinq droits de l'animal » universellement reconnus :
+L'animal est un être sensible ; à ce titre il doit être placé dans des conditions de vie qui répondent à ses besoins physiologiques, éthologiques et sanitaires sans lui occasionner inutilement de douleur ou de stress. Ces conditions incluent des éléments contribuant à la qualité de vie des animaux, parmi lesquels on compte les « cinq droits de l'animal » universellement reconnus :
 
 - être épargné de la faim, de la soif et de la malnutrition ;
 
@@ -378,7 +390,7 @@ JOURNAL OFFICIEL DE LA REPUBLIQUE DU MALI
 ### ARTICLE 5 :
 Toute personne qui détient un animal, qui en a la garde ou qui en prend soin est tenue de :
 
-- lui  donner  la  nourriture  et  les  soins  appropriés  à  son espèce de lui fournir un logement adapté à ses besoins physiologiques et éthologiques ;
+- lui donner la nourriture et les soins appropriés à son espèce et lui fournir un logement adapté à ses besoins physiologiques et éthologiques ;
 
 - éviter de restreindre ses besoins naturels d'exercice et de mouvement de façon qu'il en résulte pour lui des douleurs, des souffrances ou des lésions.
 
@@ -484,7 +496,7 @@ Sera puni d'une amende de 1 500 à 18 000 francs et d'un emprisonnement d'un (01
 
 - quiconque aura fait travailler (trait ou selle) un animal surmené,  blessé  par  son  harnachement,  par  coups  ou accidentellement, ainsi qu'un animal malade et sous alimenté, dont l'aspect dénote un mauvais état de santé ou d'entretien ;
 
-- quiconque  aura  utilisé  harnachements,  brides,  licols, selles,  sangles  métalliques  ou  réparé  avec  des  objets métalliques  points  ou  tranchants,  ainsi  que  tout harnachement défectueux pouvant blesser l'animal ;
+- quiconque aura utilisé harnachements, brides, licols, selles, sangles métalliques ou réparé avec des objets métalliques pointus ou tranchants, ainsi que tout harnachement défectueux pouvant blesser l'animal ;
 
 - quiconque sera surpris en train de frapper brutalement ou de  maltraiter  un  animal,  qui  aura  refusé  ou  négligé  de soigner un animal blessé ou malade ;
 
@@ -499,7 +511,7 @@ Sera puni d'une amende de 2 000 à 18 000 francs :
 
 - celui qui l'aura placé et maintenu dans un habitat ou un environnement susceptible d'être, en raison de son exiguïté, de  sa  situation  inapproprié  aux  conditions  climatiques supportables par l'espèce considérée ou de l'inadaptation des  matériels,  installation  ou  agencements  utilisés,  une cause de souffrances, de blessures ou d'accidents ;
 
-- celui qui aura utilisé, sauf en cas de nécessité absolue, des dispositifs d'attache ou de contention ainsi que des clôtures,  des  cages  ou,  plus,  généralement,  tout  mode détention inadapté à l'espèce considérée ou de nature à provoquer des blessures ou des  souffrances.
+- celui qui aura utilisé, sauf en cas de nécessité absolue, des dispositifs d'attache ou de contention ainsi que des clôtures, des cages ou, plus, généralement, tout mode de détention inadapté à l'espèce considérée ou de nature à provoquer des blessures ou des souffrances.
 
 ### ARTICLE 17 :
 Quiconque aura effectué ou fait effectuer le transport d'un animal inapte au déplacement envisagé, et  spécialement  d'un  animal  manifestement  malade  ou blessé ou d'une femelle sur le point de mettre bas sera puni d'une amende de 2 000 à 18000 francs.
@@ -541,7 +553,7 @@ Si  dans  un  délai  de  huit  (08)  jours  les animaux ne sont pas retirés ap
 Les vétérinaires et ingénieurs d'Elevage, les techniciens d'élevage, les agents techniques d'élevage assermentés  de  la  Direction  Nationale  des  Services Vétérinaires, les officiers et agents de police judiciaire ont qualité pour rechercher et constater par procès-verbaux les infractions en matière  de bien être animal.
 
 ### ARTICLE 24 :
-Les  fonctionnaires  de  la  Direction Nationale  des  Services Vétérinaires  visés  à  l'article précédent peuvent s'introduire dans les maisons, fermes, cours dépôts et enclos accompagnés d'un représentant de la force publique ou de collectivité lequel signe le procèsverbal de l'opération à laquelle il a assisté.
+Les fonctionnaires de la Direction Nationale des Services Vétérinaires visés à l'article précédent peuvent s'introduire dans les maisons, fermes, cours dépôts et enclos accompagnés d'un représentant de la force publique ou de collectivité lequel signe le procès-verbal de l'opération à laquelle il a assisté.
 
 Ils ont libre accès sur les quais fluviaux, dans les gares, aéroports et sur les voies de chemin  de  fer. Ils peuvent visiter les trains, véhicules, avions pinasses et embarcations de toute nature.
 
@@ -578,7 +590,7 @@ Les délais de prescription en matière de bien être animal sont ceux prévus p
 Des ristournes sont accordées aux agents de contrôle sur les produits des amendes de transactions en matière de bien être animal.
 
 ### ARTICLE 33 :
-Le  recouvrement  des  amendements résultant  des  jugements    rendus  ou  des  transactions intervenues après jument pour les contraventions et délits prévus par la présente loi sont assurés par des régies de recettes instituées par arrêté du ministre chargé des finances auprès des services vétérinaires chargés de la constatation des poursuites et des infractions.
+Le recouvrement des amendes résultant des jugements rendus ou des transactions intervenues après jugement pour les contraventions et délits prévus par la présente loi sont assurés par des régies de recettes instituées par arrêté du ministre chargé des finances auprès des services vétérinaires chargés de la constatation des poursuites et des infractions.
 
 ### ARTICLE 34 :
 Un décret pris en Conseil des Ministres fixe les modalités d'application de la présente loi.
@@ -608,45 +620,45 @@ LE PRESIDENT DE LA REPUBLIQUE PROMULGUE LA LOI DONT LA TENEUR SUIT :
 
 ### CHAPITRE I : DES DEFINITIONS
 
-ARTICLE 1 er  : Au sens du présent Code Minier, on entend par :
+ARTICLE 1er : Au sens du présent Code Minier, on entend par :
 
-- Activité minière : Toute opération de Reconnaissance, d'Exploration,  de  Prospection,  de  Recherche  ou d'Exploitation de substances minérales.
+1. Activité minière : Toute opération de Reconnaissance, d'Exploration, de Prospection, de Recherche ou d'Exploitation de substances minérales.
 
-- Administration chargée des Mines : Tout  service administratif  ou  organisme  public  chargé  des Activités minières  de  toutes  recherches  et  études  nécessaires  à l'élaboration et à la mise en œuvre de la politique minière et, rattachés au ministère chargé des Mines.
+2. Administration chargée des Mines : Tout service administratif ou organisme public chargé des Activités minières de toutes recherches et études nécessaires à l'élaboration et à la mise en œuvre de la politique minière et, rattachés au ministère chargé des Mines.
 
-- Amodiation : Un louage pour une déterminée  ou indéterminée sans faculté de sou-louage, de tout ou partie des droits attachés à titre minier moyennant une rémunération fixée par accord entre l'amodiant et l'amodiataire.
+3. Amodiation : Un louage pour une durée déterminée ou indéterminée sans faculté de sous-louage, de tout ou partie des droits attachés à un titre minier moyennant une rémunération fixée par accord entre l'amodiant et l'amodiataire.
 
-- Cadastre minier : Représentation  cartographique  et documents annexes de tous les titres miniers en cours de validité comportant leur situation géographique, leur nature, leur titulaire et leur durée de validité. Le cadastre minier couvre également les zones promotionnelles et les couloirs d'orpaillage.
+4. Cadastre minier : Représentation cartographique et documents annexes de tous les titres miniers en cours de validité comportant leur situation géographique, leur nature, leur titulaire et leur durée de validité. Le cadastre minier couvre également les zones promotionnelles et les couloirs d'orpaillage.
 
-- Carrières : Ensemble des installations, équipements et infrastructures  de  surface  nécessaires  pour  l'extraction d'une  substance  minérale.  Exploitation  des  matériaux destinés à la construction, les carrières sont à ciel ouvert ou souterraines. La nature des matériaux exploités distingue les mines (substance minérale autres que les matériaux de construction) des carrières.
+5. Carrières : Ensemble des installations, équipements et infrastructures de surface nécessaires pour l'extraction d'une substance minérale. Exploitation des matériaux destinés à la construction, les carrières sont à ciel ouvert ou souterraines. La nature des matériaux exploités distingue les mines (substances minérales autres que les matériaux de construction) des carrières.
 
-- Code Minier : La présente loi et ses textes d'application. 7. Concentré : Produit valorisable sur le marché et élaboré dans une étape intermédiaire de la chaîne qui va du minerai tout venant au produit fini.
+6. Code Minier : La présente loi et ses textes d'application.
 
-- Couloir d'exploitation artisanale : Bande de terrain dévolue aux Collectivités Locales et réservée exclusivement à  l'exploitation  artisanale  des  substances  minérales  par l'Administration chargée des Mines conjointement avec les  Administrations  chargées  de    l'Administration territoriale et de l'environnement, sur une durée limitée.
+7. Concentré : Produit valorisable sur le marché et élaboré dans une étape intermédiaire de la chaîne qui va du minerai tout venant au produit fini.
 
-On  parle aussi de couloir d'orpaillage quand il s'agit de l'exploitation artisanale de l'or.
+8. Couloir d'exploitation artisanale : Bande de terrain dévolue aux Collectivités Locales et réservée exclusivement à l'exploitation artisanale des substances minérales par l'Administration chargée des Mines conjointement avec les Administrations chargées de l'Administration territoriale et de l'environnement, sur une durée limitée. On parle aussi de couloir d'orpaillage quand il s'agit de l'exploitation artisanale de l'or.
 
-- Daté de démarrage de la production : Date marquant la fin de la période des essais techniques qui ne peut excéder une durée maximale de six (06) mois.
+9. Date de démarrage de la production : Date marquant la fin de la période des essais techniques qui ne peut excéder une durée maximale de six (06) mois.
 
-- Développement  communautaire : Ensemble  de politiques et d'actions, visant, d'une part, à améliorer des conditions  de  vie  et,  d'autre  part,  à  promouvoir  des mutations  positives  dans  les  structures  économiques, consécutives  à  la  création  de  richesse  au  sein  des populations riveraines des mines.
+10. Développement communautaire : Ensemble de politiques et d'actions, visant, d'une part, à améliorer des conditions de vie et, d'autre part, à promouvoir des mutations positives dans les structures économiques, consécutives à la création de richesse au sein des populations riveraines des mines.
 
-- Développement durable : Un  développement  qui répond  aux  besoins  du  présent  sans  compromettre  la capacité des générations futures de répondre aux leurs. Le développement durable s'appuie sur une vision à long terme qui  prend  en  compte  le  caractère    indissociable  des dimensions  environnementales, sociales et économiques des activités de développement.
+11. Développement durable : Un développement qui répond aux besoins du présent sans compromettre la capacité des générations futures de répondre aux leurs. Le développement durable s'appuie sur une vision à long terme qui prend en compte le caractère indissociable des dimensions environnementales, sociales et économiques des activités de développement.
 
-- Direction chargée des Mines : Direction Nationale de la Géologie et des Mines.
+12. Direction chargée des Mines : Direction Nationale de la Géologie et des Mines.
 
-- Directeur  des  Mines : Directeur  National    de  la Géologie et des Mines.
+13. Directeur des Mines : Directeur National de la Géologie et des Mines.
 
-- Eau  minérale : Eau  souterraine  contenant  les oligoéléments et exploitable industriellement.
+14. Eau minérale : Eau souterraine contenant les oligoéléments et exploitable industriellement.
 
-- Environnement : Un ensemble perçu comme une entité, dans un espace et en un temps donnés, des facteurs physiques, chimiques, biologiques et sociaux susceptibles d'avoir un effet direct ou indirect, immédiat ou à terme, sur  l'espèce  humaine  et  ses  activités  et  sur  les  espèces animales et végétales.
+15. Environnement : Un ensemble perçu comme une entité, dans un espace et en un temps donnés, des facteurs physiques, chimiques, biologiques et sociaux susceptibles d'avoir un effet direct ou indirect, immédiat ou à terme, sur l'espèce humaine et ses activités et sur les espèces animales et végétales.
 
-- Etude  de  faisabilité : Document Technique  et économique  soumis par les sociétés minières aux fins d'obtenir  un  permis  d'exploitation.  Son  contenu  est déterminé dans le décret d'application.
+16. Etude de faisabilité : Document Technique et économique soumis par les sociétés minières aux fins d'obtenir un permis d'exploitation. Son contenu est déterminé dans le décret d'application.
 
-- Etude  d'Impact  Environnemental  et  Social : L'identification, la description et l'évaluation des effets des projets sur l'homme, la faune et la flore, le sol, l'eau, l'air, le climat et le paysage, y compris les interactions entre ses facteurs,  le  patrimoine  culturel,  socioéconomique  et d'autres biens matériels.
+17. Etude d'Impact Environnemental et Social : L'identification, la description et l'évaluation des effets des projets sur l'homme, la faune et la flore, le sol, l'eau, l'air, le climat et le paysage, y compris les interactions entre ces facteurs, le patrimoine culturel, socioéconomique et d'autres biens matériels.
 
-- Exploitation : Ensemble des travaux préparatoires, d'extraction,  de  transport,  d'analyse  et  de  traitement effectués  sur  un  gisement  et/ou  un  site  donné  pour transformer  les  substances  minérales  en  produits commercialisables et/ou utilisables.
+18. Exploitation : Ensemble des travaux préparatoires, d'extraction, de transport, d'analyse et de traitement effectués sur un gisement et/ou un site donné pour transformer les substances minérales en produits commercialisables et/ou utilisables.
 
-- Exploitation artisanale : Toute opération qui consiste à extraire et concentrer des substances minérales provenant des  gîtes  primaires  et  secondaires  affleurant  ou  subaffleurant et en récupérer les produits marchands en utilisant des  méthodes  et  procédés  manuels  et  traditionnels  ou mécanisés.
+19. Exploitation artisanale : Toute opération qui consiste à extraire et concentrer des substances minérales provenant des gîtes primaires et secondaires affleurant ou sub-affleurant et en récupérer les produits marchands en utilisant des méthodes et procédés manuels et traditionnels ou mécanisés.
 
 [[END OF PAGE 9]]
 
@@ -656,55 +668,55 @@ On  parle aussi de couloir d'orpaillage quand il s'agit de l'exploitation artisa
 
 JOURNAL OFFICIEL DE LA REPUBLIQUE DU MALI
 
-- Exploration : Ensemble des travaux exécutés par un postulant à un titre minier dans le but de se déterminer sur le choix d'une zone du territoire sollicité.
+20. Exploration : Ensemble des travaux exécutés par un postulant à un titre minier dans le but de se déterminer sur le choix d'une zone du territoire sollicité.
 
-- Extraction : Ensemble des travaux visant à extraire du sol et du sous-sol des substances minérales.
+21. Extraction : Ensemble des travaux visant à extraire du sol et du sous-sol des substances minérales.
 
-- Franc : FCFA ou l'équivalent en toute monnaie ayant cours légal au Mali.
+22. Franc : FCFA ou l'équivalent en toute monnaie ayant cours légal au Mali.
 
-- Fournisseur : Toute personne physique ou morale qui se limite à livrer des biens et services au titulaire d'un titre minier  sans  accomplir  un    acte  de  production  ou  de prestation de service se rattachant aux activités principales dudit titulaire de titre minier telles que précisées dans la définition de Sous-traitant.
+23. Fournisseur : Toute personne physique ou morale qui se limite à livrer des biens et services au titulaire d'un titre minier sans accomplir un acte de production ou de prestation de service se rattachant aux activités principales dudit titulaire de titre minier telles que précisées dans la définition de Sous-traitant.
 
-- Gisement : Concentration minérale exploitable aux conditions économiques du moment.
+24. Gisement : Concentration minérale exploitable aux conditions économiques du moment.
 
-- Gîte : Concentration  minérale  pour  laquelle  la rentabilité de l'exploitation n'est pas encore prouvée.
+25. Gîte : Concentration minérale pour laquelle la rentabilité de l'exploitation n'est pas encore prouvée.
 
-- Gîtes  géothermiques : Gîtes  naturels  dont  on  peut extraire de l'énergie sous forme thermique, notamment par l'intermédiaire des eaux chaudes et des vapeurs souterraines qu'ils contiennent.
+26. Gîtes géothermiques : Gîtes naturels dont on peut extraire de l'énergie sous forme thermique, notamment par l'intermédiaire des eaux chaudes et des vapeurs souterraines qu'ils contiennent.
 
-- Groupe de substances minérales : Nombre limité substances minérales fréquemment associées dans des gîtes et gisements, par des affinités géologiques, pour lequel un titre minier est accordé.
+27. Groupe de substances minérales : Nombre limité de substances minérales fréquemment associées dans des gîtes et gisements, par des affinités géologiques, pour lequel un titre minier est accordé.
 
-- Haldes, terrils de mines et résidus d'exploitation minière : Tous rejets, déblais, résidus d'exploitation des mines et de carrières.
+28. Haldes, terrils de mines et résidus d'exploitation minière : Tous rejets, déblais, résidus d'exploitation des mines et de carrières.
 
-- Hygiène : Un ensemble de mesures et pratiques prises par les individus et les communautés pour préserver leur santé  contre  les  effets  adverses  résultant  des  facteurs physiques, biologiques et chimiques.
+29. Hygiène : Un ensemble de mesures et pratiques prises par les individus et les communautés pour préserver leur santé contre les effets adverses résultant des facteurs physiques, biologiques et chimiques.
 
-- Hygiène et sécurité : se  résume  à  l'anticipation,  à l'identification, à l'évaluation et à la maitrise des risques pour la santé dans les milieux de travail ; son but ultime est de protéger la santé et le bien-être des travailleurs, en plus d'assurer la protection des communautés.
+30. Hygiène et sécurité : se résume à l'anticipation, à l'identification, à l'évaluation et à la maitrise des risques pour la santé dans les milieux de travail ; son but ultime est de protéger la santé et le bien-être des travailleurs, en plus d'assurer la protection des communautés.
 
-- Impôt Spécial sur Certains Produits (ISCP) : Impôt auquel sont soumis certains produits dont les  produits miniers.
+31. Impôt Spécial sur Certains Produits (ISCP) : Impôt auquel sont soumis certains produits dont les produits miniers.
 
-- Liste minière : Liste d'équipements et de matériels normalement utilisés dans les Activités minières et pour lesquels les droits et taxes à l'importation sont suspendus, modérés ou exonérés. La liste minière est régulièrement mise à jour par les administrations compétentes.
+32. Liste minière : Liste d'équipements et de matériels normalement utilisés dans les Activités minières et pour lesquels les droits et taxes à l'importation sont suspendus, modérés ou exonérés. La liste minière est régulièrement mise à jour par les administrations compétentes.
 
-- Mine : Complexe industriel  ou  semi  industriel regroupant les activités d'administration et d'exploitation minières comprenant entre autres :
+33. Mine : Complexe industriel ou semi industriel regroupant les activités d'administration et d'exploitation minières comprenant entre autres :
 
-- Toute ouverture ou excavation faite dans le but d'extraire, de découvrir ou d'obtenir une substance minérale ;
+a) Toute ouverture ou excavation faite dans le but d'extraire, de découvrir ou d'obtenir une substance minérale ;
 
-- Tous  travaux,  machines,  équipements,  usine,  cité minière,  infrastructures  industrielles,  administratives  et socioculturelles sous ou sur la surface de terrain faisant partie du périmètre d'une exploitation minière ;
+b) Tous travaux, machines, équipements, usine, cité minière, infrastructures industrielles, administratives et socioculturelles sous ou sur la surface de terrain faisant partie du périmètre d'une exploitation minière ;
 
-- Minerai : Substance minérale provenant d'un gisement.
+c) Minerai : Substance minérale provenant d'un gisement.
 
-- Notice  d'Impact  Environnemental  et  Social : Document comprenant : l'identification, la description et l'évaluation des effets des projets sur l'homme, la faune et la flore, le sol, l'eau, l'air, le climat et le paysage, y compris les interactions entre ces facteurs, le patrimoine culturel et d'autres biens matériels. Ce document est soumis par les sociétés minières et les exploitants de carrières industrielles, en même temps que le rapport de faisabilité exigé pour obtenir une autorisation d'exploitation de petite mine ou de carrière.
+34. Notice d'Impact Environnemental et Social : Document comprenant : l'identification, la description et l'évaluation des effets des projets sur l'homme, la faune et la flore, le sol, l'eau, l'air, le climat et le paysage, y compris les interactions entre ces facteurs, le patrimoine culturel et d'autres biens matériels. Ce document est soumis par les sociétés minières et les exploitants de carrières industrielles, en même temps que le rapport de faisabilité exigé pour obtenir une autorisation d'exploitation de petite mine ou de carrière.
 
-- Orpaillage : Activité  consistant  à  récupérer  l'or contenu  dans  les  gîtes  primaires,  alluvionnaires  et éluvionnaires.  Elle  peut  être  pratiquée  sous  la  forme artisanale ou mécanisée.
+35. Orpaillage : Activité consistant à récupérer l'or contenu dans les gîtes primaires, alluvionnaires et éluvionnaires. Elle peut être pratiquée sous la forme artisanale ou mécanisée.
 
 - Orpaillage artisanal : récupération de l'or par les procédés simples (sans usage de produits chimiques) en utilisant des équipements rudimentaires ;
 
-- Orpaillage  mécanisé :  récupération  de  l'or  par  des procédés  améliorés  avec  l'utilisation  des  machines  et équipements.
+- Orpaillage mécanisé : récupération de l'or par des procédés améliorés avec l'utilisation des machines et équipements.
 
-- Ouvrages miniers : Ensemble des infrastructures nécessaires  pour  mener  à  bien  les  opérations  minières (extraction, transport, aération, exhaure, éclairage).
+36. Ouvrages miniers : Ensemble des infrastructures nécessaires pour mener à bien les opérations minières (extraction, transport, aération, exhaure, éclairage).
 
-- Périmètre de protection : Zone mise en place autour de la mine et de ses installations en vue de réglementer la circulation des personnes et des biens.
+37. Périmètre de protection : Zone mise en place autour de la mine et de ses installations en vue de réglementer la circulation des personnes et des biens.
 
-- Petite  mine : Exploitation  minière  de  petite  taille, permanente, possédant un minimum  d'installations fixes, utilisant  dans  les  règles  de  l'art  des  procédés  semi industriels ou industriels et dont la production annuelle en régime de croisière n'excède pas un certain tonnage du produit commercialisable (minerai, concentré ou métal), fixé par substance et par arrêté du ministre chargé des Mines et fondé sur la justification de l'existence d'un gisement.
+38. Petite mine : Exploitation minière de petite taille, permanente, possédant un minimum d'installations fixes, utilisant dans les règles de l'art des procédés semi industriels ou industriels et dont la production annuelle en régime de croisière n'excède pas un certain tonnage du produit commercialisable (minerai, concentré ou métal), fixé par substance et par arrêté du ministre chargé des Mines et fondé sur la justification de l'existence d'un gisement.
 
-- Plus-value de cession ou de transmission de titres miniers : Revenu ou gain réalisé lors de la cession ou de la transmission d'un  titre minier.
+39. Plus-value de cession ou de transmission de titres miniers : Revenu ou gain réalisé lors de la cession ou de la transmission d'un titre minier.
 
 [[END OF PAGE 10]]
 
@@ -714,51 +726,51 @@ JOURNAL OFFICIEL DE LA REPUBLIQUE DU MALI
 
 331
 
-Il y a plus-value de cession et de transmission, en phase de recherche,  lorsque  le  prix  de  cession  ou  la  valeur  de transmission du titre dépasse le coût des investissements réalisés sur le titre minier.
+Il y a plus-value de cession et de transmission, en phase de recherche, lorsque le prix de cession ou la valeur de transmission du titre dépasse le coût des investissements réalisés sur le titre minier.
 
-- Plan  de  développement  communautaire : Un document élaboré  par  le  postulant  à  un  titre  minier d'exploitation en concertation avec les communautés et les autorités régionales et locales indiquant les projets à vocation économique et sociale à réaliser au profit des communautés.
+40. Plan de développement communautaire : Un document élaboré par le postulant à un titre minier d'exploitation en concertation avec les communautés et les autorités régionales et locales indiquant les projets à vocation économique et sociale à réaliser au profit des communautés.
 
-- plan de fermeture et de réhabilitation : Un document comprenant  l'ensemble  des  méthodes  prévues  de démantèlement  et  de  récupération  de  toutes  les composantes des installations minières et des travaux de réhabilitation progressifs à réaliser  en cours d'exploitation et à la cessation de l'exploitation.
+41. plan de fermeture et de réhabilitation : Un document comprenant l'ensemble des méthodes prévues de démantèlement et de récupération de toutes les composantes des installations minières et des travaux de réhabilitation progressifs à réaliser en cours d'exploitation et à la cessation de l'exploitation.
 
-- Plan  de  gestion  environnement  et  social : Un document  défini  à  l'issue  de  l'étude  d'impact  sur l'environnement comportant les engagements du titulaire du titre minier en matière de protection de l'environnement. Ces engagements concernent toutes les actions à mettre en place pour prévenir, réduire, supprimer ou compenser les effets négatifs de ses activités minières sur l'environnement et sur la santé des populations riveraines du site minier.
+42. Plan de gestion environnement et social : Un document défini à l'issue de l'étude d'impact sur l'environnement comportant les engagements du titulaire du titre minier en matière de protection de l'environnement. Ces engagements concernent toutes les actions à mettre en place pour prévenir, réduire, supprimer ou compenser les effets négatifs de ses activités minières sur l'environnement et sur la santé des populations riveraines du site minier.
 
-Dans le cas d'échanges ou de cession d'actions, la plusvalue est calculée sur la base de la valeur des actions.
+Dans le cas d'échanges ou de cession d'actions, la plus-value est calculée sur la base de la valeur des actions.
 
-- Prospection : Ensemble des travaux géologiques, géochimiques, géophysiques, miniers, analyse d'échantillons et essai de traitement de minerai exécutés par un détenteur d'une autorisation de prospection en vue de découvrir un gisement économiquement exploitable.
+43. Prospection : Ensemble des travaux géologiques, géochimiques, géophysiques, miniers, analyse d'échantillons et essai de traitement de minerai exécutés par un détenteur d'une autorisation de prospection en vue de découvrir un gisement économiquement exploitable.
 
-- Recherche : Ensemble  des  travaux  géologiques, géochimiques, géophysiques, miniers, analyse d'échantillons et essai de traitement de minerai exécutés par  un  détenteur  d'un  permis  de  recherche  en  vue  de découvrir un gisement économiquement exploitable.
+44. Recherche : Ensemble des travaux géologiques, géochimiques, géophysiques, miniers, analyse d'échantillons et essai de traitement de minerai exécutés par un détenteur d'un permis de recherche en vue de découvrir un gisement économiquement exploitable.
 
-- Rapport  de  faisabilité : Document  technique  et économique soumis par les postulants à une autorisation d'exploitation de petite mine. Son contenu est déterminé dans le décret d'application.
+45. Rapport de faisabilité : Document technique et économique soumis par les postulants à une autorisation d'exploitation de petite mine. Son contenu est déterminé dans le décret d'application.
 
-- Reconnaissance : Activité ayant pour but de tester le potentiel d'une zone géographique. Elle peut comprendre des travaux au sol et/ou des survols aériens. Les travaux au sol consistant essentiellement en des levés géologiques, pouvant comprendre quelques prélèvements pour analyses minéralogiques et chimiques de sols et de roches. Elle exclut de son domaine les travaux dits lourds tels que puits, tranchées,  sondages  etc.  Les  survols  aériens  peuvent consister  en  des  examens  visuels  des  traits  principaux géologiques,  morphologiques  et  structuraux,  en  de  la photographie  aérienne et en des levés géophysiques.
+46. Reconnaissance : Activité ayant pour but de tester le potentiel d'une zone géographique. Elle peut comprendre des travaux au sol et/ou des survols aériens. Les travaux au sol consistant essentiellement en des levés géologiques, pouvant comprendre quelques prélèvements pour analyses minéralogiques et chimiques de sols et de roches. Elle exclut de son domaine les travaux dits lourds tels que puits, tranchées, sondages etc. Les survols aériens peuvent consister en des examens visuels des traits principaux géologiques, morphologiques et structuraux, en de la photographie aérienne et en des levés géophysiques.
 
-- Région : Subdivision administrative du territoire du Mali.
+47. Région : Subdivision administrative du territoire du Mali.
 
-- Règlement minier : Ensemble de règles relatives à la bonne exécution de l'activité  minière  et  édictées  par l'Administration chargée des Mines en plus du  code minier et de ses textes d'application.
+48. Règlement minier : Ensemble de règles relatives à la bonne exécution de l'activité minière et édictées par l'Administration chargée des Mines en plus du code minier et de ses textes d'application.
 
-- Ressources : Concentration minérale identifiée in situ par des données géo-scientifiques pour laquelle il y a une possibilité raisonnable pour qu'elle soit économiquement exploitable.  Suivant  la  précision  géo-scientifique,  les ressources peuvent être divisées en mesurées, indiquées et inférées.
+49. Ressources : Concentration minérale identifiée in situ par des données géo-scientifiques pour laquelle il y a une possibilité raisonnable pour qu'elle soit économiquement exploitable. Suivant la précision géo-scientifique, les ressources peuvent être divisées en mesurées, indiquées et inférées.
 
-- Réserves : Parties des ressources mesurées et indiquées pouvant  être  exploitées  économiquement  sous  les conditions  du  marché  au  moment  de  l'estimation.  Les réserves sont divisées en prouvées et probables.
+50. Réserves : Parties des ressources mesurées et indiquées pouvant être exploitées économiquement sous les conditions du marché au moment de l'estimation. Les réserves sont divisées en prouvées et probables.
 
-- Santé : La  santé  est  un  état  de  bien-être  complet, physique, mental et social, et non pas simplement l'absence de maladies ou d'infirmité.
+51. Santé : La santé est un état de bien-être complet, physique, mental et social, et non pas simplement l'absence de maladies ou d'infirmité.
 
-- Salubrité du milieu : Caractère de ce qui est propre, sain, résultant du nettoyage et de l'évacuation des déchets.
+52. Salubrité du milieu : Caractère de ce qui est propre, sain, résultant du nettoyage et de l'évacuation des déchets.
 
-- Société d'exploitation : Société de droit malien créée en vue de l'exploitation d'un gisement.
+53. Société d'exploitation : Société de droit malien créée en vue de l'exploitation d'un gisement.
 
-- Sous-traitant : Toute personne physique ou morale exécutant un travail qui s'inscrit dans le cadre des activités principales du titulaire du titre minier, notamment :
+54. Sous-traitant : Toute personne physique ou morale exécutant un travail qui s'inscrit dans le cadre des activités principales du titulaire du titre minier, notamment :
 
-- des travaux de géophysique, de géochimie et de sondage pour la recherche, la prospection et l'exploitation ;
+a) des travaux de géophysique, de géochimie et de sondage pour la recherche, la prospection et l'exploitation ;
 
-- de  la  construction  des  infrastructures  industrielles, administratives et socioculturelles : voies, usines, bureaux, cités  minières,  supermarchés,  établissements  socio sanitaires et scolaires, de loisirs et d'approvisionnement en eau et électricité ;
+b) de la construction des infrastructures industrielles, administratives et socioculturelles : voies, usines, bureaux, cités minières, supermarchés, établissements socio sanitaires et scolaires, de loisirs et d'approvisionnement en eau et électricité ;
 
-- des  travaux  d'extraction  minière,  de  transport  et  de stockage des matériaux et de traitement de minerais.
+c) des travaux d'extraction minière, de transport et de stockage des matériaux et de traitement de minerais.
 
-- Substances  minérales : Substances  naturelles amorphes, cristallines ou sédimentaires, solides, liquides ou gazeuses ainsi que les substances organiques fossilisées et les gîtes géothermiques.
+55. Substances minérales : Substances naturelles amorphes, cristallines ou sédimentaires, solides, liquides ou gazeuses ainsi que les substances organiques fossilisées et les gîtes géothermiques.
 
-- Substances précieuses : Ensemble des métaux précieux, des pierres précieuses et des pierres fines, désignés aux points a, b, et c, ci-dessous et toutes autres substances analogues :
+56. Substances précieuses : Ensemble des métaux précieux, des pierres précieuses et des pierres fines, désignés aux points a, b, et c, ci-dessous et toutes autres substances analogues :
 
-- les métaux précieux sont : l'or, l'argent, le platine et les platinoïdes, à savoir l'iridium, l'osmium, le palladium, le rhodium et le ruthénium, à l'état brut ainsi que tout concentré, résidu et amalgame qui contiennent de tels métaux ;
+a) les métaux précieux sont : l'or, l'argent, le platine et les platinoïdes, à savoir l'iridium, l'osmium, le palladium, le rhodium et le ruthénium, à l'état brut ainsi que tout concentré, résidu et amalgame qui contiennent de tels métaux ;
 
 [[END OF PAGE 11]]
 
@@ -768,15 +780,15 @@ Dans le cas d'échanges ou de cession d'actions, la plusvalue est calculée sur 
 
 JOURNAL OFFICIEL DE LA REPUBLIQUE DU MALI
 
-- sont considérés comme pierres précieuses : le diamant, l'émeraude, le rubis, le saphir ;
+b) sont considérés comme pierres précieuses : le diamant, l'émeraude, le rubis, le saphir ;
 
-- sont considérés comme pierres fines : l'alexandrite, le béryl,  la  topaze,  le  jade,  l'opale  et  certains  grenats, andalousites, calcédoines, quartz, tourmalines, corindons, ainsi que toutes autres curiosités minéralogiques qui a une forte valeur marchande.
+c) sont considérés comme pierres fines : l'alexandrite, le béryl, la topaze, le jade, l'opale et certains grenats, andalousites, calcédoines, quartz, tourmalines, corindons, ainsi que toutes autres curiosités minéralogiques qui a une forte valeur marchande.
 
-57. Substances minérales radioactives : toutes substances minérales qui,  spontanément perdent de leur masse en émettant des particules ou des rayonnements électromagnétiques, tels que l'uranium et le thorium ainsi que leurs descendants.
+57. Substances minérales radioactives : toutes substances minérales qui, spontanément perdent de leur masse en émettant des particules ou des rayonnements électromagnétiques, tels que l'uranium et le thorium ainsi que leurs descendants.
 
 58. Traitement : Activité de concentration et d'enrichissement du minerai extrait aboutissant à un produit commercialisable.
 
-59. Zone réglementée : Limites fixées par le Gouvernement autour de zones sensibles (villages, ouvrages d'art, voies de communication, lieux culturels ou culturels etc.) à l'intérieur desquelles l'activité minière est soumise à certaines conditions ou interdite pour des raisons d'utilité publique et/ou d'intérêt général.
+59. Zone réglementée : Limites fixées par le Gouvernement autour de zones sensibles (villages, ouvrages d'art, voies de communication, lieux cultuels ou culturels etc.) à l'intérieur desquelles l'activité minière est soumise à certaines conditions ou interdite pour des raisons d'utilité publique et/ou d'intérêt général.
 
 Le périmètre d'une zone réglementée est délimité, porté à la connaissance du public et communiqué au demandeur du titre.
 
@@ -786,7 +798,7 @@ ARTICLE 2 : Le présent Code minier vise à favoriser les opérations  de  recon
 
 ARTICLE 3 : Est  soumise aux dispositions du présent Code Minier, toute activité ayant pour but d'effectuer la reconnaissance, l'exploration, la prospection, la recherche et l'exploitation de substances minérales, ainsi que leur possession,  leur  transport,  leur  traitement  et  leur commercialisation à l'exclusion des activités de même genre relatives aux hydrocarbures liquides et gazeux.
 
-ARTICLE 4 : Les  substances  minérales  soumises  au régime des mises dans le territoire de la République  du Mali appartiennent à l'Etat. Toutefois, les titulaires des titres  miniers  d'exploitation  acquièrent  la  propriété  des substances  minérales  qu'ils  extraient.  Les  droits  à  ces substances constituent une propriété distincte de celle de la surface.
+ARTICLE 4 : Les substances minérales soumises au régime des mines dans le territoire de la République du Mali appartiennent à l'Etat. Toutefois, les titulaires des titres miniers d'exploitation acquièrent la propriété des substances minérales qu'ils extraient. Les droits à ces substances constituent une propriété distincte de celle de la surface.
 
 Le régime des mines se différencie de celui des carrières.
 
@@ -800,7 +812,7 @@ ARTICLE 7 : Les gîtes  des  substances  minérales  non visées  à  l'Article 
 
 ARTICLE 8 : Les gîtes des substances minérales soumis au régime des mines sont classés en cinq groupes :
 
--Groupe 1 : diamant, émeraude, saphi, béryl, jade, opale, grenat,  alexandrite  andalousite,  calcédoine,  quartz, tourmaline, corindon ;
+-Groupe 1 : diamant, émeraude, saphir, béryl, jade, opale, grenat, alexandrite andalousite, calcédoine, quartz, tourmaline, corindon ;
 
 -Groupe 2 : or,  argent,  platinoïdes,  cuivre,  plomb, molybdène, zinc, titane, vanadium, zirconium, niobium, tantale, tungstène, terres rares, lithium, étain, cobalt, nickel ;
 
@@ -828,9 +840,9 @@ S'il  s'agit  du  domaine  de  l'Etat,  une  autorisation d'exploration  pourrai
 
 Toutefois la prospection, la recherche et l'exploitation de ces gîtes sont soumises aux dispositions du présent Code minier et de ses textes d'application.
 
-ARTICLE 11 : Un arrêté conjoint des ministres des Mines et  des  Finances  peut  décider  le  passage  à  une  date déterminée, de substances dont  les gites sont soumis au régime des carrières à la catégorie des substances dont  les gites sont soumis au régime des carrières.
+ARTICLE 11 : Un arrêté conjoint des ministres chargés des Mines et des Finances peut décider le passage à une date déterminée, de substances dont les gites sont soumis au régime des carrières à la catégorie des substances dont les gites sont soumis au régime des mines.
 
-De même, un arrêté conjoint des ministres chargés des Mines et des Mines et des Finances peut décider le passage, à une déterminée, de substances dont les gîtes sont soumis au régime des mines à la catégorie des substances dont les gîtes sont soumis au régime des mines.
+De même, un arrêté conjoint des ministres chargés des Mines et des Finances peut décider le passage, à une date déterminée, de substances dont les gîtes sont soumis au régime des mines à la catégorie des substances dont les gîtes sont soumis au régime des carrières.
 
 Un arrêté conjoint des ministres chargés des Mines et des Finances peut soumettre tout gîte de substances minérales non présentement visé à l'article 7 au régime des mines ou au régime des carrières et le rattacher au groupe pertinent.
 
@@ -844,7 +856,7 @@ ARTICLE 14 : Dans  le  cas  où  une  exploitation  est  en activité sous le r�
 
 ### CHAPITRE IV : DE LA CONVENTION D'ETABLISSEMENT
 
-ARTICLE  15 : A  l'exception  de  l'autorisation d'exploitation et de l'autorisation d'exploitation artisanale mécanisée, les titres  miniers  assortis  de  la  Convention d'Etablissement définissant les droits et les obligations de l'Etat et du titulaire.
+ARTICLE 15 : A l'exception de l'autorisation d'exploitation et de l'autorisation d'exploitation artisanale mécanisée, les titres miniers sont assortis de la Convention d'Etablissement définissant les droits et les obligations de l'Etat et du titulaire.
 
 Le modèle de la Convention d'Etablissement est approuvé par décret du Chef du Gouvernement et joint en annexe au présent Code minier.
 
@@ -864,7 +876,7 @@ Le périmètre est inscrit sur le cadastre minier et porté à l'attention des d
 
 ARTICLE 17 : Le titre minier définit une surface dont les côtés sont toujours orientés suivant un parallèle dans le sens Est-Ouest et suivant un méridien dans le sens Nord-Sud.
 
-ARTICLE 18 : Afin de justifier ses capacités techniques et financières, le demandeur d'un titre minier droit fournir à  l'administration  chargée  des  Mines,  à  l'appui  de  sa demande dont la liste est fixée dans le décret d'application.
+ARTICLE 18 : Afin de justifier ses capacités techniques et financières, le demandeur d'un titre minier doit fournir à l'administration chargée des Mines, à l'appui de sa demande, des documents dont la liste est fixée dans le décret d'application.
 
 ARTICLE 19 : Les titres miniers attribués en vertu du présent Code minier  peuvent être annulés ou retirés par l'Administration chargée des Mines, sans indemnité ou dédommagement, suite à une mise en  demeure, restée sans effet pendant quatre-vingt dix (90) jours, pour le permis d'exploitation et soixante (60) jours pour tous les autres titres miniers, pour non-respect des conditions, obligations ou restrictions qui s'appliquent à l'exercice du titre minier tels que :
 
@@ -882,7 +894,7 @@ ARTICLE 19 : Les titres miniers attribués en vertu du présent Code minier  peu
 
 JOURNAL OFFICIEL DE LA REPUBLIQUE DU MALI
 
-- infractions graves aux relatives à l'hygiène, la sécurité et la salubrité publiques ;
+- infractions graves aux dispositions relatives à l'hygiène, la sécurité et la salubrité publiques ;
 
 - non versement des taxes, droits et redevances relatifs aux activités minières ;
 
@@ -890,7 +902,7 @@ JOURNAL OFFICIEL DE LA REPUBLIQUE DU MALI
 
 A l'issue  de  la  période  de  préavis,  restée  sans  effet,  le titulaire du titre se verra   notifier la déchéance des droits découlant de son titre minier. Cette déchéance n'annule pas  la  responsabilité  du  titulaire  relativement  aux obligations mentionnées aux articles 92 à 96 ci-dessus. Cette déchéance est prononcée par décision du ministre chargé des Mines.
 
-L'annulation ou le retrait du titre minier est  prononcé par arrêté du ministre chargé des Mines  en ce qui concerne l'autorisation  de  prospection,  le  permis  de  recherche  et l'autorisation d'exploitation de petite mine et par décret du Chef du Gouvernement pour le permis d'exploitation, moyennant la constatation de la bonne et entière exécution des obligations du titulaire en matière de fermeture et de réhabilitation de la mine mentionnées à l'aliéna précédent du présent article.
+L'annulation ou le retrait du titre minier est prononcé par arrêté du ministre chargé des Mines en ce qui concerne l'autorisation de prospection, le permis de recherche et l'autorisation d'exploitation de petite mine et par décret du Chef du Gouvernement pour le permis d'exploitation, moyennant la constatation de la bonne et entière exécution des obligations du titulaire en matière de fermeture et de réhabilitation de la mine mentionnées à l'alinéa précédent du présent article.
 
 Nonobstant les dispositions ci-dessus, toute modification apportée aux statuts annexés à la demande de titre ou toute modification de contrôle  de la société de nature à remettre en cause les critères qui ont prévalu à l'attribution du titre minier pourrait entraîner l'annulation dudit titre.
 
@@ -904,7 +916,7 @@ Cependant et chaque fois que cela s'avère nécessaire, une autorisation pourra 
 
 Les conditions et modalités de réalisation de ces opérations sur un autre site ou à l'extérieur du Mali seront précisées dans la décision autorisant ces opérations.
 
-ARTICLE 22 : Le décret d'application relatif aux titres mines entre autres :
+ARTICLE 22 : Le décret d'application relatif aux titres miniers précise entre autres :
 
 - la forme et le contenu de la demande ;
 
@@ -938,7 +950,7 @@ ARTICLE 23 : L'exploration fait l'objet d'un titre minier appelé « Autorisatio
 
 - l'autorisation  d'exploration  donne  un  droit  exclusif d'exploration  pendant  sa  validité,  pour  un  groupe  de substances ;
 
-- la durée de l'autorisation d'exploration est de trois  mois non, renouvelable.
+- la durée de l'autorisation d'exploration est de trois mois non renouvelable.
 
 L'existence d'une autorisation d'exploration n'exclut pas la possibilité de dépôt par un autre postulant d'une demande de  titre  minier.  Toutefois  cette  demande  ne  peut  être examinée avant une période d'un mois après le dépôt du rapport visé à l'article 25 ci-après.
 
@@ -960,7 +972,7 @@ L'autorisation d'exploration n'est ni cessible, ni amodiable.
 
 ARTICLE 26 : L'autorisation d'exploration est délivrée par le Directeur des Mines qui en détermine la superficie maximale, suivant les  substances et les régions.
 
-La  procédure  de  demande  et  d'attribution  d'une autorisation  d'exploration  est  précisée  dans  le  décret 'application.
+La procédure de demande et d'attribution d'une autorisation d'exploration est précisée dans le décret d'application.
 
 Au plus  tard  un  mois  après  la  fin  de  la  validité  de l'autorisation d'exploration, le titulaire est tenu de fournir au Directeur des Mines, un rapport sur les travaux effectués et les résultats obtenus.
 
@@ -974,7 +986,7 @@ En cas de découverte de substances appartenant à un autre groupe sur le même 
 
 ARTICLE 29 : La superficie maximale de l'autorisation de prospection est précisée dans le décret d'application.
 
-ARTICLE 30 : La durée de l'autorisation de prospection est de trois ans, renouvelable une fois,  à la demande du titulaire, sans réduction de superficie. Le nouvellement est de droit dans la mesure où le titulaire de l'Autorisation a rempli les obligations fixées dans le présent Code minier.
+ARTICLE 30 : La durée de l'autorisation de prospection est de trois ans, renouvelable une fois, à la demande du titulaire, sans réduction de superficie. Le renouvellement est de droit dans la mesure où le titulaire de l'Autorisation a rempli les obligations fixées dans le présent Code minier.
 
 ARTICLE 31 : L'autorisation de prospection est attribuée à tout postulant à la condition qu'il possède les capacités techniques et financières nécessaires pour mener à bien les travaux de prospection et pour répondre aux obligations en matière d'environnement, d'hygiène, de sécurité et de salubrité publiques.
 
@@ -1012,15 +1024,15 @@ ARTICLE 36 : Le permis de recherche est attribué à toute personne morale par a
 
 En cas de découverte de substances appartenant à un autre groupe, le titulaire peut demander l'extension de son permis à ce groupe à condition que la superficie de son permis soit libre de tout titre minier portant sur ce groupe. Les modalités de cette extension sont précisées dans le décret d'application.
 
-ARTICLE 37 : Lors qu'un même titulaire détient plusieurs permis contigus, la fusion peut en être demandée.
+ARTICLE 37 : Lorsqu'un même titulaire détient plusieurs permis contigus, la fusion peut en être demandée.
 
-L'arrêté  autorisant  la  fusion  détermine  le  nouveau programme le nouveau programme de travail et le coût des travaux envisagés auxquels s'engage le demandeur et fixe  la  date  d'expiration  du  nouveau  permis  qui  sera comprise entre les dates d'échéance des permis fusionnés.
+L'arrêté autorisant la fusion détermine le nouveau programme de travail et le coût des travaux envisagés auxquels s'engage le demandeur et fixe la date d'expiration du nouveau permis qui sera comprise entre les dates d'échéance des permis fusionnés.
 
 Les  superficies  minimale  et  maximale  du  permis  de recherche sont précisées par décision du ministre chargé des Mines, suivant les groupes de substances et les régions et/ou districts miniers.
 
 ARTICLE 38 : La durée du permis de recherche est de trois (03) ans, renouvelable deux (02) fois à la demande du titulaire. La durée de chaque période de renouvellement est égale à deux (02) ans.
 
-Le nouvellement est de droit dans la mesure où le titulaire du permis de recherche a rempli les obligations fixées dans la Convention d'établissement et dans l'arrêté d'attribution du permis de recherche.
+Le renouvellement est de droit dans la mesure où le titulaire du permis de recherche a rempli les obligations fixées dans la Convention d'établissement et dans l'arrêté d'attribution du permis de recherche.
 
 Au deuxième renouvellement, lorsque les obligations fixées dans  la  Convention  d'établissement  et  dans  l'arrêté d'attribution du permis de recherche ne sont pas respectées, il est procédé au retrait du titre conformément à l'article 19 du présent Code minier.
 
@@ -1042,7 +1054,7 @@ Les modalités de cession et de transmission sont précisées dans le décret d'
 
 ARTICLE 41 : Le permis de recherche prend fin par son arrivée à terme, par renonciation de son titulaire, ou par annulation  par  le  ministre  chargé  des  Mines  pour  non respect des obligations auxquelles est soumis le titulaire du permis pour les motifs énumérés à l'article 18 du présent Code minier.
 
-ARTICLE 42 : Tout titulaire d'un permis de recherche peut renoncer en totalité ou en partie à celui-ci dès lors qu'il en informe le ministre chargé des Mines et qu'il à satisfait aux obligations  mentionnées à l'article 91 ci-dessous.
+ARTICLE 42 : Tout titulaire d'un permis de recherche peut renoncer en totalité ou en partie à celui-ci dès lors qu'il en informe le ministre chargé des Mines et qu'il a satisfait aux obligations mentionnées à l'article 91 ci-dessous.
 
 La renonciation ne devient effective qu'après avoir été acceptée par le ministre chargé des Mines et après qu'il ait été mis fin au permis de recherche par arrêté du ministre chargé des Mines.
 
@@ -1092,7 +1104,7 @@ L'exploitation artisanale est tolérée sur  les zones libres de tout titre mini
 
 Dans le cas où le couloir est attribué comme titre minier, sur demande de la collectivité concernée, l'administration chargée des Mines mettra à la disposition des populations, dans les limites des superficies disponibles, un autre couloir.
 
-ARTICLE 52 : L'Administration chargée des Mines assiste les  collectivités  territoriales  des  l'organisation  et l'encadrement de l'exploitation artisanale des substances minérales.
+ARTICLE 52 : L'Administration chargée des Mines assiste les collectivités territoriales dans l'organisation et l'encadrement de l'exploitation artisanale des substances minérales.
 
 #### SECTION II : DE L'AUTORISATION  D'EXPLOITATION DE PETITE MINES
 
@@ -1100,13 +1112,13 @@ ARTICLE 53 : L'exploitation d'un gisement en petite mine est  soumise  à  l'obt
 
 ARTICLE 54 : L'autorisation d'exploitation de petite mine peut être attribuée au titulaire d'un permis de recherche ou d'une autorisation de prospection si le titulaire justifie par un  rapport  de  faisabilité  de  l'existence  d'un  gisement susceptible d'être exploité sous forme de petite mine.
 
-Toutefois, elle peut être directement attribuée à un détenteur d'une autorisation d'exploration qui justifié de l'existence d'un  gisement  économiquement  exploitable.  Cette justification est consacrée  par un rapport de faisabilité approuvé par l'Administration chargée des Mines.
+Toutefois, elle peut être directement attribuée à un détenteur d'une autorisation d'exploration qui justifie de l'existence d'un gisement économiquement exploitable. Cette justification est consacrée par un rapport de faisabilité approuvé par l'Administration chargée des Mines.
 
-ARTICLE 55 : L'autorisation d'exploitation de petite mine est attribuée par arrêté du ministre chargé des Mines à toute personne et morale de droit malien pour autant qu'elle justifie  de  ses  capacités  techniques  et  financières  pour exploiter une petite mine et qu'elle réponde aux obligations contenues dans les articles 92 et 93 ci-dessous.
+ARTICLE 55 : L'autorisation d'exploitation de petite mine est attribuée par arrêté du ministre chargé des Mines à toute personne morale de droit malien pour autant qu'elle justifie de ses capacités techniques et financières pour exploiter une petite mine et qu'elle réponde aux obligations contenues dans les articles 92 et 93 ci-dessous.
 
 ARTICLE 56 : La superficie maximale d'une autorisation d'exploitation  de  petite    mine  est  fixée  dans  le  décret d'application.
 
-ARTICLE 57 : Une autorisation d'exploitation de petite mine est attribuée pour une durée de quatre ans. Elle est renouvelable par tranche de quatre ans  jusqu'à équipement des réserves.
+ARTICLE 57 : Une autorisation d'exploitation de petite mine est attribuée pour une durée de quatre ans. Elle est renouvelable par tranche de quatre ans jusqu'à épuisement des réserves.
 
 [[END OF PAGE 17]]
 
@@ -1120,13 +1132,13 @@ ARTICLE 58 : Une autorisation d'exploitation de petite mine est cessible, amodia
 
 Nul  ne  peut  se  voir  transférer  une  autorisation d'exploitation de petite mine, s'il ne possède les capacités techniques et financières nécessaires pour mener à bien les travaux d'exploitation et pour répondre aux obligations mentionnées aux articles 92 et 93 ci-dessous.
 
-L'autorisation d'exploitation de petite mine constitue un droit immobilier de durée limitée, distinct de la propriété su sol, susceptible d'hypothèque ou de nantissement à la condition que les fonds empruntés et garantis soient utilisés pour les activités d'exploitation.
+L'autorisation d'exploitation de petite mine constitue un droit immobilier de durée limitée, distinct de la propriété du sol, susceptible d'hypothèque ou de nantissement à la condition que les fonds empruntés et garantis soient utilisés pour les activités d'exploitation.
 
 ARTICLE 59 : Une autorisation d'exploitation de petite mine ne peut être octroyée sur une surface couverte par un titre  minier  appartenant  à  un  titulaire    autre  que  le demandeur ainsi qu'à l'intérieur d'une zone réglementée.
 
 ARTICLE 60 : Une autorisation d'exploitation de petite mine, préexistante à l'attribution d'un permis de recherche dont le périmètre englobe l'autorisation d'exploitation de petite mine, conserve sa validité.
 
-Si  la  fin  de  l'autorisation  d'exploitation  de  petite  mine intervient  alors  que  le  permis  de  recherche  demeure valable,  il  est  de  droit  pour  le  titulaire  du  permis  de recherche  d'obtenir,  après  en  avoir  fait  la  demande, l'adjonction à son permis de la surface ainsi que libérée, pour le groupe de substances pour lequel ledit permis est attribué et pour la durée restante de ce permis.
+Si la fin de l'autorisation d'exploitation de petite mine intervient alors que le permis de recherche demeure valable, il est de droit pour le titulaire du permis de recherche d'obtenir, après en avoir fait la demande, l'adjonction à son permis de la surface ainsi libérée, pour le groupe de substances pour lequel ledit permis est attribué et pour la durée restante de ce permis.
 
 ARTICLE  61 : Le    titulaire  d'une  autorisation d'exploitation de petite mine, dès qu'il décide de passer à l'exploitation, doit en informer l'Administration chargée des Mines en lui mentionnant les changements éventuels intervenus dans les paramètres essentiels du rapport de faisabilité et qui ne remettent pas en cause la viabilité et les délais de réalisation de l'exploitation envisagée. Dans le cas contraire, il a l'obligation de soumettre un nouveau rapport de faisabilité.
 
@@ -1134,17 +1146,17 @@ Le titulaire d'une autorisation d'exploitation doit démarrer l'exploitation dan
 
 Dans le cas contraire, il a l'obligation de soumettre un nouveau rapport de faisabilité.
 
-ARTICLE 62 : L'autorisation d'exploitation de petite mine prend fin, par arrêt définitif des travaux avant terme, par renonciation de son titulaire, par annulation ou retrait par du  ministre  chargé  des  Mines  pour  l'un  des  motifs mentionnés à l'article 19 du présent Code minier.
+ARTICLE 62 : L'autorisation d'exploitation de petite mine prend fin, par arrêt définitif des travaux avant terme, par renonciation de son titulaire, par annulation ou retrait par le ministre chargé des Mines pour l'un des motifs mentionnés à l'article 19 du présent Code minier.
 
 #### SECTION III : DU PERMIS D'EXPLOITATION
 
-ARTICLE 63 : Le  permis  d'exploitation  confère  à  son titulaire, dans les limités de son périmètre et indéfiniment en profondeur, le droit exclusif de prospection, de recherche et exploitation des substances minérales pour lesquelles le permis de recherche ou l'autorisation de prospection dont il dérive est  valable,  et  pour  lesquelles  la  preuve  d'un  gisement exploitable est fournie à l'Administration chargée des Mines par soumission d'une étude de faisabilité approuvée par celleci, d'un plan de développement communautaire et d'un plan de fermeture. Il confère également à son titulaire le droit de procéder    à  toutes  opérations  de  traitement  et  de commercialisation des concentrés.
+ARTICLE 63 : Le permis d'exploitation confère à son titulaire, dans les limites de son périmètre et indéfiniment en profondeur, le droit exclusif de prospection, de recherche et d'exploitation des substances minérales pour lesquelles le permis de recherche ou l'autorisation de prospection dont il dérive est valable, et pour lesquelles la preuve d'un gisement exploitable est fournie à l'Administration chargée des Mines par soumission d'une étude de faisabilité approuvée par celle-ci, d'un plan de développement communautaire et d'un plan de fermeture. Il confère également à son titulaire le droit de procéder à toutes opérations de traitement et de commercialisation des concentrés.
 
 ARTICLE 64 : Le permis d'exploitation ne peut être attribué qu'au titulaire d'un permis de recherche ou d'une autorisation de prospection. Il ne peut couvrir qu'une zone intérieure au permis de recherche ou de l'autorisation de prospection et les substances pour lesquelles ces titres ont été  attribués.  Il  est  de  droit  si  le  titulaire  a  rempli  les obligations mentionnées dans l'acte instituant le permis de recherche ou l'autorisation de prospection.
 
 Le permis de recherche demeure valable après attribution du permis d'exploitation pour tout le reste de la superficie du permis de recherche.
 
-ARTICLE 65 : Dès l'autorisation du permis d'exploitation, le titulaire d'un permis de recherche ou de l'autorisation de prospection entamera les démarches en vue de la création d'une société de droit malien dans laquelle l'Etat participera à hauteur de 10% libre de toutes charges. Cette participation ne  peut  faire  l'objet  de  dilution  même  dans  les  cas d'augmentation du capital et les actions y relatives seront considérées comme des actions prioritaires.
+ARTICLE 65 : Dès l'attribution du permis d'exploitation, le titulaire d'un permis de recherche ou de l'autorisation de prospection entamera les démarches en vue de la création d'une société de droit malien dans laquelle l'Etat participera à hauteur de 10% libre de toutes charges. Cette participation ne peut faire l'objet de dilution même dans les cas d'augmentation du capital et les actions y relatives seront considérées comme des actions prioritaires.
 
 Lorsqu'un bénéfice net comptable est constaté par la société d'exploitation,  celle-ci  prélèvera  sur  le  bénéfice distribuable, c'est-à-dire le bénéfice de l'exercice diminué des pertes antérieures et de prélèvements pour constitution des réserves légales, paiement de l'impôt sur les sociétés et  augmenté  des  reports  à  nouveau  bénéficiaires,  un dividende prioritaire qui sera versé à l'Etat.
 
@@ -1164,13 +1176,15 @@ Il reste pour les investisseurs privés nationaux, la possibilité d'acquérir, 
 
 Le titulaire du permis de recherche ou de l'autorisation de prospection  devra  céder  gratuitement  le  permis d'exploitation à ladite société dès sa création.
 
-ARTICLE 66 : Le permis d'exploitation est attribué  par le  décret  pour  une  période  de  30  ans,  renouvelable  en tranche  de  10  ans  jusqu'à  épuisement    des  réserves  à l'intérieur du permis.
+ARTICLE 66 : Le permis d'exploitation est attribué par décret pour une période de 30 ans, renouvelable en tranches de 10 ans jusqu'à épuisement des réserves à l'intérieur du permis.
 
 Les conditions et modalités de son octroi sont précisées dans le décret d'application.
 
 ARTICLE 67 : Nul ne peut se voir transférer un permis d'exploitation, s'il ne possède les capacités techniques et financières  nécessaires  pour    mener  à  bien  les  travaux d'exploitation  et  pour  répondre  aux  obligations mentionnées aux articles 92 et 93 ci-dessous.
 
-Le  cessionnaire  s'engage  à  respecter  les  conditions générales relatives à l'exploitation, qui résultent du décret d'application. Le cas échéant, ces conditions générales sont complétées par des conditions spécifiques faisant l'objet d'un  cahier  des  charges  discuté  avec  le  demandeur. ARTICLE 68 : Le permis d'exploitation constitue un droit immobilier de durée limitée, distinct de la propriété du sol, susceptible d'hypothèque ou de nantissement à la condition que les fonds empruntés et garantis soient utilisés pour les activités d'exploitation.
+Le cessionnaire s'engage à respecter les conditions générales relatives à l'exploitation, qui résultent du décret d'application. Le cas échéant, ces conditions générales sont complétées par des conditions spécifiques faisant l'objet d'un cahier des charges discuté avec le demandeur.
+
+ARTICLE 68 : Le permis d'exploitation constitue un droit immobilier de durée limitée, distinct de la propriété du sol, susceptible d'hypothèque ou de nantissement à la condition que les fonds empruntés et garantis soient utilisés pour les activités d'exploitation.
 
 Sous réserve des dispositions du présent Code minier, la législation  en  vigueur  sur  la  propriété  foncière  est applicable aux permis d'exploitation, notamment en ce qui concerne la publication du titre.
 
@@ -1178,7 +1192,7 @@ Le permis d'exploitation est cessible et amodiable.
 
 La cession ou l'amodiation du permis d'exploitation ne prend effet que si elle a été autorisée par décret. La demande de cession ou d'amodiation doit  être faite par le cessionnaire ou l'amodiataire dans les trente (30) jours qui suivent la signature de l'acte de cession ou d'amodiation, lequel doit avoir été passé sous condition suspensive du décret.
 
-ARTICLE 69 : Lorsque  le  titulaire  d'un  permis d'exploitation, décide de démarrer l'exploitation, il doit en  informer  l'Administration  chargée  des  Mines  en  lui mentionnant les changements  significatifs intervenus dans les paramètres essentiels de l'étude de faisabilité et qui ne remettent pas en cause les délais réalisation et la viabilité de  l'exploitation  envisagée.  Dans  le  cas  contraire,  il  a l'obligation de soumettre une nouvelle étude de faisabilité.
+ARTICLE 69 : Lorsque le titulaire d'un permis d'exploitation, décide de démarrer l'exploitation, il doit en informer l'Administration chargée des Mines en lui mentionnant les changements significatifs intervenus dans les paramètres essentiels de l'étude de faisabilité et qui ne remettent pas en cause les délais de réalisation et la viabilité de l'exploitation envisagée. Dans le cas contraire, il a l'obligation de soumettre une nouvelle étude de faisabilité.
 
 Le  titulaire  d'un  permis  d'exploitation  doit  démarrer l'exploitation dans un délai de trois ans à partir de l'octroi du permis d'exploitation.
 
@@ -1190,7 +1204,7 @@ ARTICLE 71 : Lorsque  la  présence  d'un  gisement d'une substance d'un autre g
 
 Le  cas  échéant,  la  substance  est  intégrée  au  permis d'exploitation.
 
-Dans le cas où le titulaire du permis d'exploitation notifie qu'il n'est pas  intéressé par l'exploitation de la substance, le périmètre concerné est distrait du permis d'exploitation, son réserve que cette distraction ne porte pas préjudice à la poursuite des activités d'exploitation. Le cas  échéant, le ministre chargé des Mines accordera un titre de recherche sur ledit périmètre.
+Dans le cas où le titulaire du permis d'exploitation notifie qu'il n'est pas intéressé par l'exploitation de la substance, le périmètre concerné est distrait du permis d'exploitation, sous réserve que cette distraction ne porte pas préjudice à la poursuite des activités d'exploitation. Le cas échéant, le ministre chargé des Mines accordera un titre de recherche sur ledit périmètre.
 
 ### CHAPITRE  IV :  DU  FINANCEMENT  DE  LA RECHERCHE ET DE LA FORMATION
 
@@ -1200,7 +1214,7 @@ Ce fonds,  mis  en  place  au  début  de  chaque  exercice budgétaire, est gé
 
 Le fonds est alimenté par :
 
-- l'allocation, à partir du Compte d'Affecttation Spécial sur les Ressources de l'or, d'un montant destiné à financer la recherche minière ;
+- l'allocation, à partir du Compte d'Affectation Spécial sur les Ressources de l'or, d'un montant destiné à financer la recherche minière ;
 
 - les ressources destinées à la formation, payées par les sociétés  minières  à  l'occasion  de  la  signature  des Conventions d'Etablissement ou lors du transfert des titres miniers ;
 
@@ -1218,9 +1232,9 @@ JOURNAL OFFICIEL DE LA REPUBLIQUE DU MALI
 
 ARTICLE 73 : Nul droit de recherche ou d'exploitation découlant des titres miniers ne vaut sans le consentement du (des) propriétaire (s) foncier (s), de ses (leurs) ayants droit, en ce qui concerne les activités impliquant la surface ou ayant un effet sur celle-ci.
 
-Si l'intérêt général l'exige, l'exploitation des immeubles nécessaires aux travaux et installations peut être poursuivie tant à l'intérieur qu'à l'extérieur du périmètre d'un titre minier moyennant déclaration d'utilité publique dans les formes prévues par la réglementation en vigueur, à la demande du détenteur de ce titre, pour son compte ou celui d'une personne physique ou morale désignée à cet effet.
+Si l'intérêt général l'exige, l'expropriation des immeubles nécessaires aux travaux et installations peut être poursuivie tant à l'intérieur qu'à l'extérieur du périmètre d'un titre minier moyennant déclaration d'utilité publique dans les formes prévues par la réglementation en vigueur, à la demande du détenteur de ce titre, pour son compte ou celui d'une personne physique ou morale désignée à cet effet.
 
-Une déclaration d'utilité  publique  peut  également  être prononcée dans les mêmes formes pour les canalisations et installations destinées au transport et au stockage des produits de l'exploitation jusqu'aux points de traitement, de grosse consommation où d'exportation, pour aménagements et installations nécessaires au plein développement de la mine et notamment pour les cités d'habitation du personnel et les usines ainsi que les centrales,  postes et lignes électriques y compris les installations destinées au transport au stockage ou à la mise en dépôt des produits ou déchets qui résultent de l'activité de ces usines.
+Une déclaration d'utilité publique peut également être prononcée dans les mêmes formes pour les canalisations et installations destinées au transport et au stockage des produits de l'exploitation jusqu'aux points de traitement, de grosse consommation ou d'exportation, pour les aménagements et installations nécessaires au plein développement de la mine et notamment pour les cités d'habitation du personnel et les usines ainsi que les centrales, postes et lignes électriques y compris les installations destinées au transport, au stockage ou à la mise en dépôt des produits ou déchets qui résultent de l'activité de ces usines.
 
 Les voies de communication, canalisations et installations de transport ainsi déclarées d'utilité publique peuvent être soumises à des obligations de service public, conformément à la réglementation en vigueur en la matière.
 
@@ -1228,7 +1242,7 @@ ARTICLE 74 : En l'absence du consentement du propriétaire foncier ou de ses aya
 
 Le prix du terrain  ou  des  indemnités  dues  à  raison  de l'établissement de servitudes ou d'autres démembrements de  droits  réels  ou  de  l'occupation,  est  fixé  comme  en matière d'expropriation.
 
-Les titulaires de droit sur une parcelle de terrain, en vertu d'un foncier, de droit d'occupation ou de droits coutumiers, frappée des servitudes visées ci-dessus, peuvent requérir l'expropriation ou l'indemnisation  si lesdites servitudes rendent l'utilisation  normale de ces titres fonciers, titres d'occupation et droits coutumiers, impossible. L'acquisition portera dans ce cas sur la totalité de la parcelle de terrain si le titulaire le requiert.
+Les titulaires de droit sur une parcelle de terrain, en vertu d'un titre foncier, de droit d'occupation ou de droits coutumiers, frappée des servitudes visées ci-dessus, peuvent requérir l'expropriation ou l'indemnisation si lesdites servitudes rendent l'utilisation normale de ces titres fonciers, titres d'occupation et droits coutumiers, impossible. L'acquisition portera dans ce cas sur la totalité de la parcelle de terrain si le titulaire le requiert.
 
 Le titulaire du titre minier sera tenu de payer une adéquate indemnité pour toute privation de jouissance ou dommages que ses activités pourraient occasionner aux tenants des titres fonciers des titres d'occupation, de droits coutumiers ou à tous bénéficiaires d'autres droits avérés.
 
@@ -1244,7 +1258,7 @@ ARTICLE 75 : Les  voies  de  communication,  lignes électriques et autres insta
 
 Les conditions et modalités d'ouverture de ces installations et infrastructures à un usage commun seront définies en rapport avec le ministère chargé des Mines et les Ministères compétents et feront l'objet d'un accord.
 
-ARTICLE 76 : Le titulaire d'un titre minier aura le droit, à ses fais, de couper les bois nécessaires à ses travaux et, de prendre et utiliser lesdits bois, la terre, les pierres, les sables, les graviers, les chutes d'eau, les eaux de surface, et  les  eaux  souterraines  et  tous  les  autres  matériaux  et éléments qui seraient nécessaires pour réaliser les objectifs visés dans son titre minier, conformément aux dispositions législatives et réglementaires en vigueur.
+ARTICLE 76 : Le titulaire d'un titre minier aura le droit, à ses frais, de couper les bois nécessaires à ses travaux et, de prendre et utiliser lesdits bois, la terre, les pierres, les sables, les graviers, les chutes d'eau, les eaux de surface, et les eaux souterraines et tous les autres matériaux et éléments qui seraient nécessaires pour réaliser les objectifs visés dans son titre minier, conformément aux dispositions législatives et réglementaires en vigueur.
 
 L'accès à ces matériaux, si ceux-ci ne sont pas disponibles sur le périmètre du titulaire du titre minier, peut ouvrir droit au profit du titulaire du titre minier, à une servitude de passage, sur les titres voisins, pour accéder ou transporter lesdits matériaux, sous réserve que la servitude ne porte aucun préjudice à l'exercice de leur droit par les occupants des titres voisins.
 
@@ -1260,17 +1274,17 @@ ARTICLE 78 : Aucun puits minier ou aucune galerie ne peut être ouvert à la sur
 
 341
 
-a) autour des propriétés closes de murs ou d'un dispositif équivalent,  villages,  groupes  d'habitants,  puits,  sans  le consentement du propriétaire foncier ou de ses ayantsdroit ;
+a) autour des propriétés closes de murs ou d'un dispositif équivalent, villages, groupes d'habitants, puits, sans le consentement du propriétaire foncier ou de ses ayants droit ;
 
 b) de part et d'autre des voies de communication, conduites d'eau et généralement à l'entour de tous travaux d'utilité publique et d'ouvrages d'art, sans autorisation donnée par l'Administration  chargée  des  Mines  et  du  domaine concerné.
 
-Au cas où par ses travaux, le titulaire d'un titre  miner affecterait  la  qualité  ou  la  quantité  de  l'eau  souterraine utilisée par les populations aux alentours, il sera tenu de pouvoir, d'une manière ou d'une autre, aux besoins en eau de cette population.
+Au cas où par ses travaux, le titulaire d'un titre minier affecterait la qualité ou la quantité de l'eau souterraine utilisée par les populations aux alentours, il sera tenu de pourvoir, d'une manière ou d'une autre, aux besoins en eau de cette population.
 
 ARTICLE 79 : Le titulaire de permis d'exploitation ou d'autorisation d'exploitation de petite mine a la faculté de demander la mise en place d'un périmètre de protection autour de la mine et de ses installations.
 
 A défaut, les ministres chargés des Mines, de l'Administration Territoriale et de la Sécurité décident de la mise en place d'un périmètre de protection autour de la mine et de ses installations, aux frais du titulaire de permis d'exploitation ou d'autorisation d'exploitation de petite mine.
 
-Un  arrêté conjoint des ministres charges des Mines, de l'Administration Territoriale et de la Sécurité précisera les modalités  de  circulation  des  personnes  et  des  biens  à l'intérieur de cette zone.
+Un arrêté conjoint des ministres chargés des Mines, de l'Administration Territoriale et de la Sécurité précisera les modalités de circulation des personnes et des biens à l'intérieur de cette zone.
 
 ## TITRE IV : DE L'EXERCICE DE LA SURVEILLANCE ADMINISTRATIVE ET DES MESURES A PRENDRE EN CAS D'ACCIDENT
 
@@ -1280,9 +1294,9 @@ En liaison avec le ministère chargé de l'Environnement, ils établissent égal
 
 Ils observent la manière dont la prospection, la recherche et l'exploitation sont faites soit pour éclairer les exploitants sur les inconvénients ou son amélioration, soit pour avertir l'autorité compétente des vices, abus ou dangers qui s'y trouveraient.
 
-Les Agents de l'Administration chargée des Mines, les fonctionnaires et autres agents, compétents en matière de police des mines, sont habilités à rechercher et à constater des infractions aux prescriptions du Code minier et des ses textes d'application.
+Les Agents de l'Administration chargée des Mines, les fonctionnaires et autres agents, compétents en matière de police des mines, sont habilités à rechercher et à constater des infractions aux prescriptions du Code minier et de ses textes d'application.
 
-Ils  peuvent  visiter  à  tout  moment  les  chantiers  de prospection, de recherche et d'exploitation, les haldes, les terrils, les résidus  de traitement de toutes les installations indispensables aux travaux de prospection,  de recherche et d'exploitation. Ils peuvent exiger la communication de documents de toute nature ainsi que la remise de tout échantillon nécessaire à l'accomplissement de leur mission. Les conditions de cette surveillance de police sont précisées dans le décret d'application.
+Ils peuvent visiter à tout moment les chantiers de prospection, de recherche et d'exploitation, les haldes, les terrils, les résidus de traitement et toutes les installations indispensables aux travaux de prospection, de recherche et d'exploitation. Ils peuvent exiger la communication de documents de toute nature ainsi que la remise de tout échantillon nécessaire à l'accomplissement de leur mission. Les conditions de cette surveillance de police sont précisées dans le décret d'application.
 
 Tous  les  renseignements,  informations,  documents  et échantillons  obtenus  par  les  agents  de  l'Administration chargée des Mines, dans le cadre de l'application de cet article, sont considérés comme strictement confidentiels, sauf indication contraire du titulaire du titre minier, pendant la durée du titre et pendant une période d'un (01) an, à compter de la date d'expiration de celui-ci.
 
@@ -1322,7 +1336,7 @@ La forme, et le contenu du dossier, le seuil, les modalités d'application  et  
 
 ARTICLE 85 : Tout accident grave survenu dans une mine, ses dépendances, chantiers de prospection ou de recherche, doit  être  porté,  par  les  voies  les  plus  rapides,  à  la connaissance de l'Administration chargée des Mines et des autorités locales compétentes.
 
-Il est alors interdit de modifier l'état des lieux où est survenu l'accident ainsi que de déplacer ou  de modifier les objets qui s'y trouvaient avant que les constations à l'accident par  le  représentant  de  l'Administration  compétente  ne soient  terminées  ou  avant  que  celui-ci  en  ait  donné l'autorisation.  Cette  interdiction  ne  s'applique  pas  aux travaux de sauvetage ou de consolidation urgente.
+Il est alors interdit de modifier l'état des lieux où est survenu l'accident ainsi que de déplacer ou de modifier les objets qui s'y trouvaient avant que les constatations consécutives à l'accident par le représentant de l'Administration compétente ne soient terminées ou avant que celui-ci en ait donné l'autorisation. Cette interdiction ne s'applique pas aux travaux de sauvetage ou de consolidation urgente.
 
 En cas de péril imminent, le ministre chargé des  Mines pourra prendre les mesures nécessaires pour  faire cesser le danger et pourra, s'il en est besoin, adresser à cet effet toutes  réquisitions  utiles  aux  autorités  locales.  Il  peut également imposer au titulaire du titre minier l'exécution de travaux pour assurer la sécurité, la sûreté de la surface, la conservation de la mine et des mines voisines, des sources d'eau, des voies publiques et des édifices publics. A défaut d'exécution par le titulaire du titre minier de ces travaux dans  le  délai  prescrit,  ils  peuvent  être  exécutés  par l'Administration chargée des Mines aux frais du titulaire du titre minier.
 
@@ -1352,7 +1366,7 @@ ARTICLE 91 : Dès  qu'une  exploitation  risque  d'être restreinte ou suspendue
 
 343
 
-ARTICLE 92 : Avant l'arrêt des travaux de recherche ou de prospection, dès lors qu'ile impliquent un terrassement total  d'un  volume  supérieur  à  20 000  m 3 ou  ont  une incidence sur les ressources en eau, ou avant la fin de l'exploitation, le titulaire du titre fait connaître les mesures qu'il envisage de mettre en œuvre pour préserver la sécurité et  la  salubrité  publiques,  respecter  les  caractéristiques essentielles  du  milieu  environnant,  conformément  à  la législation en vigueur en la matière, et d'une façon générale pour faire cesser les nuisances de toute nature générées par ses activités.
+ARTICLE 92 : Avant l'arrêt des travaux de recherche ou de prospection, dès lors qu'ils impliquent un terrassement total d'un volume supérieur à 20 000 m3 ou ont une incidence sur les ressources en eau, ou avant la fin de l'exploitation, le titulaire du titre fait connaître les mesures qu'il envisage de mettre en œuvre pour préserver la sécurité et la salubrité publiques, respecter les caractéristiques essentielles du milieu environnant, conformément à la législation en vigueur en la matière, et d'une façon générale pour faire cesser les nuisances de toute nature générées par ses activités.
 
 ARTICLE 93 : Dans le cas des travaux de recherche ou de prospection, le Directeur des Mines procédera à une vérification de la conformité de toutes les mesures prises par  le  titulaire  avec  celles  prévues  dans  sa  déclaration relative à l'arrêt des travaux et, éventuellement, constatera leur conformité avec les prescriptions complémentaires.
 
@@ -1378,7 +1392,7 @@ ARTICLE 95 : A la fin du permis d'exploitation, quelle qu'en soit la raison, un 
 
 ARTICLE 96 : A la fin de l'autorisation d'exploitation de petite mine, quelle qu'en soit la raison, une décision du ministre chargé des Mines constatera la bonne exécution des  obligations de fermeture et de réhabilitation du site. Il sera alors mis fin à l'autorisation d'exploitation de petite mine par arrêté du ministre chargé des Mines.
 
-ARTICLE 97 : A la fin du permis d'exploitation ou de l'autorisation d'exploitation de petite mine, dans le respect des dispositions qui précèdent, les ouvrages miniers ainsi que les bâtiments et autres installations fixes de la mine, pourront  être  acquis  par  l'Etat.  L'ancien  titulaire  ne conserve  aucun    droit  se  rattachant  à  ce  permis d'exploitation, ni aucune responsabilité administrative visà-vis  de  la  police  des  mines.  Il  conserve  toutefois  une responsabilité civile en cas d'accident et/ou dommages dus à ses anciens travaux.
+ARTICLE 97 : A la fin du permis d'exploitation ou de l'autorisation d'exploitation de petite mine, dans le respect des dispositions qui précèdent, les ouvrages miniers ainsi que les bâtiments et autres installations fixes de la mine, pourront être acquis par l'Etat. L'ancien titulaire ne conserve aucun droit se rattachant à ce permis d'exploitation, ni aucune responsabilité administrative vis-à-vis de la police des mines. Il conserve toutefois une responsabilité civile en cas d'accident et/ou dommages dus à ses anciens travaux.
 
 ARTICLE 98 : Tout détenteur d'un titre minier adressera chaque année, à l'Administration chargée des Mines, une copie de son rapport annuel d'activités.
 
@@ -1390,13 +1404,13 @@ ARTICLE 99 : Sont considérés comme carrières, les gîtes de substances minér
 
 ARTICLE 100 : Les  carrières  se  subdivisent  en  deux catégories en fonction de leur production, annuelle :
 
-1. les carrières artisanales : extraction annuelle n'excédant par 10 000 m 3 ;
+1. les carrières artisanales : extraction annuelle n'excédant pas 10 000 m3 ;
 
 2. les carrières industrielles : extraction annuelle supérieur à 10 000 m 3 ;
 
 Les caractéristiques des différentes catégories de carrières sont définies dans le décret d'application.
 
-Toute exploitation de carrière doit être située à une distance minérale  des  habitations,  définie  dans  le  décret d'application.
+Toute exploitation de carrière doit être située à une distance minimale des habitations, définie dans le décret d'application.
 
 [[END OF PAGE 23]]
 
@@ -1408,7 +1422,7 @@ JOURNAL OFFICIEL DE LA REPUBLIQUE DU MALI
 
 Pour les besoins des carrières industrielles, une zone de protection sera instituée par Arrêté conjoint des ministres chargés des Mines et de l'Administration Territoriale et mise  à  la  disposition  des    titulaires  des  autorisations d'exploitation. L'intérieur de cette zone est interdit à toute occupation pour toute autre activité ou usage.
 
-ARTICLE 101 : Les carrières industrielles dont la production, prévue dans l'étude de faisabilité, dépasse vingt cinq mille (25 000) m 3 /an et ayant créé au moins quinze (15) emplois salariés  permanents dans les travaux d'extradition et de transport des matériaux et investis au moins cent cinquante millions (150 000 000) de Francs, peuvent  bénéficier par  un arrêté conjoint des ministres chargés des Mines et des Finances et, pendant une période de trois (3) ans à compter de l'entrée en vigueur de cet arrêté, des avantages fiscaux et douaniers prévus aux articles 127, 128, 130, 133 et 134 du présent Code minier .
+ARTICLE 101 : Les carrières industrielles dont la production, prévue dans l'étude de faisabilité, dépasse vingt cinq mille (25 000) m3/an et ayant créé au moins quinze (15) emplois salariés permanents dans les travaux d'extraction et de transport des matériaux et investi au moins cent cinquante millions (150 000 000) de Francs, peuvent bénéficier par un arrêté conjoint des ministres chargés des Mines et des Finances et, pendant une période de trois (3) ans à compter de l'entrée en vigueur de cet arrêté, des avantages fiscaux et douaniers prévus aux articles 127, 128, 130, 133 et 134 du présent Code minier.
 
 ARTICLE 102 : Les substances de carrières ne peuvent être exploitées qu'en vertu d'autorisations d'ouverture et d'exploitation de carrière délivrées par l'Administration chargée des Mines.
 
@@ -1418,7 +1432,7 @@ ARTICLE 103 : Tout  exploitant  de  carrière  est  tenu d'exécuter les travaux
 
 Les  règles d'hygiène,  de  sécurité  et  d'environnement doivent être respectées sur les sites. La police des carrières est assurée par l'Administration chargée des Mines.
 
-### CHAPITRE II: CHAPITRE II : DES RELATIONS AVEC LES PROPRIETAIRES DU SOL
+### CHAPITRE II : DES RELATIONS AVEC LES PROPRIETAIRES DU SOL
 
 ARTICLE 104 : Le  propriétaire du sol, s'il est privé a, lorsqu'il  est  confronté  à  une  demande  d'autorisation d'exploitation  de  carrière  sur  sa  propriété,  trois  (3) possibilités :
 
@@ -1440,9 +1454,9 @@ ARTICLE 106 : Tout  futur  exploitant  de  carrière  doit, quatre mois au moins
 
 Le futur exploitant doit, à cette fin, soumettre à l'autorité compétente un dossier dont la forme et la structure sont précisées dans le décret d'application, dossier comprenant notamment une notice d'impact  environnemental et social.
 
-L'autorité compétente peut émettre, dans un délai de deux mois pour les carrières industrielles et de quinze jours pour les carrières artisanales, des observations sur le dossier dont le futur opérateur devra tenir compte en modifiant celuici. A défaut de ces modifications, l'autorité peut interdire l'ouverture de la carrière.
+L'autorité compétente peut émettre, dans un délai de deux mois pour les carrières industrielles et de quinze jours pour les carrières artisanales, des observations sur le dossier dont le futur opérateur devra tenir compte en modifiant celui-ci. A défaut de ces modifications, l'autorité peut interdire l'ouverture de la carrière.
 
-Un  dépôt  sur  un  compte  bloqué  dans  une  banque commerciale située au Mali ou une garantie à première demande, certifiée, si la garantie est fournie par une banque étrangère,  par  une  banque  située  au  Mali,  destiné  (e)  à garantir la mise en état du site à la cessation des activités, sera exigé(e) pour l'ouverture  d'une carrière industrielle. Son montant est précisé dans le décret d'application.
+Un dépôt sur un compte bloqué dans une banque commerciale située au Mali ou une garantie à première demande, certifiée, si la garantie est fournie par une banque étrangère, par une banque située au Mali, destiné (e) à garantir la remise en état du site à la cessation des activités, sera exigé(e) pour l'ouverture d'une carrière industrielle. Son montant est précisé dans le décret d'application.
 
 ARTICLE 107 : L'autorisation  d'exploitation  d'une carrière  est  octroyée  pour  une  durée  de  dix  ans renouvelable. L'autorisation d'ouverture d'une carrière est octroyée pour une durée de trois ans renouvelable.
 
@@ -1476,11 +1490,13 @@ ARTICLE 111 : Les carrières industrielles sont cessibles, transmissibles ou amo
 
 ## TITRE VI : DES DECLARATIONS DE FOUILLES ET DES LEVES GEOPHYSIQUES ET GEOTECHNIQUES
 
-ARTICLE 112 : Toute personne exécutant un sondage, un ouvrage souterrain, un travail de fouille, quel qu'en soit l'objet, à l'exception des puits à usage domestique, dont la profondeur dépasse dix mètres doit être en mesure de justifier que déclaration en à été faite soit à l'Administration chargée des Mines, soit à la Collectivité Territoriale de l'endroit  où  se  trouve  l'ouvrage  qui  en  informera  le Directeur des Mines.
+ARTICLE 112 : Toute personne exécutant un sondage, un ouvrage souterrain, un travail de fouille, quel qu'en soit l'objet, à l'exception des puits à usage domestique, dont la profondeur dépasse dix mètres doit être en mesure de justifier qu'une déclaration en a été faite soit à l'Administration chargée des Mines, soit à la Collectivité Territoriale de l'endroit où se trouve l'ouvrage qui en informera le Directeur des Mines.
 
-Tout levé géophysique, toute compagne de prospection géochimique ou d'études de minéraux lourds doivent faire l'objet  d'une  déclaration  préalable  à  l'Administration chargé des Mines ARTICLE 113 : Les  ingénieurs  et  techniciens  de l'Administration chargée des Mines qui sont munis d'un ordre de mission émanant du ministère chargé des Mines ont accès à tous les travaux cités dans l'article 112 ci-dessus et à toute documentation y relative, soit pendant, soit après leur  exécution,  dès  lors  qu'ils  dépassent  dix  mètres  de profondeur.
+Tout levé géophysique, toute campagne de prospection géochimique ou d'études de minéraux lourds doivent faire l'objet d'une déclaration préalable à l'Administration chargée des Mines.
 
-ARTICLE 114 : Les  documents  ou  renseignements recueillis en application des articles 112 et 113 ci-dessus peuvent,  sauf  autorisation  de  l'auteur  des  travaux  être rendus  publics  ou  communiqués  à  des  tiers  par l'administration avant l'expiration d'un délai trois (03) ans à compter de la date à laquelle ils ont été obtenus.
+ARTICLE 113 : Les ingénieurs et techniciens de l'Administration chargée des Mines qui sont munis d'un ordre de mission émanant du ministère chargé des Mines ont accès à tous les travaux cités dans l'article 112 ci-dessus et à toute documentation y relative, soit pendant, soit après leur exécution, dès lors qu'ils dépassent dix mètres de profondeur.
+
+ARTICLE 114 : Les documents ou renseignements recueillis en application des articles 112 et 113 ci-dessus ne peuvent, sauf autorisation de l'auteur des travaux être rendus publics ou communiqués à des tiers par l'administration avant l'expiration d'un délai de trois (03) ans à compter de la date à laquelle ils ont été obtenus.
 
 Pour les travaux exécutés dans le lit des fleuves ou rivières et par exception aux dispositions du paragraphe ci-dessus, les renseignements intéressant la sécurité de la navigation, tombent immédiatement dans le domaine public.
 
@@ -1494,7 +1510,7 @@ ARTICLE 116 : Pendant la durée de validité de chaque titre minier, le titulair
 
 a)  le libre choix des fournisseurs et sous-traitants pour l'achat de biens et services ;
 
-Toutefois, les titulaires de titres miniers, leurs fournisseurs sous-traitants  utiliseront  autant  qu'il  est  possible  des services et matières premières de source malienne et des produits fabriqués ou vendus au Mali dans la mesure où ces services et produits sont disponibles à des conditions compétitives  de  prix,  qualité,  garanties  et  délais  de livraison ;
+Toutefois, les titulaires de titres miniers, leurs fournisseurs et sous-traitants utiliseront autant qu'il est possible des services et matières premières de source malienne et des produits fabriqués ou vendus au Mali dans la mesure où ces services et produits sont disponibles à des conditions compétitives de prix, qualité, garanties et délais de livraison ;
 
 b)  la  libre  importation  des  marchandises,  matériaux, matériels, machines, équipements, pièces de rechange et biens consommables, sous réserve du respect du Code des Douanes ;
 
@@ -1526,7 +1542,7 @@ g) l'exécution des contrats à condition que ces  contrats aient été établis
 
 ### CHAPITRE II : DU REGIME FINANCIER
 
-ARTICLE 117 : Sous réserve des dispositions du présent Code minier, l'Etat garantit aux sociétés titulaires de titres miniers, leurs affiliées, leurs fournisseurs et leurs soustraitants :
+ARTICLE 117 : Sous réserve des dispositions du présent Code minier, l'Etat garantit aux sociétés titulaires de titres miniers, leurs affiliées, leurs fournisseurs et leurs sous-traitants :
 
 a) la libre conversion et le libre transfert des fonds destinés aux règlements de toutes dettes (principal et intérêts) en devises, vis-à-vis des créanciers et fournisseurs étrangers ;
 
@@ -1536,7 +1552,7 @@ c) la libre conversion et le transfert des bénéfices et des fonds provenant de
 
 d)  la  libre  conversion  et  le  transfert,  par  le  personnel expatrie employé par les titulaires de titres miniers, des économies réalisées sur leurs traitement ou résultant de la liquidation d'investissements au Mali ou de la vente de leurs effet personnels après paiement des impôts et taxes prévus par la législation malienne ;
 
-Nonobstant les dispositions de l'alinéa 1 er du présent article, les sociétés titulaires de titres miniers, leurs affiliées, leurs fournisseurs et les sous-traitants sont soumis, dans le cadre de  l'exécution de leurs opérations avec l'étranger, aux dispositions de la réglementation des changes en vigueur au Mali.
+Nonobstant les dispositions de l'alinéa 1er du présent article, les sociétés titulaires de titres miniers, leurs affiliées, leurs fournisseurs et les sous-traitants sont soumis, dans le cadre de l'exécution de leurs opérations avec l'étranger, aux dispositions de la réglementation des changes en vigueur au Mali.
 
 ### CHAPITRE III : DU REGIME FISCAL
 
@@ -1562,7 +1578,7 @@ ARTICLE 120 : Les  titulaires  d'Autorisation  de prospection,  de  Permis  de  
 
 ARTICLE 121 : Les produits miniers des groupes 1, 2, 3 et 4 sont soumis à un impôt spécial dit ''Impôt Spécial sur Certains Produits (ISCP)'' et une redevance additionnelle dite Taxe ad Valorem.
 
-Les produits  miniers  des  substances  du  groupe  5  sont soumis à une redevance additionnelle dite Taxe ad Valorem. La base taxable de l'ISCP est le chiffre d'affaires hors TV A. La base taxable de la taxe ad Valorem est la valeur départ carreau-mine des substances extraites, exportées ou non, en déduisant les frais et charges intermédiaires.
+Les produits miniers des substances du groupe 5 sont soumis à une redevance additionnelle dite Taxe ad Valorem. La base taxable de l'ISCP est le chiffre d'affaires hors TVA. La base taxable de la taxe ad Valorem est la valeur départ carreau-mine des substances extraites, exportées ou non, en déduisant les frais et charges intermédiaires.
 
 Les taux de l'ISCP et de la Taxe ad Valorem sont fixés par un décret pris en Conseil des Ministres.
 
@@ -1616,27 +1632,27 @@ d) de la taxe-logement ;
 
 JOURNAL OFFICIEL DE LA REPUBLIQUE DU MALI
 
-- des  charges  et  contributions  sociales  dues,  pour  les employés, telles  que  prévues  par  la  réglementation  en vigueur ;
+e) des charges et contributions sociales dues, pour les employés, telles que prévues par la réglementation en vigueur ;
 
-- de  l'impôt  sur  les  traitements  et  salaires  dû  par  les employés ;
+f) de l'impôt sur les traitements et salaires dû par les employés ;
 
-- de la vignette sur les véhicules, à l'exception des engins lourds exclusivement liés aux opérations d'exploitation ;
+g) de la vignette sur les véhicules, à l'exception des engins lourds exclusivement liés aux opérations d'exploitation ;
 
-h) de la taxe sur les contrats d'assurance, à l'exception des  véhicules  de  directement  liés  aux  opérations d'exploitation ;
+h) de la taxe sur les contrats d'assurance, à l'exception des véhicules de directement liés aux opérations d'exploitation ;
 
-- l'Impôt sur les Revenus de Valeurs Mobilières ;
+i) l'Impôt sur les Revenus de Valeurs Mobilières ;
 
-- les droits d'enregistrement ;
+j) les droits d'enregistrement ;
 
-- les droits de patente et cotisations annexes ;
+k) les droits de patente et cotisations annexes ;
 
-- l'Impôt sur les Bénéfices Industriels et Commerciaux ou l'impôt sur les Sociétés ;
+l) l'Impôt sur les Bénéfices Industriels et Commerciaux ou l'impôt sur les Sociétés ;
 
-- la  contribution  au  Programme  de Vérification  des Importations (PVI) ;
+m) la contribution au Programme de Vérification des Importations (PVI) ;
 
-- le  droit  de  timbre  sur  les  intentions  d'exporter  des produits miniers ;
+n) le droit de timbre sur les intentions d'exporter des produits miniers ;
 
-- la redevance statistique.
+o) la redevance statistique.
 
 ARTICLE 127 : Les titulaires de permis d'exploitation, d'autorisation d'exploitation de petite mine sont exonérés de  la  Taxe  sur  la  Valeur Ajoutée  (T.V.A),  pendant  une période se terminant à la fin de la troisième année suivant la Date de démarrage de la production.
 
@@ -1650,7 +1666,7 @@ ARTICLE 131 : Tout sous-traitant fournissant des services au Mali pour un titula
 
 Tout  sous-traitant,  entrant  dans  la  catégorie  définie  à l'article  1  du  présent  Code  minier,  qui  exécute  des prestations ou des services au Mali pour des titulaires de titres miniers, est tenu de créer une société de droit malien conformément à la réglementation en vigueur.
 
-Cette  obligation  ne  s'applique  pas  à  ceux  de  ces  soustraitants qui exécutent ces mêmes prestations et/ou services pour une durée n'excédant pas douze (12) mois.
+Cette obligation ne s'applique pas à ceux de ces sous-traitants qui exécutent ces mêmes prestations et/ou services pour une durée n'excédant pas douze (12) mois.
 
 Etant  toutefois  entendu  que,  dans  un  cas  comme  dans l'autre, l'étendue de la durée de présence du sous-traitant sur le territoire malien ne fait pas obstacle à l'exécution des obligations fiscales auxquelles il est tenu conformément aux dispositions du Code Général des Impôts.
 
@@ -1688,7 +1704,7 @@ ARTICLE 134 : Pendant toute la durée de validité de  leur titre  minier,  les 
 
 Les  titulaires  de  permis  d'exploitation,  d'autorisation d'exploitation  de  petite  mine  et  d'autorisation d'exploitation de carrières visées à l'article 101 du présent Code minier sont soumis au paiement des droits et taxes douaniers conformément au tarif douanier en vigueur.
 
-Les titulaires de permis d'exploitation ou d'autorisation d'exploitation de petite mine bénéficient des avantages ciaprès  pendant  une  période  se  terminant  à  la  fin  de  la troisième  année  suivant  la  Date    de  démarrage  de  la production.
+Les titulaires de permis d'exploitation ou d'autorisation d'exploitation de petite mine bénéficient des avantages ci-après pendant une période se terminant à la fin de la troisième année suivant la Date de démarrage de la production.
 
 a) le Régime de l'admission temporaire au prorata temporis gratuit pour les matériels, machines et appareils, engins lourds véhicules utilisataires et autres biens placés sous ce régime et figurant sur la Liste minière ;
 
@@ -1740,17 +1756,17 @@ Ces assurances devront être souscrites auprès des sociétés d'assurance agré
 
 ARTICLE 137 : Les titulaires de titres miniers et leurs sous-traitants sont tenus :
 
-- de  respecter  les  conditions  générales  d'emploi conformément à la réglementation en vigueur ;
+a) de respecter les conditions générales d'emploi conformément à la réglementation en vigueur ;
 
-- d'accorder    la  préférence,  à  qualification  égale,  au personnel malien ;
+b) d'accorder la préférence, à qualification égale, au personnel malien ;
 
-- de mettre en œuvre un programme de formation et de promotion du personnel malien en vue d'assurer son utilisation dans toutes les phases de l'activité minière ;
+c) de mettre en œuvre un programme de formation et de promotion du personnel malien en vue d'assurer son utilisation dans toutes les phases de l'activité minière ;
 
-- de procéder au fur et à mesure, au remplacement du personnel expatrié par des nationaux ayant acquis la même formation et expérience en cours d'emploi.
+d) de procéder au fur et à mesure, au remplacement du personnel expatrié par des nationaux ayant acquis la même formation et expérience en cours d'emploi.
 
 ARTICLE 138 : L'Etat s'engage à :
 
-a) accorder aux titulaires de titres miniers et à leurs soustraitants,  les  autorisations  requises  pour  permettre  aux employés d'effectuer des heures supplémentaires et de travailler la nuit ou pendant les jours habituellement chômés ou fériés, conformément à la législation en vigueur ;
+a) accorder aux titulaires de titres miniers et à leurs sous-traitants, les autorisations requises pour permettre aux employés d'effectuer des heures supplémentaires et de travailler la nuit ou pendant les jours habituellement chômés ou fériés, conformément à la législation en vigueur ;
 
 b) n'édicter à l'égard des titulaires de titres miniers et leurs sous-traitants ainsi qu'à l'égard de leur personnel aucune mesure en matière de législation du travail ou sociale qui puisse être considérée comme discriminatoire par rapport à celle qui seraient imposées à des entreprises exerçant une activité similaire au Mali.
 
@@ -1766,17 +1782,17 @@ Les copies de ces règlements doivent être affichées sur les lieux de travail 
 
 ARTICLE 141 : Les titulaires de titres miniers et leurs sous-traitants sont tenus :
 
-- d'assurer le logement des travailleurs sur le site dans des conditions d'hygiène et de salubrité conformes à la législation en vigueur ;
+a) d'assurer le logement des travailleurs sur le site dans des conditions d'hygiène et de salubrité conformes à la législation en vigueur ;
 
-- de respecter la législation et les règlements tels qu'ils résultent des textes en vigueur ;
+b) de respecter la législation et les règlements tels qu'ils résultent des textes en vigueur ;
 
-- de respecter  les conditions générales du travail relatives à la prévention et à la réparation des accidents du travail et des maladies professionnelles ;
+c) de respecter les conditions générales du travail relatives à la prévention et à la réparation des accidents du travail et des maladies professionnelles ;
 
-- de respecter les conditions générales du travail relatives aux associations professionnelles et aux syndicats ;
+d) de respecter les conditions générales du travail relatives aux associations professionnelles et aux syndicats ;
 
-- de  contribuer  à  partir  de  la  date  du  démarrage  de  la production :
+e) de contribuer à partir de la date du démarrage de la production :
 
-- à  l'implantation  ou  à  l'amélioration  d'infrastructures sanitaires  et  scolaires  à  une  distance  raisonnable  du gisement  correspondant  aux  besoins  normaux  des travailleurs et de leurs familles ;
+- à l'implantation ou à l'amélioration d'infrastructures sanitaires et scolaires à une distance raisonnable du gisement correspondant aux besoins normaux des travailleurs et de leurs familles ;
 
 [[END OF PAGE 30]]
 
@@ -1790,7 +1806,7 @@ ARTICLE 141 : Les titulaires de titres miniers et leurs sous-traitants sont tenu
 
 ### CHAPITRE  III :  DE  LA  PROTECTION  DE L'ENVIRONNEMENT  ET  DU  PATRIMOINE CULTUREL
 
-ARTICLE 142 : T out  titulaire de titre minier ou d'autorisation d'ouverture et d'exploitation de carrière est tenu de respecter les  dispositions  législatives  et  règlementaires  relatives  à l'environnement en vigueur au Mali.
+ARTICLE 142 : Tout titulaire de titre minier ou d'autorisation d'ouverture et d'exploitation de carrière est tenu de respecter les dispositions législatives et règlementaires relatives à l'environnement en vigueur au Mali.
 
 ARTICLE 143 : Les titulaires de permis de recherche ou d'autorisation de prospection sont tenus de :
 
@@ -1806,7 +1822,7 @@ d) fournir à l'Administration chargée des Mines un rapport d'activités  résu
 
 e) fournir à l'Administration chargée des mines, lorsqu'il s'agit des substances minérales radioactives, une notice d'impact environnemental et social chaque fois que les travaux comportent (i) des travaux par galerie ou puits (ii) un travail sur des matériaux accumulés, des sondages ayant une incidence sur les ressources en eau ou la qualité de celles-ci ;
 
-f) fournir à l'Administration chargée de l'Environnement un    rapport  d'activités  résumant  les  incidences environnementales des travaux de recherche effectués et les  travaux de remise en état et de sécurisation réalisés pour se conformer aux obligations contenues à l'article 92ci-dessus ;
+f) fournir à l'Administration chargée de l'Environnement un rapport d'activités résumant les incidences environnementales des travaux de recherche effectués et les travaux de remise en état et de sécurisation réalisés pour se conformer aux obligations contenues à l'article 92-ci-dessus ;
 
 g)  fournir  à  l'Administration  chargée  des  Mines  et  du Patrimoine  Culturel,  toute  mise  à  jour  d'éléments  du patrimoine culturel national et ne déplacer ceux-ci qu'après autorisation  expresse  de  l'Administration  chargée  du Patrimoine Culturel, qui doit intervenir dans les deux mois suivant sa saisine.
 
@@ -1880,7 +1896,7 @@ Cet organe est tenu de fournir au ministre chargé des Mines un rapport périodi
 
 ARTICLE 154 : Tout postulant à un permis d'exploitation ou à une autorisation d'exploitation de petite mine est tenu de  prévoir,  en  même  temps  que  l'Etude  d'Impact Environnemental  et  Social  ou  la  notice  d'impact environnemental et social,  un  plan  de  fermeture  et  de réhabilitation de la mine.
 
-Le plan de fermeture et de réhabilitation est  soumis  à l'approbation des  Administrations chargées  respectivement des Mines et des Installations classées avec l'obligation d'en soumettre une révision tous les 5 ans, lorsque des changements dans les activités minières justifient  une modification au plan ou lorsque les Administrations suscitées jugent nécessaire de demander au détenteur d'un permis d'exploitation ou d'une autorisation d'exploitation de  petit  mine  de  réviser  le  plan  de  fermeture  et  de réhabilitation.
+Le plan de fermeture et de réhabilitation est soumis à l'approbation des Administrations chargées respectivement des Mines et des Installations classées avec l'obligation d'en soumettre une révision tous les 5 ans, lorsque des changements dans les activités minières justifient une modification au plan ou lorsque les Administrations sus-citées jugent nécessaire de demander au détenteur d'un permis d'exploitation ou d'une autorisation d'exploitation de petit mine de réviser le plan de fermeture et de réhabilitation.
 
 ARTICLE 155 : Le plan de fermeture et de réhabilitation est établi en fonction du site et du type d'exploitation.
 
@@ -1888,7 +1904,7 @@ ARTICLE 156 : Le plan de fermeture et de réhabilitation doit indiquer les méth
 
 Le plan de fermeture doit prévoir la réalisation de travaux de réhabilitation progressifs en cours d'exploitation et pas seulement à la cessation de l'exploitation.
 
-Il doit également prévoir le suivi environnemental postfermeture.
+Il doit également prévoir le suivi environnemental post-fermeture.
 
 [[END OF PAGE 32]]
 
@@ -1980,7 +1996,7 @@ ARTICLE 172 : Les peines prévues aux articles 163, 164, 165, 166 et 170 ci-dess
 
 ## TITRE XI : DES DISPOSITIONS TRANSITOIRES ET FINALES
 
-ARTICLE 173 : Les titres miniers en cours de validité avant l'entrée en vigueur du présent Code minier, restent soumis aux dispositions des Ordonnances N°91-065/PCTSP du  19 septembre 1991 et N°99-032/P-RM du 19 août 1999 et leurs textes d'application à l'exception des règles  relatives  aux  groupes  de  substances,  au renouvellement des titres et aux procédures de réduction de superficie, de renonciation, de cession, de transmission, d'amodiation,  ainsi  que  les  exigences  en  matière  de surveillance administrative et de la police des mines, du bornage des titres miniers d'exploitation, de protection et de  réhabilitation  de  l'environnement,  de  plan  de développement communautaire et de la fermeture de la mine.
+ARTICLE 173 : Les titres miniers en cours de validité avant l'entrée en vigueur du présent Code minier, restent soumis aux dispositions des Ordonnances N°91-065/P-CTSP du 19 septembre 1991 et N°99-032/P-RM du 19 août 1999 et leurs textes d'application à l'exception des règles relatives aux groupes de substances, au renouvellement des titres et aux procédures de réduction de superficie, de renonciation, de cession, de transmission, d'amodiation, ainsi que les exigences en matière de surveillance administrative et de la police des mines, du bornage des titres miniers d'exploitation, de protection et de réhabilitation de l'environnement, de plan de développement communautaire et de la fermeture de la mine.
 
 Les titulaires des titres miniers d'exploitation en cours de validité avant l'entrée en vigueur du présent Code minier doivent, se conformer aux dispositions des articles 106, 140 et 141 du présent Code minier.
 
@@ -2032,19 +2048,19 @@ Secrétaire à la communication : Hady Macky SALL Secrétaire à la communicatio
 
 Secrétaire à la formation : Mme Fatoumata DICKO
 
-1 er adjoint  au  Secrétaire  à  la  formation : Seyni OBOTIMBE
+1er adjoint au Secrétaire à la formation : Seyni OBOTIMBE
 
-2 ème adjoint  au  Secrétaire  à  la  formation : Mohamed Alimou MAIGA
+2ème adjoint au Secrétaire à la formation : Mohamed Alimou MAIGA
 
-3 ème adjoint au Secrétaire à la formation : Hamadoun BOCOUM
+3ème adjoint au Secrétaire à la formation : Hamadoun BOCOUM
 
 Secrétaire à l'organisation : Idrissa TOURE
 
-1 er adjoint au Secrétaire à l'organisation : Aliou MAIGA
+1er adjoint au Secrétaire à l'organisation : Aliou MAIGA
 
-2 ème adjoint au Secrétaire à l'organisation : Mohamed Saïdou SENE
+2ème adjoint au Secrétaire à l'organisation : Mohamed Saïdou SENE
 
-3 ème adjoint  au  Secrétaire  à  l'organisation : Oumar BAGAYOGO
+3ème adjoint au Secrétaire à l'organisation : Oumar BAGAYOGO
 
 Secrétaire  aux  relations  extérieures : Diakaridia
 
@@ -2255,29 +2271,52 @@ Darsalam Rue 617, Porte 80, Bamako.
 357 2 Mars 2012              JOURNAL OFFICIEL DE LA REPUBLIQUE DU MALI
 
 ## LISTE DES MEMBRES DU BUREAU :
-## LISTE DES MEMBRES DU BUREAU :
 
-Président : Yaya TEMBINE Secrétaire général : Soumaïla SIGUIPILY Secrétaire administratif : Aldiouma TEMBINE Secrétaire administratif adjoint : Kalba TEMBINE Premier secrétaire à l'organisation : Pébélou TEMBINE Deuxième secrétaire  à  l'organisation : Maïmouna PAMATA
+Président : Yaya TEMBINE
+Secrétaire général : Soumaïla SIGUIPILY
+Secrétaire administratif : Aldiouma TEMBINE
+Secrétaire administratif adjoint : Kalba TEMBINE
+Premier secrétaire à l'organisation : Pébélou TEMBINE
+Deuxième secrétaire à l'organisation : Maïmouna PAMATA
 
-Secrétaire  aux  relations  extérieures : SIGUIPILY
-
-Amadou
+Secrétaire aux relations extérieures : Amadou SIGUIPILY
 
 Secrétaire aux relations extérieures adjoint : Ousmane BAMIA
 
-Secrétaire à la communication : Emmanuel TEMBINE Secrétaire  à  la  communication  adjoint : Amadou TEMBELY
+Secrétaire à la communication : Emmanuel TEMBINE
+Secrétaire à la communication adjoint : Amadou TEMBELY
 
-Président :
+Secrétaire au développement économique, social et sanitaire : Hamidou GOUDIENKILE
 
-Yelly Yamadou CAMARA
+Secrétaire au développement économique, social et sanitaire adjoint : Intembeye TEMBINE
 
-Vice président :
+Trésorier général : Amadou TEMBINE
+Trésorière générale adjointe : Mariam SIGUIPILY
 
-Demba Dally TRAORE
+Commissaire aux comptes : Hamidou TEMBINE
+Commissaire aux conflits : Bocar BAMIA
 
-Trésorier général :
+Secrétaire à la promotion de la culture, art et du sport : Moussa TEMBINE
 
-Mamadou Diabé KANOUTE
+Secrétaire à la promotion de la culture, art et du sport adjoint : Allaye YANOGUE
+
+Secrétaire à la promotion de la femme : Fatoumata BAMIA
+
+------------------------------
+
+Suivant récépissé n°082/P-CK en date du 16 décembre 2004, il a été créé une association dénommée : «Association Usagers d'Adduction d'Eau potable de Gouméra », en abrégé (AUAEP.G).
+
+But : L'exploitation communautaire d'un système d'alimentation et de distribution d'eau potable dans son périmètre d'action, la défense des intérêts communs des adhérents dans le domaine de l'eau potable ; la garantie d'un égal accès à l'eau potable pour tous les habitants de la ville en vue d'améliorer leur santé et d'alléger les tâches quotidiennes des ménagères ; la gestion saine des ressources financières ; toute action permettant le développement du système et l'amélioration de la consommation d'eau potable.
+
+Siège Social : Gouméra.
+
+## LISTE DES MEMBRES DU BUREAU :
+
+Président : Yelly Yamadou CAMARA
+
+Vice président : Demba Dally TRAORE
+
+Trésorier général : Mamadou Diabé KANOUTE
 
 Trésorier général adjoint : Samba SYLLA
 
@@ -2285,47 +2324,29 @@ Secrétaire administratif : Bakary SOUMARE
 
 Conseiller à l'approvisionnement et au fonctionnement : Mamadou Moulé DEMBELE
 
-Secrétaires  à l'organisation :
+Secrétaires à l'organisation :
 
-- Mariam DIOUWARA - Néné GALLOU
+- Mariam DIOUWARA
+- Néné GALLOU
 
-Secrétaire  au  développement économique, social et Responsables à l'hygiène et assainissement :
+Responsables à l'hygiène et assainissement :
 
-sanitaire : Hamidou GOUDIENKILE
-
-Secrétaire  au  développement économique, social et sanitaire adjoint : Intembeye TEMBINE
-
-Trésorier général : Amadou TEMBINE Trésorière générale adjointe : Mariam SIGUIPILY
-
-Commissaire aux comptes : Hamidou TEMBINE Commissaire aux conflits : Bocar BAMIA
-
-Secrétaire à la promotion de la culture, art et du sport : Moussa TEMBINE
-
-Secrétaire  à  la  promotion  de  la  culture,  art  et  du sport adjoint : Allaye YANOGUE
-
-Secrétaire  à  la  promotion  de  la  femme : Fatoumata BAMIA
-
-------------------------------
-
-Suivant récépissé n°082/P-CK en date du 16 décembre 2004,    il  a  été  créé  une  association  dénommée : «Association  Usagers  d'Adduction  d'Eau  potable  de Gouméra », en abrégé (AUAEP.G).
-
-But : L'exploitation  communautaire  d'un  système d'alimentation et de distribution d'eau potable dans son périmètre d'action, la défense des intérêts communs des adhérents dans le domaine de l'eau potable ; la garantie d'un égal accès à l'eau potable pour tous les habitants de la ville en vue d'améliorer leur santé et d'alléger les tâches quotidiennes  des  ménagères ;  la  gestion  saine  des ressources  financières ;  toute  action  permettant  le développement  du  système  et  l'amélioration  de  la consommation d'eau potable.
-
-- Fanta Samba KANOUTE -  Aminata DIABIRA
+- Fanta Samba KANOUTE
+- Aminata DIABIRA
 
 ### Comité de surveillance (CS) :
 
-- Yelly di Moulé CAMARA - Dioula Makan KANOUTE
-
+- Yelly di Moulé CAMARA
+- Dioula Makan KANOUTE
 - Mody DIAKITE
 
 ------------------------------
 
-Suivant récépissé n°0176/G-DB en date du 21 mars  2012, il a été créé une association dénommée : «Association des Jeunes Ressortissants de Tégué», en abrégé (A.J.R.T).
+Suivant récépissé n°0176/G-DB en date du 21 mars 2012, il a été créé une association dénommée : «Association des Jeunes Ressortissants de Tégué», en abrégé (A.J.R.T).
 
-But : Contribuer à la  promotion de scolarisation des filles, contribuer au développement économique social, culturel sanitaire et l'environnemental, etc…….
+But : Contribuer à la promotion de scolarisation des filles, contribuer au développement économique social, culturel sanitaire et l'environnemental, etc…….
 
-Siège Social : Sébénikoro, Rue 449 Porte 59,  Bamako.
+Siège Social : Sébénikoro, Rue 449 Porte 59, Bamako.
 
 ## LISTE DES MEMBRES DU BUREAU :
 
@@ -2333,19 +2354,16 @@ Président : Abdoulaye Y. TRAORE
 
 Vice président : Daba K. TRAORE
 
-Secrétaire général : Boukari A. TRAORE Secrétaire général adjoint : Naman F. TRAORE
+Secrétaire général : Boukari A. TRAORE
+Secrétaire général adjoint : Naman F. TRAORE
 
-Secrétaire administratif :
-
-Daouda TRAORE
+Secrétaire administratif : Daouda TRAORE
 
 Secrétaire administratif adjoint : Kalifa TRAORE
 
-Secrétaire  à l'organisation : Mahamadou Elhadj TRAORE
+Secrétaire à l'organisation : Mahamadou Elhadj TRAORE
 
-Premier secrétaire  à l'organisation adjoint : Balla Y.
-
-###### Siège Social : Gouméra. TRAORE Mamadou KANTE
+Premier secrétaire à l'organisation adjoint : Balla Y. TRAORE Mamadou KANTE
 
 [[END OF PAGE 37]]
 
@@ -2365,7 +2383,7 @@ Secrétaire  aux relations extérieures et intégration : Abdoulaye SANOGO
 
 Secrétaire  aux relations extérieures et intégration adjoint : Oumar TRAORE
 
-Secrétaire à l'information : Moussa S. TRAORE Secrétaire à l'information adjoint : Faly Y . TRAORE
+Secrétaire à l'information : Moussa S. TRAORE Secrétaire à l'information adjoint : Faly Y. TRAORE
 
 Trésorier général : Adama F. TRAORE Trésorier général adjoint : Mahamadou F.TRAORE Secrétaire au commissaire  de  comptes : Modibo N'DAOU Secrétaire  au  commissaire  de  comptes  : Seydou  F. TRAORE
 
@@ -2375,7 +2393,7 @@ Secrétaire  au développement éducatif et sanitaire adjoint: Seydou TRAORE
 
 Secrétaire  aux activités sportives et culturelles : Lansenou TRAORE
 
-Secrétaire  aux activities sportives et culturelles adjointe: Hawa TRAORE
+Secrétaire aux activités sportives et culturelles adjointe: Hawa TRAORE
 
 Secrétaire  modérateur  des  réunions : Noumory B. TRAORE
 
@@ -2423,9 +2441,9 @@ Siège Social : Missira, Rue 64, Porte 664, Bamako.
 
 Secrétaire général : Ibrahima MAIGA
 
-Secrétaire général 1 er adjoint : Moussa FANE
+Secrétaire général 1er adjoint : Moussa FANE
 
-Secrétaire général 2 ème adjoint : Djinguina KINTA
+Secrétaire général 2ème adjoint : Djinguina KINTA
 
 Secrétaire administratif : Souaïbou DIALLO
 
@@ -2453,39 +2471,19 @@ Secrétaire à l'information à la communication : Amadou GOITA
 
 359 2 Mars 2012              JOURNAL OFFICIEL DE LA REPUBLIQUE DU MALI
 
-Secrétaire à l'information à la communication adjoint : Dramane KONATE Secrétaires aux conflits :
+Secrétaire à l'information à la communication adjoint : Dramane KONATE
 
-- Soumaïla FANE
+Secrétaire aux relations extérieures : Danou M. BAGAYOKO
 
-- Alou SAMAKE
+Secrétaire aux relations féminines : Fatoumata D. SANOGO
 
-Secrétaires à l'information et à la communication :
+Secrétaire aux relations féminines adjointe : Marie DIARRA
 
-- Oumar FANE - Bakary S. SAMAKE
-
-Secrétaire  aux  relations  extérieures : Danou  M. BAGAYOKO
-
-Secrétaire  aux  relations  féminines : Fatoumata  D. SANOGO
-
-Secrétaire  aux  relations  féminines  adjointe : Marie DIARRA
-
-Secrétaires à l'organisation
-
-Secrétaire  aux  relations  extérieures  adjoint : SALL
-
-Barou - Drissa SAMAKE
-
-- Issa DIARRA
+Secrétaire aux relations extérieures adjoint : Barou SALL
 
 Secrétaire aux affaires scolaires : Abrahim KEITA
 
-Secrétaires aux relations extérieures :
-
-Kadidiatou - Nouhoum MARIKO
-
-- Salif Y. SAMAKE
-
-Secrétaire aux affaires scolaires adjointe : M. DIALLO
+Secrétaire aux affaires scolaires adjointe : Kadidiatou M. DIALLO
 
 Secrétaire aux affaires scolaires adjoint : Souleymane DIALLO
 
@@ -2493,55 +2491,70 @@ Contrôleur général : Arouna GOITA
 
 Modérateurs :
 
-- Souleymane Chérif  DIALLO
-
+- Souleymane Chérif DIALLO
 - Alassane KOUYATE
 
 ------------------------------
 
-Suivant récépissé n°0154/G-DB en date du 12 mars  2012, il a été créé une association dénommée : «Association des Ressortissants de Dembéla Résidant à Bamako» situé dans le cercle de Sikasso, région dudit,  en abrégé (ARDRB).
+Suivant récépissé n°0154/G-DB en date du 12 mars 2012, il a été créé une association dénommée : «Association des Ressortissants de Dembéla Résidant à Bamako» situé dans le cercle de Sikasso, région dudit, en abrégé (ARDRB).
 
 But : Créer un partenariat fécond entre les femmes et les jeunes du village de Dembéla, etc.
 
-Siège Social : Sabalibougou, Rue 441 Porte 116  Bamako.
+Siège Social : Sabalibougou, Rue 441 Porte 116 Bamako.
 
 ## LISTE DES MEMBRES DU BUREAU :
 
-Président :
-
-Abdou COULIBALY
+Président : Abdou COULIBALY
 
 Vice président : Salif Bah SAMAKE
 
-Secrétaire général : Baba MARIKO Secrétaire administratif : Abdoulaye DIARRA Secrétaire administratif adjoint : Mamadou MARIKO
+Secrétaire général : Baba MARIKO
+Secrétaire administratif : Abdoulaye DIARRA
+Secrétaire administratif adjoint : Mamadou MARIKO
 
 Trésorier général : Adama DIARRA
-
-Trésorier général adjoint : Moussa SAMAKE Trésorier général adjoint : Nouhoum TRAORE
+Trésorier général adjoint : Moussa SAMAKE
 
 Secrétaires aux comptes :
 
-Secrétaire à l'approvisionnement : Alfousseny CISSE
-
-- Oumar S. DIARRA Secrétaire  chargé  à  l'équipement :
-
+- Oumar S. DIARRA
 - Lassine SAMAKE
 
-Abdoul Wahab TRAORE
+Secrétaires aux conflits :
+
+- Soumaïla FANE
+- Alou SAMAKE
+
+Secrétaires à l'information et à la communication :
+
+- Oumar FANE
+- Bakary S. SAMAKE
+
+Secrétaires à l'organisation
+
+- Drissa SAMAKE
+- Issa DIARRA
+
+Secrétaires aux relations extérieures :
+
+- Nouhoum MARIKO
+- Salif Y. SAMAKE
 
 Secrétaires aux affaires féminines :
 
-- Djénèba SAMAKE - Diatou SAMAKE
+- Djénèba SAMAKE
+- Diatou SAMAKE
 
 Secrétaires à la jeunesse et à la culture :
 
-- Djibril SAMAKE - Bablé SAMAKE
+- Djibril SAMAKE
+- Bablé SAMAKE
 
 ------------------------------
 
-Suivant récépissé n°0196/G-DB en date du 29 mars  2012, il a été créé une association dénommée : «Union Régionale des  Sociétés  Coopératives  d'Eleveurs  du  District  de Bamako» Djékawili, en abrégé (URSCE/DB).
+Suivant récépissé n°0196/G-DB en date du 29 mars 2012, il a été créé une association dénommée : «Union Régionale des Sociétés Coopératives d'Eleveurs du District de Bamako» Djékawili, en abrégé (URSCE/DB).
 
-But : Renforcer  et  de  promouvoir  un  développement durable à travers un suivi appui conseil des membres, etc.
+But : Renforcer et de promouvoir un développement durable à travers un suivi appui conseil des membres, etc.
 
 Siège Social : Djélibougou en Commune I du District, en face du cimetière Bamako.
 
@@ -2549,13 +2562,17 @@ Siège Social : Djélibougou en Commune I du District, en face du cimetière Bam
 
 Président : Bagnama COULIBALY
 
-1 er
-
-Vice président : Ouédji DIALLO
+1er Vice président : Ouédji DIALLO
 
 Secrétaire général : Makan KORKOS
 
 Trésorier général : Mamoutou NIARE
+
+Trésorier général adjoint : Nouhoum TRAORE
+
+Secrétaire à l'approvisionnement : Alfousseny CISSE
+
+Secrétaire chargé à l'équipement : Abdoul Wahab TRAORE
 
 [[END OF PAGE 39]]
 
@@ -2573,7 +2590,7 @@ Secrétaire chargé à la production adjoint : Baco KONE
 
 Secrétaire chargé à la transformation : Abib DENOU
 
-Secrétaire  chargé  à  la  commercialisation : Barou COULIBALY
+Secrétaire chargé à la commercialisation : Barou COULIBALY
 
 Secrétaire chargé de la qualité et du label : Lasseni DIALLO
 
@@ -2591,44 +2608,47 @@ Secrétaire aux affaires sociales et aux conflits : Moussa SANGARE
 
 ### COMITE DE SURVEILLANCE
 
-Président :
-
-Bamoussa DIALLO
+Président : Bamoussa DIALLO
 
 Membres :
 
-Suivant récépissé n°0121/G-DB en date du 28 février 2012,  il a été créé une association dénommée : «Amicale des Anciens Elèves de l'IJA», en abrégé (AMANE-IJA).
+- Lasseny KEITA
+- Mariam COULIBALY
+- Mamadou DOUMBIA
+- Mousa TRAORE
 
-But : Appuyer l'UMAV dans sa politique de promotion des  personnes  handicapées  visuelles  en  renforçant  les rapports  de  bonne  camaraderie  entre  les  différentes promotions, etc.
+Suivant récépissé n°0121/G-DB en date du 28 février 2012, il a été créé une association dénommée : «Amicale des Anciens Elèves de l'IJA», en abrégé (AMANE-IJA).
+
+But : Appuyer l'UMAV dans sa politique de promotion des personnes handicapées visuelles en renforçant les rapports de bonne camaraderie entre les différentes promotions, etc.
 
 Siège Social : Faladié Rue 846, Porte 124 Bamako.
 
 ## LISTE DES MEMBRES DU BUREAU :
 
-Président :
+Président : N'Golo KONARE
 
-N'Golo KONARE
+1er Vice président : Mohamed Fabala KYABOU
+2ème Vice président : Makan TRAORE
 
-1 er Vice président : Mohamed Fabala KYABOU 2 ème Vice président : Makan TRAORE
+Secrétaire général : Dramane TRAORE
+Secrétaire général adjoint : Hadji BARRY
 
-Secrétaire général : Dramane TRAORE Secrétaire général adjoint : Hadji BARRY
+Trésorier général : Moussa KEITA
+Trésorier général adjoint : Ogonagalou DOLO
 
-Trésorier général : Moussa KEITA Trésorier général adjoint : Ogonagalou DOLO
+1ère Secrétaire à la promotion féminine : Youma KEITA
 
-1 ère Secrétaire à la promotion féminine : Youma KEITA
+2ème Secrétaire à la promotion féminine : Mah DIAKITE
 
-2 ème Secrétaire à la promotion féminine : Mah DIAKITE
+Secrétaire à l'organisation : Djibril COULIBALY
+Secrétaire à l'organisation adjoint : Bourama SINAYOKO
 
-Secrétaire à l'organisation : Djibril COULIBALY Secrétaire à l'organisation adjoint : Bourama SINAYOKO
-
-Secrétaire  à  l'éducation  et  à  la  culture : Lassine COULIBALY
+Secrétaire à l'éducation et à la culture : Lassine COULIBALY
 
 Secrétaire à l'éducation et à la culture adjoint : Amadou Mamadou N'DIAYE
 
-Secrétaire à l'information et à la communication : Y aya
+Secrétaire à l'information et à la communication : Yaya TRAORE
 
-- Lasseny KEITA - Mariam COULIBALY - Mamadou DOUMBIA - Mousa TRAORE TRAORE
-
-Secrétaire  à  l'information  et  à  la  communication adjoint : Mohamed TOURE
+Secrétaire à l'information et à la communication adjoint : Mohamed TOURE
 
 [[END OF PAGE 40]]
