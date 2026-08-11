@@ -1,12 +1,21 @@
 [[START OF PAGE 1]]
 
-(this page came through the extractor with no text)
+# Education for All Package
+
+All children regardless of gender, abilities, disabilities, backgrounds and circumstances have the right to quality education in their neighbourhood schools
+
+State of Palestine
+Ministry of Education
+دولة فلسطين
+وزارة التربية والتعليم
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-(this page came through the extractor with no text)
+A girl reading in the classroom at Anab Alkaber elementary school, South Hebron, March 2013, ©WFP/Nizar Khadder
+
+A joint initiative of the United Nations and the Palestinian Ministry of Education for the Development of Inclusive and Child-Friendly Programmes from Early Childhood to Adolescence (2012-2014)
 
 [[END OF PAGE 2]]
 
@@ -14,17 +23,24 @@
 
 # Education for All Package
 
+State of Palestine
+Ministry of Education
+دولة فلسطين
+وزارة التربية والتعليم
+
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
 ## Education for All (EFA) Package
 
-All children regardless of gender, abilities, disabilities, backgrounds and circumstances have the right to quality education in their neighbourhood schools The  EFA  Package  is  the  result  of  intensive  consultations  initiated  by  the  Ministry  of  Education (MoE) and UN agencies in 2011 with key stakeholders in Gaza and the West Bank, including East Jerusalem (Universities, civil society organizations, Disabled Persons' Organizations-DPOs).
+All children regardless of gender, abilities, disabilities, backgrounds and circumstances have the right to quality education in their neighbourhood schools
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+The EFA Package is the result of intensive consultations initiated by the Ministry of Education (MoE) and UN agencies in 2011 with key stakeholders in Gaza and the West Bank, including East Jerusalem (Universities, civil society organizations, Disabled Persons’ Organizations-DPOs).
 
 ### Overall objective:
 strengthening the capacities of the Ministry of Education and education personnel to promote quality basic education for all children, particularly for those who are most vulnerable to exclusion from and within education.
@@ -53,15 +69,15 @@ Children at Anab Alkaber elementary school, South Hebron, March 2013, ©WFP/Quiq
 
 ## Why? Why?
 
-A  strong,  competent  and  effective  MoE  is  a  prerequisite  for  the  development  of  sustainable  and affordable quality early childhood development (ECD) programmes and access to quality Education for All (EFA). The Package supports the goals and objectives of  the  Palestinian  Education  Development  Strategic Plan (EDSP):
+A strong, competent and effective MoE is a pre-requisite for the development of sustainable and affordable quality early childhood development (ECD) programmes and access to quality Education for All (EFA). The Package supports the goals and objectives of the Palestinian Education Development Strategic Plan (EDSP):
 
-- Goal 1: Access - To increase access of schoolaged children and students of all education levels and improve the ability of the education system to retain them.
+- Goal 1: Access – To increase access of school-aged children and students of all education levels and improve the ability of the education system to retain them.
 
-- Goal  2:  Quality -  To  improve  the  quality  of teaching and learning.
+- Goal 2: Quality – To improve the quality of teaching and learning.
 
-- Goal 3: Management - To develop the capacity for planning and management.
+- Goal 3: Management – To develop the capacity for planning and management.
 
-- Goal  4:  Relevance -To realize a gradual conversion from a supply to a demand-oriented education  sector  leading  to  more  compatibility between outputs and labour market(s) needs.
+- Goal 4: Relevance – To realize a gradual conversion from a supply to a demand-oriented education sector leading to more compatibility between outputs and labour market(s) needs.
 
 The  vast  majority  of children in Palestine  have access  to  basic  education.  However,  many  children underperform  and  drop  out  of  school  before  they complete a full cycle of education. Figures from 2010 indicate that more than 95,000 school-aged children (ages  6-17)  are  out  of  school,  e.g.  most  children with  disabilities  remain  excluded  from  the  regular education system.
 
@@ -77,7 +93,7 @@ The EFA Package has two main components:
 
 ### Component 1. Early Childhood Development (ECD)
 
-The first years of a child's life is critical for his/ her development and lay the foundation for the rest  of  his/her  life.  The  focus  of  quality  ECD programmes should therefore be on the social, emotional, physical, spiritual and cognitive development. Approximately 70% of Palestinian children  do  not  have  access  to  kindergarten services, a majority of children will therefore start school  without  having  been  to  a  kindergarten first and are therefore denied the foundation in life and learning that ECD provides.
+The first years of a child’s life is critical for his/her development and lay the foundation for the rest of his/her life. The focus of quality ECD programmes should therefore be on the social, emotional, physical, spiritual and cognitive development. Approximately 70% of Palestinian children do not have access to kindergarten services, a majority of children will therefore start school without having been to a kindergarten first and are therefore denied the foundation in life and learning that ECD provides.
 
 ### Component 2. Inclusive and Child-Friendly Education
 
@@ -103,7 +119,7 @@ The EFA Package is specifically targeting groups of children considered to be mo
 
 ### Jeloud Primary Co-educational School:
 
-In the small village of Jeloud in the District of South Nablus there is only one school. 137 children are enrolled in the village school, 58 girls and 79 boys in Grade 1 to Grade 10. The village is surrounded by settlements. The formerly wealthy agricultural community has lost 80% of its land to the settlements and now suffer from poverty. Many of the children experience harassment from the settlers but without access to counselling they are left to struggle alone with their worries. There is one young boy with a physical disability enrolled in the school while two girls with developmental disability have already dropped out of school and are now at home without any form of support. More than 20% of the children struggle with reading and writing. There is no kindergarten in the village, so an establishment of a pre-school will greatly benefit the children. Implementation of inclusive and child-friendly education will benefit all the children, especially the 3 school-aged children with disabilities, the children who experience reading and writing difficulties to succeed with their education, as  well  as  provide  much  needed  counselling  support  for  children  with  additional  psycho- social needs. At the same time diverse and effective after-school programmes, vocational training and a junior farmer programme will help to revitalise life in the village and bring much needed growth and optimism to a small community threatened from depopulation and continued expansion of settlements.
+In the small village of Jeloud in the District of South Nablus there is only one school. 137 children are enrolled in the village school, 58 girls and 79 boys in Grade 1 to Grade 10. The village is surrounded by settlements. The formerly wealthy agricultural community has lost 80% of its land to the settlements and now suffer from poverty. Many of the children experience harassment from the settlers but without access to counselling they are left to struggle alone with their worries. There is one young boy with a physical disability enrolled in the school while two girls with developmental disability have already dropped out of school and are now at home without any form of support. More than 20% of the children struggle with reading and writing. There is no kindergarten in the village, so an establishment of a pre-school will greatly benefit the children. Implementation of inclusive and child-friendly education will benefit all the children, especially the 3 school-aged children with disabilities, the children who experience reading and writing difficulties to succeed with their education, as well as provide much needed counselling support for children with additional psycho-social needs. At the same time diverse and effective after-school programmes, vocational training and a junior farmer programme will help to revitalise life in the village and bring much needed growth and optimism to a small community threatened from depopulation and continued expansion of settlements.
 
 [[END OF PAGE 9]]
 
@@ -127,7 +143,7 @@ Focusing on piloting ECD and inclusive and child friendly education in 47 school
 
 - Support community involvement and public-private partnerships.
 
-Special Needs Education international expert through her visit to Fahad Al-Sabah Basic Girls School in East of Gaza, October 2012, ©UNESCO/ Bilal Hamaydah
+Special Needs Education international expert through her visit to Fahad Al-Sabah Basic Girls School in East of Gaza, October 2012, ©UNESCO/Bilal Hamaydah
 
 ICT training implemented at Al-Azhar University, involving teachers from the pilot schools, Gaza, November 2012, ©UNESCO/Bilal Hamaydah
 
@@ -139,17 +155,17 @@ ICT training implemented at Al-Azhar University, involving teachers from the pil
 
 - Awareness increased on inclusive and child-friendly education within UN agencies, MoE, universities and civil society organizations (MoE, all UN partner agencies).
 
-- Assessment and selection of 47 pilot schools in the West Bank and Gaza (MoE/UNESCO/ UNICEF/UNDP).
+- Assessment and selection of 47 pilot schools in the West Bank and Gaza (MoE/UNESCO/UNICEF/UNDP).
 
 - School feeding programme initiated in September 2012 in the 14 pilot schools in Gaza and almost all 33 schools in the West Bank (MoE/WFP).
 
-- Pilot  implementation  for  ECD  programmes  (Grade  0)  initiated (MoE/UNESCO/UNICEF/ UNDP/UNRWA/WFP).
+- Pilot implementation for ECD programmes (Grade 0) initiated (MoE/UNESCO/UNICEF/UNDP/UNRWA/WFP).
 
 - Capacity development programmes designed  and  implemented through the pilot schools focusing  on  innovation  in  education,  education  leadership,  inclusive  and  child-friendly education, special educational needs, Information and Communication Technology (ICT), and action research with universities and MoE (MoE/NIET/UNESCO/UNICEF).
 
 Boys playing football at Anab Alkaber elementary school, South Hebron, March 2013, ©WFP/Quique Kierszenbaum
 
-Teacher (who benefited from the Education Leadership Training) organizing an interactive session in her classroom, Ein El-Helwa CoBasic School, Gaza, March 2013, ©UNESCO/Bilal Hamaydah
+Teacher (who benefited from the Education Leadership Training) organizing an interactive session in her classroom, Ein El-Helwa Co-Basic School, Gaza, March 2013, ©UNESCO/Bilal Hamaydah
 
 [[END OF PAGE 11]]
 
@@ -174,6 +190,20 @@ Grade 0 (pre-school) at Taher Al-Abed Basic School, Jenin Directorate, April 201
 Partnerships  between  MoE,  other  relevant  ministries,  universities,  NGOs,  disabled  person's organizations, UN agencies and other national and international partners are essential for the further development of ECD and inclusive and child-friendly education.
 
 Joint programming is the collective effort through which the UN agencies and national partners work together to prepare, implement, monitor and evaluate the activities aimed at effectively and efficiently achieving the MDGs, EFA goals and other international commitments arising from UN conferences, summits, conventions and human rights instruments.
+
+unrwa
+الأونروا
+unicef
+UNFPA
+FAO
+United Nations Educational, Scientific and Cultural Organization
+منظمة الأمم المتحدة للتربية والعلم والثقافة
+WFP
+wfp.org
+UNDP
+Empowered lives. Resilient nations.
+World Health Organization
+UNSCO
 
 ### How can you help?
 
@@ -207,6 +237,6 @@ A young boy in one of the pilot schools in Gaza, 2012, ©UNESCO/Terje Watterdal
 
 [[START OF PAGE 16]]
 
-(this page came through the extractor with no text)
+Children at Anab Alkaber elementary school, South Hebron, March 2013, ©WFP/Quique Kierszenbaum
 
 [[END OF PAGE 16]]
