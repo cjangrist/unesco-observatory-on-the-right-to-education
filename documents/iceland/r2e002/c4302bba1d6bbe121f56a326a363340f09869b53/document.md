@@ -28,13 +28,15 @@ Higher Education Institutions may be run as state institutions, non-profit organ
 
 The Minister of Education, Science and Culture grants accreditation to Higher Education Institutions qualify for the prerequisites of this Act.
 
-The Minister of Education, Science and Culture issues rules regarding accreditation of HE´s in accordance with internationally accepted criteria. The rules shall stipulate the following requirements, which Higher Education Institutions must fulfil to qualify for accreditation The conditions concern the following:
+The Minister of Education, Science and Culture issues rules regarding accreditation of HE´s in accordance with internationally accepted criteria. The rules shall
 
 1
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+stipulate the following requirements, which Higher Education Institutions must fulfil to qualify for accreditation The conditions concern the following:
 
 - Role and objectives of Higher Education Institutions
 
@@ -72,13 +74,15 @@ If a Higher Education Institution, accredited under this Act, either fails to me
 
 #### Article 5
 
-The Minister of Education, Science and Culture issues a National Qualification Framework. The National Qualification Framework is a systematic description of degrees and diplomas, with emphasis general description of learning-outcomes and competencies which students have attained at each level of study.  The criteria shall include the requirements which Higher Education Institutions are obliged to fulfil for every education level. Higher Education Institutions are required to issue comparable learningoutcome descriptions, for every study programme. The National Qualification framework shall be issued in Icelandic and English.
+The Minister of Education, Science and Culture issues a National Qualification Framework. The National Qualification Framework is a systematic description of degrees and diplomas, with emphasis general description of learning-outcomes and competencies which students have attained at each level of study. The criteria shall include the requirements which Higher Education Institutions are obliged to fulfil for every
 
 2
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+education level. Higher Education Institutions are required to issue comparable learning-outcome descriptions, for every study programme. The National Qualification framework shall be issued in Icelandic and English.
 
 ## Chapter III
 
@@ -96,13 +100,13 @@ Higher Education Institutions decide which programmes of study they offer within
 
 - Diploma, equivalent to at least 30-120 standardised course credits
 
-- Bachelor's degree, equivalent to at least 180-240 standardised course credits
+- Bachelor’s degree, equivalent to at least 180-240 standardised course credits
 
-- Master's degree or Candidatus degree, equivalent to at least 90-120 standardised course credits in addition to a Bachelor's degree or its equivalence
+- Master’s degree or Candidatus degree, equivalent to at least 90-120 standardised course credits in addition to a Bachelor’s degree or its equivalence
 
-- Doctorate degree, equivalent to at least 180 standardised course credits in addition to the required number of course credits for a Master's or a Candidatus degree.
+- Doctorate degree, equivalent to at least 180 standardised course credits in addition to the required number of course credits for a Master’s or a Candidatus degree.
 
-The Minister of Education, Science and Culture can, under special circumstances, authorise exemption for Higher Education Institution's from the number of course credits according to the second paragraph. Higher Education Institutions can decide that a study programme involving practicum shall qualify for course credits at the abovementioned levels.
+The Minister of Education, Science and Culture can, under special circumstances, authorise exemption for Higher Education Institution’s from the number of course credits according to the second paragraph. Higher Education Institutions can decide that a study programme involving practicum shall qualify for course credits at the abovementioned levels.
 
 Higher Education Institutions shall apply for permission to the Minster of Education, Science and Culture before offering studies leading to a Doctorate degree. The Higher Education Institution must demonstrate that they fulfil the appropriate demands and requirements specified in regulations respecting Doctorate studies. The Minister of Education, Science and Culture appoints three independent experts, to a committee which reviews the qualification of Higher Education Institutions to provide Doctorate degrees.
 
@@ -161,7 +165,7 @@ Higher Education Institutions shall publish information pertaining to their inte
 
 #### Article 13
 
-The Minister of Education, Science and Culture determines the time for conducting an external evaluation of teaching and research and sets the agenda for such evaluation for three years. In addition, the Minister of Education, Science and Culture may decide to conduct a special evaluation of a Higher Education Institution or its specific units upon the Minister's discretion.
+The Minister of Education, Science and Culture determines the time for conducting an external evaluation of teaching and research and sets the agenda for such evaluation for three years. In addition, the Minister of Education, Science and Culture may decide to conduct a special evaluation of a Higher Education Institution or its specific units upon the Minister’s discretion.
 
 The external evaluation can involve a Higher Education Institution or individual fields of study or science, faculties, study programmes or other specified elements of a Higher Education Institutions operation. The external evaluation can also involve several institutions simultaneously.
 
@@ -202,9 +206,9 @@ The titles of Higher Education Institution teachers shall be professor, associat
 
 #### Article 18
 
-Higher Education Institutions shall establish an evaluation committee to assess the merit of professors, associate professors, assistant professors and (scientist) specialists. Those that bear titles according to Article 17, shall have completed a master's degree at least or have equivalent knowledge and experience as reviewed by the evaluation committee. Furthermore, they shall have demonstrated sufficient achievement in their work to enjoy recognition in the respective field of study.
+Higher Education Institutions shall establish an evaluation committee to assess the merit of professors, associate professors, assistant professors and (scientist) specialists. Those that bear titles according to Article 17, shall have completed a master’s degree at least or have equivalent knowledge and experience as reviewed by the evaluation committee. Furthermore, they shall have demonstrated sufficient achievement in their work to enjoy recognition in the respective field of study.
 
-Only those, who have completed a master's degree or equivalent, can be appointed to an evaluation committee, and the chairman of the evaluation committee shall have similar qualifications, or higher, than those being reviewed, if possible. The evaluation committee shall contain at least one representative from outside the Higher Education Institution in question.
+Only those, who have completed a master’s degree or equivalent, can be appointed to an evaluation committee, and the chairman of the evaluation committee shall have similar qualifications, or higher, than those being reviewed, if possible. The evaluation committee shall contain at least one representative from outside the Higher Education Institution in question.
 
 6
 
@@ -225,11 +229,11 @@ Higher Education Institutions may set specific admission requirements, such as r
 
 Higher Education Institutions can, with the consent of the Ministry of Education, Science and Culture, offer preliminary study programme for individuals who do not meet with admission requirements.
 
-The senate issues a regulation about students' rights and duties, including rules for appeals within the institution after consulting the students' association.
+The senate issues a regulation about students’ rights and duties, including rules for appeals within the institution after consulting the students’ association.
 
 #### Article 20
 
-The Minister of Education, Science and Culture appoints a board of appeal to deal with Higher Education Institution students' complaints. The three-person board is appointed for two years at a time; one representative is appointed by the rector's conference, one representative is jointly appointed by student unions, and one is appointed without nomination and shall be the chairman of the board. All the representatives must fulfil the general requirements made by law to be appointed a district court judge. Alternate representatives are appointed in the same way.
+The Minister of Education, Science and Culture appoints a board of appeal to deal with Higher Education Institution students’ complaints. The three-person board is appointed for two years at a time; one representative is appointed by the rector’s conference, one representative is jointly appointed by student unions, and one is appointed without nomination and shall be the chairman of the board. All the representatives must fulfil the general requirements made by law to be appointed a district court judge. Alternate representatives are appointed in the same way.
 
 Appeals to the board  fall under  VII. chapter of the administrative procedures act. An appeal can thus not be made to the board unless the higher education institution has issued a final decision on the rights and duties of the student involved. The student is however permitted to appeal to the board the procedure used by institution in handling of written complaint is according to law and good administrative procedure, and the board will comment on the issue.
 
@@ -291,7 +295,7 @@ Higher Education Institutions shall keep records of the study process of their s
 
 #### Article 26
 
-Rectors of Higher Education Institutions, certified by the Ministry of Education, Science and Culture, form a special rectors conference of Higher Education Institution's. They meet regularly and discuss matter regarding operation and interests of the institutions. The conference provides an opinion in matters referred to it by the Minister of Education, Science and Culture or by individual Higher Education Institution's. The conference constitutes its operational rules which shall be confirmed by the Minister of Education, Science and Culture.
+Rectors of Higher Education Institutions, certified by the Ministry of Education, Science and Culture, form a special rectors conference of Higher Education Institution’s. They meet regularly and discuss matter regarding operation and interests of the institutions. The conference provides an opinion in matters referred to it by the Minister of Education, Science and Culture or by individual Higher Education Institution’s. The conference constitutes its operational rules which shall be confirmed by the Minister of Education, Science and Culture.
 
 ## Chapter X
 ### Commencement, etc.
@@ -300,7 +304,7 @@ Rectors of Higher Education Institutions, certified by the Ministry of Education
 
 This Act shall enter into force 1 July 2006.
 
-Ministry of Education, Science and Culture, 13 th of June 2006
+Ministry of Education, Science and Culture, 13th of June 2006
 
 Þorgerður Katrín Gunnarsdóttir Minister of Education, Science and Culture
 
