@@ -95,7 +95,7 @@ https://www.finlex.fi/fi/laki/ajantasa/1998/19980628
 
 Perusopetuslaki 628/1998 - Ajantasainen lainsäädäntö - FINLEX ®
 
-Kunta voi järjestää perusopetukseen valmistavaa opetusta, lisäopetusta ja kunnan päättämässä laajuudessa perusopetuksen 7-9 vuosiluokkien yhteydessä annettavaa joustavan perusopetuksen toimintaa. Kunta päättää perusopetuksen järjestämisestä muille kuin oppivelvollisille.
+Kunta voi järjestää perusopetukseen valmistavaa opetusta, lisäopetusta ja kunnan päättämässä laajuudessa perusopetuksen 7–9 vuosiluokkien yhteydessä annettavaa joustavan perusopetuksen toimintaa. Kunta päättää perusopetuksen järjestämisestä muille kuin oppivelvollisille.
 
 Joustavan perusopetuksen toiminnan järjestämisestä säädetään tarkemmin valtioneuvoston asetuksella.
 
@@ -123,7 +123,7 @@ Esiopetuksen järjestämiseen luvan saanut opetuksen järjestäjä voi hankkia e
 
 ### 8 § Valtio opetuksen järjestäjänä
 
-Valtio voi järjestää tässä laissa tarkoitettua opetusta. Opetuksen järjestämisestä ja toiminnan lopettamisesta päättää asianomainen ministeriö noudattaen soveltuvin osin, mitä 7 §:n 2-4 momentissa säädetään.
+Valtio voi järjestää tässä laissa tarkoitettua opetusta. Opetuksen järjestämisestä ja toiminnan lopettamisesta päättää asianomainen ministeriö noudattaen soveltuvin osin, mitä 7 §:n 2–4 momentissa säädetään.
 
 https://www.finlex.fi/fi/laki/ajantasa/1998/19980628
 
@@ -237,11 +237,7 @@ Oppilaalla, jolla on vaikeuksia oppimisessaan tai koulunkäynnissään, on oikeu
 
 ### 16 a § (24.6.2010/642) Tehostettu tuki
 
-Oppilaalle, joka tarvitsee oppimisessaan tai koulunkäynnissään säännöllistä tukea tai samanaikaisesti useita
-
-tukimuotoja, on annettava tehostettua tukea hänelle tehdyn oppimissuunnitelman mukaisesti.
-
-Oppimissuunnitelma on laadittava, jollei siihen ole ilmeistä estettä, yhteistyössä oppilaan ja huoltajan sekä tarvittaessa oppilaan muun laillisen edustajan kanssa. Tehostettu tuki sisältää oppilaalle annettavia, erityisesti 16, 31 ja 31 a §:ssä tarkoitettuja tukimuotoja sekä tarvittavia pedagogisia järjestelyjä. Tehostetun tuen ja oppimissuunnitelman keskeisestä sisällöstä määrätään opetussuunnitelman perusteissa.
+Oppilaalle, joka tarvitsee oppimisessaan tai koulunkäynnissään säännöllistä tukea tai samanaikaisesti useita tukimuotoja, on annettava tehostettua tukea hänelle tehdyn oppimissuunnitelman mukaisesti. Oppimissuunnitelma on laadittava, jollei siihen ole ilmeistä estettä, yhteistyössä oppilaan ja huoltajan sekä tarvittaessa oppilaan muun laillisen edustajan kanssa. Tehostettu tuki sisältää oppilaalle annettavia, erityisesti 16, 31 ja 31 a §:ssä tarkoitettuja tukimuotoja sekä tarvittavia pedagogisia järjestelyjä. Tehostetun tuen ja oppimissuunnitelman keskeisestä sisällöstä määrätään opetussuunnitelman perusteissa.
 
 Tehostetun tuen aloittaminen ja järjestäminen käsitellään pedagogiseen arvioon perustuen moniammatillisesti yhteistyössä oppilashuollon ammattihenkilöiden kanssa. (30.12.2013/1288)
 
@@ -251,7 +247,7 @@ Erityinen tuki muodostuu erityisopetuksesta ja muusta tämän lain mukaan annett
 
 Erityisen tuen antamiseksi opetuksen järjestäjän tulee tehdä kirjallinen päätös, jota tarkistetaan ainakin toisen vuosiluokan jälkeen sekä ennen seitsemännelle vuosiluokalle siirtymistä. Erityisen tuen antamista koskevassa päätöksessä on määrättävä oppilaan pääsääntöinen opetusryhmä, mahdolliset tulkitsemis- ja avustajapalvelut sekä muut 31 §:ssä tarkoitetut palvelut sekä tarvittaessa 1 momentissa tarkoitettu oppilaan opetuksen poikkeava järjestäminen.
 
-Ennen erityistä tukea koskevan päätöksen tekemistä opetuksen järjestäjän on kuultava oppilasta ja tämän huoltajaa tai laillista edustajaa siten kuin hallintolain (434/2003) 34 §:ssä säädetään sekä hankittava oppilaan opetuksesta vastaavilta selvitys oppilaan oppimisen etenemisestä ja oppilashuollon ammattihenkilöiden kanssa moniammatillisena yhteistyönä tehty selvitys oppilaan saamasta tehostetusta tuesta ja oppilaan kokonaistilanteesta sekä tehtävä näiden perusteella arvio erityisen tuen tarpeesta ( pedagoginen selvitys ). Pedagogista selvitystä on tarvittaessa täydennettävä psykologisella tai lääketieteellisellä asiantuntijalausunnolla tai vastaavalla sosiaalisella selvityksellä. (30.12.2013/1288)
+Ennen erityistä tukea koskevan päätöksen tekemistä opetuksen järjestäjän on kuultava oppilasta ja tämän huoltajaa tai laillista edustajaa siten kuin hallintolain (434/2003) 34 §:ssä säädetään sekä hankittava oppilaan opetuksesta vastaavilta selvitys oppilaan oppimisen etenemisestä ja oppilashuollon ammattihenkilöiden kanssa moniammatillisena yhteistyönä tehty selvitys oppilaan saamasta tehostetusta tuesta ja oppilaan kokonaistilanteesta sekä tehtävä näiden perusteella arvio erityisen tuen tarpeesta (pedagoginen selvitys). Pedagogista selvitystä on tarvittaessa täydennettävä psykologisella tai lääketieteellisellä asiantuntijalausunnolla tai vastaavalla sosiaalisella selvityksellä. (30.12.2013/1288)
 
 Erityisen tuen päätös voidaan tehdä ennen esi- tai perusopetuksen alkamista taikka esi- tai perusopetuksen aikana ilman sitä edeltävää pedagogista selvitystä ja oppimisen tehostetun tuen antamista, jos psykologisen tai lääketieteellisen arvion perusteella ilmenee, että oppilaan opetusta ei vamman, sairauden, kehityksessä viivästymisen tai tunne-elämän häiriön taikka muun vastaavan erityisen syyn vuoksi voida antaa muuten. Edellä tarkoitetussa tilanteessa erityisen tuen päätöstä tarkistetaan siten kuin 2 momentissa säädetään.
 
@@ -303,7 +299,7 @@ Koulutuksen tai opetuksen kehittämiseksi järjestettävässä kokeilussa voidaa
 
 - vuosiluokalta toiselle siirtymistä.
 
-Kokeiluluvan myöntää opetusministeriö. Jos kokeilussa ei poiketa 1 momentin 1-3 kohdassa tarkoitetuista säännöksistä eikä tuntijaosta, kokeiluluvan myöntää opetushallitus.
+Kokeiluluvan myöntää opetusministeriö. Jos kokeilussa ei poiketa 1 momentin 1–3 kohdassa tarkoitetuista säännöksistä eikä tuntijaosta, kokeiluluvan myöntää opetushallitus.
 
 Kokeilulupa myönnetään opetuksen järjestäjän hakemuksesta. Lupa tarpeelliseen kokeiluun voidaan myöntää sellaiselle opetuksen järjestäjälle, jolla on edellytykset toteuttaa kokeilu sen tarkoitusta vastaavalla tavalla ja opetukseen liittyviä oppilaiden oikeuksia vaarantamatta. Kun samaan kokeiluun osallistuu useiden opetuksen järjestäjien kouluja, koulut valitaan alueellisesti ja kieliryhmittäin mahdollisimman edustavasti.
 
@@ -481,7 +477,7 @@ Ulkomailla järjestettävässä opetuksessa ja yksityisen yhteisön tai sääti�
 
 Oppilashuollosta säädetään oppilas- ja opiskelijahuoltolaissa (1287/2013). (30.12.2013/1288)
 
-2-4 momentit on kumottu L:lla 30.12.2013/1288.
+2–4 momentit on kumottu L:lla 30.12.2013/1288.
 
 5 momentti on kumottu L:lla 30.12.2013/1267.
 
@@ -547,7 +543,7 @@ Kasvatuskeskusteluun määrää koulun opettaja tai rehtori. Kasvatuskeskustelu 
 
 ### 36 § (13.6.2003/477) Kurinpito
 
-Oppilas, joka häiritsee opetusta tai muuten rikkoo koulun järjestystä taikka menettelee vilpillisesti, voidaan määrätä jälki-istuntoon enintään kahdeksi tunniksi tai hänelle voidaan antaa kirjallinen varoitus. Jos rikkomus on vakava tai jos oppilas jatkaa edellä tarkoitettua epäasiallista käyttäytymistä jälki-istunnon tai kirjallisen varoituksen saatuaan, oppilas voidaan erottaa enintään kolmeksi kuukaudeksi. Kirjallinen varoitus ja määräaikainen erottaminen ovat kurinpitorangaistuksia.
+Oppilas, joka häiritsee opetusta tai muuten rikkoo koulun järjestystä taikka menettelee vilpillisesti, voidaan määrätä jälki-istuntoon enintään kahdeksi tunniksi tai hänelle voidaan antaa kirjallinen varoitus. Jos
 
 https://www.finlex.fi/fi/laki/ajantasa/1998/19980628
 
@@ -561,13 +557,15 @@ https://www.finlex.fi/fi/laki/ajantasa/1998/19980628
 
 Perusopetuslaki 628/1998 - Ajantasainen lainsäädäntö - FINLEX ®
 
+rikkomus on vakava tai jos oppilas jatkaa edellä tarkoitettua epäasiallista käyttäytymistä jälki-istunnon tai kirjallisen varoituksen saatuaan, oppilas voidaan erottaa enintään kolmeksi kuukaudeksi. Kirjallinen varoitus ja määräaikainen erottaminen ovat kurinpitorangaistuksia.
+
 Opetusta häiritsevä oppilas voidaan määrätä poistumaan jäljellä olevan oppitunnin ajaksi luokkahuoneesta tai muusta tilasta, jossa opetusta annetaan, taikka koulun järjestämästä tilaisuudesta.
 
 Oppilaan osallistuminen opetukseen voidaan evätä enintään jäljellä olevan työpäivän ajaksi, jos on olemassa vaara, että toisen oppilaan taikka koulussa tai muussa opetustilassa työskentelevän henkilön turvallisuus kärsii oppilaan väkivaltaisen tai uhkaavan käyttäytymisen vuoksi taikka opetus tai siihen liittyvä toiminta vaikeutuu kohtuuttomasti oppilaan häiritsevän käyttäytymisen vuoksi.
 
 Kotitehtävänsä laiminlyönyt oppilas voidaan määrätä työpäivän päätyttyä enintään tunniksi kerrallaan valvonnan alaisena suorittamaan tehtäviään.
 
-Jälki-istunnossa voidaan teettää kirjallisia tai suullisia tehtäviä, harjoituksia ja tehtäviä, joiden tulee olla kasvatusta, opetusta ja kehitystä tukevia, oikeassa suhteessa oppilaan tekoon tai laiminlyöntiin sekä ikä ja kehitystaso huomioon ottaen oppilaalle sopivia. Oppilas voidaan myös velvoittaa istumaan hiljaa jälkiistunnon ajan. (30.12.2013/1267)
+Jälki-istunnossa voidaan teettää kirjallisia tai suullisia tehtäviä, harjoituksia ja tehtäviä, joiden tulee olla kasvatusta, opetusta ja kehitystä tukevia, oikeassa suhteessa oppilaan tekoon tai laiminlyöntiin sekä ikä ja kehitystaso huomioon ottaen oppilaalle sopivia. Oppilas voidaan myös velvoittaa istumaan hiljaa jälki-istunnon ajan. (30.12.2013/1267)
 
 Jälki-istuntoa ei voida järjestää siten, että oppilas joutuisi sen seurauksena jäämään pois opetussuunnitelman tai muun koulun toimintaa koskevan suunnitelman mukaisesta opetuksesta. (30.12.2013/1267)
 
@@ -583,12 +581,11 @@ Kun oppilas on käyttäytynyt niin väkivaltaisesti tai uhkaavasti, että toisen
 
 Määräaikaista erottamista koskevan päätöksen täytäntöönpanosta lainvoimaa vailla olevana ja täytäntöönpanon alkamisen ajankohdasta on päätettävä samalla kun määräaikaisesta erottamisesta päätetään.
 
-Rehtorin ja opettajan päätösvallasta jälki-istunnon määräämisessä sekä 36 §:n 2-4 momentissa tarkoitetusta asiasta säädetään tarkemmin valtioneuvoston asetuksella.
+Rehtorin ja opettajan päätösvallasta jälki-istunnon määräämisessä sekä 36 §:n 2–4 momentissa tarkoitetusta asiasta säädetään tarkemmin valtioneuvoston asetuksella.
 
 Määräaikaisesta erottamisesta päättää opetuksen järjestäjän asianomainen monijäseninen toimielin. Sosiaalihuollosta vastaavan toimielimen edustuksesta käsiteltäessä oppivelvollisen lapsen koulusta erottamista koskevaa asiaa säädetään lastensuojelulain 24 §:n 2 momentissa. Kirjallisen varoituksen antamisesta voi opetuksen järjestäjän niin päättäessä päättää myös koulun rehtori. (30.12.2013/1267)
 
 ### 36 b § (13.6.2003/477) Häiritsevän ja turvallisuutta vaarantavan oppilaan poistaminen
-Rehtorilla ja opettajalla on oikeus poistaa luokkahuoneesta tai muusta opetustilasta taikka koulun tilaisuudesta oppilas, joka ei noudata 36 §:n 2 momentissa tarkoitettua poistumismääräystä. Rehtorilla ja opettajalla on myös oikeus poistaa koulun alueelta oppilas, joka ei poistu saatuaan tiedon 36 §:n 3 momentissa tarkoitetusta opetuksen epäämisestä.
 
 https://www.finlex.fi/fi/laki/ajantasa/1998/19980628
 
@@ -601,6 +598,8 @@ https://www.finlex.fi/fi/laki/ajantasa/1998/19980628
 3/3/2020
 
 Perusopetuslaki 628/1998 - Ajantasainen lainsäädäntö - FINLEX ®
+
+Rehtorilla ja opettajalla on oikeus poistaa luokkahuoneesta tai muusta opetustilasta taikka koulun tilaisuudesta oppilas, joka ei noudata 36 §:n 2 momentissa tarkoitettua poistumismääräystä. Rehtorilla ja opettajalla on myös oikeus poistaa koulun alueelta oppilas, joka ei poistu saatuaan tiedon 36 §:n 3 momentissa tarkoitetusta opetuksen epäämisestä.
 
 Jos poistettava oppilas koettaa vastarintaa tekemällä välttää poistamisen, rehtorilla ja opettajalla on oikeus käyttää sellaisia oppilaan poistamiseksi välttämättömiä voimakeinoja, joita voidaan pitää puolustettavina oppilaan ikä ja tilanteen uhkaavuus tai vastarinnan vakavuus sekä tilanteen kokonaisarviointi huomioon ottaen.
 
@@ -837,7 +836,7 @@ Jos oppilaan huoltaja laiminlyö velvollisuutensa valvoa oppivelvollisuuden täy
 
 ### 46 § (29.12.2016/1507) Oppivelvollisuusiän ylittäneiden perusopetus
 
-Oppivelvollisuusiän ylittäneiden perusopetukseen sovelletaan, mitä 2 §:ssä, 3 §:n 1 ja 2 momentissa, 9 §:n 1 momentissa, 10, 12-15, 18-22 ja 29 §:ssä, 30 §:n 1 momentissa sekä 35, 37, 38 ja 40-44 §:ssä säädetään. Opetus, oppikirjat ja muu oppimateriaali, työvälineet ja työaineet ovat opiskelijalle maksuttomia. Opetuksessa, joka on kunnan tai kuntayhtymän päätöksen taikka 7 §:ssä tarkoitettuun lupaan sisältyvän määräyksen perusteella järjestetty sisäoppilaitosmuotoisesti, opiskelijalla on oikeus maksuttomaan asumiseen sekä riittävään päivittäiseen maksuttomaan ruokailuun. Päätoimisissa opinnoissa opiskelijalla on oikeus maksuttomaan ateriaan niinä työpäivinä, joina opetussuunnitelma edellyttää opiskelijan läsnäoloa opetuksen järjestäjän osoittamassa koulutuspaikassa. Opiskelijalle voidaan 36 §:n 1 momentissa säädetyillä perusteilla antaa kirjallinen varoitus tai opiskelija voidaan erottaa enintään yhdeksi vuodeksi. Opiskelijalle, joka on täyttänyt 18 vuotta, opetetaan hänen valintansa mukaisesti joko uskontoa tai elämänkatsomustietoa.
+Oppivelvollisuusiän ylittäneiden perusopetukseen sovelletaan, mitä 2 §:ssä, 3 §:n 1 ja 2 momentissa, 9 §:n 1 momentissa, 10, 12–15, 18–22 ja 29 §:ssä, 30 §:n 1 momentissa sekä 35, 37, 38 ja 40–44 §:ssä säädetään. Opetus, oppikirjat ja muu oppimateriaali, työvälineet ja työaineet ovat opiskelijalle maksuttomia. Opetuksessa, joka on kunnan tai kuntayhtymän päätöksen taikka 7 §:ssä tarkoitettuun lupaan sisältyvän määräyksen perusteella järjestetty sisäoppilaitosmuotoisesti, opiskelijalla on oikeus maksuttomaan asumiseen sekä riittävään päivittäiseen maksuttomaan ruokailuun. Päätoimisissa opinnoissa opiskelijalla on oikeus maksuttomaan ateriaan niinä työpäivinä, joina opetussuunnitelma edellyttää opiskelijan läsnäoloa opetuksen järjestäjän osoittamassa koulutuspaikassa. Opiskelijalle voidaan 36 §:n 1 momentissa säädetyillä perusteilla antaa kirjallinen varoitus tai opiskelija voidaan erottaa enintään yhdeksi vuodeksi. Opiskelijalle, joka on täyttänyt 18 vuotta, opetetaan hänen valintansa mukaisesti joko uskontoa tai elämänkatsomustietoa.
 
 Opiskelijaksi voidaan ottaa myös sellainen henkilö, jonka tarkoituksena on ainoastaan yhden tai useamman perusopetuksen oppimäärään kuuluvan oppiaineen suorittaminen. Tässä momentissa tarkoitetuilta opiskelijoilta voidaan periä opetuksesta kohtuullisia maksuja.
 
@@ -904,11 +903,11 @@ Tarkemmat säännökset tämän lain täytäntöönpanosta annetaan asetuksella.
 ## 8 a luku (19.12.2003/1136) Aamu- ja iltapäivätoiminta
 ### 48 a § (19.12.2003/1136) Tavoitteet ja perusteet
 
-Aamu- ja iltapäivätoiminnan tavoitteena on tukea kodin ja koulun kasvatustyötä sekä lapsen tunne-elämän kehitystä ja eettistä kasvua. Lisäksi aamu- ja iltapäivätoiminnan tulee edistää lasten hyvinvointia ja tasaarvoisuutta yhteiskunnassa sekä ennaltaehkäistä syrjäytymistä ja lisätä osallisuutta.
+Aamu- ja iltapäivätoiminnan tavoitteena on tukea kodin ja koulun kasvatustyötä sekä lapsen tunne-elämän kehitystä ja eettistä kasvua. Lisäksi aamu- ja iltapäivätoiminnan tulee edistää lasten hyvinvointia ja tasa-arvoisuutta yhteiskunnassa sekä ennaltaehkäistä syrjäytymistä ja lisätä osallisuutta.
 
 Aamu- ja iltapäivätoiminnan tulee tarjota lapsille monipuoliset mahdollisuudet osallistua ohjattuun ja virkistävään toimintaan sekä mahdollistaa lepo rauhallisessa ympäristössä, ammattitaitoisen ja tehtävään soveltuvan henkilön valvonnassa.
 
-Opetushallitus päättää tässä laissa tarkoitetun aamu- ja iltapäivätoiminnan tavoitteista ja keskeisistä sisällöistä ( aamu- ja iltapäivätoiminnan perusteet ). Opetushallitus valmistelee perusteet yhteistyössä sosiaali- ja terveysalan tutkimus- ja kehittämiskeskuksen kanssa.
+Opetushallitus päättää tässä laissa tarkoitetun aamu- ja iltapäivätoiminnan tavoitteista ja keskeisistä sisällöistä (aamu- ja iltapäivätoiminnan perusteet). Opetushallitus valmistelee perusteet yhteistyössä sosiaali- ja terveysalan tutkimus- ja kehittämiskeskuksen kanssa.
 
 ### 48 b § (19.12.2003/1136) Järjestäminen ja laajuus
 
@@ -918,14 +917,13 @@ Aamu- ja iltapäivätoimintaan tulee hakea kunnan edellyttämällä tavalla. Kun
 
 Kunta voi järjestää aamu- ja iltapäivätoimintaa itse tai yhdessä muiden kuntien kanssa taikka hankkia palvelut muulta julkiselta tai yksityiseltä palvelujen tuottajalta. Kunta voi myös hankkia palvelut antamalla tähän tarkoitukseen avustusta palvelujen tuottajalle. Toimintaa järjestettäessä tulee ottaa huomioon eri kieliryhmien tarpeet. Kunta vastaa siitä, että sen hankkimat palvelut järjestetään tämän lain mukaisesti. Aamu- ja iltapäivätoimintaa järjestettäessä tulee ottaa huomioon, että niillä toimintaan osallistuvilla lapsilla, joilla on 32 §:n mukainen oikeus koulumatkaetuun, on mahdollisuus käyttää tätä etuutta.
 
-Aamu- ja iltapäivätoimintaa tulee tarjota joko 570 tuntia tai 760 tuntia koulun työvuoden aikana kullekin toimintaan osallistuvalle lapselle. Toimintaan osallistuminen on lapselle vapaaehtoista. Toimintaa voidaan järjestää koulun työvuoden aikana arkipäivisin pääsääntöisesti kello 7.00-17.00 välisenä aikana. Toimintaa suunniteltaessa tulee olla yhteistyössä kotien ja toiminnan järjestäjien kanssa. Kunnan tulee hyväksyä tässä laissa tarkoitettua aamu- ja iltapäivätoimintaa varten toimintasuunnitelma. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä toimintasuunnitelman sisällöstä. (8.12.2006/1081)
+Aamu- ja iltapäivätoimintaa tulee tarjota joko 570 tuntia tai 760 tuntia koulun työvuoden aikana kullekin toimintaan osallistuvalle lapselle. Toimintaan osallistuminen on lapselle vapaaehtoista. Toimintaa voidaan järjestää koulun työvuoden aikana arkipäivisin pääsääntöisesti kello 7.00–17.00 välisenä aikana. Toimintaa suunniteltaessa tulee olla yhteistyössä kotien ja toiminnan järjestäjien kanssa. Kunnan tulee hyväksyä tässä laissa tarkoitettua aamu- ja iltapäivätoimintaa varten toimintasuunnitelma. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä toimintasuunnitelman sisällöstä. (8.12.2006/1081)
 
 ### 48 c § (19.12.2003/1136) Arviointi
 
 Aamu- ja iltapäivätoiminnan arvioinnin tarkoituksena on turvata 48 a §:n mukaisten tavoitteiden toteutuminen. Kunnan tulee arvioida antamaansa tai hankkimaansa aamu- ja iltapäivätoimintaa sekä osallistua toimintansa ulkopuoliseen arviointiin. Arviointien keskeiset tulokset tulee julkistaa.
 
 ### 48 d § (19.12.2003/1136) Oikeus turvalliseen toimintaympäristöön ja opintososiaalisiin etuihin
-Aamu- ja iltapäivätoimintaan osallistuvalla lapsella on oikeus turvalliseen toimintaympäristöön. Aamu- ja iltapäivätoimintaan osallistuvalle lapselle on tarjottava välipala. Aamu- ja iltapäivätoiminnassa sattuneen tapaturman hoito on lapselle maksuton.
 
 https://www.finlex.fi/fi/laki/ajantasa/1998/19980628
 
@@ -938,6 +936,8 @@ https://www.finlex.fi/fi/laki/ajantasa/1998/19980628
 3/3/2020
 
 Perusopetuslaki 628/1998 - Ajantasainen lainsäädäntö - FINLEX ®
+
+Aamu- ja iltapäivätoimintaan osallistuvalla lapsella on oikeus turvalliseen toimintaympäristöön. Aamu- ja iltapäivätoimintaan osallistuvalle lapselle on tarjottava välipala. Aamu- ja iltapäivätoiminnassa sattuneen tapaturman hoito on lapselle maksuton.
 
 ### 48 e § (19.12.2003/1136) Henkilöstö
 
@@ -997,7 +997,7 @@ Perusopetuslaki 628/1998 - Ajantasainen lainsäädäntö - FINLEX ®
 
 Ennen tämän lain voimaantuloa voidaan ryhtyä sen täytäntöönpanon edellyttämiin toimenpiteisiin.
 
-Sovellettaessa peruskoululain 102 §:n 4 momenttia on sellaisella opettajalla, joka on itse siirtynyt entistä tointaan tai tehtäväänsä vastaavaan peruskoulun, kunnan lukion tai iltalukion virkaan tai tehtävään, oikeus hakemuksesta saada lukea välittömästi siirtymistään edeltänyt aika peruskoululain 71 ja 73 §:n mukaiseen valtion varoista suoritettavaan eläkkeeseen ja perhe-eläkkeeseen oikeuttavaksi ajaksi siten kuin peruskoululain 101 §:n nojalla siirretyllä opettajalla. Vastaava oikeus hyväksilukemiseen on hakemuksesta myös sellaisella opettajalla, jolla on ennen siirtoa tai siirtymistään ollut oikeus työntekijäin eläkelain (395/1961) mukaiseen eläkkeeseen opetustehtävistä. Hakemus toimitetaan valtiokonttorille. Valtion varoista suoritettavasta eläkkeestä ja perhe-eläkkeestä vähennetään työntekijäin eläkelain mukainen eläke ja perheeläke siltä osin kuin se perustuu samaan palvelusaikaan. (1.10.1999/932)
+Sovellettaessa peruskoululain 102 §:n 4 momenttia on sellaisella opettajalla, joka on itse siirtynyt entistä tointaan tai tehtäväänsä vastaavaan peruskoulun, kunnan lukion tai iltalukion virkaan tai tehtävään, oikeus hakemuksesta saada lukea välittömästi siirtymistään edeltänyt aika peruskoululain 71 ja 73 §:n mukaiseen valtion varoista suoritettavaan eläkkeeseen ja perhe-eläkkeeseen oikeuttavaksi ajaksi siten kuin peruskoululain 101 §:n nojalla siirretyllä opettajalla. Vastaava oikeus hyväksilukemiseen on hakemuksesta myös sellaisella opettajalla, jolla on ennen siirtoa tai siirtymistään ollut oikeus työntekijäin eläkelain (395/1961) mukaiseen eläkkeeseen opetustehtävistä. Hakemus toimitetaan valtiokonttorille. Valtion varoista suoritettavasta eläkkeestä ja perhe-eläkkeestä vähennetään työntekijäin eläkelain mukainen eläke ja perhe-eläke siltä osin kuin se perustuu samaan palvelusaikaan. (1.10.1999/932)
 
 ### 50 § Kumottavien säännösten nojalla annettujen määräysten ja päätösten soveltaminen
 
@@ -1005,7 +1005,7 @@ Edellä 49 §:n 2 momentissa mainittujen lakien nojalla annetut tuntijakoa ja op
 
 Opetuksessa voidaan noudattaa 49 §:n 2 momentissa mainittujen lakien nojalla hyväksyttyjä opetussuunnitelmia, kunnes opetuksen järjestäjä hyväksyy tämän lain mukaisen opetussuunnitelman.
 
-Tässä pykälässä tarkoitettuihin päätöksiin sisältyviä määräyksiä ala-asteesta sovelletaan 1-6 luokalla annettavaan opetukseen ja määräyksiä yläasteesta sovelletaan 7-9 luokalla annettavaan opetukseen.
+Tässä pykälässä tarkoitettuihin päätöksiin sisältyviä määräyksiä ala-asteesta sovelletaan 1–6 luokalla annettavaan opetukseen ja määräyksiä yläasteesta sovelletaan 7–9 luokalla annettavaan opetukseen.
 
 Edellä 49 §:n 2 momentissa mainittujen lakien nojalla tehdyt esiopetuksen järjestämistä koskevat päätökset ovat voimassa päätöksissä määrätyn ajan, jollei asianomainen ministeriö toisin päätä.
 
@@ -1015,7 +1015,7 @@ Edellä 49 §:n 2 momentissa mainittujen lakien nojalla asetetut toimielimet jat
 
 Edellä 49 §:n 2 momentissa mainittujen lakien ja lastensuojelulain (683/1983) 33 §:n nojalla tämän lain voimaan tullessa toimivien koulujen ylläpitäjät jatkavat toimintaansa tässä laissa tai lukiolaissa (629/1998) tarkoitetun opetuksen järjestäjinä. Peruskoulua korvaava koulu jatkaa toimintaansa 7 §:ssä tarkoitettuna kouluna.
 
-Asianomainen ministeriö päättää tarvittaessa tämän lain voimaan tullessa toimivan yksityisen koulun ylläpitäjälle opetuksen järjestämistä varten myönnetyn luvan muuttamisesta 7 §:n 3 momentin ja lukiolain 4 §:n 2 momentin mukaiseksi luvaksi. Sen estämättä mitä 10 §:ssä säädetään, voi Helsingin Rudolf Steiner koulun opetuskielenä olla sekä suomi että ruotsi.
+Asianomainen ministeriö päättää tarvittaessa tämän lain voimaan tullessa toimivan yksityisen koulun ylläpitäjälle opetuksen järjestämistä varten myönnetyn luvan muuttamisesta 7 §:n 3 momentin ja lukiolain 4 §:n 2 momentin mukaiseksi luvaksi. Sen estämättä mitä 10 §:ssä säädetään, voi Helsingin Rudolf Steiner -koulun opetuskielenä olla sekä suomi että ruotsi.
 
 LukioL 629/1998 on kumottu LukioL:lla 714/2018.
 
