@@ -6,6 +6,12 @@ de Educación
 
 R e p ú b l i c a   d e l   P e r ú
 
+Década de la Educación Inclusiva 2003-2012
+
+Año del Centenario de Machu Picchu para el Mundo
+
+1 4   d e   S e t i e m b r e   d e   2 0 1 1
+
 # LEY Nº 28628
 
 EL PRESIDENTE DE LA REPÚBLICA POR CUANTO: El Congreso de la República Ha dado la Ley siguiente: EL CONGRESO DE LA REPÚBLICA; Ha dado la Ley siguiente:
@@ -21,12 +27,6 @@ La presente Ley se aplica a las instituciones educativas públicas de Educación
 Los padres de familia participan en el proceso educativo de sus hijos de modo directo; también lo hacen de manera institucional, a través de las asociaciones de padres de familia de las instituciones educativas públicas y los consejos educativos institucionales. Los servidores y funcionarios del Ministerio de Educación, direcciones regionales de educación y unidades de gestión educativa local así como el personal directivo y jerárquico de las instituciones educativas apoyan a las asociaciones de padres de familia sin interferir en sus actividades; salvo que éstas pongan en peligro el normal funcionamiento de las instituciones.
 ### CAPÍTULO II DE LA ASOCIACIÓN DE PADRES DE FAMILIA
 #### Artículo 4.- Definición
-
-Década de la Educación Inclusiva 2003-2012
-
-Año del Centenario de Machu Picchu para el Mundo
-
-1 4   d e   S e t i e m b r e   d e   2 0 1 1
 
 [[END OF PAGE 1]]
 
@@ -100,21 +100,21 @@ Las APAFA deben contar, cuando menos, con la siguiente estructura orgánica bás
 
 - Órganos de Gobierno:
 
-- ring2 La Asamblea General.
+- La Asamblea General.
 
-- ring2 El Consejo Directivo.
+- El Consejo Directivo.
 
 - Órganos de Participación:
 
-- ring2 El Pleno de los Presidentes de los Comités de Aula y de los Comités de Talleres.
+- El Pleno de los Presidentes de los Comités de Aula y de los Comités de Talleres.
 
-- ring2 Los Comités de Aula. y,
+- Los Comités de Aula. y,
 
-- ring2 Los Comités de Talleres.
+- Los Comités de Talleres.
 
 - Órgano de Control:
 
-- ring2 El Consejo de Vigilancia.
+- El Consejo de Vigilancia.
 
 #### Artículo 8.- Asamblea General
 
@@ -198,7 +198,7 @@ Los padres de familia, tutores y curadores tienen derecho a:
 
 - Recibir información sobre los niveles de aprendizaje y conducta de sus hijos, tutelados y curados.
 
-- Participar en la APAFA y en los órganos de concertación, participación y vigilancia ciudadana previstos por la Ley General de Educación, conforme al artículo 6, numeral 1, inciso I).
+- Participar en la APAFA y en los órganos de concertación, participación y vigilancia ciudadana previstos por la Ley General de Educación, conforme al artículo 6, numeral 1, inciso l).
 
 - Recibir información de la gestión de la APAFA.
 
@@ -212,7 +212,7 @@ Los padres de familia, tutores y curadores tienen derecho a:
 
 [[START OF PAGE 5]]
 
-- educativas.
+educativas.
 
 - Ser atendido en las instituciones educativas por las autoridades, personal administrativo y docente, en horarios de atención al público, sin afectar el normal desarrollo de las actividades académicas.
 
@@ -243,7 +243,7 @@ Son recursos de la APAFA los siguientes:
 
 - Otros recursos que le sean asignados, conforme a su estatuto.
 
-La APAFA esta impedida de realizar cobros que limiten el libre acceso a la educación y permanencia de los estudiantes en la institución educativa. El pago de la cuota ordinaria anual o extraordinaria no constituye requisito para matricular a los estudiantes. Si el miembro tuviese dificultades económicas para su cancelación, la APAFA debe autorizar el pago fraccionado; la compensación con servicios a prestar a favor de la institución educativa; u otras facilidades contempladas en el estatuto o establecidas por la Asamblea General.
+La APAFA está impedida de realizar cobros que limiten el libre acceso a la educación y permanencia de los estudiantes en la institución educativa. El pago de la cuota ordinaria anual o extraordinaria no constituye requisito para matricular a los estudiantes. Si el miembro tuviese dificultades económicas para su cancelación, la APAFA debe autorizar el pago fraccionado; la compensación con servicios a prestar a favor de la institución educativa; u otras facilidades contempladas en el estatuto o establecidas por la Asamblea General.
 
 #### Artículo 16.- Destino de los recursos
 
@@ -271,20 +271,52 @@ Los bienes adquiridos por la APAFA, y destinados a la institución educativa deb
 La APAFA puede establecer relaciones de coordinación con instituciones públicas y privadas, nacionales e internacionales, así como con asociaciones similares.
 ### DISPOSICIONES COMPLEMENTARIAS, TRANSITORIAS Y FINALES
 #### PRIMERA.- Aplicación progresiva del artículo 6 numeral 1, incisos h) y l)
-Las atribuciones establecidas en el artículo 6, numeral 1, incisos h) y I) se implementarán, en el ámbito de cada nivel de Gestión Intermedia Descentralizada, cuando los órganos de grado superior de las APAFA sean constituidos legalmente y de acuerdo a los requisitos que se establezcan en el reglamento.
+Las atribuciones establecidas en el artículo 6, numeral 1, incisos h) y l) se implementarán, en el ámbito de cada nivel de Gestión Intermedia Descentralizada, cuando los órganos de grado superior de las APAFA sean constituidos legalmente y de acuerdo a los requisitos que se establezcan en el reglamento.
 #### SEGUNDA.- Reglamento
 Encárgase al Ministerio de Educación elaborar y aprobar el reglamento de esta Ley, durante los sesenta (60) días siguientes a su puesta en vigencia, en concordancia con lo establecido en el Decreto Supremo Nº 018-2004-ED, en lo que sea pertinente.
 #### TERCERA.- Simplificación de trámites
 Las Asociaciones de Padres de Familia se inscriben en los Registros Públicos por el mérito de su Acta de Constitución.
 #### CUARTA.- Registro
-Créase el Registro de Dirigentes de las Asociaciones de Padres de Familia en cada Unidad de Gestión Educativa Local (UGEL) y Dirección Regional de Educación, según corresponda. Dicho registro funciona de manera interconectada en el ámbito nacional. El reglamento establece sus alcances.
-#### QUINTA.- Normas derogatorias
-Deróganse las disposiciones legales que se opongan a la presente Ley. Comuníquese al señor Presidente de la República para su promulgación. En Lima, a los tres días del mes de noviembre de dos mil cinco. MARCIAL AYAIPOMA ALVARADO Presidente del Congreso de la República FAUSTO ALVARADO DODERO Primer Vicepresidente del Congreso de la República AL SEÑOR PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA POR TANTO: Mando se publique y cumpla. Dado en la Casa de Gobierno, en Lima, a los veinticuatro días del mes de noviembre del año dos mil cinco. ALEJANDRO TOLEDO Presidente Constitucional de la República PEDRO PABLO KUCZYNSKI GODARD Presidente del Consejo de Ministros © Ministerio de Educación 2001 - 2008
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-(this page came through the extractor with no text)
+Créase el Registro de Dirigentes de las Asociaciones de Padres de Familia en cada Unidad de Gestión Educativa Local (UGEL) y Dirección Regional de Educación, según corresponda. Dicho registro funciona de manera interconectada en el ámbito nacional. El reglamento establece sus alcances.
+
+#### QUINTA.- Normas derogatorias
+
+Deróganse las disposiciones legales que se opongan a la presente Ley.
+
+Comuníquese al señor Presidente de la República para su promulgación.
+
+En Lima, a los tres días del mes de noviembre de dos mil cinco.
+
+MARCIAL AYAIPOMA ALVARADO
+
+Presidente del Congreso de la República
+
+FAUSTO ALVARADO DODERO
+
+Primer Vicepresidente del
+Congreso de la República
+
+AL SEÑOR PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
+
+POR TANTO:
+
+Mando se publique y cumpla.
+
+Dado en la Casa de Gobierno, en Lima, a los veinticuatro días del mes de noviembre del año dos mil cinco.
+
+ALEJANDRO TOLEDO
+
+Presidente Constitucional de la República
+
+PEDRO PABLO KUCZYNSKI GODARD
+
+Presidente del Consejo de Ministros
+
+© Ministerio de Educación 2001 - 2008
 
 [[END OF PAGE 7]]
