@@ -1,36 +1,4 @@
 [[START OF PAGE 1]]
-
-Section
-
-- Short title and commencement.
-
-- Interpretation.
-
-- Regulations.
-
-- Expenses.
-
-- Reports on operation of Act.
-
-- Service of documents.
-
-- Offences.
-
-- Repeals.
-
-### PART II
-#### National Educational Welfare Board
-
-- Establishment of National Educational Welfare Board.
-
-- Functions of Board.
-
-- Educational welfare officers.
-
-- Liaison officer.
-
-- Directions of Minister.
-
 --------
 
 Number 22 of 2000
@@ -45,6 +13,37 @@ Number 22 of 2000
 
 ### PART I
 #### Preliminary and General
+
+Section
+
+1. Short title and commencement.
+
+2. Interpretation.
+
+3. Regulations.
+
+4. Expenses.
+
+5. Reports on operation of Act.
+
+6. Service of documents.
+
+7. Offences.
+
+8. Repeals.
+
+### PART II
+#### National Educational Welfare Board
+
+9. Establishment of National Educational Welfare Board.
+
+10. Functions of Board.
+
+11. Educational welfare officers.
+
+12. Liaison officer.
+
+13. Directions of Minister.
 
 1
 
@@ -64,65 +63,65 @@ Education (Welfare) Act, 2000.
 
 Section
 
-- Register of children receiving education in a place other than a school.
+14. Register of children receiving education in a place other than a school.
 
-- Appeal against decision of Board.
+15. Appeal against decision of Board.
 
-- Minister may issue guidelines and make recommendations.
+16. Minister may issue guidelines and make recommendations.
 
-- Parent to cause child to attend school.
+17. Parent to cause child to attend school.
 
-- Notification of child's absence from school.
+18. Notification of child's absence from school.
 
-- Admission of child to recognised school.
+19. Admission of child to recognised school.
 
-- School registers.
+20. School registers.
 
-- School attendance records.
+21. School attendance records.
 
-- School attendance strategies.
+22. School attendance strategies.
 
-- Code of behaviour.
+23. Code of behaviour.
 
-- Expulsion of student from recognised school.
+24. Expulsion of student from recognised school.
 
-- School attendance notice.
+25. School attendance notice.
 
-- Right of Board to appeal etc. decision of board of management under section 29 of Act of 1998.
+26. Right of Board to appeal etc. decision of board of management under section 29 of Act of 1998.
 
-- Miscellaneous duties of Board in relation to certain children and parents of certain children.
+27. Miscellaneous duties of Board in relation to certain children and parents of certain children.
 
-- Supply of personal data etc. to prescribed bodies.
+28. Supply of personal data etc. to prescribed bodies.
 
-- Register of young persons in employment.
+29. Register of young persons in employment.
 
-- Functions of educational welfare officers.
+30. Functions of educational welfare officers.
 
-- Amendment of Act of 1996.
+31. Amendment of Act of 1996.
 
 ### PART IV
 
 #### Provisions Relating to Finance and Staff of Board
 
-- Grants to Board.
+32. Grants to Board.
 
-- Accounts and audits.
+33. Accounts and audits.
 
-- Reports and information.
+34. Reports and information.
 
-- Gifts.
+35. Gifts.
 
-- Chief Executive.
+36. Chief Executive.
 
-- Staff.
+37. Staff.
 
-- Remuneration of staff.
+38. Remuneration of staff.
 
-- Performance of functions of Board by members of staff.
+39. Performance of functions of Board by members of staff.
 
-- Transfer of staff.
+40. Transfer of staff.
 
-- Superannuation.
+41. Superannuation.
 
 2
 
@@ -183,7 +182,7 @@ Number 22 of 2000
 
 --------
 
-AN ACT TO PROVIDE FOR THE ENTITLEMENT OF EVERY CHILD IN THE STATE TO A CERTAIN MINIMUM EDUCATION, AND, FOR THAT PURPOSE, TO PROVIDE FOR THE REGISTRATION OF CHILDREN RECEIVING EDUCATION IN PLACES OTHER THAN RECOGNISED SCHOOLS, THE COMPULSORY ATTENDANCE OF CERTAIN CHILDREN AT RECOGNISED SCHOOLS, THE ESTABLISHMENT OF A BODY, TO BE KNOWN AS THE NATIONAL EDUCATIONAL WELFARE BOARD OR, IN THE IRISH LANGUAGE, AN BORD NA ´ ISIU ´ NTA LEASA OIDEACHAIS, THE COORDINATION OF ITS ACTIVITIES AND THOSE OF CERTAIN OTHER PERSONS IN SO FAR AS THEY RELATE TO MATTERS CONNECTED WITH SCHOOL ATTENDANCE, THE IDENTIFICATION OF THE CAUSES OF NON-ATTENDANCE ON THE PART OF CERTAIN STUDENTS AND THE ADOPTION OF MEASURES FOR ITS PREVENTION, TO REPEAL THE SCHOOL ATTENDANCE ACTS, 1926 TO 1967, TO PERMIT THE SUPPLY OF DATA RELATING TO A PERSON'S EDUCATIONAL HISTORY TO CERTAIN PERSONS, TO PROVIDE FOR THE AMENDMENT OF THE PROTECTION OF YOUNG PERSONS (EMPLOYMENT) ACT, 1996, AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH. [5 th July , 2000]
+AN ACT TO PROVIDE FOR THE ENTITLEMENT OF EVERY CHILD IN THE STATE TO A CERTAIN MINIMUM EDUCATION, AND, FOR THAT PURPOSE, TO PROVIDE FOR THE REGISTRATION OF CHILDREN RECEIVING EDUCATION IN PLACES OTHER THAN RECOGNISED SCHOOLS, THE COMPULSORY ATTENDANCE OF CERTAIN CHILDREN AT RECOGNISED SCHOOLS, THE ESTABLISHMENT OF A BODY, TO BE KNOWN AS THE NATIONAL EDUCATIONAL WELFARE BOARD OR, IN THE IRISH LANGUAGE, AN BORD NÁISIÚNTA LEASA OIDEACHAIS, THE COORDINATION OF ITS ACTIVITIES AND THOSE OF CERTAIN OTHER PERSONS IN SO FAR AS THEY RELATE TO MATTERS CONNECTED WITH SCHOOL ATTENDANCE, THE IDENTIFICATION OF THE CAUSES OF NON-ATTENDANCE ON THE PART OF CERTAIN STUDENTS AND THE ADOPTION OF MEASURES FOR ITS PREVENTION, TO REPEAL THE SCHOOL ATTENDANCE ACTS, 1926 TO 1967, TO PERMIT THE SUPPLY OF DATA RELATING TO A PERSON'S EDUCATIONAL HISTORY TO CERTAIN PERSONS, TO PROVIDE FOR THE AMENDMENT OF THE PROTECTION OF YOUNG PERSONS (EMPLOYMENT) ACT, 1996, AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH. [5th July, 2000]
 
 BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
 
@@ -191,13 +190,13 @@ BE IT ENACTED BY THE OIREACHTAS AS FOLLOWS:
 
 ### Preliminary and General
 
-1. -(1) This Act may be cited as the Education (Welfare) Act, 2000.
+#### Short title and commencement.
 
-(2) Subject to subsection (3) , this Act shall come into operation on such day or days as the Minister may appoint by order or orders either generally or with reference to any particular purpose or provision and different days may be so appointed for different purposes or different provisions.
+1.—(1) This Act may be cited as the Education (Welfare) Act, 2000.
+
+(2) Subject to subsection (3), this Act shall come into operation on such day or days as the Minister may appoint by order or orders either generally or with reference to any particular purpose or provision and different days may be so appointed for different purposes or different provisions.
 
 (3) This Act shall, in so far as it is not in operation, come into operation 2 years after the date of its passing.
-
-#### Short title and commencement.
 
 5
 
@@ -265,11 +264,11 @@ whichever occurs later, but shall not include a person who has reached the age o
 
 [[START OF PAGE 7]]
 
-[2000.] Education (Welfare) Act, 2000. [
+[2000.] Education (Welfare) Act, 2000. [ No. 22. ]
 
-No. 22. ]
+Pt.I S.2
 
-''principal'' shall be construed in accordance with section 23 of the Act of 1998, and includes any person (other than a person to whom that section applies), for the time being, performing the functions of principal, in relation to a recognised school, under that Act; Pt.I S.2
+''principal'' shall be construed in accordance with section 23 of the Act of 1998, and includes any person (other than a person to whom that section applies), for the time being, performing the functions of principal, in relation to a recognised school, under that Act;
 
 ''recognised school'' means-
 
@@ -299,9 +298,9 @@ No. 22. ]
 
 (4) In this Act, a reference to any enactment shall be construed as a reference to that enactment as amended, adapted or extended, whether before or after the commencement of this subsection, by or under any subsequent enactment.
 
-3. -Every regulation under this Act shall be laid by the Minister before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation is passed by either such House within the next 21 days on which that House sits after the regulation is laid before it, the regulation shall be annulled accordingly but without prejudice to the validity of anything previously done thereunder.
-
 #### Regulations.
+
+3.—Every regulation under this Act shall be laid by the Minister before each House of the Oireachtas as soon as may be after it is made and, if a resolution annulling the regulation is passed by either such House within the next 21 days on which that House sits after the regulation is laid before it, the regulation shall be annulled accordingly but without prejudice to the validity of anything previously done thereunder.
 
 7
 
@@ -319,41 +318,41 @@ Pt.I
 
 #### Expenses.
 
+4.—The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of monies provided by the Oireachtas.
+
 #### Reports on operation of Act.
+
+5.—The Minister shall, as soon as may be after the end of each of the 2 years immediately following the passing of this Act, prepare a report on the operation, in the preceding year, of this Act, and shall cause copies of each such report to be laid before both Houses of the Oireachtas.
 
 #### Service of documents.
 
-#### Offences.
+6.—(1) A notice or other document under this Act shall be addressed to the person concerned by name, and may be served on or given to the person in one of the following ways:
 
-#### Repeals.
+(a) by delivering it to the person,
 
-#### Establishment of National Educational Welfare Board.
+(b) by leaving it at the address at which the person ordinarily resides or, in a case in which an address for service has been furnished, at that address, or
 
-4. -The expenses incurred by the Minister in the administration of this Act shall, to such extent as may be sanctioned by the Minister for Finance, be paid out of monies provided by the Oireachtas.
-
-5. -The Minister shall, as soon as may be after the end of each of the 2 years immediately following the passing of this Act, prepare a report on the operation, in the preceding year, of this Act, and shall cause copies of each such report to be laid before both Houses of the Oireachtas.
-
-6. -(1) A notice or other document under this Act shall be addressed to the person concerned by name, and may be served on or given to the person in one of the following ways:
-
-( a ) by delivering it to the person,
-
-( b ) by leaving it at the address at which the person ordinarily resides or, in a case in which an address for service has been furnished, at that address, or
-
-( c ) by sending it by post in a prepaid registered letter to the address at which the person ordinarily resides or, in a case in which an address for service has been furnished, to that address.
+(c) by sending it by post in a prepaid registered letter to the address at which the person ordinarily resides or, in a case in which an address for service has been furnished, to that address.
 
 (2) For the purposes of this section, a company within the meaning of the Companies Acts, 1963 to 1999, shall be deemed to be ordinarily resident at its registered office, and every other body corporate and every unincorporated body shall be deemed to be ordinarily resident at its principal office or place of business.
 
-7. -(1) Summary proceedings for an offence under this Act may be brought and prosecuted by the Board.
+#### Offences.
+
+7.—(1) Summary proceedings for an offence under this Act may be brought and prosecuted by the Board.
 
 (2) Where an offence under this Act is committed by a body corporate and is proved to have been so committed with the consent or connivance of or to be attributable to any neglect on the part of any person being a director, manager, secretary or other officer of the body corporate, or a person who was purporting to act in any such capacity, that person, as well as the body corporate, shall be guilty of an offence and shall be liable to be proceeded against and punished as if he or she were guilty of the first-mentioned offence.
 
-8. -The School Attendance Acts, 1926 to 1967, are hereby repealed.
+#### Repeals.
+
+8.—The School Attendance Acts, 1926 to 1967, are hereby repealed.
 
 ## PART II
 
 ### National Educational Welfare Board
 
-9. -(1) There is hereby established a body to be known as the National Educational Welfare Board or, in the Irish language, An Bord Na ´isiu ´ nta Leasa Oideachais (in this Act referred to as ''the Board'') to perform the functions assigned to it by this Act.
+#### Establishment of National Educational Welfare Board.
+
+9.—(1) There is hereby established a body to be known as the National Educational Welfare Board or, in the Irish language, An Bord Náisiúnta Leasa Oideachais (in this Act referred to as ''the Board'') to perform the functions assigned to it by this Act.
 
 (2) The provisions of the Schedule shall have effect in relation to the Board.
 
@@ -363,13 +362,13 @@ Pt.I
 
 [[START OF PAGE 9]]
 
-Education (Welfare) Act, 2000.
+[2000.] Education (Welfare) Act, 2000. [ No. 22. ]
 
-[ No. 22. ]
+Pt.II
 
-[2000.]
+#### Functions of Board.
 
-10. -(1) The general functions of the Board shall be to ensure that each child attends a recognised school or otherwise receives a certain minimum education, and to assist in the formulation and implementation of policies and objectives of the Government for the time being concerning the education of children and, for those purposes, but without prejudice to the generality of the foregoing-
+10.—(1) The general functions of the Board shall be to ensure that each child attends a recognised school or otherwise receives a certain minimum education, and to assist in the formulation and implementation of policies and objectives of the Government for the time being concerning the education of children and, for those purposes, but without prejudice to the generality of the foregoing—
 
 ( a ) to promote and foster in society, and in particular in families, an appreciation of the benefits to be derived from education, in particular as respects the physical, intellectual, emotional, social, cultural and moral development of children, and of the social and economic advantages that flow therefrom,
 
@@ -395,9 +394,7 @@ Education (Welfare) Act, 2000.
 
 (2) The Board shall have all such powers as it considers necessary for the performance of its functions under this Act.
 
-(3) The Board shall, in giving advice or making recommendations to the Minister under this section, have regard to the cost of Pt.II
-
-#### Functions of Board.
+(3) The Board shall, in giving advice or making recommendations to the Minister under this section, have regard to the cost of
 
 9
 
@@ -413,10 +410,6 @@ Education (Welfare) Act, 2000.
 
 Pt.II S.10
 
-#### Educational welfare officers.
-
-#### Liaison officer.
-
 measures that would have to be taken if the Minister were to take such advice or implement such recommendations.
 
 (4) The Board may, with the consent of the parent of the child concerned, arrange for a child to be assessed as to his or her intellectual, emotional and physical development (hereafter in this section referred to as ''an assessment'') by such person as may be determined by the Board with the concurrence of the parent.
@@ -429,6 +422,8 @@ measures that would have to be taken if the Minister were to take such advice or
 
 (8) The Board may, in the performance of its functions, consult with such persons as it considers appropriate.
 
+#### Educational welfare officers.
+
 11. -(1) Subject to section 37 , the Board may appoint such persons or classes of persons as it considers appropriate to be educational welfare officers for the purposes of this Act.
 
 (2) A person appointed under subsection (1) shall, on his or her appointment, be furnished by the Board with a warrant of his or her appointment and when exercising a power conferred by this Act shall, if requested by any person thereby affected, produce such warrant to that person for inspection.
@@ -437,7 +432,9 @@ measures that would have to be taken if the Minister were to take such advice or
 
 (4) The board of management, principal, teachers and other members of staff of a recognised school shall give all such assistance as may reasonably be required by an educational welfare officer in the performance by the educational welfare officer concerned of his or her functions.
 
-(5) An educational welfare officer shall, where appropriate, act in cooperation with the persons referred to in subsection (4) .
+(5) An educational welfare officer shall, where appropriate, act in cooperation with the persons referred to in subsection (4).
+
+#### Liaison officer.
 
 12. -(1) The Board shall, for the purposes of ensuring that, so far as is practicable-
 
@@ -467,7 +464,7 @@ designate one or more of its officers, not below such rank as the Minister shall
 
 (4) A person designated under this section by a relevant authority shall provide the Board with such information as to the policies and activities of the relevant authority concerned in so far as they relate to a function of the Board, as the Board requests or, where the Board has not requested such information, as the relevant authority considers appropriate.
 
-(5) Subsection (4) of this section does not apply to information in the possession of a member of the Garda Sı ´ocha ´na held for the purpose of preventing, detecting or investigating offences, or apprehending or prosecuting persons who have committed, or who are believed by a member of the Garda Sı ´ocha ´na to have committed, offences.
+(5) Subsection (4) of this section does not apply to information in the possession of a member of the Garda Síochána held for the purpose of preventing, detecting or investigating offences, or apprehending or prosecuting persons who have committed, or who are believed by a member of the Garda Síochána to have committed, offences.
 
 (6) For the purposes of this section, each of the following shall be a relevant authority, that is to say:
 
@@ -481,7 +478,7 @@ designate one or more of its officers, not below such rank as the Minister shall
 
 ( e ) the Minister for Arts, Heritage, Gaeltacht and the Islands;
 
-( f ) the Commissioner of the Garda Sı ´ocha ´na;
+(f) the Commissioner of the Garda Síochána;
 
 ( g ) a health board;
 
@@ -493,21 +490,17 @@ designate one or more of its officers, not below such rank as the Minister shall
 
 [[START OF PAGE 12]]
 
-No. 22. ] Education (Welfare) Act, 2000. [2000.]
+[ No. 22. ] Education (Welfare) Act, 2000. [2000.]
 
 Pt.II S.12
-
-#### Directions of Minister.
-
-#### Register of children receiving education in a place other than a school.
-
-[
 
 ( i ) the National Council for Curriculum and Assessment;
 
 ( j ) the National Youth Work Advisory Committee; and
 
-( k ) such other persons as may be prescribed by the Minister.
+(k) such other persons as may be prescribed by the Minister.
+
+#### Directions of Minister.
 
 13. -(1) The Minister may give a direction in writing to the Board requiring it to comply with policy decisions made by the Minister in relation to the functions of the Board.
 
@@ -519,13 +512,15 @@ Pt.II S.12
 
 ### Educational Welfare and Compulsory School Attendance
 
+#### Register of children receiving education in a place other than a school.
+
 14. -(1) The Board shall, on the commencement of this section, cause to be established and maintained a register of all children in receipt of education in a place other than a recognised school (hereafter in this section referred to as ''the register'').
 
 (2) Subject to subsection (3) , where a parent chooses to educate, or have educated, his or her child in a place other than a recognised school he or she shall, in accordance with this section, apply to the Board to have the child concerned registered in the register.
 
 (3) The parent of a child who immediately before the commencement of this section is being educated in a place other than a recognised school shall, if he or she wishes the child to continue to be so educated, apply, not later than 3 months after such commencement, to the Board to have the child concerned registered in the register.
 
-- An application under this section shall-
+(4) An application under this section shall—
 
 ( a ) be in writing,
 
@@ -547,13 +542,11 @@ Pt.II S.12
 
 [[START OF PAGE 13]]
 
-[2000.]
+[2000.] Education (Welfare) Act, 2000. [ No. 22. ]
 
-Education (Welfare) Act, 2000.
+Pt.III S.14
 
-[ No. 22. ]
-
-and if, after receiving a report under subsection (8) in respect of such assessment, the Board is of opinion that it is unable to determine the said matter, it shall, with the consent of the said parent, cause an authorised person toPt.III S.14
+and if, after receiving a report under subsection (8) in respect of such assessment, the Board is of opinion that it is unable to determine the said matter, it shall, with the consent of the said parent, cause an authorised person to—
 
 (i) enter the place at which the child is being educated and observe the child receiving the education that is being provided to him or her,
 
@@ -609,7 +602,7 @@ or
 
 ( b ) if not satisfied that the parent of the child is abiding by an undertaking given pursuant to paragraph (b)(i) of subsection (10) , or paragraph (a)(ii) or complying with a requirement under section 15(6)(c) , remove the child's name from the register.
 
-- Where the parent of a child fails or refuses-
+(13) Where the parent of a child fails or refuses—
 
 ( a ) to give his or her consent to the carrying out, within such period as may be specified by the Board, of an assessment in accordance with subsection (5) or (7) , or
 
@@ -627,7 +620,7 @@ the Board shall-
 
 (16) The Board shall not remove a child's name from the register solely on the ground that the child concerned is prevented from receiving a certain minimum education due to illness, whether of a permanent or temporary nature.
 
-(17) The Board shall, as soon as may be after registering under paragraph (a) or (b)(i) of subsection (10) a child who is registered at a recognised school, so inform by notice in writing the principal of that school, and the principal concerned shall, on receipt of such notification, remove the child's name from the register maintained under section 20 in respect of the school concerned. Pt.III S.14
+(17) The Board shall, as soon as may be after registering under paragraph (a) or (b)(i) of subsection (10) a child who is registered at a recognised school, so inform by notice in writing the principal of that school, and the principal concerned shall, on receipt of such notification, remove the child's name from the register maintained under section 20 in respect of the school concerned.
 
 14
 
@@ -637,21 +630,25 @@ the Board shall-
 
 [2000.] Education (Welfare) Act, 2000. [ No. 22. ]
 
-(18) The Board shall, in the performance of its functions under this section, have regard to such guidelines as may be issued, or such recommendations as may be made, by the Minister under section 16 .
+Pt.III S.14
 
-(19) This section does not apply to-
+(18) The Board shall, in the performance of its functions under this section, have regard to such guidelines as may be issued, or such recommendations as may be made, by the Minister under section 16.
 
-( a ) a child who is being educated at a school outside the State, or
+(19) This section does not apply to—
 
-( b ) a child who is participating in a programme of education, training, instruction or work experience prescribed by the Minister.
+(a) a child who is being educated at a school outside the State, or
 
-( a ) In this section-
+(b) a child who is participating in a programme of education, training, instruction or work experience prescribed by the Minister.
+
+(20) (a) In this section—
 
 ''authorised person'' means an inspector, educational welfare officer or a person appointed by the Board to perform the functions of an authorised person under this section;
 
 ''registered child'' means a child who, for the time being, is registered in the register in accordance with this section.
 
-( b ) For the purposes of this section, the registering of a child in the register shall consist of the entering, in the register, of his or her name and such other particulars relating to the child as may be determined by the Board.
+(b) For the purposes of this section, the registering of a child in the register shall consist of the entering, in the register, of his or her name and such other particulars relating to the child as may be determined by the Board.
+
+#### Appeal against decision of Board.
 
 15. -(1) Where the Board-
 
@@ -669,8 +666,6 @@ the Board shall-
 
 (3) The Minister shall within 14 days of receiving a notice of appeal under subsection (1) appoint a committee to hear and determine an appeal under this section (hereafter in this section referred to as an ''appeal committee'').
 
-#### Appeal against decision of Board.
-
 15
 
 [[END OF PAGE 15]]
@@ -685,10 +680,6 @@ Education (Welfare) Act, 2000.
 
 Pt.III S.15
 
-#### Minister may issue guidelines and make recommendations.
-
-#### Parent to cause child to attend school.
-
 (4) An appeal committee shall consist of such judge of the District Court as shall be nominated by the President of the District Court, such inspector and such other person (other than an officer of the Minister or of the Board) as may be appointed thereto by the Minister.
 
 (5) An appeal committee shall invite the parent of the child concerned and the authorised person who prepared and submitted the report under subsection (8) of section 14 , to make submissions to it concerning the matters to which the appeal relates.
@@ -701,7 +692,9 @@ Pt.III S.15
 
 ( c ) require the Board to register the child concerned in the said register subject to the parent of the child undertaking to comply with such requirements as the appeal committee considers appropriate.
 
-(7) The Board shall comply with a requirement of an appeal committee under subsection (6) .
+(7) The Board shall comply with a requirement of an appeal committee under subsection (6).
+
+#### Minister may issue guidelines and make recommendations.
 
 16. -The Minister may, after consultation with the National Council for Curriculum and Assessment and such other persons (if any) as the Minister considers appropriate-
 
@@ -710,6 +703,8 @@ Pt.III S.15
 ( b ) make recommendations of a general nature,
 
 to the Board, for the purpose of assisting the Board in determining whether a child is receiving a certain minimum education.
+
+#### Parent to cause child to attend school.
 
 17. -(1) Subject to subsection (2) , the parent of a child shall cause the child concerned to attend a recognised school on each school day.
 
@@ -733,21 +728,29 @@ Education (Welfare) Act, 2000.
 
 [ No. 22. ]
 
+Pt.III S.17
+
 ( d ) the child is temporarily attending a school outside the State and the parent of the child has notified the school at which the child is registered of the reason for his or her non-attendance at the second-mentioned school,
 
 ( e ) he or she is a child referred to in subsection (19) of section 14 ,
 
 ( f ) he or she is receiving a certain minimum education pursuant to an arrangement made by the Board under section 27(2) , or
 
-( g ) there exists some other sufficient cause for his or her not so attending.
+(g) there exists some other sufficient cause for his or her not so attending.
 
-18. -Where a child is absent from the school at which he or she is registered during part of a school day, or for a school day or more than a school day, the parent of such child shall, in accordance with procedures specified in the code of behaviour prepared by the school under section 23 , notify the principal of the school of the reasons for the child's absence.
+#### Notification of child's absence from school.
+
+18.—Where a child is absent from the school at which he or she is registered during part of a school day, or for a school day or more than a school day, the parent of such child shall, in accordance with procedures specified in the code of behaviour prepared by the school under section 23, notify the principal of the school of the reasons for the child's absence.
+
+#### Admission of child to recognised school.
 
 19. -(1) The board of management of a recognised school shall not refuse to admit as a student in such school a child, in respect of whom an application to be so admitted has been made, except where such refusal is in accordance with the policy of the recognised school concerned published under section 15(2)( d ) of the Act of 1998.
 
 (2) The parent of a child who has made an application referred to in subsection (1) shall provide the recognised school concerned with such information as may be prescribed by the Minister.
 
-(3) As soon as practicable, but not later than 21 days, after a parent has provided, in accordance with subsection (2) , such information as may be prescribed by the Minister thereunder, the board of management of the school concerned shall make a decision in respect of the application concerned and inform the parent in writing thereof.
+(3) As soon as practicable, but not later than 21 days, after a parent has provided, in accordance with subsection (2), such information as may be prescribed by the Minister thereunder, the board of management of the school concerned shall make a decision in respect of the application concerned and inform the parent in writing thereof.
+
+#### School registers.
 
 20. -(1) The principal of a recognised school shall, as soon as may be after the commencement of this section, cause to be established and maintained a register of all students attending that school.
 
@@ -755,13 +758,7 @@ Education (Welfare) Act, 2000.
 
 (3) The principal of a recognised school shall, as soon as may be after entering in the register maintained under this section in respect of that school the name of a child who is registered in another recognised school, so inform by notification in writing the principal of the second-mentioned school.
 
-(4) The principal of the second-mentioned school referred to in subsection (3) shall, on receipt of a notification under that subsection, remove the name of the child concerned from the register maintained under this section in respect of the said second-mentioned Pt.III S.17
-
-#### Notification of child's absence from school.
-
-#### Admission of child to recognised school.
-
-#### School registers.
+(4) The principal of the second-mentioned school referred to in subsection (3) shall, on receipt of a notification under that subsection, remove the name of the child concerned from the register maintained under this section in respect of the said second-mentioned
 
 17
 
@@ -777,8 +774,6 @@ Education (Welfare) Act, 2000.
 
 Pt.III S.20
 
-#### School attendance records.
-
 school except where the child continues to receive part of his or her education at that school.
 
 (5) The principal of a recognised school shall, on receiving a notification under subsection (3) in relation to a child, notify the principal of the school first-mentioned in that subsection of-
@@ -791,7 +786,9 @@ school except where the child continues to receive part of his or her education 
 
 ( a ) in accordance with subsection (4) , or
 
-( b ) where he or she has received a notification in writing from the Board that the child concerned is registered in the register maintained under section 14 .
+(b) where he or she has received a notification in writing from the Board that the child concerned is registered in the register maintained under section 14.
+
+#### School attendance records.
 
 21. -(1) The principal of a recognised school shall cause to be maintained in respect of each school year a record of the attendance or non-attendance on each school day of each student registered at that school.
 
@@ -821,13 +818,13 @@ the principal of the school concerned shall forthwith so inform, by notice in wr
 
 [[START OF PAGE 19]]
 
-[2000.] Education (Welfare) Act, 2000.
+[2000.] Education (Welfare) Act, 2000. [ No. 22. ]
 
-[ No. 22. ]
+Pt.III S.21
 
-(5) On receiving a notice under subsection (4) , an educational welfare officer shallPt.III S.21
+(5) On receiving a notice under subsection (4), an educational welfare officer shall—
 
-( a ) consult with the student concerned, his or her parents, the principal and such other persons as he or she considers appropriate, and
+(a) consult with the student concerned, his or her parents, the principal and such other persons as he or she considers appropriate, and
 
 ( b ) make all reasonable efforts to ensure that provision is made for the continued education of the child and his or her full participation in school.
 
@@ -839,11 +836,13 @@ the principal of the school concerned shall forthwith so inform, by notice in wr
 
 on the levels of attendance at that school during the immediately preceding school year.
 
-(7) Areport under subsection (6) shall be in such form and comply with such requirements as may be determined by the Board.
+(7) A report under subsection (6) shall be in such form and comply with such requirements as may be determined by the Board.
 
 (8) An educational welfare officer may during any school day enter a recognised school and inspect the register maintained at that school under section 20 or a record to which this section applies, and take copies of extracts from such register or record.
 
 (9) For the purposes of this section a student shall be deemed not to be absent from school where any period of absence is authorised by the principal and relates to activities organised by the school or in which the school is involved.
+
+#### School attendance strategies.
 
 22. -(1) The board of management of a recognised school shall, after consultation with the principal of, teachers teaching at, parents of students registered at, and the educational welfare officer assigned functions in relation to, that school, prepare and submit to the Board a statement of the strategies and measures it proposes to adopt for the purposes of fostering an appreciation of learning among students attending that school and encouraging regular attendance at school on the part of such students (hereafter in this section referred to as a ''statement of strategy'').
 
@@ -853,9 +852,7 @@ on the levels of attendance at that school during the immediately preceding scho
 
 ( b ) the identification at an early stage of students who are at risk of developing school attendance problems;
 
-( c ) the establishment of closer contacts between the school concerned and the families of students to which paragraph (b) applies;
-
-#### School attendance strategies.
+(c) the establishment of closer contacts between the school concerned and the families of students to which paragraph (b) applies;
 
 19
 
@@ -863,9 +860,9 @@ on the levels of attendance at that school during the immediately preceding scho
 
 [[START OF PAGE 20]]
 
-Pt.III S.22
-
 [ No. 22. ] Education (Welfare) Act, 2000. [2000.]
+
+Pt.III S.22
 
 ( d ) the fostering, promoting and establishing of contacts by the school with-
 
@@ -901,21 +898,21 @@ Pt.III S.22
 
 [[START OF PAGE 21]]
 
-Education (Welfare) Act, 2000.
+[2000.] Education (Welfare) Act, 2000. [ No. 22. ]
 
-[ No. 22. ]
+Pt.III S.22
 
-[2000.]
-
-(6) Two or more boards of management of recognised schools may, if they consider it appropriate, coordinate, and cooperate in, the carrying out of the statements of strategies prepared and submitted by them, in accordance with subsection (1) . Pt.III S.22
+(6) Two or more boards of management of recognised schools may, if they consider it appropriate, coordinate, and cooperate in, the carrying out of the statements of strategies prepared and submitted by them, in accordance with subsection (1).
 
 (7) The Board shall issue guidelines to boards of management of recognised schools for the purposes of this section.
 
 (8) The statement of strategy prepared by the board of management of a recognised school shall be included in the plan prepared by it under section 21 of the Act of 1998.
 
+#### Code of behaviour.
+
 23. -(1) The board of management of a recognised school shall, after consultation with the principal of, the teachers teaching at, the parents of students registered at, and the educational welfare officer assigned functions in relation to, that school, prepare, in accordance with subsection (2) , a code of behaviour in respect of the students registered at the school (hereafter in this section referred to as a ''code of behaviour'').
 
-- A code of behaviour shall specify-
+(2) A code of behaviour shall specify—
 
 ( a ) the standards of behaviour that shall be observed by each student attending the school;
 
@@ -927,16 +924,15 @@ Education (Welfare) Act, 2000.
 
 ( e ) the procedures to be followed relating to notification of a child's absence from school.
 
-(3) Acode of behaviour shall be prepared in accordance with such guidelines as may, following consultation by the Board with national associations of parents, recognised school management organisations and trade unions and staff associations representing teachers, be issued by the Board.
+(3) A code of behaviour shall be prepared in accordance with such guidelines as may, following consultation by the Board with national associations of parents, recognised school management organisations and trade unions and staff associations representing teachers, be issued by the Board.
 
 (4) The principal of a recognised school shall, before registering a child as a student at that school in accordance with section 20 , provide the parents of such child with a copy of the code of behaviour in respect of the school and may, as a condition of so registering such child, require his or her parents to confirm in writing that the code of behaviour so provided is acceptable to them and that they shall make all reasonable efforts to ensure compliance with such code by the child.
 
 (5) The principal of a recognised school shall, on a request being made by a student registered at the school or a parent of such a student, provide the student or parent, as the case may be, with a copy of the code of behaviour in respect of the school concerned.
 
-24. -(1) Where the board of management of a recognised school or a person acting on its behalf is of the opinion that a student should be expelled from that school it shall, before so expelling the student, notify the educational welfare officer to whom functions under this
-#### Code of behaviour.
-
 #### Expulsion of student from recognised school.
+
+24.—(1) Where the board of management of a recognised school or a person acting on its behalf is of the opinion that a student should be expelled from that school it shall, before so expelling the student, notify the educational welfare officer to whom functions under this
 
 21
 
@@ -947,8 +943,6 @@ Education (Welfare) Act, 2000.
 [ No. 22. ] Education (Welfare) Act, 2000. [2000.]
 
 Pt.III S.24
-
-#### School attendance notice.
 
 Act have been assigned, in writing, of its opinion and the reasons therefor.
 
@@ -963,6 +957,8 @@ Act have been assigned, in writing, of its opinion and the reasons therefor.
 (4) A student shall not be expelled from a school before the passing of 20 school days following the receipt of a notification under this section by an educational welfare officer.
 
 (5) Subsection (4) is without prejudice to the right of a board of management to take such other reasonable measures as it considers appropriate to ensure that good order and discipline are maintained in the school concerned and that the safety of students is secured.
+
+#### School attendance notice.
 
 25. -(1) Subject to section 17(2) , the Board shall, if of opinion that a parent is failing or neglecting to cause his or her child to attend a recognised school in accordance with this Act, serve a notice (hereafter in this section referred to as a ''school attendance notice'') on such parent-
 
@@ -986,11 +982,9 @@ and shall, when so specifying a recognised school, have regard, as far as is pra
 
 [[START OF PAGE 23]]
 
-[2000.]
+[2000.] Education (Welfare) Act, 2000. [ No. 22. ]
 
-Education (Welfare) Act, 2000.
-
-[ No. 22. ]
+Pt.III S.25
 
 (4) A person who contravenes a requirement in a school attendance notice shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding £500, or to imprisonment for a term not exceeding one month, or to both such fine and imprisonment.
 
@@ -1016,17 +1010,17 @@ shall be on the defendant.
 
 the Board shall forthwith so inform in writing the health board of the area in which that parent resides.
 
+#### Right of Board to appeal etc. decision of board of management under section 29 of Act of 1998.
+
 26. -(1) The Board may appeal a decision to which paragraph ( a ) or ( c ) of subsection (1) of section 29 of the Act of 1998 applies and accordingly a reference in the said subsection (1) to ''parent of the student'' or ''student'' shall be construed as including a reference to the Board.
 
 (2) Section 29 of the Act of 1998 is hereby amended by the insertion of the following subsection:
 
-''(4A) The National Educational Welfare Board may, at the hearing of an appeal brought by a parent or student against a decision to which paragraph ( a ) or ( c ) of subsection (1) applies, make such submissions (whether in writing or orally) to the appeals committee, as it considers appropriate.''.
+''(4A) The National Educational Welfare Board may, at the hearing of an appeal brought by a parent or student against a decision to which paragraph (a) or (c) of subsection (1) applies, make such submissions (whether in writing or orally) to the appeals committee, as it considers appropriate.''.
 
-27. -(1) Where a decision to which paragraph ( a ) or ( c ) of section 29 of the Act of 1998 applies is upheld by an appeal committee appointed under that section or where no appeal is brought against such a decision the Board shall make all reasonable efforts to have Pt.III S.25
+#### Miscellaneous duties of Board in relation to certain children and parents of certain children.
 
-#### Right of Board to appeal etc. decision of board of management under section 29 of Act of 1998.
-
-#### Micellaneous duties of Board in relation to certain children and parents of certain children.
+27.—(1) Where a decision to which paragraph (a) or (c) of section 29 of the Act of 1998 applies is upheld by an appeal committee appointed under that section or where no appeal is brought against such a decision the Board shall make all reasonable efforts to have
 
 23
 
@@ -1042,21 +1036,19 @@ Education (Welfare) Act, 2000.
 
 Pt.III S.27
 
-#### Supply of personal data etc. to prescribed bodies.
-
-#### Register of young persons in employment.
-
 the child to whom the decision concerned relates enrolled in another recognised school.
 
 (2) Where the Board, having made all such reasonable efforts as are referred to in subsection (1) , fails to have the child concerned enrolled in another recognised school it shall, with the consent of the parents of the child and the Minister, make such other arrangements as it considers appropriate to ensure that the child receives a certain minimum education and shall monitor the progress of the child's education.
 
 (3) A parent who is experiencing problems in ensuring that his or her child attends school regularly may request the advice and assistance of the Board in relation thereto, and the Board shall, on receiving such a request, give to the parent concerned all such advice and assistance as it considers appropriate.
 
+#### Supply of personal data etc. to prescribed bodies.
+
 28. -(1) The data controller of a prescribed body may supply personal data kept by him or her, or information extracted from such data, to the data controller of another prescribed body if he or she is satisfied that it will be used for a relevant purpose only.
 
 (2) The data controller of a prescribed body may, for a relevant purpose only, keep and use personal data supplied to him or her under this section.
 
-- In this section-
+(3) In this section—
 
 ''data controller'' and ''personal data'' have the meanings assigned to them by the Data Protection Act, 1988;
 
@@ -1074,6 +1066,8 @@ the child to whom the decision concerned relates enrolled in another recognised 
 
 (iii) the general effectiveness of educational or training programmes.
 
+#### Register of young persons in employment.
+
 29. -(1) The Board shall, as soon as may be after the coming into operation of this section, cause to be established and maintained a register of young persons (hereafter in this section referred to as ''the register'').
 
 24
@@ -1084,7 +1078,9 @@ the child to whom the decision concerned relates enrolled in another recognised 
 
 [2000.] Education (Welfare) Act, 2000. [ No. 22. ]
 
-(2) Any young person may apply to the Board to be registered in the register. Pt.III S.29
+Pt.III S.29
+
+(2) Any young person may apply to the Board to be registered in the register.
 
 (3) Any child who will, at the end of a school year cease to be a child for the purposes of this Act may, during that school year, apply to the Board to be registered in the register.
 
@@ -1162,7 +1158,11 @@ Pt.III S.29
 
 [2000.] Education (Welfare) Act, 2000. [ No. 22. ]
 
-30. -(1) An educational welfare officer may, for the purposes of section 29 , do all or any of the followingPt.III
+Pt.III
+
+#### Functions of educational welfare officers.
+
+30. -(1) An educational welfare officer may, for the purposes of section 29 , do all or any of the following-
 
 ( a ) at all reasonable times enter, subject to subsection (5) , any premises or place where he or she has reasonable grounds for believing that any young person is employed in work or from which he or she has reasonable grounds for believing that the activities that a young person is employed to carry on are directed or controlled (whether generally or in respect of particular matters),
 
@@ -1182,10 +1182,9 @@ Pt.III S.29
 
 (3) Where an educational welfare officer in the exercise of his or her powers under this section is prevented from entering any premises an application may be made for a warrant under subsection (5) authorising such entry.
 
-(4) An educational welfare officer may, where he or she considers it necessary, be accompanied by a member of the Garda Sı ´ocha ´na when exercising any power conferred on an educational welfare officer by this section.
+(4) An educational welfare officer may, where he or she considers it necessary, be accompanied by a member of the Garda Síochána when exercising any power conferred on an educational welfare officer by this section.
 
 (5) On the application of an educational welfare officer, a judge of the District Court may, if satisfied that there are reasonable grounds for believing that information required by an educational welfare officer under this section is held on any premises or any part of any premises, issue a warrant authorising a named educational
-#### Functions of educational welfare officers.
 
 27
 
@@ -1200,12 +1199,7 @@ Education (Welfare) Act, 2000.
 [2000.]
 
 Pt.III S.30
-
-#### Amendment of Act of 1996.
-
-#### Grants to Board.
-
-welfare officer accompanied by such other educational welfare officers or members of the Garda Sı ´ocha ´na as may be necessary, at any time or times within one month from the date of issue of the warrant, on production, of the warrant (if so requested), to enter the premises (if necessary by using reasonable force) and perform all or any of the functions of an educational welfare officer under subsection (1) .
+welfare officer accompanied by such other educational welfare officers or members of the Garda Síochána as may be necessary, at any time or times within one month from the date of issue of the warrant, on production, of the warrant (if so requested), to enter the premises (if necessary by using reasonable force) and perform all or any of the functions of an educational welfare officer under subsection (1) .
 
 (6) A person who-
 
@@ -1223,6 +1217,8 @@ shall be guilty of an offence.
 
 (7) A person guilty of an offence under this section shall be liable on summary conviction to a fine not exceeding £1,500 or to imprisonment for a term not exceeding 6 months, or to both.
 
+#### Amendment of Act of 1996.
+
 31. -Section 1 of the Act of 1996 is hereby amended by-
 
 ( a ) the substitution of the following definition for the definition of ''child'':
@@ -1239,6 +1235,8 @@ shall be guilty of an offence.
 
 ### Provisions Relating to Finance and Staff of Board
 
+#### Grants to Board.
+
 32. -The Minister may, with the consent of the Minister for Finance, advance to the Board out of moneys provided by the Oireachtas such sums as the Minister may determine.
 
 28
@@ -1251,26 +1249,29 @@ shall be guilty of an offence.
 
 No. 22. ]
 
+Pt.IV
+
+#### Accounts and audits.
+
 33. -(1) The Board shall keep, in such form as may be approved of by the Minister with the consent of the Minister for Finance, all proper and usual accounts of all moneys received or expended by it and all such special accounts (if any) as the Minister, with the consent of the Minister for Finance, may direct.
 
 (2) Accounts kept in pursuance of this section shall be submitted, not later than the 31st day of March in the year immediately following the accounting period to which they relate or on such other earlier date as the Minister may, from time to time, specify, by the Board to the Comptroller and Auditor General for audit and, immediately after the audit, a copy of the accounts, and of such other (if any) accounts kept pursuant to this section as the Minister, after consultation with the Minister for Finance, may direct and a copy of the Comptroller and Auditor General's report on the accounts shall be presented to the Minister who shall as soon as may be cause copies thereof to be laid before each House of the Oireachtas.
 
-34. -(1) The Board shall not later than the 31st day of March in each year prepare and submit to the Minister a report on its activities in the immediately preceding year and the Minister shall, as soon as may be, cause copies of the report to be laid before each House of the Oireachtas.
-
-Pt.IV
-#### Accounts and audits.
-
 #### Reports and information.
+
+34. -(1) The Board shall not later than the 31st day of March in each year prepare and submit to the Minister a report on its activities in the immediately preceding year and the Minister shall, as soon as may be, cause copies of the report to be laid before each House of the Oireachtas.
 
 (2) The Board shall furnish the Minister with such information regarding the performance of its functions as the Minister may from time to time require.
 
-35. -(1) The Board may accept gifts of money, land or other property upon such trusts or conditions (if any) as may be specified by the donor.
 #### Gifts.
+
+35. -(1) The Board may accept gifts of money, land or other property upon such trusts or conditions (if any) as may be specified by the donor.
 
 (2) The Board shall not accept a gift if the trusts or conditions attached to it would be inconsistent with its functions.
 
-36. -(1) There shall be a chief executive of the Board (who shall be known and is referred to in this Act as ''the Chief Executive'').
 #### Chief Executive.
+
+36. -(1) There shall be a chief executive of the Board (who shall be known and is referred to in this Act as ''the Chief Executive'').
 
 (2) The Chief Executive shall carry on and manage, and control generally, the administration and business of the Board and perform such other functions (if any) as may be determined by the Board.
 
@@ -1278,10 +1279,11 @@ Pt.IV
 
 (4) The Chief Executive shall hold office upon and subject to such terms and conditions (including terms and conditions relating to remuneration and allowances) as may be determined by the Board with the consent of the Minister and the Minister for Finance.
 
-37. -(1) The Board shall appoint, with the consent of the Minister and the Minister for Finance, such and so many persons to be members of the staff of the Board as it may from time to time determine.
 #### Staff.
 
-(2) The terms and conditions of service of a member of the staff of the Board shall, with the consent of the Minister and the Minister Pt.IV S.37
+37. -(1) The Board shall appoint, with the consent of the Minister and the Minister for Finance, such and so many persons to be members of the staff of the Board as it may from time to time determine.
+
+(2) The terms and conditions of service of a member of the staff of the Board shall, with the consent of the Minister and the Minister
 
 29
 
@@ -1293,27 +1295,29 @@ Pt.IV
 
 No. 22. ] Education (Welfare) Act, 2000. [2000.]
 
-#### Remuneration of staff.
-
-#### Performance of functions of Board by members of staff.
-
-#### Transfer of staff.
-
-#### Superannuation.
+Pt.IV S.37
 
 for Finance, be such as may be determined from time to time by the Board.
 
 (3) There shall be paid by the Board to the members of its staff such remuneration and allowances as, from time to time with the consent of the Minister and the Minister for Finance, the Board determines.
 
+#### Remuneration of staff.
+
 38. -The Board, in determining the remuneration or allowances for expenses to be paid to members of its staff or the other terms or conditions subject to which such members hold or are to hold their employment, shall have regard to Government or nationally agreed guidelines which are for the time being extant and to Government policy concerning remuneration and conditions of employment which is so extant and, in addition to the foregoing, the Board shall comply with any directives with regard to such remuneration, allowances, terms or conditions which the Minister may give to the Board with the consent of the Minister for Finance.
+
+#### Performance of functions of Board by members of staff.
 
 39. -The Board may perform any of its functions through or by any member of the staff of the Board duly authorised in that behalf by the Board.
 
-40. -(1) Every person (other than a member of the Garda Sı ´ocha ´ na) who immediately before the commencement of this Act is a school attendance officer shall be transferred to and become a member of the staff of the Board.
+#### Transfer of staff.
+
+40. -(1) Every person (other than a member of the Garda Síochána) who immediately before the commencement of this Act is a school attendance officer shall be transferred to and become a member of the staff of the Board.
 
 (2) Save in accordance with a collective agreement negotiated with any recognised trade union or staff association concerned, a person referred to in subsection (1) shall not, while in the service of the Board be brought to less beneficial conditions of service (including conditions in relation to tenure of office) or of remuneration than the conditions of service (including conditions in relation to tenure of office) or remuneration to which he or she was subject immediately before the commencement of this section.
 
 (3) In relation to persons transferred to the Board under subsection (1) , previous service in a local authority shall be reckonable for the purposes of, but subject to any exceptions or exclusions in, the Redundancy Payments Acts, 1967 to 1991, the Worker Protection (Regular Part-Time Employees) Act, 1991, the Organisation of Working Time Act, 1997, the Minimum Notice and Terms of Employment Acts, 1973 to 1991, and the Unfair Dismissals Acts, 1977 to 1993.
+
+#### Superannuation.
 
 41. -(1) As soon as may be after its establishment, the Board shall prepare and submit to the Minister a scheme or schemes for the granting of superannuation benefits to or in respect of such of its staff (including the Chief Executive) as the Board shall think fit.
 
@@ -1331,7 +1335,9 @@ for Finance, be such as may be determined from time to time by the Board.
 
 [ No. 22. ]
 
-(4) A scheme or amending scheme submitted to the Minister under this section shall, if approved by the Minister with the consent of the Minister for Finance, be carried out by the Board in accordance with its terms. Pt.IV S.41
+Pt.IV S.41
+
+(4) A scheme or amending scheme submitted to the Minister under this section shall, if approved by the Minister with the consent of the Minister for Finance, be carried out by the Board in accordance with its terms.
 
 (5) If any dispute arises as to the claim of any person to, or the amount of, any superannuation benefit in pursuance of a scheme under this section, such dispute shall be submitted to the Minister who shall refer it to the Minister for Finance whose decision shall be final.
 
@@ -1340,6 +1346,8 @@ for Finance, be such as may be determined from time to time by the Board.
 (7) The Minister shall cause every scheme submitted and approved under this section to be laid before each House of the Oireachtas as soon as may be after it is approved, and if either House, within the next twenty-one days on which that House has sat after the scheme is laid before it, passes a resolution annulling the scheme, the scheme shall be annulled accordingly, but without prejudice to the validity of anything previously done thereunder.
 
 ## SCHEDULE
+
+Section 9.
 
 ### National Educational Welfare Board
 
@@ -1356,8 +1364,6 @@ for Finance, be such as may be determined from time to time by the Board.
 ( b ) 12 ordinary members, of whom-
 
 (i) one shall be the Chief Executive,
-
-Section 9.
 
 31
 
@@ -1407,7 +1413,9 @@ Sch.
 
 [2000.] Education (Welfare) Act, 2000. [ No. 22. ]
 
-(3) A member of the Board shall cease to be qualified for office and shall cease to hold office ifSch.
+Sch.
+
+(3) A member of the Board shall cease to be qualified for office and shall cease to hold office if-
 
 ( a ) he or she is adjudicated bankrupt,
 
@@ -1457,9 +1465,9 @@ Sch.
 
 (6) The quorum for a meeting of the Board shall unless the Minister otherwise directs be 7.
 
-(1) Where a member of the Board is-
+7. (1) Where a member of the Board is-
 
-( a ) nominated as a member of Seanad E ´ ireann,
+( a ) nominated as a member of Seanad Éireann,
 
 ( b ) elected as a member of either House of the Oireachtas or to be a representative in the European Parliament, or
 
@@ -1467,9 +1475,9 @@ Sch.
 
 he or she shall thereupon cease to be a member of the Board.
 
-- Where a member of the staff of the Board is-
+(2) Where a member of the staff of the Board is-
 
-( a ) nominated as a member of Seanad E ´ ireann, or
+( a ) nominated as a member of Seanad Éireann, or
 
 ( b ) elected as a member of either House of the Oireachtas or to be a representative in the European Parliament, or
 
@@ -1477,9 +1485,9 @@ he or she shall thereupon cease to be a member of the Board.
 
 he or she shall thereupon stand seconded from employment by the Board and shall not be paid by, or be entitled to receive from, the Board any remuneration or allowances in respect of the period commencing on such nomination or election, or when he or she is so regarded as having been elected (as the case may be), and ending when such person ceases to be a member of either such House or a representative in such Parliament.
 
-(3) Aperson who is for the time being entitled under the Standing Orders of either House of the Oireachtas to sit therein or who is a representative in the European Parliament shall, while he or she is so entitled or is such a representative, be disqualified for membership of the Board or for employment in any capacity by the Board.
+(3) A person who is for the time being entitled under the Standing Orders of either House of the Oireachtas to sit therein or who is a representative in the European Parliament shall, while he or she is so entitled or is such a representative, be disqualified for membership of the Board or for employment in any capacity by the Board.
 
-(4) Aperiod mentioned in subparagraph (2) shall not, for the purposes of any superannuation benefit, be reckoned as service with the Board.
+(4) A period mentioned in subparagraph (2) shall not, for the purposes of any superannuation benefit, be reckoned as service with the Board.
 
 8. (1) Where at a meeting of the Board any of the following matters arise, namely-
 
@@ -1501,7 +1509,9 @@ then, any member of the Board present at the meeting who otherwise than in his o
 
 [2000.] Education (Welfare) Act, 2000. [ No. 22. ]
 
-(iii) absent himself or herself from the meeting or that part of the meeting during which the matter is discussed, Sch.
+Sch.
+
+(iii) absent himself or herself from the meeting or that part of the meeting during which the matter is discussed,
 
 (iv) take no part in any deliberation of the Board relating to the matter, and
 
@@ -1529,7 +1539,7 @@ then, any member of the Board present at the meeting who otherwise than in his o
 
 (2) A person who contravenes subparagraph (1) shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding £1,500 or to imprisonment for a term not exceeding 12 months or to both such fine and imprisonment.
 
-(3) In this section, ''confidential information'' includes- Sch.
+(3) In this section, ''confidential information'' includes-
 
 35
 
@@ -1543,6 +1553,8 @@ Education (Welfare) Act, 2000.
 
 [2000.]
 
+Sch.
+
 ( a ) information that is expressed by the Board to be confidential either as regards particular information or as regards information of a particular class or description, and
 
 ( b ) proposals of a commercial nature or tenders submitted to the Board by contractors, consultants or any other person.
@@ -1551,7 +1563,7 @@ Education (Welfare) Act, 2000.
 
 (2) A committee established under this paragraph may include persons who are not members of the Board.
 
-(3) Acommittee established under this paragraph shall, where the Chief Executive considers it appropriate, include the Chief Executive or such other person as may be nominated by the Chief Executive.
+(3) A committee established under this paragraph shall, where the Chief Executive considers it appropriate, include the Chief Executive or such other person as may be nominated by the Chief Executive.
 
 (4) A member of a committee established under this paragraph may be removed from office at any time by the Board.
 
