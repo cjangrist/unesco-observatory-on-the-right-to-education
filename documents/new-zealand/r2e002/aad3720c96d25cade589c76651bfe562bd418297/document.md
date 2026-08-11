@@ -36,8 +36,6 @@ Amendments to Part XIII (Interpretation) of principal Act
 
 Education (Tertiary Reform) Amendment Act 2002
 
-2002 No 50
-
 New Part 13A inserted in principal Act
 9 New Part 13A inserted 13
 Part 13A
@@ -61,8 +59,8 @@ Charters
 159M Content of charters, and assessment criteria 19
 159N Organisations that must or may have a charter 19
 159O Preparing charters 20
-159P Minister's approval of charters 20
-159Q Minister's special powers in relation to charters of institutions 21
+159P Minister’s approval of charters 20
+159Q Minister’s special powers in relation to charters of institutions 21
 159R Minister may approve interim charters for institutions 21
 159S Amendments to, and review of, charters 22
 159T Expiry of charters 22
@@ -122,9 +120,7 @@ Amendments to Part XVIII (Private training establishments) of principal Act
 [[START OF PAGE 4]]
 
 Education (Tertiary Reform) Amendment Act 2002
-
 2002 No 50
-
 236C Fees for domestic students must not exceed maximums set in conditions of funding 35
 25 New section 237 substituted 35
 237 Cancellation of registration 35
@@ -210,19 +206,19 @@ The Parliament of New Zealand enacts as follows:
 
 ### 1 Title
 
-- This Act is the Education (Tertiary Reform) Amendment Act 2002.
+(1) This Act is the Education (Tertiary Reform) Amendment Act 2002.
 
-- In this Act, the Education Act 1989 is called 'the principal Act'.
+(2) In this Act, the Education Act 1989 is called 'the principal Act'.
 
 ### 2 Commencement
 
-- This Act, other than the sections referred to in subsections (2) to (4), comes into force on 1 January 2003.
+(1) This Act, other than the sections referred to in subsections (2) to (4), comes into force on 1 January 2003.
 
-- Section 21 comes into force on 1 July 2003.
+(2) Section 21 comes into force on 1 July 2003.
 
-- Sections 15, 17, 18, and 26 come into force on 1 January 2004.
+(3) Sections 15, 17, 18, and 26 come into force on 1 January 2004.
 
-- Sections 27 to 31 come into force on the day after the date on which this Act receives the Royal assent.
+(4) Sections 27 to 31 come into force on the day after the date on which this Act receives the Royal assent.
 
 ### 3 Purpose
 
@@ -256,11 +252,11 @@ Part 4 s 4
 
 ### 4 Interpretation
 
-- Section 2(1) of the principal Act is amended by repealing para­ graph (b) of the definition of domestic student , and substitut­ ing the following paragraph:
+(1) Section 2(1) of the principal Act is amended by repealing para­ graph (b) of the definition of domestic student , and substitut­ ing the following paragraph:
 
 '(b) the holder of a residence permit under the Immigration Act 1987 who satisfies the criteria (if any) prescribed by regula­ tions made under subsection (4); or.'
 
-- Section 2 of the principal Act is amended by adding the fol­ lowing subsections:
+(2) Section 2 of the principal Act is amended by adding the fol­ lowing subsections:
 
 '(4) The Governor­General may, by Order in Council, make regu­ lations prescribing criteria that the holder of a residence permit under the Immigration Act 1987 must satisfy in order to fulfil the requirements of paragraph (b) of the definition of domes­ tic student in subsection (1).
 
@@ -328,13 +324,13 @@ Part 5 s 7
 
 ### 7 Interpretation
 
-- Section 159(1) of the principal Act is amended by omitting the words 'Parts XIV to XXIV of this Act, and in the Thirteenth to the Eighteenth Schedules to this Act', and substituting the words 'Part 13A to Part XXIV, and in the Thirteenth to Sev­ enteenth Schedules'.
+(1) Section 159(1) of the principal Act is amended by omitting the words 'Parts XIV to XXIV of this Act, and in the Thirteenth to the Eighteenth Schedules to this Act', and substituting the words 'Part 13A to Part XXIV, and in the Thirteenth to Sev­ enteenth Schedules'.
 
-- Section 159(1) of the principal Act is amended by repealing paragraph (b) of the definition of domestic student , and sub­ stituting the following paragraph:
+(2) Section 159(1) of the principal Act is amended by repealing paragraph (b) of the definition of domestic student , and sub­ stituting the following paragraph:
 
 '(b) the holder of a residence permit under the Immigration Act 1987 who satisfies the criteria (if any) prescribed by regula­ tions made under subsection (4); or.'
 
-- Section 159(1) of the principal Act is amended by inserting, in their appropriate alphabetical order, the following definitions:
+(3) Section 159(1) of the principal Act is amended by inserting, in their appropriate alphabetical order, the following definitions:
 
 ' charter means a document of the kind described in section 159L or, in the case of an institution that has a charter approved under Part XV, a document of the kind described in section 184
 
@@ -378,15 +374,15 @@ Education (Tertiary Reform) Amendment Act 2002
 
 ' tertiary education strategy means the latest strategy document ap­ proved under section 159AA.'
 
-- Section 159(1) of the principal Act is amended by inserting in the definition of institution , after paragraph (b), the following paragraph:
+(4) Section 159(1) of the principal Act is amended by inserting in the definition of institution , after paragraph (b), the following paragraph:
 
 '(ba) specialist college; or.'
 
-- Section 159(1) of the principal Act is amended by repealing the definition of association .
+(5) Section 159(1) of the principal Act is amended by repealing the definition of association .
 
-- Section 159(3) of the principal Act is amended by inserting, after the word 'polytechnic,', the words 'specialist college,'.
+(6) Section 159(3) of the principal Act is amended by inserting, after the word 'polytechnic,', the words 'specialist college,'.
 
-- Section 159 of the principal Act is amended by adding the following subsections:
+(7) Section 159 of the principal Act is amended by adding the following subsections:
 
 '(4) The Governor­General may, by Order in Council, make regu­ lations prescribing criteria that the holder of a residence permit under the Immigration Act 1987 must satisfy in order to fulfil the requirements of paragraph (b) of the definition of domes­ tic student in subsection (1).
 
@@ -1598,7 +1594,7 @@ Education (Tertiary Reform) Amendment Act 2002
 
 ### 31 Money for annual fee to transfer into export education levy account
 
-The money held for the purpose of the annual fee for the ad­ ministration of the code in the trust account established under section 238H of the principal Act (as it was immediately be­ fore the commencement of section 30 of this Act) must be transferred to the export education account referred to in section 238I(2) of the principal Act as soon as practicable after the establishment of that account.
+The money held for the purpose of the annual fee for the ad­ ministration of the code in the trust account established under section 238H of the principal Act (as it was immediately be­ fore the commencement of section 30 of this Act) must be transferred to the export education account referred to in sec­
 
 38
 
@@ -1611,6 +1607,8 @@ The money held for the purpose of the annual fee for the ad­ ministration of th
 Education (Tertiary Reform) Amendment Act 2002
 
 Part 33 s 34
+
+tion 238I(2) of the principal Act as soon as practicable after the establishment of that account.
 
 ## Amendment to Part XIX (Vice­Chancellors Committee) of principal Act
 
@@ -2094,7 +2092,7 @@ For the purpose of any provisions of a transferred employee's employment agreeme
 
 Education (Tertiary Reform) Amendment Act 2002
 
-Part 5 s 58
+Part 2 s 58
 
 (b) does not apply to a transferred employee who, after the transfer, receives any subsequent appointment within the Commission.
 
@@ -2126,7 +2124,7 @@ For the first 3 years after the Tertiary Education Commission is established, th
 
 [[START OF PAGE 52]]
 
-Part 5 s 59
+Part 2 s 59
 
 Education (Tertiary Reform) Amendment Act 2002
 
@@ -2140,15 +2138,11 @@ inserted by section 47 of this Act) may be called the General Manager.
 
 The enactments specified in Schedule 2 are consequentially amended in the manner set out in that schedule.
 
-# Schedule 1
-
-s 47
+# Schedule 1 s 47
 
 ## New Schedule 13A inserted in principal Act
 
-### Schedule 13A
-
-s 159C(3)
+### Schedule 13A s 159C(3)
 
 #### Administrative provisions applying to Tertiary Education Commission
 
@@ -2922,7 +2916,9 @@ Act 1989) links to the things referred to in paragraph (b); and
 
 (e) a general description of the manner in which the Com­ mission proposes to operate and, in particular,-
 
-(i) which other persons or bodies engaged in similar or related work it proposes to liaise with, and how it proposes to liaise with those other persons or bodies; and
+(i) which other persons or bodies engaged in similar or related
+
+work it proposes to liaise with, and how it proposes to liaise with those other persons or bodies; and
 
 (ii) what capability it needs to do its work, and how it will develop that capability; and
 
@@ -3124,9 +3120,7 @@ Schedule 13A -continued
 
 (2) The revocation of a delegation must be made or confirmed in writing.
 
-# Schedule 2
-
-s 37
+# Schedule 2 s 37
 
 ## Consequential amendments
 
@@ -3164,31 +3158,31 @@ Education (Tertiary Reform) Amendment Act 2002
 
 Omit paragraph (cb) from the definition of controlling authority in section 2, and substitute the following paragraphs:
 
-“(cb) a contributor employed by Career Services established under Part XXII of the Education Act 1989 means the general manager of that Service:
+'(cb) a contributor employed by Career Services established under Part XXII of the Education Act 1989 means the general manager of that Service:
 
-“(cc) a contributor employed by the Tertiary Education Commission established under Part 13A of the Education Act 1989 means the chief executive of the Commission:”
+'(cc) a contributor employed by the Tertiary Education Commission established under Part 13A of the Education Act 1989 means the chief executive of the Commission:'
 
 #### Modern Apprenticeship Training Act 2000 (2000 No 94)
 
 Repeal the definition of Agency in section 4.
 
-Omit from the definition of apprenticeship co­ordinator in section 4 the word “Agency” and substitute the word “Commission”.
+Omit from the definition of apprenticeship co­ordinator in section 4 the word 'Agency' and substitute the word 'Commission'.
 
 Insert in section 4, in its appropriate alphabetical order, the following definition:
 
-“Commission means the Tertiary Education Commission established by section 159C of the Education Act 1989.”
+'Commission means the Tertiary Education Commission established by section 159C of the Education Act 1989.'
 
-Omit from the definition of funding agreement in section 4 the word “Agency” in both places where it appears and substitute in each case the word “Commission”.
+Omit from the definition of funding agreement in section 4 the word 'Agency' in both places where it appears and substitute in each case the word 'Commission'.
 
-Omit from the heading above section 9 the word “Agency’s” and substitute the word “Commission’s”.
+Omit from the heading above section 9 the word 'Agency's' and substitute the word 'Commission's'.
 
-Omit from the heading to section 9 and section 9 the word “Agency” in both places where it appears and substitute in each case the word “Commission”.
+Omit from the heading to section 9 and section 9 the word 'Agency' in both places where it appears and substitute in each case the word 'Commission'.
 
-Omit from section 10(1) the word “Agency” and substitute the word “Commission”.
+Omit from section 10(1) the word 'Agency' and substitute the word 'Commission'.
 
-Omit from section 10(1)(a) the words “the existence of other funding agreements, or funding agreements under the Industry Training Act 1992” and substitute the words “the existence of other funding arrangements”.
+Omit from section 10(1)(a) the words 'the existence of other funding agreements, or funding agreements under the Industry Training Act 1992' and substitute the words 'the existence of other funding arrangements'.
 
-Omit from section 11 the word “Agency” in both places where it appears and substitute in each case the word “Commission”.
+Omit from section 11 the word 'Agency' in both places where it appears and substitute in each case the word 'Commission'.
 
 76
 
@@ -3204,35 +3198,35 @@ Schedule 2
 
 1—continued
 
-Omit from the heading to section 12 and section 12 the word “Agency” in both places where it appears and substitute in each case the word “Commission”.
+Omit from the heading to section 12 and section 12 the word 'Agency' in both places where it appears and substitute in each case the word 'Commission'.
 
-Omit from the heading to section 13 and section 13 the word “Agency” wherever it appears and substitute in each case the word “Commission”.
+Omit from the heading to section 13 and section 13 the word 'Agency' wherever it appears and substitute in each case the word 'Commission'.
 
-Omit from the heading to section 14 and section 14 the word “Agency” in both places where it appears and substitute in each case the word “Commission”.
+Omit from the heading to section 14 and section 14 the word 'Agency' in both places where it appears and substitute in each case the word 'Commission'.
 
-Omit from section 18(2) the word “Agency” and substitute the word “Commission”.
+Omit from section 18(2) the word 'Agency' and substitute the word 'Commission'.
 
-Omit from section 20(1) the word “Agency” in both places where it appears and substitute in each case the word “Commission”.
+Omit from section 20(1) the word 'Agency' in both places where it appears and substitute in each case the word 'Commission'.
 
-Omit from section 23 the word “Agency” in both places where it appears and substitute in each case the word “Commission”.
+Omit from section 23 the word 'Agency' in both places where it appears and substitute in each case the word 'Commission'.
 
-Omit from section 24 the word “Agency” in both places where it appears and substitute in each case the word “Commission”.
+Omit from section 24 the word 'Agency' in both places where it appears and substitute in each case the word 'Commission'.
 
-Omit from section 25 the word “Agency” in both places where it appears and substitute in each case the word “Commission”.
+Omit from section 25 the word 'Agency' in both places where it appears and substitute in each case the word 'Commission'.
 
-Omit from section 27 the word “Agency” wherever it appears and substitute in each case the word “Commission”.
+Omit from section 27 the word 'Agency' wherever it appears and substitute in each case the word 'Commission'.
 
 #### Ombudsmen Act 1975 (1975 No 9)
 
-Insert in Part II of the First Schedule, in its appropriate alphabetical order, the item “Tertiary Education Commission.”
+Insert in Part II of the First Schedule, in its appropriate alphabetical order, the item 'Tertiary Education Commission.'
 
 Omit from Part II of the First Schedule the items relating to Skill New Zealand and the Tertiary Research Board.
 
 #### Public Finance Act 1989 (1989 No 44)
 
-Insert in the Fourth, Fifth, Sixth, and Seventh Schedules, in its appropriate alphabetical order, the item “Tertiary Education Commission”.
+Insert in the Fourth, Fifth, Sixth, and Seventh Schedules, in its appropriate alphabetical order, the item 'Tertiary Education Commission'.
 
-Omit from the Fourth, Fifth, Sixth, and Seventh Schedules the items relating to “Skill New Zealand and the Tertiary Research Board”.
+Omit from the Fourth, Fifth, Sixth, and Seventh Schedules the items relating to 'Skill New Zealand and the Tertiary Research Board'.
 
 77
 
@@ -3254,12 +3248,11 @@ Revoke clause 3(3) and so much of the Schedule as relates to Skill New Zealand.
 
 Revoke clause 2(11) and substitute:
 
-“(11) the chief executive of the Tertiary Education Commission:”
+'(11) the chief executive of the Tertiary Education Commission:'
 
 # Legislative history
 
 3 December 2002 Divided from Tertiary Education Reform Bill (Bill 180­2) as Bill 180­3A
-
 5 December 2002 Third reading
 
 78
