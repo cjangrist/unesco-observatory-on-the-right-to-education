@@ -4,7 +4,7 @@
 
 # LAW OF TURKMENISTAN ON THE GUARANTEES OF THE RIGHTS OF THE CHILD
 
-The present Law is aimed at implementing main principles of the policy of President of Turkmenistan Saparmurat Turkmenbashi in the sphere of human rights and identijles legal status of the child as independent subject, regulates guarantees of the child rights and legal interests as well as provides for physical and spiritual development of the child, forming his/her citizenship awareness on the basis of the national and universal values common to all mankind.
+The present Law is aimed at implementing main principles of the policy of President of Turkmenistan Saparmurat Turkmenbashi in the sphere of human rights and identifies legal status of the child as independent subject, regulates guarantees of the child rights and legal interests as well as provides for physical and spiritual development of the child, forming his/her citizenship awareness on the basis of the national and universal values common to all mankind.
 
 ## Chapter I. General Provisions
 
@@ -173,7 +173,7 @@ The child not being the citizen of Turkmenistan but being legally on the territo
 
 Parents (legal representatives) shall promote  the  child's independent  activities, consistent with his or her age and capability, aimed at implementation and protection of his or her rights and legal interests.
 
-- Humiliation  of  the  child's  dignity,  intimidation,  corporal  punishment  or  other physical abuse harmful for the child's mental and physical health is inadmissible. Both parents near equal responsibility for the life, health and appropriate upbringing of the child.
+- Humiliation of the child's dignity, intimidation, corporal punishment or other physical abuse harmful for the child's mental and physical health is inadmissible. Both parents bear equal responsibility for the life, health and appropriate upbringing of the child.
 
 - The State shall ensure family form of upbringing to the child deprived of his or her parents' care: adoption, guardianship or placement in suitable institutions for care of children.
 
@@ -203,7 +203,7 @@ Parents (legal representatives) shall promote  the  child's independent  activit
 
 - The  State  shall  protect  the  child  from  all  forms  of  exploitation  at  work  by  legal, economic, social, medical and educational means.
 
-- Use of the children shall not be allowed in performing works that are likely to be hazardous  or  harmful  to  the  child's  health  or  physical,  mental,  spiritual,  moral  or social  development.  Children  are  prohibited  to  perfonn  works  related  to  production and sale of tobacco and alcohol products.
+- Use of the children shall not be allowed in performing works that are likely to be hazardous or harmful to the child's health or physical, mental, spiritual, moral or social development. Children are prohibited to perform works related to production and sale of tobacco and alcohol products.
 
 - Recruiting schoolchildren during the academic year to agriculture and other works not related to learning process shall not be allowed.
 
@@ -223,7 +223,7 @@ Parents (legal representatives) shall promote  the  child's independent  activit
 
 ### Article 30. Protection of the child from information and materials harmful for his or her spiritual and moral development
 
-- The State shall promote the child to have access to infonnation and materials from various sources.
+- The State shall promote the child to have access to information and materials from various sources.
 
 - Demonstration, release, sale, presenting and copying toys, films, audio and video recordings, literature, magazines, newspapers and other printing materials that directly encourage and propagandise war, cruel treatment, violence, and all forms of discrimination including racial, religious, sex and age discrimination and are harmful for spiritual and moral development of the child, are prohibited.
 
@@ -233,19 +233,19 @@ Parents (legal representatives) shall promote  the  child's independent  activit
 
 [[START OF PAGE 7]]
 
-and moral development of the child shall be perfonned in accordance with the procedure defined by the Cabinet of Ministers of Turkmenistan to ensure security to life and protect health and moral nature of the child from negative influences.
+and moral development of the child shall be performed in accordance with the procedure defined by the Cabinet of Ministers of Turkmenistan to ensure security to life and protect health and moral nature of the child from negative influences.
 
 ### Article 31. Protection of the disabled child rights
 
 - Disabled children shall have the right to enjoy a full and decent life and active participation in the community.
 
-- The State promotes social support and adaptation of the disabled children through the educational, medical and rehabilitation institutions that the disabled children have access to education, professional training and upbringing adequate to their health. Employment of the children having professional limitations due to their health shall be perfonned by the state employment services.
+- The State promotes social support and adaptation of the disabled children through the educational, medical and rehabilitation institutions that the disabled children have access to education, professional training and upbringing adequate to their health. Employment of the children having professional limitations due to their health shall be performed by the state employment services.
 
 - The parents (legal representatives) upbringing the disabled child shall have advantages envisaged by the legislature of Turkmenistan.
 
 ### Article 32. Protection of the child's rights in case of his or her infringement of the law
 
-- The arrest, detention or imprisonment of the child is pennissible only in cases and according to the procedure stipulated by the legislature of Turkmenistan, with immediate notification of his or her parents on this act.
+- The arrest, detention or imprisonment of the child is permissible only in cases and according to the procedure stipulated by the legislature of Turkmenistan, with immediate notification of his or her parents on this act.
 
 - Procedure and conditions of serving sentence in the form of his or her liberty deprivation shall be in accordance with the legislature of Turkmenistan.
 
