@@ -22,15 +22,17 @@ Les livres Ier, II, III, IV, VI, VII et IX du code de l'éducation sont modifié
 
 ##### Article 2
 
-- Après le premier alinéa de l'article L. 111-1 du code de l'éducation, sont insérés deux alinéas ainsi rédigés : « Outre la transmission des connaissances, la Nation fixe comme mission première à l'école de faire partager aux élèves les valeurs de la République. « Dans l'exercice de leurs fonctions, les personnels mettent en oeuvre ces valeurs. » II. - Le troisième alinéa du même article est ainsi rédigé : « Pour garantir ce droit dans le respect de l'égalité des chances, des aides sont attribuées aux élèves et
+I. - Après le premier alinéa de l'article L. 111-1 du code de l'éducation, sont insérés deux alinéas ainsi rédigés :
+« Outre la transmission des connaissances, la Nation fixe comme mission première à l'école de faire partager aux élèves les valeurs de la République.
+« Dans l'exercice de leurs fonctions, les personnels mettent en oeuvre ces valeurs. »
+II. - Le troisième alinéa du même article est ainsi rédigé :
+« Pour garantir ce droit dans le respect de l'égalité des chances, des aides sont attribuées aux élèves et aux étudiants selon leurs ressources et leurs mérites. La répartition des moyens du service public de l'éducation tient compte des différences de situation, notamment en matière économique et sociale. »
 
 ##### Article 3
 
-- aux étudiants selon leurs ressources et leurs mérites. La répartition des moyens du service public de l'éducation tient compte des différences de situation, notamment en matière économique et sociale. »
-
-L'article L. 111-3 du code de l'éducation est ainsi rédigé : « Art. L. 111-3. - Dans chaque école, collège ou lycée, la communauté éducative rassemble les élèves et tous ceux qui, dans l'établissement scolaire ou en relation avec lui, participent à l'accomplissement de ses missions. « Elle réunit les personnels des écoles et établissements, les parents d'élèves, les collectivités territoriales
-
-- ainsi que les acteurs institutionnels, économiques et sociaux, associés au service public de l'éducation. »
+L'article L. 111-3 du code de l'éducation est ainsi rédigé :
+« Art. L. 111-3. - Dans chaque école, collège ou lycée, la communauté éducative rassemble les élèves et tous ceux qui, dans l'établissement scolaire ou en relation avec lui, participent à l'accomplissement de ses missions.
+« Elle réunit les personnels des écoles et établissements, les parents d'élèves, les collectivités territoriales ainsi que les acteurs institutionnels, économiques et sociaux, associés au service public de l'éducation. »
 
 ##### Article 4
 
@@ -50,17 +52,17 @@ La deuxième phrase de l'article L. 121-1 du code de l'éducation est complété
 
 ##### Article 7
 
-- L'article L. 122-1 du code de l'éducation devient l'article L. 131-1-1.
+I. - L'article L. 122-1 du code de l'éducation devient l'article L. 131-1-1.
 
-- [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2005-512 DC du 21 avril 2005.]
+II. - [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2005-512 DC du 21 avril 2005.]
 
 ##### Article 8
 
-- Dans les articles L. 131-10, L. 312-15, L. 442-2 et L. 442-3 du code de l'éducation, la référence : « L. 122-1 » est remplacée par la référence : « L. 131-1-1 ».
+I. - Dans les articles L. 131-10, L. 312-15, L. 442-2 et L. 442-3 du code de l'éducation, la référence : « L. 122-1 » est remplacée par la référence : « L. 131-1-1 ».
+
+II. - Au second alinéa de l'article 227-17-1 du code pénal, les mots : « l'article L. 131-10 » sont remplacés par les mots : « les articles L. 131-1-1 et L. 131-10 ».
 
 ##### Article 9
-
-- Au second alinéa de l'article 227-17-1 du code pénal, les mots : « l'article L. 131-10 » sont remplacés par les mots : « les articles L. 131-1-1 et L. 131-10 ».
 
 Après l'article L. 122-1 du code de l'éducation, il est inséré un article L. 122-1-1 ainsi rédigé : « Art. L. 122-1-1. - La scolarité obligatoire doit au moins garantir à chaque élève les moyens nécessaires à l'acquisition d'un socle commun constitué d'un ensemble de connaissances et de compétences qu'il est indispensable de maîtriser pour accomplir avec succès sa scolarité, poursuivre sa formation, construire son avenir personnel et professionnel et réussir sa vie en société. Ce socle comprend :
 
@@ -86,11 +88,9 @@ Après l'article L. 122-1 du code de l'éducation, il est inséré un article L.
 
 L'article L. 122-2 du code de l'éducation est complété par deux alinéas ainsi rédigés :
 
-« Lorsque les personnes responsables d'un mineur non émancipé s'opposent à la poursuite de sa scolarité
-
 « Tout mineur non émancipé dispose du droit de poursuivre sa scolarité au-delà de l'âge de seize ans.
 
-- au-delà de l'âge de seize ans, une mesure d'assistance éducative peut être ordonnée dans les conditions prévues aux articles 375 et suivants du code civil afin de garantir le droit de l'enfant à l'éducation. »
+« Lorsque les personnes responsables d'un mineur non émancipé s'opposent à la poursuite de sa scolarité au-delà de l'âge de seize ans, une mesure d'assistance éducative peut être ordonnée dans les conditions prévues aux articles 375 et suivants du code civil afin de garantir le droit de l'enfant à l'éducation. »
 
 ##### Article 11
 
@@ -100,7 +100,7 @@ L'article L. 131-2 du code de l'éducation est complété par un alinéa ainsi r
 
 ##### Article 12
 
-[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2005512 DC du 21 avril 2005.]
+[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2005-512 DC du 21 avril 2005.]
 
 ### Chapitre II : L'administration de l'éducation
 
@@ -122,9 +122,11 @@ Au début du titre III du livre II du code de l'éducation, il est inséré un c
 
 « Art. L. 230-1. - Le Haut Conseil de l'éducation est composé de neuf membres désignés pour six ans. Trois de ses membres sont désignés par le Président de la République, deux par le président de l'Assemblée nationale, deux par le président du Sénat et deux par le président du Conseil économique et social en dehors des membres de ces assemblées. Le président du haut conseil est désigné par le Président de la République parmi ses membres.
 
-##### Article 15
+« Art. L. 230-2. - Le Haut Conseil de l'éducation émet un avis et peut formuler des propositions à la demande du ministre chargé de l'éducation nationale sur les questions relatives à la pédagogie, aux programmes, aux modes d'évaluation des connaissances des élèves, à l'organisation et aux résultats du système éducatif et à la formation des enseignants. Ses avis et propositions sont rendus publics.
 
-« Art. L. 230-2. - Le Haut Conseil de l'éducation émet un avis et peut formuler des propositions à la demande du ministre chargé de l'éducation nationale sur les questions relatives à la pédagogie, aux programmes, aux modes d'évaluation des connaissances des élèves, à l'organisation et aux résultats du système éducatif et à la formation des enseignants. Ses avis et propositions sont rendus publics. « Art. L. 230-3. - Le Haut Conseil de l'éducation remet chaque année au Président de la République un bilan, qui est rendu public, des résultats obtenus par le système éducatif. Ce bilan est transmis au Parlement. »
+« Art. L. 230-3. - Le Haut Conseil de l'éducation remet chaque année au Président de la République un bilan, qui est rendu public, des résultats obtenus par le système éducatif. Ce bilan est transmis au Parlement. »
+
+##### Article 15
 
 L'article L. 311-5 du code de l'éducation est abrogé à compter de l'installation du Haut Conseil de l'éducation.
 
@@ -166,9 +168,7 @@ Après la section 3 bis du chapitre II du titre Ier du livre III de la deuxième
 
 Le premier alinéa de l'article L. 312-10 du code de l'éducation est ainsi rédigé :
 
-- sont en usage. »
-
-« Un enseignement de langues et cultures régionales peut être dispensé tout au long de la scolarité selon des modalités définies par voie de convention entre l'Etat et les collectivités territoriales où ces langues
+« Un enseignement de langues et cultures régionales peut être dispensé tout au long de la scolarité selon des modalités définies par voie de convention entre l'Etat et les collectivités territoriales où ces langues sont en usage. »
 
 ##### Article 21
 
@@ -228,9 +228,9 @@ Après le deuxième alinéa de l'article L. 331-1 du code de l'éducation, il es
 
 Le troisième alinéa de l'article L. 331-1 du code de l'éducation est remplacé par deux alinéas ainsi rédigés :
 
-« Lorsqu'une part de contrôle continu est prise en compte pour la délivrance d'un diplôme national, l'évaluation des connaissances des candidats s'effectue dans le respect des conditions d'équité. »
-
 « En vue de la délivrance des diplômes, il peut être tenu compte, éventuellement en les combinant, des résultats d'examens terminaux, des résultats des contrôles en cours de formation, des résultats du contrôle continu des connaissances, et de la validation des acquis de l'expérience.
+
+« Lorsqu'une part de contrôle continu est prise en compte pour la délivrance d'un diplôme national, l'évaluation des connaissances des candidats s'effectue dans le respect des conditions d'équité. »
 
 ##### Article 30
 
@@ -248,7 +248,7 @@ L'article L. 332-4 du code de l'éducation est complété par trois alinéas ain
 
 Après l'article L. 332-5 du code de l'éducation, il est inséré un article L. 332-6 ainsi rédigé :
 
-« Art. L. 332-6. - Le diplôme national du brevet sanctionne la formation acquise à l'issue de la scolarité suivie dans les collèges ou dans les classes de niveau équivalent situées dans d'autres établissements. « Il atteste la maîtrise des connaissances et des compétences définies à l'article L. 122-l-1, intègre les résultats de l'enseignement d'éducation physique et sportive et prend en compte, dans des conditions déterminées par décret, les autres enseignements suivis par les élèves selon leurs capacités et leurs intérêts. Il comporte une note de vie scolaire.
+« Art. L. 332-6. - Le diplôme national du brevet sanctionne la formation acquise à l'issue de la scolarité suivie dans les collèges ou dans les classes de niveau équivalent situées dans d'autres établissements. « Il atteste la maîtrise des connaissances et des compétences définies à l'article L. 122-1-1, intègre les résultats de l'enseignement d'éducation physique et sportive et prend en compte, dans des conditions déterminées par décret, les autres enseignements suivis par les élèves selon leurs capacités et leurs intérêts. Il comporte une note de vie scolaire.
 
 « Des mentions sont attribuées aux lauréats qui se distinguent par la qualité de leurs résultats.
 
@@ -258,11 +258,9 @@ Après l'article L. 332-5 du code de l'éducation, il est inséré un article L.
 
 Après le deuxième alinéa de l'article L. 335-1 du code de l'éducation, sont insérés deux alinéas ainsi rédigés :
 
-« Un label de "lycée des métiers peut être délivré par l'Etat aux établissements d'enseignement qui
+« Un label de "lycée des métiers" peut être délivré par l'Etat aux établissements d'enseignement qui remplissent des critères définis par un cahier des charges national. Ces établissements comportent notamment des formations technologiques et professionnelles dont l'identité est construite autour d'un ensemble cohérent de métiers. Les enseignements y sont dispensés en formation initiale sous statut scolaire, en apprentissage et en formation continue. Ils préparent une gamme étendue de diplômes et titres nationaux allant du certificat d'aptitude professionnelle aux diplômes d'enseignement supérieur. Ces établissements offrent également des services de validation des acquis de l'expérience.
 
-du label de "lycée des métiers sont définies par décret. La liste des établissements ayant obtenu le label est régulièrement publiée par arrêté du ministre chargé de l'éducation nationale. »
-
-remplissent des critères définis par un cahier des charges national. Ces établissements comportent notamment des formations technologiques et professionnelles dont l'identité est construite autour d'un ensemble cohérent de métiers. Les enseignements y sont dispensés en formation initiale sous statut scolaire, en apprentissage et en formation continue. Ils préparent une gamme étendue de diplômes et titres nationaux allant du certificat d'aptitude professionnelle aux diplômes d'enseignement supérieur. Ces établissements offrent également des services de validation des acquis de l'expérience. « Les autres caractéristiques de ce cahier des charges, ainsi que la procédure et la durée de délivrance
+« Les autres caractéristiques de ce cahier des charges, ainsi que la procédure et la durée de délivrance du label de "lycée des métiers" sont définies par décret. La liste des établissements ayant obtenu le label est régulièrement publiée par arrêté du ministre chargé de l'éducation nationale. »
 
 [[END OF PAGE 5]]
 
@@ -272,7 +270,7 @@ remplissent des critères définis par un cahier des charges national. Ces étab
 
 ##### Article 34
 
-- Au début du livre IV du code de l'éducation, il est inséré un titre préliminaire ainsi rédigé :
+I. - Au début du livre IV du code de l'éducation, il est inséré un titre préliminaire ainsi rédigé :
 
 « TITRE PRÉLIMINAIRE
 
@@ -280,15 +278,15 @@ remplissent des critères définis par un cahier des charges national. Ces étab
 
 « Art. L. 401-1. - Dans chaque école et établissement d'enseignement scolaire public, un projet d'école ou d'établissement est élaboré avec les représentants de la communauté éducative. Le projet est adopté, pour une durée comprise entre trois et cinq ans, par le conseil d'école ou le conseil d'administration, sur proposition de l'équipe pédagogique de l'école ou du conseil pédagogique de l'établissement pour ce qui concerne sa partie pédagogique.
 
-« Sous réserve de l'autorisation préalable des autorités académiques, le projet d'école ou d'établissement peut prévoir la réalisation d'expérimentations, pour une durée maximum de cinq ans, portant sur l'enseignement des disciplines, l'interdisciplinarité, l'organisation pédagogique de la classe, de l'école ou de l'établissement, la coopération avec les partenaires du système éducatif, les échanges ou le jumelage avec des établissements étrangers d'enseignement scolaire. Ces expérimentations font l'objet d'une évaluation annuelle.
-
 « Le projet d'école ou d'établissement définit les modalités particulières de mise en oeuvre des objectifs et des programmes nationaux et précise les activités scolaires et périscolaires qui y concourent. Il précise les voies et moyens qui sont mis en oeuvre pour assurer la réussite de tous les élèves et pour associer les parents à cette fin. Il détermine également les modalités d'évaluation des résultats atteints.
+
+« Sous réserve de l'autorisation préalable des autorités académiques, le projet d'école ou d'établissement peut prévoir la réalisation d'expérimentations, pour une durée maximum de cinq ans, portant sur l'enseignement des disciplines, l'interdisciplinarité, l'organisation pédagogique de la classe, de l'école ou de l'établissement, la coopération avec les partenaires du système éducatif, les échanges ou le jumelage avec des établissements étrangers d'enseignement scolaire. Ces expérimentations font l'objet d'une évaluation annuelle.
 
 « Le Haut Conseil de l'éducation établit chaque année un bilan des expérimentations menées en application du présent article.
 
 « Art. L. 401-2. - Dans chaque école et établissement d'enseignement scolaire public, le règlement intérieur précise les conditions dans lesquelles est assuré le respect des droits et des devoirs de chacun des membres de la communauté éducative. »
 
-- L'article L. 411-2 du même code est abrogé.
+II. - L'article L. 411-2 du même code est abrogé.
 
 ##### Article 35
 
@@ -314,9 +312,9 @@ Le second alinéa de l'article L. 421-7 du code de l'éducation est ainsi rédig
 
 L'article L. 421-5 du code de l'éducation est ainsi rédigé :
 
-« Ce conseil, présidé par le chef d'établissement, réunit au moins un professeur principal de chaque niveau d'enseignement, au moins un professeur par champ disciplinaire, un conseiller principal d'éducation et, le cas échéant, le chef de travaux. Il a pour mission de favoriser la concertation entre les professeurs, notamment pour coordonner les enseignements, la notation et l'évaluation des activités scolaires. Il prépare la partie pédagogique du projet d'établissement. »
-
 « Art. L. 421-5. - Dans chaque établissement public local d'enseignement, est institué un conseil pédagogique.
+
+« Ce conseil, présidé par le chef d'établissement, réunit au moins un professeur principal de chaque niveau d'enseignement, au moins un professeur par champ disciplinaire, un conseiller principal d'éducation et, le cas échéant, le chef de travaux. Il a pour mission de favoriser la concertation entre les professeurs, notamment pour coordonner les enseignements, la notation et l'évaluation des activités scolaires. Il prépare la partie pédagogique du projet d'établissement. »
 
 ##### Article 39
 
@@ -348,9 +346,9 @@ Le premier alinéa de l'article L. 614-1 du code de l'éducation est complété 
 
 ##### Article 43
 
-- L'intitulé du titre II du livre VI du code de l'éducation est ainsi rédigé : « Les formations universitaires générales et la formation des maîtres ».
+I. - L'intitulé du titre II du livre VI du code de l'éducation est ainsi rédigé : « Les formations universitaires générales et la formation des maîtres ».
 
-- Le même titre est complété par un chapitre V ainsi rédigé :
+II. - Le même titre est complété par un chapitre V ainsi rédigé :
 
 « Chapitre V
 
@@ -366,7 +364,7 @@ Dans la première phrase du deuxième alinéa de l'article L. 713-9 du code de l
 
 ##### Article 45
 
-- Les deux premiers alinéas de l'article L. 721-1 du code de l'éducation sont remplacés par trois alinéas ainsi rédigés :
+I. - Les deux premiers alinéas de l'article L. 721-1 du code de l'éducation sont remplacés par trois alinéas ainsi rédigés :
 
 « Les instituts universitaires de formation des maîtres sont régis par les dispositions de l'article L. 713-9 et sont assimilés, pour l'application de ces dispositions, à des écoles faisant partie des universités.
 
@@ -392,7 +390,11 @@ Dans l'article L. 721-2 du code de l'éducation, après les mots : « peuvent or
 
 L'article L. 912-1 du code de l'éducation est ainsi modifié :
 
-1° Le deuxième alinéa est complété par les mots : « et aux formations par apprentissage » ; 2° Après le deuxième alinéa, il est inséré un alinéa ainsi rédigé : « Ils contribuent à la continuité de l'enseignement sous l'autorité du chef d'établissement en assurant des
+1° Le deuxième alinéa est complété par les mots : « et aux formations par apprentissage » ;
+
+2° Après le deuxième alinéa, il est inséré un alinéa ainsi rédigé :
+
+« Ils contribuent à la continuité de l'enseignement sous l'autorité du chef d'établissement en assurant des enseignements complémentaires. »
 
 ##### Article 48
 
@@ -426,9 +428,9 @@ L'article L. 932-2 du code de l'éducation est ainsi rédigé :
 
 ##### Article 51
 
-L'article L. 442-20 du code de l'éducation est ainsi modifié : 1° Les références : « L. 311-1 à L. 311-6 » sont remplacées par les références : « L. 131-1-1, L. 2301, L. 230-2, L. 230-3, L. 311-1 à L. 311-4, L. 311-6, L. 311-7 » ; 2° Après la référence : « L. 332-4, », est insérée la référence : « L. 332-6, ».
-
-- enseignements complémentaires. »
+L'article L. 442-20 du code de l'éducation est ainsi modifié :
+1° Les références : « L. 311-1 à L. 311-6 » sont remplacées par les références : « L. 131-1-1, L. 230-1, L. 230-2, L. 230-3, L. 311-1 à L. 311-4, L. 311-6, L. 311-7 » ;
+2° Après la référence : « L. 332-4, », est insérée la référence : « L. 332-6, ».
 
 [[END OF PAGE 8]]
 
@@ -468,9 +470,9 @@ L'article L. 371-1 du code de l'éducation est ainsi modifié :
 
 L'article L. 491-1 du code de l'éducation est ainsi rédigé :
 
-##### Article 58
-
 « Art. L. 491-1. - Sont applicables dans les îles Wallis et Futuna les articles L. 401-1, L. 401-2, L. 411-1 et L. 411-3, L. 421-7 à L. 421-10 et L. 423-1 à L. 423-3. »
+
+##### Article 58
 
 A l'article L. 681-1 du code de l'éducation, après la référence : « L. 624-1, », est insérée la référence : « L. 625-1, ».
 
@@ -480,7 +482,7 @@ A l'article L. 771-1 du code de l'éducation, la référence : « L. 721-3, » e
 
 ##### Article 60
 
-A l'article L. 971-1 du code de l'éducation, après la référence : « L. 912-1, », sont insérées les références : « L. 912-1-1, L. 912-1-2, L. 912-l-3, ».
+A l'article L. 971-1 du code de l'éducation, après la référence : « L. 912-1, », sont insérées les références : « L. 912-1-1, L. 912-1-2, L. 912-1-3, ».
 
 ### Chapitre II : Application à Mayotte
 
@@ -546,7 +548,7 @@ A l'article L. 263-1 du code de l'éducation, après la référence : « L. 216-
 
 L'article L. 373-1 du code de l'éducation est ainsi modifié :
 
-1° Après la référence : « L. 331-4 », sont insérés les mots : « , les trois premiers alinéas de l'article L. 332 -6 » ;
+1° Après la référence : « L. 331-4 », sont insérés les mots : « , les trois premiers alinéas de l'article L. 332-6 » ;
 
 2° Il est complété par un alinéa ainsi rédigé :
 
@@ -574,11 +576,11 @@ A l'article L. 973-1 du code de l'éducation, après la référence : « L. 912-
 
 La présente loi, à l'exception des articles 4, 10, 13, 19, 20, 22, 33, 35, 36, 38, 40, 41, 46, 50 et 89, est applicable en Nouvelle-Calédonie sous réserve des dispositions suivantes :
 
-- 2° Les articles 24 à 27 sont applicables dans les établissements privés du premier degré relevant de la compétence de l'Etat en vertu du même III ;
+1° Les articles 16 et 17 sont applicables dans les établissements d'enseignement publics et privés du second degré et dans les établissements privés du premier degré relevant de la compétence de l'Etat en vertu du III de l'article 21 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie ;
 
-1° Les articles 16 et 17 sont applicables dans les établissements d'enseignement publics et privés du second degré et dans les établissements privés du premier degré relevant de la compétence de l'Etat en vertu du III de l'article 21 de la loi organique n° 99-209 du 19 mars 1999 relative à la NouvelleCalédonie ;
+2° Les articles 24 à 27 sont applicables dans les établissements privés du premier degré relevant de la compétence de l'Etat en vertu du même III ;
 
-- 3° Le dernier alinéa de l'article 32 est applicable sans préjudice de l'exercice de leurs compétences par les autorités locales ;
+3° Le dernier alinéa de l'article 32 est applicable sans préjudice de l'exercice de leurs compétences par les autorités locales ;
 
 4° L'article 34 est applicable dans les établissements d'enseignement publics du second degré relevant de la compétence de l'Etat en vertu du même III.
 
@@ -596,11 +598,11 @@ A l'article L. 264-1 du code de l'éducation, après la référence : « L. 216-
 
 L'article L. 374-1 du code de l'éducation est ainsi modifié :
 
-- 1° Au premier alinéa, après la référence : « L. 332-5, », sont insérés les mots : « les trois premiers alinéas de l'article L. 332-6, les articles » ;
+1° Au premier alinéa, après la référence : « L. 332-5, », sont insérés les mots : « les trois premiers alinéas de l'article L. 332-6, les articles » ;
+
+2° Au deuxième alinéa, les références : « L. 311-3, L. 311-5 » sont remplacées par la référence : « L. 311-3-1 » ;
 
 3° Il est complété par un alinéa ainsi rédigé :
-
-- 2° Au deuxième alinéa, les références : « L. 311-3, L. 311-5 » sont remplacées par la référence : « L. 311 -3-1 » ;
 
 « Le dernier alinéa de l'article L. 332-6 est applicable en Nouvelle-Calédonie sans préjudice de l'exercice de leurs compétences par les autorités locales. »
 
@@ -622,7 +624,7 @@ A l'article L. 774-1 du code de l'éducation, la référence : « L. 721-3, » e
 
 ##### Article 83
 
-A l'article L. 974-1 du code de l'éducation, après la référence : « L. 912-1, », sont insérées les références : « L. 912-l-1, L. 912-1-2, L. 912-1-3, ».
+A l'article L. 974-1 du code de l'éducation, après la référence : « L. 912-1, », sont insérées les références : « L. 912-1-1, L. 912-1-2, L. 912-1-3, ».
 
 ## TITRE III : DISPOSITIONS APPLICABLES À L'ENSEIGNEMENT AGRICOLE
 
@@ -642,9 +644,9 @@ Dans un délai maximum de trois ans à compter de la publication de la présente
 
 Ce décret précise la date à laquelle prend effet l'intégration.
 
-##### Article 86
-
 Une convention passée entre le recteur d'académie et cette université précise en tant que de besoin les modalités de cette intégration.
+
+##### Article 86
 
 A compter de la date de son intégration, les droits et obligations de l'institut universitaire de formation des maîtres sont transférés à l'université dans laquelle il est intégré. Ces transferts ne donnent lieu à aucune indemnité, droits, taxes, salaires ou honoraires. Les personnels affectés à l'institut sont affectés à cette université.
 
@@ -664,16 +666,71 @@ L'article 89 de la loi n° 2004-809 du 13 août 2004 relative aux libertés et r
 
 Fait à Paris, le 23 avril 2005.
 
-Par le Président de la République :
-
 Jacques Chirac
 
-Le Premier ministre, Jean-Pierre Raffarin Le ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche, François Fillon Le ministre de l'économie, des finances et de l'industrie,
+Par le Président de la République :
+
+Le Premier ministre,
+Jean-Pierre Raffarin
+Le ministre de l'éducation nationale,
+de l'enseignement supérieur
+et de la recherche,
+François Fillon
+Le ministre de l'économie,
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
 
-Thierry Breton Le ministre de la fonction publique et de la réforme de l'Etat, Renaud Dutreil Le ministre de l'agriculture, de l'alimentation, de la pêche et de la ruralité, Dominique Bussereau La ministre de l'outre-mer, Brigitte Girardin (1) Loi n° 2005-380. - Travaux préparatoires : Assemblée nationale : Projet de loi n° 2025 ; Rapport de M. Frédéric Reiss, au nom de la commission des affaires culturelles, n° 2085 ; Discussion les 15 à 18 février 2005 et adoption, après déclaration d'urgence, le 2 mars 2005. Sénat : Projet de loi, adopté par l'Assemblée nationale, n° 221 (2004-2005) ; Rapport de M. Jean-Claude Carle, au nom de la commission des affaires culturelles, n° 234 (2004-2005) ; Avis de M. Gérard Longuet, au nom de la commission des finances, n° 239 (2004-2005) ; Discussion et adoption les 15, 16, 17, 18 et 19 mars 2005. Assemblée nationale : Projet de loi, modifié par le Sénat en première lecture, n° 2166 ; Rapport de M. Frédéric Reiss, au nom de la commission mixte paritaire, n° 2167 ; Discussion et adoption le 24 mars 2005. Sénat : Rapport de M. Jean-Claude Carle, au nom de la commission mixte paritaire, n° 259 (2004-2005) ; Discussion et adoption le 24 mars 2005, texte définitif n° 90 (2004-2005). - Conseil constitutionnel : Décision n° 2005-512 DC du 21 avril 2005 publiée au Journal officiel de ce jour.
+des finances et de l'industrie,
+Thierry Breton
+Le ministre de la fonction publique
+et de la réforme de l'Etat,
+Renaud Dutreil
+Le ministre de l'agriculture, de l'alimentation,
+de la pêche et de la ruralité,
+Dominique Bussereau
+La ministre de l'outre-mer,
+Brigitte Girardin
+
+(1) Loi n° 2005-380.
+
+- Travaux préparatoires :
+
+Assemblée nationale :
+
+Projet de loi n° 2025 ;
+
+Rapport de M. Frédéric Reiss, au nom de la commission des affaires culturelles, n° 2085 ;
+
+Discussion les 15 à 18 février 2005 et adoption, après déclaration d'urgence, le 2 mars 2005.
+
+Sénat :
+
+Projet de loi, adopté par l'Assemblée nationale, n° 221 (2004-2005) ;
+
+Rapport de M. Jean-Claude Carle, au nom de la commission des affaires culturelles, n° 234 (2004-2005) ;
+
+Avis de M. Gérard Longuet, au nom de la commission des finances, n° 239 (2004-2005) ;
+
+Discussion et adoption les 15, 16, 17, 18 et 19 mars 2005.
+
+Assemblée nationale :
+
+Projet de loi, modifié par le Sénat en première lecture, n° 2166 ;
+
+Rapport de M. Frédéric Reiss, au nom de la commission mixte paritaire, n° 2167 ;
+
+Discussion et adoption le 24 mars 2005.
+
+Sénat :
+
+Rapport de M. Jean-Claude Carle, au nom de la commission mixte paritaire, n° 259 (2004-2005) ;
+
+Discussion et adoption le 24 mars 2005, texte définitif n° 90 (2004-2005).
+
+- Conseil constitutionnel :
+
+Décision n° 2005-512 DC du 21 avril 2005 publiée au Journal officiel de ce jour.
 
 [[END OF PAGE 13]]
