@@ -596,6 +596,6 @@ For those who have certificates with tertiary vocational college credits, the ri
 
 ### Section 45. Amendments to other acts
 
-From the date when this Act becomes effective, the following amendments are made in the Act of 14 December 2007 no. 116 concerning student welfare organisations: - - -
+From the date when this Act becomes effective, the following amendments are made in the Act of 14 December 2007 no. 116 concerning student welfare organisations: – – –
 
 [[END OF PAGE 16]]
