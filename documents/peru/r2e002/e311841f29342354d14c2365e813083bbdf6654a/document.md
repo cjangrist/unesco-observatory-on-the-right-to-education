@@ -4,23 +4,25 @@
 
 ## LEY Nº 27050
 
-- D.S. Nº 003-2000-PROMUDEH (REGLAMENTO)
+CONCORDANCIA:
 
-- R.M. Nº 069-2001-MTC-15.04
+- D.S. Nº 003-2000-PROMUDEH (REGLAMENTO)
 
 - LEY Nº 27408
 
-- LEY Nº 27471
+- R.M. Nº 069-2001-MTC-15.04
 
-- R. PRESIDENCIA Nº 004-2001-P-CONADIS
+- LEY Nº 27471
 
 - D.S. Nº 052-2001-RE
 
+- R. PRESIDENCIA Nº 004-2001-P-CONADIS
+
 - R. DE PRES. Nº 001-2002-P-CONADIS
 
-- R. N° 341-2002-J-ONPE
-
 - R. DE PRES. N° 005-2002-P-CONADIS
+
+- R. N° 341-2002-J-ONPE
 
 EL PRESIDENTE DE LA REPUBLICA
 
@@ -42,8 +44,6 @@ Ha dado la Ley siguiente:
 #### Artículo 1.- Finalidad de la Ley
 
 La presente Ley, tiene por finalidad establecer el régimen  legal  de protección,  de  atención  de  salud,  trabajo,  educación,  rehabilitación,  seguridad social y prevención, para que la persona con discapacidad alcance su desarrollo e integración social, económica y cultural, previsto en el Artículo 7 de la Constitución Política del Estado.
-
-CONCORDANCIA:
 
 [[END OF PAGE 1]]
 
@@ -359,7 +359,7 @@ Toda persona que disponga de la constancia de inscripción en el Registro Nacion
 
 - 31.2. Nadie puede ser discriminado por ser persona con discapacidad. Es nulo el acto que  basado  en  motivos  discriminatorios afecte el acceso,  la permanencia  y/o  en  general  las  condiciones  en  el  empleo  de  la  persona  con discapacidad.
 
-#### Artículo 32.Planes permanentes  de capacitación, actualización, reconversión profesional
+#### Artículo 32.- Planes permanentes de capacitación, actualización, reconversión profesional
 
 El CONADIS coordina y supervisa la ejecución de planes permanentes de capacitación, actualización y reconversión profesional y técnica, para las personas con discapacidad, dirigidos a facilitar la obtención, conservación y progreso laboral dependiente o independiente.
 
@@ -371,7 +371,7 @@ El  CONADIS,  en  coordinación  con  el  Ministerio  de  Trabajo  y  Promoción
 
 El CONADIS promueve y supervisa la aplicación de la normatividad de los programas de prevención de accidentes laborales y de contaminación ambiental que ocasionen enfermedades profesionales y generen discapacidad.
 
-#### Artículo 35.Deducción de gastos sobre el importe total de remuneraciones
+#### Artículo 35.- Deducción de gastos sobre el importe total de remuneraciones
 
 Las entidades públicas o privadas, que a partir de la vigencia de la presente Ley empleen personas con discapacidad, obtendrán deducción de la renta bruta sobre  las  remuneraciones  que  se  paguen  a  estas  personas,  en  un  porcentaje adicional que será fijado por el Ministerio de Economía y Finanzas.
 
@@ -387,7 +387,7 @@ En  los  concursos  para  la  contratación  de  personal  del  sector  público
 
 El  CONADIS  en  coordinación  con  el  Ministerio  de  Economía  y  Finanzas apoyan el otorgamiento de créditos preferenciales o financiamiento a las micro y pequeñas empresas integradas por personas con discapacidad, buscando líneas especiales para este fin, procedentes de organismos financieros internacionales o nacionales.
 
-#### Artículo 38.Preferencia a productos y servicios de  empresas promocionales
+#### Artículo 38.- Preferencia a productos y servicios de empresas promocionales
 
 Las  empresas  e  instituciones  del  sector  público  darán  preferencia  a  los productos manufacturados y servicios provenientes de micro y pequeñas empresas integradas por personas con discapacidad, tomando en cuenta similar posibilidad de suministro, calidad, y precio para su compra o contratación.
 
@@ -411,7 +411,7 @@ D.S. N° 001-2003-TR
 
 [[START OF PAGE 13]]
 
-#### Artículo 41.Promoción de la comercialización de productos manufacturados en Regiones
+#### Artículo 41.- Promoción de la comercialización de productos manufacturados en Regiones
 
 Los Consejos Transitorios de Administración Regional y las Municipalidades provinciales y distritales promoverán la comercialización de los productos manufacturados por las personas con discapacidad, fomentando la participación directa de dichas personas en ferias populares, mercados y centros comerciales dentro de su jurisdicción.
 
@@ -429,9 +429,9 @@ El  Ministerio  de  Transportes,  Comunicaciones,  Vivienda  y  Construcción  y
 
 (*) Artículo modificado por la Primera Disposición Modificatoria y Complementaria de la Ley N° 27920 , publicada el 14-01-2003, cuyo texto es el siguiente:
 
-#### "Artículo 43.Adecuación  progresiva del diseño urbano de las ciudades
+#### "Artículo 43.- Adecuación progresiva del diseño urbano de las ciudades
 
-- El Ministerio de Vivienda, Construcción y Saneamiento y las Municipalidades, coordinarán la adecuación progresiva del diseño urbano de las ciudades, adaptándolas y dotándolas de los elementos técnicos modernos para el uso y fácil desplazamiento de las personas con discapacidad, en cumplimiento de la Resolución Ministerial Nº 069-2001-MTC-15.04.'
+El Ministerio de Vivienda, Construcción y Saneamiento y las Municipalidades, coordinarán la adecuación progresiva del diseño urbano de las ciudades, adaptándolas y dotándolas de los elementos técnicos modernos para el uso y fácil desplazamiento de las personas con discapacidad, en cumplimiento de la Resolución Ministerial Nº 069-2001-MTC-15.04.”
 
 [[END OF PAGE 13]]
 
@@ -441,9 +441,9 @@ El  Ministerio  de  Transportes,  Comunicaciones,  Vivienda  y  Construcción  y
 
 Toda  infraestructura de uso comunitario, público y privado, que  se construya  con  posterioridad  a  la  promulgación  de  la  presente  Ley,  deberá  estar dotada de acceso, ambientes o corredores de circulación e instalaciones adecuadas para personas con discapacidad.(*)
 
-(*)  Artículo  modificado por el Artículo 1 de la Ley Nº  27639 publicada el 19-012002, cuyo texto es el siguiente.
+(*)  Artículo  modificado por el Artículo 1 de la Ley Nº  27639 publicada el 19-01-2002, cuyo texto es el siguiente.
 
-#### 'Artículo  44.-  Dotación  de  áreas  y  acceso  a  instalaciones  públicas  y privadas
+#### “Artículo 44.- Dotación de áreas y acceso a instalaciones públicas y privadas
 
 - 44.1  Toda  infraestructura  de  uso  comunitario,  público  y  privado,  que  se construya  con  posterioridad  a  la  promulgación  de  la  presente  Ley,  deberá  estar dotada de acceso, ambientes, corredores de circulación, e instalaciones adecuadas para personas con discapacidad.
 
