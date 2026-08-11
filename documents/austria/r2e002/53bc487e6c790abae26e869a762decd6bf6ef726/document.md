@@ -1,5 +1,5 @@
 [[START OF PAGE 1]]
-
+RIS
 Bundesrecht konsolidiert
 
 # Gesamte Rechtsvorschrift für Religiöse Kindererziehung, Fassung vom 22.10.2014
