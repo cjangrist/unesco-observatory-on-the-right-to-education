@@ -18,6 +18,26 @@ PDF generated: 29 Jan 2019, 23:19
 
 ## Table of contents
 
+Preamble . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Chapter I: Sovereignty . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Chapter II: The King . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Chapter III: The Rights and Obligations of Khmer Citizens . . . . . . . . . . . . . . . . . . 7
+Chapter IV: The Political System . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Chapter V: Economy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Chapter VI: Education, Culture, and Social Affairs . . . . . . . . . . . . . . . . . . . . . . . 13
+Chapter VII: The National Assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Chapter VIII: The Senate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Chapter IX: The Congress of National Assembly and Senate . . . . . . . . . . . . . . . . 23
+Chapter X: The Royal Government . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Chapter XI: The Judiciary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Chapter XII: The Constitutional Council . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+Chapter XIII: The Administration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Chapter XIV: The National Congress . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Chapter XV: Effects, Revisions and Amendments of the Constitutions . . . . . . . . . 28
+Chapter XVI: Transitional Provisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Additional Provisions to the Constitution To Ensure the Regular Process of the
+National Institutions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+
 Cambodia 1993 (rev. 2008)
 
 Page 2
@@ -184,7 +204,9 @@ PDF generated: 29 Jan 2019, 23:19
 
 - Oaths to abide by constitution
 
-· Unamendable provisions If, when the King dies, the President of the Senate cannot perform the duties of the Acting Head of State in place of the King, the responsibilities of Acting Head of State in the capacity of Regent shall be exercised in compliance with the second and third paragraph of Article 11 .
+· Unamendable provisions
+
+If, when the King dies, the President of the Senate cannot perform the duties of the Acting Head of State in place of the King, the responsibilities of Acting Head of State in the capacity of Regent shall be exercised in compliance with the second and third paragraph of Article 11 .
 
 ### Article 13
 
@@ -1016,13 +1038,17 @@ Page 15
 
 [[START OF PAGE 16]]
 
-constituteproject.org · Standing committees
+constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:19
 
 · Standing committees
 
-Legislative committees · Leader of first chamber
+· Standing committees
+
+Legislative committees
+
+· Leader of first chamber
 
 Oaths to abide by constitution
 
@@ -1438,7 +1464,9 @@ PDF generated: 29 Jan 2019, 23:19
 
 · Budget bills
 
-· Legislative committees Sessions of the Senate shall be considered valid, only if:
+· Legislative committees
+
+Sessions of the Senate shall be considered valid, only if:
 
 - There is  a  quorum  of  more  than  two-thirds  of  all  Senators,  for  any  votes which require a two-thirds majority of all Senators.
 
@@ -1690,45 +1718,39 @@ PDF generated: 29 Jan 2019, 23:19
 
 - Attorney general
 
+### Article 135
+
 - Eligibility for supreme court judges
 
 - Eligibility for ordinary court judges
 
-- Establishment of constitutional court
-
-- Constitutional court powers
-
-- Constitutional interpretation
-
-- Constitutional court selection
-
-- Constitutional court term length
-
-- Eligibility for const court judges
-
-- Constitutional court powers
-
-- Constitutional interpretation
-
-- Constitutionality of legislation
-
-### Article 135
-
-The qualifications,  duties,  roles  and  obligations  of  judges  and  prosecutors  and  the organization of judicial bodies shall be defined in separate laws.
+The qualifications, duties, roles and obligations of judges and prosecutors and the organization of judicial bodies shall be defined in separate laws.
 
 ## Chapter XII: The Constitutional Council
 
+- Establishment of constitutional court
+
 ### Article 136
 
-The  Constitutional  Council  shall  guarantee  the  observance  and  respect  of  the Constitution, interpret the Constitution and laws adopted by the National Assembly and reviewed by the Senate.
+- Constitutional court powers
+
+- Constitutional interpretation
+
+The Constitutional Council shall guarantee the observance and respect of the Constitution, interpret the Constitution and laws adopted by the National Assembly and reviewed by the Senate.
 
 The Constitutional Council shall have the rights to examine and decide on disputes concerning the election of Members of the National Assembly and the election of Senators.
 
+- Constitutional court selection
+
 ### Article 137
 
-The Constitutional Council consists of nine members who are appointed for a term of  nine-years.  One  third  of  the  members  of  the  Constitutional  Council  shall  be replaced every three years. Three members shall be appointed by the King, three by the National Assembly and three by the Supreme Council of the Magistracy.
+- Constitutional court term length
+
+The Constitutional Council consists of nine members who are appointed for a term of nine-years. One third of the members of the Constitutional Council shall be replaced every three years. Three members shall be appointed by the King, three by the National Assembly and three by the Supreme Council of the Magistracy.
 
 The Chairperson shall be elected by the members of the Constitutional Council. The Chairperson shall have a deciding vote if voting is tied.
+
+- Eligibility for const court judges
 
 ### Article 138
 
@@ -1736,11 +1758,17 @@ Members of the Constitutional Council shall be selected from among dignitaries w
 
 ### Article 139
 
-A  member of  the  Constitutional  Council  must  not  be  a  Senator,  a  Member  of  the National  Assembly,  a  Member  of  the  Royal  Government,  a  sitting  Judge,  a  public servant,  the  president  or  vice-president  of  a  political  party  or  the  president  or vice-president of a union.
+A member of the Constitutional Council must not be a Senator, a Member of the National Assembly, a Member of the Royal Government, a sitting Judge, a public servant, the president or vice-president of a political party or the president or vice-president of a union.
+
+- Constitutional court powers
 
 ### Article 140
 
-The King, the Prime Minister, the President of the National Assembly, one tenth of the members of the National Assembly, the President of the Senate, or one quarter of the Senators may  send laws adopted by the National Assembly  to  the Constitutional Council for review before promulgation.
+- Constitutional interpretation
+
+- Constitutionality of legislation
+
+The King, the Prime Minister, the President of the National Assembly, one tenth of the members of the National Assembly, the President of the Senate, or one quarter of the Senators may send laws adopted by the National Assembly to the Constitutional Council for review before promulgation.
 
 The Internal Regulations of the National Assembly, the Internal Regulations of the Senate and organic laws must be sent to the Constitutional Council for review before promulgation. The Constitutional Council shall decide within 30 days whether the laws, the Internal Regulations of the National Assembly or the Internal Regulations of the Senate are constitutional.
 
@@ -1758,25 +1786,25 @@ PDF generated: 29 Jan 2019, 23:19
 
 - Constitutional interpretation
 
-- Constitutionality of legislation
-
-- Constitutional interpretation
-
-- Constitutionality of legislation
-
-- Constitution amendment procedure
-
 ### Article 141
+
+- Constitutionality of legislation
 
 After any law is promulgated, the King, the President of the Senate, the President of the National Assembly, the Prime Minister, one quarter of the Senators, one tenth of Members of the National Assembly, or the Courts, may request the Constitutional Council to review the constitutionality of that law.
 
-People  shall  have  the  rights  to  appeal  against  the  constitutionality  of  any  law through  Members  of  the  National  Assembly,  or  the  President  of  the  National Assembly,  or  Senators,  or  the  President  of  the  Senate  as  stipulated  in  the  above paragraph.
+People shall have the rights to appeal against the constitutionality of any law through Members of the National Assembly, or the President of the National Assembly, or Senators, or the President of the Senate as stipulated in the above paragraph.
+
+- Constitutional interpretation
 
 ### Article 142
 
-Any provision of any article declared by the Constitutional Council to  be unconstitutional shall not be promulgated or implemented.
+- Constitutionality of legislation
+
+Any provision of any article declared by the Constitutional Council to be unconstitutional shall not be promulgated or implemented.
 
 Decisions of the Constitutional Council are final.
+
+- Constitution amendment procedure
 
 ### Article 143
 
@@ -1814,13 +1842,7 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:19
 
-· Constitution amendment procedure
-
-- Emergency provisions
-
-- Unamendable provisions
-
-Khmer  citizens  of  either  sex  shall  have  the  rights  to  participate  in  the  National Congress.
+Khmer citizens of either sex shall have the rights to participate in the National Congress.
 
 ### Article 148
 
@@ -1828,11 +1850,13 @@ The National Congress shall meet once a year in early December when convoked by 
 
 ### Article 149
 
-The  National  Congress  makes  recommendations  to  the  Senate,  the  National Assembly and the authorities of the State for consideration.
+The National Congress makes recommendations to the Senate, the National Assembly and the authorities of the State for consideration.
 
 The organization and functioning of the National Congress shall be determined by law.
 
 ## Chapter XV: Effects, Revisions and Amendments of the Constitutions
+
+- Constitution amendment procedure
 
 ### Article 150
 
@@ -1842,13 +1866,17 @@ Laws and decisions made by State institutions must be in strict conformity with 
 
 ### Article 151
 
-Any  initiative  to  revise  or  amend  the  Constitution  shall  be  the  prerogative  of  the King, the Prime Minister and the President of the National Assembly at the request of one quarter of the Members of the National Assembly.
+Any initiative to revise or amend the Constitution shall be the prerogative of the King, the Prime Minister and the President of the National Assembly at the request of one quarter of the Members of the National Assembly.
 
 Revisions or amendments of the Constitution shall be enacted by a Constitutional law passed by the National Assembly with a two thirds majority vote of all Members of the National Assembly.
+
+- Emergency provisions
 
 ### Article 152
 
 Revisions or amendments of the Constitution shall be prohibited when the country is in a state of emergency as stipulated in Article 86.
+
+- Unamendable provisions
 
 ### Article 153
 
@@ -1912,37 +1940,37 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:19
 
-· Legislative committees
-
 ## Additional Provisions to the Constitution To Ensure the Regular Process of the National Institutions
 
 ### Article 1
 
-This  Constitutional  Law  aims,  in  accordance  with  the  basic  principles  of  a  liberal multi-party democracy, to facilitate the efficient functioning of national institutions in unusual circumstances requiring urgent action.
+This Constitutional Law aims, in accordance with the basic principles of a liberal multi-party democracy, to facilitate the efficient functioning of national institutions in unusual circumstances requiring urgent action.
 
 ### Article 2
 
-At the commencement of each term, the National Assembly, presided over by the oldest  Member  of  the  National  Assembly  may,  before  starting  its  work  and  after deciding on the validity of the mandate of each Member, adopt any constitutional text or any law in order to achieve the goal as stipulated in Article 1.
+At the commencement of each term, the National Assembly, presided over by the oldest Member of the National Assembly may, before starting its work and after deciding on the validity of the mandate of each Member, adopt any constitutional text or any law in order to achieve the goal as stipulated in Article 1.
 
-After any such amendments or laws have been adopted by the National Assembly, the  oldest  Member  of  the  National  Assembly  shall  immediately  take  all  steps according to the specified procedures to have those amendments promulgated and come into force.
+After any such amendments or laws have been adopted by the National Assembly, the oldest Member of the National Assembly shall immediately take all steps according to the specified procedures to have those amendments promulgated and come into force.
+
+- Legislative committees
 
 ### Article 3
 
-If  the  objectives  of  the  procedures  stipulated  in  Articles  82  and  119  of  the Constitution cannot be achieved, the National Assembly at the request of the party that wins the most seats in the National Assembly, shall proceed with a package vote to  elect  a  President  and  Vice-Presidents  of  the  National  Assembly,  as  well  as Chairpersons and Vice-Chairpersons of the Commissions of the National Assembly and simultaneously hold a vote of confidence in the Royal Government.
+If the objectives of the procedures stipulated in Articles 82 and 119 of the Constitution cannot be achieved, the National Assembly at the request of the party that wins the most seats in the National Assembly, shall proceed with a package vote to elect a President and Vice-Presidents of the National Assembly, as well as Chairpersons and Vice-Chairpersons of the Commissions of the National Assembly and simultaneously hold a vote of confidence in the Royal Government.
 
 ### Article 4
 
-The  list  of  candidates  for  package  vote  on  the  election  and  vote  of  confidence  is prepared as follows:
+The list of candidates for package vote on the election and vote of confidence is prepared as follows:
 
-- Upon  the  request  by  the  political  party  that  won  the  most  seats  in  the National  Assembly,  made  through  the  oldest  Member  of  the  National Assembly, the King shall appoint a dignitary from among National Assembly Members of the winning party to propose the Royal Government.
+- Upon the request by the political party that won the most seats in the National Assembly, made through the oldest Member of the National Assembly, the King shall appoint a dignitary from among National Assembly Members of the winning party to propose the Royal Government.
 
 - The appointed dignitary shall prepare and send to the oldest Member of the National Assembly a list of proposed members of the Royal Government.
 
-- The  oldest  Member  of  the  National  Assembly  shall  combine  as  a  single package the list of candidates for the President and Vice-Presidents of the National Assembly, the Chairpersons and Vice-Chairpersons of the Commissions of the National Assembly, as well as the candidates for Prime Minister and all members of the Royal Government, for presentation to the National Assembly for approval in a single vote.
+- The oldest Member of the National Assembly shall combine as a single package the list of candidates for the President and Vice-Presidents of the National Assembly, the Chairpersons and Vice-Chairpersons of the Commissions of the National Assembly, as well as the candidates for Prime Minister and all members of the Royal Government, for presentation to the National Assembly for approval in a single vote.
 
 ### Article 5
 
-The  package  voting  shall  be  conducted  without  debate  or  discussion  and  no explanation is required after the result of the package voting is released.
+The package voting shall be conducted without debate or discussion and no explanation is required after the result of the package voting is released.
 
 Cambodia 1993 (rev. 2008)
 
@@ -1982,6 +2010,45 @@ PDF generated: 29 Jan 2019, 23:19
 
 ## Topic index
 
+A
+Advisory bodies to the head of state . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5, 6
+Attorney general . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25, 26
+B
+Budget bills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+C
+Cabinet removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18, 19, 24
+Cabinet selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 23
+Claim of executive independence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Claim of universal suffrage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Compulsory education . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Conditions for revoking citizenship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Constitution amendment procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27, 28
+Constitutional court powers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+Constitutional court selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+Constitutional court term length . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+Constitutional interpretation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26, 27
+Constitutionality of legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26, 27
+D
+Designation of commander in chief . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Dismissal of the legislature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Division of labor between chambers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18, 22
+Duty to obey the constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3, 10
+Duty to serve in the military . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+E
+Electoral districts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Eligibility for cabinet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 23
+Eligibility for const court judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+Eligibility for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 15
+Eligibility for head of state . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Eligibility for ordinary court judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+Eligibility for second chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 19
+Eligibility for supreme court judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+Emergency provisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 17, 20, 28
+Equality regardless of financial status . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Equality regardless of gender . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7, 10
+Equality regardless of language . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Equality regardless of origin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+
 Cambodia 1993 (rev. 2008)
 
 Page 32
@@ -1993,6 +2060,47 @@ Page 32
 constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:19
+
+Equality regardless of political party . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Equality regardless of race . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Equality regardless of religion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Equality regardless of skin color . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Equality regardless of social status . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Establishment of cabinet/ministers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Establishment of constitutional court . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+Establishment of judicial council . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Extradition procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Extraordinary legislative sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16, 21
+F
+First chamber reserved policy areas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+First chamber selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Foreign affairs representative . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Free education . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Freedom of assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Freedom of association . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Freedom of expression . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Freedom of movement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Freedom of opinion/thought/conscience . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Freedom of press . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Freedom of religion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+G
+General guarantee of equality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+H
+Head of government removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18, 19
+Head of government replacement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Head of government selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 23
+Head of government term length . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 23
+Head of government's role in the legislature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 23
+Head of state immunity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Head of state powers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 7
+Head of state replacement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4, 5
+Head of state selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4, 5
+Human dignity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+I
+Immunity of legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 20
+Initiation of general legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+International human rights treaties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7, 10
+International law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4, 6, 12, 18
 
 Cambodia 1993 (rev. 2008)
 
@@ -2006,6 +2114,46 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:19
 
+J
+Joint meetings of legislative chambers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Judicial independence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11, 25
+L
+Leader of first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16, 17
+Leader of second chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Legal status of treaties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Legislative committees . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 16, 18, 19, 21, 22, 30
+Legislative oversight of the executive . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Length of legislative sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16, 21
+Limits on employment of children . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+M
+Minimum age for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 15
+Minimum age for second chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 19
+Minimum age of head of state . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Motives for writing constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+N
+Name/structure of executive(s) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3, 4, 6, 23
+National anthem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+National capital . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+National flag . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+National motto . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+O
+Oaths to abide by constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5, 16, 21, 23
+Official or national languages . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Official religion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Ordinary court selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Outside professions of legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 20
+Ownership of natural resources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+P
+Power to declare/approve war . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 18
+Power to deport citizens . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Power to pardon . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Powers of cabinet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Presumption of innocence in trials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Principle of no punishment without law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Prohibition of capital punishment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Prohibition of corporal punishment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Prohibition of cruel treatment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+
 Cambodia 1993 (rev. 2008)
 
 Page 34
@@ -2018,6 +2166,48 @@ constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:19
 
+Prohibition of torture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Protection from expropriation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Protection from unjustified restraint . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Protection of consumers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Protection of environment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Provision for matrimonial equality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Provisions for wealth redistribution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Public or private sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17, 21
+Q
+Quorum for legislative sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17, 22
+R
+Reference to art . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Reference to country's history . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Regulation of evidence collection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Removal of individual legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18, 23
+Replacement of legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18, 23
+Requirements for birthright citizenship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Requirements for naturalization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Restrictions on political parties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Restrictions on the armed forces . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Restrictions on voting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Right of petition . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 9
+Right to academic freedom . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Right to choose occupation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Right to competitive marketplace . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12, 13
+Right to counsel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Right to culture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Right to equal pay for work . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Right to form political parties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Right to health care . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Right to join trade unions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Right to life . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Right to marry . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Right to own property . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Right to privacy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Right to protect one's reputation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Right to reasonable standard of living . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11, 13
+Right to strike . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Rights of children . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+S
+Scheduling of elections . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+
 Cambodia 1993 (rev. 2008)
 
 Page 35
@@ -2029,6 +2219,30 @@ Page 35
 constituteproject.org
 
 PDF generated: 29 Jan 2019, 23:19
+
+Second chamber selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19, 20
+Secret ballot . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Selection of active-duty commanders . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Size of first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Size of second chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Source of constitutional authority . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Standing committees . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 16, 20, 21
+State operation of the media . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+State support for children . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+State support for the disabled . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Structure of legislative chamber(s) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 19
+Structure of the courts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Supreme court selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Supreme court term length . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+T
+Telecommunications . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Term length for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Term length of second chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Treaty ratification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 18
+Type of government envisioned . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+U
+Ultra-vires administrative actions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Unamendable provisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5, 28
 
 Cambodia 1993 (rev. 2008)
 
