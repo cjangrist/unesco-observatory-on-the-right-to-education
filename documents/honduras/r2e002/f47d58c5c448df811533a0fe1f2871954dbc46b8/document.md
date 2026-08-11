@@ -62,11 +62,13 @@ Los (as) Beneficiarios (as) del Programa son personas integrantes de los hogares
 
 Son elegibles todos aquellos hogares que se encuentren en condición de extrema pobreza y pobreza en la zonas rurales y urbanas del país.
 
-En la etapa de arranque del programa la selección de aldeas beneficiarias se basará en el Sistema de Registro de Beneficiarios de Honduras (SIRBHO), del PRAF, el cual tiene su origen en un sistema de focalización que utiliza indicadores geográficos y econométricos de pobreza. A partir de este Registro se generarán los listados de los hogares elegibles, que serán revisados por los Comités Escolares Comunitarios, para verificar su condición de beneficiarios mediante un Acta firmada por todos sus miembros.
+En la etapa de arranque del programa la selección de aldeas beneficiarias se basará en el Sistema de Registro de Beneficiarios de Honduras (SIRBHO), del PRAF, el cual tiene su origen en un sistema de focalización que utiliza indicadores geográficos y econométricos de pobreza. A partir de
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+este Registro se generarán los listados de los hogares elegibles, que serán revisados por los Comités Escolares Comunitarios, para verificar su condición de beneficiarios mediante un Acta firmada por todos sus miembros.
 
 ## BENEFICIARIOS.
 
