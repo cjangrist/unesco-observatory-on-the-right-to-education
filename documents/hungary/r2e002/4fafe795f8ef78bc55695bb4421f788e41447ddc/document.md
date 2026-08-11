@@ -34,11 +34,11 @@ Ministry of Justice 2017
 
 The Fundamental Law of Hungary (as in force on 29 June 2018) This document has been produced for informational purposes only.
 
-God bless the Hungarians
-
 # The Fundamental Law of Hungary
 
 (25 April 2011)
+
+God bless the Hungarians
 
 ## NATIONAL AVOWAL
 
@@ -115,9 +115,9 @@ The name of OUR COUNTRY shall be Hungary.
 
 (1) Hungary shall be an independent, democratic rule-of-law State.
 
-- The form of government of Hungary shall be a republic.
+(2) The form of government of Hungary shall be a republic.
 
-- The source of public power shall be the people.
+(3) The source of public power shall be the people.
 
 (4)  The  power  shall  be  exercised  by  the  people  through  elected  representatives  or,  in exceptional cases, directly.
 
@@ -196,7 +196,7 @@ The Fundamental Law of Hungary (as in force on 29 June 2018) This document has b
 
 (1) The national holidays of Hungary shall be:
 
-a) the 15th day of March, in memory of the 1848-49 Revolution and War of Independence;
+a) the 15th day of March, in memory of the 1848–49 Revolution and War of Independence;
 
 b) the  20th  day  of  August,  in  memory  of  the  foundation  of  the  State  and  of  King  Saint Stephen the State Founder;
 
@@ -288,7 +288,7 @@ The Fundamental Law of Hungary (as in force on 29 June 2018) This document has b
 
 #### Article U)
 
-(1) The state structure based on the rule of law, established in accordance with the will of  the  nation  through  the  first  free  elections  held  in  1990,  and  the  previous  communist dictatorship are incompatible. The  Hungarian  Socialist Workers'  Party and its legal predecessors  and  the  other  political  organisations  established  to  serve  them  in  the  spirit  of communist ideology were criminal organisations, and their leaders shall have responsibility without statute of limitations for:
+(1) The state structure based on the rule of law, established in accordance with the will of the nation through the first free elections held in 1990, and the previous communist dictatorship are incompatible. The Hungarian Socialist Workers’ Party and its legal
 
 6
 
@@ -297,6 +297,8 @@ The Fundamental Law of Hungary (as in force on 29 June 2018) This document has b
 [[START OF PAGE 7]]
 
 The Fundamental Law of Hungary (as in force on 29 June 2018) This document has been produced for informational purposes only.
+
+predecessors and the other political organisations established to serve them in the spirit of communist ideology were criminal organisations, and their leaders shall have responsibility without statute of limitations for:
 
 a) maintaining  and  directing  an  oppressive  regime,  violating  the  law  and  betraying  the nation;
 
@@ -326,7 +328,7 @@ Political organisations that gained legal recognition during the democratic tran
 
 (5) The pensions or any other benefits provided by the State under laws to leaders of the communist dictatorship specified in an Act may be reduced to the extent specified in an Act; the  arising  revenues  must  be  used  to  mitigate  the  injuries  caused  by  the  communist dictatorship and to keep alive the memory of victims as provided for by an Act.
 
-(6) Serious criminal offences laid down in an Act which were committed against Hungary or persons under the communist dictatorship in the name or in the interest of, or in agreement with the party-state and which were left unprosecuted for political reasons by ignoring the Act on criminal law in force at the time of commission, shall not be considered as time-barred.
+(6) Serious criminal offences laid down in an Act which were committed against Hungary or persons under the communist dictatorship in the name or in the interest of, or in agreement
 
 7
 
@@ -335,6 +337,8 @@ Political organisations that gained legal recognition during the democratic tran
 [[START OF PAGE 8]]
 
 The Fundamental Law of Hungary (as in force on 29 June 2018) This document has been produced for informational purposes only.
+
+with the party-state and which were left unprosecuted for political reasons by ignoring the Act on criminal law in force at the time of commission, shall not be considered as time-barred.
 
 (7)  The  criminal  offences  referred  to  in  paragraph  (6)  shall  become  time-barred  on  the expiry of the period determined in the Act on criminal law in force at the time of commission, to be calculated as of the day of the entry into force of the Fundamental Law, provided that they would have become time-barred by 1 May 1990 under the Act on criminal law in force at the time of commission.
 
@@ -646,7 +650,7 @@ The Fundamental Law of Hungary (as in force on 29 June 2018) This document has b
 
 (1)  National  minorities  living  in  Hungary  shall  be  constituent  parts  of  the  State.  Every Hungarian citizen belonging to a national minority shall have the right to freely express and preserve his or her identity. National minorities living in Hungary shall have the right to use their  mother  tongue,  to  use  names  in  their  own  languages  individually  and  collectively,  to nurture their own cultures, and to receive education in their mother tongues.
 
-(2)  National  minorities  living  in  Hungary  shall  have  the  right  to  establish  their  selfgovernment at both local and national level.
+(2) National minorities living in Hungary shall have the right to establish their self-government at both local and national level.
 
 (3)  The  detailed  rules  relating  to  the  rights  of  national  minorities  living  in  Hungary,  the national minorities, the requirements for recognition as a national minority, and the rules for the election of the self-governments of national minorities at local and national level shall be laid  down  in  a  cardinal  Act.  A  cardinal  Act  may  provide  that  recognition  as  a  national minority  shall  be  subject  to  a  certain  length  of  time  of  presence  and  to  the  initiative  of  a certain number of persons declaring to be members of the national minority concerned.
 
@@ -677,6 +681,10 @@ The Fundamental Law of Hungary (as in force on 29 June 2018) This document has b
 [[START OF PAGE 15]]
 
 The Fundamental Law of Hungary (as in force on 29 June 2018) This document has been produced for informational purposes only.
+
+## THE STATE
+
+### The National Assembly
 
 #### Article 1
 
@@ -720,13 +728,9 @@ k) shall exercise further functions and powers laid down in the Fundamental Law 
 
 (2) The National Assembly may declare its own dissolution.
 
-(3)  The  President  of  the  Republic,  while  simultaneously  setting  a  date  for  new  elections, may dissolve the National Assembly if:
+(3) The President of the Republic, while simultaneously setting a date for new elections, may dissolve the National Assembly if:
 
-a) the  National Assembly, when the mandate of the Government terminates, fails to elect the person proposed for Prime Minister by the President of the Republic within forty days of the presentation of the first proposal, or
-
-## THE STATE
-
-### The National Assembly
+a) the National Assembly, when the mandate of the Government terminates, fails to elect the person proposed for Prime Minister by the President of the Republic within forty days of the presentation of the first proposal, or
 
 15
 
@@ -780,7 +784,7 @@ f) if he or she has failed to participate in the National Assembly's work for on
 
 (5)  The  National  Assembly  shall  have  a  quorum  if  more  than  half  of  its  Members  are present at the sitting.
 
-(6) Unless otherwise provided in the Fundamental Law, the National Assembly shall make its  decisions  with  the  votes  of  more  than  half  of  the  Members  of  the  National  Assembly present. The provisions of the Rules of Procedure may provide that a qualified majority shall be required for certain decisions to be taken.
+(6) Unless otherwise provided in the Fundamental Law, the National Assembly shall make its decisions with the votes of more than half of the Members of the National Assembly
 
 16
 
@@ -789,6 +793,8 @@ f) if he or she has failed to participate in the National Assembly's work for on
 [[START OF PAGE 17]]
 
 The Fundamental Law of Hungary (as in force on 29 June 2018) This document has been produced for informational purposes only.
+
+present. The provisions of the Rules of Procedure may provide that a qualified majority shall be required for certain decisions to be taken.
 
 (7)  The  National  Assembly  shall  establish  the  rules  of  its  operation  and  the  order  of  its debates in the provisions of the Rules of Procedure adopted with the votes of two thirds of the Members of the National Assembly present. In order to ensure undisturbed operation of the National Assembly and to preserve its dignity, the Speaker of the National Assembly shall exercise  policing  and  disciplinary  powers  laid  down  in  the  provisions  of  the  Rules  of Procedure.
 
@@ -872,6 +878,8 @@ j) the granting of amnesty.
 
 The Fundamental Law of Hungary (as in force on 29 June 2018) This document has been produced for informational purposes only.
 
+### The President of the Republic
+
 #### Article 9
 
 (1) The Head of State of Hungary shall be the President of the Republic, who shall embody the  unity  of  the  nation  and  be  the  guardian  of  the  democratic  functioning  of  the  state organisation.
@@ -930,8 +938,6 @@ j) shall decide on all matters within the powers conferred on him or her by an A
 
 (5) The counter-signature of a Member of the Government shall be required for all actions and decisions of the President of the Republic under paragraph (4). An Act may provide that
 
-### The President of the Republic
-
 19
 
 [[END OF PAGE 19]]
@@ -962,7 +968,7 @@ no counter-signature shall be required for decisions made within the powers conf
 
 (3) The President of the Republic elected in the first round of voting shall be the candidate who receives the votes of two thirds of the Members of the National Assembly.
 
-(4) If the first round of voting is inconclusive, a second round shall be held. In the second round of voting, votes may be cast for the two candidates receiving the highest and second highest numbers of votes in the first round. In the event of a tie for first place in the first round of voting, votes may be cast for those candidates who have received the highest number of votes. In the event of a tie only for second place in the first round of voting, votes may be cast for those candidates who have received the highest and second highest numbers of votes. The President of the Republic elected in the second round of voting shall be the candidate who regardless of the number of those participating in the vote - receives the highest number of valid votes. Should the second round of voting also be inconclusive, a new election shall be held on the basis of repeated nomination.
+(4) If the first round of voting is inconclusive, a second round shall be held. In the second round of voting, votes may be cast for the two candidates receiving the highest and second highest numbers of votes in the first round. In the event of a tie for first place in the first round of voting, votes may be cast for those candidates who have received the highest number of votes. In the event of a tie only for second place in the first round of voting, votes may be cast for those candidates who have received the highest and second highest numbers of votes. The President of the Republic elected in the second round of voting shall be the candidate who – regardless of the number of those participating in the vote – receives the highest number of valid votes. Should the second round of voting also be inconclusive, a new election shall be held on the basis of repeated nomination.
 
 (5) The voting procedure shall be completed within no more than two consecutive days.
 
@@ -1088,7 +1094,7 @@ b) within  fifteen  days  of  the  termination  of  the  Prime  Minister's  mand
 
 (3) Acting on the basis of authorisation by an Act or a government decree, and within their functions,  Members  of  the  Government  shall  adopt  decrees,  either  autonomously  or  in agreement  with  other  ministers;  no  such  decree  shall  conflict  with  any  Act,  government decree or decree of the Governor of the Hungarian National Bank.
 
-(4)  Members of the Government shall be accountable to the National Assembly  for their actions, and ministers shall be accountable to the Prime  Minister.  Members  of  the Government  may  attend  and  address  the  sittings  of  the  National  Assembly.  The  National Assembly or a parliamentary committee may oblige Members of the  Government to attend their sitting.
+(4) Members of the Government shall be accountable to the National Assembly for their actions, and ministers shall be accountable to the Prime Minister. Members of the
 
 22
 
@@ -1097,6 +1103,8 @@ b) within  fifteen  days  of  the  termination  of  the  Prime  Minister's  mand
 [[START OF PAGE 23]]
 
 The Fundamental Law of Hungary (as in force on 29 June 2018) This document has been produced for informational purposes only.
+
+Government may attend and address the sittings of the National Assembly. The National Assembly or a parliamentary committee may oblige Members of the Government to attend their sitting.
 
 (5)  The  detailed  rules  for  the  legal  status  of  Members  of  the  Government  and  their remuneration, as well as the rules regarding the substitution of ministers, shall be laid down in an Act.
 
@@ -1234,7 +1242,7 @@ b) shall be annulled by the Constitutional Court in the case laid down in paragr
 
 (7) The Constitutional Court shall, as provided for by a cardinal Act, hear the legislator of the law, the initiator of the Act or their representative or shall obtain their opinions during its procedure if the matter affects a wide range of persons. This stage of the procedure shall be public.
 
-(8) The Constitutional Court shall be a body composed of fifteen members, each elected for twelve  years  with  the  votes  of  two  thirds  of  the  Members  of  the  National  Assembly.  The National  Assembly  shall,  with  the  votes  of  two  thirds  of  the  Members  of  the  National Assembly, elect a member of the Constitutional Court to serve as its President until the expiry of  his  or  her  term  of  office  as  judge  of  the  Constitutional  Court.  Members  of  the Constitutional Court may not be members of political parties or engage in political activities.
+(8) The Constitutional Court shall be a body composed of fifteen members, each elected for twelve years with the votes of two thirds of the Members of the National Assembly. The
 
 25
 
@@ -1243,6 +1251,8 @@ b) shall be annulled by the Constitutional Court in the case laid down in paragr
 [[START OF PAGE 26]]
 
 The Fundamental Law of Hungary (as in force on 29 June 2018) This document has been produced for informational purposes only.
+
+National Assembly shall, with the votes of two thirds of the Members of the National Assembly, elect a member of the Constitutional Court to serve as its President until the expiry of his or her term of office as judge of the Constitutional Court. Members of the Constitutional Court may not be members of political parties or engage in political activities.
 
 (9) The detailed rules for the powers, organisation and operation of the Constitutional Court shall be laid down in a cardinal Act.
 
@@ -1272,7 +1282,7 @@ The Fundamental Law of Hungary (as in force on 29 June 2018) This document has b
 
 (2) Professional judges shall be appointed by the President of the Republic, as provided for by  a  cardinal  Act.  Only  persons  having  reached  the  age  of  thirty  years  may  be  appointed judge. Except for the President of the Curia , the President of the Administrative High Court and the President of the National Office for the Judiciary, the service relationship of judges may exist until they reach the general retirement age.
 
-(3) The President of the Curia and the President of the Administrative High Court shall be elected by the National Assembly from among the judges for nine years at the proposal of the President of the Republic. The President of the Curia and the President of the Administrative High  Court  shall  be  elected  with  the  votes  of  two  thirds  of  the  Members  of  the  National Assembly.
+(3) The President of the Curia and the President of the Administrative High Court shall be elected by the National Assembly from among the judges for nine years at the proposal of the President of the Republic. The President of the Curia and the President of the Administrative
 
 26
 
@@ -1281,6 +1291,8 @@ The Fundamental Law of Hungary (as in force on 29 June 2018) This document has b
 [[START OF PAGE 27]]
 
 The Fundamental Law of Hungary (as in force on 29 June 2018) This document has been produced for informational purposes only.
+
+High Court shall be elected with the votes of two thirds of the Members of the National Assembly.
 
 #### Article 27
 
@@ -1298,7 +1310,7 @@ In the course of the application of law, courts shall interpret the text of  law
 
 #### Article 29
 
-(1)  The  Prosecutor  General  and  the  prosecution  service  shall  be  independent  and  shall contribute  to  the  administration  of  justice  by  exclusively  enforcing  the  State's  demand  for punishment as public accuser. The prosecution service shall prosecute criminal offences and take action against other unlawful acts and omissions, as well as contribute to the prevention of unlawful acts.
+(1) The Prosecutor General and the prosecution service shall be independent and shall contribute to the administration of justice by exclusively enforcing the State’s demand for punishment as public accuser. The prosecution service shall prosecute criminal offences and take action against other unlawful acts and omissions, as well as contribute to the prevention of unlawful acts.
 
 (2) The Prosecutor General and the prosecution service:
 
@@ -1386,7 +1398,7 @@ l) shall exercise further functions and powers laid down in an Act.
 
 (4)  Local  governments  shall  send  local  government  decrees  to  the  capital  or  county government office immediately after their promulgation. If the capital or county government office finds the local government decree or any of its provisions to be in breach of any law, it may initiate a judicial review of the local government decree.
 
-(5) The capital or county government office may apply to a court for the establishment of the omission of a local government of its obligation that is based on an Act to adopt decrees or  make decisions. Should the local government fail to comply with its obligation to adopt decrees  or  make  decisions  by  the  date  determined  by  the  court  in  its  decision  establishing omission, the court shall, at the initiative of the capital or county government office, order the head of the capital or county government office to adopt the local government decree or local government decision required to remedy the omission in the name of the local government.
+(5) The capital or county government office may apply to a court for the establishment of the omission of a local government of its obligation that is based on an Act to adopt decrees or make decisions. Should the local government fail to comply with its obligation to adopt
 
 28
 
@@ -1396,7 +1408,9 @@ l) shall exercise further functions and powers laid down in an Act.
 
 The Fundamental Law of Hungary (as in force on 29 June 2018) This document has been produced for informational purposes only.
 
-(6)  The  property  of  local  governments  shall  be  public  property,  which  shall  serve  the performance of their tasks.
+decrees or make decisions by the date determined by the court in its decision establishing omission, the court shall, at the initiative of the capital or county government office, order the head of the capital or county government office to adopt the local government decree or local government decision required to remedy the omission in the name of the local government.
+
+(6) The property of local governments shall be public property, which shall serve the performance of their tasks.
 
 #### Article 33
 
@@ -1428,7 +1442,7 @@ The Fundamental Law of Hungary (as in force on 29 June 2018) This document has b
 
 (4) Representative bodies may declare their own dissolution, as provided for by a cardinal Act.
 
-(5)  At  the  motion  of  the  Government  -  submitted  after  seeking  the  opinion  of  the Constitutional Court -, the National Assembly shall dissolve representative bodies operating in conflict with the Fundamental Law.
+(5) At the motion of the Government – submitted after seeking the opinion of the Constitutional Court –, the National Assembly shall dissolve representative bodies operating in conflict with the Fundamental Law.
 
 (6) Upon a representative body dissolving itself or upon it being dissolved, the mandate of the mayor shall also terminate.
 
@@ -1466,7 +1480,7 @@ The Fundamental Law of Hungary (as in force on 29 June 2018) This document has b
 
 (3) As long as government debt exceeds half of the total gross domestic product, with the exceptions  specified  in  Article  36 (6),  no  such  borrowing  may  be  contracted  and  no  such financial commitment may be undertaken in the course of the implementation of the central budget  that  would  result  in  an  increase,  as  compared  to  the  previous  year,  of  the  ratio  of government debt to the total gross domestic product.
 
-(4)  As  long  as  government  debt  exceeds  half  of  the  total  gross  domestic  product,  the Constitutional Court may, within its powers set out in Article 24 (2) b) to e) , review the Acts on  the  central  budget,  the  implementation  of  the  central  budget,  central  taxes,  duties  and contributions, customs duties and the central conditions for local taxes for conformity with the Fundamental Law exclusively in connection with the rights to life and human dignity, to the protection  of  personal  data,  to  freedom  of  thought,  conscience  and  religion,  or  the  rights related to Hungarian citizenship, and it may annul these Acts only for the violation of these rights.  The  Constitutional  Court  shall  have  the  unrestricted  right  to  annul  Acts  having  the above subject matters as well, if the procedural requirements laid down in the Fundamental Law for making and promulgating those Acts have not been met.
+(4) As long as government debt exceeds half of the total gross domestic product, the Constitutional Court may, within its powers set out in Article 24 (2) b) to e), review the Acts on the central budget, the implementation of the central budget, central taxes, duties and contributions, customs duties and the central conditions for local taxes for conformity with the Fundamental Law exclusively in connection with the rights to life and human dignity, to the protection of personal data, to freedom of thought, conscience and religion, or the rights related to Hungarian citizenship, and it may annul these Acts only for the violation of these rights. The Constitutional Court shall have the unrestricted right to annul Acts having the
 
 30
 
@@ -1476,7 +1490,9 @@ The Fundamental Law of Hungary (as in force on 29 June 2018) This document has b
 
 The Fundamental Law of Hungary (as in force on 29 June 2018) This document has been produced for informational purposes only.
 
-(5) In the case of the provisions of Acts that entered into force in a period while government debt exceeded half of the total gross domestic product, paragraph (4) shall apply to such  a period, even if government debt no longer exceeds half of the total gross domestic product.
+above subject matters as well, if the procedural requirements laid down in the Fundamental Law for making and promulgating those Acts have not been met.
+
+(5) In the case of the provisions of Acts that entered into force in a period while government debt exceeded half of the total gross domestic product, paragraph (4) shall apply to such a period, even if government debt no longer exceeds half of the total gross domestic product.
 
 (6)  The  method  for  the  calculation  of  the  government  debt  and  the  total  gross  domestic product, as well as the rules relating to the implementation of the provisions of Article 36 and paragraphs (1) to (3), shall be laid down in an Act.
 
@@ -1552,7 +1568,7 @@ The Fundamental Law of Hungary (as in force on 29 June 2018) This document has b
 
 #### Article 45
 
-(1) Hungary's armed forces shall be the Hungarian Defence Forces. The core duties of the Hungarian  Defence  Forces  shall  be  the  military  defence  of  the  independence,  territorial integrity and borders of Hungary and the performance of collective defence and peacekeeping tasks  arising  from  international  treaties,  as  well  as  carrying  out  humanitarian  activities  in accordance with the rules of international law.
+(1) Hungary’s armed forces shall be the Hungarian Defence Forces. The core duties of the Hungarian Defence Forces shall be the military defence of the independence, territorial integrity and borders of Hungary and the performance of collective defence and peacekeeping tasks arising from international treaties, as well as carrying out humanitarian activities in accordance with the rules of international law.
 
 (2)  Unless  otherwise  provided  in  an  international  treaty,  and  within  the  framework determined  in  the  Fundamental  Law  and  in  a  cardinal  Act,  the  National  Assembly,  the President  of  the  Republic,  the  National  Defence  Council,  the  Government  or  the  minister vested  with  the  relevant  functions  and  powers  shall  have  the  right  to  direct  the  Hungarian Defence  Forces.  The  Hungarian  Defence  Forces  shall  operate  under  the  direction  of  the Government.
 
@@ -1569,6 +1585,8 @@ The Fundamental Law of Hungary (as in force on 29 June 2018) This document has b
 [[START OF PAGE 33]]
 
 The Fundamental Law of Hungary (as in force on 29 June 2018) This document has been produced for informational purposes only.
+
+### The police and national security services
 
 #### Article 46
 
@@ -1608,8 +1626,6 @@ a) shall declare a state of national crisis and set up a National Defence Counci
 
 b) shall declare a state of emergency in the event of armed actions aimed at subverting the lawful order or at exclusively acquiring power, and in the event of serious acts of violence massively  endangering  life  and  property,  committed  with  weapons  or  with  instruments capable of causing death.
 
-### The police and national security services
-
 33
 
 [[END OF PAGE 33]]
@@ -1636,17 +1652,17 @@ The Fundamental Law of Hungary (as in force on 29 June 2018) This document has b
 
 #### Article 49
 
-(1) The President of the National Defence Council shall be the President of the Republic, and its members shall be the Speaker of the National Assembly, the leaders of parliamentary groups, the Prime Minister, the ministers and - in a consultative capacity - the Chief of the Defence Staff.
+(1) The President of the National Defence Council shall be the President of the Republic, and its members shall be the Speaker of the National Assembly, the leaders of parliamentary groups, the Prime Minister, the ministers and – in a consultative capacity – the Chief of the Defence Staff.
 
-- The National Defence Council shall exercise:
+(2) The National Defence Council shall exercise:
 
-- the powers delegated to it by the National Assembly,
+a) the powers delegated to it by the National Assembly,
 
-- the powers of the President of the Republic,
+b) the powers of the President of the Republic,
 
-- the powers of the Government.
+c) the powers of the Government.
 
-- The National Defence Council shall decide:
+(3) The National Defence Council shall decide:
 
 a) on the deployment of the Hungarian Defence Forces abroad or within Hungary, on their participation in peacekeeping, on their humanitarian activity in a foreign operational area, or on stationing them abroad,
 
@@ -1723,7 +1739,7 @@ The Fundamental Law of Hungary (as in force on 29 June 2018) This document has b
 
 #### Article 52
 
-(1)  In  the  event  of  an  unexpected incursion of external armed groups into the territory of Hungary,  until  the  decision  on  the  declaration  of  a  state  of  emergency  or  state  of  national crisis, the Government shall be obliged - if necessary, in accordance with the armed defence plan  approved  by  the  President  of  the  Republic  -  to  take  immediate  action  using  force proportionate  to  and  prepared  for  the  attack,  to  repel  the  attack,  to  defend  the  territory  of Hungary with domestic and allied readiness forces of the air defence and air forces, in order to protect lawful order, life and property, public order and public safety.
+(1) In the event of an unexpected incursion of external armed groups into the territory of Hungary, until the decision on the declaration of a state of emergency or state of national crisis, the Government shall be obliged – if necessary, in accordance with the armed defence plan approved by the President of the Republic – to take immediate action using force proportionate to and prepared for the attack, to repel the attack, to defend the territory of Hungary with domestic and allied readiness forces of the air defence and air forces, in order to protect lawful order, life and property, public order and public safety.
 
 (2) The Government shall forthwith inform the National Assembly and the President of the Republic of its action taken under paragraph (1).
 
@@ -1737,49 +1753,49 @@ The Fundamental Law of Hungary (as in force on 29 June 2018) This document has b
 
 The Fundamental Law of Hungary (as in force on 29 June 2018) This document has been produced for informational purposes only.
 
-- Upon the termination of the unexpected attack, such decrees of the Government shall cease to have effect.
+(4) Upon the termination of the unexpected attack, such decrees of the Government shall cease to have effect.
 
 ### State of danger
 
 #### Article 53
 
-- In the event of a natural disaster or industrial accident endangering life and property, or in order to mitigate its consequences, the Government shall declare a state of danger, and may introduce extraordinary measures laid down in a cardinal Act.
+(1) In the event of a natural disaster or industrial accident endangering life and property, or in order to mitigate its consequences, the Government shall declare a state of danger, and may introduce extraordinary measures laid down in a cardinal Act.
 
-- In a state of danger, the Government may adopt decrees by means of which it may, as provided  for  by  a  cardinal  Act,  suspend  the  application  of  certain  Acts,  derogate  from  the provisions of Acts and take other extraordinary measures.
+(2) In a state of danger, the Government may adopt decrees by means of which it may, as provided for by a cardinal Act, suspend the application of certain Acts, derogate from the provisions of Acts and take other extraordinary measures.
 
-- The  decrees  of  the  Government  referred  to  in  paragraph  (2)  shall  remain  in  force  for fifteen days, unless the Government, on the basis of authorisation by the National Assembly, extends those decrees.
+(3) The decrees of the Government referred to in paragraph (2) shall remain in force for fifteen days, unless the Government, on the basis of authorisation by the National Assembly, extends those decrees.
 
-- Upon the termination of the state of danger, such decrees of the Government shall cease to have effect.
+(4) Upon the termination of the state of danger, such decrees of the Government shall cease to have effect.
 
 ### Common rules for the special legal order
 
 #### Article 54
 
-- Under a special legal order, the exercise of fundamental rights - with the exception of the fundamental rights provided for in Articles II and III, and Article XXVIII (2) to (6) - may be suspended or may be restricted beyond the extent specified in Article I (3).
+(1) Under a special legal order, the exercise of fundamental rights – with the exception of the fundamental rights provided for in Articles II and III, and Article XXVIII (2) to (6) – may be suspended or may be restricted beyond the extent specified in Article I (3).
 
-- Under  a  special  legal  order,  the  application  of  the  Fundamental  Law  may  not  be suspended, and the operation of the Constitutional Court may not be restricted.
+(2) Under a special legal order, the application of the Fundamental Law may not be suspended, and the operation of the Constitutional Court may not be restricted.
 
-- A special legal order shall be terminated by the organ entitled to introduce the special legal order if the conditions for its declaration no longer exist.
+(3) A special legal order shall be terminated by the organ entitled to introduce the special legal order if the conditions for its declaration no longer exist.
 
-- The  detailed  rules  to  be  applied  under  a  special  legal  order  shall  be  laid  down  in  a cardinal Act.
+(4) The detailed rules to be applied under a special legal order shall be laid down in a cardinal Act.
 
 ## CLOSING AND MISCELLANEOUS PROVISIONS
 
-- The Fundamental Law of Hungary shall enter into force on 1 January 2012.
+1. The Fundamental Law of Hungary shall enter into force on 1 January 2012.
 
-- This Fundamental Law shall be adopted by the National Assembly pursuant to Sections 19 (3) a) and 24 (3) of Act XX of 1949.
+2. This Fundamental Law shall be adopted by the National Assembly pursuant to Sections 19 (3) a) and 24 (3) of Act XX of 1949.
 
-- The  transitional  provisions  related  to  the  entry  into  force  of  the  Fundamental  Law  are contained in points 8 to 26.
+3. The transitional provisions related to the entry into force of the Fundamental Law are contained in points 8 to 26.
 
-- The  Government  shall  be  obliged  to  submit  the  legislative  proposals  required  for  the implementation of the Fundamental Law to the National Assembly.
+4. The Government shall be obliged to submit the legislative proposals required for the implementation of the Fundamental Law to the National Assembly.
 
-- The  decisions  of  the  Constitutional  Court  made  prior  to  the  entry  into  force  of  the Fundamental Law are repealed. This provision shall be without prejudice to the legal effects produced by those decisions.
+5. The decisions of the Constitutional Court made prior to the entry into force of the Fundamental Law are repealed. This provision shall be without prejudice to the legal effects produced by those decisions.
 
-- The 25th day of April shall be Fundamental Law Day, to commemorate the promulgation of the Fundamental Law.
+6. The 25th day of April shall be Fundamental Law Day, to commemorate the promulgation of the Fundamental Law.
 
-- The first general election of local government representatives and mayors after the entry into force of the Fundamental Law shall take place in October 2014.
+7. The first general election of local government representatives and mayors after the entry into force of the Fundamental Law shall take place in October 2014.
 
-- The  entry  into  force  of  the  Fundamental  Law  shall  not  affect  the  legal  force  of  laws adopted, public law regulatory instruments and other legal instruments of state administration issued,  specific  decisions  made  and  international  legal  commitments  undertaken  before  its entry into force.
+8. The entry into force of the Fundamental Law shall not affect the legal force of laws adopted, public law regulatory instruments and other legal instruments of state administration issued, specific decisions made and international legal commitments undertaken before its entry into force.
 
 37
 
@@ -1789,29 +1805,29 @@ The Fundamental Law of Hungary (as in force on 29 June 2018) This document has b
 
 The Fundamental Law of Hungary (as in force on 29 June 2018) This document has been produced for informational purposes only.
 
-- The legal successor of the organ exercising the relevant functions and powers under Act XX of 1949 on the Constitution of the Republic of Hungary shall be the organ exercising the relevant functions and powers under the Fundamental Law.
+9. The legal successor of the organ exercising the relevant functions and powers under Act XX of 1949 on the Constitution of the Republic of Hungary shall be the organ exercising the relevant functions and powers under the Fundamental Law.
 
-- After the entry into force of the Fundamental Law, the name referring to the Republic of Hungary may remain in use as a reference to Hungary in accordance with the laws in force on 31 December 2011, until the transition to the use of the name under the Fundamental Law can be achieved in accordance with the principles of responsible management.
+10. After the entry into force of the Fundamental Law, the name referring to the Republic of Hungary may remain in use as a reference to Hungary in accordance with the laws in force on 31 December 2011, until the transition to the use of the name under the Fundamental Law can be achieved in accordance with the principles of responsible management.
 
-- With  the  exceptions  laid  down  in  points  12  to  18,  the  entry  into  force  of  the Fundamental Law shall not affect the mandate of the National Assembly, the Government and the local representative bodies, as well as of persons appointed or elected before the entry into force of the Fundamental Law.
+11. With the exceptions laid down in points 12 to 18, the entry into force of the Fundamental Law shall not affect the mandate of the National Assembly, the Government and the local representative bodies, as well as of persons appointed or elected before the entry into force of the Fundamental Law.
 
 12. The following provisions of the Fundamental Law shall also apply to the mandate of the following:
 
-- Articles 3 and 4 to the mandate of the National Assembly and Members of the National Assembly in office;
+a) Articles 3 and 4 to the mandate of the National Assembly and Members of the National Assembly in office;
 
-- Articles 12 and 13 to the mandate of the President of the Republic in office;
+b) Articles 12 and 13 to the mandate of the President of the Republic in office;
 
-- Articles 20 and 21 to the mandate of the Government in office and the Members of the Government in office;
+c) Articles 20 and 21 to the mandate of the Government in office and the Members of the Government in office;
 
-- Article 27 (3) to the mandate of court secretaries in office;
+d) Article 27 (3) to the mandate of court secretaries in office;
 
-- Article 33 (2) to the mandate of the presidents of the county assemblies in office; and
+e) Article 33 (2) to the mandate of the presidents of the county assemblies in office; and
 
-- Article  35 (3)  to  (6)  to  the  mandate  of  the  local  representative  bodies  and  mayors  in office.
+f) Article 35 (3) to (6) to the mandate of the local representative bodies and mayors in office.
 
-- The calculation of the period referred to in Article 4 (3) f) of the Fundamental Law shall start upon the entry into force of the Fundamental Law.
+13. The calculation of the period referred to in Article 4 (3) f) of the Fundamental Law shall start upon the entry into force of the Fundamental Law.
 
-(1) The legal successor of the Supreme Court, the National Council of Justice and its President  shall  be  the  Curia  in  terms  of  administering  justice,  and,  with  the  exception  laid down in a cardinal Act, the President of the National Office for the Judiciary in terms of the administration of courts.
+14. (1) The legal successor of the Supreme Court, the National Council of Justice and its President shall be the Curia in terms of administering justice, and, with the exception laid down in a cardinal Act, the President of the National Office for the Judiciary in terms of the administration of courts.
 
 (2) The mandate of the President of the Supreme Court and of the President and members of the National Council of Justice shall terminate upon the entry into force of the Fundamental Law.
 
@@ -1819,7 +1835,7 @@ The Fundamental Law of Hungary (as in force on 29 June 2018) This document has b
 
 (2) If, as laid down in an Act, the appointment takes place without the announcement of a call for applications, the lowest age requirement shall apply to judges appointed after the entry into force of the Fundamental Law.
 
-16. As of the entry into force of the Fundamental Law, the designation for the office of the Parliamentary  Commissioner  for  Citizens'  Rights  shall  be  Commissioner  for  Fundamental Rights.  The  legal  successor  of  the  Parliamentary  Commissioner  for  Citizens'  Rights,  the Parliamentary Commissioner for National and Ethnic Minority Rights and the Parliamentary Commissioner for Future Generations shall be the Commissioner for Fundamental Rights. As of the entry into force of the Fundamental Law, the Parliamentary Commissioner for National and  Ethnic  Minority  Rights  in  office  shall  become  Deputy  of  the  Commissioner  for Fundamental Rights responsible for the protection of the rights of national minorities living in Hungary; as of the entry into force of the Fundamental Law, the Parliamentary Commissioner for Future Generations in office shall become Deputy of the Commissioner for Fundamental Rights  responsible  for  the  protection  of  the  interests  of  future  generations;  their  mandates shall  terminate  upon  the  termination  of  the  mandate  of  the  Commissioner  for  Fundamental Rights.
+16. As of the entry into force of the Fundamental Law, the designation for the office of the Parliamentary Commissioner for Citizens’ Rights shall be Commissioner for Fundamental Rights. The legal successor of the Parliamentary Commissioner for Citizens’ Rights, the Parliamentary Commissioner for National and Ethnic Minority Rights and the Parliamentary Commissioner for Future Generations shall be the Commissioner for Fundamental Rights. As of the entry into force of the Fundamental Law, the Parliamentary Commissioner for National and Ethnic Minority Rights in office shall become Deputy of the Commissioner for Fundamental Rights responsible for the protection of the rights of national minorities living in Hungary; as of the entry into force of the Fundamental Law, the Parliamentary Commissioner for Future Generations in office shall become Deputy of the Commissioner for Fundamental Rights responsible for the protection of the interests of future generations; their mandates
 
 38
 
@@ -1828,6 +1844,8 @@ The Fundamental Law of Hungary (as in force on 29 June 2018) This document has b
 [[START OF PAGE 39]]
 
 The Fundamental Law of Hungary (as in force on 29 June 2018) This document has been produced for informational purposes only.
+
+shall terminate upon the termination of the mandate of the Commissioner for Fundamental Rights.
 
 17. The mandate of the Commissioner for Data Protection shall terminate upon the entry into force of the Fundamental Law.
 
@@ -1863,53 +1881,54 @@ b) state  of  emergency,  if  it  was  declared  due  to armed  actions  aimed  
 
 The Fundamental Law of Hungary (as in force on 29 June 2018) This document has been produced for informational purposes only.
 
-- state  of  emergency,  if  it  was  declared  due  to  a  natural  disaster  or  industrial  accident massively endangering life and property, the provisions of the Fundamental Law on the state of danger,
+c) state of emergency, if it was declared due to a natural disaster or industrial accident massively endangering life and property, the provisions of the Fundamental Law on the state of danger,
 
-- state  of  preventive  defence,  the  provisions  of  the  Fundamental  Law  on  the  state  of preventive defence,
+d) state of preventive defence, the provisions of the Fundamental Law on the state of preventive defence,
 
-- state defined in Section 19/E of Act XX of 1949 on the Constitution of the Republic of Hungary, the provisions of the Fundamental Law on unexpected attack, and
+e) state defined in Section 19/E of Act XX of 1949 on the Constitution of the Republic of Hungary, the provisions of the Fundamental Law on unexpected attack, and
 
-f) state of danger, the provisions of the Fundamental Law on the state of danger shall apply.
+f) state of danger, the provisions of the Fundamental Law on the state of danger
+shall apply.
 
-(1)  Anyone  prohibited  from  participating  in  public  affairs  under  a  final  and  binding sentence at the entry into force of the Fundamental Law shall not have the right to vote and to be voted for while the prohibition is in force.
+24. (1) Anyone prohibited from participating in public affairs under a final and binding sentence at the entry into force of the Fundamental Law shall not have the right to vote and to be voted for while the prohibition is in force.
 
-- Anyone under guardianship restricting or excluding his or her capacity to act under a final and binding judgment at the entry into force of the Fundamental Law shall not have the right  to  vote  and  to  be  voted  for  until  such  guardianship  is  terminated  or  until  a  court establishes the existence of his or her right to vote and to be voted for.
+(2) Anyone under guardianship restricting or excluding his or her capacity to act under a final and binding judgment at the entry into force of the Fundamental Law shall not have the right to vote and to be voted for until such guardianship is terminated or until a court establishes the existence of his or her right to vote and to be voted for.
 
-(1) Section 12 (2) of Act XX of 1949 on the Constitution of the Republic of Hungary in force on 31 December 2011 shall, until 31 December 2013, apply to the delivery of any local government property to the State or another local government.
+25. (1) Section 12 (2) of Act XX of 1949 on the Constitution of the Republic of Hungary in force on 31 December 2011 shall, until 31 December 2013, apply to the delivery of any local government property to the State or another local government.
 
-- Section 44/B (4) of Act XX of 1949 on the Constitution of the Republic of Hungary in force on 31 December 2011 shall apply until 31 December 2012. After 31 December 2011, an Act,  or  a  government  decree  based  on  authorisation  by  an  Act  may  specify  functions  and powers of state administration for local government clerks.
+(2) Section 44/B (4) of Act XX of 1949 on the Constitution of the Republic of Hungary in force on 31 December 2011 shall apply until 31 December 2012. After 31 December 2011, an Act, or a government decree based on authorisation by an Act may specify functions and powers of state administration for local government clerks.
 
-- Section 22 (1) and (3) to (5) of Act XX of 1949 on the Constitution of the Republic of Hungary in force on 31 December 2011 shall apply until the entry into force of the cardinal Act referred to in Article 5 (8) of the Fundamental Law. The National Assembly shall adopt the cardinal Act referred to in Articles 5 (8) and 7 (3) of the Fundamental Law by 30 June 2012.
+(3) Section 22 (1) and (3) to (5) of Act XX of 1949 on the Constitution of the Republic of Hungary in force on 31 December 2011 shall apply until the entry into force of the cardinal Act referred to in Article 5 (8) of the Fundamental Law. The National Assembly shall adopt the cardinal Act referred to in Articles 5 (8) and 7 (3) of the Fundamental Law by 30 June 2012.
 
-- Until 31 December 2012, a cardinal Act may provide that, for the adoption of certain decisions of the National Assembly, a qualified majority shall be required.
+(4) Until 31 December 2012, a cardinal Act may provide that, for the adoption of certain decisions of the National Assembly, a qualified majority shall be required.
 
-- The following shall be repealed:
+26. The following shall be repealed:
 
-- Act XX of 1949 on the Constitution of the Republic of Hungary,
+a) Act XX of 1949 on the Constitution of the Republic of Hungary,
 
-- Act  I  of  1972  on  the  amendment  to  Act  XX  of  1949  and  the  consolidated  text  of  the Constitution of the People's Republic of Hungary,
+b) Act I of 1972 on the amendment to Act XX of 1949 and the consolidated text of the Constitution of the People’s Republic of Hungary,
 
-- Act XXXI of 1989 on the amendment to the Constitution,
+c) Act XXXI of 1989 on the amendment to the Constitution,
 
-- Act XVI of 1990 on the amendment to the Constitution of the Republic of Hungary,
+d) Act XVI of 1990 on the amendment to the Constitution of the Republic of Hungary,
 
-- Act XXIX of 1990 on the amendment to the Constitution of the Republic of Hungary,
+e) Act XXIX of 1990 on the amendment to the Constitution of the Republic of Hungary,
 
-- Act XL of 1990 on the amendment to the Constitution of the Republic of Hungary,
+f) Act XL of 1990 on the amendment to the Constitution of the Republic of Hungary,
 
-- the Amendment to the Constitution dated 25 May 2010,
+g) the Amendment to the Constitution dated 25 May 2010,
 
-- the Amendment to the Constitution dated 5 July 2010,
+h) the Amendment to the Constitution dated 5 July 2010,
 
-- the Amendments to the Constitution dated 6 July 2010,
+i) the Amendments to the Constitution dated 6 July 2010,
 
-- the Amendments to the Constitution dated 11 August 2010,
+j) the Amendments to the Constitution dated 11 August 2010,
 
-- Act  CXIII  of  2010  on  the  amendment  to  Act  XX  of  1949  on  the  Constitution  of  the Republic of Hungary,
+k) Act CXIII of 2010 on the amendment to Act XX of 1949 on the Constitution of the Republic of Hungary,
 
-- Act  CXIX  of  2010  on  the  amendment  to  Act  XX  of  1949  on  the  Constitution  of  the Republic of Hungary,
+l) Act CXIX of 2010 on the amendment to Act XX of 1949 on the Constitution of the Republic of Hungary,
 
-- Act CLXIII of 2010 on the amendment to Act XX of 1949 on the Constitution of the Republic of Hungary,
+m) Act CLXIII of 2010 on the amendment to Act XX of 1949 on the Constitution of the Republic of Hungary,
 
 40
 
@@ -1921,29 +1940,29 @@ The Fundamental Law of Hungary (as in force on 29 June 2018)
 
 This document has been produced for informational purposes only.
 
-- Act  LXI  of  2011  on  the  amendment  to  Act  XX  of  1949  on  the  Constitution  of  the Republic of Hungary required for the adoption of certain transitional provisions related to the Fundamental Law,
+n) Act LXI of 2011 on the amendment to Act XX of 1949 on the Constitution of the Republic of Hungary required for the adoption of certain transitional provisions related to the Fundamental Law,
 
-- Act  CXLVI of 2011 on the amendment to Act XX of 1949 on the Constitution of the Republic of Hungary, and
+o) Act CXLVI of 2011 on the amendment to Act XX of 1949 on the Constitution of the Republic of Hungary, and
 
-- Act  CLIX  of  2011  on  the  amendment  to  Act  XX  of  1949  on  the  Constitution  of  the Republic of Hungary.
+p) Act CLIX of 2011 on the amendment to Act XX of 1949 on the Constitution of the Republic of Hungary.
 
-- Until  the  cardinal  Act  establishing  the  administrative  court  system  enters  into  force, courts shall decide
+27. Until the cardinal Act establishing the administrative court system enters into force, courts shall decide
 
-- on criminal matters, civil disputes and other matters specified in an Act;
+a) on criminal matters, civil disputes and other matters specified in an Act;
 
-- on the lawfulness of administrative decisions;
+b) on the lawfulness of administrative decisions;
 
-- on the conflict of local government decrees with any other law, and their annulment;
+c) on the conflict of local government decrees with any other law, and their annulment;
 
-- on the establishment of an omission by a local government of its obligation to legislate based on an Act.
+d) on the establishment of an omission by a local government of its obligation to legislate based on an Act.
 
-- Until the cardinal Act establishing the administrative court system enters into force, the central responsibilities of the administration of the courts shall be performed by the President of  the  National  Office  for  the  Judiciary.  The  National  Judicial  Council  shall  supervise  the central administration of the courts. The National Judicial Council and other bodies of judicial self-government shall participate in the administration of the courts.
+28. Until the cardinal Act establishing the administrative court system enters into force, the central responsibilities of the administration of the courts shall be performed by the President of the National Office for the Judiciary. The National Judicial Council shall supervise the central administration of the courts. The National Judicial Council and other bodies of judicial self-government shall participate in the administration of the courts.
 
 *
 
 We, the Members of the National Assembly elected on 25 April 2010, being aware of our responsibility before God and man and in exercise of our constituent power, hereby adopt this to be the first unified Fundamental Law of Hungary.
 
-'MAY THERE BE PEACE, FREEDOM AND ACCORD'
+“MAY THERE BE PEACE, FREEDOM AND ACCORD”
 
 41
 
