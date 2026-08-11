@@ -8,9 +8,9 @@ Mauritius
 
 Organization or entity responsible for the preparation of the report: Ministry of Education, Tertiary Education, Science and Technology
 
-# Information on the legislative, judicial, administrative and other measures taken by the state at the national level
+# I. Information on the legislative, judicial, administrative and other measures taken by the state at the national level
 
-## Ratification of the Convention 1
+## 1. Ratification of the Convention 1
 
 Is your country a State Party to the Convention?
 
@@ -44,7 +44,7 @@ http://portal.unesco.org/en/ev.php-URL_ID=12949&URL_DO=DO_TOPIC&URL_SECTION=201.
 
 [[START OF PAGE 2]]
 
-## Ratification of the Protocol 2 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
+## 2. Ratification of the Protocol 2 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
 
 Has your country ratified the Protocol?
 
@@ -52,7 +52,7 @@ o Yes
 
 ☑ No, please briefly explain the difficulties encountered:
 
-## Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
+## 3. Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
 
 ### In case your country is a State Party to the Convention:
 
@@ -104,11 +104,11 @@ If yes, the report could list the main texts adopted to guarantee the right to e
 
 Information supplied could demonstrate how such policies and programmes comply with commitments of the right to education under the Recommendation.
 
-# Information on the implementation of the Convention or Recommendation
+# II. Information on the implementation of the Convention or Recommendation
 
-## Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
+## 1. Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
 
-Articles/Paragraphs  1(1),  2  and  3  of  the  Convention/Recommendation  provide  for  non- discrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
+Articles/Paragraphs  1(1),  2  and  3  of  the  Convention/Recommendation  provide  for  non-discrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
 
 This corresponds to the overall aspiration of SDG4 which aims to 'ensure inclusive and equitable quality education and promote lifelong learning opportunities for all' by 2030. It therefore covers all the SDG4 targets, but also specifically SDG target 4.5. 3
 
@@ -166,7 +166,7 @@ The University of Mauritius (OUM) in particular, has also adopted the following:
 
 ☑ Regulations ensure equal access to all levels and types of education
 
-☑ P olicies and programmes ensure equal access to all levels and types of education
+☑ Policies and programmes ensure equal access to all levels and types of education
 
 o Other:
 
@@ -246,7 +246,7 @@ According to the Civil Code 1990 the age of marriage is 18
 
 ### 2.1 Pre-primary education
 
-Pre-primary  education  is  not  explicitly  provided  for  in  the  Convention/Recommendation. However, the international community has increasingly recognized the importance of early childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 7 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory preprimary education'.
+Pre-primary  education  is  not  explicitly  provided  for  in  the  Convention/Recommendation. However, the international community has increasingly recognized the importance of early childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 7 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 - Is compulsory and free of charge pre-primary education available in your country?
 
@@ -367,7 +367,6 @@ In  this  part,  you  may  also  provide  information  on  the  difficulties  ex
 [[START OF PAGE 9]]
 
 Education in Mauritius is compulsory from the age of 5 up to the age on 16. Necessary legal provision has been made within the Education Act in 2004.
----
 Compulsory education therefore covers primary schooling (6 years) and the first cycle of secondary education (5 years).
 The Gross Enrolment Ratio (11-17 years) for year 2019 stood at 88.4% - statistical survey for 2020 has been delayed due to the Covid-19 school closure.
 The remaining percentage concerns mostly students with special education needs who are attending specialised institutions and others who have been enrolled by their parents in some informal educational set up.
@@ -383,7 +382,6 @@ Yes ☑ No o
 - Please provide reference to the relevant laws and provisions:
 
 Provisions made in the Employment Rights Act are as follows:
----
 Section 12 Employment of children and young persons
 (1) No person shall employ a child for employment or work in any occupation.
 (2) No person shall employ, or continue to employ, a young person -
@@ -599,7 +597,7 @@ All  students  with  disabilities  considering  whether  to  apply  to  the  UoM
 
 (c)   Students with mobility difficulties are strongly advised to visit the University since some physical environment of the UoM may not be fully accessible to such  students  (e.g.  wheelchair  users  or  those  who  have  difficulties  with stairs). The ASRO and the Faculty/ Centre must therefore ensure that due consideration  is  given  to  such  applications.  If  reasonable  adjustments  to buildings  and  procedures  cannot  be  put  in  place,  it  is  essential  that  the applicant is informed in a timely manner.
 
-##### Special Examination Arrangements:
+##### 2. Special Examination Arrangements:
 
 - Extra time is allowed (a maximum of 25%);
 
@@ -679,9 +677,9 @@ The Authority is responsible for:
 
 The Norms and Standards are key requirements that will serve as guide towards the attainment of an inclusive, equitable and effective education system. This document will also
 
-- enhance the provision of quality education, effective care, safety and security to learners in SEN Institutions; and
+1. enhance the provision of quality education, effective care, safety and security to learners in SEN Institutions; and
 
-- provide uniformity in the SEN Institutions with regard to operation, governance, curriculum, student learning outcomes, pedagogical materials and facilities, infrastructure and food and nutrition.
+2. provide uniformity in the SEN Institutions with regard to operation, governance, curriculum, student learning outcomes, pedagogical materials and facilities, infrastructure and food and nutrition.
 
 The  Norms  and  Standards  document  will  be  supplemented  three  additional documents namely: Guide for a Code of Ethics for SEN Institutions, A Guide to the Disciplinary Policy for SEN Institutions and Nutritional Chart for SEN Learners).
 
@@ -883,13 +881,11 @@ Please briefly elaborate further on the measures taken:
 
 Not applicable
 
-# Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
+# III. Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
 
-## Challenges and obstacles
+## 1. Challenges and obstacles
 
 ### 1.1 Please indicate and provide any information on the difficulties encountered in the process of implementing  the  key  provisions  of  the  Convention/Recommendation  (including  legal  and practical obstacles) and on the main issues that need to be addressed for promoting further the right to education in your country (several items could be ticked/mentioned):
-
-☑
 
 o Challenges related to equitable access and inclusion in education (such as poverty and socio-economic  factors,  cultural  and  traditional  attitudes,  remoteness,  migration  and displacement, etc.)
 
@@ -925,7 +921,7 @@ o Translation  of  the  Convention/Recommendation  into  the  national  and  pos
 
 ☑ Increased public awareness through advocacy material on the Convention/ Recommendation or the core principles of the right to education
 
-☑ Activities undertaken or supported by the National Commission  to promote non- discrimination  and  equality  of  educational  opportunities  and  to  foster  debate  on  critical issues in relation to the rights enshrined in the instruments
+☑ Activities undertaken or supported by the National Commission  to promote non-discrimination  and  equality  of  educational  opportunities  and  to  foster  debate  on  critical issues in relation to the rights enshrined in the instruments
 
 o Other:
 
