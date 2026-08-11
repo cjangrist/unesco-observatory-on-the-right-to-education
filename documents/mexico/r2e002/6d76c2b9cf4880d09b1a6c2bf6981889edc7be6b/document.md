@@ -22,7 +22,7 @@ Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente
 
 ## DECRETO
 
-' EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A:
+“EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A:
 
 ## SE CREA LA LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS Y REFORMA LA FRACCIÓN IV, DEL ARTÍCULO 7o. DE LA LEY GENERAL DE EDUCACIÓN
 
@@ -46,8 +46,8 @@ Las  lenguas  indígenas  son  parte  integrante  del  patrimonio  cultural  y  
 
 Artículo reformado DOF 15-12-2015
 
-### ARTÍCULO 4.
-Las  lenguas  indígenas  que  se  reconozcan  en  los  términos  de  la  presente  Ley  y  el español son lenguas nacionales por su origen histórico y tendrá momento los  derechos  humanos  a  la  no  discriminación  y  acceso  a  la  justicia  de  conformidad  con  la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales en la materia de los que el Estado Mexicano sea parte.
+### ARTÍCULO 4.-
+Las lenguas indígenas que se reconozcan en los términos de la presente Ley y el español son lenguas nacionales por su origen histórico y tendrán la misma validez, garantizando en todo momento los derechos humanos a la no discriminación y acceso a la justicia de conformidad con la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales en la materia de los que el Estado Mexicano sea parte.
 
 1 de 16
 
@@ -72,9 +72,9 @@ El  Estado  adoptará  e  instrumentará  las  medidas  necesarias  para  asegur
 ### ARTÍCULO 7.
 Las lenguas indígenas serán válidas, al igual que el español, para cualquier asunto o trámite  de  carácter  público,  así  como  para  acceder  plenamente  a  la  gestión,  servicios  e  información pública.  Al  Estado  corresponde  garantizar  el  ejercicio  de  los  derechos  previstos  en  este  artículo, conforme a lo siguiente:
 
-- a).En  el  Distrito  Federal  y  las  demás  entidades  federativas  con  municipios  o  comunidades  que hablen lenguas indígenas, los Gobiernos correspondientes, en consulta con las comunidades indígenas originarias y migrantes, determinarán cuáles de sus dependencias  administrativas adoptarán e instrumentarán las medidas para que las instancias requeridas puedan atender y resolver los asuntos que se les planteen en lenguas indígenas.
+- a).- En el Distrito Federal y las demás entidades federativas con municipios o comunidades que hablen lenguas indígenas, los Gobiernos correspondientes, en consulta con las comunidades indígenas originarias y migrantes, determinarán cuáles de sus dependencias administrativas adoptarán e instrumentarán las medidas para que las instancias requeridas puedan atender y resolver los asuntos que se les planteen en lenguas indígenas.
 
-- b).En los municipios con comunidades que hablen lenguas indígenas, se adoptarán e instrumentarán las medidas a que se refiere el párrafo anterior, en todas sus instancias.
+- b).- En los municipios con comunidades que hablen lenguas indígenas, se adoptarán e instrumentarán las medidas a que se refiere el párrafo anterior, en todas sus instancias.
 
 La Federación y las entidades federativas tendrán disponibles y difundirán a través de textos, medios audiovisuales  e  informáticos:  leyes,  reglamentos,  así  como  los  contenidos  de  los  programas,  obras, servicios dirigidos a las comunidades indígenas, en la lengua de sus correspondientes beneficiarios.
 
@@ -101,6 +101,8 @@ LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS
 
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretaría de Servicios Parlamentarios
 
+Última Reforma DOF 17-12-2015
+
 En los términos del artículo 5o., en las entidades federativas y en los municipios con comunidades que hablen lenguas indígenas, se adoptarán e instrumentarán las medidas a que se refiere el párrafo anterior, en las instancias que se requieran.
 
 ### ARTÍCULO 11.
@@ -116,25 +118,23 @@ La  sociedad  y  en  especial  los  habitantes  y  las  instituciones  de  los  
 ### ARTÍCULO  13.
 Corresponde  al  Estado  en  sus  distintos  órdenes  de  gobierno  la  creación  de instituciones y la realización de actividades en sus respectivos ámbitos de competencia, para lograr los objetivos generales de la presente Ley, y en particular las siguientes:
 
-- Incluir  dentro  de  los  planes  y  programas,  nacionales,  estatales  y  municipales  en  materia  de educación y cultura indígena las políticas y acciones tendientes a la protección, preservación, promoción y desarrollo bajo un contexto de respeto y reconocimiento de las diversas lenguas indígenas nacionales, contando con la participación de los pueblos y comunidades indígenas;
-
-- Difundir en las lenguas indígenas nacionales de los beneficiarios, el contenido de los programas, obras y servicios dirigidos a las comunidades indígenas;
-
-- Difundir  a  través  de  los  medios  de  comunicación  las  lenguas  indígenas  nacionales de la región para promover su uso y desarrollo;
-
-- Incluir en los programas de estudio de la educación básica y normal, el origen y evolución de las lenguas indígenas nacionales, así como de sus aportaciones a la cultura nacional;
-
-- Supervisar que en la educación pública y privada se fomente o implemente la interculturalidad, el multilingüismo  y  el  respeto  a  la  diversidad  lingüística  para  contribuir  a  la  preservación,  estudio  y desarrollo de las lenguas indígenas nacionales y su literatura;
-
-- Garantizar  que  los  profesores  que  atiendan  la  educación  básica  bilingüe  en  comunidades indígenas hablen y escriban la lengua del lugar y conozcan la cultura del pueblo indígena de que se trate;
-
-- Impulsar  políticas  de  investigación,  difusión,  estudios  y  documentación  sobre  las  lenguas indígenas nacionales y sus expresiones literarias;
-
-- Crear  bibliotecas, hemerotecas,  centros  culturales  u  otras  instituciones  depositarias  que conserven los materiales lingüísticos en lenguas indígenas nacionales;
+- I. Incluir dentro de los planes y programas, nacionales, estatales y municipales en materia de educación y cultura indígena las políticas y acciones tendientes a la protección, preservación, promoción y desarrollo bajo un contexto de respeto y reconocimiento de las diversas lenguas indígenas nacionales, contando con la participación de los pueblos y comunidades indígenas;
 
 Fracción reformada DOF 15-12-2015
 
-Última Reforma DOF 17-12-2015
+- II. Difundir en las lenguas indígenas nacionales de los beneficiarios, el contenido de los programas, obras y servicios dirigidos a las comunidades indígenas;
+
+- III. Difundir a través de los medios de comunicación las lenguas indígenas nacionales de la región para promover su uso y desarrollo;
+
+- IV. Incluir en los programas de estudio de la educación básica y normal, el origen y evolución de las lenguas indígenas nacionales, así como de sus aportaciones a la cultura nacional;
+
+- V. Supervisar que en la educación pública y privada se fomente o implemente la interculturalidad, el multilingüismo y el respeto a la diversidad lingüística para contribuir a la preservación, estudio y desarrollo de las lenguas indígenas nacionales y su literatura;
+
+- VI. Garantizar que los profesores que atiendan la educación básica bilingüe en comunidades indígenas hablen y escriban la lengua del lugar y conozcan la cultura del pueblo indígena de que se trate;
+
+- VII. Impulsar políticas de investigación, difusión, estudios y documentación sobre las lenguas indígenas nacionales y sus expresiones literarias;
+
+- VIII. Crear bibliotecas, hemerotecas, centros culturales u otras instituciones depositarias que conserven los materiales lingüísticos en lenguas indígenas nacionales;
 
 3 de 16
 
@@ -146,23 +146,25 @@ LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS
 
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretaría de Servicios Parlamentarios
 
-- Procurar que en las bibliotecas públicas se reserve un lugar para la conservación de la información y documentación más representativa de la literatura y lenguas indígenas nacionales;
+Última Reforma DOF 17-12-2015
 
-- Apoyar a las instituciones públicas y privadas, así como a las organizaciones de la sociedad civil, legalmente constituidas, que  realicen investigaciones etnolingüísticas, en todo lo relacionado al cumplimiento de los objetivos de esta Ley;
+- IX. Procurar que en las bibliotecas públicas se reserve un lugar para la conservación de la información y documentación más representativa de la literatura y lenguas indígenas nacionales;
 
-- Apoyar la formación y acreditación profesional de intérpretes y traductores en lenguas indígenas nacionales y español;
+- X. Apoyar a las instituciones públicas y privadas, así como a las organizaciones de la sociedad civil, legalmente constituidas, que realicen investigaciones etnolingüísticas, en todo lo relacionado al cumplimiento de los objetivos de esta Ley;
 
-- Garantizar que las instituciones, dependencias y oficinas públicas cuenten con personal que tenga conocimientos de las lenguas indígenas nacionales requeridas en sus respectivos territorios;
+- XI. Apoyar la formación y acreditación profesional de intérpretes y traductores en lenguas indígenas nacionales y español;
 
-- Establecer políticas, acciones y vías para proteger y preservar el uso de las lenguas y culturas nacionales de los migrantes indígenas en el territorio nacional y en el extranjero;
+- XII. Garantizar que las instituciones, dependencias y oficinas públicas cuenten con personal que tenga conocimientos de las lenguas indígenas nacionales requeridas en sus respectivos territorios;
 
-Fracción reformada DOF 06-04-2010
-
-- Propiciar  y  fomentar  que  los  hablantes  de  las  lenguas  indígenas  nacionales  participen  en  las políticas  que  promuevan  los  estudios  que  se  realicen  en  los  diversos  órdenes  de  gobierno,  espacios académicos y de investigación, y
+- XIII. Establecer políticas, acciones y vías para proteger y preservar el uso de las lenguas y culturas nacionales de los migrantes indígenas en el territorio nacional y en el extranjero;
 
 Fracción reformada DOF 06-04-2010
 
-XV. Instrumentar las medidas necesarias para que en los municipios indígenas del país, las señales informativas de nomenclatura oficial así como sus topónimos, sean inscritos en español y en las lenguas originarias de uso en el territorio.
+- XIV. Propiciar y fomentar que los hablantes de las lenguas indígenas nacionales participen en las políticas que promuevan los estudios que se realicen en los diversos órdenes de gobierno, espacios académicos y de investigación, y
+
+Fracción reformada DOF 06-04-2010
+
+- XV. Instrumentar las medidas necesarias para que en los municipios indígenas del país, las señales informativas de nomenclatura oficial así como sus topónimos, sean inscritos en español y en las lenguas originarias de uso en el territorio.
 
 Fracción adicionada DOF 06-04-2010
 
@@ -173,15 +175,13 @@ Se crea el Instituto Nacional de Lenguas Indígenas, como organismo descentraliz
 
 Párrafo reformado DOF 17-12-2015
 
-- Diseñar  estrategias  e  instrumentos  para  el  desarrollo  de  las  lenguas  indígenas  nacionales,  en coordinación con los tres órdenes de gobierno y los pueblos y comunidades indígenas.
+- a) Diseñar estrategias e instrumentos para el desarrollo de las lenguas indígenas nacionales, en coordinación con los tres órdenes de gobierno y los pueblos y comunidades indígenas.
 
-- Promover programas, proyectos y acciones para vigorizar el conocimiento de las culturas y lenguas indígenas nacionales.
+- b) Promover programas, proyectos y acciones para vigorizar el conocimiento de las culturas y lenguas indígenas nacionales.
 
-- Ampliar el ámbito social de uso de las lenguas indígenas nacionales y promover el acceso a su conocimiento; estimular la preservación, conocimiento y aprecio de las lenguas indígenas en los espacios públicos y los medios de comunicación, de acuerdo a la normatividad en la materia.
+- c) Ampliar el ámbito social de uso de las lenguas indígenas nacionales y promover el acceso a su conocimiento; estimular la preservación, conocimiento y aprecio de las lenguas indígenas en los espacios públicos y los medios de comunicación, de acuerdo a la normatividad en la materia.
 
-- Establecer la normatividad y formular programas para certificar y acreditar a técnicos, intérpretes, traductores y profesionales bilingües. Impulsar la formación de especialistas en la materia, que asimismo
-
-Última Reforma DOF 17-12-2015
+- d) Establecer la normatividad y formular programas para certificar y acreditar a técnicos, intérpretes, traductores y profesionales bilingües. Impulsar la formación de especialistas en la materia, que asimismo
 
 4 de 16
 
@@ -199,21 +199,21 @@ sean conocedores de la cultura de que se trate, vinculando sus actividades y pro
 
 Inciso reformado DOF 18-06-2010
 
-- Formular y realizar proyectos de desarrollo lingüístico, literario y educativo.
+- e) Formular y realizar proyectos de desarrollo lingüístico, literario y educativo.
 
-- Elaborar y promover la producción de gramáticas, la estandarización de escrituras y la promoción de la lectoescritura en lenguas indígenas nacionales.
+- f) Elaborar y promover la producción de gramáticas, la estandarización de escrituras y la promoción de la lectoescritura en lenguas indígenas nacionales.
 
-- Realizar  y  promover  investigación  básica  y  aplicada  para  mayor  conocimiento  de  las  lenguas indígenas nacionales y promover su difusión.
+- g) Realizar y promover investigación básica y aplicada para mayor conocimiento de las lenguas indígenas nacionales y promover su difusión.
 
-- Realizar investigaciones para conocer la diversidad de las lenguas indígenas nacionales, y apoyar al Instituto Nacional de Estadística, Geografía e Informática a diseñar la metodología para la realización del censo sociolingüístico para conocer el número y distribución de sus hablantes.
+- h) Realizar investigaciones para conocer la diversidad de las lenguas indígenas nacionales, y apoyar al Instituto Nacional de Estadística, Geografía e Informática a diseñar la metodología para la realización del censo sociolingüístico para conocer el número y distribución de sus hablantes.
 
-- Actuar como órgano de consulta y asesoría de las dependencias y entidades de la Administración Pública Federal, así como de las instancias de los Poderes Legislativo y Judicial, de los gobiernos de los estados y de los municipios, y de las instituciones y organizaciones sociales y privadas en la materia.
+- i) Actuar como órgano de consulta y asesoría de las dependencias y entidades de la Administración Pública Federal, así como de las instancias de los Poderes Legislativo y Judicial, de los gobiernos de los estados y de los municipios, y de las instituciones y organizaciones sociales y privadas en la materia.
 
-- Informar  sobre  la  aplicación  de  lo  que  dispone  la  Constitución,  los  tratados  internacionales ratificados  por  México  y  esta  Ley,  en  materia  de  lenguas  indígenas,  y  expedir  a  los  tres  órdenes  de gobierno las recomendaciones y medidas pertinentes para garantizar su preservación y desarrollo.
+- j) Informar sobre la aplicación de lo que dispone la Constitución, los tratados internacionales ratificados por México y esta Ley, en materia de lenguas indígenas, y expedir a los tres órdenes de gobierno las recomendaciones y medidas pertinentes para garantizar su preservación y desarrollo.
 
-- Promover y apoyar la creación y funcionamiento de institutos en los estados y municipios, conforme a  las  leyes  aplicables  de  las  entidades  federativas,  según  la  presencia  de  las  lenguas  indígenas nacionales en los territorios respectivos.
+- k) Promover y apoyar la creación y funcionamiento de institutos en los estados y municipios, conforme a las leyes aplicables de las entidades federativas, según la presencia de las lenguas indígenas nacionales en los territorios respectivos.
 
-- Celebrar  convenios,  con  apego  a  la  Constitución  Política  de  los  Estados  Unidos  Mexicanos,  con personas  físicas  o  morales  y  con  organismos  públicos  o  privados,  nacionales,  internacionales  o extranjeros, con apego a las actividades propias del Instituto y a la normatividad aplicable.
+- l) Celebrar convenios, con apego a la Constitución Política de los Estados Unidos Mexicanos, con personas físicas o morales y con organismos públicos o privados, nacionales, internacionales o extranjeros, con apego a las actividades propias del Instituto y a la normatividad aplicable.
 
 ### ARTÍCULO 15.
 La administración del Instituto Nacional de Lenguas Indígenas estará a cargo de un Consejo  Nacional,  como  órgano  colectivo  de  gobierno,  y  un  Director  General  responsable  del funcionamiento  del  propio  Instituto.  El  domicilio  legal  del  Instituto  será  la  Ciudad  de  México,  Distrito Federal.
@@ -223,15 +223,15 @@ El  Consejo  Nacional  se  integrará  con:  siete  representantes  de  la  admi
 
 Los representantes de la Administración Pública Federal son los siguientes:
 
-- 1).El Secretario de Cultura, quien lo presidirá en su carácter de titular de la coordinadora de sector, con fundamento en lo establecido en la Ley Federal de Entidades Paraestatales.
+- 1).- El Secretario de Cultura, quien lo presidirá en su carácter de titular de la coordinadora de sector, con fundamento en lo establecido en la Ley Federal de Entidades Paraestatales.
 
 Inciso reformado DOF 17-12-2015
 
-- 2).Un representante de la Secretaría de Hacienda y Crédito Público con el nivel de Subsecretario.
+- 2).- Un representante de la Secretaría de Hacienda y Crédito Público con el nivel de Subsecretario.
 
-- 3).Un representante de la Secretaría de Desarrollo Social.
+- 3).- Un representante de la Secretaría de Desarrollo Social.
 
-- 4).Un representante de la Secretaría de Comunicaciones y Transportes.
+- 4).- Un representante de la Secretaría de Comunicaciones y Transportes.
 
 5 de 16
 
@@ -243,11 +243,19 @@ LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS
 
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretaría de Servicios Parlamentarios
 
-- 5).Un representante de la Secretaría de Educación Pública.
+Última Reforma DOF 17-12-2015
 
-- 7).Un representante de la Secretaría de Relaciones Exteriores.
+- 5).- Un representante de la Secretaría de Educación Pública.
 
-El Director General será designado por el Presidente de los Estados Unidos Mexicanos, a propuesta de una terna presentada por el Consejo Nacional y podrá permanecer en el cargo por un periodo máximo de 6 años; preferentemente hablante nativo de alguna lengua indígena; con experiencia relacionada con alguna  de  las  actividades  sustantivas  del  Instituto  y  gozar  de  reconocido  prestigio  profesional  y académico en la investigación, desarrollo, difusión y uso de las lenguas indígenas.
+Inciso reformado DOF 17-12-2015
+
+- 6).- Un representante de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas.
+
+Inciso reformado DOF 15-12-2015
+
+- 7).- Un representante de la Secretaría de Relaciones Exteriores.
+
+El Director General será designado por el Presidente de los Estados Unidos Mexicanos, a propuesta de una terna presentada por el Consejo Nacional y podrá permanecer en el cargo por un periodo máximo de 6 años; preferentemente hablante nativo de alguna lengua indígena; con experiencia relacionada con alguna de las actividades sustantivas del Instituto y gozar de reconocido prestigio profesional y académico en la investigación, desarrollo, difusión y uso de las lenguas indígenas.
 
 ### ARTÍCULO 17.
 Las reglas de funcionamiento del órgano de gobierno, la estructura administrativa y operativa,  así  como  las  facultades  y  reglas  de  ejecución  del  órgano  de  dirección  del  instituto,  se establecerán en el Reglamento Interno del organismo y que serán expedidas por el Consejo Nacional.
@@ -270,20 +278,12 @@ El patrimonio del Instituto Nacional de Lenguas Indígenas se integrará con los
 
 I. La cantidad que anualmente le fije como subsidio el Gobierno Federal, a través del Presupuesto de Egresos;
 
-- Con los productos que adquiera por las obras que realice y por la venta de sus publicaciones, y
+II. Con los productos que adquiera por las obras que realice y por la venta de sus publicaciones, y
 
 III. Los que adquiera por herencia, legados, donaciones o por cualquier otro título de personas o de instituciones públicas o privadas.
 
 ### ARTÍCULO 22.
-Para garantizar el cumplimiento de las obligaciones y atribuciones señaladas en esta Ley y conforme a lo dispuesto en el penúltimo párrafo del Apartado B, del artículo 2o. de la Constitución Política  de  los  Estados  Unidos  Mexicanos,  en  materia  de  derechos  y  cultura  indígena,  la  Cámara  de
-
-Última Reforma DOF 17-12-2015
-
-Inciso reformado DOF 17-12-2015
-
-- 6).Un representante de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas.
-
-- Inciso reformado DOF 15-12-2015
+Para garantizar el cumplimiento de las obligaciones y atribuciones señaladas en esta Ley y conforme a lo dispuesto en el penúltimo párrafo del Apartado B, del artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de derechos y cultura indígena, la Cámara de
 
 6 de 16
 
@@ -299,7 +299,7 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretarí
 
 Diputados del Congreso de la Unión, las Legislaturas de las Entidades Federativas y los Ayuntamientos, en el ámbito de sus respectivas competencias, establecerán las partidas específicas en los presupuestos de egresos que aprueben para proteger, promover, preservar, usar y desarrollar las lenguas indígenas.
 
-### ARTÍCULO  23.
+### ARTÍCULO 23.-
 Las  relaciones  laborales  del  Instituto  Nacional  de  Lenguas  Indígenas  y  sus trabajadores se regirán por la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del artículo 123 Constitucional.
 
 Artículo reformado DOF 18-06-2010
@@ -352,9 +352,9 @@ En relación  con  la  fracción  VI  del  artículo  13  de  la  presente  Ley,
 ### Octavo.
 Se derogan todas las disposiciones que contravengan al presente Decreto.
 
-México, D.F., a 15 de diciembre de 2002.- Sen. Enrique Jackson Ramírez , Presidente.- Dip. Beatriz Elena Paredes Rangel ,  Presidenta.- Sen. Sara I. Castellanos Cortés ,  Secretario.- Dip. Adela Cerezo Bautista , Secretario.- Rúbricas ' .
+México, D.F., a 15 de diciembre de 2002.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen. Sara I. Castellanos Cortés, Secretario.- Dip. Adela Cerezo Bautista, Secretario.- Rúbricas”.
 
-En cumplimiento de lo dispuesto por la fracción I del Artículo  89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de marzo de dos mil tres.Vicente Fox Quesada .-  Rúbrica.-  El  Secretario  de  Gobernación, Santiago Creel Miranda .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de marzo de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
 8 de 16
 
@@ -384,9 +384,9 @@ Se  adiciona  una  fracción  XV  al  artículo  13  de  la  Ley  General  de  D
 #### Único.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-México, D. F., a 23 de febrero de 2010.- Sen. Carlos Navarrete Ruiz ,  Presidente.- Dip. Francisco Javier  Ramírez  Acuña ,  Presidente.-  Sen. Martha  Leticia  Sosa  Govea ,  Secretaria.-  Dip. Georgina Trujillo Zentella , Secretaria.- Rúbricas. "
+México, D. F., a 23 de febrero de 2010.- Sen. Carlos Navarrete Ruiz, Presidente.- Dip. Francisco Javier Ramírez Acuña, Presidente.- Sen. Martha Leticia Sosa Govea, Secretaria.- Dip. Georgina Trujillo Zentella, Secretaria.- Rúbricas."
 
-En cumplimiento de lo dispuesto por la fracción I del Artículo  89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia  del  Poder  Ejecutivo  Federal,  en  la  Ciudad  de  México,  Distrito  Federal,  a  treinta  y  uno  de marzo de dos mil diez.Felipe de Jesús Calderón Hinojosa .- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta y uno de marzo de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 
 9 de 16
 
@@ -397,6 +397,8 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo  89 de la Const
 LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS
 
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretaría de Servicios Parlamentarios
+
+Última Reforma DOF 17-12-2015
 
 ## DECRETO por el que se reforma la Ley General de Derechos Lingüísticos de los Pueblos Indígenas.
 
@@ -412,11 +414,9 @@ Se reforma el inciso d) del artículo 14 de la Ley General de Derechos Lingüís
 #### ÚNICO.
 El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-México,  D.F.,  a  29  de  abril  de  2010.-  Dip. Francisco  Javier  Ramirez  Acuña ,  Presidente.-  Sen. Carlos  Navarrete  Ruiz ,  Presidente.-  Dip. Jaime  Arturo  Vazquez  Aguilar ,  Secretario.-  Sen. Adrián Rivera Pérez , Secretario.- Rúbricas. "
+México, D.F., a 29 de abril de 2010.- Dip. Francisco Javier Ramirez Acuña, Presidente.- Sen. Carlos Navarrete Ruiz, Presidente.- Dip. Jaime Arturo Vazquez Aguilar, Secretario.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas."
 
-En cumplimiento de lo dispuesto por la fracción I del Artículo  89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a catorce de junio de dos  mil  diez.Felipe  de  Jesús  Calderón  Hinojosa .-  Rúbrica.-  El  Secretario  de  Gobernación,  Lic. Fernando Francisco Gómez Mont Urueta .- Rúbrica.
-
-Última Reforma DOF 17-12-2015
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a catorce de junio de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 
 10 de 16
 
@@ -428,25 +428,25 @@ LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS
 
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretaría de Servicios Parlamentarios
 
+Última Reforma DOF 17-12-2015
+
 ## DECRETO por el que se reforma el artículo 23 de la Ley General de Derechos Lingüísticos de los Pueblos Indígenas.
 
 Publicado en el Diario Oficial de la Federación el 18 de junio de 2010
 
-### Artículo Único.
+### Artículo Único.-
 Se reforma el artículo 23 de la Ley General de Derechos Lingüísticos de los Pueblos Indígenas, para quedar como sigue:
 
 ……….
 
 ### Transitorio
 
-#### Único.
+#### Único.-
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-México, D. F., a 6 de abril de 2010.- Sen. Carlos Navarrete Ruiz , Presidente.- Dip. Francisco Javier Ramírez  Acuña ,  Presidente.-  Sen. Martha  Leticia  Sosa  Govea ,  Secretaria.-  Dip. Carlos  Samuel Moreno Terán , Secretario.- Rúbricas. "
+México, D. F., a 6 de abril de 2010.- Sen. Carlos Navarrete Ruiz, Presidente.- Dip. Francisco Javier Ramírez Acuña, Presidente.- Sen. Martha Leticia Sosa Govea, Secretaria.- Dip. Carlos Samuel Moreno Terán, Secretario.- Rúbricas."
 
-En cumplimiento de lo dispuesto por la fracción I del Artículo  89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a catorce de junio de dos  mil  diez.Felipe  de  Jesús  Calderón  Hinojosa .-  Rúbrica.-  El  Secretario  de  Gobernación,  Lic. Fernando Francisco Gómez Mont Urueta .- Rúbrica.
-
-Última Reforma DOF 17-12-2015
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a catorce de junio de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 
 11 de 16
 
@@ -458,7 +458,9 @@ LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS
 
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretaría de Servicios Parlamentarios
 
-## DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos  aquellos  artículos  que  hacen  referencia  a  las  Secretarías  de  Estado  cuya denominación  fue  modificada  y  al  Gobierno  del  Distrito  Federal  en  lo  conducente;  así como  eliminar  la  mención  de  los  departamentos  administrativos  que  ya  no  tienen vigencia.
+Última Reforma DOF 17-12-2015
+
+## DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así como eliminar la mención de los departamentos administrativos que ya no tienen vigencia.
 
 Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
@@ -475,11 +477,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 #### Segundo.
 A  partir  de  la  fecha  en  que  entre  en  vigor  este  Decreto,  se  dejan  sin  efecto  las disposiciones que contravengan o se opongan al mismo.
 
-México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo ,  Presidente.-  Sen. José González  Morfín ,  Presidente.-  Dip. Laura  Arizmendi  Campos ,  Secretaria.-  Sen. Renán  Cleominio Zoreda Novelo , Secretario.- Rúbricas. "
+México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbricas."
 
-En cumplimiento de lo dispuesto por la fracción I del Artículo  89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.Felipe de Jesús Calderón Hinojosa .- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero .- Rúbrica.
-
-Última Reforma DOF 17-12-2015
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.
 
 12 de 16
 
@@ -491,7 +491,9 @@ LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS
 
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretaría de Servicios Parlamentarios
 
-## DECRETO por el que se reforma el artículo  4  y  el  numeral  6  del  artículo  16  de  la  Ley General de Derechos Lingüísticos de los Pueblos Indígenas.
+Última Reforma DOF 17-12-2015
+
+## DECRETO por el que se reforma el artículo 4 y el numeral 6 del artículo 16 de la Ley General de Derechos Lingüísticos de los Pueblos Indígenas.
 
 Publicado en el Diario Oficial de la Federación el 15 de diciembre de 2015
 
@@ -502,14 +504,12 @@ Se  reforman  el  artículo  4  y  el  numeral  6  del  artículo  16  de  la  L
 
 ### Transitorio
 
-#### Único.
+#### Único.-
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-México, D.F., a 10 de noviembre de 2015.- Dip. José de Jesús Zambrano Grijalva , Presidente.- Sen. Roberto Gil Zuarth ,  Presidente.-  Dip. Juan Manuel Celis Aguirre ,  Secretario.-  Sen. Hilda E. Flores Escalera , Secretaria.- Rúbricas. "
+México, D.F., a 10 de noviembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Roberto Gil Zuarth, Presidente.- Dip. Juan Manuel Celis Aguirre, Secretario.- Sen. Hilda E. Flores Escalera, Secretaria.- Rúbricas."
 
-En cumplimiento de lo dispuesto por la fracción I del Artículo  89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de diciembre de dos mil quince.Enrique Peña Nieto .-  Rúbrica.-  El  Secretario  de  Gobernación, Miguel Ángel Osorio Chong .- Rúbrica.
-
-Última Reforma DOF 17-12-2015
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 
 13 de 16
 
@@ -527,7 +527,7 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretarí
 
 Publicado en el Diario Oficial de la Federación el 15 de diciembre de 2015
 
-### Artículo Único.
+### Artículo Único.-
 Se reforman los artículos 1, 3, 11 y la fracción I del artículo 13 de la Ley General de Derechos Lingüísticos de los Pueblos Indígenas, para quedar como sigue:
 
 ………
@@ -537,9 +537,9 @@ Se reforman los artículos 1, 3, 11 y la fracción I del artículo 13 de la Ley 
 #### Único.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-México, D.F., a 10 de noviembre de 2015.- Dip. José de Jesús Zambrano Grijalva , Presidente.- Sen. Roberto Gil Zuarth , Presidente.- Dip. Ana Guadalupe Perea Santos , Secretaria.- Sen. Hilda E. Flores Escalera , Secretaria.- Rúbricas. "
+México, D.F., a 10 de noviembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Roberto Gil Zuarth, Presidente.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Sen. Hilda E. Flores Escalera, Secretaria.- Rúbricas."
 
-En cumplimiento de lo dispuesto por la fracción I del Artículo  89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de diciembre de dos mil quince.Enrique Peña Nieto .-  Rúbrica.-  El  Secretario  de  Gobernación, Miguel Ángel Osorio Chong .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a once de diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 
 14 de 16
 
@@ -557,7 +557,7 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretarí
 
 Publicado en el Diario Oficial de la Federación el 17 de diciembre de 2015
 
-### ARTÍCULO  CUARTO.
+### ARTÍCULO CUARTO.-
 Se  REFORMAN  los  artículos  14,  párrafo  primero  y  16,  párrafo  segundo, numerales  1  y  5  de  la  Ley  General  de  Derechos  Lingüísticos  de  los  Pueblos  Indígenas,  para  quedar como sigue:
 
 ……….
@@ -610,9 +610,9 @@ Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto
 #### DÉCIMO.
 Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 
-México, D.F., a 15 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva , Presidente.- Sen. Roberto  Gil  Zuarth ,  Presidente.-  Dip. Verónica  Delgadillo  García ,  Secretaria.-  Sen. María  Elena Barrera Tapia , Secretaria.- Rúbricas. "
+México, D.F., a 15 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Roberto Gil Zuarth, Presidente.- Dip. Verónica Delgadillo García, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
 
-En cumplimiento de lo dispuesto por la fracción I del Artículo  89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia  del  Poder  Ejecutivo  Federal,  en  la  Ciudad  de  México,  Distrito  Federal,  a  dieciséis  de diciembre  de  dos  mil  quince.Enrique  Peña  Nieto .-  Rúbrica.-  El  Secretario  de  Gobernación, Miguel Ángel Osorio Chong .- Rúbrica.
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 
 16 de 16
 
