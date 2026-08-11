@@ -1,5 +1,15 @@
 [[START OF PAGE 1]]
 
+# Public Education Act
+
+Promulgated State Gazette No. 86/18.10.1991, amended, SG No. 90/24.10.1996, amended and supplemented, SG No. 36/31.03.1998, supplemented, SG No. 124/27.10.1998, amended, SG No. 153/23.12.1998, effective 1.01.1999, SG No. 67/27.07.1999, effective 27.07.1999, SG No. 68/30.07.1999, amended and supplemented, SG No. 90/24.09.2002, effective 24.09.2002, SG No. 95/8.10.2002, effective 8.10.2002, SG No. 29/31.03.2003, effective 31.03.2003, amended, SG No. 71/12.08.2003, supplemented, SG No. 86/30.09.2003, effective 1.01.2004, SG No. 114/30.12.2003; amended and supplemented, SG No. 40/14.05.2004, amended, SG No. 28/1.04.2005, effective 1.04.2005, SG No. 94/25.11.2005, effective 25.11.2005, SG No. 103/23.12.2005, 105/29.12.2005, effective 1.01.2006, amended and supplemented, SG No. 41/19.05.2006, SG No. 105/22.12.2006, amended, SG No. 113/28.12.2007, effective 1.01.2008, amended and supplemented, SG No. 50/30.05.2008, supplemented, SG No. 35/12.05.2009, effective 12.05.2009, amended SG No 36/15.05.2009, effective school year 2009-2010, SG No. 74/15.09.2009, effective 15.09.2009, amended and supplemented, SG No. 50/2.07.2010, SG No. 78/5.10.2010, effective 5.10.2010, supplemented, SG No. 9/28.01.2011, amended, SG No. 23/22.03.2011, effective 22.03.2011, amended and supplemented, SG No. 99/16.12.2011, effective 1.01.2012
+
+Text in Bulgarian:
+
+Закон за народната просвета
+
+## Chapter One GENERAL PROVISIONS
+
 ### Article 1
 
 This Act shall regulate the structure, functions and management of the system of public education.
@@ -10,25 +20,15 @@ The system of public education shall include kindergartens, schools and auxiliar
 
 ### Article 3
 
-The  system  of  public  education  shall  ensure  education  in  conformity  with  state educational requirements.
+The system of public education shall ensure education in conformity with state educational requirements.
 
 ### Article 4
 
-- All  citizens  shall  have  the  right  to  education.  They  shall  be  entitled  to  constantly heighten their education and qualifications.
+(1) All citizens shall have the right to education. They shall be entitled to constantly heighten their education and qualifications.
 
-- Restrictions or privileges based on race, nationality, sex, ethnic and social origin, religion and social status shall be inadmissible.
+(2) Restrictions or privileges based on race, nationality, sex, ethnic and social origin, religion and social status shall be inadmissible.
 
 ### Article 4a
-
-# Public Education Act
-
-Promulgated  State  Gazette  No.  86/18.10.1991,  amended,  SG  No.  90/24.10.1996, amended and supplemented, SG No. 36/31.03.1998, supplemented, SG No. 124/27.10.1998, amended,  SG  No.  153/23.12.1998,  effective  1.01.1999,  SG  No.  67/27.07.1999,  effective 27.07.1999,  SG  No.  68/30.07.1999,  amended  and  supplemented,  SG  No.  90/24.09.2002, effective  24.09.2002,  SG  No.  95/8.10.2002,  effective  8.10.2002,  SG  No.  29/31.03.2003, effective 31.03.2003, amended, SG No. 71/12.08.2003, supplemented, SG No. 86/30.09.2003, effective 1.01.2004, SG No. 114/30.12.2003; amended and supplemented, SG No. 40/14.05.2004, amended, SG No. 28/1.04.2005, effective 1.04.2005, SG No. 94/25.11.2005, effective 25.11.2005, SG No. 103/23.12.2005, 105/29.12.2005, effective 1.01.2006, amended and  supplemented,  SG  No.  41/19.05.2006,  SG  No.  105/22.12.2006,  amended,  SG  No. 113/28.12.2007,  effective  1.01.2008,  amended  and  supplemented,  SG  No.  50/30.05.2008, supplemented, SG No. 35/12.05.2009, effective 12.05.2009, amended SG No 36/15.05.2009, effective school year 2009-2010, SG No. 74/15.09.2009, effective 15.09.2009, amended and supplemented, SG No. 50/2.07.2010, SG No. 78/5.10.2010, effective 5.10.2010, supplemented, SG No. 9/28.01.2011, amended, SG No. 23/22.03.2011, effective 22.03.2011, amended and supplemented, SG No. 99/16.12.2011, effective 1.01.2012
-
-Text in Bulgarian:
-
-Закон за народната просвета
-
-## Chapter One GENERAL PROVISIONS
 
 1
 
@@ -92,7 +92,7 @@ Education in state-owned and municipal schools shall be free of charge.
 
 (7)  (New, SG No. 50/2010, effective school year 2011-2012) The state-owned sports schools  shall  be  opened,  transformed  and  closed  by  an  order  of  the  Minister  of  Education, Youth  and  Science  after  coordination  with  the  Minister  of  Physical  Education  and  Sports. Municipal sports schools shall be opened, transformed and closed by an order of the Minister of Education, Youth and Science on a motion of the municipal council and after coordination with the Minister of Physical Education and Sports.
 
-(8) (Renumbered  from  Paragraph 6, supplemented, SG  No.  35/2009, effective 12.05.2009, renumbered from Paragraph 7, SG No. 50/2010) Municipal kindergartens shall be opened, transformed and closed by executive order of the respective municipality Т s  mayor following a decision of the municipal council.The state-owned kindergartens under paragraph 3 shall be opened, transformed and closed following an order of the Minister of Defence in coordination with the Minister of Education, Youth and Science.
+(8) (Renumbered from Paragraph 6, supplemented, SG No. 35/2009, effective 12.05.2009, renumbered from Paragraph 7, SG No. 50/2010) Municipal kindergartens shall be opened, transformed and closed by executive order of the respective municipality's mayor following a decision of the municipal council.The state-owned kindergartens under paragraph 3 shall be opened, transformed and closed following an order of the Minister of Defence in coordination with the Minister of Education, Youth and Science.
 
 (9) (Renumbered from Paragraph 7, SG No. 35/2009, effective 12.05.2009, renumbered from Paragraph 8, SG No. 50/2010) State-owned and municipal kindergartens, schools and auxiliary units shall achieve the status of legal entities, or shall cease to function as of the day of  promulgation of the executive order to that effect in the State Gazette, unless otherwise provided therein.
 
@@ -144,11 +144,11 @@ Education in state-owned and municipal schools shall be free of charge.
 
 (1) Kindergartens and schools specified under Articles 11 and 12 hereof shall be closed:
 
-- in the event it has been ascertained that the requirements stipulated in this Act and in the Rules for the implementation thereof have not been satisfied;
+1. in the event it has been ascertained that the requirements stipulated in this Act and in the Rules for the implementation thereof have not been satisfied;
 
-- in the event of death of the natural person who had been granted the authorisation to open the kindergarten or school in question, or in the event such person has been sentenced to imprisonment for a premeditated crime or felony;
+2. in the event of death of the natural person who had been granted the authorisation to open the kindergarten or school in question, or in the event such person has been sentenced to imprisonment for a premeditated crime or felony;
 
-- in  the  event  of  termination  of  the  activities  of  the  juridical  person  that  had  been granted the authorisation to open the kindergarten or school in question.
+3. in the event of termination of the activities of the juridical person that had been granted the authorisation to open the kindergarten or school in question.
 
 (2) In any of the cases presented in Paragraph (1), items 2 and 3 above, a kindergarten or  a  school  shall  not  be  necessarily  closed  provided  any  third  person(s)  submit(s)  to  the Ministry  of  Education,  Youth  and  Science,  within  one  (1)  month  of  the  occurrence  of  the circumstances indicated hereinabove, all documents  prescribed by the Rules for the implementation of this Act to continue their operations.
 
@@ -174,17 +174,17 @@ Schools and kindergartens shall create conditions for the normal physical and me
 
 (Paragraph 1, repealed, renumbered from Paragraph 2, SG No. 36/1998)
 
-State  educational  requirements  shall  determine  the  levels  of  indispensably  required general education and vocational training, and shall also ensure favourable conditions for:
+State educational requirements shall determine the levels of indispensably required general education and vocational training, and shall also ensure favourable conditions for:
 
-(Amended, SG No. 90/2002) formation of free, moral and enterprising personalities who, as Bulgarian citizens respect the laws, as well as any other individual's rights, culture, language and religion;
+1. (Amended, SG No. 90/2002) formation of free, moral and enterprising personalities who, as Bulgarian citizens respect the laws, as well as any other individual's rights, culture, language and religion;
 
-- satisfaction  of  any  individual  interests  and  needs,  and  acquisition  of  broad  general knowledge;
+2. satisfaction of any individual interests and needs, and acquisition of broad general knowledge;
 
-- attainment of basic scientific concepts and principles for integrating past experience with new knowledge in the different spheres of science and practice;
+3. attainment of basic scientific concepts and principles for integrating past experience with new knowledge in the different spheres of science and practice;
 
-- choice  of  options  for  training  and  vocational  qualifications  in  accordance  with  the students' potential and the schools chosen by them;
+4. choice of options for training and vocational qualifications in accordance with the students' potential and the schools chosen by them;
 
-- enhancement of the physical resources and the cultural and natural environment of all kindergartens, schools and auxiliary units.
+5. enhancement of the physical resources and the cultural and natural environment of all kindergartens, schools and auxiliary units.
 
 ### Article 16
 
@@ -192,27 +192,27 @@ State  educational  requirements  shall  determine  the  levels  of  indispensab
 
 State educational requirements shall be applicable to:
 
-- pre-school education and training;
+1. pre-school education and training;
 
-- educational degrees, the general educational minima and the curriculum;
+2. educational degrees, the general educational minima and the curriculum;
 
-- content of instruction and educational courses;
+3. content of instruction and educational courses;
 
-- efficient and effective learning of the literary Bulgarian language;
+4. efficient and effective learning of the literary Bulgarian language;
 
-- system and methods of assessment;
+5. system and methods of assessment;
 
-- vocational education and training;
+6. vocational education and training;
 
-- attainment of professional qualifications in the various vocations;
+7. attainment of professional qualifications in the various vocations;
 
-(Amended, SG No. 90/2002) teaching of children and pupils with special educational needs and/or chronic diseases;
+8. (Amended, SG No. 90/2002) teaching of children and pupils with special educational needs and/or chronic diseases;
 
-- school textbooks and learning aids;
+9. school textbooks and learning aids;
 
-- documentation applicable in the system of public education;
+10. documentation applicable in the system of public education;
 
-- extracurricular and out-of-school activities;
+11. extracurricular and out-of-school activities;
 
 6
 
@@ -220,21 +220,21 @@ State educational requirements shall be applicable to:
 
 [[START OF PAGE 7]]
 
-- teaching certificates and teachers' professional qualifications;
+12. teaching certificates and teachers' professional qualifications;
 
-- material and technical facilities of the schools;
+13. material and technical facilities of the schools;
 
-- provision of health care;
+14. provision of health care;
 
-- ensuring safe conditions for education and work;
+15. ensuring safe conditions for education and work;
 
-- scientific, information and library services;
+16. scientific, information and library services;
 
-- annual cost of education per child and pupil/student in state-owned and municipal kindergartens, schools and auxiliary units;
+17. annual cost of education per child and pupil/student in state-owned and municipal kindergartens, schools and auxiliary units;
 
-- standardisation and remuneration of labour in the system of public education
+18. standardisation and remuneration of labour in the system of public education
 
-(New, SG No. 90/2002) inspection of the public education system.
+19. (New, SG No. 90/2002) inspection of the public education system.
 
 ### Article 17
 
@@ -242,25 +242,25 @@ State educational requirements shall be applicable to:
 
 State educational requirements under Article 16 above shall be adopted and enacted as follows:
 
-- under items 2 and 6 - by act;
+1. under items 2 and 6 - by act;
 
-(Amended, SG No. 90/2002) under items 9, 12, 13, 14, 15, 17 and 18 - by ordinances issued by the Council of Ministers;
+2. (Amended, SG No. 90/2002) under items 9, 12, 13, 14, 15, 17 and 18 - by ordinances issued by the Council of Ministers;
 
-- under items 7, 8 and 10 - by ordinances issued by the Minister of Education, Youth and Science in co-ordination with the respective ministries and agencies;
+3. under items 7, 8 and 10 - by ordinances issued by the Minister of Education, Youth and Science in co-ordination with the respective ministries and agencies;
 
-(Amended, SG No. 90/2002) under items 1, 3, 4, 5, 11, 16 and 19 - by ordinances issued by the Minister of Education, Youth and Science.
+4. (Amended, SG No. 90/2002) under items 1, 3, 4, 5, 11, 16 and 19 - by ordinances issued by the Minister of Education, Youth and Science.
 
 ## Chapter Three KINDERGARTENS
 
 ### Article 18
 
-(Amended SG No. 36/1998) Kindergartens shall be made available to pre-school children from the age of 3 to the moment of enrolment in the first (1st) grade.
+(1) (Amended SG No. 36/1998) Kindergartens shall be made available to pre-school children from the age of 3 to the moment of enrolment in the first (1st) grade.
 
-(Repealed, SG No. 90/2002 - enters into force as from 2003/2004 school year).
+(2) (Repealed, SG No. 90/2002 - enters into force as from 2003/2004 school year).
 
 ### Article 19
 
-(Amended  SG  No.  36/1998)  Costs  of  child  care  in  state-owned  and  municipal kindergartens shall be borne by the state or municipal budget, respectively.
+(1) (Amended SG No. 36/1998) Costs of child care in state-owned and municipal kindergartens shall be borne by the state or municipal budget, respectively.
 
 7
 
@@ -432,49 +432,49 @@ SG No. 95/2002, SG No. 29/2003, amended SG No. 40/2004)
 
 [[START OF PAGE 13]]
 
-- a certificate of vocational qualifications;
+2. a certificate of vocational qualifications;
 
-- a  certificate  evidencing  a  license  to  engage  in  businesses  and  occupations  whose practising requires a license;
+3. a certificate evidencing a license to engage in businesses and occupations whose practising requires a license;
 
-- a certificate of vocational training.
+4. a certificate of vocational training.
 
-- None of the documents specified under Paragraph (2), items 2, 3 and 4 above shall entitle a holder to education at a higher level.
+(3) None of the documents specified under Paragraph (2), items 2, 3 and 4 above shall entitle a holder to education at a higher level.
 
-- The document specified under Paragraphs (1) and (2) above shall be issued only by a school, unless another competent authority has been also authorised by a statute.
+(4) The document specified under Paragraphs (1) and (2) above shall be issued only by a school, unless another competent authority has been also authorised by a statute.
 
 ### Article 26
 
 (Amended SG No. 36/1998)
 
-- There shall exist the following types of schools:
+(1) There shall exist the following types of schools:
 
-- primary - including grades 1 to 4;
+1. primary - including grades 1 to 4;
 
-- elementary (lower secondary, junior high) - including grades 5 to 8;
+2. elementary (lower secondary, junior high) - including grades 5 to 8;
 
-- basic - including grades 1 to 8;
+3. basic - including grades 1 to 8;
 
-- gymnasiums (secondary schools) - including grades 9 to 12;
+4. gymnasiums (secondary schools) - including grades 9 to 12;
 
-(amended, SG No. 67/1999) specialised gymnasiums;
+5. (amended, SG No. 67/1999) specialised gymnasiums;
 
-- secondary schools of general education - including grades 1 to 12;
+6. secondary schools of general education - including grades 1 to 12;
 
-(amended,  SG  No.  68/1999,  SG  No  36/2009,  effective  -  school  year  2009-2010) vocational gymnasiums and/or technical schools - including grades 8 or 9 to 12;
+7. (amended, SG No. 68/1999, SG No 36/2009, effective - school year 2009-2010) vocational gymnasiums and/or technical schools - including grades 8 or 9 to 12;
 
-(amended,  SG  No.  68/1999)  vocational  -  from  grade  7  or  8  with  an  up  to  3  year course  of  instruction,  from  grade  9  -  with  an  up  to  4  year  course  of  instruction  and post-secondary Professional Colleges - with an up to 2 year course of instruction;
+8. (amended, SG No. 68/1999) vocational - from grade 7 or 8 with an up to 3 year course of instruction, from grade 9 - with an up to 4 year course of instruction and post-secondary Professional Colleges - with an up to 2 year course of instruction;
 
-- sports schools;
+9. sports schools;
 
-- arts schools;
+10. arts schools;
 
-- specialised schools.
+11. specialised schools.
 
-(new SG No. 41/2006) schools of culture.
+12. (new SG No. 41/2006) schools of culture.
 
-- Students shall be allowed to move from one school to another under such terms and conditions as shall be prescribed by the Rules for the implementation of this Act.
+(2) Students shall be allowed to move from one school to another under such terms and conditions as shall be prescribed by the Rules for the implementation of this Act.
 
-(New, SG No. 78/2010, effective 2010/2011 school year) Free transportation to the
+(3) (New, SG No. 78/2010, effective 2010/2011 school year) Free transportation to the
 
 13
 
@@ -486,7 +486,7 @@ kindergarten or the school in the closest settlement on the territory of the mun
 
 (4) (New, SG No. 90/2002, amended, SG No. 105/2005, renumbered from Paragraph 3, amended, SG No. 78/2010, effective 2010/2011 school year) Students below the age of 16, living in communities where no schools exist, shall be provided with free commuting and/or boarding-house  at  the  local  school  in  the  nearest  community  within  the  territory  of  the municipality, or in a neighbouring municipality when this reduces the travel time and/or the expenses for this purpose.
 
-(5) (New, SG No. 50/2008, renumbered from Paragraph 4, amended, SG No. 78/2010, effective  2010/2011  school  year)  Travelling  pupils  in  grades  1  to  8,  studying  at  the community schools under paragraph 3 shall be provided with all-day organisation of studies and food at the canteen, the financial resources for which shall be allocation in accordance with the financial rules under з 6c, paragraph 5. Canteen catering shall be organised according to the requirements stipulated in ordinances of the Minister of Health.
+(5) (New, SG No. 50/2008, renumbered from Paragraph 4, amended, SG No. 78/2010, effective 2010/2011 school year) Travelling pupils in grades 1 to 8, studying at the community schools under paragraph 3 shall be provided with all-day organisation of studies and food at the canteen, the financial resources for which shall be allocation in accordance with the financial rules under § 6c, paragraph 5. Canteen catering shall be organised according to the requirements stipulated in ordinances of the Minister of Health.
 
 (6)  (New,  SG  No.  114/2003,  renumbered  from  Paragraph  4,  supplemented,  SG  No. 50/2008,  renumbered  from  Paragraph  5,  amended,  SG  No.  78/2010,  effective  2010/2011 school  year,  amended,  SG  No.  99/2011,  effective  1.01.2012)  The  funds  for  transport  costs under paragraphs 3 and 4 and for costs for full-day organisation of the school day and canteen food under paragraph 5 shall be provided as special-purpose funds from the central budget and/or  European  funds  and  programmes  and  shall  be  granted  on  the  basis  of  standards approved  by  the  Council  of  Ministers  with  the  decree  on  the  implementation  of  the  state budget.
 
@@ -554,19 +554,19 @@ For persons having attained the age of 16, evening (shift) schools shall also be
 
 The forms of instruction shall be:
 
-- day schools;
+1. day schools;
 
-- evening schools;
+2. evening schools;
 
-- extramural (extension) courses;
+3. extramural (extension) courses;
 
-- correspondence courses;
+4. correspondence courses;
 
-- individual schooling;
+5. individual schooling;
 
-- self-training;
+6. self-training;
 
-(new, SG No. 36/1998) distance courses.
+7. (new, SG No. 36/1998) distance courses.
 
 ### Article 32
 
@@ -588,19 +588,19 @@ Schools and auxiliary units within the system of public education shall organise
 
 (New, SG No. 36/1998)
 
-- Auxiliary units shall be:
+(1) Auxiliary units shall be:
 
-- scientific and informational;
+1. scientific and informational;
 
-- extramural pedagogical institutions;
+2. extramural pedagogical institutions;
 
-- for international programme management;
+3. for international programme management;
 
-- for organised leisure, recreation and sports;
+4. for organised leisure, recreation and sports;
 
-(repealed, SG, No. 105/2006, effective 1.01.2007);
+5. (repealed, SG, No. 105/2006, effective 1.01.2007);
 
-6.  (new,  SG  No.  90/2002)  for  operational  management  and  funding  of  the  public education system.
+6. (new, SG No. 90/2002) for operational management and funding of the public education system.
 
 (2)  All  auxiliary  units  shall  organise  and  perform  their  activities  in  accordance  with Rules and Regulations approved by the Minister of Education, Youth and Science.
 
@@ -642,11 +642,11 @@ Schools and auxiliary units within the system of public education shall organise
 
 1. (amended, Sg No. 78/2010, effective 2010/2011 school year) compulsory preschooling of children and compulsory schooling of students up to the age of 16;
 
-(supplemented, SG No. 90/2002) health services and the safety of kindergartens and schools, of children and pupils by opening outpatient health offices;
+2. (supplemented, SG No. 90/2002) health services and the safety of kindergartens and schools, of children and pupils by opening outpatient health offices;
 
-(supplemented, SG No. 36/1998) funds for the maintenance, construction, furnishing and overhauling of schools, kindergartens and auxiliary units;
+3. (supplemented, SG No. 36/1998) funds for the maintenance, construction, furnishing and overhauling of schools, kindergartens and auxiliary units;
 
-(new, SG No. 36/1998) the means requisite for the fulfilment of the state educational requirements as per Article 16, items 17 and 18, as well as for financing all sections of the curriculum in municipal kindergartens, schools and auxiliary units
+4. (new, SG No. 36/1998) the means requisite for the fulfilment of the state educational requirements as per Article 16, items 17 and 18, as well as for financing all sections of the curriculum in municipal kindergartens, schools and auxiliary units
 
 5. (renumbered from item 4, SG No 36/1998, supplemented, SG No. 90/2002, SG No. 50/2008,  amended  and  supplemented,  SG  No.  78/2010,  effective  2010-2011  school  year) conditions  for  canteen  catering,  organised  according  to  the  requirements  stipulated  in ordinances  of  the  Minister  of  Health,  for  boarding  houses,  recreation,  sports  facilities  and transport  for  children,  students  and  teachers,  as  well  as  the  free-of-charge  transport  under Article  26,  Paragraph  (3)  and  (4),  as  well  as  all-day  organisation  of  studies  and  canteen catering under Article 26, Paragraph (5);
 
@@ -790,7 +790,7 @@ The  funds  needed  for  the  support  and  development  of  public  education  
 
 2. rent paid for educational and sports facilities, machines and equipment owned by the respective kindergarten, school or auxiliary unit;
 
-- farmland and forests;
+3. farmland and forests;
 
 4. sale of registered indemnity vouchers and warrants;
 
@@ -860,9 +860,9 @@ Trusteeships shall be established as not-for-profit legal entities acting for pu
 
 With a view to attaining their objectives, trusteeships shall:
 
-- discuss  and  make  proposals  to  the  respective  authorities  for  the  development  or resolving of current problems of schools, kindergartens or auxiliary units;
+1. discuss and make proposals to the respective authorities for the development or resolving of current problems of schools, kindergartens or auxiliary units;
 
-- assist  the  raising  of  additional  financial  and  material  resources  for  the  schools,
+2. assist the raising of additional financial and material resources for the schools,
 
 24
 
@@ -872,39 +872,39 @@ With a view to attaining their objectives, trusteeships shall:
 
 kindergartens or auxiliary units and supervise their proper spending;
 
-- support  the  establishment  and  support  of  the  facilities  of  schools,  kindergartens  or auxiliary units;
+3. support the establishment and support of the facilities of schools, kindergartens or auxiliary units;
 
-- participate in the selection of textbooks by the Teachers' Council to be used in the education of the pupils at school and provide, if possible, for their purchase;
+4. participate in the selection of textbooks by the Teachers' Council to be used in the education of the pupils at school and provide, if possible, for their purchase;
 
-- assist the organisation of the supply of food to pupils, the provision of transportation and  the  resolving  of  other  social  problems  of  children,  pupils  and  teachers  at  schools, kindergartens or auxiliary units;
+5. assist the organisation of the supply of food to pupils, the provision of transportation and the resolving of other social problems of children, pupils and teachers at schools, kindergartens or auxiliary units;
 
-- assist the development and implementation of educational programmes geared to the problems of children and pupils;
+6. assist the development and implementation of educational programmes geared to the problems of children and pupils;
 
-- assist school and municipal authorities in the delivery of the compulsory schooling;
+7. assist school and municipal authorities in the delivery of the compulsory schooling;
 
-- assist the implementation of extracurricular forms, organised recreation, tourism and sports events with children and pupils;
+8. assist the implementation of extracurricular forms, organised recreation, tourism and sports events with children and pupils;
 
-- assist the involvement of parents in the organisation of leisure time of children and pupils;
+9. assist the involvement of parents in the organisation of leisure time of children and pupils;
 
-- propose measures for the improvement of the activities of schools, kindergartens or auxiliary units;
+10. propose measures for the improvement of the activities of schools, kindergartens or auxiliary units;
 
-- organise the general public to assist kindergartens, schools or auxiliary units;
+11. organise the general public to assist kindergartens, schools or auxiliary units;
 
-- report violations in the public education system to the competent authorities;
+12. report violations in the public education system to the competent authorities;
 
-- organise and support the training of parents on issues related to the upbringing and development of their children;
+13. organise and support the training of parents on issues related to the upbringing and development of their children;
 
-- assist  schools  in  counteracting  drug  addictions  and  other  harmful  influences  on children and pupils;
+14. assist schools in counteracting drug addictions and other harmful influences on children and pupils;
 
-- assist socially disadvantaged children and pupils;
+15. assist socially disadvantaged children and pupils;
 
-- assist commissions for combating anti-social behaviour of minors.
+16. assist commissions for combating anti-social behaviour of minors.
 
 ### Article 46d
 
 (New SG No. 90/2002)
 
-- Trusteeships  shall  be  established  at  the  initiative  of  principals  of  kindergartens, schools or auxiliary units, or parents, teachers or public figures.
+(1) Trusteeships shall be established at the initiative of principals of kindergartens, schools or auxiliary units, or parents, teachers or public figures.
 
 (2)  The  persons  under  Paragraph  1  shall  send  out  invitations  for  participation  in  the constituent meeting through the mass media and/or personally by prominent public figures, donors or representatives of legal entities.
 
@@ -918,7 +918,7 @@ kindergartens or auxiliary units and supervise their proper spending;
 
 (New SG No. 90/2002)
 
-- The  bodies  of  the  trusteeship  shall  be  the  General  Assembly  and  the  Board  of Trustees.
+(1) The bodies of the trusteeship shall be the General Assembly and the Board of Trustees.
 
 (2) The General Assembly shall elect the members of the Board of Trustees for a term of office of up to four years.
 
@@ -936,21 +936,21 @@ Principals of kindergartens, schools or auxiliary units shall provide the truste
 
 (Amended and supplemented, SG No. 36/1998, amended, SG No. 90/2002, supplemented, SG No. 78/2010, effective 2012-2013)
 
-Parents,  guardians  or  custodians  who  fail  to  ensure  their  children Т s  attendance  at  the kindergartens  and  at  school  while  liable  to  compulsory  preschool  education  or  schooling, shall be penalised by a fine amounting from BGN 20 to BGN 100. In the event the offence is repeated, the penalty shall amount from BGN 50 to BGN 250.
+Parents, guardians or custodians who fail to ensure their children's attendance at the kindergartens and at school while liable to compulsory preschool education or schooling, shall be penalised by a fine amounting from BGN 20 to BGN 100. In the event the offence is repeated, the penalty shall amount from BGN 50 to BGN 250.
 
 ### Article 48
 
-(Amended,  SG  No.  36/1998)  Punishable  offences  shall  be  ascertained  by  way  of written statements drawn up by the respective bodies of the municipalities.
+(1) (Amended, SG No. 36/1998) Punishable offences shall be ascertained by way of written statements drawn up by the respective bodies of the municipalities.
 
-- Penalty decrees shall be issued by the mayor of the municipality.
+(2) Penalty decrees shall be issued by the mayor of the municipality.
 
-- The establishment of violations, the issuance, appeal and execution of penal decrees shall be effected in compliance with the Administrative Violations and Sanctions Act.
+(3) The establishment of violations, the issuance, appeal and execution of penal decrees shall be effected in compliance with the Administrative Violations and Sanctions Act.
 
 ### Article 48a
 
 (New, SG No. 36/1998)
 
-- Punishable by a fine amounting to BGN 5000 shall be any natural person or legal
+(1) Punishable by a fine amounting to BGN 5000 shall be any natural person or legal
 
 26
 
@@ -960,9 +960,9 @@ Parents,  guardians  or  custodians  who  fail  to  ensure  their  children Т s
 
 entity who:
 
-- has  engaged  activities  of  raising  and  educating  minors  in  any  facility  that  has  not been opened under the terms stipulated herein;
+1. has engaged activities of raising and educating minors in any facility that has not been opened under the terms stipulated herein;
 
-- has  organised  and  provided  student  training  for  the  purpose  of  issuing  documents certifying  the  completion  of  a  school  grade  or  of  an  educational  degree,  as  well  as  for  the purpose of issuing certificates of vocational qualifications, in any facility that has not been opened under the terms stipulated herein.
+2. has organised and provided student training for the purpose of issuing documents certifying the completion of a school grade or of an educational degree, as well as for the purpose of issuing certificates of vocational qualifications, in any facility that has not been opened under the terms stipulated herein.
 
 (2) In the event the punishable offence under Paragraph 1 is repeated, the penalty shall amount to BGN 10 000.
 
@@ -1125,18 +1125,18 @@ This Act shall rescind:
 
 [[START OF PAGE 32]]
 
-- The Public Education Act (promulgated, SG No. 218/1948; corrected, No. 223/1948; amended and supplemented, SG No. 235/1948, 10, 207 & 271/1950; SG No. 75 & 104/1951 and partially repealed, No. 90/1954).
+1. The Public Education Act (promulgated, SG No. 218/1948; corrected, No. 223/1948; amended and supplemented, SG No. 235/1948, 10, 207 & 271/1950; SG No. 75 & 104/1951 and partially repealed, No. 90/1954).
 
-- The Act on closer links between school and life and on the continued development of public  education  in  the  People's  Republic  of  Bulgaria  (promulgated,  SG  No  54/1959; amended, SG Nos. 99/1963, 36/1979, 27/1986, 68/1988, 45 & 99/1989).
+2. The Act on closer links between school and life and on the continued development of public education in the People's Republic of Bulgaria (promulgated, SG No 54/1959; amended, SG Nos. 99/1963, 36/1979, 27/1986, 68/1988, 45 & 99/1989).
 
-- Decree  No.  330  on  Public  Education  (prom.,  SG  No.  90/1954;  amended,  SG  No. 33/1965 and 68/1988).
+3. Decree No. 330 on Public Education (prom., SG No. 90/1954; amended, SG No. 33/1965 and 68/1988).
 
-- Decree No 2213 on the continued development of education (SG No 59/1983).
+4. Decree No 2213 on the continued development of education (SG No 59/1983).
 
 ### §  11.
 (1)  The  responsibility  for  enforcing  this  Act  shall  be  hereby  entrusted  to  the Minister of Education and Science.
 
-(Repealed, SG No. 40/2004).
+(2) (Repealed, SG No. 40/2004).
 
 (3) (Repealed, SG No. 36/1998).
 
@@ -1159,7 +1159,7 @@ Promulgated, SG No. 36/1998
 ### §  36.
 (1)  Within  one  (1)  year  of  this  Act's  entry  into  force,  the  Council  of  Ministers shall submit to the National Assembly the bills provided for under Article 16, items 2 and 6.
 
-- The  provisions  of  Article  24,  item  1  shall  be  effective  and  enforceable  as  of  the entry into force of the statutes provided for under Article 16, items 2 and 6.
+(2) The provisions of Article 24, item 1 shall be effective and enforceable as of the entry into force of the statutes provided for under Article 16, items 2 and 6.
 
 ### § 37.
 Within six (6) months of this Act's entry into force, the Minister of Education and Science, in coordination with the Minister of Health, shall enact the ordinance provided for under Article 40, Paragraph 4.
@@ -1175,18 +1175,13 @@ Within six (6) months of this Act's entry into force, the Minister of Education 
 
 (2) The provisions of Article 37, Paragraph 3 regarding the state-owned kindergartens and  of  Article  37,  Paragraph  4  shall  become  applicable  and  enforceable  following  the enactment of the executive order as per Paragraph 1 above.
 
-- The list provided for under Article 42, Paragraph 6 shall be drafted within one (1) year of this Act's entry into force.
+(3) The list provided for under Article 42, Paragraph 6 shall be drafted within one (1) year of this Act's entry into force.
 
 ### § 39.
 The  Minister of Education  and  Science shall enact new  Rules  for the implementation of the Public Education Act within one (1) year of this Act's entry into force.
 
 ### §  40.
 The  wording  "Ministry  of  Public  Education"  shall  be  replaced  by  "Ministry  of Education and Science", and the wording "Minister of Public Education" shall be replaced by "Minister of Education and Science", respectively, throughout the Act.
-
-### §  4.
-(1)  (Supplemented,  SG  No.  65/1999)  Upon  the  entry  of  this  Act  into  force,  all figures expressed in terms of BGN, as indicated in the laws which will have entered into force prior to the 5th day of July 1999, shall be replaced by figures expressed in terms of BGN, reduced by a factor of 1,000. The replacement of all figures expressed in BGN, reduced by a factor of 1,000, shall furthermore apply to all laws passed prior to the 5th day of July 1999, which have entered or will enter into force after the 5th day of July 1999.
-
-- The authorities which have adopted or issued any acts of secondary legislation that will  have  entered  into  force  prior  to  the  5th  day  of  July  1999  and  that  contains  figures expressed in BGL, shall amend the said acts to bring them in conformity with this Act so that the amendments apply as from the date of entry of this Act into force.
 
 # Lev Re-denomination act
 
@@ -1195,6 +1190,11 @@ The  wording  "Ministry  of  Public  Education"  shall  be  replaced  by  "Minis
 (SG No. 20/1999, supplemented, SG No. 65/1999, effective 5.07.1999)
 
 ........................................................................
+
+### § 4.
+(1) (Supplemented, SG No. 65/1999) Upon the entry of this Act into force, all figures expressed in terms of BGN, as indicated in the laws which will have entered into force prior to the 5th day of July 1999, shall be replaced by figures expressed in terms of BGN, reduced by a factor of 1,000. The replacement of all figures expressed in BGN, reduced by a factor of 1,000, shall furthermore apply to all laws passed prior to the 5th day of July 1999, which have entered or will enter into force after the 5th day of July 1999.
+
+(2) The authorities which have adopted or issued any acts of secondary legislation that will have entered into force prior to the 5th day of July 1999 and that contains figures expressed in BGL, shall amend the said acts to bring them in conformity with this Act so that the amendments apply as from the date of entry of this Act into force.
 
 ........................................................................
 
@@ -1272,9 +1272,9 @@ Textbooks  that  have  been  approved  by  Order  of  the  Minister  of  Educati
 ### §  6.
 Within  two  months  of  the  entry  into  force  of  this  Act,  the  Council  of  Ministers shall approve:
 
-- A Tariff under § 6a - upon proposal of the Ministry of Education and Science;
+1. A Tariff under § 6a - upon proposal of the Ministry of Education and Science;
 
-- A Tariff under § 6b - upon proposal of the Ministry of Culture.
+2. A Tariff under § 6b - upon proposal of the Ministry of Culture.
 
 # Act on the Amendment and Supplement
 
@@ -1370,7 +1370,7 @@ the National Education Act
 ## §  8.
 (1)  As  of  1  January  2007,  the  state  and  municipal  auxiliary  units  performing  a social function - homes for the upbringing and education of children deprived of parental care -  shall be transformed from auxiliary units in the national education system into specialised institutions for providing social services - homes for children, financed as activities delegated by the State to the municipality on whose territory they are located.
 
-- The homes under Paragraph 1 shall be transferred to be governed by the Mayor in
+(2) The homes under Paragraph 1 shall be transferred to be governed by the Mayor in
 
 37
 
@@ -1452,9 +1452,9 @@ Within the beginning of 2012-2013 school year the municipalities shall create th
 ## § 11.
 This Act shall enter into force on the date of its promulgation in the State Gazette, except for:
 
-- paragraphs 1, 4, 5, and 8, which shall enter into force as of 2010/2011 school year
+1. paragraphs 1, 4, 5, and 8, which shall enter into force as of 2010/2011 school year
 
-- paragraph 7, which shall enter into force as of 2010/2011 school year
+2. paragraph 7, which shall enter into force as of 2010/2011 school year
 
 39
 
