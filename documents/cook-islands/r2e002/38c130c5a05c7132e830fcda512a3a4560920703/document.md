@@ -8,6 +8,40 @@
 
 ## ANALYSIS
 
+CHAPTER 1.................................................................................................................................... 4
+INTRODUCTION .......................................................................................................................... 4
+1. Short title and commencement ........................................................................................... 4
+2. This Act binds everyone..................................................................................................... 4
+3. Purpose of this Act ............................................................................................................. 4
+4. Interpretation ...................................................................................................................... 5
+CHAPTER 2.................................................................................................................................... 8
+THE MINISTRY, MINISTER AND SECRETARY OF EDUCATION ................................... 8
+5. Ministry of Education......................................................................................................... 8
+6. Minister of Education......................................................................................................... 8
+7. Secretary of Education ....................................................................................................... 8
+8. Annual report for Ministry ................................................................................................. 9
+CHAPTER 3.................................................................................................................................. 10
+EDUCATIONAL INSTITUTIONS ............................................................................................ 10
+9. Establishing and disestablishing Government educational institutions............................ 10
+10. Operating an unregistered private educational institution ................................................ 10
+11. Registration of a private educational institution............................................................... 10
+12. Closing a private educational institution .......................................................................... 12
+CHAPTER 4.................................................................................................................................. 13
+SCHOOLS..................................................................................................................................... 13
+PART 1 .......................................................................................................................................... 13
+SCHOOL ENROLLMENT AND ATTENDANCE ........................................................................... 13
+13. Terms and hours of school instruction ............................................................................. 13
+14. Compulsory schooling...................................................................................................... 14
+15. Exemption from attending school .................................................................................... 14
+16. School zones..................................................................................................................... 15
+PART 2 .......................................................................................................................................... 15
+EDUCATION GUIDELINES.......................................................................................................... 15
+17. Education guidelines ........................................................................................................ 15
+18. Instructions to principals.................................................................................................. 16
+PART 3 .......................................................................................................................................... 17
+MANAGEMENT OF BEHAVIOUR AT SCHOOL.......................................................................... 17
+19. What this part is about...................................................................................................... 17
+
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
@@ -16,12 +50,101 @@ Education Act 2009
 
 -2-
 
+20. School rules...................................................................................................................... 17
+21. Range of responses to a student’s misbehaviour.............................................................. 17
+22. Informing parent of misbehaviour.................................................................................... 19
+23. Minimising the disruption to a student’s education.......................................................... 19
+PART 4 .......................................................................................................................................... 20
+SCHOOL ASSOCIATIONS............................................................................................................. 20
+24. Role of a school association and its committee................................................................ 20
+25. Members of a school association...................................................................................... 21
+26. Members of a school association’s committee ................................................................. 21
+27. Ending membership of a school association’s committee ................................................ 21
+28. Meetings of the school association’s committee .............................................................. 22
+29. Annual general meeting of a school association .............................................................. 23
+30. Bank account of a school association............................................................................... 23
+31. Financial records of a school association ......................................................................... 23
+32. Authority of a school association ..................................................................................... 24
+PART 5 .......................................................................................................................................... 25
+TEACHER REGISTRATION .......................................................................................................... 25
+DIVISION 1 .................................................................................................................................... 25
+INTRODUCTION........................................................................................................................... 25
+33. What this part is about...................................................................................................... 25
+34. Relationship with the Public Service Act......................................................................... 25
+35. Secretary’s responsibilities—professional standards for teachers.................................... 25
+36. Secretary’s responsibilities—registration system............................................................. 26
+37. Secretary’s other responsibilities...................................................................................... 27
+DIVISION 2 .................................................................................................................................... 27
+CRITERIA FOR REGISTRATION AS AN APPROVED TEACHER............................................... 27
+38. Who may teach in an early childhood centre or school.................................................... 27
+39. Criteria for registration..................................................................................................... 27
+40. Eligibility for registration................................................................................................. 27
+41. Suitability for registration ................................................................................................ 28
+DIVISION 3 .................................................................................................................................... 29
+REGISTRATION AS AN APPROVED TEACHER.......................................................................... 29
+42. Application for registration as an approved teacher......................................................... 29
+43. Renewal of registration as an approved teacher ............................................................... 31
+44. The teacher register .......................................................................................................... 31
+45. Changing the teacher register........................................................................................... 32
+DIVISION 4 .................................................................................................................................... 33
+MONITORING PERFORMANCE OF APPROVED TEACHERS .................................................. 33
+46. What this division is about ............................................................................................... 33
+47. Approved teachers charged with, or convicted of, a sexual crime ................................... 33
+48. Complaints about teacher performance ............................................................................ 33
+49. Order to appear before a complaints assessment committee ............................................ 34
+50. Establishing a complaints assessment committee ............................................................ 35
+51. Proceedings before a complaints assessment committee.................................................. 35
+52. Appeal against decisions.................................................................................................. 36
+DIVISION 5 .................................................................................................................................... 37
+OFFENCES .................................................................................................................................... 37
+53. Wrongfully claiming to be an approved teacher .............................................................. 37
+54. Wrongfully employing person without registration as an approved teacher .................... 37
+CHAPTER 5.................................................................................................................................. 38
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
 Education Act 2009
 
+-3-
+
+NATIONAL QUALIFICATIONS FRAMEWORK.................................................................. 38
+55. Function of the Minister—national qualifications framework ......................................... 38
+CHAPTER 6.................................................................................................................................. 39
+HIGHER EDUCATION .............................................................................................................. 39
+56. Functions of the Minister—higher education system....................................................... 39
+CHAPTER 7.................................................................................................................................. 41
+LEGAL PROCEEDINGS............................................................................................................ 41
+57. Appointments and authority ............................................................................................. 41
+58. Signatures......................................................................................................................... 41
+59. Evidentiary certificates..................................................................................................... 41
+CHAPTER 8.................................................................................................................................. 43
+MISCELLANEOUS PROVISIONS ........................................................................................... 43
+60. Trespassing on or disturbing schools ............................................................................... 43
+61. False or misleading information....................................................................................... 43
+62. Protection from liability ................................................................................................... 43
+63. Corporal punishment ........................................................................................................ 44
+64. Delegation of powers ....................................................................................................... 44
+65. Boards of trustees for Government schools...................................................................... 45
+66. Education Gazette ............................................................................................................ 46
+67. Incorporation of society of teachers ................................................................................. 46
+68. Repeal............................................................................................................................... 46
+69. Regulations....................................................................................................................... 46
+CHAPTER 9.................................................................................................................................. 47
+THE TRANSITION FROM THE 1986 ACT............................................................................. 47
+70. What this chapter is about ................................................................................................ 47
+71. Advisory and technical committees.................................................................................. 47
+72. Applications ..................................................................................................................... 47
+73. Appointments................................................................................................................... 47
+74. School associations and their committees........................................................................ 47
+75. Curriculum ....................................................................................................................... 47
+76. Decisions.......................................................................................................................... 48
+77. Enrolments ........................................................................................................................ 48
+78. Proceedings for appeals or offences................................................................................. 48
+79. References to the Education Act 1986-1987 .................................................................... 48
+80. References to the Department of Education ..................................................................... 48
+81. Teacher’s register............................................................................................................. 48
+82. Regulations....................................................................................................................... 49
 _________________
 
 2009, No. ...
@@ -31,8 +154,6 @@ AN ACT about education in the Cook Islands.
 (Here insert date of enactment
 
 BE IT ENACTED by the Parliament of the Cook Islands in Session assembled, and by the authority of the same, as follows:
-
--3-
 
 [[END OF PAGE 3]]
 
@@ -476,7 +597,7 @@ Education Act 2009
 
 - The principal of a school must ensure that the school is open for the instruction of students for at least the set number of student teacher contact hours on each of the set number of student-teacher days in the year.
 
-- If the principal can not do so, the principal must ensure that the school is open for the instruction of students in between the terms to enable the school to be open for instruction of students for the set number of studentteacher contact hours and student-teacher days for the year.
+- If the principal can not do so, the principal must ensure that the school is open for the instruction of students in between the terms to enable the school to be open for instruction of students for the set number of student-teacher contact hours and student-teacher days for the year.
 
 -13-
 
@@ -788,7 +909,7 @@ Education Act 2009
 
 Education Act 2009
 
-- Each parent of the student must ensure that the student participates fulltime in the educational programme.
+- Each parent of the student must ensure that the student participates full-time in the educational programme.
 
 - If a parent does not comply with subsection (3), the parent commits an offence, unless the parent has a reasonable excuse.
 
@@ -1094,19 +1215,19 @@ Education Act 2009
 
 (e) maintaining accessible records of the decisions of the Secretary about the professional standards.
 
-- The professional standards may require, for example, the observance of a code of conduct for teachers.
+(3) The professional standards may require, for example, the observance of a code of conduct for teachers.
 
-- The professional standards must ensure that teaching services-
+(4) The professional standards must ensure that teaching services—
 
 (a) meet accepted international standards; and
 
 (b) are consistent with the human rights that apply to persons in the Cook Islands.
 
-##### 36. Secretary's responsibilities-registration system
+##### 36. Secretary’s responsibilities—registration system
 
-- The Secretary is responsible for establishing and maintaining a system for registering approved teachers.
+(1) The Secretary is responsible for establishing and maintaining a system for registering approved teachers.
 
-- The system must, among other things, provide for-
+(2) The system must, among other things, provide for—
 
 (a) deciding how a person is to satisfy initial and ongoing eligibility requirements for registration; and
 
@@ -1116,15 +1237,15 @@ Education Act 2009
 
 (d) maintaining a register of approved teachers; and
 
-(e) developing or approving training programmes-
+(e) developing or approving training programmes—
 
-(i) that are relevant to a person's eligibility for registration; and
+(i) that are relevant to a person’s eligibility for registration; and
 
 (ii) for the continuing professional development of approved teachers; and
 
 (f) monitoring the effectiveness of those training programmes; and
 
-(g) collaborating with entities who are engaged in developing wholeof-government policies that relate to the teaching profession (including the Office of the Public Service Commissioner, for example); and
+(g) collaborating with entities who are engaged in developing whole-of-government policies that relate to the teaching profession (including the Office of the Public Service Commissioner, for example); and
 
 (h) approving procedures for ensuring the security and integrity of the registration system (when giving registration certificates by fax or email, for example); and
 
@@ -1138,9 +1259,9 @@ Education Act 2009
 
 (i) undertaking or supporting reviews and research that is relevant to the regulation of the teaching profession.
 
-##### 37. Secretary's other responsibilities
+##### 37. Secretary’s other responsibilities
 
-The Secretary is also responsible for-
+The Secretary is also responsible for—
 
 (a) promoting the teaching profession to the public; and
 
@@ -1150,29 +1271,29 @@ The Secretary is also responsible for-
 
 ##### 38. Who may teach in an early childhood centre or school
 
-- A person may teach in an early childhood centre or school only if the person is an approved teacher.
+(1) A person may teach in an early childhood centre or school only if the person is an approved teacher.
 
-- An 'approved teacher' is a person who is registered as-
+(2) An “approved teacher” is a person who is registered as—
 
 (a) a teacher, either with or without conditions; or
 
 (b) the holder of a limited authority to teach.
 
-- A person 'teaches' in an early childhood centre or school if the person undertakes duties in the centre or school that include-
+(3) A person “teaches” in an early childhood centre or school if the person undertakes duties in the centre or school that include—
 
 (a) delivering an educational programme; or
 
 (b) assessing student participation in an educational programme.
 
-- Subsection (1) does not apply to a person who is training to be a teacher.
+(4) Subsection (1) does not apply to a person who is training to be a teacher.
 
-- A person who does not comply with subsection (1) commits an offence.
+(5) A person who does not comply with subsection (1) commits an offence.
 
-- The maximum penalty for the offence is a fine of $1000, or imprisonment for 3 months, or both.
+(6) The maximum penalty for the offence is a fine of $1000, or imprisonment for 3 months, or both.
 
 ##### 39. Criteria for registration
 
-A person is entitled to be registered as an approved teacher if the person satisfies the Secretary that the person-
+A person is entitled to be registered as an approved teacher if the person satisfies the Secretary that the person—
 
 (a) is eligible for registration; and
 
@@ -1180,7 +1301,7 @@ A person is entitled to be registered as an approved teacher if the person satis
 
 ##### 40. Eligibility for registration
 
-A person is eligible for registration only if-
+A person is eligible for registration only if—
 
 -27-
 
@@ -1190,39 +1311,39 @@ A person is eligible for registration only if-
 
 Education Act 2009
 
-(a) in the case of an application for registration as a teacher-the person has the qualifications and experience that is prescribed under a regulation; or
+(a) in the case of an application for registration as a teacher—the person has the qualifications and experience that is prescribed under a regulation; or
 
-(b) in the case of an application for registration as the holder of a limited authority to teach- the person has the knowledge, skills or experience that the Secretary considers to be relevant to the teaching position that the person is to fill.
+(b) in the case of an application for registration as the holder of a limited authority to teach— the person has the knowledge, skills or experience that the Secretary considers to be relevant to the teaching position that the person is to fill.
 
 ##### 41. Suitability for registration
 
-- A person is not suitable for registration if the person, in the Cook Islands or elsewhere-
+(1) A person is not suitable for registration if the person, in the Cook Islands or elsewhere—
 
 (a) has behaved in a way that shows that, although the person is eligible for registration, the person is not competent in performing the duties of a teacher; or
 
-(b) has behaved in a way that shows that the person is not an appropriate person-
+(b) has behaved in a way that shows that the person is not an appropriate person—
 
 (i) to be registered as an approved teacher; or
 
 (ii) to work in a child-related field.
 
-- When deciding whether a person is suitable for registration, the Secretary may have regard to any information that the Secretary considers relevant, including among other things-
+(2) When deciding whether a person is suitable for registration, the Secretary may have regard to any information that the Secretary considers relevant, including among other things—
 
-(a) if the person was refused registration as an approved teacher overseas-the reason why the person was refused registration; and
+(a) if the person was refused registration as an approved teacher overseas—the reason why the person was refused registration; and
 
-(b) if the person was employed in an educational institution and the person's employment was terminated-the reason why the person's employment was terminated; and
+(b) if the person was employed in an educational institution and the person’s employment was terminated—the reason why the person’s employment was terminated; and
 
-(c) if the person was registered as an approved teacher overseas and-
+(c) if the person was registered as an approved teacher overseas and—
 
-(i) a condition was imposed on the registration-the nature of the condition and the reasons why it was imposed; or
+(i) a condition was imposed on the registration—the nature of the condition and the reasons why it was imposed; or
 
-(ii) the registration was suspended or cancelled-the reason why the registration was suspended or cancelled; or
+(ii) the registration was suspended or cancelled—the reason why the registration was suspended or cancelled; or
 
-(iii) the registration was affected in another way-the way the registration was affected and the reason why it was affected; and
+(iii) the registration was affected in another way—the way the registration was affected and the reason why it was affected; and
 
 (d) any conviction of the person of an offence against a law of the Cook Islands or another country, and the relevance of the offence to the duties of a teacher.
 
-- The Secretary may ask the Commissioner of Police to give the Secretary the following information about the person-
+(3) The Secretary may ask the Commissioner of Police to give the Secretary the following information about the person—
 
 -28-
 
@@ -1232,17 +1353,17 @@ Education Act 2009
 
 Education Act 2009
 
-(a) a written report about the person's criminal record, in the Cook Islands or elsewhere, that the Commissioner of Police has access to; and
+(a) a written report about the person’s criminal record, in the Cook Islands or elsewhere, that the Commissioner of Police has access to; and
 
-(b) a brief description of the circumstances of a conviction or charge mentioned in the person's criminal record.
+(b) a brief description of the circumstances of a conviction or charge mentioned in the person’s criminal record.
 
-- The Commissioner of Police must promptly comply with the Secretary's request.
+(4) The Commissioner of Police must promptly comply with the Secretary’s request.
 
-- If a person is charged with an offence under the Crimes Act 1969 and the Commissioner of Police is aware that the person is a teacher, the Commissioner must promptly give the Secretary written notice of the following particulars-
+(5) If a person is charged with an offence under the Crimes Act 1969 and the Commissioner of Police is aware that the person is a teacher, the Commissioner must promptly give the Secretary written notice of the following particulars—
 
-(a) the person's name; and
+(a) the person’s name; and
 
-(b) if the person is convicted of the offence-
+(b) if the person is convicted of the offence—
 
 (i) particulars of the offence; and
 
@@ -1252,27 +1373,27 @@ Education Act 2009
 
 (iv) the penalty imposed by the court; and
 
-(c) if the person appeals a conviction for the offence, and the appeal is decided or otherwise ends-
+(c) if the person appeals a conviction for the offence, and the appeal is decided or otherwise ends—
 
 (i) particulars of the offence; and
 
 (ii) the date on which the appeal was decided or otherwise ended; and
 
-(iii) if the appeal was decided-the court that decided the appeal; and
+(iii) if the appeal was decided—the court that decided the appeal; and
 
-(iv) if the appeal was decided-particulars of the decision.
+(iv) if the appeal was decided—particulars of the decision.
 
 #### DIVISION 3 REGISTRATION AS AN APPROVED TEACHER
 
 ##### 42. Application for registration as an approved teacher
 
-- A person who wants to be registered as an approved teacher must apply to the Secretary.
+(1) A person who wants to be registered as an approved teacher must apply to the Secretary.
 
-- The application must-
+(2) The application must—
 
 (a) be made in the form that is approved by the Secretary; and
 
-(b) be accompanied by the evidence of the person's eligibility for registration that is specified in the application form; and
+(b) be accompanied by the evidence of the person’s eligibility for registration that is specified in the application form; and
 
 -29-
 
@@ -1282,35 +1403,35 @@ Education Act 2009
 
 Education Act 2009
 
-(c) be accompanied by the evidence of the person's suitability for registration that is specified in the application form (a character reference, for example); and
+(c) be accompanied by the evidence of the person’s suitability for registration that is specified in the application form (a character reference, for example); and
 
 (d) be accompanied by any application fee that is fixed by a regulation.
 
-- The Secretary may require the person-
+(3) The Secretary may require the person—
 
 (a) to provide any other information that the Secretary reasonably requires to consider the application; and
 
 (b) to confirm any aspect of the application by statutory declaration.
 
-- Despite subsection (1)-
+(4) Despite subsection (1)—
 
-(a) if a person's application for registration as an approved teacher is refused, the person may not reapply for registration within 1 year after the person's application is refused; and
+(a) if a person’s application for registration as an approved teacher is refused, the person may not reapply for registration within 1 year after the person’s application is refused; and
 
-(b) if a person's registration as an approved teacher is cancelled, the person may not apply for re-registration within 1 year after the person's registration is cancelled.
+(b) if a person’s registration as an approved teacher is cancelled, the person may not apply for re-registration within 1 year after the person’s registration is cancelled.
 
-- The Secretary must promptly consider every application and decide to-
+(5) The Secretary must promptly consider every application and decide to—
 
-(a) grant-
+(a) grant—
 
-(i) if the application is for registration as a teacherregistration or conditional registration as a teacher; or
+(i) if the application is for registration as a teacher—registration or conditional registration as a teacher; or
 
-(ii) if the application is for conditional registration as a teacher-conditional registration as a teacher; or
+(ii) if the application is for conditional registration as a teacher—conditional registration as a teacher; or
 
-(iii) if the application is for registration as the holder of a limited authority to teach-a limited authority to teach; or
+(iii) if the application is for registration as the holder of a limited authority to teach—a limited authority to teach; or
 
 (b) refuse to grant the application.
 
-- The Secretary may impose conditions on the grant of registration as a teacher, or on the grant of a limited authority to teach, including for example-
+(6) The Secretary may impose conditions on the grant of registration as a teacher, or on the grant of a limited authority to teach, including for example—
 
 (a) a condition that requires the person to successfully complete a training course; or
 
@@ -1320,9 +1441,9 @@ Education Act 2009
 
 (d) a condition that restricts the educational institutions at which the person can teach.
 
-- The Secretary must promptly advise the person, in writing, of the Secretary's decision on the person's application.
+(7) The Secretary must promptly advise the person, in writing, of the Secretary’s decision on the person’s application.
 
-- If the Secretary decides to grant the person's application, the Secretary must-
+(8) If the Secretary decides to grant the person’s application, the Secretary must—
 
 -30-
 
@@ -1332,47 +1453,47 @@ Education Act 2009
 
 Education Act 2009
 
-(a) enter the person's details in the teacher register; and
+(a) enter the person’s details in the teacher register; and
 
 (b) issue a certificate of registration to the person.
 
 ##### 43. Renewal of registration as an approved teacher
 
-- Registration as an approved teacher expires on the date that the Secretary specifies in the approved teacher's certificate of registration, which may be no more than-
+(1) Registration as an approved teacher expires on the date that the Secretary specifies in the approved teacher’s certificate of registration, which may be no more than—
 
-(a) in the case of registration as a teacher-3 years after the date on which the certificate of registration is issued; or
+(a) in the case of registration as a teacher—3 years after the date on which the certificate of registration is issued; or
 
-(b) in the case of conditional registration as a teacher, or as the holder of a limited authority to teach-1 year after the date on which the certificate of registration is issued.
+(b) in the case of conditional registration as a teacher, or as the holder of a limited authority to teach—1 year after the date on which the certificate of registration is issued.
 
-- Registration may be renewed from the date on which it expires.
+(2) Registration may be renewed from the date on which it expires.
 
-- However, conditional registration may only be renewed so that the total period of conditional registration is no more than 3 years, excluding any period when the conditional registration is suspended.
+(3) However, conditional registration may only be renewed so that the total period of conditional registration is no more than 3 years, excluding any period when the conditional registration is suspended.
 
-- A person who wants to renew their registration must apply to the Secretary on or before the day on which their registration expires.
+(4) A person who wants to renew their registration must apply to the Secretary on or before the day on which their registration expires.
 
-- The application must-
+(5) The application must—
 
 (a) be made in the form that is approved by the Secretary; and
 
 (b) be accompanied by any application fee that is fixed by a regulation.
 
-- The Secretary may require the person-
+(6) The Secretary may require the person—
 
 (a) to provide any other information that the Secretary reasonably requires to consider the application; and
 
 (b) to confirm any aspect of the application by statutory declaration.
 
-- In the case of an application to renew conditional registration, if the Secretary is satisfied that it is appropriate to do so, the Secretary may remove any or all of the conditions that apply to the registration.
+(7) In the case of an application to renew conditional registration, if the Secretary is satisfied that it is appropriate to do so, the Secretary may remove any or all of the conditions that apply to the registration.
 
 ##### 44. The teacher register
 
-- The Secretary must maintain a register (the 'teacher register') that contains at least the following information about each approved teacher-
+(1) The Secretary must maintain a register (the “teacher register”) that contains at least the following information about each approved teacher—
 
 (a) the name and address of the approved teacher; and
 
 (b) the type of registration that the approved teacher has; and
 
-(c) any conditions that apply to the approved teacher's registration; and
+(c) any conditions that apply to the approved teacher’s registration; and
 
 (d) the qualifications of the approved teacher; and
 
@@ -1388,7 +1509,7 @@ Education Act 2009
 
 (f) the date on which the approved teacher was registered.
 
-- The Secretary must-
+(2) The Secretary must—
 
 (a) allow the teacher register to be inspected at the times and places decided by the Secretary, on the payment of any fee fixed by the Secretary; and
 
@@ -1396,19 +1517,19 @@ Education Act 2009
 
 ##### 45. Changing the teacher register
 
-- The Secretary may change the details of an approved teacher in the teacher register only to-
+(1) The Secretary may change the details of an approved teacher in the teacher register only to—
 
-(a) record any change to the approved teacher's name or address; or
+(a) record any change to the approved teacher’s name or address; or
 
 (b) record new qualifications gained by the approved teacher; or
 
-(c) record the renewal of the approved teacher's registration; or
+(c) record the renewal of the approved teacher’s registration; or
 
 (d) record disciplinary action taken against the approved teacher, and the penalties imposed; or
 
 (e) comply with an order of a court; or
 
-(f) move the name of an approved teacher from the list of current approved teachers to the list of former approved teachers if-
+(f) move the name of an approved teacher from the list of current approved teachers to the list of former approved teachers if—
 
 (i) the approved teacher resigns; or
 
@@ -1416,9 +1537,9 @@ Education Act 2009
 
 (iii) the approved teacher does not renew their registration; or
 
-(iv) the approved teacher's registration is cancelled.
+(iv) the approved teacher’s registration is cancelled.
 
-- A person commits an offence if the person-
+(2) A person commits an offence if the person—
 
 (a) makes a false or misleading entry in the teacher register; or
 
@@ -1426,15 +1547,15 @@ Education Act 2009
 
 (c) accesses the teacher register without lawful authority.
 
-- The maximum penalty for the offence is a fine of $1000, or imprisonment for 3 months, or both.
+(3) The maximum penalty for the offence is a fine of $1000, or imprisonment for 3 months, or both.
 
-- A person commits an offence if the person-
+(4) A person commits an offence if the person—
 
 (a) is registered under this Act; and
 
 (b) fails to notify the Secretary of any change of name or address within 1 month of the change happening.
 
-- The maximum penalty for the offence is a fine of $20.
+(5) The maximum penalty for the offence is a fine of $20.
 
 -32-
 
@@ -1448,13 +1569,13 @@ Education Act 2009
 
 ##### 46. What this division is about
 
-- This division is about a system for monitoring the performance of approved teachers to ensure that-
+(1) This division is about a system for monitoring the performance of approved teachers to ensure that—
 
 (a) professional standards for teachers are maintained; and
 
 (b) any cases of noncompliance with the professional standards are dealt with according to the principles of natural justice.
 
-- To remove any doubt-
+(2) To remove any doubt—
 
 (a) if a matter may be dealt with under this division or under the Public Service Act, the matter is to be dealt with under this division; and
 
@@ -1462,23 +1583,23 @@ Education Act 2009
 
 ##### 47. Approved teachers charged with, or convicted of, a sexual crime
 
-- The Secretary must suspend a person's registration as an approved teacher immediately after the Secretary becomes aware that the person has been charged with a sexual crime that involves a child.
+(1) The Secretary must suspend a person’s registration as an approved teacher immediately after the Secretary becomes aware that the person has been charged with a sexual crime that involves a child.
 
-- If the Secretary becomes aware that the charge has been dropped, the Secretary must immediately re-register the person.
+(2) If the Secretary becomes aware that the charge has been dropped, the Secretary must immediately re-register the person.
 
-- The Secretary must cancel a person's registration as an approved teacher immediately after the Secretary becomes aware that the person has been convicted of a sexual crime that involves a child.
+(3) The Secretary must cancel a person’s registration as an approved teacher immediately after the Secretary becomes aware that the person has been convicted of a sexual crime that involves a child.
 
-- The Secretary must do so even if the person appeals against the conviction.
+(4) The Secretary must do so even if the person appeals against the conviction.
 
-- However, if the Secretary becomes aware that the conviction has been quashed or overturned on appeal, the Secretary must immediately reregister the person.
+(5) However, if the Secretary becomes aware that the conviction has been quashed or overturned on appeal, the Secretary must immediately re-register the person.
 
 ##### 48. Complaints about teacher performance
 
-- The Secretary may start action under this division against an approved teacher who-
+(1) The Secretary may start action under this division against an approved teacher who—
 
 (a) does not comply with the professional standards for teachers; or
 
-(b) does not comply with a condition that applies to the approved teacher's registration; or
+(b) does not comply with a condition that applies to the approved teacher’s registration; or
 
 -33-
 
@@ -1490,11 +1611,11 @@ Education Act 2009
 
 (c) commits an offence that is in any way associated with the duties of the approved teacher.
 
-- The Secretary may start action under this division-
+(2) The Secretary may start action under this division—
 
 (a) on his or her own initiative; or
 
-(b) when the Secretary receives a complaint from-
+(b) when the Secretary receives a complaint from—
 
 (i) a student of the approved teacher; or
 
@@ -1504,13 +1625,13 @@ Education Act 2009
 
 (iv) the principal of the educational institution where the approved teacher is teaching.
 
-- Even if the person who made a complaint informs the Secretary that they want to withdraw their complaint, the Secretary, at his or her discretion, may continue to take action under this division.
+(3) Even if the person who made a complaint informs the Secretary that they want to withdraw their complaint, the Secretary, at his or her discretion, may continue to take action under this division.
 
 ##### 49. Order to appear before a complaints assessment committee
 
-- If the Secretary is reasonably satisfied that a complaint made against an approved teacher is not a frivolous or vexatious complaint, the Secretary may order the approved teacher to appear before a complaints assessment committee, which will hear proceedings in relation to the complaint.
+(1) If the Secretary is reasonably satisfied that a complaint made against an approved teacher is not a frivolous or vexatious complaint, the Secretary may order the approved teacher to appear before a complaints assessment committee, which will hear proceedings in relation to the complaint.
 
-- The order must be in writing and state-
+(2) The order must be in writing and state—
 
 (a) the act or omission that is alleged to have been committed by the approved teacher; and
 
@@ -1518,13 +1639,13 @@ Education Act 2009
 
 (c) the time, date and place of the complaints assessment committee hearing.
 
-- The order must be given to the approved teacher at least 7 days before the complaints assessment committee hearing is to begin.
+(3) The order must be given to the approved teacher at least 7 days before the complaints assessment committee hearing is to begin.
 
-- If all reasonable attempts to give the order to the approved teacher have failed, the order may instead be published in a newspaper, at least 7 days before the complaints assessment committee hearing is to begin.
+(4) If all reasonable attempts to give the order to the approved teacher have failed, the order may instead be published in a newspaper, at least 7 days before the complaints assessment committee hearing is to begin.
 
-- The newspaper is to be one that is circulating in the area where the approved teacher was last known to live.
+(5) The newspaper is to be one that is circulating in the area where the approved teacher was last known to live.
 
-- If the Secretary is reasonably satisfied that a complaint made against an approved teacher is a frivolous or vexatious complaint, the Secretary must inform the person who made the complaint, in writing, that the Secretary is not going to take any action under this division for that reason.
+(6) If the Secretary is reasonably satisfied that a complaint made against an approved teacher is a frivolous or vexatious complaint, the Secretary must inform the person who made the complaint, in writing, that the Secretary is not going to take any action under this division for that reason.
 
 -34-
 
@@ -1536,9 +1657,9 @@ Education Act 2009
 
 ##### 50. Establishing a complaints assessment committee
 
-- The Secretary establishes a complaints assessment committee by a written order.
+(1) The Secretary establishes a complaints assessment committee by a written order.
 
-- A complaints assessment committee must consist of-
+(2) A complaints assessment committee must consist of—
 
 (a) a person appointed by the Secretary; and
 
@@ -1546,7 +1667,7 @@ Education Act 2009
 
 (c) a person appointed by the committee of the school association.
 
-- However, none of the following persons can be appointed as a member of a complaints assessment committee-
+(3) However, none of the following persons can be appointed as a member of a complaints assessment committee—
 
 (a) the complainant; or
 
@@ -1556,17 +1677,17 @@ Education Act 2009
 
 (d) any other person who has any interest that may conflict with a fair and impartial hearing of the charges made against the approved teacher.
 
-- The order that establishes a complaints assessment committee must specify which member of the complaints assessment committee is to be the chairperson of the complaints assessment committee.
+(4) The order that establishes a complaints assessment committee must specify which member of the complaints assessment committee is to be the chairperson of the complaints assessment committee.
 
 ##### 51. Proceedings before a complaints assessment committee
 
-- The complaints assessment committee must conduct its proceedings in the presence of the approved teacher unless, in spite of being given written notice of the proceedings, the approved teacher does not attend the proceedings.
+(1) The complaints assessment committee must conduct its proceedings in the presence of the approved teacher unless, in spite of being given written notice of the proceedings, the approved teacher does not attend the proceedings.
 
-- However, if the approved teacher shows a sufficient reason why the approved teacher was prevented from attending the proceedings, the approved teacher is entitled to a rehearing.
+(2) However, if the approved teacher shows a sufficient reason why the approved teacher was prevented from attending the proceedings, the approved teacher is entitled to a rehearing.
 
-- The complaints assessment committee must conduct its proceedings with as little formality and technicality as possible, given the need to properly and fairly consider the complaint made against the approved teacher.
+(3) The complaints assessment committee must conduct its proceedings with as little formality and technicality as possible, given the need to properly and fairly consider the complaint made against the approved teacher.
 
-- The approved teacher may-
+(4) The approved teacher may—
 
 (a) be represented by a person who is not a legal practitioner; and
 
@@ -1574,7 +1695,7 @@ Education Act 2009
 
 (c) make a statement in his or her defense, either orally or in writing.
 
-- The complaints assessment committee must keep a written record of its proceedings, in which it records-
+(5) The complaints assessment committee must keep a written record of its proceedings, in which it records—
 
 (a) the statements of the approved teacher and all witnesses; and
 
@@ -1588,13 +1709,13 @@ Education Act 2009
 
 (b) any reports relating to the approved teacher that are tendered at the proceedings.
 
-- The complaints assessment committee is not bound by the rules of evidence, but may inform itself in any way it considers appropriate.
+(6) The complaints assessment committee is not bound by the rules of evidence, but may inform itself in any way it considers appropriate.
 
-- The standard of proof in the proceedings is on the balance of probabilities.
+(7) The standard of proof in the proceedings is on the balance of probabilities.
 
-- If the complaints assessment committee is satisfied that the complaint has been proved, the committee may consider any conduct of the approved teacher in the past when deciding what recommendation to make to the Secretary as to the action to be taken against the approved teacher.
+(8) If the complaints assessment committee is satisfied that the complaint has been proved, the committee may consider any conduct of the approved teacher in the past when deciding what recommendation to make to the Secretary as to the action to be taken against the approved teacher.
 
-- After considering the complaints assessment committee's recommendation, the Secretary may decide-
+(9) After considering the complaints assessment committee’s recommendation, the Secretary may decide—
 
 (a) to reprimand the approved teacher; or
 
@@ -1604,27 +1725,27 @@ Education Act 2009
 
 (d) to order the registration of the approved teacher to be cancelled.
 
-- The Secretary must inform the approved teacher-
+(10) The Secretary must inform the approved teacher—
 
-(a) of the Secretary's decision; and
+(a) of the Secretary’s decision; and
 
 (b) that the approved teacher may appeal the decision in accordance with section 52.
 
 ##### 52. Appeal against decisions
 
-- A person may appeal to the Public Service Board of Appeal against any of the following decisions of the Secretary-
+(1) A person may appeal to the Public Service Board of Appeal against any of the following decisions of the Secretary—
 
-(a) a decision to refuse the person's application for registration as an approved teacher;
+(a) a decision to refuse the person’s application for registration as an approved teacher;
 
-(b) a decision to impose conditions on the person's registration as an approved teacher;
+(b) a decision to impose conditions on the person’s registration as an approved teacher;
 
-(c) a decision to suspend the person's registration as an approved teacher;
+(c) a decision to suspend the person’s registration as an approved teacher;
 
-(d) a decision to cancel the person's registration as an approved teacher.
+(d) a decision to cancel the person’s registration as an approved teacher.
 
-- The appeal must be made as required by part V of the Public Service Act.
+(2) The appeal must be made as required by part V of the Public Service Act.
 
-- The Board of Appeal has jurisdiction to hear and determine (in accordance with Part V of the Public Service Act) every appeal that is made under this section.
+(3) The Board of Appeal has jurisdiction to hear and determine (in accordance with Part V of the Public Service Act) every appeal that is made under this section.
 
 -36-
 
@@ -1638,23 +1759,23 @@ Education Act 2009
 
 ##### 53. Wrongfully claiming to be an approved teacher
 
-- A person commits an offence if-
+(1) A person commits an offence if—
 
 (a) the person claims to be an approved teacher (including by describing himself or herself as an approved teacher, for example); and
 
 (b) the person is not registered under this Act.
 
-- The maximum penalty for the offence is a fine of $1000, or imprisonment for 3 months, or both.
+(2) The maximum penalty for the offence is a fine of $1000, or imprisonment for 3 months, or both.
 
 ##### 54. Wrongfully employing person without registration as an approved teacher
 
-- A person commits an offence if the person-
+(1) A person commits an offence if the person—
 
 (a) employs, or offers employment to, another person as an approved teacher; and
 
 (b) knows that the other person is not registered as an approved teacher.
 
-- The maximum penalty for the offence is a fine of $1000, or imprisonment for 3 months, or both.
+(2) The maximum penalty for the offence is a fine of $1000, or imprisonment for 3 months, or both.
 
 -37-
 
@@ -1666,17 +1787,17 @@ Education Act 2009
 
 ## CHAPTER 5 NATIONAL QUALIFICATIONS FRAMEWORK
 
-##### 55. Function of the Minister-national qualifications framework
+##### 55. Function of the Minister—national qualifications framework
 
-- The Minister must, by a notice published in the Education Gazette, approve a national qualifications framework for use in the Cook Islands.
+(1) The Minister must, by a notice published in the Education Gazette, approve a national qualifications framework for use in the Cook Islands.
 
-- The Minister may approve the use of a qualifications framework that is developed in the Cook Islands or developed overseas (the New Zealand Qualifications Framework, for example).
+(2) The Minister may approve the use of a qualifications framework that is developed in the Cook Islands or developed overseas (the New Zealand Qualifications Framework, for example).
 
-- A 'national qualifications framework' is a document that defines qualifications by reference to the desired learning outcomes for each qualification.
+(3) A “national qualifications framework” is a document that defines qualifications by reference to the desired learning outcomes for each qualification.
 
-- The Minister is responsible for establishing, and maintaining, a system that provides for a consistent approach to the development, award and recognition of qualifications.
+(4) The Minister is responsible for establishing, and maintaining, a system that provides for a consistent approach to the development, award and recognition of qualifications.
 
-- The system must, among other things, provide for-
+(5) The system must, among other things, provide for—
 
 (a) ensuring the quality of qualifications, so that the qualifications are comparable with internationally recognised qualifications; and
 
@@ -1690,7 +1811,7 @@ Education Act 2009
 
 (f) ensuring the effectiveness, efficiency and quality of the education system.
 
-- A regulation may prescribe requirements for-
+(6) A regulation may prescribe requirements for—
 
 (a) educational institutions; or
 
@@ -1700,7 +1821,7 @@ Education Act 2009
 
 (d) examinations.
 
-- For example, these requirements may include processes for registration, accreditation, monitoring and auditing.
+(7) For example, these requirements may include processes for registration, accreditation, monitoring and auditing.
 
 -38-
 
@@ -1712,15 +1833,15 @@ Education Act 2009
 
 ## CHAPTER 6 HIGHER EDUCATION
 
-##### 56. Functions of the Minister-higher education system
+##### 56. Functions of the Minister—higher education system
 
-- The Minister is responsible for establishing, and maintaining, a system for higher education that is-
+(1) The Minister is responsible for establishing, and maintaining, a system for higher education that is—
 
 (a) relevant to the needs of the public and private sectors of the economy; and
 
 (b) consistent with the economic and social goals, and priorities, of the Government.
 
-- The system must, among other things, provide for-
+(2) The system must, among other things, provide for—
 
 (a) formulating policy on higher education, after consulting key stakeholders; and
 
@@ -1730,7 +1851,7 @@ Education Act 2009
 
 (d) planning for the funding of higher education, including the recurrent and development needs of Government educational institutions that provide higher education; and
 
-(e) promoting coordination among-
+(e) promoting coordination among—
 
 (i) the various parts of the education system; and
 
@@ -1770,7 +1891,7 @@ Education Act 2009
 
 ##### 57. Appointments and authority
 
-- It is not necessary to prove the appointment of the following persons-
+(1) It is not necessary to prove the appointment of the following persons—
 
 (a) the Minister;
 
@@ -1780,7 +1901,7 @@ Education Act 2009
 
 (d) a member of a complaints assessment committee.
 
-- It is not necessary to prove the authority of the following persons to do anything under this Act-
+(2) It is not necessary to prove the authority of the following persons to do anything under this Act—
 
 (a) the Minister;
 
@@ -1792,7 +1913,7 @@ Education Act 2009
 
 ##### 58. Signatures
 
-A signature purporting to be the signature of any of the following persons is evidence of the signature it purports to be-
+A signature purporting to be the signature of any of the following persons is evidence of the signature it purports to be—
 
 (a) the Minister;
 
@@ -1804,7 +1925,7 @@ A signature purporting to be the signature of any of the following persons is ev
 
 ##### 59. Evidentiary certificates
 
-A certificate that purports to be signed by the Secretary and is to the effect that-
+A certificate that purports to be signed by the Secretary and is to the effect that—
 
 (a) a specified person has completed a specified course or programme of education; or
 
@@ -1844,39 +1965,39 @@ Education Act 2009
 
 ##### 60. Trespassing on or disturbing schools
 
-- A person commits an offence if the person is on the premises of a school without lawful authority, unless the person has a reasonable excuse.
+(1) A person commits an offence if the person is on the premises of a school without lawful authority, unless the person has a reasonable excuse.
 
-- A person commits an offence if the person intentionally disturbs the good order or management of a school, unless the person has a reasonable excuse.
+(2) A person commits an offence if the person intentionally disturbs the good order or management of a school, unless the person has a reasonable excuse.
 
-- A person commits an offence if the person intentionally abuses or threatens a staff member of a school, in the presence or hearing of a student of the school who is at the time in question-
+(3) A person commits an offence if the person intentionally abuses or threatens a staff member of a school, in the presence or hearing of a student of the school who is at the time in question—
 
-(a) on the school's premises; or
+(a) on the school’s premises; or
 
 (b) at another place where students of the school are assembled for educational purposes.
 
-- The maximum penalty for an offence against this section is a fine of $1000.
+(4) The maximum penalty for an offence against this section is a fine of $1000.
 
-- Subsections (2) and (3) do not apply to a person who was, at the time in question, a student of the school.
+(5) Subsections (2) and (3) do not apply to a person who was, at the time in question, a student of the school.
 
 ##### 61. False or misleading information
 
-- A person commits an offence if the person gives false or misleading information (either orally or in a document) to the Minister, the Secretary or a principal.
+(1) A person commits an offence if the person gives false or misleading information (either orally or in a document) to the Minister, the Secretary or a principal.
 
-- The maximum penalty for the offence is a fine of $1000, or imprisonment for 3 months, or both.
+(2) The maximum penalty for the offence is a fine of $1000, or imprisonment for 3 months, or both.
 
 ##### 62. Protection from liability
 
-- The following persons are not civilly liable for an act done, or omission made, honestly and without negligence under this Act-
+(1) The following persons are not civilly liable for an act done, or omission made, honestly and without negligence under this Act—
 
 (a) the principal of a school;
 
 (b) a member of a school association for a school.
 
-- If subsection (1) prevents civil liability attaching to a person, the liability attaches instead to-
+(2) If subsection (1) prevents civil liability attaching to a person, the liability attaches instead to—
 
-(a) if the school is a Government school-the Crown; or
+(a) if the school is a Government school—the Crown; or
 
-(b) if the school is a private school-the private school's governing body.
+(b) if the school is a private school—the private school’s governing body.
 
 -43-
 
@@ -1888,7 +2009,7 @@ Education Act 2009
 
 ##### 63. Corporal punishment
 
-A person who is at an educational institution must not-
+A person who is at an educational institution must not—
 
 (a) verbally abuse any student who is attending the educational institution; or
 
@@ -1896,39 +2017,39 @@ A person who is at an educational institution must not-
 
 ##### 64. Delegation of powers
 
-- This section is about a person (the 'delegator' ) who delegates a power to another person (the 'delegate' ).
+(1) This section is about a person (the “delegator”) who delegates a power to another person (the “delegate”).
 
-- A delegation may be made in favour of-
+(2) A delegation may be made in favour of—
 
 (a) a person or body, by name; or
 
 (b) the holder of a specified position, by reference to the title of that position.
 
-- If a power is delegated to the holder of a specified position-
+(3) If a power is delegated to the holder of a specified position—
 
 (a) the delegation does not stop having effect only because the person who was the holder of the specified position when the power was delegated stops being the holder of the specified position; and
 
 (b) the power may be exercised by the person who, for the time being, is occupying or acting in the specified position.
 
-- If the person who was the delegator when a delegation was made stops being the delegator-
+(4) If the person who was the delegator when a delegation was made stops being the delegator—
 
 (a) the delegation continues in force; and
 
 (b) the person who, for the time being, is occupying or acting in the position of the delegator is taken to have made the delegation.
 
-- A delegation may be general or limited.
+(5) A delegation may be general or limited.
 
-- The delegator may revoke a delegation, wholly or partly.
+(6) The delegator may revoke a delegation, wholly or partly.
 
-- A delegated power may be exercised only in accordance with any conditions to which the delegation is subject.
+(7) A delegated power may be exercised only in accordance with any conditions to which the delegation is subject.
 
-- If the exercise of a power is dependent on the delegator's opinion, belief or state of mind, then, when exercised by the delegate, the power is dependent on the delegate's opinion, belief or state of mind.
+(8) If the exercise of a power is dependent on the delegator’s opinion, belief or state of mind, then, when exercised by the delegate, the power is dependent on the delegate’s opinion, belief or state of mind.
 
-- When exercising a delegated power, the delegate may do anything that is incidental to the delegated power.
+(9) When exercising a delegated power, the delegate may do anything that is incidental to the delegated power.
 
-- Laws apply to the delegate in the exercise of a delegated power as if the delegate were the delegator.
+(10) Laws apply to the delegate in the exercise of a delegated power as if the delegate were the delegator.
 
-- A delegated power that is properly exercised by the delegate is taken to have been exercised by the delegator.
+(11) A delegated power that is properly exercised by the delegate is taken to have been exercised by the delegator.
 
 -44-
 
@@ -1938,27 +2059,27 @@ A person who is at an educational institution must not-
 
 Education Act 2009
 
-- The delegator may exercise a power that has been delegated, despite the delegation.
+(12) The delegator may exercise a power that has been delegated, despite the delegation.
 
-- The delegation of a power does not relieve the delegator of the responsibility to ensure that the power is properly exercised.
+(13) The delegation of a power does not relieve the delegator of the responsibility to ensure that the power is properly exercised.
 
-- A delegation, or a revocation of the delegation, must be in, or evidenced by, a document signed by the delegator.
+(14) A delegation, or a revocation of the delegation, must be in, or evidenced by, a document signed by the delegator.
 
-- A document purporting to be, or to contain, a delegation, or the revocation of a delegation, is evidence of the delegation or revocation.
+(15) A document purporting to be, or to contain, a delegation, or the revocation of a delegation, is evidence of the delegation or revocation.
 
-- A document signed by the delegator that states something in relation to a delegation is evidence of the thing.
+(16) A document signed by the delegator that states something in relation to a delegation is evidence of the thing.
 
-- All conditions and preliminary steps that are required for the exercise of a delegation are presumed to have been satisfied and performed, unless the contrary is proved.
+(17) All conditions and preliminary steps that are required for the exercise of a delegation are presumed to have been satisfied and performed, unless the contrary is proved.
 
-- A delegated power that purports to have been exercised by the delegate is taken to have been properly exercised by the delegate, unless the contrary is proved.
+(18) A delegated power that purports to have been exercised by the delegate is taken to have been properly exercised by the delegate, unless the contrary is proved.
 
 ##### 65. Boards of trustees for Government schools
 
-- This section applies if the Minister considers a board of trustees would be of benefit to a Government school.
+(1) This section applies if the Minister considers a board of trustees would be of benefit to a Government school.
 
-- The Minister may create a board of trustees for the school, by a notice published in the Education Gazette.
+(2) The Minister may create a board of trustees for the school, by a notice published in the Education Gazette.
 
-- The notice must provide for-
+(3) The notice must provide for—
 
 (a) the name of the board; and
 
@@ -1982,21 +2103,21 @@ Education Act 2009
 
 (g) any other matter that the Minister considers necessary for the constitution, duties and procedure of the board (including the delegation by the board to committees of the duties of management, for example).
 
-- A board of trustees is a body corporate.
+(4) A board of trustees is a body corporate.
 
 ##### 66. Education Gazette
 
-- The Ministry must publish a document called the 'Education Gazette' that contains educational and other information.
+(1) The Ministry must publish a document called the “Education Gazette” that contains educational and other information.
 
-- The Ministry must issue a copy of the Education Gazette to every school.
+(2) The Ministry must issue a copy of the Education Gazette to every school.
 
 ##### 67. Incorporation of society of teachers
 
-Any body of teachers may apply for incorporation, under the Incorporated Societies Act 1994 , as a society for the promotion of the welfare and interests of teachers and the teaching profession.
+Any body of teachers may apply for incorporation, under the Incorporated Societies Act 1994, as a society for the promotion of the welfare and interests of teachers and the teaching profession.
 
 ##### 68. Repeal
 
-The following Acts are repealed-
+The following Acts are repealed—
 
 (a) the Education Act 1986-1987;
 
@@ -2008,13 +2129,13 @@ The following Acts are repealed-
 
 ##### 69. Regulations
 
-- The Queen's Representative may, by order in Executive Council, make regulations about any matter that is-
+(1) The Queen’s Representative may, by order in Executive Council, make regulations about any matter that is—
 
 (a) required or permitted to be prescribed by this Act; or
 
 (b) necessary or convenient for giving effect to this Act.
 
-- For example, regulations may be made-
+(2) For example, regulations may be made—
 
 (a) about the management, administration and control of the operations of a Government educational institution; or
 
@@ -2038,9 +2159,9 @@ Education Act 2009
 
 ##### 70. What this chapter is about
 
-- This chapter provides for the transition of rights and liabilities under the 1986 Act to this Act, when the 1986 Act is repealed.
+(1) This chapter provides for the transition of rights and liabilities under the 1986 Act to this Act, when the 1986 Act is repealed.
 
-- The '1986 Act' is the Education Act 1986-1987 .
+(2) The “1986 Act” is the Education Act 1986-1987.
 
 ##### 71. Advisory and technical committees
 
@@ -2052,7 +2173,7 @@ An application that was made under the 1986 Act, but was undecided as at the com
 
 ##### 73. Appointments
 
-If, immediately before the commencement of this section, a person held an appointment under the 1986 Act, the person's appointment continues (according to its terms) under this Act.
+If, immediately before the commencement of this section, a person held an appointment under the 1986 Act, the person’s appointment continues (according to its terms) under this Act.
 
 ##### 74. School associations and their committees
 
@@ -2072,9 +2193,9 @@ Education Act 2009
 
 ##### 76. Decisions
 
-- A decision that was in force under the 1986 Act, immediately before the commencement of this section, continues in force as if it were made under this Act.
+(1) A decision that was in force under the 1986 Act, immediately before the commencement of this section, continues in force as if it were made under this Act.
 
-- A 'decision' includes for example-
+(2) A “decision” includes for example—
 
 (a) a decision to establish or register an educational institution; and
 
@@ -2086,13 +2207,13 @@ Education Act 2009
 
 ##### 77. Enrolments
 
-If, immediately before the commencement of this section, a student was enrolled at a school, the student's enrolment continues under this Act.
+If, immediately before the commencement of this section, a student was enrolled at a school, the student’s enrolment continues under this Act.
 
 ##### 78. Proceedings for appeals or offences
 
-- If, immediately before the commencement of this section, proceedings for an appeal or an offence under the 1986 Act could legally have been started, the proceedings may be started under this Act, as if the decision being appealed or the offence were under this Act.
+(1) If, immediately before the commencement of this section, proceedings for an appeal or an offence under the 1986 Act could legally have been started, the proceedings may be started under this Act, as if the decision being appealed or the offence were under this Act.
 
-- Proceedings for an appeal or an offence under the 1986 Act may be continued under that Act, as if this Act had not commenced.
+(2) Proceedings for an appeal or an offence under the 1986 Act may be continued under that Act, as if this Act had not commenced.
 
 ##### 79. References to the Education Act 1986-1987
 
@@ -2102,7 +2223,7 @@ A reference to the 1986 Act in any Act or document may, if the context permits, 
 
 A reference to the Department of Education in any Act or other document may, if the context permits, be taken to be a reference to the Ministry of Education.
 
-##### 81. Teacher's register
+##### 81. Teacher’s register
 
 The register kept under section 40 of the 1986 Act is taken to be the teacher register under this Act.
 
