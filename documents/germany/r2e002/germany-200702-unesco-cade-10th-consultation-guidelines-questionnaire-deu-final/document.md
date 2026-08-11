@@ -6,7 +6,7 @@ Tenth consultation of Member States on the application of the Convention and the
 
 ## GUIDELINES FOR THE PREPARATION OF REPORTS BY MEMBER STATES ON THE APPLICATION OF THE 1960 CONVENTION AND RECOMMENDATION AGAINST DISCRIMINATION IN EDUCATION
 
-Approved by the UNESCO Executive Board at its 207 th session in October 2019
+Approved by the UNESCO Executive Board at its 207th session in October 2019
 
 ### 1. Introduction
 
@@ -16,7 +16,7 @@ The right to education is today one of the key principles underpinning the Educa
 
 The  Convention  has  been  recognized  as  a cornerstone  of  Education  2030  agenda .  It  also represents a powerful tool to advance SDG4 by ensuring effective articulation between normative and operational work.
 
-The present Guidelines are intended to assist Member States in the preparation of national reports on the implementation of the Convention as well as the Recommendation in the context of the 10 th Consultation.
+The present Guidelines are intended to assist Member States in the preparation of national reports on the implementation of the Convention as well as the Recommendation in the context of the 10th Consultation.
 
 ### 2. Reporting obligations
 
@@ -58,9 +58,9 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 [[START OF PAGE 3]]
 
-- Open-ended  and  closed-ended  questions  to  be  directly  filled  in  by  Member  States through  a  participatory  process.  Please  note  that  multiple  answers  may  be  provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States through a participatory process. Please note that multiple answers may be provided where relevant.
 
-- Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses  to  the  open-ended  questions  (including  remarks  on  how  to  respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 In  their  responses,  Member  States  are  encouraged  to  provide  information  in  a  concise  manner while preserving substantive and relevant content.
 
@@ -74,9 +74,9 @@ Country name:  Germany
 
 Organization or entity responsible for the preparation of the report:  Federal Foreign Office
 
-### Information on the legislative, judicial, administrative and other measures taken by the state at the national level
+### I. Information on the legislative, judicial, administrative and other measures taken by the state at the national level
 
-#### Ratification of the Convention 2
+#### 1. Ratification of the Convention 2
 
 Is your country a State Party to the Convention?
 
@@ -110,7 +110,7 @@ http://portal.unesco.org/en/ev.php-URL_ID=12949&URL_DO=DO_TOPIC&URL_SECTION=201.
 
 [[START OF PAGE 5]]
 
-#### Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
+#### 2. Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
 
 Has your country ratified the Protocol?
 
@@ -118,7 +118,7 @@ X Yes
 
 o No, please briefly explain the difficulties encountered:
 
-#### Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
+#### 3. Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
 
 In case your country is a State Party to the Convention:
 
@@ -164,9 +164,9 @@ If yes, the report could list the main texts adopted to guarantee the right to e
 
 Information supplied could demonstrate how such policies and programmes comply with commitments of the right to education under the Recommendation.
 
-### Information on the implementation of the Convention or Recommendation
+### II. Information on the implementation of the Convention or Recommendation
 
-#### Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
+#### 1. Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
 
 Articles/Paragraphs  1(1),  2  and  3  of  the  Convention/Recommendation  provide  for  non- discrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
 
@@ -206,7 +206,7 @@ The regulations of general compulsory schooling also apply to children of asylum
 
 To ensure pupils' access to teaching aids used in lessons regardless of their economic and social circumstances, most Länder have established regulations on the provision of financial assistance to pupils for purchasing teaching aids (Lernmittelhilfe), or on their provision free of charge  (Lernmittelfreiheit),  depending  in  part  on  parents'  income  and  number  of  children. Under these regulations,  pupils  are  either  exempt  from  the  costs  of  teaching  aids  or  only have  to  cover  part  of  the  costs.  The  funds  are  provided  either  by  the  local  authority responsible  for  establishing  and  maintaining  the  schools,  or  by  the  Land  (federal  state)  in question (Schulträger). In the majority of the Länder, pupils at public sector schools are lent textbooks and other expensive teaching aids (e.g. pocket calculators) for the duration of their use.  If  teaching  aids  become  the  property  of  pupils,  parents  may  be  required  to  cover  a portion of the costs in some cases.
 
-Each Land has arrangements as regards the transport of pupils to and from school. While certain  differences  exist  as  to  who  is  entitled  to  use  school  transport  and  the  scope  of services provided, there are comprehensive provisions for the period of compulsory full-time schooling. In general, fares are reimbursed, usually for public transport, while under certain conditions  a  school  transport  service  is  established  in  its  own  right.  The  purpose  is  to guarantee fair opportunities for pupils from all walks of life, for urban and rural areas, nonhandicapped and handicapped schoolchildren.
+Each Land has arrangements as regards the transport of pupils to and from school. While certain differences exist as to who is entitled to use school transport and the scope of services provided, there are comprehensive provisions for the period of compulsory full-time schooling. In general, fares are reimbursed, usually for public transport, while under certain conditions a school transport service is established in its own right. The purpose is to guarantee fair opportunities for pupils from all walks of life, for urban and rural areas, non-handicapped and handicapped schoolchildren.
 
 - 1.2 Please indicate actions taken by your government to guarantee equal access to all levels and types of education in your country (several items could be ticked/mentioned):
 
@@ -228,7 +228,7 @@ This notably is covered under SDG target 4.1 and partly target 4.b 6
 
 Please refer to section II.1.1.
 
-- 1.3 Please  indicate  the  actions  taken  and  planned  in  your  country  to  ensure  equality  of opportunities  (in  terms  of  access,  participation  and  completion),  equal  treatment  and  to support the inclusion of all learners (including girls and women, the economically and socially marginalized,  people  with  disabilities  and  other  vulnerable  groups)  in  learning  processes (several items could be ticked/mentioned):
+- 1.3 Please indicate the actions taken and planned in your country to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners (including girls and women, the economically and socially marginalized, people with disabilities and other vulnerable groups) in learning processes (several items could be ticked/mentioned):
 
 - X Providing financial incentives and fellowships
 
@@ -240,23 +240,9 @@ Please refer to section II.1.1.
 
 - X Ensuring gender parity in science, technology, engineering and mathematics (STEM) and technical and vocational training (TVET)
 
-- X  Providing  re-entry  programmes  for  young mothers
+- X Providing re-entry programmes for young mothers
 
 - X Eliminating all barriers for pregnant girls or young mothers in education
-
-- o Other:
-
-- Please elaborate further on the measures taken, including those to ensure gender equality and the empowerment of girls and women in and through education:
-
-##### Overarching initiatives/strategies
-
-In recent years the Länder have made sustained efforts to establish diagnostic procedures as a basis for individual support. These include assessing language levels prior to enrolment at  school,  examining  learning  backgrounds  of  pupils  who  are  starting  school,  establishing learning  levels,  comparative  and  orientation  work,  and  competence  analyses  in  different primary and lower secondary-level grades.
-
-In 2010, the Standing Conference of the Länder Ministers of Education and Cultural Affairs (Kultusministerkonferenz/KMK)  adopted  a  targeted  support  strategy  for  poorer-performing pupils  (Förderstrategie  für  leistungsschwächere  Schülerinnen  und  Schüler)  which  includes prevention, intervention and compensation measures. The aim of the support strategy is to significantly reduce the number of pupils not achieving a minimum competence development level by the end of their course of education. In this context particular attention is given to
-
-> 6 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programmes'.
-
-> 7 Administrative barriers to education include, amongst others, lack of identity papers or birth certificates required to enrol.
 
 - X Providing auxiliary assistance
 
@@ -274,6 +260,20 @@ In 2010, the Standing Conference of the Länder Ministers of Education and Cultu
 
 - X Combatting stereotyping and stigmatisation
 
+- o Other:
+
+- Please elaborate further on the measures taken, including those to ensure gender equality and the empowerment of girls and women in and through education:
+
+##### Overarching initiatives/strategies
+
+In recent years the Länder have made sustained efforts to establish diagnostic procedures as a basis for individual support. These include assessing language levels prior to enrolment at school, examining learning backgrounds of pupils who are starting school, establishing learning levels, comparative and orientation work, and competence analyses in different primary and lower secondary-level grades.
+
+In 2010, the Standing Conference of the Länder Ministers of Education and Cultural Affairs (Kultusministerkonferenz/KMK) adopted a targeted support strategy for poorer-performing pupils (Förderstrategie für leistungsschwächere Schülerinnen und Schüler) which includes prevention, intervention and compensation measures. The aim of the support strategy is to significantly reduce the number of pupils not achieving a minimum competence development level by the end of their course of education. In this context particular attention is given to
+
+> 6 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'.
+
+> 7 Administrative barriers to education include, amongst others, lack of identity papers or birth certificates required to enrol.
+
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
@@ -288,9 +288,9 @@ https://www.kmk.org/fileadmin/Dateien/pdf/PresseUndAktuelles/2019/2019-12-
 
 https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2019/2019_12_05-Sprachsensibler-Unterricht-berufl-Schulen.pdf,  in  German).  It  is  dedicated  to  the  particular challenges  of  promoting  specialised  language  at  vocational  schools  which  offer  diverse educational  options  that  are  designed  to  integrate  a  broad  range  of  target  groups  into vocational and social life.
 
-In 2018, a joint initiative was launched by the Federation and the Länder to promote highperforming  and  potentially  particularly  high-performing  pupils  (Leistung  macht  Schule, https://www.leistung-macht-schule.de/).  Against  the  background  of  an  education  policy aimed  at  equal  opportunities,  the  initiative  aims  to  ensure  the  best  possible  learning  and educational success for all the pupils concerned, irrespective of their origin, gender or social status. It focuses in particular on children and young people from educationally disadvantaged families, especially those with a migrant background, and on gender balance, especially girls in STEM subjects. The duration of the initiative is ten years. The Federation and the Länder are providing a total of 125 million euros for the initiative in equal parts. In the first five-year phase, the schools will be supported in the development of practical strategies and concepts for school and teaching development by an interdisciplinary research network financed  by  the  federal  government.  The  Federation  is  also  responsible  for  the  overall coordination of the initiative and for the scientific support of the transfer in the second phase. The Länder are responsible for the selection of schools following Land-wide calls for tenders, the supervision of schools and the Land-wide implementation of promising measures. The Länder  are  also  developing  strategies  and  concepts  in  the  fields  of  diagnosis  and counselling, as well as for the promotion of extra-curricular potential.
+In 2018, a joint initiative was launched by the Federation and the Länder to promote high-performing and potentially particularly high-performing pupils (Leistung macht Schule, https://www.leistung-macht-schule.de/). Against the background of an education policy aimed at equal opportunities, the initiative aims to ensure the best possible learning and educational success for all the pupils concerned, irrespective of their origin, gender or social status. It focuses in particular on children and young people from educationally disadvantaged families, especially those with a migrant background, and on gender balance, especially girls in STEM subjects. The duration of the initiative is ten years. The Federation and the Länder are providing a total of 125 million euros for the initiative in equal parts. In the first five-year phase, the schools will be supported in the development of practical strategies and concepts for school and teaching development by an interdisciplinary research network financed by the federal government. The Federation is also responsible for the overall coordination of the initiative and for the scientific support of the transfer in the second phase. The Länder are responsible for the selection of schools following Land-wide calls for tenders, the supervision of schools and the Land-wide implementation of promising measures. The Länder are also developing strategies and concepts in the fields of diagnosis and counselling, as well as for the promotion of extra-curricular potential.
 
-In 2019 the Federation and the Länder launched a programme to support schools in socioeconomically disadvantaged areas (Schule macht stark, https://www.kmk.org/fileadmin/Dateien/pdf/PresseUndAktuelles/2019/2019-10-23_Schule_macht_stark_Bund-Laender-Vereinbarung.pdf, in German). The programme aims  to  enhance  opportunities  for  disadvantaged  pupils  by  addressing  the  challenging situation in both urban and rural areas, as well as by fostering pupils' potential and talents. For the coming ten years, the Federation and the Länder are providing a total of 125 million euros for the initiative in equal parts. Implementation in schools is scheduled to begin in the school year 2021/2022.In 2010, the German parliamentary assembly (Bundestag) adopted the  so-called  Education  and  Participation  Package  (Bildungs-  und  Teilhabepaket)  which offers additional benefits in order to improve the educational opportunities of needy children and young people. The Package supports 2.5 million children and juveniles. It comprises the following  benefits:  learning/study  support,  school  supplies,  the  cost  of  school  trips,  lunch subsidies, and support for participating in club, cultural and holiday activities.
+In 2019 the Federation and the Länder launched a programme to support schools in socio-economically disadvantaged areas (Schule macht stark, https://www.kmk.org/fileadmin/Dateien/pdf/PresseUndAktuelles/2019/2019-10-23_Schule_macht_stark_Bund-Laender-Vereinbarung.pdf, in German). The programme aims to enhance opportunities for disadvantaged pupils by addressing the challenging situation in both urban and rural areas, as well as by fostering pupils' potential and talents. For the coming ten years, the Federation and the Länder are providing a total of 125 million euros for the initiative in equal parts. Implementation in schools is scheduled to begin in the school year 2021/2022. In 2010, the German parliamentary assembly (Bundestag) adopted the so-called Education and Participation Package (Bildungs- und Teilhabepaket) which offers additional benefits in order to improve the educational opportunities of needy children and young people. The Package supports 2.5 million children and juveniles. It comprises the following benefits: learning/study support, school supplies, the cost of school trips, lunch subsidies, and support for participating in club, cultural and holiday activities.
 
 [[END OF PAGE 9]]
 
@@ -298,9 +298,9 @@ In 2019 the Federation and the Länder launched a programme to support schools i
 
 In  2018,  the  Federal  Government  initiated  a  renewal  of  the  2015  National  Action  Plan  on Integration coordinated by the Federal Government Commissioner for Migration, Refugees and Integration to further enhance processes between stakeholders. The Plan is based on five  phases  of  a  typical  migration  and  integration  process:  prior  to  migration,  upon  arrival, incorporation,  growing  together,  cohesion.  Together  with  relevant  ministries,  the  Länder, cities, local communities and civil society, the aim is to develop key measures and projects for each phase. The process involves more than 300 stakeholders, including more than 75 migrant  organizations.  The  result  will  be  a  collection  of  approximately  150  measures  and projects. They form the frame of an overall integration strategy.
 
-In  this  context,  the  Länder  are  prioritising  in  particular  language  support  for  children  and young  people,  implementation  of  the  Standing  Conference's  support  strategy  for  poorerperforming pupils, cooperation with parents and migrant organisations, and the opening of intercultural  day-care  centres  for  children  and  schools.  The  Federation  is  prioritising  the transition from school to in-company vocational training, improving training success rates for young people from a migrant background, increasing the share of students from a migrant background, language promotion, and educational research and reporting.
+In this context, the Länder are prioritising in particular language support for children and young people, implementation of the Standing Conference's support strategy for poorer-performing pupils, cooperation with parents and migrant organisations, and the opening of intercultural day-care centres for children and schools. The Federation is prioritising the transition from school to in-company vocational training, improving training success rates for young people from a migrant background, increasing the share of students from a migrant background, language promotion, and educational research and reporting.
 
-Both  the  Federal  Ministry  of  Education  and  Research  and  the  Länder  are  continuing  the initiative  for  language  promotion,  language  diagnostics  and  reading  promotion,  "Bildung durch Sprache und Schrift (BiSS)". In order to secure the next generation of skilled workers and to activate all potentials of young people - especially those with a migration background -  for  a  better  transition  from  school  to  work,  the  Federal  Government,  the  Federal Employment Agency and the Länder together aim to continue to develop and expand the successful initiative "Abschluss und Anschluss -Bildungsketten bis zum Ausbildungsabschluss'.
+Both the Federal Ministry of Education and Research and the Länder are continuing the initiative for language promotion, language diagnostics and reading promotion, "Bildung durch Sprache und Schrift (BiSS)". In order to secure the next generation of skilled workers and to activate all potentials of young people – especially those with a migration background – for a better transition from school to work, the Federal Government, the Federal Employment Agency and the Länder together aim to continue to develop and expand the successful initiative "Abschluss und Anschluss – Bildungsketten bis zum Ausbildungsabschluss”.
 
 The National Action Plan process has shown that a dialogue format is required at the federal level  in  which  actors  from  science,  practice,  advocacy  groups,  migrant  organizations  and government regularly come together and exchange information on the topics in the area of integration through education. Such a dialogue format for integration through education will be created and established by the Federal Ministry of Education and Research.
 
@@ -314,7 +314,7 @@ In Germany, all young people with or without a disability have the right and are
 
 [[START OF PAGE 11]]
 
-Please  refer  to  the  9 th German  periodic  report  for  further  information  on  special  needs education.
+Please refer to the 9th German periodic report for further information on special needs education.
 
 ##### Gender equality
 
@@ -324,9 +324,9 @@ The issue of gender equality and empowerment of girls and women is addressed at 
 
 - The  'Klischeefrei'  initiative  is  an  alliance  of  more  than  250  representatives  from  the areas  of  education  and  training,  politics,  business  and  research.  The  aim  of  the initiative is to enable young people to select their career and study path on the basis of their individual strengths and interests, free from gender stereotypes.
 
-- A yearly 'Girls' Day' promotes girlsʼ interest in STEM subjects. It is complemented by a 'Boys' Day' for professions generally chosen by women. In 2019 over 130130132130,000  girls  and  boys  visited  about  17,800  companies  and  research institutions.
+- A yearly 'Girls' Day' promotes girlsʼ interest in STEM subjects. It is complemented by a 'Boys' Day' for professions generally chosen by women. In 2019 over 130,000 girls and boys visited about 17,800 companies and research institutions.
 
-- The  Programme for Women Professors (Professorinnenprogramm) was launched by the federal government and the Länder in 2007 in order to support women in their academic careers and to increase their  share  of  professorships  at  German  Higher Education Institutions (HEIs). It is a central instrument to promote equality between women  and  men  in  HEIs  and  has  improved  equal  opportunities  in  the  science systems in several rounds of tenders. To apply for a professorship, the universities must submit an equality concept for assessment. Applications for funding for up to three professorships can only be made once the evaluation is positive. In the third programme phase 2018-2022, the federal government and the Länder will make a total of 200 million euros available (https://www.gwkbonn.de/fileadmin/Redaktion/Dokumente/Papers/Professorinnenprogramm-III2018.pdf, in German). It is furthermore now possible to apply for funding for a fourth professorship, for which up to ten HEIs per round may apply if their equality concepts receive top ratings in the area of 'Personnel development and recruitment on the way to a professorship' with the title 'Equality: excellent!'. Through the funding of a fourth professorship, HEIs get strong incentives to also promote young female scientists.
+- The Programme for Women Professors (Professorinnenprogramm) was launched by the federal government and the Länder in 2007 in order to support women in their academic careers and to increase their share of professorships at German Higher Education Institutions (HEIs). It is a central instrument to promote equality between women and men in HEIs and has improved equal opportunities in the science systems in several rounds of tenders. To apply for a professorship, the universities must submit an equality concept for assessment. Applications for funding for up to three professorships can only be made once the evaluation is positive. In the third programme phase 2018-2022, the federal government and the Länder will make a total of 200 million euros available (https://www.gwk-bonn.de/fileadmin/Redaktion/Dokumente/Papers/Professorinnenprogramm-III-2018.pdf, in German). It is furthermore now possible to apply for funding for a fourth professorship, for which up to ten HEIs per round may apply if their equality concepts receive top ratings in the area of 'Personnel development and recruitment on the way to a professorship' with the title 'Equality: excellent!'. Through the funding of a fourth professorship, HEIs get strong incentives to also promote young female scientists.
 
 - Endeavours  to  reduce  the  gender  imbalance  are  also  a  criterion  that  governs  the performance-related  allocation  of  funds  to  and  within  HEIs.  The  issue  of  women's adequate representation at all qualification levels plays a key role in the conclusion of target agreements between the Länder and HEIs, with a view to creating incentive for additional measures.
 
@@ -338,7 +338,7 @@ With  the  'Joint  declaration  of  the  Central  Council  of  Jews  in  Germany
 
 [[START OF PAGE 12]]
 
-To  support  teachers  in  this  task  the  Standing  Conference  and  the  Central  Council  have created a structured online collection of selected materials for the initial, further and ongoing training  of  teachers,  and  for  use  in  the  classroom  and  in  projects  (https://www.kmkzentralratderjuden.de/, in German). The two partners are currently working on a recommendation or declaration on addressing antisemitism in schools.
+To support teachers in this task the Standing Conference and the Central Council have created a structured online collection of selected materials for the initial, further and ongoing training of teachers, and for use in the classroom and in projects (https://www.kmk-zentralratderjuden.de/, in German). The two partners are currently working on a recommendation or declaration on addressing antisemitism in schools.
 
 ##### Higher education
 
@@ -360,7 +360,7 @@ HEIs seek to maintain the equality of opportunity of different groups by various
 
 - continuing  education  offers  for  employed  people,  e.g.  as  part  of  the  guest  student programme (centre for lifelong learning).
 
-Please refer to section II.2.10 (migrants/refugees) and to the 9 th German periodic report for further initiatives.
+Please refer to section II.2.10 (migrants/refugees) and to the 9th German periodic report for further initiatives.
 
 -  Please indicate whether your country has adopted and reviewed legislation related to the minimum age for marriage so that it conforms to international standards (18 years):
 
@@ -416,7 +416,7 @@ Children in Germany are legally required to attend a full-time school for nine o
 
 [[START OF PAGE 14]]
 
-General compulsory schooling starts on 1 August for all children having reached their sixth birthday before a statutory qualifying date. The Länder can set the qualifying date between 30 June and the end of the calendar year. General compulsory schooling involves nine years of full-time schooling (ten years in  Berlin,  Brandenburg,  Bremen  and  North  RhineWestphalia).  Youths  who  do  not  attend  a  full-time  general  education  school  or  vocational school  at  upper  secondary  level  once  they  have  completed  their  period  of  compulsory general  schooling  are  obliged  to  attend  a  part-time  vocational  school  (Berufsschulpflicht) which  usually  lasts  three  years,  corresponding  to  the  course  duration  in  a  recognised occupation requiring formal training. For pupils who do not attend a general school at upper secondary level or who enter training, some Länder have regulations under which pupils are required  to  remain  in  full-time  education  and  to  attend  some  sort  of  vocational  school. Disabled  children  and  youths  are  also  required  to  attend  school  and  complete  their compulsory education.
+General compulsory schooling starts on 1 August for all children having reached their sixth birthday before a statutory qualifying date. The Länder can set the qualifying date between 30 June and the end of the calendar year. General compulsory schooling involves nine years of full-time schooling (ten years in Berlin, Brandenburg, Bremen and North Rhine-Westphalia). Youths who do not attend a full-time general education school or vocational school at upper secondary level once they have completed their period of compulsory general schooling are obliged to attend a part-time vocational school (Berufsschulpflicht) which usually lasts three years, corresponding to the course duration in a recognised occupation requiring formal training. For pupils who do not attend a general school at upper secondary level or who enter training, some Länder have regulations under which pupils are required to remain in full-time education and to attend some sort of vocational school. Disabled children and youths are also required to attend school and complete their compulsory education.
 
 Compulsory schooling involves regular attendance of lessons and other compulsory school events.  Both  pupils  and  parents  are  responsible  for  meeting  this  obligation,  and  training companies are also responsible for ensuring that their trainees fulfil their obligation to attend vocational  school.  The  school  checks  attendance  records  and  may,  if  necessary,  enforce attendance  by  taking  various  actions  with  respect  to  the  pupil,  the  parents  or  the  training company.
 
@@ -452,7 +452,7 @@ X Yes: Please provide the duration and describe the extent to which it is.
 
 Please list the laws and policies that ensure the free availability of secondary education and describe  whether  direct  and  indirect  costs  are  covered  (such  as  tuition  fees,  exam  fees, school supplies, uniforms, transport costs and compulsory levies on parents).
 
-Attendance of public-sector secondary schools is free of charge. The range of secondary education courses in Germany includes both general and vocational education, as well as courses  that  combine  general  education  and  vocational  training.  There  are  no  formal prerequisites  for  admission  to  the  dual  VET  system  (duales  System).  The  amended Vocational  Training  Act  (Berufsbildungsgesetz),  which  came  into  force  on  January  1 st 2020, introduced a minimum remuneration for apprentices. In 2008 the Federal Ministry of Education and Research launched the Vocational Orientation Programme (Berufsorientierungsprogramm - BOP) for general schools. The objective is to offer pupils all  over  Germany  a  vocational  orientation  process  that  will  enable  them  to  develop  a realistic  idea  of  their  own  abilities  and  interests  and  to  gather  practical  experience  in  a variety of occupational fields. Early vocational orientation and the fostering of cross-cutting core  skills  help  ensure  a  seamless  transition  from  school  to  the  working  world.  The preventative  approach adopted by the programme contributes towards the avoidance of training dropouts and assists in reducing the number of unplaced training applicants during the transitional phase.
+Attendance of public-sector secondary schools is free of charge. The range of secondary education courses in Germany includes both general and vocational education, as well as courses that combine general education and vocational training. There are no formal prerequisites for admission to the dual VET system (duales System). The amended Vocational Training Act (Berufsbildungsgesetz), which came into force on January 1st 2020, introduced a minimum remuneration for apprentices. In 2008 the Federal Ministry of Education and Research launched the Vocational Orientation Programme (Berufsorientierungsprogramm - BOP) for general schools. The objective is to offer pupils all over Germany a vocational orientation process that will enable them to develop a realistic idea of their own abilities and interests and to gather practical experience in a variety of occupational fields. Early vocational orientation and the fostering of cross-cutting core skills help ensure a seamless transition from school to the working world. The preventative approach adopted by the programme contributes towards the avoidance of training dropouts and assists in reducing the number of unplaced training applicants during the transitional phase.
 
 For further details please refer to section II.1.1.
 
@@ -556,7 +556,7 @@ On conclusion of a course leading to a first degree, grants can be awarded for p
 
 A key role in indirect student financing is played by the 57 student services which provide reduced-price  catering  in  refectories  and  cafeterias  at  all  HEIs,  as  well  as  low-cost accommodation. In addition, childcare, psychological and social counselling, as well as social and first semester counselling are provided by the HEIs, local authorities, student services and student unions. Furthermore, there are inexpensive tickets for local public transport.
 
-Due  to  the  Covid-19  crisis,  the  lecture  times  for  the  summer  semester  2020  could  be arranged flexibly, and the dates for the application and admission process for undergraduate courses  for  the  winter  semester  2020/2021,  as  well  as  the  start  of  the  semester,  were adjusted. In view of income lost by students due to the restrictions put on the economy to combat  the  spread  of  Covid-19,  the  Federal  Government  has  pledged  to  bear  all  interest costs students would otherwise incur for a specific type of student loan awarded by a stateowned bank until the end of March 2021. This allows students to take out a maximum of 650 euros per month, irrespective of their nationality or their financial circumstances. In addition, the  Federal  Government  has  established  an  interim  financial  aid  for  students  faced  with pandemic-related financial hardship, provided with an overall budget of 100 million euro. This aid is intended to help those students - both local and foreign - who can prove that they are faced with financial  hardship  caused  by  the  pandemic,  who  need  immediate  help  and  are unable  to  overcome  their  pandemic-related  hardship  by  making  use  of  other  support. Students  benefiting  from  loans,  scholarships  or  similar  in  the  relevant  month  are not excluded from applying for interim financial aid. Depending on the proven need, up to 500 euros per month can be paid out as a non-repayable grant. The grant is allocated monthly during a three-month period in summer 2020, i.e. applications can only be filed separately for the months June, July and August 2020. The decision on granting the interim financial aid is taken  by  the  relevant  student  services  on  the  basis  of  the  information  provided  by  the students.
+Due to the Covid-19 crisis, the lecture times for the summer semester 2020 could be arranged flexibly, and the dates for the application and admission process for undergraduate courses for the winter semester 2020/2021, as well as the start of the semester, were adjusted. In view of income lost by students due to the restrictions put on the economy to combat the spread of Covid-19, the Federal Government has pledged to bear all interest costs students would otherwise incur for a specific type of student loan awarded by a state-owned bank until the end of March 2021. This allows students to take out a maximum of 650 euros per month, irrespective of their nationality or their financial circumstances. In addition, the Federal Government has established an interim financial aid for students faced with pandemic-related financial hardship, provided with an overall budget of 100 million euro. This aid is intended to help those students - both local and foreign - who can prove that they are faced with financial hardship caused by the pandemic, who need immediate help and are unable to overcome their pandemic-related hardship by making use of other support. Students benefiting from loans, scholarships or similar in the relevant month are not excluded from applying for interim financial aid. Depending on the proven need, up to 500 euros per month can be paid out as a non-repayable grant. The grant is allocated monthly during a three-month period in summer 2020, i.e. applications can only be filed separately for the months June, July and August 2020. The decision on granting the interim financial aid is taken by the relevant student services on the basis of the information provided by the students.
 
 ##### 2.4 Adult education and alternative learning
 
@@ -584,11 +584,11 @@ Article/Paragraph 4(c) of the Convention/Recommendation provides for adult educa
 
 - Please elaborate further on the measures taken:
 
-Please refer  to  the  9 th German Report for  a  detailed  description  of  the  responsibilities  for adult  education  in  Germany.  A  central  principle  of  continuing  education  courses  is  that attendance should be voluntary. Continuing general education includes possibilities to obtain school-leaving qualifications. There is a wide range of offers for further vocational training, including adaptation and expansion of job-specific knowledge as well as career advancement (e.g. master craftsman or technician).
+Please refer to the 9th German Report for a detailed description of the responsibilities for adult education in Germany. A central principle of continuing education courses is that attendance should be voluntary. Continuing general education includes possibilities to obtain school-leaving qualifications. There is a wide range of offers for further vocational training, including adaptation and expansion of job-specific knowledge as well as career advancement (e.g. master craftsman or technician).
 
 In  2009,  the  Standing  Conference  (KMK)  adopted  standard  preconditions  under  which vocationally qualified applicants without a higher education entrance qualification obtained at school are granted the right to enter a HEI (https://www.kmk.org/fileadmin/veroeffentlichungen_beschluesse/2009/2009_03_06-Hochschulzugang-erful-qualifizierte-Bewerber.pdf, in German).  In 2018  roughly 62,000 students without a higher education entrance qualification were enrolled in higher education, representing 2.2% of the student population. The 2018 figure - a new all-time high - is an increase by 35% compared to 2013. The Federation's scholarship programme Aufstiegsstipendium, which was introduced in 2008, awards non-repayable scholarships to candidates  with  high  vocational  qualifications  as  an  incentive  to  start  a  course  of  higher education. Around 12,000 scholarships have been awarded so far.
 
-Under  the  competition  'Getting  ahead  through  education:  Open  HEIs'  (Aufstieg  durch Bildung: Offene Hochschulen) which was launched in 2011, the Federation and the Länder are running a programme to promote the development of practical, vocational and trainingrelated  study  courses  to  integrate  employees  and  professionally-qualified  individuals  more closely into higher education. The Länder also support the expansion of study courses and continuing training measures which accompany employment through target agreements with HEIs.
+Under the competition 'Getting ahead through education: Open HEIs' (Aufstieg durch Bildung: Offene Hochschulen) which was launched in 2011, the Federation and the Länder are running a programme to promote the development of practical, vocational and training-related study courses to integrate employees and professionally-qualified individuals more closely into higher education. The Länder also support the expansion of study courses and continuing training measures which accompany employment through target agreements with HEIs.
 
 [[END OF PAGE 19]]
 
@@ -600,7 +600,7 @@ The  amended  Upgrading  Training  Assistance  Act  (Aufstiegsfortbildungsförde
 
 ##### 2.5 Quality education provision and learning environment
 
-Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education.  Quality  education  is  fundamental  to  achieve  all  targets  of  SDG4.  It  is  also particularly  highlighted  in  SDG  target  4.a  that  recommends  states  to  'build  and  upgrade education  facilities  that  are  child,  disability  and  gender  sensitive  and  provide  safe,  nonviolent, inclusive and effective learning environments for all'.
+Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
 
 -  Please  indicate  the  measures  taken  by  your  country  to  ensure  equivalence  in  all educational institutions with regard to (several items could be ticked/mentioned):
 
@@ -650,19 +650,19 @@ The 2018 IQB comparisons between the Länder examined centrally for the second t
 
 In  2016  the  Standing  Conference  (KMK)  presented  a  strategic  concept  for  the  future development  of  education  in  Germany  with  its  'Education  in  the  Digital  World'  strategy (https://www.kmk.org/fileadmin/Dateien/pdf/PresseUndAktuelles/2017/KMK-Strategie_Bildung_in_der_digitalen_Welt_Zusammenfassung_en.pdf, English summary) which applies to several levels of education (school education, higher education, continuing education). Integrating the digital changes in society into the teaching and learning process is an  extremely  complex  undertaking.  Measures  have  to  be  planned,  coordinated  and implemented simultaneously in several fields of action. The fields of action described in the strategy are:
 
-- Education plans and the development of teaching, curricular developments;
+1. Education plans and the development of teaching, curricular developments;
 
-- Initial, further and continuing education of educators and teachers;
+2. Initial, further and continuing education of educators and teachers;
 
-- Infrastructure and equipment;
+3. Infrastructure and equipment;
 
-- Educational media;
+4. Educational media;
 
-- E-government and school administration programmes, education and campus management systems;
+5. E-government and school administration programmes, education and campus management systems;
 
-- Legal and functional framework.
+6. Legal and functional framework.
 
-Two key topics were identified for general schools: integration of 'Competences for the digital world'  into  the  curriculum  through  a  binding  cross-subject  competence  framework;  and teaching  and  learning  processes  whose  organisation  is  supported  digitally.  In  the  field  of higher  education,  the  strategy  suggests  measures  such  as  expanding  support  structures; working with digital  media as a natural part of an academic career; and creating campusconnect solutions.
+Two key topics were identified for general schools: integration of 'Competences for the digital world' into the curriculum through a binding cross-subject competence framework; and teaching and learning processes whose organisation is supported digitally. In the field of higher education, the strategy suggests measures such as expanding support structures; working with digital media as a natural part of an academic career; and creating campus-connect solutions.
 
 [[END OF PAGE 21]]
 
@@ -676,7 +676,7 @@ Through the DigitalPact for Schools 2019-2024 (DigitalPakt Schule, https://www.d
 
 In  the  Covid-19  crisis,  methods  of  distance  learning/e-learning  are  being  expanded  until further notice for pupils (and students) who are currently unable to attend lessons.
 
-Please refer to the 9 th German periodic report for further information on policy measures to enhance educational quality.
+Please refer to the 9th German periodic report for further information on policy measures to enhance educational quality.
 
 ##### 2.6 Education personnel
 
@@ -706,17 +706,17 @@ Teachers  are  employed  by  the  Länder  either  as  public  civil  servants  
 
 [[START OF PAGE 23]]
 
-- teachers at primary schools;
+1. teachers at primary schools;
 
-- teachers who cover both primary schools and all or individual types of schools at lower secondary level;
+2. teachers who cover both primary schools and all or individual types of schools at lower secondary level;
 
-- teachers for all or individual types of schools at lower secondary level;
+3. teachers for all or individual types of schools at lower secondary level;
 
-- teachers at upper secondary level (general education subjects) or at Gymnasium ;
+4. teachers at upper secondary level (general education subjects) or at Gymnasium;
 
-- teachers at upper secondary level (vocational subjects) or vocational schools;
+5. teachers at upper secondary level (vocational subjects) or vocational schools;
 
-- teachers at special schools.
+6. teachers at special schools.
 
 Remuneration for all these teaching careers is in line with the corresponding grades in the upper  and  highest  grades  of  the  civil  service.  There  is  no  discrimination  during  teacher training or during teachers' professional careers.
 
@@ -758,9 +758,9 @@ X Educational and/or extracurricular activities are organized on human rights ed
 
 Taking  into  account  current  societal  and  political  developments  as  well  as  the  impact  of digitalisation,  the  Standing  Conference  reviewed  and  updated  its  recommendation  on education  for  democratic  citizenship  ('Democracy  as  objective,  subject  and  practice  of historical and political education in schools', https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2009/2009_03_06-Demokratiebildung-engl.pdf.pdf, in English) in 2018.
 
-In the same year, it also updated its recommendation on HRE in schools (https://www.kmk.org/fileadmin/Dateien/pdf/PresseUndAktuelles/2018/Beschluss_Menschenr echtserziehung.pdf,  in  German).  HRE  is  considered  a  cross-subject  issue  and  a  central element of school life.
+In the same year, it also updated its recommendation on HRE in schools (https://www.kmk.org/fileadmin/Dateien/pdf/PresseUndAktuelles/2018/Beschluss_Menschenrechtserziehung.pdf, in German). HRE is considered a cross-subject issue and a central element of school life.
 
-Please  refer  to  the  9 th German  periodic  report  for  detailed  information  about  HRE  in Germany.
+Please refer to the 9th German periodic report for detailed information about HRE in Germany.
 
 ##### 2.8 Private education
 
@@ -782,7 +782,7 @@ The right to establish private schools is expressly guaranteed by the Basic Law 
 
 [[START OF PAGE 25]]
 
-Please refer to the 9 th and 8 th German periodic reports for detailed information on private schooling in Germany.
+Please refer to the 9th and 8th German periodic reports for detailed information on private schooling in Germany.
 
 Concerning  higher  education,  the  federal  legislation  and  the  legislation  of  the  Länder stipulate  the  minimum  requirements  to  be  satisfied  if  non-public  institutions  are  to  be recognised  as  institutions  of  higher  education  by  the  state.  Official  recognition  by  the respective Land is dependent on proof that the institution is of equivalent status to state HEIs.
 
@@ -794,7 +794,7 @@ Yes x No o
 
 In the primary sector, privately maintained schools may only be established on very strict conditions.  Privately  maintained  secondary  schools  that  act  as  a  substitute  for  a  public school  (Ersatzschulen)  must  not  encourage  segregation  of  pupils  according  to  their parents' financial means. The schools must be approved by the state.
 
-Please refer to the 9 th and 8 th German periodic reports for detailed information on private schooling in Germany.
+Please refer to the 9th and 8th German periodic reports for detailed information on private schooling in Germany.
 
 - Does your country have an education policy framework for minimum educational standards as  regards  the  rights  of  the  parents  /legal  guardians  for  providing  religious  and  moral education for their children?
 
@@ -836,7 +836,7 @@ See question above and section II.2.8 on private schooling.
 
 ##### 2.10  Rights of refugees and migrants
 
-The rights of refugees and migrants are not explicitly provided for in the Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in education based notably on national origin. 14 In this context,  a  number  of  Member  States  that  participated  in  the  9 th Consultation  reported  on measures adopted to ensure refugees' and migrants' right to education. Growing displacement  and  influx  of  refugees  worldwide  and  the  emergence  of  major  educational challenges  in  this  area,  as  well  as  the  frameworks  recently  adopted  by  the  international community, 15 demonstrate  the  opportunity  for  states  to  report  on  measures  adopted  to include refugees and migrants in their educational systems.
+The rights of refugees and migrants are not explicitly provided for in the Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in education based notably on national origin. 14 In this context,  a  number  of  Member  States  that  participated  in  the  9th Consultation  reported  on measures adopted to ensure refugees' and migrants' right to education. Growing displacement  and  influx  of  refugees  worldwide  and  the  emergence  of  major  educational challenges  in  this  area,  as  well  as  the  frameworks  recently  adopted  by  the  international community, 15 demonstrate  the  opportunity  for  states  to  report  on  measures  adopted  to include refugees and migrants in their educational systems.
 
 > 14 Articles/Paragraphs 1 and 3.
 
@@ -898,11 +898,11 @@ It  is  another  key  objective  of  the  Länder  to  enable  refugees  to  suc
 
 Various efforts are being made by the Länder and/or individual HEIs to facilitate access to  higher education for refugees, for example by offering scholarships, counselling and orientation services, study preparation programmes, and German language tuition.
 
-- The  Standing  Conference  (KMK) has adopted joint decisions on the purpose of integrating refugees in the higher education sector. Already in 2015, it agreed on a common procedure for applicants who, due to their flight, are unable to provide original or certified copy of their higher education entrance qualification obtained in their home country. These applicants will be allowed to provide evidence in a specific procedure. It includes determining applicants' personal premises on the basis of refugee and legal residence status;
+1) The  Standing  Conference  (KMK) has adopted joint decisions on the purpose of integrating refugees in the higher education sector. Already in 2015, it agreed on a common procedure for applicants who, due to their flight, are unable to provide original or certified copy of their higher education entrance qualification obtained in their home country. These applicants will be allowed to provide evidence in a specific procedure. It includes determining applicants' personal premises on the basis of refugee and legal residence status;
 
-- checking the credibility of their school and academic career; and
+2) checking the credibility of their school and academic career; and
 
-- conducting an examination and/or assessment procedure.
+3) conducting an examination and/or assessment procedure.
 
 The  Standing  Conference  furthermore  adopted  a  decision  in  2016  which  outlines possibilities to reduce enrolment fees for refugees.
 
@@ -924,7 +924,7 @@ Germany, through the Central Office for Foreign Education (ZAB), is participatin
 
 According  to  PISA  findings,  one  of  the  greatest  challenges  of  the  German  education system remains overcoming the dependence of educational success on social background and  to  give  all  learners  the  best  educational  opportunities  in  school,  work  or  higher education. This affects, above all, young people from migrant families. The challenge of mitigating the educational divide becomes even more relevant during the current Covid-19 crisis. Demographic change, too, represents a major challenge for the German education system, given the rapidly evolving international environment.
 
-Educationally  disadvantaged  students  are  underrepresented  at  German  universities. Additionally, women are underrepresented in high-ranking or executive positions, although the  number  of  women  in  general  is  increasing  in  all  fields  of  higher  education  and  in science  institutions.  Overall,  further  efforts  are  necessary  to  reduce  social  and  genderspecific selection.
+Educationally  disadvantaged  students  are  underrepresented  at  German  universities. Additionally, women are underrepresented in high-ranking or executive positions, although the  number  of  women  in  general  is  increasing  in  all  fields  of  higher  education  and  in science  institutions.  Overall,  further  efforts  are  necessary  to  reduce  social  and  gender-specific selection.
 
 Against the background of demographic developments, Germany must make a sustained effort  to  fully  harness  all  of  the  skills  of  its  population.  Improving  permeability  within  and between  the  educational  areas  and  the  recognition  of  skills  which  have  already  been acquired (recognition of prior learning) are central concerns, also with a view to promoting equal opportunity.
 
@@ -932,7 +932,7 @@ Please also refer to sections II.1.3 and II.2.10 (refugees/migrants).
 
 - X Challenges related to the quality of education (such as shortages of qualified, trained and motivated teaching staff, non-supportive or inadequate teaching and learning as well as school environment, etc.)
 
-Teacher shortage forecasts have been exacerbated by increasing birth rates, strengthened individual learner support, the implementation of inclusive education, the expansion of allday schooling and large migration flows in 2015/16. While differences exist depending on teacher career types and subject-specific demand, the issue of unfilled teaching positions will  remain  a  challenge  across  all  Länder,  especially  for  the  teaching  type/career  'upper secondary education (vocational subjects) and vocational schools' - above all in Eastern Germany -, as well as for special school teachers. Teaching positions also remain unfilled at lower secondary and primary level.
+Teacher shortage forecasts have been exacerbated by increasing birth rates, strengthened individual learner support, the implementation of inclusive education, the expansion of all-day schooling and large migration flows in 2015/16. While differences exist depending on teacher career types and subject-specific demand, the issue of unfilled teaching positions will  remain  a  challenge  across  all  Länder,  especially  for  the  teaching  type/career  'upper secondary education (vocational subjects) and vocational schools' - above all in Eastern Germany -, as well as for special school teachers. Teaching positions also remain unfilled at lower secondary and primary level.
 
 The  Länder  have  reacted  by  increasing  teacher  training  capacities  as  well  as  by implementing short-term measures such as increasing part-time teaching, reallocating and seconding/delegating teachers, recalling retired teachers, and allowing flexible entry dates. Some Länder have also increased the starting salary for primary school teachers to make the profession more attractive.
 
@@ -950,7 +950,7 @@ o Other:
 
 - 1.2 Please provide a brief assessment of the effectiveness of the methods introduced to remove the obstacles encountered:
 
-Please refer to section II.1.3 and to the 9 th German periodic report for further information and measures taken from 2000.
+Please refer to section II.1.3 and to the 9th German periodic report for further information and measures taken from 2000.
 
 #### 2. Awareness-raising
 
@@ -962,13 +962,13 @@ o Translation  of  the  Convention/Recommendation  into  the  national  and  pos
 
 o Dissemination and advocacy of the core content of the Convention/Recommendation or the core principles of the right to education
 
-o Increased public awareness through advocacy material on the Convention/ Recommendation or the core principles of the right to education
+o Increased public awareness through advocacy material on the Convention/Recommendation or the core principles of the right to education
 
-o Activities undertaken  or supported by the  National  Commission  to  promote  non- discrimination  and  equality  of  educational  opportunities  and  to  foster  debate  on  critical issues in relation to the rights enshrined in the instruments
+o Activities undertaken  or supported by the  National  Commission  to  promote  non-discrimination  and  equality  of  educational  opportunities  and  to  foster  debate  on  critical issues in relation to the rights enshrined in the instruments
 
 - X  Other:
 
-The bodies of the Standing Conference (KMK), among them the School Committee, the VET Committee and the Higher Education Committee, regularly address issues related to non- discrimination, such as the various support strategies/initiatives or HRE. Their decisions have no legal force but are commonly transferred into the policies and law of the Länder. In this way, the Standing Conference, along with the federal government and the governments of the Länder, helps to focus the attention of education institutions on questions related to non-
+The bodies of the Standing Conference (KMK), among them the School Committee, the VET Committee and the Higher Education Committee, regularly address issues related to non-discrimination, such as the various support strategies/initiatives or HRE. Their decisions have no legal force but are commonly transferred into the policies and law of the Länder. In this way, the Standing Conference, along with the federal government and the governments of the Länder, helps to focus the attention of education institutions on questions related to non-
 
 [[END OF PAGE 30]]
 
