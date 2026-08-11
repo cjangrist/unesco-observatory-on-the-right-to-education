@@ -40,6 +40,10 @@ Appendix III: List of people involved in the development of the policy | 22
 
 [[START OF PAGE 4]]
 
+Final Draft
+
+Policy on Special Educational Needs
+
 ## 1. Background
 
 Recognizing that all human beings are born with unique gifts and abilities to contribute to the development of the nation and self, the Royal Government is committed to ensuring the healthy functioning of our society by providing equal opportunity to every citizen to develop each gift and ability.
@@ -52,13 +56,9 @@ Today  a  full-fledged  Division  under  the  Department  of  School  Education 
 
 Since policy guidelines to guide programmes and projects to spearhead special education services did not exist, a need was felt to draft separate policy on special educational needs. These  policy  statements  will  form  a  part  of  National  Education  Policy.  The  special educational needs policy was drafted in line with the principles of Educating for GNH, an initiative supported and promoted by the Sherig Lyonpo, Thakur S. Powdyel to promote Green Schools for Green Bhutan, and the Child Friendly School concept. Sherig Lyonpo, in his address to the 36 th session of the UNESCO general conference in Paris, 2011 stated that:
 
-'The elements of Green School encompass the multiple dimensions of the learners' lives - natural, intellectual, academic, social, cultural, spiritual, aesthetic and moral dimensions.'
+“The elements of Green School encompass the multiple dimensions of the learners’ lives - natural, intellectual, academic, social, cultural, spiritual, aesthetic and moral dimensions.”
 
 The  Royal  Government's  commitment  to  pursue  Education  For  All  is  also  enshrined clearly in the Constitution of Bhutan and other national strategy documents as under:
-
-Final Draft
-
-Policy on Special Educational Needs
 
 4
 
@@ -72,9 +72,9 @@ Article 9.15: The State shall endeavour to provide education for the purpose of 
 
 Article 9.16: The State shall provide free education to all children of school going age up to  tenth  standard  and  ensure  that  technical  and  professional  education  shall  be  made generally  available  and  that  higher  education  shall  be  equally  accessible  to  all  on  the basis of merit.
 
-- 1.2. Bhutan's  developmental  philosophy  of  Gross  National  Happiness  as  outlined  in Vision 2020 (1999, p. 47) strives to 'maximize the happiness of all Bhutanese and to enable them to achieve their full and innate potential as human being'. Further, the document  also  states  that 'education  has  become  the  inalienable  right  of  all Bhutanese' (p.18),  indicating  that  persons  with  disabilities  shall  also  enjoy  equal opportunities in all walks of life.
+- 1.2. Bhutan’s developmental philosophy of Gross National Happiness as outlined in Vision 2020 (1999, p. 47) strives to “maximize the happiness of all Bhutanese and to enable them to achieve their full and innate potential as human being”. Further, the document also states that “education has become the inalienable right of all Bhutanese” (p.18), indicating that persons with disabilities shall also enjoy equal opportunities in all walks of life.
 
-- 1.3. Education  Sector  Strategy  2020  (2003,  p.  36) states that 'all children with disabilities and with special needs - including those with physical, mental and other types  of  impairment iii -  will  be  able  to  access  and  benefit  from  education.  This  will include full access to the curriculum, participation in extra-curricular activities and access to cultural, artistic, recreational and leisure activities.'
+- 1.3. Education Sector Strategy 2020 (2003, p. 36) states that “all children with disabilities and with special needs – including those with physical, mental and other types of impairment iii – will be able to access and benefit from education. This will include full access to the curriculum, participation in extra-curricular activities and access to cultural, artistic, recreational and leisure activities.”
 
 - 1.4. In addition to the national commitment to provide equal opportunity to all citizens, including those with disabilities, the Royal Government has ratified, acquiesced or is a party to several international Conventions,  Instruments,  Declarations,  and commitments as follows:
 
@@ -554,7 +554,7 @@ The  Gross  National  Happiness  Commission  (GNHC)  and  Ministry  of  Educatio
 
 ### Glossary/Endnotes
 
-i ' Disability' refers to an inability or a reduced capacity to perform a task in a specific way. A disability is a limitation imposed on an individual by a loss or reduction of functioning, such as the  paralysis  of  leg  muscles,  the  absence  of  an  arm,  or  the  loss  of  the  sight.  In  other  words, disability can be interpreted as the incapability to perform as other children do because of some impairment in sensory, physical, cognitive or other areas of functioning. These limitations make children  incapable  of  doing  what  other  children  do.  Therefore,  a 'disability' is  the  functional consequence of the impairment. For example, because of the impairment of spina bifida, a child is unable to walk without the assistance of calipers and crutches.
+i ‘Disability’ refers to an inability or a reduced capacity to perform a task in a specific way. A disability is a limitation imposed on an individual by a loss or reduction of functioning, such as the paralysis of leg muscles, the absence of an arm, or the loss of the sight. In other words, disability can be interpreted as the incapability to perform as other children do because of some impairment in sensory, physical, cognitive or other areas of functioning. These limitations make children incapable of doing what other children do. Therefore, a ‘disability’ is the functional consequence of the impairment. For example, because of the impairment of spina bifida, a child is unable to walk without the assistance of calipers and crutches.
 
 ii The definition of special needs education refers to those with special educational needs defined by the additional public and/or private resources provided to support their education. The use of this  definition  in  a  consistent  manner  calls  for  agreement  about  the  term  "additional"  and  an appreciation of the various kinds of possible "resources provided" which should be considered. Thus,  "additional  resources"  are  those  made  available  over  and  above  the  resources  generally available  to  students  where  no  consideration  is  given  to  needs  of  students  likely  to  have particular difficulties in accessing the regular curriculum [OECD, CERI, 2005]
 
@@ -574,17 +574,17 @@ vi Gifted  students  are  generally  understood  to  be  those  children  who  a
 
 [[START OF PAGE 20]]
 
-viii Mainstreaming is the selective placement of children with special educational needs in one or more  "regular"  education  classes  in  identified  'Mainstreamed'  schools.  Some  children  with particular disabilities first need to be placed in special education environments that help the child make her/his way into the regular education environment.
+viii Mainstreaming is the selective placement of children with special educational needs in one or more "regular" education classes in identified ‘Mainstreamed” schools. Some children with particular disabilities first need to be placed in special education environments that help the child make her/his way into the regular education environment.
 
 ix Integration  refers  to  a  child's  attendance  at  an  integrated  school.  The  term  also  refers  to  the process of transferring a student to a less segregated setting, i.e. a regular school with additional facilities and infrastructure to support the integration of children with special education needs, such  as  learning  resource  centres  and  specially  trained  teachers,  etc.  A  child  who  attends  a regular school, but is in a separate special unit or class, can still be said to be integrated. In this setting a child is less restricted to the environment. A child has opportunity to interact with other school members, thereby sharing and learning with each other. A child can attend both special and in some regular school activities.
 
-x ' Learning Difficulties' Learning difficulties refer to children who  manifest significant difficulties  in  the  acquisition  and  use  of  listening,  speaking,  reading,  writing,  reasoning  or mathematical abilities. Such disorders are intrinsic to the individual and presumed to be due to Central Nervous System Dysfunction.
+x ‘Learning Difficulties’ Learning difficulties refer to children who manifest significant difficulties in the acquisition and use of listening, speaking, reading, writing, reasoning or mathematical abilities. Such disorders are intrinsic to the individual and presumed to be due to Central Nervous System Dysfunction.
 
-xi Short Term Strategy Plans and programs to be executed in a period of one to two years.
+xi Short Term Strategy – Plans and programs to be executed in a period of one to two years.
 
-xii Medium Term Strategy Plans and programs to be executed in next Five Year Plan.
+xii Medium Term Strategy – Plans and programs to be executed in next Five Year Plan.
 
-xiii Long Term Strategy Plans and programs envisaged and to be executed  beyond next five to 10 years
+xiii Long Term Strategy – Plans and programs envisaged and to be executed beyond next five to 10 years
 
 xiv Learning Resource Centre is a centre in educational institutions, such as schools, colleges and universities that includes and encourages the use of audiovisual aids and other special materials for  learning  in  addition  to  books,  periodicals,  etc.  These  centres  contain  educational  resources such  as  books,  journals,  software  and  audio/visual  materials.  They  also  exist  to  promote electronic information resources. These centres can also be used as a resource room for students with special educational needs.
 
