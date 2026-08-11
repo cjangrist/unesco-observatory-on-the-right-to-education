@@ -12,11 +12,11 @@ Le Président de la République promulgue la Constitution dont la teneur suit :
 
 ## Préambule
 
-Le Dahomey, proclamé République le 04 décembre 1958, a accédé à la souveraineté internationale le 1 er août 1960. Devenu République Populaire du Bénin, le 30 novembre 1975, puis République du Bénin le 1 er mars 1990, il a connu une évolution constitutionnelle et politique mouvementée depuis son accession à l'indépendance. Seule est restée pérenne l'option en faveur de la République.
+Le Dahomey, proclamé République le 04 décembre 1958, a accédé à la souveraineté internationale le 1er août 1960. Devenu République Populaire du Bénin, le 30 novembre 1975, puis République du Bénin le 1er mars 1990, il a connu une évolution constitutionnelle et politique mouvementée depuis son accession à l'indépendance. Seule est restée pérenne l'option en faveur de la République.
 
 Les changements successifs de régimes politiques et de gouvernements n'ont pas émoussé la détermination du Peuple béninois à rechercher dans son génie propre, les valeurs de civilisations culturelles, philosophiques et spirituelles qui animent les formes de son patriotisme.
 
-Ainsi, la conférence des Forces Vives de la Nations, tenue à Cotonou, du 19 au 28 février 1990, en redonnant confiance au peuple a permis la réconciliation nationale et l'avènement d'une ère de Renouveau Démocratique.
+Ainsi, la conférence des Forces Vives de la Nation, tenue à Cotonou, du 19 au 28 février 1990, en redonnant confiance au peuple a permis la réconciliation nationale et l'avènement d'une ère de Renouveau Démocratique.
 
 Au lendemain de cette Conférence,
 
@@ -26,30 +26,30 @@ NOUS, PEUPLE BENINOIS
 
 - Exprimons notre ferme volonté de défendre et de sauvegarder notre dignité aux yeux du monde et de retrouver la place et le rôle de pionnier de la démocratie et de la défense des Droits de l'Homme qui furent naguère les nôtres ;
 
-- Affirmons solennellement notre détermination par la présente constitution de créer un Etat de droit de démocratie pluraliste, dans les droits fondamentaux de l'homme, les libertés publiques, la dignité de la personne humaine et la justice sont garantis, protégés et promus comme la condition nécessaire au développement véritable et harmonieux de chaque béninois tant dans sa dimension temporelle, culturelle que spirituelle ;
+- Affirmons solennellement notre détermination par la présente constitution de créer un Etat de droit et de démocratie pluraliste, dans lequel les droits fondamentaux de l'homme, les libertés publiques, la dignité de la personne humaine et la justice sont garantis, protégés et promus comme la condition nécessaire au développement véritable et harmonieux de chaque béninois tant dans sa dimension temporelle, culturelle que spirituelle ;
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-- Réaffirmons notre attachement aux principes de la Démocratie et des droits de l' Homme tels qu'ils ont été définis par la charte des Nations -Unies de 1945 et la déclaration Universelle des Droits de l' Homme de 1948, à la charte Africaine des Droits de l' Homme et des peuples adoptés en 1981 par l'Organisation de l' Unité Africaine, ratifiée par le Bénin le 20 janvier 1986 et dont les dispositions font partie intégrante de la présente constitution et du Droit béninois et une valeur supérieure à la loi interne ;
+- Réaffirmons notre attachement aux principes de la Démocratie et des droits de l'Homme tels qu'ils ont été définis par la charte des Nations-Unies de 1945 et la déclaration Universelle des Droits de l'Homme de 1948, à la charte Africaine des Droits de l'Homme et des peuples adoptée en 1981 par l'Organisation de l'Unité Africaine, ratifiée par le Bénin le 20 janvier 1986 et dont les dispositions font partie intégrante de la présente constitution et du Droit béninois et ont une valeur supérieure à la loi interne ;
 
 - Affirmons notre volonté de coopérer dans la paix et l'amitié avec tous les peuples qui partagent nos idéaux de liberté, de justice, de solidarité humaine, sur la base des principes d'égalité, d'intérêt réciproque et de respect mutuel de la souveraineté nationale et de l'intégrité territoriale ;
 
 - Proclamons notre attachement à la cause de l' Unité Africaine et nous engageons à tout mettre en oeuvre pour réaliser l'intégration sous - régionale et régionale ;
 
-- Adoptons solennellement la présente constitution qui est la Loi Suprême de L'Etat et laquelle nous jurons loyalisme, fidélité et respect.
+- Adoptons solennellement la présente constitution qui est la Loi Suprême de L'Etat et à laquelle nous jurons loyalisme, fidélité et respect.
 
 ## TITRE PREMIER : DE L'ETAT ET DE LA SOUVERAINETE
 #### Article 1er
 
-- L 'Etat du Bénin est une République indépendante et souveraine
+- L'Etat du Bénin est une République indépendante et souveraine.
 
 - La capitale du Bénin est PORTO-NOVO.
 
 - L'Emblème national est le drapeau tricolore vert, jaune et rouge.
 
-En partant de la hampe, une bande verte sur toute la hauteur et sur les deux cinquièmes de sa longueur, deux bandes horizontales égales :la supérieure jaune l'inférieure rouge.
+En partant de la hampe, une bande verte sur toute la hauteur et sur les deux cinquièmes de sa longueur, deux bandes horizontales égales : la supérieure jaune, l'inférieure rouge.
 
 - L'Hymne de la république est l'« AUBE NOUVELLE » .
 
@@ -57,11 +57,11 @@ En partant de la hampe, une bande verte sur toute la hauteur et sur les deux cin
 
 - La langue officielle est le Français .
 
-- Le sceau de L'Etat, constituée par un disque de cent vingt millimètres de diamètres, représente :
+- Le sceau de L'Etat, constitué par un disque de cent vingt millimètres de diamètre, représente :
 
-- à l'avers une pirogue chargée de six étoiles à cinq rais voguant sur des ondes, accompagnée au chef d'un arc avec une flèche en palme soutenu de deux recardes en sautoir et, dans le bas , d'une banderole portant la devise « FATERNITE-JUSTICETRAVAIL» avec, à l'entoure, l'inscription « République du Bénin » ;
+- à l'avers une pirogue chargée de six étoiles à cinq rais voguant sur des ondes, accompagnée au chef d'un arc avec une flèche en pal soutenu de deux récades en sautoir et, dans le bas, d'une banderole portant la devise « FRATERNITE-JUSTICE-TRAVAIL » avec, à l'entour, l'inscription « République du Bénin » ;
 
-- et au revers un écu coupé au premier du sinople, au deuxième parti d'or et de gueules,
+- et au revers un écu coupé au premier de sinople, au deuxième parti d'or et de gueules,
 
 [[END OF PAGE 2]]
 
@@ -73,17 +73,17 @@ qui sont les trois couleurs du drapeau, l'écu entouré de deux palmes au nature
 
 - Ecartelé au premier quartier d'un château Somba d'or ;
 
-- Au deuxième d'argent à l'étoile du Bénin au naturel c'est-à-dire une croix à huit pointes d'azur anglées de rayons d'argent et de sable en abîme ;
+- Au deuxième d'argent à l'étoile du Bénin au naturel, c'est-à-dire une croix à huit pointes d'azur anglée de rayons d'argent et de sable en abîme ;
 
-- Au troisième d'argent palmier de sinople chargé d'un fruit de gueule ;
+- Au troisième d'argent au palmier de sinople chargé d'un fruit de gueules ;
 
-- Au quatrième d'argent au navire de sable voguant sur une mer d'azur avec en brochant sur la ligne de l'écartelé un losange de gueule
+- Au quatrième d'argent au navire de sable voguant sur une mer d'azur avec en brochant sur la ligne de l'écartelé un losange de gueules ;
 
 - Supports : deux panthères d'or tachetées ;
 
 - Timbre : deux cornes d'abondance de sable d'où sortent des épis de maïs ;
 
-- Devise : Fraternité - Justice - Travail en caractère de sable sur une banderole.
+- Devise : Fraternité - Justice - Travail en caractères de sable sur une banderole.
 
 #### Article 2
 
@@ -107,7 +107,7 @@ Le peuple exerce sa souveraineté par ses représentants élus et par voie de r�
 
 [[START OF PAGE 4]]
 
-La cour constitutionnelle veille à la, régularité du référendum en proclame les résultats.
+La cour constitutionnelle veille à la régularité du référendum et en proclame les résultats.
 
 #### Article 5
 
@@ -115,27 +115,27 @@ Les partis politiques concourent à l'expression du suffrage. Ils se forment et 
 
 #### Article 6
 
-Le suffrage est universel, égal et secret. Sont électeurs dans les conditions déterminées par la loi, tous les nationaux béninois des deux sexes âgés de dix-huit ans révolus et jouissant de leur droit civil et politique.
+Le suffrage est universel, égal et secret. Sont électeurs dans les conditions déterminées par la loi, tous les nationaux béninois des deux sexes âgés de dix-huit ans révolus et jouissant de leurs droits civils et politiques.
 
 ## TITRE II : DES DROITS ET DES DEVOIRS DE LA PERSONNE HUMAINE
 
 #### Article 7
 
-Les droits et des devoirs proclamés et garantis par la Charte Africaine des droits de l'Homme et des Peuples adoptée en 1981 par l'Organisation de l' Unité Africaine et ratifiée par le Bénin le 20 janvier 1986 font partie intégrante de la présent constitution et du Droit béninois.
+Les droits et devoirs proclamés et garantis par la Charte Africaine des droits de l'Homme et des Peuples adoptée en 1981 par l'Organisation de l'Unité Africaine et ratifiée par le Bénin le 20 janvier 1986 font partie intégrante de la présente constitution et du Droit béninois.
 
 #### Article 8
 
 La personne humaine est sacrée et inviolable.
 
-L'Etat a l'obligation absolue de la respecter et de la protéger. Il lui garantit un plein épanouissement. A cet effet, il assure à ses citoyens l'égal l'accès à la santé , à l'éducation, à la culture, à la formation professionnelle et à l'emploi.
+L'Etat a l'obligation absolue de la respecter et de la protéger. Il lui garantit un plein épanouissement. A cet effet, il assure à ses citoyens l'égal accès à la santé, à l'éducation, à la culture, à la formation professionnelle et à l'emploi.
 
 #### Article 9
 
-Tout être humain a droit au développement et au plein épanouissement de sa personne dans ses dimensions matérielle, temporelle, intellectuelle, spirituelle, pourvu qu'il ne viole pas les droits d'autrui ni n'enfreigne l'ordre constitutionnel et les bonnes mœurs.
+Tout être humain a droit au développement et au plein épanouissement de sa personne dans ses dimensions matérielle, temporelle, intellectuelle et spirituelle, pourvu qu'il ne viole pas les droits d'autrui ni n'enfreigne l'ordre constitutionnel et les bonnes mœurs.
 
 #### Article 10
 
-Toute personne a droit à la culture. L'Etat a le devoir de sauvegarder et de promouvoir les valeurs nationales de civilisation tant matérielles que spirituelles, ainsi que les -traditions culturelles.
+Toute personne a droit à la culture. L'Etat a le devoir de sauvegarder et de promouvoir les valeurs nationales de civilisation tant matérielles que spirituelles, ainsi que les traditions culturelles.
 
 [[END OF PAGE 4]]
 
@@ -145,7 +145,7 @@ Toute personne a droit à la culture. L'Etat a le devoir de sauvegarder et de pr
 
 Toutes les communautés composant la nation béninoise jouissent de la liberté d'utiliser leurs langues parlées et écrites et de développer leur propre culture tout en respectant celles des autres.
 
-L'Etat doit promouvoir le développement de langues nationales d'inter- communication.
+L'Etat doit promouvoir le développement de langues nationales d'intercommunication.
 
 #### Article 12
 
@@ -153,15 +153,15 @@ L'Etat doit promouvoir le développement de langues nationales d'inter- communic
 
 #### Article 13
 
-- L 'Etat à l'éducation de la jeunesse par des écoles publiques. L'enseignement primaire est obligatoire L'Etat assure progressivement la gratuité de l'enseignement publique.
+- L'Etat pourvoit à l'éducation de la jeunesse par des écoles publiques. L'enseignement primaire est obligatoire. L'Etat assure progressivement la gratuité de l'enseignement public.
 
 #### Article 14
 
-Les institutions et les communautés religieuses peuvent également concourir à l'éducation de la jeunesse. Les écoles privées, laïque ou confessionnelles, peuvent être ouvertes avec l'autorisation et le contrôle de l'Etat. Les écoles privées peuvent bénéficier des subventions de L'Etat dans les conditions déterminées par la loi.
+Les institutions et les communautés religieuses peuvent également concourir à l'éducation de la jeunesse. Les écoles privées, laïques ou confessionnelles, peuvent être ouvertes avec l'autorisation et le contrôle de l'Etat. Les écoles privées peuvent bénéficier des subventions de L'Etat dans les conditions déterminées par la loi.
 
 #### Article 15
 
-Tout individu a droit à la vie, à la liberté, à la sécurité, et l'intégrité de sa personne.
+Tout individu a droit à la vie, à la liberté, à la sécurité et à l'intégrité de sa personne.
 
 #### Article 16
 
@@ -189,7 +189,7 @@ supérieure à huit jours.
 
 #### Article 19
 
-Tout individu, tout agent de L'Etat qui se rendrait coupable d'acte de torture, de sévices ou traitements cruels, inhumains ou dégradants dans l'exercice ou à l'occasion de l'exercice de ses fonctions, soit de sa propre initiative, soit sur instruction, sera puni conformément à la loi. Tout individu, tout agent de L'Etat est délié du devoir d'obéissance lorsque l'ordre reçu
+Tout individu, tout agent de L'Etat qui se rendrait coupable d'actes de torture, de sévices ou traitements cruels, inhumains ou dégradants dans l'exercice ou à l'occasion de l'exercice de ses fonctions, soit de sa propre initiative, soit sur instruction, sera puni conformément à la loi. Tout individu, tout agent de L'Etat est délié du devoir d'obéissance lorsque l'ordre reçu
 
 constitue une atteinte grave et manifeste au respect des droits de l'homme et des libertés publiques.
 
@@ -243,11 +243,11 @@ Le stockage, la manipulation et l'évacuation des déchets toxiques ou polluants
 
 #### Article 29
 
-Le transit, l'importation, le stockage, l'enfouissement, le déversement sur le territoire national des déchets toxiques ou polluants étrangers et tout accord y relatif constituent un crime contre la Nation. Les sanctions applicables sont définies par la loi
+Le transit, l'importation, le stockage, l'enfouissement, le déversement sur le territoire national des déchets toxiques ou polluants étrangers et tout accord y relatif constituent un crime contre la Nation. Les sanctions applicables sont définies par la loi.
 
 #### Article 30
 
-L'Etat reconnaît à tous les citoyens le droit au travail et s'efforce de créer les conditions qui rendent la jouissance de ce droit effective et garantissent au travailleur la juste rétribution de ses services ou de sa production
+L'Etat reconnaît à tous les citoyens le droit au travail et s'efforce de créer les conditions qui rendent la jouissance de ce droit effective et garantissent au travailleur la juste rétribution de ses services ou de sa production.
 
 #### Article 31
 
@@ -255,21 +255,21 @@ L'Etat reconnaît et garantit le droit de grève. Tout travailleur peut défendr
 
 #### Article 32
 
-La défense de la Nation et l'intégrité du territoire de la république est un devoir sacré pour tout citoyen béninois.
+La défense de la Nation et de l'intégrité du territoire de la République est un devoir sacré pour tout citoyen béninois.
 
 Le service militaire est obligatoire. Les conditions d'accomplissement de ce devoir sont déterminées par la loi.
 
 #### Article 33
 
-Tous les citoyens de la république du Bénin ont le devoir de travailler pour le bien commun, de remplir toutes leurs obligations civiques et professionnelles, de s'acquitter de leurs contributions fiscales
+Tous les citoyens de la république du Bénin ont le devoir de travailler pour le bien commun, de remplir toutes leurs obligations civiques et professionnelles, de s'acquitter de leurs contributions fiscales.
 
 #### Article 34
 
-Tout citoyen béninois, civil ou militaire, a le devoir sacré de respecter en toutes circonstances, la constitution et l'ordre constitutionnel établie ainsi les lois et règlements de la république.
+Tout citoyen béninois, civil ou militaire, a le devoir sacré de respecter en toutes circonstances, la constitution et l'ordre constitutionnel établi ainsi que les lois et règlements de la république.
 
 #### Article 35
 
-Les citoyens chargés d'une fonction publique ou élus à une fonction politique ont le devoir de l'accomplir avec conscience, compétence, probité dévouement et loyauté dans l'intérêt et le respect du bien commun.
+Les citoyens chargés d'une fonction publique ou élus à une fonction politique ont le devoir de l'accomplir avec conscience, compétence, probité, dévouement et loyauté dans l'intérêt et le respect du bien commun.
 
 [[END OF PAGE 8]]
 
@@ -289,13 +289,13 @@ L'Etat protège à l'étranger les droits et intérêts légitimes des citoyens 
 
 #### Article 39
 
-Les étrangers bénéficient sur le territoire de la République du Bénin des mêmes droits et libertés que les citoyens béninois et ce dans les conditions déterminées par la loi. Il sont tenus de se conformer à la constitution, aux lois et règlements de la République.
+Les étrangers bénéficient sur le territoire de la République du Bénin des mêmes droits et libertés que les citoyens béninois et ce dans les conditions déterminées par la loi. Ils sont tenus de se conformer à la constitution, aux lois et règlements de la République.
 
 #### Article 40
 
 - L'Etat a le devoir d'assurer la diffusion et l'enseignement de la constitution, de la Déclaration Universelle des Droits de l 'Homme de 1948, de la Charte Africaine des Droits de l' Homme et des Peuples de 1981 ainsi que de tous les instruments internationaux dûment ratifiés et relatifs aux Droits de l' Homme.
 
-- L'Etat doit intégrer les droits de la personne humaine dans les programme de d'alphabétisation et d'enseignement aux différents cycle scolaires et universitaires et dans tous les programmes de formation des Forces Armées, des Forces de Sécurité Publique et assimilés.
+- L'Etat doit intégrer les droits de la personne humaine dans les programmes d'alphabétisation et d'enseignement aux différents cycles scolaires et universitaires et dans tous les programmes de formation des Forces Armées, des Forces de Sécurité Publique et assimilés.
 
 - L'Etat doit également assurer dans les langues nationales par tous les moyens de communication de masse, en particulier par la radiodiffusion et la télévision, la diffusion et l'enseignement de ces mêmes droits.
 
@@ -346,7 +346,7 @@ Le Président de la République est élu à la majorité absolue des suffrages e
 
 Seuls peuvent se présenter au second tour de scrutin les deux candidats qui ont recueilli le plus grand nombre de suffrages au premier tour. En cas de désistement de l'un ou de l'autre des deux candidats, les suivants se présentent dans l'ordre de leur classement après le premier scrutin.
 
-Est déclaré élu au second tour le candidat le candidat ayant recueilli la majorité relative des suffrages exprimés
+Est déclaré élu au second tour le candidat ayant recueilli la majorité relative des suffrages exprimés.
 
 #### Article 46
 
@@ -386,7 +386,7 @@ En cas d'annulation, il sera procédé à un nouveau tour de scrutin dans les qu
 
 #### Article 50
 
-En cas de la vacance de la présidence de la République par décès, démission ou empêchement définitif, l'Assemblée Nationale se réunit pour statuer sur le cas à la majorité absolue de ses membres. Le Président de l'Assemblée Nationale saisit la Cour constitutionnelle qui constate et déclare la vacance de la Présidence de la République. Les fonctions de Président de la République, à l'exception de celles mentionnées aux Articles 54 alinéa 3, 58, 60, 101, et 154 sont provisoirement exercées par le Président de l'Assemblée Nationale.
+En cas de vacance de la présidence de la République par décès, démission ou empêchement définitif, l'Assemblée Nationale se réunit pour statuer sur le cas à la majorité absolue de ses membres. Le Président de l'Assemblée Nationale saisit la Cour constitutionnelle qui constate et déclare la vacance de la Présidence de la République. Les fonctions de Président de la République, à l'exception de celles mentionnées aux Articles 54 alinéa 3, 58, 60, 101, et 154 sont provisoirement exercées par le Président de l'Assemblée Nationale.
 
 L'élection du nouveau Président de la République a lieu trente jours au moins et quarante jours au plus après la déclaration du caractère définitif de la vacance.
 
@@ -402,7 +402,7 @@ Les fonctions de Président de la République sont incompatibles avec l'exercice
 
 Durant leurs fonctions,
 
-Le Président de la République et les membres du gouvernement ne peuvent pas euxmêmes, ni par intermédiaire rien acheter ou prendre en bail qui appartienne au domaine de l'état, sans autorisation préalable de la Cour Constitutionnelle dans les conditions fixées par la, loi.
+Le Président de la République et les membres du Gouvernement ne peuvent pas eux-mêmes, ni par intermédiaire rien acheter ou prendre en bail qui appartienne au domaine de l'Etat, sans autorisation préalable de la Cour Constitutionnelle dans les conditions fixées par la loi.
 
 [[END OF PAGE 12]]
 
@@ -420,7 +420,7 @@ Avant son entrée en fonction, le Président de la République prête le serment
 
 Nous, Président de la République, élu conformément aux lois de la République jurons solennellement :
 
-- de respecter et de défendre la constitution que le Peuple béninois s'est librement ;
+- de respecter et de défendre la constitution que le Peuple béninois s'est librement donnée ;
 
 - de remplir loyalement les hautes fonctions que la Nation nous a confiées ;
 
@@ -444,11 +444,11 @@ Gouvernement ; il fixe leurs attributions et met fin à leurs fonctions.
 
 [[START OF PAGE 14]]
 
-Les du Gouvernement sont responsables devant lui.
+Les membres du Gouvernement sont responsables devant lui.
 
 Les fonctions de membre du Gouvernement sont incompatibles avec l'exercice de tout mandat parlementaire, de tout emploi public, civil ou militaire et de toute autre activité professionnelle.
 
-Les actes du Président de la République sont contresignés par les Ministres chargés de leur exécution selon les articles prévus par la constitution.
+Les actes du Président de la République sont contresignés par les Ministres chargés de leur exécution selon les cas prévus par la constitution.
 
 #### Article 55
 
@@ -460,7 +460,7 @@ Le Conseil des Ministres délibère obligatoirement sur :
 
 - les projets de loi ;
 
-- les ordonnances les décrets réglementaires.
+- les ordonnances et les décrets réglementaires.
 
 #### Article 56
 
@@ -478,7 +478,7 @@ Il assure la promulgation des lois dans les quinze jours qui suivent la transmis
 
 Ce délai est réduit à cinq jours en cas d'urgence déclarée par l'Assemblée Nationale.
 
-Il peut, avant l'expiration de ces délais, demander à l'Assemblée Nationale une seconde délibération de la loi ou de certains de ses Article s. Cette seconde délibération ne peut être refusée.
+Il peut, avant l'expiration de ces délais, demander à l'Assemblée Nationale une seconde délibération de la loi ou de certains de ses Articles. Cette seconde délibération ne peut être refusée.
 
 [[END OF PAGE 14]]
 
@@ -492,7 +492,7 @@ La même procédure de mise à exécution est suivie lorsque à l'expiration du 
 
 #### Article 58
 
-Le président de la République, après consultation du Président de l'Assemblée Nationale et du Président de la Cour Constitutionnelle, peut prendre l'initiative du référendum sur toute question relative à la promotion et au renforcement des Droits de l' Homme, à l'intégration sous- régionale ou régionale et à l'organisation des pouvoirs publiques.
+Le président de la République, après consultation du Président de l'Assemblée Nationale et du Président de la Cour Constitutionnelle, peut prendre l'initiative du référendum sur toute question relative à la promotion et au renforcement des Droits de l'Homme, à l'intégration sous-régionale ou régionale et à l'organisation des pouvoirs publics.
 
 #### Article 59
 
@@ -524,23 +524,23 @@ Le Président de la République peut, outre les fonctions spécialisées de déf
 
 #### Article 64
 
-Tout membre des Forces Armées ou de Sécurité Publique qui désire être candidat aux fonctions de Président de la République doit au préalable donner sa démission des Forces Armées ou de Sécurité Publique
+Tout membre des Forces Armées ou de Sécurité Publique qui désire être candidat aux fonctions de Président de la République doit au préalable donner sa démission des Forces Armées ou de Sécurité Publique.
 
-Dans ce cas, l'intéressé pourra prétendre au bénéfice des droits acquis conformément aux statuts de sont corps.
+Dans ce cas, l'intéressé pourra prétendre au bénéfice des droits acquis conformément aux statuts de son corps.
 
 #### Article 65
 
-Toute, tentative de renversement du régime constitutionnel par les personnels des Forces Armées ou de Sécurité Publique sera considérée comme une forfaiture et un crime contre la Nation et L'Etat et sera sanctionnée conformément à la loi.
+Toute tentative de renversement du régime constitutionnel par les personnels des Forces Armées ou de Sécurité Publique sera considérée comme une forfaiture et un crime contre la Nation et L'Etat et sera sanctionnée conformément à la loi.
 
 #### Article 66
 
-En cas de coup d' Etat, de putsch, d'agression par des mercenaires ou de coup de force quelconque, tout membre d'un organe constitutionnel a le droit et le devoir de faire appel à tous les moyens pour rétablir la légitimité constitutionnelle, y compris le recours de coopération militaire ou de défense existants.
+En cas de coup d'Etat, de putsch, d'agression par des mercenaires ou de coup de force quelconque, tout membre d'un organe constitutionnel a le droit et le devoir de faire appel à tous les moyens pour rétablir la légitimité constitutionnelle, y compris le recours aux accords de coopération militaire ou de défense existants.
 
-Dans ces circonstances, pour tout béninois, désobéir et s'organiser pour faire échec à l'autorité illégitime constituent le plus sacré des droits et le plus impératifs des devoirs.
+Dans ces circonstances, pour tout béninois, désobéir et s'organiser pour faire échec à l'autorité illégitime constituent le plus sacré des droits et le plus impératif des devoirs.
 
 #### Article 67
 
-Le Président de la République ne peut faire appel à des Forces Armées ou de Police étrangère pour intervenir dans un conflit intérieur sauf dans les cas prévus à l'Article 66
+Le Président de la République ne peut faire appel à des Forces Armées ou de Police étrangères pour intervenir dans un conflit intérieur sauf dans les cas prévus à l'Article 66.
 
 #### Article 68
 
@@ -580,7 +580,7 @@ Il peut aussi, à tout moment, adresser des messages à l'Assemblée Nationale. 
 
 #### Article 73
 
-La responsabilité personnelle du Président de la République est engagée en cas de haute trahison, d'outrage à l'Assemblée, et ou d'atteinte à l'honneur et à la probité.
+La responsabilité personnelle du Président de la République est engagée en cas de haute trahison, d'outrage à l'Assemblée et/ou d'atteinte à l'honneur et à la probité.
 
 [[END OF PAGE 17]]
 
@@ -592,7 +592,7 @@ Il y a haute trahison lorsque le Président de la République a violé son serme
 
 #### Article 75
 
-Il y a atteinte à l'honneur et à la probité notamment lorsque le comportement personnel du Président de la République est contraire aux bonnes moeurs ou qu'il est reconnu auteur co-auteur ou complice de malversations, de corruption, d'enrichissement illicite.
+Il y a atteinte à l'honneur et à la probité notamment lorsque le comportement personnel du Président de la République est contraire aux bonnes moeurs ou qu'il est reconnu auteur, co-auteur ou complice de malversations, de corruption, d'enrichissement illicite.
 
 #### Article 76
 
@@ -608,7 +608,7 @@ A l'expiration de ce délai, si aucune suite n'est donnée par le Président de 
 
 #### Article 78
 
-Les faits prévus aux Article s 74 à 77 seront poursuivis et punis selon des dispositions des Article s 136 à 138 de la présente constitution.
+Les faits prévus aux Articles 74 à 77 seront poursuivis et punis selon les dispositions des Articles 136 à 138 de la présente constitution.
 
 ## TITRE IV : DU POUVOIR LEGISLATIF
 
@@ -674,13 +674,13 @@ Si à l'ouverture d'une session, le quorum de la moitié plus un des membres com
 
 #### Article 86
 
-Les séances de l'Assemblée Nationale ne sont valables que si elles se déroulent au lieu ordinaire de ses sessions, sauf cas de force majeur dûment constaté par la Cour constitutionnelle.
+Les séances de l'Assemblée Nationale ne sont valables que si elles se déroulent au lieu ordinaire de ses sessions, sauf cas de force majeure dûment constaté par la Cour constitutionnelle.
 
 Le compte-rendu intégral des débats de l'Assemblée Nationale est publié au Journal Officiel.
 
 #### Article 87
 
-L'Assemblée se réunit de plein droit en deux sessions ordinaires par an. La première session s'ouvre dans le cours de la première quinzaine du mois d'Avril. La deuxième session s'ouvre dans le cours de la seconde quinzaine du mois d'Octobre Chacune des sessions ne peut excéder trois mois.
+L'Assemblée se réunit de plein droit en deux sessions ordinaires par an. La première session s'ouvre dans le cours de la première quinzaine du mois d'Avril. La deuxième session s'ouvre dans le cours de la seconde quinzaine du mois d'Octobre. Chacune des sessions ne peut excéder trois mois.
 
 [[END OF PAGE 20]]
 
@@ -712,21 +712,21 @@ Le Règlement Intérieur détermine :
 
 #### Article 90
 
-Les membres de l'Assemblée Nationale jouissent de immunité parlementaire. En conséquence, aucun député ne peut être poursuivi, recherché, arrêté, détenu ou jugé à l' occasion des opinions ou votes émis par lui dans l'exercice de ses fonctions.
+Les membres de l'Assemblée Nationale jouissent de l'immunité parlementaire. En conséquence, aucun député ne peut être poursuivi, recherché, arrêté, détenu ou jugé à l'occasion des opinions ou votes émis par lui dans l'exercice de ses fonctions.
 
-Aucune député ne peut, pendant la durée des sessions, être poursuivi ou arrêté en matière criminelle ou correctionnelle qu'avec l'autorisation de l' Assemblée Nationale, sauf les cas de flagrant délit.
+Aucun député ne peut, pendant la durée des sessions, être poursuivi ou arrêté en matière criminelle ou correctionnelle qu'avec l'autorisation de l'Assemblée Nationale, sauf les cas de flagrant délit.
 
-Aucun député ne peut, hors session, être arrêté qu'avec l'autorisation de du bureau de l'Assemblée Nationale, sauf les cas de flagrant délit, de poursuites autorisées ou de condamnation définitive.
+Aucun député ne peut, hors session, être arrêté qu'avec l'autorisation du bureau de l'Assemblée Nationale, sauf les cas de flagrant délit, de poursuites autorisées ou de condamnation définitive.
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
 
-La détention ou la poursuite d'un député est suspendu si l'Assemblée Nationale le requiert par un vote à la majorité des deux tiers.
+La détention ou la poursuite d'un député est suspendue si l'Assemblée Nationale le requiert par un vote à la majorité des deux tiers.
 
 #### Article 91
 
-Les députés perçoivent des indemnités parlementaires qui sont fixées par le loi.
+Les députés perçoivent des indemnités parlementaires qui sont fixées par la loi.
 
 #### Article 92
 
@@ -753,7 +753,7 @@ L'Assemblée nationale vote la loi et consent l'impôt.
 
 #### Article 97
 
-La loi est votée par l'Assemblée nationale à la majorité simple. Cependant, les auxquelles la présente Constitution confère le caractère de lois organiques sont votées et modifiées dans les conditions suivantes :
+La loi est votée par l'Assemblée nationale à la majorité simple. Cependant, les lois auxquelles la présente Constitution confère le caractère de lois organiques sont votées et modifiées dans les conditions suivantes :
 
 - la proposition ou le projet n'est soumis à la délibération et au vote de l'Assemblée qu'après l'expiration d'un délai de quinze jours après son dépôt sur le Bureau de l'Assemblée ;
 
@@ -769,11 +769,11 @@ La loi est votée par l'Assemblée nationale à la majorité simple. Cependant, 
 
 Sont du domaine de la loi les règles concernant :
 
-- la citoyenneté, les droits civiques et les garanties fondamentales accordées aux citoyens pour l'exercice des libertés publiques, les sujétions imposées, dans l'intérêt de la défense nationale et de la sécurité publique, aux citoyens en leur personne et leur biens ;
+- la citoyenneté, les droits civiques et les garanties fondamentales accordées aux citoyens pour l'exercice des libertés publiques, les sujétions imposées, dans l'intérêt de la défense nationale et de la sécurité publique, aux citoyens en leur personne et leurs biens ;
 
-- la nationalité, l'état et la capacité des personnes, les régimes matrimoniaux, les successions et les libertés ;
+- la nationalité, l'état et la capacité des personnes, les régimes matrimoniaux, les successions et les libéralités ;
 
-- la procédure selon laquelle les coutumes seront constatées et mises en harmonies avec les principes fondamentaux de la constitution ;
+- la procédure selon laquelle les coutumes seront constatées et mises en harmonie avec les principes fondamentaux de la constitution ;
 
 - la détermination des crimes et délits ainsi que des peines qui leur sont applicables ;
 
@@ -785,11 +785,11 @@ Sont du domaine de la loi les règles concernant :
 
 - le régime d'émission de la monnaie ;
 
-- le régime électoral du Président de la République, des membres l'Assemblée Nationale et des assemblées locales ;
+- le régime électoral du Président de la République, des membres de l'Assemblée Nationale et des assemblées locales ;
 
 - la création des catégories d'établissements publics ;
 
-- le Statut Général de la F onction Publique ;
+- le Statut Général de la Fonction Publique ;
 
 - le Statut des Personnels militaires, des Forces de Sécurité Publique et assimilés ;
 
@@ -813,7 +813,7 @@ La loi détermine les principes fondamentaux :
 
 - du régime de la propriété, des droits réels et des obligations civiles et commerciales ;
 
-- des nationalisations et dénationalisation d'entreprises et des transferts de propriété d'entreprises du secteur public au secteur privé ;
+- des nationalisations et dénationalisations d'entreprises et des transferts de propriété d'entreprises du secteur public au secteur privé ;
 
 - du droit du travail, de la sécurité sociale, du droit syndical et du droit de grève ;
 
@@ -859,23 +859,23 @@ Le Gouvernement peut, pour l'exécution de son programme, demander à l'Assembl�
 
 Les ordonnances sont prises en Conseil des Ministres, après avis de la Cour Constitutionnelle. Elles entrent en vigueur dès leur publication, mais deviennent caduques si le projet de loi de ratification n'est pas déposé devant l'Assemblée avant la date fixée par la loi d'habilitation.
 
-A l'expiration du délai mentionné au premier alinéa du présent Article , les ordonnances ne peuvent plus être modifiées que par la loi dans leurs dispositions qui sont du domaine législatif.
+A l'expiration du délai mentionné au premier alinéa du présent Article, les ordonnances ne peuvent plus être modifiées que par la loi dans leurs dispositions qui sont du domaine législatif.
 
 #### Article 103
+
+Les députés ont droit d'amendement.
 
 #### Article 104
 
 Les propositions, projets et amendements qui ne sont pas du domaine de la loi sont irrecevables.
 
-L'irrecevabilité est prononcée par le Président de l'Assemblée Nationale après délibération du Bureau ?
-
-Les députés ont droit d'amendement.
+L'irrecevabilité est prononcée par le Président de l'Assemblée Nationale après délibération du Bureau.
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
 
-S'il apparaît que la proposition ou l'amendement sont contraires à une délégation accordée en vertu de l'Article 102 de la présent Constitution, le Gouvernement peut opposer l'irrecevabilité.
+S'il apparaît que la proposition ou l'amendement sont contraires à une délégation accordée en vertu de l'Article 102 de la présente Constitution, le Gouvernement peut opposer l'irrecevabilité.
 
 En cas de contestation sur les alinéas 1 et 3 du présent Article, la Cour Constitutionnelle, saisie par le Président de l'Assemblée Nationale ou le Gouvernement, statue dans un délai de huit jours.
 
@@ -883,7 +883,7 @@ En cas de contestation sur les alinéas 1 et 3 du présent Article, la Cour Cons
 
 L'initiative des lois appartient concurremment au Président de la République et aux membres de l'Assemblée Nationale.
 
-Les projets de loi sont délibérés en Conseil des Ministres, après avis motivé de la Cour Suprême saisie conformément à l'Article 132 de la présent Constitution et déposés sur le Bureau de l'Assemblée Nationale.
+Les projets de loi sont délibérés en Conseil des Ministres, après avis motivé de la Cour Suprême saisie conformément à l'Article 132 de la présente Constitution et déposés sur le Bureau de l'Assemblée Nationale.
 
 Les projets et propositions de loi sont envoyés avant délibération en séance plénière, à la commission compétente de l'Assemblée Nationale pour examen.
 
@@ -891,7 +891,7 @@ Le projet du budget de l'Assemblée Nationale ne peut être examiné en commissi
 
 #### Article 106
 
-La discussion des projets de loi porte sur le texte présenté par la commission. Celle - ci, à la demande du Gouvernement, doit porter à là connaissance de l'Assemblée Nationale les points sur lesquels il y a désaccord avec le Gouvernement.
+La discussion des projets de loi porte sur le texte présenté par la commission. Celle-ci, à la demande du Gouvernement, doit porter à la connaissance de l'Assemblée Nationale les points sur lesquels il y a désaccord avec le Gouvernement.
 
 #### Article 107
 
@@ -899,7 +899,7 @@ Les propositions et amendements déposés par les députés ne sont pas recevabl
 
 #### Article 108
 
-Les députés peuvent, par un vote à la majorité des trois quarts décider de soumettre toute question au référendum.
+Les députés peuvent, par un vote à la majorité des trois quarts, décider de soumettre toute question au référendum.
 
 #### Article 109
 
@@ -909,7 +909,7 @@ L'Assemblée Nationale vote le projet de loi de finances dans les conditions dé
 
 [[START OF PAGE 27]]
 
-Le projet de loi de finances doit prévoir les recettes nécessaires à la couverture intégrale des dépenses
+Le projet de loi de finances doit prévoir les recettes nécessaires à la couverture intégrale des dépenses.
 
 #### Article 110
 
@@ -917,7 +917,7 @@ Le projet de loi de finances doit prévoir les recettes nécessaires à la couve
 
 Le Gouvernement saisit pour ratification, l'Assemblée Nationale convoquée en session extraordinaire dans un délai de quinze jours.
 
-Si l'Assemblée Nationale n'a pas voté le budget à la fin de cette session extraordinaire le budget est établi définitivement par ordonnance.
+Si l'Assemblée Nationale n'a pas voté le budget à la fin de cette session extraordinaire, le budget est établi définitivement par ordonnance.
 
 #### Article 111
 
@@ -927,7 +927,7 @@ Si le projet de loi de finances n'a pu être déposé en temps utile pour être 
 
 - L'Assemblée Nationale règle les comptes de la Nation selon les modalités prévues par la loi organique des finances.
 
-Elle est, à cet effet, assistée la Chambre des Comptes de la Cour Suprême, qu'elle charge de toutes enquêtes se rapportant à l'exécution des recettes et des dépenses publiques, ou à la gestion de la trésorerie nationale, des collectivités territoriales, des administrations ou institutions relevant de L'Etat ou soumise à son contrôle.
+Elle est, à cet effet, assistée de la Chambre des Comptes de la Cour Suprême, qu'elle charge de toutes enquêtes se rapportant à l'exécution des recettes et des dépenses publiques, ou à la gestion de la trésorerie nationale, des collectivités territoriales, des administrations ou institutions relevant de L'Etat ou soumises à son contrôle.
 
 #### Article 113
 
@@ -941,7 +941,9 @@ Les moyens d'information et de contrôle de l'Assemblée Nationale sur l'action 
 
 - la question orale avec ou sans débat, non suivi de vote ;
 
-- la commission parlementaire d'enquête. Ces moyens s'exercent dans les conditions déterminées par le règlement intérieur de l'Assemblée Nationale.
+- la commission parlementaire d'enquête.
+
+Ces moyens s'exercent dans les conditions déterminées par le règlement intérieur de l'Assemblée Nationale.
 
 [[END OF PAGE 27]]
 
@@ -950,29 +952,27 @@ Les moyens d'information et de contrôle de l'Assemblée Nationale sur l'action 
 ## TITRE V : DE LA COUR CONSTITUTIONNELLE
 #### Article 114
 
-La cour constitutionnelle est la plus haute juridiction de L'Etat en matière constitutionnelle. Elle juge de la constitutionnalité de la loi et elle garantie les droits fondamentaux de la personne humaine et des libertés
-
-Publiques. Elle est l'organe régulateur du fonctionnement des institutions et l'activité des pouvoirs publics.
+La Cour Constitutionnelle est la plus haute juridiction de L'Etat en matière constitutionnelle. Elle juge de la constitutionnalité de la loi et elle garantit les droits fondamentaux de la personne humaine et les libertés publiques. Elle est l'organe régulateur du fonctionnement des institutions et de l'activité des pouvoirs publics.
 
 #### Article 115
 
-La Cour Constitutionnelle est composées de sept membres dont quatre sont nommés par le Bureau de l'Assemblée Nationale et trois par le Président de la République pour un mandat de cinq ans renouvelable une seule fois. Aucun membre de la Cour Constitutionnelle ne peut siéger plus de dix ans
+La Cour Constitutionnelle est composée de sept membres dont quatre sont nommés par le Bureau de l'Assemblée Nationale et trois par le Président de la République pour un mandat de cinq ans renouvelable une seule fois. Aucun membre de la Cour Constitutionnelle ne peut siéger plus de dix ans.
 
-Pour être membre de la Cour Constitutionnelle, outre la condition de compétence professionnelle, il faut de bonne moralité et d'une grande probité.
+Pour être membre de la Cour Constitutionnelle, outre la condition de compétence professionnelle, il faut être de bonne moralité et d'une grande probité.
 
 La Cour Constitutionnelle comprend :
 
-- trois magistrats ayant une expérience de quinze années au moins dont deux sont nommée par le Bureau de l'Assemblée et un par le Président de la République ;
+- trois magistrats ayant une expérience de quinze années au moins dont deux sont nommés par le Bureau de l'Assemblée Nationale et un par le Président de la République ;
 
 - deux juristes de haut niveau, professeurs ou praticiens du droit, ayant une expérience de quinze années au moins nommés l'un par le Bureau de l'Assemblée Nationale et l'autre par le Président de la République ;
 
-- deux personnalités de grande réputation professionnelle nommées l'une par le Bureau de l'Assemblée Nationale et l'autre par le Président de la République
+- deux personnalités de grande réputation professionnelle nommées l'une par le Bureau de l'Assemblée Nationale et l'autre par le Président de la République.
 
-Les membres de la Cour Constitutionnelle sont inamovibles pendant la durée de leur mandat. Ils ne peuvent être poursuivis ou arrêtés sans l'autorisation de la Cour Constitutionnelle ou le Bureau de la Cour Suprême siégeant en session conjointe sauf les cas de flagrant délit.
+Les membres de la Cour Constitutionnelle sont inamovibles pendant la durée de leur mandat. Ils ne peuvent être poursuivis ou arrêtés sans l'autorisation de la Cour Constitutionnelle et du Bureau de la Cour Suprême siégeant en session conjointe sauf les cas de flagrant délit.
 
 Dans ces cas, le Président de la Cour Constitutionnelle et le Président de la Cour Suprême doivent être saisis immédiatement et au plus tard dans les quarante huit heures.
 
-Les fonctions de membres de la Cour Constitutionnelle sont incompatibles avec la qualité de membres de Gouvernement, l'exercice de tout mandat électif, de tout emploi public, civil ou militaire, de toute autre activité professionnelle ainsi que de toute fonction de représentation nationale, sauf dans le cas prévu à l'Article 50 alinéa 3.
+Les fonctions de membre de la Cour Constitutionnelle sont incompatibles avec la qualité de membre de Gouvernement, l'exercice de tout mandat électif, de tout emploi public, civil ou militaire, de toute autre activité professionnelle ainsi que de toute fonction de représentation nationale, sauf dans le cas prévu à l'Article 50 alinéa 3.
 
 Une loi organique détermine l'organisation et le fonctionnement de la Cour Constitutionnelle, la procédure suivie devant elle, notamment les délais pour sa saisine de même que les immunités et le régime disciplinaire de ses membres.
 
@@ -992,7 +992,7 @@ La Cour Constitutionnelle statue obligatoirement sur :
 
 - les Règlements Intérieurs de l'Assemblée Nationale, de la Haute Autorité de l'Audiovisuel et de la Communication et du Conseil Economique et Social avant leur mise en application, quant à leur conformité à la Constitution ;
 
-- la constitutionnalité des lois et des actes réglementaires censés porter atteinte aux droits fondamentaux de la personne humaine et aux libertés publiques et en général, sur la violation de la des droits de la personne humaine ;
+- la constitutionnalité des lois et des actes réglementaires censés porter atteinte aux droits fondamentaux de la personne humaine et aux libertés publiques et en général, sur la violation des droits de la personne humaine ;
 
 - les conflits d'attribution entre les institutions de l'Etat.
 
@@ -1022,21 +1022,21 @@ Le Président de la Cour Constitutionnelle est compétent pour :
 
 [[START OF PAGE 30]]
 
-La Cour Constitutionnelle doit statuer dans le délais de quinze jours après qu'elle a été saisie d'un texte de loi ou d'une plainte en violation des droits de la personne humaine et des libertés publiques. Toutefois, à la demande du Gouvernement, s'il y a urgence, ce délai est ramené à huit jours. Dans ce cas, la saisine de la Cour Constitutionnelle suspend le délai de promulgation de la loi.
+La Cour Constitutionnelle doit statuer dans le délai de quinze jours après qu'elle a été saisie d'un texte de loi ou d'une plainte en violation des droits de la personne humaine et des libertés publiques. Toutefois, à la demande du Gouvernement, s'il y a urgence, ce délai est ramené à huit jours. Dans ce cas, la saisine de la Cour Constitutionnelle suspend le délai de promulgation de la loi.
 
 #### Article 121
 
-La Cour Constitutionnelle, à la demande du Président de la république ou de tout membre de l'Assemblée Nationale, se prononce sur la constitutionnalité des lois avant leur promulgation.
+La Cour Constitutionnelle, à la demande du Président de la République ou de tout membre de l'Assemblée Nationale, se prononce sur la constitutionnalité des lois avant leur promulgation.
 
-Elle se prononce d'office sur la constitutionnalité des lois et tout texte réglementaire censés porter atteinte aux droits fondamentaux de la personne humaine et aux libertés publiques. Elle statue plus généralement sur les violations des droits de la personne humaine et sa décision doit intervenir dans un délai de huit jours.
+Elle se prononce d'office sur la constitutionnalité des lois et de tout texte réglementaire censés porter atteinte aux droits fondamentaux de la personne humaine et aux libertés publiques. Elle statue plus généralement sur les violations des droits de la personne humaine et sa décision doit intervenir dans un délai de huit jours.
 
 #### Article 122
 
-Tout citoyen peut saisir la Cour Constitutionnelle sur la constitutionnalité des lois, soit directement , soit par la procédure de l'exception d'inconstitutionnalité invoquée dans une affaire qui le concerne devant une juridiction. Celle-ci doit sur seoir jusqu'à la décision de la Cour Constitutionnelle qui doit intervenir dans un délai de trente jours.
+Tout citoyen peut saisir la Cour Constitutionnelle sur la constitutionnalité des lois, soit directement, soit par la procédure de l'exception d'inconstitutionnalité invoquée dans une affaire qui le concerne devant une juridiction. Celle-ci doit surseoir jusqu'à la décision de la Cour Constitutionnelle qui doit intervenir dans un délai de trente jours.
 
 #### Article 123
 
-Les lois organiques avant leur promulgation, les Règlements Intérieurs de l'Assemblée Nationale, de la Haute Autorité de l'Audiovisuel et de la Communication et du Conseil Economique et Social avant leur mise en application, doivent être soumis à la Cour Constitutionnelle qui se prononce sur leur conformité à la constitution.
+Les lois organiques avant leur promulgation, les Règlements Intérieurs de l'Assemblée Nationale, de la Haute Autorité de l'Audiovisuel et de la Communication et du Conseil Economique et Social avant leur mise en application, doivent être soumis à la Cour Constitutionnelle qui se prononce sur leur conformité à la Constitution.
 
 #### Article 124
 
@@ -1079,7 +1079,7 @@ Les magistrats sont nommés par le Président de la République, sur proposition
 
 #### Article 130
 
-Le Conseil Supérieur de la Magistrature étudie les dossiers de grâce et les transmet avec avis motivé au Président de la république.
+Le Conseil Supérieur de la Magistrature étudie les dossiers de grâce et les transmet avec avis motivé au Président de la République.
 
 ### I - DE LA COUR SUPREME
 #### Article 131
@@ -1106,7 +1106,7 @@ Elle peut, à la demande du Chef de l'Etat, être chargée de la rédaction et d
 
 Le Président de la Cour Suprême est nommé pour une durée de cinq ans par le Président de la République, après avis du Président de l'Assemblée Nationale, parmi les magistrats et les juristes de haut niveau, ayant quinze ans au moins d'expérience professionnelle par décret pris en Conseil des Ministres.
 
-IL est inamovible pendant la durée de son mandat qui n'est renouvelable qu'une seule fois.
+Il est inamovible pendant la durée de son mandat qui n'est renouvelable qu'une seule fois.
 
 Les fonctions du Président de la Cour suprême sont incompatibles avec la qualité de membre de Gouvernement, l'exercice de tout mandat électif, de tout emploi public, civil ou militaire, de toute autre activité professionnelle, ainsi que de toute fonction de représentation nationale.
 
@@ -1128,13 +1128,13 @@ Une loi organique fixe les règles de son fonctionnement, ainsi que la procédur
 
 #### Article 136
 
-La Haute Cour de Justice est compétente pour juger le Président de la République et ls membres du Gouvernement à raison de faits qualifiés de haute trahison, d'infractions commises dans l'exercice ou à l'occasion de l'exercice de leurs fonctions, ainsi que pour juger leurs complices en cas de complot contre la sûreté de L'Etat.
+La Haute Cour de Justice est compétente pour juger le Président de la République et les membres du Gouvernement à raison de faits qualifiés de haute trahison, d'infractions commises dans l'exercice ou à l'occasion de l'exercice de leurs fonctions, ainsi que pour juger leurs complices en cas de complot contre la sûreté de L'Etat.
 
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
 
-Les juridictions de droit commun restent compétentes pour les infractions perpétrées en déhors de l'exercice de leurs fonctions et dont ils sont pénalement responsables.
+Les juridictions de droit commun restent compétentes pour les infractions perpétrées en dehors de l'exercice de leurs fonctions et dont ils sont pénalement responsables.
 
 #### Article 137
 
@@ -1142,11 +1142,11 @@ La Haute Cour de Justice est liée par la définition des infractions et par la 
 
 La décision de poursuite puis la mise en accusation du Président de la République et des membres du Gouvernement est votée à la majorité des deux tiers des députés composant l'Assemblée Nationale, selon la procédure prévue par le règlement de l'Assemblée Nationale.
 
-L'instruction est menée par les magistrats de la Chambre d'Accusation de la Cour d'Appel ayant juridiction sur du siège de l'Assemblée Nationale.
+L'instruction est menée par les magistrats de la Chambre d'Accusation de la Cour d'Appel ayant juridiction sur le lieu du siège de l'Assemblée Nationale.
 
-#### Article138
+#### Article 138
 
-Le Président de la République et les membres du Gouvernement sont suspendus de leurs fonctions en cas de mise en accusation pour haute trahison, outrage à l'Assemblée Nationale et toute atteinte à l'honneur et à la probité. En cas de condamnation, ils déchus de leurs charges.
+Le Président de la République et les membres du Gouvernement sont suspendus de leurs fonctions en cas de mise en accusation pour haute trahison, outrage à l'Assemblée Nationale et toute atteinte à l'honneur et à la probité. En cas de condamnation, ils sont déchus de leurs charges.
 
 ## TITRE VII : DU CONSEIL ECONOMIQUE ET SOCIAL
 #### Article 139
@@ -1157,7 +1157,7 @@ Les projets de loi de programme à caractère économique et social lui sont obl
 
 Le Président de la République peut consulter le Conseil Economique et Social sur tout problème à caractère économique, social, culturel, scientifique et technique .
 
-Le Conseil Economique et Social peut, de sa propre initiative, sous forme de recommandation, attirer l'attention de l'Assemblée Nationale et de Gouvernement sur les réformes d'ordre économique et social qui lui paraissent conformes ou contraires à l'intérêt général.
+Le Conseil Economique et Social peut, de sa propre initiative, sous forme de recommandation, attirer l'attention de l'Assemblée Nationale et du Gouvernement sur les réformes d'ordre économique et social qui lui paraissent conformes ou contraires à l'intérêt général.
 
 Sur la demande du Gouvernement, le Conseil Economique et Social désigne un de ses membres pour exposer devant les commissions de l'Assemblée Nationale l'avis du Conseil sur les projets ou propositions de loi qui lui ont été soumis.
 
@@ -1182,7 +1182,7 @@ Le montant de ces indemnités est fixé par décret pris en Conseil des Ministre
 
 La Haute Autorité de l'Audiovisuel et de la communication a pour mission de garantir et d'assurer la liberté et la protection de la presse, ainsi que de tous les moyens de communication de masse dans le respect de la loi.
 
-Elle veille au respect de la déontologie en matière d'information et l'accès équitable des partis politiques, des associations et des citoyens aux moyens officiels d'information et de communication.
+Elle veille au respect de la déontologie en matière d'information et à l'accès équitable des partis politiques, des associations et des citoyens aux moyens officiels d'information et de communication.
 
 #### Article 143
 
@@ -1197,7 +1197,7 @@ Le Président de la République négocie et ratifie les traités et accords inte
 
 #### Article 145
 
-Les traités de paix, les traités ou accords relatifs à l'organisation internationale, ceux qui engagent les finances de L'Etat, ceux qui modifient les lois internes de L'Etat, ceux comportent cession, échange ou adjonction de territoire, ne peuvent être ratifiés qu'en vertu d'une loi.
+Les traités de paix, les traités ou accords relatifs à l'organisation internationale, ceux qui engagent les finances de L'Etat, ceux qui modifient les lois internes de L'Etat, ceux qui comportent cession, échange ou adjonction de territoire, ne peuvent être ratifiés qu'en vertu d'une loi.
 
 Nulle cession, nul échange, nulle adjonction de territoire n'est valable sans le consentement des populations intéressées.
 
@@ -1207,7 +1207,7 @@ Nulle cession, nul échange, nulle adjonction de territoire n'est valable sans l
 
 #### Article 146
 
-Si la Cour Constitutionnelle saisie par le Président de la République ou par le Président de » l'Assemblée Nationale a déclaré qu'un engagement international comporte une clause contraire à la constitution, l'autorisation de le ratifier ne peut intervenir qu'après la révision de la constitution.
+Si la Cour Constitutionnelle saisie par le Président de la République ou par le Président de l'Assemblée Nationale a déclaré qu'un engagement international comporte une clause contraire à la Constitution, l'autorisation de le ratifier ne peut intervenir qu'après la révision de la Constitution.
 
 #### Article 147
 
@@ -1215,11 +1215,11 @@ Les traités ou accords régulièrement ratifiés ont, dès leur publication, un
 
 #### Article 148
 
-La république du Bénin peut conclure avec d'autres Etats des accords de coopération ou d'association sur la base des principes d'égalité de respect mutuel de la souveraineté, des avantages réciproques et de la dignité nationale.
+La République du Bénin peut conclure avec d'autres Etats des accords de coopération ou d'association sur la base des principes d'égalité, de respect mutuel de la souveraineté, des avantages réciproques et de la dignité nationale.
 
 #### Article 149
 
-La République du Bénin, soucieuse de réaliser l'Unité Africaine, peut conclure tout accord d'intégration sous régionale ou régionale conformément à l'Article 145.
+La République du Bénin, soucieuse de réaliser l'Unité Africaine, peut conclure tout accord d'intégration sous-régionale ou régionale conformément à l'Article 145.
 
 ## TITRE X : DES COLLECTIVITES TERRITORIALES
 #### Article 150
@@ -1236,7 +1236,7 @@ Aucune dépense de souveraineté de L'Etat ne saurait être imputée à leur bud
 
 #### Article 153
 
-L'Etat veille au développement harmonieux de toutes les collectivités territoriales sur la base de la solidarité nationale, des potentialités régionales et de l'équilibre inter- régional.
+L'Etat veille au développement harmonieux de toutes les collectivités territoriales sur la base de la solidarité nationale, des potentialités régionales et de l'équilibre inter-régional.
 
 ## TITRE XI : DE LA REVISION
 #### Article 154
@@ -1264,7 +1264,7 @@ La forme républicaine et la laïcité de L'Etat ne peuvent faire l'objet d'une 
 
 La présente constitution devra être promulguée dans les huit jours après son adoption au référendum.
 
-Le Président de la République devra entré en fonction, l'Assemblée devra se réunir au plus tard le premier avril 1991.
+Le Président de la République devra entrer en fonction, l'Assemblée devra se réunir au plus tard le premier avril 1991.
 
 Le Haut Conseil de la République et le Gouvernement de transition continueront d'exercer leurs fonctions jusqu'à l'installation des institutions nouvelles.
 
