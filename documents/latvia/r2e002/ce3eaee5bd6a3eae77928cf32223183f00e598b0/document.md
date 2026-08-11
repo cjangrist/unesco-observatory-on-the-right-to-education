@@ -4,7 +4,7 @@ Text consolidated by Valsts valodas centrs (State Language Centre) with amending
 
 If a whole or part of a section has been amended, the date of the amending law appears in square brackets at the end of the section. If a whole section, paragraph or clause has been deleted, the date of the deletion appears in square brackets beside the deleted section, paragraph or clause.
 
-The Saeima 1 has adopted and the President has proclaimed the following Law:
+The Saeima¹ has adopted and the President has proclaimed the following Law:
 
 # Law On Institutions of Higher Education
 
@@ -14,15 +14,15 @@ The Saeima 1 has adopted and the President has proclaimed the following Law:
 
 The following terms are used in this Law:
 
-- academic  hour -  a  unit  of  work  time  for  studies,  the  duration  of  which  is  45 minutes;
+1) academic hour - a unit of work time for studies, the duration of which is 45 minutes;
 
-- 1 1 ) accredited  study  programme -  a  study  programme  which  complies  with  a specific  study  direction  of  an  institution  of  higher  education  or  college,  accredited  in accordance with the procedures specified by the law. The time period of accreditation of an accredited  study  programme  shall  not  exceed  the  time  period  for  which  the  relevant  study direction in the institution of higher education or college has been accredited;
+1¹) accredited study programme - a study programme which complies with a specific study direction of an institution of higher education or college, accredited in accordance with the procedures specified by the law. The time period of accreditation of an accredited study programme shall not exceed the time period for which the relevant study direction in the institution of higher education or college has been accredited;
 
-- higher education - a degree of education in which personality development based on science or art, or science and art, in the selected academic or professional, or academic and professional, field of study, as well as the preparation for scientific or professional activity, which takes place after the completion of a secondary education;
+2) higher education - a degree of education in which personality development based on science or art, or science and art, in the selected academic or professional, or academic and professional, field of study, as well as the preparation for scientific or professional activity, which takes place after the completion of a secondary education;
 
-- accreditation of an institution of higher education or college - assessment of the work organisation and quality of resources of an institution of higher education or college as a result of which it is granted the status of a State-recognised institution of higher education or college;
+3) accreditation of an institution of higher education or college - assessment of the work organisation and quality of resources of an institution of higher education or college as a result of which it is granted the status of a State-recognised institution of higher education or college;
 
-- a  branch  of  an  institution  of  higher  education  or  college -  a  structural  unit established  by  an  accredited  institution  of  higher  education  or  college,  which  has  a  certain organisational independence,  which  is  territorially separated  from  the  location of the institution of higher education or college (it is located in another state or another populated
+4) a branch of an institution of higher education or college - a structural unit established by an accredited institution of higher education or college, which has a certain organisational independence, which is territorially separated from the location of the institution of higher education or college (it is located in another state or another populated
 
 > 1 The Parliament of the Republic of Latvia
 
@@ -34,31 +34,31 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 area)  and  the  basic  task  of  which  is  to  implement  the  accredited  study  programmes  of  the relevant institution of higher education or college;
 
-- a representative office of an institution of higher education -  a  structural  unit established  by  an  institution  of  higher  education  which  is  territorially  separated  from  the location of the institution of higher education (it is located in another state or populated area) and the task of which is to provide information regarding the institution of higher education, to  represent  the  interests  of  the  institution  of  higher  education  and  to  perform  other organisational  activities  specified  in  the  by-law  thereof.  The  representative  office  of  an institution of higher education shall not engage in economic activities and shall not implement study programmes;
+5) a representative office of an institution of higher education - a structural unit established by an institution of higher education which is territorially separated from the location of the institution of higher education (it is located in another state or populated area) and the task of which is to provide information regarding the institution of higher education, to represent the interests of the institution of higher education and to perform other organisational activities specified in the by-law thereof. The representative office of an institution of higher education shall not engage in economic activities and shall not implement study programmes;
 
-- matriculation - enrolment of persons in the list (student register) of students at an institution of higher education;
+6) matriculation - enrolment of persons in the list (student register) of students at an institution of higher education;
 
-- contact lesson - the direct communication of academic staff and students, which is implemented for the achievement of the goals and tasks of a study programme in accordance with the study programme plan and the duration of which is one academic hour;
+7) contact lesson - the direct communication of academic staff and students, which is implemented for the achievement of the goals and tasks of a study programme in accordance with the study programme plan and the duration of which is one academic hour;
 
-- a  credit  point -  an  accounting  unit  of  studies  which  corresponds  to  a  student's work load of 40 academic hours (one week of studies);
+8) a credit point - an accounting unit of studies which corresponds to a student's work load of 40 academic hours (one week of studies);
 
-- part-time  studies -  a  type  of  studies  which  corresponds  to  less  than  40  credit points per academic year and less than 40 academic hours per week;
+9) part-time studies - a type of studies which corresponds to less than 40 credit points per academic year and less than 40 academic hours per week;
 
-- full-time  studies -  a  type  of  study,  which  corresponds  to  40  credit  points  per academic year and not less than 40 academic hours per week;
+10) full-time studies - a type of study, which corresponds to 40 credit points per academic year and not less than 40 academic hours per week;
 
-- promotion - granting of a doctoral degree;
+11) promotion - granting of a doctoral degree;
 
-- 11 1 ) study  course -  an  outline  of  a  system  of  knowledge,  skills  and  competence corresponding to the study programme, organised in a specific level and amount, for which study results have been defined, for the achievement of which credit points are granted;
+11¹) study course - an outline of a system of knowledge, skills and competence corresponding to the study programme, organised in a specific level and amount, for which study results have been defined, for the achievement of which credit points are granted;
 
-- licensing  of  a  study  programme -  the  granting  of  rights  to  an  institution  of higher  education  or  a  college  or  the  branches  thereof  to  implement  a  specific  study programme;
+12) licensing of a study programme - the granting of rights to an institution of higher education or a college or the branches thereof to implement a specific study programme;
 
-- study  module -  a  component  of  the  study  programme  which  is  created  by combining study courses or parts thereof, which have a common goal and achievable study results;
+13) study module - a component of the study programme which is created by combining study courses or parts thereof, which have a common goal and achievable study results;
 
-- study period -  any  component of the study programme which is evaluated and documented and incorporates the acquisition of knowledge, skills and competence, but is not a complete study programme;
+14) study period - any component of the study programme which is evaluated and documented and incorporates the acquisition of knowledge, skills and competence, but is not a complete study programme;
 
-- study results -  a  set  of  knowledge,  skills  and  competence  to  be  acquired  upon completion of a study programme, study module or study course; and
+15) study results - a set of knowledge, skills and competence to be acquired upon completion of a study programme, study module or study course; and
 
-- accreditation  of  the  study direction -  an  inspection  with  the  purpose  of determining the quality of the resources of an institution of higher education or college and the  ability  to  implement  a  study  programme  corresponding  to  a  specific  study  direction  in accordance  with  regulatory  enactments.  The  accreditation  of  the  study  direction  of  an institution of higher education or college gives the institution of higher education or college the right to issue a State-recognised diploma of higher education for successful acquisition of a study programme corresponding to the relevant study direction.
+16) accreditation of the study direction - an inspection with the purpose of determining the quality of the resources of an institution of higher education or college and the ability to implement a study programme corresponding to a specific study direction in accordance with regulatory enactments. The accreditation of the study direction of an institution of higher education or college gives the institution of higher education or college the right to issue a State-recognised diploma of higher education for successful acquisition of a study programme corresponding to the relevant study direction.
 
 [23 November 2000; 2 March 2006; 14 July 2011]
 
@@ -84,21 +84,21 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 (1) Institutions of higher education are institutions of higher education and science in which academic and professional study programmes are implemented, as well as which are engaged in science, research and artistic creation. In institutions of higher education, at least forty per cent  of  persons  elected  to  academic  positions  shall  have  doctoral  degrees.  In  academies,  at least fifty per cent of persons elected to academic positions shall have doctoral degrees. The Cabinet shall determine other procedures for academic staff qualifications if such is required by  the  specific  field  of  activity  of  the  institution  of  higher  education  -  arts,  architecture, theology,  security,  seafaring  or  State  defence.  The  study  programmes  implemented  in  an institution of higher education shall be divided into the following thematic groups:
 
-- education;
+1) education;
 
-- humanities and arts;
+2) humanities and arts;
 
-- social science, commercial science and law;
+3) social science, commercial science and law;
 
-- engineering sciences, production and construction work;
+4) engineering sciences, production and construction work;
 
-- natural sciences, mathematics and information technology;
+5) natural sciences, mathematics and information technology;
 
-- agriculture;
+6) agriculture;
 
-- health care and social welfare;
+7) health care and social welfare;
 
-- services.
+8) services.
 
 (2)  An  academic  degree  shall  be  conferred  after  the  acquisition  of  the  academic  study programme,  a  doctor  of  science  degree  -  after  the  acquisition  of  the  doctoral  study programme. A professional qualification and a professional degree of the relevant level shall be obtained after the acquisition of the professional study programme.
 
@@ -138,21 +138,21 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 (3) An institution of higher education has the right:
 
-- to develop and approve the constitution of the institution of higher education;
+1) to develop and approve the constitution of the institution of higher education;
 
-- to form the academic staff of the institution of higher education; and
+2) to form the academic staff of the institution of higher education; and
 
-- to independently determine:
+3) to independently determine:
 
-- the content and forms of study programmes,
+a) the content and forms of study programmes,
 
-- additional provisions for the admission of students,
+b) additional provisions for the admission of students,
 
-- basic trends of scientific research work,
+c) basic trends of scientific research work,
 
-- the  organisational  and  managerial  structure  of  the  institution  of  higher education, and
+d) the organisational and managerial structure of the institution of higher education, and
 
-e)  rates  of  monthly  salary  which  are  not  less  than  the  rates  specified  by  the Cabinet; and
+e) rates of monthly salary which are not less than the rates specified by the Cabinet; and
 
 4) perform other activities, which do not contradict with the principles and tasks for the operation of the institution of higher education determined by the founder thereof and this Law.
 
@@ -172,7 +172,7 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 (2) Institutions of higher education shall develop study programmes, choose academic staff, arrange laboratories, workshops, libraries and other structures so that the students are given the  opportunity  to  acquire  knowledge,  an  academic  education  and  professional  skills  in accordance  with  the  science  development  level  and  cultural  traditions  of  Latvia  in  as concentrated  and  didactically  wholesome  a  form  as  possible.  They  shall  ensure  such requirements  for  tests  and  examinations  and  such  procedures  that  the  degrees  and  titles, diplomas  and  professional  qualification  acquired,  as  well  as  the  acquisition  of  parts  of  the study programmes, as are mutually recognised in the institutions of higher education of Latvia and other states.
 
-(2 1 ) Institutions of higher education shall implement their internal quality assurance system, within the scope of which:
+(2¹) Institutions of higher education shall implement their internal quality assurance system, within the scope of which:
 
 1)  a  policy  and  procedures  for  assuring  the  quality  of  higher  education  shall  be established;
 
@@ -202,7 +202,7 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 (2) The freedom of studies shall be expressed in the rights of students:
 
-- to choose an institution of higher education, a faculty (department);
+1) to choose an institution of higher education, a faculty (department);
 
 2)  to  change  their  study  programme  during  their  studies,  choosing  the  same  study programme in another institution of higher education, faculty (department, institute);
 
@@ -216,7 +216,7 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 3)  to  attend  lectures  in  other  institutions  of  higher  education,  faculties  (departments, institutes);
 
-- to draw up and acquire the free elective part of individual studies; and
+4) to draw up and acquire the free elective part of individual studies; and
 
 5) to be engaged in scientific research work and artistic creation.
 
@@ -242,7 +242,7 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 [23 November 2000; 2 March 2006; 19 April 2007; 18 February 2010]
 
-### Section 7. 1 [14 July 2011]
+### Section 7.1 [14 July 2011]
 
 ## Chapter II Foundation, Reorganisation and Legal Grounds of Institutions of Higher Education
 
@@ -270,13 +270,13 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 1) the institution of higher education shall implement at least five study programmes and  in  the  implementation  thereof  at  least  30  (in  a  theological  sector  institution  of  higher education - at least 10) persons with a doctoral degree shall be involved, of whom at least five are doctors in the branch of science in which the study programme is implemented;
 
-- the  founder of the institution of higher  education shall own or have at his or her disposal premises for the implementation of the study programmes for at least eight years, and this  shall  be  confirmed  by  an  extract  from  the  Land  Register,  as  well  as  the  plan  of  the premises  owned or at  his  or  her  disposal  or  the  building  file  in  which  the  required  area  is indicated;
+2) the founder of the institution of higher education shall own or have at his or her disposal premises for the implementation of the study programmes for at least eight years, and this shall be confirmed by an extract from the Land Register, as well as the plan of the premises owned or at his or her disposal or the building file in which the required area is indicated;
 
-- The design of an institution of higher education shall ensure for the implementation of study programmes that during the time a study process is simultaneously taking place there shall be not less than 7 square metres per one student area of premises, including the premises provided for the individual work of the academic staff;
+3) The design of an institution of higher education shall ensure for the implementation of study programmes that during the time a study process is simultaneously taking place there shall be not less than 7 square metres per one student area of premises, including the premises provided for the individual work of the academic staff;
 
-- the institution of higher education shall be able to ensure commitments for students studying in the study programmes thereof in the amount of at least 500 000 lats, and this shall be confirmed by a guarantee issued by a bank or an insurance company;
+4) the institution of higher education shall be able to ensure commitments for students studying in the study programmes thereof in the amount of at least 500 000 lats, and this shall be confirmed by a guarantee issued by a bank or an insurance company;
 
-- the value of the movable or immovable property apportioned to the institution of higher education shall not be less than 2 000 000 lats, and this property shall not be pledged or otherwise encumbered with property rights, it shall not be put under a ban, and it shall be justified by the relevant documents, including statements issued by the relevant Land Register and the Enterprise Register;
+5) the value of the movable or immovable property apportioned to the institution of higher education shall not be less than 2 000 000 lats, and this property shall not be pledged or otherwise encumbered with property rights, it shall not be put under a ban, and it shall be justified by the relevant documents, including statements issued by the relevant Land Register and the Enterprise Register;
 
 6) none of the founders of the institution of higher education shall have tax debts or State  compulsory  social  insurance  contribution  debts,  and  this  shall  be  confirmed  by statements issued by the relevant competent authorities; none of the founders of the institution of  higher  education  shall  be  declared  insolvent,  shall  not  be  involved  in  the  process  of liquidation, the economic activity of any founder shall be neither suspended nor discontinued, nor shall court proceedings be initiated regarding the termination, insolvency or bankruptcy of the activities of any founder, and this shall be confirmed by a statement issued by the relevant competent authority; and
 
@@ -284,11 +284,11 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 (7)  When founding a branch of an institution of higher education, the following provisions shall be observed:
 
-- not less than six persons with doctoral degrees shall be involved in the implementation of one study programme;
+1) not less than six persons with doctoral degrees shall be involved in the implementation of one study programme;
 
-- the founder of a branch of the institution of higher education shall own or have at his or her disposal the premises for the implementation of study programmes for at least eight years, and this shall be confirmed by an extract from the Land Register, as well as the plan of the premises owned or at his or her disposal or the building file in which the required area is indicated;
+2) the founder of a branch of the institution of higher education shall own or have at his or her disposal the premises for the implementation of study programmes for at least eight years, and this shall be confirmed by an extract from the Land Register, as well as the plan of the premises owned or at his or her disposal or the building file in which the required area is indicated;
 
-- the total area of the premises of the branch of the institution of higher education and the layout thereof shall ensure the possibility for at least 100 students studying in the branch
+3) the total area of the premises of the branch of the institution of higher education and the layout thereof shall ensure the possibility for at least 100 students studying in the branch
 
 Translation © 2012 Valsts valodas centrs (State Language Centre)
 
@@ -308,7 +308,7 @@ of the institution of higher education to participate in the implementation  of 
 
 (8) An institution of higher education, as well as a branch thereof, shall begin its operations with the day when it is registered in the Register of Institutions of Higher Education. [3 June 2004; 2 March 2006; 14 July 2011]
 
-### Section 8. 1 The Register of Institutions of Higher Education and the Transparency of the Register
+### Section 8.1 The Register of Institutions of Higher Education and the Transparency of the Register
 
 (1) The Register of Institutions of Higher Education (hereinafter also - the Register) shall be a part of the Education Institution Register in which information regarding institutions of higher education  and the branches thereof shall be entered. The Register of  Institutions of Higher Education  shall  be  managed  by  an  official  of  the  institution  specified  by  the  Cabinet, authorised for the relevant purpose (hereinafter - the Official of the Register).
 
@@ -320,7 +320,7 @@ of the institution of higher education to participate in the implementation  of 
 
 [3 June 2004; 12 June 2009]
 
-### Section 8. 2 Information to be Entered into the Register
+### Section 8.2 Information to be Entered into the Register
 
 (1) The following information shall be entered into the Register:
 
@@ -332,23 +332,23 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 [[START OF PAGE 9]]
 
-- the  name  of  the  institution  of  higher  education  or  a  branch  of  the  institution  of higher education;
+1) the name of the institution of higher education or a branch of the institution of higher education;
 
-- the legal address of the institution of higher education or the branch;
+2) the legal address of the institution of higher education or the branch;
 
-- the founders of the institution of higher education or the branch and the rector of the institution of higher education or the head of the branch;
+3) the founders of the institution of higher education or the branch and the rector of the institution of higher education or the head of the branch;
 
-- the date when the decision on the foundation of the institution of higher education or the opening of the branch has been made;
+4) the date when the decision on the foundation of the institution of higher education or the opening of the branch has been made;
 
-- the legal status of the institution of higher education;
+5) the legal status of the institution of higher education;
 
-- the date of the approving of the constitution of the institution of higher education or the by-law of the branch;
+6) the date of the approving of the constitution of the institution of higher education or the by-law of the branch;
 
 7) the titles of study programmes implemented by the institution of higher education or the branch and the person responsible for the implementation of the relevant programme (the director of the study programme);
 
-- information  regarding  accredited  study  directions  and  the  study  programmes corresponding thereto in the institution of higher education or the branch;
+8) information regarding accredited study directions and the study programmes corresponding thereto in the institution of higher education or the branch;
 
-- information regarding the accreditation of the institution of higher education or the branch;
+9) information regarding the accreditation of the institution of higher education or the branch;
 
 10)  information  regarding  the  provision  of  the  premises  of  the  institution  of  higher education or the branch and the legal status of the premises;
 
@@ -368,7 +368,7 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 [3 June 2004; 14 July 2011]
 
-### Section 8. 3 Documents to be Submitted to the Register and the Storage Thereof
+### Section 8.3 Documents to be Submitted to the Register and the Storage Thereof
 
 (1) Those documents shall be submitted to the Register, which justify the entering of a record into the Register or the amendments thereof, as well as other documents specified by law. The original of the relevant document or an appropriately certified copy thereof shall be submitted to  the  Register.  Public  documents  issued  in  foreign  states  shall  be  validated  in  accordance with the procedures by international agreements and they shall be accompanied by a notarially certified translation into the Latvian language.
 
@@ -394,31 +394,31 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 [3 June 2004; 12 June 2009]
 
-### Section 8. 4 Making an Entry in the Register
+### Section 8.4 Making an Entry in the Register
 
-- An  entry  shall  be  made  in  the  Register  on  the  basis  of  a  submission  or  a  court adjudication. Samples of submission forms shall be approved by the Cabinet.
+(1) An entry shall be made in the Register on the basis of a submission or a court adjudication. Samples of submission forms shall be approved by the Cabinet.
 
-- The Official of the Register shall take a decision on the making of an entry in the Register or the refusal to make an entry within two months from the day the submission was received. The Official of the Register shall take a decision on the suspension of the making of an entry in the Register within seven days from the day the submission was received. The Official of the Register shall make an entry in the Register within the same time period on the basis of a court adjudication.
+(2) The Official of the Register shall take a decision on the making of an entry in the Register or the refusal to make an entry within two months from the day the submission was received. The Official of the Register shall take a decision on the suspension of the making of an entry in the Register within seven days from the day the submission was received. The Official of the Register shall make an entry in the Register within the same time period on the basis of a court adjudication.
 
-- The Official of the Register shall take a decision on the suspension of the making of an entry if:
+(3) The Official of the Register shall take a decision on the suspension of the making of an entry if:
 
-- the requirements of regulatory enactments have not been observed in the selecting of the name of an institution of higher education or a branch or in the approving of the by-law of the branch;
+1) the requirements of regulatory enactments have not been observed in the selecting of the name of an institution of higher education or a branch or in the approving of the by-law of the branch;
 
-- the draft of the constitution of an institution of higher education or the by-law of a branch  or  other  submitted  documents  do  not  comply  with  the  requirements  of  regulatory enactments; and
+2) the draft of the constitution of an institution of higher education or the by-law of a branch or other submitted documents do not comply with the requirements of regulatory enactments; and
 
-- not all documents specified by law have been submitted.
+3) not all documents specified by law have been submitted.
 
-- The Official of the Register shall take a decision on the refusal to make an entry if:
+(4) The Official of the Register shall take a decision on the refusal to make an entry if:
 
-- the  purpose  of  the  activities  of  an  institution  of  higher  education  or  a  branch specified in the constitution of the institution of higher education or the by-law of the branch contradicts with the law;
+1) the purpose of the activities of an institution of higher education or a branch specified in the constitution of the institution of higher education or the by-law of the branch contradicts with the law;
 
-- the provisions for the foundation of an institution of higher education or the opening of a branch prescribed by regulatory enactments have not been observed;
+2) the provisions for the foundation of an institution of higher education or the opening of a branch prescribed by regulatory enactments have not been observed;
 
-- after  a  decision  for  the  suspension  of  the  making  of  an  entry  has  been  made,  the previously indicated deficiencies have not been eliminated within the time period specified in the decision;
+3) after a decision for the suspension of the making of an entry has been made, the previously indicated deficiencies have not been eliminated within the time period specified in the decision;
 
-- the submission and the documents attached thereto have been submitted more than two  months  after  the  founding  of  an  institution  of  higher  education  or  the  making  of  a decision on the opening of a branch;
+4) the submission and the documents attached thereto have been submitted more than two months after the founding of an institution of higher education or the making of a decision on the opening of a branch;
 
-- the reasons referred to in Section 8. 6 , Paragraph 3 of this Law due to which it is not permitted to register an institution of higher education or a branch are present;
+5) the reasons referred to in Section 8.6, Paragraph 3 of this Law due to which it is not permitted to register an institution of higher education or a branch are present;
 
 Translation © 2012 Valsts valodas centrs (State Language Centre)
 
@@ -428,7 +428,7 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 [[START OF PAGE 11]]
 
-- obstacles  have  been  set  up  that  hinder  the  examination  by  the  State  Service  of Education Quality of the information provided to the Register; and
+6) obstacles have been set up that hinder the examination by the State Service of Education Quality of the information provided to the Register; and
 
 7) the submitter has provided false information.
 
@@ -440,43 +440,43 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 (8) A repeated submission for the registration of an institution of higher education or a branch thereof  may  be  submitted  not  earlier  than  one  year  from  the  day  the  decision  to  reject  the registration of the institution of higher education or the branch thereof has come into effect.
 
-- An entry shall be made in the Register on the same day when the decision on the making of the entry has been taken.
+(9) An entry shall be made in the Register on the same day when the decision on the making of the entry has been taken.
 
 [3 June 2004; 12 June 2009]
 
-### Section 8. 5 Registration Certificate
+### Section 8.5 Registration Certificate
 
 (1) After the entering of an institution of higher education or a branch thereof in the Register, it  shall  be  issued  a  registration  certificate,  which  is  signed  and  certified  with  a  seal  by  the Official of the Register.
 
 (2) The following information regarding an institution of higher education or a branch thereof shall be indicated in a registration certificate :
 
-- name;
+1) name;
 
-- registration number; and
+2) registration number; and
 
-- registration date.
+3) registration date.
 
 [3 June 2004]
 
-### Section  8. 6 Exclusion  of  an  Institution  of  Higher  Education  and  a  Branch  from  the Register
+### Section 8.6 Exclusion of an Institution of Higher Education and a Branch from the Register
 
 (1) An institution of higher education or a branch shall be excluded from the Register:
 
-- if  the  founder  has  submitted  a  submission  for the liquidation  of the institution of higher education or the closing of the branch;
+1) if the founder has submitted a submission for the liquidation of the institution of higher education or the closing of the branch;
 
-- if the institution of higher education which has opened a branch has been excluded from the Register;
+2) if the institution of higher education which has opened a branch has been excluded from the Register;
 
-- if within one year after the registration of the institution of higher education or the branch, a licence for the implementation of study programmes has not been received;
+3) if within one year after the registration of the institution of higher education or the branch, a licence for the implementation of study programmes has not been received;
 
-- if within one year after the receiving of a licence, the implementation of the planned study programmes has not been initiated;
+4) if within one year after the receiving of a licence, the implementation of the planned study programmes has not been initiated;
 
-- if  the  validity  period  of  all  study  programme  licences  issued  to  the  institution  of higher education or the branch has expired, the licences shall be withdrawn or cancelled; and
+5) if the validity period of all study programme licences issued to the institution of higher education or the branch has expired, the licences shall be withdrawn or cancelled; and
 
-- on the basis of a court adjudication.
+6) on the basis of a court adjudication.
 
 (2) An institution of higher education or a branch may be excluded from the Register on the basis of a court adjudication if:
 
-- the enrolment of students has been announced, students have been enrolled, and the implementation  of  study  programmes  has  been  initiated  or  educational  activity  of  another
+1) the enrolment of students has been announced, students have been enrolled, and the implementation of study programmes has been initiated or educational activity of another
 
 Translation © 2012 Valsts valodas centrs (State Language Centre)
 
@@ -488,13 +488,13 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 kind  has  been  performed  without  having  received  a  licence  for  the  implementation  of  the study programme;
 
-- during  the  registration  process  of  an  institution  of  higher  education  or  a  branch, false  information  has  been  provided  which  has  been  the  basis  for  the  registration  of  the institution of higher education or the branch;
+2) during the registration process of an institution of higher education or a branch, false information has been provided which has been the basis for the registration of the institution of higher education or the branch;
 
-- the  issuing  of  State-recognised diplomas has  been ascertained in an institution of higher  education  or  branch,  although  it  did  not  have  the  right  to  issue  such  diplomas  in accordance  with  the  provisions  of  this  Law  (the  person  has  not  fully  acquired  the  study programme, the study programme is not accredited, etc.); and
+3) the issuing of State-recognised diplomas has been ascertained in an institution of higher education or branch, although it did not have the right to issue such diplomas in accordance with the provisions of this Law (the person has not fully acquired the study programme, the study programme is not accredited, etc.); and
 
 4) the State Service of Education Quality, the Ministry of Education and Science, the Council  of  Higher  Education  or  another  institution  within  the  competence  thereof  has repeatedly ascertained violations of regulatory enactments in the activities of the institution of higher education or the branch.
 
-(3)  A  person  whose  founded  institution  of  higher  education  has  been  excluded  from  the Register shall not be allowed to participate in the foundation of another institution of higher education or to file  a  submission  for  the  registration  thereof  for  one  year  from  the  day  the institution  of  higher  education has been excluded from the Register, except cases where an institution of higher education has been excluded from the Register on the basis of Section 8. 6 , Paragraph 1, Clause 1 of this Law.
+(3) A person whose founded institution of higher education has been excluded from the Register shall not be allowed to participate in the foundation of another institution of higher education or to file a submission for the registration thereof for one year from the day the institution of higher education has been excluded from the Register, except cases where an institution of higher education has been excluded from the Register on the basis of Section 8.6, Paragraph 1, Clause 1 of this Law.
 
 [3 June 2004; 12 June 2009]
 
@@ -504,11 +504,11 @@ kind  has  been  performed  without  having  received  a  licence  for  the  imp
 
 (2) An institution of higher education or college is entitled to issue State-recognised diplomas for  the  acquisition  of  the  relevant  study  programme  if  the  following  conditions  have  been fulfilled:
 
-- the relevant institution of higher education or college is accredited;
+1) the relevant institution of higher education or college is accredited;
 
-- the relevant study programme is accredited;
+2) the relevant study programme is accredited;
 
-- the constitution of the institution of higher education or the by-law of the college has been approved by the Saeima or accordingly by the Cabinet.
+3) the constitution of the institution of higher education or the by-law of the college has been approved by the Saeima or accordingly by the Cabinet.
 
 (3)  After  the  opinion  of  the  Council  of  Higher  Education  regarding  accreditation  has  been received,  the  Minister  for  Education  and  Science  shall  issue  the  relevant  document  of accreditation. If the institution of higher education or college does not ensure the study base, and information base indicated in the accreditation, the study quality in conformity with the requirements referred to in Section 55, Paragraph one of this Law or in the operations of the institution of higher education or college significant violations of regulatory enactments have been  determined,  the  Minister  for  Education  and  Science  has  the  right  to  issue  an  order regarding  an  extraordinary  accreditation,  the  revocation  or  cancellation  of  the  period  of accreditation  or  accreditation  of  the  institution  of  higher  education  or  college.  Prior  to  the issuance of the order the Council of Higher Education shall provide a reasoned opinion.
 
@@ -530,21 +530,21 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 (2)  Each  institution  of  higher  education  shall  draft  a  constitution  thereof  in  which  the following shall be included:
 
-- the  name  of  the  institution  of  higher  education,  legal  address,  the  legal  status thereof, the founder of the institution of higher education and his or her legal address;
+1) the name of the institution of higher education, legal address, the legal status thereof, the founder of the institution of higher education and his or her legal address;
 
-- the basic operational directions and tasks;
+2) the basic operational directions and tasks;
 
-- the procedures for approving the constitution and the amendments thereof;
+3) the procedures for approving the constitution and the amendments thereof;
 
-- the  rights,  duties  and  tasks  of  the  representation  and  management  bodies  and decision-making bodies of the institution of higher education, the rights, duties and tasks of other  collegial  management  institutions,  the  procedures  for  the  establishment,  election  or appointment  of  these  institutions  and  the  composition  thereof,  the  terms  of  office  and  the procedures for the recall or appointment thereof;
+4) the rights, duties and tasks of the representation and management bodies and decision-making bodies of the institution of higher education, the rights, duties and tasks of other collegial management institutions, the procedures for the establishment, election or appointment of these institutions and the composition thereof, the terms of office and the procedures for the recall or appointment thereof;
 
-- the  basic  provisions  for  the  establishment,  reorganisation  and  liquidation  of  the structural  units,  branches,  institutions,  commercial  companies  of  the  institution  of  higher education, as well as the basic provisions for the operations thereof;
+5) the basic provisions for the establishment, reorganisation and liquidation of the structural units, branches, institutions, commercial companies of the institution of higher education, as well as the basic provisions for the operations thereof;
 
-- the procedures for the adoption of documents regulating the internal procedures of the institution of higher education;
+6) the procedures for the adoption of documents regulating the internal procedures of the institution of higher education;
 
-- the  procedures  for  the  reorganisation  and  liquidation  of  the  institution  of  higher education; and
+7) the procedures for the reorganisation and liquidation of the institution of higher education; and
 
-- other important regulations, which do not contradict with laws and other regulatory enactments.
+8) other important regulations, which do not contradict with laws and other regulatory enactments.
 
 (3)  The  constitutions  of  State-founded  institutions  of  higher  education  (except  the  Latvian National  Defence Academy)  and  the  amendments  thereto  shall be approved  by the constitutional assembly  of  the  relevant institution  of  higher  education  and,  upon  the recommendation of the Minister for Education and Science, it shall be approved with a law by the Saeima . The constitution of the Latvian National Defence Academy, as well as institutions of higher education founded by other persons and the amendments thereto shall be approved by the Cabinet. If amendments have been made to the constitution of an institution of higher education, the text of amendments, as well as the full text of the amended constitution in its new wording shall be submitted to the Saeima or, as the case may be, to the Cabinet.
 
@@ -564,13 +564,13 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 [[START OF PAGE 14]]
 
-### Section 10. 1 Colleges
+### Section 10.1 Colleges
 
 (1) Colleges shall be managed by a director. The director of a State-founded college shall be appointed according to competition procedures and dismissed from work by the Ministry of Education and Science or the relevant sector ministry. The authorisations of a college director commence  with  an  entry  in  the  Educational  Establishments  Register.  Such  entry  shall  be made on the basis of a submission by the college and a document certifying the appointment of a director submitted by the founders. A college shall operate on the basis of its by-law. The college council shall develop the by-law of a college. The college by-law shall be issued by the  Cabinet  as  a  Cabinet  regulation  on  the  basis  of  a  recommendation  by  the  Minister  for Education and Science. The college by-law shall be developed in accordance with this Law and the Vocational Education Law.  The  college by-law  shall include the following information:
 
 1) the name of the college, the legal address thereof, legal status, college founder and the legal address thereof;
 
-- the basic operational directions and tasks of the college;
+2) the basic operational directions and tasks of the college;
 
 3) the procedures for the development of the college by-law and the proposals for the amendment thereof;
 
@@ -632,11 +632,11 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 (1) The constitutional assembly shall be elected by secret ballot from:
 
-- the academic staff;
+1) the academic staff;
 
-- the students; and
+2) the students; and
 
-- the general staff of an institution of higher education.
+3) the general staff of an institution of higher education.
 
 (2)  The  procedures  for  the  election  of  representatives,  and  the  number  and  terms  of  office thereof shall be determined by the constitution of an institution of higher education.
 
@@ -644,9 +644,9 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 (4)  In  accordance  with  the  traditions  of  an  institution  of  higher  education,  such  names  as convention, academic meeting, etc. may be used in place of the name constitutional assembly.
 
-(5) The constitutional assembly shall elect a chairperson, a vice-chairperson (vicechairpersons) and a secretary.
+(5) The constitutional assembly shall elect a chairperson, a vice-chairperson (vice-chairpersons) and a secretary.
 
-(6)  The  constitutional  assembly  may  be  convened  by  the  rector  or  the  senate.  In  a  newlyfounded institution of higher education, the constitutional assembly shall be convened by the acting rector.
+(6) The constitutional assembly may be convened by the rector or the senate. In a newly-founded institution of higher education, the constitutional assembly shall be convened by the acting rector.
 
 [23 November 2000; 3 June 2004; 14 July 2011]
 
@@ -662,17 +662,17 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 [[START OF PAGE 16]]
 
-- accept  and  make  amendments  to  the  constitution  of  the  institution  of  higher education;
+1) accept and make amendments to the constitution of the institution of higher education;
 
-- elect and remove the rector;
+2) elect and remove the rector;
 
-- listen to the report of the rector;
+3) listen to the report of the rector;
 
-- elect  the  senate  or  approve  the  compliance  of  the  election  thereof  with  the constitution of the institution of higher education;
+4) elect the senate or approve the compliance of the election thereof with the constitution of the institution of higher education;
 
-- elect the academic arbitration court; and
+5) elect the academic arbitration court; and
 
-- approve the by-laws of the senate and the academic arbitration court.
+6) approve the by-laws of the senate and the academic arbitration court.
 
 (2) Other tasks of the constitutional assembly shall be determined by the constitution of the institution of higher education.
 
@@ -698,7 +698,7 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 (1)  A  convention  of  advisors  shall  be  formed  in  an  institution  of  higher  education.  The convention  of  advisors  shall  consult  the  senate  and  rector  in  strategic  matters  for  the development of the institution of higher education. The convention of advisors has the right to recommend the examination of issues in the senate and the constitutional assembly.
 
-(2) A convention of advisors shall be founded upon the initiative of the senate of an institution of higher education or upon the request of the Minister for Education and Science. The bylaws thereof shall be approved and the senate of the institution of higher education thereof shall elect the members.
+(2) A convention of advisors shall be founded upon the initiative of the senate of an institution of higher education or upon the request of the Minister for Education and Science. The by-laws thereof shall be approved and the senate of the institution of higher education thereof shall elect the members.
 
 (3)  A  convention  of  advisors  shall  be  convened  upon  the  proposition  of  the  chairperson thereof or not less than one third of the convention members.
 
@@ -730,7 +730,7 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 [23 November 2000; 2 March 2006]
 
-### Section 17. 1 Competence of a Rector
+### Section 17.1 Competence of a Rector
 
 A rector shall:
 
@@ -786,7 +786,7 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 (1) The structure of an institution of higher education shall be determined and the structural units  thereof  shall  be  established,  re-organised  and  liquidated  in  accordance  with  the constitution of the institution of higher education.
 
-(2) The tasks, functions and rights of the structural unit of an institution of higher education shall  be  prescribed  by  the  by-law  of  the  structural  unit  approved  by  the  senate  of  the institution of higher education. The structural units of an institution of higher education have the  right  to  open  sub-accounts.  The  opening  of  sub-accounts  and  the  utilisation  of  the resources  of  these  accounts  shall  be  regulated  by  other  laws  and  regulatory  enactments,  as well  as  regulations  approved  by  the  senate  of  the  institution  of  higher  education.  The  subaccounts  of  structural  units  shall  be  established  so  that  structural  units  may  have  the possibility of independently using financial resources and subventions. The  financial resources of structural units shall not be used for other purposes in an institution of higher education without the consent of the head of the structural unit.
+(2) The tasks, functions and rights of the structural unit of an institution of higher education shall be prescribed by the by-law of the structural unit approved by the senate of the institution of higher education. The structural units of an institution of higher education have the right to open sub-accounts. The opening of sub-accounts and the utilisation of the resources of these accounts shall be regulated by other laws and regulatory enactments, as well as regulations approved by the senate of the institution of higher education. The sub-accounts of structural units shall be established so that structural units may have the possibility of independently using financial resources and subventions. The financial resources of structural units shall not be used for other purposes in an institution of higher education without the consent of the head of the structural unit.
 
 Translation © 2012 Valsts valodas centrs (State Language Centre)
 
@@ -842,7 +842,7 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 (1) A faculty shall be established by uniting structural units for the organisation of study and scientific activities in one or several directions of science, art or a profession. A dean shall lead a faculty. The Assembly of the Faculty shall elect the dean for a time period, which does not exceed five years and not more than two times in succession. The proportion of students in  the  faculty  council  shall  be  not  less  than  20  per  cent  of  the  composition  of  such  faculty council. Student representatives shall be delegated to the faculty council by the faculty student self-governance body.
 
-(2) A faculty may be formed if, upon uniting the scientific potential, which it includes, it at least corresponds to the requirements of the Promotion Council in the relevant branch or subbranch of science.
+(2) A faculty may be formed if, upon uniting the scientific potential, which it includes, it at least corresponds to the requirements of the Promotion Council in the relevant branch or sub-branch of science.
 
 (3) If it is not possible to comply with the requirements regarding scientific potential in the new  direction  of  higher  education,  the  structural  unit  corresponding  to  a  faculty  shall  be referred to as a department. A division shall not have the right to elect lecturers.
 
@@ -856,11 +856,11 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 (1) The academic staff of an institution of higher education shall consist of:
 
-- the  academic  staff  -  employees  of  the  relevant  institution  of  higher  education elected to academic positions;
+1) the academic staff - employees of the relevant institution of higher education elected to academic positions;
 
-- the general staff of the institution of higher education; and
+2) the general staff of the institution of higher education; and
 
-- students, including master's programme students, doctoral students and residents.
+3) students, including master's programme students, doctoral students and residents.
 
 (2) The rights and duty of the staff of an institution of higher education shall be to promote the freedom of training, study and research and to promote transparency in the administration of the institution of higher education and the settling of the matters thereof. The staff of an institution  of  higher  education  shall  fulfil  its  work  duties  so  that  the  institution  of  higher education is able to implement its tasks, so that the rights of any other person are not offended and the fulfilment of position or work duties is not disturbed.
 
@@ -890,13 +890,13 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 (1) The staff of an institution of higher education shall consist of:
 
-- professors, associate professors;
+1) professors, associate professors;
 
-- docents, senior researchers;
+2) docents, senior researchers;
 
-- lecturers, researchers; and
+3) lecturers, researchers; and
 
-- assistants.
+4) assistants.
 
 (2) The academic staff of an institution of higher education shall conduct scientific research and participate in the educating of students. The amount of tasks in each of the types of basic activities shall be determined by the institution of higher education.
 
@@ -924,15 +924,15 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 (4) The main tasks of professors shall be:
 
-- the  reading  of  highly  qualified  lectures,  the  supervision  of  studies,  lectures  and examinations in his or her study course;
+1) the reading of highly qualified lectures, the supervision of studies, lectures and examinations in his or her study course;
 
-- the supervision of research works in the sub-field of science or the supervision of artistic creation in a field, which conforms to the title of the position of professor;
+2) the supervision of research works in the sub-field of science or the supervision of artistic creation in a field, which conforms to the title of the position of professor;
 
-- the supervision of doctoral studies and research works in the sub-field of science or the supervision of artistic creation in a field,  which conforms to the title of the position of professor;
+3) the supervision of doctoral studies and research works in the sub-field of science or the supervision of artistic creation in a field, which conforms to the title of the position of professor;
 
-- participation  in  the  evaluation  of  the  work  and  quality  of  study  programmes, institutions of higher education and the structural units thereof; and
+4) participation in the evaluation of the work and quality of study programmes, institutions of higher education and the structural units thereof; and
 
-- the training of the new generation of academics, artists and lecturers. [23 November 2000; 20 May 2003]
+5) the training of the new generation of academics, artists and lecturers. [23 November 2000; 20 May 2003]
 
 ### Section  29.  Professor  Positions  in  State  and  Local  government  Institutions  of  Higher Education [2 March 2006]
 
@@ -948,11 +948,11 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 (5) The main tasks of an associate professor shall be:
 
-- the conducting of research work in a sub-branch of science or the creation of works of art in a branch which conforms with the title of the position of associate professor;
+1) the conducting of research work in a sub-branch of science or the creation of works of art in a branch which conforms with the title of the position of associate professor;
 
-- the  supervision  of  research  work  for  the  acquisition  of  doctoral  degrees  and master's degrees; and
+2) the supervision of research work for the acquisition of doctoral degrees and master's degrees; and
 
-- the provision and management of study work.
+3) the provision and management of study work.
 
 [23 November 2000]
 
@@ -1094,21 +1094,23 @@ During a period of temporary absence, if it does not exceed two years, an associ
 
 ### Section 42. Vacations of Academic Staff
 
-- Each  year  academic  staff has the right to  a paid vacation of eight  weeks, but every six years  -  a  paid  academic  vacation  of  six  calendar  months  for  scientific  research  or  the conducting of scientific research work outside his or her working place.
+(1) Each year academic staff has the right to a paid vacation of eight weeks, but every six years – a paid academic vacation of six calendar months for scientific research or the conducting of scientific research work outside his or her working place.
 
-- Academic staff has the right to receive a one-time paid study educational leave of three months for the drafting of a doctoral thesis.
+(2) Academic staff has the right to receive a one-time paid study educational leave of three months for the drafting of a doctoral thesis.
 
-- Professors, associate professors and docents have the right to demand an unpaid vacation for  a  period  of  up  to  24  months  during  one  period  of  election  in  order  to  work  as  visiting professors or visiting lecturers in academic positions in other institutions of higher education. [23 November 2000]
+(3) Professors, associate professors and docents have the right to demand an unpaid vacation for a period of up to 24 months during one period of election in order to work as visiting professors or visiting lecturers in academic positions in other institutions of higher education.
+
+[23 November 2000]
 
 ### Section 43. General Staff of an Institution of Higher Education
 
-- The  general  staff  of  an  institution  of  higher  education  shall  be  administrative  staff, auxiliary  teaching  staff,  technical,  economic  staff  and  other  staff,  with  the  exception  of academic staff.
+(1) The general staff of an institution of higher education shall be administrative staff, auxiliary teaching staff, technical, economic staff and other staff, with the exception of academic staff.
 
-- The administrative staff of an institution of higher education shall be the rector, Pro-rector, Director  (Executive  Director),  Dean  and  other  officials  whose  basic  functions  include administrative work.
+(2) The administrative staff of an institution of higher education shall be the rector, Pro-rector, Director (Executive Director), Dean and other officials whose basic functions include administrative work.
 
-- The procedures for hiring and dismissing from work the general staff of an institution of higher  education  shall  be  determined  by  the  institution  of  higher  education,  observing  the provisions of this Law and other regulatory enactments.
+(3) The procedures for hiring and dismissing from work the general staff of an institution of higher education shall be determined by the institution of higher education, observing the provisions of this Law and other regulatory enactments.
 
-- Remuneration for general staff of an institution of higher education or college, who are not pedagogues  in  compliance  with  the  list of pedagogical  professions, in  State-founded institutions of higher education and colleges shall be determined in accordance with the Law On Remuneration of Officials and Employees of State and Local Government Authorities.
+(4) Remuneration for general staff of an institution of higher education or college, who are not pedagogues in compliance with the list of pedagogical professions, in State-founded institutions of higher education and colleges shall be determined in accordance with the Law On Remuneration of Officials and Employees of State and Local Government Authorities.
 
 [23 November 2000; 1 December 2009]
 
@@ -1118,17 +1120,17 @@ During a period of temporary absence, if it does not exceed two years, an associ
 
 ### Section 44. Students of Institutions of Higher Education and Colleges
 
-- The students of institutions of higher education shall be:
+(1) The students of institutions of higher education shall be:
 
-- students of the bachelor degree study programmes;
+1) students of the bachelor degree study programmes;
 
-- students of the professional study programmes;
+2) students of the professional study programmes;
 
-- students of the master's degree study programmes (master's programme students);
+3) students of the master’s degree study programmes (master’s programme students);
 
-- residents in medicine; and
+4) residents in medicine; and
 
-- doctoral students.
+5) doctoral students.
 
 (2) College students shall be students of the professional study programmes.
 
@@ -1160,13 +1162,13 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 (3)  For  full-time  and  part-time  bachelor  and  professional  study  programmes  the  admission requirements  of  which  is  a  previously  acquired  secondary  education,  students  shall  be admitted  in  an  open  and  equal  competition  on  the  basis  of  the  results  of  the  centralised examinations, except persons who have acquired a secondary education up to 2004, as well as persons who have acquired a secondary education abroad or persons with special needs. The content and procedural requirements for centralised examinations shall be developed by the Ministry of Education and Science, after co-ordination with the Council of Higher Education, and  approved  by  the  Cabinet.  An  institution  of  higher  education  in  co-ordinating  with  the Council of Higher Education may specify the procedures by which persons are admitted to such study programmes that have not completed centralised examinations.
 
-(3 1 ) In addition to the persons referred to in Paragraph three of this Section also such persons have the right to be admitted to a study programme in the first year following the acquisition of a secondary education, to whom such right has been determined by the Cabinet upon the recommendation of an individual Cabinet member due to the special meritorious service of the  persons  in  question for  the  benefit  of  Latvia,  unless  these  persons  have  been  exempted from State examinations of secondary education in accordance with the procedures specified by regulatory enactments.
+(3¹) In addition to the persons referred to in Paragraph three of this Section also such persons have the right to be admitted to a study programme in the first year following the acquisition of a secondary education, to whom such right has been determined by the Cabinet upon the recommendation of an individual Cabinet member due to the special meritorious service of the persons in question for the benefit of Latvia, unless these persons have been exempted from State examinations of secondary education in accordance with the procedures specified by regulatory enactments.
 
 (4)  After  co-ordination  with  the  Council  of  Higher  Education,  an  institution  of  higher education  may  determine  the  additional  requirements  regarding  special  prior  education, particular suitability and preparedness or compliance with other conditions.
 
 (5) Institutions of higher education and colleges shall, up to the current 1 November, notify the  National  Centre  for  Education  and  shall  publicise  (also  on  the  Internet  home  page)  the admission requirements of study programmes for the following academic year.
 
-(6)  Each  year  the  Cabinet  shall  determine  the  initial  time  period  for  the  registration  and admission  of  entrants  in  the  first  year  after  the  acquisition  of  secondary  education.  An institution  of  higher  education  shall  not  have  the  right  to  enter  into  agreements  related  to studies with the potential entrants prior to the initial term of admission.
+(6) Each year the Cabinet shall determine the initial time period for the registration and admission of entrants in the first year after the acquisition of secondary education. An
 
 Translation © 2012 Valsts valodas centrs (State Language Centre)
 
@@ -1176,23 +1178,25 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 [[START OF PAGE 28]]
 
-(7)  An  institution  of  higher  education  and  college  shall  prepare  a  personal  file  for  each student. The following documents, at least, shall be included in the personal file:
+institution of higher education shall not have the right to enter into agreements related to studies with the potential entrants prior to the initial term of admission.
 
-- a copy of a document attesting to secondary education;
+(7) An institution of higher education and college shall prepare a personal file for each student. The following documents, at least, shall be included in the personal file:
 
-- copies of documents attesting to higher education acquired beforehand;
+1) a copy of a document attesting to secondary education;
 
-- copies of a passport or identification card;
+2) copies of documents attesting to higher education acquired beforehand;
 
-- the  study  agreement  with  the  institution  of  higher  education  or  college  regarding studies in the selected study programme;
+3) copies of a passport or identification card;
 
-- documents,  which  attest  to  the  study  process  and  results  of  the  student  in  other institutions of higher education or colleges, as well as the acquisition of study programmes or a part thereof if the credit points acquired in another institution of higher education, shall be counted in the study programme on the basis of these documents;
+4) the study agreement with the institution of higher education or college regarding studies in the selected study programme;
 
-- documents of the student regarding the process of studies (study card);
+5) documents, which attest to the study process and results of the student in other institutions of higher education or colleges, as well as the acquisition of study programmes or a part thereof if the credit points acquired in another institution of higher education, shall be counted in the study programme on the basis of these documents;
 
-- copies or true copies  of educational documents issued by an institution of higher education or college and copies of the issued academic statements; and
+6) documents of the student regarding the process of studies (study card);
 
-- a copy of the residence permit of the Republic of Latvia if the student needs such a permit.
+7) copies or true copies of educational documents issued by an institution of higher education or college and copies of the issued academic statements; and
+
+8) a copy of the residence permit of the Republic of Latvia if the student needs such a permit.
 
 (8) The Cabinet shall determine the procedures for preparing and updating the personal file of a student.
 
@@ -1216,13 +1220,13 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 (1) A person may be excluded from the list of students if:
 
-- the person him or herself wishes it to be so;
+1) the person him or herself wishes it to be so;
 
-- it  has  been  ascertained  that  admission  thereto  has  been  influenced  by  deception, corrupt practices or other behaviour with which the principle of the equality of applicants has been violated;
+2) it has been ascertained that admission thereto has been influenced by deception, corrupt practices or other behaviour with which the principle of the equality of applicants has been violated;
 
-- this person has not passed examinations or has not performed other tasks of studies within the time period determined by the institution of higher education; or
+3) this person has not passed examinations or has not performed other tasks of studies within the time period determined by the institution of higher education; or
 
-- this person has violated the internal rules of procedure of the institution of higher education.
+4) this person has violated the internal rules of procedure of the institution of higher education.
 
 Translation © 2012 Valsts valodas centrs (State Language Centre)
 
@@ -1242,25 +1246,25 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 (1) Students have the right:
 
-- to  acquire  an  academic  or  professional,  or  also  an  academic  and  professional education;
+1) to acquire an academic or professional, or also an academic and professional education;
 
-- to  use  the  premises,  libraries,  facilities,  equipment,  objects  of  culture,  sport  and medicine,  etc.  of  an  institution  of  higher  education  in  accordance  with  the  prescribed procedures;
+2) to use the premises, libraries, facilities, equipment, objects of culture, sport and medicine, etc. of an institution of higher education in accordance with the prescribed procedures;
 
-- to suspend and resume studies in accordance with the prescribed procedures;
+3) to suspend and resume studies in accordance with the prescribed procedures;
 
-- to  implement  the  rights  related  to  freedom  of  studies,  research  work,  and  artistic creation in accordance with Section 6 of this Law ;
+4) to implement the rights related to freedom of studies, research work, and artistic creation in accordance with Section 6 of this Law ;
 
 5) to receive information in all matters, which are directly related to their studies and possible career;
 
-- to express their ideas and opinions openly in an institution of higher education;
+6) to express their ideas and opinions openly in an institution of higher education;
 
-- to elect and to be elected to the self-governance body of students, to participate in all levels of self-governance bodies of an institution of higher education;
+7) to elect and to be elected to the self-governance body of students, to participate in all levels of self-governance bodies of an institution of higher education;
 
 8) to attend learning activities in other institutions of higher education as listeners and to take the necessary examinations in accordance with the prescribed procedures; and
 
-- to found associations, hobby groups and clubs.
+9) to found associations, hobby groups and clubs.
 
-(1 1 )  Following  retirement  from  the  mandatory  military  service,  but  not  later  than  until  31 December 2008, students of institutions of higher education and colleges, who had voluntarily applied for mandatory military service to which the Ministry of Defence had consented, have the right to recommence studies in the study programme commenced prior to the service.
+(1¹) Following retirement from the mandatory military service, but not later than until 31 December 2008, students of institutions of higher education and colleges, who had voluntarily applied for mandatory military service to which the Ministry of Defence had consented, have the right to recommence studies in the study programme commenced prior to the service.
 
 (2)  A  student  self-governance  body  shall  represent  the  interests  of  the  students  of  an institution of higher education in relations with State authorities.
 
@@ -1284,17 +1288,17 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 [[START OF PAGE 30]]
 
-(1 1 ) In accredited institutions of higher education and colleges at least one eighth of the places financed  from  the  State  budget  shall  be  reserved  for  persons  who  have  been  retired  from mandatory military service and have been admitted to one of the study programmes financed from the State budget not later than two years after retirement.
+(1¹) In accredited institutions of higher education and colleges at least one eighth of the places financed from the State budget shall be reserved for persons who have been retired from mandatory military service and have been admitted to one of the study programmes financed from the State budget not later than two years after retirement.
 
 (2) The study fee for study places, which are not financed from the funds of the State budget, shall  be  covered  by  students,  legal  persons  or  natural  persons,  entering  into  a  relevant agreement with the institution of higher education and college. Financial resources from the study fees shall be transferred to the special budget account of the State institution of higher education and college and shall only be used for:
 
-- the development of the institution of higher education and college;
+1) the development of the institution of higher education and college;
 
-- the purchasing of teaching aids and scientific research equipment;
+2) the purchasing of teaching aids and scientific research equipment;
 
-- the purchasing of equipment; and
+3) the purchasing of equipment; and
 
-- the material stimulation of the academic and general staff of the institution of higher education and college and students, as well as the work remuneration of the staff.
+4) the material stimulation of the academic and general staff of the institution of higher education and college and students, as well as the work remuneration of the staff.
 
 (3) The students referred to in Paragraph one of this Section shall be assigned scholarships following the procedures prescribed by the Cabinet.
 
@@ -1302,7 +1306,7 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 ### Section 53. Student Self-Governance Bodies
 
-(1)  The  students  of  an  institution  of  higher  education  or  college  shall  have  their  own  selfgovernance  body  -  an  elected,  independent  body  representing  the  rights  and  interests  of students in an institution of higher education or college. It shall operate in accordance with a by-law, which shall be developed by students and approved by the senate or college council. The senate or college council may refuse to approve the by-law only due to legal reasons.
+(1) The students of an institution of higher education or college shall have their own self-governance body – an elected, independent body representing the rights and interests of students in an institution of higher education or college. It shall operate in accordance with a by-law, which shall be developed by students and approved by the senate or college council. The senate or college council may refuse to approve the by-law only due to legal reasons.
 
 (2) [2 March 2006]
 
@@ -1310,7 +1314,7 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 1) defend and represent the interests of students in matters of academic, material and cultural life in the institution of higher education and other State authorities;
 
-- represent  the  students  of  the  institution  of  higher  education  in  Latvia  and  foreign states; and
+2) represent the students of the institution of higher education in Latvia and foreign states; and
 
 3) determine the procedures for the election of students to the collegial bodies of the institution of higher education.
 
@@ -1344,31 +1348,31 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 (1) A study programme shall include all the requirements necessary for the acquisition of one academic  degree  or  professional  qualification.  A  study  programme  shall  be  regulated  by  a special document - a description of the study content and implementation which:
 
-- determines the requirements regarding previous education;
+1) determines the requirements regarding previous education;
 
-- 1 1 ) determines to which study direction the relevant study programme conforms;
+1¹) determines to which study direction the relevant study programme conforms;
 
-- in accordance with the level and type of education, determines:
+2) in accordance with the level and type of education, determines:
 
-a)  the  goals  for  implementation  of  the  particular  study  programme  and  the planned  study  results  upon  completion  of  the  study  programme,  including  the  anticipated study courses, study modules and the planned study results thereof;
+a) the goals for implementation of the particular study programme and the planned study results upon completion of the study programme, including the anticipated study courses, study modules and the planned study results thereof;
 
-- the content of the offered education;
+b) the content of the offered education;
 
-- the amounts of the mandatory, limited elective and elective part and of study programmes and the division of credit points between them; and
+c) the amounts of the mandatory, limited elective and elective part and of study programmes and the division of credit points between them; and
 
-- the criteria of education for the achievement and evaluation of study results and the forms and procedures for the testing thereof;
+d) the criteria of education for the achievement and evaluation of study results and the forms and procedures for the testing thereof;
 
-- includes  a  list  of  the  academic  staff  involved  in  the  implementation  of  the programme, their qualification and intended duties. Not less than five professors and associate professors  altogether,  who  are  elected  to  academic  positions  in  the  relevant  institution  of higher education, shall take part in the implementation of the compulsory part and the limited elective part of academic study programmes, except the cases provided for in Paragraph two of this Section;
+3) includes a list of the academic staff involved in the implementation of the programme, their qualification and intended duties. Not less than five professors and associate professors altogether, who are elected to academic positions in the relevant institution of higher education, shall take part in the implementation of the compulsory part and the limited elective part of academic study programmes, except the cases provided for in Paragraph two of this Section;
 
-- includes  a  listing  of  the  structural  units  (departments,  groups  of  professors, laboratories, institutes, etc.) involved in the implementation of the programme, indicating the tasks thereof in the implementation of the particular programme;
+4) includes a listing of the structural units (departments, groups of professors, laboratories, institutes, etc.) involved in the implementation of the programme, indicating the tasks thereof in the implementation of the particular programme;
 
-- includes a description of the required auxiliary staff, indicating the tasks thereof;
+5) includes a description of the required auxiliary staff, indicating the tasks thereof;
 
-- includes a description of the material base required for the implementation of the programme;
+6) includes a description of the material base required for the implementation of the programme;
 
-- assesses the costs of the programme; and
+7) assesses the costs of the programme; and
 
-- includes  a  justification  that  the  study  programme  conforms  to  the  development strategy and available resources of an instution of higher education or college.
+8) includes a justification that the study programme conforms to the development strategy and available resources of an instution of higher education or college.
 
 (2)  Academic  study  programmes  (study  programmes  for  bachelor,  master's  and  doctoral degrees)  shall  be  provided  for  not  less  than  250  full-time  students.  Academic  study programmes  (study  programmes  for  bachelor,  master's  and  doctoral  degrees)  provided  for less than 250 full-time students may be implemented and less than five institution of higher education  professors  and  associate  professor  may  take  part  in  the  implementation  of  the compulsory part and the limited elective part of these programmes if a relevant opinion of the Council of Higher Education has been received.
 
@@ -1388,7 +1392,7 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 (6) [14 July 2011]
 
-(6 1 ) [14 July 2011]
+(6¹) [14 July 2011]
 
 (7) [14 July 2011]
 
@@ -1396,27 +1400,29 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 [23 November 2000; 2 March 2006; 14 July 2011]
 
-### Section 55. 1 Joint Study Programme
+### Section 55.1 Joint Study Programme
 
 (1)  An  institution  of  higher  education  together  with  a  partner  institution,  which  may  be another  accredited  institution  of  higher  education  in  Latvia  or  an  institution  of  higher education  recognised  by  the  relevant  state  in  a  foreign  country  (hereinafter  -  partner institution),  is  entitled  to  develop  a  study  programme  and  take  part  in  the  implementation thereof (hereinafter - joint study programme), by entering into a relevant written agreement.
 
 (2) A joint study programme shall comply with the following conditions:
 
-1)  it  shall  be  formed  by  the  parts  of  study  programmes  of  the  same  level  of  higher education of an institution of higher education and partner institutions;
+1) it shall be formed by the parts of study programmes of the same level of higher education of an institution of higher education and partner institutions;
 
-- the institution of higher education  and  partner institutions involved  in the implementation thereof shall each implement at least one tenth of the entire relevant study programme;
+2) the institution of higher education and partner institutions involved in the implementation thereof shall each implement at least one tenth of the entire relevant study programme;
 
-- there are unified requirements in respect of the implementation of the joint study programme,  the  final  examinations,  the  granting  of  degrees  to  be  aquired  in  studies  and professional  qualifications;  the  parts  of  the  joint  study  programme  together  form  a  unified content and consecutive joint study programme;
+3) there are unified requirements in respect of the implementation of the joint study programme, the final examinations, the granting of degrees to be aquired in studies and professional qualifications; the parts of the joint study programme together form a unified content and consecutive joint study programme;
 
-- an institution of higher education and partner institutions have jointly developed a quality assurance system for the joint study programme;
+4) an institution of higher education and partner institutions have jointly developed a quality assurance system for the joint study programme;
 
-- mobility of students is ensured, which also allows the acquisition of a commensurate  and  essential  part  of  the  joint  study  programme  in  one  or  several  partner institutions;
+5) mobility of students is ensured, which also allows the acquisition of a commensurate and essential part of the joint study programme in one or several partner institutions;
 
 6) mobility of the academic staff is ensured in order that they might also teach at least at one partner institution;
 
 7) a degree or professional qualification to be granted as a result of the acquisition of the joint study programme is specified, complying with the system of degrees or professional qualification to be acquired in studies, specified in the regulatory enactments of Latvia; and
 
-8) the content of the diploma, as well as of the annex appended to the diploma to be issued jointly by an institution of higher education and partner institutions has been specified. (3) In order to commence the implementation of a joint study programme, a licence shall be received.  The  Cabinet  shall  determine  the  provisions  and  procedures  for  the  issuance  of  a licence.  The  same  conditions  shall  be  applied  to  joint  study  programmes,  the  content, implementation and licensing thereof as are applied to other study programmes of the same level in Latvia, except the conditions of Section 55, Paragraph one, Clause 3 and Paragraph three  of  this  Law  in  respect  of  the  academic  staff  in  academic  study  programmes.  If  the partner  institution  of  an  institution  of  higher  education  of  Latvia  is  a  foreign  institution  of higher  education,  then,  when  submitting  a  submission  to  the  Ministry  of  Education  and Science regarding the licensing of a joint study  programme, a document certifying that the partner  institution  is  recognised  in  the  relevant  country  shall  also  be  appended  to  the submission  of  the  institution  of  higher  education.  Within  the  scope  of  licensing  the compliance of the study programme with the conditions of Paragraph two of this Section shall also be evaluated.
+8) the content of the diploma, as well as of the annex appended to the diploma to be issued jointly by an institution of higher education and partner institutions has been specified.
+
+(3) In order to commence the implementation of a joint study programme, a licence shall be received. The Cabinet shall determine the provisions and procedures for the issuance of a
 
 Translation © 2012 Valsts valodas centrs (State Language Centre)
 
@@ -1426,7 +1432,9 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 [[START OF PAGE 33]]
 
-(4)  A part of the joint study programme implemented by an institution of higher education shall be evaluated by the Assessment Committee within the scope of the accreditation of the relevant  study  direction  of  the  institution  of  higher  education  in  accordance  with  the procedures specified in this Law and other regulatory enactments. If a partner institution is a foreign  institution  of  higher  education,  the  part  of  the  joint  study  programme  implemented thereby shall be recognised in accordance with the procedures specified by the relevant state.
+licence. The same conditions shall be applied to joint study programmes, the content, implementation and licensing thereof as are applied to other study programmes of the same level in Latvia, except the conditions of Section 55, Paragraph one, Clause 3 and Paragraph three of this Law in respect of the academic staff in academic study programmes. If the partner institution of an institution of higher education of Latvia is a foreign institution of higher education, then, when submitting a submission to the Ministry of Education and Science regarding the licensing of a joint study programme, a document certifying that the partner institution is recognised in the relevant country shall also be appended to the submission of the institution of higher education. Within the scope of licensing the compliance of the study programme with the conditions of Paragraph two of this Section shall also be evaluated.
+
+(4) A part of the joint study programme implemented by an institution of higher education shall be evaluated by the Assessment Committee within the scope of the accreditation of the relevant study direction of the institution of higher education in accordance with the procedures specified in this Law and other regulatory enactments. If a partner institution is a foreign institution of higher education, the part of the joint study programme implemented thereby shall be recognised in accordance with the procedures specified by the relevant state.
 
 (5) When accrediting a study direction in an institution of higher education to which the joint study programme conforms, together with the documents necessary for accreditation specified in regulatory enactments, the institution of higher education shall also submit documents to the  Ministry  of  Education  and  Science,  which  certify  that  the  joint  study  programme implemented  by  a  partner  institution  is  recognised  in  accordance  with  the  procedures specified by the relevant state.
 
@@ -1442,11 +1450,11 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 [14 July 2011]
 
-### Section 55. 2 Licensing of a Study Programme
+### Section 55.2 Licensing of a Study Programme
 
 (1) A licence shall be received for the implementation of any study programme. Within one month  after  receipt  of  a  licence  the  study  programme  shall  be  entered  in  the  Register  of Education Programmes. Within one year after licensing of a study programme an institution of higher education or college shall start implementation of the relevant study programme.
 
-(2)  If  a  study  programme  complies  with  the  study  direction  of  an  institution  of  higher education or college and the requirements of other regulatory enactments, a decision shall be taken on the licensing thereof and the Ministry of Education and Science shall issue a licence signed  by  the  Minister  for  Education  and  Science  to  the  institution  of  higher  education  or college.
+(2) If a study programme complies with the study direction of an institution of higher education or college and the requirements of other regulatory enactments, a decision shall be taken on the licensing thereof and the Ministry of Education and Science shall issue a licence
 
 Translation © 2012 Valsts valodas centrs (State Language Centre)
 
@@ -1456,19 +1464,21 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 [[START OF PAGE 34]]
 
-(3) If an institution of higher education or college submits a study programme in a new study direction of the institution of higher education or college for licensing, the Cabinet shall take a decision  on  the  opening  of  the  new  study  direction  in  the  relevant  institution  of  higher education or college. The Cabinet shall evaluate the resources available to the institution of higher education or college and the compliance with the State development priorities. After taking  of  the  referred  to  decision  the  licensing  of  the  relevant  study  programme  shall  be decided.
+signed by the Minister for Education and Science to the institution of higher education or college.
+
+(3) If an institution of higher education or college submits a study programme in a new study direction of the institution of higher education or college for licensing, the Cabinet shall take a decision on the opening of the new study direction in the relevant institution of higher education or college. The Cabinet shall evaluate the resources available to the institution of higher education or college and the compliance with the State development priorities. After taking of the referred to decision the licensing of the relevant study programme shall be decided.
 
 (4) A decision on the refusal to licence a study programme shall be taken, if:
 
-- the  submitted  documents  do  not  comply  with  the  requirements  of  regulatory enactments;
+1) the submitted documents do not comply with the requirements of regulatory enactments;
 
-- the qualifications of the academic staff do not comply with the conditions for the implementation of study programmes or the requirements of regulatory enactments;
+2) the qualifications of the academic staff do not comply with the conditions for the implementation of study programmes or the requirements of regulatory enactments;
 
-- the  study  and  informative  base  (including  the  library),  the  financial  and  material technical base do not  comply  with the conditions for the implementation of study programmes;
+3) the study and informative base (including the library), the financial and material technical base do not comply with the conditions for the implementation of study programmes;
 
-- the content and mechanism for the implementation of the study programme to be licensed has not been drawn up;
+4) the content and mechanism for the implementation of the study programme to be licensed has not been drawn up;
 
-- information not corresponding with the actual circumstances has been provided;
+5) information not corresponding with the actual circumstances has been provided;
 
 6) the competent authorities have detected violations of regulatory enactments in the activities of an institution of higher education or college during the preceding year, prior to the day of the taking of the decision, and they have not been eliminated within the time period specified by the authorities; or
 
@@ -1478,13 +1488,13 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 (6) It shall be decided to cancel a licence for a study programme, if:
 
-- information not corresponding with the actual circumstances has been provided;
+1) information not corresponding with the actual circumstances has been provided;
 
-- an  institution  of  higher  education  or  college  has  not  begun  implementing  the licensed study programme within one year after receipt of the licence;
+2) an institution of higher education or college has not begun implementing the licensed study programme within one year after receipt of the licence;
 
-- violations  of  regulatory  enactments  in  the  activities  of  an  institution  of  higher education or college have been ascertained in relation to the licensed study programme;
+3) violations of regulatory enactments in the activities of an institution of higher education or college have been ascertained in relation to the licensed study programme;
 
-4)  within two  years  from the day of the commencement of the implementation of a study programme, accreditation of the study direction corresponding to the study programme has not commenced in accordance with the requirements of Section 55. 3 of this Law;
+4) within two years from the day of the commencement of the implementation of a study programme, accreditation of the study direction corresponding to the study programme has not commenced in accordance with the requirements of Section 55.3 of this Law;
 
 5) an institution of higher education or college does not provide complete information to the Ministry of Education and Science upon the request thereby, within 30 working days, on matters related to the provision of the study process, as well as on study and informative bases  (including  the  library),  institutional,  material  technical  or  financial  base  of  the institution of higher education or college;
 
@@ -1508,7 +1518,7 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 [14 July 2011]
 
-### Section 55. 3 Accreditation of the Study Direction
+### Section 55.3 Accreditation of the Study Direction
 
 (1) A study direction of an institution of higher education or college shall be accredited within two  years  after  commencement  of  the  implementation  of  the  first  study  programme corresponding to this study direction.
 
@@ -1550,7 +1560,7 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 ### Section 56. Regulation of Studies
 
-(1)  Studies  in  an  institution  of  higher  education  and  college  shall  take  place  in  accordance with the study programmes, which have been developed, approved and licensed in accordance with the procedures prescribed by this Law. Study programmes shall be implemented in fulltime and part-time studies.
+(1) Studies in an institution of higher education and college shall take place in accordance with the study programmes, which have been developed, approved and licensed in accordance with the procedures prescribed by this Law. Study programmes shall be implemented in full-time and part-time studies.
 
 (2) This Law shall not regulate the content and the requirements to be met in examinations, which  are  related  to  the  specific  area  of  activities  of  medicine,  sport,  art,  police,  border guards, fire-fighting and rescue, probation, penitentiary work, State defence and other relevant institutions  of  higher  education  or  colleges.  The  concrete  institution  of  higher  education constitution or college by-law shall determine such requirements.
 
@@ -1576,35 +1586,35 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 [23 November 2000; 2 March 2006; 14 July 2011]
 
-### Section 56. 1 Study Course
+### Section 56.1 Study Course
 
 (1)  Institutions  of  higher  education  and  colleges  shall  determine  the  procedures  by  which study courses shall be developed and included in study programmes, in order to ensure the achievement of the common study results. The description of a study course shall be prepared and  approved  in  accordance  with  the  procedures  specified  by  the  institution  of  higher education and college.
 
 (2) The study course description shall:
 
-- define  the  requirements  for  the  commencement  of  the  acquisition  of  the  study course;
+1) define the requirements for the commencement of the acquisition of the study course;
 
-- determine  the  aims  for  the  implementation  of  the  study  course  and  the  planned study results;
+2) determine the aims for the implementation of the study course and the planned study results;
 
-- outline  the  content  of  the  study  course  necessary  for  the  achievement  of  study results,  contain  the  study  course  calendar, mandatory  and supplementary literature, indicate other sources of information;
+3) outline the content of the study course necessary for the achievement of study results, contain the study course calendar, mandatory and supplementary literature, indicate other sources of information;
 
-- describe the organisation and tasks for the independent work of students; and
+4) describe the organisation and tasks for the independent work of students; and
 
-- determine the evaluation criteria of study results.
+5) determine the evaluation criteria of study results.
 
 [14 July 2011]
 
-### Section 56. 2 Study Module
+### Section 56.2 Study Module
 
 (1)  A  study  module  may  be  developed  for  the  structuring  and  transparency  of  the  study programme, the establishment of a flexible study route and for the professional orientation of students, ensuring the planning thereof in a manner suitable also for lifelong learning.
 
 (2) The description of the study module shall determine:
 
-- the study results achievable as a result of the acquisition of the study module;
+1) the study results achievable as a result of the acquisition of the study module;
 
-- the plan of the study work time; and
+2) the plan of the study work time; and
 
-- the study courses included in the study module.
+3) the study courses included in the study module.
 
 [14 July 2011]
 
@@ -1644,19 +1654,19 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 (1) In accordance with the State-accredited study programme, the following shall be acquired in institutions of higher education:
 
-- academic education and the following degrees:
+1) academic education and the following degrees:
 
-- a bachelor degree (academic degree),
+a) a bachelor degree (academic degree),
 
-- a master's degree (academic degree), and
+b) a master’s degree (academic degree), and
 
-- a doctoral degree (scientific degree); and
+c) a doctoral degree (scientific degree); and
 
-- fourth-  and  fifth-level  professional  qualification  and  the  following  professional degrees:
+2) fourth- and fifth-level professional qualification and the following professional degrees:
 
-- bachelor degree, and
+a) bachelor degree, and
 
-- master's degree.
+b) master’s degree.
 
 (2)  The  professional  qualification,  which  may  be  acquired  by  finishing  a  State-accredited higher education study programme with a duration of at least four years, shall be determined by the Cabinet Regulations.
 
@@ -1666,7 +1676,7 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 [23 November 2000; 14 July 2011]
 
-### Section 59. 1 Diploma Register
+### Section 59.1 Diploma Register
 
 (1)  In  the  Diploma  Register  shall  be  recorded  information  regarding  all  higher  education diplomas, which are issued by institutions of higher education, colleges and foreign institution of higher education branches registered in the Register of Institutions of Higher Education and the  colleges  section  of  the  Register  of  Educational  Establishments.  The  Diploma  Register shall be organised by an official authorised for this by the institution of higher education or college. The Diploma Register shall be organised electronically.
 
@@ -1680,15 +1690,15 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 (2) In the Diploma Register regarding a diploma shall be recorded the following information:
 
-- name of the diploma;
+1) name of the diploma;
 
-- diploma number;
+2) diploma number;
 
-- the given name and surname of the person to whom the diploma is issued;
+3) the given name and surname of the person to whom the diploma is issued;
 
-- the  name  of  the  institution  of  higher  education,  college  and  foreign  institution  of higher education branch, which issued the diploma; and
+4) the name of the institution of higher education, college and foreign institution of higher education branch, which issued the diploma; and
 
-- the date of issue of the diploma.
+5) the date of issue of the diploma.
 
 (3) The institutions of higher education, colleges and foreign institution of higher education branches  referred  to  in  Paragraph  two  of  this  Section  shall  submit  electronically  to  the Diploma Register two times a year (in March and September) information regarding higher education diplomas issued in the previous half-year.
 
@@ -1696,7 +1706,7 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 [2 March 2006; 14 July 2011]
 
-### Section 59. 2 Studies outside Study Programmes
+### Section 59.2 Studies outside Study Programmes
 
 (1) A person has the right to register at an institution of higher education or college for the acquisition  of  an  individual  study  module  or  study  course.  The  procedures  for  registration shall be determined by the relevant institution of higher education or college.
 
@@ -1768,43 +1778,47 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 (2) The Council of rectors shall:
 
-- formulate  proposals  for  the  Minister  for  Education  and  Science  regarding  the development of higher education;
+1) formulate proposals for the Minister for Education and Science regarding the development of higher education;
 
-- discuss  issues  regarding  the  establishment  of  common  study  programmes,  the utilisation of the academic staff and material base;
+2) discuss issues regarding the establishment of common study programmes, the utilisation of the academic staff and material base;
 
-- prepare proposals and opinions regarding draft laws and other regulatory enactments in the field of higher education;
+3) prepare proposals and opinions regarding draft laws and other regulatory enactments in the field of higher education;
 
-- recommend  experts  for  the  accreditation  of  institutions  of  higher  education  and particular study direction;
+4) recommend experts for the accreditation of institutions of higher education and particular study direction;
 
-- formulate proposals for the accreditation of institutions of higher education on the basis of the results of an expert-examination;
+5) formulate proposals for the accreditation of institutions of higher education on the basis of the results of an expert-examination;
 
-- prepare proposals regarding the distribution of State budget resources to institutions of higher education;
+6) prepare proposals regarding the distribution of State budget resources to institutions of higher education;
 
-- represent the institutions of higher education of the Republic of Latvia in foreign states; and
+7) represent the institutions of higher education of the Republic of Latvia in foreign states; and
 
-- solve other issues related to the activities of institutions of higher education within the scope of their competence .
+8) solve other issues related to the activities of institutions of higher education within the scope of their competence .
 
-- The procedures for the operation and competence thereof shall be prescribed by the bylaw of the Council of rectors. The Cabinet shall approve the by-law of the Council of rectors.
+(3) The procedures for the operation and competence thereof shall be prescribed by the by-law of the Council of rectors. The Cabinet shall approve the by-law of the Council of rectors.
 
 [2 March 2006; 14 July 2011]
 
-### Section 64. 1 Colleges Association of Latvia
+### Section 64.1 Colleges Association of Latvia
 
-(1) The Colleges Association of Latvia unites colleges, which implement licensed first level professional higher education programmes. The directors represent the Colleges Association. (2) The Colleges Association of Latvia shall:
+(1) The Colleges Association of Latvia unites colleges, which implement licensed first level professional higher education programmes. The directors represent the Colleges Association.
 
-- be concerned regarding the improvement  of professional higher education programmes in colleges;
+(2) The Colleges Association of Latvia shall:
 
-- develop proposals for a college development strategy;
+1) be concerned regarding the improvement of professional higher education programmes in colleges;
 
-- promote co-operation between the higher education institutions of Latvia and other states;
+2) develop proposals for a college development strategy;
 
-- represent the interests of colleges in relationships with State, local government and foreign institutions; and
+3) promote co-operation between the higher education institutions of Latvia and other states;
 
-- inform the public regarding colleges and the study opportunities thereof. [2 March 2006]
+4) represent the interests of colleges in relationships with State, local government and foreign institutions; and
 
-### Section 64. 2 Latvian Students Association
+5) inform the public regarding colleges and the study opportunities thereof.
 
-(1)  For  the  representation  of  students  and  the  expression  viewpoints,  the  student  selfgovernance  bodies  of  institutions  of  higher  education  shall  establish  a  Latvian  Students Association.  The  Latvian  Students  Association  is  a  collegial  association  of  student  selfgovernance bodies in which is included representatives of student self-governance bodies of all accredited institutions of higher education.
+[2 March 2006]
+
+### Section 64.2 Latvian Students Association
+
+(1) For the representation of students and the expression viewpoints, the student self-governance bodies of institutions of higher education shall establish a Latvian Students Association. The Latvian Students Association is a collegial association of student self-governance bodies in which is included representatives of student self-governance bodies of all accredited institutions of higher education.
 
 Translation © 2012 Valsts valodas centrs (State Language Centre)
 
@@ -1816,13 +1830,13 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 (2) The Latvian Students Association shall:
 
-- provide  opinions  regarding  draft  regulatory  enactments  that  impact  on  students interests;
+1) provide opinions regarding draft regulatory enactments that impact on students interests;
 
-- nominate  student  representatives  to  the  Council  of  Higher  Education  and  other institutions according to the procedures specified in regulatory enactments;
+2) nominate student representatives to the Council of Higher Education and other institutions according to the procedures specified in regulatory enactments;
 
-- ensure the representation of Latvian student self-governance bodies abroad; and
+3) ensure the representation of Latvian student self-governance bodies abroad; and
 
-- within scope of its competence, resolve other issues associated with the representation of student interests.
+4) within scope of its competence, resolve other issues associated with the representation of student interests.
 
 (3) The Latvian Students Association has the right to receive information from State and local government institutions and to participate in activities, which impact on studies, and the rights and interests of students.
 
@@ -1840,13 +1854,13 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 (1) The Council of Higher Education, which shall consist of 12 members, shall be approved by  the Saeima on  the  basis  of  a  proposal  of  the  Minister  for  Education  and  Science.  The Council  of  Higher  Education  shall  include  one  delegated  representative  of  the  Latvian Academy  of  Science,  the  Association  of  Art  Higher  Education  Institutions,  the  Latvian Association of Education Managers, the Chamber of Commerce and Industry, the Colleges Association  of  Latvia,  the  Council  of  rectors,  the  Latvian  Association  of  University  and College  Professors,  the  Latvian  Employer's  Confederation,  the  Education  and  Science Workers  Trade  Union,  a  representative  of  the  Latvian  Students  Association,  as  well  as  a delegated representative of institutions of higher education founded by local governments and other legal persons and natural persons. In accordance with the office held (ex officio), the Minister  for  Education  and  Science  shall  represent  the  Council  of  Higher  Education  as  a member thereof in government meetings. Representatives of the Latvian Lawyers Association,  the  Latvian  Medical  Association  and  other  professional  organisations  may participate in the operations of the Council of Higher Education in the capacity of an advisor in  the  examination  of  matters,  which  are  related  to  matters  within  the  competence  of  these organisations.
 
-- The Saeima may reject the candidatures of members of the Council of Higher Education by submitting justified objections of the members of parliament (factions).
+(2) The Saeima may reject the candidatures of members of the Council of Higher Education by submitting justified objections of the members of parliament (factions).
 
-- The bodies referred to in Paragraph one of this Section have the right to recall a member of the Council of Higher Education by submitting a justified recall notice to the Saeima .
+(3) The bodies referred to in Paragraph one of this Section have the right to recall a member of the Council of Higher Education by submitting a justified recall notice to the Saeima.
 
-- The chairperson and vice-chairperson of the Council of Higher Education shall be elected by secret ballot by the Council within 14 days after the termination of the term of office of the previous chairperson and vice-chairperson.
+(4) The chairperson and vice-chairperson of the Council of Higher Education shall be elected by secret ballot by the Council within 14 days after the termination of the term of office of the previous chairperson and vice-chairperson.
 
-- A  representative  of  the  Higher  Education  and  Science  Department  of  the  Ministry  of Education and Science shall participate in the meetings of the Council of Higher Education as an independent advisor.
+(5) A representative of the Higher Education and Science Department of the Ministry of Education and Science shall participate in the meetings of the Council of Higher Education as an independent advisor.
 
 [23 November 2000; 2 March 2006]
 
@@ -1886,19 +1900,19 @@ The Council of Higher Education shall:
 
 1)  formulate  a  national  concept  for  the  development  of  higher  education  and institutions  of  higher  education,  making  provisions  for  the  development  of  institutions  of higher education founded by the State, other legal persons and natural persons, and promote the equal and balanced development of institutions of higher education of all types and higher academic and higher professional education;
 
-- formulate  long-term  plans  and  proposals  for  the  development  of  education  and science in the system of higher education;
+2) formulate long-term plans and proposals for the development of education and science in the system of higher education;
 
-- formulate  proposals  for  the  improvement  of  the  quality  of  the  scientific  work  of institutions of higher education, staff qualification and study programmes;
+3) formulate proposals for the improvement of the quality of the scientific work of institutions of higher education, staff qualification and study programmes;
 
-- forecast  the  number  of  students  in  the  State  as  a  whole  necessary  for  the development of the State and formulate proposals for the number of students financed from the State budget in each branch;
+4) forecast the number of students in the State as a whole necessary for the development of the State and formulate proposals for the number of students financed from the State budget in each branch;
 
-- formulate proposals for changes in the structure of institutions of higher education in the State;
+5) formulate proposals for changes in the structure of institutions of higher education in the State;
 
-- formulate  proposals  regarding  the  number  of  professors  in  institutions  of  higher education and recommendations in other issues related to higher education;
+6) formulate proposals regarding the number of professors in institutions of higher education and recommendations in other issues related to higher education;
 
-- formulate proposals for the improvement of higher education and the study fee;
+7) formulate proposals for the improvement of higher education and the study fee;
 
-- provide  an  opinion  to  the  Minister  for  Education  and  Science  and  the  Cabinet regarding the draft State budget for the financing of institutions of higher education;
+8) provide an opinion to the Minister for Education and Science and the Cabinet regarding the draft State budget for the financing of institutions of higher education;
 
 Translation © 2012 Valsts valodas centrs (State Language Centre)
 
@@ -1908,11 +1922,11 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 [[START OF PAGE 44]]
 
-- take a decision on the accreditation of institutions of higher education as a whole and submit it for approval to the Ministry of Education and Science;
+9) take a decision on the accreditation of institutions of higher education as a whole and submit it for approval to the Ministry of Education and Science;
 
-[23 November 2000]; and
+10) [23 November 2000]; and
 
-- maintain relations with the institutions of other countries, which deal with issues of higher education.
+11) maintain relations with the institutions of other countries, which deal with issues of higher education.
 
 [23 November 2000; 2 March 2006]
 
@@ -1920,7 +1934,7 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 The Council of Higher Education has the right to:
 
-- become  acquainted  with  the  assessment  and  accreditation  materials  of  any  study direction of an institution of higher education;
+1) become acquainted with the assessment and accreditation materials of any study direction of an institution of higher education;
 
 2) request extraordinary accreditation for any institution of higher education or a study direction thereof; and
 
@@ -1934,13 +1948,13 @@ The Council of Higher Education has the right to:
 
 (2)  Meetings  of  the  Council  of  Higher  Education  shall  take  place  as  appropriate.  Special meetings shall be convened within three days if they are requested by at least three members of the Council of Higher Education.
 
-(3) The secretariat shall provide information regarding the agenda of a meeting of the Council of  Higher  Education  and  the  decisions  made  therein  in  the  official  newspaper  ' Latvijas Vēstnesis '  and  in  the  mass  media.  True  copies  of  decisions  shall  be  sent  to  institutions  of higher education and other institutions to which these decisions apply.
+(3) The secretariat shall provide information regarding the agenda of a meeting of the Council of Higher Education and the decisions made therein in the official newspaper “Latvijas Vēstnesis” and in the mass media. True copies of decisions shall be sent to institutions of higher education and other institutions to which these decisions apply.
 
 ### Section 73. Financing of the Council of Higher Education
 
 (1) The Council of Higher Education shall be financed from the State budget.
 
-(2) The Council of Higher Education shall publish a report once a year regarding the financial activities thereof in the official newspaper ' Latvijas Vēstnesis '.
+(2) The Council of Higher Education shall publish a report once a year regarding the financial activities thereof in the official newspaper “Latvijas Vēstnesis”.
 
 (3) A paid secretariat shall be established for ensuring the activities of the Council of Higher Education.
 
@@ -1952,11 +1966,11 @@ The Council of Higher Education has the right to:
 
 (3) The Chairperson of the Council of Higher Education shall:
 
-- represent  the  Council  of  Higher  Education  in  State  authorities,  as  well  as  in relations  with  natural  persons  and  legal  persons  in  Latvia  and  foreign  states,  participate  in Cabinet  meetings  in  the  capacity  of  an  advisor  in  the  examination  of  issues  within  the competence of the Council;
+1) represent the Council of Higher Education in State authorities, as well as in relations with natural persons and legal persons in Latvia and foreign states, participate in Cabinet meetings in the capacity of an advisor in the examination of issues within the competence of the Council;
 
-- handle the finances of the Council of Higher Education;
+2) handle the finances of the Council of Higher Education;
 
-- hire  and  release  from  work  the  employees  of  the  secretariat  of  the  Council  of Higher Education; and
+3) hire and release from work the employees of the secretariat of the Council of Higher Education; and
 
 Translation © 2012 Valsts valodas centrs (State Language Centre)
 
@@ -1978,21 +1992,21 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 (2)  In  accordance  with  the  procedures  and  the  time  period  prescribed  by  the  Cabinet,  an institution  of  higher  education  and  college  shall  submit  information  regarding  the  activities thereof  to  the  Ministry  of  Education  and  Science,  and  this  information  shall  include  data about:
 
-- the structure of the institution of higher education and college;
+1) the structure of the institution of higher education and college;
 
-- the number and composition of students and other staff of the institution of higher education and college;
+2) the number and composition of students and other staff of the institution of higher education and college;
 
-- options for study and the number and composition of enrolled students;
+3) options for study and the number and composition of enrolled students;
 
-- the  offered  study  courses,  study  modules  and  study  programmes,  as  well  as information regarding the study directions;
+4) the offered study courses, study modules and study programmes, as well as information regarding the study directions;
 
-- the allocation and utilisation of State budget funds;
+5) the allocation and utilisation of State budget funds;
 
-- economic activity, own income and utilisation thereof;
+6) economic activity, own income and utilisation thereof;
 
-- international relations;
+7) international relations;
 
-- as well as information regarding the subsequent course of work of graduates in the next three years after completion of the relevant study programme of the institution of higher education or college.
+8) as well as information regarding the subsequent course of work of graduates in the next three years after completion of the relevant study programme of the institution of higher education or college.
 
 [23 November 2000; 2 March 2006; 14 July 2011]
 
@@ -2008,9 +2022,9 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 2) property purchased with State budget funds. Immovable property shall be recorded in the Land Register as property of the institution of higher education;
 
-- the intellectual property of institutions of higher education; and
+3) the intellectual property of institutions of higher education; and
 
-- immovable property which has been handed over thereto, without remuneration, by another derived public person or the State.
+4) immovable property which has been handed over thereto, without remuneration, by another derived public person or the State.
 
 (3)  State  institutions  of  higher  education  have  the  right  to  make  use  of  their  property  for achieving the aims indicated in the constitutions thereof. The property of State institutions of higher  education shall  be  administrated  separately  from  the  State  property,  which  has  been transmitted into the possession thereof.
 
@@ -2102,15 +2116,15 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 (1) In fulfilling the tasks thereof, an institution of higher education has the right to perform the following activities in Latvia and foreign states:
 
-- to open departments, branches and representative offices;
+1) to open departments, branches and representative offices;
 
-- to  enter  into  agreements  with  natural  persons  and  legal  persons,  as  well  as  to perform other legal activities in accordance with this Law and other laws;
+2) to enter into agreements with natural persons and legal persons, as well as to perform other legal activities in accordance with this Law and other laws;
 
-- to  announce  competitions,  purchase  and  sell  movable  and  immovable  property, different goods and securities in accordance with the legislation in force and pursuant to the aims of the activities of the institution of higher education; and
+3) to announce competitions, purchase and sell movable and immovable property, different goods and securities in accordance with the legislation in force and pursuant to the aims of the activities of the institution of higher education; and
 
-- to engage in economic activities pursuant to the profile of the institution of higher education,  the  income  from  which  shall  be  transferred  into  the  budget  of  the  institution  of higher education for the development thereof, as well as to invest the obtained resources in other undertakings in accordance with the aims of the institution of higher education.
+4) to engage in economic activities pursuant to the profile of the institution of higher education, the income from which shall be transferred into the budget of the institution of higher education for the development thereof, as well as to invest the obtained resources in other undertakings in accordance with the aims of the institution of higher education.
 
-- An independent sworn auditor shall examine the compliance of financial and economic activities of an institution of higher education with regulatory enactments each year. A written opinion  prepared  by  the  sworn  auditor  regarding  the  financial  and  economic  activity  of  a State-founded institution of higher education or a report by the auditor regarding the use of State budget funds by an institution of higher education which has received funds from the State budget shall be submitted to the Ministry of Education and Science and to the ministry to which the relevant institution of higher education is subordinated.
+(2) An independent sworn auditor shall examine the compliance of financial and economic activities of an institution of higher education with regulatory enactments each year. A written opinion prepared by the sworn auditor regarding the financial and economic activity of a State-founded institution of higher education or a report by the auditor regarding the use of State budget funds by an institution of higher education which has received funds from the State budget shall be submitted to the Ministry of Education and Science and to the ministry to which the relevant institution of higher education is subordinated.
 
 [23 November 2000; 2 March 2006; 14 July 2011]
 
@@ -2120,7 +2134,7 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 (1) The Government of the Republic of Latvia and institutions of higher education themselves shall  promote  international  co-operation,  inter-state  exchange  programmes  of  students  and academic staff, exchange programmes between institutions of higher education and international co-operation programmes of institutions of higher education for research.
 
-(2) In determining the amount of financing of an institution of higher education in the State budget, the participation of each institution of higher education in European international cooperation programmes shall be taken into account. If international co-operation programmes of institutions of higher education finance part of the study tasks of an institution of higher education  or  the  work  tasks  of  scientific  research  work,  the  financing  of  an  institution  of higher education from the State budget shall not be reduced.
+(2) In determining the amount of financing of an institution of higher education in the State budget, the participation of each institution of higher education in European international co-operation programmes shall be taken into account. If international co-operation programmes of institutions of higher education finance part of the study tasks of an institution of higher education or the work tasks of scientific research work, the financing of an institution of higher education from the State budget shall not be reduced.
 
 (3) The agreements of the government in issues related to any institution of higher education shall  be  binding  to  such  institution.  When  drafting  such  an  agreement,  the  implementing provisions of the agreement shall be co-ordinated with the institution of higher education.
 
@@ -2148,9 +2162,9 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 2)  the  knowledge  of  foreigners  shall  correspond  to  the  admission  regulations  of  the relevant institution of higher education or college;
 
-- foreigners shall have a sufficient knowledge of the languages in which studies take place;
+3) foreigners shall have a sufficient knowledge of the languages in which studies take place;
 
-- foreigners shall pay the study fees to an institution of higher education or college in accordance  with  the  agreement,  which  the  institution  of  higher  education  or  college  has entered into with them, however it may not be smaller than the study costs;
+4) foreigners shall pay the study fees to an institution of higher education or college in accordance with the agreement, which the institution of higher education or college has entered into with them, however it may not be smaller than the study costs;
 
 5) [14 July 2011].
 
@@ -2160,7 +2174,7 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 [2 March 2006; 14 July 2011]
 
-### Section 83. 1 Scholarships for Foreigners
+### Section 83.1 Scholarships for Foreigners
 
 In accordance with the entered into international agreements and funds granted from the State budget the institution specified in regulatory enactments may allocate funds to  an institution  of  higher  education  or  college  for  ensuring  a  scholarship  for  the  studies  of  a foreigner. The covering of other expenditure related to the maintenance of a foreigner may also be included in the scholarship. The Cabinet shall regulate the conditions for allocating and the procedures for administrating scholarships, as well as the criteria by which a foreigner may apply for a scholarship.
 
@@ -2184,7 +2198,7 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 3) if necessary - what additional requirements shall be met in order to continue studies in the relevant study programme in Latvia.
 
-### Section  85.  Academic  Recognition  in  Latvia  of  Academic  Degrees  and  Education Documents Acquired in Other Countries
+### Section 85. Academic Recognition in Latvia of Academic Degrees and Education Documents Acquired in Other Countries
 
 (1)  An expert-examination of academic degrees and education documents acquired in other countries, as well as documents attesting to secondary education, shall be performed by the Academic Information Centre.
 
@@ -2192,7 +2206,7 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 1)  whether  the  education  document  acquired  in  another  country  conforms  with  any higher education document awarded in Latvia (hereinafter in this Section - diploma);
 
-- to which academic degree or diploma awarded in Latvia it may be equated; and
+2) to which academic degree or diploma awarded in Latvia it may be equated; and
 
 3) what additional provisions shall be met so that the education document obtained in another country could be equated to any academic degrees or diplomas awarded in Latvia, if the  academic degree or  education document obtained in another country does not meet the requirements of any academic degree or diploma awarded in Latvia.
 
@@ -2216,9 +2230,9 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 (5) The representative office of a foreign institution of higher education may perform only the following activities in Latvia:
 
-- advertising of the foreign institution of higher education;
+1) advertising of the foreign institution of higher education;
 
-- dissemination of information and teaching aids; and
+2) dissemination of information and teaching aids; and
 
 Translation © 2012 Valsts valodas centrs (State Language Centre)
 
@@ -2232,25 +2246,25 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 [23 November 2000]
 
-### Section 87 Academic Staff Register
+### Section 87. Academic Staff Register
 
-(1)  In  the  Academic  Staff  Register  shall  be  recorded  information  regarding  persons  who occupy  academic  positions  in  institutions  of  higher  education  and  colleges.  The  Academic Staff Register shall be a component of the State Education Information System, and shall be managed by an official authorised by an institution specified by the Ministry of Education and Science (hereinafter - official responsible for the Academic Staff Register).
+(1)  In  the  Academic  Staff  Register  shall  be  recorded  information  regarding  persons  who occupy  academic  positions  in  institutions  of  higher  education  and  colleges.  The  Academic Staff Register shall be a component of the State Education Information System, and shall be managed by an official authorised by an institution specified by the Ministry of Education and Science (hereinafter – official responsible for the Academic Staff Register).
 
 (2)  In  the  Academic Staff Register shall be recorded the following information regarding a person:
 
-- given name and surname of the person;
+1) given name and surname of the person;
 
-- personal identity number;
+2) personal identity number;
 
-- the name of the academic position to which the person is elected;
+3) the name of the academic position to which the person is elected;
 
-- the  name  of  the  institution  of  higher  education  or  college  in  which  such  person occupies an academic position (indicating if the position is occupied in a branch thereof);
+4) the  name  of  the  institution  of  higher  education  or  college  in  which  such  person occupies an academic position (indicating if the position is occupied in a branch thereof);
 
-- the name of the structural unit if there is such;
+5) the name of the structural unit if there is such;
 
-- the commencement time period of fulfilling the academic position in the relevant institution of higher education or college; and
+6) the commencement time period of fulfilling the academic position in the relevant institution of higher education or college; and
 
-- the name of the branch of science, sub-branch and educational programme group in conformity with the academic position.
+7) the name of the branch of science, sub-branch and educational programme group in conformity with the academic position.
 
 (3) Information regarding their academic personal shall be submitted by institutions of higher education  or  college  to  the  Academic  Staff  Register.  The  rector  of  an  institution  of  higher education or director of a college shall be responsible for the preciseness and conformity to reality of the information submitted to the Register.
 
@@ -2270,7 +2284,7 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 [23 November 2000]
 
-2. Within three months after the approval of the constitution of institution of higher education in  the Saeima or  the  Cabinet,  institutions  of  higher  education  shall  co-ordinate  all  the regulatory  enactments  thereof  (by-laws,  regulations,  rules  of  procedure,  etc.)  with  the constitutions thereof and this Law.
+2. Within three months after the approval of the constitution of institution of higher education in the Saeima or the Cabinet, institutions of higher education shall co-ordinate all the
 
 Translation © 2012 Valsts valodas centrs (State Language Centre)
 
@@ -2279,6 +2293,8 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 [[END OF PAGE 51]]
 
 [[START OF PAGE 52]]
+
+regulatory enactments thereof (by-laws, regulations, rules of procedure, etc.) with the constitutions thereof and this Law.
 
 [23 November 2000]
 
@@ -2304,7 +2320,7 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 [27 December 1996; 2 March 2006; 18 February 2010]
 
-11. 1 In relation to colleges existing within the Ministry of the Interior system, the Cabinet is entitled  to  specify  other  procedures  regarding  issues  of  the  representation  of  such  colleges
+11.1 In relation to colleges existing within the Ministry of the Interior system, the Cabinet is entitled to specify other procedures regarding issues of the representation of such colleges
 
 Translation © 2012 Valsts valodas centrs (State Language Centre)
 
@@ -2314,7 +2330,7 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 [[START OF PAGE 53]]
 
-(Section 10. 1 ), the admission of students (Section 45) and the approval of study programmes (Section 55) if it is required by the professional specificity of such educational institutions. [2 March 2006]
+(Section 10.1), the admission of students (Section 45) and the approval of study programmes (Section 55) if it is required by the professional specificity of such educational institutions. [2 March 2006]
 
 12.  Enrolment in study  programmes on the basis of the results of centralised examinations (Section 46, Paragraph three) shall be initiated in the year 2004. [23 November 2000]
 
@@ -2322,7 +2338,7 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 [23 November 2000]
 
-14. Section 55, Paragraph two of this Law regarding the number of full-time students in study programmes  of  academic  education  shall  not  relate  to  those  study  programmes  which  are already  being  implemented  on  the  day  of  the  coming  into  force  of  this  norm  -  until  the moment  when  the  relevant  study  programme  is  to  be  accredited  in  accordance  with  the requirements of this Law.
+14. Section 55, Paragraph two of this Law regarding the number of full-time students in study programmes  of  academic  education  shall  not  relate  to  those  study  programmes  which  are already  being  implemented  on  the  day  of  the  coming  into  force  of  this  norm  –  until  the moment  when  the  relevant  study  programme  is  to  be  accredited  in  accordance  with  the requirements of this Law.
 
 [23 November 2000]
 
@@ -2340,7 +2356,7 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 18.  Institutions  of  higher  education  shall  co-ordinate  the  constitutions  thereof  with  the requirements of Section 13, Paragraph three and Section 15, Paragraph four of this Law about the changes of the proportion of students in the constitutional assembly and the senate of an institution of higher education and submit them for approval to the Ministry of Education and Science by 10 June 2005. The Constitutional Assemblies and senates of institutions of higher education,  which  have  been  elected  by  10  June  2004,  shall  continue  to  operate  until  the termination of the term of office of the relevant constitutional assembly or senate, preserving the proportion of students determined in the constitution of the institution of higher education. [3 June 2004]
 
-19. An institution of higher education shall ensure the conformity of the constitution thereof to  the  requirements  specified  in  the  Law  On  Institutions  of  Higher  Education  and  by  1 September 2006 shall submit the constitution to the Ministry of Education and Science. Statefounded  institutions  of  higher  education  shall  become  derived  public  persons  after  the approval of the constitution by the Saeima .  Up to the approval of their constitutions by the Saeima , the institutions of higher education shall continue to operate in their current status State  budget  institutions.  State-founded  universities  and  institutions  of  higher  education  the constitutions  of  which  have  been  approved  by  the Saeima shall  be  deemed  to  be  derived public persons. Colleges shall ensure the conformity of by-laws to the requirements specified in the Law On Institutions of Higher Education and by 1 May 2007 shall submit the by-laws thereof  to  the  Ministry  of  Education  and  Science.  The  Cabinet  shall  issue  regulations regarding the by-law of the relevant college by 1 September 2007. Until the issuance of such Cabinet regulations, but not later than until 1 September 2007, the provisions of Section 9, Paragraph two, Clause 3 of this Law shall not apply to the relevant college.
+19. An institution of higher education shall ensure the conformity of the constitution thereof to the requirements specified in the Law On Institutions of Higher Education and by 1 September 2006 shall submit the constitution to the Ministry of Education and Science. State-founded institutions of higher education shall become derived public persons after the
 
 Translation © 2012 Valsts valodas centrs (State Language Centre)
 
@@ -2349,6 +2365,8 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 [[END OF PAGE 53]]
 
 [[START OF PAGE 54]]
+
+approval of the constitution by the Saeima. Up to the approval of their constitutions by the Saeima, the institutions of higher education shall continue to operate in their current status – State budget institutions. State-founded universities and institutions of higher education the constitutions of which have been approved by the Saeima shall be deemed to be derived public persons. Colleges shall ensure the conformity of by-laws to the requirements specified in the Law On Institutions of Higher Education and by 1 May 2007 shall submit the by-laws thereof to the Ministry of Education and Science. The Cabinet shall issue regulations regarding the by-law of the relevant college by 1 September 2007. Until the issuance of such Cabinet regulations, but not later than until 1 September 2007, the provisions of Section 9, Paragraph two, Clause 3 of this Law shall not apply to the relevant college.
 
 [2 March 2006; 15 February 2007; 19 April 2007]
 
@@ -2374,7 +2392,7 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 [2 March 2006]
 
-26.  The  provisions  included  in  the  third  sentence  of  Section  3,  Paragraph  five  of  this  Law shall not apply to institutions of higher education, which up to the coming into force of this Law have registered in the Register of Institutions of Higher Education and in the names of which (as well as the names of institutes established by them) is included the word 'institūts' [institute].
+26.  The  provisions  included  in  the  third  sentence  of  Section  3,  Paragraph  five  of  this  Law shall not apply to institutions of higher education, which up to the coming into force of this Law have registered in the Register of Institutions of Higher Education and in the names of which (as well as the names of institutes established by them) is included the word “institūts” [institute].
 
 [2 March 2006]
 
@@ -2404,11 +2422,13 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 31. Amendments regarding the licensing of study programmes and the accreditation of study directions shall come into force:
 
-- in  respect  of  study  directions,  for  which  the  corresponding  study  programmes  of institutions of higher education or colleges fall within the thematic groups specified in Section 3, Paragraph one, Clauses 1, 2 and 3 of this Law - on 1 September 2012;
+1) in  respect  of  study  directions,  for  which  the  corresponding  study  programmes  of institutions of higher education or colleges fall within the thematic groups specified in Section 3, Paragraph one, Clauses 1, 2 and 3 of this Law – on 1 September 2012;
 
-- in  respect  of  study  directions,  for  which  the  corresponding  study  programmes  of institutions of higher education or colleges fall within the thematic groups specified in Section 3, Paragraph one, Clauses 4, 5 and 6 of this Law - on 15 November 2012; and
+2) in  respect  of  study  directions,  for  which  the  corresponding  study  programmes  of institutions of higher education or colleges fall within the thematic groups specified in Section 3, Paragraph one, Clauses 4, 5 and 6 of this Law – on 15 November 2012; and
 
-- in  respect  of  study  directions,  for  which  the  corresponding  study  programmes  of institutions of higher education or colleges fall within the thematic groups specified in Section 3, Paragraph one, Clauses 7 and 8 of this Law - on 31 December 2012. [14 July 2011]
+3) in  respect  of  study  directions,  for  which  the  corresponding  study  programmes  of institutions of higher education or colleges fall within the thematic groups specified in Section 3, Paragraph one, Clauses 7 and 8 of this Law – on 31 December 2012.
+
+[14 July 2011]
 
 32. Within six months after the time periods specified in Paragraph 31 of these Transitional Provisions the institution specified by the Cabinet shall take a decision on the accreditation of the study direction of an institution of higher education or college or a decision on the refusal to accredit the study direction of the relevant institution of education or college. If a decision is taken on the refusal to accredit any study direction of an institution of higher education or college, the study programmes corresponding to such direction, which have been accredited in accordance with the existing regulatory enactments and the accreditation time period of which has not expired until the day of taking the decision, shall be considered to be accredited until the  expiry  of  the  time  period  specified  in  the  accreditation  form  of  the  relevant  study programme.
 
@@ -2442,21 +2462,19 @@ Translation © 2012 Valsts valodas centrs (State Language Centre)
 
 This Law contains legal norms arising from:
 
-- Council  Directive  2003/109/EC  of  25  November  2003  concerning  the  status  of third-country nationals who are long-term residents;
+1) Council  Directive  2003/109/EC  of  25  November  2003  concerning  the  status  of third-country nationals who are long-term residents;
 
-- Directive 2004/38/EC of the European Parliament and of the Council of 29 April 2004 on the right of citizens of the Union and their family members to move and reside freely within  the  territory  of  the  Member  States  amending  Regulation  (EEC)  No  1612/68  and repealing Directives 64/221/EEC, 68/360/EEC, 72/194/EEC, 73/148/EEC, 75/34/EEC, 75/35/EEC, 90/364/EEC, 90/365/EEC and 93/96/EEC (Text with EEA relevance); and
+2) Directive 2004/38/EC of the European Parliament and of the Council of 29 April 2004 on the right of citizens of the Union and their family members to move and reside freely within  the  territory  of  the  Member  States  amending  Regulation  (EEC)  No  1612/68  and repealing Directives 64/221/EEC, 68/360/EEC, 72/194/EEC, 73/148/EEC, 75/34/EEC, 75/35/EEC, 90/364/EEC, 90/365/EEC and 93/96/EEC (Text with EEA relevance); and
 
-- Council  Directive  2004/114/EC  of  13  December  2004  on  the  conditions  of admission of third-country nationals for the purposes of studies, pupil exchange, unremunerated training or voluntary service.
+3) Council  Directive  2004/114/EC  of  13  December  2004  on  the  conditions  of admission of third-country nationals for the purposes of studies, pupil exchange, unremunerated training or voluntary service.
 
 [14 July 2011]
 
 This Law has been adopted by the Saeima on 2 November 1995.
 
-President
+President G. Ulmanis
 
 Rīga, 17 November 1995
-
-G. Ulmanis
 
 Translation © 2012 Valsts valodas centrs (State Language Centre)
 
