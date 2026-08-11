@@ -58,7 +58,7 @@ Others (please specify) :
 
 ## VI. Questionnaire
 
-### Laws and policies (preamble and paras 4 and 7 of the 1974 Recommendation )
+### A. Laws and policies (preamble and paras 4 and 7 of the 1974 Recommendation)
 
 #### A1a. Please describe any specific national or sub-national laws, legislation or legal framework(s) in your country that govern the promotion of global citizenship education (GCED) and/or education for sustainable development (ESD). Explain whether GCED and/or ESD themes 1 are mentioned explicitly or are inferred and what types or levels of education are covered.
 
@@ -70,13 +70,13 @@ The  Agency  also  has  a  representative  for  the  UNECE  Strategy  for  Educa
 
 #### A1b. Please provide the full names of any laws, legislation or legal frameworks referred to in A1a and, where possible, web links to relevant documents.
 
-- Framework  Law  on  Preschool  Upbringing  and  Education  in  BiH  (Official  Gazette  of  BiH, 88/07)
+1. Framework Law on Preschool Upbringing and Education in BiH (Official Gazette of BiH, 88/07)
 
-- Framework Law on Primary and Secondary Education in BiH (Official Gazette of BiH, 18/03)
+2. Framework Law on Primary and Secondary Education in BiH (Official Gazette of BiH, 18/03)
 
-- Framework Law on Secondary Vocational Education and Training in BiH (Official Gazette of BiH, 63/08)
+3. Framework Law on Secondary Vocational Education and Training in BiH (Official Gazette of BiH, 63/08)
 
-- Framework Law on Higher Education in BiH (Official Gazette of BiH, 59/07) http://www.mcp.gov.ba/Content/Read/obrazovanje-dokumenti
+4. Framework Law on Higher Education in BiH (Official Gazette of BiH, 59/07) http://www.mcp.gov.ba/Content/Read/obrazovanje-dokumenti
 
 > 1 See the schema described in paragraph 11 of Section II of these guidelines.
 
@@ -84,23 +84,23 @@ The  Agency  also  has  a  representative  for  the  UNECE  Strategy  for  Educa
 
 [[START OF PAGE 4]]
 
-#### *A2  Please indicate which GCED and ESD themes are covered in national or sub-national laws, legislation or legal frameworks on education by entering the appropriate number in each white cell.
-
-#### A3a.  Please describe any  specific current national or sub-national education  policies, frameworks  or  strategic  objectives  in  your  country  that  promote  global  citizenship education (GCED) and/or education for sustainable development (ESD). Explain whether GCED and/or ESD themes 2  are mentioned explicitly or are inferred and what types or levels of education are covered.
-
-National | Sub-national
---- | --- | --- | --- | --- | --- | --- | ---
-Pre- primary | Primary/ secondary | Tertiary | Non- formal | Pre- primary | Primary/ secondary | Tertiary | Non- formal
-1. Cultural diversity and tolerance | 1 | 1 | 9 | 1 | 1 | 1 | 9
-2. Gender equality | 1 | 1 | 9 | 1 | 1 | 1 | 9
-3. Human rights | 1 | 1 | 9 | 1 | 1 | 1 | 9
-4. Peace and non- violence | 1 | 1 | 9 | 1 | 1 | 1 | 9
-5. Climate change | 0 | 0 | 9 | 0 | 0 | 1 | 9
-6. Environmental sustainability | 0 | 0 | 9 | 0 | 0 | 1 | 9
-7. Human survival and well-being | 0 | 0 | 9 | 0 | 0 | 0 | 9
-8. Sustainable consumption and production | 0 | 0 | 9 | 0 | 0 | 0 | 9
+#### *A2 Please indicate which GCED and ESD themes are covered in national or sub-national laws, legislation or legal frameworks on education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
+
+ | National |  |  |  | Sub-national |  |  |
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+ | Pre-primary | Primary/secondary | Tertiary | Non-formal | Pre-primary | Primary/secondary | Tertiary | Non-formal
+1. Cultural diversity and tolerance | 1 | 1 |  | 9 | 1 | 1 | 1 | 9
+2. Gender equality | 1 | 1 |  | 9 | 1 | 1 | 1 | 9
+3. Human rights | 1 | 1 |  | 9 | 1 | 1 | 1 | 9
+4. Peace and non-violence | 1 | 1 |  | 9 | 1 | 1 | 1 | 9
+5. Climate change | 0 | 0 |  | 9 | 0 | 0 | 1 | 9
+6. Environmental sustainability | 0 | 0 |  | 9 | 0 | 0 | 1 | 9
+7. Human survival and well-being | 0 | 0 |  | 9 | 0 | 0 | 0 | 9
+8. Sustainable consumption and production | 0 | 0 |  | 9 | 0 | 0 | 0 | 9
+
+#### A3a. Please describe any specific current national or sub-national education policies, frameworks or strategic objectives in your country that promote global citizenship education (GCED) and/or education for sustainable development (ESD). Explain whether GCED and/or ESD themes 2 are mentioned explicitly or are inferred and what types or levels of education are covered.
 
 The documents, which represent a strategic and educational policy framework at the state level, address a variety of topics that promote and protect human rights and freedoms, cultural diversity and tolerance, and prohibit discrimination on any grounds, and promote peace and nonviolence.
 
@@ -134,21 +134,21 @@ All these topics are more or less represented in the current curricula and frame
 
 #### A3b. Please  provide  the  full  names  of  any education  policies,  frameworks  or  strategic objectives referred to in A3a and, where possible, web links to relevant documents .
 
-- Platform for the development of preschool upbringing and education in Bosnia and Herzegovina for the period 2017 - 2022 (Official Gazette of BiH, 2/18);
+1. Platform for the development of preschool upbringing and education in Bosnia and Herzegovina for the period 2017 - 2022 (Official Gazette of BiH, 2/18);
 
-- Strategic platform of development of adult education in the context of lifelong learning in Bosnia and Herzegovina for the period 2014-2020 (Official Gazette of BiH, 96/14);
+2. Strategic platform of development of adult education in the context of lifelong learning in Bosnia and Herzegovina for the period 2014-2020 (Official Gazette of BiH, 96/14);
 
-- Principles and standards in the field of adult education in Bosnia and Herzegovina (Official Gazette of BiH 39/14);
+3. Principles and standards in the field of adult education in Bosnia and Herzegovina (Official Gazette of BiH 39/14);
 
-- Priorities for the development of higher education in BiH for the period 2016-2026 (Official Gazette of BiH, 35/16);
+4. Priorities for the development of higher education in BiH for the period 2016-2026 (Official Gazette of BiH, 35/16);
 
-- Policy Recommendations with a Roadmap for Improving Inclusive Education in Bosnia and Herzegovina;
+5. Policy Recommendations with a Roadmap for Improving Inclusive Education in Bosnia and Herzegovina;
 
-- Recommendations for inclusive education in Bosnia and Herzegovina;
+6. Recommendations for inclusive education in Bosnia and Herzegovina;
 
-- Priorities in the integration of entrepreneurial learning and entrepreneurial key competencies in Bosnia and Herzegovina education systems (2021-2030) (Official Gazette of BiH, 79/20). http://www.mcp.gov.ba/Content/Read/obrazovanje-dokumenti
+7. Priorities in the integration of entrepreneurial learning and entrepreneurial key competencies in Bosnia and Herzegovina education systems (2021-2030) (Official Gazette of BiH, 79/20). http://www.mcp.gov.ba/Content/Read/obrazovanje-dokumenti
 
-- Framework Action Plan on the educational needs of Roma in Bosnia and Herzegovina (2018 - 2022)
+8. Framework Action Plan on the educational needs of Roma in Bosnia and Herzegovina (2018 - 2022)
 
 http://www.mhrr.gov.ba/PDF/djeca/Okvirni%20Akcioni%20Plan%20fin%20verzija.pdf
 
@@ -171,7 +171,9 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 7. Human survival and well-being | 0 | 0 | 0 | 9
 8. Sustainable consumption and production | 0 | 0 | 0 | 9
 
-#### *A5  Please  indicate  whether  national  or  sub-national  education  policies,  frameworks  or strategic objectives on education provide a mandate to integrate GCED and ESD in the following areas by entering the appropriate number in each white cell.
+#### *A5 Please indicate whether national or sub-national education policies, frameworks or strategic objectives on education provide a mandate to integrate GCED and ESD in the following areas by entering the appropriate number in each white cell.
+
+KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
@@ -187,8 +189,6 @@ Setting of programme learning objectives | 1 | 1 | 1 | 9
 Textbook development | 1 | 1 | 1 | 9
 Teacher education and training | 1 | 1 | 1 | 9
 Assessment of student outcomes | 1 | 1 | 1 | 9
-
-KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
 
 [[END OF PAGE 6]]
 
@@ -218,17 +218,17 @@ When  it  comes  to  literature,  there  are  ten  titles,  approved  workbooks,
 
 [[START OF PAGE 8]]
 
-"Fundamentals of Democracy" manual for teachers for grade 8 of primary school (Bosnian and Croatian language - Latin; Serbian language - Cyrillic) copyright "Center for Civic Education" "Civitas of Bosnia and Herzegovina", 2000;
+5. "Fundamentals of Democracy" manual for teachers for grade 8 of primary school (Bosnian and Croatian language - Latin; Serbian language - Cyrillic) copyright "Center for Civic Education" "Civitas of Bosnia and Herzegovina", 2000;
 
-"Democracy  and  Human  Rights"  textbook  for  high  school  students  (Bosnian  and  Croatian language - Latin; Serbian language - Cyrillic) author team of "Civitas for BiH" "Civitas of Bosnia and Herzegovina", 2001;
+6. "Democracy and Human Rights" textbook for high school students (Bosnian and Croatian language - Latin; Serbian language - Cyrillic) author team of "Civitas for BiH" "Civitas of Bosnia and Herzegovina", 2001;
 
-"Democracy and Human Rights" handbook for secondary school teachers (Bosnian and Croatian language - Latin; Serbian language - Cyrillic) author's team "Civitas for BiH" "Civitas Bosnia and Herzegovina", 2001;
+7. "Democracy and Human Rights" handbook for secondary school teachers (Bosnian and Croatian language - Latin; Serbian language - Cyrillic) author's team "Civitas for BiH" "Civitas Bosnia and Herzegovina", 2001;
 
-"Citizen  Project"  handbook  for  upper  primary  and  secondary  school  students  (Bosnian  and Croatian language - Latin; Serbian language - Cyrillic) copyright "Center for Civic Education" "Civitas Bosnia and Herzegovina", 2000;
+8. "Citizen Project" handbook for upper primary and secondary school students (Bosnian and Croatian language - Latin; Serbian language - Cyrillic) copyright "Center for Civic Education" "Civitas Bosnia and Herzegovina", 2000;
 
-"Citizen  Project"  handbook  for  upper  primary  and  secondary  school  teachers  (Bosnian  and Croatian language - Latin; Serbian language - Cyrillic) copyright "Center for Civic Education" "Civitas Bosnia and Herzegovina", 2000;
+9. "Citizen Project" handbook for upper primary and secondary school teachers (Bosnian and Croatian language - Latin; Serbian language - Cyrillic) copyright "Center for Civic Education" "Civitas Bosnia and Herzegovina", 2000;
 
-"Democracy and Human Rights" collection of papers (Bosnian and Croatian language - Latin; Serbian language - Cyrillic) author team "Civitas for BiH" "Civitas of Bosnia and Herzegovina", 2003.
+10. "Democracy and Human Rights" collection of papers (Bosnian and Croatian language - Latin; Serbian language - Cyrillic) author team "Civitas for BiH" "Civitas of Bosnia and Herzegovina", 2003.
 
 In  the  Brčko  District  of  BiH,  civic  education  and  education  for  sustainable  development  are included  in  the  curricula  of  primary  and  secondary  school  subjects  through  regular  subjects Democracy and Human Rights, Entrepreneurship and partly Art, optional subjects Life Skills and Attitudes  and  Ethics,  as  well  as  the  head  teacher  classes.  Sustainable  development  is  partly represented in the curricula of Biology and Ecology.
 
@@ -270,7 +270,9 @@ Topics from GCED and ESD are specifically addressed through the curricula of the
 
 - Other subjects in primary and secondary schools
 
-#### *B2  Please indicate which GCED and ESD themes are taught as part of the curriculum at each level of education by entering the appropriate number in each white cell.
+#### *B2 Please indicate which GCED and ESD themes are taught as part of the curriculum at each level of education by entering the appropriate number in each white cell.
+
+KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | --- | ---
@@ -280,18 +282,18 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 4. | Peace and non-violence | 1 | 1 | 1 | 9
 5. | Climate change | 1 | 1 | 1 | 9
 6. | Environmental sustainability | 1 | 1 | 1 | 9
-7. | Human survival and well- being | 1 | 1 | 1 | 9
+7. | Human survival and well-being | 1 | 1 | 1 | 9
 8. | Sustainable consumption and production | 1 | 1 | 1 | 9
-
-KEY: 0 = no, 1 = yes, 9 = unknown
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
-#### *B3  Please indicate in which subjects or fields of study GCED and ESD are taugh9t in primary and secondary education by entering the appropriate number in each white cell.
+#### *B3 Please indicate in which subjects or fields of study GCED and ESD are taugh9t in primary and secondary education by entering the appropriate number in each white cell.
 
-Cultural diversity and tolerance | Gender equality | Human rights | Peace and non- violence | Climate change | Environmental sustainability | Human survival and well- being | Sustainable consumption and production
+KEY: 0 = no, 1 = yes, 9 = unknown
+
+Cultural diversity and tolerance | Gender equality | Human rights | Peace and non-violence | Climate change | Environmental sustainability | Human survival and well-being | Sustainable consumption and production
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Arts | 9 | 9 | 9 | 1 | 9 | 9 | 9 | 9
 Civics, civil or citizenship education | 1 | 9 | 1 | 1 | 9 | 9 | 9 | 9
@@ -307,8 +309,6 @@ Social studies | 1 | 1 | 1 | 1 | 9 | 9 | 9 | 9
 Integrated studies | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Other (please specify)
 9 | 9 | 9 | 9 | 1 | 1 | 1 | 1
-
-KEY: 0 = no, 1 = yes, 9 = unknown
 
 [[END OF PAGE 10]]
 
@@ -332,7 +332,7 @@ KEY: 0 = no, 1 = yes, 9 = unknown
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | --- | ---
 3. | Human rights education | 1 | 1 | 1 | 9
-3.1 | equality and non- discrimination based on race, colour, language, religion, disability, political or other opinion, national or social origin, birth or other status | 1 | 1 | 1 | 9
+3.1 | equality and non-discrimination based on race, colour, language, religion, disability, political or other opinion, national or social origin, birth or other status | 1 | 1 | 1 | 9
 3.2 | human rights values, human dignity, justice, inclusion and participation | 1 | 1 | 1 | 9
 3.3 | respect for human rights and fundamental freedoms (as outlined in international conventions and declarations) | 1 | 1 | 1 | 9
 
@@ -360,15 +360,15 @@ In Bosnia and Herzegovina, there is a continuous professional development of tea
 
 In the past period, several projects were implemented that included professional development of a large number of primary and secondary school teachers in the following topics: Education for Peace, Inclusive Education, Violence Prevention, Education for Social Justice, Inclusion Index, Life Skills Development, etc.
 
-Some of the above topics are planned and implemented within the Annual Work Program of the school (peace week, violence revention, p rotection of children's rights… )
+Some of the above topics are planned and implemented within the Annual Work Program of the school (peace week, violence revention, protection of children's rights…)
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
 
-#### *C2  Please indicate whether teachers, trainers and educators are trained to teach GCED and ESD  during  initial  or  pre-service  training  and/or  through  continuing  professional development. Please enter the appropriate number in each white cell.
+#### *C2 Please indicate whether teachers, trainers and educators are trained to teach GCED and ESD during initial or pre-service training and/or through continuing professional development. Please enter the appropriate number in each white cell.
 
-#### *C3  Please indicate on which GCED and ESD themes pre-service or in-service training is available for teachers, trainers and educators at each level of education by entering the appropriate number in each white cell.
+KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
@@ -379,7 +379,7 @@ Continuing professional development
 For teachers of selected subjects only (in which GCED or ESD are typically taught) | 1 | 1 | 1 | 9
 For teachers of other subjects | 1 | 1 | 1 | 9
 
-KEY: 0 = no, 1 = yes, 9 = unknown
+#### *C3 Please indicate on which GCED and ESD themes pre-service or in-service training is available for teachers, trainers and educators at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -391,42 +391,42 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 4. | Peace and non-violence | 1 | 1 | 1 | 9
 5. | Climate change | 9 | 9 | 1 | 9
 6. | Environmental sustainability | 9 | 9 | 1 | 9
-7. | Human survival and well- being | 9 | 9 | 9 | 9
+7. | Human survival and well-being | 9 | 9 | 9 | 9
 8. | Sustainable consumption and production | 9 | 9 | 9 | 9
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
-#### *C4   Please indicate whether teachers, trainers and educators are trained to teach the following dimensions of learning in GCED and ESD. Please enter the appropriate number in each white cell.
+#### *C4 Please indicate whether teachers, trainers and educators are trained to teach the following dimensions of learning in GCED and ESD. Please enter the appropriate number in each white cell.
 
-#### *C5  Please indicate whether teachers, trainers and educators are trained to use the following approaches to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
+KEY: 0 = no, 1 = yes, 9 = unknown
 
-### Student assessment (paras 4 and 5 of the 1974 Recommendation )
-
-#### D1a.  Please describe in which ways GCED and ESD are covered in student assessments and examinations.  Indicate  whether  students  are  assessed  only  on  their  knowledge  of  and skills related to the topics being tested or also on their values, attitudes and/or behaviours.
-
-Pre- primary | Primary and secondary | Tertiary | Non-formal education
+Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
 Knowledge | 1 | 1 | 1 | 9
 Skills | 1 | 1 | 1 | 9
 Values | 1 | 1 | 1 | 9
 Attitudes and behaviours | 9 | 9 | 1 | 9
 
+#### *C5 Please indicate whether teachers, trainers and educators are trained to use the following approaches to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
+
 KEY: 0 = no, 1 = yes, 9 = unknown
 
 Global citizenship and education for sustainable development
 --- | ---
 GCED/ESD are taught as separate subject(s) | 1 (GCED)
-Cross curriculum approach ( e.g. GCED/ESD are taught in more than one subject but not throughout the curriculum ) | 9
-Integrated approach ( e.g. GCED/ESD are taught throughout the whole curriculum ) | 9
-Whole school approach (e.g. GCED/ESD are integrated in the school ethos, management, governance, curriculum, teacher training, teaching practices, the learning environment, and in learning experiences in the community and life outside school ) | 9
+Cross curriculum approach (e.g. GCED/ESD are taught in more than one subject but not throughout the curriculum) | 9
+Integrated approach (e.g. GCED/ESD are taught throughout the whole curriculum) | 9
+Whole school approach (e.g. GCED/ESD are integrated in the school ethos, management, governance, curriculum, teacher training, teaching practices, the learning environment, and in learning experiences in the community and life outside school) | 9
 
-KEY: 0 = no, 1 = yes, 9 = unknown
+### D. Student assessment (paras 4 and 5 of the 1974 Recommendation)
 
-In  subjects  that  integrate  content  related  to  the  topics  of  global  citizenship  and  education  for sustainable development, when assessing students, their knowledge and skills are mainly assessed. Students are assessed in the subjects Democracy and Human Rights, Entrepreneurship, Life Skills and Attitudes, Ethics Based on Knowledge, Skills, Values and Attitudes / Behaviors.
+#### D1a. Please describe in which ways GCED and ESD are covered in student assessments and examinations. Indicate whether students are assessed only on their knowledge of and skills related to the topics being tested or also on their values, attitudes and/or behaviours.
 
-Assessment of students in  primary schools  is  performed  on  the  basis  of the  Ordinance  on  the advancement, evaluation and assessment of primary school students and the Ordinance on the promotion, evaluation and assessment of secondary school students.
+In subjects that integrate content related to the topics of global citizenship and education for sustainable development, when assessing students, their knowledge and skills are mainly assessed. Students are assessed in the subjects Democracy and Human Rights, Entrepreneurship, Life Skills and Attitudes, Ethics Based on Knowledge, Skills, Values and Attitudes / Behaviors.
+
+Assessment of students in primary schools is performed on the basis of the Ordinance on the advancement, evaluation and assessment of primary school students and the Ordinance on the promotion, evaluation and assessment of secondary school students.
 
 [[END OF PAGE 14]]
 
@@ -434,9 +434,9 @@ Assessment of students in  primary schools  is  performed  on  the  basis  of th
 
 Topics from GCED and ESD are evaluated in addition to the summative and through various forms of formative assessment.
 
-#### *D2  Please  indicate  whether  the  GCED  and  ESD  themes  below  are  generally  included  in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
+#### *D2 Please indicate whether the GCED and ESD themes below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
 
-#### *D3  Please indicate which of the dimensions of learning in GCED and ESD below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
+KEY: 0 = no, 1 = yes, 9 = unknown
 
 Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | --- | ---
@@ -449,9 +449,11 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 7. | Human survival and well-being | 0 | 1 | 1 | 9
 8. | Sustainable consumption and production | 0 | 1 | 1 | 9
 
+#### *D3 Please indicate which of the dimensions of learning in GCED and ESD below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
+
 KEY: 0 = no, 1 = yes, 9 = unknown
 
-Pre- primary | Primary and secondary | Tertiary | Non-formal education
+Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
 Knowledge | 9 | 1 | 1 | 9
 Skills | 9 | 1 | 1 | 9
@@ -474,21 +476,19 @@ GCED and ESD are not mainstreamed.
 
 - 1 Partially
 
-Some GCED and/or ESD themes 5  are mainstreamed. Select this option if GCED is mainstreamed but ESD is not (or vice versa).
+Some GCED and/or ESD themes 5 are mainstreamed. Select this option if GCED is mainstreamed but ESD is not (or vice versa).
 
-2
-
-Extensively
+- 2 Extensively
 
 Most GCED and ESD themes are mainstreamed.
 
 - 9 Not known
 
-It is not known whether GCED and ESD are mainstreamed or not. The given level of government does not have responsibility for the given component (policies, curricula, teacher education or student assessment) and/or does not have responsibility for the given level or type of education. This may occur at the national level in federal countries where education is the responsibility of individual states or at the sub-national level in small countries where there is only one level of government.
+It is not known whether GCED and ESD are mainstreamed or not.
 
-- 99 Not
+- 99 Not applicable
 
-- applicable
+The given level of government does not have responsibility for the given component (policies, curricula, teacher education or student assessment) and/or does not have responsibility for the given level or type of education. This may occur at the national level in federal countries where education is the responsibility of individual states or at the sub-national level in small countries where there is only one level of government.
 
 Pre- primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
@@ -523,7 +523,7 @@ In secondary vocational education, as well as in general education, students att
 
 Insight into the Annual Work Programs of Secondary Schools shows that at a large number of schools activities are implemented that advocate topics from GCED and ESD through the work of the Student Council, the work of the Parents' Council, the implementation of projects with the NGO sector, etc.
 
-### Adult education (para 30 of the 1974 Recommendation )
+### G. Adult education (para 30 of the 1974 Recommendation)
 
 #### G1 Please describe any major initiatives that have been undertaken to promote GCED and/or ESD  in  adult  education  and  other  forms  of  non-formal  education  including  youth education, out-of-school education, etc. Describe briefly the outcomes and impact of such initiatives and provide examples of good practices.
 
@@ -535,7 +535,7 @@ Insight into the Annual Work Programs of Secondary Schools shows that at a large
 
 #### H1 Please  describe  what  kinds  of  research  or  experimentation  have  been  carried  out  to improve the implementation of GCED and/or ESD. Describe briefly how the results of such activities have influenced education policies, curricula and/or teaching practices.
 
-#### H2 Please indicate which types of activities are available that promote international co- operation at each level of education by entering the appropriate number in each white cell.
+#### H2 Please indicate which types of activities are available that promote international co-operation at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
@@ -554,14 +554,14 @@ Other activities (please specify):
 
 ### I. Any other comments
 
-#### I1 Please indicate whether your country has faced any constraints, in particular related to global or national crises, including natural disasters,  in  implementing  the  1974 Recommendation during the reporting period.
-
-#### I2 Please provide any other relevant information or clarifications regarding the implementation of the 1974 Recommendation or the mainstreaming of GCED and ESD in your country's education system.
+#### I1 Please indicate whether your country has faced any constraints, in particular related to global or national crises, including natural disasters, in implementing the 1974 Recommendation during the reporting period.
 
 The coronavirus (Covid-19) pandemic in 2020.
 
+#### I2 Please provide any other relevant information or clarifications regarding the implementation of the 1974 Recommendation or the mainstreaming of GCED and ESD in your country’s education system.
+
 N.B. By the decision of the Council of Ministers of BiH from March 2017, the Directorate for Economic Planning of BiH was instructed to lead the process of implementation of the Sustainable Development Goals, followed by the establishment of an intergovernmental Working Group for Sustainable Development Goals.
 
-The development of a comprehensive document, the Framework of Sustainable Development Goals in BiH , which includes, among other things, the education sector, and whose goals and identified indicators will be an integral part of education policies in BiH.
+The development of a comprehensive document, the Framework of Sustainable Development Goals in BiH, which includes, among other things, the education sector, and whose goals and identified indicators will be an integral part of education policies in BiH.
 
 [[END OF PAGE 19]]
