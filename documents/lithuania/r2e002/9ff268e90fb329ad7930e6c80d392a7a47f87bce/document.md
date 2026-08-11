@@ -82,7 +82,7 @@ The Law on Education establishes the goals of the educational system, the princi
 
 - Non-formal  education -  education  according  to  a  variety  of  programs  geared  to satisfy  individual  education  needs,  to  provide  in-service  education  and  to  provide  for acquisition of an additional competence.
 
-- Non-State School - a school founded by a Lithuanian legal entity (except the Seimas , the  Government,  the  Ministry  of  Education  and  Science,  other  Ministries,  Government agencies, agencies under the Ministries, the county governor or the municipal council) or natural person; or a school founded by a Lithuanian legal entity or natural person in cooperation with foreign legal entities or natural persons; a school founded by a foreign legal entity or natural person.
+- Non-State School - a school founded by a Lithuanian legal entity (except the Seimas , the  Government,  the  Ministry  of  Education  and  Science,  other  Ministries,  Government agencies, agencies under the Ministries, the county governor or the municipal council) or natural person; or a school founded by a Lithuanian legal entity or natural person in co-operation with foreign legal entities or natural persons; a school founded by a foreign legal entity or natural person.
 
 - Certificate - a document issued according to a procedure established under the laws, confirming results of a person's learning: the completion of an education program or an education module or the attainment of an education level, acquisition of a qualification or competence.
 
@@ -146,7 +146,7 @@ The Law on Education establishes the goals of the educational system, the princi
 
 The goals of education are:
 
-- to  develop  a  young  person's  values  enabling  him  to  become  an  honest,  knowledgeseeking,  independent,  responsible  and  patriotically-minded  person;  to  cultivate  the communication  skills  important  in  contemporary  life;  to  assist  in  internalising  the information culture characteristic of the knowledge society, by providing for mastery of native and foreign languages, information literacy as well as social competence and the skills to shape life independently;
+- to  develop  a  young  person's  values  enabling  him  to  become  an  honest,  knowledge-seeking,  independent,  responsible  and  patriotically-minded  person;  to  cultivate  the communication  skills  important  in  contemporary  life;  to  assist  in  internalising  the information culture characteristic of the knowledge society, by providing for mastery of native and foreign languages, information literacy as well as social competence and the skills to shape life independently;
 
 - to identify a young person's creative abilities and upon this basis to help him acquire a vocational  qualification  and  competence  conforming  to  contemporary  culture  and technology; to assist him to get established and successfully compete in the shifting labour market; to convey the basics of modern technological, economic and business culture necessary to ensure the progress, competitiveness and sustainable development of  the  country's  economy;  to  create  conditions  for  continually  satisfying  cognitive needs as well as improving oneself through life-long education;
 
@@ -202,7 +202,7 @@ The educational system of Lithuania is comprised of:
 
 - self-education;
 
-- assistance  to  the  learner  (informational,  psychological,  social-pedagogical,  specialpedagogical and special assistance and healthcare in schools);
+- assistance  to  the  learner  (informational,  psychological,  social-pedagogical,  special-pedagogical and special assistance and healthcare in schools);
 
 - assistance  to  the  teacher  and  the  school  (assistance  in  the  form  of  information, consultations, in-service education and other forms of assistance).
 
@@ -300,7 +300,7 @@ The educational system of Lithuania is comprised of:
 
 ### Article 13. Post-secondary Studies
 
-- The  purpose  of  post-secondary  studies  is  to  assist  a  person  in  attaining  a  postsecondary education level and acquiring a particular qualification, also in preparing for participation in the labour market and civic life.
+- The  purpose  of  post-secondary  studies  is  to  assist  a  person  in  attaining  a  post-secondary education level and acquiring a particular qualification, also in preparing for participation in the labour market and civic life.
 
 - Post-secondary studies are universal; they are provided to persons who have attained a secondary level of education and are able to study independently.
 
@@ -310,7 +310,7 @@ The educational system of Lithuania is comprised of:
 
 [[START OF PAGE 11]]
 
-- Curriculum modules that have been assessed and recognised by non-university schools of higher education and meet the requirements of study curricula of the first stage of sequential  studies  at  schools  of  higher  education  may  be  included  in  the  postsecondary  curricula.  Completion  of  such  modules  in  a  post-secondary  curriculum  is credited upon continuing studies at a school of higher education.
+- Curriculum modules that have been assessed and recognised by non-university schools of higher education and meet the requirements of study curricula of the first stage of sequential  studies  at  schools  of  higher  education  may  be  included  in  the  post-secondary  curricula.  Completion  of  such  modules  in  a  post-secondary  curriculum  is credited upon continuing studies at a school of higher education.
 
 - Post-secondary study curricula are implemented by post-secondary schools and other schools licensed to provide education according to such curricula.
 
@@ -404,7 +404,7 @@ The educational system of Lithuania is comprised of:
 
 - Psychological assistance to a learner who experiences personal and learning problems is  universally  provided  by  assistance  providers,  co-operating  with  and  providing consultations to the learner's parents (foster parents, guardians,) and teachers.
 
-- Psychological  assistance  is  provided  and  prevention  of  psychological  problems  is undertaken by psychologists employed  at Psychological Services, Pedagogicalpsychological  Services  and  schools.  The  Government  or  its  authorised  institution establishes  the  procedure  for  provision  of  psychological  assistance  and  mandates requirements for the qualification and attained education level of psychologists.
+- Psychological  assistance  is  provided  and  prevention  of  psychological  problems  is undertaken by psychologists employed  at Psychological Services, Pedagogical-psychological  Services  and  schools.  The  Government  or  its  authorised  institution establishes  the  procedure  for  provision  of  psychological  assistance  and  mandates requirements for the qualification and attained education level of psychologists.
 
 ### Article 21. Social Pedagogical Assistance
 
@@ -428,7 +428,7 @@ The educational system of Lithuania is comprised of:
 
 [[START OF PAGE 15]]
 
-- compensatory  educational  equipment;  also,  they  are  provided  with  interpreters, readers, attendants and teachers' aides
+compensatory  educational  equipment;  also,  they  are  provided  with  interpreters, readers, attendants and teachers' aides
 
 - Pedagogues  of  Pedagogical-psychological  Services  and  special  educators  at  schools provide consultations to parents (foster parents, guardians) of the recipients of special assistance and to teachers.
 
@@ -446,7 +446,7 @@ The educational system of Lithuania is comprised of:
 
 - The  purpose  of  assistance  to  the  school  and  the  teacher  is  to  create  conditions  for teachers to engage in further learning, to create an environment that promotes school development and teachers' professional growth, and to provide necessary informational, expert and consulting assistance.
 
-- Consulting assistance to teachers is  tendered  by  providers  of  psychological,  specialpsychological, special, social-pedagogical assistance, by teacher-consultants and other persons.
+- Consulting assistance to teachers is  tendered  by  providers  of  psychological,  special-psychological, special, social-pedagogical assistance, by teacher-consultants and other persons.
 
 - Assistance in the upgrading of teachers' skills is a constituent part of non-formal adult education.
 
@@ -508,7 +508,7 @@ the  aspired-to  attained  education  level  and  profession  in  line  with  hi
 
 ### Article 28. Network of Education Providers
 
-- The  purpose  of  the  network  of  education  providers  is  to  ensure  accessibility  of compulsory and universally available education, its variety, and the possibility of lifelong learning to all citizens of the Republic of Lithuania and aliens having a permanent or provisional residence permit for the Republic of Lithuania.
+- The  purpose  of  the  network  of  education  providers  is  to  ensure  accessibility  of compulsory and universally available education, its variety, and the possibility of life-long learning to all citizens of the Republic of Lithuania and aliens having a permanent or provisional residence permit for the Republic of Lithuania.
 
 - The network of education providers encompasses State-run, municipal and non-State general  education,  vocational,  post-secondary  schools,  schools  of  higher  education, freelance teachers and other education providers.
 
@@ -592,7 +592,7 @@ the  aspired-to  attained  education  level  and  profession  in  line  with  hi
 
 ### Article 31. The Right to Study Religion
 
-- Religion is an optional part of moral education. Moral education is a part of primary, basic and secondary education. Upon parents' (foster parents', guardians') request, the subject of religion may be included in the pre-school education of their children. Nonformal religious education and self-education in religion may be carried out.
+- Religion is an optional part of moral education. Moral education is a part of primary, basic and secondary education. Upon parents' (foster parents', guardians') request, the subject of religion may be included in the pre-school education of their children. Non-formal religious education and self-education in religion may be carried out.
 
 - A learner in a school that implements primary, basic and secondary curricula has the right  at  the  age  of  14  to  choose  one  of  the  following  subjects  of  compulsory  moral education:  religious  education  (of  a  recognised  traditional  religious  community  or association) or ethics.
 
@@ -630,9 +630,9 @@ recognised  traditional  religious  community  or  association  professed  by  t
 
 [[START OF PAGE 22]]
 
-- for  alcohol  and  drug  addiction  as  well  as  persons  experiencing  social  exclusion  is ensured by providing them with social services and pedagogical assistance.
+for  alcohol  and  drug  addiction  as  well  as  persons  experiencing  social  exclusion  is ensured by providing them with social services and pedagogical assistance.
 
-- The Government and municipalities implement targeted social and education programs directly  or  via  schools.  Such  programs  may  be  developed and implemented by nongovernmental organisations as well as other legal entities and natural persons.
+- The Government and municipalities implement targeted social and education programs directly  or  via  schools.  Such  programs  may  be  developed and implemented by non-governmental organisations as well as other legal entities and natural persons.
 
 - The Government and municipalities utilise the database of the Register of Residents and that of learners, to determine the number of children not attending school and their education  needs  and,  together  with  schools,  implement  targeted  programs  for  their inclusion in education activity.
 
@@ -656,9 +656,9 @@ recognised  traditional  religious  community  or  association  professed  by  t
 
 [[START OF PAGE 23]]
 
-- qualification and to study independently; such conditions are provided as prescribed by the Government or its authorised institution.
+qualification and to study independently; such conditions are provided as prescribed by the Government or its authorised institution.
 
-- Servicepersons engaged in compulsory military service are provided with opportunities  to  study  according  to  modules  of  general  education  programs,  and  to participate  in  non-formal  education  programs  as  prescribed  by  the  Minister  of Education and Science and the Minister of National Defence, also to engage in selfeducation.
+- Servicepersons engaged in compulsory military service are provided with opportunities  to  study  according  to  modules  of  general  education  programs,  and  to participate  in  non-formal  education  programs  as  prescribed  by  the  Minister  of Education and Science and the Minister of National Defence, also to engage in self-education.
 
 ### Article 36. Transportation, Dormitories, Meal Service
 
@@ -672,7 +672,7 @@ recognised  traditional  religious  community  or  association  professed  by  t
 
 - A learner who is admitted to a general education school and lives in a territory other than the service territory assigned by the founder to that school, upon the request of his parents  (foster  parents,  guardians)  is  provided  with  dormitory  accommodation.  The founder  of  the  school  establishes  a  procedure  for  accommodation  at  the  school dormitory.
 
-- Students  (except  orphans  or  those  left  without  the  care  of  parents  (foster  parents, guardians)) make partial payment for dormitory accommodation at a vocational, postsecondary school or school of higher education. The amount of payment for dormitory
+- Students  (except  orphans  or  those  left  without  the  care  of  parents  (foster  parents, guardians)) make partial payment for dormitory accommodation at a vocational, post-secondary school or school of higher education. The amount of payment for dormitory
 
 23
 
@@ -852,7 +852,7 @@ school  and  children's  non-formal  education  programs,  confirms  General  te
 
 9. Post-secondary schools are not divided into types.
 
-10. The type of a non-formal education school is defined on the basis of the main nonformal educational activity implemented by that school.
+10. The type of a non-formal education school is defined on the basis of the main non-formal educational activity implemented by that school.
 
 28
 
@@ -876,7 +876,7 @@ school  and  children's  non-formal  education  programs,  confirms  General  te
 
 - the Government may establish a State college upon a motion from the Ministry of Education and Science;
 
-- the  Ministry  of  Education  and  Science  may  establish  vocational  schools,  nonformal  adult  education  schools,  if  necessary  -  schools  to  satisfy  nation-wide learners' education (learning) needs (a national arts school, a special education school,  etc.)  and  institutions  that  provide  assistance  to  learners,  teachers  and schools; with written approval of the Minister of Finance;
+- the  Ministry  of  Education  and  Science  may  establish  vocational  schools,  non-formal  adult  education  schools,  if  necessary  -  schools  to  satisfy  nation-wide learners' education (learning) needs (a national arts school, a special education school,  etc.)  and  institutions  that  provide  assistance  to  learners,  teachers  and schools; with written approval of the Minister of Finance;
 
 - other Ministries, Government agencies, agencies under the Ministries may found vocational schools and non-formal adult education schools, with written approval of the Minister of Education and Science and the Minister of Finance;
 
@@ -954,15 +954,15 @@ school  and  children's  non-formal  education  programs,  confirms  General  te
 
 [[START OF PAGE 32]]
 
-reorganises,  liquidates  or  restructures  schools  of  pre-school  education  or  other  nonformal  education  schools  independently,  and  general  education  schools,  special education  schools,  vocational  training  schools,  institutions  providing  assistance  to learners, teachers or schools - according to the criteria laid down by the Government.
+reorganises,  liquidates  or  restructures  schools  of  pre-school  education  or  other  non-formal  education  schools  independently,  and  general  education  schools,  special education  schools,  vocational  training  schools,  institutions  providing  assistance  to learners, teachers or schools - according to the criteria laid down by the Government.
 
 - The  founder  of  a  school  must  notify  each  learner  (student)  about  the  school's reorganisation, liquidation or restructuring in writing at least three months before the start  of  the  school's  reorganisation,  liquidation  or  restructuring.  The  founder  must discharge  all  obligations  of  the  school  to  the  learners  provided  for  in  the  study agreement.
 
 - The founder reorganises, liquidates or restructures an institution providing assistance to learners, teachers or schools, as prescribed in the Civil Code.
 
-## CHAPTER FIVE RIGHTS AND OBLIGATIONS OF LEARNERS, PARENTS (FOSTER PARENTS,
+## CHAPTER FIVE
 
-## GUARDIANS), TEACHERS AND OTHER EDUCATION PROVIDERS
+## RIGHTS AND OBLIGATIONS OF LEARNERS, PARENTS (FOSTER PARENTS, GUARDIANS), TEACHERS AND OTHER EDUCATION PROVIDERS
 
 ### Article 45. Agreements between the Learner and the Education Provider
 
@@ -1048,7 +1048,7 @@ reorganises,  liquidates  or  restructures  schools  of  pre-school  education  
 
 - provide their children with sound and secure living conditions; safeguard  them against violence, intimidation and exploitation; ensure that their children undergo timely medical check-ups;
 
-- co-operate  with  the  school  principal,  other  education  provider,  teachers,  and other  experts  who  provide  special,  psychological,  social-pedagogical,  specialpedagogical  assistance  and  healthcare  in  dealing  with  the  issues  of  children's learning;
+- co-operate  with  the  school  principal,  other  education  provider,  teachers,  and other  experts  who  provide  special,  psychological,  social-pedagogical,  special-pedagogical  assistance  and  healthcare  in  dealing  with  the  issues  of  children's learning;
 
 - choose a program of moral development (religious instruction or ethics) for their children who are under 14 years of age;
 
@@ -1070,7 +1070,7 @@ reorganises,  liquidates  or  restructures  schools  of  pre-school  education  
 
 - a person who  has  attained a post-secondary or higher education level (a specialised-secondary education level before 1995) and does not have a pedagogue's qualification, as well as a person who has graduated from a vocational school and has at least 3 years of work experience in the respective field may work as a teacher of primary vocational training. Pedagogical-psychological knowledge courses  must  have  been  taken  by  such  persons  in  the  manner  prescribed  by  the Minister of Education and Science;
 
-- a person who  has  attained a post-secondary or higher education level (a specialised-secondary education level before 1995), or a secondary education level, but does not have a pedagogue's qualification, and who has taken a pedagogicalpsychological  knowledge  course  in  the  manner  prescribed  by  the  Minister  of Education and Science, may work as a teacher of children's non-formal education.
+- a person who  has  attained a post-secondary or higher education level (a specialised-secondary education level before 1995), or a secondary education level, but does not have a pedagogue's qualification, and who has taken a pedagogical-psychological  knowledge  course  in  the  manner  prescribed  by  the  Minister  of Education and Science, may work as a teacher of children's non-formal education.
 
 - Non-formal adult education programs of may be taught by:
 
@@ -1340,7 +1340,7 @@ concerning founding, reorganisation, liquidation and restructuring of State-run 
 
 - to  confirm  the  Procedure  for  organising  open  competitions  for  the  job  positions  of Principals of State schools (except schools of higher education) and municipal schools;
 
-- to  confirm  the  By-laws  of  in-service  training  and  attestation  of  principals,  their assistants for education of State-run (except higher and post-secondary education) and municipal  schools,  heads  of  the  divisions  organising  education,  the  By-laws  of  inservice training and attestation of teachers and experts providing assistance to learners, the Regulations for training of pedagogues, the By-laws of the Commissions in charge of fluency qualification in the State language;
+- to  confirm  the  By-laws  of  in-service  training  and  attestation  of  principals,  their assistants for education of State-run (except higher and post-secondary education) and municipal  schools,  heads  of  the  divisions  organising  education,  the  By-laws  of  in-service training and attestation of teachers and experts providing assistance to learners, the Regulations for training of pedagogues, the By-laws of the Commissions in charge of fluency qualification in the State language;
 
 - to  work  on  behalf  of  the  teaching  of  the  Lithuanian  language  and  teaching  in  the Lithuanian  language  in  foreign  countries;  to  analyse  whether  the  use  of  budgetary allocations to education is appropriate, to report to the public on the general state of education in the country and perform other functions prescribed by the laws and the Government.
 
@@ -1376,7 +1376,7 @@ County governors:
 
 - form the network of special education schools and, together with municipal institutions,  ensure  the  education  of  special  needs  students  under  programs  of compulsory and universally available education;
 
-- found institutions providing assistance to learners, teachers and schools (Pedagogicalpsychology  services,  Teachers'  education  centres,  etc.),  perform  the  functions  of founder of their subordinate schools and of these institutions;
+- found institutions providing assistance to learners, teachers and schools (Pedagogical-psychology  services,  Teachers'  education  centres,  etc.),  perform  the  functions  of founder of their subordinate schools and of these institutions;
 
 - submit information regarding the state of education in the county to the Ministry as prescribed by the Minister of Education and Science.
 
@@ -1422,7 +1422,7 @@ County governors:
 
 - evaluates residents' educational needs and adopts decisions concerning provision of education programs;
 
-- sets the beginning and duration of a school year for non-formal education and nonState schools;
+- sets the beginning and duration of a school year for non-formal education and non-State schools;
 
 - founds, reorganises, liquidates and restructures the school;
 
@@ -1446,7 +1446,7 @@ County governors:
 
 - carries out attestation of Principals of State-run schools (except schools of higher education) as prescribed by the Minister of Education and Science;
 
-- organises  provision  of  informational,  psychological,  social-pedagogical,  specialpedagogical,  special  and  medical  assistance  to  learners,  also  the  provision  of information,  in-service,  consultations  and  other  assistance  to  the  school  and  the teachers;
+- organises  provision  of  informational,  psychological,  social-pedagogical,  special-pedagogical,  special  and  medical  assistance  to  learners,  also  the  provision  of information,  in-service,  consultations  and  other  assistance  to  the  school  and  the teachers;
 
 - organises in-service and attestation of the Principal, pedagogues and other persons involved in the education process;
 
@@ -1480,7 +1480,7 @@ County governors:
 
 - appoints  and  dismisses  teachers,  other  persons  involved  in  the  education  process and  service  personnel,  also  confirms  their  job  descriptions  in  accordance  with prescribed procedure;
 
-- is responsible for making public the information specified in Article 26 and for the democratic  management  of  the  school;  ensures  relations  based  on  co-operation,  the observance  of  the  norms  of  Teacher's  ethics,  transparency  in  decision-making,  the provision of information to community members, in-service for the teaching and nonteaching  staff,  a  sound  and  safe  environment  that  prevents  any  manifestation  of violence or intimidation, as well as the formation of hazardous habits;
+- is responsible for making public the information specified in Article 26 and for the democratic  management  of  the  school;  ensures  relations  based  on  co-operation,  the observance  of  the  norms  of  Teacher's  ethics,  transparency  in  decision-making,  the provision of information to community members, in-service for the teaching and non-teaching  staff,  a  sound  and  safe  environment  that  prevents  any  manifestation  of violence or intimidation, as well as the formation of hazardous habits;
 
 - analyses the status of resources allotted to school activity and management, initiates the implementation of the school's internal audit and is responsible for the results of the school's activity;
 
@@ -1566,7 +1566,7 @@ The  following  State  education  self-governance  bodies  promote  the  partici
 
 - State  supervision  of  education  providers'  activities  is  performed  by  the  Minister  of Education  and  Science  and  the  County  governor  in  accordance  with  rules  of  State supervision of education confirmed by the Government.
 
-- The founder carries out supervision of the school's activity in accordance with the Bylaws  of  supervision  of  school  activity  confirmed  by  the  Minister  of  Education  and Science, and with the prescribed Methodology of external audit of school management and pedagogical activity.
+- The founder carries out supervision of the school's activity in accordance with the By-laws  of  supervision  of  school  activity  confirmed  by  the  Minister  of  Education  and Science, and with the prescribed Methodology of external audit of school management and pedagogical activity.
 
 - Supervision  of  the  quality  of  higher  education  studies  is  performed  by  the  Study Quality Assessment Centre.
 
@@ -1597,17 +1597,17 @@ Education is funded from the following sources:
 
 - The principle of setting an amount for Teaching funds for one student is applied when allocating  funds  from  State  and  municipal  budgets  for  the  financing  of  formal education programs at State-run, municipal and non-State schools (except schools of higher education) and for non-formal programs of children's education.
 
-- Teaching funds for municipal and non-State funded schools to finance pre-school, preprimary,  primary,  basic,  and  secondary,  and  the  respective  special  education  and vocational training curricula, also supplementary modules  of formal education programs  and  modules  answering  to  the  learners'  self  expression  needs  provided  at schools  of  non-formal  children's  education  are  allocated  from  targeted  budgetary assignments to municipal budgets from the State budget,  as confirmed in the Law on the Approval of Financial Indicators of the State Budget and Municipal Budgets for the  corresponding  year;  Teaching  funds  for  State-run  schools  are  allocated  from assignments set forth in the State budget.
+- Teaching funds for municipal and non-State funded schools to finance pre-school, pre-primary,  primary,  basic,  and  secondary,  and  the  respective  special  education  and vocational training curricula, also supplementary modules  of formal education programs  and  modules  answering  to  the  learners'  self  expression  needs  provided  at schools  of  non-formal  children's  education  are  allocated  from  targeted  budgetary assignments to municipal budgets from the State budget,  as confirmed in the Law on the Approval of Financial Indicators of the State Budget and Municipal Budgets for the  corresponding  year;  Teaching  funds  for  State-run  schools  are  allocated  from assignments set forth in the State budget.
 
 - School  maintenance  funds  are  allocated  to  schools  (except  non-state  schools  of traditional  religious  communities  and  associations,  specified  in  paragraph  7  of  this Article) by the school's founder as prescribed by that founder.
 
-- The  implementation  of  non-formal  children's  education  (except  pre-school  and  preprimary  education)  programs  is  funded  by  the  founder  of  the  school,  learners  (their representatives) and sponsors, as prescribed in legislative acts.
+- The  implementation  of  non-formal  children's  education  (except  pre-school  and  pre-primary  education)  programs  is  funded  by  the  founder  of  the  school,  learners  (their representatives) and sponsors, as prescribed in legislative acts.
 
 - Vocational,  post-secondary,  and  non-formal  adult  education  schools  and  institutions providing assistance to learners, teachers and schools are financed by their founders.
 
 - Schools  of  higher  education  are  financed  as  prescribed  in  the  Law  on  Higher Education.
 
-- Children's  music,  art  and  sports  schools,  non-State  schools  and  programs  of  nonformal education receive support from the State and municipal budgets in accordance with  the  procedure  established  by  the  Government.  Non-State  schools  of  traditional religious communities and associations implementing formal education programs are financed  in  accordance  with  a  procedure  established  by  the  Government  or  its authorised  institution,  by  allocating  from  the  budget  Teaching  funds  and  School maintenance funds of the same amount as those allocated to State-run and municipal schools of the corresponding type, when an international agreement of the Republic of Lithuania provides for such arrangements.
+- Children's  music,  art  and  sports  schools,  non-State  schools  and  programs  of  non-formal education receive support from the State and municipal budgets in accordance with  the  procedure  established  by  the  Government.  Non-State  schools  of  traditional religious communities and associations implementing formal education programs are financed  in  accordance  with  a  procedure  established  by  the  Government  or  its authorised  institution,  by  allocating  from  the  budget  Teaching  funds  and  School maintenance funds of the same amount as those allocated to State-run and municipal schools of the corresponding type, when an international agreement of the Republic of Lithuania provides for such arrangements.
 
 50
 
@@ -1631,7 +1631,7 @@ Education is funded from the following sources:
 
 ### Article 71. Material Support
 
-- A learner who studies according to primary vocational training and students of postsecondary schools may be paid a stipend and receive material support as prescribed by the Government.
+- A learner who studies according to primary vocational training and students of post-secondary schools may be paid a stipend and receive material support as prescribed by the Government.
 
 - Support to students of schools of higher education is regulated by the Law on Higher Education.
 
@@ -1710,11 +1710,11 @@ programs receive certificates of the corresponding foreign countries or organisa
 
 ### Article 75. Provisions for the Transition Period
 
-- Enrollment for curricula of post-secondary studies continues till the 2003-2004 school year.
+- Enrollment for curricula of post-secondary studies continues till the 2003–2004 school year.
 
-- Universally available pre-primary training is introduced starting with the 2005-2006 school year.
+- Universally available pre-primary training is introduced starting with the 2005–2006 school year.
 
-- Starting with the 2005-2006  school  year, when  partially financing pre-school curricula,  the  principle  of  setting  an  amount  for  Teaching  funds  for  one  pupil  is applied.
+- Starting with the 2005–2006  school  year, when  partially financing pre-school curricula,  the  principle  of  setting  an  amount  for  Teaching  funds  for  one  pupil  is applied.
 
 - Until  the  Register  of  legal  entities  comes  into  operation,  registration  of  educational establishments takes place according to the By-laws  of  the State Register of Educational Establishments and Institutions of Science and Studies confirmed by the Government.
 
