@@ -8,54 +8,52 @@
 
 ### PRELIMINARY PROVISIONS
 
-Short Title
+Section Short Title
 
-Section
+1. Short title and commencement
 
-- Short title and commencement 1.
+2. Application
 
-- Application 2.
+3. Interpretation.
 
-- Interpretation. 3.
-
-## PART 11
+## PART II
 ### Tanzania COMMISSION FOR UNIVERSITIES
 
 #### (a) Establishment of the Tanzania Commission for Universities
 
-- Establishment of the Commission.
+4. Establishment of the Commission.
 
-- Functions of the Commission. 5.
+5. Functions of the Commission.
 
-- Power to grant accreditation. 6.
+6. Power to grant accreditation.
 
-- Power to require self-study report. 7.
+7. Power to require self-study report.
 
-- Power to demand for professional opinion or information. 8.
+8. Power to demand for professional opinion or information.
 
 #### (b) Committees of the Commission
 
-- Committees of the Commission.
+9. Committees of the Commission.
 
-- Accreditation Committee.
+10. Accreditation Committee.
 
-- Grants Committee.
+11. Grants Committee.
 
-- Admissions Committee.
+12. Admissions Committee.
 
-- Executive Secretary.
+13. Executive Secretary.
 
-- Deputy Executive Secretary.
+14. Deputy Executive Secretary.
 
-- Other Staff of the Commission.
+15. Other Staff of the Commission.
 
 #### (b) Financial Provisions For the Commission
 
-- Funds and other resources of the Commission.
+16. Funds and other resources of the Commission.
 
-- Annual estimates.
+17. Annual estimates.
 
-- Accounts and Audit.
+18. Accounts and Audit.
 
 1
 
@@ -73,39 +71,39 @@ Universities
 
 ### TYPES, CATEGORIES, AWARDS, AND STAFF DESIGNATIONS OF A UNIVERSITY
 
-- Types of universities
+19. Types of universities
 
-- Awards and designations of staff of a university.
+20. Awards and designations of staff of a university.
 
 ## PART IV
 
 ### ESTABLISHMENT OF A UNIVERSITY
 
-- Establishment of a university by charter.
+21. Establishment of a university by charter.
 
-- Procedure for establishment of a university.
+22. Procedure for establishment of a university.
 
-- Provisional licence.
+23. Provisional licence.
 
-- Application for grant of accreditation and charter.
+24. Application for grant of accreditation and charter.
 
-- Granting of charter to a private institution.
+25. Granting of charter to a private institution.
 
-- Effect of granting and publication of charter.
+26. Effect of granting and publication of charter.
 
-- Application for approval of a foreign charter.
+27. Application for approval of a foreign charter.
 
-- Protection of names.
+28. Protection of names.
 
-- Revocation of a charter.
+29. Revocation of a charter.
 
-- Variation of a charter.
+30. Variation of a charter.
 
-- President may delegate powers relating to charters.
+31. President may delegate powers relating to charters.
 
-- Annual report and audited accounts of a university.
+32. Annual report and audited accounts of a university.
 
-- Constituent colleges and affiliation to a university.
+33. Constituent colleges and affiliation to a university.
 
 ## PART V
 
@@ -113,29 +111,29 @@ Universities
 
 #### (a) The Chancellor and other Senior Officers
 
-- The Chancellor.
+34. The Chancellor.
 
-- Appointment of a Chancellor.
+35. Appointment of a Chancellor.
 
-- Vice Chancellor.
+36. Vice Chancellor.
 
-- Deputy Vice Chancellor.
+37. Deputy Vice Chancellor.
 
-- Principal of a university college.
+38. Principal of a university college.
 
-- Deputy Principals.
+39. Deputy Principals.
 
-- Director.
+40. Director.
 
-- Deputy Director.
+41. Deputy Director.
 
-- Registrar
+42. Registrar
 
 #### (b) Principal Organs
 
-- Principal organs of governance.
+43. Principal organs of governance.
 
-- Composition of Council or Governing Board.
+44. Composition of Council or Governing Board.
 
 [[END OF PAGE 2]]
 
@@ -147,49 +145,49 @@ Universities
 
 2005 3
 
-- Functions and powers of Council or Governing Board.
+45. Functions and powers of Council or Governing Board.
 
-- Composition of Senate or Academic Committee.
+46. Composition of Senate or Academic Committee.
 
-- Functions of Senate or Academic Committee.
+47. Functions of Senate or Academic Committee.
 
 ## PART VI
 
 ### CONVOCATIONS, STAFF ASSOCIATIONS AND STUDENTS' ORGANIZATIONS, ADMINISTRATION AND WELFARE
 
-- Convocations and staff associations.
+48. Convocations and staff associations.
 
-- Students' organizations.
+49. Students' organizations.
 
-- Administration and welfare of students.
+50. Administration and welfare of students.
 
-- Prohibition of political party's activities on campus -
+51. Prohibition of political party's activities on campus -
 
 ## PART VII
 
 ### MISCELLANEOUS PROVISIONS
 
-- Students' admission qualifications.
+52. Students' admission qualifications.
 
-- Committee of Vice-Chancellors, Principals and Directors.
+53. Committee of Vice-Chancellors, Principals and Directors.
 
-- Powers of the Committee of Vice-Chancellors, Principals and Directors.
+54. Powers of the Committee of Vice-Chancellors, Principals and Directors.
 
-- Appointment to key administrative positions.
+55. Appointment to key administrative positions.
 
-- Restriction on power of public institutions to alienate immovable property.
+56. Restriction on power of public institutions to alienate immovable property.
 
-- Power of Minister to exempt certain institutions.
+57. Power of Minister to exempt certain institutions.
 
-- Penalty for certain offences.
+58. Penalty for certain offences.
 
-- Protection of members and staff.
+59. Protection of members and staff.
 
-- Amendments and repeals.
+60. Amendments and repeals.
 
-- Transitional and consequential provisions.
+61. Transitional and consequential provisions.
 
-- Power of the Minister to make Regulations -
+62. Power of the Minister to make Regulations -
 
 ## SCHEDULES
 
@@ -205,37 +203,13 @@ Universities
 
 No. 7 of 2005
 
-.. .
-
 I ASSENT,
 
-...
-
-I
-
-,
-
-)
-
-'' , ;%
+Benjamin W. Mkapa
 
 President
 
-~1
-
-...
-
-I
-
-,
-
-)
-
-'' , ;%
-
-President
-
-~1
+6th June, 2005.
 
 An Act to make provisions for the establishment, composition and functions of the Commission for universities, the coordination and rationalization of the types and categories of universities, the promotion and financing of higher education, establishment and governance of universities, and for other related matters.
 
@@ -245,23 +219,23 @@ ENACTED by the Parliament of the United Republic of Tanzania.
 
 ### PRELIMINARY PROVISIONS
 
--(1) This Act may be cited as the Universities Act, 2005.
+##### Short title and commencement
 
-- This Act shall come into operation on such date as the Minister may, by notice published in the Gazette, appoint.
+1.-(1) This Act may be cited as the Universities Act, 2005.
 
-- This Act shall apply to Mainland Tanzania as well as to Tanzania Zanzibar.
-
-- In this Act, unless the context otherwise requires -
-
-"Academic Committee" means a committee established in accordance with section 46;
-
-"accreditation" means a  regulatory system for recognizing  higher
-
-##### Short title and Cornmencement
+(2) This Act shall come into operation on such date as the Minister may, by notice published in the Gazette, appoint.
 
 ##### Application
 
+2. This Act shall apply to Mainland Tanzania as well as to Tanzania Zanzibar.
+
 ##### Interpretation
+
+3. In this Act, unless the context otherwise requires -
+
+"Academic Committee" means a committee established in accordance with section 46;
+
+"accreditation" means a regulatory system for recognizing higher
 
 [[END OF PAGE 4]]
 
@@ -273,13 +247,13 @@ Universities
 
 2005
 
-- education institutions and academic and professional programmes associated with those institutions for a level of performance, integrity, appropriate standards and quality which entitle them to the confidence of the education community and the public they serve;
+education institutions and academic and professional programmes associated with those institutions for a level of performance, integrity, appropriate standards and quality which entitle them to the confidence of the education community and the public they serve;
 
 ''accredited institution'' means an institution which has been given full recognition upon satisfaction of the legal requirements for accreditation;
 
-''admission- means process of accepting applications by potential students for entry into higher education institutions on the basis of the criteria set for respective awards, courses or programmes of the institutions;
+''admission'' means process of accepting applications by potential students for entry into higher education institutions on the basis of the criteria set for respective awards, courses or programmes of the institutions;
 
-''affiliated college'' means an autonomous higher education institution accredited to offer degree programme and confer degrees on behalf of an accredited university'';
+''affiliated college'' means an autonomous higher education institution accredited to offer degree programme and confer degrees on behalf of an accredited university;
 
 ''campus'' means any place or premises in which operations of a higher education institution are carried on regularly;
 
@@ -287,17 +261,17 @@ Universities
 
 ''center of excellency'' means a university or university college designated as such and which has excelled in a particular field;
 
-" certificate'' means an award of a professional qualification and competence, bearing that name or title, offered by a higher education institution;
+''certificate'' means an award of a professional qualification and competence, bearing that name or title, offered by a higher education institution;
 
 ''Chancellor'' means a Chancellor of a university provided for under section 34;
 
 ''charter'' means a constitution or a written statement of functions, organs of governance and principles of a university granted under section 25;
 
-" college'' means a college other than a university college established under section 19;
+''college'' means a college other than a university college established under section 19;
 
 ''Commission'' means the Tanzania Commission for Universities established under section 4;
 
-" connected college'' means an autonomous institution empowered to offer university level education, provided for under section 19;
+''connected college'' means an autonomous institution empowered to offer university level education, provided for under section 19;
 
 "constituent college'' means a semi-autonomous institution established in accordance with section 19 and empowered to offer university level education placed under the tutelage of a university including a
 
@@ -311,7 +285,7 @@ Universities
 
 2005 7
 
-- foreign university, for nurturance with a view to its establishment as an independent university;
+foreign university, for nurturance with a view to its establishment as an independent university;
 
 ''Council'' means a Council of a university established in accordance with section 43;
 
@@ -319,7 +293,7 @@ Universities
 
 ''course of study'' means the structure for degrees or other academic or professional qualifications and the subjects of study in such structure;
 
-" course regulations'' means regulations in respect of a course of study for a university, college or other academic qualification of a higher education institution;
+''course regulations'' means regulations in respect of a course of study for a university, college or other academic qualification of a higher education institution;
 
 ''degree'' means an award of a full academic and, or professional qualification and competence, bearing that name or title offered by a university accredited to offer degree programmes and confer degrees;
 
@@ -363,13 +337,13 @@ by or through the Government, local authority or other institution to a higher e
 
 ''institute'' means a higher education institution which offers-
 
-(a) a level of education and training in a specialized academic and, professional discipline or m a specified limited number of specialized professional disciplines that leads to intermediate qualifications; and
+(a) a level of education and training in a specialized academic and, professional discipline or in a specified limited number of specialized professional disciplines that leads to intermediate qualifications; and
 
 (b) if it is a campus college, sub-division or institute of a university or of a university college, a level of education and training in a specialised academic or professional discipline or in a specified limited number of specialised academic or professional disciplines that leads to full academic and or professional qualifications and competence;
 
 ''institution'' means a higher education institution;
 
-''intermediate ''intermediate awards'' has the same meaning as professional qualifications'',
+''intermediate awards'' has the same meaning as ''intermediate professional qualifications'',
 
 ''intermediate professional qualifications'' means certificates or diplomas offered by an institution;
 
@@ -409,9 +383,7 @@ non-university college provided for under section 38;
 
 "senate'' means a senate of a university provided for under section 43;
 
-''self-study'' means a unilaterally initiated comprehensive effort by an institution or a professional programme aimed at measuring progress of the institution according to accepted standards and
-
-- objectives and proposing improvements;
+''self-study'' means a unilaterally initiated comprehensive effort by an institution or a professional programme aimed at measuring progress of the institution according to accepted standards and objectives and proposing improvements;
 
 ''staff association'' means an academic, administrative or technical staff association established in a university college or university in terms of section 48;
 
@@ -439,7 +411,6 @@ Universities
 
 2005
 
-##### Establishment of the commission
 or university that leads to an award of a degree;
 
 ''university institute'' means a campus institute;
@@ -458,7 +429,9 @@ or university that leads to an award of a degree;
 
 #### (a) Establishment of the Tanzania Commission for Universities
 
-4.-(l) There is hereby established a Commission to be known as the Tanzania Commission for Universities.
+##### Establishment of the Commission
+
+4.-(1) There is hereby established a Commission to be known as the Tanzania Commission for Universities.
 
 (2) The Commission shall be a body corporate with perpetual succession and a common seal and shall in its corporate name, be capable of -
 
@@ -484,20 +457,33 @@ Universities
 
 2005 11
 
-5.-(1) The functions of the Commission shall be - (a) to advise the Minister on any aspect or matter of University education; |
-##### Func- tions of the Commi- ssion
---- | ---
-(b) to audit, on a regular basis, the quality assurance mechanisms of universities; |
+##### Functions of the Commission
+
+5.-(1) The functions of the Commission shall be -
+
+(a) to advise the Minister on any aspect or matter of University education;
+
+(b) to audit, on a regular basis, the quality assurance mechanisms of universities;
+
 (c) to provide guidance and monitor-
+
 (i) criteria for student admission to universities in the United Republic;
+
 (ii) proposals of outlines of academic programmes or syllabi and general regulations of curriculum submitted to the Commission by universities;
+
 (iii) the long-term planning, staff development, scholarship and physical development strategies and programmes of universities;
+
 (iv) recurrent and development budgets for public universities;
+
 (d) to collect, examine, store in data-base or data-bank and publish information relating to higher education, research and consultancy;
+
 (e) to consider and make recommendations to the Minister regarding the upgrading or downgrading of the status of a university;
+
 (f) to establish transfer procedures for university students who wish to be transferred from one university to another and from one programme to another;
-(g) to levy fees or any other form of charge for specific services, facilities and documents rendered or supplied to institutions; (h) to monitor and regulate general management and
-performance of universities;
+
+(g) to levy fees or any other form of charge for specific services, facilities and documents rendered or supplied to institutions;
+
+(h) to monitor and regulate general management and performance of universities;
 
 [[END OF PAGE 10]]
 
@@ -553,7 +539,7 @@ Universities
 
 (r) to do all such other acts and things as are provided for to be done by the Commission under this Act or any other written law.
 
-(2) The Minister shall, after receiving advice under paragraph (a) of subsection (l)-
+(2) The Minister shall, after receiving advice under paragraph (a) of subsection (1)-
 
 (a) consider and take into account the advice of the Commission; or
 
@@ -567,13 +553,13 @@ Universities
 
 (4) Where the Minister decides to act without the advice of the Commission, he shall notify the Commission and provide reasons in writing for such action.
 
+##### Power to grant Accreditation
+
 6.-(1) Subject to the provisions of this Act no institution resident in the United Republic of Tanzania shall commence or carry on university education operations, activities or functions unless the institution-
 
 (a) is given statutory authority;
 
 (b) is accredited and its programmes or courses of study are approved in accordance with its enabling statutory provisions;
-
-##### Power to grant Accreditation
 
 [[END OF PAGE 12]]
 
@@ -589,12 +575,13 @@ Universities
 
 (2) The procedure for accreditation of a university or approval under subsection (1) shall be as may be prescribed.
 
+##### Power to require self-study report
+
 7. The Commission shall have power to require a university to conduct a self-study and academic audit covering the institution in general and the programmes and awards of the institution in particular and prepare and submit the report in the manner as may be prescribed.
-##### Power to require selfstudy report
 
 ##### Power to demand professional opinion or information
 
-8.- (l) Without prejudice to any other written law, the Commission shall have power to demand professional opinion or such information from any higher education institution when considering courses of study or programmes, self-study reports or any other matter in the exercise of its powers and performance of its functions provided for under this Act.
+8.-(1) Without prejudice to any other written law, the Commission shall have power to demand professional opinion or such information from any higher education institution when considering courses of study or programmes, self-study reports or any other matter in the exercise of its powers and performance of its functions provided for under this Act.
 
 (2) A higher education institution from which opinion or information is demanded shall advise the Commission through an evaluation report on the course of study and programme or the self-study or academic audit concerning a specific institution, programme or award.
 
@@ -606,8 +593,9 @@ Universities
 
 #### (b) Committees of the Commission
 
-##### Commi ttees of the Commi- ssion
-9.-(l) There shall be established an Accreditation Committee, Grants Committee, and Admissions Committee to perform such advisory functions as the Commission may require.
+##### Committees of the Commission
+
+9.-(1) There shall be established an Accreditation Committee, Grants Committee, and Admissions Committee to perform such advisory functions as the Commission may require.
 
 [[END OF PAGE 13]]
 
@@ -631,7 +619,9 @@ Universities
 
 (5) The term of office and other conditions of the Committees of the Commission shall be as may be determined by the Commission.
 
-10 .-(l) 'Me Accreditation Committee shall advise the Commission on the performance of its functions of quality promotion, quality assurance, and accreditation of institutions, programmes, awards and on matters associated therewith particularly on -
+##### Accreditation Committee
+
+10.-(1) The Accreditation Committee shall advise the Commission on the performance of its functions of quality promotion, quality assurance, and accreditation of institutions, programmes, awards and on matters associated therewith particularly on -
 
 (a) setting general standards of quality and quantity of contents of programmes of and mode of their execution by universities at their respective levels and categories;
 
@@ -642,8 +632,6 @@ Universities
 (ii) linkage programmes of universities and short-term and long-term national development objectives, strategies and plans in higher education;
 
 (iii) involvement of stakeholders in the fostering of diversity, relevance and quality of education, research and expert public service or consultancy and modes of execution or delivery thereof,
-
-##### Accreditation Committee
 
 [[END OF PAGE 14]]
 
@@ -659,13 +647,13 @@ Universities
 
 (d) accreditation of -
 
-- universities and programmes; (i)
+(i) universities and programmes;
 
 (ii) centres of excellence and their programmes;
 
-(e)  evaluation of qualifications of staff of universities;
+(e) evaluation of qualifications of staff of universities;
 
-- and of courses (f) coordination and harmonization programmes in universities;
+(f) coordination and harmonization of courses and programmes in universities;
 
 (g) general matters related to higher education, training and research including strategies to improve the framework and processes of higher education at all its levels;
 
@@ -677,7 +665,7 @@ Universities
 
 (k) criteria for recognition of equivalence of qualifications and awards obtained from, granted or conferred by any foreign university of a named, stated or acknowledged category or level with qualifications and awards obtained from, granted and or conferred by universities of the corresponding category or level in Tanzania;
 
-- individual and institutional applications for grant of recognition of any local and or foreign university; and
+(l) individual and institutional applications for grant of recognition of any local and or foreign university; and
 
 (m) any other matter on accreditation and quality assurance as the Commission may require.
 
@@ -691,7 +679,9 @@ Universities
 
 2005 17
 
-- 11 .-(l) The Grants Committee shall advise the Commission on-
+##### Grants Committee
+
+11.-(1) The Grants Committee shall advise the Commission on-
 
 (a) the funding of and distribution of public funding among public and private universities;
 
@@ -711,13 +701,11 @@ Universities
 
 (2) Where the Commission or the Ministry offers to a university grants for the promotion of higher education generally or for the performance of any specific activity or task or fulfilling any purpose, the Grants Committee shall advise the Commission regarding the criteria, procedure, conditions or objectives and methods to be adopted in the administration of such grants so as to ensure job quality, cost-effectiveness, efficiency, transparency, fairness and gender equity.
 
-12 .-(l) The Admissions Committee shall advise the Commission on matters concerning admission of students to universities.
+##### Admissions Committee
+
+12.-(1) The Admissions Committee shall advise the Commission on matters concerning admission of students to universities.
 
 (2) Subject to sub-section (1), the Admissions Committee shall advise the Commission on -
-##### Grants Committee
-##### Admissions Committee
-##### Executive Secretary
-##### Deputy Executive Secretary
 
 [[END OF PAGE 16]]
 
@@ -747,11 +735,15 @@ Universities
 
 #### (c) Staff of the Commission
 
-13 .-(1) There shall be the Executive Secretary of the Commission who shall be appointed by the Commission from amongst persons with qualifications, skills and competence through procedures involving public advertisement and interviews for the post.
+##### Executive Secretary
+
+13.-(1) There shall be the Executive Secretary of the Commission who shall be appointed by the Commission from amongst persons with qualifications, skills and competence through procedures involving public advertisement and interviews for the post.
 
 (2) The Executive Secretary shall be the chief executive officer of the Commission responsible to the Commission for the management of the day-to-day operations of the Commission and its Committees, and for carrying out such functions as the Commission shall prescribe.
 
-14 .-(1) The Commission may appoint a Deputy Executive Secretary or Deputy Executive Secretaries from amongst senior public officers with qualifications, relevant experience, skills and competence on such terms and conditions as the Commission may determine.
+##### Deputy Executive Secretary
+
+14.-(1) The Commission may appoint a Deputy Executive Secretary or Deputy Executive Secretaries from amongst senior public officers with qualifications, relevant experience, skills and competence on such terms and conditions as the Commission may determine.
 
 (2) The number of Deputy Executive Secretaries shall be as may be determined by the Commission upon the recommendation of the Executive Secretary.
 
@@ -765,13 +757,17 @@ Universities
 
 2005 19
 
-(3) The, Deputy Executive Secretary shall deputize for the Executive Secretary and perform the functions of the Executive Secretary and any such other duties as the Executive Secretary or the Commission may direct.
+(3) The Deputy Executive Secretary shall deputize for the Executive Secretary and perform the functions of the Executive Secretary and any such other duties as the Executive Secretary or the Commission may direct.
 
-15 . The Commission shall have power to appoint such number of other employees of the Commission as it may deem necessary to assist the Executive Secretary in the proper and efficient conduct of the business and activities of the Commission.
+##### Other Staff of the Commission
+
+15. The Commission shall have power to appoint such number of other employees of the Commission as it may deem necessary to assist the Executive Secretary in the proper and efficient conduct of the business and activities of the Commission.
 
 #### (d) Financial Provisions for the Commission
 
-- The funds and other resources of the Commission shall include:
+##### Funds and other resources of the Commission
+
+16. The funds and other resources of the Commission shall include:
 
 (a) such monies as may be appropriated by Parliament;
 
@@ -781,7 +777,9 @@ Universities
 
 (d) funds accruing from investments by the Commission.
 
-17 .-(1) The Commission shall prepare its income and expenditure estimates for the succeeding financial year and submit them to the Minister for scrutiny and submission to the National Assembly for approval.
+##### Annual estimates
+
+17.-(1) The Commission shall prepare its income and expenditure estimates for the succeeding financial year and submit them to the Minister for scrutiny and submission to the National Assembly for approval.
 
 (2) The annual estimates shall make provision for all the estimates of expenditure of the Commission for the financial year which shall include-
 
@@ -790,14 +788,6 @@ Universities
 (b) the payment of remuneration to the members of the Commission;
 
 (c) the maintenance of any property vested in the Commission;
-
-##### Other Staff of the Commission
-
-##### Funds and other resources of the Commission
-
-##### Annual estimates
-##### Accounts and Audit
-Act No. 6 of 2001
 
 [[END OF PAGE 18]]
 
@@ -809,29 +799,31 @@ Universities
 
 2005
 
-##### Types and categories of universities
-
-- for services rendered to the (d) fees and other charges Commission.
+(d) fees and other charges for services rendered to the Commission.
 
 (3) No expenditure shall be incurred for the Commission except in accordance with the annual estimates approved under sub-section (1).
 
 (4) Notwithstanding subsection (3), additional expenditure may be incurred for the Commission in accordance with such supplementary income and expenditure estimates prepared by the Commission as may be approved by the National Assembly in accordance with sub-section (1).
 
-18 .-(1) The Commission shall keep books of account and maintain proper records in relation to its operations in accordance with professionally acceptable accounting principles.
+##### Accounts and Audit
 
-- The books of account and records of the Commission shall be audited by such competent authorized auditors in accordance with the
+18.-(1) The Commission shall keep books of account and maintain proper records in relation to its operations in accordance with professionally acceptable accounting principles.
 
-- provisions of the Public Finance Act, 2001.
+Act No. 6 of 2001
 
-- The Executive Secretary shall at the end of every financial year prepare and submit to the Commission a report on the operations and audited accounts of the Commission.
+(2) The books of account and records of the Commission shall be audited by such competent authorized auditors in accordance with the provisions of the Public Finance Act, 2001.
 
-- The Commission shall, within six months after the end of the financial year, submit the annual report to the Minister, who shall lay it before the National Assembly.
+(3) The Executive Secretary shall at the end of every financial year prepare and submit to the Commission a report on the operations and audited accounts of the Commission.
+
+(4) The Commission shall, within six months after the end of the financial year, submit the annual report to the Minister, who shall lay it before the National Assembly.
 
 ## PART III
 
 ### TYPES, CATEGORIES, AWARDS AND STAFF DESIGNATIONS OF A UNIVERSITY
 
-19. -(1) Subject to the provisions of this Act, there shall be recognized public universities and private universities which shall be established in the categories or levels as follows-
+##### Types and categories of universities
+
+19.-(1) Subject to the provisions of this Act, there shall be recognized public universities and private universities which shall be established in the categories or levels as follows-
 
 (a) universities;
 
@@ -879,17 +871,17 @@ Universities
 
 2005
 
-##### Awards and designations of staff of a university
-
 (d) an associate college, institute, school, centre or, as the case may be, directorate to retain its independent and separate legal personality or status, its academic or professional and operational autonomy.
 
-(4) A university shall have power to render to the associate institution academic and or professional guidance and supervision by overseeing the maintenance of the highest standards m the running of the academic or professional programmes or courses of study, including arrangements, facilities and financial provisions for teaching, quality assurance and regular curriculum review.
+(4) A university shall have power to render to the associate institution academic and or professional guidance and supervision by overseeing the maintenance of the highest standards in the running of the academic or professional programmes or courses of study, including arrangements, facilities and financial provisions for teaching, quality assurance and regular curriculum review.
 
 (5) The mode of affiliation between a public university and a private university shall be provided for under the regulations.
 
-20 .-(1) An accredited and registered university shall-
+##### Awards and designations of staff of a university
 
-(a) award in its name certificates, diplomas, degrees, postgraduate diplomas, postgraduate degrees and honorary degrees in accordance with its programmes of study and the enabling legal instrument made m accordance with the provisions of this Act and or any other written law;
+20.-(1) An accredited and registered university shall-
+
+(a) award in its name certificates, diplomas, degrees, postgraduate diplomas, postgraduate degrees and honorary degrees in accordance with its programmes of study and the enabling legal instrument made in accordance with the provisions of this Act and or any other written law;
 
 (b) have, subject to the provisions of this Act, the following designations for its academic staff, signifying their order of seniority in rank as follows -
 
@@ -929,9 +921,13 @@ Universities
 
 ### ESTABLISHMENT OF A UNIVERSITY
 
-21 . No person shall provide university education unless that person has been granted a charter or approval of a charter in accordance with the provisions of this Act.
+##### Establishment of a university by charter
 
-22. -(l) Any person wishing to establish a university in the United Republic of Tanzania shall submit an application in the prescribed form to the Commission for a grant of a charter.
+21. No person shall provide university education unless that person has been granted a charter or approval of a charter in accordance with the provisions of this Act.
+
+##### Procedure for establishment of a university
+
+22.-(1) Any person wishing to establish a university in the United Republic of Tanzania shall submit an application in the prescribed form to the Commission for a grant of a charter.
 
 (2) An application made under sub-section (1) shall be accompanied by -
 
@@ -946,12 +942,6 @@ Universities
 (iii) the membership and form of governance of the proposed institution making clear provisions for gender balance;
 
 (iv) the extent to which, and the form and manner in which, regulations may be made and published by such body of the university as may be specified for the better functioning of the institution;
-
-##### Establishment of a university by charter
-
-##### Proce- dure for estab- lishment of a university
-##### Provisional licence
-##### Application for grant of accreditation and charter
 
 [[END OF PAGE 22]]
 
@@ -975,9 +965,13 @@ Universities
 
 (4) The Commission may on receipt of the application made under sub-section (1), organize a meeting or series of meetings with the applicant to verify the resources and information given with the application.
 
-23. -(1) The Commission may upon its satisfaction of the contents of the draft charter and action plan of the institute issue provisional licence upon such terms, conditions and procedures as may be prescribed.
+##### Provisional licence
 
-24.-(I) A university, being a holder of a provisional licence, for not less than three years, may apply to the Commission for the grant of accreditation and charter.
+23.-(1) The Commission may upon its satisfaction of the contents of the draft charter and action plan of the institute issue provisional licence upon such terms, conditions and procedures as may be prescribed.
+
+##### Application for grant of accreditation and charter
+
+24.-(1) A university, being a holder of a provisional licence, for not less than three years, may apply to the Commission for the grant of accreditation and charter.
 
 (2) An application for the grant of accreditation and a Charter shall, in addition to any other details that the Commission may in each case specify, be accompanied by-
 
@@ -1007,15 +1001,13 @@ Universities
 
 (h) any other information as the Commission may require in writing.
 
-25 .-(1) The Commission may, after consideration of application in the manner as may be prescribed, make recommendation to the Minister for granting of a charter to the university.
+##### Granting of charter
+
+25.-(1) The Commission may, after consideration of application in the manner as may be prescribed, make recommendation to the Minister for granting of a charter to the university.
 
 (2) The Minister shall after receiving recommendations under subsection (1) refer the matter to the President who shall grant a charter to the university.
 
 (3) The Charter granted under this section shall be published in the Gazette.
-
-##### Granting of charter
-##### Effect of granting and publication of charter
-##### Application for approval of a Charter
 
 [[END OF PAGE 24]]
 
@@ -1027,7 +1019,9 @@ Universities
 
 2005
 
-- 26 . The university to which the charter is granted in terms of section 25 shall -
+##### Effect of granting and publication of charter
+
+26. The university to which the charter is granted in terms of section 25 shall -
 
 (a) be a body corporate with perpetual succession and a common seal and may sue or be sued in its corporate name and may for and in connection with its objects and functions-
 
@@ -1039,9 +1033,11 @@ Universities
 
 (b) have its certificates, diplomas, degrees and other academic awards recognized as of comparable and of equivalent merit with those of other accredited university institutions in Tanzania.
 
-27 .-(1) A university incorporated, registered and authorized, in accordance with the relevant law, to carry on higher education operations, activities or functions outside the United Republic may apply to the Commission for approval Of its foreign charter and for local registration in the United Republic of Tanzania.
+##### Application for approval of a Charter
 
-- The application to the Commission under sub-section (1) shall be accompanied by-
+27.-(1) A university incorporated, registered and authorized, in accordance with the relevant law, to carry on higher education operations, activities or functions outside the United Republic may apply to the Commission for approval of its foreign charter and for local registration in the United Republic of Tanzania.
+
+(2) The application to the Commission under sub-section (1) shall be accompanied by-
 
 (a) the charter, memorandum and articles of association or, as the case may be, the constitution of the applicant;
 
@@ -1059,7 +1055,7 @@ Universities
 
 2005 27
 
-- carrying out of the day-to-day administration of the programmes and related operations of the institution in Tanzania in accordance with the provisions of this Act;
+carrying out of the day-to-day administration of the programmes and related operations of the institution in Tanzania in accordance with the provisions of this Act;
 
 (d) the form of governance through which the academic and administrative affairs of the institution are to be conducted;
 
@@ -1073,7 +1069,7 @@ Universities
 
 (i) any other information which the Commission in the exercise of its powers under this Act, may require.
 
-(3) The Commission shall consider the application and upon being satisfied that the applicant is capable of running a university institution m Tanzania, shall-
+(3) The Commission shall consider the application and upon being satisfied that the applicant is capable of running a university institution in Tanzania, shall-
 
 (a) advise the applicant to have its charter, memorandum of association or, as the case may be, constitution reflect or comply with the laws and practices of Tanzania;
 
@@ -1081,7 +1077,7 @@ Universities
 
 (c) accredit the applicant institution and submit the application for approval of a charter together with its own recommendations to the Minister who shall refer the matter to the President for approval.
 
-(4) The President may, if he is of the opinion that the grant or approval of the foreign charter to the applicant institution may be of benefit to the development of higher education m the United Republic, approve the foreign charter either in the form in which it is submitted to him or in such modified form as he may consider appropriate.
+(4) The President may, if he is of the opinion that the grant or approval of the foreign charter to the applicant institution may be of benefit to the development of higher education in the United Republic, approve the foreign charter either in the form in which it is submitted to him or in such modified form as he may consider appropriate.
 
 [[END OF PAGE 26]]
 
@@ -1093,18 +1089,19 @@ Universities
 
 2005
 
-##### ction of Protenames
-##### Revoca- tion of a Charter
+(5) After the granting or approval of a charter, under subsection (4) the Commission shall cause the applicant to be duly registered as a private university in the manner as may be prescribed.
 
-(5) After the granting or approval of a charter, under subsection (4) the Commission shall cause the applicant to be duly registered as a private university m the manner as may be prescribed.
+##### Protection of names
 
-28 .-(1) Notwithstanding any other written law, no public officer performing functions relating to the registration of universities or other institutions shall accept for registration a name which is identical to, or so similar as to be liable to confuse the public with, the name of a private or public university to which a charter has been granted or approved in accordance with the provisions of this Act.
+28.-(1) Notwithstanding any other written law, no public officer performing functions relating to the registration of universities or other institutions shall accept for registration a name which is identical to, or so similar as to be liable to confuse the public with, the name of a private or public university to which a charter has been granted or approved in accordance with the provisions of this Act.
 
 (2) A person who contravenes subsection (1) commits an offence and is liable to a fine not exceeding 2,000,000/= shillings or to imprisonment for a term not exceeding twelve months or to both such fine and imprisonment.
 
-29 .-(1) The President may, subject to the prescribed procedure and upon the recommendation of the Commission through the Minister, revoke a charter issued under this Act if -
+##### Revocation of a Charter
 
-(a) it is evident that the university institution is not carrying on its functions m a proper manner;
+29.-(1) The President may, subject to the prescribed procedure and upon the recommendation of the Commission through the Minister, revoke a charter issued under this Act if -
+
+(a) it is evident that the university institution is not carrying on its functions in a proper manner;
 
 (b) the institution is in breach of its charter;
 
@@ -1126,17 +1123,25 @@ Universities
 
 2005 29
 
-30 . The President may upon the recommendation of the Minister, vary the provisions of a charter if he is satisfied that the variation is in the interest of higher education in the United Republic or it may assist the university applying for grant of a charter to operate in a more efficient and effective manner.
+##### Variation of a charter
 
-31 . The President may, by notice published in the Gazette, delegate the powers conferred upon him under this Part to the Minister, subject to such limitations or conditions as the President may deem appropriate.
+30. The President may upon the recommendation of the Minister, vary the provisions of a charter if he is satisfied that the variation is in the interest of higher education in the United Republic or it may assist the university applying for grant of a charter to operate in a more efficient and effective manner.
 
-32 . A university shall prepare and submit to the Commission an annual report on the operations and audited accounts of the institution including-
+##### President may delegate powers relating to Charters
+
+31. The President may, by notice published in the Gazette, delegate the powers conferred upon him under this Part to the Minister, subject to such limitations or conditions as the President may deem appropriate.
+
+##### Annual report and audited accounts of a university
+
+32. A university shall prepare and submit to the Commission an annual report on the operations and audited accounts of the institution including-
 
 (a) a detailed evaluation of its academic activities and the extent to which the prescribed institutional standards are met; and
 
 (b) a statement of the assets and liabilities of the institution and its audited accounts.
 
-33 .-(1) A proprietor, owner or, as the case may be, a promoter, or a sponsor of a university may, with the approval of the Commission-
+##### Constituent colleges and affiliation to a university
+
+33.-(1) A proprietor, owner or, as the case may be, a promoter, or a sponsor of a university may, with the approval of the Commission-
 
 (a) establish any college or institution as a constituent college of the university; and
 
@@ -1148,15 +1153,13 @@ Universities
 
 #### (a) The Chancellor and other Senior Officers
 
-34 . A university shall be headed by a Chancellor or equivalent designation who shall have such functions as are conferred upon him by this Act.
-
-35 .-(1) The Chancellor of a public university shall be appointed by the respective President-
-##### Variation of a charter
-##### President may delegate powers relating to Charters
-##### Annual report and audited accounts of a university
-##### Constituent colleges and affiliation to a university
 ##### The Chancellor
+
+34. A university shall be headed by a Chancellor or equivalent designation who shall have such functions as are conferred upon him by this Act.
+
 ##### Appointment and tenure of office of Chancellor
+
+35.-(1) The Chancellor of a public university shall be appointed by the respective President-
 
 [[END OF PAGE 28]]
 
@@ -1174,7 +1177,7 @@ Universities
 
 (2) The Chancellor or a person of equivalent designation of a private university shall be appointed or elected by the proprietor, owner or, as the case may be a promoter or sponsor of the university in such manner as shall be provided for in the charter of the university granted or approved in accordance with the provisions of this Act.
 
-- The Chancellor or a person of equivalent designation shall-
+(3) The Chancellor or a person of equivalent designation shall-
 
 (a) be a person of outstanding integrity, academic and administrative experience;
 
@@ -1187,11 +1190,12 @@ Universities
 (5) Notwithstanding subsection (5) where a Chancellor is the President the term of the office as a Chancellor shall cease upon his cessation to hold the office as a President.
 
 ##### Vice Chancellor
-36. -(1) The chief executive officer of a university shall be called a Vice-Chancellor or equivalent designation.
 
-- The Vice Chancellor shall be appointed-
+36.-(1) The chief executive officer of a university shall be called a Vice-Chancellor or equivalent designation.
 
-(a) in the case of a public university, by the Chancellor upon 4 the advice of the Council- and 9
+(2) The Vice Chancellor shall be appointed-
+
+(a) in the case of a public university, by the Chancellor upon the advice of the Council; and
 
 [[END OF PAGE 29]]
 
@@ -1205,13 +1209,13 @@ Universities
 
 (b) in the case of a private university, by a proprietor or owner or, as the case may be, promotor or sponsor after consultation with the Council.
 
-(3) A Vice- chancellor shall be appointed from a list of three candidates who have attained the status of professor or associate professor or senior academician on the basis of a search committee's recommendation or through a procedure of public advertisement for the post and, upon such terms and conditions as the Chancellor may prescribe upon the advice of -
+(3) A Vice-Chancellor shall be appointed from a list of three candidates who have attained the status of professor or associate professor or senior academician on the basis of a search committee's recommendation or through a procedure of public advertisement for the post and, upon such terms and conditions as the Chancellor may prescribe upon the advice of -
 
 (a) the Council of the university; or
 
 (b) a proprietor, owner, promoter, or sponsor's after consultation with the Council.
 
-- A Vice-Chancellor shall -
+(4) A Vice-Chancellor shall -
 
 (a) be the principal academic and administrative officer of a university;
 
@@ -1221,12 +1225,11 @@ Universities
 
 (5) A Vice Chancellor of a public university shall hold office for a term of five years and may be re-appointed consecutively for one more term of five years.
 
-37 .-(1) There shall be a Deputy Vice-Chancellor or Deputy Vice-Chancellors, or equivalent designation of a university.
+##### Deputy Vice-Chancellor
+
+37.-(1) There shall be a Deputy Vice-Chancellor or Deputy Vice-Chancellors, or equivalent designation of a university.
 
 (2) The number of Deputy Vice-Chancellors shall be as may be provided for in the enabling legal instrument or charter or, as the Council of a University may, upon the recommendation of the Vice-Chancellor, prescribe.
-
-##### Deputy ViceChancellor
-##### Principal of a university college
 
 [[END OF PAGE 30]]
 
@@ -1238,17 +1241,17 @@ Universities
 
 2005
 
-- A Deputy Vice-Chancellor shall:
+(3) A Deputy Vice-Chancellor shall:
 
 (a) be appointed by the Chancellor, on the advice of the Council or, as the case may be, by the proprietor or owner, promotor or sponsor after consultation with the Council.
 
-- Subject to subsection (3) a Deputy Vice- Chancellor shall-
+(4) Subject to subsection (3) a Deputy Vice-Chancellor shall-
 
 (a) be appointed from a list of three candidates who have attained the status of professor or associate professor or its equivalent in either teaching or research or both teaching and research and who have outstanding academic and administrative experience and capability in the area of higher education; and
 
 (b) hold office for such a period of years as shall be specified in the university's enabling legal instrument or charter and may be re-appointed for one term of such years provided that, for a public university, such a period shall be four years.
 
-- A Deputy Vice chancellor shall-
+(5) A Deputy Vice chancellor shall-
 
 (a) be responsible to, the chief advisor of, and assistant to the Vice-Chancellor in respect of such matters of the University as shall be assigned to him or his office and as may be prescribed; and
 
@@ -1258,7 +1261,9 @@ Universities
 
 (6) Notwithstanding sub-section (5)(b), where there are two or more Deputy Vice-Chancellors, the Deputy Vice Chancellor responsible for Academic matters shall deputize for the Vice-Chancellor during the Chancellors absence from office,
 
-38 .-(1) There shall be a Principal or equivalent designation for each university college.
+##### Principal of a university college
+
+38.-(1) There shall be a Principal or equivalent designation for each university college.
 
 [[END OF PAGE 31]]
 
@@ -1284,7 +1289,7 @@ Universities
 
 (a) be the academic and administrative head of the university college, and have such powers and duties as are prescribed for principals of the type and category of universities to which his institution belongs under this Act, any other written law or as may be prescribed by regulations of the relevant principal organ of governance of his institution;
 
-(b) in the case of university colleges, other than connected colleges, be responsible to the Vice- Chancellor, the Governing Board and the Council in respect of all matters concerning the university college;
+(b) in the case of university colleges, other than connected colleges, be responsible to the Vice-Chancellor, the Governing Board and the Council in respect of all matters concerning the university college;
 
 [[END OF PAGE 32]]
 
@@ -1298,7 +1303,9 @@ Universities
 
 (c) in the case of connected colleges, be responsible to the Vice Chancellor, the Governing Board and the Council in respect of all academic matters of the connected college;
 
-39. -(1) There shall be Deputy Principals or equivalent designation for every university college, appointed in such manner and upon such terms and conditions as are provided for under the enabling legal instrument of the institution or written law or as the Council or, as the case may be, the Governing Board may prescribe.
+##### Deputy Principals
+
+39.-(1) There shall be Deputy Principals or equivalent designation for every university college, appointed in such manner and upon such terms and conditions as are provided for under the enabling legal instrument of the institution or written law or as the Council or, as the case may be, the Governing Board may prescribe.
 
 (2) The Deputy Principal of a university college shall be recommended by the Senate from a list of three professors or associate professors and appointed by the Chancellor on the advice of the Council, or, as the case may be, the proprietors or owners, promoters or sponsors after consultation with the Council of the university to which the college is affiliated.
 
@@ -1306,7 +1313,7 @@ Universities
 
 (4) In appointing a Deputy Principal the appointing authority shall have regard to the recommendation of the Principal and the advice of the Senate or, the Academic Committee.
 
-- A Deputy Principal shall-
+(5) A Deputy Principal shall-
 
 (a) be responsible to, the chief advisor of, and assistant to the Principal in respect of all academic or administrative matters of the college;
 
@@ -1316,10 +1323,7 @@ Universities
 
 (d) have such other powers, duties and functions as are conferred upon him by this Act or as may be prescribed under any other written law or relevant regulations.
 
-- Where there are two or more Deputy Principals, the Deputy
-
-##### Deputy Principals
-Principal responsible for academic matters shall deputize for the Principal during the Principal's absence from office.
+(6) Where there are two or more Deputy Principals, the Deputy
 
 [[END OF PAGE 33]]
 
@@ -1331,26 +1335,27 @@ Universities
 
 2005 35
 
+Principal responsible for academic matters shall deputize for the Principal during the Principal's absence from office.
+
 (7) A Deputy Principal shall hold office for such a period of years as shall be specified in the enabling legal instrument or charter of the relevant institution and may be re-appointed for one more such term of years, except that for a public university college, such a period shall be three years.
-
-40 .-(1) The Director or equivalent designation shall be the chief executive officer of a University based institute, center or directorate.
-
-(2) Notwithstanding subsection (1), of this' section where a university-based institute is registered to run in Tanzania, degree programmes of a recognized foreign university which are accredited by the Commission, it shall be lawful for the Commission to grant permission for the chief executive officer of such an institution to be a Principal or equivalent designation.
-
-(3) The Director shall be appointed in the case of a university-based institute, centre or directorate and the like, by the Chancellor, from a list of three academic members of staff of the rank of senior lecturer or senior research fellow or equivalent status or designation and upon recommendation by the Senate or Academic Committee and the Council or Governing Board, as the case may be, on the basis of a search committee's recommendation or the results of a procedure involving public advertisement and interviews for the post, processed through the Senate and the Council or, the Academic Committee and the Governing Board.
-
-41 .-(1) There shall be a Deputy Director of a university-based institute, centre or directorate.
-
-(2) The provisions of subsections (3) and (7) of section 39 shall apply mutatis mutandis as to the appointment of a Deputy Director, term of office, powers and other functions of the Deputy director.
-
-42 .-(l) There shall be a Registrar of a university, except that where there are two or more deputies of the chief executive officer of a public institution, there shall be no Registrar of such an institution.
 
 ##### Director
 
+40.-(1) The Director or equivalent designation shall be the chief executive officer of a University based institute, center or directorate.
+
+(2) Notwithstanding subsection (1), of this section where a university-based institute is registered to run in Tanzania, degree programmes of a recognized foreign university which are accredited by the Commission, it shall be lawful for the Commission to grant permission for the chief executive officer of such an institution to be a Principal or equivalent designation.
+
+(3) The Director shall be appointed in the case of a university-based institute, centre or directorate and the like, by the Chancellor, from a list of three academic members of staff of the rank of senior lecturer or senior research fellow or equivalent status or designation and upon recommendation by the Senate or Academic Committee and the Council or Governing Board, as the case may be, on the basis of a search committee's recommendation or the results of a procedure involving public advertisement and interviews for the post, processed through the Senate and the Council or, the Academic Committee and the Governing Board.
+
 ##### Deputy Director
 
+41.-(1) There shall be a Deputy Director of a university-based institute, centre or directorate.
+
+(2) The provisions of subsections (3) and (7) of section 39 shall apply mutatis mutandis as to the appointment of a Deputy Director, term of office, powers and other functions of the Deputy director.
+
 ##### Registrar
-##### Principal organs of governance
+
+42.-(1) There shall be a Registrar of a university, except that where there are two or more deputies of the chief executive officer of a public institution, there shall be no Registrar of such an institution.
 
 [[END OF PAGE 34]]
 
@@ -1370,9 +1375,11 @@ Universities
 
 (b) have such other functions as are conferred upon a deputy chief executive officer of an institution responsible for administration by this Act or as may be prescribed.
 
-(4) 'Me tenure of office for a Registrar appointed to the public institution shall be three years and may be reappointed for one more such term.
+(4) The tenure of office for a Registrar appointed to the public institution shall be three years and may be reappointed for one more such term.
 
 #### (b) Principal Organs
+
+##### Principal organs of governance
 
 43.-(1) There shall be two principal organs of governance in every university, namely the Council and the Senate.
 
@@ -1382,7 +1389,7 @@ Universities
 
 (4) The Council of a university shall be the principal policy-making organ of the university including the University constituent and connected college campus, and, for general academic policy related matters only.
 
-(5) The Governing Board of a constituent, and a connected college of a university, shall be the principal policy-making organ of the constituent the connected college in respect of all administrative matters.
+(5) The Governing Board of a constituent, and a connected college of a university, shall be the principal policy-making organ of the constituent or the connected college in respect of all administrative matters.
 
 (6) The Senate of a university and the Academic Committee of a university college, other than a campus college shall be the principal overall decision-making organs in respect of all academic matters of the respective institutions.
 
@@ -1398,24 +1405,23 @@ Universities
 
 (7) The Senate of a university shall be the principal decision making organ in respect of all academic matters of the university including the university's campus, constituent and connected colleges, and its faculties, institutes and schools.
 
-44. -(1) Members of-
+##### Composition of Council or Governing Board
+
+44.-(1) Members of-
 
 (a) a Council of a university or, as the case may be, a Governing Board of a constituent college shall be not less than eleven and not more than twenty-one in number; and
 
 (b) any other Governing Board, shall be not less than nine and not more than fifteen in number.
 
-(2) Subject to the provisions of sub-section (1), the composition of the Council or the Governing Board shall be provided for under the enabling instrument of each institution and m appointing members to the council or Governing Board, the appointing authority shall ensure that-
+(2) Subject to the provisions of sub-section (1), the composition of the Council or the Governing Board shall be provided for under the enabling instrument of each institution and in appointing members to the council or Governing Board, the appointing authority shall ensure that-
 
-(a) the composition reflects the various sectors of society which have a stake in the institution and persons drawn from such sectors have such additional attributes, including Integrity, interest in higher education related matters and experience, as may enable them to make a meaningful contribution to the deliberations of the Council or, as the case may be, the Governing Board;
+(a) the composition reflects the various sectors of society which have a stake in the institution and persons drawn from such sectors have such additional attributes, including integrity, interest in higher education related matters and experience, as may enable them to make a meaningful contribution to the deliberations of the Council or, as the case may be, the Governing Board;
 
 (b) not less than seventy-five percent and not more than eighty percent of the membership shall be drawn from outside the members of staff and or officers of the institution concerned;
 
-(c) the composition shall as far as possible consist of members of both sexes on an equal basis, and so that, m any event, at least one third of the membership shall -be women; and
+(c) the composition shall as far as possible consist of members of both sexes on an equal basis, and so that, in any event, at least one third of the membership shall be women; and
 
 (d) students are represented.
-
-##### Composition of Council or Governing Board
-##### Functions and powers of Council or Governing Board
 
 [[END OF PAGE 36]]
 
@@ -1429,9 +1435,11 @@ Universities
 
 (3) Subject to any other written law, the Chairman of the Council or the Governing Board of a public University shall be appointed by the President on the advice of the Minister from among three candidates proposed by the Commission on the basis of procedures involving public advertisement and interviews for the post.
 
-(4) The appointment Of the Chairman of the Council or, the Governing Board of a private university shall be done in accordance with the Provisions of the enabling legal instrument of the institution.
+(4) The appointment of the Chairman of the Council or, the Governing Board of a private university shall be done in accordance with the provisions of the enabling legal instrument of the institution.
 
-45 .-(1) The governance and control of a university, university college, other than a campus college shall be vested in a Council of the University or a Governing Board of the university college other than a campus college as the case may be.
+##### Functions and powers of Council or Governing Board
+
+45.-(1) The governance and control of a university, university college, other than a campus college shall be vested in a Council of the University or a Governing Board of the university college other than a campus college as the case may be.
 
 (2) Without prejudice to the generality of sub-section (1), a Council or, as the case may be, a Governing Board shall have power-
 
@@ -1445,7 +1453,7 @@ Universities
 
 (e) to appoint officers of the institution;
 
-(f) to propose or, in any case where it is empowered to do so under the relevant enabling legal instrument of an institution, to set standards of levels for remuneration packages for academic and senior administrative and Support staff of the institution;
+(f) to propose or, in any case where it is empowered to do so under the relevant enabling legal instrument of an institution, to set standards of levels for remuneration packages for academic and senior administrative and support staff of the institution;
 
 [[END OF PAGE 37]]
 
@@ -1467,17 +1475,17 @@ Universities
 
 (4) A subsidiary legislation and directives made under this section shall be brought to the notice of the students of the institution in such clear and transparent manner as the Council or, as the case may be, the Governing Board may determine.
 
-46 .-(1) The number of members of-
+##### Composition of Senate or Academic Committee
+
+46.-(1) The number of members of-
 
 (a) a Senate shall be as may be determined by the Council from time to time;
 
 (b) an Academic Committee shall be determined by the Governing Board from time to time,
 
-except that the number of ex-officio members m an institution shall not be reduced.
+except that the number of ex-officio members in an institution shall not be reduced.
 
 (2) The chief executive officer of the institution shall be the Chairman of the Senate or, as the case may be, an Academic Committee.
-
-##### Composition of Senate or Academic Committee
 
 [[END OF PAGE 38]]
 
@@ -1493,13 +1501,13 @@ Universities
 
 (a) the membership shall be not less than seventy-five percent and not more than eighty-five percent drawn from among the senior academic and administrative staff of the institution concerned and a few from other corresponding institutions in the country;
 
-(b) the provisions of sub-section (2) of section 44 shall, apply mutatis mutandis , to the composition of a Senate or, an Academic Committee.
+(b) the provisions of sub-section (2) of section 44 shall, apply mutatis mutandis, to the composition of a Senate or, an Academic Committee.
 
 (4) The Senate or, the Academic Committee shall have power to co-opt any number of competent persons as it may deem necessary or appropriate for the better carrying out of its functions.
 
 (5) For the purpose of this section-
 
-(a) ''senior academic and administrative staff' includes in relation to a university institution, deputy vice chancellors or equivalent designation; principals and deputy principals or equivalent designations; registrar; deans of schools and faculties; directors of institutes, centres or directorates; heads of academic departments and units; dean of students or equivalent designation; professors or research professors; associate professors or associate research professors; senior lecturers or senior research fellows; the chief librarian or equivalent designation;
+(a) ''senior academic and administrative staff'' includes in relation to a university institution, deputy vice chancellors or equivalent designation; principals and deputy principals or equivalent designations; registrar; deans of schools and faculties; directors of institutes, centres or directorates; heads of academic departments and units; dean of students or equivalent designation; professors or research professors; associate professors or associate research professors; senior lecturers or senior research fellows; the chief librarian or equivalent designation;
 
 (b) ''ex-officio members'' means in relation to a university, the vice-chancellor and deputy vice-chancellors or equivalent designations; principals and deputy principals or equivalent designations; registrar; deans of schools and faculties; directors of institutes, centres or directorates; heads of academic  departments and units; and deans of students or equivalent designation.
 
@@ -1513,7 +1521,9 @@ Universities
 
 2005 41
 
-47 .-(1) A Senate or an Academic Committee shall be responsible to the Council or, the Governing Board respectively, for the control and general regulation of the instruction, education and research in the institution and, subject to the provisions of this Act shall be the supreme organ in all academic matters within a university and institution affiliated thereto.
+##### Functions of Senate or Academic Committee
+
+47.-(1) A Senate or an Academic Committee shall be responsible to the Council or, the Governing Board respectively, for the control and general regulation of the instruction, education and research in the institution and, subject to the provisions of this Act shall be the supreme organ in all academic matters within a university and institution affiliated thereto.
 
 (2) Subject to sub-section (1), the Senate or, as the case may be, the Academic Committee shall have the following specific functions-
 
@@ -1533,9 +1543,6 @@ Universities
 
 (f) to make proposals to the institution's Council or Governing
 
-##### Functions of Senate of Acade- mic Commi- ttee
-Convocations and Staff Associations Board on matters relating to the conduct of the institution generally; and
-
 [[END OF PAGE 40]]
 
 [[START OF PAGE 41]]
@@ -1545,6 +1552,8 @@ Convocations and Staff Associations Board on matters relating to the conduct of 
 Universities
 
 2005
+
+Board on matters relating to the conduct of the institution generally; and
 
 (g) to perform such other functions as are conferred upon the Senate or the Academic Committee by this Act or any other written law, the institution's enabling instrument or as may be prescribed in regulations made under this Act by the Council or the Governing Board.
 
@@ -1558,7 +1567,9 @@ Universities
 
 ### CONVOCATIONS, STAFF ASSOCIATIONS AND STUDENTS' ORGANIZATIONS, ADMINISTRATION AND WELFARE
 
-48 .-(1) Every institution shall provide under its enabling instrument-
+##### Convocations and Staff Associations
+
+48.-(1) Every institution shall provide under its enabling instrument-
 
 (a) for the establishment of-
 
@@ -1583,7 +1594,7 @@ Universities
 (ii) the constitution of a staff association, shall be determined by the members of the association and shall be subject to approval by the Council or, as the case may be, the Governing Board of the institution.
 
 ##### Students' Organisations
-49 .-(1) Every university shall by notice published in the Gazette or Prospectus of the university provide under its charter for a common students' organisation of the institution to be known by such name as may be agreed by its members and approved by the Council or, as the case may be, the Governing Board of the institution.
+49.-(1) Every university shall by notice published in the Gazette or Prospectus of the university provide under its charter for a common students' organisation of the institution to be known by such name as may be agreed by its members and approved by the Council or, as the case may be, the Governing Board of the institution.
 
 (2) The membership of and affairs of the students organization, shall be governed by its constitution.
 
@@ -1592,7 +1603,7 @@ Universities
 (4) The Council or, as the case may be, the Governing Board of an institution may provide for the approval and the conduct of other students' organizations in such fair and transparent manner as it deems appropriate.
 
 ##### Administration and welfare of students
-50. -(1) An institution shall provide under its enabling legal instrument for an office of a person of integrity and outstanding experience and capability m student administration or counselling to be responsible for the proper, effective and efficient administration of the affairs of the students of the institution.
+50.-(1) An institution shall provide under its enabling legal instrument for an office of a person of integrity and outstanding experience and capability in student administration or counselling to be responsible for the proper, effective and efficient administration of the affairs of the students of the institution.
 
 (2) The designation of the holder of the office under subsection (1) shall in the case of a university accredited to offer degree programmes and confer degrees, be the Dean of Students or equivalent designation.
 
@@ -1608,9 +1619,9 @@ Universities
 
 (3) Every institution shall have a clearly formulated policy on the, general administration and welfare of the students of the institution and shall provide under its enabling instrument for making of regulations or by-laws for the administration and welfare of the students.
 
-(4) Regulations or by-laws made under subsection (3) shall be published by the institution in the Gazette or the institution's Prospectus and every such regulation or by-law shall be brought to the' notice of the students in such manner and form as the Council or, as the case may be, Governing Board of the institution may determine.
+(4) Regulations or by-laws made under subsection (3) shall be published by the institution in the Gazette or the institution's Prospectus and every such regulation or by-law shall be brought to the notice of the students in such manner and form as the Council or, as the case may be, Governing Board of the institution may determine.
 
-(5) An institution shall provide under its enabling instrument for the establishment or appointment of an authority, to be known as the students disciplinary authority, with clearly defined powers, functions ~ and procedures or mode of operation except that-
+(5) An institution shall provide under its enabling instrument for the establishment or appointment of an authority, to be known as the students disciplinary authority, with clearly defined powers, functions and procedures or mode of operation except that-
 
 (a) such powers, functions and procedures or mode of operation may be provided for in the regulations or by-laws promulgated in accordance with the provisions of sub-section (3); and
 
@@ -1633,7 +1644,7 @@ Universities
 (8) For the purposes of this section the administration of the affairs of the students of the institution shall include establishment of and overseeing the machinery for monitoring, coordinating, regulating, controlling and facilitating the general conduct of students on the campus or campuses of the institution, the institution's branches and any other place where the affairs of the institution in which its students are involved may take place, be conducted or extended to or where the residence of its students is established, provided, organised or overseen by the institution.
 
 ##### Prohibition of political parties activities on campus
-51 .-(1) No staff association or students' organization in an institution shall engage in any political party's activities on campus, conduct its affairs or have a constitution which in any way or manner whatsoever offends or conflicts with the provisions of this Act or of any other written law.
+51.-(1) No staff association or students' organization in an institution shall engage in any political party's activities on campus, conduct its affairs or have a constitution which in any way or manner whatsoever offends or conflicts with the provisions of this Act or of any other written law.
 
 (2) For the purpose of this section-
 
@@ -1660,26 +1671,25 @@ Universities
 ### MISCELLANEOUS PROVISIONS
 
 ##### Students' admission qualifications
-52 .-(1) Subject to the provisions of this Act, every institution shall enunciate and publish in the Prospectus of the institution the students admission regulations of the institution, including qualifications required for the institution's various programmes and awards.
+52.-(1) Subject to the provisions of this Act, every institution shall enunciate and publish in the Prospectus of the institution the students admission regulations of the institution, including qualifications required for the institution's various programmes and awards.
 
 (2) No applicant shall be admitted to pursue a programme of study in an institution unless he meets the admission qualifications spelt out in the enunciated admission regulations governing the institution in accordance with sub-section (1).
 
-##### Committee of Vice ChanceHors and Principals
-53 .-(l) There shall be a committee to be known as the Committee of
+##### Committee of Vice Chancellors and Principals
 
-- Vice-Chancellors and Principals.
+53.-(1) There shall be a committee to be known as the Committee of Vice-Chancellors and Principals.
 
-(2) The provisions the Second Schedule shall have effect as to composition, functions, powers and other proceedings of the Committee of Vice-Chancellors and Principals.
+(2) The provisions of the Second Schedule shall have effect as to composition, functions, powers and other proceedings of the Committee of Vice-Chancellors and Principals.
 
 ##### Power of Council or Governing Board to make regulations
-54 . A Council or Governing Board shall have power to make regulations for giving effect to any enabling instrument, law, charter, memorandum of association or constitution relating to its university, college, institute or school for the general governance of its institution in relation to matters not specifically prescribed by this Act or any other applicable written law except that-
+54. A Council or Governing Board shall have power to make regulations for giving effect to any enabling instrument, law, charter, memorandum of association or constitution relating to its university, college, institute or school for the general governance of its institution in relation to matters not specifically prescribed by this Act or any other applicable written law except that-
 
 (a) regulations dealing with the composition of a Senate or Academic Committee, as the case may be, shall not be made, amended, added to or repealed except on the recommendation of such Senate or Academic Committee;
 
 (b) regulations dealing with studies, system of instructions, examinations, and discipline in a university, university college, to which this Act applies, shall not be made, amended, or repealed without consultation with the senate of such institutions.
 
 ##### Appointment to key administrative Positions
-55 .-(1) In making appointments to key administrative positions in a university the appointing authorities shall ensure that such appointments are made on merit; and in accordance with an open system capable of inspiring confidence that fairness, the respective appointees' competence for the relevant positions and their general acceptability in the institutions in question, have all been taken into account.
+55.-(1) In making appointments to key administrative positions in a university the appointing authorities shall ensure that such appointments are made on merit; and in accordance with an open system capable of inspiring confidence that fairness, the respective appointees' competence for the relevant positions and their general acceptability in the institutions in question, have all been taken into account.
 
 [[END OF PAGE 45]]
 
@@ -1695,7 +1705,7 @@ Universities
 
 (3) For the purpose of this section-
 
-(a) ''key administrative positions'' include the position of the Vice-Chancellor, Deputy Vice-Chancellor or Principal, Deputy Principal, Dean of Students, Dean, Director and Head or their Department of  Academic respective equivalent designations; and
+(a) ''key administrative positions'' include the position of the Vice-Chancellor, Deputy Vice-Chancellor or Principal, Deputy Principal, Dean of Students, Dean, Director and Head of Academic Department or their respective equivalent designations; and
 
 (b) ''organs of governance'' include the Council, Governing Board, Senate, Academic Committee, a Board or Boards, Committee or Committees or a Meeting or Meetings.
 
@@ -1725,12 +1735,12 @@ Universities
 56. A public institution shall not, without express authorization by the Minister, dispose of or alienate in any manner, any immovable property acquired from or with the financial assistance of the Government.
 
 ##### Power of Minister to exempt certain institutions
-57 .-(1) Notwithstanding the provisions of any other written law including this Act, the Minister, on the advice of the Commission, may, upon an application in writing by an Institution exempt the institution from the provisions of this Act where the whole of the higher education operations, functions or activities of the institution are carried on outside Tanzania.
+57.-(1) Notwithstanding the provisions of any other written law including this Act, the Minister, on the advice of the Commission, may, upon an application in writing by an institution exempt the institution from the provisions of this Act where the whole of the higher education operations, functions or activities of the institution are carried on outside Tanzania.
 
 (2) The application for exemption shall be accompanied by a complete statement of the programmes or courses of study, and the mode or method of delivery thereof, that the institution is desirous of running and using in that behalf in the country.
 
 ##### Penalty for certain offences
-58 . A person who commits an offence or an act declared to be unlawful under the provisions of this Act for which no particular punishment has been provided for under any specific section is liable, on conviction, to a fine not exceeding 1,500,000/= shillings or to imprisonment for a period not exceeding six months or to both such fine and such imprisonment.
+58. A person who commits an offence or an act declared to be unlawful under the provisions of this Act for which no particular punishment has been provided for under any specific section is liable, on conviction, to a fine not exceeding 1,500,000/= shillings or to imprisonment for a period not exceeding six months or to both such fine and such imprisonment.
 
 [[END OF PAGE 47]]
 
@@ -1742,17 +1752,21 @@ Universities
 
 2005 49
 
-##### Prote- ction of members and staff
-59 . A member of the Commission or of any of its Committees or any of its staff shall not be personally liable for anything done or omitted to be done bonafide in the execution or purported execution of any duty as a member of the Commission or of such a Committee or staff of the Commission.
+##### Protection of members and staff
 
-##### Amend- ments and repeals
-60 . Existing Acts governing public universities are repealed or amended in the manner indicated in the Third Schedule.
+59. A member of the Commission or of any of its Committees or any of its staff shall not be personally liable for anything done or omitted to be done bonafide in the execution or purported execution of any duty as a member of the Commission or of such a Committee or staff of the Commission.
 
-##### Transi- tional and con- seque- ntial provi- sions
-61 . Transitional and consequential provisions in respect of the Higher Education Accreditation Council and public universities are as provided for in the Fourth Schedule to this Act.
+##### Amendments and repeals
 
-##### Power of the Minister to make Regula- tions
-62 .-(1) Subject to the provisions of this Act, the Minister may, after consultation with the Commission, make regulations for the better giving effect to the provisions of this Act, and may in particular make regulations-
+60. Existing Acts governing public universities are repealed or amended in the manner indicated in the Third Schedule.
+
+##### Transitional and consequential provisions
+
+61. Transitional and consequential provisions in respect of the Higher Education Accreditation Council and public universities are as provided for in the Fourth Schedule to this Act.
+
+##### Power of the Minister to make Regulations
+
+62.-(1) Subject to the provisions of this Act, the Minister may, after consultation with the Commission, make regulations for the better giving effect to the provisions of this Act, and may in particular make regulations-
 
 (a) prescribing the procedure which shall be complied with by the Commission when granting accreditation;
 
@@ -1768,13 +1782,27 @@ Universities
 
 (g) prescribing procedures for establishment of college and affiliation to a university;
 
-(h) prescribing forms or the manner m which applications, particulars, data or returns, and administrative appeals shall or may be submitted;
+(h) prescribing forms or the manner in which applications, particulars, data or returns, and administrative appeals shall or may be submitted;
 
 [[END OF PAGE 48]]
 
 [[START OF PAGE 49]]
 
-(this page came through the extractor with no text)
+50 No. 7
+
+Universities
+
+2005
+
+(i) prescribing a framework for the general supervision, regulation, guidance and provision of incentives for a university;
+
+(j) prescribing the mode of association or affiliation between the public and private universities; or
+
+(k) prescribing procedures for establishment of apex or common organisation of students of universities;
+
+(l) prescribing anything which, in the opinion of the Minister or the Commission, is necessary or expedient for the better carrying out of the provisions of this Act.
+
+(2) The regulations, made under this section shall be published in the Gazette.
 
 [[END OF PAGE 49]]
 
@@ -1788,20 +1816,20 @@ Universities
 
 # FIRST SCHEDULE
 
-(Made under section 4(3)
+(Made under section 4(3))
 
 ## COMPOSITION AND PROCEEDINGS OF THE COMMISSION
 
 ##### Composition of the Commission
-1 .-(1) The Commission shall be composed of a chairman who shall be appointed by the President and not less than fifteen and not more than twenty one members, who shall be appointed by the Minister from amongst Persons who Possess knowledge and experience in higher education and training matters and who can enable the Commission to perform its functions according to the highest Professional standards.
+1.-(1) The Commission shall be composed of a chairman who shall be appointed by the President and not less than fifteen and not more than twenty one members, who shall be appointed by the Minister from amongst persons who possess knowledge and experience in higher education and training matters and who can enable the Commission to perform its functions according to the highest professional standards.
 
 (2) The Minister shall in appointing members ensure that at least one third of members consists of women.
 
-(3) Without Prejudice to the generality of sub-Paragraphs (1) and (2) the membership of the Commission shall include -
+(3) Without prejudice to the generality of sub-paragraphs (1) and (2) the membership of the Commission shall include -
 
-(a) four Vice-Chancellors Of fully accredited universities in the United Republic two Of whom shall be drawn from public universities and two from Private universities one of whom shall be drawn from a private university in Zanzibar;
+(a) four Vice-Chancellors of fully accredited universities in the United Republic two of whom shall be drawn from public universities and two from private universities one of whom shall be drawn from a private university in Zanzibar;
 
-(b) one member nominated by the Tanzania private Sector Foundation;
+(b) one member nominated by the Tanzania Private Sector Foundation;
 
 (c) a legally qualified member from the Attorney General's Chambers;
 
@@ -1839,7 +1867,7 @@ Universities
 
 (ii) one member representing university students in Zanzibar.
 
-- one member representing a Research Academic and Allied Workers Union (RAAWU);
+(l) one member representing a Research Academic and Allied Workers Union (RAAWU);
 
 (m) one member nominated by a nation-wide non-governmental organization for the time being running or operating a gender networking programme.
 
@@ -1849,26 +1877,23 @@ Universities
 
 (6) The Executive Secretary shall be the Secretary to the Commission.
 
-##### Vice- Chairman
-- The members shall elect one of their number to be the Vice-Chairman of the Council and any member elected as Vice-Chairman shall, subject to his continuing to be a member, hold office for a term of one year from the date of his election, but shall be eligible for re-election.
+##### Vice-Chairman
+2. The members shall elect one of their number to be the Vice-Chairman of the Council and any member elected as Vice-Chairman shall, subject to his continuing to be a member, hold office for a term of one year from the date of his election, but shall be eligible for re-election.
 
 ##### Tenure of office
-- 3 .-(l) A member shall, unless his appointment is sooner terminated by the Minister, or he ceases in any other way to be a member, hold office for a period of three years and shall be eligible for reappointment.
+3.-(1) A member shall, unless his appointment is sooner terminated by the Minister, or he ceases in any other way to be a member, hold office for a period of three years and shall be eligible for reappointment.
 
 (2) Members appointed by virtue of their office shall cease to be members upon ceasing to hold the office entitling appointment to the Commission.
 
-##### Meetings of the Commi- ssion
-4 .-(1) The Commission shall ordinarily meet at such times and places as it deems necessary for transaction of its business, but shall meet at least once in every three months.
+##### Meetings of the Commission
+4.-(1) The Commission shall ordinarily meet at such times and places as it deems necessary for transaction of its business, but shall meet at least once in every three months.
 
 (2) The Chairman or in his absence, the Vice-Chairman, may at any time call a special meeting upon a written request by a majority of the members.
 
 (3) The Chairman or in his absence the Vice-Chairman, shall preside at every meeting of the commission and in the absence of both the Chairman and the Vice-Chairman, the members present shall appoint a member from amongst themselves to preside over the meeting.
 
-##### Absent members to be repre- sented
-5 . Where a member of the Commission who is a member by virtue of his office is unable for any reason to attend any meeting of the Commission he may nominate another person from his organisation to represent him in the meeting.
-
-##### Quorum
-6 . The quorum at any meeting of the Commission shall be half the members.
+##### Absent members to be represented
+5. Where a member of the Commission who is a member by virtue of his office is unable for any reason to attend any meeting of the Commission he may nominate another person from his organisation to represent him in the meeting.
 
 [[END OF PAGE 51]]
 
@@ -1880,30 +1905,31 @@ Universities
 
 2005 53
 
+##### Quorum
+6. The quorum at any meeting of the Commission shall be half the members.
+
 ##### Decision of the Commission
-7. -(1) Subject to sub-paragraph (2), matters proposed at a meeting of the Commission shall be decided by a majority of the votes of the members present and voting, and in the event of an equality of votes then the person presiding shall have a casting vote in addition to his deliberative vote.
+7.-(1) Subject to sub-paragraph (2), matters proposed at a meeting of the Commission shall be decided by a majority of the votes of the members present and voting, and in the event of an equality of votes then the person presiding shall have a casting vote in addition to his deliberative vote.
 
 (2) A decision may be made by the Commission without a meeting by circulation of the relevant papers among the members and the expression of the views of the member in writing, but any member may require that the decision be deferred and the subject matter be considered at a meeting of the Commission.
 
 ##### Minutes of meetings
-8 .-(1) The Commission shall cause to be recorded and kept minutes of all business conducted or transacted at the meeting and the minutes of each meeting of the Commission shall be read and confirmed or amended and confirmed at the next meeting of the Commission and signed by the person presiding and the Secretary to the meeting.
+8.-(1) The Commission shall cause to be recorded and kept minutes of all business conducted or transacted at the meeting and the minutes of each meeting of the Commission shall be read and confirmed or amended and confirmed at the next meeting of the Commission and signed by the person presiding and the Secretary to the meeting.
 
 (2) Any minutes purporting to be signed by the person presiding and the Secretary at a meeting of the Commission shall in the absence of proof of error be deemed to be a correct record of the meeting whose minutes they purport to be.
 
-##### Vacanci- es, etc., not to invali- date pro- ceedings
-9 . The validity of any act or proceeding of the Commission shall not be affected by any vacancy among its members or by any defect in the appointment of any of them.
+##### Vacancies, etc., not to invalidate proceedings
+9. The validity of any act or proceeding of the Commission shall not be affected by any vacancy among its members or by any defect in the appointment of any of them.
 
-##### Seal of the Commi- ssion
-10 .-(1) The seal of the Commission shall be authenticated by the signatures of the Chairman or any other member of the Commission and the Executive Secretary.
+##### Seal of the Commission
+10.-(1) The seal of the Commission shall be authenticated by the signatures of the Chairman or any other member of the Commission and the Executive Secretary.
 
 (2) In the absence of the Chairman, the person for the time being holding the position of Vice-Chairperson or a member of the Commission designated by the Chairman for the purpose may sign a document in his place.
 
-(3) Every document purported to be an instrument issued by the Commission shall be scaled with the common seal of the Commission and authenticated in the manner provided for under subparagraph (1) and such an instrument shall be received in evidence without further proof.
+(3) Every document purported to be an instrument issued by the Commission shall be sealed with the common seal of the Commission and authenticated in the manner provided for under subparagraph (1) and such an instrument shall be received in evidence without further proof.
 
 ##### Proof of documents
-11 . Any document purporting to be under the hand of the Registrar as to any resolution of the Commission or as having been issued on behalf of the Commission shall be receivable in all courts or tribunals or other bodies authorised to receive evidence and shall unless the contrary is shown, be deemed, without further proof to be sufficient evidence of what is contained in the document.
-
-##### Power of the Minister to give guidance
+11. Any document purporting to be under the hand of the Registrar as to any resolution of the Commission or as having been issued on behalf of the Commission shall be receivable in all courts or tribunals or other bodies authorised to receive evidence and shall unless the contrary is shown, be deemed, without further proof to be sufficient evidence of what is contained in the document.
 
 [[END OF PAGE 52]]
 
@@ -1915,10 +1941,11 @@ Universities
 
 2005
 
-- 12 . The Minister may under his hand give the Commission guidance on such matters of policy as may be required.
+##### Power of the Minister to give guidance
+12. The Minister may under his hand give the Commission guidance on such matters of policy as may be required.
 
 ##### Commission to regulate its own proceedings
-- 13 . Subject to the provisions of this Schedule the Commission may regulate its own proceedings,
+13. Subject to the provisions of this Schedule the Commission may regulate its own proceedings,
 
 [[END OF PAGE 53]]
 
@@ -1937,12 +1964,12 @@ Universities
 ## THE COMMITTEE OF VICE-CHANCELLORS, AND PRINCIPALS
 
 ##### Interpretation
-1 . In this Schedule-
+1. In this Schedule-
 
 "Committee" means the Committee of Vice-chancellors, and Principals.
 
 ##### Composition of the Committee
-- The Committee shall consist of-
+2. The Committee shall consist of-
 
 (a) the Vice-Chancellor, or equivalent designation, of each public and each fully accredited and chartered private university;
 
@@ -1955,7 +1982,7 @@ Universities
 (e) in an advisory capacity, such additional members appointed by each Council or, as the case may be, each Governing Board, as may be prescribed by joint regulations.
 
 ##### Chairman of the Committee
-3. -(1) The Committee shall elect one of the Vice-Chancellors to be the Chairman of the Committee on a rotating basis for a two year term and in his absence, one of the Vice-Chancellors present at a meeting shall be nominated to chair that particular meeting.
+3.-(1) The Committee shall elect one of the Vice-Chancellors to be the Chairman of the Committee on a rotating basis for a two year term and in his absence, one of the Vice-Chancellors present at a meeting shall be nominated to chair that particular meeting.
 
 (2) The University whose Vice-Chancellor is elected Chairman of the Committee shall provide the Secretary to the Committee for the period of the Chairmanship.
 
@@ -1963,9 +1990,9 @@ Universities
 4. The Committee may establish a secretariat on such other terms and manner and place as the Committee may deem appropriate and a fund to which the member institutions may make contributions at such rates, intervals and on such other terms as the Committee may deem fit, for meeting the costs of running the activities, including performing the functions, powers and privileges, of the Committee and the secretariat thereof provided for in or under this Act or under any other written law or as may be prescribed.
 
 ##### Senior member of staff to Chair the meeting
-5. -(1) Where any Vice-Chancellor, Principal or Director is unable to attend any meeting of the Committee of Vice-Chancellors, Principals and Directors, he may nominate any senior member of staff of the University, College, Institute, Centre or Directorate, as the case may be, to represent him at such meeting:
+5.-(1) Where any Vice-Chancellor, Principal or Director is unable to attend any meeting of the Committee of Vice-Chancellors, Principals and Directors, he may nominate any senior member of staff of the University, College, Institute, Centre or Directorate, as the case may be, to represent him at such meeting:
 
-(2) Nothing in paragraph (1) shall entitle a senior member of staff representing a Vice-Chancellor who is the Chairman of the Committee to assume the position of Acting Chairman during the time he is representing that Vice-Chancellor.
+(2) Nothing in paragraph (1) shall entitle a senior member of staff representing a Vice-Chancellor who is the Chairman of the Committee to assume the position of
 
 [[END OF PAGE 54]]
 
@@ -1977,7 +2004,9 @@ Universities
 
 2005
 
-##### Meetings functions of the Committee Vice
+Acting Chairman during the time he is representing that Vice-Chancellor.
+
+##### Meetings of the Committee
 6.-(1) The Committee shall meet at least two times in a year at such place or places as may be determined by the Committee or the Chairman of the Committee in that behalf
 
 (2) The Chairman shall convene ordinary meetings of the Committee by notice in writing to each member specifying the place, date and time of the meeting at his usual place of business or residence not less than fourteen days before the date of such a meeting except that the first meeting of the Committee shall be convened by the Executive Secretary of the Commission,
@@ -1987,22 +2016,22 @@ Universities
 (4) The Committee shall regulate the procedure of its meetings and related matters, including the quorum for such meetings, in such manner as it shall deem appropriate.
 
 ##### Functions of the Committee
-- The Committee shall-
+7. The Committee shall-
 
 (a) advise the Commission on promotion criteria of academic and senior administrative staff of different levels and categories of higher education institutions and on proper rationalization and harmonization of such criteria for the respective categories and levels of such staff and institutions;
 
-(b) perform any function assigned to it by this Actor by common regulations;
+(b) perform any function assigned to it by this Act or by common regulations;
 
 (c) consider and make recommendations to the Commission regarding any matter referred to it by the Commission relating to accreditation, grants, student admissions or any other matter; and
 
 (d) perform any other function, consider and make recommendations to the Commission regarding any other matter and do any other thing which the Committee shall deem appropriate in furtherance of its mandate conferred upon it by this Act or by any other written law.
 
 ##### Powers of the Committee
-- 8 . The Committee shall have power to-
+8. The Committee shall have power to-
 
 (a) deliberate on and make recommendations to the Commission regarding any matter that the Committee considers to be of common interest to its member universities and university colleges;
 
-(b) propose common regulations which way be adopted by the participating institutions for giving effect to the provisions of this Act and to make provisions for all such other matters as ore of common interest to universities including provision for a voluntary or non statutory federated staff welfare and retirement benefit scheme programme or plan for the participating universities;
+(b) propose common regulations which may be adopted by the participating institutions for giving effect to the provisions of this Act and to make provisions for all such other matters as are of common interest to universities including provision for a voluntary or non statutory federated staff welfare and retirement benefit scheme programme or plan for the participating universities;
 
 [[END OF PAGE 55]]
 
@@ -2016,25 +2045,25 @@ Universities
 
 (c) deliberate on and pass any resolution regarding any matter of common interest to the members of the Committee or of their respective institutions with a view to the implementation of the same or submitting it to any higher authority for consideration or information.
 
-# THE SCHEDULE
+# THIRD SCHEDULE
 
 (Made under section 60)
 
 ## AMENDMENTS AND  REPEALS
 
-##### Amend- ment of the Educa- tion Act, No. 25 of 1978
-1 . The Education Act, 1978 is amended- |
---- | ---
-(a) by repealing the whole of Part IX; |
-(b) in subsection (1) of section 33 by inserting immediately after the word |
-''training'' appearing in the last line the phrase- ''other than higher education level and training'' |
-##### Repeals Acts; Nos. 9 1991; 21 of 2001; 17 of 1992; 6 of 1984; and 12 of 1970
-2 . The following Acts are hereby repealed- |
-(a) The Muhimbili University College of Health Science Act, 1991; |
-(b) The Mzumbe University Act, 2001; |
-(c) The Open University of Tanzania Act, 1992; |
-(d) The Sokoine University of Agriculture Act, 1984; and |
-(e) The University of Dar es Salaam Act, 1970. |
+##### Amendment of the Education Act, No. 25 of 1978
+1. The Education Act, 1978 is amended-
+(a) by repealing the whole of Part IX;
+(b) in subsection (1) of section 33 by inserting immediately after the word ''training'' appearing in the last line the phrase-
+''other than higher education level and training''
+
+##### Repeals Acts; Nos. 9 of 1991; 21 of 2001; 17 of 1992; 6 of 1984; and 12 of 1970
+2. The following Acts are hereby repealed-
+(a) The Muhimbili University College of Health Science Act, 1991;
+(b) The Mzumbe University Act, 2001;
+(c) The Open University of Tanzania Act, 1992;
+(d) The Sokoine University of Agriculture Act, 1984; and
+(e) The University of Dar es Salaam Act, 1970.
 
 # FOURTH SCHEDULE
 
@@ -2045,13 +2074,11 @@ Universities
 ### TRANSITIONAL AND CONSEQUENTIAL PROVISIONS FOR HIGHER EDUCATION ACCREDITATION COUNCIL
 
 ##### Interpretation
-1 .-(1) In this Schedule-
+1.-(1) In this Schedule-
 
 ''effective date'' means the date of commencement of this Act;
 
 ''existing university'' includes an institution that was in existence, whether active or
-
-Act No. 25 of 1978
 
 [[END OF PAGE 56]]
 
@@ -2063,23 +2090,24 @@ Universities
 
 2005
 
-- inactive, immediately before the effective date, which, by its mission, programmes, student admission requirements and awards, offered a level of education and training that led to either intermediate or full academic or professional qualifications and competence, whether it was already granted accreditation or not under Part IX of the amended Act or any other applicable written law;
+inactive, immediately before the effective date, which, by its mission, programmes, student admission requirements and awards, offered a level of education and training that led to either intermediate or full academic or professional qualifications and competence, whether it was already granted accreditation or not under Part IX of the amended Act or any other applicable written law;
 
+Act No. 25 of 1978
 ''former Council'' means the Higher Education Accreditation Council established by the Education Act, 1978;
 
 ''former officer'' means any person employed on the staff of the former Council immediately preceding the effective date and includes the persons so employed as the Executive Secretary or Assistant Executive Secretary of the former Council;
 
 ''instrument'' includes, contracts, guarantees, agreements bonds, authorities, mortgages charges, bill of exchange, promissory notes, bank drafts, bank cheques,
 
-- letters of credit and securities.
+letters of credit and securities.
 
 ##### Assets and liabilities
-2 .-(l) All assets and liabilities of the former Council, subsisting upon the effective date shall, by virtue of this Act and without further assurance, vest in the Commission, and the former Council shall, as from the effective date, be discharged from its obligations in respect of every such liability.
+2.-(1) All assets and liabilities of the former Council, subsisting upon the effective date shall, by virtue of this Act and without further assurance, vest in the Commission, and the former Council shall, as from the effective date, be discharged from its obligations in respect of every such liability.
 
 (2) The Commission shall carry out and continue the functions of the former Council in accordance with the provisions of this Act.
 
 ##### Former Officers
-- 3 .-(1) subject to the provisions of paragraph 4, every former officer shall, as from the effective date, be deemed to be an employee of the Commission.
+3.-(1) subject to the provisions of paragraph 4, every former officer shall, as from the effective date, be deemed to be an employee of the Commission.
 
 (2) Where a former officer becomes employed by the Commission by virtue of sub-paragraph (1), the terms and conditions of service of his employment in the service of the Commission shall be in accordance with the provisions of this Act and any regulations made there under:
 
@@ -2089,7 +2117,7 @@ Provided that this sub-paragraph shall not apply so as to permit any reduction i
 
 (4) For the purpose of determining any right to a gratuity or other pension or terminal benefit, of a former officer his service with the Commission shall be regarded as continuous with his service immediately preceding the effective date; his employment immediately prior to the effective date and his employment by the Commission shall be deemed to be continuous employment by one employer.
 
-4. -(1) The Chairman may, after consultation with the Minister direct that a former officer be employed by the Commission in an office in the Commission corresponding to the office held by him immediately preceding to the effective date or in such other office as the Chairman may determine, and where such officer is so employed, the provisions of paragraph 3 shall apply to him.
+4.-(1) The Chairman may, after consultation with the Minister direct that a former officer be employed by the Commission in an office in the Commission corresponding to the office held by him immediately preceding to the effective date or in such other office as the Chairman may determine, and where such officer is so employed, the provisions of paragraph 3 shall apply to him.
 
 [[END OF PAGE 57]]
 
@@ -2106,7 +2134,7 @@ Universities
 (3) Subject to the provisions of sub-paragraph (2), a former officer shall not notwithstanding any provision of the terms and conditions applicable to his employment immediately preceding the effective date or any provision of any contract regulating his employment immediately preceding the effective date, be entitled to claim from the former Council or the Commission any damages or other payment whatsoever for any loss suffered by him by reason of the operation of the provisions of this Schedule.
 
 ##### Instruments
-5 .-(1) The instruments to which this paragraph applies include instruments-
+5.-(1) The instruments to which this paragraph applies include instruments-
 
 (a) to which the former Council is a party;
 
@@ -2120,16 +2148,16 @@ Universities
 
 (b) be entitled to receive and enforce payment of any money payable there under;
 
-(c) be entitled to obtain a transfer, conveyance or assignment of and enforce possession of, any property which is. to be transferred, conveyed or assigned there under,
+(c) be entitled to obtain a transfer, conveyance or assignment of and enforce possession of, any property which is to be transferred, conveyed or assigned there under,
 
 (d) be liable to make payment of any money payable there under; or
 
 (e) be liable to transfer, convey or assign any property which is to be transferred, conveyed or assigned there under, as the case may be.
 
 ##### Subsidiary legislation
-6 .-(1) All regulations, rules, by-laws, orders, directions, circulars or other subsidiary legislation made, given or issued under the repealed or amended Act and which are in force before the effective date shall remain in force after the effective date until they are repealed or replaced by regulations or other subsidiary legislation made under or in accordance with the provisions of this Act.
+6.-(1) All regulations, rules, by-laws, orders, directions, circulars or other subsidiary legislation made, given or issued under the repealed or amended Act and which are in force before the effective date shall remain in force after the effective date until they are repealed or replaced by regulations or other subsidiary legislation made under or in accordance with the provisions of this Act.
 
-(2) For avoidance of doubt, all appointments, requirements, authorisations, accreditations, approvals, other things, including rights and liabilities made, given, taken, done or incurred under, and all funds, assets and other property acquired by virtue of or in accordance with the provisions of the repeated or amended Act shall be deemed to have been done, given, taken, made, incurred or acquired under this Act subject to such changes and provisions of repeal or replacement as may be made as provided in sub-paragraph (1).
+(2) For avoidance of doubt, all appointments, requirements, authorisations, accreditations, approvals, other things, including rights and liabilities made, given, taken, done or incurred under, and all funds, assets and other property acquired by
 
 [[END OF PAGE 58]]
 
@@ -2141,32 +2169,34 @@ Universities
 
 2005
 
+virtue of or in accordance with the provisions of the repeated or amended Act shall be deemed to have been done, given, taken, made, incurred or acquired under this Act subject to such changes and provisions of repeal or replacement as may be made as provided in sub-paragraph (1).
+
 ## PART II
 
-### CONSEQUENTIAL  AND TRANSITIONAL PROVISION  FOR PUBLIC  UNIVERSITIES
+### CONSEQUENTIAL AND TRANSITIONAL PROVISION FOR PUBLIC UNIVERSITIES
 
-##### Existing universi- ty to comply with this Act
-7 . Existing University shall within 18 months from the date of commencement of this Act, comply with the provisions of this Act.
+##### Existing university to comply with this Act
+7. Existing University shall within 18 months from the date of commencement of this Act, comply with the provisions of this Act.
 
 ##### Transfer of assets and liabilities
-8 . All assets and liabilities of the existing university shall, with effect from the effective date and without further assurance vest in the university and the university council.
+8. All assets and liabilities of the existing university shall, with effect from the effective date and without further assurance vest in the university and the university council.
 
 ##### Universities to continue their functions
-9 . The existing university shall perform its functions in accordance with the provisions of this Act, and enrolled students immediately before the commencement of this Act shall continue to be students of the university.
+9. The existing university shall perform its functions in accordance with the provisions of this Act, and enrolled students immediately before the commencement of this Act shall continue to be students of the university.
 
 ##### Employee of the university
-10. -(1) An employee of the existing university shall with effect from the effective date continue to be the employee of the existing university under the terms and conditions of service as stipulated under this Act or regulations made under this Act.
+10.-(1) An employee of the existing university shall with effect from the effective date continue to be the employee of the existing university under the terms and conditions of service as stipulated under this Act or regulations made under this Act.
 
-##### Instruments
 (2) For the purpose of calculating a gratuity or other benefits of an employee of the university the service of that employee with the existing university shall be regarded as continuous .
 
-11 . An instrument to which the existing university is a party shall be deemed to be the valid instrument of the university for purposes for which it was made.
+##### Instruments
+11. An instrument to which the existing university is a party shall be deemed to be the valid instrument of the university for purposes for which it was made.
 
 ##### Subsidiary legislation
-12 . Subsidiary legislation for the existing university made under any written law shall, unless revoked or substituted, continue to apply to the university as if it was made under this Act.
+12. Subsidiary legislation for the existing university made under any written law shall, unless revoked or substituted, continue to apply to the university as if it was made under this Act.
 
-Passed in the National Assembly on
+Passed in the National Assembly on the 13th April, 2005
 
-sembly
+Clerk of the National Assembly
 
 [[END OF PAGE 59]]
