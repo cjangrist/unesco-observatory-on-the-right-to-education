@@ -1,6 +1,6 @@
 [[START OF PAGE 1]]
 
-Disclaimer: The English language text below is provided by the Translation and Terminology Centre for information only; it confers no rights and imposes no obligations separate from those conferred or imposed by the legislation formally adopted and published. Only the latter is authentic. The original Latvian text uses masculine pronouns in the singular. The Translation and Terminology Centre uses the principle of gender-neutral language in its English translations. In addition, gender-specific Latvian nouns have been translated as gender-neutral terms, e.g. chairperson .
+Disclaimer: The English language text below is provided by the Translation and Terminology Centre for information only; it confers no rights and imposes no obligations separate from those conferred or imposed by the legislation formally adopted and published. Only the latter is authentic. The original Latvian text uses masculine pronouns in the singular. The Translation and Terminology Centre uses the principle of gender-neutral language in its English translations. In addition, gender-specific Latvian nouns have been translated as gender-neutral terms, e.g. chairperson.
 
 The Saeima 1 has adopted and the President has proclaimed the following Law:
 
@@ -10,21 +10,21 @@ The Saeima 1 has adopted and the President has proclaimed the following Law:
 
 The purpose of this Law is to ensure:
 
-- the maintenance, protection and development of the Latvian language;
+1) the maintenance, protection and development of the Latvian language;
 
-- the maintenance of the cultural and historic heritage of the Latvian nation;
+2) the maintenance of the cultural and historic heritage of the Latvian nation;
 
-- the  right  to  freely  use  the  Latvian  language  in  any  sphere  of  life  within  the  whole territory of Latvia;
+3) the right to freely use the Latvian language in any sphere of life within the whole territory of Latvia;
 
-- the  integration  of  members  of  ethnic  minorities  into  the  society  of  Latvia,  while observing their rights to use their native language or other languages;
+4) the integration of members of ethnic minorities into the society of Latvia, while observing their rights to use their native language or other languages;
 
-- the increased influence of the Latvian language in the cultural environment of Latvia, to promote a more rapid integration of society.
+5) the increased influence of the Latvian language in the cultural environment of Latvia, to promote a more rapid integration of society.
 
 ## Section 2.
 
 (1)  This  Law  prescribes  the  use  and  protection  of  the  official  language  in  State  and  local government  institutions,  courts  and  institutions  constituting  the  judicial  system,  as  well  as  in other institutions, organisations and undertakings (companies), the educational sphere and other spheres.
 
-(2)  Language  use  in  private  institutions,  organisations,  undertakings  (companies)  and  with respect to self-employed persons shall be regulated, if their activities affect the lawful interests of the  public  (public  security,  health,  morality,  health  care,  protection  of  consumer  rights  and employment rights, safety in the work place and public administration supervision) (hereinafter also - lawful interests of the public) and to the extent that the necessary restriction which has been set in the lawful interests of the public is proportional to the rights and interests of private institutions, organisations and undertakings (companies).
+(2) Language use in private institutions, organisations, undertakings (companies) and with respect to self-employed persons shall be regulated, if their activities affect the lawful interests of the public (public security, health, morality, health care, protection of consumer rights and employment rights, safety in the work place and public administration supervision) (hereinafter also – lawful interests of the public) and to the extent that the necessary restriction which has been set in the lawful interests of the public is proportional to the rights and interests of private institutions, organisations and undertakings (companies).
 
 (3)  This  Law  does  not  apply  to  the  use  of  language  in  unofficial  communications  of  the inhabitants of Latvia, in internal communications of national and ethnic groups, or in services, ceremonies, rituals and other kinds of religious activity of religious organisations.
 
@@ -58,9 +58,9 @@ Any other  language  used  in  the  Republic  of  Latvia,  except  the  Liv  lan
 
 (1) Employees of State and local government institutions, courts and institutions constituting the judicial system, State and local government undertakings, as well as employees of companies in which the greatest share of capital is owned by the State or a local government, shall be fluent in and use the official language to the extent necessary for performance of their professional duties and duties of office.
 
-(2)  Employees  of  private  institutions,  organisations  and  undertakings  (companies),  and  selfemployed persons, shall use the official language if their activities affect the lawful interests of the  public  (public  security,  health,  morality,  health  care,  protection  of  consumer  rights  and employment rights, safety in the work place, supervision of public administration).
+(2) Employees of private institutions, organisations and undertakings (companies), and self-employed persons, shall use the official language if their activities affect the lawful interests of the public (public security, health, morality, health care, protection of consumer rights and employment rights, safety in the work place, supervision of public administration).
 
-(3)  Employees  of  private  institutions,  organisations  and  undertakings  (companies),  and  selfemployed persons who perform specific public functions on the basis of laws or other regulatory enactments,  shall  be  fluent  in  and  use  the  official  language  to  the  extent  necessary  for performance of the relevant functions.
+(3) Employees of private institutions, organisations and undertakings (companies), and self-employed persons who perform specific public functions on the basis of laws or other regulatory enactments, shall be fluent in and use the official language to the extent necessary for performance of the relevant functions.
 
 (4)  Foreign experts and members of foreign boards of undertakings (companies) who work in Latvia  shall  be  fluent  in  and  use  the  official  language  to  the  extent  that  is  necessary  for  the performance  of  their  professional  duties  and  duties  of  office,  or  shall  themselves  ensure translation into the official language.
 
@@ -82,7 +82,7 @@ Translation © 2000 Tulkošanas un terminoloģijas centrs (Translation and Termi
 
 (1)  In  State  and  local  government  institutions,  courts  and  institutions  constituting  the  judicial system, State and local government undertakings, and companies in which the greatest share of capital  is  owned  by  the  State  or  a  local  government,  the  official  language  shall  be  used  for record-keeping and documents. Correspondence and other kinds of communication with foreign states may take place in a foreign language.
 
-(2)  The  employees  of  private  institutions,  organisations,  undertakings  (companies),  and  selfemployed  persons,  shall  use  the  official  language  in  record-keeping  and  documents,  if  their activities affect the lawful interests of the public (public security, health, morality, health care, protection  of  consumer  rights  and  employment  rights,  safety  at  the  work  place  and  public administration supervision).
+(2) The employees of private institutions, organisations, undertakings (companies), and self-employed persons, shall use the official language in record-keeping and documents, if their activities affect the lawful interests of the public (public security, health, morality, health care, protection of consumer rights and employment rights, safety at the work place and public administration supervision).
 
 (3) Private institutions, organisations, undertakings (companies), and self-employed persons who perform specific public functions on the basis of laws or other regulatory enactments, shall use the official language for record-keeping and documents that are related to the performance of the relevant functions.
 
@@ -96,7 +96,7 @@ Contracts of natural and legal persons regarding provision of medical treatment,
 
 (1)  All  institutions,  organisations  and  undertakings  (companies)  shall  ensure  acceptance  and examination of documents drawn up in the official language.
 
-(2)  State  and  local  government  institutions,  courts  and  institutions  constituting  the  judicial system, and State or local government undertakings (companies) shall accept from persons and examine  only  documents  as  are  in  the  official  language,  except  in  cases  as  prescribed  in Paragraphs three and four of this Section and in other laws. The provisions of this Section do not apply  to  submissions  of  persons  to  police  and  medical  institutions,  rescue  services  and  other institutions in cases of urgent calls for medical aid, commission of crimes or other violations of law, or calls for emergency assistance in cases of fire, accident or other emergencies.
+(2) State and local government institutions, courts and institutions constituting the judicial system, and State or local government undertakings (companies) shall accept from persons and examine only documents as are in the official language, except in cases as prescribed in Paragraphs three and four of this Section and in other laws. The provisions of this Section do not
 
 Translation © 2000 Tulkošanas un terminoloģijas centrs (Translation and Terminology Centre)
 
@@ -105,6 +105,8 @@ Translation © 2000 Tulkošanas un terminoloģijas centrs (Translation and Termi
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+apply to submissions of persons to police and medical institutions, rescue services and other institutions in cases of urgent calls for medical aid, commission of crimes or other violations of law, or calls for emergency assistance in cases of fire, accident or other emergencies.
 
 (3)  Documents  from  persons  in  a  foreign  language  shall  be  accepted  if  attached  thereto  is  a translation into the official language, certified in accordance with the procedures prescribed by the  Cabinet,  or  notarially  certified.  Translation  into  the  official  language  is  not  required  for documents that have been issued in the territory of Latvia by the day this Law comes into force.
 
@@ -196,7 +198,7 @@ Translation © 2000 Tulkošanas un terminoloģijas centrs (Translation and Termi
 
 ## Section 21.
 
-(1)  Information  provided  for  public  information  purposes  by  State  and  local  government institutions, courts and institutions constituting the judicial system, State and local government undertakings, and companies in which the greatest share of capital is owned by the State or a local government, shall be provided only in the official language, except in cases determined in Paragraph  five  of  this Section. This  provision  is also applicable  to private institutions, organisations, undertakings (companies), and self-employed persons, who perform, on the basis of laws or other regulatory enactments, specific public functions, if the provision of information is related to the performance of the relevant functions.
+(1) Information provided for public information purposes by State and local government institutions, courts and institutions constituting the judicial system, State and local government undertakings, and companies in which the greatest share of capital is owned by the State or a local government, shall be provided only in the official language, except in cases determined in
 
 Translation © 2000 Tulkošanas un terminoloģijas centrs (Translation and Terminology Centre)
 
@@ -205,6 +207,8 @@ Translation © 2000 Tulkošanas un terminoloģijas centrs (Translation and Termi
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+
+Paragraph five of this Section. This provision is also applicable to private institutions, organisations, undertakings (companies), and self-employed persons, who perform, on the basis of laws or other regulatory enactments, specific public functions, if the provision of information is related to the performance of the relevant functions.
 
 (2)  Information  contained  in  the  labels  and  marking  of  goods  manufactured  in  Latvia, instructions for use, and statements on the manufactured product, its packaging or container shall be in the official language. If a foreign language is used concurrently with the official language, the text in the official language shall be placed in primary position, and it may not, in its form or contents, be smaller or narrower than the text in the foreign language These provisions do not apply to goods intended for export.
 
@@ -220,7 +224,7 @@ Translation © 2000 Tulkošanas un terminoloģijas centrs (Translation and Termi
 
 ## Section 22.
 
-(1) In specialised educational literature, and technical and record-keeping documentation, unified terminology  shall  be  used.  The  development  and  use  of  terms  shall  be  determined  by  the Terminology Commission of the Academy of Science of Latvia (hereinafter - the Terminology Commission). New terms and their defining standards shall be used in official communication only  after  their  approval  by  the  Terminology  Commission  and  publication  in  the  newspaper Latvijas Vēstnesis [the official Gazette of the Government of Latvia] .
+(1) In specialised educational literature, and technical and record-keeping documentation, unified terminology shall be used. The development and use of terms shall be determined by the Terminology Commission of the Academy of Science of Latvia (hereinafter – the Terminology Commission). New terms and their defining standards shall be used in official communication only after their approval by the Terminology Commission and publication in the newspaper Latvijas Vēstnesis [the official Gazette of the Government of Latvia].
 
 (2) The by-laws of the Terminology Commission shall be approved by the Cabinet.
 
@@ -242,7 +246,7 @@ Translation © 2000 Tulkošanas un terminoloģijas centrs (Translation and Termi
 
 ## Section 24.
 
-- It is the duty of State and local government institutions to ensure the provision of material resources for research, cultivation and development of the Latvian language.
+(1) It is the duty of State and local government institutions to ensure the provision of material resources for research, cultivation and development of the Latvian language.
 
 (2)  The  State  shall  ensure  the  development  of  an  official  language  policy,  incorporating  in  it scientific research, protection and teaching of the Latvian language, promoting enlargement of the role of the Latvian language in the national economy, and cultivating individual and public understanding of the language as a national value.
 
@@ -252,17 +256,17 @@ For violation of the provisions of this Law, offenders shall be held liable in a
 
 ## Section 26.
 
-- Compliance  with  this  Law  in  the  Republic  of  Latvia  shall  be  supervised  by  the  State Language Centre.
+(1) Compliance with this Law in the Republic of Latvia shall be supervised by the State Language Centre.
 
-- The State Language Centre shall be subject to the supervision of the Ministry of Justice, and its by-laws shall be approved by the Cabinet.
+(2) The State Language Centre shall be subject to the supervision of the Ministry of Justice, and its by-laws shall be approved by the Cabinet.
 
 ## Transitional provisions
 
-- This law shall come into force on 1 September 2000.
+1. This law shall come into force on 1 September 2000.
 
-- With  the  coming  into  force  of  this  Law,  the  Republic  of  Latvia  Language  Law  is  repealed ( Latvijas PSR Augstākās Padomes un Valdības Ziņotājs , 1989, No. 20).
+2. With the coming into force of this Law, the Republic of Latvia Language Law is repealed (Latvijas PSR Augstākās Padomes un Valdības Ziņotājs, 1989, No. 20).
 
-- The Cabinet shall adopt, by 1 September 2000, the regulatory enactments referred to in this Law, and approve the by-laws of the Latvian Language  Expert Commission  and  the Terminology Commission.
+3. The Cabinet shall adopt, by 1 September 2000, the regulatory enactments referred to in this Law, and approve the by-laws of the Latvian Language Expert Commission and the Terminology Commission.
 
 This Law has been adopted by the Saeima on 9 December 1999.
 
