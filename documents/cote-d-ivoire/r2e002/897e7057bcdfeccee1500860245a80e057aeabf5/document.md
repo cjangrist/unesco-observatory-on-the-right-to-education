@@ -26,7 +26,7 @@ Au sens du présent décret est :
 
  personnel d'éducation, tout inspecteur d'éducation, d'orientation, tout assistant social, tout éducateur régulièrement affecté par l'Etat dans l'établissement et qui y exerce une activité d'encadrement ;
 
- personnel administratif, toute personne régulièrement affectée par l'Etat dans rétablissement et y exerçant la fonction de directeur d'école, de chef d'établissement, d'adjoint au chef d'établissement, d'économe ou d'intendant ;
+ personnel administratif, toute personne régulièrement affectée par l'Etat dans l'établissement et y exerçant la fonction de directeur d'école, de chef d'établissement, d'adjoint au chef d'établissement, d'économe ou d'intendant ;
 
  professionnel de secteurs d'activités, toute personne qui exerce une activité couverte par les formations techniques et professionnelles enseignées dans l'établissement ;
 
@@ -49,7 +49,7 @@ Le COGES a pour mission de contribuer à la promotion de l'établissement où il
 
  d'apporter un appui aux activités socio-éducatives de l'établissement ;
 
- de suivre l'évolution des effectifs des élèves et du personnel au sein de rétablissement ;
+ de suivre l'évolution des effectifs des élèves et du personnel au sein de l'établissement ;
 
  d'apporter un appui aux activités pédagogiques ;
 
@@ -97,6 +97,8 @@ Ont la qualité de membres du COGES :
 
  les élus locaux.
 
+#### ARTICLE 5
+
 Les organes du COGES sont :
 
  l'assemblée générale ;
@@ -106,8 +108,6 @@ Les organes du COGES sont :
  le commissariat aux comptes ;
 
  les assemblées subsidiaires.
-
-#### ARTICLE 5
 
 ### SECTION 1 : L'ASSEMBLEE GENERALE
 
@@ -141,7 +141,7 @@ L'assemblée générale est l'organe suprême et délibératif du COGES. Elle es
 
  de décider de la révocation des membres du bureau exécutif ;
 
- d'informer par voie hiérarchique la structure de suivi des sanctions prises à rencontre du bureau exécutif ;
+ d'informer par voie hiérarchique la structure de suivi des sanctions prises à l'encontre du bureau exécutif ;
 
  de veiller au respect des dispositions réglementaires des COGES ;
 
@@ -205,11 +205,11 @@ Le président dirige les débats de l'assemblée générale et préside l'assemb
 
 #### ARTICLE 11
 
-Le vice-président organise et préside les assemblées électives des membres de l'assemblée générale, du bureau
+Le vice-président organise et préside les assemblées électives des membres de l'assemblée générale, du bureau exécutif et du commissariat aux comptes.
 
-exécutif et du commissariat aux comptes. Il aide le président de l'assemblée générale dans l'exercice de ses fonctions et le supplée par délégation en cas d'empêchement
+Il aide le président de l'assemblée générale dans l'exercice de ses fonctions et le supplée par délégation en cas d'empêchement.
 
-II assure le secrétariat de l'assemblée générale et est responsable des archives de celle-ci.
+Il assure le secrétariat de l'assemblée générale et est responsable des archives de celle-ci.
 
 ### SECTION 2 : LE BUREAU EXECUTIF
 
@@ -225,7 +225,7 @@ A ce titre :
 
  il exécute les décisions de l'assemblée générale ;
 
- il est responsable devant l'assemblée générale à laquelle il aide compte.
+ il est responsable devant l'assemblée générale à laquelle il rend compte.
 
 #### ARTICLE 13
 
@@ -235,7 +235,7 @@ Le bureau exécutif est chargé :
 
  d'élaborer et de soumettre le programme d'activités annuel budgétisé à l'assemblée générale pour adoption ;
 
- d'exécuter le programme d'activités annuel budgétisé adopté par l'assemblée générale et validé par le directeur régional de l'Education nationale ou le directeur départemental, de l'Education nationale ou celui de l'enseignement technique et de la formation professionnelle ou l'inspecteur de l'enseignement préscolaire et primaire ;
+ d'exécuter le programme d'activités annuel budgétisé adopté par l'assemblée générale et validé par le directeur régional de l'Education nationale ou le directeur départemental de l'Education nationale ou celui de l'enseignement technique et de la formation professionnelle ou l'inspecteur de l'enseignement préscolaire et primaire ;
 
  d'élaborer les bilans d'activités et d'en faire rapport à l'assemblée générale ;
 
@@ -243,23 +243,23 @@ Le bureau exécutif est chargé :
 
 #### ARTICLE 14
 
-Dans les établissements d'enseignement général, technique et professionnel, le bureau exécutif du COGES comprend douze membres. II est composé comme suit :
+Dans les établissements d'enseignement général, technique et professionnel, le bureau exécutif du COGES comprend douze membres. Il est composé comme suit :
 
- le président,un parent d'élève élu par ses pairs ;
+ le président, un parent d'élève élu par ses pairs ;
 
- le vice-président,un parent d'élève ou un professionnel du secteur d'activités pour lequel l'établissement forme, élu par ses pairs, selon qu'il s'agit du secondaire général ou du secondaire clinique et professionnel ;
+ le vice-président, un parent d'élève ou un professionnel du secteur d'activités pour lequel l'établissement forme, élu par ses pairs, selon qu'il s'agit du secondaire général ou du secondaire technique et professionnel ;
 
- le secrétaire général,un enseignant ou formateur élu par ses pairs ;
+ le secrétaire général, un enseignant ou formateur élu par ses pairs ;
 
- le secrétaire général adjoint,un enseignant ou formateur élu par ses pairs ;
+ le secrétaire général adjoint, un enseignant ou formateur élu par ses pairs ;
 
- le trésorier général,un parent d'élève élu par ses pairs ;
+ le trésorier général, un parent d'élève élu par ses pairs ;
 
- le trésorier général adjoint , élu par les inspecteurs d'éducation, d'orientation, les assistants sociaux de l'établissement ou les éducateurs de l'établissement ;
+ le trésorier général adjoint, élu par les inspecteurs d'éducation, d'orientation, les assistants sociaux de l'établissement ou les éducateurs de l'établissement ;
 
- deux chefs de classeélus par leurs pairs ;
+ deux chefs de classe élus par leurs pairs ;
 
- trois parents d'élèvesélus par leurs pairs ;
+ trois parents d'élèves élus par leurs pairs ;
 
 [[END OF PAGE 6]]
 
@@ -269,7 +269,7 @@ Dans les établissements d'enseignement général, technique et professionnel, l
 
 #### ARTICLE 15
 
-Dans les établissements préscolaires et primaires, bureau exécutif du COGES comprend onze membres. Il est composé comme suit :
+Dans les établissements préscolaires et primaires, le bureau exécutif du COGES comprend onze membres. Il est composé comme suit :
 
  le président, un parent d'élève élu par ses pairs ;
 
@@ -289,9 +289,11 @@ Dans les établissements préscolaires et primaires, bureau exécutif du COGES c
 
 #### ARTICLE 16
 
-Le bureau exécutif se réunit en début et en fin d'année scolaire pour préparer les sessions ordinaires de l'assemblée générale. Chaque fin de trimestre, il se réunit pour faire le bilan des activités. Le bureau exécutif se réunit en session extraordinaire, chaque fois que de besoin. Les sessions ordinaires et extraordinaires sont convoquées par le président ou par la moitié des membres du
+Le bureau exécutif se réunit en début et en fin d'année scolaire pour préparer les sessions ordinaires de l'assemblée générale.
 
-bureau exécutif.
+Chaque fin de trimestre, il se réunit pour faire le bilan des activités. Le bureau exécutif se réunit en session extraordinaire, chaque fois que de besoin.
+
+Les sessions ordinaires et extraordinaires sont convoquées par le président ou par la moitié des membres du bureau exécutif.
 
 ### SECTION 3 : LE COMMISSARIAT AUX COMPTES
 #### ARTICLE 17
@@ -304,15 +306,15 @@ Le commissariat aux comptes est chargé d'assurer le contrôle du COGES et d'ét
 
 [[START OF PAGE 8]]
 
- au directeur régional ou départemental de l'éducation nationale ou à celui de renseignement technique et de la formation professionnelle ;
+ au directeur régional ou départemental de l'éducation nationale ou à celui de l'enseignement technique et de la formation professionnelle ;
 
- à l'inspecteur de renseignement préscolaire et primaire ;
+ à l'inspecteur de l'enseignement préscolaire et primaire ;
 
  à la structure de suivi des activités des COGES.
 
 #### ARTICLE 18
 
-Le commissariat aux comptes du COGES corn» prend deux membres :
+Le commissariat aux comptes du COGES comprend deux membres :
 
  un commissaire aux comptes, parent d'élève élu par ses pairs ;
 
@@ -332,7 +334,7 @@ Les assemblées subsidiaires sont :
 
  l'assemblée des enseignants ou formateurs ;
 
- l'assemblée des chefs de classée ;
+ l'assemblée des chefs de classe ;
 
  l'assemblée des inspecteurs d'éducation, d'orientation, d'assistants sociaux et d'éducateurs ;
 
@@ -344,9 +346,11 @@ Les assemblées subsidiaires sont :
 
 [[START OF PAGE 9]]
 
+#### ARTICLE 21
+
 L'assemblée des parents d'élèves est chargée :
 
- d'élire les représentants des parents devant siéger à l'assemblée générale, au bureau exécutif et au commissariat aux comptes;
+ d'élire les représentants des parents devant siéger à l'assemblée générale, au bureau exécutif et au commissariat aux comptes ;
 
  de donner avis sur toute question qui lui est soumise ;
 
@@ -364,7 +368,7 @@ L'assemblée des enseignants ou formateurs est chargée :
 
  de réfléchir sur les questions d'éducation/Formation et de faire des propositions à l'assemblée générale.
 
-Le secrétaire général du bureau exécutif préside l'assemblée l'assemblée des enseignants ou formateurs, en dehors es sessions électives.
+Le secrétaire général du bureau exécutif préside l'assemblée des enseignants ou formateurs, en dehors des sessions électives.
 
 #### ARTICLE 23
 
@@ -377,8 +381,6 @@ L'assemblée des chefs de classe désigne les représentants des élèves à l'a
  de réfléchir sur les questions d'Education/Formation et de faire des propositions à l'assemblée générale.
 
 Le président de l'assemblée des chefs de classe préside l'assemblée des chefs de classe, en dehors des sessions électives.
-
-#### ARTICLE 21
 
 [[END OF PAGE 9]]
 
@@ -400,7 +402,7 @@ Le trésorier général adjoint préside l'assemblée des inspecteurs d'éducati
 
 L'assemblée des directeurs d'école des groupes scolaires est chargée :
 
- d'élire le vice-président de rassemblée générale du COGES ;
+ d'élire le vice-président de l'assemblée générale du COGES ;
 
  de donner avis sur toute question qui lui est soumise ;
 
@@ -412,7 +414,7 @@ L'assemblée des directeurs d'école des groupes scolaires est présidée par le
 
 L'assemblée des professionnels des secteurs d'activités couverts par les formations techniques et professionnelles est chargée :
 
- d'élire les représentants des professionnels devant siéger à rassemblée générale et ceux devant siéger au bureau exécutif ;
+ d'élire les représentants des professionnels devant siéger à l'assemblée générale et ceux devant siéger au bureau exécutif ;
 
  de donner avis sur toute question qui lui est soumise ;
 
@@ -426,6 +428,8 @@ Le vice-président de l'assemblée générale préside l'assemblée des professi
 
 [[START OF PAGE 11]]
 
+#### ARTICLE 27
+
 Les ressources du COGES sont constituées :
 
  des subventions ;
@@ -437,14 +441,6 @@ Les ressources du COGES sont constituées :
  des cotisations exceptionnelles décidées par l'assemblée générale du COGES ;
 
  des dons et legs.
-
-Le recouvrement des fonds est assuré par :
-
- l'économe ou l'intendant dans les établissements d'Enseignement secondaire général, technique et professionnel ;
-
- le trésorier général du bureau du COGES dans les écoles préscolaires et primaires.
-
-#### ARTICLE 27
 
 #### ARTICLE 28
 
@@ -463,6 +459,12 @@ Le délai à donner à la demande de levée de cotisation ne doit pas excéder q
 A l'expiration du délai prévu, le silence de l'administration vaut avis favorable.
 
 #### ARTICLE 30
+
+Le recouvrement des fonds est assuré par :
+
+ l'économe ou l'intendant dans les établissements d'Enseignement secondaire général, technique et professionnel ;
+
+ le trésorier général du bureau du COGES dans les écoles préscolaires et primaires.
 
 [[END OF PAGE 11]]
 
@@ -500,7 +502,7 @@ Le suivi du COGES est assuré dans les services extérieurs par :
 
  les directeurs régionaux et départementaux pour le secondaire général, technique et professionnel ;
 
- les inspecteurs de l'Enseignement préscolaire et primaire pour les écoles préscolaires et primaire
+ les inspecteurs de l'Enseignement préscolaire et primaire pour les écoles préscolaires et primaires.
 
 ## CHAPITRE V : DISPOSITIONS DIVERSES ET FINALES
 
@@ -510,7 +512,7 @@ Dans les villages situés en dehors du territoire communal, l'assemblée génér
 
 #### ARTICLE 37
 
-Les attributions des membres du bureau exécutif el le fonctionnement des organes du COGES sont précisés par arrêté des ministres concernés.
+Les attributions des membres du bureau exécutif et le fonctionnement des organes du COGES sont précisés par arrêté des ministres concernés.
 
 #### ARTICLE 38
 
@@ -530,11 +532,11 @@ Tout manquement au bon fonctionnement du COGES est passible des sanctions discip
 
 #### ARTICLE 41
 
-Les dispositions contraires du décret n° 95-26 du 20 janvier 1995 portant création de comité de gestion des Etablissements scolaires publics, tel que modifié par les décrets a° 99-604 du 13 octobre 1999, n° 2002-132 du 27 février 2002 et n° 2002-304 du 29 mai 2002 sont abrogées.
+Les dispositions contraires du décret n° 95-26 du 20 janvier 1995 portant création de comité de gestion des Etablissements scolaires publics, tel que modifié par les décrets n° 99-604 du 13 octobre 1999, n° 2002-132 du 27 février 2002 et n° 2002-304 du 29 mai 2002 sont abrogées.
 
 #### ARTICLE 42
 
-Le ministre de l'Education nationale et le ministre de l'Enseignement technique et de la Formation professionnelle sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret qui sera publié au Journal officielde la République de Côte d'Ivoire.
+Le ministre de l'Education nationale et le ministre de l'Enseignement technique et de la Formation professionnelle sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret qui sera publié au Journal officiel de la République de Côte d'Ivoire.
 
 Fait à Abidjan, le 7 juin 2012
 
