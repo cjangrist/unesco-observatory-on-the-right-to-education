@@ -10,21 +10,31 @@ PRIORITAIRE
 
 ## Rencontre avec les 102 réseaux REP+ préfigurateurs
 
-Dossier de présentation Mercredi 9 avril 2014
+Dossier de présentation
+
+Mercredi 9 avril 2014
+
+Liberté • Égalité • Fraternité
+RÉPUBLIQUE FRANÇAISE
+MINISTÈRE DE L'ÉDUCATION NATIONALE, DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
+REFONDER
+L'ÉDUCATION
+PRIORITAIRE
+
 ## 102 réseaux REP+ préfigurateurs
 
-L'exigence de justice est au cœur de la refondation de  l'éducation prioritaire . Elle vise à réduire l'effet des inégalités sociales et territoriales sur les résultats scolaires et à favoriser la réussite de tous les élèves. C'est pourquoi le périmètre de l'éducation prioritaire doit être cohérent avec celui de la difficulté sociale.
+L'exigence de justice est au cœur de la refondation de l'éducation prioritaire. Elle vise à réduire l'effet des inégalités sociales et territoriales sur les résultats scolaires et à favoriser la réussite de tous les élèves. C'est pourquoi le périmètre de l'éducation prioritaire doit être cohérent avec celui de la difficulté sociale.
 
 Le ministère chargé de l'éducation nationale a à cette fin construit un indice social permettant de mesurer les difficultés rencontrées par les élèves et leurs parents, et leurs conséquences sur les apprentissages. Cet indice prend en compte la part d'élèves dont les parents appartiennent aux catégories socioprofessionnelles défavorisées, la part d'élèves boursiers, la part d'élèves résidant en zones urbaines sensibles et la part d'élèves arrivant en sixième avec au moins un an de retard.
 
-Les 102 REP+ préfigurateurs , qui couvrent l'ensemble des académies, ont été identifiés par les recteurs sur la base de cet indice social et de la qualité des projets de réseaux portés par les collèges et les écoles.
+Les 102 REP+ préfigurateurs, qui couvrent l'ensemble des académies, ont été identifiés par les recteurs sur la base de cet indice social et de la qualité des projets de réseaux portés par les collèges et les écoles.
 
-Après la phase de préfiguration , la refondation de l'éducation prioritaire entrera en vigueur à la rentrée 2015 sur l'ensemble des réseaux REP et REP+, qui seront identifiés sur la base de l'indice social.
+Après la phase de préfiguration, la refondation de l'éducation prioritaire entrera en vigueur à la rentrée 2015 sur l'ensemble des réseaux REP et REP+, qui seront identifiés sur la base de l'indice social.
 
 #educationprioritaire
 
@@ -32,20 +42,24 @@ Après la phase de préfiguration , la refondation de l'éducation prioritaire e
 
 [[START OF PAGE 3]]
 
+REFONDER
+L'ÉDUCATION
+PRIORITAIRE
+
 ## 102 réseaux REP+ préfigurateurs
 
 Académie | Commune | Établissement tête de réseau
 --- | --- | ---
 Aix-Marseille | Avignon (Vaucluse) | Collège Anselme-Mathieu
 Carpentras (Vaucluse) | Collège Alphonse-Daudet
-Aix-Marseille | Marseille 3 e (Bouches-du-Rhône) | Collège Edgard-Quinet
-Marseille 3 e (Bouches-du-Rhône) | Collège Versailles
-Marseille 13 e (Bouches-du-Rhône) | Collège Auguste-Renoir
-Marseille 13 e (Bouches-du-Rhône) | Collège Jacques-Prévert
-Marseille 15 e (Bouches-du-Rhône) | Collège Arthur-Rimbaud
-Marseille 15 e (Bouches-du-Rhône) | Collège Jean-Moulin
-Marseille 15 e (Bouches-du-Rhône) | Collège Rosa-Parks
-Marseille 16 e (Bouches-du-Rhône) | Collège Henri-Barnier
+Aix-Marseille | Marseille 3e (Bouches-du-Rhône) | Collège Edgard-Quinet
+Marseille 3e (Bouches-du-Rhône) | Collège Versailles
+Marseille 13e (Bouches-du-Rhône) | Collège Auguste-Renoir
+Marseille 13e (Bouches-du-Rhône) | Collège Jacques-Prévert
+Marseille 15e (Bouches-du-Rhône) | Collège Arthur-Rimbaud
+Marseille 15e (Bouches-du-Rhône) | Collège Jean-Moulin
+Marseille 15e (Bouches-du-Rhône) | Collège Rosa-Parks
+Marseille 16e (Bouches-du-Rhône) | Collège Henri-Barnier
 Amiens | Amiens (Somme) | Collège César-Franck
 Amiens (Somme) | Collège Etouvie
 Beauvais (Oise) | Collège Charles-Fauqueux
@@ -100,7 +114,7 @@ Roubaix (Nord) | Collège Anne-Frank
 Tourcoing (Nord) | Collège Lucie-Aubrac
 Tourcoing (Nord) | Collège Mendès-France
 Limoges | Limoges (Haute-Vienne) | Collège Pierre-de-Ronsard
-Lyon | Lyon 8 e (Rhône) | Collège Henri-Longchambon
+Lyon | Lyon 8e (Rhône) | Collège Henri-Longchambon
 Saint-Étienne (Loire) | Collège Marc-Seguin
 Vaulx-en-Velin (Rhône) | Collège Aimé-Césaire
 Vénissieux (Rhône) | Collège Elsa-Triolet
@@ -130,7 +144,7 @@ Académie | Commune | Établissement tête de réseau
 Orléans-Tours | Blois (Loir-et-Cher) | Collège Rabelais
 Châteauroux (Indre) | Collège Rosa-Parks
 Dreux (Eure-et-Loir) | Collège Pierre-et-Marie-Curie
-Paris | Paris 18 e (Paris) | Collège Georges-Clemenceau
+Paris | Paris 18e (Paris) | Collège Georges-Clemenceau
 Poitiers | Angoulême (Charente) | Collège Michelle-Pallet
 Reims | Reims (Marne) | Collège Joliot-Curie
 Sedan (Ardennes) | Collège Le Lac
@@ -159,41 +173,50 @@ Villiers-le-Bel (Val d'Oise) | Collège Saint-Exupéry
 
 [[START OF PAGE 6]]
 
-Axe 1
-
-Axe 2
+REFONDER
+L'ÉDUCATION
+PRIORITAIRE
 
 ## Les mesures-clés
 
-### Des élèves accompagnés dans leurs apprentissages et dans la construction de leur parcours scolaire
+AXE 1
+
+### DES ÉLÈVES ACCOMPAGNÉS DANS LEURS APPRENTISSAGES ET DANS LA CONSTRUCTION DE LEUR PARCOURS SCOLAIRE
 
 #### MESURE 1 La scolarisation des moins de 3 ans dans chaque réseau
 
 La scolarisation des enfants avant trois ans a été identifiée comme un puissant levier pour la réussite des élèves, notamment de ceux issus des milieux les moins favorisés.
 
-#### Mesure 2 « Plus de maîtres que de classes » dans chaque école
++1
+
+#### MESURE 2 « Plus de maîtres que de classes » dans chaque école
 
 L'affectation dans une école d'un maître supplémentaire favorise le travail collectif des enseignants et contribue à bien identifier les besoins des élèves et à accompagner leurs apprentissages par des pédagogies différenciées.
 
-#### Mesure 3 Un accompagnement continu jusqu'à 16 h 30 pour les élèves de sixième
+#### MESURE 3 Un accompagnement continu jusqu'à 16h30 pour les élèves de sixième
 
 Les élèves de sixième bénéficieront d'aide aux devoirs, d'un soutien méthodologique ou d'un tutorat pendant les temps laissés libres entre les heures de cours en étant accueillis dans l'établissement jusqu'à 16h30.
 
-#### M L 'extension du dispositif D'Col dans tous les collèges de l'éducation prioritaire
+D'COL
+L'ACCOMPAGNEMENT INTERACTIF DU CNED
 
-Depuis la rentrée 2013, D'Col propose aux élèves de 6 e  en difficulté un dispositif numérique innovant d'aide individualisée, de soutien et d'accompagnement en français, en mathématiques et en anglais. Un enseignant référent prend en charge et encadre les élèves deux heures par semaine autour d'activités pédagogqiues numériques.
+#### MESURE 4 L'extension du dispositif D'Col dans tous les collèges de l'éducation prioritaire
 
-#### Mesure 5 Développer l'ambition et la curiosité des élèves pour les aider à construire leur parcours
+Depuis la rentrée 2013, D'Col propose aux élèves de 6e en difficulté un dispositif numérique innovant d'aide individualisée, de soutien et d'accompagnement en français, en mathématiques et en anglais. Un enseignant référent prend en charge et encadre les élèves deux heures par semaine autour d'activités pédagogqiques numériques.
+
+#### MESURE 5 Développer l'ambition et la curiosité des élèves pour les aider à construire leur parcours
 
 Plusieurs dispositifs permettront d'accroître l'ambition scolaire des élèves de l'éducation prioritaire.
 
-#### Mesure 6 Le développement d'internats de proximité pour les collégiens
+#### MESURE 6 Le développement d'internats de proximité pour les collégiens
 
-Les jeunes issus de milieux modestes peuvent avoir besoin de conditions d'hébergement et d'études adaptées pour réussir . Le développement d'internats de proximité, prévu par les investissements d'avenir , doit répondre à ce besoin.
+Les jeunes issus de milieux modestes peuvent avoir besoin de conditions d'hébergement et d'études adaptées pour réussir. Le développement d'internats de proximité, prévu par les investissements d'avenir, doit répondre à ce besoin.
 
-### des équipes éducatives formées, stables et soutenues
+AXE 2
 
-#### Mesure 7 Du temps pour travailler ensemble
+### DES ÉQUIPES ÉDUCATIVES FORMÉES, STABLES ET SOUTENUES
+
+#### MESURE 7 Du temps pour travailler ensemble
 
 Du temps sera dédié à la formation, au travail en équipe et au suivi des élèves dans les réseaux les plus difficiles :
 
@@ -207,13 +230,7 @@ Du temps sera dédié à la formation, au travail en équipe et au suivi des él
 
 [[START OF PAGE 7]]
 
-2015
-
-RENTRÉE
-
-Axe 3
-
-#### Mesure 8 Un grand plan de formation continue et d'accompagnement pour l'éducation prioritaire
+#### MESURE 8 Un grand plan de formation continue et d'accompagnement pour l'éducation prioritaire
 
 - Trois jours de formation annuels garantis dans les réseaux les plus difficiles
 
@@ -221,33 +238,39 @@ Axe 3
 
 - Un tutorat pour les nouveaux enseignants
 
-#### Mesure 9 Des incitations fortes pour stabiliser les équipes
+RENTRÉE
+2015
+€
 
- Une rémunération plus attractive grâce à des indemnités revalorisées significativement
+#### MESURE 9 Des incitations fortes pour stabiliser les équipes
+
+- Une rémunération plus attractive grâce à des indemnités revalorisées significativement
 
 - Un parcours en éducation prioritaire qui sera valorisé dans la carrière
 
 - Des affectations ciblées en fonction des besoins locaux et du projet éducatif
 
-### Un cadre propice aux apprentissages
+AXE 3
 
-#### Mesure 10 Des projets de réseau pérennes construits sur la base des meilleures pratiques
+### UN CADRE PROPICE AUX APPRENTISSAGES
 
-Un référentiel élaboré à l'issue des assises ayant rassemblé l'ensemble des acteurs de l'éducation prioritaire servira de base pour construire des projets de réseaux et faire évoluer les pratiques pédagogiques. Les moyens alloués sur cette  base seront garantis pour une durée de 4 ans.
+#### MESURE 10 Des projets de réseau pérennes construits sur la base des meilleures pratiques
 
-#### Mesure 11 Un fonds académique pour financer des actions pédagogiques et l'animation des réseaux
+Un référentiel élaboré à l'issue des assises ayant rassemblé l'ensemble des acteurs de l'éducation prioritaire servira de base pour construire des projets de réseaux et faire évoluer les pratiques pédagogiques. Les moyens alloués sur cette base seront garantis pour une durée de 4 ans.
+
+#### MESURE 11 Un fonds académique pour financer des actions pédagogiques et l'animation des réseaux
 
 Les équipes pédagogiques locales bénéficieront de moyens leur permettant d'engager des actions innovantes au service des élèves.
 
-#### Mesure 12 Un accueil des parents, chaque matin, pour mieux les associer à la vie de l'école
+#### MESURE 12 Un accueil des parents, chaque matin, pour mieux les associer à la vie de l'école
 
 Plus encore qu'ailleurs, l'école de la République doit s'ouvrir aux parents d'élèves : plusieurs dispositifs leur permettant de suivre les apprentissages de leurs enfants seront développés.
 
-#### Mesure 13 500 assistants de prévention et de sécurité ­ supplémentaires pour améliorer le climat scolaire
+#### MESURE 13 500 assistants de prévention et de sécurité supplémentaires pour améliorer le climat scolaire
 
 Les assistants de prévention et de sécurité, mis en place dès la rentrée 2012, ont fait leurs preuves sur le terrain et contribuent à rendre le climat scolaire plus serein. Ils sont formés et participent pleinement à l'équipe de l'établissement.
 
-#### Mesure 14 Un infirmier scolaire supplémentaire dédié aux écoles et un assistant social, dans les réseaux les plus difficiles
+#### MESURE 14 Un infirmier scolaire supplémentaire dédié aux écoles et un assistant social, dans les réseaux les plus difficiles
 
 Aujourd'hui essentiellement présent(e)s au collège, les infirmier(e)s scolaires ont un rôle essentiel à jouer dans la prévention des risques de santé dès l'école primaire. Les personnels sociaux contribuent, pour leur part, à un meilleur suivi des élèves tout au long de leur scolarité.
 
@@ -264,37 +287,49 @@ L'ÉDUCATION
 PRIORITAIRE
 
 ## Un référentiel pour l'éducation prioritaire
-pAGE 3
+Liberté • Égalité • Fraternité
+RÉPUBLIQUE FRANÇAISE
+ministère
+éducation
+nationale
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-pAGE 6
-
-pAGE 9
-
-pAGE 11
-
-pAGE 13
-
-pAGE 15
+REFONDER
+L'ÉDUCATION
+PRIORITAIRE
 
 ### Sommaire
 
+PAGE 3
+
 Garantir l'acquisition du « Lire, écrire, parler » et enseigner plus explicitement les compétences que l'école requiert pour assurer la maîtrise du socle commun
+
+PAGE 6
 
 Conforter une école bienveillante et exigeante
 
+PAGE 9
+
 Mettre en place une école qui coopère utilement avec les parents et les partenaires pour la réussite scolaire
+
+PAGE 11
 
 Favoriser le travail collectif de l'équipe éducative
 
+PAGE 13
+
 Accueillir, accompagner, soutenir et former les personnels
+
+PAGE 15
 
 Renforcer le pilotage et l'animation des réseaux
 
-1 #educationprioritaire
+#educationprioritaire
+
+1
 
 [[END OF PAGE 9]]
 
@@ -304,11 +339,11 @@ AVANT-PROPOS
 
 ### Six priorités pour les réseaux d'éducation prioritaire
 
-L'expérience des réseaux  _  que les assises de l'automne 2013 ont permis de rassembler  _ , l'expertise des personnels, les apports de la recherche, les constats et analyses des inspections générales constituent un savoir acquis et partagé sur les leviers d'efficacité en éducation prioritaire. L 'ambition du référentiel de l'éducation prioritaire est d'offrir un cadre structurant à l'ensemble des acteurs. Proposé sous forme de principes d'actions pédagogiques et éducatives, il permet aux équipes d'exercer pleinement leur liberté pédagogique en s'appuyant sur des repères solides et fiables.
+L'expérience des réseaux – que les assises de l'automne 2013 ont permis de rassembler –, l'expertise des personnels, les apports de la recherche, les constats et analyses des inspections générales constituent un savoir acquis et partagé sur les leviers d'efficacité en éducation prioritaire. L'ambition du référentiel de l'éducation prioritaire est d'offrir un cadre structurant à l'ensemble des acteurs. Proposé sous forme de principes d'actions pédagogiques et éducatives, il permet aux équipes d'exercer pleinement leur liberté pédagogique en s'appuyant sur des repères solides et fiables.
 
-Ce référentiel prend en compte de manière globale les nombreux facteurs  qui  participent  à  la  réussite  scolaire  des  élèves.  Tous les acteurs de l'éducation prioritaire doivent contribuer collectivement à la mise en œuvre des principes proposés dans une complémentarité féconde entre les différents professionnels.
+Ce référentiel prend en compte de manière globale les nombreux facteurs qui participent à la réussite scolaire des élèves. Tous les acteurs de l'éducation prioritaire doivent contribuer collectivement à la mise en œuvre des principes proposés dans une complémentarité féconde entre les différents professionnels.
 
-Le  référentiel  de  l'éducation  prioritaire  est  un  document  que nous voulons vivant et évolutif. À chacun des items qui le composent seront associées des ressources nourries des apports des académies. Une mutualisation continue des pratiques à l'œuvre sera entretenue et visible sur le site national dédié à l'éducation prioritaire. Cette dynamique fait également de ce document une référence pour l'animation et le pilotage local, académique et national.
+Le référentiel de l'éducation prioritaire est un document que nous voulons vivant et évolutif. À chacun des items qui le composent seront associées des ressources nourries des apports des académies. Une mutualisation continue des pratiques à l'œuvre sera entretenue et visible sur le site national dédié à l'éducation prioritaire. Cette dynamique fait également de ce document une référence pour l'animation et le pilotage local, académique et national.
 
 2
 
@@ -321,6 +356,8 @@ Le  référentiel  de  l'éducation  prioritaire  est  un  document  que nous vo
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+
+Garantir l'acquisition du « Lire, écrire, parler » et enseigner plus explicitement les compétences que l'école requiert pour assurer la maîtrise du socle commun
 
 #### Lire, écrire, parler pour apprendre dans toutes les disciplines
 
@@ -346,15 +383,13 @@ Les procédures efficaces pour apprendre sont explicitées et enseignées aux é
 
 L'enseignement est progressif et continu ; la vérification de la compréhension de tous les élèves est régulière.
 
-Garantir l'acquisition du « Lire, écrire, parler » et enseigner plus explicitement les compétences que l'école requiert pour assurer la maîtrise du socle commun
-
 4
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
 
-5
+Garantir l'acquisition du « Lire, écrire, parler » et enseigner plus explicitement les compétences que l'école requiert pour assurer la maîtrise du socle commun
 
 #### Expliciter les démarches d'apprentissage pour que les élèves comprennent le sens des enseignements (suite)
 
@@ -370,25 +405,27 @@ L'usage du numérique est largement développé pour mieux assurer la différenc
 
 Dans les différentes matières, le travail en groupe des élèves est organisé dans des groupes hétérogènes pour favoriser les confrontations des démarches intellectuelles.
 
-Garantir l'acquisition du « Lire, écrire, parler » et enseigner plus explicitement les compétences que l'école requiert pour assurer la maîtrise du socle commun
+5
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
-### Conforter une école bienveillante et exigeante
-
 2
+
+### Conforter une école bienveillante et exigeante
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
+Conforter une école bienveillante et exigeante
+
 #### Projets et organisations pédagogiques et éducatives
 
 Toutes les classes respectent le principe de l'hétérogénéité.
 
-L' accompagnement du travail personnel des élèves est organisé. Il vise à renforcer l'explicitation des démarches d'apprentissage des élèves et leur engagement dans le travail scolaire.
+L'accompagnement du travail personnel des élèves est organisé. Il vise à renforcer l'explicitation des démarches d'apprentissage des élèves et leur engagement dans le travail scolaire.
 
 Les projets d'école, d'établissement et de réseau visent le bien-être des élèves et un bon climat scolaire.
 
@@ -406,19 +443,19 @@ L'erreur est considérée comme une étape de l'apprentissage, nécessaire et so
 
 L'évaluation des élèves, conduite avec bienveillance, repose sur des objectifs exigeants. Des modes d'évaluation valorisant l'investissement, le travail et les progrès des élèves sont mis en œuvre à tous les niveaux et dans toutes les classes. Les bulletins scolaires explicitent les acquis, les améliorations attendues et les compétences encore à acquérir.
 
-Des évaluations diagnostiques sont mises en œuvre prioritairement dans les années d'entrée dans un nouveau cycle (CP/CM1/5 e ). Ces évaluations sont élaborées et corrigées par plusieurs enseignants de domaines d'enseignement et/ou de niveaux différents.
+Des évaluations diagnostiques sont mises en œuvre prioritairement dans les années d'entrée dans un nouveau cycle (CP/CM1/5e). Ces évaluations sont élaborées et corrigées par plusieurs enseignants de domaines d'enseignement et/ou de niveaux différents.
 
 Des projets collectifs et des devoirs communs, organisés en équipe, sont mis en œuvre sur des disciplines et/ou des niveaux jugés pertinents par le réseau.
 
 Des brevets blancs sont préparés et organisés deux fois dans l'année de troisième.
-
-Conforter une école bienveillante et exigeante
 
 7
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+
+Conforter une école bienveillante et exigeante
 
 #### Suivi des élèves
 
@@ -432,8 +469,6 @@ Le suivi des élèves en difficulté est assuré en priorité dans la classe. La
 
 Des tutorats pour les élèves sont organisés en fonction des besoins.
 
-Conforter une école bienveillante et exigeante
-
 8
 
 [[END OF PAGE 16]]
@@ -445,6 +480,8 @@ Conforter une école bienveillante et exigeante
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
+
+Mettre en place une école qui coopère utilement avec les parents et les partenaires pour la réussite scolaire
 
 #### Coopération avec les parents
 
@@ -472,9 +509,7 @@ Dans le cadre du volet santé du projet de réseau, les relations sont établies
 
 Dans le cadre du volet climat scolaire du projet de réseau, les relations sont établies par l'IEN et le chef d'établissement avec la mairie, le conseil général et la police pour l'amélioration des abords et de leur sécurité.
 
-Un travail est développé par le Dasen et ses services  avec les collectivités territo- riales pour déboucher sur une meilleure mixité sociale à l'école et au collège partout où cela est possible.
-
-Mettre en place une école qui coopère utilement avec les parents et les partenaires pour la réussite scolaire
+Un travail est développé par le Dasen et ses services avec les collectivités territoriales pour déboucher sur une meilleure mixité sociale à l'école et au collège partout où cela est possible.
 
 10
 
@@ -554,13 +589,15 @@ Les enseignants rencontrant des difficultés, au regard des spécificités du r�
 
 [[START OF PAGE 23]]
 
-### Renforcer le pilotage et l'animation des réseaux
-
 6
+
+### Renforcer le pilotage et l'animation des réseaux
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
+
+Renforcer le pilotage et l'animation des réseaux
 
 #### Pilotage et fonctionnement du réseau
 
@@ -568,7 +605,7 @@ Il existe un comité de pilotage du réseau qui associe tous les partenaires et 
 
 Il existe dans chaque réseau un coordonnateur doté d'une lettre de mission.
 
-Une rencontre régulière du chef d'établissement, de l' IEN et de l' IA-IPR référent est instituée. Le coordonnateur y est régulièrement associé.
+Une rencontre régulière du chef d'établissement, de l'IEN et de l'IA-IPR référent est instituée. Le coordonnateur y est régulièrement associé.
 
 Le projet de réseau est établi en fonction des orientations du présent référentiel et des analyses conduites localement. Il détermine pour quatre ans les orientations pédagogiques et éducatives du réseau.
 
@@ -600,8 +637,6 @@ Les progrès et réussites des élèves (en particulier le diplôme national du 
 
 Les sites internet de la circonscription, du collège, du département et de l'académie valorisent les projets réalisés et les résultats obtenus.
 
-Renforcer le pilotage et l'animation des réseaux
-
 16
 
 [[END OF PAGE 24]]
@@ -618,85 +653,36 @@ ministère de l'éducation nationale - janvier 2014
 
 ## L'accompagnement des réseaux REP+
 
-Accompagnement
-
-- Animation du réseau des
-
-correspondants académiques EP
-
-Mise en ligne des ressources
-
-Accompagnement
-
-Accompagnement
-
-national
-
-- Mise en ligne des ressources
-
-accessibles sur le site de l'EP
-
-- Séminaires nationaux, formations
-
-de formateurs
-
-Accompagnement
-
-académique
-
-Animation et
-
-accompagnement par les
-
-inspecteurs (IEN et IA-
-
-Bureau de l'éducation
-
-prioritaire (DGESCO)
+Accompagnement national
 
 Inspections générales
 
-Correspondants
+- Accompagnement des académies à la mise en œuvre
+- Accompagnement des inspections territoriales
+-- Accompagnement des réseaux
 
-académiques
+Bureau de l'éducation prioritaire (DGESCO)
 
-Réseau
+- Animation du réseau des correspondants académiques EP
+- Mise en ligne des ressources accessibles sur le site de l'EP
+- Séminaires nationaux, formations de formateurs
 
-REP+
+Accompagnement académique
 
-Équipes pluri
+Animation et accompagnement par les inspecteurs (IEN et IA-IPR) et par les IA-DASEN
 
-IPR) et par les IA-DASEN
+Correspondants académiques
 
--
+Équipes pluri professionnelles pour visites croisées entre réseaux
 
-Accompagnement des
+Équipe ressource de formateurs
 
-académies à la mise en
+Réseau REP+
 
-œuvre
+Liberté · Égalité · Fraternité
+RÉPUBLIQUE FRANÇAISE
 
-Équipes pluri
-
-professionnelles pour
-
-visites croisées entre
-
-réseaux
-
-- Accompagnement des
-
-inspections territoriales
-
--
-
-- Accompagnement des
-
-réseaux
-
-Équipe ressource de
-
-formateurs
+MINISTÈRE DE L'ÉDUCATION NATIONALE, DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE
 
 [[END OF PAGE 26]]
 
@@ -726,10 +712,17 @@ www.educationprioritaire.education.fr
 
 [[START OF PAGE 28]]
 
+Liberté · Égalité · Fraternité
+RÉPUBLIQUE FRANÇAISE
+
+MINISTÈRE DE L'ÉDUCATION NATIONALE, DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE
+
 ## Contact presse
 
-01 55 55 30 10 spresse@education.gouv.fr
+01 55 55 30 10
+spresse@education.gouv.fr
 
-www.education.gouv.fr #educationprioritaire
+www.education.gouv.fr
+#educationprioritaire
 
 [[END OF PAGE 28]]
