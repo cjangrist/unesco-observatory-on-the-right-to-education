@@ -12,11 +12,11 @@ And Whereas we have declared that Nauru shall be a republic:
 
 And Whereas a Constitutional Convention representing us has prepared a constitution for Nauru:
 
-Now Therefore we the people of Nauru in our Constitutional Convention this twentyninth day of January, One thousand nine hundred and sixty-eight, do hereby adopt, enact and give to ourselves this Constitution to come into force on the thirty-first day of January, One thousand nine hundred and sixty-eight.
+Now Therefore we the people of Nauru in our Constitutional Convention this twenty-ninth day of January, One thousand nine hundred and sixty-eight, do hereby adopt, enact and give to ourselves this Constitution to come into force on the thirty-first day of January, One thousand nine hundred and sixty-eight.
 
 ## ARRANGEMENT OF PARTS
 
-Part I. The Republic of Nauru and the Supreme Law of Nauru (Articles I and 2).
+Part I. The Republic of Nauru and the Supreme Law of Nauru (Articles 1 and 2).
 
 Part II. Protection of Fundamental Rights and Freedoms (Articles 3-15).
 
@@ -42,7 +42,7 @@ Part X. General (Articles 80-84).
 
 Part XI. Transitional Provisions (Articles 85-100).
 
-- This print of the Constitution of Nauru incorporates the alterations made by the Constitutional Convention of Nauru under Article 92 on 17 May 1968.
+* This print of the Constitution of Nauru incorporates the alterations made by the Constitutional Convention of Nauru under Article 92 on 17 May 1968.
 
 -------------------
 
@@ -52,11 +52,11 @@ Part XI. Transitional Provisions (Articles 85-100).
 
 #### The Republic of Nauru
 
-- Nauru is an independent republic.
+1. Nauru is an independent republic.
 
 #### Supreme Law of Nauru
 
-(1.) This Constitution is the supreme law of Nauru.
+2. (1.) This Constitution is the supreme law of Nauru.
 
 (2.) A law inconsistent with this Constitution is, to the extent of the inconsistency, void.
 
@@ -66,11 +66,9 @@ Part XI. Transitional Provisions (Articles 85-100).
 
 #### Preamble
 
-- Whereas every person in Nauru is entitled to the fundamental rights and freedoms of the individual, that is to say, has the right, whatever his race, place of origin, political and for the public interest, to each and all of the following freedoms, namely:-
+3. Whereas every person in Nauru is entitled to the fundamental rights and freedoms of the individual, that is to say, has the right, whatever his race, place of origin, political opinions, colour, creed or sex, but subject to respect for the rights and freedoms of others and for the public interest, to each and all of the following freedoms, namely:-
 
-- opinions, colour, creed or sex, but subject to respect for the rights and freedoms of others (a) life, liberty, security of the person, the enjoyment of property and the protection of the
-
-- law;
+(a) life, liberty, security of the person, the enjoyment of property and the protection of the law;
 
 [[END OF PAGE 2]]
 
@@ -82,19 +80,45 @@ Part XI. Transitional Provisions (Articles 85-100).
 
 4.-(1.) No person shall be deprived of his life intentionally, except in execution of a sentence of a court following his conviction of an offence for which the penalty of deprivation of life is prescribed by law.
 
-(2.) Deprivation of the life of a person is not a contravention of the provisions of clause (1.) of this Article where it results from the use, to such an extent and in such circumstances as is permitted by law, of such force as is reasonably justifiable in the circumstances of the case(a) for the defence of a person from violence; (b) for the defence of public property; (c) in order to effect a lawful arrest or to prevent the escape of a person lawfully detained; or (d) for the purpose of suppressing a riot, insurrection or muting.
+(2.) Deprivation of the life of a person is not a contravention of the provisions of clause (1.) of this Article where it results from the use, to such an extent and in such circumstances as is permitted by law, of such force as is reasonably justifiable in the circumstances of the case-
+
+(a) for the defence of a person from violence;
+
+(b) for the defence of public property;
+
+(c) in order to effect a lawful arrest or to prevent the escape of a person lawfully detained; or
+
+(d) for the purpose of suppressing a riot, insurrection or mutiny.
 
 #### Protection of personal liberty
 
-5.-(1.) No person shall be deprived of his personal liberty, except as authorized by law in any of the following cases:(a) in execution of the sentence or order of a court in respect of an offence of which he has been convicted; (b) for the purpose of bringing him before a court in execution of the order of a court;
+5.-(1.) No person shall be deprived of his personal liberty, except as authorized by law in any of the following cases:-
+
+(a) in execution of the sentence or order of a court in respect of an offence of which he has been convicted;
+
+(b) for the purpose of bringing him before a court in execution of the order of a court;
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-(c) upon reasonable suspicion of his having committed, or being about to commit, an offence; (d) under the order of a court, for his education during any period ending not later than the thirty-first day of December after he attains the age of eighteen years; date on which he attains the age of twenty years; (f) for the purpose of preventing the spread of disease; (g) in the case of a person who is, or is reasonably suspected to be, of unsound mind or
+(c) upon reasonable suspicion of his having committed, or being about to commit, an offence;
 
-(e) under the order of a court, for his welfare during any period ending not later than the addicted to drugs or alcohol, for the purpose of his care or treatment or the protection of the community; and (h) for the purpose of preventing his unlawful entry into Nauru, or for the purpose of effecting his expulsion, extradition or other lawful removal from Nauru. (2.) A person who is arrested or detained shall be informed promptly of the reasons for the arrest or detention and shall be permitted to consult in the place in which he is detained a legal representative of his own choice. (3.) A person who has been arrested or detained in the circumstances referred to in paragraph (c) of clause (1.) of this Article and has not been released shall be brought before a judge or some other person holding judicial office within a period of twenty-four hours after the arrest or detention and shall not be further held in custody in connexion with that offence except by order of a judge or some other person holding judicial office. (4.) Where a complaint is made to the Supreme Court that a person is unlawfully detained, the Supreme Court shall enquire into the complaint and, unless satisfied that the detention is lawful, shall order that person to be brought before it and shall release him
+(d) under the order of a court, for his education during any period ending not later than the thirty-first day of December after he attains the age of eighteen years;
+
+(e) under the order of a court, for his welfare during any period ending not later than the date on which he attains the age of twenty years;
+
+(f) for the purpose of preventing the spread of disease;
+
+(g) in the case of a person who is, or is reasonably suspected to be, of unsound mind or addicted to drugs or alcohol, for the purpose of his care or treatment or the protection of the community; and
+
+(h) for the purpose of preventing his unlawful entry into Nauru, or for the purpose of effecting his expulsion, extradition or other lawful removal from Nauru.
+
+(2.) A person who is arrested or detained shall be informed promptly of the reasons for the arrest or detention and shall be permitted to consult in the place in which he is detained a legal representative of his own choice.
+
+(3.) A person who has been arrested or detained in the circumstances referred to in paragraph (c) of clause (1.) of this Article and has not been released shall be brought before a judge or some other person holding judicial office within a period of twenty-four hours after the arrest or detention and shall not be further held in custody in connexion with that offence except by order of a judge or some other person holding judicial office.
+
+(4.) Where a complaint is made to the Supreme Court that a person is unlawfully detained, the Supreme Court shall enquire into the complaint and, unless satisfied that the detention is lawful, shall order that person to be brought before it and shall release him.
 
 [[END OF PAGE 4]]
 
@@ -102,7 +126,17 @@ Part XI. Transitional Provisions (Articles 85-100).
 
 #### Protection from forced labour
 
-6.-(1.) No person shall be required to perform forced labour. (2.) For the purposes of this Article, "forced labour" does not include(a) labour required by the sentence or order of a court; (b) labour required of a person while he is lawfully detained, being labour that, though not required by the sentence or order of a court, is reasonably necessary for the purposes of hygiene or for the maintenance of the place at which he is detained; (c) labour required of a member of a disciplined force in pursuance of his duties as such a member; or (d) labour reasonably required as part of reasonable and normal communal or other civic obligations.
+6.-(1.) No person shall be required to perform forced labour.
+
+(2.) For the purposes of this Article, "forced labour" does not include-
+
+(a) labour required by the sentence or order of a court;
+
+(b) labour required of a person while he is lawfully detained, being labour that, though not required by the sentence or order of a court, is reasonably necessary for the purposes of hygiene or for the maintenance of the place at which he is detained;
+
+(c) labour required of a member of a disciplined force in pursuance of his duties as such a member; or
+
+(d) labour reasonably required as part of reasonable and normal communal or other civic obligations.
 
 #### Protection from inhuman treatment
 
@@ -110,13 +144,37 @@ Part XI. Transitional Provisions (Articles 85-100).
 
 #### Protection from deprivation of property
 
-8.-(1.) No person shall be deprived compulsorily of his property except in accordance with law for a public purpose and on just terms. (2.) Nothing contained in or done under the authority of a law shall be held to be inconsistent with or in contravention of the provisions of clause (1.) of this Article to the extent that that law makes provision(a) for the taking of possession or acquisition of any property(i) in satisfaction of a tax;
+8.-(1.) No person shall be deprived compulsorily of his property except in accordance with law for a public purpose and on just terms.
+
+(2.) Nothing contained in or done under the authority of a law shall be held to be inconsistent with or in contravention of the provisions of clause (1.) of this Article to the extent that that law makes provision-
+
+(a) for the taking of possession or acquisition of any property-
+
+(i) in satisfaction of a tax;
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
-(ii) by way of penalty for breach of the law or forfeiture in consequence of breach of the law; (iii) as an incident of a lease, tenancy, mortgage, charge, bill of sale, pledge or contract; (iv) in the execution of a judgment or order of a court in proceedings for the determination of civil rights or obligations; (v) in circumstances where it is reasonably necessary so to do because the property is in a dangerous state or is injurious to the health of human beings, animals or plants; or (vi) in consequence of any law with respect to the limitation of actions; or (b) for the taking of possession or acquisition of any of the following property:(i) property of a deceased person, a person of unsound mind or a person who has not attained the age of twenty years, for the purpose of administering it for the benefit of the person entitled to the beneficial interest in that property; (ii) property of a person adjudged bankrupt or insolvent or of a body corporate in liquidation, for the purpose of administering it for the benefit of the creditors of the bankrupt or insolvent or body corporate and, subject thereto, for the benefit of other persons entitled to the beneficial interest in the property; (iii) property subject to a trust, for the purpose of vesting the property in persons appointed as trustees under the instrument creating the trust or by a court or, by order of a court, for the purpose of giving effect to the trust; and (iv) property held by a body corporate established by law for public purposes.
+(ii) by way of penalty for breach of the law or forfeiture in consequence of breach of the law;
+
+(iii) as an incident of a lease, tenancy, mortgage, charge, bill of sale, pledge or contract;
+
+(iv) in the execution of a judgment or order of a court in proceedings for the determination of civil rights or obligations;
+
+(v) in circumstances where it is reasonably necessary so to do because the property is in a dangerous state or is injurious to the health of human beings, animals or plants; or
+
+(vi) in consequence of any law with respect to the limitation of actions; or
+
+(b) for the taking of possession or acquisition of any of the following property:-
+
+(i) property of a deceased person, a person of unsound mind or a person who has not attained the age of twenty years, for the purpose of administering it for the benefit of the person entitled to the beneficial interest in that property;
+
+(ii) property of a person adjudged bankrupt or insolvent or of a body corporate in liquidation, for the purpose of administering it for the benefit of the creditors of the bankrupt or insolvent or body corporate and, subject thereto, for the benefit of other persons entitled to the beneficial interest in the property;
+
+(iii) property subject to a trust, for the purpose of vesting the property in persons appointed as trustees under the instrument creating the trust or by a court or, by order of a court, for the purpose of giving effect to the trust; and
+
+(iv) property held by a body corporate established by law for public purposes.
 
 #### Protection of person and property
 
@@ -132,33 +190,93 @@ Part XI. Transitional Provisions (Articles 85-100).
 
 #### Provision to secure protection of law
 
-10. (1.) No person shall be convicted of an offence which is not defined by law. (2.) A person charged with an offence shall, unless the charge is withdrawn, be afforded a fair hearing within a reasonable time by an independent and impartial court. (3.) A person charged with an offence(a) shall be presumed innocent until proved guilty according to law; (b) shall be informed promptly in a language that he understands and in detail of the nature of the offence with which he is charged; (c) shall be given adequate time and facilities for the preparation of his defence; (d) shall be permitted to have without payment the assistance of an interpreter if he cannot understand or speak the language used at the trial of the charge; (e) shall be permitted to defend himself before the court in person or, at his own expense, by a legal representative of his own choice or to have a legal representative assigned to
+10. (1.) No person shall be convicted of an offence which is not defined by law.
 
-him in a case where the interests of justice so require and without payment by him in any such case if he does not, in the opinion of the court, have sufficient means to pay the costs incurred; and (f) shall be afforded facilities to examine in person or by his legal representative the witnesses called before the court by the prosecution, and to obtain the attendance and carry out the examination of witnesses and to testify before the court on his own behalf, on the same conditions as those applying to witnesses called by the prosecution, conducts himself as to render the continuance of the proceedings in his presence impracticable and the court has ordered him to be removed and the trial to proceed in his and, except with his own consent, the trial shall not take place in his absence unless he so absence. (4.) No person shall be convicted of an offence on account of any act or omission that did not, at the time it took place, constitute such an offence and no penalty shall be imposed for an offence that is more severe in degree or description than the maximum penalty that might have been imposed for that offence at the time when it was committed. (5.) No person who shows that he has been tried by a competent court for an offence and either convicted or acquitted shall again be tried for that offence, except upon the order of a superior court made in the course of appeal or review proceedings relating to the conviction or acquittal. (6.) No person shall be tried for an offence for which he has been pardoned. (7.) No person who is tried for an offence shall be compelled to give evidence at the trial. (8.) No person shall be compelled in the trial of an offence to be a witness against himself. (9.) A determination of the existence or extent of a civil right or obligation shall not be made except by an independent and impartial court or other authority prescribed by law and proceedings for such a determination shall be fairly heard and within a reasonable time. (10.) Except with the agreement of the parties thereto, proceedings of a court and proceedings for the determination of the existence or extent of any civil right or obligation before any other authority, including the announcement of the decision of the court or other authority, shall be held in public. (11.) Nothing in clause (10.) of this Article shall prevent the court or other authority from excluding from the hearing of the proceedings persons, other than the parties thereto and their legal representatives, to such extent as the court or other authority(a) is by law empowered to do and considers necessary or expedient in the interests of public morality or in circumstances where publicity would prejudice the interests of justice, the welfare of persons under the age of twenty years or the protection of the private lives of persons concerned in the proceedings; or (b) is by law empowered or required to do in the interests of defence, public safety or public order. (12.) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of the provisions (a) paragraph (a) of clause (3.) of this Article by reason that that law places upon a person charged with an offence the burden of proving particular matters; or (b) paragraph (f) of clause (3.) of this Article by reason that that law imposes reasonable conditions which must be satisfied if witnesses called to testify on behalf of a person charged with an offence are to be paid their expenses out of public funds.
+(2.) A person charged with an offence shall, unless the charge is withdrawn, be afforded a fair hearing within a reasonable time by an independent and impartial court.
+
+(3.) A person charged with an offence-
+
+(a) shall be presumed innocent until proved guilty according to law;
+
+(b) shall be informed promptly in a language that he understands and in detail of the nature of the offence with which he is charged;
+
+(c) shall be given adequate time and facilities for the preparation of his defence;
+
+(d) shall be permitted to have without payment the assistance of an interpreter if he cannot understand or speak the language used at the trial of the charge;
+
+(e) shall be permitted to defend himself before the court in person or, at his own expense, by a legal representative of his own choice or to have a legal representative assigned to
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-(this page came through the extractor with no text)
+him in a case where the interests of justice so require and without payment by him in any such case if he does not, in the opinion of the court, have sufficient means to pay the costs incurred; and
+
+(f) shall be afforded facilities to examine in person or by his legal representative the witnesses called before the court by the prosecution, and to obtain the attendance and carry out the examination of witnesses and to testify before the court on his own behalf, on the same conditions as those applying to witnesses called by the prosecution,
+
+and, except with his own consent, the trial shall not take place in his absence unless he so conducts himself as to render the continuance of the proceedings in his presence impracticable and the court has ordered him to be removed and the trial to proceed in his absence.
+
+(4.) No person shall be convicted of an offence on account of any act or omission that did not, at the time it took place, constitute such an offence and no penalty shall be imposed for an offence that is more severe in degree or description than the maximum penalty that might have been imposed for that offence at the time when it was committed.
+
+(5.) No person who shows that he has been tried by a competent court for an offence and either convicted or acquitted shall again be tried for that offence, except upon the order of a superior court made in the course of appeal or review proceedings relating to the conviction or acquittal.
+
+(6.) No person shall be tried for an offence for which he has been pardoned.
+
+(7.) No person who is tried for an offence shall be compelled to give evidence at the trial.
+
+(8.) No person shall be compelled in the trial of an offence to be a witness against himself.
+
+(9.) A determination of the existence or extent of a civil right or obligation shall not be
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
+made except by an independent and impartial court or other authority prescribed by law and proceedings for such a determination shall be fairly heard and within a reasonable time.
+
+(10.) Except with the agreement of the parties thereto, proceedings of a court and proceedings for the determination of the existence or extent of any civil right or obligation before any other authority, including the announcement of the decision of the court or other authority, shall be held in public.
+
+(11.) Nothing in clause (10.) of this Article shall prevent the court or other authority from excluding from the hearing of the proceedings persons, other than the parties thereto and their legal representatives, to such extent as the court or other authority-
+
+(a) is by law empowered to do and considers necessary or expedient in the interests of public morality or in circumstances where publicity would prejudice the interests of justice, the welfare of persons under the age of twenty years or the protection of the private lives of persons concerned in the proceedings; or
+
+(b) is by law empowered or required to do in the interests of defence, public safety or public order.
+
+(12.) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of the provisions of-
+
+(a) paragraph (a) of clause (3.) of this Article by reason that that law places upon a person charged with an offence the burden of proving particular matters; or
+
+(b) paragraph (f) of clause (3.) of this Article by reason that that law imposes reasonable conditions which must be satisfied if witnesses called to testify on behalf of a person charged with an offence are to be paid their expenses out of public funds.
+
 #### Freedom of conscience
 
-11.-(1.) A person has the right to freedom of conscience, thought and religion, including freedom to change his religion or beliefs and freedom, either alone or in community with others and in public or private, to manifest and propagate his religion or beliefs in worship, teaching, practice and observance. (2.) Except with his consent, no person shall be hindered in the enjoyment of a right or freedom referred to in clause (1.) of this Article. (3.) Except with his consent or, if he is under the age of twenty years, the consent of his parent or guardian, no person attending a place of education is required to receive religious instruction or to take part in or attend a religious ceremony or observance if that instruction, ceremony or observance relates to a religion other than his own religion or belief. (4.) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of the provisions of this Article to the extent that that law makes provision which is reasonably required(a) in the interests of defence, public safety, public order, public morality or public health; (b) for protecting the rights and freedoms of other persons, including the right to observe and practise any religion without the unsolicited intervention of members of some other religion; or (c) for regulating the secular education provided in any place of education in the interests of the persons receiving instruction in that place.
+11.-(1.) A person has the right to freedom of conscience, thought and religion, including freedom to change his religion or beliefs and freedom, either alone or in community with others and in public or private, to manifest and propagate his religion or beliefs in
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
+worship, teaching, practice and observance.
+
+(2.) Except with his consent, no person shall be hindered in the enjoyment of a right or freedom referred to in clause (1.) of this Article.
+
+(3.) Except with his consent or, if he is under the age of twenty years, the consent of his parent or guardian, no person attending a place of education is required to receive religious instruction or to take part in or attend a religious ceremony or observance if that instruction, ceremony or observance relates to a religion other than his own religion or belief.
+
+(4.) Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of the provisions of this Article to the extent that that law makes provision which is reasonably required-
+
+(a) in the interests of defence, public safety, public order, public morality or public health;
+
+(b) for protecting the rights and freedoms of other persons, including the right to observe and practise any religion without the unsolicited intervention of members of some other religion; or
+
+(c) for regulating the secular education provided in any place of education in the interests of the persons receiving instruction in that place.
+
 #### Protection of freedom of expression
 
-12.-(1.) A person has the right to freedom of expression. (2.) Except with his consent, no person shall be hindered in the enjoyment of his right to freedom of expression. inconsistent with, or in contravention of, the provisions of this Article to the extent that
+12.-(1.) A person has the right to freedom of expression.
 
-(3.) Nothing contained in or done under the authority of any law shall be held to be that law makes provision-
+(2.) Except with his consent, no person shall be hindered in the enjoyment of his right to freedom of expression.
+
+(3.) Nothing contained in or done under the authority of any law shall be held to be inconsistent with, or in contravention of, the provisions of this Article to the extent that that law makes provision-
 
 [[END OF PAGE 10]]
 
@@ -168,9 +286,13 @@ him in a case where the interests of justice so require and without payment by h
 
 #### Protection of freedom of assembly and association
 
-- 13.-(1.) Persons have the right to assemble and associate peaceably and to form or belong
+13.-(1.) Persons have the right to assemble and associate peaceably and to form or belong to trade unions or other associations.
 
-to trade unions or other associations. (2.) Except with his consent, no person shall be hindered in the enjoyment of a right referred to in clause (1.) of this Article. (3.) Nothing contained in or done under the authority of any law shall be held to be inconsistent with, or in contravention of, the provisions of this Article to the extent that that law makes provision that is reasonably required(a) in the interests of defence, public safety, public order, public morality or public health; or
+(2.) Except with his consent, no person shall be hindered in the enjoyment of a right referred to in clause (1.) of this Article.
+
+(3.) Nothing contained in or done under the authority of any law shall be held to be inconsistent with, or in contravention of, the provisions of this Article to the extent that that law makes provision that is reasonably required-
+
+(a) in the interests of defence, public safety, public order, public morality or public health; or
 
 (b) for protecting the rights and freedoms of other persons.
 
@@ -180,22 +302,35 @@ to trade unions or other associations. (2.) Except with his consent, no person s
 
 #### Enforcement of fundamental rights and freedoms
 
-- 14.-(1.) A right or freedom conferred by this Part is enforceable by the Supreme Court at the suit of a person having an interest in the enforcement of that right or freedom. (2.) The Supreme Court may make all such orders and declarations as are necessary and
+14.-(1.) A right or freedom conferred by this Part is enforceable by the Supreme Court at the suit of a person having an interest in the enforcement of that right or freedom.
 
-- appropriate for the purposes of clause (1.) of this Article.
+(2.) The Supreme Court may make all such orders and declarations as are necessary and appropriate for the purposes of clause (1.) of this Article.
 
 #### Interpretation
 
-15. In this Part, unless the context otherwise requires"contravention", in relation to any requirement, includes a failure to comply with that requirement, and cognate expressions shall be construed accordingly; "disciplined force" means(a) the Police Force; or (b) any other body established by law for the purposes of defence or maintaining public safety or public order; "legal representative" means a person entitled to be in or to enter Nauru and entitled by law to appear in proceedings before a court on behalf of a party to those proceedings; "member", in relation to a disciplined force, includes a person who, under the law regulating the discipline of that force, is subject to that discipline; "public property" includes property of a body corporate established by law for public
+15. In this Part, unless the context otherwise requires-
 
-- purposes.
+"contravention", in relation to any requirement, includes a failure to comply with that requirement, and cognate expressions shall be construed accordingly;
+
+"disciplined force" means-
+
+(a) the Police Force; or
+
+(b) any other body established by law for the purposes of defence or maintaining public safety or public order;
+
+"legal representative" means a person entitled to be in or to enter Nauru and entitled by law to appear in proceedings before a court on behalf of a party to those proceedings;
+
+"member", in relation to a disciplined force, includes a person who, under the law regulating the discipline of that force, is subject to that discipline;
+
+"public property" includes property of a body corporate established by law for public purposes.
+
+## PART III.1
+
+### THE PRESIDENT AND THE EXECUTIVE
 
 #### The President
 
-(1.) There shall be a President of Nauru, who shall be elected by Parliament.
-
-## PART III. 1
-### THE PRESIDENT AND THE EXECUTIVE
+16. (1.) There shall be a President of Nauru, who shall be elected by Parliament.
 
 [[END OF PAGE 12]]
 
@@ -247,19 +382,31 @@ of Parliament to be a Minister.
 
 #### Vacation of office
 
-20. A Minister ceases to hold office(a) upon the election of a President; (b) upon resigning his office by writing under his hand delivered to the President; (c) upon being removed from office by the President; or (d) upon ceasing to be a member of Parliament otherwise than by reason only of its dissolution.
+20. A Minister ceases to hold office-
+
+(a) upon the election of a President;
+
+(b) upon resigning his office by writing under his hand delivered to the President;
+
+(c) upon being removed from office by the President; or
+
+(d) upon ceasing to be a member of Parliament otherwise than by reason only of its dissolution.
 
 #### Provision for Minister to act as President
 
-21. The Cabinet may appoint a Minister to perform the duties and exercise the functions of the President during any period during which the President is unable to act owing to illness, absence from Nauru or any other cause.
+21. The Cabinet may appoint a Minister to perform the duties and exercise the functions of the President during any period during which the President is unable to act owing to
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
+illness, absence from Nauru or any other cause.
+
 #### Meetings of Cabinet
 
-22.-(1.) The President shall preside at meetings of the Cabinet. (2.) Subject to this Constitution, the Cabinet may regulate its own procedure.
+22.-(1.) The President shall preside at meetings of the Cabinet.
+
+(2.) Subject to this Constitution, the Cabinet may regulate its own procedure.
 
 #### Appointment of Ministers to Departments
 
@@ -267,61 +414,81 @@ of Parliament to be a Minister.
 
 #### Vote of no confidence
 
-- 24.-(1.) Where Parliament on a resolution approved by at least one-half of the total number of members of Parliament resolves that the President and Ministers be removed from office on the grounds that it has no confidence in the Cabinet, an election of a President shall be held.
+24.-(1.) Where Parliament on a resolution approved by at least one-half of the total number of members of Parliament resolves that the President and Ministers be removed from office on the grounds that it has no confidence in the Cabinet, an election of a President shall be held.
 
 (2.) Where a President has not been elected before the expiration of a period of seven days after the day on which a resolution under clause (1.) of this Article is approved Parliament shall stand dissolved.
 
 #### Chief Secretary
 
-25.-(1.) There shall be a Chief Secretary of Nauru, who shall be appointed by the Cabinet. (2.) A member of Parliament is not qualified to be appointed Chief Secretary. (3.) The Chief Secretary may resign his office by writing under his hand delivered to the President and may be removed from office by the Cabinet. (4.) The Chief Secretary has such powers and functions as the Cabinet directs and as are
+25.-(1.) There shall be a Chief Secretary of Nauru, who shall be appointed by the Cabinet.
+
+(2.) A member of Parliament is not qualified to be appointed Chief Secretary.
+
+(3.) The Chief Secretary may resign his office by writing under his hand delivered to the
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
 
-- conferred on him by this Constitution or by law.
+President and may be removed from office by the Cabinet.
+
+(4.) The Chief Secretary has such powers and functions as the Cabinet directs and as are conferred on him by this Constitution or by law.
 
 ## PART IV.
 
-### THE LEGISLATURE **
+### THE LEGISLATURE**
 
 ** The name of the Legislature was changed from "the Legislative Assembly" to "Parliament" on 17 May 1968.
 
 #### Establishment of legislature
 
-- There shall be a Parliament of Nauru.
+26. There shall be a Parliament of Nauru.
 
 #### Legislative powers of legislature
 
-- Subject to this Constitution, Parliament may make laws for the peace, order and good government of Nauru; laws so made may have effect outside as well as within Nauru.
+27. Subject to this Constitution, Parliament may make laws for the peace, order and good government of Nauru; laws so made may have effect outside as well as within Nauru.
 
 #### The Parliament
 
-- 28.-(1.) Parliament shall consist of eighteen members or such greater number as is prescribed by law. (2.) For the purpose of the election of members of Parliament, Nauru shall be divided into constituencies. (3.) Unless otherwise prescribed by law, the constituencies and the number of members
+28.-(1.) Parliament shall consist of eighteen members or such greater number as is prescribed by law.
 
-- of Parliament to be returned by each of the constituencies are those described in the
+(2.) For the purpose of the election of members of Parliament, Nauru shall be divided into constituencies.
+
+(3.) Unless otherwise prescribed by law, the constituencies and the number of members of Parliament to be returned by each of the constituencies are those described in the
 
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
 
-Second Schedule. (4.) A person shall not be at the same time a member of Parliament for more than one
+Second Schedule.
 
-- constituency.
+(4.) A person shall not be at the same time a member of Parliament for more than one constituency.
 
 #### Electors for Parliament
 
-- Members of Parliament shall be elected in such manner as is prescribed by law, by Nauruan citizens who have attained the age of twenty years.
+29. Members of Parliament shall be elected in such manner as is prescribed by law, by Nauruan citizens who have attained the age of twenty years.
 
 #### Qualification for membership of Parliament
 
-30. A person is qualified to be elected a member of Parliament if, and is not so qualified unless, he(a) is a Nauruan citizen and has attained the age of twenty years; and (b) is not disqualified under this Constitution.
+30. A person is qualified to be elected a member of Parliament if, and is not so qualified unless, he-
+
+(a) is a Nauruan citizen and has attained the age of twenty years; and
+
+(b) is not disqualified under this Constitution.
 
 #### Disqualifications for membership of Parliament
 
-- No person is qualified to be elected a member of Parliament if he(a) is an undischarged bankrupt or insolvent who has been declared bankrupt or insolvent according to law; (b) is a person certified to be insane or otherwise adjudged according to law to be mentally disordered; (c) has been convicted and is under sentence or is subject to be sentenced for an offence punishable according to law by death or by imprisonment for one year or longer; (d) does not possess such qualifications relating to residence or domicile in Nauru as are prescribed by law; or (e) holds an office of profit in the service of Nauru or of a statutory corporation, being an
+31. No person is qualified to be elected a member of Parliament if he-
 
-- office prescribed by law for the purposes of this paragraph.
+(a) is an undischarged bankrupt or insolvent who has been declared bankrupt or insolvent according to law;
+
+(b) is a person certified to be insane or otherwise adjudged according to law to be mentally disordered;
+
+(c) has been convicted and is under sentence or is subject to be sentenced for an offence punishable according to law by death or by imprisonment for one year or longer;
+
+(d) does not possess such qualifications relating to residence or domicile in Nauru as are prescribed by law; or
+
+(e) holds an office of profit in the service of Nauru or of a statutory corporation, being an office prescribed by law for the purposes of this paragraph.
 
 [[END OF PAGE 17]]
 
@@ -329,13 +496,29 @@ Second Schedule. (4.) A person shall not be at the same time a member of Parliam
 
 #### Vacation of seats by members of Parliament
 
-32.-(1.) A member of Parliament vacates his seat(a) upon the dissolution of Parliament next after his election; (b) upon becoming disqualified under Article 31 to be elected a member of Parliament; (c) upon resigning his seat by writing under his hand delivered, in the case of a member other than the Speaker, to the Speaker and, in the case of the Speaker, to the Clerk of Parliament; (d) if he is absent without leave of Parliament on every day on which a meeting of Parliament is held during a period of two months; or (e) upon ceasing to be a Nauruan citizen. (2.) In the event of the occurrence of a vacancy in the office of a member of Parliament, an election shall be held in the manner prescribed by law of a member to fill the vacant office.
+32.-(1.) A member of Parliament vacates his seat-
+
+(a) upon the dissolution of Parliament next after his election;
+
+(b) upon becoming disqualified under Article 31 to be elected a member of Parliament;
+
+(c) upon resigning his seat by writing under his hand delivered, in the case of a member other than the Speaker, to the Speaker and, in the case of the Speaker, to the Clerk of Parliament;
+
+(d) if he is absent without leave of Parliament on every day on which a meeting of Parliament is held during a period of two months; or
+
+(e) upon ceasing to be a Nauruan citizen.
+
+(2.) In the event of the occurrence of a vacancy in the office of a member of Parliament, an election shall be held in the manner prescribed by law of a member to fill the vacant office.
 
 #### Clerk of Parliament
 
-33.-(1.) There shall be a Clerk of Parliament, who shall be appointed by the Speaker. (2.) A member of Parliament is not qualified to be appointed Clerk of Parliament. (3.) The Clerk of Parliament may at any time resign his office by writing under his hand delivered to the Speaker and may be removed from office by the Speaker at any time. (4.) Before or during the absence of the Clerk of Parliament, the Speaker may appoint a person who is not a member of Parliament to perform the functions of the Clerk during
+33.-(1.) There shall be a Clerk of Parliament, who shall be appointed by the Speaker.
 
-his absence.
+(2.) A member of Parliament is not qualified to be appointed Clerk of Parliament.
+
+(3.) The Clerk of Parliament may at any time resign his office by writing under his hand delivered to the Speaker and may be removed from office by the Speaker at any time.
+
+(4.) Before or during the absence of the Clerk of Parliament, the Speaker may appoint a person who is not a member of Parliament to perform the functions of the Clerk during his absence.
 
 [[END OF PAGE 18]]
 
@@ -359,21 +542,29 @@ his absence.
 
 [[START OF PAGE 20]]
 
-(b) upon ceasing to be a member of Parliament otherwise than by reason only of its dissolution; (c) upon becoming a member of the Cabinet; (d) upon being removed from office by a resolution of Parliament; or (e) upon resigning his office by writing under his hand delivered to the Clerk of Parliament. (4.) The powers and functions conferred by this Constitution upon the Speaker shall, if there is no person holding the office of Speaker or if the Speaker is absent from a sitting of Parliament or is otherwise unable to exercise those powers and perform those functions, be exercised and performed by the Deputy Speaker and, if he is also absent or unable to exercise those powers and perform those functions, Parliament may elect one of
+(b) upon ceasing to be a member of Parliament otherwise than by reason only of its dissolution;
 
-- its members to exercise those powers and perform those functions.
+(c) upon becoming a member of the Cabinet;
+
+(d) upon being removed from office by a resolution of Parliament; or
+
+(e) upon resigning his office by writing under his hand delivered to the Clerk of Parliament.
+
+(4.) The powers and functions conferred by this Constitution upon the Speaker shall, if there is no person holding the office of Speaker or if the Speaker is absent from a sitting of Parliament or is otherwise unable to exercise those powers and perform those functions, be exercised and performed by the Deputy Speaker and, if he is also absent or unable to exercise those powers and perform those functions, Parliament may elect one of its members to exercise those powers and perform those functions.
 
 #### Determination on questions of membership of Parliament
 
-36. Any question that arises concerning the right of a person to be of or to remain a member of Parliament shall be referred to and determined by the Supreme Court.
+36. Any question that arises concerning the right of a person to be or to remain a member of Parliament shall be referred to and determined by the Supreme Court.
 
 #### Powers privileges and immunities of Parliament
 
-- The powers, privileges and immunities of Parliament and of its members and committees are such as are declared by Parliament.
+37. The powers, privileges and immunities of Parliament and of its members and committees are such as are declared by Parliament.
 
 #### Procedure in Parliament
 
-38.-(1.) Parliament may make, amend or repeal rules and orders with respect to(a) the mode in which its powers, privileges and immunities may be exercised and upheld; and
+38.-(1.) Parliament may make, amend or repeal rules and orders with respect to-
+
+(a) the mode in which its powers, privileges and immunities may be exercised and upheld; and
 
 (b) the conduct of its business and proceedings.
 
@@ -399,15 +590,23 @@ his absence.
 
 (5.) The President may withdraw his advice at any time before the Speaker has dissolved Parliament and where the President so withdraws his advice, the Speaker shall not dissolve Parliament.
 
-(6.) Notwithstanding the preceding provisions of this Article, where a resolution for the removal from office of the President and Ministers is approved under Article 24, the Speaker shall not(a) prorogue Parliament; or (b) dissolve Parliament,
+(6.) Notwithstanding the preceding provisions of this Article, where a resolution for the removal from office of the President and Ministers is approved under Article 24, the Speaker shall not-
 
-during the period of seven days after the day on which the resolution is approved. and including the date of the first sitting of Parliament after any dissolution and shall then
+(a) prorogue Parliament; or
 
-(7.) Parliament shall, unless sooner dissolved, continue for a period of three years from stand dissolved.
+(b) dissolve Parliament,
+
+during the period of seven days after the day on which the resolution is approved.
+
+(7.) Parliament shall, unless sooner dissolved, continue for a period of three years from and including the date of the first sitting of Parliament after any dissolution and shall then stand dissolved.
 
 #### Sessions of Parliament at request of one-third of members
 
-42.-(1.) Where(a) Parliament is not in session; and (b) there is delivered to the Speaker a request that complies with clause (2.) of this Article for the holding of a session, 9
+42.-(1.) Where-
+
+(a) Parliament is not in session; and
+
+(b) there is delivered to the Speaker a request that complies with clause (2.) of this Article for the holding of a session,9
 
 the Speaker shall appoint a time for the holding of a session of Parliament, being a time
 
@@ -415,23 +614,29 @@ the Speaker shall appoint a time for the holding of a session of Parliament, bei
 
 [[START OF PAGE 23]]
 
-- before the expiration of fourteen days after the request is delivered. (2.) A request referred to in clause (1.) of this Article 10 -(a) shall be in writing; (b) shall be signed by a member of Parliament for each of at least three constituencies and by a number of members of Parliament which is at least one-third of the total number of members of Parliament; and (c) shall set out particulars of the business proposed to be dealt with at the session of
+before the expiration of fourteen days after the request is delivered.
 
-- Parliament.
+(2.) A request referred to in clause (1.) of this Article10-
+
+(a) shall be in writing;
+
+(b) shall be signed by a member of Parliament for each of at least three constituencies and by a number of members of Parliament which is at least one-third of the total number of members of Parliament; and
+
+(c) shall set out particulars of the business proposed to be dealt with at the session of Parliament.
 
 #### Oath of members of Parliament
 
-- 43.-(1.) A member of Parliament shall, before taking his seat, take and subscribe before Parliament the oath set out in the Third Schedule, but a member may before taking and subscribing that oath take part in electing the Speaker.
+43.-(1.) A member of Parliament shall, before taking his seat, take and subscribe before Parliament the oath set out in the Third Schedule, but a member may before taking and subscribing that oath take part in electing the Speaker.
 
 (2.) The Speaker shall, if he has not taken and subscribed the oath set out in the Third Schedule, take and subscribe that oath before entering upon the duties of his office.
 
 #### Speaker to preside
 
-- The Speaker shall preside at a sitting of Parliament.
+44. The Speaker shall preside at a sitting of Parliament.
 
 #### Quorum
 
-- No business shall be transacted at a sitting of Parliament if the number of its members present, other than the person presiding at the sitting, is less than one-half of the total number of members of Parliament.
+45. No business shall be transacted at a sitting of Parliament if the number of its members present, other than the person presiding at the sitting, is less than one-half of the total number of members of Parliament.
 
 [[END OF PAGE 23]]
 
@@ -439,22 +644,22 @@ the Speaker shall appoint a time for the holding of a session of Parliament, bei
 
 #### Voting
 
-46.-(1.) Except as otherwise provided by this Constitution, a question before Parliament shall be decided by a majority of the votes of its members present and voting. (2.) The Speaker or other member presiding in Parliament shall not vote unless on a question the votes are equally divided in which case he has and shall exercise a casting
+46.-(1.) Except as otherwise provided by this Constitution, a question before Parliament shall be decided by a majority of the votes of its members present and voting.
 
-- vote.
+(2.) The Speaker or other member presiding in Parliament shall not vote unless on a question the votes are equally divided in which case he has and shall exercise a casting vote.
 
 #### Enactment of laws
 
-- A proposed law becomes law on the date when the Speaker certifies that it has been passed by Parliament.
+47. A proposed law becomes law on the date when the Speaker certifies that it has been passed by Parliament.
 
 ## PART V.
 ### THE JUDICATURE
 
 #### Supreme Court of Nauru
 
-48.-(1.) There shall be a Supreme Court of Nauru, which shall be a superior court of record. (2.) The Supreme Court has, in addition to the jurisdiction conferred on it by this
+48.-(1.) There shall be a Supreme Court of Nauru, which shall be a superior court of record.
 
-- Constitution, such jurisdiction as is prescribed by law.
+(2.) The Supreme Court has, in addition to the jurisdiction conferred on it by this Constitution, such jurisdiction as is prescribed by law.
 
 [[END OF PAGE 24]]
 
@@ -462,17 +667,23 @@ the Speaker shall appoint a time for the holding of a session of Parliament, bei
 
 #### Chief Justice and Judges of Supreme Court
 
-49.-(1.) The Supreme Court consists of a Chief Justice and such number, if any, of other judges as is prescribed by law. (2.) The judges of the Supreme Court shall be appointed by the President. 11 (3.) A person is not qualified to be appointed a judge of the Supreme Court unless he is entitled as prescribed by law to practise as a barrister or solicitor in Nauru and has been
+49.-(1.) The Supreme Court consists of a Chief Justice and such number, if any, of other judges as is prescribed by law.
 
-- so entitled for not less than five years.
+(2.) The judges of the Supreme Court shall be appointed by the President.11
+
+(3.) A person is not qualified to be appointed a judge of the Supreme Court unless he is entitled as prescribed by law to practise as a barrister or solicitor in Nauru and has been so entitled for not less than five years.
 
 #### Vacation of office
 
-50.-(1.) A judge of the Supreme Court ceases to hold office on attaining the age of sixtyfive years or, if a greater age is prescribed by law for the purposes of this Article, on attaining that greater age. (2.) A law that prescribes a greater age for the purposes of this Article may provide that that law applies only to specified judges.
-#### Removal from office and resignation
-51.-(1.) A judge of the Supreme Court may not be removed from office except on a resolution of Parliament approved by not less than two-thirds of the total number of members of Parliament praying for his removal from office on the ground of proved incapacity or misconduct. (2.) A judge of the Supreme Court may resign his office by writing under his hand
+50.-(1.) A judge of the Supreme Court ceases to hold office on attaining the age of sixty-five years or, if a greater age is prescribed by law for the purposes of this Article, on attaining that greater age.
 
-- delivered to the President. 12
+(2.) A law that prescribes a greater age for the purposes of this Article may provide that that law applies only to specified judges.
+
+#### Removal from office and resignation
+
+51.-(1.) A judge of the Supreme Court may not be removed from office except on a resolution of Parliament approved by not less than two-thirds of the total number of members of Parliament praying for his removal from office on the ground of proved incapacity or misconduct.
+
+(2.) A judge of the Supreme Court may resign his office by writing under his hand delivered to the President.12
 
 [[END OF PAGE 25]]
 
@@ -484,19 +695,25 @@ the Speaker shall appoint a time for the holding of a session of Parliament, bei
 
 #### Acting judges
 
-53.-(1.) If the office of Chief Justice is vacant or if the Chief Justice is for any reason unable to perform the duties of his office then until a person has been appointed to and has assumed the duties of that office or until the person holding that office has resumed those duties, as the case may be, those duties shall be discharged by such one of the other judges of the Supreme Court as is designated by the President or, if there is no other judge of the Supreme Court, by a person designated by the President, being a person who is qualified to be appointed a judge of the Supreme Court. 13 (2.) If the office of a judge of the Supreme Court other than the office of the Chief Justice is vacant or if the person holding that office is for any reason unable to perform the duties of his office or if the state of business in the Supreme Court so requires, the President may appoint a person qualified to be appointed a judge of the Supreme Court to act as a judge of the Supreme Court and a person so appointed may act as a judge of the Supreme Court notwithstanding that he has attained the age of sixty five years or, if a greater age is prescribed by law for the purposes of Article 50, has attained that greater age. 14 (3.) The provisions of clause (2.) of this Article apply in respect of the office of Chief Justice if at a time when the office of the Chief Justice is vacant no other person holds office as a judge of the Supreme Court. (4.) A person appointed under clause (2.) of this Article to act as a judge of the Supreme Court shall continue to act for the period of his appointment or, if no such period is specified, until his appointment is revoked by the President. 15
+53.-(1.) If the office of Chief Justice is vacant or if the Chief Justice is for any reason unable to perform the duties of his office then until a person has been appointed to and has assumed the duties of that office or until the person holding that office has resumed those duties, as the case may be, those duties shall be discharged by such one of the other judges of the Supreme Court as is designated by the President or, if there is no other judge of the Supreme Court, by a person designated by the President, being a person who is qualified to be appointed a judge of the Supreme Court.13
+
+(2.) If the office of a judge of the Supreme Court other than the office of the Chief Justice is vacant or if the person holding that office is for any reason unable to perform the duties of his office or if the state of business in the Supreme Court so requires, the President may appoint a person qualified to be appointed a judge of the Supreme Court to act as a judge of the Supreme Court and a person so appointed may act as a judge of the Supreme Court notwithstanding that he has attained the age of sixty five years or, if a greater age is prescribed by law for the purposes of Article 50, has attained that greater age.14
+
+(3.) The provisions of clause (2.) of this Article apply in respect of the office of Chief Justice if at a time when the office of the Chief Justice is vacant no other person holds office as a judge of the Supreme Court.
+
+(4.) A person appointed under clause (2.) of this Article to act as a judge of the Supreme Court shall continue to act for the period of his appointment or, if no such period is
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
 
+specified, until his appointment is revoked by the President.15
+
 #### Matters concerning the Constitution
 
-54.-(1.) The Supreme Court shall, to the exclusion of any other court, have original
+54.-(1.) The Supreme Court shall, to the exclusion of any other court, have original jurisdiction to determine any question arising under or involving the interpretation or effect of any provision of this Constitution.
 
-jurisdiction to determine any question arising under or involving the interpretation or effect of any provision of this Constitution. proceedings before another court a question arises involving the interpretation or effect of
-
-(2.) Without prejudice to any appellate jurisdiction of the Supreme Court, where in any any provision of this Constitution, the cause shall be removed into the Supreme Court, which shall determine that question and either dispose of the case or remit it to that other court to be disposed of in accordance with the determination.
+(2.) Without prejudice to any appellate jurisdiction of the Supreme Court, where in any proceedings before another court a question arises involving the interpretation or effect of any provision of this Constitution, the cause shall be removed into the Supreme Court, which shall determine that question and either dispose of the case or remit it to that other court to be disposed of in accordance with the determination.
 
 #### The Cabinet may refer questions on Constitution to the Supreme Court 16
 
@@ -525,9 +742,13 @@ jurisdiction to determine any question arising under or involving the interpreta
 
 #### Withdrawals from Treasury Fund and public funds
 
-59.-(1.) No moneys shall be withdrawn from the Treasury Fund except to meet expenditure that is charged upon the Treasury Fund by this Constitution or in accordance with law. (2.) No moneys shall be withdrawn from any fund referred to in Article 58 other than the Treasury Fund except in accordance with law. (3.) A proposed law for the withdrawal of moneys from the Treasury Fund or any other fund referred to in Article 58 shall not receive the certificate of the Speaker under Article 47 unless the purpose of the withdrawal has been recommended to Parliament by the Cabinet. 18 (4.) The Cabinet shall cause to be prepared and laid before Parliament before the date of
+59.-(1.) No moneys shall be withdrawn from the Treasury Fund except to meet expenditure that is charged upon the Treasury Fund by this Constitution or in accordance with law.
 
-- commencement of each financial year (or if, in respect of a particular financial year, Parliament, by resolution, determines a later date, before that later date), estimates of the
+(2.) No moneys shall be withdrawn from any fund referred to in Article 58 other than the Treasury Fund except in accordance with law.
+
+(3.) A proposed law for the withdrawal of moneys from the Treasury Fund or any other fund referred to in Article 58 shall not receive the certificate of the Speaker under Article 47 unless the purpose of the withdrawal has been recommended to Parliament by the Cabinet.18
+
+(4.) The Cabinet shall cause to be prepared and laid before Parliament before the date of commencement of each financial year (or if, in respect of a particular financial year, Parliament, by resolution, determines a later date, before that later date), estimates of the
 
 [[END OF PAGE 28]]
 
@@ -537,13 +758,17 @@ revenues and expenditure of Nauru for that year. 19
 
 #### Taxation
 
-- No tax shall be raised except as prescribed by law and a proposed law for the imposition of a tax shall not receive the certificate of the Speaker under Article 47 unless the imposition of the tax has been recommended to Parliament by the Cabinet. 20
+60. No tax shall be raised except as prescribed by law and a proposed law for the imposition of a tax shall not receive the certificate of the Speaker under Article 47 unless the imposition of the tax has been recommended to Parliament by the Cabinet.20
 
 #### Withdrawal of moneys in advance of appropriation law
 
-61.-(1.) If the appropriation law in respect of a financial year has not received the certificate of the Speaker under Article 47 on or before the twenty-first day before the commencement of that financial year, the Cabinet may, in accordance with clause (2.) of this Article, recommend to Parliament a proposed law authorising the withdrawal of moneys from the Treasury Fund for the purpose of meeting expenditure necessary to carry on the services of the Republic of Nauru after the commencement of that financial year until the expiration of three months or the coming into operation of the appropriation law, whichever is the earlier. 21 (2.) A recommendation by the Cabinet referred to in clause (1.) of this Article shall be in writing delivered to the Speaker not later than the fourteenth day before the commencement of the financial year and the Speaker shall, on receiving the recommendation, lay it before Parliament as soon as practicable. 22 (3.) For the purposes of clause (2.) of this Article and notwithstanding Article 40, the Speaker shall, if necessary, appoint a time for the beginning of a session, or for a sitting, of Parliament. 23 (4.) Where the Cabinet has recommended a proposed law under clause (1.) of this Article
+61.-(1.) If the appropriation law in respect of a financial year has not received the certificate of the Speaker under Article 47 on or before the twenty-first day before the commencement of that financial year, the Cabinet may, in accordance with clause (2.) of this Article, recommend to Parliament a proposed law authorising the withdrawal of moneys from the Treasury Fund for the purpose of meeting expenditure necessary to carry on the services of the Republic of Nauru after the commencement of that financial year until the expiration of three months or the coming into operation of the appropriation law, whichever is the earlier.21
 
-- and neither the appropriation law nor that proposed law has come into operation on or before the commencement of that financial year, the Cabinet may authorise the
+(2.) A recommendation by the Cabinet referred to in clause (1.) of this Article shall be in writing delivered to the Speaker not later than the fourteenth day before the commencement of the financial year and the Speaker shall, on receiving the recommendation, lay it before Parliament as soon as practicable.22
+
+(3.) For the purposes of clause (2.) of this Article and notwithstanding Article 40, the Speaker shall, if necessary, appoint a time for the beginning of a session, or for a sitting, of Parliament.23
+
+(4.) Where the Cabinet has recommended a proposed law under clause (1.) of this Article and neither the appropriation law nor that proposed law has come into operation on or before the commencement of that financial year, the Cabinet may authorise the
 
 [[END OF PAGE 29]]
 
@@ -571,7 +796,9 @@ withdrawal of moneys in accordance with that proposed law but the amount of mone
 
 #### Contingencies Fund
 
-- 64.-(1.) Parliament may provide for the establishment of a Contingencies Fund and for authorising the Cabinet, if satisfied that there has arisen an urgent and unforeseen need for expenditure for which no other provision exists, to make advances from that fund for the purposes of that expenditure. 25 (2.) Where an advance is made from the Contingencies Fund, provision may be made by law for replacing the amount so advanced.
+64.-(1.) Parliament may provide for the establishment of a Contingencies Fund and for authorising the Cabinet, if satisfied that there has arisen an urgent and unforeseen need for expenditure for which no other provision exists, to make advances from that fund for the purposes of that expenditure.25
+
+(2.) Where an advance is made from the Contingencies Fund, provision may be made by law for replacing the amount so advanced.
 #### Remuneration of certain officers
 65.-(1.) There shall be paid to the holders of the offices to which this Article applies such salary and such allowances as are prescribed by law. 26 (2.) The salaries and allowances payable to the holders of the offices to which this Article applies are a charge on the Treasury Fund. (3.) The salary and allowances payable to the holder of an office to which this Article applies and his other conditions of service shall not be altered to his disadvantage during the term of his appointment. (4.) This Article applies to the office of judge of the Supreme Court, Clerk of Parliament and Director of Audit.
 #### Director of Audit
@@ -586,10 +813,11 @@ withdrawal of moneys in accordance with that proposed law but the amount of mone
 
 #### Public debt
 
-67.-(1.) All debt charges for which Nauru is liable are a charge on the Treasury Fund. repayment or amortisation of debt and all expenditure in connexion with the raising of
+67.-(1.) All debt charges for which Nauru is liable are a charge on the Treasury Fund.
 
-(2.) For the purposes of this Article, debt charges include interest, sinking fund charges, loans and the service and redemption of the debt thereby created.
-## PART VII. ***
+(2.) For the purposes of this Article, debt charges include interest, sinking fund charges, repayment or amortisation of debt and all expenditure in connexion with the raising of loans and the service and redemption of the debt thereby created.
+
+## PART VII.***
 *** Part VII., Articles 68-70 substituted 17.5.68
 
 ### THE PUBLIC SERVICE
@@ -600,7 +828,15 @@ withdrawal of moneys in accordance with that proposed law but the amount of mone
 
 [[START OF PAGE 33]]
 
-68.-(1.) Except as otherwise provided by law under Article 69, there is vested in the Chief Secretary the power (a) to appoint, subject to clause (3.) of this Article, persons to hold or act in offices in the Public Service; (b) to exercise disciplinary control over persons holding or acting in such offices; and (c) to remove such persons from office. (2.) The Chief Secretary may, by instrument in writing under his hand, delegate to a public officer power to exercise disciplinary control over persons holding or acting in such public offices, other than offices referred to in clause (3.) of this Article, as the Chief Secretary specifies in the instrument and such delegation is subject to such conditions, if any, as the Chief Secretary specifies in the instrument.
+68.-(1.) Except as otherwise provided by law under Article 69, there is vested in the Chief Secretary the power -
+
+(a) to appoint, subject to clause (3.) of this Article, persons to hold or act in offices in the Public Service;
+
+(b) to exercise disciplinary control over persons holding or acting in such offices; and
+
+(c) to remove such persons from office.
+
+(2.) The Chief Secretary may, by instrument in writing under his hand, delegate to a public officer power to exercise disciplinary control over persons holding or acting in such public offices, other than offices referred to in clause (3.) of this Article, as the Chief Secretary specifies in the instrument and such delegation is subject to such conditions, if any, as the Chief Secretary specifies in the instrument.
 
 (3.) The Chief Secretary may not exercise his power under paragraph (a) of clause (1.) of this Article in relation to the office of a person in charge of a department of government and such other offices as are prescribed by law except in accordance with the approval of the Cabinet.
 
@@ -608,13 +844,31 @@ withdrawal of moneys in accordance with that proposed law but the amount of mone
 
 #### Power of Parliament to establish Public Service Board and to make special provisions regarding police
 
-69.-(1.) Parliament may make provision for either or both of the following:(a) vesting the powers and functions of the Chief Secretary under clauses (1.) and (2.) of Article 68 in a Public Service Board consisting of the Chief Secretary, who shall be Chairman, and not less than two other persons who are not members of Parliament; and (b) subject to clause (2.) of this Article, vesting in the public officer in charge of the Nauru Police Force the powers and functions of the Chief Secretary under clause (1.) of Article 68, in so far as they apply to or in respect of public officers in the Nauru Police Force. (2.) Where Parliament makes provision under paragraph (b) of clause (1.) of this Article (a) it shall also make provision for establishing a Police Service Board consisting of not less than three persons, who are not members of Parliament, of whom one shall be the Chief Justice, who shall be Chairman, one shall be the Chief Secretary, and one shall be a person elected by members of the Nauru Police Force in such manner and for such term as are prescribed by law; (b) the power of the public officer in charge of the Nauru Police Force to appoint persons to hold or act in offices in the Nauru Police Force shall be subject to such consent, if any, of the Police Service Board as is required by law; and (c) the Chief Secretary or, where Parliament has made provision for a Public Service Board, the Public Service Board, shall not exercise the powers or perform the functions under clauses (1.) and (2.) of Article 68 in so far as they apply to or in respect of public officers in the Nauru Police Force. (3.) An appeal lies to the Police Service Board from a decision of the public officer in charge of the Nauru Police Force under this Article to remove a public officer from office or to exercise disciplinary control over a public officer at the instance of the public officer in respect of whom the decision is made. (4.) The Police Service Board shall exercise such other powers and functions as are conferred on it by law and shall, subject to this Article and any law, regulate its own procedure. (5.) Except as otherwise provided by law, no appeal lies from a decision of the Police Service Board.
+69.-(1.) Parliament may make provision for either or both of the following:-
+
+(a) vesting the powers and functions of the Chief Secretary under clauses (1.) and (2.) of Article 68 in a Public Service Board consisting of the Chief Secretary, who shall be Chairman, and not less than two other persons who are not members of Parliament; and
+
+(b) subject to clause (2.) of this Article, vesting in the public officer in charge of the Nauru Police Force the powers and functions of the Chief Secretary under clause (1.) of
 
 [[END OF PAGE 33]]
 
 [[START OF PAGE 34]]
 
-(this page came through the extractor with no text)
+Article 68, in so far as they apply to or in respect of public officers in the Nauru Police Force.
+
+(2.) Where Parliament makes provision under paragraph (b) of clause (1.) of this Article -
+
+(a) it shall also make provision for establishing a Police Service Board consisting of not less than three persons, who are not members of Parliament, of whom one shall be the Chief Justice, who shall be Chairman, one shall be the Chief Secretary, and one shall be a person elected by members of the Nauru Police Force in such manner and for such term as are prescribed by law;
+
+(b) the power of the public officer in charge of the Nauru Police Force to appoint persons to hold or act in offices in the Nauru Police Force shall be subject to such consent, if any, of the Police Service Board as is required by law; and
+
+(c) the Chief Secretary or, where Parliament has made provision for a Public Service Board, the Public Service Board, shall not exercise the powers or perform the functions under clauses (1.) and (2.) of Article 68 in so far as they apply to or in respect of public officers in the Nauru Police Force.
+
+(3.) An appeal lies to the Police Service Board from a decision of the public officer in charge of the Nauru Police Force under this Article to remove a public officer from office or to exercise disciplinary control over a public officer at the instance of the public officer in respect of whom the decision is made.
+
+(4.) The Police Service Board shall exercise such other powers and functions as are conferred on it by law and shall, subject to this Article and any law, regulate its own procedure.
+
+(5.) Except as otherwise provided by law, no appeal lies from a decision of the Police Service Board.
 
 [[END OF PAGE 34]]
 
@@ -622,24 +876,44 @@ withdrawal of moneys in accordance with that proposed law but the amount of mone
 
 #### Public Service Appeals Board
 
-70.-(1.) There shall be a Public Service Appeals Board which shall consist of the Chief Justice, who shall be Chairman, one person appointed by the Cabinet and one person elected by public officers as prescribed by law. (2.) A member of Parliament is not qualified to be a member of the Public Service Appeals Board. (3.) A member of the Public Service Appeals Board ceases to hold office(a) upon being elected a member of Parliament; (b) if he was appointed by the Cabinet, upon being removed from office by the Cabinet or upon resigning his office by writing under his hand delivered to the President; or (c) if he was elected by public officers, upon the expiration of the term for which he was elected, upon being removed from office in the manner prescribed by law or upon resigning his office by writing under his hand delivered to the Chief Secretary. (4.) Whenever a member of the Public Service Appeals Board, other than the Chief Justice, is unable for any reason or ineligible under clause (5.) of this Article to perform the duties of his office, the Cabinet may(a) if the member was appointed by it, appoint a person who is not a member of Parliament; or (b) if the member was elected by public officers, appoint, subject to such conditions, if any, as are prescribed by law, a person, to act as a member of the Public Service Appeals Board during the period of the inability or ineligibility of the member. (5.) Parliament may provide that a member of the Public Service Appeals Board, other than the Chief Justice, is ineligible to act in relation to such matters as are prescribed by
+70.-(1.) There shall be a Public Service Appeals Board which shall consist of the Chief Justice, who shall be Chairman, one person appointed by the Cabinet and one person elected by public officers as prescribed by law.
 
-law.
+(2.) A member of Parliament is not qualified to be a member of the Public Service Appeals Board.
+
+(3.) A member of the Public Service Appeals Board ceases to hold office-
+
+(a) upon being elected a member of Parliament;
+
+(b) if he was appointed by the Cabinet, upon being removed from office by the Cabinet or upon resigning his office by writing under his hand delivered to the President; or
+
+(c) if he was elected by public officers, upon the expiration of the term for which he was elected, upon being removed from office in the manner prescribed by law or upon resigning his office by writing under his hand delivered to the Chief Secretary.
+
+(4.) Whenever a member of the Public Service Appeals Board, other than the Chief Justice, is unable for any reason or ineligible under clause (5.) of this Article to perform the duties of his office, the Cabinet may-
+
+(a) if the member was appointed by it, appoint a person who is not a member of Parliament; or
+
+(b) if the member was elected by public officers, appoint, subject to such conditions, if any, as are prescribed by law, a person,
+
+to act as a member of the Public Service Appeals Board during the period of the inability or ineligibility of the member.
+
+(5.) Parliament may provide that a member of the Public Service Appeals Board, other than the Chief Justice, is ineligible to act in relation to such matters as are prescribed by law.
 
 [[END OF PAGE 35]]
 
 [[START OF PAGE 36]]
 
-(6.) Except where an appeal lies to the Police Service Board under Article 69, an appeal lies to the Public Service Appeals Board from a decision to remove a public office or to exercise disciplinary control over a public officer at the instance of the public officer in respect of whom the decision is made. (7.) The Public Service Appeals Board shall exercise and perform such other powers and functions as are conferred on it by law and shall, subject to this Constitution and any law, regulate its own procedure. (8.) Except as otherwise provided by law, no appeal lies from a decision of the Public
+(6.) Except where an appeal lies to the Police Service Board under Article 69, an appeal lies to the Public Service Appeals Board from a decision to remove a public officer from office or to exercise disciplinary control over a public officer at the instance of the public officer in respect of whom the decision is made.
 
-Service Appeals Board.
+(7.) The Public Service Appeals Board shall exercise and perform such other powers and functions as are conferred on it by law and shall, subject to this Constitution and any law, regulate its own procedure.
+
+(8.) Except as otherwise provided by law, no appeal lies from a decision of the Public Service Appeals Board.
 
 ## PART VIII.
 ### CITIZENSHIP
 
 #### Members of Nauruan community to be Nauruan citizens
 
-- A person who on the thirtieth day of January One thousand nine hundred and sixtyeight was included in one of the classes of persons who constituted the Nauruan Community within the meaning of the Nauruan Community Ordinance 1956-1966 of Nauru is a Nauruan citizen.
+71. A person who on the thirtieth day of January One thousand nine hundred and sixty-eight was included in one of the classes of persons who constituted the Nauruan Community within the meaning of the Nauruan Community Ordinance 1956-1966 of Nauru is a Nauruan citizen.
 
 #### Persons born on or after 31 January 1968
 
@@ -673,18 +947,24 @@ and sixty-eight is a Nauruan citizen if he is born of a marriage between a Nauru
 
 #### Interpretation
 
-76.-(1.) In this Part, "Pacific Islander" has, except as otherwise prescribed by law, the same meaning as in the Nauruan Community Ordinance 1956-1966 of Nauru. (2.) A reference in this Part to the citizenship of the parent of a person at the date of that that person, be construed as a reference to the citizenship of the parent at the time of the
+76.-(1.) In this Part, "Pacific Islander" has, except as otherwise prescribed by law, the same meaning as in the Nauruan Community Ordinance 1956-1966 of Nauru.
 
-person's birth shall, in relation to a person one of whose parents died before the birth of parent's death.
+(2.) A reference in this Part to the citizenship of the parent of a person at the date of that person's birth shall, in relation to a person one of whose parents died before the birth of that person, be construed as a reference to the citizenship of the parent at the time of the parent's death.
 
 ## PART IX.
 ### EMERGENCY POWERS
 
 #### Declaration of an emergency
 
-77.-(1.) If the President is satisfied that a grave emergency exists whereby the security or economy of Nauru is threatened he may, by public proclamation, declare that a state of emergency exists. 28 (2.) A declaration of emergency lapses(a) if the declaration is made when Parliament is sitting, at the expiration of seven days after the date of publication of the declaration; or (b) in any other case, at the expiration of twenty-one days after the date of publication of the declaration, unless it has in the meantime been approved by a resolution of Parliament approved by a
+77.-(1.) If the President is satisfied that a grave emergency exists whereby the security or economy of Nauru is threatened he may, by public proclamation, declare that a state of emergency exists.28
 
-majority of the members of Parliament present and voting.
+(2.) A declaration of emergency lapses-
+
+(a) if the declaration is made when Parliament is sitting, at the expiration of seven days after the date of publication of the declaration; or
+
+(b) in any other case, at the expiration of twenty-one days after the date of publication of the declaration,
+
+unless it has in the meantime been approved by a resolution of Parliament approved by a majority of the members of Parliament present and voting.
 
 [[END OF PAGE 38]]
 
@@ -696,9 +976,17 @@ force at a particular time does not prevent the making of a further such declara
 
 #### Emergency powers
 
-78. (1.) During the period during which a declaration of emergency is in force, the public safety, maintaining public order or safeguarding the interests or maintaining the 29
+78. (1.) During the period during which a declaration of emergency is in force, the President may make such orders as appear to him to be reasonably required for securing public safety, maintaining public order or safeguarding the interests or maintaining the welfare of the community.29
 
-President may make such orders as appear to him to be reasonably required for securing welfare of the community. (2.) An order made by the President under clause (1.) of this Article 30 : (a) has effect notwithstanding anything in Part II of this Constitution or in Article 94; (b) is not invalid in whole or in part by reason only that it provides for any matter for which provision is made under any law or because of inconsistency with any law; and (c) lapses when the declaration of emergency lapses unless in the meantime the order is revoked by a resolution of Parliament approved by a majority of the members of Parliament present and voting. (3.) The revocation or lapsing of an order made by the President under clause (1.) of this Article does not affect the previous operation of that order, the validity of anything done or omitted to be done under it or any offence committed or penalty or punishment incurred. 31
+(2.) An order made by the President under clause (1.) of this Article30:
+
+(a) has effect notwithstanding anything in Part II of this Constitution or in Article 94;
+
+(b) is not invalid in whole or in part by reason only that it provides for any matter for which provision is made under any law or because of inconsistency with any law; and
+
+(c) lapses when the declaration of emergency lapses unless in the meantime the order is revoked by a resolution of Parliament approved by a majority of the members of Parliament present and voting.
+
+(3.) The revocation or lapsing of an order made by the President under clause (1.) of this Article does not affect the previous operation of that order, the validity of anything done or omitted to be done under it or any offence committed or penalty or punishment incurred.31
 
 [[END OF PAGE 39]]
 
@@ -710,14 +998,20 @@ President may make such orders as appear to him to be reasonably required for se
 
 determined that there is sufficient cause for the detention.
 
-## PART XI.
+## PART X.
 ### GENERAL
 
 #### Grant of pardon
 
-80. The President may(a) grant a pardon, either free or subject to lawful conditions, to a person convicted of an offence; 33 (b) grant to a person a respite, either indefinite or for a specified period, of the execution of a punishment imposed on that person for an offence; (c) substitute a less severe form of punishment for any punishment imposed on a person for an offence; or (d) remit the whole or a part of a punishment imposed on a person for an offence or of a
+80. The President may-
 
-- penalty or forfeiture on account of an offence.
+(a) grant a pardon, either free or subject to lawful conditions, to a person convicted of an offence;33
+
+(b) grant to a person a respite, either indefinite or for a specified period, of the execution of a punishment imposed on that person for an offence;
+
+(c) substitute a less severe form of punishment for any punishment imposed on a person for an offence; or
+
+(d) remit the whole or a part of a punishment imposed on a person for an offence or of a penalty or forfeiture on account of an offence.
 
 [[END OF PAGE 40]]
 
@@ -725,50 +1019,194 @@ determined that there is sufficient cause for the detention.
 
 #### Interpretation
 
-81.-(1.) In this Constitution, unless the context otherwise requires:"Article" "Article" means Article of this Constitution; "Cabinet" 34 "Cabinet" means the Cabinet established under Article 17; "Chief Justice" "Chief Justice" means the Chief Justice of the Supreme Court; "Chief Secretary" 35 "Chief Secretary" means the Chief Secretary of Nauru appointed under Article 25; "Court" "Court" means a court of law having jurisdiction in Nauru; "Existing law" "Existing law" means a law in force in Nauru immediately before Independence Day; "Government Gazette" 36 "Government Gazette" means the Nauru Government Gazette; "Independence Day" "Independence Day" means the thirty-first day of January, One thousand nine hundred and sixty-eight; "Law" "Law" includes an instrument having the force of law and an unwritten rule of law and "lawful" and "lawfully" shall be construed accordingly; "Minister" 37 "Minister" means a Minister of the Cabinet; "Month" "Month" means calendar month; "Parliament" 38 "Parliament" means the Parliament of Nauru established under Article 26;
+81.-(1.) In this Constitution, unless the context otherwise requires:-
+
+"Article"
+
+"Article" means Article of this Constitution;
+
+"Cabinet"34
+
+"Cabinet" means the Cabinet established under Article 17;
+
+"Chief Justice"
+
+"Chief Justice" means the Chief Justice of the Supreme Court;
+
+"Chief Secretary"35
+
+"Chief Secretary" means the Chief Secretary of Nauru appointed under Article 25;
+
+"Court"
+
+"Court" means a court of law having jurisdiction in Nauru;
+
+"Existing law"
+
+"Existing law" means a law in force in Nauru immediately before Independence Day;
+
+"Government Gazette"36
+
+"Government Gazette" means the Nauru Government Gazette;
+
+"Independence Day"
+
+"Independence Day" means the thirty-first day of January, One thousand nine hundred and sixty-eight;
+
+"Law"
+
+"Law" includes an instrument having the force of law and an unwritten rule of law and "lawful" and "lawfully" shall be construed accordingly;
+
+"Minister"37
+
+"Minister" means a Minister of the Cabinet;
+
+"Month"
+
+"Month" means calendar month;
+
+"Parliament"38
+
+"Parliament" means the Parliament of Nauru established under Article 26;
 
 [[END OF PAGE 41]]
 
 [[START OF PAGE 42]]
 
-"Person" "Person" includes a body corporate or politic; "President" 39 "President" means the President of Nauru; "Property" "Property" includes a right, title or interest in or over property; "Public office" "Public office" means an office of emolument in the public service; "Public officer" "Public officer" means a person holding or acting in a public office; "Public service" "Public service" means, subject to the provisions of this Article, the service of the Republic of Nauru; "Schedule" "Schedule" means Schedule to this Constitution; "Session" 40 "Session" means the period beginning when the Legislative Assembly of Nauru first met on Independence Day or after Parliament has at any time been prorogued or dissolved and ending when next Parliament is prorogued or dissolved; "Sitting" "Sitting" means a period during which Parliament is sitting without adjournment; "Speaker" "Speaker" means the Speaker of Parliament; "Supreme Court" "Supreme Court" means the Supreme Court of Nauru established under Article 48; "Writing" "Writing" includes any mode of representing or reproducing words in a visible form. (2.) In this Constitution41 (a) a reference to an office in the public service does not include(i) a reference to the office of President, Minister, Speaker, Deputy Speaker, member of Parliament or Clerk of Parliament;
+"Person"
+
+"Person" includes a body corporate or politic;
+
+"President"39
+
+"President" means the President of Nauru;
+
+"Property"
+
+"Property" includes a right, title or interest in or over property;
+
+"Public office"
+
+"Public office" means an office of emolument in the public service;
+
+"Public officer"
+
+"Public officer" means a person holding or acting in a public office;
+
+"Public service"
+
+"Public service" means, subject to the provisions of this Article, the service of the Republic of Nauru;
+
+"Schedule"
+
+"Schedule" means Schedule to this Constitution;
+
+"Session"40
+
+"Session" means the period beginning when the Legislative Assembly of Nauru first met on Independence Day or after Parliament has at any time been prorogued or dissolved and ending when next Parliament is prorogued or dissolved;
+
+"Sitting"
+
+"Sitting" means a period during which Parliament is sitting without adjournment;
+
+"Speaker"
+
+"Speaker" means the Speaker of Parliament;
+
+"Supreme Court"
+
+"Supreme Court" means the Supreme Court of Nauru established under Article 48;
+
+"Writing"
+
+"Writing" includes any mode of representing or reproducing words in a visible form.
+
+(2.) In this Constitution-41
+
+(a) a reference to an office in the public service does not include-
+
+(i) a reference to the office of President, Minister, Speaker, Deputy Speaker, member of Parliament or Clerk of Parliament;
 
 [[END OF PAGE 42]]
 
 [[START OF PAGE 43]]
 
-(ii) a reference to the office of a Judge of the Supreme Court; or (iii) except in so far as is prescribed by law, a reference to the office of a member of a council, board, panel, committee or other similar body, whether incorporated or not, established by law; and (b) a reference to an office of profit in the service of Nauru does not include a reference to the office of President, Minister, Speaker, Deputy Speaker, or member of Parliament. an office by an expression designating his office shall be construed as including, to the extent of his authority, a reference to a person for the time being authorised to exercise
+(ii) a reference to the office of a Judge of the Supreme Court; or
 
-(3.) In this Constitution, unless the context otherwise requires, a reference to the holder of the powers or perform the functions of that office. (4.) In this Constitution, a reference to the total number of members of Parliament is a reference to the number of members of which Parliament consists in accordance with Article 28. (5.) In this Constitution, unless the context otherwise requires(a) words importing the masculine gender shall be taken to include females; and (b) words in the singular include the plural and words in the plural include the singular. (6.) Where a law is repealed, or is deemed to have been repealed, by, under or by reason of this Constitution, the repeal does not(a) revive anything not in force or existing at the time at which the repeal takes effect; (b) affect the previous operation of the law or anything only done or suffered under the law; (c) affect any right, privilege, obligation or liability acquired, accrued or incurred under the law; (d) affect any penalty, forfeiture or punishment incurred in respect of any offence committed against the law; or (e) affect any investigation, legal proceeding or remedy in respect of any such right, privilege, obligation, liability, penalty, forfeiture or punishment, and any such investigation, legal proceeding or remedy may be instituted, continued or enforced, and any such penalty, forfeiture or punishment may be imposed, as if the law had not been repealed. (7.) Where a person is required by this Constitution to take and subscribe an oath, he shall be permitted, if he so desires, to comply with that requirement by making and subscribing an affirmation.
-#### Parts, etc. of Constitution
-82.-(1.) The headings of the Parts into which this Constitution is divided are part of this Constitution. (2.) A Schedule to this Constitution is part of this Constitution. (3.) The preamble and the marginal notes to this Constitution do not form part of this Constitution.
-#### Right to mine phosphate
-83.-(1.) Except as otherwise provided by law, the right to mine phosphate is vested in the Republic of Nauru. 42 (2.) Nothing in this Constitution makes the Government of Nauru responsible for the rehabilitation of land from which phosphate was mined before the first day of July, One thousand nine hundred and sixty-seven.
-#### Amendment of the Constitution 43
-84.-(1.) This Constitution shall not be altered except in accordance with this Article.
+(iii) except in so far as is prescribed by law, a reference to the office of a member of a council, board, panel, committee or other similar body, whether incorporated or not, established by law; and
+
+(b) a reference to an office of profit in the service of Nauru does not include a reference to the office of President, Minister, Speaker, Deputy Speaker, or member of Parliament.
+
+(3.) In this Constitution, unless the context otherwise requires, a reference to the holder of an office by an expression designating his office shall be construed as including, to the extent of his authority, a reference to a person for the time being authorised to exercise the powers or perform the functions of that office.
+
+(4.) In this Constitution, a reference to the total number of members of Parliament is a reference to the number of members of which Parliament consists in accordance with Article 28.
+
+(5.) In this Constitution, unless the context otherwise requires-
+
+(a) words importing the masculine gender shall be taken to include females; and
+
+(b) words in the singular include the plural and words in the plural include the singular.
+
+(6.) Where a law is repealed, or is deemed to have been repealed, by, under or by reason of this Constitution, the repeal does not-
+
+(a) revive anything not in force or existing at the time at which the repeal takes effect;
+
+(b) affect the previous operation of the law or anything duly done or suffered under the law;
+
+(c) affect any right, privilege, obligation or liability acquired, accrued or incurred under the law;
+
+(d) affect any penalty, forfeiture or punishment incurred in respect of any offence committed against the law; or
+
+(e) affect any investigation, legal proceeding or remedy in respect of any such right, privilege, obligation, liability, penalty, forfeiture or punishment,
 
 [[END OF PAGE 43]]
 
 [[START OF PAGE 44]]
 
-(this page came through the extractor with no text)
+and any such investigation, legal proceeding or remedy may be instituted, continued or enforced, and any such penalty, forfeiture or punishment may be imposed, as if the law had not been repealed.
+
+(7.) Where a person is required by this Constitution to take and subscribe an oath, he shall be permitted, if he so desires, to comply with that requirement by making and subscribing an affirmation.
+
+#### Parts, etc. of Constitution
+
+82.-(1.) The headings of the Parts into which this Constitution is divided are part of this Constitution.
+
+(2.) A Schedule to this Constitution is part of this Constitution.
+
+(3.) The preamble and the marginal notes to this Constitution do not form part of this Constitution.
+
+#### Right to mine phosphate
+
+83.-(1.) Except as otherwise provided by law, the right to mine phosphate is vested in the Republic of Nauru.42
+
+(2.) Nothing in this Constitution makes the Government of Nauru responsible for the rehabilitation of land from which phosphate was mined before the first day of July, One thousand nine hundred and sixty-seven.
+
+#### Amendment of the Constitution43
+
+84.-(1.) This Constitution shall not be altered except in accordance with this Article.
 
 [[END OF PAGE 44]]
 
 [[START OF PAGE 45]]
 
-(2.) This Constitution may be altered by law but a proposed law for that purpose shall not
+(2.) This Constitution may be altered by law but a proposed law for that purpose shall not be passed by Parliament unless-
 
-be passed by Parliament unless(a) there has been an interval of not less than ninety days between the introduction of the proposed law in Parliament and the passing of the proposed law by Parliament; and (b) it is approved by not less than two-thirds of the total number of members of Parliament. (3.) A proposed law to alter or having the effect of altering the Fifth Schedule or any of the provisions of this Constitution specified in the Fifth Schedule shall not be submitted for the certificate of the Speaker under Article 47 unless, after it has been passed by Parliament, it has been approved by not less than two-thirds of all the votes validly cast on a referendum held, subject to clause (4.) of this Article, as prescribed by law. (4.) A person who, at the time the referendum is held, is qualified to vote at an election of members of Parliament, is entitled to vote at a referendum held for the purposes of this Article and no other person is so entitled. (5.) A proposed law to alter this Constitution shall not receive the certificate of the Speaker under Article 47 unless it is accompanied by a certificate under the hand of the Clerk of Parliament that the provisions of clause (2.) of this Article have been complied with and, if it is a proposed law to which clause (3.) of this Article applies, by a certificate under the hand of a person prescribed by law stating that it has been approved
+(a) there has been an interval of not less than ninety days between the introduction of the proposed law in Parliament and the passing of the proposed law by Parliament; and
 
-as provided by that clause.
+(b) it is approved by not less than two-thirds of the total number of members of Parliament.
+
+(3.) A proposed law to alter or having the effect of altering the Fifth Schedule or any of the provisions of this Constitution specified in the Fifth Schedule shall not be submitted for the certificate of the Speaker under Article 47 unless, after it has been passed by Parliament, it has been approved by not less than two-thirds of all the votes validly cast on a referendum held, subject to clause (4.) of this Article, as prescribed by law.
+
+(4.) A person who, at the time the referendum is held, is qualified to vote at an election of members of Parliament, is entitled to vote at a referendum held for the purposes of this Article and no other person is so entitled.
+
+(5.) A proposed law to alter this Constitution shall not receive the certificate of the Speaker under Article 47 unless it is accompanied by a certificate under the hand of the Clerk of Parliament that the provisions of clause (2.) of this Article have been complied with and, if it is a proposed law to which clause (3.) of this Article applies, by a certificate under the hand of a person prescribed by law stating that it has been approved as provided by that clause.
+
+## PART XI.
+### TRANSITIONAL PROVISIONS
 
 #### Existing laws
 
 85.-(1.) A law in force in Nauru immediately before Independence Day continues in force, subject to this Constitution and to any amendment of that law made by a law
-
-## PART XI.
-### TRANSITIONAL PROVISIONS
 
 [[END OF PAGE 45]]
 
@@ -802,9 +1240,9 @@ shall, unless the context otherwise requires, be read as a reference to the Pres
 
 #### Existing public officers
 
-87.-(1.) Subject to this Constitution and any law, a person who immediately before Independence Day hold; or is acting in a public office shall, on and after Independence Day, hold or act in that on the same terms and conditions as those on which he holds or is acting in the public
+87.-(1.) Subject to this Constitution and any law, a person who immediately before Independence Day holds or is acting in a public office shall, on and after Independence Day, hold or act in that office or the corresponding office established by this Constitution on the same terms and conditions as those on which he holds or is acting in the public office immediately before Independence Day.
 
-office or the corresponding office established by this Constitution office immediately before Independence Day. (2.) Nothing in this Article shall be construed as applying to a person who immediately before Independence Day holds or is acting in the office of Administrator, Public Service Commissioner or Official Secretary.
+(2.) Nothing in this Article shall be construed as applying to a person who immediately before Independence Day holds or is acting in the office of Administrator, Public Service Commissioner or Official Secretary.
 
 [[END OF PAGE 47]]
 
@@ -840,9 +1278,11 @@ office or the corresponding office established by this Constitution office immed
 
 #### Constitutional Convention to continue in existence
 
-- 92.-(1.) Notwithstanding the coming into force of this Constitution, the Constitutional Convention established under the Constitutional Convention Ordinance 1967 of Nauru shall, subject to this Article, continue in existence during the period of five months after Independence Day or, if the Constitutional Convention approves by resolution a shorter period, during that shorter period. (2.) The Constitutional Convention shall, in lieu of the powers held by it before Independence Day, have the powers conferred on it by clause (3.) of this Article. (3.) The Constitutional Convention may, during the period referred to in clause (1.) of
+92.-(1.) Notwithstanding the coming into force of this Constitution, the Constitutional Convention established under the Constitutional Convention Ordinance 1967 of Nauru shall, subject to this Article, continue in existence during the period of five months after Independence Day or, if the Constitutional Convention approves by resolution a shorter period, during that shorter period.
 
-- this Article, by resolution approved by a majority of the members of the Constitutional
+(2.) The Constitutional Convention shall, in lieu of the powers held by it before Independence Day, have the powers conferred on it by clause (3.) of this Article.
+
+(3.) The Constitutional Convention may, during the period referred to in clause (1.) of this Article, by resolution approved by a majority of the members of the Constitutional
 
 [[END OF PAGE 49]]
 
@@ -854,15 +1294,15 @@ arises.
 
 #### Agreement of 14 November 1967 relating to Phosphate Industry
 
-- 93.-(1.) The Agreement made on the fourteenth day of November, One thousand nine hundred and sixty-seven between the Nauru Local Government Council of the one part and the Partner Governments of the other part shall, on and after Independence Day, be construed as an agreement between the Government of the Republic of Nauru of the one part and the Partner Governments of the other part and all rights, liabilities, obligations and interest of the Nauru Local Government Council in or under that Agreement are, on and after Independence Day, rights, liabilities, obligations and interest of the Government of the Republic of Nauru.
+93.-(1.) The Agreement made on the fourteenth day of November, One thousand nine hundred and sixty-seven between the Nauru Local Government Council of the one part and the Partner Governments of the other part shall, on and after Independence Day, be construed as an agreement between the Government of the Republic of Nauru of the one part and the Partner Governments of the other part and all rights, liabilities, obligations and interest of the Nauru Local Government Council in or under that Agreement are, on and after Independence Day, rights, liabilities, obligations and interest of the Government of the Republic of Nauru.
 
 (2.) In clause (1.) of this Article, "Partner Governments" means the Government of the Commonwealth of Australia, the Government of New Zealand and the Government of the United Kingdom of Great Britain and Northern Ireland.
 
 #### Financial provisions to 30 June 1968
 
-94. Notwithstanding the provisions of Part VI. of this Constitution, no moneys shall be withdrawn from the Treasury Fund or any other fund referred to in Article 58 before the first day of July, One thousand nine hundred and sixty-eight, except(a) in accordance with the appropriations authorized under the Supply Ordinance 1967-68
+94. Notwithstanding the provisions of Part VI. of this Constitution, no moneys shall be withdrawn from the Treasury Fund or any other fund referred to in Article 58 before the first day of July, One thousand nine hundred and sixty-eight, except-
 
-of Nauru or the Appropriation Ordinance 1967-68 of Nauru;
+(a) in accordance with the appropriations authorized under the Supply Ordinance 1967-68 of Nauru or the Appropriation Ordinance 1967-68 of Nauru;
 
 [[END OF PAGE 50]]
 
@@ -872,31 +1312,35 @@ of Nauru or the Appropriation Ordinance 1967-68 of Nauru;
 
 #### Transitional provision relating to judges of the Supreme Court
 
-95. Notwithstanding clause (3.) of Article 49, until otherwise provided by law, a person is qualified to be appointed a judge of the Supreme Court if (a) he is or has been a judge of a court having jurisdiction in some part of the Commonwealth of Australia or in such other place as is approved by Parliament by resolution for the purposes of this Article or (b) he is entitled to practise as an advocate in or solicitor of such a court and has been so entitled for not less than five years.
+95. Notwithstanding clause (3.) of Article 49, until otherwise provided by law, a person is qualified to be appointed a judge of the Supreme Court if -
+
+(a) he is or has been a judge of a court having jurisdiction in some part of the Commonwealth of Australia or in such other place as is approved by Parliament by resolution for the purposes of this Article or
+
+(b) he is entitled to practise as an advocate in or solicitor of such a court and has been so entitled for not less than five years.
 
 #### Transitional provisions relating to Chief Justice
 
-96.-(1.) The powers and functions of the Chief Justice may, until the Chief Justice is first appointed, be exercised or performed by not less than three persons, being persons who, immediately before Independence Day, were magistrates of the Central Court within the
+96.-(1.) The powers and functions of the Chief Justice may, until the Chief Justice is first appointed, be exercised or performed by not less than three persons, being persons who, immediately before Independence Day, were magistrates of the Central Court within the meaning of the Nauru Act 1965 of the Commonwealth of Australia.
 
-meaning of the Nauru Act 1965 of the Commonwealth of Australia. exercised or performed by a person who, immediately before Independence Day, was a
-
-(2.) Notwithstanding clause (1.) of this Article, the powers and functions of the Chief Justice under Articles 69 and 70 may, until the Chief Justice is first appointed, be magistrate of the Central Court referred to in clause (1.) of this Article. 48
+(2.) Notwithstanding clause (1.) of this Article, the powers and functions of the Chief Justice under Articles 69 and 70 may, until the Chief Justice is first appointed, be exercised or performed by a person who, immediately before Independence Day, was a magistrate of the Central Court referred to in clause (1.) of this Article.48
 
 #### Director of Audit
 
-97.-(1.) Notwithstanding Article 66, until the Director of Audit is first appointed the Cabinet shall cause to be audited at least once in every year the public accounts of Nauru and the accounts of such public bodies as Parliament by resolution determines. 49
+97.-(1.) Notwithstanding Article 66, until the Director of Audit is first appointed the
 
 [[END OF PAGE 51]]
 
 [[START OF PAGE 52]]
 
-(2.) The Cabinet shall cause a report on the results of an audit under clause (1.) of this Article to be laid before Parliament as soon as practicable after completion of the audit. 50
+Cabinet shall cause to be audited at least once in every year the public accounts of Nauru and the accounts of such public bodies as Parliament by resolution determines.49
+
+(2.) The Cabinet shall cause a report on the results of an audit under clause (1.) of this Article to be laid before Parliament as soon as practicable after completion of the audit.50
 
 #### Transitional provisions relating to Superannuation Board
 
-98.-(1.) Until otherwise provided by law, the Superannuation Board established under the Superannuation Ordinance 1966 of Nauru consists of three persons appointed by the Cabinet, of whom one shall be chairman, one shall be an actuary or a person experienced in respect of the investment of moneys and one shall be a person who is a contributor within the meaning of that Ordinance elected by contributors in the manner prescribed by 51
+98.-(1.) Until otherwise provided by law, the Superannuation Board established under the Superannuation Ordinance 1966 of Nauru consists of three persons appointed by the Cabinet, of whom one shall be chairman, one shall be an actuary or a person experienced in respect of the investment of moneys and one shall be a person who is a contributor within the meaning of that Ordinance elected by contributors in the manner prescribed by or under law.51
 
-or under law. (2.) Notwithstanding clause (1.) of this Article and until otherwise provided by law, a person who, immediately before this clause comes into effect, is a member of the Superannuation Board referred to in clause (1.) of this Article, shall continue to be a member of the Superannuation Board. 52
+(2.) Notwithstanding clause (1.) of this Article and until otherwise provided by law, a person who, immediately before this clause comes into effect, is a member of the Superannuation Board referred to in clause (1.) of this Article, shall continue to be a member of the Superannuation Board.52
 #### Transitional provisions relating to the first President and Cabinet 53
 99.-(1.) Notwithstanding anything in Part III of this Constitution, the first President shall
 
@@ -918,13 +1362,13 @@ ________
 
 ### First Schedule
 
+Article 18.
+
 #### Oath of member of Cabinet 55
 
 I, ........... swear by Almighty God that I will faithfully carry out my duties as a member of the Cabinet and that I will not improperly reveal any matters of which I have become aware by reason of my membership of the Cabinet. So help me God.
 
 ### Second Schedule
-
-Article 18.
 
 Article 28.
 
@@ -941,31 +1385,10 @@ Boe | Boe | 2
 
 [[START OF PAGE 54]]
 
-Buada
-
-Buada
-
-2
-
-Meneng
-
-Meneng
-
-2
-
-Ubenide
-
-Baiti, Denigomodu, Nibok
-
-Uaboe
-
-4
-
-Yaren
-
-Yaren
-
-2
+Buada | Buada | 2
+Meneng | Meneng | 2
+Ubenide | Baiti, Denigomodu, Nibok Uaboe | 4
+Yaren | Yaren | 2
 
 ### Third Schedule
 
