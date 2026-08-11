@@ -12,7 +12,7 @@ Vilnius
 
 The Law of the Republic of Lithuania on Education shall be amended and set forth to read as follows:
 
-'
+“
 
 REPUBLIC OF LITHUANIA
 
@@ -60,31 +60,31 @@ of education.
 
 2
 
-- Accreditation -  the  procedure  in  the  course  whereof  an  authorized  institution recognises that an evaluated education programme, education provider meets the set requirements.
+1. Accreditation – the procedure in the course whereof an authorized institution recognises that an evaluated education programme, education provider meets the set requirements.
 
-- General education - primary education, basic education, secondary education.
+2. General education – primary education, basic education, secondary education.
 
-- Formal  education -  education  implemented  according  to  education  programmes approved and registered in accordance with a procedure laid down by legal acts of the Republic of Lithuania, the completion of which results in the attainment of primary, basic, secondary or higher education and/or a qualification, or in the recognition of a competence necessary to carry out work or fulfil a function regulated by the law.
+3. Formal education – education implemented according to education programmes approved and registered in accordance with a procedure laid down by legal acts of the Republic of Lithuania, the completion of which results in the attainment of primary, basic, secondary or higher education and/or a qualification, or in the recognition of a competence necessary to carry out work or fulfil a function regulated by the law.
 
-- Education  level -  personal  development,  competence,  qualification  of  a  particular level  recognised  in  accordance  with  the  procedure  laid  down  by  legal  acts  of  the  Republic  of Lithuania.
+4. Education level – personal development, competence, qualification of a particular level recognised in accordance with the procedure laid down by legal acts of the Republic of Lithuania.
 
-- Competence -  capability to perform a certain activity on the basis of the entirety of acquired knowledge, abilities, skills and values.
+5. Competence – capability to perform a certain activity on the basis of the entirety of acquired knowledge, abilities, skills and values.
 
-- Qualification - the totality, recognised in accordance with the procedure laid down by legal  acts  of  the  Republic  of  Lithuania,  of  person's  possessed  competences  or  professional experience and possessed competences necessary for a certain activity.
+6. Qualification – the totality, recognised in accordance with the procedure laid down by legal acts of the Republic of Lithuania, of person’s possessed competences or professional experience and possessed competences necessary for a certain activity.
 
-- Freelance teacher - a natural person engaged in activity of an education provider on an individual basis.
+7. Freelance teacher – a natural person engaged in activity of an education provider on an individual basis.
 
-- Lithuanian Qualifications Framework -  a  system of levels of qualifications set in the Republic of Lithuania and based on the competences necessary for person's activities.
+8. Lithuanian Qualifications Framework – a system of levels of qualifications set in the Republic of Lithuania and based on the competences necessary for person’s activities.
 
-- Lithuanian studies - teaching of the Lithuanian language, history, culture of the State of Lithuania and introduction into the present of Lithuania as well as creation of conditions for self-expression in the Lithuanian language in a foreign state.
+9. Lithuanian studies – teaching of the Lithuanian language, history, culture of the State of Lithuania and introduction into the present of Lithuania as well as creation of conditions for self-expression in the Lithuanian language in a foreign state.
 
-- School -  a  legal  person,  a  branch  of  a  legal  person  or  any  other  organisation  of  a Member State, established in the Republic of Lithuania according to the procedure laid down by legal acts, whose main activity is formal and/or non-formal education.
+10. School – a legal person, a branch of a legal person or any other organisation of a Member State, established in the Republic of Lithuania according to the procedure laid down by legal acts, whose main activity is formal and/or non-formal education.
 
-- School  community -  the  teachers,  learners,  learners'  parents  (guardians,  curators) and other persons in a single school, connected by teaching relationships existing at that school and by common educational goals.
+11. School community – the teachers, learners, learners’ parents (guardians, curators) and other persons in a single school, connected by teaching relationships existing at that school and by common educational goals.
 
-- School maintenance funds - funds indirectly associated with the education process for  the  school's  physical  plant  management  and  operation,  learners'  transportation  and  funds allocated to cover other maintenance costs.
+12. School maintenance funds – funds indirectly associated with the education process for the school's physical plant management and operation, learners’ transportation and funds allocated to cover other maintenance costs.
 
-- Teaching funds -  funds directly necessary in respect of the education process, i.e. funds allocated for salaries in accordance with the Teaching Plan, in-service training of teachers
+13. Teaching funds – funds directly necessary in respect of the education process, i.e. funds allocated for salaries in accordance with the Teaching Plan, in-service training of teachers
 
 [[END OF PAGE 2]]
 
@@ -94,29 +94,29 @@ of education.
 
 and other persons involved in the training process, textbooks and other teaching aids as well as the  organisation  and  administration  of  the  training  process,  the  school  library,  psychological, special-pedagogical,  special  and  social-pedagogical  assistance,  vocational  counselling,  health improvement activities carried out by schools and other teaching needs.
 
-- Form of learning -  mode  of  the  organisation  of  learning  offered  by  an  education provider and chosen by a learner.
+14. Form of learning – mode of the organisation of learning offered by an education provider and chosen by a learner.
 
-- Learner - a person who engages in learning.
+15. Learner – a person who engages in learning.
 
-- Teacher -  a  person  who  educates  learners  according  to  formal  or  non-formal education programmes.
+16. Teacher – a person who educates learners according to formal or non-formal education programmes.
 
-- Non-formal education - education according to a variety of programmes geared to satisfy education needs, provide in-service training and acquire an additional competence, with the exception of formal education programmes.
+17. Non-formal education – education according to a variety of programmes geared to satisfy education needs, provide in-service training and acquire an additional competence, with the exception of formal education programmes.
 
-- Non-state school -  a  school  the  owner  or  one  of  stakeholders  of  which  is  not  the State or a municipality.
+18. Non-state school – a school the owner or one of stakeholders of which is not the State or a municipality.
 
-- Pedagogue -  a  person  who  has  acquired  the  higher  education  (the  post-secondary education acquired before 2009 or the specialized-secondary education acquired before 1995) as well as the qualification of a pedagogue.
+19. Pedagogue – a person who has acquired the higher education (the post-secondary education acquired before 2009 or the specialized-secondary education acquired before 1995) as well as the qualification of a pedagogue.
 
-- Qualification of  a  pedagogue -  the  totality,  recognised  in  accordance  with  the procedure  laid  down  by  legal  acts  of  the  Republic  of  Lithuania,  of  person's  possessed competences  or  professional  experience  and  possessed  competences  necessary  for  training learners.
+20. Qualification of a pedagogue – the totality, recognised in accordance with the procedure laid down by legal acts of the Republic of Lithuania, of person’s possessed competences or professional experience and possessed competences necessary for training learners.
 
-- Compulsory education - compulsory State-guaranteed education until the age of 16 of citizens of the Republic of Lithuania residing in the Republic of Lithuania and aliens having the right of permanent or temporary residence in the Republic of Lithuania according to primary and basic education curricula.
+21. Compulsory education – compulsory State-guaranteed education until the age of 16 of citizens of the Republic of Lithuania residing in the Republic of Lithuania and aliens having the right of permanent or temporary residence in the Republic of Lithuania according to primary and basic education curricula.
 
-- Informal education - independent learning based on information a person obtains from various sources and his practical experience.
+22. Informal education – independent learning based on information a person obtains from various sources and his practical experience.
 
-- Municipal  school -  a  school  the  owner  or  one  of  stakeholders  of  which  is  a municipality (where the State does not participate in the capacity of stakeholder).
+23. Municipal school – a school the owner or one of stakeholders of which is a municipality (where the State does not participate in the capacity of stakeholder).
 
-- Special  educational  needs -  need  for  assistance  and  services  in  the  course  of  the training process, arising from person's exceptional capabilities, congenital or acquired disorders, adverse environmental factors.
+24. Special educational needs – need for assistance and services in the course of the training process, arising from person’s exceptional capabilities, congenital or acquired disorders, adverse environmental factors.
 
-- Education -  training  and  the  provision  of  education;  informal  education;  also  the totality  of  activities  of  learners,  their  parents  (guardians,  curators),  educational  institutions, teachers and other education providers, educational assistance specialists.
+25. Education – training and the provision of education; informal education; also the totality of activities of learners, their parents (guardians, curators), educational institutions, teachers and other education providers, educational assistance specialists.
 
 [[END OF PAGE 3]]
 
@@ -124,33 +124,33 @@ and other persons involved in the training process, textbooks and other teaching
 
 4
 
-- Educational institution - a school or an educational assistance establishment.
+26. Educational institution – a school or an educational assistance establishment.
 
-- Educational assistance - assistance provided by specialists to learners, their parents (guardians,  curators),  teachers  and  education  providers,  the  aim  of  which  is  to  increase effectiveness of education.
+27. Educational assistance – assistance provided by specialists to learners, their parents (guardians, curators), teachers and education providers, the aim of which is to increase effectiveness of education.
 
-- Educational assistance establishment - an establishment the main activity of which is the provision of educational assistance.
+28. Educational assistance establishment – an establishment the main activity of which is the provision of educational assistance.
 
-- Education programme - description of pre-defined formal or non-formal education endeavours aimed at the achievement of a set result.
+29. Education programme – description of pre-defined formal or non-formal education endeavours aimed at the achievement of a set result.
 
-- Education programme module - a pre-defined and independent part of an education programme.
+30. Education programme module – a pre-defined and independent part of an education programme.
 
-- Education monitoring - continuous analysis, assessment and forecasting of the state of and changes in education.
+31. Education monitoring – continuous analysis, assessment and forecasting of the state of and changes in education.
 
-- Education provider - a school, a freelance teacher or any other education provider (establishment, enterprise, organisation as well as a legal person or any other organisation of a Member State, or their branches established in the Republic of Lithuania whose main activity is other  than  education)  that  is  entitled  to  provide  educational  services  in  accordance  with  the procedure laid down by laws of the Republic of Lithuania.
+32. Education provider – a school, a freelance teacher or any other education provider (establishment, enterprise, organisation as well as a legal person or any other organisation of a Member State, or their branches established in the Republic of Lithuania whose main activity is other than education) that is entitled to provide educational services in accordance with the procedure laid down by laws of the Republic of Lithuania.
 
-- Training -the cultivation of moral, intellectual, physical capacity through communication and teaching.
+33. Training – the cultivation of moral, intellectual, physical capacity through communication and teaching.
 
-- Member  State shall  mean  any  Member  State  of  the  European  Union  or  another country of the European Economic Area.
+34. Member State shall mean any Member State of the European Union or another country of the European Economic Area.
 
-- State school - a school the owner or one of stakeholders of which is the State.
+35. State school – a school the owner or one of stakeholders of which is the State.
 
-- Universally available education - education guaranteed by the State to all citizens of the Republic of Lithuania and aliens having the right of permanent or temporary residence in the Republic of Lithuania.
+36. Universally available education – education guaranteed by the State to all citizens of the Republic of Lithuania and aliens having the right of permanent or temporary residence in the Republic of Lithuania.
 
 ##### Article 3. Goals of education
 
 The goals of education shall be as follows:
 
-- to develop a person's values enabling him to become an honest, knowledge-seeking, independent, responsible and patriotically-minded human being; to cultivate the communication skills important in modern life; to assist in internalising the information culture characteristic of the knowledge society, by providing for command of the state language, foreign languages and the native language, information literacy as well as modern social competence and the skills to shape one's own life independently and to live a healthy lifestyle;
+1) to develop a person's values enabling him to become an honest, knowledge-seeking, independent, responsible and patriotically-minded human being; to cultivate the communication skills important in modern life; to assist in internalising the information culture characteristic of the knowledge society, by providing for command of the state language, foreign languages and the native language, information literacy as well as modern social competence and the skills to shape one's own life independently and to live a healthy lifestyle;
 
 [[END OF PAGE 4]]
 
@@ -158,7 +158,7 @@ The goals of education shall be as follows:
 
 5
 
-2)  to  identify  a  person's  creative  abilities  and  upon  this  basis  to  help  him  acquire competences  and/or  a  qualification  conforming  to  contemporary  culture  and  technology  and assisting  him  to  get  established  and  successfully  compete  in  the  shifting  labour  market;  to convey  the  basics  of  technological,  economic  and  business  culture  necessary  to  ensure  the progress,  competitiveness  and  sustainable  development  of  the  country's  economy;  to  create conditions for continually satisfying cognitive needs as well as improving oneself through lifelong education;
+2)  to  identify  a  person's  creative  abilities  and  upon  this  basis  to  help  him  acquire competences  and/or  a  qualification  conforming  to  contemporary  culture  and  technology  and assisting  him  to  get  established  and  successfully  compete  in  the  shifting  labour  market;  to convey  the  basics  of  technological,  economic  and  business  culture  necessary  to  ensure  the progress,  competitiveness  and  sustainable  development  of  the  country's  economy;  to  create conditions for continually satisfying cognitive needs as well as improving oneself through life-long education;
 
 3) to reinforce the capability of society to ensure sustainable development of the country's economic, environmental and human resources, internal and external economic competitiveness, national security and the advancement of a democratic state;
 
@@ -192,7 +192,9 @@ The principles upon which the educational system is based shall be as follows:
 
 4) continuity - the educational system is flexible, open, based on interaction of various forms and institutions; it creates conditions for each individual to engage in life-long learning.
 
-#### CHAPTER TWO STRUCTURE OF THE EDUCATION SYSTEM
+#### CHAPTER TWO
+
+#### STRUCTURE OF THE EDUCATION SYSTEM
 
 ##### Article 6. Education system
 
@@ -204,7 +206,7 @@ The education system of Lithuania shall comprise the following:
 
 3) informal education;
 
-4)  educational  assistance  (vocational  guidance,  informational,  psychological,  sociopedagogical,  special  pedagogical  and  special  assistance  of  education,  healthcare  at  school, consultation, in-service training of teachers and other assistance).
+4)  educational  assistance  (vocational  guidance,  informational,  psychological,  socio-pedagogical,  special  pedagogical  and  special  assistance  of  education,  healthcare  at  school, consultation, in-service training of teachers and other assistance).
 
 ##### Article 7. Pre-school education
 
@@ -220,7 +222,7 @@ The education system of Lithuania shall comprise the following:
 
 3. Pre-school education shall be provided to a child from his birth until the commencement of provision of pre-primary or primary education.
 
-4.  The  pre-school  curriculum,  prepared  in  compliance  with  the  criteria  of  pre-school curricula  approved  by  the  Minister  of  Education  and  Science,  shall  be  implemented  by  preschool  education  schools,  general  education  schools,  freelance  teachers  or  other  education providers.
+4.  The  pre-school  curriculum,  prepared  in  compliance  with  the  criteria  of  pre-school curricula  approved  by  the  Minister  of  Education  and  Science,  shall  be  implemented  by  pre-school  education  schools,  general  education  schools,  freelance  teachers  or  other  education providers.
 
 5.  A  pre-school  age  child  and  his  parents  (guardians)  shall  be  provided  complex educational assistance, social support, healthcare services in accordance with the procedure laid down by the Minister of Education and Science, the Minister of Social Security and Labour and the Minister of Health.
 
@@ -300,7 +302,7 @@ The education system of Lithuania shall comprise the following:
 
 5. A person who has completed a vocational training programme and/or has received in a prescribed  manner  the  assessment  of  the  competences  he  acquired  shall  be  awarded  the qualification of an appropriate level.
 
-6. Vocational education and training shall be set by the Law of the Republic of Lithuania on Vocational Education (hereinafter referred to as the 'Law on Vocational Education').
+6. Vocational education and training shall be set by the Law of the Republic of Lithuania on Vocational Education (hereinafter referred to as the “Law on Vocational Education”).
 
 ##### Article 13. Higher education studies
 
@@ -346,7 +348,7 @@ The education system of Lithuania shall comprise the following:
 
 1. The purpose of non-formal education of children shall be to satisfy learners' cognition, development and self-expression needs, and to help them become active members of society; the purpose of teaching supplementing the formal education - to systematically increase knowledge in  a  certain  field  according  to  long-term  programmes,  to  strengthen  abilities  and  skills  and  to provide a person with additional subject-related competences.
 
-2. Children's non-formal education programmes shall be implemented by schools of nonformal  education  of  children  and  other  educational  institutions,  freelance  teachers  and  other education providers. Non-formal education of children shall also include the teaching supplementing the formal education, which is carried out by schools of music, art, other arts, and sports. The Minister of Education and Science shall lay down general criteria for non-formal education programmes financed from state or municipal budgets.
+2. Children's non-formal education programmes shall be implemented by schools of non-formal  education  of  children  and  other  educational  institutions,  freelance  teachers  and  other education providers. Non-formal education of children shall also include the teaching supplementing the formal education, which is carried out by schools of music, art, other arts, and sports. The Minister of Education and Science shall lay down general criteria for non-formal education programmes financed from state or municipal budgets.
 
 3. Schools implementing children's non-formal education and formal education programmes shall be attributed to formal education schools of an appropriate group and/or type. Individuals who seek to attain a higher education level in the area of music, art, arts, sports must, in  addition  to  secondary  education,  complete  a  relevant  non-formal  education  programme confirmed by the Minister of Education and Science, if such a requirement is established in the description of the admission to a higher education school.
 
@@ -356,7 +358,7 @@ The education system of Lithuania shall comprise the following:
 
 13
 
-4. During school vacations children's non-formal education programmes shall be carried out  in  accordance  with  the  procedure  laid  down  by  the  institution  (the  meeting  of  the participants) implementing the rights and duties of the owner of a state and a municipal school a budgetary and public establishment, or by the owner (the meeting of the participants) of other schools or by the education provider.
+4. During school vacations children's non-formal education programmes shall be carried out  in  accordance  with  the  procedure  laid  down  by  the  institution  (the  meeting  of  the participants) implementing the rights and duties of the owner of a state and a municipal school – a budgetary and public establishment, or by the owner (the meeting of the participants) of other schools or by the education provider.
 
 5. A children's non-formal education programme may be recognised as part of a formal education programme (except study programmes) in accordance with the procedure laid down by the Minister of Education and Science or as part of a study programme - in accordance with the procedure laid down by a higher education institution.
 
@@ -376,7 +378,7 @@ The education system of Lithuania shall comprise the following:
 
 1. The purpose of informal education shall be to provide an individual with possibilities for continuous independent learning supported by the surrounding information space (libraries, mass media, internet, museums, etc.) and life experience gained from other persons.
 
-2. A competence acquired through informal education may be recognised as a completed part  of  the  formal  education  programme  (except  study  programmes)  in  accordance  with  the procedure laid down by the Minister of Education and Science or as part of a study programme in accordance with the procedure laid down by a higher education institution.
+2. A competence acquired through informal education may be recognised as a completed part  of  the  formal  education  programme  (except  study  programmes)  in  accordance  with  the procedure laid down by the Minister of Education and Science or as part of a study programme - in accordance with the procedure laid down by a higher education institution.
 
 [[END OF PAGE 13]]
 
@@ -412,19 +414,19 @@ The education system of Lithuania shall comprise the following:
 
 ##### Article 20. Social pedagogical assistance
 
-- The purpose of social pedagogical assistance shall be to help the parents (guardians, curators) so that the child's right to education be exercised, to ensure the child's safety at school: to eliminate reasons because of which a child cannot attend the school or avoids attending the school; to return drop-outs to school; to help a child (in co-operation with the parents (guardians, curators)) choose a school according to his mental and physical abilities and to adapt at school.
+1. The purpose of social pedagogical assistance shall be to help the parents (guardians, curators) so that the child's right to education be exercised, to ensure the child's safety at school: to eliminate reasons because of which a child cannot attend the school or avoids attending the school; to return drop-outs to school; to help a child (in co-operation with the parents (guardians, curators)) choose a school according to his mental and physical abilities and to adapt at school.
 
-- When providing social pedagogical assistance to learners, the school shall co-operate with social assistance services, healthcare institutions and law enforcement institutions and shall provide consultations to students' parents (guardians, curators) and teachers.
+2. When providing social pedagogical assistance to learners, the school shall co-operate with social assistance services, healthcare institutions and law enforcement institutions and shall provide consultations to students' parents (guardians, curators) and teachers.
 
-- The procedure for providing social pedagogical assistance to a child and a learner shall be laid down by the Minister of Education and Science.
+3. The procedure for providing social pedagogical assistance to a child and a learner shall be laid down by the Minister of Education and Science.
 
 ##### Article 21. Special-Pedagogical Assistance and Special Assistance
 
-- The  purpose  of  special-pedagogical  assistance  and  special  assistance  shall  be  to increase the effectiveness of learning for individuals with special educational needs.
+1. The  purpose  of  special-pedagogical  assistance  and  special  assistance  shall  be  to increase the effectiveness of learning for individuals with special educational needs.
 
-- Special-pedagogical assistance to persons under 21 years of age shall be provided by special  pedagogues  of  pedagogical-psychological  services,  schools  according  to  the  procedure established by the Minister of Education and Science.
+2. Special-pedagogical assistance to persons under 21 years of age shall be provided by special  pedagogues  of  pedagogical-psychological  services,  schools  according  to  the  procedure established by the Minister of Education and Science.
 
-- Special assistance shall be provided at school to individuals in need of such assistance. He shall be provided with services of translating the verbal language into the sign language, text reading and summarizing, which increase education accessibility.   The procedure for providing special  assistance  at  schools  (except  higher  education  institutions)  shall  be  laid  down  by  the Minister of Education and Science. Special assistance shall be provided at a higher education institution in accordance with the procedure laid down by the higher education institution.
+3. Special assistance shall be provided at school to individuals in need of such assistance. He shall be provided with services of translating the verbal language into the sign language, text reading and summarizing, which increase education accessibility.   The procedure for providing special  assistance  at  schools  (except  higher  education  institutions)  shall  be  laid  down  by  the Minister of Education and Science. Special assistance shall be provided at a higher education institution in accordance with the procedure laid down by the higher education institution.
 
 [[END OF PAGE 15]]
 
@@ -436,25 +438,25 @@ The education system of Lithuania shall comprise the following:
 
 ##### Article 22. Healthcare in schools
 
-- The purpose of healthcare in schools shall be to protect and improve health of learners, by actively cooperating with their parents (guardians, curators).
+1. The purpose of healthcare in schools shall be to protect and improve health of learners, by actively cooperating with their parents (guardians, curators).
 
-- Healthcare  in  schools  shall  comprise  public  healthcare  activities  carried  out  by specialists  of  municipal  public  healthcare  institutions  or  healthcare  specialists  working  in schools.
+2. Healthcare  in  schools  shall  comprise  public  healthcare  activities  carried  out  by specialists  of  municipal  public  healthcare  institutions  or  healthcare  specialists  working  in schools.
 
-- The procedure for organising the public healthcare in schools (with the exception for higher  education  institutions)  shall  be  defined  by  the  Minister  of  Health  together  with  the Minister  of  Education  and  Science.    Schools  may  implement  only  those  learners'  health promotion  programmes  which  are  approved  by  the  Ministry  of  Education  and  Science,  other ministries or municipal institutions.
+3. The procedure for organising the public healthcare in schools (with the exception for higher  education  institutions)  shall  be  defined  by  the  Minister  of  Health  together  with  the Minister  of  Education  and  Science.    Schools  may  implement  only  those  learners'  health promotion  programmes  which  are  approved  by  the  Ministry  of  Education  and  Science,  other ministries or municipal institutions.
 
-- Personal healthcare shall be executed in schools designated for learners with special educational needs in accordance with the procedure laid down by legal acts.
+4. Personal healthcare shall be executed in schools designated for learners with special educational needs in accordance with the procedure laid down by legal acts.
 
-- The  State  shall  encourage  and support the initiatives of legal  and natural persons as well  as  legal  persons  or  other  organisations,  or  their  branches  established  in  a  member  state, which help to protect and improve health of learners in Lithuania.
+5. The  State  shall  encourage  and support the initiatives of legal  and natural persons as well  as  legal  persons  or  other  organisations,  or  their  branches  established  in  a  member  state, which help to protect and improve health of learners in Lithuania.
 
-- Schools  shall  develop  and  implement  health  improvement  programmes.    Such programmes may be supported with funds of state and/or municipal target programmes on public health support, and other funds.
+6. Schools  shall  develop  and  implement  health  improvement  programmes.    Such programmes may be supported with funds of state and/or municipal target programmes on public health support, and other funds.
 
-- Statistical data about health of learners, health risk factors shall be used when a school evaluates its activity quality as well as for external evaluation and monitoring.
+7. Statistical data about health of learners, health risk factors shall be used when a school evaluates its activity quality as well as for external evaluation and monitoring.
 
 ##### Article 23. Assistance to the school and the teacher
 
-- The  purpose  of  assistance  to  the  school  and  the  teacher  shall  be  to  provide informational,  expert,  consulting  and  upskilling  assistance  which  increases  the  efficiency  of education and promotes school development and teachers' professional growth.
+1. The  purpose  of  assistance  to  the  school  and  the  teacher  shall  be  to  provide informational,  expert,  consulting  and  upskilling  assistance  which  increases  the  efficiency  of education and promotes school development and teachers' professional growth.
 
-- The  school  and  the  teacher  shall  be  helped  to  improve  their  activities,  seek  a  better quality of education through consulting, executing by the school its activity quality and external evaluation as well as through creating conditions for in-service training.
+2. The  school  and  the  teacher  shall  be  helped  to  improve  their  activities,  seek  a  better quality of education through consulting, executing by the school its activity quality and external evaluation as well as through creating conditions for in-service training.
 
 [[END OF PAGE 16]]
 
@@ -468,7 +470,9 @@ The education system of Lithuania shall comprise the following:
 
 5. In-service training programmes shall be implemented by accredited in-service training institutions  in  accordance  with  the  procedure  laid  down  by  the  Minister  of  Education  and Science.
 
-#### CHAPTER THREE ACCESSIBILITY AND QUALITY OF EDUCATION
+#### CHAPTER THREE
+
+#### ACCESSIBILITY AND QUALITY OF EDUCATION
 
 ##### Article 24. The Right and Duty of Lithuanian Residents to Study
 
@@ -508,7 +512,7 @@ The education system of Lithuania shall comprise the following:
 
 1. The purpose of provision of information about education shall be to furnish a person with  information  that  would  help  him  choose  education,  an  education  provider  as  well  as  the aspired  to  attained  education  level  and  profession  in  line  with  his  interests,  dispositions  and abilities.
 
-2.  A  school  shall  make  public  the  information  about  programmes  of  formal  and  nonformal  education  implemented  at  schools,  choices  offered,  admissions  terms,  paid  services, teachers' qualifications, major school audit findings, traditions and achievements of the school community.
+2.  A  school  shall  make  public  the  information  about  programmes  of  formal  and  non-formal  education  implemented  at  schools,  choices  offered,  admissions  terms,  paid  services, teachers' qualifications, major school audit findings, traditions and achievements of the school community.
 
 [[END OF PAGE 18]]
 
@@ -516,31 +520,31 @@ The education system of Lithuania shall comprise the following:
 
 19
 
-- Vocational  information  and  vocational  guidance  services  shall  include  provision  of information  about opportunities afforded by vocational training programmes, higher education study  programmes,  possible  studying  abroad,  employment  prospects  on  the  labour  market  of Lithuania, as well as consulting. These services shall be provided in schools, information centres, consulting  services  and  labour  exchanges  in  compliance  with  requirements  laid  down  by  the Minister of Education and Science and the Minister of Social Security and Labour.
+3. Vocational  information  and  vocational  guidance  services  shall  include  provision  of information  about opportunities afforded by vocational training programmes, higher education study  programmes,  possible  studying  abroad,  employment  prospects  on  the  labour  market  of Lithuania, as well as consulting. These services shall be provided in schools, information centres, consulting  services  and  labour  exchanges  in  compliance  with  requirements  laid  down  by  the Minister of Education and Science and the Minister of Social Security and Labour.
 
 ##### Article 27. Choice of education programmes
 
-- When  a  person  chooses  an  education  programme,  he  shall  observe  the  sequence  of programmes in Articles 7 through 13 of this Law.
+1. When  a  person  chooses  an  education  programme,  he  shall  observe  the  sequence  of programmes in Articles 7 through 13 of this Law.
 
-- A  learner  shall  enjoy  the  possibility  of  choosing  education  programmes,  different versions thereof, modules of education programmes and subject courses according to his abilities and dispositions. A learner shall also choose a school implementing an education programme, any other education provider, a form of learning. The Minister of Education and Science shall approve descriptions of forms of learning pursuant  to formal education programmes (with the exception  of  higher  education  study  programmes)  and  the  procedure  for  organising  teaching according to forms of learning.
+2. A  learner  shall  enjoy  the  possibility  of  choosing  education  programmes,  different versions thereof, modules of education programmes and subject courses according to his abilities and dispositions. A learner shall also choose a school implementing an education programme, any other education provider, a form of learning. The Minister of Education and Science shall approve descriptions of forms of learning pursuant  to formal education programmes (with the exception  of  higher  education  study  programmes)  and  the  procedure  for  organising  teaching according to forms of learning.
 
-- Apart from compulsory subjects and different programmes (courses) thereof, a learner may study elective subjects offered by the school.
+3. Apart from compulsory subjects and different programmes (courses) thereof, a learner may study elective subjects offered by the school.
 
-- An individual shall be free to pursue non-formal education programmes and informal education.
+4. An individual shall be free to pursue non-formal education programmes and informal education.
 
 ##### Article 28. The network of education providers
 
-- The purpose of the network of education providers shall be to ensure accessibility of compulsory  and  universally  available  education,  its  variety,  and  the  possibility  of  life-long learning to all citizens of the Republic of Lithuania and aliens having the right of permanent or temporary residence in the Republic of Lithuania.
+1. The purpose of the network of education providers shall be to ensure accessibility of compulsory  and  universally  available  education,  its  variety,  and  the  possibility  of  life-long learning to all citizens of the Republic of Lithuania and aliens having the right of permanent or temporary residence in the Republic of Lithuania.
 
-- The  network  of  education  providers  shall  encompass  state,  municipal  and  non-state general education, vocational, higher education schools, non-formal education schools, freelance teachers and other education providers.
+2. The  network  of  education  providers  shall  encompass  state,  municipal  and  non-state general education, vocational, higher education schools, non-formal education schools, freelance teachers and other education providers.
 
-- The network of education providers shall be created through:
+3. The network of education providers shall be created through:
 
-- developing education programmes and furthering education variety;
+1) developing education programmes and furthering education variety;
 
-- co-ordinating the education programmes that are being provided;
+2) co-ordinating the education programmes that are being provided;
 
-- founding,  reorganising,  liquidating  and  transforming  schools  and  carrying  out  the transformation of school structure.
+3) founding,  reorganising,  liquidating  and  transforming  schools  and  carrying  out  the transformation of school structure.
 
 [[END OF PAGE 19]]
 
@@ -548,7 +552,7 @@ The education system of Lithuania shall comprise the following:
 
 20
 
-4.  The  Minister  of  Education  and  Science,  together  with municipalities and  the Government,  shall  ensure  the  sufficient  network  of  state  and  municipal  vocational  training schools and general education schools designated for country's (region's) learners with special educational needs: The Government shall ensure the network of state colleges, and the Seimas the network of state universities.
+4.  The  Minister  of  Education  and  Science,  together  with municipalities and  the Government,  shall  ensure  the  sufficient  network  of  state  and  municipal  vocational  training schools and general education schools designated for country's (region's) learners with special educational needs: The Government shall ensure the network of state colleges, and the Seimas - the network of state universities.
 
 5.  When  creating  the  network  of  state  and  municipal  schools  in  accordance  with  the procedure laid down by legal acts, residents or their groups must be consulted with in order to defend public interest.
 
@@ -578,19 +582,19 @@ The education system of Lithuania shall comprise the following:
 
 4. Persons with major and severe special educational needs shall be admitted to a state and a municipal pre-school education school and general education school designated to educate learners with special educational needs, to a group of a pre-school education school and a class of a general education school designated to educate learners with special educational needs.
 
-5.  The  procedure  of  admission  to  a  non-state  school  implementing  formal  and/or  nonformal education programmes shall be laid down by the owner (the meeting of the participants), based on requirements for the admission to the respective programmes as laid down by this Law.
+5.  The  procedure  of  admission  to  a  non-state  school  implementing  formal  and/or  non-formal education programmes shall be laid down by the owner (the meeting of the participants), based on requirements for the admission to the respective programmes as laid down by this Law.
 
 6.  The  procedure  of  admission  to  a  state  and  a  municipal  pre-school  education  school, school providing the teaching supplementing the formal education and a children's non-formal education  school  shall  be  laid  down  by  the  institution  exercising  the  rights  and  duties  of  the owner (the meeting of the participants).
 
 7.  Admission  to  higher  education  institutions  shall  be  defined  by  the  Law  on  Higher Education and Research.
 
-8. Admission  of  persons  to  vocational  training  schools  and  schools  carrying  out  nonformal adult education programmes shall be defined by the Law on Vocational Education and the Law on Non-formal Adult Education.
+8. Admission  of  persons  to  vocational  training  schools  and  schools  carrying  out  non-formal adult education programmes shall be defined by the Law on Vocational Education and the Law on Non-formal Adult Education.
 
 9. A  child  under  16  years  of  age  may  not  terminate  study  in  compulsory  education programmes.
 
 10.  A  school  unable,  for  objective  reasons,  to  guarantee  a  learner  in  compulsory education  programmes  the  psychological,  special-pedagogical,  special  or  social-pedagogical assistance, shall, in co-operation with his parents (guardians, curators) as well as the pedagogical-psychological and Children's Rights Protection Services, propose to him to study in another school .
 
-11. A learner, on the basis and in accordance with the procedure laid down by the Law of the  Republic  of  Lithuania  on  Minimum  and  Moderate  Supervision  of  a  Child  (hereinafter referred to as the 'Law on Minimum and Moderate Supervision of a Child"), may be transferred to  another  school  or  he  may  be  provided  with  another  minimum  or  moderate  supervision measure.
+11. A learner, on the basis and in accordance with the procedure laid down by the Law of the  Republic  of  Lithuania  on  Minimum  and  Moderate  Supervision  of  a  Child  (hereinafter referred to as the “Law on Minimum and Moderate Supervision of a Child"), may be transferred to  another  school  or  he  may  be  provided  with  another  minimum  or  moderate  supervision measure.
 
 [[END OF PAGE 21]]
 
@@ -600,23 +604,23 @@ The education system of Lithuania shall comprise the following:
 
 ##### Article 30. The right to receive instruction in the state language and in the native language
 
-- Every  citizen  of  the  Republic  of  Lithuania  and  foreigners  having  the  right  of permanent or temporary residence in the Republic of Lithuania shall be guaranteed to receive instruction in the state language and to learn the state language.
+1. Every  citizen  of  the  Republic  of  Lithuania  and  foreigners  having  the  right  of permanent or temporary residence in the Republic of Lithuania shall be guaranteed to receive instruction in the state language and to learn the state language.
 
-- At those general education and non-formal education schools the regulations (statutes) of which (respecting the requests of the parents (guardians, curators) and learners) provide for teaching  in  a  national  minority  language  and  fostering  of  the  national  minority's  culture,  the teaching process shall be conducted or certain subjects shall be taught in the national minority language. At such schools the subject of the Lithuanian language shall be a constituent part of the curriculum and the time allotted for teaching it shall not be less than the time allotted for teaching the native language. At such schools:
+2. At those general education and non-formal education schools the regulations (statutes) of which (respecting the requests of the parents (guardians, curators) and learners) provide for teaching  in  a  national  minority  language  and  fostering  of  the  national  minority's  culture,  the teaching process shall be conducted or certain subjects shall be taught in the national minority language. At such schools the subject of the Lithuanian language shall be a constituent part of the curriculum and the time allotted for teaching it shall not be less than the time allotted for teaching the native language. At such schools:
 
-- the primary and basic curricula shall be carried out in the national minority language, while selected curriculum subjects may be taught in the state language upon the request of the parents (guardians, curators);
+1) the primary and basic curricula shall be carried out in the national minority language, while selected curriculum subjects may be taught in the state language upon the request of the parents (guardians, curators);
 
-- the secondary curriculum shall be carried out in the national minority language. The curriculum subjects selected by the learners may be taught in the state language.
+2) the secondary curriculum shall be carried out in the national minority language. The curriculum subjects selected by the learners may be taught in the state language.
 
-- A  state,  municipal  pre-school  education  and  general  education  school  shall  provide opportunities for  learners  belonging  to  national  minorities  to  have  supplementary  study  of  the native language, provided that there is a real need, a specialist of that language is available and the education process is organised in another teaching language.
+3. A  state,  municipal  pre-school  education  and  general  education  school  shall  provide opportunities for  learners  belonging  to  national  minorities  to  have  supplementary  study  of  the native language, provided that there is a real need, a specialist of that language is available and the education process is organised in another teaching language.
 
-- A person who belongs to a national minority may study his native language at a school that implements non-formal education programmes or with another education provider.
+4. A person who belongs to a national minority may study his native language at a school that implements non-formal education programmes or with another education provider.
 
-- The children of a person having the right of permanent or temporary residence in the Republic of Lithuania shall be provided with the opportunity of learning the state language, of receiving instruction in the state language and, where possible, of learning their native language.
+5. The children of a person having the right of permanent or temporary residence in the Republic of Lithuania shall be provided with the opportunity of learning the state language, of receiving instruction in the state language and, where possible, of learning their native language.
 
-- A deaf person in a pre-school education and general education schools designated for learners  with  special  educational  needs  shall  be  provided  with  the  opportunity  of  learning  the native (sign) language.
+6. A deaf person in a pre-school education and general education schools designated for learners  with  special  educational  needs  shall  be  provided  with  the  opportunity  of  learning  the native (sign) language.
 
-- All schools that provide general education must ensure command of the state language in compliance with the general programmes approved by the Minister of Education and Science.
+7. All schools that provide general education must ensure command of the state language in compliance with the general programmes approved by the Minister of Education and Science.
 
 [[END OF PAGE 22]]
 
@@ -652,7 +656,7 @@ The education system of Lithuania shall comprise the following:
 
 1.  The employer shall effect conditions for a working person to study according to the procedure established by laws and other legal acts.
 
-- Education providers shall create conditions for a working person to study in various forms of education.
+2. Education providers shall create conditions for a working person to study in various forms of education.
 
 ##### Article 33. Accessibility of Education to Socially Excluded Persons
 
@@ -674,7 +678,7 @@ The education system of Lithuania shall comprise the following:
 
 25
 
-3. A municipality in the territory of which learners with special educational needs reside shall take care of the accessibility of such learners to education.  Accessibility of education shall be ensured by adapting the school's environment, by providing psychological, specialpedagogical,  special  and  social-pedagogical  assistance,  by  supplying  with  technical  aids  at schools and special teaching aids, also in other ways prescribed in laws.
+3. A municipality in the territory of which learners with special educational needs reside shall take care of the accessibility of such learners to education.  Accessibility of education shall be ensured by adapting the school's environment, by providing psychological, special-pedagogical,  special  and  social-pedagogical  assistance,  by  supplying  with  technical  aids  at schools and special teaching aids, also in other ways prescribed in laws.
 
 ##### Article 35. Accessibility of Education to Persons with Limited Mobility
 
@@ -686,7 +690,7 @@ The education system of Lithuania shall comprise the following:
 
 ##### Article 36. Transportation, dormitories, meal service
 
-1. Public transport shall be used to bring learners to schools that implement a respective curriculum, by way of the route specified in the learner's identification certificate, as established in the Law of the Republic of Lithuania on Transport Privileges (hereinafter referred to as the 'Law on Transport Privileges"); school buses or other transport may also be used. Learners who study according to pre-primary and general education curricula and who live in villages, towns located more than three kilometres away from the school must be transported to and from school. Learners of pre-primary education and learners of grades 1-8 shall be transported to the nearest school implementing a respective curriculum.
+1. Public transport shall be used to bring learners to schools that implement a respective curriculum, by way of the route specified in the learner's identification certificate, as established in the Law of the Republic of Lithuania on Transport Privileges (hereinafter referred to as the “Law on Transport Privileges"); school buses or other transport may also be used. Learners who study according to pre-primary and general education curricula and who live in villages, towns located more than three kilometres away from the school must be transported to and from school. Learners of pre-primary education and learners of grades 1-8 shall be transported to the nearest school implementing a respective curriculum.
 
 2. The institution exercising the rights and duties of the owner of a state and a municipal school (the meeting of the participants) shall organise the transportation to and from school of persons with special educational needs who are unable to travel to the general education school on  their  own  (i.e.  are  unable  to  walk  unassisted  or  are  unsafe  in  the  street  due  to  major disorders);  the  transportation  to  and  from  other  schools  shall  be  organised  by  the  owner  (the meeting of the participants) in accordance with the procedure and in the cases laid down by him.
 
@@ -695,6 +699,8 @@ The education system of Lithuania shall comprise the following:
 [[START OF PAGE 26]]
 
 26
+
+disorders); the transportation to and from other schools shall be organised by the owner (the meeting of the participants) in accordance with the procedure and in the cases laid down by him.
 
 3.  Full-time  students,  learners  of  vocational  training  schools  which  study  according  to initial  vocational  training  programmes  as  well  as  learners  of  children's  non-formal  education schools shall be transported to schools by local (city) and/or long-distance transport. Privileges related  to  their  transportation  to  and  from  school  shall  be  granted  to  them  and  the  incurred expenses shall be reimbursed in accordance with the procedure and in the cases laid down by the Law on Transport Privileges.
 
@@ -724,7 +730,7 @@ The education system of Lithuania shall comprise the following:
 
 3.  The  conception  of  education  quality  shall  be  developed  by  society,  education participants and education management bodies.  Education management bodies shall initiate and organize public deliberations of education purpose, objectives, ways  and principles of achievement thereof, shall present for consideration the evidences of education status based on research and analysis, shall, within the scope of their competence, legalize agreements and take strategic decisions.
 
-4.  In  order  to  improve  education  quality  an  education  monitoring,  research,  selfevaluation  and  external  evaluation  of  activities  of  schools,  performance  review  of  school principals and teachers, evaluation of learning achievements shall be carried out.
+4. In order to improve education quality an education monitoring, research, self-evaluation and external evaluation of activities of schools, performance review of school principals and teachers, evaluation of learning achievements shall be carried out.
 
 5. Fields of self-evaluation of activities of a school (except higher education institutions), a method of carrying-out of the self-evaluation shall be chosen by the school council. It  shall analyze self-evaluation results and take decisions regarding the improvement of activities.
 
@@ -800,25 +806,25 @@ The education system of Lithuania shall comprise the following:
 
 ##### Article 41. Groups and types of schools
 
-- Formal education schools shall be divided into the following groups:
+1. Formal education schools shall be divided into the following groups:
 
-- general education schools;
+1) general education schools;
 
-- vocational schools;
+2) vocational schools;
 
-- higher education institutions.
+3) higher education institutions.
 
-- The types of general education schools shall be as follows: a primary school, a pregymnasium, a basic school, a secondary school, and a gymnasium.
+2. The types of general education schools shall be as follows: a primary school, a pre-gymnasium, a basic school, a secondary school, and a gymnasium.
 
-- Schools carrying out a primary education curriculum shall be assigned to the type of primary schools.
+3. Schools carrying out a primary education curriculum shall be assigned to the type of primary schools.
 
-- Schools carrying out the first part of a basic education curriculum or the first part of a basic education curriculum and a primary education curriculum shall be assigned to the type of pre-gymnasiums.
+4. Schools carrying out the first part of a basic education curriculum or the first part of a basic education curriculum and a primary education curriculum shall be assigned to the type of pre-gymnasiums.
 
-- Schools carrying out a basic education curriculum or a basic education curriculum and a primary education curriculum shall be assigned to the type of basic schools.
+5. Schools carrying out a basic education curriculum or a basic education curriculum and a primary education curriculum shall be assigned to the type of basic schools.
 
-- Schools  carrying  out  a  secondary  education  curriculum  or  a  secondary  education curriculum  and  a  basic  education  curriculum,  or  a  secondary  education  curriculum,  a  basic education  curriculum  and  a  primary  education  curriculum  shall  be  assigned  to  the  type  of secondary schools.
+6. Schools carrying out a secondary education curriculum or a secondary education curriculum and a basic education curriculum, or a secondary education curriculum, a basic education curriculum and a primary education curriculum shall be assigned to the type of secondary schools.
 
-7. Schools carrying out a secondary education curriculum, accredited in accordance with the procedure laid down by the Minister of Education and Science, as well as the second part of a basic education curriculum shall be assigned to the type of gymnasiums. In individual cases (a school  in  residential  areas  where  there  are  no  other  general  education  schools  carrying  out  a general education curriculum in the Lithuanian language or/and the national minority language, or a general education school assigned, according to the criteria approved by the Government, to the type of a suburban school; a general education school situated in the border area; non-state school;  a  school  designated  for  country's  (region's)  learners  with  special  educational  needs;  a school carrying out a programme of a specialised education field, which requires the consistency of education, and meeting the criteria approved by the Government) a gymnasium may carry out an accredited secondary education curriculum and basic education curriculum or an accredited secondary education curriculum, basic education curriculum and primary education curriculum, on the basis of the provisions of Article 28 of this Law and the Rules for the Development of the Network of Schools Implementing Formal Education Programmes.
+7. Schools carrying out a secondary education curriculum, accredited in accordance with the procedure laid down by the Minister of Education and Science, as well as the second part of a basic education curriculum shall be assigned to the type of gymnasiums. In individual cases (a school in residential areas where there are no other general education schools carrying out a general education curriculum in the Lithuanian language or/and the national minority language, or a general education school assigned, according to the criteria approved by the Government, to the type of a suburban school; a general education school situated in the border area; non-state
 
 [[END OF PAGE 30]]
 
@@ -826,31 +832,33 @@ The education system of Lithuania shall comprise the following:
 
 31
 
-8. General education schools may  carry out vocational training programmes  in accordance with the procedure laid down in Article 43 of this Law.
+school; a school designated for country's (region's) learners with special educational needs; a school carrying out a programme of a specialised education field, which requires the consistency of education, and meeting the criteria approved by the Government) a gymnasium may carry out an accredited secondary education curriculum and basic education curriculum or an accredited secondary education curriculum, basic education curriculum and primary education curriculum, on the basis of the provisions of Article 28 of this Law and the Rules for the Development of the Network of Schools Implementing Formal Education Programmes.
+
+8. General education schools may carry out vocational training programmes in accordance with the procedure laid down in Article 43 of this Law.
 
 9. When meeting different educational needs of learners and taking into consideration the conditions  for  implementation  of  different  education  programmes,  general  education  schools may  be  of  various  designations. The  possible  variety  of  designations  of  general  education schools  and  implemented  curricula  shall  be  defined  by  the  Rules  for  the  Development  of  the Network of Schools Implementing Formal Education Programmes, approved by the Government.
 
-- Vocational training schools shall not be divided into types.
+10. Vocational training schools shall not be divided into types.
 
-- Vocational  training  schools  may  carry  out  primary,  basic,  secondary  education curricula.
+11. Vocational training schools may carry out primary, basic, secondary education curricula.
 
-- Types  of  higher  education  institutions  shall  be  defined  by  the  Law  on  Higher Education and Research.
+12. Types of higher education institutions shall be defined by the Law on Higher Education and Research.
 
-- Non-formal education schools shall be divided into the following groups:
+13. Non-formal education schools shall be divided into the following groups:
 
-- pre-school education schools;
+1) pre-school education schools;
 
-- children's non-formal education schools and schools providing the teaching supplementing the formal education;
+2) children's non-formal education schools and schools providing the teaching supplementing the formal education;
 
 3) non-formal adult education schools.
 
-- Pre-school  education  schools,  children's  non-formal  education  schools  and  nonformal adult education schools shall not be divided into types.
+14. Pre-school education schools, children's non-formal education schools and non-formal adult education schools shall not be divided into types.
 
 15. The procedure for composing and writing names of schools (except higher education institutions) shall be approved by the Minister of Education and Science after consultation with the State Commission of the Lithuanian Language. A word denoting a group or type of a school may not be used in the name of that school.
 
 ##### Article 42. Foundation of schools and assistance institutions
 
-- The following may found schools and educational assistance institutions (hereinafter referred to as "assistance institutions"):
+1. The following may found schools and educational assistance institutions (hereinafter referred to as "assistance institutions"):
 
 [[END OF PAGE 31]]
 
@@ -860,9 +868,9 @@ The education system of Lithuania shall comprise the following:
 
 1) the Seimas of the Republic of Lithuania (hereinafter referred to as the "Seimas") - a state university on the recommendation of the Government;
 
-2) the Government - a state college on the recommendation of the Ministry of Education and  Science,  where  necessary  in  compliance  with  the  Government-approved  Rules  for  the Development  of  the  Network  of  Schools  Implementing  Formal  Education  Programmes  educational institutions the legal form of which - a public establishment;
+2) the Government – a state college on the recommendation of the Ministry of Education and Science, where necessary in compliance with the Government-approved Rules for the Development of the Network of Schools Implementing Formal Education Programmes – educational institutions the legal form of which – a public establishment;
 
-3) the Ministry of Education and Science - vocational training schools, where necessary general education schools the legal form of which - a budgetary institution, in compliance with the Government-approved Rules for the Development of the Network of Schools Implementing Formal Education Programmes and upon the receipt of the written consent of the Minister of Finance;  non-formal  education  schools,  assistance  institutions,  upon  the  receipt  of  the  written consent of the Minister of Finance;
+3) the Ministry of Education and Science – vocational training schools, where necessary – general education schools the legal form of which – a budgetary institution, in compliance with the Government-approved Rules for the Development of the Network of Schools Implementing Formal Education Programmes and upon the receipt of the written consent of the Minister of Finance; non-formal education schools, assistance institutions, upon the receipt of the written consent of the Minister of Finance;
 
 4) other ministries, government agencies, establishments under the ministries - vocational training  schools  the  legal  form  of  which  -  a  budgetary  institution,  in  compliance  with  the Government-approved  Rules  for  the  Development  of  the  Network  of  Schools  Implementing Formal Education Programmes and with the written consents of the Minister of Education and Science and the Minister of Finance; non-formal adult education schools the legal form of which - a budgetary institution, with the written consents of the Minister of Education and Science and the Minister of Finance;
 
@@ -886,15 +894,15 @@ The education system of Lithuania shall comprise the following:
 
 1. A  state  and  a  municipal  school  shall  be  a  public  legal  person  that  functions  as  a budgetary institution or a public  establishment. Its activity shall be governed, respectively, by this Law and the Law of the Republic of Lithuania on Budgetary Institutions or the Law of the Republic of Lithuania on Public Establishments. A non-state school shall be a legal person. The owner (the meeting of the participants) shall choose its legal form.
 
-2.  A  school  shall  commence  its  activity  after  its  registration  in  the  Register  of  Legal Entities  in  accordance  with  the  procedure  laid  down  by  the  Civil  Code  of  the  Republic  of Lithuania  (hereinafter  referred  to  as  the  'Civil  Code')  and  the  regulations  of  the  Register  of Legal Entities.
+2. A school shall commence its activity after its registration in the Register of Legal Entities in accordance with the procedure laid down by the Civil Code of the Republic of Lithuania (hereinafter referred to as the “Civil Code”) and the regulations of the Register of Legal Entities.
 
-3. A school shall function in compliance with its regulations, statutes (hereinafter referred to  as  'statutes'),  a  contract  for  school  founding.    A  school  shall  lay  down  conduct  and  ethics norms for members of the school community.
+3. A school shall function in compliance with its regulations, statutes (hereinafter referred to as “statutes”), a contract for school founding. A school shall lay down conduct and ethics norms for members of the school community.
 
 4. Statutes of a state and a municipal school (except higher education institutions) shall be drafted in accordance with Requirements for execution of regulations, statutes, approved by the Minister of Education and Science.
 
 5.  The  activity  of  a  higher  education  institution  shall  be  defined  by  its  statutes.  The statutes shall be drafted and approved in accordance with the procedure laid down by the Law on Higher Education and Research.
 
-6. The beginning and length of a school year in general education schools and vocational training  schools  shall  be  set  by  the  Minister  of  Education  and  Science  according  to  initial vocational  training  programmes;  in  state  and  municipal  non-formal  education  schools -the institution exercising the rights and duties of the owner (the meeting of the participants), in other non-formal education schools -the owner (the meeting of the participants). The beginning of the continuous  vocational  education  and  training  shall  be  set  by  the  school.    The  beginning  of education  according  to  non-formal  education  programmes  in  state  and  municipal  general education  schools,  in  vocational  training  schools  shall  be  set  by  the  institution  exercising  the rights  and  duties  of  the  owner  (the  meeting  of  the  participants),  in  other  general  education schools, in vocational training schools - the owner (the meeting of the participants).
+6. The beginning and length of a school year in general education schools and vocational training schools shall be set by the Minister of Education and Science according to initial vocational training programmes; in state and municipal non-formal education schools – the institution exercising the rights and duties of the owner (the meeting of the participants), in other non-formal education schools – the owner (the meeting of the participants). The beginning of the continuous vocational education and training shall be set by the school. The beginning of education according to non-formal education programmes in state and municipal general education schools, in vocational training schools shall be set by the institution exercising the rights and duties of the owner (the meeting of the participants), in other general education schools, in vocational training schools – the owner (the meeting of the participants).
 
 7.  Only the formal education programmes which are recorded in the Register of Study Programmes, Education Programmes and Qualifications may be carried out at school.  A school may carry out general education curricula only if it meets the general and special criteria set out in  the  Rules  for  the  Development of the Network of Schools Implementing Formal Education Programmes, approved by the Government.   A school may carry out formal vocational training programmes only having the licence issued by the Minister of Education and Science, for the issuing, supplement or revision of which a state fee shall be paid.  Rules for licensing of formal vocational education and training shall be approved by the Government.
 
@@ -932,9 +940,9 @@ The education system of Lithuania shall comprise the following:
 
 35
 
-12. The Child Welfare Commission shall take care of the creation of a safe and learnerfriendly environment in general education and pre-school education schools, vocational training schools  implementing  the  initial  vocational  teaching.      It  shall  organise  and  coordinate  the adaptation  of  education  programmes  for  learners  with  special  educational  needs,  provision  of educational assistance and shall also perform other child welfare-related functions. The Minister of  Education  and  Science  shall  lay  down  the  procedure  for  setting  up  the  Child  Welfare Commission and for organising its activities.
+12. The Child Welfare Commission shall take care of the creation of a safe and learner-friendly environment in general education and pre-school education schools, vocational training schools implementing the initial vocational teaching. It shall organise and coordinate the adaptation of education programmes for learners with special educational needs, provision of educational assistance and shall also perform other child welfare-related functions. The Minister of Education and Science shall lay down the procedure for setting up the Child Welfare Commission and for organising its activities.
 
-13. Learners' and youth organisations that stimulate learners' moral, national and civic consciousness,  patriotism,  foster  cultural  and  social  development,  help  satisfy  their  selfdevelopment and self-expression needs may operate at school. The activity of the learners' and youth  organisations  shall  be  based  on  their  statutes  registered  according  to  the  established procedure;  their  activity  may  not  be  contrary  to  the  Constitution  and  laws  of  the  Republic  of Lithuania.
+13. Learners' and youth organisations that stimulate learners' moral, national and civic consciousness, patriotism, foster cultural and social development, help satisfy their self-development and self-expression needs may operate at school. The activity of the learners' and youth organisations shall be based on their statutes registered according to the established procedure; their activity may not be contrary to the Constitution and laws of the Republic of Lithuania.
 
 14.  Schools  create  favourable  conditions  for  the  functioning  of  learners'  and  youth organisations. Such organisations may be funded and their activities may be otherwise promoted by the State, state and municipal schools - the institution exercising the rights and duties of the owner  (the  meeting  of  the  participants),  other  schools  -  the  owner  (the  meeting  of  the participants) or other natural and legal persons.
 
@@ -942,7 +950,7 @@ The education system of Lithuania shall comprise the following:
 
 1.  The  institution  exercising  the  rights  and  duties  of  the  owner  of  a  state  vocational school, a general education school (the meeting of the participants) shall reorganise, liquidate or restructure such a school in compliance with Government-approved Rules for the Development of  the  Network  of  Schools  Implementing  Formal  Education  Programmes  and  with  written consents of the institutions that supported the founding of the school. The institution exercising the  rights  and  duties  of  the  owner  of  a  state  non-formal  education  school,  an  assistance institution (the meeting of the participants) shall reorganise, liquidate or restructure such a school with written consents of the institutions that supported the founding of the school.
 
-2.  The  municipal  council  shall  independently  reorganize,  liquidate  or  restructure  nonformal education school (budgetary institutions), general education schools (budgetary institutions),  vocational  training  schools  (budgetary  institutions)  -  in  compliance  with  the Government-approved  Rules  for  the  Development  of  the  Network  of  Schools  Implementing Formal Education Programmes, assistance institutions -budgetary institutions) - in compliance with the Government-approved Criteria for Founding, Reorganisation, Liquidation and Restructuring  of  Assistance  Institutions.      Municipal  non-formal  education  schools  (public establishments) shall be reorganised, liquidated or restructured at the decision of the institution exercising the rights and duties of the owner (the meeting of the participants), general education schools  (public  establishments),  vocational  training  schools  (public  establishments)  -  at  the decision  of  the  institution  exercising  the  rights  and  duties  of  the  owner  (the  meeting  of  the participants)  in  compliance  with  the  Government-approved  Rules  for  the  Development  of  the Network of Schools Implementing Formal Education Programmes, assistance institutions (public establishments) - at the decision of the institution exercising the rights and duties of the owner (the  meeting  of  the  participants)  in  compliance  with  the  Government-approved  Criteria  for Founding, Reorganisation, Liquidation and Restructuring of Assistance Institutions. In the cases where  draft  decisions  of  municipal  councils  concerning  the  reorganisation,  liquidation  and restructuring  of  general  education  schools  contradict  decisions  of  the  school  community, proposals  regarding  the  reorganisation,  liquidation  and  restructuring  of  such  a  school  shall  be presented  by  the  Ministry  of  Education  and  Science.        The  procedure  of  adoption  of  school community's decisions shall be laid down by the Minister of Education and Science.
+2. The municipal council shall independently reorganize, liquidate or restructure non-formal education school (budgetary institutions), general education schools (budgetary institutions), vocational training schools (budgetary institutions) - in compliance with the Government-approved Rules for the Development of the Network of Schools Implementing Formal Education Programmes, assistance institutions -budgetary institutions) - in compliance with the Government-approved Criteria for Founding, Reorganisation, Liquidation and Restructuring of Assistance Institutions. Municipal non-formal education schools (public establishments) shall be reorganised, liquidated or restructured at the decision of the institution exercising the rights and duties of the owner (the meeting of the participants), general education schools (public establishments), vocational training schools (public establishments) - at the decision of the institution exercising the rights and duties of the owner (the meeting of the participants) in compliance with the Government-approved Rules for the Development of the Network of Schools Implementing Formal Education Programmes, assistance institutions (public establishments) - at the decision of the institution exercising the rights and duties of the owner (the meeting of the participants) in compliance with the Government-approved Criteria for Founding, Reorganisation, Liquidation and Restructuring of Assistance Institutions. In the cases where draft decisions of municipal councils concerning the reorganisation, liquidation and restructuring of general education schools contradict decisions of the school community, proposals regarding the reorganisation, liquidation and restructuring of such a school shall be presented by the Ministry of Education and Science. The procedure of adoption of school community's decisions shall be laid down by the Minister of Education and Science.
 
 [[END OF PAGE 35]]
 
@@ -952,7 +960,7 @@ The education system of Lithuania shall comprise the following:
 
 3. A non-state school, a non-state assistance institution shall be reorganised, liquidated or restructured  at  the  decision  of  the  owner  (the  meeting  of  the  participants)  or  in  other  cases provided for by laws.
 
-4.  The  restructuring  of  the  structure  of  a  school  (except  higher  education  schools)  change  of  a  group  or  type  of  a  school  or  changes  of  carried-out  organisational  activities (founding or liquidation of classes, groups, divisions, branches, introduction or end of teaching in the state language or in the national community language in the school) - executed by a state and a municipal school - the institution exercising the rights and duties of the owner (the meeting of the participants), other schools - at the decision of the owner (the meeting of the participants), unless otherwise laid down by the laws defining the concrete legal forms of legal persons.  The restructuring of the structure of schools (except higher education institutions) carrying out formal education programmes shall be executed in compliance with the Government-approved Rules for the  Development  of  the  Network  of  Schools  Implementing  Formal  Education  Programmes. Changing of a group or type of a state school (except vocational training schools) shall be carried out with the written consent of the Minister of Education and Science.
+4. The restructuring of the structure of a school (except higher education schools) – change of a group or type of a school or changes of carried-out organisational activities (founding or liquidation of classes, groups, divisions, branches, introduction or end of teaching in the state language or in the national community language in the school) – executed by a state and a municipal school - the institution exercising the rights and duties of the owner (the meeting of the participants), other schools - at the decision of the owner (the meeting of the participants), unless otherwise laid down by the laws defining the concrete legal forms of legal persons. The restructuring of the structure of schools (except higher education institutions) carrying out formal education programmes shall be executed in compliance with the Government-approved Rules for the Development of the Network of Schools Implementing Formal Education Programmes. Changing of a group or type of a state school (except vocational training schools) shall be carried out with the written consent of the Minister of Education and Science.
 
 5.  The  school  principal  must,  not  later  than  within  one  month  of  the  adoption  of  the decision,  inform  in  writing  each  learner  about  the  decision  concerning  the  reorganisation, liquidation, restructuring of the school or the change of a group or type of the school, as taken by the  institution  exercising  the  rights  and  duties  of  the  owner  (the  meeting  of  the  participants) (state and  municipal schools), the owner (the meeting of the participants) (other schools). The school must discharge all obligations of the school to the learners provided for in the education agreement.
 
@@ -990,43 +998,43 @@ The education system of Lithuania shall comprise the following:
 
 ##### Article 46. Learner's Rights and Duties
 
-- The learner shall be entitled:
+1. The learner shall be entitled:
 
-- to  receive  information  free  of  charge  about  existing  schools,  education  programmes and forms of studies;
+1) to receive information free of charge about existing schools, education programmes and forms of studies;
 
-- according to his abilities and needs, to study at school, independently study and attain an education level, a qualification;
+2) according to his abilities and needs, to study at school, independently study and attain an education level, a qualification;
 
-- from the age of 14 to independently choose a moral development curriculum (religious instruction or ethics);
+3) from the age of 14 to independently choose a moral development curriculum (religious instruction or ethics);
 
-- to receive a high-quality education;
+4) to receive a high-quality education;
 
-- to choose modules supplementing formal education programmes and modules of these programmes meeting his self-expression needs, elective subjects programmes, courses;
+5) to choose modules supplementing formal education programmes and modules of these programmes meeting his self-expression needs, elective subjects programmes, courses;
 
-- to  receive  psychological,  special-pedagogical,  special,  social-pedagogical  assistance, vocational guidance and informational assistance of education, healthcare in schools, information  about  evaluation  of  his  achievements  and  other  information  pertaining  to  the learning process;
+6) to receive psychological, special-pedagogical, special, social-pedagogical assistance, vocational guidance and informational assistance of education, healthcare in schools, information about evaluation of his achievements and other information pertaining to the learning process;
 
-- to study in a psychologically-, emotionally- and physically-safe environment based on mutual  respect,  to  have  a  learning  workload  and  the  environment  that  conform  to  hygiene requirements;
+7) to study in a psychologically-, emotionally- and physically-safe environment based on mutual respect, to have a learning workload and the environment that conform to hygiene requirements;
 
-- to an objective evaluation of his learning achievements;
+8) to an objective evaluation of his learning achievements;
 
-- to participate in the school's self-governance;
+9) to participate in the school's self-governance;
 
-- to defend his rights in accordance with the procedure laid down by the law;
+10) to defend his rights in accordance with the procedure laid down by the law;
 
-- to exercise other rights established in the Law on Vocational Education or the Law on Non-formal Adult Education as well as in other laws.
+11) to exercise other rights established in the Law on Vocational Education or the Law on Non-formal Adult Education as well as in other laws.
 
-- The learner must:
+2. The learner must:
 
-- upon entering into an education agreement, observe all its terms and conditions as well as the requirements of documents that regulate the school's rules of procedure;
+1) upon entering into an education agreement, observe all its terms and conditions as well as the requirements of documents that regulate the school's rules of procedure;
 
-- attend school, study diligently, adhere to the learner's conduct norms, respect teachers and other members of the school community, not violate their rights and legitimate interests;
+2) attend school, study diligently, adhere to the learner's conduct norms, respect teachers and other members of the school community, not violate their rights and legitimate interests;
 
-- study according to primary and basic education curricula until the age of 16.
+3) study according to primary and basic education curricula until the age of 16.
 
 ##### Article 47. Parents' (guardians', curators') rights and duties
 
-- Parents (guardians, curators) shall have the right:
+1. Parents (guardians, curators) shall have the right:
 
-- to  receive  information  free  of  charge  about  existing  schools,  education  programmes and forms of studies;
+1) to receive information free of charge about existing schools, education programmes and forms of studies;
 
 [[END OF PAGE 38]]
 
@@ -1078,15 +1086,15 @@ The education system of Lithuania shall comprise the following:
 
 1)  a  pedagogue  -  according  to  general  education,  vocational  training  and  non-formal education programmes;
 
-2) a person who has attained a higher education level (a post-secondary education level acquired  before  2009  or  a  specialised-secondary  education  level  attained  before  1995)  according  to  general  education  curriculum,  vocational  training  programme  and  non-formal education programme; persons must, within two years from the beginning of work as a teacher according  to  pre-school,  pre-primary  and  general  education  curricula,  acquire  a  pedagogue's qualification; persons must, within one year from the beginning of work as a teacher according to a vocational training programme and a non-formal education programme (with the exception of pre-school and pre-primary education curricula), take in accordance with the procedure laid down by the Minister of Education and Science a pedagogical-psychological knowledge course;
+2) a person who has attained a higher education level (a post-secondary education level acquired before 2009 or a specialised-secondary education level attained before 1995) – according to general education curriculum, vocational training programme and non-formal education programme; persons must, within two years from the beginning of work as a teacher according to pre-school, pre-primary and general education curricula, acquire a pedagogue's qualification; persons must, within one year from the beginning of work as a teacher according to a vocational training programme and a non-formal education programme (with the exception of pre-school and pre-primary education curricula), take in accordance with the procedure laid down by the Minister of Education and Science a pedagogical-psychological knowledge course;
 
-3)  a  person  who  has  completed  a  vocational  training  programme,  attained  a  secondary education level and a qualification, has a three-year work experience in the respective field and has taken in accordance with the procedure laid down by the Minister of Education and Science a  pedagogical-psychological  knowledge  course  -  according  to  vocational  training  and  nonformal  education  programmes  (with  the  exception  of  pre-school  and  pre-primary  education curricula);
+3) a person who has completed a vocational training programme, attained a secondary education level and a qualification, has a three-year work experience in the respective field and has taken in accordance with the procedure laid down by the Minister of Education and Science a pedagogical-psychological knowledge course – according to vocational training and non-formal education programmes (with the exception of pre-school and pre-primary education curricula);
 
-4) a person referred to in paragraph 5 of Article 31 of this Law - to teach about religion;
+4) a person referred to in paragraph 5 of Article 31 of this Law – to teach about religion;
 
-5)  a  person  who  has  attained  a  secondary  education  level  and  has  taken  in  accordance with  the  procedure  laid  down  by  the  Minister  of  Education  and  Science  a  pedagogicalpsychological  knowledge  course  -  according  to  non-formal  education  programmes  (with  the exception  of  pre-school  and  pre-primary  education  curricula  and  curricula  supplementing  the formal education);
+5) a person who has attained a secondary education level and has taken in accordance with the procedure laid down by the Minister of Education and Science a pedagogical-psychological knowledge course – according to non-formal education programmes (with the exception of pre-school and pre-primary education curricula and curricula supplementing the formal education);
 
-*6)  a  person  studying  at  a  higher  education  institution  -  according  to  pre-school,  preprimary education and general education curricula.
+*6) a person studying at a higher education institution – according to pre-school, pre-primary education and general education curricula.
 
 *Note. Subparagraph 6 of paragraph 1 of Article 48 shall be deemed invalid as of 1 September 2011.
 
@@ -1120,7 +1128,7 @@ The education system of Lithuania shall comprise the following:
 
 5) a person who has fallen ill with a disease specified in the respective list of the Ministry of Health;
 
-6)  a  former  staff  employee  of  the  USSR  State  Security  Committee  (NKVD,  NKGB, MGB,  KGB)  to  whom  the  restrictions  under  the  Law  of  the  Republic  of  Lithuania  on  the Evaluation  of  the  USSR  State  Security  Committee  (NKVD,  NKGB,  MGB,  KGB)  and  the Current Activities of the Staff Employees of this Organisation' apply;
+6) a former staff employee of the USSR State Security Committee (NKVD, NKGB, MGB, KGB) to whom the restrictions under the Law of the Republic of Lithuania on the Evaluation of the USSR State Security Committee (NKVD, NKGB, MGB, KGB) and the Current Activities of the Staff Employees of this Organisation” apply;
 
 7) in other cases set out by legal acts.
 
@@ -1146,7 +1154,7 @@ The education system of Lithuania shall comprise the following:
 
 5) to participate in the school's self-governance;
 
-6) to propose to the school principal to address the director of the municipal administration for  the  provision  of  a  minimum  or  moderate  supervision  measure  to  a  child  as well as to propose the school principal to impose on a child disciplinary reformative sanctions for violations of the educational institution's rules of procedure and the learner's conduct norms, as specified in the Law of the Republic of Lithuania on Fundamentals of Protection of the Rights of the Child (hereinafter referred to as the 'Law on Fundamentals of Protection of the Rights of the Child');
+6) to propose to the school principal to address the director of the municipal administration for the provision of a minimum or moderate supervision measure to a child as well as to propose the school principal to impose on a child disciplinary reformative sanctions for violations of the educational institution's rules of procedure and the learner's conduct norms, as specified in the Law of the Republic of Lithuania on Fundamentals of Protection of the Rights of the Child (hereinafter referred to as the “Law on Fundamentals of Protection of the Rights of the Child”);
 
 7) to exercise other rights established in the Law on Vocational Education, the Law on Non-formal Adult Education as well as in other laws.
 
@@ -1176,43 +1184,43 @@ The education system of Lithuania shall comprise the following:
 
 43
 
-- fulfil other obligations established in the Law on Vocational Education and the Law on Non-formal Adult Education.
+10) fulfil other obligations established in the Law on Vocational Education and the Law on Non-formal Adult Education.
 
-- Representatives  of  trade  unions  presenting  pedagogues  shall  be  entitled  to  represent pedagogues' interests and defend their rights in accordance with the procedure laid down by the law.
+3. Representatives of trade unions presenting pedagogues shall be entitled to represent pedagogues' interests and defend their rights in accordance with the procedure laid down by the law.
 
 ##### Article 50. Freelance teacher's rights and duties
 
-- A  freelance  teacher  may,  in  accordance  with  the  procedure  laid  down  by  legal  acts, carry out pre-school, pre-primary education curricula and other non-formal education programmes,  implement  modules  of  formal  education  programmes,  modules  supplementing formal  education  programmes  and  modules  of  programmes  meeting  learners'  self-expression needs, and upon the acquiring of the licence - formal vocational training programmes.
+1. A freelance teacher may, in accordance with the procedure laid down by legal acts, carry out pre-school, pre-primary education curricula and other non-formal education programmes, implement modules of formal education programmes, modules supplementing formal education programmes and modules of programmes meeting learners' self-expression needs, and upon the acquiring of the licence - formal vocational training programmes.
 
-- A freelance teacher shall have the right:
+2. A freelance teacher shall have the right:
 
-- to work according to his individual programmes;
+1) to work according to his individual programmes;
 
-- to choose methods and forms of pedagogical activity;
+2) to choose methods and forms of pedagogical activity;
 
-- to provide educational assistance;
+3) to provide educational assistance;
 
-- A freelance teacher must:
+3. A freelance teacher must:
 
-- ensure his learners' safety;
+1) ensure his learners' safety;
 
-- have a workplace intended for education that meets hygiene requirements;
+2) have a workplace intended for education that meets hygiene requirements;
 
-- implement the teaching process agreed upon with the learner;
+3) implement the teaching process agreed upon with the learner;
 
-- deliver the education content in a comprehensible and explicit manner in the correct Lithuanian language where it is defined by legal acts that the appropriate education content is delivered in the Lithuanian language.
+4) deliver the education content in a comprehensible and explicit manner in the correct Lithuanian language where it is defined by legal acts that the appropriate education content is delivered in the Lithuanian language.
 
-- A freelance teacher shall not be allowed to teach learners whom he teaches at school according to the curriculum of the same subject.
+4. A freelance teacher shall not be allowed to teach learners whom he teaches at school according to the curriculum of the same subject.
 
 ##### Article 51. Rights and duties of any other provider of education
 
-- Other education providers shall have the right:
+1. Other education providers shall have the right:
 
-- to  carry  out  pre-school,  pre-primary  education  curricula  and  other  non-formal education programmes, implement modules of formal education programmes, modules supplementing  formal  education  programmes  and  modules  of  programmes  meeting  learners' self-expression needs;
+1) to carry out pre-school, pre-primary education curricula and other non-formal education programmes, implement modules of formal education programmes, modules supplementing formal education programmes and modules of programmes meeting learners' self-expression needs;
 
-- upon the acquisition of the licence - to carry formal vocational training programmes;
+2) upon the acquisition of the licence - to carry formal vocational training programmes;
 
-- to provide educational assistance;
+3) to provide educational assistance;
 
 [[END OF PAGE 43]]
 
@@ -1220,45 +1228,45 @@ The education system of Lithuania shall comprise the following:
 
 44
 
-- to receive set funding and privileges.
+4) to receive set funding and privileges.
 
-- Other education providers must:
+2. Other education providers must:
 
-- ensure education quality and their learners' safety during the teaching process;
+1) ensure education quality and their learners' safety during the teaching process;
 
-- deliver the education content in a comprehensible and explicit manner in the correct Lithuanian language where it is defined by legal acts that the appropriate education content is delivered in the Lithuanian language.
+2) deliver the education content in a comprehensible and explicit manner in the correct Lithuanian language where it is defined by legal acts that the appropriate education content is delivered in the Lithuanian language.
 
-- provide students with education conditions that meet hygiene standards;
+3) provide students with education conditions that meet hygiene standards;
 
-- observe the norms of Teachers' ethics;
+4) observe the norms of Teachers' ethics;
 
-- have care of in-service training of teachers.
+5) have care of in-service training of teachers.
 
 #### CHAPTER SIX EDUCATION MANAGEMENT. SELF-GOVERNANCE
 
 ##### Article 52. Management of education and management entities
 
-- The purpose of education management shall be to assure the quality of implementation of  State  education  policy  through  administrative  means:  monitoring,  planning,  delegation  and distribution of powers and responsibility as well as supervision.
+1. The purpose of education management shall be to assure the quality of implementation of State education policy through administrative means: monitoring, planning, delegation and distribution of powers and responsibility as well as supervision.
 
-- The entities engaged in education management shall be:
+2. The entities engaged in education management shall be:
 
-- the Seimas;
+1) the Seimas;
 
-- the Government, the Ministry of Education and Science, other ministries, government agencies;
+2) the Government, the Ministry of Education and Science, other ministries, government agencies;
 
-- municipal institutions;
+3) municipal institutions;
 
-- the owner of a non-state school (the meeting of the participants);
+4) the owner of a non-state school (the meeting of the participants);
 
-- the head of an educational institution.
+5) the head of an educational institution.
 
-- Certain education management powers may be delegated to education self-governance bodies.
+3. Certain education management powers may be delegated to education self-governance bodies.
 
 ##### Article 53. Monitoring of education
 
-- The purpose of monitoring of education shall be to empower all the entities engaged in education  management  to  adopt  reasoned  decisions  and  to  provide  management  assuring education quality.
+1. The purpose of monitoring of education shall be to empower all the entities engaged in education management to adopt reasoned decisions and to provide management assuring education quality.
 
-- State monitoring of education shall, pursuant to indicators of education monitoring and in  accordance  with  the  procedure  laid  down  by  the  Minister  of  Education  and  Science,  be implemented by the Ministry of Education and Science and other institutions authorised by the Minister of Education and Science, municipal administrations, schools.
+2. State monitoring of education shall, pursuant to indicators of education monitoring and in accordance with the procedure laid down by the Minister of Education and Science, be implemented by the Ministry of Education and Science and other institutions authorised by the Minister of Education and Science, municipal administrations, schools.
 
 [[END OF PAGE 44]]
 
@@ -1266,31 +1274,31 @@ The education system of Lithuania shall comprise the following:
 
 45
 
-- The Ministry of Education and Science shall annually make a report about the state of the education system in the country and the regions.
+3. The Ministry of Education and Science shall annually make a report about the state of the education system in the country and the regions.
 
 ##### Article 54. Planning of education
 
-- The purpose of education planning shall, upon assessment of the state of education and with respect to the education needs of society, be to set long-term and short-term goals and tasks of education, set priorities and define means for task implementation.
+1. The purpose of education planning shall, upon assessment of the state of education and with respect to the education needs of society, be to set long-term and short-term goals and tasks of education, set priorities and define means for task implementation.
 
-- Lithuanian education policy priorities, long-term education goals, directions of change of education content and funding priorities shall be set forth in the National Education Strategy. The Strategy shall be drawn up and presented to the Seimas for confirmation by the Government. The Strategy shall cover a period of ten years and shall be reviewed at least every four years.
+2. Lithuanian education policy priorities, long-term education goals, directions of change of education content and funding priorities shall be set forth in the National Education Strategy. The Strategy shall be drawn up and presented to the Seimas for confirmation by the Government. The Strategy shall cover a period of ten years and shall be reviewed at least every four years.
 
-- When implementing the National Education Strategy, municipalities shall set out longterm objectives of education as well as measures for the achievement thereof.
+3. When implementing the National Education Strategy, municipalities shall set out long-term objectives of education as well as measures for the achievement thereof.
 
-- A school shall prepare a strategic plan. The school principal shall approve a strategic plan with the consent of the school council, the institution exercising the rights and duties of the owner of the school (a state school - a budgetary institution), the municipal executive institution or  a  person  authorised  by  it  (a  municipal  school  -  a  budgetary  institution),  the  institution exercising  the  rights  and  duties  of  the  owner  (the  meeting  of  the  participants)  (a  state  and municipal school - a public establishment), the owner (the meeting of the participants) (other schools).
+4. A school shall prepare a strategic plan. The school principal shall approve a strategic plan with the consent of the school council, the institution exercising the rights and duties of the owner of the school (a state school - a budgetary institution), the municipal executive institution or a person authorised by it (a municipal school - a budgetary institution), the institution exercising the rights and duties of the owner (the meeting of the participants) (a state and municipal school - a public establishment), the owner (the meeting of the participants) (other schools).
 
-- A  school shall prepare  an  annual  action plan. The school principal shall approve an annual action plan with the consent of the school council.
+5. A school shall prepare an annual action plan. The school principal shall approve an annual action plan with the consent of the school council.
 
-- Higher education shall be planned in accordance with the procedure laid down by the Law on Higher Education and Research.
+6. Higher education shall be planned in accordance with the procedure laid down by the Law on Higher Education and Research.
 
 ##### Article 55. Government powers in the area of education management
 
 The Government shall:
 
-- implement the laws, decrees of the President and resolutions of the Seimas regulating education,  long-term  state  education  programmes,  the  Government  Programme  in  the  field  of education, approve its implementation programmes;
+1) implement the laws, decrees of the President and resolutions of the Seimas regulating education, long-term state education programmes, the Government Programme in the field of education, approve its implementation programmes;
 
-- co-ordinate  the  activities  of  the  Ministry  of  Education  and  Science,  other  ministries and government agencies on the issues of education;
+2) co-ordinate the activities of the Ministry of Education and Science, other ministries and government agencies on the issues of education;
 
-- found, reorganise, liquidate and restructure state colleges, educational institutions the legal form of which is a public establishment, when necessary - education management entities government agencies, found institutions under the Ministry of Education and Science and assign
+3) found, reorganise, liquidate and restructure state colleges, educational institutions the legal form of which is a public establishment, when necessary – education management entities – government agencies, found institutions under the Ministry of Education and Science and assign
 
 [[END OF PAGE 45]]
 
@@ -1334,7 +1342,7 @@ The Ministry of Education and Science shall be empowered:
 
 11) to organize the performance review of teachers, educational assistance specialists in schools in which the Ministry exercises in accordance with the procedure laid down by legal acts the rights and duties of the State as the owner or stakeholder;
 
-12) to approve  criteria for pre-school education  curricula, a  general  pre-primary education curriculum, general education, teaching content of formal education (descriptions of primary, basic, secondary curricula, teaching plans) approved by the Minister of Education and Science;  criteria  for  accreditation  of  secondary  education  curricula  and  the  description  of implementation of the procedure thereof; general criteria for non-formal education programmes of  the  teaching  supplementing  the  formal  education,  funded  from  state  or  municipal  budgets, approved by the Minister of Education and Science;-{}-
+12) to approve criteria for pre-school education curricula, a general pre-primary education curriculum, general education, teaching content of formal education (descriptions of primary, basic, secondary curricula, teaching plans) approved by the Minister of Education and Science; criteria for accreditation of secondary education curricula and the description of implementation of the procedure thereof; general criteria for non-formal education programmes of the teaching supplementing the formal education, funded from state or municipal budgets, approved by the Minister of Education and Science;
 
 13)  to  approve  the  description  of  the  procedure  of  consecutive  learning  in  accordance with general education curricula, the description of the procedure of pre-school education;
 
@@ -1426,7 +1434,7 @@ The Ministry of Education and Science shall be empowered:
 
 2)  appoint  and  dismiss  teachers,  other  persons  involved  in  the  education  process  and service personnel, confirm their job descriptions in accordance with the prescribed procedure;
 
-3) be responsible for making public the information specified in Article 26 of this Law, for  the  democratic  management  of  the  educational  institution;  ensure  relations  based  on  cooperation, the observance of the norms of teacher's ethics, transparency in decision-making, the provision of information to community members, in-service training for the teaching and nonteaching  staff,  a  sound  and  safe  environment  that  prevents  any  manifestation  of  violence  or intimidation, as well as the formation of hazardous habits;
+3) be responsible for making public the information specified in Article 26 of this Law, for the democratic management of the educational institution; ensure relations based on co-operation, the observance of the norms of teacher's ethics, transparency in decision-making, the provision of information to community members, in-service training for the teaching and non-teaching staff, a sound and safe environment that prevents any manifestation of violence or intimidation, as well as the formation of hazardous habits;
 
 4)  analyse  the  state  of  operational  and  management  resources  of  the  educational institution and be responsible for results of the educational institution;
 
@@ -1464,9 +1472,9 @@ The Ministry of Education and Science shall be empowered:
 
 2.  Learners,  teachers,  parents  (guardians,  curators), social  partners,  education  providers and/or their associations shall be represented in the municipal education council.
 
-- The municipal council shall approve regulations of the municipal education council.
+3. The municipal council shall approve regulations of the municipal education council.
 
-- The municipal education council shall analyse implementation of the overall education policy,  approve  long-term  goals  of  the  education  development  and  draw  the  public  into  their implementation.
+4. The municipal education council shall analyse implementation of the overall education policy,  approve  long-term  goals  of  the  education  development  and  draw  the  public  into  their implementation.
 
 ##### Article 62. State education self-governance bodies
 
@@ -1478,13 +1486,15 @@ The following state education self-governance bodies shall promote the participa
 
 3)  the  Lithuanian  Vocational  Training  Council  shall  advise  on  strategic  issues  of vocational  training.  Regulations  of  the  Lithuanian  Vocational  Training  Council  shall  be approved by the Government.
 
-4) the Lithuanian Non-formal Adult Education Council shall consider the main prospects for development of non-formal education in Lithuania, carry out the analysis of projects for the development of the system of non-formal adult education. Regulations of the Lithuanian Nonformal Adult Education Council shall be approved by the Government;
+4) the Lithuanian Non-formal Adult Education Council shall consider the main prospects for development of non-formal education in Lithuania, carry out the analysis of projects for the
 
 [[END OF PAGE 51]]
 
 [[START OF PAGE 52]]
 
 52
+
+development of the system of non-formal adult education. Regulations of the Lithuanian Non-formal Adult Education Council shall be approved by the Government;
 
 5)  the  Council  of  Higher  Education  shall  be  an  advisory  body  for  the  Ministry  of Education and Science in strategic matters of higher education development. Regulations of the Council of Higher Education shall be approved by the Government.
 
@@ -1502,11 +1512,11 @@ The following state education self-governance bodies shall promote the participa
 
 1. The purpose of education supervision shall be to observe the accessibility and quality of  education  as  well  as  to  promote  education  improvement,  to  provide  consultations  and  to evaluate activities.
 
-- Education supervision shall comprise the monitoring of the accessibility and quality of education, provision of consultation to education providers, assistance institutions and education management  entities,  execution  of  preventive  measures,  external  evaluation,  imposition  of sanctions, promotion of education improvement and other measures provided for by the law.
+2. Education supervision shall comprise the monitoring of the accessibility and quality of education, provision of consultation to education providers, assistance institutions and education management  entities,  execution  of  preventive  measures,  external  evaluation,  imposition  of sanctions, promotion of education improvement and other measures provided for by the law.
 
 3. The Ministry of Education and Science shall exercise the state supervision of activities of education providers.
 
-- Supervision  of  school  activities  shall  be  exercised  by  the  institution  exercising  the rights and duties of the owner (a state school - a budgetary institution), the municipal executive institution (a municipal school - a budgetary institution), the institution exercising the rights and
+4. Supervision  of  school  activities  shall  be  exercised  by  the  institution  exercising  the rights and duties of the owner (a state school - a budgetary institution), the municipal executive institution (a municipal school - a budgetary institution), the institution exercising the rights and
 
 [[END OF PAGE 52]]
 
@@ -1524,9 +1534,9 @@ duties of the owner (the meeting of the participants) (a state and a municipal s
 
 Education shall be funded from the following sources:
 
-- appropriations from the state budget and municipal budgets;
+1) appropriations from the state budget and municipal budgets;
 
-- other funds.
+2) other funds.
 
 ##### Article 66. Investments in education development
 
@@ -1538,7 +1548,7 @@ Education shall be funded from the following sources:
 
 ##### Article 67. Funding of education programmes and schools
 
-1. The principle of setting an amount for teaching funds for one student shall be applied when allocating  funds  from  state  and  municipal  budgets  of  the  Republic  of  Lithuania  for  the corresponding  year  for  the  financing  of  formal  education  programmes  at  state,  municipal  and non-state schools (except higher education institutions) and for children's non-formal education programmes.  Teaching  funds  allocated  from  state  budget  funds  shall  be  calculated  and distributed pursuant to the methodologies approved by the Government.
+1. The principle of setting an amount for teaching funds for one student shall be applied when allocating  funds  from  state  and  municipal  budgets  of  the  Republic  of  Lithuania  for  the corresponding  year  for  the  financing  of  formal  education  programmes  at  state,  municipal  and non-state schools (except higher education institutions) and for children's non-formal education
 
 [[END OF PAGE 53]]
 
@@ -1546,25 +1556,29 @@ Education shall be funded from the following sources:
 
 54
 
+programmes. Teaching funds allocated from state budget funds shall be calculated and distributed pursuant to the methodologies approved by the Government.
+
 2. Teaching funds for municipal and non-state schools to finance pre-primary, primary, basic,  secondary  education  curricula  and  the  modules  of  these  programmes,  supplementing formal education programmes and answering to the learners' self-expression needs, provided at schools of children's non-formal education shall be allocated from state budget's special targeted appropriations  for  municipal  budgets,  as  approved  by  the  Law  on  the  Approval  of  Financial Indicators of the State Budget and Municipal Budgets for the corresponding year; teaching funds for state schools shall be allocated from appropriations provided for in the state budget.
 
 3.  School  maintenance  funds  shall  be  allocated  to  state  and  municipal  schools  (except schools specified in subparagraph 1 of paragraph 4 of this Article) by the institution exercising the rights and duties of the owner (the meeting of the participants) in its own prescribed manner.
 
 4.    Maintenance  funds  shall  be  allocated  to  schools  (except  to  higher  education institutions):
 
-1)  to  municipal  schools  (classes)  for  learners  with  special  educational  needs  in  the country (region), where such schools correspond to the purpose and criteria set out in the Rules for the  Development of the Network  of Schools Implementing the Formal Education Programmes, shall be allocated from special targeted appropriations of the corresponding year's state  budget  of  the  Republic  of  Lithuania  for  municipal  budgets  pursuant  to  the  Governmentapproved methodologies and from municipal budget appropriations;
+1)  to  municipal  schools  (classes)  for  learners  with  special  educational  needs  in  the country (region), where such schools correspond to the purpose and criteria set out in the Rules for the  Development of the Network  of Schools Implementing the Formal Education Programmes, shall be allocated from special targeted appropriations of the corresponding year's state  budget  of  the  Republic  of  Lithuania  for  municipal  budgets  pursuant  to  the  Government-approved methodologies and from municipal budget appropriations;
 
 2) to non-state schools carrying out general education curricula (except schools referred to in paragraph 10 of this Article) - from the funds of the owner (the meeting of the participants) and other funds specified in the statutes of the school.
 
 5. In schools whose legal form - a budgetary institution, children's non-formal education programmes  (except  pre-primary  education  curricula)  shall  be  funded  in  accordance  with  the procedure laid down by legal acts of the institution exercising the rights and duties of the owner of  the  school,  learners  (their  parents  (guardians,  curators)  and  sponsors;  in  other  schools  such programmes shall be funded in accordance with the procedure laid down by the statutes of the school.  Funds  from  state  and  municipal  budgets  may  be  appropriated  to  state  and  municipal schools whose legal form - a budgetary institution, for the carrying-out of children's non-formal education programmes (except pre-primary education curricula).
 
-6.  Non-formal  adult  education  schools,  assistance  institutions  whose  legal  form  -  a budgetary  institution  shall  be  financed  in  accordance  with  the  procedure  laid  down  by  the institution  exercising  the  rights  and  duties  of  the  owner,  another  non-formal  adult  education school; assistance institutions shall be financed in accordance with the procedure laid down in their  statutes.      Funds  from  state  and  municipal  budgets  may  be  appropriated  to  state  and municipal non-formal adult education schools, assistance institutions whose legal form - a public establishment.
+6.  Non-formal  adult  education  schools,  assistance  institutions  whose  legal  form  -  a budgetary  institution  shall  be  financed  in  accordance  with  the  procedure  laid  down  by  the institution  exercising  the  rights  and  duties  of  the  owner,  another  non-formal  adult  education school; assistance institutions shall be financed in accordance with the procedure laid down in
 
 [[END OF PAGE 54]]
 
 [[START OF PAGE 55]]
 
 55
+
+their statutes. Funds from state and municipal budgets may be appropriated to state and municipal non-formal adult education schools, assistance institutions whose legal form – a public establishment.
 
 7. Vocational education and training shall be financed in accordance with the procedure laid down in the Law on Vocational Education.
 
@@ -1676,7 +1690,7 @@ Education shall be funded from the following sources:
 
 2. Higher education study programmes of foreign states shall be carried out in Lithuania in accordance with the procedure laid down by the Law on Higher Education and Research.
 
-3. Education programmes of foreign states and international organisations may be carried out at schools of the Republic of Lithuania not in the Lithuanian language.  Persons who have completed in Lithuania the education programmes of foreign states and international organisations  shall  be  issued  certificates  of  the  respective  foreign  states  or  international organisations.'
+3. Education programmes of foreign states and international organisations may be carried out at schools of the Republic of Lithuania not in the Lithuanian language.  Persons who have completed in Lithuania the education programmes of foreign states and international organisations  shall  be  issued  certificates  of  the  respective  foreign  states  or  international organisations.”
 
 ## Article 2. Implementation of the Law
 
@@ -1690,7 +1704,7 @@ Education shall be funded from the following sources:
 
 60
 
-3. Teachers who, at the time of the entry into force of this Law, educate according to preschool,  pre-primary  and  general  education  curricula,  have  the  higher  education  (the  postsecondary  education  acquired  before  2009  or  the  specialized-secondary  education  acquired before 1995) but do not have a pedagogue's qualification; must acquire such a qualification by 31 August 2011. The qualification requirements laid down in Article 48 of the Law on Education, set forth in Article 1 of this Law, shall not apply to the said persons before 31 August 2011.
+3. Teachers who, at the time of the entry into force of this Law, educate according to pre-school,  pre-primary  and  general  education  curricula,  have  the  higher  education  (the  post-secondary  education  acquired  before  2009  or  the  specialized-secondary  education  acquired before 1995) but do not have a pedagogue's qualification; must acquire such a qualification by 31 August 2011. The qualification requirements laid down in Article 48 of the Law on Education, set forth in Article 1 of this Law, shall not apply to the said persons before 31 August 2011.
 
 4. Teachers who, at the time of the entry into force of this Law, do not have the education determined in Article 48 of the Law on Education, set forth in Article 1 of this Law, and who educate  according  to  pre-school,  pre-primary  and  general  education  curricula  and  study  at  a higher education institution, must acquire higher education and a pedagogue's qualification by 31 August 2011. The education and qualification requirements laid down in Article 48 of the Law on Education, set forth in Article 1 of this Law, shall not apply to the said persons before 31 August 2011.
 
@@ -1704,7 +1718,7 @@ Education shall be funded from the following sources:
 
 2. The version of paragraphs 2 and 3 of Article 30 of the Law on Education set forth in Article 1 of this Law and valid as of 1 September 2011:
 
-'2.  General  education  and  non-formal  education  schools  shall  create  opportunities  for learners belonging to national minorities to foster the national, ethnic and linguistic identity, to earn the native language, history and culture. At a general education and a non-formal education school the regulations (statutes) of which (respecting the requests of parents (guardians, curators) and learners) provide for teaching a national minority language or teaching in a national minority language,  the  teaching  process  may  be  conducted  or  certain  subjects  may  be  taught  in  the national  minority  language.  At  such  schools  the  subject  of  the  Lithuanian  language  shall  be  a constituent part of the curriculum and the time allotted for teaching it shall not be less than the time allotted for teaching the native language. At such schools:
+“2.  General  education  and  non-formal  education  schools  shall  create  opportunities  for learners belonging to national minorities to foster the national, ethnic and linguistic identity, to learn the native language, history and culture. At a general education and a non-formal education school the regulations (statutes) of which (respecting the requests of parents (guardians, curators) and learners) provide for teaching a national minority language or teaching in a national minority language,  the  teaching  process  may  be  conducted  or  certain  subjects  may  be  taught  in  the national  minority  language.  At  such  schools  the  subject  of  the  Lithuanian  language  shall  be  a constituent part of the curriculum and the time allotted for teaching it shall not be less than the time allotted for teaching the native language. At such schools:
 
 [[END OF PAGE 60]]
 
@@ -1718,13 +1732,13 @@ Education shall be funded from the following sources:
 
 3) other subjects of the primary, basic, secondary education curricula shall be taught in the Lithuanian language at the request of the parents (guardians, curators).
 
-- The  Minister  of  Education  and  Science  shall  lay  down  the  procedure  for  providing education in the Lithuanian language at a general education and a non-formal education school.'
+3. The  Minister  of  Education  and  Science  shall  lay  down  the  procedure  for  providing education in the Lithuanian language at a general education and a non-formal education school.”
 
-- The version of paragraph 2 of Article 41 of the Law on Education set forth in Article 1 of this Law and valid as of 1 September 2015:
+3. The version of paragraph 2 of Article 41 of the Law on Education set forth in Article 1 of this Law and valid as of 1 September 2015:
 
-'2. The types of general education schools shall be as follows: a primary school, a pregymnasium, a basic school, and a gymnasium.'
+“2. The types of general education schools shall be as follows: a primary school, a pre-gymnasium, a basic school, and a gymnasium.”
 
-- Paragraph 6 of Article 41 of the Law on Education set forth in Article 1 of this Law shall be deemed invalid on 1 September 2015.
+4. Paragraph 6 of Article 41 of the Law on Education set forth in Article 1 of this Law shall be deemed invalid on 1 September 2015.
 
 5.  Subparagraph  6  of  paragraph  1  of  Article  48  of  the  Law  on  Education  set  forth  in
 
@@ -1734,7 +1748,7 @@ Article 1 of this Law shall be deemed invalid on 1 September 2011.
 
 Upon the entry into force of this Law, the following legal acts shall become invalid:
 
-- the Law of the Republic of Lithuania on Special Education.
+1) the Law of the Republic of Lithuania on Special Education.
 
 2) Article 4 of the Law of the Republic of Lithuania Amending Articles 2, 48 and 69 of
 
@@ -1744,6 +1758,6 @@ I promulgate this law passed by the Seimas of the Republic of Lithuania.
 
 PRESIDENT OF THE REPUBLIC
 
-DALIA GRYBAUSKAIT Ė
+DALIA GRYBAUSKAITĖ
 
 [[END OF PAGE 61]]
