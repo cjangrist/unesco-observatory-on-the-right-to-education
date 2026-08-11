@@ -52,6 +52,8 @@
 
 - Remarks
 
+ASIAN HUMAN RIGHTS COMMISSION
+
 # The Constitution of the Republic of Indonesia of 1945
 
 Certified english translation of the 1945 Constitution of the Republic of Indonesia. First adopted August 18, 1945 - superseded 1949-1959 - restored 1959. Consolidated: as amended by the First Amendment (19 October 1999), the Second Amendment (18 August 2000), the Third Amendment (9 November 2001) and the Fourth Amendment (11 August 2002).
@@ -78,45 +80,45 @@ Pursuant to which, in order to form a Government of the State of Indonesia that 
 
 (1) The State of Indonesia shall be a unitary state, with the form of a Republic.
 
-- Sovereignty is vested in the people and implemented pursuant to the Constitution. ***
+(2) Sovereignty is vested in the people and implemented pursuant to the Constitution. ***
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-- The State of Indonesia is a state based on the rule of law. ***
+(3) The State of Indonesia is a state based on the rule of law. ***
 
 ### SECTION II - MAJELIS PERMUSYAWARATAN RAKYAT
 
 #### Article 2
 
-- The MPR consists of the members of the DPR and the members of the DPD who are chosen through general elections and further regulated by law. ****
+(1) The MPR consists of the members of the DPR and the members of the DPD who are chosen through general elections and further regulated by law. ****
 
-- The MPR shall convene at least once every five years in the capital of the state.
+(2) The MPR shall convene at least once every five years in the capital of the state.
 
-- All decisions of the MPR shall be taken by majority vote.
+(3) All decisions of the MPR shall be taken by majority vote.
 
 #### Article 3
 
-- The MPR has the authority to amend and to ordain the Constitution. ***
+(1) The MPR has the authority to amend and to ordain the Constitution. ***
 
-- The MPR installs the President and/or the Vice President. ***/****
+(2) The MPR installs the President and/or the Vice President. ***/****
 
-- The MPR may only dismiss the President and/or Vice President during their term of office in accordance with the Constitution. ***/****
+(3) The MPR may only dismiss the President and/or Vice President during their term of office in accordance with the Constitution. ***/****
 
 ### SECTION III - THE STATE'S EXECUTIVE POWERS
 
 #### Article 4
 
-- The President of the Republic of Indonesia shall hold the power of government in accordance with the Constitution.
+(1) The President of the Republic of Indonesia shall hold the power of government in accordance with the Constitution.
 
 (2) In exercising his duties, the President shall be assisted by a Vice President.
 
 #### Article 5
 
-- The President is entitled to submit bills to the DPR. *
+(1) The President is entitled to submit bills to the DPR. *
 
-- The President shall issue government regulations to implement laws as needed.
+(2) The President shall issue government regulations to implement laws as needed.
 
 #### Article 6
 
@@ -126,9 +128,9 @@ Pursuant to which, in order to form a Government of the State of Indonesia that 
 
 #### Article 6A
 
-- The President and the Vice President shall be elected as a pair by the people directly. ***
+(1) The President and the Vice President shall be elected as a pair by the people directly. ***
 
-- Each pair for President and Vice President shall be proposed prior to general elections by a political party or by a coalition of political parties contesting the general elections. ***
+(2) Each pair for President and Vice President shall be proposed prior to general elections by a political party or by a coalition of political parties contesting the general elections. ***
 
 (3) The pair of Presidential and Vice Presidential candidates that receives more than fifty percent of the vote from the total of votes in the general election with at least twenty percent of the vote in more than half of the total number of provinces in Indonesia, shall be installed as President and Vice President. ***
 
@@ -158,7 +160,7 @@ The President and/or Vice President may be dismissed from office by the MPR base
 
 (6) The MPR shall convene a session to decide on the DPR's proposal at the latest thirty days from the moment the MPR received this proposal. ***
 
-(7) The MPR's decision on the proposal to impeach the President and/or Vice President shall be taken in a plenary session of the MPR attended by at least ? of the total number of members in the MPR and supported by at least 2/3 of the members present, after the President and/or the Vice President has been given the opportunity to present his explanation to the plenary session of the MPR. ***
+(7) The MPR's decision on the proposal to impeach the President and/or Vice President shall be taken in a plenary session of the MPR attended by at least ¾ of the total number of members in the MPR and supported by at least 2/3 of the members present, after the President and/or the Vice President has been given the opportunity to present his explanation to the plenary session of the MPR. ***
 
 [[END OF PAGE 2]]
 
@@ -206,17 +208,17 @@ The President declares the state of emergency. The conditions and consequences o
 
 #### Article 13
 
-- Ambassadors and consuls are appointed by the President.
+(1) Ambassadors and consuls are appointed by the President.
 
-- In appointing ambassadors, the President shall take into account the considerations of the DPR. *
+(2) In appointing ambassadors, the President shall take into account the considerations of the DPR. *
 
-- The President receives the accreditation of ambassadors from other countries taking into account the considerations of the DPR. *
+(3) The President receives the accreditation of ambassadors from other countries taking into account the considerations of the DPR. *
 
 #### Article 14
 
-- The President may grant clemency and rehabilitation taking into account the considerations of the Supreme Court. *
+(1) The President may grant clemency and rehabilitation taking into account the considerations of the Supreme Court. *
 
-- The President may grant amnesty and abolition taking into account the considerations of the DPR. *
+(2) The President may grant amnesty and abolition taking into account the considerations of the DPR. *
 
 #### Article 15
 
@@ -234,13 +236,13 @@ Abolished ****
 
 #### Article 17
 
-- The President is assisted by state ministers.
+(1) The President is assisted by state ministers.
 
-- The ministers are appointed and dismissed by the President. *
+(2) The ministers are appointed and dismissed by the President. *
 
-- Each minister is responsible for a specific area of governance. *
+(3) Each minister is responsible for a specific area of governance. *
 
-- The establishment, changes, and dissolution of state ministries shall be regulated by law. ***
+(4) The establishment, changes, and dissolution of state ministries shall be regulated by law. ***
 
 [[END OF PAGE 3]]
 
@@ -250,17 +252,17 @@ Abolished ****
 
 #### Article 18
 
-- The Unitary State of the Republic of Indonesia is divided into provinces and a province is divided into kabupaten and kota, with each province, kabupaten and kota having its own regional administration, regulated by law. **
+(1) The Unitary State of the Republic of Indonesia is divided into provinces and a province is divided into kabupaten and kota, with each province, kabupaten and kota having its own regional administration, regulated by law. **
 
 (2) The administration of a province, of a kabupaten, and of a kota shall regulate and manage its own government matters in accordance with the principles of regional autonomy and the duty of providing assistance. **
 
 (3) Each provincial, kabupaten, and kota administration shall have its own DPRD whose members shall be elected through a general election. **
 
-- A Governor, Bupati, and Mayor, each heading respectively the administration of a province, a kabupaten, and a kota shall be elected democratically. **
+(4) A Governor, Bupati, and Mayor, each heading respectively the administration of a province, a kabupaten, and a kota shall be elected democratically. **
 
-- A regional administration shall exercise the broadest possible autonomy, except for matters of governance that are determined by law as the prerogative of the Central Government. **
+(5) A regional administration shall exercise the broadest possible autonomy, except for matters of governance that are determined by law as the prerogative of the Central Government. **
 
-- A regional administration shall have the right to adopt regional regulations as well as other rules to implement autonomy and the duty of providing assistance. **
+(6) A regional administration shall have the right to adopt regional regulations as well as other rules to implement autonomy and the duty of providing assistance. **
 
 (7) The organization and mechanisms of implementing regional administration are to be regulated by law. **
 
@@ -272,53 +274,53 @@ Abolished ****
 
 #### Article 18B
 
-- The State shall recognize and respect entities of regional administration that possess a specificity or a distinctiveness that are to be regulated by law. **
+(1) The State shall recognize and respect entities of regional administration that possess a specificity or a distinctiveness that are to be regulated by law. **
 
-- The State shall recognize and respect, to be regulated by law, the homogeneity of societies with customary law along with their traditional rights for as long as they remain in existence and in agreement with societal development and with the principle of the Unitary State of the Republic of Indonesia. **
+(2) The State shall recognize and respect, to be regulated by law, the homogeneity of societies with customary law along with their traditional rights for as long as they remain in existence and in agreement with societal development and with the principle of the Unitary State of the Republic of Indonesia. **
 
 ### SECTION VII - DEWAN PERWAKILAN RAKYAT
 
 #### Article 19
 
-- The members of the DPR are elected through a general election. **
+(1) The members of the DPR are elected through a general election. **
 
-- The organization of the DPR is regulated by law. **
+(2) The organization of the DPR is regulated by law. **
 
-- The DPR convenes at least once a year. **
+(3) The DPR convenes at least once a year. **
 
 #### Article 20
 
-- The DPR has the power to enact laws. *
+(1) The DPR has the power to enact laws. *
 
-- Each bill shall be discussed between the DPR and the President so as to reach a joint agreement. *
+(2) Each bill shall be discussed between the DPR and the President so as to reach a joint agreement. *
 
-- If a bill fails to reach a joint agreement, it may not be introduced to the DPR again during its current term. *
+(3) If a bill fails to reach a joint agreement, it may not be introduced to the DPR again during its current term. *
 
-- The President shall endorse into law a bill that has reached a joint agreement. *
+(4) The President shall endorse into law a bill that has reached a joint agreement. *
 
-- When a bill that has already reached a joint agreement is not endorsed by the President within thirty days after it has been jointly approved, the bill shall nevertheless become a valid law that has to be promulgated as such. **
+(5) When a bill that has already reached a joint agreement is not endorsed by the President within thirty days after it has been jointly approved, the bill shall nevertheless become a valid law that has to be promulgated as such. **
 
 #### Article 20A
 
-- The DPR has legislative, budgeting and supervisory functions. **
+(1) The DPR has legislative, budgeting and supervisory functions. **
 
-- To carry out its functions the DPR, apart from the rights regulated elsewhere in this Constitution, has the rights of interpellation, of enquiry, and of expressing opinions. **
+(2) To carry out its functions the DPR, apart from the rights regulated elsewhere in this Constitution, has the rights of interpellation, of enquiry, and of expressing opinions. **
 
-- Apart from the rights regulated elsewhere in this Constitution, each member of the DPR has the right to ask questions, to make proposals and to give his opinion along with the right to immunity. **
+(3) Apart from the rights regulated elsewhere in this Constitution, each member of the DPR has the right to ask questions, to make proposals and to give his opinion along with the right to immunity. **
 
-- Further provisions regarding the rights of the DPR and of the members of the DPR shall be regulated by law. **
+(4) Further provisions regarding the rights of the DPR and of the members of the DPR shall be regulated by law. **
 
 #### Article 21
 
-- The members of the DPR have the right to introduce bills. *
+(1) The members of the DPR have the right to introduce bills. *
 
 #### Article 22
 
-- In compelling crisis situations the President shall have the right to issue government regulations in lieu of law.
+(1) In compelling crisis situations the President shall have the right to issue government regulations in lieu of law.
 
-- Such government regulations have to be approved by the DPR in its next session.
+(2) Such government regulations have to be approved by the DPR in its next session.
 
-- If not approved, the government regulation in question has to be revoked.
+(3) If not approved, the government regulation in question has to be revoked.
 
 #### Article 22A
 
@@ -332,11 +334,11 @@ Members of the DPR can be removed from office, according to conditions and proce
 
 #### Article 22C
 
-- The members of the DPD shall be elected from each province through a general election. ***
+(1) The members of the DPD shall be elected from each province through a general election. ***
 
-- The total number of DPD members from each province shall be the same and the total number of members in the DPD shall not be more than 1/3 of the total number of members in the DPR. ***
+(2) The total number of DPD members from each province shall be the same and the total number of members in the DPD shall not be more than 1/3 of the total number of members in the DPR. ***
 
-- The DPD shall convene at least once a year. ***
+(3) The DPD shall convene at least once a year. ***
 
 [[END OF PAGE 4]]
 
@@ -403,39 +405,39 @@ The state owns a central bank the organization, authority, competence, responsib
 
 #### Article 24A
 
-- The Supreme Court shall have the competence to try cassation cases, to review regulations made under a law against that law, as well as other competences as provided by law. ***
+(1) The Supreme Court shall have the competence to try cassation cases, to review regulations made under a law against that law, as well as other competences as provided by law. ***
 
-- Each supreme justice must have integrity and a personality beyond reproach, be just, professional and experienced in matters of law. ***
+(2) Each supreme justice must have integrity and a personality beyond reproach, be just, professional and experienced in matters of law. ***
 
-- Candidates for supreme justices are proposed by the Judicial Commission for approval to the DPR and subsequently installed as supreme justices by the President. ***
+(3) Candidates for supreme justices are proposed by the Judicial Commission for approval to the DPR and subsequently installed as supreme justices by the President. ***
 
-- The chairman and vice chairman of the Supreme Court are to be chosen from among and by the supreme justices. ***
+(4) The chairman and vice chairman of the Supreme Court are to be chosen from among and by the supreme justices. ***
 
-- The organization, authority, membership, and judicial procedures of the Supreme Court as well as of its subordinate judicatory bodies shall be regulated by law. ***
+(5) The organization, authority, membership, and judicial procedures of the Supreme Court as well as of its subordinate judicatory bodies shall be regulated by law. ***
 
 #### Article 24B
 
-- The Judicial Commission shall be independent in nature and have the competence to make proposals for the appointment of supreme justices as well as other competences within the framework of safeguarding and upholding the honor, the high status and the behavior of judges. ***
+(1) The Judicial Commission shall be independent in nature and have the competence to make proposals for the appointment of supreme justices as well as other competences within the framework of safeguarding and upholding the honor, the high status and the behavior of judges. ***
 
-- The members of the Judicial Commission must have knowledge and experience in matters of law and an integrity and personality beyond reproach. ***
+(2) The members of the Judicial Commission must have knowledge and experience in matters of law and an integrity and personality beyond reproach. ***
 
-- The members of the Judicial Commission are to be appointed and dismissed by the President in agreement with the DPR. ***
+(3) The members of the Judicial Commission are to be appointed and dismissed by the President in agreement with the DPR. ***
 
-- The organization, authority, and membership of the Judicial Commission shall be regulated by law. ***
+(4) The organization, authority, and membership of the Judicial Commission shall be regulated by law. ***
 
 #### Article 24C
 
-- The Constitutional Court shall have the authority to make final decisions in cases of first and last instance handling the review of laws against the Constitution, to decide on authority arguments among state institutions whose competence is enshrined in the Constitution, to decide on the dissolution of political parties, and to decide on disputes regarding general election results. ***
+(1) The Constitutional Court shall have the authority to make final decisions in cases of first and last instance handling the review of laws against the Constitution, to decide on authority arguments among state institutions whose competence is enshrined in the Constitution, to decide on the dissolution of political parties, and to decide on disputes regarding general election results. ***
 
-- The Constitutional Court has the duty to rule on an opinion of the DPR regarding alleged violations of the Constitution by the President or the Vice President. ***
+(2) The Constitutional Court has the duty to rule on an opinion of the DPR regarding alleged violations of the Constitution by the President or the Vice President. ***
 
-- The Constitutional Court shall have as its members nine constitutional justices, to be installed by the President, three among them nominated by the Supreme Court, three by the DPR, and three by the President. ***
+(3) The Constitutional Court shall have as its members nine constitutional justices, to be installed by the President, three among them nominated by the Supreme Court, three by the DPR, and three by the President. ***
 
-- The chairman and the vice chairman of the Constitutional Court are to be elected from among and by the constitutional justices. ***
+(4) The chairman and the vice chairman of the Constitutional Court are to be elected from among and by the constitutional justices. ***
 
-- The constitutional justices must have integrity and a personality beyond reproach, be just, statesmanlike, master constitutional and state administrative matters, and not hold a position as state official. ***
+(5) The constitutional justices must have integrity and a personality beyond reproach, be just, statesmanlike, master constitutional and state administrative matters, and not hold a position as state official. ***
 
-- The appointment and dismissal of constitutional justices, judicial procedures and other provisions dealing with the Constitutional Court are to be regulated by law. ***
+(6) The appointment and dismissal of constitutional justices, judicial procedures and other provisions dealing with the Constitutional Court are to be regulated by law. ***
 
 #### Article 25
 
@@ -451,19 +453,19 @@ The Unitary State of the Republic of Indonesia is an archipelagic state the surf
 
 #### Article 26
 
-- Citizens are those who are indigenous Indonesians and persons of foreign origin who are legalized as citizens in accordance with the law.
+(1) Citizens are those who are indigenous Indonesians and persons of foreign origin who are legalized as citizens in accordance with the law.
 
-- Residents consist of Indonesian citizens and foreigners residing in Indonesia. **
+(2) Residents consist of Indonesian citizens and foreigners residing in Indonesia. **
 
-- Matters of citizenship and residency are to be regulated by law. **
+(3) Matters of citizenship and residency are to be regulated by law. **
 
 #### Article 27
 
-- All citizens shall have equal status before the law and the government and hold without exemption the law and the government in esteem.
+(1) All citizens shall have equal status before the law and the government and hold without exemption the law and the government in esteem.
 
-- Each citizen shall be entitled to an occupation and an existence proper for a human being.
+(2) Each citizen shall be entitled to an occupation and an existence proper for a human being.
 
-- Each citizen shall have the right and the duty to participate in the defense of the nation. **
+(3) Each citizen shall have the right and the duty to participate in the defense of the nation. **
 
 #### Article 28
 
@@ -477,15 +479,15 @@ Each person has the right to live and the right to defend his life and existence
 
 #### Article 28B
 
-- Each person has the right to establish a family and to generate offspring through a lawful marriage. **
+(1) Each person has the right to establish a family and to generate offspring through a lawful marriage. **
 
-- Each child has the right to live, grow up, and develop as well as the right to protection from violence or discrimination. **
+(2) Each child has the right to live, grow up, and develop as well as the right to protection from violence or discrimination. **
 
 #### Article 28C
 
-- Every person has the right to self-realization through the fulfillment of his basic needs, the right to education and to partake in the benefits of science and technology, art and culture, so as to improve the quality of his life and the well-being of mankind. **
+(1) Every person has the right to self-realization through the fulfillment of his basic needs, the right to education and to partake in the benefits of science and technology, art and culture, so as to improve the quality of his life and the well-being of mankind. **
 
-- Each person has the right to self-improvement by way of a collective struggle for his rights with a view to developing society, the nation, and the country. **
+(2) Each person has the right to self-improvement by way of a collective struggle for his rights with a view to developing society, the nation, and the country. **
 
 [[END OF PAGE 6]]
 
@@ -549,7 +551,7 @@ Each person has the right to communication and to acquiring information for his 
 
 #### Article 29
 
-- The state is based on the belief in the One and Only God.
+(1) The state is based on the belief in the One and Only God.
 
 (2) The state guarantees each and every citizen the freedom of religion and of worship in accordance with his religion and belief.
 
@@ -571,9 +573,9 @@ Each person has the right to communication and to acquiring information for his 
 
 #### Article 31
 
-- Each citizen has the right to an education. ****
+(1) Each citizen has the right to an education. ****
 
-- Each citizen is obliged to follow elementary education and the government has the duty to fund this. ****
+(2) Each citizen is obliged to follow elementary education and the government has the duty to fund this. ****
 
 (3) The government organizes and implements a national education system, to be regulated by law, that aims at enhancing religious and pious feelings as well as moral excellence with a view to upgrading national life. ****
 
@@ -581,39 +583,39 @@ Each person has the right to communication and to acquiring information for his 
 
 [[START OF PAGE 8]]
 
-- The state shall give priority to the education budget by allocating at least twenty percent of the state's as well as of the regional budgets to meet the requirements of implementing national education. ****
+(4) The state shall give priority to the education budget by allocating at least twenty percent of the state's as well as of the regional budgets to meet the requirements of implementing national education. ****
 
-- The government advances science and technology along with holding religious values and national unity in high esteem with a view to promoting civilization as well as the well-being of humanity. ***
+(5) The government advances science and technology along with holding religious values and national unity in high esteem with a view to promoting civilization as well as the well-being of humanity. ***
 
 #### Article 32
 
-- The state shall advance Indonesia's national culture among the civilizations of the world by guaranteeing the freedom of the people to maintain and develop cultural values. ****
+(1) The state shall advance Indonesia's national culture among the civilizations of the world by guaranteeing the freedom of the people to maintain and develop cultural values. ****
 
-- The state shall respect and preserve the languages in the regions as national cultural treasures. ****
+(2) The state shall respect and preserve the languages in the regions as national cultural treasures. ****
 
 ### SECTION XIV - NATIONAL ECONOMY AND SOCIAL WELFARE****
 
 #### Article 33
 
-- The economy is to be structured as a common endeavor based on familial principles. ****
+(1) The economy is to be structured as a common endeavor based on familial principles. ****
 
-- Production sectors that are vital to the state and that affect the livelihood of a considerable part of the population are to be controlled by the state. ****
+(2) Production sectors that are vital to the state and that affect the livelihood of a considerable part of the population are to be controlled by the state. ****
 
-- The land and the waters as well as the natural riches therein are to be controlled by the state to be exploited to the greatest benefit of the people. ****
+(3) The land and the waters as well as the natural riches therein are to be controlled by the state to be exploited to the greatest benefit of the people. ****
 
-- The organization of the national economy shall be based on economic democracy that upholds the principles of solidarity, efficiency along with fairness, sustainability, keeping the environment in perspective, self-sufficiency, and that is concerned as well with balanced progress and with the unity of the national economy. ****
+(4) The organization of the national economy shall be based on economic democracy that upholds the principles of solidarity, efficiency along with fairness, sustainability, keeping the environment in perspective, self-sufficiency, and that is concerned as well with balanced progress and with the unity of the national economy. ****
 
-- Further provisions regarding the implementation of this article are to be regulated by law. ****
+(5) Further provisions regarding the implementation of this article are to be regulated by law. ****
 
 #### Article 34
 
-- Impoverished persons and abandoned children are to be taken care of by the state. ****
+(1) Impoverished persons and abandoned children are to be taken care of by the state. ****
 
-- The state develops a social security system for everybody and empowers the weak and underprivileged in society in accordance with their dignity as human beings. ****
+(2) The state develops a social security system for everybody and empowers the weak and underprivileged in society in accordance with their dignity as human beings. ****
 
-- The state has the responsibility to provide proper medical and public service facilities. ****
+(3) The state has the responsibility to provide proper medical and public service facilities. ****
 
-- Further provisions regarding the implementation of this article are to be regulated by law. ****
+(4) Further provisions regarding the implementation of this article are to be regulated by law. ****
 
 ### SECTION XV - THE STATE'S FLAG, LANGUAGE, AND COAT OF ARMS, AND THE NATIONAL ANTHEM**
 
@@ -641,15 +643,15 @@ Further provisions regarding the flag, language, and coat of arms of the state, 
 
 #### Article 37
 
-- Proposals to amend articles of the Constitution can be put on the agenda of the MPR session if submitted by at least 1/3 of the total number of members in the MPR. ****
+(1) Proposals to amend articles of the Constitution can be put on the agenda of the MPR session if submitted by at least 1/3 of the total number of members in the MPR. ****
 
-- Each proposal to amend articles of the Constitution has to be submitted in writing and to mention clearly which part should to be amended and for what reason. ****
+(2) Each proposal to amend articles of the Constitution has to be submitted in writing and to mention clearly which part should to be amended and for what reason. ****
 
-- To amend articles of the Constitution the MPR session has to be attended by at least 2/3 of all members of the MPR. ****
+(3) To amend articles of the Constitution the MPR session has to be attended by at least 2/3 of all members of the MPR. ****
 
-- A decision to amend articles of the Constitution requires the agreement of at least fifty percent plus one vote of all the members of the MPR. ****
+(4) A decision to amend articles of the Constitution requires the agreement of at least fifty percent plus one vote of all the members of the MPR. ****
 
-- Especially those provisions regarding the form of the Unitary State of the Republic of Indonesia may not be amended. ****
+(5) Especially those provisions regarding the form of the Unitary State of the Republic of Indonesia may not be amended. ****
 
 ### TRANSITIONAL PROVISIONS
 
@@ -709,7 +711,7 @@ Dewan Pertimbangan Agung. The English equivalent that was most often used for th
 
 Kabupaten - a geographical and administrative subdivision immediately under the provincial level, often translated as "regency" when referring to colonial times, or as "district" in post-colonial times.
 
-Kota - At the national level, an agglomeration as an administrative unit has to answer several criteria to be considered a "city" or kota. Yet, since the introduction of regional autonomy, the capital of a kabupaten is also called a "kota", often without fulfilling the requirements to be recognized as a "city" at the national level. "Kota" is often translated as "municipality" (Dutch: gemeente - French: commune, municipalite - German: Gemeinde) but all these foreign terms may in their country of origin also apply to small administrative units some of which would be considered in Indonesia a "desa" or village.
+Kota - At the national level, an agglomeration as an administrative unit has to answer several criteria to be considered a "city" or kota. Yet, since the introduction of regional autonomy, the capital of a kabupaten is also called a "kota", often without fulfilling the requirements to be recognized as a "city" at the national level. "Kota" is often translated as "municipality" (Dutch: gemeente - French: commune, municipalité - German: Gemeinde) but all these foreign terms may in their country of origin also apply to small administrative units some of which would be considered in Indonesia a "desa" or village.
 
 DPRD - Dewan Perwakilan Rakyat Daerah, Regional House of Representatives.
 
