@@ -24,7 +24,7 @@ Eleventh consultation of Member  States on the application of the Convention and
 
 ## 1. Introduction
 
-The Convention against Discrimination in Education ('the Convention') and the Recommendation against  Discrimination  in  Education  ('the  Recommendation'),  adopted  by  UNESCO's  General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'ad vance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
+The Convention against Discrimination in Education ('the Convention') and the Recommendation against Discrimination in Education ('the Recommendation'), adopted by UNESCO's General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'advance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
 
 The right to education is one of the key principles underpinning the Education 2030 agenda and Sustainable Development Goal 4 (SDG4) adopted by the international community in 2015. SDG 4 seeks to ensure the full enjoyment of the right to education as fundamental to achieving sustainable development. Its scope captures the multidimensional nature of the right to education.
 
@@ -38,13 +38,15 @@ Considering the Education 2030 agenda, the monitoring of the Convention and the 
 
 As the scope and content of the legal obligations under the right to education are aligned with the 10  targets  of  SDG 4,  efforts  are  being  made  to  ensure  that  the  components  of  the  targets  are included in the guidelines and that these guidelines serve as a valuable contribution to monitoring progress towards SDG 4 targets.
 
-Beyond SDG 4, the Convention is also closely aligned with the normative content on the right to education of other international human rights instruments such as the International Covenant on Economic,  Social  and  Cultural  Rights  (1966),  Convention  on  the  Elimination  of  All  Forms  of Discrimination against Women (1979), the Convention on the Rights of the Child (1989) and the Convention on the Rights of Persons with Disabilities (2006).
+Beyond SDG 4, the Convention is also closely aligned with the normative content on the right to education of other international human rights instruments such as the International Covenant on Economic, Social and Cultural Rights (1966), Convention on the Elimination of All Forms of
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-In  addition,  this  Consultation  is  an  opportunity  to  inform  the  ongoing UNESCO Initiative on the Evolving  Right  to  Education  within  a  lifelong  learning  perspective 1  (launched  in  December 2021). The Initiative investigates how the right to education could be reinforced placing it within a lifelong  learning  perspective  and  in  light  of  the  new  demands  being  placed  on  education.  This Initiative builds on the Report from the International Commission on the Futures of Education 2 , which suggests to broaden our understanding of the right to education to clearly apply it to all ages and across all times and spaces. The initiative is also in-line with the Vision Statement of the United Nations  Secretary  General  on  Transforming  Education 3 ,  and  the Report  on  the  2022 Transforming  Education  Summit 4 which  call  for  the  transformation  of  education  systems  to 'include everyone, regardless of circumstance, context or background'. The Initiative on the Evolving Right to Education aims to open a collaborative and participatory discussion about the international framework to ensure the effective enforcement of the right to education and learning throughout life for all. Finally, the Initiative builds on recent inter-governmental dialogues, including the Marrakech Framework for Action for  Adult  Learning  and  Education 5  and  the  Tashkent  Declaration  on  Early Childood Care and Education. 6
+Discrimination against Women (1979), the Convention on the Rights of the Child (1989) and the Convention on the Rights of Persons with Disabilities (2006).
+
+In addition, this Consultation is an opportunity to inform the ongoing UNESCO Initiative on the Evolving Right to Education within a lifelong learning perspective 1 (launched in December 2021). The Initiative investigates how the right to education could be reinforced placing it within a lifelong learning perspective and in light of the new demands being placed on education. This Initiative builds on the Report from the International Commission on the Futures of Education 2, which suggests to broaden our understanding of the right to education to clearly apply it to all ages and across all times and spaces. The initiative is also in-line with the Vision Statement of the United Nations Secretary General on Transforming Education 3, and the Report on the 2022 Transforming Education Summit 4 which call for the transformation of education systems to 'include everyone, regardless of circumstance, context or background'. The Initiative on the Evolving Right to Education aims to open a collaborative and participatory discussion about the international framework to ensure the effective enforcement of the right to education and learning throughout life for all. Finally, the Initiative builds on recent inter-governmental dialogues, including the Marrakech Framework for Action for Adult Learning and Education 5 and the Tashkent Declaration on Early Childood Care and Education. 6
 
 It  is  also  important  to  note  that  previous  consultations  on  the  Convention  and  Recommendation revealed  that  countries  now  understand  the  right  to  education  in  an  extended  manner.  The 11th consultation builds on the findings of the previous national reports to include various areas that have direct repercussions on the right to education such as, for instance, digital learning, climate considerations, lifelong learning entitlement, and the role of non-state actors in education.
 
@@ -54,7 +56,7 @@ There are differences in the legal nature of the obligations under the Conventio
 
 Bearing in mind the differences in legal scope inherent to the nature of these two categories of instruments,  the  content  of  the  Recommendation  is  identical  to  that  of  the  Convention.  Member States are expected to give effect to it in national legislation and education policies.
 
-The  reporting  obligation  under  the  provisions  of  Article  VII  of  the  Convention  and  of  the Recommendation is the same. Article VIII of UNESCO's Constitution states that ' Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General  Conference,  reports  on  the  laws,  regulations  and  statistics  relating  to  its  educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to i n Article IV, paragraph 4' . Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
+The reporting obligation under the provisions of Article VII of the Convention and of the Recommendation is the same. Article VIII of UNESCO's Constitution states that 'Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General Conference, reports on the laws, regulations and statistics relating to its educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4'. Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
 
 > 1 https://www.unesco.org/en/right-education/evolving
 
@@ -80,11 +82,11 @@ The Futures of Education Report calls for a new social contract for education, w
 
 The preparation of national reports provides a good opportunity for Member States to assess the implementation  of  the  right  to  education  in  their  country,  identify  specific  challenges,  build constructive dialogue with other actors involved in this field and share good practices.
 
-In the preparation of reports, Member States are encouraged to provide substantive and relevant information  in  a  concise  manner .  In  addition  to  a  description  of  the  constitutional,  legislative, administrative, and  policy framework  established  for  the implementation  of  the provisions guaranteed by the instruments, the information supplied by Member States should demonstrate how legal norms and practices comply with the Convention and the Recommendation.
+In the preparation of reports, Member States are encouraged to provide substantive and relevant information in a concise manner. In addition to a description of the constitutional, legislative, administrative, and policy framework established for the implementation of the provisions guaranteed by the instruments, the information supplied by Member States should demonstrate how legal norms and practices comply with the Convention and the Recommendation.
 
 Relevant information supplied for other reporting instances may be reproduced or referred to with precise indication as to its retrieval. Similarly, hyperlinks to any useful documents or relevant legal and policy texts are most welcome and texts can also be added in the annex.
 
-Country reports submitted for previous consultations can be found on the Observatory on the right to education 7 in the monitoring section of the country profile. The information provided in the reports are valuable both for the Observatory on the right to education as well as for HerAtlas 8 , the online monitoring tool for girls' and women's right to education. Information and data regarding countries ' education systems are also available through the UNESCO Institute for Statistics database 9 . Beyond monitoring  purposes,  the  consultation  findings  and  reports  inform  broader  work  -  serving  for knowledge generation, advocacy, and technical cooperation.
+Country reports submitted for previous consultations can be found on the Observatory on the right to education 7 in the monitoring section of the country profile. The information provided in the reports are valuable both for the Observatory on the right to education as well as for HerAtlas 8, the online monitoring tool for girls' and women's right to education. Information and data regarding countries' education systems are also available through the UNESCO Institute for Statistics database 9. Beyond monitoring purposes, the consultation findings and reports inform broader work - serving for knowledge generation, advocacy, and technical cooperation.
 
 ## 5. Modalities and structure
 
@@ -108,9 +110,9 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 [[START OF PAGE 6]]
 
-- Open-ended  and  closed-ended  questions  to  be  directly  filled  in  by  Member  States. Please note that multiple answers may be provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States. Please note that multiple answers may be provided where relevant.
 
-- Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 [[END OF PAGE 6]]
 
@@ -126,7 +128,7 @@ Name of contact person: Kanita Aref
 
 Email and telephone number of contact person: Kanita.Aref@uvm.dk ; +45 21 36 09 18
 
-# Ratification and applicability of the Convention against Discrimination in Education 10
+# I. Ratification and applicability of the Convention against Discrimination in Education 10
 
 - Is your country a State Party to the Convention?
 
@@ -174,7 +176,7 @@ Email and telephone number of contact person: Kanita.Aref@uvm.dk ; +45 21 36 09 
 
 Information could also be given about the judicial, administrative and other competent authorities having jurisdiction with respect to the right to education.
 
-# Information  on  the  implementation  of  the  Convention  or  Recommendation  in  the  context  of Sustainable Development Goal 4 (SDG4)
+# II. Information on the implementation of the Convention or Recommendation in the context of Sustainable Development Goal 4 (SDG4)
 
 ## 1. Towards an inclusive non-discriminatory education system
 
@@ -184,9 +186,7 @@ It further corresponds to the overall aspiration of SDG4 which aims to 'ensure i
 
 - Please  indicate  whether  the  rights  and  principles  laid  out  in  the  Convention/Recommendation informed the elaboration of the education legal and/or policy framework:
 
-
-
-Yes  No
+ Yes  No
 
 - If yes, please provide reference:
 
@@ -238,7 +238,7 @@ All  families  are  guaranteed day-care availability in their municipality of re
 
 > 13 See: Article/Paragraph 1(1).
 
-> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programme s'.
+> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'.
 
 > 15 Constitution, laws, decrees, regulations, circulars, etc.
 
@@ -246,7 +246,7 @@ All  families  are  guaranteed day-care availability in their municipality of re
 
 [[START OF PAGE 10]]
 
-Day-care, Leisure and Club Activities (Children and Young Persons) Act [Lov om dag -fritids -og klubtilbud mv. til børn og unge (dagtilbudsloven)] ( Consolidation Act No 55 of 17 January 2024). Dagtilbudsloven (retsinformation.dk)
+Day-care, Leisure and Club Activities (Children and Young Persons) Act [Lov om dag-, fritids- og klubtilbud mv. til børn og unge (dagtilbudsloven)] (Consolidation Act No 55 of 17 January 2024). Dagtilbudsloven (retsinformation.dk)
 
 It appears from the Education Environment Act §1 that pupils, students and other participants  in  public  and  private  education  have  the  right  to  a  good  education environment, so that education can take place in a fully responsible manner in terms of  safety  and  health.  The  teaching  environment  at  schools  and  educational institutions  (educational  sites)  must  promote  the  participants'  opportunities  for development and learning and therefore includes the psychological and aesthetic environment of the educational institution.
 
@@ -260,13 +260,13 @@ It appears from the Education Environment Act §1 that pupils, students and othe
 
 Admission  to  upper  secondary  education  in  Denmark  is  based  on  academic performance and specific entry requirements. These criteria are applied uniformly to all students.
 
-Regarding general upper secondary education, Danish law states that the common objective of  general  upper  secondary  education  programmes is to  1) Prepare the students for higher education, and 2) Ensure that the students acquire 'almendannelse', an ambiguous term that can be translated in to 'general education'. The  common  objective  is  reached  by  the  knowledge  and  competences  that  the students acquire through the subjects and the multi-subject courses they study and through the school culture and environment. The students must achieve the abilities to actively participate in a democracy and gain an understanding of the possibilities of individually and collectively contributing to development and change etc. Teaching and  the  daily  life  of  the  educational  institution  must  therefore  be  based  on 'åndsfrihed' (freedom of spirit/mind), equality and democracy and strengthen the students'  knowledge  of  and  respect  for  fundamental  freedom  rights  and  human rights -including gender equality.
+Regarding general upper secondary education, Danish law states that the common objective of general upper secondary education programmes is to 1) Prepare the students for higher education, and 2) Ensure that the students acquire 'almendannelse', an ambiguous term that can be translated in to 'general education'. The common objective is reached by the knowledge and competences that the students acquire through the subjects and the multi-subject courses they study and through the school culture and environment. The students must achieve the abilities to actively participate in a democracy and gain an understanding of the possibilities of individually and collectively contributing to development and change etc. Teaching and the daily life of the educational institution must therefore be based on 'åndsfrihed' (freedom of spirit/mind), equality and democracy and strengthen the students' knowledge of and respect for fundamental freedom rights and human rights – including gender equality.
 
-Furthermore, the Regional Council in the region where an institution is located can give priority to an applicant due to disability, if the Regional Council assesses that it is  of  significant  importance  for  the  applicant  to  be  admitted  to  the  particular in stitution  due  to  the  applicant's  disability  and  mobility  in  comparison  with  the institution's accessibility.
+Furthermore, the Regional Council in the region where an institution is located can give priority to an applicant due to disability, if the Regional Council assesses that it is of significant importance for the applicant to be admitted to the particular institution due to the applicant's disability and mobility in comparison with the institution's accessibility.
 
 #### Vocational education and training
 
-In vocational education and training, the Working Environment Act covers students and apprentices, when they are in training. The Act aims to create a safe and healthy physical and mental working environment that is at all times in accordance with the technical and social development in society. The Equal Treatment Act covers students and apprentices both in school and in training.  It appears from Section 1 of the Equal Ministerial  Order  on  Access  to  fine  arts  study  programmes  organized  full-time ( Bekendtgørelse om adgang til videregående kunstneriske uddannelser tilrettelagt på heltid ), BEK no. 57 of 10/01/2024
+In vocational education and training, the Working Environment Act covers students and apprentices, when they are in training. The Act aims to create a safe and healthy physical and mental working environment that is at all times in accordance with the technical and social development in society. The Equal Treatment Act covers students and apprentices both in school and in training. It appears from Section 1 of the Equal
 
 [[END OF PAGE 10]]
 
@@ -277,13 +277,13 @@ Treatment Act that by equal treatment of men and women, it is understood that th
 #### Adult education and alternative learning
 
 ##### Preparatory  Basic  Education
-enable  youths  below  25  to  improve  professionally, personally and  socially  with  the  aim  to  proceed  into  the  labour  market  or  upper secondary and vocational education and training. FGU offers an inclusive learning environment where students are enabled to participate in lessons equally on their own level. The teaching of students with dyslexia and students with other needs that require special consideration or support must be holistic and, as far as possible, take place  through  an  inclusive  learning  environment.  The  teaching  must  support  and motivate the use of compensatory aids if appropriate. In Preparatory Basic Education, students  with  special  needs  are  eligible  for  special  educational  aids  like  reading- writing technology, specially designed teaching materials, sign language interpretation and written interpretation.
+enable youths below 25 to improve professionally, personally and socially with the aim to proceed into the labour market or upper secondary and vocational education and training. FGU offers an inclusive learning environment where students are enabled to participate in lessons equally on their own level. The teaching of students with dyslexia and students with other needs that require special consideration or support must be holistic and, as far as possible, take place through an inclusive learning environment. The teaching must support and motivate the use of compensatory aids if appropriate. In Preparatory Basic Education, students with special needs are eligible for special educational aids like reading-writing technology, specially designed teaching materials, sign language interpretation and written interpretation.
 
 ##### Specially planned youth  education :
 Adults, and  young people who  finished compulsory  education,  with  physical  or psychological disabilities  can receive specifically organized education and counselling to mitigate or limit the impact of their disability, e.g. methods and aids that can compensate for the disability in order for the citizen to better participate in society. The special needs education is provided and planned by the municipalities, based on the citizen's individual prerequisites, skills, and needs.
 
 ##### Special needs education for adults with physical or psychological disabilities :
-Adults, and young people who finished compulsory education, with physical or psychological disabilities can receive specifically organized education and counselling to mitigate or limit the impact of their disability, e.g. methods and aids that can compensate for the disability in order for the citizen to better participate in society. The special needs education  is  provided  and  planned  by  the  municipalities,  based  on  the  citize n's individual prerequisites, skills, and needs.
+Adults, and young people who finished compulsory education, with physical or psychological disabilities can receive specifically organized education and counselling to mitigate or limit the impact of their disability, e.g. methods and aids that can compensate for the disability in order for the citizen to better participate in society. The special needs education is provided and planned by the municipalities, based on the citizen's individual prerequisites, skills, and needs.
 
 ##### Education for adults with dyslexia :
 There is a continuous political focus on promoting equal access to education for people with disabilities. Since 2019 Danish ministers' of Children and Education has passed five dyslexia packages. Each political agreement contains several initiatives - e.g. establishment of a National Center for knowledge on dyslexia, seven million Danish kroner for educating dyslexic teachers and reading assistants, development of a dyslexia-test for children and youngsters with a poor Danish vocabulary. The newest dyslexia package is package 5 and focuses specifically on adults, parents and young people with no education or job (the NEET group).
@@ -301,63 +301,20 @@ Individuals with disabilities attending adult vocational training are entitled t
 
 receive special educational assistance tailored to their needs. This may include one or more of the following types of support:
 
-1.
-
-Assistive devices and instructions of use.
-
-2.
-
-Individualized assistance.
-
-- Allocation of support hours.
-
-- Specially designed educational materials.
-
-5.
-
-Interpretation services for sign language and written text.
+1. Assistive devices and instructions of use.
+2. Individualized assistance.
+3. Allocation of support hours.
+4. Specially designed educational materials.
+5. Interpretation services for sign language and written text.
 
 The assigned educational support can be used for various purposes such as instruction, field trips, tests and traineeship. Furthermore, if a participant with disabilities enrolls in another educational programme that qualifies for special educational assistance, they may continue to receive support. The adult education provider is obliged to provide the necessary resources for participants with physical or mental disabilities. This can be achieved in different ways:
 
--
-
-Providing access to special educational devices/tools and support
-
-during the test.
-
--
-
-Assistive technology can include a tablet or laptop with synthetic
-
-speech and a scanner, as well as training materials in electronic form.
-
-Assistive technology is particularly relevant for participants with
-
-reading, visual or hearing impairments. For participants who are deaf,
-
-the support can include sign language interpretation.
-
--
-
-Permission to use a support person that can help with typing and
-
-writing during the test.
-
--
-
-Ensuring that test materials are available in formats that are accessible
-
-to the participant.
-
--
-
-Allowing extra time to prepare and complete the test.
-
--
-
-Providing a calm and focused environment for participants who have
-
-difficulty concentrating.
+- Providing access to special educational devices/tools and support during the test.
+- Assistive technology can include a tablet or laptop with synthetic speech and a scanner, as well as training materials in electronic form. Assistive technology is particularly relevant for participants with reading, visual or hearing impairments. For participants who are deaf, the support can include sign language interpretation.
+- Permission to use a support person that can help with typing and writing during the test.
+- Ensuring that test materials are available in formats that are accessible to the participant.
+- Allowing extra time to prepare and complete the test.
+- Providing a calm and focused environment for participants who have difficulty concentrating.
 
 #### Higher Education:
 
@@ -373,7 +330,9 @@ Ministerial Order on Access to university programmes organised full-time ( Beken
 
 [[START OF PAGE 13]]
 
-The Act on Maritime Education ( Bekendtgørelse af lov om maritime uddannelser ), LBK nr 691 af 11/06/2024
+Ministerial Order on Access to fine arts study programmes organized full-time (Bekendtgørelse om adgang til videregående kunstneriske uddannelser tilrettelagt på heltid), BEK no. 57 of 10/01/2024
+
+The Act on Maritime Education (Bekendtgørelse af lov om maritime uddannelser), LBK nr 691 af 11/06/2024
 
 ##### References:
 
@@ -452,15 +411,18 @@ Denmark has a special education scheme for young people with autism at the gener
 [[START OF PAGE 15]]
 
 autism. The Danish government has increased the amount of these special school classes from 13 to 19 in 2024.
----
+
 #### Vocational education and training
 ##### Students with disabilities:
 It is a requirement in vocational education and training that time allocated to education at school must be a full-time study.
 The Board of Equal Treatment decided in November 2022 that it is against the principle of equal treatment in the Discrimination Act to refuse to meet the need of an applicant with a disability for vocational education and training as a part-time study.
-Therefore, in January 2024 BUVM announced providers of vocational education and training that, based on a specific and individual assessment of the apprentice, they must manage the legislation on vocational training in accordance with the Discrimination Act. This means that schools must admit applicants on a part-time basis if the conditions are according to the decision in the Board of Equal Treatment, and is has been concluded that SPS is not a sufficient measure in order for the
+Therefore, in January 2024 BUVM announced providers of vocational education and training that, based on a specific and individual assessment of the apprentice, they must manage the legislation on vocational training in accordance with the Discrimination Act. This means that schools must admit applicants on a part-time basis if the conditions are according to the decision in the Board of Equal Treatment, and is has been concluded that SPS is not a sufficient measure in order for the individual to complete the vocational education and training program.
 The school must carry out a specific and individual assessment of whether the individual apprentice with a disability will be able to complete the vocational education and training program under normal conditions, i.e. as full-time teaching and whether the apprentice's disability can be remedied with SPS.
 Since the beginning of 2022, providers of vocational education and training has as a trial scheme had the opportunity to organize the second part of the basic course (GF2) on special terms for students and apprentices with disabilities or similar severe difficulties. The duration of GF2 can thereby be extended by up to 50%.
 ##### Gender:
+
+With the tripartite agreement on sexual harassment from 2022, it was agreed that the following should be implemented in the field of vocational training and education:
+
 1. Clarification of access to canceling an education agreement on due to sexual harassment. It was introduced in the Vocational Training Act that in cases of sexual harassment, where the student terminates the education agreement, the deadline of one month can be waived after concrete assessment. With the tripartite agreement, it was emphasized that sexual harassment in the sense of the Equal Treatment Act is basically a significant breach that can justify the cancellation of the training agreement.
 2. Fast track in the professional committees and in the Disputes Board in cases of sexual harassment. Under the auspices of the Ministry of Children and Education, a committee was established with the parties to establish a uniform and particularly fast and confidential process (fast track) for the professional committees' and the Disputes Board's handling of cases of sexual harassment.
 
@@ -476,7 +438,7 @@ Since the beginning of 2022, providers of vocational education and training has 
 
 ##### Teachers training:
 
-Teachers  participating  in  a  diploma  programme  in  vocational  education  have  the opportunity to take a module about various prerequisites of young people and adults and their opportunities to participate.  The teacher learn how to differentiate their teachin g in order to strengthen the apprentices' opportunities for participation.
+Teachers participating in a diploma programme in vocational education have the opportunity to take a module about various prerequisites of young people and adults and their opportunities to participate. The teacher learn how to differentiate their teaching in order to strengthen the apprentices' opportunities for participation.
 
 During the module, the teachers work with the following themes:
 
@@ -503,12 +465,12 @@ The Ministry of Children and Education will in summer 2024 release guiding mater
 [[START OF PAGE 17]]
 
 apprenticeship. The purpose of the materials is to ensure that students get the help they need and that they know of their rights in situations regarding harassment
----
+
 #### Adult education and alternative learning
 There are a number of opportunities for adults wishing to receive education and refresh their competences. Denmark has a long tradition of improving the competences of the workforce beyond compulsory stages of education. In fact, the notion is very much that learning is a lifelong occupation.
 ##### Adult vocational training
 There are approximately 3000 different adult vocational training programmes and 200 single subject courses from the mainstream vocational training and education programme, all of which may be combined. They are mainly short vocational training programmes, the duration of which normally varies from half a day to 6 weeks, in average 3 days. It is possible to combine adult vocational training programmes in the same job area or to supplement a programme with more specialized programmes within a field.
-There are user fees on technical, commercial, ICT, language and social communication, management etc. adult vocational training programs. On average the user fee for adult vocational training programs is about 15 per cent of the total expenditure. The expenditure for user fee is normally paid by the employers. Courses in the social and health service, individual competence assessment and participation by the unemployed who attend individually selected programmes for 6 weeks are
+There are user fees on technical, commercial, ICT, language and social communication, management etc. adult vocational training programs. On average the user fee for adult vocational training programs is about 15 per cent of the total expenditure. The expenditure for user fee is normally paid by the employers. Courses in the social and health service, individual competence assessment and participation by the unemployed who attend individually selected programmes for 6 weeks are free of user fees.
 ##### Preparatory Basic Education
 enable youths below 25 to improve professionally, personally and socially with the aim to proceed into the labour market or upper secondary and vocational education and training. The education offers an inclusive learning environment where students are enabled to participate in lessons equally on their own level. The teaching of students with dyslexia and students with other needs that require special consideration or support must be holistic and, as far as possible, take place through the inclusive learning environment. The teaching must support and motivate the use of compensatory aids if appropriate. In Preparatory Basic Education, students with special needs are eligible for special educational aids like reading-writing technology, specially designed teaching materials, sign language interpretation and written interpretation.
 ##### Specially planned youth education
@@ -569,13 +531,12 @@ during the test.
 [[START OF PAGE 19]]
 
 reading, visual or hearing impairments. For participants who are deaf, the support can include sign language interpretation.
----
 - Permission to use a support person that can help with typing and writing during the test.
 - Ensuring that test materials are available in formats that are accessible to the participant.
 - Allowing extra time to prepare and complete the test.
 - Providing a calm and focused environment for participants who have difficulty concentrating.
 #### Higher education:
-Is covered by general legislation,
+Is covered by general legislation, see below.
 
  Combatting discrimination in terms of curriculum:
 
@@ -595,7 +556,7 @@ Is covered by general legislation,
 
 #### Early Childhood Education and Care
 
-As previously stated, a new strengthened pedagogical curriculum was enforced In 2018,  amongst  many  other  things  focusing  on  how  ECEC  can  contribute  to  the realization of children's full potential, no matter their gender, culture or ethnicity. An inspiratio n  catalogue  focusing  on  'culture,  aesthetics  and  communities'  in  ECEC provides pedagogical staff with a number of examples on how to promote equality between the sexes already in ECEC.
+As previously stated, a new strengthened pedagogical curriculum was enforced In 2018, amongst many other things focusing on how ECEC can contribute to the realization of children's full potential, no matter their gender, culture or ethnicity. An inspiration catalogue focusing on 'culture, aesthetics and communities' in ECEC provides pedagogical staff with a number of examples on how to promote equality between the sexes already in ECEC.
 
 #### Primary and Lower Secondary Education:
 
@@ -669,7 +630,7 @@ Student  councils  play  an  important  role  in  terms  of  brining  issues  to
 
 > 16 Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
 
-> 17 Multiple and flexible learning pathways are 'entry points and re -entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge,  skills  and  c ompetencies  acquired  through  nonformal  and  informal  education'  ( Education  2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
+> 17 Multiple and flexible learning pathways are 'entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge, skills and competencies acquired through nonformal and informal education' (Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
 
 > 18 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
 
@@ -679,15 +640,7 @@ Student  councils  play  an  important  role  in  terms  of  brining  issues  to
 
  Initiatives to address discrimination and promote cultural diversity and mutual acceptance
 
-
-
-Other:
-
- Initiatives to address discrimination and promote cultural diversity and mutual acceptance
-
-
-
-Other:
+ Other:
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
@@ -717,7 +670,7 @@ Regarding general upper secondary education, Danish law states that the common o
 
 [[START OF PAGE 23]]
 
-knowledge  of  and  respect  for  fundamental  freedom  rights  and  human  rights - including equality between sexes.
+knowledge of and respect for fundamental freedom rights and human rights – including equality between sexes.
 
 ###### Postgraduate teacher education programme
 
@@ -727,27 +680,9 @@ Furthermore, the theoretical courses of the 'pædagogikum' cover a wide range of
 
 ###### Students with disabilities
 
-The Regional Council in the region where an institution is located can give priority to an applicant  due  to  their  disability,  if  the  Regional  Council  assesses  that  it  is  of  significant importance for the applicant to be admitted to the particular instituti on due to the applicant's disability and mobility in comparison with the institution's accessibility.
+The Regional Council in the region where an institution is located can give priority to an applicant due to their disability, if the Regional Council assesses that it is of significant importance for the applicant to be admitted to the particular institution due to the applicant's disability and mobility in comparison with the institution's accessibility.
 
-Examinees with physical and mental disabilities may be offered the opportunity to take an
-
-exam  under  special  conditions.  The  exam  itself  is  not  changed
-
--
-
-but  the  examinee  is
-
-compensated through these special conditions, such as by being given more time for the
-
-exam or being allowed to use special aids. Both written and oral exams can be arranged with
-
-special conditions. It is the management of the institution that decides whether an examinee
-
-can be offered special exam conditions. The purpose of special exam conditions is to place
-
-examinees  with  a  disability  on  an  equal  footing  with  other  examinees  during  the  exam
-
-situation.
+Examinees with physical and mental disabilities may be offered the opportunity to take an exam under special conditions. The exam itself is not changed – but the examinee is compensated through these special conditions, such as by being given more time for the exam or being allowed to use special aids. Both written and oral exams can be arranged with special conditions. It is the management of the institution that decides whether an examinee can be offered special exam conditions. The purpose of special exam conditions is to place examinees with a disability on an equal footing with other examinees during the exam situation.
 
 Furthermore, Denmark has a special education scheme for young people with autism at the general upper secondary level. The special school classes have a maximum capacity of 12 students and are designed to meet specific needs of young people with autism. The Danish government is increasing the amount of these special school classes by almost 50 percent in 2024.
 
@@ -822,7 +757,7 @@ The  State  Educational  Grant  and  Loan  Scheme  (SU)  provides  financial sup
 
 ###### Reference:
 
-State Educational Grant and Loan Scheme (SU and SUlån) | SU
+State Educational Grant and Loan Scheme (SU and SU-lån) | SU
 
 - In general, what challenges were encountered in the implementation of non-discrimination and equal opportunities principles in education? If needed, brief quantitative information may be added.
 
@@ -846,17 +781,27 @@ State Educational Grant and Loan Scheme (SU and SUlån) | SU
 
  Teachers are trained (initial and in-service) on gender equality
 
- Teachers are trained to combat stigmatisation 19
+ Teachers are trained to combat stigmatisation19
+
+ Re-entry programmes for young mothers are provided for
+
+ Ensuring safe and adequate gender-sensitive sanitation facilities20
+
+ Curricula are rid of all stereotypes21 and bias
+
+ Ensuring gender parity in science, technology, engineering and mathematics (STEM)
+
+ Ensuring gender parity in technical and vocational training education and training (TVET)
 
  Other:
 
-Denmark has set up an expert group that has come up with recommendations on how the negative consequences of gender can be reduced for educational development and results in day  care,  elementary  school  and  youth  education.  The  expert  group  submitted  their recommendations for both state and local level in April 2024.
+Denmark has set up an expert group that has come up with recommendations on how the negative consequences of gender can be reduced for educational development and results in day care, elementary school and youth education. The expert group submitted their recommendations for both state and local level in April 2024.
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
 ##### Primary and Lower Secondary Education:
 
-There is no compulsory curriculum for the Danish primary and lower secondary education. The socalled common objectives (Fælles Mål) is a curricular framework and consist of objectives for each subject at each level, pointing to the skills and abilities that pupils must obtain at the end of each level. However, instruction is planned locally by the teacher including decisions about which methods, materials to use, and themes to teach. The common objectives are inclusive for all genders and thus not biased in favor of one gender.
+There is no compulsory curriculum for the Danish primary and lower secondary education. The so-called common objectives (Fælles Mål) is a curricular framework and consist of objectives for each subject at each level, pointing to the skills and abilities that pupils must obtain at the end of each level. However, instruction is planned locally by the teacher including decisions about which methods, materials to use, and themes to teach. The common objectives are inclusive for all genders and thus not biased in favor of one gender.
 
 ##### General upper secondary education:
 
@@ -864,37 +809,19 @@ Admission to upper secondary education in Denmark is based on academic performan
 
 ###### Common objective
 
-Regarding general upper secondary education, Danish law states that the common objective of general upper secondary education programmes is to 1) Prepare the students for higher education, and 2) Ensure that the students acquire 'almendannelse', an ambiguous term that can  be  translated  in  to  'general  education'.  The  common  objective  is  reached  by  the knowledge and competences that the students acquire through the subjects and the multisubject courses they study and through the school culture and environment. The students must achieve the abilities to actively participate in a democracy and gain an understanding of the possibilities of individually and collectively contributing to development and change etc. Teaching and the daily life of the educational institution must therefore be based on
+Regarding general upper secondary education, Danish law states that the common objective of general upper secondary education programmes is to 1) Prepare the students for higher education, and 2) Ensure that the students acquire ‘almendannelse’, an ambiguous term that can be translated in to ‘general education’. The common objective is reached by the knowledge and competences that the students acquire through the subjects and the multi-subject courses they study and through the school culture and environment. The students must achieve the abilities to actively participate in a democracy and gain an understanding of the possibilities of individually and collectively contributing to development and change etc. Teaching and the daily life of the educational institution must therefore be based on
 
-> 19 ' Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them' (Cambridge Dictionary).
+> 19 ‘Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them’ (Cambridge Dictionary).
 
-> 20 ' Gendersensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
+> 20 ‘Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal’ (UNGEI blog post, Gender-sensitive sanitation, 2018)
 
-> 21 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
-
- Re-entry programmes for young mothers are provided for
-
- Ensuring safe and adequate gender-sensitive sanitation facilities 20
-
- Curricula are rid of all stereotypes 21 and bias
-
- Ensuring gender parity in science, technology, engineering and mathematics (STEM)
-
- Ensuring gender parity in technical and vocational training education and training (TVET)
+> 21 ‘Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong’ (Cambridge Dictionary).
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
 
-'åndsfrihed' (freedom of spirit/mind), equality and democracy and strengthen the students'
-
-knowledge  of  and  respect  for  fundamental  freedom  rights  and  human  rights
-
--
-
-including
-
-equality between sexes.
+‘åndsfrihed’ (freedom of spirit/mind), equality and democracy and strengthen the students’ knowledge of and respect for fundamental freedom rights and human rights – including equality between sexes.
 
 ###### Sex education in general upper secondary education
 
@@ -940,35 +867,9 @@ from diverse backgrounds and with different needs.
 
 ###### Students with disabilities
 
-The Regional Council in the region where an institution is located can give priority to an
+The Regional Council in the region where an institution is located can give priority to an applicant due to their disability, if the Regional Council assesses that it is of significant importance for the applicant to be admitted to the particular institution due to the applicant’s disability and mobility in comparison with the institution’s accessibility.
 
-applicant  due  to  their  disability,  if  the  Regional  Council  assesses  that  it  is  of  significant
-
-importance for the applicant to be admitted to the particular instituti
-
-on due to the applicant's
-
-disability and mobility in comparison with the institution's accessibility.
-
-Examinees with physical and mental disabilities may be offered the opportunity to take an
-
-exam  under  special  conditions.  The  exam  itself  is  not  changed
-
--
-
-but  the  examinee  is
-
-compensated through these special conditions, such as by being given more time for the
-
-exam or being allowed to use special aids. Both written and oral exams can be arranged with
-
-special conditions. It is the management of the institution that decides whether an examinee
-
-can be offered special exam conditions. The purpose of special exam conditions is to place
-
-examinees  with  a  disability  on  an  equal  footing  with  other  examinees  during  the  exam
-
-situation.
+Examinees with physical and mental disabilities may be offered the opportunity to take an exam under special conditions. The exam itself is not changed – but the examinee is compensated through these special conditions, such as by being given more time for the exam or being allowed to use special aids. Both written and oral exams can be arranged with special conditions. It is the management of the institution that decides whether an examinee can be offered special exam conditions. The purpose of special exam conditions is to place examinees with a disability on an equal footing with other examinees during the exam situation.
 
 Furthermore, Denmark has a special education scheme for young people with autism at the
 
@@ -1024,21 +925,13 @@ Equal and free access to higher education for all: The Danish education system a
 
 [[START OF PAGE 29]]
 
-In the initial teacher education programme,  gender  and  equality perspectives are incorporated into the subjects Pedagogy and General Didactics and Philosophy of Life , which are  mandatory  for  all  students,  and  as  part  of  the  elective  course Health  and  Sexual Education .
+In the initial teacher education programme, gender and equality perspectives are incorporated into the subjects Pedagogy and General Didactics and Philosophy of Life, which are mandatory for all students, and as part of the elective course Health and Sexual Education.
 
 ###### References:
 
-Admission
+Admission in Higher Education 2023:
 
-in
-
-Higher
-
-Education
-
-2023:
-
-https://ufm.dk/uddannelse/statistik-og-analyser/sogning-og-optag-pa-videregaende- uddannelser/grundtal-om-sogning-og-optag/ansogere-og-optagne-fordelt-pa-kon-alder-og- adgangsgrundlag
+https://ufm.dk/uddannelse/statistik-og-analyser/sogning-og-optag-pa-videregaende-uddannelser/grundtal-om-sogning-og-optag/ansogere-og-optagne-fordelt-pa-kon-alder-og-adgangsgrundlag
 
 Ministerial order for the teacher training programme:
 
@@ -1056,7 +949,7 @@ Please note that child marriage is a discriminatory practice as often girls can 
 
 - Please provide reference to the relevant laws and provisions and indicate the exceptions to the legal age of marriage as well as the absolute minimum age:
 
-Ægteskabsloven ('The Marriage Law') §1a, §2 .
+Ægteskabsloven (“The Marriage Law”) §1a, §2.
 
 Persons under the age of 18 cannot enter marriage without 1) permission from the chair of the municipality board, and 2) the parents' consent.
 
@@ -1090,11 +983,11 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 
  Teachers are trained to combat stigmatisation 24
 
-- ý Multilingual and intercultural education are supported
+ý Multilingual and intercultural education are supported
 
-- ý Native language instruction is ensured for national minorities
+ý Native language instruction is ensured for national minorities
 
-- ý Adapting curricula and teaching and learning methods to their needs for national minorities
+ý Adapting curricula and teaching and learning methods to their needs for national minorities
 
  Curricula are rid of all stereotypes 25 and bias
 
@@ -1142,7 +1035,7 @@ In terms of bias and stereotypes within the curricula in upper secondary educati
 
 ##### Vocational education and training
 
-- Teachers participating in a diploma programme in vocational education have the opportunity to take a module about various prerequisites of young people and adults and their opportunities to participate.  The teacher learn how to differentiate their teachin g in order to strengthen the apprentices' opportunities for participation. During this module, the teachers work with the following themes related to ethnicity: The societal context
+- Teachers participating in a diploma programme in vocational education have the opportunity to take a module about various prerequisites of young people and adults and their opportunities to participate. The teacher learn how to differentiate their teaching in order to strengthen the apprentices’ opportunities for participation. During this module, the teachers work with the following themes related to ethnicity: The societal context
 
 - Young people and adults in vocational training and education - perspectives on motivation, commitment and drive
 
@@ -1307,13 +1200,9 @@ At the same time, a scheme is being introduced to change education for those for
 
 > 29 While lack of documentation (such as identity papers, birth certificates, residency permits, etc.) should not be an obstacle to access education, these can constitute a barrier to education See: UNESCO publication: Handbook on the right to education, 2018, p. 96.
 
-30
+> 30 Supra note 15.
 
-> Supra note 15.
-
-31
-
-> Supra note 13
+> 31 Supra note 13
 
 > 32 Supra note 16.
 
@@ -1391,7 +1280,7 @@ It  will  thus  be  the  municipality's  obligation  to  ensure  that  the  chil
 
 ###### Regarding displaced children and youth from Ukraine
 
-In  May  2022,  the  Danish  parliament  adopted  temporary  legislation  intended  to  provide flexibility for municipalities in their reception of displaced children and youth from Ukraine. The provisions have been extended until the 31 st of July 2024, and most provisions further extended  until  the  17 th of  May  2025.  The  provisions  are  not  mandatory,  but  give municipalities  a  range  of  options  in  the  reception  of  displaced  children  and  youth  from Ukraine.  Among  these,  it  is  possible  e.g.  to  use  Ukrainian  or  English  as  the  language  of instruction, to use long-distance, virtual education from Ukraine, to use teaching materials from Ukraine, to employ Ukrainian-speaking personnel.
+In May 2022, the Danish parliament adopted temporary legislation intended to provide flexibility for municipalities in their reception of displaced children and youth from Ukraine. The provisions have been extended until the 31st of July 2024, and most provisions further extended until the 17th of May 2025. The provisions are not mandatory, but give municipalities a range of options in the reception of displaced children and youth from Ukraine. Among these, it is possible e.g. to use Ukrainian or English as the language of instruction, to use long-distance, virtual education from Ukraine, to use teaching materials from Ukraine, to employ Ukrainian-speaking personnel.
 
 ##### Higher Education:
 At institutions under both the Ministry of Higher Education and Science and the Ministry of Culture, the following groups have access to full-time education without tuition  fees,  as  well  as  open  education  and  part-time  education  with  state  subsidies  and partial tuition fees:
@@ -1404,7 +1293,7 @@ At institutions under both the Ministry of Higher Education and Science and the 
 
 - Persons with a residence permit based on temporary protection status (Aliens Act § 7, subsection 3).
 
-At institutions under the Ministry of Higher Education and Science, there is also access to fulltime education without tuition fees, as well as open education and part-time education with state subsidies and partial tuition fees for:
+At institutions under the Ministry of Higher Education and Science, there is also access to full-time education without tuition fees, as well as open education and part-time education with state subsidies and partial tuition fees for:
 
 - Persons with a temporary residence permit under the provisions of the Act on Temporary Residence Permit for Persons Displaced from Ukraine (Act no. 324 of March 16, 2022)
 
@@ -1414,9 +1303,9 @@ At institutions under the Ministry of Higher Education and Science, there is als
 
 ###### Reference:
 
-Integration in Higher
+Integration in Higher Education:
 
-https://ufm.dk/uddannelse/integration-pa-uddannelsesomradet Education:
+https://ufm.dk/uddannelse/integration-pa-uddannelsesomradet
 
 [[END OF PAGE 37]]
 
@@ -1490,9 +1379,9 @@ A  recent  political  agreement  has  initiated  measures  to  provide  educator
 
 ###### Students with disabilities
 
-The Regional Council in the region where an institution is located can give priority to an applicant due to their disability, if the Regional Council assesses that it is of significant importance for the applicant to be admitted to the particular instituti on due to the applicant's disability and mobility in comparison with the institution's accessibility.
+The Regional Council in the region where an institution is located can give priority to an applicant due to their disability, if the Regional Council assesses that it is of significant importance for the applicant to be admitted to the particular institution due to the applicant’s disability and mobility in comparison with the institution’s accessibility.
 
-Examinees with physical and mental disabilities may be offered the opportunity to take an exam under special conditions. The exam itself is not changed - but the examinee is compensated through these special conditions, such as by being given more time for the exam or being allowed to use special aids. Both written and oral exams can be arranged with special conditions. It is the management of the institution that decides whether an examinee can be offered special exam conditions. The purpose of special exam conditions is to place examinees with a disability on an equal footing with other examinees during the exam situation.
+Examinees with physical and mental disabilities may be offered the opportunity to take an exam under special conditions. The exam itself is not changed – but the examinee is compensated through these special conditions, such as by being given more time for the exam or being allowed to use special aids. Both written and oral exams can be arranged with special conditions. It is the management of the institution that decides whether an examinee can be offered special exam conditions. The purpose of special exam conditions is to place examinees with a disability on an equal footing with other examinees during the exam situation.
 
 Furthermore, Denmark has a special education scheme for young people with autism at the general  upper  secondary  level.  The  special  school  classes  have  a  maximum  capacity  of  12 students  and  are  designed  to  meet  specific  needs  of  young  people  with  autism.  The  Danish government has decided to increase the amount of these special school classes by almost 50 percent in 2024.
 
@@ -1641,15 +1530,17 @@ Denmark participated in ratifying the United Nations Convention on the Rights of
 
 Report on better condition for students with disabilities: https://ufm.dk/publikationer/2022/bedre-vilkar-for-studerende-med-funktionsnedsaettelser
 
-Bekendtgørelse om uddannelsen til professionsbachelor som lærer i folkeskolen : https://www.retsinformation.dk/eli/lta/2023/374
+Bekendtgørelse om uddannelsen til professionsbachelor som lærer i folkeskolen:
+https://www.retsinformation.dk/eli/lta/2023/374
 
-Bekendtgørelse om erhvervsakademiuddannelser og professionsbacheloruddannelser : https://www.retsinformation.dk/eli/lta/2021/2672
+Bekendtgørelse om erhvervsakademiuddannelser og professionsbacheloruddannelser:
+https://www.retsinformation.dk/eli/lta/2021/2672
 
-Bekendtgørelse om  eksamener  og  prøver  ved  professions - og  erhvervsrettede  videregående uddannelser: https://www.retsinformation.dk/eli/lta/2022/863
+Bekendtgørelse om eksamener og prøver ved professions- og erhvervsrettede videregående uddannelser: https://www.retsinformation.dk/eli/lta/2022/863
 
-Bekendtgørelse af lov om  forbud  mod  forskelsbehandling på arbejdsmarkedet  m.v.1) : https://www.retsinformation.dk/eli/lta/2024/399
+Bekendtgørelse af lov om forbud mod forskelsbehandling på arbejdsmarkedet m.v.1): https://www.retsinformation.dk/eli/lta/2024/399
 
-Bekendtgørelse af lov om statens uddannelsesstøtte (SU -loven):
+Bekendtgørelse af lov om statens uddannelsesstøtte (SU-loven):
 
 [[END OF PAGE 41]]
 
@@ -1657,15 +1548,15 @@ Bekendtgørelse af lov om statens uddannelsesstøtte (SU -loven):
 
 https://www.retsinformation.dk/eli/lta/2023/395
 
-Bekendtgørelse om statens uddannelsesstøtte (SU - bekendtgørelsen):
+Bekendtgørelse om statens uddannelsesstøtte (SU-bekendtgørelsen):
 
 https://www.retsinformation.dk/eli/lta/2024/97
 
-Bekendtgørelse af lov om specialpædagogisk støtte ved videregående uddannelser (SPS -loven):
+Bekendtgørelse af lov om specialpædagogisk støtte ved videregående uddannelser (SPS-loven):
 
 https://www.retsinformation.dk/eli/lta/2022/1507
 
-Bekendtgørelse om specialpædagogisk støtte på videregående uddannelser (SPS - bekendtgørelsen):
+Bekendtgørelse om specialpædagogisk støtte på videregående uddannelser (SPS-bekendtgørelsen):
 
 https://www.retsinformation.dk/eli/lta/2022/1005
 
@@ -1693,9 +1584,7 @@ In Denmark education in primary and lower secondary are free for all pupils. In 
 
 There is no compulsory curriculum for the Danish primary and lower secondary education. The so-called common objectives (Fælles Mål) is a curricular framework and consist of objectives for each subject at each level, pointing to the skills and abilities that pupils must obtain at the end of each level, but instruction is planned locally by the teacher including decisions about which methods and materials to use and themes to teach. The common objectives are inclusive for all students and thus not biased in favor of any economic level of household.
 
-35
-
-> Supra note 15.
+> 35 Supra note 15.
 
 > 36 Supra note 16.
 
@@ -1720,7 +1609,7 @@ Students who receive the State Educational Grant and are single parent can recei
 
 - What  challenges  were  encountered  in  realizing  the  right  to  education  of  students  from  poor households? If needed, brief quantitative information may be added.
 
-## Progress made with respect to implementing the right to education across all levels and forms of education
+## 2. Progress made with respect to implementing the right to education across all levels and forms of education
 
 ### 2.1 Early childhood care and education
 
@@ -1728,7 +1617,7 @@ Students who receive the State Educational Grant and are single parent can recei
 
 [[START OF PAGE 44]]
 
-For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explicitly  provided  for  in  the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initi ally recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent  Declaration  and  Commitments  to  Action  for  Transforming  Early  Childhood  Care  and Education 38 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre -primary education'.
+For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized “the right to education during early childhood as beginning at birth” (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation37 and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education38. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to “the provision of at least one year of free and compulsory pre-primary education”.
 
 - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked):
 
@@ -1736,7 +1625,7 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 
  Prior to pre-primary education, ECCE services are affordable
 
- ECCE services are accessible on a non- discriminatory basis
+ ECCE services are accessible on a non-discriminatory basis
 
  ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
@@ -1756,7 +1645,7 @@ Please see below.
 
 - Please list the relevant laws and policies. Where applicable, provide information on the direct costs (e.g., enrolment fees and tuition fees) and indirect costs (e.g., schools supplies, uniforms, transport and compulsory levies on parents). Brief quantitative information may be added.
 
-Parents pay a maximum of 25 % of the budgeted gross operating expenditure for ECEC services for  children  from  the  age  of  26  weeks  to  six  years.  Families  receive  a  sibling  discount.  The municipal council must grant subsidies based on the parents' financial situatio n, in some cases covering up to the full amount of the costs for day-care. There is no charge for day-care if the personal  income  (gross  income  net  of  general  social  security  contributions)  is  below  DKK
+Parents pay a maximum of 25 % of the budgeted gross operating expenditure for ECEC services for children from the age of 26 weeks to six years. Families receive a sibling discount. The municipal council must grant subsidies based on the parents’ financial situation, in some cases covering up to the full amount of the costs for day-care. There is no charge for day-care if the personal income (gross income net of general social security contributions) is below DKK
 
 > 37 Which states that 'ECCE is part of the right to education and the main foundation for holistic human development'.
 
@@ -1768,7 +1657,7 @@ Parents pay a maximum of 25 % of the budgeted gross operating expenditure for EC
 
 200.301.  From DKK 200.301 to DKK 204.741 the payment is 5% of the full rate. From that income level, the payment is linearly increased until the full price is paid at a personal income of DKK 622.200, Furthermore parents of children with socioemotional treatment needs can have a supplemental subsidy.
 
-Pre-primary education is compulsory for 1-year old children in vulnerable housing areas who are to attend a public day-care institution for 25 hours per week. The intention is to ensure that more children develop their language skills and readiness to learn as early as possible. If parents choose not to enroll their children in the learning program, they can do it in their own homes -that  will  require  that  they  are  able  to  develop  their  children's  Danish  langu age  skills  and development.
+Pre-primary education is compulsory for 1-year old children in vulnerable housing areas who are to attend a public day-care institution for 25 hours per week. The intention is to ensure that more children develop their language skills and readiness to learn as early as possible. If parents choose not to enroll their children in the learning program, they can do it in their own homes – that will require that they are able to develop their children’s Danish language skills and development.
 
 - Day-care, Leisure and Club Activities (Children and Young Persons) Act (Consolidation Act No 55 of 17 January 2024). Dagtilbudsloven (retsinformation.dk)
 
@@ -1792,13 +1681,13 @@ Pre-primary education is compulsory for 1-year old children in vulnerable housin
 
 ### 2.2 Primary and secondary education
 
-For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclus ive, equitable, quality primary and secondary education -of which at least nine years are compulsory.'
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide “12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education – of which at least nine years are compulsory.”
 
 #### Primary education
 
 - Please provide the age of enrolment and duration of primary education:
 
-The year the child turns 6. Primary and lower secondary education is from 0 th to 9 th grade (10 years) with an optional 10 th grade.
+The year the child turns 6. Primary and lower secondary education is from 0th to 9th grade (10 years) with an optional 10th grade.
 
 - Is primary education compulsory and free of charge?
 
@@ -1816,7 +1705,7 @@ The year the child turns 6. Primary and lower secondary education is from 0 th t
 
 - Please list the relevant laws and policies. Where applicable, provide information on the direct costs (e.g., enrolment fees and tuition fees) and indirect costs (e.g., exam fees, schools supplies, uniforms, transport and compulsory levies on parents). Brief quantitative information may be added.
 
-All children have the right to free primary education. In Denmark, ten years of education is mandatory. This does not entail the duty to attend schools, because home schooling is an option that parents can choose. However, almost all students attend the public primary and lower secondary schools ( Folkeskole) or private schools.
+All children have the right to free primary education. In Denmark, ten years of education is mandatory. This does not entail the duty to attend schools, because home schooling is an option that parents can choose. However, almost all students attend the public primary and lower secondary schools (Folkeskole) or private schools.
 
 - What challenges were encountered in realizing primary education?
 
@@ -1920,7 +1809,7 @@ Lov om de gymnasiale uddannelser ('Law on Upper Secondary Education')
 
 For reference: The employment laws and those related to compulsory education are interdependent and mutually reinforce each other. If the minimum age of employment is below that of compulsory education,  the  child  is  at  risk  of  dropping  out  of  school  to  work  and  therefore  not  completing compulsory education. On the other hand, if compulsory education is lower than the minimum age of employment, once the child has completed compulsory education, the door is open to child exploitation and the violation of labour laws.
 
-Yes  No o
+Yes  No 
 
 - Please provide reference to the relevant laws and provisions and indicate how the provision is enforced:
 
@@ -1989,9 +1878,10 @@ For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  pr
 - Please list the relevant laws and policies. Where applicable, provide information on the direct costs  (e.g.,  enrolment  fees  and  tuition  fees)  and  indirect  costs  (e.g.,  exam  fees,  university supplies, transport, accommodation). Brief quantitative information may be added.
 
 #### Higher Education:
-Agency for Higher Education and Sciences' total public funding in 2022
+Agency for Higher Education and Sciences’ total public funding in 2022
 
-15 billion DKK for higher education 20 billion DKK for state education grant
+15 billion DKK for higher education
+20 billion DKK for state education grant
 
 Higher education in Denmark is free for Danish students, students from the EU/EEA and Switzerland and for students who, according to EU law, are entitled to the same status as Danish citizens. Similarly, if the student is participating in an exchange programme, then the student can study in Denmark for free.
 
@@ -2081,13 +1971,13 @@ There are user fees on technical, commercial, ICT, language and social communica
 
 Further more there are three programmes within general adult education targeted adults who have not received or completed the whole period of their primary education, who need to strengthen their basic skills in reading, mathematics, IT and English or who have dyslexcia. Participants with disabilities or similar difficulties who need special educational assistance are offered relevant support in the form of e.g. aids and instructions for their use, personal assistance and secretarial assistance, specially designed teaching materials and sign language interpretation and writing interpretation.
 
-Participation  in  reparatory  adult  education  and  dyslexia  education  for  adults  is  free  of charge whilst participation in generel adult education is subject to a participation fee of normally 140 DDK -1430 DDK.
+Participation in reparatory adult education and dyslexia education for adults is free of charge whilst participation in generel adult education is subject to a participation fee of normally 140 DDK – 1430 DDK.
 
 [[END OF PAGE 52]]
 
 [[START OF PAGE 53]]
 
-By political tripartite agreement -entered into between the government and the social partners -concluded in September 2024, it was decided to strengthen the area of adult education further with long-term investments. In the agreement, it was decided that a national alliance would be established on the promotion of basic skills between the parties to the agreement and 10-20 large employers in Denmark. Employers in the alliance undertake to work systematically with employees' basic skills. In addition, a national strategic investment in digital learning has been decided as well as a scheme that supports employees' adjustment in the labor market.
+By political tripartite agreement – entered into between the government and the social partners – concluded in September 2024, it was decided to strengthen the area of adult education further with long-term investments. In the agreement, it was decided that a national alliance would be established on the promotion of basic skills between the parties to the agreement and 10-20 large employers in Denmark. Employers in the alliance undertake to work systematically with employees' basic skills. In addition, a national strategic investment in digital learning has been decided as well as a scheme that supports employees' adjustment in the labor market.
 
 #### Higher  Education :
 The  State  Educational  Support  for  Adults  Scheme  (SVU)  provides financial  support  for  adults  in  the  Danish  workforce  who  participate  in  supplementary education or continuing education and training.
@@ -2118,11 +2008,13 @@ Overall,  the  adult  education  system  is  state-funded  and  subject  to  qua
 
 ## 3. Quality education provision and learning environment
 
-For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends state s to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
+For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to “build and upgrade education facilities that
 
 [[END OF PAGE 53]]
 
 [[START OF PAGE 54]]
+
+are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all”.
 
 ### 3.1 General measures
 
@@ -2250,9 +2142,9 @@ Emphasis on progression and the establishment of strong learning environments th
 
  Other:
 
-- o Low quality educational infrastructure and materials
+o Low quality educational infrastructure and materials
 
-- o High student - teacher ratio
+o High student – teacher ratio
 
 - Please elaborate. Brief quantitative information may be added.
 
@@ -2266,31 +2158,33 @@ For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provid
 
 - Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items may be ticked):
 
-- Please elaborate on each of the measures taken:
-
  Curriculum includes human rights education.
 
  Educational and/or extracurricular activities are organized on human rights education.
 
  Other:
 
+- Please elaborate on each of the measures taken:
+
 #### Primary and Lower Secondary Education
 
 There is no compulsory curriculum for the Danish primary and lower secondary education. The  so-called common  objectives (Fælles  Mål)  is  a  curricular  framework  and  consist  of objectives for each subject at each level, pointing to the skills and abilities that pupils must obtain at the end of each level, but instruction is planned locally by the teacher including decisions  about  which  methods  and  materials  to  use  and  themes  to  teach.  Democratic Citizenship  and  human  rights  are  highlighted  in  Common  Objectives  within  the  following subjects: social studies, history and health, sex and family life education.
 
-In addition, there is a canon in history, which describes a number of historical events, which are  compulsory  to  teach.  These  events  includes  introduction  of  women's  suffrage,  the Holocaust  and  the  The  UN's  Universal  Declaration  of  Human  Rights -events  to  educate children in the introduction of human rights and thus help to prevent discrimination.
+In addition, there is a canon in history, which describes a number of historical events, which are compulsory to teach. These events includes introduction of women's suffrage, the Holocaust and the The UN's Universal Declaration of Human Rights – events to educate children in the introduction of human rights and thus help to prevent discrimination.
 
 Finally, the object clause in the law of 'folkeskole' also sets as a fundamental goal for the public school to provide the pupils with an understanding of different cultures.
 
 #### General upper secondary education
 
-Regarding general upper secondary education, Danish law states that the common objective of general upper secondary education programmes is to 1) Prepare the students for higher education, and 2) Ensure that the students acquire 'almendannelse', an ambiguous term that can  be  translated  in  to  'general  education'.  The  common  objective  is  reached  by  the knowledge and competences that the students acquire through the subjects and the multisubject courses they study and through the school culture and environment. The students must achieve the abilities to actively participate in a democracy and gain an understanding of the possibilities of individually and collectively contributing to development and change etc. Teaching  and  the  daily  life  of  the  educational  institution  must  therefore  be  based  on 'åndsfrihed' (freedom of spirit/mind), equality and democracy and strengthen the students' knowledge  of  and  respect  for  fundamental  freedom  rights  and  human  rights -including equality between sexes.
+Regarding general upper secondary education, Danish law states that the common objective of general upper secondary education programmes is to 1) Prepare the students for higher education, and 2) Ensure that the students acquire ‘almendannelse’, an ambiguous term that can be translated in to ‘general education’. The common objective is reached by the knowledge and competences that the students acquire through the subjects and the multi-subject courses they study and through the school culture and environment. The students must achieve the abilities to actively participate in a democracy and gain an understanding of
 
 > 41 Which calls on states to 'ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture's contribution to sustainable development'.
 
 [[END OF PAGE 57]]
 
 [[START OF PAGE 58]]
+
+the possibilities of individually and collectively contributing to development and change etc. Teaching and the daily life of the educational institution must therefore be based on ‘åndsfrihed’ (freedom of spirit/mind), equality and democracy and strengthen the students’ knowledge of and respect for fundamental freedom rights and human rights – including equality between sexes.
 
 #### Vocational education and training
 
@@ -2377,7 +2271,7 @@ Friskoleloven ('Law on Free Schools'): Friskoleloven (retsinformation.dk)
 
  Low number of professionally trained teachers
 
- High student - teacher ratio
+ High student – teacher ratio
 
  Other:
 
@@ -2412,13 +2306,13 @@ Moreover, the strategy has an initiative focusing on technological literacy for 
 
 ##### Reference:
 
-https://digst.dk/nyheder/nyhedsarkiv/2024/februar/regeringen-har-indgaaet-aftale-om-endigitaliseringsstrategi-for-danmark/
+https://digst.dk/nyheder/nyhedsarkiv/2024/februar/regeringen-har-indgaaet-aftale-om-en-digitaliseringsstrategi-for-danmark/
 
  Core legislations, policies, strategies or plans for the management, privacy, security, storage, transfer, use, and sharing of education data internally and externally to ensure the right to privacy of learners and education stakeholders (e.g., informed consent, transparent usage policies, etc.)
 
  Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.
 
- Measures to remove barriers to accessing digital content 45 , including ensuring access to curriculumaligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
+ Measures to remove barriers to accessing digital content 45 , including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
 
  Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a  culture  of  digital  innovation  and  growth  anchored  in  equity  and  inclusion  that  enables  ongoing professional development for existing and emerging staff.
 
@@ -2440,9 +2334,9 @@ The Ministry of Children and  Education is currently in the process of  developi
 
 [[START OF PAGE 62]]
 
-In Denmark, there is no compulsory curriculum for the Danish primary and lower secondary education. Instead, instruction is planned locally by the teacher -including decisions about which methods, materials to use, and themes to teach. This also applies for the use of digital technology in education.
+In Denmark, there is no compulsory curriculum for the Danish primary and lower secondary education. Instead, instruction is planned locally by the teacher – including decisions about which methods, materials to use, and themes to teach. This also applies for the use of digital technology in education.
 
-It follows from the Folkeskole legislation (§ 3 stk. 2 & § 3 a) thats Students who need assistance to  overcome  practical  difficulties  related  to  their  learning  are  to  receive  personalised assistance. This also includes IT-equipment, i.e. that students with permanent hearing loss are provided with technological equipment so they can follow the teachings.
+It follows from the Folkeskole legislation (§ 3 stk. 2 & § 3 a) thatsStudents who need assistance to overcome practical difficulties related to their learning are to receive personalised assistance. This also includes IT-equipment, i.e. that students with permanent hearing loss are provided with technological equipment so they can follow the teachings.
 
 Recently, the current government and the signatory parties to the agreement on the public school  act  has  agreed  to  integrate  'Technology  Comprehension'  as  a  perspective  in traditional  subjects  in  the  primary  and  lower  secondary  school,  as  well  as  establishing 'Technology  Comprehension'  as  an  elective  course  in  the  lower  secondary  school.  The purpose is to ensure that students are well equipped to reflect critically on the usage of, as well as make use of new digital technologies.
 
@@ -2472,11 +2366,13 @@ Recently, the current government and the signatory parties to the agreement on t
 
 ## 4 Strengthening governance systems
 
-For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and  accessible  data  are available' (para. 18).
+For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for effective education outcomes, governments should strengthen education systems by instituting and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional management arrangements, as well as ensure that robust, timely and accessible data are
 
 [[END OF PAGE 62]]
 
 [[START OF PAGE 63]]
+
+available” (para. 18).
 
 - Please indicate the measures taken in terms of governance (several items may be ticked):
 
@@ -2484,9 +2380,9 @@ For reference: The Education 2030 Framework for Action states "to ensure quality
 
  Monitoring results are made public. Please provide the link:
 
-The Ministry of Children and Education supervises the educational institutions on an ongoing basis to ensure that the educations are of a sufficiently high quality. In addition, regular wellbeing measurements take place in the youth programs to ensure professional and social wellbeing in the programs. The figures are published i.a. on the ministry's website:
+The Ministry of Children and Education supervises the educational institutions on an ongoing basis to ensure that the educations are of a sufficiently high quality. In addition, regular well-being measurements take place in the youth programs to ensure professional and social well-being in the programs. The figures are published i.a. on the ministry's website:
 
-Uddannelsesstatistik | Børne - og Undervisningsministeriet
+Uddannelsesstatistik | Børne- og Undervisningsministeriet
 
 The Agency for Education and Quality has oversight with the quality of the education on primary, lower and upper secondary schools and audits finances and adherence to  fiscal rules and guidelines
 
@@ -2499,7 +2395,7 @@ The Ministry of Higher Education and Science cooperates with Statistics Denmark 
 
 https://datavarehus.ufm.dk/
 
-https://ufm.dk/en/research-and-innovation/cooperation-between-research-andinnovation/open-access/data/data-in-denmark/data-in-denmark
+https://ufm.dk/en/research-and-innovation/cooperation-between-research-and-innovation/open-access/data/data-in-denmark/data-in-denmark
 
 https://datavarehus.ufm.dk/
 
@@ -2523,7 +2419,14 @@ https://datavarehus.ufm.dk/
 
 ### Primary and Lower Secondary Education
 Monitoring is always taking place in dialogue with the educational institutions in question. Policy development in Denmark in recent years on primary and lower secondary education has happened in an environment of sustained dialogue between the government and central stakeholders. Financial resources to municipalities, who are responsible for the public primary and lower secondary education, are allocated centrally through the yearly state budget ( Finansloven) . The yearly agreement between the government and the municipalities regulate the overall framework for municipal budgets. There is a high degree of local autonomy in the Danish school system, meaning that municipalities make priorities within the overall economic framework to make sure resources are allocated efficiently and according to local needs.
----
+
+### Higher Education:
+The higher education institutions receive a lump sum, which they have autonomy to spend according to their priorities in accordance with the objectives stipulated for the education institutions.
+
+The higher education institutions are covered by the Act on the accountancy of the state etc. and the Ministry of Finance’s economic administrative guidance, which stipulate regulations regarding the institutions’ economic administration.
+
+The higher education institutions submit an annual report, accounting data, and auditor’s records to the Danish Agency for Higher Education and Science.
+
 #### Governance dialogue:
 The Agency of Higher Education and Science holds a yearly governance dialogue process with higher education institutions. The governance dialogue aims to maintain ongoing communication and collaboration with higher education institutions in Denmark. The purpose of this dialogue is to set strategic goals and to follow up on strategic framework agreements between the Ministry of Higher Education and Science and the individual institutions. The primary objective of the governance dialogue is to promote the strategic development of institutions and ensure they meet the political objectives and quality standards set for the education sector. This involves entering into agreements on specific targets and initiatives that the institutions must work towards. These goals are set in collaboration between the
 
@@ -2553,11 +2456,9 @@ The taximeter rates vary depending on the field of study and are determined on t
 
 ##### References:
 
-https://eurydice.eacea.ec.europa.eu/national-education-systems/denmark/higher- education-funding
+https://eurydice.eacea.ec.europa.eu/national-education-systems/denmark/higher-education-funding
 
-https://ufm.dk/uddannelse/institutioner-og-
-
-drift/okonomi/tilskud/aktivitetstilskud/takstkataloger/uddannelsestilskud
+https://ufm.dk/uddannelse/institutioner-og-drift/okonomi/tilskud/aktivitetstilskud/takstkataloger/uddannelsestilskud
 
 - What challenges were encountered in terms of governance?
 
@@ -2565,13 +2466,13 @@ drift/okonomi/tilskud/aktivitetstilskud/takstkataloger/uddannelsestilskud
 
  Lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels
 
- P oor dialogue with teachers' trade unions
+ Poor dialogue with teachers' trade unions
 
  Other:
 
  Absence of supportive/ inconsistent/obsolete legal and policy environment
 
- Lack or weakness of monitoring systems - including the lack of reliable data
+ Lack or weakness of monitoring systems – including the lack of reliable data
 
 - Please elaborate. Brief quantitative information may be added.
 
