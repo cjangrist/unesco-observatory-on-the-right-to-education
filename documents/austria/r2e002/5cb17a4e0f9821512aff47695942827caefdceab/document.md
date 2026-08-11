@@ -10,7 +10,7 @@ Dieses Bundesgesetz enthält Grundsatzbestimmungen, das unmittelbar anwendbare B
 
 ## Langtitel
 
-Bundesgesetz vom 17. Mai 1990 über die Grundsätze für die Berufsausbildung der Arbeiter in der Landund Forstwirtschaft (Land- und forstwirtschaftliches Berufsausbildungsgesetz - LFBAG) und über
+Bundesgesetz vom 17. Mai 1990 über die Grundsätze für die Berufsausbildung der Arbeiter in der Land- und Forstwirtschaft (Land- und forstwirtschaftliches Berufsausbildungsgesetz - LFBAG) und über
 
 Änderungen des Landarbeitsgesetzes 1984
 
@@ -72,7 +72,7 @@ Seite 1 von 14
 
 Bundesrecht konsolidiert
 
-(2) Ein Lehrbetrieb ist ein landoder forstwirtschaftlicher Betrieb gemäß § 5 des Landarbeitsgesetzes 1984, der gemäß § 15 als Lehrbetrieb anerkannt wurde.
+(2) Ein Lehrbetrieb ist ein land- oder forstwirtschaftlicher Betrieb gemäß § 5 des Landarbeitsgesetzes 1984, der gemäß § 15 als Lehrbetrieb anerkannt wurde.
 
 (3)  Ausbilder  sind  im  land-  und  forstwirtschaftlichen  Betrieb  mit  der  Ausbildung  von  Lehrlingen beauftragte  geeignete  Arbeitnehmer  oder  sonstige  geeignete  im  Betrieb  tätige  Personen  gemäß  § 15 Abs. 2.
 
@@ -140,7 +140,7 @@ Bundesrecht konsolidiert
 
 (2)  Die  Lehrzeit  dauert  drei  Jahre.  Sie  kann  bei  Wiederholung  einer  Berufsschulklasse  oder  nicht bestandener  Facharbeiterprüfung  höchstens  um  ein  Jahr  verlängert  werden.  Sie  kann  bei  vorzeitiger Ablegung der Facharbeiterprüfung gemäß § 7 verkürzt werden.
 
-(3)  Lehrberufe,  die  auf  Grund  der  Ausführungsgesetze  zu  diesem  Bundesgesetz  oder  anderer Rechtsvorschriften des Bundes oder der Länder eingerichtet sind, können durch die Ausführungsgesetzgebung  verwandt  gestellt  werden.  Verwandte  Lehrberufe  sind  solche,  bei  denen gleiche  oder  ähnliche  Roh-  und  Hilfsstoffe  und  Werkzeuge  verwendet  werden  oder  Tätigkeiten  zu verrichten sind, die gleiche oder ähnliche Arbeitsgänge erfordern. Hinsichtlich der Ergänzungsprüfungen hat die Ausführungsgesetzgebung nähere Bestimmungen zu erlassen.
+(3) Lehrberufe, die auf Grund der Ausführungsgesetze zu diesem Bundesgesetz oder anderer Rechtsvorschriften des Bundes oder der Länder eingerichtet sind, können durch die Ausführungsgesetzgebung verwandt gestellt werden. Verwandte Lehrberufe sind solche, bei denen
 
 www.ris.bka.gv.at
 
@@ -151,6 +151,7 @@ Seite 2 von 14
 [[START OF PAGE 3]]
 
 Bundesrecht konsolidiert
+gleiche oder ähnliche Roh- und Hilfsstoffe und Werkzeuge verwendet werden oder Tätigkeiten zu verrichten sind, die gleiche oder ähnliche Arbeitsgänge erfordern. Hinsichtlich der Ergänzungsprüfungen hat die Ausführungsgesetzgebung nähere Bestimmungen zu erlassen.
 
 (4) Ist keine Verwandtstellung von Lehrberufen nach Abs. 3 erfolgt, hat die Ausführungsgesetzgebung festzulegen, unter welchen Voraussetzungen im Einzelfall
 
@@ -174,7 +175,7 @@ unter Bedachtnahme auf die Dauer des Lehrverhältnisses oder der Schulzeit sowie
 
 (2) Prüfungswerber, die die Berufsschule erfolgreich abgeschlossen haben, können bereits ab Beginn ihres letzten Lehrjahres die Zulassung zur Facharbeiterprüfung beantragen und zur Facharbeiterprüfung antreten, wenn der Lehrberechtigte dem Antrag auf Zulassung zur vorzeitigen Ablegung der Facharbeiterprüfung zustimmt oder das Lehrverhältnis einvernehmlich gelöst wurde oder vor Ablauf der vereinbarten Lehrzeit geendet hat.
 
-(3) Die  erfolgreiche  Ablegung  der  Facharbeiterprüfung  berechtigt  je  nach  Lehrberuf,  in  dem  die Ausbildung erfolgt ist, zur Führung einer der folgenden Berufsbezeichnungen, wobei je nach Geschlecht der Ausdruck 'Facharbeiterin' oder 'Facharbeiter' anzuführen ist:
+(3) Die erfolgreiche Ablegung der Facharbeiterprüfung berechtigt je nach Lehrberuf, in dem die Ausbildung erfolgt ist, zur Führung einer der folgenden Berufsbezeichnungen, wobei je nach Geschlecht der Ausdruck „Facharbeiterin“ oder „Facharbeiter“ anzuführen ist:
 
 - Facharbeiterin/Facharbeiter Landwirtschaft,
 
@@ -214,7 +215,7 @@ Seite 3 von 14
 
 Bundesrecht konsolidiert
 
-- Facharbeiterin/Facharbeiter Biomasseproduktion und landund forstwirtschaftliche Bioenergiegewinnung.
+- Facharbeiterin/Facharbeiter Biomasseproduktion und land- und forstwirtschaftliche Bioenergiegewinnung.
 
 ###### Teilprüfungen
 
@@ -228,7 +229,7 @@ Bundesrecht konsolidiert
 
 § 7b. (1) Wenn es im Interesse der Verbesserung der Ausbildung von Lehrlingen gelegen ist, kann die Landesregierung zur Erprobung, ob bestimmte berufliche Tätigkeiten geeignet sind, den Gegenstand eines neuen Lehrberufes in der Dauer von drei Jahren auf dem Gebiet der Land- und Forstwirtschaft zu bilden, nach Anhörung der land- und forstwirtschaftlichen Lehrlings- und Fachausbildungsstelle und der land-  und  forstwirtschaftlichen  Bundes-Lehrlings-  und  Fachausbildungsstelle  durch  Verordnung  die Durchführung eines Ausbildungsversuches vorsehen.
 
-- In dieser Verordnung sind festzulegen:
+(2) In dieser Verordnung sind festzulegen:
 
 - die betreffenden beruflichen Tätigkeiten,
 
@@ -248,21 +249,21 @@ Bundesrecht konsolidiert
 
 - die Anrechnung der Ausbildung durch Besuch einer Schule nach § 8.
 
-- Für  die  Dauer  eines  Ausbildungsversuches  sind  die  seinen  Gegenstand  bildenden  Tätigkeiten einem Lehrberuf nach § 3 Abs. 2 gleichzuhalten.
+(3) Für die Dauer eines Ausbildungsversuches sind die seinen Gegenstand bildenden Tätigkeiten einem Lehrberuf nach § 3 Abs. 2 gleichzuhalten.
 
-- Der Lehrberechtigte oder die Ausbildungseinrichtung hat
+(4) Der Lehrberechtigte oder die Ausbildungseinrichtung hat
 
 - der land- und forstwirtschaftlichen Lehrlings- und Fachausbildungsstelle auf Verlangen Auskunft über die nähere Gestaltung und die Ergebnisse der Maßnahmen zu erteilen, die im Rahmen des betreffenden Ausbildungsversuches durchgeführt wurden,
 
 - die  Beobachtung  dieser  Maßnahmen  durch  die  land-  und  forstwirtschaftlichen  Lehrlings-  und Fachausbildungsstelle zuzulassen.
 
-(5) Die Ausführungsgesetzgebung hat vorzusehen, dass dem Bundesminister für Arbeit, Soziales und Konsumentenschutz und dem Bundesminister für Landund Forstwirtschaft, Umwelt und Wasserwirtschaft für die Dauer des Ausbildungsversuches jährlich ein Bericht über die beim Ausbildungsversuch und den Abschlussprüfungen gemachten Erfahrungen vorzulegen ist. Ein Abschlussbericht ist spätestens sechs Monate nach Abschluss des Ausbildungsversuches vorzulegen.
+(5) Die Ausführungsgesetzgebung hat vorzusehen, dass dem Bundesminister für Arbeit, Soziales und Konsumentenschutz und dem Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft für die Dauer des Ausbildungsversuches jährlich ein Bericht über die beim Ausbildungsversuch und den Abschlussprüfungen gemachten Erfahrungen vorzulegen ist. Ein Abschlussbericht ist spätestens sechs Monate nach Abschluss des Ausbildungsversuches vorzulegen.
 
 (6) Werden die den Gegenstand eines Ausbildungsversuches bildenden Tätigkeiten nach Abschluss des  Ausbildungsversuches  als  Lehrberuf  in  die  Lehrberufsliste  nach  § 3  Abs. 2  aufgenommen,  gilt  die erfolgreich abgelegte Abschlussprüfung als Facharbeiterprüfung nach § 7.
 
 ###### Ausbildung durch Besuch einer Schule
 
-§ 8. (1)  Die  im  § 7  für  die  Zulassung  zur  Facharbeiterprüfung  vorgesehenen  Voraussetzungen werden  durch  den  Besuch  einer  land-  und  forstwirtschaftlichen  Fachschule,  soweit  mit  diesem  der erfolgreiche Besuch einer Berufsschule erfüllt wird, dann ersetzt, wenn die Zeiten des Fachschulbesuches nach  der  allgemeinen  Schulpflicht  und  praktische  Tätigkeit  oder  Lehrzeit  zusammen  mindestens  36 Monate umfassen.
+§ 8. (1) Die im § 7 für die Zulassung zur Facharbeiterprüfung vorgesehenen Voraussetzungen werden durch den Besuch einer land- und forstwirtschaftlichen Fachschule, soweit mit diesem der erfolgreiche Besuch einer Berufsschule erfüllt wird, dann ersetzt, wenn die Zeiten des Fachschulbesuches
 
 www.ris.bka.gv.at
 
@@ -273,22 +274,23 @@ Seite 4 von 14
 [[START OF PAGE 5]]
 
 Bundesrecht konsolidiert
+nach der allgemeinen Schulpflicht und praktische Tätigkeit oder Lehrzeit zusammen mindestens 36 Monate umfassen.
 
-- Der erfolgreiche Besuch einer dreijährigen land- und forstwirtschaftlichen Fachschule ersetzt die Facharbeiterprüfung in der Hauptfachrichtung.
+(2) Der erfolgreiche Besuch einer dreijährigen land- und forstwirtschaftlichen Fachschule ersetzt die Facharbeiterprüfung in der Hauptfachrichtung.
 
-- Der erfolgreiche Besuch einer höheren land- und forstwirtschaftlichen Lehranstalt, einschlägiger Universitäten oder Fachhochschulen ersetzt die Lehre und die Facharbeiterprüfung in den einschlägigen Ausbildungsbereichen.
+(3) Der erfolgreiche Besuch einer höheren land- und forstwirtschaftlichen Lehranstalt, einschlägiger Universitäten oder Fachhochschulen ersetzt die Lehre und die Facharbeiterprüfung in den einschlägigen Ausbildungsbereichen.
 
 ###### Sonderformen der Ausbildung zum Facharbeiter
 
 § 9. (1) Ausbildungswerbern, die nicht in einem Arbeitsverhältnis in der Land- und Forstwirtschaft beschäftigt  sind,  kann  auf  Antrag  eine  über  einen  längeren  als  den  gemäß  § 5  Abs. 2  festgelegten Zeitraum verteilte Ausbildung gestattet werden.
 
-- Die Ausführungsgesetzgebung hat für diese Form der Ausbildung die näheren Bestimmungen für die in Frage kommenden Ausbildungswege zu erlassen.
+(2) Die Ausführungsgesetzgebung hat für diese Form der Ausbildung die näheren Bestimmungen für die in Frage kommenden Ausbildungswege zu erlassen.
 
 ###### Anschlußlehre
 
-§ 10. (1) Die Ausführungsgesetzgebung bestimmt, unter welchen Voraussetzungen im Anschluß an eine  Lehre  nach  diesem  Bundesgesetz  oder  an  eine  die  Lehre  und  Facharbeiterprüfung  ersetzende gleichwertige Ausbildung eine weitere Lehrausbildung (Anschlußlehre) in einem landund forstwirtschaftlichen Lehrberuf erfolgen kann, die zur Ablegung der Facharbeiterprüfung berechtigt.
+§ 10. (1) Die Ausführungsgesetzgebung bestimmt, unter welchen Voraussetzungen im Anschluß an eine Lehre nach diesem Bundesgesetz oder an eine die Lehre und Facharbeiterprüfung ersetzende gleichwertige Ausbildung eine weitere Lehrausbildung (Anschlußlehre) in einem land- und forstwirtschaftlichen Lehrberuf erfolgen kann, die zur Ablegung der Facharbeiterprüfung berechtigt.
 
-- Die Landesregierung kann den Lehrling bei der Anschlußlehre, wenn  er bereits eine gleichwertige  schulische  Bildung  genossen  hat,  von  der  Berufsschulpflicht  teilweise  befreien.  Die Ausführungsgesetzgebung hat das Ausmaß der Anrechnung festzusetzen.
+(2) Die Landesregierung kann den Lehrling bei der Anschlußlehre, wenn er bereits eine gleichwertige schulische Bildung genossen hat, von der Berufsschulpflicht teilweise befreien. Die Ausführungsgesetzgebung hat das Ausmaß der Anrechnung festzusetzen.
 
 ###### Erwerb und Nachweis besonderer Fähigkeiten
 
@@ -302,21 +304,21 @@ Bundesrecht konsolidiert
 
 § 11a. (1)  Zur  Verbesserung  der  Eingliederung  von  benachteiligten  Personen  mit  persönlichen Vermittlungshindernissen in  das Berufsleben kann am Beginn oder im  Laufe des  Lehrverhältnisses  im Lehrvertrag  eine  gegenüber  § 5  Abs. 2  dieses  Bundesgesetzes  sowie  gegenüber  § 126  Abs. 1  des Landarbeitsgesetzes 1984 längere Lehrzeit vereinbart werden.
 
-- Die  Lehrzeit  kann  um  höchstens ein Jahr, in  Ausnahmefällen um bis zu zwei Jahre verlängert werden, sofern dies für die Erreichung der Facharbeiterprüfung notwendig ist.
+(2) Die Lehrzeit kann um höchstens ein Jahr, in Ausnahmefällen um bis zu zwei Jahre verlängert werden, sofern dies für die Erreichung der Facharbeiterprüfung notwendig ist.
 
-- Lehrlinge, die mit verlängerter Lehrzeit ausgebildet werden, sind hinsichtlich der Berufsschulpflicht anderen Lehrlingen gleichgestellt.
+(3) Lehrlinge, die mit verlängerter Lehrzeit ausgebildet werden, sind hinsichtlich der Berufsschulpflicht anderen Lehrlingen gleichgestellt.
 
-- Die  integrative  Berufsausbildung  gemäß  Abs. 1  soll  vorrangig  in  Lehrbetrieben  durchgeführt werden.
+(4) Die integrative Berufsausbildung gemäß Abs. 1 soll vorrangig in Lehrbetrieben durchgeführt werden.
 
 ###### Teilqualifikation
 
 § 11b. (1)  Zur  Verbesserung  der  Eingliederung  von  benachteiligten  Personen  mit  persönlichen Vermittlungshindernissen  in  das  Berufsleben  kann  in  einem  Ausbildungsvertrag  die  Festlegung  einer Teilqualifikation durch Einschränkung auf bestimmte Teile des Berufsbildes eines Lehrberufes, allenfalls unter  Ergänzung  von  Fertigkeiten  und  Kenntnissen  aus  Berufsbildern  weiterer  Lehrberufe,  vereinbart werden. Der Ausbildungsvertrag hat Fertigkeiten und Kenntnisse zu umfassen, die im Wirtschaftsleben verwertbar sind.
 
-- In  der  Vereinbarung  sind  jedenfalls  die  zu  vermittelnden  Fertigkeiten  und  Kenntnisse  und  die Dauer der Ausbildung festzulegen.
+(2) In der Vereinbarung sind jedenfalls die zu vermittelnden Fertigkeiten und Kenntnisse und die Dauer der Ausbildung festzulegen.
 
-- Die Dauer dieser Ausbildung kann zwischen einem Jahr und drei Jahren betragen.
+(3) Die Dauer dieser Ausbildung kann zwischen einem Jahr und drei Jahren betragen.
 
-- Für  Personen,  die  in  einer  Teilqualifikation  ausgebildet  werden,  besteht  nach  Maßgabe  der Festlegungen nach § 11d die Pflicht bzw. das Recht zum Besuch der Berufsschule.
+(4) Für Personen, die in einer Teilqualifikation ausgebildet werden, besteht nach Maßgabe der Festlegungen nach § 11d die Pflicht bzw. das Recht zum Besuch der Berufsschule.
 
 www.ris.bka.gv.at
 
@@ -328,7 +330,7 @@ Seite 5 von 14
 
 Bundesrecht konsolidiert
 
-- Die  integrative  Berufsausbildung  gemäß  Abs. 1  soll  vorrangig  in  Lehrbetrieben  durchgeführt werden.
+(5) Die integrative Berufsausbildung gemäß Abs. 1 soll vorrangig in Lehrbetrieben durchgeführt werden.
 
 ###### Personenkreis
 
@@ -342,31 +344,31 @@ Bundesrecht konsolidiert
 
 - Personen, von denen im Rahmen einer Berufsorientierungsmaßnahme oder auf Grund einer nicht erfolgreichen  Vermittlung  in  ein  Lehrverhältnis  nach  § 5  dieses  Bundesgesetzes  oder  nach  § 1 BAG  angenommen  werden  muss,  dass  für  sie  aus  ausschließlich  in  der  Person  gelegenen Gründen in absehbarer Zeit keine solche Lehrstelle gefunden werden kann.
 
-(Unmittelbar  anwendbares Bundesrecht) Vor Beginn einer integrativen Berufsausbildung kann vom  Arbeitsmarktservice  der  Besuch  einer  beruflichen  Orientierungsmaßnahme  empfohlen  werden. Diese gründet weder auf einem Lehrvertrag noch auf einem Ausbildungsvertrag.
+(2) (Unmittelbar anwendbares Bundesrecht) Vor Beginn einer integrativen Berufsausbildung kann vom Arbeitsmarktservice der Besuch einer beruflichen Orientierungsmaßnahme empfohlen werden. Diese gründet weder auf einem Lehrvertrag noch auf einem Ausbildungsvertrag.
 
 ###### Ausbildungsinhalte
 
 § 11d. (1)  Die  Festlegung  der  Ausbildungsinhalte,  des  Ausbildungszieles  und  der  Zeitdauer  der integrativen Berufsausbildung hat durch die Vertragsparteien gemeinsam mit der Berufsausbildungsassistenz  unter  Einbeziehung  der  land-  und  forstwirtschaftlichen  Lehrlings-  und Fachausbildungsstelle, der Schulbehörde und des Schulerhalters vor Beginn der Ausbildung zu erfolgen.
 
-- Dabei  sind  auch  pädagogische  Begleitmaßnahmen  bzw.  die  Form  der  Einbindung  in  den Berufsschulunterricht unter Berücksichtigung der persönlichen Fähigkeiten und Bedürfnisse festzulegen.
+(2) Dabei sind auch pädagogische Begleitmaßnahmen bzw. die Form der Einbindung in den Berufsschulunterricht unter Berücksichtigung der persönlichen Fähigkeiten und Bedürfnisse festzulegen.
 
-- Bei  Personen  gemäß  § 11c  Abs. 1  Z 3  kann  bei  Vorliegen  gesundheitlicher  Gründe  sowohl  in Lehrverträgen gemäß § 11a als auch in Ausbildungsverträgen gemäß § 11b eine Reduktion der regulären täglichen und wöchentlichen Normalarbeitszeit vereinbart werden.
+(3) Bei Personen gemäß § 11c Abs. 1 Z 3 kann bei Vorliegen gesundheitlicher Gründe sowohl in Lehrverträgen gemäß § 11a als auch in Ausbildungsverträgen gemäß § 11b eine Reduktion der regulären täglichen und wöchentlichen Normalarbeitszeit vereinbart werden.
 
-- Lehrverhältnisse gemäß § 11a müssen jedenfalls im Ausmaß der Reduktion der Normalarbeitszeit verlängert werden. Die Gesamtdauer der verlängerten Lehrzeit darf die gemäß § 11a Abs. 2 zulässige Dauer nicht übersteigen.
+(4) Lehrverhältnisse gemäß § 11a müssen jedenfalls im Ausmaß der Reduktion der Normalarbeitszeit verlängert werden. Die Gesamtdauer der verlängerten Lehrzeit darf die gemäß § 11a Abs. 2 zulässige Dauer nicht übersteigen.
 
-- Bei Ausbildungsverhältnissen gemäß § 11b ist eine Reduktion um  bis zur Hälfte der Normalarbeitszeit zulässig, wobei sich die Mindestdauer der Ausbildungszeit gemäß § 11b (ein Jahr) im Ausmaß der Reduktion der Normalarbeitszeit verlängert. Die Gesamtdauer der Ausbildungszeit darf drei Jahre nicht übersteigen.
+(5) Bei Ausbildungsverhältnissen gemäß § 11b ist eine Reduktion um bis zur Hälfte der Normalarbeitszeit zulässig, wobei sich die Mindestdauer der Ausbildungszeit gemäß § 11b (ein Jahr) im Ausmaß der Reduktion der Normalarbeitszeit verlängert. Die Gesamtdauer der Ausbildungszeit darf drei Jahre nicht übersteigen.
 
-- Die land- und forstwirtschaftliche Lehrlings- und Fachausbildungsstelle hat vor Eintragung des Lehrvertrages bzw. des Ausbildungsvertrages ärztliche Gutachten oder sonstige ärztliche Unterlagen  zu berücksichtigen.
+(6) Die land- und forstwirtschaftliche Lehrlings- und Fachausbildungsstelle hat vor Eintragung des Lehrvertrages bzw. des Ausbildungsvertrages ärztliche Gutachten oder sonstige ärztliche Unterlagen zu berücksichtigen.
 
 ###### Genehmigung eines Ausbildungsverhältnisses
 
-§ 11e. (1) Die landund  forstwirtschaftliche Lehrlings-  und Fachausbildungsstelle darf einen Lehrvertrag nach § 11a oder einen Ausbildungsvertrag nach § 11b nur genehmigen, wenn
+§ 11e. (1) Die land- und forstwirtschaftliche Lehrlings- und Fachausbildungsstelle darf einen Lehrvertrag nach § 11a oder einen Ausbildungsvertrag nach § 11b nur genehmigen, wenn
 
 - die Voraussetzungen des § 11c Abs. 1 vorliegen und
 
 - eine verbindliche Erklärung des Arbeitsmarktservice, des Sozialministeriumservice, einer Gebietskörperschaft oder einer Einrichtung einer Gebietskörperschaft über die Durchführung der Berufsausbildungsassistenz vorliegt.
 
-- Bei  einem  Wechsel  in  eine  andere  Ausbildungsform  gemäß  § 11h  entfällt  die  in  § 11c  Abs. 1 vorgesehene Voraussetzung eines Vermittlungsversuches durch das Arbeitsmarkservice.
+(2) Bei einem Wechsel in eine andere Ausbildungsform gemäß § 11h entfällt die in § 11c Abs. 1 vorgesehene Voraussetzung eines Vermittlungsversuches durch das Arbeitsmarktservice.
 
 ###### Berufsausbildungsassistenz
 
@@ -396,7 +398,7 @@ Bundesrecht konsolidiert
 
 (2) Anhand der im Ausbildungsvertrag vereinbarten Ausbildungsinhalte und Ausbildungsziele ist bei der  Abschlussprüfung  festzustellen,  welcher  Ausbildungsstand  erreicht  und  welche  Fertigkeiten  und Kenntnisse erworben wurden.
 
-(3) Die landund forstwirtschaftliche Lehrlingsund Fachausbildungsstelle hat darüber ein Abschlussprüfungszeugnis  auszustellen.  Im  Abschlusszeugnis  sind  die  festgestellten  Fertigkeiten  und Kenntnisse zu dokumentieren.
+(3) Die land- und forstwirtschaftliche Lehrlings- und Fachausbildungsstelle hat darüber ein Abschlussprüfungszeugnis auszustellen. Im Abschlusszeugnis sind die festgestellten Fertigkeiten und Kenntnisse zu dokumentieren.
 
 (4) Der nähere Ablauf der Abschlussprüfungen und die Gestaltung des jeweiligen Abschlussprüfungszeugnisses sind entsprechend den Erfordernissen des jeweiligen Berufsbereiches von der land- und forstwirtschaftlichen Lehrlings- und Fachausbildungsstelle festzulegen.
 
@@ -414,7 +416,7 @@ Bundesrecht konsolidiert
 
 ###### Anwendung von Rechtsvorschriften
 
-§ 11i. (1) (Grundsatzbestimmungen und unmittelbar anwendbares Bundesrecht) Auf Personen, die in einer Teilqualifikation nach § 11b ausgebildet werden, kommen, soweit in diesem Abschnitt nicht anderes bestimmt wird, die übrigen Abschnitte dieses Bundesgesetzes sowie Abschnitt 6 des Landarbeitsgesetzes 1984 zur Anwendung.
+§ 11i. (1) (Grundsatzbestimmungen und unmittelbar anwendbares Bundesrecht) Auf Personen, die in einer Teilqualifikation nach § 11b ausgebildet werden, kommen, soweit in diesem Abschnitt nicht anderes
 
 www.ris.bka.gv.at
 
@@ -425,8 +427,9 @@ Seite 7 von 14
 [[START OF PAGE 8]]
 
 Bundesrecht konsolidiert
+bestimmt wird, die übrigen Abschnitte dieses Bundesgesetzes sowie Abschnitt 6 des Landarbeitsgesetzes 1984 zur Anwendung.
 
-(Unmittelbar  anwendbares  Bundesrecht)  Personen,  die  in  einer  Teilqualifikation  nach  § 11b ausgebildet werden, gelten als Lehrlinge im Sinne des Allgemeinen Sozialversicherungsgesetzes, BGBl. Nr. 189/1955, des Familienlastenausgleichsgesetzes, BGBl. Nr. 376/1967, des Arbeitslosenversicherungsgesetzes 1977, BGBl. Nr. 609, des Insolvenz-Entgeltsicherungsgesetzes, BGBl. Nr. 324/1977,  und  des  Einkommensteuergesetzes 1988,  BGBl.  Nr. 400,  alle  in  der  jeweils  geltenden Fassung.  Gleiches  gilt  für  Personen,  die  sich  in  einer  beruflichen  Orientierungsmaßnahme  nach  § 11c Abs. 2 befinden, bis zu einer Dauer von sechs Monaten.
+(2) (Unmittelbar anwendbares Bundesrecht) Personen, die in einer Teilqualifikation nach § 11b ausgebildet werden, gelten als Lehrlinge im Sinne des Allgemeinen Sozialversicherungsgesetzes, BGBl. Nr. 189/1955, des Familienlastenausgleichsgesetzes, BGBl. Nr. 376/1967, des Arbeitslosenversicherungsgesetzes 1977, BGBl. Nr. 609, des Insolvenz-Entgeltsicherungsgesetzes, BGBl. Nr. 324/1977, und des Einkommensteuergesetzes 1988, BGBl. Nr. 400, alle in der jeweils geltenden Fassung. Gleiches gilt für Personen, die sich in einer beruflichen Orientierungsmaßnahme nach § 11c Abs. 2 befinden, bis zu einer Dauer von sechs Monaten.
 
 #### ABSCHNITT 4
 
@@ -434,7 +437,7 @@ Bundesrecht konsolidiert
 
 § 12. (1) Nach  einer  mindestens  dreijährigen  Verwendung  als  Facharbeiterin/Facharbeiter,  dem erfolgreichen Besuch  eines Meistervorbereitungslehrganges von mindestens 360 Stunden und der Vollendung des 20. Lebensjahres ist die Facharbeiterin/der Facharbeiter zur Meisterprüfung zuzulassen.
 
-- Die Lehrlingsund Fachausbildungsstelle hat Prüfungswerberinnen/Prüfungswerber zur Meisterprüfung zuzulassen, wenn sie
+(2) Die Lehrlings- und Fachausbildungsstelle hat Prüfungswerberinnen/Prüfungswerber zur Meisterprüfung zuzulassen, wenn sie
 
 - das 24. Lebensjahr vollendet haben,
 
@@ -442,11 +445,11 @@ Bundesrecht konsolidiert
 
 - einen Meistervorbereitungslehrgang besucht haben.
 
-- Die Lehrlings- und Fachausbildungsstelle hat Personen, die ein Studium an einer einschlägigen Universität  oder  Fachhochschule  abgeschlossen  haben  bzw.  Absolventinnen/Absolventen höherer landund forstwirtschaftlicher Lehranstalten zur Meisterprüfung zuzulassen, wenn die Ausbildungsbereiche an diesen  Universitäten,  Fachhochschulen  oder  höheren  land-  und  forstwirtschaftlichen  Lehranstalten  den einzelnen Ausbildungsberufen entsprechen. Bei der Zulassung sind Umfang und Ausmaß der anzurechnenden Fachbereiche einschließlich der schriftlichen Arbeiten festzulegen.
+(3) Die Lehrlings- und Fachausbildungsstelle hat Personen, die ein Studium an einer einschlägigen Universität oder Fachhochschule abgeschlossen haben bzw. Absolventinnen/Absolventen höherer land- und forstwirtschaftlicher Lehranstalten zur Meisterprüfung zuzulassen, wenn die Ausbildungsbereiche an diesen Universitäten, Fachhochschulen oder höheren land- und forstwirtschaftlichen Lehranstalten den einzelnen Ausbildungsberufen entsprechen. Bei der Zulassung sind Umfang und Ausmaß der anzurechnenden Fachbereiche einschließlich der schriftlichen Arbeiten festzulegen.
 
-- Eine Meisterprüfung gilt als erfolgreich abgelegt, wenn alle in der Prüfungsordnung vorgesehenen Teilprüfungen sowie die Abschlussprüfung positiv beurteilt wurden. Die Meisterhausarbeit ist vor einer Prüfungskommission zu präsentieren.
+(4) Eine Meisterprüfung gilt als erfolgreich abgelegt, wenn alle in der Prüfungsordnung vorgesehenen Teilprüfungen sowie die Abschlussprüfung positiv beurteilt wurden. Die Meisterhausarbeit ist vor einer Prüfungskommission zu präsentieren.
 
-- Die erfolgreiche Ablegung der Meisterprüfung berechtigt je nach Ausbildungsgebiet zur Führung einer  der  folgenden  Berufsbezeichnungen,  wobei  je  nach  Geschlecht  der  Ausdruck  'Meisterin'  oder 'Meister' anzuführen ist:
+(5) Die erfolgreiche Ablegung der Meisterprüfung berechtigt je nach Ausbildungsgebiet zur Führung einer der folgenden Berufsbezeichnungen, wobei je nach Geschlecht der Ausdruck „Meisterin“ oder „Meister“ anzuführen ist:
 
 - Meisterin/Meister Landwirtschaft,
 
@@ -478,9 +481,9 @@ Bundesrecht konsolidiert
 
 - Meisterin/Meister Biomasseproduktion und land- und forstwirtschaftliche Bioenergiegewinnung.
 
-- Hat die Facharbeiterin/der Facharbeiter besondere Fähigkeiten im Sinne des § 11 erworben und kann sie/er neben allgemeinen Kenntnissen in ihrem/seinem Ausbildungsberuf besondere Kenntnisse in diesem  Fachgebiet  nachweisen,  so  erwirbt  sie/er  die  Bezeichnung  Meisterin  oder  Meister  mit  der Bezeichnung  des  betreffenden  Fachgebietes.  Die  in  Abs. 5  gewählten  Berufsbezeichnungen  sind  zu verwenden.
+(6) Hat die Facharbeiterin/der Facharbeiter besondere Fähigkeiten im Sinne des § 11 erworben und kann sie/er neben allgemeinen Kenntnissen in ihrem/seinem Ausbildungsberuf besondere Kenntnisse in diesem Fachgebiet nachweisen, so erwirbt sie/er die Bezeichnung Meisterin oder Meister mit der Bezeichnung des betreffenden Fachgebietes. Die in Abs. 5 gewählten Berufsbezeichnungen sind zu verwenden.
 
-- In  den  Prüfungsordnungen  kann  vorgesehen  werden,  dass  in  einzelnen  Ausbildungsberufen Teilprüfungen  zur  Meisterprüfung  über  einzelne  Teile  des  Berufsbildes  bereits  vor  den  in  Abs. 1
+(7) In den Prüfungsordnungen kann vorgesehen werden, dass in einzelnen Ausbildungsberufen Teilprüfungen zur Meisterprüfung über einzelne Teile des Berufsbildes bereits vor den in Abs. 1
 
 www.ris.bka.gv.at
 
@@ -502,9 +505,9 @@ genannten Zeitpunkten zulässig sind. Die näheren Voraussetzungen sind durch di
 
 § 13. (1)  Die  Landesregierung  kann  nach  Anhörung  der  Lehrlings-  und  Fachausbildungsstelle  bei Vorliegen  einer  hinreichenden  tatsächlichen  Befähigung  die  für  die  Zulassung  zu  einer  in  diesem Bundesgesetz vorgesehenen Prüfung geforderten Voraussetzungen nachsehen.
 
-(2) Die Lehrlingsund Fachausbildungsstelle hat auf Antrag eine Prüfungswerberin/einen Prüfungswerber (Nachsichtswerberin/Nachsichtswerber) zur Facharbeiterprüfung zuzulassen, wenn diese/dieser das 20. Lebensjahr vollendet hat und glaubhaft macht, dass sie/er auf andere Weise die im betreffenden Lehrberuf erforderlichen Fertigkeiten und Kenntnisse erworben hat. Ein solcher Erwerb liegt beispielsweise  durch  eine  entsprechend  lange  praktische  Tätigkeit  in  einem  Zweig  der  Land-  und Forstwirtschaft und den erfolgreichen Besuch eines Vorbereitungslehrganges von mindestens 200 Stunden vor. Nähere Bestimmungen sind durch die Ausführungsgesetzgebung zu treffen.
+(2) Die Lehrlings- und Fachausbildungsstelle hat auf Antrag eine Prüfungswerberin/einen Prüfungswerber (Nachsichtswerberin/Nachsichtswerber) zur Facharbeiterprüfung zuzulassen, wenn diese/dieser das 20. Lebensjahr vollendet hat und glaubhaft macht, dass sie/er auf andere Weise die im betreffenden Lehrberuf erforderlichen Fertigkeiten und Kenntnisse erworben hat. Ein solcher Erwerb liegt beispielsweise durch eine entsprechend lange praktische Tätigkeit in einem Zweig der Land- und Forstwirtschaft und den erfolgreichen Besuch eines Vorbereitungslehrganges von mindestens 200 Stunden vor. Nähere Bestimmungen sind durch die Ausführungsgesetzgebung zu treffen.
 
-(3)  Der  Nachsichtswerber  für  die  Meisterprüfung  muß  eine  mindestens  siebenjährige  praktische Tätigkeit in einem Zweig der Landund Forstwirtschaft und den erfolgreichen Besuch eines Vorbereitungslehrganges für die Meisterprüfung nachweisen.
+(3) Der Nachsichtswerber für die Meisterprüfung muß eine mindestens siebenjährige praktische Tätigkeit in einem Zweig der Land- und Forstwirtschaft und den erfolgreichen Besuch eines Vorbereitungslehrganges für die Meisterprüfung nachweisen.
 
 #### ABSCHNITT 6
 
@@ -534,7 +537,7 @@ genannten Zeitpunkten zulässig sind. Die näheren Voraussetzungen sind durch di
 
 (2)  Ist  der  Eigentümer  eines  land-  und  forstwirtschaftlichen  Betriebes eine  juristische  Person  oder wird der Betrieb nicht durch den Eigentümer geleitet oder erfüllt der Eigentümer nicht die Voraussetzungen gemäß Abs. 1, so kann eine Anerkennung als Lehrberechtigter nur dann erfolgen, wenn im  Betrieb  ein  geeigneter  Arbeitnehmer  oder  eine  sonstige  geeignete  im  Betrieb  tätige  Person  mit  der Ausbildung von Lehrlingen beauftragt ist. Abs. 1 letzter Satz gilt sinngemäß.
 
-(3) Wenn in einem Lehrbetrieb die für den Lehrberuf wesentlichen Fertigkeiten und Kenntnisse nicht in vollem Umfang vermittelt werden können, ist die Ausbildung von Lehrlingen dann zulässig, wenn eine ergänzende Ausbildung durch Ausbildungsmaßnahmen in einem anderen geeigneten Betrieb oder einer anderen geeigneten Einrichtung erfolgt. Eine solche ergänzende Ausbildung ist nur dann zulässig, wenn im  Lehrbetrieb  die  für  den  Lehrberuf  wesentlichen  Fertigkeiten  und  Kenntnisse  überwiegend  selbst ausgebildet werden können.
+(3) Wenn in einem Lehrbetrieb die für den Lehrberuf wesentlichen Fertigkeiten und Kenntnisse nicht in vollem Umfang vermittelt werden können, ist die Ausbildung von Lehrlingen dann zulässig, wenn eine ergänzende Ausbildung durch Ausbildungsmaßnahmen in einem anderen geeigneten Betrieb oder einer
 
 www.ris.bka.gv.at
 
@@ -545,10 +548,11 @@ Seite 9 von 14
 [[START OF PAGE 10]]
 
 Bundesrecht konsolidiert
+anderen geeigneten Einrichtung erfolgt. Eine solche ergänzende Ausbildung ist nur dann zulässig, wenn im Lehrbetrieb die für den Lehrberuf wesentlichen Fertigkeiten und Kenntnisse überwiegend selbst ausgebildet werden können.
 
-(4) Die ergänzende Ausbildung ist von der landund forstwirtschaftlichen Lehrlingsund Fachausbildungsstelle bezogen auf die Fertigkeiten und Kenntnisse gemäß dem Berufsbild sowie bezogen auf das Lehrjahr festzulegen. Eine die ergänzende Ausbildung betreffende Vereinbarung ist Bestandteil des  Lehrvertrages;  sie  ist  entweder  im  Lehrvertrag  zu  treffen  oder  dem  Lehrvertrag  als  Anhang anzuschließen und bei Anmeldung des Lehrvertrages zur Eintragung vorzulegen.
+(4) Die ergänzende Ausbildung ist von der land- und forstwirtschaftlichen Lehrlings- und Fachausbildungsstelle bezogen auf die Fertigkeiten und Kenntnisse gemäß dem Berufsbild sowie bezogen auf das Lehrjahr festzulegen. Eine die ergänzende Ausbildung betreffende Vereinbarung ist Bestandteil des Lehrvertrages; sie ist entweder im Lehrvertrag zu treffen oder dem Lehrvertrag als Anhang anzuschließen und bei Anmeldung des Lehrvertrages zur Eintragung vorzulegen.
 
-(5) Wurde  festgestellt,  dass  die  Ausbildung  von  Lehrlingen  nur  dann  zulässig  ist,  wenn  eine ergänzende Ausbildung gemäß Abs. 4 erfolgt, und wird ein Lehrvertrag bei der landund forstwirtschaftlichen  Lehrlings-  und  Fachausbildungsstelle  angemeldet,  der  keine  solche  ergänzende Ausbildung  vorsieht,  so  hat  diese  festzustellen,  ob  und  inwieweit  diese  ergänzende  Ausbildung  noch erforderlich ist, wenn der Lehrvertrag nicht innerhalb angemessener Frist ergänzt wurde.
+(5) Wurde festgestellt, dass die Ausbildung von Lehrlingen nur dann zulässig ist, wenn eine ergänzende Ausbildung gemäß Abs. 4 erfolgt, und wird ein Lehrvertrag bei der land- und forstwirtschaftlichen Lehrlings- und Fachausbildungsstelle angemeldet, der keine solche ergänzende Ausbildung vorsieht, so hat diese festzustellen, ob und inwieweit diese ergänzende Ausbildung noch erforderlich ist, wenn der Lehrvertrag nicht innerhalb angemessener Frist ergänzt wurde.
 
 (6) Ob eine schwerpunktmäßige Ausbildung im Sinne des § 17 Abs. 1a in einem Betrieb erfolgen kann, ist von der land- und forstwirtschaftlichen Lehrlings- und Fachausbildungsstelle festzulegen. Sie ist bei  der  Anerkennung  als  Lehrberechtigter  und  als  Lehrbetrieb  festzulegen  und  in  die  Lehrverträge aufzunehmen.
 
@@ -592,7 +596,7 @@ Bundesrecht konsolidiert
 
 - im Auftrag des Arbeitsmarktservice einzelne Personen zusätzlich in einer Ausbildungseinrichtung in einem bestimmten Lehrberuf ausgebildet werden, auch wenn dadurch die  in  der  Bewilligung  nach  § 15a  Abs. 1  allenfalls  festgesetzte  oder  ursprünglich  nach  Z 1 vertraglich vereinbarte Anzahl der Ausbildungsplätze für diesen Lehrberuf überschritten wird.
 
-- Die Ausführungsgesetzgebung hat nähere Vorschriften zu erlassen über
+(2) Die Ausführungsgesetzgebung hat nähere Vorschriften zu erlassen über
 
 - die Voraussetzungen für die Erteilung der Bewilligung,
 
@@ -600,11 +604,11 @@ Bundesrecht konsolidiert
 
 - den Entzug der Bewilligung, wenn die Voraussetzungen nicht mehr vorliegen.
 
-(3) Die integrative Berufsausbildung (Abschnitt 3a) in Ausbildungseinrichtungen ist durch die landund forstwirtschaftliche Lehrlingsund Fachausbildungsstelle gesondert zu bewilligen. Die Ausführungsgesetzgebung hat dafür besondere Vorschriften im Sinne des Abs. 2 zu erlassen.
+(3) Die integrative Berufsausbildung (Abschnitt 3a) in Ausbildungseinrichtungen ist durch die land- und forstwirtschaftliche Lehrlings- und Fachausbildungsstelle gesondert zu bewilligen. Die Ausführungsgesetzgebung hat dafür besondere Vorschriften im Sinne des Abs. 2 zu erlassen.
 
-- Auf die Ausbildung in Ausbildungseinrichtungen ist Abschnitt 6 des Landarbeitsgesetzes 1984 mit Ausnahme des § 125 Abs. 6 bis 8 und des § 135 anzuwenden.
+(4) Auf die Ausbildung in Ausbildungseinrichtungen ist Abschnitt 6 des Landarbeitsgesetzes 1984 mit Ausnahme des § 125 Abs. 6 bis 8 und des § 135 anzuwenden.
 
-(unmittelbar anwendbares Bundesrecht) Personen, die in einer Ausbildungseinrichtung gemäß Abs. 1  oder  3  ausgebildet  werden,  sind  in  einem  Lehrverhältnis  stehenden  Personen  (Lehrlingen)  im Sinne des § 4 Abs. 1 Z 2 des Allgemeinen Sozialversicherungsgesetzes sowie hinsichtlich der Berufschulpflicht gleichgestellt. Sie gelten als Lehrlinge im Sinne des Arbeitslosenversicherungsgesetzes 1977, des Insolvenz-Entgeltsicherungsgesetzes sowie des Familienlastenausgleichsgesetzes und haben Anspruch auf eine Ausbildungsbeihilfe, die die Beitragsgrundlage für die Bemessung der Sozialversicherungsbeiträge bildet.
+(5) (unmittelbar anwendbares Bundesrecht) Personen, die in einer Ausbildungseinrichtung gemäß Abs. 1 oder 3 ausgebildet werden, sind in einem Lehrverhältnis stehenden Personen (Lehrlingen) im Sinne des § 4 Abs. 1 Z 2 des Allgemeinen Sozialversicherungsgesetzes sowie hinsichtlich der Berufschulpflicht gleichgestellt. Sie gelten als Lehrlinge im Sinne des Arbeitslosenversicherungsgesetzes 1977, des Insolvenz-Entgeltsicherungsgesetzes sowie des Familienlastenausgleichsgesetzes und haben Anspruch auf eine Ausbildungsbeihilfe, die die Beitragsgrundlage für die Bemessung der Sozialversicherungsbeiträge bildet.
 
 (6) (unmittelbar anwendbares Bundesrecht) Das Arbeitsmarktservice hat den Bundesminister für Arbeit,  Soziales  und  Konsumentenschutz  über  die  Beauftragung  einer  Ausbildungseinrichtung  zu informieren.
 
@@ -620,7 +624,7 @@ Bundesrecht konsolidiert
 
 Werden  den  Mitgliedern  des  Vertrauensrates  persönliche  Verhältnisse  oder  Angelegenheiten  der  von ihnen vertretenen Auszubildenden bekannt, die ihrer Bedeutung oder ihrem Inhalt nach einer vertraulichen Behandlung bedürfen, so haben sie hierüber Verschwiegenheit zu bewahren.
 
-- Der Inhaber der Ausbildungseinrichtung hat dem  Vertrauensrat für seine Aufgaben  die erforderliche  Zeit  zu  gewähren  und  die  notwendigen  Mittel  und  Sacherfordernisse  unentgeltlich  zur Verfügung zu stellen. Er ist verpflichtet,
+(2) Der Inhaber der Ausbildungseinrichtung hat dem Vertrauensrat für seine Aufgaben die erforderliche Zeit zu gewähren und die notwendigen Mittel und Sacherfordernisse unentgeltlich zur Verfügung zu stellen. Er ist verpflichtet,
 
 - mit  dem  Vertrauensrat  vierteljährlich,  auf  dessen  Verlangen  auch  monatlich,  gemeinsame Beratungen über laufende Angelegenheiten der Ausbildung zu führen,
 
@@ -632,7 +636,7 @@ Werden  den  Mitgliedern  des  Vertrauensrates  persönliche  Verhältnisse  ode
 
 Die  Mitglieder  des  Vertrauensrates  dürfen  in  der  Ausübung  ihrer  Tätigkeit  nicht  beschränkt  und  nicht benachteiligt werden.
 
-- Der Vertrauensrat besteht für jeden Standort der Ausbildungseinrichtung
+(3) Der Vertrauensrat besteht für jeden Standort der Ausbildungseinrichtung
 
 - mit  bis  zu  30 Auszubildenden  aus  einem  Mitglied,  das  aus  dem  Kreis  der  Auszubildenden kommen muss,
 
@@ -652,7 +656,7 @@ Bundesrecht konsolidiert
 
 Für je weitere bis zu 100 Auszubildende an einem Standort erhöht sich die Zahl der Mitglieder um je ein weiteres Mitglied.
 
-- Die  Tätigkeitsdauer  der  Mitglieder  des  Vertrauensrates  beginnt  mit  dem  Zeitpunkt  ihrer  Wahl und endet
+(4) Die Tätigkeitsdauer der Mitglieder des Vertrauensrates beginnt mit dem Zeitpunkt ihrer Wahl und endet
 
 - mit dem Zeitpunkt der Wahl eines Nachfolgers oder
 
@@ -662,9 +666,9 @@ Für je weitere bis zu 100 Auszubildende an einem Standort erhöht sich die Zahl
 
 Im  Fall des Ausscheidens  oder  bei Rücktritt von  der  Funktion übernimmt  die  auf  Grund  des Wahlergebnisses nächstgereihte Person die Funktion.
 
-- Die  Wahl  der  Mitglieder  des  Vertrauensrates  erfolgt  jährlich  in  freier,  gleicher  und  geheimer Wahl durch alle am Standort der Ausbildungseinrichtung zum Zeitpunkt der Wahl in einem Ausbildungsverhältnis befindlichen Personen im vierten Quartal jeden Jahres in einer Versammlung der Auszubildenden. Der Inhaber der Ausbildungseinrichtung ist verpflichtet, die für die Durchführung der Wahl erforderliche Infrastruktur zur Verfügung zu stellen. Die Wahl kann binnen eines Monats bei der Einigungskommission durch jeden Wahlberechtigten angefochten werden, wenn wesentliche Bestimmungen des Wahlverfahrens oder leitende  Grundsätze  des  Wahlrechts,  insbesondere  des  freien, gleichen und geheimen Wahlrechts, verletzt werden und dadurch das Wahlergebnis beeinflusst werden konnte.
+(5) Die Wahl der Mitglieder des Vertrauensrates erfolgt jährlich in freier, gleicher und geheimer Wahl durch alle am Standort der Ausbildungseinrichtung zum Zeitpunkt der Wahl in einem Ausbildungsverhältnis befindlichen Personen im vierten Quartal jeden Jahres in einer Versammlung der Auszubildenden. Der Inhaber der Ausbildungseinrichtung ist verpflichtet, die für die Durchführung der Wahl erforderliche Infrastruktur zur Verfügung zu stellen. Die Wahl kann binnen eines Monats bei der Einigungskommission durch jeden Wahlberechtigten angefochten werden, wenn wesentliche Bestimmungen des Wahlverfahrens oder leitende Grundsätze des Wahlrechts, insbesondere des freien, gleichen und geheimen Wahlrechts, verletzt werden und dadurch das Wahlergebnis beeinflusst werden konnte.
 
-- Die Ausführungsgesetzgebung hat
+(6) Die Ausführungsgesetzgebung hat
 
 - weitere Regelungen für die Rechte und Pflichten der Mitglieder des Vertrauensrates festzulegen;
 
@@ -674,19 +678,19 @@ Im  Fall des Ausscheidens  oder  bei Rücktritt von  der  Funktion übernimmt  d
 
 § 15c. (1) (Grundsatzbestimmung) Die Zeit der Teilnahme an internationalen Ausbildungsprogrammen ist von der land- und forstwirtschaftlichen Lehrlings- und Fachausbildungsstelle bis zu vier Monate pro Lehrjahr auf die Lehrzeit anzurechnen.
 
-(Grundsatzbestimmung) Die  Zeit  der  Teilnahme  an  internationalen  Ausbildungsprogrammen, bei  denen  eine  dem  Berufsbild  des  Lehrberufs  für  die  Ausbildung  im  entsprechenden  Lehrjahr entsprechende  Ausbildung  absolviert  wird,  ist  von  der  land-  und  forstwirtschaftlichen  Lehrlings-  und Fachausbildungsstelle bis zu sechs Monate pro Lehrjahr auf die Lehrzeit anzurechnen. Diese angerechneten Zeiten verringern die gemäß Abs. 1 anzurechnende Zeit nicht.
+(2) (Grundsatzbestimmung) Die Zeit der Teilnahme an internationalen Ausbildungsprogrammen, bei denen eine dem Berufsbild des Lehrberufs für die Ausbildung im entsprechenden Lehrjahr entsprechende Ausbildung absolviert wird, ist von der land- und forstwirtschaftlichen Lehrlings- und Fachausbildungsstelle bis zu sechs Monate pro Lehrjahr auf die Lehrzeit anzurechnen. Diese angerechneten Zeiten verringern die gemäß Abs. 1 anzurechnende Zeit nicht.
 
-(Grundsatzbestimmung) Der Lehrberechtigte hat der land- und forstwirtschaftlichen Lehrlingsund Fachausbildungsstelle ohne unnötigen Aufschub, spätestens jedoch binnen vier Wochen  nach dem Abschluss, die  Teilnahme an einem  internationalen Ausbildungsprogramm  gemäß  Abs. 1  oder 2 anzuzeigen.
+(3) (Grundsatzbestimmung) Der Lehrberechtigte hat der land- und forstwirtschaftlichen Lehrlings- und Fachausbildungsstelle ohne unnötigen Aufschub, spätestens jedoch binnen vier Wochen nach dem Abschluss, die Teilnahme an einem internationalen Ausbildungsprogramm gemäß Abs. 1 oder 2 anzuzeigen.
 
-(unmittelbar anwendbares Bundesrecht) Teilnehmer an internationalen Ausbildungsprogrammen gemäß  Abs. 1 oder 2 gelten als Lehrlinge im Sinne des Allgemeinen Sozialversicherungsgesetzes, im Sinne des Familienlastenausgleichsgesetzes, im Sinne des Arbeitslosenversicherungsgesetzes 1977, im Sinne des Insolvenz-Entgeltsicherungsgesetzes (IESG) und im Sinne des Einkommensteuergesetzes.
+(4) (unmittelbar anwendbares Bundesrecht) Teilnehmer an internationalen Ausbildungsprogrammen gemäß Abs. 1 oder 2 gelten als Lehrlinge im Sinne des Allgemeinen Sozialversicherungsgesetzes, im Sinne des Familienlastenausgleichsgesetzes, im Sinne des Arbeitslosenversicherungsgesetzes 1977, im Sinne des Insolvenz-Entgeltsicherungsgesetzes (IESG) und im Sinne des Einkommensteuergesetzes.
 
 ###### Lehrstellenvormerkung
 
-§ 16. Die Lehrlingsund Fachausbildungsstellen haben ein Verzeichnis der anerkannten Lehrbetriebe und Lehrberechtigten aufzulegen. Eine Durchschrift des Verzeichnisses und seiner jeweiligen Änderung ist dem zuständigen Arbeitsmarktservice und der Landund Forstwirtschaftsinspektion zuzuleiten.
+§ 16. Die Lehrlings- und Fachausbildungsstellen haben ein Verzeichnis der anerkannten Lehrbetriebe und Lehrberechtigten aufzulegen. Eine Durchschrift des Verzeichnisses und seiner jeweiligen Änderung ist dem zuständigen Arbeitsmarktservice und der Land- und Forstwirtschaftsinspektion zuzuleiten.
 
 ###### Ausbildungs- und Prüfungswesen
 
-§ 17. (1) Die Ausführungsgesetzgebung hat die Erlassung von Ausbildungsund Prüfungsvorschriften  vorzusehen.  Diese  haben  Bestimmungen  über  Dauer  und  Inhalte  der  Kurse  und Lehrgänge sowie über Prüfungsordnungen zu enthalten.
+§ 17. (1) Die Ausführungsgesetzgebung hat die Erlassung von Ausbildungs- und Prüfungsvorschriften vorzusehen. Diese haben Bestimmungen über Dauer und Inhalte der Kurse und Lehrgänge sowie über Prüfungsordnungen zu enthalten.
 
 (1a) Die Ausführungsgesetzgebung kann für bestimmte Lehrberufe vorsehen, dass die Ausbildungsvorschriften auch zusätzlich schwerpunktmäßig auszubildende Kenntnisse und Fertigkeiten beinhalten, die entsprechend der Ausbildungsberechtigung durch den Lehrbetrieb auszubilden sind. Die Lehrzeitdauer in der Ausbildung in  unterschiedlichen Schwerpunkten eines  Lehrberufes ist  gleich. Die
 
@@ -702,9 +706,9 @@ Bundesrecht konsolidiert
 
 Aufnahme  der  Bezeichnung  des  Schwerpunktes  in  die  Facharbeiterprüfungszeugnisse  ist  nur  zulässig, wenn dies in der Ausbildungsordnung vorgesehen ist.
 
-- Die Prüfungen sind - unbeschadet allfälliger Sonderbestimmungen (Abs. 1) - von den Lehrlingsund Fachausbildungsstellen abzuhalten.
+(2) Die Prüfungen sind - unbeschadet allfälliger Sonderbestimmungen (Abs. 1) - von den Lehrlings- und Fachausbildungsstellen abzuhalten.
 
-- Die Ausführungsgesetzgebung hat vorzusehen, daß die Prüfung von Fachleuten aus dem Bereich der  Land-  und  Forstwirtschaft  abgehalten  wird  und  daß  über  die  erfolgreich  abgelegte  Prüfung  ein Zeugnis auszustellen ist, das die erworbene Berufsbezeichnung zu enthalten hat.
+(3) Die Ausführungsgesetzgebung hat vorzusehen, daß die Prüfung von Fachleuten aus dem Bereich der Land- und Forstwirtschaft abgehalten wird und daß über die erfolgreich abgelegte Prüfung ein Zeugnis auszustellen ist, das die erworbene Berufsbezeichnung zu enthalten hat.
 
 § 18. Die Ausführungsgesetzgebung hat weiters Bestimmungen vorzusehen über
 
@@ -726,23 +730,23 @@ Aufnahme  der  Bezeichnung  des  Schwerpunktes  in  die  Facharbeiterprüfungsze
 
 ###### (Grundsatzbestimmungen)
 
-§ 20. Die Ausführungsgesetzgebung hat vorzusehen, daß alle auf Grund bisher geltender Rechtsvorschriften erworbenen Zeugnisse über abgelegte Prüfungen ihre Gültigkeit behalten. Anstelle der bisherigen  Berufsbezeichnungen  tritt  die  Berufsbezeichnung  'Facharbeiter'  in  Verbindung  mit  der Bezeichnung des Lehrberufes. Die bisher erworbenen Berufsbezeichnungen können jedoch beibehalten werden.
+§ 20. Die Ausführungsgesetzgebung hat vorzusehen, daß alle auf Grund bisher geltender Rechtsvorschriften erworbenen Zeugnisse über abgelegte Prüfungen ihre Gültigkeit behalten. Anstelle der bisherigen Berufsbezeichnungen tritt die Berufsbezeichnung „Facharbeiter“ in Verbindung mit der Bezeichnung des Lehrberufes. Die bisher erworbenen Berufsbezeichnungen können jedoch beibehalten werden.
 
 § 21. Das Land- und forstwirtschaftliche Berufsausbildungsgesetz vom 16. Juli 1952, BGBl. Nr. 177, in der Fassung des Bundesgesetzes vom 2. Feber 1977, BGBl. Nr. 114, tritt mit 31. August 1991 außer Kraft.
 
 § 22. (1) (Unmittelbar  anwendbares  Bundesrecht) Die  Ausführungsgesetze  der  Länder  zu  § 14 Z 7, in der Fassung des Bundesgesetzes BGBl. Nr. 472/1992, sind binnen sechs Monaten nach dem der Kundmachung dieses Bundesgesetzes folgenden Tag zu erlassen.
 
-- Die  Ausführungsgesetze  der  Länder  zu  den  §§ 5,  7,  13  Abs. 2  und  14  Z 2  in  der  Fassung  des Bundesgesetzes  BGBl. I  Nr. 102/1998  sind  binnen  sechs  Monaten  nach  dem  der  Kundmachung  dieses Bundesgesetzes folgenden Tag zu erlassen.
+(2) Die Ausführungsgesetze der Länder zu den §§ 5, 7, 13 Abs. 2 und 14 Z 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 102/1998 sind binnen sechs Monaten nach dem der Kundmachung dieses Bundesgesetzes folgenden Tag zu erlassen.
 
-- Die Ausführungsgesetze der Länder zu den §§ 2 Abs. 4 und 5, 5 Abs. 5, 7a, 7b, 11a, 11b, 11c Abs. 1,  11d  bis  11h,  11i  Abs. 1,  12  Abs. 4,  14  Z 8,  15a  und  16,  in  der  Fassung  des  Bundesgesetzes BGBl. I  Nr. 46/2005  sind  binnen  sechs  Monaten  nach  dem  der  Kundmachung  dieses  Bundesgesetzes folgenden Tag zu erlassen.
+(3) Die Ausführungsgesetze der Länder zu den §§ 2 Abs. 4 und 5, 5 Abs. 5, 7a, 7b, 11a, 11b, 11c Abs. 1, 11d bis 11h, 11i Abs. 1, 12 Abs. 4, 14 Z 8, 15a und 16, in der Fassung des Bundesgesetzes BGBl. I Nr. 46/2005 sind binnen sechs Monaten nach dem der Kundmachung dieses Bundesgesetzes folgenden Tag zu erlassen.
 
-- Die Ausführungsgesetze der Länder zu § 2 Abs. 4 und 5, § 7a Abs. 2, § 7b Abs. 4, § 11f Abs. 2 sowie § 15a samt Überschrift, in der Fassung des Bundesgesetzes BGBl. I Nr. 82/2008 sind binnen sechs Monaten nach dem der Kundmachung dieses Bundesgesetzes folgenden Tag zu erlassen.
+(4) Die Ausführungsgesetze der Länder zu § 2 Abs. 4 und 5, § 7a Abs. 2, § 7b Abs. 4, § 11f Abs. 2 sowie § 15a samt Überschrift, in der Fassung des Bundesgesetzes BGBl. I Nr. 82/2008 sind binnen sechs Monaten nach dem der Kundmachung dieses Bundesgesetzes folgenden Tag zu erlassen.
 
-§ 15a  Abs. 5  und  6  in  der  Fassung  des  Bundesgesetzes  BGBl. I  Nr. 82/2008  tritt  mit  28. Juni 2008 in Kraft.
+(5) § 15a Abs. 5 und 6 in der Fassung des Bundesgesetzes BGBl. I Nr. 82/2008 tritt mit 28. Juni 2008 in Kraft.
 
-(unmittelbar  anwendbares  Bundesrecht) Die  Ausführungsgesetze  der  Länder  zu  den  § 3 Abs. 2, § 5 Abs. 6, § 7b Abs. 5, § 8 Abs. 2, § 11d Abs. 3 bis 6, § 11e, § 11g Abs. 1 bis 4, § 11h Abs. 1, § 12  Abs. 1,  § 15  Abs. 3  bis 8,  § 15b,  § 15c  Abs. 1  bis 3  sowie  § 17  Abs. 1a,  in  der  Fassung  des Bundesgesetzes  BGBl. I  Nr. 133/2011,  sind  binnen  sechs  Monaten  nach  dem  der  Kundmachung folgenden Tag zu erlassen.
+(6) (unmittelbar anwendbares Bundesrecht) Die Ausführungsgesetze der Länder zu den § 3 Abs. 2, § 5 Abs. 6, § 7b Abs. 5, § 8 Abs. 2, § 11d Abs. 3 bis 6, § 11e, § 11g Abs. 1 bis 4, § 11h Abs. 1, § 12 Abs. 1, § 15 Abs. 3 bis 8, § 15b, § 15c Abs. 1 bis 3 sowie § 17 Abs. 1a, in der Fassung des Bundesgesetzes BGBl. I Nr. 133/2011, sind binnen sechs Monaten nach dem der Kundmachung folgenden Tag zu erlassen.
 
-(unmittelbar  anwendbares  Bundesrecht) Die  Ausführungsgesetze  der  Länder  zu  § 3  Abs. 2, § 4 Abs. 2, § 7 Abs. 3, § 8 Abs. 3, § 12, § 13 Abs. 2, § 15 Abs. 1 und 7 sowie § 15a Abs. 1 in der Fassung
+(7) (unmittelbar anwendbares Bundesrecht) Die Ausführungsgesetze der Länder zu § 3 Abs. 2, § 4 Abs. 2, § 7 Abs. 3, § 8 Abs. 3, § 12, § 13 Abs. 2, § 15 Abs. 1 und 7 sowie § 15a Abs. 1 in der Fassung
 
 www.ris.bka.gv.at
 
