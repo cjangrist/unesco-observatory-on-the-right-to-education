@@ -79,10 +79,6 @@ Child's Attendance
 
 §322.  Secondary Education
 
-______________________________________________________________________________
-
-An Act to repeal Chapter 3, Title 14 of the MIRC the Education Act of 1992, and to enact in its place an Act to establish an autonomous public school system; to provide for a National Education  Board  and  Commissioner  of  Education;  to  provide  for  independent  personnel  and financial management, budgeting, etc; and for related purposes. [The original Education Act of 1992, is repealed by this Act, P.L.2013 - this law come into effect one (1) year after the certification]
-
 §323.  Student Conduct
 
 §324.  Teacher Conduct
@@ -107,7 +103,7 @@ An Act to repeal Chapter 3, Title 14 of the MIRC the Education Act of 1992, and 
 
 §332.  Non-Public School Attendance
 
-§333.   Benefits to Students
+§333.  Benefits to Students
 
 ## PART 5- EVALUATION AND CERTIFICATION
 
@@ -145,13 +141,17 @@ An Act to repeal Chapter 3, Title 14 of the MIRC the Education Act of 1992, and 
 
 §348.  Effective date, Transition and savings
 
+______________________________________________________________________________
+
+An Act to repeal Chapter 3, Title 14 of the MIRC the Education Act of 1992, and to enact in its place an Act to establish an autonomous public school system; to provide for a National Education Board and Commissioner of Education; to provide for independent personnel and financial management, budgeting, etc; and for related purposes.[The original Education Act of 1992, is repealed by this Act, P.L.2013 - this law come into effect one (1) year after the certification]
+
 617
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-14 MICH Ch.3     CHAPTER 3 - MARSHALL ISLANDS PUBLIC SCHOOL SYSTEM
+14 MIRC Ch.3     CHAPTER 3 - MARSHALL ISLANDS PUBLIC SCHOOL SYSTEM
 
 ____________________________________________________________________________________
 
@@ -235,7 +235,7 @@ The Minister shall be a member of the National Board and shall have the power to
 
 (2) Provide linkage with respect to policy and budgetary matters between the Board and the Cabinet ;
 
-(3) Provide linkage to other agencies including but not limited to the College of Marshall Islands, National Training Council, University of the South Pacific Extension Program and the RMIUSP Joint Education Program, Scholarship Board, with the Public School System;
+(3) Provide linkage to other agencies including but not limited to the College of Marshall Islands, National Training Council, University of the South Pacific Extension Program and the RMI-USP Joint Education Program, Scholarship Board, with the Public School System;
 
 (4) Approve Boards selection of the Commissioner of Education; and
 
@@ -277,7 +277,7 @@ The Minister shall be a member of the National Board and shall have the power to
 
 [[START OF PAGE 4]]
 
-14 MICH Ch.3     CHAPTER 3 - MARSHALL ISLANDS PUBLIC SCHOOL SYSTEM
+14 MIRC Ch.3     CHAPTER 3 - MARSHALL ISLANDS PUBLIC SCHOOL SYSTEM
 
 ____________________________________________________________________________________
 
@@ -297,9 +297,9 @@ ________________________________________________________________________________
 
 The Board shall have the following powers, functions and duties:
 
-- to recruit the Commissioner of Education of the Public School System;
+(1) to recruit the Commissioner of Education of the Public School System;
 
-- to formulate policies in consultation with the Cabinet;
+(2) to formulate policies in consultation with the Cabinet;
 
 (3) to exercise control over public school system through Commissioner of Education, and the Local Board of education within each local government jurisdiction;
 
@@ -387,7 +387,7 @@ Each Local Board shall have the following functions:
 
 [[START OF PAGE 6]]
 
-14 MICH Ch.3     CHAPTER 3 - MARSHALL ISLANDS PUBLIC SCHOOL SYSTEM
+14 MIRC Ch.3     CHAPTER 3 - MARSHALL ISLANDS PUBLIC SCHOOL SYSTEM
 
 ____________________________________________________________________________________
 
@@ -467,7 +467,7 @@ ______________________________________________________________________________
 
 (k) an adequate program of research and development; and
 
-- evaluation and monitoring programs at both the national and local levels.
+(l) evaluation and monitoring programs at both the national and local levels.
 
 #### §315. Curriculum
 
@@ -507,7 +507,7 @@ All students shall be required to attend the public school located in the area i
 
 [[START OF PAGE 8]]
 
-14 MICH Ch.3     CHAPTER 3 - MARSHALL ISLANDS PUBLIC SCHOOL SYSTEM
+14 MIRC Ch.3     CHAPTER 3 - MARSHALL ISLANDS PUBLIC SCHOOL SYSTEM
 
 ____________________________________________________________________________________
 
@@ -523,7 +523,7 @@ reside. Attendance at a public school in another school attendance area may be g
 
 (b) if enrolled in a school, the child does not attend school regularly, or
 
-(c) the child is found delinquent under the Juvenile Procedure Act and placed on probation, may be subject to penalties provided under Juvenile Delinquency Actor penalties under any regulations established by the Board.
+(c) the child is found delinquent under the Juvenile Procedure Act and placed on probation, may be subject to penalties provided under Juvenile Delinquency Act or penalties under any regulations established by the Board.
 
 ### Division 3 - Student Progress and Conduct
 
@@ -541,17 +541,17 @@ The Board shall establish rules for dealing with breaches of appropriate student
 
 #### §324. Teacher Conduct
 
-- The Board shall establish rules or regulations for dealing with breaches of appropriate teachers' conduct including disciplinary measures and appeal processes.
+(1) The Board shall establish rules or regulations for dealing with breaches of appropriate teachers' conduct including disciplinary measures and appeal processes.
 
-- The Board shall distribute such rules or regulations to students and parents, and shall act promptly and in accordance with the rules when breaches of conduct arise.
+(2) The Board shall distribute such rules or regulations to students and parents, and shall act promptly and in accordance with the rules when breaches of conduct arise.
 
-- Corporal Punishment is prohibited in the public school system.
+(3) Corporal Punishment is prohibited in the public school system.
 
 ### Division 4- Student Health and Supplementary Services
 
 #### §325. Student Health and Safety
 
-(1) The Public School System shall promote the physical, mental, social and emotional wellbeing of students by providing instruction in positive health habits and attitudes, essential health services and a healthy school environment with adequate water and sanitation facilities.
+(1) The Public School System shall promote the physical, mental, social and emotional well-being of students by providing instruction in positive health habits and attitudes, essential health services and a healthy school environment with adequate water and sanitation facilities.
 
 624
 
@@ -585,21 +585,21 @@ The  Public  School  System  shall  promote  good  nutrition  in  each  of  the 
 
 #### §330. School Meal Program
 
-- The Commissioner through the Board may assist any community in establishing a school meal program under such rules and regulations as the Board may promulgate.
+(1) The Commissioner through the Board may assist any community in establishing a school meal program under such rules and regulations as the Board may promulgate.
 
-- The Commissioner through the Board shall establish a meal program for all schools having dormitory facilities. The program shall be operated under the general direction of the school principal in accordance with standards of health cleanliness as prescribed by the Ministry of Health.
+(2) The Commissioner through the Board shall establish a meal program for all schools having dormitory facilities. The program shall be operated under the general direction of the school principal in accordance with standards of health cleanliness as prescribed by the Ministry of Health.
 
 ### Division 5- Nonpublic Schools
 
 #### §331. Charter Required
 
-- Any  person  or  persons  desiring  to  establish  a  nonpublic  school  shall,  prior  to  the establishment thereof, make written application of a charter to the Commissioner. The application shall be signed by the applicant or applicants and shall state in substance:
+(1) Any person or persons desiring to establish a nonpublic school shall, prior to the establishment thereof, make written application of a charter to the Commissioner. The application shall be signed by the applicant or applicants and shall state in substance:
 
 (a) the names of the persons desiring to establish the school;
 
 (b) the proposed location thereof;
 
-(c) the course of instruction and the language in which the instruction is to bg ei  ven;
+(c) the course of instruction and the language in which the instruction is to be given;
 
 (d) teacher qualifications;
 
@@ -613,19 +613,19 @@ The  Public  School  System  shall  promote  good  nutrition  in  each  of  the 
 
 [[START OF PAGE 10]]
 
-14 MICH Ch.3     CHAPTER 3 - MARSHALL ISLANDS PUBLIC SCHOOL SYSTEM
+14 MIRC Ch.3     CHAPTER 3 - MARSHALL ISLANDS PUBLIC SCHOOL SYSTEM
 
 ____________________________________________________________________________________
 
-- The Commissioner shall review the application and make such recommendation to the Board as the Board may consider appropriate. Upon receipt and approval of the application, the Board shall issue a charter in a form to be approved by him, authorizing the establishment of the school.
+(2) The Commissioner shall review the application and make such recommendation to the Board as the Board may consider appropriate. Upon receipt and approval of the application, the Board shall issue a charter in a form to be approved by him, authorizing the establishment of the school.
 
-- No nonpublic school shall be established except in conformity with this Chapter; provided that any nonpublic school existing in the Republic under a valid charter on the effective date of this Chapter shall be deemed to have complied with the requirements set forth in this Part.
+(3) No nonpublic school shall be established except in conformity with this Chapter; provided that any nonpublic school existing in the Republic under a valid charter on the effective date of this Chapter shall be deemed to have complied with the requirements set forth in this Part.
 
 #### §332. Nonpublic School Attendance
 
-- Attendance at any school established or maintained without complying with the terms of this Chapter shall not be considered attendance at a public or nonpublic school as required by law.
+(1) Attendance at any school established or maintained without complying with the terms of this Chapter shall not be considered attendance at a public or nonpublic school as required by law.
 
-- The Public School System may from time to time require nonpublic schools to submit reports of attendance and other matters of public concern. Failure to meet the standards required of nonpublic schools or failure to in any way comply with the provisions of law shall be cause for refusal to issue a charter or for the revocation or suspension of any charter.
+(2) The Public School System may from time to time require nonpublic schools to submit reports of attendance and other matters of public concern. Failure to meet the standards required of nonpublic schools or failure to in any way comply with the provisions of law shall be cause for refusal to issue a charter or for the revocation or suspension of any charter.
 
 #### §333. Benefits to Students
 
@@ -635,15 +635,15 @@ Students of nonpublic schools may receive from the national government, as resou
 
 #### §334. Comprehensive Needs Assessment Program
 
-- The Board of Education, in cooperation with Local Boards, shall from time to time but at least once every five (5) years, direct a comprehensive needs assessment program of all students in the Republic in light of national goals and standards.
+(1) The Board of Education, in cooperation with Local Boards, shall from time to time but at least once every five (5) years, direct a comprehensive needs assessment program of all students in the Republic in light of national goals and standards.
 
-- The Board of Education shall make the results of the needs assessment program available to Local Boards, which shall review and update their particular educational goals objectives and standards to meet those needs. All such results shall be made public.
+(2) The Board of Education shall make the results of the needs assessment program available to Local Boards, which shall review and update their particular educational goals objectives and standards to meet those needs. All such results shall be made public.
 
 #### §335. Evaluation of Performance of Each School
 
-- For the purpose of evaluating the thoroughness and efficiency of each of all schools in the Republic, the Board shall develop and administer a uniform, nation-wide system for evaluating the performance of each school.
+(1) For the purpose of evaluating the thoroughness and efficiency of each of all schools in the Republic, the Board shall develop and administer a uniform, nation-wide system for evaluating the performance of each school.
 
-- The system developed under Subsection (1) shall be based in part on annual testing for achievement in basic skills areas, and in part on such other means as the Commissioner through the Board deems proper in order to:
+(2) The system developed under Subsection (1) shall be based in part on annual testing for achievement in basic skills areas, and in part on such other means as the Commissioner through the Board deems proper in order to:
 
 (a) determine student needs;
 
@@ -721,7 +721,7 @@ If upon review of the Public School System evaluations and Reports the Commissio
 
 [[START OF PAGE 12]]
 
-14 MICH Ch.3     CHAPTER 3 - MARSHALL ISLANDS PUBLIC SCHOOL SYSTEM
+14 MIRC Ch.3     CHAPTER 3 - MARSHALL ISLANDS PUBLIC SCHOOL SYSTEM
 
 ____________________________________________________________________________________
 
@@ -739,7 +739,7 @@ and with other procedures prescribed by the Financial Management Act, 11 MIRC 1 
 
 #### §342. Budget
 
-- The Commissioner shall submit to the Minister of Education, through the Board of Education, at such time as is directed by the Minister of Finance, annual estimates of revenue and expenditure covering its anticipated operations for the following twelve (12) month period, for approval by the Cabinet.
+(1) The Commissioner shall submit to the Minister of Education, through the Board of Education, at such time as is directed by the Minister of Finance, annual estimates of revenue and expenditure covering its anticipated operations for the following twelve (12) month period, for approval by the Cabinet.
 
 (2) The Commissioner of Education shall submit to the Minister of Education, through the Board from time to time supplementary estimates of revenue and expenditure for approval by the Cabinet.
 
@@ -755,7 +755,7 @@ The public school system shall ensure in its policy or regulations, to follow si
 
 #### §344. Annual Reporting
 
-- The reports submitted to the National Board by the Local Boards pursuant to Section 345 shall form the basis for an annual report by the Commissioner to the Nitijela by August 15th of each year, which shall include the following:
+(1) The reports submitted to the National Board by the Local Boards pursuant to Section 345 shall form the basis for an annual report by the Commissioner to the Nitijela by August 15th of each year, which shall include the following:
 
 (a) a description of the condition of education in the Republic;
 
@@ -783,13 +783,13 @@ ______________________________________________________________________________
 
 #### §345. Local Board Reporting
 
-- Each Local Board shall make an annual report by July 15th of each year to the National Board of its progress in conforming to the goals, objectives and standards developed under this Chapter. Each report shall include the following:
+(1) Each Local Board shall make an annual report by July 15th of each year to the National Board of its progress in conforming to the goals, objectives and standards developed under this Chapter. Each report shall include the following:
 
 (a) demographic data related to each school;
 
-(b) results of assessment programs, including nation-wide and local testing conducted at each school, and the result of the district evaluation of student proficiency basic skills;
+(b) results of assessment programs, including nation-wide and local testing conducted at each school, and the result of the district evaluation of student proficiency in basic skills;
 
-(c) included on each school's fiscal operation, including the budget of eachs   chool;
+(c) included on each school's fiscal operation, including the budget of each school;
 
 (d) results of each school's effectiveness in achieving national and local goals and objectives applicable to the students;
 
@@ -799,27 +799,25 @@ ______________________________________________________________________________
 
 (g) recommendations for school improvements during the next academic school year.
 
-- In addition to the items specified in Subsection of this Section, the National Board may from time to time require each Local Board to submit a facilities' survey, including current use practices and projected capital needs.
+(2) In addition to the items specified in Subsection of this Section, the National Board may from time to time require each Local Board to submit a facilities' survey, including current use practices and projected capital needs.
 
 #### §346. Liability.
 
-- No member of the Board, officer, or staff of the PSS shall be personally liable for any act or default done or omitted to be done in good faith in the course of the administration of the PSS.
+(1) No member of the Board, officer, or staff of the PSS shall be personally liable for any act or default done or omitted to be done in good faith in the course of the administration of the PSS.
 
-- Any expenses incurred in relation to any suit either in prosecuting or defending a suit or prosecution that falls under the terms of this Chapter shall be charge against the fund established under this Chapter, provided that the limits of liability applicable to the Republic shall apply to any suit brought against the PSS in the courts of the Republic.
+(2) Any expenses incurred in relation to any suit either in prosecuting or defending a suit or prosecution that falls under the terms of this Chapter shall be charge against the fund established under this Chapter, provided that the limits of liability applicable to the Republic shall apply to any suit brought against the PSS in the courts of the Republic.
 
 #### §347. Rules and Regulations
 
-- The Minister, or the Minister's designee, shall adopt such rules and regulations as are necessary, in accordance with the Marshall Islands Administrative Procedure Act 1979 (6 MIRC 1), to effectively implement and administer this Chapter.
+(1) The Minister, or the Minister's designee, shall adopt such rules and regulations as are necessary, in accordance with the Marshall Islands Administrative Procedure Act 1979 (6 MIRC 1), to effectively implement and administer this Chapter.
 
-- The Minister or the Minister's designee, may adopt rules or regulations imposing reasonable fees for teacher certification, nonpublic school charters and such other areas as are necessary for the implementation of this Chapter.
+(2) The Minister or the Minister's designee, may adopt rules or regulations imposing reasonable fees for teacher certification, nonpublic school charters and such other areas as are necessary for the implementation of this Chapter.
 
 #### §348. Effective date, Transition and savings
 
-- This Act shall take effect in accordance with the Constitution Article IV Section 21 of the Constitution, and Rules of Procedures of the Nitijela, provided however that nothing in this Act shall take effect, or affect any schools, programs or projects currently undertaken by the Ministry of Education until the expiry of the period of one year (1) after   the certification of this Act.
+(1) This Act shall take effect in accordance with the Constitution Article IV Section 21 of the Constitution, and Rules of Procedures of the Nitijela, provided however that nothing in this Act shall take effect, or affect any schools, programs or projects currently undertaken by the Ministry of Education until the expiry of the period of one year (1) after the certification of this Act.
 
-- All rules, regulations and policies promulgated and administered by the Ministry of Education prior to the coming into effect of this Chapter, shall remain in operational as if made pursuant to this Chapter, until amended, abolished or superseded, by any new rules, regulations and policies promulgated by the Board.
-
-in
+(2) All rules, regulations and policies promulgated and administered by the Ministry of Education prior to the coming into effect of this Chapter, shall remain in operational as if made pursuant to this Chapter, until amended, abolished or superseded, by any new rules, regulations and policies promulgated by the Board.
 
 629
 
@@ -827,7 +825,7 @@ in
 
 [[START OF PAGE 14]]
 
-14 MICH Ch.3     CHAPTER 3 - MARSHALL ISLANDS PUBLIC SCHOOL SYSTEM
+14 MIRC Ch.3     CHAPTER 3 - MARSHALL ISLANDS PUBLIC SCHOOL SYSTEM
 
 ____________________________________________________________________________________
 
