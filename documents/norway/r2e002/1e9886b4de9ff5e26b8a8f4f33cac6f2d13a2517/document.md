@@ -39,13 +39,16 @@ The provisions of this Act may not be varied by agreement.
 ## Chapter 2. Prohibition against discrimination
 
 ### Section 5. General rule regarding the prohibition against discrimination
-Discrimination on the basis of disability shall be prohibited. The prohibition shall apply to discrimination on the basis of actual, assumed, former or future disability. The prohibition shall also apply to discrimination on the basis of the disability of a person with whom the person who is discriminated against has a connection.
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-'Discrimination' shall mean direct or indirect differential treatment that is not lawful pursuant to section 6 or section 7. 'Direct differential treatment' shall mean an act or omission that has the purpose or effect that a person is treated worse than others in the same situation, and that is due to disability. 'Indirect differential treatment' shall mean any apparently neutral provision, condition, practice, act or omission that results in persons being put in a worse position than others, and that occurs on the basis of disability.
+Discrimination on the basis of disability shall be prohibited. The prohibition shall apply to discrimination on the basis of actual, assumed, former or future disability.
+
+The prohibition shall also apply to discrimination on the basis of the disability of a person with whom the person who is discriminated against has a connection.
+
+“Discrimination” shall mean direct or indirect differential treatment that is not lawful pursuant to section 6 or section 7. “Direct differential treatment” shall mean an act or omission that has the purpose or effect that a person is treated worse than others in the same situation, and that is due to disability. “Indirect differential treatment” shall mean any apparently neutral provision, condition, practice, act or omission that results in persons being put in a worse position than others, and that occurs on the basis of disability.
 
 ### Section 6. Lawful differential treatment
 
@@ -69,7 +72,7 @@ Positive differential treatment on the basis of disability shall not breach the 
 
 ### Section 8. Prohibition against harassment
 
-Harassment on the basis of disability shall be prohibited. 'Harassment' shall mean acts, omissions or statements that have the effect or purpose of being offensive, frightening, hostile, degrading or humiliating.
+Harassment on the basis of disability shall be prohibited. “Harassment” shall mean acts, omissions or statements that have the effect or purpose of being offensive, frightening, hostile, degrading or humiliating.
 
 ### Section 9. Prohibition against retaliation
 
@@ -101,9 +104,9 @@ Discrimination due to a lack of physical accommodation shall be fully regulated 
 
 Public undertakings shall make active, targeted efforts to promote universal design within the undertaking. The same shall apply to private undertakings focused on the general public.
 
-'Universal design' shall mean designing or accommodating the main solution with respect to the physical conditions, including information and communications technology (ICT), such that the general function of the undertaking can be used by as many people as possible.
+“Universal design” shall mean designing or accommodating the main solution with respect to the physical conditions, including information and communications technology (ICT), such that the general function of the undertaking can be used by as many people as possible.
 
-Public and private undertakings focused on the general public shall have a duty to ensure universal design of the undertaking's general function provided that this does not impose a disproportionate burden on the undertaking. When assessing whether the design or accommodation imposes a disproportionate burden, particular weight shall be given to the effect of the accommodation on the dismantling of disabling barriers, whether the general function of the undertaking is of a public nature, the necessary costs associated with the accommodation, the undertaking's resources, safety considerations and cultural heritage considerations.
+Public and private undertakings focused on the general public shall have a duty to ensure universal design of the undertaking’s general function provided that this does not impose a disproportionate burden on the undertaking. When assessing whether the design or accommodation imposes a disproportionate burden, particular weight shall be given to the effect of the accommodation on the dismantling of disabling barriers, whether the general function of the undertaking is of a public nature, the necessary costs associated with the accommodation, the undertaking’s resources, safety considerations and cultural heritage considerations.
 
 No duty to ensure universal design pursuant to this Act shall apply if the undertaking satisfies further provisions in law or regulation regarding the content of the duty to ensure universal design.
 
@@ -115,11 +118,11 @@ The King may issue regulations on the content of the duty to ensure universal de
 
 ### Section 14. Details regarding universal design of ICT
 
-'Information and communications technology (ICT)' shall mean technology and technology systems that are used to express, create, convert, exchange, store, duplicate or publish information, or that otherwise make information usable.
+“Information and communications technology (ICT)” shall mean technology and technology systems that are used to express, create, convert, exchange, store, duplicate or publish information, or that otherwise make information usable.
 
 New ICT solutions shall be universally designed. This duty shall enter into force 12 months after standards or guidelines relating to the content of this duty are introduced; see the fourth paragraph. As of 1 January 2021, all ICT solutions shall be universally designed. The enforcement body appointed pursuant to section 29 shall be authorised to grant exemptions from these deadlines if particularly weighty reasons apply.
 
-The duty shall apply to ICT solutions that support the undertaking's general functions and that are main solutions aimed or made available to the general public.
+The duty shall apply to ICT solutions that support the undertaking’s general functions and that are main solutions aimed or made available to the general public.
 
 The King shall issue regulations containing further provisions on the delimitation of the scope and content of the duty to ensure universal design of ICT solutions.
 
@@ -137,11 +140,13 @@ The right shall apply to accommodation that does not impose a disproportionate b
 
 Pupils and students with disabilities who attend a school or educational institution shall have a right to suitable individual accommodation of the place of learning, teaching, teaching aids and examinations to ensure equal training and education opportunities.
 
-The right shall apply to accommodation that does not impose a disproportionate burden. When assessing whether the accommodation imposes a disproportionate burden, particular weight shall be given to the effect of the accommodation on the dismantling of disabling barriers, the necessary costs associated with the accommodation and the resources of the undertaking.
+The right shall apply to accommodation that does not impose a disproportionate burden. When assessing whether the accommodation imposes a disproportionate burden, particular weight shall be given to the effect of the accommodation on the
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+dismantling of disabling barriers, the necessary costs associated with the accommodation and the resources of the undertaking.
 
 ## Chapter 4. Active equality efforts
 
@@ -173,24 +178,25 @@ The prohibitions in chapter 2 shall apply to all aspects of an employment relati
 
 - cessation of the employment relationship.
 
-The first paragraph shall apply correspondingly to the employer's selection and treatment of self-employed persons and hired workers.
+The first paragraph shall apply correspondingly to the employer’s selection and treatment of self-employed persons and hired workers.
 
-### Section 22. Employer's disclosure duty to job applicants
+### Section 22. Employer’s disclosure duty to job applicants
 
 Job applicants who consider themselves to have been disregarded contrary to this Act shall be entitled to demand that the employer provide written information about the person who has been appointed. The employer shall provide information about education, experience and other formal qualifications.
 
-### Section 23. Employer's disclosure duty regarding pay
-A worker who suspects discrimination in the setting of pay shall be entitled to demand that the employer provide written confirmation of the pay level and the criteria for the setting of the pay of the person or persons with whom the person in question is making a comparison.
+### Section 23. Employer’s disclosure duty regarding pay
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
+A worker who suspects discrimination in the setting of pay shall be entitled to demand that the employer provide written confirmation of the pay level and the criteria for the setting of the pay of the person or persons with whom the person in question is making a comparison.
+
 A person who receives information about pay pursuant to this provision shall be subject to a duty of confidentiality and shall sign a confidentiality declaration. This shall not apply in the case of information covered by the Freedom of Information Act.
 
 An employer who releases pay information about an employee under this provision shall simultaneously inform the person in question of what information has been released, and to whom.
 
-### Section 24. Employer's activity duty
+### Section 24. Employer’s activity duty
 
 Employers shall make active, targeted and systematic efforts to promote the purpose of this Act in their undertakings. The activity duty shall encompass matters such as recruitment, pay and working conditions, promotion, development opportunities and protection against harassment. The activity duty shall apply to:
 
@@ -216,7 +222,7 @@ The right shall apply to accommodation that does not impose a disproportionate b
 
 [[START OF PAGE 7]]
 
-### Section 27. Employer's duty to preclude and prevent harassment
+### Section 27. Employer’s duty to preclude and prevent harassment
 
 Employers shall preclude and seek to prevent the occurrence of harassment contrary to section 8.
 
@@ -224,7 +230,7 @@ Employers shall preclude and seek to prevent the occurrence of harassment contra
 
 ### Section 28. Enforcement of this Act
 
-The Equality and Anti-Discrimination Ombud and the Equality and AntiDiscrimination Tribunal shall enforce and contribute to the implementation of this Act; see the Anti-Discrimination Ombud Act. However, the ombud and the tribunal shall not enforce the rules relating to:
+The Equality and Anti-Discrimination Ombud and the Equality and Anti-Discrimination Tribunal shall enforce and contribute to the implementation of this Act; see the Anti-Discrimination Ombud Act. However, the ombud and the tribunal shall not enforce the rules relating to:
 
 - universal design of ICT in section 14,
 
@@ -280,13 +286,13 @@ In an employment relationship, liability shall exist irrespective of whether the
 
 The compensation for economic loss shall cover economic losses resulting from the discrimination. Compensation for non-economic loss shall be set at an amount that is reasonable in view of the scope and nature of the harm, the relationship between the parties and the circumstances otherwise.
 
-These rules shall not limit the right of persons to claim compensation for noneconomic loss and compensation for economic loss under the general principles of the law of damages.
+These rules shall not limit the right of persons to claim compensation for non-economic loss and compensation for economic loss under the general principles of the law of damages.
 
 ### Section 32. Right of organisations to act as legal representatives
 
 In cases dealt with by the Equality and Anti-Discrimination Ombud and the Equality and Anti-Discrimination Tribunal, an organisation that has anti-discrimination work as its sole or partial purpose may be used as a legal representative.
 
-In cases before the courts, a person appointed by and associated with an organisation that has anti-discrimination work as its sole or partial purpose may be used as counsel. This shall not apply to the Supreme Court. The court may refuse to accept an appointment as counsel if the court finds there to be a risk that counsel lacks sufficient qualifications to safeguard the party's interests satisfactorily. In addition to the authority mentioned in section 3-4 of the Dispute Act, counsel shall at the same time submit written information from the organisation regarding counsel's qualifications.
+In cases before the courts, a person appointed by and associated with an organisation that has anti-discrimination work as its sole or partial purpose may be used as counsel. This shall not apply to the Supreme Court. The court may refuse to accept an appointment as counsel if the court finds there to be a risk that counsel lacks sufficient qualifications to safeguard the party’s interests satisfactorily. In addition to the authority mentioned in section 3-4 of the Dispute Act, counsel shall at the same time submit written information from the organisation regarding counsel’s qualifications.
 
 [[END OF PAGE 8]]
 
