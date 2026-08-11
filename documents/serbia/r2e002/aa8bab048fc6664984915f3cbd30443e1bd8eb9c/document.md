@@ -1,10 +1,31 @@
 [[START OF PAGE 1]]
 
+PARAGRAF
+Pravna i ekonomska izdanja za uspešno i zakonito poslovanje
 BUDITE NA PRAVNOJ STRANI online@paragraf.rs www.paragraf.rs
 
 Preuzeto iz elektronske pravne baze Paragraf Lex
 
-Ukoliko ovaj propis niste preuzeli sa Paragrafovog sajta ili niste sigurni da li je u pitanju važeća verzija propisa, poslednju verziju možete naći OVDE .
+PROPISI SRBIJE
+PROPISI CRNE GORE
+PROPISI BOSNE I HERCEGOVINE
+
+STRUČNI ČASOPISI ZA:
+Pravo
+Javni sektor
+Računovodstvo, porezi i carine
+
+Savetovanja
+Priručnici
+Konsalting
+
+ADRESARI
+Advokati, Notari, Knjigovođe, Špediteri, Sudski tumači, Geometri, Revizori, Sudski veštaci
+
+MOBILNA APLIKACIJA
+PARAGRAF LEX
+
+Ukoliko ovaj propis niste preuzeli sa Paragrafovog sajta ili niste sigurni da li je u pitanju važeća verzija propisa, poslednju verziju možete naći OVDE.
 
 # ZAKON O VISOKOM OBRAZOVANJU
 
@@ -159,7 +180,7 @@ Nacionalni savet za visoko obrazovanje (u daljem tekstu: Nacionalni savet) obraz
 
 Nacionalni savet ima 17 članova, koje imenuje Vlada, vodeći računa o zastupljenosti pripadnika oba pola, i to:
 
-- šest članova iz reda redovnih profesora, vrhunskih stručnjaka u zvanju naučnog savetnika, odnosno umetnika sa međunarodno priznatim radovima ili osvedočenim doprinosom nacionalnoj kulturi, vodeći računa o zastupljenosti obrazovnonaučnih, odnosno obrazovno-umetničkih polja, kao i zastupljenosti univerziteta, na predlog Konferencije univerziteta;
+- šest članova iz reda redovnih profesora, vrhunskih stručnjaka u zvanju naučnog savetnika, odnosno umetnika sa međunarodno priznatim radovima ili osvedočenim doprinosom nacionalnoj kulturi, vodeći računa o zastupljenosti obrazovno-naučnih, odnosno obrazovno-umetničkih polja, kao i zastupljenosti univerziteta, na predlog Konferencije univerziteta;
 
 - dva člana iz reda profesora strukovnih studija, na predlog Konferencije akademija strukovnih studija i visokih škola (u daljem tekstu: Konferencija akademija i visokih škola);
 
@@ -179,18 +200,73 @@ Lista prijavljenih kandidata stavlja se na uvid javnosti u roku od 10 dana od is
 
 Primedbe i predlozi u vezi sa prijavljenim kandidatima mogu se dostaviti u roku od 15 dana od dana stavljanja liste prijavljenih kandidata na uvid javnosti.
 
-Konferencija univerziteta, odnosno Konferencija akademija i visokih škola upućuje predlog Vladi, od najviše 18, odnosno tri kandidata, u roku od 30 dana od isteka roka za dostavljanje primedbi i predloga iz stava 7. ovog člana, vodeći računa o broju studenata i o broju nastavnika i saradnika, shodno članu 26. stav 5. ovog zakona. Ministarstvo nadležno za poslove visokog obrazovanja, odnosno Privredna komora Srbije upućuje predlog Vladi, od najviše osam, odnosno tri kandidata u roku od 30 dana od dana isteka roka za dostavljanje primedbi i predloga iz stava 7. ovog člana. Vlada donosi odluku o imenovanju članova Nacionalnog saveta u roku od 30 dana od dobijanja predloga iz stava 8. ovog člana. Član Nacionalnog saveta ne može biti lice izabrano, postavljeno ili imenovano na funkciju u državnom organu, organu autonomne pokrajine ili lokalne samouprave, u organu političke stranke ili na dužnost organa poslovođenja visokoškolske ustanove, kao ni lice koje je član Komisije za akreditaciju i proveru kvaliteta (u daljem tekstu: Komisija za akreditaciju) i lice koje je zaposleno u Nacionalnom telu za akreditaciju i proveru kvaliteta u visokom obrazovanju (u daljem tekstu: Nacionalno akreditaciono telo). Mandat članova Nacionalnog saveta traje četiri godine sa mogućnošću još jednog izbora. Vlada razrešava člana Nacionalnog saveta pre isteka mandata, i to: 1) na lični zahtev; 2) ako ne ispunjava dužnosti člana Nacionalnog saveta ili svojim postupcima povredi ugled te dužnosti, a na predlog Konferencije univerziteta, Konferencije akademija i visokih škola, ministarstva nadležnog za poslove visokog obrazovanja, odnosno Privredne komore Srbije; 3) ukoliko se ispuni uslov iz stava 10. ovog člana. Nacionalni savet bira predsednika iz reda svojih članova. Članovi Nacionalnog saveta imaju pravo na naknadu za rad u visini koju utvrdi Vlada.
-### Nadležnost Nacionalnog saveta
-#### Član 12
-7) utvrđuje smernice u vezi sa organizacijom, sprovođenjem kratkog programa studija i izdavanjem odgovarajućeg sertifikata;
+Konferencija univerziteta, odnosno Konferencija akademija i visokih škola upućuje predlog Vladi, od najviše 18, odnosno tri kandidata, u roku od 30 dana od isteka roka za dostavljanje primedbi i predloga iz stava 7. ovog člana, vodeći računa o broju studenata i o broju nastavnika i saradnika, shodno članu 26. stav 5. ovog zakona. Ministarstvo nadležno za poslove visokog
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-Nacionalni savet: 1) prati razvoj visokog obrazovanja i njegovu usklađenost sa evropskim i međunarodnim standardima; 2) predlaže ministarstvu nadležnom za poslove visokog obrazovanja (u daljem tekstu: Ministarstvo) mere za unapređivanje sistema visokog obrazovanja; 3) daje mišljenje o politici upisa na visokoškolske ustanove; 4) daje mišljenje u postupku donošenja propisa kojima se uređuju pitanja od značaja za delatnost visokog obrazovanja; 5) predlaže Vladi normative i standarde rada visokoškolskih ustanova, kao i materijalna sredstva za njihovo ostvarivanje, po pribavljenom mišljenju Konferencije univerziteta i Konferencije akademija i visokih škola; 6) odlučuje u drugom stepenu po žalbama u postupku akreditacije, na osnovu predloga žalbene komisije, koju obrazuje za svaku pojedinačnu žalbu; 8) utvrđuje naučne, umetničke, odnosno stručne oblasti u okviru polja iz člana 37. ovog zakona, na predlog Konferencije univerziteta i Konferencije akademija i visokih škola; 9) utvrđuje listu stručnih, akademskih, naučnih, odnosno umetničkih naziva sa naznakom zvanja odgovarajućeg stepena studija iz odgovarajućih oblasti i skraćenice stručnih, akademskih, naučnih, odnosno umetničkih naziva dvojezično, na srpskom i engleskom jeziku; 10) utvrđuje standarde za samovrednovanje i ocenjivanje kvaliteta visokoškolskih ustanova na predlog Nacionalnog akreditacionog tela; 11) utvrđuje standarde za spoljašnju proveru kvaliteta visokoškolskih ustanova na predlog Nacionalnog akreditacionog tela; 12) utvrđuje standarde za početnu akreditaciju na predlog Nacionalnog akreditacionog tela; 13) utvrđuje standarde i postupak za akreditaciju visokoškolskih ustanova na predlog Nacionalnog akreditacionog tela; 14) utvrđuje standarde i postupak za akreditaciju studijskih programa na predlog Nacionalnog akreditacionog tela; 15) utvrđuje minimalne uslove za izbor u zvanja nastavnika, na predlog Konferencije univerziteta, odnosno Konferencije akademija i visokih škola; 16) donosi Osnove za kodeks o akademskom integritetu i sukobu interesa prilikom izbora u zvanje nastavnika, odnosno saradnika i zasnivanja radnog odnosa na visokoškolskim ustanovama u Republici Srbiji; 17) utvrđuje listu recenzenata;
+obrazovanja, odnosno Privredna komora Srbije upućuje predlog Vladi, od najviše osam, odnosno tri kandidata u roku od 30 dana od dana isteka roka za dostavljanje primedbi i predloga iz stava 7. ovog člana.
 
-- obavlja i druge poslove u skladu sa zakonom.
+Vlada donosi odluku o imenovanju članova Nacionalnog saveta u roku od 30 dana od dobijanja predloga iz stava 8. ovog člana.
+
+Član Nacionalnog saveta ne može biti lice izabrano, postavljeno ili imenovano na funkciju u državnom organu, organu autonomne pokrajine ili lokalne samouprave, u organu političke stranke ili na dužnost organa poslovođenja visokoškolske ustanove, kao ni lice koje je član Komisije za akreditaciju i proveru kvaliteta (u daljem tekstu: Komisija za akreditaciju) i lice koje je zaposleno u Nacionalnom telu za akreditaciju i proveru kvaliteta u visokom obrazovanju (u daljem tekstu: Nacionalno akreditaciono telo).
+
+Mandat članova Nacionalnog saveta traje četiri godine sa mogućnošću još jednog izbora.
+
+Vlada razrešava člana Nacionalnog saveta pre isteka mandata, i to:
+
+1) na lični zahtev;
+
+2) ako ne ispunjava dužnosti člana Nacionalnog saveta ili svojim postupcima povredi ugled te dužnosti, a na predlog Konferencije univerziteta, Konferencije akademija i visokih škola, ministarstva nadležnog za poslove visokog obrazovanja, odnosno Privredne komore Srbije;
+
+3) ukoliko se ispuni uslov iz stava 10. ovog člana.
+
+Nacionalni savet bira predsednika iz reda svojih članova.
+
+Članovi Nacionalnog saveta imaju pravo na naknadu za rad u visini koju utvrdi Vlada.
+
+### Nadležnost Nacionalnog saveta
+
+#### Član 12
+
+Nacionalni savet:
+
+1) prati razvoj visokog obrazovanja i njegovu usklađenost sa evropskim i međunarodnim standardima;
+
+2) predlaže ministarstvu nadležnom za poslove visokog obrazovanja (u daljem tekstu: Ministarstvo) mere za unapređivanje sistema visokog obrazovanja;
+
+3) daje mišljenje o politici upisa na visokoškolske ustanove;
+
+4) daje mišljenje u postupku donošenja propisa kojima se uređuju pitanja od značaja za delatnost visokog obrazovanja;
+
+5) predlaže Vladi normative i standarde rada visokoškolskih ustanova, kao i materijalna sredstva za njihovo ostvarivanje, po pribavljenom mišljenju Konferencije univerziteta i Konferencije akademija i visokih škola;
+
+6) odlučuje u drugom stepenu po žalbama u postupku akreditacije, na osnovu predloga žalbene komisije, koju obrazuje za svaku pojedinačnu žalbu;
+
+7) utvrđuje smernice u vezi sa organizacijom, sprovođenjem kratkog programa studija i izdavanjem odgovarajućeg sertifikata;
+
+8) utvrđuje naučne, umetničke, odnosno stručne oblasti u okviru polja iz člana 37. ovog zakona, na predlog Konferencije univerziteta i Konferencije akademija i visokih škola;
+
+9) utvrđuje listu stručnih, akademskih, naučnih, odnosno umetničkih naziva sa naznakom zvanja odgovarajućeg stepena studija iz odgovarajućih oblasti i skraćenice stručnih, akademskih, naučnih, odnosno umetničkih naziva dvojezično, na srpskom i engleskom jeziku;
+
+10) utvrđuje standarde za samovrednovanje i ocenjivanje kvaliteta visokoškolskih ustanova na predlog Nacionalnog akreditacionog tela;
+
+11) utvrđuje standarde za spoljašnju proveru kvaliteta visokoškolskih ustanova na predlog Nacionalnog akreditacionog tela;
+
+12) utvrđuje standarde za početnu akreditaciju na predlog Nacionalnog akreditacionog tela;
+
+13) utvrđuje standarde i postupak za akreditaciju visokoškolskih ustanova na predlog Nacionalnog akreditacionog tela;
+
+14) utvrđuje standarde i postupak za akreditaciju studijskih programa na predlog Nacionalnog akreditacionog tela;
+
+15) utvrđuje minimalne uslove za izbor u zvanja nastavnika, na predlog Konferencije univerziteta, odnosno Konferencije akademija i visokih škola;
+
+16) donosi Osnove za kodeks o akademskom integritetu i sukobu interesa prilikom izbora u zvanje nastavnika, odnosno saradnika i zasnivanja radnog odnosa na visokoškolskim ustanovama u Republici Srbiji;
+
+17) utvrđuje listu recenzenata;
+
+18) obavlja i druge poslove u skladu sa zakonom.
 
 [[END OF PAGE 4]]
 
@@ -528,9 +604,13 @@ Studijski program je skup obaveznih i izbornih studijskih područja, odnosno pre
 
 #### Član 34
 
-Delatnost visokog obrazovanja ostvaruje se kroz akademske i strukovne studije na osnovu akreditovanih studijskih programa za sticanje visokog obrazovanja. Na akademskim studijama izvodi se akademski studijski program, koji osposobljava studente za razvoj i primenu naučnih, umetničkih i stručnih dostignuća. Na strukovnim studijama izvodi se strukovni studijski program, koji osposobljava studente za primenu i razvoj stručnih znanja i veština potrebnih za uključivanje u radni proces. program studija koji ima jasno definisanu strukturu, svrhu i ishode učenja i za koji se izdaje sertifikat o završenom kratkom
+Delatnost visokog obrazovanja ostvaruje se kroz akademske i strukovne studije na osnovu akreditovanih studijskih programa za sticanje visokog obrazovanja.
 
-Radi stručnog osposobljavanja lica sa stečenim srednjim obrazovanjem za uključivanje u radni proces, izvodi se kratki programu studija i stečenim kompetencijama.
+Na akademskim studijama izvodi se akademski studijski program, koji osposobljava studente za razvoj i primenu naučnih, umetničkih i stručnih dostignuća.
+
+Na strukovnim studijama izvodi se strukovni studijski program, koji osposobljava studente za primenu i razvoj stručnih znanja i veština potrebnih za uključivanje u radni proces.
+
+Radi stručnog osposobljavanja lica sa stečenim srednjim obrazovanjem za uključivanje u radni proces, izvodi se kratki program studija koji ima jasno definisanu strukturu, svrhu i ishode učenja i za koji se izdaje sertifikat o završenom kratkom programu studija i stečenim kompetencijama.
 
 ### Stepeni studija
 #### Član 35
@@ -623,9 +703,41 @@ Studijskim programom utvrđuju se:
 
 [[START OF PAGE 13]]
 
-Svaki predmet iz studijskog programa ili kratkog programa studija iskazuje se brojem odgovarajućih ESPB bodova, a obim programa se izražava zbirom ESPB bodova. Zbir od 60 ESPB bodova odgovara prosečnom ukupnom angažovanju studenta u obimu 40-časovne radne nedelje tokom jedne školske godine. Ukupno angažovanje studenta sastoji se od aktivne nastave (predavanja, vežbe, praktikumi, seminari i dr.), samostalnog rada, kolokvijuma, ispita, izrade završnih radova, studentske prakse, dobrovoljnog rada u lokalnoj zajednici i drugih vidova angažovanja. Dobrovoljni rad je rad studenta bez naknade, koji organizuje visokoškolska ustanova na projektima od značaja za lokalnu zajednicu koji se vrednuje u sistemu visokog obrazovanja. Uslove, način organizovanja i vrednovanje dobrovoljnog rada uređuje visokoškolska ustanova svojim opštim aktom. Ukupan broj časova aktivne nastave ne može biti manji od 600 časova u toku školske godine. Osnovne akademske studije imaju od 180 do 240 ESPB bodova. Osnovne strukovne studije imaju 180 ESPB bodova. Specijalističke strukovne studije imaju najmanje 60 ESPB bodova. Master akademske studije imaju: 1) najmanje 60 ESPB bodova, kada je prethodno ostvaren obim osnovnih akademskih studija od 240 ESPB bodova; 2) najmanje 120 ESPB bodova kada je prethodno ostvaren obim osnovnih akademskih studija od 180 ESPB bodova. Master strukovne studije imaju najmanje 120 ESPB bodova kada je prethodno ostvaren obim prvog stepena studija od najmanje 180 ESPB bodova. Studijski programi akademskih studija mogu se organizovati integrisano u okviru osnovnih i master akademskih studija. osnovnim akademskim i master akademskim studijama, odnosno integrisanim akademskim studijama. Studijski programi akademskih studija iz medicinskih nauka mogu se organizovati integrisano u okviru osnovnih i master akademskih studija, sa ukupnim obimom od najviše 360 ESPB bodova.
+Svaki predmet iz studijskog programa ili kratkog programa studija iskazuje se brojem odgovarajućih ESPB bodova, a obim programa se izražava zbirom ESPB bodova.
 
-Specijalističke akademske studije imaju najmanje 60 ESPB bodova kada su prethodno završene master akademske studije. Doktorske studije imaju najmanje 180 ESPB bodova, uz prethodno ostvareni obim studija od najmanje 300 ESPB bodova na Kratki program studija može se izvoditi u obimu od 30 do 60 ESPB bodova.
+Zbir od 60 ESPB bodova odgovara prosečnom ukupnom angažovanju studenta u obimu 40-časovne radne nedelje tokom jedne školske godine.
+
+Ukupno angažovanje studenta sastoji se od aktivne nastave (predavanja, vežbe, praktikumi, seminari i dr.), samostalnog rada, kolokvijuma, ispita, izrade završnih radova, studentske prakse, dobrovoljnog rada u lokalnoj zajednici i drugih vidova angažovanja.
+
+Dobrovoljni rad je rad studenta bez naknade, koji organizuje visokoškolska ustanova na projektima od značaja za lokalnu zajednicu koji se vrednuje u sistemu visokog obrazovanja.
+
+Uslove, način organizovanja i vrednovanje dobrovoljnog rada uređuje visokoškolska ustanova svojim opštim aktom.
+
+Ukupan broj časova aktivne nastave ne može biti manji od 600 časova u toku školske godine.
+
+Osnovne akademske studije imaju od 180 do 240 ESPB bodova.
+
+Osnovne strukovne studije imaju 180 ESPB bodova.
+
+Specijalističke strukovne studije imaju najmanje 60 ESPB bodova.
+
+Specijalističke akademske studije imaju najmanje 60 ESPB bodova kada su prethodno završene master akademske studije.
+
+Master akademske studije imaju:
+
+1) najmanje 60 ESPB bodova, kada je prethodno ostvaren obim osnovnih akademskih studija od 240 ESPB bodova;
+
+2) najmanje 120 ESPB bodova kada je prethodno ostvaren obim osnovnih akademskih studija od 180 ESPB bodova.
+
+Master strukovne studije imaju najmanje 120 ESPB bodova kada je prethodno ostvaren obim prvog stepena studija od najmanje 180 ESPB bodova.
+
+Studijski programi akademskih studija mogu se organizovati integrisano u okviru osnovnih i master akademskih studija.
+
+Doktorske studije imaju najmanje 180 ESPB bodova, uz prethodno ostvareni obim studija od najmanje 300 ESPB bodova na osnovnim akademskim i master akademskim studijama, odnosno integrisanim akademskim studijama.
+
+Studijski programi akademskih studija iz medicinskih nauka mogu se organizovati integrisano u okviru osnovnih i master akademskih studija, sa ukupnim obimom od najviše 360 ESPB bodova.
+
+Kratki program studija može se izvoditi u obimu od 30 do 60 ESPB bodova.
 ### Završni rad i disertacija
 #### Član 40
 Studijskim programom osnovnih i specijalističkih studija može biti predviđen završni rad. Studijski program master akademskih studija i master strukovnih studija sadrži obavezu izrade završnog rada. Doktorska disertacija je završni deo studijskog programa doktorskih studija, osim doktorata umetnosti koji je umetnički projekat. Izuzetno, doktorat nauka može da stekne lice sa završenim studijama medicine i završenom odgovarajućom specijalizacijom u skladu sa zakonom kojim se uređuje zdravstvena zaštita, na osnovu odbranjene disertacije zasnovane na radovima objavljenim u vrhunskim svetskim časopisima, u skladu sa standardima koje utvrđuje Nacionalni savet. Broj bodova kojima se iskazuje završni rad, odnosno završni deo studijskog programa, ulaze u ukupan broj bodova potrebnih za završetak studija. Način i postupak pripreme i odbrane završnog rada, uređuje se opštim aktom visokoškolske ustanove. Postupak pripreme i uslovi za odbranu disertacije, odnosno umetničkog projekta uređuju se opštim aktom univerziteta. Visokoškolska ustanova na kojoj se brani doktorska disertacija, odnosno umetnički projekat dužna je da doktorsku disertaciju i izveštaj komisije o oceni doktorske disertacije učini dostupnom javnosti, i to u elektronskoj verziji na zvaničnoj internet stranici ustanove i u štampanom obliku u biblioteci ustanove, najmanje 30 dana pre usvajanja izveštaja komisije na nadležnom organu, kao i do odbrane disertacije. Univerzitet je dužan da ustanovi digitalni repozitorijum u kojem se trajno čuvaju elektronske verzije odbranjenih doktorskih disertacija, odnosno umetničkih projekata, zajedno sa izveštajem komisije za ocenu disertacije, podacima o mentoru i sastavu komisije i podacima o zaštiti autorskih prava, kao i da sve navedene podatke učine javno dostupnim. Kopiju sadržaja koji se čuva u repozitorijumu univerzitet je dužan da u roku od tri meseca od odbrane doktorske disertacije, odnosno umetničkog projekta dostavi u centralni repozitorijum koji vodi Ministarstvo.
@@ -684,7 +796,7 @@ Visokoškolska ustanova obavlja delatnost visokog obrazovanja u sedištu.
 
 Visokoškolska ustanova može izvoditi studijski program na daljinu, u skladu sa dozvolom za rad.
 
-U okviru delatnosti visokog obrazovanja visokoškolska ustanova obavlja naučnoistraživačku, umetničku, ekspertskokonsultantsku i izdavačku delatnost, a može obavljati i druge poslove kojima se komercijalizuju rezultati naučnog, umetničkog rada i istraživačkog rada, pod uslovom da se tim poslovima ne ugrožava kvalitet nastave i naučnog, umetničkog, odnosno stručnog rada.
+U okviru delatnosti visokog obrazovanja visokoškolska ustanova obavlja naučnoistraživačku, umetničku, ekspertsko-konsultantsku i izdavačku delatnost, a može obavljati i druge poslove kojima se komercijalizuju rezultati naučnog, umetničkog rada i istraživačkog rada, pod uslovom da se tim poslovima ne ugrožava kvalitet nastave i naučnog, umetničkog, odnosno stručnog rada.
 
 U cilju komercijalizacije naučnih rezultata, umetničkog stvaralaštva i pronalazaka, visokoškolska ustanova može biti osnivač privrednog društva, pri čemu ostvarenu dobit koja joj pripada visokoškolska ustanova može koristiti isključivo za unapređenje delatnosti visokoškolske ustanove.
 
@@ -762,9 +874,17 @@ Univerzitet može ostvarivati deo akreditovanih studijskih programa master akade
 
 #### Član 50
 
-Nepokretnosti i druga sredstva obezbeđeni od strane Republike za osnivanje i rad visokoškolske ustanove u državnoj su svojini. Nepokretnosti iz stava 1. ovog člana ne mogu se otuđivati bez saglasnosti osnivača. Nepokretnosti i druga sredstva iz stava 1. ovog člana mogu se koristiti samo u funkciji obavljanja delatnosti utvrđenih ovim zakonom. Nepokretnosti i druga imovina stečena na osnovu zaveštanja, poklona, donacija i sponzorstava, svojina su visokoškolske ustanove koja je tu imovinu stekla. Visokoškolska ustanova samostalno upravlja zadužbinama, fondacijama, odnosno fondovima koji su joj povereni, u skladu sa zakonom. postoji pisani dokument o zaveštanju) ili za delatnosti za koje je visokoškolska ustanova registrovana (ukoliko nema pisanog
+Nepokretnosti i druga sredstva obezbeđeni od strane Republike za osnivanje i rad visokoškolske ustanove u državnoj su svojini.
 
-Imovinu stečenu zaveštanjem visokoškolska ustanova koristi u svrhe za koju je ostavilac namenio prilikom zaveštanja (ako dokumenta o zaveštanju).
+Nepokretnosti iz stava 1. ovog člana ne mogu se otuđivati bez saglasnosti osnivača.
+
+Nepokretnosti i druga sredstva iz stava 1. ovog člana mogu se koristiti samo u funkciji obavljanja delatnosti utvrđenih ovim zakonom.
+
+Nepokretnosti i druga imovina stečena na osnovu zaveštanja, poklona, donacija i sponzorstava, svojina su visokoškolske ustanove koja je tu imovinu stekla.
+
+Visokoškolska ustanova samostalno upravlja zadužbinama, fondacijama, odnosno fondovima koji su joj povereni, u skladu sa zakonom.
+
+Imovinu stečenu zaveštanjem visokoškolska ustanova koristi u svrhe za koju je ostavilac namenio prilikom zaveštanja (ako postoji pisani dokument o zaveštanju) ili za delatnosti za koje je visokoškolska ustanova registrovana (ukoliko nema pisanog dokumenta o zaveštanju).
 
 ### Osnivanje
 #### Član 51
@@ -934,7 +1054,7 @@ Umetnički rad na univerzitetu podrazumeva stvaralaštvo, interpretaciju i umetn
 
 Naučnoistraživački, odnosno umetnički rad obavlja se i organizuje u skladu sa zakonom i opštim aktom ustanove.
 
-U cilju komercijalizacije rezultata naučnoistraživačkog ili umetničkog rada univerzitet, odnosno druga visokoškolska ustanova može biti osnivač naučnih instituta, inovacionih centara, centara izuzetnih vrednosti, centra za transfer tehnologija, poslovnotehnološkog inkubatora, naučno-tehnološkog parka i drugih organizacija za obavljanje inovacione delatnosti i pružanje infrastrukturne podrške za razvoj inovacija i komercijalizaciju rezultata istraživanja, u skladu sa zakonom.
+U cilju komercijalizacije rezultata naučnoistraživačkog ili umetničkog rada univerzitet, odnosno druga visokoškolska ustanova može biti osnivač naučnih instituta, inovacionih centara, centara izuzetnih vrednosti, centra za transfer tehnologija, poslovno-tehnološkog inkubatora, naučno-tehnološkog parka i drugih organizacija za obavljanje inovacione delatnosti i pružanje infrastrukturne podrške za razvoj inovacija i komercijalizaciju rezultata istraživanja, u skladu sa zakonom.
 
 ## VI ORGANI VISOKOŠKOLSKE USTANOVE
 
@@ -949,9 +1069,13 @@ Visokoškolska ustanova radi ostvarivanja saradnje na razvoju studijskih program
 ### Organ upravljanja
 #### Član 61
 
+Organ upravljanja visokoškolske ustanove je savet.
+
 Broj članova saveta je neparan. Broj članova, postupak predlaganja, izbora i razrešenja članova saveta, način rada saveta i odlučivanja uređuje se statutom ili osnivačkim aktom visokoškolske ustanove.
 
-Organ upravljanja visokoškolske ustanove je savet. Izbor i razrešenje članova saveta vrši se tajnim glasanjem. Mandat članova saveta traje četiri godine.
+Izbor i razrešenje članova saveta vrši se tajnim glasanjem.
+
+Mandat članova saveta traje četiri godine.
 
 Organ upravljanja instituta u sastavu univerziteta definisan je zakonom koji reguliše naučnoistraživačku delatnost.
 
@@ -963,14 +1087,15 @@ Broj članova saveta visokoškolske ustanove čiji je osnivač Republika je najm
 
 ustanove.
 
+### Nadležnost saveta
+
+#### Član 63
+
 Savet:
 
 - donosi statut, na predlog stručnog organa;
 
 - bira i razrešava organ poslovođenja;
-
-### Nadležnost saveta
-#### Član 63
 
 [[END OF PAGE 20]]
 
@@ -998,9 +1123,17 @@ Stručni organ samostalne visokoškolske ustanove donosi kodeks profesionalne et
 
 #### Član 66
 
-Studentski parlament je organ visokoškolske ustanove i visokoškolske jedinice koja ima organ upravljanja i upisane studente. Način izbora i broj članova studentskog parlamenta utvrđuje se opštim aktom visokoškolske ustanove. Pravo da biraju i da budu birani za člana studentskog parlamenta imaju svi studenti visokoškolske ustanove, odnosno visokoškolske jedinice, upisani na studije u školskoj godini u kojoj se bira studentski parlament. Predstavnici studenata sa hendikepom i studenata upisanih po afirmativnoj meri zastupljeni su u članstvu studentskog parlamenta. Mandat članova studentskog parlamenta traje dve godine. Izbor članova studentskog parlamenta održava se svake druge godine u aprilu, tajnim i neposrednim glasanjem. organima visokoškolske ustanove, odnosno visokoškolske jedinice, kao i u organima drugih ustanova u kojima su zastupljeni
+Studentski parlament je organ visokoškolske ustanove i visokoškolske jedinice koja ima organ upravljanja i upisane studente.
 
-U cilju ostvarivanja prava i zaštite interesa studenata, studentski parlament bira i razrešava predstavnike studenata u predstavnici studenata, u skladu sa statutom ustanove.
+Način izbora i broj članova studentskog parlamenta utvrđuje se opštim aktom visokoškolske ustanove.
+
+Pravo da biraju i da budu birani za člana studentskog parlamenta imaju svi studenti visokoškolske ustanove, odnosno visokoškolske jedinice, upisani na studije u školskoj godini u kojoj se bira studentski parlament.
+
+Predstavnici studenata sa hendikepom i studenata upisanih po afirmativnoj meri zastupljeni su u članstvu studentskog parlamenta.
+
+Mandat članova studentskog parlamenta traje dve godine. Izbor članova studentskog parlamenta održava se svake druge godine u aprilu, tajnim i neposrednim glasanjem.
+
+U cilju ostvarivanja prava i zaštite interesa studenata, studentski parlament bira i razrešava predstavnike studenata u organima visokoškolske ustanove, odnosno visokoškolske jedinice, kao i u organima drugih ustanova u kojima su zastupljeni predstavnici studenata, u skladu sa statutom ustanove.
 
 ## VII OSNOVE FINANSIRANJA VISOKOŠKOLSKIH USTANOVA ČIJI JE OSNIVAČ REPUBLIKA
 
@@ -1253,7 +1386,7 @@ Ugovor iz stava 5. ovog člana zaključuje organ poslovođenja visokoškolske us
 
 #### Član 83a
 
-Na zahtev strane visokoškolske ustanove, u skladu sa međunarodnim ugovorom i u okviru međunarodne saradnje visokoškolske ustanove čiji je osnivač Republika, odnosno autonomna pokrajina, ministar, na osnovu javnog konkursa, a na predlog Komisije za izbor lektora srpskog jezika u inostranstvu, bira na period od tri godine lektora srpskog jezika i književnosti. Komisiju iz stava 1. ovog člana imenuje ministar, a čine je predstavnik Ministarstva i predstavnici katedri za srpski jezik i književnost visokoškolskih ustanova čiji je osnivač Republika. Za lektora srpskog jezika i književnosti može biti izabrano lice koje ima završene master akademske studije, odnosno osnovne studije u trajanju od četiri godine prema propisima koji su važili do stupanja na snagu Zakona o visokom obrazovanju ("Službeni glasnik RS", br. 26/05, 100/07 - autentično tumačenje, 97/08, 44/10, 93/12, 89/13, 99/14, 45/15 autentično tumačenje, 68/15, 87/16 i 27/17 - dr. zakon), iz oblasti filologije i koje zna jedan svetski jezik, odnosno jezik zemlje prijema, na nivou B1 Zajedničkog evropskog okvira. Prednost pri izboru ima kandidat sa završenim studijskim programom srpskog jezika i književnosti, kandidat sa većom prosečnom ocenom na osnovnim i master studijama, kandidat sa objavljenim radovima i nagradama, kandidat sa radnim iskustvom. Ukoliko na konkursu nema kandidata sa radnim iskustvom, može biti izabran i kandidat bez radnog iskustva, uz preporuku dva nastavnika odgovarajuće visokoškolske ustanove. Izborni period lektora može se produžiti za još jedan mandat. Izuzetno od stava 1. ovog člana, Ministarstvo može, bez sprovođenja javnog konkursa, predložiti stranoj visokoškolskoj ustanovi kandidata koji već obavlja poslove lektora ili lice koje je prošlo javni konkurs i ušlo u najuži izbor za lektora na stranoj visokoškolskoj ustanovi, uz saglasnost kandidata. Ministarstvo obezbeđuje sredstva za podršku radu lektora srpskog jezika u inostranstvu izabranih u skladu sa ovim zakonom, do iznosa plate nastavnika u odgovarajućem zvanju na stranoj visokoškolskoj ustanovi na kojoj će lektor biti angažovan. Bliže uslove u pogledu izbora, programa rada lektora srpskog jezika na stranim visokoškolskim ustanovama i drugih pitanja od značaja za angažovanje lektora, propisuje ministar.
+Na zahtev strane visokoškolske ustanove, u skladu sa međunarodnim ugovorom i u okviru međunarodne saradnje visokoškolske ustanove čiji je osnivač Republika, odnosno autonomna pokrajina, ministar, na osnovu javnog konkursa, a na predlog Komisije za izbor lektora srpskog jezika u inostranstvu, bira na period od tri godine lektora srpskog jezika i književnosti. Komisiju iz stava 1. ovog člana imenuje ministar, a čine je predstavnik Ministarstva i predstavnici katedri za srpski jezik i književnost visokoškolskih ustanova čiji je osnivač Republika. Za lektora srpskog jezika i književnosti može biti izabrano lice koje ima završene master akademske studije, odnosno osnovne studije u trajanju od četiri godine prema propisima koji su važili do stupanja na snagu Zakona o visokom obrazovanju ("Službeni glasnik RS", br. 76/05, 100/07 - autentično tumačenje, 97/08, 44/10, 93/12, 89/13, 99/14, 45/15 - autentično tumačenje, 68/15, 87/16 i 27/17 - dr. zakon), iz oblasti filologije i koje zna jedan svetski jezik, odnosno jezik zemlje prijema, na nivou B1 Zajedničkog evropskog okvira. Prednost pri izboru ima kandidat sa završenim studijskim programom srpskog jezika i književnosti, kandidat sa većom prosečnom ocenom na osnovnim i master studijama, kandidat sa objavljenim radovima i nagradama, kandidat sa radnim iskustvom. Ukoliko na konkursu nema kandidata sa radnim iskustvom, može biti izabran i kandidat bez radnog iskustva, uz preporuku dva nastavnika odgovarajuće visokoškolske ustanove. Izborni period lektora može se produžiti za još jedan mandat. Izuzetno od stava 1. ovog člana, Ministarstvo može, bez sprovođenja javnog konkursa, predložiti stranoj visokoškolskoj ustanovi kandidata koji već obavlja poslove lektora ili lice koje je prošlo javni konkurs i ušlo u najuži izbor za lektora na stranoj visokoškolskoj ustanovi, uz saglasnost kandidata. Ministarstvo obezbeđuje sredstva za podršku radu lektora srpskog jezika u inostranstvu izabranih u skladu sa ovim zakonom, do iznosa plate nastavnika u odgovarajućem zvanju na stranoj visokoškolskoj ustanovi na kojoj će lektor biti angažovan. Bliže uslove u pogledu izbora, programa rada lektora srpskog jezika na stranim visokoškolskim ustanovama i drugih pitanja od značaja za angažovanje lektora, propisuje ministar.
 
 ### Asistent
 
@@ -1449,7 +1582,7 @@ Student se upisuje u statusu studenta koji se finansira iz budžeta ili studenta
 
 #### Član 98
 
-Samostalna visokoškolska ustanova raspisuje konkurs za upis na studije (u daljem tekstu: konkurs). Konkurs sadrži: broj studenata za određene studijske programe, uslove za upis, merila za utvrđivanje redosleda kandidata, postupak sprovođenja konkursa, način i rokove za podnošenje žalbe na utvrđeni redosled, kao i visinu školarine koju plaćaju studenti čije se studiranje ne finansira iz budžeta. Konkurs se objavljuje najkasnije četiri meseca pre početka školske godine. Izuzetno od stava 3. ovog člana, konkurs za doktorske studije koje se organizuju u okviru međunarodnih projekata u skladu sa Zakonom o potvrđivanju Sporazuma između Vlade Republike Srbije i Evropske unije o učešću Republike Srbije u programu Evropske Unije Horizont 2020 - okvirnom programu za istraživanje i inovacije (2014-2020) ("Službeni glasnik RS Međunarodni ugovori", broj 9/14), raspisuje se u skladu sa rokovima i uslovima propisanim programskim dokumentima
+Samostalna visokoškolska ustanova raspisuje konkurs za upis na studije (u daljem tekstu: konkurs). Konkurs sadrži: broj studenata za određene studijske programe, uslove za upis, merila za utvrđivanje redosleda kandidata, postupak sprovođenja konkursa, način i rokove za podnošenje žalbe na utvrđeni redosled, kao i visinu školarine koju plaćaju studenti čije se studiranje ne finansira iz budžeta. Konkurs se objavljuje najkasnije četiri meseca pre početka školske godine. Izuzetno od stava 3. ovog člana, konkurs za doktorske studije koje se organizuju u okviru međunarodnih projekata u skladu sa Zakonom o potvrđivanju Sporazuma između Vlade Republike Srbije i Evropske unije o učešću Republike Srbije u programu Evropske Unije Horizont 2020 - okvirnom programu za istraživanje i inovacije (2014-2020) ("Službeni glasnik RS - Međunarodni ugovori", broj 9/14), raspisuje se u skladu sa rokovima i uslovima propisanim programskim dokumentima
 
 Horizont 2020, a studenti upisani po tim konkursima ne ulaze u broj studenata čije se studije finansiraju iz budžeta Republike.
 
@@ -1569,9 +1702,9 @@ odgovarajuće oblasti.
 
 [[START OF PAGE 36]]
 
-Lice koje završi specijalističke akademske studije stiče stručni naziv specijalista sa naznakom zvanja drugog stepena akademskih studija iz odgovarajuće oblasti. Lice koje završi specijalističke strukovne studije stiče stručni naziv specijalista sa naznakom zvanja prvog stepena strukovnih studija iz odgovarajuće oblasti. Lice koje završi master akademske studije stiče akademski naziv master sa naznakom zvanja drugog stepena master akademskih studija iz odgovarajuće oblasti. Lice koje završi master strukovne studije stiče stručni naziv strukovni master sa naznakom zvanja drugog stepena master strukovnih studija iz odgovarajuće oblasti. Lice koje završi doktorske, odnosno akademske studije trećeg stepena, stiče naučni naziv doktor nauka, odnosno doktor umetnosti, sa naznakom polja, odnosno oblasti. Listu zvanja iz odgovarajućih oblasti i skraćenice stručnih, akademskih, naučnih i umetničkih naziva utvrđuje Nacionalni savet, na predlog Konferencije univerziteta, odnosno Konferencije akademija i visokih škola. Skraćenica stručnog naziva i akademskog naziva master navodi se iza imena i prezimena, a skraćenica akademskog naziva magistar nauka, odnosno magistar umetnosti i naučnog naziva doktor nauka, odnosno umetničkog naziva doktor umetnosti ispred imena i prezimena. (appl.), a naziv koje je steklo lice iz stava 8. ovog člana je Ph.D., odnosno D.A., odnosno odgovarajući naziv na jeziku na koji
+Lice koje završi specijalističke akademske studije stiče stručni naziv specijalista sa naznakom zvanja drugog stepena akademskih studija iz odgovarajuće oblasti. Lice koje završi specijalističke strukovne studije stiče stručni naziv specijalista sa naznakom zvanja prvog stepena strukovnih studija iz odgovarajuće oblasti. Lice koje završi master akademske studije stiče akademski naziv master sa naznakom zvanja drugog stepena master akademskih studija iz odgovarajuće oblasti. Lice koje završi master strukovne studije stiče stručni naziv strukovni master sa naznakom zvanja drugog stepena master strukovnih studija iz odgovarajuće oblasti. Lice koje završi doktorske, odnosno akademske studije trećeg stepena, stiče naučni naziv doktor nauka, odnosno doktor umetnosti, sa naznakom polja, odnosno oblasti. Listu zvanja iz odgovarajućih oblasti i skraćenice stručnih, akademskih, naučnih i umetničkih naziva utvrđuje Nacionalni savet, na predlog Konferencije univerziteta, odnosno Konferencije akademija i visokih škola. Skraćenica stručnog naziva i akademskog naziva master navodi se iza imena i prezimena, a skraćenica akademskog naziva magistar nauka, odnosno magistar umetnosti i naučnog naziva doktor nauka, odnosno umetničkog naziva doktor umetnosti ispred imena i prezimena.
 
-U međunarodnom prometu i u diplomi na engleskom jeziku naziv koji je steklo lice iz stava 1. ovog člana je bachelor, naziv koji je steklo lice iz stava 2. ovog člana je bachelor with honours, naziv koji je steklo lice iz stava 3. ovog člana je bachelor (appl.), naziv koje je steklo lice iz stava 6. ovog člana je master, naziv koje je steklo lice iz stava 7. ovog člana je master se diploma prevodi.
+U međunarodnom prometu i u diplomi na engleskom jeziku naziv koji je steklo lice iz stava 1. ovog člana je bachelor, naziv koji je steklo lice iz stava 2. ovog člana je bachelor with honours, naziv koji je steklo lice iz stava 3. ovog člana je bachelor (appl.), naziv koje je steklo lice iz stava 6. ovog člana je master, naziv koje je steklo lice iz stava 7. ovog člana je master (appl.), a naziv koje je steklo lice iz stava 8. ovog člana je Ph.D., odnosno D.A., odnosno odgovarajući naziv na jeziku na koji se diploma prevodi.
 
 ## XII OBRAZOVANJE TOKOM ČITAVOG ŽIVOTA
 
@@ -1885,7 +2018,7 @@ Započeti izbori u zvanje nastavnika i saradnika prema propisima koji su važili
 
 #### Član 146
 
-Nastavniku iz člana 78. stav 2. Zakona o visokom obrazovanju ("Službeni glasnik RS", br. 76/05, 100/07 - autentično tumačenje, 97/08, 44/10, 93/12, 89/13, 99/14, 45/15 - autentično tumačenje, 68/15 i 87/16) radni odnos prestaje 30. septembra 2018. godine. Izuzetno, nastavniku iz člana 78. stav 2. Zakona o visokom obrazovanju ("Službeni glasnik RS", br. 76/05, 100/07 autentično tumačenje, 97/08, 44/10, 93/12, 89/13, 99/14, 45/15 - autentično tumačenje, 68/15 i 87/16) može se produžiti radni odnos ako ispunjava uslove iz člana 93. ovog zakona, s tim što se rok na koji se može produžiti radni odnos ugovorom sa visokoškolskom ustanovom na određeno vreme do dve godine računa od 30. septembra 2018. godine.
+Nastavniku iz člana 78. stav 2. Zakona o visokom obrazovanju ("Službeni glasnik RS", br. 76/05, 100/07 - autentično tumačenje, 97/08, 44/10, 93/12, 89/13, 99/14, 45/15 - autentično tumačenje, 68/15 i 87/16) radni odnos prestaje 30. septembra 2018. godine. Izuzetno, nastavniku iz člana 78. stav 2. Zakona o visokom obrazovanju ("Službeni glasnik RS", br. 76/05, 100/07 - autentično tumačenje, 97/08, 44/10, 93/12, 89/13, 99/14, 45/15 - autentično tumačenje, 68/15 i 87/16) može se produžiti radni odnos ako ispunjava uslove iz člana 93. ovog zakona, s tim što se rok na koji se može produžiti radni odnos ugovorom sa visokoškolskom ustanovom na određeno vreme do dve godine računa od 30. septembra 2018. godine.
 
 ### Upis na osnovne studije
 
@@ -1897,7 +2030,7 @@ Do početka primene propisa koji uređuju opštu, stručnu i umetničku maturu, 
 
 #### Član 148
 
-Studenti upisani na studije do stupanja na snagu ovog zakona u skladu s odredbama čl. 82-88. Zakona o visokom obrazovanju ("Službeni glasnik RS", br. 76/05, 100/07 - autentično tumačenje, 97/08, 44/10, 93/12, 89/13, 99/14, 45/15 autentično tumačenje, 68/15 i 87/16) mogu završiti studije po započetom studijskom programu, uslovima i pravilima studija, najkasnije do isteka roka koji se određuje u dvostrukom broju školskih godina potrebnih za realizaciju studijskog programa, računato od dana početka studiranja tog studijskog programa. Studenti upisani na osnovne studije i na studije na višim školama do 10. septembra 2005. godine mogu završiti te studije po započetom nastavnom planu i programu, uslovima i pravilima studija, najkasnije do kraja školske 2020/2021. godine, a studenti upisani na integrisane studije iz polja medicinskih nauka, do kraja školske 2021/2022. godine. Studenti upisani na magistarske studije do 10. septembra 2005. godine mogu završiti te studije po započetom planu i programu, uslovima i pravilima studija, najkasnije do kraja školske 2020/2021. godine. Kandidati koji su prijavili doktorsku disertaciju do 10. septembra 2005. godine, odnosno studenti koji su upisali doktorske studije po propisima koji su važili do tog datuma, mogu da steknu naučni naziv doktora nauka, odnosno da završe doktorske studije po započetom planu i programu, uslovima i pravilima studija, najkasnije do kraja školske 2020/2021. godine. Studenti iz stava 1. ovog člana imaju pravo da nastave započete studije u skladu sa odredbama ovog zakona, na način i po postupku utvrđenim opštim aktom visokoškolske ustanove.
+Studenti upisani na studije do stupanja na snagu ovog zakona u skladu s odredbama čl. 82-88. Zakona o visokom obrazovanju ("Službeni glasnik RS", br. 76/05, 100/07 - autentično tumačenje, 97/08, 44/10, 93/12, 89/13, 99/14, 45/15 - autentično tumačenje, 68/15 i 87/16) mogu završiti studije po započetom studijskom programu, uslovima i pravilima studija, najkasnije do isteka roka koji se određuje u dvostrukom broju školskih godina potrebnih za realizaciju studijskog programa, računato od dana početka studiranja tog studijskog programa. Studenti upisani na osnovne studije i na studije na višim školama do 10. septembra 2005. godine mogu završiti te studije po započetom nastavnom planu i programu, uslovima i pravilima studija, najkasnije do kraja školske 2020/2021. godine, a studenti upisani na integrisane studije iz polja medicinskih nauka, do kraja školske 2021/2022. godine. Studenti upisani na magistarske studije do 10. septembra 2005. godine mogu završiti te studije po započetom planu i programu, uslovima i pravilima studija, najkasnije do kraja školske 2020/2021. godine. Kandidati koji su prijavili doktorsku disertaciju do 10. septembra 2005. godine, odnosno studenti koji su upisali doktorske studije po propisima koji su važili do tog datuma, mogu da steknu naučni naziv doktora nauka, odnosno da završe doktorske studije po započetom planu i programu, uslovima i pravilima studija, najkasnije do kraja školske 2020/2021. godine. Studenti iz stava 1. ovog člana imaju pravo da nastave započete studije u skladu sa odredbama ovog zakona, na način i po postupku utvrđenim opštim aktom visokoškolske ustanove.
 
 ### Stečeni stručni, akademski, odnosno naučni nazivi
 
