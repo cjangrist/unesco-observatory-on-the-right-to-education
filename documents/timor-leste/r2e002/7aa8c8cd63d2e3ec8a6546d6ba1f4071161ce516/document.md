@@ -6,23 +6,101 @@
 
 [[START OF PAGE 2]]
 
-Preâmbulo
-
-�
-
 # ÍNDICE
 
-�
+Preâmbulo
 
 ## PARTE I PRINCÍPIOS FUNDAMENTAIS
 
-1
+Artigos
+1 A República
+2 Soberania e constitucionalidade
+3 Cidadania
+4 Território
+5 Descentralização
+6 Objectivos do Estado
+7 Sufrágio universal e multipartidarismo
+8 Relações internacionais
+9 Recepção do direito internacional
+10 Solidariedade
+11 Valorização da resistência
+12 O Estado e as confissões religiosas
+13 Línguas oficiais e línguas nacionais
+14 Símbolos nacionais
+15 Bandeira Nacional
 
+## PARTE II DIREITOS, DEVERES, LIBERDADES E GARANTIAS FUNDAMENTAIS
+
+### TÍTULO I PRINCÍPIOS GERAIS
+
+16 Universalidade e igualdade
+17 Igualdade entre mulheres e homens
+18 Protecção da criança
+19 Juventude
+20 Terceira idade
+21 Cidadão portador de deficiência
+22 Timorenses no estrangeiro
+23 Interpretação dos direitos fundamentais
+24 Leis restritivas
+25 Estado de excepção
+26 Acesso aos tribunais
+27 Provedor de Direitos Humanos e Justiça
+
+1
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
 28 Direito de resistência e de legítima defesa
+
+### TÍTULO II DIREITOS, LIBERDADES E GARANTIAS PESSOAIS
+
+29 Direito à vida
+30 Direito à liberdade, segurança e integridade pessoal
+31 Aplicação da lei criminal
+32 Limites das penas e das medidas de segurança
+33 Habeas corpus
+34 Garantias do processo criminal
+35 Extradição e expulsão
+36 Direito à honra e à privacidade
+37 Inviolabilidade do domicílio e da correspondência
+38 Protecção de dados pessoais
+39 Família, casamento e maternidade
+40 Liberdade de expressão e informação
+41 Liberdade de imprensa e dos meios de comunicação social
+42 Liberdade de reunião e de manifestação
+43 Liberdade de associação
+44 Liberdade de circulação
+45 Liberdade de consciência, de religião e de culto
+46 Direito de participação política
+47 Direito de sufrágio
+48 Direito de petição
+49 Defesa da soberania
+
+### TÍTULO III DIREITOS E DEVERES ECONÓMICOS, SOCIAIS E CULTURAIS
+
+50 Direito ao trabalho
+51 Direito à greve e proibição do lock-out
+52 Liberdade sindical
+53 Direitos dos consumidores
+54 Direito à propriedade privada
+55 Obrigações do contribuinte
+56 Segurança e assistência social
+57 Saúde
+58 Habitação
+59 Educação e cultura
+60 Propriedade intelectual
+61 Meio ambiente
+
+## PARTE III ORGANIZAÇÃO DO PODER POLÍTICO
+
+### TÍTULO I PRINCÍPIOS GERAIS
+
+62 Titularidade e exercício do poder político
+63 Participação política dos cidadãos
+64 Princípio da renovação
+65 Eleições
+66 Referendo
 
 2
 
@@ -30,7 +108,52 @@ Preâmbulo
 
 [[START OF PAGE 4]]
 
-#### COMPETÊNCIA
+67 Órgãos de soberania
+68 Incompatibilidades
+69 Princípio da separação dos poderes
+70 Partidos políticos e direito de oposição
+71 Organização administrativa
+72 Poder local
+73 Publicidade dos actos
+
+### TÍTULO II PRESIDENTE DA REPÚBLICA
+
+#### CAPÍTULO I ESTATUTO, ELEIÇÃO E NOMEAÇÃO
+
+74 Definição
+75 Elegibilidade
+76 Eleição
+77 Posse e juramento
+78 Incompatibilidades
+79 Responsabilidade criminal e obrigações constitucionais
+80 Ausência
+81 Renúncia ao mandato
+82 Morte, renúncia ou incapacidade permanente
+83 Casos excepcionais
+84 Substituição e interinidade
+
+#### CAPÍTULO II COMPETÊNCIA
+
+85 Competência própria
+86 Competência quanto a outros órgãos
+87 Competência nas relações internacionais
+88 Promulgação e veto
+89 Actos do Presidente da República interino
+
+#### CAPÍTULO III CONSELHO DE ESTADO
+
+90 Conselho de Estado
+91 Competência, organização e funcionamento do Conselho de Estado
+
+### TÍTULO III PARLAMENTO NACIONAL
+
+#### CAPÍTULO I ESTATUTO E ELEIÇÃO
+
+92 Definição
+93 Eleição e composição
+94 Imunidades
+
+#### CAPÍTULO II COMPETÊNCIA
 
 3
 
@@ -38,13 +161,103 @@ Preâmbulo
 
 [[START OF PAGE 5]]
 
+95 Competência do Parlamento Nacional
+96 Autorização legislativa
+97 Iniciativa da lei
+98 Apreciação parlamentar de actos legislativos
+
+#### CAPÍTULO III ORGANIZAÇÃO E FUNCIONAMENTO
+
+99 Legislatura
+100 Dissolução
+101 Participação dos membros do Governo
+
+#### CAPÍTULO IV COMISSÃO PERMANENTE
+
+102 Comissão Permanente
+
+### TÍTULO IV GOVERNO
+
+#### CAPÍTULO I DEFINIÇÃO E ESTRUTURA
+
+103 Definição
+104 Composição
+105 Conselho de Ministros
+
+#### CAPÍTULO II FORMAÇÃO E RESPONSABILIDADE
+
+106 Nomeação
+107 Responsabilidade do Governo
+108 Programa do Governo
+109 Apreciação do programa do Governo
+110 Solicitação de voto de confiança
+111 Moções de censura
+112 Demissão do Governo
+113 Responsabilidade criminal dos membros do Governo
+114 Imunidades dos membros do Governo
+
+#### CAPÍTULO III COMPETÊNCIA
+
+115 Competência do Governo
+116 Competência do Conselho de Ministros
+117 Competência dos membros do Governo
+
+### TÍTULO V TRIBUNAIS
+
+#### CAPÍTULO I TRIBUNAIS E MAGISTRATURA JUDICIAL
+
+118 Função jurisdicional
+
 4
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
-- 119 Independência
+119 Independência
+120 Apreciação da inconstitucionalidade
+121 Juízes
+122 Exclusividade
+123 Categorias de tribunais
+124 Supremo Tribunal de Justiça
+125 Funcionamento e composição
+126 Competência constitucional e eleitoral
+127 Elegibilidade
+128 Conselho Superior da Magistratura Judicial
+129 Tribunal Superior Administrativo, Fiscal e de Contas
+130 Tribunais militares
+131 Audiências dos tribunais
+
+#### CAPÍTULO II MINISTÉRIO PÚBLICO
+
+132 Funções e estatuto
+133 Procuradoria-Geral da República
+134 Conselho Superior do Ministério Público
+
+#### CAPÍTULO III ADVOCACIA
+
+135 Advogados
+136 Garantias no exercício da advocacia
+
+### TÍTULO VI ADMINISTRAÇÃO PÚBLICA
+
+137 Princípios gerais da Administração Pública
+
+## PARTE IV ORGANIZAÇÃO ECONÓMICA E FINANCEIRA
+
+### TÍTULO I PRINCÍPIOS GERAIS
+
+138 Organização económica
+139 Recursos naturais
+140 Investimentos
+141 Terras
+
+### TÍTULO II SISTEMA FINANCEIRO E FISCAL
+
+142 Sistema financeiro
+143 Banco central
+144 Sistema fiscal
+145 Orçamento Geral do Estado
 
 ## PARTE V DEFESA E SEGURANÇA NACIONAIS
 
@@ -53,6 +266,43 @@ Preâmbulo
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+
+146 Forças Armadas
+147 Polícia e forças de segurança
+148 Conselho Superior de Defesa e Segurança
+
+## PARTE VI GARANTIA E REVISÃO DA CONSTITUIÇÃO
+
+### TÍTULO I GARANTIA DA CONSTITUIÇÃO
+
+149 Fiscalização preventiva da constitucionalidade
+150 Fiscalização abstracta da constitucionalidade
+151 Inconstitucionalidade por omissão
+152 Fiscalização concreta da constitucionalidade
+153 Acórdãos do Supremo Tribunal de Justiça
+
+### TÍTULO II REVISÃO DA CONSTITUIÇÃO
+
+154 Iniciativa e tempo de revisão
+155 Aprovação e promulgação
+156 Limites materiais da revisão
+157 Limites circunstanciais da revisão
+
+## PARTE VII DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+158 Tratados, acordos e alianças
+159 Línguas de trabalho
+160 Crimes graves
+161 Apropriação ilegal de bens
+162 Reconciliação
+163 Organização judicial transitória
+164 Competência transitória do Supremo Tribunal de Justiça
+165 Direito anterior
+166 Hino Nacional
+167 Transformação da Assembleia Constituinte
+168 II Governo Transitório
+169 Eleição presidencial de 2002
+170 Entrada em vigor da Constituição
 
 6
 
@@ -64,7 +314,7 @@ Preâmbulo
 
 A  independência  de  Timor-Leste,  proclamada  pela  Frente  Revolucionária  do Timor-Leste Independente (FRETILIN) em 28 de Novembro de 1975, vê-se internacionalmente  reconhecida  a  20  de  Maio  de  2002,  uma  vez  concretizada  a libertação do povo timorense da colonização e da ocupação ilegal da Pátria Maubere por potências estrangeiras.
 
-A elaboração e adopção da Constituição da República Democrática de TimorLeste culmina a secular resistência do povo timorense, intensificada com a invasão de 7 de Dezembro de 1975.
+A elaboração e adopção da Constituição da República Democrática de Timor-Leste culmina a secular resistência do povo timorense, intensificada com a invasão de 7 de Dezembro de 1975.
 
 A luta travada contra o inimigo, inicialmente sob a liderança da FRETILIN, deu lugar a formas mais abrangentes de participação política, com a criação sucessiva do Conselho Nacional de Resistência Maubere (CNRM), em 1987, e do Conselho Nacional de Resistência Timorense (CNRT), em 1998.
 
@@ -104,11 +354,9 @@ A Assembleia Constituinte, reunida na sessão plenária de 22 de Março de 2002,
 
 [[START OF PAGE 10]]
 
-# PARTE I � PRINCÍPIOS FUNDAMENTAIS
+# PARTE I PRINCÍPIOS FUNDAMENTAIS
 
 #### Artigo 1.º
-
-�
 
 (A República)
 
@@ -136,11 +384,11 @@ A Assembleia Constituinte, reunida na sessão plenária de 22 de Março de 2002,
 
 - São cidadãos  originários  de Timor-Leste,  desde  que  tenham  nascido  em  território nacional:
 
-- Os filhos de pai ou mãe nascidos em Timor-Leste;
+- a) Os filhos de pai ou mãe nascidos em Timor-Leste;
 
-- Os filhos de pais incógnitos, apátridas ou de nacionalidade desconhecida;
+- b) Os filhos de pais incógnitos, apátridas ou de nacionalidade desconhecida;
 
-- Os  filhos  de  pai  ou  mãe  estrangeiros  que,  sendo  maiores  de  dezassete  anos, declarem, por si, querer ser timorenses.
+- c) Os filhos de pai ou mãe estrangeiros que, sendo maiores de dezassete anos, declarem, por si, querer ser timorenses.
 
 - São cidadãos originários de Timor-Leste, ainda que nascidos em território estrangeiro, os filhos de pai ou mãe timorenses.
 
@@ -150,13 +398,11 @@ A Assembleia Constituinte, reunida na sessão plenária de 22 de Março de 2002,
 
 (Território)
 
-- O  território  da  República  Democrática  de  Timor-Leste  compreende  a  superfície terrestre,  a  zona  marítima e o espaço aéreo delimitados pelas fronteiras nacionais, que  historicamente  integram  a  parte  oriental  da  ilha  de  Timor,  o  enclave  de  OeCusse Ambeno, a ilha de Ataúro e o ilhéu de Jaco.
+- O território da República Democrática de Timor-Leste compreende a superfície terrestre, a zona marítima e o espaço aéreo delimitados pelas fronteiras nacionais, que historicamente integram a parte oriental da ilha de Timor, o enclave de Oe-Cusse Ambeno, a ilha de Ataúro e o ilhéu de Jaco.
 
 - A lei  fixa  e  define  a  extensão  e  o  limite  das  águas  territoriais,  a  zona  económica exclusiva e os direitos de Timor-Leste na zona contígua e plataforma continental.
 
-- O  Estado  não  aliena  qualquer  parte  do  território  timorense  ou  dos  direitos  de soberania que sobre ele exerce, sem prejuízo da rectificação de fronteiras.
-
-�
+- O Estado não aliena qualquer parte do território timorense ou dos direitos de soberania que sobre ele exerce, sem prejuízo da rectificação de fronteiras.
 
 9
 
@@ -180,25 +426,25 @@ A Assembleia Constituinte, reunida na sessão plenária de 22 de Março de 2002,
 
 O Estado tem como objectivos fundamentais:
 
-- Defender e garantir a soberania do país;
+- a) Defender e garantir a soberania do país;
 
-- Garantir e promover os direitos e liberdades fundamentais dos cidadãos e o respeito pelos princípios do Estado de direito democrático;
+- b) Garantir e promover os direitos e liberdades fundamentais dos cidadãos e o respeito pelos princípios do Estado de direito democrático;
 
-- Defender  e  garantir  a  democracia  política  e  a  participação  popular  na resolução dos problemas nacionais;
+- c) Defender e garantir a democracia política e a participação popular na resolução dos problemas nacionais;
 
-- Garantir  o  desenvolvimento  da  economia  e  o  progresso  da  ciência  e  da técnica;
+- d) Garantir o desenvolvimento da economia e o progresso da ciência e da técnica;
 
-- Promover a edificação de uma sociedade com base na justiça social, criando o bem-estar material e espiritual dos cidadãos;
+- e) Promover a edificação de uma sociedade com base na justiça social, criando o bem-estar material e espiritual dos cidadãos;
 
-- Proteger o meio ambiente e preservar os recursos naturais;
+- f) Proteger o meio ambiente e preservar os recursos naturais;
 
-- Afirmar  e  valorizar a personalidade  e o património  cultural  do  povo timorense;
+- g) Afirmar e valorizar a personalidade e o património cultural do povo timorense;
 
-- Promover o estabelecimento e o desenvolvimento de relações de amizade e cooperação entre todos os povos e Estados;
+- h) Promover o estabelecimento e o desenvolvimento de relações de amizade e cooperação entre todos os povos e Estados;
 
-- Promover o desenvolvimento harmonioso e integrado dos sectores e regiões e a justa repartição do produto nacional;
+- i) Promover o desenvolvimento harmonioso e integrado dos sectores e regiões e a justa repartição do produto nacional;
 
-- Criar,  promover  e  garantir  a  efectiva  igualdade  de  oportunidades  entre  a mulher e o homem.
+- j) Criar, promover e garantir a efectiva igualdade de oportunidades entre a mulher e o homem.
 
 #### Artigo 7.º
 
@@ -222,7 +468,7 @@ O Estado tem como objectivos fundamentais:
 
 [[START OF PAGE 12]]
 
-- sistema  de  segurança  colectiva  e  a  criação  de  uma  nova  ordem  económica internacional, capaz de assegurar a paz e a justiça nas relações entre os povos.
+sistema de segurança colectiva e a criação de uma nova ordem económica internacional, capaz de assegurar a paz e a justiça nas relações entre os povos.
 
 - A República Democrática de Timor-Leste mantém laços privilegiados com os países de língua oficial portuguesa.
 
@@ -270,7 +516,7 @@ O Estado tem como objectivos fundamentais:
 
 (Línguas oficiais e línguas nacionais)
 
-- O tétum e o português são as línguas oficiais da República Democrática de TimorLeste.
+- O tétum e o português são as línguas oficiais da República Democrática de Timor-Leste.
 
 11
 
@@ -290,17 +536,18 @@ O Estado tem como objectivos fundamentais:
 
 #### Artigo 15.º (Bandeira Nacional)
 
-- A Bandeira Nacional é rectangular e formada por dois triângulos isósceles de bases sobrepostas, sendo um triângulo preto com altura igual a um terço do comprimento que  se  sobrepõe  ao  amarelo,  cuja  altura  é  igual  a  metade  do  comprimento  da bandeira. No centro do triângulo de cor preta fica colocada uma estrela branca de cinco  pontas,  que  simboliza  a  luz  que  guia.  A  estrela  branca  apresenta  uma  das pontas virada para a extremidade superior esquerda da bandeira. A parte restante da bandeira tem a cor vermelha.
+- A Bandeira Nacional é rectangular e formada por dois triângulos isósceles de bases sobrepostas, sendo um triângulo preto com altura igual a um terço do comprimento que se sobrepõe ao amarelo, cuja altura é igual a metade do comprimento da bandeira. No centro do triângulo de cor preta fica colocada uma estrela branca de cinco pontas, que simboliza a luz que guia. A estrela branca apresenta uma das pontas virada para a extremidade superior esquerda da bandeira. A parte restante da bandeira tem a cor vermelha.
 
 - As cores representam:
 
-Amarelo - os rastos do colonialismo; Preto - o obscurantismo que é preciso vencer; Vermelho - a luta pela libertação nacional; Branco -a paz.
+Amarelo – os rastos do colonialismo;
+Preto – o obscurantismo que é preciso vencer;
+Vermelho – a luta pela libertação nacional;
+Branco – a paz.
 
-# PARTE II � DIREITOS, DEVERES, LIBERDADES E GARANTIAS FUNDAMENTAIS
+# PARTE II DIREITOS, DEVERES, LIBERDADES E GARANTIAS FUNDAMENTAIS
 
-## TÍTULO I � PRINCÍPIOS GERAIS
-
-�
+## TÍTULO I PRINCÍPIOS GERAIS
 
 #### Artigo 16.º (Universalidade e igualdade)
 
@@ -320,9 +567,7 @@ A mulher e o homem têm os mesmos direitos e obrigações em todos os domínios 
 
 - A criança tem direito a protecção especial por parte da família, da comunidade e do Estado, particularmente contra todas as formas de abandono,  discriminação, violência, opressão, abuso sexual e exploração.
 
-- A criança goza de todos os direitos que lhe são universalmente reconhecidos, bem como  de  todos  aqueles  que  estejam  consagrados  em  convenções  internacionais regularmente ratificadas ou aprovadas pelo Estado.
-
-�
+- A criança goza de todos os direitos que lhe são universalmente reconhecidos, bem como de todos aqueles que estejam consagrados em convenções internacionais regularmente ratificadas ou aprovadas pelo Estado.
 
 12
 
@@ -416,9 +661,7 @@ Os  direitos  fundamentais  consagrados  na  Constituição  não  excluem  quai
 
 - A todos é garantido o direito de legítima defesa, nos termos da lei.
 
-## TÍTULO II � DIREITOS, LIBERDADES E GARANTIAS PESSOAIS
-
-�
+## TÍTULO II DIREITOS, LIBERDADES E GARANTIAS PESSOAIS
 
 14
 
@@ -472,9 +715,9 @@ Os  direitos  fundamentais  consagrados  na  Constituição  não  excluem  quai
 
 #### Artigo 33.º
 
-( Habeas corpus )
+(Habeas corpus)
 
-- Toda a pessoa ilegalmente privada da liberdade tem direito a recorrer à providência do habeas corpus .
+- Toda a pessoa ilegalmente privada da liberdade tem direito a recorrer à providência do habeas corpus.
 
 15
 
@@ -494,7 +737,7 @@ Os  direitos  fundamentais  consagrados  na  Constituição  não  excluem  quai
 
 - É  assegurado  a  qualquer  indivíduo  o  direito  inviolável  de  audiência  e  defesa  em processo criminal.
 
-- São nulas  e  de  nenhum  efeito  todas  as  provas  obtidas  mediante  tortura,  coacção, ofensa à i n t e g r i d a d e f í s i c a ou moral e i n t r o m i s s ã o a b u s i v a na  vida  privada,  no  domicílio,  na  correspondência  ou  em  outras  formas  de comunicação.
+- São nulas e de nenhum efeito todas as provas obtidas mediante tortura, coacção, ofensa à integridade física ou moral e intromissão abusiva na vida privada, no domicílio, na correspondência ou em outras formas de comunicação.
 
 #### Artigo 35.º
 
@@ -632,7 +875,7 @@ Todo  o  indivíduo  tem  direito  à  honra,  ao  bom  nome  e  à  reputação
 
 #### Artigo 48.º
 
-(Direito de petição )
+(Direito de petição)
 
 Todo o cidadão tem o direito de apresentar petições, queixas e reclamações, individual ou colectivamente, perante os órgãos de soberania ou quaisquer autoridades, para defesa dos seus direitos, da Constituição, das leis ou do interesse geral.
 
@@ -700,8 +943,6 @@ Todo o cidadão tem o direito de apresentar petições, queixas e reclamações,
 
 - A propriedade privada não deve ser usada em prejuízo da sua função social.
 
-�
-
 19
 
 [[END OF PAGE 20]]
@@ -762,7 +1003,7 @@ Todos têm direito, para si e para a sua família, a uma habitação de dimensã
 
 (Propriedade intelectual)
 
-O  Estado  garante  e  protege  a  criação,  produção  e  comercialização  da  obra  literária, cientifica e artística, incluindo a protecção legal dos direitos de autor.
+O Estado garante e protege a criação, produção e comercialização da obra literária, científica e artística, incluindo a protecção legal dos direitos de autor.
 
 20
 
@@ -780,11 +1021,9 @@ O  Estado  garante  e  protege  a  criação,  produção  e  comercialização 
 
 - O  Estado  deve  promover  acções  de  defesa  do  meio  ambiente  e  salvaguardar  o desenvolvimento sustentável da economia.
 
-# PARTE III � ORGANIZAÇÃO DO PODER POLÍTICO
+# PARTE III ORGANIZAÇÃO DO PODER POLÍTICO
 
-## TÍTULO I � PRINCÍPIOS GERAIS
-
-�
+## TÍTULO I PRINCÍPIOS GERAIS
 
 #### Artigo 62.º
 
@@ -814,13 +1053,13 @@ Ninguém pode exercer a título vitalício ou por períodos indeterminados qualq
 
 - As campanhas eleitorais regem-se pelos seguintes princípios:
 
-- Liberdade de propaganda eleitoral;
+- a) Liberdade de propaganda eleitoral;
 
-- Igualdade de oportunidades e de tratamento das diversas candidaturas;
+- b) Igualdade de oportunidades e de tratamento das diversas candidaturas;
 
-- Imparcialidade das entidades públicas perante as candidaturas;
+- c) Imparcialidade das entidades públicas perante as candidaturas;
 
-- Transparência e fiscalização das contas eleitorais.
+- d) Transparência e fiscalização das contas eleitorais.
 
 - A conversão dos votos em  mandatos obedece ao sistema de representação proporcional.
 
@@ -829,8 +1068,6 @@ Ninguém pode exercer a título vitalício ou por períodos indeterminados qualq
 - A supervisão do recenseamento e dos actos eleitorais cabe a um órgão independente, cujas competências, composição, organização e funcionamento são fixados por lei.
 
 #### Artigo 66.º (Referendo)
-
-�
 
 21
 
@@ -908,9 +1145,7 @@ Os órgãos de soberania, nas suas relações recíprocas e no exercício das su
 
 - A lei determina as formas de publicidade dos demais actos e as consequências da sua falta.
 
-## TÍTULO II � PRESIDENTE DA REPÚBLICA
-
-�
+## TÍTULO II PRESIDENTE DA REPÚBLICA
 
 ### CAPÍTULO I ESTATUTO, ELEIÇÃO E NOMEAÇÃO
 
@@ -924,13 +1159,13 @@ Os órgãos de soberania, nas suas relações recíprocas e no exercício das su
 
 - Podem ser candidatos a Presidente da República os cidadãos timorenses que cumulativamente:
 
-- Tenham cidadania originária;
+- a) Tenham cidadania originária;
 
-- Possuam idade mínima de 35 anos;
+- b) Possuam idade mínima de 35 anos;
 
-- Estejam no pleno uso das suas capacidades;
+- c) Estejam no pleno uso das suas capacidades;
 
-- Tenham sido propostos por um mínimo de cinco mil cidadãos eleitores.
+- d) Tenham sido propostos por um mínimo de cinco mil cidadãos eleitores.
 
 - O Presidente da República tem um mandato com a duração de cinco anos e cessa as suas funções com a posse do novo Presidente eleito.
 
@@ -964,7 +1199,7 @@ Os órgãos de soberania, nas suas relações recíprocas e no exercício das su
 
 - No acto de investidura o Presidente da República presta o seguinte juramento:
 
-'Juro,  por  Deus,  pelo  Povo  e  por  minha  honra,  cumprir  com lealdade  as  funções  em  que  sou  investido,  cumprir  e  fazer cumprir  a  Constituição  e  as  leis  e  dedicar  todas  as  minhas energias e capacidades à defesa e consolidação da independência e da unidade nacionais'.
+“Juro, por Deus, pelo Povo e por minha honra, cumprir com lealdade as funções em que sou investido, cumprir e fazer cumprir a Constituição e as leis e dedicar todas as minhas energias e capacidades à defesa e consolidação da independência e da unidade nacionais”.
 
 #### Artigo 78.º
 
@@ -1106,7 +1341,7 @@ Compete ao Presidente da República relativamente aos outros órgãos:
 
 - Demitir o Governo e exonerar o Primeiro-Ministro, quando o seu programa tenha sido rejeitado pela segunda vez consecutiva pelo Parlamento Nacional;
 
-- Nomear,  empossar  e  exonerar  os  membros  do  Governo,  sob  proposta  do Primeiro-Ministro, nos termos do n. o 2 do artigo 106.º;
+- Nomear,  empossar  e  exonerar  os  membros  do  Governo,  sob  proposta  do Primeiro-Ministro, nos termos do n.o 2 do artigo 106.º;
 
 - Nomear dois membros para o Conselho Superior de Defesa e Segurança;
 
@@ -1116,7 +1351,7 @@ Compete ao Presidente da República relativamente aos outros órgãos:
 
 - Nomear  e  exonerar  os  Adjuntos  do  Procurador-Geral  da  República  nos termos do n.º 6 do artigo 133.º;
 
-- Nomear  e  exonerar,  sob  proposta  do  Governo,  o  Chefe  do  Estado-MaiorGeneral  das  Forças  Armadas,  o  Vice-Chefe  do  Estado-Maior-General  das Forças Armadas e os Chefes de Estado-Maior das Forças Armadas, ouvido, nos últimos casos, o Chefe do Estado-Maior-General das Forças Armadas;
+- Nomear  e  exonerar,  sob  proposta  do  Governo,  o  Chefe  do  Estado-Maior-General  das  Forças  Armadas,  o  Vice-Chefe  do  Estado-Maior-General  das Forças Armadas e os Chefes de Estado-Maior das Forças Armadas, ouvido, nos últimos casos, o Chefe do Estado-Maior-General das Forças Armadas;
 
 - Nomear cinco membros do Conselho de Estado;
 
@@ -1202,11 +1437,11 @@ O Presidente da República interino não pode praticar os actos previstos nas al
 
 #### Artigo 92.º (Definição)
 
-O Parlamento Nacional é  o  órgão  de  soberania  da  República  Democrática  de TimorLeste,  representativo  de  todos  os  cidadãos  timorenses  com  poderes  legislativos,  de fiscalização e de decisão política.
+O Parlamento Nacional é  o  órgão  de  soberania  da  República  Democrática  de Timor-Leste,  representativo  de  todos  os  cidadãos  timorenses  com  poderes  legislativos,  de fiscalização e de decisão política.
 
 #### Artigo 93.º (Eleição e composição)
 
-�
+
 
 28
 
@@ -1480,7 +1715,7 @@ O Governo é o órgão de soberania responsável pela condução e execução da
 
 (Conselho de Ministros)
 
-- O Conselho de Ministros é constituído pelo Primeiro-Ministro, pelos Vice-PrimeiroMinistros, se os houver, e pelos Ministros.
+- O Conselho de Ministros é constituído pelo Primeiro-Ministro, pelos Vice-Primeiro-Ministros, se os houver, e pelos Ministros.
 
 - O Conselho de Ministros é convocado e presidido pelo Primeiro-Ministro.
 
@@ -1524,7 +1759,7 @@ O  Governo  responde  perante  o  Presidente  da  República  e  o  Parlamento  
 
 [[START OF PAGE 35]]
 
-- Compete ao Governo:
+
 
 #### Artigo 110.º
 
@@ -1579,6 +1814,8 @@ Nenhum membro do Governo pode ser detido ou preso sem autorização do Parlament
 #### Artigo 115.º
 
 (Competência do Governo)
+
+- Compete ao Governo:
 
 34
 
@@ -1680,7 +1917,7 @@ Compete ao Conselho de Ministros:
 
 - Os  diplomas  legislativos  do  Governo são assinados pelo Primeiro-Ministro e pelos Ministros competentes em razão da matéria.
 
-�
+
 
 ## TÍTULO V � TRIBUNAIS
 
@@ -1788,9 +2025,9 @@ Os  juízes  em  exercício  não  podem  desempenhar  qualquer  outra  função
 
 (Competência constitucional e eleitoral)
 
-�
 
-- Ao Supremo  Tribunal  de  Justiça  compete,  no  domínio  das  questões  jurídicoconstitucionais:
+
+- Ao Supremo  Tribunal  de  Justiça  compete,  no  domínio  das  questões  jurídico-constitucionais:
 
 - Apreciar e declarar a inconstitucionalidade e ilegalidade dos actos legislativos e normativos dos órgãos do Estado;
 
@@ -1952,9 +2189,7 @@ As  audiências  dos  tribunais  são  públicas,  salvo  quando  o  próprio  t
 
 #### Artigo 137.º
 
-�
 
-�
 
 40
 
@@ -1964,7 +2199,7 @@ As  audiências  dos  tribunais  são  públicas,  salvo  quando  o  próprio  t
 
 (Princípios gerais da Administração Pública)
 
-�
+
 
 - A Administração Pública visa a prossecução do interesse público, no respeito pelos direitos e interesses legítimos dos cidadãos e das instituições constitucionais.
 
@@ -1976,7 +2211,7 @@ As  audiências  dos  tribunais  são  públicas,  salvo  quando  o  próprio  t
 
 ## TÍTULO I � PRINCÍPIOS GERAIS
 
-�
+
 
 #### Artigo 138.º
 
@@ -2008,7 +2243,7 @@ São  regulados  por  lei  a  propriedade,  o  uso  e  a  posse  útil  das  ter
 
 #### Artigo 142.º (Sistema financeiro)
 
-�
+
 
 41
 
@@ -2022,7 +2257,7 @@ O sistema financeiro é estruturado por lei de modo a garantir a formação, cap
 
 - O  Estado  deve  criar  um  banco  central  nacional  co-responsável  pela  definição  e execução da política monetária e financeira.
 
-- A lei define as funções e a relação entre o banco central, o Parlamento Nacional e o Governo, salvaguardando a autonomia de gestão da i n s t i t u i ç ã o financeira .
+- A lei define as funções e a relação entre o banco central, o Parlamento Nacional e o Governo, salvaguardando a autonomia de gestão da instituição financeira.
 
 - O banco central tem a competência exclusiva de emissão da moeda nacional.
 
@@ -2048,7 +2283,7 @@ O sistema financeiro é estruturado por lei de modo a garantir a formação, cap
 
 #### Artigo 146.º
 
-� (Forças Armadas)
+(Forças Armadas)
 
 - As forças armadas de Timor-Leste, FALINTIL-FDTL, compostas exclusivamente de cidadãos nacionais, são responsáveis pela defesa militar da República Democrática de Timor-Leste e a sua organização é única para todo o território nacional.
 
@@ -2062,7 +2297,7 @@ O sistema financeiro é estruturado por lei de modo a garantir a formação, cap
 
 - A prevenção criminal deve fazer-se com respeito pelos direitos humanos.
 
-�
+
 
 42
 
@@ -2086,7 +2321,7 @@ O sistema financeiro é estruturado por lei de modo a garantir a formação, cap
 
 ## TÍTULO I � GARANTIA DA CONSTITUIÇÃO
 
-�
+
 
 #### Artigo 149.º
 
@@ -2122,7 +2357,7 @@ Podem requerer a declaração de inconstitucionalidade:
 
 (Inconstitucionalidade por omissão)
 
-�
+
 
 43
 
@@ -2176,9 +2411,7 @@ Os  acórdãos  do  Supremo  Tribunal  de  Justiça  não  são  passíveis  de 
 
 #### Artigo 156.º
 
-�
 
-�
 
 44
 
@@ -2222,7 +2455,7 @@ Durante  o  estado  de  sítio  ou  de  emergência  não  pode  ser  praticado 
 
 #### Artigo 158.º
 
-�
+
 
 (Tratados, acordos e alianças)
 
@@ -2246,9 +2479,7 @@ Os actos cometidos entre 25 de Abril de 1974 e 31 de Dezembro de 1999 que possam
 
 (Apropriação ilegal de bens)
 
-�
 
-�
 
 45
 
@@ -2292,7 +2523,7 @@ São aplicáveis, enquanto não forem alterados ou revogados, as leis e os regul
 
 (Hino Nacional)
 
-Enquanto a lei ordinária não aprovar o hino nacional nos termos do n.˚ 2 do artigo 14.˚, será executada nas cerimónias nacionais a melodia 'Pátria, Pátria, Timor-Leste a nossa nação'.
+Enquanto a lei ordinária não aprovar o hino nacional nos termos do n.˚ 2 do artigo 14.˚, será executada nas cerimónias nacionais a melodia “Pátria, Pátria, Timor-Leste a nossa nação”.
 
 #### Artigo 167.º
 
