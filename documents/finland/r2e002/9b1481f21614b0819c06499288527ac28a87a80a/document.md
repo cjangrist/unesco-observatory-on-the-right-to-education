@@ -27,21 +27,21 @@ Tässä laissa säädetään opetus- ja kulttuuriministeriön hallinnonalaan kuu
 
 Tässä laissa tarkoitettujen tutkintojen ja koulutuksen tarkoituksena on kohottaa ja ylläpitää väestön ammatillista osaamista, antaa mahdollisuus ammattitaidon osoittamiseen sen hankkimistavasta riippumatta, kehittää työ- ja elinkeinoelämää ja vastata sen osaamistarpeisiin, edistää työllisyyttä, antaa valmiuksia yrittäjyyteen ja työ- ja toimintakyvyn jatkuvaan ylläpitoon sekä tukea elinikäistä oppimista ja ammatillista kasvua. Tässä laissa tarkoitetun koulutuksen tarkoituksena on lisäksi edistää tutkintojen tai niiden osien suorittamista.
 
-Tässä laissa tarkoitetun koulutuksen tavoitteena on lisäksi tukea opiskelijoiden kehitystä hyviksi, tasapainoisiksi ja sivistyneiksi ihmisiksi ja yhteiskunnan jäseniksi sekä antaa opiskelijoille jatkoopintovalmiuksien, ammatillisen kehittymisen, harrastusten sekä persoonallisuuden monipuolisen kehittämisen kannalta tarpeellisia tietoja ja taitoja.
+Tässä laissa tarkoitetun koulutuksen tavoitteena on lisäksi tukea opiskelijoiden kehitystä hyviksi, tasapainoisiksi ja sivistyneiksi ihmisiksi ja yhteiskunnan jäseniksi sekä antaa opiskelijoille jatko-opintovalmiuksien, ammatillisen kehittymisen, harrastusten sekä persoonallisuuden monipuolisen kehittämisen kannalta tarpeellisia tietoja ja taitoja.
 
 ### 3 § Määritelmät
 
 Tässä laissa tarkoitetaan:
 
-- henkilöstökoulutuksella tietyn työnantajan henkilöstölle järjestettävää koulutusta, joka on osin työnantajan rahoittamaa ja osin opetus- ja kulttuuritoimen rahoituksesta annetun lain (1705/2009) mukaisesti rahoitettua;
+1) henkilöstökoulutuksella tietyn työnantajan henkilöstölle järjestettävää koulutusta, joka on osin työnantajan rahoittamaa ja osin opetus- ja kulttuuritoimen rahoituksesta annetun lain (1705/2009) mukaisesti rahoitettua;
 
-- tutkintokoulutuksella ammatillisen osaamisen hankkimiseksi tarvittavaa koulutusta, jonka tavoitteena on ammatillisen tutkinnon taikka ammatillisen tutkinnon osan tai osien suorittaminen;
+2) tutkintokoulutuksella ammatillisen osaamisen hankkimiseksi tarvittavaa koulutusta, jonka tavoitteena on ammatillisen tutkinnon taikka ammatillisen tutkinnon osan tai osien suorittaminen;
 
-- työvoimakoulutuksella koulutusta, johon opiskelijat valitaan työ- ja elinkeinoviranomaisen toteaman koulutustarpeen perusteella siten kuin julkisesta työvoima- ja yrityspalvelusta annetun lain (916/2012) 5 luvun 3 §:ssä säädetään;
+3) työvoimakoulutuksella koulutusta, johon opiskelijat valitaan työ- ja elinkeinoviranomaisen toteaman koulutustarpeen perusteella siten kuin julkisesta työvoima- ja yrityspalvelusta annetun lain (916/2012) 5 luvun 3 §:ssä säädetään;
 
-- koulutuksen järjestäjällä tahoa, jolle on myönnetty 3 luvussa tarkoitettu koulutuksen järjestämislupa;
+4) koulutuksen järjestäjällä tahoa, jolle on myönnetty 3 luvussa tarkoitettu koulutuksen järjestämislupa;
 
-- opiskelijalla henkilöä, joka on otettu suorittamaan tässä laissa tarkoitettua koulutusta, ammatillista tutkintoa taikka ammatillisen tutkinnon osaa tai osia.
+5) opiskelijalla henkilöä, joka on otettu suorittamaan tässä laissa tarkoitettua koulutusta, ammatillista tutkintoa taikka ammatillisen tutkinnon osaa tai osia.
 
 https://finlex.fi/fi/laki/ajantasa/2017/20170531
 
@@ -62,7 +62,7 @@ Tutkinnoissa, koulutuksessa ja niiden järjestämisessä tulee ottaa huomioon ty
 ## 2 luku Tutkinnot ja koulutukset
 ### 5 § Ammatilliset tutkinnot
 
-Ammatillisia tutkintoja ovat ammatilliset perustutkinnot, ammattitutkinnot ja erikoisammattitutkinnot .
+Ammatillisia tutkintoja ovat ammatilliset perustutkinnot, ammattitutkinnot ja erikoisammattitutkinnot.
 
 Ammatillisessa perustutkinnossa osoitetaan laaja-alaiset ammatilliset perusvalmiudet alan eri tehtäviin sekä erikoistuneempi osaaminen ja työelämän edellyttämä ammattitaito vähintään yhdellä työelämän toimintakokonaisuuteen liittyvällä osa-alueella. Valtioneuvoston asetuksella voidaan säätää tarkemmin ammatillisissa perustutkinnoissa osoitettavasta osaamisesta.
 
@@ -76,11 +76,11 @@ Ammatillinen perustutkinto ja ammattitutkinto sijoittuvat ammattipätevyyden tun
 
 Opetus- ja kulttuuriministeriön asetuksella säädetään, mitkä ammatilliset perustutkinnot, ammattitutkinnot ja erikoisammattitutkinnot kuuluvat ammatillisen koulutuksen tutkintorakenteeseen. Poiketen siitä, mitä 15 §:n 2 momentin 2 kohdassa säädetään, opetus- ja kulttuuriministeriön asetuksella voidaan lisäksi säätää tutkintoon sisältyvästä osaamisalasta, jos:
 
-- kyseisen osaamisalan järjestämiskustannukset poikkeavat merkittävästi tutkinnon yleisistä järjestämiskustannuksista;
+1) kyseisen osaamisalan järjestämiskustannukset poikkeavat merkittävästi tutkinnon yleisistä järjestämiskustannuksista;
 
-- kyseiseen osaamisalaan liittyvää osaamista säännellään lailla tai asetuksella taikka sitä koskee Suomea velvoittava kansainvälinen sopimus ja kyseistä lakia, asetusta tai sopimusta sovelletaan vain tutkintoon sisältyvään kyseiseen osaamisalaan; tai
+2) kyseiseen osaamisalaan liittyvää osaamista säännellään lailla tai asetuksella taikka sitä koskee Suomea velvoittava kansainvälinen sopimus ja kyseistä lakia, asetusta tai sopimusta sovelletaan vain tutkintoon sisältyvään kyseiseen osaamisalaan; tai
 
-- kyseiseen osaamisalaan sisältyy 81 §:n 1 momentissa tarkoitettuja vaatimuksia, jotka poikkeavat tutkinnon yleisistä vaatimuksista.
+3) kyseiseen osaamisalaan sisältyy 81 §:n 1 momentissa tarkoitettuja vaatimuksia, jotka poikkeavat tutkinnon yleisistä vaatimuksista.
 
 (13.7.2018/547)
 
@@ -160,11 +160,11 @@ Ammatilliset tutkinnot muodostuvat ammatillisista tutkinnon osista. Tutkinnossa 
 
 Sen lisäksi mitä 1 momentissa säädetään, ammatilliseen perustutkintoon sisältyy yhteisiä tutkinnon osia, jotka ovat:
 
-- viestintä- ja vuorovaikutusosaaminen;
+1) viestintä- ja vuorovaikutusosaaminen;
 
-- matemaattis-luonnontieteellinen osaaminen; ja
+2) matemaattis-luonnontieteellinen osaaminen; ja
 
-- yhteiskunta- ja työelämäosaaminen.
+3) yhteiskunta- ja työelämäosaaminen.
 
 Valtioneuvoston asetuksella säädetään tarkemmin tutkinnon muodostumisesta ammatillisista ja yhteisistä tutkinnon osista, yhteisten tutkinnon osien laajuudesta osaamispisteinä sekä yhteisiin tutkinnon osiin kuuluvista osa-alueista ja osa-alueiden pakollisuudesta ja valinnaisuudesta.
 
@@ -178,15 +178,15 @@ Opetushallitus määrää tutkinnon perusteet kullekin 6 §:ssä tarkoitettuun t
 
 Tutkinnon perusteissa määrätään:
 
-- tutkintonimikkeet;
+1) tutkintonimikkeet;
 
-- tutkinnon osaamisalat;
+2) tutkinnon osaamisalat;
 
-- tutkinnon muodostuminen pakollisista ja valinnaisista tutkinnon osista sekä tutkinnon osien ja yhteisten tutkinnon osien osa-alueiden laajuus osaamispisteinä siltä osin, kuin näistä ei säädetä 13 §:ssä tai sen nojalla;
+3) tutkinnon muodostuminen pakollisista ja valinnaisista tutkinnon osista sekä tutkinnon osien ja yhteisten tutkinnon osien osa-alueiden laajuus osaamispisteinä siltä osin, kuin näistä ei säädetä 13 §:ssä tai sen nojalla;
 
-- tutkinnon osien ammattitaitovaatimukset tai osaamistavoitteet sekä osaamisen arviointi;
+4) tutkinnon osien ammattitaitovaatimukset tai osaamistavoitteet sekä osaamisen arviointi;
 
-- miltä osin 64 §:n 2 momentissa tarkoitettu osaamisen arvioinnin mukauttaminen tai 66 §:n 1 momentissa tarkoitettu ammattitaitovaatimuksista tai osaamistavoitteista poikkeaminen ei ole mahdollista.
+5) miltä osin 64 §:n 2 momentissa tarkoitettu osaamisen arvioinnin mukauttaminen tai 66 §:n 1 momentissa tarkoitettu ammattitaitovaatimuksista tai osaamistavoitteista poikkeaminen ei ole mahdollista.
 
 Opetushallituksen tulee laatia ammatillisten perustutkintojen perusteet siten, että tutkinnot vastaavat laajuudeltaan lukiolain (629/1998) 7 §:ssä säädettyä lukion oppimäärän laajuutta.
 
@@ -212,9 +212,9 @@ Opetushallitus määrää koulutuksen perusteet ammatilliseen koulutukseen valme
 
 Koulutuksen perusteissa määrätään:
 
-- koulutuksen muodostuminen pakollisista ja valinnaisista koulutuksen osista sekä koulutuksen osien laajuus osaamispisteinä siltä osin kuin näistä ei säädetä 14 §:n nojalla; ja
+1) koulutuksen muodostuminen pakollisista ja valinnaisista koulutuksen osista sekä koulutuksen osien laajuus osaamispisteinä siltä osin kuin näistä ei säädetä 14 §:n nojalla; ja
 
-- koulutuksen osien osaamistavoitteet ja osaamisen arviointi.
+2) koulutuksen osien osaamistavoitteet ja osaamisen arviointi.
 
 ### 17 § Tutkintojen nimien ja tutkintonimikkeiden suojaaminen
 
@@ -245,6 +245,7 @@ Kokeiluun osallistuvat koulutuksen järjestäjät valitaan hakemuksesta.
 Kokeiluun otetaan mukaan tarvittava määrä koulutuksen järjestäjiä siten, että kokeilulle asetetut tavoitteet voidaan saavuttaa. Valinnassa otetaan huomioon alueellinen ja kielellinen edustavuus, jos se kokeilun laajuus ja tavoitteet huomioon ottaen on perusteltua. Koulutuksen järjestäjällä tulee olla edellytykset toteuttaa kokeilu sen tavoitteita vastaavalla tavalla ja opiskelijoiden oikeuksia vaarantamatta.
 
 ## 3 luku Tutkintojen ja koulutuksen järjestäminen
+### 22 §
 
 https://finlex.fi/fi/laki/ajantasa/2017/20170531
 
@@ -258,9 +259,9 @@ https://finlex.fi/fi/laki/ajantasa/2017/20170531
 
 Laki ammatillisesta koulutuksesta 531/2017 - Ajantasainen lainsäädäntö - FINLEX ®
 
-### 22 § Tutkintojen ja koulutuksen järjestämislupa
+### Tutkintojen ja koulutuksen järjestämislupa
 
-Tässä laissa tarkoitettujen ammatillisten tutkintojen ja koulutuksen järjestäminen edellyttää opetus- ja kulttuuriministeriön myöntämää tutkintojen ja koulutuksen järjestämislupaa ( järjestämislupa ). Järjestämislupa voidaan myöntää hakemuksesta kunnalle, kuntayhtymälle, rekisteröidylle yhteisölle tai säätiölle.
+Tässä laissa tarkoitettujen ammatillisten tutkintojen ja koulutuksen järjestäminen edellyttää opetus- ja kulttuuriministeriön myöntämää tutkintojen ja koulutuksen järjestämislupaa (järjestämislupa). Järjestämislupa voidaan myöntää hakemuksesta kunnalle, kuntayhtymälle, rekisteröidylle yhteisölle tai säätiölle.
 
 Tässä laissa tarkoitettuja tutkintoja ja koulutusta voidaan opetus- ja kulttuuriministeriön päätöksellä järjestää myös valtion oppilaitoksissa tai Suomen solmiman valtiosopimuksen perusteella. Opetus- ja kulttuuriministeriö päättää toiminnan lopettamisesta valtion oppilaitoksissa noudattaen soveltuvin osin, mitä tässä luvussa järjestämisluvista säädetään.
 
@@ -330,7 +331,7 @@ Opetus- ja kulttuuriministeriö voi ilman hakemusta muuttaa järjestämislupaa, 
 
 Opetus- ja kulttuuriministeriö voi ilman hakemusta muuttaa tai peruuttaa järjestämisluvan, jos:
 
-- järjestämisluvassa määrättyjä tutkintoja tai koulutusta ei enää järjestetä;
+1) järjestämisluvassa määrättyjä tutkintoja tai koulutusta ei enää järjestetä;
 
 https://finlex.fi/fi/laki/ajantasa/2017/20170531
 
@@ -344,9 +345,9 @@ https://finlex.fi/fi/laki/ajantasa/2017/20170531
 
 Laki ammatillisesta koulutuksesta 531/2017 - Ajantasainen lainsäädäntö - FINLEX ®
 
-- järjestetyt tutkinnot tai koulutus taikka koulutuksen järjestäjän toimintaedellytykset eivät enää täytä 28 §:n mukaisia järjestämisluvan myöntämiselle säädettyjä edellytyksiä; tai
+2) järjestetyt tutkinnot tai koulutus taikka koulutuksen järjestäjän toimintaedellytykset eivät enää täytä 28 §:n mukaisia järjestämisluvan myöntämiselle säädettyjä edellytyksiä; tai
 
-- tutkintoja tai koulutusta järjestetään muuten olennaisesti vastoin tätä lakia tai sen nojalla annettuja säännöksiä tai määräyksiä.
+3) tutkintoja tai koulutusta järjestetään muuten olennaisesti vastoin tätä lakia tai sen nojalla annettuja säännöksiä tai määräyksiä.
 
 Opetus- ja kulttuuriministeriön tulee varata koulutuksen järjestäjälle mahdollisuus 3 momentissa tarkoitettujen puutteiden korjaamiseen kohtuullisessa ajassa ennen järjestämisluvan muuttamista tai peruuttamista. Opetus- ja kulttuuriministeriön tulee kuulla työ- ja elinkeinoministeriötä ennen työvoimakoulutuksen järjestämisluvan muuttamista tai peruuttamista. Opetus- ja kulttuuriministeriön on järjestämisluvan peruuttamista koskevan päätöksenteon yhteydessä huolehdittava siitä, ettei ammatillisen koulutuksen riittävä saatavuus vaarannu.
 
@@ -368,7 +369,7 @@ Koulutukseen voi tarpeen mukaan liittyä järjestämisluvan mukaista opetusta tu
 
 ### 33 § Tilauskoulutus
 
-Koulutuksen järjestäjä voi järjestää opiskelijaryhmälle järjestämisluvassa määrättyjä tutkintoja ja tutkinnon osia sekä niihin valmistavaa tutkintokoulutusta niin, että koulutuksen tilaa ja rahoittaa Suomen valtio, toinen valtio, kansainvälinen järjestö taikka suomalainen tai ulkomainen julkisyhteisö, säätiö tai yksityinen yhteisö ( tilauskoulutus ).
+Koulutuksen järjestäjä voi järjestää opiskelijaryhmälle järjestämisluvassa määrättyjä tutkintoja ja tutkinnon osia sekä niihin valmistavaa tutkintokoulutusta niin, että koulutuksen tilaa ja rahoittaa Suomen valtio, toinen valtio, kansainvälinen järjestö taikka suomalainen tai ulkomainen julkisyhteisö, säätiö tai yksityinen yhteisö (tilauskoulutus).
 
 Tilauskoulutusta ei voida järjestää Euroopan talousalueeseen kuuluvien valtioiden kansalaisille eikä niille, jotka Euroopan unionin ja sen jäsenvaltioiden muun sopimuspuolen kanssa tekemän sopimuksen mukaan rinnastetaan Euroopan unionin kansalaisiin, eikä edellä mainittujen perheenjäsenille. Tilauskoulutusta ei myöskään voida järjestää niille, joilla on ulkomaalaislaissa (301/2004) tarkoitettu Euroopan unionin sininen kortti, jatkuva tai pysyvä oleskelulupa tai pitkään oleskelleen kolmannen maan kansalaisen EU-oleskelulupa, eikä edellä mainittujen perheenjäsenille. Perheenjäsenen määrittelyyn sovelletaan ulkomaalaislakia.
 
@@ -384,11 +385,11 @@ https://finlex.fi/fi/laki/ajantasa/2017/20170531
 
 Laki ammatillisesta koulutuksesta 531/2017 - Ajantasainen lainsäädäntö - FINLEX ®
 
-Tilauskoulutukseen ei sovelleta, mitä 70-79 ja 95 §:ssä säädetään, jos tilauskoulutus järjestetään muualla kuin Suomessa. Tilauskoulutukseen ei muutoin sovelleta, mitä 10 luvussa säädetään.
+Tilauskoulutukseen ei sovelleta, mitä 70–79 ja 95 §:ssä säädetään, jos tilauskoulutus järjestetään muualla kuin Suomessa. Tilauskoulutukseen ei muutoin sovelleta, mitä 10 luvussa säädetään.
 
 ### 34 § Tilauskoulutukseen sovellettavat säännökset
 
-Tilauskoulutukseen ei sovelleta, mitä 24 §:ssä säädetään opetus- ja tutkintokielestä, 25 §:ssä toimintaalueesta ja 26 §:ssä opiskelijavuosien vähimmäismäärästä.
+Tilauskoulutukseen ei sovelleta, mitä 24 §:ssä säädetään opetus- ja tutkintokielestä, 25 §:ssä toiminta-alueesta ja 26 §:ssä opiskelijavuosien vähimmäismäärästä.
 
 Tilauskoulutukseen ei sovelleta, mitä 4 luvussa säädetään, lukuun ottamatta 38 §:n 1 momentin säännöstä opiskelijaksi ottamisen edellytyksistä sekä 40 ja 41 §:n säännöksiä opiskelijaksi ottamisen esteistä ja siihen liittyvästä tiedonsaannista.
 
@@ -396,13 +397,13 @@ Tilauskoulutukseen sovelletaan, mitä 5 luvussa säädetään, elleivät koulutu
 
 Tilauskoulutukseen ei sovelleta, mitä 7 luvussa säädetään, lukuun ottamatta 62 §:n 1 momentin säännöstä tutkintokoulutuksen sisällöstä, 64 §:n 2 momentin säännöstä osaamisen arvioinnin mukauttamisesta ja 66 §:n säännöksiä ammattitaitovaatimuksista tai osaamistavoitteista poikkeamisesta.
 
-Tilauskoulutukseen ei sovelleta, mitä 70-79 ja 95 §:ssä säädetään, jos tilauskoulutus järjestetään muualla kuin Suomessa. Tilauskoulutukseen ei muutoin sovelleta, mitä 10 luvussa säädetään.
+Tilauskoulutukseen ei sovelleta, mitä 70–79 ja 95 §:ssä säädetään, jos tilauskoulutus järjestetään muualla kuin Suomessa. Tilauskoulutukseen ei muutoin sovelleta, mitä 10 luvussa säädetään.
 
 ### 35 § Tutkintokoulutuksen järjestäminen Euroopan talousalueen ulkopuolella
 
 Koulutuksen järjestäjä voi järjestää Euroopan talousalueen ulkopuolella järjestämisluvassa määrättyjä tutkintoja ja tutkinnon osia sekä niihin valmistavaa tutkintokoulutusta. Koulutukseen ei voida ottaa opiskelijaksi 33 §:n 2 momentissa tarkoitettuja henkilöitä.
 
-Tässä pykälässä tarkoitettuun koulutukseen ei sovelleta, mitä 24 §:ssä säädetään opetus- ja tutkintokielestä, 25 §:ssä toiminta-alueesta, 26 §:ssä opiskelijavuosien vähimmäismäärästä, 42 §:ssä suoritettavan tutkinnon tai koulutuksen valinnasta, 63 §:ssä opiskeluvalmiuksia tukevista opinnoista, 68 §:ssä opetuksen julkisuudesta, 70-79 §:ssä oppisopimuskoulutuksesta ja koulutussopimukseen perustuvasta koulutuksesta ja 99-106 §:ssä opiskelijahuollosta, oikeudesta maksuttomaan ruokailuun, opintososiaalisista etuuksista, asuntolatoiminnasta, opiskelijoilta perittävistä maksuista ja opiskelijakunnasta. Lain 40 §:ää sovelletaan ainoastaan opiskelijaksi ottamisen esteiden osalta ja 64 §:n 2 momenttia ainoastaan osaamisen arvioinnin mukauttamisen osalta.
+Tässä pykälässä tarkoitettuun koulutukseen ei sovelleta, mitä 24 §:ssä säädetään opetus- ja tutkintokielestä, 25 §:ssä toiminta-alueesta, 26 §:ssä opiskelijavuosien vähimmäismäärästä, 42 §:ssä suoritettavan tutkinnon tai koulutuksen valinnasta, 63 §:ssä opiskeluvalmiuksia tukevista opinnoista, 68 §:ssä opetuksen julkisuudesta, 70–79 §:ssä oppisopimuskoulutuksesta ja koulutussopimukseen perustuvasta koulutuksesta ja 99–106 §:ssä opiskelijahuollosta, oikeudesta maksuttomaan ruokailuun, opintososiaalisista etuuksista, asuntolatoiminnasta, opiskelijoilta perittävistä maksuista ja opiskelijakunnasta. Lain 40 §:ää sovelletaan ainoastaan opiskelijaksi ottamisen esteiden osalta ja 64 §:n 2 momenttia ainoastaan osaamisen arvioinnin mukauttamisen osalta.
 
 ### 36 § Tilauskoulutuksen ja Euroopan talousalueen ulkopuolella järjestettävän koulutuksen rahoitus ja perittävät maksut
 
@@ -433,7 +434,7 @@ valtakunnallisia hakumenettelyitä. Valtakunnallisista hakumenettelyistä sääd
 
 Mitä tässä luvussa säädetään, ei sovelleta henkilöstökoulutukseen, lukuun ottamatta 38 §:n 1 momentin säännöstä opiskelijaksi ottamisen edellytyksistä sekä 40 ja 41 §:n säännöksiä opiskelijaksi ottamisen esteistä ja siihen liittyvästä tiedonsaannista. Opiskelijoiden valitsemisesta henkilöstökoulutukseen päättää työnantaja yhteistyössä koulutuksen järjestäjän kanssa.
 
-Poiketen siitä, mitä tässä luvussa säädetään, opiskelijoiden valitsemisesta työvoimakoulutukseen päättää työja elinkeinotoimisto yhteistyössä koulutuksen järjestäjän kanssa. Opiskelijaksi hakeutumisessa ja opiskelijaksi ottamisessa sovelletaan, mitä julkisesta työvoima- ja yrityspalvelusta annetun lain 5 luvun 3 §:ssä ja sen nojalla sekä tämän lain 38, 40 ja 41 §:ssä säädetään. Muutoksenhausta työ- ja elinkeinotoimiston päätökseen säädetään julkisesta työvoima- ja yrityspalvelusta annetun lain 14 luvussa. Jos opiskelijavalintaa koskeva päätös perustuu tämän lain 38, 40 tai 41 §:ssä säädettyihin edellytyksiin, muutoksenhakuun sovelletaan kuitenkin tämän lain 12 lukua.
+Poiketen siitä, mitä tässä luvussa säädetään, opiskelijoiden valitsemisesta työvoimakoulutukseen päättää työ- ja elinkeinotoimisto yhteistyössä koulutuksen järjestäjän kanssa. Opiskelijaksi hakeutumisessa ja opiskelijaksi ottamisessa sovelletaan, mitä julkisesta työvoima- ja yrityspalvelusta annetun lain 5 luvun 3 §:ssä ja sen nojalla sekä tämän lain 38, 40 ja 41 §:ssä säädetään. Muutoksenhausta työ- ja elinkeinotoimiston päätökseen säädetään julkisesta työvoima- ja yrityspalvelusta annetun lain 14 luvussa. Jos opiskelijavalintaa koskeva päätös perustuu tämän lain 38, 40 tai 41 §:ssä säädettyihin edellytyksiin, muutoksenhakuun sovelletaan kuitenkin tämän lain 12 lukua.
 
 ### 38 § Opiskelijaksi ottamisen edellytykset
 
@@ -441,17 +442,17 @@ Opiskelijaksi voidaan ottaa hakija, joka on suorittanut perusopetuksen oppimää
 
 Ammatilliseen koulutukseen valmentavaan koulutukseen opiskelijaksi ottamisen edellytyksenä on sen lisäksi, mitä 1 momentissa säädetään, että:
 
-- hakija ei ole suorittanut:
+1) hakija ei ole suorittanut:
 
-- ylioppilastutkinnon järjestämisestä annetussa laissa (672/2005) tarkoitettua ylioppilastutkintoa tai sitä mainitun lain 17 §:n mukaan tasoltaan vastaavaa tutkintoa;
+a) ylioppilastutkinnon järjestämisestä annetussa laissa (672/2005) tarkoitettua ylioppilastutkintoa tai sitä mainitun lain 17 §:n mukaan tasoltaan vastaavaa tutkintoa;
 
-- tässä laissa tarkoitettua ammatillista perustutkintoa, ammattitutkintoa tai erikoisammattitutkintoa, valmentavaa koulutusta taikka niitä vastaavaa aikaisempaa tutkintoa tai koulutusta;
+b) tässä laissa tarkoitettua ammatillista perustutkintoa, ammattitutkintoa tai erikoisammattitutkintoa, valmentavaa koulutusta taikka niitä vastaavaa aikaisempaa tutkintoa tai koulutusta;
 
-- korkeakoulututkintoa; tai
+c) korkeakoulututkintoa; tai
 
-- a-c alakohdassa tarkoitettua tutkintoa vastaavaa ulkomaista tutkintoa; ja
+d) a–c alakohdassa tarkoitettua tutkintoa vastaavaa ulkomaista tutkintoa; ja
 
-- hakijan tavoitteena on valmentavan koulutuksen jälkeen hakeutua suorittamaan tässä laissa tarkoitettua tutkintoa tai tutkinnon osaa.
+2) hakijan tavoitteena on valmentavan koulutuksen jälkeen hakeutua suorittamaan tässä laissa tarkoitettua tutkintoa tai tutkinnon osaa.
 
 Hakija voidaan kuitenkin ottaa opiskelijaksi ammatilliseen koulutukseen valmentavaan koulutukseen, vaikka hän on suorittanut 2 momentin 1 kohdassa tarkoitetun tutkinnon tai koulutuksen, jos ammatilliseen koulutukseen valmentavan koulutuksen suorittaminen on jatko-opintovalmiuksien hankkimiseksi erityisestä syystä perusteltua.
 
@@ -463,7 +464,7 @@ Opiskelijaksi ottamisessa on sovellettava yhdenvertaisia valintaperusteita.
 
 Koulutuksen järjestäjä päättää opiskelijaksi ottamisessa käytettävistä valintaperusteista sekä pääsy- ja soveltuvuuskokeista. Edellä 37 §:n 2 momentissa tarkoitetussa valtakunnallisessa hakumenettelyssä käytettävistä valintaperusteista ja pääsy- ja soveltuvuuskokeista voidaan kuitenkin säätää opetus- ja kulttuuriministeriön asetuksella.
 
-
+### 40 §
 https://finlex.fi/fi/laki/ajantasa/2017/20170531
 
 10/41
@@ -476,7 +477,7 @@ https://finlex.fi/fi/laki/ajantasa/2017/20170531
 
 Laki ammatillisesta koulutuksesta 531/2017 - Ajantasainen lainsäädäntö - FINLEX ®
 
-### 40 § Esteettömyys opiskelijaksi ottamisessa
+### Esteettömyys opiskelijaksi ottamisessa
 
 Hakijan terveydentilaan tai toimintakykyyn liittyvä seikka ei saa olla esteenä opiskelijaksi ottamiselle. Opiskelijaksi ei kuitenkaan voida ottaa sitä, joka ei ole terveydentilaltaan tai toimintakyvyltään kykenevä koulutukseen liittyviin käytännön tehtäviin oppilaitoksessa, työpaikalla tai muussa oppimisympäristössä, jos 81 §:ssä tarkoitettuihin tutkintoihin tai osaamisaloihin liittyvät turvallisuusvaatimukset sitä edellyttävät ja jos estettä ei voida kohtuullisin toimin poistaa. (13.7.2018/547)
 
@@ -523,7 +524,7 @@ Jos opiskelijaksi ottamisessa käytetään 37 §:n 2 momentissa tarkoitettuja va
 ## 5 luku Henkilökohtaistaminen
 ### 44 § Henkilökohtainen osaamisen kehittämissuunnitelma
 
-Koulutuksen aloittavalle opiskelijalle laaditaan henkilökohtainen osaamisen kehittämissuunnitelma, johon kirjataan yksilölliset osaamisen tunnistamista, tunnustamista, hankkimista, kehittymistä ja osoittamista sekä ohjaus- ja tukitoimia koskevat tiedot siten kuin jäljempänä 46-49 §:ssä ja 67 §:n 2 momentissa säädetään. Suunnitelmaan merkittävistä tiedoista säädetään tarkemmin valtioneuvoston asetuksella.
+Koulutuksen aloittavalle opiskelijalle laaditaan henkilökohtainen osaamisen kehittämissuunnitelma, johon kirjataan yksilölliset osaamisen tunnistamista, tunnustamista, hankkimista, kehittymistä ja osoittamista sekä ohjaus- ja tukitoimia koskevat tiedot siten kuin jäljempänä 46–49 §:ssä ja 67 §:n 2 momentissa säädetään. Suunnitelmaan merkittävistä tiedoista säädetään tarkemmin valtioneuvoston asetuksella.
 
 Koulutuksen järjestäjä vastaa henkilökohtaisen osaamisen kehittämissuunnitelman laatimisesta ja päivittämisestä.
 
@@ -561,7 +562,7 @@ Laki ammatillisesta koulutuksesta 531/2017 - Ajantasainen lainsäädäntö - FIN
 
 Koulutuksen järjestäjän tehtävänä on tunnustaa opiskelijan aiemmin hankkima osaaminen, joka vastaa tutkinnon tai koulutuksen perusteiden ammattitaitovaatimuksia tai osaamistavoitteita. Osaamisen tunnustaminen tehdään 46 §:ssä tarkoitettujen asiakirjojen ja muun selvityksen perusteella. Valtioneuvoston asetuksella säädetään tarkemmin osaamisen tunnustamisen menettelytavoista.
 
-Aiemmin hankitun osaamisen arvioinnissa sovelletaan, mitä 53 §:n 1-3 momentissa säädetään osaamisen arvioinnista, 54 §:ssä osaamisen arvioijista, 55 §:ssä arvioinnin tarkistamisesta ja oikaisusta sekä 56 §:ssä arvosanan korottamisesta. Poiketen siitä, mitä 54 §:n 1 momentissa säädetään, osaamisen arvioijina toimii kuitenkin kaksi opettajaa tai muuta koulutuksen järjestäjän edustajaa, jos aiemmin hankittua osaamista arvioidaan ilman näyttöön osallistumista. Jos aiemmin hankittua osaamista tunnustetaan ilman osaamisen arviointia, sovelletaan ainoastaan, mitä 56 §:ssä säädetään arvosanan korottamisesta.
+Aiemmin hankitun osaamisen arvioinnissa sovelletaan, mitä 53 §:n 1–3 momentissa säädetään osaamisen arvioinnista, 54 §:ssä osaamisen arvioijista, 55 §:ssä arvioinnin tarkistamisesta ja oikaisusta sekä 56 §:ssä arvosanan korottamisesta. Poiketen siitä, mitä 54 §:n 1 momentissa säädetään, osaamisen arvioijina toimii kuitenkin kaksi opettajaa tai muuta koulutuksen järjestäjän edustajaa, jos aiemmin hankittua osaamista arvioidaan ilman näyttöön osallistumista. Jos aiemmin hankittua osaamista tunnustetaan ilman osaamisen arviointia, sovelletaan ainoastaan, mitä 56 §:ssä säädetään arvosanan korottamisesta.
 
 Opetushallitus voi määrätä osaamisen tunnistamisen ja tunnustamisen mitoituksen periaatteista sekä arvosanojen muuntamisesta.
 
@@ -606,7 +607,7 @@ Opiskelijalle annettavalla palautteella ohjataan ja kannustetaan henkilökohtais
 
 ### 52 § Osaamisen osoittaminen
 
-Tutkinnon osien edellyttämä ammattitaito ja osaaminen osoitetaan tekemällä käytännön työtehtäviä aidoissa työtilanteissa ja työprosesseissa ( näyttö ). Näytössä opiskelija osoittaa, miten hyvin hän on saavuttanut tutkinnon perusteissa määritellyn keskeisen ammattitaidon tai osaamisen. Yhteisten tutkinnon osien suorittamiseksi vaadittava osaaminen voidaan tarvittaessa osoittaa myös muulla tavoin.
+Tutkinnon osien edellyttämä ammattitaito ja osaaminen osoitetaan tekemällä käytännön työtehtäviä aidoissa työtilanteissa ja työprosesseissa (näyttö). Näytössä opiskelija osoittaa, miten hyvin hän on saavuttanut tutkinnon perusteissa määritellyn keskeisen ammattitaidon tai osaamisen. Yhteisten tutkinnon osien suorittamiseksi vaadittava osaaminen voidaan tarvittaessa osoittaa myös muulla tavoin.
 
 Valmentavan koulutuksen osien suorittamiseksi vaadittava osaaminen osoitetaan muulla tavoin kuin näytössä.
 
@@ -648,7 +649,7 @@ Ammatillisten tutkinnon osien osaamisen arvioinnin toteuttavat ja arvioinnista p
 
 Valmentavan koulutuksen osien sekä yhteisten tutkinnon osien ja niiden osa-alueiden osaamisen arvioinnin toteuttaa ja arvioinnista päättää opettaja tai erityisestä syystä muu koulutuksen järjestäjän edustaja. Silloin kun yhteinen tutkinnon osa tai sen osa-alue toteutetaan ja arvioidaan ammatillisen tutkinnon osan yhteydessä, osaamisen arvioinnissa voidaan kuulla työelämän edustajaa.
 
-Arvioijilla tulee olla riittävä suoritettavaan tutkintoon ja erityisesti arvioitavaan tutkinnon osaan, yhteisen tutkinnon osan osa-alueeseen tai valmentavaan koulutukseen liittyvä ammattitaito ja osaaminen sekä riittävä perehtyneisyys arviointiin ja suoritettavan tutkinnon tai valmentavan koulutuksen perusteisiin. Koulutuksen järjestäjän tehtävänä on perehdyttää työelämää edustavat arvioijat osaamisen arviointiin. Arvioijien esteellisyyteen sovelletaan, mitä hallintolain 27-29 §:ssä säädetään.
+Arvioijilla tulee olla riittävä suoritettavaan tutkintoon ja erityisesti arvioitavaan tutkinnon osaan, yhteisen tutkinnon osan osa-alueeseen tai valmentavaan koulutukseen liittyvä ammattitaito ja osaaminen sekä riittävä perehtyneisyys arviointiin ja suoritettavan tutkinnon tai valmentavan koulutuksen perusteisiin. Koulutuksen järjestäjän tehtävänä on perehdyttää työelämää edustavat arvioijat osaamisen arviointiin. Arvioijien esteellisyyteen sovelletaan, mitä hallintolain 27–29 §:ssä säädetään.
 
 ### 55 § Arvioinnin tarkistaminen ja oikaisu
 
@@ -696,7 +697,7 @@ Koulutuksen järjestäjän tulee antaa opiskelijalle todistus tutkintokoulutukse
 
 ### 60 § Todistuksia koskevat tarkemmat säännökset ja määräykset
 
-Valtioneuvoston asetuksella säädetään tarkemmin 57-59 §:ssä tarkoitettujen todistusten sisällöstä ja todistusten liitteistä. Opetushallitus määrää todistuksiin ja niiden liitteisiin merkittävistä tiedoista.
+Valtioneuvoston asetuksella säädetään tarkemmin 57–59 §:ssä tarkoitettujen todistusten sisällöstä ja todistusten liitteistä. Opetushallitus määrää todistuksiin ja niiden liitteisiin merkittävistä tiedoista.
 
 ## 7 luku Osaamisen hankkiminen
 ### 61 § Oikeus saada opetusta ja ohjausta
@@ -747,9 +748,9 @@ Edellä 27 §:n 2 momentin mukaisen vaativan erityisen tuen tehtävän saaneen k
 
 Ammatillisen perustutkinnon perusteiden mukaisista ammattitaitovaatimuksista tai osaamistavoitteista voidaan poiketa siten, että opiskelija ei osoita jotakin tutkinnon perusteiden edellyttämää osaamista, jos:
 
-- tutkinnon perusteiden mukaiset ammattitaitovaatimukset tai osaamistavoitteet ovat olosuhteet tai aiemmin hankittu osaaminen huomioiden joiltakin osin opiskelijalle kohtuuttomia; tai
+1) tutkinnon perusteiden mukaiset ammattitaitovaatimukset tai osaamistavoitteet ovat olosuhteet tai aiemmin hankittu osaaminen huomioiden joiltakin osin opiskelijalle kohtuuttomia; tai
 
-- poikkeaminen on perusteltua opiskelijan vammaan tai terveydentilaan liittyvistä syistä.
+2) poikkeaminen on perusteltua opiskelijan vammaan tai terveydentilaan liittyvistä syistä.
 
 Poikkeamisen tavoitteena on, että opiskelija voi suorittaa tutkinnon, vaikka hän 1 momentissa tarkoitettujen syiden vuoksi ei voi joiltakin osin saavuttaa tutkinnon perusteiden mukaisia ammattitaitovaatimuksia tai osaamistavoitteita. Ammattitaitovaatimuksista ja osaamistavoitteista voidaan poiketa vain siinä määrin kuin se on 1 momentissa tarkoitettujen syiden vuoksi välttämätöntä.
 
@@ -782,7 +783,7 @@ Koulutuksen järjestäjä voi järjestää tässä laissa tarkoitettua koulutust
 
 ### 70 § Oppisopimuskoulutus
 
-Oppisopimuskoulutus on pääosin työpaikalla käytännön työtehtävien yhteydessä järjestettävää koulutusta, jota täydennetään tarvittaessa muissa oppimisympäristöissä tapahtuvalla osaamisen hankkimisella. Oppisopimuskoulutus perustuu 15 vuotta täyttäneen opiskelijan ja työnantajan väliseen kirjalliseen määräaikaiseen työsopimukseen taikka virkasuhteessa tai virkasuhteeseen verrattavassa julkisoikeudellisessa palvelussuhteessa olevan opiskelijan ja työnantajan väliseen kirjalliseen määräaikaiseen sopimukseen ( oppisopimus ). Oppisopimuskoulutuksessa olevan opiskelijan viikoittaisen työajan tulee olla keskimäärin vähintään 25 tuntia.
+Oppisopimuskoulutus on pääosin työpaikalla käytännön työtehtävien yhteydessä järjestettävää koulutusta, jota täydennetään tarvittaessa muissa oppimisympäristöissä tapahtuvalla osaamisen hankkimisella. Oppisopimuskoulutus perustuu 15 vuotta täyttäneen opiskelijan ja työnantajan väliseen kirjalliseen määräaikaiseen työsopimukseen taikka virkasuhteessa tai virkasuhteeseen verrattavassa julkisoikeudellisessa palvelussuhteessa olevan opiskelijan ja työnantajan väliseen kirjalliseen määräaikaiseen sopimukseen (oppisopimus). Oppisopimuskoulutuksessa olevan opiskelijan viikoittaisen työajan tulee olla keskimäärin vähintään 25 tuntia.
 
 Oppisopimukseen tulee liittää opiskelijan henkilökohtainen osaamisen kehittämissuunnitelma siltä osin kuin se koskee oppisopimuskoulutusta. Henkilökohtaisesta osaamisen kehittämissuunnitelmasta tulee ilmetä ne käytännön työtehtävät, joita tekemällä opiskelija voi saavuttaa tavoitteeksi asetetun osaamisen. Valtioneuvoston asetuksella säädetään tarkemmin oppisopimuksessa sovittavista asioista.
 
@@ -794,7 +795,7 @@ Oppisopimuskoulutuksena ei voida järjestää valmentavaa koulutusta eikä työv
 
 ### 71 § Koulutussopimukseen perustuva koulutus
 
-Koulutussopimukseen perustuvassa koulutuksessa opiskelija hankkii osaamista työpaikalla käytännön työtehtävien yhteydessä. Koulutussopimukseen perustuvassa koulutuksessa opiskelija ei ole työsuhteessa. Koulutuksen järjestäjä sopii kirjallisesti koulutussopimustyöpaikan edustajan kanssa opiskelijan osaamisen hankkimisesta työpaikalla käytännön työtehtävien yhteydessä ( koulutussopimus ).
+Koulutussopimukseen perustuvassa koulutuksessa opiskelija hankkii osaamista työpaikalla käytännön työtehtävien yhteydessä. Koulutussopimukseen perustuvassa koulutuksessa opiskelija ei ole työsuhteessa. Koulutuksen järjestäjä sopii kirjallisesti koulutussopimustyöpaikan edustajan kanssa opiskelijan osaamisen hankkimisesta työpaikalla käytännön työtehtävien yhteydessä (koulutussopimus).
 
 Koulutussopimus on määräaikainen sopimus, joka sovitaan henkilökohtaisen osaamisen kehittämissuunnitelman mukaisesti tutkinnon osittain muun kuin 8 §:ssä tarkoitetun koulutuksen osalta. Sopimus voidaan solmia myös tutkinnon osaa pienemmistä kokonaisuuksista tai useammasta tutkinnon osasta. Koulutussopimukseen tulee liittää opiskelijan henkilökohtainen osaamisen kehittämissuunnitelma siltä osin kuin se koskee koulutussopimukseen perustuvaa koulutusta. Henkilökohtaisesta osaamisen kehittämissuunnitelmasta tulee ilmetä ne käytännön työtehtävät, joita tekemällä opiskelija voi saavuttaa tavoitteeksi asetetun osaamisen. Koulutussopimus ja sen päivittäminen tulee antaa tiedoksi opiskelijalle.
 
@@ -820,11 +821,11 @@ Valtioneuvoston asetuksella säädetään tarkemmin koulutussopimuksessa sovitta
 
 Oppisopimuskoulutuksen järjestämistä koskevan sopimuksen ja koulutussopimuksen tekeminen edellyttää, että koulutustyöpaikalla on käytettävissä tutkinnon perusteiden mukaisen koulutuksen tai henkilökohtaisen osaamisen kehittämissuunnitelman ja näyttöjen järjestämisen kannalta:
 
-- riittävästi tuotanto- ja palvelutoimintaa;
+1) riittävästi tuotanto- ja palvelutoimintaa;
 
-- tarpeelliset työvälineet;
+2) tarpeelliset työvälineet;
 
-- ammattitaidoltaan, koulutukseltaan ja työkokemukseltaan pätevä henkilöstö.
+3) ammattitaidoltaan, koulutukseltaan ja työkokemukseltaan pätevä henkilöstö.
 
 Koulutustyöpaikalta nimetään opiskelijalle ammattitaidoltaan, koulutukseltaan tai työkokemukseltaan pätevä vastuullinen työpaikkaohjaaja. Oppisopimuskoulutusta saavan yrittäjän työpaikkaohjaaja voi olla myös toiselta työpaikalta tai muutoin tehtävään soveltuva henkilö.
 
@@ -842,7 +843,7 @@ Koulutuksen järjestäjä vastaa siitä, että oppisopimuskoulutuksessa ja koulu
 
 Koulutussopimukseen perustuvassa koulutuksessa koulutussopimustyöpaikan tarjoajalla on velvollisuus seurata opiskelijan osaamisen kehittymistä, velvollisuus ryhtyä toimenpiteisiin silloin, kun opiskelijan henkilökohtaisen osaamisen kehittämissuunnitelman mukaista osaamista ei pystytä saavuttamaan sekä velvollisuus raportoida koulutuksen järjestäjälle opiskelijan henkilökohtaisen osaamisen kehittämissuunnitelman toteutumisesta.
 
-
+### 75 §
 https://finlex.fi/fi/laki/ajantasa/2017/20170531
 
 19/41
@@ -855,17 +856,17 @@ https://finlex.fi/fi/laki/ajantasa/2017/20170531
 
 Laki ammatillisesta koulutuksesta 531/2017 - Ajantasainen lainsäädäntö - FINLEX ®
 
-### 75 § Oppisopimuksen ja oppisopimuskoulutuksen järjestämistä koskevan sopimuksen purkaminen sekä oppisopimuskoulutuksen keskeytyminen
+### Oppisopimuksen ja oppisopimuskoulutuksen järjestämistä koskevan sopimuksen purkaminen sekä oppisopimuskoulutuksen keskeytyminen
 
 Oppisopimus voidaan purkaa sopijapuolten yhteisellä sopimuksella.
 
 Työsopimukseen perustuva oppisopimus voidaan purkaa lisäksi:
 
-- työsopimuslain (55/2001) 1 luvun 4 §:ssä ja 8 luvun 1 ja 3 §:ssä säädetyillä perusteilla;
+1) työsopimuslain (55/2001) 1 luvun 4 §:ssä ja 8 luvun 1 ja 3 §:ssä säädetyillä perusteilla;
 
-- työnantajan lopettaessa liikkeensä, tullessa asetetuksi konkurssiin tai kuollessa; tai
+2) työnantajan lopettaessa liikkeensä, tullessa asetetuksi konkurssiin tai kuollessa; tai
 
-- koulutuksen järjestäjän luvalla työsopimuslaissa säädetyillä irtisanomisperusteilla.
+3) koulutuksen järjestäjän luvalla työsopimuslaissa säädetyillä irtisanomisperusteilla.
 
 Koulutuksen järjestäjä voi purkaa oppisopimuskoulutuksen järjestämistä koskevan sopimuksen opiskelijaa ja työnantajaa kuultuaan, jos työpaikalla järjestetyssä koulutuksessa ei noudateta tämän lain tai sen nojalla annettuja säännöksiä tai oppisopimuksen ehtoja.
 
@@ -873,7 +874,7 @@ Oppisopimus katsotaan purkautuneeksi, jos oppisopimuskoulutuksen järjestämist�
 
 Koulutuksen järjestäjä ja oppisopimuskoulutusta saava yrittäjä voivat yhteisellä sopimuksella purkaa oppisopimuskoulutuksen järjestämistä koskevan sopimuksen. Koulutuksen järjestäjä voi purkaa koulutuksen järjestämistä koskevan sopimuksen yrittäjää kuultuaan, jos koulutuksessa ei noudateta tämän lain tai sen nojalla annettuja säännöksiä tai koulutuksen järjestäjän ja yrittäjän välillä tehdyn 70 §:n 4 momentissa tarkoitetun sopimuksen ehtoja.
 
-Jos oppisopimus puretaan edellä 1-3 tai 5 momentissa säädetyllä perusteella, koulutuksen järjestäjän on järjestettävä opiskelijalle mahdollisuus hankkia muulla tavoin henkilökohtaisen osaamisen kehittämissuunnitelman mukainen tavoitteeksi asetettu osaaminen.
+Jos oppisopimus puretaan edellä 1–3 tai 5 momentissa säädetyllä perusteella, koulutuksen järjestäjän on järjestettävä opiskelijalle mahdollisuus hankkia muulla tavoin henkilökohtaisen osaamisen kehittämissuunnitelman mukainen tavoitteeksi asetettu osaaminen.
 
 Jos opiskelija erotetaan määräajaksi oppilaitoksesta, opiskelijan oikeus opiskeluun pidätetään tai opiskelijan opiskeluoikeus väliaikaisesti keskeytetään 96 §:n 3 momentin nojalla, keskeytyy oppisopimuskoulutus vastaavaksi ajaksi.
 
@@ -885,9 +886,9 @@ Koulutussopimuksen voi kumpikin sopijapuoli purkaa toista osapuolta kuultuaan, j
 
 Koulutussopimuksen voi kumpikin sopijapuoli purkaa lisäksi:
 
-- koulutussopimustyöpaikan tarjoajan lopettaessa liikkeensä, tullessa asetetuksi konkurssiin tai kuollessa; tai
+1) koulutussopimustyöpaikan tarjoajan lopettaessa liikkeensä, tullessa asetetuksi konkurssiin tai kuollessa; tai
 
-- opiskelijan siirtyessä hankkimaan henkilökohtaisessa osaamisen kehittämissuunnitelmassa tavoitteeksi asetettua osaamista oppisopimuskoulutuksena.
+2) opiskelijan siirtyessä hankkimaan henkilökohtaisessa osaamisen kehittämissuunnitelmassa tavoitteeksi asetettua osaamista oppisopimuskoulutuksena.
 
 Koulutuksen järjestäjän tulee purkaa koulutussopimus, jos opiskelijan ilmoituksen perusteella käy ilmi, ettei työpaikalla järjestettävässä koulutuksessa noudateta tämän lain tai sen nojalla annettuja säännöksiä tai koulutussopimuksen ehtoja eikä edellytyksiä koulutussopimuksen jatkamiselle ole. Koulutuksen järjestäjän tulee kuulla koulutussopimustyöpaikan tarjoajaa ennen koulutussopimuksen purkamista.
 
@@ -905,13 +906,13 @@ https://finlex.fi/fi/laki/ajantasa/2017/20170531
 
 Laki ammatillisesta koulutuksesta 531/2017 - Ajantasainen lainsäädäntö - FINLEX ®
 
-Jos koulutussopimus puretaan edellä 1-4 momentissa säädetyllä perusteella, koulutuksen järjestäjän on järjestettävä opiskelijalle mahdollisuus hankkia muulla tavoin henkilökohtaisen osaamisen kehittämissuunnitelman mukainen tavoitteeksi asetettu osaaminen.
+Jos koulutussopimus puretaan edellä 1–4 momentissa säädetyllä perusteella, koulutuksen järjestäjän on järjestettävä opiskelijalle mahdollisuus hankkia muulla tavoin henkilökohtaisen osaamisen kehittämissuunnitelman mukainen tavoitteeksi asetettu osaaminen.
 
 Jos opiskelija erotetaan määräajaksi oppilaitoksesta, opiskelijan oikeus opiskeluun pidätetään tai opiskelijan opiskeluoikeus väliaikaisesti keskeytetään 96 §:n 3 momentin nojalla, keskeytyy koulutussopimukseen perustuva koulutus vastaavaksi ajaksi.
 
 ### 77 § Työntekijöitä ja viranhaltijoita koskevan lainsäädännön soveltaminen
 
-Oppisopimukseen sovelletaan työsuhteessa tai virkasuhteessa sovellettavaa lainsäädäntöä. Jollei tässä laissa toisin säädetä, työsopimukseen perustuvaan oppisopimukseen ei kuitenkaan sovelleta työsopimuslain 1 luvun 3 ja 8 §:ää, 2 luvun 4 ja 5 §:ää, 4 luvun 4 ja 5 §:ää, 6 lukua, 7 luvun 1-5 ja 7-11 §:ää, 9 ja 10 lukua sekä 13 luvun 3 ja 4 §:ää.
+Oppisopimukseen sovelletaan työsuhteessa tai virkasuhteessa sovellettavaa lainsäädäntöä. Jollei tässä laissa toisin säädetä, työsopimukseen perustuvaan oppisopimukseen ei kuitenkaan sovelleta työsopimuslain 1 luvun 3 ja 8 §:ää, 2 luvun 4 ja 5 §:ää, 4 luvun 4 ja 5 §:ää, 6 lukua, 7 luvun 1–5 ja 7–11 §:ää, 9 ja 10 lukua sekä 13 luvun 3 ja 4 §:ää.
 
 Koulutussopimukseen perustuvassa koulutuksessa sovelletaan yhdenvertaisuuslakia (1325/2014) sekä nuorista työntekijöistä annetun lain (998/1993) säännöksiä työajasta ja työn turvallisuudesta ja terveellisyydestä. Opiskelijan työaika saa olla enintään kyseisellä työpaikalla noudatettava säännöllinen työaika. Lisäksi opiskelijan työssä sovelletaan työaikalain (872/2019) säännöksiä päivittäisistä tauoista, vuorokausilevosta, viikkolevosta sekä työvuoroluettelosta. (5.7.2019/885)
 
@@ -950,15 +951,15 @@ Laki ammatillisesta koulutuksesta 531/2017 - Ajantasainen lainsäädäntö - FIN
 
 ### 81 § Opiskeluoikeuden peruuttaminen
 
-Kun tutkintokoulutukseen tai ammatissa toimimiseen sisältyy alaikäisten turvallisuutta, potilas- tai asiakasturvallisuutta taikka liikenteen turvallisuutta koskevia vaatimuksia, koulutuksen järjestäjä voi peruuttaa oikeuden suorittaa kyseinen tutkinto tai oikeuden suorittaa tutkinto kyseisellä osaamisalalla sekä oikeuden osallistua tutkintokoulutukseen ( opiskeluoikeuden peruuttaminen ), jos: (13.7.2018/547)
+Kun tutkintokoulutukseen tai ammatissa toimimiseen sisältyy alaikäisten turvallisuutta, potilas- tai asiakasturvallisuutta taikka liikenteen turvallisuutta koskevia vaatimuksia, koulutuksen järjestäjä voi peruuttaa oikeuden suorittaa kyseinen tutkinto tai oikeuden suorittaa tutkinto kyseisellä osaamisalalla sekä oikeuden osallistua tutkintokoulutukseen (opiskeluoikeuden peruuttaminen), jos: (13.7.2018/547)
 
-- opiskelija on vaarantamalla toistuvasti tai vakavasti koulutuksessa toisen henkilön terveyden tai turvallisuuden osoittautunut ilmeisen soveltumattomaksi toimimaan koulutukseen liittyvissä käytännön tehtävissä oppilaitoksessa, työpaikalla tai muussa oppimisympäristössä;
+1) opiskelija on vaarantamalla toistuvasti tai vakavasti koulutuksessa toisen henkilön terveyden tai turvallisuuden osoittautunut ilmeisen soveltumattomaksi toimimaan koulutukseen liittyvissä käytännön tehtävissä oppilaitoksessa, työpaikalla tai muussa oppimisympäristössä;
 
-- on ilmeistä, että opiskelija ei terveydentilaltaan tai toimintakyvyltään täytä 40 §:n mukaisia opiskelijaksi ottamisen edellytyksiä; tai
+2) on ilmeistä, että opiskelija ei terveydentilaltaan tai toimintakyvyltään täytä 40 §:n mukaisia opiskelijaksi ottamisen edellytyksiä; tai
 
-- opiskelija on tutkintoa suorittamaan hakeutuessaan salannut sellaisen 41 §:n 2 momentissa tarkoitetun tiedon opiskeluoikeuden peruuttamista koskevasta päätöksestä, joka olisi voinut estää hänen ottamisensa opiskelijaksi.
+3) opiskelija on tutkintoa suorittamaan hakeutuessaan salannut sellaisen 41 §:n 2 momentissa tarkoitetun tiedon opiskeluoikeuden peruuttamista koskevasta päätöksestä, joka olisi voinut estää hänen ottamisensa opiskelijaksi.
 
-Kun koulutukseen liittyvät käytännön tehtävät oppilaitoksessa, työpaikalla tai muussa oppimisympäristössä edellyttävät olennaisesti alaikäisten parissa työskentelyä, koulutuksen järjestäjä voi peruuttaa opiskeluoikeuden, jos se on tarpeen alaikäisten suojelemiseksi ja jos opiskelija on tuomittu rangaistukseen rikoslain (39/1889) 17 luvun 18, 18 a tai 19 §:ssä, 20 luvussa, 21 luvun 1-3 tai 6 §:ssä, 31 luvun 2 §:ssä taikka 50 luvun 1, 2, 3, 4 tai 4 a §:ssä tarkoitetusta rikoksesta.
+Kun koulutukseen liittyvät käytännön tehtävät oppilaitoksessa, työpaikalla tai muussa oppimisympäristössä edellyttävät olennaisesti alaikäisten parissa työskentelyä, koulutuksen järjestäjä voi peruuttaa opiskeluoikeuden, jos se on tarpeen alaikäisten suojelemiseksi ja jos opiskelija on tuomittu rangaistukseen rikoslain (39/1889) 17 luvun 18, 18 a tai 19 §:ssä, 20 luvussa, 21 luvun 1–3 tai 6 §:ssä, 31 luvun 2 §:ssä taikka 50 luvun 1, 2, 3, 4 tai 4 a §:ssä tarkoitetusta rikoksesta.
 
 Ennen opiskeluoikeuden peruuttamista koulutuksen järjestäjän on selvitettävä yhdessä opiskelijan kanssa tämän mahdollisuus hakeutua suorittamaan muuta tutkintoa tai koulutusta.
 
@@ -974,7 +975,7 @@ Koulutuksen järjestäjällä on salassapitosäännösten estämättä oikeus sa
 
 Opiskelijan tulee koulutuksen järjestäjän pyynnöstä antaa 81 §:n 2 momentissa tarkoitettua opiskeluoikeuden arviointia varten nähtäväksi rikosrekisterilain (770/1993) 6 §:n 5 momentissa tarkoitettu ote rikosrekisteristä, jos koulutukseen liittyviin käytännön tehtäviin oppilaitoksessa, työpaikalla tai muussa oppimisympäristössä sisältyy olennaisesti alaikäisten parissa työskentelyä.
 
-Koulutuksen järjestäjällä on salassapitosäännösten estämättä velvollisuus antaa Sosiaali- ja terveysalan lupaja valvontavirastolle sille säädettyjen tehtävien hoitamiseksi välttämättömät tiedot vireillä olevasta 81 §:ssä tarkoitetusta opiskeluoikeuden peruuttamista koskevasta käsittelystä sekä opiskeluoikeuden peruuttamista koskevasta päätöksestä ja sen perusteluista .
+Koulutuksen järjestäjällä on salassapitosäännösten estämättä velvollisuus antaa Sosiaali- ja terveysalan lupa- ja valvontavirastolle sille säädettyjen tehtävien hoitamiseksi välttämättömät tiedot vireillä olevasta 81 §:ssä tarkoitetusta opiskeluoikeuden peruuttamista koskevasta käsittelystä sekä opiskeluoikeuden peruuttamista koskevasta päätöksestä ja sen perusteluista.
 
 https://finlex.fi/fi/laki/ajantasa/2017/20170531
 
@@ -992,19 +993,19 @@ Laki ammatillisesta koulutuksesta 531/2017 - Ajantasainen lainsäädäntö - FIN
 
 Se, jolta on peruutettu opiskeluoikeus 81 §:n 1 momentin 2 kohdan perusteella, voi hakea koulutuksen järjestäjältä opiskeluoikeuden palauttamista. Opiskeluoikeus tulee palauttaa, jos sitä hakeva osoittaa, ettei opiskeluoikeuden peruuttamisen aiheuttaneita syitä enää ole. Opiskeluoikeuden palauttamista hakevan tulee toimittaa koulutuksen järjestäjälle terveydentilaansa koskevat lausunnot.
 
-Koulutuksen järjestäjällä on salassapitosäännösten estämättä velvollisuus antaa Sosiaali- ja terveysalan lupaja valvontavirastolle sille säädettyjen tehtävien hoitamiseksi välttämättömät tiedot opiskeluoikeuden palauttamista koskevasta päätöksestä ja sen perusteluista.
+Koulutuksen järjestäjällä on salassapitosäännösten estämättä velvollisuus antaa Sosiaali- ja terveysalan lupa- ja valvontavirastolle sille säädettyjen tehtävien hoitamiseksi välttämättömät tiedot opiskeluoikeuden palauttamista koskevasta päätöksestä ja sen perusteluista.
 
 ### 84 § Huumausainetestaus
 
 Koulutuksen järjestäjä voi velvoittaa opiskelijan esittämään huumausainetestiä koskevan todistuksen, jos on perusteltua aihetta epäillä, että opiskelija on huumausaineiden vaikutuksen alaisena koulutukseen kuuluvissa käytännön tehtävissä oppilaitoksessa, työpaikalla tai muussa oppimisympäristössä tai että opiskelijalla on riippuvuus huumeista. Edellytyksenä on lisäksi, että testaaminen on välttämätöntä opiskelijan toimintakyvyn selvittämiseksi ja opiskelija toimii sellaisissa tehtävissä, jotka edellyttävät erityistä tarkkuutta, luotettavuutta, itsenäistä harkintakykyä tai hyvää reagointikykyä ja jossa huumeiden vaikutuksen alaisena tai huumeista riippuvaisena toimiminen:
 
-- vakavasti vaarantaa opiskelijan itsensä tai toisen henkeä tai terveyttä;
+1) vakavasti vaarantaa opiskelijan itsensä tai toisen henkeä tai terveyttä;
 
-- vakavasti vaarantaa liikenteen turvallisuutta;
+2) vakavasti vaarantaa liikenteen turvallisuutta;
 
-- vakavasti vaarantaa salassapitosäännöksin suojattujen tietojen suojaa tai eheyttä; tai
+3) vakavasti vaarantaa salassapitosäännöksin suojattujen tietojen suojaa tai eheyttä; tai
 
-- merkittävästi lisää koulutuksen järjestäjän, 70 §:ssä tarkoitetun työnantajan tai 71 §:ssä tarkoitetun koulutussopimustyöpaikan tarjoajan hallussa olevien huumausainelain (373/2008) 3 §:n 1 momentin 5 kohdassa tarkoitettujen aineiden laittoman kaupan ja leviämisen riskiä.
+4) merkittävästi lisää koulutuksen järjestäjän, 70 §:ssä tarkoitetun työnantajan tai 71 §:ssä tarkoitetun koulutussopimustyöpaikan tarjoajan hallussa olevien huumausainelain (373/2008) 3 §:n 1 momentin 5 kohdassa tarkoitettujen aineiden laittoman kaupan ja leviämisen riskiä.
 
 Huumausainetestiä koskevalla todistuksella tarkoitetaan koulutuksen järjestäjän osoittaman laillistetun terveydenhuollon ammattihenkilön antamaa todistusta, josta ilmenee, että opiskelijalle on tehty testi huumausainelain 3 §:n 1 momentin 5 kohdassa tarkoitetun huumausaineen käytön selvittämiseksi, sekä testin perusteella laadittu selvitys siitä, onko opiskelija käyttänyt huumausaineita muihin kuin lääkinnällisiin tarkoituksiin siten, että hänen toimintakykynsä on heikentynyt. Todistus on esitettävä koulutuksen järjestäjän määräämässä kohtuullisessa ajassa. Huumausainetestiä koskevan todistuksen vaatimisesta on ilmoitettava opiskelijan huoltajalle.
 
@@ -1018,11 +1019,11 @@ Opiskelijalle tehtävään huumausainetestaukseen sovelletaan muutoin, mitä ty�
 
 Opiskelijalle voidaan antaa kirjallinen varoitus, jos hän:
 
-- häiritsee opetusta;
+1) häiritsee opetusta;
 
-- käyttäytyy väkivaltaisesti tai uhkaavasti opiskeluympäristössä;
+2) käyttäytyy väkivaltaisesti tai uhkaavasti opiskeluympäristössä;
 
-- menettelee vilpillisesti tai muuten rikkoo oppilaitoksen tai muun opiskeluympäristön järjestystä;
+3) menettelee vilpillisesti tai muuten rikkoo oppilaitoksen tai muun opiskeluympäristön järjestystä;
 
 https://finlex.fi/fi/laki/ajantasa/2017/20170531
 
@@ -1036,9 +1037,9 @@ https://finlex.fi/fi/laki/ajantasa/2017/20170531
 
 Laki ammatillisesta koulutuksesta 531/2017 - Ajantasainen lainsäädäntö - FINLEX ®
 
-- kieltäytyy 84 §:ssä tarkoitetun huumausainetestiä koskevan todistuksen esittämisestä; taikka
+4) kieltäytyy 84 §:ssä tarkoitetun huumausainetestiä koskevan todistuksen esittämisestä; taikka
 
-- on 84 §:ssä tarkoitetun selvityksen perusteella käyttänyt huumausaineita muihin kuin lääkinnällisiin tarkoituksiin siten, että hänen toimintakykynsä on heikentynyt.
+5) on 84 §:ssä tarkoitetun selvityksen perusteella käyttänyt huumausaineita muihin kuin lääkinnällisiin tarkoituksiin siten, että hänen toimintakykynsä on heikentynyt.
 
 Jos teko tai laiminlyönti on vakava tai jos opiskelija jatkaa 1 momentissa tarkoitettua käyttäytymistä kirjallisen varoituksen saatuaan, hänet voidaan erottaa oppilaitoksesta määräajaksi, enintään yhdeksi vuodeksi.
 
@@ -1082,7 +1083,7 @@ Laki ammatillisesta koulutuksesta 531/2017 - Ajantasainen lainsäädäntö - FIN
 
 Jos tuomioistuin on vapauttanut opiskelijan syytteestä, ei kurinpitomenettelyä saa aloittaa tai jatkaa samasta syystä muutoin kuin sellaisen menettelyn perusteella, jota ei ole katsottava rikokseksi, mutta josta voidaan rangaista kurinpidollisesti.
 
-Jos tuomioistuin on tuominnut opiskelijan rangaistukseen, ei hänelle saa samasta syystä määrätä kurinpitorangaistusta. Opiskelija saadaan kuitenkin erottaa oppilaitoksesta määräajaksi tai erottaa opiskelijaasuntolasta määräajaksi tai jäljellä olevien opintojen ajaksi, jos se opiskelijan tekemän rikoksen tai siihen liittyvien seikkojen perusteella on perusteltua.
+Jos tuomioistuin on tuominnut opiskelijan rangaistukseen, ei hänelle saa samasta syystä määrätä kurinpitorangaistusta. Opiskelija saadaan kuitenkin erottaa oppilaitoksesta määräajaksi tai erottaa opiskelija-asuntolasta määräajaksi tai jäljellä olevien opintojen ajaksi, jos se opiskelijan tekemän rikoksen tai siihen liittyvien seikkojen perusteella on perusteltua.
 
 ### 89 § Oikeus ottaa haltuun esineitä tai aineita
 
@@ -1146,7 +1147,7 @@ Kurinpitorangaistuksista, opiskeluoikeuden peruuttamisesta ja opiskeluoikeuden p
 
 Samalla kun opiskeluoikeuden peruuttamisesta, määräaikaisesta erottamisesta, asuntolasta erottamisesta tai opiskeluoikeuden pidättämisestä päätetään, on päätettävä päätöksen täytäntöönpanosta lainvoimaa vailla olevana ja täytäntöönpanon alkamisen ajankohdasta.
 
-
+## 10 luku
 https://finlex.fi/fi/laki/ajantasa/2017/20170531
 
 26/41
@@ -1159,7 +1160,7 @@ https://finlex.fi/fi/laki/ajantasa/2017/20170531
 
 Laki ammatillisesta koulutuksesta 531/2017 - Ajantasainen lainsäädäntö - FINLEX ®
 
-## 10 luku Opiskelijan muut oikeudet ja velvollisuudet
+## Opiskelijan muut oikeudet ja velvollisuudet
 ### 94 § Opiskelijan velvollisuudet
 
 Opiskelijan tulee osallistua henkilökohtaisen osaamisen kehittämissuunnitelman mukaisesti opetukseen sekä näyttöihin ja muuhun osaamisen osoittamiseen, jollei hänen poissaololleen ole perusteltua syytä. Työvoimakoulutuksessa sovelletaan lisäksi, mitä julkisesta työvoima- ja yrityspalvelusta annetun lain 5 luvun 4 §:n 2 momentissa säädetään opiskelijan osallistumisesta opetukseen ja opintojen etenemisestä.
@@ -1182,7 +1183,7 @@ Opiskelijalla on oikeus väliaikaisesti keskeyttää opiskeluoikeutensa siksi aj
 
 ### 97 § Opiskelijan eronneeksi katsominen
 
-Opiskelija katsotaan eronneeksi, jos on ilmeisestä, että hänen tarkoituksenaan ei ole osallistua henkilökohtaisen osaamisen kehittämissuunnitelman mukaiseen opetukseen ja näyttöihin tai muuhun osaamisen osoittamiseen eikä hän ole esittänyt poissaololleen perusteltua syytä tai hän ei ole suorittanut valmentavaa koulutusta 11 §:ssä säädetyssä ajassa. Koulutuksen järjestäjän on tehtävä asiassa päätös, jossa opiskelija katsotaan eronneeksi.
+Opiskelija katsotaan eronneeksi, jos on ilmeistä, että hänen tarkoituksenaan ei ole osallistua henkilökohtaisen osaamisen kehittämissuunnitelman mukaiseen opetukseen ja näyttöihin tai muuhun osaamisen osoittamiseen eikä hän ole esittänyt poissaololleen perusteltua syytä tai hän ei ole suorittanut valmentavaa koulutusta 11 §:ssä säädetyssä ajassa. Koulutuksen järjestäjän on tehtävä asiassa päätös, jossa opiskelija katsotaan eronneeksi.
 
 Opiskelija katsotaan eronneeksi myös silloin, kun hän itse ilmoittaa koulutuksen järjestäjälle kirjallisesti eroamisestaan. Tällöin opiskelija katsotaan eronneeksi siitä päivästä lukien, kun ilmoitus saapuu koulutuksen järjestäjälle.
 
@@ -1230,7 +1231,7 @@ Oppisopimuskoulutuksessa koulutuksen järjestäjä maksaa opiskelijalle hakemuks
 
 Opiskelijalla on oikeus saada korvausta majoittumiskustannuksista, jos koulutuksen järjestäjän oppimisympäristöissä tapahtuva osaamisen hankkiminen järjestetään opiskelijan kotikuntalain (201/1994) mukaisen kotikunnan tai oppisopimustyöpaikan sijaintikunnan ulkopuolella, eikä opiskelijalla ole oikeutta maksuttomaan asumiseen 103 §:ssä tarkoitetussa asuntolassa.
 
-Opiskelijalla on oikeus saada korvausta matkakustannuksista, jos koulutuksen järjestäjän oppimisympäristöissä tapahtuva osaamisen hankkiminen edellyttää opiskelijan matkustamista yhteen suuntaan yli 10 kilometriä opiskelijan kotoa tai oppisopimustyöpaikalta opetuspaikalle. Opiskelijalla on oikeus matkakorvaukseen yhdeltä edestakaiselta matkalta viikossa. Erityisestä syystä matkakorvaus voidaan maksaa päivittäin, jos opiskelija majoittuu kotonaan. Jos opiskelijalle korvataan päivittäiset matkakustannukset, hänellä ei ole oikeutta majoituskorvaukseen. Matkakorvaus maksetaan vain kotimaassa tapahtuvasta matkasta sekä halvimman matkustustavan mukaan opetuspaikan ja kodin tai oppisopimustyöpaikan välillä tosiasiallisen lähtö- ja paluupaikan mukaan.
+Opiskelijalla on oikeus saada korvausta matkakustannuksista, jos koulutuksen järjestäjän oppimisympäristöissä tapahtuva osaamisen hankkiminen edellyttää opiskelijan matkustamista yhteen suuntaan yli 10 kilometriä opiskelijan kotoa tai oppisopimustyöpaikalta opetuspaikalle. Opiskelijalla on
 
 https://finlex.fi/fi/laki/ajantasa/2017/20170531
 
@@ -1243,6 +1244,8 @@ https://finlex.fi/fi/laki/ajantasa/2017/20170531
 2/28/2020
 
 Laki ammatillisesta koulutuksesta 531/2017 - Ajantasainen lainsäädäntö - FINLEX ®
+
+oikeus matkakorvaukseen yhdeltä edestakaiselta matkalta viikossa. Erityisestä syystä matkakorvaus voidaan maksaa päivittäin, jos opiskelija majoittuu kotonaan. Jos opiskelijalle korvataan päivittäiset matkakustannukset, hänellä ei ole oikeutta majoituskorvaukseen. Matkakorvaus maksetaan vain kotimaassa tapahtuvasta matkasta sekä halvimman matkustustavan mukaan opetuspaikan ja kodin tai oppisopimustyöpaikan välillä tosiasiallisen lähtö- ja paluupaikan mukaan.
 
 Opiskelijalla on oikeus saada tässä pykälässä tarkoitetut etuudet myös osallistuessaan näyttöön tai muuhun osaamisen osoittamiseen.
 
@@ -1262,11 +1265,11 @@ Koulutuksen järjestäjä päättää asuntolapaikan myöntämisen perusteista. 
 
 Asuntolapaikka myönnetään määräajaksi, kuitenkin enintään opintojen keston ajalle. Oikeus asuntolapaikkaan päättyy kuitenkin, jos:
 
-- opiskelija on suorittanut tutkinnon tai valmentavan koulutuksen tai saavuttanut muun hänelle henkilökohtaisessa osaamisen kehittämissuunnitelmassa tavoitteeksi asetetun osaamisen ennen määräajan päättymistä;
+1) opiskelija on suorittanut tutkinnon tai valmentavan koulutuksen tai saavuttanut muun hänelle henkilökohtaisessa osaamisen kehittämissuunnitelmassa tavoitteeksi asetetun osaamisen ennen määräajan päättymistä;
 
-- opiskelija on katsottu 97 §:n perusteella eronneeksi;
+2) opiskelija on katsottu 97 §:n perusteella eronneeksi;
 
-- opiskelijan opiskeluoikeus peruutetaan.
+3) opiskelijan opiskeluoikeus peruutetaan.
 
 Jos opiskelija erotetaan määräajaksi oppilaitoksesta 85 §:n 2 momentin tai 88 §:n 3 momentin nojalla, tai hänen osallistumisensa opetukseen evätään 85 §:n 4 momentin nojalla tai häneltä pidätetään oikeus opiskeluun 85 §:n 5 momentin nojalla taikka opiskelijan opiskeluoikeus väliaikaisesti keskeytetään 96 §:n 3 momentin nojalla, koulutuksen järjestäjä voi päättää, että opiskelijan oikeus asuntolapaikkaan keskeytyy vastaavaksi ajaksi.
 
@@ -1274,7 +1277,7 @@ Mitä 103 §:n 2 momentissa ja tämän pykälän 1 momentissa säädetään, ei 
 
 ### 105 § Opiskelijoilta perittävät maksut
 
-Tässä laissa tarkoitettu ammatillinen perustutkintokoulutus ja valmentava koulutus ovat opiskelijalle maksuttomia. Lisäksi opiskelijaksi ottamisessa käytettävät pääsy- ja soveltuvuuskokeet ovat hakijalle maksuttomia. Oppimateriaaleista ja tarvikkeista, jotka koulutuksen päätyttyä jäävät opiskelijalle, voidaan kuitenkin periä maksu.
+Tässä laissa tarkoitettu ammatillinen perustutkintokoulutus ja valmentava koulutus ovat opiskelijalle maksuttomia. Lisäksi opiskelijaksi ottamisessa käytettävät pääsy- ja soveltuvuuskokeet ovat hakijalle
 
 https://finlex.fi/fi/laki/ajantasa/2017/20170531
 
@@ -1288,11 +1291,13 @@ https://finlex.fi/fi/laki/ajantasa/2017/20170531
 
 Laki ammatillisesta koulutuksesta 531/2017 - Ajantasainen lainsäädäntö - FINLEX ®
 
+maksuttomia. Oppimateriaaleista ja tarvikkeista, jotka koulutuksen päätyttyä jäävät opiskelijalle, voidaan kuitenkin periä maksu.
+
 Ammattitutkinto- ja erikoisammattitutkintokoulutuksessa sekä 8 §:ssä tarkoitetussa muussa ammatillisessa koulutuksessa koulutuksen järjestäjä voi periä opiskelijalta kohtuullisen opiskelumaksun, jolla katetaan osittain koulutuksen järjestämisestä aiheutuvia kustannuksia.
 
 Edellä 1 ja 2 momentissa tarkoitettuja maksuja ei voida periä työvoimakoulutuksessa eikä henkilöstökoulutuksessa.
 
-Henkilöltä voidaan periä maksu hyväksytyn arvosanan korottamisesta, jos hän haluaa korottaa 57 §:ssä tarkoitettuun tutkinnon suorittamisesta annettuun todistukseen tai 58 §:ssä tarkoitettuun valmentavan koulutuksen suorittamisesta annettuun todistuksen merkittyä arvosanaa.
+Henkilöltä voidaan periä maksu hyväksytyn arvosanan korottamisesta, jos hän haluaa korottaa 57 §:ssä tarkoitettuun tutkinnon suorittamisesta annettuun todistukseen tai 58 §:ssä tarkoitettuun valmentavan koulutuksen suorittamisesta annettuun todistukseen merkittyä arvosanaa.
 
 Koulutuksen järjestäjällä on harkintansa mukaan mahdollisuus jättää 2 ja 4 momentissa tarkoitettu maksu perimättä tai alentaa sitä opiskelijan vähävaraisuuden perusteella.
 
@@ -1319,7 +1324,7 @@ Tutkintokoulutuksen opiskelijan rikosrekisteriotetta koskevaa 82 §:n mukaista t
 
 Koulutuksen järjestäjän tulee määritellä ne tehtävät, joihin sisältyy arkaluonteisten tietojen käsittelyä.
 
-Koulutuksen järjestäjän on säilytettävä arkaluonteiset tiedot erillään muista henkilötiedoista. Arkaluonteiset tiedot tulee poistaa rekisteristä välittömästi, kun niiden säilyttämiselle ei ole enää lakisääteisten tehtävien edellyttämää perustetta, kuitenkin viimeistään neljän vuoden kuluttua tietojen merkitsemisestä rekisteriin.
+Koulutuksen järjestäjän on säilytettävä arkaluonteiset tiedot erillään muista henkilötiedoista. Arkaluonteiset tiedot tulee poistaa rekisteristä välittömästi, kun niiden säilyttämiselle ei ole enää lakisääteisten tehtävien
 
 https://finlex.fi/fi/laki/ajantasa/2017/20170531
 
@@ -1332,6 +1337,8 @@ https://finlex.fi/fi/laki/ajantasa/2017/20170531
 2/28/2020
 
 Laki ammatillisesta koulutuksesta 531/2017 - Ajantasainen lainsäädäntö - FINLEX ®
+
+edellyttämää perustetta, kuitenkin viimeistään neljän vuoden kuluttua tietojen merkitsemisestä rekisteriin.
 
 Henkilötietojen käsittelyyn sovelletaan henkilötietolakia (523/1999), jollei tässä laissa toisin säädetä.
 
@@ -1357,15 +1364,15 @@ Koulutuksen järjestäjällä on salassapitosäännösten estämättä velvollis
 
 Opiskelijan terveydentilaa ja toimintakykyä koskevia ja tehtävien hoidon kannalta välttämättömiä tietoja on tiedon haltijalla salassapitosäännösten estämättä oikeus antaa:
 
-- oppilaitoksen rehtorille tai johtajalle ja oppilaitoksen turvallisuudesta vastaavalle muulle henkilölle opiskelun turvallisuuden varmistamiseksi;
+1) oppilaitoksen rehtorille tai johtajalle ja oppilaitoksen turvallisuudesta vastaavalle muulle henkilölle opiskelun turvallisuuden varmistamiseksi;
 
-- opinto-ohjauksesta vastaaville henkilöille muihin opintoihin ja tukipalveluihin ohjaamista varten;
+2) opinto-ohjauksesta vastaaville henkilöille muihin opintoihin ja tukipalveluihin ohjaamista varten;
 
-- opiskeluterveydenhuollosta vastaaville henkilöille opiskelijan terveyden ja turvallisuuden varmistamiseksi ja tarvittaviin tukitoimiin ohjaamista varten;
+3) opiskeluterveydenhuollosta vastaaville henkilöille opiskelijan terveyden ja turvallisuuden varmistamiseksi ja tarvittaviin tukitoimiin ohjaamista varten;
 
-- työpaikalla järjestettävästä koulutuksesta vastaaville henkilöille opiskelijan sekä työpaikan henkilöstön ja asiakkaiden turvallisuuden varmistamiseksi; sekä
+4) työpaikalla järjestettävästä koulutuksesta vastaaville henkilöille opiskelijan sekä työpaikan henkilöstön ja asiakkaiden turvallisuuden varmistamiseksi; sekä
 
-- poliisille ja koulutuksen järjestäjän edustajalle, joka on ensisijaisessa vastuussa turvallisuusuhan selvittämisestä, välittömän turvallisuusuhan arvioimiseksi tai jos opiskelijan todetaan terveydentilan arvioinnissa olevan vaaraksi muiden turvallisuudelle.
+5) poliisille ja koulutuksen järjestäjän edustajalle, joka on ensisijaisessa vastuussa turvallisuusuhan selvittämisestä, välittömän turvallisuusuhan arvioimiseksi tai jos opiskelijan todetaan terveydentilan arvioinnissa olevan vaaraksi muiden turvallisuudelle.
 
 https://finlex.fi/fi/laki/ajantasa/2017/20170531
 
@@ -1391,7 +1398,7 @@ Työelämän edustajalla, joka toimii osaamisen arvioijana 53 §:ssä tarkoitetu
 
 Henkilö, jonka osaamisen kehittämissuunnitelmaa koskevia tietoja on tallennettu 1 momentissa tarkoitettuun tietovarantoon, voi antaa yksilöidyn suostumuksensa tietovarannossa olevan tiedon luovuttamiseen viranomaiselle tai muulle taholle sekä peruuttaa antamansa suostumuksen. Tieto yksilön suostumuksesta tallennetaan 1 momentissa tarkoitettuun tietovarantoon. Tietoja luovutetaan henkilön antaman suostumuksen nojalla teknisen rajapinnan avulla tai muussa sähköisessä muodossa.
 
-Tietojen luovutuksesta 1-4 momentissa tarkoitetuissa tilanteissa vastaa opiskeluoikeuden voimassaolon aikana suunnitelman laatinut koulutuksen järjestäjä ja opiskeluoikeuden päätyttyä Opetushallitus.
+Tietojen luovutuksesta 1–4 momentissa tarkoitetuissa tilanteissa vastaa opiskeluoikeuden voimassaolon aikana suunnitelman laatinut koulutuksen järjestäjä ja opiskeluoikeuden päätyttyä Opetushallitus.
 
 ### 110 § Tiedonsiirto teknistä käyttöyhteyttä hyväksikäyttäen
 
@@ -1402,15 +1409,15 @@ Tässä laissa tarkoitettuihin rekistereihin sisältyviä tietoja voidaan luovut
 
 Tässä laissa tarkoitettuun koulutuksen järjestäjän päätökseen saa vaatia oikaisua aluehallintovirastolta siten kuin hallintolaissa säädetään, jollei jäljempänä toisin säädetä, jos päätös koskee:
 
-- 11 §:ssä tarkoitettua valmentavan koulutuksen suoritusaikaa;
+1) 11 §:ssä tarkoitettua valmentavan koulutuksen suoritusaikaa;
 
-- 43 §:ssä tarkoitettua opiskelijaksi ottamista;
+2) 43 §:ssä tarkoitettua opiskelijaksi ottamista;
 
-- 64 §:ssä tarkoitettua erityistä tukea tai 64 §:n 2 momentissa tarkoitettua osaamisen arvioinnin mukauttamista;
+3) 64 §:ssä tarkoitettua erityistä tukea tai 64 §:n 2 momentissa tarkoitettua osaamisen arvioinnin mukauttamista;
 
-- 66 §:ssä tarkoitettua ammattitaitovaatimuksista tai osaamistavoitteista poikkeamista;
+4) 66 §:ssä tarkoitettua ammattitaitovaatimuksista tai osaamistavoitteista poikkeamista;
 
-- 84 §:ssä tarkoitettua huumausainetestiä koskevan todistuksen esittämisvelvollisuutta;
+5) 84 §:ssä tarkoitettua huumausainetestiä koskevan todistuksen esittämisvelvollisuutta;
 
 https://finlex.fi/fi/laki/ajantasa/2017/20170531
 
@@ -1424,29 +1431,29 @@ https://finlex.fi/fi/laki/ajantasa/2017/20170531
 
 Laki ammatillisesta koulutuksesta 531/2017 - Ajantasainen lainsäädäntö - FINLEX ®
 
-- 96 §:ssä tarkoitettua opiskelijan oikeutta väliaikaisesti keskeyttää opintonsa;
+6) 96 §:ssä tarkoitettua opiskelijan oikeutta väliaikaisesti keskeyttää opintonsa;
 
-- 97 §:ssä tarkoitettua opiskelijan katsomista eronneeksi.
+7) 97 §:ssä tarkoitettua opiskelijan katsomista eronneeksi.
 
 ### 112 § Muutoksenhaku hallinto-oikeuteen
 
-Tässä laissa tarkoitettuun koulutuksen järjestäjän päätökseen saa hakea muutosta valittamalla hallintooikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään, jollei jäljempänä toisin säädetä, jos päätös koskee:
+Tässä laissa tarkoitettuun koulutuksen järjestäjän päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään, jollei jäljempänä toisin säädetä, jos päätös koskee:
 
-- 85 tai 86 §:ssä tarkoitettua opiskelijalle annettavaa kirjallista varoitusta;
+1) 85 tai 86 §:ssä tarkoitettua opiskelijalle annettavaa kirjallista varoitusta;
 
-- 85 §:ssä tarkoitettua opiskelijan määräaikaista erottamista oppilaitoksesta;
+2) 85 §:ssä tarkoitettua opiskelijan määräaikaista erottamista oppilaitoksesta;
 
-- 85 §:ssä tarkoitettua opiskeluoikeuden pidättämistä;
+3) 85 §:ssä tarkoitettua opiskeluoikeuden pidättämistä;
 
-- 86 §:ssä tarkoitettua asuntolasta erottamista;
+4) 86 §:ssä tarkoitettua asuntolasta erottamista;
 
-- 100 §:ssä tarkoitettua oikeutta maksuttomaan ruokailuun;
+5) 100 §:ssä tarkoitettua oikeutta maksuttomaan ruokailuun;
 
-- 101 §:ssä tarkoitettuja erityistä tukea saavan opiskelijan opintososiaalisia etuuksia;
+6) 101 §:ssä tarkoitettuja erityistä tukea saavan opiskelijan opintososiaalisia etuuksia;
 
-- 102 §:ssä tarkoitettuja oppisopimuskoulutuksessa olevan opiskelijan opintososiaalisia etuuksia;
+7) 102 §:ssä tarkoitettuja oppisopimuskoulutuksessa olevan opiskelijan opintososiaalisia etuuksia;
 
-- 104 §:ssä tarkoitettua oikeutta asuntolapaikkaan.
+8) 104 §:ssä tarkoitettua oikeutta asuntolapaikkaan.
 
 Edellä 111 §:ssä tarkoitettuun oikaisuvaatimukseen annettuun päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa säädetään, jollei jäljempänä toisin säädetä.
 
@@ -1466,7 +1473,7 @@ Opiskelijan määräaikaista erottamista, asuntolasta erottamista, opiskeluoikeu
 
 ### 116 § Valituskiellot
 
-Henkilökohtaisessa osaamisen kehittämissuunnitelmassa suunnitellussa osaamisen hankkimiseen liittyvässä asiassa ei saa hakea muutosta valittamalla siltä osin, kun asia koskee opintojen suoritusajankohtaa tai paikkaa. Muutosta ei saa hakea myöskään asiassa, joka koskee opiskelijan yksilöllisiä valinnanmahdollisuuksia eikä 85 §:n 3 ja 4 momentissa tarkoitetussa asiassa. Hallinto-oikeuden päätökseen, jolla on ratkaistu 111 §:ssä tarkoitettua asiaa koskeva valitus, ei saa hakea muutosta valittamalla. Muutosta ei saa hakea valittamalla myöskään 55 §:ssä tarkoitettuun oikaisuvaatimuksesta annettuun työelämätoimikunnan tai rehtorin päätökseen.
+Henkilökohtaisessa osaamisen kehittämissuunnitelmassa suunnitellussa osaamisen hankkimiseen liittyvässä asiassa ei saa hakea muutosta valittamalla siltä osin, kun asia koskee opintojen suoritusajankohtaa tai -
 
 https://finlex.fi/fi/laki/ajantasa/2017/20170531
 
@@ -1479,6 +1486,8 @@ https://finlex.fi/fi/laki/ajantasa/2017/20170531
 2/28/2020
 
 Laki ammatillisesta koulutuksesta 531/2017 - Ajantasainen lainsäädäntö - FINLEX ®
+
+paikkaa. Muutosta ei saa hakea myöskään asiassa, joka koskee opiskelijan yksilöllisiä valinnanmahdollisuuksia eikä 85 §:n 3 ja 4 momentissa tarkoitetussa asiassa. Hallinto-oikeuden päätökseen, jolla on ratkaistu 111 §:ssä tarkoitettua asiaa koskeva valitus, ei saa hakea muutosta valittamalla. Muutosta ei saa hakea valittamalla myöskään 55 §:ssä tarkoitettuun oikaisuvaatimuksesta annettuun työelämätoimikunnan tai rehtorin päätökseen.
 
 ### 117 § Valituslupa
 
@@ -1497,7 +1506,7 @@ Rehtorin ja opettajien kelpoisuusvaatimuksista säädetään valtioneuvoston ase
 
 Opetushallitus asettaa työelämätoimikunnat enintään kolmeksi vuodeksi kerrallaan ja nimittää työelämätoimikuntiin enintään yhdeksän jäsentä kuhunkin. Jäsenten tulee edustaa työnantajia, työntekijöitä, opetusalaa ja, jos itsenäinen ammatin harjoittaminen on alalla laajuudeltaan merkittävää, itsenäisiä ammatinharjoittajia. Lisäksi Opetushallitus voi työelämätoimikunnan esityksestä nimittää toimikuntaan pysyviä asiantuntijoita. Opetushallitus päättää työelämätoimikuntien jäsenten palkkiot ja huolehtii toimikuntien maksuliikenteestä, kirjanpidosta ja arkistosta.
 
-Työelämätoimikuntien jäsenet toimivat virkavastuulla. Työelämätoimikuntien jäsenten esteellisyyteen sovelletaan, mitä hallintolain 27-29 §:ssä säädetään.
+Työelämätoimikuntien jäsenet toimivat virkavastuulla. Työelämätoimikuntien jäsenten esteellisyyteen sovelletaan, mitä hallintolain 27–29 §:ssä säädetään.
 
 Valtioneuvoston asetuksella voidaan säätää tarkemmin työelämätoimikuntien asettamisesta, kokoonpanosta ja päätöksenteosta.
 
@@ -1523,15 +1532,15 @@ Laki ammatillisesta koulutuksesta 531/2017 - Ajantasainen lainsäädäntö - FIN
 
 2) osallistua ammatillisen koulutuksen tutkintorakenteen sekä ammatillisten tutkintojen ja niiden perusteiden kehittämiseen yhteistyössä opetus- ja kulttuuriministeriön ja Opetushallituksen kanssa; ja
 
-- käsitellä 55 §:ssä tarkoitetut tutkintokoulutuksen opiskelijan osaamisen arviointia koskevat oikaisupyynnöt.
+3) käsitellä 55 §:ssä tarkoitetut tutkintokoulutuksen opiskelijan osaamisen arviointia koskevat oikaisupyynnöt.
 
 Opetushallitus määrää päättämiensä työelämätoimikuntien tehtäviksi 2 momentissa tarkoitettujen tehtävien lisäksi tai tutkintokohtaisesta työnjaosta poiketen:
 
-- vastata kuorma- ja linja-auton kuljettajien ammattipätevyydestä annetun lain 15 §:ssä tarkoitetun kokeen järjestämisestä ja valvonnasta sekä mainitun lain 5 §:n 3 momentissa tarkoitetun todistuksen antamisesta;
+1) vastata kuorma- ja linja-auton kuljettajien ammattipätevyydestä annetun lain 15 §:ssä tarkoitetun kokeen järjestämisestä ja valvonnasta sekä mainitun lain 5 §:n 3 momentissa tarkoitetun todistuksen antamisesta;
 
-- käsitellä tämän lain 55 §:ssä tarkoitetut tutkintokoulutuksen opiskelijan osaamisen arviointia koskevat oikaisupyynnöt, kun ne koskevat 13 §:n 2 momentissa tarkoitettuja yhteisiä tutkinnon osia tai niiden osaalueita; ja
+2) käsitellä tämän lain 55 §:ssä tarkoitetut tutkintokoulutuksen opiskelijan osaamisen arviointia koskevat oikaisupyynnöt, kun ne koskevat 13 §:n 2 momentissa tarkoitettuja yhteisiä tutkinnon osia tai niiden osa-alueita; ja
 
-- käsitellä tämän lain 55 §:ssä tarkoitetut tutkintokoulutuksen opiskelijan osaamisen arviointia koskevat oikaisupyynnöt, kun ne koskevat sellaisia tutkinnon osia, jotka voivat tutkinnon perusteiden mukaisesti kuulua useaan eri tutkintoon ja opiskelija suorittaa vain tutkinnon osan tai osia.
+3) käsitellä tämän lain 55 §:ssä tarkoitetut tutkintokoulutuksen opiskelijan osaamisen arviointia koskevat oikaisupyynnöt, kun ne koskevat sellaisia tutkinnon osia, jotka voivat tutkinnon perusteiden mukaisesti kuulua useaan eri tutkintoon ja opiskelija suorittaa vain tutkinnon osan tai osia.
 
 Valtioneuvoston asetuksella voidaan säätää tarkemmin työelämätoimikuntien tehtävistä.
 
@@ -1553,7 +1562,7 @@ Tiedotettavista asioista voidaan säätää tarkemmin valtioneuvoston asetuksell
 
 ### 124 § Koulutuksen järjestäjien yhteistyövelvoite
 
-Koulutuksen järjestäjien tulee tehdä yhteistyötä alueen työ- ja elinkeinoelämän, muiden ammatillisen koulutuksen järjestäjien, lukiokoulutuksen järjestäjien, korkeakoulujen ja perusopetuksen järjestäjien sekä nuorisotyötä tekevien julkisten tahojen ja yksityisten yhteisöjen ja säätiöiden kanssa. Lisäksi koulutuksen järjestäjien tulee tehdä yhteistyötä niiden työelämätoimikuntien kanssa, joiden toimialaan koulutuksen järjestäjän järjestämät tutkinnot kuuluvat.
+Koulutuksen järjestäjien tulee tehdä yhteistyötä alueen työ- ja elinkeinoelämän, muiden ammatillisen koulutuksen järjestäjien, lukiokoulutuksen järjestäjien, korkeakoulujen ja perusopetuksen järjestäjien sekä nuorisotyötä tekevien julkisten tahojen ja yksityisten yhteisöjen ja säätiöiden kanssa. Lisäksi koulutuksen
 
 https://finlex.fi/fi/laki/ajantasa/2017/20170531
 
@@ -1567,9 +1576,11 @@ https://finlex.fi/fi/laki/ajantasa/2017/20170531
 
 Laki ammatillisesta koulutuksesta 531/2017 - Ajantasainen lainsäädäntö - FINLEX ®
 
+järjestäjien tulee tehdä yhteistyötä niiden työelämätoimikuntien kanssa, joiden toimialaan koulutuksen järjestäjän järjestämät tutkinnot kuuluvat.
+
 Koulutusta järjestettäessä tulee olla yhteistyössä alle 18-vuotiaiden opiskelijoiden huoltajien kanssa.
 
-Työvoimakoulutuksen tarjontaa suunniteltaessa koulutuksen järjestäjän on tehtävä yhteistyötä työ- ja elinkeinotoimiston sekä elinkeino- liikenne- ja ympäristökeskuksen kanssa. Koulutuksen järjestäjän, joka järjestää järjestämisluvassaan määrätyllä tavalla työvoimakoulutusta, tulee osallistua elinkeino-, liikenne- ja ympäristökeskuksen kutsusta työvoimakoulutuksen tarjonnan suunnittelua koskevaan keskusteluun.
+Työvoimakoulutuksen tarjontaa suunniteltaessa koulutuksen järjestäjän on tehtävä yhteistyötä työ- ja elinkeinotoimiston sekä elinkeino-, liikenne- ja ympäristökeskuksen kanssa. Koulutuksen järjestäjän, joka järjestää järjestämisluvassaan määrätyllä tavalla työvoimakoulutusta, tulee osallistua elinkeino-, liikenne- ja ympäristökeskuksen kutsusta työvoimakoulutuksen tarjonnan suunnittelua koskevaan keskusteluun.
 
 ### 125 § Osaamistarpeiden ennakointi
 
@@ -1592,7 +1603,7 @@ Tässä laissa tarkoitettua toimintaa varten myönnettävästä rahoituksesta s�
 
 Tämä laki tulee voimaan 1 päivänä tammikuuta 2018.
 
-Tällä lailla kumotaan ammatillisesta peruskoulutuksesta annettu laki (630/1998) ja ammatillisesta aikuiskoulutuksesta annettu laki (631/1998), jäljempänä kumotut lait . Muualla lainsäädännössä olevalla viittauksella kumottuihin lakeihin tarkoitetaan tämän lain voimaantulon jälkeen viittausta tähän lakiin.
+Tällä lailla kumotaan ammatillisesta peruskoulutuksesta annettu laki (630/1998) ja ammatillisesta aikuiskoulutuksesta annettu laki (631/1998), jäljempänä kumotut lait. Muualla lainsäädännössä olevalla viittauksella kumottuihin lakeihin tarkoitetaan tämän lain voimaantulon jälkeen viittausta tähän lakiin.
 
 Lain 2 luvun säännöksiä tutkintorakenteesta sekä tutkintojen ja niiden osien mitoitusperusteista, laajuudesta, muodostumisesta ja tutkinnon perusteista sovelletaan tämän lain voimaan tulon jälkeen voimaan tuleviin tutkinnon perusteisiin.
 
@@ -1601,7 +1612,6 @@ Ammatillisten perustutkintojen perusteet tulevat voimaan 1 päivänä elokuuta 2
 Opetushallituksen tulee tutkintojen perusteet määrätessään huolehtia siitä, että koulutuksen järjestäjille jää riittävästi aikaa ottaa ne käyttöön 4 momentissa säädettyinä ajankohtina.
 
 ### 129 § Tutkintojen perusteita koskevat siirtymäsäännökset
-Tämän lain voimaantulon jälkeen koulutuksen järjestäjä voi ottaa opiskelijan suorittamaan tutkintoa kumottujen lakien nojalla määrättyjen tutkinnon perusteiden mukaisesti kunnes 128 §:n 4 momentissa tarkoitetut vastaavan uuden tutkinnon perusteet ovat voimassa, ei kuitenkaan näyttötutkintona suoritettavaa ammatillista perustutkintoa. Opiskelija, joka on otettu suorittamaan ammatillista perustutkintoa, siirtyy suorittamaan tutkintoa tämän lain nojalla määrättyjen tutkinnon perusteiden mukaisesti 1 päivänä elokuuta 2018.
 
 https://finlex.fi/fi/laki/ajantasa/2017/20170531
 
@@ -1614,6 +1624,8 @@ https://finlex.fi/fi/laki/ajantasa/2017/20170531
 2/28/2020
 
 Laki ammatillisesta koulutuksesta 531/2017 - Ajantasainen lainsäädäntö - FINLEX ®
+
+Tämän lain voimaantulon jälkeen koulutuksen järjestäjä voi ottaa opiskelijan suorittamaan tutkintoa kumottujen lakien nojalla määrättyjen tutkinnon perusteiden mukaisesti kunnes 128 §:n 4 momentissa tarkoitetut vastaavan uuden tutkinnon perusteet ovat voimassa, ei kuitenkaan näyttötutkintona suoritettavaa ammatillista perustutkintoa. Opiskelija, joka on otettu suorittamaan ammatillista perustutkintoa, siirtyy suorittamaan tutkintoa tämän lain nojalla määrättyjen tutkinnon perusteiden mukaisesti 1 päivänä elokuuta 2018.
 
 Ennen lain voimaantuloa tutkinnon suorittamisen aloittaneella opiskelijalla sekä 1 momentissa tarkoitetulla ammatti- tai erikoisammattitutkinnon suorittamisen aloittaneella opiskelijalla on oikeus suorittaa tutkinto kumottujen lakien nojalla määrättyjen perusteiden mukaisesti 31 päivään joulukuuta 2021 saakka. Opiskelija voi kuitenkin siirtyä suorittamaan tutkintoaan tämän lain nojalla määrättävien tutkinnon perusteiden mukaisesti. Edellä tässä momentissa mainitun ajankohdan jälkeen opiskelija siirtyy suorittamaan tutkintoa tämän lain nojalla määrättävien tutkinnon perusteiden mukaisesti.
 
@@ -1651,17 +1663,17 @@ https://finlex.fi/fi/laki/ajantasa/2017/20170531
 
 Laki ammatillisesta koulutuksesta 531/2017 - Ajantasainen lainsäädäntö - FINLEX ®
 
-- oikeus järjestää ammatilliseen peruskoulutukseen valmentavaa koulutusta, muutetaan se oikeudeksi järjestää tässä laissa tarkoitettua ammatilliseen koulutukseen valmentavaa koulutusta;
+1) oikeus järjestää ammatilliseen peruskoulutukseen valmentavaa koulutusta, muutetaan se oikeudeksi järjestää tässä laissa tarkoitettua ammatilliseen koulutukseen valmentavaa koulutusta;
 
-- oikeus järjestää ansio- ja liikennelentäjän tehtäviin, lennonjohtajan tehtäviin tai kaupunkiraideliikenteen tehtäviin valmistavaa koulutusta, muutetaan se oikeudeksi järjestää 8 §:n 2 momentissa tarkoitettua vastaavaa ammatilliseen tehtävään valmistavaa koulutusta;
+2) oikeus järjestää ansio- ja liikennelentäjän tehtäviin, lennonjohtajan tehtäviin tai kaupunkiraideliikenteen tehtäviin valmistavaa koulutusta, muutetaan se oikeudeksi järjestää 8 §:n 2 momentissa tarkoitettua vastaavaa ammatilliseen tehtävään valmistavaa koulutusta;
 
-- oikeus toimia kuorma- ja linja-auton kuljettajien ammattipätevyydestä annetun lain 10 §:ssä tarkoitettuna koulutuskeskuksena, myönnetään vastaava oikeus uudessa järjestämisluvassa;
+3) oikeus toimia kuorma- ja linja-auton kuljettajien ammattipätevyydestä annetun lain 10 §:ssä tarkoitettuna koulutuskeskuksena, myönnetään vastaava oikeus uudessa järjestämisluvassa;
 
-- erityiseksi koulutustehtäväksi huolehtia erityisopetuksen ja työhön ja itsenäiseen elämään valmentavan koulutuksen järjestämisestä, määrätään koulutuksen järjestäjälle 27 §:n 2 momentissa tarkoitettu vastaava tehtävä;
+4) erityiseksi koulutustehtäväksi huolehtia erityisopetuksen ja työhön ja itsenäiseen elämään valmentavan koulutuksen järjestämisestä, määrätään koulutuksen järjestäjälle 27 §:n 2 momentissa tarkoitettu vastaava tehtävä;
 
-- oikeus järjestää sisäoppilaitosmuotoista koulutusta, myönnetään vastaava oikeus uudessa järjestämisluvassa;
+5) oikeus järjestää sisäoppilaitosmuotoista koulutusta, myönnetään vastaava oikeus uudessa järjestämisluvassa;
 
-- lain 27 §:n 4 momentissa tarkoitettuja velvoitteita, ehtoja taikka kehittämis- tai muita tehtäviä vastaavia tehtäviä, määrätään vastaavat velvoitteet, ehdot ja tehtävät uudessa luvassa, jollei erityisestä syystä muuta johdu.
+6) lain 27 §:n 4 momentissa tarkoitettuja velvoitteita, ehtoja taikka kehittämis- tai muita tehtäviä vastaavia tehtäviä, määrätään vastaavat velvoitteet, ehdot ja tehtävät uudessa luvassa, jollei erityisestä syystä muuta johdu.
 
 Uudet järjestämisluvat myönnetään siten, että 24 §:ssä tarkoitetut opetus- ja tutkintokielet vastaavat kumottujen lakien nojalla myönnetyn järjestämisluvan opetuskieltä sekä lupaa järjestää vieraskielistä koulutusta. Lain 25 §:ssä tarkoitetusta toiminta-alueesta päätettäessä tulee ottaa huomioon kumottujen lakien nojalla myönnetyn järjestämisluvan määräykset kunnista, joissa koulutusta saa järjestää sekä koulutuksen järjestäjän tosiasiallinen toiminta-alue. Lain 26 §:ssä tarkoitetusta opiskelijavuosien vähimmäismäärästä päätettäessä tulee ottaa huomioon kumottujen lakien nojalla myönnetyn järjestämisluvan opiskelijamääriä, oppisopimusmääriä taikka opiskelijatyövuosien tai opiskelijatyöpäivien määriä koskevat määräykset sekä opetus- ja kulttuuritoimen rahoituksesta annetun lain mukaan rahoitetut koulutuksen järjestäjän opiskelijamäärät, oppisopimusmäärät, opiskelijatyövuodet tai opiskelijatyöpäivät.
 
@@ -1673,7 +1685,7 @@ Jos ammatillisesta aikuiskoulutuksesta annetun lain nojalla myönnetyn järjest�
 
 Ammatillisesta aikuiskoulutuksesta annetussa laissa tarkoitetun näyttötutkinnon järjestäjän, jolle ei myönnetä tämän lain mukaista järjestämislupaa, tulee ohjata ennen tämän lain voimaantuloa tutkinnon suorittamisen aloittanut opiskelija, jonka henkilökohtaistamisesta näyttötutkinnon järjestäjä on ammatillisesta aikuiskoulutuksesta annetun lain 8 a §:n mukaisesti vastannut, hakeutumaan toisen koulutuksen järjestäjän järjestämään tutkintokoulutukseen tai näyttöön.
 
-
+### 135 §
 https://finlex.fi/fi/laki/ajantasa/2017/20170531
 
 38/41
@@ -1686,7 +1698,7 @@ https://finlex.fi/fi/laki/ajantasa/2017/20170531
 
 Laki ammatillisesta koulutuksesta 531/2017 - Ajantasainen lainsäädäntö - FINLEX ®
 
-### 135 § Henkilökohtaistamista koskevat siirtymäsäännökset
+### Henkilökohtaistamista koskevat siirtymäsäännökset
 
 Henkilökohtaista osaamisen kehittämissuunnitelmaa ei laadita, jos opiskelija suorittaa tutkintoa kumottujen lakien nojalla määrättyjen tutkinnon perusteiden mukaisesti tai jos opiskelija on aloittanut valmentavan koulutuksen ennen tämän lain voimaan tuloa. Mainitun opiskelijan osalta ammatillisesta peruskoulutuksesta annetun lain 29 a §:n nojalla laadittu opiskelijan henkilökohtainen opiskelusuunnitelma, mainitun lain 17 §:n nojalla laadittu opiskelijan henkilökohtainen opiskeluohjelma sekä ammatillisesta aikuiskoulutuksesta annetun lain 8 a §:n nojalla laadittu henkilökohtaistamista koskeva asiakirja jäävät voimaan tämän lain voimaan tullessa. Tämän lain 5 lukua sovelletaan kuitenkin päivitettäessä edellä mainittuja kumottujen lakien nojalla laadittuja suunnitelmia.
 
@@ -1710,7 +1722,7 @@ Edellä 1 momentissa tarkoitettu virkasuhteeseen ottaminen ilman julkista hakume
 
 ### 140 § Tutkintotoimikuntia koskevat siirtymäsäännökset
 
-Ammatillisesta aikuiskoulutuksesta annetun lain nojalla asetetut tutkintotoimikunnat jatkavat toimintaansa 31 päivään heinäkuuta 2018 saakka. Tutkintotoimikuntien tehtävänä on antaa tämän lain voimaan tullessa voimassa olleiden säännösten mukaisesti todistukset suoritetuista tutkinnon osista, jotka on arvioitu ennen tämän lain voimaantuloa sekä tutkinnoista, joiden muodostumiseksi vaadittavat tutkinnon osat on suoritettu ennen tämän lain voimaantuloa. Tutkintotoimikuntien toimintaan sovelletaan, mitä ammatillisesta aikuiskoulutuksesta annetun lain 7 ja 7 a §:ssä sekä niiden nojalla säädetään.
+Ammatillisesta aikuiskoulutuksesta annetun lain nojalla asetetut tutkintotoimikunnat jatkavat toimintaansa 31 päivään heinäkuuta 2018 saakka. Tutkintotoimikuntien tehtävänä on antaa tämän lain voimaan tullessa voimassa olleiden säännösten mukaisesti todistukset suoritetuista tutkinnon osista, jotka on arvioitu ennen tämän lain voimaantuloa sekä tutkinnoista, joiden muodostumiseksi vaadittavat tutkinnon osat on suoritettu
 
 https://finlex.fi/fi/laki/ajantasa/2017/20170531
 
@@ -1723,6 +1735,8 @@ https://finlex.fi/fi/laki/ajantasa/2017/20170531
 2/28/2020
 
 Laki ammatillisesta koulutuksesta 531/2017 - Ajantasainen lainsäädäntö - FINLEX ®
+
+ennen tämän lain voimaantuloa. Tutkintotoimikuntien toimintaan sovelletaan, mitä ammatillisesta aikuiskoulutuksesta annetun lain 7 ja 7 a §:ssä sekä niiden nojalla säädetään.
 
 Ammatillisesta aikuiskoulutuksesta annetun lain 7 c §:ssä tarkoitettu näyttötutkintosihteeristö voi jatkaa toimintaansa 31 päivään heinäkuuta 2018 saakka. Näyttötutkintosihteeristöön sovelletaan mainitussa pykälässä ja sen nojalla säädettyä.
 
@@ -1738,13 +1752,13 @@ Opetushallitus ylläpitää näyttötutkintojen suoritusrekisteriä 1 päiväst�
 
 Seuraavat kumottujen lakien nojalla annetut asetukset jäävät edelleen voimaan:
 
-- opetustoimen henkilöstön kelpoisuusvaatimuksista annettu asetus (986/1998);
+1) opetustoimen henkilöstön kelpoisuusvaatimuksista annettu asetus (986/1998);
 
-- eräiden oppilailta ja opiskelijoilta perittävien maksujen perusteista annettu opetusministeriön asetus (1323/2001);
+2) eräiden oppilailta ja opiskelijoilta perittävien maksujen perusteista annettu opetusministeriön asetus (1323/2001);
 
-- koulutuksen arvioinnista annettu valtioneuvoston asetus (1061/2009); sekä
+3) koulutuksen arvioinnista annettu valtioneuvoston asetus (1061/2009); sekä
 
-- ammatillisen koulutuksen, lukiokoulutuksen ja perusopetuksen jälkeisen valmistavan koulutuksen hakumenettelystä annettu valtioneuvoston asetus (294/2014).
+4) ammatillisen koulutuksen, lukiokoulutuksen ja perusopetuksen jälkeisen valmistavan koulutuksen hakumenettelystä annettu valtioneuvoston asetus (294/2014).
 
 HE 39/2017, SiVM 7/2017, EV 86/2017
 ## Muutossäädösten voimaantulo ja soveltaminen:
