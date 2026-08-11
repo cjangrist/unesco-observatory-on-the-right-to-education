@@ -4,6 +4,15 @@
 
 An example of GNH Progress Wheel is shown below:
 
+Leadership and Management Practices
+Green School Domain
+Curriculum Practices
+Broader Learning Domain
+Holistic Assessment
+School-Community Vitality
+Current Rating
+Target
+
 ## SSA Ratings Key
 
 - 1 = The indicator is seldom or never found in the individual, classroom or the school. It is not a day to day norm, nor is it an impression that people would take away from a visit to this school (25%).
@@ -28,11 +37,11 @@ Dzongkhag Education Officers, Assistant Dzongkhag Education Officers, Thromdey E
 
 ## How to use school performance score cards.
 
-- DEOs/TEOs/ADEOs/ATEOs should visit the schools twice a  year,  once  in  the  beginning  of  the  academic  year  to assess  on  School  Enabling  Practices  (EPS)  and  Gross National Happiness (GNH) scorecards. During the visit, DEOs/TEOs/ADEOs/ATEOs  will confirm SSA and SIP ratings. The second visit should be made after the midterm to review and assess SSA and SIP progress.
+- DEOs/TEOs/ADEOs/ATEOs should visit the schools twice a year, once in the beginning of the academic year to assess on School Enabling Practices (EPS) and Gross National Happiness (GNH) scorecards. During the visit, DEOs/TEOs/ADEOs/ATEOs will confirm SSA and SIP ratings. The second visit should be made after the mid-term to review and assess SSA and SIP progress.
 
 - In  the  process  of  assessment  and  review,  DEOs/TEOs/ ADEOs/ATEOs will identify areas for support and improvement.  They  have  to  prioritize  the  areas  of support  and  make  necessary  arrangements  to  avail support from relevant agencies.
 
-- DEOs/TEOs/ADEOs/ATEOs  should  submit  PMS  current ratings of schools to EMSSD in the months of April-May and  PMS  review  ratings	 in  the  months  of  SeptemberOctober.
+- DEOs/TEOs/ADEOs/ATEOs should submit PMS current ratings of schools to EMSSD in the months of April-May and PMS review ratings in the months of September-October.
 
 ## Follow up actions on School PMS
 
@@ -42,7 +51,11 @@ Dzongkhag Education Officers, Assistant Dzongkhag Education Officers, Thromdey E
 
 - PMS  ranking  focuses  on  identifying  schools  that  need improvement and support.
 
-- Reports of the consultative meetings with schools/ dzongkhags/  thromdeys  and  suitable  recommendations are communicated to relevant organisational units in the Ministry of Education (MoE) for intervention and support.
+- Reports of the consultative meetings with schools/ dzongkhags/ thromdeys and suitable recommendations are communicated to relevant organisational units in the Ministry of Education (MoE) for intervention and support.
+
+emssd.dse@gmail.com   Tele fax: 975-2-325141
+
+Educating for GNH
 
 # School Performance Management System
 
@@ -58,9 +71,7 @@ FOR NOW- Create a Plan for School Improvement
 
 FOREVER- Be the Best School in your Community
 
-Published by EMSSD, Department  of  School Education, Ministry of Education
-
-emssd.dse@gmail.com   Tele fax: 975-2-325141
+Published by EMSSD, Department of School Education, Ministry of Education
 
 2013
 
@@ -164,7 +175,7 @@ Principal,  Teachers,  Students'  leaders,  School  Management Board and Office 
 
 - The  school  should  prepare  GNH  Progress  Wheel  by taking the average ratings of six key areas from SIP.
 
-- The SIP should be reviewed and rated after the midterm and review ratings are based on progress made by  the  school.  These  ratings  are  again  validated  by DEOs/TEOs/ADEOs/ATEOs during their second visit.
+- The SIP should be reviewed and rated after the mid-term and review ratings are based on progress made by the school. These ratings are again validated by DEOs/TEOs/ADEOs/ATEOs during their second visit.
 
 Note: The overall SSA ratings and SIP are used by DEOs/TEOs/ ADEOs/ATEOs during the PMS review exercise.
 
