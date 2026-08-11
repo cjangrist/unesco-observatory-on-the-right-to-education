@@ -14,11 +14,84 @@ MARCH 2010
 
 ## TABLE OF CONTENTS
 
+EXECUTIVE SUMMARY ........................................................................................................................... i
+The National Environment Management Council (NEMC) ................................................................. iii
+The Regions ................................................................................................................................. iii
+The Districts ......................................................................................................................................... iii
+The School Boards................................................................................................................................ iii
+1. INTRODUCTION ............................................................................................................................... 1
+2. DESCRIPTION OF THE PROGRAM.............................................................................................. 2
+3. BASELINE DATA............................................................................................................................... 5
+The Bio-Physical Environmental Features ............................................................................................ 5
+The Key Social ECONOMIC Features.................................................................................................. 6
+Characteristics OF POVERTY .............................................................................................................. 7
+4. DESCRIPTION OF THE WORLD BANK’S SAFEGUARD POLICIES...................................... 9
+5. DESCRIPTION OF THE ADMINISTRATIVE, POLICY, LEGISLATIVE AND
+REGULATORY FRAMEWORK..............................................................................................................11
+Administrative Structure for THE EDUCATION and Training Sector ................................................11
+The School Calendar.............................................................................................................................11
+The Policy Framework for the Education and Training Sector ............................................................11
+The Policy Framework for Decentralization by Devolution.................................................................12
+The Legislative and Regulatory Framework for Education and Training.............................................13
+The Legislative and Regulatory Framework for Decentralization........................................................13
+Management and Administration Framework for the Environment .....................................................13
+The Office of the Vice President..................................................................................................14
+The National Environment Management Council (NEMC) ........................................................14
+Environmental Units ....................................................................................................................14
+District Environment Unit............................................................................................................14
+The EIA Process in Tanzania................................................................................................................15
+Extent of public participation ...............................................................................................................15
+Policy Framework for the Management of the Environment................................................................16
+Legislative Framework for the Management of the Environment ........................................................16
+Membership of International River Basin Commissions ......................................................................20
+6. DETERMINATION OF POTENTIAL ENVIRONMENTAL AND SOCIAL IMPACTS ..........21
+Potential Environmental Concerns and Impacts ...................................................................................21
+Generic Environmental Concerns ................................................................................................21
+Positive Environmental Impacts of the SEDP II..........................................................................28
+Potential Adverse Environmental Impacts from the SEDP II ......................................................28
+Potential Social Concerns and Impacts ........................................................................................28
+Positive Social Impacts from the SEDP.......................................................................................29
+Potential Adverse Social Impacts from the SEDP II....................................................................29
+7. INSTITUTIONAL ASSESSMENT AND FRAMEWORK FOR ENVIRONMENTAL AND
+SOCIAL MANAGEMENT.........................................................................................................................30
+Institutional Roles and Responsibilities................................................................................................30
+The Ministry of Education and the Presidents Office - Regional Administration and Local
+Government .................................................................................................................................30
+The National Environment Management Council (NEMC) ........................................................30
+Local Government Authorities.....................................................................................................30
+The School Boards.......................................................................................................................31
+Capacity Assessment to Perform these Roles ..............................................................................31
+
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-(this page came through the extractor with no text)
+VPO...............................................................................................................................................................32
+Councils.........................................................................................................................................................32
+Monitoring ............................................................................................................................................32
+Reporting .....................................................................................................................................32
+Training Needs......................................................................................................................................33
+Proposed Training Program .........................................................................................................33
+8. ENVIRONMENTAL AND SOCIAL PLANNING, REVIEW AND CLEARING PROCESS
+FOR THE SECONDARY SCHOOLS CONSTRUCTION PROGRAM FUNDED UNDER THE
+SEDP.............................................................................................................................................................34
+Environmental and Social Management Process ..................................................................................34
+9. MONITORING PLAN AND BUDGET ESTIMATE FOR ESMF IMPLEMENTATION .........39
+Monitoring Roles and Responsibilities (refer to Fig. 8.1) ....................................................................40
+School Boards (SB’s)...................................................................................................................40
+The Local Government Authorities (LGAs) ................................................................................40
+The National Environment Management Council (NEMC) ........................................................41
+The Ministry of Education and Vocational Training (MOEVT)..................................................41
+General Monitoring Plan (Table 9.1) ...........................................................................................41
+Budget Estimates for ESMF Implementation ..............................................................................43
+10. STAKEHOLDER CONSULTATIONS........................................................................................44
+Annex 1.0 World Bank Environmental and Social Safeguard Policies Summary................................46
+Annex 2.0 Environmental And Social Screening Form........................................................................48
+Annex 3.0 Typical Checklist to Identify Impacts and Mitigation Measures of Construction and/or
+Rehabilitation of Tanzania Second Education Development Program (SEDP)....................................53
+Annex 4.0 Environmental Mitigation Plan for SEDP...........................................................................55
+Annex 5.0 Environmentally Sensitive Areas (ESA’S) and Ecosystems ...............................................56
+Annex 6.0 Environmental And Social Appraisal Form ........................................................................59
 
 [[END OF PAGE 3]]
 
@@ -26,7 +99,7 @@ MARCH 2010
 
 ## EXECUTIVE SUMMARY
 
-- Education is one of the priority sectors specified in the Tanzania Development Vision 2025 and the  PRS.  Furthermore,  cluster  two  goal  of  the  National  Strategy  for  Growth  and  Poverty Reduction  (NSGRP  or  MKUKUTA in  its  Kiswahili  acronym)  is  to  ensure  equitable  access  to quality secondary education for boys and girls, and expansion of higher, technical and vocational education.  Within  this  context,  the  government  is deepening a comprehensive Education Sector Development Program (ESDP). The ESDP has defined the following general priorities:
+- 1. Education is one of the priority sectors specified in the Tanzania Development Vision 2025 and the  PRS.  Furthermore,  cluster  two  goal  of  the  National  Strategy  for  Growth  and  Poverty Reduction  (NSGRP  or  MKUKUTA in  its  Kiswahili  acronym)  is  to  ensure  equitable  access  to quality secondary education for boys and girls, and expansion of higher, technical and vocational education.  Within  this  context,  the  government  is deepening a comprehensive Education Sector Development Program (ESDP). The ESDP has defined the following general priorities:
 
  Priority in spending on basic education;
 
@@ -36,19 +109,19 @@ MARCH 2010
 
  Institutional development to improve sector management and strengthen implementation capacity.
 
-- As  part  of  the  ESDP,  the  Government  of  Tanzania  implemented  the  Secondary  Education Development Program I (SEDP I) in the period between 2004 and 2009 to promote economic and social  development  and  reduce  poverty  through  human  resource  development  at  the  secondary level, especially for disadvantaged groups.
+- 2. As  part  of  the  ESDP,  the  Government  of  Tanzania  implemented  the  Secondary  Education Development Program I (SEDP I) in the period between 2004 and 2009 to promote economic and social  development  and  reduce  poverty  through  human  resource  development  at  the  secondary level, especially for disadvantaged groups.
 
-- SEDP I succeeded in expanding secondary education access to rural students, but there are serious shortcomings  that  it  has  left  in  its  wake  that  require  urgent  and  sustained  attention  over  the medium to long term.
+- 3. SEDP I succeeded in expanding secondary education access to rural students, but there are serious shortcomings  that  it  has  left  in  its  wake  that  require  urgent  and  sustained  attention  over  the medium to long term.
 
-- In  particular,  five shortcomings  have  been  identified  as  critical:  (i)  teacher availability,  and capitation  grants;  (ii) low  quality  of  teaching  and  learning  (iii) inadequate  empowerment  (iv) accountability measures  at  the  school  level  (v)  fluctuating  intra-sector  financing.    These  will require a careful, strategic, phased program  of implementation to tackle effectively  and sustainably.
+- 4. In  particular,  five shortcomings  have  been  identified  as  critical:  (i)  teacher availability,  and capitation  grants;  (ii) low  quality  of  teaching  and  learning  (iii) inadequate  empowerment  (iv) accountability measures  at  the  school  level  (v)  fluctuating  intra-sector  financing.    These  will require a careful, strategic, phased program  of implementation to tackle effectively  and sustainably.
 
-- In order to sustain such success and address post SEDP 1 challenges, the Government of Tanzania is  preparing  a  5 year  (2010-2014)  program,  the  Secondary  Education  Development  Program II (SEDP II) that builds on the outcomes, institutional structures, and lessons learned from SEDP I. Specific  objectives  of  SEDP  II  are  (1)  to  increase  the  proportion  of  the  relative  age  group completing  secondary  education,  especially  under  served  groups. (2)  To  improve  learning  out comings of secondary students especially at a lower level. (3) To enable the public, including local authorities and private sectors to manage secondary education effectively.
+- 5. In order to sustain such success and address post SEDP 1 challenges, the Government of Tanzania is  preparing  a  5 year  (2010-2014)  program,  the  Secondary  Education  Development  Program II (SEDP II) that builds on the outcomes, institutional structures, and lessons learned from SEDP I. Specific  objectives  of  SEDP  II  are  (1)  to  increase  the  proportion  of  the  relative  age  group completing  secondary  education,  especially  under  served  groups. (2)  To  improve  learning  out comings of secondary students especially at a lower level. (3) To enable the public, including local authorities and private sectors to manage secondary education effectively.
 
-- To achieve these objectives, the program is structured into four components as summarized below:
+- 6. To achieve these objectives, the program is structured into four components as summarized below:
 
 ### Component 1 - Upgrading existing schools in alignment with improved standards (US$100 million)
 
-- The specific objective of this  component is to (i) improve infrastructure  standards of secondary schools and alleviate the pressure on overcrowded schools, most rural schools and (ii) to provide cost-effective  teacher  residences  in  order  to  improve  teacher  placement and  retention  at  remote rural schools that exhibit maximum need.
+- 7. The specific objective of this  component is to (i) improve infrastructure  standards of secondary schools and alleviate the pressure on overcrowded schools, most rural schools and (ii) to provide cost-effective  teacher  residences  in  order  to  improve  teacher  placement and  retention  at  remote rural schools that exhibit maximum need.
 
 ### Component 2 improving the equitable provision of teachers and quality of teaching, with a focus on science mathematics and languages (US $ 22 million)
 
@@ -58,25 +131,25 @@ i
 
 [[START OF PAGE 5]]
 
-- The specific objective of this component is to help increase teacher numbers, especially in science and mathematics; improve equitable deployment of teachers in rural areas; and raise the quality of teaching delivery.
+- 8. The specific objective of this component is to help increase teacher numbers, especially in science and mathematics; improve equitable deployment of teachers in rural areas; and raise the quality of teaching delivery.
 
 ### Component 3 Ensuring adequate capitation grants to secondary schools and improving utilization (US$ 25 million)
 
-- This component will ensure that Government financing of capitation grants to public secondary schools for the purchase of learning materials is provided satisfactory and disbursed effectively.
+- 9. This component will ensure that Government financing of capitation grants to public secondary schools for the purchase of learning materials is provided satisfactory and disbursed effectively.
 
 ### Component 4: Providing capacity building and technical assistance to implement current and future reforms (US $ 3million)
 
-- The objective of this component is to strengthen institutional capacity for educational management.    Sustained  inputs  to  strengthen  capacity for  planning,  management,  delivery,  and monitoring  and  supervision  of  education  are  critical  to  improve  the  quality  and  efficiency  of education service delivery.
+- 10. The objective of this component is to strengthen institutional capacity for educational management.    Sustained  inputs  to  strengthen  capacity for  planning,  management,  delivery,  and monitoring  and  supervision  of  education  are  critical  to  improve  the  quality  and  efficiency  of education service delivery.
 
-- The  World  Bank  is  one  of  the  Program  financiers  and  in  a  high  execution  scenario;  the  Bank financing will give us $ 300M in 7 years. The program needs 1.8 tri Tsh in 5 years which is equal to 22%. And  as a prerequisite, World Bank-financed projects or programs require an environmental and social impact assessment to identify potential impacts that might be associated with the proposed project.
+- 11. The  World  Bank  is  one  of  the  Program  financiers  and  in  a  high  execution  scenario;  the  Bank financing will give us $ 300M in 7 years. The program needs 1.8 tri Tsh in 5 years which is equal to 22%. And  as a prerequisite, World Bank-financed projects or programs require an environmental and social impact assessment to identify potential impacts that might be associated with the proposed project.
 
-- Under  Component  1  (Objective  1),  financing will be made  available  for the  expansion, rehabilitation, refurbishment and completion of unfinished secondary schools during SEDP I.
+- 12. Under  Component  1  (Objective  1),  financing will be made  available  for the  expansion, rehabilitation, refurbishment and completion of unfinished secondary schools during SEDP I.
 
-- To  address the potential negative environmental and social impacts consistent with the requirements  of  the  triggered  World  Bank  safeguard  policy,  the  Ministry  of  Education  and Vocational Training (MoEVT) has prepared this Environmental and Social  Management Framework (ESMF), consistent with Tanzanian national environmental laws as well as the Bank's safeguard policy, OP 4.01 Environmental Assessment.
+- 13. To  address the potential negative environmental and social impacts consistent with the requirements  of  the  triggered  World  Bank  safeguard  policy,  the  Ministry  of  Education  and Vocational Training (MoEVT) has prepared this Environmental and Social  Management Framework (ESMF), consistent with Tanzanian national environmental laws as well as the Bank's safeguard policy, OP 4.01 Environmental Assessment.
 
-- This  will  help    to  set  out  mitigation, monitoring  and  institutional  measures  to  be  taken  during implementation  and  operation  of  the  program activities  to  eliminate  adverse  environmental  and social impacts, offset them, or reduce them to acceptable levels.
+- 14. This  will  help    to  set  out  mitigation, monitoring  and  institutional  measures  to  be  taken  during implementation  and  operation  of  the  program activities  to  eliminate  adverse  environmental  and social impacts, offset them, or reduce them to acceptable levels.
 
-- The key highlights in this ESMF are as follows:
+- 15. The key highlights in this ESMF are as follows:
 
  Detailed  and  comprehensive  environmental  and  social  baseline  data  which  will  provide  the environmental  and  social  management  process  with  key  baseline  information  when  identifying adverse impacts. The information contains data on Tanzania's bio-physical environmental features such as its ecosystems, geology, hydrology in terms of ground and surface water resources, major and sensitive wetlands, flora and fauna. On social baselines the report discusses the main features of Tanzania's demographics, public health features and poverty.
 
@@ -94,25 +167,25 @@ ii
 
  The roles and responsibilities  of key institutions  and players  for the purposes  of this ESMF are discussed in chapter 8.0.
 
-- Implementation  of  the  SEDP  II  will  be  coordinated  by  MoEVT  in  accordance  with  the  ESDP structure.
+- 16. Implementation  of  the  SEDP  II  will  be  coordinated  by  MoEVT  in  accordance  with  the  ESDP structure.
 
 ### THE NATIONAL ENVIRONMENT MANAGEMENT COUNCIL (NEMC)
 
-- The NEMC is responsible for ensuring that all development projects and programs in Tanzania comply  with  all  relevant  environmental  laws.  This  ESMF  recognizes  that  the  NEMC  has  a significant  role  to  play  in  the  SEDP II.  This  role  would  be  to  provide  on  the  ground  ESMF performance  reviews/audits  both  for  enforcement  purposes,  but  more  importantly  to  reinforce capacity  for  the  ESMF  implementation  at  all  levels.    The  NEMC  would  also  provide  periodic monitoring to ensure no adverse cumulative impacts from the school construction program at the national  level  and  will  provide  oversight  and  technical  assistance  to  the  Local  Government Authorities when required.
+- 17. The NEMC is responsible for ensuring that all development projects and programs in Tanzania comply  with  all  relevant  environmental  laws.  This  ESMF  recognizes  that  the  NEMC  has  a significant  role  to  play  in  the  SEDP II.  This  role  would  be  to  provide  on  the  ground  ESMF performance  reviews/audits  both  for  enforcement  purposes,  but  more  importantly  to  reinforce capacity  for  the  ESMF  implementation  at  all  levels.    The  NEMC  would  also  provide  periodic monitoring to ensure no adverse cumulative impacts from the school construction program at the national  level  and  will  provide  oversight  and  technical  assistance  to  the  Local  Government Authorities when required.
 
 ### The Regions
 
-- The  main  role  of  the  Regions  in  this  ESMF  would  be  limited  to  coordinating  the  planning activities of their Local Government Authorities (LGAs) by consolidating the District Secondary School Development Plans (DSSDP's) into Regional ones (RSSDP) before they are submitted to the MOEVT for approval for funding.
+- 18. The  main  role  of  the  Regions  in  this  ESMF  would  be  limited  to  coordinating  the  planning activities of their Local Government Authorities (LGAs) by consolidating the District Secondary School Development Plans (DSSDP's) into Regional ones (RSSDP) before they are submitted to the MOEVT for approval for funding.
 
 ### THE DISTRICTS
 
-- The  LGAs would  be  required  to  review  and  clear  the  environmental  and  social  management process, required of the School Boards, prior to funding the construction program.
+- 19. The  LGAs would  be  required  to  review  and  clear  the  environmental  and  social  management process, required of the School Boards, prior to funding the construction program.
 
-- The  Local  Government  Authorities  would  be responsible  for  carrying  out  the  following:  (i) ensuring  the  districts  school  construction  program  comply  with  Tanzania's  environmental  laws and  requirements,  (ii)  receiving,  reviewing  and  commenting,  where  necessary  and  clearing  of School Boards completed environmental and social screening forms and checklists (iii) carrying out a regular and intrusive monitoring regime during the planning, implementation, construction, operations and maintenance stages of the schools (iv) for preparing periodic monitoring reports on the school construction program at all stages of operations and to send these reports on a regular basis  to PMO  RALG  and the  MOEVT as  part  of  other  SEDP  reports    (v)  to  comply  with (consistent  with  national  laws)  the  directives  of    the  government    (vi)  to  issue  directives  to  the School Boards consistent with national laws on environmental requirements.
+- 20. The  Local  Government  Authorities  would  be responsible  for  carrying  out  the  following:  (i) ensuring  the  districts  school  construction  program  comply  with  Tanzania's  environmental  laws and  requirements,  (ii)  receiving,  reviewing  and  commenting,  where  necessary  and  clearing  of School Boards completed environmental and social screening forms and checklists (iii) carrying out a regular and intrusive monitoring regime during the planning, implementation, construction, operations and maintenance stages of the schools (iv) for preparing periodic monitoring reports on the school construction program at all stages of operations and to send these reports on a regular basis  to PMO  RALG  and the  MOEVT as  part  of  other  SEDP  reports    (v)  to  comply  with (consistent  with  national  laws)  the  directives  of    the  government    (vi)  to  issue  directives  to  the School Boards consistent with national laws on environmental requirements.
 
 ### THE SCHOOL BOARDS
 
-- The  School  Boards  will  be  responsible  (i)  for  complying  with  all  national  laws  regarding  the environment and with all social/poverty guidelines, parameters and targets set by the program, (ii) to  implement  their  school  construction  program  consistent  with  the  provisions  of  this  ESMF, implementing,  inter  alia,    all  appropriate  mitigation  measures  identified  in  their  completed environmental  and  social  screening  form  and  checklist  into  the    construction  planning  cycle, technical and engineering designs and drawings, and civil works contracts, etc. (iv) to ensure that these  mitigation  measures  are  complied  with  during  construction  and  post  construction  (i.e. operations)  stages  of  their  activities,  by  self  monitoring  of  their  activities  and  by  periodically reporting  to  the  LGAs (v)  to  maintain  a  budget  to  implement  the  appropriate  maintenance procedures and practices for the operation of their school,  to ensure relevant mitigation measures identified  in  the  environmental  and  social  screening  form  and  checklist  are  implemented  and
+- 21. The  School  Boards  will  be  responsible  (i)  for  complying  with  all  national  laws  regarding  the environment and with all social/poverty guidelines, parameters and targets set by the program, (ii) to  implement  their  school  construction  program  consistent  with  the  provisions  of  this  ESMF, implementing,  inter  alia,    all  appropriate  mitigation  measures  identified  in  their  completed environmental  and  social  screening  form  and  checklist  into  the    construction  planning  cycle, technical and engineering designs and drawings, and civil works contracts, etc. (iv) to ensure that these  mitigation  measures  are  complied  with  during  construction  and  post  construction  (i.e. operations)  stages  of  their  activities,  by  self  monitoring  of  their  activities  and  by  periodically reporting  to  the  LGAs (v)  to  maintain  a  budget  to  implement  the  appropriate  maintenance procedures and practices for the operation of their school,  to ensure relevant mitigation measures identified  in  the  environmental  and  social  screening  form  and  checklist  are  implemented  and
 
 iii
 
@@ -122,7 +195,7 @@ iii
 
 sustained in the sub school construction program and (vi) to comply with any directives that may be issued from time to time from the government .
 
-- The Environmental and Social Management Process contains the following key steps;
+- 22. The Environmental and Social Management Process contains the following key steps;
 
 - Step 1: School  Boards  (SB's)  will  screen  their  own  development  activities  to  identify  adverse environmental and social impacts using the screening form in Annex 2 and the checklist in Annex 3.
 
@@ -130,9 +203,9 @@ sustained in the sub school construction program and (vi) to comply with any dir
 
 - Step 3: The LGAs will review and clear the sub projects by ensuring sub project designs have identified environmental and social impacts, mitigated these impacts and have monitoring plans and institutional measures to be taken during implementation and operation.
 
-- ESMF implementation will be integrated into SEDP II activities to be financed by the Program and capacities built for monitoring, supervision at regional and central levels. Monitoring of the implementation  of  the  ESMF  will  be  the  responsibility  of  the  MoEVT.  Progress  on  the implementation of the ESMF will be included in the overall periodic progress reports, midterm review and monitoring and evaluation reports.
+- 23. ESMF implementation will be integrated into SEDP II activities to be financed by the Program and capacities built for monitoring, supervision at regional and central levels. Monitoring of the implementation  of  the  ESMF  will  be  the  responsibility  of  the  MoEVT.  Progress  on  the implementation of the ESMF will be included in the overall periodic progress reports, midterm review and monitoring and evaluation reports.
 
-- An  estimated  budget  of  USD  230,000  will  be  required  to  implement  the  recommendations (capacity assessment, training and monitoring) of this ESMF.
+- 24. An  estimated  budget  of  USD  230,000  will  be  required  to  implement  the  recommendations (capacity assessment, training and monitoring) of this ESMF.
 
 iv
 
@@ -156,14 +229,14 @@ ESMF | Environment and Social Management Framework
 GDP | Gross Domestic Product
 JICA | Japan International Cooperation Agency
 LGAs | The Local Government Authorities
-MOEVTMinistry of Education and Vocational Training
-MOEVTMinistry of Education and Vocational Training
+MOEVT | Ministry of Education and Vocational Training
+MOEVT | Ministry of Education and Vocational Training
 NEAP | The National Environmental Action Plan
 NECTA | The National Examination Council of Tanzania
-NEMC National Environment Management Council
+NEMC | National Environment Management Council
 NEP | National Environmental Policy
 NGOs | Non Governmental Organizations
-NSGRP National Strategy for Growth and Reduction of Poverty
+NSGRP | National Strategy for Growth and Reduction of Poverty
 PEDP | Primary Education Development Plan
 PMO-RALG | Prime Minister's Office - Regional and Local Government
 RAPs | Resettlement and Compensation Plans
@@ -205,7 +278,7 @@ v
 
 [[START OF PAGE 10]]
 
-- This ESMF describes Tanzania's general environmental policies and laws, the Bank's safeguard policies, outlines an environmental and social screening process which includes an environmental and social  checklist,  codes  of  practice  and  procedures,  and  implementation  and  monitoring  and evaluation arrangements to be observed during the implementation of SEDP II. This will help  to set out mitigation, monitoring and institutional measures to be taken during implementation and operation of the program activities to eliminate adverse environmental and social impacts, offset them, or reduce them to acceptable levels.
+- 1. This ESMF describes Tanzania's general environmental policies and laws, the Bank's safeguard policies, outlines an environmental and social screening process which includes an environmental and social  checklist,  codes  of  practice  and  procedures,  and  implementation  and  monitoring  and evaluation arrangements to be observed during the implementation of SEDP II. This will help  to set out mitigation, monitoring and institutional measures to be taken during implementation and operation of the program activities to eliminate adverse environmental and social impacts, offset them, or reduce them to acceptable levels.
 
 - 1.9 This  ESMF  give  details  on  the  capacity  gaps  and  the  required  capacity  building  at  different stakeholders  responsible  for  the  implementation  of  SEDP  II  including  at  the  MoEVT  (with  the overall responsibility for overseeing the implementation of the final ESMF recommendations) and regional and LGAs levels where secondary schools are located.
 
@@ -241,9 +314,9 @@ v
 
 - 2.2 The specific objectives of the SEDP II are:
 
-- To increase the proportion of the relative age group completing secondary education
+- (1) To increase the proportion of the relative age group completing secondary education
 
-- To improve learning out comings of secondary students especially at a lower level.
+- (2) To improve learning out comings of secondary students especially at a lower level.
 
 (3) To enable the public, including local authorities and private sectors to manage secondary education effectively.
 
@@ -269,7 +342,7 @@ v
 
 continue,  although  at  a  slower  pace,  as  enrolment  continues  to  increase.    The  available  teachers  are unevenly  distributed,  with  the  greatest  shortages  in  remote  rural  schools  serving  some  of  the  poorest populations. There is a specific shortage of science teachers, and while mathematics and science account for 46% of the curriculum, only 28% of teachers are qualified in these subjects.  Many schools have no teachers for some science subjects, and failure rates in these subjects are high. Further, the recent PETS has indicated that 13% of teachers are absent, for a variety of reasons.
 
-2.8 The  Program  will  assist  the  government  to  address  these  challenges  by:  (a)  enhancing  teacher supply  particularly  for  mathematics  and  science  teachers  through  monitoring  and  regulation  of  teacher supply, enhancing science teaching facilities at teacher education institutions, teacher-training, and building capacity at the  TTCs; (b)  improving the distribution of teachers through a  settling-in  allowance  for new teachers  taking  up  posts  in  remote  locations,  and  provision  of  teacher  housing  at  remote  schools;  (c) supporting  delivery  of  quality  teaching  and  learning  through  attendance  management;  in-service  teacher training  (CPD),  building  on  the  already  available  JICA  model;  and  in-service  training  of  school  headteachers.
+2.8 The  Program  will  assist  the  government  to  address  these  challenges  by:  (a)  enhancing  teacher supply  particularly  for  mathematics  and  science  teachers  through  monitoring  and  regulation  of  teacher supply, enhancing science teaching facilities at teacher education institutions, teacher-training, and building capacity at the  TTCs; (b)  improving the distribution of teachers through a  settling-in  allowance  for new teachers  taking  up  posts  in  remote  locations,  and  provision  of  teacher  housing  at  remote  schools;  (c) supporting  delivery  of  quality  teaching  and  learning  through  attendance  management;  in-service  teacher training  (CPD),  building  on  the  already  available  JICA  model;  and  in-service  training  of  school  head-teachers.
 
 2.9 On the issue of incentives, all newly qualified teachers taking up a post in a designated 'hard to staff' school will receive a one-off settling-in allowance, intended to defray the cost of settling in a remote area, including transport costs, and purchase of basic furniture and cooking equipment. The allowance is a grant of TSh. 500,000, or approximately 20% of annual basic salary, paid from the district office on the teacher's arrival at the post.  Teachers who receive this allowance will commit to remaining in the school for at least three years. Confirmation of the appropriateness of this size and type of allowance as incentive will be validated through focus group discussions with teachers which will be conducted prior to appraisal.
 
@@ -373,7 +446,7 @@ However, the global financial crisis has been leaving its mark on Tanzania since
 
 - 3.17 The health status in Tanzania needs to be improved.  Life expectancy at birth is 47 years (decline due to AIDS) compared to 50 years average in SSA, and infant mortality of 85 per 1000 live births compared to 92 for SSA. The incidence of HIV/AIDS is high, with 10.0% of the population aged between15-49, seropositive.  In the 1990's HIV infection rates increased significantly among this group and  were higher  among  women. Infection rates are  four times higher among  young girls compared  to  boys.  Water  and  sanitation  services  are  deficient,  with  access  to  improved  water source estimated to be about 49% of population. Communicable diseases (HIV/AIDS, persistent malaria, ARI 1 and diarrhea), malnutrition and poor quality health care have been major factors in poor survival indicators.
 
-- 3.18 The illiteracy rate (% of population age 15+) is 25%. The Gross primary enrollment (% of schoolage population) is 67% for men and 66% for women.
+- 3.18 The illiteracy rate (% of population age 15+) is 25%. The Gross primary enrollment (% of school-age population) is 67% for men and 66% for women.
 
 - 3.19 The age structure is as follows:
 
@@ -551,9 +624,9 @@ Environmental  and  Social  Management  Framework  (ESMF)  report  which  will  
 
 ### THE SCHOOL CALENDAR
 
- 1 st Term: 3 rd Week January to 1 st Week June
+ 1st Term: 3rd Week January to 1st Week June
 
- 2 nd Term: 1 st Week July to 1 st Week December for O-level schools.
+ 2nd Term: 1st Week July to 1st Week December for O-level schools.
 
 ### THE POLICY FRAMEWORK FOR THE EDUCATION AND TRAINING SECTOR
 
@@ -589,13 +662,13 @@ Environmental  and  Social  Management  Framework  (ESMF)  report  which  will  
 
 - 5.9 Decentralization of government thus includes four main policy areas;
 
-- Political decentralization is devolution of powers and the setting of the rules for councils and committees, etc.
+- A. Political decentralization is devolution of powers and the setting of the rules for councils and committees, etc.
 
-- Financial decentralization is based on a definition of the principles of financial discretionary powers  of  local  councils,  i.e. powers  to  levy  local  taxes  and  the  obligation  of  central government to supply local governments with adequate unconditional grants and other forms of grants.
+- B. Financial decentralization is based on a definition of the principles of financial discretionary powers  of  local  councils,  i.e. powers  to  levy  local  taxes  and  the  obligation  of  central government to supply local governments with adequate unconditional grants and other forms of grants.
 
-- Administrative decentralization involves de-linking local authority staff from their respective ministries  and  procedures for establishment of a local  payroll.  Local governments  will thus have and recruit their own personnel, making them accountable to their local councils.
+- C. Administrative decentralization involves de-linking local authority staff from their respective ministries  and  procedures for establishment of a local  payroll.  Local governments  will thus have and recruit their own personnel, making them accountable to their local councils.
 
-- Changed central-local relations: The role of central government vis-a- vis local councils will be changed into a system of inter-governmental relations with central government having the over-riding powers within the framework of the constitution. Line ministries will change their role  and  functions  into  becoming,  (i)  policy  making  bodies,  (ii)  supportive  and  capacity building  bodies,  (iii)  monitoring  and  quality  assurance  bodies  within  the  local  government legislation framework, and (iv regulatory bodies (legal control and audit).
+- D. Changed central-local relations: The role of central government vis-a- vis local councils will be changed into a system of inter-governmental relations with central government having the over-riding powers within the framework of the constitution. Line ministries will change their role  and  functions  into  becoming,  (i)  policy  making  bodies,  (ii)  supportive  and  capacity building  bodies,  (iii)  monitoring  and  quality  assurance  bodies  within  the  local  government legislation framework, and (iv regulatory bodies (legal control and audit).
 
 12
 
@@ -723,9 +796,9 @@ Environmental  and  Social  Management  Framework  (ESMF)  report  which  will  
 
  District Planning Officer - as coordinator of the planning process.
 
- District  Natural  Resources  Officer  manages  the  development  of  natural  resources/forestry, wildlife, bee keeping, fisheries etc).
+ District  Natural  Resources  Officer – manages  the  development  of  natural  resources/forestry, wildlife, bee keeping, fisheries etc).
 
- District Agricultural and Livestock Development  Officer  responsible for land-use and management.
+ District Agricultural and Livestock Development  Officer – responsible for land-use and management.
 
  District Water Engineer.
 
@@ -807,16 +880,16 @@ hearing should be taken into account when a decision is taken whether or not a p
 
 [[START OF PAGE 26]]
 
+Table 5.1: Existing Acts Relating to Environmental Management
+
 Act | Key Elements | Implementing Authority
 --- | --- | ---
 The Environmental Management Act, 2004 (Act No. 20 of 2004) | The Act provide for legal and institutional framework for sustainable management of environment; principles for management, impact and risk assessments, prevention and control of pollution, waste management, environmental quality standards, public participation, compliance and enforcement; and implementation of international instruments on environment. Under the EMA 2004, the Regional Secretariat is responsible for coordination for all advice on environmental management in their respective region and in liaison with the Director of Environment. | VPO/NEMC
 National Environmental Management Council Act (Act, No. 19 of 1983) | The Act provides for the establishment of the NEMC, as well as all functions and other matters related and incidental to its establishment. | NEMC
-Wildlife Conservation Act, No. 12 of 1974, as amended | The Act protects wildlife and vegetation by restricting the utilization of wildlife to license- holders. The use of sensitive wildlife habitats is restricted during certain times of the year or for specified periods. | Ministry of Tourism Natural Resources and Tourism
+Wildlife Conservation Act, No. 12 of 1974, as amended | The Act protects wildlife and vegetation by restricting the utilization of wildlife to license-holders. The use of sensitive wildlife habitats is restricted during certain times of the year or for specified periods. | Ministry of Tourism Natural Resources and Tourism
 Fisheries Act, No. 6 of 1970 Fisheries Act No. 22 0of 2003 | The Act limits annual catches. Specific regulations were introduced in 1973 and 1982, putting limitations on methods of fish harvesting, including outlawing of dynamiting and poisoning. | Division of Fisheries, Ministry of Natural Resources and Tourism
-The Water Resources Management Act, 2009 | The Water Resources Management Act provides the legal framework for sustainable management and development of water resources. The Act prescribes principles for water resources management, provisions for the prevention and control of water pollution, and participation of stakeholders and the general public in the implementation of water policy. The main aim of this law is to | Ministry of Water and Irrigation
-The Water Supply and Sanitation Act No. 12 of 2009 | ensure the right of every Tanzanian to have access to efficient, effective and sustainable water supply and | Ministry of Water and Irrigation
-
-Table 5.1:  Existing Acts Relating to Environmental Management
+The Water Resources Management Act, 2009 | The Water Resources Management Act provides the legal framework for sustainable management and development of water resources. The Act prescribes principles for water resources management, provisions for the prevention and control of water pollution, and participation of stakeholders and the general public in the implementation of water policy. | Ministry of Water and Irrigation
+The Water Supply and Sanitation Act No. 12 of 2009 | The main aim of this law is to ensure the right of every Tanzanian to have access to efficient, effective and sustainable water supply and | Ministry of Water and Irrigation
 
 17
 
@@ -829,8 +902,8 @@ Act | Key Elements | Implementing Authority
 sanitation services for all purposes by taking into account among others protection and conservation of water resources and development and promotion of public health and sanitation; and protection of the interest of customers.
 Water Utilization and Control Act, No. 42 of 1974 | The Act establishes temporary standards for public use, as well as effluent discharge standards. | Ministry of Water and Irrigation
 Urban Water Supply Act, No. 7 of 1981 | The Act gives the National Urban Water Authority powers to monitor and control surface water and groundwater pollution and specifies punitive measures for violators of this act. | National Urban Water Authority, Ministry of Water Irrigation
-Mining Act, No. 17 of 1980, as amended | The Act sets out government policy on all forms of mining and is supported by various regulations covering claims, prospecting rights, mining rights and royalties. Mining license applicants are required to submit plans for environmental protection. Each industry is required to establish realistic resource recovery standards and to adhere to them. Mining plans are required to be presented | Ministry of Energy and Minerals
-Forestry Policy of 1998 | before operations begin. The revised Policy continues to recognize the important role of forests in the maintenance of the environment, the provision of forestry products and the protection of watersheds and biodiversity. | Forestry and Beekeeping Division, Ministry of Natural Resources and Tourism
+Mining Act, No. 17 of 1980, as amended | The Act sets out government policy on all forms of mining and is supported by various regulations covering claims, prospecting rights, mining rights and royalties. Mining license applicants are required to submit plans for environmental protection. Each industry is required to establish realistic resource recovery standards and to adhere to them. Mining plans are required to be presented before operations begin. | Ministry of Energy and Minerals
+Forestry Policy of 1998 | The revised Policy continues to recognize the important role of forests in the maintenance of the environment, the provision of forestry products and the protection of watersheds and biodiversity. | Forestry and Beekeeping Division, Ministry of Natural Resources and Tourism
 Land Act, No. 4 of 1999 | Private Group Property is given either through Granted Rights in General and Reserved Land (Land Act, Section 19) or through Customary Rights in Village Lands (Village Land Act, Section 22). Provision is also made for holding land by joint occupancy or occupancy in common (Land Act, Part XIII). | Ministry of Lands and Human Settlement
 Village Land Act, No. 5 of 1999 | The Act requires each village to identify and register all communal land, and obtain the approval of all members of the village for identification and registration (Village Assembly, Section 13). A Register of Communal Land (Section 13(6)) is to be maintained by each Village Land Council, and land | Ministry of Lands and Human Settlement
 
@@ -917,30 +990,32 @@ Tanzania is a member of the Nile Basin Commission
 
 - 6.2 The  Tables  6.1 to  6.7 presents  the  root  and  immediate  causes  for  these  environmental  problems  and discusses  the  impacts  and  their  severity,  providing  the  background  against  which  any  potential  adverse impacts on the environment from the activities of the SEDP can be determined and analyzed.
 
-Land Degradation : From soil erosion, soil exhaustion and overgrazing. A problem throughout Tanzania. Particularly around the steep hills in Mwanza, Mara, and Kagera region; lakeshores
---- | --- | --- | ---
-Immediate Causes | Root Causes | Impacts | Severity
- Massive continued loss of vegetative cover due to deforestation and loss of other land cover, deterioration of catchment buffer zones.  Inappropriate agricultural practices leading to decreased soil quality and erosion, such as use of marginal lands, overgrazing and free grazing.  Lack of soil and water conservation measures and/or abandonment and poor maintenance of anti- erosion works.  Bush fires and slash and burn practices. | 21  Population pressure and poverty leading to unsustainable land use practices.  Topography (uneven relief, high stream flow velocities) and rainfall patterns (floods, droughts, climate variability)  Lack of land use policies and improper land use management; weak extension service on soil conservation often connected with prevalent land tenure system.  High livestock density  Lack of awareness of land-water interaction  Lack of systematic implementation of EIA for infrastructure projects due to lack of financial and human resources. |  Loss of top soil and reduction of soil fertility leading to decrease in agricultural production and food security.  Reduction of vegetative cover and loss of habitats and biodiversity.  Water quality degradation from high sediment loads, siltation of shallow lakes, wetlands, reservoirs, and valley bottoms and other low lying lands downstream.  Degradation of river beds and river bank erosion; desertification and wind erosion (northern arid regions), sheet and rill erosion and gully formation (after heavy rainfall) in highlands.  Landslides and flooding leading to destruction of infrastructure ( houses, means of communication, communal facilities, etc.) | HIGH
-
 Table 6.1
+
+Land Degradation: From soil erosion, soil exhaustion and overgrazing. A problem throughout Tanzania. Particularly around the steep hills in Mwanza, Mara, and Kagera region; lakeshores
+Immediate Causes | Root Causes | Impacts | Severity
+--- | --- | --- | ---
+ Massive continued loss of vegetative cover due to deforestation and loss of other land cover, deterioration of catchment buffer zones.  Inappropriate agricultural practices leading to decreased soil quality and erosion, such as use of marginal lands, overgrazing and free grazing.  Lack of soil and water conservation measures and/or abandonment and poor maintenance of anti-erosion works.  Bush fires and slash and burn practices. |  Population pressure and poverty leading to unsustainable land use practices.  Topography (uneven relief, high stream flow velocities) and rainfall patterns (floods, droughts, climate variability)  Lack of land use policies and improper land use management; weak extension service on soil conservation often connected with prevalent land tenure system.  High livestock density  Lack of awareness of land-water interaction  Lack of systematic implementation of EIA for infrastructure projects due to lack of financial and human resources. |  Loss of top soil and reduction of soil fertility leading to decrease in agricultural production and food security.  Reduction of vegetative cover and loss of habitats and biodiversity.  Water quality degradation from high sediment loads, siltation of shallow lakes, wetlands, reservoirs, and valley bottoms and other low lying lands downstream.  Degradation of river beds and river bank erosion; desertification and wind erosion (northern arid regions), sheet and rill erosion and gully formation (after heavy rainfall) in highlands.  Landslides and flooding leading to destruction of infrastructure ( houses, means of communication, communal facilities, etc.) | HIGH
+
+21
 
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
 
+Table 6.2
+
 River Bank and Lakeshore Degradation. For e.g. at River estuaries into lakes.
 --- | --- | --- | ---
  Poor land use and agricultural practices such as dry season cultivation near banks and destruction of vegetative cover to increase arable land area; high animal density.  Drop in water levels and drying up of waterways.  Increased urban development and construction and industrial activities near river banks; poorly planned tourism centers. |  Lack of or insufficient national land use plans, laws and regulations, and/or enforcement of existing laws.  Population pressure and rapid growth of urban centers.  Expansion of farm lands and inadequate agricultural practices near river banks and shores, including overgrazing.  Land subsistence; relief and morphological structure of soil.  Climatic variability and conditions; seasonal floods and intermittent increase in lake levels. |  Destruction of vegetative cover especially lake shore buffer zones.  Erosion, landslides, and downstream sedimentation leading to change in river course.  Adverse effects on riverine aquatic life and lake ecosystems. | MODERATE
 
-Table 6.2
-
 Table 6.3
 
-Mining : For instance, Mara, Mwanza, parts of Shinyanga, and Kagera regions
+Mining: For instance, Mara, Mwanza, parts of Shinyanga, and Kagera regions
 
 Immediate Causes | Root Causes | Impacts | Severity
 --- | --- | --- | ---
- Use of toxic chemicals and lack of containment and treatment facilities (esp. mercury use in gold mining).  Lack of adequate site rehabilitation.  Inadequate mining practices.  High demand for construction materials and indiscriminate clearing of vegetation. |  Inadequate policy guidance, lack of or insufficient safeguards ( EIA, anti- pollution/environmental legislation.  No regulation/enforcement of private mining entrepreneurs.  Lack of (government) planning and oversight |  Water and air pollution.  Soil degradation and erosion of sites and adjacent river banks; deforestation and landslides leading to river siltation.  Adverse impact on flora and fauna. | HIGH in certain locations
+ Use of toxic chemicals and lack of containment and treatment facilities (esp. mercury use in gold mining).  Lack of adequate site rehabilitation.  Inadequate mining practices.  High demand for construction materials and indiscriminate clearing of vegetation. |  Inadequate policy guidance, lack of or insufficient safeguards ( EIA, anti-pollution/environmental legislation.  No regulation/enforcement of private mining entrepreneurs.  Lack of (government) planning and oversight |  Water and air pollution.  Soil degradation and erosion of sites and adjacent river banks; deforestation and landslides leading to river siltation.  Adverse impact on flora and fauna. | HIGH in certain locations
 
 22
 
@@ -948,12 +1023,12 @@ Immediate Causes | Root Causes | Impacts | Severity
 
 [[START OF PAGE 32]]
 
-Water Contamination : Pollution . Point source pollution localized around urban/growth centers. Non point sources generally are a regional problem mostly from agricultural sources.
---- | --- | --- | ---
-Immediate Causes | Root Causes | Impacts | Severity
- Discharge of run-off of untreated water from urban and industrial sources containing dissolved nutrients, industrial pollutants, agricultural chemicals/fertilizers; lack of recycling of waste matter; uncontrolled dumping of waste.  Non-point source pollution from agriculture due to improper and high application rates of agro- chemicals.  Degradation of vegetative cover especially wetlands, in basins which could act as filters. |  Weak policies, laws and regulations for environmental protections ( e.g. EIA); insufficient enforcement and monitoring especially in respect to industrial facilities; low budgetary provision for enforcement of existing regulations, lack of sufficient human resources.  Point Sources: Inadequate funding of investments, high capital costs, high operation and maintenance costs, inadequate containment and treatment of wastes and lack of sanitary facilities.  Non-point sources: Unsustainable land use practices in combination with lack of security of land tenure.  Inadequate zoning regulations and/or enforcement; inadequate environmental and land use planning.  Low environmental awareness and sense of value or environmental protection. |  Degradation of water quality, rendering water unsuitable for domestic, agricultural, industrial and other uses.  Adverse impacts on water dependent flora and fauna, loss of habitats and bio- diversity, nutrient discharges leading to increased eutrophication. .  Pollution of lakes and tributaries, resulting in contamination of drinking water.  Lack of adequate liquid and solid waste disposal systems and accumulation of refuse.  Decrease in environmental quality, disappearance of natural habitats and proliferation of water hyacinth. | MODERATE
-
 Table 6.4
+
+Water Contamination: Pollution. Point source pollution localized around urban/growth centers. Non point sources generally are a regional problem mostly from agricultural sources.
+Immediate Causes | Root Causes | Impacts | Severity
+--- | --- | --- | ---
+ Discharge of run-off of untreated water from urban and industrial sources containing dissolved nutrients, industrial pollutants, agricultural chemicals/fertilizers; lack of recycling of waste matter; uncontrolled dumping of waste.  Non-point source pollution from agriculture due to improper and high application rates of agro-chemicals.  Degradation of vegetative cover especially wetlands, in basins which could act as filters. |  Weak policies, laws and regulations for environmental protections ( e.g. EIA); insufficient enforcement and monitoring especially in respect to industrial facilities; low budgetary provision for enforcement of existing regulations, lack of sufficient human resources.  Point Sources: Inadequate funding of investments, high capital costs, high operation and maintenance costs, inadequate containment and treatment of wastes and lack of sanitary facilities.  Non-point sources: Unsustainable land use practices in combination with lack of security of land tenure.  Inadequate zoning regulations and/or enforcement; inadequate environmental and land use planning.  Low environmental awareness and sense of value or environmental protection. |  Degradation of water quality, rendering water unsuitable for domestic, agricultural, industrial and other uses.  Adverse impacts on water dependent flora and fauna, loss of habitats and bio-diversity, nutrient discharges leading to increased eutrophication. .  Pollution of lakes and tributaries, resulting in contamination of drinking water.  Lack of adequate liquid and solid waste disposal systems and accumulation of refuse.  Decrease in environmental quality, disappearance of natural habitats and proliferation of water hyacinth. | MODERATE
 
 23
 
@@ -961,12 +1036,12 @@ Table 6.4
 
 [[START OF PAGE 33]]
 
-Deforestation :
---- | --- | --- | ---
-Immediate Causes | Root Causes | Impacts | Severity
- Land use conversion due to increasing need for arable land and grazing areas; burning practices for land clearing and shifting cultivation.  Uncontrolled logging for fuelwood and charcoal production for domestic/household energy consumption, construction material and local industry fuel needs.  Unsustainable and inefficient resource use (e.g. overgrazing, extensive cultivation on steep hill slopes and uncontrolled logging).  Lack of local planting/replanting.  Human migration and resettlement due to increasing numbers of returnees and other war affected groups, encroaching into forested areas. |  Poverty and population pressure leading to unsustainable pressure on resources; absence of alternative livelihoods and weak capacity to increase unit agricultural production.  Insufficient energy alternatives to fuelwood.  Insufficient awareness and knowledge of sustainable land use practices and effects of deforestation.  Land tenure system leading to allocation and use of marginal lands and lack of incentives for sustainable land use practices.  Drought and overall arid climate and topography. |  Decreasing vegetation/forest cover; loss of density and diversity.  Deterioration of watershed: high run-off associated with increased erosion leading to loss of fertile soils and sedimentation and siltation downstream.  Energy crisis associated with price increases due to decreased availability of fuelwood and charcoal.  Large scale habitat destruction and loss of wildlife in terms of numbers and biodiversity; progressive disappearance of National Parks.  Variability in climate and rainfall patterns. | HIGH
-
 Table 6.5
+
+Deforestation:
+Immediate Causes | Root Causes | Impacts | Severity
+--- | --- | --- | ---
+ Land use conversion due to increasing need for arable land and grazing areas; burning practices for land clearing and shifting cultivation.  Uncontrolled logging for fuelwood and charcoal production for domestic/household energy consumption, construction material and local industry fuel needs.  Unsustainable and inefficient resource use (e.g. overgrazing, extensive cultivation on steep hill slopes and uncontrolled logging).  Lack of local planting/replanting.  Human migration and resettlement due to increasing numbers of returnees and other war affected groups, encroaching into forested areas. |  Poverty and population pressure leading to unsustainable pressure on resources; absence of alternative livelihoods and weak capacity to increase unit agricultural production.  Insufficient energy alternatives to fuelwood.  Insufficient awareness and knowledge of sustainable land use practices and effects of deforestation.  Land tenure system leading to allocation and use of marginal lands and lack of incentives for sustainable land use practices.  Drought and overall arid climate and topography. |  Decreasing vegetation/forest cover; loss of density and diversity.  Deterioration of watershed: high run-off associated with increased erosion leading to loss of fertile soils and sedimentation and siltation downstream.  Energy crisis associated with price increases due to decreased availability of fuelwood and charcoal.  Large scale habitat destruction and loss of wildlife in terms of numbers and biodiversity; progressive disappearance of National Parks.  Variability in climate and rainfall patterns. | HIGH
 
 24
 
@@ -974,11 +1049,11 @@ Table 6.5
 
 [[START OF PAGE 34]]
 
-Water Contamination : Sanitation Aspects
+Table 6.7
+
+Water Contamination: Sanitation Aspects
 --- | --- | --- | ---
  Lack of water supply systems and/or other reliable drinking water source; drinking water contamination with fecal matter leading to spread of pathogens.  Lack of or insufficient sewerage or alternative sanitation systems ;leaks and insufficient maintenance of existing facilities; lack of urban storm water sewers and solid waste disposal facilities.  Insufficient sanitation and hygiene training in conjunction with widespread poor sanitary conditions.  Increased breeding ground for mosquitoes in water weed infested areas and irrigation canals. |  Lack of environmental regulations and laws, monitoring and enforcement and general waste management strategies.  Rapid growth of urban centers and lack of financial resource base to build needed water supply and sanitation infrastructure, combined with lack of planning for urban expansion and required infrastructure.  High capital costs for investments; high operation and maintenance costs.  Previous low priority given to sanitation by government and agencies, lack of awareness of connection between sanitation and safe drinking water; need for better hygiene education.  Poverty and poor health condition of large parts of the population. |  Pollution of drinking water sources (ground and surface water) and high dissolved nutrient loads resulting in increasing eutrophication and spread of infectious diseases ( diarrhea, malaria, bilharzias, dysentery, and intestinal worms).  Risks to public health due to poor sanitation conditions, especially during rainy season and floods.  Increased absence from work due to sickness; increase in malnutrition and death rates especially among vulnerable groups such as small children, the displaced and the elderly. | SEVERE
-
-Table 6.7
 
 25
 
@@ -986,13 +1061,16 @@ Table 6.7
 
 [[START OF PAGE 35]]
 
-able 6.7 Loss of Biodiversity and Habitats.
---- | --- | --- | ---
-Immediate Causes | Root Causes | Impacts | Severity
-Species loss and decline of ecosystems and unique habitats.  Poaching and illegal trade in valuable species as well as intensive and unsustainable resource use and land management, such as deforestation, wetlands conversion, expansion of agriculture (crops and livestock farming, overfishing, uncontrolled burning and forest fires).  Lack of alternative income sources especially in areas or resettlement. Loss of agrodiversity.  Expansion of hybrid/high yielding crop and livestock varieties leading to decrease of genetic diversity of domestic/national species.  Introduction of exotic species. |  Population pressure and poverty combined with high reliance on primary natural resources and income from agriculture.  Low financial and staff capacity in management of protected areas and associated lack of control and monitoring; poor enforcement of laws protecting gazetted forests and game sanctuaries; lack of financial resources for development and implementation of effective and relevant programs.  Weak agricultural extension services.  Lack of awareness of biodiversity concerns and benefits from conservation.  Lack of regulations to prevent introduction of exotic species.  Inadequate and unregulated land use practices; insufficient integrated programs for people living in protected areas. | Species loss and decline of ecosystems and unique habitats.  Disappearance of unique animal and plant species, especially endemic ones; decline of species diversity.  Decrease in numbers of large mammals with negative impact on tourism and associated decrease in revenue.  Decrease in forest cover constituting decrease in food, fuel timber and shelter. Loss of agrodiversity.  Loss of genetic base (cattle breeds, crops, vegetables/fruits); loss of benefits from local variety qualities (tolerance productivity, resilience); dependency on exotic seeds and breeds/imported | SEVERE
-Wetlands Degradation; e.g. Simiyu River, Lake Victoria Shores, banks of Kagera River/swamps
- Reclamation of wetlands to expand agricultural production.  Deforestation, erosion and sedimentation.  Overuse of natural resources (overfishing/hunting/over- grazing,farming practices)  Pollution from industrial, agricultural and domestic sources. | 26  Lack of wetland protection and management regulations and measures and/or lack of implementation .  Poverty and population pressures; shortage of land; inadequate land use policies  Lack of awareness of wetlands function and value, cultural habits. |  Decrease and degradation of wetland areas ( reclamation, siltation, flood damage; water weed infestation)  Decreased benefits from functioning wetlands, e.g. less groundwater re- charge, decreased buffering of floods, loss of filter function to absorb and degrade pollutants and associated decrease in water quality; decreasing ability to act as sediment trap; destruction of habitats and loss of | SEVERE
+able 6.7
 
+Loss of Biodiversity and Habitats.
+Immediate Causes | Root Causes | Impacts | Severity
+--- | --- | --- | ---
+Species loss and decline of ecosystems and unique habitats.  Poaching and illegal trade in valuable species as well as intensive and unsustainable resource use and land management, such as deforestation, wetlands conversion, expansion of agriculture (crops and livestock farming, overfishing, uncontrolled burning and forest fires).  Lack of alternative income sources especially in areas or resettlement. Loss of agrodiversity.  Expansion of hybrid/high yielding crop and livestock varieties leading to decrease of genetic diversity of domestic/national species.  Introduction of exotic species. |  Population pressure and poverty combined with high reliance on primary natural resources and income from agriculture.  Low financial and staff capacity in management of protected areas and associated lack of control and monitoring; poor enforcement of laws protecting gazetted forests and game sanctuaries; lack of financial resources for development and implementation of effective and relevant programs.  Weak agricultural extension services.  Lack of awareness of biodiversity concerns and benefits from conservation.  Lack of regulations to prevent introduction of exotic species.  Inadequate and unregulated land use practices; insufficient integrated programs for people living in protected areas. | Species loss and decline of ecosystems and unique habitats.  Disappearance of unique animal and plant species, especially endemic ones; decline of species diversity.  Decrease in numbers of large mammals with negative impact on tourism and associated decrease in revenue.  Decrease in forest cover constituting decrease in food, fuel timber and shelter. Loss of agrodiversity.  Loss of genetic base (cattle breeds, crops, vegetables/fruits); loss of benefits from local variety qualities (tolerance productivity, resilience); dependency on exotic seeds and breeds/imported varieties. | SEVERE
+Wetlands Degradation; e.g. Simiyu River, Lake Victoria Shores, banks of Kagera River/swamps
+ Reclamation of wetlands to expand agricultural production.  Deforestation, erosion and sedimentation.  Overuse of natural resources (overfishing/hunting/over-grazing,farming practices)  Pollution from industrial, agricultural and domestic sources. |  Lack of wetland protection and management regulations and measures and/or lack of implementation .  Poverty and population pressures; shortage of land; inadequate land use policies  Lack of awareness of wetlands function and value, cultural habits. |  Decrease and degradation of wetland areas ( reclamation, siltation, flood damage; water weed infestation)  Decreased benefits from functioning wetlands, e.g. less groundwater re-charge, decreased buffering of floods, loss of filter function to absorb and degrade pollutants and associated decrease in water quality; decreasing ability to act as sediment trap; destruction of habitats and loss of biodiversity. | SEVERE
+
+26
 [[END OF PAGE 35]]
 
 [[START OF PAGE 36]]
@@ -1103,6 +1181,20 @@ The  pressure  to  expand  secondary  school  places  is  likely  to  rise  rapi
 
 Fig 8.1: Flow Chart of Institutional Roles and Responsibilities
 
+VPO
+
+National Environment
+
+Management Council
+
+(NEMC)
+
+SEDP
+
+MOEVT
+
+PO-RALG
+
 COUNCILS
 
 School
@@ -1111,27 +1203,15 @@ Boards
 
 (SB)
 
-SEDP
-
-MOEVT
-
-PO-RALG
-
-National Environment
-
-Management Council
-
-(NEMC)
-
-VPO
-
 [[END OF PAGE 41]]
 
 [[START OF PAGE 42]]
 
-Proposed Training Program
+### TRAINING NEEDS
 
-Environmental and Social Management process
+Proposed Training Program | Duration
+--- | ---
+Environmental and Social Management process | 3 days
 
  Review of Environmental and Social Management Process.
 
@@ -1155,7 +1235,7 @@ Environmental and Social Management process
 
  Contract.
 
-Environmental and Social policies, procedures and guidelines 2 days
+Environmental and Social policies, procedures and guidelines | 2 days
 
  Review and discussion of Tanzania's national environmental policies, procedures, and legislation.
 
@@ -1163,7 +1243,7 @@ Environmental and Social policies, procedures and guidelines 2 days
 
  Strategies for consultation, participation and social inclusion.
 
-Selected topics on environmental protection
+Selected topics on environmental protection | 1day
 
  Land use, land degradation and soil erosion in the local community area.
 
@@ -1172,12 +1252,6 @@ Selected topics on environmental protection
  Safe management of waste disposal and implications on public health.
 
  Environmental protection of Water resources.
-
-### TRAINING NEEDS
-
-3 days
-
-1day Duration
 
 [[END OF PAGE 42]]
 
@@ -1275,6 +1349,8 @@ details/package is cleared by the
 
 [[START OF PAGE 46]]
 
+Fig 8.2: Key stages of sub project as it applies to Environmental and Social Management only. Other key stages of the sub project cycle omitted for clarity
+
 STEP 1:
 
 Project Start-Up
@@ -1283,331 +1359,73 @@ Implementation
 
 STEP 2
 
-Capacity  Building  and  Training  at  Local  Government
-
-Authority  level  for  review,  clearance  of  school  design
-
-details/packages and on environmental/social monitoring
-
-as  per  proposed  training  program  in  Section  8  of  this
-
-ESMF.
+Capacity Building and Training at Local Government Authority level for review, clearance of school design details/packages and on environmental/social monitoring as per proposed training program in Section 8 of this ESMF.
 
 STEP 3
 
 District Educational Planning
 
-In consultation with and active participation of local communities,
-
-the
-
-Local
-
-Government
-
-Authorities
-
-consistent
-
-with
-
-their
-
-decentralization
-
-mandate,
-
-education
-
-for
-
-all
-
-policies,
-
-local
-
-planning
-
-laws,
-
-national
-
-education
-
-policy,
-
-school
-
-mapping
-
-exercise,    critical  needs,  etc.  prepares  a
-
-District  Secondary
-
-School  Development  Plan  (DSSDP),
-
-containing
-
-inter
-
-alia,
-
-request for funding of secondary schools in their districts. There
-
-will be as many DSSDP's as there are districts.
+In consultation with and active participation of local communities, the Local Government Authorities consistent with their decentralization mandate, education for all policies, local planning laws, national education policy, school mapping exercise, critical needs, etc. prepares a District Secondary School Development Plan (DSSDP), containing inter alia, request for funding of secondary schools in their districts. There will be as many DSSDP's as there are districts.
 
 STEP 4
 
-The DSSDP is then submitted to the
+The DSSDP is then submitted to the respective District Councils for approval.
 
-respective
+STEP 5
 
-District
+The District approved DSSDP is then sent to their respective Regions for consolidation.
 
-Councils
+STEP 6
 
-for
-
-approval.
+The Regional Education Officers will then verify, validate, rationalize and consolidate the DSSDP's of all the districts in their region into a Regional Secondary Schools Development Plan (RSSDP). The RSSDP's will then be approved by the appropriate regional government in line with their decentralization by devolution polices currently underway in Tanzania. Since there are 21 regions there will be 21 RSSDP's.
 
 STEP 7
 
-The
+The region approved RSSDP's are then sent to MOEVT for approval and funding from SEDP.
 
-region
+STEP 8
 
-approved  RSSDP's
-
-are
-
-then
-
-sent
-
-to
-
-MOEVT  for
-
-approval and funding from SEDP.
+The MOEVT will approve SEDP funding for councils based on the RSSDP.
 
 STEP 9
 
 Prioritization of DSSDP's
 
-Once approval is given, the SEDP will make the block grants to
-
-the
-
-Local  Authorities.  The  Districts
-
-will
-
-further
-
-prioritize
-
-their
-
-DSSDP, and choose which schools to build and at what locations.
-
-This
-
-further
-
-prioritization
-
-process
-
-will
-
-be
-
-based  on
-
-size
-
-of
-
-budget/block grant approved by the SEDP viz-a-viz the size of the
-
-budget of the plan, , variability of demand across district, staffing
-
-availability,  etc..,  Districts  Capacity  to  implement,  Districts  critical
-
-needs, social inclusion policies, poverty  and other criteria, etc.
-
-STEP 6
-
-The
-
-Regional
-
-Education
-
-Officers
-
-will
-
-then
-
-verify,
-
-validate,
-
-rationalize and consolidate the DSSDP's of all the districts in their
-
-region  into  a  Regional
-
-Secondary  Schools  Development  Plan
-
-(RSSDP).
-
-The RSSDP's will then be approved by the appropriate
-
-regional government in line with their decentralization by devolution
-
-polices currently underway in Tanzania. Since there are 21 regions
-
-there will be 21 RSSDP's.
-
-STEP 5
-
-The
-
-District
-
-approved
-
-DSSDP  is
-
-then sent to their respective Regions
-
-for consolidation.
-
-STEP 8
-
-The MOEVT will approve SEDP funding for
-
-councils based on the RSSDP.
-
-Fig 8.2: Key stages of sub project as it applies to Environmental and Social Management only. Other key stages of the sub project cycle omitted for clarity
+Once approval is given, the SEDP will make the block grants to the Local Authorities. The Districts will further prioritize their DSSDP, and choose which schools to build and at what locations. This further prioritization process will be based on size of budget/block grant approved by the SEDP viz-a-viz the size of the budget of the plan, , variability of demand across district, staffing availability, etc.., Districts Capacity to implement, Districts critical needs, social inclusion policies, poverty and other criteria, etc.
 
 [[END OF PAGE 46]]
 
 [[START OF PAGE 47]]
 
+From Step 9
+
 STEP 10
 
-At locations where new schools
-
-are
-
-to
-
-be
-
-built,
-
-Local
-
-Government
-
-Authorities
-
-ensures
-
-School  Board  (SB's)
+At locations where new schools are to be built, Local Government Authorities ensures School Board (SB's)
 
 STEP 11
 
 Environmental and Social Management Process Begins
 
-For  approved  schools,  the  SB's  prepare  schools  package
-
-based on customized standard designs, including engineering
-
-designs,  civil  works  contracts  etc.  During  this  stage,  the  SB
-
-uses
-
-the
-
-environmental
-
-and
-
-social
-
-screening
-
-form
-
-and
-
-checklist  to  identify  adverse  impacts  and  then  to  identify  and
-
-incorporate  corresponding  mitigation  measures  and  initiate
-
-contracting consistent with tendering rules. This corresponds to
-
-steps (a) to (m) in Section 9.0 of this ESMF.
+For approved schools, the SB's prepare schools package based on customized standard designs, including engineering designs, civil works contracts etc. During this stage, the SB uses the environmental and social screening form and checklist to identify adverse impacts and then to identify and incorporate corresponding mitigation measures and initiate contracting consistent with tendering rules. This corresponds to steps (a) to (m) in Section 9.0 of this ESMF.
 
 STEP 12
 
 Environmental and Social Management Process Continues
 
-SB's submits school design package to Local Government
-
-Authorities for review and clearance.
+SB's submits school design package to Local Government Authorities for review and clearance.
 
 STEP 13
 
 Implementation
 
-Only
-
-after
-
-clearance
-
-of
-
-SB
-
-design
-
-package  is  funding  released  by  Local
-
-Government  Authorities  to  SB's.  SB's
-
-tender  for  civil  works  contractors  and
-
-construction starts.
+Only after clearance of SB design package is funding released by Local Government Authorities to SB's. SB's tender for civil works contractors and construction starts.
 
 STEP 14
 
-Environmental and Social Management
+Environmental and Social Management Process Continues
 
-Process Continues
-
-Continued
-
-Environmental
-
-and
-
-Social
-
-Management  (including  monitoring)  as  schools
-
-are  constructed,  through  day-to-day  operations
-
-and  also  at  maintenance  stages,  as  detailed  in
-
-this ESMF.
-
-From Step 9
+Continued Environmental and Social Management (including monitoring) as schools are constructed, through day-to-day operations and also at maintenance stages, as detailed in this ESMF.
 
 [[END OF PAGE 47]]
 
@@ -1703,13 +1521,13 @@ From Step 9
 
 - 9.14 This monitoring plan consists of a set of mitigation, monitoring and institutional measures to be taken  during  implementation/construction  and  operations  of  the  participating  District's  school construction  activities,  to  eliminate  adverse  environmental  and  social  impacts,  offset  them,  or reduce  them  to  acceptable  levels.  The  plan  also  includes  actions  needed  to  implement  these measures. The monitoring plan specifies the monitoring measures to be carried out with linkages to  the potential adverse  impacts that  would  have been identified through a process contained in Section 9.0, by:
 
-- Scheduling and coordinating monitoring tasks.
+1. Scheduling and coordinating monitoring tasks.
 
-- Evaluating mitigation effectiveness.
+2. Evaluating mitigation effectiveness.
 
-- Identifying where applicable, corrective management practices.
+3. Identifying where applicable, corrective management practices.
 
-- Ensuring  that  monitoring  findings  are  suitably  evaluated  and  incorporated into future management decisions.
+4. Ensuring that monitoring findings are suitably evaluated and incorporated into future management decisions.
 
 41
 
@@ -1717,19 +1535,19 @@ From Step 9
 
 [[START OF PAGE 51]]
 
+Table 9.1: General Monitoring Plan
+
 Potential Negative Environmental and Impacts | Mitigation Measures | Monitoring Measures | Phase/Stage | Responsibility | Cost Estimates
 --- | --- | --- | --- | --- | ---
-1. Minor loss of vegetation 2. Pollution of land and nearby water resources 3. Soil erosion 4. Air pollution and noise | Fully implement the ESMF, use screening form and checklist in Annex 3.0 and 4.0), environmental restoration, regular and suitable maintenance of infrastructure/equipment/plant, etc. | Periodic monitoring and evaluation of verifiable indicators for all impacts identified in the sub project ESMP and examples of which are contained in this Section above. | On going throughout the life of the district secondary school sub projects and project and beyond thereby ensuring the institutional arrangements are sustainable beyond the life of the program. | 1. Participating School Boards (SB) 5 . 2. Respective Districts 6 3.MOEVT 7 4. NEMC 8 5. The SB's and the Councils will be assisted by District Environmental Officers or any designated Environmental Experts and will receive training. | Refer Para 9.21 below
+1. Minor loss of vegetation 2. Pollution of land and nearby water resources 3. Soil erosion 4. Air pollution and noise | Fully implement the ESMF, use screening form and checklist in Annex 3.0 and 4.0), environmental restoration, regular and suitable maintenance of infrastructure/equipment/plant, etc. | Periodic monitoring and evaluation of verifiable indicators for all impacts identified in the sub project ESMP and examples of which are contained in this Section above. | On going throughout the life of the district secondary school sub projects and project and beyond thereby ensuring the institutional arrangements are sustainable beyond the life of the program. | 1. Participating School Boards (SB)⁵. 2. Respective Districts⁶ 3.MOEVT⁷ 4. NEMC⁸ 5. The SB’s and the Councils will be assisted by District Environmental Officers or any designated Environmental Experts and will receive training. | Refer Para 9.21 below
 
-Table 9.1:  General Monitoring Plan
-
-> 5 The SB's monitoring role is detailed in Section 10.1.1
-
-> 7 The MOEVT's monitoring role is detailed in Section 10.1.4
+> 5 The SB’s monitoring role is detailed in Section 10.1.1
 
 > 6 The LGAs monitoring role is detailed in Section 10.1.2
 
-> 8 The NEMC's monitoring role is detailed in Section 10.1.3
+> 7 The MOEVT’s monitoring role is detailed in Section 10.1.4
+
+> 8 The NEMC’s monitoring role is detailed in Section 10.1.3
 
 42
 
@@ -1753,18 +1571,18 @@ Table 9.1:  General Monitoring Plan
 
 - 9.21 Summary of budget estimates for ESMF implementation is provided in table 9.2 below.
 
-- 9.22 The budget estimates provided in this ESMF are just indicative, actual costs will be determined during the implementation phase, when the specific number of people required for training will be identified and the level of technical assistance required.
-
-- 9.23 Other costs such as for screening and review of environmental and social related aspects will be covered be responsible LGAs under the guidance of PMO-RALG.
+Table 9.2: Summary of budget estimates for ESMF implementation
 
 No. | ESMF proposed activity | Responsible institutions | Cost (USD)
 --- | --- | --- | ---
 1 | Needs assessment | MoEVT, PMO-RALG, SB | 50,000
 2 | Training/capacity building | MoEVT, PMO-RALG, SB | 100,000
 3 | Monitoring activities | MoEVT, PMO-RALG, NEMC, Donors | 80,000
-Total | 230, 000
+Total |  |  | 230, 000
 
-Table 9.2: Summary of budget estimates for ESMF implementation
+- 9.22 The budget estimates provided in this ESMF are just indicative, actual costs will be determined during the implementation phase, when the specific number of people required for training will be identified and the level of technical assistance required.
+
+- 9.23 Other costs such as for screening and review of environmental and social related aspects will be covered be responsible LGAs under the guidance of PMO-RALG.
 
 43
 
@@ -1830,7 +1648,7 @@ Table 9.2: Summary of budget estimates for ESMF implementation
 
  Indigenous  Peoples  (OD  4.20). This  directive  provides  guidance  to  ensure  that  indigenous  peoples benefit  from  development  projects,  and  to  avoid  or  mitigate  adverse  effects  of  Bank-financed development  projects  on  indigenous  peoples.  Measures  to  address  issues  pertaining  to  indigenous peoples must be based on the informed participation of the indigenous people themselves. Sub-projects that would have negative impacts on indigenous people will not be funded under SEDP II.
 
- Forests (OP 4.36). This policy applies to the following types of Bank-financed investment projects: (a) projects that have or may have impacts on the health and quality of forests; (b) projects that affect the rights  and  welfare  of  people  and  their  level  of  dependence  upon  or  interaction  with  forests;  and  (c) projects that aim to bring about changes in the management, protection, or utilization of natural forests or plantations, whether they are publicly, privately, or communally owned.  The Bank does not finance projects that, in its opinion, would involve significant conversion or degradation of critical forest areas or  related  critical  habitats.    If  a  project  involves the  significant conversion or  degradation  of  natural forests or related natural habitats that the Bank determines are not critical, and the Bank determines that  there  are  no  feasible  alternatives  to  the  project  and  its  sitting,  and  comprehensive  analysis demonstrates that overall benefits from the project substantially outweigh the environmental costs, the Bank  may  finance  the  project  provided  that  it  incorporates  appropriate  mitigation  measures.  Subprojects that is likely to have negative impacts on forests will not be funded under SEDP.
+ Forests (OP 4.36). This policy applies to the following types of Bank-financed investment projects: (a) projects that have or may have impacts on the health and quality of forests; (b) projects that affect the rights  and  welfare  of  people  and  their  level  of  dependence  upon  or  interaction  with  forests;  and  (c) projects that aim to bring about changes in the management, protection, or utilization of natural forests or plantations, whether they are publicly, privately, or communally owned.  The Bank does not finance projects that, in its opinion, would involve significant conversion or degradation of critical forest areas or  related  critical  habitats.    If  a  project  involves the  significant conversion or  degradation  of  natural forests or related natural habitats that the Bank determines are not critical, and the Bank determines that  there  are  no  feasible  alternatives  to  the  project  and  its  sitting,  and  comprehensive  analysis demonstrates that overall benefits from the project substantially outweigh the environmental costs, the Bank  may  finance  the  project  provided  that  it  incorporates  appropriate  mitigation  measures.  Sub-projects that is likely to have negative impacts on forests will not be funded under SEDP.
 
 46
 
@@ -2057,7 +1875,7 @@ Yes____ No___
 
 If 'Yes', tick the following boxes as appropriate:
 
-The Environmental Management Pl an (EMP) included in this school application contains measures to suitably address these impacts adequately.
+The Environmental Management Plan (EMP) included in this school application contains measures to suitably address these impacts adequately.
 
 The Architectural and Engineering drawings, included in this school application contains measures to suitably address these impacts adequately.
 
@@ -2137,11 +1955,13 @@ Date:
 
 Environmental and Social Components | Impacts | Mitigation Measures
 --- | --- | ---
-Physical Environment Soils | • Erosion of lands down slope from borrows areas. • Landslides and slips. • Contamination from waste materials, e.g. cement and paints, engine oils, etc. • Excavating borrow pits for aggregate materials (sand and stone) for concrete. • Cutting of stone for use on façades. | Refer to Annex 2.0 for summary of safeguard policies Construction in dry season; protection of soil surfaces during construction; re-vegetation or physical stabilization of erodable surfaces. Land restoration measures. Adequate protection from livestock entry by fencing the site perimeters. Control and daily cleaning at construction sites, Provision of adequate waste disposal services. Proper disposal of chemicals and other hazardous materials. Dust control by water, appropriate design and siting, restrict construction to certain times.
+Physical Environment |  | Refer to Annex 2.0 for summary of safeguard policies
+Soils | • Erosion of lands down slope from borrows areas. • Landslides and slips. • Contamination from waste materials, e.g. cement and paints, engine oils, etc. • Excavating borrow pits for aggregate materials (sand and stone) for concrete. • Cutting of stone for use on façades. | Construction in dry season; protection of soil surfaces during construction; re-vegetation or physical stabilization of erodable surfaces. Land restoration measures. Adequate protection from livestock entry by fencing the site perimeters. Control and daily cleaning at construction sites, Provision of adequate waste disposal services. Proper disposal of chemicals and other hazardous materials. Dust control by water, appropriate design and siting, restrict construction to certain times. Appropriate and suitable storage of building materials on site.
 Water Resources | • Creation of stagnant water pools • Increased sediments into streams • Clogging of drainage works • Decline in water quality • Increase in runoff and flooding conditions • Introduction of hazardous wastes • Contamination of Wells | Special attention to drainage; prevention of erosion; consideration of alternative alignments; retention ponds; proper disposal of oil and other hazardous materials Siting of Latrines at safe distances from wells and using closed systems for sewage drainage.
-Air Quality | • Dust during construction • Poor air circulation/quality in classrooms. | Dust control by water or other means. Ensure designs incorporate large windows covered by long overhanging roofs. Position windows for natural cross ventilation. Use appropriate roofing materials with suitable insulation. Restrict construction to certain hours
-Acoustic Environnement | • Noise disturbance
-Bio-physical Environment Natural Habitats | • Disturbance of natural habitats | Refer to Annex 2.0 for summary of safeguard policies. Consideration of alternative alignments or sites (especially
+Air Quality | • Dust during construction • Poor air circulation/quality in classrooms. | Dust control by water or other means. Ensure designs incorporate large windows covered by long overhanging roofs. Position windows for natural cross ventilation. Use appropriate roofing materials with suitable insulation.
+Acoustic Environnement | • Noise disturbance | Restrict construction to certain hours
+Bio-physical Environment |  | Refer to Annex 2.0 for summary of safeguard policies.
+Natural Habitats | • Disturbance of natural habitats | Consideration of alternative alignments or sites (especially
 
 53
 
@@ -2151,11 +1971,13 @@ Bio-physical Environment Natural Habitats | • Disturbance of natural habitats 
 
 Environmental and Social Components | Impacts | Mitigation Measures
 --- | --- | ---
-Fauna and Flora | • Disturbance to protected areas • Disruption or destruction of wildlife • Threats to rare and endangered species | for new schools) Minimize loss of natural vegetation during construction; alternative sites; various special measures for sensitive species Refer to Annex 3.0 for summary of safeguard policies.
-Social Environment Aesthetics and Landscape | • Marred landscapes • Debris | Restoration of vegetation; cleanup of construction sites
+ | • Disturbance to protected areas | for new schools)
+Fauna and Flora | • Disruption or destruction of wildlife • Threats to rare and endangered species | Minimize loss of natural vegetation during construction; alternative sites; various special measures for sensitive species
+Social Environment |  | Refer to Annex 3.0 for summary of safeguard policies.
+Aesthetics and Landscape | • Marred landscapes • Debris | Restoration of vegetation; cleanup of construction sites
 Historical/Cultural Sites | • Degradation of sites • Disturbance to structures | Alternative alignments and/or sites Special measures to protect cultural heritage sites
-Human Health | • Transport of hazardous substances • Traffic accidents • Pedestrian accidents • Personal hygiene of students and teachers. | Regulation of transport of materials Safety designs (signage) Ensure availability of clean potable water for use in latrines, canteens and for drinking. Use of appropriate building materials. No asbestos etc. Prepare Resettlement and Compensation Plans consistent
-Human Communities | • Involuntary resettlement • Loss of crops, buildings, property, or economic livelihood | with disclosed RPF as per OP 4.12
+Human Health | • Transport of hazardous substances • Traffic accidents • Pedestrian accidents • Personal hygiene of students and teachers. | Regulation of transport of materials Safety designs (signage) Ensure availability of clean potable water for use in latrines, canteens and for drinking. Use of appropriate building materials. No asbestos etc.
+Human Communities | • Involuntary resettlement • Loss of crops, buildings, property, or economic livelihood | Prepare Resettlement and Compensation Plans consistent with disclosed RPF as per OP 4.12
 
 54
 
@@ -2167,11 +1989,15 @@ Human Communities | • Involuntary resettlement • Loss of crops, buildings, p
 
 #### ENVIRONMENTAL MITIGATION PLAN FOR SEDP
 
-Project Activities | Mitigation Measures | Implementing Agencies Monitoring | Timing | Costs
+Project Activities | Mitigation Measures | Implementing Agencies | Monitoring Responsibility | Timing | Costs
 --- | --- | --- | --- | --- | ---
-Construction of schools | Environmental and social screening Public consultations/ sensitization Prepare RAPs as necessary Environmental guidelines for contractors Regular maintenance of water points & latrines, solid waste disposal,, school buildings, | School Management Boards School Boards, District and Regional Governments School Boards (SB's) SMB's /service providers SB | Responsibility District Environmental Coordinator MOEVT District Environmental Coordinator District Environmental Coordinator. | Ongoing TBD TBD Ongoing Ongoing | Included in program Included in sub-projects Included in program Included in contract Included in program. See Table 10.2
-Training of (District Environment Coordinators /service providers) | NEMC | MOEVT | TBD | TBD
-Total Costs | TBD
+Construction of schools | Environmental and social screening | School Management Boards | District Environmental Coordinator | Ongoing | Included in program
+ | Public consultations/ sensitization | School Boards, District and Regional Governments | MOEVT | TBD | Included in sub-projects
+ | Prepare RAPs as necessary | School Boards (SB’s) | District Environmental Coordinator | TBD | Included in program
+ | Environmental guidelines for contractors | SMB’s /service providers | District Environmental Coordinator. | Ongoing | Included in contract
+ | Regular maintenance of water points & latrines, solid waste disposal,, school buildings, compound, etc. | SB |  | Ongoing | Included in program. See Table 10.2
+Training of (District Environment Coordinators /service providers) |  | NEMC | MOEVT | TBD | TBD
+ |  |  |  | Total Costs | TBD
 
 55
 
@@ -2183,33 +2009,33 @@ Total Costs | TBD
 
 #### ENVIRONMENTALLY SENSITIVE AREAS (ESA'S) AND ECOSYSTEMS
 
-- Areas prone to natural disasters (geological hazards, floods, rain storms, earthquakes, landslides, volcanic activity, etc.)
+1. Areas prone to natural disasters (geological hazards, floods, rain storms, earthquakes, landslides, volcanic activity, etc.)
 
-- Wetlands: (Flood plains. Swamps, lakes, rivers, etc.) Water bodies.
+2. Wetlands: (Flood plains. Swamps, lakes, rivers, etc.) Water bodies.
 
-- Areas susceptible  to  erosion  e.g.  (a)  hilly  areas  with  critical  slopes  and  (b)  unprotected  or  bare lands.
+3. Areas susceptible  to  erosion  e.g.  (a)  hilly  areas  with  critical  slopes  and  (b)  unprotected  or  bare lands.
 
-- Areas of importance to threatened cultural groups.
+4. Areas of importance to threatened cultural groups.
 
-- Areas with rare/endangered/or threatened plants and animals.
+5. Areas with rare/endangered/or threatened plants and animals.
 
-- Areas of unique socio-cultural, historic archaeological, scientific, tourist areas.
+6. Areas of unique socio-cultural, historic archaeological, scientific, tourist areas.
 
-- Polluted areas.
+7. Polluted areas.
 
-- Area subject to desertification and bush fires.
+8. Area subject to desertification and bush fires.
 
-- Coastal  areas  and  Marine  ecosystems, such  as  coral  reefs,  Islands,  lagoons  and  estuaries, continental shelves, beach fronts and inter tidal zones.
+9. Coastal  areas  and  Marine  ecosystems, such  as  coral  reefs,  Islands,  lagoons  and  estuaries, continental shelves, beach fronts and inter tidal zones.
 
-- Areas  declared  as,  national  parks,  water  shed  reserves,  forest  reserves,  wildlife  reserves  and sanctuaries, sacred areas wildlife corridors and hot spring areas.
+10. Areas  declared  as,  national  parks,  water  shed  reserves,  forest  reserves,  wildlife  reserves  and sanctuaries, sacred areas wildlife corridors and hot spring areas.
 
-- Mountainous areas water catchment areas and recharge areas of aquifers.
+11. Mountainous areas water catchment areas and recharge areas of aquifers.
 
-- Areas classified as prime agricultural lands or range lands.
+12. Areas classified as prime agricultural lands or range lands.
 
-- Green belts or public open spaces in urban areas.
+13. Green belts or public open spaces in urban areas.
 
-- Burial sites and graves.
+14. Burial sites and graves.
 
 > 9 Culled from Appendix 10 of Vol. 1, Tanzania Environmental Impact Assessment Procedure and Guidelines (rev. March 2002).
 
@@ -2230,23 +2056,23 @@ School Application Number…
 
 ##### Part 1: Identification
 
-- School Name:
+1. School Name:
 
-- School Location:
+2. School Location:
 
-- Reason for Field Appraisal : Summarize the issues from the ESMF Checklist that determined the need for a Field Appraisal.
+3. Reason for Field Appraisal: Summarize the issues from the ESMF Checklist that determined the need for a Field Appraisal.
 
-- Date(s) of Field Appraisal:
+4. Date(s) of Field Appraisal:
 
-- Field Appraisal Officer and Address:
+5. Field Appraisal Officer and Address:
 
-- Service Provider Representative and Address:
+6. Service Provider Representative and Address:
 
-- School Board Representative and Address:
+7. School Board Representative and Address:
 
 ##### Part 2: Description of the School Application
 
-- School Application Details: Provide details that are not adequately presented in the secondary school application. If needed to clarify school application details, attach sketches of the subproject component(s) in relation to the community and to existing facilities
+8. School Application Details: Provide details that are not adequately presented in the secondary school application. If needed to clarify school application details, attach sketches of the subproject component(s) in relation to the community and to existing facilities
 
 ##### Part 3: Environmental and Social Issues
 
@@ -2268,7 +2094,7 @@ If 'Yes', tick one of the following boxes:
 
 The  RAP  included  in  the  subproject  application  must  be  improved  before  the  application  can  be considered further.
 
-A RAP must be prepared and approved before the application can be considered furthe r.
+A RAP must be prepared and approved before the application can be considered further.
 
 57
 
@@ -2284,7 +2110,7 @@ If 'Yes', tick one of the following boxes:
 
 If 'Yes', tick one of the following boxes:
 
-The Environmental Management Plan (EMP) included in the schoo l application is adequate. No further action required.
+The Environmental Management Plan (EMP) included in the school application is adequate. No further action required.
 
 The EMP included in the school application must be improved before the application can be considered further.
 
@@ -2304,9 +2130,9 @@ If 'Yes', tick one of the following boxes:
 
 The application describes suitable measures for managing the potential adverse Environmental effects of these activities. No further action required.
 
-The application does not describe s uitable measures for managing the potential adverse environmental effects of these activities. An Environmental Management Plan must be prepared and approved before the application is considered further.
+The application does not describe suitable measures for managing the potential adverse environmental effects of these activities. An Environmental Management Plan must be prepared and approved before the application is considered further.
 
-###### Are there any other environmental or social issues that have not been adequately addressed?
+###### 12. Are there any other environmental or social issues that have not been adequately addressed?
 
 If 'Yes', summarize them:
 
@@ -2320,7 +2146,7 @@ and tick one of the following boxes:
 
  before it is considered further, the application needs to be amended to include suitable measures for addressing these environmental or social issues.
 
- An Environmental Managemen t Plan needs to be prepared and approved before the application is considered further.
+ An Environmental Management Plan needs to be prepared and approved before the application is considered further.
 
 ##### Part 4: Field Appraisal Decision
 
