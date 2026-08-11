@@ -44,13 +44,17 @@ There are differences in the legal nature of the obligations under the Conventio
 
 Bearing in mind the differences in legal scope inherent to the nature of these two categories of instruments, the content of the Recommendation is identical to that of the Convention. Member States are expected to give effect to it in national legislation and education policies.
 
-The reporting obligation under the provisions of Article VII of the Convention and of the Recommendation is the  same.  Article  VIII  of  UNESCO's  Constitution  states  that  'Each  Member  State  shall  submit  to  the Organization, at such times and in such manner as shall be determined by the General Conference, reports on  the  laws,  regulations  and  statistics  relating  to  its  educational,  scientific  and  cultural  institutions  and activities,  and  on  the  action  taken  upon  the  recommendations  and  conventions  referred  to  in  Article  IV, paragraph 4'. Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to  submit  a  national  report  on  the  implementation  of  these  instruments  in  the  context  of  monitoring consultations. 1
+The reporting obligation under the provisions of Article VII of the Convention and of the Recommendation is the same. Article VIII of UNESCO's Constitution states that 'Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General Conference, reports on the laws, regulations and statistics relating to its educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to in Article IV,
 
 2
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+paragraph 4'. Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
+
+1
 
 ## 4. Participation in consultations
 
@@ -222,21 +226,23 @@ See below 1.2
 
 X  Combatting discrimination in terms of curriculum:  In pre-primary education (including early learning and care)  In primary education  In secondary education  In technical and vocational education and training  In higher education  In adult education and alternative learning
 
-- 15 Constitution, laws, decrees, regulations, circulars, etc.
-
 - Please provide details:
 
- Other measures adopted to both prevent and eliminate discrimination in education and ensure equal access to all levels and types of education: See below
+ Other measures adopted to both prevent and eliminate discrimination in education and ensure equal access to all levels and types of education:
+
+See below
 
 #### 1.2 Equality of opportunities and inclusion in education
 
-- Please  indicate  the  actions  taken/planned  to  ensure  equality  of  opportunities  (in  terms  of  access, participation  and  completion),  equal  treatment  and  to  support  the  inclusion  of  all  learners  in  learning processes (several items may be ticked):
+- Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked):
 
 ##### General measures:
 
 X  Legislation provides for inclusive education for all X  Policy measures aim to enhance inclusion in education for all X  Teachers are trained on inclusive education16 and to value diversity X  Initiatives to address discrimination and promote cultural diversity and mutual acceptance  Other: X  Multiple and flexible learning pathways17 are provided for X  Curricula and teaching methods are inclusive in design18 X  Multilingual and intercultural education is supported
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
+
+> 15 Constitution, laws, decrees, regulations, circulars, etc.
 
 7
 
@@ -259,13 +265,13 @@ The MIM is committed to implementing measures and activities aimed at ensuring e
 Legislative decree 13 April 2017, n. 63, art. 9 established the Single Fund for the right to study aimed at combating  school  dropout  which  provides  for  the  provision  of  scholarships  for  students  at  secondary schools. The Fund amounts to 39.7 million euros starting from 2019. The total beneficiaries in the 2022/23 year were 179,617, equally distributed between males and females (86,953 females, 48%, 92664 males, 52%
 
 ###### Scholarships for the provision of textbooks
-https://www.miur.gov.it/documents/20182/7975243/m_pi.AOOGABMI.Registro+Decreti%28R%29.00002 54.22-12-2023.pdf/d265e8d6 -502a-87dc-c104-9a86de073de5?version=1.0&t=1708511337563
+https://www.miur.gov.it/documents/20182/7975243/m_pi.AOOGABMI.Registro+Decreti%28R%29.0000254.22-12-2023.pdf/d265e8d6-502a-87dc-c104-9a86de073de5?version=1.0&t=1708511337563
 
 Art. 27, law 23 December 1998, n. 448, Amount needed to guarantee the total or partial free of charge of textbooks for pupils who fulfill compulsory education in possession of the required requirements as well as the supply of textbooks to be given on loan also to secondary school students, for a total of 133 million euros for first and second grade secondary schools.
 
 The following contributed to the sum:
 
-- Art. 1, paragraph 258 law 28 December 2015, n. 208, Provisions for the formation of the annual and multiannual  State  budget  (stability  law  2016). Paragraph  258. To  contribute  to  expenses  incurred  and  not
+- Art. 1, paragraph 258 law 28 December 2015, n. 208, Provisions for the formation of the annual and multi-annual State budget (stability law 2016). Paragraph 258. To contribute to expenses incurred and not
 
 > 5 16 Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
 
@@ -287,7 +293,7 @@ covered  by  contributions  or  public  support  of  another  nature  for  the  
 
 schooling according to the distribution of less well-off pupils (ISEE and income).
 
-The distribution of the 2024 resources took place with directorial decree prot. n. 309 of 02/16/2024. https://www.miur.gov.it/-/decreto-direttoriale-n-309-del-16-febbraio2024#:~:text=309%20del%2016%20febbraio%202024,-Nota%20Prot. &text=Disbursement of%20funds%20to%20Regions%20per,12%2F1998%20e%20s.mi .).
+The distribution of the 2024 resources took place with directorial decree prot. n. 309 of 02/16/2024. https://www.miur.gov.it/-/decreto-direttoriale-n-309-del-16-febbraio-2024#:~:text=309%20del%2016%20febbraio%202024,-Nota%20Prot.&text=Disbursement%20of%20funds%20to%20Regions%20per,12%2F1998%20e%20s.mi .).
 
 ###### Scholarships for victims of terrorism and organized crime
 
@@ -304,10 +310,9 @@ The  Ministry  of  Education  and  Merit  has  dedicated  a  section  of  the  h
 
 The main actions undertaken to protect fundamental rights in our country can be found in the various bulletins  published  by  the  European  Union  Agency  for  Fundamental  Rights  (FRA),  please  refer  to  the following link:
 
-https://fra.europa.eu/sites/default/files/fra_uploads/it_report_on_coronavirus_pandemic_june_2020.p df
+https://fra.europa.eu/sites/default/files/fra_uploads/it_report_on_coronavirus_pandemic_june_2020.pdf
 
 ###### Summer School Plan
-Since the 2020-21 school year ( Circ. n.643 of 04.27.2021), the Ministry has launched the 510-million-euro summer  plan,  to  allow  students  to  recover  sociality  and  strengthen  learning,  taking  advantage  of workshops to improve skills (for example Italian, Mathematics, Languages), educational activities focused on music, art, sport, digital, courses on legality and sustainability, on environmental protection.
 
 9
 
@@ -315,7 +320,9 @@ Since the 2020-21 school year ( Circ. n.643 of 04.27.2021), the Ministry has lau
 
 [[START OF PAGE 10]]
 
-An offer that represents a response to the difficulties that emerged during the pandemic, but which also intends  to  enhance  the  good  practices  and  innovative  experiences  born  during  the  emergency.  The activities will be complementary and integrated with those organized by local authorities. The resources are dedicated above all to the most fragile areas of the country, particularly in the South.
+Since the 2020-21 school year (Circ. n.643 of 04.27.2021), the Ministry has launched the 510-million-euro summer plan, to allow students to recover sociality and strengthen learning, taking advantage of workshops to improve skills (for example Italian, Mathematics, Languages), educational activities focused on music, art, sport, digital, courses on legality and sustainability, on environmental protection.
+
+An offer that represents a response to the difficulties that emerged during the pandemic, but which also intends to enhance the good practices and innovative experiences born during the emergency. The activities will be complementary and integrated with those organized by local authorities. The resources are dedicated above all to the most fragile areas of the country, particularly in the South.
 
 The Plan aims to bring the school back to the centre of the community, creating spaces for strengthening skills  and  recovering  relationships,  working  together  with  the  territories  and  associations,  promoting community educational pacts.
 
@@ -323,7 +330,7 @@ The Plan has also been re-proposed for the 2021-2022 school year (note n.994 of 
 
 With Notice no. 59369 of 31 May 2024 https://pn20212027.editore.it/avvisi/piano-estate/
 
-has been issued which intends to expand and support the educational offer of schools with specific actions aimed at promoting initiatives for learning, aggregation, inclusion and sociability, especially during the period of summer suspension of lessons in school years 2023-2024 and 2024-2025. The notice is part of the actions envisaged by the specific objective ESO4.6 of the national program "School and skills" 20212027 and the interventions referred to in decree no. 72 of 11 April 2024 of the Minister of Education and Merit. The initiative is financed by the European Social Fund plus (ESF+) as part of the PN Scuola 21-27.
+has been issued which intends to expand and support the educational offer of schools with specific actions aimed at promoting initiatives for learning, aggregation, inclusion and sociability, especially during the period of summer suspension of lessons in school years 2023-2024 and 2024-2025. The notice is part of the actions envisaged by the specific objective ESO4.6 of the national program "School and skills" 2021-2027 and the interventions referred to in decree no. 72 of 11 April 2024 of the Minister of Education and Merit. The initiative is financed by the European Social Fund plus (ESF+) as part of the PN Scuola 21-27.
 
 ###### Actions for the Ukraine emergency
 
@@ -357,7 +364,7 @@ The ITS Academies participating in the network initiate, based on the integrated
 
 At the end of the first experimental cycle, including the secondary education and training path and the tertiary education path in the ITS Academy, the experimentation may be renewed, subject to a positive evaluation by the National Observatory for Technical and Professional Education.
 
-https://www.miur.gov.it/-/observatorio-nazionale-per-l-editore-tecnica-e-professionale-pubblicato-ildecreto-ministeriale-concernente-le-modalita-di-facciamento
+https://www.miur.gov.it/-/observatorio-nazionale-per-l-editore-tecnica-e-professionale-pubblicato-il-decreto-ministeriale-concernente-le-modalita-di-facciamento
 
 -  In  general,  what  challenges  were  encountered  in  the  implementation  of  non-discrimination  and  equal opportunities principles in education? If needed, brief quantitative information may be added.
 
@@ -431,13 +438,15 @@ which includes among the areas of intervention identified  the  'prevention  of 
 
 ###### Observatory on the phenomenon of violence against women and domestic violence
 
-The MIM participates in the Observatory established at the Department for Equal Opportunities of the Presidency of the Council of Ministers in implementation of the art. 5, paragraph 2bis of the Legislative Decree of  14  August  2013,  93,  converted  with  amendments  to  the  law  of  15  October  2013,  119  and established with the Ministerial Decree of 12 April 2022: institutional initiatives and activities aimed at preventing and combating the phenomenon of violence against women and of domestic violence, also in implementation of the National Strategic Plan on male violence against women 2021.23 (articulated in 4 Axes -Prevention, Protection and support, Prosecute and punish, assistance and Promotion). https://www.pariopportunita.gov.it/it/news-e-media/news/archive/observatory-sul-fenomeno-dellaviolenza-nei-confronti-delle-donne-e-sulla-violenza-domesticathe-minister-bonetti-chairs-theinstallation-meeting/
+The MIM participates in the Observatory established at the Department for Equal Opportunities of the Presidency of the Council of Ministers in implementation of the art. 5, paragraph 2bis of the Legislative
 
 13
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+
+Decree of 14 August 2013, 93, converted with amendments to the law of 15 October 2013, 119 and established with the Ministerial Decree of 12 April 2022: institutional initiatives and activities aimed at preventing and combating the phenomenon of violence against women and of domestic violence, also in implementation of the National Strategic Plan on male violence against women 2021.23 (articulated in 4 Axes -Prevention, Protection and support, Prosecute and punish, assistance and Promotion). https://www.pariopportunita.gov.it/it/news-e-media/news/archive/observatory-sul-fenomeno-della-violenza-nei-confronti-delle-donne-e-sulla-violenza-domestica-the-minister-bonetti-chairs-the-installation-meeting/
 
 ###### Working group to combat violence against women with disabilities
 
@@ -466,7 +475,7 @@ In addition to the aforementioned initiative organized on the occasion of "STEM 
 
 On the occasion of 8 March 2024, the Minister celebrated the anniversary with a video message .
 
-###### March - STEM Month https://www.miur.gov.it/-/8-marzo-giornata-internazionale-della-donnail-mese-delle-stem-e-bando-di-concorso-steam- feminine-plural--1
+###### March - STEM Month https://www.miur.gov.it/-/8-marzo-giornata-internazionale-della-donna-il-mese-delle-stem-e-bando-di-concorso-steam- feminine-plural--1
 
 A field in which the Ministry has historically been involved is the breaking down of stereotypes according to which girls are better suited to social and humanistic subjects and boys to technical and scientific ones.
 
@@ -486,15 +495,15 @@ For the school year 2023/24, the fifth edition of the competition, which sees a 
 
 The  MIM,  with  decree  no.  184  of  09/15/2023,  adopted  the  " Guidelines  for  STEM  disciplines " which implement the reform included in the National Recovery and Resilience Plan and contribute to achieving the  objectives of  the  investment  "New  skills  and  new  languages ",  with  the  aim  of  " developing  and strengthening STEM, digital and innovation skills in all school cycles, from nursery to secondary school , with the aim of encouraging enrollment in tertiary STEM curricula, in particular for women" Ministerial Decree of 12 April 2023, n. 65 .
 
-The Guidelines document does not contain new content but focuses on indicating more effective teaching methodologies and strategies such as: laboratory skills, problem solving, cooperative learning, problembased learning, etc. Information, awareness and training actions aimed at families can be promoted, in particular on the occasion of the celebration of the International Day of Women and Girls in Science in school  institutions, to  encourage  participation  in  study  courses  in  STEM  disciplines, mainly  among students and of female students, overcoming gender stereotypes.
+The Guidelines document does not contain new content but focuses on indicating more effective teaching methodologies and strategies such as: laboratory skills, problem solving, cooperative learning, problem-based learning, etc. Information, awareness and training actions aimed at families can be promoted, in particular on the occasion of the celebration of the International Day of Women and Girls in Science in school institutions, to encourage participation in study courses in STEM disciplines, mainly among students and of female students, overcoming gender stereotypes.
 
 ###### Adoption decree:
 
-https://www.miur.gov.it/documents/20182/0/DM+184+del+15+settembre+2023.pdf/278712a8-19dee28b-8938-6fa4610fb13a?version=1.0&t=1698173015248
+https://www.miur.gov.it/documents/20182/0/DM+184+del+15+settembre+2023.pdf/278712a8-19de-e28b-8938-6fa4610fb13a?version=1.0&t=1698173015248
 
 ###### Guidelines:
 
-https://www.miur.gov.it/documents/20182/0/Linee+guida+STEM.pdf/2aa0b11f-7609-66ac-3fd82c6a03c80f77?version=1.0&t=1698173043586
+https://www.miur.gov.it/documents/20182/0/Linee+guida+STEM.pdf/2aa0b11f-7609-66ac-3fd8-2c6a03c80f77?version=1.0&t=1698173043586
 
 ###### Action: New skills and new languages
 
@@ -502,7 +511,7 @@ https://pnrr.editore.it/competenze/nuove-competenze-e-nuovi-linguaggi/
 
 ###### May 17 - International Day against Homophobia, Biphobia and Transphobia
 
-With the resolution of the European Parliament of 26 April 2007, the European Union declared 17 May the International  Day  against  Homophobia  and  against  any  form  of  prejudicial  attitude  based  on  sexual orientation. The principles which inspire the day are those constitutive of both the European Union and the Italian Constitution: respect for human rights and fundamental freedoms, equality between all citizens and non-discrimination.
+With the resolution of the European Parliament of 26 April 2007, the European Union declared 17 May the International Day against Homophobia and against any form of prejudicial attitude based on sexual orientation. The principles which inspire the day are those constitutive of both the European Union and
 
 15
 
@@ -510,13 +519,15 @@ With the resolution of the European Parliament of 26 April 2007, the European Un
 
 [[START OF PAGE 16]]
 
-The school is constantly committed to achieving real inclusion within itself capable of enhancing individual personalities  and  has  the  task  of  educating  the  new  generations  to  combat  all  forms  of  violence  and discrimination.
+the Italian Constitution: respect for human rights and fundamental freedoms, equality between all citizens and non-discrimination.
+
+The school is constantly committed to achieving real inclusion within itself capable of enhancing individual personalities and has the task of educating the new generations to combat all forms of violence and discrimination.
 
 In view of this day, schools of all levels, within the scope of their didactic and organizational autonomy, are invited to carry out an in-depth study on issues related to the fight against discrimination and respect for human rights and fundamental freedoms.
 
 For the school year 2023/2024 the Minister issued Circular no. 68924 of 17 May 2024
 
-https://www.miur.gov.it/documents/20182/7975243/m_pi.AOOGABMI.REGISTRO+UFFICIALE%28U%29.0 068924.17-05-2024.pdf/d7450c29-7e9b-c7a7-b522-34d90d8edb42?version= 1.0&t=1715946686570
+https://www.miur.gov.it/documents/20182/7975243/m_pi.AOOGABMI.REGISTRO+UFFICIALE%28U%29.0068924.17-05-2024.pdf/d7450c29-7e9b-c7a7-b522-34d90d8edb42?version=1.0&t=1715946686570
 
 ###### Active School. https://www.sportesalute.eu/progettoscuolattiva.html
 
@@ -528,7 +539,7 @@ The Council of Ministers approved the Competitiveness bill bill 674 chapter III 
 
 The Ministry of Education and Merit, in fact, will define the guidelines for the study of financial education in  schools, in  agreement  with  the  Bank  of  Italy  and  Consob  and  after  consulting  the  associations representing banking and financial operators and users. . Furthermore, the MIM, the Bank of Italy and Consob will sign specific agreements to promote financial culture, respecting school autonomy.
 
-October is Financial Education Month and the Committee for the planning and coordination of financial education activities (Edufin Committee ), of which the Ministry of Education and Merit is a member, invites everyone to propose initiatives aimed at promoting development of financial, insurance and social security culture.  (  www.quellocheconta.gov.it  ).  The  initiatives  will  be  held  from  1  to  31  October  2023  (World Savings  Day)  and  will  take  place  both  online  and  in  person,  through  different  methods:  conferences, webinars, cultural initiatives, seminars, shows, game days and training events aimed at adults, teenagers and children.
+October is Financial Education Month and the Committee for the planning and coordination of financial education activities (Edufin Committee ), of which the Ministry of Education and Merit is a member, invites everyone to propose initiatives aimed at promoting development of financial, insurance and social security
 
 16
 
@@ -536,8 +547,10 @@ October is Financial Education Month and the Committee for the planning and coor
 
 [[START OF PAGE 17]]
 
+culture. ( www.quellocheconta.gov.it ). The initiatives will be held from 1 to 31 October 2023 (World Savings Day) and will take place both online and in person, through different methods: conferences, webinars, cultural initiatives, seminars, shows, game days and training events aimed at adults, teenagers and children.
+
 ###### Memorandum of understanding between the Ministry of Education and Merit and the National Council of the Order of Psychologists - CNOP, signed on 20 March 2024
-to promote the culture of health and wellbeing in upper secondary schools.
+to promote the culture of health and well-being in upper secondary schools.
 
 The agreement is aimed at preventing students' psycho-behavioural problems, strengthening project paths for  the  acquisition  of  personal  skills  for  life  and  promoting  psycho-relational  well-being  for  all  school subjects, as well as promoting the culture of respect for the person.
 
@@ -546,11 +559,11 @@ will be designed on an experimental basis to support schools in carrying out act
 The set of activities envisaged by the memorandum of understanding also find solid references in the field of transversal teaching of civic education (law no. 92/2019 and Ministerial Decree no. 35/2020 containing the "Guidelines for teaching of civic education" ), in particular in the aspects concerning the principles of solidarity, equality and respect for diversity as fundamental elements that support civil coexistence, the value of the rules of democratic life , as well as the concepts of legality and solidarity of action individual and social .
 
 ###### 'Relationship education - Project paths for schools' project
-fi nanced with 15 million euros from the POC funds for schools - skills and learning environments, i.e. of the PN 'Schools and skills' 2021-2027. The project offers secondary schools the opportunity , within their autonomy, to activate 30 hours of student discussion groups in extracurricular hours with the advice of psychologists belonging to the Order of Psychologists  and  with  a  referring  teacher.  The National  Parents'  Association  Forum has  the  role  of harmonizing the project with improving comments from parents. The project, which was born in the wake of  the  2017  " Respect  Education  Guidelines" ,  has  an  experimental  nature  and  is  dedicated  to  upper secondary schools. At other school levels , education on respect in relationships is part of civic education which  is  transversal  and  compulsory  teaching  (law  no.  92  of  20  August  2019),  of which  one  of  the objectives of the curriculum is: the student is aware that the principles of solidarity, equality and respect for diversity are the pillars that they support civil coexistence and favour the construction of a fair and sustainable future.
+financed with 15 million euros from the POC funds for schools - skills and learning environments, i.e. of the PN 'Schools and skills' 2021-2027. The project offers secondary schools the opportunity, within their autonomy, to activate 30 hours of student discussion groups in extracurricular hours with the advice of psychologists belonging to the Order of Psychologists and with a referring teacher. The National Parents' Association Forum has the role of harmonizing the project with improving comments from parents. The project, which was born in the wake of the 2017 " Respect Education Guidelines", has an experimental nature and is dedicated to upper secondary schools. At other school levels, education on respect in relationships is part of civic education which is transversal and compulsory teaching (law no. 92 of 20 August 2019), of which one of the objectives of the curriculum is: the student is aware that the principles of solidarity, equality and respect for diversity are the pillars that they support civil coexistence and favour the construction of a fair and sustainable future.
 
 ###### Directive
 
-https://www.miur.gov.it/documents/20182/7414469/Direttiva+n.+83+del+24+novembre+2023.pdf/069f daaa-8206-9d7f-37d5-3caa14dd7bfc?version=1.0&t =1700842704740
+https://www.miur.gov.it/documents/20182/7414469/Direttiva+n.+83+del+24+novembre+2023.pdf/069fdaaa-8206-9d7f-37d5-3caa14dd7bfc?version=1.0&t=1700842704740
 
 (development of social and civic competence in matters of citizenship )
 
@@ -567,7 +580,7 @@ The guidelines for teaching civic education (L. n. 92/2019), https://www.editore
 established starting from the school year 2020-21, establish that it is compulsory from nursery school and across all disciplines, with a total time of 33 hours in the curriculum divided into axes: the study of the Constitution,  sustainable  development,  digital  citizenship.  Schools,  in  their  autonomy,  can  plan  the curricular contents deemed most suitable in relation to them.
 
 ###### Guidelines for the right to study of pupils outside their family of origin
-https://www.miur.gov.it/documents/20182/2223566/LINEE+GUIDA+DIRITTO+ALLO+STUDIO+ALUNNI+ FUORI+FAMIGLIA.pdf/96f7870e-9f30-5d8b-4133-c7b20c9c5351?t=1564667201466
+https://www.miur.gov.it/documents/20182/2223566/LINEE+GUIDA+DIRITTO+ALLO+STUDIO+ALUNNI+FUORI+FAMIGLIA.pdf/96f7870e-9f30-5d8b-4133-c7b20c9c5351?t=1564667201466
 
 adopted on 11 December 2017 - still in force - signed between the Ministry of Education and Merit (then MIUR) and the Guarantor Authority for Children and Adolescents. The Guidelines are dedicated to all those students who find themselves, for various reasons, sometimes definitively and sometimes provisionally, outside their  family  of  origin.  These  are  therefore:  girls  and  boys,  girls  and  boys  in  foster  care  due  to difficulties  in  their  family  of  origin;  pupils  who  are  guests,  temporarily,  in  the  structures  of  protection systems (family communities, family homes, educational communities, socio-health communities) where there is no family foster care; unaccompanied foreign minors, an increasing phenomenon in the last three years; girls and boys subjected to provisions of the juvenile justice authority in the criminal field.
 
@@ -596,16 +609,18 @@ https://www.miur.gov.it/documents/20182/0/Protocollo+Intesa+MI-UNICEF-prot.n.135
 
 2022+%281%29.pdf/384d9894-46a3-7bfb-daec -451d1de87ff9?version=1.0&t=1655736246897 renewed on  05-18-2022,  to  strengthen  interventions  aimed  at  giving  greater  information  to  students  on  their individual rights, but also to promote behavior that respects the principles of inclusion and prevention of all forms of discrimination and violence. The agreement includes the 'Children and Youth Friendly School'
 
-Project https://www.miur.gov.it/-/unicef-una-scuola-amica-delle-bambine-dei-bambini-e-degliadolescenti born in 2010 with membership of more than 1,200 schools of all levels. The project is aimed at promoting knowledge and implementation of the Convention on the Rights of Children and Adolescents.
+Project https://www.miur.gov.it/-/unicef-una-scuola-amica-delle-bambine-dei-bambini-e-degli-adolescenti born in 2010 with membership of more than 1,200 schools of all levels. The project is aimed at promoting knowledge and implementation of the Convention on the Rights of Children and Adolescents.
 
 ###### International Humanitarian Law competition
-organized by the Italian Red Cross, aimed at students in the third and fourth classes of secondary schools. The "IHL Competition" is among the activities of the Italian Red Cross included in the three-year Memorandum of Understanding stipulated by the Association and the Ministry of Education and Merit relating to the diffusion of the Fundamental Principles and Values of the Movement, of International Humanitarian Law and of Human Rights. https://cri.it/2024/05/11/terzaedizione-della-gara-nazionale-diu-della-croce-rossa-italiana/
+organized by the Italian Red Cross, aimed at students in the third and fourth classes of secondary schools. The "IHL Competition" is among the activities of the Italian Red Cross included in the three-year Memorandum of Understanding stipulated by the Association and the Ministry of Education and Merit relating to the diffusion of the Fundamental Principles and Values of
 
 18
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
+
+the Movement, of International Humanitarian Law and of Human Rights. https://cri.it/2024/05/11/terza-edizione-della-gara-nazionale-diu-della-croce-rossa-italiana/
 
 ###### National seminar " Didactic inter-actions: the 0-6 age group, minors outside their family of origin" ,
 held in Rome on 10 December 2019. During the training day - intended for representatives of the regional school offices  of  the  system  integrated  education  0-6  years,  the  inclusion  of  pupils  with  disabilities  and  the integration  of  foreign  minors  -  work  proposals  were  provided  for  the  activity  with  children  in  nursery schools and nursery schools, with reference to the Convention of New York and the legislation on the integrated system 0/6 years. The initiative is part of the broader activity of disseminating knowledge of the Convention  among  professionals  who  work  with  minors,  with  the  aim  of  making  the  rights  of  the Convention concrete and applied in daily practice.
@@ -614,9 +629,9 @@ held in Rome on 10 December 2019. During the training day - intended for represe
 were presented: "Illustrated compendium of the guidelines for the right to education of pupils outside their family of origin"; 'Illustrated compendium of the guidelines for the right to study of adopted minors' with the aim of promoting the dissemination of knowledge of the guidelines and with them of the practices that can facilitate the scholastic integration of pupils outside the family of origin and of adopted pupils. Both booklets can be downloaded at the following web address: https://www.garanteassociazione.org/news/seminario-fuori-famiglia .
 
 ###### Memorandum of Understanding with UNHCR (UN Office for Refugees)
-https://www.miur.gov.it/documents/20182/0/PROTOCOLLO+UNHCR+FIRMA+DIGITALE+ENG+.pdf/ddc 183b3-9299-3175-ba05-4f2871e95515?version=1.0&t=1618313862650
+https://www.miur.gov.it/documents/20182/0/PROTOCOLLO+UNHCR+FIRMA+DIGITALE+ENG+.pdf/ddc183b3-9299-3175-ba05-4f2871e95515?version=1.0&t=1618313862650
 
-On 23 March 2021, the Ministry signed the renewal of the component of the National Observatory for the integration of foreign students and for intercultural education, which will be discussed in more detail later. The protocol is aimed at promoting awareness-raising initiatives in schools on the issues of international solidarity,  integration  and  intercultural  dialogue.  For  the  implementation  of  this  protocol,  a  technicalscientific committee coordinated by the DGSIOS was established. This committee has prepared a short video, with the participation of the Minister, aimed at publicizing World Refugee Day (20 June). The video was previewed in the plenary meeting of the National Observatory for the integration of foreign students on 15 June 2021. Furthermore, also with the collaboration of the Observatory's working groups, for the 2021/2022 school year it is A specific training module for teachers was implemented, as well as online training for teachers on the topic of refugees through modules prepared by UNHCR.
+On 23 March 2021, the Ministry signed the renewal of the component of the National Observatory for the integration of foreign students and for intercultural education, which will be discussed in more detail later. The protocol is aimed at promoting awareness-raising initiatives in schools on the issues of international solidarity, integration and intercultural dialogue. For the implementation of this protocol, a technical-scientific committee coordinated by the DGSIOS was established. This committee has prepared a short video, with the participation of the Minister, aimed at publicizing World Refugee Day (20 June). The video was previewed in the plenary meeting of the National Observatory for the integration of foreign students on 15 June 2021. Furthermore, also with the collaboration of the Observatory's working groups, for the 2021/2022 school year it is A specific training module for teachers was implemented, as well as online training for teachers on the topic of refugees through modules prepared by UNHCR.
 
 ###### Memorandum  of  understanding  with  the  CAI  (National  Commission  for  international  adoptions) " Promote and strengthen school well-being, inclusion and promote the right to study of adopted student "
 https://www.miur.gov.it/-/diritto -to-the-study-of-students-and-adopted-students-1
@@ -634,15 +649,15 @@ The new ones were published on 28 March 2023 (prot.AOOGABMI n.5 of 03.28.2023), 
 
 ###### Against racism
 
-On 14 September 2017 the Ministry signed the Memorandum of Understanding with the ATS Parole Ostili , https://www.miur.gov.it/documents/20182/0/PIMIUR+-+PAROLE+OSTILI.pdf/e3570f7f-748b -4c348f96-fa39476497ab?version=1.0&t=1505993772558 to promote a non-hostile Internet culture, aimed at greater awareness of the use of digital tools for the construction of a real right to digital citizenship. The objective is to jointly develop awareness-raising initiatives on the issues of non-hostile communication and the promotion of active and aware digital citizenship, through the creation of specific training sessions aimed at teachers, male and female students on the national territory.
+On 14 September 2017 the Ministry signed the Memorandum of Understanding with the ATS Parole Ostili , https://www.miur.gov.it/documents/20182/0/PIMIUR+-+PAROLE+OSTILI.pdf/e3570f7f-748b-4c34-8f96-fa39476497ab?version=1.0&t=1505993772558 to promote a non-hostile Internet culture, aimed at greater awareness of the use of digital tools for the construction of a real right to digital citizenship. The objective is to jointly develop awareness-raising initiatives on the issues of non-hostile communication and the promotion of active and aware digital citizenship, through the creation of specific training sessions aimed at teachers, male and female students on the national territory.
 
 To encourage the process of reflection on the topic of online hatred, the Ministry, in agreement with the Chamber of Deputies, has issued, for the 2017/2018 school year, the national competition notice "The Chamber and young people against the phenomena of hate', aimed at secondary schools.
 
 Manifesto of non-hostile communication was presented, a civil exhortation to the responsible choice of words and on 14 May 2018 the book "Hostile words - 10 stories" was presented, an important project to raise awareness and education against the use of hostile words, online and offline.
 
-###### The fi ght against religious and racial discrimination , https://www.miur.gov.it/-/carta-di-intenti-tra-mime-unione-delle-comunita-ebraiche-italiane
+###### The fight against religious and racial discrimination , https://www.miur.gov.it/-/carta-di-intenti-tra-mim-e-unione-delle-comunita-ebraiche-italiane
 
-To combat racism and pursue education to respect differences, the MIM has promoted, in collaboration with the Union of Italian Jewish Communities (UCEI), initiatives and projects aimed at passing on and strengthening awareness of the Memory of Shoah and renew the memory of those events. In 2002, the national competition "Young people remember the Shoah" was announced, one of the Ministry's best practices  aimed  at  encouraging  young  generations  to  study  and  research  on  the  topic  of  the  Shoah. https://www.miur.gov.it/-/-i-giovani-ricordano-la-shoah-xxii-editore-del-concorso-per-l-anno-scolastico2023-24-1 The competition was aimed at students of the first and second cycle of education with the ultimate aim of promoting the study and in-depth study of the history of the Shoah, understood as a universal lesson to combat all forms of racism and discrimination. Since its inception, over 7,000 thousand schools have participated in the competition, for a total of over 300,000 thousand students. In the 2023/24 school year the Competition reached its XXII edition and like every year the winners were awarded at the Quirinale  by  the  President  of  the  Republic.  Over  the  years,  traveling  exhibitions  have  been  organized throughout the country, collecting the best works created by students over the various years. As regards the training of teachers, to date, training and refresher seminars have been held aimed at school staff for the dissemination of guidelines for the fight against anti-Semitism and national seminars for the training of teachers on related issues are planned. to the Holocaust it is Meetings with students entitled "Passing of  the  Witness:  the  memory  of  the  Shoah  by  survivors  of  the  active  scholastic  practices  of  scholastic institutions and places of education, in fact, is the best vehicle so that the lesson of the Shoah is not lost, but Indeed, let it be a warning against every form of persecution, religious but also gender based. We also note  the  creation  of  the "School  and  Memory"  portal https://www.scuolaememoria.it/site/it/homepage/ , dedicated to Holocaust education and designed with the aim of providing teachers, trainers and students with a useful information and training tool and to create a platform for exchanging the best practices in teaching about the Holocaust among schools across the national territory, so that schools feel involved and protagonists in teaching equality and in the fight against racism of all kinds. As part of the initiatives linked to the Italian Presidency of the International Holocaust Memorial Alliance (IHRA), which took place between March 2018 and March 2019, the conference 'The innocent enemy. Hate speech in contemporary Europe'. The meeting, which was held on 12 November 2018 at the Holocaust Memorial in Milan, had the aim of analyzing and describing the processes of incitement to hatred from various points of  view:  historical  (the  characteristics  of  anti-Semitic  propaganda  and  discriminatory  type  from  the National  Socialist  regime  to  today),  legal  (pro-  and  no-hate  rules  and  legislation),  sociological  and communication  (the  trivialization  of  hatred  and  the  aspects  linked  to  hate  speech  on  the  web)  and educational-didactic (the indications to counter the spread of hate speech ).
+To combat racism and pursue education to respect differences, the MIM has promoted, in collaboration with the Union of Italian Jewish Communities (UCEI), initiatives and projects aimed at passing on and strengthening awareness of the Memory of Shoah and renew the memory of those events. In 2002, the national competition "Young people remember the Shoah" was announced, one of the Ministry's best practices aimed at encouraging young generations to study and research on the topic of the Shoah. https://www.miur.gov.it/-/-i-giovani-ricordano-la-shoah-xxii-editore-del-concorso-per-l-anno-scolastico-2023-24-1 The competition was aimed at students of the first and second cycle of education with the ultimate aim of promoting the study and in-depth study of the history of the Shoah, understood as a universal lesson to combat all forms of racism and discrimination. Since its inception, over 7,000 thousand schools have participated in the competition, for a total of over 300,000 thousand students. In the 2023/24 school year the Competition reached its XXII edition and like every year the winners were awarded at the Quirinale by the President of the Republic. Over the years, traveling exhibitions have been organized throughout the country, collecting the best works created by students over the various years. As regards the training of teachers, to date, training and refresher seminars have been held aimed at school staff for the dissemination of guidelines for the fight against anti-Semitism and national seminars for the training of teachers on related issues are planned. to the Holocaust it is Meetings with students entitled "Passing of the Witness: the memory of the Shoah by survivors of the active scholastic practices of scholastic institutions and places of education, in fact, is the best vehicle so that the lesson of the Shoah is not lost, but Indeed, let it be a warning against every form of persecution, religious but also gender based. We also note the creation of the "School and Memory" portal https://www.scuolaememoria.it/site/it/home-page/ , dedicated to Holocaust education and designed with the aim of providing teachers, trainers and students with a useful information and training tool and to create a platform for exchanging the best practices in teaching about the Holocaust among schools across the national territory, so that schools feel involved and protagonists in teaching equality and in the fight against racism of all kinds. As part of the initiatives linked to the Italian Presidency of the International Holocaust Memorial Alliance (IHRA), which took place between March 2018 and March 2019, the conference 'The innocent enemy. Hate speech in contemporary Europe'. The meeting, which was held on 12 November 2018 at the Holocaust Memorial in Milan, had the aim of analyzing and describing the processes of incitement to hatred from various points of view: historical (the characteristics of anti-Semitic propaganda and discriminatory type from the
 
 20
 
@@ -650,7 +665,9 @@ To combat racism and pursue education to respect differences, the MIM has promot
 
 [[START OF PAGE 21]]
 
-In 2021, the Joint Scientific Committee - foreseen by the Memorandum of Understanding, signed on 27 January 2021, between the Ministry of Education, the National Coordinator for combating anti-Semitism, the  Presidency  of  the  Council  of  Ministers  and  UCEI  -  Community  Union  Italian  Jews  -  drafted  the 'Guidelines for combating anti-Semitism' presented on 23 November 2022. (https://www.governo.it/sites/governo.it/files/documenti/documenti/Presidenza/NoAntisemitismo/Strat egiaN national/LineeGuidaScuolaNoantisemitismo.pdf). In particular, the Guidelines aimed at supporting educational programs in schools to prevent and combat the phenomena of intolerance and racism, are divided into the following points:
+National Socialist regime to today), legal (pro- and no-hate rules and legislation), sociological and communication (the trivialization of hatred and the aspects linked to hate speech on the web) and educational-didactic (the indications to counter the spread of hate speech ).
+
+In 2021, the Joint Scientific Committee - foreseen by the Memorandum of Understanding, signed on 27 January 2021, between the Ministry of Education, the National Coordinator for combating anti-Semitism, the Presidency of the Council of Ministers and UCEI - Community Union Italian Jews - drafted the 'Guidelines for combating anti-Semitism' presented on 23 November 2022. (https://www.governo.it/sites/governo.it/files/documenti/documenti/Presidenza/NoAntisemitismo/StrategiaN national/LineeGuidaScuolaNoantisemitismo.pdf). In particular, the Guidelines aimed at supporting educational programs in schools to prevent and combat the phenomena of intolerance and racism, are divided into the following points:
 
 · examination of the main forms of contemporary anti-Semitism, such as traditional Jewish anti-Semitism, neo-Nazi/neo-fascist anti-Semitism and Holocaust denial, hatred towards the State of Israel, prejudice of "Jewish power" on the economy and finance, hatred against Jews as such;
 
@@ -658,7 +675,7 @@ In 2021, the Joint Scientific Committee - foreseen by the Memorandum of Understa
 
 - description  of  some  curricular  topics  touching  on  various  disciplines  (including  history,  literature, geography, social sciences, religion, law) to be used in school teaching. In particular, issues and topics related  to  anti-Semitism  belong  to  three  conceptual  nuclei  and  therefore  to  three  training  areas:  1) Constitution; 2) Sustainable Development; 3) Digital citizenship;
 
-- suggestions regarding training courses and teaching methodologies to promote the fight against antiSemitism;
+- suggestions regarding training courses and teaching methodologies to promote the fight against anti-Semitism;
 
 - bibliographical references and links to documentation and materials useful for combating anti-Semitism.
 
@@ -742,7 +759,7 @@ On 11 December 2017, the Guidelines for the right to education of pupils outside
 
 The MIM collaborates on the research " Unaccompanied Foreign Minors (MSNA) and their transition to adulthood
 
-https://www.miur.gov.it/documents/20182/2223566/Concept+Note+it_21+Oct.pdf/ae5b580f -583d1c82-8ef4-34d37c04f6a9?t=1564667198494 co-financed by UNICEF and UNHCR, with the collaboration of IOM and implemented by the implementing partner "ISMU Foundation".
+https://www.miur.gov.it/documents/20182/2223566/Concept+Note+it_21+Oct.pdf/ae5b580f-583d-1c82-8ef4-34d37c04f6a9?t=1564667198494 co-financed by UNICEF and UNHCR, with the collaboration of IOM and implemented by the implementing partner "ISMU Foundation".
 
 The Research on Unaccompanied Foreign Minors intends to provide an analysis through which the current legal frameworks and policies in place can ensure a better transition of these Minors to adulthood and a positive inclusion in Italian society. The National Observatory for the integration of foreign students and for interculture of the General Directorate for students, inclusion and school orientation participated in the  inter-institutional  MSNA  table  -  promoted  and  managed  by  CeSPI  (Centre  for  International  Policy Studies) - aimed at the research "First Report - Observatory of Unaccompanied Foreign Minors in Italy 2020.
 
@@ -750,7 +767,7 @@ The Ministry of Education and Merit collaborates in the implementation of the FA
 
 Public notice for the presentation of projects to be financed under the Asylum, Migration and Integration Fund 2021-2027 - Specific Objective 2. Legal migration and integration - Implementation measure 2.d) Scope of application 2.h) - Intervention c) Inclusive education "Interventions to strengthen the educational integration of pupils and students from third countries 2023-2026"
 
-https://www.miur.gov.it/web/molise/-/programma-nazionale-fami-2021-2027-orecchio-pubblicointerventi-di-rafforzamento-dell-integration-scolastica-di-alunni-e- students-from-third-countries-2023-2
+https://www.miur.gov.it/web/molise/-/programma-nazionale-fami-2021-2027-orecchio-pubblico-interventi-di-rafforzamento-dell-integration-scolastica-di-alunni-e- students-from-third-countries-2023-2
 
 Still within the FAMI projects, the DGSIOS of the MIM has been collaborating, since 2013, on the "National program for the inclusion and integration of Roma, Sinti and Caminanti children " , promoted, within the framework of the actions of the PON "Inclusion", by the Ministry of Labor and Social Policies, together with the Ministry of Health and the Istituto degli Innocenti. https://www.miur.gov.it/integration-degli-alunni-
 
@@ -780,7 +797,7 @@ For  the  years  2016/2020,  the  following  national  training  projects  have 
 
 In the year 2020/2021, 9,000 pupils were involved, of which 600 Roma and Sinti in 91 schools.
 
-In  this  regard,  reference  is  made  to  the  project's  intermediate  evaluation  report  and  the  web  page supporting this report: https://www.minori.gov.it/it/minori/progetto-rsc-report-di-valuation-intermedia 2019
+In this regard, reference is made to the project's intermediate evaluation report and the web page supporting this report: https://www.minori.gov.it/it/minori/progetto-rsc-report-di-valuation-intermedia-2019
 
 1597 Project "Government actions and tools for the qualification of the school system in multicultural contexts"  managed  by  the  Ministry  of  Education  is  financed  by  the  FAMI  -  Asylum,  Migration  and Integration  Fund  under  the specific  Objective  2  Integration/Legal  Migration  -  National  Objective  3 Capacity building was approved by the Responsible Authority in 2017 and concluded in 2022. The project was created to involve a total of: 2000 third country citizens; 1400 public operators who benefited from training or professional refresher services; 30 desks activated in the integration hub schools; 200 good practices on school integration identified; 90 educational institutions involved; 18 Regional School Offices involved;  19  training  or  professional  refresher  courses  for  operators;  4  annual  reports  dedicated  to statistical data on pupils and students with non-Italian citizenship carried out; 5 in-depth thematic reports on pupils and students from third countries carried out; website of the project for the dissemination of good practices on school integration; digital tools. From the latest available surveys, 27 desks have been activated, 11 training interventions have been carried out, 3 annual reports, the fourth is about to be published, 5 thematic guides, digital information tools on integration, preparation of a dedicated website.
 
@@ -788,7 +805,7 @@ The Ministry of Education and Merit collaborates in the implementation of the "N
 
 https://www.progettonazionalersc.it/
 
-The  MIM-DGSIOS  collaborated  with  the  non-governmental  organization AMREF, component  of  the National  Observatory  for  the  integration  of  foreign  students  and  for  intercultural  education,  for  the implementation of the national survey "Mediated Africa", how the media, including those for children, describe Africa. The office also participated in the public presentation of the research, Rome, May 2021.
+The MIM-DGSIOS collaborated with the non-governmental organization AMREF, component of the National Observatory for the integration of foreign students and for intercultural education, for the implementation of the national survey "Mediated Africa", how the media, including those for children,
 
 24
 
@@ -796,9 +813,11 @@ The  MIM-DGSIOS  collaborated  with  the  non-governmental  organization AMREF, 
 
 [[START OF PAGE 25]]
 
+describe Africa. The office also participated in the public presentation of the research, Rome, May 2021.
+
 https://www. Osservatorio.it/wp-content/uploads/2022/05/africa-mediata-2022-amref.pdf
 
-###### National observatory for the integration of foreign students and for intercultural education https://www.miur.gov.it/-/scuola-riparte-l-associazione-nazionale-per-l-integration-degli-alunnistranieri
+###### National observatory for the integration of foreign students and for intercultural education https://www.miur.gov.it/-/scuola-riparte-l-associazione-nazionale-per-l-integration-degli-alunni-stranieri
 
 The  Observatory  is  a  consultative  body  established  in  2014  and  gradually  confirmed  and  renewed  by successive  Ministers.  Among  its  tasks  is  to  make  proposals  and  indicate  solutions,  starting  from  the concrete experience and good practices of schools, for an adaptation of integration policies to the real needs of a multicultural school, in continuous transformation.
 
@@ -818,7 +837,7 @@ Working group on Citizenship and new generations.
 
 'Intercultural  orientations  -  Ideas  and  proposals  for  the  integration  of  pupils  from  migratory backgrounds', https://www.integramigranti.gov.it/AnteprimaPDF.aspx?id=3392 of 17 March 2022, publication by the National Observatory for the integration of foreign students and intercultural education based at the MIM.
 
-https://www.miur.gov.it/pubblicazioni/-/asset_publisher/6Ya1FS4E4QJw/content/orientamentiinterculturali
+https://www.miur.gov.it/pubblicazioni/-/asset_publisher/6Ya1FS4E4QJw/content/orientamenti-interculturali
 
 ' V National Plan of Action and Interventions for the protection of the rights and development of subjects of developmental age 2022-2023 Education, Equity, Empowerment ' https://famiglia.governo.it/media/2636/v-piano-nazionale-infanzia-e-agricoltura-gennaio-2022.pdf promoted by the Presidency of the Council of Ministers  - Department for Family Policies, adopted by decree of the President of the Republic of 01/25/2022. The Plan aims to give priority - in the country's policies  -  to  programs  dedicated  to  children,  girls  and  adolescents,  and  to  maintain  the  commitments undertaken  by  Italy  for  the  application  and  implementation  of  the  UN  Convention  on  the  Rights  of childhood and adolescence, approved in New York on 20 November 1989. The Ministry of Education and Merit (then MI) is among the institutions that participated in the drafting.
 
@@ -972,13 +991,15 @@ The hospital school service, in addition to allowing continuity of studies, guar
 
 The main purpose of the activities carried out with school-age patients who are hospitalized is to help them undertake a cognitive, emotional and educational path that allows them to maintain links with their school life environment.
 
-The school in the hospital therefore pursues a project of global protection of the hospitalized child/youth, who is taken "in charge", not only as a patient or simple student, but in an overall and shared way among all the operators with whom he comes into contact, according to the principle of the therapeutic alliance. The service is active throughout the national territory.
+The school in the hospital therefore pursues a project of global protection of the hospitalized child/youth, who is taken "in charge", not only as a patient or simple student, but in an overall and shared way among
 
 28
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
+
+all the operators with whom he comes into contact, according to the principle of the therapeutic alliance. The service is active throughout the national territory.
 
 The school-in-hospital service is present in 137 hospital facilities with 257 hospital sections spread across Italy.
 
@@ -994,7 +1015,7 @@ The  national  portal  for  hospital  schooling  and  home  education  is  locat
 
 The RESO application, integrated with SIDI, was put into operation starting from 27 April 2020, on an experimental and non-mandatory basis for all hub schools, and then became available and used on an ordinary basis (always non-mandatory).
 
-###### Supply of teaching aids for students with certified disabilities https://www.miur.gov.it/acquistare-ausiliper-la-didattica-inclusiva
+###### Supply of teaching aids for students with certified disabilities https://www.miur.gov.it/acquistare-ausili-per-la-didattica-inclusiva
 
 The framework of actions aimed at supporting and promoting scholastic inclusion includes the allocation of 10 million euros per year for the 2021/2022, 2022/2023, 2023/2024 school years provided for by law no. 30 December 2020. 178, paragraph 962, for the purchase and maintenance of technical equipment and teaching aids referred to in article 13, paragraph 1, letter b), of law 5 February 1992, n. 104, and for the acquisition of services necessary for their best use, intended for educational institutions that welcome students with certified disabilities, with the aim of improving the effectiveness of educational and teaching proposals,  through  the  use  of  instruments  suitable  to  facilitate  the  learning  of  female  students  and students with disabilities, based on their specific educational needs.
 
@@ -1016,7 +1037,7 @@ As part of the implementation of the provisions of the above-mentioned regulatio
 
 ###### PEI (Individualized Education Plan) DI n. 153 of 08/01/2023, corrective to DI n. 182 of 12/29/2020
 
-Ref. law 107/2015 and Legislative Decree 66/2017 https://www.miur.gov.it/-/decreto-ministeriale-n-153del-1-agosto-2023 Interministerial decree 182 of 29 December 2020 marks the entry into the scholastic world of the new national PEI model together with the new methods of assigning support measures for all students with disabilities and for all school cycles, from nursery school to secondary school. The new IEP is adopted starting from the 2021-2022 school year.
+Ref. law 107/2015 and Legislative Decree 66/2017 https://www.miur.gov.it/-/decreto-ministeriale-n-153-del-1-agosto-2023 Interministerial decree 182 of 29 December 2020 marks the entry into the scholastic world of the new national PEI model together with the new methods of assigning support measures for all students with disabilities and for all school cycles, from nursery school to secondary school. The new IEP is adopted starting from the 2021-2022 school year.
 
 The PEI refers to the concept of the biopsychosocial perspective of the ICF, acronym for International Classification of Functioning, Disability and Health, an international standard instrument approved by the World Health Assembly for the description of health and disability in different sectors, including schools.
 
@@ -1028,13 +1049,13 @@ The cornerstone of the ICF is the concept of functioning within society which re
 
 The  new  PEI  is  based  on four  main  dimensions  to  be  considered  for  the  purposes  of  inclusion  and educational and educational planning:
 
-- Dimension of Socialization and Interaction both with the peer group and with adults
+1. Dimension of Socialization and Interaction both with the peer group and with adults
 
-- Communication and Language Dimension (comprehension and production)
+2. Communication and Language Dimension (comprehension and production)
 
-- Dimension of personal autonomy and social autonomy and orientation: these  include  global and fine motor skills and the visual, auditory and tactile sensory dimensions
+3. Dimension of personal autonomy and social autonomy and orientation: these include global and fine motor skills and the visual, auditory and tactile sensory dimensions
 
-- Cognitive, Neuropsychological and Learning Dimension: refers  to  abilities  relating  to  memory, intellect, spatio-temporal organisation, cognitive style, the ability to use and integrate skills to solve tasks and reading and writing skills, calculation, decoding of texts and messages.
+4. Cognitive, Neuropsychological and Learning Dimension: refers to abilities relating to memory, intellect, spatio-temporal organisation, cognitive style, the ability to use and integrate skills to solve tasks and reading and writing skills, calculation, decoding of texts and messages.
 
 30
 
@@ -1050,7 +1071,7 @@ In implementation of the art. 15, paragraph 1 of the legislative decree of 13 Ap
 
 https://archivio.pubblica.editore.it/argomenti/handicap_new/associazione_presentazione.shtml
 
-https://www. Osservatoriodisabilita.gov.it/it/notizie/riunione-congiunta-dellassociazione-nazionale-sullaconditione-di-vita-delle-persone-con-disabilita-e-dell-associazione-permanente-per- scholastic-inclusion/
+https://www. Osservatoriodisabilita.gov.it/it/notizie/riunione-congiunta-dellassociazione-nazionale-sulla-conditione-di-vita-delle-persone-con-disabilita-e-dell-associazione-permanente-per- scholastic-inclusion/
 
 The Permanent Observatory for scholastic inclusion is a collegial body composed of the Technical-scientific Committee and the Council of Associations with functions related to the analysis, study and monitoring of issues relating to the scholastic inclusion of pupils and students with ascertained condition of disability in developmental age. The secretariat, with technical-administrative and organizational support functions for the  Observatory's  work,  is  in  Office  IV  of  the  General  Directorate  for  students,  inclusion  and  school orientation.
 
@@ -1068,7 +1089,7 @@ https://www.editore.it/coronavirus/allegati/presentazione_sportelli-aiuto.pdf
 
 A Memorandum of Understanding has been established between the Ministry of Education and Merit and the  Italian  Union  of  the  Blind  and  Visually  Impaired  (UICI)  to  " Promote  and  guarantee  adequate educational paths for pupils, pupils with visual disabilities and multiple every type and level of school. "
 
-The  UICI  as  general  national  referent  and  coordinator  of  the  institutions  and  multiple  structures,  in agreement with the MIM, respecting school autonomy and in synergy with the Regional School Offices, has identified and recognized lines of common action to develop a network of interventions aimed at supporting scholastic inclusion in every phase and degree of visual disability: (absolutely blind, partially blind, visually impaired pursuant to law 138/2001, additional disabilities).
+The UICI as general national referent and coordinator of the institutions and multiple structures, in agreement with the MIM, respecting school autonomy and in synergy with the Regional School Offices, has identified and recognized lines of common action to develop a network of interventions aimed at
 
 31
 
@@ -1076,14 +1097,16 @@ The  UICI  as  general  national  referent  and  coordinator  of  the  instituti
 
 [[START OF PAGE 32]]
 
-https://www.miur.gov.it/-/protocollo-d-impresa-tra-ministero-dell-editore-e-uici-Unione-italiana-deiciechi-e-degli-ipovedenti-
+supporting scholastic inclusion in every phase and degree of visual disability: (absolutely blind, partially blind, visually impaired pursuant to law 138/2001, additional disabilities).
+
+https://www.miur.gov.it/-/protocollo-d-impresa-tra-ministero-dell-editore-e-uici-Unione-italiana-dei-ciechi-e-degli-ipovedenti-
 
 ###### TSI - 2022 EUROCH - IBA
-funded by the European Union and implemented by the European Agency for Special  Needs  and  Inclusive  Education,  in  collaboration  with  the  European  Commission  to  combat inequalities in access to inclusive education in Spain, Portugal, Italy https://reformsupport.ec.europa.eu/our-projects/technical-support-instrument-2022-country-factsheets_en
+funded by the European Union and implemented by the European Agency for Special Needs and Inclusive Education, in collaboration with the European Commission to combat inequalities in access to inclusive education in Spain, Portugal, Italy https://reform-support.ec.europa.eu/our-projects/technical-support-instrument-2022-country-factsheets_en
 
 ###### DL 22 March 2021, n. 41, art. 34  ter Measures for the recognition of Italian sign language and  the inclusion of people with hearing disabilities
 
-Italian legislation has officially recognized LIS (Italian Sign Language) https://www.gazzetta ufficio.it/atto/serie_generale/caricaarticleo?art.version=1&art.idGruppo=5&art.flagTipoarticleo=0&art.co diceRedazionale=21A03181&art.idarticle=34&art.idSottoarticle=3&art.idSottoarticle1=10&art.dataPubbli cazioneGazzetta=2021- 05-21&art.progressive=0
+Italian legislation has officially recognized LIS (Italian Sign Language) https://www.gazzettaufficio.it/atto/serie_generale/caricaarticleo?art.version=1&art.idGruppo=5&art.flagTipoarticleo=0&art.codiceRedazionale=21A03181&art.idarticle=34&art.idSottoarticle=3&art.idSottoarticle1=10&art.dataPubblicazioneGazzetta=2021- 05-21&art.progressive=0
 
 - What challenges were encountered in realizing the right to education of people with disabilities? If needed, brief quantitative information may be added.
 
@@ -1599,13 +1622,13 @@ X  Measures address the digital divide, including ensuring access to reliable
 
 - Please elaborate on each of the measures taken:
 
-##### PROMOTION AND AWARENESS OF THE POSITIVE AND CONSCIOUS USE OF NEW TECHNOLOGIES AND THE  FIGHT  AGAINST  BULLYING  AND  CYBERBULLYING https://miur.gov.it/linee-guida-prevenzione-econtrasto (Rif. 3.5 Digital Education)
+##### PROMOTION AND AWARENESS OF THE POSITIVE AND CONSCIOUS USE OF NEW TECHNOLOGIES AND THE FIGHT AGAINST BULLYING AND CYBERBULLYING https://miur.gov.it/linee-guida-prevenzione-e-contrasto (Rif. 3.5 Digital Education)
 
 The most recent ongoing reform processes, aimed at promoting a new public interest in the recognition of the real primary rights of citizens in the digital space, most recently, the adoption of the Regulation of the European Parliament and of the Council, relating to the protection of natural persons with regarding the processing of personal data, in addition to the free movement of data (GDPR 679/16), see the Ministry committed to strengthening the main experiences and skills needed within its own administration, but also to society as a whole, thanks to the activities implemented as part of the European Better Internet for Kids strategy launched in 2012 by the European Commission. The Digital Agenda for Europe aims to bring all Europeans  into  the  digital  world,  but  for  young  people,  Internet  use  presents  particular  needs  and vulnerabilities that need to be addressed specifically. On 18 June 2017, law 29 May 2017, n. 71, "Provisions for  the  protection  of  minors  for  the  prevention  and  fight  against  the  phenomenon  of  cyberbullying". Subsequently, the "Guidelines for preventing and combating cyberbullying" were published , https://miur.gov.it/web/guest/linee-guida-prevenzione-e-contrasto conceived as a flexible and updatable tool to respond to the educational and pedagogical challenges linked to the constant evolution of new technologies, updated in 2021. The main actions carried out by DG Students find an appropriate place within this regulatory framework: the Safer Internet Center project - Connected Generations, and the Elisa Platform, - L.71/ 2017. The Guidelines were further updated on 18 February 2021 for the following two years, incorporating the necessary additions and changes provided for by the regulatory interventions, with particular reference to the innovations introduced by the aforementioned law of 29 May 2017 n. 71.
 
 ###### The Safer Internet Center
 
-The Safer Internet Center - Generazioni Connesse project, which has contributed to making the programs implemented  by  the  Ministry  increasingly  more  qualified  since  2012,  is  co-financed  by  the  European Commission  as  part  of  the  DIGITAL  programme,  member  of  a  network  promoted  by  the  European Commission and which takes the form of online platform "Better Internet for Kids" managed by European Schoolnet, in close collaboration with INSAFE (network that brings together all the European SICs) and In hope (network that brings together all the European hotlines). The project is coordinated by MIM with the partnership of some of the main Italian companies dealing with network security: Guarantor Authority for Children and Adolescents, State Police, University of Florence and 'La Sapienza' of Rome, Save the Children Italia,  Telefono  Azzurro,  the  EDI  non-profit  cooperative,  Skuola.net.  The  Safer  Internet  Center  SIC)  was created  to  provide  information,  advice  and  support  to  children,  young  people,  parents,  teachers  and educators who have experiences, including problematic ones, relating to the Internet and to facilitate the reporting of illegal material online. The Project sought to develop services with an innovative and superior quality content, to guarantee them to move safely in the online "environment", considering, at the same time, the connected investment as a 'virtuous' opportunity for a 'social' and economic growth of the entire community. SIC is aimed at young generations, actively involving teachers, parents, bodies, associations and  companies  to  make  the  internet  a  better  and  safer  environment  for  both  human  and  scholasticprofessional growth, with actions that have brought (in)training tools to the field useful for promoting positive and critical use of the Internet and preventing possible uncomfortable situations. In particular, the main actions carried out are summarized below:
+The Safer Internet Center - Generazioni Connesse project, which has contributed to making the programs implemented by the Ministry increasingly more qualified since 2012, is co-financed by the European Commission as part of the DIGITAL programme, member of a network promoted by the European Commission and which takes the form of online platform "Better Internet for Kids" managed by European Schoolnet, in close collaboration with INSAFE (network that brings together all the European SICs) and In hope (network that brings together all the European hotlines). The project is coordinated by MIM with the partnership of some of the main Italian companies dealing with network security: Guarantor Authority for Children and Adolescents, State Police, University of Florence and 'La Sapienza' of Rome, Save the Children Italia, Telefono Azzurro, the EDI non-profit cooperative, Skuola.net. The Safer Internet Center SIC) was created to provide information, advice and support to children, young people, parents, teachers and educators who have experiences, including problematic ones, relating to the Internet and to facilitate the reporting of illegal material online. The Project sought to develop services with an innovative and superior quality content, to guarantee them to move safely in the online "environment", considering, at the same time, the connected investment as a 'virtuous' opportunity for a 'social' and economic growth of the entire community. SIC is aimed at young generations, actively involving teachers, parents, bodies, associations and companies to make the internet a better and safer environment for both human and scholastic-professional growth, with actions that have brought (in)training tools to the field useful for promoting positive and critical use of the Internet and preventing possible uncomfortable situations. In particular, the main actions carried out are summarized below:
 
 44
 
@@ -1615,9 +1638,10 @@ The Safer Internet Center - Generazioni Connesse project, which has contributed 
 
 - Online  awareness  activities:  information  and  communication  campaigns  aimed  at  students, young people in general, teachers and parents.
 
-Cartoon videos and video tutorials were first produced through YouTube and social channels to make children,  parents  and  educators  in  general  reflect  on  the  positive  and  conscious  use  of  the  internet: playlists
+Cartoon videos and video tutorials were first produced through YouTube and social channels to make children, parents and educators in general reflect on the positive and conscious use of the internet:
 
-https://www.youtube.com/user/GenerazioniConnesse/ https://www.facebook.com/generazioniconnesse/ https://www.facebook.com/generazioniconnesse/
+https://www.youtube.com/user/GenerazioniConnesse/ playlists
+https://www.facebook.com/generazioniconnesse/ https://www.facebook.com/generazioniconnesse/
 
 https://twitter.com/saferinternetit
 
@@ -1651,11 +1675,11 @@ Another activity planned within the Project is the creation of a cycle of 7 trai
 
 · Listening and reporting lines for problems related to online activities
 
-The CEF - Telecom program provides, among other actions, the financial support of a Helpline for each cofinanced  project.  Therefore,  the  Project  envisages  the  strengthening  of  the  SOS  Il  Telefono  Azzurro (1.96.96)  and  the  ch@t  http://www.azzurro.it/chat.html.  Among  the  actions  of  the  Project,  the strengthening of the two Hotlines, http://www.azzurro.it/it/clicca-e-segnala of SOS Il Telefono Azzurro and www.stop-it.it of Save the Children Italia Onlus, reserved to Internet users to report online the presence of  child  pornography  and  any  type  of  illegal  or  potentially  harmful  content  present  on  the  web.  The Hotlines are directly connected to the Postal Police, and it is possible to make anonymous reports.
+The CEF - Telecom program provides, among other actions, the financial support of a Helpline for each co-financed project. Therefore, the Project envisages the strengthening of the SOS Il Telefono Azzurro (1.96.96) and the ch@t http://www.azzurro.it/chat.html. Among the actions of the Project, the strengthening of the two Hotlines, http://www.azzurro.it/it/clicca-e-segnala of SOS Il Telefono Azzurro and www.stop-it.it of Save the Children Italia Onlus, reserved to Internet users to report online the presence of child pornography and any type of illegal or potentially harmful content present on the web. The Hotlines are directly connected to the Postal Police, and it is possible to make anonymous reports.
 
 · Advisory Committee
 
-The SIC also makes use of a National Advisory Board, a working group that boasts excellent skills and knowhow,  thanks  also  to  the  presence,  within  a  technical  table,  of  the  most  authoritative  subjects  of telecommunications companies, ICT and of the web.
+The SIC also makes use of a National Advisory Board, a working group that boasts excellent skills and know-how, thanks also to the presence, within a technical table, of the most authoritative subjects of telecommunications companies, ICT and of the web.
 
 · "Better Internet for Kids" policies - INTERNATIONAL CHARACTER SIC
 
@@ -1683,7 +1707,7 @@ The intent is to support local actions aimed at combating the phenomenon of cybe
 
 With prot. Decree n. 1176 of 05/18/2022, the Administration has assigned to the Regional School Offices, to combat the phenomena of cyberbullying in schools, the sum of €2,000,000.00 following the provisions of art.1 paragraphs 671 and 672 of Law no. 234 of 30 December 2021.
 
-With the law of 29 December 2022 n.197 State budget forecast for the financial year 2023 and multiannual budget for the three-year period 2023-2025, the refinancing of the aforementioned fund equal to 2 million euros for each of the years 2023 was envisaged , 2024 and 2025.
+With the law of 29 December 2022 n.197 State budget forecast for the financial year 2023 and multi-annual budget for the three-year period 2023-2025, the refinancing of the aforementioned fund equal to 2 million euros for each of the years 2023 was envisaged , 2024 and 2025.
 
 We therefore proceeded to prepare a new departmental decree relating to the year 2023, issued with protocol. n. 513 of 26 April 2023 with which the overall financial resource, equal to €2,000,000.00, was distributed to the Regional School Offices based on the following parameters:
 
