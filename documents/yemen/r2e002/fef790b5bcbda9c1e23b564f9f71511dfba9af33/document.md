@@ -24,7 +24,7 @@ Dr. Mohammed M. Mottahar
 
 ## Chapter I The Political Foundations
 
-#### Article  (l):
+#### Article (1):
 The  Republic  of  Yemen  is  an  Arab,  Islamic  and  independent  sovereign state whose integrity is inviolable, and no part of which may be ceded. The people of Yemen are part of the Arab and Islamic Nation.
 
 #### Article (2):
@@ -54,17 +54,19 @@ b. Lawful competition between the public, private, cooperative and mixed economi
 c.  Protection  and  respect  for  private  ownership,  which cannot be confiscated unless necessary in the public interest, in lieu of fair consideration and in accordance with Law.
 
 #### Article  (8):
-All  types  of  natural  resources  and  sources  of  energy,  whether  above ground,  underground,  in  territorial  waters,  on  the  continental  shelf  or  the  exclusive economic  zone  are  owned  by  the  State,  which  assure  their  exploitation  for  the common good of the people.
+All types of natural resources and sources of energy, whether above ground, underground, in territorial waters, on the continental shelf or the exclusive
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
+economic zone are owned by the State, which assure their exploitation for the common good of the people.
+
 #### Article (9):
 The state's economic policy shall be based on scientific planning which ensures the best utilization of all resources and the promotion of capabilities for all economic sectors in all socio-economic fields of development and within the state's development plan which serves the common interest and the national economy.
 
 #### Article (10):
-The state shall sponsor free trade and investment in a way that serves the national  economy.  It  shall  issue  legislation  that  guarantees  protection  for  producers and consumers alike, assures availability of basic commodities and promotes anti-trust Laws. The state shall undertake to promote private capital investments in all socioeconomic development fields all in accordance with the Law.
+The state shall sponsor free trade and investment in a way that serves the national economy. It shall issue legislation that guarantees protection for producers and consumers alike, assures availability of basic commodities and promotes anti-trust Laws. The state shall undertake to promote private capital investments in all socio-economic development fields all in accordance with the Law.
 
 #### Article (11):
 The law shall regulate the state's official currency and the financial and banking systems. It shall also define measurements, standards and weights.
@@ -133,11 +135,13 @@ Public  office  is  a  duty  and  an  honour.  Persons  in  public  office  are 
 Work is a right, an honour, and a necessity for society's progress. Every citizen  has  the  right  to  choose  the  appropriate  work  for  himself  within  the  law.  No citizen can be compelled to do any work except within the law, and in which case it is to serve the common interest and be in return for a fair wage. The law shall regulate union  activities  and  professional  work,  and  the  relationship  between  workers  and employers.
 
 #### Article (30):
-The state shall protect mothers and children, and shall sponsor the youth and the young.
+The state shall protect mothers and children, and shall sponsor the youth
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+and the young.
 
 #### Article (31):
 Women are the sisters of men. They have rights and duties, which are guaranteed and assigned by Shari'ah and stipulated by law.
@@ -169,11 +173,13 @@ The National Defense Council, headed by the President of the Republic, will exis
 The police is a civilian and Regular force which performs its duties for the  service  of  the  people  and  guarantees  peace  and  security  for  the  people.  It  shall preserve the law, keep public order, maintain common decency, implement the orders of the judicial authority and execute duties dictated to it by the Country's laws, and regulations.
 
 #### Article (40):
-Military, security, police and other forces shall not be employed in the interest of a party, an individual or group. They shall be safeguarded against all forms of  differentiation  resulting  from  party  affiliation,  racism,  factionalism,  regionalism and tribalism in order to guarantee their neutrality and the fulfillment of their duties in the  proper  manner.  The  members  of  all  forces  are  banned  from  party  memberships and activities according to the law.
+Military, security, police and other forces shall not be employed in the interest of a party, an individual or group. They shall be safeguarded against all forms of differentiation resulting from party affiliation, racism, factionalism, regionalism and tribalism in order to guarantee their neutrality and the fulfillment of their duties in the proper manner. The members of all forces are banned from party memberships
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
+and activities according to the law.
 
 # PART TWO THE BASIC RIGHTS AND DUTIES OF CITIZENS
 
@@ -200,11 +206,11 @@ Criminal  liability  is  personal.  No  crime  or  punishment  shall  be underta
 
 #### Article (48):
 
-- The  state  shall  guarantee  to  its  citizens  their  personal  freedom,  preserve  their dignity and their security. The law shall define the cases in which citizens freedom may  be  restricted.  Personal  freedom  cannot  be  restricted  without  the  decision  of  a competent court of law.
+a. The state shall guarantee to its citizens their personal freedom, preserve their dignity and their security. The law shall define the cases in which citizens freedom may be restricted. Personal freedom cannot be restricted without the decision of a competent court of law.
 
-- No  individual  can  be  arrested,  searched  or  detained  unless  caught  in  the  act  (in flagrant  delicto)  or  served  with  a  summons  from  a  judge  or  the  Public  Prosecutor, which is necessary for the progress of an investigation or the maintenance of security. No  person  can  be  put  under  surveillance  unless  in  accordance  with  the  law.  Any person  whose  freedom  is  restricted  in  any  way  must  have  his  dignity  protected. Physical and psychological torture is prohibited. Forcing confessions during investigations is forbidden. The person whose freedom is restricted has the right not to answer any questions in the absence of his lawyer. No person may be imprisoned or detained  in  places  other  than  those  designated  as  such  and  governed  by  the  law  of prisons.  Physical  punishment  and  inhumane  treatment  during  arrest,  detention  or imprisonment are prohibited.
+b. No individual can be arrested, searched or detained unless caught in the act (in flagrant delicto) or served with a summons from a judge or the Public Prosecutor, which is necessary for the progress of an investigation or the maintenance of security. No person can be put under surveillance unless in accordance with the law. Any person whose freedom is restricted in any way must have his dignity protected. Physical and psychological torture is prohibited. Forcing confessions during investigations is forbidden. The person whose freedom is restricted has the right not to answer any questions in the absence of his lawyer. No person may be imprisoned or detained in places other than those designated as such and governed by the law of prisons. Physical punishment and inhumane treatment during arrest, detention or imprisonment are prohibited.
 
-- Any person temporarily apprehended on suspicion of committing a crime shall be presented  in  front  of  a  court  within  a  maximum  of  24  hours  from  the  time  of  his
+c. Any person temporarily apprehended on suspicion of committing a crime shall be presented in front of a court within a maximum of 24 hours from the time of his
 
 [[END OF PAGE 6]]
 
@@ -235,11 +241,13 @@ The  state  shall  guarantee  the  freedom  and  confidentiality  of  mail, tele
 Education is a right for all citizens. The state shall guarantee education in accordance with the law through building various schools and cultural and educational institutions.  Basic  education  is  obligatory.  The  state  shall  do  its  best  to  obliterate illiteracy and give special care to expanding technical and vocational education. The state shall give special attention to young people and protect them against perversions, provide  them  with  religious,  mental  and  physical  education,  and  the  appropriate environment to develop their aptitude in all fields.
 
 #### Article (55):
-Health care is a right for all citizens. The state shall guarantee this by building  various  hospitals  and  health  establishments  and  expanding  their  care.  The law shall organize the medical profession. The expansion of free health services and health education among the citizens.
+Health care is a right for all citizens. The state shall guarantee this by building various hospitals and health establishments and expanding their care. The
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+
+law shall organize the medical profession. The expansion of free health services and health education among the citizens.
 
 #### Article (56):
 The state shall guarantee social security for all citizens in cases of illness, disability,  unemployment,  old  age  or  the  loss  of  support.  The  state  shall  especially guarantee this, according to the Law, for the families of those killed in war.
@@ -315,7 +323,7 @@ The House of Representatives shall, on an invitation from the President of the R
 [[START OF PAGE 10]]
 
 #### Article (71):
-At its first meeting, the House of Representatives shall elect from among its  members,  the  Speaker  and  three  Deputies  to  from  the  Presiding  Board  of  the House. The oldest member shall chair the House during the election of the Speaker and the House's internal regulations shall specify all the procedures for electing the Presiding Board of the House, its duration and its other functions. The House shall include  a  General  Secretariat,  presided  over  by  a  Secretary  General,  the  internal regulations of the House shall specify the rules that relate to its formation and other rules connected to it.
+At its first meeting, the House of Representatives shall elect from among its members, the Speaker and three Deputies to form the Presiding Board of the House. The oldest member shall chair the House during the election of the Speaker and the House's internal regulations shall specify all the procedures for electing the Presiding Board of the House, its duration and its other functions. The House shall include a General Secretariat, presided over by a Secretary General, the internal regulations of the House shall specify the rules that relate to its formation and other rules connected to it.
 
 #### Article  (72):
 For  the  meetings  of  the  House  of  Representatives  to  be  valid,  it  is necessary for more than half of its members to attend, excluding those whose seats were  declared  vacant.  Decisions  shall  be  taken  by  an  absolute  majority  of  the attending  members  except  in  cases  where  the  Constitution  or  House  regulations demand  a  specific  majority.  If  the  results  of  voting  are  equally  divided,  further deliberations must be rejected within the same session, but shall be given priority if submitted in another session.
@@ -364,11 +372,13 @@ The membership of a member of the House of Representatives may not be nullified 
 A member of the House of Representatives and the government have the right to propose bills for laws, and their amendments. In the case of financial laws that aim at increasing or abolishing an existing tax, or decrease or give exemption from part of it, or aim at allocating part of the state funds for a certain project, these may only be proposed by the government or by at least 20% of the representatives. All the proposed laws presented by a member or additional members of the House shall not be referred to one of the committees of the house before being studied by a special committee  which  will  determine  whether  the  proposal  meets  the  requirements  for action by the house. If the House decides to discuss any of these it can be transferred to the committee responsible for examining and reporting thereon. Any proposed law submitted by others than the government may not be submitted again during the same session.
 
 #### Article  (86):
-Within  a  maximum  of  twenty  five  days  of  the  formation  of  the  new government, the Chairman of the Council of Ministers shall present his government's programme to the House of Representatives in order to win a vote of confidence by the majority of the members of the house. If the House of Representatives is in recess, it  is  to  be  recalled  for  an  extraordinary session. The members of the House and the House as a whole has the right to comment on the government's program. The failure of the government to win the required majority is to be considered a withholding of confidence.
+Within a maximum of twenty five days of the formation of the new government, the Chairman of the Council of Ministers shall present his government's programme to the House of Representatives in order to win a vote of confidence by the majority of the members of the house. If the House of Representatives is in recess, it is to be recalled for an extraordinary session. The members of the House and the House as a whole has the right to comment on the government's program. The failure of the government to win the required majority is to be considered a withholding of
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+
+confidence.
 
 #### Article (87):
 The House of Representatives shall approve comprehensive social and economic development plans. The law shall be enacted to stipulate the process of the preparation of such plans, their submission to the House, the voting procedures and the process of issuance.
@@ -389,15 +399,17 @@ The  law  shall  specify  the  rules  of  the  budgets  of  public  authorities,
 The final accounts of the Government's annual budget shall be submitted to the House within a period that does not exceed nine months from the end of the fiscal year. Voting on the Bill shall be made on a section by section basis and shall be approved  by  an  enactment  of  law.  Also  the  annual  report  of  the  organization concerned with the auditing and control of government accounts shall be submitted to the House, together with its comments thereon. The House of Representatives has the right to ask the organization to submit any supplementary documents or reports.
 
 #### Article  (92):
-The  House  of  Representatives  shall  ratify  international  treaties  and Conventions of a general political and economic nature, in whatsoever from or level, and in  particular  those  connected  to  defense,  alliance,  conciliation,  peace  or  border issues. All international Conventions and treaties which involve financial commitments on part of the State or require a law for enactment shall also be ratified by the House of Representatives.
+The House of Representatives shall ratify international treaties and Conventions of a general political and economic nature, in whatsoever form or level, and in particular those connected to defense, alliance, conciliation, peace or border issues. All international Conventions and treaties which involve financial commitments on part of the State or require a law for enactment shall also be ratified by the House of Representatives.
 
 #### Article (93):
 
-a. The House of Representatives shall have the right to forward recommendations to the Government on matters of public concern or in connection with the performance of  the  Executive  branch  or  the  performance  of  any  member  of  that  branch.  The Government  shall  be  required  to  implement  recommendations  forwarded  by  the House of Representatives. If such recommendations are deemed difficult to implement, the Government shall be required to justify such an action to the House b.  If  the  rationale  provided  by  the  Government  is  not  convincing  to  the  House  of Representatives,  the  latter  shall  have  the  right  to  table  a  motion  of  no-confidence targeting any of the deputy-prime minister or any cabinet minister. The motion of noconfidence may not be submit to the house unless such a move is supported by, at least a quarter of the members of the House Representatives following a parliamentary  hearing  in  the  presence  of  the  official  in  question.  The  House Representatives may not act upon a motion of no-confidence before at least (7) days following  the  submission  of  such  a  motion.  A  motion  of  no-confidence  shall  be sustained if supported by the House absolute majority.
+a. The House of Representatives shall have the right to forward recommendations to the Government on matters of public concern or in connection with the performance of the Executive branch or the performance of any member of that branch. The Government shall be required to implement recommendations forwarded by the House of Representatives. If such recommendations are deemed difficult to implement, the Government shall be required to justify such an action to the House
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+b. If the rationale provided by the Government is not convincing to the House of Representatives, the latter shall have the right to table a motion of no-confidence targeting any of the deputy-prime minister or any cabinet minister. The motion of no-confidence may not be submit to the house unless such a move is supported by, at least a quarter of the members of the House Representatives following a parliamentary hearing in the presence of the official in question. The House Representatives may not act upon a motion of no-confidence before at least (7) days following the submission of such a motion. A motion of no-confidence shall be sustained if supported by the House absolute majority.
 
 #### Article (94):
 At least twenty per cent of the members of the House may table a motion to  discuss  a  public  issue,  request  explanation  of  government  policies  and  exchange views concerning that issue.
@@ -409,17 +421,19 @@ Upon  a  request  signed  by  at  least  ten  of  its  members,  the  House  of 
 The  responsibility  of  the  Council  of  Ministers  is  both  collective  and individual. Every member of the House of Representatives may pose questions to the Prime  Minister,  any  of  his  deputies,  ministers  or  deputy  ministers  on  any  matter falling within their responsibilities and they are under obligation to provide answers accordingly. The questioning may not be converted into an interpellation during the same sitting.
 
 #### Article (97):
-Every member of the House has the right to direct an interpolation to the Prime minister, his deputies and ministers to hold them accountable for matters under their charge. Responses to and discussions of such interpellation shall take place after at least one week, except in cases which the House deems urgent, and to which the government agrees.
+Every member of the House has the right to direct an interpellation to the Prime minister, his deputies and ministers to hold them accountable for matters under their charge. Responses to and discussions of such interpellation shall take place after at least one week, except in cases which the House deems urgent, and to which the government agrees.
 
 #### Article  (98):
-The  House  of  Representatives  may  withdraw  confidence  from  the government. The House may not withdraw confidence from the government before an interpellation  directed  at  the  Prime  Minister  or  he  who  is  acting  on  his  behalf.  The request for interpolation must by signed by a third of the members of the House. The House cannot vote on  the  issue  of  no-confidence  in  the  government  without  seven day's  notification  of  such  a  vote.  A  majority  is  necessary  to  pass  a  vote  of  noconfidence.
+The House of Representatives may withdraw confidence from the government. The House may not withdraw confidence from the government before an interpellation directed at the Prime Minister or he who is acting on his behalf. The request for interpellation must be signed by a third of the members of the House. The House cannot vote on the issue of no-confidence in the government without seven day's notification of such a vote. A majority is necessary to pass a vote of no-confidence.
 
 #### Article (99):
-The Prime Minister, his deputies, ministers, and their deputies are given the floor whenever they ask to clarify any points in the deliberations of the House of Representatives.  They  may  also  bring  along  any  senior  officials  to  assist  in  such deliberations.  However,  such representatives  of  governments  may  not  participate  in the votes of the House unless they are members thereof. The government or any of its members must comply with the request of the House of Representatives to attend any of its meetings.
+The Prime Minister, his deputies, ministers, and their deputies are given the floor whenever they ask to clarify any points in the deliberations of the House of
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+
+Representatives. They may also bring along any senior officials to assist in such deliberations. However, such representatives of governments may not participate in the votes of the House unless they are members thereof. The government or any of its members must comply with the request of the House of Representatives to attend any of its meetings.
 
 #### Article (100):
 Voting on bills is done on an Article by Article basis. The final vote must  be  on  the  bill  as  a  whole.  The  internal  regulations  of  the  House  explain  the procedures in this respect.
@@ -430,7 +444,7 @@ a.  The  President  of  the  Republic  may  not  dissolve  the  House  of  Repre
 
 b. The President of the Republic shall have the right to call for an early parliamentary elections without a nationwide referendum under the following circumstances:
 
-1. If no political party wins a clear majority in parliament to allow the President of the Republic  to  Dame  a  prime  minister  to  form  the  Government  or  in  circumstances where the formation of a coalition government is deemed impossible.
+1. If no political party wins a clear majority in parliament to allow the President of the Republic to name a prime minister to form the Government or in circumstances where the formation of a coalition government is deemed impossible.
 
 2.  If  the  House  of  Representatives  withhold  confidence  from  the  Government more than twice consecutively unless such action contravenes with the provisions of (b:1) of this Article.
 
@@ -447,7 +461,7 @@ The President of the Republic has the right to request a review of any bill  whi
 All Laws are published in the official gazette, and are announced within two  weeks  of  issuance,  and  shall  come  into  force  within  thirty  days  of  their publication.  This  period  may  be  shortened  or  extended  by  specific  provision  in  the law.
 
 #### Article (104):
-Laws shall only apply to cases occurring after they become operative. No  laws  may  be  applied  in  a  retroactive  manner.  However,  in  manners  other  than taxes and penal measures, specific stipulations in the law may determine otherwise. In such case, the approval of two thirds majority is needed in the House  of Representatives.
+Laws shall only apply to cases occurring after they become operative. No laws may be applied in a retroactive manner. However, in matters other than taxes and penal measures, specific stipulations in the law may determine otherwise. In such case, the approval of two thirds majority is needed in the House of Representatives.
 
 ## Chapter II The Executive Authority
 
@@ -469,16 +483,16 @@ a. To be at least forty years old.
 
 b. To be a descendant of Yemeni parents.
 
-- To be at Liberty to practice his political and civil rights.
+c. To be at Liberty to practice his political and civil rights.
 
 d.  To  be  of  good  character,  practices  his  Islamic  duties  and  have  no  dishonorable criminal record and if so, he has been reprieved.
 
-- Not to be married to a foreign spouse or to enter into such a marriage during his term of office.
+e. Not to be married to a foreign spouse or to enter into such a marriage during his term of office.
 
 #### Article (108):
 Nomination and election of the President shall be as follows:
 
-- Applications  for  candidacy  shall  be  submitted  to  the  Speaker  of  the  Rouse  of Representatives.
+a. Applications for candidacy shall be submitted to the Speaker of the House of Representatives.
 
 [[END OF PAGE 15]]
 
@@ -531,19 +545,19 @@ The  President  of  the  Republic  may  not  during  his  term,  directly  or in
 #### Article (119):
 The responsibilities of the President of the Republic are as follows:
 
-- To represent the Republic internally and externally.
+1. To represent the Republic internally and externally.
 
-- To call the voters, at the specified time, to elect the House of Representatives.
+2. To call the voters, at the specified time, to elect the House of Representatives.
 
-- To call for national referenda.
+3. To call for national referenda.
 
-- To name the person who will form the government, and to issue a republican decree with the names of the cabinet members.
+4. To name the person who will form the government, and to issue a republican decree with the names of the cabinet members.
 
-5.  To  lay  down,  jointly  with  the  government,  the  general  policy  of  the  state  and  to oversee the implementation of the policy as stipulated in the Constitution.
+5. To lay down, jointly with the government, the general policy of the state and to oversee the implementation of the policy as stipulated in the Constitution.
 
-- To call the cabinet to a joint meeting with the President, as the need arises.
+6. To call the cabinet to a joint meeting with the President, as the need arises.
 
-- To name the members of the National Defense Council according to the law.
+7. To name the members of the National Defense Council according to the law.
 
 [[END OF PAGE 17]]
 
@@ -575,14 +589,16 @@ The responsibilities of the President of the Republic are as follows:
 The  President  of  the  Republic,  following  a  proposal  by  the  relevant minister  and  approval  from  the  Council  of  Ministers,  shall  issue  resolutions  and regulations to implement laws and to regulate and organize general administration and government departments. These regulations may not obstruct any Law and may not have  the  effect  of  exempting  any  one  from  abiding  by  them.  The  President  may authorize others to issue such regulations. The Law may designate who issues such regulations.
 
 #### Article (121):
-The President declares a state of emergency by a republic can decree according to the law. The House of Representatives shall be called to session within one  week  and  be  presented  with  the  declaration  of  emergency.  If  the  House  of Representatives  is  dissolved,  then  the  old  House  of  Representatives  is  called  to session by the Constitution. If the House is not called to session, or the declaration of the state of emergency has not been presented to it, then the state of emergency shall cease to exist according to the Constitution. In all cases, a state of emergency is only declared in circumstances of war, internal discord, or natural disasters. Declaring the state of emergency shall only be for a limited time, and may not be extended, except with the approval of the Rouse of Representatives.
+The President declares a state of emergency by a republican decree according to the law. The House of Representatives shall be called to session within one week and be presented with the declaration of emergency. If the House of Representatives is dissolved, then the old House of Representatives is called to session by the Constitution. If the House is not called to session, or the declaration of the state of emergency has not been presented to it, then the state of emergency shall cease to exist according to the Constitution. In all cases, a state of emergency is only declared in circumstances of war, internal discord, or natural disasters. Declaring the state of emergency shall only be for a limited time, and may not be extended, except with the approval of the House of Representatives.
 
 #### Article (122):
-The President of the Republic has the right to demand reports from the Prime  Minister  concerning  the  implementation  of  the  duties  of  the  Council  of Ministers.
+The President of the Republic has the right to demand reports from the Prime Minister concerning the implementation of the duties of the Council of
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
+
+Ministers.
 
 #### Article (123):
 A death sentence shall not be executed unless endorsed by the President of the Republic.
@@ -593,13 +609,13 @@ The  Vice  President  assists  the  President  in  his  duties.  The  President 
 #### Article  (125):
 A  consultative  Council  shall  be  formed  by  power  of  a  Presidential Decree. Council members shall be drawn from a corpus of qualified individuals with professional  expertise  and  from  social  dignitaries  in  order  to  widen  the  base  of political  participation  and  make  use  of  national  experts  in  the  decision-making process. The Consultative Council shall have constitutional powers to:
 
-1.  Commission  studies  and  forward  proposals  and  recommendations  to  inform government agencies  on  issues  such  as  development  strategies  and  to  contribute  to institutional capacity-building of state agencies. The studies cited above shall aim at addressing social issues and thug consolidating national unit y and social cohesion.;
+1. Commission studies and forward proposals and recommendations to inform government agencies on issues such as development strategies and to contribute to institutional capacity-building of state agencies. The studies cited above shall aim at addressing social issues and thus consolidating national unity and social cohesion.;
 
 2. Give Opinion and counsel to the President of the Republic at request.
 
 3.  Offer  counseling  and  present  informed  opinion  on  the  State's  national  strategies particularly in political, economic, social, military and security matters to assist state agencies in realizing these strategies at the local and national levels.
 
-- Provide counseling and offer informed opinion on the government's administrative reform programs and on modernization and institutional capacity-building issues.
+4. Provide counseling and offer informed opinion on the government's administrative reform programs and on modernization and institutional capacity-building issues.
 
 5.  Hold  joint  sessions  in  conjunction  with  the  House  of  Representatives  to  second nominations for the office of the President of the Republic, approve socio-economic development plans and ratify agreements and treaties of defense, alliance, conciliation,  peace  and  border  concerns.  In  addition,  members  of  the  Consultative Council  shall  have  the  right  to  offer  counseling  and  present  informed  opinion  on matters forwarded by the President to the joint sessions.
 
@@ -612,11 +628,13 @@ A  consultative  Council  shall  be  formed  by  power  of  a  Presidential Decr
 9.  Review  periodic  reports  issued  by  the  Audit  and  Control  Bureau  and  forward  a summary report of these to the President of the Republic.
 
 #### Article (126):
-The Consultative Council shall consist of (111) members to be directly appointed  by  the  President  of  the  Republic.  Members  of  the  Council  shall  not  be drawn  from  the  House  of  Representatives  or  from  local  councils.  The  Law  shall stipulate  membership  conditions  as  well  as  the  duties,  rights  and  responsibilities  of Council members. Council members shall have to attain the age of forty and shall be required to take the oath of office in the presence of the President of the Republic. The Consultative Council shall draft internal regulations to govern its functions and duties. These by- Laws shall be enacted by power of the Law.
+The Consultative Council shall consist of (111) members to be directly appointed by the President of the Republic. Members of the Council shall not be
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
+
+drawn from the House of Representatives or from local councils. The Law shall stipulate membership conditions as well as the duties, rights and responsibilities of Council members. Council members shall have to attain the age of forty and shall be required to take the oath of office in the presence of the President of the Republic. The Consultative Council shall draft internal regulations to govern its functions and duties. These by- Laws shall be enacted by power of the Law.
 
 #### Article (127):
 The Consultative Council shall hold joint sessions in conjunction with the House of Representatives upon a call from the President of the Republic to discuss issues of mutual concern as detailed in the Constitution. Issues shall be resolved via voting  by  the  absolute  majority  of  members  who  are  present  in  a  joint  ballot  The Speaker of the House of Representatives shall preside over such joint sessions.
@@ -639,11 +657,13 @@ The Prime Minister, his deputies and the Ministers shall meet the same condition
 In consultation with the President of the Republic, the Prime Minister chooses  the  members  of  his  cabinet,  and  seeks  the  confidence  of  the  House  of Representative on the basis of a program he submits to the House.
 
 #### Article (133):
-The Prime Minister and ministers are collectively responsible for the actions  of  the  government  before  the  President  of  the  Republic  and  the  House  of Representatives.
+The Prime Minister and ministers are collectively responsible for the actions of the government before the President of the Republic and the House of
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
+
+Representatives.
 
 #### Article (134):
 Before  the  Prime  Minister  and  the  ministers  can  assume  their responsibilities, they shall perform the constitutional oath before the President of the Republic.
@@ -652,12 +672,12 @@ Before  the  Prime  Minister  and  the  ministers  can  assume  their responsibi
 The Law stipulates the salaries of the Prime Minister, his deputies, the ministers and vice-ministers.
 
 #### Article (136):
-During their term of office, the Prime Minister and Ministers may not engage in any other public office, or in any private, commercial, financial or industrial activities,  even  if  indirectly.  They  may  not  participate  in  any  undertakings  the government (or any of its Public corporations) contracts, and they may not combine the  posts  of  minister  with  membership  of  the  board  of  directors  of  any  company. During their term, they may not purchase, refit or barter government property, even through an open bid. They may not lease, sell, or barter any of their property to the government.
+During their term of office, the Prime Minister and Ministers may not engage in any other public office, or in any private, commercial, financial or industrial activities, even if indirectly. They may not participate in any undertakings the government (or any of its Public corporations) contracts, and they may not combine the posts of minister with membership of the board of directors of any company. During their term, they may not purchase, rent or barter government property, even through an open bid. They may not lease, sell, or barter any of their property to the government.
 
 #### Article  (137):
 The  Council  of  Ministers  is  responsible  for  the  execution  of  overall state policies in the political, economic, social, cultural, and defense fields, according to the Laws and cabinet's resolutions. In particular, it shall exercise the following:
 
-a. To participate, in conjugation with the President of the Republic, in preparing broad outlines of internal and external policies.
+a. To participate, in conjunction with the President of the Republic, in preparing broad outlines of internal and external policies.
 
 b. To prepare drafts of the national economic plan, and the annual budget, to organize and execute them, and to prepare the government's final annual account.
 
@@ -682,11 +702,11 @@ i.  To  supervise  the  organization  and  administration  of  the  monetary,  c
 j. To contract and award loans within the overall policies of the state, and within the limits of the provisions of the Constitution.
 
 #### Article (138):
-The Prime Minister shall mange the affairs of the Council of Ministers and shall head its meetings. He shall represent the Council in the implementation of the state's general policies and shall supervise the execution of Council decisions and overall state policies in a unified and coordinated manner. He may demand from any member of the cabinet,  reports  on  any  matter  pertaining  to  their  ministries  and  the duties assigned to them, and they must comply with such demands.
+The Prime Minister shall manage the affairs of the Council of Ministers and shall head its meetings. He shall represent the Council in the implementation of the state's general policies and shall supervise the execution of Council decisions and overall state policies in a unified and coordinated manner. He may demand from any member of the cabinet, reports on any matter pertaining to their ministries and the duties assigned to them, and they must comply with such demands.
 
 #### Article (139):
 
-1.  The  President  of  the  Republic  and  the  Rouse  of  Representatives  has  the  right  to place the Prime Minister, or his deputies or ministers under investigation and trail for any crimes committed by them in discharging their duties or as a consequence thereof. A decision of the Rouse of Representatives to take such a measure shall be based on a proposal presented by at least one fifth of its members. The accusation may not be issued without the support of two thirds of the Rouse.
+1. The President of the Republic and the House of Representatives has the right to place the Prime Minister, or his deputies or ministers under investigation and trial for any crimes committed by them in discharging their duties or as a consequence thereof. A decision of the House of Representatives to take such a measure shall be based on a proposal presented by at least one fifth of its members. The accusation may not be issued without the support of two thirds of the House.
 
 2. Those accused according to paragraph 1 mentioned above shall be suspended from work until judgment is
 
@@ -694,7 +714,7 @@ passed.  Their  dismissal  may  not  stop  the  charge  against  them  or  the  
 
 3. The investigation and trial of the Chairman of the Council of Ministers, his deputies and ministers and the trial procedures and guarantee (of fairness) shall be as stipulated by Law.
 
-4. The roles of the previous items are applicable to vice ministers.
+4. The rules of the previous items are applicable to vice ministers.
 
 #### Article  (140):
 If  the  Council  of  Ministers  resigns,  or  is  dismissed,  or  confidence  is withdrawn,  it remains  as a caretaker  government  responsible  for  day  to  day administration until a new government is formed. A caretaker government may not appoint or dismiss officials.
@@ -712,7 +732,7 @@ If the majority of the members of the Council of Ministers submit their resignat
 
 [[START OF PAGE 23]]
 
-#### Article  (l44):
+#### Article (144):
 Each  minister  is  in  charge  of  the  supervision  and  direction  of  his ministry and its branches throughout the Republic. He is responsible for the execution of the government's overall policies in his ministry. The law specifies the resolutions and regulations that the Minister may issue to implement the law.
 
 ### The Third Branch Bodies of Local Authority
@@ -724,7 +744,7 @@ The  territory  of  the  Republic  of  Yemen  shall  be  divided  into administr
 The  administrative  units  enjoy  a  nominal  personality  and  shall  have council  which  must  be  freely  and  fairly  elected,  both  at  the  local  and  governorate level,  which  shall  exercise  their  functions  within  the  borders  of  the  administrative area. They  shall propose programmes,  plans and investment budgets for the administrative unit as well as supervise, monitor and audit the agencies of the local authority  according  to  law.  The  Law  shall  specify  the  means  for  nomination  and election  of  the  local  authority,  its  administration  and  financial  resources,  the  rights and  duties  of  its  members,  its  role  in  the  execution  of  development  plans  and programmes  and  all  other  Provisions,  through  considering  the  adoption  of  the principle of administrative and financial decentralization as the foundation of a local administration system.
 
 #### Article (147):
-AII the administrative units and the local council are an inseparable part of the power of the state. The governors shall be responsible before the President of the  Republic  and  the  Council  of  Ministers,  whose  decisions  are  obligatory  to  the districts  and  councils  which  must  execute  them  in  all  cases.  The  law  defines  the methods of control over the actions of the local councils.
+All the administrative units and the local council are an inseparable part of the power of the state. The governors shall be responsible before the President of the Republic and the Council of Ministers, whose decisions are obligatory to the districts and councils which must execute them in all cases. The law defines the methods of control over the actions of the local councils.
 
 #### Article (148):
 The state shall encourage and sponsor the local development cooperatives as they are one of the most important means of local development.
@@ -732,16 +752,18 @@ The state shall encourage and sponsor the local development cooperatives as they
 ## Chapter III The Judicial Authority
 
 #### Article  (149):
-The  Judiciary  authority  is  an  autonomous  authority  in  its  judicial, financial  and  administrative  aspects  and  the  General  Prosecution  is  one  of  its  subbodies. The courts shall judge all disputes and crimes. The judges are independent and not subject to any authority, except the law. No other body may interfere in any way in the affairs and procedures of justice. Such interference shall be considered a crime that  must  be  punished  by  law.  A  charge  regarding  such  interference  cannot  be nullified with the passing of lime.
+The Judiciary authority is an autonomous authority in its judicial, financial and administrative aspects and the General Prosecution is one of its sub-bodies. The courts shall judge all disputes and crimes. The judges are independent and not subject to any authority, except the law. No other body may interfere in any way in the affairs and procedures of justice. Such interference shall be considered a crime that must be punished by law. A charge regarding such interference cannot be nullified with the passing of time.
 
 #### Article (150):
-The judiciary is an integrated system. The law organizes this system in terms of ranks, responsibilities, the terms and procedures of appointment, transfer and promotion  of  judges,  and  their  other  privileges  and  guarantees.  Exceptional  courts may not be established under any conditions.
+The judiciary is an integrated system. The law organizes this system in terms of ranks, responsibilities, the terms and procedures of appointment, transfer and
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
 
-#### Article  (151):
+promotion of judges, and their other privileges and guarantees. Exceptional courts may not be established under any conditions.
+
+#### Article (151):
 Members  of  the  judiciary  and  public  prosecution  office  shall  Not  be dismissed  except  under  the  conditions  stipulated  by  the  law.  They  may  not  be transferred  to  non-judicial  posts  except  with  their  own  consent,  the  approval  of  the relevant  judicial  council,  unless  that  was  taken  as  a  disciplinary  measure.  The  law shall  regulate  the  disciplinary  trial  of  the  judiciary  and  it  organizes  the  legal profession.
 
 #### Article (152):
@@ -750,15 +772,15 @@ The judiciary shall set up the supreme judicial council. The law shall organize 
 #### Article  (153):
 The  Supreme  Court  of  the  Republic  is  the  highest  judicial  authority. The law shall specify how it can be formed, clarify its functions and the procedures to be followed before it. It shall undertake to do the following:
 
-- Judge  on  cases  and  pleas  that1aws,  regulations,  by-laws  and  decisions  are  not constitutional.
+a. Judge on cases and pleas that laws, regulations, by-laws and decisions are not constitutional.
 
-- Judge disputes over conflict of jurisdiction.
+b. Judge disputes over conflict of jurisdiction.
 
-- Investigate and  give opinions regarding appeals referred by  the  House  of Representatives which relate to its membership.
+c. Investigate and give opinions regarding appeals referred by the House of Representatives which relate to its membership.
 
-- Rule on appeals of final judgments in civilian, commercial, criminal, personal and administrative disputes and disciplinary cases according to the law.
+d. Rule on appeals of final judgments in civilian, commercial, criminal, personal and administrative disputes and disciplinary cases according to the law.
 
-- To  try  the  President  of  the  Republic,  the  Vice  President,  the  Prime  Minister,  his deputies, the ministers and their deputies according to the law.
+e. To try the President of the Republic, the Vice President, the Prime Minister, his deputies, the ministers and their deputies according to the law.
 
 #### Article  (154):
 Court  sittings  are  open  to  the  public  unless  a  court  determines,  for reasons  of  security  or  general  morals,  to  hold  sessions  behind  closed  doors.  In  all cases, verdicts are announced in an open session.
@@ -789,7 +811,7 @@ The President of Republic and the House of Representatives shall have the right 
 A  supreme,  independent  and  neutral  committee  shall  administer, supervise  and  monitor  the  general  elections  and  general  referenda.  The  law  shall specify the number of the members of the committee, the conditions they should meet under and the method for nominating and appointing them. The law also shall specify the jurisdictions and the functions of the committee in a manner that secures the best fulfillment of its functions.
 
 #### Article (160):
-The text of the constitutional oath to be sworn by the President of the Republic, his deputy, members of the Rouse of Representatives, the Prime Ministers and Cabinet members and by the speaker and members of the Consultative Council, shall be as follows:
+The text of the constitutional oath to be sworn by the President of the Republic, his deputy, members of the House of Representatives, the Prime Ministers and Cabinet members and by the speaker and members of the Consultative Council, shall be as follows:
 
 I swear by Almighty Allah:
 
@@ -811,7 +833,7 @@ I swear by Almighty Allah:
 The seven-year term referred to in Article (112) shall take effect from the beginning of the current term of the President of the Republic.
 
 #### Article  (162):
-The  term  of  office  the  current  Rouse  of  Representatives  shall  be extended by 2 years effective from the date the new constitutional amendments were endorsed in accordance with the provisions of Article 65 of this Constitution.
+The  term  of  office  the  current  House  of  Representatives  shall  be extended by 2 years effective from the date the new constitutional amendments were endorsed in accordance with the provisions of Article 65 of this Constitution.
 
 * * *
 
