@@ -110,77 +110,58 @@ basis of Minister Order provisions regarding school year structure annually appr
 
 #### A1b. Please provide the full names of any laws, legislation or legal frameworks referred to in A1a and, where possible, web links to relevant documents.
 
-- The Constitution of Romania (2003) - https://www.constitutia.ro/
-
-- The  Law  on  National  Education  no.  1/2011 ,  with  the  subsequent  amendments  and completions - https://www.edu.ro/sites/default/files/_fi%C8%99iere/Legislatie/2019/Legea%20nr%201% 20Educatiei%20Nationale%20actualizata%202019.pdf
-
-- Government Ordinance no. 137/2000 regarding the prevention and sanctioning of all forms of discrimination ,  with  the  subsequent  amendments  and  completions (2014)  - http://legislatie.just.ro/Public/DetaliiDocument/24129
-
-- Law  272/2004  regarding  the  protection  and  promotion  of  child's  rights ,  with  the subsequent amendments and completions (2014) - http://legislatie.just.ro/Public/DetaliiDocument/156097
-
-- Law 202/2002 regarding the equality of opportunities between women and men , with the subsequent amendments and completions (2018) - https://anes.gov.ro/wp- content/uploads/2018/07/178-mod-202.pdf
-
-- Government Decision no. 313/2017 regarding the establishment, organisation and functioning of the Department for Sustainable Development - https://lege5.ro/Gratuit/ge3danjsga4a/hotararea-nr-313-2017-privind-infiintarea- organizarea-si-functionarea-departamentului-pentru-dezvoltare-durabila
-
-- Government Decision no. 877/2018 regarding the approval of National Strategy for the Sustainable Development of Romania 2030 - http://www.asrm.ro/pdf/noutati/noutati-legislative-noiembrie- 2018/Hotararea_877_2018_Strategie_dezvoltare_durabila_Romania.pdf; Annex 1 of the Strategy anexa 1 (Strategia 2030) - https://sgg.gov.ro/new/wp- content/uploads/2018/11/ANEXA-SNDDR-2030.pdf
-
-- Government Decision no. 272/2019 regarding the establishment of the Interdepartmental Committee for Sustainable Development - https://lege5.ro/Gratuit/gmztcnjsgmya/hotararea-nr-272-2019-privind-constituirea- comitetului-interdepartamental-pentru-dezvoltare-durabila
-
-- Order  of  the  Minister  of  Education  and  Research  no.  5633/2019  regarding  the approval of the Methodology for monitoring school segregation in pre-university education - http://legislatie.just.ro/Public/DetaliiDocumentAfis/221840
-
-- Government  Decision  no.  640/2017  regarding  the  approval  of  Programme  for schools of Romania during the period 2017-2023 and for establishing the budget for its  implementation  in  the  school  year  2017-2018 ,  amended  and  completed  by Government Decision no. 52/2019 - http://legislatie.just.ro/Public/DetaliiDocument/193180; http://legislatie.just.ro/Public/DetaliiDocumentAfis/210613#A350
-
-- Minister  Order  no.  5.341/2011  regarding  the  approval  of  the  Methodology  for organizing the National Programme 'School After School' (Școala după școală),
+1. The Constitution of Romania (2003) – https://www.constitutia.ro/
+2. The Law on National Education no. 1/2011, with the subsequent amendments and completions – https://www.edu.ro/sites/default/files/_fi%C8%99iere/Legislatie/2019/Legea%20nr%201%20Educatiei%20Nationale%20actualizata%202019.pdf
+3. Government Ordinance no. 137/2000 regarding the prevention and sanctioning of all forms of discrimination, with the subsequent amendments and completions (2014) – http://legislatie.just.ro/Public/DetaliiDocument/24129
+4. Law 272/2004 regarding the protection and promotion of child's rights, with the subsequent amendments and completions (2014) – http://legislatie.just.ro/Public/DetaliiDocument/156097
+5. Law 202/2002 regarding the equality of opportunities between women and men, with the subsequent amendments and completions (2018) – https://anes.gov.ro/wp-content/uploads/2018/07/178-mod-202.pdf
+6. Government Decision no. 313/2017 regarding the establishment, organisation and functioning of the Department for Sustainable Development – https://lege5.ro/Gratuit/ge3danjsga4a/hotararea-nr-313-2017-privind-infiintarea-organizarea-si-functionarea-departamentului-pentru-dezvoltare-durabila
+7. Government Decision no. 877/2018 regarding the approval of National Strategy for the Sustainable Development of Romania 2030 – http://www.asrm.ro/pdf/noutati/noutati-legislative-noiembrie-2018/Hotararea_877_2018_Strategie_dezvoltare_durabila_Romania.pdf; Annex 1 of the Strategy anexa 1 (Strategia 2030) – https://sgg.gov.ro/new/wp-content/uploads/2018/11/ANEXA-SNDDR-2030.pdf
+8. Government Decision no. 272/2019 regarding the establishment of the Interdepartmental Committee for Sustainable Development – https://lege5.ro/Gratuit/gmztcnjsgmya/hotararea-nr-272-2019-privind-constituirea-comitetului-interdepartamental-pentru-dezvoltare-durabila
+9. Order of the Minister of Education and Research no. 5633/2019 regarding the approval of the Methodology for monitoring school segregation in pre-university education – http://legislatie.just.ro/Public/DetaliiDocumentAfis/221840
+10. Government Decision no. 640/2017 regarding the approval of Programme for schools of Romania during the period 2017-2023 and for establishing the budget for its implementation in the school year 2017-2018, amended and completed by Government Decision no. 52/2019 – http://legislatie.just.ro/Public/DetaliiDocument/193180; http://legislatie.just.ro/Public/DetaliiDocumentAfis/210613#A350
+11. Minister Order no. 5.341/2011 regarding the approval of the Methodology for organizing the National Programme ”School After School” (Școala după școală),
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-- amended and completed by Minister Order no. 4.802/2017 https://aicta.ro/site/downloads/ghidelev/SDS_ordin_modificare_metodologie_2017.pdf.
-
--
-
-- Minister Order no. 5.034/29.08.2016 regarding the approval of the Methodology for organizing  the  National  Programme  'School  in  a different  way'  (Școala  altfel) -https://www.edu.ro/etichete/%C5%9Fcoala-altfel.
-
-- Minister Order no. 4.343/ 27.05.2020 regarding the approval of the Methodological Norms (rules) for the application of the provisions of Law on National Education on psychological violence -bullying -https://www.edu.ro/sites/default/files/_fi%C8%99iere/LeGislatie/2020/OMEC_4343_2020 _norme%20antibullying,pdf.
-
-- Minister Order no. 5567/2011 for approving the Regulation on the organization and functioning of the units that offer extracurricular activity -https://www.edu.ro/sites/default/files/_fi%C8%99iere/InvatamantPreuniversitar/2016/nonformal/ORDIN%204624_2015_modif_anexa1_Reg_unit_care_of era_activit_extrascolara.PDF.
-
-- Minister  Order  no.  4121/2016 regarding  the  approval  of  the  Vocational  Training Standards , Minister Order no. 4457/2016, Minister Order no. 3915/2017 and Minister Order  no.  3501/2018  regarding  the  approval  of  the  curriculum  for  Vocational Education and Training, grades 9 th -12 th , and Minister Order no. 3914/2017 regarding the approval of the Local Development Curriculum -  https://www.edu.ro/planuri-de%C3%AEnv%C4%83%C8%9B%C4%83m%C3%A2nt-%C8%99i-programe%C8%99colare-%C3%AEnv%C4%83%C8%9B%C4%83m%C3%A2nt-profesional.
-
-- Minister  Order  no.  3393/2017  regarding  the  approval  of  the  curriculum  for  lower secondary education -https://www.edu.ro/sites/default/files/OMEN%203393_Programe%20Scolare%20Gimnazi u.pdf
-
-- Government  Emergency  Ordinance  no.  195/2005  on  environmental  protection -http://legislatie.just.ro/Public/DetaliiDocument/67634.
+amended and completed by Minister Order no. 4.802/2017 – https://aicta.ro/site/downloads/ghidelev/SDS_ordin_modificare_metodologie_2017.pdf.
+12. Minister Order no. 5.034/29.08.2016 regarding the approval of the Methodology for organizing the National Programme “School in a different way” (Școala altfel) – https://www.edu.ro/etichete/%C5%9Fcoala-altfel.
+13. Minister Order no. 4.343/ 27.05.2020 regarding the approval of the Methodological Norms (rules) for the application of the provisions of Law on National Education on psychological violence – bullying – https://www.edu.ro/sites/default/files/_fi%C8%99iere/LeGislatie/2020/OMEC_4343_2020_norme%20antibullying.pdf.
+14. Minister Order no. 5567/2011 for approving the Regulation on the organization and functioning of the units that offer extracurricular activity – https://www.edu.ro/sites/default/files/_fi%C8%99iere/Invatamant-Preuniversitar/2016/nonformal/ORDIN%204624_2015_modif_anexa1_Reg_unit_care_ofera_activit_extrascolara.PDF.
+15. Minister Order no. 4121/2016 regarding the approval of the Vocational Training Standards, Minister Order no. 4457/2016, Minister Order no. 3915/2017 and Minister Order no. 3501/2018 regarding the approval of the curriculum for Vocational Education and Training, grades 9th-12th, and Minister Order no. 3914/2017 regarding the approval of the Local Development Curriculum – https://www.edu.ro/planuri-de-%C3%AEnv%C4%83%C8%9B%C4%83m%C3%A2nt-%C8%99i-programe-%C8%99colare-%C3%AEnv%C4%83%C8%9B%C4%83m%C3%A2nt-profesional.
+16. Minister Order no. 3393/2017 regarding the approval of the curriculum for lower secondary education – https://www.edu.ro/sites/default/files/OMEN%203393_Programe%20Scolare%20Gimnaziu.pdf
+17. Government Emergency Ordinance no. 195/2005 on environmental protection – http://legislatie.just.ro/Public/DetaliiDocument/67634.
 
 #### *A2 Please indicate which GCED and ESD themes are covered in national or sub-national laws, legislation or legal frameworks on education by entering the appropriate number in each white cell.
 
-National | Sub-national
+KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
+
+ | National |  |  |  | Sub-national |  |  | 
+ | Pre-primary | Primary/secondary | Tertiary | Non-formal | Pre-primary | Primary/secondary | Tertiary | Non-formal
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Pre- primary | Primary/ secondary | Tertiary | Non- formal | Pre- primary | Primary/ secondary | Tertiary | Non- formal
 1. Cultural diversity and tolerance | 1 | 1 | 1 | 1 | 99 | 1 | 1 | 99
 2. Gender equality | 1 | 1 | 1 | 1 | 99 | 1 | 1 | 99
 3. Human rights | 1 | 1 | 1 | 1 | 99 | 1 | 1 | 99
-4. Peace and non- violence | 1 | 1 | 1 | 1 | 99 | 1 | 1 | 99
+4. Peace and non-violence | 1 | 1 | 1 | 1 | 99 | 1 | 1 | 99
 5. Climate change | 1 | 1 | 1 | 1 | 99 | 1 | 1 | 99
-
-KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-#### A3a.  Please describe any specific current national or sub-national education policies, frameworks or strategic objectives in your country that promote global citizenship education (GCED) and/or education for sustainable development (ESD). Explain whether GCED and/or ESD themes 2  are mentioned explicitly or are inferred and what types or levels of education are covered.
+6. Environmental sustainability | 1 | 1 | 1 | 1 | 99 | 1 | 1 | 99
+7. Human survival and well-being | 1 | 1 | 1 | 1 | 99 | 1 | 1 | 99
+8. Sustainable consumption and production | 1 | 1 | 1 | 1 | 99 | 1 | 1 | 99
 
-6. | Environmental sustainability 1 | 1 | 1 | 1 | 99 1 | 1 | 99
---- | --- | --- | --- | --- | --- | --- | --- | ---
-7. | Human survival and well-being 1 | 1 | 1 | 1 | 99 | 1 | 1 | 99
-8. | Sustainable consumption 1 | 1 | 1 | 1 | 99 | 1 | 1 | 99
+#### A3a. Please describe any specific current national or sub-national education policies, frameworks or strategic objectives in your country that promote global citizenship education (GCED) and/or education for sustainable development (ESD). Explain whether GCED and/or ESD themes 2 are mentioned explicitly or are inferred and what types or levels of education are covered.
 
 Complementing the legal framework, the politices and strategies adopted in the field of education address specific topics related to GCED and ESD in terms of content, as well as the principles governing the national education system.
 
 ##### Policy documents directly related to the national education system
 
-- National Strategy for the Reduction of Early School Leaving ensures the coordination of all national policies in the area and combines a series of prevention, intervention and compensation  measures, focused  on  school  and  pupil  level  interventions.  Through  its assumed targets, the Strategy focuses on fostering access to education and the provision of quality education to all children by developing and consolidating the early childhood education and care system; ensuring that all children complete compulsory education with the  support  of  early  warning  and  intervention  mechanisms;  the  reintegration  in  the educational  system  of  the  early  school  leavers  by  means  of  quality  specially  tailored programmes  (Second  Chance  programmes);  the  development  and  the  provision  of adequate institutional support. The Strategy contributes to ensuring the right to quality education for each child, having long-term social and economic implications, with effects on  smart  growth  (improving  education  and  training  levels),  and  inclusive  growth (highlighting early school leaving as a risk factor for unemployment, poverty and social exclusion).  The  Strategy  targets  GCED  and  ESD  themes  of  human  survival  and  wellbeing, as well as sustainable consumption and production.
+- National Strategy for the Reduction of Early School Leaving ensures the coordination of all national policies in the area and combines a series of prevention, intervention and compensation measures, focused on school and pupil level interventions. Through its assumed targets, the Strategy focuses on fostering access to education and the provision of quality education to all children by developing and consolidating the early childhood education and care system; ensuring that all children complete compulsory education with the support of early warning and intervention mechanisms; the reintegration in the educational system of the early school leavers by means of quality specially tailored programmes (Second Chance programmes); the development and the provision of adequate institutional support. The Strategy contributes to ensuring the right to quality education for each child, having long-term social and economic implications, with effects on smart growth (improving education and training levels), and inclusive growth (highlighting early school leaving as a risk factor for unemployment, poverty and social exclusion). The Strategy targets GCED and ESD themes of human survival and well-being, as well as sustainable consumption and production.
 
 > 2 See the schema described in paragraph 11 of Section II of these guidelines.
 
@@ -188,7 +169,7 @@ Complementing the legal framework, the politices and strategies adopted in the f
 
 [[START OF PAGE 10]]
 
-- Strategy on vocational education and training in Romania for the period of 20162020 focuses on the initial and continual professional training as accessible, attractive, competitive and relevant factors for the labour market needs. The Strategy, completed by the other strategic framework, proposes a global vision on the development / consolidation of the entire vocational education and training system for lifelong learning participants. At the  same  time,  from  the  perspective  of  qualifications  and  competencies,  this  strategy includes an approach related to the strategies developed by the Ministry of Labor, Social Protection, Family and the Elderly in the field of employment and social equity. Part of the targets of this strategy indirectly support the development of some areas subsumed to GCED and ESD: increasing the employment rate of population aged between 20-64 years old; the reduction of greenhouse gas emissions; increasing the rate of renewable energy; increasing energy efficiency.
+- Strategy on vocational education and training in Romania for the period of 2016-2020 focuses on the initial and continual professional training as accessible, attractive, competitive and relevant factors for the labour market needs. The Strategy, completed by the other strategic framework, proposes a global vision on the development / consolidation of the entire vocational education and training system for lifelong learning participants. At the same time, from the perspective of qualifications and competencies, this strategy includes an approach related to the strategies developed by the Ministry of Labor, Social Protection, Family and the Elderly in the field of employment and social equity. Part of the targets of this strategy indirectly support the development of some areas subsumed to GCED and ESD: increasing the employment rate of population aged between 20-64 years old; the reduction of greenhouse gas emissions; increasing the rate of renewable energy; increasing energy efficiency.
 
 - National  Strategy  for  Lifelong  Learning  2015-2020 aims  at enhancing  adults' participation in lifelong learning activities and supports the accomplishment of European and national key goals, such as smart, inclusive and sustainable growth. The Strategy includes strategic pillars comprised of coordinating, financing and regulating activities for stimulating  the  participation  to  lifelong  learning,  with  effects  on  human  well-being, sustainable production etc.
 
@@ -208,15 +189,15 @@ All the above mentioned Strategies were approved through Governmetn Decisions an
 
 specific objectives within defined priorities. The document addresses all themes of GCED and ESD through measures supporting the educational system as a whole.
 
-- National Strategy 'A society without barriers for persons with disabilities' 20152020 focuses  on  promoting,  protecting  and  ensuring  the  full  exercise  and  in  equal conditions of fundamental human rights and freedoms for persons with disabilities. The main lines of action address accessibility, participation, equality, employment, education and VET, social protection, health, as well as statistics and data collection. The document addresses several themse of GCED and ESD, such as human rights education, peace and non-violence.
+- National Strategy “A society without barriers for persons with disabilities” 2015-2020 focuses on promoting, protecting and ensuring the full exercise and in equal conditions of fundamental human rights and freedoms for persons with disabilities. The main lines of action address accessibility, participation, equality, employment, education and VET, social protection, health, as well as statistics and data collection. The document addresses several themse of GCED and ESD, such as human rights education, peace and non-violence.
 
-- National Strategy for the protection and promotion of the rights of the child 20142020 includes a series of specific goals focusing on developing services for preventing the separation of the child from the family and the prevention and combating of any forms of violences. Among the measures envisioned we mention: increasing the level of knowledge and awareness among children, parents, professionals and general population regarding all  forms of violence; reducing the exposure of children to violence in mass-media and online environment;  capacity building for public services providers regarding the prevention  and  combating  of  any  forms  of  violence  against  children.  The  Strategy addresses several themes of GCED and ESD: human rights education, peace and nonviolence, human survival and well-being.
+- National Strategy for the protection and promotion of the rights of the child 2014-2020 includes a series of specific goals focusing on developing services for preventing the separation of the child from the family and the prevention and combating of any forms of violences. Among the measures envisioned we mention: increasing the level of knowledge and awareness among children, parents, professionals and general population regarding all forms of violence; reducing the exposure of children to violence in mass-media and online environment; capacity building for public services providers regarding the prevention and combating of any forms of violence against children. The Strategy addresses several themes of GCED and ESD: human rights education, peace and non-violence, human survival and well-being.
 
 - National Strategy for the promotion of equal opportunities and treatment between women and men and preventing and combating domestic violence for the period 2018-2020 supports the promotion of several measrues for educating young generation, for balancing professional and personal life, encouraging women's participation in decision making. In the field of education, the interventions focus on raising the level of awareness of  children  and  youth  regarding  the  legal  provisions  in  terms  of  equal  opportunities between women and men, as well as combating gender based stereotypes among youth. The Strategy addresses several themes of GCED and ESD: gender equality education, human rights education, peace and non-violence, human survival and well-being.
 
 - National  Strategy  for  the  inclusion  of  Romanian  citizens  belonging  to  Roma minority for the period 2014-2020 supports the socio-economic inclusion of Romanian citizens belonging to Roma minority to a level similar to that of the rest of the population. The activities proposed, with a focus on global education, cultural diversity and tolerance, include the following goals: increasing the access to education through programs, actions and provision of services of information, mediation, consulting and assisting, as well as through assessing and certifying competences etc.
 
-- National Strategy for social inclusion and poverty reduction for the period 20152020 proposes  measures  for  ensuring  equal  opportunities  of  participation  in  society, appreciation  and  valuing,  of  respecting  human  dignity,  realisation  of  basic  needs  and respect for  differences. In  order  to  realise  the  goal  of  the  Romanian  Government, the Strategy  includes  activities  addressing  several  themes  of  GCED  and  ESD:  cultural diversity and tolerance, gender equality education, human rights education, peace and non-violence and human survival and well-being.
+- National Strategy for social inclusion and poverty reduction for the period 2015-2020 proposes measures for ensuring equal opportunities of participation in society, appreciation and valuing, of respecting human dignity, realisation of basic needs and respect for differences. In order to realise the goal of the Romanian Government, the Strategy includes activities addressing several themes of GCED and ESD: cultural diversity and tolerance, gender equality education, human rights education, peace and non-violence and human survival and well-being.
 
 - National Strategy for Competitivity 2015-2020 focuses on correlating the interventions aimed  at  increasing  competitivity,  considering  the  national  areas  of  excellence  from multiple  perspective,  including  from  the  development  of  human  capital  perspective. Among the priority areas of intervention, such as social inclusion and poverty reduction, VET  as  basis  for  ensuring  human  rightst  and  economic  competitivity,  the  Strategy addresses GCED and ESD (human survival and well-being, sustainable consumption and production, human rights education).
 
@@ -228,7 +209,7 @@ specific objectives within defined priorities. The document addresses all themes
 
 - According to the provisions of the National Waste Generation Prevention Programme , included in the National Waste Management Plan, approved by Government Decision no.  942/20.12.2017 ,  one  of  the  measures  to  be  implemented  is  ' educating the young generation on environmental protection, in general and on the prevention of household waste generation, in particular '. The measure is aiming changes in attitudes and behaviors and eco-skills development of the students within pre-university education, by formal and non-  formal  education. Environmental  sustainability , Sustainable  consumption  and production and Climate  change  education are  the  related  key  terms.  The  Ministry  of Environment,  Waters  and  Forests  initiated  and  coordinates  the  implementation  of  the national programme and the plan.
 
-- National  Strategy  for  Digital  Agenda  for  Romania  2020 focuses  on  supporting  the economic recovery of Europe and, in particular, sustainable, smart and inclusive economic growth. The Strategy highlights 5 European goals: employment (75% of persons aged 2064 to be employed), research and development (allocating 3% of GDP); climate change and energy sustainability; education (at least 40% of persons aged 30-34 to complete ISCED 3); combating poverty and social exclusion.
+- National Strategy for Digital Agenda for Romania 2020 focuses on supporting the economic recovery of Europe and, in particular, sustainable, smart and inclusive economic growth. The Strategy highlights 5 European goals: employment (75% of persons aged 20-64 to be employed), research and development (allocating 3% of GDP); climate change and energy sustainability; education (at least 40% of persons aged 30-34 to complete ISCED 3); combating poverty and social exclusion.
 
 [[END OF PAGE 12]]
 
@@ -236,68 +217,53 @@ specific objectives within defined priorities. The document addresses all themes
 
 #### A3b. Please provide the full names of any education policies, frameworks or strategic objectives referred to in A3a and, where possible, web links to relevant documents .
 
-- National Strategy for the Reduction of Early School Leaving https://www.edu.ro/strategii-condi%C8%9Bionalit%C4%83%C8%9Bi-ex-ante;
-
--
-
-- Strategy on vocational education and training in Romania for the period of 2016-2020 - https://www.edu.ro/strategii-condi%C8%9Bionalit%C4%83%C8%9Bi-ex-ante;
-
-- National  Strategy  for  Lifelong  Learning  2015-2020 -https://www.edu.ro/strategiicondi%C8%9Bionalit%C4%83%C8%9Bi-ex-ante;
-
-- National  Strategy  for  Tertiary  Education  2015-2020 -  https://www.edu.ro/strategiicondi%C8%9Bionalit%C4%83%C8%9Bi-ex-ante;
-
-- Educated Romania - http://www.romaniaeducata.eu/;
-
-- National Strategy 'A society without barriers for persons with disabilities' 2015-2020 -http://www.mmuncii.ro/j33/images/Documente/Proiecte_in_dezbatere/2015/2015-10-08proiecthg-strateg-diz-anexa1.pdf;
-
-- National Strategy for the protection and promotion of the rights of the child 2014-2020 -http://www.mmuncii.ro/j33/images/Documente/Transparenta/2014/2014-02-03_Anexa1_HG_Strategie_protectia_copilului.pdf ;
-
-- National Strategy for the promotion of equal opportunities and treatment between women and men and preventing and combating domestic violence for the period 2018-2020 -https://anes.gov.ro/wp-content/uploads/2018/06/Strategia-Nationala-ES-siVD.pdf ;
-
-- National Strategy for the inclusion of Romanian citizens belonging to Roma minority for the period 2014-2020 -http://www.anr.gov.ro/docs/Site2014/Strategie/Strategie_final_18-11-2014.pdf ;
-
-- National Strategy for social inclusion and poverty reduction for the period 2015-2020 -http://www.mmuncii.ro/j33/index.php/ro/2014-domenii/familie/politici-familiale-incluziunesi-asistenta-sociala/3916 ;
-
-- National Strategy for Competitivity 2015-2020 -https://lege5.ro/Gratuit/haydambyga/strategia-nationala-pentru-competitivitate-2015-2020septembrie-2015-hotarare-775-2015?dp=haztmmjugmzdo;
-
-- The National waste management plan , approved by Government Decision no. 942/2017, http://www.mmediu.ro/app/webroot/uploads/files/2018-01-10_MO_11_bis.pdf
-
-- The National Strategy on climate change and economic growth based on low-carbon emissions for the period 2016¬2020 , approved by Government Decision no. 739/2016, http://mmediu.ro/cateaorie/strateqia-nationala-privind-schimbarile-climatice-rezumat/17l.
-
-- National Strategy for Digital Agenda for Romania 2020 -https://www.ancom.ro/uploads/links_files/Strategia_nationala_privind_Agenda_Digitala_pe ntru_Romania_2020.pdf.
+- National Strategy for the Reduction of Early School Leaving – https://www.edu.ro/strategii-condi%C8%9Bionalit%C4%83%C8%9Bi-ex-ante;
+- Strategy on vocational education and training in Romania for the period of 2016-2020 – https://www.edu.ro/strategii-condi%C8%9Bionalit%C4%83%C8%9Bi-ex-ante;
+- National Strategy for Lifelong Learning 2015-2020 – https://www.edu.ro/strategii-condi%C8%9Bionalit%C4%83%C8%9Bi-ex-ante;
+- National Strategy for Tertiary Education 2015-2020 – https://www.edu.ro/strategii-condi%C8%9Bionalit%C4%83%C8%9Bi-ex-ante;
+- Educated Romania – http://www.romaniaeducata.eu/;
+- National Strategy “A society without barriers for persons with disabilities” 2015-2020 – http://www.mmuncii.ro/j33/images/Documente/Proiecte_in_dezbatere/2015/2015-10-08-proiecthg-strateg-diz-anexa1.pdf;
+- National Strategy for the protection and promotion of the rights of the child 2014-2020 – http://www.mmuncii.ro/j33/images/Documente/Transparenta/2014/2014-02-03_Anexa1_HG_Strategie_protectia_copilului.pdf;
+- National Strategy for the promotion of equal opportunities and treatment between women and men and preventing and combating domestic violence for the period 2018-2020 – https://anes.gov.ro/wp-content/uploads/2018/06/Strategia-Nationala-ES-si-VD.pdf;
+- National Strategy for the inclusion of Romanian citizens belonging to Roma minority for the period 2014-2020 – http://www.anr.gov.ro/docs/Site2014/Strategie/Strategie_final_18-11-2014.pdf;
+- National Strategy for social inclusion and poverty reduction for the period 2015-2020 – http://www.mmuncii.ro/j33/index.php/ro/2014-domenii/familie/politici-familiale-incluziune-si-asistenta-sociala/3916;
+- National Strategy for Competitivity 2015-2020 – https://lege5.ro/Gratuit/haydambyga/strategia-nationala-pentru-competitivitate-2015-2020-septembrie-2015-hotarare-775-2015?dp=haztmmjugmzdo;
+- The National waste management plan, approved by Government Decision no. 942/2017, http://www.mmediu.ro/app/webroot/uploads/files/2018-01-10_MO_11_bis.pdf
+- The National Strategy on climate change and economic growth based on low-carbon emissions for the period 2016-2020, approved by Government Decision no. 739/2016, http://mmediu.ro/categorie/strategia-nationala-privind-schimbarile-climatice-rezumat/171.
+- National Strategy for Digital Agenda for Romania 2020 – https://www.ancom.ro/uploads/links_files/Strategia_nationala_privind_Agenda_Digitala_pentru_Romania_2020.pdf.
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
-#### *A4.  Please indicate which GCED and ESD themes are covered in national or sub-national education policies, frameworks or strategic objectives affecting each level of education by entering the appropriate number in each white cell.
-
-#### *A5 Please indicate whether national or sub-national education policies, frameworks or strategic objectives on education provide a mandate to integrate GCED and ESD in the following areas by entering the appropriate number in each white cell.
+#### *A4. Please indicate which GCED and ESD themes are covered in national or sub-national education policies, frameworks or strategic objectives affecting each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
-Pre-primary | Primary and secondary | Tertiary | Non-formal education
---- | --- | --- | --- | --- | ---
-1. | Cultural diversity and tolerance | 1 | 1 | 1 | 1
-2. | Gender equality | 1 | 1 | 1 | 1
-3. | Human rights | 1 | 1 | 1 | 1
-4. | Peace and non-violence | 1 | 1 | 1 | 1
-5. | Climate change | 1 | 1 | 1 | 1
-6. | Environmental sustainability | 1 | 1 | 1 | 1
-7. | Human survival and well-being | 1 | 1 | 1 | 1
-8. | Sustainable consumption and production | 1 | 1 | 1 | 1
+ | Pre-primary | Primary and secondary | Tertiary | Non-formal education
+--- | --- | --- | --- | ---
+1. Cultural diversity and tolerance | 1 | 1 | 1 | 1
+2. Gender equality | 1 | 1 | 1 | 1
+3. Human rights | 1 | 1 | 1 | 1
+4. Peace and non-violence | 1 | 1 | 1 | 1
+5. Climate change | 1 | 1 | 1 | 1
+6. Environmental sustainability | 1 | 1 | 1 | 1
+7. Human survival and well-being | 1 | 1 | 1 | 1
+8. Sustainable consumption and production | 1 | 1 | 1 | 1
+
+#### *A5 Please indicate whether national or sub-national education policies, frameworks or strategic objectives on education provide a mandate to integrate GCED and ESD in the following areas by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
 
-Pre-primary | Primary and secondary | Tertiary | Non-formal education
+ | Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
-National
+National |  |  |  | 
 Design or revision of the curriculum | 1 | 1 | 1 | 1
 Setting of programme learning objectives | 1 | 1 | 1 | 1
 Textbook development | 1 | 1 | 1 | 99
 Teacher education and training | 1 | 1 | 1 | 1
 Assessment of student outcomes | 1 | 1 | 1 | 1
-Sub-national
+Sub-national |  |  |  | 
 Design or revision of the curriculum | 1 | 1 | 1 | 1
 Setting of programme learning objectives | 1 | 1 | 1 | 1
 Textbook development | 99 | 99 | 0 | 99
@@ -340,7 +306,7 @@ Examples of subjects which include themes referring to GCED and ESD:
 
 GCED and ESD are included in the curriculum for preschool education , through the topic: Who am / Who are we? When / how and why does it happen?
 
-http://programe.ise.ro/Portals/1/Curriculum/Progr_Pre/TT/Curriculum%20pentru%20invatamantul %20prescolar%203%20%E2%80%93%206-7%20ani.pdf
+http://programe.ise.ro/Portals/1/Curriculum/Progr_Pre/TT/Curriculum%20pentru%20invatamantul%20prescolar%203%20%E2%80%93%206-7%20ani.pdf
 
 ##### 1. GCED as a standalone topic in specific subjects :
 
@@ -348,11 +314,11 @@ http://programe.ise.ro/Portals/1/Curriculum/Progr_Pre/TT/Curriculum%20pentru%20i
 
 - o 3 rd grade - 3 topics: Our relations with things/ animals and plants /the others ;
 
-- o 4 th grade -1 topic: Universal children's rights (available herehttp://programe.ise.ro/Portals/1/Curriculum/2014-12/25Educatie%20civica_clasele%20a%20III-a%20-%20a%20IV-a.pdf);
+- o 4 th grade -1 topic: Universal children's rights (available herehttp://programe.ise.ro/Portals/1/Curriculum/2014-12/25-Educatie%20civica_clasele%20a%20III-a%20-%20a%20IV-a.pdf);
 
 - Civic  education for  lower secondary  education:  7 th grade  -  1  topic Life  in  society (the curriculum was used until 2018 and in 2020 their were replaced, the curriculum is available here:
 
-http://programe.ise.ro/Portals/1/Curriculum/Progr_Gim/OS/Cultura%20civica_clasele%20a %20VII-a%20-%20a%20VIII-a.pdf);
+http://programe.ise.ro/Portals/1/Curriculum/Progr_Gim/OS/Cultura%20civica_clasele%20a%20VII-a%20-%20a%20VIII-a.pdf);
 
 - Social education , lower secondary level (available here: http://programe.ise.ro/Portals/1/Curriculum/2017-progr/28-Educatie%20sociala.pdf):
 
@@ -372,39 +338,31 @@ http://programe.ise.ro/Portals/1/Curriculum/Progr_Gim/OS/Cultura%20civica_clasel
 
 - History (mandatory subject, part of the common core):
 
-- o Primary level, 4 th  grade - general competencies: Forming a positive image about self and  the  others (available  here:  http://programe.ise.ro/Portals/1/Curriculum/201412/23-Istorie_clasa%20a%20IV-a.pdf);
+- o Primary level, 4 th grade - general competencies: Forming a positive image about self and the others (available here: http://programe.ise.ro/Portals/1/Curriculum/2014-12/23-Istorie_clasa%20a%20IV-a.pdf);
 
 - o Lower secondary level, 5 th - 8 th   grades - general competencies: Manifesting civic behaviour  through  the  use  of  historical  experience  and  socio-cultural  diversity . Relevant  topics: Illuminism  -  reason,  rights,  people's  involvement  in  public  life ; Public  opinion  in  the  18 th century;  Woman  in  public  life;  Citizen  and  state  in democracy and totalitarism; The world between the 2 World Wars: Daily life - city organisation,  rural  world,  inventions  and  domestic  life,  entertainment,  people's health,  culture;  The  post-war  world:  Daily  life  -  from  war's  drama  to  prosperity; Contemporary world: a multipolar world - globalization; new cultural diversity and infromatonal revolution (available here: http://programe.ise.ro/Portals/1/Curriculum/2017-progr/29-Istorie.pdf);
 
-- o Upper secondary level, 9 th - 10 th  grades - general competencies: Developing civic behaviour through the exercise of social abilities; Forming a positive image about self and the others . Relevant topics: Society at the beginning of the 3 rd millennium: globalisation, terrorism, daily life; The post-war world: human rights, minorities, the role of civil society; Religion in the contemporary world; The big conflicts of the 20 th century; The post-war international relations (available here: http://programe.ise.ro/Portals/1/Curriculum/Progr_Lic/OS/Istorie_clasa%20a%20IXa.pdf; http://programe.ise.ro/Portals/1/Curriculum/Progr_Lic/OS/Istorie_clasa%20a%20Xa.pdf);
+- o Upper secondary level, 9 th - 10 th grades - general competencies: Developing civic behaviour through the exercise of social abilities; Forming a positive image about self and the others. Relevant topics: Society at the beginning of the 3 rd millennium: globalisation, terrorism, daily life; The post-war world: human rights, minorities, the role of civil society; Religion in the contemporary world; The big conflicts of the 20 th century; The post-war international relations (available here: http://programe.ise.ro/Portals/1/Curriculum/Progr_Lic/OS/Istorie_clasa%20a%20IX-a.pdf; http://programe.ise.ro/Portals/1/Curriculum/Progr_Lic/OS/Istorie_clasa%20a%20X-a.pdf);
 
 - o Upper secondary level, 11 th  - 12 th   grades: general competencies: Excersicing the civic  and  democratic  approaches  and  actions. Relevant  topics: Cooperation  and conflict: institutions, mechanisms and policies to solve conflicts in the contemporary world ; Economy and society in the post-war world: occupations and professional status; Migrants in contemporary world; Private life and public life; Economic theories and ideas: driven economy and liberal economy. (available at: http://programe.ise.ro/Portals/1/Curriculum/Progr_Lic/OS/Istorie_clasa%20a%20XI-a_a%20XII-a.pdf).
 
 - The  curriculum  for mother  tongue and modern  languages in  primary  and  secondary education  take  into  account  the  model  of  communication  skills,  which  also  integrates sociocultural and intercultural components, in the context of cultural diversity as promoted by GCED. At the lower secondary level, in order to form intercultural behaviors and develop the interest for students' cultural diversity, both the curriculum for Romanian language and literature and those for Mother tongue and literature (14 national minorities) explicitly provide a general competence that aims to show interest in cultural diversity; intercultural behaviors; expressing one's own linguistic and cultural identity in a national and international context. The specifc subjects where elements of GCED are addressed are: Modern languages such as Language 1 or Language 2 (French, English, German, Italian, Turkish, Spanish, Chinese, Russian, Japanese); Communication in Romanian for schools and sections with teaching in the  language  of  national  minorities ; Romanian  language  and  literature  for  schools  and sections with teaching in the language of national minorities ; Communication in Romanian ; Romanian Language and Literature ; Mother tongue and literature (curriculum available here: http://programe.ise.ro/Actuale/Programeinvigoare.aspx).
 
-- Personal  development ,  primary  level,  preparatory  grade,  1 st and  2 nd grade,  proposed topics: Me and others, Diversity (about individual differences); interactions with beings and objects in familiar situations (curriculum available here: http://programe.ise.ro/Portals/1/2013_CP_I_II/55_Dezvoltare%20personala_CP_II_OMEN. pdf);
+- Personal development, primary level, preparatory grade, 1 st and 2 nd grade, proposed topics: Me and others, Diversity (about individual differences); interactions with beings and objects in familiar situations (curriculum available here: http://programe.ise.ro/Portals/1/2013_CP_I_II/55_Dezvoltare%20personala_CP_II_OMEN.pdf);
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
 
-- Counseling and personal development , lower secondary level, 5 th  grade: Self-knowledge and  healthy and  balanced  lifestyle; Lifestyle quality; Self-knowledge  and  personal development (curriculum available here: http://programe.ise.ro/Portals/1/Curriculum/2017progr/118-Consiliere%20si%20dezvoltare%20personala.pdf);
+- Counseling and personal development, lower secondary level, 5 th grade: Self-knowledge and healthy and balanced lifestyle; Lifestyle quality; Self-knowledge and personal development (curriculum available here: http://programe.ise.ro/Portals/1/Curriculum/2017-progr/118-Consiliere%20si%20dezvoltare%20personala.pdf);
 
-- Education for society (optional subject), primary level, grades 0 - 2: focuses on civic and moral behaviors versus behaviors lacking civic and moral values, as well as membership groups (curriculum available here: http://programe.ise.ro/Portals/1/Curriculum/Progr_Aug/Educatie%20pentru%20societate-p-
+- Education for society (optional subject), primary level, grades 0 - 2: focuses on civic and moral behaviors versus behaviors lacking civic and moral values, as well as membership groups (curriculum available here: http://programe.ise.ro/Portals/1/Curriculum/Progr_Aug/Educatie%20pentru%20societate-p-1-2.pdf);
 
-1-2.pdf);
+- Ready for life (optional subject), primary level, grades 0 - 2: includes topics such as: People's responsibility towards nature; Norms of behavior in current life contexts (family, school); Care for the environment - importance and ways of manifestation, Nature - a whole of interdependent parts. Hypostases of the natural and social environment; Emotions (Frustration and Self-Control, Compassion, Empathy, Caring for others etc.), Gender stereotypes, Rights and respect for difference, Famous women and men in history, culture, other fields, examples from everyday life, Diversity. Unity in diversity, Respect for each person's potential, Accepting the other: managing one's own and others' mistakes, appreciating the success of others, Authority and initiative (curriculum available here: http://programe.ise.ro/Portals/1/Curriculum/2018-progr/PRIM/Pregatiti%20pentru%20viata_Clasele%200-IV_opt.pdf);
 
-- Ready for  life (optional  subject),  primary  level,  grades  0  -  2:  includes  topics  such  as: People's responsibility towards nature; Norms of behavior in current life contexts (family, school); Care for the environment - importance and ways of manifestation, Nature - a whole of  interdependent  parts.  Hypostases  of  the  natural  and  social  environment;  Emotions (Frustration  and  Self-Control,  Compassion,  Empathy,  Caring  for  others  etc.),  Gender stereotypes, Rights and respect for difference, Famous women and men in history, culture, other  fields,  examples  from  everyday  life,  Diversity.  Unity  in  diversity,  Respect  for  each person's  potential,  Accepting  the  other:  managing  one's  own  and  others'  mistakes, appreciating  the  success  of  others,  Authority  and  initiative  (curriculum  available  here: http://programe.ise.ro/Portals/1/Curriculum/2018-
+- Health education (optional subject), primary and secondary levels, include topics related social relations (gender differences), my rights and those of colleagues; (curriculum available here: http://programe.ise.ro/Portals/1/Curriculum/Progr_Pri/CD/Educatie%20pentru%20sanatate_clasele%20I%20-%20a%20XII-a.pdf);
 
-progr/PRIM/Pregatiti%20pentru%20viata_Clasele%200-IV_opt.pdf);
-
-- Health education (optional subject), primary and secondary levels, include topics related social  relations  (gender  differences),  my  rights  and  those  of  colleagues;  (curriculum
-
-- available here: http://programe.ise.ro/Portals/1/Curriculum/Progr_Pri/CD/Educatie%20pentru%20sanatate _clasele%20I%20-%20a%20XII-a.pdf);
-
-- Migration in the contemporary world (optional subject), upper secondary level, focuses on  specific  skills  related  to  GCED,  such  as:  Advancing  views  on  the  causes  that  have determined  contemporary  migration;  Anticipating  the  evolution  of  migrations  in  the  21 st century; Investigating the way in which the Romanian society reacts to the challenges of migration; Formulation of coherent and reasoned opinions about the values (material and cultural) that migrants bring from their countries of origin. Relevant topics addressed: Types of  migrations;  Migrations  and  country  of  origin;  Migrations  and  destination  country. (curriculum available here:
-
-http://programe.ise.ro/Portals/1/Curriculum/Progr_Lic/CD/OS/Migratii%20contemporanesecolele%20XX%20si%20XXI_clasele%20a%20XI-a_%20a%20XII-a.pdf).
+- Migration in the contemporary world (optional subject), upper secondary level, focuses on specific skills related to GCED, such as: Advancing views on the causes that have determined contemporary migration; Anticipating the evolution of migrations in the 21 st century; Investigating the way in which the Romanian society reacts to the challenges of migration; Formulation of coherent and reasoned opinions about the values (material and cultural) that migrants bring from their countries of origin. Relevant topics addressed: Types of migrations; Migrations and country of origin; Migrations and destination country. (curriculum available here: http://programe.ise.ro/Portals/1/Curriculum/Progr_Lic/CD/OS/Migratii%20contemporane-secolele%20XX%20si%20XXI_clasele%20a%20XI-a_%20a%20XII-a.pdf).
 
 ##### ESD included in school curriculum for subjects through skills and knowledge taught or attitudes and behaviours instilled:
 
@@ -414,41 +372,29 @@ http://programe.ise.ro/Portals/1/Curriculum/Progr_Lic/CD/OS/Migratii%20contempor
 
 http://programe.ise.ro/Portals/1/Curriculum/2017-progr/27-Biologie.pdf);
 
-- o
+- o Upper secondary level: 9 th grade, the topic of Genetic engineering and biotechnology (curriculum available here: http://programe.ise.ro/Portals/1/Curriculum/Progr_Lic/MS/Biologie_clasa%20a%20IX-a.pdf); 10 th grade, the topic of Ecological imbalances: causes, effects, measures (curriculum available here: http://programe.ise.ro/Portals/1/Curriculum/Progr_Lic/MS/Biologie_clasa%20a%20X-a.pdf);
 
-- Upper secondary level: 9 th grade, the topic of Genetic engineering and biotechnology (curriculum available here: http://programe.ise.ro/Portals/1/Curriculum/Progr_Lic/MS/Biologie_clasa%20a%20I X-a.pdf); 10 th grade, the topic of Ecological imbalances: causes, effects, measures (curriculum available here: http://programe.ise.ro/Portals/1/Curriculum/Progr_Lic/MS/Biologie_clasa%20a%20 X-a.pdf);
-
-- o Vocational education and training: 9 th grade the topic of Biodiversity conservation in Romania: protected species, nature reserves, national parks (curriculum available here: http://programe.ise.ro/Portals/1/Curriculum/2014progr/profesionala/MS/Biologie_clasa%20a%20IX-a.pdf).
+- o Vocational education and training: 9 th grade the topic of Biodiversity conservation in Romania: protected species, nature reserves, national parks (curriculum available here: http://programe.ise.ro/Portals/1/Curriculum/2014-progr/profesionala/MS/Biologie_clasa%20a%20IX-a.pdf).
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
 
-- Geography (mandatory subject), taught at primary and secondary levels, for example in and human society, Geography of human settlements; Economic geography - resources (curriculum available here: http://programe.ise.ro/Portals/1/Curriculum/2014-12/24-
-
-upper secondary levels, grades 9-10, it addresses topics such as: environment, landscape Geografie%20-%20clasa%20a%20IV-a.pdf; http://programe.ise.ro/Portals/1/Curriculum/Progr_Gim/OS/Geografie_clasele%20a%20Va%20-%20a%20VIII-a.pdf; http://programe.ise.ro/Portals/1/Curriculum/Progr_Lic/OS/Geografie_clasa%20a%20IXa.pdf;
-
-http://programe.ise.ro/Portals/1/Curriculum/Progr_Lic/OS/Geografie_clasa%20a%20Xa.pdf);
+- Geography (mandatory subject), taught at primary and secondary levels, for example in upper secondary levels, grades 9-10, it addresses topics such as: environment, landscape and human society, Geography of human settlements; Economic geography - resources (curriculum available here: http://programe.ise.ro/Portals/1/Curriculum/2014-12/24-Geografie%20-%20clasa%20a%20IV-a.pdf; http://programe.ise.ro/Portals/1/Curriculum/Progr_Gim/OS/Geografie_clasele%20a%20V-a%20-%20a%20VIII-a.pdf; http://programe.ise.ro/Portals/1/Curriculum/Progr_Lic/OS/Geografie_clasa%20a%20IX-a.pdf; http://programe.ise.ro/Portals/1/Curriculum/Progr_Lic/OS/Geografie_clasa%20a%20X-a.pdf);
 
 - Technological education and practical applications (mandatory subject), lower secondary level, focuses on topics such as: Applied technologies in agriculture, gastronomy; Quality, economy and entrepreneurship, Quality of food products (organoleptic properties, nutritional value,  energy  and  aesthetics)  and  food services;  Consumer  protection  -  Hygiene  rules  in animal husbandry and food preparation. Promotion and capitalization of vegetable, animal, food production; Sustainable development (healthy lifestyle, clean environment, influence on the individual / society) (curriculum available here: http://programe.ise.ro/Portals/1/Curriculum/2017-progr/116-
 
 Educatie%20tehnologica%20si%20aplicatii%20%20practice.pdf);
 
-- Ecological education and environmental protection (optional subject), primary and lower secondary education, with themes of sustainable development (curriculum available here: http://programe.ise.ro/Portals/1/Curriculum/Progr_Pri/CD/Educatie%20ecologica%20si%20 de%20protectie % 20% 20mediului_% 20prescolar_primar_gimnazial.pdf);
+- Ecological education and environmental protection (optional subject), primary and lower secondary education, with themes of sustainable development (curriculum available here: http://programe.ise.ro/Portals/1/Curriculum/Progr_Pri/CD/Educatie%20ecologica%20si%20de%20protectie%20a%20mediului_%20prescolar_primar_gimnazial.pdf);
 
-- Intercultural education (part of the curriculum decided at the level school), upper secondary level,  includes  topics  such  as:  Social  diversity  and  the  culture  of  diversity,  Education  for interculturality: Let's learn to live together, The intercultural educational project (curriculum available here:
+- Intercultural education (part of the curriculum decided at the level school), upper secondary level, includes topics such as: Social diversity and the culture of diversity, Education for interculturality: Let's learn to live together, The intercultural educational project (curriculum available here: http://programe.ise.ro/Portals/1/Curriculum/Progr_Lic/CD/OS/education%20interculturala_CDS_%20programa%20liceu.pdf);
 
-http://programe.ise.ro/Portals/1/Curriculum/Progr_Lic/CD/OS/education%20interculturala_C DS_%20programa%20liceu.pdf);
+- Education for democracy (part of the curriculum decided at the level school), upper secondary level, includes topics such as: I, the citizen, Democracy in school, School-community partnership, legal education, Institutions at the service of the citizen (curriculum available here: http://programe.ise.ro/Portals/1/Curriculum/Progr_Lic/CD/OS/Education%20pentru%20democratie_CDS_programa%20liceu.pdf);
 
-- Education  for  democracy (part  of  the  curriculum  decided  at  the  level  school),  upper secondary  level,  includes  topics  such  as:  I,  the  citizen,  Democracy  in  school,  Schoolcommunity partnership, legal education, Institutions at the service of the citizen (curriculum available here:
+- EU institutions (part of the curriculum decided at the level school), upper secondary level, includes topics such as: EU constitution, EU institutions, history and their role (curriculum avilable here: http://programe.ise.ro/Portals/1/Curriculum/Progr_Lic/CD/OS/Institutiile%20Uniunii%20Europene_CDS_programa%20liceu.pdf);
 
-http://programe.ise.ro/Portals/1/Curriculum/Progr_Lic/CD/OS/Education%20pentru%20dem ocratie_CDS_programa%20liceu.pdf);
-
-- EU institutions (part of the curriculum decided at the level school), upper secondary level, includes topics such as: EU constitution, EU institutions, history and their role (curriculum avilable here: http://programe.ise.ro/Portals/1/Curriculum/Progr_Lic/CD/OS/Institutiile%20Uniunii%20Euro
-
-pene_CDS_programa%20liceu.pdf);
-
-- Education  for  Development (part  of  the  curriculum  decided  at  the  level  school),  upper secondary level, includes:: Globalization and its Problems, Global Citizenship and Sustainable Development, Human Rights, Social Justice and Tolerance, Environment and Sustainable  Development,  Global  Partnership  for  Development,  Educational  Project  for Development (curriculum available here: http://programe.ise.com/Portals/1/curriculum/2015/high/CDS/OS/Education%20pentru%20d ezvoltare_liceu.pdf);
+- Education for Development (part of the curriculum decided at the level school), upper secondary level, includes:: Globalization and its Problems, Global Citizenship and Sustainable Development, Human Rights, Social Justice and Tolerance, Environment and Sustainable Development, Global Partnership for Development, Educational Project for Development (curriculum available here: http://programe.ise.com/Portals/1/curriculum/2015/high/CDS/OS/Education%20pentru%20dezvoltare_liceu.pdf);
 
 GCED  and  ESD  are  mainstreamed  in  the  educational  process  through 'Second  Chance' program ,  which addresses adolescents, youth, adults coming from diverse social environments and of different ages, who did not enrol or complete primary and lower secondary education. The program  offers  the  possibility  of  continuing  and  completing  mandatory  education  for  these categories of persons, without determining them to quit or interrupt their professional or familial activities. The subjects taught in this program are the same ones taught regular school and GCED and ESD are included in specific subjects as mentioned above.
 
@@ -495,7 +441,9 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 
 #### *B3 Please indicate in which subjects or fields of study GCED and ESD are taught in primary and secondary education by entering the appropriate number in each white cell.
 
-Cultural diversity and tolerance | Gender equality | Human rights | Peace and non- violence | Climate change | Environmental sustainability | Human survival and well- being | Sustainable consumption and production
+KEY: 0 = no, 1 = yes, 9 = unknown
+
+ | Cultural diversity and tolerance | Gender equality | Human rights | Peace and non-violence | Climate change | Environmental sustainability | Human survival and well-being | Sustainable consumption and production
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Arts | 1 | 1 | 1 | 1 | 0 | 0 | 1 | 0
 Civics, civil or citizenship education | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
@@ -509,9 +457,7 @@ Religious education | 1 | 0 | 1 | 1 | 0 | 1 | 1 | 1
 Science | 0 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Social studies | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Integrated studies | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
-Other (please specify)
-
-KEY: 0 = no, 1 = yes, 9 = unknown
+Other (please specify) |  |  |  |  |  |  |  | 
 
 [[END OF PAGE 21]]
 
@@ -543,7 +489,7 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 
 [[START OF PAGE 23]]
 
-### Teacher education (including the training of trainers and educators) (paras 4 and 33-37 of the 1974 Recommendation )
+### C. Teacher education (including the training of trainers and educators) (paras 4 and 33-37 of the 1974 Recommendation)
 
 #### C1a. Please  describe  in  which  ways  GCED  and  ESD  are  mainstreamed  in  initial  training  and  in continuing professional development of teachers, trainers and educators. Indicate whether all teachers, trainers and educators or only some are required to receive training to teach GCED and/or ESD.
 
@@ -561,11 +507,11 @@ In  Romania continuous training for teachers is mandatory. Trainings are offered
 
 #### C1b. Please provide examples of teacher training policies or curriculum in which GCED and/or ESD are mainstreamed and, where possible, web links to relevant documents. If possible, include examples related to initial training and to continuing professional development.
 
-For example, the study programme for training history teachers through retraining (distance learning) includes the optional subject Teaching history and civic education ,  studied in the 3 rd semester. The topic of this subject addresses civic education and GCED at large, through themes such  as: History  and  civc  education  -  conceptual  framework;  History  and  civic  education  attitudes perspective; History and civic education -contemporary topics (democratic competencies and values; emigration and immigration; events, trends and agents of change in contemporary  world). The  activities  and  competencies  developed  through  this  subject  aim  at providing  the  future  teachers  with  the  necessary  knowledge,  skills,  behaviours,  attidudes  and values in order to promote GCED among students. The study programme can be accessed here: http://hiphi.ubbcluj.ro/studii/Public/File/cursuri/suporturi_conversie/Predarea-istoriei.pdf.
+For example, the study programme for training history teachers through retraining (distance learning) includes the optional subject Teaching history and civic education, studied in the 3 rd semester. The topic of this subject addresses civic education and GCED at large, through themes such as: History and civc education – conceptual framework; History and civic education – attitudes perspective; History and civic education – contemporary topics (democratic competencies and values; emigration and immigration; events, trends and agents of change in contemporary world). The activities and competencies developed through this subject aim at providing the future teachers with the necessary knowledge, skills, behaviours, attidudes and values in order to promote GCED among students. The study programme can be accessed here: http://hiphi.ubbcluj.ro/studii/Public/File/cursuri/suporturi_conversie/Predarea-istoriei.pdf.
 
-Another example of continual training programme is the course offered by the House of Teaching Staff  Bucharest  on  the  topic  of School  inclusion  management ,  which  aims  at  developing transversal skills of teachers in order to prevent exclusion in schools through innovative teaching methods, designing intervention strategies, the use of information technologies etc. The study programme can be accessed here: http://ccd-bucuresti.org/images/PDF/Cursuri/20192020/ACR2019/FISA-IDENTITATE-MIS-ID-20200713.pdf.
+Another example of continual training programme is the course offered by the House of Teaching Staff Bucharest on the topic of School inclusion management, which aims at developing transversal skills of teachers in order to prevent exclusion in schools through innovative teaching methods, designing intervention strategies, the use of information technologies etc. The study programme can be accessed here: http://ccd-bucuresti.org/images/PDF/Cursuri/2019-2020/ACR2019/FISA-IDENTITATE-MIS-ID-20200713.pdf.
 
-For  professional  continuing    development,  we  add  mention  the  online  course  on Global Education - The Citizenship Dimension organized by the North-South Center of the Council of Europe, in collaboration with The Network University, 2019 (https://www.erasmusplus.ro/termeneurodesk/vrs/IDed/54), where Romanian teachers could take part.
+For professional continuing development, we add mention the online course on Global Education - The Citizenship Dimension organized by the North-South Center of the Council of Europe, in collaboration with The Network University, 2019 (https://www.erasmusplus.ro/termen-eurodesk/vrs/IDed/54), where Romanian teachers could take part.
 
 Noteworthy in terms of mainstreaming GCED and ESD in teacher training is the Project Relevant curriculum, open education for all (CRED), an ambitious project launched by the MoER in late 2017 and implemented until 2021. The general project's objective is to prevent the early school leaving by means of systemic measures targeting the innovative and sustainable implementation of the new curriculum, which covers as discussed above the elements pertaining to GCED and ESD. It is to be noted that an important part of the Project is devoted to the training of 55,000 teachers from primary and lower secondary education in order to prepare them to successfully implement the new curricula.
 
@@ -742,7 +688,7 @@ Sub-national
 
 Initial vocational education and training provided in pre-university national education system is developed according the provisions of the Law of National Education and subsequent legislation mentioned in A1b paragraph.
 
-Vocational education and training include several options. One option is to follow the vocational education paths as part of upper secondary education, which begins after completing the lower secondary education (eighth grade) and lasts for a minimum of three years. Another option is to take apprenticeship training courses (720 hours) after the tenth grade of highschools (second year of the upper secondary education), the completion of which is mandatory in Romania. Postsecondary  education  is  also  available  for  professional  development  and  is  provided  in highschools, colleges  and  foremen  schools  for one  to three years,  depending  on  the specialization.
+Vocational education and training include several options. One option is to follow the vocational education paths as part of upper secondary education, which begins after completing the lower secondary education (eighth grade) and lasts for a minimum of three years. Another option is to take apprenticeship training courses (720 hours) after the tenth grade of highschools (second year of the upper secondary education), the completion of which is mandatory in Romania. Post-secondary  education  is  also  available  for  professional  development  and  is  provided  in highschools, colleges  and  foremen  schools  for one  to three years,  depending  on  the specialization.
 
 As  part  of  the  technical  vocational  education  path  of  the  upper  secondary  education, ESD elements are addressed specifically through the natural resources and environmental protection education programmes aim to develop competences in agriculture, silviculture, environmental protection and food industry, and include specialities such as environmental and environmental protection technician, hydrometeorology technician, forestry and logging technician and organic farming technician. The curriculum for grade 9  of the 4-year vocational education and training in environmental protection, adopted in 2016, consists of five modules with a total of 414 hours per year, of which 324 hours theoretical (216), technological laboratory (36) and practical training (72), and 90 hours of apprenticeship.  Grade 10 studies consist of 5 modules (440 hours), including on environmental  legislation.  Grade  11  has  seven  modules  (513  hours)  and  grade  12  has  eight modules (428 hours), including on waste management and air, soil and water quality monitoring and control.
 
@@ -770,21 +716,21 @@ Integrating the 3D laboratories in the process of continuous professional develo
 
 ### G. Adult education (para 30 of the 1974 Recommendation )
 
-#### G1 Please describe any major initiatives that have been undertaken to promote GCED and/or ESD in adult education and other forms of non-formal education including youth education, out-ofschool education, etc. Describe briefly the outcomes and impact of such initiatives and provide examples of good practices.
+#### G1 Please describe any major initiatives that have been undertaken to promote GCED and/or ESD in adult education and other forms of non-formal education including youth education, out-of-school education, etc. Describe briefly the outcomes and impact of such initiatives and provide examples of good practices.
 
 - Adult education and youth projects (mobility, strategic partnerships and structure dialogue) are  priority  areas  funded  under  the Erasmus+ programme and  some  of  the  projects address broadly topics pertaining to GCED and ESD. Among the eligible projects financed between 2017-2020 for adult education, we mention: 'Let's warm-up the climate for social inclusion', 'Improving disadvantaged adults' career - inclusion for all', 'New approaches and skills for increasing social inclusion' etc. Types of eligible activities include: activities that promote the active participation of young people through their interaction with decision makers, activities  that  prioritize  promoting  the  inclusion  and  professional  integration  of disadvantaged young people, activities that promote improving knowledge among young people seeking recognition and validation of non-formal learning at local, regional, national and European level, participation in non-formal education programs (youth exchanges), etc.  (The  lists  of  eligible  projects  financed  under  the  'Adult  education'  priority  of  the Erasmus+ programme in Romania can be found here: https://www.erasmusplus.ro/rezultate-selectie).
 
 - Environmental  education  projects ,  for  example:  ' Great  National  Environmental Volunteering for  Schoolchildren ',  which  was  funded  by  the  'No  PLANet  B'  project, carried out by the Call Service Association within an international partnership co-financed by  the  European  Union  through  the  DEAR  program.  The  national  environmental competition included 10 predefined environmental actions (greening, planting, recycling, non-formal environmental education sessions, etc.). During the 18 months of implementation,  the  project  targeted  42,000  pupils  from  105  school  units  across  22 counties.  The  participants  implemented  6,858  activities  of  education  and  environment protection and 17 of the schools received prizes for their results, while 21 schools were awarded the 'Eco School' label in recognition of their efforts to reduce their environmental impact.
 
-- Projects  to  support inclusive education ,  for  example: " EduForm - Quality inclusive EDUcation  through  continuous  professional  training "  (budget  of  over  6.5  million euros), carried out by the Association "Spiru Haret National Society for Education Science and Culture", during 2018-2020, co-financed by the EU. The project aims to develop a partnership in order to implement a series of activities to enhance the professional and transversal  skills  of  teachers  and  school  managers  in  Ialomiţa  and  Caraş -Severin counties, which come from 23 disadvantaged schools, with mass or special education.
+- Projects  to  support inclusive education ,  for  example: " EduForm - Quality inclusive EDUcation  through  continuous  professional  training "  (budget  of  over  6.5  million euros), carried out by the Association "Spiru Haret National Society for Education Science and Culture", during 2018-2020, co-financed by the EU. The project aims to develop a partnership in order to implement a series of activities to enhance the professional and transversal  skills  of  teachers  and  school  managers  in  Ialomiţa  and  Caraş-Severin counties, which come from 23 disadvantaged schools, with mass or special education.
 
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
 
-- Programmes  and  projects  promoting active  citizenship  with  a  whole  community approach , for example ' Project Citizen ', designed by the American organization Center for Civic Education and implemented in Romania by Timișoara Intercultural Institute. The programme was developed in the early 2000s, but starting from 2017 it became a strategic partnership with the Romanian-American Foundation, aiming at supporting teachers in applying  the  principles  and  instruments  included  in  the  Council  of  Europe  Reference Framework of Competences for Democratic Culture (2016) and the Council of the EU Recommendation on Common values, Inclusive Education, and the European Dimension of  Teaching  (2018).  In  2017,  based  on  an  assessment  of  the  previous  stages  of implementation,  the  programme  underwent  a  revision  in  terms  of  methodology  and working tools (including online platform, student manual and teacher guide, as well as support materials).  So far, face-to-face training courses have been organized in Bucharest (for  teachers from Bucharest and Ilfov County) and i n Caraş -Severin, Cluj, Constanta, Ga lați, Hunedoara, Iaşi, Braşov, Timiş (for teachers from Timiş and Arad) and Suceava counties. An online course is available for teachers from other counties every year. Details about the Programme Project Citizen are available here: https://cetateanul.intercultural.ro/despre-program/.
+- Programmes  and  projects  promoting active  citizenship  with  a  whole  community approach , for example ' Project Citizen ', designed by the American organization Center for Civic Education and implemented in Romania by Timișoara Intercultural Institute. The programme was developed in the early 2000s, but starting from 2017 it became a strategic partnership with the Romanian-American Foundation, aiming at supporting teachers in applying  the  principles  and  instruments  included  in  the  Council  of  Europe  Reference Framework of Competences for Democratic Culture (2016) and the Council of the EU Recommendation on Common values, Inclusive Education, and the European Dimension of  Teaching  (2018).  In  2017,  based  on  an  assessment  of  the  previous  stages  of implementation,  the  programme  underwent  a  revision  in  terms  of  methodology  and working tools (including online platform, student manual and teacher guide, as well as support materials).  So far, face-to-face training courses have been organized in Bucharest (for  teachers from Bucharest and Ilfov County) and in Caraş-Severin, Cluj, Constanta, Galați, Hunedoara, Iaşi, Braşov, Timiş (for teachers from Timiş and Arad) and Suceava counties. An online course is available for teachers from other counties every year. Details about the Programme Project Citizen are available here: https://cetateanul.intercultural.ro/despre-program/.
 
-- Additionally, GCED and ESD topics are addressed through broad initiatives of civic and private environmental education  and intervention, such as: ecology news  portal https://www.ecomagazin.ro/, private funding for environmental projects, for example: Lidl Romania, http://www.romaniapozitiva.ro/romania-pozitiva/770-000-euro-in-projete-deeducatie-si-medi/, OMV 'Țara lui Andrei' funding programme https://www.taraluiandrei.ro/idei-din-tla etc. Moreover, non-reimbursable funding for NGOs  promoting  non-formal  education  initiatives  are  available  through  EEA  and Norwegian grants, for projects promoting active citizenship: https://www.eeagrants.ro/programe/cetatenie-activa/descriere-cetatenie-activa or environmental protection: https://www.eeagrants.ro/programe/mediu/descriere-mediu.
+- Additionally, GCED and ESD topics are addressed through broad initiatives of civic and private environmental education  and intervention, such as: ecology news  portal https://www.ecomagazin.ro/, private funding for environmental projects, for example: Lidl Romania, http://www.romaniapozitiva.ro/romania-pozitiva/770-000-euro-in-projete-de-educatie-si-medi/, OMV 'Țara lui Andrei' funding programme https://www.taraluiandrei.ro/idei-din-tla etc. Moreover, non-reimbursable funding for NGOs  promoting  non-formal  education  initiatives  are  available  through  EEA  and Norwegian grants, for projects promoting active citizenship: https://www.eeagrants.ro/programe/cetatenie-activa/descriere-cetatenie-activa or environmental protection: https://www.eeagrants.ro/programe/mediu/descriere-mediu.
 
 ### H. Research and International Co-operation (paras 41-45 of the 1974 Recommendation )
 
@@ -841,7 +787,7 @@ Other activities (please specify):
 
 The  Covid-19  pandemic  raised  significant  challenges  in  terms  of  ensuring  the  continuity  and quality access to education. However, the broad strategy adopted by the Romanian Government and by the Ministry of Education and Research in particular to mitigate the effects of the crisis highlighted the benefits of international cooperation and understanding, thus actively promoting GCED and ESD through the specific activities implemented.
 
-For example, in order to limit the negative impact on the education system with regard to the difficult access to educational resources, the MoER launched, shortly after the suspension of faceto-face cour ses, the 'TeleȘ coala' ( TeleSchool ) program -an educational programme implemented in partnership with the Romanian Public Television (TVR), broadcasting lessons for terminal pupils in order to prepare them for the national exams. 'Tele Ș coala' continues in the current school year.
+For example, in order to limit the negative impact on the education system with regard to the difficult access to educational resources, the MoER launched, shortly after the suspension of face-to-face courses, the “TeleȘcoala” (TeleSchool) program – an educational programme implemented in partnership with the Romanian Public Television (TVR), broadcasting lessons for terminal pupils in order to prepare them for the national exams. “TeleȘcoala” continues in the current school year.
 
 Through  the  implementation  of  the  National  Programme  Home  School,  electronic  devices connected to the internet have been purchased in view of facilitating distance learning activities for pupils from disadvantaged backgrounds.
 
