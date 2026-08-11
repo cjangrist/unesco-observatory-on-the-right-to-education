@@ -6,19 +6,19 @@
 
 ### A. Sobre la Recomendación de 1974
 
-- La Recomendación de 1974 de la UNESCO sobre la Educación para la Comprensión, la Cooperación y la Paz Internacionales y la Educación relativa a los Derechos Humanos y las Libertades Fundamentales 1  (la 'Recomendación de 1974') tiene por objetivo promover la educación  internacional  y  la  paz  mundial  mediante  la  comprensión,  la  solidaridad  y  la cooperación. Fue aprobada el 19 de noviembre de 1974 por la Conferencia General de la UNESCO en su 18ª reunión.
+1. La Recomendación de 1974 de la UNESCO sobre la Educación para la Comprensión, la Cooperación y la Paz Internacionales y la Educación relativa a los Derechos Humanos y las Libertades Fundamentales1 (la “Recomendación de 1974”) tiene por objetivo promover la educación internacional y la paz mundial mediante la comprensión, la solidaridad y la cooperación. Fue aprobada el 19 de noviembre de 1974 por la Conferencia General de la UNESCO en su 18ª reunión.
 
-- La Recomendación de 1974 se aplica a la educación formal, no formal e informal y a todos  los  niveles,  desde  la  educación  preescolar  hasta  la  terciaria  y  a  la  educación  de adultos y al aprendizaje permanente. La Conferencia General recomendó que los Estados Miembros apliquen las disposiciones de la Recomendación de 1974 'adoptando las medidas legislativas o de otra índole' que proporcionen apoyo institucional (por ejemplo, políticas y marcos  jurídicos)  y  pedagógico  (por  ejemplo,  planes  de  estudios,  formación  docente, materiales  educativos,  equipo  y  evaluación  del  estudiantado)  para  su  implementación, basándose  en  los  'objetivos'  mencionados  en  el  párrafo  4  de  la  Recomendación  y considerados  como  'los  principios  rectores  de  la  política  educacional',  a  saber:  una dimensión internacional y una perspectiva global de la educación, la diversidad cultural, la interdependencia, la comunicación, los derechos y deberes, la solidaridad y la cooperación internacionales, y la solución de los problemas.
+2. La Recomendación de 1974 se aplica a la educación formal, no formal e informal y a todos los niveles, desde la educación preescolar hasta la terciaria y a la educación de adultos y al aprendizaje permanente. La Conferencia General recomendó que los Estados Miembros apliquen las disposiciones de la Recomendación de 1974 “adoptando las medidas legislativas o de otra índole” que proporcionen apoyo institucional (por ejemplo, políticas y marcos jurídicos) y pedagógico (por ejemplo, planes de estudios, formación docente, materiales educativos, equipo y evaluación del estudiantado) para su implementación, basándose en los “objetivos” mencionados en el párrafo 4 de la Recomendación y considerados como “los principios rectores de la política educacional”, a saber: una dimensión internacional y una perspectiva global de la educación, la diversidad cultural, la interdependencia, la comunicación, los derechos y deberes, la solidaridad y la cooperación internacionales, y la solución de los problemas.
 
-- Hoy en día, los principios de la Recomendación de 1974 se aplican igualmente bien a la educación para el desarrollo sostenible (EDS) y a la educación para la ciudadanía mundial (ECM) y, por consiguiente, representan un poderoso instrumento para promover la Agenda 2030 para el Desarrollo Sostenible y, en particular, la meta 4.7, relativa a la promoción del desarrollo sostenible y la educación para la ciudadanía mundial mediante la educación, la meta 12.8, relativa al acceso a la información sobre el desarrollo sostenible, y la meta 13.3, relativa a la educación sobre el cambio climático, de los Objetivos de Desarrollo Sostenible (ODS).
+3. Hoy en día, los principios de la Recomendación de 1974 se aplican igualmente bien a la educación para el desarrollo sostenible (EDS) y a la educación para la ciudadanía mundial (ECM) y, por consiguiente, representan un poderoso instrumento para promover la Agenda 2030 para el Desarrollo Sostenible y, en particular, la meta 4.7, relativa a la promoción del desarrollo sostenible y la educación para la ciudadanía mundial mediante la educación, la meta 12.8, relativa al acceso a la información sobre el desarrollo sostenible, y la meta 13.3, relativa a la educación sobre el cambio climático, de los Objetivos de Desarrollo Sostenible (ODS).
 
-- La  Conferencia  General,  en  su  39ª  reunión,  recomendó  utilizar  el  proceso  de presentación  de  informes  en  el  marco  de  la  Recomendación  de  1974  para  apoyar  la implementación  y  el  seguimiento  de  la  meta  4.7  del  ODS  4  (Resolución  39  C/79).  [El Consejo Ejecutivo de la UNESCO, en su 209ª reunión, aprobó la utilización de los principios rectores  vigentes  tanto  para  el  seguimiento  de  la  Recomendación  de  1974  como  para  la recopilación de los datos necesarios para el seguimiento del indicador mundial relativo a los ODS del que se encarga la UNESCO (decisión 209 EX/18.II]:
+4. La Conferencia General, en su 39ª reunión, recomendó utilizar el proceso de presentación de informes en el marco de la Recomendación de 1974 para apoyar la implementación y el seguimiento de la meta 4.7 del ODS 4 (Resolución 39 C/79). [El Consejo Ejecutivo de la UNESCO, en su 209ª reunión, aprobó la utilización de los principios rectores vigentes tanto para el seguimiento de la Recomendación de 1974 como para la recopilación de los datos necesarios para el seguimiento del indicador mundial relativo a los ODS del que se encarga la UNESCO (decisión 209 EX/18.II]:
 
 4.7.1, 12.8.1 y 13.3.1: Grado en que i) la educación para la ciudadanía mundial y ii) la educación para el desarrollo sostenible se incorporan en: a) las políticas nacionales de educación, b) los planes de estudios, c) la formación de docentes y d) la evaluación de los educandos.
 
-- Las  preguntas  marcadas  con  un  asterisco  (*)  se  emplearán  en  el  cálculo  de  los indicadores respectivos (cuadro 1). Según lo aprobado por el Grupo Interinstitucional y de
+5. Las preguntas marcadas con un asterisco (*) se emplearán en el cálculo de los indicadores respectivos (cuadro 1). Según lo aprobado por el Grupo Interinstitucional y de
 
-> 1 http://portal.unesco.org/es/ev.php-URL_ID=13088&URL_DO=DO_TOPIC&URL_ SECTION=201.html.
+> 1 http://portal.unesco.org/es/ev.php-URL_ID=13088&URL_DO=DO_TOPIC&URL_SECTION=201.html.
 
 1
 
@@ -46,7 +46,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 10. Las respuestas a la séptima consulta deberían abarcar:
 
-- el período 2017-2020;
+- i) el período 2017-2020;
 
 - ii) la  educación  en  todos  los  niveles  de  la  educación  formal,  desde  la  preescolar hasta la terciaria, así como la educación no formal;
 
@@ -64,71 +64,71 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 ### Educación para la ciudadanía mundial y educación para el desarrollo sostenible
 
-- Diversidad cultural y tolerancia
+1. Diversidad cultural y tolerancia
 
-- 1.1 Entendimiento internacional o intercultural, solidaridad y cooperación.
+1.1 Entendimiento internacional o intercultural, solidaridad y cooperación.
 
-- 1.2 Diálogo intercultural e interreligioso
+1.2 Diálogo intercultural e interreligioso
 
-- 1.3 Ciudadanía local, nacional o mundial
+1.3 Ciudadanía local, nacional o mundial
 
-- Educación para la igualdad de género
+2. Educación para la igualdad de género
 
-- 2.1 Igualdad de oportunidades basadas en el género
+2.1 Igualdad de oportunidades basadas en el género
 
-- 2.2 Igualdad de género y justicia
+2.2 Igualdad de género y justicia
 
-- 2.3 Roles, identidad y estereotipos de género
+2.3 Roles, identidad y estereotipos de género
 
-- Educación en derechos humanos
+3. Educación en derechos humanos
 
-- 3.1 Igualdad  y  no  discriminación  por  motivos  de  raza,  color,  idioma,  religión, discapacidad,  opinión  política  o  de  otra  índole,  origen  nacional  o  social, nacimiento o cualquier otra condición
+3.1 Igualdad y no discriminación por motivos de raza, color, idioma, religión, discapacidad, opinión política o de otra índole, origen nacional o social, nacimiento o cualquier otra condición
 
-- 3.2 Valores  de  derechos  humanos,  dignidad  humana,  justicia,  inclusión  y participación
+3.2 Valores de derechos humanos, dignidad humana, justicia, inclusión y participación
 
-- 3.3 Respeto  de  los  derechos  humanos  y  las  libertades  fundamentales  (tal como son definidos en las convenciones y declaraciones internacionales)
+3.3 Respeto de los derechos humanos y las libertades fundamentales (tal como son definidos en las convenciones y declaraciones internacionales)
 
-- Paz y no violencia
+4. Paz y no violencia
 
-- 4.1 Relaciones amistosas entre los pueblos y las naciones
+4.1 Relaciones amistosas entre los pueblos y las naciones
 
-- 4.2 Cuestionamiento  a  los  estereotipos  negativos,  promoción  de  soluciones pacíficas,  aprendizaje  para  la  convivencia,  inclusión  y  prevención  del extremismo violento
+4.2 Cuestionamiento a los estereotipos negativos, promoción de soluciones pacíficas, aprendizaje para la convivencia, inclusión y prevención del extremismo violento
 
-- 4.3 Prevención de todas las formas de violencia, como el acoso, la agresión verbal y la violencia de género
+4.3 Prevención de todas las formas de violencia, como el acoso, la agresión verbal y la violencia de género
 
-- Educación sobre el cambio climático
+5. Educación sobre el cambio climático
 
-- 5.1 Mitigación
+5.1 Mitigación
 
-- 5.2 Adaptación
+5.2 Adaptación
 
-- 5.3 Reducción del impacto
+5.3 Reducción del impacto
 
-- 5.4 Alerta temprana
+5.4 Alerta temprana
 
-- Sostenibilidad ambiental
+6. Sostenibilidad ambiental
 
-- 6.1 Cuidado del planeta y protección de la naturaleza
+6.1 Cuidado del planeta y protección de la naturaleza
 
-- 6.2 Justicia ambiental
+6.2 Justicia ambiental
 
-- 6.3 Biodiversidad, agua
+6.3 Biodiversidad, agua
 
-- Supervivencia y bienestar humanos
+7. Supervivencia y bienestar humanos
 
-- 7.1 Salud  ambiental  en  la  medida  en  la  medida  en  que  se  relaciona  con  el bienestar humano y la reducción del riesgo de desastres
+7.1 Salud ambiental en la medida en la medida en que se relaciona con el bienestar humano y la reducción del riesgo de desastres
 
-- 7.2 Salud del planeta para las generaciones venideras
+7.2 Salud del planeta para las generaciones venideras
 
-- 7.3 Ciudades y comunidades sostenibles
+7.3 Ciudades y comunidades sostenibles
 
-- Consumo y producción sostenibles
+8. Consumo y producción sostenibles
 
-- 8.1 Estilos de vida responsables y sostenibles
+8.1 Estilos de vida responsables y sostenibles
 
-- 8.2 Economía verde y empleos verdes
+8.2 Economía verde y empleos verdes
 
-- 8.3 Energía sostenible
+8.3 Energía sostenible
 
 3
 
@@ -289,7 +289,7 @@ Otros (indique cuáles):
 
 ## VI. Cuestionario
 
-### Leyes y políticas (preámbulo y párrafos 4 y 7 de la Recomendación de 1974)
+### A. Leyes y políticas (preámbulo y párrafos 4 y 7 de la Recomendación de 1974)
 
 A1a.  Por favor describa las leyes, legislación o marcos jurídicos nacionales o subnacionales específicos  de  su  país  que  rigen  la  promoción  de  la  educación  para  la  ciudadanía mundial  (ECM)  y  la  educación  para  el  desarrollo  sostenible  (EDS).  Explique  si  los temas de la ECM y la EDS 2  se mencionan de manera explícita o implícita y qué tipos o niveles de educación abarcan.
 
@@ -381,19 +381,19 @@ https://base.socioeco.org/docs/do_ley_general_sobre_medio_ambiente.pdf
 
 #### 4) Ley No. 179-03 sobre Labor Social Estudiantil
 
-https://ambiente.gob.do/transparencia/download/33/leyes/390/ley-no-179-03-queestablece-un-periodo-de-30-horas-en-actividades-de-reforestacion-como-requerimientopara-poder-obtener-el-titulo-de-bachiller-y-o-maestro-normal-o-grados-equivalentes.pdf
+https://ambiente.gob.do/transparencia/download/33/leyes/390/ley-no-179-03-que-establece-un-periodo-de-30-horas-en-actividades-de-reforestacion-como-requerimiento-para-poder-obtener-el-titulo-de-bachiller-y-o-maestro-normal-o-grados-equivalentes.pdf
 
 #### 5) Ley 1-12 Sobre Estrategia Nacional De Desarrollo 2030
 
-https://observatorioplanificacion.cepal.org/es/marcos-regulatorios/ley-no-1-12-deestrategia-nacional-de-desarrollo-2030-de-republica-dominicana
+https://observatorioplanificacion.cepal.org/es/marcos-regulatorios/ley-no-1-12-de-estrategia-nacional-de-desarrollo-2030-de-republica-dominicana
 
 #### 6) Ley General de Educación No. 66-97
 
-https://www.siteal.iiep.unesco.org/bdnp/534/ley-66-97-ley-general educacion#:~:text=Ley%20General%20de%20Educaci%C3%B3n,Tipo%20de%20intervenci%C3%B3n&text=Garantiza%20el%20derecho%20de%20todos,a %20los%20estudios%20que%20imparten
+https://www.siteal.iiep.unesco.org/bdnp/534/ley-66-97-ley-general-educacion#:~:text=Ley%20General%20de%20Educaci%C3%B3n,-Tipo%20de%20intervenci%C3%B3n&text=Garantiza%20el%20derecho%20de%20todos,a%20los%20estudios%20que%20imparten
 
 #### 7) Ley 139-01 de Educación Superior, Ciencia y Tecnología
 
-https://www.mescyt.gob.do/wp-content/uploads/2018/07/3.-LEY-139-01-DE-EDUCACIONSUPERIOR-CIENCIA-Y-TECNOLOGIA.pdf
+https://www.mescyt.gob.do/wp-content/uploads/2018/07/3.-LEY-139-01-DE-EDUCACION-SUPERIOR-CIENCIA-Y-TECNOLOGIA.pdf
 
 #### 8) Ley 136-03 que establece el Código de los Niños, Niñas y Adolescentes
 
@@ -403,7 +403,7 @@ https://www.mescyt.gob.do/wp-content/uploads/2018/07/3.-LEY-139-01-DE-EDUCACIONS
 
 [[START OF PAGE 14]]
 
-http://www.ministeriodeeducacion.gob.do/transparencia/base-legal-de-lainstitucion/leyes/listados
+http://www.ministeriodeeducacion.gob.do/transparencia/base-legal-de-la-institucion/leyes/listados
 
 #### 9) Ley No. 24-97 sobre Violencia Intrafamiliar y contra la Mujer
 
@@ -413,17 +413,17 @@ https://observatoriojusticiaygenero.gob.do/documentos/PDF/normativas/NOR_24_97.p
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe, 99 = no se aplica (por ejemplo, cuando el nivel de gobierno que se indica no se encarga de la educación)
 
-Nacional | Subnacional
---- | --- | --- | --- | --- | --- | --- | ---
-Preescolar | Primaria/ secundaria | Terciaria | No formal | Preescolar | Primaria/ secundaria | Terciaria | No formal
-1. Diversidad cultural y tolerancia | 1 | 1 | 1 | 1
-2. Igualdad de | género | 1 | 1 1 | 1
-3. | Derechos humanos | 1 | 1 1 | 1
-4. Paz y no | violencia | 1 | 1 1 | 1
-5. | Cambio climático | 1 | 1 1 | 1
-6. | Sostenibilidad ambiental | 1 | 1 1 | 1
-7. | Supervivencia y bienestar humanos | 1 | 1 1 | 1
-8. | Consumo y producción sostenibles | 9 | 9 9 | 9
+|  | Nacional |  |  |  | Subnacional |  |  |  |
+|---|---|---|---|---|---|---|---|---|
+|  | Preescolar | Primaria/secundaria | Terciaria | No formal | Preescolar | Primaria/secundaria | Terciaria | No formal |
+| 1. Diversidad cultural y tolerancia | 1 | 1 | 1 | 1 |  |  |  |  |
+| 2. Igualdad de género | 1 | 1 | 1 | 1 |  |  |  |  |
+| 3. Derechos humanos | 1 | 1 | 1 | 1 |  |  |  |  |
+| 4. Paz y no violencia | 1 | 1 | 1 | 1 |  |  |  |  |
+| 5. Cambio climático | 1 | 1 | 1 | 1 |  |  |  |  |
+| 6. Sostenibilidad ambiental | 1 | 1 | 1 | 1 |  |  |  |  |
+| 7. Supervivencia y bienestar humanos | 1 | 1 | 1 | 1 |  |  |  |  |
+| 8. Consumo y producción sostenibles | 9 | 9 | 9 | 9 |  |  |  |  |
 
 - A3a.  Por  favor  describa  las  políticas,  marcos  u  objetivos  estratégicos  de  educación nacionales o subnacionales específicos de su país que estén actualmente vigentes y que  promueven  la  ECM  y  la  EDS.  Explique  si  los  temas  de  la  ECM  y  la  EDS 3 se mencionan de manera explícita o implícita y qué tipos o niveles de educación abarcan.
 
@@ -483,7 +483,7 @@ Todos los planes, programas, proyectos y políticas públicas deberán  incorpor
 ##### Participación  Social .  -
 Deberá  promoverse  la  participación  social  en  la  formulación, ejecución,  auditoría  y  evaluación  de  las  políticas  públicas,  mediante  la  creación  de espacios  y  mecanismos  institucionales  que  faciliten  la  corresponsabilidad  ciudadana,  la equidad de género, el acceso a la información, la transparencia, la rendición de cuentas, la veeduría social y la fluidez en las relaciones Estado-sociedad.
 
-#### 4)  Pacto  Nacional  para  la  Reforma  Educativa  en  la  República  Dominicana  (20142030)
+#### 4) Pacto Nacional para la Reforma Educativa en la República Dominicana (2014-2030)
 
 Este instaura como una visión compartida de los sectores pactantes, de que 'la educación es un derecho y un bien público de acceso universal y con equidad; orientada a construir ciudadanía plena mediante la formación integral de personas conscientes de sus derechos y  sus  deberes,  respetuosas  de  los  principios  y  valores  constitucionales;  personas autónomas, solidarias, éticas y socialmente responsables, comprometidas con la igualdad y  equidad  de  género,  la  atención  a  la  diversidad,  el  uso  sostenible  de  los  recursos naturales y la protección del medio ambiente; personas capaces de vincularse de manera crítica,  creativa  y  transformadora  con  el  progreso  científico-técnico,  social  y  cultural,  e integrarse  activamente  al  desarrollo  nacional  y  a  la  construcción  de  una  sociedad  más justa, inclusiva e intercultural a nivel local y global, para vivir de manera digna y pacífica' (Punto 2.1 del Pacto).
 
@@ -507,21 +507,21 @@ A3b.  Por  favor  proporcione  los  nombres  completos  de  las  políticas,  ma
 
 #### 1) Plan Estratégico Institucional del MINERD 2017- 2020
 
-http://www.ministeriodeeducacion.gob.do/transparencia/media/plan-estrategico-de-lainstitucion/planificacion-estrategica/plan-estrategico-2017-2020-ministerio-de-edcucacionde-la-republica-dominicanapdf.pdf
+http://www.ministeriodeeducacion.gob.do/transparencia/media/plan-estrategico-de-la-institucion/planificacion-estrategica/plan-estrategico-2017-2020-ministerio-de-edcucacion-de-la-republica-dominicanapdf.pdf
 
-#### 2)  Plan Nacional de Educación 2020-2021
+#### 2) Plan Nacional de Educación 2020-2021
 
-http://www.ministeriodeeducacion.gob.do/transparencia/plan-estrategico-de-lainstitucion/plan-nacional-educacion-para-todos-preservando-la-salud/2020/listados
+http://www.ministeriodeeducacion.gob.do/transparencia/plan-estrategico-de-la-institucion/plan-nacional-educacion-para-todos-preservando-la-salud/2020/listados
 
-#### 3)  Estrategia Nacional de Desarrollo (Ley 01-12)
+#### 3) Estrategia Nacional de Desarrollo (Ley 01-12)
 
-https://observatorioplanificacion.cepal.org/es/marcos-regulatorios/ley-no-1-12-deestrategia-nacional-de-desarrollo-2030-de-republica-dominicana
+https://observatorioplanificacion.cepal.org/es/marcos-regulatorios/ley-no-1-12-de-estrategia-nacional-de-desarrollo-2030-de-republica-dominicana
 
-#### 4) Pacto Nacional para la Reforma Educativa en la República Dominicana (20142030)
+#### 4) Pacto Nacional para la Reforma Educativa en la República Dominicana (2014-2030)
 
-https://www.ces.org.do/ArchivosPortalCES/PACTO-NACIONAL-PARA-LA-REFORMAEDUCATIVA-suscrito-1-abril-2014.pdf
+https://www.ces.org.do/ArchivosPortalCES/PACTO-NACIONAL-PARA-LA-REFORMA-EDUCATIVA-suscrito-1-abril-2014.pdf
 
-#### Normas del Sistema Educativo Dominicano para la convivencia y la disciplina escolar en los centros educativos públicos y privados. En cumplimiento de los artículos 48-49, Ley 136-03.
+#### 5) Normas del Sistema Educativo Dominicano para la convivencia y la disciplina escolar en los centros educativos públicos y privados. En cumplimiento de los artículos 48-49, Ley 136-03.
 
 17
 
@@ -529,49 +529,47 @@ https://www.ces.org.do/ArchivosPortalCES/PACTO-NACIONAL-PARA-LA-REFORMAEDUCATIVA
 
 [[START OF PAGE 18]]
 
-https://www.siteal.iiep.unesco.org/bdnp/3458/normas-sistema-educativo-dominicanoconvivencia-disciplina-escolar-centros-educativos
+https://www.siteal.iiep.unesco.org/bdnp/3458/normas-sistema-educativo-dominicano-convivencia-disciplina-escolar-centros-educativos
 
-*A4.  Por favor indique qué temas de la ECM y la EDS están contemplados en las políticas, marcos  u  objetivos  estratégicos  de  educación  nacionales  o  subnacionales  que  se aplican a cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
-
-*A5.  Por  favor  indique  si  las  políticas,  marcos  u  objetivos  estratégicos  de  educación nacionales  o  subnacionales  prevén  el  mandato  de  integrar  la  ECM  y  la  EDS  en  los siguientes ámbitos, introduciendo el número correspondiente en cada casilla blanca.
+*A4. Por favor indique qué temas de la ECM y la EDS están contemplados en las políticas, marcos u objetivos estratégicos de educación nacionales o subnacionales que se aplican a cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
 
 CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
-Preescolar | Primaria y secundaria | Terciaria | Educación no formal
---- | --- | --- | --- | --- | ---
-1. | Diversidad cultural y tolerancia | 1 | 1 | 1 | 1
-2. | Igualdad de género | 1 | 1 | 1 | 1
-3. | Derechos humanos | 1 | 1 | 1 | 1
-4. | Paz y no violencia | 1 | 1 | 1 | 1
-5. | Cambio climático | 1 | 1 | 1 | 1
-6. | Sostenibilidad ambiental | 1 | 1 | 1 | 1
-7. | Supervivencia y bienestar humanos | 1 | 1 | 1 | 1
-8. | Consumo y producción sostenibles | 1 | 1 | 1 | 1
+|  | Preescolar | Primaria y secundaria | Terciaria | Educación no formal |
+|---|---|---|---|---|
+| 1. Diversidad cultural y tolerancia | 1 | 1 | 1 | 1 |
+| 2. Igualdad de género | 1 | 1 | 1 | 1 |
+| 3. Derechos humanos | 1 | 1 | 1 | 1 |
+| 4. Paz y no violencia | 1 | 1 | 1 | 1 |
+| 5. Cambio climático | 1 | 1 | 1 | 1 |
+| 6. Sostenibilidad ambiental | 1 | 1 | 1 | 1 |
+| 7. Supervivencia y bienestar humanos | 1 | 1 | 1 | 1 |
+| 8. Consumo y producción sostenibles | 1 | 1 | 1 | 1 |
 
-CLAVE: 0 = no, 1 = sí, 9 = no sabe, 99 = no se aplica ( por ejemplo, cuando el nivel de gobierno que se indica no se encarga de la educación)
+*A5. Por favor indique si las políticas, marcos u objetivos estratégicos de educación nacionales o subnacionales prevén el mandato de integrar la ECM y la EDS en los siguientes ámbitos, introduciendo el número correspondiente en cada casilla blanca.
 
-Preescolar | Primaria y secundaria | Terciaria | Educación no formal
---- | --- | --- | --- | ---
-Nacional
-Elaboración o revisión de los planes de estudios | 1 | 1 | 1 | 1
-Establecimiento de los objetivos de aprendizaje del programa | 1 | 1 | 1 | 1
-Elaboración de libros de texto | 1 | 1 | 1 | 1
-Educación y formación docente | 1 | 1 | 1 | 1
-Evaluación de los resultados del aprendizaje de las y los estudiantes | 1 | 1 | 1 | 1
-Subnacional
-Elaboración o revisión de los planes de estudios
-Establecimiento de los objetivos de aprendizaje del programa
+CLAVE: 0 = no, 1 = sí, 9 = no sabe, 99 = no se aplica (por ejemplo, cuando el nivel de gobierno que se indica no se encarga de la educación)
 
+|  | Preescolar | Primaria y secundaria | Terciaria | Educación no formal |
+|---|---|---|---|---|
+| Nacional |  |  |  |  |
+| Elaboración o revisión de los planes de estudios | 1 | 1 | 1 | 1 |
+| Establecimiento de los objetivos de aprendizaje del programa | 1 | 1 | 1 | 1 |
+| Elaboración de libros de texto | 1 | 1 | 1 | 1 |
+| Educación y formación docente | 1 | 1 | 1 | 1 |
+| Evaluación de los resultados del aprendizaje de las y los estudiantes | 1 | 1 | 1 | 1 |
+| Subnacional |  |  |  |  |
+| Elaboración o revisión de los planes de estudios |  |  |  |  |
+| Establecimiento de los objetivos de aprendizaje del programa |  |  |  |  |
 18
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
 
-Elaboración de libros de texto
----
-Educación y formación docente
-Evaluación de los resultados del aprendizaje de las y los estudiantes
+Elaboración de libros de texto |  |  |  |  |
+Educación y formación docente |  |  |  |  |
+Evaluación de los resultados del aprendizaje de las y los estudiantes |  |  |  |  |
 
 ### B. Plan de estudios (párrafos 4 y 10 a 19 de la Recomendación de 1974)
 
@@ -614,7 +612,7 @@ En el caso específico de Lenguas Extranjeras, se trabajan de forma integrada a 
 
 Asimismo, estas se integran  en  los  planes  de  estudios  de  Formación  Laboral  y  para  el Trabajo, siendo esta transversal para todos los niveles del Subsistema.
 
-(ver: http://www.ministeriodeeducacion.gob.do/docs/direccion-general-de-curriculo/2fPZnaturaleza-de-las-areas-curriculares-2020-web-1pdf.pdf pág. 75 a 86),
+(ver: http://www.ministeriodeeducacion.gob.do/docs/direccion-general-de-curriculo/2fPZ-naturaleza-de-las-areas-curriculares-2020-web-1pdf.pdf pág. 75 a 86),
 
 En el área de Educación Artística la ECM y la EDS se integran en los planes de estudios de Educación Primaria y Secundaria, así como de Educación Técnico-Profesional.
 
@@ -696,13 +694,14 @@ El sistema educativo nacional comprende los tipos de educación formal, y no for
 
 El término ciclo básico se refiere al conjunto articulado de grados, cursos o años en que se organiza  un  nivel  educativo,  con  carácter  propedéutico  o  terminal.  Y  se  llama  grado  al conjunto articulado de tiempo en que se divide un ciclo educativo.
 
-La educación no formal comprende la apropiación de conocimientos, actitudes y destrezas que  busca  las  finalidades  de  la  educación  formal  de  manera  paralela  a  ésta  para poblaciones  especiales.  En  esta  dimensión  se  trabaja  con  el  concepto  subsistema educativo,  haciendo  alusión  al  conjunto  de  programas  educativos  en  que  puede  ser desarrollado un tipo de educación que posee poblaciones de alumnos específicos.
+La educación no formal comprende la apropiación de conocimientos, actitudes y destrezas
 
 22
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
+que busca las finalidades de la educación formal de manera paralela a ésta para poblaciones especiales. En esta dimensión se trabaja con el concepto subsistema educativo, haciendo alusión al conjunto de programas educativos en que puede ser desarrollado un tipo de educación que posee poblaciones de alumnos específicos.
 
 #### 1. Diversidad cultural y tolerancia
 
@@ -740,13 +739,14 @@ Indicador de logro: Aplica los requerimientos de los derechos autorales al manej
 
 #### 4. Paz y no violencia
 
-Contenido actitudinal: Conciencia del uso racional del espacio individual y colectivo Indicador  de  logro:  Valora  y  respeta  su  cuerpo  y  su  voz  al  relacionarse  dentro  de  un espacio individual o colectivo. (1ro primaria, pág. 198)
+Contenido actitudinal: Conciencia del uso racional del espacio individual y colectivo
 
 23
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
+Indicador de logro: Valora y respeta su cuerpo y su voz al relacionarse dentro de un espacio individual o colectivo. (1ro primaria, pág. 198)
 
 Contenido  actitudinal:  Promoción  de  soluciones  a  problemáticas  colectivas,  con  sentido ético y conciencia social, al expresarse artísticamente.
 
@@ -776,13 +776,13 @@ Contenido actitudinal: Sistematización y creatividad al crear pequeñas industr
 
 #### Fuentes
 
-Nivel primario primer ciclo / http://www.educando.edu.do/portal/wpcontent/uploads/2016/07/NIVEL-PRIMARIO-PC.pdf
+Nivel primario primer ciclo / http://www.educando.edu.do/portal/wp-content/uploads/2016/07/NIVEL-PRIMARIO-PC.pdf
 
-Nivel  primario  segundo  ciclo  /  http://www.ministeriodeeducacion.gob.do/docs/direcciongeneral-de-curriculo/gZol-diseno-curricular-del-nivel-primario-segundo-ciclopdf.pdf
+Nivel primario segundo ciclo / http://www.ministeriodeeducacion.gob.do/docs/direccion-general-de-curriculo/gZol-diseno-curricular-del-nivel-primario-segundo-ciclopdf.pdf
 
-Nivel secundario primer ciclo / http://www.educando.edu.do/portal/wpcontent/uploads/2016/07/NIVEL-SECUNDARIO-PC.pdf
+Nivel secundario primer ciclo / http://www.educando.edu.do/portal/wp-content/uploads/2016/07/NIVEL-SECUNDARIO-PC.pdf
 
-Nivel secundario segundo ciclo / http://www.educando.edu.do/portal/wpcontent/uploads/2016/10/An9x-secundaria-segundo-ciclo-modalidad-academicapdf.pdf
+Nivel secundario segundo ciclo / http://www.educando.edu.do/portal/wp-content/uploads/2016/10/An9x-secundaria-segundo-ciclo-modalidad-academicapdf.pdf
 
 Currículo Dominicano Ciencias de la Naturaleza
 
@@ -870,7 +870,7 @@ Asume  con  responsabilidad  crítica  el  impacto  de  fenómenos  naturales,  
 
 #### Secundaria primer ciclo
 
-http://www.educando.edu.do/portal/wp-content/uploads/2016/07/NIVEL-SECUNDARIOPC.pdf
+http://www.educando.edu.do/portal/wp-content/uploads/2016/07/NIVEL-SECUNDARIO-PC.pdf
 
 Ejemplo primer grado de secundaria
 
@@ -924,7 +924,7 @@ Observación, formulación de preguntas e hipótesis, diseño y ejecución de in
 
 #### Secundaria Segundo Ciclo
 
-http://www.educando.edu.do/portal/wp-content/uploads/2016/10/An9x-secundariasegundo-ciclo-modalidad-academicapdf.pdf
+http://www.educando.edu.do/portal/wp-content/uploads/2016/10/An9x-secundaria-segundo-ciclo-modalidad-academicapdf.pdf
 
 Ejemplo 4to grado de secundaria
 
@@ -968,11 +968,11 @@ Aplica  estrategias  para  consumir  alimentos  seguros  y  balanceados  de  acu
 
 En los planes de estudio y el diseño curricular de manera explícita e implícita se prioriza la obtención de una educación ciudadana mundial y de desarrollo sostenible. Incluso, una de las  siete  competencias  fundamentales  contemplada  en  el  currículo  de  la  República Dominicana es: Ética y Ciudadana y Ambiental y de la salud.
 
-- http://www.ministeriodeeducacion.gob.do/sobre-nosotros/areasinstitucionales/direccion-general-de-curriculo/diseno-curricular
+- http://www.ministeriodeeducacion.gob.do/sobre-nosotros/areas-institucionales/direccion-general-de-curriculo/diseno-curricular
 
-- http://www.ministeriodeeducacion.gob.do/docs/direccion-general-de-curriculo/2fPZnaturaleza-de-las-areas-curriculares-2020-web-1pdf.pdf
+- http://www.ministeriodeeducacion.gob.do/docs/direccion-general-de-curriculo/2fPZ-naturaleza-de-las-areas-curriculares-2020-web-1pdf.pdf
 
-- http://www.ministeriodeeducacion.gob.do/docs/direccion-general-de-curriculo/gZoldiseno-curricular-del-nivel-primario-segundo-ciclopdf.pdf
+- http://www.ministeriodeeducacion.gob.do/docs/direccion-general-de-curriculo/gZol-diseno-curricular-del-nivel-primario-segundo-ciclopdf.pdf
 
 28
 
@@ -980,9 +980,9 @@ En los planes de estudio y el diseño curricular de manera explícita e implíci
 
 [[START OF PAGE 29]]
 
-- http://www.ministeriodeeducacion.gob.do/docs/direccion-general-de-curriculo/RtcEdiseno-curricular-del-nivel-secundario-primer-ciclopdf.pdf
+- http://www.ministeriodeeducacion.gob.do/docs/direccion-general-de-curriculo/RtcE-diseno-curricular-del-nivel-secundario-primer-ciclopdf.pdf
 
-- http://www.ministeriodeeducacion.gob.do/docs/direccion-general-de-curriculo/An9xsecundaria-segundo-ciclo-modalidad-academicapdf.pdf
+- http://www.ministeriodeeducacion.gob.do/docs/direccion-general-de-curriculo/An9x-secundaria-segundo-ciclo-modalidad-academicapdf.pdf
 
 - http://www.educando.edu.do/portal/category/registro-e-infomes/
 
@@ -998,11 +998,10 @@ En los Diseños curriculares de los niveles, Inicial, Primario, Secundario.
 
 - Ley General Sobre Medio Ambiente y Recursos Naturales. Disponible en : https://www.suelourbano.org/wp-content/uploads/2017/08/dom44863.pdf
 
-- Bases para la Revisión y Actualización Curricular (2017. Disponible en : https://www.academia.edu/35191231/Bases_de_la_Revisi%C3%B3n_y_Actualizaci %C3%B3n_Curricular
+- Bases para la Revisión y Actualización Curricular (2017. Disponible en : https://www.academia.edu/35191231/Bases_de_la_Revisi%C3%B3n_y_Actualizaci%C3%B3n_Curricular
 
-- Ley  No.  24-97  sobre  Violencia  Intrafamiliar  y  contra  la  Mujer,  que  introduce modificaciones  al  Código  Penal.  G.  O.  No.  9946,  del  31  de  enero  de  1997. Disponible en :
-
-- https://observatoriojusticiaygenero.gob.do/documentos/PDF/normativas/NOR_24_9 7.pdf
+- Ley No. 24-97 sobre Violencia Intrafamiliar y contra la Mujer, que introduce modificaciones al Código Penal. G. O. No. 9946, del 31 de enero de 1997. Disponible en :
+https://observatoriojusticiaygenero.gob.do/documentos/PDF/normativas/NOR_24_97.pdf
 
 - Ley 1-12 Estrategia General de Desarrollo 2030. Disponible en : https://www.intec.edu.do/downloads/documents/institucionales/marco-legal/Ley_1-12_LEY_ORGANICA_DE_LA_ESTRATEGIA_NACIONAL_DE_DESARROLLO.pdf
 
@@ -1014,7 +1013,7 @@ Grado Nivel Área (Asignatura) Contenido
 
 1er primario FIHR Expresión de frases sobre el cuidado y respeto de la naturaleza creada por Dios
 
-5to.  primaria  Ciencias  de  la  Naturaleza  Valoración  del  conocimiento  sobre  su  entorno como metodología apropiada para percibir fenómenos naturales y problemáticas ambientales Diseño curricular, competencias fundamental Ética ciudadana y ambiental y salud
+5to. primaria Ciencias de la Naturaleza Valoración del conocimiento sobre su entorno como metodología apropiada para percibir fenómenos naturales y problemáticas ambientales
 
 29
 
@@ -1022,19 +1021,21 @@ Grado Nivel Área (Asignatura) Contenido
 
 [[START OF PAGE 30]]
 
-- http://www.ministeriodeeducacion.gob.do/docs/direccion-general-de-curriculo/RtcEdiseno-curricular-del-nivel-secundario-primer-ciclopdf.pdf
+Diseño curricular, competencias fundamental Ética ciudadana y ambiental y salud
 
-- Bases de la Revisión y Actualización Curricular http://www.ministeriodeeducacion.gob.do/docs/direccion-de-educacion-tecnicoprofesional/SXgO-bases-revision-y-actualizacion-curricularpdf.pdf
+- http://www.ministeriodeeducacion.gob.do/docs/direccion-general-de-curriculo/RtcE-diseno-curricular-del-nivel-secundario-primer-ciclopdf.pdf
 
-- Componente Académico Técnico Profesional y Artes.pdf http://www.ministeriodeeducacion.gob.do/docs/direccion-de-educacion-tecnicoprofesional/q9to-componente-academico-tecnico-profesional-y-artespdf.pdf
+- Bases de la Revisión y Actualización Curricular http://www.ministeriodeeducacion.gob.do/docs/direccion-de-educacion-tecnico-profesional/SXgO-bases-revision-y-actualizacion-curricularpdf.pdf
 
-- Diseños Curriculares Modalidad en Artes http://www.ministeriodeeducacion.gob.do/sobre-nosotros/areasinstitucionales/direccion-de-educacion-modalidad-en-artes/diseno-curricular
+- Componente Académico Técnico Profesional y Artes.pdf http://www.ministeriodeeducacion.gob.do/docs/direccion-de-educacion-tecnico-profesional/q9to-componente-academico-tecnico-profesional-y-artespdf.pdf
 
-- Diseño  Curricular  de  Nivel  Básico  de  Jóvenes y  Adultos.  Ministerio  de  Educación. República Dominicana. www.educando.edu.do/portal/diseno-curricular-nivelbasico-jovenes-adultos-version-preliminar/
+- Diseños Curriculares Modalidad en Artes http://www.ministeriodeeducacion.gob.do/sobre-nosotros/areas-institucionales/direccion-de-educacion-modalidad-en-artes/diseno-curricular
+
+- Diseño Curricular de Nivel Básico de Jóvenes y Adultos. Ministerio de Educación. República Dominicana. www.educando.edu.do/portal/diseno-curricular-nivel-basico-jovenes-adultos-version-preliminar/
 
 Ordenanza 1-2018, que establece el Marco Curricular del Diseño Curricular  Revisado  y Actualizado para la Educación Básica del Subsistema de Educación de Personas Jóvenes y Adultas de República Dominicana.
 
-- http://www.educando.edu.do/portal/wp-content/uploads/2018/06/ordenanza-1-2018Educacion-de-Adultos.pdf.
+- http://www.educando.edu.do/portal/wp-content/uploads/2018/06/ordenanza-1-2018-Educacion-de-Adultos.pdf.
 
 Orden Departamental 60-2018, Mediante la cual se instruye sobre la reorganización de los Centros Educativos de Educación Básica y las Escuelas Laborales de Personas Jóvenes y Adultas en todo el país.
 
@@ -1044,13 +1045,13 @@ Orden Departamental 60-2018, Mediante la cual se instruye sobre la reorganizaci�
 
 - Ordenanza 1´95, Que establece el Curriculum para la Educación Inicial, Básica, Media, Especial y de Adultos, del Sistema Educativo Dominicano.
 
-- http://ministeriodeeducacion.gob.do/docs/marco-legal/otras-normativas/ordenanza1-95-que-establece-el-curriculo-para-la-educacion-inicial-basica-media-especial-yde-adultos.pdf
+- http://ministeriodeeducacion.gob.do/docs/marco-legal/otras-normativas/ordenanza-1-95-que-establece-el-curriculo-para-la-educacion-inicial-basica-media-especial-y-de-adultos.pdf
 
 -Módulos del Primer Ciclo de Educación Básica del Primer Ciclo, Educación de Personas Jóvenes y Adultas.
 
 - http://www.educando.edu.do/portal/category/documentos-institucionales/dgeja/
 
--Brochure de PREPARA 'Nivel Secundario para Jóvenes y Adultos.
+-Brochure de PREPARA “Nivel Secundario para Jóvenes y Adultos.
 
 - http://www.educando.edu.do/portal/ordenanzas-modalidad-tecnico-profesional/
 
@@ -1066,41 +1067,37 @@ como  su  aplicación  en  los Subsistemas  de  Educación  de  Adultos  y  de  
 
 - http://www.educando.edu.do/portal/ordenanzas-modalidad-tecnico-profesional/
 
--Ordenanza  1'96      Que  Establece  el  Sistema  de  Evaluación  del  Curriculum  de  la Educación Inicial, Básica, Media, Especial y de Adultos.
+-Ordenanza 1’96 Que Establece el Sistema de Evaluación del Curriculum de la Educación Inicial, Básica, Media, Especial y de Adultos.
 
-- www.ministeriodeeducacion.gob.do/docs/marco-legal/otras-normativas/ordenanza-196-que-establece-el-sistema-de-evaluacion-del-curriculo-de-la-educacion-inicialbasica-media-y-de-adultos.pdf
+- www.ministeriodeeducacion.gob.do/docs/marco-legal/otras-normativas/ordenanza-1-96-que-establece-el-sistema-de-evaluacion-del-curriculo-de-la-educacion-inicial-basica-media-y-de-adultos.pdf
 
 Nota: En la actualidad se cuenta con un Diseño Curricular para el Nivel Secundario para personas jóvenes y adultas, en versión preliminar.
 
-*B2.  Por favor indique qué temas de la ECM y la EDS se enseñan como parte del plan de estudios  en  cada  nivel  de  educación,  introduciendo  el  número  correspondiente  en cada casilla blanca.
+*B2. Por favor indique qué temas de la ECM y la EDS se enseñan como parte del plan de estudios en cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
 
-*B3.  Por favor indique en qué asignaturas o campos de estudio se imparten la  ECM y la EDS en la enseñanza primaria y secundaria, introduciendo el número correspondiente en cada casilla blanca.
+CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
-CLAVE:
+ | Preescolar | Primaria y secundaria | Terciaria | Educación no formal
+--- | --- | --- | --- | ---
+1. Diversidad cultural y tolerancia | 1 | 1 | 1 | 1
+2. Igualdad de género | 1 | 1 | 1 | 1
+3. Derechos humanos | 1 | 1 | 1 | 1
+4. Paz y no violencia | 1 | 1 | 1 | 1
+5. Cambio climático | 1 | 1 | 1 | 1
+6. Sostenibilidad ambiental | 1 | 1 | 1 | 1
+7. Supervivencia y bienestar humanos | 1 | 1 | 1 | 1
+8. Consumo y producción sostenibles | 1 | 1 | 1 | 1
 
-0 = no, 1 = sí, 9 = no sabe
+*B3. Por favor indique en qué asignaturas o campos de estudio se imparten la ECM y la EDS en la enseñanza primaria y secundaria, introduciendo el número correspondiente en cada casilla blanca.
 
-Preescolar | Primaria y secundaria | Terciaria | Educación no formal
---- | --- | --- | --- | --- | ---
-1. | Diversidad cultural y tolerancia | 1 | 1 | 1 | 1
-2. | Igualdad de género | 1 | 1 | 1 | 1
-3. | Derechos humanos | 1 | 1 | 1 | 1
-4. | Paz y no violencia | 1 | 1 | 1 | 1
-5. | Cambio climático | 1 | 1 | 1 | 1
-6. | Sostenibilidad ambiental | 1 | 1 | 1 | 1
-7. | Supervivencia y bienestar humanos | 1 | 1 | 1 | 1
-8. | Consumo y producción sostenibles | 1 | 1 | 1 | 1
+CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
-CLAVE:
-
-0 = no, 1 = sí, 9 = no sabe
-
-Diversid ad cultural y toleranci a | Igualdad de género | Derechos humanos | Paz y no violencia | Cambio climático | Sostenibilidad ambiental | Supervivencia y bienestar humanos | Consumo y producción sostenibles
+ | Diversidad cultural y tolerancia | Igualdad de género | Derechos humanos | Paz y no violencia | Cambio climático | Sostenibilidad ambiental | Supervivencia y bienestar humanos | Consumo y producción sostenibles
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Artes | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Educación cívica, civil o para la ciudadanía 5 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 
-> 5  Se aborda en la asignatura de Ciencias Sociales
+> 5 Se aborda en la asignatura de Ciencias Sociales
 
 31
 
@@ -1108,13 +1105,13 @@ Educación cívica, civil o para la ciudadanía 5 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 
 
 [[START OF PAGE 32]]
 
-Ética/estudi os de moral 6 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
+Ética/estudios de moral 6 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Geografía 7 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Salud, educación física y deportes | 9 | 9 | 9 | 9 | 9 | 1 | 9 | 1
 Historia 8 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Idiomas | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 0
-Matemática s | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
+Matemáticas | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Educación religiosa | 9 | 9 | 9 | 9 | 9 | 1 | 9 | 1
 Ciencia | 1 | 1 | 1 | 1
 Estudios sociales 9 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
@@ -1165,13 +1162,15 @@ C1a.  Por favor describa de qué manera se transversalizan la ECM y la EDS en la
 La formación docente inicial y el desarrollo profesional continuo han sido ubicados como elementos centrales de los diagnósticos educativos, foco de intervención privilegiado de las políticas de reforma y de las estrategias destinadas a elevar la calidad educativa. La mayoría  de  los  programas  de  mejora  del  sistema  educativo  han  incluido  iniciativas específicas  destinadas  a  fortalecer  las  competencias  y  la  profesionalidad  de  los  futuros docentes y de aquellos que se encuentran en servicio.
 
 #### Formación  inicial  docente:
-Desde  el  año  2015  el  Ministerio  de  Educación  Superior, Ciencia  y  Tecnología  (Mescyt)  formuló  una  normativa  para  que  las  instituciones  de educación  superior  diseñaran  nuevos  programas  de  formación  inicial  para  carreras  de Educación  (para  docentes  del  nivel inicial, primario y  secundario),  que  contienen asignaturas con  contenidos  en  ECM  y  EDS.  Algunas  de  estas  son  especializadas  y  se titulan igual. Ej. Atención a la diversidad; Educación ambiental. Se definieron también unas competencias  transversales.  Igualmente  se  están  capacitando  a  los  formadores  de formadores para la implementación de estos programas.
+Desde el año 2015 el Ministerio de Educación Superior, Ciencia y Tecnología (Mescyt) formuló una normativa para que las instituciones de educación superior diseñaran nuevos programas de formación inicial para carreras de Educación (para docentes del nivel inicial, primario y secundario), que contienen asignaturas con contenidos en ECM y EDS. Algunas de estas son especializadas y se titulan igual. Ej. Atención a la diversidad; Educación ambiental. Se definieron también unas
 
 33
 
 [[END OF PAGE 33]]
 
 [[START OF PAGE 34]]
+
+competencias transversales. Igualmente se están capacitando a los formadores de formadores para la implementación de estos programas.
 
 Adicionalmente, la descripción de las competencias de los planes de estudio aprobados oficialmente contiene, para todos los estudiantes de diversas licenciaturas en Educación, énfasis específicos relativos a contenidos de la ECM y EDS, desarrollados transversalmente a través de diversas asignaturas, por medio de competencias fundamentales y genéricas como las siguientes:
 
@@ -1277,27 +1276,26 @@ Las siguientes memorias del Inafocam reseñan algunos de las acciones citadas:
 
 Memoria 2017
 
-http://www.inafocam.edu.do/transparencia/index.php/planestrategico/informes/category/578-informes-2017
+http://www.inafocam.edu.do/transparencia/index.php/plan-estrategico/informes/category/578-informes-2017 pp. 64-65
 
 Memoria 2019
 
-http://www.inafocam.edu.do/transparencia/index.php/planestrategico/informes/category/1448-memorias-institucional-2019 pp. 44-46 y 86-87
+http://www.inafocam.edu.do/transparencia/index.php/plan-estrategico/informes/category/1448-memorias-institucional-2019 pp. 44-46 y 86-87
 
 Informe 1er. Semestre Cumplimiento de POA 2020
 
-http://www.inafocam.edu.do/transparencia/phocadownload/PlanEstrategico/informe/2020/I nforme%20cumplimiento%20Inafocam%20enero-junio%202020.pdf
+http://www.inafocam.edu.do/transparencia/phocadownload/PlanEstrategico/informe/2020/Informe%20cumplimiento%20Inafocam%20enero-junio%202020.pdf
 
 ##### Diversidad cultural y tolerancia
 
 https://m.elcaribe.com.do/panorama/pais/inafocam-forma-docentes-en-civica-y-ciudadania/
 
-https://www.pucmm.edu.do/noticias/Lists/EntradasDeBlog/Post.aspx?ID=1387 http://inafocam.edu.do/index.php/noticias/item/525-concluyen-en-hato-mayor-y-la-romanadiplomado-en-educacion-de-competencias-ciudadanas
+https://www.pucmm.edu.do/noticias/Lists/EntradasDeBlog/Post.aspx?ID=1387
+http://inafocam.edu.do/index.php/noticias/item/525-concluyen-en-hato-mayor-y-la-romana-diplomado-en-educacion-de-competencias-ciudadanas
 
 ##### Educación para la igualdad de género
 
-http://www.inafocam.edu.do/index.php/noticias/item/441-concluyen-maestria-en-genero-ypoliticas-de-igualdad-en-educacion
-
-pp. 64-65
+http://www.inafocam.edu.do/index.php/noticias/item/441-concluyen-maestria-en-genero-y-politicas-de-igualdad-en-educacion
 
 36
 
@@ -1305,27 +1303,28 @@ pp. 64-65
 
 [[START OF PAGE 37]]
 
-https://www.intec.edu.do/prensa/notas-de-prensa/item/dieciseis-docentes-se-graduan-dela-maestria-en-genero-y-politicas-de-igualdad-en-educacion
+https://www.intec.edu.do/prensa/notas-de-prensa/item/dieciseis-docentes-se-graduan-de-la-maestria-en-genero-y-politicas-de-igualdad-en-educacion
 
 ##### Paz y no violencia
 
-file:///C:/Users/Mmoreno/Downloads/174-Texto%20del%20art%C3%AD_culo-693-1-1020140719.pdf
+file:///C:/Users/Mmoreno/Downloads/174-Texto%20del%20art%C3%AD_culo-693-1-10-20140719.pdf
 
-http://www.inafocam.edu.do/index.php/noticias/item/871-concluyen-en-san-franciscodiplomado-en-prevencion-de-la-violencia-escolar
+http://www.inafocam.edu.do/index.php/noticias/item/871-concluyen-en-san-francisco-diplomado-en-prevencion-de-la-violencia-escolar
 
-http://inafocam.edu.do/index.php/noticias/item/350-inician-en-monte-plata-el-diplomadode-educacion-en-valores-para-la-paz-y-el-desarrollo-integral
+http://inafocam.edu.do/index.php/noticias/item/350-inician-en-monte-plata-el-diplomado-de-educacion-en-valores-para-la-paz-y-el-desarrollo-integral
 
-http://www.inafocam.edu.do/index.php/noticias/item/711-inician-en-neyba-especialidad-enorientacion-educativa-en-intervencion-psicopedagogica
+http://www.inafocam.edu.do/index.php/noticias/item/711-inician-en-neyba-especialidad-en-orientacion-educativa-en-intervencion-psicopedagogica
 
 ##### Educación sobre el cambio climático:
 
-http://www.inafocam.edu.do/index.php/noticias/item/537-realizan-taller-para-fortalecercapacidades-docentes-frente-al-cambio-climatico
+http://www.inafocam.edu.do/index.php/noticias/item/537-realizan-taller-para-fortalecer-capacidades-docentes-frente-al-cambio-climatico
 
-http://inafocam.edu.do/?option=com_k2&view=item&id=336%253Aestudiantes-de-lacarrera-educaci%25C3%25B3n-en-constanza-visitan-el-inafocam&Itemid=184
+http://inafocam.edu.do/?option=com_k2&view=item&id=336%253Aestudiantes-de-la-carrera-educaci%25C3%25B3n-en-constanza-visitan-el-inafocam&Itemid=184
 
 ##### Sostenibilidad ambiental
 
-http://www.isa.edu.do/images/Boletn%20Estudiantil%20UNISA%2003%201.pdf https://www.isa.edu.do/images/Boletn%20Estudiantil%20UNISA%2004.pdf
+http://www.isa.edu.do/images/Boletn%20Estudiantil%20UNISA%2003%201.pdf
+https://www.isa.edu.do/images/Boletn%20Estudiantil%20UNISA%2004.pdf
 
 https://www.unphu.edu.do/programas/pienso-en-verde/
 
@@ -1421,13 +1420,13 @@ La evaluación es integral considerando sus conocimientos y habilidades, así co
 
 Se ha introducido la evaluación de temáticas relacionadas con la ECM y la EDS. En el caso de las Pruebas Diagnósticas en Sexto de Primaria y en Tercero de Secundaria. En Sexto de Secundaria se realizó pilotaje. Las informaciones están disponibles en:
 
-- http://www.ministeriodeeducacion.gob.do/sobre-nosotros/areasinstitucionales/direccion-de-evaluacion-de-la-calidad/informe-de-evaluaciondiagnostica-6to-grado
+- http://www.ministeriodeeducacion.gob.do/sobre-nosotros/areas-institucionales/direccion-de-evaluacion-de-la-calidad/informe-de-evaluacion-diagnostica-6to-grado
 
-- http://www.ministeriodeeducacion.gob.do/docs/direccion-de-evaluacion-de-lacalidad/NJXY-informe-nacional-2019-evaluacion-diagnostica-3erosecundariapdf.pdf
+- http://www.ministeriodeeducacion.gob.do/docs/direccion-de-evaluacion-de-la-calidad/NJXY-informe-nacional-2019-evaluacion-diagnostica-3ero-secundariapdf.pdf
 
 El  enfoque  de  competencia  promueve  desde  las  diferentes  áreas  del  conocimiento  la evaluación no solo de los contenidos sino más bien de las habilidades, valores y actitudes a  través  de  pruebas  escritas  y  otros  instrumentos  de  evaluación  (Proyectos,  Pruebas, ensayos, etc.)
 
-La  evaluación  de  las  y  los  estudiantes  del  Subsistema  de    Educación  de  Personas Jóvenes y Adultas, según lo establecido en la Ordenanza 1-96, responde a la educación concebida en los Fundamentos Teóricos del Curricular dominicano, como un medio que contribuye al desarrollo de las múltiples capacidades humanas, que promueven una mejor relación con el entorno, el trabajo, el fortalecimiento de la democracia, el desarrollo y uso racional  de  la  ciencia  y  la  tecnología;  la  transmisión  y  reforzamiento  de  la  identidad;  la formación moral y ética del individuo. Así como, al reconocimiento del desarrollo de las habilidades y del conocimiento.
+La evaluación de las y los estudiantes del Subsistema de Educación de Personas Jóvenes y Adultas, según lo establecido en la Ordenanza 1-96, responde a la educación concebida en los Fundamentos Teóricos del Curricular dominicano, como un medio que contribuye al desarrollo de las múltiples capacidades humanas, que promueven una mejor
 
 39
 
@@ -1435,41 +1434,39 @@ La  evaluación  de  las  y  los  estudiantes  del  Subsistema  de    Educación
 
 [[START OF PAGE 40]]
 
-*D2.  Por favor indique si los temas de la ECM y la EDS que se encuentran a continuación se  suelen  incluir  en  las  evaluaciones  o  exámenes  de  las  y  los  estudiantes  en  cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
+relación con el entorno, el trabajo, el fortalecimiento de la democracia, el desarrollo y uso racional de la ciencia y la tecnología; la transmisión y reforzamiento de la identidad; la formación moral y ética del individuo. Así como, al reconocimiento del desarrollo de las habilidades y del conocimiento.
 
-*D3.  Por  favor  indique  qué  dimensiones  del  aprendizaje  de  la  ECM  y  EDS  que  se encuentran a continuación se suelen incluir en las evaluaciones o exámenes de las y los estudiantes en cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
+*D2. Por favor indique si los temas de la ECM y la EDS que se encuentran a continuación se suelen incluir en las evaluaciones o exámenes de las y los estudiantes en cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
 
-### Transversalización de la ECM y la EDS en las leyes y políticas, los planes de estudios, la formación de docentes y la evaluación de las y los estudiantes (párrafos 4 a 5, 7, 10 a 19 y 33 a 37 de la Recomendación de 1974)
+CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
-*E1.  Sobre la base de sus respuestas a las preguntas de las cuatro secciones anteriores (leyes y políticas, planes de estudios, formación de docentes y evaluación de las y los estudiantes), indique por favor en qué medida la ECM y la EDS se transversalizan 13
+ | Preescolar | Primaria y secundaria | Terciaria | Educación no formal
+--- | --- | --- | --- | ---
+1. Diversidad cultural y tolerancia | 1 | 1 | 1 | 1
+2. Igualdad de género | 1 | 1 | 1 | 1
+3. Derechos humanos | 1 | 1 | 1 | 1
+4. Paz y no violencia | 1 | 1 | 1 | 1
+5. Cambio climático | 1 | 1 | 1 | 1
+6. Sostenibilidad ambiental | 1 | 1 | 1 | 1
+7. Supervivencia y bienestar humanos | 1 | 1 | 1 | 1
+8. Consumo y producción sostenibles | 1 | 1 | 1 | 1
 
-CLAVE:
+*D3. Por favor indique qué dimensiones del aprendizaje de la ECM y EDS que se encuentran a continuación se suelen incluir en las evaluaciones o exámenes de las y los estudiantes en cada nivel de educación, introduciendo el número correspondiente en cada casilla blanca.
 
-0 = no, 1 = sí, 9 = no sabe
+CLAVE: 0 = no, 1 = sí, 9 = no sabe
 
-Preescolar | Primaria y secundaria | Terciaria | Educación no formal
---- | --- | --- | --- | --- | ---
-1. | Diversidad cultural y tolerancia | 1 | 1 | 1 | 1
-2. | Igualdad de género | 1 | 1 | 1 | 1
-3. | Derechos humanos | 1 | 1 | 1 | 1
-4. | Paz y no violencia | 1 | 1 | 1 | 1
-5. | Cambio climático | 1 | 1 | 1 | 1
-6. | Sostenibilidad ambiental | 1 | 1 | 1 | 1
-7. | Supervivencia y bienestar humanos | 1 | 1 | 1 | 1
-8. | Consumo y producción sostenibles | 1 | 1 | 1 | 1
-
-CLAVE:
-
-0 = no, 1 = sí, 9 = no sabe
-
-Preescolar | Primaria y secundaria | Terciaria | Educación no formal
+ | Preescolar | Primaria y secundaria | Terciaria | Educación no formal
 --- | --- | --- | --- | ---
 Conocimientos | 1 | 1 | 1 | 1
 Habilidades | 1 | 1 | 1 | 1
 Valores | 1 | 1 | 1 | 1
 Actitudes y comportamientos | 1 | 1 | 1 | 1
 
-> 13 Se  considera  que  la  ECM  y  la  EDS  están  transversalizadas  si  sus  temas  se  mencionan  de manera explícita en los documentos pertinentes y se espera que sean implementadas por las autoridades  competentes  (por  ejemplo,  ministerios,  autoridades  educativas  regionales  o
+### E. Transversalización de la ECM y la EDS en las leyes y políticas, los planes de estudios, la formación de docentes y la evaluación de las y los estudiantes (párrafos 4 a 5, 7, 10 a 19 y 33 a 37 de la Recomendación de 1974)
+
+*E1. Sobre la base de sus respuestas a las preguntas de las cuatro secciones anteriores (leyes y políticas, planes de estudios, formación de docentes y evaluación de las y los estudiantes), indique por favor en qué medida la ECM y la EDS se transversalizan 13
+
+> 13 Se considera que la ECM y la EDS están transversalizadas si sus temas se mencionan de manera explícita en los documentos pertinentes y se espera que sean implementadas por las autoridades competentes (por ejemplo, ministerios, autoridades educativas regionales o
 
 40
 
@@ -1491,9 +1488,11 @@ Algunos temas de la ECM y la EDS 14  están transversalizados . Seleccione esta 
 
 - 2 Ampliamente
 
-La mayoría de los temas de la ECM y la EDS están transversalizados. No sabe si la ECM y la EDS están o no transversalizadas.
+La mayoría de los temas de la ECM y la EDS están transversalizados.
 
 - 9 No sabe
+
+No sabe si la ECM y la EDS están o no transversalizadas.
 
 - 99 No se aplica
 
@@ -1512,7 +1511,7 @@ b) | Planes de estudios
 c) | Formación docente
 d) | Evaluación de educandos
 
-### Enseñanza y formación técnica y profesional (párrafos 25 a 29 de la Recomendación de 1974)
+### F. Enseñanza y formación técnica y profesional (párrafos 25 a 29 de la Recomendación de 1974)
 
 #### F1. Por favor describa las principales iniciativas que se hayan emprendido para promover la  ECM  y  la  EDS  en  la  enseñanza  y  formación  técnica  y  profesional.  Describa brevemente los resultados y el impacto de esas iniciativas y proporcione ejemplos de buenas prácticas.
 
@@ -1544,9 +1543,9 @@ Es importante destacar que en el sistema educativo existe un Programa de Inducci
 
 La meta 4.7 se refiere al desarrollo y los estilos de vida sostenible, los derechos humanos, la igualdad de género, la promoción de una cultura de paz y no violencia, la ciudadanía mundial y la apreciación de la diversidad cultural, así como a la contribución de la cultura al desarrollo sostenible.
 
-- 1.-Consideramos que siendo la enseñanza y formación técnica y profesional (EFTP) parte de  un  derecho  a  la  educación  y  al  trabajo,  desde  la  Dirección  de  Educación  Técnico Profesional (DETP) se trabajó en una propuesta para promover la inclusión y la equidad que sirva para impulsar la integración de sectores vulnerables a los fines de que logren su formación  a  lo  largo  de  toda  la  vida  para  su  participación  social,  económica  y  la ciudadanía  responsable.  En  este  sentido,  el  gobierno  dominicano  ha  asumido  dicha propuesta,  y  fue  anunciada  recientemente  por  nuestro  Ministro  de  Educación  Roberto Fulcar Encarnación (ver información en línea a los medios de comunicación); http://www.ministeriodeeducacion.gob.do/comunicaciones/noticias/politica-de-inclusionsin-precedentes-en-la-educacion-de-rd
+- 1.-Consideramos que siendo la enseñanza y formación técnica y profesional (EFTP) parte de un derecho a la educación y al trabajo, desde la Dirección de Educación Técnico Profesional (DETP) se trabajó en una propuesta para promover la inclusión y la equidad que sirva para impulsar la integración de sectores vulnerables a los fines de que logren su formación a lo largo de toda la vida para su participación social, económica y la ciudadanía responsable. En este sentido, el gobierno dominicano ha asumido dicha propuesta, y fue anunciada recientemente por nuestro Ministro de Educación Roberto Fulcar Encarnación (ver información en línea a los medios de comunicación); http://www.ministeriodeeducacion.gob.do/comunicaciones/noticias/politica-de-inclusion-sin-precedentes-en-la-educacion-de-rd
 
-- 2.-Otro aspecto que se trabaja en el proceso está relacionado al diseño de una campaña promocional a través de medios virtuales para contribuir a que se siga fortaleciendo, en el Nivel  Secundario,  la  EFTP  y  en  Vinculación  Sectorial  se  dispone  de  un  módulo  en formación  en  centros  de  trabajo  que  se  aplica  desde  hace  un  año.  Esto  facilitaría  el acceso al  trabajo  y  a  la  educación  postsecundaria  y  superior,  mediante  procedimientos flexibles de admisión y servicios de orientación (http://www.ministeriodeeducacion.gob.do/sobre-nosotros/areas-institucionales/direccionde-educacion-tecnico-profesional) y la pronta implementación de un Centro de
+- 2.-Otro aspecto que se trabaja en el proceso está relacionado al diseño de una campaña promocional a través de medios virtuales para contribuir a que se siga fortaleciendo, en el Nivel Secundario, la EFTP y en Vinculación Sectorial se dispone de un módulo en formación en centros de trabajo que se aplica desde hace un año. Esto facilitaría el acceso al trabajo y a la educación postsecundaria y superior, mediante procedimientos flexibles de admisión y servicios de orientación (http://www.ministeriodeeducacion.gob.do/sobre-nosotros/areas-institucionales/direccion-de-educacion-tecnico-profesional) y la pronta implementación de un Centro de
 
 42
 
@@ -1568,7 +1567,7 @@ Para promover la ECM y la EDS, en el Subsistema de Educación de Personas Jóven
 
 - 1-Diseño curricular para el Nivel Básico, con estructura modular,
 
-- 2-Diseño  Curricular  para  el  Nivel  Secundario,  con  estructura  modular,  versión 'Preliminar'
+- 2-Diseño Curricular para el Nivel Secundario, con estructura modular, versión “Preliminar”
 
 ##### Resultados:
 
@@ -1622,7 +1621,7 @@ Sistematización  sobre  Continuidad  Educativa  y  Derecho  a  la  Continuidad 
 
 La República Dominicana desde hace algunos años se encuentra coordinando diversas acciones especialmente para la inserción de los contenidos en ECM y EDS en el currículo preuniversitario.
 
-Un reflejo de lo expresado se vislumbra en el Plan Estratégico del Ministerio de Educación (MINERD) 2017-2020, el cual tiene alineada sus diez intervenciones de conformidad a los objetivos educativos acordados en la Agenda 2030 para el Desarrollo Sostenible, en las Metas Educativas Iberoamericanas 2021, en la Política Educativa Centroamericana 20132021 y a nivel nacional con lo establecido en la Estrategia Nacional de Desarrollo 2030, el Pacto  Nacional  para  la  Reforma  Educativa  2014-2030,  el  Programa  de  Gobierno  20162020 y algunas medidas todavía pendientes del Plan Decenal 2008-2018.
+Un reflejo de lo expresado se vislumbra en el Plan Estratégico del Ministerio de Educación (MINERD) 2017-2020, el cual tiene alineada sus diez intervenciones de conformidad a los objetivos educativos acordados en la Agenda 2030 para el Desarrollo Sostenible, en las Metas Educativas Iberoamericanas 2021, en la Política Educativa Centroamericana 2013-2021 y a nivel nacional con lo establecido en la Estrategia Nacional de Desarrollo 2030, el Pacto Nacional para la Reforma Educativa 2014-2030, el Programa de Gobierno 2016-2020 y algunas medidas todavía pendientes del Plan Decenal 2008-2018.
 
 Un estudio referente y que ha aportado al MINERD durante el último cuatrienio, lo es la Prueba PISA, la cual es una prueba estandarizada coordinada por la Organización para la Cooperación y Desarrollo Económico (OCDE) en la que participan países miembros y no miembros de esta organización y se realiza de forma periódica. Esta permite monitorear y realizar una evaluación de los estudiantes para medir logros, avances o posibles brechas, ofreciendo datos  como  la  cantidad  de  estudiantes  evaluados  por  sector,  distribución  de estudiantes por género, grado modal, asistencia a la educación inicial, nivel socioeconómico, nivel de repitencia, lengua hablada en el hogar y nivel educativo de la madre.  Las  áreas  evaluadas  son  Matemáticas,  Comprensión  Lectora  y  Ciencias.  El estudio asimismo contiene, secciones dedicadas al análisis de cada área cognitiva y las tendencias  internacionales  con  los  distintos  países  de  la  región  latinoamericana.  Este informe contribuye con la reflexión de la Educación de la Ciudadanía Mundial, puesto que su principal objetivo es medir qué tan preparados están los estudiantes para asumir roles en  la  sociedad.  PISA  también  permite  que  profesores,  estudiantes  y  el  mismo  sistema educativo se  evalúen  y  puedan  hacer  un  análisis  introspectivo  sobre  cómo  ser  mejores para la sociedad.
 
@@ -1632,7 +1631,7 @@ Dicho  documento  de  consulta  representa  a  la  actualidad  uno  de  los  ins
 
 Igualmente,  desde  el  mes  de  octubre  2020,  la  CECC/SICA  junto  a  la  UNESCO  se encuentra ejecutando una consultoría en el tema de educación para la ciudadanía mundial (la  cual  incluye  a  la  República  Dominicana),  y  que  permitirá  la  construcción  de  un documento de política general para guiar a las autoridades educativas de los países de la CECC/SICA en la mejora de la implementación de los programas relativos a la temática.
 
-Como  otra  referencia  que  aportará  en  un  futuro  cercano,  a  la  toma  de  decisiones  del MINERD en lo relativo a la política educativa en ECM y EDS, lo es el Estudio ERCE 2019 del  Laboratorio Latinoamericano de Evaluación de la Calidad de la Educación (LLECE)OREALC/UNESCO- publicado en diciembre 2020, el cual realiza un análisis curricular de los  contenidos  impartidos  en  el  tercer  y  sexto  grado  de  primaria  de  los  países  que conforman a la CECC/SICA, incluyendo aquellos relacionados a la ECM y EDS. Este de la misma manera, constituye un diagnóstico soporte que será utilizado para la coordinación de actividades de la CECC/SICA a fines de la implementación de las Recomendaciones contenidas  en  el  Plan  de  Contingencia  que  refieren  al  Currículo  de  Emergencia  y  la Resolución 24, aprobada por el Consejo de Ministros.
+Como otra referencia que aportará en un futuro cercano, a la toma de decisiones del MINERD en lo relativo a la política educativa en ECM y EDS, lo es el Estudio ERCE 2019 del Laboratorio Latinoamericano de Evaluación de la Calidad de la Educación (LLECE)-OREALC/UNESCO- publicado en diciembre 2020, el cual realiza un análisis curricular de los contenidos impartidos en el tercer y sexto grado de primaria de los países que conforman a la CECC/SICA, incluyendo aquellos relacionados a la ECM y EDS. Este de la
 
 45
 
@@ -1640,7 +1639,9 @@ Como  otra  referencia  que  aportará  en  un  futuro  cercano,  a  la  toma  d
 
 [[START OF PAGE 46]]
 
-En otro orden, el MINERD desde finales del 2020 ha contado con la colaboración de la OEI  para  la  estructuración  de  las  denominadas  Cátedras  Ciudadanas,  y  las  cuales procuran la formación de los estudiantes y docentes en ECM y EDS, en concordancia a las Metas Educativas Iberoamericana 2021, específicamente la relativa a la No. 5 sobre Mejorar la calidad de la educación y que va de la mano a la Meta 4.7 del ODS4 sobre Educación de la ciudadanía para el desarrollo sostenible.  Estas representan una actividad Extracurricular organizada en ámbitos que cubren áreas de la Educación Ciudadana, en su  expresión  Nacional  y  Mundial,  así  como  en  cuanto  al  Desarrollo  Sostenible  y  el Cuidado del Medio Ambiente.
+misma manera, constituye un diagnóstico soporte que será utilizado para la coordinación de actividades de la CECC/SICA a fines de la implementación de las Recomendaciones contenidas en el Plan de Contingencia que refieren al Currículo de Emergencia y la Resolución 24, aprobada por el Consejo de Ministros.
+
+En otro orden, el MINERD desde finales del 2020 ha contado con la colaboración de la OEI para la estructuración de las denominadas Cátedras Ciudadanas, y las cuales procuran la formación de los estudiantes y docentes en ECM y EDS, en concordancia a las Metas Educativas Iberoamericana 2021, específicamente la relativa a la No. 5 sobre Mejorar la calidad de la educación y que va de la mano a la Meta 4.7 del ODS4 sobre Educación de la ciudadanía para el desarrollo sostenible. Estas representan una actividad Extracurricular organizada en ámbitos que cubren áreas de la Educación Ciudadana, en su expresión Nacional y Mundial, así como en cuanto al Desarrollo Sostenible y el Cuidado del Medio Ambiente.
 
 Entre los contenidos están:
 
@@ -1683,7 +1684,7 @@ Otras actividades (especifique cuáles): Apoyo a Formación Docente en ECM y EDS
 
 #### I.1     Por favor indique si su país ha enfrentado alguna limitación en la implementación de la Recomendación de 1974, relacionada particularmente con crisis globales o nacionales, incluyendo desastres naturales.
 
-Desde que el país fue declarado en estado de emergencia debido a la pandemia del Covid19,  a  partir  del  mes  de  marzo  del  2020,  el  sistema  educativo  dominicano  ha  enfrentado limitaciones  para  el  desarrollo  de  prácticas  estudiantiles  y  docentes  relacionadas  con  las competencias  ciudadanas  y  ambientales.  Al  tener  que  asumir  una  educación  a  distancia mediante  plataformas  virtuales,  radio  y  TV  en  todos  los  niveles  educativos,  las  prácticas estudiantiles y docentes han sido compensadas mediante diversas estrategias.
+Desde que el país fue declarado en estado de emergencia debido a la pandemia del Covid-19, a partir del mes de marzo del 2020, el sistema educativo dominicano ha enfrentado limitaciones para el desarrollo de prácticas estudiantiles y docentes relacionadas con las competencias ciudadanas y ambientales. Al tener que asumir una educación a distancia mediante plataformas virtuales, radio y TV en todos los niveles educativos, las prácticas estudiantiles y docentes han sido compensadas mediante diversas estrategias.
 
 #### I.2. Proporcione cualquier otra información o aclaración pertinente sobre la aplicación de la Recomendación de 1974 o la transversalización de la ECM y la EDS en el sistema educativo de su país.
 
