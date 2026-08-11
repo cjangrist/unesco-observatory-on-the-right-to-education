@@ -59,9 +59,9 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 [[START OF PAGE 3]]
 
-- Open-ended  and  closed-ended  questions  to  be  directly  filled  in  by  Member  States through  a  participatory  process.  Please  note  that  multiple  answers  may  be  provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States through a participatory process. Please note that multiple answers may be provided where relevant.
 
-- Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 In their responses, Member States are encouraged to provide information in a concise manner while preserving substantive and relevant content.
 
@@ -75,9 +75,9 @@ Country name: MALTA
 
 Organization or entity responsible for the preparation of the report: Ministry for Education and Employment
 
-## Information on the legislative, judicial, administrative and other measures taken by the state at the national level
+## I. Information on the legislative, judicial, administrative and other measures taken by the state at the national level
 
-### Ratification of the Convention 2
+### 1. Ratification of the Convention 2
 
 Is your country a State Party to the Convention?
 
@@ -111,7 +111,7 @@ http://portal.unesco.org/en/ev.php-URL_ID=12949&URL_DO=DO_TOPIC&URL_SECTION=201.
 
 [[START OF PAGE 5]]
 
-### Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
+### 2. Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
 
 Has your country ratified the Protocol?
 
@@ -119,7 +119,7 @@ x Yes
 
 o No, please briefly explain the difficulties encountered:
 
-### Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
+### 3. Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
 
 #### In case your country is a State Party to the Convention:
 
@@ -167,9 +167,9 @@ If yes, the report could list the main texts adopted to guarantee the right to e
 
 Information supplied could demonstrate how such policies and programmes comply with commitments of the right to education under the Recommendation.
 
-## Information on the implementation of the Convention or Recommendation
+## II. Information on the implementation of the Convention or Recommendation
 
-### Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
+### 1. Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
 
 Articles/Paragraphs  1(1),  2  and  3  of  the  Convention/Recommendation  provide  for  non- discrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
 
@@ -298,11 +298,10 @@ on occurrences of discrimination and instil a sense of respect, fairness and jus
 MCAST seeks to prohibit any form of discrimination through its regulations.
 
 #### 1.2 Please indicate actions taken by your government to guarantee equal access to all levels and types of education in your country (several items could be ticked/mentioned):
-x Constitutional laws and/or legislation guarantee equal access to education x Regulations ensure equal access to all levels and types of education x Policies and programmes ensure equal access to all levels and types of education x Other:
-
-> 6 http://exploremoreproject.eu/en/
-
-> 7 https://education.gov.mt/en/IChoose/Pages/I%20Choose.aspx
+- x Constitutional laws and/or legislation guarantee equal access to education
+- x Regulations ensure equal access to all levels and types of education
+- x Policies and programmes ensure equal access to all levels and types of education
+- x Other:
 
 MT reply:
 
@@ -399,6 +398,10 @@ struggle  with  the  learning  pedagogy  of  mainstream  academic  subjects.  Th
 learners in the vocational subjects is not assessed through formal examinations but through
 
 ongoing assessment by the subject teacher, verified internally by a second subject teacher,
+
+> 6 http://exploremoreproject.eu/en/
+
+> 7 https://education.gov.mt/en/IChoose/Pages/I%20Choose.aspx
 
 [[END OF PAGE 8]]
 
@@ -572,11 +575,19 @@ The MCAST Integration Unit aims at welcoming, integrating and accompanying stude
 
 - x Ensuring gender parity in science, , engineering and mathematics (STEM) and technical and vocational training (TVET)
 
-- x Providing  re-entry  programmes  for  young mothers
+- x Providing re-entry programmes for young mothers
 
 - x Eliminating all barriers for pregnant girls or young mothers in education
 
 o Other:
+
+- x Eliminating administrative barriers to education 9
+
+- x Providing flexible learning pathways
+
+- x Valuing diversity in schools
+
+- x Combatting stereotyping and stigmatisation
 
 MT reply:
 
@@ -604,14 +615,6 @@ Scheme 9: provision of uniform, school lunches, stationery, photocopies, payment
 
 > 9 Administrative barriers to education include, amongst others, lack of identity papers or birth certificates required to enrol.
 
-- x Eliminating administrative barriers to education 9
-
-- x Providing flexible learning pathways
-
-- x Valuing diversity in schools
-
-- x Combatting stereotyping and stigmatisation
-
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
@@ -633,8 +636,10 @@ Yes o No o
 Please provide reference to the relevant laws and provisions:
 
 MT reply:
----
+
 In Malta, marriage cannot take place between persons under the age of 16 and if between 16-18, there has to be parental authorisation for such marriage, or of the Court for Voluntary Jurisdiction.
+
+https://legislation.mt/eli/cap/255/eng/pdf
 
 ### 2. Progress made with respect to implementing the right to education in the context of SDG 4
 
@@ -782,7 +787,7 @@ accordingly a person shall be deemed to be of compulsory school age if he has at
 
 age of five years and has not attained the age of sixteen years or has not yet completed the
 
-last year of secondary school;'
+last year of secondary school;”
 
 Compulsory  education  covers  six  years  of  primary  education  followed  by  five  years  of
 
@@ -811,7 +816,7 @@ secondary and tertiary educational institutions.
 parents).
 
 MT reply:
----
+
 Education Act.
 Third country nationals (TCNs) with a residence permit for 'study' purposes and TCNs residing in Malta under tax incentive schemes pay for tuition fees, but rates are very low.
 Children have access to free, quality, public education. Malta would like to point out that 'access to education' is not tantamount to 'entitlement for free education in a state learning institution.' 'Access to education' only ensures the freedom of registering in a learning institution whether state or private and whether free or against payment.
@@ -1077,14 +1082,12 @@ o Provision of education for persons who have not received or completed the whol
 
 - x Provision of professional training and qualifications
 
-Other:
-
-o
+o Other:
 
 - Please elaborate further on the measures taken:
 
 MT reply:
----
+
 Where applicable third country nationals (TCNs) are exempted from fees.
 ##### Literacy programmes:
 The Reading Recovery programme developed by the National Literacy Agency is a literacy programme aimed at increasing literacy amongst the most vulnerable students. Syllabi have been revised to make them more relevant to the students. Several new vocational and applied subjects have been introduced so as to encourage students to enjoy learning and to further their educational experience. The Reading Recovery programme which is an accredited school-based literacy programme for the lowest achieving children aged five to six. In the scholastic year 2018-2019, University College London, working with the National Literacy Agency, started training educators from the College Literacy Teams as Reading Recovery teachers and Reading Recovery teacher leaders in Malta.
@@ -1323,7 +1326,7 @@ Additionally, Jobsplus in partnership with the Lino Spiteri Foundation, assist p
 
 The aim of this €13 million project is to provide a holistic assessment to participants through multiple training options and professional support which might lead to several employment opportunities. Training opportunities include: pre-employment training (PET) and sheltered employment training (SET).
 
-The Pre-Employment  training assists  disadvantaged  jobseekers  including  persons  with disability to acquire pre-employment skills in order to adapt to labour market changes and requirements.  Currently  there  are  three  (3)  accredited  courses  offered;  Award  in  PreEmployment  Skills,  Award  in  Basic  Clerical  and  Award  in  Life  and  Communication Skills.  Another   course offered is Basic ICT.
+The Pre-Employment training assists disadvantaged jobseekers including persons with disability to acquire pre-employment skills in order to adapt to labour market changes and requirements. Currently there are three (3) accredited courses offered; Award in Pre-Employment Skills, Award in Basic Clerical and Award in Life and Communication Skills. Another course offered is Basic ICT.
 
 The Sheltered Employment Training (SET) is  a  one-year programme aimed at preparing individuals  with  mental,  physical  and/or  intellectual  disabilities  for  employment.  The  job coaches  assist  the  clients  through  hands-on  work-related  training  and  other  training  to enhance their soft skills including their work ethics, independent living, communication and social skills.
 
@@ -1513,7 +1516,7 @@ The board of exemption of fees in state educational institutions within MEDE suc
 
 #### 2.10  Rights of refugees and migrants
 
-The rights of refugees and migrants are not explicitly provided for in the Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in education based notably on national origin. 16 In this context,  a  number  of  Member  States  that  participated  in  the  9 th Consultation  reported  on measures adopted to ensure refugees' and migrants' right to education. Growing displacement and influx of refugees worldwide and the emergence of major educational challenges in this area,  as  well  as  the  frameworks  recently  adopted  by  the  international  community, 17 demonstrate the opportunity for states to report on measures adopted to include refugees and migrants in their educational systems.
+The rights of refugees and migrants are not explicitly provided for in the Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in education based notably on national origin. 16 In this context,  a  number  of  Member  States  that  participated  in  the  9th Consultation  reported  on measures adopted to ensure refugees' and migrants' right to education. Growing displacement and influx of refugees worldwide and the emergence of major educational challenges in this area,  as  well  as  the  frameworks  recently  adopted  by  the  international  community, 17 demonstrate the opportunity for states to report on measures adopted to include refugees and migrants in their educational systems.
 
 Besides, this aspect also corresponds to SDG target 4.5, which calls on states to 'ensure equal access to all levels of education and vocational training for the vulnerable', including 'children in vulnerable situations', and covers the majority of SDG4 targets.
 
@@ -1538,44 +1541,25 @@ The Respect for All Framework;
 Policy of the board of exemption of fees in state educational institutions (revised 2017).
 
 - Please briefly indicate measures adopted by national and local authorities to ensure refugees'
-
 and migrants' right to education (several items could be ticked/mentioned):
 
-Inclusion in mainstream education
+x Inclusion in mainstream education
 
-x
+x Provision of language courses
 
-Provision of language courses
+x Specific training for educational staff
 
-x
+x Initiatives addressing discrimination and promoting cultural diversity and mutual acceptance
 
-Specific training for educational staff
+o Alternative administrative procedure (placement tests, portfolio of evidence, etc.)
 
-x
+o Accelerated learning programmes
 
-Initiatives addressing discrimination and promoting cultural diversity and mutual acceptance
+x Non-formal and/or alternative education programmes
 
-x
+x Financial support
 
-Alternative administrative procedure (placement tests, portfolio of evidence, etc.)
-
-o
-
-Accelerated learning programmes
-
-o
-
-Non-formal and/or alternative education programmes
-
-x
-
-Financial support
-
-x
-
-Other innovative measures:
-
-o
+o Other innovative measures:
 
 MT reply:
 
@@ -1620,9 +1604,11 @@ learning in the building and construction sector as per S.L 327.433.
 Please briefly elaborate further on the measures taken:
 
 MT reply:
----
+
 ##### At compulsory education level:
-The Migrant Learners Unit within the Ministry for Education and Employment (MEDE) works on: - the registration of third country nationals for state schooling in Malta;
+
+The Migrant Learners Unit within the Ministry for Education and Employment (MEDE) works on:
+- the registration of third country nationals for state schooling in Malta;
 
 [[END OF PAGE 30]]
 
@@ -1652,7 +1638,7 @@ administrative group;
 
 The  Malta  College  of  Arts,  Science  and  Technology  (MCAST)  provides  Maltese  as  a Foreign Language as part of the structures where Maltese is one of the core subjects (at Malta Qualifications Framework level 1 to level 3 programmes).  Where not part of the structure, Maltese as a Foreign Language can be taken by students on a voluntary basis. This  subject  is  accredited  at  the  level  taken.  Additional  support  in  English/Maltese  is provided upon request through the MCAST Learning Support Unit (LSU). Other languages including  Italian,  French,  German  and  Spanish  as  foreign  languages  are  offered  on  a voluntary basis.
 
-## Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
+## III. Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
 
 ### 1. Challenges and obstacles
 
@@ -1956,8 +1942,6 @@ x Challenges related to the quality of education (such as shortages of qualified
 
 [[START OF PAGE 34]]
 
-### 2. Awareness-raising
-
 MT reply:
 
 Schools as well as entities such as the Institute for Education and the Migrant Learners' Unit (MLU) within the Ministry for Education and Employment (MEDE) are undertaking significant steps to provide high level continuous professional development (CPD) to improve the level of preparedness of the educational staff to ensure that the education system promotes a culture of dialogue and democratic values, creating a space for community building at the national level.
@@ -1971,6 +1955,8 @@ o Other:
 MT reply:
 
 The recruitment of a community liaison team has really been an effective initiative which has given the Migrant Learners Unit within the Ministry for Education and Employment (MEDE) great insights and facilitated the link with the families and the school.
+
+### 2. Awareness-raising
 
 UNESCO  governing  bodies  have  underlined  the  need  for  awareness  raising.  Given  the importance of normative action at the national level, wide dissemination of the Convention must be ensured, with the support of National Commissions for UNESCO.
 
@@ -1991,7 +1977,7 @@ o Other:
 [[START OF PAGE 35]]
 
 MT reply:
----
+
 The principles advocated by the 1960 Convention and Recommendation against discrimination in education are promoted through Malta's Policy on Inclusive Education in Schools - Route to Quality Inclusion (2019).
 
 [[END OF PAGE 35]]
