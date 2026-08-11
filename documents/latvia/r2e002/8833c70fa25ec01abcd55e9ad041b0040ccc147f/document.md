@@ -4,9 +4,12 @@ Vocational education law
 
 Page 1 of 16
 
+Latvijas Republikas Izglītības un
+Zinātnes ministrija
+
 Vocational education law
 
-Text consolidated by Tulkošanas un terminolo ģ ijas centrs (Translation and Terminology Centre) with amending laws of:
+Text consolidated by Tulkošanas un terminoloģijas centrs (Translation and Terminology Centre) with amending laws of:
 
 5 July 2001.
 
@@ -118,7 +121,7 @@ Page 3 of 16
 
 #### Section 5.        Levels of Vocational Qualification
 
-There are five levels of vocational qualifications specified in the education system of Latvia (hereinafter qualification levels):
+There are five levels of vocational qualifications specified in the education system of Latvia (hereinafter – qualification levels):
 
 - the first qualification level - theoretical and practical training, which provides an opportunity to perform simple tasks in a specific sphere of practical operation;
 
@@ -184,13 +187,13 @@ The Cabinet shall:
 
 - determine profession standards and the procedures for development thereof;
 
-[5 July 2001];
+3) [5 July 2001];
 
 - determine the organisational procedures for in-service training;
 
 - determine the form of State-recognised vocational qualification documents, issuance criteria and procedures, as well as the form of documents certifying vocational in-service training and vocational oriented education and the issuance procedures thereof;
 
-[5 July 2001];
+6) [5 July 2001];
 
 - determine procedures by which examination centres shall be accredited in which centralised examinations of vocational qualification are to be administered; and
 
@@ -294,7 +297,7 @@ Page 6 of 16
 
 - to participate in the drawing up of conceptual issues and to draft regulatory enactments in the field of vocational education, create and implement vocational education strategy and policy, planning of the State remit and the direction of development of the sector;
 
-- to perform market intelligence and planning of the direction of development of vocational education in cooperation with State and local government institutions;
+- to perform market intelligence and planning of the direction of development of vocational education in co-operation with State and local government institutions;
 
 - to participate in the drawing up of profession standards and education programmes, the implementation of vocational education, ensuring the necessary work conditions for students at the traineeship placement, as well
 
@@ -312,7 +315,7 @@ Page 7 of 16
 
 as to participate in the provision and evaluation of the quality of vocational education; and
 
-- to participate in work of State, local government, trade union, employer and other public organisation cooperation councils, councils of vocational education institutions and in the work of other institutions promoting vocational education.
+- to participate in work of State, local government, trade union, employer and other public organisation co-operation councils, councils of vocational education institutions and in the work of other institutions promoting vocational education.
 
 - The performance of particular functions of vocational education administration and support may be delegated to public organisations in accordance with the procedures prescribed by the Cabinet, co-ordinating it with the Vocational Education Co-operation Council and providing the relevant financing.
 
@@ -438,7 +441,7 @@ A person shall have the right to work as a teacher in a vocational education ins
 
 #### Section 19.      Vocational qualification of Teachers at a Vocational Education Institution
 
-The vocational qualification of a teacher of a vocational education institution shall be certified by the documents recognised by the State regarding an appropriate vocational education (qualification) and pedagogical education .
+The vocational qualification of a teacher of a vocational education institution shall be certified by the documents recognised by the State regarding an appropriate vocational education (qualification) and pedagogical
 
 http://izm.izm.gov.lv/laws-regulations/2290.html?print=1
 
@@ -451,6 +454,8 @@ http://izm.izm.gov.lv/laws-regulations/2290.html?print=1
 Vocational education law
 
 Page 10 of 16
+
+education .
 
 #### Section 20.      Remuneration for Work by a Teacher of a Vocational Education Institution
 
@@ -500,7 +505,7 @@ Vocational education law
 
 Page 11 of 16
 
-- The State vocational education standards determined by law - the State vocational education standard, the State vocational secondary education standard and the State first level higher vocational education standard in accordance with the educational level shall be determined by:
+- The State vocational education standards determined by law – the State vocational education standard, the State vocational secondary education standard and the State first level higher vocational education standard – in accordance with the educational level shall be determined by:
 
 - the strategic objectives of the educational programmes;
 
@@ -516,7 +521,7 @@ Page 11 of 16
 
 - The profession standards shall be determined by laws or Cabinet regulations. The authorities authorised by law or Cabinet regulations may determine profession standards.
 
-- The drawing up of profession standards shall be organised by the Ministry of Education Science in cooperation with the Vocational Education Co-operation Council.
+- The drawing up of profession standards shall be organised by the Ministry of Education Science in co-operation with the Vocational Education Co-operation Council.
 
 [5 July 2001]
 
@@ -620,7 +625,7 @@ Page 13 of 16
 
 - the duration of acquisition of a vocational basic education - not more than three years;
 
-- the duration of acquisition of a vocational secondary education after the acquisition of an primary education three to four years; after the acquisition of a vocational basic education - one to two years; and
+- the duration of acquisition of a vocational secondary education after the acquisition of an primary education – three to four years; after the acquisition of a vocational basic education – one to two years; and
 
 - the duration of acquisition of a first level higher vocational education - two to three years.
 
@@ -764,11 +769,13 @@ This Law was adopted by the Saeima on 10 June 1999.
 
 President                                                                                                                      G. Ulmanis
 
-R ī ga, 30 June 1999
+Rīga, 30 June 1999
 
-P ē d ē jo reizi atjaunota: 15/09/2008 Unik ā lie apmekl ē t ā ji - šodien: 1057, kop ā : 112272
+Pēdējo reizi atjaunota: 15/09/2008
+Unikālie apmeklētāji - šodien: 1057, kopā: 112272
 
-Valnu street 2, Riga, LV-1050, Latvia Phone: +371 67226209 Fax: +371 67223905 info@izm.gov.lv Copyright © Ministry of Education and Science Republic of Latvia
+Vaļņu street 2, Rīga, LV-1050, Latvia Phone: +371 67226209 Fax: +371 67223905 info@izm.gov.lv
+Copyright © Ministry of Education and Science Republic of Latvia
 
 Questions and suggestions regarding the website please send to webmaster@izm.gov.lv
 
