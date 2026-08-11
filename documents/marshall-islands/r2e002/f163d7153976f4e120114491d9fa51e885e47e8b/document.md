@@ -14,6 +14,70 @@ ________________________________________________________________________________
 
 Section
 
+### PART I - PRELIMINARY
+
+§301 . Short Title.
+
+§302 .  Policy.
+
+§303 . Interpretation
+
+### PART II- DEPARTMENT OF EDUCATION
+
+§304. Department of Education Established
+
+§305 . Minister and Secretary of Education;
+
+Duties and Functions.
+
+§306 . Staff.
+
+### PART III- NATIONAL AND LOCAL BOARDS OF EDUCATION .
+
+§307 . National Board of Education.
+
+§308 . Membership; Terms; Vacancies;
+
+Compensation.
+
+§309 .  Meetings, Bylaws and Procedures.
+
+§310. Functions of the Board.
+
+§311 . Local Boards of Education.
+
+§312. Functions of Local Boards.
+
+§313 . Local Board Reports.
+
+§314 . Department of Education.
+
+### PART IV- EDUCATIONAL POLICIES AND STANDARDS
+
+#### Division 1 - Educational Standards
+
+§315 . Goal.
+
+§316 . Guidelines.
+
+§317 . Curriculum.
+
+§318 .Textbooks and Materials.
+
+#### Division 2 - School Year and Attendance
+
+§319. School Year.
+
+§320 . Attendance.
+
+§321 . School Attendance Area.
+
+§322 . Parent's or Guardian's Responsibility
+
+for Child's Attendance.
+
+Section
+
 #### Division 3 - Student Progress and Conduct
 
 §323. Student Assessment and progress.
@@ -78,70 +142,6 @@ Section
 
 §348 . Payments into the Fund.
 
-Section
-
-### PART I - PRELIMINARY
-
-§301 . Short Title.
-
-§302 .  Policy.
-
-§303 . Interpretation
-
-### PART II- DEPARTMENT OF EDUCATION
-
-§304. Department of Education Established
-
-§305 . Minister and Secretary of Education;
-
-Duties and Functions.
-
-§306 . Staff.
-
-### PART III- NATIONAL AND LOCAL BOARDS OF EDUCATION .
-
-§307 . National Board of Education.
-
-§308 . Membership; Terms; Vacancies;
-
-Compensation.
-
-§309 .  Meetings, Bylaws and Procedures.
-
-§310. Functions of the Board.
-
-§311 . Local Boards of Education.
-
-§312. Functions of Local Boards.
-
-§313 . Local Board Reports.
-
-§314 . Department of Education.
-
-### PART IV- EDUCATIONAL POLICIES AND STANDARDS
-
-#### Division 1 - Educational Standards
-
-§315 . Goal.
-
-§316 . Guidelines.
-
-§317 . Curriculum.
-
-§318 .Textbooks and Materials.
-
-#### Division 2 - School Year and Attendance
-
-§319. School Year.
-
-§320 . Attendance.
-
-§321 . School Attendance Area.
-
-§322 . Parent's or Guardian's Responsibility
-
-for Child's Attendance.
-
 617
 
 [[END OF PAGE 1]]
@@ -160,15 +160,15 @@ ________________________________________________________________________________
 
 §351. Budget
 
+### PART VII- MISCELLANEOUS
+
+352. School Property.
+
 §353 . Exemptions for Nonpublic Schools.
 
 §354 . Rules and Regulations.
 
 §355 . Effective Date.
-
-### PART VII- MISCELLANEOUS
-
-352. School Property.
 
 ______________________________________________________________________________
 
@@ -193,13 +193,13 @@ This Chapter may be cited as the Education Act 1991. [P.L. 1991-125, §1.]
 
 The Nitijela of the Marshall Islands declares and recognizes the following:
 
-- the right of the people to education and the obligation of the Government to take every step reasonable and necessary to provide these services, consistent with Article II, Section 17 of the Constitution;
+(1) the right of the people to education and the obligation of the Government to take every step reasonable and necessary to provide these services, consistent with Article II, Section 17 of the Constitution;
 
-- the Cabinet's responsibility for establishing and maintaining such schools and for making such other provision as may be reasonable and necessary to provide educational opportunities for the people of the Marshall Islands, consistent with Article V, Section 1(3)(h) of the Constitution:
+(2) the Cabinet's responsibility for establishing and maintaining such schools and for making such other provision as may be reasonable and necessary to provide educational opportunities for the people of the Marshall Islands, consistent with Article V, Section 1(3)(h) of the Constitution:
 
-- the need to encourage citizen involvement in educational matters by providing for schools that guarantee and support local participation consistent with the goal of a thorough and efficient system of education serving all of the children of the Republic; and
+(3) the need to encourage citizen involvement in educational matters by providing for schools that guarantee and support local participation consistent with the goal of a thorough and efficient system of education serving all of the children of the Republic; and
 
-- that the goal of education in the Republic shall be to foster self-reliance, and that all educational programs and curricula be structured to further this goal. [P.L. 1991-125, §2.]
+(4) that the goal of education in the Republic shall be to foster self-reliance, and that all educational programs and curricula be structured to further this goal. [P.L. 1991-125, §2.]
 
 618
 
@@ -345,7 +345,7 @@ The National Board of Education (here in after, 'Board' or 'National Board') is 
 
 ##### §308 . Membership; Terms; Vacancies; Compensation.
 
-- The Board shall consist of the following seven (7) members:
+(1) The Board shall consist of the following seven (7) members:
 
 (a) the Secretary of Education, who shall serve as the Chairman of the Board;
 
@@ -389,27 +389,27 @@ by the Cabinet for all reasonable and necessary expenses incurred in the perform
 
 (1) The Board shall meet not less than four (4) times per year. The members shall be notified in writing by the Chairman or other person designated by the Board at least one week before the date of any meeting.
 
-(2) Subject to this Chapter and any other law of the Board shall determine its own bylaws, which shall provide for the quorum and the conduct of meetings; the appointment and duties of a Vice-Chairman and Secretary of the Board, and any other matters relating to the Board and its operations and procedures which it deems appropriate. [P.1. 1991-125,  §9.]
+(2) Subject to this Chapter and any other law of the Board shall determine its own bylaws, which shall provide for the quorum and the conduct of meetings; the appointment and duties of a Vice-Chairman and Secretary of the Board, and any other matters relating to the Board and its operations and procedures which it deems appropriate. [P.L. 1991-125,  §9.]
 
 ##### §310 . Functions of the Board.
 
 The Board shall advise the Minister regarding the following areas relating to elementary and secondary education in the Republic:
 
-- public school curricula;
+(1) public school curricula;
 
-- educational standards;
+(2) educational standards;
 
-- teacher certification standards;
+(3) teacher certification standards;
 
-- the development of the College of  Marshall Islands;
+(4) the development of the College of  Marshall Islands;
 
-- the budget submissions of the Department of Education;
+(5) the budget submissions of the Department of Education;
 
-- standards for the granting of nonpublic school charters:
+(6) standards for the granting of nonpublic school charters:
 
-- the establishment of new public schools;
+(7) the establishment of new public schools;
 
-- national goals, guidelines and standards established under this Chapter;
+(8) national goals, guidelines and standards established under this Chapter;
 
 (9) requests, comments and recommendations from Local Boards, parent-teacher
 
@@ -509,7 +509,7 @@ ________________________________________________________________________________
 
 (f)  addressing  any  other  national  or  local  educational  problems  and  providing recommendations for improving the educational system in the Republic.
 
-(2) In addition to the items specified in Subsection (1) this Section, the Department shall include  an  account  of  the  progress  of  each  Local  Board  in  meeting  the  goals,  objectives  and standards prescribed under this Chapter, identify those Local Boards and schools which fail to meet them, and make recommendations, if necessary, for eliminating any deficiencies. [P.L. 1 991-125, §14.]
+(2) In addition to the items specified in Subsection (1) this Section, the Department shall include  an  account  of  the  progress  of  each  Local  Board  in  meeting  the  goals,  objectives  and standards prescribed under this Chapter, identify those Local Boards and schools which fail to meet them, and make recommendations, if necessary, for eliminating any deficiencies. [P.L. 1991-125, §14.]
 
 ### PART IV - EDUCATION POLICIES AND STANDARDS
 
@@ -563,7 +563,7 @@ educational goal provided in Section 315 and for the implementation of this Chap
 
 (k) an adequate program of research and development; and
 
-(1) evaluation and monitoring programs at both the national and local levels.
+(l) evaluation and monitoring programs at both the national and local levels.
 
 [P.L. 1991-125,   §16.]
 
@@ -823,7 +823,7 @@ ________________________________________________________________________________
 
 (c) assess the degree to which the educational objectives have been achieved; and
 
-(d) monitor compliance with national standards and procedures. [P.L. 1 991-125, §44.]
+(d) monitor compliance with national standards and procedures. [P.L. 1991-125, §44.]
 
 ##### §345. Certification
 
@@ -887,7 +887,7 @@ ________________________________________________________________________________
 
 (2) The accounts to be laid before the Nitijela by the Minister of Finance under Article VIII, Section 5(4) of the Constitution shall include accounts relating to the Education Fund.
 
-(3) The accounts and records maintained under Section (1) of this Section shall be audited by the Auditor-General as provided for under Article VIII, Section 15 of the Constitution. [this section was originally §351, re-numbered as  §350,as the original  §350 was repealed by  P.L. 1 994-99,§3(21)(e).]
+(3) The accounts and records maintained under Section (1) of this Section shall be audited by the Auditor-General as provided for under Article VIII, Section 15 of the Constitution. [this section was originally §351, re-numbered as  §350,as the original  §350 was repealed by  P.L. 1994-99,§3(21)(e).]
 
 ##### §351. Budget
 
