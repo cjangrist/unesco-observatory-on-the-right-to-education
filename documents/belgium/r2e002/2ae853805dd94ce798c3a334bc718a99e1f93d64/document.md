@@ -12,6 +12,55 @@ intitulé remplacé par L. 06-07-1970; 11-07-1973
 
 L. 29-05-1959 M.B. 19-06-1959
 
+modifications:
+1. L. 29-07-61 (M.B. 31-08-61)
+2. L. 27-06 62 (M.B. 14-07-62)
+3. L. 20-02-70 (M.B. 18-06-70)
+4. L. 02-06-70 (M.B. 09-01-71)
+5. L. 06-07-70 (M.B. 25-08-70)
+6. L. 25-05-71 (M.B. 10- 07-71)
+7. L. 11-07-73 (M.B. 30-08-73)
+8. L. 17-01-74 (M.B. 11-04-74)
+9. L. 10-12-74 (M.B. 14-01-75)
+10. L. 14-07-75 (M.B. 13-08-75)
+11. L. 29-08-77 (M.B. 10-11-77)
+12. L. 22-12-77 (M.B. 24-12-77)
+13. L. 20-02-78 (M.B. 11-03-78)
+14. L. 05-08-78 (M.B. 17-08-78)
+15. L. 08-08-80 (M.B. 15-08-80)
+16. L. 18-09-81 (M.B. 15-10-81)
+17. A.R. n°47 du 10-06-82 (M.B. 15-06-82)
+18. A.R. n°62 du 20-07-82 (M.B. 29-07-82)
+19. L. 29-06-83 (M.B. 06-07-83)
+20. L. 01-08-85 (M.B. 06-08-85)
+21. A.R. n°411 du 25-04-86 (M.B. 10-05-86)
+22. A.R. n°413 du 29-04-86 (M.B. 17-05-86)
+23. L. 04-08-86 (M.B. 15-08-86)
+24. A.R. n°438 du 11-08-86 (M.B. 30-08-86)
+25. A.R. n°439 du 11-08-86 (M.B. 30-08-86)
+26. A.R. n°447 du 20-08-86 (M.B. 30-08-86)
+27. A.R. n°456 du 10-09-86 (M.B. 30-09-86)
+28. A.R. n°459 du 10-09-86 (M.B. 30-09-86)
+29. A.R. n°462 du 17-09-86 (M.B. 18-10-86)
+30. A.R. n°468 du 09-10-86 (M.B. 25-10-86)
+31. A.R. n°505 du 31-12-86 (M.B. 23-01-87)
+32. L. 30-07-87 (M.B. 06-08-87, erratum 12-09-87)
+33. L. 07-11-87 (M.B. 17-11-87)
+34. L. 01-08-88 (M.B. 02-09-88)
+35. D. 05-02-90 (M.B. 28-02-90)
+36. D. 12-07-90 (M.B. 26-10-90)
+37. D. 16-04-91 (M.B. 25-06-91)
+38. D. 19-07-91 (M.B. 26-09-91)
+39. L. 20-07-91 (M.B. 01-08-91)
+40. D. 26-06-92 (M.B. 10-09-92)
+41. D. 01-02-93 (M.B. 17-02-93)
+42. D. 27-10-94 (M.B. 10-12-94)
+43. D. 10-04-95 (M.B. 16-06-95)
+44. D. 09-09-96 (M.B. 15-10-96)
+45. D. 02-12-96 (M.B. 31-01-97)
+46. D. 14-07-97 (M.B. 01-10-97)
+47. D. 24-07-97 (M.B. 23-09-97)
+
 L. 29-05-1959 mis à jour au 24/02/2011
 
 Centre de documentation administrative Secrétariat général
@@ -62,39 +111,39 @@ Le pouvoir organisateur d'un établissement d'enseignement est l'autorité, la o
 
 Parmi les écoles citées ci-dessus :
 
-- sont  neutres  celles  qui  respectent  le  décret  du  31  mars  1994  définissant  la neutralité  de  l'enseignement  de  la  Communauté  et  réputées  neutres  celles  qui respectent  le  décret  du  17  décembre  2003  organisant  la  neutralité  inhérente  à l'enseignement officiel subventionné et portant diverses mesures en matières d'enseignement.
+a) sont neutres celles qui respectent le décret du 31 mars 1994 définissant la neutralité de l'enseignement de la Communauté et réputées neutres celles qui respectent le décret du 17 décembre 2003 organisant la neutralité inhérente à l'enseignement officiel subventionné et portant diverses mesures en matières d'enseignement.
 
-- sont pluralistes, celles :
+b) sont pluralistes, celles :
 
-- qui  sont  reconnues comme telles par un Conseil de l'Enseignement pluraliste, dont la  compétence, la  composition  et  le  fonctionnement  sont  déterminés  par  arrêté royal délibéré en Conseil des Ministres. (voir A.R. 12-01-81 (08173))
+- qui sont reconnues comme telles par un Conseil de l'Enseignement pluraliste, dont la compétence, la composition et le fonctionnement sont déterminés par arrêté royal délibéré en Conseil des Ministres. (voir A.R. 12-01-81 (08173))
 
-La  composition  de  ce  Conseil  sera  réglée  de  manière  qu'aucune  tendance philosophique ou religieuse n'y dispose de la majorité.
+La composition de ce Conseil sera réglée de manière qu'aucune tendance philosophique ou religieuse n'y dispose de la majorité.
 
 - qui adoptent le statut d'établissement d'utilité publique et
 
 - qui satisfont aux exigences de pluralité et de pluralisme qui suivent :
 
-- être  administrées  par  un  organe  composé  de  manière  à  représenter  la diversité des tendances représentatives existant dans la communauté concernée.
+1. être administrées par un organe composé de manière à représenter la diversité des tendances représentatives existant dans la communauté concernée.
 
-La composition de cet organe doit être approuvée par le Conseil de l'enseignement  pluraliste,  qui  veille  à  ce  qu'aucune  tendance  philosophique  ou religieuse n'y dispose de la majorité.
+La composition de cet organe doit être approuvée par le Conseil de l'enseignement pluraliste, qui veille à ce qu'aucune tendance philosophique ou religieuse n'y dispose de la majorité.
 
-- disposer  d'un  personnel  directeur  et  enseignant,  auxiliaire    d'éducation, médical et paramédical, social et psychologique qui adhère à la charte de l'enseignement pluraliste.
+2. disposer d'un personnel directeur et enseignant, auxiliaire d'éducation, médical et paramédical, social et psychologique qui adhère à la charte de l'enseignement pluraliste.
 
 Cette adhésion prend la forme d'une déclaration signée et actée.
 
 L'organe visé au point 1° procède au recrutement du personnel nécessaire; il ne peut le nommer définitivement que sur avis favorable du Conseil de l'enseignement pluraliste.
 
-- être accessibles à tous sans discrimination.
+3. être accessibles à tous sans discrimination.
 
-- se  donner  un  projet  éducatif  et  pédagogique  qui  corresponde  à  l'esprit  de l'enseignement pluraliste tel que le définit sa charte et qui est caractérisé entre autres par:
+4. se donner un projet éducatif et pédagogique qui corresponde à l'esprit de l'enseignement pluraliste tel que le définit sa charte et qui est caractérisé entre autres par:
 
 - le libre choix des parents entre le cours de religion et de morale d'un des cultes reconnus, et le cours de morale non confessionnelle;
 
-- un esprit ouvert qui reconnaît la diversité des opinions et des  attitudes, l'apprécie positivement et, la dépassant, met l'accent sur les valeurs communes;
+- un esprit ouvert qui reconnaît la diversité des opinions et des attitudes, l'apprécie positivement et, la dépassant, met l'accent sur les valeurs communes;
 
 - la liberté pour le membre du personnel de faire connaître en s'abstenant de tout prosélytisme et en respectant le développement de la personnalité de l'élève, son engagement personnel, dans la mesure où cette attitude est conciliable avec la tâche qui lui est dévolue en matière d'éducation.
 
-- être organisées de manière telle que, dans les conditions à fixer par le Roi, la
+5. être organisées de manière telle que, dans les conditions à fixer par le Roi, la
 
 Centre de documentation administrative Secrétariat général
 
@@ -230,7 +279,7 @@ II.A.01 p.6
 
 - 17° élève de l'enseignement de promotion sociale :
 
-- dans l'enseignement de régime 1 :
+a) dans l'enseignement de régime 1 :
 
 - pour les cours de pratique professionnelle nursing et industriel : 0,37 EUR, par période;
 
@@ -248,7 +297,7 @@ II.A.01 p.6
 
 -pour  la supervision  des stages : 1,68 EUR  par  élève  bénéficiant  de  la supervision;
 
-- dans l'enseignement de régime 2, pour un nombre de périodes limité à 320 par élève,
+b) dans l'enseignement de régime 2, pour un nombre de périodes limité à 320 par élève,
 
 - pour les cours de pratique professionnelle en commerce,  administration, organisation et français pour étranger : 0,35 EUR, par période;
 
@@ -304,17 +353,17 @@ II.A.01 p.7
 
 - 5 % pour les écoles fondamentales, à l'exception des implantations en discriminations positives qui bénéficieront de 6,15 % d'augmentation;
 
-8 o  en 2010 de :
+8° en 2010 de :
 
-- 0,4557  %  pour  les  écoles autres  que  fondamentales,  à  l'exception des implantations des classes numérotées 1 à 3a conformément à l'article 4, alinéa 5, du décret du 30 avril 2009 organisant un encadrement différencié au sein des établissements  scolaires  de  la  Communauté  française  afin  d'assurer  à  chaque  élève des  chances  égales  d'émancipation  sociale  dans  un  environnement  pédagogique  de qualité qui bénéficieront de 1,4557 % d'augmentation;
+a) 0,4557 % pour les écoles autres que fondamentales, à l'exception des implantations des classes numérotées 1 à 3a conformément à l'article 4, alinéa 5, du décret du 30 avril 2009 organisant un encadrement différencié au sein des établissements scolaires de la Communauté française afin d'assurer à chaque élève des chances égales d'émancipation sociale dans un environnement pédagogique de qualité qui bénéficieront de 1,4557 % d'augmentation;
 
-- 7,8157  %  pour  les  écoles  fondamentales,  à  l'exception  des  implantations  en discriminations positives qui bénéficieront de 8,9457 % d'augmentation.
+b) 7,8157 % pour les écoles fondamentales, à l'exception des implantations en discriminations positives qui bénéficieront de 8,9457 % d'augmentation.
 
-9 o  en 2011 de 0 % pour toutes les écoles concernées et implantations concernées par le présent article.
+9° en 2011 de 0 % pour toutes les écoles concernées et implantations concernées par le présent article.
 
-- 10 o  en 2012 de :
+10° en 2012 de :
 
-- 2,0130  %  pour  les  écoles autres  que  fondamentales,  à  l'exception des implantations :
+a) 2,0130 % pour les écoles autres que fondamentales, à l'exception des implantations :
 
 -des classes numérotées 1 à 3a conformément à l'article 4, alinéa 5, du décret du 30 avril 2009 précité qui bénéficieront de 1,9993 % d'augmentation;
 
@@ -334,7 +383,7 @@ II.A.01 p.7
 
 - de la classe numérotée 20 conformément à l'article 4, alinéa 5 du décret du 30 avril 2009 précité qui subiront une réduction de 0,035 %;
 
-- 1,8756 % pour les écoles fondamentales, à l'exception des implantations :
+b) 1,8756 % pour les écoles fondamentales, à l'exception des implantations :
 
 - des classes numérotées 1 à 3a conformément à l'article 4, alinéa 5, du décret du 30 avril 2009 précité qui bénéficieront de 1,8561 % d'augmentation;
 
@@ -360,6 +409,8 @@ Enseignement en général
 
 Lois 05108
 
+II.A.01 p.8
+
 avril 2009 précité qui bénéficieront de 0,4859 % d'augmentation;
 
 - de la classe numérotée 18 conformément à l'article 4, alinéa 5 du décret du 30 avril 2009 précité qui bénéficieront de 0,2665 % d'augmentation;
@@ -368,9 +419,9 @@ avril 2009 précité qui bénéficieront de 0,4859 % d'augmentation;
 
 - de la classe numérotée 20 conformément à l'article 4, alinéa 5 du décret du 30 avril 2009 précité qui subiront une réduction de 0,1724 %;
 
-- 11 o  en 2013 de :
+11° en 2013 de :
 
-- 1,9733  %  pour  les  écoles autres  que  fondamentales,  à  l'exception des implantations :
+a) 1,9733 % pour les écoles autres que fondamentales, à l'exception des implantations :
 
 - des classes numérotées 1 à 3a conformément à l'article 4, alinéa 5, du décret du 30 avril 2009 précité qui bénéficieront de 1,9480 % d'augmentation;
 
@@ -390,7 +441,7 @@ avril 2009 précité qui bénéficieront de 0,4859 % d'augmentation;
 
 - de la classe numérotée 20 conformément à l'article 4, alinéa 5 du décret du 30 avril 2009 précité qui bénéficieront de 2,0137 % d'augmentation;
 
-- 1,8410 % pour les écoles fondamentales, à l'exception des implantations :
+b) 1,8410 % pour les écoles fondamentales, à l'exception des implantations :
 
 - des classes numérotées 1 à 3a conformément à l'article 4, alinéa 5, du décret du 30 avril 2009 précité qui bénéficieront de 1,8223 % d'augmentation;
 
@@ -416,10 +467,6 @@ Complémentairement  aux  augmentations  visées  à  l'alinéa  6,  les  dotati
 Chaque  établissement  reçoit  75  %  de  la  dotation  forfaitaire  établie conformément au § 3. Pour l'enseignement fondamental et l'enseignement secondaire,
 
 L. 29-05-1959 mis à jour au 24/02/2011
-
-II.A.01
-
-p.8
 
 Centre de documentation administrative Secrétariat général
 
@@ -470,7 +517,10 @@ II.A.01 p.10
 Par dérogation aux alinéas 1er et 2, de nouvelles sections de haute fréquence du cycle  supérieur  de  l'enseignement  secondaire  professionnel  ainsi  que  des  septièmes années de l'enseignement secondaire professionnel peuvent être créées ou subventionnées par l'Etat, à partir de l'année scolaire 1987-1988, dans un établissement d'enseignement secondaire de type II appartenant à un centre d'enseignement.
 
 ##### § 5. -
-Le calcul des dotations et subventions de fonctionnement des écoles, tel que fixé  par  le  présent  article,  prend  en  compte  88,6  %  des  élèves  de  l'enseignement maternel ordinaire, organisé et subventionné par la Communauté française, régulièrement inscrits à la date du 15 janvier.
+Le calcul des dotations et subventions de fonctionnement des écoles, tel que fixé par le présent article, prend en compte 88,6 % des élèves de l'enseignement maternel ordinaire, organisé et subventionné par la Communauté française, régulièrement inscrits à la date du 15 janvier.
+
+modifié par L. 11-07-1973; L. 14-07-1975; A.R. n°468 du 09-10-1986;
+D. 27-10-1994 ; D. 17-12-2003
 
 #### Article  4.
 Le  droit  des  parents  de  choisir  le  genre  d'éducation  de  leurs  enfants implique la possibilité de disposer à une distance raisonnable d'une école correspondant à leur choix.
@@ -532,19 +582,19 @@ Le Gouvernement reconnaît comme organe de représentation et de coordination to
 
 - 1° affilier au minimum 20 % de l'ensemble des pouvoirs organisateurs, au sein d'un même réseau et d'un même caractère, des trois premières des catégories suivantes :
 
-- pouvoirs  organisateurs  organisant  des  écoles  d'enseignement  fondamental, primaire et maternel ordinaire;
+a) pouvoirs organisateurs organisant des écoles d'enseignement fondamental, primaire et maternel ordinaire;
 
-- pouvoirs  organisateurs  organisant  des  écoles  d'enseignement  secondaire ordinaire;
+b) pouvoirs organisateurs organisant des écoles d'enseignement secondaire ordinaire;
 
-- pouvoirs organisateurs organisant des écoles d'enseignement spécialisé;
+c) pouvoirs organisateurs organisant des écoles d'enseignement spécialisé;
 
-- pouvoirs  organisateurs  organisant  des  écoles  d'enseignement  de  promotion sociale;
+d) pouvoirs organisateurs organisant des écoles d'enseignement de promotion sociale;
 
-- pouvoirs organisateurs organisant des centres psycho-médico-sociaux.
+e) pouvoirs organisateurs organisant des centres psycho-médico-sociaux.
 
-- pouvoirs organisateurs organisant des établissements d'enseignement secondaire artistique à horaire réduit.
+f) pouvoirs organisateurs organisant des établissements d'enseignement secondaire artistique à horaire réduit.
 
-2° affilier au minimum 10 % des pouvoirs organisateurs, au sein de ce réseau et de ce  caractère,  dans  au  moins  deux  provinces  et  dans  l'arrondissement  de  BruxellesCapitale  et  ce,  pour  chacune  des  troisdites  catégories  dans  chacune  des  trois  zones administratives susvisées;
+2° affilier au minimum 10 % des pouvoirs organisateurs, au sein de ce réseau et de ce caractère, dans au moins deux provinces et dans l'arrondissement de Bruxelles-Capitale et ce, pour chacune des troisdites catégories dans chacune des trois zones administratives susvisées;
 
 3° affiler des pouvoirs organisateurs organisant des écoles fréquentées par au moins 20% de la population scolaire de l'ensemble constitué, au sein de ce réseau et de ce caractère, par les élèves fréquentant des écoles d'enseignement fondamental, primaire et  maternel  ordinaire,  des  écoles  d'enseignement  secondaire  ordinaire  et  des  écoles d'enseignement spécialisé.
 
@@ -589,19 +639,19 @@ Pour qu'un organe obtienne la reconnaissance du Gouvernement :
 
 2° l'organe :
 
-- introduit une demande de reconnaissance auprès du Gouvernement, selon les modalités que celui-ci détermine, au plus tard le 15 novembre de l'année qui précède la première année de l'entrée en application de cette reconnaissance;
+a) introduit une demande de reconnaissance auprès du Gouvernement, selon les modalités que celui-ci détermine, au plus tard le 15 novembre de l'année qui précède la première année de l'entrée en application de cette reconnaissance;
 
-- prévoit dans ses statuts que l'assemblée générale est constituée :
+b) prévoit dans ses statuts que l'assemblée générale est constituée :
 
 - pour au moins 80 % de pouvoirs organisateurs affiliés ou de représentants élus en leur sein par plusieurs pouvoirs organisateurs;
 
 - pour un maximum de 20 % de membres cooptés par les premiers;
 
-- prévoit  dans  ses  statuts  que  ladite  assemblée  générale  prend  les  décisions relatives aux modifications desdits statuts, à la définition du montant de la cotisation éventuelle prévue à l'article 5ter et à la désignation du conseil d'administration, celuici étant désigné pour une durée maximale de six ans renouvelables;
+c) prévoit dans ses statuts que ladite assemblée générale prend les décisions relatives aux modifications desdits statuts, à la définition du montant de la cotisation éventuelle prévue à l'article 5ter et à la désignation du conseil d'administration, celui-ci étant désigné pour une durée maximale de six ans renouvelables;
 
-- assure la publicité des informations destinées à ses membres ainsi que des règles d'adhésion à l'organe et d'accès aux activités, programmes et services offerts par celui-ci;
+d) assure la publicité des informations destinées à ses membres ainsi que des règles d'adhésion à l'organe et d'accès aux activités, programmes et services offerts par celui-ci;
 
-- transmet au Gouvernement, lors de sa demande de reconnaissance, une copie des résolutions d'adhésion des pouvoirs organisateurs affiliés, les noms et prénoms des membres des différentes instances le composant ainsi qu'une copie de ses statuts et règlements et, par la suite, dès qu'elle est adoptée, toute modification relative à ces divers éléments;
+e) transmet au Gouvernement, lors de sa demande de reconnaissance, une copie des résolutions d'adhésion des pouvoirs organisateurs affiliés, les noms et prénoms des membres des différentes instances le composant ainsi qu'une copie de ses statuts et règlements et, par la suite, dès qu'elle est adoptée, toute modification relative à ces divers éléments;
 
 L. 29-05-1959
 
@@ -644,7 +694,7 @@ A  condition  de  respecter  un  programme  et  un  horaire  minimum légalement
 Chaque pouvoir organisateur est libre en matière de méthodes pédagogiques.
 
 #### Article 7.
-Un arrêté royal détermine de manière uniforme le régime des congés dans l'enseignement de l'Etat et dans l'enseignement subventionné. (voir A.E. 22-0384 (10330))
+Un arrêté royal détermine de manière uniforme le régime des congés dans l'enseignement de l'Etat et dans l'enseignement subventionné. (voir A.E. 22-03-84 (10330))
 
 modifié par L. 14-07-1975; L. 20-02-1978; D. 14-07-1997 ; D. 13-07-1998
 
@@ -661,11 +711,11 @@ Si le choix porte sur le cours de religion, cette déclaration indiquera explici
 
 Le  modèle  de  la  déclaration  relative  au  choix  de  la  religion  ou  de  la  morale  est arrêté par le Roi. Cette déclaration mentionne expressément
 
-- la liberté entière que la loi laisse au chef de famille;
+a) la liberté entière que la loi laisse au chef de famille;
 
-- l'interdiction formelle d'exercer sur lui une pression quelconque à cet égard et les sanctions disciplinaires dont cette interdiction est assortie;
+b) l'interdiction formelle d'exercer sur lui une pression quelconque à cet égard et les sanctions disciplinaires dont cette interdiction est assortie;
 
-- la  faculté  laissée  au  chef  de  famille  de  disposer  d'un  délai  de  trois  jours  francs
+c) la faculté laissée au chef de famille de disposer d'un délai de trois jours francs
 
 Centre de documentation administrative Secrétariat général
 
@@ -713,7 +763,7 @@ modifié par D. 08-03-2007
 ##### § 1er.
 Dans  l'enseignement  primaire  officiel,  le  cours  de  morale  non confessionnelle  est  confié  par  priorité  à  un  titulaire  d'un  diplôme  délivré  par  un établissement d'enseignement officiel, dont le porteur a, si possible, suivi pareil cours
 
-> 4 L. 02-06-1970, article 2. : Les cours de religion-morale organisés dans l'année psychopédagogique des écoles officielles de l'enseignement normal primaire (écoles normales primaires  2è  cycle)  et  des  écoles  officielles  de  l'enseignement  normal  moyen  sont facultatifs.
+> 4 L. 02-06-1970, article 2. : Les cours de religion-morale organisés dans l'année psycho-pédagogique des écoles officielles de l'enseignement normal primaire (écoles normales primaires 2è cycle) et des écoles officielles de l'enseignement normal moyen sont facultatifs.
 
 Les élèves choisissent eux-mêmes s'ils suivent un des deux cours ou aucun des deux.
 
@@ -750,12 +800,10 @@ remplacé par D. 24-07-1997
 Les  résultats  obtenus  par  l'élève  en  religion  ou  en  morale  non confessionnelle sont pris en compte au même titre que les autres résultats dans les délibérations des Conseils de classe.
 
 modifié par L. 14-07-1975; L. 05-08-1978; L. 29-06-1983; A.R. n°413 du 29-04-1986; A.R. n°462 du 17-09-1986; A.R. n°505 du 31-12-1986;
-
-- 12-07-1990; D. 16-04-1991; D. 19-07-1991; D. 26-06-1992; D. 10-04-1995; D. 09-091996; D. 02-12-1996 ; D. 24-07-1997 ; A.Gt 08-11-2001 ;
-
+D. 12-07-1990; D. 16-04-1991; D. 19-07-1991; D. 26-06-1992; D. 10-04-1995; D. 09-09-1996; D. 02-12-1996 ; D. 24-07-1997 ; A.Gt 08-11-2001 ;
 D. 20-12-2001 ; A.Gt 27-06-2002; D. 20-07-2005 ; D. 02-06-2006 ;
-
-- 30-06-2006 ; D. 20-07-2006(1) ; D. 25-05-2007 ; D. 19-07-2007 ; D. 30-04-2009 ; D. 19-07-2010
+D. 30-06-2006 ; D. 20-07-2006(1) ; D. 25-05-2007 ; D. 19-07-2007 ; D. 30-04-2009 ;
+D. 19-07-2010
 
 #### Article  12. -
 ##### § 1er.
@@ -783,7 +831,7 @@ Sans  que  ces  montants  ne  puissent  dépasser  les  plafonds  visés  à  l'
 
 - 4° à  50  EUR  pour  l'inscription  à  une  agrégation  de  l'enseignement  secondaire supérieur ou à une épreuve complémentaire.
 
-En ce qui concerne les étudiants bénéficiant d'une allocation octroyée par le service d'allocations d'études de la Communauté française en vertu de la loi du 19 juillet 1971 relative à l'octroi d'allocations et de prêts d'études et du décret du 7 novembre 1983 réglant pour la Communauté française les allocations et les prêts d'études coordonné le  7  novembre  1983,  ainsi  que  les  étudiants  titulaires  d'une  attestation  de  boursier délivrée  par  l'administration  générale  de  la  Coopération  au  Développement,  ces montants sont ramenés à zéro euro tant dans l'enseignement supérieur de type court que dans l'enseignement supérieur de type long. En outre, pour les étudiants visés par le  présent alinéa, il ne peut être prélevé aucun droit complémentaire et aucun frais apprécié au coût réel.
+En ce qui concerne les étudiants bénéficiant d'une allocation octroyée par le service d'allocations d'études de la Communauté française en vertu de la loi du 19 juillet 1971 relative à l'octroi d'allocations et de prêts d'études et du décret du 7 novembre 1983 réglant pour la Communauté française les allocations et les prêts d'études coordonné le 7 novembre 1983, ainsi que les étudiants titulaires d'une attestation de boursier
 
 L. 29-05-1959 mis à jour au 24/02/2011
 
@@ -798,6 +846,8 @@ Enseignement en général
 Lois 05108
 
 II.A.01 p.16
+
+délivrée par l'administration générale de la Coopération au Développement, ces montants sont ramenés à zéro euro tant dans l'enseignement supérieur de type court que dans l'enseignement supérieur de type long. En outre, pour les étudiants visés par le présent alinéa, il ne peut être prélevé aucun droit complémentaire et aucun frais apprécié au coût réel.
 
 Pour les étudiants qui ne sont pas visés à l'alinéa 3, ces droits complémentaires ne peuvent excéder le montant de 422 euros pour l'enseignement supérieur de type long et  de  282  euros  pour  l'enseignement  supérieur  de  type  court.  En  outre,  ces  droits complémentaires  ne  peuvent  excéder  les  montants  imposés  par  les  établissements pour l'année académique 2004-2005. Les commissaires du Gouvernement vérifient le respect de la présente disposition.
 
@@ -913,9 +963,9 @@ Ce droit d'inscription se calcule comme suit :
 
 - 2° Une partie calculée en fonction du nombre de périodes de 50 minutes sur laquelle porte l'inscription :
 
-- Dans l'enseignement secondaire de promotion sociale, 0,18 euro par période de 50 minutes jusqu'à la 800 e  période. Au-delà, aucun droit d'inscription n'est perçu;
+a) Dans l'enseignement secondaire de promotion sociale, 0,18 euro par période de 50 minutes jusqu'à la 800e période. Au-delà, aucun droit d'inscription n'est perçu;
 
-- Dans l'enseignement supérieur de promotion sociale :
+b) Dans l'enseignement supérieur de promotion sociale :
 
 - A partir du 1 er  septembre 2009 : 0,20 euro par période de 50 minutes jusqu'à la 750 e  période. Au-delà, aucun droit d'inscription n'est perçu;
 
@@ -1015,15 +1065,15 @@ II.A.01 p.21
 ##### § 3.
 Par arrêté délibéré en Conseil des Ministres, le Roi fixe d'une manière uniforme pour  tous  les  réseaux  d'enseignement  subventionné  et  pour  tous  les  membres  du personnel subsidiés :
 
-- les règles de base qui déterminent le recrutement, la nomination, la sélection et la promotion;
+a) les règles de base qui déterminent le recrutement, la nomination, la sélection et la promotion;
 
-- les  positions  administratives  et  les  règles  de  réaffectation  des  membres  du personnel mis en disponibilité;
+b) les positions administratives et les règles de réaffectation des membres du personnel mis en disponibilité;
 
-- le régime des congés;
+c) le régime des congés;
 
-- les incompatibilités essentielles communes;
+d) les incompatibilités essentielles communes;
 
-- les devoirs fondamentaux communs.
+e) les devoirs fondamentaux communs.
 
 Ces dispositions statutaires seront, autant que faire se peut, identiques à celles de l'Etat. (voir D. 01-02-1993 (17322)  et D. 06-06-1994 (18533))
 
@@ -1112,7 +1162,7 @@ nécessités pédagogiques;
 
 - 8° Former un ensemble pédagogique situé dans un même complexe de bâtiments ou, en  tout  cas,  dans  une  même  commune  ou  agglomération,  le  tout  sauf  dérogation accordée par le Roi dans des cas exceptionnels.
 
-L'obligation  d'être  situé  dans  une  même  commune  ou  agglomération  n'est  pas imposée  à un  ensemble  pédagogique  placé  sous la direction  d'un  même  chef d'établissement  et  issu  de  la  fusion  d'écoles  existant  pendant  l'année  scolaire  19741975. Dans ce cas, une dérogation n'est donc pas nécessaire.
+L'obligation d'être situé dans une même commune ou agglomération n'est pas imposée à un ensemble pédagogique placé sous la direction d'un même chef d'établissement et issu de la fusion d'écoles existant pendant l'année scolaire 1974-1975. Dans ce cas, une dérogation n'est donc pas nécessaire.
 
 Centre de documentation administrative Secrétariat général
 
@@ -1133,11 +1183,11 @@ II.A.01 p.23
 ##### § 2bis.
 Si  le  pouvoir  organisateur  ne  se  conforme  pas  aux  dispositions  légales  et réglementaires  relatives  au  statut  administratif  des  membres  du  personnel  de l'enseignement subventionné, le Gouvernement lui adresse une mise en demeure par laquelle  il  l'invite  dans  un  délai  de  30  jours  calendrier  à  dater  de  cette  mise  en demeure,  à  se  conformer  aux  dispositions  légales  et  réglementaires  précitées  et  à rétablir  la  légalité.  Le  Gouvernement  peut  déléguer  cette  compétence  au  ministre fonctionnellement compétent.
 
-Si  à  l'échéance  du  délai  de  30  jours  calendrier  visés  à  l'alinéa  1 er ,  le  pouvoir organisateur  n'a  pas  apporté  la  preuve  qu'il  a  pris  les  mesures  nécessaires  pour  se conformer  aux  dispositions  légales  et  réglementaires  précitées  et  pour  rétablir  la légalité,  il  perd  pour  une  durée  déterminée  ci-après,  le  bénéfice  de  la  subventiontraitement accordée aux membres du personnel dont la situation administrative n'est pas conforme aux dispositions légales et réglementaires précitées.
+Si à l'échéance du délai de 30 jours calendrier visés à l'alinéa 1er, le pouvoir organisateur n'a pas apporté la preuve qu'il a pris les mesures nécessaires pour se conformer aux dispositions légales et réglementaires précitées et pour rétablir la légalité, il perd pour une durée déterminée ci-après, le bénéfice de la subvention-traitement accordée aux membres du personnel dont la situation administrative n'est pas conforme aux dispositions légales et réglementaires précitées.
 
 La  période  visée  à  l'alinéa  précédent  débute  à  l'échéance  du  délai  de  30  jours calendrier et court jusqu'au jour où le pouvoir organisateur a apporté la preuve qu'il a pris les mesures pour se conformer aux dispositions légales et réglementaires précitées et pour rétablir la légalité.
 
-Les  alinéas  1 er   à  3  du  présent  paragraphe  ne  sont  pas  applicables  en  cas d'application  de  l'article  111bis  du  décret  du  1 er   février  1993  fixant  le  statut  des membres  du  personnel  subsidiés  de  l'enseignement  libre  subventionné,  de  l'article 101quater  du  décret  du  6  juin  1994  fixant  le  statut  des  membres  du  personnel subsidiés  de  l'enseignement  officiel  subventionné,  de  l'article  68  du  décret  du  31 janvier 2002 fixant le statut des membres du personnel technique subsidié des centres psycho-médico-sociaux officiels subventionnés et de l'article 80 du décret du 31 janvier 2002 fixant le statut des membres du personnel technique subsidié des centres psychomédico-sociaux libres subventionnés.
+Les alinéas 1er à 3 du présent paragraphe ne sont pas applicables en cas d'application de l'article 111bis du décret du 1er février 1993 fixant le statut des membres du personnel subsidiés de l'enseignement libre subventionné, de l'article 101quater du décret du 6 juin 1994 fixant le statut des membres du personnel subsidiés de l'enseignement officiel subventionné, de l'article 68 du décret du 31 janvier 2002 fixant le statut des membres du personnel technique subsidié des centres psycho-médico-sociaux officiels subventionnés et de l'article 80 du décret du 31 janvier 2002 fixant le statut des membres du personnel technique subsidié des centres psycho-médico-sociaux libres subventionnés.
 
 Ils ne sont pas applicables également en cas d'application de l'article 109 du décret du 10 mars 2006 relatif aux statuts des maîtres de religion et professeurs de religion.
 
@@ -1210,11 +1260,11 @@ Par dérogation aux dispositions du § 2, point 8°, 1er alinéa du présent art
 ##### § 7.
 Lorsqu'un  établissement  scolaire  ou  une  section  d'établissement  cesse  de satisfaire aux  conditions prévues, les subventions  sont  retirées à dater de la notification ministérielle basée sur le manquement constaté. Toutefois, en cas de non respect du 2°ter du § 2, alinéa 2, dans sa partie relative au chapitre II du titre 1 er  du décret  du  30  juin  1998  précité,  seuls  les  moyens  attribués  dans  le  cadre  des discriminations  positives  peuvent  être  retirés.  Les  subventions  seront  rétablies  au moment où sont à nouveau remplies toutes les conditions de subventionnement. En ce qui concerne l'enseignement secondaire de plein  exercice :
 
-- toute  nouvelle  création  d'un  établissement,  d'une  section,  option,  année  de spécialisation  ou  de  perfectionnement,  contraire  aux  règles  de  rationalisation  et  de programmation établies en exécution de l'article 13, § 4, 1, a, de la présente loi a pour conséquence l'exclusion de tout l'établissement du droit aux subventions. A l'avenir, cet établissement ne sera plus admis aux subventions ;
+a) toute nouvelle création d'un établissement, d'une section, option, année de spécialisation ou de perfectionnement, contraire aux règles de rationalisation et de programmation établies en exécution de l'article 13, § 4, 1, a, de la présente loi a pour conséquence l'exclusion de tout l'établissement du droit aux subventions. A l'avenir, cet établissement ne sera plus admis aux subventions ;
 
-- lorsqu'un établissement d'enseignement secondaire de plein exercice subventionné tenu, par application des normes prises en exécution de l'article 13, § 4, 1,  a,  de  la  présente  loi,  de  procéder  à  la  suppression  progressive  d'un  degré  ou  d'un cycle,  s'abstient  de  procéder  à  cette  suppression,  les  subventions  pour  l'ensemble  de l'établissement lui sont retirées. A l'avenir, cet établissement ne sera plus admis aux subventions ;
+b) lorsqu'un établissement d'enseignement secondaire de plein exercice subventionné tenu, par application des normes prises en exécution de l'article 13, § 4, 1, a, de la présente loi, de procéder à la suppression progressive d'un degré ou d'un cycle, s'abstient de procéder à cette suppression, les subventions pour l'ensemble de l'établissement lui sont retirées. A l'avenir, cet établissement ne sera plus admis aux subventions ;
 
-- Le Roi détermine les règles pour l'application des sanctions prévues aux a et b cidessus. (voir A.R. 27-04-82 (07604))
+c) Le Roi détermine les règles pour l'application des sanctions prévues aux a et b ci-dessus. (voir A.R. 27-04-82 (07604))
 
 ## CHAPITRE VI - Des subventions.
 
@@ -1225,9 +1275,9 @@ Les frais de l'instruction donnée dans les établissements ou sections d'établ
 
 Toutefois,  l'Etat  accorde  aux  établissements  et  aux  sections  d'établissements d'enseignement  gardien,  primaire,  moyen,  normal,  technique  et  artistique  visés  à l'article 24 et qui répondent aux conditions légales et réglementaires :
 
-- Des subventions-traitements;
+a) Des subventions-traitements;
 
-- Des subventions de fonctionnement.
+b) Des subventions de fonctionnement.
 
 ### a) Les subventions traitements.
 
@@ -1268,11 +1318,11 @@ Toutefois,  dans  l'enseignement  spécialisé,  des  subventions-traitements  s
 Toute demande de subvention-traitement pour le personnel est accompagnée d'une déclaration du pouvoir organisateur, dont le texte, fixé par arrêté royal, atteste que les fonctions dont il s'agit ne sont subventionnées par aucune personne de droit privé ni par aucun autre organisme . (voir A.R. 05-05-76 (00464), II.A.14)
 
 ##### § 3.
-Dans  l'enseignement  de  promotion  sociale  de  régime  1,  des  subventionstraitements sont accordées aux experts.
+Dans  l'enseignement  de  promotion  sociale  de  régime  1,  des  subventions-traitements sont accordées aux experts.
 
 modifié par L. 11-07-1973; D. 26-06-1992 ; complété par D. 17-07-1998
 
-#### Article  28.
+#### Article  28. -
 Un établissement  ou  une  section  d'établissement  d'enseignement  ne reçoit des subventions de l'Etat que pour les membres de son personnel
 
 - 1° Qui  sont  Belges  ou  ressortissants  d'un  autre  Etat  membre  de  la  Communauté européenne, sauf dérogation accordée par l'Exécutif;
@@ -1287,7 +1337,7 @@ Un établissement  ou  une  section  d'établissement  d'enseignement  ne reçoi
 
 - 6° Qui  ont  été  recrutés  dans  le  respect  de  la  réglementation  en  matière  de réaffectation, dont question à l'article 12 bis, § 3b.
 
-Lorsqu'un membre du personnel fait l'objet, au moment de son engagement, d'une suspension  par  mesure  disciplinaire,  d'une  suspension  disciplinaire,  d'une  mise  en disponibilité  par  mesure  disciplinaire  ou  d'une  mise  en  non-activité  disciplinaire infligée par le pouvoir organisateur de cet établissement ou de cette section d'établissement ou par tout autre pouvoir organisateur du même réseau ou d'un autre réseau,  pour  autant  que  l'information  ait  été  accessible  au  pouvoir  organisateur,  le montant  total  de  subventions-traitements  versées  à  ce  membre  du  personnel,  y compris la subvention-traitement ou la subvention-traitement d'attente réduite suite à l'application d'une des mesures  précitées, ne peut être supérieure à la (aux) subvention(s)-traitement(s)  à  laquelle  (auxquelles)  avait  droit  celui-ci  lorsqu'il  fit l'objet  de  l'une  de  ces  mesures.  Lorsque  la  charge  du  membre  du  personnel  était incomplète au moment de la prise d'effet de la sanction, la subvention-traitement de référence correspond à la subvention-traitement afférente à une charge complète.
+Lorsqu’un membre du personnel fait l’objet, au moment de son engagement, d’une suspension  par  mesure  disciplinaire,  d’une  suspension  disciplinaire,  d’une  mise  en disponibilité  par  mesure  disciplinaire  ou  d’une  mise  en  non-activité  disciplinaire infligée par le pouvoir organisateur de cet établissement ou de cette section d’établissement ou par tout autre pouvoir organisateur du même réseau ou d’un autre réseau,  pour  autant  que  l’information  ait  été  accessible  au  pouvoir  organisateur,  le
 
 L. 29-05-1959
 
@@ -1302,6 +1352,8 @@ Centre de documentation administrative Secrétariat général
 Enseignement en général Lois 05108
 
 II.A.01 p.27
+
+montant  total  de  subventions-traitements  versées  à  ce  membre  du  personnel,  y compris la subvention-traitement ou la subvention-traitement d’attente réduite suite à l’application  d’une  des  mesures  précitées,  ne  peut  être  supérieure  à  la  (aux) subvention(s)-traitement(s)  à  laquelle  (auxquelles)  avait  droit  celui-ci  lorsqu’il  fit l’objet  de  l’une  de  ces  mesures.  Lorsque  la  charge  du  membre  du  personnel  était incomplète au moment de la prise d’effet de la sanction, la subvention-traitement de référence correspond à la subvention-traitement afférente à une charge complète.
 
 L. 29-05-1959 mis à jour au 24/02/2011
 
@@ -1330,7 +1382,7 @@ remplacé par L. 11-07-1973
 ##### § 1er.
 Par  dérogation  à  l'article  29,  la  subvention-traitement  des membres du personnel prêtres ou religieux vivant en communauté et ne comptant pas vingt ans de service dans l'enseignement est égale :
 
-- à  60  p.c.  de  la  subvention-traitement  fixée  à  l'article  29  pendant  les  quinze premières  années  de  service  dans  l'enseignement  et  à  70  p.c.  de  cette  subventiontraitement après cette période, s'ils sont en fonction dans l'enseignement préscolaire ou dans l'enseignement primaire;
+a) à  60  p.c.  de  la  subvention-traitement  fixée  à  l'article  29  pendant  les  quinze premières  années  de  service  dans  l'enseignement  et  à  70  p.c.  de  cette  subvention-traitement après cette période, s'ils sont en fonction dans l'enseignement préscolaire ou dans l'enseignement primaire;
 
 b) au minimum de la subvention-traitement fixée à l'article 9, majoré de 4 p.c. après quatre  années  de  service  dans  l'enseignement  et  de  15  p.c.  après  quinze  années  de service dans l'enseignement s'ils sont en fonction dans l'enseignement secondaire ou dans l'enseignement supérieur à l'exclusion de l'enseignement  universitaire.
 
@@ -1339,9 +1391,7 @@ Un  membre  du  personnel  prêtre  ou  religieux  est  considéré  comme  viva
 
 Auprès de chaque Ministère de l'Education nationale et de la Culture sera dressée une liste des communautés visées ci-dessus ainsi que la liste nominative des membres de chaque communauté au 1er janvier 1973.
 
-#### Article 31-
-.................... abrogé par L.11-07-1973
-.
+#### Article 31- ....................abrogé par L.11-07-1973.
 
 ### b) Les subventions de fonctionnement.
 
@@ -1349,7 +1399,7 @@ modifié par L. 06-07-1970; L. 25-05-1971; remplacé par L. 11-07-1973; modifié
 
 A.R. n°47 du 10-06-1982; L. 01-08-1985; A.R. n°413 du 29-04-1986;
 
-A.R. n°456 du 10-09-1986 ; D. 13-07-1998 ; D. 23-12-1999 ; D. 12-12-2000 ; D. 12-072001(1) ; modifié par D. 12-07-2001(2) ; D. 03-03-2004 (1 et 2) ;
+A.R. n°456 du 10-09-1986 ; D. 13-07-1998 ; D. 23-12-1999 ; D. 12-12-2000 ; D. 12-07-2001(1) ; modifié par D. 12-07-2001(2) ; D. 03-03-2004 (1 et 2) ;
 
 D. 28-04-2004 ; D. 20-07-2006 (2) ; D. 14-11-2008 ; D. 12-12-2008 ; D. 17-12-2009 ; D. 15-12-2010
 
@@ -1357,7 +1407,7 @@ D. 28-04-2004 ; D. 20-07-2006 (2) ; D. 14-11-2008 ; D. 12-12-2008 ; D. 17-12-200
 ##### § 1er .
 Des  subventions  de  fonctionnement  annuelles  et  forfaitaires sont accordées pour couvrir les frais afférents au fonctionnement et à l'équipement de l'établissement  et  de  l'internat,  et  à  la  distribution  gratuite  de  manuels  et  de fournitures scolaires aux élèves soumis à l'obligation scolaire et à l'aide spécifique 8  aux directions d'écoles maternelles, primaires et fondamentales.
 
-Toute  location  de  bâtiments,  locaux,  mobilier,  matériel  et  installations  doit  faire l'objet  d'une  convention  écrite  et  les  charges  ne  peuvent  dépasser  le  prix  normal pratiqué pour des biens analogues.
+Toute  location  de  bâtiments,  locaux,  mobilier,  matériel  et  installations  doit  faire l'objet  d'une  convention  écrite  et  les  charges  ne  peuvent  dépasser  le  prix  normal
 
 > 7  N'est pas applicable aux Hautes Ecoles l'article 32 (D. 09-09-1996 - M.B. 15-10-1996, article 73).
 
@@ -1378,6 +1428,8 @@ Lois 05108
 II.A.01
 
 p.29
+
+pratiqué pour des biens analogues.
 
 En ce qui concerne les bâtiments, locaux, mobilier, matériel, et installations loués, seul l'entretien locatif peut être mis à charge des subventions de fonctionnement.
 
@@ -1452,9 +1504,9 @@ Les salaires du personnel de maîtrise, gens de métier et de service rémunér�
 ##### § 6.
 Les subventions de fonctionnement accordées en application de l'alinéa 3 du § 2 doivent être consacrées entièrement au fonctionnement de l'internat et à l'encadrement des élèves internes.
 
-- modifié par L. 27-06-1962; L. 11-07-1973 ; D. 07-06-2001
+modifié par L. 27-06-1962; L. 11-07-1973 ; D. 07-06-2001
 
-#### Article 33. 10
+#### Article 33. 10 -
 Sans préjudice des dispositions dérogatoires prévues par la présente loi,  l'intervention  financière  des  communes,  des  provinces  et  de  la  Commission communautaire  française  au  profit  de  l'enseignement  libre  est  limitée  à  la  tutelle
 
 10 L'article 33 ne s'applique pas à l'enseignement supérieur pour ce qui concerne les avantages sociaux. (D. 07-06-2001, art.9)
@@ -1481,14 +1533,14 @@ Lorsqu'une commune, une province ou la Commission communautaire française a acc
 
 inséré par L. 14-07-1975
 
-#### Article 33bis.
+#### Article 33bis. -
 Lorsque, dans l'organisation d'une école pluraliste, comme prévu à l'article  4  de  la  loi  du  29  mai  1959,  modifié  par  l'article  2,  sixième  alinéa,  de  la présente loi,  est  impliqué  un  établissement  qui  était  agréé  par  l'Etat,  une  province, une  commune,  une  association  de  communes  ou  une  commission  culturelle  de l'agglomération bruxelloise, cette autorité est autorisée à continuer à accorder à cette école pluraliste les avantages qu'elle accordait à l'établissement qu'elle organisait.
 
 ### c) ……………abrogé par A.R. n°413 du 29-04-1986
 
 modifié par L. 06-07-1970; L. 01-08-1985; remplacé par A.R. n°413 du 29-04-1986 ;  remplacé par D. 12-07-2001 (2) ; D. 17-12-2009
 
-#### Article 34. 11
+#### Article 34. 11 -
 En  compensation de l'exclusion des établissements de la Communauté  française  du  régime  des  avantages  sociaux  fixés  à  l'article  33  ces établissements se voient attribuer un montant forfaitaire par élève.
 
 Sans préjudice des limites budgétaires prévues à l'alinéa 3, le montant forfaitaire annuel est de :
@@ -1553,7 +1605,7 @@ Les  montants  fixés  aux  alinéas  précédents  ne  sont  pas  pris  en  com
 
 ### d) Dispositions communes aux subventions
 
-#### Article  35.
+#### Article  35. -
 Sans  préjudice  des  poursuites  pénales  auxquelles  elle  peut  donner lieu,  toute  déclaration  fausse  ou  inexacte  faite  dans  le  but  d'influencer  le  calcul  du montant des subventions, peut entraîner pour l'établissement intéressé la privation, par arrêté royal motivé, des subventions pendant une période qui n'excédera pas six mois par infraction. La restitution des sommes qui auraient été indûment versées à titre de subvention est exigée.
 
 modifié par A.R. n°413 du 29-04-1986; A.R. n°447 du 20-08-1986; complété par D. 01-02-1993; modifié par D. 06-04-1998
@@ -1577,7 +1629,7 @@ Par  dérogation  à  l'alinéa  précédent,  le  pouvoir  organisateur  n'est 
 
 2° d'une condamnation  pénale non définitive contre laquelle le  membre  du personnel a fait usage de ses droits de recours ordinaires.
 
-Par  ailleurs,  lorsque  dans  le  cadre  d'une  procédure  disciplinaire,  une  mesure  de suspension  préventive  a  été  prise  à  l'égard  d'un  membre  du  personnel  sans  que  ce dernier  n'ait  dû  subir  une  réduction  de  moitié  de  son  traitement,  le  pouvoir organisateur  remboursera  à  la  Communauté  française  la  moitié  du  traitement intégralement  perçu  par  le  membre  du  personnel  durant  la  durée  de  la  suspension préventive si :
+Par  ailleurs,  lorsque  dans  le  cadre  d'une  procédure  disciplinaire,  une  mesure  de suspension  préventive  a  été  prise  à  l'égard  d'un  membre  du  personnel  sans  que  ce
 
 Centre de documentation administrative Secrétariat général
 
@@ -1594,6 +1646,8 @@ Lois 05108
 II.A.01
 
 p.33
+
+dernier  n'ait  dû  subir  une  réduction  de  moitié  de  son  traitement,  le  pouvoir organisateur  remboursera  à  la  Communauté  française  la  moitié  du  traitement intégralement  perçu  par  le  membre  du  personnel  durant  la  durée  de  la  suspension préventive si :
 
 1° au  terme  de  la  procédure  disciplinaire,  aucune  sanction  disciplinaire  n'est prononcée à l'égard du membre du personnel;
 
@@ -1620,16 +1674,16 @@ Le membre du personnel reçoit la subvention-traitement à laquelle il aurait eu
 
 inséré par L. 11-07-1973; modifié par A.R. n° 413 du 29-04-1986
 
-#### Article  36bis.
+#### Article  36bis. -
 En ce  qui  concerne  les  marchés  de  travaux,  de  fournitures  et  de services se rapportant à des dépenses qui sont couvertes, en tout ou en partie, à l'aide des subventions  de fonctionnement,  des subventions  à la construction ou des subventions en intérêt, les pouvoirs organisateurs sont tenus de passer les marchés suivant la procédure et dans les conditions en vigueur à l'Etat, étant entendu que les pouvoirs organisateurs :
 
-- exercent les pouvoirs attribués au Ministre dans la réglementation de l'Etat;
+a) exercent les pouvoirs attribués au Ministre dans la réglementation de l'Etat;
 
-- sont dispensés de prendre les avis prévus dans la même réglementation avant de passer leurs marchés sur appel d'offres ou de gré à gré;
+b) sont dispensés de prendre les avis prévus dans la même réglementation avant de passer leurs marchés sur appel d'offres ou de gré à gré;
 
-- peuvent conclure des marchés de gré à gré pour l'achat de matériel didactique, quel que soit le prix de ce matériel;
+c) peuvent conclure des marchés de gré à gré pour l'achat de matériel didactique, quel que soit le prix de ce matériel;
 
-- peuvent déroger aux règles relatives au choix de l'entrepreneur dans le cas d'une
+d) peuvent déroger aux règles relatives au choix de l'entrepreneur dans le cas d'une
 
 Centre de documentation administrative Secrétariat général
 
@@ -1661,7 +1715,7 @@ II.A.01 p.35
 
 modifié par A.R. n°413 du 29-04-1986; complété par D. 27-10-1997; D. 04-05-2005 ; modifié par D. 20-07-2006 (2)
 
-#### Article 37.
+#### Article 37. -
 Les subventions de fonctionnement doivent être affectées à l'établissement scolaire auquel elles sont attribuées et payées. Le Roi détermine :
 
 1° les  modalités    suivant  lesquelles  les  écoles  introduisent  leur  demande  de subvention;
@@ -1707,7 +1761,7 @@ Les comptes annuels sont transmis aux organes de concertation compétents en fon
 
 ## CHAPITRE VII. - Modifications aux lois coordonnées du 20 août 1957 sur l'enseignement primaire.
 
-#### Article 38.
+#### Article 38. -
 remplace l'article 32 de l'A.R. 20-08-1957
 
 #### Article 39. -
@@ -1715,9 +1769,7 @@ modifie les articles 6, 50, 51, 54, 55, 56, 62, 69, 76, 79 et 80 de l'A.R. 20-08
 
 ## CHAPITRE VIII.- Des pensions
 
-#### Article 40 .
-..........
-abrogé par L. 20-07-1991
+#### Article 40. ..........abrogé par L. 20-07-1991
 
 ## CHAPITRE IX. - De l'interdiction de pratiques déloyales 12
 
@@ -1751,7 +1803,7 @@ La Commission se compose :
 
 Les  membres  sont  désignés  pour  un  terme  de  cinq  ans  renouvelable  par  le
 
-12  Le chapitre IX n'est pas applicable aux Hautes Ecoles (D. 09-09-1996 - M.B. 15-101996, article 73).
+12  Le chapitre IX n'est pas applicable aux Hautes Ecoles (D. 09-09-1996 - M.B. 15-10-1996, article 73).
 
 L. 29-05-1959 mis à jour au 24/02/2011
 
@@ -1828,9 +1880,7 @@ p.38
 
 2° avertir les pouvoirs organisateurs concernés et le cas échéant mettre en œuvre l'application  de  l'article  24,  §  2sexies,  de  la  présente  loi  quant  aux  subventions  de fonctionnement.
 
-#### Article 44. -
-………………
-abrogé par D. 26-04-2007
+#### Article 44. - ………………abrogé par D. 26-04-2007
 
 ## CHAPITRE X. - Commissions paritaires.
 
@@ -1840,9 +1890,9 @@ modifié par L. 11-07-1973 ; A.Gt 08-11-2001 ; A.Gt 27-06-2002
 ##### § 1er.
 Après consultation des groupements les plus représentatifs des pouvoirs organisateurs et des groupements du personnel de l'enseignement subventionné, affiliés à une organisation syndicale représentée au Conseil national du Travail, le Roi institue d'une part pour l'enseignement officiel subventionné, d'autre part, pour l'enseignement libre subventionné :
 
-- une  commission  paritaire  centrale  dont  la  compétence  s'étend,  pour  chaque réseau et pour tous les degrés de l'enseignement, à tout le pays;
+a) une  commission  paritaire  centrale  dont  la  compétence  s'étend,  pour  chaque réseau et pour tous les degrés de l'enseignement, à tout le pays;
 
-- d'autres  commissions  paritaires,  dont  la  compétence  s'étend  à  un  ou  plusieurs degrés d'enseignement et à tout ou partie du pays.
+b) d'autres  commissions  paritaires,  dont  la  compétence  s'étend  à  un  ou  plusieurs degrés d'enseignement et à tout ou partie du pays.
 
 ##### § 2.
 L'arrêté  royal  instituant  une  commission  paritaire  nationale  ou  régionale  est publié au Moniteur belge.
@@ -1894,11 +1944,11 @@ L'exercice des fonctions de président et de vice-président est incompatible av
 ##### § 9 .
 Les commissions paritaires ont principalement pour mission :
 
-- de délibérer sur les conditions générales de travail;
+a) de délibérer sur les conditions générales de travail;
 
-- de prévenir ou de concilier tout différend qui menacerait de s'élever ou se serait élevé entre les pouvoirs organisateurs et les membres du personnel enseignant;
+b) de prévenir ou de concilier tout différend qui menacerait de s'élever ou se serait élevé entre les pouvoirs organisateurs et les membres du personnel enseignant;
 
-- d'établir pour le personnel subventionné de l'enseignement un statut de régime disciplinaire  et  des  règles  complémentaires  aux  dispositions  statutaires  de  l'arrêté royal visé au § 3 de l'article 12bis de la présente loi.
+c) d'établir pour le personnel subventionné de l'enseignement un statut de régime disciplinaire  et  des  règles  complémentaires  aux  dispositions  statutaires  de  l'arrêté royal visé au § 3 de l'article 12bis de la présente loi.
 
 Les Ministres de l'Education nationale peuvent inviter les commissions à établir ce statut et ces règles complémentaires dans un délai qu'ils fixent.
 
@@ -1964,46 +2014,38 @@ Les  pouvoirs  organisateurs  sont  civilement  responsables  du  paiement  des 
 
 ## CHAPITRE XI. - Dispositions transitoires.
 
-#### Article 46
-.........
-n'est plus en vigueur
+#### Article 46.........n'est plus en vigueur
 
 modifié par L. 29-07-1961
 
-#### Article 47
-............a
-brogé par L. 20-07-1991
+#### Article 47............abrogé par L. 20-07-1991
 
-#### Article 48. -
-…
-…………….. abrogé par D. 25-04-2008
+#### Article 48. - ……………….. abrogé par D. 25-04-2008
 
 modifié par L. 11-07-1973
 
-#### Article 49. -
-…
-…………….. abrogé par D. 25-04-2008
+#### Article 49. - ……………….. abrogé par D. 25-04-2008
 
 ## CHAPITRE XII - Abrogatoire
 
 #### Article 50. -
 Sont abrogés :
 
-- La  loi  du  9  avril  1955  réglant  l'octroi,  par  les  communes,  de  suppléments  de traitements  au  personnel  enseignant  des  écoles  primaires  et  gardiennes  et  leur financement;
+1. La  loi  du  9  avril  1955  réglant  l'octroi,  par  les  communes,  de  suppléments  de traitements  au  personnel  enseignant  des  écoles  primaires  et  gardiennes  et  leur financement;
 
-- L'article 15 de la loi du 14 mai 1955, sur l'enseignement artistique pour autant qu'elle  vise  les  établissements  d'enseignement  artistique  autres  que  les  écoles  de musique;
+2. L'article 15 de la loi du 14 mai 1955, sur l'enseignement artistique pour autant qu'elle  vise  les  établissements  d'enseignement  artistique  autres  que  les  écoles  de musique;
 
-- L'article  46  de  la  loi  du  27  juillet  1955  fixant  les  règles  d'organisation  de l'enseignement de l'Etat, des provinces et des communes, et de subvention, par l'Etat, d'établissements d'enseignement moyen, normal et technique;
+3. L'article  46  de  la  loi  du  27  juillet  1955  fixant  les  règles  d'organisation  de l'enseignement de l'Etat, des provinces et des communes, et de subvention, par l'Etat, d'établissements d'enseignement moyen, normal et technique;
 
-- La loi du 28 juillet 1955 réglant l'enseignement de la religion et l'enseignement de la morale dans les établissements d'enseignement secondaire de l'Etat;
+4. La loi du 28 juillet 1955 réglant l'enseignement de la religion et l'enseignement de la morale dans les établissements d'enseignement secondaire de l'Etat;
 
-- Les articles 15 à 19, 26, 28 à 30, 33 à 48, 50 à 57, 75 et 76 des lois coordonnées sur l'enseignement moyen du 30 avril 1957;
+5. Les articles 15 à 19, 26, 28 à 30, 33 à 48, 50 à 57, 75 et 76 des lois coordonnées sur l'enseignement moyen du 30 avril 1957;
 
-- Les  articles  5  à  8,  12  à  31,  33  à  40,  43  à  46,  49,  des  lois  coordonnées  sur l'enseignement normal du 30 avril 1957;
+6. Les  articles  5  à  8,  12  à  31,  33  à  40,  43  à  46,  49,  des  lois  coordonnées  sur l'enseignement normal du 30 avril 1957;
 
-- a) les articles 4, alinéas 2, 3 et 4, 19, 28, § 2, 30 à 41, 43 à 55, 57 à 64, 68, 69, 70 et 71 des lois coordonnées sur l'enseignement technique du 30 avril 1957;
+7. a) les articles 4, alinéas 2, 3 et 4, 19, 28, § 2, 30 à 41, 43 à 55, 57 à 64, 68, 69, 70 et 71 des lois coordonnées sur l'enseignement technique du 30 avril 1957;
 
-- les mots "et notamment sur celles qui sont prévues aux articles 39, 49, 51,
+b) les mots "et notamment sur celles qui sont prévues aux articles 39, 49, 51,
 
 Centre de documentation administrative
 
@@ -2023,15 +2065,15 @@ II.A.01
 
 p.41
 
-- 52 et 53" de la dernière phrase du 1er alinéa de l'article 66 des lois coordonnées sur l'enseignement technique du 30 avril 1957;
+52 et 53" de la dernière phrase du 1er alinéa de l'article 66 des lois coordonnées sur l'enseignement technique du 30 avril 1957;
 
-- Les articles 7 modifié par l'article 1er de la loi du 17 mars 1958, 16 à 19, 33 à 37, 38, modifié par la loi du 31 décembre 1957, 39 à 45, 46 modifié par la loi du 17 mars 1958, 47 à 49, 52, 53, 68, 70 modifié par la loi du 21 avril 1958, 72, 73, 75, alinéa 2, 78 et 82 des lois coordonnées sur l'enseignement primaire du 20 août 1957;
+8. Les articles 7 modifié par l'article 1er de la loi du 17 mars 1958, 16 à 19, 33 à 37, 38, modifié par la loi du 31 décembre 1957, 39 à 45, 46 modifié par la loi du 17 mars 1958, 47 à 49, 52, 53, 68, 70 modifié par la loi du 21 avril 1958, 72, 73, 75, alinéa 2, 78 et 82 des lois coordonnées sur l'enseignement primaire du 20 août 1957;
 
-- Les articles 7, alinéa 3, et 8 de la loi du 22 avril 1958 portant création d'un Fonds des Constructions scolaires et parascolaires de l'Etat et d'un Fonds des Constructions de l'enseignement supérieur et des Cités universitaires de l'Etat.
+9. Les articles 7, alinéa 3, et 8 de la loi du 22 avril 1958 portant création d'un Fonds des Constructions scolaires et parascolaires de l'Etat et d'un Fonds des Constructions de l'enseignement supérieur et des Cités universitaires de l'Etat.
 
 ## CHAPITRE XIII. - Autorisation de coordination
 
-#### Article 51.
+#### Article 51.-
 Le Roi peut coordonner les dispositions en vigueur des lois organiques de l'enseignement primaire, et de l'enseignement normal, de l'enseignement moyen, de l'enseignement  technique  et  de  l'enseignement  artistique  avec  les  modifications expresses  ou  implicites  que  ces  lois  ont  ou  auront  subies  au  moment  où  les coordinations seront réalisées.
 
 A cette fin, il peut
