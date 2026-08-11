@@ -30,6 +30,32 @@ Nimet ÇUBUKÇU Minister of National Education
 
 ## CONTENTS
 
+PREFACE ................................................................................................................................. 2
+TABLES .................................................................................................................................... 2
+GRAPHS ................................................................................................................................... 2
+ABBREVIATIONS .................................................................................................................. 3
+I. INTRODUCTION ................................................................................................................ 4
+II. CONCEPT OF LIFELONG LEARNING ........................................................................ 7
+III. OVERALL AIM .............................................................................................................. 10
+Priority 1: Issuing a Legal Regulation in Which Duties and Responsibilities of the Parties are Expressly Specified for the Coordination of Lifelong Learning ................................. 13
+Priority 2: Establishing a Lifelong Learning Culture by Increasing Social Awareness ................ 14
+Priority 3: Strengthening Data Collection System for Efficient Monitoring, Evaluation and Decision Making .......................................................................................................... 15
+Priority 4: Increasing Literacy Rate Through Ensuring Acquisition Of Literacy Skills By All Individuals ............................................................................................................................... 16
+Priority 5: Increasing Schooling Ratios at All levels of Education, Starting With Basic Education ..................................................................................................................... 17
+Priority 6: Ensuring that Education Institutes’ Physical Infrastructure and Trainer Personnel Number and Quality are Sufficient for Needs ............................................................. 20
+Priority 7: Updating Training Programs Continuously in the Directon of Changing Needs ......... 22
+Priority 8: Activating Information and Communication Technologies for Individuals to Accomodate with the Changing Needs of the Age ...................................................... 23
+Priority 9: Giving Special Importance to Disadvantaged Individuals in the Process of Participation to Lifelong Learning ............................................................................... 25
+Priority 10: Strengthening Vocational Guidance Services Under the Scope of Lifelong Learning ....................................................................................................................... 27
+Priority 11: Establishing a Quality Assurance System by Activating Vocational Adequacy System ........................................................................................................................ 29
+Priority 12: Facilitating Transitions Between Training Programs and from School to Work and from Work to School ........................................................................................... 31
+Priority 13: Reaching Labour Quality to Internationally Competitive Level ................................ 33
+Priority 14: Providing Share of Funding Lifelong Learning by the Parties ................................... 37
+Priority 15: Increasing International Cooperation and Mobility Under the Scope of Lifelong Learning ....................................................................................................................... 40
+Priority 16: Supporting Lifelong Learning Activities in order to Increase the Participation of Elders into Social and Economical Life ...................................................................... 42
+IV. CONCLUSION ................................................................................................................ 44
+ANNEX: TURKISH LIFELONG LEARNING STRATEGY ACTION PLAN ................ 1
+
 1
 
 [[END OF PAGE 3]]
@@ -37,6 +63,21 @@ Nimet ÇUBUKÇU Minister of National Education
 [[START OF PAGE 4]]
 
 ## TABLES
+
+Table 1. Participation to Lifelong Learning in EU Countries and Turkey (%) ........................ 15
+Table 2. Humane Development Index ...................................................................................... 16
+Table 3. Literacy Ratio of Some Countries .............................................................................. 16
+Table 4. Net Schooling Ratios as of Years in accordance with Training Levels ..................... 17
+Table 5. School, Classroom, Student, Teacher Numbers and Student and Teacher Numbers Per Classroom .......................................................................................................................... 20
+Table 6. Computer and Internet Use Ratios in accordance with Gender in Urban – Rural Division .................................................................................................................................... 23
+Table 7. Disabled Persons in Turkey ....................................................................................... 25
+Table 8. Labour Status of Turkey ............................................................................................. 34
+Table 9. Participation to Labour Ratios of Disabled Persons ................................................... 35
+Table 10. Distribution of Budget Allocations for Education as of Years ................................ 37
+
+## GRAPHS
+
+Graph 1. Ratios of Internet Access, Internet and Computer Use ............................................. 23
 
 2
 
@@ -92,7 +133,7 @@ Lifelong learning concept, which European Union (EU) Lisbon Strategy and Europea
 
 In recent years, just like other countries undertaking efforts to become an information society, Turkey has also understood the importance of information and issues like who shall obtain which  information  from  where  and  how  and  where  and  for  what  purposes  such  obtained information may be used are under discussion. Under these circumstances, it is obvious that a more systematic and organised structure shall be needed.
 
-Ninth Development Plan covering the 2007 - 2013 period has been prepared with a vision of 'Turkey which grows in stability, shares its income fairly, which has competitive power at global  scale,  which  transforms  itself  into  an  information  society,  which  has  completed alignment  process  for  EU  membership'  and  under  Long  Term  Strategy  (2001  -  2023) framework, is a basic policy document which presents the transformations to be performed in economical, social and cultural fields with a monolith approach by Turkey in a period when changes  are  being  experienced  in  a  multi  -  dimensioned  and  rapid  manner,  competition  is dense and ambiguities are increasing, globalisation is effective in all fields, opportunities and risks  for  individuals,  institutions  and  nations  increase.  The  Plan  with  its  current  status  has been designed as a basic strategy document in which Turkey has determined its transformation  targets  under  EU.  The  Plan  constitutes  of  the  following  development  axes; 'Increasing Competitiveness', 'Increasing Employment', 'Strengthening Human Development and Social Solidarity', 'Ensuring Regional Development', 'Increasing Quality and Effectiveness in Public Services'. By achieving the goals set out in the Plan, EU averages may  be  attained  as  of  social  and  economical  indicators  as  well  as  ensuring  legal  and institutional alignment with the EU. 570 th and 571 st paragraphs under 'Increasing Employment' development axis 'Increasing the Sensitivity of Education to Labour Demand' heading  and  583 rd and  594 th paragraphs  under  'Strengthening  Human  Development  and Social  Solidarity'  development  axis  'Enhancing  Education  System'  heading  are  related  to lifelong learning.
+Ninth Development Plan covering the 2007 - 2013 period has been prepared with a vision of 'Turkey which grows in stability, shares its income fairly, which has competitive power at global scale, which transforms itself into an information society, which has completed alignment process for EU membership' and under Long Term Strategy (2001 - 2023) framework, is a basic policy document which presents the transformations to be performed in economical, social and cultural fields with a monolith approach by Turkey in a period when changes are being experienced in a multi - dimensioned and rapid manner, competition is dense and ambiguities are increasing, globalisation is effective in all fields, opportunities and risks for individuals, institutions and nations increase. The Plan with its current status has been designed as a basic strategy document in which Turkey has determined its transformation targets under EU. The Plan constitutes of the following development axes; 'Increasing Competitiveness', 'Increasing Employment', 'Strengthening Human Development and Social Solidarity', 'Ensuring Regional Development', 'Increasing Quality and Effectiveness in Public Services'. By achieving the goals set out in the Plan, EU averages may be attained as of social and economical indicators as well as ensuring legal and
 
 4
 
@@ -100,7 +141,9 @@ Ninth Development Plan covering the 2007 - 2013 period has been prepared with a 
 
 [[START OF PAGE 7]]
 
- 570. A  lifelong education strategy will be developed towards increasing the employment  skills  of  individuals  in  line  with  the  requirements  of  a  changing  and developing  economy  and  labour  market.  Such  strategy  shall  comprise  mechanisms which shall support increasing formal and non - formal education for the persons to increase their skills and talents, strengthening horizontal and vertical relation between aforementioned  education  types,  structuring  apprenticeship  and  public  education according to the same and operation of private sector and NGOs in this field.
+institutional alignment with the EU. 570th and 571st paragraphs under 'Increasing Employment' development axis 'Increasing the Sensitivity of Education to Labour Demand' heading and 583rd and 594th paragraphs under 'Strengthening Human Development and Social Solidarity' development axis 'Enhancing Education System' heading are related to lifelong learning.
+
+ 570. A lifelong education strategy will be developed towards increasing the employment skills of individuals in line with the requirements of a changing and developing economy and labour market. Such strategy shall comprise mechanisms which shall support increasing formal and non - formal education for the persons to increase their skills and talents, strengthening horizontal and vertical relation between aforementioned education types, structuring apprenticeship and public education according to the same and operation of private sector and NGOs in this field.
 
  571.  In  order  to  develop  the  information  systems  related  to  the  labor  market,  to provide the education and labour market with a more flexible structure, and to increase employment and labour productivity, work force will be trained in the areas demanded by the economy taking the life-long education strategy into consideration.
 
@@ -112,7 +155,7 @@ Ninth Development Plan covering the 2007 - 2013 period has been prepared with a 
 
 The  purpose  towards  the  preparation  of  'Lifelong  Learning  Strategy  Paper'  is  to establish  a  lifelong  learning  system  that  can  respond  to  the  needs  and  expectations  of  the society in Turkey and to bring this system to a functional and sustainable status.
 
-Preparation process of the said document has been launched under the scope of SVET project  which  had  been  executed  within  the  body  of  Directorate  of  Projects  Coordination Centre.  The  topic  has  been  discussed  on  various  platforms  where  related  sectors  had  been present,  the  expectations  have  been  identified,  a  draft  has  been  composed  by  taking  into consideration the opinions in Policy Paper, which had been prepared before. Then, a special commission  to  develop  and  conclude  the  draft  has  been  established  in  the  Ministry  of National Education. The draft has been developed by the commission. The document has been brought to its current status following the process of obtaining the opinions and recommendations of all public agencies / institutions, private sector and Non - Governmental Organisations on the final draft.
+Preparation process of the said document has been launched under the scope of SVET project which had been executed within the body of Directorate of Projects Coordination Centre. The topic has been discussed on various platforms where related sectors had been present, the expectations have been identified, a draft has been composed by taking into consideration the opinions in Policy Paper, which had been prepared before. Then, a special commission to develop and conclude the draft has been established in the Ministry of National Education. The draft has been developed by the commission. The document has been
 
 5
 
@@ -120,7 +163,9 @@ Preparation process of the said document has been launched under the scope of SV
 
 [[START OF PAGE 8]]
 
-In the concept section, Lifelong Learning concept (LL) in which primarily the individual is considered to be the main actor, is being emphasised in order to eliminate misperceptions and considerations and for developing a common understanding. However, the topic is also being associated  with  social,  economic,  cultural  and  even  politic  values  and  facts  in  which  the individual lives.
+brought to its current status following the process of obtaining the opinions and recommendations of all public agencies / institutions, private sector and Non - Governmental Organisations on the final draft.
+
+In the concept section, Lifelong Learning concept (LL) in which primarily the individual is considered to be the main actor, is being emphasised in order to eliminate misperceptions and considerations and for developing a common understanding. However, the topic is also being associated with social, economic, cultural and even politic values and facts in which the individual lives.
 
 In the document, there are sixteen priorities, all falling under the general goal of Facilitating Access to Quality Learning through Strengthening Lifelong Learning Infrastructure as well as the  introduction  of  the  concept.  In  addition  to  identification  of  the  current  situation, recommendations  in  the  direction  of  Turkish  policies  regarding  each  priority  have  been provided.
 
@@ -164,13 +209,15 @@ In order to develop lifelong learning, there is a need for flexible systems that
 
 Every individual in today's world faces continuous learning in order to adapt to developments and changes; to improve his / her personal talents, job-related skills and qualifications. Efforts in this direction in competitive societies where globalisation has accelerated are gaining more importance; lifelong learning is  becoming the most important tool for enhancing quality  of life.
 
-Implementation of lifelong learning policies necessitates multi - dimensional cooperation and coordination. Rearrangement of particularly business life rules which constitute a burden to learn for the individual as well as measures and arrangements to be adopted for the education system are of great importance. For instance, while ensuring that educational opportunities are easily accessible by individuals, the cost of waiver for the individual to pass from business life to school should be made bearable. Lifelong learning policies should be executed not only with point of view of the Ministry of National Education but at the same time along with the joint perspectives of other public agencies and institutions and also employee and employer professional  organisations  and  non-governmental  organisations.  Such  cooperation  is  also indispensable to receive a high level of return  from the investment  on lifelong learning by establishing a practical and mobile balance between supply and demand. Of course, gaining positive  results  from  lifelong  learning  policies  first  necessitates  maintaining  a  long  and decisive perspective as well as determination of priorities by considering feasibility.
+Implementation of lifelong learning policies necessitates multi - dimensional cooperation and coordination. Rearrangement of particularly business life rules which constitute a burden to learn for the individual as well as measures and arrangements to be adopted for the education system are of great importance. For instance, while ensuring that educational opportunities are easily accessible by individuals, the cost of waiver for the individual to pass from business
 
 8
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+
+life to school should be made bearable. Lifelong learning policies should be executed not only with point of view of the Ministry of National Education but at the same time along with the joint perspectives of other public agencies and institutions and also employee and employer professional organisations and non-governmental organisations. Such cooperation is also indispensable to receive a high level of return from the investment on lifelong learning by establishing a practical and mobile balance between supply and demand. Of course, gaining positive results from lifelong learning policies first necessitates maintaining a long and decisive perspective as well as determination of priorities by considering feasibility.
 
 9
 
@@ -262,13 +309,15 @@ European  Commission  is  giving  importance  to  the  countries'  developing  l
 
  Encouraging public and private agencies / institutions which support the development of lifelong learning opportunities.
 
-In Turkey, there is a need for strengthening education infrastructure and increasing quality in parallel to the developments towards perception of lifelong learning in a manner to cover the totality  of  education.  Below  mentioned  issues  are  coming  into  prominence  when  specific needs  of  Turkey  and  EU  criteria  and  as  well  as  the  components  aforementioned  are considered.
+In Turkey, there is a need for strengthening education infrastructure and increasing quality in parallel to the developments towards perception of lifelong learning in a manner to cover the
 
 11
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+
+totality of education. Below mentioned issues are coming into prominence when specific needs of Turkey and EU criteria and as well as the components aforementioned are considered.
 
 12
 
@@ -282,19 +331,19 @@ Turkish  National  Education  System  has  been  regulated  under  the  Basic  L
 
 There are several public, private and non - governmental organisations carrying out direct or indirect activities under the scope of lifelong learning in Turkey as the Ministry of National Education  (MONE)  at  first.  However,  restructuring  education  system  will  lead  to  redetermination of roles of the below-listed parties in education:
 
-- INDIVIDUAL
+1. INDIVIDUAL
 
-- FAMILY
+2. FAMILY
 
-- BUSINESS LIFE
+3. BUSINESS LIFE
 
  Enterprises
 
  Employee and Employer Trade Unions and Confederations
 
- Professional Organisations in the  nature  of  public  bodies  (TESK,  TOBB, Chambers…)
+ Professional Organisations in the nature of public bodies (TESK, TOBB, Chambers…)
 
-- NON - GOVERNMENTAL ORGANISATIONS
+4. NON - GOVERNMENTAL ORGANISATIONS
 
  Foundations
 
@@ -338,18 +387,18 @@ The  importance  of  non-governmental  organisations  in  presentation  and  rep
 
 ### Priority 3: Strengthening Data Collection System for Efficient Monitoring, Evaluation and Decision Making
 
-Providing the participation of at least 12.5% of adults (25 - 64 ages) in EU countries to lifelong learning is amongst Lisbon 2010 Education and Training Targets. Data for 2001 2005 related  with  lifelong  learning  in  EU  countries  and  Turkey  are  in  the  following  table. However, such data only reflect the studies carried out within the body of MONE General Directorate  of  Apprenticeship  and  Formal  Education  but  do  not  include  Lifelong  Learning activities  carried  out  within  the  bodies  of  other  ministries,  associations,  chambers,  unions, municipalities and private institutions. Activities to establish a wider database in the country are  ongoing.  When an updated and reliable database has been established, the ratio related with Turkey will be revealed to be higher. However, these ratios are still behind the needs in general.
+Providing the participation of at least 12.5% of adults (25 - 64 ages) in EU countries to lifelong learning is amongst Lisbon 2010 Education and Training Targets. Data for 2001 – 2005 related with lifelong learning in EU countries and Turkey are in the following table. However, such data only reflect the studies carried out within the body of MONE General Directorate of Apprenticeship and Formal Education but do not include Lifelong Learning activities carried out within the bodies of other ministries, associations, chambers, unions, municipalities and private institutions. Activities to establish a wider database in the country are ongoing. When an updated and reliable database has been established, the ratio related with Turkey will be revealed to be higher. However, these ratios are still behind the needs in general.
+
+Table 1. Participation to Lifelong Learning in EU Countries and Turkey (%)
 
 MALE | FEMALE
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 2001 | 2002 | 2003 | 2004 | 2005 | 2001 | 2002 | 2003 | 2004 | 2005
-EU-25 | 7,2 | 7,2 | 8,5 | 9,4 | 10,1 | 8,4 | 8,5 | 10,0 | 11,1 | 11,9
-EU-15 | 7,7 | 7,8 | 9,1 | 10,3 | 11,1 | 8,9 | 9,1 | 10,8 | 12,0 | 13,0
+EU–25 | 7,2 | 7,2 | 8,5 | 9,4 | 10,1 | 8,4 | 8,5 | 10,0 | 11,1 | 11,9
+EU–15 | 7,7 | 7,8 | 9,1 | 10,3 | 11,1 | 8,9 | 9,1 | 10,8 | 12,0 | 13,0
 Turkey | 0,7 | 0,6 | 0,7 | 0,9 | 1,4 | 1,3 | 1,2 | 1,6 | 1,6 | 2,6
 
-Table 1. Participation to Lifelong Learning in EU Countries and Turkey (%)
-
-Source: Statistical Portrait of the European Union-2007, European Commission
+Source: Statistical Portrait of the European Union–2007, European Commission
 
 Updated  and  reliable  data  to  assist  efficient  management  and  decision  making  is  of  great importance.  Shortage  of  regularly  collected  and  internationally  compatible  data  is  making difficult  to  determine  critical  areas  and  weaknesses.  For  that  reason,  there  is  a  need  to strengthen research and information database at national and international levels. Organising national and international lifelong learning fairs and events will be important with respect to updating data flow and following implementations related with the matter.
 
@@ -367,7 +416,9 @@ Literacy and basic numeracy knwoledge is a precondition for lifelong learning, f
 
 Rate of literacy is still a problem in Turkey and it is a problem  that should be solved with respect to  necessary  basic skills for lifelong learning opportunities. This  situation is particularly  prominent  as  regards  women.  According to  Turkish  Statistics  Institute  (TSI)  in 2006, the ratio of illiterate people in Turkey is 11.9%. This ratio is 4% for men and 19.6% for women.
 
-Turkey  is  84 th amongst  177  countries  within  Human  Development  Index.  The  reason  for Turkey  to  be  such  a  lower  level  is  that  the  ratio  of  literacy  and  ratio  of  participation  to education up to university level as well as life expectancy and gross income per capita is low.
+Turkey is 84th amongst 177 countries within Human Development Index. The reason for Turkey to be such a lower level is that the ratio of literacy and ratio of participation to education up to university level as well as life expectancy and gross income per capita is low.
+
+Table 2. Human Development Index
 
 Rank of Human Development | Life Expectancy (Year) | Literacy Ratio (%) | Attendants of Education up to University | Gross Income per Capita ($-SGP)
 --- | --- | --- | --- | ---
@@ -383,11 +434,11 @@ Rank of Human Development | Life Expectancy (Year) | Literacy Ratio (%) | Attend
 98 Azerbaijan | 67,1 | 98,8 | 67,1 | 5.016
 177 Sierra Leone | 41,8 | 34,8 | 44,6 | 806
 
-Table 2. Human Development Index
+Source: United Nations Human Development Report 2007 – 2008
 
-Source: United Nations Human Development Report 2007 - 2008
+The table below contains data related with the literate population of some countries. Turkey ranks 52nd in this table. Particularly, low literacy ratio of women population necessitates serious measures to be taken. Within this scope, there is a need for programs to remove illiteracy amongst adults particularly in regions where literacy ratio is low.
 
-The table below contains data related with the literate population of some countries. Turkey ranks  52 nd in  this  table.  Particularly,  low  literacy  ratio  of  women  population  necessitates serious  measures  to  be  taken.  Within  this  scope,  there  is  a  need  for  programs  to  remove illiteracy amongst adults particularly in regions where literacy ratio is low.
+Table 3. Literacy Ratio of Some Countries
 
 Rank | Country | % | Rank | Country | %
 --- | --- | --- | --- | --- | ---
@@ -398,8 +449,6 @@ Rank | Country | % | Rank | Country | %
 3 | Barbados | 99,7 | 50 | Malaysia | 88,7
 3 | Poland | 99,7 | 51 | Brazil | 88,4
 5 | Kazakhstan | 99,5 | 52 | Turkey | 88,1
-
-Table 3. Literacy Ratio of Some Countries
 
 Source: United Nations 2005 Development Program Report
 
@@ -413,24 +462,24 @@ Source: United Nations 2005 Development Program Report
 
 Educating  qualified  labour  force  towards  the  needs  of  the  economy  requires  an  education process which starts with primary school even with preschool education and continues up to higher  education.  Furthermore,  this  process  should  be  supported  with  a  lifelong  education perspective at every stage. While in formal education, in the first stage that covers preschool education and primary school education, the target is to ensure that the individual gains the qualities of being good person and a good citizen; at the second stage that covers secondary and higher education, the target is to prepare the individual to employment and to equip the individual with information and skills required for business life.
 
-Years | Primary Education | Secondary Education | Higher Education
---- | --- | --- | ---
-2003-2004 | 90,2 | 53,4 | 15,3
-2004-2005 | 89,7 | 54,9 | 16,6
-2005-2006 | 89,8 | 56,6 | 18,9
-2006-2007 | 90,1 | 56,5 | 20,1
-2007-2008 | 97,4 | 58,6 | 21,0
-2008-2009 | 96,5 | 58,5 | ---
-
 Table 4. Net Schooling Ratios as of Years in accordance with Levels of Education
 
-Source: MONE, National Education Statistics, 2008 - 2009
+Years | Primary Education | Secondary Education | Higher Education
+--- | --- | --- | ---
+2003–2004 | 90,2 | 53,4 | 15,3
+2004–2005 | 89,7 | 54,9 | 16,6
+2005–2006 | 89,8 | 56,6 | 18,9
+2006–2007 | 90,1 | 56,5 | 20,1
+2007–2008 | 97,4 | 58,6 | 21,0
+2008–2009 | 96,5 | 58,5 | ---
+
+Source: MONE, National Education Statistics, 2008 – 2009
 
 In the light of the data presented in the table, it is seen that highest schooling rate in terms of levels  of  education  is  at  primary  school  level.  However,  since  schooling  cannot  be  fully ensured in especially rural areas in Turkey despite compulsory education,  schooling rate in primary  schools  could  not  reach  100%.  Late  registration  to  primary  schools  and  leaving before  graduation  (drop-outs)  are  the  main  factors  which  hinder  the  increase  of  schooling ratios at desired levels. Number of students who dropped out from school at secondary school education in 2007 - 2008 education and training year is 211,598 (6% of all secondary school education students) while 60,329 students (0.5% of all primary school students) dropped out from school.
 
-It is known that the large part of an individual's development is completed at preschool age. Compensation of losses, which have been experienced by children who have lacked education at  these  ages,  is  too  difficult  to  take  place  in  future  years.  Studies  to  increase  preschool education participation rate are ongoing and the target is to reach 50% (schooling rate for 4year-olds in European Union is 86.8%) until 2013. Current schooling rate (4 - 5 years old) is 33.9% and activities should gain momentum to reach this target.
+It is known that the large part of an individual's development is completed at preschool age. Compensation of losses, which have been experienced by children who have lacked education at these ages, is too difficult to take place in future years. Studies to increase preschool education participation rate are ongoing and the target is to reach 50% (schooling rate for 4-year-olds in European Union is 86.8%) until 2013. Current schooling rate (4 - 5 years old) is 33.9% and activities should gain momentum to reach this target.
 
-It  would  not  be  wrong  to  say  that  most  of  the  population  at  the  age  of  secondary  school education are out of school, in business life or unemployed since net schooling rate in 2008 2009 education period is 58.5%.
+It would not be wrong to say that most of the population at the age of secondary school education are out of school, in business life or unemployed since net schooling rate in 2008 – 2009 education period is 58.5%.
 
 17
 
@@ -450,13 +499,15 @@ Ratio of transition from primary school education to secondary school education 
 
 Approximately  33%  of  women  and  28%  of  men  between  25  -  34  years  old  in  OECD countries are graduates of higher education. These rates in Turkey are 7.1% for women and 10.7% for men. Turkey ranks last for women and ranks second before last after Portugal for men amongst OECD countries.
 
-There are important differences between OECD countries such as Turkey, Czech Republic, Italy  and  Slovakia  Republic  which  their  higher  education  graduates  rate  is  under  12%  and OECD countries such as Canada, USA, Sweden and Japan whose rates of higher education graduates  is  above  35%  amongst  the  population  who  are  at  working  age.  On  the  basis  of genders, the number of female higher education graduates in Canada, Finland, Sweden and New Zealand is above the rate of male population at same category. On the contrary, ratio of male higher education  graduates  in  Korea  and  Switzerland  is  very  high  when  compared  to female population.
+There are important differences between OECD countries such as Turkey, Czech Republic, Italy and Slovakia Republic which their higher education graduates rate is under 12% and OECD countries such as Canada, USA, Sweden and Japan whose rates of higher education graduates is above 35% amongst the population who are at working age. On the basis of genders, the number of female higher education graduates in Canada, Finland, Sweden and
 
 18
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
+
+New Zealand is above the rate of male population at same category. On the contrary, ratio of male higher education graduates in Korea and Switzerland is very high when compared to female population.
 
 19
 
@@ -472,15 +523,15 @@ Despite the increase at schooling rates, physical  capacities of schools are ins
 
 Diversification  of  means  and  methods  of  learning  supports  lifelong  learning.  Within  this context,  activation  and  development  of  distance  learning  by  utilizing  information  and communication technologies is considered to be beneficial.
 
-School / Unit | Number of Students (1) | Number of Teachers (2) | Number of Classrooms | Student per Classroom (3) | Student per Teacher
+Table 5. School, Classroom, Student, Teacher Numbers and Student and Teacher Numbers Per Classroom
+
+ | School / Unit | Number of Students(1) | Number of Teachers(2) | Number of Classrooms | Student per Classroom(3) | Student per Teacher
 --- | --- | --- | --- | --- | --- | ---
 Preschool Education | 23 653 | 804 765 | 47 633 | 39 481 | 20 | 17
 Primary Education | 33 769 | 10 709 920 | 453 318 | 320 393 | 32 | 23
 General Secondary Education | 4 053 | 2 271 900 | 107 789 | 65 859 | 29 | 18
 Vocational Secondary Education | 4 622 | 1 565 264 | 88 924 | 43 183 | 33 | 16
-Formal Education (4) | 13 013 | 5 765 168 | 94 693 | 83 870 | - | -
-
-Table  5.  School,  Classroom,  Student,  Teacher  Numbers  and  Student  and  Teacher Numbers Per Classroom
+Formal Education(4) | 13 013 | 5 765 168 | 94 693 | 83 870 | - | -
 
 (1) Also comprises open primary education and open high school students.
 
@@ -488,17 +539,19 @@ Table  5.  School,  Classroom,  Student,  Teacher  Numbers  and  Student  and  T
 
 (3) Open primary education and open high school students are not included.
 
-(4) Formal education information has been given as of the end of 2007 - 2008 education year-end.
+(4) Formal education information has been given as of the end of 2007 – 2008 education year-end.
 
-Source: MONE; National Education Statistics, 2008 - 2009
+Source: MONE; National Education Statistics, 2008 – 2009
 
-Well-educated  and  highly  motivated  teachers  are  the  most  important  elements  of  quality education. Within this context, there is a need to support teachers' career improvements as well  as  improvement  of  teacher  training.  This  support  should  reach  beyond  in-  service training  courses.  Teachers  should  be  granted  the  opportunity  to  take  training  towards advancing in profession. Furthermore, teachers should be supported for participating to the trainings organised by private institutions. Especially, vocational lesson teachers should earn workplace  experience.  Online  communities  should  be  established  and  measures  to  bring teachers face to face with respect to field training as well as to gather teachers who may not be  present  at  the  same  time  and  same  place  through  benefiting  from  internet  technology within the scope of strengthening teachers' capacities. Within this scope, support should be given  to  convene  teachers  in  order  to  provide  professional  improvement  of  teachers  at regional or national level.
+Well-educated and highly motivated teachers are the most important elements of quality education. Within this context, there is a need to support teachers' career improvements as well as improvement of teacher training. This support should reach beyond in- service training courses. Teachers should be granted the opportunity to take training towards advancing in profession. Furthermore, teachers should be supported for participating to the trainings organised by private institutions. Especially, vocational lesson teachers should earn workplace experience. Online communities should be established and measures to bring teachers face to face with respect to field training as well as to gather teachers who may not be present at the same time and same place through benefiting from internet technology
 
 20
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
+
+within the scope of strengthening teachers' capacities. Within this scope, support should be given to convene teachers in order to provide professional improvement of teachers at regional or national level.
 
 21
 
@@ -530,11 +583,26 @@ While  24.5%  of  households  in  Turkey  have  internet  access;  38.1%  of  ho
 
 Graph 1. Ratios of Internet Access, Internet and Computer Use
 
+%
+40.0
+35.0
+30.0
+25.0
+20.0
+15.0
+10.0
+5.0
+0.0
+2007 | 2008
+İnternet erişimi olan hane oranı | 18.9 | 24.5
+16-74 yaş grubu bireylerde bilgisayar kullanım oranı | 33.2 | 38.1
+16-74 yaş grubu bireylerde internet kullanım oranı | 30.0 | 35.8
+
 Source: TURKSTAT; Survey on Use of Household Information Technologies, 2008
 
 The age group where use of computers and internet is highest is the age group 16 - 24. Ratio of computer and internet use is higher among men in all age groups. Highest internet use as per educational status is respectively 87.9% and 87.2% among individuals who are at college,  those  who  are  university  graduates  or  higher.  Internet  use  ratios  for  employees  on wages and those on salaries among all those that are employed  are respectively 61.4% and 58.6%. Same ratios for the unemployed are 49.9% and 47.8%
 
-Table 6. Computer and Internet Use Ratios in accordance with Gender in Urban Rural Division
+Table 6. Computer and Internet Use Ratios in accordance with Gender in Urban – Rural Division
 
 23
 
@@ -551,10 +619,10 @@ Rural | 19,1 | 12,0 | 26,4 | 16,8 | 10,4 | 23,3
 Between three months - one year | Turkey | 1,8 | 1,4 | 2,2 | 2,2 | 1,7 | 2,8
 Urban | 2,1 | 1,7 | 2,4 | 2,5 | 2,2 | 2,7
 Rural | 1,2 | 0,8 | 1,7 | 1,8 | 0,7 | 2,9
-Turkey | 2,0 | 2,1 | 2,0 | 1,4 | 1,4 | 1,5
+More than one year | Turkey | 2,0 | 2,1 | 2,0 | 1,4 | 1,4 | 1,5
 Urban | 2,2 | 2,3 | 2,0 | 1,6 | 1,5 | 1,6
 Rural | 1,8 | 1,7 | 1,9 | 1,1 | 1,0 | 1,2
-Turkey | 61,9 | 70,9 | 52,7 | 64,2 | 73,0 | 55,2
+Never used | Turkey | 61,9 | 70,9 | 52,7 | 64,2 | 73,0 | 55,2
 Urban | 53,2 | 63,0 | 43,3 | 55,4 | 64,9 | 45,7
 Rural | 77,9 | 85,6 | 70,0 | 80,3 | 87,9 | 72,6
 
@@ -576,9 +644,12 @@ Lifelong Learning policies are particularly designed for the benefit of groups w
 
 The  disabled  constitute  a  significant  part  of  the  disadvantaged  population  which  require special education. The disabled are mostly located in Marmara region and within the urban population.  It  is  seen  that  the  number  of  disabled  persons  who  are  under  the  age  of  30  is gradually decreasing compared to the other age groups.
 
-Total Disabled Population | Orthopaedic, Sight, Hearing, Speech and Language and Mentally Disabled Population | Population with Chronic Disease
+Table 7. Disabled Persons in Turkey
+
+ | Total Disabled Population |  |  | Orthopaedic, Sight, Hearing, Speech and Language and Mentally Disabled Population |  |  | Population with Chronic Disease |  |
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Turkey | Total 12,3 | Male 1,1 | Female 13,5 | Total 2,6 | Male 3,0 | Female 2,1 | Total 9,7 | Male 8,1 | Female 11,3
+ | Total | Male | Female | Total | Male | Female | Total | Male | Female
+Turkey | 12,3 | 11,1 | 13,5 | 2,6 | 3,0 | 2,1 | 9,7 | 8,1 | 11,3
 AGE GROUP
 0-9 | 4,2 | 4,7 | 3,6 | 1,5 | 1,7 | 1,4 | 2,6 | 3,0 | 2,2
 10-19 | 4,6 | 5,0 | 4,3 | 2,0 | 2,3 | 1,7 | 2,7 | 2,7 | 2,6
@@ -600,8 +671,6 @@ Middle Anatolia | 12,5 | 10,8 | 14,2 | 2,6 | 3,0 | 2,2 | 9,9 | 7,8 | 12,1
 Black Sea | 13,1 | 11,6 | 14,3 | 3,2 | 3,7 | 2,8 | 9,8 | 8,0 | 11,5
 Eastern Anatolia | 11,8 | 11,3 | 12,3 | 2,5 | 3,2 | 1,9 | 9,3 | 8,1 | 10,4
 Southern Anatolia | 9,9 | 9,9 | 10,0 | 2,7 | 3,4 | 2,0 | 7,2 | 6,4 | 7,9
-
-Table 7. Disabled Persons in Turkey
 
 25
 
@@ -631,7 +700,7 @@ OECD and European Commission defines career guidance as 'services and activities
 
 Career guidance for young people requires a different approach than the career guidance for adults.  Most  of  the  young  people  are  in  full  time  education  and  have  very  limited  work experience  and  may  move  to  another  profession  field  which  is  partly  easier.  On  the  other hand, most of the adults already have a career and they have drifted away from education. For that  reason,  a  career  guidance  system  should  be  prepared  so  as  to  address  to  two  separate groups.
 
-For  career  guidance  and  counselling  services  to  meet  lifelong  learning  requirements,  it  is necessary to restructure the services provided by schools on this matter. Other than being a personal  service  focused  on  urgent  decisions  related  with  profession  and  education,  career guidance and counselling services should help individuals to improve their skills to manage the choices they make regarding education and professions which they would have to perform all  their  lives  long.  It  would  be  beneficial  if  school  based  career  guidance  and  counselling services  are  performed  primarily  by  İŞKUR  Vocational  Counselling  Centres  and  with  the contribution  of  the  institutions  which  are  a  party  to  the  protocol.  On  the  other  hand, development  of  the  Internet-based  career  guidance  and  counselling  and  education  services would  contribute  to  the  activities.  Within  this  context,  it  would  be  helpful  if  vocational institutions and private sector provide services on this matter.
+For career guidance and counselling services to meet lifelong learning requirements, it is necessary to restructure the services provided by schools on this matter. Other than being a personal service focused on urgent decisions related with profession and education, career guidance and counselling services should help individuals to improve their skills to manage the choices they make regarding education and professions which they would have to perform all their lives long. It would be beneficial if school based career guidance and counselling services are performed primarily by İŞKUR Vocational Counselling Centres and with the contribution of the institutions which are a party to the protocol. On the other hand, development of the Internet-based career guidance and counselling and education services
 
 27
 
@@ -639,7 +708,9 @@ For  career  guidance  and  counselling  services  to  meet  lifelong  learning 
 
 [[START OF PAGE 30]]
 
-Acquisitions  provided  by  education  would  not  be  a  valid  investment  unless  they  are transformed to social and personal benefits. The personal benefit of education is to reach a more  qualified  life  standard.  The  individual  attends  education  activities  which  he  /  she considers to improve himself / herself, and contributes to the costs of such education. Within this  context,  it  is  natural  that  interest  moves  to  fields  which  provide  employment  to  the individual,  which  maintains  employment  and  which  creates  job  opportunities  with  better conditions.
+would contribute to the activities. Within this context, it would be helpful if vocational institutions and private sector provide services on this matter.
+
+Acquisitions provided by education would not be a valid investment unless they are transformed to social and personal benefits. The personal benefit of education is to reach a more qualified life standard. The individual attends education activities which he / she considers to improve himself / herself, and contributes to the costs of such education. Within this context, it is natural that interest moves to fields which provide employment to the individual, which maintains employment and which creates job opportunities with better conditions.
 
 Entrepreneurship  has  a  critical  importance  in  increasing  personal  and  social  benefits  of education. Acquisitions of persons  who  are employed  turn  into benefits through an entrepreneur. The entrepreneur plays catalyst role which transforms the acquisitions of his / her  own  and  others  into  benefits.  For  that  reason,  development  of  entrepreneurialism  is important for the extension of lifelong learning.
 
@@ -695,7 +766,7 @@ It  is  advised  under  the  European  Qualifications  Framework  for  each  cou
 
  Providing  mobility  and  certification  of  personal  education  outcomes  gained  with education and experience irrespective of the place of education and workplace,
 
-It  is  the  recognition  of  the  knowledge  and  skills  previously  acquired  by  the  individuals through different ways. National Qualifications Framework, which is still being developed by VAI, is an expression of a change particularly in vocational and technical education system. The  Framework,  which  is  closely  related  with  lifelong  learning,  is  important  since  it  will allow the certification of knowledge - skills - attitudes and behaviours of individuals who are undergoing various ways of learning. The Framework will also contribute greatly to ensuring transparency  in  education.  Transparency  in  education  will  ensure  increasing  vocational education  and  training  level  and  ensure  a  healthier  execution  of  education  -  labour  employment  relation  through  the  activities  of  accreditation,  supervision,  measuring  and evaluation, documentation and certification, by providing mutual recognition in diplomas and certificates,  identifying  national  qualification  principles  in  technical  and  vocational  areas based  on  national  and  international  qualification  principles,  accreditation  of  education institutions and programs which will provide such qualifications.
+It is the recognition of the knowledge and skills previously acquired by the individuals through different ways. National Qualifications Framework, which is still being developed by VAI, is an expression of a change particularly in vocational and technical education system. The Framework, which is closely related with lifelong learning, is important since it will allow the certification of knowledge – skills – attitudes and behaviours of individuals who are undergoing various ways of learning. The Framework will also contribute greatly to ensuring transparency in education. Transparency in education will ensure increasing vocational education and training level and ensure a healthier execution of education – labour – employment relation through the activities of accreditation, supervision, measuring and evaluation, documentation and certification, by providing mutual recognition in diplomas and certificates, identifying national qualification principles in technical and vocational areas based on national and international qualification principles, accreditation of education institutions and programs which will provide such qualifications.
 
 With the Framework, people who apply for jobs will be able to document their talents and skills  in  the  labour  market  and  employers  will  employ  the  right  people  in  accordance  with such  documents.  Furthermore,  a  large  proportion  of  the  people  who  have  gained  skills  by working, but not having any education, will find an opportunity to document their skills, thus, their employment opportunities shall increase.
 
@@ -751,7 +822,7 @@ Companies and employees should adopt themselves to the continuously changing and
 #### Equal Opportunities:
 By increasing the participation of women and the disabled to the labour market, it is the primary target to ensure the integration of the disadvantaged, mainly the mentioned groups, in the labour market. It is important to take urgent measures which will help achieving this target - such as extending child and elder care services, efforts to increase the employment level of the disabled with incentives instead of punishments.
 
-Developments in the European Employment Strategy, the policy targets of which have been summarised above, are being recognized with the decisions taken in Lisbon, Stockholm and Barcelona  summits.  The  target  'to  make  the  Union  the  most  competitive  and  dynamic, information based economy of the world, to achieve full employment, to ensure a sustainable economic growth and social integration within next ten years' has been agreed in the Lisbon Summit where important steps were taken regarding the European Employment Strategy.
+Developments in the European Employment Strategy, the policy targets of which have been summarised above, are being recognized with the decisions taken in Lisbon, Stockholm and Barcelona summits. The target “to make the Union the most competitive and dynamic, information based economy of the world, to achieve full employment, to ensure a sustainable
 
 33
 
@@ -759,7 +830,11 @@ Developments in the European Employment Strategy, the policy targets of which ha
 
 [[START OF PAGE 36]]
 
-Targets  such  as  general  employment  rate  of  the  Union  should  be  70%  and  women employment rate should be 60% towards 2010 have been determined and it has been stated that annual 3% growth of the Union would be sufficient to achieve such targets. Two interim targets  and  one  new  target  have  been  determined  as  an  addition  to  such  targets  in  the Stockholm Summit. While one of the interim targets is to increase average employment rate to  67%  until  2005,  the  other  target  is  to  increase  women  employment  rate  to  57%  in  the Union. Ensuring to raise the employment rate to 50% until 2010 is the new target determined at the Summit.
+economic growth and social integration within next ten years” has been agreed in the Lisbon Summit where important steps were taken regarding the European Employment Strategy.
+
+Targets such as general employment rate of the Union should be 70% and women employment rate should be 60% towards 2010 have been determined and it has been stated that annual 3% growth of the Union would be sufficient to achieve such targets. Two interim targets and one new target have been determined as an addition to such targets in the Stockholm Summit. While one of the interim targets is to increase average employment rate to 67% until 2005, the other target is to increase women employment rate to 57% in the Union. Ensuring to raise the employment rate to 50% until 2010 is the new target determined at the Summit.
+
+Table 8. Labour Force Status of Turkey
 
 TURKEY | URBAN | RURAL
 --- | --- | --- | --- | --- | --- | ---
@@ -773,10 +848,8 @@ Rate of participation to labour force (%) | 46,2 | 47,7 | 44,4 | 46,0 | 49,2 | 5
 Rate of employment (%) | 41,2 | 41,2 | 39,0 | 38,9 | 45,2 | 45,4
 Rate of unemployment (%) | 10,6 | 13,6 | 12,2 | 15,4 | 8,1 | 10,7
 Rate of non-agricultural unemployment (%) | 13,0 | 17,3 | 12,4 | 16,0 | 15,2 | 21,5
-Rate of unemployment in young population (1) (%) | 20,6 | 25,7 | 21,3 | 27,1 | 19,3 | 23,3
+Rate of unemployment in young population (1)(%) | 20,6 | 25,7 | 21,3 | 27,1 | 19,3 | 23,3
 The ones not included in labour force (thousand) | 26 696 | 26 330 | 17 699 | 17 628 | 8 997 | 8 702
-
-Table 8. Labour Force Status of Turkey
 
 (1) Population in 15 - 24 age group
 
@@ -844,7 +917,9 @@ Lifelong Learning is a process in which employer and the state are the direct be
 
 In Turkey, the share allocated for education in the national income stayed at low levels in the past  years.  Efforts  to  allocate  more  public  resources  to  education  in  order  to  rectify  the situation are being increased in Turkey in recent years. Within this context, it is important to use resources in a correct and efficient way.
 
-Budget Allocations (million TL) | Total Education Budget's (%)
+Table 8. Distribution of Budget Allocations for Education as of Years
+
+Budget Allocations (million TL) | Total Education Budget’s (%)
 --- | --- | --- | --- | --- | ---
 Year | MONE Budget Allocation | YOK + University Budgets | Total | Consolidated / Central Administration Budget Share | GDP Share
 2003 | 10 180 | 3 347 | 13 527 | 9,2 | 3,0
@@ -855,13 +930,11 @@ Year | MONE Budget Allocation | YOK + University Budgets | Total | Consolidated 
 2008 | 22 916 | 7 318 | 30 234 | 13,6 | 3,0
 2009 | 27 884 | 8 773 | 36 656 | 14,0 | 3,3
 
-Table 8. Distribution of Budget Allocations for Education as of Years
-
 Source: MONE; National Education Statistics, 2008 - 2009
 
 Education  is  an  activity  which  provides  income  to  both  the  society  and  the  individual. Distribution of the provided income to the society and the individual changes in accordance with  the  features  of  the  country  and  types  and  stages  of  education.  Data  related  with  this matter are important for the development of policies related with funding of education. Some countries cover all expenses of education, personal benefits of which are high, from public resources. Some countries, taking into consideration the personal benefits, embrace the view that the individuals should contribute to education expenses. However, the well-known fact is that  compulsory  education  is  under  the  assurance  of  the  state  and  its  expenses  should  be covered from public resources.
 
-It  does  not  seem  possible  for  any  country  to  cover  all  expenses  of  lifelong  learning  from public resources. The countries which have relatively low level of education acquisition shall have to invest in lifelong learning more than the countries which have high level education acquisition. However, even this obligation does not remove the necessity for the beneficiaries which benefit from lifelong learning opportunities personal benefit of which is high, to cover at least some part of the cost of the service. Nevertheless, state financing is required in order to attract disadvantaged groups to education and lifelong learning.
+It does not seem possible for any country to cover all expenses of lifelong learning from public resources. The countries which have relatively low level of education acquisition shall have to invest in lifelong learning more than the countries which have high level education
 
 37
 
@@ -869,7 +942,9 @@ It  does  not  seem  possible  for  any  country  to  cover  all  expenses  of  
 
 [[START OF PAGE 40]]
 
-Financing of lifelong learning is a political issue as well as it is an economical issue. Moving only from economical necessities may cause social problems which may be impossible to be compensated. Lifelong Learning may become the priority of individuals whose economical status is not bad. Furthermore, it is necessary to attract attention to the fact that contribution of individuals  and  enterprises  to  the  financing  of  education  is  an  indicator  with  respect  to  the quality of service provided and consistency with the needs.
+acquisition. However, even this obligation does not remove the necessity for the beneficiaries which benefit from lifelong learning opportunities personal benefit of which is high, to cover at least some part of the cost of the service. Nevertheless, state financing is required in order to attract disadvantaged groups to education and lifelong learning.
+
+Financing of lifelong learning is a political issue as well as it is an economical issue. Moving only from economical necessities may cause social problems which may be impossible to be compensated. Lifelong Learning may become the priority of individuals whose economical status is not bad. Furthermore, it is necessary to attract attention to the fact that contribution of individuals and enterprises to the financing of education is an indicator with respect to the quality of service provided and consistency with the needs.
 
 Those who participated in lifelong learning activities may have one or more of the benefits below:
 
@@ -887,7 +962,7 @@ The  ones  who  will  benefit  from  the  outputs  of  education  are  not  only
 
 Another actor that benefits from lifelong learning is the state which represents the interests of the society. Highly educated labour force is a basic input for the economic development of the country. Most obvious benefits for the state are financial returns such as more tax incomes obtained from higher income and decrease in the demands for unemployment supports as a result of decrease in economical addiction.
 
-It is required to look for an answer to the question 'who will provide immediate financing?' along  with  the  question  'who  will  finally  pay?'.  It  is  possible  for  the  individuals  to  have problems with respect to paying for education while having it. However, it is expected that their  income  will  also  increase  after  the  completion  of  the  education  programme.  For  that reason, in the case that the payment is necessary when education is being acquired, it would mean that only the ones who have the resources would be able to participate in education.
+It is required to look for an answer to the question “who will provide immediate financing?” along with the question “who will finally pay?”. It is possible for the individuals to have
 
 38
 
@@ -895,7 +970,9 @@ It is required to look for an answer to the question 'who will provide immediate
 
 [[START OF PAGE 41]]
 
-Turkey  has  faced  an  important  experience  with  respect  to  contribution  of  professional institutions  to  financing  of  education.  A  fund  has  been  developed  to  which  employee  and employer unions provide resources, with Vocational Education Law numbered 3308 enacted in 1986. However, this fund could not be made a tool for an integrated financing model in vocational  and  technical  education  and  transformed  almost  to  a  tax  due  to  reasons  such  as failure to give efficient role to social parties for using it. At the beginning of 2000s a process which  resulted  with  the  cancellation  of  almost  all  funds  has  been  experienced  within  the framework of general economical measures. Within this context, it is important to put forth a holistic financing model for lifelong learning first and then to concentrate on the tools of such model.
+problems with respect to paying for education while having it. However, it is expected that their income will also increase after the completion of the education programme. For that reason, in the case that the payment is necessary when education is being acquired, it would mean that only the ones who have the resources would be able to participate in education.
+
+Turkey has faced an important experience with respect to contribution of professional institutions to financing of education. A fund has been developed to which employee and employer unions provide resources, with Vocational Education Law numbered 3308 enacted in 1986. However, this fund could not be made a tool for an integrated financing model in vocational and technical education and transformed almost to a tax due to reasons such as failure to give efficient role to social parties for using it. At the beginning of 2000s a process which resulted with the cancellation of almost all funds has been experienced within the framework of general economical measures. Within this context, it is important to put forth a holistic financing model for lifelong learning first and then to concentrate on the tools of such model.
 
 With the amendment made in the Vocational Education Law numbered 3308, an obligation for enterprises of a certain size to establish a training unit in order to provide skills training to the students of vocational high schools was put forward. Such an implementation means that some part of skills training costs of vocational high school students  will be covered by the employers.  However,  it  is  necessary  to  emphasize  that  the  development  expected  in  this matter could not be achieved.
 
@@ -917,13 +994,15 @@ Comenius  (School  Education),  Erasmus  (Higher  Education),  Leonardo  da  Vin
 
 490  million  Euros  of  resources  is  foreseen  for  the  participation  of  Turkey  to  Lifelong Learning  Program  to  be  provided  from  the  contribution  of  European  Commission  and Turkey's  national  budget  within  the  scope  of  pre-accession  funds  under  the  relevant Memorandum  of  Understanding.  Providing  contribution  to  such  resources  from  national budget at the rate of  approximately 40% should be  considered as  an investment  on human resources. It is foreseen that approximately 250 thousand beneficiaries will realise international mobility with education and training purposes and information and experience exchange until the end of 2013.
 
-Turkey's continuation to participate such programs shall be in harmony with the understanding  of  lifelong  learning.  Directorate  of  European  Union  Education  and  Youth Programs  aims  to  provide  regulations  that  allow  such  activities  to  be  made  with  countries other than EU, as many European countries have done, under the new organisational law for which the preparations are still ongoing.
+Turkey’s continuation to participate such programs shall be in harmony with the understanding of lifelong learning. Directorate of European Union Education and Youth Programs aims to provide regulations that allow such activities to be made with countries
 
 40
 
 [[END OF PAGE 42]]
 
 [[START OF PAGE 43]]
+
+other than EU, as many European countries have done, under the new organisational law for which the preparations are still ongoing.
 
 41
 
@@ -945,7 +1024,7 @@ Education,  training  and  renewal  of  education  are  important  determinants 
 
 Turkey is a country with younger population than European Union Member States. However, life expectancy exceeding retirement age, birth rate decrease, age discrimination, inclusion of fewer  youngsters  to  labour  market  in  many  EU  countries  which  are  developed  and  in transition  economy  have  necessitated  elder  labour  market  and  rising  of  early  retirement tendency.
 
-It  will  be  inevitable  in  future  years  that  needs  such  as  provision  of  active  participation  of elders  to  society  and  development  process,  benefiting  from  elder  labour  in  labour  market, covering  elders'  information  access,  education  and  training  requests,  improving  solidarity amongst  elder  and  youngster  generations,  removing  poverty  at  elder  ages  and  providing income security shall come forth when it is foreseen that life time in our country's population shall become longer in future years as it is in developed countries and accordingly number of elders who are retired shall increase.
+It will be inevitable in future years that needs such as provision of active participation of elders to society and development process, benefiting from elder labour in labour market, covering elders’ information access, education and training requests, improving solidarity amongst elder and youngster generations, removing poverty at elder ages and providing income security shall come forth when it is foreseen that life time in our country’s population
 
 42
 
@@ -953,7 +1032,9 @@ It  will  be  inevitable  in  future  years  that  needs  such  as  provision  o
 
 [[START OF PAGE 45]]
 
-New policies  in  Turkey  for  flexible  retirement,  new  working  arrangements,  preparation  of appropriate working environments, benefiting from experience, capacities and consultations of  individuals in all age groups acquired through age, extension of employability period of elders such as vocational rehabilitation for disabled elders, giving more importance to access to  information,  education  and  development  possibilities  for  employed  elders  and  in  order elders  not  to  face  bigger  difficulties  than  of  youngsters  while  they  were  adopting  new technologies particularly information technologies which are spreading more and more day by day.
+shall become longer in future years as it is in developed countries and accordingly number of elders who are retired shall increase.
+
+New policies in Turkey for flexible retirement, new working arrangements, preparation of appropriate working environments, benefiting from experience, capacities and consultations of individuals in all age groups acquired through age, extension of employability period of elders such as vocational rehabilitation for disabled elders, giving more importance to access to information, education and development possibilities for employed elders and in order elders not to face bigger difficulties than of youngsters while they were adopting new technologies particularly information technologies which are spreading more and more day by day.
 
 43
 
@@ -967,13 +1048,15 @@ With this strategy paper, it has been stated at the introduction of the paper th
 
 In  preparation  of  the  document,  the  primary  principle  adopted  was  that  needs  and interests  of  the  community  are  determined,  a  policy  is  established,  legal  substructure  is prepared,  operation  legislation  is  developed,  programmes  are  renewed,  and  that  they  are included  in  the  whole  process  from  the  provision  of  labour  force  and  financial  support through  various  means  until  the  implementation  stage.  Furthermore,  in  the  document  it  is foreseen that the system to be established will be consistent at a level to cover expectations of the  society,  has  the  content  to  include  all  segments  of  the  society,  transparent  and  reliable function and conforms with implementations in European countries. It is expected that this understanding will be carried on within the course of implementation process as well. In the event that the document is put into operation and LLL system is established, it shall put forth various  benefits  to  individuals;  besides  it  shall  make  contributions  to  development  of  the country economically, socially, culturally and politically. Some contributions believed to be important may be listed as follows in sequence:  first of all, subsequent to placement of the individual  in  the  programme  of  lifelong  learning  system,  it  is  expected  that  he  captures learning  habit,  he  obtains  new  acquisitions  in  terms  of  knowledge,  skill,  and  experience through learning, and he uses the said acquisitions at circles to be encountered, and at times when deemed necessary. Thereby the background of the individual shall be enriched, he shall be able to work in different sectors, and employers shall be able to find persons, they look for, much more easily. The paper in this regard shall be helpful in terms of a new but a much more effective employment organization in the country in this regard.
 
-Within  the  scope  of  the  document,  it  is  foreseen  that  various  learning  environments  are prepared, and enriching their background in various fields in terms of knowledge, skill and experience.  This  fact  shall  contribute  to  the  fact  that  they  know  themselves  better,  they compensate their insufficient aspects, and gain self-confidence. Therefore, the person shall be able  to  benefit  from  the  opportunities  to  be  encountered  much  more  easily,  and  it  shall  be ensured that he takes much more reasonable decisions regarding actions to be taken in life and how  he  shall  manage  them.  Besides,  individuals  shall  be  much  more  eager  in  terms  of research,  evaluation,  exploration  and  development  of  new  sectors.  In  the  event  that  we establish LLL system, it is no doubt that some differences shall arise in the individual in terms of knowledge, skill, attitude and behaviour. The said differences primarily comprise making an effort for issues such as knowing oneself better, being aware of strengths and weaknesses, compensating weaknesses, and formation of reasonable life standards. As a result of the effort to  be  made,  the  individual  shall  obtain  sufficiency  not  only  in  a  single  field;  but  in  many fields.  This  fact  shall  lead  to  the  result  of  opening  new  employment  opportunities  for  the individual.  Especially,  unemployed,  unqualified  or  less  qualified  individuals  benefit  from such an environment.
+Within the scope of the document, it is foreseen that various learning environments are prepared, and enriching their background in various fields in terms of knowledge, skill and experience. This fact shall contribute to the fact that they know themselves better, they compensate their insufficient aspects, and gain self-confidence. Therefore, the person shall be able to benefit from the opportunities to be encountered much more easily, and it shall be ensured that he takes much more reasonable decisions regarding actions to be taken in life and how he shall manage them. Besides, individuals shall be much more eager in terms of
 
 44
 
 [[END OF PAGE 46]]
 
 [[START OF PAGE 47]]
+
+research, evaluation, exploration and development of new sectors. In the event that we establish LLL system, it is no doubt that some differences shall arise in the individual in terms of knowledge, skill, attitude and behaviour. The said differences primarily comprise making an effort for issues such as knowing oneself better, being aware of strengths and weaknesses, compensating weaknesses, and formation of reasonable life standards. As a result of the effort to be made, the individual shall obtain sufficiency not only in a single field; but in many fields. This fact shall lead to the result of opening new employment opportunities for the individual. Especially, unemployed, unqualified or less qualified individuals benefit from such an environment.
 
 45
 
@@ -991,7 +1074,7 @@ It is highly critical that measures to be taken for realization of priorities ar
 
 Vocational  Education  Committee,  established  within  the  scope  of  Vocational  and Technical  Education  Regulation,  put  into  force  by  being  published  in  the  Official  Gazette dated  03.07.2002  and  numbered  24804  as  well  as  on  the  Notices  Journal,  numbered 2002/2539, has been determined as the committee in charge of Coordination and Monitoring of Lifelong Learning Strategies in Turkey  prior to establishment of necessary legal arrangements.    Regulation  amendment  in  this  regard  is  made  by  the  Ministry  of  National Education.  It  is  ensured  that  apart  from  other  agenda  items,  the  issue  of  Coordination  and Monitoring  of  Lifelong  Learning  Strategy  Implementations  are  negotiated.  The  Committee convenes semi-annually. The first meeting to be held by the committee by taking the issue into regard as an agenda is the first week of the seventh month subsequent to publication of Lifelong Learning Strategy Paper of Turkey, and Action Plan. On the basis of the result of legislation amendment to be made within the scope of the action plan, the relevant task shall be conducted by the authorized institution.
 
-Units in charge of the action plan are responsible for preparation for activity plans for each measure under each activity in line with strategy papers and action plans, assumed with relevant institutions previously in the meantime. The said activity plans are prepared on the basis  of  a  participative  understanding  and  comprise  costs  in  line  with  policies  of  Turkey within five months as of official adoption of Lifelong Learning Strategy Paper of Turkey and Action Plan. Prepared activity plans are submitted to the Secretariat so as to ensure that they are  negotiated  at  the  Committee.  Activity  plans  shall  be  presented  for  approval  of  the committee by the Secretariat. For activity plans, which have not been approved, grounds for disapproval shall be clearly expressed, a correction term of one month shall be granted, and a commission, comprising 5 people of Committee members, shall be granted the authority of approval for the corrected action plans. The Commission negotiates the relevant activity plan at the end of the term of one month, and shall take a decision in this regard.
+Units in charge of the action plan are responsible for preparation for activity plans for each measure under each activity in line with strategy papers and action plans, assumed with relevant institutions previously in the meantime. The said activity plans are prepared on the basis of a participative understanding and comprise costs in line with policies of Turkey within five months as of official adoption of Lifelong Learning Strategy Paper of Turkey and
 
 1
 
@@ -999,7 +1082,9 @@ Units in charge of the action plan are responsible for preparation for activity 
 
 [[START OF PAGE 49]]
 
-Relevant unit/institutions are responsible for making  quarterly notifications to 'monitoring'  unit,  established  within  the  structure  of  the  Secretariat  with  regard  to  the conducted transactions in line with activity plans, approved at the Committee. The Secretariat compares  quarterly  notices,  presented  to  the  monitoring  unit  with  activity  plans,  prepares semi-annually general evaluation reports, and submits to the Committee. Decisions, taken by the Committee, shall be announced by the secretariat to relevant units/institutions. In the event that it is  deemed necessary, the Secretariat shall have the authority to invite representatives from units/institutions in order for them to render information at the committee.
+Action Plan. Prepared activity plans are submitted to the Secretariat so as to ensure that they are negotiated at the Committee. Activity plans shall be presented for approval of the committee by the Secretariat. For activity plans, which have not been approved, grounds for disapproval shall be clearly expressed, a correction term of one month shall be granted, and a commission, comprising 5 people of Committee members, shall be granted the authority of approval for the corrected action plans. The Commission negotiates the relevant activity plan at the end of the term of one month, and shall take a decision in this regard.
+
+Relevant unit/institutions are responsible for making quarterly notifications to “monitoring” unit, established within the structure of the Secretariat with regard to the conducted transactions in line with activity plans, approved at the Committee. The Secretariat compares quarterly notices, presented to the monitoring unit with activity plans, prepares semi-annually general evaluation reports, and submits to the Committee. Decisions, taken by the Committee, shall be announced by the secretariat to relevant units/institutions. In the event that it is deemed necessary, the Secretariat shall have the authority to invite representatives from units/institutions in order for them to render information at the committee.
 
 Effective implementation of Lifelong Learning strategies in Turkey shall facilitate integration of Turkey with the world; especially with EU, and shall provide an advantage in terms of attainment of purposes, determined in Lisbon Strategy, foreseeing that Turkey becomes the most competitive, dynamic and information-based economy in the world as of the year 2010.
 
@@ -1011,11 +1096,11 @@ Effective implementation of Lifelong Learning strategies in Turkey shall facilit
 
 PRIORITY | MEASURE | AUTHORIZED ORGANIZATION | RELEVANT ORGANIZATION | TERM
 --- | --- | --- | --- | ---
-1 1. . M Ma ak ki in ng g a a L Le eg ga al l A Ar rr ra an ng ge em me en nt t w wi it th hi in n t th he e S Sc co op pe e o of f w wh hi ic ch h T Ta as sk ks s a an nd d R Re es sp po on ns si ib bi il li it ti ie es s o of f P Pa ar rt ti ie es s a ar re e C Cl le ea ar rl ly y | 1.1 'Lifelong Learning Committee' shall be established with participation of relevant ministries, institutions, senior managers under chairmanship and in the secretariat of MoNE so as to conduct tasks and responsibilities, taking place in HBO strategy paper. | MoNE | Ministry of Finance, Ministry of Labour and Social Security, State Planning Organization, CoHE, MYK, İŞKUR, Universities, Local Administrations, Trade Unions and Confederations, TESK, | 2010
-I In nd di ic ca at te ed d f fo or r C Co oo or rd di in na at ti io on n o of f L Li if fe el lo on ng g L Le ea ar rn ni in ng g | 1.2 The law and legislation, which is in line with conditions of Turkey, on Lifelong learning, and tasks and responsibilities of relevant parties shall be defined within the scope of LLL. | MoNE | TOBB, NGO's. Ministry of Finance, Ministry of Labour and Social Security, State Planning Organization, CoHE, VQA, İŞKUR, Universities, Local Administrations, Trade Unions and Confederations, TESK, TOBB, NGO's. Ministry of Labour and | 2010
-1.3 It shall be ensured that private and public agencies establish lifelong learning policies, and that their implementations are evaluated and supported. | MoNE | Social Security TOBB, TESK, Local Administrations, NGO's. | 2013
-2 2. . I In nc cr re ea as si in ng g t th he e L Le ev ve el l o of f S So oc ci ia al l A Aw wa ar re en ne es ss s a an nd d E Es st ta ab bl li is sh hm me en nt t o of f a a | 2. 1 Family training studies will be expanded. | MoNE | Ministry of Health, SHÇEK, KSGM, ASAGM, TRT, Local Administrations, NGO's. | 2013
-L Li if fe el lo on ng g L Le ea ar rn ni in ng g C Cu ul lt tu ur re e | 2.2 Programmes and broadcasts shall be available in media, which shall increase Lifelong learning awareness. | RTÜK | TRT, Media | 2013
+1. Making a Legal Arrangement within the Scope of which Tasks and Responsibilities of Parties are Clearly Indicated for Coordination of Lifelong Learning | 1.1 “Lifelong Learning Committee” shall be established with participation of relevant ministries, institutions, senior managers under chairmanship and in the secretariat of MoNE so as to conduct tasks and responsibilities, taking place in HBO strategy paper. | MoNE | Ministry of Finance, Ministry of Labour and Social Security, State Planning Organization, CoHE, MYK, İŞKUR, Universities, Local Administrations, Trade Unions and Confederations, TESK, TOBB, NGO’s. | 2010
+ | 1.2 The law and legislation, which is in line with conditions of Turkey, on Lifelong learning, and tasks and responsibilities of relevant parties shall be defined within the scope of LLL. | MoNE | Ministry of Finance, Ministry of Labour and Social Security, State Planning Organization, CoHE, VQA, İŞKUR, Universities, Local Administrations, Trade Unions and Confederations, TESK, TOBB, NGO’s. | 2010
+ | 1.3 It shall be ensured that private and public agencies establish lifelong learning policies, and that their implementations are evaluated and supported. | MoNE | Ministry of Labour and Social Security TOBB, TESK, Local Administrations, NGO’s. | 2013
+2. Increasing the Level of Social Awareness and Establishment of a Lifelong Learning Culture | 2.1 Family training studies will be expanded. | MoNE | Ministry of Health, SHÇEK, KSGM, ASAGM, TRT, Local Administrations, NGO’s. | 2013
+ | 2.2 Programmes and broadcasts shall be available in media, which shall increase Lifelong learning awareness. | RTÜK | TRT, Media | 2013
 
 1
 
@@ -1025,11 +1110,11 @@ L Li if fe el lo on ng g L Le ea ar rn ni in ng g C Cu ul lt tu ur re e | 2.2 Pr
 
 PRIORITY | MEASURE | AUTHORIZED ORGANIZATION | RELEVANT ORGANIZATION | TERM
 --- | --- | --- | --- | ---
-2.3 It shall be promoted that non-governmental organizations, professional unions, and local administrations participate in Lifelong learning activities with labour power and financial sources much more effectively. | MoNE | Ministry of Interior Affairs, Local Administrations, Trade Unions and Confederations, TESK, TOBB, NGO's. | 2013
-2.4 In order to promote LLL, it shall be ensured that knowledge-skill and experiences of individuals are awarded and evaluated. | MoNE | STB, Ministry of Health, CoHE, VQA | 2013
-3.1 Scanning shall be made for selection of appropriate data and data sources at national and international level. | TURKSTAT | MoNE, Ministry of Labour and Social Security, State Planning Organization, YÖK, İŞKUR, SHÇEK | 2010
-3 3. . S St tr re en ng gt th he en ni in ng g D Da at ta a C Co ol ll le ec ct ti io on n S Sy ys st te em m f fo or r E Ef ff fe ec ct ti iv ve e M Mo on ni it to or ri in ng g, , E Ev va al lu ua at ti io on n, , a an nd d D De ec ci is si io on n- -M Ma ak ki in ng g. . | 3.2 Statistics developed for helping making decisions in terms of LLL activities wil be presented to use of the parties concerned. | TURKSTAT | Ministry of Finance, MoNE, Ministry of Labour and Social Security, State Planning Organization CoHE, İŞKUR, SHÇEK | 2012
-3.3 Benefit and satisfaction level of people, participating in LLL activities, shall be determined. | TURKSTAT | MoNE, Ministry of Labour and Social Security, CoHE, İŞKUR, SHÇEK, Trade Unions and Confederations | 2012
+ | 2.3 It shall be promoted that non-governmental organizations, professional unions, and local administrations participate in Lifelong learning activities with labour power and financial sources much more effectively. | MoNE | Ministry of Interior Affairs, Local Administrations, Trade Unions and Confederations, TESK, TOBB, NGO’s. | 2013
+ | 2.4 In order to promote LLL, it shall be ensured that knowledge-skill and experiences of individuals are awarded and evaluated. | MoNE | STB, Ministry of Health, CoHE, VQA | 2013
+3. Strengthening Data Collection System for Effective Monitoring, Evaluation, and Decision-Making. | 3.1 Scanning shall be made for selection of appropriate data and data sources at national and international level. | TURKSTAT | MoNE, Ministry of Labour and Social Security, State Planning Organization, YÖK, İŞKUR, SHÇEK | 2010
+ | 3.2 Statistics developed for helping making decisions in terms of LLL activities wil be presented to use of the parties concerned. | TURKSTAT | Ministry of Finance, MoNE, Ministry of Labour and Social Security, State Planning Organization CoHE, İŞKUR, SHÇEK | 2012
+ | 3.3 Benefit and satisfaction level of people, participating in LLL activities, shall be determined. | TURKSTAT | MoNE, Ministry of Labour and Social Security, CoHE, İŞKUR, SHÇEK, Trade Unions and Confederations | 2012
 
 2
 
@@ -1037,13 +1122,13 @@ PRIORITY | MEASURE | AUTHORIZED ORGANIZATION | RELEVANT ORGANIZATION | TERM
 
 [[START OF PAGE 52]]
 
-MEASURE | AUTHORIZED ORGANIZATION | RELEVANT ORGANIZATION | TERM
---- | --- | --- | ---
-3.4 LLL Committee shall convene at regular intervals and evaluate activities. | MoNE | Ministry of Finance, Ministry of Labour and Social Security, State Planning Organization, CoHE, VQA, İŞKUR, Universites, Local Administrations, Trade Unions and Confederations, TESK, TOBB, NGO's. | 2010
-3.5 'LLL Basic Indicators' book shall be published. | MoNE | TUİK | 2011
-at t 4.1 The illiterate, primarily residing in rural areas and who are disadvantaged (the old, women, and handicapped etc.) shall be determined, their participation in literacy courses shall be promoted, and it shall be ensured that they gain literacy. | MoNE | Chairmanship for Handicapped Affairs, Chairmanship of Religious Affairs, TSK, KSGM, ASAGM, Local Administrations, Trade Unions, Media, TRT, NGO's. | 2013
-4.2 Minimum education opportunities shall be ensured for segments of the society, who were not able to benefit from corporate education, and who were devoid of the right to basic education in line with the needs of time. | MoNE | Ministry of Health, TSK, Security General Directorate, Local Administrations, NGO's. | 2012
-4.3 It shall be ensured that individuals, who have recently gained competence of literacy, and those, who already possess the said competence, develop their literacy practices. | MoNE | Ministry of Culture and Tourism, Ministry of Interior Affairs, Local Administrations Media, Trade Unions, NGO's. | 2013
+PRIORITY | MEASURE | AUTHORIZED ORGANIZATION | RELEVANT ORGANIZATION | TERM
+--- | --- | --- | --- | ---
+ | 3.4 LLL Committee shall convene at regular intervals and evaluate activities. | MoNE | Ministry of Finance, Ministry of Labour and Social Security, State Planning Organization, CoHE, VQA, İŞKUR, Universites, Local Administrations, Trade Unions and Confederations, TESK, TOBB, NGO’s. | 2010
+ | 3.5 “LLL Basic Indicators” book shall be published. | MoNE | TUİK | 2011
+4. It shall be ensured that all individuals gain literacy, and there is an increase in the level of literacy. | 4.1 The illiterate, primarily residing in rural areas and who are disadvantaged (the old, women, and handicapped etc.) shall be determined, their participation in literacy courses shall be promoted, and it shall be ensured that they gain literacy. | MoNE | Chairmanship for Handicapped Affairs, Chairmanship of Religious Affairs, TSK, KSGM, ASAGM, Local Administrations, Trade Unions, Media, TRT, NGO’s. | 2013
+ | 4.2 Minimum education opportunities shall be ensured for segments of the society, who were not able to benefit from corporate education, and who were devoid of the right to basic education in line with the needs of time. | MoNE | Ministry of Health, TSK, Security General Directorate, Local Administrations, NGO’s. | 2012
+ | 4.3 It shall be ensured that individuals, who have recently gained competence of literacy, and those, who already possess the said competence, develop their literacy practices. | MoNE | Ministry of Culture and Tourism, Ministry of Interior Affairs, Local Administrations Media, Trade Unions, NGO’s. | 2013
 
 3
 
@@ -1053,13 +1138,13 @@ at t 4.1 The illiterate, primarily residing in rural areas and who are disadvant
 
 PRIORITY | MEASURE | AUTHORIZED ORGANIZATION | RELEVANT ORGANIZATION | TERM
 --- | --- | --- | --- | ---
-4.4 In order for literacy not to be minimized to solely alphabet knowledge, literacy concept shall be handled under EU and OECD standards and shall be defined in this context. | MoNE | TURKSTAT | 2010
-5 5. . E En ns su ur ri in ng g I In nc cr re ea as se e i t th he e L Le ev ve el l o of f E Ed du uc ca at ti io on n F Fa ac ci il li it ti ie es s i A Al ll l S St ta ag ge es s o of f | 5.1 In order for children, who are disadvantageous socio- economically, to benefit from compulsory education, financial support shall be sustained and services rendered shall be diversified. | MoNE | Ministry of Finance, SYDGM, KSGM, Local Administrations, NGO's. | 2013
-in n | 5.2 In order to increase the level of educational facilities in secondary education, the level of financial opportunities shall be increased starting from girls, those, residing in rural areas and children of low income families. | MoNE | Ministry of Finance, State Planning Organization, SYDGM, Local Administrations, NGO's. | 2013
-in n E Ed du uc ca at ti io on n, , P Pr ri im ma ar ri il ly y B Ba as si ic c E Ed du uc ca at ti io on n | 5.3 Mechanisms aiming at determining children, who can quit school at an early age shall be expanded to include the secondary education, problems shall be examined, and necessary measures shall be taken. | MoNE | SHÇEK, SYDGM, Local Administrations, NGO's. | 2011
-5.4 Special importance shall be attached to development of distance education, and a special education channel shall be established. | MoNE | MoNE, TRT | 2010
-5.5 Preschool education, shall be expanded by prioritizing the disadvantaged segments. | MoNE | Local Administrations, NGO's. | 2013
-6 6. . E En ns su ur ri in ng g A Al li ig gn nm me en nt t o of f E Ed du uc ca at ti io on n I In ns st ti it tu ut ti io on ns s' ' P Ph hy ys si ic ca al l | 6.1 .In order to establish 'a positive learning medium', physical capacity of education facilities shall be increased and they shall equipped with modern materials. | MoNE | Ministry of Finance, State Planning Organization, SYDGM, Local Administrations, NGO's. | 2013
+ | 4.4 In order for literacy not to be minimized to solely alphabet knowledge, literacy concept shall be handled under EU and OECD standards and shall be defined in this context. | MoNE | TURKSTAT | 2010
+5. Ensuring Increase in the Level of Education Facilities in All Stages of Education, Primarily Basic Education | 5.1 In order for children, who are disadvantageous socio-economically, to benefit from compulsory education, financial support shall be sustained and services rendered shall be diversified. | MoNE | Ministry of Finance, SYDGM, KSGM, Local Administrations, NGO’s. | 2013
+ | 5.2 In order to increase the level of educational facilities in secondary education, the level of financial opportunities shall be increased starting from girls, those, residing in rural areas and children of low income families. | MoNE | Ministry of Finance, State Planning Organization, SYDGM, Local Administrations, NGO’s. | 2013
+ | 5.3 Mechanisms aiming at determining children, who can quit school at an early age shall be expanded to include the secondary education, problems shall be examined, and necessary measures shall be taken. | MoNE | SHÇEK, SYDGM, Local Administrations, NGO’s. | 2011
+ | 5.4 Special importance shall be attached to development of distance education, and a special education channel shall be established. | MoNE | MoNE, TRT | 2010
+ | 5.5 Preschool education, shall be expanded by prioritizing the disadvantaged segments. | MoNE | Local Administrations, NGO’s. | 2013
+6. Ensuring Alignment of Education Institutions’ Physical | 6.1 .In order to establish “a positive learning medium”, physical capacity of education facilities shall be increased and they shall equipped with modern materials. | MoNE | Ministry of Finance, State Planning Organization, SYDGM, Local Administrations, NGO’s. | 2013
 
 4
 
@@ -1069,12 +1154,12 @@ in n E Ed du uc ca at ti io on n, , P Pr ri im ma ar ri il ly y B Ba as si ic c 
 
 PRIORITY | MEASURE | AUTHORIZED ORGANIZATION | RELEVANT ORGANIZATION | TERM
 --- | --- | --- | --- | ---
-S Su ub bs st tr ru uc ct tu ur re e a an nd d t th he e N Nu um mb be er r a an nd d Q Qu ua al li it ty y o of f E Ed du uc ca at ti io on n P Pe er rs so on nn ne el l. . | 6.2 Quality of in-service and pre-service education activities shall be increased. | MoNE | MoNE, DPB, TRT, Universities | 2013
-6.3 Capacities of professional bodies and nongovernmental organizations shall be strengthened. | MoNE | KOSGEB, TESK, TOBB, Trade Unions and Confederations, NGO's. | 2013
-6.4 It shall be ensured that private and public organizations establish Lifelong learning policies, and that they are evaluated and supported. | MoNE | ÇSGB, TOBB, TESK, Local Administrations, NGO's. | 2013
-7.1 Individual needs shall be taken into consideration at every level of formal and informal education, and educational programs shall be constantly updated. | MoNE | CoHE, Universities, Local Administrations, NGO's. | 2013
-7 7. . C Co on ns st ta an nt t U Up pd da at ti in ng g E Ed du uc ca at ti io on n P Pr ro og gr ra am mm me e i in n l li in ne e w wi it th h C Ch ha an ng gi in ng g N Ne ee ed ds s | 7.2 Development of foreign language programmes, where practical implementations are dominant, shall be sustained. | MoNE | CoHE, Universities, Trade Unions and Confederations, | 2013
-7.3 The curriculum, which shall ensure information technology literacy, shall be updated, and access to individuals to service shall be facilitated. | MoNE | TRT, RTÜK, Media | 2013
+Substructure and the Number and Quality of Education Personnel. | 6.2 Quality of in-service and pre-service education activities shall be increased. | MoNE | MoNE, DPB, TRT, Universities | 2013
+ | 6.3 Capacities of professional bodies and nongovernmental organizations shall be strengthened. | MoNE | KOSGEB, TESK, TOBB, Trade Unions and Confederations, NGO’s. | 2013
+ | 6.4 It shall be ensured that private and public organizations establish Lifelong learning policies, and that they are evaluated and supported. | MoNE | ÇSGB, TOBB, TESK, Local Administrations, NGO’s. | 2013
+7. Constant Updating Education Programme in line with Changing Needs | 7.1 Individual needs shall be taken into consideration at every level of formal and informal education, and educational programs shall be constantly updated. | MoNE | CoHE, Universities, Local Administrations, NGO’s. | 2013
+ | 7.2 Development of foreign language programmes, where practical implementations are dominant, shall be sustained. | MoNE | CoHE, Universities, Trade Unions and Confederations, | 2013
+ | 7.3 The curriculum, which shall ensure information technology literacy, shall be updated, and access to individuals to service shall be facilitated. | MoNE | TRT, RTÜK, Media | 2013
 
 5
 
@@ -1084,12 +1169,12 @@ S Su ub bs st tr ru uc ct tu ur re e a an nd d t th he e N Nu um mb be er r a an
 
 PRIORITY | MEASURE | AUTHORIZED ORGANIZATION | RELEVANT ORGANIZATION | TERM
 --- | --- | --- | --- | ---
-8 8. . I In n o or rd de er r t to o E En ns su ur t th ha at t I In nd di iv vi id du ua al ls s C Co om mp pl ly y w wi it th h C Ch ha an ng gi in ng g N Ne ee ed ds s o of f T Ti im me e, , M Ma ak ki in ng g I In nf fo or rm ma at ti io on n a an nd d C Co om mm mu un ni ic ca at ti io on n T Te ec ch hn no ol lo og gi ie es s M Mu uc ch h M Mo or re e E Ef ff fe ec ct ti iv ve e | 8.1 Internet access substructure of schools and Public Internet Access Sectors (KİEM) shall be completed and competent trainers shall be authorized. | MoNE | Ministry of Communications, Ministry of Culture and Tourism, CoHE, SHÇEK, TSK | 2012
-8.2 It shall be ensured that open access sources are increased within the scope of e-learning implementations. | MoNE | CoHE, TRT, Universities | 2013
-re e | 8.3 Awareness and demand shall be established in LLL in terms of information technologies. | MoNE | TRT, Universities, NGO's. | 2013
-8.4 In order for individuals to comply with changing needs of the age, legal arrangements shall be made with a view to making use of information and communication technologies much more effective. | MoNE | Ministry of Interior Affairs, Ministry of Communications, State Planning Organization, CoHE | 2012
-8.5 Arrangement of broadcasts in line with the issue, demand and needs in visual and audio media with regard to information and communication technologies. | RTÜK | TRT, Media | 2012
-8.6 A national and international information network, supporting Lifelong learning, shall be established. | MoNE | Ministry of Communications, Chairmanship of EU Education and Youth Programmes Center | 2013
+8. In order to Ensure that Individuals Comply with Changing Needs of Time, Making Information and Communication Technologies Much More Effective | 8.1 Internet access substructure of schools and Public Internet Access Sectors (KİEM) shall be completed and competent trainers shall be authorized. | MoNE | Ministry of Communications, Ministry of Culture and Tourism, CoHE, SHÇEK, TSK | 2012
+ | 8.2 It shall be ensured that open access sources are increased within the scope of e-learning implementations. | MoNE | CoHE, TRT, Universities | 2013
+ | 8.3 Awareness and demand shall be established in LLL in terms of information technologies. | MoNE | TRT, Universities, NGO’s. | 2013
+ | 8.4 In order for individuals to comply with changing needs of the age, legal arrangements shall be made with a view to making use of information and communication technologies much more effective. | MoNE | Ministry of Interior Affairs, Ministry of Communications, State Planning Organization, CoHE | 2012
+ | 8.5 Arrangement of broadcasts in line with the issue, demand and needs in visual and audio media with regard to information and communication technologies. | RTÜK | TRT, Media | 2012
+ | 8.6 A national and international information network, supporting Lifelong learning, shall be established. | MoNE | Ministry of Communications, Chairmanship of EU Education and Youth Programmes Center | 2013
 
 6
 
@@ -1099,13 +1184,13 @@ re e | 8.3 Awareness and demand shall be established in LLL in terms of informat
 
 PRIORITY | MEASURE | AUTHORIZED ORGANIZATION | RELEVANT ORGANIZATION | TERM
 --- | --- | --- | --- | ---
-9 9. . A At tt ta ac ch hi in ng g I Im mp po or rt ta an nc ce e t to o D Di is sa ad dv va an nt ta ag ge ed d P Pe er rs so on ns s i in n t th he e C Co ou ur rs se e o of f P Pa ar rt ti ic ci ip pa at ti io on n t to o L Li if fe el lo on ng g L Le ea ar rn ni in ng g | 8.7 It shall be ensured that experiences of academicians in universities are transferred to formal and informal educational facilities. | CoHE | MoNE, Universities
-9.1 The scope of the supporting education, given to individuals, needing private education, shall be extended. | MoNE | CoHE, Universities, NGO's. | 2013
-9.2 It shall be ensured that formal education, given for the handicapped, is supported by informal education. | MoNE | Chairmanship for Handicapped Affairs, Local Administrations, NGO's. | 2013
-9.3 Promotion mechanisms shall be developed in order for inclusion of working children in education. | Ministry of Labour and Social Affairs | MoNE, TRT, İŞKUR, Local Administrations, NGO's. | 2013
-9.4 Skills, obtained by housewives, and young girls, who have not completed their education, shall be supported by vocational informal education programmes, entrepreneurship and marketing competences shall be given, and their economic capacities shall be upgraded. | MoNE | İŞKUR, KSGM, Local Administrations, NGO's. | 2013
-9.5 Families, migrating from rural areas to cities, and whose socio-economic level is low, shall be strengthened with alignment, citizenship education and family trainings. | MoNE | Ministry of Labour and Social Affairs, Local Administrations, NGO's. | 2013
-9.6 Through 'family trainings' for disadvantaged families (mother-child, my family, father support etc) expansion of trainings shall be ensured. | MoNE | Ministry of Health, SHÇEK, ASAGM, Local Administrations, NGO's. | 2013
+ | 8.7 It shall be ensured that experiences of academicians in universities are transferred to formal and informal educational facilities. | CoHE | MoNE, Universities |
+9. Attaching Importance to Disadvantaged Persons in the Course of Participation to Lifelong Learning | 9.1 The scope of the supporting education, given to individuals, needing private education, shall be extended. | MoNE | CoHE, Universities, NGO’s. | 2013
+ | 9.2 It shall be ensured that formal education, given for the handicapped, is supported by informal education. | MoNE | Chairmanship for Handicapped Affairs, Local Administrations, NGO’s. | 2013
+ | 9.3 Promotion mechanisms shall be developed in order for inclusion of working children in education. | Ministry of Labour and Social Affairs | MoNE, TRT, İŞKUR, Local Administrations, NGO’s. | 2013
+ | 9.4 Skills, obtained by housewives, and young girls, who have not completed their education, shall be supported by vocational informal education programmes, entrepreneurship and marketing competences shall be given, and their economic capacities shall be upgraded. | MoNE | İŞKUR, KSGM, Local Administrations, NGO’s. | 2013
+ | 9.5 Families, migrating from rural areas to cities, and whose socio-economic level is low, shall be strengthened with alignment, citizenship education and family trainings. | MoNE | Ministry of Labour and Social Affairs, Local Administrations, NGO’s. | 2013
+ | 9.6 Through “family trainings” for disadvantaged families (mother-child, my family, father support etc) expansion of trainings shall be ensured. | MoNE | Ministry of Health, SHÇEK, ASAGM, Local Administrations, NGO’s. | 2013
 
 7
 
@@ -1115,11 +1200,11 @@ PRIORITY | MEASURE | AUTHORIZED ORGANIZATION | RELEVANT ORGANIZATION | TERM
 
 PRIORITY | MEASURE | AUTHORIZED ORGANIZATION | RELEVANT ORGANIZATION | TERM
 --- | --- | --- | --- | ---
-9.7 Cooperation mechanism shall be developed for removal of accommodation problems of family members of the sentenced, and street boys, and directing them towards vocational and informal education. | SHÇEK | MoNE, Ministry of Labour and Social Affairs, Security General Directorate, Local Administrations, NGO's. | 2013
-9.8 It shall be ensured that family training programmes for groups with special needs are prepared. | MoNE | SHÇEK, ASAGM, Chairmanship for Handicapped Affairs, Local Administrations | 2013
-10.1 Journals, manuals and programmes shall be prepared for promotion of professions and awareness of students in terms of professions shall be ensured. | MoNE | STB, İŞKUR, VQA, TESK, TOBB, Trade Unions and Confederations, NGO's. | 2013
-1 10 0. . S St tr re en ng gt th he en ni in ng g V Vo oc ca at ti io on na al l G Gu ui id da an nc ce e S Se er rv vi ic ce es s w wi it th hi in n t th he e S Sc co op pe e o of f L Li if fe el lo on ng g L Le ea ar rn ni in ng g | 10.2 It shall be ensured that guidance and consultancy services capacity is increased in educational institutions and in the business world. | MoNE | ÇSGB, STB, İŞKUR, TESK, TOBB, Trade Unions and Conferedarations | 2013
-10.3 Vocational awareness of students shall be increased through activities such as career days, business tours, internships, courses etc. in post secondary schools and secondary schools. | MoNE | ÇSGB, STB, YÖK, İŞKUR, GSGM, Universities, Local Administrations, Trade Unions and Conferedarations, NGO's. | 2013
+ | 9.7 Cooperation mechanism shall be developed for removal of accommodation problems of family members of the sentenced, and street boys, and directing them towards vocational and informal education. | SHÇEK | MoNE, Ministry of Labour and Social Affairs, Security General Directorate, Local Administrations, NGO’s. | 2013
+ | 9.8 It shall be ensured that family training programmes for groups with special needs are prepared. | MoNE | SHÇEK, ASAGM, Chairmanship for Handicapped Affairs, Local Administrations | 2013
+10. Strengthening Vocational Guidance Services within the Scope of Lifelong Learning | 10.1 Journals, manuals and programmes shall be prepared for promotion of professions and awareness of students in terms of professions shall be ensured. | MoNE | STB, İŞKUR, VQA, TESK, TOBB, Trade Unions and Confederations, NGO’s. | 2013
+ | 10.2 It shall be ensured that guidance and consultancy services capacity is increased in educational institutions and in the business world. | MoNE | ÇSGB, STB, İŞKUR, TESK, TOBB, Trade Unions and Conferedarations | 2013
+ | 10.3 Vocational awareness of students shall be increased through activities such as career days, business tours, internships, courses etc. in post secondary schools and secondary schools. | MoNE | ÇSGB, STB, YÖK, İŞKUR, GSGM, Universities, Local Administrations, Trade Unions and Conferedarations, NGO’s. | 2013
 
 8
 
@@ -1129,12 +1214,12 @@ PRIORITY | MEASURE | AUTHORIZED ORGANIZATION | RELEVANT ORGANIZATION | TERM
 
 PRIORITY | MEASURE | AUTHORIZED ORGANIZATION | RELEVANT ORGANIZATION | TERM
 --- | --- | --- | --- | ---
-10.4 It shall be ensured that MoNE guidance and research centers and İŞKY vocational guidance and consultancy services have a structure and functionality, sufficient for career development plans preparation and implementation of students and adults. | MoNE | ÇSGB, İŞKUR | 2011
-10.5 Extension of 'updating and development' programmes, supporting constant education in post secondary schools shall towards specialty field shall be ensured. | CoHE | MONE, TESK, TOBB, Trade Unions and Confederations | 2013
-10.6 Necessary trainings shall be given to individuals in the field of 'Entrepreneurship'. | MoNE | CoHE, KOSGEB, İŞKUR | 2013
-1 11 1. . | 11.1 'National Competency Strategy Paper' shall be prepared with participation of relevant parties. | VQA | State Planning Organization, CoHE, MoNE, TESK, TOBB, Trade Unions and Confederations, NGO's. | 2010
-A Ac ct ti iv va at ti io on n o of f V Vo oc ca at ti io on na al l C Co om mp pe et te en nc cy y S Sy ys st te em m a an nd d E Es st ta ab bl li is sh hm me en nt t o of f Q Qu ua al li it ty y A As ss su ur ra an nc ce e | 11.2 Evaluation of knowledge and skills (informal education), obtained apart from educational organizations, in transition to formal and informal education and certification, shall be ensured. | VQA | MoNE, CoHE | 2013
-S Sy ys st te em m | 11.3 Corporate capacity of VQA shall be strengthened, and vocational competency system shall be activated. | VQA | MoNE, STB, CoHE, Local Administrations, TESK, TOBB, Trade Unions and Conferedations, NGO's. | 2010
+ | 10.4 It shall be ensured that MoNE guidance and research centers and İŞKY vocational guidance and consultancy services have a structure and functionality, sufficient for career development plans preparation and implementation of students and adults. | MoNE | ÇSGB, İŞKUR | 2011
+ | 10.5 Extension of “updating and development” programmes, supporting constant education in post secondary schools shall towards specialty field shall be ensured. | CoHE | MONE, TESK, TOBB, Trade Unions and Confederations | 2013
+ | 10.6 Necessary trainings shall be given to individuals in the field of “Entrepreneurship”. | MoNE | CoHE, KOSGEB, İŞKUR | 2013
+11. Activation of Vocational Competency System and Establishment of Quality Assurance System | 11.1 “National Competency Strategy Paper” shall be prepared with participation of relevant parties. | VQA | State Planning Organization, CoHE, MoNE, TESK, TOBB, Trade Unions and Confederations, NGO’s. | 2010
+ | 11.2 Evaluation of knowledge and skills (informal education), obtained apart from educational organizations, in transition to formal and informal education and certification, shall be ensured. | VQA | MoNE, CoHE | 2013
+ | 11.3 Corporate capacity of VQA shall be strengthened, and vocational competency system shall be activated. | VQA | MoNE, STB, CoHE, Local Administrations, TESK, TOBB, Trade Unions and Conferedations, NGO’s. | 2010
 
 9
 
@@ -1144,14 +1229,14 @@ S Sy ys st te em m | 11.3 Corporate capacity of VQA shall be strengthened, and v
 
 PRIORITY | MEASURE | AUTHORIZED ORGANIZATION | RELEVANT ORGANIZATION | TERM
 --- | --- | --- | --- | ---
-11.4 Quality system to be established shall be structured in alignment of international standards shall be ensured. | VQA | MoNE, CoHE, TÜRKAK | 2011
-11.5 Comparableness and validity of documents, given at a national level shall be ensured. | VQA | MoNE, STB, CoHE, TÜRKAK | 2013
-11.6 It shall be ensured that quality assurance system to be established for education is adopted at a national and international level. | MoNE | VQA, CoHE, Media, NGO's. | 2013
-11.7 Establishment of education standards on the basis of national vocational standards shall be sustained by the Ministry of National Education. | MoNE | VQA, CoHE, NGO's. | 2013
-11.8 Private and public agencies, which aim at participating in quality assurance system and to be accredited in education shall be promoted. | MoNE | VQA, İŞKUR | 2013
-11.9 .Quality monitoring mechanism shall be developed on the basis of system integration. | VQA | TÜRKAK,organizations, authorized by VQA. | 2013
-1 12 2. . F Fa ac ci il li it ta at ti io on n o of f T Tr ra an ns si it ti io on n b be et tw we ee en n E Ed du uc ca at ti io on na al l | 12.1 Establishment of mechanisms, which shall ensure that people receive education in the fields in terms of which they are insufficient, and current structures shall be strengthened. | MoNE | İŞKUR, ÇASGEM, CoHE, TOBB, Trade Unions and Conferedations | 2013
-I In ns st ti it tu ut ti io on ns s, , a an nd d b be et tw we ee en n | 12.2 Lateral and vertical transfer between types and levels of educational institutions shall be facilitated. | MoNE | CoHE | 2011
+ | 11.4 Quality system to be established shall be structured in alignment of international standards shall be ensured. | VQA | MoNE, CoHE, TÜRKAK | 2011
+ | 11.5 Comparableness and validity of documents, given at a national level shall be ensured. | VQA | MoNE, STB, CoHE, TÜRKAK | 2013
+ | 11.6 It shall be ensured that quality assurance system to be established for education is adopted at a national and international level. | MoNE | VQA, CoHE, Media, NGO’s. | 2013
+ | 11.7 Establishment of education standards on the basis of national vocational standards shall be sustained by the Ministry of National Education. | MoNE | VQA, CoHE, NGO’s. | 2013
+ | 11.8 Private and public agencies, which aim at participating in quality assurance system and to be accredited in education shall be promoted. | MoNE | VQA, İŞKUR | 2013
+ | 11.9 .Quality monitoring mechanism shall be developed on the basis of system integration. | VQA | TÜRKAK,organizations, authorized by VQA. | 2013
+12. Facilitation of Transition between Educational Institutions, and between | 12.1 Establishment of mechanisms, which shall ensure that people receive education in the fields in terms of which they are insufficient, and current structures shall be strengthened. | MoNE | İŞKUR, ÇASGEM, CoHE, TOBB, Trade Unions and Conferedations | 2013
+ | 12.2 Lateral and vertical transfer between types and levels of educational institutions shall be facilitated. | MoNE | CoHE | 2011
 
 10
 
@@ -1161,11 +1246,11 @@ I In ns st ti it tu ut ti io on ns s, , a an nd d b be et tw we ee en n | 12.2 L
 
 PRIORITY | MEASURE | AUTHORIZED ORGANIZATION | RELEVANT ORGANIZATION | TERM
 --- | --- | --- | --- | ---
-S Sc ch ho oo ol l& &W Wo or rk k- - W Wo or rk k& &S Sc ch ho oo ol l. . | 12.3 Informing beneficiaries of education on transfer, and ensuring awareness in this regard. | MoNE | Ministry of Labour and Social Affairs, İŞKUR, VQA, TOBB, Trade Unions and Conferedations, NGO's. | 2010
-12.4 It shall be ensured that modules, which are currently used in vocational education, are revised in line with current needs, and an updating mechanism aiming at new professions is established. | MoNE | ÇSGB, İŞKUR, VQA, CoHE, Trade Unions and Conferedations, NGO's. | 2013
-1 13 3. . | 13.1 In order to increase quality of labour force, effective in- service education activities shall be conducted for permanent and temporary employees. | Ministry of Labour and Social Affairs | MoNE, STB, İŞKUR, DPB, TESK, TOBB, Trade Unions and Conferedations, NGO's. | 2013
-T To o E En ns su ur re e t th ha at t L La ab bo ou ur r F Fo or rc ce e O Ob bt ta ai in n a a C Co om mp pe et ti it ti iv ve e Q Qu ua al li it ty y | 13.2 In order to ensure compatibility of labour force quality with market needs, participation of business world in vocational and technical education shall be ensured. | MoNE | ÇSGB, STB, İŞKUR, Local Administrations, TESK, TOBB, Trade Unions and Confederations, NGO's. | 2013
-1 14 4. . E En ns su ur ri in ng g F Fi in na an nc ce e o of f S Sh ha ar ri in ng g o of f L Li if fe el lo on ng g L Le ea ar rn ni in ng g b by y P Pa ar rt ti ie es s | 14.1 An integrated Lifelong learning finance model shall be established with active participation of relevant parties. | MoNE | Ministry of Finance, ÇSGB, STB, State Planning Organization, İŞKUR, KOSGEB, TESK, TOBB, Trade Unions and Conferedations, NGO's. | 2010
+School&Work-Work&School. | 12.3 Informing beneficiaries of education on transfer, and ensuring awareness in this regard. | MoNE | Ministry of Labour and Social Affairs, İŞKUR, VQA, TOBB, Trade Unions and Conferedations, NGO’s. | 2010
+ | 12.4 It shall be ensured that modules, which are currently used in vocational education, are revised in line with current needs, and an updating mechanism aiming at new professions is established. | MoNE | ÇSGB, İŞKUR, VQA, CoHE, Trade Unions and Conferedations, NGO’s. | 2013
+13. To Ensure that Labour Force Obtain a Competitive Quality | 13.1 In order to increase quality of labour force, effective in-service education activities shall be conducted for permanent and temporary employees. | Ministry of Labour and Social Affairs | MoNE, STB, İŞKUR, DPB, TESK, TOBB, Trade Unions and Conferedations, NGO’s. | 2013
+ | 13.2 In order to ensure compatibility of labour force quality with market needs, participation of business world in vocational and technical education shall be ensured. | MoNE | ÇSGB, STB, İŞKUR, Local Administrations, TESK, TOBB, Trade Unions and Confederations, NGO’s. | 2013
+14. Ensuring Finance of Sharing of Lifelong Learning by Parties | 14.1 An integrated Lifelong learning finance model shall be established with active participation of relevant parties. | MoNE | Ministry of Finance, ÇSGB, STB, State Planning Organization, İŞKUR, KOSGEB, TESK, TOBB, Trade Unions and Conferedations, NGO’s. | 2010
 
 11
 
@@ -1175,10 +1260,10 @@ T To o E En ns su ur re e t th ha at t L La ab bo ou ur r F Fo or rc ce e O Ob b
 
 PRIORITY | MEASURE | AUTHORIZED ORGANIZATION | RELEVANT ORGANIZATION | TERM
 --- | --- | --- | --- | ---
-14.2 Responsibility and authority shall be given to social parties in finance of Lifelong learning, and contribution of individuals and families to Lifelong learning finance shall be promoted. | MoNE | Ministry of Finance, Ministry of Labour and Social Affairs, STB, State Planning Organization CoHE, TOBB, TESK, Trade Unions and Confederations, NGO's. | 2013
-14.3 Mechanisms, which shall promote higher investments of private sector in education shall be promoted. | MoNE | Prime Ministry, Ministry of Finance, Ministry of Labour and Social Affairs, STB, State Planning Organization, Undersecretariat of Treasury, KOSGEB, TESK, TOBB, Trade Unions and Confederations, NGO's. | 2013
-14.4 Sources, allocated from the general budget for supporting Lifelong learning, shall be increased. | Ministry of Finance | State Planning Organization, MoNE | 2013
-14.5 Monitoring mechanisms, which shall ensure effective use of resources, shall be established. | Prime Ministry, Ministry of Finance, ÇSGB, STB, State Planning Organization, CoHE, KOSGEB, TESK, TOBB, Trade Unions and Confederations, NGO's. | 2011
+ | 14.2 Responsibility and authority shall be given to social parties in finance of Lifelong learning, and contribution of individuals and families to Lifelong learning finance shall be promoted. | MoNE | Ministry of Finance, Ministry of Labour and Social Affairs, STB, State Planning Organization CoHE, TOBB, TESK, Trade Unions and Confederations, NGO’s. | 2013
+ | 14.3 Mechanisms, which shall promote higher investments of private sector in education shall be promoted. | MoNE | Prime Ministry, Ministry of Finance, Ministry of Labour and Social Affairs, STB, State Planning Organization, Undersecretariat of Treasury, KOSGEB, TESK, TOBB, Trade Unions and Confederations, NGO’s. | 2013
+ | 14.4 Sources, allocated from the general budget for supporting Lifelong learning, shall be increased. | Ministry of Finance | State Planning Organization, MoNE | 2013
+ | 14.5 Monitoring mechanisms, which shall ensure effective use of resources, shall be established. |  | Prime Ministry, Ministry of Finance, ÇSGB, STB, State Planning Organization, CoHE, KOSGEB, TESK, TOBB, Trade Unions and Confederations, NGO’s. | 2011
 
 12
 
@@ -1188,11 +1273,11 @@ PRIORITY | MEASURE | AUTHORIZED ORGANIZATION | RELEVANT ORGANIZATION | TERM
 
 PRIORITY | MEASURE | AUTHORIZED ORGANIZATION | RELEVANT ORGANIZATION | TERM
 --- | --- | --- | --- | ---
-1 15 5. . I In nc cr re ea as si in ng g I In nt te er rn na at ti io on na al l | 14.6 Within the framework of skill training of enterprises and establishment of education bodies, personnel trainings shall be supported. | İŞKUR | Ministry of Finance, MoNE, STB, KOSGEB, ÇASGEM, SGK, DPB, TESK, TOBB, Trade Unions and Conferedations, NGO's. | 2013
-C Co oo op pe er ra at ti io on n a an nd d Mo ob bi il li it ty y w wi it th hi in n t th he e Sc co op pe e o of f L Li if fe el lo on ng g L Le ea ar rn ni in ng g | 15.1 Full alignment of high education institutions with Bologna process shall be ensured. | CoHE | MoNE, Universities, Chairmanship of EU Education and Youth Programmes Center | 2013
-15.2 An effort shall be made for increasing budget means in the course of execution of memorandum of understanding to comprise the period after 2013 with regard to 'Lifelong learning programmes', conducted by Chairmanship of EU Education and Youth Programmes Center. | Chairmanship of EU Education and Youth Programmes Center | Ministry of Finance, State Planning Organization, Secretariat General for EU Affairs | 2013
-15.3 Arrangements shall be made in order to ensure that programmes similar to EU education and youth programmes are rendered in countries, taking place out of EU. | Chairmanship of EU Education and Youth Programmes Center | Prime Ministry | 2010
-15.4 In order to establish an international cooperation with regard to Lifelong learning, effective participation of stakeholders in the activities to be conducted. | MoNE | CoHE, Chairmanship of EU Education and Youth Programmes Center, Universities | 2013
+ | 14.6 Within the framework of skill training of enterprises and establishment of education bodies, personnel trainings shall be supported. | İŞKUR | Ministry of Finance, MoNE, STB, KOSGEB, ÇASGEM, SGK, DPB, TESK, TOBB, Trade Unions and Conferedations, NGO’s. | 2013
+15. Increasing International Cooperation and Mobility within the Scope of Lifelong Learning | 15.1 Full alignment of high education institutions with Bologna process shall be ensured. | CoHE | MoNE, Universities, Chairmanship of EU Education and Youth Programmes Center | 2013
+ | 15.2 An effort shall be made for increasing budget means in the course of execution of memorandum of understanding to comprise the period after 2013 with regard to “Lifelong learning programmes”, conducted by Chairmanship of EU Education and Youth Programmes Center. | Chairmanship of EU Education and Youth Programmes Center | Ministry of Finance, State Planning Organization, Secretariat General for EU Affairs | 2013
+ | 15.3 Arrangements shall be made in order to ensure that programmes similar to EU education and youth programmes are rendered in countries, taking place out of EU. | Chairmanship of EU Education and Youth Programmes Center | Prime Ministry | 2010
+ | 15.4 In order to establish an international cooperation with regard to Lifelong learning, effective participation of stakeholders in the activities to be conducted. | MoNE | CoHE, Chairmanship of EU Education and Youth Programmes Center, Universities | 2013
 
 13
 
@@ -1202,10 +1287,10 @@ C Co oo op pe er ra at ti io on n a an nd d Mo ob bi il li it ty y w wi it th hi
 
 PRIORITY | MEASURE | AUTHORIZED ORGANIZATION | RELEVANT ORGANIZATION | TERM
 --- | --- | --- | --- | ---
-15.5 In order to promote international mobility of individuals, crediting shall be ensured by using international credit transfer systems of formal and non-formal learning within the scope of Lifelong learning. | MoNE | Minisrty of Labour and Socia Affairs, CoHE, MYK, Universities | 2012
-1 16 6. . S Su up pp po or rt ti in ng g L Li if fe el lo on ng g L Le ea ar rn ni in ng g A Ac ct ti iv vi it ti ie es s s so o a as s t to o I In nc cr re ea as se e E Ef ff fe ec ct ti iv ve e P Pa ar rt ti ic ci ip pa at ti io on n o of f t th he e O Ol ld d t to o S So oc ci ia al l a an nd d E Ec co on no om mi ic c L Li if fe e | 16.1 It shall be ensured that education opportunities for old employees are developed and the competences, gained, are used in the course of pension period. | MoNE | ÇSGB, İŞKUR, SHÇEK, Local Administrations, TESK, TOBB, Trade Unions, and Confederations, NGO's. | 2013
-16.2 Opportunities shall be ensured for information and experience sharing including use of new technologies between generations. | MoNE | SHÇEK, Local Administrations, TESK, TOBB, Trade Unions, and Confederations, NGO's. | 2013
-16.3 It shall be ensured that the old individuals capture developing technological services and benefit from these services. | MoNE | SHÇEK, TRT, Local Administrations, TESK, TOBB, Trade Unions, and Confederations, NGO's, Media. | 2013
+ | 15.5 In order to promote international mobility of individuals, crediting shall be ensured by using international credit transfer systems of formal and non-formal learning within the scope of Lifelong learning. | MoNE | Ministry of Labour and Social Affairs, CoHE, MYK, Universities | 2012
+16. Supporting Lifelong Learning Activities so as to Increase Effective Participation of the Old to Social and Economic Life | 16.1 It shall be ensured that education opportunities for old employees are developed and the competences, gained, are used in the course of pension period. | MoNE | ÇSGB, İŞKUR, SHÇEK, Local Administrations, TESK, TOBB, Trade Unions, and Confederations, NGO’s. | 2013
+ | 16.2 Opportunities shall be ensured for information and experience sharing including use of new technologies between generations. | MoNE | SHÇEK, Local Administrations, TESK, TOBB, Trade Unions, and Confederations, NGO’s. | 2013
+ | 16.3 It shall be ensured that the old individuals capture developing technological services and benefit from these services. | MoNE | SHÇEK, TRT, Local Administrations, TESK, TOBB, Trade Unions, and Confederations, NGO’s, Media. | 2013
 
 14
 
