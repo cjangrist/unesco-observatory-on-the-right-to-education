@@ -68,6 +68,38 @@ POLÍTICA NACIONAL EN DISCAPACIDAD
 
 # TABLA DE CONTENIDO
 
+PRESENTACIÓN................................................................................................................. 4
+1. CONTEXTO DE LA DISCAPACIDAD EN GUATEMALA............................... 5
+1.1 Situación social del país .............................................................................. 5
+1.2 Altos niveles de pobreza ........................................................................... 5
+1.3 Altos niveles de exclusión social ............................................................ 5
+1.4 Las personas con discapacidad dentro del contexto nacional ... 6
+1.4.1 Las personas con discapacidad, sus familias y sus organizaciones. ......................................................................................................... 10
+2. MARCO LEGAL DE LA DISCAPACIDAD........................................................ 11
+3. MARCO CONCEPTUAL....................................................................................... 13
+3.1 Formación de Política Social ................................................................... 13
+Concepto de Discapacidad: CIF una nueva visión. .................................. 14
+4. PRINCIPIOS Y VALORES QUE DEBEN ORIENTAR EL DESARROLLO TEÓRICO Y OPERATIVO DE LA POLÍTICA NACIONAL EN DISCAPACIDAD.................................................................................................... 17
+5. MARCO INSTITUCIONAL DE LA POLÍTICA ................................................. 18
+5.1 Ministerios Sectoriales y otras instancias de Gobierno vinculadas con el tema de la discapacidad. ................................................ 19
+5.2 Municipalidades y otros entes autónomos ....................................... 19
+5.3 Organizaciones de y para personas con discapacidad ................ 19
+5.4 Otros Poderes del Estado ......................................................................... 20
+5.5 Estructura de coordinación de la Política Nacional en Discapacidad. ............................................................................................................ 20
+6. EL PROBLEMA DE LA DISCAPACIDAD EN GUATEMALA ....................... 21
+6.1 Indicadores: .................................................................................................... 21
+6.2 Causas................................................................................................................ 21
+6.3 Identificación de ejes temáticos de la política ................................ 23
+7. OBJETIVOS DE LA POLÍTICA............................................................................. 24
+7.1 Objetivo central de la política. ............................................................... 24
+7.2 Objetivos Estratégicos ................................................................................ 24
+7.3 Objetivos operativos de la política. ..................................................... 25
+8. GESTIÓN DE LA POLITICA ................................................................................ 28
+9. MONITOREO Y EVALUACIÓN DE LA POLÍTICA ........................................ 29
+10. ESTRATEGIAS PARA LA IMPLEMENTACIÓN DE LA POLITICA............. 31
+10.1 Estrategias políticas. ................................................................................... 31
+10.2 Estrategias institucionales y técnicas ................................................. 35
+10.3 Estrategias para el financiamiento de la Política .......................... 37
 CONSEJO NACIONAL PARA LA ATENCIÓN DE LAS PERSONAS CON DISCAPACIDAD CONADI
 
 3
@@ -90,9 +122,9 @@ En  la  consulta  participaron  más  de  500  personas  de  todos  los departam
 
 El proceso fue diseñado, conducido y ejecutado por un grupo de consultores  nacionales,  quienes  en  todo  momento  contaron  con  el apoyo de la Dirección General y de la Junta Directiva del CONADI.
 
-La  formación  de  esta  política  pública  incluye  cuatro  procesos: formulación,  implementación,  gestión,  monitoreo  y  evaluación.  En este  documento se  presenta  la  formulación  de  la  Política  Nacional  en Discapacidad, que además de definir el 'qué hacer'  propone  algunas pautas para los siguientes procesos, comenzando por su implementación y terminando con los elementos básicos para realizar el monitoreo y evaluación de la misma.
+La formación de esta política pública incluye cuatro procesos: formulación, implementación, gestión, monitoreo y evaluación. En este documento se presenta la formulación de la Política Nacional en Discapacidad, que además de definir el “qué hacer” propone algunas pautas para los siguientes procesos, comenzando por su implementación y terminando con los elementos básicos para realizar el monitoreo y evaluación de la misma.
 
-Para  el  proceso  de  gestión,  se  sugiere  una  estrategia  novedosa que  se  denomina  'liderazgo  compartido',  a  través  de  la  cual  se pretende  lograr  el  compromiso  y  la  participación  de  los  ministerios sectoriales  del  gobierno  para  'liderar'  al  menos  uno  de  los  siete  ejes temáticos  de  la  política,  con  el  concurso  y  participación  activa  otros entes del Estado y de organizaciones de y para personas con discapacidad,  organizaciones  del  sector  privado  y  de las  propias personas  con  discapacidad,  todo  ello  en  el  marco  del  Sistema  de Consejos  de  Desarrollo  Urbano  y  Rural,  especialmente  en  sus  niveles Departamental, municipal y comunitario.
+Para el proceso de gestión, se sugiere una estrategia novedosa que se denomina “liderazgo compartido”, a través de la cual se pretende lograr el compromiso y la participación de los ministerios sectoriales del gobierno para “liderar” al menos uno de los siete ejes temáticos de la política, con el concurso y participación activa otros entes del Estado y de organizaciones de y para personas con discapacidad, organizaciones del sector privado y de las propias personas con discapacidad, todo ello en el marco del Sistema de Consejos de Desarrollo Urbano y Rural, especialmente en sus niveles Departamental, municipal y comunitario.
 
 Guatemala, Junio de 2006
 
@@ -186,7 +218,7 @@ También hay programas de formación de recursos humanos y de educación especia
 
 El sector privado ejecuta programas de educación especial, entre ellos  en:    Fundación  pro  Bienestar  del  Minusválido,  FUNDABIEM,  el Comité Pro ciegos y Sordos de Guatemala, el Instituto Neurológico de Guatemala, la Fundación Educativa del Sur y el Colegio Kipling.
 
-Destacan  los  esfuerzos  de  instancias  no  gubernamentales  que impulsan  la  educación  especial  en  el  interior  de  la  República:  Entre ellas la Asociación de Capacitación y Asistencia Técnica en Educación y  Discapacidad  ASCATED,  la  Federación  Guatemalteca  de  Padres  y Amigos  de  Personas  con  Discapacidad  FEDEPAGUA,  la  Escuela  de Educación  Especial  y  Centro  de  Rehabilitación  Integral  EDECRI  y  el proyecto de escuelas de educción especial 'Nuevo Día', que se inició en  1982,  en  cuatro  departamentos  de  la  república,  incluida  el  área metropolitana.
+Destacan los esfuerzos de instancias no gubernamentales que impulsan la educación especial en el interior de la República: Entre ellas la Asociación de Capacitación y Asistencia Técnica en Educación y Discapacidad ASCATED, la Federación Guatemalteca de Padres y Amigos de Personas con Discapacidad FEDEPAGUA, la Escuela de Educación Especial y Centro de Rehabilitación Integral EDECRI y el proyecto de escuelas de educción especial “Nuevo Día”, que se inició en 1982, en cuatro departamentos de la república, incluida el área metropolitana.
 
 Gráfica No.5
 
@@ -320,7 +352,7 @@ Los resultados indican que las discapacidades físicas (62%)   son las más frec
 
 Aunque existe  el  Código de Trabajo y  La  Ley  de  Atención  a  las Personas  con  Discapacidad,  además  de  que  Guatemala  ratificó  en 1993,  el  Convenio  159  y  la  Recomendación  168  de  la  Organización Internacional de Trabajo, OIT, sobre la readaptación profesional y el empleo de  personas  discapacitadas;  y  Las  Normas  Uniformes  para  la  Equiparación  de Oportunidades de las Personas con Discapacidad, (ONU 1993), y más recientemente el Acuerdo sobre Aspectos Socioeconómicos y Situación Agraria de  los  Acuerdos  de  Paz,  no  existen  políticas  de  capacitación, formación y promoción para el trabajo de las personas con discapacidad. La normativa específica también carece de artículos que protejan y promuevan  el derecho laboral de este sector de la población. 10  La labor y estrategias de las organizaciones privadas y de la  sociedad  civil,  han  sido  insuficientes  para  mejorar  la  situación ocupacional y laboral de las personas con discapacidad.
 
-La  accesibilidad  de  las  personas  con  discapacidad  al  trabajo  y otras  actividades  económicas,  políticas  y  sociales,  se  ve  limitada también por los obstáculos que encuentran en el  entorno físico. Estas barreras impiden su accesibilidad también al mundo de la educación, la  cultura  y  la  vida  social  en  general,  creando  verdaderas  situaciones de "discapacidad social". 11
+La accesibilidad de las personas con discapacidad al trabajo y otras actividades económicas, políticas y sociales, se ve limitada también por los obstáculos que encuentran en el entorno físico. Estas barreras impiden su accesibilidad también al mundo de la educación, la cultura y la vida social en general, creando verdaderas situaciones de “discapacidad social”. 11
 
 La  movilidad  es  esencial  para  que  toda  persona  pueda  realizar  sus  actividades diarias.
 ### Acceso a la Atención Especializada.
@@ -345,7 +377,7 @@ El  gobierno  ha  compartido  con  las  organizaciones  de  y  para personas con
 
 El  estudio  realizado  por  JICA,  concluye  en  que  hay  una  mayor concentración  de  población  con  discapacidad  en  el  área  rural  que  en el  área  urbana, siendo esta última en donde existe mayor cantidad de instituciones  prestadoras  de  servicios  especializados,  principalmente en la Ciudad de Guatemala.
 
-Aunque no es posible conocer con precisión acerca de la calidad de  los  servicios  especializados  para  personas  con  discapacidad,  los diagnósticos presentados por JICA Y  CONADI  revelan  que 'La mayoría de instituciones no cuenta con procesos ni instrumentos de desarrollo institucional, entiéndase planes estratégicos, planes de formación etc.' Esto  implica  que  no  hay  estrategias  y  acciones  de  mediano  y largo  plazo  que  promuevan  mejores  oportunidades  de  integración  y participación de este colectivo en la sociedad guatemalteca.
+Aunque no es posible conocer con precisión acerca de la calidad de los servicios especializados para personas con discapacidad, los diagnósticos presentados por JICA Y CONADI revelan que “La mayoría de instituciones no cuenta con procesos ni instrumentos de desarrollo institucional, entiéndase planes estratégicos, planes de formación etc.” Esto implica que no hay estrategias y acciones de mediano y largo plazo que promuevan mejores oportunidades de integración y participación de este colectivo en la sociedad guatemalteca.
 
 ### 1.4.1 Las personas con discapacidad, sus familias y sus organizaciones.
 
@@ -367,13 +399,13 @@ POLÍTICA NACIONAL EN DISCAPACIDAD
 
 # 2. MARCO LEGAL DE LA DISCAPACIDAD
 
-La  política  nacional  en  discapacidad  tiene  su  sustento  jurídico en normativas nacionales e internacionales. Dentro del marco jurídico nacional,  la  política  se  sustenta  en  lo  que  establece  la  Constitución Política  de  la  República  de  Guatemala,  La  ley  de  Atención  a  las Personas  con  Discapacidad,  Decreto  135-96;  la  Ley  del  Organismo Ejecutivo,  Decreto  114-97;  .la  Ley  de  Desarrollo  Social,  Decreto  422001; Ley de Consejos de Desarrollo Urbano y Rural, Decreto 11-2002; el Código Municipal, Decreto 12-2002; y la Ley General de Descentralización, Decreto 14-2002. Además, se utilizarán leyes específicas  como  el  Código  de  Salud,  el  Código  de  Trabajo  y  la  Ley General de Educación, para sustentar los temas sectoriales.
+La política nacional en discapacidad tiene su sustento jurídico en normativas nacionales e internacionales. Dentro del marco jurídico nacional, la política se sustenta en lo que establece la Constitución Política de la República de Guatemala, La ley de Atención a las Personas con Discapacidad, Decreto 135-96; la Ley del Organismo Ejecutivo, Decreto 114-97; .la Ley de Desarrollo Social, Decreto 42-2001; Ley de Consejos de Desarrollo Urbano y Rural, Decreto 11-2002; el Código Municipal, Decreto 12-2002; y la Ley General de Descentralización, Decreto 14-2002. Además, se utilizarán leyes específicas como el Código de Salud, el Código de Trabajo y la Ley General de Educación, para sustentar los temas sectoriales.
 
 En  el  plano  internacional  se  utilizará  como  fundamento  lo  que establece el Convenio 159 y la Recomendación 168 de la Organización Internacional  del  Trabajo,  OIT;  Readaptación  Profesional  y  Empleo para Personas Inválidas; La Convención Interamericana para la Eliminación de todas las Formas de Discriminación Contra las Personas con Discapacidad y las Normas Uniformes sobre la Igualdad de Oportunidades para las Personas con Discapacidad, aprobadas por la Comisión de Desarrollo Social de las Naciones Unidas en 1993.
 
-La Constitución Política establece en su artículo 53 'Minusválidos. El Estado garantiza la protección de los minusválidos y personas que adolecen de limitaciones físicas, psíquicas o sensoriales.  Se  declara  de  interés  nacional  su  interés  médico-social, así  como  la  promoción  de  políticas  y  servicios  que  permitan  su rehabilitación  y  su  reincorporación  integral  a  la  sociedad.  La  ley regulará  esta  materia  y  creará  los  organismos  técnicos  y  ejecutores que sean necesarios.' 13
+La Constitución Política establece en su artículo 53 “Minusválidos. El Estado garantiza la protección de los minusválidos y personas que adolecen de limitaciones físicas, psíquicas o sensoriales. Se declara de interés nacional su interés médico-social, así como la promoción de políticas y servicios que permitan su rehabilitación y su reincorporación integral a la sociedad. La ley regulará esta materia y creará los organismos técnicos y ejecutores que sean necesarios.”13
 
-Con relación a los derechos humanos  el artículo 46 establece, la preeminencia de las convenciones y tratados internacionales, aceptados  y  ratificados  por  Guatemala,  sobre  el  derecho  interno;  así como todos aquellos artículos que proclaman los derechos básicos de las  y  los  guatemaltecos, 14   particularmente  el  literal  m)  del  artículo 102:  'Protección  y  fomento  al  trabajo  de  los  ciegos,  minusválidos  y personas con deficiencias físicas, psíquicas o sensoriales.'
+Con relación a los derechos humanos el artículo 46 establece, la preeminencia de las convenciones y tratados internacionales, aceptados y ratificados por Guatemala, sobre el derecho interno; así como todos aquellos artículos que proclaman los derechos básicos de las y los guatemaltecos,14 particularmente el literal m) del artículo 102: “Protección y fomento al trabajo de los ciegos, minusválidos y personas con deficiencias físicas, psíquicas o sensoriales.”
 
 El  decreto  No.  135-96,  Ley  de  Atención  a  las  Personas  con Discapacidad,  crea  el Consejo  Nacional  para  la  Atención  de  las Personas con Discapacidad, CONADI,  con carácter coordinador, asesor e impulsor de políticas generales en esta materia.
 
@@ -411,7 +443,7 @@ POLÍTICA NACIONAL EN DISCAPACIDAD
 
 Las políticas públicas forman parte del quehacer del Estado y se refieren  a  fines  y  principios  orientados  a  atender  una  población específica. Pueden ser de Estado, gobierno, sectoriales o institucionales.  Es  un  medio  para  llegar  a  una  determinada  meta económica o social. En el caso de la Política Nacional en Discapacidad, está orientada a promover los derechos de las personas con discapacidad o en riesgo de tenerla.
 
-Se define el concepto de política pública como 'Un conjunto de decisiones que se traducen en acciones, estratégicamente seleccionadas (dentro de un conjunto de alternativas, conforme a una jerarquía  de  valores  y  preferencia  de  los  interesados).  Su  dimensión es  pública  por  el  tamaño  del  agregado  social  sobre  el  cual  inciden, pero  sobre  todo  por  su  carácter  imperativo,  siendo  éste  revestido  de la autoridad legítima y soberana del poder público.' 16
+Se define el concepto de política pública como “Un conjunto de decisiones que se traducen en acciones, estratégicamente seleccionadas (dentro de un conjunto de alternativas, conforme a una jerarquía de valores y preferencia de los interesados). Su dimensión es pública por el tamaño del agregado social sobre el cual inciden, pero sobre todo por su carácter imperativo, siendo éste revestido de la autoridad legítima y soberana del poder público.” 16
 
 Esta  política  tiene  una  dimensión  pública  porque,  en  términos prácticos y específicos, se trata de construir las condiciones de convivencia con equiparación de oportunidades para las personas con discapacidad, ubicando en su ambiente los factores físicos, económicos,  políticos  y  culturales  que  se  requieran.  Para  lograr  esta meta del desarrollo humano, es necesaria la integración y participación de la sociedad en todos los órdenes posibles: económico, cultural, legal, social, político, conceptual, etcétera.
 
@@ -419,7 +451,7 @@ La equiparación de oportunidades restablece la equidad mediante  apoyos  comple
 
 La  formación  de  la  presente  política  en  discapacidad  debe  ser nacional  por  su  cobertura,  pública  por  su  dimensión  y  permanente por  su  temporalidad.  El  siguiente  esquema  ilustra  el  concepto  de política que se está utilizando:
 
-> 16 María das Gra ças Rua (1997) MODELO DE FORMACIÓN DE POLÍTICAS SOCIALES.
+> 16 María das Graças Rua (1997) MODELO DE FORMACIÓN DE POLÍTICAS SOCIALES.
 
 CONSEJO NACIONAL PARA LA ATENCIÓN DE LAS PERSONAS CON DISCAPACIDAD CONADI 13
 
@@ -485,9 +517,9 @@ de prioridades
 
 y objetivos
 
-## Concepto de Discapacidad: CIF : una nueva visión. 18
+## Concepto de Discapacidad: CIF: una nueva visión. 18
 
-En Guatemala, legalmente 'Se considera discapacidad cualquier deficiencia  física,  mental  o  sensorial,  congénita  o  adquirida,  que limite  substancialmente  una  o  más  de  las  actividades  consideradas normales para una persona.' 19
+En Guatemala, legalmente “Se considera discapacidad cualquier deficiencia física, mental o sensorial, congénita o adquirida, que limite substancialmente una o más de las actividades consideradas normales para una persona.” 19
 
 La discapacidad es una desarmonía entre el entorno y la persona,  en  la  que  ambos  son  responsables  de  los  esfuerzos  que  se hagan  para  atenuarla  o  compensarla,  por  lo  tanto,  no  es  sólo  un asunto  de  la propia  persona  o  su  familia, sino  también  es  una situación que involucra el entorno social, político, económico  y cultural.
 
@@ -509,10 +541,6 @@ POLÍTICA NACIONAL EN DISCAPACIDAD
 
 Gráfica No. 5 MODELO CIF (OMS, 2001)
 
-Factores
-
-personales
-
 Condición de salud
 
 Trastorno o
@@ -533,11 +561,15 @@ Factores
 
 ambientales
 
-Condición  de  salud :  toda  persona  nace  con  una  condición  de salud  que  pudo  haber  sido  afectada,  antes  o  después  del  nacimiento por  anomalías  genéticas,  descuido  o  atención  deficiente  a  la  madre, causando  una  alteración  o  atributo  del  estado  de  salud  del  recién nacido.
+Factores
 
-Funciones  y  Estructuras  Personales: se  refiere  a  las  funciones tanto  físicas  como  mentales.  Cuando  surge  algún  problema  en  ellas, se  observa  un  estado  de  afección  de  las  funciones  de  las  estructuras del  cuerpo.  Es  lo  que  se  llama deficiencia  funcional .  La deficiencia estructural ,  en  cambio,  se  refiere  a  la  pérdida  de  alguna  estructura del cuerpo. Ejemplo, la parálisis de las extremidades es una deficiencia funcional. Su amputación es estructural.
+personales
 
-- Limitaciones  en  la  Actividad: toda  persona,  en  función  de  su condición  de  salud,  está  facultado  para  realizar  determinado  tipo de  actividades. Al  cambiar  su  condición  de  salud,  puede  haber dificultades para realizar algunas actividades.
+Condición de salud: toda persona nace con una condición de salud que pudo haber sido afectada, antes o después del nacimiento por anomalías genéticas, descuido o atención deficiente a la madre, causando una alteración o atributo del estado de salud del recién nacido.
+
+Funciones y Estructuras Personales: se refiere a las funciones tanto físicas como mentales. Cuando surge algún problema en ellas, se observa un estado de afección de las funciones de las estructuras del cuerpo. Es lo que se llama deficiencia funcional. La deficiencia estructural, en cambio, se refiere a la pérdida de alguna estructura del cuerpo. Ejemplo, la parálisis de las extremidades es una deficiencia funcional. Su amputación es estructural.
+
+1. Limitaciones en la Actividad: toda persona, en función de su condición de salud, está facultado para realizar determinado tipo de actividades. Al cambiar su condición de salud, puede haber dificultades para realizar algunas actividades.
 
 CONSEJO NACIONAL PARA LA ATENCIÓN DE LAS PERSONAS CON DISCAPACIDAD CONADI
 
@@ -549,15 +581,15 @@ CONSEJO NACIONAL PARA LA ATENCIÓN DE LAS PERSONAS CON DISCAPACIDAD CONADI
 
 POLÍTICA NACIONAL EN DISCAPACIDAD
 
-- Participación: es  la  interacción  de  las  deficiencias,  discapacidades y  factores  contextuales,  es  decir,  características  del  entorno  social y  físico,  y  factores  personales.  La  participación  abarca  todas  las áreas o aspectos de la vida humana.
+2. Participación: es la interacción de las deficiencias, discapacidades y factores contextuales, es decir, características del entorno social y físico, y factores personales. La participación abarca todas las áreas o aspectos de la vida humana.
 
-- Restricciones en la Participación: son problemas que un individuo puede experimentar en la manera o en el grado de  su implicación en situaciones vitales. Se trata de una desventaja creada o empeorada  por  las  características  de  los factores  contextuales tanto personales como ambientales.
+3. Restricciones en la Participación: son problemas que un individuo puede experimentar en la manera o en el grado de su implicación en situaciones vitales. Se trata de una desventaja creada o empeorada por las características de los factores contextuales tanto personales como ambientales.
 
-- Los Factores Contextuales: son los que conjuntamente constituyen el contexto completo de la vida de un individuo.
+4. Los Factores Contextuales: son los que conjuntamente constituyen el contexto completo de la vida de un individuo.
 
-- 4.1 Los  factores  ambientales: se  refieren  a  todos  los  aspectos  del mundo exterior  o  extrínseco,  forman  el  contexto  de  la  vida  de un individuo.
+4.1 Los factores ambientales: se refieren a todos los aspectos del mundo exterior o extrínseco, forman el contexto de la vida de un individuo.
 
-- 4.2 Los  personales  o  factores  contextuales  intrínsecos : son  características propias  del  individuo,  tales  cómo  la  edad,  el  sexo,  la  posición  social, habilidades,  capacidades,  experiencias  de  vida,  etc.  La  actitud  personal puede  mejorar  o  empeorar  la  condición  de  salud  y  la  participación  del individuo con discapacidad.
+4.2 Los personales o factores contextuales intrínsecos: son características propias del individuo, tales cómo la edad, el sexo, la posición social, habilidades, capacidades, experiencias de vida, etc. La actitud personal puede mejorar o empeorar la condición de salud y la participación del individuo con discapacidad.
 
 CONSEJO NACIONAL PARA LA ATENCIÓN DE LAS PERSONAS CON DISCAPACIDAD CONADI
 
@@ -575,23 +607,21 @@ POLÍTICA NACIONAL EN DISCAPACIDAD
 
 Los  principios  rectores  de  la  Política  Nacional  en  Discapacidad son:
 
-- Equidad: con base en la equiparación de oportunidades para la inclusión  de  las  personas  con  discapacidad  a  los  distintos ámbitos y actividades de desarrollo personal y de su comunidad, sin ningún tipo de discriminación.
+1. Equidad: con base en la equiparación de oportunidades para la inclusión de las personas con discapacidad a los distintos ámbitos y actividades de desarrollo personal y de su comunidad, sin ningún tipo de discriminación.
 
-- Solidaridad  Social: que  conlleva  a  la  construcción  de  una cultura basada en el reconocimiento recíproco, la ayuda mutua y  el  bienestar  social  basado  en  la  satisfacción  común  de  las necesidades.
+2. Solidaridad Social: que conlleva a la construcción de una cultura basada en el reconocimiento recíproco, la ayuda mutua y el bienestar social basado en la satisfacción común de las necesidades.
 
-- Igualdad :  todas  las  personas  tienen  los  mismos  derechos  y libertades proclamados  en  la Constitución Política de la República,  la  Declaración  de  los  Derechos  Humanos,  Tratados y  Convenios  Ratificados  por  Guatemala.  La  vida  humana  se garantiza  y  protege  desde  su  concepción,  toda  persona  tiene derecho  a  participar  en  los  medios  y  recibir  los  beneficios  del desarrollo.
+3. Igualdad: todas las personas tienen los mismos derechos y libertades proclamados en la Constitución Política de la República, la Declaración de los Derechos Humanos, Tratados y Convenios Ratificados por Guatemala. La vida humana se garantiza y protege desde su concepción, toda persona tiene derecho a participar en los medios y recibir los beneficios del desarrollo.
 
-- El Respeto: a la realidad multiétnica, pluricultural y multilingüe  de  Guatemala,  reconociendo  la  dignidad  de  la persona  con  discapacidad  y  su  familia  en  su  autonomía  y
+4. El Respeto: a la realidad multiétnica, pluricultural y multilingüe de Guatemala, reconociendo la dignidad de la persona con discapacidad y su familia en su autonomía y autodeterminación.
 
-- autodeterminación.
+5. Libertad: toda persona tiene derecho para decidir libre, responsable y concientemente sobre su participación en el desarrollo del país; su vocación laboral, su participación cívica y social; su vida familiar y reproductiva. Para ejercer esta libertad tiene derecho de recibir información oportuna veraz y completa.
 
-- Libertad: toda persona tiene derecho para decidir libre, responsable  y  concientemente  sobre  su  participación  en  el desarrollo del país; su  vocación  laboral, su  participación cívica  y  social;  su  vida  familiar  y  reproductiva.  Para  ejercer esta  libertad  tiene  derecho  de  recibir  información  oportuna veraz y completa.
+6. Corresponsabilidad: la generación de una cultura de responsabilidad social compartida que configure una ciudadanía activa, responsable y propositiva, capaz de desarrollar y motivar nuevos tipos de participación y solidaridad.
 
-- Corresponsabilidad : la generación de una cultura de responsabilidad social compartida que configure una ciudadanía activa, responsable y propositiva, capaz de desarrollar y motivar nuevos tipos de participación y solidaridad.
+7. Integralidad: para concebir a la persona como un ente psicobiosocial en todos los componentes de esta política.
 
-- Integralidad: para concebir a la persona como un ente psicobiosocial en todos los componentes de esta política.
-
-- Derecho  al  Desarrollo. Las  personas,  con  o  sin  discapacidad, constituyen el  sujeto y el objetivo fundamental de las acciones relacionadas con el desarrollo integral y sostenible. El acceso al desarrollo es un derecho inalienable de la persona.
+8. Derecho al Desarrollo. Las personas, con o sin discapacidad, constituyen el sujeto y el objetivo fundamental de las acciones relacionadas con el desarrollo integral y sostenible. El acceso al desarrollo es un derecho inalienable de la persona.
 
 CONSEJO NACIONAL PARA LA ATENCIÓN DE LAS PERSONAS CON DISCAPACIDAD CONADI
 
@@ -609,19 +639,19 @@ El Marco institucional de la Política Nacional en Discapacidad, está integrado
 
 ## CONADI
 
-El artículo 22 del Decreto 135-96, Ley de Atención a las Personas con  Discapacidad,  el  CONADI  es  una  '…entidad  autónoma  con personalidad jurídica y patrimonio propio y con carácter coordinador, asesor e impulsor de políticas generales en materia de discapacidad…'
+El artículo 22 del Decreto 135-96, Ley de Atención a las Personas con Discapacidad, el CONADI es una “…entidad autónoma con personalidad jurídica y patrimonio propio y con carácter coordinador, asesor e impulsor de políticas generales en materia de discapacidad…”
 
 El  CONADI será el responsable por la implementación, gestión, monitoreo  y  evaluación  de  la política nacional en discapacidad. Particularmente le corresponderá:
 
-- Gestionar la implementación de la Política Nacional en Discapacidad a nivel de entidades  de  gobierno vinculadas al tema de discapacidad: ministerios, secretarías, entidades descentralizadas y municipalidades.
+1. Gestionar la implementación de la Política Nacional en Discapacidad a nivel de entidades de gobierno vinculadas al tema de discapacidad: ministerios, secretarías, entidades descentralizadas y municipalidades.
 
-- Promover la apertura de espacios de participación de organizaciones  de  y  para  personas  con  discapacidad,  dentro de  los  consejos  departamentales,  municipales y  comunitarios de desarrollo urbano y rural.
+2. Promover la apertura de espacios de participación de organizaciones de y para personas con discapacidad, dentro de los consejos departamentales, municipales y comunitarios de desarrollo urbano y rural.
 
-- Crear capacidad propositiva y de gestión en los representantes  de  organizaciones  de  y  para  personas  con discapacidad en los Consejos Departamentales, Municipales y Comunitarios de Desarrollo.
+3. Crear capacidad propositiva y de gestión en los representantes de organizaciones de y para personas con discapacidad en los Consejos Departamentales, Municipales y Comunitarios de Desarrollo.
 
-- Impulsar, fortalecer y posibilitar la articulación de entidades y organizaciones de y para personas con discapacidad, mejorando  su  capacidades  organizativas,  propositivas  y  de gestión e incidencia técnica y política en los niveles nacional, departamental y municipal.
+4. Impulsar, fortalecer y posibilitar la articulación de entidades y organizaciones de y para personas con discapacidad, mejorando su capacidades organizativas, propositivas y de gestión e incidencia técnica y política en los niveles nacional, departamental y municipal.
 
-- Ser,  conjuntamente con entidades de gobierno, representadas en  el  CONADI,  así  como  privadas  y  de  la  sociedad  civil,  la instancia  que  dé  seguimiento,  monitoreo  y  evaluación  a  la implementación de la Política Nacional en Discapacidad.
+5. Ser, conjuntamente con entidades de gobierno, representadas en el CONADI, así como privadas y de la sociedad civil, la instancia que dé seguimiento, monitoreo y evaluación a la implementación de la Política Nacional en Discapacidad.
 
 18
 
@@ -633,7 +663,7 @@ POLÍTICA NACIONAL EN DISCAPACIDAD
 
 ## 5.1 Ministerios Sectoriales y otras instancias de Gobierno vinculadas con el tema de la discapacidad.
 
-- Los Ministerios de
+1. Los Ministerios de
 
  Educación.
 
@@ -701,33 +731,17 @@ POLÍTICA NACIONAL EN DISCAPACIDAD
 
 ## 5.5 Estructura de coordinación de la Política Nacional en Discapacidad.
 
-Gráfica No 6 ESTRUCTURA DE COORDINACIÓN DE LA POLÍTICA
+Gráfica No 6
 
-Gabinete
+ESTRUCTURA DE COORDINACIÓN DE LA POLÍTICA
 
-Social
+CONGRESO DE LA REPÚBLICA
 
-CODEDE
+OPERADORES DE JUSTICIA
 
-COMUDE
+CONADI
 
-Concejo
-
-Edil
-
-COCODE
-
-UTD
-
-CST
-
-CST
-
-OMP
-
-CONSEJO DE
-
-DELEGADOS
+CONSEJO DE DELEGADOS
 
 JD
 
@@ -735,61 +749,39 @@ DIRECCIÓN
 
 TÉCNICOS
 
-SOCIEDAD
-
-CIVIL
-
-SECRETARÍAS Y
-
-ENTES
-
-AUTÓNOMOS
-
 MINISTERIOS
 
-C
+Gabinete Social
 
-O
+SECRETARÍAS Y ENTES AUTÓNOMOS
 
-N
+SOCIEDAD CIVIL
 
-A
-
-D
-
-I
-
-Delegado
-
-Deptal.
-
-OPCD
-
-Delegado
-
-Mpal.
-
-OPCD
-
-CONGRESO DE
-
-LA REPÚBLICA
-
-OPERADORES
-
-DE JUSTICIA
+CODEDE
 
 UTD
 
-: Unidad técnica departamental
+CST
+
+Delegado Deptal. OPCD
+
+COMUDE
 
 CST
 
-:   Comisiones de trabajo
+Concejo Edil
 
 OMP
 
-: Oficina municipal de planificación
+Delegado Mpal. OPCD
+
+COCODE
+
+UTD: Unidad técnica departamental
+
+CST: Comisiones de trabajo
+
+OMP: Oficina municipal de planificación
 
 20
 
@@ -803,7 +795,7 @@ POLÍTICA NACIONAL EN DISCAPACIDAD
 
 El problema quedó enunciado de la siguiente forma: 20
 
-'Las  personas  con  discapacidad  tienen  escasas  oportunidades de integrarse y participar en la sociedad guatemalteca.'
+“Las personas con discapacidad tienen escasas oportunidades de integrarse y participar en la sociedad guatemalteca.”
 
 ## 6.1 Indicadores:
 
@@ -821,7 +813,7 @@ La condición de discapacidad aún está fuertemente estigmatizada dentro de la 
 
 Se identificaron las siguientes causas:
 
-- Servicios especializados escasos y centralizados.
+1. Servicios especializados escasos y centralizados.
 
 - Salud
 
@@ -839,9 +831,9 @@ Se identificaron las siguientes causas:
 
 - Información y comunicación
 
-- Desconocimiento de las personas con discapacidad de instituciones que prestan servicios, lo que dificulta la detección temprana.
+2. Desconocimiento de las personas con discapacidad de instituciones que prestan servicios, lo que dificulta la detección temprana.
 
-- Ingresos escasos para acceder a servicios especializados.
+3. Ingresos escasos para acceder a servicios especializados.
 
 > 20 Los talleres de consulta se realizaron 3 en Guatemala, 1 en Quetzaltenango y 1 en Zacapa, durante los meses de octubre y noviembre de 2005.  En ellos participaron representantes gubernamentales y de la sociedad civil vinculados con el tema de la discapacidad de todos los departamentos del país.
 
@@ -853,9 +845,9 @@ Se identificaron las siguientes causas:
 
 POLÍTICA NACIONAL EN DISCAPACIDAD
 
-- El tema de la discapacidad no es prioritario para el Estado y el gobierno.
+4. El tema de la discapacidad no es prioritario para el Estado y el gobierno.
 
-- Debilidad  de  las  organizaciones  de  y  para  personas  con discapacidad.
+5. Debilidad de las organizaciones de y para personas con discapacidad.
 
 - Estructural
 
@@ -863,9 +855,9 @@ POLÍTICA NACIONAL EN DISCAPACIDAD
 
 - Propositiva
 
-- Invisibilidad del tema en las políticas sociales sectoriales.
+6. Invisibilidad del tema en las políticas sociales sectoriales.
 
-- Cultura  paternalista  y  asistencialista  en  la  sociedad  y  sus instituciones.
+7. Cultura paternalista y asistencialista en la sociedad y sus instituciones.
 
 ### 6.2.1 Acceso a los servicios de atención médica
 
@@ -891,19 +883,19 @@ POLÍTICA NACIONAL EN DISCAPACIDAD
 
 A partir de las causas del problema se identificaron los ejes temáticos de la política, buscando agruparlos por afinidad temática,  utilizando  la  concepción  holística  de  la  persona:  es  un ser psicobiosocial. El resultado es el siguiente:
 
-- Prevención de la discapacidad 21 , salud, habilitación y rehabilitación de personas con discapacidad.
+1. Prevención de la discapacidad 21, salud, habilitación y rehabilitación de personas con discapacidad.
 
-- Educación,  cultura,  recreación  y  deporte  para personas  con discapacidad.
+2. Educación, cultura, recreación y deporte para personas con discapacidad.
 
-- Empleo, actividades generadoras de ingresos y ocupación  22  para personas con discapacidad.
+3. Empleo, actividades generadoras de ingresos y ocupación 22 para personas con discapacidad.
 
-- Acceso  a  espacios  físicos,  vivienda  y  transporte  para  personas con discapacidad.
+4. Acceso a espacios físicos, vivienda y transporte para personas con discapacidad.
 
-- Información  y  comunicación  para  la  sociedad  y  para  personas con discapacidad.
+5. Información y comunicación para la sociedad y para personas con discapacidad.
 
-- Acceso a la Justicia, seguridad ciudadana y derechos humanos.
+6. Acceso a la Justicia, seguridad ciudadana y derechos humanos.
 
-- Desarrollo organizacional de y para personas con discapacidad.
+7. Desarrollo organizacional de y para personas con discapacidad.
 
 > 21 Incluye prevención de enfermedades, accidentes, drogadicción, violencia, desastres naturales, etc., como causas de la discapacidad
 
@@ -925,19 +917,19 @@ A partir del análisis del problema de la discapacidad, sus causas y  efectos,  
 
 La política Nacional en Discapacidad se formula, implementará, ejecutará, monitoreará y evaluará con el objetivo de:
 
-'CREAR OPORTUNIDADES DE INTEGRACIÓN Y PARTICIPACIÓN EN LA SOCIEDAD GUATEMALTECA PARA LAS PERSONAS CON DISCAPACIDAD'
+“CREAR OPORTUNIDADES DE INTEGRACIÓN Y PARTICIPACIÓN EN LA SOCIEDAD GUATEMALTECA PARA LAS PERSONAS CON DISCAPACIDAD”
 
 Las oportunidades de integración y participación de las personas  con  discapacidad  en  la  sociedad  guatemalteca,  tienen  que ver  con  el  acceso  equitativo,  en  igualdad  de  oportunidades  y  sin ninguna  discriminación, a la salud, la educación, la cultura, la recreación,  el  deporte,  al  empleo,  a  las  actividades  generadoras  de ingresos  y  ocupación,  así  como  a  la  justicia,  seguridad  ciudadana  y derechos  humanos.  También  implica  tener  acceso  a los espacios físicos,  a  una  vivienda  digna  y  al  transporte  individual  y  colectivo, así como a la información y a los medios de comunicación, a través de los  sistemas  especializados para las personas ciegas y sordas como el Braille y el lenguaje de señas. Para ello también es necesario impulsar, fortalecer y capacitar a las organizaciones de y para personas con discapacidad.
 
 ## 7.2 Objetivos Estratégicos
 
-- Promover  la  prevención  de  la  discapacidad,  el  acceso  a  la salud,  la  habilitación  y  rehabilitación  integral  de  personas con discapacidad.
+1. Promover la prevención de la discapacidad, el acceso a la salud, la habilitación y rehabilitación integral de personas con discapacidad.
 
-- Promover  el  acceso  a  la  educación  formal  y  no  formal,  la cultura, la recreación y el deporte para personas con discapacidad, a nivel público y privado.
+2. Promover el acceso a la educación formal y no formal, la cultura, la recreación y el deporte para personas con discapacidad, a nivel público y privado.
 
-- Promover  la  formación,  capacitación  y  el  acceso  al  empleo, las  actividades  generadoras  de  ingresos  económicos  y  la ocupación para personas con discapacidad.
+3. Promover la formación, capacitación y el acceso al empleo, las actividades generadoras de ingresos económicos y la ocupación para personas con discapacidad.
 
-- Promover  la  equiparación  de  oportunidades  de  acceso  a espacios físicos, la  vivienda y los  medios de transporte  para personas con discapacidad y sus familias.
+4. Promover la equiparación de oportunidades de acceso a espacios físicos, la vivienda y los medios de transporte para personas con discapacidad y sus familias.
 
 24
 
@@ -947,33 +939,33 @@ Las oportunidades de integración y participación de las personas  con  discapa
 
 POLÍTICA NACIONAL EN DISCAPACIDAD
 
-- Promover el acceso a la información y a la comunicación a la sociedad,  las  personas  con  discapacidad  y  sus  familias,  a través de sistemas adaptados a sus necesidades.
+5. Promover el acceso a la información y a la comunicación a la sociedad, las personas con discapacidad y sus familias, a través de sistemas adaptados a sus necesidades.
 
-- Promover  el  acceso  a  la  justicia,  seguridad  ciudadana  y derechos humanos para las personas con discapacidad y sus familias.
+6. Promover el acceso a la justicia, seguridad ciudadana y derechos humanos para las personas con discapacidad y sus familias.
 
-- Impulsar y fortalecer a las organizaciones de y para personas con discapacidad, así como las de padres de familia.
+7. Impulsar y fortalecer a las organizaciones de y para personas con discapacidad, así como las de padres de familia.
 
 ## 7.3 Objetivos operativos de la política.
 
-- Promover  la  prevención  de  la  discapacidad,  el  acceso  a  la salud, la habilitación y la rehabilitación integral de personas con discapacidad.
+1. Promover la prevención de la discapacidad, el acceso a la salud, la habilitación y la rehabilitación integral de personas con discapacidad.
 
-- 1.1 Impulsar la prevención de la discapacidad en la sociedad guatemalteca.
+1.1 Impulsar la prevención de la discapacidad en la sociedad guatemalteca.
 
-- 1.2 Promover  el  acceso  a  la  salud  para  las  personas  con discapacidad.
+1.2 Promover el acceso a la salud para las personas con discapacidad.
 
-- 1.3 Promover  la  disponibilidad  y  acceso  a  los  servicios  de habilitación y rehabilitación integral con calidad, oportunidad y calidez.
+1.3 Promover la disponibilidad y acceso a los servicios de habilitación y rehabilitación integral con calidad, oportunidad y calidez.
 
-- Promover  el  acceso  a  la  educación  formal  y  no  formal,  la cultura,  la  recreación  y  el  deporte  para  las  personas  con discapacidad a nivel público y privado.
+2. Promover el acceso a la educación formal y no formal, la cultura, la recreación y el deporte para las personas con discapacidad a nivel público y privado.
 
-- 2.1 Facilitar  a  las  personas  con  discapacidad  el  acceso  a  los servicios educativos formales y no formales en igualdad de oportunidades y condiciones.
+2.1 Facilitar a las personas con discapacidad el acceso a los servicios educativos formales y no formales en igualdad de oportunidades y condiciones.
 
-- 2.2 Facilitar  a  las  personas  con  discapacidad  y  sus  familias el acceso y la participación en las manifestaciones artísticas y culturales.
+2.2 Facilitar a las personas con discapacidad y sus familias el acceso y la participación en las manifestaciones artísticas y culturales.
 
-- 2.3 Promover  el  acceso  y  la  participación  de  las  personas con  discapacidad  y  sus  familias,  en  actividades  lúdicas, recreativas y deportivas.
+2.3 Promover el acceso y la participación de las personas con discapacidad y sus familias, en actividades lúdicas, recreativas y deportivas.
 
-- Promover  la  formación,  capacitación  y  el  acceso  al  empleo, actividades generadoras de ingresos económicos y la ocupación para las personas con discapacidad.
+3. Promover la formación, capacitación y el acceso al empleo, actividades generadoras de ingresos económicos y la ocupación para las personas con discapacidad.
 
-- 3.1 Promover el acceso a la formación y capacitación laboral de las personas con discapacidad.
+3.1 Promover el acceso a la formación y capacitación laboral de las personas con discapacidad.
 
 25
 
@@ -989,7 +981,7 @@ POLÍTICA NACIONAL EN DISCAPACIDAD
 
 - 3.4 Fomentar la utilización del tiempo libre y del ocio de las personas con discapacidad y sus familias, en actividades ocupacionales, lucrativas y no lucrativas.
 
-- Promover  la  equiparación  de  oportunidades  de  acceso  a espacios físicos, la  vivienda y los  medios de transporte  para las personas con discapacidad.
+- 4. Promover  la  equiparación  de  oportunidades  de  acceso  a espacios físicos, la  vivienda y los  medios de transporte  para las personas con discapacidad.
 
 - 4.1 Promover la aplicación de la normativa sobre accesibilidad para el diseño, construcción, remodelación y  acondicionamiento de espacios físicos, que faciliten el acceso de las personas con discapacidad a las instalaciones públicas y privadas.
 
@@ -997,7 +989,7 @@ POLÍTICA NACIONAL EN DISCAPACIDAD
 
 - 4.3 Promover la aplicación de la normativa sobre accesibilidad para el diseño, construcción, remodelación y  acondicionamiento  de  vías  y  medios  de  transporte, público  y  privado  para  las  personas  con  discapacidad, mujeres en estado de gestación y adultos mayores.
 
-- Promover el acceso a la información y a la comunicación a la sociedad,  las  personas  con  discapacidad  y  sus  familias,  a través de sistemas adaptados a sus necesidades.
+- 5. Promover el acceso a la información y a la comunicación a la sociedad,  las  personas  con  discapacidad  y  sus  familias,  a través de sistemas adaptados a sus necesidades.
 
 - 5.1 Informar y sensibilizar a la sociedad guatemalteca  sobre el tema de la discapacidad.
 
@@ -1017,7 +1009,7 @@ POLÍTICA NACIONAL EN DISCAPACIDAD
 
 - 5.5 Promover la generación de información estadística sobre la población con discapacidad en Guatemala, para sustentar el proceso de toma de decisiones.
 
-- Promover  el  acceso  a  la  justicia,  seguridad  ciudadana  y derechos humanos para las personas con discapacidad y sus familias.
+- 6. Promover  el  acceso  a  la  justicia,  seguridad  ciudadana  y derechos humanos para las personas con discapacidad y sus familias.
 
 - 6.1 Promover  la  erradicación  de  las  barreras  jurídicas  y legales  que  enfrentan  las  personas  con  discapacidad  y sus familias, para el ejercicio de sus derechos y obligaciones.
 
@@ -1025,7 +1017,7 @@ POLÍTICA NACIONAL EN DISCAPACIDAD
 
 - 6.3 Promover  el  conocimiento,  apropiación  y  ejercicio  de sus derechos y obligaciones en el colectivo de las personas con discapacidad
 
-- Impulsar y fortalecer a las organizaciones de y para personas con discapacidad, así como las de padres de familia.
+- 7. Impulsar y fortalecer a las organizaciones de y para personas con discapacidad, así como las de padres de familia.
 
 - 7.1 Promover la organización de y para personas con discapacidad.
 
@@ -1069,11 +1061,11 @@ La gestión de la política nacional en discapacidad estaría incompleta  si  no
 
 El  diseño  del  sistema  de  monitoreo  y  evaluación  incluye  los siguientes pasos:
 
-- Construir  la  línea  de  base  para  saber  cuál  es  la  situación actual al momento  de iniciar la implementación de la política.
+- 1. Construir  la  línea  de  base  para  saber  cuál  es  la  situación actual al momento  de iniciar la implementación de la política.
 
-- Definir  el  método  y  la  periodicidad  para  la  recolección  de datos sobre los indicadores
+- 2. Definir  el  método  y  la  periodicidad  para  la  recolección  de datos sobre los indicadores
 
-- Definir los responsables para:
+- 3. Definir los responsables para:
 
 - Recolectar
 
@@ -1083,15 +1075,15 @@ El  diseño  del  sistema  de  monitoreo  y  evaluación  incluye  los siguiente
 
 - Difundir los resultados
 
-- Realizar el monitoreo constante de los objetivos
+- 4. Realizar el monitoreo constante de los objetivos
 
-- Evaluar periódicamente el avance en el logro de los objetivos de la política.
+- 5. Evaluar periódicamente el avance en el logro de los objetivos de la política.
 
-- Reporte de hallazgos
+- 6. Reporte de hallazgos
 
-- Uso de los hallazgos
+- 7. Uso de los hallazgos
 
-- Meta-evaluación: evaluación del sistema de monitoreo y evaluación
+- 8. Meta-evaluación: evaluación del sistema de monitoreo y evaluación
 
 Por  la  naturaleza  de  este  documento,  solo  se  incluyen  los  dos primeros  pasos.  Los  otros  quedan  enunciados  para  implementarse antes de iniciar la gestión de la política.
 
@@ -1233,7 +1225,7 @@ POLÍTICA NACIONAL EN DISCAPACIDAD
 
 ## 10.2 Estrategias institucionales y técnicas
 
-Están orientadas a buscar la viabilidad 'institucional y técnica' aprovechando el ordenamiento j urídico, la institucionalidad pública existente y los espacios de participación ciudadana, en los niveles central, departamental, municipal y  local.  A  continuación  se  enumeran  las  principales acciones  que  deberán  ejecutar:  Junta  Directiva,  Director  (a)  y equipo  técnico  de  CONADI  para  lograr  la  implementación institucional y técnica de la política:
+Están orientadas a buscar la viabilidad 'institucional y técnica' aprovechando el ordenamiento jurídico, la institucionalidad pública existente y los espacios de participación ciudadana, en los niveles central, departamental, municipal y  local.  A  continuación  se  enumeran  las  principales acciones  que  deberán  ejecutar:  Junta  Directiva,  Director  (a)  y equipo  técnico  de  CONADI  para  lograr  la  implementación institucional y técnica de la política:
 
 ### 1. Integrar un equipo técnico para dirigir la implementación de la política.
 
