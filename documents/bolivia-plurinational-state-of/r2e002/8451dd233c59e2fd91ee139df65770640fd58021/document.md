@@ -187,7 +187,7 @@ Son objetivos y políticas de la estructura de Organización Curricular.
 
 - Estructurar  y  desarrollar  una  concepción  educativa  basada  en  la  investigación,  la creatividad, la pregunta, el trato horizontal, la esperanza y la construcción del conocimiento, en base a los métodos más actualizados de aprendizaje.
 
-- Organizar el proceso educativo en torno a la vida cotidiana, de acuerdo a los intereses de las personas y de la comunidad, partiendo de la base de un tronco común de objetivos y contenido nacionales que será complementado con objetivos y contenidos departamentales y locales.
+- Organizar el proceso educativo en torno a la vida cotidiana, de acuerdo a los intereses de las personas y de la comunidad, partiendo de la base de un tronco común de objetivos y contenidos nacionales que será complementado con objetivos y contenidos departamentales y locales.
 
 - Facilitar los mecanismos adecuados para la participación de los distintos actores de la Educación y de las organizaciones e instituciones sociales en la generalización, gestión y
 
@@ -197,12 +197,12 @@ Son objetivos y políticas de la estructura de Organización Curricular.
 
 evaluación  del  desarrollo  curricular,  con  enfoque  comunitario,  intercultural,  de  género  e interdisciplinario.
 
-- Ofrecer un currículo flexible, abierto, sistemático, dialéctico e integrador, orientando por los  siguientes  objetivos  presentes  en  todas  las  actividades  educativas;  la  conciencia nacional, la interculturalidad, la educación para la democracia, la conservación del medio ambiente, la preparación para la vida familiar y el desarrollo humano.
+- Ofrecer un currículo flexible, abierto, sistemático, dialéctico e integrador, orientado por los siguientes objetivos presentes en todas las actividades educativas; la conciencia nacional, la interculturalidad, la educación para la democracia, la conservación del medio ambiente, la preparación para la vida familiar y el desarrollo humano.
 
 - Incorporar  la  concepción  de  la  equidad  de  género  en  todo  el  proceso  del  diseño curricular.
 
 #### ARTICULO 9º.-
-La Estructura de Formación Curricular comprende dos áreas; Educación Formal  organizada  para  toda  la  población,  y  Educación  Alternativa,  para  atender  a quienes  no  pueden  desarrollar  su  educación  en  el  Area  Formal  Ambas  áreas  serán atendidas en cuatro grupos de modalidades:
+La Estructura de Formación Curricular comprende dos áreas; Educación Formal organizada para toda la población, y Educación Alternativa, para atender a quienes no pueden desarrollar su educación en el Area Formal. Ambas áreas serán atendidas en cuatro grupos de modalidades:
 
 - Modalidades de aprendizaje:
 
@@ -232,7 +232,7 @@ La Estructura de Formación Curricular comprende dos áreas; Educación Formal  
 
 -A distancia, con el apoyo de medios de comunicación, envío de materiales y asistencia de monitores.
 
-El Area Formal se organiza en cuatro niveles; pre-escolar, primario, secundario y superior, cuyos objetivos alcanzan también el área alternativa de educación en sus tres componentes: de adultos, permanentes y especial.
+El Area Formal se organiza en cuatro niveles; pre-escolar, primario, secundario y superior, cuyos objetivos alcanzan también el área alternativa de educación en sus tres componentes: de adultos, permanente y especial.
 
 ### CAPITULO V
 
@@ -248,15 +248,24 @@ El  nivel  primario  se  orienta  al  logro  de  los  objetivos  cognoscitivos, 
 
 [[START OF PAGE 11]]
 
-- Ciclo de Aprendizajes Tecnológicos, destinado al logro de habilidades y conocimientos técnicos  de  primer  grado  diseñados  de  acuerdo  a  las  necesidades  departamentales  y locales de desarrollo; además de la profundización de los objetivos del nivel primario en los campos cognoscitivo, afectivo y psicomotor.
+- Ciclo de Aprendizajes Básicos, de tres años promedio de duración.
+
+- Ciclo de Aprendizajes Esenciales, de tres años promedio de duración.
+
+- Ciclo de Aprendizajes Aplicados, de dos años promedio de duración.
+
+#### ARTICULO 12º.-
+El nivel secundario está compuesto por dos ciclos acordes a los ritmos personales de aprendizaje, sin pérdida de año, hasta el logro de los objetivos del nivel:
+
+- Ciclo de Aprendizajes Tecnológicos, destinado al logro de habilidades y conocimientos técnicos de primer grado diseñados de acuerdo a las necesidades departamentales y locales de desarrollo; además de la profundización de los objetivos del nivel primario en los campos cognoscitivo, afectivo y psicomotor.
 
 Logrados los objetivos de este ciclo, el educando recibirá el Diploma de Técnico Básico que le permitirá incorporarse al mundo laboral y continuar estudios en el ciclo siguiente.
 
 - Ciclo de Aprendizajes diferenciados, organizados en dos opciones.
 
--Aprendizajes Técnicos medios planificados de acuerdo con las necesidades departamentales y locales de desarrollo, destinados a completar la formación técnica de segundo grado. A su conclusión el educando recibirá el Diploma de Bachiller Técnico. El Diploma correspondiente será otorgado por el Director Distrital de Educación con mención que lo facilita para acceder al mundo laboral y seguir la formación técnica de tercer grado en el nivel superior.
+- Aprendizajes Técnicos medios planificados de acuerdo con las necesidades departamentales y locales de desarrollo, destinados a completar la formación técnica de segundo grado. A su conclusión el educando recibirá el Diploma de Bachiller Técnico. El Diploma correspondiente será otorgado por el Director Distrital de Educación con mención que lo faculta para acceder al mundo laboral y seguir la formación técnica de tercer grado en el nivel superior.
 
-- Aprendizaje  Científico,  Humanístico  y  Artístico  planificados  en  coordinación  con  las universidades,  destinados  a  completar  la  formación  necesaria  para  el  ingreso  de  las carreras  universitarias  de  la  misma  naturaleza.  A  su  conclusión  el  educando  recibirá  el Diploma de Bachiller en Humanidades, otorgado por el Director Distrital de Educación.
+- Aprendizaje Científico, Humanístico y Artístico planificados en coordinación con las universidades, destinados a completar la formación necesaria para el ingreso a las carreras universitarias de la misma naturaleza. A su conclusión el educando recibirá el Diploma de Bachiller en Humanidades, otorgado por el Director Distrital de Educación.
 
 #### ARTICULO 13º.-
 El desarrollo de cada una de las áreas, niveles y modalidades incluirá la experimentación permanente y la validación de los cambios antes de su generalización.
@@ -266,7 +275,7 @@ El desarrollo de cada una de las áreas, niveles y modalidades incluirá la expe
 ### DEL NIVEL SUPERIOR
 
 #### ARTICULO  14º.-
-El  nivel  superior  de  la  educación  comprendida  la  formación  técnico profesional de tercer nivel, la tecnológica, humanístico artística y la científica, incluyendo la capacitación y la especialización de postgrado.
+El nivel superior de la educación comprende la formación técnico profesional de tercer nivel, la tecnológica, humanístico artística y la científica, incluyendo la capacitación y la especialización de postgrado.
 
 [[END OF PAGE 11]]
 
@@ -276,7 +285,7 @@ El  nivel  superior  de  la  educación  comprendida  la  formación  técnico p
 Las  Escuelas  Normales  Urbanas  y  Rurales  serán  transformadas  en Institutos Normales Superiores en los que se llevará a cabo la formación y capacitación de los docentes que el Sistema Educativo requiera. Estos Institutos podrán ser adscritos a las  Universidades,  mediante  convenios  para  el  desarrollo  de  programas  de  licenciatura para la formación docente. El Ministerio de Desarrollo Humano establecerá, de acuerdo a reglamento, las pautas para la constitución de nuevos institutos y para la reconversión de las actuales Escuelas Normales.
 
 #### ARTICULO 16º.-
-El personal docente de los niveles preescolar, primario y secundario se formará en los Institutos Normales Superiores y en las Universidades. Los egresados de los Institutos Normales Superiores con Título de Maestro en Provisión Nacional, podrán acceder a los estudios de Licenciatura en las universidades, con el reconocimiento de sus estudios  académicos.  La  Secretaría  Nacional  de  Educación  otorgará  el  reconocimiento académico equivalente al grado de Técnico en Provisión Nacional, que deseen continuar sus  estudios  de  Licenciatura,  previa  acreditación  de  sus  conocimientos,  experiencia  y aprendizaje especiales por el organismo competente.
+El personal docente de los niveles preescolar, primario y secundario se formará en los Institutos Normales Superiores y en las Universidades. Los egresados de los Institutos Normales Superiores con Título de Maestro en Provisión Nacional, podrán acceder a los estudios de Licenciatura en las universidades, con el reconocimiento de sus estudios académicos. La Secretaría Nacional de Educación otorgará el reconocimiento académico equivalente al grado de Técnico en Provisión Nacional, a los maestros normalistas que deseen continuar sus estudios de Licenciatura, previa acreditación de sus conocimientos, experiencia y aprendizajes especiales por el organismo competente.
 
 La  Secretaría  Nacional  de  Educación  en  coordinación  con  los  Institutos  Normales Superiores y las Universidades, programará cursos complementarios en las modalidades presencial o a distancia, a fin de otorgar el Título en Provisión Nacional y el reconocimiento académico que habilite a los maestros interinos en ejercicio docente, que no cuenten con dicho Título, para proseguir estudios universitarios, previa acreditación por el organismo competente.
 
@@ -284,10 +293,10 @@ La  Secretaría  Nacional  de  Educación  en  coordinación  con  los  Institut
 El plantel titular de los Institutos Normales Superiores estará conformado por profesionales con grado académico igual o superior a la licenciatura.
 
 #### ARTICULO  18º.-
-Se  crea  el  Sistema  Nacional  de  Educación  Técnica  y  Tecnológica (SINETEC)  para  normar  la  formación  de  los  profesionales  y  docentes  técnicos  y  la capacitación laboral, en la base a los centros e institutos técnicos públicos y privados en las  áreas  agropecuaria,  comercial,  industrial  y  otras.  Su  estructura,  atribuciones  y funcionamiento  serán  determinados  en  consulta  con  los  sectores  productivo  y  laboral mediante reglamento.
+Se crea el Sistema Nacional de Educación Técnica y Tecnológica (SINETEC) para normar la formación de los profesionales y docentes técnicos y la capacitación laboral, en base a los centros e institutos técnicos públicos y privados en las áreas agropecuaria, comercial, industrial y otras. Su estructura, atribuciones y funcionamiento serán determinados en consulta con los sectores productivo y laboral mediante reglamento.
 
 #### ARTICULO  19º.-
-Los  Sistemas  Educativos  de  las  Fuerzas  Armadas  y  de  la  Policía Nacional son parte del Sistema Educativo Nacional a nivel superior, siendo el Comando en  Jefe  de  las  Fuerzas  Armadas  y  el  Comando  General  de  la  Policía  Nacional respectively, los responsables de su planificación y administración en concordancia con las disposiciones de la presente Ley.
+Los Sistemas Educativos de las Fuerzas Armadas y de la Policía Nacional son parte del Sistema Educativo Nacional a nivel superior, siendo el Comando en Jefe de las Fuerzas Armadas y el Comando General de la Policía Nacional respectivamente, los responsables de su planificación y administración en concordancia con las disposiciones de la presente Ley.
 
 [[END OF PAGE 12]]
 
@@ -303,9 +312,9 @@ El  Organismo  Central  de  coordinación  de  la  Universidad  Boliviana, segú
 - Adecuación de las actividades de la educación superior a las necesidades de desarrollo nacional y regional.
 
 #### ARTICULO 21º.-
-Créase el Sistema Nacional de Acreditación y Medición de la Calidad Educativa (SINAMED), que será administrado por el Consejo Nacional de Acreditación y Medición de la Calidad Educativa (CONAMED) como ante autónomo y especializado.
+Créase el Sistema Nacional de Acreditación y Medición de la Calidad Educativa (SINAMED), que será administrado por el Consejo Nacional de Acreditación y Medición de la Calidad Educativa (CONAMED) como ente autónomo y especializado.
 
-EL CONAMED estará compuesto por cinco miembros: un Presidente y cuatro vocales, los vocales serán renovados inicialmente por sorteo, cada año de acuerdo a Reglamento. El Honorable Senado Nacional elegirá como vocales a ciudadanos idóneos, por dos tercios de votos de sus miembros presentes. Dos vocales serán elegidos preferentemente de una lista  presentada  por  la  Universidad  Boliviana  a  la  Comisión  de  Desarrollo  Social  del Honorable Senado Nacional. Asimismo, la Honorable Cámara de Diputados elegirá una terna  de  ciudadanos  idóneos,  por  dos  tercios  de  votos  de  sus  miembros  presentes.  El Presidente  de  la  República  designará  de  esta  terna  al  Presidente  del  CONAMED,  en conformidad  con  el  Artículo  62º  inciso  5º  de  la  Constitución  Política  de  Estado.  el Presidente  del  CONAMED podrá ser reelegido  para  un  nuevo  mandato  de  cinco  años, después de un período de igual duración a la que tuvo su mandato anterior. El Presidente y los vocales del CONAMED serán de dedicación exclusiva y no podrán ejercer ningún otro cargo, ni público ni privado.
+EL CONAMED estará compuesto por cinco miembros: un Presidente y cuatro vocales, los vocales serán renovados inicialmente por sorteo, cada año de acuerdo a Reglamento. El Honorable Senado Nacional elegirá como vocales a ciudadanos idóneos, por dos tercios de votos de sus miembros presentes. Dos vocales serán elegidos preferentemente de una lista presentada por la Universidad Boliviana a la Comisión de Desarrollo Social del Honorable Senado Nacional. Asimismo, la Honorable Cámara de Diputados elegirá una terna de ciudadanos idóneos, por dos tercios de votos de sus miembros presentes. El Presidente de la República designará de esta terna al Presidente del CONAMED, en conformidad con el Artículo 62º inciso 5º de la Constitución Política del Estado. El Presidente del CONAMED podrá ser reelegido para un nuevo mandato de cinco años, después de un período de igual duración al que tuvo su mandato anterior. El Presidente y los vocales del CONAMED serán de dedicación exclusiva y no podrán ejercer ningún otro cargo, ni público ni privado.
 
 EL CONAMED certificará la medición de la calidad de la educación y la acreditación de los programas y las instituciones educativas públicas y privadas, de cualquier nivel, en un proceso permanente y de constante renovación. Para ello contará con  el  apoyo  de  los equipos técnicos que sean necesarios y aprobará los procedimientos y los parámetros de acreditación  y  de  medición  de  calidad  educativa,  considerando  aquellos  de  aceptación internacional, así como los criterios de las entidades involucradas en la medición.
 
@@ -317,7 +326,7 @@ EL CONAMED certificará la medición de la calidad de la educación y la acredit
 El proceso de acreditación que comprende las fases de autoevaluación, evaluación externa y acreditación, tendrá como objetivos orientar e impulsar el desarrollo de las instituciones de educación pública y privada, asegurando que éstas realicen sus actividades sobre indicadores mínimos de calidad y eficiencia en la gestión educativa. La acreditación será requisito  para  la  vigencia  de  la  autorización  de  funcionamiento  de  las instituciones privadas de educación.
 
 #### ARTICULO 23º.-
-De  conformidad  con  lo  establecido  en  el  Art.  188º  de  la  Constitución Pública del Estado, las universidades privadas están autorizadas para expedir diplomas académicos. Los Títulos en Provisión Nacional para estas universidades serán otorgados por la Secretaría Nacional de Educación, previa certificación del CONAMED.
+De conformidad con lo establecido en el Art. 188º de la Constitución Política del Estado, las universidades privadas están autorizadas para expedir diplomas académicos. Los Títulos en Provisión Nacional para estas universidades serán otorgados por la Secretaría Nacional de Educación, previa certificación del CONAMED.
 
 Los Tribunales que se organicen en las universidades privadas, para la recepción de los exámenes  de  grado,  serán  conformados  por  cinco  examinadores;  dos  internos  de  la propia universidad privada y tres externos: dos de la universidad pública del Departamento y otro designado por el CONAMED.
 
@@ -379,7 +388,7 @@ La estructura  de Administración Curricular comprende:
 #### ARTICULO 31º.-
 El nivel nacional tiene jurisdicción educativa en todo el territorio nacional y  el  nivel  departamental  en  el  territorio  del  Departamento  respectivo,  el  nivel  distrital extiende su jurisdicción educativa al territorio de cada municipio, debiendo los municipios mancomunados  conformar una sola jurisdicción del Sistema Educativo. El nivel subdistrital se organiza en los municipios muy poblados o extensos e incomunicados para asegurar la atención de los Centros Educativos de esa Jurisdicción.
 
-Los núcleos educativos conforman el nivel de núcleos. Cada núcleo constituye una red de servicios complementarios conformada por una Unidad Central con servicios  de educación  pre-escolar,  primaria  y  secundaria;  Unidad  Sub-Centrales    con  servicios  de educación pre-escolar y primaria; y finalmente, en el medio rural, también por Escuelas Seccionales con servicios de educación pre-escolar y, por lo menos, de los dos primeros ciclos de educación primaria. En el medio rural, los núcleos, educativos serán reorganizados teniendo en cuenta criterios de comunidad de interés, cultura, lengua y de accesibilidad; y en la ciudades se organizarán por zonas o barrios.
+Los núcleos educativos conforman el nivel de núcleos. Cada núcleo constituye una red de servicios complementarios conformada por una Unidad Central con servicios de educación pre-escolar, primaria y secundaria; Unidades Sub-Centrales con servicios de educación pre-escolar y primaria; y finalmente, en el medio rural, también por Escuelas Seccionales con servicios de educación pre-escolar y, por lo menos, de los dos primeros ciclos de educación primaria. En el medio rural, los núcleos educativos serán reorganizados teniendo en cuenta criterios de comunidad de interés, cultura, lengua y de accesibilidad; y en las ciudades se organizarán por zonas o barrios.
 
 Los diversos niveles estarán integrados a los correspondientes organismos de Participación Popular, conforme a reglamento.
 
@@ -406,7 +415,7 @@ Las Juntas Escolares, de Núcleo, Subdistritales y Distritales  a las que se ref
 Sin  perjuicio  del  régimen  de  antigüedad  en  vigencia,  se  dispone  la reforma  de  los  escalafones  vigentes  y  la  creación  de  las  nuevas  carreras  docente  y administrativa que estimulen al personal para su capacitación, desempeño y creatividad, abriéndole posibilidades de reconocimiento por esos conceptos.
 
 #### ARTICULO  38º.-
-Conforme  al  Art.  184º  de  la  Constitución  Pública  del  Estado,  los docentes gozan del derecho de inamovilidad si cumplen las condiciones siguientes:
+Conforme al Art. 184º de la Constitución Política del Estado, los docentes gozan del derecho de inamovilidad si cumplen las condiciones siguientes:
 
 [[END OF PAGE 17]]
 
@@ -439,7 +448,7 @@ Son  objetivos  y  política  de  la  estructura  de  Servicios  Técnico  Pedag
 [[START OF PAGE 19]]
 
 #### ARTICULO  41º.-
-Estructura  de  Servicio  Técnico  -  Pedagógicos  y  Administración  de Recursos  abarca  los  siguientes  niveles:  nacional,  departamental,  distrital  y  subdistrital, tanto en el aspecto técnico pedagógico, como en la administración del personal y de los recursos materiales y financieros.
+La Estructura de Servicios Técnico-Pedagógicos y Administración de Recursos abarca los siguientes niveles: nacional, departamental, distrital y subdistrital, tanto en el aspecto técnico pedagógico, como en la administración del personal y de los recursos materiales y financieros.
 
 Dichos niveles se organizan en dos divisiones: División de Servicios Técnico - Pedagógico y División de Administración de Recursos.
 
@@ -450,10 +459,10 @@ La División de Servicios Técnico - Pedagógico está encargada de las funcione
 La  Administración  de  Recursos  comprende  dos  oficinas:  Oficina  de Personal  y  Oficina  de  Infraestructura  y  Bienes.  Ambas  oficinas  dependen  de  las correspondientes Direcciones de Educación en los niveles nacional y departamental. En los  niveles  Distrital  y  subdistrital,  la  Oficina  de  Personal  depende  de  la  respectiva Dirección de Educación en tanto que la Oficina de Infraestructura y Bienes depende de la Municipalidad correspondiente.
 
 #### ARTICULO 44º.-
-El personal técnico de la Estructura de Servicios Técnico - Pedagógico y Administración de Recursos será personal profesional especializado y seleccionado, por examen de competencia, previa satisfacción de los requisitos que disponga el reglamento correspondiente.
+El personal técnico de la Estructura de Servicios Técnico-Pedagógicos y Administración de Recursos será personal profesional especializado y seleccionado, por examen de competencia, previa satisfacción de los requisitos que disponga el reglamento correspondiente.
 
 #### ARTICULO  45º.-
-El  funcionamiento  y  el  equipamiento,  y  el  pago  del  personal  de  las oficinas del nivel central de la sede de Gobierno, del nivel departamental en la capital de cada  departamento,  y  de  los  niveles  distrital  y  subdistrital  en  los  municipios  urbanos  y rurales serán cubiertos por el Tesoro General de la Nación. El personal de la oficinas de infraestructura  y  bienes  del  nivel  distrital  y  subdistrital  será  pagado  por  los  respectivos Tesoros Municipales.
+El funcionamiento, el equipamiento y el pago del personal de las oficinas del nivel central de la sede de Gobierno, del nivel departamental en la capital de cada departamento, y de los niveles distrital y subdistrital en los municipios urbanos y rurales serán cubiertos por el Tesoro General de la Nación. El personal de las oficinas de infraestructura y bienes del nivel distrital y subdistrital será pagado por los respectivos Tesoros Municipales.
 
 ### CAPITULO X
 
@@ -464,13 +473,13 @@ El  funcionamiento  y  el  equipamiento,  y  el  pago  del  personal  de  las of
 ### FINANCIAMIENTO  DE  LOS  NIVELES  PRE-ESCOLAR,  PRIMARIO,  SECUNDARIO  Y DEL AREA DE EDUCACION ALTERNATIVA
 
 #### ARTICULO 46º.-
-El Estado, conforme a los preceptos constitucionales, ofrece educación fiscal  gratuita  a  todos,  En  consecuencia,  y  priorizando  la  educación  primaria,  el  Estado atiende los niveles pre-escolar primario, secundario y el área de educación alternativa de los  establecimientos  fiscales  del  Sistema  Educativo  Nacional  y  de  las  entidades  que hubieran  de  las  siguientes  fuentes:  el  Tesoro  General  de  la  Nación,  los  Tesoros Municipales y el presupuesto de inversión Pública.
+El Estado, conforme a los preceptos constitucionales, ofrece educación fiscal gratuita a todos. En consecuencia, y priorizando la educación primaria, el Estado atiende los niveles pre-escolar, primario, secundario y el área de educación alternativa de los establecimientos fiscales del Sistema Educativo Nacional y de las entidades que hubieran suscrito convenio con el Estado, con recursos financieros que provienen de las siguientes fuentes: el Tesoro General de la Nación, los Tesoros Municipales y el presupuesto de Inversión Pública.
 
 #### ARTICULO  47º.-
 El  Tesoro  General  de  la  Nación  sostendrá  el  funcionamiento  de  los niveles pre-escolar, primario, secundario y del área de educación alternativa con recursos destinados a los gastos corrientes en pagos al personal docente y administrativo de las unidades educativas.
 
 #### ARTICULO  48º.-
-Los  Tesoros  Municipales  financiarán  la  contratación,  reposición  y mantenimiento de la infraestructura, del equipamiento mobiliario y del material didáctico de los establecimientos educativos públicos de los niveles pre-escolar, primario, secundario y del área de educación alternativa en el ámbito de su jurisdicción.
+Los Tesoros Municipales financiarán la construcción, reposición y mantenimiento de la infraestructura, del equipamiento mobiliario y del material didáctico de los establecimientos educativos públicos de los niveles pre-escolar, primario, secundario y del área de educación alternativa en el ámbito de su jurisdicción.
 
 #### ARTICULO 49º.-
 Cada Municipio se encargará de la administración de la infraestructura educativa  en  el  ámbito  de  su  propia  jurisdicción.  Al  efecto,  designará  y  pagará  a  sus propios  administradores.  El  Comité  de  Vigilancia  del  Municipio  en  coordinación  con  las Juntas Distritales de Participación Educativa y las Organizaciones Territoriales de Base, debe mantenerse en atenta observación sobre el estado de mantenimiento, conservación y necesidades de reposición de la infraestructura y el equipamiento escolar.
@@ -479,7 +488,7 @@ Cada Municipio se encargará de la administración de la infraestructura educati
 Cada  Municipio  construirá  los  nuevos  establecimientos  educativos  de acuerdo  a  su  Plan  Municipal  de  Edificaciones  y  Equipamiento  Escolar,  sujeto  a  la aprobación  técnico  pedagógica  de  la  Secretaría  Nacional  de  Educación,  conforme  al Servicio Técnico Pedagógico y División de Administración de Recursos.
 
 #### ARTICULO 42º.-
-La División  de  Servicios  Técnico  Pedagógicos  está  encargada  de  las funciones  de  desarrollo  curricular,  investigación,  planificación,  evaluación  y  otras,  en coordinación  funcional  entre  los  niveles  correspondientes.  Dependiente  de  Servicio Técnico  Pedagógico,  se  crea  el  Cuerpo  de  Asesores  Pedagógicos,  en  cada  Dirección Distrital y Subdistrital, para prestar apoyo técnico pedagógico a los núcleos y establecimientos escolares. Se elimina el cargo de Superior.
+La División de Servicios Técnico Pedagógicos está encargada de las funciones de desarrollo curricular, investigación, planificación, evaluación y otras, en coordinación funcional entre los niveles correspondientes. Dependiente de Servicio Técnico Pedagógico, se crea el Cuerpo de Asesores Pedagógicos, en cada Dirección Distrital y Subdistrital, para prestar apoyo técnico pedagógico a los núcleos y establecimientos escolares. Se elimina el cargo de Supervisor.
 
 [[END OF PAGE 20]]
 
@@ -489,10 +498,10 @@ La División  de  Servicios  Técnico  Pedagógicos  está  encargada  de  las f
 La  División  de  Administración  de  Recursos  comprende  dos  oficinas: Oficina de Personal y Oficina de Infraestructura y Bienes. Ambas oficinas dependen de las correspondientes Direcciones de Educación en los niveles nacional y departamental. En los  niveles    Distrital  y  Subdistrital,  la  Oficina  de  Personal  depende  de  la  respectiva Dirección de Educación, en tanto que la Oficina de Infraestructura y Bienes depende de la Municipalidad correspondiente.
 
 #### ARTICULO 44º.-
-El personal técnico de la Estructura de Servicio Técnico Pedagógico y Administradores de Recursos será personal profesional especializado y seleccionado, por examen de competencia, previa satisfacción de los requisitos que disponga el reglamento correspondiente.
+El personal técnico de la Estructura de Servicios Técnico Pedagógicos y Administración de Recursos será personal profesional especializado y seleccionado, por examen de competencia, previa satisfacción de los requisitos que disponga el reglamento correspondiente.
 
 #### ARTICULO 45º.-
-El funcionamiento, el equipamiento y el pago del personal de las oficina del  nivel  central  de  la  sede  de  Gobierno,  del  nivel  departamental  en  la  capital  de  cada departamento, y de los niveles distrital  y  sudistrital  en  los  municipios  urbanos  y  rurales serán  cubiertos  por  el  Tesoro  General  de  la  Nación.  El  personal  de  las  oficinas  de infraestructura  y  bienes  del  nivel  distrital  y  sudistrital  será  pagado  por  los  respectivos Tesoros Municipales.
+El funcionamiento, el equipamiento y el pago del personal de las oficinas del nivel central de la sede de Gobierno, del nivel departamental en la capital de cada departamento, y de los niveles distrital y subdistrital en los municipios urbanos y rurales serán cubiertos por el Tesoro General de la Nación. El personal de las oficinas de infraestructura y bienes del nivel distrital y subdistrital será pagado por los respectivos Tesoros Municipales.
 
 ### CAPITULO X
 
@@ -502,7 +511,7 @@ El funcionamiento, el equipamiento y el pago del personal de las oficina del  ni
 El Estado, conforme a los preceptos constitucionales, ofrece educación fiscal  gratuita  a  todos.  En  consecuencia,  y  priorizando  la  educación  primaria,  el  Estado atiende los niveles pre-escolar, primario, secundario y el área de educación alternativa de los  establecimientos  fiscales  del  Sistema  Educativo  Nacional  y  de  las  entidades  que hubieran suscrito convenio con el Estado, con recursos financieros que provienen de las siguientes  fuentes:  el  Tesoro  General  de  la  Nación,  los  Tesoros  Municipales  y  el presupuesto de Inversión Pública.
 
 #### ARTICULO  47º.-
-El  Tesoro  General  de  la  Nación  sostendrá  el  funcionamiento  de  los niveles pre-escolar, primario, secundario y del área de educación alternativa con recursos destinados a los gastos corrientes en pagos al personal docente y administrativo de las units educativas.
+El Tesoro General de la Nación sostendrá el funcionamiento de los niveles pre-escolar, primario, secundario y del área de educación alternativa con recursos destinados a los gastos corrientes en pagos al personal docente y administrativo de las unidades educativas.
 
 [[END OF PAGE 21]]
 
@@ -515,7 +524,7 @@ Los  Tesoros  Municipales  financiarán  la  construcción,  reposición  y mant
 Cada Municipio se encargará de la administración de la infraestructura educativa  en  el  ámbito  de  su  propia  jurisdicción.  Al  efecto,  designará  y  pagará  a  sus propios administradores. El Comité de Vigilancia del Municipio, en coordinación con las Juntas Distritales de Participación Educativa y las Organizaciones Territoriales de Base, debe mantenerse en atenta observación sobre el estado de mantenimiento, conservación de la infraestructura y el equipamiento escolar.
 
 #### ARTICULO 50º.-
-Cada  Municipio  construirá  los  nuevos  establecimientos  educativos  de acuerdo  a  su  Plan  Municipal  de  Edificaciones  y  Equipamiento  Escolar,  sujeto  a  la aprobación  técnico  -  pedagógico  de  la  Secretaría  Nacional  de  Educación,  conforme  a reglamento. Los planes municipales deben incorporar en sus presupuestos las necesidades del mantenimiento de la infraestructura, a corto plazo, y las necesidades de ampliación  y  sustitución  a  mediano  y  largo  plazo,  en  el  marco  de  los  objetivos  del currículo. En  situaciones  necesitadas de ayuda  podrán  acudir a las instituciones financiadoras  del  Estado  que,  de  acuerdo  a  sus  posibilidades,  les  brindarán  su  apoyo mediante  programas  de  inversión  pública,  sustentados  por  recursos  extraordinarios  de acuerdo a reglamento.
+Cada Municipio construirá los nuevos establecimientos educativos de acuerdo a su Plan Municipal de Edificaciones y Equipamiento Escolar, sujeto a la aprobación técnico-pedagógica de la Secretaría Nacional de Educación, conforme a reglamento. Los planes municipales deben incorporar en sus presupuestos las necesidades del mantenimiento de la infraestructura, a corto plazo, y las necesidades de ampliación y sustitución a mediano y largo plazo, en el marco de los objetivos del currículo. En situaciones necesitadas de ayuda podrán acudir a las instituciones financiadoras del Estado que, de acuerdo a sus posibilidades, les brindarán su apoyo mediante programas de inversión pública, sustentados por recursos extraordinarios de acuerdo a reglamento.
 
 ### CAPITULO XI
 
@@ -544,7 +553,7 @@ Son subvenciones del Estado a las universidades públicas y autónomas las trans
 
 El carácter obligatorio y suficiente de las subvenciones del Estado con fondos nacionales, dispuesto  por  el  Art.  187º  de  la  Constitución  Política  del  Estado,  se  determinará  por  la necesidad de recursos adicionales a los propios de las universidades, requeridos para el cumplimiento de los fines, los objetivos y el logro de los resultados del Plan Nacional de Desarrollo Universitario, elaborado por el organismo central de la universidad Boliviana y compatibilizado con el Plan General de Desarrollo Económico y Social de la República, presentado por el Poder Ejecutivo al Poder Legislativo, en conformidad a los artículos 96º, inciso 8º, y 144º de la Constitución Política del Estado.
 
-El  cumplimiento  del  Plan  Nacional  del  Desarrollo  Universitario  por  cada  una  de  las Universidades  Públicas  y  Autónomas,  permitirá  que  sean  acreedoras  a  la  subvención adicional, la que será distribuida a través de su organismo central.
+El cumplimiento del Plan Nacional de Desarrollo Universitario por cada una de las Universidades Públicas y Autónomas, permitirá que sean acreedoras a la subvención adicional, la que será distribuida a través de su organismo central.
 
 La  evaluación  y  certificación  del  CONAMED  permitirá  conocer  el  cumplimiento  de  las metas  y  objetivos  del  Plan  Nacional  de  Desarrollo  Universitario,  para  los  cuales  las Universidades  Públicas  y  Autónomas  deberán  adherirse  al  SINAMED,  cumpliendo  los procedimientos del mismo.
 
@@ -557,7 +566,7 @@ Parte  de  las  subvenciones  podrá  ser  destinada  a  fondos  especiales  de 
 #### ARTICULO  54º.-
 En  conformidad  con  lo  establecido  en  los  Arts.  152º  y  155º  de  la Constitución  Política  del  Estado,  las  universidades  públicas  y  autónomas  deberán presentar anualmente al Congreso las cuentas de sus rentas y gastos, acompañadas de un informe de la Contraloría General de la República, conforme a las normas establecidas por  los  órganos  rectores  competentes.  El  Poder  Legislativo,  mediante  sus  comisiones, tendrá facultad de fiscalización sobre dichas universidades.
 
-## TITULO I
+## TITULO III
 
 ### CAPITULO I
 
@@ -566,7 +575,7 @@ En  conformidad  con  lo  establecido  en  los  Arts.  152º  y  155º  de  la C
 #### ARTICULO  55º.-
 El  texto  reformado  mediante  la  presente  Ley  es  el  Código  de  la Educación al que se hace referencia en el Art. 184º de la Constitución Política del Estado.
 
-Derógase todas las leyes, decretos y disposiciones contrarias a la presente Ley.
+Deróganse todas las leyes, decretos y disposiciones contrarias a la presente Ley.
 
 #### ARTICULO  56º.-
 De  conformidad  a  la  Constitución  Política  del  Estado,  la  Educación Pública  y  Privada  en  sus  niveles  pre-escolar,  primario,  secundario,  normal  y  especial estará regida por el Estado, por intermedio del Ministerio de Desarrollo Humano a través de la Secretaría Nacional de Educación.
@@ -583,7 +592,7 @@ En los establecimientos fiscales y privados no confesionales se impartirá la re
 [[START OF PAGE 25]]
 
 #### ARTICULO  1º.-
-Para  viabilizar  los  cambios  necesarios  para  el  cumplimiento  de  la presente  Ley  se  desarrollará  una  reforma  educativa,  que  se  realizará  a  través  de  dos programas ejecutados simultáneamente priorizando la educación primaria: Programa de Mejoramiento de la Educación. El Programa de Mejoramiento se ocupará también de la educación  secundaria  en  acciones  conjuntas  entre  las  universidades  y  la  Secretaría Nacional de Educación.
+Para viabilizar los cambios necesarios para el cumplimiento de la presente Ley se desarrollará una reforma educativa, que se realizará a través de dos programas ejecutados simultáneamente priorizando la educación primaria: Programa de Mejoramiento y Programa de Transformación de la Educación. El Programa de Mejoramiento se ocupará también de la educación secundaria en acciones conjuntas entre las universidades y la Secretaría Nacional de Educación.
 
 #### ARTICULO 2º.-
 El Poder Ejecutivo reglamentará todos los aspectos de la presente Ley.
@@ -594,10 +603,10 @@ Se dispone la reinscripción de todas las instituciones privadas del nivel super
 #### ARTICULO 4º.-
 Se establece  un  plazo  de  tres  años,  a  partir  de  la  promulgación  de  la presente ley para que todas las instituciones públicas y privadas del Sistema Educativo Nacional, se incorporen al proceso de acreditación.
 
-#### ARTICULO 5º.
+#### ARTICULO 5º.-
 Dispónese la reconducción de todos los convenios educativos interinstitucionales en el marco de la presente Ley y sus reglamentos.
 
-#### ARTICULO  6º.
+#### ARTICULO 6º.-
 La Secretaría Nacional de Educación, en coordinación con las Universidades  interesadas,  organizará  programas  especiales  que  permitan  al  personal con funciones jerárquicas o con funciones de docencia en las Escuelas Normales, obtener en un plazo razonable, conforme a reglamento, título de licenciatura, a efecto de cumplir lo establecido en los Art. 33º, 34º y 35º de la presente ley, sin perjuicio del ejercicio de sus actuales funciones.
 
 #### ARTICULO 7º.-
