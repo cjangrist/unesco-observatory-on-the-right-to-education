@@ -1,5 +1,9 @@
 [[START OF PAGE 1]]
 
+# CONSTITUCION DE LA NACION ARGENTINA
+
+(22 de agosto de 1994)
+
 # Preámbulo
 
 Nos los representantes del pueblo de la Nación Argentina, reunidos en Congreso General Constituyente por voluntad y elección de las provincias que la componen, en cumplimiento de pactos preexistentes, con el objeto de constituir la unión  nacional,  afianzar  la  justicia,  consolidar  la  paz  interior,  proveer  a  la defensa  común,  promover  el  bienestar  general,  y  asegurar  los  beneficios  de  la libertad,  para  nosotros,  para  nuestra  posteridad,  y  para  todos  los  hombres  del mundo  que  quieran  habitar  en  el  suelo  argentino:  invocando  la  protección  de Dios, fuente de toda razón y justicia: ordenamos, decretamos y establecemos esta Constitución para la Nación Argentina.
@@ -30,10 +34,6 @@ El Gobierno federal interviene en el territorio de las provincias para garantir 
 
 ##### Artículo  7°
 Los  actos  públicos  y  procedimientos  judiciales  de  una  provincia gozan  de  entera  fe  en  las  demás;  y  el  Congreso  puede  por  leyes  generales
-
-# CONSTITUCION DE LA NACION ARGENTINA
-
-(22 de agosto de 1994)
 
 [[END OF PAGE 1]]
 
@@ -358,9 +358,9 @@ Los servicios de los senadores y diputados son remunerados por el Tesoro de la N
 ##### Artículo 75
 Corresponde al Congreso:
 
-- Legislar  en  materia  aduanera.  Establecer  los  derechos  de  importación  y exportación, los cuales, así como las avaluaciones sobre las que recaigan, serán uniformes en toda la Nación.
+1. Legislar en materia aduanera. Establecer los derechos de importación y exportación, los cuales, así como las avaluaciones sobre las que recaigan, serán uniformes en toda la Nación.
 
-- Imponer contribuciones indirectas como facultad concurrente con las provincias. Imponer contribuciones directas, por tiempo determinado, proporcionalmente  iguales  en  todo  el  territorio  de  la  Nación,  siempre  que  la defensa, seguridad común y bien general del Estado lo exijan. Las contribuciones previstas  en  este  inciso,  con  excepción  de  la  parte  o  el  total  de  las  que  tengan asignación especifica, son coparticipables.
+2. Imponer contribuciones indirectas como facultad concurrente con las provincias. Imponer contribuciones directas, por tiempo determinado, proporcionalmente iguales en todo el territorio de la Nación, siempre que la defensa, seguridad común y bien general del Estado lo exijan. Las contribuciones previstas en este inciso, con excepción de la parte o el total de las que tengan asignación especifica, son coparticipables.
 
 Una  ley  convenio,  sobre  la  base  de  acuerdos  entre  la  Nación  y  las  provincias, instituirá  regímenes  de  coparticipación  de  estas  contribuciones,  garantizando  la automaticidad en la remisión de los fondos.
 
@@ -460,13 +460,13 @@ La denuncia de los tratados referidos a este inciso, exigirá la previa aprobaci
 
 29.  Declarar  en  estado  de  sitio  uno  o  varios  puntos  de  la  Nación  en  caso  de conmoción interior, y aprobar o suspender el estado de sitio declarado, durante su receso, por el Poder Ejecutivo.
 
-- Ejercer una legislación exclusiva en el territorio de la Capital de la Nación y dictar la legislación necesaria para el cumplimiento de los fines específicos de los establecimientos  de  utilidad  nacional  en  el  territorio  de  la  República.  Las autoridades  provinciales  y  municipales  conservarán  los  poderes  de  policía  e imposición sobre estos establecimientos, en tanto no interfieran en el cumplimiento de aquellos fines.
+30. Ejercer una legislación exclusiva en el territorio de la Capital de la Nación y dictar la legislación necesaria para el cumplimiento de los fines específicos de los establecimientos de utilidad nacional en el territorio de la República. Las autoridades provinciales y municipales conservarán los poderes de policía e imposición sobre estos establecimientos, en tanto no interfieran en el cumplimiento de aquellos fines.
 
 31.  Disponer  la  intervención  federal  a  una  provincia  o  a  la  ciudad  de  Buenos Aires.
 
 Aprobar  o  revocar  la  intervención  decretada,  durante  su  receso,  por  el  Poder Ejecutivo.
 
-- Hacer  todas  las  leyes  y  reglamentos  que  sean  convenientes  para  poner  en ejercicio  los  poderes  antecedentes,  y  todos  los  otros  concedidos  por  la  presente Constitución al Gobierno de la Nación Argentina.
+32. Hacer todas las leyes y reglamentos que sean convenientes para poner en ejercicio los poderes antecedentes, y todos los otros concedidos por la presente Constitución al Gobierno de la Nación Argentina.
 
 ##### Artículo 76
 Se prohíbe la delegación legislativa en el Poder Ejecutivo, salvo en materias  determinadas  de  administración  o  de  emergencia  pública,  con  plazo fijado  para  su  ejercicio  y  dentro  de  las  bases  de  la  delegación  que  el  Congreso establezca.
@@ -618,29 +618,29 @@ Un  nuevo  nombramiento,  precedido  de  igual  acuerdo,  será  necesario  para
 
 [[START OF PAGE 20]]
 
-- Prorroga  las  sesiones  ordinarias  del  Congreso,  o  lo  convoca  a  sesiones extraordinarias, cuando un grave interés de orden o de progreso lo requiera.
+9. Prorroga las sesiones ordinarias del Congreso, o lo convoca a sesiones extraordinarias, cuando un grave interés de orden o de progreso lo requiera.
 
-- Supervisa el ejercicio de la facultad del jefe de gabinete de ministros respecto de la recaudación de las rentas de la Nación y de su inversión, con arreglo a la ley o presupuesto de gastos Nacionales.
+10. Supervisa el ejercicio de la facultad del jefe de gabinete de ministros respecto de la recaudación de las rentas de la Nación y de su inversión, con arreglo a la ley o presupuesto de gastos Nacionales.
 
-- Concluye y firma tratados, concordatos y otras negociaciones requeridas para el  mantenimiento de buenas relaciones con las organizaciones internacionales y las naciones extranjeras, recibe sus ministros y admite sus cónsules.
+11. Concluye y firma tratados, concordatos y otras negociaciones requeridas para el mantenimiento de buenas relaciones con las organizaciones internacionales y las naciones extranjeras, recibe sus ministros y admite sus cónsules.
 
-- Es Comandante en Jefe de todas las fuerzas armadas de la Nación.
+12. Es Comandante en Jefe de todas las fuerzas armadas de la Nación.
 
-- Provee  los  empleos  militares  de  la  Nación:  Con  acuerdo  del  Senado,  en  la concesión de los empleos o grados de oficiales superiores de las fuerzas armadas; y por sí sólo en el campo de batalla.
+13. Provee los empleos militares de la Nación: Con acuerdo del Senado, en la concesión de los empleos o grados de oficiales superiores de las fuerzas armadas; y por sí sólo en el campo de batalla.
 
-- Dispone de las fuerzas armadas, y corre con su organización y distribución según las necesidades de la Nación.
+14. Dispone de las fuerzas armadas, y corre con su organización y distribución según las necesidades de la Nación.
 
-- Declara  la  guerra  y  ordena  represalias  con  autorización  y  aprobación  del Congreso.
+15. Declara la guerra y ordena represalias con autorización y aprobación del Congreso.
 
-- Declara en estado de sitio uno o varios puntos de la Nación, en caso de ataque exterior  y  por  un  término  limitado,  con  acuerdo  del  Senado.  En  caso  de conmoción  interior  sólo  tiene  esta  facultad  cuando  el  Congreso  está  en  receso, porque es atribución que corresponde a este cuerpo, el Presidente la ejerce con las limitaciones prescriptas en el Artículo 23.
+16. Declara en estado de sitio uno o varios puntos de la Nación, en caso de ataque exterior y por un término limitado, con acuerdo del Senado. En caso de conmoción interior sólo tiene esta facultad cuando el Congreso está en receso, porque es atribución que corresponde a este cuerpo, el Presidente la ejerce con las limitaciones prescriptas en el Artículo 23.
 
-- Puede pedir al jefe de gabinete de ministros y a los jefes de todos los ramos y departamentos de la administración, y por su conducto a los demás empleados, los informes que crea convenientes, y ellos están obligados a darlos.
+17. Puede pedir al jefe de gabinete de ministros y a los jefes de todos los ramos y departamentos de la administración, y por su conducto a los demás empleados, los informes que crea convenientes, y ellos están obligados a darlos.
 
-- Puede ausentarse del territorio de la Nación, con permiso del Congreso. En el receso de éste, sólo podrá hacerlo sin licencia por razones justificadas de servicio público.
+18. Puede ausentarse del territorio de la Nación, con permiso del Congreso. En el receso de éste, sólo podrá hacerlo sin licencia por razones justificadas de servicio público.
 
-- Puede llenar las vacantes de los empleos, que requieran el acuerdo del Senado, y que ocurran durante su receso, por medio de nombramientos en comisión que expirarán al fin de la próxima Legislatura.
+19. Puede llenar las vacantes de los empleos, que requieran el acuerdo del Senado, y que ocurran durante su receso, por medio de nombramientos en comisión que expirarán al fin de la próxima Legislatura.
 
-- Decreta la intervención federal a una provincia o a la ciudad de Buenos Aires en  caso  de  receso  del  Congreso,  y  debe  convocarlo  simultáneamente  para  su tratamiento.
+20. Decreta la intervención federal a una provincia o a la ciudad de Buenos Aires en caso de receso del Congreso, y debe convocarlo simultáneamente para su tratamiento.
 
 #### Capítulo Cuarto
 
@@ -655,31 +655,31 @@ El jefe de gabinete de ministros y los demás ministros secretarios cuyo número
 
 Al jefe de gabinete de ministros, con responsabilidad política ante el Congreso de la Nación, le corresponde:
 
-- Ejercer la administración general del país.
+1. Ejercer la administración general del país.
 
-- Expedir los actos y reglamentos que sean necesarios para ejercer las facultades que le atribuye este artículo y aquellas que le delegue el Presidente de la Nación, con el refrendo del ministro secretario del ramo al cual el acto o reglamento se refiera.
+2. Expedir los actos y reglamentos que sean necesarios para ejercer las facultades que le atribuye este artículo y aquellas que le delegue el Presidente de la Nación, con el refrendo del ministro secretario del ramo al cual el acto o reglamento se refiera.
 
-- Efectuar  los  nombramientos  de  los  empleados  de  la  Administración,  excepto los que correspondan al Presidente.
+3. Efectuar los nombramientos de los empleados de la Administración, excepto los que correspondan al Presidente.
 
-- Ejercer las funciones y atribuciones que le delegue el Presidente de la Nación, y en  acuerdo  de  gabinete  resolver  sobre  las  materias  que  le  indique  el  Poder Ejecutivo,  o  por  su  propia  decisión,  en  aquellas  que  por  su  importancia  estime necesario, en el ámbito de su competencia.
+4. Ejercer las funciones y atribuciones que le delegue el Presidente de la Nación, y en acuerdo de gabinete resolver sobre las materias que le indique el Poder Ejecutivo, o por su propia decisión, en aquellas que por su importancia estime necesario, en el ámbito de su competencia.
 
-- Coordinar,  preparar  y  convocar  las  reuniones  de  gabinete  de  ministros, presidiéndolas en caso de ausencia del Presidente.
+5. Coordinar, preparar y convocar las reuniones de gabinete de ministros, presidiéndolas en caso de ausencia del Presidente.
 
-- Enviar  al  Congreso  los  proyectos  de  Ley  de  Ministerios  y  de  Presupuesto Nacional,  previo  tratamiento  en  acuerdo  de  gabinete  y  aprobación  del  Poder Ejecutivo.
+6. Enviar al Congreso los proyectos de Ley de Ministerios y de Presupuesto Nacional, previo tratamiento en acuerdo de gabinete y aprobación del Poder Ejecutivo.
 
-- Hacer  recaudar  las  rentas  de  la  Nación  y  ejecutar  la  Ley  de  Presupuesto Nacional.
+7. Hacer recaudar las rentas de la Nación y ejecutar la Ley de Presupuesto Nacional.
 
-- Refrendar los decretos reglamentarios de las leyes, los decretos que dispongan la prórroga de las sesiones ordinarias del Congreso o la convocatoria de sesiones extraordinarias  y  los  mensajes  del  Presidente  que  promuevan  la  iniciativa legislativa.
+8. Refrendar los decretos reglamentarios de las leyes, los decretos que dispongan la prórroga de las sesiones ordinarias del Congreso o la convocatoria de sesiones extraordinarias y los mensajes del Presidente que promuevan la iniciativa legislativa.
 
-- Concurrir a las sesiones del Congreso y participar en sus debates, pero no votar.
+9. Concurrir a las sesiones del Congreso y participar en sus debates, pero no votar.
 
-- Una vez que se inicien las sesiones ordinarias del Congreso, presentar junto a los  restantes  ministros  una  memoria  detallada  del  estado  de  la  Nación  en  lo relativo a los negocios de los respectivos departamentos.
+10. Una vez que se inicien las sesiones ordinarias del Congreso, presentar junto a los restantes ministros una memoria detallada del estado de la Nación en lo relativo a los negocios de los respectivos departamentos.
 
-- Producir los informes y explicaciones verbales o escritas que cualquiera de las Cámaras solicite al Poder Ejecutivo.
+11. Producir los informes y explicaciones verbales o escritas que cualquiera de las Cámaras solicite al Poder Ejecutivo.
 
-- Refrendar los decretos que ejercen facultades delegadas por el Congreso, los que estarán sujetos al control de la Comisión Bicameral Permanente.
+12. Refrendar los decretos que ejercen facultades delegadas por el Congreso, los que estarán sujetos al control de la Comisión Bicameral Permanente.
 
-- Refrendar conjuntamente con los demás Ministros los decretos de necesidad y urgencia y los decretos que promulgan parcialmente leyes. Someterá personalmente  y  dentro de los diez días de su sanción estos decretos a consideración de la Comisión Bicameral Permanente.
+13. Refrendar conjuntamente con los demás Ministros los decretos de necesidad y urgencia y los decretos que promulgan parcialmente leyes. Someterá personalmente y dentro de los diez días de su sanción estos decretos a consideración de la Comisión Bicameral Permanente.
 
 El  jefe  de  gabinete  de  ministros  no  podrá  desempeñar  simultáneamente  otro ministerio.
 
@@ -743,17 +743,17 @@ El Consejo será integrado periódicamente de modo que se procure el equilibrio 
 
 Serán sus atribuciones:
 
-- Seleccionar  mediante  concursos  públicos  los  postulantes  a  las  magistraturas inferiores.
+1. Seleccionar mediante concursos públicos los postulantes a las magistraturas inferiores.
 
-- Emitir propuestas en ternas vinculantes, para el nombramiento  de  los magistrados de los tribunales inferiores.
+2. Emitir propuestas en ternas vinculantes, para el nombramiento de los magistrados de los tribunales inferiores.
 
-- Administrar  los  recursos  y  ejecutar  el  presupuesto  que  la  ley  asigne  a  la administración de justicia.
+3. Administrar los recursos y ejecutar el presupuesto que la ley asigne a la administración de justicia.
 
-- Ejercer facultades disciplinarias sobre magistrados.
+4. Ejercer facultades disciplinarias sobre magistrados.
 
-- Decidir la apertura del procedimiento de remoción de magistrados, en su caso ordenar la suspensión, y formular la acusación correspondiente.
+5. Decidir la apertura del procedimiento de remoción de magistrados, en su caso ordenar la suspensión, y formular la acusación correspondiente.
 
-- Dictar  los  reglamentos  relacionados  con  la  organización  judicial  y  todos aquellos  que  sean  necesarios  para  asegurar  la  independencia  de  los  jueces  y  la eficaz prestación de los servicios de justicia.
+6. Dictar los reglamentos relacionados con la organización judicial y todos aquellos que sean necesarios para asegurar la independencia de los jueces y la eficaz prestación de los servicios de justicia.
 
 ##### Artículo  115.
 Los  jueces  de  los  tribunales  inferiores  de  la  Nación  serán removidos  por  las  causales  expresadas  en  el  Artículo  53,  por  un  jurado  de enjuiciamiento integrado por legisladores, magistrados y abogados de la matrícula federal.
@@ -856,7 +856,7 @@ Los actuales integrantes del Senado de la Nación desempeñarán su cargo hasta 
 
 En ocasión de renovarse un tercio del Senado en mil novecientos noventa y cinco, por  finalización  de  los  mandatos  de  todos  los  senadores  elegidos  en  mil novecientos ochenta y seis, será designado además un tercer Senador por distrito por cada Legislatura. El conjunto de los senadores por cada distrito se integrará, en lo posible, de modo que correspondan dos bancas al partido político o alianza electoral que tenga el mayor número de miembros en la Legislatura y la restante al partido político o alianza electoral que lo siga en número de miembros de ella. En caso de empate, se hará prevalecer al partido político o alianza electoral que hubiera obtenido mayor cantidad de sufragios en la elección legislativa provincial inmediata anterior.
 
-La elección de los senadores que reemplacen a aquellos cuyos mandatos vencen en  mil  novecientos  noventa  y  ocho,  así  como  la  elección  de  quien  reemplace  a cualquiera de lo actuales senadores en caso de aplicación del art. 62, se hará por éstas mismas reglas de designación. Empero, el partido político o alianza electoral que tenga el mayor número de miembros en la legislatura al tiempo de la elección del senador, tendrá derecho a que sea elegido su candidato, con la sola limitación de  que  no  resulten  los  tres  senadores  de  un  mismo  partido  político  o  alianza electoral. Estas reglas serán también aplicables a la elección de los senadores por la  ciudad  de  Buenos  Aires,  en  mil  novecientos  noventa  y  cinco  por  el  cuerpo electoral,  y  en  mil  novecientos  noventa  y  ocho  por  el  órgano  legislativo  de  la ciudad.
+La elección de los senadores que reemplacen a aquellos cuyos mandatos vencen en  mil  novecientos  noventa  y  ocho,  así  como  la  elección  de  quien  reemplace  a cualquiera de los actuales senadores en caso de aplicación del art. 62, se hará por éstas mismas reglas de designación. Empero, el partido político o alianza electoral que tenga el mayor número de miembros en la legislatura al tiempo de la elección del senador, tendrá derecho a que sea elegido su candidato, con la sola limitación de  que  no  resulten  los  tres  senadores  de  un  mismo  partido  político  o  alianza electoral. Estas reglas serán también aplicables a la elección de los senadores por la  ciudad  de  Buenos  Aires,  en  mil  novecientos  noventa  y  cinco  por  el  cuerpo electoral,  y  en  mil  novecientos  noventa  y  ocho  por  el  órgano  legislativo  de  la ciudad.
 
 [[END OF PAGE 26]]
 
