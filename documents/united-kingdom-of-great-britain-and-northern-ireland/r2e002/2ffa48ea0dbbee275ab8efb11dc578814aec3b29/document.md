@@ -22,17 +22,17 @@ In exercise of the powers conferred on the Secretary of State by sections 118(1)
 
 ## Name, commencement and application
 
--(1)    These  Regulations  are  called  the  Education  (Nursery  Education  and  Early  Years Development and Childcare Plans) (Wales) Regulations 2003 and shall come into force on 31st March 2003.
+1.—(1) These Regulations are called the Education (Nursery Education and Early Years Development and Childcare Plans) (Wales) Regulations 2003 and shall come into force on 31st March 2003.
 
-- These Regulations apply in relation to Wales.
+(2) These Regulations apply in relation to Wales.
 
 ## Revocation
 
-- These Regulations revoke the Education (Nursery Education and Early Years Development) (Wales) Regulations 1999( 3 ).
+2. These Regulations revoke the Education (Nursery Education and Early Years Development) (Wales) Regulations 1999(3).
 
 ## Interpretation
 
-- In these Regulations-
+3. In these Regulations—
 
 'the Act' (' y Ddeddf ') means the School Standards and Framework Act 1998;
 
@@ -114,7 +114,7 @@ Status: This is the original version (as it was originally made). This item of l
 
 ## Publication of plans
 
--(1)  Where the National Assembly has approved-
+7.—(1) Where the National Assembly has approved—
 
 (a) an authority's plan under subsection (2) of section 121 of the Act, or
 
@@ -132,7 +132,7 @@ the authority must publish their plan, or their plan as modified, within 28 days
 
 for reference by members of the public.
 
-- The authority must provide a copy of their plan, or their plan as modified, to-
+(3) The authority must provide a copy of their plan, or their plan as modified, to—
 
 (a) the National Assembly, and
 
@@ -159,6 +159,7 @@ Document Generated: 2017-08-03
 Status: This is the original version (as it was originally made). This item of legislation is currently only available in its original format.
 
 ## SCHEDULE
+Regulation 6(3)
 
 ### Matters to be included in proposals for nursery education
 
@@ -191,8 +192,6 @@ The Regulations prescribe-
 (b) the periods to which an authority's proposals for nursery education pursuant to their duty under section 118 of the Act contained in such a plan must relate (regulation 6(1) and (2));
 
 (c) the matters which must be dealt with in such proposals (regulation 6(3) and the Schedule);
-
-Regulation 6(3)
 
 4
 
