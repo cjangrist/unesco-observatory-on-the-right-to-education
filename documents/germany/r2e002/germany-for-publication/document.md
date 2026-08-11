@@ -44,7 +44,7 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 9. National respondents are encouraged to consult widely both within, across and beyond government, including with Ministries of Environment, with national human rights institutions, the education sector, civil society partners and others, as necessary, to gather the information needed to complete the questionnaire.
 
-- Responses to the seventh consultation should cover:
+10. Responses to the seventh consultation should cover:
 
 (i)      the time period 2017-2020;
 
@@ -58,21 +58,21 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 ### Global citizenship education and education for sustainable development
 
-- cultural diversity and tolerance
+1. cultural diversity and tolerance
 
-- 1.1 international or intercultural understanding, solidarity and cooperation
+1.1 international or intercultural understanding, solidarity and cooperation
 
-- 1.2 intercultural and interreligious dialogue
+1.2 intercultural and interreligious dialogue
 
-- 1.3 local, national and/or global citizenship
+1.3 local, national and/or global citizenship
 
-- gender equality education
+2. gender equality education
 
-- 2.1 gender-based equal opportunities
+2.1 gender-based equal opportunities
 
-- 2.2 gender equality and justice
+2.2 gender equality and justice
 
-- 2.3 gender roles, identity and stereotypes
+2.3 gender roles, identity and stereotypes
 
 2
 
@@ -80,55 +80,55 @@ A2, A4, A5, E1a | B2, B3, B4, E1b | C2, C3, C4, C5, E1c | D2, D3, E1d
 
 [[START OF PAGE 3]]
 
-- human rights education
+3. human rights education
 
-- 3.1 equality  and  non-discrimination  based  on race, colour,  language, religion, disability,  political  or  other  opinion,  national  or  social  origin,  birth  or  other status
+3.1 equality and non-discrimination based on race, colour, language, religion, disability, political or other opinion, national or social origin, birth or other status
 
-- 3.2 human rights values, human dignity, justice, inclusion and participation
+3.2 human rights values, human dignity, justice, inclusion and participation
 
-- 3.3 respect for  human  rights  and  fundamental  freedoms  (as  outlined  in international conventions and declarations)
+3.3 respect for human rights and fundamental freedoms (as outlined in international conventions and declarations)
 
-- peace and non-violence
+4. peace and non-violence
 
-- 4.1 friendly relations among peoples and nations
+4.1 friendly relations among peoples and nations
 
-- 4.2 challenging negative stereotypes, promoting peaceful solutions, learning to live together, including others and preventing violent extremism
+4.2 challenging negative stereotypes, promoting peaceful solutions, learning to live together, including others and preventing violent extremism
 
-- 4.3 preventing all forms of violence including bullying, verbal abuse and genderbased violence
+4.3 preventing all forms of violence including bullying, verbal abuse and gender-based violence
 
-- climate change education
+5. climate change education
 
-- 5.1 mitigation
+5.1 mitigation
 
-- 5.2 adaptation
+5.2 adaptation
 
-- 5.3 impact reduction
+5.3 impact reduction
 
-- 5.4 early warning
+5.4 early warning
 
-- environmental sustainability
+6. environmental sustainability
 
-- 6.1 caring for the planet, protecting nature
+6.1 caring for the planet, protecting nature
 
-- 6.2 environmental justice
+6.2 environmental justice
 
-- 6.3 biodiversity, water
+6.3 biodiversity, water
 
-- human survival and well-being
+7. human survival and well-being
 
-- 7.1 environmental health as it pertains to  human well-being, disaster risk reduction
+7.1 environmental health as it pertains to human well-being, disaster risk reduction
 
-- 7.2 health of the planet for future generations
+7.2 health of the planet for future generations
 
-- 7.3 sustainable cities and communities
+7.3 sustainable cities and communities
 
-- sustainable consumption and production
+8. sustainable consumption and production
 
-- 8.1 responsible and sustainable lifestyles
+8.1 responsible and sustainable lifestyles
 
-- 8.2 green economy, green jobs
+8.2 green economy, green jobs
 
-- 8.3 sustainable energy
+8.3 sustainable energy
 
 3
 
@@ -147,7 +147,7 @@ Themes of global citizenship and education for sustainable development
 4. Peace and non-violence | Education about peace and peace-building, mediation, conflict prevention and resolution, non-violence, reconciliation and living together peacefully. It includes advocating for friendly relations among peoples and nations, challenging negative stereotypes, promoting peaceful solutions, learning to live together and preventing violent extremism and other forms of violence including bullying.
 5. Climate change education | Education to help people, in particular youth, understand, address, mitigate, and adapt to the impacts of climate change. It encourages changes in attitudes and behaviours needed to put the world on a more sustainable development path, and build a new generation of climate change-aware citizens. It covers various responses to climate change including mitigation, adaptation, impact reduction and early warning.
 6. Environmental sustainability | Education about responsible interactions with the environment to avoid depletion or degradation and to promote environmental quality and health. It includes, caring for the planet and protecting nature, environmental justice, biodiversity and water.
-7. Human survival and well- being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
+7. Human survival and well-being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.
 
 4
 
@@ -187,16 +187,7 @@ Vocational education | Education that is designed for learners to acquire the kn
 
 [[START OF PAGE 7]]
 
-## Information about the respondent
-
-Germany
----
-
-Federal Foreign Office
----
-
-08.02.2021
----
+## IV. Information about the respondent
 
 Country:
 
@@ -276,15 +267,15 @@ Taking the findings of developmental psychology into consideration, daycare cent
 
 Germany's National Sustainable Development Strategy
 
-(https://www.bundesregierung.de/resource/blob/997532/188836/7d1716e5d5576bec62c9d16ca 908e80e/2017-06-20-nachhaltigkeit-neuauflage-engl-data.pdf?download=1 )
+(https://www.bundesregierung.de/resource/blob/997532/188836/7d1716e5d5576bec62c9d16ca908e80e/2017-06-20-nachhaltigkeit-neuauflage-engl-data.pdf?download=1 )
 
 For an overview of laws, legislations or legal frameworks referring to GCED and ESD at national and federal level please consider the results of the German monitoring research on ESD:
 
-Holst, J.; Brock, A.; Singer-Brodowski, M.; de Haan, G. (2020): Monitoring Progress of Change: Implementation  of  Education  for  Sustainable  Development  (ESD)  within  Documents  of  the German Education System. Sustainability 2020, 12, 4306. (English): https://www.mdpi.com/20711050/12/10/4306
+Holst, J.; Brock, A.; Singer-Brodowski, M.; de Haan, G. (2020): Monitoring Progress of Change: Implementation of Education for Sustainable Development (ESD) within Documents of the German Education System. Sustainability 2020, 12, 4306. (English): https://www.mdpi.com/2071-1050/12/10/4306
 
 Early Childhood education and care (extract, not definitive)
 
-- UN  Convention  on  the  Rights  of  the  Child:  https://www.unicef.de/informieren/ueberuns/fuer-kinderrechte/un-kinderrechtskonvention
+- UN Convention on the Rights of the Child: https://www.unicef.de/informieren/ueber-uns/fuer-kinderrechte/un-kinderrechtskonvention
 
 Laws at federal level:
 
@@ -300,7 +291,7 @@ Laws and regulations, education plans and guidelines - e.g. Bavaria:
 
 - Kinderbildungsverordnung zum BayKiBiG (AVBayKiBiG) (child education regulation on the BayKiBiG) https://www.gesetze-bayern.de/Content/Document/BayAVKiBiG
 
-- Bayerischer  Bildungs-  und  Erziehungsplan  für  Kinder  in  Tageseinrichtungen  bis  zur Einschulung  (BayBEP)  (Bavarian  education  plan  for  children  in  daycare  centres  until enrolment at school) https://www.ifp.bayern.de/veroeffentlichungen/books/bildungserziehungsplan/
+- Bayerischer Bildungs- und Erziehungsplan für Kinder in Tageseinrichtungen bis zur Einschulung (BayBEP) (Bavarian education plan for children in daycare centres until enrolment at school) https://www.ifp.bayern.de/veroeffentlichungen/books/bildungs-erziehungsplan/
 
 - Handreichung  Bildung, Erziehung und Betreuung  von Kindern in den  ersten drei Lebensjahren  (guide  on  the  education  and  care  of  children  in  the  first  three  years) https://www.ifp.bayern.de/projekte/curricula/handreichung_U3.php
 
@@ -316,23 +307,23 @@ Laws and regulations, education plans and guidelines - e.g. Bavaria:
 
 KEY: 0 = no, 1 = yes, 9 = unknown, 99 = not applicable (e.g. where the given level of government is not responsible for education)
 
-National | Sub-national
---- | --- | --- | --- | --- | --- | --- | ---
-Pre- primary | Primary/ secondary | Tertiary | Non- formal | Pre- primary | Primary/ secondary | Tertiary | Non- formal
-1. Cultural diversity and tolerance | 99 | 99 | 1 | 1 | 1 | 1
-2. Gender equality | 99 | 99 | 1 | 1 | 1 | 1
-3. | Human rights 99 | 99 | 1 | 1 | 1 | 1
-4. | Peace and non- violence 99 | 99 | 1 | 1 | 9 | 1
-5. Climate | change 99 | 99 | 1 | 1 | 9 | 1
-6. | Environmental sustainability 99 | 99 | 1 | 1 | 9 | 1
-7. Human and well-being | survival 99 | 99 | 1 | 1 | 9 | 1
-8. | Sustainable consumption and production 99 | 99 | 1 | 1 | 9 | 1
+ | National |  |  |  | Sub-national |  |  | 
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+ | Pre-primary | Primary/secondary | Tertiary | Non-formal | Pre-primary | Primary/secondary | Tertiary | Non-formal
+1. Cultural diversity and tolerance | 99 | 99 |  |  | 1 | 1 | 1 | 1
+2. Gender equality | 99 | 99 |  |  | 1 | 1 | 1 | 1
+3. Human rights | 99 | 99 |  |  | 1 | 1 | 1 | 1
+4. Peace and non-violence | 99 | 99 |  |  | 1 | 1 | 9 | 1
+5. Climate change | 99 | 99 |  |  | 1 | 1 | 9 | 1
+6. Environmental sustainability | 99 | 99 |  |  | 1 | 1 | 9 | 1
+7. Human survival and well-being | 99 | 99 |  |  | 1 | 1 | 9 | 1
+8. Sustainable consumption and production | 99 | 99 |  |  | 1 | 1 | 9 | 1
 
 #### A3a.  Please  describe  any  specific  current  national  or  sub-national  education  policies, frameworks  or  strategic  objectives  in  your  country  that  promote  global  citizenship education  (GCED)  and/or  education  for  sustainable  development  (ESD).  Explain whether GCED and/or ESD themes 3  are mentioned explicitly or are inferred and what types or levels of education are covered.
 
 The principles of the 1974 Recommendation are incorporated into the National Plan of Action for ESD (2017), with a view to scaling up and mainstreaming ESD in all areas of education as part of the implementation of the UNESCO Global Action Programme (2015-2019), the follow-up programme ESD for 2030 and SDG 4.7.
 
-The German Federal Government together with the Länder attaches considerable political importance to the national implementation of ESD. In its role as lead ministry, the Federal Ministry on Education and Research has established a National Platform with support structures. The National Platform as supreme steering body adopted a National Action Plan on ESD (NAP) in June 2017 as its main contribution to the implementation of the UNESCO Programmes in Germany. It defines 130 objectives and 349 measures. It was developed in a multi-stakeholder process drawing upon the expertise of members of the National Platform as well as input from over 300 organisations and experts, working together in six expert forums (Early Childhood Education, School, Vocational Education and Training, Higher Education, Informal and Non-Formal Learning, Local Authorities) and additional partner networks. Since the adoption of the NAP in June 2017 German stakeholders have submitted more than 309 commitments to implement the National Action Plan; they are continuously invited to do so. https://www.bmbf.de/files/BMBF_NAP_BNE_EN_Screen.pdf.To strengthen the role of youth participation, the ministry implemented and finances a youth forum. Its members are represented in the National Platform and in the Expert Forums. They serve as change agents to further motivate other young people for ESD and have therefore their own budget to implement ESD and organize conferences.
+The German Federal Government together with the Länder attaches considerable political importance to the national implementation of ESD. In its role as lead ministry, the Federal Ministry on Education and Research has established a National Platform with support structures. The National Platform as supreme steering body adopted a National Action Plan on ESD (NAP) in June 2017 as its main contribution to the implementation of the UNESCO Programmes in Germany. It defines 130 objectives and 349 measures. It was developed in a multi-stakeholder process drawing upon the expertise of members of the National Platform as well as input from over 300 organisations and experts, working together in six expert forums (Early Childhood Education, School, Vocational Education and Training, Higher Education, Informal and Non-Formal Learning, Local Authorities) and additional partner networks. Since the
 
 > 3 See the schema described in paragraph 11 of Section II of these guidelines.
 
@@ -341,6 +332,9 @@ The German Federal Government together with the Länder attaches considerable po
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+
+adoption of the NAP in June 2017 German stakeholders have submitted more than 309 commitments to implement the National Action Plan; they are continuously invited to do so.
+https://www.bmbf.de/files/BMBF_NAP_BNE_EN_Screen.pdf.To strengthen the role of youth participation, the ministry implemented and finances a youth forum. Its members are represented in the National Platform and in the Expert Forums. They serve as change agents to further motivate other young people for ESD and have therefore their own budget to implement ESD and organize conferences.
 
 ESD is increasingly seen as a key task of the school system by the Land Ministries of Education. ESD has now been established as cross-cutting task in schools alongside the existing promotion or support of competitions, events and one-off actions. A growing number of Länder believe it is important to anchor ESD in legislation or in regulatory provisions: inter alia in Berlin's Schools Act, Hamburg's 'ESD Masterplan', ESD as 'a special educational task' in Hesse's Schools Act (new version of 30 June 2017, section 6 paragraph 4), the administrative regulations on ESD at schools providing general education in Mecklenburg-Western Pomerania's Schools Act (sections 3 and 5), the ESD decree in Lower Saxony scheduled for 2019, the anchoring of ESD in Saxony-Anhalt's Schools Act and Saxony's Schools Act of 26 April 2017 (section 1 paragraph 6), Berlin's Schools Act (in particular section 3 paragraph 3), the 'Future Concept for ESD 2015+' in Rhineland-Palatinate. Moreover, (further) Land ESD strategies were drawn up: North Rhine-Westphalia (revision of its strategy 'Education for Sustainable Development - the Future of Learning in North Rhine-Westphalia (2016-2020)' from 2019), Saxony's ESD strategy of 22 January 2019, Schleswig-Holstein, the 'Future Concept ESD 2015+' in Rhineland-Palatinate, 'Framework Curricula 1-10' in Berlin, Hamburg's 'ESD Masterplan'. Ten Länder are currently receiving support (funded posts) for Land coordination for ESD and global learning from the Federal Ministry for Economic Cooperation and Development with support from Engagement Global (Baden-Württemberg, Berlin, Hamburg, Hesse, Lower Saxony, North Rhine-Westphalia, Rhineland-Palatinate, Saarland, Saxony, Schleswig-Holstein).
 
@@ -366,30 +360,31 @@ https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2009/2009_
 
 KMK recommendation on HRE in schools (updated 2018),
 
-https://www.kmk.org/fileadmin/Dateien/pdf/PresseUndAktuelles/2018/Beschluss_Menschenrecht serziehung.pdf,  in German
+https://www.kmk.org/fileadmin/Dateien/pdf/PresseUndAktuelles/2018/Beschluss_Menschenrechtserziehung.pdf, in German
 
-Joint recommendation KMK and German Commission for UNESCO on ESD at schools: https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2007/2007_06_15_Bild ung_f_nachh_Entwicklung.pdf
+Joint recommendation KMK and German Commission for UNESCO on ESD at schools: https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2007/2007_06_15_Bildung_f_nachh_Entwicklung.pdf
 
-Inter alia, integration into Berlin's Schools Act (in particular section 3 paragraph 3), ESD as 'a special educational task' in Hesse's Schools Act (new version of 30 June 2017, section 6 paragraph 4), the administrative regulations on ESD at schools providing general education in Mecklenburg-Western Pomerania's Schools Act (sections 3 and 5), the ESD decree in Lower Saxony, the anchoring of ESD in Saxony-Anhalt's Schools Act and Saxony's Schools Act of 26 April 2017 (section 1 paragraph 6), the 'Future Concept for ESD 2015+' in RhinelandPalatinate.
+Inter alia, integration into Berlin's Schools Act (in particular section 3 paragraph 3), ESD as 'a special educational task' in Hesse's Schools Act (new version of 30 June 2017, section 6 paragraph 4), the administrative regulations on ESD at schools providing general education in Mecklenburg-Western Pomerania's Schools Act (sections 3 and 5), the ESD decree in Lower Saxony, the anchoring of ESD in Saxony-Anhalt's Schools Act and Saxony's Schools Act of 26 April 2017 (section 1 paragraph 6), the 'Future Concept for ESD 2015+' in Rhineland-Palatinate.
 
-Moreover, (further) Land ESD strategies were drawn up: North Rhine-Westphalia (revision of its strategy 'Education for Sustainable Development - the Future of Learning in North RhineWestphalia (2016-2020)' from 2019), Saxony's ESD strategy of 22 January 2019, SchleswigHolstein, the 'Future Concept ESD 2015+' in Rhineland-Palatinate, 'Framework Curricula 1-10' in Berlin, Hamburg's 'ESD Masterplan'.
+Moreover, (further) Land ESD strategies were drawn up: North Rhine-Westphalia (revision of its strategy 'Education for Sustainable Development - the Future of Learning in North Rhine-Westphalia (2016-2020)' from 2019), Saxony's ESD strategy of 22 January 2019, Schleswig-Holstein, the 'Future Concept ESD 2015+' in Rhineland-Palatinate, 'Framework Curricula 1-10' in Berlin, Hamburg's 'ESD Masterplan'.
 
-In many Länder, programmes in ESD for pioneering schools are being supported. In some cases, these are being run as Land initiatives with the participation of NGOs as school partners: 'Schools of the Future - Education for Sustainable Development' in North Rhine-Westphalia, 'Global Learning Schools in the Lausitz' (Brandenburg), 'Schools for the Environment' in Hesse, 'Sustainable Development Schools' in Thuringia, 'ESD Schools' in Rhineland-Palatinate, 'Climate Schools' in Saxony, 'Eco-Schools' or Centres in Saxony-Anhalt, 'Schools for the Environment in Europe -International Sustainable Development Schools' in MecklenburgWestern Pomerania, 'Climate Schools', inter alia in Saxony and Hamburg, 'Model Schools in Sustainable Development/Learning in Global Contexts' in Berlin. Furthermore, national programmes such as the UNESCO Associated Schools, UNESCO Baltic Sea Associated Schools, the consumer schools (Federation of German Consumer Organisations (vzbv)), the Fair Trade Schools, EMAS Schools (Baden-Württemberg) and Global Learning Schools in the Lausitz (Brandenburg) are being supported.
+In many Länder, programmes in ESD for pioneering schools are being supported. In some cases, these are being run as Land initiatives with the participation of NGOs as school partners: 'Schools of the Future - Education for Sustainable Development' in North Rhine-Westphalia, 'Global Learning Schools in the Lausitz' (Brandenburg), 'Schools for the Environment' in Hesse, 'Sustainable Development Schools' in Thuringia, 'ESD Schools' in Rhineland-Palatinate, 'Climate Schools' in Saxony, 'Eco-Schools' or Centres in Saxony-Anhalt, 'Schools for the Environment in Europe -International Sustainable Development Schools' in Mecklenburg-Western Pomerania, 'Climate Schools', inter alia in Saxony and Hamburg, 'Model Schools in Sustainable Development/Learning in Global Contexts' in Berlin. Furthermore, national programmes such as the UNESCO Associated Schools, UNESCO Baltic Sea Associated Schools, the consumer schools (Federation of German Consumer Organisations (vzbv)), the Fair Trade Schools, EMAS Schools (Baden-Württemberg) and Global Learning Schools in the Lausitz (Brandenburg) are being supported.
 
 Guidelines: ESD at adult education institutions
 
-(https://www.volkshochschule.de/medien/downloads/verbandswelt/programmbereich/gesellschaf t-politik-und-umwelt/Bildung-fuer-nachhaltige-Entwicklung-an-Volkshochschulen.pdf)
+(https://www.volkshochschule.de/medien/downloads/verbandswelt/programmbereich/gesellschaft-politik-und-umwelt/Bildung-fuer-nachhaltige-Entwicklung-an-Volkshochschulen.pdf)
 
 https://www.dvv-international.de/vhs-kooperationen/globales-lernen
 
 ##### Early education and care
-In the current version of the Gemeinsame Rahmen der Länder für die frühe Bildung in Kindertageseinrichtungen (common framework of the Länder for early education in child daycare centres), the importance of environmental education and ESD as a separate field of education is stressed. Sustainable lifestyles and basic attitudes can be taught especially effectively to children. Environmental education and ESD issues should be meaningfully integrated into the daily routine of daycare centres in a way which is appropriate to the age and development stage of the children. The teaching staff have to act as role models here. By addressing environmental and ESD issues, children, their parents and teachers are able to judge how their own actions and actions within society can impact on life and future generations.
 
 13
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+
+In the current version of the Gemeinsame Rahmen der Länder für die frühe Bildung in Kindertageseinrichtungen (common framework of the Länder for early education in child daycare centres), the importance of environmental education and ESD as a separate field of education is stressed. Sustainable lifestyles and basic attitudes can be taught especially effectively to children. Environmental education and ESD issues should be meaningfully integrated into the daily routine of daycare centres in a way which is appropriate to the age and development stage of the children. The teaching staff have to act as role models here. By addressing environmental and ESD issues, children, their parents and teachers are able to judge how their own actions and actions within society can impact on life and future generations.
 
 ###### Bavaria as an example:
 
@@ -473,7 +468,7 @@ ESD is incorporated in many different ways into the structures in each Land. It 
 
 See above. Please also refer to the 2017 KMK Report 'Zur Situation und zu Perspektiven der Bildung für nachhaltige Entwicklung' (LINK, pp. 40 et seq.)
 
-Together with the Federal Ministry for Economic Cooperation and Development (BMZ), the Standing Conference (KMK) developed a Curriculum Framework Education for Sustainable Development (2 nd  edition published in 2016). The framework will shortly be updated to include upper secondary education, https://www.globaleslernen.de/de/orientierungsrahmen-globaleentwicklung-or
+Together with the Federal Ministry for Economic Cooperation and Development (BMZ), the Standing Conference (KMK) developed a Curriculum Framework Education for Sustainable Development (2nd edition published in 2016). The framework will shortly be updated to include upper secondary education, https://www.globaleslernen.de/de/orientierungsrahmen-globale-entwicklung-or
 
 #### *B2 Please indicate which GCED and ESD themes are taught as part of the curriculum at each level of education by entering the appropriate number in each white cell.
 
@@ -498,7 +493,9 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 
 #### *B3 Please indicate in which subjects or fields of study GCED and ESD are taught in primary and secondary education by entering the appropriate number in each white cell.
 
-Cultural diversity and tolerance | Gender equality | Human rights | Peace and non- violence | Climate change | Environmental sustainability | Human survival and well- being | Sustainable consumption and production
+KEY: 0 = no, 1 = yes, 9 = unknown
+
+Cultural diversity and tolerance | Gender equality | Human rights | Peace and non-violence | Climate change | Environmental sustainability | Human survival and well-being | Sustainable consumption and production
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Arts | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Civics, civil or citizenship education | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
@@ -513,8 +510,6 @@ Science | 1 | 1 | 1 | 9 | 1 | 1 | 1 | 1
 Social studies | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Integrated studies | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1
 Other (please specify)
-
-KEY: 0 = no, 1 = yes, 9 = unknown
 
 #### *B4 Please indicate the approaches used to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
 
@@ -552,7 +547,7 @@ Pre-primary | Primary and secondary | Tertiary | Non-formal education
 To ensure efficient teaching also in the context of human rights education, most Länder have taken special measures that include in-service training for teachers, subject-specific symposia and teaching conferences. Other measures are taken during teacher training, where the subject of human rights as a cross-sectional subject receives special attention.
 
 ##### ESD:
-Depending on the higher education legislation of the Länder, the instruments with regard to the compulsory inclusion of ESD in teacher training courses or general study courses differ. The situation varies from Land to Land. In the first and second phases, ESD is included in some Länder, inter alia Hamburg (ESD in the education courses for trainee teachers), Bavaria (ESD in the examination regulations for trainee teachers (LPO I), first state examination), RhinelandPalatinate (inter alia as a cross-cutting issue in education studies) and Baden-Württemberg (compulsory learning of cross-cutting competences in ESD in all teacher training courses). For the second phase, attention is drawn to the Berlin initiative with, among other things, regular study days for trainee teachers or the elective 'Global Learning' module. In addition to this, there are ESD certificate courses in various Länder, among others in Mecklenburg-Western Pomerania, Schleswig-Holstein, Saarland and Lower Saxony. There are activities in the sphere of further and advanced training for teachers aimed at integrating ESD in all Länder. There are diverse programmes in the sphere of further and advanced training for teachers, inter alia the online further training course 'Massive Open Online Course' (MOOC) vis-à-vis the guiding perspectives in Baden-Württemberg, the multi-phase strategy for implementing ESD in teacher training in Hamburg, ESD and Further Training for Teachers II, together with all five regional administrations and the Ministry of Education of North Rhine-Westphalia (start on 1 March
+Depending on the higher education legislation of the Länder, the instruments with regard to the compulsory inclusion of ESD in teacher training courses or general study courses differ. The situation varies from Land to Land. In the first and second phases, ESD is included in some Länder, inter alia Hamburg (ESD in the education courses for trainee teachers), Bavaria (ESD in the examination regulations for trainee teachers (LPO I), first state examination), Rhineland-Palatinate (inter alia as a cross-cutting issue in education studies) and Baden-Württemberg (compulsory learning of cross-cutting competences in ESD in all teacher training courses). For the second phase, attention is drawn to the Berlin initiative with, among other things, regular study days for trainee teachers or the elective 'Global Learning' module. In addition to this, there are ESD certificate courses in various Länder, among others in Mecklenburg-Western Pomerania, Schleswig-Holstein, Saarland and Lower Saxony. There are activities in the sphere of further and advanced training for teachers aimed at integrating ESD in all Länder. There are diverse programmes in the sphere of further and advanced training for teachers, inter alia the online further training course 'Massive Open Online Course' (MOOC) vis-à-vis the guiding perspectives in Baden-Württemberg, the multi-phase strategy for implementing ESD in teacher training in Hamburg, ESD and Further Training for Teachers II, together with all five regional administrations and the Ministry of Education of North Rhine-Westphalia (start on 1 March
 
 19
 
@@ -578,7 +573,7 @@ Furthermore, in the 2015 joint recommendation of the German Rectors' Conference 
 
 [[START OF PAGE 21]]
 
-https://www.hrk.de/fileadmin/redaktion/hrk/02-Dokumente/02-01Beschluesse/HRK_MV_Empfehlung_Nachhaltigkeit_06112018.pdf
+https://www.hrk.de/fileadmin/redaktion/hrk/02-Dokumente/02-01-Beschluesse/HRK_MV_Empfehlung_Nachhaltigkeit_06112018.pdf
 
 #### *C2 Please indicate whether teachers, trainers and educators are trained to teach GCED and ESD  during  initial  or  pre-service  training  and/or  through  continuing  professional development. Please enter the appropriate number in each white cell.
 
@@ -648,31 +643,31 @@ Knowledge, skills and attitudes are covered in 'Global Competence in PISA 2018' 
 
 [[START OF PAGE 23]]
 
-#### *D2 Please indicate whether the GCED and ESD themes below are generally included in student  assessments  or  examinations  at  each  level  of  education  by  entering  the appropriate number in each white cell.
+#### *D2 Please indicate whether the GCED and ESD themes below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
+
+KEY: 0 = no, 1 = yes, 9 = unknown
+
+ | Pre-primary | Primary and secondary | Tertiary | Non-formal education
+--- | --- | --- | --- | ---
+1. Cultural diversity and tolerance | 99 | 1 | 1 |
+2. Gender equality | 99 | 1 | 1 |
+3. Human rights | 99 | 1 | 1 |
+4. Peace and non-violence | 99 | 1 | 1 |
+5. Climate change | 99 | 1 | 1 |
+6. Environmental sustainability | 99 | 1 | 1 |
+7. Human survival and well-being | 99 | 1 | 1 |
+8. Sustainable consumption and production | 99 | 1 | 1 |
 
 #### *D3 Please indicate which of the dimensions of learning in GCED and ESD below are generally included in student assessments or examinations at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
-Pre-primary | Primary and secondary | Tertiary | Non-formal education
+ | Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
-1. | Cultural diversity and tolerance | 99 | 1 | 1
-2. | Gender equality | 99 | 1 | 1
-3. | Human rights | 99 | 1 | 1
-4. | Peace and non-violence | 99 | 1 | 1
-5. | Climate change | 99 | 1 | 1
-6. | Environmental sustainability | 99 | 1 | 1
-7. | Human survival and well-being | 99 | 1 | 1
-8. | Sustainable consumption and production | 99 | 1 | 1
-
-KEY: 0 = no, 1 = yes, 9 = unknown
-
-Pre-primary | Primary and secondary | Tertiary | Non-formal education
---- | --- | --- | ---
-Knowledge | 99 | 1 | 1
-Skills | 99 | 1 | 1
-Values | 99 | 1 | 1
-Attitudes and behaviours | 99 | 0 | 1
+Knowledge | 99 | 1 | 1 |
+Skills | 99 | 1 | 1 |
+Values | 99 | 1 | 1 |
+Attitudes and behaviours | 99 | 0 | 1 |
 
 23
 
@@ -733,9 +728,9 @@ Sub-national
 
 #### F1 Please  describe  any  major  initiatives  that  have  been  undertaken  to  promote  GCED and/or  ESD  in  technical  and  vocational  education  and  training.  Describe  briefly  the outcomes and impact of such initiatives and provide examples of good practices.
 
-Professional training is very much geared to the realities of the labour market and is practiceoriented, ensuring that trainees will subsequently find employment or be able to train further in the course of their professional life. All professions are affected to different degrees by ESD issues. Many stakeholders are involved in shaping vocational training. All of them discuss ESD issues, as well as implement and further develop them. In 2020, it was decided to make environmental protection and sustainable development a standard part of vocational training. Sustainable development is thus firmly integrated into vocational training.
+Professional training is very much geared to the realities of the labour market and is practice-oriented, ensuring that trainees will subsequently find employment or be able to train further in the course of their professional life. All professions are affected to different degrees by ESD issues. Many stakeholders are involved in shaping vocational training. All of them discuss ESD issues, as well as implement and further develop them. In 2020, it was decided to make environmental protection and sustainable development a standard part of vocational training. Sustainable development is thus firmly integrated into vocational training.
 
-https://www.bmbf.de/de/karliczek-digitalisierung-und-nachhaltigkeit-kuenftig-pflichtprogrammfuer-auszubildende-11049.html
+https://www.bmbf.de/de/karliczek-digitalisierung-und-nachhaltigkeit-kuenftig-pflichtprogramm-fuer-auszubildende-11049.html
 
 On behalf of the Federal Ministry of Education and Research (BMBF) the Federal Institute for Vocational Education and Training (BIBB) funds joint projects aiming to anchor sustainable development in vocational education and training under the pilot project funding priority 'Vocational Education and Training for Sustainable Development (ESD-VET; BBNE)'. The current projects run from 2015-2019 (and they are extended until 2021).
 
@@ -775,17 +770,19 @@ In this context, competences relating to sustainable development were included i
 
 In continuing and adult education legislation, citizenship education is seen as an equal part of adult/continuing education, alongside general continuing education and vocational continuing education. This legislation describes continuing education as an independent education sector which incorporates continuing general and political education and continuing vocational training and the development of which is the responsibility of the public sector. The term citizenship education or its literal equivalent in German ('staatsbürgerliche Erziehung') is less used so far. The most common term to refer to the concept of citizenship education is still 'politische Bildung' (meaning political education or civic education).
 
-Related topics such as HRE/ESD are covered intensively in the course provision of (mainly the publicly sponsored) adult learning providers such as the community adult education centres, the church-based providers, the union-based providers etc. Statistical data are available for part of the adult learning providers, mainly the community adult education centres. In 2018, the community adult education centres (Volkshochschulen) alone offered a total of 35,341 courses with 516,768 teaching hours and 538,826 students in the programme area 'Politics - Society Environment'. This programme area covers the following subjects: History / Contemporary History; Politics / Civic Engagement; Economics / Law / Finance; Global Learning / Education for Sustainable Development / Environmental Education and Consumer Issues; Pedagogy / Education / Family; Personality Development / Psychology; Diversity / Gender / Interculturalism; Philosophy / Religion / Ethics; Regional and Local Studies / Urban Culture; Natural Sciences; Communication / Media (Source: VHS statistics 2018, URL: https://www.diebonn.de/weiterbildung/statistik/vhs-statistik/default.aspx)
+Related topics such as HRE/ESD are covered intensively in the course provision of (mainly the publicly sponsored) adult learning providers such as the community adult education centres, the church-based providers, the union-based providers etc. Statistical data are available for part of the adult learning providers, mainly the community adult education centres. In 2018, the community adult education centres (Volkshochschulen) alone offered a total of 35,341 courses with 516,768 teaching hours and 538,826 students in the programme area 'Politics – Society – Environment'. This programme area covers the following subjects: History / Contemporary History; Politics / Civic Engagement; Economics / Law / Finance; Global Learning / Education for Sustainable Development / Environmental Education and Consumer Issues; Pedagogy / Education / Family; Personality Development / Psychology; Diversity / Gender / Interculturalism; Philosophy / Religion / Ethics; Regional and Local Studies / Urban Culture; Natural Sciences; Communication / Media (Source: VHS statistics 2018, URL: https://www.die-bonn.de/weiterbildung/statistik/vhs-statistik/default.aspx)
 
 Citizenship education is obligatorily provided to new or recently arrived migrants and refugees in the so called 'orientation courses'. The curriculum addresses in particular: political knowledge and civic engagement, tolerance and acceptance of diversity, human rights; gender equality.
 
-One major provider of civic education is the Federal Agency for Civic Education, a subordinate authority under the authority of the Federal Ministry of the Interior. Its mission is to promote understanding of political issues among citizens, to consolidate democratic awareness and strengthen the willingness to participate in politics The Federal Ministry of Education and Research funds an ESD-Competence-Center (BiNaKom), which provides local authorities assistance to implement ESD at the local level along the lifelong learning chain (https://www.bne-portal.de/de/bne-kompetenzzentrum-bildung--nachhaltigkeit---kommune-binakom-2471.html).
+One major provider of civic education is the Federal Agency for Civic Education, a subordinate authority under the authority of the Federal Ministry of the Interior. Its mission is to promote understanding of political issues among citizens, to consolidate democratic awareness and strengthen the willingness to participate in politics
 
 26
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
+
+The Federal Ministry of Education and Research funds an ESD-Competence-Center (BiNaKom), which provides local authorities assistance to implement ESD at the local level along the lifelong learning chain (https://www.bne-portal.de/de/bne-kompetenzzentrum-bildung---nachhaltigkeit---kommune-binakom-2471.html).
 
 ### H. Research and International Co-operation (paras 41-45 of the 1974 Recommendation )
 
@@ -795,7 +792,7 @@ Several research projects on monitoring and measuring ESD are in place at nation
 
 https://www.ewi-psy.fu-berlin.de/einrichtungen/weitere/institut-futur/Projekte/ESD_for_2030---English/index.html
 
-https://www.researchgate.net/project/Monitoring-of-Education-for-Sustainable-DevelopmentESD-in-Germany
+https://www.researchgate.net/project/Monitoring-of-Education-for-Sustainable-Development-ESD-in-Germany
 
 Members of the German monitoring team are also participating and contributing to the international research project on climate change education (MECCE).
 
@@ -809,18 +806,18 @@ Since 2020, the BMBF has been supporting the pilot project 'Learning how to teac
 
 [[START OF PAGE 28]]
 
-#### H2 Please indicate which types of activities are available that promote international cooperation at each level of education by entering the appropriate number in each white cell.
+#### H2 Please indicate which types of activities are available that promote international co-operation at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, 1 = yes, 9 = unknown
 
-Pre-primary | Primary and secondary | Tertiary | Non-formal education
+ | Pre-primary | Primary and secondary | Tertiary | Non-formal education
 --- | --- | --- | --- | ---
 Hosting of international meetings on GCED and/or ESD | 1 | 1 | 1 | 1
 Participation in international meetings abroad on GCED and/or ESD | 1 | 1 | 1 | 1
-Support for programmes hosting foreign students, researchers and/or teachers | 1 | 1
-Membership of international networks including ASPnet | 1 | 1 | 1
-Joint research projects on GCED and/or ESD with foreign institutions | 1 | 99 | 1
-Other activities (please specify):
+Support for programmes hosting foreign students, researchers and/or teachers |  | 1 | 1 |
+Membership of international networks including ASPnet | 1 | 1 | 1 |
+Joint research projects on GCED and/or ESD with foreign institutions | 1 | 99 | 1 |
+Other activities (please specify): |  |  |  |
 
 ### I. Any other comments
 
