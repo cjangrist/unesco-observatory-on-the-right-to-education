@@ -1,4 +1,7 @@
 [[START OF PAGE 1]]
+República Bolivariana de Venezuela
+Asamblea Nacional
+www.asambleanacional.gob.ve
 
 LA ASAMBLEA NACIONAL DE LA REPÚBLICA BOLIVARIANA DE VENEZUELA
 
@@ -35,7 +38,9 @@ La  presente  Ley  se  fundamenta  en  los  principios  de  respeto  a  la digni
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
-
+República Bolivariana de Venezuela
+Asamblea Nacional
+www.asambleanacional.gob.ve
 2
 
 #### Acceso a la justicia
@@ -45,7 +50,7 @@ Toda  persona  o  grupo  de  personas  que  haya  sido  discriminada racialmente
 
 #### Medidas de salvaguarda
 
-#### Articulo  6.
+#### Artículo 6.
 El  Estado  debe  adoptar  medidas  de  salvaguarda  a  favor  de  toda persona  y  grupos  vulnerables,  a  fin  de  erradicar  la  discriminación  racial,  el racismo, el endorracismo y la xenofobia, asegurando el bienestar psíquico, físico y socioeconómico, garantizando el goce y ejercicio de sus derechos, así como el respeto a su dignidad e integridad, a través de la ejecución de planes, programas, proyectos  y  procesos  continuos  de  actividades  y  labores  acordes  con  los principios de la Seguridad de la Nación.
 
 #### Deber de transmisión y difusión de mensajes
@@ -70,6 +75,10 @@ No se consideran actos de discriminación racial los siguientes:
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+República Bolivariana de Venezuela
+Asamblea Nacional
+www.asambleanacional.gob.ve
+3
 
 - Las  medidas  positivas  o  compensatorias  en  las  políticas  públicas  que  se establezcan  a  favor  de  personas  o  grupos  vulnerables,  con  el  objeto  de proteger, garantizar y promover la igualdad real de oportunidades y condiciones.
 
@@ -89,8 +98,6 @@ No se consideran actos de discriminación racial los siguientes:
 
 - En general, todo trato o distinción a personas o grupos vulnerables que tengan por  objeto  garantizar  el  goce,  ejercicio  de  los  derechos,  libertades  y  la igualdad de oportunidades y condiciones, protegiendo la dignidad humana sin perjuicio  de  las  limitaciones  y  restricciones  establecidas  en  las  leyes  en diversas materias.
 
-3
-
 ### Capitulo II Definiciones
 
 #### Definiciones
@@ -100,7 +107,9 @@ A los efectos de esta Ley, se entiende por:
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
-
+República Bolivariana de Venezuela
+Asamblea Nacional
+www.asambleanacional.gob.ve
 4
 
 - Discriminación racial: Es toda distinción, exclusión, restricción, preferencia, acción u omisión, que fundadas en las ideologías racistas y por motivos de origen étnico, origen nacional o rasgos del fenotipo, tengan por objeto negar el  reconocimiento,  goce  y  ejercicio,  en  condiciones  de  igualdad  de  los derechos humanos y libertades de la persona o grupos de personas.
@@ -122,12 +131,14 @@ La  diversidad  cultural  se  manifiesta  no  solo  en  las  diversas  formas  q
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+República Bolivariana de Venezuela
+Asamblea Nacional
+www.asambleanacional.gob.ve
+5
 
 - Endorracismo: Actitud autodiscriminatoria en una persona, de rechazo a los rasgos  característicos  de  su  grupo  étnico  de  origen,  asumiendo  como  de mayor  valor  cualquier  rasgo  de  un  origen  étnico  o  nacional  diferente  al propio,  adoptando  una  posición  de  superioridad  y  perjudicando  a  aquellas personas que le rodean.
 
 - Xenofobia : Odio, rechazo u hostilidad hacia la persona o grupos de personas de diferente origen nacional.
-
-5
 
 ## TITULO II MEDIDAS DE SALVAGUARDA
 
@@ -151,13 +162,17 @@ El Estado garantiza a toda persona o grupo de personas el derecho a la  particip
 #### Información estadística
 
 #### Artículo 14.
-El Ejecutivo Nacional, a través de sus órganos y entes competentes, deben  identificar  a  todas  las  personas  y  grupos  vulnerables  a  los  fines  de  su inclusión en la estadística poblacional. La inclusión de indicadores demográficos que contengan variables étnicas y su desagregación por género en las estadísticas públicas, se hará con la finalidad de producir y divulgar información oportuna sobre  las  condiciones  de  vida  de  la  población  venezolana,  a  fin  de  evitar  la discriminación racial.
+El Ejecutivo Nacional, a través de sus órganos y entes competentes, deben identificar a todas las personas y grupos vulnerables a los fines de su inclusión en la estadística poblacional. La inclusión de indicadores demográficos que contengan variables étnicas y su desagregación por género en las estadísticas públicas, se hará con la finalidad de producir y divulgar información oportuna
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
-
+República Bolivariana de Venezuela
+Asamblea Nacional
+www.asambleanacional.gob.ve
 6
+
+sobre las condiciones de vida de la población venezolana, a fin de evitar la discriminación racial.
 
 #### Políticas y presupuesto público
 
@@ -186,7 +201,9 @@ Los medios de comunicación social y difusión de carácter privado, el Sistema 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
-
+República Bolivariana de Venezuela
+Asamblea Nacional
+www.asambleanacional.gob.ve
 7
 
 #### Obligación de formación de trabajadores
@@ -217,7 +234,9 @@ El  procedimiento  a  aplicar  en  las  sanciones  establecidas  en  los artícu
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
-
+República Bolivariana de Venezuela
+Asamblea Nacional
+www.asambleanacional.gob.ve
 8
 
 ## TITULO III ORGANO RECTOR Y ENTE EJECUTOR EN MATERIA DE DISCRIMINACIÓN RACIAL
@@ -253,6 +272,10 @@ El  Instituto  Nacional  Contra  la  Discriminación  Racial,  tendrá  las sigu
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+República Bolivariana de Venezuela
+Asamblea Nacional
+www.asambleanacional.gob.ve
+9
 
 - Practicar las supervisiones que considere necesarias, a los sujetos obligados al cumplimiento de las normas previstas en la presente Ley.
 
@@ -278,11 +301,13 @@ El  Instituto  Nacional  Contra  la  Discriminación  Racial,  tendrá  las sigu
 
 - Actuar como órgano auxiliar y de apoyo en las investigaciones penales del Ministerio  Público  y  el  Sistema  de  Justicia,  sobre  los  hechos  que  estén tipificados como delitos de conformidad con la presente Ley, Código Penal y en otras leyes.
 
-9
-
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+República Bolivariana de Venezuela
+Asamblea Nacional
+www.asambleanacional.gob.ve
+10
 
 - Constituir  comités  contra  la  discriminación  racial  en  todas  las  instituciones públicas, privadas y del Poder Popular. Las funciones de estos comités serán establecidas en el Reglamento de la presente Ley.
 
@@ -295,8 +320,6 @@ El  Instituto  Nacional  Contra  la  Discriminación  Racial,  tendrá  las sigu
 - Participar, conjuntamente con los órganos competentes, en la elaboración de los  informes previstos en los convenios en materia de discriminación racial suscritos y ratificados por  la República.
 
 - Las demás que se establezcan en esta Ley y otros instrumentos legales.
-
-10
 
 #### Sede
 
@@ -319,7 +342,9 @@ El  patrimonio  del  Instituto  Nacional  Contra  la  Discriminación Racial est
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
-
+República Bolivariana de Venezuela
+Asamblea Nacional
+www.asambleanacional.gob.ve
 11
 
 ### Capítulo III Organización y funcionamiento del Instituto Nacional Contra la Discriminación Racial
@@ -356,7 +381,9 @@ El Consejo General del Instituto Nacional contra la Discriminación Racial estar
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
-
+República Bolivariana de Venezuela
+Asamblea Nacional
+www.asambleanacional.gob.ve
 12
 
 #### Requisitos
@@ -392,14 +419,16 @@ El Presidente o Presidenta de Instituto Nacional  Contra  la Discriminación Rac
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+República Bolivariana de Venezuela
+Asamblea Nacional
+www.asambleanacional.gob.ve
+13
 
 - Otorgar  poderes  para  la  representación  judicial  y  extrajudicial  del  Instituto Nacional Contra la Discriminación Racial.
 
 - Designar al Secretario o Secretaria del Instituto.
 
 - Las  demás  atribuciones  señaladas  en  la  presente  Ley,  demás  disposiciones legales y reglamentarias.
-
-13
 
 #### Atribuciones del Vicepresidente o Vicepresidenta
 
@@ -434,7 +463,9 @@ El Secretario o Secretaria tiene las siguientes atribuciones:
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
-
+República Bolivariana de Venezuela
+Asamblea Nacional
+www.asambleanacional.gob.ve
 14
 
 ## TITULO IV DELITOS
@@ -443,7 +474,7 @@ El Secretario o Secretaria tiene las siguientes atribuciones:
 
 #### Delito de discriminación racial
 
-#### Articulo 37.
+#### Artículo 37.
 El o la que mediante acción u omisión distinga o excluya a una o varias  personas,  en  razón  de  su  origen  étnico,  origen  nacional  o  rasgos  del fenotipo,  con  el  objeto  de  anular  o  menoscabar  el  goce  o  ejercicio  de  sus derechos  humanos  reconocidos  en  la  Constitución,  en  los  tratados,  pactos  y convenios internacionales suscritos y ratificados por la República, será penado o penada con prisión de uno a tres años.
 
 El o la que cometa el delito de discriminación racial cumplirá entre doscientas y seiscientas horas de servicio social comunitario.
@@ -468,12 +499,14 @@ La  pena  prevista  para  el  delito  de  discriminación  racial,  se aumentar�
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
+República Bolivariana de Venezuela
+Asamblea Nacional
+www.asambleanacional.gob.ve
+15
 
 - Si  el  hecho  se  cometiere  basado  en  perfiles  o  estereotipos  raciales  o fenotípicos, hacia la persona o grupo  de personas, en actividades de investigación policial, penal o criminalística.
 
 - Las demás circunstancias agravantes establecidas en la Código Penal vigente.
-
-15
 
 ## TITULO V DEL FONDO PARA LA PREVENCIÓN Y ERRADICACIÓN DE LA DISCRIMINACIÓN RACIAL
 
@@ -500,7 +533,9 @@ El Fondo para la Prevención y Erradicación de la Discriminación Racial, estar
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
-
+República Bolivariana de Venezuela
+Asamblea Nacional
+www.asambleanacional.gob.ve
 16
 
 ## DISPOSICIÓN TRANSITORIA
@@ -519,13 +554,17 @@ FERNANDO SOTO ROJAS
 
 Presidente de la Asamblea Nacional
 
-ARISTÓBULO ISTÚRIZ ALMEIDA BLANCA EEKHOUT GÓMEZ
+ARISTÓBULO ISTÚRIZ ALMEIDA
+Primer Vicepresidente
 
-Primer Vicepresidente Segunda Vicepresidenta
+BLANCA EEKHOUT GÓMEZ
+Segunda Vicepresidenta
 
-IVÁN ZERPA GUERRERO VÍCTOR CLARK BOSCÁN
+IVÁN ZERPA GUERRERO
+Secretario
 
-Secretario Subsecretario
+VÍCTOR CLARK BOSCÁN
+Subsecretario
 
 IAZG/VCB/JCG/nd.
 
