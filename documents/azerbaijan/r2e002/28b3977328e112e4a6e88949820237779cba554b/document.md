@@ -1,930 +1,977 @@
 [[START OF PAGE 1]]
 
-### Madd ə 1. Ə sas anlayı ş lar
+# Ümumi təhsil haqqında
 
-- 1.0. Bu Qanunda istifad ə olunan ə sas anlayı ş lar a ş a ğ ıdakı m ə naları ifad ə edir:
+AZƏRBAYCAN RESPUBLİKASININ QANUNU
 
-- 1.0.2. ümumi  t ə hsil  mü ə ssis ə si -  ümumi  t ə hsil pill ə sinin  h ə r  üç  s ə viyy ə sinin  v ə ya  h ə r  hansı  s ə viyy ə sinin (s ə viyy ə l ə rinin) t əş kil olundu ğ u t ə hsil mü ə ssis ə si;
+Bu Qanun Azərbaycan Respublikası Konstitusiyasının 42-ci maddəsinə uyğun olaraq, Azərbaycan Respublikasında ümumi təhsilin təmin olunması sahəsində dövlət siyasətinin əsas prinsiplərini, ümumi təhsilin təşkilati-hüquqi və iqtisadi əsaslarını müəyyən edir.
 
-- 1.0.1. ümumi  t ə hsil -  t ə hsilalanlara  elml ə rin  ümumi ə saslarının  öyr ə dilm ə sini,  z ə ruri  bilik,  bacarıq  v ə v ə rdi ş l ə rin a ş ılanmasını, onların h ə yata v ə ə m ə k f ə aliyy ə tin ə hazırlanmasını t ə min ed ə n t ə hsil pill ə si;
+Azərbaycan Respublikasında ümumi təhsil “Təhsil haqqında” Azərbaycan Respublikasının Qanununa, insan hüquqları haqqında beynəlxalq konvensiyalara və Azərbaycan Respublikasının tərəfdar çıxdığı digər beynəlxalq müqavilələrə əsaslanır, təhsil sahəsində Azərbaycan xalqının dəyərlərinin və ümumbəşəri dəyərlərin prioritetliyi əsasında dünya təhsil sisteminə inteqrasiya olunaraq inkişaf edir.
 
-- 1.0.3. ümumi  orta  t ə hsil -  ümumi  t ə hsilin  icbari  hesab  olunan  v ə m ə zunlarına t ə hsil  haqqında  dövl ə t  s ə n ə dinin verilm ə si il ə ba ş a çatan s ə viyy ə si; [1]
+## 1-ci fəsil
+## ÜMUMİ MÜDDƏALAR
 
-- 1.0.5. ümumi  t ə hsil  pill ə sinin  s ə viyy ə l ə ri -  ümumi  t ə hsil  pill ə sini  t əş kil  ed ə n  v ə varislik ə sasında  h ə r  biri  üzr ə müvafiq t ə dris proqramlarının h ə yata keçirildiyi ibtidai, ümumi orta v ə tam orta t ə hsil s ə viyy ə l ə ri;
+### Maddə 1. Əsas anlayışlar
 
-- 1.0.4. ümumt ə hsil internat m ə kt ə bi -ə qli v ə fiziki c ə h ə td ə n normal inki ş af etmi ş v ə ya sa ğ lamlıq imkanları m ə hdud olan, yaxud valideyn himay ə sind ə n m ə hrum u ş aqlar üçün sutkalıq f ə aliyy ə t  göst ə rm ə k şə rti  il ə ayrı-ayrılıqda yaradılan t ə hsil mü ə ssis ə si;
+1.0. Bu Qanunda istifadə olunan əsas anlayışlar aşağıdakı mənaları ifadə edir:
 
-- 1.0.6. ümumi t ə hsil  mü ə ssis ə sinin akkreditasiyası -  t ə hsil  mü ə ssis ə sinin  f ə aliyy ə tinin  dövl ə t  t ə hsil  standartlarına uy ğ unlu ğ unun v ə onun statusunun mü ə yy ə nl əş dirilm ə si prosesi;
+1.0.1. ümumi təhsil – təhsilalanlara elmlərin ümumi əsaslarının öyrədilməsini, zəruri bilik, bacarıq və vərdişlərin aşılanmasını, onların həyata və əmək fəaliyyətinə hazırlanmasını təmin edən təhsil pilləsi;
 
-- 1.0.8. ümumi t ə hsilin dövl ə t standartı -  ümumi t ə hsilin m ə zmununa, idar ə olunmasına, infrastrukturuna, madditexniki  v ə t ə dris  bazasına,  t ə hsilver ə nl ə rin  keyfiyy ə t  göst ə ricil ə rin ə ,  t ə hsilalanların  bilik,  bacarıq  v ə v ə rdi ş l ə rin ə veril ə n minimum t ə l ə b v ə normaları ə hat ə ed ə n ümumi normalar m ə cmusu;
+1.0.2. ümumi təhsil müəssisəsi – ümumi təhsil pilləsinin hər üç səviyyəsinin və ya hər hansı səviyyəsinin (səviyyələrinin) təşkil olunduğu təhsil müəssisəsi;
 
-- 1.0.7. ümumi t ə hsil mü ə ssis ə l ə rind ə psixoloji xidm ə t -  valideynl ə rl ə ,  r ə hb ə r  v ə pedaqoji i ş çil ə rl ə ə m ə kda ş lıq yolu il ə ş agirdl ə rin  meyil  v ə maraqlarının,  t ə hsil,  sosial-m ə n ə vi  probleml ə rinin  öyr ə nilm ə sini  v ə onlara  z ə ruri  hallarda pedaqoji-psixoloji d ə st ə k göst ə rilm ə sini t ə min ed ə n xidm ə t növü;
+1.0.3. ümumi orta təhsil – ümumi təhsilin icbari hesab olunan və məzunlarına təhsil haqqında dövlət sənədinin verilməsi ilə başa çatan səviyyəsi; [1]
 
-- 1.0.9. ümumi  t ə hsil  proqramı  (kurikulum) -  f ə nl ə r  üzr ə kurikulumları,  d ə rsd ə nk ə nar  m əşğə l ə l ə ri  (fakültativ kursları), m ə kt ə bd ə nk ə nar t ə hsil proqramlarını, t ə dris planlarını özünd ə ə ks etdir ə n dövl ə t s ə n ə di;
+1.0.4. ümumtəhsil internat məktəbi – əqli və fiziki cəhətdən normal inkişaf etmiş və ya sağlamlıq imkanları məhdud olan, yaxud valideyn himayəsindən məhrum uşaqlar üçün sutkalıq fəaliyyət göstərmək şərti ilə ayrı-ayrılıqda yaradılan təhsil müəssisəsi;
 
-- 1.0.11. azkomplektli m ə kt ə b - paralel sinifl ə rsiz v ə ş agirdl ə rinin ümumi sayı 100 n ə f ə rd ə n az olan m ə kt ə b;
+1.0.5. ümumi təhsil pilləsinin səviyyələri – ümumi təhsil pilləsini təşkil edən və varislik əsasında hər biri üzrə müvafiq tədris proqramlarının həyata keçirildiyi ibtidai, ümumi orta və tam orta təhsil səviyyələri;
 
-- 1.0.10. akkreditasiya şə had ə tnam ə si -  müvafiq  icra  hakimiyy ə ti  orqanının  mü ə yy ə n  etdiyi  orqan  (qurum) t ə r ə find ə n veril ə n v ə ümumi t ə hsil mü ə ssis ə sinin f ə aliyy ə tinin davam etdirilm ə sin ə hüquqi ə sas yaradan s ə n ə d;
+1.0.6. ümumi təhsil müəssisəsinin akkreditasiyası – təhsil müəssisəsinin fəaliyyətinin dövlət təhsil standartlarına uyğunluğunun və onun statusunun müəyyənləşdirilməsi prosesi;
 
-- 1.0.12. beyn ə lxalq akkreditasiya -  ümumi t ə hsil  mü ə ssis ə nin f ə aliyy ə tinin  beyn ə lxalq  standartlara  uy ğ unlu ğ unun beyn ə lxalq t əş kilatlar t ə r ə find ə n könüllü ə sasda qiym ə tl ə ndirilm ə si;
+1.0.7. ümumi təhsil müəssisələrində psixoloji xidmət – valideynlərlə, rəhbər və pedaqoji işçilərlə əməkdaşlıq yolu ilə şagirdlərin meyil və maraqlarının, təhsil, sosial-mənəvi problemlərinin öyrənilməsini və onlara zəruri hallarda pedaqoji-psixoloji dəstək göstərilməsini təmin edən xidmət növü;
 
-- 1.0.14. defektoloq -ə qli v ə ya fiziki m ə hdudiyy ə tl ə ri olan u ş aqların t ə hsili v ə korreksiyası il ə m əşğ ul olan ali t ə hsilli müt ə x ə ssis;
+1.0.8. ümumi təhsilin dövlət standartı – ümumi təhsilin məzmununa, idarə olunmasına, infrastrukturuna, maddi-texniki və tədris bazasına, təhsilverənlərin keyfiyyət göstəricilərinə, təhsilalanların bilik, bacarıq və vərdişlərinə verilən minimum tələb və normaları əhatə edən ümumi normalar məcmusu;
 
-- 1.0.13. beyn ə lxalq  s ə viyy ə d ə akkreditasiya  olunan  t ə hsil  proqramı -  beyn ə lxalq  t əş kilat  v ə ya  xarici  dövl ə t t ə r ə find ə n  mü ə yy ə n  edilmi ş standartlara  uy ğ un  t ə tbiq  edil ə n  v ə m ə zunlarına  iki  v ə daha  çox  xarici  ölk ə l ə rin  ali  t ə hsil mü ə ssis ə l ə rind ə t ə hsil almaq hüququ ver ə n t ə hsil proqramı;
+1.0.9. ümumi təhsil proqramı (kurikulum) – fənlər üzrə kurikulumları, dərsdənkənar məşğələləri (fakültativ kursları), məktəbdənkənar təhsil proqramlarını, tədris planlarını özündə əks etdirən dövlət sənədi;
 
-- 1.0.15. d ə rsd ə nk ə nar m əşğə l ə (fakültativ kurs) -ş agirdl ə rin meyil, maraq v ə qabiliyy ə tin ə uy ğ un olaraq, bilikl ə rinin geni ş l ə nm ə sin ə , yaradıcılıq qabiliyy ə tinin inki ş afına v ə pe şə yönümün ə yön ə lmi ş m əşğə l ə forması;
+1.0.10. akkreditasiya şəhadətnaməsi – müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən verilən və ümumi təhsil müəssisəsinin fəaliyyətinin davam etdirilməsinə hüquqi əsas yaradan sənəd;
 
-- 1.0.17. günüuzadılmı ş qrup -  d ə rsd ə n  sonrakı  v ə ya  d ə rsd ə n ə vv ə lki  vaxtlarda  f ə aliyy ə t  göst ə r ə n  v ə ibtidai  sinif ş agirdl ə rinin inki ş afına yön ə lmi ş t əş kilati forma;
+1.0.11. azkomplektli məktəb – paralel siniflərsiz və şagirdlərinin ümumi sayı 100 nəfərdən az olan məktəb;
 
-- 1.0.16. f ə nn kurikulumu -f ə nnin  m ə qs ə d  v ə v ə zif ə l ə rini, f ə nnin  t ə drisin ə veril ə n  t ə l ə bl ə ri,  ümumi  t ə hsilin s ə viyy ə l ə ri v ə h ə r bir sinif üzr ə t ə lim  n ə tic ə l ə rini, t ə lim strategiyalarını, f ə ndaxili v ə f ə nl ə rarası inteqrasiyanı, qiym ə tl ə ndirm ə vasit ə l ə ri  v ə meyarlarını,  t ə lim  materiallarının  planla ş dırılması  üzr ə metodik  tövsiy ə l ə ri  özünd ə ehtiva ed ə n s ə n ə d;
+1.0.12. beynəlxalq akkreditasiya – ümumi təhsil müəssisənin fəaliyyətinin beynəlxalq standartlara uyğunluğunun beynəlxalq təşkilatlar tərəfindən könüllü əsasda qiymətləndirilməsi;
 
-- 1.0.18. himay ə çil ə r ş urası -  ümumi  t ə hsil  mü ə ssis ə sinin  f ə aliyy ə tind ə ,  mövcud  probleml ə rinin  h ə llind ə yaxından i ş tirak ed ə n, t ə hsil mü ə ssis ə sin ə ayrı-ayrı fiziki v ə hüquqi şə xsl ə r t ə r ə find ə n göst ə ril ə n yardımların toplanması, qeydiyyata alınması v ə istifad ə olunmasına ictimai n ə zar ə ti h ə yata keçir ə n, könüllül ə rd ə n ibar ə t özünüidar ə etm ə orqanı;
+1.0.13. beynəlxalq səviyyədə akkreditasiya olunan təhsil proqramı – beynəlxalq təşkilat və ya xarici dövlət tərəfindən müəyyən edilmiş standartlara uyğun tətbiq edilən və məzunlarına iki və daha çox xarici ölkələrin ali təhsil müəssisələrində təhsil almaq hüququ verən təhsil proqramı;
 
-- 1.0.20. icbari dispanserizasiya -  u ş aqların  sa ğ lamlı ğ ının  qorunması,  normal  fiziki  inki ş afının  t ə min  edilm ə si  v ə x ə st ə liyin  ilkin  m ə rh ə l ə d ə a ş kar  edilm ə si  m ə qs ə dil ə kompleks  profilaktika,  diaqnostika  v ə müalic ə -sa ğ lamla ş dırıcı t ə dbirl ə rd ə n ibar ə t olan aktiv dinamik mü ş ahid ə sistemi;
+1.0.14. defektoloq – əqli və ya fiziki məhdudiyyətləri olan uşaqların təhsili və korreksiyası ilə məşğul olan ali təhsilli mütəxəssis;
 
-- 1.0.19. ibtidai t ə hsil - ümumi t ə hsilin birinci s ə viyy ə si;
+1.0.15. dərsdənkənar məşğələ (fakültativ kurs)– şagirdlərin meyil, maraq və qabiliyyətinə uyğun olaraq, biliklərinin genişlənməsinə, yaradıcılıq qabiliyyətinin inkişafına və peşəyönümünə yönəlmiş məşğələ forması;
 
-- 1.0.21. inklüziv t ə hsil -  sa ğ lamlıq  imkanları  m ə hdud  olan  u ş aqların  ümumi  t ə hsil  mü ə ssis ə sind ə xüsusi şə rait yaratmaqla xüsusi t ə lim vasit ə sil ə sa ğ lam ş agirdl ə rl ə eyni sinifd ə t ə hsil ə c ə lb edilm ə si; [2]
+1.0.16. fənn kurikulumu – fənnin məqsəd və vəzifələrini, fənnin tədrisinə verilən tələbləri, ümumi təhsilin səviyyələri və hər bir sinif üzrə təlim nəticələrini, təlim strategiyalarını, fəndaxili və fənlərarası inteqrasiyanı, qiymətləndirmə vasitələri və meyarlarını, təlim materiallarının planlaşdırılması üzrə metodik tövsiyələri özündə ehtiva edən sənəd;
 
-- 1.0.22. innovasiya (ümumi t ə hsild ə ) - t ə hsilin m ə zmunu, qiym ə tl ə ndirilm ə si v ə idar ə olunması, t ə lim strategiyaları v ə metodikalarının keyfiyy ə tc ə yax ş ıla ş dırılması sah ə sind ə t ə tbiq edil ə n yenilikl ə r;
+1.0.17. günüuzadılmış qrup – dərsdən sonrakı və ya dərsdən əvvəlki vaxtlarda fəaliyyət göstərən və ibtidai sinif şagirdlərinin inkişafına yönəlmiş təşkilati forma;
 
-# Ümumi t ə hsil haqqında
+1.0.18. himayəçilər şurası – ümumi təhsil müəssisəsinin fəaliyyətində, mövcud problemlərinin həllində yaxından iştirak edən, təhsil müəssisəsinə ayrı-ayrı fiziki və hüquqi şəxslər tərəfindən göstərilən yardımların toplanması, qeydiyyata alınması və istifadə olunmasına ictimai nəzarəti həyata keçirən, könüllülərdən ibarət özünüidarəetmə orqanı;
 
-AZ Ə RBAYCAN RESPUBL İ KASININ QANUNU
+1.0.19. ibtidai təhsil – ümumi təhsilin birinci səviyyəsi;
 
-Bu Qanun Az ə rbaycan Respublikası Konstitusiyasının 42-ci madd ə sin ə uy ğ un olaraq, Az ə rbaycan Respublikasında ümumi  t ə hsilin  t ə min  olunması  sah ə sind ə dövl ə t  siyas ə tinin ə sas  prinsipl ə rini,  ümumi  t ə hsilin  t əş kilati-hüquqi  v ə iqtisadi ə saslarını mü ə yy ə n edir. Az ə rbaycan  Respublikasında  ümumi  t ə hsil  'T ə hsil  haqqında'  Az ə rbaycan  Respublikasının  Qanununa,  insan hüquqları  haqqında  beyn ə lxalq konvensiyalara  v ə Az ə rbaycan  Respublikasının t ə r ə fdar çıxdı ğ ı dig ə r  beyn ə lxalq müqavil ə l ə r ə ə saslanır, t ə hsil sah ə sind ə Az ə rbaycan xalqının d ə y ə rl ə rinin v ə ümumb əşə ri d ə y ə rl ə rin prioritetliyi ə sasında
+1.0.20. icbari dispanserizasiya – uşaqların sağlamlığının qorunması, normal fiziki inkişafının təmin edilməsi və xəstəliyin ilkin mərhələdə aşkar edilməsi məqsədilə kompleks profilaktika, diaqnostika və müalicə-sağlamlaşdırıcı tədbirlərdən ibarət olan aktiv dinamik müşahidə sistemi;
 
-dünya t ə hsil sistemin ə inteqrasiya olunaraq inki ş af edir.
+1.0.21. inklüziv təhsil – sağlamlıq imkanları məhdud olan uşaqların ümumi təhsil müəssisəsində xüsusi şərait yaratmaqla xüsusi təlim vasitəsilə sağlam şagirdlərlə eyni sinifdə təhsilə cəlb edilməsi; [2]
 
-## 1-ci f ə sil
-## ÜMUM İ MÜDD Ə ALAR
+1.0.22. innovasiya (ümumi təhsildə) – təhsilin məzmunu, qiymətləndirilməsi və idarəolunması, təlim strategiyaları və metodikalarının keyfiyyətcə yaxşılaşdırılması sahəsində tətbiq edilən yeniliklər;
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-- 1.0.23. inteqrasiya  (ümumi  t ə hsild ə ) -  t ə lim  prosesini  t əş kil  ed ə n  m ə rh ə l ə l ə r  v ə müxt ə lif  f ə nl ə r  üzr ə m ə zmun standartları arasında üzvi ə laq ə l ə rin qurulmasını ehtiva ed ə n didaktik prinsip;
+1.0.23. inteqrasiya (ümumi təhsildə) – təlim prosesini təşkil edən mərhələlər və müxtəlif fənlər üzrə məzmun standartları arasında üzvi əlaqələrin qurulmasını ehtiva edən didaktik prinsip;
 
-- 1.0.25. qabaqcıl  (yaradıcı)  pedaqoji  t ə crüb ə -  mü ə llim  t ə r ə find ə n  pedaqoji  prosesd ə orijinal  metodlar,  vasit ə l ə r, üsullar  t ə tbiq  edilm ə kl ə ,  pedaqoji  ustalıq  v ə novatorluq  nümayi ş etdirilm ə kl ə innovativ  f ə aliyy ə t  n ə tic ə sind ə s ə m ə r ə li n ə tic ə l ə r ə ld ə edilm ə si;
+1.0.24. inteqrasiya təlimli internat tipli təhsil müəssisəsi – sağlamlıq imkanları məhdud şəxslərlə sağlam şəxslərin birgə təhsil alması üçün xüsusi şərait yaradılmış ümumi təyinatlı təhsil müəssisəsi; [3]
 
-- 1.0.24. inteqrasiya t ə limli internat tipli t ə hsil mü ə ssis ə si - sa ğ lamlıq imkanları m ə hdud şə xsl ə rl ə sa ğ lam şə xsl ə rin birg ə t ə hsil alması üçün xüsusi şə rait yaradılmı ş ümumi t ə yinatlı t ə hsil mü ə ssis ə si; [3]
+1.0.25. qabaqcıl (yaradıcı) pedaqoji təcrübə – müəllim tərəfindən pedaqoji prosesdə orijinal metodlar, vasitələr, üsullar tətbiq edilməklə, pedaqoji ustalıq və novatorluq nümayiş etdirilməklə innovativ fəaliyyət nəticəsində səmərəli nəticələr əldə edilməsi;
 
-- 1.0.26. loqoped - u ş aqların nitq qüsurlarının korreksiyasını h ə yata keçir ə n ali t ə hsilli müt ə x ə ssis;
+1.0.26. loqoped – uşaqların nitq qüsurlarının korreksiyasını həyata keçirən ali təhsilli mütəxəssis;
 
-- 1.0.28. metodik ş ura -  ümumi  t ə hsil  mü ə ssis ə sind ə metodik  xidm ə tin  t əş kili  v ə h ə yata  keçirilm ə sini  t ə min  ed ə n qurum;
+1.0.27. məktəbəhazırlıq təhsili – 5 yaşlı uşaqların məktəb təliminə psixoloji hazırlığının təmin edilməsi məqsədilə təşkil edilən ümumi təhsilin ilk mərhələsi;
 
-- 1.0.27. m ə kt ə b ə hazırlıq t ə hsili -  5  ya ş lı  u ş aqların m ə kt ə b t ə limin ə psixoloji hazırlı ğ ının t ə min edilm ə si  m ə qs ə dil ə t əş kil edil ə n ümumi t ə hsilin ilk m ə rh ə l ə si;
+1.0.28. metodik şura – ümumi təhsil müəssisəsində metodik xidmətin təşkili və həyata keçirilməsini təmin edən qurum;
 
-- 1.0.29. metodist - ümumi t ə hsil mü ə ssis ə l ə rind ə müvafiq f ə nnin t ə drisin ə metodik r ə hb ə rliyi h ə yata keçir ə n, müasir t ə lim metodları v ə texnologiyalarının t ə tbiqi üzr ə mü ə lliml ə r ə b ə l ə dçilik xidm ə ti göst ə r ə n ali pedaqoji t ə hsilli müt ə x ə ssis;
+1.0.29. metodist – ümumi təhsil müəssisələrində müvafiq fənnin tədrisinə metodik rəhbərliyi həyata keçirən, müasir təlim metodları və texnologiyalarının tətbiqi üzrə müəllimlərə bələdçilik xidməti göstərən ali pedaqoji təhsilli mütəxəssis;
 
-- 1.0.31. pedaqoji  f ə aliyy ə t -  t ə hsilalanların  bilik  v ə bacarıqlara  yiy ə l ə nm ə sin ə ,  Az ə rbaycan  xalqının  d ə y ə rl ə ri  v ə ümumb əşə ri d ə y ə rl ə r ruhunda t ə rbiy ə sin ə , şə xsiyy ə t kimi formala ş masına yön ə lmi ş f ə aliyy ə t;
+1.0.30. müəllim köməkçisi – inklüziv təhsilin həyata keçirildiyi ümumi təhsil müəssisələrində pedaqoji prosesin təşkilində müəllimə kömək edən ixtisaslı mütəxəssis;
 
-- 1.0.30. mü ə llim  köm ə kçisi -  inklüziv  t ə hsilin  h ə yata  keçirildiyi  ümumi  t ə hsil  mü ə ssis ə l ə rind ə pedaqoji  prosesin t əş kilind ə mü ə llim ə köm ə k ed ə n ixtisaslı müt ə x ə ssis;
+1.0.31. pedaqoji fəaliyyət – təhsilalanların bilik və bacarıqlara yiyələnməsinə, Azərbaycan xalqının dəyərləri və ümumbəşəri dəyərlər ruhunda tərbiyəsinə, şəxsiyyət kimi formalaşmasına yönəlmiş fəaliyyət;
 
-- 1.0.32. pedaqoji ş ura - ümumi t ə hsil mü ə ssis ə sinin kollegial ali idar ə etm ə orqanı;
+1.0.32. pedaqoji şura – ümumi təhsil müəssisəsinin kollegial ali idarəetmə orqanı;
 
-- 1.0.34. sertifikatla ş dırılma - dövl ə t ümumi t ə hsil mü ə ssis ə l ə rind ə (ümumi t ə hsil üzr ə t ə hsilver ə nl ə r ə münasib ə td ə dig ə r  dövl ə t  t ə hsil  mü ə ssis ə l ə rind ə )  pedaqoji  v ə idar ə etm ə f ə aliyy ə ti  il ə m əşğ ul  olan,  ali  v ə orta  ixtisas  t ə hsilin ə malik t ə hsilver ə nl ə rin pe şə karlıq s ə viyy ə sinin v ə pe şə yararlılı ğ ının yoxlanılması proseduru;
+1.0.33. sağlamlıq imkanları məhdud olan şəxs – xüsusi şərait yaradılmadan təhsil almasında çətinliklər yaranan fiziki çatışmazlığı, əqli və (və ya) psixi ləngimələri olan şəxs; [4]
 
-- 1.0.33. sa ğ lamlıq  imkanları  m ə hdud olan şə xs -  xüsusi şə rait  yaradılmadan  t ə hsil  almasında  ç ə tinlikl ə r  yaranan fiziki çatı ş mazlı ğ ı, ə qli v ə (v ə ya) psixi l ə ngim ə l ə ri olan şə xs; [4]
+1.0.34. sertifikatlaşdırılma – dövlət ümumi təhsil müəssisələrində (ümumi təhsil üzrə təhsilverənlərə münasibətdə digər dövlət təhsil müəssisələrində) pedaqoji və idarəetmə fəaliyyəti ilə məşğul olan, ali və orta ixtisas təhsilinə malik təhsilverənlərin peşəkarlıq səviyyəsinin və peşə yararlılığının yoxlanılması proseduru;
 
-- 1.0.35. sinifd ə nxaric v ə m ə kt ə bd ə nk ə nar t ə dbir - ümumi t ə hsil mü ə ssis ə sind ə v ə ya ümumi t ə hsil mü ə ssis ə sind ə n k ə nar  yerl ə rd ə ş agirdl ə rin ə lav ə bilik  v ə bacarıqlar ə ld ə etm ə sin ə ,  dünyagörü ş ünün  v ə m ə lumatlılıq  s ə viyy ə sinin geni ş l ə nm ə sin ə , habel ə asud ə vaxtının s ə m ə r ə li t əş kilin ə yön ə lmi ş t ə dbirl ə r;
+1.0.35. sinifdənxaric və məktəbdənkənar tədbir – ümumi təhsil müəssisəsində və ya ümumi təhsil müəssisəsindən kənar yerlərdə şagirdlərin əlavə bilik və bacarıqlar əldə etməsinə, dünyagörüşünün və məlumatlılıq səviyyəsinin genişlənməsinə, habelə asudə vaxtının səmərəli təşkilinə yönəlmiş tədbirlər;
 
-- 1.0.37. tam  orta  t ə hsil -  ümumi  t ə hsilin  ayrı-ayrı  t ə mayüll ə r  üzr ə v ə ya  t ə mayüll ə r  olmadan  t əş kil  edil ə n  v ə m ə zunlarına t ə hsil haqqında dövl ə t s ə n ə dinin verilm ə si il ə ba ş a çatan üçüncü s ə viyy ə si;
+1.0.36. stasionar təhsil – uzunmüddətli müalicədə olan şəxslər üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilmiş qaydada ümumi təhsilin müalicə müəssisələrində müvafiq təhsil proqramlarına uyğun təşkili;
 
-- 1.0.36. stasionar t ə hsil -  uzunmüdd ə tli  müalic ə d ə olan şə xsl ə r  üçün müvafiq icra hakimiyy ə ti  orqanının mü ə yy ə n etdiyi  orqan  (qurum)  t ə r ə find ə n  mü ə yy ə n  edilmi ş qaydada  ümumi  t ə hsilin  müalic ə mü ə ssis ə l ə rind ə müvafiq  t ə hsil proqramlarına uy ğ un t əş kili;
+1.0.37. tam orta təhsil – ümumi təhsilin ayrı-ayrı təmayüllər üzrə və ya təmayüllər olmadan təşkil edilən və məzunlarına təhsil haqqında dövlət sənədinin verilməsi ilə başa çatan üçüncü səviyyəsi;
 
-- 1.0.38. t ə dris proqramı -  h ə r bir f ə nnin kurikulumunda t ə sbit olunmu ş m ə zmun standartlarının realla ş dırılmasına xidm ə t ed ə n t ə dris vahidl ə rinin ümumi m ə cmusu;
+1.0.38. tədris proqramı – hər bir fənnin kurikulumunda təsbit olunmuş məzmun standartlarının reallaşdırılmasına xidmət edən tədris vahidlərinin ümumi məcmusu;
 
-- 1.0.40. t ə lim metodu -  mü ə llim  v ə ş agird  arasında  proqramda  n ə z ə rd ə tutulmu ş bilik,  bacarıq  v ə v ə rdi ş l ə rin ötürülm ə si  v ə m ə nims ə nilm ə sin ə ,  t ə limin öyr ə dici,  inki ş afetdirici v ə t ə rbiy ə edici m ə qs ə dl ə rin ə nail  olunmasına xidm ə t ed ə n qar ş ılıqlı proses;
+1.0.39. təhsil xidmətləri – “Təhsil haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş xidmətlər, o cümlədən ümumi təhsil müəssisəsinin nizamnaməsi ilə müəyyən edilmiş vəzifələrinə uyğun olaraq həyata keçirdiyi xidmətlər;
 
-- 1.0.39. t ə hsil  xidm ə tl ə ri - 'T ə hsil haqqında' Az ə rbaycan Respublikasının Qanunu il ə mü ə yy ə n edilmi ş xidm ə tl ə r, o cüml ə d ə n  ümumi  t ə hsil  mü ə ssis ə sinin  nizamnam ə si  il ə mü ə yy ə n  edilmi ş v ə zif ə l ə rin ə uy ğ un  olaraq  h ə yata  keçirdiyi xidm ə tl ə r;
+1.0.40. təlim metodu – müəllim və şagird arasında proqramda nəzərdə tutulmuş bilik, bacarıq və vərdişlərin ötürülməsi və mənimsənilməsinə, təlimin öyrədici, inkişafetdirici və tərbiyəedici məqsədlərinə nail olunmasına xidmət edən qarşılıqlı proses;
 
-- 1.0.41. t ə lim  strategiyası - psixoloji v ə didaktik prinsipl ə r ə sasında mü ə yy ə n edilib t ə hsil prosesind ə t ə tbiq olunan forma, metod, üsul v ə vasit ə l ə rin m ə cmusu;
+1.0.41. təlim strategiyası – psixoloji və didaktik prinsiplər əsasında müəyyən edilib təhsil prosesində tətbiq olunan forma, metod, üsul və vasitələrin məcmusu;
 
-- 1.0.43. xüsusi t ə hsil mü ə ssis ə si - sa ğ lamlıq imkanları m ə hdud olan şə xsl ə rin t ə hsil alması üçün xüsusi dövl ə t t ə hsil standartları v ə proqramları ə sasında t ə hsil prosesini h ə yata keçir ə n t ə hsil mü ə ssis ə si.
+1.0.42. təmayülləşmə – tam orta təhsil səviyyəsində təlimin şagirdlərin meyil, maraq və qabiliyyətlərinə uyğun istiqamətlər üzrə müvafiq fənlərə üstünlük verilməklə xüsusi tədris planı və proqramları əsasında təşkili;
 
-- 1.0.42. t ə mayüll əş m ə -  tam  orta  t ə hsil  s ə viyy ə sind ə t ə limin ş agirdl ə rin  meyil,  maraq  v ə qabiliyy ə tl ə rin ə uy ğ un istiqam ə tl ə r üzr ə müvafiq f ə nl ə r ə üstünlük verilm ə kl ə xüsusi t ə dris planı v ə proqramları ə sasında t əş kili;
+1.0.43. xüsusi təhsil müəssisəsi – sağlamlıq imkanları məhdud olan şəxslərin təhsil alması üçün xüsusi dövlət təhsil standartları və proqramları əsasında təhsil prosesini həyata keçirən təhsil müəssisəsi.
 
-### Madd ə 2. Ümumi t ə hsil haqqında Az ə rbaycan Respublikasının qanunvericiliyi
+### Maddə 2. Ümumi təhsil haqqında Azərbaycan Respublikasının qanunvericiliyi
 
-- 2.1. Ümumi t ə hsil haqqında Az ə rbaycan Respublikasının qanunvericiliyi Az ə rbaycan Respublikasının Konstitusiyasından, 'T ə hsil haqqında', 'Publik hüquqi şə xsl ə r haqqında' Az ə rbaycan Respublikasının Qanunlarından, bu Qanundan,  ümumi  t ə hsil  sah ə sind ə münasib ə tl ə ri  n ə z ə rd ə tutan  dig ə r  normativ  hüquqi  aktlardan  v ə Az ə rbaycan Respublikasının t ə r ə fdar çıxdı ğ ı beyn ə lxalq müqavil ə l ə rd ə n ibar ə tdir.
+2.1. Ümumi təhsil haqqında Azərbaycan Respublikasının qanunvericiliyi Azərbaycan Respublikasının Konstitusiyasından, “Təhsil haqqında”, “Publik hüquqi şəxslər haqqında” Azərbaycan Respublikasının Qanunlarından, bu Qanundan, ümumi təhsil sahəsində münasibətləri nəzərdə tutan digər normativ hüquqi aktlardan və Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən ibarətdir.
 
-- 2.3. Bu Qanun Az ə rbaycan Respublikasında f ə aliyy ə t göst ə r ə n dini t ə hsil mü ə ssis ə l ə rin ə , xarici dövl ə tl ə rin diplomatik nümay ə nd ə likl ə ri yanındakı t ə hsil mü ə ssis ə l ə rin ə ş amil edilmir.
+2.2. Ümumi təhsil haqqında Azərbaycan Respublikası qanunvericiliyinin əsas məqsədi vətəndaşların ümumi təhsil sahəsində Azərbaycan Respublikasının Konstitusiyası ilə nəzərdə tutulmuş təhsil hüququnu təmin etməkdən, ümumi təhsil prosesi iştirakçılarının hüquqlarını və vəzifələrini müəyyən etməkdən, onlar arasında münasibətləri tənzimləməkdən və ümumi təhsilin təşkilati-hüquqi bazasını yaratmaqdan ibarətdir.
 
-- 2.2. Ümumi t ə hsil haqqında Az ə rbaycan Respublikası qanunvericiliyinin ə sas m ə qs ə di v ə t ə nda ş ların ümumi t ə hsil sah ə sind ə Az ə rbaycan  Respublikasının  Konstitusiyası  il ə n ə z ə rd ə tutulmu ş t ə hsil  hüququnu  t ə min  etm ə kd ə n,  ümumi t ə hsil prosesi i ş tirakçılarının hüquqlarını v ə v ə zif ə l ə rini  mü ə yy ə n etm ə kd ə n, onlar arasında münasib ə tl ə ri t ə nziml ə m ə kd ə n v ə ümumi t ə hsilin t əş kilati-hüquqi bazasını yaratmaqdan ibar ə tdir.
+2.3. Bu Qanun Azərbaycan Respublikasında fəaliyyət göstərən dini təhsil müəssisələrinə, xarici dövlətlərin diplomatik nümayəndəlikləri yanındakı təhsil müəssisələrinə şamil edilmir.
 
-### Madd ə 3. Ümumi t ə hsil sah ə sind ə dövl ə t siyas ə tinin ə sas prinsipl ə ri v ə istiqam ə tl ə ri
+### Maddə 3. Ümumi təhsil sahəsində dövlət siyasətinin əsas prinsipləri və istiqamətləri
 
-- 3.1. Ümumi t ə hsil sah ə sind ə dövl ə t siyas ə tinin ə sas prinsipl ə ri a ş a ğ ıdakılardır:
+3.1. Ümumi təhsil sahəsində dövlət siyasətinin əsas prinsipləri aşağıdakılardır:
 
-- 3.1.2. b ə rab ə rlik - ümumi t ə hsilin ə lçatanlı ğ ı,  bütün ş agirdl ə r üçün b ə rab ə r t ə hsil şə raitinin yaradılması v ə onların t ə hsil hüququnun t ə min edilm ə si;
+3.1.1. humanistlik – Azərbaycan xalqının dəyərlərinin və ümumbəşəri dəyərlərin, şəxsiyyətin azad inkişafının, insan hüquqları və azadlıqlarının, sağlamlığın və təhlükəsizliyin, ətraf mühitə və insanlara qayğı və hörmətin, tolerantlıq və dözümlülüyün prioritet kimi qəbul olunması;
 
-- 3.1.1. humanistlik - Az ə rbaycan xalqının d ə y ə rl ə rinin v ə ümumb əşə ri d ə y ə rl ə rin, şə xsiyy ə tin azad inki ş afının, insan hüquqları  v ə azadlıqlarının,  sa ğ lamlı ğ ın  v ə t ə hlük ə sizliyin, ə traf  mühit ə v ə insanlara  qay ğ ı  v ə hörm ə tin,  tolerantlıq  v ə dözümlülüyün prioritet kimi q ə bul olunması;
+3.1.2. bərabərlik – ümumi təhsilin əlçatanlığı, bütün şagirdlər üçün bərabər təhsil şəraitinin yaradılması və onların təhsil hüququnun təmin edilməsi;
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-- 3.1.3.  inteqrasiya  -  ümumi  t ə hsil  sisteminin  müt ə r ə qqi  beyn ə lxalq  t ə hsil  t ə crüb ə l ə rin ə uy ğ unla ş dırmaqla  inki ş af etdirilm ə si;
+3.1.3. inteqrasiya – ümumi təhsil sisteminin mütərəqqi beynəlxalq təhsil təcrübələrinə uyğunlaşdırmaqla inkişaf etdirilməsi;
 
-- 3.1.5. varislik - ümumi t ə hsil sah ə sind ə ə ld ə olunmu ş bilik v ə t ə crüb ə nin ardıcıl olaraq növb ə ti n ə sl ə ötürülm ə si;
+3.1.4. keyfiyyətlilik – ümumi təhsilin mövcud standartlara, normalara, sosial-iqtisadi tələblərə, şəxsiyyətin, cəmiyyətin və dövlətin maraqlarına uyğunluğu;
 
-- 3.1.4. keyfiyy ə tlilik  -  ümumi  t ə hsilin mövcud  standartlara, normalara, sosial-iqtisadi t ə l ə bl ə r ə , şə xsiyy ə tin, c ə miyy ə tin v ə dövl ə tin maraqlarına uy ğ unlu ğ u;
+3.1.5. varislik – ümumi təhsil sahəsində əldə olunmuş bilik və təcrübənin ardıcıl olaraq növbəti nəslə ötürülməsi;
 
-- 3.1.6.  çeviklik  -  ümumi  t ə hsil  sisteminin  sosial-iqtisadi  h ə yatda  ba ş ver ə n  d ə yi ş iklikl ə r ə adekvat  uy ğ unla ş ması, yenilikl ə rin qiym ə tl ə ndirilib vaxtında t ə tbiq edilm ə si;
+3.1.6. çeviklik – ümumi təhsil sisteminin sosial-iqtisadi həyatda baş verən dəyişikliklərə adekvat uyğunlaşması, yeniliklərin qiymətləndirilib vaxtında tətbiq edilməsi;
 
-- 3.1.8. demokratiklik - t ə hsilalanların azad dü ş ünc ə ruhunda t ə rbiy ə edilm ə si, t ə hsilin dövl ə t-ictimai ə saslarla t əş kili v ə idar ə edilm ə sinin geni ş l ə ndirilm ə si, t ə hsil mü ə ssis ə l ə rinin muxtariyy ə tinin artırılması.
+3.1.7. fasiləsizlik, vəhdətlik – mövcud təhsil standartları, tədris proqramları və planları əsasında təhsilin bir neçə səviyyədə əldə edilməsi imkanı, təhsilin ayrı-ayrı pillələri arasında qarşılıqlı əlaqənin təmin olunması;
 
-- 3.1.7.  fasil ə sizlik,  v ə hd ə tlik  -  mövcud  t ə hsil  standartları,  t ə dris  proqramları  v ə planları ə sasında  t ə hsilin  bir  neç ə s ə viyy ə d ə ə ld ə edilm ə si imkanı, t ə hsilin ayrı-ayrı pill ə l ə ri arasında qar ş ılıqlı ə laq ə nin t ə min olunması;
+3.1.8. demokratiklik – təhsilalanların azad düşüncə ruhunda tərbiyə edilməsi, təhsilin dövlət-ictimai əsaslarla təşkili və idarə edilməsinin genişləndirilməsi, təhsil müəssisələrinin muxtariyyətinin artırılması.
 
-- 3.2. Ümumi t ə hsil sah ə sind ə dövl ə t siyas ə tinin ə sas istiqam ə tl ə ri a ş a ğ ıdakılardır:
+3.2. Ümumi təhsil sahəsində dövlət siyasətinin əsas istiqamətləri aşağıdakılardır:
 
-- 3.2.2. ümumi t ə hsilin inki ş afı üçün stimulla ş dırıcı t ə dbirl ə rin t ə tbiqi;
+3.2.1. ümumi təhsilin məzmununun fərdin, cəmiyyətin və dövlətin tələblərinə, elmi-texniki tərəqqinin inkişafına çevik uyğunlaşdırılması;
 
-- 3.2.1.  ümumi  t ə hsilin  m ə zmununun f ə rdin,  c ə miyy ə tin  v ə dövl ə tin  t ə l ə bl ə rin ə ,  elmi-texniki  t ə r ə qqinin  inki ş afına çevik uy ğ unla ş dırılması;
+3.2.2. ümumi təhsilin inkişafı üçün stimullaşdırıcı tədbirlərin tətbiqi;
 
-- 3.2.3. sa ğ lamlıq imkanları m ə hdud olan şə xsl ə rin inklüziv t ə hsilinin t əş kili;
+3.2.3. sağlamlıq imkanları məhdud olan şəxslərin inklüziv təhsilinin təşkili;
 
-- 3.2.5. ümumi t ə hsilin inki ş afı üzr ə dövl ə t proqramlarının t ə sdiqi v ə h ə yata keçirilm ə si;
+3.2.4. ümumi təhsilin müasir infrastrukturunun yaradılması və davamlı inkişafının təmin edilməsi;
 
-- 3.2.4. ümumi t ə hsilin müasir infrastrukturunun yaradılması v ə davamlı inki ş afının t ə min edilm ə si;
+3.2.5. ümumi təhsilin inkişafı üzrə dövlət proqramlarının təsdiqi və həyata keçirilməsi;
 
-- 3.2.6. ümumi t ə hsil sisteminin dayanıqlı maliyy ə l əş dirilm ə sinin t ə min edilm ə si;
+3.2.6. ümumi təhsil sisteminin dayanıqlı maliyyələşdirilməsinin təmin edilməsi;
 
-- 3.2.7. t ə hsilver ə nl ə rin pe şə karlıq s ə viyy ə sinin davamlı olaraq yüks ə ldilm ə si.
+3.2.7. təhsilverənlərin peşəkarlıq səviyyəsinin davamlı olaraq yüksəldilməsi.
 
-### Madd ə 4. Ümumi t ə hsil sah ə sind ə dövl ə tin v ə zif ə l ə ri
+### Maddə 4. Ümumi təhsil sahəsində dövlətin vəzifələri
 
-- 4.0. Ümumi t ə hsil sah ə sind ə dövl ə tin v ə zif ə l ə ri a ş a ğ ıdakılardır:
+4.0. Ümumi təhsil sahəsində dövlətin vəzifələri aşağıdakılardır:
 
-- 4.0.2. ümumi t ə hsil sisteminin inki ş af prioritetl ə rini mü ə yy ə nl əş dirm ə k;
+4.0.1. ümumi təhsil sahəsində dövlət siyasətini formalaşdırmaq və həyata keçirmək;
 
-- 4.0.1. ümumi t ə hsil sah ə sind ə dövl ə t siyas ə tini formala ş dırmaq v ə h ə yata keçirm ə k;
+4.0.2. ümumi təhsil sisteminin inkişaf prioritetlərini müəyyənləşdirmək;
 
-- 4.0.3.  ümumi  t ə hsil  sisteminin  inki ş afı  m ə qs ə dil ə dövl ə t  proqramlarını  t ə sdiq  etm ə k  v ə onların  icrasına  n ə zar ə ti h ə yata keçirm ə k;
+4.0.3. ümumi təhsil sisteminin inkişafı məqsədilə dövlət proqramlarını təsdiq etmək və onların icrasına nəzarəti həyata keçirmək;
 
-- 4.0.5. ümumi t ə hsilin dövl ə t standartlarını t ə sdiq etm ə k v ə icrasına n ə zar ə ti h ə yata keçirm ə k;
+4.0.4. ümumi təhsilə dair normativ hüquqi aktlar qəbul etmək;
 
-- 4.0.4. ümumi t ə hsil ə dair normativ hüquqi aktlar q ə bul etm ə k;
+4.0.5. ümumi təhsilin dövlət standartlarını təsdiq etmək və icrasına nəzarəti həyata keçirmək;
 
-- 4.0.6. sa ğ lamlıq imkanları m ə hdud olan şə xsl ə rin t ə hsili üçün xüsusi t ə hsilin dövl ə t standartlarını t ə sdiq etm ə k;
+4.0.6. sağlamlıq imkanları məhdud olan şəxslərin təhsili üçün xüsusi təhsilin dövlət standartlarını təsdiq etmək;
 
-- 4.0.8. ümumi t ə hsilin inki ş afına ayrılan dövl ə t büdc ə si v ə saitinin h ə cmini, maliyy ə mexanizml ə rini v ə normativl ə rini mü ə yy ə nl əş dirm ə k v ə icrasına n ə zar ə t etm ə k;
+4.0.7. ümumi təhsil müəssisələrinə uşaqların qəbulu, şagirdlərin sinifdən-sinfə keçirilməsi və yerdəyişməsi qaydasını təsdiq etmək;
 
-- 4.0.7. ümumi t ə hsil mü ə ssis ə l ə rin ə u ş aqların q ə bulu, ş agirdl ə rin sinifd ə n-sinf ə keçirilm ə si v ə yerd ə yi ş m ə si qaydasını t ə sdiq etm ə k;
+4.0.8. ümumi təhsilin inkişafına ayrılan dövlət büdcəsi vəsaitinin həcmini, maliyyə mexanizmlərini və normativlərini müəyyənləşdirmək və icrasına nəzarət etmək;
 
-- 4.0.9. dövl ə t ümumi t ə hsil mü ə ssis ə l ə rinin r ə hb ə rl ə rini v ə zif ə y ə t ə yin etm ə k v ə v ə zif ə d ə n azad etm ə k;
+4.0.9. dövlət ümumi təhsil müəssisələrinin rəhbərlərini vəzifəyə təyin etmək və vəzifədən azad etmək;
 
-- 4.0.11. t ə dris ilinin müdd ə tini mü ə yy ə n etm ə k;
+4.0.10. dövlət və bələdiyyə tərəfindən yaradılan ümumi təhsil müəssisələrinin nümunəvi nizamnaməsini təsdiq etmək, bələdiyyə və özəl ümumi təhsil müəssisələrinin nizamnamələrinə rəy vermək;
 
-- 4.0.10.  dövl ə t  v ə b ə l ə diyy ə t ə r ə find ə n  yaradılan  ümumi  t ə hsil  mü ə ssis ə l ə rinin  nümun ə vi  nizamnam ə sini  t ə sdiq etm ə k, b ə l ə diyy ə v ə öz ə l ümumi t ə hsil mü ə ssis ə l ə rinin nizamnam ə l ə rin ə r ə y verm ə k;
+4.0.11. tədris ilinin müddətini müəyyən etmək;
 
-- 4.0.12.  ümumi  t ə hsil  mü ə ssis ə l ə ri  üçün  d ə rslikl ə rin,  d ə rs  v ə saitl ə rinin  v ə dig ə r  t ə dris-metodik  vasit ə l ə rin  müvafiq icra hakimiyy ə ti о rqanının mü ə yy ə n etdiyi orqanın (qurumun) mü ə yy ə n etdiyi qaydada hazırlanmasını t ə min etm ə k;
+4.0.12. ümumi təhsil müəssisələri üçün dərsliklərin, dərs vəsaitlərinin və digər tədris-metodik vasitələrin müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi qaydada hazırlanmasını təmin etmək;
 
-- 4.0.14.  öz ə l  v ə b ə l ə diyy ə ümumi  t ə hsil  mü ə ssis ə l ə rinin  f ə aliyy ə tini  t əş viq  etm ə k  v ə d ə st ə kl ə m ə k,  onlara  metodik köm ə k göst ə rm ə k;
+4.0.13. ümumi təhsil müəssisələrinin tədris, metodik, informasiya-kommunikasiya texnologiyaları, rəqəmsal tədris resursları və digər texniki vasitələrlə təminatını həyata keçirmək;
 
-- 4.0.13.  ümumi t ə hsil  mü ə ssis ə l ə rinin t ə dris,  metodik, informasiya-kommunikasiya texnologiyaları, r ə q ə msal t ə dris resursları v ə dig ə r texniki vasit ə l ə rl ə t ə minatını h ə yata keçirm ə k;
+4.0.14. özəl və bələdiyyə ümumi təhsil müəssisələrinin fəaliyyətini təşviq etmək və dəstəkləmək, onlara metodik kömək göstərmək;
 
-- 4.0.15.  ümumi t ə hsil  mü ə ssis ə l ə rinin  infrastrukturuna,  tikintisin ə ,  maddi-texniki  t ə chizatına  dair  vahid  normaları, ümumi sanitariya-gigiyena v ə t ə hlük ə sizlik t ə l ə bl ə rini, ş agird yerl ə ri il ə t ə minat normativl ə rini t ə sdiq etm ə k;
+4.0.15. ümumi təhsil müəssisələrinin infrastrukturuna, tikintisinə, maddi-texniki təchizatına dair vahid normaları, ümumi sanitariya-gigiyena və təhlükəsizlik tələblərini, şagird yerləri ilə təminat normativlərini təsdiq etmək;
 
-- 4.0.17.  ümumi  t ə hsil  sistemind ə çevik  idar ə etm ə v ə q ə rar  q ə bul  etm ə ni  t ə min  ed ə n  T ə hsil  M ə rk ə zl əş dirilmi ş İ nformasiya  Sistemini  (TM İ S)  yaratmaq  v ə onun  dig ə r  t ə hsil  pill ə l ə ri  üzr ə elektron  m ə lumat  bazalarına  inteqrasiyasını t ə min etm ə k;
+4.0.16. dövlət ümumi təhsil müəssisələrinin nümunəvi ştatlarını və xərc normalarını müəyyən etmək;
 
-- 4.0.16. dövl ə t ümumi t ə hsil mü ə ssis ə l ə rinin nümun ə vi ş tatlarını v ə x ə rc normalarını mü ə yy ə n etm ə k;
+4.0.17. ümumi təhsil sistemində çevik idarəetmə və qərar qəbul etməni təmin edən Təhsil Mərkəzləşdirilmiş İnformasiya Sistemini (TMİS) yaratmaq və onun digər təhsil pillələri üzrə elektron məlumat bazalarına inteqrasiyasını təmin etmək;
 
-- 4.0.18. t ə lim-t ə rbiy ə prosesind ə müasir  t ə hsil  texnologiyalarının  v ə innovasiyaların  t ə tbiqin ə , t ə hsilver ə nl ə rin pe şə kar inki ş afına şə rait yaratmaq;
+4.0.18. təlim-tərbiyə prosesində müasir təhsil texnologiyalarının və innovasiyaların tətbiqinə, təhsilverənlərin peşəkar inkişafına şərait yaratmaq;
 
-- 4.0.20. ümumi t ə hsil mü ə ssis ə sinin (dövl ə t ümumi t ə hsil mü ə ssis ə l ə ri istisna olmaqla) f ə aliyy ə tin ə lisenziya verm ə k v ə ya onu l əğ v etm ə k; [5]
+4.0.19. ümumi təhsilin keyfiyyətinə dövlət nəzarətini həyata keçirmək;
 
-- 4.0.19. ümumi t ə hsilin keyfiyy ə tin ə dövl ə t n ə zar ə tini h ə yata keçirm ə k;
+4.0.20. ümumi təhsil müəssisəsinin (dövlət ümumi təhsil müəssisələri istisna olmaqla) fəaliyyətinə lisenziya vermək və ya onu ləğv etmək; [5]
 
-- 4.0.21.  ümumi  t ə hsil  mü ə ssis ə sinin  akkreditasiyası  v ə t ə hsilver ə nl ə rinin  sertifikatla ş dırılması  qaydasını  mü ə yy ə n etm ə k, akkreditasiyanı v ə sertifikatla ş dırılmanı h ə yata keçirm ə k;
+4.0.21. ümumi təhsil müəssisəsinin akkreditasiyası və təhsilverənlərinin sertifikatlaşdırılması qaydasını müəyyən etmək, akkreditasiyanı və sertifikatlaşdırılmanı həyata keçirmək;
 
-- 4.0.23.  ümumi  t ə hsil  sah ə sin ə yerli  v ə xarici  investisiyaların  c ə lb  edilm ə si  m ə qs ə di  il ə investisiya  mühitinin yaradılmasını t ə min etm ə k;
+4.0.22. ümumi təhsil müəssisəsində ödənişsiz tibbi xidmətin təşkili qaydasını müəyyənləşdirmək və dövlət ümumi təhsil müəssisəsində tibbi xidməti təmin etmək;
 
-- 4.0.22. ümumi t ə hsil mü ə ssis ə sind ə öd ə ni ş siz tibbi xidm ə tin t əş kili  qaydasını mü ə yy ə nl əş dirm ə k v ə dövl ə t  ümumi t ə hsil mü ə ssis ə sind ə tibbi xidm ə ti t ə min etm ə k;
+4.0.23. ümumi təhsil sahəsinə yerli və xarici investisiyaların cəlb edilməsi məqsədi ilə investisiya mühitinin yaradılmasını təmin etmək;
 
-- 4.0.24.  Az ə rbaycan  Respublikasının  v ə t ə nda ş ı  olan,  h ə mçinin  Az ə rbaycan  Respublikasının ə razisind ə qanuni ə saslarla  ya ş ayan ə cn ə bil ə rin  v ə v ə t ə nda ş lı ğ ı  olmayan şə xsl ə rin  ümumi  t ə hsil  mü ə ssis ə l ə rind ə b ə rab ə r şə rtl ə rl ə t ə hsil almaq hüququnu t ə min etm ə k;
+4.0.24. Azərbaycan Respublikasının vətəndaşı olan, həmçinin Azərbaycan Respublikasının ərazisində qanuni əsaslarla yaşayan əcnəbilərin və vətəndaşlığı olmayan şəxslərin ümumi təhsil müəssisələrində bərabər şərtlərlə təhsil almaq hüququnu təmin etmək;
 
-- 4.0.26. ümumi t ə hsil pill ə sind ə t ə hsilalanların attestasiyası, yekun attestasiyası qaydalarını mü ə yy ə n etm ə k v ə yekun attestasiyanı h ə yata keçirm ə k;
+4.0.25. dövlət ümumi təhsil müəssisələrində təhsilalanlar üçün geyim formalarının təsvirlərini təsdiq etmək;
 
-- 4.0.25. dövl ə t ümumi t ə hsil mü ə ssis ə l ə rind ə t ə hsilalanlar üçün geyim formalarının t ə svirl ə rini t ə sdiq etm ə k;
+4.0.26. ümumi təhsil pilləsində təhsilalanların attestasiyası, yekun attestasiyası qaydalarını müəyyən etmək və yekun attestasiyanı həyata keçirmək;
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-- 4.0.27. ümumi t ə hsil mü ə ssis ə l ə rinin pedaqoji i ş çil ə rinin d ə rs yükü normasını mü ə yy ə n etm ə k;
+4.0.27. ümumi təhsil müəssisələrinin pedaqoji işçilərinin dərs yükü normasını müəyyən etmək;
 
-- 4.0.29. dövl ə t ümumi t ə hsil mü ə ssis ə l ə rinin pedaqoji i ş çil ə r ə t ə l ə batını mü ə yy ə n etm ə k, pedaqoji i ş çil ə rin i şə q ə bulu v ə yerd ə yi ş m ə si qaydalarını t ə sdiq etm ə k , habel ə kadr t ə minatını h ə yata keçirm ə k; [6]
+4.0.28. dövlət ümumi təhsil müəssisələrinin müəllimlərinin bilik və bacarıqlarının diaqnostik qiymətləndirilməsini həyata keçirmək;
 
-- 4.0.28. dövl ə t  ümumi t ə hsil  mü ə ssis ə l ə rinin mü ə lliml ə rinin bilik v ə bacarıqlarının diaqnostik qiym ə tl ə ndirilm ə sini h ə yata keçirm ə k;
+4.0.29. dövlət ümumi təhsil müəssisələrinin pedaqoji işçilərə tələbatını müəyyən etmək, pedaqoji işçilərin işə qəbulu və yerdəyişməsi qaydalarını təsdiq etmək, habelə kadr təminatını həyata keçirmək; [6]
 
-- 4.0.30.  m ə kt ə b  ya ş lı  u ş aqların  icbari  ümumi  orta  t ə hsil ə c ə lbini  t ə min  etm ə k,  icbari  ümumi  orta  t ə hsilin  h ə yata keçirilm ə sin ə n ə zar ə t etm ə k;
+4.0.30. məktəb yaşlı uşaqların icbari ümumi orta təhsilə cəlbini təmin etmək, icbari ümumi orta təhsilin həyata keçirilməsinə nəzarət etmək;
 
-- 4.0.32. ümumi t ə hsil mü ə ssis ə l ə rind ə t ə hsilalanların pe şə yönümü i ş ini t əş kil etm ə k.
+4.0.31. ümumi təhsil haqqında dövlət sənədlərinin təsvirlərini və onların verilməsi qaydasını təsdiq etmək; [7]
 
-- 4.0.31. ümumi t ə hsil haqqında dövl ə t s ə n ə dl ə rinin t ə svirl ə rini v ə onların verilm ə si qaydasını t ə sdiq etm ə k; [7]
+4.0.32. ümumi təhsil müəssisələrində təhsilalanların peşəyönümü işini təşkil etmək.
 
-### Madd ə 5. Ümumi t ə hsil hüququna dövl ə t t ə minatı
+### Maddə 5. Ümumi təhsil hüququna dövlət təminatı
 
-- 5.1.  Dövl ə t  h ə r  bir  v ə t ə nda ş ın  ümumi  t ə hsil  alması  üçün  müvafiq şə rait  yaradılmasına  t ə minat  verir  v ə ümumi t ə hsilin h ə r hansı s ə viyy ə sind ə n v ə formasından m ə hrum edilm ə sin ə yol vermir.
+5.1. Dövlət hər bir vətəndaşın ümumi təhsil alması üçün müvafiq şərait yaradılmasına təminat verir və ümumi təhsilin hər hansı səviyyəsindən və formasından məhrum edilməsinə yol vermir.
 
-- 5.3.  Dövl ə t  mülkiyy ə t  formasından  asılı  olmayaraq,  bütün  ümumi  t ə hsil  mü ə ssis ə l ə rin ə q ə bul  olunmada,  biliyin qiym ə tl ə ndirilm ə sind ə , t ə hsilin növb ə ti pill ə d ə davam etdirilm ə sind ə v ə dig ə r m ə s ə l ə l ə rd ə cinsind ə n asılı olmayaraq h ə r bir v ə t ə nda ş a b ə rab ə r imkanlar yaradılmasını t ə min edir.
+5.2. Dövlət cinsindən, irqindən, dilindən, dinindən, siyasi əqidəsindən, etnik mənsubiyyətindən, sosial vəziyyətindən, mənşəyindən, sağlamlıq imkanlarından asılı olmayaraq, hər bir vətəndaşa ümumi təhsil almaq imkanı yaradılmasına və ayrı-seçkiliyə yol verilməməsinə təminat verir.
 
-- 5.2. Dövl ə t cinsind ə n, irqind ə n, dilind ə n, dinind ə n, siyasi ə qid ə sind ə n, etnik  m ə nsubiyy ə tind ə n, sosial v ə ziyy ə tind ə n,  m ə n şə yind ə n,  sa ğ lamlıq  imkanlarından  asılı  olmayaraq,  h ə r  bir  v ə t ə nda ş a  ümumi  t ə hsil  almaq  imkanı yaradılmasına v ə ayrı-seçkiliy ə yol verilm ə m ə sin ə t ə minat verir.
+5.3. Dövlət mülkiyyət formasından asılı olmayaraq, bütün ümumi təhsil müəssisələrinə qəbul olunmada, biliyin qiymətləndirilməsində, təhsilin növbəti pillədə davam etdirilməsində və digər məsələlərdə cinsindən asılı olmayaraq hər bir vətəndaşa bərabər imkanlar yaradılmasını təmin edir.
 
-- 5.4. Dövl ə t  h ə r  bir v ə t ə nda ş ın icbari ümumi orta t ə hsil almaq hüququnu t ə min edir. Dövl ə t  t ə hsil mü ə ssis ə l ə rind ə h ə r bir t ə hsilalanın pulsuz ümumi t ə hsil almaq hüququ vardır.
+5.4. Dövlət hər bir vətəndaşın icbari ümumi orta təhsil almaq hüququnu təmin edir. Dövlət təhsil müəssisələrində hər bir təhsilalanın pulsuz ümumi təhsil almaq hüququ vardır.
 
-- 5.5. Dövl ə t ümumi t ə hsil sah ə sind ə istedadlı u ş aq v ə g ə ncl ə rin vaxtında a ş kar olunması, inki ş afı v ə d ə st ə kl ə nm ə sin ə , maddi v ə ziyy ə tind ə n asılı olmayaraq, istedadlı şə xsl ə rin t ə hsilini davam etdirm ə sin ə t ə minat verir.
+5.5. Dövlət ümumi təhsil sahəsində istedadlı uşaq və gənclərin vaxtında aşkar olunması, inkişafı və dəstəklənməsinə, maddi vəziyyətindən asılı olmayaraq, istedadlı şəxslərin təhsilini davam etdirməsinə təminat verir.
 
-### Madd ə 6. T ə dris dili
+### Maddə 6. Tədris dili
 
-- 6.1. Ümumi t ə hsil mü ə ssis ə l ə rind ə t ə dris dili dövl ə t dili - Az ə rbaycan dilidir.
+6.1. Ümumi təhsil müəssisələrində tədris dili dövlət dili – Azərbaycan dilidir.
 
-- 6.3.  T ə dris  dig ə r  dill ə rd ə aparılan  ümumi  t ə hsil  mü ə ssis ə l ə rind ə Az ə rbaycan  dili, ə d ə biyyatı,  tari х i  v ə c оğ rafiyası t ə dris о lunmalıdır.
+6.2. Vətəndaşların və təhsil müəssisəsi təsisçilərinin istəyi nəzərə alınaraq, Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrə və ya müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanla (qurumla) razılaşmaya uyğun olaraq, ümumi təhsil müəssisələrində tədris müvafiq dövlət təhsil standartları və ya beynəlxalq səviyyədə akkreditasiya olunan təhsil proqramları əsasında digər dillərdə də aparıla bilər.
 
-- 6.2.  V ə t ə nda ş ların  v ə t ə hsil  mü ə ssis ə si  t ə sisçil ə rinin  ist ə yi  n ə z ə r ə alınaraq,  Az ə rbaycan  Respublikasının  t ə r ə fdar çı х dı ğ ı beyn ə l х alq müqavil ə l ə r ə v ə ya müvafiq icra hakimiyy ə ti о rqanının mü ə yy ə n etdiyi orqanla (qurumla) razıla ş maya uy ğ un  olaraq,  ümumi  t ə hsil  mü ə ssis ə l ə rind ə t ə dris  müvafiq  dövl ə t t ə hsil  standartları  v ə ya  beyn ə lxalq  s ə viyy ə d ə akkreditasiya olunan t ə hsil proqramları ə sasında dig ə r dill ə rd ə d ə aparıla bil ə r.
+6.3. Tədris digər dillərdə aparılan ümumi təhsil müəssisələrində Azərbaycan dili, ədəbiyyatı, tarixi və coğrafiyası tədris olunmalıdır.
 
-- 6.4.  Dövl ə t  ümumi  t ə hsil  mü ə ssis ə l ə rind ə t ə hsilini  dövl ə t  t ə hsil  standartları ə sasında  dig ə r  dild ə almaq  ist ə y ə n ş agirdl ə r  müvafiq icra hakimiyy ə ti о rqanının mü ə yy ə n etdiyi orqanın (qurumun) mü ə yy ə n etdiyi qaydada t ə hsil  almaq ist ə dikl ə ri t ə dris dili üzr ə müsahib ə d ə n keçirilirl ə r.
+6.4. Dövlət ümumi təhsil müəssisələrində təhsilini dövlət təhsil standartları əsasında digər dildə almaq istəyən şagirdlər müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi qaydada təhsil almaq istədikləri tədris dili üzrə müsahibədən keçirilirlər.
 
-- 6.5.  Az ə rbaycan  dilini  z ə if  bil ə n  t ə hsilalanlar  üçün  müvafiq  icra  hakimiyy ə ti о rqanının  mü ə yy ə n  etdiyi  orqanın (qurumun) mü ə yy ə n etdiyi qaydada v ə t ə hsil proqramlarına uy ğ un hazırlıq sinifl ə ri v ə kursları t əş kil olunur.
+6.5. Azərbaycan dilini zəif bilən təhsilalanlar üçün müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi qaydada və təhsil proqramlarına uyğun hazırlıq sinifləri və kursları təşkil olunur.
 
-## 2-ci f ə sil
+## 2-ci fəsil
+## ÜMUMİ TƏHSİLİN TƏŞKİLİ
 
-## ÜMUM İ T Ə HS İ L İ N T ƏŞ K İ L İ
+### Maddə 7. Ümumi təhsilin mahiyyəti və məqsədi
 
-### Madd ə 7. Ümumi t ə hsilin mahiyy ə ti v ə m ə qs ə di
+7.1. Ümumi təhsil Azərbaycan Respublikasında fasiləsiz təhsil sisteminin bir pilləsi olmaqla fərdin, cəmiyyətin və dövlətin maraqları nəzərə alınaraq davamlı inkişaf etdirilən və təhsilalanlar tərəfindən bilik, bacarıq və vərdişlərin mənimsənilməsini təmin edən mühüm fəaliyyət sahəsidir.
 
-- 7.1.  Ümumi t ə hsil  Az ə rbaycan Respublikasında fasil ə siz  t ə hsil  sisteminin  bir  pill ə si  olmaqla  f ə rdin,  c ə miyy ə tin  v ə dövl ə tin  maraqları  n ə z ə r ə alınaraq  davamlı  inki ş af  etdiril ə n  v ə t ə hsilalanlar  t ə r ə find ə n  bilik,  bacarıq  v ə v ə rdi ş l ə rin m ə nims ə nilm ə sini t ə min ed ə n mühüm f ə aliyy ə t sah ə sidir.
+7.2. Ümumi təhsil aşağıdakı məqsədlərə xidmət edir:
 
-- 7.2.1.  Az ə rbaycan dövl ə ti  qar ş ısında  öz  m ə suliyy ə tini  d ə rk  ed ə n,  Az ə rbaycan xalqının  d ə y ə rl ə rin ə v ə ümumb əşə ri d ə y ə rl ə r ə , xalqının ad ə t v ə ə n ə n ə l ə rin ə , insan hüquqları v ə azadlıqlarına hörm ə t ed ə n, az ə rbaycançılıq ideyalarına sadiq olan, s ə rb ə st  q ə rarlar q ə bul etm ə yi  bacaran, müst ə qil,  yaradıcı dü ş ün ə n,  sa ğ lam h ə yat t ə rzin ə ,  müasir dünyagörü ş ün ə , yüks ə k m ə d ə niyy ə t ə v ə intellekt ə malik v ə t ə nda ş v ə şə xsiyy ə t yeti ş dirm ə k;
+7.2.1. Azərbaycan dövləti qarşısında öz məsuliyyətini dərk edən, Azərbaycan xalqının dəyərlərinə və ümumbəşəri dəyərlərə, xalqının adət və ənənələrinə, insan hüquqları və azadlıqlarına hörmət edən, azərbaycançılıq ideyalarına sadiq olan, sərbəst qərarlar qəbul etməyi bacaran, müstəqil, yaradıcı düşünən, sağlam həyat tərzinə, müasir dünyagörüşünə, yüksək mədəniyyətə və intellektə malik vətəndaş və şəxsiyyət yetişdirmək;
 
-- 7.2. Ümumi t ə hsil a ş a ğ ıdakı m ə qs ə dl ə r ə xidm ə t edir:
+7.2.2. sistemləşdirilmiş bilik, bacarıq və vərdişlərin mənimsənilməsini və daim artırılmasını təmin etmək, təhsilalanları ictimai həyata və səmərəli əmək fəaliyyətinə hazırlamaq;
 
-- 7.2.2. sisteml əş dirilmi ş bilik, bacarıq  v ə v ə rdi ş l ə rin  m ə nims ə nilm ə sini  v ə daim  artırılmasını t ə min  etm ə k, t ə hsilalanları ictimai h ə yata v ə s ə m ə r ə li ə m ə k f ə aliyy ə tin ə hazırlamaq;
+7.2.3. təhsilalanların Azərbaycan xalqının dəyərləri və bəşəri dəyərlər ruhunda tərbiyə olunmasını, dövlət maraqları və azərbaycançılıq məfkurəsi əsasında formalaşdırılmasını təmin etmək.
 
-- 7.2.3. t ə hsilalanların Az ə rbaycan xalqının d ə y ə rl ə ri v ə b əşə ri d ə y ə rl ə r ruhunda t ə rbiy ə olunmasını, dövl ə t maraqları v ə az ə rbaycançılıq m ə fkur ə si ə sasında formala ş dırılmasını t ə min etm ə k.
+### Maddə 8. Ümumi təhsilin dövlət standartları
 
-### Madd ə 8. Ümumi t ə hsilin dövl ə t standartları
+8.1. Ümumi təhsil sahəsində dövlət standartları fərdin, cəmiyyətin, dövlətin tələbatına uyğun olaraq, elmi-pedaqoji prinsiplər əsasında hazırlanan və müəyyən dövr (5 ildən az olmayaraq) üçün vahid dövlət tələblərini əks etdirən ümumi normalar məcmusudur.
 
-- 8.1. Ümumi t ə hsil sah ə sind ə dövl ə t standartları f ə rdin, c ə miyy ə tin, dövl ə tin t ə l ə batına uy ğ un olaraq, elmi-pedaqoji prinsipl ə r ə sasında hazırlanan v ə mü ə yy ə n dövr (5 ild ə n az olmayaraq) üçün vahid dövl ə t t ə l ə bl ə rini ə ks etdir ə n ümumi normalar m ə cmusudur.
+8.2. Ümumi təhsilin dövlət standartları və onların qüvvədə olma müddəti müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.
 
-- 8.3. Tabeliyind ə n, mülkiyy ə t növünd ə n v ə t əş kilati-hüquqi formasından asılı olmayaraq, ümumi t ə hsil mü ə ssis ə l ə rind ə t ə hsil ümumi t ə hsilin dövl ə t standartlarına uy ğ un t əş kil edilir.
-
-- 8.2.  Ümumi  t ə hsilin  dövl ə t  standartları  v ə onların  qüvv ə d ə olma  müdd ə ti  müvafiq  icra  hakimiyy ə ti о rqanının mü ə yy ə n etdiyi orqan (qurum) t ə r ə find ə n mü ə yy ə n edilir.
+8.3. Tabeliyindən, mülkiyyət növündən və təşkilati-hüquqi formasından asılı olmayaraq, ümumi təhsil müəssisələrində təhsil ümumi təhsilin dövlət standartlarına uyğun təşkil edilir.
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-- 8.4. Ümumi t ə hsilin dövl ə t  standartları bu t ə hsil pill ə sinin m ə zmununu, idar ə olunmasını, maddi-texniki bazasını, infrastrukturunu,  t ə hsilver ə nl ə rin  keyfiyy ə t  göst ə ricil ə rini, t ə hsilalanların  bilik,  bacarıq  v ə v ə rdi ş l ə rinin  s ə viyy ə sini, h ə mçinin t ə dris  olunan f ə nl ə ri,  ümumi t ə hsilin  s ə viyy ə l ə ri  üzr ə h ə ft ə lik  d ə rs  v ə d ə rsd ə nk ə nar m əşğə l ə (fakültativ  kurs) saatlarının ümumi miqdarını, ümumi t ə hsilin t əş kilin ə veril ə n ümumi pedaqoji t ə l ə bl ə ri, ümumi t ə hsil sistemind ə ş agird nailiyy ə tl ə rinin qiym ə tl ə ndirilm ə si v ə monitorinqi sistemini mü ə yy ə n edir.
+8.4. Ümumi təhsilin dövlət standartları bu təhsil pilləsinin məzmununu, idarə olunmasını, maddi-texniki bazasını, infrastrukturunu, təhsilverənlərin keyfiyyət göstəricilərini, təhsilalanların bilik, bacarıq və vərdişlərinin səviyyəsini, həmçinin tədris olunan fənləri, ümumi təhsilin səviyyələri üzrə həftəlik dərs və dərsdənkənar məşğələ (fakültativ kurs) saatlarının ümumi miqdarını, ümumi təhsilin təşkilinə verilən ümumi pedaqoji tələbləri, ümumi təhsil sistemində şagird nailiyyətlərinin qiymətləndirilməsi və monitorinqi sistemini müəyyən edir.
 
-- 8.6.  Ümumi  t ə hsil  mü ə ssis ə sinin akkreditasiyasında, t ə hsilalanların attestasiyasının  aparılmasında  v ə yekun attestasiyasında dövl ə t t ə hsil standartları ə sas götürülür.
+8.5. Sağlamlıq imkanları məhdud olan şəxslərin təhsili üçün xüsusi təhsilin dövlət standartları tətbiq edilir.
 
-- 8.5. Sa ğ lamlıq imkanları m ə hdud olan şə xsl ə rin t ə hsili üçün xüsusi t ə hsilin dövl ə t standartları t ə tbiq edilir.
+8.6. Ümumi təhsil müəssisəsinin akkreditasiyasında, təhsilalanların attestasiyasının aparılmasında və yekun attestasiyasında dövlət təhsil standartları əsas götürülür.
 
-### Madd ə 9. Ümumi t ə hsil proqramı (kurikulum)
+### Maddə 9. Ümumi təhsil proqramı (kurikulum)
 
-- 9.1. Ümumi t ə hsil proqramı (kurikulum) s ə viyy ə l ə r üzr ə ümumi t ə hsilin m ə zmununu mü ə yy ə nl əş dirir.
+9.1. Ümumi təhsil proqramı (kurikulum) səviyyələr üzrə ümumi təhsilin məzmununu müəyyənləşdirir.
 
-- 9.3. Ümumi t ə hsil proqramına (kurikuluma) daxildir:
+9.2. Ümumi təhsil proqramı (kurikulum) ümumi təhsilin dövlət standartlarına və ümumi təhsilin məzmununa dair bu Qanunla müəyyən olunan ümumi tələblər nəzərə alınmaqla, müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiq edilir.
 
-- 9.2. Ümumi t ə hsil proqramı (kurikulum) ümumi t ə hsilin dövl ə t standartlarına v ə ümumi t ə hsilin m ə zmununa dair bu  Qanunla  mü ə yy ə n  olunan  ümumi  t ə l ə bl ə r  n ə z ə r ə alınmaqla,  müvafiq  icra  hakimiyy ə ti о rqanının  mü ə yy ə n  etdiyi orqan (qurum) t ə r ə find ə n t ə sdiq edilir.
+9.3. Ümumi təhsil proqramına (kurikuluma) daxildir:
 
-- 9.3.1. f ə nl ə r üzr ə kurikulumlar;
+9.3.1. fənlər üzrə kurikulumlar;
 
-- 9.3.3. m ə kt ə bd ə nk ə nar t ə hsil proqramları;
+9.3.2. dərsdənkənar məşğələlər (fakültativ kurslar);
 
-- 9.3.2. d ə rsd ə nk ə nar m əşğə l ə l ə r (fakültativ kurslar);
+9.3.3. məktəbdənkənar təhsil proqramları;
 
-- 9.3.4. t ə dris planları.
+9.3.4. tədris planları.
 
-- 9.4.1. f ə nnin m ə qs ə d v ə v ə zif ə l ə ri;
+9.4. Fənn kurikulumuna daxildir:
 
-- 9.4. F ə nn kurikulumuna daxildir:
+9.4.1. fənnin məqsəd və vəzifələri;
 
-- 9.4.2. f ə nnin t ə drisin ə veril ə n t ə l ə bl ə r;
+9.4.2. fənnin tədrisinə verilən tələblər;
 
-- 9.4.4. t ə lim strategiyaları;
+9.4.3. ümumi təhsilin səviyyələri və hər bir sinif üzrə təlim nəticələri;
 
-- 9.4.3. ümumi t ə hsilin s ə viyy ə l ə ri v ə h ə r bir sinif üzr ə t ə lim n ə tic ə l ə ri;
+9.4.4. təlim strategiyaları;
 
-- 9.4.5. f ə ndaxili v ə f ə nl ə rarası inteqrasiya;
+9.4.5. fəndaxili və fənlərarası inteqrasiya;
 
-- 9.4.7. t ə lim materiallarının planla ş dırılması üzr ə metodik tövsiy ə l ə r.
+9.4.6. qiymətləndirmə vasitələri və meyarları;
 
-- 9.4.6. qiym ə tl ə n¬dirm ə vasit ə l ə ri v ə meyarları;
+9.4.7. təlim materiallarının planlaşdırılması üzrə metodik tövsiyələr.
 
-- 9.5.  Ümumi  t ə hsil  mü ə ssis ə l ə rind ə t ə hsilalanlara  t ə dris  edil ə n  ümumi  t ə hsil  f ə nl ə ri  dövl ə t  t ə hsil  proqramları ə sasında keçirilir.
+9.5. Ümumi təhsil müəssisələrində təhsilalanlara tədris edilən ümumi təhsil fənləri dövlət təhsil proqramları əsasında keçirilir.
 
-- 9.7.  Müvafiq  maddi-texniki  bazası  v ə ixtisaslı  kadr  potensialı  oldu ğ u  halda,  Az ə rbaycan  Respublikasının  ümumi t ə hsil sistemind ə beyn ə lxalq t ə hsil proqramları da h ə yata keçiril ə bil ə r.
+9.6. Sağlamlıq imkanları məhdud olan şəxslərin sosial bacarıqlarının inkişafını və ictimai həyata inteqrasiyasını nəzərdə tutan xüsusi təhsil proqramları (kurikulumlar) həyata keçirilir.
 
-- 9.6.  Sa ğ lamlıq  imkanları  m ə hdud  olan şə xsl ə rin  sosial  bacarıqlarının  inki ş afını  v ə ictimai  h ə yata  inteqrasiyasını n ə z ə rd ə tutan xüsusi t ə hsil proqramları (kurikulumlar) h ə yata keçirilir.
+9.7. Müvafiq maddi-texniki bazası və ixtisaslı kadr potensialı olduğu halda, Azərbaycan Respublikasının ümumi təhsil sistemində beynəlxalq təhsil proqramları da həyata keçirilə bilər.
 
-### Madd ə 10. Ümumi t ə hsilin m ə zmununa veril ə n ümumi t ə l ə bl ə r
+### Maddə 10. Ümumi təhsilin məzmununa verilən ümumi tələblər
 
-- 10.1. Ümumi t ə hsilin m ə zmununa dair ümumi t ə l ə bl ə r a ş a ğ ıdakılardır:
+10.1. Ümumi təhsilin məzmununa dair ümumi tələblər aşağıdakılardır:
 
-- 10.1.2.  t ə hsilalanların  ya ş ına,  fizioloji-psixoloji  xüsusiyy ə tl ə rin ə uy ğ un  olaraq,  onların ə qli,  fiziki,  m ə n ə vi,  estetik inki ş afının,  müst ə qil ə m ə k  v ə t ə hsil  h ə yatına  hazırlanmasının,  c ə miyy ə tin  faydalı  v ə m ə hsuldar  üzvün ə çevrilm ə sinin t ə min olunması;
+10.1.1. fərdin, dövlətin, cəmiyyətin dövrə uyğun sosial sifarişinin, maraq və tələbatlarının təmin edilməsi;
 
-- 10.1.1. f ə rdin, dövl ə tin, c ə miyy ə tin dövr ə uy ğ un sosial sifari ş inin, maraq v ə t ə l ə batlarının t ə min edilm ə si;
+10.1.2. təhsilalanların yaşına, fizioloji-psixoloji xüsusiyyətlərinə uyğun olaraq, onların əqli, fiziki, mənəvi, estetik inkişafının, müstəqil əmək və təhsil həyatına hazırlanmasının, cəmiyyətin faydalı və məhsuldar üzvünə çevrilməsinin təmin olunması;
 
-- 10.1.3. şə xsiyy ə tin  formala ş ması  üçün  t ə hsilalanların  z ə ruri  n ə z ə ri  v ə praktik  bilikl ə rl ə yana ş ı,  h ə yati  bacarıq  v ə d ə y ə rl ə r ə yiy ə l ə nm ə sinin t ə min edilm ə si;
+10.1.3. şəxsiyyətin formalaşması üçün təhsilalanların zəruri nəzəri və praktik biliklərlə yanaşı, həyati bacarıq və dəyərlərə yiyələnməsinin təmin edilməsi;
 
-- 10.1.5. istedadın realla ş ması v ə inki ş afının t ə min edilm ə si.
+10.1.4. ümumi təhsil pilləsində verilmiş biliklərin müstəqil həyatda təhsilalanlar üçün faydalı olmasının təmin edilməsi;
 
-- 10.1.4.  ümumi  t ə hsil  pill ə sind ə verilmi ş bilikl ə rin  müst ə qil  h ə yatda  t ə hsilalanlar  üçün  faydalı  olmasının  t ə min edilm ə si;
+10.1.5. istedadın reallaşması və inkişafının təmin edilməsi.
 
-### Madd ə 11. Ümumi t ə hsil sisteminin qurulu ş u
+### Maddə 11. Ümumi təhsil sisteminin quruluşu
 
-- 11.1. Ümumi t ə hsil sistemin ə a ş a ğ ıdakılar daxildir:
+11.1. Ümumi təhsil sisteminə aşağıdakılar daxildir:
 
-- 11.1.2.  ümumi  t ə hsil  sah ə sind ə f ə aliyy ə t  göst ə r ə n  qeyri-hökum ə t  t əş kilatları,  assosiasiya  v ə c ə miyy ə tl ə r,  elmimetodik ş uralar.
+11.1.1. bütün ümumi təhsil müəssisələri, ümumi təhsil prosesi ilə məşğul olan və ümumi təhsil xidmətləri göstərən digər qurumlar, ümumi təhsil fəaliyyəti ilə bağlı informasiya mərkəzləri, idman, sağlamlıq və istirahət düşərgələri, ümumi təhsili idarəetmə orqanları və onların tabeliyindəki qurumlar;
 
-- 11.1.1. bütün ümumi t ə hsil mü ə ssis ə l ə ri, ümumi t ə hsil prosesi il ə m əşğ ul olan v ə ümumi t ə hsil xidm ə tl ə ri göst ə r ə n dig ə r qurumlar, ümumi t ə hsil f ə aliyy ə ti il ə ba ğ lı informasiya m ə rk ə zl ə ri, idman, sa ğ lamlıq v ə istirah ə t dü şə rg ə l ə ri, ümumi t ə hsili idar ə etm ə orqanları v ə onların tabeliyind ə ki qurumlar;
+11.1.2. ümumi təhsil sahəsində fəaliyyət göstərən qeyri-hökumət təşkilatları, assosiasiya və cəmiyyətlər, elmi-metodik şuralar.
 
-- 11.2. Ümumi t ə hsilin s ə viyy ə l ə ri a ş a ğ ıdakılardır:
+11.2. Ümumi təhsilin səviyyələri aşağıdakılardır:
 
-- 11.2.2. ibtidai t ə hsil (I-IV sinifl ə r);
+11.2.1. məktəbəhazırlıq mərhələsi (5 yaş);
 
-- 11.2.1. m ə kt ə b ə hazırlıq m ə rh ə l ə si (5 ya ş );
+11.2.2. ibtidai təhsil (I-IV siniflər);
 
-- 11.2.3. ümumi orta t ə hsil (V-IX sinifl ə r);
+11.2.3. ümumi orta təhsil (V-IX siniflər);
 
-- 11.2.4. tam orta t ə hsil (X-XI sinifl ə r).
+11.2.4. tam orta təhsil (X-XI siniflər).
 
-### Madd ə 12. Ümumi t ə hsil mü ə ssis ə si
+### Maddə 12. Ümumi təhsil müəssisəsi
 
-- 12.1. Dövl ə t v ə b ə l ə diyy ə t ə r ə find ə n yaradılan ümumi t ə hsil mü ə ssis ə si publik hüquqi şə xsdir.
+12.1. Dövlət və bələdiyyə tərəfindən yaradılan ümumi təhsil müəssisəsi publik hüquqi şəxsdir.
 
-- 12.2. Mülkiyy ə t növünd ə n v ə tabeliyind ə n asılı olmayaraq, ümumi t ə hsil mü ə ssis ə sinin f ə aliyy ə ti, hüquq v ə v ə zif ə l ə ri bu  Qanun,  'T ə hsil  haqqında'  Az ə rbaycan  Respublikasının  Qanunu,  'Publik  hüquqi şə xsl ə r  haqqında'  Az ə rbaycan Respublikasının Qanunu n ə z ə r ə alınmaqla, öz nizamnam ə si ə sasında h ə yata keçirilir.
+12.2. Mülkiyyət növündən və tabeliyindən asılı olmayaraq, ümumi təhsil müəssisəsinin fəaliyyəti, hüquq və vəzifələri bu Qanun, “Təhsil haqqında” Azərbaycan Respublikasının Qanunu, “Publik hüquqi şəxslər haqqında” Azərbaycan Respublikasının Qanunu nəzərə alınmaqla, öz nizamnaməsi əsasında həyata keçirilir.
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
-- 12.3.  Az ə rbaycan  Respublikasında  mülkiyy ə t  növün ə gör ə dövl ə t,  b ə l ə diyy ə v ə öz ə l  ümumi  t ə hsil  mü ə ssis ə l ə ri f ə aliyy ə t göst ə rir.
+12.3. Azərbaycan Respublikasında mülkiyyət növünə görə dövlət, bələdiyyə və özəl ümumi təhsil müəssisələri fəaliyyət göstərir.
 
-- 12.5. Ümumi t ə hsil mü ə ssis ə sind ə i ş rejimi mü ə ssis ə nin Pedaqoji Ş urası t ə r ə find ə n mü ə yy ə n edilir.
+12.4. Ümumi təhsil müəssisəsi öz fəaliyyətinə görə vətəndaşlar, cəmiyyət və dövlət qarşısında məsuliyyət daşıyır.
 
-- 12.4. Ümumi t ə hsil mü ə ssis ə si öz f ə aliyy ə tin ə gör ə v ə t ə nda ş lar, c ə miyy ə t v ə dövl ə t qar ş ısında m ə suliyy ə t da ş ıyır.
+12.5. Ümumi təhsil müəssisəsində iş rejimi müəssisənin Pedaqoji Şurası tərəfindən müəyyən edilir.
 
-- 12.6.  Dövl ə t  v ə b ə l ə diyy ə ümumi  t ə hsil  mü ə ssis ə l ə ri  'Publik  hüquqi şə xsl ə r  haqqında'  Az ə rbaycan  Respublikası Qanununa uy ğ un olaraq yaradılır.
+12.6. Dövlət və bələdiyyə ümumi təhsil müəssisələri “Publik hüquqi şəxslər haqqında” Azərbaycan Respublikası Qanununa uyğun olaraq yaradılır.
 
-- 12.8.  Dövl ə t  ümumi t ə hsil  mü ə ssis ə sind ə sinifl ə r  üzr ə ş agird  sıxlı ğ ı  normaları  müvafiq  icra  hakimiyy ə ti о rqanının mü ə yy ə n etdiyi orqan (qurum) t ə r ə find ə n mü ə yy ə n edilir.
+12.7. Özəl ümumi təhsil müəssisəsinin yaradılması, yenidən təşkili və ləğvi Azərbaycan Respublikasının Mülki Məcəlləsi ilə tənzimlənir.
 
-- 12.7.  Öz ə l  ümumi  t ə hsil  mü ə ssis ə sinin  yaradılması,  yenid ə n  t əş kili  v ə l əğ vi  Az ə rbaycan  Respublikasının  Mülki M ə c ə ll ə si il ə t ə nziml ə nir.
+12.8. Dövlət ümumi təhsil müəssisəsində siniflər üzrə şagird sıxlığı normaları müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.
 
-- 12.9.  Dövl ə t  ümumi  t ə hsil  mü ə ssis ə sinin  nizamnam ə si  v ə ona  d ə yi ş iklikl ə r  müvafiq  icra  hakimiyy ə ti о rqanının mü ə yy ə n etdiyi orqan (qurum) t ə r ə find ə n t ə sdiq edilir.
+12.9. Dövlət ümumi təhsil müəssisəsinin nizamnaməsi və ona dəyişikliklər müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiq edilir.
 
-- 12.11. Ümumi t ə hsil mü ə ssis ə sind ə siyasi partiyaların v ə dini qurumların strukturlarının yaradılmasına yol verilmir.
+12.10. Bələdiyyə və özəl ümumi təhsil müəssisələrinin nizamnamələri və onlarda edilən dəyişikliklər təsisçilər tərəfindən müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) rəyi nəzərə alınmaqla təsdiq edilir.
 
-- 12.10.  B ə l ə diyy ə v ə öz ə l  ümumi  t ə hsil  mü ə ssis ə l ə rinin  nizamnam ə l ə ri  v ə onlarda  edil ə n  d ə yi ş iklikl ə r  t ə sisçil ə r t ə r ə find ə n müvafiq icra hakimiyy ə ti о rqanının mü ə yy ə n etdiyi orqanın (qurumun) r ə yi n ə z ə r ə alınmaqla t ə sdiq edilir.
+12.11. Ümumi təhsil müəssisəsində siyasi partiyaların və dini qurumların strukturlarının yaradılmasına yol verilmir.
 
-- 12.12. Az ə rbaycan Respublikasında f ə aliyy ə t göst ə r ə n ümumi  t ə hsil  mü ə ssis ə l ə ri  T ə hsil  M ə rk ə zl əş dirilmi ş İ nformasiya Sistemin ə (TM İ Sə ) v ə ' Ş agird-m ə zun' dövl ə t elektron m ə lumat sistemin ə qo ş ulmalıdır.
+12.12. Azərbaycan Respublikasında fəaliyyət göstərən ümumi təhsil müəssisələri Təhsil Mərkəzləşdirilmiş İnformasiya Sisteminə (TMİS-ə) və “Şagird-məzun” dövlət elektron məlumat sisteminə qoşulmalıdır.
 
-- 12.14. Ümumi t ə hsil mü ə ssis ə l ə rinin a ş a ğ ıdakı növl ə ri vardır:
+12.13. Dövlət ümumi təhsil müəssisəsində təhsilalanlar üçün təsvirləri müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən olunmuş geyim formaları tətbiq edilir.
 
-- 12.13. Dövl ə t ümumi t ə hsil mü ə ssis ə sind ə t ə hsilalanlar üçün t ə svirl ə ri müvafiq icra hakimiyy ə ti о rqanının mü ə yy ə n etdiyi orqan (qurum) t ə r ə find ə n mü ə yy ə n olunmu ş geyim formaları t ə tbiq edilir.
+12.14. Ümumi təhsil müəssisələrinin aşağıdakı növləri vardır:
 
-- 12.14.1. ibtidai ümumt ə hsil m ə kt ə bi;
+12.14.1. ibtidai ümumtəhsil məktəbi;
 
-- 12.14.3. tam orta ümumt ə hsil m ə kt ə bi;
+12.14.2. ümumi orta ümumtəhsil məktəbi;
 
-- 12.14.2. ümumi orta ümumt ə hsil m ə kt ə bi;
+12.14.3. tam orta ümumtəhsil məktəbi;
 
-- 12.14.4. lisey;
+12.14.4. lisey;
 
-- 12.14.5. gimnaziya;
+12.14.5. gimnaziya;
 
-- 12.14.7. inteqrasiya t ə limli internat tipli t ə hsil mü ə ssis ə si;
+12.14.6. ümumtəhsil internat məktəbi;
 
-- 12.14.6. ümumt ə hsil internat m ə kt ə bi;
+12.14.7. inteqrasiya təlimli internat tipli təhsil müəssisəsi;
 
-- 12.14.8. inteqrasiya t ə limli ümumi t ə hsil mü ə ssis ə si;
+12.14.8. inteqrasiya təlimli ümumi təhsil müəssisəsi;
 
-- 12.14.10. xüsusi internat m ə kt ə bi;
+12.14.9. xüsusi məktəb;
 
-- 12.14.9. xüsusi m ə kt ə b;
+12.14.10. xüsusi internat məktəbi;
 
-- 12.14.11. inteqrasiya t ə limli internat tipli gimnaziya;
+12.14.11. inteqrasiya təlimli internat tipli gimnaziya;
 
-- 12.14.13. dig ə r m ə kt ə bl ə r.
+12.14.12. valideyn himayəsindən məhrum uşaqlar üçün ümumtəhsil internat məktəbi;
 
-- 12.14.12. valideyn himay ə sind ə n m ə hrum u ş aqlar üçün ümumt ə hsil internat m ə kt ə bi;
+12.14.13. digər məktəblər.
 
-- 12.15.  Ümumi  t ə hsil  mü ə ssis ə l ə rinin  növl ə r  üzr ə meyarlarını  müvafiq  icra  hakimiyy ə ti о rqanının  mü ə yy ə n  etdiyi orqan (qurum) mü ə yy ə n edir.
+12.15. Ümumi təhsil müəssisələrinin növlər üzrə meyarlarını müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) müəyyən edir.
 
-- 12.16.  T ə hsilalanların, pedaqoji  v ə texniki  hey ə tin t ə hlük ə sizliyini t ə min  etm ə k  m ə qs ə di il ə ümumi  t ə hsil mü ə ssis ə sind ə müvafiq icra hakimiyy ə ti о rqanının mü ə yy ə n etdiyi orqanın (qurumun) mü ə yy ə n etdiyi qaydada mühafiz ə xidm ə ti t əş kil edilir.
+12.16. Təhsilalanların, pedaqoji və texniki heyətin təhlükəsizliyini təmin etmək məqsədi ilə ümumi təhsil müəssisəsində müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi qaydada mühafizə xidməti təşkil edilir.
 
-### Madd ə 13. Ümumi t ə hsilin t əş kili
+### Maddə 13. Ümumi təhsilin təşkili
 
-- 13.1. Ümumi t ə hsil mü ə ssis ə sind ə t ə hsil prosesi öyr ə dici, t ə rbiy ə edici v ə inki ş afetdirici xarakter da ş ıyır.
+13.1. Ümumi təhsil müəssisəsində təhsil prosesi öyrədici, tərbiyəedici və inkişafetdirici xarakter daşıyır.
 
-- 13.3.  Ümumi t ə hsil  pill ə si  m ə kt ə b ə hazırlıq  m ə rh ə l ə sini,  ibtidai,  ümumi  orta  v ə tam  orta  t ə hsil  s ə viyy ə l ə rini ə hat ə edir.
+13.2. Ümumi təhsil fərdin, cəmiyyətin, dövlətin maraqlarına uyğun olaraq, təhsilalanların fənlər vasitəsilə müvafiq elm sahələri üzrə zəruri bilik və bacarıqlara yiyələnməsini, Azərbaycan xalqının dəyərləri və ümumbəşəri dəyərlər əsasında tərbiyə olunmasını, sağlam həyat tərzini, ailə, cəmiyyət, dövlət və ətraf mühit qarşısında hüquq və vəzifələrini dərk etməsini, müstəqil surətdə əlavə biliklər və şəxsiyyəti formalaşdıran həyati bacarıqlar əldə etməsini, intellektual və fiziki inkişafını, cəmiyyətə inteqrasiyasını və sosiallaşmasını, rəqabətqabiliyyətli olmasını, peşə seçimini, əmək fəaliyyətinə hazırlığını və növbəti pillədə təhsil almaq imkanını təmin edir.
 
-- 13.2. Ümumi t ə hsil f ə rdin, c ə miyy ə tin, dövl ə tin maraqlarına uy ğ un olaraq, t ə hsilalanların f ə nl ə r  vasit ə sil ə müvafiq elm  sah ə l ə ri  üzr ə z ə ruri  bilik  v ə bacarıqlara  yiy ə l ə nm ə sini,  Az ə rbaycan  xalqının  d ə y ə rl ə ri  v ə ümumb əşə ri  d ə y ə rl ə r ə sasında t ə rbiy ə olunmasını, sa ğ lam h ə yat t ə rzini, ail ə ,  c ə miyy ə t,  dövl ə t  v ə ə traf mühit qar ş ısında hüquq v ə v ə zif ə l ə rini d ə rk etm ə sini, müst ə qil sur ə td ə ə lav ə bilikl ə r v ə şə xsiyy ə ti  formala ş dıran h ə yati bacarıqlar ə ld ə etm ə sini, intellektual v ə fiziki inki ş afını, c ə miyy ə t ə inteqrasiyasını v ə sosialla ş masını, r ə qab ə tqabiliyy ə tli olmasını,  pe şə seçimini, ə m ə k f ə aliyy ə tin ə hazırlı ğ ını v ə növb ə ti pill ə d ə t ə hsil almaq imkanını t ə min edir.
+13.3. Ümumi təhsil pilləsi məktəbəhazırlıq mərhələsini, ibtidai, ümumi orta və tam orta təhsil səviyyələrini əhatə edir.
 
-- 13.4. Az ə rbaycan Respublikasında m ə kt ə b ə hazırlıq m ə rh ə l ə si 5 ya ş dan, ibtidai t ə hsil 6 ya ş dan ba ş lanır. Valideynl ə rin v ə ya dig ə r qanuni nümay ə nd ə l ə rin müraci ə ti il ə h ə r t ə qvim ilinin sonunad ə k 6 ya ş ı tamam olan u ş aqlar da ümumi t ə hsil mü ə ssis ə sin ə q ə bul edilirl ə r.
+13.4. Azərbaycan Respublikasında məktəbəhazırlıq mərhələsi 5 yaşdan, ibtidai təhsil 6 yaşdan başlanır. Valideynlərin və ya digər qanuni nümayəndələrin müraciəti ilə hər təqvim ilinin sonunadək 6 yaşı tamam olan uşaqlar da ümumi təhsil müəssisəsinə qəbul edilirlər.
 
-- 13.6. Ümumt ə hsil m ə kt ə bi ibtidai, ümumi orta, tam orta m ə kt ə b formasında ayrı-ayrılıqda da t əş kil oluna bil ə r.
+13.5. Məktəbəhazırlıq qruplarına uşaqların qəbulu müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi qaydada həyata keçirilir.
 
-- 13.5.  M ə kt ə b ə hazırlıq  qruplarına  u ş aqların  q ə bulu  müvafiq  icra  hakimiyy ə ti о rqanının  mü ə yy ə n  etdiyi  orqanın (qurumun) mü ə yy ə n etdiyi qaydada h ə yata keçirilir.
+13.6. Ümumtəhsil məktəbi ibtidai, ümumi orta, tam orta məktəb formasında ayrı-ayrılıqda da təşkil oluna bilər.
 
-- 13.7. Ucqar k ə nd yerl ə rind ə ş agirdl ə rin sayından asılı olmayaraq, ibtidai v ə ümumi orta ümumt ə hsil m ə kt ə bl ə rinin azkomplektli formada f ə aliyy ə tin ə yol verilir. Ş agirdl ə rin sayı az olan ibtidai sinifl ə rd ə n komplekt sinifl ə r t əş kil olunur.
+13.7. Ucqar kənd yerlərində şagirdlərin sayından asılı olmayaraq, ibtidai və ümumi orta ümumtəhsil məktəblərinin azkomplektli formada fəaliyyətinə yol verilir. Şagirdlərin sayı az olan ibtidai siniflərdən komplekt siniflər təşkil olunur.
 
-- 13.9.  Ümumi  t ə hsilin  s ə viyy ə l ə ri  üzr ə müdd ə ti,  bir  s ə viyy ə sind ə n  dig ə r  s ə viyy ə sin ə keçid  qaydası  müvafiq  icra hakimiyy ə ti о rqanının mü ə yy ə n etdiyi orqan (qurum) t ə r ə find ə n mü ə yy ə n edilir.
+13.8. Ümumi təhsil müəssisəsində ibtidai sinif şagirdlərinin proqram materiallarını səmərəli mənimsəmələrinə, təlim nailiyyətlərinin yaxşılaşdırılmasına, dünyagörüşünün formalaşdırılmasına, idraki və kommunikativ bacarıqlarının inkişafına dəstək məqsədilə günüuzadılmış qruplar yaradılır. Dövlət ümumi təhsil müəssisələrində günüuzadılmış qrupların təşkili qaydasını müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) müəyyən edir. [8]
 
-- 13.8.  Ümumi  t ə hsil  mü ə ssis ə sind ə ibtidai  sinif ş agirdl ə rinin  proqram  materiallarını  s ə m ə r ə li  m ə nims ə m ə l ə rin ə , t ə lim  nailiyy ə tl ə rinin  yax ş ıla ş dırılmasına, dünyagörü ş ünün formala ş dırılmasına, idraki v ə kommunikativ bacarıqlarının inki ş afına  d ə st ə k  m ə qs ə dil ə günüuzadılmı ş qruplar  yaradılır. Dövl ə t  ümumi  t ə hsil  mü ə ssis ə l ə rind ə günüuzadılmı ş qrupların t əş kili qaydasını müvafiq icra hakimiyy ə ti о rqanının mü ə yy ə n etdiyi orqan (qurum) mü ə yy ə n edir. [8]
+13.9. Ümumi təhsilin səviyyələri üzrə müddəti, bir səviyyəsindən digər səviyyəsinə keçid qaydası müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.
 
-- 13.10. T ə dris ilinin müdd ə tini müvafiq icra hakimiyy ə ti о rqanının mü ə yy ə n etdiyi orqan (qurum) mü ə yy ə n edir.
+13.10. Tədris ilinin müddətini müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) müəyyən edir.
 
-- 13.12.  Ümumi  t ə hsil  sistemind ə t ə hsilalanların  idman  v ə yaradıcılıq  qabiliyy ə tl ə rini  inki ş af  etdirm ə k  m ə qs ə di  il ə
+13.11. Ümumi təhsil ümumi təhsil müəssisələrində, peşə və orta ixtisas təhsili müəssisələrində, habelə ali təhsil müəssisələrinin tabeliyində yaradılan məktəblərdə həyata keçirilir.
 
-- 13.11.  Ümumi  t ə hsil  ümumi  t ə hsil  mü ə ssis ə l ə rind ə ,  pe şə v ə orta  ixtisas  t ə hsili  mü ə ssis ə l ə rind ə ,  habel ə ali  t ə hsil mü ə ssis ə l ə rinin tabeliyind ə yaradılan m ə kt ə bl ə rd ə h ə yata keçirilir.
+13.12. Ümumi təhsil sistemində təhsilalanların idman və yaradıcılıq qabiliyyətlərini inkişaf etdirmək məqsədi ilə
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-- m ə kt ə bd ə nk ə nar  t ə hsil  proqramları  t ə tbiq  olunur.  M ə kt ə bd ə nk ə nar  t ə hsil  m ə kt ə bd ə nk ə nar  (yaradıcılıq  v ə inki ş af m ə rk ə zl ə ri,  ekologiya  v ə turizm  m ə rk ə zl ə ri,  u ş aq-g ə ncl ə r  idmanş ahmat  m ə kt ə bl ə ri,  u ş aq-g ə ncl ə r  idman  m ə kt ə bl ə ri, u ş aq-g ə ncl ə r ş ahmat m ə kt ə bl ə ri v ə s.) v ə ümumi t ə hsil mü ə ssis ə l ə rind ə h ə yata keçirilir.
+məktəbdənkənar təhsil proqramları tətbiq olunur. Məktəbdənkənar təhsil məktəbdənkənar (yaradıcılıq və inkişaf mərkəzləri, ekologiya və turizm mərkəzləri, uşaq-gənclər idman-şahmat məktəbləri, uşaq-gənclər idman məktəbləri, uşaq-gənclər şahmat məktəbləri və s.) və ümumi təhsil müəssisələrində həyata keçirilir.
 
-- 13.14. İ btidai  t ə hsilin  m ə qs ə di  t ə hsilalanlara  oxu,  yazı  v ə hesablama  bacarıqları,  v ə t ə np ə rv ə rlik  v ə Az ə rbaycan xalqının d ə y ə rl ə rin ə ,  dövl ə t  r ə mzl ə rin ə hörm ə t  hissi  a ş ılamaq, onlarda insan, c ə miyy ə t  v ə t ə bi ə t  haqqında ilkin bilikl ə r, şə xsiyy ə tin formala ş masına yön ə lmi ş h ə yati bacarıqlar, sad ə ə m ə k v ə rdi ş l ə ri,  m ə ntiqi t ə f ə kkür elementl ə ri,  b ə dii-estetik keyfiyy ə tl ə r v ə dig ə r xüsusiyy ə tl ə r formala ş dırmaqdan ibar ə tdir.
+13.13. Ümumi təhsil ibtidai təhsil, ümumi orta təhsil, tam orta təhsil proqramları (kurikulumlar) əsasında həyata keçirilir.
 
-- 13.13.  Ümumi t ə hsil  ibtidai  t ə hsil,  ümumi  orta  t ə hsil,  tam  orta  t ə hsil  proqramları  (kurikulumlar) ə sasında  h ə yata keçirilir.
+13.14. İbtidai təhsilin məqsədi təhsilalanlara oxu, yazı və hesablama bacarıqları, vətənpərvərlik və Azərbaycan xalqının dəyərlərinə, dövlət rəmzlərinə hörmət hissi aşılamaq, onlarda insan, cəmiyyət və təbiət haqqında ilkin biliklər, şəxsiyyətin formalaşmasına yönəlmiş həyati bacarıqlar, sadə əmək vərdişləri, məntiqi təfəkkür elementləri, bədii-estetik keyfiyyətlər və digər xüsusiyyətlər formalaşdırmaqdan ibarətdir.
 
-- 13.15.  Ümumi  orta  t ə hsilin  m ə qs ə di  t ə hsilalanlarda  nitq,  yazı  v ə ünsiyy ə t  m ə d ə niyy ə tinin,  sa ğ lam  h ə yat  t ə rzinin formala ş dırılmasını,  onların  dövl ə t ə v ə dövl ə tçiliy ə ,  Az ə rbaycan xalqının d ə y ə rl ə rin ə v ə ümumb əşə ri  d ə y ə rl ə r ə s ə daq ə t ruhunda  t ə rbiy ə olunmasını,  insan  hüquq  v ə azadlıqlarına  hörm ə tl ə yana ş masını, idrak f ə allı ğ ının  v ə m ə ntiqi t ə f ə kkürünün inki ş afını, müvafiq t ə hsil proqramı üzr ə ə ld ə etdiyi bilikl ə ri t ə tbiq  etm ə k, müasir informasiyakommunikasiya texnologiyalarından istifad ə etm ə k,  c ə miyy ə td ə ba ş ver ə n  hadis ə l ə ri  d ə y ə rl ə ndirm ə k,  öz  g ə l ə c ə k  h ə yat yolunu v ə f ə aliyy ə t istiqam ə tl ə rini mü ə yy ə nl əş dirm ə k, müst ə qil öyr ə nm ə v ə q ə rar q ə buletm ə bacarı ğ ını, pe şə seçimin ə v ə ə m ə k f ə aliyy ə tin ə hazırlı ğ ını t ə min etm ə kd ə n ibar ə tdir.
+13.15. Ümumi orta təhsilin məqsədi təhsilalanlarda nitq, yazı və ünsiyyət mədəniyyətinin, sağlam həyat tərzinin formalaşdırılmasını, onların dövlətə və dövlətçiliyə, Azərbaycan xalqının dəyərlərinə və ümumbəşəri dəyərlərə sədaqət ruhunda tərbiyə olunmasını, insan hüquq və azadlıqlarına hörmətlə yanaşmasını, idrak fəallığının və məntiqi təfəkkürünün inkişafını, müvafiq təhsil proqramı üzrə əldə etdiyi bilikləri tətbiq etmək, müasir informasiya-kommunikasiya texnologiyalarından istifadə etmək, cəmiyyətdə baş verən hadisələri dəyərləndirmək, öz gələcək həyat yolunu və fəaliyyət istiqamətlərini müəyyənləşdirmək, müstəqil öyrənmə və qərar qəbuletmə bacarığını, peşə seçiminə və əmək fəaliyyətinə hazırlığını təmin etməkdən ibarətdir.
 
-- 13.17.  Mülkiyy ə t  növünd ə n  v ə tabeliyind ə n  asılı  olmayaraq,  bütün  ümumi  t ə hsil  mü ə ssis ə l ə rind ə t ə lim-t ə rbiy ə prosesi  dövl ə t  t ə hsil  standartlarına  uy ğ un  hazırlanmı ş v ə ya  beyn ə lxalq  s ə viyy ə d ə akkreditasiya  olunan  müvafiq  t ə hsil proqramları (kurikulumlar) ə sasında h ə yata keçirilir.
+13.16. Tam orta təhsil səviyyəsində təhsilalanların istedad və qabiliyyətinin reallaşdırılması, müstəqil həyata hazırlanması, onlarda fəal vətəndaş mövqeyinin və rəqabətqabiliyyətliliyin, ümumbəşəri dəyərlərə tolerant münasibətin formalaşdırılması, müasir informasiya mənbələrindən sərbəst və səmərəli istifadə etməsi, iqtisadi dünyagörüşə yiyələnməsi, xarici dillərdən birində, yaxud bir neçəsində ünsiyyət saxlaması və s. təmin olunur.
 
-- 13.16.  Tam  orta  t ə hsil  s ə viyy ə sind ə t ə hsilalanların  istedad  v ə qabiliyy ə tinin  realla ş dırılması,  müst ə qil  h ə yata hazırlanması, onlarda f ə al v ə t ə nda ş mövqeyinin v ə r ə qab ə tqabiliyy ə tliliyin, ümumb əşə ri d ə y ə rl ə r ə tolerant münasib ə tin formala ş dırılması,  müasir  informasiya  m ə nb ə l ə rind ə n s ə rb ə st  v ə s ə m ə r ə li istifad ə etm ə si, iqtisadi  dünyagörü şə yiy ə l ə nm ə si, xarici dill ə rd ə n birind ə , yaxud bir neç ə sind ə ünsiyy ə t saxlaması v ə s. t ə min olunur.
+13.17. Mülkiyyət növündən və tabeliyindən asılı olmayaraq, bütün ümumi təhsil müəssisələrində təlim-tərbiyə prosesi dövlət təhsil standartlarına uyğun hazırlanmış və ya beynəlxalq səviyyədə akkreditasiya olunan müvafiq təhsil proqramları (kurikulumlar) əsasında həyata keçirilir.
 
-- 13.18.  Ümumi  t ə hsilin  tam  orta  t ə hsil  s ə viyy ə sind ə t ə hsil  t ə mayüll ə r  üzr ə (humanitar,  texniki,  t ə bi ə t  v ə s.)  t əş kil edilir. T ə mayül sinifl ə ri ş agirdl ə rin sayı ə n azı 15 n ə f ə r olmaqla komplektl əş dirilir. T ə dris ili ə rzind ə t ə mayül sinifl ə rind ə ş agird sayının azalması h ə min sinifl ə rin f ə aliyy ə tinin davam etdirilm ə sin ə m ə hdudiyy ə t yaratmır.
+13.18. Ümumi təhsilin tam orta təhsil səviyyəsində təhsil təmayüllər üzrə (humanitar, texniki, təbiət və s.) təşkil edilir. Təmayül sinifləri şagirdlərin sayı ən azı 15 nəfər olmaqla komplektləşdirilir. Tədris ili ərzində təmayül siniflərində şagird sayının azalması həmin siniflərin fəaliyyətinin davam etdirilməsinə məhdudiyyət yaratmır.
 
-- 13.20. Az ə rbaycan Respublikasında ümumi orta t ə hsil icbaridir.
+13.19. Ümumi təhsili xüsusi nailiyyətlərlə başa vuran məzunlar müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi qaydada qızıl və ya gümüş nişanla təltif olunurlar.
 
-- 13.19. Ümumi t ə hsili xüsusi nailiyy ə tl ə rl ə ba ş a vuran m ə zunlar müvafiq icra hakimiyy ə ti о rqanının mü ə yy ə n etdiyi orqanın (qurumun) mü ə yy ə n etdiyi qaydada qızıl v ə ya gümü ş ni ş anla t ə ltif olunurlar.
+13.20. Azərbaycan Respublikasında ümumi orta təhsil icbaridir.
 
-- 13.21.  Xüsusi  proqram ə sasında  t ə hsil  ver ə n  t ə hsil  mü ə ssis ə l ə ri  istisna  olmaqla,  ümumi  t ə hsil  mü ə ssis ə sinin yerl əş diyi ə razid ə ya ş ayan t ə hsilalanlar h ə min t ə hsil mü ə ssis ə sin ə ilk növb ə d ə q ə bul olunurlar.
+13.21. Xüsusi proqram əsasında təhsil verən təhsil müəssisələri istisna olmaqla, ümumi təhsil müəssisəsinin yerləşdiyi ərazidə yaşayan təhsilalanlar həmin təhsil müəssisəsinə ilk növbədə qəbul olunurlar.
 
-- 13.23.  Dövl ə t t ə hsil  mü ə ssis ə l ə rind ə ümumi  t ə hsil  pill ə sinin  dövl ə t  standartlarını ə hat ə ed ə n  tam  orta  t ə hsil pulsuzdur.  Dövl ə t  t ə hsil  mü ə ssis ə l ə ri  dövl ə t  standartlarından ə lav ə t ə dris  edil ə n  beyn ə lxalq  s ə viyy ə d ə akkreditasiya olunan t ə hsil proqramlarını öd ə ni ş li ə saslarla t əş kil etm ə k hüququna malikdirl ə r.
+13.22. Ümumi təhsil müəssisələrinə uşaqların qəbulu, şagirdlərin sinifdən-sinfə keçirilməsi və yerdəyişməsi qaydası müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.
 
-- 13.22. Ümumi t ə hsil mü ə ssis ə l ə rin ə u ş aqların q ə bulu, ş agirdl ə rin sinifd ə n-sinf ə keçirilm ə si v ə yerd ə yi ş m ə si qaydası müvafiq icra hakimiyy ə ti orqanının mü ə yy ə n etdiyi orqan (qurum) t ə r ə find ə n mü ə yy ə n edilir.
+13.23. Dövlət təhsil müəssisələrində ümumi təhsil pilləsinin dövlət standartlarını əhatə edən tam orta təhsil pulsuzdur. Dövlət təhsil müəssisələri dövlət standartlarından əlavə tədris edilən beynəlxalq səviyyədə akkreditasiya olunan təhsil proqramlarını ödənişli əsaslarla təşkil etmək hüququna malikdirlər.
 
-- 13.24. Ümumi t ə hsil mü ə ssis ə sind ə formal t ə hsil h ə yata keçirilir.
+13.24. Ümumi təhsil müəssisəsində formal təhsil həyata keçirilir.
 
-- 13.25.1. ibtidai t ə hsil ə yani, s ə rb ə st (eksternat);
+13.25. Ümumi təhsilin səviyyələri üzrə təhsilalma formaları aşağıdakı kimi müəyyən edilir:
 
-- 13.25. Ümumi t ə hsilin s ə viyy ə l ə ri üzr ə t ə hsilalma formaları a ş a ğ ıdakı kimi mü ə yy ə n edilir:
+13.25.1. ibtidai təhsil - əyani, sərbəst (eksternat);
 
-- 13.25.2. ümumi orta ə yani, s ə rb ə st (eksternat);
+13.25.2. ümumi orta - əyani, sərbəst (eksternat);
 
-- 13.26.  Bu  Qanunda  mü ə yy ə n  edilmi ş t ə hsilalma  formaları  ç ə rçiv ə sind ə evd ə t ə hsil,  f ə rdi  t ə hsil  v ə stasionar  t ə hsil t əş kil oluna bil ə r.
+13.25.3. tam orta - əyani, sərbəst (eksternat).
 
-- 13.25.3. tam orta ə yani, s ə rb ə st (eksternat).
+13.26. Bu Qanunda müəyyən edilmiş təhsilalma formaları çərçivəsində evdə təhsil, fərdi təhsil və stasionar təhsil təşkil oluna bilər.
 
-- 13.27. Beyn ə lxalq f ə nn olimpiadalarının qalibl ə ri  ist ə nil ə n ixtisaslar üzr ə ,  respublika f ə nn olimpiadalarının, yüks ə k s ə viyy ə li beyn ə lxalq müsabiq ə l ə rin v ə yarı ş ların qalibl ə ri müvafiq ixtisaslar üzr ə ali t ə hsil  mü ə ssis ə l ə rin ə müsabiq ə d ə nk ə nar  q ə bul  olunurlar.  H ə min  olimpiadaların,  beyn ə lxalq  müsabiq ə l ə rin  v ə yarı ş ların  siyahısı  v ə onların qalibl ə rinin  ali  t ə hsil  mü ə ssis ə l ə rin ə müsabiq ə d ə nk ə nar  q ə bulu  qaydası  müvafiq  icra  hakimiyy ə ti  orqanının  mü ə yy ə n etdiyi orqan (qurum) t ə r ə find ə n mü ə yy ə n edilir.
+13.27. Beynəlxalq fənn olimpiadalarının qalibləri istənilən ixtisaslar üzrə, respublika fənn olimpiadalarının, yüksək səviyyəli beynəlxalq müsabiqələrin və yarışların qalibləri müvafiq ixtisaslar üzrə ali təhsil müəssisələrinə müsabiqədənkənar qəbul olunurlar. Həmin olimpiadaların, beynəlxalq müsabiqələrin və yarışların siyahısı və onların qaliblərinin ali təhsil müəssisələrinə müsabiqədənkənar qəbulu qaydası müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.
 
-- 13.29.  T ə hsilalanların  pe şə seçimin ə v ə ə m ə k  f ə aliyy ə tin ə hazırlanması  m ə qs ə dil ə ümumi  t ə hsil  mü ə ssis ə l ə rind ə pe şə yönümü  xidm ə ti  t əş kil  edilir.  Pe şə yönümü  xidm ə ti  müvafiq  icra  hakimiyy ə ti  orqanının  mü ə yy ə n  etdiyi  orqan (qurum) t ə r ə find ə n mü ə yy ə n edilmi ş qaydada h ə yata keçirilir.
+13.28. Beynəlxalq səviyyədə akkreditasiya olunan təhsil proqramları üzrə ümumi təhsil almış abituriyentlər müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilmiş şərtlər yerinə yetirilməklə, təhsil aldıqları dildə tədris olunan ixtisaslar üzrə ali təhsil müəssisələrinə müsabiqədənkənar qəbul olunurlar.
 
-- 13.28. Beyn ə lxalq s ə viyy ə d ə akkreditasiya olunan t ə hsil proqramları üzr ə ümumi t ə hsil almı ş abituriyentl ə r müvafiq icra hakimiyy ə ti  orqanının mü ə yy ə n etdiyi orqan (qurum) t ə r ə find ə n mü ə yy ə n edilmi ş şə rtl ə r yerin ə yetirilm ə kl ə ,  t ə hsil aldıqları dild ə t ə dris olunan ixtisaslar üzr ə ali t ə hsil mü ə ssis ə l ə rin ə müsabiq ə d ə nk ə nar q ə bul olunurlar.
+13.29. Təhsilalanların peşə seçiminə və əmək fəaliyyətinə hazırlanması məqsədilə ümumi təhsil müəssisələrində peşəyönümü xidməti təşkil edilir. Peşəyönümü xidməti müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilmiş qaydada həyata keçirilir.
 
-### Madd ə 14. Ümumi t ə hsil mü ə ssis ə l ə rind ə t ə hsilalanların attestasiyası
+### Maddə 14. Ümumi təhsil müəssisələrində təhsilalanların attestasiyası
 
-- 14.1.  Ümumi  t ə hsil  pill ə sinin  ümumi  orta  v ə tam  orta  t ə hsil  s ə viyy ə l ə rini  ba ş a  vuran  t ə hsilalanların  t ə hsild ə nailiyy ə tl ə rinin qiym ə tl ə ndirilm ə si v ə t ə hsil haqqında dövl ə t s ə n ə dinin verilm ə si  m ə qs ə di il ə ümumi t ə hsil mü ə ssis ə l ə rinin  buraxılı ş sinifl ə rind ə (IX  v ə XI  sinif)  t ə hsilalanların müvafiq icra hakimiyy ə ti  orqanının  mü ə yy ə n etdiyi orqanın (qurumun) mü ə yy ə n etdiyi qaydada yekun attestasiyası keçirilir.
+14.1. Ümumi təhsil pilləsinin ümumi orta və tam orta təhsil səviyyələrini başa vuran təhsilalanların təhsildə nailiyyətlərinin qiymətləndirilməsi və təhsil haqqında dövlət sənədinin verilməsi məqsədi ilə ümumi təhsil müəssisələrinin buraxılış siniflərində (IX və XI sinif) təhsilalanların müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi qaydada yekun attestasiyası keçirilir.
 
-- 14.3.  Ümumi t ə hsil  sistemind ə ba ş ver ə n  d ə yi ş iklikl ə ri  v ə kurikulumların  keyfiyy ə tini  d ə y ə rl ə ndirm ə k  m ə qs ə di  il ə ümumi t ə hsil mü ə ssis ə l ə rind ə ölk ə s ə viyy ə li qiym ə tl ə ndirm ə keçirilir.
+14.2. Təhsilalanların nailiyyətlərinin izlənilməsi məqsədi ilə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) təsdiq etdiyi qaydada təhsilalanların attestasiyası (məktəbdaxili qiymətləndirmə) təşkil edilir.
 
-- 14.2.  T ə hsilalanların  nailiyy ə tl ə rinin  izl ə nilm ə si  m ə qs ə di  il ə müvafiq  icra  hakimiyy ə ti  orqanının  mü ə yy ə n  etdiyi orqanın (qurumun) t ə sdiq etdiyi qaydada t ə hsilalanların attestasiyası (m ə kt ə bdaxili qiym ə tl ə ndirm ə ) t əş kil edilir.
+14.3. Ümumi təhsil sistemində baş verən dəyişiklikləri və kurikulumların keyfiyyətini dəyərləndirmək məqsədi ilə ümumi təhsil müəssisələrində ölkə səviyyəli qiymətləndirmə keçirilir.
 
-- 14.4.  T ə hsilin  v ə ziyy ə ti  bar ə d ə m ə lumatlar ə ld ə etm ə k,  n ə tic ə l ə ri  dig ə r  ölk ə l ə rin  n ə tic ə l ə ri  il ə müqayis ə etm ə k  v ə ümumi t ə hsilin inki ş af istiqam ə tl ə rini mü ə yy ə nl əş dirm ə k m ə qs ə di il ə müvafiq icra hakimiyy ə ti orqanının mü ə yy ə n etdiyi orqan (qurum) ümumi t ə hsil mü ə ssis ə l ə rinin beyn ə lxalq qiym ə tl ə ndirm ə proqramlarında i ş tirakı bar ə d ə q ə rar q ə bul ed ə
+14.4. Təhsilin vəziyyəti barədə məlumatlar əldə etmək, nəticələri digər ölkələrin nəticələri ilə müqayisə etmək və ümumi təhsilin inkişaf istiqamətlərini müəyyənləşdirmək məqsədi ilə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) ümumi təhsil müəssisələrinin beynəlxalq qiymətləndirmə proqramlarında iştirakı barədə qərar qəbul edə
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-bil ə r.
+bilər.
 
-### Madd ə 15. Ümumi t ə hsil mü ə ssis ə sinin t ə sisçisi
+### Maddə 15. Ümumi təhsil müəssisəsinin təsisçisi
 
-- 15.1.  Ümumi  t ə hsil  mü ə ssis ə sinin  t ə sisçisi  (t ə sisçil ə ri)  dövl ə t,  b ə l ə diyy ə ,  Az ə rbaycan  Respublikasının  v ə xarici dövl ə tl ə rin  hüquqi şə xsl ə ri,  Az ə rbaycan  Respublikasının  v ə t ə nda ş ları, ə cn ə bil ə r  v ə v ə t ə nda ş lı ğ ı  olmayan şə xsl ə r  ola bil ə rl ə r.
+15.1. Ümumi təhsil müəssisəsinin təsisçisi (təsisçiləri) dövlət, bələdiyyə, Azərbaycan Respublikasının və xarici dövlətlərin hüquqi şəxsləri, Azərbaycan Respublikasının vətəndaşları, əcnəbilər və vətəndaşlığı olmayan şəxslər ola bilərlər.
 
-- 15.3.  T ə sisçisi  (t ə sisçil ə ri) ə cn ə bil ə r,  v ə t ə nda ş lı ğ ı  olmayan şə xsl ə r  v ə ya  xarici  hüquqi şə xsl ə r  olan,  o  cüml ə d ə n nizamnam ə kapitalının  v ə ya  s ə hml ə rinin  51%-d ə n  çoxu ə cn ə bil ə r ə ,  v ə t ə nda ş lı ğ ı  olmayan şə xsl ə r ə v ə ya  xarici  hüquqi şə xsl ə r ə m ə xsus  t ə hsil  mü ə ssis ə sinin  r ə hb ə rinin  müavini  Az ə rbaycan  Respublikasının  v ə t ə nda ş ı  olmalıdır.  Bu  t ə hsil mü ə ssis ə sinin r ə hb ə rinin v ə onun müavininin namiz ə dliyi  müvafiq icra hakimiyy ə ti  orqanının mü ə yy ə n etdiyi orqanla (qurumla) razıla ş dırılır.  H ə min t ə hsil  mü ə ssis ə sinin  dövl ə t  qeydiyyatına  alınması  t ə hsil  mü ə ssis ə si  r ə hb ə rinin  v ə onun müavininin namiz ə dliyi razıla ş dırıldıqdan sonra h ə yata keçirilir.
+15.2. Təsisçiləri əcnəbilər və ya vətəndaşlığı olmayan şəxslər, xarici hüquqi şəxslər olan ümumi təhsil müəssisələrinin müəllim heyətinin tərkibində Azərbaycan Respublikasının vətəndaşları sayca üstünlük təşkil etməlidir. Yerli kadr potensialı buna imkan vermədikdə, say nisbəti dəyişdirilə bilər.
 
-- 15.2.T ə sisçil ə ri ə cn ə bil ə r v ə ya v ə t ə nda ş lı ğ ı olmayan şə xsl ə r, xarici hüquqi şə xsl ə r olan ümumi t ə hsil mü ə ssis ə l ə rinin mü ə llim  hey ə tinin  t ə rkibind ə Az ə rbaycan  Respublikasının  v ə t ə nda ş ları  sayca  üstünlük  t əş kil  etm ə lidir.  Yerli  kadr potensialı buna imkan verm ə dikd ə , say nisb ə ti d ə yi ş diril ə bil ə r.
+15.3. Təsisçisi (təsisçiləri) əcnəbilər, vətəndaşlığı olmayan şəxslər və ya xarici hüquqi şəxslər olan, o cümlədən nizamnamə kapitalının və ya səhmlərinin 51%-dən çoxu əcnəbilərə, vətəndaşlığı olmayan şəxslərə və ya xarici hüquqi şəxslərə məxsus təhsil müəssisəsinin rəhbərinin müavini Azərbaycan Respublikasının vətəndaşı olmalıdır. Bu təhsil müəssisəsinin rəhbərinin və onun müavininin namizədliyi müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanla (qurumla) razılaşdırılır. Həmin təhsil müəssisəsinin dövlət qeydiyyatına alınması təhsil müəssisəsi rəhbərinin və onun müavininin namizədliyi razılaşdırıldıqdan sonra həyata keçirilir.
 
-- 15.4. T ə sisçinin  m ə suliyy ə ti, s ə lahiyy ə t dair ə si v ə t ə hsil  mü ə ssis ə si il ə qar ş ılıqlı öhd ə likl ə ri Az ə rbaycan Respublikasının  Mülki  M ə c ə ll ə si,  'Publik  hüquqi şə xsl ə r  haqqında'  v ə 'T ə hsil  haqqında'  Az ə rbaycan  Respublikasının qanunları, t ə sis müqavil ə si v ə t ə hsil mü ə ssis ə sinin nizamnam ə si il ə mü ə yy ə n edilir.
+15.4. Təsisçinin məsuliyyəti, səlahiyyət dairəsi və təhsil müəssisəsi ilə qarşılıqlı öhdəlikləri Azərbaycan Respublikasının Mülki Məcəlləsi, “Publik hüquqi şəxslər haqqında” və “Təhsil haqqında” Azərbaycan Respublikasının qanunları, təsis müqaviləsi və təhsil müəssisəsinin nizamnaməsi ilə müəyyən edilir.
 
-### Madd ə 16. Ümumi t ə hsil f ə aliyy ə tinin lisenziyala ş dırılması v ə ümumi t ə hsil mü ə ssis ə sinin akkreditasiyası
+### Maddə 16. Ümumi təhsil fəaliyyətinin lisenziyalaşdırılması və ümumi təhsil müəssisəsinin akkreditasiyası
 
-- 16.1.  Az ə rbaycan Respublikasında ümumi t ə hsil  mü ə ssis ə sinin  (dövl ə t  ümumi t ə hsil  mü ə ssis ə l ə ri  istisna  olmaqla) t ə hsil  f ə aliyy ə ti  'Lisenziyalar  v ə icaz ə l ə r  haqqında'  Az ə rbaycan  Respublikasının  Qanununa  uy ğ un  olaraq  verilmi ş lisenziya ə sasında h ə yata keçirilir.
+16.1. Azərbaycan Respublikasında ümumi təhsil müəssisəsinin (dövlət ümumi təhsil müəssisələri istisna olmaqla) təhsil fəaliyyəti “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq verilmiş lisenziya əsasında həyata keçirilir.
 
-- 16.3.  Xarici  hüquqi şə xsl ə rin,  onların  filiallarının  v ə nümay ə nd ə likl ə rinin, ə cn ə bil ə rin  v ə v ə t ə nda ş lı ğ ı  olmayan şə xsl ə rin  öz  ölk ə l ə rind ə t ə hsil  f ə aliyy ə ti il ə m əşğ ul  olmaq  üçün  aldıqları  lisenziyaların  Az ə rbaycan  Respublikasında tanınması Az ə rbaycan Respublikasının t ə r ə fdar çıxdı ğ ı beyn ə lxalq müqavil ə l ə rl ə mü ə yy ə n edilir.
+16.2. Ümumi təhsil müəssisələrinə lisenziya müddətsiz verilir.
 
-- 16.2. Ümumi t ə hsil mü ə ssis ə l ə rin ə lisenziya müdd ə tsiz verilir.
+16.3. Xarici hüquqi şəxslərin, onların filiallarının və nümayəndəliklərinin, əcnəbilərin və vətəndaşlığı olmayan şəxslərin öz ölkələrində təhsil fəaliyyəti ilə məşğul olmaq üçün aldıqları lisenziyaların Azərbaycan Respublikasında tanınması Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrlə müəyyən edilir.
 
-- 16.4.  Ümumi  t ə hsil  mü ə ssis ə si  ümumi  t ə hsilin  dövl ə t  standartlarının  t ə l ə bl ə rini  yerin ə yetirm ə dikd ə ,  lisenziyası 'Lisenziyalar v ə icaz ə l ə r haqqında' Az ə rbaycan Respublikasının Qanununa uy ğ un olaraq dayandırılır v ə ya l əğ v edilir.
+16.4. Ümumi təhsil müəssisəsi ümumi təhsilin dövlət standartlarının tələblərini yerinə yetirmədikdə, lisenziyası “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq dayandırılır və ya ləğv edilir.
 
-- 16.6. T əş kilati-hüquqi v ə mülkiyy ə t  formasından asılı olmayaraq h ə r bir ümumi t ə hsil mü ə ssis ə si akkreditasiyadan keçirilir.
+16.5. Ümumi təhsil müəssisəsinin akkreditasiyası təhsil müəssisəsinin fəaliyyətinin qəbul olunmuş dövlət təhsil standartlarına, zəruri hallarda beynəlxalq standartlara və digər normativ hüquqi aktların tələblərinə uyğunluğunun yoxlanılması məqsədi ilə aparılır və ümumi təhsil müəssisəsinin fəaliyyətinin davam etdirilməsi, onun idarə olunması, maliyyələşdirilməsi və inkişafına dair qərarların qəbul olunmasına əsas yaradır.
 
-- 16.5.  Ümumi  t ə hsil  mü ə ssis ə sinin  akkreditasiyası  t ə hsil  mü ə ssis ə sinin  f ə aliyy ə tinin  q ə bul  olunmu ş dövl ə t  t ə hsil standartlarına,  z ə ruri  hallarda  beyn ə lxalq  standartlara  v ə dig ə r  normativ  hüquqi  aktların  t ə l ə bl ə rin ə uy ğ unlu ğ unun yoxlanılması m ə qs ə di  il ə aparılır  v ə ümumi t ə hsil  mü ə ssis ə sinin  f ə aliyy ə tinin  davam etdirilm ə si,  onun  idar ə olunması, maliyy ə l əş dirilm ə si v ə inki ş afına dair q ə rarların q ə bul olunmasına ə sas yaradır.
+16.6. Təşkilati-hüquqi və mülkiyyət formasından asılı olmayaraq hər bir ümumi təhsil müəssisəsi akkreditasiyadan keçirilir.
 
-- 16.7. Ümumi t ə hsil mü ə ssis ə l ə rinin akkreditasiyasına gör ə 'Dövl ə t  rüsumu haqqında' Az ə rbaycan Respublikasının Qanununa uy ğ un olaraq dövl ə t rüsumu tutulur.
+16.7. Ümumi təhsil müəssisələrinin akkreditasiyasına görə “Dövlət rüsumu haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq dövlət rüsumu tutulur.
 
-- 16.9.  Az ə rbaycan  Respublikasının  t ə r ə fdar  çıxdı ğ ı  beyn ə lxalq  müqavil ə l ə rd ə dig ə r  hal  n ə z ə rd ə tutulmamı ş dırsa, beyn ə lxalq akkreditasiyadan keçm ə ümumi t ə hsil mü ə ssis ə sini dövl ə t akkreditasiyasından keçm ə kd ə n azad etmir.
+16.8. Akkreditasiyadan keçən ümumi təhsil müəssisəsinə akkreditasiya şəhadətnaməsi verilir. Akkreditasiya şəhadətnaməsinin qüvvədə olma müddəti 5 (beş) ildir.
 
-- 16.8. Akkreditasiyadan  keç ə n  ümumi  t ə hsil  mü ə ssis ə sin ə akkreditasiya şə had ə tnam ə si verilir. Akkreditasiya şə had ə tnam ə sinin qüvv ə d ə olma müdd ə ti 5 (be ş ) ildir.
+16.9. Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdə digər hal nəzərdə tutulmamışdırsa, beynəlxalq akkreditasiyadan keçmə ümumi təhsil müəssisəsini dövlət akkreditasiyasından keçməkdən azad etmir.
 
-- 16.10.  Ümumi  t ə hsil  mü ə ssis ə si  akkreditasiyanın  keçirilm ə si  m ə qs ə dil ə t ə l ə b  olunan  m ə lumatların  müvafiq  icra hakimiyy ə ti orqanının mü ə yy ə n etdiyi orqanın (qurumun) mü ə yy ə n etdiyi qaydada t ə qdim olunmasına gör ə cavabdehlik da ş ıyır.
+16.10. Ümumi təhsil müəssisəsi akkreditasiyanın keçirilməsi məqsədilə tələb olunan məlumatların müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi qaydada təqdim olunmasına görə cavabdehlik daşıyır.
 
-- 16.11.  Ümumi t ə hsil  mü ə ssis ə sinin  akkreditasiyadan  keç ə bilm ə m ə si  onun  lisenziyasının  'Lisenziyalar  v ə icaz ə l ə r haqqında' Az ə rbaycan Respublikasının Qanununa uy ğ un olaraq l əğ vi üçün ə sasdır.
+16.11. Ümumi təhsil müəssisəsinin akkreditasiyadan keçə bilməməsi onun lisenziyasının “Lisenziyalar və icazələr haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq ləğvi üçün əsasdır.
 
-### Madd ə 17. Ümumi t ə hsil haqqında dövl ə t s ə n ə di
+### Maddə 17. Ümumi təhsil haqqında dövlət sənədi
 
-- 17.1. Ümumi t ə hsil mü ə ssis ə l ə rini ümumi t ə hsil pill ə sinin ümumi orta v ə tam orta s ə viyy ə l ə ri üzr ə bitir ə n şə xsl ə r ə müvafiq icra hakimiyy ə ti orqanının mü ə yy ə n etdiyi orqanın (qurumun) mü ə yy ə n etdiyi qaydada 'T ə hsil M ə rk ə zl əş dirilmi ş İ nformasiya Sistemi'nd ə elektron s ə n ə d formasında yaradılan müvafiq t ə hsil haqqında dövl ə t s ə n ə di attestat verilir. [9]
+17.1. Ümumi təhsil müəssisələrini ümumi təhsil pilləsinin ümumi orta və tam orta səviyyələri üzrə bitirən şəxslərə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi qaydada “Təhsil Mərkəzləşdirilmiş İnformasiya Sistemi”ndə elektron sənəd formasında yaradılan müvafiq təhsil haqqında dövlət sənədi – attestat verilir. [9]
 
-- 17.3.  Ümumi  t ə hsil  haqqında  dövl ə t  s ə n ə di  növb ə ti  s ə viyy ə d ə v ə pill ə d ə t ə hsili  davam  etdirm ə k  v ə ya ə m ə k f ə aliyy ə tin ə ba ş lamaq üçün ə sas sayılır.
+17.2. Ümumi təhsili başa vuran məzunlara nailiyyətlərinə görə attestat, fərqlənmə attestatı və xüsusi nümunəli attestat verilir. [10]
 
-- 17.2.  Ümumi  t ə hsili  ba ş a  vuran  m ə zunlara  nailiyy ə tl ə rin ə gör ə attestat,  f ə rql ə nm ə attestatı  v ə xüsusi  nümun ə li attestat verilir. [10]
+17.3. Ümumi təhsil haqqında dövlət sənədi növbəti səviyyədə və pillədə təhsili davam etdirmək və ya əmək fəaliyyətinə başlamaq üçün əsas sayılır.
 
-- 17.4.  Müxt ə lif  s ə b ə bl ə rd ə n  ümumi  orta  v ə ya  tam  orta  t ə hsil  s ə viyy ə sini  ba ş a  vurmayan şə xsl ə r ə müvafiq  icra hakimiyy ə ti orqanının mü ə yy ə n etdiyi orqanın (qurumun) mü ə yy ə n etdiyi qaydada 'T ə hsil M ə rk ə zl əş dirilmi ş İ nformasiya Sistemi'nd ə elektron s ə n ə d formasında yaradılan arayı ş verilir. [11]
+17.4. Müxtəlif səbəblərdən ümumi orta və ya tam orta təhsil səviyyəsini başa vurmayan şəxslərə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi qaydada “Təhsil Mərkəzləşdirilmiş İnformasiya Sistemi”ndə elektron sənəd formasında yaradılan arayış verilir. [11]
 
-### Madd ə 18. Ümumi t ə hsil mü ə ssis ə sind ə psixoloji xidm ə t
+### Maddə 18. Ümumi təhsil müəssisəsində psixoloji xidmət
 
-- 18.1. Ümumi t ə hsil mü ə ssis ə l ə rind ə 'T ə hsil haqqında' Az ə rbaycan Respublikasının Qanununa uy ğ un olaraq psixoloji xidm ə t  t əş kil  olunur  v ə 'Psixoloji  yardım  haqqında'  Az ə rbaycan  Respublikası  Qanununun  t ə l ə bl ə rin ə riay ə t  edilm ə kl ə
+18.1. Ümumi təhsil müəssisələrində “Təhsil haqqında” Azərbaycan Respublikasının Qanununa uyğun olaraq psixoloji xidmət təşkil olunur və “Psixoloji yardım haqqında” Azərbaycan Respublikası Qanununun tələblərinə riayət edilməklə
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-psixoloji yardım h ə yata keçirilir. [12]
+psixoloji yardım həyata keçirilir. [12]
 
-- 18.2. Ümumi t ə hsil mü ə ssis ə l ə rind ə psixoloji yardım ixtisaslı psixoloq (m ə kt ə b psixoloqu) t ə r ə find ə n h ə yata keçirilir. [13]
+18.2. Ümumi təhsil müəssisələrində psixoloji yardım ixtisaslı psixoloq (məktəb psixoloqu) tərəfindən həyata keçirilir. [13]
 
-- 18.3. Ümumi t ə hsil mü ə ssis ə l ə rind ə psixoloq ş tatının sayı müvafiq icra hakimiyy ə ti orqanının mü ə yy ə n etdiyi orqan (qurum) t ə r ə find ə n mü ə yy ə n edilir.
+18.3. Ümumi təhsil müəssisələrində psixoloq ştatının sayı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.
 
-### Madd ə 19. Ümumi t ə hsil mü ə ssis ə sind ə ia şə v ə tibbi xidm ə t
+### Maddə 19. Ümumi təhsil müəssisəsində iaşə və tibbi xidmət
 
-- 19.1.  Ümumi  t ə hsil  mü ə ssis ə l ə rind ə müvafiq  icra  hakimiyy ə ti orqanının  mü ə yy ə n  etdiyi  orqanın  (qurumun) mü ə yy ə n etdiyi qaydada ia şə v ə tibbi xidm ə t t əş kil edilir. [14]
+19.1. Ümumi təhsil müəssisələrində müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi qaydada iaşə və tibbi xidmət təşkil edilir. [14]
 
-- 19.3.  Mülkiyy ə t  növünd ə n  v ə tabeçiliyind ə n  asılı  olmayaraq  ümumi  t ə hsil  mü ə ssis ə l ə rind ə 'U ş aqların  icbari dispanserizasiyası  haqqında'  Az ə rbaycan  Respublikasının  Qanunu  il ə mü ə yy ə n  edilmi ş qaydada  t ə hsilalanların  icbari dispanserizasiyası h ə yata keçirilir.
+19.2. Mülkiyyət növündən və tabeliyindən asılı olmayaraq ümumi təhsil müəssisələrində təhsilalanlara müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi qaydada pulsuz tibbi xidmət göstərilir.
 
-- 19.2. Mülkiyy ə t növünd ə n v ə tabeliyind ə n asılı olmayaraq ümumi t ə hsil mü ə ssis ə l ə rind ə t ə hsilalanlara müvafiq icra hakimiyy ə ti orqanının mü ə yy ə n etdiyi orqanın (qurumun) mü ə yy ə n etdiyi qaydada pulsuz tibbi xidm ə t göst ə rilir.
+19.3. Mülkiyyət növündən və tabeçiliyindən asılı olmayaraq ümumi təhsil müəssisələrində “Uşaqların icbari dispanserizasiyası haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada təhsilalanların icbari dispanserizasiyası həyata keçirilir.
 
-- 19.4. İ cbari  dispanserizasiyanın  n ə tic ə l ə rin ə uy ğ un  olaraq,  t ə hsilalanlara  ambulator,  stasionar  v ə ya  sanatoriya şə raitind ə tibbi yardım göst ə rilir.
+19.4. İcbari dispanserizasiyanın nəticələrinə uyğun olaraq, təhsilalanlara ambulator, stasionar və ya sanatoriya şəraitində tibbi yardım göstərilir.
 
-- 19.6. Ümumi t ə hsil mü ə ssis ə l ə rind ə ia şə xidm ə ti t ə hsil mü ə ssis ə si il ə ia şə xidm ə ti göst ə r ə n hüquqi v ə ya fiziki şə xsl ə r arasında ba ğ lanan müqavil ə ə sasında h ə yata keçirilir.
+19.5. Ümumi təhsil müəssisələrində sanitar-gigiyenik normalara riayət edilməsinə, müalicə-profilaktika tədbirlərinin aparılmasına nəzarət müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən həyata keçirilir.
 
-- 19.5. Ümumi t ə hsil mü ə ssis ə l ə rind ə sanitar-gigiyenik normalara riay ə t edilm ə sin ə , müalic ə -profilaktika t ə dbirl ə rinin aparılmasına n ə zar ə t müvafiq icra hakimiyy ə ti orqanının mü ə yy ə n etdiyi orqan (qurum) t ə r ə find ə n h ə yata keçirilir.
+19.6. Ümumi təhsil müəssisələrində iaşə xidməti təhsil müəssisəsi ilə iaşə xidməti göstərən hüquqi və ya fiziki şəxslər arasında bağlanan müqavilə əsasında həyata keçirilir.
 
-## 3-cü f ə sil
+## 3-cü fəsil
+## ÜMUMİ TƏHSİL SİSTEMİNİN İDARƏ OLUNMASI, TƏHSİL SUBYEKTLƏRİNİN HÜQUQLARI, VƏZİFƏLƏRİ VƏ SOSİAL MÜDAFİƏSİ
 
-## ÜMUM İ T Ə HS İ L S İ STEM İ N İ N İ DAR Ə OLUNMASI, T Ə HS İ L SUBYEKTL Ə R İ N İ N HÜQUQLARI, V Ə Z İ F Ə L Ə R İ V Ə SOS İ AL MÜDAF İƏ S İ
+### Maddə 20. Ümumi təhsil müəssisəsinin idarə olunması
 
-### Madd ə 20. Ümumi t ə hsil mü ə ssis ə sinin idar ə olunması
+20.1. Ümumi təhsil müəssisəsi aşkarlıq, şəffaflıq və demokratiklik prinsipləri əsas tutulmaqla, “Təhsil haqqında”, “Publik hüquqi şəxslər haqqında” Azərbaycan Respublikasının qanunlarına, bu Qanuna və öz nizamnaməsinə uyğun olaraq idarə edilir.
 
-- 20.1.  Ümumi  t ə hsil  mü ə ssis ə si  a ş karlıq, şə ffaflıq  v ə demokratiklik  prinsipl ə ri ə sas  tutulmaqla,  'T ə hsil  haqqında', 'Publik  hüquqi şə xsl ə r  haqqında'  Az ə rbaycan  Respublikasının  qanunlarına,  bu  Qanuna  v ə öz  nizamnam ə sin ə uy ğ un olaraq idar ə edilir.
+20.2. Dövlət ümumi təhsil müəssisəsinə rəhbərliyi müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təyin edilmiş dövlət ümumi təhsil müəssisəsinin rəhbəri, bələdiyyə ümumi təhsil müəssisəsinə rəhbərliyi bələdiyyə tərəfindən təyin edilmiş bələdiyyə ümumi təhsil müəssisəsinin rəhbəri, özəl ümumi təhsil müəssisəsinə rəhbərliyi həmin təhsil müəssisəsinin təsisçisi (təsisçiləri) tərəfindən təyin edilmiş özəl ümumi təhsil müəssisəsinin rəhbəri həyata keçirir.
 
-- 20.3.  Ümumi  t ə hsil  mü ə ssis ə si  r ə hb ə rinin  s ə lahiyy ə tl ə ri  bu  Qanun, 'Publik  hüquqi şə xsl ə r  haqqında'  v ə 'T ə hsil haqqında' Az ə rbaycan Respublikasının qanunları v ə öz nizamnam ə si il ə mü ə yy ə n edilir. [15]
+20.3. Ümumi təhsil müəssisəsi rəhbərinin səlahiyyətləri bu Qanun, “Publik hüquqi şəxslər haqqında” və “Təhsil haqqında” Azərbaycan Respublikasının qanunları və öz nizamnaməsi ilə müəyyən edilir. [15]
 
-- 20.2.  Dövl ə t  ümumi  t ə hsil  mü ə ssis ə sin ə r ə hb ə rliyi  müvafiq  icra  hakimiyy ə ti  orqanının  mü ə yy ə n  etdiyi  orqan (qurum)  t ə r ə find ə n  t ə yin  edilmi ş dövl ə t  ümumi  t ə hsil  mü ə ssis ə sinin  r ə hb ə ri,  b ə l ə diyy ə ümumi  t ə hsil  mü ə ssis ə sin ə r ə hb ə rliyi  b ə l ə diyy ə t ə r ə find ə n t ə yin  edilmi ş b ə l ə diyy ə ümumi  t ə hsil  mü ə ssis ə sinin r ə hb ə ri,  öz ə l  ümumi  t ə hsil mü ə ssis ə sin ə r ə hb ə rliyi  h ə min  t ə hsil  mü ə ssis ə sinin  t ə sisçisi  (t ə sisçil ə ri)  t ə r ə find ə n  t ə yin  edilmi ş öz ə l  ümumi  t ə hsil mü ə ssis ə sinin r ə hb ə ri h ə yata keçirir.
+20.4. Dövlət ümumi təhsil müəssisəsində ali idarəetmə orqanı ictimai əsaslarla fəaliyyət göstərən Pedaqoji Şuradır. Pedaqoji Şura müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiq olunmuş əsasnaməyə və ümumi təhsil müəssisəsinin nizamnaməsinə uyğun fəaliyyət göstərir.
 
-- 20.4. Dövl ə t ümumi t ə hsil mü ə ssis ə sind ə ali  idar ə etm ə orqanı ictimai ə saslarla f ə aliyy ə t göst ə r ə n Pedaqoji Ş uradır. Pedaqoji Ş ura müvafiq icra hakimiyy ə ti orqanının mü ə yy ə n etdiyi orqan (qurum) t ə r ə find ə n t ə sdiq olunmu ş ə sasnam ə y ə v ə ümumi t ə hsil mü ə ssis ə sinin nizamnam ə sin ə uy ğ un f ə aliyy ə t göst ə rir.
+20.5. Bələdiyyə və özəl ümumi təhsil müəssisəsində ali idarəetmə orqanı həmin təhsil müəssisəsinin nizamnaməsi ilə müəyyən olunur.
 
-- 20.6.  Ümumi  t ə hsil  mü ə ssis ə sinin  idar ə olunmasında  demokratikliyi  v ə şə ffaflı ğ ı  t ə min  etm ə k  m ə qs ə di  il ə t ə hsil mü ə ssis ə sind ə dig ə r özünüidar ə orqanları (himay ə çil ə r, q ə yyumlar, valideynl ə r v ə s. ş uralar) yaradıla bil ə r.
+20.6. Ümumi təhsil müəssisəsinin idarə olunmasında demokratikliyi və şəffaflığı təmin etmək məqsədi ilə təhsil müəssisəsində digər özünüidarə orqanları (himayəçilər, qəyyumlar, valideynlər və s. şuralar) yaradıla bilər.
 
-- 20.5. B ə l ə diyy ə v ə öz ə l ümumi t ə hsil mü ə ssis ə sind ə ali idar ə etm ə orqanı h ə min t ə hsil mü ə ssis ə sinin nizamnam ə si il ə mü ə yy ə n olunur.
+### Maddə 21. Ümumi təhsil prosesinin iştirakçıları
 
-### Madd ə 21. Ümumi t ə hsil prosesinin i ş tirakçıları
+21.0. Ümumi təhsil prosesinin iştirakçıları aşağıdakılardır:
 
-- 21.0. Ümumi t ə hsil prosesinin i ş tirakçıları a ş a ğ ıdakılardır:
+21.0.1. təsisçilər;
 
-- 21.0.2. t ə hsilalanlar (u ş aqlar, ş agirdl ə r);
+21.0.2. təhsilalanlar (uşaqlar, şagirdlər);
 
-- 21.0.1. t ə sisçil ə r;
+21.0.3. təhsilverənlər (pedaqoji işçilər) – müəllimlər, məsləhətçilər, tərbiyəçilər, müəllim köməkçiləri, çağırışaqədərki hazırlıq rəhbərləri, defektoloqlar, loqopedlər, praktik psixoloqlar, sosioloq-pedaqoqlar, uşaq birliyi rəhbərləri, laborantlar, kitabxanaçılar, sosial xidmət sahəsinin işçiləri, təhsil müəssisəsinin dərnək və musiqi rəhbərləri, metodistlər, təhsil müəssisəsində çalışan konsertmeysterlər və məşqçilər, ümumi təhsil müəssisələrində pedaqoji və idarəetmə fəaliyyəti ilə məşğul olan digər şəxslər;
 
-- 21.0.3. t ə hsilver ə nl ə r (pedaqoji i ş çil ə r) -mü ə lliml ə r,  m ə sl ə h ə tçil ə r, t ə rbiy ə çil ə r, mü ə llim köm ə kçil ə ri, ça ğ ırı ş aq ə d ə rki  hazırlıq  r ə hb ə rl ə ri,  defektoloqlar,  loqopedl ə r,  praktik  psixoloqlar,  sosioloq-pedaqoqlar,  u ş aq  birliyi r ə hb ə rl ə ri,  laborantlar, kitabxanaçılar, sosial xidm ə t  sah ə sinin i ş çil ə ri,  t ə hsil mü ə ssis ə sinin d ə rn ə k v ə musiqi r ə hb ə rl ə ri, metodistl ə r,  t ə hsil  mü ə ssis ə sind ə çalı ş an  konsertmeysterl ə r  v ə m əş qçil ə r,  ümumi  t ə hsil  mü ə ssis ə l ə rind ə pedaqoji  v ə idar ə etm ə f ə aliyy ə ti il ə m əşğ ul olan dig ə r şə xsl ə r;
+21.0.4. tədrisə köməkçi heyət – tibbi xidmət işçiləri və digər işçilər;
 
-- 21.0.5. valideynl ə r v ə ya dig ə r qanuni nümay ə nd ə l ə r;
+21.0.5. valideynlər və ya digər qanuni nümayəndələr;
 
-- 21.0.4. t ə dris ə köm ə kçi hey ə t - tibbi xidm ə t i ş çil ə ri v ə dig ə r i ş çil ə r;
+21.0.6. təhsili idarəetmə orqanları və bələdiyyələr;
 
-- 21.0.6. t ə hsili idar ə etm ə orqanları v ə b ə l ə diyy ə l ə r;
+21.0.7. ümumi təhsil müəssisəsi ilə təhsil sahəsində əməkdaşlıq edən digər fiziki və hüquqi şəxslər.
 
-- 21.0.7. ümumi t ə hsil mü ə ssis ə si il ə t ə hsil sah ə sind ə ə m ə kda ş lıq ed ə n dig ə r fiziki v ə hüquqi şə xsl ə r.
+### Maddə 22. Ümumi təhsil sahəsində təhsilalanların hüquq və vəzifələri
 
-### Madd ə 22. Ümumi t ə hsil sah ə sind ə t ə hsilalanların hüquq v ə v ə zif ə l ə ri
-
-- 22.1.  Ümumi  t ə hsil  sah ə sind ə t ə hsilalanların  hüquqları  Az ə rbaycan  Respublikasının  Konstitusiyasına,  'T ə hsil haqqında'  Az ə rbaycan  Respublikasının  Qanununa,  bu  Qanuna,  h ə mçinin  Az ə rbaycan  Respublikasının  t ə r ə fdar  çıxdı ğ ı beyn ə lxalq müqavil ə l ə r ə uy ğ un olaraq mü ə yy ə n edilir.
+22.1. Ümumi təhsil sahəsində təhsilalanların hüquqları Azərbaycan Respublikasının Konstitusiyasına, “Təhsil haqqında” Azərbaycan Respublikasının Qanununa, bu Qanuna, həmçinin Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrə uyğun olaraq müəyyən edilir.
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
-- 22.2. Ümumi t ə hsil sah ə sind ə t ə hsilalanların a ş a ğ ıdakı hüquqları vardır:
+22.2. Ümumi təhsil sahəsində təhsilalanların aşağıdakı hüquqları vardır:
 
-- 22.2.2.  t ə hsil  mü ə ssis ə sini,  t ə dris  dilini,  xarici  dili,  tam  orta  t ə hsil  s ə viyy ə sind ə t ə hsilin  t ə mayülünü, t ə dris  olunan d ə rsd ə nk ə nar m əşğə l ə l ə ri (fakültativ kursları) s ə rb ə st seçm ə k;
+22.2.1. həyat və sağlamlıq üçün təhlükəsiz şəraitdə, mənəvi-psixoloji cəhətdən sağlam pedaqoji mühitdə dövlət təhsil standartlarına uyğun keyfiyyətli təhsil almaq;
 
-- 22.2.1.  h ə yat  v ə sa ğ lamlıq  üçün  t ə hlük ə siz şə raitd ə ,  m ə n ə vi-psixoloji  c ə h ə td ə n  sa ğ lam  pedaqoji  mühitd ə dövl ə t t ə hsil standartlarına uy ğ un keyfiyy ə tli t ə hsil almaq;
+22.2.2. təhsil müəssisəsini, tədris dilini, xarici dili, tam orta təhsil səviyyəsində təhsilin təmayülünü, tədris olunan dərsdənkənar məşğələləri (fakültativ kursları) sərbəst seçmək;
 
-- 22.2.3. dövl ə t v ə b ə l ə diyy ə ümumi t ə hsil mü ə ssis ə l ə rind ə d ə rslikl ə rl ə pulsuz t ə min olunmaq;
+22.2.3. dövlət və bələdiyyə ümumi təhsil müəssisələrində dərsliklərlə pulsuz təmin olunmaq;
 
-- 22.2.5.  t ə hsil  prosesinin t əş kilind ə v ə idar ə olunmasında f ə al  i ş tirak  etm ə k,  öz  fikir  v ə mülahiz ə l ə rini  s ə rb ə st  ifad ə etm ə k;
+22.2.4. müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi qaydada biliyinin yenidən qiymətləndirilməsini tələb etmək;
 
-- 22.2.4.  müvafiq  icra  hakimiyy ə ti  orqanının  mü ə yy ə n  etdiyi  orqanın  (qurumun)  mü ə yy ə n  etdiyi  qaydada  biliyinin yenid ə n qiym ə tl ə ndirilm ə sini t ə l ə b etm ə k;
+22.2.5. təhsil prosesinin təşkilində və idarə olunmasında fəal iştirak etmək, öz fikir və mülahizələrini sərbəst ifadə etmək;
 
-- 22.2.6. şə r ə f  v ə l ə yaq ə ti  a ş a ğ ılayan,  fiziki,  m ə n ə vi  v ə psixoloji  zorakılıq  hallarından,  insan  hüquqlarına  zidd h ə r ə k ə tl ə rd ə n müdafi ə olunmaq;
+22.2.6. şərəf və ləyaqəti aşağılayan, fiziki, mənəvi və psixoloji zorakılıq hallarından, insan hüquqlarına zidd hərəkətlərdən müdafiə olunmaq;
 
-- 22.2.7.  ümumi  t ə hsil  mü ə ssis ə sinin  mövcud  infrastrukturundan  (t ə dris,  informasiya,  m ə d ə ni-m ə i şə t,  idman, sa ğ lamlıq m ə rk ə zl ə rind ə n, laboratoriyalardan, kitabxanalardan v ə s.) istifad ə etm ə k;
+22.2.6-1. “Psixoloji yardım haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada ödənişsiz psixoloji yardım almaq; [16]
 
-22.2.6-1. 'Psixoloji yardım haqqında' Az ə rbaycan Respublikasının Qanunu il ə mü ə yy ə n edilmi ş qaydada öd ə ni ş siz psixoloji yardım almaq; [16]
+22.2.7. ümumi təhsil müəssisəsinin mövcud infrastrukturundan (tədris, informasiya, mədəni-məişət, idman, sağlamlıq mərkəzlərindən, laboratoriyalardan, kitabxanalardan və s.) istifadə etmək;
 
-- 22.2.8.  bilik  v ə bacarıqlarını  t ə kmill əş dirm ə k  üçün  m ə kt ə bd ə nk ə nar  t ə hsil  mü ə ssis ə l ə rinin  imkanlarından  istifad ə etm ə k;
+22.2.8. bilik və bacarıqlarını təkmilləşdirmək üçün məktəbdənkənar təhsil müəssisələrinin imkanlarından istifadə etmək;
 
-- 22.2.10.  t ə hsill ə ba ğ lı  inki ş afyönlü  t ə dbirl ə rd ə (olimpiada,  bilik  yarı ş ları,  f ə nn  müsabiq ə l ə ri,  konfrans,  seminar, proqram v ə layih ə l ə r) i ş tirak etm ə k;
+22.2.9. ümumi təhsil müəssisəsinin ictimai, sosial və mədəni həyatında iştirak etmək;
 
-- 22.2.9. ümumi t ə hsil mü ə ssis ə sinin ictimai, sosial v ə m ə d ə ni h ə yatında i ş tirak etm ə k;
+22.2.10. təhsillə bağlı inkişafyönlü tədbirlərdə (olimpiada, bilik yarışları, fənn müsabiqələri, konfrans, seminar, proqram və layihələr) iştirak etmək;
 
-- 22.2.11. qanunda n ə z ə rd ə tutulmu ş dig ə r hüquqlardan istifad ə etm ə k.
+22.2.11. qanunda nəzərdə tutulmuş digər hüquqlardan istifadə etmək.
 
-- 22.4. Ümumi t ə hsil sah ə sind ə t ə hsilalanların v ə zif ə l ə ri a ş a ğ ıdakılardır:
+22.3. Ümumi təhsil müəssisələri şagirdlərinin təhsil prosesi ilə bağlı olmayan işlərə və tədbirlərə cəlb edilməsinə yol verilmir.
 
-- 22.3. Ümumi t ə hsil mü ə ssis ə l ə ri ş agirdl ə rinin t ə hsil prosesi il ə ba ğ lı olmayan i ş l ə r ə v ə t ə dbirl ə r ə c ə lb edilm ə sin ə yol verilmir.
+22.4. Ümumi təhsil sahəsində təhsilalanların vəzifələri aşağıdakılardır:
 
-- 22.4.1. dövl ə t t ə hsil standartlarına uy ğ un bilik, bacarıq v ə v ə rdi ş l ə r ə yiy ə l ə nm ə k;
+22.4.1. dövlət təhsil standartlarına uyğun bilik, bacarıq və vərdişlərə yiyələnmək;
 
-- 22.4.3. t ə hsil mü ə ssis ə sinin nizamnam ə sinin t ə l ə bl ə rin ə , daxili intizam qaydalarına ə m ə l etm ə k;
+22.4.2. üzrsüz səbəblərdən dərsdənyayınma hallarına yol verməmək, verilən tapşırıqları vaxtında və keyfiyyətlə yerinə yetirmək;
 
-- 22.4.2.  üzrsüz  s ə b ə bl ə rd ə n  d ə rsd ə nyayınma  hallarına  yol  verm ə m ə k,  veril ə n  tap ş ırıqları  vaxtında  v ə keyfiyy ə tl ə yerin ə yetirm ə k;
+22.4.3. təhsil müəssisəsinin nizamnaməsinin tələblərinə, daxili intizam qaydalarına əməl etmək;
 
-- 22.4.4. pedaqoji i ş çil ə r ə , pedaqoji prosesin dig ə r i ş tirakçılarına, bütün insanlara hörm ə t v ə ehtiramla yana ş maq;
+22.4.4. pedaqoji işçilərə, pedaqoji prosesin digər iştirakçılarına, bütün insanlara hörmət və ehtiramla yanaşmaq;
 
-- 22.4.6. öz m ə kt ə b yolda ş ları il ə t ə hsild ə ə m ə kda ş lıq etm ə k;
+22.4.5. dövlət, cəmiyyət, ailə və özü qarşısında öz məsuliyyətini dərk etmək;
 
-- 22.4.5. dövl ə t, c ə miyy ə t, ail ə v ə özü qar ş ısında öz m ə suliyy ə tini d ə rk etm ə k;
+22.4.6. öz məktəb yoldaşları ilə təhsildə əməkdaşlıq etmək;
 
-- 22.4.7. sa ğ lam h ə yat t ə rzi keçirm ə k;
+22.4.7. sağlam həyat tərzi keçirmək;
 
-- 22.4.8. qanunda n ə z ə rd ə tutulmu ş dig ə r v ə zif ə l ə ri yerin ə yetirm ə k.
+22.4.8. qanunda nəzərdə tutulmuş digər vəzifələri yerinə yetirmək.
 
-### Madd ə 23. Ümumi t ə hsil sah ə sind ə t ə hsilver ə nl ə rin hüquq v ə v ə zif ə l ə ri
+### Maddə 23. Ümumi təhsil sahəsində təhsilverənlərin hüquq və vəzifələri
 
-- 23.1.  Ümumi  t ə hsil  sah ə sind ə t ə hsilver ə nl ə rin  hüquq  v ə v ə zif ə l ə ri  Az ə rbaycan  Respublikasının  Konstitusiyası,  bu Qanun  v ə dig ə r  normativ  hüquqi  aktlar,  Az ə rbaycan  Respublikasının  t ə r ə fdar  çıxdı ğ ı  beyn ə lxalq  müqavil ə l ə r,  t ə hsil mü ə ssis ə sinin  nizamnam ə si  v ə daxili  intizam  qaydaları,  el ə c ə d ə i şə götür ə nl ə t ə hsilver ə n  arasında  ba ğ lanılan ə m ə k müqavil ə si il ə t ə nziml ə nir.
+23.1. Ümumi təhsil sahəsində təhsilverənlərin hüquq və vəzifələri Azərbaycan Respublikasının Konstitusiyası, bu Qanun və digər normativ hüquqi aktlar, Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələr, təhsil müəssisəsinin nizamnaməsi və daxili intizam qaydaları, eləcə də işəgötürənlə təhsilverən arasında bağlanılan əmək müqaviləsi ilə tənzimlənir.
 
-- 23.2.1. t ə hlük ə siz i ş v ə normal t ə hsil şə raiti il ə t ə min olunmaq;
+23.2. Ümumi təhsil sahəsində təhsilverənlərin hüquqları aşağıdakılardır:
 
-- 23.2. Ümumi t ə hsil sah ə sind ə t ə hsilver ə nl ə rin hüquqları a ş a ğ ıdakılardır:
+23.2.1. təhlükəsiz iş və normal təhsil şəraiti ilə təmin olunmaq;
 
-- 23.2.2. t ə hsil mü ə ssis ə sinin nizamnam ə sin ə uy ğ un olaraq t ə hsil prosesinin t əş kilind ə v ə idar ə olunmasında i ş tirak etm ə k, t ə klifl ə r ir ə li sürm ə k;
+23.2.2. təhsil müəssisəsinin nizamnaməsinə uyğun olaraq təhsil prosesinin təşkilində və idarə olunmasında iştirak etmək, təkliflər irəli sürmək;
 
-- 23.2.4. t ə drisin forma, metod v ə vasit ə l ə rini s ə rb ə st seçm ə k, t ə dris-metodik v ə saitl ə rl ə t ə min olunmaq;
+23.2.3. şərəf və ləyaqətinə hörmətlə yanaşılmasını tələb etmək;
 
-- 23.2.3. şə r ə f v ə l ə yaq ə tin ə hörm ə tl ə yana ş ılmasını t ə l ə b etm ə k;
+23.2.4. tədrisin forma, metod və vasitələrini sərbəst seçmək, tədris-metodik vəsaitlərlə təmin olunmaq;
 
-- 23.2.5. yeni ixtisas almaq, staj keçm ə k, ixtisas v ə elmi d ə r ə c ə sini yüks ə ltm ə k;
+23.2.5. yeni ixtisas almaq, staj keçmək, ixtisas və elmi dərəcəsini yüksəltmək; [17]
 
-[17]
+23.2.6. mükafatlandırılmaq və təltif olunmaq;
 
-- 23.2.7. t ə hsil mü ə ssis ə sind ə v ə zif ə tutmaq, seçkili v ə zif ə l ə r ə seçm ə k v ə seçilm ə k;
+23.2.7. təhsil müəssisəsində vəzifə tutmaq, seçkili vəzifələrə seçmək və seçilmək;
 
-- 23.2.6. mükafatlandırılmaq v ə t ə ltif olunmaq;
+23.2.8. qanunda nəzərdə tutulmuş digər hüquqları həyata keçirmək.
 
-- 23.2.8. qanunda n ə z ə rd ə tutulmu ş dig ə r hüquqları h ə yata keçirm ə k.
+23.3. Ümumi təhsil sahəsində təhsilverənlərin vəzifələri aşağıdakılardır:
 
-- 23.3.1. ümumi t ə hsil sah ə sind ə dövl ə t siyas ə tinin h ə yata keçirilm ə sind ə i ş tirak etm ə k;
+23.3.1. ümumi təhsil sahəsində dövlət siyasətinin həyata keçirilməsində iştirak etmək;
 
-- 23.3. Ümumi t ə hsil sah ə sind ə t ə hsilver ə nl ə rin v ə zif ə l ə ri a ş a ğ ıdakılardır:
+23.3.2. “Təhsil haqqında” Azərbaycan Respublikasının Qanunu ilə müəyyən edilmiş qaydada sertifikatlaşdırılmadan keçmək;
 
-- 23.3.2. 'T ə hsil haqqında' Az ə rbaycan Respublikasının Qanunu il ə mü ə yy ə n edilmi ş qaydada sertifikatla ş dırılmadan keçm ə k;
+23.3.3. təhsil proqramlarının (kurikulumların) mənimsənilməsini təmin etmək, keyfiyyətli təhsil vermək;
 
-- 23.3.4. ixtisasını  artırmaq,  qabaqcıl  pedaqoji  t ə crüb ə l ə ri, müasir  interaktiv t ə lim  metodlarını,  innovasiyaları öyr ə nm ə k v ə t ə tbiq etm ə k;
+23.3.4. ixtisasını artırmaq, qabaqcıl pedaqoji təcrübələri, müasir interaktiv təlim metodlarını, innovasiyaları öyrənmək və tətbiq etmək;
 
-- 23.3.3. t ə hsil proqramlarının (kurikulumların) m ə nims ə nilm ə sini t ə min etm ə k, keyfiyy ə tli t ə hsil verm ə k;
+23.3.5. ümumi təhsil müəssisəsinin daxili intizam qaydalarına əməl etmək və əmək müqaviləsi ilə müəyyənləşdirilmiş əmək funksiyalarını yerinə yetirmək;
 
-- 23.3.5. ümumi t ə hsil  mü ə ssis ə sinin daxili intizam qaydalarına ə m ə l etm ə k v ə ə m ə k müqavil ə si il ə mü ə yy ə nl əş dirilmi ş ə m ə k funksiyalarını yerin ə yetirm ə k;
+23.3.6. təhsilalanlarda Azərbaycan Respublikasının müstəqilliyinə, Konstitusiyasına və qanunlarına, dövlət rəmzlərinə, Azərbaycan xalqının tarixinə, mədəniyyətinə, dilinə, adət və ənənələrinə, Azərbaycan xalqının dəyərlərinə və ümumbəşəri dəyərlərə, cəmiyyətə, ətraf mühitə hörmət və qayğı hissləri aşılamaq;
 
-- 23.3.7.  t ə hsilalanlarda  f ə al  v ə t ə nda ş mövqeyi  formala ş dırmaq,  onları  v ə t ə np ə rv ə rlik  v ə az ə rbaycançılıq  ruhunda t ə rbiy ə etm ə k, müst ə qil h ə yata v ə ə m ə k f ə aliyy ə tin ə hazırlamaq;
+23.3.7. təhsilalanlarda fəal vətəndaş mövqeyi formalaşdırmaq, onları vətənpərvərlik və azərbaycançılıq ruhunda tərbiyə etmək, müstəqil həyata və əmək fəaliyyətinə hazırlamaq;
 
-- 23.3.6. t ə hsilalanlarda Az ə rbaycan Respublikasının müst ə qilliyin ə , Konstitusiyasına v ə qanunlarına, dövl ə t r ə mzl ə rin ə , Az ə rbaycan xalqının tarixin ə , m ə d ə niyy ə tin ə , dilin ə , ad ə t v ə ə n ə n ə l ə rin ə , Az ə rbaycan xalqının d ə y ə rl ə rin ə v ə ümumb əşə ri d ə y ə rl ə r ə , c ə miyy ə t ə , ə traf mühit ə hörm ə t v ə qay ğ ı hissl ə ri a ş ılamaq;
+23.3.8. etik davranış qaydalarına, pedaqoji etika və əxlaq normalarına riayət etmək, müəllim nüfuzunu yüksək tutmaq, ziyalılıq nümunəsi göstərmək, təhsilalanların şərəf və ləyaqətinə hörmətlə yanaşmaq;
 
-- 23.3.8.  etik  davranı ş qaydalarına,  pedaqoji  etika  v ə ə xlaq  normalarına  riay ə t  etm ə k,  mü ə llim  nüfuzunu  yüks ə k tutmaq, ziyalılıq nümun ə si göst ə rm ə k, t ə hsilalanların şə r ə f v ə l ə yaq ə tin ə hörm ə tl ə yana ş maq;
-
-- 23.3.9.  t ə hsilalanları  fiziki  v ə psixi  zorakılı ğ ın  bütün  formalarından  qorumaq  v ə z ə r ə rli  v ə rdi ş l ə rd ə n  ç ə kindirm ə k,
+23.3.9. təhsilalanları fiziki və psixi zorakılığın bütün formalarından qorumaq və zərərli vərdişlərdən çəkindirmək,
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
-t ə hsilalanların t ə hlük ə sizliyinin v ə sa ğ lamlı ğ ının mühafiz ə sind ə i ş tirak etm ə k;
+təhsilalanların təhlükəsizliyinin və sağlamlığının mühafizəsində iştirak etmək;
 
-- 23.3.11. valideynl ə rl ə ə m ə kda ş lıq etm ə k, t ə hsilalanların t ə lim nailiyy ə tl ə ri bar ə d ə valideynl ə ri m ə lumatlandırmaq;
+23.3.10. əlavə məşğələlər, sinifdənxaric və məktəbdənkənar tədbirlər keçirmək;
 
-- 23.3.10. ə lav ə m əşğə l ə l ə r, sinifd ə nxaric v ə m ə kt ə bd ə nk ə nar t ə dbirl ə r keçirm ə k;
+23.3.11. valideynlərlə əməkdaşlıq etmək, təhsilalanların təlim nailiyyətləri barədə valideynləri məlumatlandırmaq;
 
-- 23.3.12. m ə kt ə b r ə hb ə rliyi, m ə kt ə b psixoloqu v ə h ə mkarları il ə ə m ə kda ş lıq etm ə k, t ə hsilalanların t ə limi v ə inki ş afı il ə ba ğ lı m ə sl ə h ə tl əş m ə l ə r aparmaq;
+23.3.12. məktəb rəhbərliyi, məktəb psixoloqu və həmkarları ilə əməkdaşlıq etmək, təhsilalanların təlimi və inkişafı ilə bağlı məsləhətləşmələr aparmaq;
 
-- 23.3.13. qanunda n ə z ə rd ə tutulmu ş dig ə r v ə zif ə l ə ri yerin ə yetirm ə k.
+23.3.13. qanunda nəzərdə tutulmuş digər vəzifələri yerinə yetirmək.
 
-### Madd ə 24. Ümumi t ə hsil sah ə sind ə valideynl ə rin v ə ya dig ə r qanuni nümay ə nd ə l ə rin hüquq v ə v ə zif ə l ə ri
+### Maddə 24. Ümumi təhsil sahəsində valideynlərin və ya digər qanuni nümayəndələrin hüquq və vəzifələri
 
-- 24.1. Ümumi t ə hsil sah ə sind ə valideynl ə rin v ə ya dig ə r qanuni nümay ə nd ə l ə rin hüquqları a ş a ğ ıdakılardır:
+24.1. Ümumi təhsil sahəsində valideynlərin və ya digər qanuni nümayəndələrin hüquqları aşağıdakılardır:
 
-- 24.1.2. t ə hsil prosesinin t əş kili,  t ə drisin keyfiyy ə ti,  övladlarının (q ə yyumlu ğ unda v ə ya  himay ə sind ə olan şə xsl ə rin) d ə rs ə davamiyy ə ti, t ə hsil ə mara ğ ı v ə davranı ş ı haqqında m ə lumat almaq;
+24.1.1. yetkinlik yaşına çatmayan övladları (qəyyumluğunda və ya himayəsində olan şəxslər) üçün təlim-tərbiyə müəssisəsini seçmək;
 
-- 24.1.1.  yetkinlik  ya ş ına  çatmayan  övladları  (q ə yyumlu ğ unda  v ə ya  himay ə sind ə olan şə xsl ə r)  üçün  t ə lim-t ə rbiy ə mü ə ssis ə sini seçm ə k;
+24.1.2. təhsil prosesinin təşkili, tədrisin keyfiyyəti, övladlarının (qəyyumluğunda və ya himayəsində olan şəxslərin) dərsə davamiyyəti, təhsilə marağı və davranışı haqqında məlumat almaq;
 
-- 24.1.3. t ə hsilalanların hüquqlarını müdafi ə etm ə k, t ə hsil mü ə ssis ə sinin idar ə olunmasında i ş tirak etm ə k;
+24.1.3. təhsilalanların hüquqlarını müdafiə etmək, təhsil müəssisəsinin idarə olunmasında iştirak etmək;
 
-- 24.1.5. qanunda n ə z ə rd ə tutulmu ş dig ə r hüquqları h ə yata keçirm ə k.
+24.1.4. təhsil müəssisəsi ilə əməkdaşlıq etmək, tədris prosesinin təkmilləşdirilməsi və maddi-texniki bazasının yaxşılaşdırılması üçün təkliflər irəli sürmək və könüllü yardımlar etmək;
 
-- 24.1.4.  t ə hsil  mü ə ssis ə si  il ə ə m ə kda ş lıq  etm ə k,  t ə dris  prosesinin  t ə kmill əş dirilm ə si  v ə maddi-texniki  bazasının yax ş ıla ş dırılması üçün t ə klifl ə r ir ə li sürm ə k v ə könüllü yardımlar etm ə k;
+24.1.5. qanunda nəzərdə tutulmuş digər hüquqları həyata keçirmək.
 
-- 24.2. Valideynl ə rin v ə ya dig ə r qanuni nümay ə nd ə l ə rin ümumi t ə hsil sah ə sind ə v ə zif ə l ə ri a ş a ğ ıdakılardır:
+24.2. Valideynlərin və ya digər qanuni nümayəndələrin ümumi təhsil sahəsində vəzifələri aşağıdakılardır:
 
-- 24.2.2.  övladlarını  (q ə yyumlu ğ unda v ə ya  himay ə sind ə olan şə xsl ə ri)  humanistlik,  v ə t ə np ə rv ə rlik,  az ə rbaycançılıq, ə m ə ksev ə rlik,  öz  dilin ə , ə d ə biyyatına  v ə tarixin ə ,  Az ə rbaycan  xalqının  d ə y ə rl ə rin ə v ə ümumb əşə ri  d ə y ə rl ə r ə hörm ə t ruhunda t ə rbiy ə etm ə k;
+24.2.1. övladlarının (qəyyumluğunda və ya himayəsində olan şəxslərin) erkən yaşlarından fiziki, əxlaqi və intellektual inkişafına şərait yaradılması, onların icbari ümumi orta təhsil almasının təmin olunması və mənəvi yetkinliyi üçün məsuliyyət daşımaq;
 
-- 24.2.1. övladlarının (q ə yyumlu ğ unda v ə ya himay ə sind ə olan şə xsl ə rin) erk ə n ya ş larından fiziki, ə xlaqi v ə intellektual inki ş afına şə rait  yaradılması,  onların  icbari  ümumi  orta  t ə hsil  almasının  t ə min  olunması  v ə m ə n ə vi  yetkinliyi  üçün m ə suliyy ə t da ş ımaq;
+24.2.2. övladlarını (qəyyumluğunda və ya himayəsində olan şəxsləri) humanistlik, vətənpərvərlik, azərbaycançılıq, əməksevərlik, öz dilinə, ədəbiyyatına və tarixinə, Azərbaycan xalqının dəyərlərinə və ümumbəşəri dəyərlərə hörmət ruhunda tərbiyə etmək;
 
-- 24.2.3. m ə kt ə b kollektivi il ə ə m ə kda ş lıq etm ə k, ümumi t ə hsil mü ə ssis ə sinin daxili intizam qaydalarına riay ə t etm ə k, i ş güzar nüfuzunu qorumaq;
+24.2.3. məktəb kollektivi ilə əməkdaşlıq etmək, ümumi təhsil müəssisəsinin daxili intizam qaydalarına riayət etmək, işgüzar nüfuzunu qorumaq;
 
-- 24.3. Övladını t ə hsild ə n yayındıran valideynl ə r bu Qanuna uy ğ un olaraq m ə suliyy ə t da ş ıyırlar.
+24.2.4. qanunda nəzərdə tutulmuş digər vəzifələri yerinə yetirmək.
 
-- 24.2.4. qanunda n ə z ə rd ə tutulmu ş dig ə r v ə zif ə l ə ri yerin ə yetirm ə k.
+24.3. Övladını təhsildən yayındıran valideynlər bu Qanuna uyğun olaraq məsuliyyət daşıyırlar.
 
-### Madd ə 25. Ümumi t ə hsil mü ə ssis ə sind ə t ə hsilalanların sosial müdafi ə si
+### Maddə 25. Ümumi təhsil müəssisəsində təhsilalanların sosial müdafiəsi
 
-- 25.1. Dövl ə t v ə b ə l ə diyy ə ümumi t ə hsil mü ə ssis ə l ə rind ə t ə hsilalanlar d ə rslikl ə rl ə dövl ə t hesabına t ə min olunurlar.
+25.1. Dövlət və bələdiyyə ümumi təhsil müəssisələrində təhsilalanlar dərsliklərlə dövlət hesabına təmin olunurlar.
 
-- 25.3. Ümumi t ə hsil mü ə ssis ə l ə rind ə t ə hsilalanlar üçün bu Qanuna, 'T ə hsil haqqında' Az ə rbaycan Respublikasının Qanununa, Az ə rbaycan Respublikasının dig ə r qanunlarına v ə ümumi t ə hsil mü ə ssis ə sinin nizamnam ə sin ə uy ğ un olaraq dig ə r sosial müdafi ə t ə dbirl ə ri d ə t ə tbiq edil ə bil ə r.
+25.2. Özəl ümumi təhsil müəssisələrində təhsilalanların sosial müdafiəsi müəssisənin nizamnaməsi ilə müəyyən edilir.
 
-- 25.2.  Öz ə l  ümumi  t ə hsil  mü ə ssis ə l ə rind ə t ə hsilalanların  sosial  müdafi ə si  mü ə ssis ə nin  nizamnam ə si  il ə mü ə yy ə n edilir.
+25.3. Ümumi təhsil müəssisələrində təhsilalanlar üçün bu Qanuna, “Təhsil haqqında” Azərbaycan Respublikasının Qanununa, Azərbaycan Respublikasının digər qanunlarına və ümumi təhsil müəssisəsinin nizamnaməsinə uyğun olaraq digər sosial müdafiə tədbirləri də tətbiq edilə bilər.
 
-### Madd ə 26. Ümumi t ə hsil sah ə sind ə t ə hsilver ə nl ə rin sosial müdafi ə si
+### Maddə 26. Ümumi təhsil sahəsində təhsilverənlərin sosial müdafiəsi
 
-- 26.1. Dövl ə t ümumi t ə hsil mü ə ssis ə l ə rind ə t ə hsilver ə nl ə rin sosial müdafi ə sin ə dövl ə t t ə minat verir.
+26.1. Dövlət ümumi təhsil müəssisələrində təhsilverənlərin sosial müdafiəsinə dövlət təminat verir.
 
-- 26.3. Dövl ə t ümumi t ə hsil mü ə ssis ə l ə rind ə t ə hsilver ə nl ə rinin v ə zif ə maa ş ı  v ə ona ə lav ə l ə r müvafiq icra hakimiyy ə ti orqanının mü ə yy ə n etdiyi orqan (qurum) t ə r ə find ə n mü ə yy ə n edilir.
+26.2. Ümumi təhsil müəssisələrində təhsilverənlərin sosial müdafiəsi bu Qanunla, “Təhsil haqqında” Azərbaycan Respublikasının Qanunu və Azərbaycan Respublikasının digər qanunları ilə, həmçinin müəssisənin nizamnaməsi ilə müəyyən edilir.
 
-- 26.2.  Ümumi  t ə hsil  mü ə ssis ə l ə rind ə t ə hsilver ə nl ə rin  sosial  müdafi ə si  bu  Qanunla,  'T ə hsil  haqqında'  Az ə rbaycan Respublikasının  Qanunu  v ə Az ə rbaycan  Respublikasının  dig ə r  qanunları  il ə ,  h ə mçinin  mü ə ssis ə nin  nizamnam ə si  il ə mü ə yy ə n edilir.
+26.3. Dövlət ümumi təhsil müəssisələrində təhsilverənlərinin vəzifə maaşı və ona əlavələr müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.
 
-- 26.4.  Dövl ə t  v ə b ə l ə diyy ə ümumi  t ə hsil  mü ə ssis ə si öz s ə r ə ncamında  olan  büdc ə d ə nk ə nar  v ə sait  hesabına t ə hsilver ə nl ə r ə v ə ümumi t ə hsil mü ə ssis ə sinin dig ə r i ş çil ə rin ə ə lav ə stimulla ş dırıcı öd ə ni ş l ə r t ə yin ed ə bil ə r.
+26.4. Dövlət və bələdiyyə ümumi təhsil müəssisəsi öz sərəncamında olan büdcədənkənar vəsait hesabına təhsilverənlərə və ümumi təhsil müəssisəsinin digər işçilərinə əlavə stimullaşdırıcı ödənişlər təyin edə bilər.
 
-- 26.6. Pedaqoji profilli ixtisaslar üzr ə ali v ə orta ixtisas t ə hsili mü ə ssis ə l ə rini bitirmi ş v ə ümumi t ə hsil mü ə ssis ə l ə rind ə i şə ba ş lamı ş g ə nc  müt ə x ə ssisl ə r  üçün ə lav ə güz əş tl ə r  v ə stimulla ş dırıcı  t ə dbirl ə r  müvafiq  icra  hakimiyy ə ti  orqanının mü ə yy ə n etdiyi orqan (qurum) t ə r ə find ə n mü ə yy ə n edilir.
+26.5. Sağlamlıq imkanları məhdud, inklüziv təhsili həyata keçirən, valideynlərini itirmiş və ya valideyn himayəsindən məhrum olmuş, ciddi tərbiyə şəraitinə ehtiyacı olan uşaqlar üçün xüsusi təhsil müəssisələrinin, istedadlı uşaqlar üçün təhsil müəssisələrinin, eləcə də yüksək dağlıq və sərhədyanı ərazilərdə, ucqar yaşayış məntəqələrində çalışan təhsil işçilərinin vəzifə maaşına əlavələr olunur.
 
-- 26.5. Sa ğ lamlıq imkanları m ə hdud, inklüziv t ə hsili h ə yata keçir ə n, valideynl ə rini itirmi ş v ə ya valideyn himay ə sind ə n m ə hrum olmu ş ,  ciddi  t ə rbiy ə şə raitin ə ehtiyacı  olan  u ş aqlar üçün xüsusi t ə hsil  mü ə ssis ə l ə rinin,  istedadlı  u ş aqlar üçün t ə hsil  mü ə ssis ə l ə rinin,  el ə c ə d ə yüks ə k  da ğ lıq  v ə s ə rh ə dyanı ə razil ə rd ə ,  ucqar  ya ş ayı ş m ə nt ə q ə l ə rind ə çalı ş an  t ə hsil i ş çil ə rinin v ə zif ə maa ş ına ə lav ə l ə r olunur.
+26.6. Pedaqoji profilli ixtisaslar üzrə ali və orta ixtisas təhsili müəssisələrini bitirmiş və ümumi təhsil müəssisələrində işə başlamış gənc mütəxəssislər üçün əlavə güzəştlər və stimullaşdırıcı tədbirlər müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.
 
-### Madd ə 27. Pedaqoji f ə aliyy ə tl ə m əşğ ul olma
+### Maddə 27. Pedaqoji fəaliyyətlə məşğul olma
 
-- 27.1.  Ümumi t ə hsil  mü ə ssis ə l ə rind ə müvafiq  ixtisas  üzr ə pedaqoji  t ə hsil ə malik  olanlar,  h ə mçinin müvafiq ixtisas üzr ə pedaqoji  t ə hsili  olmayan  ali  t ə hsilli  müt ə x ə ssisl ə r  müvafiq  icra  hakimiyy ə ti  orqanının  mü ə yy ə n  etdiyi  orqanın (qurumun) mü ə yy ə n etdiyi qaydada pedaqoji f ə aliyy ə tl ə m əşğ ul ola bil ə rl ə r.
+27.1. Ümumi təhsil müəssisələrində müvafiq ixtisas üzrə pedaqoji təhsilə malik olanlar, həmçinin müvafiq ixtisas üzrə pedaqoji təhsili olmayan ali təhsilli mütəxəssislər müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi qaydada pedaqoji fəaliyyətlə məşğul ola bilərlər.
 
-- 27.2.1. m ə hk ə m ə nin qanuni qüvv ə y ə minmi ş q ə rarı il ə pedaqoji f ə aliyy ə tl ə m əşğ ul olması qada ğ an edil ə nl ə r;
+27.2. Aşağıdakı şəxslər pedaqoji fəaliyyətlə məşğul ola bilməzlər:
 
-- 27.2. A ş a ğ ıdakı şə xsl ə r pedaqoji f ə aliyy ə tl ə m əşğ ul ola bilm ə zl ə r:
+27.2.1. məhkəmənin qanuni qüvvəyə minmiş qərarı ilə pedaqoji fəaliyyətlə məşğul olması qadağan edilənlər;
 
-- 27.2.2. a ğ ır, xüsusil ə a ğ ır cinay ə t tör ə tm ə sin ə gör ə m ə hkumlu ğ u üstünd ə n götürülm ə mi ş v ə ya öd ə nilm ə mi ş şə xsl ə r;
+27.2.2. ağır, xüsusilə ağır cinayət törətməsinə görə məhkumluğu üstündən götürülməmiş və ya ödənilməmiş şəxslər;
 
-- 27.2.4.  müvafiq  icra  hakimiyy ə ti  orqanının  mü ə yy ə n  etdiyi  orqan  (qurum)  t ə r ə find ə n  t ə sdiq  edilmi ş siyahıda
+27.2.3. fəaliyyət qabiliyyətsizliyinə və ya məhdud fəaliyyət qabiliyyətli olmasına, habelə barəsində tibbi xarakterli məcburi tədbirlərin tətbiqinə dair məhkəmənin qanuni qüvvəyə minmiş qərarı olan şəxslər;
 
-- 27.2.3.  f ə aliyy ə t  qabiliyy ə tsizliyin ə v ə ya  m ə hdud  f ə aliyy ə t  qabiliyy ə tli  olmasına,  habel ə bar ə sind ə tibbi  xarakterli m ə cburi t ə dbirl ə rin t ə tbiqin ə dair m ə hk ə m ə nin qanuni qüvv ə y ə minmi ş q ə rarı olan şə xsl ə r;
+27.2.4. müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən təsdiq edilmiş siyahıda
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
-- göst ə ril ə n x ə st ə likl ə r ə gör ə pedaqoji f ə aliyy ə tl ə m əşğ ul olmasına qada ğ a qoyulmu ş şə xsl ə r.
+göstərilən xəstəliklərə görə pedaqoji fəaliyyətlə məşğul olmasına qadağa qoyulmuş şəxslər.
 
-- 27.3. Müvafiq icra hakimiyy ə ti orqanının mü ə yy ə n etdiyi orqanın (qurumun) t ə sdiq etdiyi etik davranı ş qaydalarını pozdu ğ una gör ə ə m ə k  müqavil ə sin ə xitam  verilmi ş pedaqoji  i ş çi  1  (bir)  il  müdd ə tind ə pedaqoji  f ə aliyy ə tl ə m əşğ ul  ola bilm ə z.
+27.3. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) təsdiq etdiyi etik davranış qaydalarını pozduğuna görə əmək müqaviləsinə xitam verilmiş pedaqoji işçi 1 (bir) il müddətində pedaqoji fəaliyyətlə məşğul ola bilməz.
 
-### Madd ə 28. Dövl ə t ümumi t ə hsil mü ə ssis ə l ə rind ə t ə hsilver ə nl ə rin sertifikatla ş dırılması
+### Maddə 28. Dövlət ümumi təhsil müəssisələrində təhsilverənlərin sertifikatlaşdırılması
 
-- 28.1.  Dövl ə t  ümumi  t ə hsil  mü ə ssis ə l ə rind ə (ümumi  t ə hsil  üzr ə t ə hsilver ə nl ə r ə münasib ə td ə dig ə r  dövl ə t  t ə hsil mü ə ssis ə l ə rind ə )  i ş l ə y ə n  t ə hsilver ə nl ə r  5  (be ş )  ild ə bir  d ə f ə müvafiq  icra  hakimiyy ə ti  orqanının  mü ə yy ə n  etdiyi  orqan (qurum) t ə r ə find ə n sertifikatla ş dırmadan keçirl ə r. Dövl ə t ümumi t ə hsil  mü ə ssis ə l ə rind ə (ümumi t ə hsil üzr ə t ə hsilver ə nl ə r ə münasib ə td ə dig ə r  dövl ə t t ə hsil  mü ə ssis ə l ə rind ə ) i ş l ə y ə n  t ə hsilver ə nl ə rin  sertifikatla ş dırma  qaydası müvafiq icra hakimiyy ə ti orqanının mü ə yy ə n etdiyi orqan (qurum) t ə r ə find ə n mü ə yy ə n edilir.
+28.1. Dövlət ümumi təhsil müəssisələrində (ümumi təhsil üzrə təhsilverənlərə münasibətdə digər dövlət təhsil müəssisələrində) işləyən təhsilverənlər 5 (beş) ildə bir dəfə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən sertifikatlaşdırmadan keçirlər. Dövlət ümumi təhsil müəssisələrində (ümumi təhsil üzrə təhsilverənlərə münasibətdə digər dövlət təhsil müəssisələrində) işləyən təhsilverənlərin sertifikatlaşdırma qaydası müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir.
 
-- 28.2.1. hamil ə qadınlar;
+28.2. Aşağıdakı şəxslər sertifikatlaşdırmadan keçmirlər:
 
-- 28.2. A ş a ğ ıdakı şə xsl ə r sertifikatla ş dırmadan keçmirl ə r:
+28.2.1. hamilə qadınlar;
 
-- 28.2.2.  u ş a ğ ının  üç  ya ş ınad ə k  sosial  m ə zuniyy ə td ə olan  v ə h ə min  m ə zuniyy ə t  bitdikd ə n  sonra  1  (bir)  ild ə n  az müdd ə td ə müvafiq v ə zif ə d ə (pe şə d ə ) çalı ş an qadınlar (u ş a ğ ını t ə kba ş ına böyüd ə n ki ş il ə r);
+28.2.2. uşağının üç yaşınadək sosial məzuniyyətdə olan və həmin məzuniyyət bitdikdən sonra 1 (bir) ildən az müddətdə müvafiq vəzifədə (peşədə) çalışan qadınlar (uşağını təkbaşına böyüdən kişilər);
 
-- 28.2.4. azı üç d ə f ə sertifikatla ş dırmadan keçmi ş şə xsl ə r.
+28.2.3. ilk dəfə işə qəbul olunanlar, 5 (beş) il müddətində;
 
-- 28.2.3. ilk d ə f ə i şə q ə bul olunanlar, 5 (be ş ) il müdd ə tind ə ;
+28.2.4. azı üç dəfə sertifikatlaşdırmadan keçmiş şəxslər.
 
-- 28.3.  Sertifikatla ş dırmadan  keç ə n şə xsl ə r ə 5  (be ş )  il  müdd ə tind ə dövl ə t  ümumi  t ə hsil  mü ə ssis ə l ə rind ə pedaqoji f ə aliyy ə tl ə m əşğ ul olmaq hüququ verilir.
+28.3. Sertifikatlaşdırmadan keçən şəxslərə 5 (beş) il müddətində dövlət ümumi təhsil müəssisələrində pedaqoji fəaliyyətlə məşğul olmaq hüququ verilir.
 
-- 28.5.  T ə krar  sertifikatla ş dırmadan  keçm ə y ə n şə xsl ə rl ə ə m ə k  münasib ə tl ə ri  Az ə rbaycan  Respublikasının Ə m ə k M ə c ə ll ə sin ə uy ğ un olaraq t ə nziml ə nir.
+28.4. Üzrlü səbəblərdən sertifikatlaşdırmada iştirak etməyən və ya sertifikatlaşdırmadan keçməyən şəxslərin 1 (bir) il müddətində iş yeri saxlanılmaqla, təkrar sertifikatlaşdırmada iştirak etmək hüququ vardır. Təkrar sertifikatlaşdırmada iştirak etməyən şəxslər sertifikatlaşdırmadan keçməmiş hesab olunurlar.
 
-- 28.4. Üzrlü s ə b ə bl ə rd ə n sertifikatla ş dırmada i ş tirak etm ə y ə n v ə ya sertifikatla ş dırmadan keçm ə y ə n şə xsl ə rin 1 (bir) il müdd ə tind ə i ş yeri  saxlanılmaqla,  t ə krar  sertifikatla ş dırmada  i ş tirak  etm ə k  hüququ  vardır.  T ə krar  sertifikatla ş dırmada i ş tirak etm ə y ə n şə xsl ə r sertifikatla ş dırmadan keçm ə mi ş hesab olunurlar.
+28.5. Təkrar sertifikatlaşdırmadan keçməyən şəxslərlə əmək münasibətləri Azərbaycan Respublikasının Əmək Məcəlləsinə uyğun olaraq tənzimlənir.
 
-## 4-cü f ə sil
+## 4-cü fəsil
+## ÜMUMİ TƏHSİLİN İQTİSADİYYATI
 
-## ÜMUM İ T Ə HS İ L İ N İ QT İ SAD İ YYATI
+### Maddə 29. Ümumi təhsil sistemində mülkiyyət münasibətləri
 
-### Madd ə 29. Ümumi t ə hsil sistemind ə mülkiyy ə t münasib ə tl ə ri
+29.1. Ümumi təhsil müəssisəsinin əmlakı dövlət, bələdiyyə, təsisçi (təsisçilər), hüquqi və fiziki şəxslər tərəfindən onun mülkiyyətinə və ya istifadəsinə verilən, eləcə də bu Qanunda və nizamnaməsində əksini tapan fəaliyyət nəticəsində əldə etdiyi əmlakdan, o cümlədən ona məxsus əqli mülkiyyət məhsullarından ibarətdir.
 
-- 29.1.  Ümumi  t ə hsil  mü ə ssis ə sinin ə mlakı  dövl ə t,  b ə l ə diyy ə ,  t ə sisçi  (t ə sisçil ə r),  hüquqi  v ə fiziki şə xsl ə r  t ə r ə find ə n onun mülkiyy ə tin ə v ə ya istifad ə sin ə veril ə n, el ə c ə d ə bu Qanunda v ə nizamnam ə sind ə ə ksini tapan f ə aliyy ə t n ə tic ə sind ə ə ld ə etdiyi ə mlakdan, o cüml ə d ə n ona m ə xsus ə qli mülkiyy ə t m ə hsullarından ibar ə tdir.
+29.2. Ümumi təhsil müəssisəsi mülkiyyətində və istifadəsində olan əmlakın saxlanılması, qorunması və ondan səmərəli istifadə edilməsi üçün məsuliyyət daşıyır. Təhsil müəssisəsinin əmlakının idarə olunması ilə bağlı fəaliyyətinə nəzarəti təsisçi və ya onun səlahiyyət verdiyi şəxs həyata keçirir.
 
-- 29.3.  Ümumi t ə hsil  mü ə ssis ə sinin  maddi-texniki  bazasının  inki ş af  etdirilm ə si  t ə sisçi  (t ə sisçil ə r)  t ə r ə find ə n  ayrılan v ə sait, h ə mçinin qanunda n ə z ə rd ə tutulmu ş dig ə r m ə nb ə l ə r hesabına h ə yata keçirilir.
+29.3. Ümumi təhsil müəssisəsinin maddi-texniki bazasının inkişaf etdirilməsi təsisçi (təsisçilər) tərəfindən ayrılan vəsait, həmçinin qanunda nəzərdə tutulmuş digər mənbələr hesabına həyata keçirilir.
 
-- 29.2.  Ümumi  t ə hsil  mü ə ssis ə si  mülkiyy ə tind ə v ə istifad ə sind ə olan ə mlakın  saxlanılması,  qorunması  v ə ondan s ə m ə r ə li  istifad ə edilm ə si  üçün m ə suliyy ə t  da ş ıyır.  T ə hsil  mü ə ssis ə sinin ə mlakının idar ə olunması il ə ba ğ lı  f ə aliyy ə tin ə n ə zar ə ti t ə sisçi v ə ya onun s ə lahiyy ə t verdiyi şə xs h ə yata keçirir.
+29.4. Dövlət ümumi təhsil müəssisəsinin özəlləşdirilməsinə, ümumi təhsil müəssisəsinin ərazisində profilindən kənar müəssisələrin yerləşdirilməsinə və fəaliyyətinə, hər hansı şəxsin (şəxslərin) məskunlaşdırılmasına yol verilmir.
 
-- 29.4.  Dövl ə t  ümumi  t ə hsil  mü ə ssis ə sinin  öz ə ll əş dirilm ə sin ə ,  ümumi  t ə hsil  mü ə ssis ə sinin ə razisind ə profilind ə n k ə nar mü ə ssis ə l ə rin yerl əş dirilm ə sin ə v ə f ə aliyy ə tin ə , h ə r hansı şə xsin ( şə xsl ə rin) m ə skunla ş dırılmasına yol verilmir.
+29.5. Dövlət ümumi təhsil müəssisəsinə məxsus daşınmaz əmlakın qorunması və ərazisinin mühafizəsi ilə bağlı normativləri müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) müəyyən edir.
 
-- 29.5.  Dövl ə t  ümumi  t ə hsil  mü ə ssis ə sin ə m ə xsus  da ş ınmaz ə mlakın  qorunması  v ə ə razisinin  mühafiz ə si  il ə ba ğ lı normativl ə ri müvafiq icra hakimiyy ə ti orqanının mü ə yy ə n etdiyi orqan (qurum) mü ə yy ə n edir.
+### Maddə 30. Ümumi təhsil müəssisəsinin maliyyələşdirilməsi
 
-### Madd ə 30. Ümumi t ə hsil mü ə ssis ə sinin maliyy ə l əş dirilm ə si
+30.1. Mülkiyyət növündən və təşkilati-hüquqi formasından asılı olaraq, ümumi təhsil müəssisəsi aşağıdakı mənbələrdən maliyyələşdirilir:
 
-- 30.1.  Mülkiyy ə t  növünd ə n  v ə t əş kilati-hüquqi  formasından  asılı  olaraq,  ümumi  t ə hsil  mü ə ssis ə si  a ş a ğ ıdakı m ə nb ə l ə rd ə n maliyy ə l əş dirilir:
+30.1.1. dövlət büdcəsinin vəsaiti;
 
-- 30.1.2. t ə sisçinin (t ə sisçil ə rin) v ə saiti;
+30.1.2. təsisçinin (təsisçilərin) vəsaiti;
 
-- 30.1.1. dövl ə t büdc ə sinin v ə saiti;
+30.1.3. dövlət fondlarının vəsaiti;
 
-- 30.1.3. dövl ə t fondlarının v ə saiti;
+30.1.4. ödənişli təhsil xidmətlərindən daxil olan vəsait;
 
-- 30.1.5. kreditl ə r, qrantlar, ian ə l ə r;
+30.1.5. kreditlər, qrantlar, ianələr;
 
-- 30.1.4. öd ə ni ş li t ə hsil xidm ə tl ə rind ə n daxil olan v ə sait;
+30.1.6. innovasiya və bu Qanuna uyğun olaraq sahibkarlıq fəaliyyətindən əldə olunan gəlirlər;
 
-- 30.1.6. innovasiya v ə bu Qanuna uy ğ un olaraq sahibkarlıq f ə aliyy ə tind ə n ə ld ə olunan g ə lirl ə r;
+30.1.7. qanuna və nizamnaməsinə uyğun olaraq digər qanuni mənbələrdən əldə olunan vəsait.
 
-- 30.2.  Dövl ə t  ümumi  t ə hsil  mü ə ssis ə sinin  maliyy ə l əş dirilm ə si  müvafiq  icra  hakimiyy ə ti  orqanının  mü ə yy ə n  etdiyi orqanın (qurumun) mü ə yy ə n etdiyi maliyy ə normativl ə rin ə ə sas ə n h ə yata keçirilir.
+30.2. Dövlət ümumi təhsil müəssisəsinin maliyyələşdirilməsi müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi maliyyə normativlərinə əsasən həyata keçirilir.
 
-- 30.1.7. qanuna v ə nizamnam ə sin ə uy ğ un olaraq dig ə r qanuni m ə nb ə l ə rd ə n ə ld ə olunan v ə sait.
+30.3. Dövlət ümumi təhsil müəssisəsinin əldə etdiyi büdcədənkənar vəsait ona dövlət büdcəsindən ayrılan vəsaitin miqdarına təsir göstərmir və nizamnaməsinə uyğun sərbəst istifadə edilir.
 
-- 30.3. Dövl ə t ümumi t ə hsil mü ə ssis ə sinin ə ld ə etdiyi büdc ə d ə nk ə nar v ə sait ona dövl ə t büdc ə sind ə n ayrılan v ə saitin miqdarına t ə sir göst ə rmir v ə nizamnam ə sin ə uy ğ un s ə rb ə st istifad ə edilir.
+30.4. Zəruri hallarda müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) qərarı ilə azkomplektli dövlət ümumi təhsil müəssisələri mövcud normativlərdən üstün maliyyələşdirilə bilər.
 
-- 30.5. Dövl ə t, ümumi t ə hsil  mü ə ssis ə l ə rind ə v ə t ə hsilver ə nl ə rd ə sa ğ lam r ə qab ə ti v ə innovativ f ə aliyy ə ti stimulla ş dırmaq  m ə qs ə dil ə t ə hsild ə inki ş af  v ə innovasiyalar  üzr ə qrant  layih ə l ə rinin  h ə yata  keçirilm ə si  üçün  qrantlar ayrılmasını t ə min edir.
+30.5. Dövlət, ümumi təhsil müəssisələrində və təhsilverənlərdə sağlam rəqabəti və innovativ fəaliyyəti stimullaşdırmaq məqsədilə təhsildə inkişaf və innovasiyalar üzrə qrant layihələrinin həyata keçirilməsi üçün qrantlar ayrılmasını təmin edir.
 
-- 30.4. Z ə ruri hallarda müvafiq icra hakimiyy ə ti orqanının mü ə yy ə n etdiyi orqanın (qurumun) q ə rarı il ə azkomplektli dövl ə t ümumi t ə hsil mü ə ssis ə l ə ri mövcud normativl ə rd ə n üstün maliyy ə l əş diril ə bil ə r.
+30.6. Özəl ümumi təhsil müəssisəsi öz maliyyə vəsaitini sərbəst idarə edir.
 
-- 30.6. Öz ə l ümumi t ə hsil mü ə ssis ə si öz maliyy ə v ə saitini s ə rb ə st idar ə edir.
-
-- 30.7.  B ə l ə diyy ə v ə öz ə l  ümumi  t ə hsil  mü ə ssis ə sind ə t ə hsil  haqqının  m ə bl əğ i  t ə hsil  proqramlarına  uy ğ un  olaraq s ə rb ə st mü ə yy ə n edilir.
+30.7. Bələdiyyə və özəl ümumi təhsil müəssisəsində təhsil haqqının məbləği təhsil proqramlarına uyğun olaraq sərbəst müəyyən edilir.
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
 
-- 30.8.  B ə l ə diyy ə v ə öz ə l  ümumi  t ə hsil  mü ə ssis ə si  il ə t ə hsilalanlar,  valideynl ə r  v ə ya  dig ə r  qanuni  nümay ə nd ə l ə r arasında münasib ə tl ə r müqavil ə il ə t ə nziml ə nir.
+30.8. Bələdiyyə və özəl ümumi təhsil müəssisəsi ilə təhsilalanlar, valideynlər və ya digər qanuni nümayəndələr arasında münasibətlər müqavilə ilə tənzimlənir.
 
-- 30.9.  Ümumi  t ə hsil  mü ə ssis ə sinin ə ld ə etdiyi  v ə sait  bilavasit ə mü ə ssis ə nin  maddi-texniki  bazasının  inki ş afına, istedadı il ə f ə rql ə n ə n t ə hsilalanların stimulla ş dırılmasına, r əğ b ə tl ə ndirilm ə sin ə v ə i ş çil ə rin sosial müdafi ə sin ə yön ə ldilir.
+30.9. Ümumi təhsil müəssisəsinin əldə etdiyi vəsait bilavasitə müəssisənin maddi-texniki bazasının inkişafına, istedadı ilə fərqlənən təhsilalanların stimullaşdırılmasına, rəğbətləndirilməsinə və işçilərin sosial müdafiəsinə yönəldilir.
 
-### Madd ə 31. Ümumi t ə hsil sah ə sind ə sahibkarlıq v ə innovasiya f ə aliyy ə ti
+### Maddə 31. Ümumi təhsil sahəsində sahibkarlıq və innovasiya fəaliyyəti
 
-- 31.1.  Ümumi  t ə hsil  mü ə ssis ə si  öz  nizamnam ə si  ç ə rçiv ə sind ə profilin ə v ə f ə aliyy ə t  istiqam ə tl ə rin ə uy ğ un  olaraq, t ə hsilin prioritetliyini ə sas götürm ə kl ə müvafiq icra hakimiyy ə ti orqanının mü ə yy ə n etdiyi orqanın (qurumun) mü ə yy ə n etdiyi sahibkarlıq növl ə ri il ə v ə innovasiya f ə aliyy ə ti il ə m əşğ ul ola bil ə r.
+31.1. Ümumi təhsil müəssisəsi öz nizamnaməsi çərçivəsində profilinə və fəaliyyət istiqamətlərinə uyğun olaraq, təhsilin prioritetliyini əsas götürməklə müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) müəyyən etdiyi sahibkarlıq növləri ilə və innovasiya fəaliyyəti ilə məşğul ola bilər.
 
-- 31.3. Ümumi t ə hsil mü ə ssis ə sinin i ş çil ə rinin s ə m ə r ə l əş dirici t ə klifl ə rl ə çıxı ş etm ə k v ə innovasiya f ə aliyy ə ti il ə m əşğ ul olmaq hüququ vardır.
+31.2. Sahibkarlıq və innovasiya fəaliyyətini təmin etmək üçün təhsil müəssisəsinin nəzdində müvafiq təcrübə-istehsalat sahələri yaradıla, əlavə məşğələlər keçirilə, ödənişli əsaslarla dərnəklər, maraq kursları, sərgilər və s. təşkil oluna bilər. [18]
 
-- 31.2.  Sahibkarlıq  v ə innovasiya  f ə aliyy ə tini  t ə min  etm ə k  üçün  t ə hsil  mü ə ssis ə sinin  n ə zdind ə müvafiq  t ə crüb ə -istehsalat sah ə l ə ri yaradıla, ə lav ə m əşğə l ə l ə r keçiril ə , öd ə ni ş li ə saslarla d ə rn ə kl ə r, maraq kursları, s ə rgil ə r v ə s. t əş kil oluna bil ə r. [18]
+31.3. Ümumi təhsil müəssisəsinin işçilərinin səmərələşdirici təkliflərlə çıxış etmək və innovasiya fəaliyyəti ilə məşğul olmaq hüququ vardır.
 
-- 31.4.  Dövl ə t  ümumi t ə hsil  mü ə ssis ə sinin  sahibkarlıq  f ə aliyy ə tind ə n ə ld ə etdiyi  v ə sait  bilavasit ə t ə hsilin  inki ş afına, t ə hsilalanların h ə v ə sl ə ndirilm ə sin ə v ə i ş çil ə rin sosial müdafi ə sin ə yön ə ldilir.
+31.4. Dövlət ümumi təhsil müəssisəsinin sahibkarlıq fəaliyyətindən əldə etdiyi vəsait bilavasitə təhsilin inkişafına, təhsilalanların həvəsləndirilməsinə və işçilərin sosial müdafiəsinə yönəldilir.
 
-- 31.5.  Ümumi t ə hsil  mü ə ssis ə l ə ri  Az ə rbaycan Respublikasına avadanlıq, cihaz, qur ğ u  v ə t ə hsil  f ə aliyy ə ti  m ə qs ə dil ə dig ə r  vasit ə l ə rin  g ə tirilm ə si  zamanı  müvafiq  icra  hakimiyy ə ti  orqanının  mü ə yy ə n  etdiyi  orqan  (qurum)  t ə r ə find ə n mü ə yy ə n edilmi ş güz əş t v ə imtiyazlardan istifad ə edirl ə r.
+31.5. Ümumi təhsil müəssisələri Azərbaycan Respublikasına avadanlıq, cihaz, qurğu və təhsil fəaliyyəti məqsədilə digər vasitələrin gətirilməsi zamanı müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilmiş güzəşt və imtiyazlardan istifadə edirlər.
 
-## 5-ci f ə sil
+## 5-ci fəsil
+## YEKUN MÜDDƏALAR
 
-## YEKUN MÜDD Ə ALAR
+### Maddə 32. Ümumi təhsil sahəsində beynəlxalq əməkdaşlıq
 
-### Madd ə 32. Ümumi t ə hsil sah ə sind ə beyn ə lxalq ə m ə kda ş lıq
+32.1. Ümumi təhsil sahəsində beynəlxalq əməkdaşlıq Azərbaycan Respublikasının qanunları və tərəfdar çıxdığı beynəlxalq müqavilələr əsasında həyata keçirilir.
 
-- 32.1.  Ümumi  t ə hsil  sah ə sind ə beyn ə lxalq ə m ə kda ş lıq  Az ə rbaycan  Respublikasının  qanunları  v ə t ə r ə fdar  çıxdı ğ ı beyn ə lxalq müqavil ə l ə r ə sasında h ə yata keçirilir.
+32.2. Ümumi təhsil müəssisəsinin bu Qanuna, “Azərbaycan Respublikasının beynəlxalq müqavilələrinin bağlanması, icrası və ləğv edilməsi qaydaları haqqında” Azərbaycan Respublikasının Qanununa və özünün fəaliyyət xüsusiyyətlərinə uyğun olaraq, beynəlxalq təcrübədən yararlanmaq, xarici ölkələrin ümumi təhsil müəssisələri, təşkilatları və fondları ilə əlaqələr yaratmaq, əməkdaşlıq haqqında müqavilələr bağlamaq və qarşılıqlı əməkdaşlığın digər formalarını həyata keçirmək hüququ vardır.
 
-- 32.2. Ümumi t ə hsil mü ə ssis ə sinin bu Qanuna, 'Az ə rbaycan Respublikasının beyn ə lxalq müqavil ə l ə rinin ba ğ lanması, icrası v ə l əğ v edilm ə si qaydaları haqqında' Az ə rbaycan Respublikasının Qanununa v ə özünün f ə aliyy ə t xüsusiyy ə tl ə rin ə uy ğ un olaraq, beyn ə lxalq t ə crüb ə d ə n yararlanmaq, xarici ölk ə l ə rin ümumi t ə hsil mü ə ssis ə l ə ri,  t əş kilatları v ə fondları il ə ə laq ə l ə r  yaratmaq, ə m ə kda ş lıq  haqqında  müqavil ə l ə r  ba ğ lamaq  v ə qar ş ılıqlı ə m ə kda ş lı ğ ın  dig ə r  formalarını  h ə yata keçirm ə k hüququ vardır.
+### Maddə 33. Qanunun pozulmasına görə məsuliyyət
 
-### Madd ə 33. Qanunun pozulmasına gör ə m ə suliyy ə t
+Bu Qanunun tələblərini pozan şəxslər Azərbaycan Respublikasının Mülki Məcəlləsində, Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsində və Azərbaycan Respublikasının Cinayət Məcəlləsində nəzərdə tutulmuş hallarda məsuliyyət daşıyırlar.
 
-Bu Qanunun t ə l ə bl ə rini pozan şə xsl ə r Az ə rbaycan Respublikasının Mülki M ə c ə ll ə sind ə , Az ə rbaycan Respublikasının İ nzibati X ə talar M ə c ə ll ə sind ə v ə Az ə rbaycan Respublikasının Cinay ə t M ə c ə ll ə sind ə n ə z ə rd ə tutulmu ş hallarda m ə suliyy ə t da ş ıyırlar.
+İlham ƏLİYEV,
+Azərbaycan Respublikasının Prezidenti
 
-İ lham Ə L İ YEV, Az ə rbaycan Respublikasının Prezidenti
+Bakı şəhəri, 29 mart 2019-cu il
+№ 1532-VQ
 
-Bakı şə h ə ri, 29 mart 2019-cu il   1532-VQ
+## İSTİFADƏ OLUNMUŞ MƏNBƏ SƏNƏDLƏRİNİN SİYAHISI
 
-## İ ST İ FAD Ə OLUNMU Ş M Ə NB Ə S Ə N Ə DL Ə R İ N İ N S İ YAHISI
+1. 24 aprel 2020-ci il tarixli 61-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 19 iyun 2020-ci il, № 116, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 6, maddə 664)
 
-- 24 aprel 2020-ci il tarixli 61-VIQD nömr ə li  Az ə rbaycan Respublikasının Qanunu ('Az ə rbaycan' q ə zeti, 19 iyun 2020-ci il,   116 ,  Az ə rbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il,   6, madd ə 664)
+2. 19 iyun 2020-ci il tarixli 139-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 5 avqust 2020-ci il, № 151, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 7, maddə 851)
 
-- 19 iyun 2020-ci il tarixli 139-VIQD nömr ə li Az ə rbaycan Respublikasının Qanunu ('Az ə rbaycan' q ə zeti, 5 avqust 2020-ci il,   151 ,  Az ə rbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il,   7, madd ə 851)
+3. 6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335)
 
-- 6 oktyabr 2020-ci il tarixli 185-VIQD nömr ə li Az ə rbaycan Respublikasının Qanunu ('Az ə rbaycan' q ə zeti, 27 noyabr 2020-ci il,   248 , Az ə rbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il,   11, madd ə 1335)
+4. 18 dekabr 2020-ci il tarixli 219-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 7 fevral 2021-ci il, № 28)
 
-- 18 dekabr 2020-ci il tarixli 219-VIQD nömr ə li Az ə rbaycan Respublikasının Qanunu ('Az ə rbaycan' q ə zeti, 7 fevral 2021-ci il,   28 )
+## QANUNA EDİLMİŞ DƏYİŞİKLİK VƏ ƏLAVƏLƏRİN SİYAHISI
 
-## QANUNA ED İ LM İŞ D Ə Y İŞİ KL İ K V Ə Ə LAV Ə L Ə R İ N S İ YAHISI
+[1]
+18 dekabr 2020-ci il tarixli 219-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 7 fevral 2021-ci il, № 28) ilə 1.0.3-cü, 1.0.37-ci və 14.1-ci maddələrdə “dövlət təhsil sənədinin” sözləri “təhsil haqqında dövlət sənədinin” sözləri ilə əvəz edilmişdir.
 
-[1] 18 dekabr 2020-ci il tarixli 219-VIQD nömr ə li Az ə rbaycan Respublikasının Qanunu ('Az ə rbaycan' q ə zeti, 7 fevral 2021-ci il,   28 ) il ə 1.0.3-cü, 1.0.37-ci v ə 14.1-ci madd ə l ə rd ə ' dövl ə t t ə hsil s ə n ə dinin ' sözl ə ri ' t ə hsil haqqında dövl ə t s ə n ə dinin ' sözl ə ri il ə ə v ə z edilmi ş dir.
+[2]
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 1.0.21-ci maddədə “yaradılması və” sözləri “yaratmaqla” sözü ilə əvəz edilmişdir.
 
-[2] 6  oktyabr  2020-ci  il  tarixli 185-VIQD nömr ə li  Az ə rbaycan  Respublikasının  Qanunu ('Az ə rbaycan'  q ə zeti,  27  noyabr  2020-ci  il,     248 , Az ə rbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il,   11, madd ə 1335) il ə 1.0.21-ci madd ə d ə ' yaradılması v ə ' sözl ə ri ' yaratmaqla ' sözü il ə ə v ə z edilmi ş dir.
-
-[3] 6  oktyabr  2020-ci  il  tarixli 185-VIQD nömr ə li  Az ə rbaycan  Respublikasının  Qanunu ('Az ə rbaycan'  q ə zeti,  27  noyabr  2020-ci  il,     248 ,
+[3]
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248,
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
-Az ə rbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il,   11, madd ə 1335) il ə 1.0.24-cü madd ə l əğ v edilmi ş dir.
+Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 1.0.24-cü maddə ləğv edilmişdir.
 
-[4] 6  oktyabr  2020-ci  il  tarixli 185-VIQD nömr ə li  Az ə rbaycan  Respublikasının  Qanunu ('Az ə rbaycan'  q ə zeti,  27  noyabr  2020-ci  il,     248 , Az ə rbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il,   11, madd ə 1335) il ə 1.0.33-cü  madd ə d ə ' sabit  fiziki,  psixi, ə qli  v ə ya  hissiyyat pozuntuları ' sözl ə ri ' fiziki çatı ş mazlı ğ ı, ə qli v ə (v ə ya) psixi l ə ngim ə l ə ri ' sözl ə ri il ə ə v ə z edilmi ş dir. [5] 19 iyun 2020-ci il tarixli 139-VIQD nömr ə li Az ə rbaycan Respublikasının Qanunu ('Az ə rbaycan' q ə zeti, 5 avqust 2020-ci il,   151 , Az ə rbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il,   7, madd ə 851) il ə 4.0.20-ci madd ə sin ə ' mü ə ssis ə sinin ' sözünd ə n sonra ' (dövl ə t ümumi t ə hsil mü ə ssis ə l ə ri istisna olmaqla) ' sözl ə ri ə lav ə edilmi ş dir. [6] 6  oktyabr  2020-ci  il  tarixli 185-VIQD nömr ə li  Az ə rbaycan  Respublikasının  Qanunu ('Az ə rbaycan'  q ə zeti,  27  noyabr  2020-ci  il,     248 , Az ə rbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il,   11, madd ə 1335) il ə 4.0.29-cu madd ə d ə ismin müvafiq hallarında ' kadrlar ' sözü ismin müvafiq hallarında ' i ş çil ə r ' sözü il ə ə v ə z edilmi ş dir. 18 dekabr 2020-ci il tarixli 219-VIQD nömr ə li Az ə rbaycan Respublikasının Qanunu ('Az ə rbaycan' q ə zeti, 7 fevral 2021-ci il,   28 ) il ə 4.0.29-cu madd ə y ə ' q ə bulu ' sözünd ə n sonra ' v ə yerd ə yi ş m ə si ' sözl ə ri ə lav ə edilmi ş dir v ə h ə min madd ə d ə ' v ə ' sözü ', habel ə ' sözü il ə ə v ə z edilmi ş dir. [7] 18 dekabr 2020-ci il tarixli 219-VIQD nömr ə li Az ə rbaycan Respublikasının Qanunu ('Az ə rbaycan' q ə zeti, 7 fevral 2021-ci il,   28 ) il ə 4.0.31-ci madd ə d ə ' nümun ə l ə rini ' sözü ' t ə svirl ə rini ' sözü il ə ə v ə z edilmi ş dir. [8] 6  oktyabr  2020-ci  il  tarixli 185-VIQD nömr ə li  Az ə rbaycan  Respublikasının  Qanunu ('Az ə rbaycan'  q ə zeti,  27  noyabr  2020-ci  il,     248 , Az ə rbaycan  Respublikasının  Qanunvericilik  Toplusu,  2020-ci  il,     11,  madd ə 1335) il ə 13.8-ci  madd ə y ə yeni  m ə zmunda  ikinci  cüml ə ə lav ə edilmi ş dir. [9] 18 dekabr 2020-ci il tarixli 219-VIQD nömr ə li Az ə rbaycan Respublikasının Qanunu ('Az ə rbaycan' q ə zeti, 7 fevral 2021-ci il,   28 ) il ə 17.1-ci madd ə d ə ' ümumi orta t ə hsil haqqında attestat v ə tam orta t ə hsil haqqında attestat ' sözl ə ri ' T ə hsil M ə rk ə zl əş dirilmi ş İ nformasiya Sistemi'nd ə elektron s ə n ə d formasında yaradılan müvafiq t ə hsil haqqında dövl ə t s ə n ə di - attestat ' sözl ə ri il ə ə v ə z edilmi ş dir. [10] 18 dekabr 2020-ci il tarixli 219-VIQD nömr ə li Az ə rbaycan Respublikasının Qanunu ('Az ə rbaycan' q ə zeti, 7 fevral 2021-ci il,   28 ) il ə 17.2-ci madd ə l əğ v edilmi ş dir. [11] 18 dekabr 2020-ci il tarixli 219-VIQD nömr ə li Az ə rbaycan Respublikasının Qanunu ('Az ə rbaycan' q ə zeti, 7 fevral 2021-ci il,   28 ) il ə 7.4-cü madd ə y ə ' qaydada '  sözünd ə n  sonra 'T ə hsil  M ə rk ə zl əş dirilmi ş İ nformasiya  Sistemi'nd ə elektron  s ə n ə d  formasında  yaradılan '  sözl ə ri ə lav ə edilmi ş dir. [12] 24 aprel 2020-ci il tarixli 61-VIQD nömr ə li Az ə rbaycan Respublikasının Qanunu ('Az ə rbaycan' q ə zeti, 19 iyun 2020-ci il,   116 , Az ə rbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il,   6, madd ə 664) il ə 18.1-ci madd ə yeni redaksiyada verilmi ş dir. ə vv ə lki redaksiyada deyilirdi: 18.1.  Ümumi t ə hsil  mü ə ssis ə sind ə müvafiq  icra  hakimiyy ə ti  orqanının  mü ə yy ə n  etdiyi  orqan  (qurum)  t ə r ə find ə n  mü ə yy ə n  edilmi ş qaydada psixoloji xidm ə t t əş kil olunur. [13] 6  oktyabr  2020-ci  il  tarixli 185-VIQD nömr ə li  Az ə rbaycan  Respublikasının  Qanunu ('Az ə rbaycan'  q ə zeti,  27  noyabr  2020-ci  il,     248 , Az ə rbaycan  Respublikasının  Qanunvericilik  Toplusu,  2020-ci  il,     11,  madd ə 1335) il ə 18.2-ci  madd ə d ə ' xidm ə t '  sözü  ' yardım '  sözü  il ə ə v ə z edilmi ş dir. [14] 6  oktyabr  2020-ci  il  tarixli 185-VIQD nömr ə li  Az ə rbaycan  Respublikasının  Qanunu ('Az ə rbaycan'  q ə zeti,  27  noyabr  2020-ci  il,     248 , Az ə rbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il,   11, madd ə 1335) il ə 19.1-ci v ə 19.2-ci madd ə l ə rd ə ' orqanının '  sözü ' orqanının mü ə yy ə n etdiyi orqanın (qurumun )' sözl ə ri il ə ə v ə z edilmi ş dir. [15] 6  oktyabr  2020-ci  il  tarixli 185-VIQD nömr ə li  Az ə rbaycan  Respublikasının  Qanunu ('Az ə rbaycan'  q ə zeti,  27  noyabr  2020-ci  il,     248 , Az ə rbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il,   11, madd ə 1335) il ə 20.3-cü madd ə y ə ' Qanun ,'  sözünd ə n sonra 'Publik hüquqi şə xsl ə r haqqında' v ə ' sözl ə ri ə lav ə edilmi ş dir v ə h ə min madd ə d ə ' Qanunu ' sözü ' qanunları ' sözü il ə ə v ə z edilmi ş dir. [16] 24 aprel 2020-ci il tarixli 61-VIQD nömr ə li Az ə rbaycan Respublikasının Qanunu ('Az ə rbaycan' q ə zeti, 19 iyun 2020-ci il,   116 , Az ə rbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il,   6, madd ə 664) il ə yeni m ə zmunda 22.2.6-1-ci madd ə ə lav ə edilmi ş dir. [17] 6  oktyabr  2020-ci  il  tarixli 185-VIQD nömr ə li  Az ə rbaycan  Respublikasının  Qanunu ('Az ə rbaycan'  q ə zeti,  27  noyabr  2020-ci  il,     248 , Az ə rbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il,   11, madd ə 1335) il ə 23.2.5-ci madd ə d ə ' ixtisas d ə r ə c ə sini ' sözl ə ri ' ixtisas v ə elmi d ə r ə c ə sini ' sözl ə ri il ə ə v ə z edilmi ş dir.
+[4]
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 1.0.33-cü maddədə “sabit fiziki, psixi, əqli və ya hissiyyat pozuntuları” sözləri “fiziki çatışmazlığı, əqli və (və ya) psixi ləngimələri” sözləri ilə əvəz edilmişdir.
 
-[18] 6  oktyabr  2020-ci  il  tarixli 185-VIQD nömr ə li  Az ə rbaycan  Respublikasının  Qanunu ('Az ə rbaycan'  q ə zeti,  27  noyabr  2020-ci  il,     248 , Az ə rbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il,   11, madd ə 1335) il ə 31.2-ci madd ə yeni redaksiyada verilmi ş dir. ə vv ə lki redaksiyada deyilirdi: 31.2.  Sahibkarlıq  v ə innovasiya  f ə aliyy ə tini  t ə min  etm ə k  üçün  ümumi  t ə hsil  mü ə ssis ə sinin  n ə zdind ə müvafiq  t ə crüb ə -istehsalat  sah ə l ə ri, öd ə ni ş li ə saslarla d ə rn ə kl ə r, maraq kursları, ə lav ə m əşğə l ə l ə r keçiril ə , s ə rgil ə r v ə s. t əş kil oluna bil ə r.
+[5]
+19 iyun 2020-ci il tarixli 139-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 5 avqust 2020-ci il, № 151, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 7, maddə 851) ilə 4.0.20-ci maddəsinə “müəssisəsinin” sözündən sonra “(dövlət ümumi təhsil müəssisələri istisna olmaqla)” sözləri əlavə edilmişdir.
+
+[6]
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 4.0.29-cu maddədə ismin müvafiq hallarında “kadrlar” sözü ismin müvafiq hallarında “işçilər” sözü ilə əvəz edilmişdir.
+
+18 dekabr 2020-ci il tarixli 219-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 7 fevral 2021-ci il, № 28) ilə 4.0.29-cu maddəyə “qəbulu” sözündən sonra “və yerdəyişməsi” sözləri əlavə edilmişdir və həmin maddədə “və” sözü “, habelə” sözü ilə əvəz edilmişdir.
+
+[7]
+18 dekabr 2020-ci il tarixli 219-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 7 fevral 2021-ci il, № 28) ilə 4.0.31-ci maddədə “nümunələrini” sözü “təsvirlərini” sözü ilə əvəz edilmişdir.
+
+[8]
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 13.8-ci maddəyə yeni məzmunda ikinci cümlə əlavə edilmişdir.
+
+[9]
+18 dekabr 2020-ci il tarixli 219-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 7 fevral 2021-ci il, № 28) ilə 17.1-ci maddədə “ümumi orta təhsil haqqında attestat və tam orta təhsil haqqında attestat” sözləri “Təhsil Mərkəzləşdirilmiş İnformasiya Sistemi”ndə elektron sənəd formasında yaradılan müvafiq təhsil haqqında dövlət sənədi – attestat” sözləri ilə əvəz edilmişdir.
+
+[10]
+18 dekabr 2020-ci il tarixli 219-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 7 fevral 2021-ci il, № 28) ilə 17.2-ci maddə ləğv edilmişdir.
+
+[11]
+18 dekabr 2020-ci il tarixli 219-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 7 fevral 2021-ci il, № 28) ilə 7.4-cü maddəyə “qaydada” sözündən sonra “Təhsil Mərkəzləşdirilmiş İnformasiya Sistemi”ndə elektron sənəd formasında yaradılan” sözləri əlavə edilmişdir.
+
+[12]
+24 aprel 2020-ci il tarixli 61-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 19 iyun 2020-ci il, № 116, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 6, maddə 664) ilə 18.1-ci maddə yeni redaksiyada verilmişdir.
+əvvəlki redaksiyada deyilirdi:
+18.1. Ümumi təhsil müəssisəsində müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilmiş qaydada psixoloji xidmət təşkil olunur.
+
+[13]
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 18.2-ci maddədə “xidmət” sözü “yardım” sözü ilə əvəz edilmişdir.
+
+[14]
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 19.1-ci və 19.2-ci maddələrdə “orqanının” sözü “orqanının müəyyən etdiyi orqanın (qurumun)” sözləri ilə əvəz edilmişdir.
+
+[15]
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 20.3-cü maddəyə “Qanun,” sözündən sonra “Publik hüquqi şəxslər haqqında” və” sözləri əlavə edilmişdir və həmin maddədə “Qanunu” sözü “qanunları” sözü ilə əvəz edilmişdir.
+
+[16]
+24 aprel 2020-ci il tarixli 61-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 19 iyun 2020-ci il, № 116, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 6, maddə 664) ilə yeni məzmunda 22.2.6-1-ci maddə əlavə edilmişdir.
+
+[17]
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 23.2.5-ci maddədə “ixtisas dərəcəsini” sözləri “ixtisas və elmi dərəcəsini” sözləri ilə əvəz edilmişdir.
+
+[18]
+6 oktyabr 2020-ci il tarixli 185-VIQD nömrəli Azərbaycan Respublikasının Qanunu (“Azərbaycan” qəzeti, 27 noyabr 2020-ci il, № 248, Azərbaycan Respublikasının Qanunvericilik Toplusu, 2020-ci il, № 11, maddə 1335) ilə 31.2-ci maddə yeni redaksiyada verilmişdir.
+əvvəlki redaksiyada deyilirdi:
+31.2. Sahibkarlıq və innovasiya fəaliyyətini təmin etmək üçün ümumi təhsil müəssisəsinin nəzdində müvafiq təcrübə-istehsalat sahələri, ödənişli əsaslarla dərnəklər, maraq kursları, əlavə məşğələlər keçirilə, sərgilər və s. təşkil oluna bilər.
+-
 
 [[END OF PAGE 14]]
