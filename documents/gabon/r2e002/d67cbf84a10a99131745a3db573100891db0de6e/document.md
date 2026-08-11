@@ -296,6 +296,34 @@ Page  5 / 71
 
 ## TABLE DES MATIERES
 
+Equipe de rédaction …………………………………………………………………………………………………4
+Liste des acronymes…………………………………………………………………………………………………5
+Table des matières ………………………………………………………………………………………………….6
+INTRODUCTION GENERALE…………………………………………………………………………………….10
+I- L'engagement du Gabon pour la promotion de l'Education Pour Tous : les forces des politiques mises en œuvre………………………………………………………………………………….11
+II- Les fondements de l'élaboration du Plan d'Action National (PAN-EPT) : les faiblesses des politiques mises en œuvre………………………………………………………………………………….12
+III- Méthodologie d'élaboration du PAN-EPT……………………………………………………………………13
+PREMIERE PARTIE : PRESENTATION DU PAYS ET DIAGNOSTIC DU SYSTEME EDUCATIF …………………………………………………………………………………………………15
+
+1.1- Présentation du pays…………………………………………………………………………………………15
+1.1.1. Contexte géographique ……………………………………………………………………………………15
+1.1.2. Contexte économique………………………………………………………………………………………16
+1.1.3. Contexte socioculturel………………………………………………………………………………………17
+1.1.4. Contexte politique …………………………………………………………………………………………17
+1.2- Diagnostic du système éducatif……………………………………………………………………………19
+1.2.1- Enseignement pré-maternel : la petite enfance …………………………………………………………19
+1.2.1.1- Effectifs et structures d'accueil…………………………………………………………………………19
+1.2.2- Enseignement maternel……………………………………………………………………………………19
+1.2.2.1- Effectifs et structures d'accueil…………………………………………………………………………19
+1.2.3- Enseignement primaire……………………………………………………………………………………21
+1.2.3.1- Effectifs et structures d'accueil…………………………………………………………………………21
+1.2.4- Enseignement secondaire général………………………………………………………………………24
+1.2.4.1. Effectifs et structures d'accueil…………………………………………………………………………24
+1.2.5. Enseignement secondaire technique et professionnel…………………………………………………25
+1.2.5.1- Effectifs et structures d'accueil…………………………………………………………………………25
+1.2.6- La formation professionnelle des jeunes et des adultes………………………………………………25
+1.2.7 L'alphabétisation des jeunes et des adultes………………………………………………………………25
+
 PAN - EPT
 
 Page  6 / 71
@@ -305,6 +333,34 @@ Page  6 / 71
 [[START OF PAGE 7]]
 
 1.2.8- L'éducation des filles et des femmes……………………………………………………………………26
+
+DEUXIEME PARTIE : ANALYSE, OBJECTIFS, STRATEGIES DE MISE EN ŒUVRE, PROGRAMME D'INTERVENTION ET ESTIMATION DES COUTS………………………………28
+II-1 Analyse de l'enseignement primaire et secondaire………………………………………………………28
+II-1-1 La qualité de l'éducation……………………………………………………………………………………28
+
+II.1.1.1 Programmes d'enseignement……………………………………………………………………………28
+II.1.1.2 Redoublements et abandons……………………………………………………………………………29
+II.1.1.3 Résultats aux examens…………………………………………………………………………………29
+II.1.1.4 Motivation et qualification du personnel enseignant…………………………………………………30
+II.1.1.5 Motivation et qualification du personnel d'encadrement pédagogique……………………………32
+II.1.1.6 Ratio Elèves/maître………………………………………………………………………………………33
+II.1.1.7 Matériel didactique disponible…………………………………………………………………………34
+II.1.1.8 Causes des échecs………………………………………………………………………………………35
+II.1.2 Gestion administrative et financière………………………………………………………………………36
+II.1.2.1. Administration fortement centralisée…………………………………………………………………36
+II.1.2.2. Faible autonomie de gestion……………………………………………………………………………37
+II.1.2.3. Pilotage limité ……………………………………………………………………………………………37
+II.1.2.4. Manque de synergie entre les administrations : absence de communication, d'information et de données statistiques, coordination défaillante. ………………………………………………………………38
+II.2 Tableau synoptique des objectifs du plan EPT……………………………………………………………39
+Objectif I……………………………………………………………………………………………………………43
+Objectif II……………………………………………………………………………………………………………45
+Objectif III…………………………………………………………………………………………………………47
+Objectif IV…………………………………………………………………………………………………………50
+Objectif V……………………………………………………………………………………………………………51
+Objectif VI…………………………………………………………………………………………………………52
+Objectif VII…………………………………………………………………………………………………………55
+II.3 Tableau synoptique des stratégies de mise en œuvre du Plan EPT……………………………………56
+III- Bibliographie……………………………………………………………………………………………………69
 
 PAN - EPT
 
@@ -382,7 +438,7 @@ Les politiques  mises en œuvre au Gabon, par les pouvoirs publics, peuvent êtr
 
 - 2°)  leurs  limites,  qui    justifient  les  fondements  de  l'Elaboration  du  Plan  d'Action    National  de l'Education Pour Tous (II). Ces politiques appellent, par ailleurs, une méthodologie (III) d'élaboration du présent Plan.
 
-### IL'engagement du Gabon pour la promotion de L'Education pour tous : les forces des politiques mises en œuvre
+### I- L'engagement du Gabon pour la promotion de L'Education pour tous : les forces des politiques mises en œuvre
 
 Les  mesures  énoncées  ci-dessus  s'inscrivent  dans  la  logique  de  la  Conférence  de  Jomtiene,  d'où l'adhésion du Gabon à l'objectif ultime de la déclaration mondiale sur l'Education Pour Tous, à savoir : permettre  l'accès à l'éducation de base à tous les enfants, jeunes et adultes .
 
@@ -408,7 +464,7 @@ Au  cours  de  la  décennie  écoulée,  le  gouvernement  a  organisé,  des  
 
 - o le Baccalauréat de l'enseignement secondaire, en 1998.
 
-### IILes fondements de l'élaboration du plan d'action national PAN-EPT) : les faiblesses des politiques mises en oeuvre
+### II- Les fondements de l'élaboration du plan d'action national PAN-EPT) : les faiblesses des politiques mises en oeuvre
 
 Toutes  ces  réflexions  ont  mis  en  évidence  les  insuffisances  aux  niveaux  institutionnel,  pédagogique, financier et structurel. Il s'agit notamment de :
 
@@ -450,7 +506,7 @@ Ces  insuffisances conjuguées avec les engagements  souscrits au niveau interna
 
 En effet, pour relever le défit Education Pour Tous, le Gabon doit faire de l'éducation le vrai moteur du développement à travers sa gratuité et son caractère obligatoire, comme le prévoit la loi fondamentale, par une augmentation significative des dépenses publiques consacrées à l'éducation (jusqu'à concurrence de 10% du PNB) et par des salaires équitables et réguliers pour les enseignants.
 
-L'éducation n'est pas un privilège pour les riches. En d'autres termes, le respect du principe de l'égalité des chances en matière d'éducation exclut de facto cette approche  discriminatoire insidieuse qui voit les portes des écoles s'ouvrir aux seuls enfants de riches. Le mouvement  « l'école pour tous » implique ainsi une dimension rectificative, dont le but est de faire de l'instruction  un puissant  outil de développement  et la chose la mieux partagée par la collectivité : c'est-àdire aussi bien les catégories sociales aisées, que les catégories sociales marginalisées dont les pauvres, les personnes de troisième âge et les handicapés.
+L'éducation n'est pas un privilège pour les riches. En d'autres termes, le respect du principe de l'égalité des chances en matière d'éducation exclut de facto cette approche discriminatoire insidieuse qui voit les portes des écoles s'ouvrir aux seuls enfants de riches. Le mouvement « l'école pour tous » implique ainsi une dimension rectificative, dont le but est de faire de l'instruction un puissant outil de développement et la chose la mieux partagée par la collectivité : c'est-à-dire aussi bien les catégories sociales aisées, que les catégories sociales marginalisées dont les pauvres, les personnes de troisième âge et les handicapés.
 
 La prise de conscience des syndicats et des acteurs sociaux, interpelle  donc les  pouvoirs publics sur le Chantier de l'Education, condamné  à  la  morosité, en dépit des  projets de textes législatifs et réglementaires qui, 12 ans après Jomtienne et 2 ans après Dakar, les autorités gabonaises n'ont toujours pas  mis en œuvre  les recommandations et résolutions desdits sommets.
 
@@ -466,7 +522,7 @@ Page  11 / 71
 
 [[START OF PAGE 12]]
 
-### IIIMéthodologie d'élaboration du PAN-EPT
+### III- Méthodologie d'élaboration du PAN-EPT
 
 L'élaboration du présent plan a nécessité trois réunions préparatoires, deux réunions d'harmonisation, un atelier  d'élaboration, deux réunions de synthèse et un atelier de fianlisation. Ces rencontres organisées avec  l'appui des  partenaires au  développement  (Unesco,  Unicef)  et  ont  vu  la  participation  des représentants des ministères, des collectivités locales, des ONGs, des syndicats et associations impliqués dans la mise en œuvre de l'Education Pour Tous. Le présent PAN/EPT a été élaboré à partir des rapports produits par les six (6) groupes de travail multisectoriels.
 
@@ -503,6 +559,12 @@ Page  12 / 71
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+## -I-
+
+## PRESENTATION DU PAYS
+
+## ET DIAGNOSTIC DU SYSTEME EDUCATIF
 
 PAN - EPT
 
@@ -542,7 +604,9 @@ Le Gabon dispose d'un potentiel considérable en matière de ressources en eau e
 
 Le  Gabon possède un environnement naturel d'une très grande richesse. C'est l'un  des  rares  pays  au monde offrant un potentiel exceptionnel de conservation d'espèces animales et végétales. En dépit de la faible densité de la population et de l'impact écologique peu marqué de l'agriculture itinérante sur brûlis, les activités humaines telles que l'exploitation forestière intense dans certaines zones et le braconnage, menacent certains écosystèmes et contribuent  à la dégradation du cadre de vie. La forêt couvre environ 85% du pays et abrite quelques 8.000 espèces de plantes vasculaires (IUCN, 1990), dont 22,7% se sont révélées endémiques.
 
-> PAN - EPT 1   F. Meyo Bibang et F. Nzamba, Le Gabon, Géographie, Paris, EDICEF, 1990.
+1 F. Meyo Bibang et F. Nzamba, Le Gabon, Géographie, Paris, EDICEF, 1990.
+
+PAN - EPT
 
 Page  14 / 71
 
@@ -618,7 +682,7 @@ La richesse économique du Gabon contraste avec la paupérisation de la populati
 
 Tableau  n°1 : IDH du GABON 2
 
-Espérance de vie à la naissance (années) | Taux d'alphabétisation des adultes (%) | Taux brut de scolarisation (%) | PIB réel par habitant ($ PPA) | IDH
+ | Espérance de vie à la naissance (années) | Taux d'alphabétisation des adultes (%) | Taux brut de scolarisation (%) | PIB réel par habitant ($ PPA) | IDH
 --- | --- | --- | --- | --- | ---
 POURCENTAGE | 54,5 | 63,2 | 60 | 3766 | 0,568
 
@@ -628,15 +692,19 @@ Ainsi, le  chômage de  la population active, entraîne la  montée de la délin
 
 #### I.1.4  Contexte politique
 
-Indépendant depuis 1960, le Gabon s'est résolument engagé dans le multipartisme en 1990. Le processus de démocratisation se poursuit jusqu'à ce jour. Les institutions visant  à consolider cette démocratie ont été  mises  en  place  à  savoir :  le  Conseil  Economique  et  Social,  la  Cour  Constitutionnelle,  le  Sénat,  le Conseil National de la Communication, le Conseil National pour la Démocratie, la Commission Nationale Electorale,… Ces institutions garantissent au pays la paix et une stabilité réelle, assurant la sécurité des investissements, des biens et des  personnes. La mise en œuvre du Plan d'Action Education Pour Tous devra conforter et pérenniser ces acquis.
+Indépendant depuis 1960, le Gabon s'est résolument engagé dans le multipartisme en 1990. Le processus de démocratisation se poursuit jusqu'à ce jour. Les institutions visant à consolider cette démocratie ont été mises en place à savoir : le Conseil Economique et Social, la Cour Constitutionnelle, le Sénat, le Conseil National de la Communication, le Conseil National pour la Démocratie, la Commission Nationale
 
-PAN - EPT 2  Source : Le Développement humain au Gabon, République gabonaise/PNUD  1998
+2 Source : Le Développement humain au Gabon, République gabonaise/PNUD 1998
+
+PAN - EPT
 
 Page  16 / 71
 
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
+
+Electorale,… Ces institutions garantissent au pays la paix et une stabilité réelle, assurant la sécurité des investissements, des biens et des personnes. La mise en œuvre du Plan d'Action Education Pour Tous devra conforter et pérenniser ces acquis.
 
 PAN - EPT
 
@@ -740,14 +808,14 @@ Le cycle primaire, défini par la Loi 16/66 du 9 août 1966 portant organisation
 
 Le tableau ci-après fait état de l'organisation de l'Enseignement Primaire
 
+Tableau 2 : Organisation de l'Enseignement Primaire
+
 Ordre d'enseignement | Circonscription ou secteur scolaire | Base ou antenne pédagogique | Ecoles | Salles de classes | Classes pédagogiques
 --- | --- | --- | --- | --- | ---
 Public | 19 | 19 | 700 | 3762 | 4869
 Privé catholique | 14 | 7 | 223 | 1032 | 1387
 Privé protestant | 10 | 2 | 136 | 477 | 734
 Privé laïc | - | - | 139 | 988 | -
-
-Tableau 2 : Organisation de l'Enseignement Primaire
 
 Source : Le Ministère de l'Education Nationale, Direction des enseignements du 1er degré, 2000-2001.
 
@@ -759,14 +827,14 @@ L'enseignement public enregistre à ce jour, un déficit de 2377 salles de class
 
 ###### Le personnel enseignant
 
+Tableau 3 : Effectifs enseignants
+
 Ordre d'enseignement | Enseignants qualifiés | Moniteurs auxiliaires | Total
 --- | --- | --- | ---
 Public | 3547 | 441 | 3988
 Catholique | 684 | 203 | 887
 Protestant | 376 | 86 | 462
 Laïc | - | - | 903
-
-Tableau 3 : Effectifs enseignants
 
 Source : Le Ministère de l'Education Nationale, Direction des enseignements du 1er Degré, 2000-2001.
 
@@ -818,14 +886,14 @@ Le mobilier est insuffisant (3 élèves par banc de 2 places). Le matériel dida
 
 Comme  dans  les  chapitres  précédents,  celui  relatif  au  budget  reste  problématique :  les  écoles  ne bénéficient point  de crédit de fonctionnement.
 
+Tableau 4 : Ratio élève/maître et élèves/classe
+
 Ordre d'enseignement | Elèves | Ratio Elève/ maître | Ratio Elève/ classe
 --- | --- | --- | ---
 Public | 245560 | 69,23 | 50,44
 Catholique | 40784 | 59,63 | 29,41
 Protestant | 17537 | 46,64 | 23,90
 Laïc | 24029 | - | -
-
-Tableau 4 : Ratio élève/maître et élèves/classe
 
 Source, M.E.N.,Direction des enseignements du 1 er  Degré, 2000-2001
 
@@ -839,11 +907,20 @@ Page  21 / 71
 
 [[START OF PAGE 22]]
 
+Tableau n°5 : Ratio Elèves/classe
+
 Province | Effectif 1° degré | Nb salles de classe | Nb élèves/salle
 --- | --- | --- | ---
-Estuaire Haut Ogooué Moyen Ogooué Ngounié Nyanga Ogooué Ivindo Ogooué Lolo Ogooué Maritime Woleu Ntem Total | 88 420 26 119 6 903 12 929 8 064 10 959 9 547 21 961 20 548 205 450 | 1 350 402 183 315 239 232 231 257 601 3 810 | 65.5 65.0 37.7 41.0 33.7 47.2 41.3 85.5 34.2 53.9
-
-Tableau n°5 : Ratio Elèves/classe
+Estuaire | 88 420 | 1 350 | 65.5
+Haut Ogooué | 26 119 | 402 | 65.0
+Moyen Ogooué | 6 903 | 183 | 37.7
+Ngounié | 12 929 | 315 | 41.0
+Nyanga | 8 064 | 239 | 33.7
+Ogooué Ivindo | 10 959 | 232 | 47.2
+Ogooué Lolo | 9 547 | 231 | 41.3
+Ogooué Maritime | 21 961 | 257 | 85.5
+Woleu Ntem | 20 548 | 601 | 34.2
+Total | 205 450 | 3 810 | 53.9
 
 Source : MEN/Direction de l'Enseignement du 1 er  Degré
 
@@ -865,10 +942,10 @@ Les données de 1995  donnent les taux de redoublement suivants :
 
 Le Tableau  ci-après fait la synthèses des  données relatives à l'enseignement pré-primaire et primaire.
 
-Enseignement pré-primaire Taux brut de scolarisation (%) (1992/1993) Total : 11,48 Garçons : 11, 52 Filles : 11,43 | Enseigneme nt primaire Durée (années) 6 | Enseignemen t primaire Taux brut d'admission (%) (1994/1995) Total : 98.0 Garçons : 102.0 Filles : 94.00 | Enseignement primaire Taux brut de scolarisation (%) (1995/1996) Total : 149.5 Garçons : 147.3 Filles : 152.7 | Enseignement primaire Taux net de scolarisation (1992/1993) Total : 86.3 Garçons :84.5 Filles : 85.9 | Enseignemen t primaire pourcentage de redoublants (2001/2002) Total : 34.49 Garçons : 37.3 Filles : 35.59 | Enseignemen t primaire ratio élève/maître (2001/2002) 44 | Dépenses Publiques d'Education En % Du PIB : 3,3 En % Des dépenses de l'Etat : 9,6 | Services de la Dette 1999 En % Du PIB : 14,1 En % Des exportations de biens/Services : 19,3
---- | --- | --- | --- | --- | --- | --- | --- | ---
+Tableau n° 6 : Synopsis de l'enseignement pré-primaire et primaire au Gabon
 
-Tableau n° 6 :   Synopsis  de l'enseignement pré-primaire et primaire au Gabon
+Enseignement pré-primaire Taux brut de scolarisation (%) (1992/1993) Total : 11,48 Garçons : 11,52 Filles : 11,43 | Enseignement primaire Durée (années) 6 | Enseignement primaire Taux brut d'admission (%) (1994/1995) Total : 98.0 Garçons : 102.0 Filles : 94.00 | Enseignement primaire Taux brut de scolarisation (%) (1995/1996) Total : 149.5 Garçons : 147.3 Filles : 152.7 | Enseignement primaire Taux net de scolarisation (1992/1993) Total : 86.3 Garçons : 84.5 Filles : 85.9 | Enseignement primaire pourcentage de redoublants (2001/2002) Total : 34.49 Garçons : 37.3 Filles : 35.59 | Enseignement primaire ratio élève/maître (2001/2002) 44 | Dépenses Publiques d'Education En % Du PIB : 3,3 En % Des dépenses de l'Etat : 9,6 | Services de la Dette 1999 En % Du PIB : 14,1 En % Des exportations de biens/Services : 19,3
+--- | --- | --- | --- | --- | --- | --- | --- | ---
 
 Sources :  - Rapport final EPT 2000
 
@@ -902,12 +979,12 @@ A l'intérieur de la filière générale, l'offre de scolarisation varie selon l
 
 On note un taux de déperdition scolaire élevé dont la moyenne est de 24 %.
 
-Effectifs | Nb. sections | Nb. Salles banalisées | Nb. Salles spéc. Sces | élèves/salle | Sect/salle banalisée
+Tableau n° 7 : Capacités d'accueil de l'enseignement public en 1996/97
+
+ | Effectifs | Nb. sections | Nb. Salles banalisées | Nb. Salles spéc. Sces | élèves/salle | Sect/salle banalisée
 --- | --- | --- | --- | --- | --- | ---
 Collèges | 18 712 | 320 | 337 | 24 | 51.8 | 0.95
 Lycées | 28 732 | 562 | 594 | 94 | 41.8 | 0.95
-
-Tableau n° 7 : Capacités d'accueil de l'enseignement public en 1996/97
 
 Source : Annuaire statistique 1996/97 - MEN/DPPI.
 
@@ -983,12 +1060,14 @@ L'appréciation des politiques mises en œuvre est faite à partir des forces et
 
 ##### Les faiblesses se traduisent dans :
 
-L'insuffisance  de  compétence  nationale  en  planification  de  l'alphabétisation  et  production  du  matériel didactique ;
-
-L'inadaptation des programmes aux besoins des apprenants ; Le manque d'alphabétiseurs de base ; Le déficit  d'utilisation des langues nationales ; L'insuffisance de budget ; Le faible appui des bailleurs et partenaires au développement ; L'absence de structure de formation propre ;
-
+L'inadaptation des programmes aux besoins des apprenants ;
+L'insuffisance de compétence nationale en planification de l'alphabétisation et production du matériel didactique ;
+Le manque d'alphabétiseurs de base ;
+Le déficit d'utilisation des langues nationales ;
+L'insuffisance de budget ;
+Le faible appui des bailleurs et partenaires au développement ;
+L'absence de structure de formation propre ;
 L'obsolescence des équipements des ateliers de production ;
-
 L'absence des activités de suivi et d'évaluation ;
 
 ##### Les forces consistent en la :
@@ -1008,6 +1087,11 @@ Page  25 / 71
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
+## II -
+
+## ANALYSE, OBJECTIFS, STRATEGIES DE MIS EN OEUVRE
+
+## PROGRAMME D'INTERVENTION ET ESTIMATION DES COUTS
 
 PAN - EPT
 
@@ -1085,13 +1169,13 @@ D'une manière générale, les résultats  aux  examens  ne  sont  pas  satisfai
 
 Ces résultats sont imputables à l'insuffisance des personnels enseignants, matériels didactiques, effectifs pléthoriques, au non respect de programmes, aux mauvaises conditions de travail des personnels enseignants et à l'insuffisance de suivi évaluation.
 
-Garçons | Filles | Total
+Tableau n° 8 : Résultats du BEPC 1999
+
+ | Garçons | Filles | Total
 --- | --- | --- | ---
 Inscrits | 6 021 | 6 545 | 12 566
 Admis | 2 976 | 2 495 | 5 471
 Taux de réussite | 49.4 | 38.1 | 45.4
-
-Tableau n° 8 : Résultats du BEPC 1999
 
 Source : MEN/Direction de l'Organisation des Examens et Concours.
 
@@ -1107,6 +1191,9 @@ Page  28 / 71
 
 [[START OF PAGE 29]]
 
+Tableau n° 9 : Résultats du Baccalauréat de l'enseignement général
+1999 hors candidats libres
+
 Série | A1 | A2 | B | C | D | Total
 --- | --- | --- | --- | --- | --- | ---
 Inscrits | 1 431 | 234 | 1 459 | 175 | 1 156 | 4 455
@@ -1114,19 +1201,14 @@ Présents | 1 392 | 234 | 1 451 | 171 | 1 152 | 4 400
 Admis | 546 | 140 | 619 | 112 | 673 | 2 090
 Taux de réussite | 39.2 | 59.8 | 42.7 | 65.5 | 58.4 | 47.5
 
-Tableau n° 9 : Résultats du   Baccalauréat de l'enseignement général 1999 hors candidats libres
-
 Source : Office du Baccalauréat
 
 Comme pour le BEPC, les résultats d'ensemble  sont faibles : moins de la moitié des candidats présents obtiennent le diplôme.
 
 Le nombre total des 2 090 diplômés se répartit comme suit :
 
-Littéraires (A et B)
-
-: 1 305,soit 62.4%
-
-Scientifiques (C et D)     :  785,soit 37.5%
+Littéraires (A et B) : 1 305,soit 62.4%
+Scientifiques (C et D) : 785,soit 37.5%
 
 La série C (mathématiques et physique) ne donne que 112 bacheliers, soit 5,4% du total.
 
@@ -1160,9 +1242,11 @@ Ce déficit qualitatif n'est pas prêt d'être résorbé dans le cadre de la pol
 
 ###### Effectifs des enseignants en exercice
 
-Discipline | Sans formation | Pédagogique | avec formation | pédagogique | TOTAL | dt Gabonais
+Tableau n°10 : Situation 1998/99 dans l'enseignement public + privé
+
+Discipline | Sans formation Pédagogique |  | avec formation pédagogique |  | TOTAL | dt Gabonais
 --- | --- | --- | --- | --- | --- | ---
-bac + 2 et moins | Licence et + | bac + 3 | bac + 5
+ | bac + 2 et moins | Licence et + | bac + 3 | bac + 5 |  | 
 Français | 2 | 235 | 47 | 71 | 355 | 116
 Maths | 16 | 277 | 49 | 36 | 378 | 43
 Hist.Géo | 2 | 83 | 56 | 93 | 234 | 230
@@ -1179,8 +1263,6 @@ Ens. Ménager | 12 | 0 | 2 | 0 | 14 | 11
 Musique | 1 | 1 | 2 | 0 | 4 | 1
 Ens. Manuel Tech. | 0 | 0 | 0 | 0 | 0 | 0
 TOTAL | 159 | 1206 | 365 | 451 | 2181 | 1100
-
-Tableau n°10 : Situation 1998/99 dans l'enseignement public + privé
 
 Source : MEN/Direction de l'Enseignement Secondaire
 
@@ -1208,6 +1290,9 @@ Sur la base des textes et des contraintes calendaires, la Direction de l'enseign
 
 Ce paramètre est conforme à la législation en vigueur. L'Arrêté ministériel n° 0024 du 15/05/92  fixe les horaires  des  classes  de  l'enseignement  secondaire  général.  Il  détermine  à  partir  de  ces  données,  le nombre  de  sections  par  cycle,  le  volume  horaire  par  discipline  et  la  répartition  des  enseignants  pour l'ensemble du programme. Au cours de l'année scolaire 1998/99, cette répartition s'est effectuée comme suit, pour l'enseignement public :
 
+Tableau n°11 : Besoins calculés en fonction de l'utilisation
+rationnelle du personnel enseignant
+
 Discipline | Besoins théoriques | Disponibles | Bilan
 --- | --- | --- | ---
 Français | 313 | 285 | -28
@@ -1224,8 +1309,6 @@ EPS | 106 | 111 | +5
 Ens. Ménager | 44 | 9 | -35
 Musique | 51 | 3 | -48
 Ens. Manuel Tech. | 82 | 0 | -82
-
-Tableau n°11 : Besoins calculés en fonction de l'utilisation rationnelle du personnel enseignant
 
 Les  manques  sont  répertoriés  dans  trois  disciplines  principales :  le  français,  les  mathématiques  et  les sciences physiques, et dans les disciplines d'éveil : la musique, l'enseignement ménager et l' enseignement manuel.
 
@@ -1289,11 +1372,20 @@ Page  32 / 71
 
 Cette mesure vaut davantage pour certaines écoles urbaines, dont  l'équipement est rarement  adapté à l'accueil de ces effectifs pléthoriques.
 
+Tableau n°12 : Ratio Elèves/Enseignants dans l'enseignement public (1998/99)
+
 Province | Effectif 1° degré | Nombre enseignants | Elèves/enseignant
 --- | --- | --- | ---
-Estuaire Haut Ogooué Moyen Ogooué Ngounié Nyanga Ogooué Ivindo Ogooué Lolo Ogooué Maritime Woleu Ntem | 88 420 26 119 6 903 12 929 8 064 10 959 9 547 21 961 20 548 | 1669 373 179 270 189 272 169 297 433 | 53.0 70.0 38.6 47.9 42.7 40.3 56.5 73.9 47.5
-
-Tableau n°12 : Ratio Elèves/Enseignants dans l'enseignement public (1998/99)
+Estuaire | 88 420 | 1669 | 53.0
+Haut Ogooué | 26 119 | 373 | 70.0
+Moyen Ogooué | 6 903 | 179 | 38.6
+Ngounié | 12 929 | 270 | 47.9
+Nyanga | 8 064 | 189 | 42.7
+Ogooué Ivindo | 10 959 | 272 | 40.3
+Ogooué Lolo | 9 547 | 169 | 56.5
+Ogooué Maritime | 21 961 | 297 | 73.9
+Woleu Ntem | 20 548 | 433 | 47.5
+Total | 205 450 | 3851 | 53.3
 
 Source : MEN/DE 1
 
@@ -1359,7 +1451,7 @@ PAN - EPT Page  34 / 71
 
 [[START OF PAGE 35]]
 
-La pré-scolarisation des élèves d'origine sociale modeste ne réduit pas automatiquement  les handicaps qui  affectent  leur  réussite  scolaire.  Des  mesures  de  soutien  et  de  lutte  contre  les  carences    sociosanitaires  et  nutritionnelles  devraient  accompagner  les  élèves  tout  au  long  de  la  période  de  scolarité obligatoire. Enfin, ces actions en amont du système éducatif ne trouvent leur pleine efficacité que si elles sont combinées avec l'éducation des parents et les actions au niveau de la santé et de la nutrition.
+La pré-scolarisation des élèves d'origine sociale modeste ne réduit pas automatiquement les handicaps qui affectent leur réussite scolaire. Des mesures de soutien et de lutte contre les carences socio-sanitaires et nutritionnelles devraient accompagner les élèves tout au long de la période de scolarité obligatoire. Enfin, ces actions en amont du système éducatif ne trouvent leur pleine efficacité que si elles sont combinées avec l'éducation des parents et les actions au niveau de la santé et de la nutrition.
 
 #### II-1. 2 Gestion administrative et financière
 
@@ -1381,7 +1473,9 @@ La concentration à Libreville et dans ses environs de plus de la moitié de la 
 
 - o la démotivation des échelons locaux et régionaux, face à la durée des  délais et à l'absence de cohérence des décisions prises par un circuit complexe et mal connu ;
 
-> PAN - EPT 4  Source, Direction du personnel et de l'action sociale, Ministère de l'Education Nationale.
+> 4 Source, Direction du personnel et de l'action sociale, Ministère de l'Education Nationale.
+
+PAN - EPT
 
 Page  35 / 71
 
@@ -1495,7 +1589,7 @@ Pour réaliser l'objectif de la ''Déclaration mondiale sur l'éducation pour to
 
 Pour promouvoir l'enseignement privé, le gouvernement a élaboré un dispositif juridico-fiscal favorable à l'éclosion des établissements d'enseignement privés susceptibles de pallier les insuffisances du système public d'enseignement.
 
-Pour  la  qualité  de  l'enseignement,  le  gouvernement  entend  réduire  le  ratio  enseignants-élèves  en multipliant  les  infrastructures  d'accueil  et  en  favorisant  la  formation  des  enseignants.  Le  ratio  élèvesclasses devra être porté, à court terme, à 40 au  maximum et à 36 dans le long terme, avec la réfection des structures actuelles.
+Pour la qualité de l'enseignement, le gouvernement entend réduire le ratio enseignants-élèves en multipliant les infrastructures d'accueil et en favorisant la formation des enseignants. Le ratio élèves-classes devra être porté, à court terme, à 40 au maximum et à 36 dans le long terme, avec la réfection des structures actuelles.
 
 PAN - EPT
 
@@ -1521,20 +1615,32 @@ Pour l'UNESCO, l'éducation est un droit fondamental de l'être humain.
 
 C'est  en fonction  de ces définitions qu'il est fondamental que l'EPT prenne en compte tous les autres problèmes de populations enregistré dans le tableau ci-après :
 
-Milieu urbain | Milieu rural
---- | --- | ---
-o | Démission des parents : | o MST,VIH/SIDA o Obscurantisme : o Ignorance des populations o Manque d'instruction o Eloignement des écoles o Inexistence du pré-primaire o Manque de moyen d'information o Exode, mimétisme o Pauvreté ,
-o | Délinquance juvénile
-o | Influence négative des média
-o | Les maux de la société (drogue, avortement, alcoolisme, vie sexuelle et grossesses précoces, viols, tabagisme )
-o | Non respect de l'autorité parentale.
-o | Déscolarisation hâtive :
-o | Coût élevé de la scolarité,
-o | Analphabétisme,
-o | Pauvreté, chômage.
-o | Acculturation.
-
 Tableau n° 13 : Problèmes d'éducation prioritaire des populations
+
+Milieu urbain
+
+o Démission des parents :
+o Délinquance juvénile
+o Influence négative des média
+o Les maux de la société (drogue, avortement, alcoolisme, vie sexuelle et grossesses précoces, viols, tabagisme )
+o Non respect de l'autorité parentale.
+o Déscolarisation hâtive :
+o Coût élevé de la scolarité,
+o Analphabétisme,
+o Pauvreté, chômage.
+o Acculturation.
+
+Milieu rural
+
+o MST,VIH/SIDA
+o Obscurantisme :
+o Ignorance des populations
+o Manque d'instruction
+o Eloignement des écoles
+o Inexistence du pré-primaire
+o Manque de moyen d'information
+o Exode, mimétisme
+o Pauvreté ,
 
 PAN - EPT
 
@@ -1585,8 +1691,8 @@ Développer    et  améliorer  sous  tous  leurs  aspects  la  protection  et  l
 Défis | Obstacles | Stratégies | Activités | Résultats attendus
 --- | --- | --- | --- | ---
 1- Renforcement des structures sanitaires de proximité pour la protection des enfants jusqu'à l'âge de 5 ans. Pourvoir toutes les écoles de kits pharmaceutiques | - Pénurie de personnel sanitaire dans les structures en charge de l'encadrement de la petite enfance ; - Ressources dérisoires et mal gérées ; - Absence de synergie entre Départements ministériels responsables de l'encadrement de la petite enfance -Taux élevé de la mortalité infanto-juvénile - Paupérisation des familles défavorisées | Sensibilisation pour la protection au sein de la famille et du milieu préscolaire des conditions sanitaires des enfants de 0 à 5 ans. | 1- Renforcer des activités des SMI l'ensemble des paliers (chefs-lieux, Départements et Arrondissements 2- Renforcer le PEV de routine 3- Mettre en place un mécanisme de coordination des activités de protection et d' encadrement de la petite enfance ; 4- Doter les Ecoles Maternelles de kits de santé | SMI existantes opérationnelles Taux de couverture vaccinale assuré à 100% Mortalité infantile diminuée de 75%
-2- Réduire le coût élevé des médicaments | Absence d'une couverture maladie Pauvreté des parents | Renforcement des mesures d'accès aux médicaments Elaboration des décrets d'application de la nouvelle loi 1/2000 définissant certaines mesures générales de protection de la mère et de l'enfant | 5- Renforcer les mesures de contrôle au niveau des prix des médicaments ; 6- Promouvoir la vente et la disponibilité des médicaments génériques dans les officines et les hôpitaux ; 7- Appliquer la loi 1/2000 | Médicaments à la portée de toutes les bourses
-3- Promotion d'un environnement saint en milieu pré-primaire | Insalubrité en milieu | Sensibilisation Sensibilisation | 8- Mener des campagnes de sensibilisation ; 9- Doter de matériel liée à gestion de l'environnement 10- Introduire l'éducation à la citoyenneté | Réduction des maladies liées à l'environnement Enfants responsabilisés
+2- Réduire le coût élevé des médicaments | Absence d'une couverture maladie Pauvreté des parents | Renforcement des mesures d'accès aux médicaments Elaboration des décrets d'application de la nouvelle loi 1/2000 définissant certaines mesures générales de protection de la mère et de l'enfant Sensibilisation | 5- Renforcer les mesures de contrôle au niveau des prix des médicaments ; 6- Promouvoir la vente et la disponibilité des médicaments génériques dans les officines et les hôpitaux ; 7- Appliquer la loi 1/2000 | Médicaments à la portée de toutes les bourses
+3- Promotion d'un environnement saint en milieu pré-primaire | Insalubrité en milieu | Sensibilisation | 8- Mener des campagnes de sensibilisation ; 9- Doter de matériel liée à gestion de l'environnement 10- Introduire l'éducation à la citoyenneté | Réduction des maladies liées à l'environnement Enfants responsabilisés
 4- Participation élargie et égal accès des enfants de 3 à 5 ans à l'Enseignement maternel | Pauvreté des familles ; Non prise en compte du pré-primaire par la commission ministérielle chargée des enseignements privés | Plaidoyer auprès des décideurs pour l'intégration du pré- primaire dans la commission des enseignements privés ; Sensibilisation | 11- Organiser des réunions de plaidoyer auprès des décideurs ; 12- Mener une campagne de mobilisation pour le renforcement et l'extension des écoles maternelles 13- Mener des campagnes de sensibilisation et d'information des parents, de la société civile ( ONG pouvoirs traditionnels et religieux) sur l'éducation de la petite enfance ; 14- Restaurer et doter les établissements d'enseignement maternel en latrines et toilettes, bibliothèques et en aires des jeux ; 15- Elaborer et diffuser les textes et conventions relatifs à la création et/ou à la restauration des établissements | Pré-primaire pris en compte dans la commission Programmes et matériels didactiques harmonisés Demande en forte augmentation pour l'inscription des enfants à le pré-primaire Ecoles Maternelles revalorisées Offres d'enseignement plus nombreuses dans l'enseignement Maternel. Textes législatifs et conventions élaborés
 
 PAN - EPT
@@ -1597,10 +1703,10 @@ Page  42 / 71
 
 [[START OF PAGE 43]]
 
-d'enseignement dans le pré-primaire
+ |  |  | d'enseignement dans le pré-primaire | 
 --- | --- | --- | --- | ---
-5- Promotion équitable des droits de l'enfant au sein de la famille et de la société | Insuffisance de structures spécialisées dans le domaine de l'Encadrement de la petite enfance Non prise en compte du secteur pré-primaire par l'IPN | Plaidoyer pour la mise en place d'un observatoire sur l'encadrement et le droit de la petite enfance Vulgarisation des droits des enfants | 16- Produire des documents et textes sur les droits de l'enfant ; 17- Promouvoir l'enseignement relatif à la petite enfance y compris le droit dans les programmes de formation des instituteurs et autres acteurs ; 18- Mener des campagnes d'information et sensibilisation des parents et de la société civile (ONG pouvoirs traditionnels et religieux) , sur les conditions de vie et d'apprentissage de la petite enfance ; 19- Faire produire le matériel didactique de la petite enfance par l'IPN 20- Plaidoyer pour l'application de l'initiative 20-20* ; 40** ; 21- Promouvoir la création d' associations de parents d'élèves du pré- primaire et des association de défense des droits des enfants | Matériel produit intégré dans la formation des instituteurs ; Matériel produit sur le droit des enfants largement diffusés ; Augmentation des effectifs Dans le pré-primaire
-6- Adéquation enseignement maternel/ développement des ressources humaines et financières | Participation marginale des populations à la gestion des établissements préscolaires Faible diffusion des droits des enfants | Mobilisation des ressources humaines, matérielles et financières en faveur de la petite enfance | Meilleure qualification des instituteurs ; Structures de formation réhabilitées et/ou créées Personnel pédagogique intégré mieux recyclé Augmentation du nombre d'instituteurs de l'école maternelle Programmes d'enseignement revus et adaptés au contexte de l'enseignement de l'Ecole maternelle Carte scolaire élaborée revue et adaptée
+5- Promotion équitable des droits de l'enfant au sein de la famille et de la société | Insuffisance de structures spécialisées dans le domaine de l'Encadrement de la petite enfance Non prise en compte du secteur pré-primaire par l'IPN | Plaidoyer pour la mise en place d'un observatoire sur l'encadrement et le droit de la petite enfance Vulgarisation des droits des enfants | 16- Produire des documents et textes sur les droits de l'enfant ; 17- Promouvoir l'enseignement relatif à la petite enfance y compris le droit dans les programmes de formation des instituteurs et autres acteurs ; 18- Mener des campagnes d'information et sensibilisation des parents et de la société civile (ONG pouvoirs traditionnels et religieux) , sur les conditions de vie et d'apprentissage de la petite enfance ; 19- Faire produire le matériel didactique de la petite enfance par l'IPN | Matériel produit intégré dans la formation des instituteurs ; Matériel produit sur le droit des enfants largement diffusés ; Augmentation des effectifs Dans le pré-primaire
+6- Adéquation enseignement maternel/ développement des ressources humaines et financières | Participation marginale des populations à la gestion des établissements préscolaires Faible diffusion des droits des enfants | Mobilisation des ressources humaines, matérielles et financières en faveur de la petite enfance | 20- Plaidoyer pour l'application de l'initiative 20-20* ; 40** ; 21- Promouvoir la création d' associations de parents d'élèves du pré-primaire et des association de défense des droits des enfants | Meilleure qualification des instituteurs ; Structures de formation réhabilitées et/ou créées Personnel pédagogique intégré mieux recyclé Augmentation du nombre d'instituteurs de l'école maternelle Programmes d'enseignement revus et adaptés au contexte de l'enseignement de l'Ecole maternelle Carte scolaire élaborée revue et adaptée
 
 PAN - EPT
 
@@ -1658,7 +1764,7 @@ Page  46 / 71
 
 [[START OF PAGE 47]]
 
-Insuffisance des personnels spécialisés administration scolaire et en gestion des projets | Formation | 11- Accélérer la formation et recruter les personnels enseignants de l'EPP, l'ESG et l'ESTP (public et privé) 12- Recruter les enseignants retraités comme vacataires 13- Recruter les étudiants de niveau licence et plus ainsi que les personnes qualifiées comme vacataires 14- Revoir à la hausse l'âge de la retraite 15- Renforcer des capacités de l'ENS, de l'ENSET, ENI ; CPPA 16- Mettre en œuvre les programmes de formation continue des enseignants de l'EPP, l'ESG et de l'ESTP (public et privé) 17- Renforcer le rôle des commissions d'orientation dans les établissements de l'EPP, l'ESG et l'ESTP (public et privé) 18- Former de personnels pédagogiques et administratifs dans le domaine de la gestion scolaire et des projets d'EBF 19- Renforcer les mécanismes nécessaires à la bonne gouvernance dans la gestion du système | Augmentation du nombre d'enseignants dans les établissements de l'EPP, l'ESG et l'ESTP Augmentation du nombre de Conseillers d'orientation en nombre suffisant dans les établissements de l'EPP, l'ESG et l'ESTP Meilleure adéquation des ressources
+ | Insuffisance des personnels spécialisés administration scolaire et en gestion des projets | Formation | 11- Accélérer la formation et recruter les personnels enseignants de l'EPP, l'ESG et l'ESTP (public et privé) 12- Recruter les enseignants retraités comme vacataires 13- Recruter les étudiants de niveau licence et plus ainsi que les personnes qualifiées comme vacataires 14- Revoir à la hausse l'âge de la retraite 15- Renforcer des capacités de l'ENS, de l'ENSET, ENI ; CPPA 16- Mettre en œuvre les programmes de formation continue des enseignants de l'EPP, l'ESG et de l'ESTP (public et privé) 17- Renforcer le rôle des commissions d'orientation dans les établissements de l'EPP, l'ESG et l'ESTP (public et privé) 18- Former de personnels pédagogiques et administratifs dans le domaine de la gestion scolaire et des projets d'EBF 19- Renforcer les mécanismes nécessaires à la bonne gouvernance dans la gestion du système éducatif au Gabon | Augmentation du nombre d'enseignants dans les établissements de l'EPP, l'ESG et l'ESTP Augmentation du nombre de Conseillers d'orientation en nombre suffisant dans les établissements de l'EPP, l'ESG et l'ESTP Meilleure adéquation des ressources
 --- | --- | --- | --- | ---
 4- Enseignement des langues nationales | Déperdition des langues nationales au profil du français Dévalorisation de la culture locale Difficulté de communication des enfants avec leur milieu ethnique | Valorisation des langues nationales Intégrations des langues nationales dans les programmes et les matériels didactiques dans l'EBNF et EBI | 20- Sensibiliser les parents sur l'importance de la sauvegarde des langues vernaculaires 21- Concevoir et mettre en œuvre des programmes dans les langues vernaculaires 22- Organiser la collecte des contes, légendes, devinettes en langues vernaculaires et assurer leur large diffusion au sein des établissements et par les médias | Existence des programmes d'enseignement en langue nationales dans les établissements Disponibilité des matériels en langues nationales Adhésion des parents à la politique de promotion des langues nationales Usage des langues nationales en milieu scolaire et familial
 5- Evaluation du programme EPT | Manque d'un cadre institutionnel de suivi- évaluation du programme | Mise en place d'un comité de pilotage de l'EPT | 23- Elaborer un décret portant création et désignation des membres | Le Comité créé et fonctionnel
@@ -1690,7 +1796,7 @@ Améliorer  de  50%  les  niveaux  d'alphabétisation  des  adultes,  notamment 
 
 Défis | Obstacle | Stratégies | Activités | Résultats attendus
 --- | --- | --- | --- | ---
-1- Assurer l'appropriation par la population des politiques nationales d'alphabétisation fonctionnelle (AF) | Modicité de ressources pour l'EBNF et 'EBI Inadaptation de la politique nationale faveur de l'alphabétisation fonctionnelle. Alphabétisation fonctionnelle et alphabétisation des femmes buttent aux pesanteurs socioculturelles. Marginalisation des langues locales dans les programmes d'alphabétisation. Inadéquation entre les programmes d'alphabétisation et les besoins des populations. Participation marginale des parents et de la société civile. | Mobilisation des populations pour une politique nationale d'alphabétisation fonctionnelle (AF) Plaidoyer en faveur du développement de l'alphabétisation fonctionnelle des adultes | 1- Mener des campagnes de sensibilisation en faveur de l'alphabétisation fonctionnelle 2- Adapter la politique nationale en faveur de l'alphabétisation en fonction des besoins des populations 3- Réformer les programmes d'alphabétisation fonctionnelle des adultes, en particulier en faveur des femmes 4- Concevoir et produire des manuels didactiques adaptés pour l'alphabétisation fonctionnelle et d'éducation permanente Opérationaliser les centres d'alphabétisation 5- Renforcer des ressources humaines, financières, matérielles de la structure en charge de l'alphabétisation fonctionnelle Renforcer les capacités opérationnelles de la Direction Générale en charge de l'Alphabétisation 6- Développer des activités post alphabétisation 7- Développer des mécanismes d'insertion et de réinsertion des jeunes et des adultes (crédits adaptés) | Ressources disponibles Vulgarisation effective de la nouvelle politique nationale en matière d'alphabétisation des adultes Meilleure participation des parents et de la société civile aux programmes et aux activités de l'alphabétisation. Forte demande de l'EBNF par les parents et la société civile.
+1- Assurer l'appropriation par la population des politiques nationales d'alphabétisation fonctionnelle (AF) | Modicité de ressources pour l'EBNF et l'EBI Inadaptation de la politique nationale faveur de l'alphabétisation fonctionnelle. Alphabétisation fonctionnelle et alphabétisation des femmes buttent aux pesanteurs socioculturelles. Marginalisation des langues locales dans les programmes d'alphabétisation. Inadéquation entre les programmes d'alphabétisation et les besoins des populations. Participation marginale des parents et de la société civile. | Mobilisation des populations pour une politique nationale d'alphabétisation fonctionnelle (AF) Plaidoyer en faveur du développement de l'alphabétisation fonctionnelle des adultes | 1- Mener des campagnes de sensibilisation en faveur de l'alphabétisation fonctionnelle 2- Adapter la politique nationale en faveur de l'alphabétisation en fonction des besoins des populations 3- Réformer les programmes d'alphabétisation fonctionnelle des adultes, en particulier en faveur des femmes 4- Concevoir et produire des manuels didactiques adaptés pour l'alphabétisation fonctionnelle et d'éducation permanente Opérationaliser les centres d'alphabétisation 5- Renforcer des ressources humaines, financières, matérielles de la structure en charge de l'alphabétisation fonctionnelle Renforcer les capacités opérationnelles de la Direction Générale en charge de l'Alphabétisation 6- Développer des activités post alphabétisation 7- Développer des mécanismes d'insertion et de réinsertion des jeunes et des adultes (crédits adaptés) | Ressources disponibles Vulgarisation effective de la nouvelle politique nationale en matière d'alphabétisation des adultes Meilleure participation des parents et de la société civile aux programmes et aux activités de l'alphabétisation. Forte demande de l'EBNF par les parents et la société civile.
 
 PAN - EPT
 
@@ -1706,7 +1812,7 @@ Eliminer la déscolarisation des filles de 50% dans l'enseignement primaire et s
 
 Défis | Obstacles | Stratégies | Activités | Résultats attendus
 --- | --- | --- | --- | ---
-1- Eliminer la déscolarisation des filles | Pauvreté Harcèlement sexuel Grossesses précoces et non désirées Ignorance de méthodes contraceptives Education sexuelle insuffisante Manque de motivation des jeunes filles Démission parentale Offre éducative insuffisante Exode rural Insuffisant de structures d'accueil Laxisme des autorités face à la détérioration du climat moral et pédagogique (Moyenne sexuellement transmissible et pratique du carreau) Fille source de plaisir sexuel pour les enseignants et de revenus pour les familles démunies. Les enseignants et les parents ne sont pas pleinement associés à la gestion des structures scolaires de ( administration trop centralisée) Les conditions sanitaires du milieu scolaire sont déplorables Le système éducatif est inopérant et son rendement | Mobilisation sociale : Renforcement des capacités des travailleurs sociaux des milieux scolaires et du comité de suivi de la protection de la jeune fille Campagnes de sensibilisation Implication de toutes les composantes de la société dans l'élaboration d'une nouvelle approche favorable à la scolarisation des filles. Mise en place d'un comité de suivi chargé du plaidoyer en faveur de la protection de la fille au sein de l'école. | 1- Poursuivre la formation des enseignants initiée par l'IEC en matière d'éducation sexuelle 2- Poursuivre les campagnes de sensibilisation auprès des parents 3- Mener un plaidoyer auprès des enseignants et syndicats contre l'harcèlement en milieu scolaire 4- Multiplier les cellules d'écoute dans les établissements 5- Renforcer les effectifs des travailleurs sociaux dans les établissements scolaires 6- Développer le programme éducation à la parenté responsable. 7- Créer de comités de suivi pour la protection de jeune fille au sein de la société de la famille et en milieu scolaire. 8- Elaborer et adopter une Charte nationale sur la morale et l'éthique pour la protection de la jeune fille. 9- Mener un plaidoyer auprès des décideurs | Augmentation du volume des ressources disponibles Augmentation des demandes de la population pour la scolarisation des filles Relèvement du taux de scolarisation des filles Relèvement de l'indice de parité F/G Une scolarité plus longue et mieux encadrée également pour les filles ; Un rendement scolaire plus soutenu pour les filles ; Une réduction significative des taux d'abandons et de redoublement des filles ; Renforcement des capacités d'accueil des infrastructures Consensus de la communauté pour une participation plus élargie à la scolarisation des filles Meilleure couverture et encadrement des filles
+1- Eliminer la déscolarisation des filles | Pauvreté Harcèlement sexuel Grossesses précoces et non désirées Ignorance de méthodes contraceptives Education sexuelle insuffisante Manque de motivation des jeunes filles Démission parentale Offre éducative insuffisante Exode rural Insuffisant de structures d'accueil Laxisme des autorités face à la détérioration du climat moral et pédagogique (Moyenne sexuellement transmissible et pratique du carreau) Fille source de plaisir sexuel pour les enseignants et de revenus pour les familles démunies. Les enseignants et les parents ne sont pas pleinement associés à la gestion des structures scolaires de ( administration trop centralisée) Les conditions sanitaires du milieu scolaire sont déplorables Le système éducatif est inopérant et son rendement interne est très faible malgré les ressources disponibles | Mobilisation sociale : Renforcement des capacités des travailleurs sociaux des milieux scolaires et du comité de suivi de la protection de la jeune fille Campagnes de sensibilisation Implication de toutes les composantes de la société dans l'élaboration d'une nouvelle approche favorable à la scolarisation des filles. Mise en place d'un comité de suivi chargé du plaidoyer en faveur de la protection de la fille au sein de l'école. | 1- Poursuivre la formation des enseignants initiée par l'IEC en matière d'éducation sexuelle 2- Poursuivre les campagnes de sensibilisation auprès des parents 3- Mener un plaidoyer auprès des enseignants et syndicats contre l'harcèlement en milieu scolaire 4- Multiplier les cellules d'écoute dans les établissements 5- Renforcer les effectifs des travailleurs sociaux dans les établissements scolaires 6- Développer le programme éducation à la parenté responsable. 7- Créer de comités de suivi pour la protection de jeune fille au sein de la société de la famille et en milieu scolaire. 8- Elaborer et adopter une Charte nationale sur la morale et l'éthique pour la protection de la jeune fille. 9- Mener un plaidoyer auprès des décideurs | Augmentation du volume des ressources disponibles Augmentation des demandes de la population pour la scolarisation des filles Relèvement du taux de scolarisation des filles Relèvement de l'indice de parité F/G Une scolarité plus longue et mieux encadrée également pour les filles ; Un rendement scolaire plus soutenu pour les filles ; Une réduction significative des taux d'abandons et de redoublement des filles ; Renforcement des capacités d'accueil des infrastructures Consensus de la communauté pour une participation plus élargie à la scolarisation des filles Meilleure couverture et encadrement des filles
 
 PAN - EPT
 
@@ -1734,12 +1840,12 @@ Page  51 / 71
 
 [[START OF PAGE 52]]
 
-11- Créer une régie d'avance pour les activités de formation continue | Existence d'une régie d'avance
+ |  |  | 11- Créer une régie d'avance pour les activités de formation continue | Existence d'une régie d'avance
 --- | --- | --- | --- | ---
 3- Faire connaître au personnel enseignant l'évaluation des acquis | Manque de culture de l'évaluation des acquis des élèves par les tests Manque de critère de qualité et d'excellence inexistant | Détermination des critères de qualité Plaidoyer en faveur de l'évaluation des acquis dans les établissements scolaires | 12- Mener une étude pour l'identification des critères de qualité et excellence et vulgariser les résultats 13- Organiser des séminaires de sensibilisation sur l'évaluation des acquis 14- Inclure des notions d'évaluation des acquis dans les programmes des écoles de formation des enseignants 15- Evaluer les acquis des élèves en lecture, français, mathématiques, sciences et en vie courante | Utilisation des critères de qualité et d'excellence Les enseignants informés aux méthodes d'évaluation complémentaire à celles utilisées Disponibilité des données quantitatives et analytiques Réajuster la politique éducative
 4- Former les chefs d'établissement à la gestion des écoles | Les chefs d'établissement ne sont pas formés à la gestion des établissement Forte mobilité des enseignants pour cause d'affectation | Plaidoyer pour la création d'un corps de chef d'établissement | 16- Créer une filière de chef d'établissement à l'ENS | Des chefs d'établissement de carrière
 5- Réduire les effectifs pléthoriques dans les grands centres urbains | Exode rural Insuffisance des structures d'accueil Insuffisance du personnel d'enseignant | Mise en place d'une politique de lutte contre l'exode rurale Relèvement du budget d'investissement du MEN Réactiver le service des constructions scolaire du MEN Plaidoyer pour alléger les procédures de règlement au trésor en faveur des opérateurs économiques | 17- Planifier, construire et réhabiliter des salles de classe 18- Appliquer la politique de sectorisation (établissement de proximité) 19- Recruter et former des enseignants 20- Réactiver et réorganiser le service des constructions scolaire en direction 21- Equiper le service constructions scolaires en un véritable bureau d'études | Valorisation des campagnes Des structures d'accueil qui répondent à la demande Le déficit en salle de classe comblé Amélioration du ratio élève/enseignant Une direction des constructions scolaires équipée et fonctionnelle
-6- Pourvoir les 20 000 tables banc de déficit | Lourdeur administrative quant au paiement des fournisseurs Les coupes imprévues du budget d'investissement | Renforcement des capacités de production des menuiseries du ministère Allégement des procédures de décaissement des budgets d'investissement au Trésor | 22- Renforcer les capacités de production des menuiseries existantes 23- Budgétiser l'achat du bois pour les menuiseries d'état 24- Plaidoyer auprès du ministère des finances | Des tables banc à coût moins élevé et aux normes exigées
+6- Pourvoir les 20 000 tables banc de déficit | Lourdeur administrative quant au paiement des fournisseurs Les coupes imprévues du budget d'investissement | Renforcement des capacités de production des menuiseries du ministère Allégement des procédures de décaissement des budgets d'investissement au Trésor | 22- Renforcer les capacités de production des menuiseries existantes 23- Budgétiser l'achat du bois pour les menuiseries d'état 24- Plaidoyer auprès du ministère des finances pour alléger les | Des tables banc à coût moins élevé et aux normes exigées
 
 PAN - EPT
 
@@ -1749,7 +1855,7 @@ Page  52 / 71
 
 [[START OF PAGE 53]]
 
-procédures de décaissement du budget d'investissement
+ |  |  | procédures de décaissement du budget d'investissement |
 --- | --- | --- | --- | ---
 7- Réduire l'insuffisance en manuels scolaires des élèves. | Insuffisance des manuel scolaires Vandalisme dans les établissements scolaires | Pérenniser la politique du livre Plaidoyer auprès des partenaires au développement | 25- Budgétiser l'achat des manuels scolaires pour les élèves 26- Réhabiliter et équiper l'imprimerie du MEN 27- Assurer gratuité le trousseau scolaire aux enfants et en priorité aux plus défavorisés | 1 livre par élève L'imprimerie opérationnelle Trousseaux scolaires distribués
 8- Amener les enseignants à acquérir leur propre matériel didactique | Les enseignants ne font plus d'effort d'acheter leur matériel didactique | Inciter les enseignants à avoir le matériel de l'enseignant Fournir aux enseignants une carte de réduction pour l'achat du matériel didactique | 28- Sensibiliser les enseignants pour l'achat de leur matériel d'enseignement 29- Attribuer les cartes de réduction des prix des manuels didactiques aux enseignants | Tous les enseignants pourvus de matériel didactique Cartes de réduction disponibles
@@ -1764,11 +1870,11 @@ Page  53 / 71
 
 #### Objectif n° VII
 
+Réduire de 75 % le taux de prévalence des IST/SIDA en milieu scolaire.
+
 Défis | Obstacles | Stratégies | Activités | Résultats attendus
 --- | --- | --- | --- | ---
 1- Amélioration de l'état de santé pour une meilleure scolarité | Rapports sexuels précoces (âge moyen des premiers est de 12 ans pour les filles et de 15 ans pour les garçons ). Rapports sexuels non protégés Insensibilité de la population aux ravages du fléau Pesanteurs socio-culturelles (éducation sexuelle tabou) Pas de dépistages systématiques du VIH/SIDA | Mise en place de mécanismes de coordination au niveau institutionnel et structurel pour assurer le renforcement du système sanitaire défaillant. Mobilisation sociale | 1- Renforcer la multiplication des campagnes de sensibilisation auprès des populations sur le dépistage dangers du SIDA en milieu scolaire pour les jeunes filles en particulier ; 2- Faire participer les parents à la sensibilisation des enfants aux dangers du SIDA (parenté responsable) ; 3- Renforcer les activités d' IEC multisectorielle sur les IST/SIDA, les jeunes et la sexualité précoce en milieu scolaire ; 4- Institutionnaliser les aides aux séropositifs en milieu scolaire ; 5- Mener des études sur l'impact du VIH /SIDA et des IST en milieu scolaire, en particulier en rapport à la situation des jeunes filles. 6- Multiplier des cellules d'information sur le sida sur l'ensemble de u pays 7- Renforcer les capacités des travailleurs sociaux et autres intervenants en matière de communication avec les jeunes sur le VIH/SIDA 8- Promouvoir la formation des éducateurs pairs en milieu scolaire | Baisse significative de la pandémie du SIDA et des taux de grossesses précoces en milieu scolaire ; Introduction de l'enseignement sur la thématique des IST/SIDA dans les programmes scolaires ; Adoption de comportements responsables face au SIDA Existence de centres d'information des jeunes sur le SIDA Institutionnalisation des aides publiques aux malades du SIDA ; Assistance sociale et autres personnels formés ; Budget de la communication sécurisé
-
-Réduire de 75  %  le taux de prévalence des IST/SIDA en milieu scolaire.
 
 PAN - EPT
 
@@ -1785,14 +1891,14 @@ Activités | Période d'exécution | Acteurs | Indicateurs de résultats | Finan
 --- | --- | --- | --- | --- | ---
 1- Renforcer des activités des SMI sur l'ensemble des paliers (chefs-lieux, départements et arrondissements) | 2003-2015 | MS MAS MPP Collectivités locales | SMI existantes opérationnelles | MFB Collectivités locales FINEX FED | 1.000.000.000
 2- Renforcer le PEV de routine | 2003-2005 | MS MAS MPP Collectivités locales | Taux de couverture vaccinale assuré à 100% | MFB Collectivités locales Unicef OMS | 600.000.000
-3- Mettre en place un mécanisme de coordination des activités de protection et d' encadrement de la petite enfance et assurer son fonctionnement | 2003-2005 | MF MAS MEN ONGs Collectivités locales | Unicef Collectivités locales | 10.000.000
-4- Doter les Ecoles Maternelles de kits de santé | 2003-2005 | MF MFB Collectivités locales | MFB Privé Collectivités locales | 400.000.000
+3- Mettre en place un mécanisme de coordination des activités de protection et d' encadrement de la petite enfance et assurer son fonctionnement | 2003-2005 | MF MAS MEN ONGs Collectivités locales |  | Unicef Collectivités locales | 10.000.000
+4- Doter les Ecoles Maternelles de kits de santé | 2003-2005 | MF MFB Collectivités locales |  | MFB Privé Collectivités locales | 400.000.000
 5- Renforcer les mesures de contrôle au niveau des prix des médicaments ; | 2003-2005 | MSP MFB Collectivités locales | Médicaments à la portée de toutes les bourses | MFB Collectivités locales | 10.000.000
-6- Promouvoir la vente et la disponibilité des médicaments génériques dans les officines et les hôpitaux ; | 2003-2005 | MSP MAS ONGs Pharmaciens privé Collectivités locales | MFB OMS Collectivités locales | 3.000.000
-7- Appliquer la loi 1/2000 | 2003 | MS MAS MF | Collectivités locales | -
+6- Promouvoir la vente et la disponibilité des médicaments génériques dans les officines et les hôpitaux ; | 2003-2005 | MSP MAS ONGs Pharmaciens privé Collectivités locales |  | MFB OMS Collectivités locales | 3.000.000
+7- Appliquer la loi 1/2000 | 2003 | MS MAS MF |  | Collectivités locales | -
 8- Mener des campagnes de sensibilisation sur la promotion de l'allaitement maternel et conditions sanitaires dans le pré- primaire ; | 2003-2015 | MF MComm MEP MS MF ONGs | Réduction des maladies liées à l'environnement | MFB Unicef OMS Collectivités locales | 500.000.000
 9- Doter les écoles maternelles de matériel liée à gestion de l'environnement | 2003-2015 | Menv MEN ONGs Promoteurs privés Collectivités locales | Enfants responsabilisés | MFB ONGs Promoteurs privé FINEX Collectivités locales | 500.000.000
-10- Introduire l'éducation à la citoyenneté | 2003-2015 | MEP MEN Menv Collectivités locales MDHomm MAS MF | MFB Collectivités locales | 300.000.000
+10- Introduire l'éducation à la citoyenneté | 2003-2015 | MEP MEN Menv Collectivités locales MDHomm MAS MF |  | MFB Collectivités locales | 300.000.000
 11- Organiser des réunions de plaidoyer auprès des décideurs | 2003-2005 | MEN MF MAS ONGs Collectivités locales | Pré-primaire pris en compte dans la commission | MFB Unicef | 5.000.000
 12- Renforcer et étendre des écoles maternelles sur le territoire national | 2003-2015 | MEN MF MAS Collectivités locales Promoteurs privé | Programmes et matériels didactiques harmonisés | MFB FINEX Promoteurs privé | 5.000.000.000
 
@@ -1804,16 +1910,16 @@ Page  55 / 71
 
 [[START OF PAGE 56]]
 
-13- Mener des campagnes de sensibilisation et d'information des parents, de la société civile ( ONG pouvoirs traditionnels et religieux) sur l'éducation de la petite enfance ; | 2003-2015 | MEN MF MAS ONGs MComm MFP Collectivités locales | MFB Unesco Fnuap Unicef | 500.000.000
+13- Mener des campagnes de sensibilisation et d'information des parents, de la société civile ( ONG pouvoirs traditionnels et religieux) sur l'éducation de la petite enfance ; | 2003-2015 | MEN MF MAS ONGs MComm MFP Collectivités locales |  | MFB Unesco Fnuap Unicef | 500.000.000
 --- | --- | --- | --- | --- | ---
-14- Restaurer et doter les établissements d'enseignement maternel en latrines et toilettes, bibliothèques et en aires des jeux ; | 2003-2015 | MEN MF MAS MPP Menv MEP MTP MSP | Ecoles Maternelles revalorisées | MFB FED Francophonie FINEX | 5.000.000.000
+14- Restaurer et doter les établissements d'enseignement maternel en latrines et toilettes, bibliothèques et en aires des jeux ; | 2003-2015 | MEN MF MAS MPP Menv MEP MTP MSP Collectivités locales | Ecoles Maternelles revalorisées | MFB FED Francophonie FINEX | 5.000.000.000
 15- Elaborer et diffuser les textes et conventions relatifs à la création et/ou à la restauration des établissements d'enseignement dans le pré- primaire | 2003-2005 | MEN MF MAS MPP MEP MSP Syndicats/ONGs Collectivités locales | Textes législatifs et conventions élaborés | MFB Unicef Funap | 10.000.000
 16- Produire des documents et textes sur les droits de l'enfant ; | 2003-2010 | MS MEN MF MDH OMS UNESCO UNICEF Collectivités locales | Matériel produit intégré dans la formation des instituteurs ; | MFB Unicef Fnuap | 100.000.000
-17- Promouvoir l'enseignement relatif à la petite enfance y compris le droit dans les programmes de formation des instituteurs et autres acteurs ; | 2003-2015 | MEN MAS MF | MFB Fnuap Unicef Unesco ICESCO | 400.000.000
-18- Mener des campagnes d'information et sensibilisation des parents et de la société civile (ONG pouvoirs traditionnels et religieux) , sur les conditions de vie et d'apprentissage de la petite enfance ; | 2003-2015 | MEN MAS MF MComm Syndicats/ONGs Collectivités locales | MEFB Fnuap Unicef Unesco ICESCO | 500.000.000
-19- Faire produire le matériel didactique de la petite enfance par l'IPN | 2003-2015 | MEN MAS MF Collectivités locales | MEFB Unicef Unesco ICESCO | 700.000.000
-20- Plaidoyer pour l'application de l'initiative 20- 20* ; 40** ; | 2003-2005 | MEN Syndicats/ONGs | MEFB | 2.000.000
-21- Promouvoir la création d' associations de parents d'élèves du pré-primaire et des association de défense des droits des enfants | 2003-2005 | MEN Syndicats/ONGs Partenaires au développement | PNUD Unicef Fnuap | 20.000.000
+17- Promouvoir l'enseignement relatif à la petite enfance y compris le droit dans les programmes de formation des instituteurs et autres acteurs ; | 2003-2015 | MEN MAS MF |  | MFB Fnuap Unicef Unesco ICESCO | 400.000.000
+18- Mener des campagnes d'information et sensibilisation des parents et de la société civile (ONG pouvoirs traditionnels et religieux) , sur les conditions de vie et d'apprentissage de la petite enfance ; | 2003-2015 | MEN MAS MF MComm Syndicats/ONGs Collectivités locales |  | MEFB Fnuap Unicef Unesco ICESCO | 500.000.000
+19- Faire produire le matériel didactique de la petite enfance par l'IPN | 2003-2015 | MEN MAS MF Collectivités locales |  | MEFB Unicef Unesco ICESCO | 700.000.000
+20- Plaidoyer pour l'application de l'initiative 20- 20* ; 40** ; | 2003-2005 | MEN Syndicats/ONGs |  | MEFB | 2.000.000
+21- Promouvoir la création d' associations de parents d'élèves du pré-primaire et des association de défense des droits des enfants | 2003-2005 | MEN Syndicats/ONGs Partenaires au développement |  | PNUD Unicef Fnuap | 20.000.000
 
 PAN - EPT
 
@@ -1829,15 +1935,15 @@ Activités | Période d'exécution | Acteurs | Indicateurs de résultats | Finan
 --- | --- | --- | --- | --- | ---
 1- Collecter les données chaque fin d'années | 2003-2015 | MEN | 9 services de statistiques et de planification créés et fonctionnels | MEFB MPPD | 500.000.000
 2- Créer des services de statistiques et de planification scolaire dans chaque IDA | 2003 | MEN | Rendements scolaires améliorés | MEFB UE | 100.000.000
-3- Former des instituteurs à la collecte et à l'exploitation des données statistiques | 2003-2005 | MEN Unesco Unicef | MEFB UE Unesco Unicef | 150.000.000
-4- Renforcer les capacités des mécanismes de collecte l'IDA | 2003 2009 2012 | MEN | MEFB PNUD UE | 144.000.000
+3- Former des instituteurs à la collecte et à l'exploitation des données statistiques | 2003-2005 | MEN Unesco Unicef |  | MEFB UE Unesco Unicef | 150.000.000
+4- Renforcer les capacités des mécanismes de collecte l'IDA | 2003 2009 2012 | MEN |  | MEFB PNUD UE | 144.000.000
 5- Doter les circonscriptions et les bases pédagogiques de moyens humains, matériels, logistiques et financiers nécessaires à l'exécution de leur mission | 2003 | MEN | Circonscriptions et bases pédagogiques fonctionnelles et efficaces | MEFB FINEX | 1.005.000.000
 6- Renforcer les capacités de la direction de la planification | 2003-2005 | MEN | Enseignants mieux encadrés | MEFB Unesco Isesco | 100.000.000
-7- Construire 1500 de salles de classe et réhabiliter 1200 salles | 2003-2015 | MEN | MEFB FINEX | 26.040.000.000 (soit 8.608.000.000 tous les trois ans)
+7- Construire 1500 de salles de classe et réhabiliter 1200 salles | 2003-2015 | MEN |  | MEFB FINEX | 26.040.000.000 (soit 8.608.000.000 tous les trois ans)
 8- Recruter, former et recycler les personnels d'encadrement et de direction au public et au privé | 2003-2015 | MEN | Evaluation, recyclage, gestion rationnelle des ressources humaines effectives | MEFB Unesco Coopération Française Promoteur privé | 500.000.000
-9- Augmenter le budget des collectivités locales pour une meilleure prise en charge des personnes enseignants auxiliaires | 2004 | MI MEN SENAT Assemblée Nationale | MEFB | -
-10- Améliorer les compétences des personnels enseignant du primaire en matière d'évaluation | 2003-2015 | MEN | MEFB Unesco Coopération Française Promoteur privé | PM : pris en compte dans le point 8.
-11- Organiser des séminaires sur une meilleure gestion du système éducatif | 2003-2005 | MEN Unesco | MEFB Unesco Isesco | 150.000.000
+9- Augmenter le budget des collectivités locales pour une meilleure prise en charge des personnes enseignants auxiliaires | 2004 | MI MEN SENAT Assemblée Nationale |  | MEFB | -
+10- Améliorer les compétences des personnels enseignant du primaire en matière d'évaluation | 2003-2015 | MEN |  | MEFB Unesco Coopération Française Promoteur privé | PM : pris en compte dans le point 8.
+11- Organiser des séminaires sur une meilleure gestion du système éducatif | 2003-2005 | MEN Unesco |  | MEFB Unesco Isesco | 150.000.000
 12- Ouvrir un CID dans chaque circonscription scolaire | 2004-2015 | MEN | Existence des CDI fonctionnels | MEFB FINEX Coopération multi bilatérale | 200.000.000
 13- Assurer l'accès à Internet à toutes les circonscriptions scolaires + | 2003-2015 | MEN MComm Collectivités locales | Accès effectif à internet | MEFB FINEX Unesco | 10.000.000
 
@@ -1849,19 +1955,19 @@ Page  57 / 71
 
 [[START OF PAGE 58]]
 
-Fax | Coopération bilatérale
+Fax |  |  |  | Coopération bilatérale |
 --- | --- | --- | --- | --- | ---
 14- Mener une étude sur les déperditions et redoublements scolaires dans l'enseignement primaire | 2004 - 2005 | MEN MPPD | Révision effective du temps des horaires pédagogiques | MEFB Unesco Unicef Fnuap | 50.000.000
-15- Construire 270 logements de fonction | 2003-2005 | MPPD Collectivités locales MTP | MEFB FINEX | 5.400.000.000
+15- Construire 270 logements de fonction | 2003-2005 | MPPD Collectivités locales MTP |  | MEFB FINEX | 5.400.000.000
 16- Créer une ligne budgétaire pour le fonctionnement des écoles primaires | 2004 | MEN MEFB | Augmentation effective des subventions publiques en faveur des écoles privées | MEFB | 600.000.000
-17- Doter les écoles primaires publiques et privées en équipements en latrines/toilettes, points d'eau potable, équipements électriques, espaces verts et de clôtures | 2003-2015 | MEN MSP MEnv MEP | MEFB UE FINEX | 5.000.000.000
-18- Elaborer et/ ou remettre à jour de guides pédagogiques et manuels scolaires au niveau de l'enseignement primaire | 2003-2010 | MEN Partenaires extérieurs | MEFB Fnuap | 500.000.000
-19- Assurer la gratuité des manuels scolaires aux enfants défavorisés et handicapés | 2004-2015 | MEN MPPD | MEFB | 700.000.000
+17- Doter les écoles primaires publiques et privées en équipements en latrines/toilettes, points d'eau potable, équipements électriques, espaces verts et de clôtures | 2003-2015 | MEN MSP MEnv MEP |  | MEFB UE FINEX | 5.000.000.000
+18- Elaborer et/ ou remettre à jour de guides pédagogiques et manuels scolaires au niveau de l'enseignement primaire | 2003-2010 | MEN Partenaires extérieurs |  | MEFB Fnuap | 500.000.000
+19- Assurer la gratuité des manuels scolaires aux enfants défavorisés et handicapés | 2004-2015 | MEN MPPD |  | MEFB | 700.000.000
 20- Former les personnels pédagogiques et administratifs chargés de l'évaluation des programmes, manuels scolaires et matériels didactiques | 2004-2010 | MEN | Formation effective des spécialistes | MEFB FINEX Unesco Isesco | 60.000.000
 21- Mener des campagnes de sensibilisation | 2003-2015 | MEN Menv MAS MF ONGs | Réduction des maladies liées à l'environnement | MEFB ONGs FINEX Unesco | 300.000.000
-22- Doter les établissements en matériel liée à gestion de l'environnement | 2003-2015 | MEN Menv MAS MF ONGs Partenaires locaux | MEFB ONGs Collectivités locales Opérateurs économiques Coopération bilatérale Promoteurs d'établissements privé | 500.000.000
+22- Doter les établissements en matériel liée à gestion de l'environnement | 2003-2015 | MEN Menv MAS MF ONGs Partenaires locaux |  | MEFB ONGs Collectivités locales Opérateurs économiques Coopération bilatérale Promoteurs d'établissements privé | 500.000.000
 23- Introduire l'éducation à la citoyenneté dans les établissements | 2003-2015 | MEN Partenaires locaux | Enfants responsabilisés | MEFB Unseco FINEX | PM : pris en compte dans le point 8
-24- Réactiver les conventions de gardiennage avec les sociétés compétentes et les | 2003 | MEN Sociétés de gardiennage MI | MEFB | 1.500.000.000
+24- Réactiver les conventions de gardiennage avec les sociétés compétentes et les | 2003 | MEN Sociétés de gardiennage MI |  | MEFB | 1.500.000.000
 
 PAN - EPT
 
@@ -1871,13 +1977,13 @@ Page  58 / 71
 
 [[START OF PAGE 59]]
 
-élargir avec les ministères de la Défense et de l'intérieur | MDN
+élargir avec les ministères de la Défense et de l'intérieur |  | MDN |  |  |
 --- | --- | --- | --- | --- | ---
 25- Mener des campagnes de sensibilisation annuelles pour la promotion de la scolarisation des enfants défavorisés et handicapés | 2003-2005 2006-2010 2011-2015 | MEN MAS MF MComm ONGs | Augmentation de la demande de scolarisation des enfants défavorisés; | MEFB FINEX ONGs OMS Unicef | 400.000.000
 26- Prendre en charge les enfants accusant un retard scolaire | 2004-2015 | MEN MAS MF MFP MPPD | Augmentation du Taux de scolarisation des enfants défavorisés | MEFB FINEX ONGs Unicef | 500.000.000
 27- Créer et équiper dans chaque province un centre pour handicapés sensoriels | 2004-2010 | MEN MPPD MAS MF | Mise en place effective des structures spécifiques | MEFB FINEX Coopération bilatérale ONGs | 5.000.0000.000
 28- Octroyer le matériel orthopédique et aménager les rampes d'accès pour les enfants handicapés moteurs | 2004-2006 | MAS MEN MF | Prise en charge et scolarisation des enfants défavorisés. | MEFB ONGs FINEX Coopération bilatérale Collectivités locales | 600.000.000
-29- Former et recycler 100 personnels qualifiés pour les handicapés sensoriels | 2004-2015 | MEN MAS MF | MEFB ONGs FINEX Coopération bilatérale Collectivités locales | 600.000.000
+29- Former et recycler 100 personnels qualifiés pour les handicapés sensoriels | 2004-2015 | MEN MAS MF |  | MEFB ONGs FINEX Coopération bilatérale Collectivités locales | 600.000.000
 
 PAN - EPT
 
@@ -1892,13 +1998,13 @@ Page  59 / 71
 Activités | Période d'exécution | Acteurs | Indicateurs de résultats | Financement | Coûts
 --- | --- | --- | --- | --- | ---
 1- Appliquer l'initiative 20- 20 ;40 | 2004 | MPPD MEFB MEN MSP Assemblée Nationale Sénat CES | Amélioration de l'offre d'éducation et du taux brut de scolarisation | MEFB | -
-2- Assurer l'exécution du budget à terme | 2003 | MPPD MEFB MEN | -
-3- Renforcer les enseignements en matière de santé de la reproduction dans les établissements scolaires | 2003 | MEN MSP | Programmes signés et diffusés | -
-4- Prendre des mesures garantissant la prise en charge en milieu scolaire des enfants et jeunes affectés et/ou infectés par le VIH/SIDA, IST ; | 2004 | MEN MDH MSP MF MAS ONGs | MEFB Unicef ONU/SIDA OMS | 20.000.000
+2- Assurer l'exécution du budget à terme | 2003 | MPPD MEFB MEN |  |  | -
+3- Renforcer les enseignements en matière de santé de la reproduction dans les établissements scolaires | 2003 | MEN MSP | Programmes signés et diffusés |  | -
+4- Prendre des mesures garantissant la prise en charge en milieu scolaire des enfants et jeunes affectés et/ou infectés par le VIH/SIDA, IST ; | 2004 | MEN MDH MSP MF MAS ONGs |  | MEFB Unicef ONU/SIDA OMS | 20.000.000
 5- Renforcer les campagnes annuelles de sensibilisation dans les établissements sur les thématiques axées sur le VIH/SIDA, IST obstacles qui limitent la poursuite de leur scolarité. | 2003 | MEN MSP MF MAS ONGs Associations MEP | Campagnes effectives | MEFB Unicef ONU/SIDA FNUAP OMS ONGs Associations | 300.000.000
-6- Mener une étude sur l' impact des ressources sur la qualité de l 'éducation | 2004 | MEN | MEFB Unesco Francophonie | 50.000.000
-7- Poursuivre l'harmonisation des programmes entrepris au niveau sous-régional et régional | 2003-2010 | MEN | MEFB Unesco Francophonie | 200.000.000
-8- Accélérer la mise en œuvre de la réforme de l'enseignement général, technique et professionnel | 2003-2015 | MEN MFP Promoteurs privé | MEFB MPPD Unesco Isesco Francophonie BIT Coopération bilatérale FINEX ONGs | 1.000.000.000
+6- Mener une étude sur l' impact des ressources sur la qualité de l 'éducation | 2004 | MEN |  | MEFB Unesco Francophonie | 50.000.000
+7- Poursuivre l'harmonisation des programmes entrepris au niveau sous-régional et régional | 2003-2010 | MEN |  | MEFB Unesco Francophonie | 200.000.000
+8- Accélérer la mise en œuvre de la réforme de l'enseignement général, technique et professionnel | 2003-2015 | MEN MFP Promoteurs privé |  | MEFB MPPD Unesco Isesco Francophonie BIT Coopération bilatérale FINEX ONGs | 1.000.000.000
 9- Construire et restaurer des établissements techniques | 2004-2015 | MEN MFP Promoteurs privé | Structures équipées | MEFB MPPD Unesco Isesco Francophonie BIT Coopération bilatérale FINEX Promoteurs privé ONGs | 2.000.000.000
 
 PAN - EPT
@@ -1909,17 +2015,17 @@ Page  60 / 71
 
 [[START OF PAGE 61]]
 
-10- Créer et encourager la multiplication les nouvelles filières et passerelles dans les établissements de formation professionnelle pour les jeunes et adultes | 2004-2015 | MEN MFP MPME MTravail MEP MTA MADR MEnv MLCPauvreté | MEFB MPPD PSFE Francophonie Unesco Coopération bilatérale FINEX | 200.000.000
+10- Créer et encourager la multiplication les nouvelles filières et passerelles dans les établissements de formation professionnelle pour les jeunes et adultes | 2004-2015 | MEN MFP MPME MTravail MEP MTA MADR MEnv MLCPauvreté |  | MEFB MPPD PSFE Francophonie Unesco Coopération bilatérale FINEX | 200.000.000
 --- | --- | --- | --- | --- | ---
 11- Renforcer la formation et recruter les personnels enseignants de l'EPP, l'ESG et l'ESTP (public et privé) | 2003 - 2015 | MEN MFPublique Promoteurs privé | Augmentation du nombre d'enseignants dans les établissements de l'EPP, l'ESG et l'ESTP | MEFB Promoteurs privé | 110.070.000.000
-12- Recruter les enseignants retraités comme vacataires | 2004 | MEN MEFB | MEFB | PM : pris en compte dans le point 11
-13- Recruter les étudiants de niveau licence et plus ainsi que les personnes qualifiées comme vacataires | 2004 | MEN MEFB | MEFB | PM : pris en compte dans le point 11
-14- Revoir à la hausse l'âge de la retraite des personnels enseignants | 2004 | MEN MFPublique MEFB | Meilleure adéquation des ressources | - | -
-15- Renforcer les capacités de l'ENS, de l'ENSET, ENI ; CPPA | 2004 | Syndicats MEN MPPD MES | MEFB MPPD | 300.000.000
-16- Mettre en œuvre les programmes de formation continue des enseignants de l'EPP, l'ESG et de l'ESTP (public et privé) | 2004-2015 | MEN MFP MES | MEFB Unesco Isesco Francophonie | 150.000.000
-17- Renforcer le rôle des commissions d'orientation dans les établissements de l'EPP, l'ESG et l'ESTP (public et privé) | 2003 | MEN MEFB MPPD Associations des parents Syndicats | - | -
-18- Former les personnels pédagogiques et administratifs dans le domaine de la gestion scolaire et des projets | 2004-2015 | MEN MFP MFPublique MESup | MEFB Unesco FINEX PNUD | 100.000.000
-d'EBF 19-- Renforcer les mécanismes nécessaires à la bonne gouvernance dans la gestion du système éducatif au Gabon | 2003 - 2005 | MEN Contrôle d'Etat MJustice | MEFB Unesco PNUD Cooperation bilatérale | 50.000.000
+12- Recruter les enseignants retraités comme vacataires | 2004 | MEN MEFB |  | MEFB | PM : pris en compte dans le point 11
+13- Recruter les étudiants de niveau licence et plus ainsi que les personnes qualifiées comme vacataires | 2004 | MEN MEFB |  | MEFB | PM : pris en compte dans le point 11
+14- Revoir à la hausse l'âge de la retraite des personnels enseignants | 2004 | MEN MFPublique MEFB Syndicats | Meilleure adéquation des ressources | - | -
+15- Renforcer les capacités de l'ENS, de l'ENSET, ENI ; CPPA | 2004 | MEN MPPD MES |  | MEFB MPPD | 300.000.000
+16- Mettre en œuvre les programmes de formation continue des enseignants de l'EPP, l'ESG et de l'ESTP (public et privé) | 2004-2015 | MEN MFP MES |  | MEFB Unesco Isesco Francophonie | 150.000.000
+17- Renforcer le rôle des commissions d'orientation dans les établissements de l'EPP, l'ESG et l'ESTP (public et privé) | 2003 | MEN MEFB MPPD Associations des parents Syndicats |  | - | -
+18- Former les personnels pédagogiques et administratifs dans le domaine de la gestion scolaire et des projets d'EBF | 2004-2015 | MEN MFP MFPublique MESup |  | MEFB Unesco FINEX PNUD | 100.000.000
+19-- Renforcer les mécanismes nécessaires à la bonne gouvernance dans la gestion du système éducatif au Gabon | 2003 - 2005 | MEN Contrôle d'Etat MJustice |  | MEFB Unesco PNUD Cooperation bilatérale | 50.000.000
 20- Sensibiliser les parents sur l'importance de la sauvegarde des langues vernaculaires | 2003-0025 | MEN MComm MEP MF | Existence des programmes d'enseignement en langue nationales dans les établissements | MEFB | 30.000.000
 21- Concevoir et mettre en œuvre des programmes dans les langues vernaculaires | 2003 - 2005 | MEN MEP | Disponibilité des matériels en langues nationales | MEFB | 500.000.000
 
@@ -1935,9 +2041,9 @@ Page  61 / 71
 --- | --- | --- | --- | --- | ---
 23- Elaborer un décret portant création et désignation des membres du comité de pilotage de l'EPT | 2003 | MEN | Le Comité créé et fonctionnel | - | -
 24- Créer une ligne budgétaire de l'EPT | 2003-2015 | MEN MEFB MPPD | Une ligne budgétaire disponible | MEFB MPPD Unesco Unicef | -
-25- Assurer le suivi- évaluation de l'EPT | 2003 | MEN | MEFB | 150.000.000
+25- Assurer le suivi- évaluation de l'EPT | 2003 | MEN |  | MEFB | 150.000.000
 26- Renforcer le mécanisme de coordination entre l'Etat, les partenaires au développement et les ONGs | 2003 | MEN MI ONGs | Existence d'un cadre de concertation ONG/l'Etat/ Partenaires au développement | - | -
-27- Mener des campagnes de mobilisation, de sensibilisation et de communication pour la promotion de l'EBNF | 2004 | MEP MEN MF Mtravail MPauvreté | MEFB MPPD Unesco Unicef | 30.000.000
+27- Mener des campagnes de mobilisation, de sensibilisation et de communication pour la promotion de l'EBNF | 2004 | MEP MEN MF Mtravail MPauvreté |  | MEFB MPPD Unesco Unicef | 30.000.000
 28- Former des encadreurs et des animateurs/trices communautaires | 2004-2015 | MF MAS MSP MEP ONGs | Encadreurs et animateurs formés | MEFB OMS Unicef Unesco Promoteurs privé | 300.000.000
 29- Mener des campagnes de mobilisation des ressources pour la promotion de l'EBNF et de l'EBI | 2003 | MF MAS MPauvreté MSP MEP ONGs Suyndicats Associations | Une population mieux informée et impliquée dans l'EBNF | MEFB Unicef Unesco | 50.000.000
 30- Concevoir et diffuser des émissions éducatives radiodiffusées et télévisées en langues officielles et locales | 2004 | MF MEN MEP MAP MAS | Adoption par les jeunes et adultes de comportements responsables | MEFB Unseco Fnuap Unicef ONGs Associations Coopération bilatérale | 300.000.000
@@ -1957,11 +2063,11 @@ Activités | Période d'exécution | Acteurs | Indicateurs de résultats | Finan
 1- Mener des campagnes de sensibilisation en faveur de l'alphabétisation fonctionnelle | 2003-2005 | MJ MEN MF MFP | Vulgarisation effective de la nouvelle politique nationale en matière d'alphabétisation des adultes | MEFB UNESCO ISESCO ONG | 300.000.000
 2- Adapter la politique nationale en faveur de l'alphabétisation en fonction des besoins des populations | 2004 | MEN | Meilleure participation des parents et de la société civile aux programmes et aux activités de l'alphabétisation. | MEFB | 5.000.000
 3- Réformer les programmes d'alphabétisation fonctionnelle des adultes, en particulier en faveur des femmes | 2003-2015 | MEN | Forte demande de l'EBNF par les parents et la société civile. | MEFB PNUD Unicef | 50.000.000
-4- Concevoir et produire des manuels didactiques adaptés pour l'alphabétisation fonctionnelle et d'éducation permanente | 2004-2010 | MEN | MEFB | 150.000.000
-5- Opérationaliser les centres d'alphabétisation | 2003-2015 | MEN | MEFB | 520.000.000
-7- Renforcer les capacités opérationnelles de la Direction Générale en charge de l'Alphabétisation | 2003-2015 | 500.000.000
-8- Développer les activités post alphabétisation | 2003-2015 | MEN | MEFB | 50.000.000
-9- Développer les mécanismes d'insertion et de réinsertion des jeunes et des adultes (crédits adaptés) | 2003-2015 | MEN | MEFB | 500.000.000
+4- Concevoir et produire des manuels didactiques adaptés pour l'alphabétisation fonctionnelle et d'éducation permanente | 2004-2010 | MEN |  | MEFB | 150.000.000
+5- Opérationaliser les centres d'alphabétisation | 2003-2015 | MEN |  | MEFB | 520.000.000
+7- Renforcer les capacités opérationnelles de la Direction Générale en charge de l'Alphabétisation | 2003-2015 |  |  |  | 500.000.000
+8- Développer les activités post alphabétisation | 2003-2015 | MEN |  | MEFB | 50.000.000
+9- Développer les mécanismes d'insertion et de réinsertion des jeunes et des adultes (crédits adaptés) | 2003-2015 | MEN |  | MEFB | 500.000.000
 
 PAN - EPT
 
@@ -1978,12 +2084,12 @@ Activités | Période d'exécution | Acteurs | Indicateurs de résultats | Finan
 1- Poursuivre la formation des enseignants initiée par l'IEC en matière d'éducation sexuelle | 2003-2005 | MEN MAS MF | Augmentation du volume des ressources disponibles | MEFB Unesco Fnuap | 150.000.000
 2- Poursuivre les campagnes de sensibilisation auprès des parents | 2006 - 2010 | MEN MAS MF ONGs Associations | Augmentation des demandes de la population pour la scolarisation des filles | MEFB Unesco Fnuap | 30.000.000
 3- Mener un plaidoyer auprès des enseignants et syndicats contre l'harcèlement en milieu scolaire | 2003 | MEN Syndicats MAS MEP ONGs | Une scolarité plus longue et mieux encadrée également pour les filles ; | MEFB | 100.000.000
-4- Multiplier les cellules d'écoute dans les établissements | 2003-2015 | MEN MAS MEP ONGs MEnv ONGs | MEFB | 30.000.000
+4- Multiplier les cellules d'écoute dans les établissements | 2003-2015 | MEN MAS MEP ONGs MEnv ONGs |  | MEFB | 30.000.000
 5- Renforcer les effectifs des travailleurs sociaux dans les établissements scolaires | 2003-2015 | MEN MAS MF MEP | Une réduction significative des taux d'abandons et de redoublement des filles ; | - | -
-6- Développer le programme éducation à la parenté responsable. | 2004 | MF MAS MComm MEN MEP Associations ONGs | MEFB Fnuap Unicef Coopération bilatérale | 100.000.000
+6- Développer le programme éducation à la parenté responsable. | 2004 | MF MAS MComm MEN MEP Associations ONGs |  | MEFB Fnuap Unicef Coopération bilatérale | 100.000.000
 7- Créer de comités de suivi pour la protection de jeune fille | 2004 | MF MAS MEN MDH MJustice | Consensus de la communauté pour une participation plus élargie à la scolarisation des filles | MEFB Unicef Fnuap | 10.000.000
 8- Elaborer et adopter une Charte nationale sur la morale et l'éthique pour la protection de la jeune fille. | 2004 | MF MAS MEN MDH MJustice | Meilleure couverture et encadrement des filles | MEFB Unicef Fnuap | 10.000.000
-9- Mener un plaidoyer auprès des décideurs | 2003-2004 | MF MAS MEN MDH MJustice | MEFB Unicef Fnuap | 2.000.000
+9- Mener un plaidoyer auprès des décideurs | 2003-2004 | MF MAS MEN MDH MJustice |  | MEFB Unicef Fnuap | 2.000.000
 
 PAN - EPT
 
@@ -2002,10 +2108,10 @@ Activités | Période d'exécution | Acteurs | Indicateurs de résultats | Finan
 3- Organiser des séminaires de formation pour les enseignants déjà en poste | 2004-2015 | MEN | Tous les enseignants formés aux nouvelles approches | MEFB Unesco Francophonie Coopération bilatérale | 150.000.000
 4- Appuyer les recherches menées pour la promotion des langues nationales | 2004-2015 | MEN MESup MEP ONGs | Disponibilité des résultats de la recherche | MEFB Unesco Isesco Francophonie | 150.000.000
 5- Concevoir les programmes et les matériels didactiques en langues nationales | 2004-2015 | MEN MEP MPPD Collectivités locales | Personnels et encadreurs formés | MEFB UNICEF MPPD UNESCO Francophonie Isesco ONGs Coopération bilatérale | 500.000.000
-6- Former et perfectionner les enseignants et les personnels d'encadrement | 2004-2015 | MEN MES Autres partenaires | MEFB UNICEF MPPD UNESCO Francophonie Isesco Coopération | 150.000.000
+6- Former et perfectionner les enseignants et les personnels d'encadrement | 2004-2015 | MEN MES Autres partenaires |  | MEFB UNICEF MPPD UNESCO Francophonie Isesco Coopération bilatérale | 150.000.000
 7- Mettre en œuvre et assurer le suivi- évaluation des programmes d'enseignement des langues locales | 2006-2015 | MEN MESup MEP ONGs | Usage effectif des langues des nationales en milieu scolaire et familiale | MEFB UNICEF MPPD UNESCO Francophonie Isesco Coopération bilatérale | 50.000.000
-8- Renforcer les effectifs d'encadrement de 300 personnes | 2004-2015 | MEN MESup ONGs MFPublique | MEFB | 18.500.000.000
-9- Doter les circonscriptions scolaires et les bases pédagogiques de moyens logistiques nécessaires | Nombre d'encadreurs formés suffisant | - | PM :pris en compte dans l'Objectif, le point 5
+8- Renforcer les effectifs d'encadrement de 300 personnes | 2004-2015 | MEN MESup ONGs MFPublique |  | MEFB | 18.500.000.000
+9- Doter les circonscriptions scolaires et les bases pédagogiques de moyens logistiques nécessaires |  |  | Nombre d'encadreurs formés suffisant | - | PM :pris en compte dans l'Objectif, le point 5
 
 PAN - EPT
 
@@ -2025,9 +2131,9 @@ Page  65 / 71
 16- Créer une filière de chef d'établissement à l'ENS | 2004-2005 | MEN MESup | Des chefs d'établissement de carrière | MEFB Unesco UE | 100.000.000
 17- Planifier, construire et réhabiliter des salles de classe | 2004-2015 | MEN | Valorisation des campagnes | - | PM : pris en compte dans les Objectifs 1, point 12 ; Objectif 2, point 7 ; Objectif 3 point 9
 18- Appliquer la politique de sectorisation (établissement de proximité) | 2004 | MEN Collectivités locales | Des structures d'accueil qui répondent à la demande | - | PM : pris en compte dans le point 7
-19- Recruter et former des enseignants | Le déficit en salle de classe comblé | PM : pris en compte dans l'Objectif 3, point 11
+19- Recruter et former des enseignants |  |  | Le déficit en salle de classe comblé |  | PM : pris en compte dans l'Objectif 3, point 11
 20- Réactiver et réorganiser le service des constructions scolaire en direction | 2004 | MEN MTP | Une direction des constructions scolaires équipée et fonctionnelle | - | -
-21- Equiper le service constructions scolaires en un véritable bureau d'études | 2004-2010 | MPPD MEN MTP | MEFB Unesco | 10.000.000
+21- Equiper le service constructions scolaires en un véritable bureau d'études | 2004-2010 | MPPD MEN MTP |  | MEFB Unesco | 10.000.000
 22- Renforcer les capacités de production des menuiseries existantes | 2004-2010 | MEN MPPD | Des tables banc à coût moins élevé et aux normes exigées | MEFB Coopération bilatérale | 300.000.000
 
 PAN - EPT
@@ -2038,14 +2144,14 @@ Page  66 / 71
 
 [[START OF PAGE 67]]
 
-23- Budgétiser l'achat du bois pour les menuiseries d'état | 2004-2010 | MEN MPPD MEFB | MEFB | 100.000.000
+23- Budgétiser l'achat du bois pour les menuiseries d'état | 2004-2010 | MEN MPPD MEFB |  | MEFB | 100.000.000
 --- | --- | --- | --- | --- | ---
-24- Plaidoyer auprès du ministère des finances pour alléger les procédures de décaissement du budget d'investissement | 2004 | MEN | - | -
+24- Plaidoyer auprès du ministère des finances pour alléger les procédures de décaissement du budget d'investissement | 2004 | MEN |  | - | -
 25- Budgétiser l'achat des manuels scolaires pour les élèves | 2004-2015 | MPPD MEN | 1 livre par élève | MEFB | PM: pris en compte dans l'Objectif 2, point 16
 26- Réhabiliter et équiper l'imprimerie du MEN | 2004-2005 | MEN MPPD MEFB | L'imprimerie opérationnelle | MEFB Coopération bilatérale Unesco | 100.000.000
 27- Assurer gratuité le trousseau scolaire aux enfants et en priorité aux plus défavorisés | 2004-2015 | MPPD MEN Assemblée Nationale Sénat CES | Trousseaux scolaires distribués | MEFB | 1.200.000.000
 28- Sensibiliser les enseignants pour l'achat de leur propre matériel d'enseignement | 2004-2015 | MEN | Tous les enseignants pourvus de matériel didactique | - | -
-29- Attribuer les cartes de réduction des prix des manuels didactiques aux enseignants | 2004-2015 | MEN | MEFB | 10.000.000
+29- Attribuer les cartes de réduction des prix des manuels didactiques aux enseignants | 2004-2015 | MEN |  | MEFB | 10.000.000
 
 PAN - EPT
 
@@ -2059,14 +2165,14 @@ Page  67 / 71
 
 Activités | Période d'exécution | Acteurs | Indicateurs de résultats | Financement | Coûts
 --- | --- | --- | --- | --- | ---
-1- Renforcer la multiplication des campagnes de sensibilisation auprès des populations sur le dépistage dangers du SIDA en milieu scolaire pour les jeunes filles en | 2003 | MSP MF MAS MEN MEP ONGs | Baisse significative de la pandémie du SIDA et des taux de grossesses précoces en milieu scolaire ; | MEFB ONU/SIDA OMS Fnuap ONGs | 300.000.000
+1- Renforcer la multiplication des campagnes de sensibilisation auprès des populations sur le dépistage dangers du SIDA en milieu scolaire pour les jeunes filles en particulier ; | 2003 | MSP MF MAS MEN MEP ONGs | Baisse significative de la pandémie du SIDA et des taux de grossesses précoces en milieu scolaire ; | MEFB ONU/SIDA OMS Fnuap ONGs | 300.000.000
 2- Faire participer les parents à la sensibilisation des enfants aux dangers du SIDA (parenté responsable) | 2003 | MSP MF MAS MEN MEP ONGs | Adoption de comportements responsables face au SIDA | MEFB ONU/SIDA OMS Fnuap ONGs | 150.000.000
 3- Renforcer les activités d' IEC multisectorielle sur les IST/SIDA, les jeunes et la sexualité précoce en milieu scolaire | 2003 | MEN MF MSP MEP MAS ONGs | Existence de centres d'information des jeunes sur le SIDA | MEFB ONU/SIDA OMS Fnuap ONGs | 300.000.000
 4- Institutionnaliser les aides aux séropositifs en milieu scolaire ; | 2003 | MEN MF MSP MEP MAS ONGs | Institutionnalisation des aides publiques aux malades du SIDA ; | MEFB ONU/SIDA OMS Fnuap ONGs | PM : fonds disponibles auprès du PNLS et CTA
 5- Mener des études sur l'impact du VIH /SIDA et des IST en milieu scolaire, en particulier en rapport à la situation des jeunes filles. | 2004 | MEN MF MSP MEP MAS ONGs MESup | Assistance sociale et autres personnels formés ; | MEFB ONU/SIDA OMS Fnuap ONGs Onesco | 50.000.000
-6- Multiplier des cellules d'information sur le sida sur l'ensemble de u pays | 2003 | MEN MF MSP MEP MAS ONGs | MEFB ONU/SIDA OMS Fnuap ONGs | 100.000.000
-7- Renforcer les capacités des travailleurs sociaux et autres intervenants en matière de communication avec les jeunes sur le VIH/SIDA | 2004-2015 | MEN MF MSP MEP MAS ONGs | MEFB ONU/SIDA OMS Fnuap ONGs | 200.000.000
-8- Promouvoir la formation des éducateurs pairs en milieu scolaire | 2003 | MEN MF MSP MEP MAS ONGs | MEFB ONU/SIDA OMS Fnuap ONGs | 150.000.000
+6- Multiplier des cellules d'information sur le sida sur l'ensemble de u pays | 2003 | MEN MF MSP MEP MAS ONGs |  | MEFB ONU/SIDA OMS Fnuap ONGs | 100.000.000
+7- Renforcer les capacités des travailleurs sociaux et autres intervenants en matière de communication avec les jeunes sur le VIH/SIDA | 2004-2015 | MEN MF MSP MEP MAS ONGs |  | MEFB ONU/SIDA OMS Fnuap ONGs | 200.000.000
+8- Promouvoir la formation des éducateurs pairs en milieu scolaire | 2003 | MEN MF MSP MEP MAS ONGs |  | MEFB ONU/SIDA OMS Fnuap ONGs | 150.000.000
 
 PAN - EPT
 
@@ -2087,7 +2193,7 @@ IV | Améliorer de 50% les niveaux d'alphabétisation des adultes, notamment des
 V | Eliminer la déscolarisation des filles de 50% dans l'enseignement primaire et secondaire d'ici à 2005 et instaurer l'égalité dans ce domaine en 2015; assurer aux filles un accès équitable à une éducation de base de qualité avec les mêmes chances de réussite . | 432.000.000 cfa 617.143 $
 VI | Améliorer sous tous ses aspects la qualité de l'éducation dans un souci d'excellence de façon à obtenir pour tous des résultats d'apprentissage reconnus et quantifiables notamment en ce qui concerne la lecture, l'écriture, le calcul et les compétences indispensables dans la vie courante. | 22.660.000.000 cfa 32.371.429 $
 VII | Réduire de 75% le taux de prévalence des IST/SIDA en milieu scolaire | 1.250.000.000 cfa 1.785.714 $
-TOTAL | 208.536.000.000 cfa 297.908.571 $
+TOTAL |  | 208.536.000.000 cfa 297.908.571 $
 
 PAN - EPT
 
@@ -2097,25 +2203,25 @@ Page  69 / 71
 
 [[START OF PAGE 70]]
 
-## IIIBibliographie
+## III- Bibliographie
 
-- Constitution Gabonaise
+- 1. Constitution Gabonaise
 
-- Loi 16/66 du 9 août 1966
+- 2. Loi 16/66 du 9 août 1966
 
-- Education Pour Tous : Bilan l'an 2000
+- 3. Education Pour Tous : Bilan l'an 2000
 
-- MEN  Annuaire Statistique du
+- 4. MEN  Annuaire Statistique du
 
-- MEN - DPPI  « Etat du Système éducatif «
+- 5. MEN - DPPI  « Etat du Système éducatif «
 
-- DGSEE, 1993: « Principaux Résultats du Recensement  Général de la Population et de l'Habitat » - Ed Multipress
+- 6. DGSEE, 1993: « Principaux Résultats du Recensement  Général de la Population et de l'Habitat » - Ed Multipress
 
-- MEN : « Plan de Résorption du Déficit en Personnel du Secteur Educatif » - juillet 2001
+- 7. MEN : « Plan de Résorption du Déficit en Personnel du Secteur Educatif » - juillet 2001
 
-- Union : « Vers la prise en compte des engagements de Dakar. Clôture de la Campagne mondiale pour l'Education » - 27-28 avril 2002, p. 6
+- 8. Union : « Vers la prise en compte des engagements de Dakar. Clôture de la Campagne mondiale pour l'Education » - 27-28 avril 2002, p. 6
 
-- MEN /UNESCO : « Division pour la Reconstruction et le Développement du Système Educatif » juin 2002 /mars 2000
+- 9. MEN /UNESCO : « Division pour la Reconstruction et le Développement du Système Educatif » - juin 2002 /mars 2000
 
 - 10 MEYO BIBANG et F. NZAMBA : « Le GABON Géographie, Paris » EDICEF, 1990
 
