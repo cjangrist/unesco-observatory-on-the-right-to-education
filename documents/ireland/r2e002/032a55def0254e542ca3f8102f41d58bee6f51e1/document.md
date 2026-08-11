@@ -1,8 +1,8 @@
 [[START OF PAGE 1]]
 
-# NATIONAL DISABILITY STRATEGY IMPLEMENTATION PLAN 2013-2015
-
 Prepared by the National Disability Strategy Implementation Group
+
+# NATIONAL DISABILITY STRATEGY IMPLEMENTATION PLAN 2013-2015
 
 [[END OF PAGE 1]]
 
@@ -34,13 +34,13 @@ Minister for Disability, Equality, Mental Health and Older People
 
 National Disability Strategy Implementation Plan
 
-## Chapter 1 - Background and context
+## Chapter 1 – Background and context
 
 ### 1.1 Context
 
 The National Disability Strategy is a whole-of-Government approach to advancing the social inclusion of people with disabilities.  In spite of the challenging economic and fiscal situation, it is important to continue to build on and consolidate the progress made to date.  This Implementation Plan sets out the practical measures that will be taken to advance the National Disability Strategy over the period 2013 to 2015.
 
-The implementation of the National Disability Strategy is taking place within an ever changing external environment that includes necessary fiscal adjustments, public sector reform, the Croke Park Agreement, reforms within the HSE and new policy directions following key reviews.  Such reviews include for example, the Value for Money and Policy Review of Disability Services, the Housing Strategy for people with disabilities and implementation of the report on closing disability institutions, Time to move on from Congregated Settings .  In delivering actions in this plan regard will be had to other relevant strategies including the National Action Plan for Social Inclusion; the National Positive Aging Strategy; A Vision for Change Strategy; and Healthy Ireland - A Framework for Improved Health and Wellbeing.
+The implementation of the National Disability Strategy is taking place within an ever changing external environment that includes necessary fiscal adjustments, public sector reform, the Croke Park Agreement, reforms within the HSE and new policy directions following key reviews.  Such reviews include for example, the Value for Money and Policy Review of Disability Services, the Housing Strategy for people with disabilities and implementation of the report on closing disability institutions, Time to move on from Congregated Settings.  In delivering actions in this plan regard will be had to other relevant strategies including the National Action Plan for Social Inclusion; the National Positive Aging Strategy; A Vision for Change Strategy; and Healthy Ireland – A Framework for Improved Health and Wellbeing.
 
 ### 1.2 Mainstreaming
 
@@ -50,7 +50,7 @@ The scope of this Implementation Plan therefore covers a wide range of governmen
 
 ### 1.3 Barriers to inclusion
 
-Social inclusion of people with disabilities depends on whether the wider social and physical environment offers supports or creates barriers. Inaccessibility as a barrier is wider than simply the physical environment, lack of access to information to those who have difficulties with sight or hearing can be as frustrating as the built environment.  Systems can indirectly exclude people with disabilities if the architecture, policies, information or service delivery, are not geared to include people with a range of disabilities.  Society should not require people with disabilities to redesign their lives.  If, however, the physical and policy environments are modified with people with a disability in mind, that can enhance freedom and participation and the enjoyment of fundamental rights.  For example, accessible transport and accessible buildings and streets are key factors in enabling people with disabilities to participate in work, cultural and social settings.
+Social inclusion of people with disabilities depends on whether the wider social and physical environment offers supports or creates barriers. Inaccessibility as a barrier is wider than simply the physical environment, lack of access to information to those who have difficulties with sight or hearing can be as frustrating as the built environment.  Systems can indirectly exclude people with disabilities if the architecture, policies, information or service delivery, are not geared to include people with a range of disabilities.  Society should not require people with disabilities to redesign their lives.  If, however,
 
 3
 
@@ -59,6 +59,8 @@ Social inclusion of people with disabilities depends on whether the wider social
 [[START OF PAGE 4]]
 
 National Disability Strategy Implementation Plan
+
+the physical and policy environments are modified with people with a disability in mind, that can enhance freedom and participation and the enjoyment of fundamental rights.  For example, accessible transport and accessible buildings and streets are key factors in enabling people with disabilities to participate in work, cultural and social settings.
 
 Negative attitudes or behaviours towards people with disabilities can also limit their participation in mainstream society.
 
@@ -102,7 +104,7 @@ Following development of this Plan by senior officials, in collaboration with th
 
 ### 1.5 The voice of people with disabilities
 
-At the request of the Minister, the National Disability Authority convened a forum, entitled Your Voice Your Choice, held on 19 th June 2012, to facilitate people with disabilities to have their say about issues that matter most to them in living with a disability.  This was to ensure that the perspective of people with disabilities would inform the development of the implementation plan for the National Disability Strategy.  Together with online input from invitees who could not physically attend, about 250 people participated, and the report from the Forum has been published by the National Disability Authority, and was circulated to the government departments involved in preparing the Implementation Plan.
+At the request of the Minister, the National Disability Authority convened a forum, entitled Your Voice Your Choice, held on 19th June 2012, to facilitate people with disabilities to have their say about issues that matter most to them in living with a disability.  This was to ensure that the perspective of people with disabilities would inform the development of the implementation plan for the National Disability Strategy.  Together with online input from invitees who could not physically attend, about 250 people participated, and the report from the Forum has been published by the National Disability Authority, and was circulated to the government departments involved in preparing the Implementation Plan.
 
 The voice of people with disabilities continues to be heard through those stakeholder groups represented on the NDSIG together with the voice of those on the NDSIG who were appointed by the Minister due to their lived experience with disability.  These members are well placed to convey to the Minister the needs of those people with disabilities whom they represent.  In addition, the consultative committees in government departments include representatives of the disability sector and bring a wealth of experience and knowledge to assist the implementation of actions in this Plan.
 
@@ -118,7 +120,7 @@ The NDSIG will continue to engage at all levels with people with disabilities.
 
 National Disability Strategy Implementation Plan
 
-## Chapter 2 - Key Goals and Objectives
+## Chapter 2 – Key Goals and Objectives
 
 The National Disability Strategy Implementation Plan has as its aim the promotion of an inclusive Irish society where people with disabilities can reach their full potential and participate in the every day life of the community.
 
@@ -190,7 +192,7 @@ People with disabilities are enabled to reach their full potential
 
 - 4(b) People with disabilities get the education and training that enables them to reach their potential
 
-The four High Level Goals are intimately connected.  Taking goals and objectives together it is clear that inter-linkages are key to their effective delivery.  It is therefore essential that government departments work together so that cross-cutting issues can be dealt with efficiently.
+The four High Level Goals are intimately connected.  Taking goals and objectives together it is clear that inter-linkages are key to their effective
 
 7
 
@@ -199,6 +201,8 @@ The four High Level Goals are intimately connected.  Taking goals and objectives
 [[START OF PAGE 8]]
 
 National Disability Strategy Implementation Plan
+
+delivery.  It is therefore essential that government departments work together so that cross-cutting issues can be dealt with efficiently.
 
 To ensure the objectives set out for each department are met, the NDSIG will continue to support the implementation of the Plan and monitor progress over the next 3 years.  Further detail on the NDSIG and the monitoring process is outlined in Chapter 4.
 
@@ -279,7 +283,7 @@ It is recognised that access to information is key to ensuring people with disab
 #### Objective 1(a) People with disabilities enjoy equality before the law
 --- | --- | --- | --- | ---
 Action | Outcome | Key Performance Indicators | Lead Department | Timeline
-Enact legislation which recognises and supports legal capacity of persons with disabilities. | People with disabilities can make decisions in areas that impact on their lives. | Assisted Decision- Making (Capacity) Bill Published. Bill Enacted. | Department of Justice and Equality. | Q3 2013 Dictated by the Houses of the Oireachtas approval process.
+Enact legislation which recognises and supports legal capacity of persons with disabilities. | People with disabilities can make decisions in areas that impact on their lives. | Assisted Decision-Making (Capacity) Bill Published. Bill Enacted. | Department of Justice and Equality. | Q3 2013 Dictated by the Houses of the Oireachtas approval process.
 
 11
 
@@ -294,7 +298,7 @@ Establish new structures to support recognition of legal capacity of persons wit
 To develop guidelines with service providers to ensure effective implementation of the provisions of mental capacity legislation in services for persons with disabilities. | Individuals in services are supported to exercise their legal capacity. | Guidelines produced and implemented to ensure individuals in services are supported to exercise their legal rights. | Department of Health and HSE. | Subject to the enactment of the legislation.
 An Expert Group has been established to Review Mental Health Act 2001 and consider its recommendations for reforming and updating the law in relation to admission to, and detention in, approved centres for people with mental health problems. | Mental health law updated and compliant with the UN Convention on the Rights of Persons with Disabilities. | Report of Expert Group on the Review of the Mental Health Act 2001. | Department of Health. | Q2 2013
 Review of Criminal Law (Insanity) Act. | Criminal law updated and compliant with the UN Convention on the Rights of Persons with Disabilities. | Review completed. | Department of Justice and Equality. | Ongoing.
-The National Disability Authority will engage in discussions with key personnel in the justice system with a view to identifying practical steps that can be taken to improve the accessibility of the system and its procedures for people with disabilities. | Actions identified to improve accessibility to the justice system for people with disabilities. | Meetings with officials held. | Department of Justice and Equality and NDA. | Q2 - Q4 2013
+The National Disability Authority will engage in discussions with key personnel in the justice system with a view to identifying practical steps that can be taken to improve the accessibility of the system and its procedures for people with disabilities. | Actions identified to improve accessibility to the justice system for people with disabilities. | Meetings with officials held. | Department of Justice and Equality and NDA. | Q2 – Q4 2013
 
 12
 
@@ -322,9 +326,9 @@ National Disability Strategy Implementation Plan
 
 programmes. | submitted to Government through use of guidelines and arrangements in place to review ongoing.
 --- | --- | --- | --- | ---
-Ensure as far as possible that appropriate disability awareness training is provided by public transport operators to their staff and management. | Easier for people with disabilities to use public transport. | Organisation s adopt a planned approach to training. | Department of Transport, Tourism and Sport. | Ongoing.
-Commission for Energy Regulation (CER) is in the process of establishing a dedicated consumer management service which will include special services required by customers. | Customer Care Team is established. | Review of the way in which Regulators are offering services to clients with disabilities. | Department of Communicatio ns, Energy and Natural Resources and the Commission for Energy Regulation (CER). | Ongoing.
-Develop and support initiatives to promote positive attitudes to disability. | Level of positive attitudes enhanced. | Effective initiatives identified and promoted for wider implementatio n. | All departments and public bodies. | 2015.
+Ensure as far as possible that appropriate disability awareness training is provided by public transport operators to their staff and management. | Easier for people with disabilities to use public transport. | Organisations adopt a planned approach to training. | Department of Transport, Tourism and Sport. | Ongoing.
+Commission for Energy Regulation (CER) is in the process of establishing a dedicated consumer management service which will include special services required by customers. | Customer Care Team is established. | Review of the way in which Regulators are offering services to clients with disabilities. | Department of Communications, Energy and Natural Resources and the Commission for Energy Regulation (CER). | Ongoing.
+Develop and support initiatives to promote positive attitudes to disability. | Level of positive attitudes enhanced. | Effective initiatives identified and promoted for wider implementation. | All departments and public bodies. | 2015.
 
 #### Objective 1(c) People with disabilities enjoy access to information
 --- | --- | --- | --- | ---
@@ -356,7 +360,7 @@ National Disability Strategy Implementation Plan
 
 Services. (The Department will also pilot a remote access interpretation service in an agreed Department of Social Protection office). | hard of hearing. | language interpreting services in Department of Social Protection offices. | Protection.
 --- | --- | --- | --- | ---
-British Irish Council webpage for Ireland live at http://www.dttas. ie/AccessibleTravel/Home/html to provide easier access to travel information for people with mobility difficulties. | People with Disabilities enjoy equal access to public sector information. | Site links checked periodically to ensure that they are functioning properly. | Department of Transport, Tourism and Sport initially. National Transport Authority (NTA) thereafter. | 2013/2014
+British Irish Council webpage for Ireland live at http://www.dttas.ie/AccessibleTravel/Home/html to provide easier access to travel information for people with mobility difficulties. | People with Disabilities enjoy equal access to public sector information. | Site links checked periodically to ensure that they are functioning properly. | Department of Transport, Tourism and Sport initially. National Transport Authority (NTA) thereafter. | 2013/2014
 Transport for Ireland website designed and operating to accessibility standards providing one-stop-shop for travelling and commuting information. | People with Disabilities enjoy equal access to public sector information. | Transport for Ireland website checked periodically to ensure that it is functioning properly. | Department of Transport, Tourism and Sport National Transport Authority. | 2013/2014
 Tourism businesses (with the exception of the accommodation sector) updating their entries on Fáilte Ireland's Tourism Content System will be asked to specify whether or not they have access for those with impaired mobility to their business. These businesses will then be highlighted on a dedicated webpage, similar to Able awards page. Responsibility for correct information lies with tourism business directly. | People with disabilities enjoy access to information on tourism facilities that meet their needs. | All new tourism businesses published on the web will provide details on whether or not they have access for those with impaired mobility. | Department of Transport, Tourism and Sport Fáilte Ireland Tourism businesses (with the exception of the accommodation sector) | Ongoing.
 Fáilte Ireland will publish on their website all accommodation with an ABLE Tourism award. | People with disabilities enjoy access to information on accommodation that meets their needs. | New premises published on web as they achieve the award. | Department of Transport, Tourism and Sport. Fáilte Ireland | Ongoing.
@@ -388,7 +392,7 @@ National Disability Strategy Implementation Plan
 
 of action plans in co-operation with relevant authorities e.g. Office of Public Works. | their aegis.
 --- | --- | --- | --- | ---
-Provide advice and assistance to the Office of Public Works in promoting improved access for people with disabilities at national monuments sites in the ownership or guardianship of the Minister, having regard to the conservation requirements of relevant sites. | Improved access to heritage sites. | New 'Places to Visit' section on website archaeology.ie which will provide pre- visit information including information in relation to accessibility at a number of national monuments in state ownership. A policy document on interpretation and presentation is currently being developed and will take account of access issues. Office of Public Works work is underway to provide wheelchair access to part of the Hill of Tara. | Department of Arts, Heritage and the Gaeltacht (& Office of Public Works). | Ongoing.
+Provide advice and assistance to the Office of Public Works in promoting improved access for people with disabilities at national monuments sites in the ownership or guardianship of the Minister, having regard to the conservation requirements of relevant sites. | Improved access to heritage sites. | New 'Places to Visit' section on website archaeology.ie which will provide pre-visit information including information in relation to accessibility at a number of national monuments in state ownership. A policy document on interpretation and presentation is currently being developed and will take account of access issues. Office of Public Works work is underway to provide wheelchair access to part of the Hill of Tara. | Department of Arts, Heritage and the Gaeltacht (& Office of Public Works). | Ongoing.
 Ensure where possible that National Parks and Wildlife Services visitor sites (visitor centres, trails, national parks and nature reserves) are accessible to members of the public with visual, hearing, intellectual and mobility impairments. | Visitors will be able to navigate National Parks and Wildlife Services visitor sites with ease and maximum enjoyment. | Newly developed boardwalks where possible will be accessible for wheelchairs and motorised vehicles. Trail details will be | Department of Arts, Heritage and the Gaeltacht. | Ongoing over the lifetime of the Strategy.
 
 18
@@ -401,9 +405,9 @@ National Disability Strategy Implementation Plan
 
 clearly displayed on the NPWS.ie website and at the start of the route where appropriate for visitors with disabilities. Support services such as car parking, sanitary facilities, access routes and design structures will be specially adapted.
 --- | --- | --- | --- | ---
-Promote and monitor an increase in level of sub-titling of programmes on national and local TV channels in line with the targets as per Broadcasting Authority of Ireland. | People with disabilities enjoy better access to TV programmes. | Continue to move to target date of end 2015. | Department of Communicati ons, Energy and Natural Resources and Broadcasting Authority of Ireland. | End 2015.
-Roll out Emergency Call Answering Service for persons with hearing impairments. | Enhanced access to supports in emergencies. | Call Answering pilot phase concluded - making arrangements for SMS for use of people with disabilities on a permanent basis. | Department of Communicati ons, Energy and Natural Resources. | Ongoing.
-Promote accessibility of Sub Post Offices. | Enhanced access to services by persons with disabilities. | Policy established requiring new owner/contract or of sub-post to ensure it is accessible. | Department of Communicati ons, Energy and Natural Resources and An Post. | Ongoing.
+Promote and monitor an increase in level of sub-titling of programmes on national and local TV channels in line with the targets as per Broadcasting Authority of Ireland. | People with disabilities enjoy better access to TV programmes. | Continue to move to target date of end 2015. | Department of Communications, Energy and Natural Resources and Broadcasting Authority of Ireland. | End 2015.
+Roll out Emergency Call Answering Service for persons with hearing impairments. | Enhanced access to supports in emergencies. | Call Answering pilot phase concluded - making arrangements for SMS for use of people with disabilities on a permanent basis. | Department of Communications, Energy and Natural Resources. | Ongoing.
+Promote accessibility of Sub Post Offices. | Enhanced access to services by persons with disabilities. | Policy established requiring new owner/contractor of sub-post to ensure it is accessible. | Department of Communications, Energy and Natural Resources and An Post. | Ongoing.
 Co-ordinate Sign Language Interpreting Service pilot project across government | Greater access to sign language | Remote interpretation access | Department of Justice and | Ongoing.
 
 19
@@ -429,7 +433,7 @@ Many of the actions arise from reviews of key service programmes undertaken in r
 --- | --- | --- | --- | ---
 Action | Outcome | Key Performance Indicators | Lead Department | Timeline
 Continue to develop specific social welfare schemes to effectively support persons with disabilities, including into employment (being informed by published reports). | People with disabilities have an adequate income and are facilitated, to extent possible, to take up employment. | List/Schedule of demand-led schemes developed and implemented as appropriate, for e.g., Partial Capacity Benefit Scheme supports persons to work part-time and retain benefits. | Department of Social Protection. | Ongoing.
-Ensure supports for rental accommodation are streamlined and easy to access by people with disabilities. | People with disabilities qualified for rental support can access with ease. | Supports located in the new Rental Accommodation Scheme enhancing co- ordinated approach to supporting individuals with | Department of Social Protection. | Ongoing.
+Ensure supports for rental accommodation are streamlined and easy to access by people with disabilities. | People with disabilities qualified for rental support can access with ease. | Supports located in the new Rental Accommodation Scheme enhancing co-ordinated approach to supporting individuals with | Department of Social Protection. | Ongoing.
 
 20
 
@@ -445,7 +449,7 @@ disabilities in accessing housing.
 Action | Outcome | Key Performance Indicators | Lead Department | Timeline
 Support the provision of advocacy services for persons with disabilities and mental health difficulties. | People with disabilities supported to access services and supports. | Community and Voluntary Sector Advocacy Programmes overseen by Citizens Information Board. | Department of Social Protection and Citizens Information Board. | Ongoing.
 Ensure persons with disabilities receive supports and services needed to access housing. | People with disabilities living in places of their choosing as part of the community. | Monitoring of the implementation of Housing Strategy. | Department of the Environment, Community and Local Government. | Ongoing.
-Oversee effective implementation by HSE and stakeholders of new strategies/Programmes on: • move from congregated settings to live in community; • new models of support to replace traditional adult day services; • supports for children with autism; • new models of respite support; • reconfiguration of services for children with disabilities aged 0 - 18 years; • clinical programmes in | People with disabilities supported to live lives of their choosing in the community. Progressive closure of residential institutions. | (a) Value For Money Implementation framework Plan published. (b) Oversight by the Department of Health of the HSE's National Consultative Forum's monitoring of the implementation of Disability Programmes. | Department of Health and the HSE. | Q2 2013 Ongoing
+Oversee effective implementation by HSE and stakeholders of new strategies/Programmes on: • move from congregated settings to live in community; • new models of support to replace traditional adult day services; • supports for children with autism; • new models of respite support; • reconfiguration of services for children with disabilities aged 0 - 18 years; • clinical programmes in mental health. | People with disabilities supported to live lives of their choosing in the community. Progressive closure of residential institutions. | (a) Value For Money Implementation framework Plan published. (b) Oversight by the Department of Health of the HSE's National Consultative Forum's monitoring of the implementation of Disability Programmes. | Department of Health and the HSE. | Q2 2013 Ongoing
 
 21
 
@@ -463,7 +467,7 @@ Work to enhance access to voting by persons who are blind and have intellectual 
 Departmental consultative mechanism and Customer Fora designed to ensure effective input through representative members. | Perspective of persons with disabilities impacts on policy and services. | Mechanisms in place. | All departments. | Ongoing.
 Ensure input of disability perspective on service user groups in place. | Perspective of persons with disabilities impacts on policy and services. | Structured arrangements in place to consult with stakeholders. | All departments. | Ongoing.
 New standards for HSE supported (Day Services) to ensure people with disabilities have an opportunity to have a say. | Perspective of persons with disabilities impacts on policy and services. | Development, adoption and implementation of standards. | HSE and HIQA. | Ongoing.
-Enact legislation which recognises and supports legal capacity of persons with disabilities. | People with disabilities can make decisions in areas that impact their lives. | Assisted Decision- Making (Capacity) Bill Published. Bill Enacted. | Department of Justice and Equality. | Q3 2013 Dictated by the Houses of the Oireachtas approval process
+Enact legislation which recognises and supports legal capacity of persons with disabilities. | People with disabilities can make decisions in areas that impact their lives. | Assisted Decision-Making (Capacity) Bill Published. Bill Enacted. | Department of Justice and Equality. | Q3 2013 Dictated by the Houses of the Oireachtas approval process
 Children with disabilities will continue to be included in participation/ consultation work carried out by Department of Children | Children with disabilities have an input to policy. | Appropriate percentage of children with disabilities included in | Department of Children and Youth Affairs. | Ongoing.
 
 22
@@ -550,13 +554,14 @@ National Disability Strategy Implementation Plan
 
 sanitary facilities, access routes and design structures will be specially adapted.
 ---
-
+#### Objective 3(c) People with disabilities live in and are part of the mainstream community
 Action | Outcome | Key Performance Indicators | Lead Department | Timeline
 --- | --- | --- | --- | ---
-Ensure effective implementation of the Government's National Housing Strategy for People with a Disability 2011-2016. | People with disabilities live in mainstream community as equal citizens. | Actions to be delivered by relevant stakeholders set out in implementation framework and progressed within specific timelines. | Department of the Environment, Community and Local Government. | Ongoing.
+Ensure effective implementation of the Government’s National Housing Strategy for People with a Disability 2011-2016. | People with disabilities live in mainstream community as equal citizens. | Actions to be delivered by relevant stakeholders set out in implementation framework and progressed within specific timelines. | Department of the Environment, Community and Local Government. | Ongoing.
 Ensure new local authority housing strategies support independent living by integration local authority and HSE supports at per agreed protocols. | People with disabilities experience integrated supports from housing and disability services. | Strategies specify how people with disabilities will be supported to access housing in the community. | Local Authorities. | Ongoing.
 Develop protocol for strategic assessment of nature and extent of housing needs of persons with disabilities. | Better informed planning to meet housing needs. | Protocol developed and being implemented. | Department of the Environment, Community and Local Government. | End 2013
 Develop accessibility assessment criteria for Rental Accommodation Scheme and local authority leasing schemes. | People with disabilities needs for accessible accommodation met. | Assessment criteria developed and being implemented. | Department of the Environment, Community and Local Government. | End 2013
+#### Objective 3(d) People with disabilities can enjoy friendships, relationships
 
 27
 
@@ -566,7 +571,7 @@ Develop accessibility assessment criteria for Rental Accommodation Scheme and lo
 
 National Disability Strategy Implementation Plan
 
-#### and a good social life
+and a good social life
 --- | --- | --- | --- | ---
 Action | Outcome | Key Performance Indicators | Lead Department | Timeline
 Sustain sports partnership programme and resource appropriately in local authorities where funding allows. | Enhanced lifestyle and access to mainstream cultural and social opportunities. | Continue funding review and encourage best practice. | Local Authorities. | Ongoing.
@@ -625,8 +630,8 @@ This goal and its objectives seek to ensure people with disabilities can reach t
 --- | --- | --- | --- | ---
 Action | Outcome | Key Performance Indicators | Lead Department | Timeline
 Encourage service providers to develop health promotion programmes for persons with disabilities. | People with disabilities have better access to mainstream health screening programmes. People with disabilities are supported to manage their own health. | HSE to encourage all service providers to develop health promotion programmes for people with disabilities. | Department of Health and HSE. | Ongoing.
-Improve accessibility of mainstream health services via roll-out of guidelines for accessibility. | People with disabilities have better access to health services. | Guidelines for accessibility to be developed under the roll out of 'Future Health'. | HSE. | Ongoing.
-Strengthen community mental health teams in both adult and children's areas to meet needs in line with A Vision for Change strategy. | People with mental health difficulties benefit from enhanced access to services. Note: In 2012 and 2013, a total of €53 million additional funding was provided to strengthen Community Mental Health Teams in both Adult and Children's mental | Over 790 new mental health professionals will be employed to strengthen these services. The majority of the 370 posts approved for mental health in 2012 have either been filled, are under offer or awaiting clearance. The HSE has | HSE. | Ongoing.
+Improve accessibility of mainstream health services via roll-out of guidelines for accessibility. | People with disabilities have better access to health services. | Guidelines for accessibility to be developed under the roll out of “Future Health”. | HSE. | Ongoing.
+Strengthen community mental health teams in both adult and children’s areas to meet needs in line with A Vision for Change strategy. | People with mental health difficulties benefit from enhanced access to services. Note: In 2012 and 2013, a total of €53 million additional funding was provided to strengthen Community Mental Health Teams in both Adult and Children’s mental | Over 790 new mental health professionals will be employed to strengthen these services. The majority of the 370 posts approved for mental health in 2012 have either been filled, are under offer or awaiting clearance. The HSE has | HSE. | Ongoing.
 
 31
 
@@ -682,17 +687,17 @@ Improve supports for children with disabilities in the preschool year. | Improve
 
 National Disability Strategy Implementation Plan
 
-## Chapter 4 - Monitoring the Implementation Plan
+## Chapter 4 – Monitoring the Implementation Plan
 
 ### Monitoring mechanism for the Implementation Plan
 
-Following the Publication of the Implementation Plan, the NDSIG will meet four times a year, or as directed by the Minister, to include at least one plenary and a number of thematic meetings, where for example, crossdepartmental issues need to be discussed or topics of particular interest, where not all departments need to attend.  The thematic meetings will include the relevant members of the NDSIG as appropriate.
+Following the Publication of the Implementation Plan, the NDSIG will meet four times a year, or as directed by the Minister, to include at least one plenary and a number of thematic meetings, where for example, cross-departmental issues need to be discussed or topics of particular interest, where not all departments need to attend.  The thematic meetings will include the relevant members of the NDSIG as appropriate.
 
 The overall Implementation Plan will be reviewed through these thematic meetings, which will be chaired by the Minister.  Prior to each meeting, the National Disability Authority will develop a briefing paper, based on the data available from departments, to help identify key themes and issues to inform discussion.  A specific issue will be chosen e.g. Housing and all relevant Departments (Environment, Community and Local Government including representation from the Local Authorities, Social Protection and Health) will be invited to attend the meeting, together with the DSG.  All actions in the Implementation Plan in relation to the chosen issue will be discussed, including progress made mapped against commitments in the plan, or if there is a lack of progress the reasons for same.  Solutions to the latter will also be considered at these meetings.
 
-Each department will have a consultative mechanism to facilitate a streamlined process of engagement at departmental level, between officials from that department and the disability sector including representatives of the DSG, on National Disability Strategy matters within that department's area of responsibility.  The consultative mechanism will be the forum where the detail in implementation of actions, in accordance with measurable key performance indicators will be examined and any issues on actions can be addressed. Where major issues of a broader cross-sectoral or national importance are involved, such discussions will take place at a full NDSIG meeting.
+Each department will have a consultative mechanism to facilitate a streamlined process of engagement at departmental level, between officials from that department and the disability sector including representatives of the DSG, on National Disability Strategy matters within that department’s area of responsibility.  The consultative mechanism will be the forum where the detail in implementation of actions, in accordance with measurable key performance indicators will be examined and any issues on actions can be addressed. Where major issues of a broader cross-sectoral or national importance are involved, such discussions will take place at a full NDSIG meeting.
 
-The Minister will, through the Cabinet Committee on Social Policy, keep the Taoiseach informed in relation to the work of the group, on a regular basis. The Plan will therefore have the involvement of the Taoiseach and other Cabinet Ministers with Social Policy functions, whenever such involvement becomes necessary to remove blockages, or to just keep everyone relevant informed. This will be particularly useful where there are cross-sectoral issues, as the Minister will be able to discuss the issues with her Cabinet colleagues, ensuring cross-sectoral co-operation on issues from the top down. In respect of the comprehensive employment strategy, once agreed by the NDSIG, its implementation will be overseen as part of the monitoring of the Implementation Plan process. In addition, the Cabinet Committee on Pathways to Work will be kept informed of progress by the Minister, including any blockages encountered, to ensure that issues in regard to job activation measures are considered in a mainstream employment forum, chaired by the Taoiseach and with all relevant Ministers present.
+The Minister will, through the Cabinet Committee on Social Policy, keep the Taoiseach informed in relation to the work of the group, on a regular basis. The Plan will therefore have the involvement of the Taoiseach and other Cabinet Ministers with Social Policy functions, whenever such involvement becomes necessary to remove blockages, or to just keep everyone relevant informed. This will be particularly useful where there are cross-sectoral issues, as the Minister will be able to discuss the issues with her Cabinet colleagues, ensuring cross-sectoral co-operation on issues from the top down. In respect of the comprehensive employment strategy, once agreed by the NDSIG, its implementation will be overseen as part of the monitoring of the Implementation Plan process. In addition, the Cabinet Committee on
 
 35
 
@@ -702,7 +707,9 @@ The Minister will, through the Cabinet Committee on Social Policy, keep the Taoi
 
 National Disability Strategy Implementation Plan
 
-The Department of Justice and Equality will continue to provide the secretariat function to the NDSIG and will also continue to chair the Senior Official's Group on Disability.
+Pathways to Work will be kept informed of progress by the Minister, including any blockages encountered, to ensure that issues in regard to job activation measures are considered in a mainstream employment forum, chaired by the Taoiseach and with all relevant Ministers present.
+
+The Department of Justice and Equality will continue to provide the secretariat function to the NDSIG and will also continue to chair the Senior Official’s Group on Disability.
 
 The voice of people with disabilities will continue to be heard throughout the monitoring and implementation process as set out in Chapter 1.  Since the Implementation Plan is a live document their continued input will be sought and recorded on an on-going basis.
 
