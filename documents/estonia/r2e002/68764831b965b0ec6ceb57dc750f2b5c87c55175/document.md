@@ -1,4 +1,11 @@
 [[START OF PAGE 1]]
+REPUBLIC OF ESTONIA
+MINISTRY OF EDUCATION
+AND RESEARCH
+
+EestiKoostööKogu
+
+EESTI HARIDUSFOORUM
 
 # The Estonian Lifelong Learning Strategy 2020
 
@@ -42,9 +49,9 @@
 
 What Estonia needs is a shared understanding of the direction to take when moving towards a knowledge and innovation-based society. We are successful only when we acknowledge the need to constantly learn and relearn and to be proactive and creative, so that we can cope in today's rapidly changing world. Learning and the knowledgeable application of skills must become an integral part of an active approach towards life.
 
-The Lifelong Learning Strategy is a document that guides the most important developments in the area of education. It is the basis on which the government will make its decisions for educational funding for the years 2014-2020 and for the development of programmes that support the achievement of necessary changes. The goals and measures of the Lifelong Learning Strategy are concordant with the national reform programme 'Estonia 2020', with the Estonian national strategy for sustainable development, 'Sustainable Estonia 21', and with the fulfilment of the educationrelated goals of the 'National Security Concept of the Republic of Estonia'.
+The Lifelong Learning Strategy is a document that guides the most important developments in the area of education. It is the basis on which the government will make its decisions for educational funding for the years 2014-2020 and for the development of programmes that support the achievement of necessary changes. The goals and measures of the Lifelong Learning Strategy are concordant with the national reform programme 'Estonia 2020', with the Estonian national strategy for sustainable development, 'Sustainable Estonia 21', and with the fulfilment of the education-related goals of the 'National Security Concept of the Republic of Estonia'.
 
-Unlike earlier attempts to draft an education strategy, the current one is a strategy of choices. It specifically addresses the most important obstacles in the area of lifelong learning. It is critically important for society to remove these obstructions, because they impact on the achievement of the agreed goals. Several international tests 1  have shown that education in Estonia is of a good quality: the skills of our students who have completed basic and secondary education are above average compared to their peers in other developed countries, whereas the results of our young people with higher education rank only as average. International comparisons, however, have also shown where our problems lie - there is a lack of resolve and creativity in using different skills in new contexts, the decline in age-related skills proficiency is too rapid, and older generations have lower informationprocessing skills and lack the courage to use computers. Our formal education provides a good basis, but skills have to be actively used in daily activities as well as in work life, since the principle 'use it or lose it' really does apply. We have to openly acknowledge that unused skills have no intrinsic value in themselves.
+Unlike earlier attempts to draft an education strategy, the current one is a strategy of choices. It specifically addresses the most important obstacles in the area of lifelong learning. It is critically important for society to remove these obstructions, because they impact on the achievement of the agreed goals. Several international tests 1  have shown that education in Estonia is of a good quality: the skills of our students who have completed basic and secondary education are above average compared to their peers in other developed countries, whereas the results of our young people with higher education rank only as average. International comparisons, however, have also shown where our problems lie - there is a lack of resolve and creativity in using different skills in new contexts, the decline in age-related skills proficiency is too rapid, and older generations have lower information-processing skills and lack the courage to use computers. Our formal education provides a good basis, but skills have to be actively used in daily activities as well as in work life, since the principle 'use it or lose it' really does apply. We have to openly acknowledge that unused skills have no intrinsic value in themselves.
 
 Developing the Lifelong Learning Strategy has been a two-stage process. In cooperation with the civil society organizations, the Estonian Cooperation Assembly and the Estonian Education Forum, the Ministry of Education and Research initiated the project 'Five Challenges in Estonian Education - Education Strategy for 2012-2020' during the period of 2009-2011.  This document was a starting point for discussions in the task force that included experts from the fields of education and the labour market who were responsible for compiling the current strategy in 2013. During the development of the strategy, an advisory body, mainly composed of the experts who had created the original document on the five challenges in Estonian education, was consulted. The Government officially approved the Estonian Lifelong Learning Strategy on February 13, 2014. In compiling the strategy, the results and written commentaries of discussions with different stakeholders was taken into account.
 
@@ -140,21 +147,21 @@ People understand that learning and self-development are their own choice and re
 
 ### WE CARE FOR DEMAND
 
-Studies are based on the learner's interests and capabilities, they support   or her development and meet labour market needs.
+Studies are based on the learner's interests and capabilities, they support his or her development and meet labour market needs.
 
 What is different in 2020?
 
 To pursue the vision and the general goal, 5 strategic goals have been established: (A table of indicators measuring the achievement of these goals is included in Annex 1)
 
-- Change in the approach to learning. Implementation of an approach to learning that supports each learner's individual and social development, the acquisition of learning skills, creativity and entrepreneurship at all levels and in all types of education.
+- 1. Change in the approach to learning. Implementation of an approach to learning that supports each learner's individual and social development, the acquisition of learning skills, creativity and entrepreneurship at all levels and in all types of education.
 
-- Competent and motivated teachers and school leadership. The assessments of teachers and headmasters including their salaries are consistent with the qualification requirements for the job and the work-related performance.
+- 2. Competent and motivated teachers and school leadership. The assessments of teachers and headmasters including their salaries are consistent with the qualification requirements for the job and the work-related performance.
 
-- Concordance of lifelong learning opportunities with the needs of labour market. Lifelong learning opportunities and career services that are diverse, flexible and of good quality, resulting in an increase in the number of people with professional or vocational qualifications in different age groups, and an increase in overall participation in lifelong learning across Estonia.
+- 3. Concordance of lifelong learning opportunities with the needs of labour market. Lifelong learning opportunities and career services that are diverse, flexible and of good quality, resulting in an increase in the number of people with professional or vocational qualifications in different age groups, and an increase in overall participation in lifelong learning across Estonia.
 
-- A digital focus in lifelong learning. Modern digital technology is used for learning and teaching effectively and efficiently. An improvement in the digital skills of the total population has been achieved and access to the new generation of digital infrastructure is ensured.
+- 4. A digital focus in lifelong learning. Modern digital technology is used for learning and teaching effectively and efficiently. An improvement in the digital skills of the total population has been achieved and access to the new generation of digital infrastructure is ensured.
 
-- Equal opportunities and increased participation in lifelong learning. Equal opportunities for lifelong learning have been created for every individual.
+- 5. Equal opportunities and increased participation in lifelong learning. Equal opportunities for lifelong learning have been created for every individual.
 
 ## Analysis of the current situation: the advances and obstacles of the lifelong learning system
 
@@ -164,23 +171,23 @@ The main points that indicate advances and obstacles are as follows 5 :
 
 ### ADVANCES
 
-- Education is highly valued in Estonian society - throughout history it has been considered as the cornerstone for individual success, as well as the main driver of the nation's development.
+- 1. Education is highly valued in Estonian society - throughout history it has been considered as the cornerstone for individual success, as well as the main driver of the nation's development.
 
-- International comparative studies show that most learners acquire good basic skills.
+- 2. International comparative studies show that most learners acquire good basic skills.
 
-- The socio-economic background of learners has a low impact on their learning results 6 .
+- 3. The socio-economic background of learners has a low impact on their learning results 6 .
 
-- Participation in lifelong learning has increased.
+- 4. Participation in lifelong learning has increased.
 
-- The incidence of school dropout has decreased in basic schools.
+- 5. The incidence of school dropout has decreased in basic schools.
 
-- Children's participation in preschool institutions is high, which creates a sound basis for a smooth transition to school life.
+- 6. Children's participation in preschool institutions is high, which creates a sound basis for a smooth transition to school life.
 
-- There are reliable databases for monitoring the progress of learners, education institutions and learning results. This allows resources to be allocated where they are needed most.
+- 7. There are reliable databases for monitoring the progress of learners, education institutions and learning results. This allows resources to be allocated where they are needed most.
 
-- Using language immersion methods has delivered good results and has increased the level of integration of Russian-speaking youth into Estonian society 7 .
+- 8. Using language immersion methods has delivered good results and has increased the level of integration of Russian-speaking youth into Estonian society 7 .
 
-- Alternative approaches incorporated in programmes such as Noored Kooli (TeachFirst) and
+- 9. Alternative approaches incorporated in programmes such as Noored Kooli (TeachFirst) and
 
 5 	  An overview of the dynamics of the listed indicators is shown in Annex 1.
 
@@ -198,39 +205,39 @@ The main points that indicate advances and obstacles are as follows 5 :
 
 Tagasi Kooli (Back to school), as well as private schools, Waldorf schools and the NGO Hea Algus (Step by Step), have made the formal education system more flexible, innovative and diverse.
 
-- Learning and working conditions in vocational schools and higher education institutions are modern.
+- 10. Learning and working conditions in vocational schools and higher education institutions are modern.
 
-- The network of vocational schools has been organized in a more efficient way.
+- 11. The network of vocational schools has been organized in a more efficient way.
 
 ### OBSTACLES
 
-- The understanding of a new approach for learning has been adopted only in theory. All Legal Acts governing national and education institutions establish how the different types of talents and special needs should be identified and valued, but this approach has not become an integral part of the learning process 8 .
+- 1. The understanding of a new approach for learning has been adopted only in theory. All Legal Acts governing national and education institutions establish how the different types of talents and special needs should be identified and valued, but this approach has not become an integral part of the learning process 8 .
 
-- The incidence of 'school dropout' (especially among males) is high across all levels and types of education.
+- 2. The incidence of 'school dropout' (especially among males) is high across all levels and types of education.
 
-- Attitudes that have developed in society influence learners towards choosing 'male and female specialities', which increases gender segregation in the labour market 9 .
+- 3. Attitudes that have developed in society influence learners towards choosing 'male and female specialities', which increases gender segregation in the labour market 9 .
 
-- Approximately one third of the working age population in Estonia does not have a professional or vocational education; the participation rate in lifelong learning among those with low levels of qualifications is limited.
+- 4. Approximately one third of the working age population in Estonia does not have a professional or vocational education; the participation rate in lifelong learning among those with low levels of qualifications is limited.
 
-- There is a substantial mismatch of skills. There is a considerable difference between what is offered by the education and training system and what the labour market needs. Education institutions and representatives of employers do not collaborate sufficiently to develop the lifelong learning system.
+- 5. There is a substantial mismatch of skills. There is a considerable difference between what is offered by the education and training system and what the labour market needs. Education institutions and representatives of employers do not collaborate sufficiently to develop the lifelong learning system.
 
-- There is a prevailing attitude in society that learning is only for young people. Besides financial limitations, self-development is also inhibited by a lack of interest and motivation among adults.
+- 6. There is a prevailing attitude in society that learning is only for young people. Besides financial limitations, self-development is also inhibited by a lack of interest and motivation among adults.
 
-- Teaching as a profession is not attractive: the proportion of young people, particularly males, in the teaching profession is low, interest in enrolling in the teacher education programmes is limited, and among those who have trained to be teachers, many choose not to work in schools.
+- 7. Teaching as a profession is not attractive: the proportion of young people, particularly males, in the teaching profession is low, interest in enrolling in the teacher education programmes is limited, and among those who have trained to be teachers, many choose not to work in schools.
 
-- Collection of information regarding labour market developments and the economy is not systematic and career counselling is of an uneven quality and accessibility 10 .
+- 8. Collection of information regarding labour market developments and the economy is not systematic and career counselling is of an uneven quality and accessibility 10 .
 
-- The current network of upper-secondary schools has not taken into account the significant decrease in the number of students and small upper-secondary schools cannot guarantee diverse, quality learning opportunities.
+- 9. The current network of upper-secondary schools has not taken into account the significant decrease in the number of students and small upper-secondary schools cannot guarantee diverse, quality learning opportunities.
 
-- Vocational education is not recognized as an opportunity for good quality studies, and the labour market lacks skilled workers with the appropriate qualifications.
+- 10. Vocational education is not recognized as an opportunity for good quality studies, and the labour market lacks skilled workers with the appropriate qualifications.
 
-- A rapid transition to very high numbers of students obtaining higher education has led to a decline in the standards of quality.  The problem solving skills of Estonian youths with higher education are low compared to their peers in other countries 11 . The international mobility of university students and teachers is low.
+- 11. A rapid transition to very high numbers of students obtaining higher education has led to a decline in the standards of quality. The problem solving skills of Estonian youths with higher education are low compared to their peers in other countries 11 . The international mobility of university students and teachers is low.
 
-- Russian-language basic schools do not provide good Estonian language skills and the basic skills of students in those schools is lower than in Estonian-language schools.
+- 12. Russian-language basic schools do not provide good Estonian language skills and the basic skills of students in those schools is lower than in Estonian-language schools.
 
-- Teachers' access to the digital infrastructure and learning materials is limited and inconsistent.
+- 13. Teachers' access to the digital infrastructure and learning materials is limited and inconsistent.
 
-- Approximately one third of the working age Estonian population 12  lacks even minimal ICT skills and the existing skills are insufficient for working 13 .
+- 14. Approximately one third of the working age Estonian population 12 lacks even minimal ICT skills and the existing skills are insufficient for working 13 .
 
 > 8   'OECD rahvusvahelise õpetamise ja õppimise uuringu TALIS tulemused', http://www.hm.ee/index.php?048181 'Eesti põhikooli efektiivsuse uuring', http://www.hm.ee/index.php?popup=download&id=1175
 
@@ -240,19 +247,19 @@ Tagasi Kooli (Back to school), as well as private schools, Waldorf schools and t
 
 > 11  'Täiskasvanute oskused Eestis ja maailmas. PIAAC uuringu esmased tulemused', 2013. Peatükk 3.4. 'Hariduslik jaotus'.
 
-> 12  Internet skills and use: https://ec.europa.eu/digital-agenda/sites/digital-agenda/files/DAE%20SCOREBOARD%20 2013%20-%203-INTERNET%20USE%20AND%20SKILLS.pdf lk 83
+> 12  Internet skills and use: https://ec.europa.eu/digital-agenda/sites/digital-agenda/files/DAE%20SCOREBOARD%202013%20-%203-INTERNET%20USE%20AND%20SKILLS.pdf lk 83
 
 > 13 According to a labour market study conducted by Statistics Estonia, 76% of respondents evaluate their computer skills to be sufficient in order to seek or change employment within the upcoming year.
 
-- Society places too much emphasis on the results of national examinations when assessing the quality of education and schools.
+- 15. Society places too much emphasis on the results of national examinations when assessing the quality of education and schools.
 
-- An evidence-based approach in decision-making and in the development of education policy has not become universal which makes reaching consensus in education policy choices difficult.
+- 16. An evidence-based approach in decision-making and in the development of education policy has not become universal which makes reaching consensus in education policy choices difficult.
 
 ## Strategic goals and measures
 
 ### 1. A change in the approach to learning
 
-All curricula adopted in formal education at the State level during the past decade have emphasized the focus on the learner, key competences, the necessity to incorporate new knowledge with the existing knowledge in the learning process, integrating studies with different subjects and fields, learning/teaching not only factual knowledge, but also how to learn and solve problems, including the team approach to problem solving. Efforts in these coming years must be directed towards implementing these requirements. A teacher in the 21 st  century, whether in a school, university or in adult education, is not a source of information. Rather, a teacher is a person who creates connections and shapes value judgements, whose task is to develop critical and creative thinking in a student, as well as analytical and entrepreneurial skills, team work skills and written and oral communication skills. The teacher's role is to support a student's path towards becoming a learner who can manage their own learning, who can cope with changes in their surroundings independently, and who takes responsibility for their own development and learning. In order to give weaker learners the ability to cope and to challenge the stronger learners at the same time, teachers and the teams of supporting specialists need to approach each learner individually.
+All curricula adopted in formal education at the State level during the past decade have emphasized the focus on the learner, key competences, the necessity to incorporate new knowledge with the existing knowledge in the learning process, integrating studies with different subjects and fields, learning/teaching not only factual knowledge, but also how to learn and solve problems, including the team approach to problem solving. Efforts in these coming years must be directed towards implementing these requirements. A teacher in the 21st century, whether in a school, university or in adult education, is not a source of information. Rather, a teacher is a person who creates connections and shapes value judgements, whose task is to develop critical and creative thinking in a student, as well as analytical and entrepreneurial skills, team work skills and written and oral communication skills. The teacher's role is to support a student's path towards becoming a learner who can manage their own learning, who can cope with changes in their surroundings independently, and who takes responsibility for their own development and learning. In order to give weaker learners the ability to cope and to challenge the stronger learners at the same time, teachers and the teams of supporting specialists need to approach each learner individually.
 
 The goal is to implement an approach towards learning that supports each learner's individual and social development, learning skills, creativity and entrepreneurship in the work of all levels and types of education.
 
@@ -320,7 +327,7 @@ The main focus here would be rethinking the role of the Head of a school as well
 
 ##### 1.4. Creating and supporting forms of cooperation that support the implementation of the approach to learning
 
-Cooperation in all its diverse forms is the key to success in the education system: it is very important to have cooperation with teachers and educational institutions, the school and parents, but also between the school and the local government and the local private sector. Integrating extracurricular education with formal education and teaching outside of the school environment (in companies, youth centres, nature and environment centres, museums, libraries, and other cultural institutions) enriches the learning process. Special attention needs to be given to the inclusion of Russianlanguage schools in joint projects and support for their initiatives. Besides local cooperation, including international experience and expertise in all levels of education is of critical importance for Estonia.
+Cooperation in all its diverse forms is the key to success in the education system: it is very important to have cooperation with teachers and educational institutions, the school and parents, but also between the school and the local government and the local private sector. Integrating extracurricular education with formal education and teaching outside of the school environment (in companies, youth centres, nature and environment centres, museums, libraries, and other cultural institutions) enriches the learning process. Special attention needs to be given to the inclusion of Russian-language schools in joint projects and support for their initiatives. Besides local cooperation, including international experience and expertise in all levels of education is of critical importance for Estonia.
 
 ###### Necessary activities:
 
@@ -398,7 +405,7 @@ A teacher's performance should be evaluated and a salary rate applied in accorda
 
 ##### 2.3.  Evaluating the performance of school leaders
 
-School leaders should be regularly assessed for their implementation of the essential competence requirements for the position. The role of a school leader in creating a school's culture is of crucial significance, because the learning environment depends first and foremost on the headmaster whether they value, motivate and support a learner and their developmental potential, whether they support the development of teachers and other school staff members, and whether the school works well with the community and families. In order for Estonian schools to be led by competent and motivated school leaders, who have the determination and ability to carry out the objectives set out in the strategy, the following steps need to be taken:
+School leaders should be regularly assessed for their implementation of the essential competence requirements for the position. The role of a school leader in creating a school's culture is of crucial significance, because the learning environment depends first and foremost on the headmaster – whether they value, motivate and support a learner and their developmental potential, whether they support the development of teachers and other school staff members, and whether the school works well with the community and families. In order for Estonian schools to be led by competent and motivated school leaders, who have the determination and ability to carry out the objectives set out in the strategy, the following steps need to be taken:
 
 10
 
@@ -572,17 +579,17 @@ Assessment models need to be created and implemented for digital competences (fo
 
 ###### Necessary activities:
 
-- The students' digital competences will be assessed at the end of the 3 rd  and 4 th  stages of school;
+- The students' digital competences will be assessed at the end of the 3rd and 4th stages of school;
 
 - Digital competence models will be implemented; curricula for the initial and in-service education of teachers will be in line with these competence models;
 
-- A system of assessing and recognizing digital competences that have been acquired through selfdidactics or practical experience will be created.
+- A system of assessing and recognizing digital competences that have been acquired through self-didactics or practical experience will be created.
 
 ##### 4.5. Creating learning opportunities for adults to acquire digital competences
 
 Learning opportunities need to be provided for adults to acquire and develop digital competences, so that people will be able to use digital devices to improve their quality of life and make their work more productive. To achieve this, training institutions will work with various partners to fulfil the objectives of the 'Information Society Development Plan 2020'.
 
-### 5.Equal opportunities and increased participation in lifelong learning
+### 5. Equal opportunities and increased participation in lifelong learning
 
 As a State, the Republic of Estonia must guarantee its people an equal opportunity to obtain education that is proportional to their abilities. At the same time, there are numerous social, linguistic, gender-related, but also economic and regional barriers that inhibit these opportunities. Guaranteeing equal educational opportunities for children and youth with special needs is still problematic. In-service education and retraining often does not reach the target groups that need them. Despite tendencies towards improvement, the rate of discontinuing studies is still high in Estonia.
 
@@ -594,7 +601,7 @@ The prerequisite for fulfilling this objective is the cooperation of the state, 
 
 #### Strategic measures
 
-##### Creating flexible opportunities for pre-school education.
+##### 5.1. Creating flexible opportunities for pre-school education.
 
 Flexible opportunities need to be developed for all children to participate in the curricula of preschool education at least one year before starting school, so that parents can be confident of the child's readiness for school. In order to achieve this:
 
@@ -662,7 +669,7 @@ Learning opportunities should be available to all members of society, particular
 
 ##### 5.6. Implementing support schemes for university, vocational and general upper-secondary students
 
-At the higher education level, a direction has been taken for the students to reflect the structure of the society from admission to graduation, including aspects such as gender, language and socioeconomic factors, so that students will be supported when choosing specialities that are important for the State. There will be development and continual monitoring of a needs-based system of loans and support, as well as stipends. With the pooling of upper-secondary education into county centres, a needs-based system of support will be created and dormitories will also be available for uppersecondary school students.
+At the higher education level, a direction has been taken for the students to reflect the structure of the society from admission to graduation, including aspects such as gender, language and socio-economic factors, so that students will be supported when choosing specialities that are important for the State. There will be development and continual monitoring of a needs-based system of loans and support, as well as stipends. With the pooling of upper-secondary education into county centres, a needs-based system of support will be created and dormitories will also be available for upper-secondary school students.
 
 ##### 5.7.  Assisting graduates of non-Estonian language basic schools
 
@@ -718,24 +725,22 @@ Representatives from other relevant ministries will also be involved in the deve
 
 ## Annex 1: Key indicators for achieved goals
 
-1717, 18181919201020212123222323
-
 INDICATOR | 2008 Actual | 2009 Actual | 2010 Actual | 2011 Actual | 2012 Actual | Estonian Goal 2020 | EU Goal 2020
 --- | --- | --- | --- | --- | --- | --- | ---
 ### Key indicators
-Stakeholders' satisfaction with lifelong learning (central, regular survey) | - | Satisfaction has increased
-Percentage of adults (25-64) with general education only (no vocational or professional education) 17 | 35 | 32 | 32 | 31.1 | 30.3 | 25%
+Stakeholders' satisfaction with lifelong learning (central, regular survey) |  |  |  |  | - | Satisfaction has increased |
+Percentage of adults (25-64) with general education only (no vocational or professional education) 17 | 35 | 32 | 32 | 31.1 | 30.3 | 25% |
 Adult participation in lifelong learning (% of persons aged 25 - 64 who stated that they received education or training during the four weeks preceding the survey) 18 | 9.8 | 10.5 | 10.9 | 12 | 12.9 | 20% | 15%
-Early leavers from education and training (% of the population aged 18-24 with at most lower-secondary education and not in further | 14 | 13.9 | 11.6 | 10.9 | 10.5
-education or training) 19 | < 9% | <10%
-Men | 19.8 | 18.4 | 15.2 | 13.1 | 14
-Women Employment rate of recent graduates (20-34 years old graduates - one to | 8.2 81.9 | 9.3 65 | 7.8 64.1 | 8.6 73.2 | 7.1 73.9 | 82% | 82%
-Digital competences (individuals aged 16-74 with computer skills, %) 21 | 58 | 64 | 65 | 80%
-Top achievers in basic skills (the percentage of top performers) 22 | 2006 | 2009 | 2012 | 2018
-Reading | 6.0 | 6.0 | 8.4 | 10%
-Mathematics | 12.6 | 12.8 | 14.6 | 16%
-Science | 11.5 | 10.4 | 12.8 | 14.4%
-Comparison of general education teachers' salaries (Ratio of salaries to earnings for full-time, full-year workers with tertiary education aged 25-64) 23 | 0.82 | 0.57 | 0.64 | ≥1.0
+Early leavers from education and training (% of the population aged 18-24 with at most lower-secondary education and not in further education or training) 19 | 14 | 13.9 | 11.6 | 10.9 | 10.5 | < 9% | <10%
+Men | 19.8 | 18.4 | 15.2 | 13.1 | 14 |  |
+Women | 8.2 | 9.3 | 7.8 | 8.6 | 7.1 |  |
+Employment rate of recent graduates (20-34 years old graduates - one to three years after leaving education, %) 20 | 81.9 | 65 | 64.1 | 73.2 | 73.9 | 82% | 82%
+Digital competences (individuals aged 16-74 with computer skills, %) 21 |  | 58 |  | 64 | 65 | 80% |
+Top achievers in basic skills (the percentage of top performers) 22 | 2006 | 2009 |  |  | 2012 | 2018 |
+Reading | 6.0 | 6.0 |  |  | 8.4 | 10% |
+Mathematics | 12.6 | 12.8 |  |  | 14.6 | 16% |
+Science | 11.5 | 10.4 |  |  | 12.8 | 14.4% |
+Comparison of general education teachers' salaries (Ratio of salaries to earnings for full-time, full-year workers with tertiary education aged 25-64) 23 |  | 0.82 | 0.57 | 0.64 |  | ≥1.0 |
 
 > 17 ESTAT. Labour force survey; analysis by the Ministry of Research and Education
 
@@ -761,24 +766,25 @@ Comparison of general education teachers' salaries (Ratio of salaries to earning
 
 ### I Change in the approach to learning
 --- | --- | --- | --- | --- | --- | --- | ---
-Low achievers in basic skills (the percentage of low performers) 24 | 2006 | 2009 | 2012 | 2018
-Reading | 13.6 | 13.3 | - | - | 9.1 | 7.5%
-Mathematics | 12.1 | 12.9 | 10.5 | 8% | <15%
-Science | 7.7 | 8.3 | 5.0 | 5%
-Drop-out rate from lower-secondary compulsory education 25 | 0.9 | 0.6 | 0.5 | 0.5 | 0.6 | <1%
+Low achievers in basic skills (the percentage of low performers) 24 | 2006 | 2009 | - | - | 2012 | 2018 | <15%
+Reading | 13.6 | 13.3 |  |  | 9.1 | 7.5% |
+Mathematics | 12.1 | 12.9 |  |  | 10.5 | 8% |
+Science | 7.7 | 8.3 |  |  | 5.0 | 5% |
+Drop-out rate from lower-secondary compulsory education 25 | 0.9 | 0.6 | 0.5 | 0.5 | 0.6 | <1% |
 Boys | 1.2 | 0.8 | 0.6 | 0.6 | 0.7 | - | -
 Girls | 0.5 | 0.3 | 0.4 | 0.3 | 0.3 | - | -
-Drop-out rate 26
-from vocational schools 27 from upper-secondary general | 21.3 0.9 | 23.6 1.0 | 28.5 1.1 | 26,2 1.4 | 25.8 1.1 | <20% <0.8% | -
-education 28 from higher education institutions 29 | 21.3 | <15%
+Drop-out rate 26 |  |  |  |  |  |  | -
+from vocational schools 27 | 21.3 | 23.6 | 28.5 | 26,2 | 25.8 | <20% |
+from upper-secondary general education 28 | 0.9 | 1.0 | 1.1 | 1.4 | 1.1 | <0.8% |
+from higher education institutions 29 |  |  |  | 21.3 |  | <15% |
 ### II Competent and motivated teachers and school leadership
-Percentage share of teachers (age 30 years and under) 30 | 11.4 | 11.2 | 10.5 | 10.3 | 10.3 | >12.5%
-Competition for study places in teacher education 31 | Competition has increased
-Percentage distribution of teachers in general education by sex (female: male) 32 | 85.6:14.4 | 85.5:14.5 | 85.7: 14.3 | 75%:25%
+Percentage share of teachers (age 30 years and under) 30 | 11.4 | 11.2 | 10.5 | 10.3 | 10.3 | >12.5% |
+Competition for study places in teacher education 31 |  |  |  |  |  | Competition has increased |
+Percentage distribution of teachers in general education by sex (female: male) 32 |  |  | 85.6:14.4 | 85.5:14.5 | 85.7:14.3 | 75%:25% |
 ### III Concordance of lifelong learning opportunities with the needs of labour market
-Share of tertiary graduates in Mathematics, Science and Technology (MST) as a percentage of all tertiary graduates 33 | 20.5 | 19.4 | 20.5 | 21.1 | 22 | 25%
-Share of graduates of basic education who passed the career counselling | 100%
-Share of graduates of basic education who continue their studies in upper- secondary vocational education 34 | 30.4 | 29.9 | 26.3 | 27.6 | 28.6 | 35%
+Share of tertiary graduates in Mathematics, Science and Technology (MST) as a percentage of all tertiary graduates 33 | 20.5 | 19.4 | 20.5 | 21.1 | 22 | 25% |
+Share of graduates of basic education who passed the career counselling |  |  |  |  |  | 100% |
+Share of graduates of basic education who continue their studies in upper-secondary vocational education 34 | 30.4 | 29.9 | 26.3 | 27.6 | 28.6 | 35% |
 
 > 24 PISA (share of 15 year-olds below 2.level)
 
@@ -802,21 +808,20 @@ Share of graduates of basic education who continue their studies in upper- secon
 
 > 34 EHIS
 
-Percentage distribution of upper- secondary students by orientation - general: vocational 35 | 67.7:32.3 | 66.6:33.4 | 66.3:33.7 | 66.8:33.2 | 67:33 | 60%:40%
---- | --- | --- | --- | --- | --- | ---
-Student mobility 36 | 1.4 | 2.2 | 2.8 | 3.1 | 3.5 | 10%
+Percentage distribution of upper-secondary students by orientation - general: vocational 35 | 67.7:32.3 | 66.6:33.4 | 66.3:33.7 | 66.8:33.2 | 67:33 | 60%:40% |
+Student mobility 36 | 1.4 | 2.2 | 2.8 | 3.1 | 3.5 | 10% |
 ### IV Digital focus in lifelong learning
-Percentage share of students (ISCED levels 1-6) who use computers, digital and mobile personal devices for studies every school day | 100%
-Percentage of 8th grade students at digitally supportive schools 37 | 33% 38 | 100%
-Percentage of 8th grade students in schools with a virtual learning environment 39 | 54% 40 | 100%
-Percentage of graduates of basic education whose ICT basic skills are assessed and certified 41 | 100%
+Percentage share of students (ISCED levels 1-6) who use computers, digital and mobile personal devices for studies every school day |  |  |  |  |  | 100% |
+Percentage of 8th grade students at digitally supportive schools 37 |  |  |  |  | 33% 38 | 100% |
+Percentage of 8th grade students in schools with a virtual learning environment 39 |  |  |  |  | 54% 40 | 100% |
+Percentage of graduates of basic education whose ICT basic skills are assessed and certified 41 |  |  |  |  |  | 100% |
 ### V. Equal possibilities for lifelong learning and increased participation
-Tertiary education attainment, age group 30-34 (%) 42 | 34.1 | 35.9 | 40 | 40.3 | 39.1 | 40%
-Participants in early education (aged between 4 years and the starting age of compulsory education) (%) 43 | 95.1 | 95.7 | 89.8 44 | 89.1 | 95%
-Share of Russian-language school graduates who master the Estonian language at B1 level 45 | 55.7 | 56.5 | 90%
-Share of labour costs of governmental educational expenditures 46 Inc. the share of teachers' labour | 55 | 58 | 57 | 55 | 60
-cost of governmental expenditures on general education | 36 | 37 | 39 | 38 | 50
-Optimization of the use of space in educational institutions (m 2 ) 47 | 3.5 mil | 3 mil
+Tertiary education attainment, age group 30-34 (%) 42 | 34.1 | 35.9 | 40 | 40.3 | 39.1 | 40% |
+Participants in early education (aged between 4 years and the starting age of compulsory education) (%) 43 | 95.1 | 95.7 | 89.8 44 | 89.1 |  | 95% |
+Share of Russian-language school graduates who master the Estonian language at B1 level 45 |  |  |  | 55.7 | 56.5 | 90% |
+Share of labour costs of governmental educational expenditures 46 | 55 | 58 | 57 | 55 |  | 60 |
+Inc. the share of teachers' labour cost of governmental expenditures on general education | 36 | 37 | 39 | 38 |  | 50 |
+Optimization of the use of space in educational institutions (m²) 47 |  |  |  |  | 3.5 mil | 3 mil |
 
 > 35 EHIS, students of upper-secondary curricula
 
@@ -864,7 +869,7 @@ Digital infrastructure is the digital hardware and software, with network soluti
 
 Digital learning is using technology in the learning process in a targeted manner, to help achieve the agreed learning outcomes.
 
-Lifelong learning includes the formal education system (kindergartens, secondary schools, uppersecondary schools, vocational schools, higher education institutions), as well as the learning that takes place outside of that system - in-service education and retraining, non-formal and informal learning in all its diversity. Opportunities for acquiring new knowledge and skills can be found in the workplace, in leisure time and hobby activities, or in a virtual space, where co-learning or individual learning can take place. Cultural institutions create curiosity and interest in learning; learning habits and value judgements can be developed in military service as well.
+Lifelong learning includes the formal education system (kindergartens, secondary schools, upper-secondary schools, vocational schools, higher education institutions), as well as the learning that takes place outside of that system - in-service education and retraining, non-formal and informal learning in all its diversity. Opportunities for acquiring new knowledge and skills can be found in the workplace, in leisure time and hobby activities, or in a virtual space, where co-learning or individual learning can take place. Cultural institutions create curiosity and interest in learning; learning habits and value judgements can be developed in military service as well.
 
 Formal learning mostly takes place in a school environment and is organized on the basis of curricula. Formal education has specific objectives and is conducted by teachers who are specially prepared and qualified. Learning objectives are mostly set externally, and the learning process is monitored and evaluated. Formal learning is mandatory until a certain level or age.
 
