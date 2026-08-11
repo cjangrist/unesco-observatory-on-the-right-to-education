@@ -18,9 +18,10 @@ ACT no. 501 of 6 June 2007 BE IT KNOWN that the Folketing has enacted and We Mar
 
 #### Purpose
 
-- The purpose of this Act is to
+##### 1.
+The purpose of this Act is to
 
-(i)    promote the welfare, development and learning of children and young people through day-care, after-school and club facilities and other sociopedagogic after-school facilities;
+(i)    promote the welfare, development and learning of children and young people through day-care, after-school and club facilities and other socio-pedagogic after-school facilities;
 
 (ii)  provide families with flexibility and options as regards various types of facilities and subsidies so that to the extent possible families can plan family and working life according to their needs and wishes;
 
@@ -35,11 +36,11 @@ ACT no. 501 of 6 June 2007 BE IT KNOWN that the Folketing has enacted and We Mar
 
 (2). Parents lawfully residing in Denmark are entitled to services under this Act.
 
-. Parents may dispose of only one place per child in facilities under this Act; but see section 80(4).
+(3). Parents may dispose of only one place per child in facilities under this Act; but see section 80(4).
 
 #### Objectives, framework and responsibilities for and supervision of day-care, after-school and club facilities and other socio-pedagogic after-school facilities
 
-05-03-2010 http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C...
+http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C... 05-03-2010
 
 [[END OF PAGE 1]]
 
@@ -52,22 +53,22 @@ Side 2 af 31
 ##### 3.
 (1) The local council is responsible for day-care, after-school and club facilities and other socio-pedagogic after-school facilities.
 
-. The local council shall establish and publish local authority objectives and framework for day-care, after-school and club facilities, etc. in the local authority.
+(2). The local council shall establish and publish local authority objectives and framework for day-care, after-school and club facilities, etc. in the local authority.
 
-. The local council shall ensure that day-care, after-school and club facilities, etc. are instrumental in implementing the local authority's coherent child policy, cf. section 19(2) of the Act on Social Services, and that the facilities assist in
+(3). The local council shall ensure that day-care, after-school and club facilities, etc. are instrumental in implementing the local authority's coherent child policy, cf. section 19(2) of the Act on Social Services, and that the facilities assist in
 
 (i)    creating mutual coherence between facilities under this Act and other relevant acts and
 
 (ii)  providing special support to children and young people under the age of 18 requiring such support.
 
-. The local council shall publish an overview of day-care, after-school and club facilities, etc. in the local authority and rates of subsidies for private day-care and care for own children.
+(4). The local council shall publish an overview of day-care, after-school and club facilities, etc. in the local authority and rates of subsidies for private day-care and care for own children.
 
 ##### 4.
-(1) The local council shall provide the necessary number of places in day-care, after-school and club facilities and other socio-pedagogic afterschool facilities.
+(1) The local council shall provide the necessary number of places in day-care, after-school and club facilities and other socio-pedagogic after-school facilities.
 
 (2). The local council shall ensure that children and young people under the age of 18 requiring support in a day-care, after-school or club facility, etc. to thrive and develop are offered such support in the facility.
 
-. Day-care, after-school and club facilities for children and young people under the age of 18, who due to substantially and permanently diminished physical or mental capacity require special support, treatment, etc. that cannot be covered by using one of the facilities under this Act, shall be established in pursuance of the provisions of the Act on Social Services.
+(3). Day-care, after-school and club facilities for children and young people under the age of 18, who due to substantially and permanently diminished physical or mental capacity require special support, treatment, etc. that cannot be covered by using one of the facilities under this Act, shall be established in pursuance of the provisions of the Act on Social Services.
 
 ##### 5.
 (1) The local council shall supervise the activities of the facilities under this Act and the manner in which tasks are performed, including that the objectives and framework established under section 3 are observed.
@@ -79,7 +80,7 @@ Side 2 af 31
 
 (2). The manager of the individual independent day-care, after-school or club facility, etc. shall be in charge of the pedagogic and administrative management of the facility and accountable to the board of the facility in this
 
-05-03-2010 http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C...
+http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C... 05-03-2010
 
 [[END OF PAGE 2]]
 
@@ -104,7 +105,7 @@ respect.
 ##### 7.
 (1) Children in day-care facilities shall have a physical, mental and aesthetical child environment that promotes their welfare, health, development and learning.
 
-. Day-care facilities shall cooperate with parents to provide care for the children and support the comprehensive development and self-esteem of the individual child and contribute to the proper and safe upbringing of children.
+(2). Day-care facilities shall cooperate with parents to provide care for the children and support the comprehensive development and self-esteem of the individual child and contribute to the proper and safe upbringing of children.
 
 (3). Day-care facilities shall promote children's learning and development of competencies through experiences, play and educationally planned activities that give children room for contemplation, exploration and experience.
 
@@ -119,11 +120,11 @@ respect.
 
 (2). The pedagogical curriculum shall describe the objective of the day-care facility in respect of children's learning within the following themes:
 
-- Comprehensive personal development.
+1) Comprehensive personal development.
 
-- Social competencies.
+2) Social competencies.
 
-05-03-2010 http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C...
+http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C... 05-03-2010
 
 [[END OF PAGE 3]]
 
@@ -133,13 +134,13 @@ Start
 
 Side 4 af 31
 
-- Language development.
+3) Language development.
 
-- Body and motion.
+4) Body and motion.
 
-- Nature and natural phenomena.
+5) Nature and natural phenomena.
 
-- Cultural values and artistic expressions.
+6) Cultural values and artistic expressions.
 
 (3). The pedagogical curriculum shall describe relevant pedagogical approaches and activities applied to reach the objectives and how to evaluate the curriculum.
 
@@ -168,7 +169,7 @@ Side 4 af 31
 
 (3). The local council is responsible for ensuring that the child's parents are
 
-05-03-2010 http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C...
+http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C... 05-03-2010
 
 [[END OF PAGE 4]]
 
@@ -187,9 +188,9 @@ involved in the language assessments and the work of the day-care facility to su
 ##### 12.
 (1) All day-care facilities shall prepare a written child environmental impact assessment which contains a mapping of the facility's physical, mental and aesthetic child environment. The child environmental impact assessment shall describe any child environmental issues and include an action plan.
 
-. The child environment shall be assessed from a child's perspective and the children's experience of the child environment shall be included according to the children's age and maturity.
+(2). The child environment shall be assessed from a child's perspective and the children's experience of the child environment shall be included according to the children's age and maturity.
 
-. The manager of the day-care facility shall involve the parent board in the child environmental impact assessment work.
+(3). The manager of the day-care facility shall involve the parent board in the child environmental impact assessment work.
 
 (4). For childminding, the assessment is prepared for all childminding homes or districts under the local-authority childminding scheme.
 
@@ -198,7 +199,7 @@ involved in the language assessments and the work of the day-care facility to su
 
 (2). The manager of the day-care facility is responsible for having the child environmental impact assessment revised at least every three years and whenever there are changes affecting the child environment.
 
-. Day-care facilities may seek advice regarding child environment from the Danish Centre of Educational Environment; cf. the Act on the Educational Environment of Pupils and Students.
+(3). Day-care facilities may seek advice regarding child environment from the Danish Centre of Educational Environment; cf. the Act on the Educational Environment of Pupils and Students.
 
 #### Parent board
 
@@ -209,7 +210,7 @@ involved in the language assessments and the work of the day-care facility to su
 
 (3). In respect of private day-care centres, the local council shall in connection with approval under section 20 ensure that parents are given influence corresponding to the parental influence in independent day-care
 
-05-03-2010 http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C...
+http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C... 05-03-2010
 
 [[END OF PAGE 5]]
 
@@ -221,7 +222,7 @@ Side 6 af 31
 
 centres.
 
-. In respect of private childminding, the local council shall in connection with the agreement ensure that parents are given influence on the childminder's work with the children.
+(4). In respect of private childminding, the local council shall in connection with the agreement ensure that parents are given influence on the childminder's work with the children.
 
 ##### 15.
 (1) The parent board of a day-care centre shall lay down the principles for the work of the day-care centre and for applying the budget framework of the day-care centre within the objectives and framework determined by the local council.
@@ -250,7 +251,7 @@ centres.
 
 (3). The individual parents with children in a day-care facility shall decide
 
-05-03-2010 http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C...
+http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C... 05-03-2010
 
 [[END OF PAGE 6]]
 
@@ -275,7 +276,7 @@ whether they want to use the meal scheme. Parents using the meal scheme shall pa
 
 (2). Day-care facilities and local authorities may seek inspiration and guidance on evaluation and quality development from the central evaluation and advisory function.
 
-. The central evaluation and advisory function may obtain the information from local authorities and day-care facilities deemed important for the work of the evaluation and advisory function.
+(3). The central evaluation and advisory function may obtain the information from local authorities and day-care facilities deemed important for the work of the evaluation and advisory function.
 
 ### Part 3
 
@@ -297,7 +298,7 @@ whether they want to use the meal scheme. Parents using the meal scheme shall pa
 
 (2). The local council shall determine and publish criteria for approval under subsection (1) above. The local council may require an operating guarantee.
 
-05-03-2010 http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C...
+http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C... 05-03-2010
 
 [[END OF PAGE 7]]
 
@@ -342,7 +343,7 @@ Side 8 af 31
 
 (4). The local council shall lay down and publish guidelines for applications for admission to a day-care facility.
 
-05-03-2010 http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C...
+http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C... 05-03-2010
 
 [[END OF PAGE 8]]
 
@@ -372,7 +373,7 @@ Side 9 af 31
 ##### 25.
 (1) Effective as from the first calendar day of the month following a breach of the guaranteed day-care availability, the local council shall increase the subsidy under section 31 to not less than 78 per cent for all children in local-authority day-care facilities until the council is able to meet the day-care guarantee and the local council has laid down new rates for subsidies and user-payment.
 
-. If the local council fails to comply with subsection (1) above, the local council shall repay the parents the amount by which the subsidy has unjustly not been increased.
+(2). If the local council fails to comply with subsection (1) above, the local council shall repay the parents the amount by which the subsidy has unjustly not been increased.
 
 (3). In very special cases where the local council cannot offer a place within the periods stipulated, the local council may refrain from increasing the subsidy rate irrespective of subsection (1) above if the local council is able to offer a place to the child within one extra month.
 
@@ -381,7 +382,7 @@ Side 9 af 31
 
 (2). The local council may decide that independent day-care centres and private childminders shall entirely or partially make their own decision on admission to the day-care centre.
 
-05-03-2010 http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C...
+http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C... 05-03-2010
 
 [[END OF PAGE 9]]
 
@@ -391,21 +392,21 @@ Start
 
 Side 10 af 31
 
-(3). Private day-care centres shall make a decision on admission to the private day-care centre. The local council cannot offer places in private daycare centres.
+(3). Private day-care centres shall make a decision on admission to the private day-care centre. The local council cannot offer places in private day-care centres.
 
 ##### 27.
 (1) The local council shall lay down and publish guidelines for admitting children in day-care facilities under section 19(2) and (3) and section 21(2) and (3). Parents shall be able to state their wishes for admission to specific day-care facilities.
 
 (2). Independent day-care centres and private childminders with authority to make admission decisions, cf. section 26(2), shall lay down and publish guidelines for admitting children to such facilities.
 
-. Private day-care centres shall lay down and publish guidelines for admitting children to such centres.
+(3). Private day-care centres shall lay down and publish guidelines for admitting children to such centres.
 
 (4). Private day-care centres may only refuse to admit children if they do not have any places.
 
 #### Place in day-care facilities in another local authority
 
 ##### 28.
-(1) All children shall have access to be admitted to a day-care facility under section 19(2) and (3) and section 21(2) and (3) in a local authority other than the local authority of residence from the time when the parents have been granted a subsidy from the local authority of residence for a daycare facility; but see subsection (2) below.
+(1) All children shall have access to be admitted to a day-care facility under section 19(2) and (3) and section 21(2) and (3) in a local authority other than the local authority of residence from the time when the parents have been granted a subsidy from the local authority of residence for a day-care facility; but see subsection (2) below.
 
 (2). The local council may decide to close the waiting list for admission of children from other local authorities due to capacity restrictions and special considerations for children from the local authority.
 
@@ -420,11 +421,11 @@ Side 10 af 31
 
 (3). The local council shall lay down and publish guidelines for parents' removal of children from day-care facilities in pursuance of section 19(2) and (3) and section 21(2) and (3).
 
-. Private day-care centres shall lay down and publish guidelines for parents' removal of children from such centres.
+(4). Private day-care centres shall lay down and publish guidelines for parents' removal of children from such centres.
 
 #### Authorisation
 
-05-03-2010 http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C...
+http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C... 05-03-2010
 
 [[END OF PAGE 10]]
 
@@ -434,7 +435,8 @@ Start
 
 Side 11 af 31
 
-- The Minister for Family and Consumer Affairs shall lay down rules for deposit and operating guarantee, cf. section 20, guaranteed day-care availability and deadlines for offering places, subsidies in pursuance of section 24 and rules for closing the waiting list for admission of children from other local authorities.
+##### 30.
+The Minister for Family and Consumer Affairs shall lay down rules for deposit and operating guarantee, cf. section 20, guaranteed day-care availability and deadlines for offering places, subsidies in pursuance of section 24 and rules for closing the waiting list for admission of children from other local authorities.
 
 ### Part 5
 
@@ -449,9 +451,11 @@ Side 11 af 31
 
 (3). Subsidies and own payment shall be determined for one financial year at a time on the basis of the budgets adopted by the day-care facilities.
 
-- In connection with admission to a local-authority or independent daycare centre, the local council's subsidy and the parents' own payment shall be calculated on the basis of the budgeted gross operating costs of the individual day-care centre or on the basis of the average budgeted gross operating costs of similar day-care centres in the local authority.
+##### 32.
+In connection with admission to a local-authority or independent day-care centre, the local council's subsidy and the parents' own payment shall be calculated on the basis of the budgeted gross operating costs of the individual day-care centre or on the basis of the average budgeted gross operating costs of similar day-care centres in the local authority.
 
-- In connection with admission to local-authority childminding, the local council's subsidy and the parents' own payment shall be calculated on the basis of the average gross operating costs of the local-authority childminder.
+##### 33.
+In connection with admission to local-authority childminding, the local council's subsidy and the parents' own payment shall be calculated on the basis of the average gross operating costs of the local-authority childminder.
 
 ##### 34.
 (1) The local council of the local authority of residence shall grant a subsidy per child for private childminding.
@@ -465,7 +469,7 @@ Side 11 af 31
 
 (2). The administration subsidy shall correspond to the average administration subsidy per child which the local council grants to
 
-05-03-2010 http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C...
+http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C... 05-03-2010
 
 [[END OF PAGE 11]]
 
@@ -494,9 +498,11 @@ independent day-care centres in the local authority.
 
 (2). The administration subsidy shall correspond to the average administration subsidy per child which the local council grants to independent day-care centres in the local authority.
 
-- The local council of the local authority of residence shall grant the subsidies under sections 36-38 from the time when the parents have been granted a subsidy for a day-care facility and the child has been admitted to the private day-care centre and until the child starts school.
+##### 39.
+The local council of the local authority of residence shall grant the subsidies under sections 36-38 from the time when the parents have been granted a subsidy for a day-care facility and the child has been admitted to the private day-care centre and until the child starts school.
 
-- Private day-care centres shall fix and publish the parents' own payment.
+##### 40.
+Private day-care centres shall fix and publish the parents' own payment.
 
 #### Subsidies for day-care facilities in another local authority
 
@@ -509,15 +515,15 @@ independent day-care centres in the local authority.
 
 (4). The local authority of residence shall pay the subsidy directly to the local authority of the day-care centre.
 
-05-03-2010 http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C...
+http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C... 05-03-2010
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
 
-Side 13 af 31
-
 Start
+
+Side 13 af 31
 
 (5). The parents shall pay the difference between the subsidy from the local authority of residence and the gross operating cost per place in the day-care facility used as calculated in the local authority of the day-care centre; cf. section 31(2) and sections 32-34.
 
@@ -528,9 +534,10 @@ Start
 
 #### Sibling discount and aided place subsidy
 
-- The local council shall grant a
+##### 43.
+The local council shall grant a
 
-(i)    sibling discount to parents with more than one child in a day-care facility, after-school centre, school-based leisure-time facility or private daycare eligible for subsidies in pursuance of section 80;
+(i)    sibling discount to parents with more than one child in a day-care facility, after-school centre, school-based leisure-time facility or private day-care eligible for subsidies in pursuance of section 80;
 
 (ii)  financially aided place subsidy taking into account the parents' financial situation;
 
@@ -540,7 +547,8 @@ Start
 
 #### Authorisation
 
-- The Minister for Family and Consumer Affairs shall lay down rules on subsidies and own payment subject to the provisions of this part, including rules for the German minority.
+##### 44.
+The Minister for Family and Consumer Affairs shall lay down rules on subsidies and own payment subject to the provisions of this part, including rules for the German minority.
 
 ## Title III
 
@@ -555,7 +563,7 @@ Start
 ##### 45.
 (1) Children in after-school centres shall have a physical, mental and aesthetical child environment that promotes their welfare, health,
 
-05-03-2010 http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C...
+http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C... 05-03-2010
 
 [[END OF PAGE 13]]
 
@@ -571,7 +579,7 @@ development and learning. The pedagogic activities in after-school centres shall
 
 (3). After-school centres shall promote children's linguistic, aesthetic and bodily expressions, health and knowledge of nature.
 
-(4). After-school centres shall give children co-determination, coresponsibility and an understanding of democracy. As part of this objective, after-school centres shall contribute to developing children's independence, skills in entering into committing social relations and solidarity with and integration in the Danish society.
+(4). After-school centres shall give children co-determination, co-responsibility and an understanding of democracy. As part of this objective, after-school centres shall contribute to developing children's independence, skills in entering into committing social relations and solidarity with and integration in the Danish society.
 
 (5). After-school centres shall promote knowledge of and interrelation with other types of after-school facilities, including athletic associations and cultural services.
 
@@ -582,23 +590,23 @@ development and learning. The pedagogic activities in after-school centres shall
 ##### 46.
 (1) All after-school centres shall prepare a written child environmental impact assessment which contains a mapping of the centres' physical, mental and aesthetic child environment. The child environmental impact assessment shall describe any child environmental issues and include an action plan.
 
-. The child environment shall be assessed from a child's perspective and the children's experience of the child environment shall be included according to the children's age and maturity.
+(2). The child environment shall be assessed from a child's perspective and the children's experience of the child environment shall be included according to the children's age and maturity.
 
-. The manager of the after-school centre shall involve the parent board in the child environmental impact assessment work.
+(3). The manager of the after-school centre shall involve the parent board in the child environmental impact assessment work.
 
 ##### 47.
 (1) The manager of the after-school centre is responsible for preparing and publishing the child environmental impact assessment.
 
 (2). The manager of the after-school centre is responsible for having the child environmental impact assessment revised at least every three years and whenever there are changes affecting the child environment.
 
-. After-school centres may seek advice regarding child environment from the Danish Centre of Educational Environment; cf. the Act on the Educational Environment of Pupils and Students.
+(3). After-school centres may seek advice regarding child environment from the Danish Centre of Educational Environment; cf. the Act on the Educational Environment of Pupils and Students.
 
 #### Parent board
 
 ##### 48.
 (1) Parents with children in a local-authority or independent after-
 
-05-03-2010 http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C...
+http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C... 05-03-2010
 
 [[END OF PAGE 14]]
 
@@ -608,11 +616,11 @@ Start
 
 Side 15 af 31
 
-school centre shall be entitled to establish a parent board for the individual after-school centre consisting of a majority of elected parents; but see section 24a of the Act on Primary and Secondary Education. After-school centre employees shall be represented on the parent board. The local council may decide that employee representatives on parent boards in localauthority after-school centres shall have a right to vote.
+school centre shall be entitled to establish a parent board for the individual after-school centre consisting of a majority of elected parents; but see section 24a of the Act on Primary and Secondary Education. After-school centre employees shall be represented on the parent board. The local council may decide that employee representatives on parent boards in local-authority after-school centres shall have a right to vote.
 
 (2). Subsection (1) above shall not apply to independent after-school centres, in which the board consists of a majority of elected parents.
 
-. In respect of private after-school centres, the local council shall in connection with the agreement ensure that parents are given influence on the after-school centre's activities with the children.
+(3). In respect of private after-school centres, the local council shall in connection with the agreement ensure that parents are given influence on the after-school centre's activities with the children.
 
 ##### 49.
 (1) The parent board of an after-school centre shall lay down the principles for the work of the after-school centre and for applying the budget framework of the after-school centre within the objectives and framework determined by the local council.
@@ -639,7 +647,7 @@ school centre shall be entitled to establish a parent board for the individual a
 
 (3). The individual parents with children in an after-school centre shall
 
-05-03-2010 http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C...
+http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C... 05-03-2010
 
 [[END OF PAGE 15]]
 
@@ -681,12 +689,12 @@ decide whether they want to use the meal scheme. Parents using the meal scheme s
 
 (2). The local council may decide that independent after-school centres shall entirely or partially make a decision on admission to the after-school centre.
 
-(3). Private after-school centres may determine admission to the private after-school centre. The local council cannot offer places in private afterschool centres.
+(3). Private after-school centres may determine admission to the private after-school centre. The local council cannot offer places in private after-school centres.
 
 ##### 54.
 (1) The local council shall determine and publish guidelines for admission of children to after-school centres in pursuance of section 52(2) and (3). Parents shall be given the opportunity to state their wishes for admission to specific after-school centres.
 
-05-03-2010 http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C...
+http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C... 05-03-2010
 
 [[END OF PAGE 16]]
 
@@ -698,7 +706,7 @@ Side 17 af 31
 
 (2). Independent after-school centres with authority to make admission decisions, cf. section 53(2), shall lay down and publish guidelines for admitting children to the after-school centres.
 
-. Private after-school centres shall lay down and publish guidelines for admitting children to such centres.
+(3). Private after-school centres shall lay down and publish guidelines for admitting children to such centres.
 
 (4). Private after-school centres may only refuse to admit children if they do not have any places.
 
@@ -722,7 +730,7 @@ Side 17 af 31
 
 (3). The local council shall determine and publish guidelines for parents' removal of children in after-school centres in pursuance of section 52(2) and (3).
 
-. Private after-school centres shall lay down and publish guidelines for parents' removal of children from such centres.
+(4). Private after-school centres shall lay down and publish guidelines for parents' removal of children from such centres.
 
 ### Part 9
 
@@ -730,7 +738,7 @@ Side 17 af 31
 
 #### Subsidies for local-authority and independent after-school centres in the local authority of residence
 
-05-03-2010 http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C...
+http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C... 05-03-2010
 
 [[END OF PAGE 17]]
 
@@ -747,7 +755,8 @@ Side 18 af 31
 
 (3). Subsidies and own payment shall be fixed for one financial year at a time on the basis of the budgets adopted by the after-school centres.
 
-- In connection with admission to a local-authority or independent afterschool centre, the local council's subsidy and the parents' own payment shall be calculated on the basis of the budgeted gross operating costs of the individual after-school centre or on the basis of the average budgeted gross operating costs of similar after-school centres in the local authority.
+##### 58.
+In connection with admission to a local-authority or independent after-school centre, the local council's subsidy and the parents' own payment shall be calculated on the basis of the budgeted gross operating costs of the individual after-school centre or on the basis of the average budgeted gross operating costs of similar after-school centres in the local authority.
 
 ##### 59.
 (1) When an independent after-school centre wants to handle the administration, the local council shall grant the independent after-school centre an administration subsidy.
@@ -757,7 +766,7 @@ Side 18 af 31
 #### Subsidies for private after-school centres
 
 ##### 60.
-(1) The local council of the local authority of residence shall for private after-school centres grant a subsidy per child admitted to a private afterschool centre if the local authority of residence offers private after-school centres to the age group.
+(1) The local council of the local authority of residence shall for private after-school centres grant a subsidy per child admitted to a private after-school centre if the local authority of residence offers private after-school centres to the age group.
 
 (2). Subsidies for private after-school centres shall be determined by the local council.
 
@@ -766,11 +775,11 @@ Side 18 af 31
 #### Subsidies for after-school centres in another local authority
 
 ##### 61.
-(1) The local council of the local authority of residence shall grant a subsidy per child admitted to an after-school centre under section 52(2) and (3) in another local authority if the local authority of residence offers afterschool centres to the relevant age group or if in connection with a move the child's parents wish to keep a place for the child in an after-school centre in another local authority.
+(1) The local council of the local authority of residence shall grant a subsidy per child admitted to an after-school centre under section 52(2) and (3) in another local authority if the local authority of residence offers after-school centres to the relevant age group or if in connection with a move the child's parents wish to keep a place for the child in an after-school centre in another local authority.
 
 (2). In the event of admittance to an after-school centre in a local authority other than the local authority of residence, the subsidy of the local authority of residence is calculated to correspond to the average budgeted net operating costs per place for after-school centres in the local authority of residence as calculated for the age group of the child.
 
-05-03-2010 http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C...
+http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C... 05-03-2010
 
 [[END OF PAGE 18]]
 
@@ -784,7 +793,7 @@ Side 19 af 31
 
 (4). The local authority of residence shall pay the subsidy directly to the local authority of the after-school centre.
 
-(5). The parents shall pay the difference between the subsidy from the local authority of residence and the gross operating cost per place in the afterschool centre used as calculated in the local authority of the centre; cf. section 57(2) and section 58.
+(5). The parents shall pay the difference between the subsidy from the local authority of residence and the gross operating cost per place in the after-school centre used as calculated in the local authority of the centre; cf. section 57(2) and section 58.
 
 ##### 62.
 (1) When parents choose an after-school centre in a local authority other than the local authority of residence, the local council of the local authority of residence may decide to grant an extra subsidy to the local authority of the centre to reduce the costs of the local authority of the centre, reduce the parents' own payment or both.
@@ -793,9 +802,10 @@ Side 19 af 31
 
 #### Sibling discount and aided place subsidy
 
-- The local council shall grant a
+##### 63.
+The local council shall grant a
 
-(i)    sibling discount to parents with more than one child in a day-care facility, after-school centre, school-based leisure-time facility or private daycare with subsidies in pursuance of section 80;
+(i)    sibling discount to parents with more than one child in a day-care facility, after-school centre, school-based leisure-time facility or private day-care with subsidies in pursuance of section 80;
 
 (ii)  financially aided place subsidy taking into account the parents' financial situation;
 
@@ -805,14 +815,14 @@ Side 19 af 31
 
 #### Authorisation
 
-- The Minister for Family and Consumer Affairs shall lay down rules on subsidies and own payment subject to the provisions of this part, including rules for the German minority.
+##### 64.
+The Minister for Family and Consumer Affairs shall lay down rules on subsidies and own payment subject to the provisions of this part, including rules for the German minority.
 
 ## Title IV
 
 ### Club facilities and other socio-pedagogic after-school facilities for older children and young people
-### Part 10
 
-05-03-2010 http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C...
+http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C... 05-03-2010
 
 [[END OF PAGE 19]]
 
@@ -822,16 +832,18 @@ Start
 
 Side 20 af 31
 
+### Part 10
+
 #### Purpose of club facilities and other socio-pedagogic after-school facilities for older children and young people
 
 ##### 65.
 (1) Club facilities and other socio-pedagogic after-school facilities for older children and young people shall cooperate with the children and young people to create activities and social life that promote the comprehensive development, independence and understanding of democracy of the individual. As part of this objective, club facilities, etc. shall contribute to developing children's and young people's ability to entering into committing social relations.
 
-(2). Club facilities, etc. shall form part of the local authority's general afterschool services to older children and young people and shall subject to the local council's decision also be able to aim its activities at older children and young people in need of support. The activities provided in the facilities shall reflect the age and composition of the target group.
+(2). Club facilities, etc. shall form part of the local authority's general after-school services to older children and young people and shall subject to the local council's decision also be able to aim its activities at older children and young people in need of support. The activities provided in the facilities shall reflect the age and composition of the target group.
 
 (3). Club facilities, etc. shall make older children and young people aware of other activities and cultural and after-school services, thus enabling them to plan their spare time outside the club facilities, etc.
 
-. Club facilities, etc. shall support older children and young people in their future opportunities in the educational area and in the labour market.
+(4). Club facilities, etc. shall support older children and young people in their future opportunities in the educational area and in the labour market.
 
 (5). The local council shall lay down guidelines ensuring that children and young people have influence on the contents of the individual facilities. The local council may decide that the rules on parent boards, cf. sections 14-16, shall apply to certain facilities.
 
@@ -851,9 +863,8 @@ Side 20 af 31
 ### Part 12
 
 #### Admission, place in another local authority and termination
-#### Admission to club facilities and other socio-pedagogic after-school facilities for older children and young people
 
-05-03-2010 http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C...
+http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C... 05-03-2010
 
 [[END OF PAGE 20]]
 
@@ -863,8 +874,10 @@ Start
 
 Side 21 af 31
 
+#### Admission to club facilities and other socio-pedagogic after-school facilities for older children and young people
+
 ##### 67.
-(1) . The local council shall grant admission to a club facility and other socio-pedagogic after-school facilities for older children and young people in pursuance of section 66(2)-(4). The decision cannot be brought before other administrative authorities.
+(1). The local council shall grant admission to a club facility and other socio-pedagogic after-school facilities for older children and young people in pursuance of section 66(2)-(4). The decision cannot be brought before other administrative authorities.
 
 (2). The local council may decide that independent and private club facilities shall entirely or partially make a decision on admission to the club facility.
 
@@ -895,7 +908,7 @@ Side 21 af 31
 
 (4). The local council shall lay down and publish guidelines for removal of
 
-05-03-2010 http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C...
+http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C... 05-03-2010
 
 [[END OF PAGE 21]]
 
@@ -916,7 +929,7 @@ children and young people from club facilities, etc.
 #### Subsidies for club facilities and other socio-pedagogic after-school facilities in the local authority of residence
 
 ##### 71.
-(1) The local council of the local authority of residence shall grant parents a subsidy per child to be used for club facilities and other sociopedagogic after-school facilities under section 66(2) and (3) in the local authority of residence.
+(1) The local council of the local authority of residence shall grant parents a subsidy per child to be used for club facilities and other socio-pedagogic after-school facilities under section 66(2) and (3) in the local authority of residence.
 
 (2). Subsidies in pursuance of subsection (1) above shall constitute at least 80 per cent, and the parents' own payment shall not exceed 20 per cent of the budgeted gross operating costs of using club facilities, etc. except for any materials and food as well as property expenses, including rent and maintenance.
 
@@ -924,7 +937,8 @@ children and young people from club facilities, etc.
 
 (4). Subsidies and own payment shall be determined by the local council on the basis of the budgets adopted for the club facilities.
 
-- In connection with admission to a local-authority or independent club facility, the local council's subsidy and the parents' own payment shall be calculated on the basis of the budgeted gross operating costs of the individual club facility or on the basis of the average budgeted gross operating costs of similar club facilities in the local authority.
+##### 72.
+In connection with admission to a local-authority or independent club facility, the local council's subsidy and the parents' own payment shall be calculated on the basis of the budgeted gross operating costs of the individual club facility or on the basis of the average budgeted gross operating costs of similar club facilities in the local authority.
 
 ##### 73.
 (1) The local council of the local authority of residence shall grant private club facilities a subsidy per child or young person admitted to the facility.
@@ -938,7 +952,7 @@ children and young people from club facilities, etc.
 ##### 74.
 (1) The local council of the local authority of residence shall grant a
 
-05-03-2010 http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C...
+http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C... 05-03-2010
 
 [[END OF PAGE 22]]
 
@@ -948,7 +962,7 @@ Start
 
 Side 23 af 31
 
-subsidy per child admitted to a club facility or other socio-pedagogic afterschool facility under section 66(2)-(4) in another local authority if the local authority of residence offers club facilities, etc. to the relevant age group or if in connection with a move the parents wish to keep a place for the child in a club facility, etc. in another local authority.
+subsidy per child admitted to a club facility or other socio-pedagogic after-school facility under section 66(2)-(4) in another local authority if the local authority of residence offers club facilities, etc. to the relevant age group or if in connection with a move the parents wish to keep a place for the child in a club facility, etc. in another local authority.
 
 (2). In the event of admittance to a club facility, etc. in a local authority other than the local authority of residence, the subsidy of the local authority of residence is calculated to correspond to the average budgeted net operating costs per place, cf. 71(2), for club facilities, etc. in the local authority of residence. Moreover, the local council shall grant subsidies under section 71 (3) when club facilities, etc. in another local authority are used.
 
@@ -972,11 +986,11 @@ subsidy per child admitted to a club facility or other socio-pedagogic afterscho
 
 (ii)  socio-pedagogic aided place subsidy when stay in a club facility, etc. is deemed necessary for social or pedagogical reasons and the issue of payment reduces the child's possibility of being admitted to or remaining in a club facility, etc.
 
-(2). The local council may grant a sibling discount to parents with more than one child in a day-care facility, after-school centre, school-based leisuretime facility, club facility, etc. or private day-care with subsidies in pursuance of section 80 hereof.
+(2). The local council may grant a sibling discount to parents with more than one child in a day-care facility, after-school centre, school-based leisure-time facility, club facility, etc. or private day-care with subsidies in pursuance of section 80 hereof.
 
 #### Authorisation
 
-05-03-2010 http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C...
+http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C... 05-03-2010
 
 [[END OF PAGE 23]]
 
@@ -986,7 +1000,8 @@ Start
 
 Side 24 af 31
 
-- The Minister for Family and Consumer Affairs shall lay down rules on subsidies and own payment subject to the provisions of this part, including rules for the German minority.
+##### 77.
+The Minister for Family and Consumer Affairs shall lay down rules on subsidies and own payment subject to the provisions of this part, including rules for the German minority.
 
 ## Title V
 
@@ -1024,15 +1039,15 @@ Side 24 af 31
 
 (2). The local council shall offer to handle the parents' administration of the scheme against a reduction in the subsidy corresponding to the local authority's costs of such administration.
 
-05-03-2010 http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C...
+http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C... 05-03-2010
 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
 
-Side 25 af 31
-
 Start
+
+Side 25 af 31
 
 (3). The local council shall lay down and publish guidelines for admission of children in day-care facilities when the subsidy for private day care lapses.
 
@@ -1056,7 +1071,7 @@ Start
 (3). In special cases and subject to a specific assessment, the local council may grant subsidies for private day care at the same time as a parent receives maternity benefits or leave benefit for the same child.
 
 ##### 85.
-(1) Subject to an application, the local council may grant a further subsidy as a sibling discount to parents with more than one child in a daycare facility, after-school centre, school-based leisure-time facility or private day care.
+(1) Subject to an application, the local council may grant a further subsidy as a sibling discount to parents with more than one child in a day-care facility, after-school centre, school-based leisure-time facility or private day care.
 
 (2). The Minister for Family and Consumer Affairs shall lay down rules on sibling discount in pursuance of subsection (1) above.
 
@@ -1067,7 +1082,7 @@ Start
 ##### 86.
 (1) The local council may decide to allow parents with children aged 24 weeks to school age the opportunity to choose a financial subsidy for minding their own children instead of accepting a place in a day-care facility
 
-05-03-2010 http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C...
+http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C... 05-03-2010
 
 [[END OF PAGE 25]]
 
@@ -1077,7 +1092,7 @@ Start
 
 Side 26 af 31
 
-- under section 19(2) and (3) or section 21(2) and (3); but see subsection (2) below.
+under section 19(2) and (3) or section 21(2) and (3); but see subsection (2) below.
 
 (2). The local council may decide only to grant subsidies to parents with children in a specific age group.
 
@@ -1104,15 +1119,17 @@ Side 26 af 31
 
 (2). The subsidy may not exceed 85 per cent of the lowest net operating cost in a day-care facility for the same age group in the local authority.
 
-- The local council shall inform the parents of the guidelines for admission to day-care facilities after the expiry of the subsidy period and on discontinuation of the subsidy period agreed.
+##### 90.
+The local council shall inform the parents of the guidelines for admission to day-care facilities after the expiry of the subsidy period and on discontinuation of the subsidy period agreed.
 
-- The local council may decide that the parents cannot be granted a subsidy for minding own children under section 86 if the local council deems it necessary that a child is admitted to a day-care facility in connection with the implementation of supportive measures in pursuance of section 52 of the Act on Social Services.
+##### 91.
+The local council may decide that the parents cannot be granted a subsidy for minding own children under section 86 if the local council deems it necessary that a child is admitted to a day-care facility in connection with the implementation of supportive measures in pursuance of section 52 of the Act on Social Services.
 
 ## Title VI
 
 ### Administration, etc.
 
-05-03-2010 http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C...
+http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C... 05-03-2010
 
 [[END OF PAGE 26]]
 
@@ -1129,7 +1146,7 @@ Side 27 af 31
 #### Payment
 
 ##### 92.
-(1) The local council shall charge payment for services, etc. provided under this Act. Private day-care centres, private after-school centres and private day-care schemes, cf. sections 19(4), 52(4), 78 and 80, shall charge their own price for services offered by private day-care centres, private afterschool centres and private day-care schemes under this Act.
+(1) The local council shall charge payment for services, etc. provided under this Act. Private day-care centres, private after-school centres and private day-care schemes, cf. sections 19(4), 52(4), 78 and 80, shall charge their own price for services offered by private day-care centres, private after-school centres and private day-care schemes under this Act.
 
 (2). The Minister for Family and Consumer Affairs may lay down rules on payment and charging of fees for late payment of services hereunder. Under this Act, rules may be established for cancellation of a payment agreement if the debtor fails to provide a service under the agreement despite a demand to this effect.
 
@@ -1153,11 +1170,11 @@ Side 27 af 31
 
 (3). The arrears collection authority may waive amounts due under this Act and pursuant to the provisions of the Collection Act.
 
-(4). Subsections (1)-(3) above shall not apply to outstanding amounts owed to private day-care centres, private after-school centres and private daycare schemes; cf. sections 19(4), 52(4), 78 and 80.
+(4). Subsections (1)-(3) above shall not apply to outstanding amounts owed to private day-care centres, private after-school centres and private day-care schemes; cf. sections 19(4), 52(4), 78 and 80.
 
 ### Part 18
 
-05-03-2010 http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C...
+http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C... 05-03-2010
 
 [[END OF PAGE 27]]
 
@@ -1184,13 +1201,15 @@ Side 28 af 31
 
 (4). In the event that prosecution, cf. subsection (1) above, does not result in a judgment, the part of the subsidy not paid while the parent avoided prosecution shall be payable. Subsidies shall not be payable to the deceased's estate if a parent dies before a ruling has been made.
 
-- The police or Prison and Probation Service shall inform the local council of the avoidance when such authority assumes that a person who intentionally avoids prosecution, cf. section 95(1), or judgment, cf. section 95(2), in Denmark also receives subsidies covered by section 86.
+##### 96.
+The police or Prison and Probation Service shall inform the local council of the avoidance when such authority assumes that a person who intentionally avoids prosecution, cf. section 95(1), or judgment, cf. section 95(2), in Denmark also receives subsidies covered by section 86.
 
 ### Part 19
 
 #### Complaints
 
-- Decisions made by the local council under this Act may, unless otherwise stipulated in this Act or the Act on Legal Protection and Administration in Social Matters, be brought before the social complaints board pursuant to the provisions stipulated in Part 10 of the Act on Legal Protection and Administration in Social Matters.
+##### 97.
+Decisions made by the local council under this Act may, unless otherwise stipulated in this Act or the Act on Legal Protection and Administration in Social Matters, be brought before the social complaints board pursuant to the provisions stipulated in Part 10 of the Act on Legal Protection and Administration in Social Matters.
 
 ### Part 20
 
@@ -1201,7 +1220,7 @@ Side 28 af 31
 
 (2). The local council shall pay costs under this Act unless otherwise stipulated in the provisions hereof.
 
-05-03-2010 http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C...
+http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C... 05-03-2010
 
 [[END OF PAGE 28]]
 
@@ -1245,7 +1264,7 @@ Side 29 af 31
 ##### 100.
 (1) Subject to a proposal from the local council, the Minister for Family and Consumer Affairs may approve that facilities other than those described in this Act be established during an experimental period.
 
-05-03-2010 http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C...
+http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C... 05-03-2010
 
 [[END OF PAGE 29]]
 
@@ -1277,17 +1296,22 @@ Side 30 af 31
 
 #### Effective date, transitional provisions, etc.
 
-- This Act shall come into force on 1 August 2007.
+##### 103.
+This Act shall come into force on 1 August 2007.
 
-- During the period from the effective date hereof and until 31March 2008, it shall be a condition for receiving subsidies for minding own children that the applicant's spouse does not receive any allowances pursuant to section 3(7) of Act no. 239 of 27 March 2006 on Amendment of the Act on Active Employment Measures and the Act on an Active Social Policy.
+##### 104.
+During the period from the effective date hereof and until 31March 2008, it shall be a condition for receiving subsidies for minding own children that the applicant's spouse does not receive any allowances pursuant to section 3(7) of Act no. 239 of 27 March 2006 on Amendment of the Act on Active Employment Measures and the Act on an Active Social Policy.
 
-- Experiments approved by the Minister for Family and Consumer Affairs pursuant to section 184 of the Act on Social Services, cf. Consolidated Act No. 58 of 18 January 2007 shall continue until the expiry of the experimental period.
+##### 105.
+Experiments approved by the Minister for Family and Consumer Affairs pursuant to section 184 of the Act on Social Services, cf. Consolidated Act No. 58 of 18 January 2007 shall continue until the expiry of the experimental period.
 
--110. (Excluded for the purpose of this Act)
+##### 106. -110.
+(Excluded for the purpose of this Act)
 
-- This Act shall not extend to the Faeroe Islands and Greenland.
+##### 111.
+This Act shall not extend to the Faeroe Islands and Greenland.
 
-05-03-2010 http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C...
+http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C... 05-03-2010
 
 [[END OF PAGE 30]]
 
@@ -1305,6 +1329,6 @@ Margrethe R.
 
 /Carina Christensen
 
-05-03-2010 http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C...
+http://edit.english.ism.local/MinistryOfSocialWelfare/legislation/social_affairs/Day-C... 05-03-2010
 
 [[END OF PAGE 31]]
