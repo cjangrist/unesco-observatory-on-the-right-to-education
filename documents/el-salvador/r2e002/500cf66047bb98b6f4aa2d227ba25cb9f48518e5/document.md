@@ -34,15 +34,15 @@ en  uso  de  sus  facultades  constitucionales  y  a  iniciativa  del  señor  P
 
 DECRETA la siguiente:
 
+# LEY DE LA CARRERA DOCENTE
+
+## CAPITULO I DISPOSICIONES PRELIMINARES
+
 #### OBJETO
 
 Art. 1.- La presente Ley tiene por objeto regular las relaciones del Estado y de la comunidad educativa con los educadores al servicio del primero, de las instituciones autónomas, de las municipales y de las privadas; así como valorar sistemáticamente el escalafón, tanto en su formación académica, como en su antiguedad.
 
 #### FINALIDAD
-
-# LEY DE LA CARRERA DOCENTE
-
-## CAPITULO I DISPOSICIONES PRELIMINARES
 
 1
 
@@ -102,7 +102,7 @@ LEY DE LA CARRERA DOCENTE
 
 #### REGISTRO ESCALAFONARIO
 
-Art. 6.Para efectos de la administración del escalafón magisterial se establece el Registro Escalafonario, como control sistemático, actualizado y confiable del magisterio nacional del cual será responsable el Ministerio de Educación.
+Art. 6.- Para efectos de la administración del escalafón magisterial se establece el Registro Escalafonario, como control sistemático, actualizado y confiable del magisterio nacional del cual será responsable el Ministerio de Educación.
 
 Es escalafón magisterial podrá ser administrado en forma descentralizada.
 
@@ -604,7 +604,7 @@ Art. 42.- El Ministerio de Educación, a través de la unidad de recursos humano
 
 #### ESTRUCTURA ADMINISTRATIVA DE LOS CENTROS EDUCATIVOS OFICIALES
 
-Art. 43.- La estructura administrativa de los centros educativos oficiales la integran los Directores, SubDirectores y el Consejo Directivo Escolar.
+Art. 43.- La estructura administrativa de los centros educativos oficiales la integran los Directores, Sub-Directores y el Consejo Directivo Escolar.
 
 #### REQUISITOS PARA EL CARGO DE DIRECTOR
 
@@ -1160,23 +1160,23 @@ LEY DE LA CARRERA DOCENTE
 
 Art. 75.- Los miembros de las Juntas y Tribunales podrán ser removidos por las siguientes causas:
 
-- Ineptitud o ineficiencia manifiestas en el desempeño de su cargo;
+1) Ineptitud o ineficiencia manifiestas en el desempeño de su cargo;
 
-- Abuso de autoridad, atribuyéndose funciones que la Ley no le confiere;
+2) Abuso de autoridad, atribuyéndose funciones que la Ley no le confiere;
 
-- La inasistencia sin causa justificada al desempeño de sus labores durante ocho días consecutivos o la inasistencia a las labores sin causa justificada, por diez días hábiles no consecutivos en un mismo mes calendario;
+3) La inasistencia sin causa justificada al desempeño de sus labores durante ocho días consecutivos o la inasistencia a las labores sin causa justificada, por diez días hábiles no consecutivos en un mismo mes calendario;
 
-- Haber sido condenado por delito;
+4) Haber sido condenado por delito;
 
-- Ejecer el cargo no obstante carecer de los requisitos legales para su desempeño;
+5) Ejercer el cargo no obstante carecer de los requisitos legales para su desempeño;
 
-- Solicitar o recibir dádivas, promesas o favores de los interesados en los procesos, ya sea en forma directa o por interpósita persona;
+6) Solicitar o recibir dádivas, promesas o favores de los interesados en los procesos, ya sea en forma directa o por interpósita persona;
 
-- Asesorar en asuntos que conociere por razón de su cargo;
+7) Asesorar en asuntos que conociere por razón de su cargo;
 
-- Hacer constar en diligencias hechos que no sucedieron o dejar de relacionar los que sucedieren; y,
+8) Hacer constar en diligencias hechos que no sucedieron o dejar de relacionar los que sucedieren; y,
 
-- Presentarse a ejercer sus funciones en estado de ebriedad o bajo la influencia de drogas alucinógenas, estupefacientes o enervantes.
+9) Presentarse a ejercer sus funciones en estado de ebriedad o bajo la influencia de drogas alucinógenas, estupefacientes o enervantes.
 
 De la remoción de los miembros del Tribunal Calificador y las Juntas de la Carrera Docente conocerá el Tribunal de la Carrera, cuando se trate de los miembros del Tribunal de la Carrera Docente, conocerá la Sala de lo Contencioso Administrativo de la Corte Suprema de Justicia.
 
@@ -1206,11 +1206,11 @@ LEY DE LA CARRERA DOCENTE
 
 Art. 78.- La denuncia escrita deberá reunir los requisitos siguientes:
 
-- Nombre,  edad,  apellido  y  demás  generales  del  denunciante  y  en  su  caso  los  del  agraviado,  si anunciare en representación de otra persona;
+1) Nombre, edad, apellido y demás generales del denunciante y en su caso los del agraviado, si denunciare en representación de otra persona;
 
 2) Nombre, apellido y demás generales, cargo y lugar de trabajo del denunciado;
 
-- Relación circunstanciada del hecho acaecido, mención de la prueba pertinente y señalamiento de la forma y demás circunstancias para obtenerla; y,
+3) Relación circunstanciada del hecho acaecido, mención de la prueba pertinente y señalamiento de la forma y demás circunstancias para obtenerla; y,
 
 4) Lugar, fecha y firma del denunciante o de la persona que lo hace a su ruego o su representante legal.
 
@@ -1238,7 +1238,7 @@ a) Los abogados; y,
 
 b) La persona que al efecto designe el Ministerio de Educación que tengan facultades para procurar.
 
-La designación del mandatario podrá hacerse por escritura pública, escrito presentado personalmente, escrito con firma autenticada del denunciado o verbalmente ante la Junta o Tribunal, en cuyo caso se levantará el  acta  correspondiente  en  la  que  conste  tal  designación.  Para  poder intervenir como tal, el mandatario deberá comparecer ante la Junta para aceptar el cargo conferido.
+La designación del mandatario podrá hacerse por escritura pública, escrito presentado personalmente, escrito con firma autenticada del denunciado o verbalmente ante la Junta o Tribunal, en cuyo caso se
 
 27
 
@@ -1248,7 +1248,9 @@ La designación del mandatario podrá hacerse por escritura pública, escrito pr
 
 LEY DE LA CARRERA DOCENTE
 
-En los casos de suspensión previa, el educador deberá presentarse ante la Junta de la Carrera Docente dentro  de  los  tres  días  hábiles  siguientes  de  ocurrida  la  suspensión  y  si  aún  no  se  hubiere  iniciado procedimiento  en  su  contra  dejará  consignado  el  lugar  en  que  deba  notificársele  la  resolución  antes dicha. Si no se le notificará por edicto.
+levantará el acta correspondiente en la que conste tal designación. Para poder intervenir como tal, el mandatario deberá comparecer ante la Junta para aceptar el cargo conferido.
+
+En los casos de suspensión previa, el educador deberá presentarse ante la Junta de la Carrera Docente dentro de los tres días hábiles siguientes de ocurrida la suspensión y si aún no se hubiere iniciado procedimiento en su contra dejará consignado el lugar en que deba notificársele la resolución antes dicha. Si no se le notificará por edicto.
 
 #### AUDIENCIA CONCILIATORIA
 
@@ -1344,7 +1346,7 @@ Art.  89.-  La  acción  para  iniciar  el  procedimiento  para  la  imposición
 
 Art.  90.-  Todo  incumplimiento  de  los  términos  establecidos  en  esta  Ley  por  culpa  imputable  a  los organismos  encargados  de  la  administración  de  la  carrera  docente  será  sancionado  con  una  multa equivalente  a  entre  quince  y  treinta  salarios  mínimos  urbanos  diarios,  salvo  caso  fortuito  o  fuerza mayor.
 
-#### CARACTARISTICAS DEL PROCEDIMIENTO
+#### CARACTERISTICAS DEL PROCEDIMIENTO
 
 Art. 91.- El procedimiento deberá ser de carácter reservado para terceros; en consecuencia no se podrá proporcionar información a personas particulares y tendrán acceso a él, el denunciante, el denunciado, o sus respectivos mandatarios si los hubiere; no habrá lugar a reconvenciones y su tramitación no podrá exceder  de  noventa  días,  bajo  pena  de  multa  equivalente  a  entre  quince  y  treinta  salarios  mínimos urbanos diarios que se impondrá a cada uno de los miembros de la Junta que incurrieren en el retardo. En el cómputo de éste término no se incluye el tiempo que lleve el trámite de un recurso.
 
@@ -1390,7 +1392,7 @@ De la incapacidad declarada por condena penal, la rehabilitación para reincorpo
 
 Dicha  solicitud  deberá  presentarse  por  escrito  fundado  en  el  que  se  expongan  las  razones  que  el educador  considere  que  le  asisten,  para  ser  rehabilitado,  acompañándolo  con  la  prueba  pertinente  o señalando el lugar donde se encuentre, so pena de declarar inadmisible dicha solicitud.
 
-De la anterior solicitud, la Junta dará conocimiento al Ministerio de Educación y al Consejo Directivo Escolar  que  administre  el  centro  educativo  donde  laboraba  el  educador,  para  que,  si  lo  creyeren conveniente,  se  presenten  dentro  de  los  quince  días  siguientes  oponiéndose  a  la  rehabilitación, aduciendo las razones que tengan para tal oposición.
+De la anterior solicitud, la Junta dará conocimiento al Ministerio de Educación y al Consejo Directivo Escolar que administre el centro educativo donde laboraba el educador, para que, si lo creyeren
 
 31
 
@@ -1399,6 +1401,8 @@ De la anterior solicitud, la Junta dará conocimiento al Ministerio de Educació
 [[START OF PAGE 32]]
 
 LEY DE LA CARRERA DOCENTE
+
+conveniente, se presenten dentro de los quince días siguientes oponiéndose a la rehabilitación, aduciendo las razones que tengan para tal oposición.
 
 Transcurrido el término previsto anteriormente, la Junta ordenará la recepción de la prueba en la forma prevista para el procedimiento común.
 
@@ -1546,7 +1550,7 @@ Los educadores que laboren en centros educativos privados que cumplido el plazo 
 
 #### EDUCADORES CON TITULO DE EDUCACION SUPERIOR DISTINTO A LOS ESPECIFICADOS EN EL ESCALAFON
 
-Art. 109.- El educador escalafonado con anterioridad a la vigencia de esta Ley, que posea un título de Educación Superior distinto a los especificados en los numerales 2, 3 y 4 del Art. 19 se incorporará en el nivel y área de énfasis de su Título y en la catogoría correspondiente.
+Art. 109.- El educador escalafonado con anterioridad a la vigencia de esta Ley, que posea un título de Educación Superior distinto a los especificados en los numerales 2, 3 y 4 del Art. 19 se incorporará en el nivel y área de énfasis de su Título y en la categoría correspondiente.
 
 #### JUNTAS Y TRIBUNALES
 
@@ -1578,7 +1582,7 @@ Art. 112.- Los educadores que al entrar en vigencia la presente Ley no se encuen
 
 Art. 113.- El Presidente de la República deberá emitir el reglamento de la presente Ley; en un plazo de noventa días contados a partir de su vigencia.
 
-Art. 113 bis.- Por esta única vez, la indemnización a que se refiere el Art. 36 de esta Ley, se pagará en dos  pagos  iguales,  siendo  el  primero  en  el  mes  de  enero  del  año  2002  y  el  segundo  pago  podrá efectuarse durantre el último trimestre de este mismo año. (9)
+Art. 113 bis.- Por esta única vez, la indemnización a que se refiere el Art. 36 de esta Ley, se pagará en dos pagos iguales, siendo el primero en el mes de enero del año 2002 y el segundo pago podrá efectuarse durante el último trimestre de este mismo año. (9)
 
 Si por motivos de fallecimiento el educador no cobrare el segundo pago, se le cancelará a la persona o entidad que él haya designado en legal forma en vida o en su defecto, a sus herederos, para lo cual éstos deberán seguir el procedimiento legal para suceder. (6) (11)
 
@@ -1618,6 +1622,8 @@ CASA  PRESIDENCIAL:  San  Salvador,  a  los  quince  días  del  mes  de  marzo 
 
 PUBLIQUESE,
 
+ARMANDO CALDERON SOL, Presidente de la República.
+
 CECILIA GALLARDO DE CANO, Ministra de Educación.
 
 D.L. Nº 665, del 7 de marzo de 1996, publicado en el D.O. Nº 58, Tomo 330, del 22 de marzo de 1996.
@@ -1626,15 +1632,13 @@ INICIO DE NOTA:
 
 # DECRETO LEGISLATIVO N° 87
 
-Art.1.- Las plazas nuevas o vacantes que el Ministerio de Educación publique por cualquier causa, en el período de  un  año  contado  a  partir  de  la  vigencia  del  presente  Decreto,  serán  asignados  por  los  organismos correspondientes, de manera permanente o interina, únicamente por los educadores aspirantes que no hubieren obtenido nunca nombramiento oficial permanente de plaza alguna de docente, dentro del sector público, y que cuenten con la especialidad requerida para dicha plaza.
+Art.1.- Las plazas nuevas o vacantes que el Ministerio de Educación publique por cualquier causa, en el período de un año contado a partir de la vigencia del presente Decreto, serán asignados por los organismos correspondientes, de manera permanente o interina, únicamente por los educadores aspirantes que no hubieren obtenido nunca nombramiento oficial permanente de plaza alguna de docente, dentro del sector público, y que cuenten con la especialidad requerida para dicha plaza.
 
-Art.  2.-  Para  otorgar  las  referidas  plazas,  se  tomará  en  cuenta  la  antigüedad  de  graduación  del  solicitante;  y, además,  el  educador  deberá  residir  dentro  del  municipio  al  que  pertenezca  el  centro  educativo  que  ofrezca  la plaza, o en su defecto, en cualquiera de los municipios aledaños al mismo.
+Art. 2.- Para otorgar las referidas plazas, se tomará en cuenta la antigüedad de graduación del solicitante; y, además, el educador deberá residir dentro del municipio al que pertenezca el centro educativo que ofrezca la plaza, o en su defecto, en cualquiera de los municipios aledaños al mismo.
 
-Art.3.-En  caso  que  existiere  igualdad  de  condiciones,  la  asignación  de  las  plazas  se  realizará  conforme  a  los resultados obtenidos en las pruebas de selección que haya practicado el Tribunal Calificador, a los aspirantes de tales plazas.
+Art.3.-En caso que existiere igualdad de condiciones, la asignación de las plazas se realizará conforme a los resultados obtenidos en las pruebas de selección que haya practicado el Tribunal Calificador, a los aspirantes de tales plazas.
 
 FIN DE NOTA.
-
-ARMANDO CALDERON SOL, Presidente de la República.
 
 37
 
@@ -1646,41 +1650,41 @@ LEY DE LA CARRERA DOCENTE
 
 ## REFORMAS:
 
-- D.L. N° 146, del 13 de noviembre de 1997, publicado en el D.O. N° 239, Tomo 337, del 22 de diciembre de 1997.
+(1) D.L. N° 146, del 13 de noviembre de 1997, publicado en el D.O. N° 239, Tomo 337, del 22 de diciembre de 1997.
 
-- D.L. N° 248, del 12 de marzo de 1998, publicado en el D.O. N° 54, Tomo 338, del 19 de marzo de 1998.
+(2) D.L. N° 248, del 12 de marzo de 1998, publicado en el D.O. N° 54, Tomo 338, del 19 de marzo de 1998.
 
-- D.L. N° 434, del 1 de octubre de 1998, publicado en el D.O. N° 197, Tomo 341, del 22 de octubre de 1998.
+(3) D.L. N° 434, del 1 de octubre de 1998, publicado en el D.O. N° 197, Tomo 341, del 22 de octubre de 1998.
 
-- D.L. Nº 799, del 9 de diciembre de 1999, publicado en el D.O. Nº 240, Tomo 345, del 23 de diciembre de 1999.
+(4) D.L. Nº 799, del 9 de diciembre de 1999, publicado en el D.O. Nº 240, Tomo 345, del 23 de diciembre de 1999.
 
-- D.L. Nº 195, del 9 de noviembre de 2000, publicado en el D.O. Nº 229, Tomo 349, del 6 de diciembre de 2000.
+(5) D.L. Nº 195, del 9 de noviembre de 2000, publicado en el D.O. Nº 229, Tomo 349, del 6 de diciembre de 2000.
 
-- INTERPRETACION AUTENTICA: D.L. Nº 409, del 4 de mayo de 2001, publicado en el D.O. Nº 102, Tomo 351, del 1 de junio de 2001.
+INTERPRETACION AUTENTICA: D.L. Nº 409, del 4 de mayo de 2001, publicado en el D.O. Nº 102, Tomo 351, del 1 de junio de 2001.
 
-- D.L. N° 671, del 13 de diciembre del 2001, publicado en el D.O. N° 241, Tomo 353, del 20 de diciembre del 2001.
+(6) D.L. N° 671, del 13 de diciembre del 2001, publicado en el D.O. N° 241, Tomo 353, del 20 de diciembre del 2001.
 
-- D.L. N° 696, del 19 de diciembre del 2001, publicado en el D.O. N° 241, Tomo 353, del 20 de diciembre del 2001.
+(7) D.L. N° 696, del 19 de diciembre del 2001, publicado en el D.O. N° 241, Tomo 353, del 20 de diciembre del 2001.
 
-- D.L. N° 1003, del 03 de octubre del 2002, publicado en el D.O. N° 205, Tomo 357, del 01 de noviembre del 2002.
+(8) D.L. N° 1003, del 03 de octubre del 2002, publicado en el D.O. N° 205, Tomo 357, del 01 de noviembre del 2002.
 
-- D.L. N° 1057, del 21 de noviembre del 2002, publicado en el D.O. N° 321, Tomo 357, del 09 de diciembre del 2002.
+(9) D.L. N° 1057, del 21 de noviembre del 2002, publicado en el D.O. N° 231, Tomo 357, del 09 de diciembre del 2002.
 
-- D.L. N° 1099, del 19 de diciembre del 2002, publicado en el D.O. N° 241, Tomo 357, del 20 de diciembre del 2002.
+(10) D.L. N° 1099, del 19 de diciembre del 2002, publicado en el D.O. N° 241, Tomo 357, del 20 de diciembre del 2002.
 
-- D.L. N° 18, del 22 de mayo del 2003, publicado en el D.O. N° 112, Tomo 359, del 19 de junio del 2003.
+(11) D.L. N° 18, del 22 de mayo del 2003, publicado en el D.O. N° 112, Tomo 359, del 19 de junio del 2003.
 
-- D.L.N° 188, del 6 de noviembre del 2003, publicado en el D.O. N° 228, Tomo 361, del 5 de diciembre del 2003.
+(12) D.L.N° 188, del 6 de noviembre del 2003, publicado en el D.O. N° 228, Tomo 361, del 5 de diciembre del 2003.
 
-- D.L. N° 554, del 16 de diciembre del 2004, publicado en el D.O. N° 240, Tomo 365, del 23 de diciembre del 2004.
+(13) D.L. N° 554, del 16 de diciembre del 2004, publicado en el D.O. N° 240, Tomo 365, del 23 de diciembre del 2004.
 
-- D.L. Nº 593, del 26 de enero del 2005, publicado en el D.O. Nº 37, Tomo 366, del 22 de febrero del 2005.
+(14) D.L. Nº 593, del 26 de enero del 2005, publicado en el D.O. Nº 37, Tomo 366, del 22 de febrero del 2005.
 
-- D.L. Nº 763, del 28 de julio del 2005, publicado en el D.O. Nº 158, Tomo 368, del 29 de agosto del 2005.
+(15) D.L. Nº 763, del 28 de julio del 2005, publicado en el D.O. Nº 158, Tomo 368, del 29 de agosto del 2005.
 
-- D.L. Nº 882, del 09 de Diciembre del 2005, publicado en el D.O. Nº 12, Tomo 370, del 18 de Enero del 2006.
+(16) D.L. Nº 882, del 09 de Diciembre del 2005, publicado en el D.O. Nº 12, Tomo 370, del 18 de Enero del 2006.
 
-- D.L. Nº 981, del 09 de Marzo del 2006, publicado en el D.O. Nº 57, Tomo 370, del 22 de Marzo del 2006.
+(17) D.L. Nº 981, del 09 de Marzo del 2006, publicado en el D.O. Nº 57, Tomo 370, del 22 de Marzo del 2006.
 
 38
 
