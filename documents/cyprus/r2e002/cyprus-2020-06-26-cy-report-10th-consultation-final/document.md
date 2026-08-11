@@ -1,13 +1,5 @@
 [[START OF PAGE 1]]
 
-Tél. : +33 (0)1 45 68 10
-
-00
-
-Fax : +33 (0)1 45 68 55
-
-55
-
 Ref.:
 
 CL/4309
@@ -22,22 +14,25 @@ The right to education for all is one of the major challenges we face today.
 
 So, ten years out from the target date for achieving the Education 2030 agenda as part  of  Sustainable  Development  Goal  4,  some  258  million  children  and  young people were still out of school worldwide in 2018.
 
-The 1960 Convention and Recommendation against Discrimination in Education, major  global  normative  instruments  protecting  the  right  to  education,  reflect UNESCO's mission which, according to its Constitution, is to ' advance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social .'
+The 1960 Convention and Recommendation against Discrimination in Education, major global normative instruments protecting the right to education, reflect UNESCO’s mission which, according to its Constitution, is to “advance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social.”
 
-Under  Article  VIII  of  UNESCO's  Constitution,  Member  States  are  required  to submit  regular  reports  on  the  measures  they  have  taken  to  implement  the conventions and recommendations adopted by the Organization.
+Under Article VIII of UNESCO’s Constitution, Member States are required to submit regular reports on the measures they have taken to implement the conventions and recommendations adopted by the Organization.
 
-We are therefore launching the tenth Consultation on the implementation of the 1960 Convention and Recommendation, and I invite your government to prepare a national report covering the 2017-2020 period. To assist your authorities in this regard, please find enclosed the Guidelines for the preparation of reports .
+We are therefore launching the tenth Consultation on the implementation of the 1960 Convention and Recommendation, and I invite your government to prepare a national report covering the 2017-2020 period. To assist your authorities in this regard, please find enclosed the Guidelines for the preparation of reports.
 
-Please  note  that  the  Recommendation  is  monitored  in  conjunction  with  the Convention and the reporting obligation for both instruments is the same, therefore all Member States , including non-State Parties to the Convention, need to submit a report.
+Please note that the Recommendation is monitored in conjunction with the Convention and the reporting obligation for both instruments is the same, therefore all Member States, including non-State Parties to the Convention, need to submit a report.
 
 Member States are encouraged to organize the necessary consultations including with relevant civil society organizations and other key stakeholders.
 
 The detailed arrangements for the submission of reports will be communicated to the Permanent Delegations to UNESCO.
 
-7, place de Fontenoy 75352 Paris 07 SP,
-
+7, place de Fontenoy
+75352 Paris 07 SP,
 France
-
+Tél. : +33 (0)1 45 68 10
+00
+Fax : +33 (0)1 45 68 55
+55
 www.unesco.org
 
 To Ministers responsible for relations with UNESCO
@@ -46,19 +41,23 @@ To Ministers responsible for relations with UNESCO
 
 [[START OF PAGE 2]]
 
-CL/4309 - page 2
+CL/4309 – page 2
 
-The  report  should  be  submitted no  later  than  30  June  2020, in  order  for  the Secretariat  to  prepare  an  analytical  global  report  and  submit  it  to  UNESCO's governing bodies in October and November 2021.
+The report should be submitted no later than 30 June 2020, in order for the Secretariat to prepare an analytical global report and submit it to UNESCO’s governing bodies in October and November 2021.
 
 Please accept, Sir/Madam, the assurances of my highest consideration.
 
-Audrey Azoulay Director-General
+Audrey Azoulay
+Director-General
 
-Enclosures:  1
+Enclosures: 1
 
-- Guidelines for preparation of national reports
+– Guidelines for preparation of national reports
 
-cc: Permanent Delegations to UNESCO National Commissions for UNESCO Regional Offices Field Offices
+cc: Permanent Delegations to UNESCO
+National Commissions for UNESCO
+Regional Offices
+Field Offices
 
 [[END OF PAGE 2]]
 
@@ -66,13 +65,13 @@ cc: Permanent Delegations to UNESCO National Commissions for UNESCO Regional Off
 
 # GUIDELINES FOR THE PREPARATION OF REPORTS BY MEMBER STATES ON THE APPLICATION OF THE 1960 CONVENTION AND RECOMMENDATION AGAINST DISCRIMINATION IN EDUCATION
 
-Approved by UNESCO's Executive Board at its 207th session in October 2019
+Approved by UNESCO’s Executive Board at its 207th session in October 2019
 
 ## 1. Introduction
 
-The  Convention  against  Discrimination  in  Education  ('the  Convention')  and  the  Recommendation against  Discrimination  in  Education  ('the  Recommendation'),  adopted  by  UNESCO's  General Conference in 1960, respond to UNESCO's constitutional mandate to 'advance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument providing for the right to education and the only one exclusively devoted to it.
+The Convention against Discrimination in Education (“the Convention”) and the Recommendation against Discrimination in Education (“the Recommendation”), adopted by UNESCO’s General Conference in 1960, respond to UNESCO’s constitutional mandate to “advance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social”. The Convention is the first legally binding international instrument providing for the right to education and the only one exclusively devoted to it.
 
-The right to education is today one of the key principles underpinning the Education 2030 agenda and Sustainable Development Goal 4 (SDG 4) adopted by the international community. SDG 4 is rightsbased and seeks to ensure the full enjoyment of the right to education as fundamental to achieving sustainable development. Its scope captures the multidimensional nature of the right to education.
+The right to education is today one of the key principles underpinning the Education 2030 agenda and Sustainable Development Goal 4 (SDG 4) adopted by the international community. SDG 4 is rights-based and seeks to ensure the full enjoyment of the right to education as fundamental to achieving sustainable development. Its scope captures the multidimensional nature of the right to education.
 
 The  Convention  has  been  recognized  as  a cornerstone  of  Education  2030  agenda .  It  also represents a powerful tool to advance SDG 4 by ensuring effective articulation between normative and operational work.
 
@@ -84,7 +83,7 @@ There are differences in the legal nature of the obligations under the Conventio
 
 Bearing in mind the differences in wording and in legal scope inherent to the nature of these two categories of instruments, the content of the Recommendation is identical to that of the Convention. Member States are expected to give effect to it in national legislation and education policies.
 
-Most importantly, the reporting obligation under the provisions of Article VII of the Convention and of the Recommendation is the same. Article VIII of UNESCO's Constitution states that ' Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the  General  Conference,  reports  on  the  laws,  regulations  and  statistics  relating  to  its  educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4' .  Therefore,  even if  a country is not  a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
+Most importantly, the reporting obligation under the provisions of Article VII of the Convention and of the Recommendation is the same. Article VIII of UNESCO’s Constitution states that “Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General Conference, reports on the laws, regulations and statistics relating to its educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4”. Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
 
 ## 3. Participation in consultations
 
@@ -128,13 +127,13 @@ In their responses, Member States are encouraged to provide information in a con
 
 - 3 -
 
-## Information on the legislative, judicial, administrative and other measures taken by the state at the national level
+## I. Information on the legislative, judicial, administrative and other measures taken by the state at the national level
 
-### Ratification of the Convention 2
+### 1. Ratification of the Convention 2
 
 Is your country a State Party to the Convention?
 
-ü Yes
+✓ Yes
 
 o No: Does your country plan to ratify this instrument?
 
@@ -174,29 +173,25 @@ Ministry of Education, Culture, Sport and Youth
 
 - 4 -
 
-### Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
+### 2. Ratification of the Protocol 3 instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
 
 Has your country ratified the Protocol?
 
-ü Yes
+✓ Yes
 
 o No, please briefly explain the difficulties encountered:
 
-### Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
+### 3. Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
 
 In case your country is a State Party to the Convention:
 
-- Is the Convention directly applicable in your country's domestic law following its ratification?
+- Is the Convention directly applicable in your country’s domestic law following its ratification?
 
-o ü Yes
+✓ Yes    ☐ No
 
-No
+- If not, has it been incorporated into the national Constitution or domestic law so as to be directly applicable?
 
-- If  not, has it been incorporated into the national Constitution or domestic law so as to be directly applicable?
-
-o Yes
-
-No
+☐ Yes    ☐ No
 
 This  seeks  information  on  whether  the  provisions  of  the  Convention  are  guaranteed  in  a domestic legal instrument. The report should list the main legal texts (Constitution, legislative text or other provisions) adopted to guarantee the right to education for all and to promote equal educational opportunities. References, dates and aims could be provided.
 
@@ -230,17 +225,15 @@ Law 24(I) of 1993 lays down the following provisions for education:
 
 - Have the provisions of the Convention been invoked before and given effect to by courts, tribunals and administrative authorities?
 
-o Yes ü No
+☐ Yes    ✓ No
 
-If  yes,  please  illustrate  on  the  basis  of  available  case  law  and  jurisprudence.  Information could also be given about the judicial, administrative and other competent authorities having jurisdiction with respect to the rights guaranteed by the Convention and the scope of such competence.
+If yes, please illustrate on the basis of available case law and jurisprudence. Information could also be given about the judicial, administrative and other competent authorities having jurisdiction with respect to the rights guaranteed by the Convention and the scope of such competence.
 
 In case your country is not a State Party to the Convention:
 
 - Have legislative measures been taken pursuant to the Recommendation?
 
-o Yes
-
-No
+☐ Yes    ☐ No
 
 [[END OF PAGE 7]]
 
@@ -254,25 +247,25 @@ If yes, the report could list the main texts adopted to guarantee the right to e
 
 Information supplied could demonstrate how such policies and programmes comply with commitments of the right to education under the Recommendation.
 
-## Information on the implementation of the Convention or Recommendation
+## II. Information on the implementation of the Convention or Recommendation
 
-### Non-discrimination  and  equal  opportunities  in  education  in  the  context  of  Sustainable Development Goal 4 (SDG4)
+### 1. Non-discrimination and equal opportunities in education in the context of Sustainable Development Goal 4 (SDG4)
 
-Articles/Paragraphs 1(1), 2 and  3 of the  Convention/Recommendation  provide  for  non- discrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
+Articles/Paragraphs 1(1), 2 and 3 of the Convention/Recommendation provide for non-discrimination and equal opportunities in education. This part relates to the main purpose of the Convention/Recommendation that is to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity.
 
-This  corresponds  to  the  overall  aspiration  of  SDG4  which  aims  to 'ensure  inclusive  and equitable quality education and promote lifelong learning opportunities for all' by 2030.  It therefore covers all the SDG4 targets, but also specifically SDG target 4.5. 4
+This corresponds to the overall aspiration of SDG4 which aims to “ensure inclusive and equitable quality education and promote lifelong learning opportunities for all” by 2030. It therefore covers all the SDG4 targets, but also specifically SDG target 4.5. 4
 
-#### 1.1 Please indicate measures adopted by your government to eliminate and prevent discrimination  in education  within  the  meaning  of  the  Convention/Recommendation (please  tick  all  that  apply) 5 (several items could be ticked/mentioned):
+#### 1.1 Please indicate measures adopted by your government to eliminate and prevent discrimination in education within the meaning of the Convention/Recommendation (please tick all that apply) 5 (several items could be ticked/mentioned):
 
-- ü Constitutional laws and/or legislation prohibit discrimination in education
+- ✓ Constitutional laws and/or legislation prohibit discrimination in education
 
-- ü Regulations prohibit discrimination in education
+- ✓ Regulations prohibit discrimination in education
 
-- ü Policies and programmes aim to eliminate and prevent discrimination in education
+- ✓ Policies and programmes aim to eliminate and prevent discrimination in education
 
-- ü Access to justice in case of violations of the right to non-discrimination in education
+- ✓ Access to justice in case of violations of the right to non-discrimination in education
 
-- ü Combatting discrimination in terms of curriculum
+- ✓ Combatting discrimination in terms of curriculum
 
 Please  provide  a  brief  description  of  the  relevant  legal,  regulatory  or  policy  texts  including measures on:
 
@@ -280,7 +273,7 @@ Non-discrimination in the admission of pupils to educational institutions
 
 Non-differential treatment, including of foreign nationals resident in your country
 
-> 4 Which calls on states to 'eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations'.
+> 4 Which calls on states to “eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations”.
 
 > 5 See: Article/Paragraph 1(1)
 
@@ -294,21 +287,21 @@ The Ministry of Education, Culture, Sport and Youth (MOECSY) is committed toward
 
 In addition, the MOECSY has designed and developed the National Strategy for Preventing and addressing School Violence, which has a four-year time-frame of implementation. The Strategy's areas include: a) creation of information systems regarding the extent and forms of violence in schools, b) design and implementation of legislative and administrative measures for child-protection, c) empowerment of parents, educators and principals, d) training of children in positive and nonviolent behaviors, e) child participation in the development and implementation of policies and measures and f) development of an inter-disciplinary model of services.
 
-More specifically, an antiracist policy «Code of Conduct against Racism & Guide for Managing and  Recording  Racist  Incidents»  is  being  implemented  with  the  support  of  the  Cyprus Pedagogical Institute (CPI) since the school year 2014-2015. The development and implementation  of  the  policy  responds  to  the  European  Commission's  against  Racism  and Intolerance  guideline  Νο  10  ( 1 ECRI  General  Policy  Recommendation  No  10  οn  Combating Racism and Racial Discrimination in and Through School Education (Adopted On 15 December 2006), Strasburg, 21 March 2007) and is also in line with various international and European conventions that Cyprus has ratified. The policy outlines the responsibilities and commitments, expected by each member of the sc00hool community, and provides the steps to be followed by schools for dealing with racist incidents in a practical rubric.
+More specifically, an antiracist policy «Code of Conduct against Racism & Guide for Managing and Recording Racist Incidents» is being implemented with the support of the Cyprus Pedagogical Institute (CPI) since the school year 2014-2015. The development and implementation of the policy responds to the European Commission’s against Racism and Intolerance guideline No 10 (1 ECRI General Policy Recommendation No 10 on Combating Racism and Racial Discrimination in and Through School Education (Adopted On 15 December 2006), Strasburg, 21 March 2007) and is also in line with various international and European conventions that Cyprus has ratified. The policy outlines the responsibilities and commitments, expected by each member of the school community, and provides the steps to be followed by schools for dealing with racist incidents in a practical rubric.
 
 Since  2016,  the  CPI  provides  support  to  schools  in  order  to  implement  the  antiracist  policy, through various ways, with seminars, conferences, through the creation of School Network across Cyprus, etc.
 
 Additionally, the Cyprus Observatory on School Violence (COSV) of the Pedagogical Institute has developed and implemented actions that aim to prevent and address bullying and violence in  schools.    COSV  provides  support  to  school  units  for  the  implementation  of  actions  and programs aimed at improving the school climate, reducing violence in schools and combating bullying.
 
-#### 1.2 Please indicate actions taken by your government to guarantee equal access to all levels and  types of education in your country (several items could be ticked/mentioned):
+#### 1.2 Please indicate actions taken by your government to guarantee equal access to all levels and types of education in your country (several items could be ticked/mentioned):
 
-- ü Constitutional laws and/or legislation guarantee equal access to education
+- ✓ Constitutional laws and/or legislation guarantee equal access to education
 
-- ü Regulations ensure equal access to all levels and types of education
+- ✓ Regulations ensure equal access to all levels and types of education
 
-- o Policies and programmes ensure equal access to all levels and types of education
+- ☐ Policies and programmes ensure equal access to all levels and types of education
 
-ü Other:
+✓ Other:
 
 Education in public schools is focused on the acceptance of difference, tolerance as well as the respect  for  other  cultures  so  as  to  prepare  tomorrow's  citizens  for  living  in  a  multicultural environment. Towards this end, the MOECSY gives great emphasis on ensuring equal access to education for all children living on the island, taking into account that the right to education is safeguarded in the Convention on the Rights of the Child as well as in the Constitution of the Republic of Cyprus. The fact that primary and secondary education is compulsory up to the age of fifteen, and provided free of charge by the Government to all, irrespective of the residential status  of  the  pupils'  parents,  and  that  primary  and  secondary  schools  are  established  and functioning in all towns and in rural areas, safeguards the right of pupils to full access to different levels of education. Failure to enrol a pupil belonging in the abovementioned age group at an educational institution (public or private) will result in the prosecution of the legal guardian. All necessary measures are taken so that effective access to basic education for all is guaranteed. During  the  period  under  review  a  systematic  effort  has  been  made  to  increase  access  to education for all children and strengthen the quality of the education provided.
 
@@ -322,39 +315,39 @@ Education in public schools is focused on the acceptance of difference, toleranc
 
 This notably is covered under SDG target 4.1 and partly target 4.b 6
 
-#### 1.3 Please indicate the actions taken and planned in your country to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners (including girls and women, the economically and socially marginalized, people with  disabilities  and  other  vulnerable  groups)  in  learning  processes  (several  items  could  be ticked/mentioned):
+#### 1.3 Please indicate the actions taken and planned in your country to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners (including girls and women, the economically and socially marginalized, people with disabilities and other vulnerable groups) in learning processes (several items could be ticked/mentioned):
 
-- ü Providing financial incentives and fellowships
+- ✓ Providing financial incentives and fellowships
 
-- o Providing positive or affirmative action measures
+- ☐ Providing positive or affirmative action measures
 
-- ü Ensuring inclusion in mainstream schools for all learners
+- ✓ Ensuring inclusion in mainstream schools for all learners
 
-- ü Training teachers on inclusive education
+- ✓ Training teachers on inclusive education
 
-- ü Ensuring gender parity in science, technology, engineering and mathematics (STEM) and technical and vocational training (TVET)
+- ✓ Ensuring gender parity in science, technology, engineering and mathematics (STEM) and technical and vocational training (TVET)
 
-- ü Providing re-entry programmes  for  young mothers
+- ✓ Providing re-entry programmes for young mothers
 
-- ü Eliminating all barriers for pregnant girls or young mothers in education
+- ✓ Eliminating all barriers for pregnant girls or young mothers in education
 
-- o Other:
+- ☐ Other:
 
-- o Providing auxiliary assistance
+- ☐ Providing auxiliary assistance
 
-- ü Adapting education infrastructure
+- ✓ Adapting education infrastructure
 
-- ü Adapting curricula and methods
+- ✓ Adapting curricula and methods
 
-- ü Providing language classes to newcomers (e.g. refugees)
+- ✓ Providing language classes to newcomers (e.g. refugees)
 
-- o Eliminating administrative barriers to education 7 7
+- ☐ Eliminating administrative barriers to education⁷
 
-- ü Providing flexible learning pathways
+- ✓ Providing flexible learning pathways
 
-- ü Valuing diversity in schools
+- ✓ Valuing diversity in schools
 
-- ü Combatting stereotyping and stigmatization
+- ✓ Combatting stereotyping and stigmatization
 
 > 6 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'.
 
@@ -366,11 +359,11 @@ This notably is covered under SDG target 4.1 and partly target 4.b 6
 
 - 7 -
 
-In  keeping  with  current  philosophy,  the  MΟECSY  favours  the  inclusion  of  children  with disabilities in mainstream classrooms. The majority of children with disabilities are educated within the mainstream classroom, at their local school. Cyprus has ratified the Convention on the  Rights  of  Disabilities  and  promotes  the  respect  and  protection  of  human  rights  and fundamental freedoms of all persons with disabilities without discrimination of any kind. Special emphasis  is  given  to  ensuring  curriculum  access  with  the  use  of  assistive  technology (computers, specialized software, tablets, joysticks and tracker balls, easy-to-use keyboards, communication devices), changes  to teaching and learning arrangements, classroom organisation, extra time during exams etc. Furthermore, information that is normally provided in writing is made more accessible by providing it in Braille or in large print for children with visual  disability,  whereas  sign  language  interpreters  are  available  for  deaf  children.  The MΟECSY ensures that schools have suitable infrastructure to accommodate the needs of pupils with disabilities. Schools increase access for individual pupils by making various adjustments. Changes to the physical environment that schools make to increase access include: lighting and paint schemes to help children with visual disabilities, lifts and ramps to help children with physical disabilities or carpeting of classrooms to help children with hearing disabilities. The MΟECSY also provides schools with special equipment, such as wheelchairs and walking aids. In addition, it provides for transportation to all children who do not attend the school of their educational district.
+In keeping with current philosophy, the MOECSY favours the inclusion of children with disabilities in mainstream classrooms. The majority of children with disabilities are educated within the mainstream classroom, at their local school. Cyprus has ratified the Convention on the Rights of Disabilities and promotes the respect and protection of human rights and fundamental freedoms of all persons with disabilities without discrimination of any kind. Special emphasis is given to ensuring curriculum access with the use of assistive technology (computers, specialized software, tablets, joysticks and tracker balls, easy-to-use keyboards, communication devices), changes to teaching and learning arrangements, classroom organisation, extra time during exams etc. Furthermore, information that is normally provided in writing is made more accessible by providing it in Braille or in large print for children with visual disability, whereas sign language interpreters are available for deaf children. The MOECSY ensures that schools have suitable infrastructure to accommodate the needs of pupils with disabilities. Schools increase access for individual pupils by making various adjustments. Changes to the physical environment that schools make to increase access include: lighting and paint schemes to help children with visual disabilities, lifts and ramps to help children with physical disabilities or carpeting of classrooms to help children with hearing disabilities. The MOECSY also provides schools with special equipment, such as wheelchairs and walking aids. In addition, it provides for transportation to all children who do not attend the school of their educational district.
 
 Special educational provision is also provided in Special Units within mainstream schools, as well as in Special Schools. A very small percentage of children with disabilities (less than 1% of the school population) are educated in Special Units. Special Units provide more intensive educational  support  to  a  small  number  of  pupils  in  a  class,  whilst  maintaining  contact  and integration  with  a  specific  reference  class  of  the  school,  following  the  regular  curriculum  in specific subjects. Special Schools also have pre-vocational and vocational training programmes designed to assist the transition from school to work or from school to other vocational training authorities.
 
-Currently,  the  MΟECSY  is  receiving  technical  assistance  from  the  Directorate  General  for Structural Reform Support (DG REFORM) of the European Commission and, in cooperation with experts from the European Agency of Special Needs and Inclusive Education, is in the process  of  reforming  the  existing  law  of  Special  Education,  so  that  the  education  system becomes more efficient and inclusive. The experts have submitted a new draft framework law which was discussed with all stakeholders and now the project is in its second phase, for the preparation of regulations that will accompany the law.
+Currently, the MOECSY is receiving technical assistance from the Directorate General for Structural Reform Support (DG REFORM) of the European Commission and, in cooperation with experts from the European Agency of Special Needs and Inclusive Education, is in the process of reforming the existing law of Special Education, so that the education system becomes more efficient and inclusive. The experts have submitted a new draft framework law which was discussed with all stakeholders and now the project is in its second phase, for the preparation of regulations that will accompany the law.
 
 [[END OF PAGE 11]]
 
@@ -390,11 +383,11 @@ In  addition, the MOECSY implements sexuality education based on the World Healt
 
 Please note that child marriage is a discriminatory practice as often girls can marry at a younger age than boys. Child marriage violates the child's right to education as they are more likely to drop out of school and children who are not in school are more likely to get married.
 
-ü Yes No
+✓ Yes    ☐ No
 
 Please provide reference to the relevant laws and provisions:
 
-Under Marriage Law 2003 the legal minimum age of marriage is 18 years. However, marriage is permitted over the age of 16 years with consent of parents or guardians. Cyprus has committed to eliminate child, early and forced marriage by 2030 in line with target 5.3 of the Sustainable  Development Goals. Cyprus co-sponsored the 2017 Human Rights  Council  resolution  recognizing  the  need  to  address  child,  early  and  forced marriage in humanitarian contexts, and the 2015 Human Rights Council resolution to end child, early and forced marriage, recognizing that it is a violation of human rights. Cyprus co-sponsored the 2013 and 2014 UN General Assembly resolutions on child, early and forced  marriage,  and  the  2013  Human  Rights  Council  resolution  on  child,  early  and forced marriage. In 2014, Cyprus signed a joint statement at the Human Rights Council calling for a resolution on child marriage. Cyprus ratified the Convention on the Rights of the Child in 1991, which sets a minimum age of marriage of 18, and acceded to the Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW) in 1985, which obligates states to ensure free and full consent to marriage. At the London Girl  Summit in  July  2014,  the  government  signed  a  charter  committing  to  end  child marriage by 2020.
+Under Marriage Law 2003 the legal minimum age of marriage is 18 years. However, marriage is permitted over the age of 16 years with consent of parents or guardians. Cyprus has committed to eliminate child, early and forced marriage by 2030 in line with target 5.3 of the Sustainable Development Goals. Cyprus co-sponsored the 2017 Human Rights Council resolution recognizing the need to address child, early and forced marriage in humanitarian contexts, and the 2015 Human Rights Council resolution to end
 
 [[END OF PAGE 12]]
 
@@ -402,19 +395,21 @@ Under Marriage Law 2003 the legal minimum age of marriage is 18 years. However, 
 
 - 9 -
 
+child, early and forced marriage, recognizing that it is a violation of human rights. Cyprus co-sponsored the 2013 and 2014 UN General Assembly resolutions on child, early and forced marriage, and the 2013 Human Rights Council resolution on child, early and forced marriage. In 2014, Cyprus signed a joint statement at the Human Rights Council calling for a resolution on child marriage. Cyprus ratified the Convention on the Rights of the Child in 1991, which sets a minimum age of marriage of 18, and acceded to the Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW) in 1985, which obligates states to ensure free and full consent to marriage. At the London Girl Summit in July 2014, the government signed a charter committing to end child marriage by 2020.
+
 ### 2. Progress made with respect to implementing the right to education in the context of SDG 4
 
 #### 2.1 Pre-primary education
 
-Pre-primary  education  is  not  explicitly  provided  for  in  the  Convention/Recommendation. However,  the  international  community  has  increasingly  recognized  the  importance  of  early childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment  7).  This  became  more  explicit  with  the  2010  Moscow  Framework  for  Action  and Cooperation 8 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
+Pre-primary education is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of early childhood care and education (ECCE) over the years. The Committee on the Rights of the Child initially recognized “the right to education during early childhood as beginning at birth” (General Comment 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 8. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to “the provision of at least one year of free and compulsory pre-primary education”.
 
 - Is compulsory and free of charge pre-primary education available in your country?
 
-ü Pre-primary education is compulsory: Please provide the age of enrolment and duration:
+✓ Pre-primary education is compulsory: Please provide the age of enrolment and duration:
 
-Pre-primary  education  is  compulsory  for  children  aged  4  years  and  8  months.    The duration of compulsory pre-primary education is 1 year and 4 months.  Since 2021-2022, children will move from pre-primary to primary education at the age of 6.
+Pre-primary education is compulsory for children aged 4 years and 8 months. The duration of compulsory pre-primary education is 1 year and 4 months. Since 2021-2022, children will move from pre-primary to primary education at the age of 6.
 
-ü Pre-primary education is free of charge for all: Please provide the duration:
+✓ Pre-primary education is free of charge for all: Please provide the duration:
 
 Pre-primary education is free of charge for all children of compulsory age, who attend public kindergartens. The duration of free of charge pre-primary education is 1 year and 4 months.
 
@@ -452,9 +447,7 @@ Article/Paragraph 4(a) of the Convention/Recommendation provides for universal p
 
 - Is primary education compulsory in your country?
 
-ü Yes
-
-No
+✓ Yes    ☐ No
 
 Please  indicate  the  current  duration  period  of  compulsory  education  and  the  age  of enrolment:
 
@@ -464,11 +457,11 @@ The duration of compulsory primary education is 6 years (6 grades). For the scho
 
 - Is primary education available free of charge to all?
 
-ü Yes: Please provide the duration and indicate the extent to which it is.
+✓ Yes: Please provide the duration and indicate the extent to which it is.
 
-For this, please list the laws and policies that ensure the universal and free availability of primary education and indicate whether direct and indirect costs are charged (such as tuition fees, exam  fees, schools supplies, uniforms, transport costs and compulsory levies on parents).
+For this, please list the laws and policies that ensure the universal and free availability of primary education and indicate whether direct and indirect costs are charged (such as tuition fees, exam fees, schools supplies, uniforms, transport costs and compulsory levies on parents).
 
-" The Compulsory and Free Education at Primary and Secondary Level Law (N. 24(I)/1993", amended by Law 220(I)/2004 and by Law 1(I)/2019
+"The Compulsory and Free Education at Primary and Secondary Level Law (N. 24(I)/1993", amended by Law 220(I)/2004 and by Law 1(I)/2019
 
 The Law 24(I)/1993 and its amendments provide for free education at the primary and secondary levels and compulsory education at primary and lower secondary levels. Parents or guardians of children, who fail to register and send them to school during the specified period, are subject to legal penalties. The Law also provides for stationery and the textbooks to be published by the Ministry of Education, Culture, Sport and Youth to be provided to teachers and pupils free of charge. It also assigns to the Council of Ministers the authority to decide for provision of transport, either subsidized or free of  charge,  to  pupils  living  at  a  distance  from  the  school  they attend.
 
@@ -492,39 +485,39 @@ In  this  part,  please  provide  information  on  the  general  availability  a
 
 - Is secondary education (middle/high) available free of charge?
 
-ü Yes: Please provide the duration and describe the extent to which it is.
+✓ Yes: Please provide the duration and describe the extent to which it is.
 
-Secondary Education is available free of charge.  There is an option for private schools where there are tuition fees.
+Secondary Education is available free of charge. There is an option for private schools where there are tuition fees.
 
-Attendance in public schools is free for all students between the age of 4 years and 8 months to 18 years.  Textbooks are given to both students and teachers free of charge. All exam fees and school supplies are also provided by the government, free of charge to the students.
+Attendance in public schools is free for all students between the age of 4 years and 8 months to 18 years. Textbooks are given to both students and teachers free of charge. All exam fees and school supplies are also provided by the government, free of charge to the students.
 
 Uniforms and transport costs are undertaken by the students.
 
 The relevant laws and provisions can be found on the following website: http://www.moec.gov.cy/dme/nomothesia.html
 
-Please list the laws and policies that ensure the free availability of secondary education and  describe whether direct and indirect costs are covered (such as tuition fees, exam fees, school  supplies, uniforms, transport costs and compulsory levies on parents).
+Please list the laws and policies that ensure the free availability of secondary education and describe whether direct and indirect costs are covered (such as tuition fees, exam fees, school supplies, uniforms, transport costs and compulsory levies on parents).
 
-o No:  What  are the measures your  government intends to take to ensure  free secondary education?
+☐ No: What are the measures your government intends to take to ensure free secondary education?
 
 - Is secondary education (middle/high) compulsory in your country?
 
-ü Yes
-
-No
+✓ Yes    ☐ No
 
 - Please provide details on its implementation and indicate the duration of compulsory secondary education and the age of enrolment:
 
-In  this  part,  you  may  also  provide  information  on  the  difficulties  experienced  by  your government in the realization of universal access to secondary education. Quantitative Secondary  education  is  compulsory  until  the  age  of  15  years  (end  of  lower secondary education/ middle school).
+In this part, you may also provide information on the difficulties experienced by your government in the realization of universal access to secondary education. Quantitative
 
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
 
-information could be  added.
-
 - 13 -
 
-Lower  secondary  education  is  provided  in  the  lower  secondary  education schools/middle schools (called Gymnasio) and it comprises a three- year course of general education, beginning at the age of 11 years and 8 months.
+information could be added.
+
+Secondary education is compulsory until the age of 15 years (end of lower secondary education/ middle school).
+
+Lower secondary education is provided in the lower secondary education schools/middle schools (called Gymnasio) and it comprises a three- year course of general education, beginning at the age of 11 years and 8 months.
 
 Upper secondary education is not compulsory and involves a three-year cycle which begins at the age of 15 years and is offered in two different types of programs:
 
@@ -540,13 +533,13 @@ Secondary technical and vocational education (STVE) is offered in the technical 
 
 Please note that minimum age labour laws and those related to compulsory education interdependent and mutually reinforce each other. If the minimum age of employment is below  that of compulsory education, the child is at risk of dropping out of school to work and therefore not completing compulsory education. On the other hand, if compulsory education is lower than  the minimum age of employment, once the child has completed compulsory education, the door  is open to child exploitation and the violation of labour laws.
 
-ü Yes No
+✓ Yes    ☐ No
 
 - Please provide reference to the relevant laws and provisions:
 
 Young people from 15 to 18 years of age may work up to seven hours per day. If they also attend school, there should be a two-hour break between their job and their study hours. They are not allowed to work overtime or from 23:00 to 07:00.
 
-The  relevant  laws  and  provisions  can  be  found  on  the  following  website: http://www.cyprus.gov.cy/portal/portal.nsf/gwp.getGroup?OpenForm&access=0 &SectionId=government&CategoryId=Legislations&SelectionId=Laws%20regar ding%20Work&print=0&lang=en
+The relevant laws and provisions can be found on the following website: http://www.cyprus.gov.cy/portal/portal.nsf/gwp.getGroup?OpenForm&access=0&SectionId=government&CategoryId=Legislations&SelectionId=Laws%20regarding%20Work&print=0&lang=en
 
 [[END OF PAGE 17]]
 
@@ -560,13 +553,13 @@ Article/Paragraph 4(a) of the  Convention/Recommendation provides for higher edu
 
 -  Please indicate the measures adopted to ensure that there is no discrimination on the grounds prohibited by the Convention/Recommendation 11 to  enter  and complete higher education, including technical and vocational education and training (several items could be  ticked/mentioned):
 
-ü Constitutional laws and/or legislation prohibit discrimination in higher education, including  technical and vocational education and training.
+✓ Constitutional laws and/or legislation prohibit discrimination in higher education, including technical and vocational education and training.
 
-- ü Regulations prohibit discrimination in higher education, including technical and vocational  education and training
+- ✓ Regulations prohibit discrimination in higher education, including technical and vocational education and training
 
-ü Policies  and  programs  aim  to  eliminate  and  prevent  discrimination  in  higher education,  including technical and vocational education and training
+✓ Policies and programs aim to eliminate and prevent discrimination in higher education, including technical and vocational education and training
 
-- o Other:
+- ☐ Other:
 
 -  Please provide a brief description of the relevant legal, regulatory or policy texts including measures on:
 
@@ -584,11 +577,11 @@ Non-differential treatment, including of foreign students
 
 Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights, further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'.
 
-- ü Higher education is generally free of charge
+- ✓ Higher education is generally free of charge
 
-ü Higher education is accessible on the basis of individual capacity as assessed by reference  to relevant qualifications and experience
+✓ Higher education is accessible on the basis of individual capacity as assessed by reference to relevant qualifications and experience
 
-- ü Higher education is accessible through financial incentives and scholarships
+- ✓ Higher education is accessible through financial incentives and scholarships
 
 > 9 Which calls on states to 'ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university'.
 
@@ -602,11 +595,11 @@ Article 4 of the Convention requires states to make 'higher education equally ac
 
 - 15 -
 
-- ü Higher education is accessible through positive or affirmative action measures
+- ✓ Higher education is accessible through positive or affirmative action measures
 
-- ü Higher education is accessible through credit transfer system between states
+- ✓ Higher education is accessible through credit transfer system between states
 
-- ü Other:
+- ✓ Other:
 
 - Please elaborate on the measures taken and provide brief information on the financial costs to receive education in higher public or private education institutions, if higher education is not free of charge.
 
@@ -626,19 +619,19 @@ Article/Paragraph  4(c)  of  the  Convention/Recommendation  provides  for  adul
 
 -  Please  indicate  the  efforts  made  by  your  government  to  establish  a  system  of  continuing education and equitable access to learning and training opportunities (several items could be ticked/mentioned):
 
-ü Provision of education for persons who have not received or completed the whole period of  their primary education
+✓ Provision of education for persons who have not received or completed the whole period of their primary education
 
-- ü Provision of literacy programmes
+- ✓ Provision of literacy programmes
 
-- ü Provision of appropriate learning and life-skills programmes
+- ✓ Provision of appropriate learning and life-skills programmes
 
-- ü Provision of free of charge learning opportunities
+- ✓ Provision of free of charge learning opportunities
 
-- ü Provision of flexible learning pathways
+- ✓ Provision of flexible learning pathways
 
-- ü Provision of professional training and qualifications
+- ✓ Provision of professional training and qualifications
 
-- ü Other:
+- ✓ Other:
 
 A collection of laws along with many other provisions aim to securing satisfactory levels of education for adult learners in Cyprus. The Ministry of Education, Culture, Sport and Youth (MoECSY) provides a variety of programmes that fall within the formal and non-formal spectrum and cover both the general adult education as well as the continuing Vocational Education and Training sector. The vast majority of the provided programmes are held in afternoon or evening hours in educational institutes based on urban as well as in rural areas.
 
@@ -662,11 +655,11 @@ Articles/Paragraphs  2,  4(b)  and  5(b)  of  the  Convention/Recommendation  pr
 
 - Please indicate the measures taken by your country to ensure equivalence in all educational institutions with regard to (several items could be ticked/mentioned):
 
-- ü Establishment of minimum norms and standards in education
+- ✓ Establishment of minimum norms and standards in education
 
-- ü Establishment  of  conditions  relating  to  the quality of  the  education  provided  (e.g. infrastructure, learner/teacher ratios, teaching and learning materials, use of ICT)
+- ✓ Establishment of conditions relating to the quality of the education provided (e.g. infrastructure, learner/teacher ratios, teaching and learning materials, use of ICT)
 
-ü Adoption of legal or regulatory provisions to ensure that children learn in a safe environment free  from  violence  or  harassment,  including  school-related  gender-based  violence  (in  and around schools).
+✓ Adoption of legal or regulatory provisions to ensure that children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools).
 
 [[END OF PAGE 21]]
 
@@ -680,7 +673,7 @@ To provide such quality assessment, please take into account all educational ins
 
 The  Cyprus  Agency  of  Quality  Assurance  and  Accreditation  in  Higher  Education (CYQAA) is responsible for ensuring the quality of higher education in Cyprus and for supporting the continuous improvement and upgrading of higher education institutions (HEIs)  and  their  programs  of  study  through  the  procedures  provided  by  the  relevant legislation.
 
-The Ministry of Education, Culture, Sport and Youth with the collaboration of the Cyprus Pedagological Institute (CPI) has implemented the 'Code of Conduct against Racism and Guide  for  Managing  and  Recording  Racist  Incidents'.  The  antiracist  policy  was developed  at 2014  and  it is based  on  the Followup Report of Cyprus  for Recommendation No 20 and Recommendation by the Anti- Discrimination Body.
+The Ministry of Education, Culture, Sport and Youth with the collaboration of the Cyprus Pedagological Institute (CPI) has implemented the 'Code of Conduct against Racism and Guide for Managing and Recording Racist Incidents'. The antiracist policy was developed at 2014 and it is based on the Follow- up Report of Cyprus for Recommendation No 20 and Recommendation by the Anti- Discrimination Body.
 
 In  addition,  the  MoECSY  has  designed  and  developed    the  National  Strategy  for Preventing  and  addressing  School  Violence,  which  has  a  four-  year  timeframe  of implementation.
 
@@ -690,19 +683,19 @@ Article/Paragraph 4(d) of the Convention/Recommendation provides for the educati
 
 - Please  indicate  the  measures  taken  to  improve  the  teaching  and  working  conditions  of education personnel, especially teaching staff at all levels  in your country  and regarding the training for the teaching profession (several items could be ticked/mentioned):
 
-- ü Teachers' average salaries are competitive or at least comparable to those paid in other professions requiring similar or equivalent qualifications (at all levels)
+- ✓ Teachers’ average salaries are competitive or at least comparable to those paid in other professions requiring similar or equivalent qualifications (at all levels)
 
-- ü Initial training and continuous professional development is provided
+- ✓ Initial training and continuous professional development is provided
 
-- o Minimum standards and qualifications are required for the teaching profession
+- ☐ Minimum standards and qualifications are required for the teaching profession
 
-- o Measures taken to strengthen the social status and attractiveness of the teaching profession
+- ☐ Measures taken to strengthen the social status and attractiveness of the teaching profession
 
-- o Performance monitoring systems
+- ☐ Performance monitoring systems
 
-- o Measures taken to increase women in leadership positions in education
+- ☐ Measures taken to increase women in leadership positions in education
 
-- o Other:
+- ☐ Other:
 
 - Please briefly elaborate further on the measures taken:
 
@@ -716,13 +709,13 @@ All  teachers  are  required  to  be  university  degree  holders.  The  Cyprus 
 
 - Have there been instances of discrimination as regards the training for education personnel in your country?
 
-o Yes: Has your government addressed this issue?
+☐ Yes: Has your government addressed this issue?
 
-o Yes
+☐ Yes
 
-o No
+☐ No
 
-ü No
+✓ No
 
 #### 2.7 Respect for human rights and fundamental freedoms
 
@@ -730,11 +723,11 @@ Article/Paragraph  5(1)(a)  of  the  Convention/Recommendation  provides  for  t
 
 - Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items could be ticked/mentioned):
 
-- ü Curriculum includes human rights education
+- ✓ Curriculum includes human rights education
 
-- ü Educational and/or extracurricular activities are organized on human rights education
+- ✓ Educational and/or extracurricular activities are organized on human rights education
 
-- ü Other:
+- ✓ Other:
 
 The Health Education Curriculum (HEC) of the  MOECSY and the learning objectives include clearly defined success indicators related to issues concerning human rights education. More particularly,  the  success  indicators  of  HEC  include  indicators  associated  with  intimidating behavior, violence, social identities/gender development. Additionally, the curriculum includes success indicators relating to respect for diversity.
 
@@ -752,7 +745,7 @@ Articles/Paragraphs 2(c) and 5(1)(b)  of the Convention/Recommendation provide f
 
 - Does your country have a regulatory framework relating to the establishment and functioning of private educational institutions?
 
-ü Yes No
+✓ Yes    ☐ No
 
 - Please provide a brief description:
 
@@ -764,7 +757,7 @@ Private Schools law of 2019.
 
 -Do legal provisions prohibiting discrimination on the grounds listed by the Convention/Recommendation 13 explicitly apply to private educational institutions?
 
-ü Yes No
+✓ Yes    ☐ No
 
 - Please briefly describe what laws, regulations or policies guarantee that the development of private  education  does  not  generate  discrimination  and  that  private  schools  offer  a  relevant alternative in your country:
 
@@ -774,13 +767,13 @@ The  only  requirement  for  attending  private  schools  in  Cyprus  is  to  su
 
 - Does your country have an education policy framework for minimum educational standards as regards the rights of the parents /legal guardians for providing religious and moral education for their children?
 
-ü Yes No
+✓ Yes    ☐ No
 
 #### 2.9 Rights of national minorities
 
 Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities. National minorities, who often face language barriers, are among the specific groups referred to in the Convention.
 
--  Please  indicate  the  legal,  policy  and  regulatory  measures  that  protect  the  rights  given  to national  minorities  to  carry  out  their  own  educational  activities  (several  items  could  be ticked/mentioned):
+- Please indicate the legal, policy and regulatory measures that protect the rights given to
 
 > 13 See: Article/Paragraph 1(1).
 
@@ -790,21 +783,23 @@ Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the righ
 
 - 21 -
 
+national minorities to carry out their own educational activities (several items could be ticked/mentioned):
+
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
 
 - 14 -
 
-ü Constitutional laws and/or legislation protect the right to education of national minorities
+✓ Constitutional laws and/or legislation protect the right to education of national minorities
 
-£ Legislation or regulations guarantee the right of national minorities to study in their mother tongue
+☐ Legislation or regulations guarantee the right of national minorities to study in their mother tongue
 
-£ Curriculum is adapted to national minority needs
+☐ Curriculum is adapted to national minority needs
 
-£ Teachers are trained to adapt to national minority needs
+☐ Teachers are trained to adapt to national minority needs
 
-£ Other:
+☐ Other:
 
 - Please provide a brief description of the provisions:
 
@@ -822,9 +817,9 @@ The Ministry of Education, Culture, Youth and Sports (MOECSY) strives to meet th
 
 - 14 -
 
-- The Educational Reform of the curricula for the  subjects  of  History  and  Religious Education  that were  enriched  with  units  and  success  indicators  regarding  the history, culture, language, religion and identity of the religious groups. In the subject of History,  in  particular,  the  curriculum  contains  proposed  activities for the designing of projects by students and a list of monuments is included for  the  organisation  of planned  visits  by  the  teachers,  thus  promoting  the better  understanding  of  the history  of  the  religious  groups  in  Cyprus. Additionally, the curriculum specifically mentions that through the  teaching of history students are expected to develop respect for religious and cultural differences.
+1. The Educational Reform of the curricula for the subjects of History and Religious Education that were enriched with units and success indicators regarding the history, culture, language, religion and identity of the religious groups. In the subject of History, in particular, the curriculum contains proposed activities for the designing of projects by students and a list of monuments is included for the organisation of planned visits by the teachers, thus promoting the better understanding of the history of the religious groups in Cyprus. Additionally, the curriculum specifically mentions that through the teaching of history students are expected to develop respect for religious and cultural differences.
 
-- The protection of the right to carry out their own educational activities in public and private schools through the operation of their own schools, or through financial support by the Government in order to attend private schools of their choice. Thus, children belonging to the three religious groups have the right to be educated according to their potentialities  and  their  parents'  wishes  and  a  number  of  other  measures  have  been adopted for their smooth integration in the educational system.
+2. The protection of the right to carry out their own educational activities in public and private schools through the operation of their own schools, or through financial support by the Government in order to attend private schools of their choice. Thus, children belonging to the three religious groups have the right to be educated according to their potentialities and their parents' wishes and a number of other measures have been adopted for their smooth integration in the educational system.
 
 -  As  regards  the  educational  standards  in  educational  institutions  run  by  minorities,  please describe the existing legal and policy framework:
 
@@ -860,7 +855,7 @@ The educational needs of children belonging to the Maronite religious group are 
 
 #### 2.10  Rights of refugees and migrants
 
-The rights of refugees and migrants are not explicitly provided for in the Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in education based notably on national origin. 14 In this context,  a  number  of  Member  States  that  participated  in  the  9 th Consultation  reported  on measures adopted to ensure refugees' and migrants' right to education. Growing displacement and influx of refugees worldwide and the emergence of major educational challenges in this area, as well as the frameworks recently adopted by the international community, 15 demonstrate the opportunity for states to report on measures adopted to include refugees and migrants in their educational systems.
+The rights of refugees and migrants are not explicitly provided for in the Convention/Recommendation. However, the Convention and Recommendation call on states to eliminate and prevent discrimination in education based notably on national origin. 14 In this context, a number of Member States that participated in the 9th Consultation reported on measures adopted to ensure refugees' and migrants' right to education. Growing displacement and influx of refugees worldwide and the emergence of major educational challenges in this area, as well as the frameworks recently adopted by the international community, 15 demonstrate the opportunity for states to report on measures adopted to include refugees and migrants in their educational systems.
 
 Besides, this aspect also corresponds to SDG target 4.5, which calls on states to 'ensure equal access to all levels of education and vocational training for the vulnerable', including 'children in vulnerable situations', and covers the majority of SDG 4 targets.
 
@@ -914,9 +909,9 @@ Lastly, it must be added that many schools with children with migrant background
 
 - Please briefly indicate measures adopted by national and local authorities to ensure refugees' and migrants' right to education (several items could be ticked/mentioned):
 
-- ü Inclusion in mainstream education
+✓ Inclusion in mainstream education
 
-- ü Provision of language courses
+✓ Provision of language courses
 
 [[END OF PAGE 31]]
 
@@ -924,33 +919,33 @@ Lastly, it must be added that many schools with children with migrant background
 
 - 15 -
 
-- ü Specific training for educational staff
+✓ Specific training for educational staff
 
-- ü Initiatives addressing discrimination and promoting cultural diversity and mutual acceptance
+✓ Initiatives addressing discrimination and promoting cultural diversity and mutual acceptance
 
-- ü Alternative administrative procedure (placement tests, portfolio of evidence, etc.)
+✓ Alternative administrative procedure (placement tests, portfolio of evidence, etc.)
 
-- ü Accelerated learning programs
+✓ Accelerated learning programs
 
-- ü Non-formal and/or alternative education programs
+✓ Non-formal and/or alternative education programs
 
-- ü Financial support
+✓ Financial support
 
 Other innovative measures:
 
 Please briefly elaborate further on the measures taken:
 
-## Methods  used  to  draw  the  attention  of  the  various  authorities  in  the  country  to  the instruments and to remove the obstacles encountered
+## III. Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
 
-### Challenges and obstacles
+### 1. Challenges and obstacles
 
 #### 1.1 Please indicate and provide any information on the difficulties encountered in the process of implementing  the  key  provisions  of  the  Convention/Recommendation  (including  legal  and practical obstacles) and on the main issues that need to be addressed for promoting further the right to education in your country (several items could be ticked/mentioned):
 
-ü Challenges related to equitable access and inclusion in education (such as poverty and socio- economic factors, cultural and traditional attitudes, remoteness, migration and displacement, etc.)
+✓ Challenges related to equitable access and inclusion in education (such as poverty and socio-economic factors, cultural and traditional attitudes, remoteness, migration and displacement, etc.)
 
 Migration is an issue of great importance for the European Union generally and for Cyprus particularly.  The  increasing  trend  in  the  numbers  of  immigrants  that  come  to  Cyprus  has significant implications, since it must support children of immigrants to effectively adjust to the school environment and system and to respond to its demands. The role of the Ministry of Education, Culture, Sport and Youth is critical, since the educational system must respond to the challenge of migration and multiculturalism through appropriate policies and measures that will shape up a school environment of mutual understanding and respect of all cultures and ethnicities.
 
-o Challenges related to the quality of education (such as shortages of qualified, trained and motivated  teaching  staff,  non-supportive  or  inadequate  teaching  and  learning  as  well  as school environment, etc.)
+☐ Challenges related to the quality of education (such as shortages of qualified, trained and motivated teaching staff, non-supportive or inadequate teaching and learning as well as school environment, etc.)
 
 N/A
 
@@ -960,11 +955,11 @@ N/A
 
 - 16 -
 
-- o Challenges relating to the system and governance (such as budgetary constraints, lack or weakness of monitoring systems - including the lack of reliable data, absence of supportive/ inconsistent/obsolete legal and policy environment, lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels, etc.)
+☐ Challenges relating to the system and governance (such as budgetary constraints, lack or weakness of monitoring systems – including the lack of reliable data, absence of supportive/inconsistent/obsolete legal and policy environment, lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels, etc.)
 
 N/A
 
-o Other:
+☐ Other:
 
 #### 1.2 Please provide a brief assessment of the effectiveness of the methods introduced to remove the obstacles encountered:
 
@@ -982,14 +977,14 @@ UNESCO  governing  bodies  have  underlined  the  need  for  awareness  raising.
 
 - Have activities been carried out to draw the attention of the various authorities of the country to  the  Convention/Recommendation  and their  provisions  about  the right  to education and to raise awareness of the principles of non-discrimination and equality of educational opportunities? (several items could be ticked/mentioned)
 
-- o Translation  of  the  Convention/Recommendation  into  the  national  and  possibly  local languages
+☐ Translation of the Convention/Recommendation into the national and possibly local languages
 
-ü Dissemination and advocacy of the core content of the Convention/Recommendation or the  core principles of the right to education
+✓ Dissemination and advocacy of the core content of the Convention/Recommendation or the core principles of the right to education
 
-- o Increased public awareness through advocacy material on the Convention/ Recommendation or the core principles of the right to education
+☐ Increased public awareness through advocacy material on the Convention/Recommendation or the core principles of the right to education
 
-- o Activities  undertaken  or  supported  by  the  National  Commission  to  promote  non- discrimination and equality of educational opportunities and to foster debate on critical issues  in relation to the rights enshrined in the instruments
+☐ Activities undertaken or supported by the National Commission to promote non-discrimination and equality of educational opportunities and to foster debate on critical issues in relation to the rights enshrined in the instruments
 
-- o Other:
+☐ Other:
 
 [[END OF PAGE 34]]
