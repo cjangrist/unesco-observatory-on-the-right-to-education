@@ -1,5 +1,5 @@
 [[START OF PAGE 1]]
-
+Republic of Botswana
 # REPORT BY MEMBER STATES ON THE IMPLEMENTATION OF THE 1960	CONVENTION	AND RECOMMENDATION	AGAINST DISCRIMINATION	IN	EDUCATION
 
 June	30
@@ -22,9 +22,9 @@ Country name: Botswana
 
 Organization or entity responsible for the preparation of the report: Botswana National Commission for UNESCO
 
-## Information on the legislative, judicial, administrative and other measures taken by the state at the national level
+## I. Information on the legislative, judicial, administrative and other measures taken by the state at the national level
 
-### Ratification of the Convention
+### 1. Ratification of the Convention
 
 Is your country a State Party to the Convention?
 
@@ -52,7 +52,7 @@ Though Botswana has not ratified the convention, she has enacted legislature, re
 
 o No, not considering ratification in the near future. Please explain why:
 
-### Ratification  of  the  Protocol  instituting  a  Conciliation  and  Good  Offices  Commission  to  be responsible  for  seeking  the  settlement  of  any  disputes  which  may  arise  between  States Parties to the Convention against Discrimination in Education
+### 2. Ratification of the Protocol instituting a Conciliation and Good Offices Commission to be responsible for seeking the settlement of any disputes which may arise between States Parties to the Convention against Discrimination in Education
 
 Has your country ratified the Protocol?
 
@@ -70,7 +70,7 @@ Botswana 15-11-2020 _ 10 th Consultation on the 1960 Convention and Recommendati
 
 The country has not ratified the Convention and discussion are currently ongoing to determine the country's position.
 
-### Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
+### 3. Legal framework governing the protection of rights guaranteed in the Convention and the Recommendation in the national legal system
 
 #### In case your country is a State Party to the Convention:
 
@@ -120,7 +120,7 @@ Botswana has not ratified the Convention and Recommendations against Discriminat
 
 ##### Legislative measures pursuant to the Recommendation
 
-###### The Constitution of Botswana
+###### 1. The Constitution of Botswana
 is the guiding principle under which all the national policies are developed and must comply with. It aligns directly to the provisions of the Convention through its Chapter II which covers in detail issues  of  'Protection  of  Fundamental  Rights  and  Freedoms  of  the  Individual'.  Among  the  list  of  the  fundamental rights  and  freedoms  of  the  individual,  that  the  constitution  covers  is  the  'Protection  from  Discrimination  on  the grounds of race, place of origin, political opinion, colour, creed or sex, but subject for the rights and freedoms of others'.
 
 ###### 2. The Education Act
@@ -205,13 +205,13 @@ Other:
 
 Please provide a brief description of the relevant legal, regulatory or policy texts including measures on:
 
-- è Non-discrimination in the admission of pupils to educational institutions
+➔ Non-discrimination in the admission of pupils to educational institutions
 
-- è Non-differential treatment, including of foreign nationals resident in your country
+➔ Non-differential treatment, including of foreign nationals resident in your country
 
 ##### 1. Non-discrimination in education
 
-- 1.1 In Botswana, education is regarded as a fundamental human right that is also an enabler for improving the socio economics lives of people and lead them to living dignified lives. Discrimination in education which according to Botswana's context, is based on the grounds specified in the convection is fully outlawed.  The measures below have been put in place to ensure that no one, irrespective of their differences, is denied to opportunity to benefit from education.
+1.1In Botswana, education is regarded as a fundamental human right that is also an enabler for improving the socio economics lives of people and lead them to living dignified lives. Discrimination in education which according to Botswana's context, is based on the grounds specified in the convection is fully outlawed. The measures below have been put in place to ensure that no one, irrespective of their differences, is denied to opportunity to benefit from education.
 
 List of principal national laws and regulations
 
@@ -414,7 +414,7 @@ Figure 1. 2019 Pre-primary School Enrolments (ages 0-6)
 
 Source: Ministry of Basic Education (2019) Unpublished
 
-Please list the laws and policies that ensure the availability of pre-primary education for all and provide information on the difficulties experienced by your government in the realization of access to preprimary education. Brief quantitative information could be added.
+Please list the laws and policies that ensure the availability of pre-primary education for all and provide information on the difficulties experienced by your government in the realization of access to pre-primary education. Brief quantitative information could be added.
 
 ##### 1. Laws
 
@@ -597,15 +597,13 @@ Botswana 15-11-2020 _ 10 th Consultation on the 1960 Convention and Recommendati
 
 [[START OF PAGE 14]]
 
-√
-
 ##### Secondary education
 
-In  this  part,  please  provide  information  on  the  general  availability  and  accessibility  to  all  of  secondary education, including technical and vocational secondary education and training in your country.
+In this part, please provide information on the general availability and accessibility to all of secondary education, including technical and vocational secondary education and training in your country.
 
--Is secondary education (middle/high) available free of charge?
+- Is secondary education (middle/high) available free of charge?
 
-Yes: Please provide the duration and describe the extent to which it is.
+√ Yes: Please provide the duration and describe the extent to which it is.
 
 Secondary education runs for five (5) years in Botswana, covering 3 years of Junior Secondary and 2 years of Senior  Secondary.  Able  Parents/Guardians  of  children  enrolled  in  public  schools  pay  a  Cost  Sharing  Fee amounting to 5% of the cost of books and feeding which is equivalents to $30.00 per annum. The Government covers  all  Secondary  educations  costs  except  uniform,  transport  and  development  fees  of  children  of  able parents and guardians. However, secondary education in private schools where enrolment is by choice, comes at a cost that is much more expensive.
 
@@ -659,6 +657,8 @@ Botswana 15-11-2020 _ 10 th Consultation on the 1960 Convention and Recommendati
 
 [[START OF PAGE 15]]
 
+Secondary School Gross and Net Enrolment Ratios (GER and NER) by Year
+
 Year | GER (13 - 17 Years) % | NER (13 - 17 Years) % | GER (14 - 18 Years) % | NER (14 - 18 Years) %
 --- | --- | --- | --- | ---
 2002 | 77.3 | 58.8 | 78.3 | 66.9
@@ -675,8 +675,6 @@ Year | GER (13 - 17 Years) % | NER (13 - 17 Years) % | GER (14 - 18 Years) % | N
 2013 | 81.1 | 64.1 | 80.9 | 70
 2014 | 87.6 | 69.9 | 87.4 | 75.1
 2015 | 88.4 | 71.3 | 88.6 | 75.8
-
-Secondary School Gross and Net Enrolment Ratios (GER and NER) by Year
 
 Source: Statistics Botswana 2015
 
@@ -710,7 +708,7 @@ Substance Abuse | 2 | 1 | 4 | 1 | 4 | 0 | 0 | 12
 Poor Performance | 0 | 5 | 4 | 0 | 0 | 0 | 0 | 9
 Parents Abuse | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1
 Corporal Punishment | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
-Teacher Abuse | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Teacher Abuse | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
 Child Labour | 8 | 20 | 10 | 4 | 1 | 0 | 0 | 43
 Religion | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 2
 Other | 43 | 49 | 40 | 13 | 14 | 1 | 1 | 161
@@ -852,7 +850,7 @@ In Botswana, transition to higher education is based on the learner's ability to
 
 ##### Financial Costs to Receive Higher Education
 
-A Tertiary Education Financing Policy and Sponsorship guidelines were developed to ensure that education and training needs of the country are met. Government provides sponsorship to all learners who meet the set credit points for awarding sponsorship. To ensure non-discrimination in awarding scholarships, the Tertiary Education Policy of 2008 was implemented to guide the development, coordination, funding and administration  of  tertiary  education  in  Botswana.  Implementation  of  the  policy  resulted  in  improved management, quality assurance and growth of the tertiary education landscape.
+A Tertiary Education Financing Policy and Sponsorship guidelines were developed to ensure that education
 
 Botswana 15-11-2020 _ 10 th Consultation on the 1960 Convention and Recommendation against Discrimination in Education
 
@@ -861,6 +859,8 @@ Botswana 15-11-2020 _ 10 th Consultation on the 1960 Convention and Recommendati
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
+
+and training needs of the country are met. Government provides sponsorship to all learners who meet the set credit points for awarding sponsorship. To ensure non-discrimination in awarding scholarships, the Tertiary Education Policy of 2008 was implemented to guide the development, coordination, funding and administration of tertiary education in Botswana. Implementation of the policy resulted in improved management, quality assurance and growth of the tertiary education landscape.
 
 Similarly, students who meet the requirements for admission into a tertiary institution but do not meet the set credit points for government sponsorship may be sponsored by their parents or the private sector. The private sector plays a significant role in sponsoring school students, research initiatives and needs based scholarships.
 
@@ -1035,13 +1035,13 @@ Articles/Paragraphs 2, 4(b) and  5(b) of the Convention/Recommendation  provide 
 
 - Please indicate the measures taken by your country to ensure equivalence in all educational institutions with regard to (several items could be ticked/mentioned):
 
-- Please elaborate further on the measures taken:
-
 √ Establishment of minimum norms and standards in education
 
 √ Establishment of conditions relating to the quality of the education provided (e.g. infrastructure, learner/teacher ratios, teaching and learning materials, use of ICT)
 
-√ Adoption  of  legal  or  regulatory  provisions  to  ensure  that  children  learn  in  a  safe environment  free  from  violence  or  harassment,  including  school-related  gender-based violence (in and around schools).
+√ Adoption of legal or regulatory provisions to ensure that children learn in a safe environment free from violence or harassment, including school-related gender-based violence (in and around schools).
+
+- Please elaborate further on the measures taken:
 
 To provide such quality assessment, please take into account all educational institutions of the same level. You may include information on policies, protocols or codes of conduct.
 
@@ -1076,7 +1076,6 @@ In  order  to  improve  the  quality  of  education  across  all  levels  of  ed
 -Production of teaching and learning support materials for through the Teaching Aid Production Division.
 
 ##### Provision of child friendly learning environments
-Implementation of the Child Friendly School's Programme and mainstreaming of Social Values into education policies and programmes to ensure schools are safe places of learning, free of abuse and use of abusive language.
 
 Botswana 15-11-2020 _ 10 th Consultation on the 1960 Convention and Recommendation against Discrimination in Education
 
@@ -1085,6 +1084,8 @@ Botswana 15-11-2020 _ 10 th Consultation on the 1960 Convention and Recommendati
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
+
+Implementation of the Child Friendly School's Programme and mainstreaming of Social Values into education policies and programmes to ensure schools are safe places of learning, free of abuse and use of abusive language.
 
 #### 2.6 Education personnel
 
@@ -1229,21 +1230,21 @@ The entry point for public service and primary and secondary school teachers is 
 
 Teachers' Salaries in Comparison with Civil Service Salaries
 
-Grades | Salary Per Annum | Public Service Progression
---- | --- | --- | ---
-F0 | 681, 888.00 | Colleges of Education Lecturers' Progression
-F1 | 598, 176.00 | Primary School
-D3 D4 | 130, 296.00 | Secondary School Teachers' Progression | Teachers' Progression
-E1 | 460, 296.00
-E2 | 403, 776.00
-D1 | 368, 544.00
-D2 | 321, 012.00
-279, 648.00
-243, 684.00
-C1 | 197, 892.00
-C2 | 160, 548.00
-C3
-C4 | 106, 596.00
+Grades | Salary Per Annum | Public Service Progression | Colleges of Education Lecturers' Progression | Secondary School Teachers' Progression | Primary School Teachers' Progression
+--- | --- | --- | --- | --- | ---
+F0 | 681, 888.00 |  |  |  | 
+F1 | 598, 176.00 |  |  |  | 
+F2 | 524, 712.00 |  |  |  | 
+E1 | 460, 296.00 |  |  |  | 
+E2 | 403, 776.00 |  |  |  | 
+D1 | 368, 544.00 |  |  |  | 
+D2 | 321, 012.00 |  |  |  | 
+D3 | 279, 648.00 |  |  |  | 
+D4 | 243, 684.00 |  |  |  | 
+C1 | 197, 892.00 |  |  |  | 
+C2 | 160, 548.00 |  |  |  | 
+C3 | 130, 296.00 |  |  |  | 
+C4 | 106, 596.00 |  |  |  | 
 
 - Have there been instances of discrimination as regards the training for education personnel in your country?
 
@@ -1271,7 +1272,8 @@ Article/Paragraph  5(1)(a)  of  the  Convention/Recommendation  provides  for  t
 
 √ Curriculum includes human rights education
 
-√ Educational and/or extracurricular activities are organized on human rights education Other:
+√ Educational and/or extracurricular activities are organized on human rights education
+Other:
 
 The  government  is  committed  to  upholding  human  rights  as  evidenced  by  chapter  II  of  the  Constitution,  'Protection  of Fundamental Rights and Freedoms of the Individual'. As a result of this commitment, national policies and programmes are continuously reviewed to ensure their alignment to promotion of human rights. Education initiatives put in place to this effect include the mainstreaming of human rights education into the curriculum to ensure learners acquire knowledge and skills needed to promote understanding and appreciation of cultural diversity and a culture of peace and non-violence.
 
@@ -1293,12 +1295,12 @@ Botswana 15-11-2020 _ 10 th Consultation on the 1960 Convention and Recommendati
 exploitation
 --- | --- | --- | ---
 Convention on the Rights of Persons with Disabilities | It calls for the promotion, protection and assurance of the full and equal enjoyment of all human rights and fundamental freedoms by all persons with disabilities, and to promote respect for their inherent dignity | ? | Domesticated through the Inclusive Education Policy.
-The Salamanca Statement and Framework for | It calls for the provision of Inclusive Education i.e. with special reference to the education of children with special needs in regular schools. | N/A | Domesticated through the Inclusive Education Policy.
-Action (1994) SADC Protocol on Education. | It calls for: - The provision of high quality and relevant education - Improved access to education and training - Reduction of inequalities in the acquisition of education and training - The achievement of universal literacy and numeracy - Reduction in the cost of education and training | 8.09. 1997 | Mainstreamed into educational policies and programmes.
+The Salamanca Statement and Framework for Action (1994) | It calls for the provision of Inclusive Education i.e. with special reference to the education of children with special needs in regular schools. | N/A | Domesticated through the Inclusive Education Policy.
+SADC Protocol on Education. | It calls for: - The provision of high quality and relevant education - Improved access to education and training - Reduction of inequalities in the acquisition of education and training - The achievement of universal literacy and numeracy - Reduction in the cost of education and training | 8.09. 1997 | Mainstreamed into educational policies and programmes.
 ILO Convention 138 (Minimum Age Convention). | It calls for the fixing of the minimum age into employment (Ratified) | 1997 | Botswana ratified and set the Minimum Age at 15 (Employment Act CAP 47.01 Article 61 and 105) As a result, the Act prohibits employment of children under 15 years but allows children between 14 and 18 years who are not attending school to do light work (approved by the Commissioner)
 ILO Convention 182 (Worst Forms of Child Labour Convention), | It calls for the elimination of child labour and its worst forms (CSEC, CUBAC and CT). | 2000 | Botswana ratified and prohibits children from working at night, working under ground and engaging in hazardous activities (Employment Act CAP 47.01 Article 106 -109)
 Universal Declaration of Human Rights. | It calls for: - The recognition of the inherent dignity and equal rights of all members of the human family - The right to life, rest and leisure - Protection of the fundamental human rights principles, such as equality and non-discrimination. - Promotion of a universal culture of human rights and application of human rights in daily life. | 29.03.1968 | Forms part of Botswana's constitution (Chapter II of the constitution) Mainstreamed into educational policies and programmes, including the school curriculum.
-The International Convention on the Elimination of all Forms of Discrimination Against Women | It calls for the elimination of all forms of gender- based violence and other forms of discrimination that inhibits women and girls the ability to enjoy rights and freedoms on the basis of equality with men. | 13.08.1996 | Botswana is a signatory and has domesticated through the National Gender Policy. A full department has been established to coordinate implementation of gender activities
+The International Convention on the Elimination of all Forms of Discrimination Against Women | It calls for the elimination of all forms of gender-based violence and other forms of discrimination that inhibits women and girls the ability to enjoy rights and freedoms on the basis of equality with men. | 13.08.1996 | Botswana is a signatory and has domesticated through the National Gender Policy. A full department has been established to coordinate implementation of gender activities
 
 Botswana 15-11-2020 _ 10 th Consultation on the 1960 Convention and Recommendation against Discrimination in Education 27
 
@@ -1392,9 +1394,7 @@ Article/Paragraph  5(1)(c)  of  the  Convention/Recommendation  provides  for  t
 
 √ Constitutional laws and/or legislation protect the right to education of national minorities
 
-√ tongue
-
-Legislation or regulations guarantee the right of national minorities to study in their mother
+√ Legislation or regulations guarantee the right of national minorities to study in their mother tongue
 
 √ Curriculum is adapted to national minority needs
 
@@ -1428,9 +1428,9 @@ The  Education  Act  CAP  58:01  Section  13  allows  any  individual,  organiza
 
 ##### The Use and Teaching of First Languages in Education
 
-Although the use of mother tongue instruction is a positive development towards enforcing the principles of nondiscrimination in education, Botswana is not yet ready for the full implementation of mother tongue instruction which  involves  the  use  of  other  non-tswana  languages  as  mediums  of  instruction  in  Botswana  schools.  In Botswana, mother tongue differs from one cultural group to another. As a result some languages spoken in the country  are  not  taught  nor  catered  for  in  the  curriculum.  Setswana  and  English  are  the  only  two  official languages in Botswana, hence Setswana is taught and used as a medium of instruction at standard 1 and later offered as a curriculum subject from standard 2.
+Although the use of mother tongue instruction is a positive development towards enforcing the principles of non-discrimination in education, Botswana is not yet ready for the full implementation of mother tongue instruction which involves the use of other non-tswana languages as mediums of instruction in Botswana schools. In Botswana, mother tongue differs from one cultural group to another. As a result some languages spoken in the country are not taught nor catered for in the curriculum. Setswana and English are the only two official languages in Botswana, hence Setswana is taught and used as a medium of instruction at standard 1 and later offered as a curriculum subject from standard 2.
 
-There are practical problems associated with the teaching and using of non-tswana languages as mediums of instruction in Botswana schools. These include their implications on teacher training and placement. Although the current  teacher  training  curriculum  does  not  cover  training  in  other  languages  except  English  and  Setswana, teachers in Botswana are expected to teach in any area of the country. Therefore, teaching and using of nontswana  languages  as  mediums  of  instruction  would  suggest  the  deployment  and  redeployment  of  the  current teaching  force  according  to  their  areas  of  origin,  a  system  that  cannot  be  sustained  with  the  teacher  training output and the teaching force in the field.
+There are practical problems associated with the teaching and using of non-tswana languages as mediums of instruction in Botswana schools. These include their implications on teacher training and placement. Although the current teacher training curriculum does not cover training in other languages except English and Setswana, teachers in Botswana are expected to teach in any area of the country. Therefore, teaching and using of non-tswana languages as mediums of instruction would suggest the deployment and redeployment of the current teaching force according to their areas of origin, a system that cannot be sustained with the teacher training output and the teaching force in the field.
 
 #### 2.10 Rights of refugees and migrants
 
@@ -1444,7 +1444,7 @@ Botswana 15-11-2020 _ 10 th Consultation on the 1960 Convention and Recommendati
 
 [[START OF PAGE 31]]
 
-Besides,  this  aspect  also  corresponds  to  SDG  target  4.5,  which  calls  on  states  to  'ensure  equal access  to  all  levels  of  education  and  vocational  training  for  the  vulnerable',  including  'children  in vulnerable situations', and covers the majority of SDG 4 targets.
+Besides, this aspect also corresponds to SDG target 4.5, which calls on states to “ensure equal access to all levels of education and vocational training for the vulnerable”, including “children in vulnerable situations”, and covers the majority of SDG 4 targets.
 
 - Please briefly describe the existing legal and policy framework that protects the right to quality education for refugees and migrants in your country.
 
@@ -1474,9 +1474,9 @@ Other innovative measures:
 
 Please briefly elaborate further on the measures taken:
 
-## Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
+## III. Methods used to draw the attention of the various authorities in the country to the instruments and to remove the obstacles encountered
 
-### Challenges and obstacles
+### 1. Challenges and obstacles
 
 #### 1.1 Please  indicate  and  provide  any  information  on  the  difficulties  encountered  in  the  process  of implementing  the  key  provisions  of  the  Convention/Recommendation  (including  legal  and  practical obstacles)  and  on  the  main  issues  that  need  to  be  addressed  for  promoting  further  the  right  to education in your country (several items could be ticked/mentioned):
 
@@ -1592,7 +1592,7 @@ Other:
 
 #### 1.2 Please provide a brief assessment of the effectiveness of the methods introduced to remove the obstacles encountered:
 
-It is clear that the methods used to remove obstacles encountered in the promotion of educational opportunities are to a large extent effective especially that they are based under the umbrella of the Constitution of Botswana which promotes the 'Protection of Fundamental Rights and Freedoms of the Individual' including 'Protection from Discrimination on the grounds of race, place of origin, political opinions, colour, creed or sex, but subject for the rights and freedoms of others'. As a result of the effectiveness of the strategies employed, Botswana has managed to maintain high access rates in all the levels of education.
+It is clear that the methods used to remove obstacles encountered in the promotion of educational opportunities are to a large extent effective especially that they are based under the umbrella of the Constitution of Botswana which promotes the ‘Protection of Fundamental Rights and Freedoms of the Individual’ including ‘Protection from Discrimination on the grounds of race, place of origin, political opinions, colour, creed or sex, but subject for the rights and freedoms of others”. As a result of the effectiveness of the strategies employed, Botswana has managed to maintain high access rates in all the levels of education.
 
 ### 2. Awareness-raising
 
@@ -1604,7 +1604,7 @@ UNESCO governing bodies have underlined the need for awareness raising. Given th
 
 √ Dissemination and advocacy of the core content of the Convention/Recommendation or the core principles of the right to education
 
-√ Increased public awareness through advocacy material on the Convention/ Recommendation or the core principles of the right to education
+√ Increased public awareness through advocacy material on the Convention/Recommendation or the core principles of the right to education
 
 Botswana 15-11-2020 _ 10 th Consultation on the 1960 Convention and Recommendation against Discrimination in Education
 
@@ -1614,17 +1614,17 @@ Botswana 15-11-2020 _ 10 th Consultation on the 1960 Convention and Recommendati
 
 [[START OF PAGE 34]]
 
-√ Activities undertaken or supported by the National Commission to promote non- discrimination and equality of educational opportunities and to foster debate on critical issues in relation to the rights enshrined in the instruments
+√ Activities undertaken or supported by the National Commission to promote non-discrimination and equality of educational opportunities and to foster debate on critical issues in relation to the rights enshrined in the instruments
 
 √ Other:
 
 Though Botswana is not a signatory to the Convention and Recommendations Against Discrimination in Education, promotion of human rights is enshrined in the Constitution of Botswana which guides the development of other national policies and programmes. As a result, there has been awareness raising on  issues  relating  to  the  promotion  of  human  rights  coordinated  by  different  government  ministries depending on their mandate. In addition, Non-Governmental Organizations such as below have done extensive work to ensure that human rights, including the principles of equality, justice and peace are respected by all:
 
-- Ditshwanelo - The Botswana Centre for Human Rights which was established in 1993, has been dealing with all aspects of human rights particularly with provision of paralegal services to those earning less than the minimum wage and advocating for changes in laws, policies and practices, and to raise public awareness on rights and responsibilities.
+1. Ditshwanelo – The Botswana Centre for Human Rights which was established in 1993, has been dealing with all aspects of human rights particularly with provision of paralegal services to those earning less than the minimum wage and advocating for changes in laws, policies and practices, and to raise public awareness on rights and responsibilities.
 
-- Botswana  Network  on  Ethics,  Law  and  HIV/AIDS  which  was  established  in  2002,  is responsible for promotion of a just and inclusive environment that contributes to the quality of life for people affected by HIV and AIDS through advocacy, capacity building and a network of individuals and organizations
+2. Botswana Network on Ethics, Law and HIV/AIDS which was established in 2002, is responsible for promotion of a just and inclusive environment that contributes to the quality of life for people affected by HIV and AIDS through advocacy, capacity building and a network of individuals and organizations
 
-- Emang Basadi is Botswana based women's human rights organization formally established in 1986.  The  Organization's  main  goal  is  to  mobilize  women  in  Botswana  to  develop  action oriented strategies that can change their social, political, economic and legal positions.
+3. Emang Basadi is Botswana based women’s human rights organization formally established in 1986. The Organization’s main goal is to mobilize women in Botswana to develop action oriented strategies that can change their social, political, economic and legal positions.
 
 In  order  to  draw  attention  of  various  authorities  of  the  country  and  raise  public  awareness  of  the principles of non-discrimination and equality of educational opportunities enshrined in the Convention and Recommendation, and their national dissemination, NGO's above together with others interested in the  promotion  of  human  rights  raise  stakeholder  awareness  and  that  of  the  general  public  through lobbying, advocacy and capacity building, legal aid and counselling services for the empowerment of disadvantaged group. Some of the activities they do include:
 
