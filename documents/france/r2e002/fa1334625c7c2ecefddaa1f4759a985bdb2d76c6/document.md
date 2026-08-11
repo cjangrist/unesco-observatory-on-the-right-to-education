@@ -1,5 +1,24 @@
 [[START OF PAGE 1]]
 
+JOURNAL OFFICIEL
+DE LA RÉPUBLIQUE FRANÇAISE
+
+Un an, 40 fr. — Six mois, 20 fr. — Trois mois, 10 fr.
+Les abonnements partent des 1er et 16 de chaque mois
+Paris et Départements — Envoyer un mandat sur la poste — Affranchir
+Joindre aux renouvellements et réclamations la dernière bande — Affranchir
+
+LES MANUSCRITS NON INSÉRÉS
+ne sont pas rendus.
+
+DIRECTION, RÉDACTION ET ADMINISTRATION
+A PARIS, QUAI VOLTAIRE, N° 31
+
+ABONNEMENTS ET RÉCLAMATIONS
+S'adresser au Chef de service.
+
+Les demandes d'abonnement sont reçues : 1° directement à l'Administration ; 2° par lettres affranchies, adressées au Chef de service du Journal officiel. — Les abonnements (de trois mois, six mois ou un an) doivent ressortir, pour la caisse du Journal officiel, aux prix nets de 10, 20 ou 40 francs. — Les abonnements en timbres-poste sont rigoureusement refusés. — Chaque demande de changement d'adresse doit être accompagnée d'une bande imprimée et de la somme de soixante centimes pour frais de réimpression.
+
 # Loi du 30 octobre 1886 sur l'organisation de l'enseignement primaire.
 
 Le  Sénat  et  la  Chambre  des  députés ont adopté,
@@ -76,7 +95,7 @@ L'ouverture  d'un  cours  privé  pour  les adultes  et  pour  les  apprentis  c
 
 [[START OF PAGE 2]]
 
-### CHAPITRE II.De l'inspection
+### CHAPITRE II.- De l'inspection
 
 #### Art. 9.
 L'inspection des établissements  d'instruction  primaire  publics ou privés est exercée :
@@ -110,11 +129,9 @@ Nul  ne  peut  être  nommé inspecteur primaire, s'il n'est pourvu du certifica
 
 Des  arrêtés  ministériels  détermineront le nombre et l'étendue des circonscriptions d'inspection primaire dans  chaque  département,  ainsi  que  les attributions, le classement, les frais de tournées et l'avancement des inspecteurs primaires.
 
-## TITRE II De l'enseignement public
+## TITRE II De l'enseignement public.
 
-.
-
-### CHAPITRE 1 er -De l'établissement des écoles publiques .
+### CHAPITRE 1 er - De l'établissement des écoles publiques.
 
 #### Art.  11.
 Toute  commune  doit  être pourvue au moins d'une école primaire publique. Toutefois, le conseil départemental  peut,  sous  réserve  de l'approbation du ministre, autoriser une  commune  à  se  réunir  à  une  ou plusieurs communes voisines, pour l'établissement et l'entretien d'une école.
@@ -159,12 +176,12 @@ Sont mises au nombre des écoles primaires  publiques,  donnant  lieu  à  une d
 
 3°  Les  classes  enfantines  publiques, comprenant  des  enfants  des  deux  sexes et confiées à des institutrices.
 
-### CHAPITRE II.Du personnel enseignant. - Conditions requises.
+### CHAPITRE II.- Du personnel enseignant. - Conditions requises.
 
 #### Art. 16.
 L'enseignement dans les écoles publiques est donné conformément aux prescriptions de la loi du  28  mars  1882,  et  d'après  un  plan d'études délibéré en conseil supérieur.
 
-Pour  chaque  département,  le  conseil départemental arrêtera l'organisation pédagogique des diverses catégories d'établissements par des règlements spéciaux conformes au plan d'études cidessus.
+Pour chaque département, le conseil départemental arrêtera l'organisation pédagogique des diverses catégories d'établissements par des règlements spéciaux conformes au plan d'études ci-dessus.
 
 #### Art. 17.
 Dans les écoles publiques de tout ordre, l'enseignement est exclusivement confié à un personnel laïque.
@@ -205,7 +222,7 @@ Les instituteurs et institutrices  sont  divisés  en  stagiaires  et titulaires
 #### Art.  23.
 Nul  ne  peut  être  nommé instituteur  titulaire  s'il  n'a  fait  un  stage de  deux  ans  au  moins  dans  une  école publique ou privée, s'il n'est pourvu du certificat  d'aptitude  pédagogique,  et  s'il n'a  été  porté  sur  la  liste  d'admissibilité aux fonctions d'instituteur dressée par le conseil  départemental,  conformément  à l'article 27.
 
-Le temps passé à l'école normale compte, pour l'accomplissement du stage, aux élèves-maîtres à partir de dixhuit  ans,  aux  élèves-maîtresses  à  partir de dix-sept.
+Le temps passé à l'école normale compte, pour l'accomplissement du stage, aux élèves-maîtres à partir de dix-huit ans, aux élèves-maîtresses à partir de dix-sept.
 
 Des  dispenses  de  stage  peuvent  être accordées  par  le  ministre,  sur  l'avis  du conseil départemental.
 
@@ -227,7 +244,7 @@ Toutefois  cette  dernière  interdiction n'aura d'effet qu'après la promulgati
 
 Les instituteurs communaux pourront exercer les fonctions de secrétaire de mairie avec l'autorisation du conseil départemental.
 
-### CHAPITRE III Nomination du personnel enseignant - Peines disciplinaires - Récompenses
+### CHAPITRE III - Nomination du personnel enseignant - Peines disciplinaires - Récompenses
 
 #### Art. 26.
 Les instituteurs et institutrices stagiaires enseignent en vertu  d'une  délégation  de  l'inspecteur d'académie.
@@ -320,7 +337,7 @@ Aucune  école  privée  ne peut  prendre  le  titre  d'école  primaire supéri
 
 Aucune  école  privée  ne  peut,  sans l'autorisation du conseil départemental,  recevoir  d'enfants  des deux  sexes,  s'il  existe,  au  même  lieu, une  école  publique  ou  privée  spéciale aux filles.
 
-Aucune école privée ne peut recevoir des  enfants  au-dessous  de  six  ans  s'il existe  dans  la  commune  une  école maternelle publique ou une classe enfantine  publique,  à  moins  qu'ellemême ne possède une classe enfantine.
+Aucune école privée ne peut recevoir des enfants au-dessous de six ans s'il existe dans la commune une école maternelle publique ou une classe enfantine publique, à moins qu'elle-même ne possède une classe enfantine.
 
 #### Art.  37.
 Tout  instituteur  qui  veut ouvrir une école privée doit préalablement  déclarer  son  intention au  maire  de  la  commune  où  il  veut s'établir, et lui désigner le local.
@@ -391,14 +408,14 @@ Les administrateurs ou directeurs pourront être passibles des peines édictées
 
 ## TITRE IV Des conseils de l'enseignement primaire.
 
-### CHAPITRE 1 er -Du conseil départemental.
+### CHAPITRE 1 er - Du conseil départemental.
 
 #### Art.  44 .
 Il  est  institué,  dans  chaque département, un conseil de l'enseignement  primaire  composé  ainsi qu'il suit :
 
 1° Le préfet, président ;
 
-- 2° L'inspecteur d'académie, viceprésident ;
+- 2° L'inspecteur d'académie, vice-président ;
 
 - 3° Quatre conseillers généraux élus par leurs collègues ;
 
@@ -423,7 +440,7 @@ Les pouvoirs des conseillers généraux  cessent  avec  leur  qualité  de conse
 Dans le département de la Seine, le nombre des conseillers généraux sera de huit, celui des inspecteurs primaires sera de quatre et celui des membres élus, moitié par les instituteurs, moitié par les institutrices, sera de quatorze, à raison de deux pour quatre arrondissements municipaux, et de deux pour chacun des arrondissements  de  Saint-Denis  et  de Sceaux.
 
 #### Art. 47.
-Les fonctions des membres du conseil départemental sont gratuites. Cependant une indemnité de déplacement est accordée aux inspecteurs  primaires  et  aux  délégués des instituteurs et institutrices qui résident  en  dehors  du  chef  lieu  du département.
+Les fonctions des membres du conseil départemental sont gratuites. Cependant une indemnité de déplacement est accordée aux inspecteurs primaires et aux délégués des instituteurs et institutrices qui résident en dehors du chef-lieu du département.
 
 - Un règlement d'administration publique  déterminera  les  formes  de l'élection et la base de l'indemnité.
 
@@ -432,7 +449,7 @@ Le  conseil  départemental se réunit de droit au moins une fois par trimestre,
 
 En outre des attributions qui lui sont conférées  par  les  dispositions  de  la présente loi, le conseil départemental :
 
-Veille à l'application des programmes, des méthodes et dès règlements édictés par le conseil supérieur,  ainsi  qu'à  l'organisation  de l'inspection médicale prévue par l'article 9 ;
+Veille à l'application des programmes, des méthodes et des règlements édictés par le conseil supérieur, ainsi qu'à l'organisation de l'inspection médicale prévue par l'article 9 ;
 
 Arrête les règlements relatifs au régime intérieur des établissements d'instruction primaire ;
 
@@ -440,7 +457,7 @@ Détermine les écoles publiques auxquelles, d'après le nombre des élèves,  i
 
 Délibère sur les rapports et propositions de l'inspecteur d'académie, des délégués cantonaux et des commissions municipales scolaires ;
 
-Donne sont avis sur les réformes qu'il juge utile d'introduire dans l'enseignement, sur les secours et encouragements  à  accorder  aux  écoles primaires et sur les récompenses ;
+Donne son avis sur les réformes qu'il juge utile d'introduire dans l'enseignement, sur les secours et encouragements à accorder aux écoles primaires et sur les récompenses ;
 
 Entend et discute tous les ans un rapport général de l'inspecteur d'académie  sur  l'état  et  les  besoins  des écoles  publiques  et  sur  l'état  des  écoles privées ; ce rapport et le procès-verbal de cette discussion sont adressés au ministre de l'instruction publique.
 
@@ -479,7 +496,7 @@ Les  délégués  se  réunissent  au  moins une fois tous les trois mois au che
 #### Art. 53.
 A Paris, les délégués nommés pour chaque arrondissement par le  conseil  départemental  se  réunissent une fois au moins tous les mois, sous la présidence du  maire  ou  d'un  de ses adjoints par lui désigné.
 
-### CHAPITRE II .- Des commissions scolaires.
+### CHAPITRE II.- Des commissions scolaires.
 
 #### Art.  54.
 La  commission  municipale scolaire, instituée par l'article 5 de la loi du 28 mars 1882, est composée du maire ou d'un adjoint délégué par lui, président ; d'un des délégués du canton, et, dans les communes comprenant plusieurs  cantons,  d'autant  de  délégués qu'il y a de cantons, désignés par l'inspecteur  d'académie ;  des  membres désignés par le conseil  municipal  en nombre égal, au plus, au tiers des membres de ce conseil.
@@ -536,7 +553,7 @@ Sont abrogés les titres I et II de la loi du 15 mars 1850, la loi du 10 avril 1
 #### Art. 62.
 Les directrices d'écoles maternelles  publiques  seront  assimilées aux institutrices publiques.
 
-Il ne sera plus délivré de titre de capacité distinct pour les écoles maternelles. A dater du 1 er janvier 1888, le titre requis pour enseigner dans toutes les  écoles  énumérées aux paragraphes 1 et 2 de l'article 1 er de la présente loi sera le brevet élémentaire. Toutefois les personnes munies du certificat d'aptitude à la direction des salles d'asile, lors de la promulgation de la présente loi, continueront  à  jouir  des  droits  que  leur confère la loi du 16 juin 1861.
+Il ne sera plus délivré de titre de capacité distinct pour les écoles maternelles. A dater du 1 er janvier 1888, le titre requis pour enseigner dans toutes les écoles énumérées aux paragraphes 1 et 2 de l'article 1 er de la présente loi sera le brevet élémentaire. Toutefois les personnes munies du certificat d'aptitude à la direction des salles d'asile, lors de la promulgation de la présente loi, continueront à jouir des droits que leur confère la loi du 16 juin 1881.
 
 #### Art. 63.
 Tout directeur d'école privée actuellement  existante  devra,  dans  les trois  mois  qui  suivront  la  promulgation de la présente loi, faire savoir à l'inspecteur d'académie si son école doit être classée parmi les écoles maternelles, primaires ou primaires supérieures. Il lui adressera, en même temps, ses diplômes, son casier judiciaire, et lui indiquera s'il appartient  à  une  association  religieuse. Les  mêmes  pièces  et  indications  sont exigées de ses instituteurs adjoints.
@@ -555,7 +572,7 @@ Jusqu'au vote d'une nouvelle loi sur le recrutement militaire, l'engagement  de 
 Néanmoins,  les  instituteurs  privés  qui auront  contracté  l'engagement  décennal avant la promulgation de la présente loi, continueront  à  jouir  de  la  dispense  du service  militaire,  en  se  conformant  aux prescriptions de l'article 20 de la loi du 27 juillet 1872.
 
 #### Art. 67.
-Dans le cas où la laïcisation rendrait nécessaire  l'acquisition ou  la construction d'une maison  d'école, il sera sursis à l'application du paragraphe 1 er de  l'article  18  de  la  présente  loi, jusqu'à ce qu'il ait été pourvu à l'établissement  de  l'école,  en  exécution des  articles  8,  9  et  10  de  la  loi  du  20 mars 1883 et de la loi du 20 juin 1885.
+Dans le cas où la laïcisation rendrait nécessaire l'acquisition ou la
 
 6
 
@@ -563,34 +580,34 @@ Dans le cas où la laïcisation rendrait nécessaire  l'acquisition ou  la const
 
 [[START OF PAGE 7]]
 
+construction d'une maison d'école, il sera sursis à l'application du paragraphe 1 er de l'article 18 de la présente loi, jusqu'à ce qu'il ait été pourvu à l'établissement de l'école, en exécution des articles 8, 9 et 10 de la loi du 20 mars 1883 et de la loi du 20 juin 1885.
+
 ## TITRE VI Dispositions spéciales à l'Algérie et aux colonies.
 
-Des règlements d'administration publique détermineront toutefois les conditions de cette application et statueront  sur  les  mesures  transitoires auxquelles elle devra donner lieu.
+#### Art. 68.
+La présente loi, ainsi que la loi du 16 juin 1881 sur les titres de capacité, l'article 1 er de la loi du 16 juin 1881 sur la gratuité et la loi du 28 mars 1882, sont applicables à l'Algérie, à la Guadeloupe, à la Martinique et à la Réunion.
+
+Des règlements d'administration publique détermineront toutefois les conditions de cette application et statueront sur les mesures transitoires auxquelles elle devra donner lieu.
 
 En Algérie, les attributions conférées au préfet par les articles 27, 28, 29 et 31, sont maintenues au recteur de l'académie d'Alger.
 
-Les  délais pour  la laïcisation  des écoles publiques seront fixés par simples  décrets  pour  l'Algérie  et  les colonies ci-dessus désignées.
+Les délais pour la laïcisation des écoles publiques seront fixés par simples décrets pour l'Algérie et les colonies ci-dessus désignées.
 
-#### Art. 68.
-La  présente  loi,  ainsi  que  la loi  du  16  juin  1881  sur  les  titres  de capacité, l'article 1 er de la loi du 16 juin 1881 sur la gratuité et la loi du 28 mars 1882,  sont  applicables  à  l'Algérie,  à  la Guadeloupe,  à  la  Martinique  et à la Réunion.
+De simples décrets statueront également pour ce qui concerne l'Algérie, sur la création et l'organisation des écoles destinées à répandre l'instruction primaire française parmi les indigènes, et sur la faculté d'employer dans les diverses écoles des maîtres et maîtresses indigènes.
 
-De simples décrets statueront également pour ce qui concerne l'Algérie, sur la création et l'organisation  des  écoles  destinées  à répandre l'instruction primaire française parmi les indigènes, et sur la faculté  d'employer  dans  les  diverses
-
-Fac-similé du Journal officiel du 31 octobre 1886
-
-écoles des maîtres et maîtresses indigènes.
-
-La  présente  loi,  délibérée  et  adoptée par  le  Sénat  et  par  la  Chambre  des députés,  sera  exécutée  comme  loi  de l'Etat.
+La présente loi, délibérée et adoptée par le Sénat et par la Chambre des députés, sera exécutée comme loi de l'Etat.
 
 Fait à Paris, le 30 octobre 1886.
 
-JULES GREVY.
+JULES GRÉVY.
 
 Par le Président de la République :
 
 Le ministre de l'instruction publique, des beaux-arts et des cultes,
 
 RENÉ GOBLET.
+
+Fac-similé du Journal officiel du 31 octobre 1886
 
 7
 
