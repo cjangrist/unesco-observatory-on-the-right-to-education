@@ -24,7 +24,7 @@ Eleventh consultation of Member  States on the application of the Convention and
 
 ## 1. Introduction
 
-The Convention against Discrimination in Education ('the Convention') and the Recommendation against  Discrimination  in  Education  ('the  Recommendation'),  adopted  by  UNESCO's  General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'ad vance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
+The Convention against Discrimination in Education ('the Convention') and the Recommendation against Discrimination in Education ('the Recommendation'), adopted by UNESCO's General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'advance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
 
 The right to education is one of the key principles underpinning the Education 2030 agenda and Sustainable Development Goal 4 (SDG4) adopted by the international community in 2015. SDG 4 seeks to ensure the full enjoyment of the right to education as fundamental to achieving sustainable development. Its scope captures the multidimensional nature of the right to education.
 
@@ -54,7 +54,7 @@ There are differences in the legal nature of the obligations under the Conventio
 
 Bearing in mind the differences in legal scope inherent to the nature of these two categories of instruments,  the  content  of  the  Recommendation  is  identical  to  that  of  the  Convention.  Member States are expected to give effect to it in national legislation and education policies.
 
-The  reporting  obligation  under  the  provisions  of  Article  VII  of  the  Convention  and  of  the Recommendation is the same. Article VIII of UNESCO's Constitution states that ' Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General  Conference,  reports  on  the  laws,  regulations  and  statistics  relating  to  its  educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to i n Article IV, paragraph 4' . Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
+The reporting obligation under the provisions of Article VII of the Convention and of the Recommendation is the same. Article VIII of UNESCO's Constitution states that 'Each Member State shall submit to the Organization, at such times and in such manner as shall be determined by the General Conference, reports on the laws, regulations and statistics relating to its educational, scientific and cultural institutions and activities, and on the action taken upon the recommendations and conventions referred to in Article IV, paragraph 4'. Therefore, even if a country is not a State Party to the Convention, it needs to submit a report on the implementation of the Recommendation, which means that all UNESCO Member States are expected to submit a national report on the implementation of these instruments in the context of monitoring consultations.
 
 > 1 https://www.unesco.org/en/right-education/evolving
 
@@ -84,7 +84,7 @@ In the preparation of reports, Member States are encouraged to provide substanti
 
 Relevant information supplied for other reporting instances may be reproduced or referred to with precise indication as to its retrieval. Similarly, hyperlinks to any useful documents or relevant legal and policy texts are most welcome and texts can also be added in the annex.
 
-Country reports submitted for previous consultations can be found on the Observatory on the right to education 7 in the monitoring section of the country profile. The information provided in the reports are valuable both for the Observatory on the right to education as well as for HerAtlas 8 , the online monitoring tool for girls' and women's right to education. Information and data regarding countries ' education systems are also available through the UNESCO Institute for Statistics database 9 . Beyond monitoring  purposes,  the  consultation  findings  and  reports  inform  broader  work  -  serving  for knowledge generation, advocacy, and technical cooperation.
+Country reports submitted for previous consultations can be found on the Observatory on the right to education 7 in the monitoring section of the country profile. The information provided in the reports are valuable both for the Observatory on the right to education as well as for HerAtlas 8, the online monitoring tool for girls' and women's right to education. Information and data regarding countries' education systems are also available through the UNESCO Institute for Statistics database 9. Beyond monitoring purposes, the consultation findings and reports inform broader work - serving for knowledge generation, advocacy, and technical cooperation.
 
 ## 5. Modalities and structure
 
@@ -108,9 +108,9 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 [[START OF PAGE 6]]
 
-- Open-ended  and  closed-ended  questions  to  be  directly  filled  in  by  Member  States. Please note that multiple answers may be provided where relevant.
+(1) Open-ended and closed-ended questions to be directly filled in by Member States. Please note that multiple answers may be provided where relevant.
 
-- Additional  information  aimed  at  guiding  Members  States  to  structure  and  detail  their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
+(2) Additional information aimed at guiding Members States to structure and detail their responses to the open-ended questions (including remarks on how to respond efficiently to the questions raised). These elements are presented in italics.
 
 [[END OF PAGE 6]]
 
@@ -128,7 +128,7 @@ Name of contact person: Sylvia Schrittwieser-Tschach
 
 Email and telephone number of contact person: sylvia.schrittwieser-tschach@bmbwf.gv.at
 
-## Ratification and applicability of the Convention against Discrimination in Education 10
+## I. Ratification and applicability of the Convention against Discrimination in Education 10
 
 - Is your country a State Party to the Convention?
 
@@ -178,7 +178,7 @@ Yes: Have the provisions of the Convention been invoked?
 
 Information could also be given about the judicial, administrative and other competent authorities having jurisdiction with respect to the right to education.
 
-## Information  on  the  implementation  of  the  Convention  or  Recommendation  in  the  context  of Sustainable Development Goal 4 (SDG4)
+## II. Information on the implementation of the Convention or Recommendation in the context of Sustainable Development Goal 4 (SDG4)
 
 ### 1. Towards an inclusive non-discriminatory education system
 
@@ -206,7 +206,7 @@ For reference: This notably is covered under SDG target 4.1 and partly target 4.
 
 > 13 See: Article/Paragraph 1(1).
 
-> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher  education,  including  vocational  training  and  information  and  communications  technology,  technical, engineering and scientific programm es'.
+> 14 Which calls on states to 'substantially expand globally the number of scholarships available […] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes'.
 
 [[END OF PAGE 8]]
 
@@ -256,7 +256,7 @@ Minority School Act for Carinthia and Minority School Act for Burgenland: (bilin
 Further legal bases: Section V of Part III of the State Treaty of Saint-Germain-en-Laye, Article 7 of the State Treaty of Vienna, Article 8 of the Federal Constitution and the Charter for Regional and Minority Languages of the Council of Europe
 ##### People on the move:
 § 4 School Organisation Act: equal access to school
-§ 8h School Organisation Act, § 18 Abs. 14 and 15 School Education Act (Schulunterrichtsgesetz): language classes for newcomers (Deutschförderklassen, kurse)
+§ 8h School Organisation Act, § 18 Abs. 14 and 15 School Education Act (Schulunterrichtsgesetz): language classes for newcomers (Deutschförderklassen, -kurse)
 § 18 Abs. 12 School Education Act: language exchange
 § 1 Compulsory Schooling Act (Schulpflichtgesetz 1985): compulsory education for all permanent resident children in Austria (9 school years)
 ##### People with disabilities:
@@ -265,7 +265,7 @@ Further legal bases: Section V of Part III of the State Treaty of Saint-Germain-
 §§ 9 Abs. 2, 21a Abs. 3, 28 Abs. 4, 34 Abs. 2, 52 Abs. 3 School Organisation Act: inclusion of disabled children in regular schools
 § 9 Abs. 6 Z 14 Higher Education Act: special attention to the needs of people with disabilities
 ##### Students from poor households:
-§ 5 School Organisation Act, § 14 Federal Act on the Principles for the Establishment, Maintenance and Closing of Public Compulsory Schools (Pflichtschulerhaltungs- Grundsatzgesetz): primary and secondary education is free of charge
+§ 5 School Organisation Act, § 14 Federal Act on the Principles for the Establishment, Maintenance and Closing of Public Compulsory Schools (Pflichtschulerhaltungs-Grundsatzgesetz): primary and secondary education is free of charge
 Student Aid Act (Schülerbeihilfengesetz 1983): school and accommodation grants; care and overnight accommodation contribution; extraordinary support for hardship cases
 
 [[END OF PAGE 10]]
@@ -299,8 +299,6 @@ Federal Act of Financing the Digitalization of School Education (Bundesgesetz zu
 
 - Please list the prohibited grounds of discrimination in education as laid out in legal texts:
 
-- Please provide details:
-
 See above
 
  Policies, programmes and initiatives aim to prohibit and prevent discrimination and ensure equal access to education
@@ -316,6 +314,8 @@ See above
  In higher education
 
 X In adult education and alternative learning
+
+- Please provide details:
 
 ##### Pre-primary education:
 
@@ -349,11 +349,11 @@ X In higher education
 
 Bundesländerübergreifender Bildungsrahmenplan
 
-file:///C:/Users/zugu/Downloads/200710_Elementarp%C3%A4dagogik_Publikation _A4_WEB-4.pdf
+file:///C:/Users/zugu/Downloads/200710_Elementarp%C3%A4dagogik_Publikation_A4_WEB-4.pdf
 
 Werteleitfaden: Werte, leben, Werte bilden
 
-https://www.integrationsfonds.at/fileadmin/user_upload/Werteleben_Wertebilde n_OEIF.pdf
+https://www.integrationsfonds.at/fileadmin/user_upload/Werteleben_Wertebilden_OEIF.pdf
 
 ##### Primary, secondary education, technical and vocational education and training:
 
@@ -412,7 +412,7 @@ As  part  of  their  2020/21  (measure  5.1.)  and 2023/24 (measure 2.2.) resour
 
 > 16 Teachers are prepared to teach all student (beyond just students with disabilities), equipping them with knowledge, values and attitudes that permit every student to succeed. See: UNESCO policy paper: Inclusive teaching: preparing all teachers to teach all students, 2020, p.14.
 
-> 17 Multiple and flexible learning pathways are 'entry points and re -entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge,  skills  and  c ompetencies  acquired  through  nonformal  and  informal  education'  ( Education  2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
+> 17 Multiple and flexible learning pathways are 'entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge, skills and competencies acquired through nonformal and informal education' (Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
 
 > 18 In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background.
 
@@ -592,7 +592,7 @@ Pre Admission to degree programmes: In case that proof of knowledge of the Germa
 
 > 19 ' Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them' (Cambridge Dictionary).
 
-> 20 ' Gendersensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
+> 20 ' Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
 
 > 21 Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
 
@@ -670,7 +670,7 @@ For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provid
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
-On the basis of the Minority School Acts for Carinthia and Burgenland, bilingual education is offered  in  German/(Burgenland-)Croatian,  German/Slovenian  and  German/Hungarian  at primary school level and (Burgenland-)Croatian/Slovenian/Hungarian education is offered at  secondary  school  level.  Furthermore,  Romansh  is  offered  as  an  optional  subject  in Burgenland. Further legal bases are Section V of Part III of the State Treaty of Saint-Germainen-Laye, Article 7 of the State Treaty of Vienna, Article 8 of the Federal Constitution and the Charter for Regional and Minority Languages of the Council of Europe ratified by Austria.
+On the basis of the Minority School Acts for Carinthia and Burgenland, bilingual education is offered in German/(Burgenland-)Croatian, German/Slovenian and German/Hungarian at
 
 > 23 Please see: UNESCO report 'The right to education of minorities: Overview of States' measures reported in the 10th Consultation on the 1960 Convention and Recommendation against Discrimination in Education, 2023.
 
@@ -681,6 +681,7 @@ On the basis of the Minority School Acts for Carinthia and Burgenland, bilingual
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
+primary school level and (Burgenland-)Croatian/Slovenian/Hungarian education is offered at secondary school level. Furthermore, Romansh is offered as an optional subject in Burgenland. Further legal bases are Section V of Part III of the State Treaty of Saint-Germain-en-Laye, Article 7 of the State Treaty of Vienna, Article 8 of the Federal Constitution and the Charter for Regional and Minority Languages of the Council of Europe ratified by Austria.
 
 - What challenges were encountered in realizing the right to education of minorities? If needed, brief quantitative information may be added.
 
@@ -720,13 +721,9 @@ One challenge is the transition from primary to secondary level. In Carinthia, 2
 
 - What  challenges  were  encountered  in  realizing  the  right  to  education  of  indigenous  people?  If needed, brief quantitative information may be added.
 
-26
+> 26 Supra note 15.
 
-27
-
-Supra note 15.
-
-Supra note 16.
+> 27 Supra note 16.
 
 [[END OF PAGE 20]]
 
@@ -790,7 +787,7 @@ In addition to already above mentioned measures :
 
 [[START OF PAGE 22]]
 
-Compulsory  education  for  permanent  resident children in Austria is laid  down  at Constitutional level. Specific measures for learning German are foreseen for pupils of nonGerman mother tongue or lack of knowledge of Germa n ('Deutschförderklassen').
+Compulsory education for permanent resident children in Austria is laid down at Constitutional level. Specific measures for learning German are foreseen for pupils of non-German mother tongue or lack of knowledge of German ('Deutschförderklassen').
 
 https://rundschreiben.bmbwf.gv.at/download/2024_05_beilage.pdf
 
@@ -880,11 +877,11 @@ School and accommodation grants; Relief of childcare fees for all-day schools; C
 
 [[START OF PAGE 24]]
 
-### Progress made with respect to implementing the right to education across all levels and forms of education
+### 2. Progress made with respect to implementing the right to education across all levels and forms of education
 
 #### 2.1 Early childhood care and education
 
-For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explicitly  provided  for  in  the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initi ally recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent  Declaration  and  Commitments  to  Action  for  Transforming  Early  Childhood  Care  and Education 38 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre -primary education'.
+For reference: Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized 'the right to education during early childhood as beginning at birth' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 37 and more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education 38. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to 'the provision of at least one year of free and compulsory pre-primary education'.
 
 - Please indicate the measures taken to ensure access to quality ECCE (several items may be ticked):
 
@@ -892,7 +889,7 @@ For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explic
 
  Prior to pre-primary education, ECCE services are affordable
 
- ECCE services are accessible on a non- discriminatory basis
+ ECCE services are accessible on a non-discriminatory basis
 
  ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
@@ -946,7 +943,7 @@ Almost 98% of all children at the age of 5 years attend pre-primary education in
 
 #### 2.2 Primary and secondary education
 
-For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclus ive, equitable, quality primary and secondary education -of which at least nine years are compulsory.'
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation provides for universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide '12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education – of which at least nine years are compulsory.'
 
 ##### Primary education
 
@@ -972,19 +969,19 @@ The duration of primary education is 4 years, usually between the age of 6 and 1
 
 Compulsory Schooling Act 1985 (Schulpflichtgesetz 1985):
 
-https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnumme r=10009576
+https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009576
 
-Basic Act on the Maintenance of Compulsory Schools (Pflichtschulerhaltungs- Grundsatzgesetz):
+Basic Act on the Maintenance of Compulsory Schools (Pflichtschulerhaltungs-Grundsatzgesetz):
 
-https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnumme r=10009231
+https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009231
 
-School Organisation Act (SchOG - Schulorganisationsgesetz):
+School Organisation Act (SchOG – Schulorganisationsgesetz):
 
-https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnumme r=10009265
+https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009265
 
 School Education Act 1986 (Schulunterrichtsgesetz):
 
-https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnumme r=10009600
+https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600
 
 School utensils such as exercise books, pencils etc. must be covered individually. For school events  (such  as  sports  weeks,  project  days/weeks  etc.)  or  school-related  events  (e.g. competitions,  contests,  theatre  visits)  cost  contributions  for  transport,  accommodation, meals, admissions, courses etc. may be  charged.
 
@@ -1002,9 +999,11 @@ Private schools may charge tuition fees.
 
  Other:
 
-
-
-Poor learning outcomes in: Foundation literacy Numeracy Social and emotional learning Others
+ Poor learning outcomes in:
+Foundation literacy
+Numeracy
+Social and emotional learning
+Others
 
  Disparity in learning outcomes
 
@@ -1038,7 +1037,7 @@ X Lower secondary education is free of charge.
 
  Lower secondary education is not free of charge.
 
-X Upper secondary education is compulsory - only if the last year of compulsory education is completed at an upper sec. education institution.
+X Upper secondary education is compulsory – only if the last year of compulsory education is completed at an upper sec. education institution.
 
  Upper secondary education is not compulsory.
 
@@ -1060,7 +1059,7 @@ Basic Act on the Maintenance of Compulsory Schools (Pflichtschulerhaltungs-Grund
 
 https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009231
 
-School Organisation Act (SchOG -Schulorganisationsgesetz):
+School Organisation Act (SchOG – Schulorganisationsgesetz):
 
 https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009265
 
@@ -1102,11 +1101,11 @@ Duration  of  compulsory  education  in  Austria  is  9  years  ('Schulpflichtge
 
 [[START OF PAGE 29]]
 
-#### 2.3 Higher education
-
  Other:
 
 - Please elaborate. Brief quantitative information may be added.
+
+#### 2.3 Higher education
 
 For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  higher education. Ensuring higher education is essential to achieve SDG4, both targets 4.3 39 , and target 4.4 40 . Article 4 of the Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by 'every appropriate means, and in particular by the progressive introduction of free education'. Higher education includes technical and vocational education and training.
 
@@ -1194,7 +1193,7 @@ Due to different providers of upskilling and reskilling courses, another importa
 
 - Please elaborate further on the measures taken:
 
-In order to facilitate the access to education and training different forms of education and training as well as educational guidance for adults are offered throughout Austria. For example the ' Level up Erwachsenenbildung' (Austrian Initiative for Adult Education) is offering free of charge courses for all adults across Austria. Its objective, is to enable adults who lack basic skills (literacy, numeracy, digital competences)  or never graduated from a lower secondary school to continue and finish their education.
+In order to facilitate the access to education and training different forms of education and training as well as educational guidance for adults are offered throughout Austria. For example the „Level up - Erwachsenenbildung“ (Austrian Initiative for Adult Education) is offering free of charge courses for all adults across Austria. Its objective, is to enable adults who lack basic skills (literacy, numeracy, digital competences) or never graduated from a lower secondary school to continue and finish their education.
 
 Other examples are the educational guidance networks ('Bildungsberatung Österreich') in every province, where interested persons can get information about learning and upskilling/reskilling opportunities as well as information about (public) funding for learners. Both initatives are funded by the federal government, the provinces and the European Social Fund to offer free educational services across Austria.
 
@@ -1228,7 +1227,7 @@ Other examples are the educational guidance networks ('Bildungsberatung Österre
 
 ### 3. Quality education provision and learning environment
 
-For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends state s to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
+For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all'.
 
 #### 3.1 General measures
 
@@ -1256,19 +1255,19 @@ You may include information on policies, protocols or codes of conduct.
 
 BD-EG, § 5: Bildungsdirektionen-Einrichtungsgesetz, § 5; BGBl. I Nr. 138/2017 vom 15.9.2017; Inkrafttretensdatum 1.1.2019
 
-https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer =20009982&FassungVom=2020-08-31
+https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20009982&FassungVom=2020-08-31
 
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
 
-SQM-VO: Verordnung des Bundesministers für Bildung, Wissenschaft und Forschung betreffend das Schulqualitätsmanagement; BGBl. II Nr. 158/2019 vom 13.6.2019 https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer =20010681
+SQM-VO: Verordnung des Bundesministers für Bildung, Wissenschaft und Forschung betreffend das Schulqualitätsmanagement; BGBl. II Nr. 158/2019 vom 13.6.2019 https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010681
 
-SchUG, § 56. (2): Schulunterrichtsgesetz, § 56. (2); BGBl. I Nr. 29/2011 vom 20.5.2011 https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer =10009600
+SchUG, § 56. (2): Schulunterrichtsgesetz, § 56. (2); BGBl. I Nr. 29/2011 vom 20.5.2011 https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600
 
 The universities  are  subject  to  supervision  by  the  Federal  Government.  This  shall  comprise monitoring  of  compliance  with  the  acts,  decrees  and  the  universities´  statutes  (legal supervision)
 
-§ 58 Universities Act: Curricula shall contain a qualification profile. Curricula of bachelor´s and master´s programmes shall be designed in a way that studies at foreign recognized postsecondary educational institutions are possible, whereby care shall be taken to ensure that this is possible without loss of study time. Curricula shall be designed in a way that the allocation of ECTS credits correspond to the actual workload.
+§ 58 Universities Act: Curricula shall contain a qualification profile. Curricula of bachelor´s and master´s programmes shall be designed in a way that studies at foreign recognized post-secondary educational institutions are possible, whereby care shall be taken to ensure that this is possible without loss of study time. Curricula shall be designed in a way that the allocation of ECTS credits correspond to the actual workload.
 
 - What challenges were encountered in realizing quality education?
 
@@ -1338,9 +1337,9 @@ https://www.qsr.or.at/?content/der-qsr/index
 
  Lack of qualified, trained and motivated teaching staff
 
-- o Low quality educational infrastructure and materials
+o Low quality educational infrastructure and materials
 
-- o High student - teacher ratio
+o High student – teacher ratio
 
 [[END OF PAGE 34]]
 
@@ -1412,11 +1411,11 @@ Religious  education  at  school  is  compulsory  for  all  pupils  who  belong 
 
  Legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of non-state educational institutions. Please specify what is covered:
 
-- X Registration
+X Registration
 
-- X State monitoring and inspections
+X State monitoring and inspections
 
-- X Qualifications of teachers
+X Qualifications of teachers
 
 X Health and sanitation
 
@@ -1446,7 +1445,7 @@ Further regulations are defined by the Act on Private Schools.
 
  Low number of professionally trained teachers
 
- High student - teacher ratio
+ High student – teacher ratio
 
  Other:
 
@@ -1478,7 +1477,7 @@ SchulDigiG § 1: The purpose of this federal law is to enable information and co
 
  Regulatory framework establishes minimum education standards for digital education to which all actors in education must comply.
 
- Measures to remove barriers to accessing digital content 45 , including ensuring access to curriculumaligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
+ Measures to remove barriers to accessing digital content 45 , including ensuring access to curriculum-aligned digital content available on free, public, multi-modal national platforms; high-quality content is available in core subjects, official national language(s), and designed with inclusive features to assist learners with disabilities.
 
  Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a  culture  of  digital  innovation  and  growth  anchored  in  equity  and  inclusion  that  enables  ongoing professional development for existing and emerging staff.
 
@@ -1502,7 +1501,7 @@ SchulDigiG § 1: The purpose of this federal law is to enable information and co
 
 Curriculum Digitale Grundbildung and Teacher Training at the University Colleges of Teacher Education: https://www.bmbwf.gv.at/Themen/schule/zrp/dibi/dgb.html
 
-Open Educational Resources - Eduthek: https://eduthek.at/
+Open Educational Resources – Eduthek: https://eduthek.at/
 
 - What challenges were encountered in digital education provision (check all that apply)?
 
@@ -1562,13 +1561,13 @@ For reference: The Education 2030 Framework for Action states "to ensure quality
 
  Lack of involvement of relevant stakeholders and lack of cooperation/coordination at different levels
 
- P oor dialogue with teachers' trade unions
+ Poor dialogue with teachers’ trade unions
 
  Other:
 
  Absence of supportive/ inconsistent/obsolete legal and policy environment
 
- Lack or weakness of monitoring systems - including the lack of reliable data
+ Lack or weakness of monitoring systems – including the lack of reliable data
 
 - Please elaborate. Brief quantitative information may be added.
 
