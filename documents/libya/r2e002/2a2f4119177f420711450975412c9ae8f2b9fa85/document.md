@@ -1,5 +1,7 @@
 [[START OF PAGE 1]]
 
+# LIBYA CONSTITUTION 1969
+
 ## PREAMBLE
 
 The Revolutionary Command Council, in the name of the Arab people in Libya, who pledged to restore their freedom, enjoy the wealth of their land, live in a society in which  every  loyal  citizen  has  the  right  to  prosperity  and  well-being,  who  are determined to break the restraints which impede their growth and their development, who will stand with their brothers from all parts of the Arab Nation in the struggle for the  restoration  of  every  inch  of  Arab  land  desecrated  by  imperialism  and  for  the elimination of all obstacles which prevent Arab unity from the Gulf to the Ocean. In the  name  of  the  Libyan  people  who  believe  that  peace  cannot  be  achieved  without justice,  who  are  conscious  of  the  importance  of  strengthening  the  ties  which  unite them with all the people of the world who are struggling against imperialism; who understand fully that the alliance of reaction and imperialism is responsible for their underdevelopment  despite  the  abundance  of  their  natural  resources,  and  for  the corruption which spread through the governmental apparatus; who are conscious of their  responsibility  in  the  establishment  of  a  national,  democratic,  progressive,  and unitary government.
@@ -14,7 +16,7 @@ The  present Constitutional Proclamation is made  to provide a basis for the org
 
 Libya is an Arab, democratic, and free republic in which sovereignty is vested in the people. The Libyan people are part of the Arab nation. Their goal is total Arab unity. The Libyan territory is a part of Africa. The name of the country is the Libyan Arab Republic.
 
-# LIBYA CONSTITUTION 1969
+
 
 [[END OF PAGE 1]]
 
@@ -30,7 +32,7 @@ Social  solidarity  constitutes  the  foundation  of  national  unity.  The  fam
 
 ### Article 4 [Work]
 
-Work in the  Libyan  Arab  Republic  is  a  right,  a  duty,  and  an  honour  for  earnablebodied citizen. Public functions are the duty of those who are put in charge of them. The goal of the state employees in discharging their duties is to serve the people.
+Work in the Libyan Arab Republic is a right, a duty, and an honour for earnable-bodied citizen. Public functions are the duty of those who are put in charge of them. The goal of the state employees in discharging their duties is to serve the people.
 
 ### Article 5 [Equality]
 
@@ -46,7 +48,7 @@ The state will endeavor to liberate the national economy from dependence and for
 
 ### Article 8 [Property]
 
-Public ownership is the basis of the development of society, of its growth and of selfsufficiency  in  production.  Private  ownership,  if  it  is  non-exploitative,  is  protected. Expropriation will take place only in accordance with the law. Inheritance is a right which will be governed by the Islamic Shari'a.
+Public ownership is the basis of the development of society, of its growth and of self-sufficiency in production. Private ownership, if it is non-exploitative, is protected. Expropriation will take place only in accordance with the law. Inheritance is a right which will be governed by the Islamic Shari'a.
 
 ### Article 9 [Planning]
 
