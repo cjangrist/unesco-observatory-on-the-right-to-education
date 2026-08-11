@@ -2,7 +2,9 @@
 
 # TERTIARY EDUCATION STRATEGY
 
-2014-2019
+2014–2019
+
+newzealand.govt.nz
 
 [[END OF PAGE 1]]
 
@@ -14,11 +16,24 @@
 
 [[START OF PAGE 3]]
 
-# 2014-2019 TERTIARY EDUCATION STRATEGY
+# TERTIARY EDUCATION STRATEGY
 
-Published by the Ministry of Education and the Ministry of Business, Innovation and Employment. March 2014
+2014–2019
 
-ISBN 978-0-478-42254-2 ( Print)
+newzealand.govt.nz
+
+MINISTRY OF BUSINESS, INNOVATION & EMPLOYMENT
+
+HĪKINA WHAKATUTUKI
+
+MINISTRY OF EDUCATION
+
+Te Tāhuhu o te Mātauranga
+
+Published by the Ministry of Education and the Ministry of Business, Innovation and Employment.
+March 2014
+
+ISBN 978-0-478-42254-2 (Print)
 
 ISBN 978-0-478-42255-9 (Web)
 
@@ -35,6 +50,23 @@ iv TERTIARY EDUCATION STRATEGY
 [[START OF PAGE 5]]
 
 ## Contents
+
+Minister’s foreword 2
+Introduction 3
+The international context for this strategy 4
+The state of tertiary education in New Zealand 5
+What New Zealand needs from tertiary education 6
+Achieving for NZ requires a strong focus on outcomes … 7
+… and on Māori educational success and related strategies 7
+Six strategic priorities 8
+Priority 1: Delivering skills for industry 9
+Priority 2: Getting at-risk young people into a career 11
+Priority 3: Boosting achievement of Māori and Pasifika 12
+Priority 4: Improving adult literacy and numeracy 15
+Priority 5: Strengthening research-based institutions 16
+Priority 6: Growing international linkages 18
+System expectations 21
+Delivering the Strategy 22
 
 TERTIARY EDUCATION STRATEGY 2014-2019
 
@@ -114,7 +146,7 @@ One of the great strengths of the New Zealand education system is its flexibilit
 
 On an international level, New Zealand's tertiary education system is doing well.
 
-- We have high levels of participation in education: 81% of 15-19 year olds, 29% of 2029 year olds, 11% of 30-39 year olds, and 4% of those aged 40 and over were participating in education (including school) in 2011. These rates are above the OECD average for all age levels except 15-19 year olds.
+- We have high levels of participation in education: 81% of 15-19 year olds, 29% of 20-29 year olds, 11% of 30-39 year olds, and 4% of those aged 40 and over were participating in education (including school) in 2011. These rates are above the OECD average for all age levels except 15-19 year olds.
 
 - We have high levels of attainment: approximately 50% of New Zealanders aged 15 and over have a tertiary qualification, and 17% have a bachelors degree or higher. In 2011, 46% of the population between the ages of 25 and 34 held a qualification at diploma level or above, compared to the OECD average of 39%.
 
@@ -166,6 +198,10 @@ We need a tertiary education system that continues to have strong international 
 
 ### Over the coming decades, the tertiary education system will need to:
 
+#### Continue to improve the quality and relevance of tertiary education and research
+
+Growing international competition for talent means that New Zealand needs higher quality, more relevant provision from TEOs that offers value for money and improved outcomes for the country.
+
 #### Build international relationships that contribute to improved competitiveness
 
 TEOs need a stronger connection to the world through academic and research links, cross-border education and business relationships. New Zealand needs to strategically extend these relationships to realise new opportunities, especially in emerging markets.
@@ -174,15 +210,11 @@ TEOs need a stronger connection to the world through academic and research links
 
 TEOs need to develop the skills and knowledge essential for innovation and business growth. New Zealand needs TEOs and industry to work together more closely, to enhance knowledge transfer and the relevance of the skills and knowledge developed.
 
-#### Continue to improve the quality and relevance of tertiary education and research
-
-Growing international competition for talent means that New Zealand needs higher quality, more relevant provision from TEOs that offers value for money and improved outcomes for the country.
-
-The priorities outlined in this strategy set out the changes needed to achieve this longer-term direction.
-
 #### Improve outcomes for all
 
-A more prosperous society supports all individuals to achieve their aspirations.Tertiary education can promote prosperity by supporting a swift and sustained recovery from the global economic slowdown and from shocks such as the Christchurch earthquakes. New Zealand needs to ensure that more people, including more people from priority groups, have the transferable skills in demand as employment rises, and that will support them in all other areas of their lives.
+A more prosperous society supports all individuals to achieve their aspirations. Tertiary education can promote prosperity by supporting a swift and sustained recovery from the global economic slowdown and from shocks such as the Christchurch earthquakes. New Zealand needs to ensure that more people, including more people from priority groups, have the transferable skills in demand as employment rises, and that will support them in all other areas of their lives.
+
+The priorities outlined in this strategy set out the changes needed to achieve this longer-term direction.
 
 6 TERTIARY EDUCATION STRATEGY 2014-2019
 
@@ -204,13 +236,13 @@ This strategy focuses in particular on the economic benefits that result from te
 
 Better performance in these areas will also bring other benefits, as people gain the skills and knowledge they need to more fully and effectively participate in workplaces, society, and the community.
 
-### Environmental outcomes
-
-An effective society will deliver improved environmental outcomes. The tertiary education sector contributes to these better outcomes by providing individuals and communities with the skills and knowledge to recognise the importance of maintaining the integrity of ecosystems and of wisely managing natural resources for current and future generations.
-
 ### Social outcomes
 
 Tertiary education provides individuals and communities with the opportunity to improve their own social outcomes by gaining the skills they need to become successful and productive citizens. These skills also promote social cohesion and democratic values and support all New Zealanders from all backgrounds to live in a prosperous, safe, and equal society.
+
+### Environmental outcomes
+
+An effective society will deliver improved environmental outcomes. The tertiary education sector contributes to these better outcomes by providing individuals and communities with the skills and knowledge to recognise the importance of maintaining the integrity of ecosystems and of wisely managing natural resources for current and future generations.
 
 ## … and on Māori educational success and related strategies
 
@@ -218,15 +250,15 @@ In recognising the role of Māori as tangata whenua and Crown partners under the
 
 Tertiary education also contributes to Māori cultural outcomes - such as greater knowledge and use of Māori language and tikanga Māori, and development of mātauranga Māori. TEOs have a responsibility to contribute to the survival and wellbeing of Māori as a people.
 
-The Ministry of Education's Māori education strategy Ka Hikitia - Accelerating Success 2013-17 , and its Māori language in education strategy Tau Mai Te Reo , recognise the Crown's responsibilities to work collaboratively with iwi:
+The Ministry of Education’s Māori education strategy Ka Hikitia – Accelerating Success 2013-17, and its Māori language in education strategy Tau Mai Te Reo, recognise the Crown’s responsibilities to work collaboratively with iwi:
 
-- to help improve Māori achievement, and  recognise the economic benefits to individuals, groups, and society from improved levels of skills and education
+- to help improve Māori achievement, and recognise the economic benefits to individuals, groups, and society from improved levels of skills and education
 
 - under the Treaty of Waitangi to support Māori aspirations, such as strengthened Māori language and mātauranga Māori research.
 
-In addition, He Kai Kei Aku Ringa - the Māori Economic Development Strategy & Action Plan - highlights a need to improve economic outcomes for Māori and for New Zealand as a whole through stronger education and workforce connections.
+In addition, He Kai Kei Aku Ringa – the Māori Economic Development Strategy & Action Plan – highlights a need to improve economic outcomes for Māori and for New Zealand as a whole through stronger education and workforce connections.
 
-A focus on Māori educational success is provided in Priority 3 of this strategy. Achieving this priority must be underpinned by TEOs working in partnership with Māori and iwi to support Māori language, tikanga Māori and mātauranga Māori, as set out later in this document (see System Expectations ).
+A focus on Māori educational success is provided in Priority 3 of this strategy. Achieving this priority must be underpinned by TEOs working in partnership with Māori and iwi to support Māori language, tikanga Māori and mātauranga Māori, as set out later in this document (see System Expectations).
 
 7 TERTIARY EDUCATION STRATEGY 2014-2019
 
@@ -254,11 +286,11 @@ TERTIARY EDUCATION STRATEGY
 
 A skilled labour force helps build and sustain economic growth. In any given year in New Zealand, about 250,000 new jobs are created, and a similar number cease. However, as we move out of the global financial crisis, employers are once again starting to find it difficult to attract people with an appropriate range of both specific and transferable skills. This is illustrated in the graph below:
 
-#### Ease of Finding Skilled Labour - based on the Quarterly Survey of Business Opinion (QSBO) 1
-
-7
+#### Ease of Finding Skilled Labour – based on the Quarterly Survey of Business Opinion (QSBO)¹
 
 8
+
+7
 
 6
 
@@ -268,17 +300,17 @@ A skilled labour force helps build and sustain economic growth. In any given yea
 
 3
 
-Sep - 13
-
-Sep - 11
-
-Sep - 09
-
-Sep - 07
+Sep - 03
 
 Sep - 05
 
-Sep - 03
+Sep - 07
+
+Sep - 09
+
+Sep - 11
+
+Sep - 13
 
 Ease of finding skilled labour (QSBO)
 
@@ -292,13 +324,13 @@ Ease of finding skilled labour (QSBO)
 
 0
 
--80
-
--60
+-20
 
 -40
 
--20
+-60
+
+-80
 
 Unemployment rate (%)
 
@@ -306,7 +338,7 @@ QSBO (lagged 2 quarters)
 
 Unemployment
 
-- 1 As published by the New Zealand Institute of Economic Research. The ease of finding skilled labour indicator (QSBO) provides a net rate by comparing the rate of firms finding it easier with the rate of firms finding it more difficult to find skilled labour. This indicator tracked closely with the unemployment rate indicator until 2009, from which time (despite a relatively high unemployment rate) employers have found it difficult to find skilled labour.
+1 As published by the New Zealand Institute of Economic Research. The ease of finding skilled labour indicator (QSBO) provides a net rate by comparing the rate of firms finding it easier with the rate of firms finding it more difficult to find skilled labour. This indicator tracked closely with the unemployment rate indicator until 2009, from which time (despite a relatively high unemployment rate) employers have found it difficult to find skilled labour.
 
 TERTIARY EDUCATION STRATEGY 2014-2019
 
@@ -360,7 +392,7 @@ The Government has supported increased participation in tertiary education throu
 
 Wider improvements have included: students staying longer at school; more young people starting degree-level study (an increase from 24% of 18-19 year olds studying for bachelors degrees in 2009 to 26% in 2012); and a substantial decrease in the number of young people under 20 not in employment, education, or training.
 
-of this age group), a substantial number of young people are still at risk. 2 As nearly all of the decrease has been in the under 20 age group, a greater focus is needed to improve education and employment outcomes for 20-24 year olds.
+However, we need to do more to reduce the number of young people not gaining the qualifications or work experience they need for a career. While the number of people aged 15-24 not in employment, education or training has decreased from 62,000 in 2010 (9.7% of this age group) to 55,000 in 2013 (8.6% of this age group), a substantial number of young people are still at risk.² As nearly all of the decrease has been in the under 20 age group, a greater focus is needed to improve education and employment outcomes for 20-24 year olds.
 
 Achieving this priority will require TEOs, schools, government, and industry to work together to ensure that young people have the appropriate access and incentives to gain relevant qualifications and core personal skills that will support them into sustainable employment.
 
@@ -371,8 +403,6 @@ This priority recognises the importance of effective transitions for all young p
 #### INDICATORS OF SUCCESS
 
 The number of young people not in employment, education or training reduces.
-
-However, we need to do more to reduce the number of young people not gaining the qualifications or work experience they need for a career. While the number of people aged 15-24 not in employment, education or training has decreased from 62,000 in 2010 (9.7% of this age group) to 55,000 in 2013 (8.6%
 
 The Better Public Services targets are attained (in 2017, 85% of 18 year olds achieving NCEA level 2 or an equivalent qualification and 55% of 25-34 year olds having a qualification at level 4 or above) and there is continued improvement beyond 2017.
 
@@ -518,13 +548,15 @@ Over recent years, TEOs' research capacity has been supported by increased exter
 
 Progress in improving the quality and quantity of research outputs needs to continue. The Government has increased its investment in the Performance-Based Research Fund, and is proposing changes to reduce compliance costs, encourage the development of the research workforce, and reward tertiary education organisations that attract research funding from industry, iwi and not-for-profit organizations.
 
-The Government is reshaping science and innovation funding to focus more on business-led research and areas of priority. The ten National Science Challenges are collaborative programmes, to which tertiary education sector researchers are expected to contribute significantly. Contestable research funding will continue to encourage and reward innovative, high quality, collaborative work by researchers in the tertiary education sector, the private sector and Crown Research Institutes.
+The Government is reshaping science and innovation funding to focus more on business-led research and areas of priority. The ten National Science Challenges are collaborative programmes, to which tertiary education sector researchers are
 
 16 TERTIARY EDUCATION STRATEGY 2014-2019
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
+
+expected to contribute significantly. Contestable research funding will continue to encourage and reward innovative, high quality, collaborative work by researchers in the tertiary education sector, the private sector and Crown Research Institutes.
 
 To capitalise on these investments, we need to strengthen the relationship between high quality research and value created by New Zealanders. The Government expects TEOs to work more closely with industry to improve the relevance of research and achieve greater transfer of knowledge, ideas and expertise to industry and wider society. We want to increase the tertiary education system's impact on innovation occurring across the country, and hence lift economic growth.
 
@@ -536,9 +568,7 @@ Some of the activities that will help to build research capability and the quali
 
 - more internships and employer-linked postgraduate research
 
-- more opportunities for staff from across TEOs and industry to share research activities, and
-
-to learn from each other's experience and skills
+- more opportunities for staff from across TEOs and industry to share research activities, and to learn from each other's experience and skills
 
 - more opportunities for business to grow, through innovation, and increased private sector investment in research activity with commercial potential.
 
@@ -570,13 +600,15 @@ International education helps to improve domestic teaching and learning so that 
 
 International education also improves New Zealand's connections to the wider world, including through research and business links. It provides New Zealand with lifelong ambassadors, as graduates returning to their home countries share their good experiences with friends, family and colleagues. International education also helps to build a skilled workforce in New Zealand, as international students acquire in-demand skills through their education here and choose to remain and contribute to our economy.
 
-In recent years, the Government has continued to support international PhD students to study at domestic rates in New Zealand, leading to rapid increase in international PhD enrolments - up from 704 in 2005 to 3,354 in 2012, an increase of 376%. The Christchurch rebuild has been supported by extending the work rights of Canterbury's English language students, to draw more students into the region. Additionally, in 2011, the Government established the Crown entity Education New Zealand to promote international education: Education New Zealand's funding was increased by $40 million over 4 years in Budget 2011 and a further $40 million over four years in Budget 2013.
+In recent years, the Government has continued to support international PhD students to study at domestic rates in New Zealand, leading to rapid increase in international PhD enrolments - up from 704 in 2005 to 3,354 in 2012, an increase of 376%. The Christchurch rebuild has been supported by extending the work rights of Canterbury's English language students, to draw more students into the region. Additionally, in 2011, the Government established the Crown entity Education New Zealand to promote international education: Education New Zealand's funding was increased
 
 18 TERTIARY EDUCATION STRATEGY 2014-2019
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
+
+by $40 million over 4 years in Budget 2011 and a further $40 million over four years in Budget 2013.
 
 The Government's Leadership Statement for International Education sets out goals aimed at ensuring New Zealand's quality education services are highly sought after internationally and expand our international, social, cultural and economic engagement. This vision will support the Government's focus on shifting resources to the tradeable part of the economy so that New Zealand can earn its way in the world.
 
@@ -592,7 +624,7 @@ This focus will support the sector to double the total value of international ed
 
 - deliver high quality and internationally recognised qualifications that meet the needs of international students.
 
-TEOs working to achieve these goals will deliver stronger, long-lasting international relationships with students, with researchers, and with overseas tertiary organisations. These relationships reinforce each other: TEOs build delivery partnerships and research links with overseas institutions; domestic and off-shore student numbers increase; and, as we train smart people, the opportunities to attract them (and their peers) to live and work in New Zealand increases. This dynamic will help to ensure that our tertiary education system is internationally competitive and delivering the outcomes needed for New Zealand.
+TEOs working to achieve these goals will deliver stronger, long-lasting international relationships – with students, with researchers, and with overseas tertiary organisations. These relationships reinforce each other: TEOs build delivery partnerships and research links with overseas institutions; domestic and off-shore student numbers increase; and, as we train smart people, the opportunities to attract them (and their peers) to live and work in New Zealand increases. This dynamic will help to ensure that our tertiary education system is internationally competitive and delivering the outcomes needed for New Zealand.
 
 #### INDICATORS OF SUCCESS
 
@@ -725,7 +757,7 @@ The priorities outlined in this strategy set higher expectations for industry's 
 
 The Government also expects students to take responsibility for their own performance. This includes choosing courses carefully, working closely with TEOs to ensure they achieve to the best of their ability, and making the most of their learning environment and opportunities. The Government will support students to achieve good outcomes from tertiary education by providing financial assistance and the level of information needed to allow students to make good decisions about what and where to study.
 
-23 TERTIARY EDUCATION STRATEGY 2014-2019
+TERTIARY EDUCATION STRATEGY 2014-2019 23
 
 [[END OF PAGE 27]]
 
@@ -745,12 +777,6 @@ If everyone in the sector - teachers, teaching institutions, government agencies
 
 [[START OF PAGE 29]]
 
-TERTIARY EDUCATION STRATEGY
-
-2014-2019
-
-25
-
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
@@ -769,6 +795,13 @@ TERTIARY EDUCATION STRATEGY
 
 [[START OF PAGE 32]]
 
-(this page came through the extractor with no text)
+newzealand.govt.nz
+
+MINISTRY OF BUSINESS,
+INNOVATION & EMPLOYMENT
+HĪKINA WHAKATUTUKI
+
+MINISTRY OF EDUCATION
+Te Tāhuhu o te Mātauranga
 
 [[END OF PAGE 32]]
