@@ -2,8 +2,6 @@
 
 # REVISED EDUCATION SECTOR STRATEGIC PLAN 2007-2015
 
-(To Insert Map of Uganda)
-
 MINISTRY OF EDUCATION AND SPORTS
 
 SEPTEMBER 2008
@@ -15,6 +13,56 @@ SEPTEMBER 2008
 [[START OF PAGE 2]]
 
 # Table of Contents
+
+EXECUTIVE SUMMARY ...................................................................................................................... 3
+1.0 INTRODUCTION ...................................................................................................................... 6
+1.1 THE ESSP 2004-2015 ............................................................................................................... 6
+1.1.1 Purposes of the ESSP 2004-2015.......................................................................................... 6
+1.1.2 Economic context of the Plan................................................................................................ 6
+1.1.3 Demographic Trends............................................................................................................. 7
+1.1.4 The Long-Term Expenditure Framework.............................................................................. 8
+1.1.5 Sectoral context for the Plan................................................................................................. 9
+1.1.7 The Government White Paper on Education....................................................................... 11
+1.1.8 International long-term commitments................................................................................. 11
+1.1.9 Medium-term goals and plans............................................................................................. 13
+1.1.10 Education Sector Reviews (ESRs) and the Sector Undertakings.................................... 13
+1.1.11 Mid-term review of the ESIP (1998-2003)...................................................................... 14
+1.1.12 Department strategic plans............................................................................................. 14
+1.1.13 The National Poverty Eradication Action Plan .............................................................. 14
+1.1.14 Process of developing the ESSP 2004-2015 ................................................................... 14
+1.1.15 Changes to ESIP 1998-2003 and ESSP 2004-2015........................................................ 15
+1.2 THE REVISED ESSP 2007-2015............................................................................................... 15
+1.3 OVERALL POLICY THRUSTS IN THE ESSP 2007-2015.............................................................. 16
+1.4.4 Higher Education................................................................................................................ 19
+1.4.5 Teacher Education ............................................................................................................. 20
+2.0 POLICY OBJECTIVES OF THE REVISED ESSP 2007-2015. ........................................... 21
+IMPROVE EFFECTIVENESS AND EFFICIENCY IN DELIVERY OF PRIMARY EDUCATION.................. 22
+2.1 FOCUS OF THE REVISED ESSP 2007-2015............................................................................... 22
+2.2 OBJECTIVES AND SUB-OBJECTIVES. ......................................................................................... 23
+2.2.1 Objective 1: Increase and improve equitable access to quality primary education............ 23
+2.2.2 Objective 2: Improve the quality and relevance of primary education ............................... 24
+2.2.3 Objective 3: Improve effectiveness and efficiency in the delivery of Primary Education ... 27
+3.0 STRATEGIES TO REACH THE OBJECTIVES OF THE REVISED ESSP 2007-2015 ... 28
+3.1 DISCUSSION OF STRATEGIES AND INTERVENTIONS .................................................................. 28
+3.1.1 Objective 1: Increase and improve equitable access to quality primary education............ 29
+3.1.2 Objective 2: Improve the quality and relevance of primary education ............................... 35
+3.1.3 Objective 3: Improve effectiveness and efficiency in the delivery of Primary Education ... 41
+4.0 COSTS AND FINANCING...................................................................................................... 47
+4.1 POLICY ENVIRONMENT............................................................................................................ 47
+4.2 ENROLMENT GROWTH............................................................................................................. 47
+4.3 COSTS...................................................................................................................................... 49
+4.4 FINANCING THE REVISED ESSP 2008-2015......................................................................... 50
+4.4.1 The Sector LTEF and anticipated private sector contribution............................................ 50
+4.4.2 LTEF expenditure priorities and sub-sector budget shares................................................ 51
+4.4.3 Closing the funding gap ...................................................................................................... 53
+4.4.4 A sustainable financing framework within EFA FTI and new major policy initiatives....... 54
+4.4.5 Recommendations on coping with operations without PAF protection .............................. 56
+5.0 IMPLEMENTING THE UPDATED ESSP 2007-2015.......................................................... 56
+5.1 INSTITUTIONAL SET UP ............................................................................................................ 56
+5.2 MONITORING & EVALUATION FRAMEWORK ........................................................................... 57
+5.3 FIDUCIARY SAFEGUARDS......................................................................................................... 58
+5.4 ENVIRONMENT IMPACT ASSESSMENT ...................................................................................... 59
+ANNEXES ............................................................................................................................................... 60
 
 2
 
@@ -38,9 +86,9 @@ The ESSP  2004-2015 was  underpinned  by  a  mathematical  model  of  the  educa
 
 ## The REVISED ESSP 2007-2015
 
-The decision to re-cost and update the strategic plan was prompted by the addition of six  items  to  Uganda's  education  policy  agenda  since  the  launch  of  the ESSP 20042015:
+The decision to re-cost and update the strategic plan was prompted by the addition of six  items  to  Uganda's  education  policy  agenda  since  the  launch  of  the ESSP 2004-2015:
 
-- Bringing the ESSP into full conformance with EFA FTI goals (the ESSP 20042015 had been designed to fit within financial constraints).
+- Bringing the ESSP into full conformance with EFA FTI goals (the ESSP 2004-2015 had been designed to fit within financial constraints).
 
 - Improving  the  quality of primary  education  through  introduction  of local language instruction and a simplified thematic curriculum.
 
@@ -80,7 +128,7 @@ A much greater relative increase in enrollment occurs in post-primary BTVET. Tot
 
 The revised reform agenda will have a relatively small impact on enrollment in tertiary education because  of the delayed effects on secondary enrollments levels and completion rates.  The enrollment bulge in primary education that is created by higher output will not reach the universities and higher technical institutes before the end of the plan.  Nonetheless, beginning in 2012 the number of students leaving S6 will rise very  sharply  (as  a  consequence  of  reforms  adopted  in  2003  and  2006),  reaching  an annual rate of increase of 43 percent in 2013 before beginning to taper off.  Even in the absence of a shift in policy regarding access to tertiary education, enrollment would be expected to double over the five years from 2013 to 2018.
 
-The budgetary effects of increases in enrollment vary greatly by sub sector.  The total expenditure per year of instruction is five times as great for secondary as for primary schools and more than twenty times as great for BTVET.   A student-year of tertiary education  requires  three  times  as  much  expenditure  as  one  year  of  primary  school instruction.    Therefore,  percentage  increases  in  expenditures  (over  the ESSP  20042015 ) are greatest in the secondary education and BTVET sub sectors.  The growth in expenditure due to the recent reforms (over the ESSP 2004-2015 benchmark) for the BTVET sub sector is 260 percent, while it is 145 percent for the academic secondary sub  sector.    Tertiary  education  experiences  a  respectable  39  percent  increase  in expenditures over what had been planned in 2003.
+The budgetary effects of increases in enrollment vary greatly by sub sector.  The total expenditure per year of instruction is five times as great for secondary as for primary schools and more than twenty times as great for BTVET.   A student-year of tertiary education  requires  three  times  as  much  expenditure  as  one  year  of  primary  school instruction.    Therefore,  percentage  increases  in  expenditures  (over  the ESSP  2004-2015) are greatest in the secondary education and BTVET sub sectors.  The growth in expenditure due to the recent reforms (over the ESSP 2004-2015 benchmark) for the BTVET sub sector is 260 percent, while it is 145 percent for the academic secondary sub  sector.    Tertiary  education  experiences  a  respectable  39  percent  increase  in expenditures over what had been planned in 2003.
 
 5
 
@@ -154,25 +202,25 @@ Based  on  current  performance  trends,  Uganda  is  likely  to  hit  the  targ
 
 Following  the  launch  of  Universal  Secondary  Education  (USE)  in  February 2007, enrolment at S1 has grown rapidly.  Enrolment (S1-S6) rose by 17.2% (from 814,087 to 954,328)  between  2006  and  2007. With  increased enrolments,  significant  additional  resources  are  required.  In  view  of  the remaining  quality  problems i in  primary  education  and  the  importance  of moving towards the Millennium Development Goals (MDGs) and EFA goals, it will be important to develop a plan that will deliver the goals.
 
-The introduction of USE has subsequently increased the transition rate from P7  to  S1  by  22%  from  46.9%  to  68.6%.  The  sector  has  made  strides  in recruiting some of the teachers required and provision of facilities in 38 subcounties without any form of secondary school.
+The introduction of USE has subsequently increased the transition rate from P7  to  S1  by  22%  from  46.9%  to  68.6%.  The  sector  has  made  strides  in recruiting some of the teachers required and provision of facilities in 38 sub-counties without any form of secondary school.
 
 In Uganda, the provision of education is done in a two-pronged manner. There are  two  categories  of  schools:  The  Government  (Public)  and  the  Private schools.
+
+Table 1: Enrolment Levels by Sub-Sector.
 
 Year | 2000 | 2001 | 2002 | 2003 | 2004 | 2005 | 2006 | 2007
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Pre-Primary | NA | 59,829 | 78,257 | 64,484 | 41,775 | 30,240 | 69,340 | 57,627
-Primary | 6,559,013 | 6,900,916 | 7,354,153 | 7,633,31 4 | 7,377,292 | 7,223,879 | 7,362,93 8 | 7,414,880
+Primary | 6,559,013 | 6,900,916 | 7,354,153 | 7,633,314 | 7,377,292 | 7,223,879 | 7,362,938 | 7,414,880
 Secondary | 518,931 | 539,786 | 655,951 | 683,609 | 697,507 | 728,393 | 814,087 | 842,683
 BTVET | 14,077 | 14,314 | 20,314 | 26,313 | 25,514 | 41,863 | 15,586 | -
 Tertiary | 54,444 | 64,216 | 79,857 | 88,922 | 108,295 | 124,313 | - | -
-
-Table 1: Enrolment Levels by Sub-Sector.
 
 Source: EMIS 2006.
 
 ### 1.1.4 The Long-Term Expenditure Framework
 
-The  Ministry  of  Finance,  Planning  and  Economic  Development  (MoFPED) anticipated  that  the  budget  for  education  would  increase  by  76%  between 2003/04 and 2013/14.  This projection would be driven by rapid GDP growth. The Ministry expected the rate of growth to rise from 5.0% in 2003/04 to 6.4% in  2013/14.    These  growth  projections  reflected  the  assumption  that  private investment would increase sharply as the financing of the public debt absorbs a  shrinking  share  of  rising  savings.    Private  consumption  was  projected  to increase by an average rate of 5.3% a year over the decade.  Population growth was  assumed  to  average  3.56%  a  year.    Thus,  per  capita  consumption  was predicted to rise by 1.7% a year.
+The  Ministry  of  Finance,  Planning  and  Economic  Development  (MoFPED) anticipated  that  the  budget  for  education  would  increase  by  76%  between 2003/04 and 2013/14.  This projection would be driven by rapid GDP growth. The Ministry expected the rate of growth to rise from 5.0% in 2003/04 to 6.4% in  2013/14.    These  growth  projections  reflected  the  assumption  that  private investment would increase sharply as the financing of the public debt absorbs a  shrinking  share  of  rising  savings.    Private  consumption  was  projected  to increase by an average rate of 5.3% a year over the decade.  Population growth
 
 8
 
@@ -180,13 +228,15 @@ The  Ministry  of  Finance,  Planning  and  Economic  Development  (MoFPED) anti
 
 [[START OF PAGE 9]]
 
+was assumed to average 3.56% a year. Thus, per capita consumption was predicted to rise by 1.7% a year.
+
 The share of education as total government expenditure continues to decline as indicated in the table 2.
+
+Table: 2
 
 FY | 2002/3 | 2003/4 | 2004/5 | 2005/6 | 2006/7 | 2007/8 | 2008/9
 --- | --- | --- | --- | --- | --- | --- | ---
 % Share | 20.6 | 18.8 | 18.8 | 17.1 | 17.6 | 17.8 | 17.3
-
-Table: 2
 
 Source: Budget Framework paper
 
@@ -194,7 +244,7 @@ The updated policy agenda implies that the allocation of the education budget am
 
 ### 1.1.5 Sectoral context for the Plan
 
-The  Education  Sector  Strategic  Plan  2007  -2015  is  based  on    ESSP  20042015,  the  1992  Government's  White  Paper  on  Education,  its  long-term commitments to the international community, and on the medium-term goals, plans, and current undertakings of the Ministry of Education and Sports. The provision  of  quality  basic  education  is  well  embedded  in  the  constitution  of Uganda and it is clearly spelt out that all children in Uganda are entailed to quality education.
+The  Education  Sector  Strategic  Plan  2007  -2015  is  based  on    ESSP  2004-2015,  the  1992  Government's  White  Paper  on  Education,  its  long-term commitments to the international community, and on the medium-term goals, plans, and current undertakings of the Ministry of Education and Sports. The provision  of  quality  basic  education  is  well  embedded  in  the  constitution  of Uganda and it is clearly spelt out that all children in Uganda are entailed to quality education.
 
 GoU will continue providing resources to the Education sector and consolidate the  gains  already  established.  The  gains  and  gaps  will  always  trigger  the release of resources from both the donor community and government based on the subsectoral context of the MoES as indicated below.
 
@@ -258,13 +308,15 @@ The GIR, trends indicate that the number of new entrants into grade one has impr
 
 #### (ii) Ensuring  that  by  2015  all  children,  particularly  girls,  children  in difficult circumstances and those belonging to ethnic minorities, have access to and complete free and compulsory primary education
 
-Overall therefore, all the key indicators for access to primary education in Uganda show positive trends. However, Physical infrastructure in primary schools remains inadequate due to declining budgetary resources allocated to education sector . The percentage of total public expenditure for primary education has been varying since the year 2000 from 69.7% to 61.2% in 2006; consequently, low completion rates of primary schooling.
+Overall therefore, all the key indicators for access to primary education in Uganda show positive trends. However, Physical infrastructure in primary schools remains inadequate due to declining budgetary resources allocated to education sector
 
 11
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+
+for primary education has been varying since the year 2000 from 69.7% to 61.2% in 2006; consequently, low completion rates of primary schooling.
 
 #### (iii) Ensuring that the learning needs of all young people and adults are met through equitable access to appropriate learning and life skills.
 
@@ -322,7 +374,7 @@ In  2002,  the  Ministry's  Education  Planning  Department  (EPD)  with  the su
 
 ### 1.1.12 Department strategic plans
 
-Subsequent to the Mid-Term Review (2002), the EPD asked every Department within the Ministry to develop a logical framework based on the one agreedupon  at  the  Review  Workshop.  The  drafts  of  these  work  plans  were incorporated into the process of developing ESSP 2004-2015, and were used as the basis of department work plans that follow from the Plan.
+Subsequent to the Mid-Term Review (2002), the EPD asked every Department within the Ministry to develop a logical framework based on the one agreed-upon  at  the  Review  Workshop.  The  drafts  of  these  work  plans  were incorporated into the process of developing ESSP 2004-2015, and were used as the basis of department work plans that follow from the Plan.
 
 ### 1.1.13 The National Poverty Eradication Action Plan
 
@@ -330,7 +382,7 @@ The Ministry of Education and Sports' section of the Government's Poverty Eradic
 
 ### 1.1.14 Process of developing the ESSP 2004-2015
 
-To develop the ESSP 2004-2015, the Education Planning Department and its consultancy  team  began  with  the  logical  frameworks  submitted  by  each department following the Mid-Term Review of the ESIP. These frameworks became  the  basis  of  a  logical  framework  in  the  PEAP  and  of  the  policy objectives and  strategies of  the  ESSP.  The  Ministry's  Monitoring  and Evaluation  Working  Group,  the  Sector  Policy  and  Management  (SPM) Working Group, the Education  Sector  Consultative  Committee  (ESSC),  and Ministry  Top  Management  reviewed  a  draft  ESSP.  Based  on  discussions  in each of these meetings, the draft ESSP was revised. Once the draft was fairly well  elaborated,  a  National  Consultative  Workshop  was  held;  participants included  District  Education  Officers  as  well  as  representatives  from  the Ministry  and  members  of  the  Education  Funding  Agencies  Group  (EFAG). The final review of the draft took place in the Ministry's first Education Sector Planning  and  Budgeting  Workshop  -  the  first  such  annual  workshop,  which replaced the April Education Sector Review.
+To develop the ESSP 2004-2015, the Education Planning Department and its consultancy  team  began  with  the  logical  frameworks  submitted  by  each department following the Mid-Term Review of the ESIP. These frameworks became  the  basis  of  a  logical  framework  in  the  PEAP  and  of  the  policy objectives and  strategies of  the  ESSP.  The  Ministry's  Monitoring  and Evaluation  Working  Group,  the  Sector  Policy  and  Management  (SPM) Working Group, the Education  Sector  Consultative  Committee  (ESSC),  and Ministry  Top  Management  reviewed  a  draft  ESSP.  Based  on  discussions  in each of these meetings, the draft ESSP was revised. Once the draft was fairly well  elaborated,  a  National  Consultative  Workshop  was  held;  participants
 
 > 2 Education Planning Department, MOES (February 2003), Mid-term Review of the Education Strategic Investment Plan (ESIP) in Uganda: Final Report.
 
@@ -340,11 +392,13 @@ To develop the ESSP 2004-2015, the Education Planning Department and its consult
 
 [[START OF PAGE 15]]
 
+included District Education Officers as well as representatives from the Ministry and members of the Education Funding Agencies Group (EFAG). The final review of the draft took place in the Ministry's first Education Sector Planning and Budgeting Workshop - the first such annual workshop, which replaced the April Education Sector Review.
+
 The result of this workshop was an agreement on the broad lines of the ESSP as well as on the objectives and strategies of each sub-sector. The workshop also  gave  some  guidance on how to reduce costs to fit the ESSP within the Long-Term  Expenditure  Framework  (LTEF).  After  the  workshop,  the  EPD made such adjustments to the expenditure framework and translated it into the Medium-Term Budget Framework (MTBF) through 2006-07.
 
 ### 1.1.15 Changes to ESIP 1998-2003 and ESSP 2004-2015
 
-The second Plan (ESSP 2004-2015) differs from the first (ESIP 1998-2003) in some key respects. The ESIP covered a five-year period (1998-2003), while the ESSP covered ten years (2004-2015). 3 This ESSP was costed and linked to departmental work plans and the MTBF so that it could be used as a critical basis  for  medium-term  and  annual  planning  and  budgeting.  While  the  first Plan  (ESIP)  elaborated  on  the  'programme  approach'  to  planning  and implementation, that approach was more or less institutionalised.  The ESSP 2004-2105 assumed continuation of ESIP.  Finally, as described in more detail below in Chapter 2, the ESSP 2004-2015 shifted  the  emphasis  from  one  of implementing  Universal  Primary  Education,  which  was  introduced  in  1997, riveted the attention and resources of the sector to a more balanced concern for post-primary education and training and other sub-sectors as well as primary. Above all, it aimed at improving the quality of education what participants learn and how they learn.
+The second Plan (ESSP 2004-2015) differs from the first (ESIP 1998-2003) in some key respects. The ESIP covered a five-year period (1998-2003), while the ESSP covered ten years (2004-2015). 3 This ESSP was costed and linked to departmental work plans and the MTBF so that it could be used as a critical basis  for  medium-term  and  annual  planning  and  budgeting.  While  the  first Plan  (ESIP)  elaborated  on  the  'programme  approach'  to  planning  and implementation, that approach was more or less institutionalised.  The ESSP 2004-2105 assumed continuation of ESIP.  Finally, as described in more detail below in Chapter 2, the ESSP 2004-2015 shifted  the  emphasis  from  one  of implementing  Universal  Primary  Education,  which  was  introduced  in  1997, riveted the attention and resources of the sector to a more balanced concern for post-primary education and training and other sub-sectors as well as primary. Above all, it aimed at improving the quality of education - what participants learn and how they learn.
 
 ## 1.2 The Revised ESSP 2007-2015
 
@@ -364,7 +418,7 @@ The decision to revise and update the strategic plan was prompted by addition of
 
 [[START OF PAGE 16]]
 
-(d) Strengthening  science  and  technology  education  in  the  secondary  subsector  by  providing  science  laboratories  and  well-stocked  libraries  in secondary schools.
+(d) Strengthening  science  and  technology  education  in  the  secondary  sub-sector  by  providing  science  laboratories  and  well-stocked  libraries  in secondary schools.
 
 (e) Increasing  participation  in  tertiary  education  in  order  to  ensure  that Uganda  meets  its  need  to  produce  high-level  work  force  and  assures equitable access to all social groups.
 
@@ -404,7 +458,7 @@ The  current  major  Education  and  Sports  policy  thrusts  prioritise  access
 
 ## 1.4 CURRENT SITUATION OF UGANDA'S EDUCATION SECTOR.
 
-Currently, Uganda's Education Sector is characterized by the following subsectors;  Pre-Primary  and  Primary  Education,  Post  Primary  Education  and Training,  Business,  Technical,  Vocational  Education  and  Training  (BTVET Teacher  Education  and  Higher  Education.    Despite  some  challenges  of inadequate budget allocations, the sector has made tremendous strides towards achieving sub-sector objectives .
+Currently, Uganda's Education Sector is characterized by the following sub-sectors;  Pre-Primary  and  Primary  Education,  Post  Primary  Education  and Training,  Business,  Technical,  Vocational  Education  and  Training  (BTVET Teacher  Education  and  Higher  Education.    Despite  some  challenges  of inadequate budget allocations, the sector has made tremendous strides towards achieving sub-sector objectives .
 
 ### 1.4.1 Pre-Primary and Primary Education
 
@@ -452,7 +506,7 @@ Although Uganda has made great strides in the expansion and development of its  
 
 BTVET also still lacks a comprehensive tutor training and management system which contributes to the chronic shortage of qualified instructors necessitating use  of  untrained  tutors  causing  low  rates  of  enrollment  per  institution  (i.e average 38:1).  This situation reinforces social perception of BTVET as a non viable area and hence affects the overall performance of its graduates in the job market.
 
-In addition the amorphous structure of non-formal BTVET renders coordination and  management  difficult  thereby  causing  transactional  costs  within  the  subsector to be too high. This has implications for efficiency and cost effectiveness of the sub-sector.
+In addition the amorphous structure of non-formal BTVET renders coordination and  management  difficult  thereby  causing  transactional  costs  within  the  sub-sector to be too high. This has implications for efficiency and cost effectiveness of the sub-sector.
 
 Uganda has embraced the use of ICT in schools and the Ministry of Education and Sports  has  developed  a  policy  on  Information  and  Communication Technology for schools and institutions and one of the critical tasks of BTVET institutions  is  to  adopt  ICT  related  activities  in  their  curriculum  to  enhance global knowledge sharing, and ICT information dissemination for development.
 
@@ -571,13 +625,13 @@ The  Plan  aims  to  accommodate  dramatic  increases  in  the  rates  of  trans
 
 [[START OF PAGE 24]]
 
-Objective 1, which addresses access problems and solutions, is sub-divided into three sub-objectives that are aligned with the three sub-systems: primary, postprimary, and tertiary, of the system. Indicators and targets of progress on this objective  include  enrolment  rates  and  transition  rates  by  gender,  income quintile, geographic region, and rural/urban location (see Annex 5).
+Objective 1, which addresses access problems and solutions, is sub-divided into three sub-objectives that are aligned with the three sub-systems: primary, post-primary, and tertiary, of the system. Indicators and targets of progress on this objective  include  enrolment  rates  and  transition  rates  by  gender,  income quintile, geographic region, and rural/urban location (see Annex 5).
 
 #### 2.2.1.1 Universal participation in a flexible basic education system
 
 The Plan supports the continuation of Universal Primary Education (UPE), so that all Ugandan children attend primary school without paying fees. This will entail expansion of the basic education system (covering pre-primary, primary and  'O'  level  secondary  education),  including  complementary  programs  for disadvantaged  children  and  youth:  those  in  poor,  dispersed,  and/or  remote communities and in conflict areas, as well as individual children with physical disabilities.  During  the  Plan  period,  the  Ministry  will  take  necessary  steps  to enact a law declaring primary education free and compulsory.
 
-#### 2.2.1.2 Increased and equitable participation in a coherent and flexible postprimary system
+#### 2.2.1.2 Increased and equitable participation in a coherent and flexible post-primary system
 
 As currently structured, the post-primary system cannot accommodate all the P7 completers who wish to continue their education. The Plan calls for restructuring  the  post-primary  system  to  give  more  participants  competencies for  the  workforce  and  further  education.    It  anticipates  that  the  transition  rate from P7 to S1 will increase from the current 45% to 90%. This increase will be gradual, and it will take into account the larger cohorts of the 'UPE bulge,' the first  of  which  entered S1 in 2004.  About 50% of those who complete S4 are expected to make the transition to S5; much of the remaining 50% will enter the labour market and enrol in BTVET courses.
 
@@ -601,7 +655,7 @@ Moreover,  assessments  of  pupils'  performance  show  low  rates  of  mastery 
 
 At the post-primary level as well, only a minority of the students are achieving what is expected; too many are leaving school without the knowledge and skills they need to participate as citizens and productive workers. A study conducted in 2002 reveals low scores in English and mathematics. 5 40% were judged as failing Mathematics and 25% failing English on the tests given in the study (see Annex 2 )
 
-The  sub-objectives  of  Objective  2  are  also  stated  in  terms  of  the  three  subsystems  and  their  functions  in  educating  children,  youth,  and  young  adults. Indicators of progress on this sub-objective include dropout, repeater, survival, completion,  and  achievement  rates  by  gender,  income  quintile,  geographic region, and rural/urban location.
+The  sub-objectives  of  Objective  2  are  also  stated  in  terms  of  the  three  sub-systems  and  their  functions  in  educating  children,  youth,  and  young  adults. Indicators of progress on this sub-objective include dropout, repeater, survival, completion,  and  achievement  rates  by  gender,  income  quintile,  geographic region, and rural/urban location.
 
 #### 2.2.2.1 Primary-level pupils mastering basic literacy (reading and writing), numeracy, and basic life skills.
 
@@ -619,7 +673,7 @@ Literacy (reading and writing) and numeracy (arithmetic and practical mathematic
 
 #### 2.2.2.2 Post-primary students prepared to enter the workforce and higher education
 
-The modern workforce, toward which Uganda is heading in important industrial and agricultural sectors, will require a different set of competencies than those taught today. To succeed in the workplace, young people will require the ability to follow written directions that assume an understanding of abstract concepts. They will need to go beyond the basics of reading, writing, mathematics, and problem  solving,  and  many  will  need  the  ability  to  use  computers  at  a  basic level.  Enterprises in every sector, including modern agriculture, industry, and the  public  sector,  will  require  entering  employees  who  know  how  to  solve problems using rigorous methods of problem identification, hypothesis formulation, data collection and analysis, and reporting. Factory jobs and work in  agriculture-based  enterprises  will  demand  the  ability  to  reason  beyond repetition of mechanical operations, to make decisions about treatments under varying  conditions,  to  understand  a  business  plan,  to  communicate  clearly  in writing, to read complex instructions, and other such tasks. Every person should be able to think critically  - to make informed and competent judgments about what  others assert and  about his or her  own  choices  and  to clearly communicate information and opinions.
+The modern workforce, toward which Uganda is heading in important industrial and agricultural sectors, will require a different set of competencies than those taught today. To succeed in the workplace, young people will require the ability to follow written directions that assume an understanding of abstract concepts. They will need to go beyond the basics of reading, writing, mathematics, and problem solving, and many will need the ability to use computers at a basic level. Enterprises in every sector, including modern agriculture, industry, and the public sector, will require entering employees who know how to solve problems using rigorous methods of problem identification, hypothesis formulation, data collection and analysis, and reporting. Factory jobs and work in agriculture-based enterprises will demand the ability to reason beyond repetition of mechanical operations, to make decisions about treatments under varying conditions, to understand a business plan, to communicate clearly in writing, to read complex instructions, and other such tasks. Every person should be able to think critically - to make informed and competent judgments about what others assert and about his or her own choices - and to clearly communicate information and opinions.
 
 #### 2.2.2.3 Tertiary graduates prepared to be innovative, creative, and entrepreneurial in the private and public sectors
 
@@ -727,13 +781,13 @@ Using the School Facilities Grants (SFG), the Ministry will continue to expand c
 
 ###### (a) Make more efficient use of teachers/instructors' and learners' time, and other resources
 
-As a consequence of the insufficient attention devoted to post-primary education in recent years, resource allocation has become inefficient, especially in the light of access and equity objectives. As the post-primary sub-system moves from a small  number  of  elite  schools  to  a  large  number  of  schools  providing  mass education,  the  Ministry  must  take  measures  to  reduce  the  per-student  cost  of post-primary education. It will do this by: (i) reducing students' course load to five  or  six  per  term,  (ii)  consolidating  subject  matter  into  fewer  courses,  (iii) having a nationally approved limited list of core textbooks as opposed to schoolbased  lists 9 (iv)  increasing  standard  minimum  class  size  and  rationalizing teacher  work  loads,  (v)  redeploying  teachers  from  schools  where  there  is  a surplus to those where there are deficiencies, and (vi) introducing double-shifts and  multi-grade  classrooms,  so  that  space  and  staff  are  used  efficiently.  All teachers will be required to have the skills to teach at least two subjects so as to enhance  efficiency.  These  measures  will  also  help  improve  the  quality  of instruction.
+As a consequence of the insufficient attention devoted to post-primary education in recent years, resource allocation has become inefficient, especially in the light of access and equity objectives. As the post-primary sub-system moves from a small number of elite schools to a large number of schools providing mass education, the Ministry must take measures to reduce the per-student cost of post-primary education. It will do this by: (i) reducing students' course load to five or six per term, (ii) consolidating subject matter into fewer courses, (iii) having a nationally approved limited list of core textbooks as opposed to school-based lists 9 (iv) increasing standard minimum class size and rationalizing teacher work loads, (v) redeploying teachers from schools where there is a surplus to those where there are deficiencies, and (vi) introducing double-shifts and multi-grade classrooms, so that space and staff are used efficiently. All teachers will be required to have the skills to teach at least two subjects so as to enhance efficiency. These measures will also help improve the quality of instruction.
 
 ###### (b) Reconfigure the post-primary sub-sector
 
 During the eight-year timeframe of the revised ESSP 2007-2015 ,  the Ministry will  shift  gradually  from  inflexible  parallel  tracks  of:  (i)  a  six-year  academic curriculum  (secondary)  designed  to  prepare  students  for  higher  education  and (ii)  a  two  or  three-year  vocational  education  program  designed  to  prepare students for entry-level jobs in the work force. Within BTVET, the Ministry will make  a  gradual  transition  from  post-primary  full-time  programs  to  a  more flexible  BTVET  system.  The  post-primary  reconfiguration  does  not  affect training  institutes  that  follow  the  fourth  year  of  general  secondary  or  the curriculum of Secondary 5 and 6.
 
-General Secondary. Not all general secondary schools will look alike. Schools will  be  tailored  to  the  communities  they  serve.  Rural  schools  may  alter  the calendar  to  meet  farming  seasons,  and  they  should  be  able  to  accommodate students who drop out and return. Community 'seed' schools will be small and may offer multi-grade courses. Urban schools will be large and may use doubleshifts  to  make  efficient  use  of  facilities.  Centres  of  excellence  throughout  the districts will attract diligent students.
+General Secondary. Not all general secondary schools will look alike. Schools will be tailored to the communities they serve. Rural schools may alter the calendar to meet farming seasons, and they should be able to accommodate students who drop out and return. Community 'seed' schools will be small and may offer multi-grade courses. Urban schools will be large and may use double-shifts to make efficient use of facilities. Centres of excellence throughout the districts will attract diligent students.
 
 > 9 Studies undertaken by World Bank in countries with similar development characteristics like Kenya indicate that implementing this policy shift reduces per capita cost on textbooks' provision by two thirds.
 
@@ -763,29 +817,13 @@ Figure 1 below depicts in a simple graphic the relationship of such a BTVET syst
 
 Figure 1: BTVET in Uganda's Education System and Workforce
 
-UVQA
-
-W
-
-O
-
-R
-
-K
-
-F
-
-O
-
-R
-
-C
-
-E
-
 P1-P7
 
 S1-S4
+
+UVQA
+
+WORKFORCE
 
 Significant construction, equipment, and furnishing costs can also be saved by using  industrial  facilities  wherever  possible  for  practical  skills  training.  The Ministry  will  encourage  private  providers  and  communities  to  offer  skills training courses that meet UVQF/A standards.
 
@@ -811,7 +849,7 @@ There are individual children throughout the country with special needs, due to 
 
 ###### (a) Restructure the tertiary system to increase coherence and flexibility
 
-The Ministry established a National Council for  Higher Education, which has developed  a  strategic  plan  for  the  sub-sector  that  centres  on  a  restructured system.  The  aim  of  this  restructuring  is  to  develop  coherence  among  the universities  and  other  institutions  of  higher  learning.  It  will  develop  a  coursecredit system that allows mobility of students among disciplines and institutions without  loss  of  earned  work.  This  integration  will  also  make  more  attractive other  institutions  within  the  Ministry  of  Education  and  Sports  and  those institutions  transferred  in  1998  from  the  ministries  of  Labour  and  Social welfare;  Health;  Tourism,  Trade  and  Industry;  Land,  Water  and  Environment; Agriculture,  Information,  and  Public  Service,  as  they  will  allow  learners  to move among institutions.
+The Ministry established a National Council for Higher Education, which has developed a strategic plan for the sub-sector that centres on a restructured system. The aim of this restructuring is to develop coherence among the universities and other institutions of higher learning. It will develop a course-credit system that allows mobility of students among disciplines and institutions without loss of earned work. This integration will also make more attractive other institutions within the Ministry of Education and Sports and those institutions transferred in 1998 from the ministries of Labour and Social welfare; Health; Tourism, Trade and Industry; Land, Water and Environment; Agriculture, Information, and Public Service, as they will allow learners to move among institutions.
 
 ###### (b) Develop facilities to cope with rapidly increasing numbers
 
@@ -849,7 +887,7 @@ This high-priority strategy comprises five major interventions/undertakings:
 
 [[START OF PAGE 36]]
 
-mask  the  huge  variations  among  class  size,  especially  since  P1  and  P2 classes  are  generally  much  larger  than  those  at  higher  levels.  Thus  the revised  Plan  moves  away  from  the  ESIP's  (1998-2003)  use  of  pupil-toclassroom  and  pupil-to-teacher  ratios  as  key  targets  and  conditions  for disbursement of funds. It replaces these with indicators and targets related to class size ( See Annex 5).
+mask the huge variations among class size, especially since P1 and P2 classes are generally much larger than those at higher levels. Thus the revised Plan moves away from the ESIP's (1998-2003) use of pupil-to-classroom and pupil-to-teacher ratios as key targets and conditions for disbursement of funds. It replaces these with indicators and targets related to class size (See Annex 5).
 
 (iv) The Ministry's policy and actual practice are to use local languages as the medium of instruction in P1-P3.  P4 will be a transitional class and time when the medium of instruction will change to English.  This practice is highly recommended, as it is now incontrovertible that learners can master literacy in a second language (English) more readily if they learn first to read  and  write  in  their  mother  tongue.  Though  the  barriers  to  teaching literacy in local languages in Uganda are considerable (producing written materials, persuading parents, and resolving political problems surrounding  languages  of  instruction),  the  Ministry  will  aim  to  provide sufficient  quantities  of  reading  materials  in  local  languages  and  English, both by procuring and distributing them and by helping teachers develop their own reading materials.
 
@@ -915,11 +953,11 @@ These  competencies  are  only  a  small  part  of  both  the  general  secondar
 
 General  Secondary. This  shift  will  necessitate  a  sweeping  revision  of  the general secondary curriculum, away from strictly academic learning objectives that are thought to prepare students for erudite higher education and toward a set of competencies that serve both those who continue their education after S4 and those  who  choose  to  enter  the  workforce.  The  new  curriculum  will  enable learners to acquire specific vocational skills once they enter the world of work. This  is  not  meant  to  'vocationalise'  the  post-primary  curriculum  by  adding training  for  specific  vocations. 10 The  new  curriculum  will  help  learners  make informed decisions as citizens and family members, and it will give those who continue  with  their  education,  either  immediately  in  S5  or  later  in  life,  the learning skills they need to think critically and study efficiently.
 
-Like the curriculum revision at the primary level, curricula will be revised at the post-primary  level  in  close  collaboration  between  curriculum  writers  and teachers. Based on the revised curricula, the Ministry will provide instructional materials through matching subsidies and seed funding for textbook rental or repurchasing  schemes.  It  will  construct  laboratories  (for  science  and  ICT)  and libraries  in  post-primary  schools.  UNEB  will  help  develop  tests  of  the  new competencies and train teachers in continuous assessment.
+Like the curriculum revision at the primary level, curricula will be revised at the post-primary level in close collaboration between curriculum writers and teachers. Based on the revised curricula, the Ministry will provide instructional materials through matching subsidies and seed funding for textbook rental or re-purchasing schemes. It will construct laboratories (for science and ICT) and libraries in post-primary schools. UNEB will help develop tests of the new competencies and train teachers in continuous assessment.
 
-The revised Plan calls for reducing students' course loads from 18 to five or six, including required core courses and electives, and ultimately rationally reducing the  curriculum  menu  through  integration  and  merging  of  subjects.    Over  the long term, students will concentrate on subjects that are critical to achieving the competencies  they  require:  mathematics,  science,  technology,  communication, and social studies. Their course load will be reduced so that they have steady exposure  to  these  subjects  each  day  and  throughout  the  year.  This  can  be achieved over the long term by integrating the critical subject matter of many courses into fewer courses. For example, a course in life sciences and a course in  physical  sciences  can  incorporate  the  subject  matter  of  health,  HIV/AIDS prevention, agriculture practices, and environmental studies as practical applications  of  basic  competencies  in  the  scientific  approach  to  problemsolving.
+The revised Plan calls for reducing students' course loads from 18 to five or six, including required core courses and electives, and ultimately rationally reducing the curriculum menu through integration and merging of subjects. Over the long term, students will concentrate on subjects that are critical to achieving the competencies they require: mathematics, science, technology, communication, and social studies. Their course load will be reduced so that they have steady exposure to these subjects each day and throughout the year. This can be achieved over the long term by integrating the critical subject matter of many courses into fewer courses. For example, a course in life sciences and a course in physical sciences can incorporate the subject matter of health, HIV/AIDS prevention, agriculture practices, and environmental studies as practical applications of basic competencies in the scientific approach to problem-solving.
 
-BTVET. As described in Section 1 above, the S1-S4 course of study for postprimary students will be complemented by a BTVET system centering on the Uganda  Vocational  Qualifications  Framework/Authority.  Learners  will  take courses  within  this  framework/authority  to  acquire  skills  relevant  to  specific occupations. These courses will be aligned with human resource requirements of all sectors and the labour market.
+BTVET. As described in Section 1 above, the S1-S4 course of study for post-primary students will be complemented by a BTVET system centering on the Uganda Vocational Qualifications Framework/Authority. Learners will take courses within this framework/authority to acquire skills relevant to specific occupations. These courses will be aligned with human resource requirements of all sectors and the labour market.
 
 > 10 (Such training will be provided through the UVQF/A (see Strategy 1.2.2 above and subsequent paragraphs in this section).
 
@@ -929,13 +967,13 @@ BTVET. As described in Section 1 above, the S1-S4 course of study for postprimar
 
 [[START OF PAGE 40]]
 
-In  order  to  provide  larger  numbers  of  learners  with  timely  acquisition  of vocational skills, BTVET will be organized within the framework of the Uganda Vocational Qualifications Framework/Authority (UVQF/A), which will articulate  course  objectives  with  corresponding  job  qualifications  and  certify learners' fulfilment of course requirements. This new BTVET framework will complement the post-primary general curriculum for all students. Most courses will be aimed at students who have completed four years of general secondary, but they will be open to all learners who have the requisite skills and knowledge to enter.  In the medium term of the revised Plan, the Ministry will implement training  programs  for  successful  P7  completers  in  the  existing  forty  six  P7enrolling BTVET institutions (i.e. 20 Technical Schools, 4 Farm Schools and 16 Community Polytechnics).
+In order to provide larger numbers of learners with timely acquisition of vocational skills, BTVET will be organized within the framework of the Uganda Vocational Qualifications Framework/Authority (UVQF/A), which will articulate course objectives with corresponding job qualifications and certify learners' fulfilment of course requirements. This new BTVET framework will complement the post-primary general curriculum for all students. Most courses will be aimed at students who have completed four years of general secondary, but they will be open to all learners who have the requisite skills and knowledge to enter. In the medium term of the revised Plan, the Ministry will implement training programs for successful P7 completers in the existing forty six P7-enrolling BTVET institutions (i.e. 20 Technical Schools, 4 Farm Schools and 16 Community Polytechnics).
 
 Courses will be modularized, so that learners can acquire specific skills within a short period of time and move directly into an entry-level job or advance to a higher-level of certification. Short, modularized courses allow more learners to access the system, because each training centre can accommodate more students in a given period of time. This is the model used by the Directorate of Industrial Training, which is solidly based within industry and should play a central role in a  reconfigured  BTVET  system.    The  Ministry  will  increase  the  supply  of training materials through matching subsidies and seed funding for a textbook rental  scheme.  It  will  construct,  equip  and  manage  workshops  in  existing BTVET centres.
 
 ###### (b) Strengthen the teaching force
 
-Teachers  qualified  at  the  post-primary  level  will  be  trained  to  teach  the competencies  that  students  require.  The  Ministry  will  develop  a  new  postprimary  teacher  education  curriculum  and  a  TDMS  or  other  system  for  postprimary-level  teachers  as  the  vehicle  for  the  intensive  in-service  training  and support  that  revisions  to  the  curriculum  will  demand.  To  train  pre-service teachers,  the  Ministry  will  maintain  the  current  number  (i.e.  5)  of  existing National  Teachers  Colleges  (NTCs)  and  improve  the  facilities,  curriculum, instruction,  staffing,  and  management.    In  the  Plan  period,  the  Ministry  will replace  NTCs  taken  over  by  Universities  such  as  Nagongera  and  Kaliro.  The School of Education at Kyambogo University and teacher training colleges will continue to train and retrain NTC instructors. Qualified teachers and craftsmen will  be  recruited,  trained,  and  deployed  to  BTVET  centres.  Special  needs teachers  and  guidance  counsellors  will  be  recruited  and  trained.  The  Ministry will  continue  to  improve  the  conditions  of  service  of  post-primary  teachers, instructors, and other staff
+Teachers qualified at the post-primary level will be trained to teach the competencies that students require. The Ministry will develop a new post-primary teacher education curriculum and a TDMS or other system for post-primary-level teachers as the vehicle for the intensive in-service training and support that revisions to the curriculum will demand. To train pre-service teachers, the Ministry will maintain the current number (i.e. 5) of existing National Teachers Colleges (NTCs) and improve the facilities, curriculum, instruction, staffing, and management. In the Plan period, the Ministry will replace NTCs taken over by Universities such as Nagongera and Kaliro. The School of Education at Kyambogo University and teacher training colleges will continue to train and retrain NTC instructors. Qualified teachers and craftsmen will be recruited, trained, and deployed to BTVET centres. Special needs teachers and guidance counsellors will be recruited and trained. The Ministry will continue to improve the conditions of service of post-primary teachers, instructors, and other staff
 
 40
 
@@ -943,7 +981,7 @@ Teachers  qualified  at  the  post-primary  level  will  be  trained  to  teach 
 
 [[START OF PAGE 41]]
 
-#### Sub-objective 2.3: Tertiary graduates prepared to be
+#### Sub-objective 2.3: Tertiary graduates prepared to be innovative, creative, and entrepreneurial in private and public sectors
 
 ##### Strategies
 
@@ -965,7 +1003,7 @@ The National Council of Higher Education will help universities further develop 
 
 ###### (a) Schools manage instructional programs, staff and other resources and become accountable to their communities
 
-innovative, creative,  and  entrepreneurial  in  private  and  public sectors Prior to the implementation of UPE, the TDMS had made some strides towards helping head teachers improve school management and mobilizing communities to participate in school activities. These activities will be resumed. Coordinating Centre Tutors and District Education Officers (DEOs) will help schools develop and  implement  School  Improvement  Plans.  CCTs  and  DEOs  will  mobilize communities  to  support  schools  and  monitor  school  performance,  especially pupils' acquisition of literacy and numeracy skills. Post-primary institutions will also develop and implement improvement plans.
+Prior to the implementation of UPE, the TDMS had made some strides towards helping head teachers improve school management and mobilizing communities to participate in school activities. These activities will be resumed. Coordinating Centre Tutors and District Education Officers (DEOs) will help schools develop and implement School Improvement Plans. CCTs and DEOs will mobilize communities to support schools and monitor school performance, especially pupils' acquisition of literacy and numeracy skills. Post-primary institutions will also develop and implement improvement plans.
 
 41
 
@@ -977,7 +1015,7 @@ Schools  will  be  encouraged  to  publish  the  results  of  regular  assessmen
 
 ###### (b) District Education Offices deliver educational services, help schools comply with standards and regulations, and monitor regularly and report accurately on school performance
 
-Uganda  began  moving  toward  decentralized  delivery  of  primary  and  postprimary  education  services  in  1997  when  the  Local  Government  Act  was adopted;  progress  among  districts  has  been  apparent  though  uneven.  District Education  Offices  will  continue  to  work  with  local  governments  to  allocate resources  equitably among  schools  and  institutions;  they  will keep  local authorities  advised  of  the  needs  and  achievements  of  schools.  They  will  help schools share information and innovations, and help communities hold schools accountable for the performance of students and to the Ministry for compliance with standards, regulations, and reporting procedures.
+Uganda began moving toward decentralized delivery of primary and post-primary education services in 1997 when the Local Government Act was adopted; progress among districts has been apparent though uneven. District Education Offices will continue to work with local governments to allocate resources equitably among schools and institutions; they will keep local authorities advised of the needs and achievements of schools. They will help schools share information and innovations, and help communities hold schools accountable for the performance of students and to the Ministry for compliance with standards, regulations, and reporting procedures.
 
 The Ministry will introduce District League Tables to enable local governments gauge and track their performance rating at national level. The key measurement  variables  should  focus  on  critical  outcome  indicators  such  as completion and net enrolment ratios  as agreed  at the annual Education  Sector Reviews  (ESR).    The  Ministry  in  collaboration  with  local  governments  will ensure that schools and parents comply with the policy of automatic promotion to  minimize  repetition  especially  at  P6  level.  Central  offices  formulate  sector policy and broadly direct financial resources, ensure the legislative framework reflects the strategic directions, conduct and disseminate research, and support the development of pilot and special programs.  The Ministry will also enforce customised  performance  targets  and  put  in  place  a  system  to  reward  good performing districts and schools.
 
@@ -1043,11 +1081,11 @@ The Plan addresses problems of corruption and misuse of public resources. The Mi
 
 ###### (a) Formalize, build and enhance public-private partnerships in service delivery
 
-The Ministry's main roles vis-à-vis private schools and institutions are, first, to encourage  their  development  and  sustainability  and,  second,  to  protect  the consumer of education services by setting standards and monitoring all schools public and private - for compliance. In this role, the Ministry will provide for community oversight of primary schools through School Management Committees  and  of  secondary  schools  through  Boards  of  Governors.  It  will solicit community contributions to the school construction and maintenance. In BTVET, it will  collaborate  with  private  enterprises  in  BTVET,  and  train  and contract with employees to provide on-site training. As described above, it will also  support  and  encourage  NGO  programs  for  disadvantaged  groups  and  in conflict areas.
+The Ministry's main roles vis-à-vis private schools and institutions are, first, to encourage their development and sustainability and, second, to protect the consumer of education services by setting standards and monitoring all schools - public and private - for compliance. In this role, the Ministry will provide for community oversight of primary schools through School Management Committees and of secondary schools through Boards of Governors. It will solicit community contributions to the school construction and maintenance. In BTVET, it will collaborate with private enterprises in BTVET, and train and contract with employees to provide on-site training. As described above, it will also support and encourage NGO programs for disadvantaged groups and in conflict areas.
 
 ###### (b) Develop and maintain partnerships with other agencies in service delivery and capacity building.
 
-The Ministry will engage local governments in the support of primary and postprimary education. It will collaborate with other ministries in the provision of BTVET, and help introduce a training fund levy on employers for BTVET.  The Ministry  will  introduce  and  implement  an  industrial  training  level.      The  first step will be a study of training levy funds and related experiences in the region and the development of a Ugandan model. Employers have a vested interest in and receive returns from public-provided training of their future employees.
+The Ministry will engage local governments in the support of primary and post-primary education. It will collaborate with other ministries in the provision of BTVET, and help introduce a training fund levy on employers for BTVET. The Ministry will introduce and implement an industrial training level. The first step will be a study of training levy funds and related experiences in the region and the development of a Ugandan model. Employers have a vested interest in and receive returns from public-provided training of their future employees.
 
 45
 
@@ -1081,7 +1119,7 @@ The activities outlined in the ESSP  2004-2015 are estimated to cost Government 
 
 ## 4.2 Enrolment Growth
 
-Participation  in  education  is  projected  to  increase  sharply  over  the  next  eight years ( see details in the Simulation Model in Annex 6 and technical/explanatory notes  in Annex  7) .    The  number  of  pupils successfully  completing primary school is expected to increase by over 100 percent (i.e. from 503,531 in 2008 to 1,054,815  in  2015).  Primary  education  reforms  include  improvements  in  the content,  sequencing and pacing of the curriculum, and instruction in the local language during the first three years of primary school. These innovations are expected to lead to smaller numbers of students having to repeat entire years of schoolwork  and  to  fewer  students  withdrawing  from  school.    The  number  of primary school pupils who must repeat classes is expected to decline i.e. average repetition over the eight years of study is projected to reduce from 13% in 2008 to 8% in 2015. While the drop outs over the seven years of study is projected to decline from 7% in 2008 to 2% in 2015.  Most importantly for costs, the reforms to primary education will lead to an annual increase in the number of students qualified to enter academic secondary education to about 80% by 2015 - a gain of  7% percent.  That is,  under the revised Strategy, using UNEB pass rate of 80%, a total of 3.94 million pupils will qualify for entry in academic secondary over the plan period.
+Participation in education is projected to increase sharply over the next eight years (see details in the Simulation Model in Annex 6 and technical/explanatory notes in Annex 7). The number of pupils successfully completing primary school is expected to increase by over 100 percent (i.e. from 503,531 in 2008 to 1,054,815 in 2015). Primary education reforms include improvements in the content, sequencing and pacing of the curriculum, and instruction in the local language during the first three years of primary school. These innovations are expected to lead to smaller numbers of students having to repeat entire years of schoolwork and to fewer students withdrawing from school. The number of primary school pupils who must repeat classes is expected to decline i.e. average repetition over the eight years of study is projected to reduce from 13% in 2008 to 8% in 2015. While the drop outs over the seven years of study is projected to decline from 7% in 2008 to 2% in 2015. Most importantly for costs, the reforms to primary education will lead to an annual increase in the number of students
 
 47
 
@@ -1089,21 +1127,24 @@ Participation  in  education  is  projected  to  increase  sharply  over  the  n
 
 [[START OF PAGE 48]]
 
-The increase in the numbers of primary school leavers who are qualified to enter academic  secondary  school  will  strain  the  capacity  of  the  secondary  school system.  The UPPET policy commits the GoU to provide places for able and willing students in either academic secondary schools or P7-enrolling vocational training institutions.  The policy offers 90 percent of successful primary school graduates' admission to an academic secondary school and 10 percent to a place in a vocational school.  Table 1 provides details on total enrolment by sub-sector and level of education in the next eight years
+qualified to enter academic secondary education to about 80% by 2015 - a gain of 7% percent. That is, under the revised Strategy, using UNEB pass rate of 80%, a total of 3.94 million pupils will qualify for entry in academic secondary over the plan period.
 
-2008/09 | 2009/10 | 2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16
+The increase in the numbers of primary school leavers who are qualified to enter academic secondary school will strain the capacity of the secondary school system. The UPPET policy commits the GoU to provide places for able and willing students in either academic secondary schools or P7-enrolling vocational training institutions. The policy offers 90 percent of successful primary school graduates' admission to an academic secondary school and 10 percent to a place in a vocational school. Table 1 provides details on total enrolment by sub-sector and level of education in the next eight years
+
+Table 1:Projected Enrolment by Sub-sector, Level, and Year, 2008-2015
+(Thousands of Persons)
+
+ | 2008/09 | 2009/10 | 2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Primary | 8,531.2 | 8,982.9 | 9,448.2 | 9,953.4 | 10,529.2 | 11,081.8 | 11,630.5 | 12,229.3
 Secondary | 1,059.2 | 1,215.7 | 1,424.5 | 1,650.1 | 1,901.2 | 2,119.5 | 2,395.6 | 2,723.8
 O' Level | 919.0 | 1,069.2 | 1,261.9 | 1,452.5 | 1,665.0 | 1,840.2 | 2,052.8 | 2,315.2
 A' Level | 140.2 | 146.5 | 162.7 | 197.6 | 236.2 | 279.3 | 342.8 | 408.6
-BTVET
+BTVET |  |  |  |  |  |  |  | 
 Post-P7 | 39.7 | 36.6 | 41.4 | 46.4 | 50.0 | 55.1 | 61.9 | 70.0
 Post-S4 | 82.2 | 103.1 | 123.1 | 144.7 | 167.8 | 201.4 | 234.8 | 264.0
 Other BTVET | 9.1 | 9.2 | 9.3 | 9.4 | 9.5 | 9.6 | 9.7 | 9.8
 Higher/Tertiary | 77.0 | 83.0 | 89.2 | 96.8 | 114.8 | 132.1 | 157.4 | 189.4
-
-Table 1:  Projected Enrolment by Sub-sector, Level, and Year, 2008-2015 (Thousands of Persons)
 
 Accelerating the pace at which access to secondary education is expanded will, by  itself,  result  in  a  total  increase  in  O-level  enrolment  of  12,575.8  million students between 2008 and 2015.
 
@@ -1123,7 +1164,9 @@ Implementation of the revised ESSP (2008-2015) is estimated to cost Ug. Shs. 13,
 
 Table  2  provides  details  on  the  total  costs  (Government  and  private)  by  subsector and central administration activities.
 
-2008/09 | 2009/10 | 2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16
+Table 2: Total Costs by Sub-sector, Central Activities (Billion of Uganda shillings)
+
+ | 2008/09 | 2009/10 | 2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Primary | 505.49 | 732.22 | 790.46 | 880.06 | 968.36 | 1,032.65 | 1,179.34 | 1,253.12
 Secondary | 189.73 | 382.75 | 407.17 | 418.04 | 442.16 | 472.71 | 540.99 | 533.52
@@ -1131,8 +1174,6 @@ BTVET | 35.29 | 40.44 | 50.06 | 62.25 | 73.50 | 85.26 | 97.17 | 89.55
 Tertiary | 138.70 | 159.93 | 176.52 | 195.23 | 224.73 | 254.89 | 297.95 | 352.84
 Others | 11.64 | 12.23 | 12.84 | 13.48 | 14.15 | 14.86 | 15.60 | 16.38
 Total | 880.9 | 1,327.6 | 1,437.0 | 1,569.1 | 1,722.9 | 1,860.4 | 2,131.1 | 2,245.4
-
-Table 2: Total Costs by Sub-sector, Central Activities (Billion of Uganda shillings)
 
 A  very  large  fraction  of  the  increase  in  planned  expenditure  is  required  to implement a new system of compensation for teachers and school administrators.  The new scheme of service aims to provide a structured career for teachers in order to improve retention and motivation. The revised Strategy provides Ug. Shs. 831.62 bn more for wages and salaries for primary over the period  2008-2015.  Most  of  this  increase  would  be  used  to  improve  wage  and salary levels.
 
@@ -1144,7 +1185,9 @@ Table 3 presents details on the projected sub-sectoral Government expenditure sh
 
 [[START OF PAGE 50]]
 
-2008/09 | 2009/10 | 2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16
+Table 3: Sub-sectoral shares in required Government Expenditures on Education
+
+ | 2008/09 | 2009/10 | 2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Primary | 57% | 55% | 55% | 56% | 56% | 56% | 55% | 55%
 Secondary | 22% | 29% | 28% | 27% | 26% | 25% | 25% | 25%
@@ -1152,8 +1195,6 @@ BTVET | 4% | 3% | 3% | 4% | 4% | 5% | 5% | 5%
 Tertiary | 16% | 12% | 12% | 12% | 13% | 14% | 14% | 14%
 Others | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1%
 Total | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100%
-
-Table  3:  Sub-sectoral  shares  in  required  Government  Expenditures  on Education
 
 33.5 percent of the total recurrent education budget is expected to be spent on inputs  other  than  wages  and  salaries.  Recurrent  expenditure  requirements  are 73%  of  the  total  expenditures  (refer  to  Annex  6  for  details  on  costs  in  the Simulation  Model).  In  the  academic  secondary  sub-sector,  43  percent  of  the recurrent  budget  (i.e.  non-wage)  is  expected  to  be  spent  on  such  items  as capitation grants, Assessments, Inspection, Monitoring and Evaluation, Bursaries, Studies and cross cutting issues. Capital spending is projected to be about Ug. Shs. 3,545.62 bn i.e. 26% of the total expenditure over the plan period 2008-2015. This increase reflects both rapid expansion of enrolment at both the primary  and  secondary  levels.  Growth  in  enrolment  in  BTVET  would  require Ug. Shs. 233.55 bn in capital spending.
 
@@ -1173,7 +1214,7 @@ Government of Uganda policy specifies that the state should finance 90 percent o
 
 [[START OF PAGE 51]]
 
-### 4 .4.2 LTEF expenditure priorities and sub-sector budget shares
+### 4.4.2 LTEF expenditure priorities and sub-sector budget shares
 
 #### 4.4.2.1 Recommendations on LTEF expenditure priorities
 
@@ -1183,7 +1224,7 @@ Of  the  four  major  reform  initiatives,  three  should  be  carefully  scruti
 
 Second,  the  proposed  reform  of  the  conditions  of  service  for  teachers  in  the primary,  secondary  and  BTVET  sub  sectors  will  be  implemented  in  phased manner.  The large increases in primary average rates of compensation render education very costly and are likely to result in pressure to increase the ratio of pupils and students to teachers.  This result would seriously threaten the quality of education.
 
-Third,  the  expansion  of  enrollment  in  formal  courses  of  BTVET  will  be reconsidered in the medium term.  Accelerating the development of the Uganda Vocational Qualification Framework and the encouraging a variety of modularized training activities would be likely to produce needed skills at lower cost and to be more responsive to shifting labor market conditions. A flexible training  system  will  also  be  better  suited  to  the  interests  and  capabilities  of potential trainees.  The immediate viable option has been to reduce the post-S4 transition rate from 50% to a more affordable rate of 30% or less ( refer section 3.1.2,  objective  2,  sub-objective  2.2a ).  Consideration  will  also  be  made  to stagger  (annually  or  as  deemed  appropriate)  enrolment  in  particular  courses basing  on  projected  labor  market  demand  of  the  graduates.    For  instance,  the Metrology course does not require annual enrolment of new entrants.
+Third, the expansion of enrollment in formal courses of BTVET will be reconsidered in the medium term. Accelerating the development of the Uganda Vocational Qualification Framework and the encouraging a variety of modularized training activities would be likely to produce needed skills at lower cost and to be more responsive to shifting labor market conditions. A flexible training system will also be better suited to the interests and capabilities of potential trainees. The immediate viable option has been to reduce the post-S4 transition rate from 50% to a more affordable rate of 30% or less (refer section 3.1.2, objective 2, sub-objective 2.2a). Consideration will also be made to
 
 51
 
@@ -1191,7 +1232,9 @@ Third,  the  expansion  of  enrollment  in  formal  courses  of  BTVET  will  be
 
 [[START OF PAGE 52]]
 
-The  reform  of  primary  education  should  be  carefully  monitored.    Primary schools should be expected to produce the skills needed in order to pursue lifelong  learning.    These  skills  include  literacy,  numeracy,  critical  analysis,  and problem  solving.  These  skills  also  supply  a  foundation  for  success  at  the secondary  and  tertiary  levels  of  education.  Assessments  of  the  education system's performance should focus on these skills. The reformed primary school curriculum seeks to address these needs, but its effectiveness in doing so has not been established empirically. Priority should be given to monitoring performance and adapting designs to further enhance outcomes.
+stagger (annually or as deemed appropriate) enrolment in particular courses basing on projected labor market demand of the graduates. For instance, the Metrology course does not require annual enrolment of new entrants.
+
+The reform of primary education should be carefully monitored. Primary schools should be expected to produce the skills needed in order to pursue life-long learning. These skills include literacy, numeracy, critical analysis, and problem solving. These skills also supply a foundation for success at the secondary and tertiary levels of education. Assessments of the education system's performance should focus on these skills. The reformed primary school curriculum seeks to address these needs, but its effectiveness in doing so has not been established empirically. Priority should be given to monitoring performance and adapting designs to further enhance outcomes.
 
 #### 4.4.2.2 Recommendations on LTEF sub-sectoral budget shares 2008-2015
 
@@ -1207,6 +1250,10 @@ The proposal is to keep funding for BTVET and Tertiary at a constant in real ter
 
 [[START OF PAGE 53]]
 
+Table 4
+Budget Shares for the Sector by Sub-sector
+(Expressed as percentage of total sector budget)
+
 Sub-sector | 2007/08 | 08/09 | 09/10 | 10/11 | 11/12 | 12/13 | 13/14
 --- | --- | --- | --- | --- | --- | --- | ---
 Primary | 59% | 59% | 59% | 59% | 59% | 59% | 59%
@@ -1215,8 +1262,6 @@ BTVET | 6% | 6% | 6% | 6% | 6% | 6% | 6%
 Tertiary | 10% | 10% | 10% | 10% | 10% | 10% | 10%
 Others | 2% | 2% | 2% | 2% | 2% | 2% | 2%
 Total | 100% | 100% | 100% | 100% | 100% | 100% | 100%
-
-Table 4 Budget Shares for the Sector by Sub-sector (Expressed as percentage of total sector budget)
 
 The budget shares in table 3 are not substantially different from the expenditure shares generated in the simulation model in table 3.
 
@@ -1260,14 +1305,14 @@ The ESSP  2008-2015 estimates  the  private  sector  (primarily  households) con
 
 Table 5 below presents affordability analysis.
 
-08-09 | 09-10 | 10-11 | 11-12 | 12-13 | 13-14 | 14-15
+Table 5: Affordability Index
+
+ | 08-09 | 09-10 | 10-11 | 11-12 | 12-13 | 13-14 | 14-15
 --- | --- | --- | --- | --- | --- | --- | ---
 Index of Income Per Capita | 1.148 | 1.188 | 1.229 | 1.272 | 1.317 | 1.363 | 1.411
 Index of Private Cost of Education Per Capita | 1.583 | 1.611 | 1.771 | 1.756 | 1.812 | 1.910 | 2.018
 Affordability Index | 1.380 | 1.356 | 1.441 | 1.381 | 1.376 | 1.401 | 1.430
 Percentage Increase (Decrease in Cost) | 38.0% | 35.6% | 44.1% | 38.1% | 37.6% | 40.1% | 43.0%
-
-Table 5: Affordability Index
 
 Under the BTVET sub-sector, the Ministry will collaborate with the private sector and relevant Ministries (Ministry of Finance, Planning and Economic Development; Ministry of Labour, Gender and Social Development, and Ministry of Trade and Industry) to introduce and implement an Industrial Training Levy. This will augment Government revenue sources for financing BTVET activities ( refer to section 3.1.3.4, objective 3, sub-objective 3.4)
 
@@ -1281,7 +1326,7 @@ The  Ministry  of  Education  and  Sports  working  with  relevant  agencies  li
 
 [[START OF PAGE 56]]
 
-### 4.4. 5 Recommendations on coping with operations without PAF protection
+### 4.4.5 Recommendations on coping with operations without PAF protection
 
 The Revised Strategic Plan 2007-2015 should be reviewed and further revised regularly in the annual Planning and Budgeting Workshops to more nearly fit into  the  budget  framework.    The  likely  contribution  to  priority  educational objectives of each policy initiative should be outlined and funds allocated to the most  important  of  these  objectives.    The  expansion  of  secondary  and  tertiary educational  opportunities  will  entail  growth  in  their  respective  budgets  and therefore  an increased share of public expenditures must be allocated to these sub-sectors as compared to primary education.
 
@@ -1293,7 +1338,7 @@ The revised ESSP is organized as the previous ESSP 2004-2015 and it will be impl
 
 The draft indicators and outcome targets (see Annex 4) laid out in the revised ESSP  are  in  line  with  the  sector  strategic  objectives,  which  will  guide  the implementation  of  the  Plan.    Different  sub-sectors  (and  departments)  will develop  and  periodically  update  work  plans,  in  line  with  the  relevant  policy objectives.    These  workplans  shall  spell  out  initiatives/interventions  to  be carried out in the medium term and long term.
 
-Primary  education  is  a  decentralised  service  and  the  decentralised  framework governs its implementation.  Other levels of education are virtually centrailised. Implementing the Plan will involve various players being in charge of various functions. The Ministry of Education and Sports shall be the engine to propel the  implementation  of  the  Plan.    Departments  will  generate  action  plans,  set standards  and  policy  and  monitor  and  evaluate  delivery  of  services.    Districts and  Municipalities  (LGs)  shall  oversee  implementation  of  the  decentralised programs and activities translating from the Plan. Schools and institutions are the level at which the education and training service is delivered.  Head teachers and  their  deputies  will  be  responsible  for  school-level  supervision  of  the teaching and learning process.  Communities/Civil Society and parents have a key  role  of  monitoring,  inspecting  of  education  services  and  where  possible funding  the  education  of  their  children.    These  functions  are  key  to  the  Plan. Funding  Agencies  will  facilitate  the  implementation  of  the  plan  when  they participate  in  the  planning  function,  provision  of  finances,  monitoring  and evaluation together with other Line Ministries that support the implementation of the Education Service.  The Head of Public Service/Secretary to Cabinet will play the role of call of last resort for purposes of ensuring harmonisation in the delivery of services.  Ministry of Public Service is responsible for recruitment and  deployment  of  staff.    Ministry  of  Local  Government  is  responsible  for coordinating, overseeing and building capacity of local government structures. Ministry  of  Health  is  responsible  for  the  delivery  of  health  services,  while Ministry of Water and Environment ensures sanitation standards and protection of the environment in schools/institutions.
+Primary education is a decentralised service and the decentralised framework governs its implementation. Other levels of education are virtually centrailised. Implementing the Plan will involve various players being in charge of various functions. The Ministry of Education and Sports shall be the engine to propel the implementation of the Plan. Departments will generate action plans, set standards and policy and monitor and evaluate delivery of services. Districts and Municipalities (LGs) shall oversee implementation of the decentralised programs and activities translating from the Plan. Schools and institutions are the level at which the education and training service is delivered. Head teachers and their deputies will be responsible for school-level supervision of the
 
 56
 
@@ -1301,7 +1346,9 @@ Primary  education  is  a  decentralised  service  and  the  decentralised  fram
 
 [[START OF PAGE 57]]
 
-The  technical  capacity  to  implement  the  Plan  is  available  within  the  Sector, while  the  SWAP  framework  through  which  the  Plan  will  be  implemented enhances  the institutional capacity. One  key  constraint envisaged  in the implementation  of  the  plan  is  the  fact  that  some  of  the  education  service  is decentralised. The  decentralization policy presents challenges in  ensuring accountability  and  timeliness.    It  is  hoped  that  penalising  errant  officers  will serve  to  mitigate  this  constraint.    Another  capacity  constraint  is  the  limited resources available within the LTEF ceilings.
+teaching and learning process. Communities/Civil Society and parents have a key role of monitoring, inspecting of education services and where possible funding the education of their children. These functions are key to the Plan. Funding Agencies will facilitate the implementation of the plan when they participate in the planning function, provision of finances, monitoring and evaluation together with other Line Ministries that support the implementation of the Education Service. The Head of Public Service/Secretary to Cabinet will play the role of call of last resort for purposes of ensuring harmonisation in the delivery of services. Ministry of Public Service is responsible for recruitment and deployment of staff. Ministry of Local Government is responsible for coordinating, overseeing and building capacity of local government structures. Ministry of Health is responsible for the delivery of health services, while Ministry of Water and Environment ensures sanitation standards and protection of the environment in schools/institutions.
+
+The technical capacity to implement the Plan is available within the Sector, while the SWAP framework through which the Plan will be implemented enhances the institutional capacity. One key constraint envisaged in the implementation of the plan is the fact that some of the education service is decentralised. The decentralization policy presents challenges in ensuring accountability and timeliness. It is hoped that penalising errant officers will serve to mitigate this constraint. Another capacity constraint is the limited resources available within the LTEF ceilings.
 
 ## 5.2 Monitoring & Evaluation Framework
 
