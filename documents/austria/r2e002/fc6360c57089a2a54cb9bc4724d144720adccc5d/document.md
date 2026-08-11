@@ -8,8 +8,6 @@ March 2012
 
 [[START OF PAGE 2]]
 
-§ 7. § 8.
-
 # TABLE OF CONTENTS
 
 ## Section 1
@@ -19,11 +17,18 @@ March 2012
 
 ## Section 2 Private Universities
 
-§ 2. Accreditation Requirements § 3. Studies § 4. Organisation and Staff § 5. Prohibition of Federal Funding § 6. Reporting
+§ 2. Accreditation Requirements
+§ 3. Studies
+§ 4. Organisation and Staff
+§ 5. Prohibition of Federal Funding
+§ 6. Reporting
 
 ## Section 3
 
 ## Entry into Force, Expiry, Transitional Provisions and Enactment
+
+§ 7.
+§ 8.
 
 [[END OF PAGE 2]]
 
@@ -31,9 +36,10 @@ March 2012
 
 # QUOTATION
 
-## Federal Act on Private Universities (Private Universities Act - PUG)
+## Federal Act on Private Universities (Private Universities Act – PUG)
 
-Promulgation: Federal Legal Gazette 1 I No. 74/2011 Entry into Force: March 1, 2012
+Promulgation: Federal Legal Gazette¹ I No. 74/2011
+Entry into Force: March 1, 2012
 
 1
 
@@ -43,13 +49,13 @@ Bundesgesetzblatt für die Republik Österreich (BGBl.).
 
 [[START OF PAGE 4]]
 
-# PRIVATE UNIVERSITIES ACT - PUG 2
+# PRIVATE UNIVERSITIES ACT – PUG²
 
 ## Section 1 Scope of Regulation
 
 § 1. (1)  The  present  Federal  Act  shall  regulate  the  organisation  of  private universities.
 
-- The  procedure  for  the  accreditation  of  private  universities  and  of  degree programmes  at  private  universities  shall  be  subject  to  the  provisions  of  the  Act  on Quality Assurance in Higher Education (HS-QSG), Federal Law Gazette I No. 74/2011.
+(2) The procedure for the accreditation of private universities and of degree programmes at private universities shall be subject to the provisions of the Act on Quality Assurance in Higher Education (HS-QSG), Federal Law Gazette I No. 74/2011.
 
 ## Section 2 Private Universities
 
@@ -57,39 +63,39 @@ Bundesgesetzblatt für die Republik Österreich (BGBl.).
 
 § 2. (1)  For  an  application  for  the  accreditation  as  a  private  university,  for  the duration  of  the  accreditation  as  well  as  for  the  prolongation  of  the  accreditation,  an educational institution shall fulfil the following requirements:
 
-- It shall be a legal entity registered in Austria;
+1. It shall be a legal entity registered in Austria;
 
-- It shall submit a development plan that shall, taking into account the objectives of the educational institution, contain the main focus and planned activities in teaching and research as well as the development plan for the structure and contents, gender equality and the advancement of women, and the development of a quality management system;
+2. It shall submit a development plan that shall, taking into account the objectives of the educational institution, contain the main focus and planned activities in teaching and research as well as the development plan for the structure and contents, gender equality and the advancement of women, and the development of a quality management system;
 
-- It shall submit a draft statute according to § 4 para. 2;
+3. It shall submit a draft statute according to § 4 para. 2;
 
-- It  shall  offer  at  least  two  degree  programmes  in  one  or  several  scientific  or artistic disciplines that lead to an academic degree awarded for at least three years of full-time studies of international standard and at least one subsequent degree  programme.  The  initial  application  shall  be  accompanied  by  the curricula of the degree programmes planned. The curricula shall comply with material, specialist and formal requirements according to international standards;
+4. It shall offer at least two degree programmes in one or several scientific or artistic disciplines that lead to an academic degree awarded for at least three years of full-time studies of international standard and at least one subsequent degree programme. The initial application shall be accompanied by the curricula of the degree programmes planned. The curricula shall comply with material, specialist and formal requirements according to international standards;
 
-- It  shall  appoint  staff  for  teaching  and  research  of  international  scientific  or artistic  standard for research and teaching in the main subjects contained in the degree programmes planned. The initial application shall, as a minimum, be  accompanied  by  legally  binding  preliminary  employment  contracts  for  a sufficient number of staff members for the degree programmes planned;
+5. It shall appoint staff for teaching and research of international scientific or artistic standard for research and teaching in the main subjects contained in the degree programmes planned. The initial application shall, as a minimum, be accompanied by legally binding preliminary employment contracts for a sufficient number of staff members for the degree programmes planned;
 
-- It shall ensure that the staff, facilities and equipment needed for research and teaching are available from the beginning of the degree programmes planned. Proof thereof shall be supplied when the initial application is submitted;
+6. It shall ensure that the staff, facilities and equipment needed for research and teaching are available from the beginning of the degree programmes planned. Proof thereof shall be supplied when the initial application is submitted;
 
-- It shall meet all requirements of the assessment areas according to § 24 of the Act on Quality Assurance in Higher Education.
+7. It shall meet all requirements of the assessment areas according to § 24 of the Act on Quality Assurance in Higher Education.
 
-- The  private university shall observe  the following guiding principles in pursuance of its objectives:
+(2) The private university shall observe the following guiding principles in pursuance of its objectives:
 
-> 2 Privatuniversitätengesetz - PUG.
+> 2 Privatuniversitätengesetz – PUG.
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-- Freedom  of  sciences  and  their  teaching  (Art.  17  of  the  Basic  Law  on  the General Rights of Nationals, Imperial Legal Gazette No. 142/1867);
+1. Freedom of sciences and their teaching (Art. 17 of the Basic Law on the General Rights of Nationals, Imperial Legal Gazette No. 142/1867);
 
-- freedom  of  artistic  activity,  the  dissemination  of  the  arts  and  their  teaching (Art. 17a of the Basic Law on the General Rights of Nationals);
+2. freedom of artistic activity, the dissemination of the arts and their teaching (Art. 17a of the Basic Law on the General Rights of Nationals);
 
-- interaction between research and teaching;
+3. interaction between research and teaching;
 
-- diversity of scientific and artistic theories, methods and doctrines.
+4. diversity of scientific and artistic theories, methods and doctrines.
 
 (3)  Applications  for  the  accreditation  as  a  private  university  as  well  as  for  the accreditation of degree programmes of a private university shall be addressed to the Agency for Quality Assurance and Accreditation Austria.
 
-(4) Legal entities registered in Austria that have been accredited according to the regulations  of  the  Act  on  Quality  Assurance  in  Higher  Education  shall  include  the designation "Privatuniversität" in the name  of the educational institution. The designation  may  also  be  used  in  English  ("private  university").Agency  for  Quality Assurance and Accreditation Austria.
+(4) Legal entities registered in Austria that have been accredited according to the regulations of the Act on Quality Assurance in Higher Education shall include the designation "Privatuniversität" in the name of the educational institution. The designation may also be used in English ("private university").
 
 ### Studies
 
@@ -99,11 +105,13 @@ Bundesgesetzblatt für die Republik Österreich (BGBl.).
 
 (3)  Degree  programmes  at  private  universities  can  also  be  conducted  as  joint degree programmes. These are degree programmes conducted in the form of a joint, double, or multiple degree programme on the basis of an agreement between one or several  Austrian  universities,  providers  of  University  of  Applied  Sciences  degree programmes, other private universities or university colleges for education as well as recognised  postsecondary  educational  institutions  abroad,  with  these  agreements stipulating  the  workload  that  the  students  enrolled  shall  be  committed  to  at  the participating educational institutions.
 
-(4) Private universities shall be entitled to establish certificate university programmes  for  further  education.  These  programmes  may  also  be  run  jointly  by several  private  universities  as  well  as  together  with  other  recognised  postsecondary educational  institutions.  The  participating  educational  institutions  shall  conclude  an agreement regulating the implementation, in particular the responsibilities (admission, awarding  of  certificates,  recognition  of  exams,  etc.).  The  curriculum  to  be  enacted identically  by  the  participating  educational  institutions  shall  indicate  the  division  of subjects or courses among the educational institutions. Responsibilities under federal law shall remain unaffected by this provision. The certificate university programmes for further education may be conducted in cooperation with non-educational legal entities for the purpose of financial and organisational support.
+(4) Private universities shall be entitled to establish certificate university programmes for further education. These programmes may also be run jointly by several private universities as well as together with other recognised postsecondary educational institutions. The participating educational institutions shall conclude an agreement regulating the implementation, in particular the responsibilities (admission, awarding of certificates, recognition of exams, etc.). The curriculum to be enacted identically by the participating educational institutions shall indicate the division of subjects or courses among the educational institutions. Responsibilities under federal law shall remain unaffected by this provision. The certificate university programmes for
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
+further education may be conducted in cooperation with non-educational legal entities for the purpose of financial and organisational support.
 
 (5) The contractual relationships between students and the private university shall be governed by private law.
 
@@ -117,19 +125,19 @@ Bundesgesetzblatt für die Republik Österreich (BGBl.).
 
 (2) The statute shall, in particular, contain arrangements governing:
 
-- Guiding principles and tasks of the private university;
+1. Guiding principles and tasks of the private university;
 
-- bodies of the private university;
+2. bodies of the private university;
 
-- gender equality and the advancement of women;
+3. gender equality and the advancement of women;
 
-- student co-determination in academic matters;
+4. student co-determination in academic matters;
 
-- regulations  governing  the  degree  programmes,  in  particular  admission  and examination regulations as well as the heads of studies;
+5. regulations governing the degree programmes, in particular admission and examination regulations as well as the heads of studies;
 
-- guidelines for academic honours;
+6. guidelines for academic honours;
 
-- procedures for the appointment of professors and the awarding of habilitation degrees.
+7. procedures for the appointment of professors and the awarding of habilitation degrees.
 
 (3) The private university and its employees shall be entitled to use designations and  titles  associated  with  higher  education,  in  all  cases  with  the  addendum  "of  the private university …". The use of designations and titles according to the Universities Act  shall  only  be  permissible,  if  the  requirements  and  procedures  that  are  the foundation for these provisions are complied with by analogy.
 
@@ -151,11 +159,11 @@ Bundesgesetzblatt für die Republik Österreich (BGBl.).
 
 § 6. (1) Every private university shall submit a report on the developments during the preceding reporting period to the Agency for Quality Assurance and Accreditation Austria by the end of May of each year. This report shall include the following:
 
-- Information  on  the  developments  in  the  assessment  areas  according  to  the provisions of the Act on Quality Assurance in Higher Education;
+1. Information on the developments in the assessment areas according to the provisions of the Act on Quality Assurance in Higher Education;
 
-- Statistical data on changes in the number of students, graduates, and staff of the private university;
+2. Statistical data on changes in the number of students, graduates, and staff of the private university;
 
-- Information  on  changes  vis-à-vis  the  previous  report  or  vis-à-vis  the  last accreditation application.
+3. Information on changes vis-à-vis the previous report or vis-à-vis the last accreditation application.
 
 (2) The Agency for Quality Assurance and Accreditation Austria shall be entitled to set requirements regarding the structure of the report by decree. The reports shall be published by the private universities, excluding funding sources as well as operational and business secrets.
 
@@ -167,7 +175,7 @@ Bundesgesetzblatt für die Republik Österreich (BGBl.).
 
 § 8. (1) § 8 paras. 3 and 4 of this Act shall enter into force upon expiry of the day on which they become accessible in the Federal Legal Information System. All other provisions of this Federal Law shall enter into force on 1 March 2012.
 
-(2)  The  Federal  Act  on  the  Accreditation  of  Educational  Institutions  as  Private Universities (University Accreditation Act -UniAkkG), Federal Law Gazette I No. 168/1999,  as  amended  by  Federal  Law  Gazette I  No. 2/2008,  shall  expire  after 29 February 2012.
+(2) The Federal Act on the Accreditation of Educational Institutions as Private Universities (University Accreditation Act – UniAkkG), Federal Law Gazette I No. 168/1999, as amended by Federal Law Gazette I No. 2/2008, shall expire after 29 February 2012.
 
 (3) The members of the Accreditation Council under § 4 para. 7 of the University Accreditation  Act  acting  as  chairperson  and  vice-chairperson  on  30 September  2011 shall remain in office until 31 August 2012.
 
@@ -185,12 +193,12 @@ Bundesgesetzblatt für die Republik Österreich (BGBl.).
 
 (8) The following authorities are entrusted with the enactment of this Act:
 
-- in respect of the application of  the  Settlement  and  Residence  Act  in §§ 3 para. 6 and 4 para. 4, the Federal Minister of the Interior;
+1. in respect of the application of the Settlement and Residence Act in §§ 3 para. 6 and 4 para. 4, the Federal Minister of the Interior;
 
-- in respect of the application of the Foreigners' Employment Act in §§ 3 para. 6 and 4 para. 4, the application of the provisions of social insurance regulations with  regard  to  co-insurance  of  children  in  § 3  para. 7,  and  the  application  of the  Family  Allowances  Act  1967  in  § 3  para. 7,  the  Federal  Minister  of Economy, Family and Youth;
+2. in respect of the application of the Foreigners' Employment Act in §§ 3 para. 6 and 4 para. 4, the application of the provisions of social insurance regulations with regard to co-insurance of children in § 3 para. 7, and the application of the Family Allowances Act 1967 in § 3 para. 7, the Federal Minister of Economy, Family and Youth;
 
-- in respect of the application of the tax regulations regarding child allowances and  donations  to  private  universities  in  § 3  para. 7,  the  Federal  Minister  of Finance;
+3. in respect of the application of the tax regulations regarding child allowances and donations to private universities in § 3 para. 7, the Federal Minister of Finance;
 
-- in  respect  of  all  other  provisions,  the  Federal  Minister  for  Science  and Research.
+4. in respect of all other provisions, the Federal Minister for Science and Research.
 
 [[END OF PAGE 8]]
