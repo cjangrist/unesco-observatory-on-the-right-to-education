@@ -1,40 +1,43 @@
 [[START OF PAGE 1]]
 
-PEJABAT KETUA PENGARAH PENDIDIKAN MALAYSIA KEMENTERIAN PENDIDIKAN MALAYSIA PARAS 7, BLOK J PUSAT BANDAR DAMANSARA 50604 KUALA LUMPUR
+PEJABAT KETUA PENGARAH PENDIDIKAN MALAYSIA
+KEMENTERIAN PENDIDIKAN MALAYSIA
+PARAS 7, BLOK J
+PUSAT BANDAR DAMANSARA
+50604 KUALA LUMPUR
+
+Tel : 03-2586900
+Fax : 03-2535150
+Laman Web : http://www.moe.gov.my
+
+KP(BS) 8591/Jld.XVIII (14)
+27 November 2002
 
 Semua Pengarah Pendidikan Negeri
 
-Y.Bhg. Datuk/Dato'/Tuan/Puan,
+Y.Bhg. Datuk/Dato’/Tuan/Puan,
 
 # SURAT PEKELILING IKHTISAS BIL. 14/2002 : PELAKSANAAN PENDIDIKAN WAJIB DI PERINGKAT RENDAH 2003
 
-Surat  pekeliling  ini  adalah  bertujuan  untuk  menjelaskan  tatacara  pelaksanaan  pendidikan wajib di peringkat sekolah rendah 2003..
+Surat pekeliling ini adalah bertujuan untuk menjelaskan tatacara pelaksanaan pendidikan wajib di peringkat sekolah rendah 2003..
 
-- Akta Pendidikan 1996 telah dipinda dengan memasukkan satu seksyen baru, iaitu Seksyen  29A  yang  menetapkan  kuasa  Menteri  untuk  mewajibkan  pendidikan  rendah  di negara ini. Seksyen 29A (2) juga menjelaskan bahawa setiap ibu bapa yang merupakan warganegara  Malaysia  hendaklah  memastikan  bahawa  jika  anaknya  telah  mencapai umur enam tahun pada hari pertama bulan Januari dalam tahun persekolahan semasa anak  itu  didaftarkan  sebagai  murid  di  sekolah  rendah  dalam  tahun  itu  dan  terus menjadi murid di sekolah rendah sepanjang tempoh pendidikan wajib .
+2. Akta Pendidikan 1996 telah dipinda dengan memasukkan satu seksyen baru, iaitu Seksyen 29A yang menetapkan kuasa Menteri untuk mewajibkan pendidikan rendah di negara ini. Seksyen 29A (2) juga menjelaskan bahawa setiap ibu bapa yang merupakan warganegara Malaysia hendaklah memastikan bahawa jika anaknya telah mencapai umur enam tahun pada hari pertama bulan Januari dalam tahun persekolahan semasa anak itu didaftarkan sebagai murid di sekolah rendah dalam tahun itu dan terus menjadi murid di sekolah rendah sepanjang tempoh pendidikan wajib.
 
-- Kementerian  Pendidikan  menetapkan  untuk  melaksanakan  pendidikan  wajib  di peringkat rendah berkuat kuasa pada 1 Januari 2003.
+3. Kementerian Pendidikan menetapkan untuk melaksanakan pendidikan wajib di peringkat rendah berkuat kuasa pada 1 Januari 2003.
 
-- Sehubungan  itu,  bersama-sama  ini  disertakan  buku  Garis  Panduan  Pelaksanaan Pendidikan Wajib Di Peringkat Rendah 2003 untuk diguna pakai sebagai panduan Y.Bhg. Datuk/Dato'/Tuan/Puan  dalam  melaksanakan  pendidikan  wajib  di  peringkat  rendah  yang bermula pada Januari 2003. Buku ini mengandungi perkara-perkara berikut :
+4. Sehubungan itu, bersama-sama ini disertakan buku Garis Panduan Pelaksanaan Pendidikan Wajib Di Peringkat Rendah 2003 untuk diguna pakai sebagai panduan Y.Bhg. Datuk/Dato’/Tuan/Puan dalam melaksanakan pendidikan wajib di peringkat rendah yang bermula pada Januari 2003. Buku ini mengandungi perkara-perkara berikut :
 
-- 4.1 Mekanisme permohonan penempatan, pengesahan penempatan dan pendaftaran murid Tahun 1;
+4.1 Mekanisme permohonan penempatan, pengesahan penempatan dan pendaftaran murid Tahun 1;
 
-- 4.2 Mekanisme penyiasatan murid cicir;
+4.2 Mekanisme penyiasatan murid cicir;
 
-- 4.3 Risalah atau 'pamplet' untuk hebahan pendidikan wajib; dan
+4.3 Risalah atau ’pamplet’ untuk hebahan pendidikan wajib; dan
 
-- 4.4 Peraturan-Peraturan Pendidikan (Pendidikan Wajib) 2002.
+4.4 Peraturan-Peraturan Pendidikan (Pendidikan Wajib) 2002.
 
-- Bagi  melicinkan  pelaksanaan  tersebut,  khususnya  dalam  penyiasatan  murid  cicir, Akta  Pendidikan  1996  di  bawah  Seksyen  136  telah  memperuntukkan  pemberian kuasa untuk menyiasat seperti berikut :-
+5. Bagi melicinkan pelaksanaan tersebut, khususnya dalam penyiasatan murid cicir, Akta Pendidikan 1996 di bawah Seksyen 136 telah memperuntukkan pemberian kuasa untuk menyiasat seperti berikut :-
 
-'Pada menjalankan kuasa di bawah subseksyen 136 (1) Akta Pendidikan 1996 (Akta 550),  Ketua  Pendaftar  Sekolah  dan  Guru  memberi  kuasa  kepada  Pendaftar  Sekolah dan  Guru,  Pegawai  Pendidikan  di  daerah  dan  kawasan,  guru  besar,  pengetua,  guru penolong kanan (HEM), dan guru bimbingan di sekolah kerajaan dan bantuan kerajaan untuk  menyiasat  apa-apa  perlakuan  suatu  kesalahan  di  bawah  seksyen  29A  Akta Pendidikan 1996  dan Peraturan-Peraturan Pendidikan (Pendidikan Wajib) 2002,
-
-Tel : 03-2586900
-
-Fax :  03-2535150
-
-Laman Web : http://www.moe.gov.my
-
-KP(BS) 8591/Jld.XVIII (14) 27 November 2002
+”Pada menjalankan kuasa di bawah subseksyen 136 (1) Akta Pendidikan 1996 (Akta 550), Ketua Pendaftar Sekolah dan Guru memberi kuasa kepada Pendaftar Sekolah dan Guru, Pegawai Pendidikan di daerah dan kawasan, guru besar, pengetua, guru penolong kanan (HEM), dan guru bimbingan di sekolah kerajaan dan bantuan kerajaan untuk menyiasat apa-apa perlakuan suatu kesalahan di bawah seksyen 29A Akta Pendidikan 1996 dan Peraturan-Peraturan Pendidikan (Pendidikan Wajib) 2002,
 
 Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Kementerian Pelajaran Malaysia
 
@@ -42,41 +45,50 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 
 [[START OF PAGE 2]]
 
-tertakluk  kepada  apa-apa  garis  panduan  dan  arahan  yang  dikeluarkanoleh  Ketua Pendaftar dari semasa ke semasa mulai 1 Januari 2003. (Rujuk Lampiran 1 ).
+tertakluk kepada apa-apa garis panduan dan arahan yang dikeluarkanoleh Ketua Pendaftar dari semasa ke semasa mulai 1 Januari 2003. (Rujuk Lampiran 1).
 
-- Kerjasama daripada Y.Bhg. Datuk/Dato'/Tuan/Puan adalah dipohon supaya memberi perhatian  khusus  terhadap  kanak-kanak  yang  didapati  tercicir  dan  mengambil  tindakan sewajarnya bagi kes-kes berikut :-
+6. Kerjasama daripada Y.Bhg. Datuk/Dato’/Tuan/Puan adalah dipohon supaya memberi perhatian khusus terhadap kanak-kanak yang didapati tercicir dan mengambil tindakan sewajarnya bagi kes-kes berikut :-
 
-- 6.1 Murid-murid yang telah mengesahkan penempatan tetapi tidak hadir mendaftar di sekolah  yang  telah  diluluskan  selepas  empat  belas  (14)  hari  dari  hari  pertama persekolahan tahun berkenaan;
+6.1 Murid-murid yang telah mengesahkan penempatan tetapi tidak hadir mendaftar di sekolah yang telah diluluskan selepas empat belas (14) hari dari hari pertama persekolahan tahun berkenaan;
 
-- 6.2 Aduan/laporan mengenai murid cicir yang diterima daripada orang awam; dan
+6.2 Aduan/laporan mengenai murid cicir yang diterima daripada orang awam; dan
 
-- 6.3 Kes  murid  cicir  yang  ada  dalam  pengetahuan  Sekolah/Pejabat  Pendidikan Daerah/Pejabat Pendidikan Bahagian/Jabatan Pendidikan Negeri.
+6.3 Kes murid cicir yang ada dalam pengetahuan Sekolah/Pejabat Pendidikan Daerah/Pejabat Pendidikan Bahagian/Jabatan Pendidikan Negeri.
 
-- Sila  maklumkan  kandungan  Surat  Pekeliling  Ikhtisas  ini  kepada  semua  sekolah  di bawah pentadbiran Y.Bhg. Datuk/Dato'/Tuan/Puan.
+7. Sila maklumkan kandungan Surat Pekeliling Ikhtisas ini kepada semua sekolah di bawah pentadbiran Y.Bhg. Datuk/Dato’/Tuan/Puan.
 
 Sekian, terima kasih.
 
-'BERKHIDMAT UNTUK NEGARA'
+“BERKHIDMAT UNTUK NEGARA”
 
-DATUK ABDUL RAFIE  BIN MAHAT Ketua Pengarah Pendidikan Malaysia Merangkap Ketua Pendaftar Sekolah dan Guru
+DATUK ABDUL RAFIE BIN MAHAT
+Ketua Pengarah Pendidikan Malaysia
+Merangkap
+Ketua Pendaftar Sekolah dan Guru
 
-- s.k 1. Y.B. Tan Sri Dato' Seri Musa bin Mohamad Menteri Pelajaran Malaysia
+s.k 1. Y.B. Tan Sri Dato’ Seri Musa bin Mohamad
+Menteri Pelajaran Malaysia
 
-- Y.B. Dato' Abdul Aziz bin Shamsuddin Timbalan Menteri Pendidikan Malaysia
+2. Y.B. Dato’ Abdul Aziz bin Shamsuddin
+Timbalan Menteri Pendidikan Malaysia
 
-- Y.B. Dato' Hon Choon Kim Timbalan Menteri Pendidikan Malaysia
+3. Y.B. Dato’ Hon Choon Kim
+Timbalan Menteri Pendidikan Malaysia
 
-- Y.B. Dato' Mahadzir bin Mohd Khir Setiausaha Parliman, Kementerian Pendidikan Malaysia
+4. Y.B. Dato’ Mahadzir bin Mohd Khir
+Setiausaha Parliman, Kementerian Pendidikan Malaysia
 
-- Ketua Setiausaha, Kementerian Pendidikan Malaysia
+5. Ketua Setiausaha, Kementerian Pendidikan Malaysia
 
-- Timbalan-Timbalan Ketua Setiausaha Kementerian Pendidikan Malaysia
+6. Timbalan-Timbalan Ketua Setiausaha
+Kementerian Pendidikan Malaysia
 
-- Timbalan-Timbalan Ketua Pengarah Pendidikan Kementerian Pendidikan Malaysia
+7. Timbalan-Timbalan Ketua Pengarah Pendidikan
+Kementerian Pendidikan Malaysia
 
-- Ketua-Ketua Bahagian, Kementerian Pendidikan Malaysia
+8. Ketua-Ketua Bahagian, Kementerian Pendidikan Malaysia
 
-- Ketua Jemaah Nazir Sekolah, Kementerian Pendidikan Malaysia
+9. Ketua Jemaah Nazir Sekolah, Kementerian Pendidikan Malaysia
 
 Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Kementerian Pelajaran Malaysia
 
@@ -84,9 +96,9 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 
 [[START OF PAGE 3]]
 
-- Penasihat Undang-Undang, Kementerian Pendidikan Malaysia
+10. Penasihat Undang-Undang, Kementerian Pendidikan Malaysia
 
-- Ketua Perhubungan Awam, Kementerian Pendidikan Malaysia
+11. Ketua Perhubungan Awam, Kementerian Pendidikan Malaysia
 
 Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Kementerian Pelajaran Malaysia
 
@@ -94,35 +106,30 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 
 [[START OF PAGE 4]]
 
+PEJABAT KETUA PENGARAH PENDIDIKAN MALAYSIA
+KEMENTERIAN PENDIDIKAN MALAYSIA
+PARAS 7, BLOK J
+PUSAT BANDAR DAMANSARA
 50604 KUALA LUMPUR
 
-PEJABAT KETUA PENGARAH PENDIDIKAN MALAYSIA
+Tel : 03-2586900
+Fax : 03-2535150
+Laman Web : http://www.moe.gov.my
 
-KEMENTERIAN PENDIDIKAN MALAYSIA
-
-PARAS 7, BLOK J
-
-PUSAT BANDAR DAMANSARA
+# Lampiran 1
 
 # AKTA PENDIDIKAN 1996
 
 ## PEMBERIAN KUASA DI BAWAH SEKSYEN 136
 
-Pada menjalankan kuasa di bawah subseksyen 136 (1) Akta Pendidikan 1996 (Akta 550), Ketua Pendaftar Sekolah dan Guru memberi kuasa kepada Pendaftar Sekolah dan Guru, Pegawai Pendidikan di daerah dan kawasan, guru besar, pengetua, guru penolong kanan (HEM), dan guru bimbingan di sekolah kerajaan dan bantuan kerajaan untuk menyiasat apaapa  perlakuan  suatu  kesalahan  di  bawah  seksyen  29A  Akta  Pendidikan  1996  dan Peraturan-Peraturan Pendidikan (Pendidikan  Wajib)  2002, tertakluk  kepada  apa-apa  garis panduan dan arahan yang dikeluarkan oleh Ketua Pendaftar dari semasa ke semasa, mulai 1 Januari 2003.
+Pada menjalankan kuasa di bawah subseksyen 136 (1) Akta Pendidikan 1996 (Akta 550), Ketua Pendaftar Sekolah dan Guru memberi kuasa kepada Pendaftar Sekolah dan Guru, Pegawai Pendidikan di daerah dan kawasan, guru besar, pengetua, guru penolong kanan (HEM), dan guru bimbingan di sekolah kerajaan dan bantuan kerajaan untuk menyiasat apa-apa perlakuan suatu kesalahan di bawah seksyen 29A Akta Pendidikan 1996 dan Peraturan-Peraturan Pendidikan (Pendidikan Wajib) 2002, tertakluk kepada apa-apa garis panduan dan arahan yang dikeluarkan oleh Ketua Pendaftar dari semasa ke semasa, mulai 1 Januari 2003.
 
-DATUK ABDUL RAFIE  BIN MAHAT Ketua Pendaftar Sekolah dan Guru
+DATUK ABDUL RAFIE BIN MAHAT
+Ketua Pendaftar Sekolah dan Guru
 
 No. Fail : KP(BS)8591/JldXVIII (14)
 
 Tarikh : 27 November 2002
-
-Tel : 03-2586900
-
-Fax :  03-2535150
-
-Laman Web : http://www.moe.gov.my
-
-# Lampiran 1
 
 Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Kementerian Pelajaran Malaysia
 
@@ -142,25 +149,28 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 
 [[START OF PAGE 6]]
 
+PENDIDIKAN (PINDAAN)
+
 ## Pindaan Seksyen 29
 
-6. Seksyen  29  Akta  ibu  dipinda  dengan  menggantikan  perkataan  'kebangsaan  atau sekolah jenis kebangsaan' dengan perkataan 'kebangsaan, sekolah jenis kebangsaan atau sekolah sekolah swasta'.
+6. Seksyen 29 Akta ibu dipinda dengan menggantikan perkataan ”kebangsaan atau sekolah jenis kebangsaan” dengan perkataan ”kebangsaan, sekolah jenis kebangsaan atau sekolah sekolah swasta”.
 
 ## Seksyen baru 29A
 
 7. Akta ibu dipinda dengan memasukkan selepas seksyen 29 seksyen yang berikut :
 
-29A (1)  Menteri  boleh,  melalui  perintah  yang  disiarkan  dalam Warta , menetapkan pendidikan rendah menjadi pendidikan wajib. Pendidikan Rendah Wajib
+29A (1) Menteri boleh, melalui perintah yang disiarkan dalam Warta, menetapkan pendidikan rendah menjadi pendidikan wajib.
 
-(2)  Tiap-tiap  ibu  bapa  yang  merupakan  warganegara  Malaysia yang  tinggal  di  Malaysis  hendaklah  memastikan  bahawa  jika  anaknya telah  mencapai  umur  enam  tahun  pada  hari  pertama  bulan  Januari dalam tahun persekolahan semasa anak itu didaftarkan sebagai murid di sekolah rendah dalam tahun itu dan terus menjadi murid di sekolah rrendah sepanjang tempoh pendidikan wajib.
+(2) Tiap-tiap ibu bapa yang merupakan warganegara Malaysia yang tinggal di Malaysis hendaklah memastikan bahawa jika anaknya telah mencapai umur enam tahun pada hari pertama bulan Januari dalam tahun persekolahan semasa anak itu didaftarkan sebagai murid di sekolah rendah dalam tahun itu dan terus menjadi murid di sekolah rrendah sepanjang tempoh pendidikan wajib.
 
-(3)  Menteri  boleh,  jika  difikirkan  wajar  dan  demi  kepentingan  murid atau  awam  untuk  berbuat  demikian,  melalui  perintah  yang  disiarkan  dalam Warta,  mengecualikan  mana-mana  murid  atau  mana-mana  golongan  murid daripada  kehendak  supaya  mengikuti  pendidikan  wajib,  sama  ada  secara mutlak atau tertakluk kepada apa-apa syarat yang difikirkan patut dikenakan, dan boleh pada bila-bila masa  menurut budi bicaranya  membatalkan pengecualian itu atau membatalkan atau mengubah atau menambah syaratsyarat itu.
+(3) Menteri boleh, jika difikirkan wajar dan demi kepentingan murid atau awam untuk berbuat demikian, melalui perintah yang disiarkan dalam Warta, mengecualikan mana-mana murid atau mana-mana golongan murid daripada kehendak supaya mengikuti pendidikan wajib, sama ada secara mutlak atau tertakluk kepada apa-apa syarat yang difikirkan patut dikenakan, dan boleh pada bila-bila masa menurut budi bicaranya membatalkan pengecualian itu atau membatalkan atau mengubah atau menambah syarat-syarat itu.
 
-(4) Ibu bapa yang melanggar subseksyen (2) adalah melakukan suatu kesalahan  dan  boleh,  apabila  disabitkan,  didenda  tidak  melebihi  lima  ribu ringgit  atau  dipenjarakan  selama  tempoh  tidak  melebihi  enam  bulan  atau kedua-duanya.
+(4) Ibu bapa yang melanggar subseksyen (2) adalah melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya.
 
 (5) Menteri boleh membuat peraturan-peraturan untuk melaksanakan peruntukan seksyen ini.
 
-PENDIDIKAN (PINDAAN)
+Pendidikan
+Rendah Wajib
 
 Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Kementerian Pelajaran Malaysia
 
@@ -172,19 +182,20 @@ P.U. (B) 350 - 351
 
 1274
 
-Bil/ | Nama dan Alamaat/ | Nombor Pendaftaran Registration Number
+Bil/No. | Nama dan Alamaat/Name and Address | Nombor Pendaftaran/Registration Number
 --- | --- | ---
-No. | Name and Address
 43. | Encik Zulkifly bin Hussin Sek. Men. Keb. Padang Tembak Jalan Semarak 54100 Kuala Lumpur | 00104
 44. | Encik Choong Kee Pin 32, Jalan Saru Taman Bukit Mentakab 28400 Mentakab Pahang Darul Makmur | 00105
 
 Bertarikh 24 Oktober 2002
+Dated 24 October 2002
+[KP(BPPDP)/604/022(1); PN(U²)592/II]
 
-Dated 24 October 2002 [KP(BPPDP)/604/022(1); PN(U²)592/II]
+NOR AMNI BINTI YUSOFF
+Pendaftar Kaunselor
+Registrar of Counsellors
 
 P.U. (B) 351.
-
-NOR AMNI BINTI YUSOFF Pendaftar Kaunselor Registrar of Counsellors
 
 ## AKTA PENDIDIKAN (PINDAAN) 2002
 
@@ -228,13 +239,13 @@ PADA menjalankan kuasa yang diberikan oleh subseksyen 29A(1) Akta Pendidikan 199
 
 #### Nama dan permulaan kuat kuasa
 
-(1) Perintah ini bolehlah dinamakan Perintah Pendidikan (Pendidikan Wajib) 2002.
+1. (1) Perintah ini bolehlah dinamakan Perintah Pendidikan (Pendidikan Wajib) 2002.
 
-- Perintah ini mula berkuat kuasa pada 1 Januari 2003.
+(2) Perintah ini mula berkuat kuasa pada 1 Januari 2003.
 
 #### Pendidikan Wajib
 
-- Pendidikan rrendah adalah ditetapkan menjadi pendidikan wajib.
+2. Pendidikan rrendah adalah ditetapkan menjadi pendidikan wajib.
 
 Dibuat 8 November 2002 [KP(BPPDP)/604/022(2); PN(U²)569/V]
 
@@ -248,13 +259,13 @@ IN exercise of the powers conferred by subsection 29A(1) of the Education Act 19
 
 #### Citation and commencement
 
-(1) This order may be cited as the Education (Compulsory Education) Order 2002.
+1. (1) This order may be cited as the Education (Compulsory Education) Order 2002.
 
-- This Order comes into operation on 1 January 2003.
+(2) This Order comes into operation on 1 January 2003.
 
 #### Compulsory education
 
-- Primary education is prescribed to be compulsory education.
+2. Primary education is prescribed to be compulsory education.
 
 Made 8 November 2002 [KP(BPPDP)/604/022(2); PN(U²)569/V]
 
@@ -286,7 +297,7 @@ PADA menjalankan kuasa yang diberikan oleh subseksyen 29A(1) Akta Pendidikan 199
 
 #### Tafsiran
 
-- Dalam Peraturan-Peraturan ini melainkan jika konteksnya menghendaki makna yang lain -
+2. Dalam Peraturan-Peraturan ini melainkan jika konteksnya menghendaki makna yang lain -
 
 'guru besar' atau 'pengetua' ertinya seorang pegawai dalam Perkhidmatan Pendidikan yang dilantik oleh Ketua Pengarah Pendidikan atau seseorang yang dilantik oleh lembaga pengelola suatu sekolah swasta, untuk bertanggungjawab bagi pentadbiran atau pengurusan sesuatu sekolah;
 
@@ -294,7 +305,7 @@ PADA menjalankan kuasa yang diberikan oleh subseksyen 29A(1) Akta Pendidikan 199
 
 #### Murid Cicir
 
-(1) jika suatu aduan mengenai murid cicir diterima daripada mana-mana pihak -
+3. (1) jika suatu aduan mengenai murid cicir diterima daripada mana-mana pihak -
 
 (a) guru besar atau pengetua sekolah kerajaan atau, sekolah bantuan kerajaan hendaklah mengambil tindakan mengikut garis panduan dan arahan yang dikeluarkan oleh Ketua Pendaftar dari semasa ke semasa; dan
 
@@ -324,97 +335,40 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 
 [[START OF PAGE 11]]
 
+CARTA ALIRAN
+
 ## PROSES PERMOHONAN PENEMPATAN/PENGESAHAN DAN PENDAFTARAN MURID
-
-CARTA ALIRAN TAHUN 1
-
-KPM menghantar surat siaran kepada JPN supaya
-
-menghebahkan permohonan penempatan murid Tahun 1
-
-JPN membuat hebahan permohonan penempatan dalam
-
-media massa tempatan dan surat siaran permohonan
-
-penempatan ke sekolah selewat-lewatnya pada 15 Februari
-
-Proses permohonan penempatan dilaksanakan oleh pihak
-
-sekolah sepanjang bulan Mac
-
-Rumusan permohonan penempatan disediakan oleh
-
-sekolah dan dihantar ke PPD/PPG/JPN* selewat-lewatnya
-
-pada 15 April
-
-Penempatan murid ditentukan oleh PPD/PPG/JPN*,
-
-Keputusan permohonan penempatan dihantar ke sekolah
-
-selewat-lewatnya 14 Julai
-
-Maklumat Tidak Lengkap
-
-Pengedaran surat kelulusan penempatan kepada ibu
-
-bapa/penjaga oleh pihak sekolah bermula 15 Julai
-
-Hebahan pengesahan penempatan oleh JPN, PPD/PPG
-
-dan sekolah mulai 15 Julai hingga 30 Ogos
-
-Pengesahan penempatan oleh ibu bapa murid (1 hingga
-
-30 Ogos, kecuali Hari Kelepasan Am
+TAHUN 1
 
 MULA
 
-Borang permohonan
+KPM menghantar surat siaran kepada JPN supaya menghebahkan permohonan penempatan murid Tahun 1
 
-penempatan lewat,
+JPN membuat hebahan permohonan penempatan dalam media massa tempatan dan surat siaran permohonan penempatan ke sekolah selewat-lewatnya pada 15 Februari
 
-rayuan penempatan
+Proses permohonan penempatan dilaksanakan oleh pihak sekolah sepanjang bulan Mac
 
-dihantar ke
+Rumusan permohonan penempatan disediakan oleh sekolah dan dihantar ke PPD/PPG/JPN* selewat-lewatnya pada 15 April
 
-PPD/PPG/JPN*
+Penempatan murid ditentukan oleh PPD/PPG/JPN*, Keputusan permohonan penempatan dihantar ke sekolah selewat-lewatnya 14 Julai
 
-untuk tindakan
+Maklumat Tidak Lengkap
 
-selanjutnya (dalam
+Borang permohonan penempatan lewat, rayuan penempatan dihantar ke PPD/PPG/JPN* untuk tindakan selanjutnya (dalam tempoh dua minggu selepas tarikh pengesahan penempatan)
 
-tempoh dua minggu
+Pengedaran surat kelulusan penempatan kepada ibu bapa/penjaga oleh pihak sekolah bermula 15 Julai
 
-selepas tarikh
+Hebahan pengesahan penempatan oleh JPN, PPD/PPG dan sekolah mulai 15 Julai hingga 30 Ogos
 
-pengesahan
+Pengesahan penempatan oleh ibu bapa murid (1 hingga 30 Ogos, kecuali Hari Kelepasan Am
 
-penempatan)
+Ibu bapa yang gagal membuat pengesahan
 
-SELESAI
+PPD/PPG/JPN dimaklumkan murid yang gagal membuat pengesahan
 
 Pendaftaran hari pertama persekolahan
 
-Ibu bapa yang
-
-gagal
-
-membuat
-
-pengesahan
-
-PPD/PPG/JPN
-
-dimaklumkan
-
-murid yang
-
-gagal
-
-membuat
-
-pengesahan
+SELESAI
 
 (Catatan : JPN* merujuk kepada JPN yang tiada PPD/PPG)
 
@@ -461,13 +415,11 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 
 MULA
 
-SELESAI
-
-Menyedia dan mengedarkan surat siaran hebahan permohonan
-
-penempatan ke sekolah mulai Februari hingga Mac
+Menyedia dan mengedarkan surat siaran hebahan permohonan penempatan ke sekolah mulai Februari hingga Mac
 
 Menghubungi pihak media massa tempatan
+
+SELESAI
 
 ### PROSES KERJA HEBAHAN PERMOHONAN PENEMPATAN (TINDAKAN JPN)
 
@@ -486,147 +438,52 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 
 MULA
 
-Sekolah
-
-menyediakan
-
-rumusan
-
-pendaftaran :
-
-•
-
-Maklumat Murid;
-
-•
-
-Maklumat Bapa;
-
-•
-
-Maklumat Ibu;
-
-•
-
-Maklumat
-
-Penjaga;
-
-•
-
-Maklumat Am;
-
-•
-
-Pengesahan oleh
-
-Pengamal
-
-Perubatan
-
-SELESAI
-
-Menerima surat siaran permohonan
-
-penempatan dari JPN
+Menerima surat siaran permohonan penempatan dari JPN
 
 Sekolah mengeluarkan hebahan melalui :
+• Surat kepada ibu bapa/penjaga;
+• Poster (di surau, masjid, dewan orang ramai, tempat-tempat awam);
+• Pengumuman dalam perhimpunan mingguan sekolah dan tempat awam;
+• Murid membawa pulang surat pemberitahuan pendaftaran ke kampung masing-masing (Sabah dan Sarawak);
 
-•
-
-Surat kepada ibu bapa/penjaga;
-
-•
-
-Poster (di surau, masjid, dewan orang
-
-ramai, tempat-tempat awam);
-
-•
-
-Pengumuman dalam perhimpunan
-
-mingguan sekolah dan tempat awam;
-
-•
-
-Murid membawa pulang surat
-
-pemberitahuan pendaftaran ke kampung
-
-masing-masing (Sabah dan Sarawak);
-
-Penerimaan permohonan penempatan
-
-kanak-kanak oleh pihak sekolah dan dicatat
-
-dalam Buku Rekod Permohonan
-
-Penempatan Murid
+Penerimaan permohonan penempatan kanak-kanak oleh pihak sekolah dan dicatat dalam Buku Rekod Permohonan Penempatan Murid
 
 Ada dokumen lengkap
 
-Tiada
+Sekolah menyediakan rumusan permohonan penempatan :
+• Maklumat Murid;
+• Maklumat Bapa;
+• Maklumat Ibu;
+• Maklumat Penjaga;
+• Maklumat Am;
 
-Kanak-kanak
+Sekolah hantar senarai murid ke PPD/PPG/JPN
 
-Tanpa Sijil
-
-Kelahiran
-
-Kanak-kanak
-
-Pendidikan
-
-Khas
-
-Pemeriksaan
-
-Doktor
-
-Ibu bapa
-
-uruskan
-
-Sijil
-
-Kelahiran
+SELESAI
 
 Tiada
+
+Kanak-kanak Tanpa Sijil Kelahiran
+
+Ibu bapa uruskan Sijil Kelahiran
+
+Tiada
+
+Jabatan Pendaftaran Negara
 
 Ada
 
-Sekolah menyediakan rumusan
+Kanak-kanak Pendidikan Khas
 
-permohonan penempatan :
+Pemeriksaan Doktor
 
-•
-
-Maklumat Murid;
-
-•
-
-Maklumat Bapa;
-
-•
-
-Maklumat Ibu;
-
-•
-
-Maklumat Penjaga;
-
-•
-
-Maklumat Am;
-
-Jabatan
-
-Pendaftaran
-
-Negara
-
-Sekolah hantar senarai murid ke PPD/PPG/JPN
+Sekolah menyediakan rumusan pendaftaran :
+• Maklumat Murid;
+• Maklumat Bapa;
+• Maklumat Ibu;
+• Maklumat Penjaga;
+• Maklumat Am;
+• Pengesahan oleh Pengamal Perubatan
 
 JPN
 
@@ -641,7 +498,7 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 PROSES KERJA | TINDAKAN | UNIT BERKAITAN | DOKUMEN YANG DIPERLUKAN
 --- | --- | --- | ---
 1. Menerima surat siaran dariapda JPN. | Sekolah | Guru Besar | Surat Siaran JPN
-2. Mengeluarkan hebahan proses permohonan penempatan murid Tahun 1 | Sekolah | Guru Besar | Surat siaran, 'banner' , poster, pengumuman yang mengandungi maklumat berikut : i. Kohort murid yang terlibat ii. Tempat membuat permohonan penempatan iii. Tempoh dijalankan iv. Masa yang ditetapkan v. Mewajibkan semua ibu bapa
+2. Mengeluarkan hebahan proses permohonan penempatan murid Tahun 1 | Sekolah | Guru Besar | Surat siaran, 'banner', poster, pengumuman yang mengandungi maklumat berikut : i. Kohort murid yang terlibat ii. Tempat membuat permohonan penempatan iii. Tempoh dijalankan iv. Masa yang ditetapkan v. Mewajibkan semua ibu bapa yang berkenaan
 3. Memproses permohonan penempatan | Sekolah | Guru Besar | Borang permohonan penempatan Buku Rekod permohonan penempatan
 4. Menyediakan rumusan permohonan penempatan dan menghantar ke PPD/PPG/JPN | Sekolah | Guru Besar | Borang rumusan permohonan penempatan
 
@@ -653,19 +510,15 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 
 ### CARTA ALIRAN PROSES PERMOHONAN PENEMPATAN MURID TAHUN 1 (TINDAKAN JPN/PPD/PPG)
 
-JPN/PPD/PPG memproses rumusan permohonan
-
-JPN/PPD/PPG menerima rumusan permohonan penempatan
-
-murid dari sekolah
-
 MULA
 
+JPN/PPD/PPG menerima rumusan permohonan penempatan murid dari sekolah
+
+JPN/PPD/PPG memproses rumusan permohonan
+
+JPN/PPD/PPG mengeluarkan surat kelulusan penempatan ke sekolah dan diedar kepada ibu bapa
+
 SELESAI
-
-JPN/PPD/PPG mengeluarkan surat kelulusan penempatan ke
-
-sekolah dan diedar kepada ibu bapa
 
 ### PROSES KERJA PROSES PERMOHONAN PENEMPATAN MURID TAHUN 1 (TINDAKAN JPN/PPD/PPG)
 
@@ -677,11 +530,11 @@ PROSES KERJA | TINDAKAN | UNIT BERKAITAN | DOKUMEN YANG DIPERLUKAN
 
 #### SENARAI DOKUMEN BAGI PROSES PERMOHONAN PENEMPATAN MURID TAHUN 1
 
-- Surat Siaran Jabatan Pelajaran Negeri
+1. Surat Siaran Jabatan Pelajaran Negeri
 
-- Borang Permohonan Penempatan Murid - (PPM)
+2. Borang Permohonan Penempatan Murid – (PPM)
 
-- Borang Rumusan Permohonan Penempatan Murid - (RPPM)
+3. Borang Rumusan Permohonan Penempatan Murid – (RPPM)
 
 Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Kementerian Pelajaran Malaysia
 
@@ -707,25 +560,23 @@ Tuan/Puan,
 
 Dengan hormatnya saya merujuk kepada perkara di atas.
 
-- Sukacita  dimaklumkan  bahawa  Kementerian  Pelajaran  telah  menetapkan  untuk melaksanakan Pendidikan  Wajib  sekolah  rendah  mulai  1  Januaari  2003 .  Sehubungan itu, tuan/puan adalah dipohon untuk melaksanakan mengikut prosedur yang telah ditetapkan seperti berikut :
+2. Sukacita dimaklumkan bahawa Kementerian Pelajaran telah menetapkan untuk melaksanakan Pendidikan Wajib sekolah rendah mulai 1 Januaari 2003. Sehubungan itu, tuan/puan adalah dipohon untuk melaksanakan mengikut prosedur yang telah ditetapkan seperti berikut :
 
-2.1 Semua  permohonan  penempatan  kanak-kanak  masuk  ke  sekolah  rendah hanya boleh dibuat seawal DUA tahun sebelum kanak-kanak itu bersekolah.
+2.1 Semua permohonan penempatan kanak-kanak masuk ke sekolah rendah hanya boleh dibuat seawal DUA tahun sebelum kanak-kanak itu bersekolah.
 
-- Kanak-kanak yang lahir 2.1.1998 hingga 1.1.1999 untuk tahun persekolahan 2005
+i. Kanak-kanak yang lahir 2.1.1998 hingga 1.1.1999 untuk tahun persekolahan 2005
 
-- Kanak-kanak yang lahir 2.1.1997 hingga 1.1.1998 yang belum membuat permohonan penempatan untuk tahun persekolahan 2004
+ii. Kanak-kanak yang lahir 2.1.1997 hingga 1.1.1998 yang belum membuat permohonan penempatan untuk tahun persekolahan 2004
 
-- 2.2 Semua urusan permohonan penempatan hendaklah dilaksanakan di peringkat sekolah mulai pada 1 hingga 31 Mac 2004
+2.2 Semua urusan permohonan penempatan hendaklah dilaksanakan di peringkat sekolah mulai pada 1 hingga 31 Mac 2004
 
-- 2.3 Jadual permohonan penempatan adalah seperti berikut :
+2.3 Jadual permohonan penempatan adalah seperti berikut :
 
 Tarikh : 1 hingga 31 Mac 2004
-
 Hari : Hari bekerja
-
 Masa : Waktu pejabat sekolah berkenaan
 
-- 2.4 Sila hebahkan perkara tersebut melalui semua guru besar, guru, pekerja dan murid sekolah tuan/puan. Poster-poster berkaitan dengan perkara ini hendaklah dipamerkan di tempat-tempat yang mudah dilihat dalam kawasan sekolah. Jabatan Pelajaran akan membuat pengumuman yang serupa dalam media massa tempatan dan melalui agensi seperti Pejabat Daerah, Jabatan Penerangan dan Jabatan Agama Islam.
+2.4 Sila hebahkan perkara tersebut melalui semua guru besar, guru, pekerja dan murid sekolah tuan/puan. Poster-poster berkaitan dengan perkara ini hendaklah dipamerkan di tempat-tempat yang mudah dilihat dalam kawasan sekolah. Jabatan Pelajaran akan membuat pengumuman yang serupa dalam media massa tempatan dan melalui agensi seperti Pejabat Daerah, Jabatan Penerangan dan Jabatan Agama Islam.
 
 Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Kementerian Pelajaran Malaysia
 
@@ -733,47 +584,47 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 
 [[START OF PAGE 19]]
 
-- 2.5 Permohonan penempatan LEWAT bagi kanak-kanak yang lahir pada 2.1.1997  hingga  1.1.1998  untuk  memasukan  Tahun  1  dalam  Tahun  2004 boleh terus dijalankan di peringkat sekolah atau JPN/PPD/PPG.
+2.5 Permohonan penempatan LEWAT bagi kanak-kanak yang lahir pada 2.1.1997 hingga 1.1.1998 untuk memasukan Tahun 1 dalam Tahun 2004 boleh terus dijalankan di peringkat sekolah atau JPN/PPD/PPG.
 
-- Dokumen  yang  perlu  dibawa  oleh  ibu  bapa/penjaga  ketika  membuat  permohonan penempatan adalah seperti berikut :
+3. Dokumen yang perlu dibawa oleh ibu bapa/penjaga ketika membuat permohonan penempatan adalah seperti berikut :
 
-- 3.1 Sijil lahir kanak-kanak berkenaan (salinan asal dan salinan fotostat)
+3.1 Sijil lahir kanak-kanak berkenaan (salinan asal dan salinan fotostat)
 
-- 3.2 Bukti alamat tempat tinggal (bil elektrik/bil air/dokumen lain yang berkenaan jika perlu)
+3.2 Bukti alamat tempat tinggal (bil elektrik/bil air/dokumen lain yang berkenaan jika perlu)
 
-- Sila semak  sijil  lahir  kanak-kanak  berkenaan  untuk  memastikan  kanak-kanak tersebut adalah Warganegara Malaysia .
+4. Sila semak sijil lahir kanak-kanak berkenaan untuk memastikan kanak-kanak tersebut adalah Warganegara Malaysia.
 
-- Sila  pastikan  bahawa  kanak-kanak  lelaki  membuat  permohonan  penempatan  di sekolah  lelaki  dan  kanak-kanak  perempuan  di  sekolah  perempuan.  Walau  bagaimanapun kanak-kanak  lelaki  dan  perempuan  boleh  membuat  permohonan  penempatan  di  sekolahsekolah bercampur.
+5. Sila pastikan bahawa kanak-kanak lelaki membuat permohonan penempatan di sekolah lelaki dan kanak-kanak perempuan di sekolah perempuan. Walau bagaimanapun kanak-kanak lelaki dan perempuan boleh membuat permohonan penempatan di sekolah-sekolah bercampur.
 
-- Semasa permohonan dibuat, cop sekolah hendaklah diturunkan di belakang sijil lahir dan dituliskan dengan tarikh permohonan serta bilangan permohonan. Sekiranya didapati di belakang sijil  lahir  kanak-kanak  tersebut  ada  cop  sekolah  lain  yang  belum  dibatalkan,  ibu bapa hendaklah dinasihatkan supaya memohon pembatalan permohonan sebelum kanakkanak itu boleh membuat permohonan penempatan di sekolah tuan/puan.
+6. Semasa permohonan dibuat, cop sekolah hendaklah diturunkan di belakang sijil lahir dan dituliskan dengan tarikh permohonan serta bilangan permohonan. Sekiranya didapati di belakang sijil lahir kanak-kanak tersebut ada cop sekolah lain yang belum dibatalkan, ibu bapa hendaklah dinasihatkan supaya memohon pembatalan permohonan sebelum kanak-kanak itu boleh membuat permohonan penempatan di sekolah tuan/puan.
 
-- Permohonan Penempatan Bagi Kanak-Kanak Cacat Penglihatan/Cacat Pendengaran/Terencat Akal Ringan (Bermasalah Pembelajaran),
+7. Permohonan Penempatan Bagi Kanak-Kanak Cacat Penglihatan/Cacat Pendengaran/Terencat Akal Ringan (Bermasalah Pembelajaran),
 
 Kanak-kanak seumpama ini dikehendaki menjalani pemeriksaan doktor sebelum ia boleh didaftar. Borang pemeriksaan doktor boleh didapati di Unit Pendidikan Khas, Jabatan Pelajaran Negeri.
 
-- Permohonan  Penempatan  Kanak-Kanak  Bukan  Warganegara  Untuk  Bersekeolah Pada Tahun 2004 adalah seperti berikut :
+8. Permohonan Penempatan Kanak-Kanak Bukan Warganegara Untuk Bersekeolah Pada Tahun 2004 adalah seperti berikut :
 
-Semua  kanak-kanak  Bukan  Warganegara,  dikehendaki  membuat  permohonan  di Jabatan Pelajaran Negeri selepas 1 Oktober 2003 . Setiap borang permohonan diisi dalam  3  salinan  (Permohonan  Penerimaan  Masuk  Murid  Bukan  Warganegara  Ke Sekolah Kerajaan/Sekolah Bantuan Kerajaan). Dokumen-dokumen berikut hendaklah disertakan bersama borang permohonan :
+Semua kanak-kanak Bukan Warganegara, dikehendaki membuat permohonan di Jabatan Pelajaran Negeri selepas 1 Oktober 2003. Setiap borang permohonan diisi dalam 3 salinan (Permohonan Penerimaan Masuk Murid Bukan Warganegara Ke Sekolah Kerajaan/Sekolah Bantuan Kerajaan). Dokumen-dokumen berikut hendaklah disertakan bersama borang permohonan :
 
-- 2 salinan sijil lahir kanak-kanak
+a. 2 salinan sijil lahir kanak-kanak
 
-- 2 salinan kad pengenalan ibu bapa
+b. 2 salinan kad pengenalan ibu bapa
 
-- 2 salinan pasport anak dan ibu bapa
+c. 2 salinan pasport anak dan ibu bapa
 
-- Jika ibu bapa bekerja di Malaysia, sertakan :
+d. Jika ibu bapa bekerja di Malaysia, sertakan :
 
-- 2 salinan pas penggajian yang sah
+i. 2 salinan pas penggajian yang sah
 
-- 2 salinan pas tanggungan (anak/ibu)
+ii. 2 salinan pas tanggungan (anak/ibu)
 
-- 2 salinan surat majikan
+iii. 2 salinan surat majikan
 
-- Jika permohonan bukan dari ibu bapa murid, sila sertakan
+e. Jika permohonan bukan dari ibu bapa murid, sila sertakan
 
-- 2 salinan sijil lahir
+i. 2 salinan sijil lahir
 
-- 2 salinan kad pengenalan murid dan ibu bapa
+ii. 2 salinan kad pengenalan murid dan ibu bapa
 
 Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Kementerian Pelajaran Malaysia
 
@@ -781,23 +632,24 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 
 [[START OF PAGE 20]]
 
-- 2 salinan pasport murid dan ibu bapa
+iii. 2 salinan pasport murid dan ibu bapa
 
-- 2  salinan  surat  keterangan  hubungannya  dengan  murid  (Contoh  surat daftar anak angkat)
+iv. 2 salinan surat keterangan hubungannya dengan murid (Contoh surat daftar anak angkat)
 
-- Semua salinan dokumen hendaklah disahkan oleh guru besar. Sila hubungi Unit  Perhubungan,  Pendaftaran  dan  Pendidikan  Swasta  Jabatan  Pelajaran Negeri untuk mendapatkan borang dan maklumat lanjut mengenai perkara di atas.
+f. Semua salinan dokumen hendaklah disahkan oleh guru besar. Sila hubungi Unit Perhubungan, Pendaftaran dan Pendidikan Swasta Jabatan Pelajaran Negeri untuk mendapatkan borang dan maklumat lanjut mengenai perkara di atas.
 
-- Semasa  ibu  bapa/penjaga  membuat  permohonan  penempatan  mereka  hendaklah dimaklumkan mengenai peerkara berikut :
+9. Semasa ibu bapa/penjaga membuat permohonan penempatan mereka hendaklah dimaklumkan mengenai peerkara berikut :
 
-Permohonan  penempatan  ini  hanya  merupakan  satu  permohonan  kanak-kanak untuk memasuki sekolah, JPN/PPD/PPG ini tidak menjamin kanak-kanak berkenaan  akan  ditempatkan  di  sekolah  di  mana  mereka  membuat  permohonan penempatan.
+Permohonan penempatan ini hanya merupakan satu permohonan kanak-kanak untuk memasuki sekolah, JPN/PPD/PPG ini tidak menjamin kanak-kanak berkenaan akan ditempatkan di sekolah di mana mereka membuat permohonan penempatan.
 
 Sekian, terima kasih.
 
-'BERKHIDMAT UNTUK NEGARA'
+”BERKHIDMAT UNTUK NEGARA”
 
 Saya yang menurut perintah,
 
-................................................... (t.t. dan nama)
+...................................................
+(t.t. dan nama)
 
 Pendaftar
 
@@ -812,57 +664,57 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 ### BORANG PERMOHONAN PENEMPATAN MURID KE TAHUN 1
 #### Maklumat Murid :
 
-- Nama :
+1. Nama :
 
-- Tarikh Lahir :
+2. Tarikh Lahir :
 
-- No. Sijil Lahir :
+3. No. Sijil Lahir :
 
-- No. Daftar :
+4. No. Daftar :
 
-- Alamat :
+5. Alamat :
 
-- Poskod :
+6. Poskod :
 
-- Bandar :
+7. Bandar :
 
-- Negeri :
+8. Negeri :
 
-- Jantina : Lelaki/Perempuan
+9. Jantina : Lelaki/Perempuan
 
-- Kaum :
+10. Kaum :
 
-- Warganegara :
+11. Warganegara :
 
-- Anak yang ke berapa?
+12. Anak yang ke berapa?
 
 #### Maklumat Bapa :
 
-- Nama :
+1. Nama :
 
-- No. Kad Pengenalan :
+2. No. Kad Pengenalan :
 
-- Pekerjaan :
+3. Pekerjaan :
 
-- Alamat Pejabat :
+4. Alamat Pejabat :
 
-- No. Telefon Pejabat :
+5. No. Telefon Pejabat :
 
-- No. Telefon Rumah :
+6. No. Telefon Rumah :
 
-- Warganegara :
+7. Warganegara :
 
-- Kaum :
+8. Kaum :
 
 #### Maklumat Ibu :
 
-- Nama :
+1. Nama :
 
-- No. Kad Pengenalan :
+2. No. Kad Pengenalan :
 
-- Pekerjaan :
+3. Pekerjaan :
 
-- Alamat Pejabat :
+4. Alamat Pejabat :
 
 Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Kementerian Pelajaran Malaysia
 
@@ -870,49 +722,49 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 
 [[START OF PAGE 22]]
 
-- No. Telefon Pejabat :
+5. No. Telefon Pejabat :
 
-- No. Telefon Rumah :
+6. No. Telefon Rumah :
 
-- Warganegara :
+7. Warganegara :
 
-- Kaum :
+8. Kaum :
 
 #### Maklumat Penjaga :
 
-- Nama :
+1. Nama :
 
-- No. Kad Pengenalan :
+2. No. Kad Pengenalan :
 
-- Pekerjaan :
+3. Pekerjaan :
 
-- Alamat Pejabat :
+4. Alamat Pejabat :
 
-- No. Telefon Pejabat :
+5. No. Telefon Pejabat :
 
-- No. Telefon Rumah :
+6. No. Telefon Rumah :
 
-- Warganegara :
+7. Warganegara :
 
-- Kaum :
+8. Kaum :
 
 #### Maklumat Am :
 
-- Terdapat abang/kakak di sekolah ini
+1. Terdapat abang/kakak di sekolah ini
 
-- Ibu/Bapa/Penjaga bekerja di sekolah ini
+2. Ibu/Bapa/Penjaga bekerja di sekolah ini
 
-- Terdapat abang/kakak di sekolah berhampiran
+3. Terdapat abang/kakak di sekolah berhampiran
 
-- Ibu/Bapa/Penjaga bekerja di sekolah berhampiran
+4. Ibu/Bapa/Penjaga bekerja di sekolah berhampiran
 
-- Jarak rumah ke sekolah :
+5. Jarak rumah ke sekolah :
 
-- Cukai pintu :
+6. Cukai pintu :
 
-- Golongan kurang upaya :
+7. Golongan kurang upaya :
 
-- Jenis :
+8. Jenis :
 
 #### Peringatan :
 
@@ -924,14 +776,14 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 
 [[START OF PAGE 23]]
 
+RPPM
+
 ### CONTOH BORANG RUMUSAN PERMOHONAN PENEMPATAN MURID KE TAHUN 1
 
-No. Pendaftaran | Nama Kanak- kanak | Tarikh Lahir | Jantina | Umur Pada 1 Januari | Alamat | No. Sijil Kelahiran | Nama Ibu Bapa/Penjaga | No. Kad Pengenalan | Pekerjaan Ibu Bapa/Penjaga | *Jarak Sekolah | Keterangan abang/kakak | Untuk Kegunaan Sekolah | Untuk Kegunaan JPN
+No. Pendaftaran | Nama Kanak-kanak | Tarikh Lahir | Jantina | Umur Pada 1 Januari | Alamat | No. Sijil Kelahiran | Nama Ibu Bapa/Penjaga | No. Kad Pengenalan | Pekerjaan Ibu Bapa/Penjaga | *Jarak Sekolah | Keterangan abang/kakak | Untuk Kegunaan Sekolah | Untuk Kegunaan JPN
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 
 *Ibu bapa/Penjaga perlu mengemukakan bukti Bil. Air/Bil Elektrik/Cukai Pintu/Surat Majikan dan sebagainya.
-
-RPPM
 
 Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Kementerian Pelajaran Malaysia
 
@@ -951,11 +803,11 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 
 MULA
 
-SELESAI
-
-Surat siaran hebahan pengesahan penempatan  murid
+Surat siaran hebahan pengesahan penempatan murid
 
 Menghubungi pihak media massa tempatan untuk hebahan
+
+SELESAI
 
 ### PROSES KERJA HEBAHAN PENGESAHAN PENEMPATAN (TINDAKAN JPN)
 
@@ -974,11 +826,21 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 
 TAHUN 1
 
+MULA
+
 Sekolah menerima senarai dan surat kelulusan penempatan murid daripada JPN/PPD/PPG
 
 Sekolah mengedarkan surat kelulusan yang disediakan oleh JPN/PPD/PPG kepada ibu bapa
 
 Ibu bapa menerima surat kelulusan dari sekolah
+
+Tidak
+
+Ibu bapa mengisi borang rayuan penempatan semula
+
+Ibu bapa menghantar borang yang sudah lengkap ke sekolah
+
+Ya
 
 Ibu bapa mengesahkan penerimaan kelulusan penempatan dalam tempoh yang ditetapkan (1 hingga 30 Ogos)
 
@@ -986,45 +848,15 @@ Sekolah membuat rumusan rayuan penempatan semula dan menghantar ke PPD/PPG/JPN
 
 PPD/PPG/JPN menerima senarai rumusan rayuan penempatan semula dan senarai kanak-kanak yang tidak mengesahkan
 
-MULA
-
-Ibu bapa
-
-mengisi
-
-borang
-
-rayuan
-
-penempatan
-
-semula
-
-SELESAI
-
 Rayuan Penempatan Semula diproses oleh PPD/PPG/JPN. Keputusan rayuan penempatan semula dihantar ke sekolah selewat-lewatnya pada 30 Oktober
-
-Ibu bapa
-
-menghantar
-
-borang yang
-
-sudah
-
-lengkap ke
-
-sekolah
-
-Tidak
-
-Ya
 
 Sekolah mengedarkan surat keputusan rayuan penempatan kepada ibu bapa
 
 Ibu bapa mengesahkan penempatan
 
 - Bagi ibu bapa yang tidak mengesahkan penempatan anak mereka boleh dikekalkan dalam senarai sehingga ke pendaftaran hari pertama persekolahan
+
+SELESAI
 
 Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Kementerian Pelajaran Malaysia
 
@@ -1036,10 +868,10 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 
 PROSES KERJA | TINDAKAN | UNIT BERKAITAN | DOKUMEN YANG DIPERLUKAN
 --- | --- | --- | ---
-1. Sekolah menerima surat makluman kelulusan penempatan dariapda JPN/PPD/PPG berserta : a. Surat keputusan kelulusan penempatan b. Borang rumusan penempatan yang | Sekolah | Guru Besar GPK HEM | Borang rumusan permohonan penempatan yang telah diproses
+1. Sekolah menerima surat makluman kelulusan penempatan dariapda JPN/PPD/PPG berserta : a. Surat keputusan kelulusan penempatan b. Borang rumusan penempatan yang telah diproses | Sekolah | Guru Besar GPK HEM | Borang rumusan permohonan penempatan yang telah diproses
 2. Sekolah mengedar : a. Surat keputusan kelulusan penempatan b. Borang rumusan penempatan yang telah diproses | Sekolah | Guru Besar GPK HEM Pembantu Tadbir | Surat kelulusan penempatan Surat iringan keputusan penempatan sekolah
-3. Ibu bapa menerima surat kelulusan penempatan dari sekolah | Ibu bapa/Penjaga Kanak-kanak | Surat kelulusan penempatan Surat iringan keputusan penempatan sekolah
-4. Ibu bapa mengesahkan penempatan anak mereka di sekolah yang ditempatkan. Sekiranya kanak-kanak berpindah masuk ke sekolah swasta atau meninggal dunia, guru besar berkenaan hendaklah memaklumkan kepada sekolah asal | Ibu bapa/Penjaga Kanak-kanak Guru Besar | Surat kelulusan penempatan Salinan asalah sijil kelahiran Surat pemberitahuan
+3. Ibu bapa menerima surat kelulusan penempatan dari sekolah | Ibu bapa/Penjaga Kanak-kanak |  | Surat kelulusan penempatan Surat iringan keputusan penempatan sekolah
+4. Ibu bapa mengesahkan penempatan anak mereka di sekolah yang ditempatkan. Sekiranya kanak-kanak berpindah masuk ke sekolah swasta atau meninggal dunia, guru besar berkenaan hendaklah memaklumkan kepada sekolah asal | Ibu bapa/Penjaga Kanak-kanak Guru Besar |  | Surat kelulusan penempatan Salinan asalah sijil kelahiran Surat pemberitahuan
 
 Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Kementerian Pelajaran Malaysia
 
@@ -1049,27 +881,27 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 
 PROSES KERJA | TINDAKAN | UNIT BERKAITAN | DOKUMEN YANG DIPERLUKAN
 --- | --- | --- | ---
-5. Sekiranya tidak bersetuju dengan penempatan ibu bapa boleh merayu untuk penempatan semula di sekolah yang dipilih | Ibu bapa/Penjaga Kanak-kanak | Borang rayuan penempatan semula Sijil kelahiran asal
+5. Sekiranya tidak bersetuju dengan penempatan ibu bapa boleh merayu untuk penempatan semula di sekolah yang dipilih | Ibu bapa/Penjaga Kanak-kanak |  | Borang rayuan penempatan semula Sijil kelahiran asal
 6. Sekolah menghantar rumusan rayuan penempatan semula ke PPD/PPG/JPN | Sekolah | Guru Besar GPK HEM Pembantu Tadbir | a. Borang rumusan pengesahan penempatan b. Borang rumusan rayuan penempatan semula
 7. JPN/PPD/PPG memproses rumusan rayuan penempatan semula mengikut kriteria yang ditetapkan | JPN/PPD/PPG | Ketua Unit Rendah | Rumusan rayuan penempatan semula
-8. Surat kelulusan rayuan penempatan dan rumusan keputusan rayuan penempatan dihantar ke sekolah- sekolah | JPN/PPD/PPG Sekolah | Ketua Unit Rendah Guru Besar GPK HEM | Rumusan kelulusan rayuan penempatan semula
+8. Surat kelulusan rayuan penempatan dan rumusan keputusan rayuan penempatan dihantar ke sekolah-sekolah | JPN/PPD/PPG Sekolah | Ketua Unit Rendah Guru Besar GPK HEM | Rumusan kelulusan rayuan penempatan semula
 9. Sekolah mengedar 10. Ibu bapa mengesahkan penempatan anak mereka di sekolah yang ditempatkan | Sekolah | Guru Besar GPK HEM Pembantu Tadbir | Surat iringan jawapan rayuan penempatan semula
 
 #### SENARAI DOKUMEN BAGI PROSES PERMOHONAN PENEMPATAN MURID TAHUN 1
 
-- Surat Siaran Pengesahan Kelulusan Penempatan JPN
+1. Surat Siaran Pengesahan Kelulusan Penempatan JPN
 
-- Surat Kelulusan Penempatan
+2. Surat Kelulusan Penempatan
 
-- Borang Rayuan Penempatan Murid (Borang RPS)
+3. Borang Rayuan Penempatan Murid (Borang RPS)
 
-- Borang Rumusan Rayuan Penempatan Semula
+4. Borang Rumusan Rayuan Penempatan Semula
 
-- Keputusan Rayuan Penempatan Semula Tidak Diluluskan (JPN/PPD/PPG)
+5. Keputusan Rayuan Penempatan Semula Tidak Diluluskan (JPN/PPD/PPG)
 
-- Keputusan Rayuan Penempatan Semula Diluluskan (JPN/PPD/PPG)
+6. Keputusan Rayuan Penempatan Semula Diluluskan (JPN/PPD/PPG)
 
-- Borang Rumusan Pengesahan Penempatan
+7. Borang Rumusan Pengesahan Penempatan
 
 Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Kementerian Pelajaran Malaysia
 
@@ -1099,27 +931,27 @@ Tuan/Puan,
 
 Dengan hormatnya saya merujuk kepada perkara di atas.
 
-- Sukacita dimaklumkan bahawa urusan pengesahan penempatan kanak-kanak yang akan mendaftar untuk bersekolah bagi sesi persekolahan tahun 2004 akan dilaksanakan di peringkat sekolah mulai :
+2. Sukacita dimaklumkan bahawa urusan pengesahan penempatan kanak-kanak yang akan mendaftar untuk bersekolah bagi sesi persekolahan tahun 2004 akan dilaksanakan di peringkat sekolah mulai :
 
 Tarikh : 1 hingga 30 Ogos 2003 Hari : Hari Bekerja
 
 Masa : Waktu pejabat sekolah berkenaan
 
-- Sehubungan  itu  bersama  ini  disertakan  perkara-perkara  berikut  untuk  tindakan tuan/puan selanjutnya :
+3. Sehubungan itu bersama ini disertakan perkara-perkara berikut untuk tindakan tuan/puan selanjutnya :
 
-- 3.1 Disket Senarai Kelulusan Penempatan Kanak-Kanak Tahun 1 Sesi Persekolahan Tahun 2004 yang telah diluluskan.
+3.1 Disket Senarai Kelulusan Penempatan Kanak-Kanak Tahun 1 Sesi Persekolahan Tahun 2004 yang telah diluluskan.
 
-- 3.2 Surat  Kelulusan  Penempatan  Kanak-Kanak  Ke  Tahun  1  Sesi  Persekolahan Tahun 2004
+3.2 Surat Kelulusan Penempatan Kanak-Kanak Ke Tahun 1 Sesi Persekolahan Tahun 2004
 
-- 3.3 Borang Rayuan Penempatan Semula
+3.3 Borang Rayuan Penempatan Semula
 
-- 3.4 Borang Kelulusan Rumusan Rayuan Penempatan Semula
+3.4 Borang Kelulusan Rumusan Rayuan Penempatan Semula
 
-- 3.5 Keputusan Rayuan Penempatan Semula Bagi Kemasukan Ke Tahun 1
+3.5 Keputusan Rayuan Penempatan Semula Bagi Kemasukan Ke Tahun 1
 
-- 3.6 Borang Rumusan Pengesahan Penempatan
+3.6 Borang Rumusan Pengesahan Penempatan
 
-- Tuan/Puan dikehendaki memanjangkan kepada ibu bapa/penjaga kanak-kanak Surat Kelulusan Penempatan yang diterima dari JPN/PPD/PPG.
+4. Tuan/Puan dikehendaki memanjangkan kepada ibu bapa/penjaga kanak-kanak Surat Kelulusan Penempatan yang diterima dari JPN/PPD/PPG.
 
 5. Bagi kanak-kanak yang telah diluluskan penempatan tetapi tidak membuat pengesahan  penempatan  dalam  tempoh  yang  ditetapkan  atas  sebab-sebab  berhijrah, memasuki  sekolah  swasta,  meninggal  dunia  atau  sebab-sebab  lain  yang  tidak  diketahui pihak sekolah hendaklah memberi surat peringatan kepada ibu bapa untuk memaklumkan sebab-sebab tidak membuat pengesahan kepada pihak sekolah. Pihak sekolah selanjutnya memaklumkan  ke  JPN/PPD/PPG  dengan  mengisi  maklumat  tersebut  dalam  borang rumusan pengesahan penempatan murid dan hendaklah dihantar untuk perhatian
 
@@ -1131,11 +963,11 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 
 .......................................................................... sebelum atau pada ......................................... (mengikut kesesuaian negeri).
 
-- Ibu  bapa/Penjaga  kanak-kanak  yang  ingin  merayu  untuk  penempatan  semula hendaklah mengisi borang rayuan penempatan semula. Semua permohonan penempatan semula  hendaklah  dirumuskan  oleh  pihak  sekolah  mengikut  format  rumusan  rayuan penempatan semula  untuk  dihantar  ke  JPN/PPD/PPG  dalam  salinan  bercetak  dan  disket untuk perhatian .......................................................... sebelum atau pada ............................... (mengikut kesesuaian negeri).
+6. Ibu bapa/Penjaga kanak-kanak yang ingin merayu untuk penempatan semula hendaklah mengisi borang rayuan penempatan semula. Semua permohonan penempatan semula hendaklah dirumuskan oleh pihak sekolah mengikut format rumusan rayuan penempatan semula untuk dihantar ke JPN/PPD/PPG dalam salinan bercetak dan disket untuk perhatian .......................................................... sebelum atau pada ............................... (mengikut kesesuaian negeri).
 
-- Jika  tuan/puan  didatangi  ibu  bapa/penjaga  murid  untuk  membuat  permohonan penempatan  (lewat)  bagi  kemasukan  Tahun  1  Sesi  Persekolahan  2004  tuan/puan  boleh meminta  ibu  bapa  berkenaan  ke  JPN/PPD/PPG  untuk  urusan  permohonan  penempatan. Sila nasihatkan ibu bapa tersebut membawa bersama dokumen berkaitan semasa membuat urusan permohonan penempatan di sekolah.
+7. Jika tuan/puan didatangi ibu bapa/penjaga murid untuk membuat permohonan penempatan (lewat) bagi kemasukan Tahun 1 Sesi Persekolahan 2004 tuan/puan boleh meminta ibu bapa berkenaan ke JPN/PPD/PPG untuk urusan permohonan penempatan. Sila nasihatkan ibu bapa tersebut membawa bersama dokumen berkaitan semasa membuat urusan permohonan penempatan di sekolah.
 
-- Sekiranya  ada  sebarang  pertanyaan  berhubung  proses  permohonan  penempatan, pihak  sekolah  hendaklah  menghubungi  JPN/PPD/PPG  untuk  mendapatkan  penjelasan lanjut.
+8. Sekiranya ada sebarang pertanyaan berhubung proses permohonan penempatan, pihak sekolah hendaklah menghubungi JPN/PPD/PPG untuk mendapatkan penjelasan lanjut.
 
 Sekian, terima kasih.
 
@@ -1147,13 +979,13 @@ Saya yang menurut perintah,
 
 (t.t. dan nama) Ketua Sektor Pengurusan Sekolah b.p. Pengarah Pelajaran
 
-- s.k.  1. Semua Ketua Sektor
+s.k. 1. Semua Ketua Sektor
 
-- Semua Ketua Unit
+2. Semua Ketua Unit
 
-- Semua PPD
+3. Semua PPD
 
-- Semua PPG
+4. Semua PPG
 
 Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Kementerian Pelajaran Malaysia
 
@@ -1185,9 +1017,9 @@ Dengan hormatnya saya merujuk kepada perkara di atas.
 
 2. Sehubungan dengan itu dimaklumkan anak tuan/puan yang telah membuat permohonan penempatan ke Tahun Satu Sesi Persekolahan tahun ...................... di sekolah ..........................................................  pada  ...................................  adalah DILULUSKAN di sekolah ........................................................................
 
-- Tuan/Puan  diminta  untuk  membuat  pengesahan  penempatan  anak  tuan/puan  di sekolah  yang  telah  diluluskan  mulai  dari 1  hingga  30  Ogos  .................. Kerjasama tuan/puan adalah diperlukan untuk mematuhi tarikh pengesahan. Sebarang kelewatan akan menjejaskan penempatan anak tuan/puan. Sila bawa bersama surat kelulusan ini semasa membuaat urusan pengesahan.
+3. Tuan/Puan diminta untuk membuat pengesahan penempatan anak tuan/puan di sekolah yang telah diluluskan mulai dari 1 hingga 30 Ogos .................. Kerjasama tuan/puan adalah diperlukan untuk mematuhi tarikh pengesahan. Sebarang kelewatan akan menjejaskan penempatan anak tuan/puan. Sila bawa bersama surat kelulusan ini semasa membuaat urusan pengesahan.
 
-- Sekiranya tuan/puan ingin merayu terhadap penempatan yang telah diluluskan atau ingin memohon pertukaran sekolah, tuan/puan hendaklah mengisi borang rayuan/pertukaran sekolah yang boleh diperoleh di sekolah yang telah diluluskan. Borang yang telah lengkap diisi hendaklah dikembalikan kepada guru besar sekolah berkenaan selewat-lewatnya pada 30 September ...................
+4. Sekiranya tuan/puan ingin merayu terhadap penempatan yang telah diluluskan atau ingin memohon pertukaran sekolah, tuan/puan hendaklah mengisi borang rayuan/pertukaran sekolah yang boleh diperoleh di sekolah yang telah diluluskan. Borang yang telah lengkap diisi hendaklah dikembalikan kepada guru besar sekolah berkenaan selewat-lewatnya pada 30 September ...................
 
 Sekian, terima kasih.
 
@@ -1213,39 +1045,31 @@ JABATAN/PEJABAT PELAJARAN ......................................................
 
 #### MAKLUMAT MURID
 
-- Nama Kanak-kanak : ...........................................................................................................
+1. Nama Kanak-kanak : ...........................................................................................................
 
-- Tarikh Lahir : .....................................
+2. Tarikh Lahir : ..................................... 3. No. Sijil Kelahiran : .............................
 
-- No. Sijil Kelahiran : .............................
+4. Warganegara : .....................................................................................................................
 
-- 4.
-
-Warganegara : .....................................................................................................................
-
-- 5.
-
-Alamat : ...............................................................................................................................
+5. Alamat : ...............................................................................................................................
 
 #### MAKLUMAT PENEMPATAN ASAL
 
-- Ditempatkan di sekolah .......................................................................................................
+6. Ditempatkan di sekolah .......................................................................................................
 
-- No. Permohonan Penempatan : ...............................
-
-- Tarikh : ........................
+7. No. Permohonan Penempatan : ............................... 8. Tarikh : ........................
 
 #### MAKLUMAT RAYUAN SEMULA
 
-- Nyatakan nama sekolah untuk rayuan
+9. Nyatakan nama sekolah untuk rayuan
 
-- a)
+a)
 
-- b)
+b)
 
 c)
 
-- Nyatakan sebab-sebabnya ;
+10. Nyatakan sebab-sebabnya ;
 
 (sila sertakan dokumen sokongan sekiranya ada)
 
@@ -1255,23 +1079,25 @@ c)
 
 #### PERAKUAN IBU BAPA/PENJAGA
 
-#### ULASAN GURU BESAR
-
 Dengan ini saya mengakui bahawa segala keterangan di atas adalah benar
-
-Disahkan benar
 
 ...................................................
 
-....................................................
-
 Tandatangan Ibu Bapa/Penjaga
-
-Tandatangan Guru Besar & Cop Tarikh :
 
 Nama :
 
 No. KPT :
+
+Tarikh :
+
+#### ULASAN GURU BESAR
+
+Disahkan benar
+
+....................................................
+
+Tandatangan Guru Besar & Cop
 
 Tarikh :
 
@@ -1330,11 +1156,11 @@ Nama Kanak-kanak   : ...........................................................
 
 Dengan hormatnya saya merujuk kepada perkara di atas.
 
-2. Sehubungan dengan itu dimaklumkan rayuan penempatan semula anak tuan/puan ke sekolah yang dipohon TIDAK  DILULUSKAN  KERANA  TIADA  KEKOSONGAN TEMPAT . Tuan/Puan diminta membuat pengesahan penempatan semula di ................................................................................ dalam tempoh 14 hari dari tarikh surat ini. (sekolah ditempatkan)
+2. Sehubungan dengan itu dimaklumkan rayuan penempatan semula anak tuan/puan ke sekolah yang dipohon TIDAK DILULUSKAN KERANA TIADA KEKOSONGAN TEMPAT. Tuan/Puan diminta membuat pengesahan penempatan semula di ................................................................................ dalam tempoh 14 hari dari tarikh surat ini. (sekolah ditempatkan)
 
-- Kerjasama  tuan/puan  adalah  diperlukan  untuk  mematuhi  tempoh  pengesahan penempatan semula. Sila bawa bersama surat ini dan sijil kelahiran asal semasa membuat urusan  pengesahan  semula.  Sebarang  kelewatan  akan  menjejaskan  penempatan  kanakkanak tersebut.
+3. Kerjasama tuan/puan adalah diperlukan untuk mematuhi tempoh pengesahan penempatan semula. Sila bawa bersama surat ini dan sijil kelahiran asal semasa membuat urusan pengesahan semula. Sebarang kelewatan akan menjejaskan penempatan kanak-kanak tersebut.
 
-- Keputusan  rayuan  adalah  muktamad.  Sebarang  rayuan  semula  selepas  ini  tidak akan dilayan.
+4. Keputusan rayuan adalah muktamad. Sebarang rayuan semula selepas ini tidak akan dilayan.
 
 Sekian, terima kasih.
 
@@ -1372,9 +1198,9 @@ Nama Kanak-kanak   : ...........................................................
 
 Dengan hormatnya saya merujuk kepada perkara di atas.
 
-- Sehubungan dengan itu dimaklumkan rayuan penempatan semula anak tuan/puan ke sekolah ................................................................................ adalah DILULUSKAN .
+2. Sehubungan dengan itu dimaklumkan rayuan penempatan semula anak tuan/puan ke sekolah ................................................................................ adalah DILULUSKAN.
 
-- Oleh  itu,  tuan/puan  diminta  membuat  pengesahan  penempatan  semula  anak tuan/puan  di  sekolah  yang  telah  diluluskan  dalam  tempoh  14  hari  dari  tarikh  surat  ini. Sebarang  kelewatan  akan  menjejaskan  penempatan  anak  tuan/puan.  Sila  bawa  bersama surat kelulusan ini semasa membuat urusan pengesahan.
+3. Oleh itu, tuan/puan diminta membuat pengesahan penempatan semula anak tuan/puan di sekolah yang telah diluluskan dalam tempoh 14 hari dari tarikh surat ini. Sebarang kelewatan akan menjejaskan penempatan anak tuan/puan. Sila bawa bersama surat kelulusan ini semasa membuat urusan pengesahan.
 
 Sekian, terima kasih.
 
@@ -1390,26 +1216,28 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 
 [[START OF PAGE 36]]
 
-NAMA SEKOLAH
-
 ### BORANG RUMUSAN PENGESAHAN PENEMPATAN TAHUN .......................................
 
-:....................................................... GRED : ............................
+NAMA SEKOLAH :....................................................... GRED : ............................
 
 Perkara | Lelaki | Perempuan | Jumlah
 --- | --- | --- | ---
-Bil. Kanak-kanak yang mendaftar
-Bil. Kanak-kanak yang mengesah pendaftaran
-Bil. Kanak-kanak yang gagal membuat pengesahan
+Bil. Kanak-kanak yang mendaftar |  |  | 
+Bil. Kanak-kanak yang mengesah pendaftaran |  |  | 
+Bil. Kanak-kanak yang gagal membuat pengesahan |  |  | 
 
-........................................................... (Tandatangan dan Nama) Guru Besar Cop Sekolah
-## MEKANISME PENDAFTARAN PERSEKOLAHAN MURID TAHUN 1
+...........................................................
+(Tandatangan dan Nama)
+Guru Besar
+Cop Sekolah
 
 Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Kementerian Pelajaran Malaysia
 
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
+
+## MEKANISME PENDAFTARAN PERSEKOLAHAN MURID TAHUN 1
 
 Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Kementerian Pelajaran Malaysia
 
@@ -1421,29 +1249,25 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 
 MULA
 
-SELESAI
-
 Murid mendaftar pada hari pertama persekolahan.
 
 Murid mengikuti pendidikan wajib.
 
-Sekolah memaklumkan PPD/PPG/JPN tentang murid berdaftar
-
-tetapi tidak hadir ke sekolah selepas 14 hari persekolahan.
+Sekolah memaklumkan PPD/PPG/JPN tentang murid berdaftar tetapi tidak hadir ke sekolah selepas 14 hari persekolahan.
 
 (Sekolah swasta akan terus hantar ke JPN).
 
-PPD/PPG/JPN membuat rumusan dengan menyemak senarai
+PPD/PPG/JPN membuat rumusan dengan menyemak senarai sekolah berbanding senarai rayuan.
 
-sekolah berbanding senarai rayuan.
+SELESAI
 
 ### PROSES KERJA PENDAFTARAN HARI PERTAMA PERSEKOLAHAN MURID TAHUN SATU (TINDAKAN SEKOLAH)
 
 PROSES KERJA | TINDAKAN | UNIT BERKAITAN | DOKUMEN YANG DIPERLUKAN
 --- | --- | --- | ---
-1. Menempatkan murid ke kelas- kelas yagn telah ditetapkan oleh sekolah. Memberi surat peringatan kepada ibu bapa bagi kanak- kanak yang masih belum mendaftar | Sekolah | Guru Besar GPK HEM Guru Kelas | Surat Kelulusan Penempatan. Surat peringatan kepada ibu bapa yang masih belum membuat pendaftaran.
+1. Menempatkan murid ke kelas-kelas yagn telah ditetapkan oleh sekolah. Memberi surat peringatan kepada ibu bapa bagi kanak-kanak yang masih belum mendaftar | Sekolah | Guru Besar GPK HEM Guru Kelas | Surat Kelulusan Penempatan. Surat peringatan kepada ibu bapa yang masih belum membuat pendaftaran.
 2. Menghantar nama-nama kanak-kanak yang tidak mendaftar selepas 14 hari persekolahan ke JPN/PPD/PPG (Bagi Sekolah Swasta dihantar terus ke JPN). | Sekolah Sekolah Swasta | Guru Besar GPK HEM Guru Kelas | Rumusan nama kanak-kanak yang tidak mendaftar.
-3. JPN/PPD/PPG menerima senarai nama kanak-kanak yang tidak mendaftar daripada sekolah dan dibandingkan dengan senarai rayuan permohonan penempatan semula/lewat. | JPN/PPD/PPG | Unit Sekolah Rendah | Senarai kanak- kanak tidak mendaftar. Rumusan rayuan penempatan semula/lewat.
+3. JPN/PPD/PPG menerima senarai nama kanak-kanak yang tidak mendaftar daripada sekolah dan dibandingkan dengan senarai rayuan permohonan penempatan semula/lewat. | JPN/PPD/PPG | Unit Sekolah Rendah | Senarai kanak-kanak tidak mendaftar. Rumusan rayuan penempatan semula/lewat.
 
 Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Kementerian Pelajaran Malaysia
 
@@ -1455,147 +1279,53 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 
 MULA
 
-Murid yang tidak membuat
+Murid yang tidak membuat permohonan penempatan
 
-permohonan penempatan
+Murid berdaftar di sekolah lain.
 
-Murid
+Pendidikan Khas
 
-berdaftar
+Tiada Sijil Kelahiran
 
-di sekolah
+Kanak-kanak dengan maklumat lengkap
 
-lain.
+Sekolah menyediakan rumusan pendaftaran
 
-Pendidikan
+- Maklumat Murid
 
-Khas
+- Maklumat Bapa
 
-Ibu bapa
+- Maklumat Ibu
 
-isi borang
+- Maklumat Penjaga
 
-rayuan
+- Maklumat Am
 
-Sekolah
+- Pengesahan oleh Pengamal Perubatan
 
-menyediakan
-
-rumusan pendaftaran
-
-•
-
-Maklumat Murid
-
-•
-
-Maklumat Bapa
-
-•
-
-Maklumat Ibu
-
-•
-
-Maklumat Penjaga
-
-•
-
-Maklumat Am
-
-•
-
-Pengesahan oleh
-
-Pengamal
-
-Perubatan
-
-Tiada Sijil
-
-Kelahiran
-
-Ibu bapa
-
-uruskan
-
-Sijil
-
-Kelahiran
-
-Kanak-
-
-kanak
-
-dengan
-
-maklumat
-
-lengkap
-
-Ada
+Ibu bapa uruskan Sijil Kelahiran
 
 Tiada
 
+Ada
+
 JPN
 
-Jabatan
+Jabatan Pendaftaran Negara
 
-Pendaftaran
+Ibu bapa isi borang rayuan
 
-Negara
+Sekolah memproses rayuan penempatan*
 
-Sekolah
+PPD/JPN membuat penempatan dan menghantar keputusan terus kepada ibu bapa dan salinan ke sekolah
 
-memproses
-
-rayuan
-
-penempatan*
+Sekolah maklumkan sekolah/PPD/JPN asal dalam tempoh lima hari selepas murid berdaftar
 
 SELESAI
 
-PPD/JPN
-
-membuat
-
-penempatan
-
-dan
-
-menghantar
-
-keputusan
-
-terus kepada
-
-ibu bapa dan
-
-salinan ke
-
-sekolah
-
-Sekolah
-
-maklumkan
-
-sekolah/PPD/
-
-JPN asal
-
-dalam
-
-tempoh lima
-
-hari selepas
-
-murid
-
-berdaftar
-
 *Petunjuk :
 
-- Murid yang tiada sijil lahir atau dokumendokumen lain sebagai bukti warganegara tidak boleh didaftar/diterima/ditempatkan di sekolah walaupun secara sementara.
+- Murid yang tiada sijil lahir atau dokumen-dokumen lain sebagai bukti warganegara tidak boleh didaftar/diterima/ditempatkan di sekolah walaupun secara sementara.
 
 Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Kementerian Pelajaran Malaysia
 
@@ -1621,13 +1351,13 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 
 #### SENARAI DOKUMEN BAGI PROSES PERMOHONAN PENEMPATAN KANAK-KANAK YANG MEMOHON PADA HARI PERTAMA PERSEKOLAHAN (DAFTAR LEWAT)
 
-- Borang Permohonan Penempatan Tahun 1 - Borang PPM (Sama seperti dalam permohonan penempatan)
+1. Borang Permohonan Penempatan Tahun 1 – Borang PPM (Sama seperti dalam permohonan penempatan)
 
-- Surat Kelulusan Penempatan Murid (Sama seperti dalam pengesahan penempatan)
+2. Surat Kelulusan Penempatan Murid (Sama seperti dalam pengesahan penempatan)
 
-- Borang Rumusan Pendaftaran Murid Tahun 1
+3. Borang Rumusan Pendaftaran Murid Tahun 1
 
-- Surat Peringatan Pendaftaran Murid Tahun 1
+4. Surat Peringatan Pendaftaran Murid Tahun 1
 
 Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Kementerian Pelajaran Malaysia
 
@@ -1635,17 +1365,15 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 
 [[START OF PAGE 42]]
 
-NAMA SEKOLAH
-
 ### BORANG RUMUSAN PENGESAHAN PENEMPATAN TAHUN .......................................
 
-:....................................................... GRED : ............................
+NAMA SEKOLAH :....................................................... GRED : ............................
 
 Perkara | Lelaki | Perempuan | Jumlah
 --- | --- | --- | ---
-Bil. Murid yang mengesahkan pendaftaran
-Bil. Murid yang melapor diri
-Bil. Murid yang tidak melapor diri
+Bil. Murid yang mengesahkan pendaftaran |  |  | 
+Bil. Murid yang melapor diri |  |  | 
+Bil. Murid yang tidak melapor diri |  |  | 
 
 Tandatangan Guru Besar
 
@@ -1673,13 +1401,13 @@ Tuan/Puan,
 
 Dengan hormatnya saya merujuk mengenai perkara di atas.
 
-- Tuan/Puan  telah  membuat  pengesahan  penempatan  Tahun  Satu  anak  tuan/puan ........................................ di sekolah ini.
+2. Tuan/Puan telah membuat pengesahan penempatan Tahun Satu anak tuan/puan ........................................ di sekolah ini.
 
-- Dukacita  dimaklumkan,  anak    tuan/puan  didapati  masih  belum  melapor  diri  pada masa yang ditetapkan oleh pihak sekolah.
+3. Dukacita dimaklumkan, anak tuan/puan didapati masih belum melapor diri pada masa yang ditetapkan oleh pihak sekolah.
 
-- Sehubungan  itu,  tuan/puan  diminta  membawa  anak  tuan  untuk  melapor  diri  di sekolah ini dalam masa dua minggu dari tarikh surat ini dikeluarkan.
+4. Sehubungan itu, tuan/puan diminta membawa anak tuan untuk melapor diri di sekolah ini dalam masa dua minggu dari tarikh surat ini dikeluarkan.
 
-- Pihak sekolah tidak akan bertanggungjawab sekiranya anak tuan kehilangan tempat belajar  di  sekolah  ini  disebabkan  kegagalan  anak  tuan  melapor  diri  dalam  masa  yang ditetapkan.
+5. Pihak sekolah tidak akan bertanggungjawab sekiranya anak tuan kehilangan tempat belajar di sekolah ini disebabkan kegagalan anak tuan melapor diri dalam masa yang ditetapkan.
 
 Sekian, terima kasih.
 
@@ -1687,9 +1415,10 @@ Sekian, terima kasih.
 
 Saya yang menurut perintah,
 
-......................................... Guru Besar
-
-(Tandatangan dan Nama) Cop Sekolah
+.........................................
+(Tandatangan dan Nama)
+Guru Besar
+Cop Sekolah
 
 Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Kementerian Pelajaran Malaysia
 
@@ -1709,29 +1438,17 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 
 ADUAN
 
-KEMENTERIAN
+KEMENTERIAN PELAJARAN MALAYSIA
 
-PELAJARAN MALAYSIA
+JABATAN PELAJARAN NEGERI
 
-JABATAN PELAJARAN
-
-NEGERI
+PPD/PPG LUAR TADAHAN
 
 PPD/PPG
 
-SEKOLAH
+SEKOLAH LUAR TADAHAN
 
 SEKOLAH
-
-LUAR
-
-TADAHAN
-
-PPD/PPG
-
-LUAR
-
-TADAHAN
 
 Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Kementerian Pelajaran Malaysia
 
@@ -1744,6 +1461,10 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 Aktiviti Pelaksanaan
 
 Tindakan
+
+MULA
+
+SEKOLAH
 
 Menerima aduan murid cicir (termasuk kes murid cicir yang ada dalam pengetahuan) dan menjalankan siasatan.
 
@@ -1761,17 +1482,33 @@ Guru Besar menyelesaikan kes berkaitan di peringkat sekolah
 
 - Memanjangkan kes khas (kes perlu bantuan tabung kemiskinan murid tidak mahu mendaftar) ke KPM dan salinan laporan ke JPN/PPD/PPG untuk tindakan
 
+* Kes Khas
+
+Tidak
+
+PPD/PPG
+
 Menerima salinan aduan/laporan dari sekolah
 
 - Mengambil tindakan untuk bantu menyelesaikan kes, seperti contoh menempatkan murid di asrama pusat
 
 - Mewujudkan JPMC Daerah/Gabungan, jika perlu
 
+Tidak
+
+JPN
+
 Menerima salinan aduan dari sekolah/PPD/PPG
 
-- Mengambil tindakan untuk bantu menyelesaikan kes, seperti contoh permohonan kanak- kanak yang tiada sijil kelahiran
+- Mengambil tindakan untuk bantu menyelesaikan kes, seperti contoh permohonan kanak-kanak yang tiada sijil kelahiran
 
 - Mewujudkan JPMC Negeri, jika perlu
+
+Ya
+
+Tidak
+
+KPM
 
 Menerima aduan/laporan dari sekolah
 
@@ -1781,35 +1518,13 @@ Menerima aduan/laporan dari sekolah
 
 - Mewujudkan JPMC KPM, jika perlu
 
-MULA
-
-SEKOLAH
-
-PPD/PPG
-
-JPN
-
-KPM
-
 SELESAI
-
-Tidak
-
-Tidak
-
-Tidak
-
-Ya
-
-* Kes
-
-Khas
 
 Nota :
 
-* Kes Khas meliputi kes yang menentukan bantuan tabung kemiskinan/murid yang tidak mahu mendaftar.
+1. * Kes Khas meliputi kes yang menentukan bantuan tabung kemiskinan/murid yang tidak mahu mendaftar.
 
-**JPMC adalah Jawatankuasa Penyiasatan Murid Cicir.
+2. **JPMC adalah Jawatankuasa Penyiasatan Murid Cicir.
 
 Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Kementerian Pelajaran Malaysia
 
@@ -1835,19 +1550,19 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 
 ### A. JAWATANKUASA PENYIASATAN MURID CICIR (JPMC) PERINGKAT SEKOLAH (JIKA PERLU)
 
-- Guru Besar hendaklah menubuhkan JPMC di peringkat sekolah, (jika perlu) sekiranya kes murid cicir berkenaan tidak dapat diselesaikan oleh Guru Besar.
+1. Guru Besar hendaklah menubuhkan JPMC di peringkat sekolah, (jika perlu) sekiranya kes murid cicir berkenaan tidak dapat diselesaikan oleh Guru Besar.
 
-- JPMC Sekolah hendaklah terdiri daripada :
+2. JPMC Sekolah hendaklah terdiri daripada :
 
-- 2.1 Guru Besar sebagai Pengerusi
+2.1 Guru Besar sebagai Pengerusi
 
-- 2.2 Guru Penolong Kanan 1 sebagai Naib Pengerusi
+2.2 Guru Penolong Kanan 1 sebagai Naib Pengerusi
 
-- 2.3 Guru Penolong Kanan Hal Ehwal Murid sebagai Setiausaha
+2.3 Guru Penolong Kanan Hal Ehwal Murid sebagai Setiausaha
 
-- 2.4 Wakil guru-guru sekolah (termasuk Guru Bimbingan dan Guru Pemulihan).
+2.4 Wakil guru-guru sekolah (termasuk Guru Bimbingan dan Guru Pemulihan).
 
-- JPMC Sekolah adalah bertanggungjawab untuk :
+3. JPMC Sekolah adalah bertanggungjawab untuk :
 
 - 3.1 Menerima aduan/maklumat tentang murid cicir melalui Borang Aduan PMC 01/02 daripada :
 
@@ -1895,23 +1610,23 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 
 ### B. JAWATANKUASA PENYIASATAN MURID CICIR (JPMC) PERINGKAT DAERAH/GABUNGAN (JIKA PERLU)
 
-- PPD/PPG hendaklah menubuhkan JPMC di peringkat daerah/gabungan.
+1. PPD/PPG hendaklah menubuhkan JPMC di peringkat daerah/gabungan.
 
-- JPMC Daerah/Gabungan hendaklah terdiri daripada :
+2. JPMC Daerah/Gabungan hendaklah terdiri daripada :
 
-- 2.1 PPD/PPG (Penolong Pendaftar) sebagai Pengerusi.
+2.1 PPD/PPG (Penolong Pendaftar) sebagai Pengerusi.
 
-- 2.2 Penolong PPD/PPG Pengurusan Sekolah sebagai Naib Pengerusi 1.
+2.2 Penolong PPD/PPG Pengurusan Sekolah sebagai Naib Pengerusi 1.
 
-- 2.3 Penolong PPD/PPG Pengurusan Kemanusiaan sebagai Setiausaha.
+2.3 Penolong PPD/PPG Pengurusan Kemanusiaan sebagai Setiausaha.
 
-- 2.4 Penolong Pegawai Pendidikan Daerah (Rendah)
+2.4 Penolong Pegawai Pendidikan Daerah (Rendah)
 
-- 2.5 Guru Besar yang berkaitan.
+2.5 Guru Besar yang berkaitan.
 
-- 2.6 Pegawai-pegawai pendidikan yang berkaitan.
+2.6 Pegawai-pegawai pendidikan yang berkaitan.
 
-- JPMC PPD/PPG adalah bertanggungjawab untuk :
+3. JPMC PPD/PPG adalah bertanggungjawab untuk :
 
 - 3.1 Menerima aduan/maklumat tentang murid cicir melalui Borang Aduan PMC 01/02 daripada :
 
@@ -1965,23 +1680,23 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 
 ### C. JAWATANKUASA PENYIASATAN MURID CICIR (JPMC) PERINGKAT NEGERI (JIKA PERLU)
 
-- Pengarah Pelajaran Negeri (Pendaftar Sekolah dan Guru) hendaklah menubuhkan JPMC di peringkat Negeri.
+1. Pengarah Pelajaran Negeri (Pendaftar Sekolah dan Guru) hendaklah menubuhkan JPMC di peringkat Negeri.
 
-- JPMC Negeri hendaklah terdiri daripada :
+2. JPMC Negeri hendaklah terdiri daripada :
 
-- 2.1 Pengarah Pelajaran Negeri (Pendaftar Sekolah dan Guru) sebagai Pengerusi.
+2.1 Pengarah Pelajaran Negeri (Pendaftar Sekolah dan Guru) sebagai Pengerusi.
 
-- 2.2 Timbalan Pengarah Pelajaran Negeri sebagai Timbalan Pengerusi.
+2.2 Timbalan Pengarah Pelajaran Negeri sebagai Timbalan Pengerusi.
 
-- 2.3 Ketua Sektor Pengurusan Kemanusiaan sebagai Naib Pengerusi 1.
+2.3 Ketua Sektor Pengurusan Kemanusiaan sebagai Naib Pengerusi 1.
 
-- 2.4 Ketua Sektor Pengurusan Sekolah sebagai Naib Pengerusi 2.
+2.4 Ketua Sektor Pengurusan Sekolah sebagai Naib Pengerusi 2.
 
-- 2.5 Ketua Unit HEM sebagai Setiausaha.
+2.5 Ketua Unit HEM sebagai Setiausaha.
 
-- 2.6 Ketua Unit Sekolah Rendah, Ketua Unit Perhubungan dan Pendaftaran, Ketua Unit Pendidikan Khas.
+2.6 Ketua Unit Sekolah Rendah, Ketua Unit Perhubungan dan Pendaftaran, Ketua Unit Pendidikan Khas.
 
-- JPMC Negeri adalah bertanggungjawab untuk :
+3. JPMC Negeri adalah bertanggungjawab untuk :
 
 - 3.1 Menerima aduan/maklumat tentang murid cicir melalui Borang Aduan PMC 01/02 daripada :
 
@@ -2033,9 +1748,9 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 
 ### D. URUS SETIA PENYIASATAN MURID CICIR (USPMC) PERINGKAT KPM (JIKA PERLU)
 
-- TKPPM Jabatan Sekolah hendaklah menubuhkan Urus Setia Murid Cicir di peringkat KPM.
+- 1. TKPPM Jabatan Sekolah hendaklah menubuhkan Urus Setia Murid Cicir di peringkat KPM.
 
-- Urus Setia hendaklah terdiri daripada :
+- 2. Urus Setia hendaklah terdiri daripada :
 
 - 2.1 TKPPM Jabatan Sekolah sebagai Pengerusi.
 
@@ -2043,7 +1758,7 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 
 - 2.3 Unit Rendah, Bahagian Sekolah sebagai Urus Setia/Setiausaha.
 
-- Urus Setia adalah bertanggungjawab untuk :
+- 3. Urus Setia adalah bertanggungjawab untuk :
 
 - 3.1 Merancang dan menyelaraskan tindakan pelaksanaan pendidikan wajib di peringkat rendah.
 
@@ -2077,17 +1792,17 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 
 #### SENARAI DOKUMEN BAGI PROSES PENYIASATAN MURID CICIR
 
-- Borang Aduan Murid Cicir - PMC 01/02 (Sekolah)
+- 1. Borang Aduan Murid Cicir – PMC 01/02 (Sekolah)
 
-- Borang Perakuan Penerima Aduan Laporan Murid Cicir - PMC 01/02-A (Sekolah)
+- 2. Borang Perakuan Penerima Aduan Laporan Murid Cicir – PMC 01/02-A (Sekolah)
 
-- Format Laporan Penyiasatan Murid Cicir - PMC 02/02 (Sekolah)
+- 3. Format Laporan Penyiasatan Murid Cicir – PMC 02/02 (Sekolah)
 
-- Surat Penyiasatan Murid Cicir Sekolah/PPD/PPG/JPN -  PMC 03/02
+- 4. Surat Penyiasatan Murid Cicir Sekolah/PPD/PPG/JPN - PMC 03/02
 
-- Surat Tunjuk Sebab Mengapa Anak Tidak Didaftarkan
+- 5. Surat Tunjuk Sebab Mengapa Anak Tidak Didaftarkan
 
-- Surat Arahan Mendaftar Tahun 1
+- 6. Surat Arahan Mendaftar Tahun 1
 
 Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Kementerian Pelajaran Malaysia
 
@@ -2167,9 +1882,13 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 
 [[START OF PAGE 53]]
 
+PMC 01/02-A
+
 Sekolah/PPD/PPG/Jabatan
 
-PMC 01/02-A
+Ruj. :
+
+Tarikh :
 
 ...........................................................................
 
@@ -2185,9 +1904,9 @@ Tuan,
 
 Adalah diperakukan kami telah menerima aduan di atas pada ................................................ ...................................................... (rujukan dan tarikh).
 
-- Jabatan Pelajaran Negeri/Pejabat Pelajaran Daerah/Gabungan telah mengambil maklum dan akan diambil tindakan susulan.
+- 2. Jabatan Pelajaran Negeri/Pejabat Pelajaran Daerah/Gabungan telah mengambil maklum dan akan diambil tindakan susulan.
 
-- Penghargaan dan terima kasih kerana keprihatinan kepada pendidikan wajib.
+- 3. Penghargaan dan terima kasih kerana keprihatinan kepada pendidikan wajib.
 
 Sekian, terima kasih.
 
@@ -2195,9 +1914,9 @@ Sekian, terima kasih.
 
 Saya yang menurut perintah,
 
-......................................... (Tandatangan dan nama) GB/PPD/PPG/JPN
-
-Ruj. : Tarikh  :
+.........................................
+(Tandatangan dan nama)
+GB/PPD/PPG/JPN
 
 Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Kementerian Pelajaran Malaysia
 
@@ -2211,63 +1930,63 @@ PMC 02/02
 
 #### A. Makluman Pegawai Penyiasat
 
-- Nama
+- 1. Nama
 
 : ......................................................................................
 
-- Jawatan
+- 2. Jawatan
 
 : ......................................................................................
 
-- No. Kad Pengenalan
+- 3. No. Kad Pengenalan
 
 : ......................................................................................
 
-- Surat Kuasa
+- 4. Surat Kuasa
 
 : ......................................................................................
 
-- Rujukan Pelantikan
+- 5. Rujukan Pelantikan
 
 : ......................................................................................
 
-#### Makluman Kanak-Kanak
+#### B. Makluman Kanak-Kanak
 
-- Nama
-
-: ......................................................................................
-
-- Jantina
+- 1. Nama
 
 : ......................................................................................
 
-- Bangsa
+- 2. Jantina
 
 : ......................................................................................
 
-- Tarikh Lahir
+- 3. Bangsa
 
 : ......................................................................................
 
-- No. Sijil Lahir
+- 4. Tarikh Lahir
 
 : ......................................................................................
 
-- Nama Sekolah Terakhir
+- 5. No. Sijil Lahir
 
 : ......................................................................................
 
-- Kewarganegaraan
+- 6. Nama Sekolah Terakhir
 
 : ......................................................................................
 
-- Tahun Terakhir Persekolah : 1   2   3   4   5   6   Tahun .............................................
-
-- Tarikh Berhenti Sekolah
+- 7. Kewarganegaraan
 
 : ......................................................................................
 
-#### Jenis Keciciran Murid (Sila tandakan √ pada kotak yang berkenaan)
+- 8. Tahun Terakhir Persekolah : 1   2   3   4   5   6   Tahun .............................................
+
+- 9. Tarikh Berhenti Sekolah
+
+: ......................................................................................
+
+#### C. Jenis Keciciran Murid (Sila tandakan √ pada kotak yang berkenaan)
 
 Murid yang berdaftar dan mengesah untuk bersekolah Tahun 1 tapi tidak melapor diri ke sekolah dalam tempoh 14 hari persekolahan.
 
@@ -2283,43 +2002,38 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 
 [[START OF PAGE 55]]
 
-#### Makluman Ibu Bapa/Penjaga
+#### D. Makluman Ibu Bapa/Penjaga
 
-- Taraf pendidikan ibu bapa / penjaga : ................................................................
+|  | Bapa | Ibu | Penjaga |
+| --- | --- | --- | --- |
+| 1. Nama : |  |  |  |
+| 2. Jantina : |  |  |  |
+| 3. No. Kad Pengenalan : |  |  |  |
+| 4. Kewarganegaraan : |  |  |  |
+| 5. Alamat : |  |  |  |
+| 6. Pekerjaan : |  |  |  |
+| 7. Pendapatan Sebulan : |  |  |  |
 
-#### Sebab-sebab Keciciran
+8. Tanggungan : ..................... orang
 
-: | Bapa | Ibu | Penjaga
---- | --- | --- | --- | ---
-1. | Nama | :
-2. | Jantina | :
-3. | No. Kad Pengenalan | :
-4. | Kewarganegaraan | :
-5. | Alamat | :
-6. | Pekerjaan | :
-7. | Pendapatan Sebulan | :
-8. | Tanggungan | : | ..................... | orang
+| Bil. | Nama Anak | Umur | Nama Sekolah / Institusi | Hubungan dengan Ibu Bapa / Penjaga |
+| --- | --- | --- | --- | --- |
 
-Bil. | Nama Anak | Umur | Nama Sekolah / Institusi | Hubungan dengan Ibu Bapa / Penjaga
---- | --- | --- | --- | ---
+9. Taraf pendidikan ibu bapa / penjaga : ................................................................
 
-a.
+#### E. Sebab-sebab Keciciran
 
-Jarak rumah dengan sekolah terdekat
+a. Jarak rumah dengan sekolah terdekat
 
-- Masalah pengangkutan
+b. Masalah pengangkutan
 
-- Kesihatan dan orang kurang upaya ibu bapa/penjaga atau kanak-kanak
+c. Kesihatan dan orang kurang upaya ibu bapa/penjaga atau kanak-kanak
 
-d.
+d. Surat akuan doktor (jika ada)
 
-Surat akuan doktor (jika ada)
+e. Kemiskinan
 
-- Kemiskinan
-
-f.
-
-Keselamatan/Ancaman
+f. Keselamatan/Ancaman
 
 Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Kementerian Pelajaran Malaysia
 
@@ -2327,17 +2041,15 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 
 [[START OF PAGE 56]]
 
-- Sijil lahir
+g. Sijil lahir
 
-- Sikap
+h. Sikap
 
-i.
-
-Dan lain-lain (sila nyatakan) : ................................................................................
+i. Dan lain-lain (sila nyatakan) : ................................................................................
 
 ................................................................................................................................
 
-#### Ulasan dan Cadangan
+#### F. Ulasan dan Cadangan
 
 ............................................................................................................................................
 
@@ -2357,11 +2069,15 @@ Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Keme
 
 [[START OF PAGE 57]]
 
+PMC 03/02
+
 Logo
 
 Sekolah/PPD/PPG/Jabatan
 
-PMC 03/02
+Ruj. :
+
+Tarikh :
 
 Encik/Puan,
 
@@ -2377,11 +2093,11 @@ Tuan,
 
 Dengan hormatnya saya merujuk surat pemberian kuasa di bawah seksyen 136 oleh Ketua Pendaftar Sekolah dan Guru Kementerian Pelajaran Malaysia Bil. ......................................... bertarikh ......................................... dan surat aduan .............................................................. Encik ................................................................................... bertarikh ..................................... berkaitan dengan perkara di atas.
 
-- Sehubungan itu, tuan/puan dipohon untuk menyiasat kes murid cicir seperti mana yang telah dinyatakan oleh pengadu. Borang Aduan PMC 01/02 dilampirkan.
+- 2. Sehubungan itu, tuan/puan dipohon untuk menyiasat kes murid cicir seperti mana yang telah dinyatakan oleh pengadu. Borang Aduan PMC 01/02 dilampirkan.
 
-- Dengan ini, tuan/puan dikehendaki menjalankan tugas siasatan berpandukan kepada Format Borang Penyiasatan Murid Cicir PMC 02/02.
+- 3. Dengan ini, tuan/puan dikehendaki menjalankan tugas siasatan berpandukan kepada Format Borang Penyiasatan Murid Cicir PMC 02/02.
 
-- Kerjasama dan bantuan tuan amat kami harapkan dan hargai.
+- 4. Kerjasama dan bantuan tuan amat kami harapkan dan hargai.
 
 Sekian, terima kasih.
 
@@ -2389,11 +2105,10 @@ Sekian, terima kasih.
 
 Saya yang menurut perintah,
 
-......................................... (Tandatangan dan nama) GB/PPD/PPG/Pendafatar
-
-- s.k.   PPD/PPG/JPN
-
-Ruj. : Tarikh  :
+.........................................
+(Tandatangan dan nama)
+GB/PPD/PPG/Pendafatar
+s.k. PPD/PPG/JPN
 
 Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Kementerian Pelajaran Malaysia
 
@@ -2417,13 +2132,13 @@ Tuan/Puan,
 
 Dengan hormatnya saya merujuk kepada perkara di atas.
 
-- Akta Pendidikan (Pindaan) Seksyen baru 29A subseksyen 2 menjelaskan iaitu :
+- 2. Akta Pendidikan (Pindaan) Seksyen baru 29A subseksyen 2 menjelaskan iaitu :
 
-(2) Tiap-tiap ibu bapa yang merupakan warganegara Malaysia yang tinggal di Malaysia hendaklah memastikan bahawa jika anaknya telah mencapai umur enam tahun pada hari  pertama  bulan  Januari  dalam  tahun  persekolahan  semasa  anak  itu  didaftarkan sebagai murid di sekolah rendah dalam tahun itu dan terus menjadi murid di sekolah rendah sepanjang tempoh pendidikan wajib.
+(2) Tiap-tiap ibu bapa yang merupakan warganegara Malaysia yang tinggal di Malaysia hendaklah memastikan bahawa jika anaknya telah mencapai umur enam tahun pada hari pertama bulan Januari dalam tahun persekolahan semasa anak itu didaftarkan sebagai murid di sekolah rendah dalam tahun itu dan terus menjadi murid di sekolah rendah sepanjang tempoh pendidikan wajib.
 
-- Sehubungan dengan itu, adalah dimaklumkan bahawa sehingga sekarang tuan/puan didapati masih belum mendaftarkan anak tuan/puan yang bernama ....................................... untuk  belajar  di  sekolah  rendah.  Oleh  itu,  tuan/puan  diminta  supaya  memberikan  sebab- sebab  mengapa  tuan/puan  gagal  berbuat  demikian  agar  pihak  kami  dapat  membantu menyelesaikan masalah tersebut.
+- 3. Sehubungan dengan itu, adalah dimaklumkan bahawa sehingga sekarang tuan/puan didapati masih belum mendaftarkan anak tuan/puan yang bernama ....................................... untuk belajar di sekolah rendah. Oleh itu, tuan/puan diminta supaya memberikan sebab-sebab mengapa tuan/puan gagal berbuat demikian agar pihak kami dapat membantu menyelesaikan masalah tersebut.
 
-- Sila jawab surat ini dalam tempoh 14 hari untuk tindakan kami selanjutnya.
+- 4. Sila jawab surat ini dalam tempoh 14 hari untuk tindakan kami selanjutnya.
 
 Sekian, terima kasih.
 
@@ -2460,9 +2175,9 @@ No. Sijil Kelahiran : ..........................................................
 
 Dengan hormatnya saya merujuk mengenai perkara di atas.
 
-- Sehubungan  dengan  itu,  adalah  dimaklumkan  bahawa  Jawatankuasa  Penyiasatan Murid Cicir (JPMC) *Sekolah/PPD/PPG/JPN/KPM telah mengkaji laporan penyiasatan murid cicir seperti di atas dan memutuskan bahawa anak tuan yang bernama ................................. adalah  wajib  bersekolah  pada  tahun  persekolahan  ....................................  berdasarkan kepada Akta Pendidikan (Pindaan) Seksyen 29A.
+- 2. Sehubungan dengan itu, adalah dimaklumkan bahawa Jawatankuasa Penyiasatan Murid Cicir (JPMC) *Sekolah/PPD/PPG/JPN/KPM telah mengkaji laporan penyiasatan murid cicir seperti di atas dan memutuskan bahawa anak tuan yang bernama ................................. adalah wajib bersekolah pada tahun persekolahan .................................... berdasarkan kepada Akta Pendidikan (Pindaan) Seksyen 29A.
 
-- Oleh itu, tuan/puan diarah supaya mendaftarkan anak tuan/puan di sekolah ............................................................................................... dalam tempoh 14 hari dari tarikh surat ini.
+- 3. Oleh itu, tuan/puan diarah supaya mendaftarkan anak tuan/puan di sekolah ............................................................................................... dalam tempoh 14 hari dari tarikh surat ini.
 
 Sekian, terima kasih.
 
@@ -2472,7 +2187,7 @@ Saya yang menurut perintah,
 
 ......................................... (Tandatangan dan nama) Pendaftar
 
-- Potong yang tidak berkenaan
+* Potong yang tidak berkenaan
 
 Diilustrasi kembali oleh Ahmad Faris bin Johan, Unit ICT, Bahagian Sekolah, Kementerian Pelajaran Malaysia
 
@@ -2518,7 +2233,7 @@ Ibu bapa adalah di antara membuat permohonan penempatan bagi anaknya untuk belaj
 
 Ibu bapa dinasihatkan membuat pengesahan penempatan ke Tahun 1 di sekolah rendah di mana anaknya akan ditempatkan apabila menerima maklumat berkenaan  yang  akan  disampaikan  oleh  sekolah  atau  Pejabat  Pelajaran  Daerah atau Pejabat Pelajaran Gabungan atau Jabatan Pelajaran Negeri sepanjang bulan Ogos.
 
-Penempatan seseorang kanak-kanak ke sesebuah sekolah tidak semestinya sama dengan  yang  dipohon  semasa  membuat  permohonan  penempatan.  Atas  sebabsebab yang tidak dapat dielakkan permohonan ke sesuatu sekolah boleh ditolak.
+Penempatan seseorang kanak-kanak ke sesebuah sekolah tidak semestinya sama dengan yang dipohon semasa membuat permohonan penempatan. Atas sebab-sebab yang tidak dapat dielakkan permohonan ke sesuatu sekolah boleh ditolak.
 
 #### Rayuan
 
