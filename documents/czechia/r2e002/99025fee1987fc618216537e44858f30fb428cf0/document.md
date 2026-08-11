@@ -1,8 +1,30 @@
 [[START OF PAGE 1]]
 
-# ACT No. 111 on Higher Education Institutions dated 22 nd of April 1998 and on Modification and Amendment of Other Acts
+# ACT No. 111 on Higher Education Institutions dated 22nd of April 1998 and on Modification and Amendment of Other Acts
 
 (THE HIGHER EDUCATION ACT)
+
+The contents: Page:
+The Higher Education Act
+Part I Fundamental Provisions 2
+Part II Public Higher Education Institutions and their Parts 4
+Part III Private Higher Education Institutions
+Part IV Study Programme
+Part V Studies at a Higher Education Institution
+Part VI Students
+Part VII Academic Staff
+Part VIII Accreditation
+Part IX State Administration
+Part X Representation of Higher Education Institutions
+Part XI Teaching Hospitals
+Part XII Military and Police Higher Education Institutions
+Part XIII Modification and Amendment of the Income-Tax Act
+Part XIV Modifications of the Act on Service Relationship of the
+Members of Police in the Czech Republic
+Part XV Common, Temporary and Concluding Provisions
+Appendix No. 1 Higher Education Institutions in the Czech Republic
+Appendix No. 2 Military Higher Education Institutions in the Czech
+Republic
 
 [[END OF PAGE 1]]
 
@@ -10,7 +32,7 @@
 
 # ACT No. 111
 
-# On Higher Education Institutions dated 22 nd of April 1998 And on Modification and Amendment of Other Acts
+# On Higher Education Institutions dated 22nd of April 1998 And on Modification and Amendment of Other Acts
 
 (THE HIGHER EDUCATION ACT)
 
@@ -170,7 +192,7 @@ Act No. 111/1998 on Higher Education Institutions and on Modification and Amendm
 
 - The  Academic  Senate  of  a  public  higher  education  institution  represents  its  independent representative academic body. It consists of at least eleven (11) members hereof at least one third  and  at  most  one  half  constitute  students.  The  members  of  the  Academic  Senate  are elected from the academic community of a public higher education institution on the basis of their voting by ballot. The results of voting are deemed valid provided that at least fifteen (15) percent members of the academic community of a public higher education institution take part in the voting. Should the participation of academic community members be lower than  fifteen  percent,  the  voting  must  be  reiterated.  In  case  the  required  participation  of academic community members was too low again, the voting would reiterate regardless of participation of the academic community members. Internal regulations of a public higher education institution outline namely the number of members of the Academic Senate, the manner they are voted for, and the manner of voting for the Chair of the Academic Senate, bodies of the Academic Senate and the manner of their constitution, reasons for terminating a membership in the Academic Senate and possible incompatibility of membership in the Academic Senate with exercise of other duties.
 
-- The membership in the Academic Senate is incompatible with the duties of the Rector, vicerectors, deans and vice-deans.
+- The membership in the Academic Senate is incompatible with the duties of the Rector, vice-rectors, deans and vice-deans.
 
 [[END OF PAGE 5]]
 
@@ -492,7 +514,7 @@ Act No. 111/1998 on Higher Education Institutions and on Modification and Amendm
 
 - Public higher education institutions are due to perform the following tasks:
 
-- Elaborate an annual report on activities and an annual report on economic management of the  higher  education  institution  in  the  form  of  a  non-periodical  publication 11) .  This publication is presented to the Ministry once a year by the term and in the form stipulated by  the  Minister  in  regulations  published  in  the  Bulletin  of  the  Ministry  ('V ě stník ministerstva');
+- Elaborate an annual report on activities and an annual report on economic management of the higher education institution in the form of a non-periodical publication 11). This publication is presented to the Ministry once a year by the term and in the form stipulated by the Minister in regulations published in the Bulletin of the Ministry ('Věstník ministerstva');
 
 - Elaborate long-term intentions of the public higher education institution, discuss them with the Minister and make them public by the term and in the form stipulated by the Minister;
 
@@ -540,7 +562,7 @@ Act No. 111/1998 on Higher Education Institutions and on Modification and Amendm
 
 - The  total  value  of  costs  divided  into  costs  related  to  supplementary  activities  and  other costs.
 
-- The annual report on activities, the annual report on economic management and the longterm  intentions  of  a  public  higher  education  institution  and  the  results  of  evaluation  of public higher education institution' activities must be available to the public.
+- The annual report on activities, the annual report on economic management and the long-term intentions of a public higher education institution and the results of evaluation of public higher education institution' activities must be available to the public.
 
 ### CHAPTER II PARTITION OF PUBLIC HIGHER EDUCATION INSTITUTIONS
 
@@ -632,11 +654,11 @@ Act No. 111/1998 on Higher Education Institutions and on Modification and Amendm
 
 - The  Academic  Senate  of  the  faculty  symbolises  its  independent  representative  academic body. It consists of at least nine (9) members hereof at least one third and at most one half constitute students. The members of the Academic Senate of the faculty are elected from the academic community of the faculty on the basis of their voting by ballot. The voting is even and direct. The results of voting are deemed valid provided that at least thirty (30) percent members  of  the  academic  community  of  the  faculty  take  part  in  the  voting.  Should  the participation of academic community members be lower than thirty percent, the voting must be reiterated. In case the required participation of academic community members was too low again, the voting would reiterate regardless of participation of the academic community members. Internal regulations of the faculty outline namely the number of members of the Academic Senate, the manner they are voted for, and the manner of voting for the Chair of the Academic Senate, bodies of the Academic Senate and the manner of their constitution, reasons for terminating a membership in the Academic Senate and possible incompatibility of membership in the Academic Senate with exercise of other duties.
 
-- The membership in the Academic Senate is incompatible with the duties of the Rector, vicerectors, deans and vice-deans.
+- The membership in the Academic Senate is incompatible with the duties of the Rector, vice-rectors, deans and vice-deans.
 
 - The term of Academic Senate members of the faculty shall not exceed three (3) years. The term  of  all  Academic  Senate  members  of  the  faculty  is  terminated  should  the  Academic Senate fail to hold meetings for six (6) months as per Article 27. A new voting is declared by the Rector in thirty (30) days at the latest.
 
-- Meetings of the Academic Senate of the faculty are open to the public. The Dean, or a vicedean acting in his behalf, has the right to deliver a speech at the meeting any time he makes a request to do so. Upon the Dean's request, the Chair of the Academic senate is bound to call an extraordinary meeting of the Academic Senate of the faculty without delay.
+- Meetings of the Academic Senate of the faculty are open to the public. The Dean, or a vice-dean acting in his behalf, has the right to deliver a speech at the meeting any time he makes a request to do so. Upon the Dean's request, the Chair of the Academic senate is bound to call an extraordinary meeting of the Academic Senate of the faculty without delay.
 
 ##### Article 27
 
@@ -952,7 +974,7 @@ management of the higher education institution. Both publications shall be prese
 
 - The contents of the annual report on economic management of a private higher education institution are subject to similar provisions as per Article 21, subsection 3, if not stipulated otherwise by means of special regulations.
 
-- The annual report on activities, the annual report on economic management and the longterm  intentions  of  a  private  higher  education  institution  and  the  results  of  evaluation  of private higher education institution' activities must be available to the public.
+- The annual report on activities, the annual report on economic management and the long-term intentions of a private higher education institution and the results of evaluation of private higher education institution' activities must be available to the public.
 
 ##### Article 43 Scope of Authority of the Ministry
 
@@ -1034,7 +1056,7 @@ Act No. 111/1998 on Higher Education Institutions and on Modification and Amendm
 
 - The study programme must be completed in due form with a final state examination that usually includes a defence of a bachelor thesis.
 
-- Graduates  of  bachelor  study  programmes  are  awarded  the  academic  degree  of 'bakalá ř '  (i.e.  'Bachelor',  abbreviated  as  'Bc.',  used  in  front  of  the  name).  There  is  an equivalent academic degree in the field of arts - 'bakalá ř um ě ní' (i.e. 'Bachelor of Arts', abbreviated as 'BcA.', used in front of the name). Graduates in arts admitted to studies per Article  48,  subsection  2  are  awarded  their  academic  degrees  only  upon  completing  their comprehensive  secondary  education,  comprehensive  vocational  secondary  education,  or higher vocational education provided by conservatories.
+- Graduates  of  bachelor  study  programmes  are  awarded  the  academic  degree  of 'bakalář'  (i.e.  'Bachelor',  abbreviated  as  'Bc.',  used  in  front  of  the  name).  There  is  an equivalent academic degree in the field of arts - 'bakalář umění' (i.e. 'Bachelor of Arts', abbreviated as 'BcA.', used in front of the name). Graduates in arts admitted to studies per Article  48,  subsection  2  are  awarded  their  academic  degrees  only  upon  completing  their comprehensive  secondary  education,  comprehensive  vocational  secondary  education,  or higher vocational education provided by conservatories.
 
 ##### Article 46
 
@@ -1064,7 +1086,7 @@ Act No. 111/1998 on Higher Education Institutions and on Modification and Amendm
 
 'Doktor veterinární medicíny' (i.e. 'Doctor of Veterinary Medicine', abbreviated as 'MVDr.', used in front of the name) in the field of veterinary studies;
 
-'Magistr um ě ní' (i.e. 'Master of Arts', abbreviated as 'MgA.', used in front of the name) in the field of arts;
+'Magistr umění' (i.e. 'Master of Arts', abbreviated as 'MgA.', used in front of the name) in the field of arts;
 
 'Magistr' (i.e. 'Master', abbreviated as 'Mgr.', used in front of the name) in other fields of study.
 
@@ -1076,7 +1098,7 @@ Graduates of master study programmes in arts admitted to studies per Article 48,
 
 'Doktor filozofie' (i.e. 'Doctor of Philosophy', abbreviated as 'PhDr.', used in front of the name) in the field of humanities, pedagogical and social sciences;
 
-'Doktor  p ř írodních  v ě d'  (i.e.  'Doctor  of  Natural  Sciences',  abbreviated  as 'RNDr.', used in front of the name) in the field of natural sciences;
+'Doktor přírodních věd'  (i.e.  'Doctor  of  Natural  Sciences',  abbreviated  as 'RNDr.', used in front of the name) in the field of natural sciences;
 
 'Doktor  farmacie'  (i.e.  'Doctor  of  Pharmacy',  abbreviated  as  'PharmDr.', used in front of the name) in the field of pharmacy;
 
@@ -1318,7 +1340,7 @@ Study-related  fees  at  a  private  higher  education  institution  are  set  b
 
 ###### Lifelong Learning
 
-- Higher education institutions may provide - either free of charge, or subject to payment lifelong  learning  programmes  within  the  framework  of  their  educational  activity  and beyond the scope of their study programmes. Lifelong learning can be either vocationoriented  or  interest-oriented.  Detailed  conditions  pertaining  to  lifelong  learning  are stipulated in internal regulations. These must be provided in advance to all participants in lifelong learning programmes.
+- Higher education institutions may provide – either free of charge, or subject to payment – lifelong  learning  programmes  within  the  framework  of  their  educational  activity  and beyond the scope of their study programmes. Lifelong learning can be either vocation-oriented  or  interest-oriented.  Detailed  conditions  pertaining  to  lifelong  learning  are stipulated in internal regulations. These must be provided in advance to all participants in lifelong learning programmes.
 
 - Higher  education  institutions  shall  issue  certificates  of  graduation  to  all  graduates  in lifelong learning programmes.
 
@@ -1672,7 +1694,7 @@ Act No. 111/1998 on Higher Education Institutions and on Modification and Amendm
 
 - The Ministry is to convey the application immediately to the Accreditation Commission that shall make its judgement no later than 120 days from the date of receipt.
 
-> 19) Article 53 of the Act No. 20/1966 on People's Health Welfare, in the wording of Czech National Council ( Č NR) Act No. 548/1991.
+> 19) Article 53 of the Act No. 20/1966 on People's Health Welfare, in the wording of Czech National Council (ČNR) Act No. 548/1991.
 
 [[END OF PAGE 43]]
 
@@ -1860,7 +1882,7 @@ one third of members whose term of office shall expire in two-year time and one 
 
 - In case of serious deficiencies in habilitation procedures or procedures for the appointment  of  professors,  the  Accreditation  Commission  shall  invite  the  Ministry  to withdraw  or  temporarily  terminate  the  accreditation,  depending  on  the  nature  of  the matter.
 
-- The Accreditation Commission shall invite the Ministry to withdraw the accreditation in case of circumstances occurring at the higher education institution, its part, or at the cooperating legal entity, substantiating rejection of the request for accreditation.
+- The Accreditation Commission shall invite the Ministry to withdraw the accreditation in case of circumstances occurring at the higher education institution, its part, or at the co-operating legal entity, substantiating rejection of the request for accreditation.
 
 - Should the reasons for taking measures as per subsection 2, letter a) or b) or subsection 3 cease,  the  Accreditation  Commission  shall  invite  the  Ministry  to  cancel  the  measures taken.
 
@@ -1890,7 +1912,7 @@ The Ministry performs the following tasks:
 
 - Registration of internal regulations of higher education institutions;
 
-- Elaboration of the annual report on the state of the system of higher education and longterm strategy of the Ministry and making it public;
+- Elaboration of the annual report on the state of the system of higher education and long-term strategy of the Ministry and making it public;
 
 - Discussion and evaluation of long-term intentions of public higher education institutions and long-term intentions of private higher education institutions as well as their annual update;
 
@@ -1968,7 +1990,7 @@ The  structure  of  information  records  contained  in  the  database  and  the
 
 > 21) Czech National Council Act No. 97/1974 on Keeping Archives, in the wording of the Czech National Council Act No. 343/1992.
 
-> Directives of the Ministry of the Interior 7/1975 Ú.v. Č SR, on Utilisation of Archive Records, reg. figure 24/1975, in the wording of the Czech National Council Act No. 343/1992.
+> Directives of the Ministry of the Interior 7/1975 Ú.v. ČSR, on Utilisation of Archive Records, reg. figure 24/1975, in the wording of the Czech National Council Act No. 343/1992.
 
 [[END OF PAGE 50]]
 
@@ -2238,7 +2260,7 @@ Article 16, subsection 3, in the following wording:
 
 ##### Article 99
 
-- The academic/scientific degree of 'doktor' ('Doctor') and the degree of 'bakalá ř ' ('Bachelor') awarded as per Act No. 172/1990 are regarded as the academic degree of 'doktor' ('Doctor') and 'bakalá ř ' ('Bachelor') as per this Act.
+- The academic/scientific degree of 'doktor' ('Doctor') and the degree of 'bakalář' ('Bachelor') awarded as per Act No. 172/1990 are regarded as the academic degree of 'doktor' ('Doctor') and 'bakalář' ('Bachelor') as per this Act.
 
 - The academic degree of 'inženýr' ('Engineer') awarded to graduates of technical higher education institutions in the field of architecture as per Article No. 21 of the Act No.  172/1990  is  being  replaced  by  the  academic  degree  of  'inženýr  architekt'  (i.e. 'Engineer Architect', abbreviated as 'Ing. arch.', used in front of the name). The higher education institution shall issue a certificate documenting this change upon a request.
 
@@ -2248,9 +2270,9 @@ Article 16, subsection 3, in the following wording:
 
 58        Act No. 111/1998 on Higher Education Institutions and on Modification and Amendment of Other Acts (THE HIGHER EDUCATION ACT)
 
-- The academic degree of 'bakalá ř ' ('Bachelor') awarded to graduates of a comprehensive part of undergraduate studies at a higher education art institution as per Article  No.  21  of  the  Act  No.  172/1990  is  being  replaced  by  the  academic  degree  of 'bakalá ř um ě ní'  (i.e.  'Bachelor  of  Arts',  abbreviated  as  'BcA.',  used  in  front  of  the name). The higher education institution shall issue a certificate documenting this change upon a request.
+- The academic degree of 'bakalář' ('Bachelor') awarded to graduates of a comprehensive part of undergraduate studies at a higher education art institution as per Article No. 21 of the Act No. 172/1990 is being replaced by the academic degree of 'bakalář umění' (i.e. 'Bachelor of Arts', abbreviated as 'BcA.', used in front of the name). The higher education institution shall issue a certificate documenting this change upon a request.
 
-- The  academic  degree  of  'magistr'  ('Master')  awarded  to  graduates  of  higher education art institutions as per Article No. 21 of the Act No. 172/1990 is being replaced by  the  academic  degree  of  'magistr  um ě ní'  (i.e.  'Master  of  Arts',  abbreviated  as 'MgA.',  used  in  front  of  the  name).  The  higher  education  institution  shall  issue  a certificate documenting this change upon a request.
+- The academic degree of 'magistr' ('Master') awarded to graduates of higher education art institutions as per Article No. 21 of the Act No. 172/1990 is being replaced by the academic degree of 'magistr umění' (i.e. 'Master of Arts', abbreviated as 'MgA.', used in front of the name). The higher education institution shall issue a certificate documenting this change upon a request.
 
 - The graduates of higher education institutions that have been awarded the academic degree of 'magistr' ('Master') as per Article No. 21, subsection 2, and Article No. 45, subsection 2, of the Act No. 172/1990 with the exception of graduates listed in subsection 9 are in a position to pass a rigorous state examination in the same field of study and earn an academic degree as per Article No. 46, subsection 5.
 
@@ -2278,21 +2300,21 @@ Act No. 111/1998 on Higher Education Institutions and on Modification and Amendm
 
 ##### Article 100
 
-- The study of scientific postgraduates leading to the award of the scientific degree 'kandidát  v ě d'  (i.e.  'Candidate  of  Science',  abbreviated  as  'CSc.')  will  no  longer  be open  upon  the  new  Higher  Education  Act  coming  into  effect.  Participants  in  these scientific education programmes that had started as per hitherto regulations may complete their  education  as  per  these  regulations  provided  they  finish  the  defence  of  their dissertations by 31 st of December 2001.
+- The study of scientific postgraduates leading to the award of the scientific degree 'kandidát věd' (i.e. 'Candidate of Science', abbreviated as 'CSc.') will no longer be open upon the new Higher Education Act coming into effect. Participants in these scientific education programmes that had started as per hitherto regulations may complete their education as per these regulations provided they finish the defence of their dissertations by 31st of December 2001.
 
 - Postgraduate students taking part in scientific education programmes may request their admission to doctoral study programmes. Their acceptance is subject to evaluation of their hitherto scientific education and completed candidate exams.
 
 ##### Article 101
 
-- As of 1 st of January 1999, public higher education institutions are represented by higher education  institutions  listed  in  Appendix  No.  1;  military  and  police  higher  education institutions are represented by military and police higher education institutions listed in Appendix No. 2.
+- As of 1st of January 1999, public higher education institutions are represented by higher education institutions listed in Appendix No. 1; military and police higher education institutions are represented by military and police higher education institutions listed in Appendix No. 2.
 
 - Higher education institutions named in subsection 1 shall submit their internal regulations modified as per this Act for registration by first of July 1999.
 
 - The effectiveness of appointment or election of academic officials and their term of office with respect to this Act remain intact.
 
-- Students enrolled in higher education institutions listed in Appendix No. 1 and Appendix No.  2  as  of  first  of  January  1999  are  regarded  as  students  as  per  this  Act.  Higher education institutions are due to enter these students into the Register of students by 1 st of March 1999.
+- Students enrolled in higher education institutions listed in Appendix No. 1 and Appendix No. 2 as of first of January 1999 are regarded as students as per this Act. Higher education institutions are due to enter these students into the Register of students by 1st of March 1999.
 
-- As of 1 st of January 1999, the Ministry's right to manage is extended to the state property which was subject as of this date to the right to manage by higher education institutions listed  in  Appendix  1.  Upon  a  discussion  with  a  public  higher  education  institution,  the Ministry  may  resolve  upon  transferring  this  property  to  the  possession  of  the  pertinent public higher education institution; upon a request of a public higher education institution it  shall be so decided always in the event of property needed for providing educational, scholarly, research, developmental, artistic or other creative activity while implementing accredited study programmes.  The resolution must specify the designation and domicile of the public higher education institution, itemisation of the property being transferred as well as liabilities  relating  to  this  property  and  the  date  of  transferring  the  property  and related  liabilities  onto  the  public  higher  education  institution.  This  resolution  is  not subject to general regulations on administration proceedings.
+- As of 1st of January 1999, the Ministry's right to manage is extended to the state property which was subject as of this date to the right to manage by higher education institutions listed in Appendix 1. Upon a discussion with a public higher education institution, the Ministry may resolve upon transferring this property to the possession of the pertinent public higher education institution; upon a request of a public higher education institution it shall be so decided always in the event of property needed for providing educational, scholarly, research, developmental, artistic or other creative activity while implementing accredited study programmes. The resolution must specify the designation and domicile of the public higher education institution, itemisation of the property being transferred as well as liabilities relating to this property and the date of transferring the property and related liabilities onto the public higher education institution. This resolution is not subject to general regulations on administration proceedings.
 
 [[END OF PAGE 59]]
 
@@ -2300,13 +2322,13 @@ Act No. 111/1998 on Higher Education Institutions and on Modification and Amendm
 
 60        Act No. 111/1998 on Higher Education Institutions and on Modification and Amendment of Other Acts (THE HIGHER EDUCATION ACT)
 
-- Property that was transferred to the right to manage by the Ministry on 1 st of January 1999 as per subsection 5 as well as inherent property of the public higher education institution is not subject to general regulations on bankruptcy and compensation. 13)
+- Property that was transferred to the right to manage by the Ministry on 1st of January 1999 as per subsection 5 as well as inherent property of the public higher education institution is not subject to general regulations on bankruptcy and compensation. 13)
 
 - Rights and liabilities of the faculties that constitute a part of higher education institutions listed in Appendix 1 and Appendix 2 as of first of January 1999 are transferred onto the pertinent higher education institution.
 
 ##### Article 102
 
-Academic degrees, professional designation and other degrees awarded to graduates of higher education institutions as per former regulations with the exceptions listed in Article 99 remain intact. Scientific degrees 'kandidát v ě d' (i.e. 'Candidate of Science', abbreviated as 'CSc.') and 'doktor v ě d' (i.e. 'Doctor of Science', abbreviated as 'DrSc.') awarded as per former regulations remain intact.
+Academic degrees, professional designation and other degrees awarded to graduates of higher education institutions as per former regulations with the exceptions listed in Article 99 remain intact. Scientific degrees 'kandidát věd' (i.e. 'Candidate of Science', abbreviated as 'CSc.') and 'doktor věd' (i.e. 'Doctor of Science', abbreviated as 'DrSc.') awarded as per former regulations remain intact.
 
 ##### Article 103
 
@@ -2340,7 +2362,7 @@ Provisions  of  this  Act  shall  be  used  if  not  otherwise  stipulated  in  
 
 ##### Article 107
 
-Public higher education institutions shall put property relations in compliance with this Act by 31 st of December 1999.
+Public higher education institutions shall put property relations in compliance with this Act by 31st of December 1999.
 
 ##### Article 108
 
@@ -2388,11 +2410,11 @@ Public higher education institutions shall put property relations in compliance 
 
 - The Decree of the Ministry of Education, Youth and Sports of the Czech Republic No. 67/1991 on granting scholarships to students in postgraduate programmes, in the wording of the Decree of the Ministry of Education, Youth and Sports No. 110/1995.
 
-- The Directive of the Ministry of Education of the Czech Socialistic Republic on providing economic security to students of higher education institutions during their practical training, dated 30 th of May 1969 ref. no. 19 261/69-III/5, registered in figure 30/1969, in the wording of the Directive of the Ministry of Education of the Czech Socialistic Republic dated 10 th of March 1970, ref. no. 12 300/70-III/5, registered in figure 10/1970.
+- The Directive of the Ministry of Education of the Czech Socialistic Republic on providing economic security to students of higher education institutions during their practical training, dated 30th of May 1969 ref. no. 19 261/69-III/5, registered in figure 30/1969, in the wording of the Directive of the Ministry of Education of the Czech Socialistic Republic dated 10th of March 1970, ref. no. 12 300/70-III/5, registered in figure 10/1970.
 
-- The Directive of the Ministry of Education of the Czech Socialistic Republic on accommodating students in the halls of residence, dated 20 th of July 1982, ref. no. 20 797/82-34, registered in the figure 17/1982.
+- The Directive of the Ministry of Education of the Czech Socialistic Republic on accommodating students in the halls of residence, dated 20th of July 1982, ref. no. 20 797/82-34, registered in the figure 17/1982.
 
-- The Directive of the Ministry of Education of the Czech Socialistic Republic on establishing,  dissolving,  and  operating  students'  canteens  and  cafeterias  at  higher education institutions, dated 20 th of July 1982 ref. no. 20 798/82-34, registered in the figure 17/1982, in the wording of the directives of the Ministry of Education of the
+- The Directive of the Ministry of Education of the Czech Socialistic Republic on establishing, dissolving, and operating students' canteens and cafeterias at higher education institutions, dated 20th of July 1982 ref. no. 20 798/82-34, registered in the figure 17/1982, in the wording of the directives of the Ministry of Education of the
 
 [[END OF PAGE 62]]
 
@@ -2402,7 +2424,7 @@ Act No. 111/1998 on Higher Education Institutions and on Modification and Amendm
 
 63
 
-Czech Socialistic Republic dated 16 th of July 1985 ref. no. 15 330/85-34 registered in the figure 19/1985.
+Czech Socialistic Republic dated 16th of July 1985 ref. no. 15 330/85-34 registered in the figure 19/1985.
 
 (3) The following items are made void:
 
@@ -2420,7 +2442,7 @@ Czech Socialistic Republic dated 16 th of July 1985 ref. no. 15 330/85-34 regist
 
 ###### Effectiveness
 
-This Act comes into effect on 1 st of July 1998, with the exception of Articles 1 through 82, Articles 84 through 99, Articles 101 through 107 and Article 108, subsection 2, that come into effect on 1 st of January 1999, and Article 108, subsection 3, that comes into effect on 31 st of December 2001.
+This Act comes into effect on 1st of July 1998, with the exception of Articles 1 through 82, Articles 84 through 99, Articles 101 through 107 and Article 108, subsection 2, that come into effect on 1st of January 1999, and Article 108, subsection 3, that comes into effect on 31st of December 2001.
 
 [[END OF PAGE 63]]
 
@@ -2430,6 +2452,53 @@ This Act comes into effect on 1 st of July 1998, with the exception of Articles 
 
 ## Appendix No. 1 to the Act No. 111/1998
 
+### Higher education institutions in the Czech Republic
+
+Charles University in Prague
+Univerzita Karlova v Praze
+
+Palacký University in Olomouc
+Univerzita Palackého v Olomouci
+
+Czech Technical University in Prague
+České vysoké učení technické v Praze
+
+VŠB – Technical University of Ostrava
+Vysoká škola báňská – Technická univerzita Ostrava
+
+Academy of Fine Arts in Prague
+Akademie výtvarných umění v Praze
+
+Technical University in Brno
+Vysoké učení technické v Brně
+
+University of Veterinary and Pharmaceutical Sciences Brno
+Veterinární a farmaceutická univerzita Brno
+
+Masaryk University in Brno
+Masarykova univerzita v Brně
+
+Mendel University of Agriculture and Forestry in Brno
+Mendelova zemědělská a lesnická univerzita v Brně
+
+Academy of Performing Arts in Prague
+Akademie múzických umění v Praze
+
+Academy of Arts, Architecture and Design in Prague
+Vysoká škola umělecko-průmyslová v Praze
+
+Janáček Academy of Music and Dramatic Arts in Brno
+Janáčkova akademie múzických umění v Brně
+
+University of Pardubice
+Univerzita Pardubice
+
+Institute of Chemical Technology in Prague
+Vysoká škola chemicko-technologická v Praze
+
+Czech University of Agriculture in Prague
+Česká zemědělská univerzita v Praze
+
 [[END OF PAGE 64]]
 
 [[START OF PAGE 65]]
@@ -2437,6 +2506,30 @@ This Act comes into effect on 1 st of July 1998, with the exception of Articles 
 Act No. 111/1998 on Higher Education Institutions and on Modification and Amendment of Other Acts (THE HIGHER EDUCATION ACT)
 
 65
+
+Technical University in Liberec
+Technická univerzita v Liberci
+
+University of Economics in Prague
+Vysoká škola ekonomická v Praze
+
+University of Education in Hradec Králové
+Vysoká škola pedagogická v Hradci Králové
+
+University of South Bohemia in České Budějovice
+Jihočeská univerzita v Českých Budějovicích
+
+Ostrava University in Ostrava
+Ostravská univerzita v Ostravě
+
+Silesian University in Opava
+Slezská Univerzita v Opavě
+
+Jan Evangelista Purkyně University in Ústí nad Labem
+Univerzita Jana Evangelisty Purkyně v Ústí nad Labem
+
+University of West Bohemia in Pilsen
+Západočeská Univerzita v Plzni
 
 [[END OF PAGE 65]]
 
@@ -2448,14 +2541,18 @@ Act No. 111/1998 on Higher Education Institutions and on Modification and Amendm
 
 ### Military Higher Education Institutions in the Czech Republic:
 
-Military University of Ground Forces in Vyškov Vysoká vojenská škola pozemního vojska ve Vyškov ě
+Military University of Ground Forces in Vyškov
+Vysoká vojenská škola pozemního vojska ve Vyškově
 
-Military Academy in Brno Vojenská akademie v Brn ě
+Military Academy in Brno
+Vojenská akademie v Brně
 
-Jan Evangelista Purkyn ě Military Medicine Academy in Hradec Králové Vojenská léka ř ská akademie Jana Evangelisty Purkyn ě v Hradci Králové
+Jan Evangelista Purkyně Military Medicine Academy in Hradec Králové
+Vojenská lékařská akademie Jana Evangelisty Purkyně v Hradci Králové
 
 ### Police Higher Education Institutions in the Czech Republic:
 
-Police Academy of the Czech Republic in Prague Policejní akademie Č eské republiky v Praze
+Police Academy of the Czech Republic in Prague
+Policejní akademie České republiky v Praze
 
 [[END OF PAGE 66]]
