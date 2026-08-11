@@ -1,8 +1,11 @@
 [[START OF PAGE 1]]
 
-`
+
 
 # NATIONAL TECHNICAL & VOCATIONAL EDUCATION & TRAINING (TVET) STRATEGY
+
+engineering capacity building program
+ecbp
 
 Ministry of Education August 2008
 
@@ -12,7 +15,7 @@ Ministry of Education August 2008
 
 National Technical & Vocational Education and Training Strategy
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 2 of 52
 
@@ -26,7 +29,7 @@ National Technical & Vocational Education and Training Strategy
 
 Technical and Vocational Education and Training (TVET) in Ethiopia seeks to create competent  and  self-reliant citizens to contribute to the economic  and  social development  of  the  country,  thus  improving  the  livelihoods  of  all  Ethiopians  and sustainably reducing poverty.
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 3 of 52
 
@@ -38,7 +41,30 @@ National Technical & Vocational Education and Training Strategy
 
 ## Content
 
-22 August 2008 /  2 nd Edition
+1. INTRODUCTION ........................................................................................................................ 7
+1.1. The Context ........................................................................................................................................ 7
+1.2. The Policy Framework ........................................................................................................................ 8
+1.3. Current State of TVET Development ................................................................................................... 9
+2. OBJECTIVES OF THE NATIONAL TVET STRATEGY ..................................................... 12
+3. GUIDING PRINCIPLES OF THE NATIONAL TVET SYSTEM ........................................ 13
+4. CONCEPTUAL PRINCIPLES OF THE TVET SYSTEM ..................................................... 15
+4.1. Making TVET Institutions Centers of Technology Capability Accumulation & Transfer ..................... 15
+4.2. Aiming at a Comprehensive and Integrated TVET System ................................................................. 16
+4.3. Stakeholders’ Involvement ............................................................................................................... 18
+4.4. Public Private Partnership ................................................................................................................ 19
+4.5. Outcome-Based Approach ................................................................................................................ 21
+4.6. Decentralization ............................................................................................................................... 22
+4.7. Efficiency in the TVET System ........................................................................................................... 23
+5. INSTITUTION BUILDING FOR OUTCOME-BASED TVET ............................................ 24
+5.1. Preparation of Occupational Standards ............................................................................................ 26
+5.2. Occupational Assessment and Certification ...................................................................................... 27
+5.3. TVET Qualifications Framework ........................................................................................................ 28
+6. DEVELOPING FLEXIBLE TVET DELIVERY ...................................................................... 29
+6.1. Modularization as a Principle of TVET-Delivery ................................................................................ 29
+6.2. Cooperative TVET Delivery and Apprenticeship Training .................................................................. 30
+6.3. TVET for Self-Employment ................................................................................................................ 31
+
+22 August 2008 / 2nd Edition
 
 Page 4 of 52
 
@@ -48,7 +74,28 @@ Page 4 of 52
 
 National Technical & Vocational Education and Training Strategy
 
-22 August 2008 /  2 nd Edition
+6.4. Introducing ICT to the TVET System .................................................................................................. 32
+6.5. Vocational Guidance and Counselling ............................................................................................... 33
+7. BUILDING CAPACITIES IN TVET INSTITUTIONS ......................................................... 33
+7.1. Strengthening Public TVET Institutions ............................................................................................. 33
+7.2. Strengthening Private TVET Institutions ........................................................................................... 34
+7.3. Curriculum Development and Preparation of Training, Teaching and Learning Materials ................ 35
+8. ACCREDITATION OF TVET INSTITUTIONS ................................................................... 36
+9. HUMAN RESOURCE DEVELOPMENT FOR TVET STAFF ............................................. 37
+9.1. Initial and Further Training of TVET Teachers and Instructors ........................................................... 37
+9.2. Human Resource Development for TVET Management .................................................................... 39
+9.3. Creating Conducive Work Environment for TVET Staff ...................................................................... 40
+10. FINANCING OF TVET ........................................................................................................ 40
+11. TVET RESEARCH, MONITORING AND EVALUATION ............................................. 42
+11.1. Building Research Capacities ............................................................................................................ 42
+11.2. Labour Market Monitoring and -Forecasting .................................................................................... 43
+11.3. Management Information System .................................................................................................... 44
+11.4. Monitoring and Evaluation of TVET .................................................................................................. 44
+12. GOVERNANCE AND MANAGEMENT OF THE TVET SYSTEM ................................ 45
+13. AWARENESS CREATION ABOUT TVET....................................................................... 50
+14. MANAGING INTERNATIONAL COOPERATION ......................................................... 51
+
+22 August 2008 / 2nd Edition
 
 Page 5 of 52
 
@@ -74,7 +121,7 @@ ReMSEDA | Regional Medium and Small Enterprise Development Agency
 TMIS | TVET Management Information System
 TVET | Technical and Vocational Education and Training
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 6 of 52
 
@@ -94,9 +141,9 @@ National Technical & Vocational Education and Training Strategy
 
 1.1.1  Ethiopia  is  among the  poorest  countries  in  the  world.  Some 31 million  of her people live below the defined poverty line of 45 US cents per day, and some million people  are  at  risk  of  starvation  each  year.  Although  encouraging  achievements  in improving basic aspects of life were recorded in recent years, human development indicators  still  remain  at  very  low  levels  compared  with  the  rest  of  the  world. Ethiopia's  population  is  growing  by  around  2  million  people  annually,  putting tremendous strains on the country's resource base, the ability to deliver services and the  labour  market.  The  Plan  for  Accelerated  and  Sustained  Development  to  End Poverty  (PASDEP),  Ethiopia's  second  poverty  reduction  strategy  paper,  estimates that  the  country  has  to  raise  its  average  economic  growth  rate  to  8%  annually  in order to achieve the Millennium Development Goals.
 
-1.1.2 Ethiopia is predominantly an agrarian economy. Levels of urbanization are very low  compared  to  international  standards.  85%  of  the  population,  and  90%  of  the poor,  live  in  rural  areas,  most  of  them  exclusively  engaged  in  agriculture.  Despite some achievements in recent years, employment creation in modern industrial and service sectors has been hampered by the slow pace of private sector development. The manufacturing sector continues to  be based narrowly on food, beverages  and textiles, which together account for more than half of the manufacturing output. Out of  the  registered  small  and  medium  sized  enterprises,  for  example,  85%  are  grain mills. Most of the registered large and medium sized enterprises in the manufacturing sector (about 800 of them) are concentrated in Addis Ababa. Although the proportion has  increased,  only  27%  of  large-scale  manufacturing  industries  in  2002/3  were privately owned.
+1.1.2 Ethiopia is predominantly an agrarian economy. Levels of urbanization are very low compared to international standards. 85% of the population, and 90% of the poor, live in rural areas, most of them exclusively engaged in agriculture. Despite some achievements in recent years, employment creation in modern industrial and service sectors has been hampered by the slow pace of private sector development. The manufacturing sector continues to be based narrowly on food, beverages and textiles, which together account for more than half of the manufacturing output. Out of the registered small and medium sized enterprises, for example, 85% are grain mills. Most of the registered large and medium sized enterprises in the manufacturing sector (about 800 of them) are concentrated in Addis Ababa. Although the proportion
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 7 of 52
 
@@ -106,6 +153,8 @@ Page 7 of 52
 
 National Technical & Vocational Education and Training Strategy
 
+has increased, only 27% of large-scale manufacturing industries in 2002/3 were privately owned.
+
 1.1.3 Around 35 million people of the Ethiopian work force are characterized by low skill  levels  and  very  low  average  educational  attainment.  Only  10%  of  the  urban population  has  post-secondary  school  education.  As  a  consequence,  75%  of  the workforce  is  concentrated  in  low  skill  employment  sectors  such  as  commerce, services  and  elementary  occupations.  Less  than  half  of  the  urban  workforce  is engaged in wage employment. A significant portion of the urban workforce works for unpaid family business. More than 40% are self-employed in the informal economy, most of which live on the edge of poverty.
 
 1.1.4  Unemployment  and  underemployment  is  a  pervasive  problem  due  to  the absence of a dynamic private sector. In rural areas, underemployment is widespread. In urban areas, about 26% of the workforce is officially unemployed, a figure believed to  underestimate  the  real  situation.  Of  particular  concern  is  that  unemployment among the youth is significantly higher than the rest of the workforce. Recent studies have  also  shown  substantial  skill  gaps  throughout  the  economy,  especially  in economic sectors with a higher skill level and outside of Addis Ababa.
@@ -114,9 +163,9 @@ National Technical & Vocational Education and Training Strategy
 
 1.2.1  With  the  Plan  for  Accelerated  and  Sustained  Development  to  End  Poverty (PASDEP),  the  Industrial  Development  Strategy  and  other  sector  development strategies,  the  Ethiopian  Government  has  initiated  a  new  push  towards  creating frameworks conducive to economic and social development. Comprehensive capacity building and human capital formation are key pillars in all these efforts. As such,  this  National  TVET  Strategy  is  an  important  element  of  the  overall  policy framework towards development and poverty reduction.
 
-1.2.2  The  PASDEP's  main  thrust  is  to  fight  poverty  through  accelerated  economic growth,  to  be  achieved  mainly  through  commercialization  of  agriculture  as  well  as economic  growth  and  employment  creation  through  private  sector  development. TVET is expected to play a key role in this strategy by building the required motivated and  competent  workforce.  PASDEP  envisages  TVET  to  provide  the  necessary 'relevant and demand-driven education and training that corresponds to the needs of economic  and  social  sectors  for  employment  and  self-employment'.  The  Strategy further stresses the need for an increasing role and involvement of the private sector and  non-governmental  organisations,  as  well  as  community  involvement,  in  the delivery  of  educational  services.  In  order  to  avoid  the  mismatch  of  the  available resources  with  increasing  demands,  measures  for  improving  efficiency  and  costeffectiveness are called for.
+1.2.2 The PASDEP’s main thrust is to fight poverty through accelerated economic growth, to be achieved mainly through commercialization of agriculture as well as economic growth and employment creation through private sector development. TVET is expected to play a key role in this strategy by building the required motivated and competent workforce. PASDEP envisages TVET to provide the necessary “relevant and demand-driven education and training that corresponds to the needs of economic and social sectors for employment and self-employment”. The Strategy further stresses the need for an increasing role and involvement of the private sector and non-governmental organisations, as well as community involvement, in the delivery of educational services. In order to avoid the mismatch of the available resources with increasing demands, measures for improving efficiency and cost-effectiveness are called for.
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 8 of 52
 
@@ -126,15 +175,15 @@ Page 8 of 52
 
 National Technical & Vocational Education and Training Strategy
 
-1.2.3 The Industrial Development Strategy of 2003 highlights the tremendous human resource  deficits  in  Ethiopia  being  a  major  reason  for  the  low  state  of  industrial development.  According to the Strategy 'we do not as yet have an educational and a training system that is capable of producing the manpower that is both professionally and ethically capable of carrying and sustaining the responsibility of seeing to it that our industrial  development program will  have achieved its goals'.  It therefore, calls for efforts to raise the quality of the Ethiopian workforce to international standards, to reverse  the  previous  marginalization  of  industrial  professions  in  the  TVET  system, and to put a substantial focus on building a culture of entrepreneurship and preparing people for self-employment.
+1.2.3 The Industrial Development Strategy of 2003 highlights the tremendous human resource deficits in Ethiopia being a major reason for the low state of industrial development. According to the Strategy “we do not as yet have an educational and a training system that is capable of producing the manpower that is both professionally and ethically capable of carrying and sustaining the responsibility of seeing to it that our industrial development program will have achieved its goals”. It therefore, calls for efforts to raise the quality of the Ethiopian workforce to international standards, to reverse the previous marginalization of industrial professions in the TVET system, and to put a substantial focus on building a culture of entrepreneurship and preparing people for self-employment.
 
 1.2.4 The Education Sector Strategy Programme (ESDP) III outlines a comprehensive development vision for the TVET sector. Based on the analysis that TVET  graduates  are  currently  not  meeting  the  expectations  and  demands  of economic sectors, the strategy paper advocates a coherent system including formal and  non-formal,  initial  and  further  training,  with  open  access  to  certification  and pathways  with  the  general  and  higher  education  system.  ESDP  III  has  therefore allocated  a  total  of  3,000  million  ETB  to  TVET  over  a  five-year  period  in  order  to further  increase  enrolment  rates,  strengthen  quality  assurance,  improve  teaching methods, invest in physical infrastructure, equipment, training materials, libraries and ICT  facilities,  build  centres  of  excellence  and  assessment  centres,  curricula  and training material improvements, and other investments. People in rural areas, both in agricultural and non-agricultural sectors, are to receive special attention. Measures to ensure financial sustainability, to improve management in training institutions and to involve industry  in  planning,  management and delivery  of TVET are envisaged. As such,  the  ESDP  III  touches  upon  important  pillars  for  the  further  development  of TVET in Ethiopia.
 
 ### 1.3. Current State of TVET Development
 
-1.3.1  Traditionally,  Technical  and  Vocational  Education  and  Training  (TVET)  has been fragmented and delivered by different providers at various qualification levels. Public TVET institutions under the education sector were concentrating on producing middle level technical graduates at post Grade 10 level. In parallel with this, public and private companies have had their own TVET programmes, as have NGOs and private TVET  providers. Meanwhile, in non-formal  TVET  programmes,  public institutions, NGOs, and private schools offer employment-oriented TVET programmes to various target groups, including school leavers, people in employment, school drop outs and marginalized groups in the labour market. Unlike formal TVET, these programmes are not yet systematically delivered. Informal (onthe-job) training is widespread, but due to the absence of a systematic assessment and  certification  system  there  are  currently  no  mechanisms  to  recognize  informal occupational learning. Traditional apprenticeships in the small and micro enterprise sector constitute another presumably important, yet entirely un-researched, training environment. Public and private training schemes planned to produce administrative and health personnel to the market in sufficient quantity. Agriculture  TVET programmes,  which  have  been  massively  expanded  during  recent  years,  are disconnected structurally with non-agriculture TVET programmes.
+1.3.1 Traditionally, Technical and Vocational Education and Training (TVET) has been fragmented and delivered by different providers at various qualification levels. Public TVET institutions under the education sector were concentrating on producing middle level technical graduates at post Grade 10 level. In parallel with this, public and private companies have had their own TVET programmes, as have NGOs and private TVET providers. Meanwhile, in non-formal TVET programmes, public institutions, NGOs, and private schools offer employment-oriented TVET programmes to various target groups, including school leavers, people in employment, school drop outs and marginalized groups in the labour market. Unlike formal TVET, these programmes are not yet systematically delivered. Informal (on-
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 9 of 52
 
@@ -144,13 +193,15 @@ Page 9 of 52
 
 National Technical & Vocational Education and Training Strategy
 
-1.3.2  In  order  to  provide  options  for  the  increasing  number  of  school  leavers,  the Government embarked upon a massive expansion of formal TVET some years ago. Between 1996/7 and 2004/5, the number of TVET institutions providing formal nonagriculture TVET increased from 17 to 199, and enrolment from 3,000 to 106,305. Of these, 31% were trained in non-government TVET institutions. Around 60% of formal TVET is provided in the form of regular programmes and 40% in evening classes. However, despite the enormous expansion, formal TVET only caters for less than 3% of the relevant age group. Enrolment figures in formal TVET programmes show a fair gender balance  with  51% female students. However,  girls  are  over  proportionately represented  in  commerce  and  typical  female  occupations  such  as  textiles  and hospitality,  and  underrepresented  in  traditional  technical  occupations.  In  2004/05, another  42,000  trainees  were  enrolled  in  agriculture  TVET  programmes  and  some 10,000 in teacher training institutes and colleges.
+the-job) training is widespread, but due to the absence of a systematic assessment and certification system there are currently no mechanisms to recognize informal occupational learning. Traditional apprenticeships in the small and micro enterprise sector constitute another presumably important, yet entirely un-researched, training environment. Public and private training schemes planned to produce administrative and health personnel to the market in sufficient quantity. Agriculture TVET programmes, which have been massively expanded during recent years, are disconnected structurally with non-agriculture TVET programmes.
 
-1.3.3  Overall  it  is  unknown  how  many  Ethiopians  in  total  have  access  to  relevant TVET  (including  formal,  non-  and  informal  TVET).  It  is  assumed,  however,  that demand by far exceeds the current supply and that the majority of the population is not reached by TVET offers at the moment. In particular, TVET accessible to schooldrop  outs,  unemployed,  workers  in  industry  and  the  MSE  sector,  prospective entrepreneurs, people living in rural areas and women is in very short supply.
+1.3.2 In order to provide options for the increasing number of school leavers, the Government embarked upon a massive expansion of formal TVET some years ago. Between 1996/7 and 2004/5, the number of TVET institutions providing formal non-agriculture TVET increased from 17 to 199, and enrolment from 3,000 to 106,305. Of these, 31% were trained in non-government TVET institutions. Around 60% of formal TVET is provided in the form of regular programmes and 40% in evening classes. However, despite the enormous expansion, formal TVET only caters for less than 3% of the relevant age group. Enrolment figures in formal TVET programmes show a fair gender balance with 51% female students. However, girls are over proportionately represented in commerce and typical female occupations such as textiles and hospitality, and underrepresented in traditional technical occupations. In 2004/05, another 42,000 trainees were enrolled in agriculture TVET programmes and some 10,000 in teacher training institutes and colleges.
+
+1.3.3 Overall it is unknown how many Ethiopians in total have access to relevant TVET (including formal, non- and informal TVET). It is assumed, however, that demand by far exceeds the current supply and that the majority of the population is not reached by TVET offers at the moment. In particular, TVET accessible to school-drop outs, unemployed, workers in industry and the MSE sector, prospective entrepreneurs, people living in rural areas and women is in very short supply.
 
 1.3.4  Since  late  1990s,  the  government  has  committed  itself  to  overhauling  and reforming  the  basic  framework  conditions  of  the  TVET  system.  This  measure recognized  the  fact  that  while  the  country  was  in  dire  need  of  craftsperson  and technician, training programmes lacked relevance to the workplace reality. Nevertheless, this reform process was slow and limited by the fact that all efforts and resources  were  directed  towards  the  massive  quantitative  expansion  of  the  public TVET  supply.  As  a  consequence,  the  programmes,  by-and-large,  do  not  address actual competence needs in the economy, with most programmes of low quality and theory-driven  due  to  resource  constraints  and  lack  of  skilled  TVET  teachers.  A systematic  integration  of  TVET  with  the  world  of  work  has  not  yet  been  achieved.
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 10 of 52
 
@@ -168,9 +219,9 @@ Most  curricula  used  in  formal  TVET  were  not  developed  based  on  occupa
 
 1.3.7 The shortage of a sufficient corps of TVET teachers/instructors represents one of the obstacles to TVET development in Ethiopia. The quality of TVET teachers/instructors has suffered as a result of the low reputation of their profession. Most  TVET  teachers/instructors  have  relatively  low  formal  qualifications,  severely affecting TVET  delivery at higher qualification levels. Furthermore, technical teachers,  more  often  than  not,  have  been  unmotivated.  They  did  not  choose  to become technical teachers, but  were placed in technical teacher colleges because there were no other options available to them. Finally, existing TVET teachers/instructors are (mostly) inappropriately practically skilled, i.e. not competent to provide TVET in accordance with the occupational standards. This is a result of a training  system  that  long  emphasised  theoretical  knowledge  (though  often  not aligned  with  modern  technology  requirements),  disregarding  the  importance  of practical skills and appreciation of the world of work.
 
-1.3.8 Finally, under-funding is a structural problem in the TVET sector, particularly in the public system. Costs of TVET will remain high, if it is to be provided as centrebased training, which is still the predominant mode of TVET delivery in Ethiopia. As with  most  other  countries,  public  TVET  programmes  in  Ethiopia  are  usually  more expensive than general education, requiring lower than average teacher/student ratio and substantial capital and recurrent expenses incurred through practical training. As a consequence of budgetary constraints, most urban public TVET programmes are under-funded while rural public TVET programmes suffered from poor facilities and shortages of training materials.
+1.3.8 Finally, under-funding is a structural problem in the TVET sector, particularly in the public system. Costs of TVET will remain high, if it is to be provided as centre-based training, which is still the predominant mode of TVET delivery in Ethiopia. As with most other countries, public TVET programmes in Ethiopia are usually more expensive than general education, requiring lower than average teacher/student ratio and substantial capital and recurrent expenses incurred through practical training. As a consequence of budgetary constraints, most urban public TVET programmes are under-funded while rural public TVET programmes suffered from poor facilities and shortages of training materials.
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 11 of 52
 
@@ -190,15 +241,15 @@ National Technical & Vocational Education and Training Strategy
 
 2.0.2 Specifically, the National TVET Strategy aims to:
 
-- head2right Create  and  further  develop  a  comprehensive,  integrated,  outcome-based  and decentralized TVET system for Ethiopia
+- Create and further develop a comprehensive, integrated, outcome-based and decentralized TVET system for Ethiopia
 
-- head2right Strengthen  TVET  institutions  in  view  of  making  them  Centres  for  Technology Capability, Accumulation & Transfer
+- Strengthen TVET institutions in view of making them Centres for Technology Capability, Accumulation & Transfer
 
-- head2right Create a coherent framework for all actors and stakeholders in the TVET system
+- Create a coherent framework for all actors and stakeholders in the TVET system
 
-- head2right Establish  and  capacitate  the  necessary  institutional  set-up  to  manage  and implement TVET in ensuring quality management system (QMS)
+- Establish and capacitate the necessary institutional set-up to manage and implement TVET in ensuring quality management system (QMS)
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 12 of 52
 
@@ -208,21 +259,21 @@ Page 12 of 52
 
 National Technical & Vocational Education and Training Strategy
 
-- head2right Improve  the  quality  of  TVET  (formal  and  non-formal)  at  all  levels  and  make  it responsive to the needs of the labour market
+- Improve the quality of TVET (formal and non-formal) at all levels and make it responsive to the needs of the labour market
 
-- head2right Facilitate  the  expansion  of  relevant  TVET  offers  which  are  crucial  to  national development
+- Facilitate the expansion of relevant TVET offers which are crucial to national development
 
-- head2right Strengthen the private training provision and encourage enterprises to participate in the TVET system
+- Strengthen the private training provision and encourage enterprises to participate in the TVET system
 
-- head2right Empower women and rural people through skills development
+- Empower women and rural people through skills development
 
-- head2right Ensure equal access of women and people with special needs to TVET
+- Ensure equal access of women and people with special needs to TVET
 
-- head2right Strengthen  the  culture  of  self-employment  and  support  job  creation  in  the economy, in particular in the emerging regions
+- Strengthen the culture of self-employment and support job creation in the economy, in particular in the emerging regions
 
-- head2right Develop a sustainable financing system for TVET with efficient and cost-effective delivery systems and management structures
+- Develop a sustainable financing system for TVET with efficient and cost-effective delivery systems and management structures
 
-- head2right Build  the  necessary  human  capacities  to  effectively  manage  and  implement TVET
+- Build the necessary human capacities to effectively manage and implement TVET
 
 ## 3. Guiding Principles of the National TVET System
 
@@ -230,13 +281,13 @@ National Technical & Vocational Education and Training Strategy
 
 ### Demand-orientation:
 
-All  TVET  in  Ethiopia  has  to  respond  to  the  competence  needs  and  qualification requirements in the labour market. TVET  is geared towards enhancing the competitiveness of all economic sectors through a competent workforce and towards improving  people's  employability  in  the  labour  market  and  with  regard  to  selfemployment.
+All TVET in Ethiopia has to respond to the competence needs and qualification requirements in the labour market. TVET is geared towards enhancing the competitiveness of all economic sectors through a competent workforce and towards improving people’s employability in the labour market and with regard to self-employment.
 
 ### Quality and Relevance:
 
 The TVET system strives for the highest quality and relevance of all TVET offers. It will  develop  effective  means  of  quality  management,  will  continuously  monitor  the relevance  of  TVET  programmes  and  will  provide  support  and  guidance  to  TVET institutions to achieve defined quality standards. An important mechanism for this will be  the  introduction  of  the  system  of  occupational  standards,  assessment  and certification.
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 13 of 52
 
@@ -266,7 +317,7 @@ The  TVET  system  will  provide  life-long  learning  opportunities  (including
 
 TVET will be gender-sensitive. All TVET opportunities will be equally accessible to female. TVET institutions  will  have to  develop  gender sensitive  policies  in  order  to ensure  that  they  are  not  discriminated  against  through  content  nor  organisation  of TVET programmes and to effectively prevent harassment of female trainees and staff members.
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 14 of 52
 
@@ -294,7 +345,7 @@ TVET  will  help  create  environmental  awareness  in  Ethiopia  and  will  edu
 
 4.1.3  TVET  institutions  having  accumulated  technology  capabilities,  and  using  this potential to promote technology transfer, contribute to the enhancement of productivity and the competitiveness of industries. TVET institutions are expected to revamp and supply services to the market to transfer the newly selected technologies.  Another  task  of  the  institutions  is  to  properly  utilize  their  respective resources  and  to  deliver  services  against  fees.  The  income  generated  from  such activities enables  to  create  further potential to increase  the  capability of the institutions.
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 15 of 52
 
@@ -314,11 +365,11 @@ National Technical & Vocational Education and Training Strategy
 
 4.2.3  Against  this  background,  the  TVET  system  shall  build  a  competent  and adaptable  workforce  according  to  the  needs  of  different  segments  of  the  labour market, in particular:
 
-- head2right The  rural  labour  market,  which  provides  economic  opportunities  for  the  vast majority of Ethiopians both in agriculture and non-agricultural activities. TVET will address the occupational requirements for improved agricultural production and tap the many unexploited off-farm opportunities in rural areas;
+- The rural labour market, which provides economic opportunities for the vast majority of Ethiopians both in agriculture and non-agricultural activities. TVET will address the occupational requirements for improved agricultural production and tap the many unexploited off-farm opportunities in rural areas;
 
-- head2right The  urban  and  semi-urban  micro  and  small  business  sector.  TVET  is  geared towards  enhancing  productivity  in  the  MSE  sector,  improving  the  quality  of
+- The urban and semi-urban micro and small business sector. TVET is geared towards enhancing productivity in the MSE sector, improving the quality of
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 16 of 52
 
@@ -330,29 +381,29 @@ National Technical & Vocational Education and Training Strategy
 
 products and services and supporting start-up businesses by providing training and serving as centres for technology transfer;
 
-- head2right In  the mainly urban formal sector comprising both public and private enterprises, TVET  will  address  competence  needs  in  existing  companies  and  provide  an adequately competent workforce necessary to attract new investments;
+- In the mainly urban formal sector comprising both public and private enterprises, TVET will address competence needs in existing companies and provide an adequately competent workforce necessary to attract new investments;
 
-- head2right In  the  Civil  Service,  which  urgently  needs  improved  quality  of  public  service delivery; TVET will provide special attention in this regard.
+- In the Civil Service, which urgently needs improved quality of public service delivery; TVET will provide special attention in this regard.
 
 4.2.4 The TVET system aims to provide more TVET opportunities to a wider range of different  target  groups  than  previously.  In  addition  to  school  leavers,  the  TVET system will therefore address:
 
-- head2right School drop-outs;
+- School drop-outs;
 
-- head2right People without formal education, including illiterate people;
+- People without formal education, including illiterate people;
 
-- head2right Entrepreneurs  and  employees  (including  formal  and  informal  apprentices)  in both formal and informal enterprises who require skills upgrading and access to recognised qualifications;
+- Entrepreneurs and employees (including formal and informal apprentices) in both formal and informal enterprises who require skills upgrading and access to recognised qualifications;
 
-- head2right Farmers and their families;
+- Farmers and their families;
 
-- head2right Unemployed  people  who  need  initial  TVET  or  retraining  to  support  their  reintegration into the labour market;
+- Unemployed people who need initial TVET or retraining to support their re-integration into the labour market;
 
-- head2right People  with  special  constraints  to  properly  engage  in  economic  participation, such as single mothers, people with disabilities, people from marginalized ethnic groups and other groups that have been marginalised in the labour market.
+- People with special constraints to properly engage in economic participation, such as single mothers, people with disabilities, people from marginalized ethnic groups and other groups that have been marginalised in the labour market.
 
 4.2.5  Particular  emphasis  will  be  given  to  encourage  girls  and  women  from  all Regions, to participate in social and educational activities to develop their occupational  competences which will bring about their social and economic empowerment.
 
-4.2.6 The needs of different target groups will be addressed through different forms of  TVET  or  learning  environments,  taking  into  consideration  their  aptitudes  and personal ambitions, specific competence needs and other specific requirements. The TVET system will therefore provide flexibility in the organisation and delivery of TVET programmes and will support the emergence and development of innovative modes of TVET  delivery. Through its mechanisms -such as the outcome-based organisation of the TVET system, allocation of resources and provision of support, modular training organisation, access to occupational assessment  leading to recognized  qualifications,  and  coordination  mechanisms  -  the  TVET  system  will integrate  different  formal,  non-formal  and  in-formal  aspects  of  TVET  into  a  single coordinated system that accords equal attention to trainees' development. Specifically, the TVET system will assist formal and non-formal initial TVET schemes (both TVET institution-based and cooperative), all short-term TVET, skills upgrading schemes  in  and  by  enterprises,  traditional  apprenticeships  provided  by  skilled crafts(wo)men, and informal learning such as learning on-the-job and self-organized activities.
+4.2.6 The needs of different target groups will be addressed through different forms of TVET or learning environments, taking into consideration their aptitudes and personal ambitions, specific competence needs and other specific requirements. The TVET system will therefore provide flexibility in the organisation and delivery of TVET programmes and will support the emergence and development of innovative modes of TVET delivery. Through its mechanisms – such as the outcome-based organisation of the TVET system, allocation of resources and provision of support,
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 17 of 52
 
@@ -362,6 +413,8 @@ Page 17 of 52
 
 National Technical & Vocational Education and Training Strategy
 
+modular training organisation, access to occupational assessment leading to recognized qualifications, and coordination mechanisms – the TVET system will integrate different formal, non-formal and in-formal aspects of TVET into a single coordinated system that accords equal attention to trainees’ development. Specifically, the TVET system will assist formal and non-formal initial TVET schemes (both TVET institution-based and cooperative), all short-term TVET, skills upgrading schemes in and by enterprises, traditional apprenticeships provided by skilled crafts(wo)men, and informal learning such as learning on-the-job and self-organized activities.
+
 4.2.7  This  means  that  the  TVET  authorities  will  not  only  cooperate  with  and concentrate  on  formal  TVET  institutions.  On  the  contrary,  they  will  strengthen  all public and non-public TVET institutions, providing both formal and non-formal TVET. Particular emphasis will be given to promoting and strengthening TVET provided by companies. To this end, incentives will be given for cooperative TVET (apprenticeship training), and special programmes of assistance will be designed to assist skilled crafts(wo)men during their training in the MSE sector.
 
 ### 4.3. Stakeholders' Involvement
@@ -370,15 +423,15 @@ National Technical & Vocational Education and Training Strategy
 
 4.3.2  Specifically  stakeholders  are  needed  to  play  a  major  role  in  the  following functions of the TVET system:
 
-- head2right Policy  development  and  policy  drafting  and  reviewing  through  participation  in relevant bodies and panels;
+- Policy development and policy drafting and reviewing through participation in relevant bodies and panels;
 
-- head2right Financing through contributing resources to the TVET system;
+- Financing through contributing resources to the TVET system;
 
-- head2right Quality  assurance  through  active  involvement  in  the  setting  of  occupational standards and conducting occupational assessment;
+- Quality assurance through active involvement in the setting of occupational standards and conducting occupational assessment;
 
-- head2right TVET  delivery  through  the  provision  of  training  to  their  own  staff,  offering internships to trainees and providing apprenticeship training;
+- TVET delivery through the provision of training to their own staff, offering internships to trainees and providing apprenticeship training;
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 18 of 52
 
@@ -388,7 +441,7 @@ Page 18 of 52
 
 National Technical & Vocational Education and Training Strategy
 
-- head2right Monitoring and evaluation through participation in TVET councils at federal and state  levels  and  taking  over  key  roles  on  the  Management  Boards  of  TVET institutions.
+- Monitoring and evaluation through participation in TVET councils at federal and state levels and taking over key roles on the Management Boards of TVET institutions.
 
 4.3.3  The  interest  of  different  stakeholders  may  change  over  time  as  the  national economy and society develop and specific demands on the TVET system change. At the  moment,  the  most  important  stakeholders  include  employers,  both  private  and public; the business sector; representatives from the MSE  sectors (possibly represented through their trade  associations);  workers and  employees  represented by  trade  unions  and  professional  associations;  public  and  private  TVET  providers; Civil  Society  and  NGOs;  people  living  and  working  in  rural  areas  represented  by relevant  associations;  teachers/instructors  in  the  TVET  system;  trainees  and  their families;  and  public  authorities  in  charge  of  sectors  relevant  for  TVET,  notably education, capacity building, agriculture, trade and industry, labour and social affairs, health,  youth  and  sports  and  finance  and  these  will  be  members  of  the  TVET Council. These stakeholders may play different roles in each of the core functions of TVET and the nature of their involvement may vary over time as the TVET system unfolds.
 
@@ -396,11 +449,11 @@ National Technical & Vocational Education and Training Strategy
 
 ### 4.4. Public Private Partnership
 
-4.4.1  International  experiences  show  that  successful  TVET  systems  are  built  on strong and well-defined partnerships between government and the non-government sector. Both public and non-public actors are currently involved in TVET. This publicprivate partnership needs to be further strengthened and roles therein defined.
+4.4.1 International experiences show that successful TVET systems are built on strong and well-defined partnerships between government and the non-government sector. Both public and non-public actors are currently involved in TVET. This public-private partnership needs to be further strengthened and roles therein defined.
 
-4.4.2  In  the  TVET  system,  the  statutory  function  and  key  role  of  government comprises the regulation of the system through proclamations and regulations  and facilitation of the implementation of the regulated functions. In this sense, responsibilities vested in the government include policy and law making, implementation of a quality management system, i.e. regulation and implementation of the system of occupational standards, occupational assessment and certification, setting  the  qualifications  framework,  defining  rules  and  mechanisms  for  TVET financing  where  appropriate,  defining  and  implementing  accreditation  mechanisms for TVET providers as well as research and monitoring. In line with the principle of building a stakeholder-driven TVET system, federal, state and local governments will fulfil these functions by involving stakeholders and thereby establish fruitful partnership in the implementation of all these functions.
+4.4.2 In the TVET system, the statutory function and key role of government comprises the regulation of the system through proclamations and regulations and facilitation of the implementation of the regulated functions. In this sense, responsibilities vested in the government include policy and law making, implementation of a quality management system, i.e. regulation and implementation of the system of occupational standards, occupational assessment and certification, setting the qualifications framework, defining rules and mechanisms for TVET financing where appropriate, defining and implementing accreditation mechanisms
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 19 of 52
 
@@ -410,15 +463,17 @@ Page 19 of 52
 
 National Technical & Vocational Education and Training Strategy
 
+for TVET providers as well as research and monitoring. In line with the principle of building a stakeholder-driven TVET system, federal, state and local governments will fulfil these functions by involving stakeholders and thereby establish fruitful partnership in the implementation of all these functions.
+
 4.4.3 Concerning TVET delivery, the non-public sector needs to play a decisive role. It  already  contributes  significantly  through  in-company  TVET  schemes  and,  in particular,  through  wide-spread  traditional  apprenticeship  training  provided  in  the micro and small business sector. However, the quality of this TVET is often low and requires increased attention and support. In addition to these employer-based TVET schemes, non-government TVET institutions will  become  an increasingly  important pillar of the overall TVET supply.
 
-4.4.4 Private TVET is important in many respects. First of all, it has the opportunity to fully  utilize  the experiences and capacities of the private sector in order to improve the  quality  and  relevance  of  TVET;  secondly  by  increasing  resources  invested  in TVET, it will improve the overall TVET supply and hence accessibility of the system; and  finally,  by  partly  relieving  government  from  the  burden  of  TVET  delivery,  this would  enable  the  government  to  concentrate  its  resources  and  efforts  on  its regulatory  and  supportive  functions.  To  achieve  these  functions,  the  role  of  nonpublic TVET providers needs to be further strengthened. This applies to commercial and non-commercial TVET institutions, to private enterprises developing in-company TVET,  staff  training  schemes,  internships  and  cooperative  TVET  (apprenticeship) schemes as well as to TVET provided within the micro and small business sector, in particular traditional apprenticeship.
+4.4.4 Private TVET is important in many respects. First of all, it has the opportunity to fully utilize the experiences and capacities of the private sector in order to improve the quality and relevance of TVET; secondly by increasing resources invested in TVET, it will improve the overall TVET supply and hence accessibility of the system; and finally, by partly relieving government from the burden of TVET delivery, this would enable the government to concentrate its resources and efforts on its regulatory and supportive functions. To achieve these functions, the role of non-public TVET providers needs to be further strengthened. This applies to commercial and non-commercial TVET institutions, to private enterprises developing in-company TVET, staff training schemes, internships and cooperative TVET (apprenticeship) schemes as well as to TVET provided within the micro and small business sector, in particular traditional apprenticeship.
 
 4.4.5  TVET  authorities,  in  cooperation  with  stakeholders,  will  take  all  initiatives necessary  to  create  an  enabling  and  conducive  environment  for  non-public  TVET supply to develop. This includes an enabling regulatory environment (licensing and accreditation) and access to all support services provided within the TVET system. The  TVET  authorities  will  also  consider,  depending  on  the  circumstances,  the development of financial incentive schemes such as tax/duty exemptions.
 
 4.4.6  However, considering the current weak state of private and non-public sector development in Ethiopia, government must still play a major role as TVET provider in the foreseeable future. This will mainly apply to those TVET areas where the private sector is unlikely to venture at the moment and where strategic economic and social objectives  have  to  be  safeguarded.  Hence,  various  government  institutions  will remain  major  TVET  providers  in  long-term  initial  TVET,  specialized  technology training, TVET provided in remote areas, and other fields.
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 20 of 52
 
@@ -440,9 +495,9 @@ National Technical & Vocational Education and Training Strategy
 
 4.5.4  Competences  will  be  described  in  National  Occupational  Standards  to  be developed by  people  knowledgeable  on  and  experienced  in  the  world  of  work.  As such,  the  National  Occupational  Standards  define  the  outcome  of  all  training  and learning  expected  by the labour  market, and  will form the  benchmark  of  all  quality management within the TVET system.
 
-4.5.5 Output quality of TVET delivery will be measured through a process of learner's achieved  competence.  This  is  done  through  occupational  assessment,  which  is based  on  the  occupational  standards.  A  candidate  who  has  proven,  through occupational assessment (which may be one assessment or a series of assessments),  that  s/he  is  competent  will  be  awarded  a  National  Occupational Certificate,  which is the official proof of a person's competence in a TVET relevant occupational  area.  Occupational  assessment,  and  hence  certification,  is  open  to everybody  who  has  developed  the  required  competence  through  any  means  of formal  and  non-formal  TVET  or  informal  learning.  As  a  result,  the  outcome-based system is a major tool to accord equal importance to all forms of TVET delivery.
+4.5.5 Output quality of TVET delivery will be measured through a process of learner’s achieved competence. This is done through occupational assessment, which is based on the occupational standards. A candidate who has proven, through occupational assessment (which may be one assessment or a series of assessments), that s/he is competent will be awarded a National Occupational Certificate, which is the official proof of a person’s competence in a TVET relevant occupational area. Occupational assessment, and hence certification, is open to everybody who has developed the required competence through any means of
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 21 of 52
 
@@ -451,6 +506,8 @@ Page 21 of 52
 [[START OF PAGE 22]]
 
 National Technical & Vocational Education and Training Strategy
+
+formal and non-formal TVET or informal learning. As a result, the outcome-based system is a major tool to accord equal importance to all forms of TVET delivery.
 
 4.5.6 In the outcome-based TVET system, the goal of TVET providers is to create the necessary skills, knowledge and attitudes of trainees, so that they are able to perform according  to  occupational  standards,  and  hence  receive  certification.  Thus  TVET providers  have  to  develop  curricula  that  are  based  on  the  National  Occupational Standards and are appropriate to the relevant learning process. Curricula will have to consider specific requirements of the target groups and specific local labour market requirements.  As  a  consequence,  the  previous  practice  of  prescribing  binding national  curricula  will  no  longer  be  implemented  once  the  outcome-based  quality management system is fully established.  Instead  of  this,  each  TVET  provider  may find their own curricular solutions to provide high quality TVET to their specific target group.
 
@@ -462,9 +519,9 @@ National Technical & Vocational Education and Training Strategy
 
 4.6.2 In a decentralized TVET system, the federal authorities will be responsible for national policy formulation and all statutory functions at national level (i.e. system of occupational standards, assessment, certification, drawing up of accreditation rules, and others), the system of TVET teacher/instructor training and further training,  as well  as  coordination,  advice  to  authorities  at  lower  levels  and  implementation  of selective support instruments to the implementing actors.
 
-4.6.3 Main responsibility for implementation of the new TVET system rests with the state authorities which may, again, delegate functions to lower levels as appropriate. The  state  TVET  authorities  will  plan,  coordinate,  support  and  supervise  the  TVET provision in their respective Regions, secure funding for the public TVET institutions in  the  regions,  develop  support  mechanisms  for  non-public  TVET  supply  and implement the statutory functions on behalf of the Federal TVET Agency. The state authorities  will  also  capacitate  zonal  and  woreda  TVET  Offices  and  the  TVET Councils  at  lower  levels  and  delegate  functions  proportionate  to  their  respective capacities.
+4.6.3 Main responsibility for implementation of the new TVET system rests with the state authorities which may, again, delegate functions to lower levels as appropriate. The state TVET authorities will plan, coordinate, support and supervise the TVET provision in their respective Regions, secure funding for the public TVET institutions in the regions, develop support mechanisms for non-public TVET supply and
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 22 of 52
 
@@ -474,7 +531,9 @@ Page 22 of 52
 
 National Technical & Vocational Education and Training Strategy
 
-4.6.4 To ensure the demand-orientation of the actual TVET delivery and its linkage with the local labour market, the TVET  system intends to delegate major responsibilities directly to the TVET institutions. Experience in other countries clearly shows  a  direct  relationship  between  operational  autonomy  of  TVET  institutions  in terms of use of resources, overall management and planning of TVET programmes on the one hand, and improvement of quality  and learning outcomes  on the other hand. The Ethiopian TVET system, therefore, aims, in the medium term, to grant farreaching planning and management responsibilities to public TVET institutions. In the future,  TVET  institutions  will  be  held  accountable  for  the  success  of  their  training delivery. This may also be supported by development of performance-based funding mechanisms.
+implement the statutory functions on behalf of the Federal TVET Agency. The state authorities will also capacitate zonal and woreda TVET Offices and the TVET Councils at lower levels and delegate functions proportionate to their respective capacities.
+
+4.6.4 To ensure the demand-orientation of the actual TVET delivery and its linkage with the local labour market, the TVET system intends to delegate major responsibilities directly to the TVET institutions. Experience in other countries clearly shows a direct relationship between operational autonomy of TVET institutions in terms of use of resources, overall management and planning of TVET programmes on the one hand, and improvement of quality and learning outcomes on the other hand. The Ethiopian TVET system, therefore, aims, in the medium term, to grant far-reaching planning and management responsibilities to public TVET institutions. In the future, TVET institutions will be held accountable for the success of their training delivery. This may also be supported by development of performance-based funding mechanisms.
 
 4.6.5  With  the  acquisition  of  broader  management  responsibilities  at  institutional level,  public  TVET  institutions  will  be  required  to  form  a  management  board comprising  all  relevant  local  stakeholders,  including  representatives  of  the  local business  community.  The  management  boards  will  be  responsible  for  school supervision  and  will  approve  plans,  budgets  and  reports  of  the  same.  Non-public TVET providers will also be encouraged to form management boards to secure their integration into the local economic environment.
 
@@ -484,9 +543,9 @@ National Technical & Vocational Education and Training Strategy
 
 4.7.1 To make best use of scarce resources, all necessary efforts will be undertaken to increase efficiency in the TVET system. This applies to the management of TVET at all levels, the method of TVET delivery and the possibilities of recognizing previous learning achievements.
 
-4.7.2  Efficiency  will  be  raised  at  all  levels  of  the  TVET  management  through appropriate organisational development, human resource development policies and clear  definitions  of  functions  and  responsibilities.  Studies  indicate  that  a  significant scope for  improving  internal  efficiency  in  TVET  institutions,  e.g.  through  increased capacity utilization, improved human resource and financial management, and better management of equipment, tools and training materials may be undertaken. To this end, management capacity building will be provided to TVET institutions' management  based  on  thorough  problem  and  needs  analyses.  Furthermore,  the gradual  delegation  of  increased  management  responsibilities  to  TVET  institutions, including  responsibilities  in  the  recruitment  of  trainees,  is  expected  to  improve internal  efficiency.  This  may  be  complemented  by  the  introduction  of  performancebased budgeting in the public TVET institute.
+4.7.2 Efficiency will be raised at all levels of the TVET management through appropriate organisational development, human resource development policies and clear definitions of functions and responsibilities. Studies indicate that a significant scope for improving internal efficiency in TVET institutions, e.g. through increased
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 23 of 52
 
@@ -495,6 +554,8 @@ Page 23 of 52
 [[START OF PAGE 24]]
 
 National Technical & Vocational Education and Training Strategy
+
+capacity utilization, improved human resource and financial management, and better management of equipment, tools and training materials may be undertaken. To this end, management capacity building will be provided to TVET institutions’ management based on thorough problem and needs analyses. Furthermore, the gradual delegation of increased management responsibilities to TVET institutions, including responsibilities in the recruitment of trainees, is expected to improve internal efficiency. This may be complemented by the introduction of performance-based budgeting in the public TVET institute.
 
 4.7.3  Strengthening  cost-effective  modes  of  TVET  delivery  is  another  important means of improving efficiency in the TVET system. Accordingly, cooperative TVET schemes  will  be  promoted  and  TVET  institutions  will  be  encouraged  to  develop flexible and better solutions for cost-effective TVET delivery.
 
@@ -506,11 +567,11 @@ National Technical & Vocational Education and Training Strategy
 
 5.0.2  In  the  outcome-based  TVET  system,  the  federal  government  will  meet  its responsibility for ensuring quality and relevance of TVET by:
 
-- head2right facilitating the setting of National Occupational  Standards which  is fairly equivalent to international standards and;
+- facilitating the setting of National Occupational Standards which is fairly equivalent to international standards and;
 
-- head2right organising  an  occupational  assessment  and  certification  system  which  offers National Occupational Qualification Certificates to those who have proven, in an
+- organising an occupational assessment and certification system which offers National Occupational Qualification Certificates to those who have proven, in an
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 24 of 52
 
@@ -526,123 +587,29 @@ assessment, that they are competent in accordance with the defined occupational 
 
 Outcome-based Organization of TVET System
 
-Support of curriculum develop-
-
-ment: curriculum development
-
-manual, model curricula, etc.
-
-Occupational
-
-Standard
-
 Labor Market
 
-Q
+Quality Management
 
-u
+Occupational Standard
 
-a
+Occupational Assessment & Certification
 
-l
-
-i
-
-t
-
-y
-
-M
-
-a
-
-n
-
-a
-
-g
-
-e
-
-m
-
-e
-
-n
-
-t
-
-TVET
-
-Delivery
+Regulated by TVET Executive Bodies (with participation of stakeholders)
 
 Helping Hand
 
-Regulated by TVET
+Support of curriculum development: curriculum development manual, model curricula, etc.
 
-Executive Bodies
+TVET Delivery
 
-(with participation
+Formal TVET delivered by public and non-public providers, enterprises, as cooperative training, etc.
 
-of stakeholders)
+Long & short term, non-formal TVET programmes delivered by public and non-public providers, enterprises, etc.
 
-Occupational
+Informal TVET, on-the-job training, self-learning, traditional, apprenticeship, and other modes of TVET
 
-Assessment
-
-&
-
-Certification
-
-Formal TVET
-
-delivered by
-
-public and non-
-
-public
-
-providers,
-
-enterprises, as
-
-cooperative
-
-training, etc.
-
-Long & short
-
-term, non-formal
-
-TVET
-
-programmes
-
-delivered by
-
-public and non-
-
-public providers,
-
-enterprises, etc.
-
-Informal TVET,
-
-on-the-job
-
-training, self-
-
-learning,
-
-traditional,
-
-apprenticeship,
-
-and other
-
-modes of TVET
-
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 25 of 52
 
@@ -662,9 +629,9 @@ National Technical & Vocational Education and Training Strategy
 
 5.1.4  Occupational  standards  must  be  based  on  the  needs  of  the  labour  market. Therefore, the  identification  and  clustering  of  occupations  -  for  which  occupational standards  will  be  developed  -  will  be  made  with  reference  to  the  needs  of  the national  labour  market  demand.  A  labour  market  analysis  will  be  instrumental  in identifying the need for new occupations as well as indicating the need for revision and  adaptation  of  existing  national  standards  once  technological  and/or  economic developments bring about changes to the qualification needs.
 
-5.1.5  Identification  and clustering of  occupations  will  be made  in  close cooperation with the Ministry of Labour and Social Affairs and the Civil Service Agency as well as other  concerned  bodies  to  ensure  that  the  TVET  occupational  standards  take  into account the defined occupational titles from the National Occupational Classification System.
+5.1.5 Identification and clustering of occupations will be made in close cooperation with the Ministry of Labour and Social Affairs and the Civil Service Agency as well as
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 26 of 52
 
@@ -674,7 +641,9 @@ Page 26 of 52
 
 National Technical & Vocational Education and Training Strategy
 
-5.1.6 Occupational qualifications should be designed so that they are internationally compatible  in  order  to  ensure  the  international  competitiveness  of  the  Ethiopian employee.  Thus,  occupational  standards  should  reflect  -  as  far  as  possible  international  standards  of  competence,  while  at  the  same  time  be  based  on workplace  requirements  within  the  nation.  In  order  to  facilitate  this,  procedures  for standard setting  should  also  include methods  to  adapt or  adopt existing standards from other countries.
+other concerned bodies to ensure that the TVET occupational standards take into account the defined occupational titles from the National Occupational Classification System.
+
+5.1.6 Occupational qualifications should be designed so that they are internationally compatible in order to ensure the international competitiveness of the Ethiopian employee. Thus, occupational standards should reflect - as far as possible - international standards of competence, while at the same time be based on workplace requirements within the nation. In order to facilitate this, procedures for standard setting should also include methods to adapt or adopt existing standards from other countries.
 
 5.1.7  As  a  rule,  occupational  standards  will  be  developed  at  the  national  level, facilitated and approved by the Federal TVET Agency. However, should state or local labour market needs so require, standard setting initiatives may also be undertaken by regional TVET authorities. Appropriate rules for recognizing standards developed at state or local levels will thus be developed.
 
@@ -684,9 +653,9 @@ National Technical & Vocational Education and Training Strategy
 
 5.2.2 Occupational assessment and certification will be accessible to all candidates who feel competent that they meet the requirements of the respective occupational standard,  irrespective  of  how  and  where  they  were  trained  or  learned.  Contrary  to past  practice  in  Ethiopia,  access  to  occupational  qualifications  will  no  longer  be dependent on attending a formal TVET programme. Graduates from any formal and non-formal  TVET  programme  will,  in  the  future,  have  access  to  occupational assessment and certification, as well as those who have learned informally (i.e. on the job, through traditional apprenticeship or through self-learning). Hence, occupational assessment will be the major tool to integrate different TVET delivery modes  and  recognize  prior  learning,  significantly  increasing  access  to  the  TVET system and its qualifications for a greater section of the society.
 
-5.2.3 Occupational assessment will take place in designated or accredited public or private assessment centres. Assessments will be conducted by accredited assessors, possibly experts from the world of work or trainers. In order to improve the employability of TVET graduates, occupational qualifications and certificates need to be recognized by employers. It is therefore vital that experts from the enterprises are essential members of the groups of assessors. As far as possible, relevant business or employers' associations will be integrated into the management of assessment.
+5.2.3 Occupational assessment will take place in designated or accredited public or private assessment centres. Assessments will be conducted by accredited assessors, possibly experts from the world of work or trainers. In order to improve the employability of TVET graduates, occupational qualifications and certificates need to
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 27 of 52
 
@@ -696,7 +665,9 @@ Page 27 of 52
 
 National Technical & Vocational Education and Training Strategy
 
-5.2.4 Responsibility for establishing and facilitating a national occupational assessment  and  certification  system  rests  with  the  Federal  TVET  Agency.  It  will stipulate  rules  and  procedures  for  assessment  item  development,  for  conducting assessments and will facilitate, supervise and regulate the system. Responsibility for implementing the occupational assessment, i.e. ensuring that assessment is properly conducted and certificates issued, rests with the state TVET authorities.
+be recognized by employers. It is therefore vital that experts from the enterprises are essential members of the groups of assessors. As far as possible, relevant business or employers’ associations will be integrated into the management of assessment.
+
+5.2.4 Responsibility for establishing and facilitating a national occupational assessment and certification system rests with the Federal TVET Agency. It will stipulate rules and procedures for assessment item development, for conducting assessments and will facilitate, supervise and regulate the system. Responsibility for implementing the occupational assessment, i.e. ensuring that assessment is properly conducted and certificates issued, rests with the state TVET authorities.
 
 5.2.5  State  TVET  centers  of  competence  will  be  established  under  the  state authorities as core institutions for implementing and facilitating occupational assessment.  In  order  to  ensure  that  assessment  is  accessible  to  all  citizens, including  those  in  remote  areas,  further  assessment  venues  will  be  accredited  to implement occupational assessment in specified fields. These will include enterprising and excelling TVET institutions in particular.
 
@@ -706,15 +677,15 @@ National Technical & Vocational Education and Training Strategy
 
 5.3.1 A TVET Qualifications Framework (ETQF) will be developed in order to define the  value  of  qualifications,  ensure  that  different  qualifications  are  comparable,  and facilitate horizontal and vertical mobility within the TVET system. The ETQF will:
 
-- head2right Define the different occupational qualification levels;
+- Define the different occupational qualification levels;
 
-- head2right Devise level descriptors, i.e. define the scope and composition of qualifications and the level of responsibility a qualified person can assume in the workplace;
+- Devise level descriptors, i.e. define the scope and composition of qualifications and the level of responsibility a qualified person can assume in the workplace;
 
-- head2right Formulate rules for horizontal and vertical mobility, i.e. rules for moving between different occupational areas and between different qualification levels.
+- Formulate rules for horizontal and vertical mobility, i.e. rules for moving between different occupational areas and between different qualification levels.
 
-5.3.2  Occupational  qualifications  should  also  provide  opportunities  to  move  from TVET  into  the  general  education  system  and  to  progress  to  higher  education. Therefore, the ETQF will be built with a view to eventually being integrated into an overarching  National  Qualifications  Framework.  Such  a  framework  would  define qualification levels, relationships and equivalences among different qualifications for the  entire  education  and  training  system  including  primary  education,  secondary education, TVET and higher education. It would stipulate rules and requirements to move  between  general  education  and  TVET,  and  to  move  up  from  occupational qualifications  into  the  higher  education  system.  As  such,  the  establishment  of  a national qualifications framework would be the major tool to facilitate mobility through recognition  of  achievements  and  the  possible  alignment  of  training  offers  to  a common reference scale.
+5.3.2 Occupational qualifications should also provide opportunities to move from TVET into the general education system and to progress to higher education. Therefore, the ETQF will be built with a view to eventually being integrated into an overarching National Qualifications Framework. Such a framework would define qualification levels, relationships and equivalences among different qualifications for the entire education and training system including primary education, secondary education, TVET and higher education. It would stipulate rules and requirements to
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 28 of 52
 
@@ -723,6 +694,8 @@ Page 28 of 52
 [[START OF PAGE 29]]
 
 National Technical & Vocational Education and Training Strategy
+
+move between general education and TVET, and to move up from occupational qualifications into the higher education system. As such, the establishment of a national qualifications framework would be the major tool to facilitate mobility through recognition of achievements and the possible alignment of training offers to a common reference scale.
 
 5.3.3 The TVET authorities will liaise with the relevant general and higher education authorities to develop and establish a national qualifications framework jointly, and to align TVET and higher education policies in the field of qualifications.
 
@@ -738,9 +711,9 @@ National Technical & Vocational Education and Training Strategy
 
 6.1.1  TVET  programmes  will  be  organized  in  a  modular  fashion  to  meet  the requirements as defined in the occupational standards. In this way, each module or combination  of  modules  describes  an  employable  set  of  competences.  Successful completion  of  each  training  module  shall  be  dependent  on  assessment  and certification  in  conjunction  with  the  assessment  specifications  stipulated  in  the occupational  standards.  The  modularization  of  TVET  is  a  central  mechanism  of making TVET delivery flexible and providing for flexible entry and exit points.
 
-6.1.2 Different  TVET  modules  can  be  combined  into long-term  programmes representing  the  entire  teaching,  training  and  learning  necessary  to  achieve  an occupational qualification.  Through  this  modularization,  a  trainee  may,  for  personal reasons, exit a long-term programme prematurely while having acquired competences  that  would  allow  her/him  to  successfully  perform  certain  jobs  in  the labour  market.  S/he  may  re-enter  the  TVET  programme  at  a  later  stage,  continue with the missing modules and thus complete her/his qualification.
+6.1.2 Different TVET modules can be combined into long-term programmes representing the entire teaching, training and learning necessary to achieve an occupational qualification. Through this modularization, a trainee may, for personal
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 29 of 52
 
@@ -750,7 +723,9 @@ Page 29 of 52
 
 National Technical & Vocational Education and Training Strategy
 
-6.1.3  Individual  modules  or  a  number  of  modules  may  also  be  delivered  in  short programmes. In this case trainees either acquire an important set of competences (equivalent to a partial qualification) valuable in the labour market, and/or achieve the first  steps  of  a  potentially  longer  TVET  career  that  may  eventually  lead  to  a comprehensive  occupational  competence.  In  the  course  of  their  individual  career, trainees  may  attend  different  TVET  modules  over  time,  if  necessary  by  different providers, to finally master a comprehensive competence.
+reasons, exit a long-term programme prematurely while having acquired competences that would allow her/him to successfully perform certain jobs in the labour market. S/he may re-enter the TVET programme at a later stage, continue with the missing modules and thus complete her/his qualification.
+
+6.1.3 Individual modules or a number of modules may also be delivered in short programmes. In this case trainees either acquire an important set of competences (equivalent to a partial qualification) valuable in the labour market, and/or achieve the first steps of a potentially longer TVET career that may eventually lead to a comprehensive occupational competence. In the course of their individual career, trainees may attend different TVET modules over time, if necessary by different providers, to finally master a comprehensive competence.
 
 6.1.4  Modular  TVET  organisation  is  a  fairly  new  concept  in  the  Ethiopian  TVET environment. TVET providers need new skills to develop modularized curricula, and management skills for TVET institution managers to re-organise their training plans accordingly. The TVET executive bodies will therefore render necessary support to TVET institutes by developing curriculum guides, further training technical teachers and capacity building in the organisation of modular training.
 
@@ -758,9 +733,9 @@ National Technical & Vocational Education and Training Strategy
 
 6.2.1  The  flexibility  of  TVET  delivery  also  allows  for  a  strengthening  and  further development and deepening of cooperative TVET (including apprenticeship training). Cooperative TVET is a mode of TVET provided in partnership between enterprises and  TVET  institutions.  Usually,  the  bulk  of  practical  training  takes  place  in  an enterprise,  while  theory  and  initial  practical  exposure  is  provided  by  the  TVET institution.  In  more  advanced  TVET  systems  -  for  instance  in  many  European countries  -  cooperative  TVET  schemes  are  organized  as  formal  apprenticeship training,  implying  a  work  or  apprenticeship  contract  between  the  trainee  and  the company.
 
-6.2.2 The major advantage of apprenticeship training (and more generally cooperative  TVET  delivery  forms)  is  its  vicinity  to  the  world  of  work.  Trainees  are systematically exposed to the world of work and learn the occupational practice in a real  life  situation.  Experience  shows  that  this  leads  to  significantly  better  training outcomes,  practical  skills,  work  attitudes  and  theoretical  comprehension  of  the occupational requirements. Furthermore, enterprises get to know the trainees, which often  lead  to  employment  after  graduation.  Through  cooperative  TVET  schemes companies can also contribute to the further development of TVET system. Finally, apprenticeships  and  other  forms  of  cooperative  training  tend  to  be  more  costeffective than school-based TVET, as TVET  institutions need not invest in sophisticated machinery and training periods in the institutions will be shorter.
+6.2.2 The major advantage of apprenticeship training (and more generally cooperative TVET delivery forms) is its vicinity to the world of work. Trainees are systematically exposed to the world of work and learn the occupational practice in a real life situation. Experience shows that this leads to significantly better training outcomes, practical skills, work attitudes and theoretical comprehension of the occupational requirements. Furthermore, enterprises get to know the trainees, which often lead to employment after graduation. Through cooperative TVET schemes companies can also contribute to the further development of TVET system. Finally, apprenticeships and other forms of cooperative training tend to be more cost-
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 30 of 52
 
@@ -770,7 +745,9 @@ Page 30 of 52
 
 National Technical & Vocational Education and Training Strategy
 
-6.2.3 At the moment, elements of cooperative TVET are included in the formal TVET programmes in the form of workplace internships of several months. This represents an  important  step  forward  in  making  the  TVET  system  more  relevant.  However, cooperative training should be deepened to fully utilize its advantages for the TVET system. To this end, maximum flexibility is given to TVET providers to negotiate and develop relationships with individual employers, groups of employers or business/sector associations about the organization of cooperative delivery schemes. TVET providers will also be encouraged to venture into more agreements with small companies and the micro enterprise sector as these companies represent the target labour market for a large group of trainees. As a rule, providers will have the freedom to  develop  cooperative  TVET  programmes  in  accordance  with  specific  needs  and potentials  of  companies  and  trainees,  as  long  as  the  training  is  oriented  on  the occupational standards and will enable trainees to achieve the necessary competences of a qualification or part of a qualification.
+effective than school-based TVET, as TVET institutions need not invest in sophisticated machinery and training periods in the institutions will be shorter.
+
+6.2.3 At the moment, elements of cooperative TVET are included in the formal TVET programmes in the form of workplace internships of several months. This represents an important step forward in making the TVET system more relevant. However, cooperative training should be deepened to fully utilize its advantages for the TVET system. To this end, maximum flexibility is given to TVET providers to negotiate and develop relationships with individual employers, groups of employers or business/sector associations about the organization of cooperative delivery schemes. TVET providers will also be encouraged to venture into more agreements with small companies and the micro enterprise sector as these companies represent the target labour market for a large group of trainees. As a rule, providers will have the freedom to develop cooperative TVET programmes in accordance with specific needs and potentials of companies and trainees, as long as the training is oriented on the occupational standards and will enable trainees to achieve the necessary competences of a qualification or part of a qualification.
 
 6.2.4  The  TVET  executive  bodies  will  explore  possibilities  to  encourage  large companies and micro and small enterprises to cooperate with TVET institutions and to introduce apprenticeships, e.g. through advertising, rewarding participating companies or financial incentives.
 
@@ -780,9 +757,9 @@ National Technical & Vocational Education and Training Strategy
 
 6.3.2  Against  this  background,  basic  entrepreneurial  and  business  management training will be incorporated into  all  relevant  TVET  programmes.  The  TVET authorities will provide assistance to TVET providers to develop appropriate training packages, drawing on the magnitude of international experience in this field.
 
-6.3.3 TVET providers are also encouraged to consider the work environment in the local  micro  and  small  business  sector  when  designing  their  training  programmes. This includes, for example, the introduction and use of appropriate technologies and the  organisation  of  internships  or  cooperative  training  programmes  with  micro  and small  enterprises.  The  TVET  executive  bodies  will  also  undertake  initiatives  to strengthen  and  raise  quality  in  traditional  apprenticeship  training,  as  this  mode  of TVET delivery is particularly effective in preparing youth for self-employment.
+6.3.3 TVET providers are also encouraged to consider the work environment in the local micro and small business sector when designing their training programmes. This includes, for example, the introduction and use of appropriate technologies and the organisation of internships or cooperative training programmes with micro and
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 31 of 52
 
@@ -792,19 +769,21 @@ Page 31 of 52
 
 National Technical & Vocational Education and Training Strategy
 
-6.3.4 TVET institutions shall serve as centres of technology capability, accumulation and  transfer.  They  shall  closely  cooperate  with  the  private  sector  in  undertaking problem-solving research programmes.
+small enterprises. The TVET executive bodies will also undertake initiatives to strengthen and raise quality in traditional apprenticeship training, as this mode of TVET delivery is particularly effective in preparing youth for self-employment.
+
+6.3.4 TVET institutions shall serve as centres of technology capability, accumulation and transfer. They shall closely cooperate with the private sector in undertaking problem-solving research programmes.
 
 ### 6.4. Introducing ICT to the TVET System
 
-6.4.1 The introduction of modern information and communication technologies (ICT) to  TVET  delivery  and  assessment  is  an  important  tool  for  enhancing  access  and quality  in  TVET  and  for  developing  life-long  learning  opportunities.  Through  ICT, training, teaching and learning, as well as assessment materials, can be provided at a lower cost. It  supports learner-centred  TVET  delivery,  improves  access  to information and  knowledge  and  allows  for selfand  self-paced learning  and assessment.  In  accordance  with  the  Government  of  Ethiopia's  Information  and Communication Technology Policy of 2002, a systematic introduction and use of ICT solutions in TVET delivery will be promoted.
+6.4.1 The introduction of modern information and communication technologies (ICT) to TVET delivery and assessment is an important tool for enhancing access and quality in TVET and for developing life-long learning opportunities. Through ICT, training, teaching and learning, as well as assessment materials, can be provided at a lower cost. It supports learner-centred TVET delivery, improves access to information and knowledge and allows for self- and self-paced learning and assessment. In accordance with the Government of Ethiopia's Information and Communication Technology Policy of 2002, a systematic introduction and use of ICT solutions in TVET delivery will be promoted.
 
 6.4.2 TVET providers will be encouraged to introduce and facilitate blended learning, i.e.  introducing  e-learning  possibilities  alongside  traditional  training,  teaching  and learning  methodologies.  Considering current  constraints  with regard to  accessibility of  internet,  e-learning/blended  learning  solutions  using  CD  ROMs  and  local  area networks will be promoted.
 
 6.4.3  State  governments  and  other  public  TVET  providers  are  responsible  for appropriately equipping institutions and making sure that TVET teachers/instructors are able to integrate ICT in TVET delivery and to encourage and guide trainees in the use of the new learning technologies. Non-public TVET providers are encouraged to introduce  e-learning  and  blended  learning  methodologies.  To  this  end,  the  TVET authorities  will  facilitate  access  to  software  and  electronic  teaching  and  learning materials.
 
-6.4.4 The federal in consultation with the state TVET authorities and representatives of the ICT sector will develop an appropriate strategy for the further development of ICT and blended learning (including e-learning) in TVET addressing the issues of emodule development, development of distance education in TVET, necessary human resource  development  and  other  factors  influencing  the  availability  of  ICT  in  the TVET sector.
+6.4.4 The federal in consultation with the state TVET authorities and representatives of the ICT sector will develop an appropriate strategy for the further development of ICT and blended learning (including e-learning) in TVET addressing the issues of e-module development, development of distance education in TVET, necessary human resource development and other factors influencing the availability of ICT in the TVET sector.
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 32 of 52
 
@@ -830,11 +809,11 @@ National Technical & Vocational Education and Training Strategy
 
 7.1.2 In the regions, state level TVET authorities must ensure that:
 
-- head2right TVET  institutions  are  encouraged  and  empowered  to  develop  close  working relationships with employers and large, medium,  small and micro sized companies in their catchment's areas;
+- TVET institutions are encouraged and empowered to develop close working relationships with employers and large, medium, small and micro sized companies in their catchment's areas;
 
-- head2right TVET programmes of TVET institutions shall be drawn up based on local skilled human resource needs and the needs of the respective Regional Governments;
+- TVET programmes of TVET institutions shall be drawn up based on local skilled human resource needs and the needs of the respective Regional Governments;
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 33 of 52
 
@@ -844,23 +823,23 @@ Page 33 of 52
 
 National Technical & Vocational Education and Training Strategy
 
-- head2right Prioritization  of  public  investment  is  based  on  established  needs  in  the  labour market;
+- Prioritization of public investment is based on established needs in the labour market;
 
-- head2right Relevant  non-formal  TVET  programmes  will  be  developed  as  a  priority,  in particular with the aim of increasing TVET offers for target groups in rural areas and  to  provide  skills  upgrading  for  workers  in  the  micro  and  small  business sector;
+- Relevant non-formal TVET programmes will be developed as a priority, in particular with the aim of increasing TVET offers for target groups in rural areas and to provide skills upgrading for workers in the micro and small business sector;
 
-- head2right Attention is given to all TVET institutions, especially to those which are capable to accumulate and transfer technology
+- Attention is given to all TVET institutions, especially to those which are capable to accumulate and transfer technology
 
-- head2right Facilities  are  improved  to  ensure  that  TVET  provision  meets  the  National Occupational Standards;
+- Facilities are improved to ensure that TVET provision meets the National Occupational Standards;
 
-- head2right Training, teaching and learning materials are sufficiently available;
+- Training, teaching and learning materials are sufficiently available;
 
-- head2right Emphasis  is  given  to  the  development  and  proper  management  of  human resources within the TVET sector, which applies to both TVET trainers/instructors and TVET institution management;
+- Emphasis is given to the development and proper management of human resources within the TVET sector, which applies to both TVET trainers/instructors and TVET institution management;
 
-- head2right Access  to  public  TVET  institutions  is  non-discriminatory  and  that  facilities  in public  institutions  will  receive  assistance  in  opening  up  TVET  for  trainees  with special needs;
+- Access to public TVET institutions is non-discriminatory and that facilities in public institutions will receive assistance in opening up TVET for trainees with special needs;
 
-- head2right Equal access for female trainees is ensured;
+- Equal access for female trainees is ensured;
 
-- head2right TVET institutions contribute fully to HIV/AIDS prevention in their local environs.
+- TVET institutions contribute fully to HIV/AIDS prevention in their local environs.
 
 7.1.3  Public  TVET  provision  will  have  to  strike  a  balance  between  quality  and sustainability  of  the  existing  TVET  on  the one  hand  and the  desire  to widen TVET supply in order to increase access at the local level on the other hand.
 
@@ -868,9 +847,9 @@ National Technical & Vocational Education and Training Strategy
 
 ### 7.2. Strengthening Private TVET Institutions
 
-7.2.1 As identified above, a partnership between public and non-public actors based on  trust,  cooperation  and  mutual  recognition  is  a  pre-requisite  for  the  sustainable development  of  TVET.  Among  the  core  responsibilities  of  state  TVET  authorities, therefore, is to promote and strengthen investment in non-public TVET provision in their regions.
+7.2.1 As identified above, a partnership between public and non-public actors based on trust, cooperation and mutual recognition is a pre-requisite for the sustainable development of TVET. Among the core responsibilities of state TVET authorities,
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 34 of 52
 
@@ -880,31 +859,33 @@ Page 34 of 52
 
 National Technical & Vocational Education and Training Strategy
 
-7.2.2  State  TVET  authorities,  which  may  delegate  some  of  the  responsibilities  to lower level TVET authorities, will strengthen non-public investment in TVET through all suitable means, in particular through:
+therefore, is to promote and strengthen investment in non-public TVET provision in their regions.
 
-- head2right Implementing accreditation of non-public TVET institutions in a predictable and timely manner following the relevant rules and regulations;
+7.2.2 State TVET authorities, which may delegate some of the responsibilities to lower level TVET authorities, will strengthen non-public investment in TVET through all suitable means, in particular through:
 
-- head2right Facilitating access to appropriate land and buildings;
+- Implementing accreditation of non-public TVET institutions in a predictable and timely manner following the relevant rules and regulations;
 
-- head2right Maintaining  continuous  consultation  processes  with  representatives  of  nonpublic TVET providers in order to identify region specific development schemes for non-public training provision;
+- Facilitating access to appropriate land and buildings;
 
-- head2right Harmonising  the  planning  of  public  TVET  provision  with  the  non-public  TVET sector in order to avoid duplication of supply and overlapping effects;
+- Maintaining continuous consultation processes with representatives of non-public TVET providers in order to identify region specific development schemes for non-public training provision;
 
-- head2right Making labour market information, occupational standards, TVET  specific regulations and other relevant information and research outputs available to the non-public TVET sector;
+- Harmonising the planning of public TVET provision with the non-public TVET sector in order to avoid duplication of supply and overlapping effects;
 
-- head2right Ensuring that capacity building initiatives for state TVET institutions (e.g. further training  of  teachers;  management  courses  for  TVET  institutions'  management and management boards, etc.) are available to both public and non-public TVET institutions;
+- Making labour market information, occupational standards, TVET specific regulations and other relevant information and research outputs available to the non-public TVET sector;
 
-- head2right Ensuring that non-public providers have access to curriculum guides and training and teaching materials;
+- Ensuring that capacity building initiatives for state TVET institutions (e.g. further training of teachers; management courses for TVET institutions' management and management boards, etc.) are available to both public and non-public TVET institutions;
 
-- head2right Promoting  the  responsible  and  efficient  use  of  scarce  resources  of  TVET institutions.
+- Ensuring that non-public providers have access to curriculum guides and training and teaching materials;
+
+- Promoting the responsible and efficient use of scarce resources of TVET institutions.
 
 7.2.3 Furthermore, the implementing agencies in the sector shall identify and execute means and ways of providing financial incentives for non governmental and private TVET providers.
 
 ### 7.3. Curriculum Development and Preparation of Training, Teaching and Learning Materials
 
-7.3.1 With the introduction of occupational standards, new outcome based curricula need accordingly be developed by the respective regions. Each TVET provider may and should develop its own curricula based on the specific needs of its target groups and  in  compliance  with  the  respective  occupational  standard.  Regional  TVET authorities shall  see  to  it  and  assist  that  the  new  curricula  have  been  employed in both public and private TVET institutes operating in the region.
+7.3.1 With the introduction of occupational standards, new outcome based curricula need accordingly be developed by the respective regions. Each TVET provider may
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 35 of 52
 
@@ -914,7 +895,9 @@ Page 35 of 52
 
 National Technical & Vocational Education and Training Strategy
 
-7.3.2 It is acknowledged, however, that many of the existing TVET providers are not yet  in  a  position  to  develop  high  quality  curricula  and  TVET  programmes  on  their own. Substantial capacity building and support (provided by the TVET system) will be necessary  to  enable  TVET  providers  to  transform  the  occupational  standards  into appropriate modular and outcome-based  curricula. The same  applies to the development of new training, teaching and learning materials. To capacitate TVET providers  and  to  ensure  that  TVET  programmes,  curricula  as  well  as  training, teaching  and  learning  materials  are  of  high  standards,  respective  manuals  will  be provided  and  the  development  of  model  curricula  and  of  related  teaching,  training and learning materials be supported. Support will  be made  accessible to  all  TVET providers in Ethiopia.
+and should develop its own curricula based on the specific needs of its target groups and in compliance with the respective occupational standard. Regional TVET authorities shall see to it and assist that the new curricula have been employed in both public and private TVET institutes operating in the region.
+
+7.3.2 It is acknowledged, however, that many of the existing TVET providers are not yet in a position to develop high quality curricula and TVET programmes on their own. Substantial capacity building and support (provided by the TVET system) will be necessary to enable TVET providers to transform the occupational standards into appropriate modular and outcome-based curricula. The same applies to the development of new training, teaching and learning materials. To capacitate TVET providers and to ensure that TVET programmes, curricula as well as training, teaching and learning materials are of high standards, respective manuals will be provided and the development of model curricula and of related teaching, training and learning materials be supported. Support will be made accessible to all TVET providers in Ethiopia.
 
 ## 8. Accreditation of TVET Institutions
 
@@ -922,13 +905,13 @@ National Technical & Vocational Education and Training Strategy
 
 8.0.2 Accreditation serves two purposes. These are:
 
-- head2right To set quality benchmarks for TVET institutions, to identify and offer support to institutions  so  that  they  meet the  required  quality standards and  to assess the level of achievement;
+- To set quality benchmarks for TVET institutions, to identify and offer support to institutions so that they meet the required quality standards and to assess the level of achievement;
 
-- head2right To  attain  transparent  working  systems  in  the  TVET  market,  thereby  protecting trainees from low quality TVET provision.
+- To attain transparent working systems in the TVET market, thereby protecting trainees from low quality TVET provision.
 
-8.0.3  Currently,  accreditation  is  based  on  quality  indicators  defining  physical  and human resource assets (such as availability of classrooms, workshops, number and qualification  of  teachers,  etc)  derived  from  national  curricula.  Reflecting  the  new curricular flexibility in the TVET system, these quality indicators will be redefined. The new indicators for accreditation will focus on internal quality management processes in the TVET institutions, such as capacities for labour market analysis and curriculum development, personnel management and human resource development strategies and  financial  management.  Considering  good  practices  in  other  countries,  the development  of a graded accreditation system comprising different levels of accreditation representing different quality  management  achievement  levels  is envisaged, i.e. different capabilities of TVET institutions to responsibly develop and implement TVET programmes in accordance with the defined national occupational standards.
+8.0.3 Currently, accreditation is based on quality indicators defining physical and human resource assets (such as availability of classrooms, workshops, number and qualification of teachers, etc) derived from national curricula. Reflecting the new curricular flexibility in the TVET system, these quality indicators will be redefined. The new indicators for accreditation will focus on internal quality management processes in the TVET institutions, such as capacities for labour market analysis and curriculum development, personnel management and human resource development strategies and financial management. Considering good practices in other countries, the development of a graded accreditation system comprising different levels of accreditation representing different quality management achievement levels is
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 36 of 52
 
@@ -938,7 +921,9 @@ Page 36 of 52
 
 National Technical & Vocational Education and Training Strategy
 
-8.0.4  Accreditation  will  be  awarded  to  public  and  private  institutions.  These  TVET institutions will be given access to support services offered by the TVET authorities. Accreditation,  in  this  sense,  will  allow  TVET  institutions  to  realistically  assess  their own capabilities (and weaknesses), to develop targets for quality improvement and to access  development  support  provided  within  the  TVET  system.  Accreditation  at  a certain level can therefore be viewed as a 'stamp of quality' helping TVET institutions to market themselves.
+envisaged, i.e. different capabilities of TVET institutions to responsibly develop and implement TVET programmes in accordance with the defined national occupational standards.
+
+8.0.4 Accreditation will be awarded to public and private institutions. These TVET institutions will be given access to support services offered by the TVET authorities. Accreditation, in this sense, will allow TVET institutions to realistically assess their own capabilities (and weaknesses), to develop targets for quality improvement and to access development support provided within the TVET system. Accreditation at a certain level can therefore be viewed as a 'stamp of quality' helping TVET institutions to market themselves.
 
 8.0.5  Accreditation  will  be  compulsory  for  TVET  institutions  to  ensure  that  trainees receive acceptable quality of training. In the long run, however, quality of training will be regulated mainly through occupational assessment.
 
@@ -952,9 +937,9 @@ National Technical & Vocational Education and Training Strategy
 
 ### 9.1. Initial and Further Training of TVET Teachers and Instructors
 
-9.1.1 Highly competent, qualified, motivated, flexible and creative TVET teachers and instructors are the backbone of any TVET system, capable of adjusting to changing technological environments and creating conducive learning environments for different target groups. To this end, the Government of Ethiopia is in the process of fundamentally  overhauling  the  system  and  provision  of  TVET  teacher/instructor trainings. The aim of this process is to create a corps of TVET teachers/instructors capable of preparing trainees to successfully pass occupational  assessment. Systematic training, education and further training will be provided for teachers and instructors in the TVET system at all levels in the formal programmes.
+9.1.1 Highly competent, qualified, motivated, flexible and creative TVET teachers and instructors are the backbone of any TVET system, capable of adjusting to changing technological environments and creating conducive learning environments for
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 37 of 52
 
@@ -964,19 +949,21 @@ Page 37 of 52
 
 National Technical & Vocational Education and Training Strategy
 
-9.1.2 To increase the supply with relevant training and further training, TVET teacher training  at  higher  education  institutions  is  currently  being  strengthened  and  new programmes are being developed. Furthermore, new TVET teacher/instructor training faculties or departments will be established at the respective Ethiopian universities.
+different target groups. To this end, the Government of Ethiopia is in the process of fundamentally overhauling the system and provision of TVET teacher/instructor trainings. The aim of this process is to create a corps of TVET teachers/instructors capable of preparing trainees to successfully pass occupational assessment. Systematic training, education and further training will be provided for teachers and instructors in the TVET system at all levels in the formal programmes.
+
+9.1.2 To increase the supply with relevant training and further training, TVET teacher training at higher education institutions is currently being strengthened and new programmes are being developed. Furthermore, new TVET teacher/instructor training faculties or departments will be established at the respective Ethiopian universities.
 
 9.1.3  The  previous  qualification  structure  for  TVET  teachers  will  be  revised  and  a new Bachelor qualification will be introduced. The new qualifications will be based on the professional standards of the engineering and other revised degree programmes and  combined  with  pedagogical,  methodological  and  didactical  modules.  The  new Bachelor programmes will emphasise strengthening practical competences and the appreciation of practical work among TVET teachers/instructors. Frequent internships in industry during the training will be introduced. The modularization of curricula will allow for flexible entry and exit into TVET teacher/instructor trainings.
 
 9.1.4  Access  to  the  TVET  teaching/training  profession  will  be  open  to  those  from various educational and professional backgrounds. Generally, people with technical competences and work experience will become the preferred target group of TVET teachers'/instructors'  training.  Tailor-made  preparatory  and  bridging  courses  will  be offered by Higher Education Institutions to allow different target groups to meet the entry requirements for degree level TVET teacher/instructor training, notably:
 
-- head2right Graduates from the TVET system, preferably after some years of practical work experience,  and  other  skilled  practitioners  from  the  world  of  work  will  be encouraged  to  join  the  TVET  teachers'  and  instructors'  profession.  Bridging courses  for  academic  upgrading  will  be  offered  to  ensure  mobility  with  the higher education  system.  Possibilities of introducing  a  special  academic standard allowing entrance into a range of technical higher education programmes will be explored;
+- Graduates from the TVET system, preferably after some years of practical work experience, and other skilled practitioners from the world of work will be encouraged to join the TVET teachers' and instructors' profession. Bridging courses for academic upgrading will be offered to ensure mobility with the higher education system. Possibilities of introducing a special academic standard allowing entrance into a range of technical higher education programmes will be explored;
 
-- head2right Graduates from TVET programmes and skilled practitioners from the world of work must sit and pass occupational assessment as a precondition to entering TVET teachers'/instructors' training.
+- Graduates from TVET programmes and skilled practitioners from the world of work must sit and pass occupational assessment as a precondition to entering TVET teachers'/instructors' training.
 
-9.1.5  Emphasis  will  be  placed  upon  developing  systematic  further  education  and training  schemes  to  continuously  upgrade  the  competences  of  existing  TVET teachers/instructors  and  to  facilitate  life-long  learning  and  qualification.  Further training will address the entire range of necessary competences, including practical skills,  occupational  theory  and  technology,  as  well  as  pedagogical,  didactical  and methodological competences. Further training will generally be accessible to TVET teachers/instructors from both public and private TVET institutions.
+9.1.5 Emphasis will be placed upon developing systematic further education and training schemes to continuously upgrade the competences of existing TVET teachers/instructors and to facilitate life-long learning and qualification. Further
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 38 of 52
 
@@ -986,7 +973,9 @@ Page 38 of 52
 
 National Technical & Vocational Education and Training Strategy
 
-9.1.6  Tailor-made  further  training  (non-degree)  will  be  made  available  to  TVET instructors without formal qualifications, for example instructors in Community Skills Training Centres (CSTCs), supervisors and trainers in companies, crafts(wo)men and others involved in non-formal TVET provision.
+training will address the entire range of necessary competences, including practical skills, occupational theory and technology, as well as pedagogical, didactical and methodological competences. Further training will generally be accessible to TVET teachers/instructors from both public and private TVET institutions.
+
+9.1.6 Tailor-made further training (non-degree) will be made available to TVET instructors without formal qualifications, for example instructors in Community Skills Training Centres (CSTCs), supervisors and trainers in companies, crafts(wo)men and others involved in non-formal TVET provision.
 
 9.1.7  In  order  to  improve  the  quality  of  TVET  teacher/instructor  initial  and  further training, capacity building programmes for teaching and instructing staff at the TVET teacher/instructor  training  faculties  and  departments  will  be  initiated  immediately. This will include the establishment of TVET research capacities and programmes at the universities, in order to cross-fertilize teaching and research in TVET.
 
@@ -998,15 +987,15 @@ National Technical & Vocational Education and Training Strategy
 
 9.2.0.2 Specific target groups for such human resource development include:
 
-- head2right Members of TVET councils at federal and state levels
+- Members of TVET councils at federal and state levels
 
-- head2right Administrative  staff  and  TVET  executive  bodies  at  federal,  state,  zonal  and woreda levels
+- Administrative staff and TVET executive bodies at federal, state, zonal and woreda levels
 
-- head2right Facilitators of occupational standard setting and assessment item development
+- Facilitators of occupational standard setting and assessment item development
 
-- head2right Assessors in the occupational assessment system
+- Assessors in the occupational assessment system
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 39 of 52
 
@@ -1016,9 +1005,9 @@ Page 39 of 52
 
 National Technical & Vocational Education and Training Strategy
 
-- head2right Heads of TVET institutions
+- Heads of TVET institutions
 
-- head2right Members of TVET institution Management Boards
+- Members of TVET institution Management Boards
 
 ### 9.3. Creating Conducive Work Environment for TVET Staff
 
@@ -1034,9 +1023,9 @@ National Technical & Vocational Education and Training Strategy
 
 10.0.2  A  major  mechanism  to  sustainably  generate  additional  resources  is  to stimulate private  investment in  TVET. In  line with  the  principles  already  outlined  in other sections of this strategy, the TVET system will encourage private investment in TVET institutions and enhanced involvement of companies in TVET. This will include drawing up financial incentives for private investment in TVET.
 
-10.0,3  Another  mechanism  to  improve  the  resource  base  is  cost-saving  through increased  efficiency  in  the  delivery  of  training.  Studies  have  shown  a  substantial potential  for  increasing  efficiency  in  TVET  institutions  by modernizing  management structures and procedures, granting more financial autonomy to the institutions, and increasing  capacity  utilization  in  TVET  institutions,  for  example  through  flexible recruitment  rules.  With  regard  to  public  institutions,  mechanisms  of  performancebased  allocation  of  resources  and  stimulation  of  performance-based  management systems will be explored.
+10.0,3 Another mechanism to improve the resource base is cost-saving through increased efficiency in the delivery of training. Studies have shown a substantial potential for increasing efficiency in TVET institutions by modernizing management structures and procedures, granting more financial autonomy to the institutions, and increasing capacity utilization in TVET institutions, for example through flexible
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 40 of 52
 
@@ -1046,17 +1035,19 @@ Page 40 of 52
 
 National Technical & Vocational Education and Training Strategy
 
-10.0,4  Furthermore,  the  TVET  system  will  encourage  and  strengthen  alternative, more  cost-effective  modes  of  TVET  delivery,  which  will  raise  quality  and  signal  a break  from  the  current  practice  of  TVET  institution-based  training.  Comparative studies in other countries have shown that TVET programmes in which substantial parts of the practical training are delivered in real work environments tend to be less costly.  Therefore,  the  further  development  of  cooperative  TVET  schemes,  notably apprenticeship  programmes,  will  gradually  help  to  decrease  unit  costs  in  TVET. Incentives  will  be  offered  to  those  companies  providing  in-company  or  cooperative TVET.
+recruitment rules. With regard to public institutions, mechanisms of performance-based allocation of resources and stimulation of performance-based management systems will be explored.
+
+10.0,4 Furthermore, the TVET system will encourage and strengthen alternative, more cost-effective modes of TVET delivery, which will raise quality and signal a break from the current practice of TVET institution-based training. Comparative studies in other countries have shown that TVET programmes in which substantial parts of the practical training are delivered in real work environments tend to be less costly. Therefore, the further development of cooperative TVET schemes, notably apprenticeship programmes, will gradually help to decrease unit costs in TVET. Incentives will be offered to those companies providing in-company or cooperative TVET.
 
 10.0.5 In addition to these, which are related to the open and flexible nature of the TVET delivery system, the TVET system will need to diversify its financing sources and mechanisms. The system will need to  generate sufficient  resources  for  public TVET  provision and for the intended reinforcement of its governance and management  structures,  as  well  as  to  develop  necessary  support  services.  This diversification  will  be  approached  in  a  way  that  government  budgetary  allocations and funds provided by foreign  donors are  gradually supplemented by contributions from direct beneficiaries of TVET without putting too much burden.
 
 10.0.6 Incentives will be developed to encourage employers to contribute to the cost of TVET through scholarships, donation of equipment, and other means.
 
-10.0.7 Strengthening  the income-generating  capacities  of TVET  institutions is another way to complement resources required in the TVET system. Existing incomegenerating  activities  (e.g.  the  sale  of  products  produced  by  students,  commercial activities or renting out of facilities) can still be increased by improving management and marketing skills of TVET institution and by easing regulations regarding the use of  generated  funds.  Furthermore,  the  TVET  authorities  may  devise  budgetary procedures  and/or  incentive  schemes  to  encourage  institutions  to  increase  their income generating effort. It must be noted that internal revenue generation shall be the  main  source  of  finance  for  TVET  institutes  and  to  transfer  their  technological development to consumers with continuity.
+10.0.7 Strengthening the income-generating capacities of TVET institutions is another way to complement resources required in the TVET system. Existing income-generating activities (e.g. the sale of products produced by students, commercial activities or renting out of facilities) can still be increased by improving management and marketing skills of TVET institution and by easing regulations regarding the use of generated funds. Furthermore, the TVET authorities may devise budgetary procedures and/or incentive schemes to encourage institutions to increase their income generating effort. It must be noted that internal revenue generation shall be the main source of finance for TVET institutes and to transfer their technological development to consumers with continuity.
 
 10.0.8 Management Boards of TVET institutions will have to supervise, support and monitor income generating activities. This applies to the nature and implementation of  activities,  as  well  as  to  the  use  of  funds.  As  a  general  rule,  income  generating activities should not distract TVET institutions from their core business of TVET.
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 41 of 52
 
@@ -1076,21 +1067,21 @@ National Technical & Vocational Education and Training Strategy
 
 11.1.2 Research capacities will be built at the TVET authorities at federal and state levels  to  identify  research  needs,  to  manage  research  activities  and  to  utilize research  outputs  and  feed  them  back  into  TVET  planning  processes.  Therefore,  a research  unit  will  be  established  in  the  federal  and  in  the  state  TVET  executive bodies in close coordination with other research initiatives in the Ministry of Capacity Building. The mandate of the research units includes:
 
-- head2right Identifying, compiling and managing available information on TVET in their areas of responsibility;
+- Identifying, compiling and managing available information on TVET in their areas of responsibility;
 
-- head2right Making information available to interested stakeholders, i.e. through  publishing research results;
+- Making information available to interested stakeholders, i.e. through publishing research results;
 
-- head2right Ensuring that information is appropriately taken into consideration in all planning and monitoring processes;
+- Ensuring that information is appropriately taken into consideration in all planning and monitoring processes;
 
-- head2right Identifying research needs;
+- Identifying research needs;
 
-- head2right Commissioning research projects to research institutions and supervising such research.
+- Commissioning research projects to research institutions and supervising such research.
 
 11.1.3  These  research  units  will  also  become  the  anchor  points  of  labour  market monitoring for  TVET  and  the  TVET  Management  Information  System  to  be established.
 
-11.1.4  The  TVET  authorities  will  also  take  initiatives  to  strengthen  other  TVET research capacities in Ethiopia,  notably  at those universities  which  are  engaged  in TVET teacher and instructor training and in Centres of Competence. Measures may comprise:
+11.1.4 The TVET authorities will also take initiatives to strengthen other TVET research capacities in Ethiopia, notably at those universities which are engaged in TVET teacher and instructor training and in Centres of Competence. Measures may
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 42 of 52
 
@@ -1099,14 +1090,15 @@ Page 42 of 52
 [[START OF PAGE 43]]
 
 National Technical & Vocational Education and Training Strategy
+comprise:
 
-- head2right Liaising with the higher  education  sector  and  the  concerned  universities, colleges and centres about support to relevant human capacity building;
+- Liaising with the higher education sector and the concerned universities, colleges and centres about support to relevant human capacity building;
 
-- head2right Providing funding for research projects and commissioning research contracts to Ethiopian universities and other research institutions;
+- Providing funding for research projects and commissioning research contracts to Ethiopian universities and other research institutions;
 
-- head2right Ensuring that all TVET research conducted by international experts will be used for  research  capacity  building  within  Ethiopia  by  anchoring  such  research projects to relevant Ethiopian institutions and assigning Ethiopian counterparts to international experts;
+- Ensuring that all TVET research conducted by international experts will be used for research capacity building within Ethiopia by anchoring such research projects to relevant Ethiopian institutions and assigning Ethiopian counterparts to international experts;
 
-- head2right Identifying research needs and priorities and developing a  medium-term research plan to guide Ethiopian research institutions.
+- Identifying research needs and priorities and developing a medium-term research plan to guide Ethiopian research institutions.
 
 ### 11.2. Labour Market Monitoring and -Forecasting
 
@@ -1118,7 +1110,7 @@ National Technical & Vocational Education and Training Strategy
 
 11.2.4  The  research  units  in  the  federal  and  state  TVET  agencies  are  therefore expected to jointly develop a pragmatic and easy to implement concept of continuous labour  market  monitoring  for  TVET  purposes.  This  will  be  based  upon  networking with  stakeholders  and  owners  of  labour  market  information  and  use  the  rich information  base  provided  by  tracer  studies  and  works  with  low-cost  tools  for capturing signals for labour market trends.
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 43 of 52
 
@@ -1138,17 +1130,17 @@ National Technical & Vocational Education and Training Strategy
 
 11.4.1 To monitor the progress of the TVET reform envisaged in this strategy and to identify bottlenecks at an early stage, the TVET executive bodies, together with their stakeholders, will set up a monitoring system that will:
 
-- head2right Translate  the  objectives  of  this  strategy  into  indicators  and  identify  means  of verification for the indicators
+- Translate the objectives of this strategy into indicators and identify means of verification for the indicators
 
-- head2right Ensure  that  indicators  are  aligned  with  other  national  development  indicators, notably indicators defined in PASDEP
+- Ensure that indicators are aligned with other national development indicators, notably indicators defined in PASDEP
 
-- head2right Make sure that relevant information to verify progress is generated through the TMIS
+- Make sure that relevant information to verify progress is generated through the TMIS
 
-- head2right Commission  base-line  studies  if  necessary  and  oversee  subsequent  data updating.
+- Commission base-line studies if necessary and oversee subsequent data updating.
 
 11.4.2 The TVET executive bodies are requested to compile monitoring results in a TVET Progress Report to be submitted and published annually.
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 44 of 52
 
@@ -1166,7 +1158,7 @@ National Technical & Vocational Education and Training Strategy
 
 12.0.3  Another problematic feature of the previous situation  was  that  TVET maintained  privileged  relations  to  the  education  sector,  limiting  its  capacities  to effectively interact with and incorporate the viewpoints of the other sectors it had to respond  to.  Education  is  one  important  stakeholder  of  TVET.  However,  the  TVET system has to equally respond to capacity building needs emerging in sectors such as trade and industry, agriculture, health, labour and social affairs and others. It must also cooperate on equal terms with the business sector which is expected to play a major role in TVET, in particular in quality management  (standard setting, assessment, etc) and TVET delivery. In order to promote all forms of TVET in the country  equally  including  non-formal,  informal,  enterprise-based  and  cooperative programmes, and to respond to the ever and quickly changing requirements of the labour  market,  the  TVET  system  should  be  organized  in  a  way  that  adequately reflects  multi-sector  and  multi-stakeholder  responsiveness,  and  that  provides  for flexible interaction with a variety of public and private organizations.
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 45 of 52
 
@@ -1182,29 +1174,29 @@ National Technical & Vocational Education and Training Strategy
 
 12.0.6  The  Federal  TVET  Agency  is  responsible  for  coordinating  and  steering  all TVET nationwide and for driving the ongoing TVET development. Specific functions and responsibilities include:
 
-- head2right Formulate TVET policy papers and legislation;
+- Formulate TVET policy papers and legislation;
 
-- head2right Develop  rules  and  procedures  for  occupational  standard  setting  and  approve National Occupational Standards;
+- Develop rules and procedures for occupational standard setting and approve National Occupational Standards;
 
-- head2right Develop rules and procedures for occupational assessment, oversee its implementation,  approve  assessment  items  and  instruments,  and  manage assessment item bank;
+- Develop rules and procedures for occupational assessment, oversee its implementation, approve assessment items and instruments, and manage assessment item bank;
 
-- head2right Develop an Ethiopian TVET Qualifications Framework (ETQF) and liaise with the Ministry of  Education  about  the development  of  an  overarching National Qualifications Framework;
+- Develop an Ethiopian TVET Qualifications Framework (ETQF) and liaise with the Ministry of Education about the development of an overarching National Qualifications Framework;
 
-- head2right Develop a TVET Certification system and follow up implementation of same;
+- Develop a TVET Certification system and follow up implementation of same;
 
-- head2right Develop an accreditation system for TVET  institutions and oversee the implementation of same;
+- Develop an accreditation system for TVET institutions and oversee the implementation of same;
 
-- head2right Develop and oversee implementation of a quality management system for TVET;
+- Develop and oversee implementation of a quality management system for TVET;
 
-- head2right Devise a system of labour market monitoring for TVET purposes;
+- Devise a system of labour market monitoring for TVET purposes;
 
-- head2right Develop rules and guidelines for financing TVET;
+- Develop rules and guidelines for financing TVET;
 
-- head2right Facilitate a conducive and stimulating environment for the further development of private TVET provision;
+- Facilitate a conducive and stimulating environment for the further development of private TVET provision;
 
-- head2right Devise strategies for capacity building of public and private TVET provision;
+- Devise strategies for capacity building of public and private TVET provision;
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 46 of 52
 
@@ -1214,41 +1206,41 @@ Page 46 of 52
 
 National Technical & Vocational Education and Training Strategy
 
-- head2right Conduct, commission and oversee all necessary research;
+- Conduct, commission and oversee all necessary research;
 
-- head2right Conduct monitoring and evaluation of the TVET reform;
+- Conduct monitoring and evaluation of the TVET reform;
 
-- head2right Oversee  the  implementation  of  technical  teacher/instructor  initial  and  further training  and  advise  the  Ministry  of  Education  in  all  aspects  related  to  the development  and  implementation  of  technical  teachers'  training  and  further training;
+- Oversee the implementation of technical teacher/instructor initial and further training and advise the Ministry of Education in all aspects related to the development and implementation of technical teachers' training and further training;
 
-- head2right Manage potential conflicts among the different stakeholders in the TVET system;
+- Manage potential conflicts among the different stakeholders in the TVET system;
 
-- head2right Assist the state TVET executive bodies in the fulfilment of their duties;
+- Assist the state TVET executive bodies in the fulfilment of their duties;
 
-- head2right Conduct  all  other  activities  necessary  to  foster  the  further  development  of demand-oriented, relevant and accessible TVET.
+- Conduct all other activities necessary to foster the further development of demand-oriented, relevant and accessible TVET.
 
 NOTE: The Federal TVET Agency may delegate some of its responsibilities to the state TVET executive bodies.
 
 12.0.7 The Federal TVET Council, which is the governing body of the Federal TVET Agency, needs to reflect the wide range of stakeholders, beneficiaries and social and economic interests in the country. It will, therefore, be comprised of all relevant public and  non-public  stakeholders,  in  particular  representatives  of  public  and  private employers, the private business sector (chambers and private sector associations), public,  NGO  and  private  TVET  providers,  representatives  of  employees  (trade unions), farmers, representatives of rural off-farm activities, women's representatives, representatives  of  the  Civil  Society  and  NGOs,  and  professional  associations.  The federal government will be represented in the Council by the following:
 
-- head2right Ministry of Education,
+- Ministry of Education,
 
-- head2right Ministry of Capacity Building,
+- Ministry of Capacity Building,
 
-- head2right Ministry of Labour and Social Affairs,
+- Ministry of Labour and Social Affairs,
 
-- head2right Ministry of Agriculture and Rural Development,
+- Ministry of Agriculture and Rural Development,
 
-- head2right Ministry of Trade and Industry,
+- Ministry of Trade and Industry,
 
-- head2right Ministry of Health,
+- Ministry of Health,
 
-- head2right Ministry of Youth and Sports,
+- Ministry of Youth and Sports,
 
-- head2right Ministry of Finance and Economic Development,
+- Ministry of Finance and Economic Development,
 
-- head2right Ministry of Works & Urban Development
+- Ministry of Works & Urban Development
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 47 of 52
 
@@ -1258,9 +1250,9 @@ Page 47 of 52
 
 National Technical & Vocational Education and Training Strategy
 
-- head2right Ministry of Water Resources
+- Ministry of Water Resources
 
-- head2right Ministry of Women Affairs.
+- Ministry of Women Affairs.
 
 Furthermore,  the  Federal  TVET  Council  will  include  members  representing  state TVET executive bodies. Overall, the membership of the council will have a fair and proportional representation of both public and non-public organizations. The Chairperson and other members of the council will be appointed by the Council of Ministers.
 
@@ -1280,9 +1272,9 @@ Federal TVET Council
 
 12.0.10  At  state  level  similar  institutional  set-ups,  depending  on  the  particular situation  of  the  states,  will  be  established  or  further  developed  in  order  to  oversee and implement the state functions in the TVET system. Specifically, the state TVET executive bodies will:
 
-- head2right Formulate  state  TVET  policy  papers,  legislation  and  prepare  state  TVET development plans
+- Formulate state TVET policy papers, legislation and prepare state TVET development plans
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 48 of 52
 
@@ -1292,41 +1284,41 @@ Page 48 of 52
 
 National Technical & Vocational Education and Training Strategy
 
-- head2right Ensure  an  appropriate  coordination  of  the  state  TVET  system  with  other  state development sectors
+- Ensure an appropriate coordination of the state TVET system with other state development sectors
 
-- head2right Organise quality management  in the regions, including oversight of the implementation of occupational assessment and certification
+- Organise quality management in the regions, including oversight of the implementation of occupational assessment and certification
 
-- head2right Accredit TVET providers in the region
+- Accredit TVET providers in the region
 
-- head2right Conduct labour market monitoring at the state levels and ensure that its results are used for state TVET planning
+- Conduct labour market monitoring at the state levels and ensure that its results are used for state TVET planning
 
-- head2right Develop state rules and guidelines for financing TVET
+- Develop state rules and guidelines for financing TVET
 
-- head2right Facilitate a conducive and stimulating environment to the further development of private TVET provision in the region
+- Facilitate a conducive and stimulating environment to the further development of private TVET provision in the region
 
-- head2right Provide capacity building for TVET institutions
+- Provide capacity building for TVET institutions
 
-- head2right Plan and oversee the public TVET provision in the region
+- Plan and oversee the public TVET provision in the region
 
-- head2right Develop state specific occupational standards
+- Develop state specific occupational standards
 
-- head2right Implement  occupational  assessment  and  certification  on  behalf  of  the  Federal TVET Agency
+- Implement occupational assessment and certification on behalf of the Federal TVET Agency
 
-- head2right Develop appropriate strategies to involve employers into the state TVET system
+- Develop appropriate strategies to involve employers into the state TVET system
 
-- head2right Conduct, commission and oversee necessary research
+- Conduct, commission and oversee necessary research
 
-- head2right Manage potential conflicts among the different stakeholders in the TVET system
+- Manage potential conflicts among the different stakeholders in the TVET system
 
-- head2right Define  responsibilities  of  TVET  authorities  at  zonal  and  woreda  level,  and support zonal and woreda TVET authorities
+- Define responsibilities of TVET authorities at zonal and woreda level, and support zonal and woreda TVET authorities
 
-- head2right Monitor the implementation of TVET at state level
+- Monitor the implementation of TVET at state level
 
-- head2right Conduct  all  other  activities  necessary  to  foster  the  further  development  of demand-oriented, relevant and accessible TVET in the region
+- Conduct all other activities necessary to foster the further development of demand-oriented, relevant and accessible TVET in the region
 
-12.0.11  The  state  TVET  authorities  should  comprise  of  governing  State  TVET Council  including  all  relevant  TVET  stakeholders  in  the  region,  and  a  state  TVET executive body  as  the executive  organ of the authority to be in charge  of implementing  day-to-day  activities.  Terms  of  References,  functions,  responsibilities and structure of the state TVET authorities will be defined by the state governments in  accordance with the principles of this strategy and the relevant legal documents. State governments are also encouraged to develop their own State TVET Strategies to  ensure that  the  National  TVET Strategy  is  customized  in line  with  specific  state economic and labour market patterns.
+12.0.11 The state TVET authorities should comprise of governing State TVET Council including all relevant TVET stakeholders in the region, and a state TVET executive body as the executive organ of the authority to be in charge of implementing day-to-day activities. Terms of References, functions, responsibilities and structure of the state TVET authorities will be defined by the state governments
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 49 of 52
 
@@ -1336,7 +1328,9 @@ Page 49 of 52
 
 National Technical & Vocational Education and Training Strategy
 
-12.0.12  In  line  with  the  conceptual  principle  of  decentralization,  major  operational responsibilities  will  be  gradually  devolved  to  TVET  institutions.  In  the  future,  it  is envisaged that public TVET institutions will be autonomous - within the framework of the  federal  laws  for  public  institutions  -  with  respect  to  financial  management, designing and planning of TVET  programmes,  adjustment of curricula. This increased responsibility will require strong and powerful leadership and supervision in order to avoid misuse of public funds and institutional planning in line with local social and labour market conditions. Therefore, TVET institution Management Boards will be formed for all  public  TVET institutions to  be comprised  of the  major public  and private stakeholders in the institutions' catchments area representing local businesspeople, NGOs, micro-finance enterprises, civil society, and the relevant local government authorities including agriculture, education, trade and industry (regional medium and small enterprise  development  agency),  and  others.  The  Management Boards  will  have  an  oversight  responsibility  and  must  approve  the  institution's budgets,  activity  plans  and  annual  reports,  in  addition  to  rendering  comprehensive advice  on  all  issues  related  to  management  and  TVET  implementation  in  the institutions. The management boards will be appointed by the authority of the TVET institution and will report to this authority.
+in accordance with the principles of this strategy and the relevant legal documents. State governments are also encouraged to develop their own State TVET Strategies to ensure that the National TVET Strategy is customized in line with specific state economic and labour market patterns.
+
+12.0.12 In line with the conceptual principle of decentralization, major operational responsibilities will be gradually devolved to TVET institutions. In the future, it is envisaged that public TVET institutions will be autonomous - within the framework of the federal laws for public institutions - with respect to financial management, designing and planning of TVET programmes, adjustment of curricula. This increased responsibility will require strong and powerful leadership and supervision in order to avoid misuse of public funds and institutional planning in line with local social and labour market conditions. Therefore, TVET institution Management Boards will be formed for all public TVET institutions to be comprised of the major public and private stakeholders in the institutions' catchments area representing local businesspeople, NGOs, micro-finance enterprises, civil society, and the relevant local government authorities including agriculture, education, trade and industry (regional medium and small enterprise development agency), and others. The Management Boards will have an oversight responsibility and must approve the institution's budgets, activity plans and annual reports, in addition to rendering comprehensive advice on all issues related to management and TVET implementation in the institutions. The management boards will be appointed by the authority of the TVET institution and will report to this authority.
 
 ## 13. Awareness Creation about TVET
 
@@ -1344,7 +1338,7 @@ National Technical & Vocational Education and Training Strategy
 
 13.0.2  Therefore,  TVET  authorities  together  with  their  stakeholders,  in  particular business  organisations,  will  invest  in  public  awareness  campaigns  to  make  the involved stakeholders and the general public aware that the TVET system is now on its  way  to  facilitate  high  quality  TVET  programmes  and  occupational  qualifications based on the needs of the labour market; open to all target groups in both the urban and  rural  areas;  and  with  clear  opportunities  for  personal  career  advancement.
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 50 of 52
 
@@ -1360,11 +1354,11 @@ Special efforts will be directed to create awareness and ownership for TVET amon
 
 ## 14.  Managing International Cooperation
 
-14.0.1  The  process  of  TVET  requires  the  successful  implementation  of  substantial expertise and resources. The Ethiopian Government therefore invites its cooperating partners  to  continue  and  increase  their  financial  and  technical  assistance  to  the TVET sector. However, cooperation projects must support the demandresponsiveness of TVET and must subscribe to the objectives and principles outlined in this document.
+14.0.1  The  process  of  TVET  requires  the  successful  implementation  of  substantial expertise and resources. The Ethiopian Government therefore invites its cooperating partners  to  continue  and  increase  their  financial  and  technical  assistance  to  the TVET sector. However, cooperation projects must support the demand-responsiveness of TVET and must subscribe to the objectives and principles outlined in this document.
 
 14.0.2  The  TVET  executive  bodies  at  federal  and  state  levels  will  ensure  that  all official  bilateral  and  multilateral  cooperation  will  be  coordinated  and  that  planned activities are geared towards the achievement of the objectives of this Strategy and integrated  in  the  annual  and  mid-term  activity  plans.  Appropriate  mechanisms  for donor cooperation will be organized to ensure coordinated approaches and to avoid duplicating or conflicting activities. Monitoring systems of cooperation projects in the TVET sector have to be aligned with the national TVET monitoring system.
 
-22 August 2008 /  2 nd Edition
+22 August 2008 / 2nd Edition
 
 Page 51 of 52
 
@@ -1374,11 +1368,7 @@ Page 51 of 52
 
 National Technical & Vocational Education and Training Strategy
 
-22 August 2008 /  2
-
-nd
-
-Edition
+22 August 2008 / 2nd Edition
 
 Page 52 of 52
 
