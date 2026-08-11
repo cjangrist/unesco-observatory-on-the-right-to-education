@@ -14,7 +14,8 @@
 
 # ON EDUCATION OF PERSONS WITH PECULIAR PSYCHOPHYSICAL DEVELOPMENT (SPECIAL EDUCATION)
 
-Passed by the House of Representatives Approved by the Council of the Republic on April 7, 2004 on April 29, 2004
+Passed by the House of Representatives on April 7, 2004
+Approved by the Council of the Republic on April 29, 2004
 
 This  Law determines the legal,  economic,  social,  and  organizational  basis  of  special  education,  and  is aimed at creation of necessary conditions for getting education by persons with peculiar psychophysical development, as well as for social adaptation and integration of such persons into the society.
 
@@ -174,7 +175,7 @@ social adaptation and integration of the mentioned persons into the society, inc
 
 ### Article 9. Scientific and Methodological Support of Special Education System
 
-- Scientific and methodological support of the special education system includes textbooks, manuals, methodological teaching facilities, training aids, tests and educational technologies, methodologicalteaching and information-analytical materials.
+- Scientific and methodological support of the special education system includes textbooks, manuals, methodological teaching facilities, training aids, tests and educational technologies, methodological-teaching and information-analytical materials.
 
 - Institutions,  structural  units  that  carry  out  scientific  and  methodological  support  of  the  special education system, and their functions shall be specified by the Ministry of Education of the Republic of Belarus.
 
@@ -190,7 +191,7 @@ social adaptation and integration of the mentioned persons into the society, inc
 
 - Admission  of  persons  with  peculiar  psychophysical  development  to  the  establishments  ensuring vocational,  specialized  secondary,  higher  and  post-graduate  education  shall  be  carried  out  in conformity  with  the  rules  of  admission  approved  according  to  the  procedures  established  by  the legislation, taking into account the List of Indications and Counter-Indications related to occupations and professions as approved by the Ministry of Health of the Republic of Belarus.
 
-- When admitting persons with peculiar psychophysical development to the establishments  ensuring vocational, specialized secondary, higher and post-graduate education, special conditions for passing entrance  examinations  shall  be  created  (deaf-and-damp  translation/interpretation,  use  of  technical
+- When admitting persons with peculiar psychophysical development to the establishments ensuring vocational, specialized secondary, higher and post-graduate education, special conditions for passing entrance examinations shall be created (deaf-and-dumb translation/interpretation, use of technical
 
 5 of 16
 
@@ -198,7 +199,7 @@ social adaptation and integration of the mentioned persons into the society, inc
 
 [[START OF PAGE 6]]
 
-- social rehabilitation aids, etc.). Such conditions created for the persons with peculiar psychophysical development shall be preserved during centralized testing.
+social rehabilitation aids, etc.). Such conditions created for the persons with peculiar psychophysical development shall be preserved during centralized testing.
 
 - Move of children with peculiar psychophysical development from one establishment ensuring special education in the pre-school, general basic, general secondary educational levels to another educational  establishment  of  the  appropriate  level  shall  be  carried  out  by  consent  of  their  lawful representatives  on  the  basis  of  decision  made  by  the  governmental  Correction  and  Development Training and Rehabilitation Center and in agreement with the local executive and administrative body located  in  the  same  district  with  the  admitting  educational  establishment,  in  accordance  with  the procedures established by the Ministry of Education of the Republic of Belarus.
 
@@ -476,7 +477,7 @@ Special  pre-school  institutions  shall  be  opened  for  education  and  train
 
 [[START OF PAGE 12]]
 
-- home  education  in  the  levels  of  pre-school,  general  basic,  general  secondary  and  vocational education,
+home education in the levels of pre-school, general basic, general secondary and vocational education,
 
 - List of indications to education at home, procedure of arranging at-home education shall be specified by the Ministry of Education of the Republic of Belarus as agreed with the Ministry of Health of the Republic of Belarus, Ministry of Labour and Social Security of the Republic of Belarus.
 
@@ -628,6 +629,10 @@ Material and technical basis of establishments ensuring special education shall 
 
 [[START OF PAGE 16]]
 
+# Part 8
+
+## FINAL PROVISIONS
+
 ### Article 37. Coming into Effect
 
 - This Law shall come into effect from the day of its official publication.
@@ -638,25 +643,21 @@ Material and technical basis of establishments ensuring special education shall 
 
 The Council of Ministers of the Republic of Belarus, within six months from the date when this Law comes into effect, shall:
 
--prepare  and  submit  in  accordance  with  established  procedure  its  proposals  aimed  at  bringing legislative acts of the Republic of Belarus to conformity with this Law;
+- prepare and submit in accordance with established procedure its proposals aimed at bringing legislative acts of the Republic of Belarus to conformity with this Law;
 
--bring resolutions of the Government of the Republic of Belarus to conformity with this Law;
+- bring resolutions of the Government of the Republic of Belarus to conformity with this Law;
 
--provide for revision and abrogation by the republican bodies subordinate to the Council of Ministers of the Republic of Belarus of their legal standard acts conflicting with this Law;
+- provide for revision and abrogation by the republican bodies subordinate to the Council of Ministers of the Republic of Belarus of their legal standard acts conflicting with this Law;
 
--take other measures providing for observance of this Law.
+- take other measures providing for observance of this Law.
 
-President of the Republic of Belarus
+President
+of the Republic of Belarus A. Lukashenko
 
-May 18, 2004 No. 285-3
+May 18, 2004
+No. 285-3
 
-I, the undersigned, Svetlana I. Roussanova, a certified translator of the Professional Translators and Interpreters' Guild, declare that the translation of the present document is to the best of my knowledge and belief a true and faithful  rendering  of  the  original  in  Russian  and  Belarusian,  done  to  the  best  of  my  ability  as  a  professional translator of Russian, Belarusian and English.
-
-# Part 8
-
-## FINAL PROVISIONS
-
-A. Lukashenko
+I, the undersigned, Svetlana I. Roussanova, a certified translator of the Professional Translators and Interpreters' Guild, declare that the translation of the present document is to the best of my knowledge and belief a true and faithful rendering of the original in Russian and Belarusian, done to the best of my ability as a professional translator of Russian, Belarusian and English.
 
 16 of 16
 
