@@ -18,7 +18,7 @@ En   1994, se conformó un grupo multisectorial (maestros, líderes indígenas, 
 
 En 2001, Maestros Indígenas, líderes políticos y religiosos, representantes del MEC y otras entidades de apoyo analizaron el Estatuto del Educador, Ley 1725 que no contempla las realidades de las escuelas indígenas y ponen en riesgo los puestos de trabajo de los maestros indígenas.  El mismo año se hizo "Primer Congreso de Educación Indígena". Fuera de los intercambios de las experiencias en el campo de educación indígena, uno de los pedidos de los participantes en el Congreso, de promover como Supervisor de Educación Indígena a Marciano Cruzabie.
 
-En junio de 2003, se realizó un Taller de Consulta Indígena sobre el Anteproyecto de ley  'Que  crea la Dirección General de Educación Escolar Indígena' para iniciar un proceso de  elaboración de una legislación sobre educación indígena. Resultado de este Taller de Consulta era un borrador de anteproyecto de ley de educación indígena elaborado por maestros indígenas, líderes políticos y religiosos y se acuerdó capacitar y nombrar a un equipo de seguimiento en educación cívica y política para la elaboración de una nueva redacción. En esta ocasión se les invitó  al MEC, técnicos/as, supervisores, INDI, organizaciones no gubernamentales que trabajan con los pueblos indígenas, etc. También se eligió 20 representantes indígenas de las dos regiones para hacer seguimiento al anteproyecto de Ley. Este grupo de maestros, desde entonces se estaba reundiendo frecuentemente para capacitarse y defender sus derechos en el Parlamento.
+En junio de 2003, se realizó un Taller de Consulta Indígena sobre el Anteproyecto de ley  “Que  crea la Dirección General de Educación Escolar Indígena” para iniciar un proceso de  elaboración de una legislación sobre educación indígena. Resultado de este Taller de Consulta era un borrador de anteproyecto de ley de educación indígena elaborado por maestros indígenas, líderes políticos y religiosos y se acuerdó capacitar y nombrar a un equipo de seguimiento en educación cívica y política para la elaboración de una nueva redacción. En esta ocasión se les invitó  al MEC, técnicos/as, supervisores, INDI, organizaciones no gubernamentales que trabajan con los pueblos indígenas, etc. También se eligió 20 representantes indígenas de las dos regiones para hacer seguimiento al anteproyecto de Ley. Este grupo de maestros, desde entonces se estaba reundiendo frecuentemente para capacitarse y defender sus derechos en el Parlamento.
 
 El 11 de  marzo del 2004 el Diputado Nacional Gonzáles  Drakeford  presentó al parlamento un proyecto de ley de educación indígena, el mismo constituye una copia  del proyecto de ley  presentado durante el Taller de Consulta.
 
@@ -30,7 +30,8 @@ A pesar de las presentaciones de la nueva redacción,  por grupo de maestros ind
 
 # TEXTO DE LA LEY N° 3231/2007 - QUE CREA LA DIRECCIÓN GENERAL DE EDUCACIÓN ESCOLAR INDÍGENA
 
-PODER  LEGISLATIVO ' LEY N° 3231/2007
+PODER LEGISLATIVO
+LEY N° 3231/2007
 
 QUE CREA LA DIRECCIÓN GENERAL DE EDUCACIÓN ESCOLAR INDÍGENA. EL CONGRESO DE LA NACION PARAGUAYA SANCIONA CON FUERZA DE LEY:
 
@@ -40,10 +41,10 @@ QUE CREA LA DIRECCIÓN GENERAL DE EDUCACIÓN ESCOLAR INDÍGENA. EL CONGRESO DE L
 La presente Ley reconoce y garantiza el respeto y el valor de la existencia de la educación indígena. Todos los miembros de los pueblos y las comunidades indígenas tienen garantizada una educación inicial, escolar básica y media acorde a sus derechos, costumbres y tradiciones, con la finalidad de fortalecer su cultura y posibilitar su participación activa en la sociedad.
 
 ### Artículo 2º.-
-Todos los miembros de las comunidades indígenas gozan de sus derechos consagrados en la Constitución Nacional, la Ley Nº 234/93 'QUE APRUEBA EL CONVENIO Nº 169 SOBRE PUEBLOS INDIGENAS Y TRIBALES EN PAISES INDEPENDIENTES, ADOPTADO DURANTE LA 76ª. CONFERENCIA INTERNACIONAL DEL TRABAJO, CELEBRADA EN GINEBRA EL 7 DE JUNIO DE 1989', la Ley Nº 904/81 'ESTATUTO DE LAS COMUNIDADES INDÍGENAS', y la Ley Nº 1264/98 'GENERAL DE EDUCACIÓN'.
+Todos los miembros de las comunidades indígenas gozan de sus derechos consagrados en la Constitución Nacional, la Ley Nº 234/93 “QUE APRUEBA EL CONVENIO Nº 169 SOBRE PUEBLOS INDIGENAS Y TRIBALES EN PAISES INDEPENDIENTES, ADOPTADO DURANTE LA 76ª. CONFERENCIA INTERNACIONAL DEL TRABAJO, CELEBRADA EN GINEBRA EL 7 DE JUNIO DE 1989”, la Ley Nº 904/81 “ESTATUTO DE LAS COMUNIDADES INDÍGENAS”, y la Ley Nº 1264/98 “GENERAL DE EDUCACIÓN”.
 
 ### Artículo 3º.-
-El Estado garantiza el derecho de los pueblos indígenas a que puedan aplicar sus pautas culturales y formas de enseñanza en relación armónica a lo dispuesto en la Ley Nº 1264/98 'GENERAL DE EDUCACIÓN'.
+El Estado garantiza el derecho de los pueblos indígenas a que puedan aplicar sus pautas culturales y formas de enseñanza en relación armónica a lo dispuesto en la Ley Nº 1264/98 “GENERAL DE EDUCACIÓN”.
 
 ### Artículo 4º.-
 A través de la presente Ley se crea y establece una estructura dentro del Ministerio de Educación y Cultura, desde donde se delinean las políticas educativas de los pueblos indígenas y que posibiliten el cumplimiento de la legislación vigente.
@@ -74,13 +75,9 @@ El sistema de educación escolar indígena en cuanto a la enseñanza nacional, d
 
 - currículo y programas;
 
-- metodología específicas del proceso de enseñanza-aprendizaje de la educación escolar indígena; y,
+- metodología específicas del proceso de enseñanza–aprendizaje de la educación escolar indígena; y,
 
-- centros para la formación, especialización y capacitación de docentes indígenas que funcionen
-
-- especialmente en zonas geográficas y culturales indígenas, tal como lo establecen los Artículos 21 y 22 del 'CONVENIO Nº 169 SOBRE PUEBLOS INDÍGENAS Y TRIBALES EN PAÍSES INDEPENDIENTES,
-
-- ADOPTADO DURANTE LA 76ª. CONFERENCIA INTERNACIONAL DEL TRABAJO, CELEBRADA EN GINEBRA EL 7 DE JUNIO DE 1989', aprobado por la Ley N° 234/93.
+- centros para la formación, especialización y capacitación de docentes indígenas que funcionen especialmente en zonas geográficas y culturales indígenas, tal como lo establecen los Artículos 21 y 22 del “CONVENIO Nº 169 SOBRE PUEBLOS INDÍGENAS Y TRIBALES EN PAÍSES INDEPENDIENTES, ADOPTADO DURANTE LA 76ª. CONFERENCIA INTERNACIONAL DEL TRABAJO, CELEBRADA EN GINEBRA EL 7 DE JUNIO DE 1989”, aprobado por la Ley N° 234/93.
 
 ## CAPÍTULO III DE LA EDUCACIÓN ESCOLAR
 
@@ -116,7 +113,7 @@ Las escuelas indígenas tendrán currículum elaborado de acuerdo con las especi
 ## CAPÍTULO IV DE LA FORMACIÓN DOCENTE
 
 ### Artículo 8º.-
-Se crearán centros de formación, especialización y capacitación de docentes indígenas, tal como lo establecen los Artículos 21 y 22, del 'CONVENIO Nº 169 SOBRE PUEBLOS INDÍGENAS Y TRIBALES EN PAÍSES INDEPENDIENTES, ADOPTADO DURANTE LA 76ª. CONFERENCIA INTERNACIONAL DEL TRABAJO, CELEBRADA EN GINEBRA EL 7 DE JUNIO DE 1989', aprobado por Ley Nº 234/93, especialmente en zonas geográficas específicas y culturales indígenas.
+Se crearán centros de formación, especialización y capacitación de docentes indígenas, tal como lo establecen los Artículos 21 y 22, del “CONVENIO Nº 169 SOBRE PUEBLOS INDÍGENAS Y TRIBALES EN PAÍSES INDEPENDIENTES, ADOPTADO DURANTE LA 76ª. CONFERENCIA INTERNACIONAL DEL TRABAJO, CELEBRADA EN GINEBRA EL 7 DE JUNIO DE 1989”, aprobado por Ley Nº 234/93, especialmente en zonas geográficas específicas y culturales indígenas.
 
 Se realizarán cursos, reuniones y encuentros de capacitación de maestros    indígenas para evaluar los trabajos escolares y compartir experiencias.
 
@@ -135,7 +132,7 @@ La Dirección General de Educación Escolar Indígena contará con la siguiente 
 
 #### A. Consejo Nacional de Educación Indígena
 
-Instancia de coordinación del Sistema de Educación Indígena Nacional. '
+Instancia de coordinación del Sistema de Educación Indígena Nacional.
 
 ##### Estructura
 
@@ -215,7 +212,7 @@ Comuníquese al Poder Ejecutivo.
 
 Aprobado el Proyecto de Ley por la Honorable Cámara de Diputados, a los catorce días del mes de diciembre del año dos mil seis, y por la Honorable Cámara de Senadores, a los treinta y un dias del mes de mayo del año dos mil siete, quedando sancionado el mismo, de conformidad con lo dispuesto en el Artículo 211 de la Constitución Nacional.
 
-Víctor Alcides Bogado González    Enrique González Quintan
+Víctor Alcides Bogado González    Enrique González Quintana
 
 Presidente                                        Presidente
 
