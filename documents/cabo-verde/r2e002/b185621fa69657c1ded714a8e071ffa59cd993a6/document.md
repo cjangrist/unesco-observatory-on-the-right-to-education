@@ -1,6 +1,8 @@
 [[START OF PAGE 1]]
 
-# S Si is st te em ma a   d de e   a av va al li ia aç çã ão o Ensino Básico
+# Sistema de avaliação
+
+Ensino Básico
 
 Decreto-Lei nº 43/2003 de 27 de Outubro
 
@@ -98,7 +100,7 @@ Página 3 de 11
 
 A  avaliação  tem  as  seguintes  modalidades,  as  quais  devem  harmonizar-se  de  forma  a contribuírem para o sucesso dos alunos e a qualidade do sistema de ensino, sendo elas:
 
-- Avaliação Diagnostica;
+- Avaliação Diagnóstica;
 
 - Avaliação Formativa;
 
@@ -108,7 +110,7 @@ A  avaliação  tem  as  seguintes  modalidades,  as  quais  devem  harmonizar-s
 
 # Artigo 8° (Avaliação diagnóstica)
 
-- A  avaliação  diagnóstica  é  aplicada  pelos  professores  com  o  fim  de  averiguar  a posição  do  aluno  face  às  aprendizagens  anteriores  que  servem  de  base  (prérequisitos) para a aquisição de outras no sentido de prever as dificuldades futuras e, em certos casos, resolver situações presentes. Esta modalidade é aplicada antes de iniciar uma nova unidade ou ciclo de aprendizagem. Os resultados desta avaliação deverão  ser  obtidos  por  objectivos,  não  fazendo  sentido  a  atribuição  de  uma classificação.
+- A avaliação diagnóstica é aplicada pelos professores com o fim de averiguar a posição do aluno face às aprendizagens anteriores que servem de base (pré-requisitos) para a aquisição de outras no sentido de prever as dificuldades futuras e, em certos casos, resolver situações presentes. Esta modalidade é aplicada antes de iniciar uma nova unidade ou ciclo de aprendizagem. Os resultados desta avaliação deverão ser obtidos por objectivos, não fazendo sentido a atribuição de uma classificação.
 
 - A  aplicação  desta  modalidade  é  de  responsabilidade  conjunta  do  professor,  em diálogo com os alunos e com os órgãos de orientação técnico/pedagógica.
 
@@ -140,7 +142,7 @@ Página 4 de 11
 
 - A  Avaliação  Sumativa  compreende  a  Avaliação  Sumativa  interna  e  a  Avaliação Sumativa externa.
 
-- A  Avaliação  Sumativa  Interna  é  da  responsabilidade  conjunta  do  professor  e  do Núcleo  Pedagógico  do  Pólo,  sob  a  orientação  da  delegação  concelhia  do departamento governamental responsável pela educação, e destina-se a informar ao  aluno,  aos  encarregados  de  educação,  e  aos  órgãos  directivos  da  escola  do cumprimento  dos  objectivos  curriculares  e  a  fundamentar  a  tornada  de  decisões sobre o percurso escolar do aluno.
+- A Avaliação Sumativa Interna é da responsabilidade conjunta do professor e do Núcleo Pedagógico do Pólo, sob a orientação da delegação concelhia do departamento governamental responsável pela educação, e destina-se a informar ao aluno, aos encarregados de educação, e aos órgãos directivos da escola do cumprimento dos objectivos curriculares e a fundamentar a tomada de decisões sobre o percurso escolar do aluno.
 
 - A  Avaliação  Sumativa  Interna  consiste  na  realização  de  testes  escritos  e  ou  orais, trabalhos de pesquisa e outros trabalhos, organizados pelos professores e coordenadores das disciplinas, aplicados a nível da escola tanto nas disciplinas de carácter anual como bianual.
 
@@ -152,7 +154,7 @@ Página 4 de 11
 
 (Avaliação Aferida)
 
-- A avaliação aferida não tem efeitos na classificação ou na progressão escolar dos alunos.  E  aplicada  pela  Direcção  Geral  do  Ensino  Secundário  ou  por  outras entidades competentes designadas para o efeito, pelo Ministério da Educação, com o fim de controlar a qualidade do ensino e contribuir para a adequação de medidas de política educativa a adoptar.
+- A avaliação aferida não tem efeitos na classificação ou na progressão escolar dos alunos. É aplicada pela Direcção Geral do Ensino Secundário ou por outras entidades competentes designadas para o efeito, pelo Ministério da Educação, com o fim de controlar a qualidade do ensino e contribuir para a adequação de medidas de política educativa a adoptar.
 
 - Esta modalidade pode ser aplicada a nível local ou nacional e é realizada através de  provas  elaborados  por  especialistas  os  quais  devem  ser  aferidos  a  critérios decorrentes dos objectivos do ensino, com base em padrões comuns no domínio dos saberes e aptidões.
 
@@ -288,7 +290,7 @@ Página 7 de 11
 
 (Critério de aprovação na 1ª fase)
 
-- O  aluno  fica  aprovado,  sob  pena  de  retenção,  no  final  da  ia  fase  se  obtiver  a classificação final igual ou superior a Suficiente nas duas disciplinas nucleares:
+- O aluno fica aprovado, sob pena de retenção, no final da 1ª fase se obtiver a classificação final igual ou superior a Suficiente nas duas disciplinas nucleares:
 
 - Língua Portuguesa;
 
@@ -304,7 +306,7 @@ Página 8 de 11
 
 # Artigo 24°
 
-(Avaliação da 2ª e 3° fases)
+(Avaliação da 2ª e 3ª fases)
 
 - O efeito da avaliação no primeiro ano da 2ª e 3ª fases é, em regra, a progressão dos alunos no fim do ano.
 
@@ -312,9 +314,9 @@ Página 8 de 11
 
 # Artigo 25°
 
-(Progressão ou retenção na 2ª e 3a fases)
+(Progressão ou retenção na 2ª e 3ª fases)
 
-- No final do primeiro ano da 2a e 3ª fases, o professor classifica os alunos com base na síntese das  informações  dos  três  trimestres  do  ano,  de  forma  quantitativa  e qualitativa, nas disciplinas de Língua Portuguesa, Matemática, Ciências Integradas e Expressões Físico - Motora, Plástica e Musical.
+- No final do primeiro ano da 2ª e 3ª fases, o professor classifica os alunos com base na síntese das informações dos três trimestres do ano, de forma quantitativa e qualitativa, nas disciplinas de Língua Portuguesa, Matemática, Ciências Integradas e Expressões Físico - Motora, Plástica e Musical.
 
 - Com base na classificação, o professor decide sobre a progressão ou a retenção do aluno.
 
@@ -338,7 +340,7 @@ Página 8 de 11
 
 # Artigo 28°
 
-(Provas Finais na 2a e 3a fases)
+(Provas Finais na 2ª e 3ª fases)
 
 - No fim do 3° trimestre do 2° ano da 2ª e 3ª fases é aplicada ao aluno uma prova final nas disciplinas de Língua Portuguesa, Matemática e Ciências Integradas.
 
@@ -420,7 +422,7 @@ Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros.
 
-José Maria Pereira Neves Victor Manuel Barbosa Borges.
+José Maria Pereira Neves — Victor Manuel Barbosa Borges.
 
 Promulgado em 13 de Outubro de 2003.
 
