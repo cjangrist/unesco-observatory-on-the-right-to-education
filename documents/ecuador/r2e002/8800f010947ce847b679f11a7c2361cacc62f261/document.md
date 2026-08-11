@@ -37,6 +37,8 @@ Todos los niños, niñas y adolescentes son iguales ante la ley y no serán disc
 ##### Art. 7.- Niños, niñas y adolescentes, indígenas y afroecuatorianos.-
 La ley reconoce y garantiza el  derecho  de  los  niños,  niñas  y  adolescentes  de  nacionalidades  indígenas  y  afroecuatorianos,  a desarrollarse de acuerdo a su cultura y en un marco de interculturalidad, conforme a lo dispuesto en la Constitución Política de la República, siempre que las prácticas culturales no conculquen sus derechos.
 
+### TITULO II PRINCIPIOS FUNDAMENTALES
+
 ##### Art.  8.-  Corresponsabilidad  del  Estado,  la  sociedad  y  la  familia.-
 Es  deber  del  Estado,  la sociedad y la familia, dentro de sus respectivos ámbitos, adoptar las medidas políticas, administrativas, económicas,  legislativas,  sociales  y  jurídicas  que  sean  necesarias  para  la  plena  vigencia,  ejercicio efectivo, garantía, protección  y exigibilidad de  la  totalidad  de  los  derechos  de  niños;  niñas  y adolescentes.
 
@@ -83,11 +85,13 @@ Las normas del ordenamiento jurídico, las cláusulas y estipulaciones de los ac
 #### Capítulo I Disposiciones generales
 
 ##### Art. 15.- Titularidad de derechos.-
-Los niños, niñas y adolescentes son sujetos de derechos y garantías y, como tales, gozan de todos aquellos que las leyes contemplan en favor de las personas, además de aquellos específicos de su edad.
+Los niños, niñas y adolescentes son sujetos de derechos y
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+garantías y, como tales, gozan de todos aquellos que las leyes contemplan en favor de las personas, además de aquellos específicos de su edad.
 
 Los niños, niñas y adolescentes extranjeros que se encuentren bajo jurisdicción del Ecuador, gozarán de los mismos derechos y garantías reconocidas por la ley a los ciudadanos ecuatorianos, con las limitaciones establecidas en la Constitución y en las leyes.
 
@@ -266,11 +270,13 @@ Cuando se desconozca la  identidad  de  uno  de  los  progenitores,  el  niño, 
 
 Si se desconoce la identidad o domicilio de ambos progenitores, el niño, niña o adolescente se inscribirá por orden judicial o administrativa, con dos nombres y dos apellidos de uso común en el país. Se respetará el nombre con el cual ha sido conocido y se tomará en cuenta su opinión cuando sea posible. La inscripción podrá ser solicitada por la persona encargada del programa de protección a cargo del niño o niña o por la Junta de Protección de Derechos. Practicada la inscripción, el Jefe Cantonal del Registro  Civil  pondrá  el  caso  en  conocimiento  de  la  Defensoría  del  Pueblo  de  la  jurisdicción correspondiente, para que inicie las gestiones extrajudiciales tendientes al esclarecimiento de la filiación del  niño  o  niña  y  posterior  reconocimiento  voluntario  o  entable  la  acción  para  que  sea  declarada judicialmente.
 
-Comprobada  y  resuelta  por  la  autoridad  judicial  o  administrativa  competente  la  sustitución, confusión o privación de identidad o de alguno de sus elementos, el Registro Civil iniciará de inmediato los procedimientos idóneos para restablecerla sin costo alguno para el afectado.
+Comprobada y resuelta por la autoridad judicial o administrativa competente la sustitución,
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+
+confusión o privación de identidad o de alguno de sus elementos, el Registro Civil iniciará de inmediato los procedimientos idóneos para restablecerla sin costo alguno para el afectado.
 
 Los niños y niñas de las comunidades, pueblos y nacionalidades indígenas del país, tienen el derecho a ser inscritos con nombres propios del respectivo idioma. Las autoridades del Registro Civil tienen la obligación de inscribir estos nombres sin ningún tipo de limitación u objeción.
 
@@ -458,7 +464,7 @@ Se prohíbe:
 
 Aun  en  los  casos  permitidos  por  la  ley,  no  se  podrá  utilizar  públicamente  la  imagen  de  un adolescente mayor de quince años, sin su autorización expresa; ni la de un niño, niña o adolescente menor de dicha edad, sin la autorización de su representante legal, quien sólo la dará si no lesiona los derechos de su representado.
 
-##### Art. 53.- Derecho a la privacidad y a la inviolabilidad del hogar y las formas de comunicación.
+##### Art. 53.- Derecho a la privacidad y a la inviolabilidad del hogar y las formas de comunicación.-
 Sin perjuicio de la natural vigilancia de los padres y maestros, los niños, niñas y adolescentes tienen
 
 [[END OF PAGE 10]]
@@ -489,7 +495,7 @@ Los niños, niñas  y  adolescentes  tienen  derecho  a  protección  especial  
 
 Se  prohíbe  reclutar  o  permitir  la  participación  directa  de  niños,  niñas  y  adolescentes  en hostilidades armadas internas e internacionales.
 
-##### Art. 58.Derecho  de  los  niños,  niñas  y  adolescentes  refugiados.-
+##### Art. 58.- Derecho de los niños, niñas y adolescentes refugiados.-
 Los  niños,  niñas  y adolescentes que soliciten o a quienes se les haya concedido el estatuto de refugiado, tienen derecho a recibir protección humanitaria y la asistencia necesaria para el pleno disfrute de sus derechos. El mismo derecho asiste a sus progenitores y a las personas encargadas de su cuidado.
 
 #### Capítulo V Derechos de participación
@@ -580,11 +586,13 @@ En  el  caso  de  los  representantes  legales,  autoridades  o  responsables  d
 ##### Art. 68.- Concepto de abuso sexual.-
 Sin perjuicio de lo que dispone el Código Penal sobre la materia, para los efectos del presente Código constituye abuso sexual todo contacto físico, sugerencia de  naturaleza  sexual,  a  los  que  se  somete  un  niño,  niña  o  adolescente,  aun  con  su  aparente consentimiento,  mediante  seducción,  chantaje,  intimidación,  engaños,  amenazas,  o  cualquier  otro medio.
 
-Cualquier  forma  de  acoso  o  abuso  sexual  será  puesto  en  conocimiento  del  Agente  Fiscal competente  para  los  efectos  de  la  ley,  sin  perjuicio  de  las  investigaciones  y  sanciones  de  orden administrativo que correspondan.
+Cualquier  forma  de  acoso  o  abuso  sexual  será  puesto  en  conocimiento  del  Agente  Fiscal competente  para  los  efectos  de  la  ley,  sin  perjuicio  de  las  investigaciones  y  sanciones  de  orden
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+
+administrativo que correspondan.
 
 ##### Art.  69.-  Concepto  de  explotación  sexual.-
 Constituyen  explotación  sexual  la  prostitución  y  la pornografía infantil.  Prostitución infantil es la utilización de un niño, niña o adolescente en actividades sexuales  a  cambio  de  remuneración  o  de  cualquier  otra  retribución.  Pornografía  infantil  es  toda representación, por cualquier medio, de un niño, niña y adolescente en actividades sexuales explícitas, reales  o  simuladas;  o  de  sus  órganos  genitales,  con  la  finalidad  de  promover,  sugerir  o  evocar  la actividad sexual.
@@ -710,11 +718,13 @@ El  Consejo  Nacional  de  la  Niñez  y  Adolescencia,  de  oficio  o  a  petic
 El  Estado  y  la  sociedad  deben  elaborar  y  ejecutar políticas, planes, programas y medidas de protección tendientes a erradicar el trabajo de los niños, niñas y  de  los  adolescentes  que  no  han  cumplido  quince  años.  La  familia  debe  contribuir  al  logro  de  este objetivo.
 
 ##### Art.  84.-  Jornada  de  trabajo  y  educación.-
-Por  ningún  motivo  la  jornada  de  trabajo  de  los adolescentes  podrá  exceder  de  seis  horas  diarias  durante  un  período  máximo  de  cinco  días  a  la semana; y se organizará de manera que no limite el efectivo ejercicio de su derecho a la educación.
+Por  ningún  motivo  la  jornada  de  trabajo  de  los adolescentes  podrá  exceder  de  seis  horas  diarias  durante  un  período  máximo  de  cinco  días  a  la
 
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
+
+semana; y se organizará de manera que no limite el efectivo ejercicio de su derecho a la educación.
 
 Los progenitores del adolescente que trabaja, los responsables de su cuidado, sus patronos y las  personas  para  quienes  realizan  una  actividad  productiva,  tienen  la  obligación  de  velar  porque terminen su educación básica y cumplan sus deberes académicos.
 
@@ -802,11 +812,13 @@ El  Consejo  Nacional  de  la  Niñez  y  Adolescencia  dictará  el  Reglamento
 #### Capítulo IV De las medidas de protección y de las sanciones relacionadas con el trabajo
 
 ##### Art.  94.-  Medidas  de  protección.-
-En  los  casos  de  infracción  a  las disposiciones del presente título, los jueces y autoridades administrativas competentes podrán ordenar una o más de las siguientes medidas de protección a favor de los niños, niñas y adolescentes afectados, sin perjuicio de las demás contempladas en este Código:
+En  los  casos  de  infracción  a  las disposiciones del presente
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
+
+título, los jueces y autoridades administrativas competentes podrán ordenar una o más de las siguientes medidas de protección a favor de los niños, niñas y adolescentes afectados, sin perjuicio de las demás contempladas en este Código:
 
 - La orden de separar al niño, niña o adolescente de la actividad laboral;
 
@@ -1042,11 +1054,13 @@ Cuando un niño, niña o adolescente ha sido llevado al extranjero con violació
 ##### Art. 122.- Obligatoriedad.-
 En todos los casos en que el Juez confíe la tenencia o el ejercicio de la patria potestad a uno de los progenitores, deberá regular el régimen de las visitas que el otro podrá hacer al hijo o hija.
 
-Cuando se hubiere decretado alguna medida de protección a favor del hijo o la hija por causa de violencia física, sicológica o sexual, el Juez podrá negar el régimen de visitas respecto del progenitor agresor, o regular las visitas en forma dirigida, según la gravedad de la violencia. El Juez considerará esta limitación cuando exista violencia intra-familiar. Las medidas tomadas buscarán superar las causas que determinaron la suspensión.
+Cuando se hubiere decretado alguna medida de protección a favor del hijo o la hija por causa de
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
+
+violencia física, sicológica o sexual, el Juez podrá negar el régimen de visitas respecto del progenitor agresor, o regular las visitas en forma dirigida, según la gravedad de la violencia. El Juez considerará esta limitación cuando exista violencia intra-familiar. Las medidas tomadas buscarán superar las causas que determinaron la suspensión.
 
 ##### Art. 123.- Forma de regular el régimen de visitas.-
 Para la fijación y modificaciones del régimen de visitas, el Juez aplicará lo dispuesto en la regla No. 1 del artículo 106 y en el inciso final de dicho artículo.
@@ -1350,7 +1364,7 @@ Los  candidatos  a  adoptantes  deben  cumplir  los siguientes requisitos:
 ##### Art.  160.-  Adopción  por  el  tutor.-
 El  tutor  puede  adoptar  al  pupilo  una  vez  que  haya  cesado legalmente de su cargo y se hayan aprobado judicialmente las cuentas de su administración.
 
-##### Art. 161.Consentimientos necesarios.
+##### Art. 161.- Consentimientos necesarios.-
 Para la adopción se requieren los siguientes consentimientos:
 
 - Del adolescente que va ser adoptado;
@@ -1520,7 +1534,7 @@ Se considera adopción internacional aquella en la que los candidatos a adoptant
 
 En  caso  de  no  estar  domiciliado  en  su  país  de  origen,  el  solicitante  deberá  acreditar  una residencia  mínima  de  tres  años  en  otro  país  con  el  que  el  Ecuador  haya  suscrito  un  convenio  de adopción.
 
-##### Art. 181.Entidades autorizadas de adopción.
+##### Art. 181.- Entidades autorizadas de adopción.-
 La adopción internacional se realizará únicamente a través de entidades creadas y autorizadas expresa y exclusivamente para esta actividad.
 
 ##### Art. 182.- Requisitos para la adopción internacional.-
@@ -1574,7 +1588,7 @@ Las responsabilidades señaladas en los incisos anteriores cesarán luego de tra
 
 La  información  reunida  por  las  acciones  descritas  en  este  artículo  se  remitirá  a  la  Unidad Técnica  de  Adopciones,  que  llevará  una  estadística  actualizada  sobre  el  cumplimiento  que  dan  los distintos países y entidades de adopción internacional a los compromisos asumidos. El incumplimiento en  la  presentación  de  los  informes  de  seguimiento  será  causal  suficiente  para  dar  por  terminado  el convenio internacional de adopción.
 
-##### Art. 187.Obligaciones para las entidades de adopción.
+##### Art. 187.- Obligaciones para las entidades de adopción.-
 Las entidades de adopción internacional están obligadas a:
 
 - Mantener un representante legal en el Ecuador;
@@ -2265,7 +2279,7 @@ El desistimiento de la acción administrativa no impide que el órgano sustancia
 ##### Art. 243.- Duración máxima del procedimiento administrativo.-
 En ningún caso el procedimiento sustanciado ante el organismo administrativo podrá durar más de treinta días hábiles.
 
-##### Art. 244.Sanciones  por denegación  de justicia.
+##### Art. 244.- Sanciones por denegación de justicia.-
 Cuando  el organismo  administrativo competente se niegue indebidamente a dar trámite a una denuncia presentada de conformidad con las reglas de este título, se sancionará a los miembros que concurrieron con su voto a la denegación, con multa  de  50  a  100  dólares.  Cuando  exceda  los  plazos  máximos  contemplados  para  la  duración  del procedimiento, se sancionará a sus miembros responsables del retardo con la pena de multa prevista en el artículo 249.
 
 [[END OF PAGE 49]]
@@ -2355,7 +2369,7 @@ Serán sancionados con la multa señalada en el artículo 248:
 ##### Art. 253.- Otras infracciones sancionadas con multa.-
 Serán sancionados con la multa señalada en el artículo 248:
 
-- Los  directores  de  los  establecimientos  de  salud  que  nieguen  la  prestación  de  servicios médicos de emergencia a un niño, niña o adolescente; o la permanencia segura de un recién nacido junto a su madre; o que de cualquier manera incumpla las obligaciones descritas en el articulo 30, si de ello  no  resultare  la  muerte  o  perjuicio  grave  y  permanente  para  la  salud  el  niño,  niña,  adolescente  o madre;
+- Los directores de los establecimientos de salud que nieguen la prestación de servicios médicos de emergencia a un niño, niña o adolescente; o la permanencia segura de un recién nacido junto a su madre; o que de cualquier manera incumpla las obligaciones descritas en el artículo 30, si de ello no resultare la muerte o perjuicio grave y permanente para la salud el niño, niña, adolescente o madre;
 
 - Los pagadores, o quienes hagan sus veces, del sector público o privado, que no cumplan la
 
@@ -2398,11 +2412,13 @@ Establécese la Administración de Justicia Especializada de la Niñez y Adolesc
 ##### Art.  256.-  Principios  rectores.-
 La  Administración  de  Justicia  Especializada  de  la  Niñez  y Adolescencia  guiará  sus  actuaciones  y  resoluciones  con  estricto  apego  a  los  principios,  derechos, deberes y responsabilidades que se establecen en el presente Código.
 
-Su gestión se inspira,  además, en los principios de humanidad en la aplicación del derecho, priorización de la equidad por sobre la ritualidad del enjuiciamiento, legalidad, independencia, gratuidad, moralidad, celeridad y eficiencia.
+Su gestión se inspira, además, en los principios de humanidad en la aplicación del derecho, priorización de la equidad por sobre la ritualidad del enjuiciamiento, legalidad, independencia, gratuidad,
 
 [[END OF PAGE 52]]
 
 [[START OF PAGE 53]]
+
+moralidad, celeridad y eficiencia.
 
 ##### Art. 257.- Garantías del debido proceso.-
 En todo procedimiento judicial que se sustancie con arreglo  al  presente  Código,  las  personas  tendrán  asegurada  la  inviolabilidad  de  la  defensa,  la contradicción, la impugnación, la inmediación, el derecho a ser oído y las demás garantías del debido proceso.
@@ -2442,7 +2458,7 @@ En los cantones en que no exista Juez de la Niñez y Adolescencia, el conocimien
 
 [[START OF PAGE 54]]
 
-##### Art. 263.Requisitos especiales para ser Juez.
+##### Art. 263.- Requisitos especiales para ser Juez.-
 Además  de  los requisitos generales establecidos en la Ley Orgánica de la Función Judicial, para ser Juez de la Niñez y Adolescencia se deberá participar en un concurso de oposición y merecimientos, en cuyo examen de aptitud se incluirá una evaluación  del  conocimiento  y  comprensión  del  candidato  acerca  de  los  principios  y  normas  del presente  Código,  Constitución  Política,  Convención  sobre  Derechos  del  Niño  y  más  instrumentos internacionales vigentes sobre derechos y garantías de los niños, niñas y adolescentes.
 
 #### Capítulo III La acción judicial de protección
@@ -2465,9 +2481,7 @@ Para la acción del literal c), se requerirá el patrocinio de abogado.
 El conocimiento y resolución de la acción judicial de protección corresponde al Juez de la Niñez y Adolescencia de la jurisdicción en que se ha producido la violación del derecho, en el domicilio del demandado o en el del accionante, a elección de este último.
 
 ##### Art. 267.- Procedimiento.-
-Se aplicará a esta acción el procedimiento sumarísimo, que garantice
-
-- la contradicción procesal, las garantías del debido proceso y el derecho a la tutela judicial efectiva.
+Se aplicará a esta acción el procedimiento sumarísimo, que garantice la contradicción procesal, las garantías del debido proceso y el derecho a la tutela judicial efectiva.
 
 #### Capítulo IV Procedimientos judiciales
 
@@ -2476,9 +2490,7 @@ Se aplicará a esta acción el procedimiento sumarísimo, que garantice
 ##### Art. 268.- Investigación.-
 Este Código regula la investigación de la Policía y de la Oficina Técnica de la Niñez y la Adolescencia para la sustanciación de las investigaciones orientadas a:
 
-- Ubicar  a  los  niños,  niñas  y  adolescentes  privados  de  su  medio  familiar,  presuntamente
-
-- perdidos, desaparecidos o plagiados; y,
+- Ubicar a los niños, niñas y adolescentes privados de su medio familiar, presuntamente perdidos, desaparecidos o plagiados; y,
 
 - Identificar y ubicar los lugares de residencia del padre, la madre o parientes dentro del tercer grado de consanguinidad ausentes o desaparecidos del niño, niña o adolescente.
 
@@ -2490,13 +2502,15 @@ En la investigación intervendrán el Ministerio Público, la DINAPEN u otras un
 El Juez podrá solicitar aclaración, ampliaciones o reforma de los informes presentados.
 
 ##### Art. 270.- Reinserción del niño, niña o adolescente en su familia biológica.-
-Si la investigación permitiera ubicar al niño, niña o adolescente o identificar al niño, niña o adolescente o identificar al padre, la madre u otros parientes o personas encargadas del cuidado del niño, niña o adolescente, según el caso,  el  Juez  dispondrá  la  reinserción  a  su  familia,  sin  perjuicio  de  otras  medidas  de  protección  que fueren necesarias.
+Si la investigación
 
 [[END OF PAGE 54]]
 
 [[START OF PAGE 55]]
 
-Si  la  investigación  permitiera  identificar  y  ubicar  a  los  parientes  dentro  del  tercer  grado  de consanguinidad  del  niño,  niña  o  adolescente,  el  Juez  convocará  a  audiencia  y  designará  tutor  que asuma su cuidado y protección.
+permitiera ubicar al niño, niña o adolescente o identificar al niño, niña o adolescente o identificar al padre, la madre u otros parientes o personas encargadas del cuidado del niño, niña o adolescente, según el caso, el Juez dispondrá la reinserción a su familia, sin perjuicio de otras medidas de protección que fueren necesarias.
+
+Si la investigación permitiera identificar y ubicar a los parientes dentro del tercer grado de consanguinidad del niño, niña o adolescente, el Juez convocará a audiencia y designará tutor que asuma su cuidado y protección.
 
 Si  desde  el  auto  de  calificación,  hubieren  transcurrido  los  plazos  estipulados  en  este  Código para la privación de la patria potestad o noventa días para la declaratoria de adoptabilidad del niño, niña o adolescente por las causales primera, tercera y cuarta del artículo 158 de este Código y los informes de la investigación realizada no permitieren determinar, identificar y ubicar al padre, madre o ambos o a los  parientes  dentro  de  los  grados  referidos,  el  Juez  declarará  la  adoptabilidad  de  un  niño,  niña  o adolescente.
 
@@ -2598,14 +2612,16 @@ Concluida la audiencia, pronunciará sentencia en la forma prescrita en el artí
 ##### Art. 286.- Comprobación de identidades y causas de comparecencia.-
 El Juez verificará con los instrumentos  públicos  pertinentes,  la  identidad  de  relación  de  parentesco  o  nombramiento  de  tutor, según sea el caso, de las personas a que comparecen en virtud de lo previsto en los artículos 163 y 166 de este Código.
 
-Si tuviere dudas sobre la paternidad o maternidad del o los comparecientes, podrá ordenar la práctica del examen comparativo de los patrones de bandas o secuencias de ácido desoxirribonucleico (ADN)  del  niño,  niña  o  adolescente  que  se  pretende  adoptar  y  de  quienes  se  presentan  como progenitores.  Si  estos  últimos  se  niegan  Injustificadamente  a  la  práctica  del  examen,  se  tendrá  por negado el consentimiento. Si las negativas se fundan en falta de recursos económicos para cubrir sus costos, se procederá en la forma prevista en la regla 4 del artículo 131 de este Código.
+Si tuviere dudas sobre la paternidad o maternidad del o los comparecientes, podrá ordenar la práctica del examen comparativo de los patrones de bandas o secuencias de ácido desoxirribonucleico (ADN) del niño, niña o adolescente que se pretende adoptar y de quienes se presentan como progenitores. Si estos últimos se niegan injustificadamente a la práctica del examen, se tendrá por negado el consentimiento. Si las negativas se fundan en falta de recursos económicos para cubrir sus costos, se procederá en la forma prevista en la regla 4 del artículo 131 de este Código.
 
 ##### Art. 287.- Segunda instancia.-
-El recurso de apelación será sustanciado por la Sala de la Corte Superior del  Distrito,  en  una  sola  audiencia.  La  sentencia  se  pronunciará  en  la  forma  señalada  en  el artículo 277.
+El recurso de apelación será sustanciado por la Sala de la Corte
 
 [[END OF PAGE 57]]
 
 [[START OF PAGE 58]]
+
+Superior del Distrito, en una sola audiencia. La sentencia se pronunciará en la forma señalada en el artículo 277.
 
 ##### Art. 288.- Exigencia adicional para las adopciones internacionales.-
 Tratándose de adopciones internacionales, deberán acompañarse a la demanda el expediente con los documentos mencionados en el artículo 183 de este Código, el informe de la Unidad Técnica de Adopciones indicado en el artículo 184, el acta de asignación y la aceptación de los candidatos a adoptantes.
@@ -2744,13 +2760,15 @@ Cuando de las circunstancias del caso se derive la necesidad de tomar medidas de
 ##### Art. 308.- Principio de legalidad.-
 Los adolescentes únicamente podrán ser juzgados por actos considerados como delitos por la ley penal con anterioridad al hecho que se le atribuye y de acuerdo al procedimiento establecido en este Código.
 
-No  se  podrán  tomar  medidas  si  existen  causas  eximentes  de  responsabilidad  según  lo establecido en el Código Penal.
+No se podrán tomar medidas si existen causas eximentes de responsabilidad según lo
 
 [[END OF PAGE 60]]
 
 [[START OF PAGE 61]]
 
-La  aplicación, ejecución  y  control  de  las  medidas  socio-educativas  se  ajustarán  a  las disposiciones de este Código.
+establecido en el Código Penal.
+
+La aplicación, ejecución y control de las medidas socio-educativas se ajustarán a las disposiciones de este Código.
 
 ##### Art. 309.- Objetivos de la investigación y de la determinación de la responsabilidad.-
 El proceso de juzgamiento, además de establecer el grado de participación del adolescente en el hecho del que se le acusa, tiene por finalidad investigar las circunstancias del hecho, la personalidad del adolescente y su conducta  y  el  medio  familiar  y  social  en  el  que  se  desenvuelve,  de  manera  que  el  Juez  pueda,  de acuerdo a las reglas establecidas en este Código, aplicar la medida socio-educativa más adecuada para fortalecer  el  respeto  del  adolescente  por  los  derechos  humanos  y  las  libertades  fundamentales  de terceros,  promover  la  reintegración  del  adolescente y que éste asuma una función constructiva en la sociedad.
@@ -2770,7 +2788,7 @@ Todo adolescente investigado, detenido o interrogado tiene derecho a ser informa
 
 - Sobre  su  derecho  a  permanecer  en  silencio,  a  solicitar  la  presencia  de  un  abogado  y  a comunicarse con un familiar o con cualquier persona que indique.
 
-- El adolescente contará con la asistencia gratuita de un intérprete, si no comprende o no habla el idioma utilizado.
+El adolescente contará con la asistencia gratuita de un intérprete, si no comprende o no habla el idioma utilizado.
 
 En todos los casos, los representantes legales del investigado, interrogado o detenido, serán informados de inmediato.
 
@@ -2788,7 +2806,7 @@ En  todas  las  etapas  del  proceso  el  adolescente sometido a juzgamiento tie
 
 - A  interrogar  directamente  o  por  medio  de  su  defensor  y  de  manera  oral,  a  los  testigos  y peritos, que estarán obligados a comparecer ante el Juez para este efecto.
 
-- El adolescente podrá ser oído e interrogar por lenguaje de señas en caso de tener discapacidad auditiva.
+El adolescente podrá ser oído e interrogar por lenguaje de señas en caso de tener discapacidad auditiva.
 
 [[END OF PAGE 61]]
 
@@ -2879,16 +2897,18 @@ Ningún  adolescente  podrá  ser  detenido  sin  fórmula  de  juicio  por  má
 
 Ningún niño puede ser detenido, ni siquiera en caso de infracción flagrante. En este evento, debe  ser  entregado  de  inmediato  a  sus  representantes  legales  y,  de  no  tenerlos,  a  una  entidad  de atención. Se prohíbe recibir a un niño en un Centro de Internamiento; y si de hecho sucediera, el Director del Centro será destituido de su cargo.
 
-##### Art.  327.-  Procedimiento  en  casos  de  aprehensión.-
-En  los  casos  del  artículo  anterior,  si  la aprehensión del adolescente es realizada por agentes policiales, éstos deben remitirlo inmediatamente al  Procurador  de  Adolescentes  Infractores  con  informe  pormenorizado  de  las  circunstancias  de  la detención, las evidencias materiales y la identificación de los posibles testigos y de los aprehensores.
+##### Art. 327.- Procedimiento en casos de aprehensión.-
+En los casos del artículo anterior, si la
 
 [[END OF PAGE 63]]
 
 [[START OF PAGE 64]]
 
+aprehensión del adolescente es realizada por agentes policiales, éstos deben remitirlo inmediatamente al Procurador de Adolescentes Infractores con informe pormenorizado de las circunstancias de la detención, las evidencias materiales y la identificación de los posibles testigos y de los aprehensores.
+
 Cuando ha sido practicada por cualquier otra persona, ésta debe entregarlo de inmediato a la unidad o agente policial más próximo, los que procederán en la forma señalada en el inciso anterior.
 
-- Si  el  detenido  muestra  señales  de  maltrato  físico,  el  Procurador  dispondrá  su  traslado  a  un establecimiento de salud y abrirá la investigación para determinar la causa y tipo de las lesiones y sus responsables.
+Si el detenido muestra señales de maltrato físico, el Procurador dispondrá su traslado a un establecimiento de salud y abrirá la investigación para determinar la causa y tipo de las lesiones y sus responsables.
 
 Cuando el hecho que motivó la privación de libertad del adolescente no esté tipificado como infracción por la ley penal, el Procurador lo pondrá inmediatamente en libertad.
 
@@ -2905,12 +2925,12 @@ El Juez sólo podrá ordenar el internamiento preventivo de un adolescente en lo
 
 - De  los  adolescentes  que  han  cumplido  catorce  años,  en  el  juzgamiento  de  delitos sancionados en la legislación penal ordinaria con pena de reclusión.
 
-- El internamiento preventivo puede ser revocado en cualquier tiempo, de oficio o a petición de parte.
+El internamiento preventivo puede ser revocado en cualquier tiempo, de oficio o a petición de parte.
 
 ##### Art. 331.- Duración del internamiento preventivo.-
 El internamiento preventivo no podrá exceder de noventa días, transcurridos los cuales el funcionario responsable del establecimiento en que ha sido internado, pondrá en libertad al adolescente de inmediato y sin necesidad de orden judicial previa.
 
-- El  incumplimiento  de  esta  disposición  por  parte  de  dicho  funcionario  será  sancionado  con  la destitución del cargo, sin perjuicio de su responsabilidad penal y civil.
+El incumplimiento de esta disposición por parte de dicho funcionario será sancionado con la destitución del cargo, sin perjuicio de su responsabilidad penal y civil.
 
 ##### Art.  332.-  Medidas cautelares de orden patrimonial.-
 Para asegurar la responsabilidad civil, el Juez puede ordenar el secuestro, la retención o la prohibición de enajenar bienes del peculio profesional del  adolescente  inculpado,  de  conformidad  con  la  ley; o de sus representantes legales o personas a cargo de su cuidado, en los términos de los artículos 2246, 2247 y 2248 del Código Civil.
@@ -2923,11 +2943,13 @@ Para  la  determinación  de  las  indemnizaciones  por  daños  y perjuicios  s
 #### Capítulo I La acción y los sujetos procesales
 
 ##### Art. 334.- Clases de acción.-
-La acción para el juzgamiento del adolescente infractor es de dos clases:  pública  de  instancia  oficial  y  pública  de  instancia  particular  de  acuerdo  con  el  Código  de Procedimiento Penal.
+La acción para el juzgamiento del adolescente infractor es de dos
 
 [[END OF PAGE 64]]
 
 [[START OF PAGE 65]]
+
+clases: pública de instancia oficial y pública de instancia particular de acuerdo con el Código de Procedimiento Penal.
 
 Tratándose de infracciones de acción privada, se las tratará como de acción pública de instancia particular, para las indemnizaciones civiles procederán sin necesidad de acusación particular.
 
@@ -2961,7 +2983,7 @@ Los ofendidos podrán denunciar directamente los hechos al Procurador. Esto sin 
 ##### Art. 338.- Ofendido en delitos de acción pública de instancia particular.-
 En el caso de los delitos públicos de instancia particular serán perseguibles sólo a instancias e interés del ofendido, se requerirá la denuncia conforme a las reglas establecidas en la legislación penal y procesal penal.
 
-##### Art. 339.Defensor Público.
+##### Art. 339.- Defensor Público.-
 Existirán defensores públicos especializados de Niñez y Adolescencia, quienes ejercerán la defensa legal del adolescente en todas las etapas del proceso. Los defensores públicos especializados dependerán de la Defensoría Pública Nacional.
 
 #### Capítulo II Etapas del juzgamiento
@@ -2984,9 +3006,7 @@ El juzgamiento del adolescente infractor tiene las siguientes etapas:
 [[START OF PAGE 66]]
 
 ##### Art. 341.- Conocimiento e inicio de la investigación.-
-Conocida por cualquier vía la comisión de un hecho que revista caracteres de infracción penal y en el que aparezca claramente comprometida la responsabilidad de un adolescente, el Procurador iniciará la investigación
-
-con el auxilio de la Policía Judicial especializada que actuará bajo sus instrucciones.
+Conocida por cualquier vía la comisión de un hecho que revista caracteres de infracción penal y en el que aparezca claramente comprometida la responsabilidad de un adolescente, el Procurador iniciará la investigación con el auxilio de la Policía Judicial especializada que actuará bajo sus instrucciones.
 
 ##### Art. 342.- Indagación previa.-
 Antes de iniciar la instrucción, el Procurador podrá practicar una indagación  previa.  La  indagación  previa  tiene  por  objetivo  investigar  los  hechos  presumiblemente constitutivos de infracción penal que por cualquier medio hayan llegado a su conocimiento en el que se presuma  la  participación  de  adolescentes.  Si  se  llega  a  determinar  la  identidad  del  adolescente supuestamente responsable de la infracción se da fin a la indagación.
@@ -3063,7 +3083,7 @@ La resolución de remisión conlleva que el adolescente sea remitido a programas
 El auto que concede la remisión deberá contener: los antecedentes y fundamentos de hecho y legales  de  la  remisión;  la  determinación  del  programa  de  orientación  al  que  ha  sido  remitido;  y,  las razones que lo justifican.
 
 ##### Art.  352.-  Remisión  del  Procurador  en  delitos  sancionados  con  pena  de  prisión  correccional menor a un año.-
-Si la infracción investigada es de aquellas sancionadas por la ley penal ordinaria con pena de prisión correccional menor a un año y si, además, el hecho no ha lesionado gravemente el interés público, el Procurador declarará la remisión del caso de conformidad con el artIculo anterior y archivará el expediente.
+Si la infracción investigada es de aquellas sancionadas por la ley penal ordinaria con pena de prisión correccional menor a un año y si, además, el hecho no ha lesionado gravemente el interés público, el Procurador declarará la remisión del caso de conformidad con el artículo anterior y archivará el expediente.
 
 ##### Art. 353.- Intervención del Juez en los casos de remisión en delitos sancionados con pena de prisión  correccional  menor  a  un  año.-
 Si  se  cumplen  los  presupuestos  del  artículo  351  o  352  y  el Procurador no ha decidido la remisión o no lo ha solicitado, el adolescente en la Audiencia Preliminar podrá  solicitar  que  se  pronuncie  sobre  la  procedencia  de  la  misma.  El  Juez,  con  vista  al  argumento presentado resolverá la remisión con todos sus efectos o la continuación del proceso. Esta resolución es inapelable.
@@ -3128,11 +3148,13 @@ Las partes podrán llegar a ciertas convenciones probatorias y podrán pedir al 
 
 En los casos en que se acepta la participación del ofendido, se lo podrá escuchar a continuación del alegato de conclusión del Procurador.
 
-Toda  excepción  planteada  por  las  partes  deberá  ser  resuelta  por  el  Juez  antes  de  dictar  la resolución respectiva.
+Toda excepción planteada por las partes deberá ser resuelta por el Juez antes de dictar la
 
 [[END OF PAGE 69]]
 
 [[START OF PAGE 70]]
+
+resolución respectiva.
 
 Toda la audiencia se desarrollará oralmente y no se aceptarán la presentación de escritos en la misma, el Juez podrá tomar todas las decisiones necesarias para asegurar que el debate se desarrolle de manera adecuada, en ningún caso podrá vulnerar la igualdad de las partes.
 
@@ -3194,7 +3216,7 @@ Las medidas socioeducativas son acciones dispuestas por autoridad judicial cuand
 
 - Reparación  del  daño  causado.-  Esta  medida  consiste  en  la  obligación  del  adolescente  de restablecer  el  equilibrio  patrimonial  afectado  con  la  infracción,  mediante  la  reposición  del  bien,  su restauración o el pago de una indemnización proporcional al perjuicio provocado;
 
-- Servicios a la comunidad.- Son actividades concretas de beneficio comunitario que impone el Juez,  para  que  el  adolescente  infractor  las  realice  sin  menoscabo  de  su  integridad  y  dignidad  ni afectación  de  sus  obligaciones  académicas  o  laborales,  tomando  en  consideración  sus  -aptitudes, habilidades y destrezas, y el beneficio socio-educativo que reportan;
+- Servicios a la comunidad.- Son actividades concretas de beneficio comunitario que impone el Juez, para que el adolescente infractor las realice sin menoscabo de su integridad y dignidad ni afectación de sus obligaciones académicas o laborales, tomando en consideración sus aptitudes, habilidades y destrezas, y el beneficio socio-educativo que reportan;
 
 - Libertad  asistida.-  Es  un  estado  de  libertad  condicionada  al  cumplimiento  de  directrices  y restricciones de conducta fijadas por el Juez, sujeta a orientación, asistencia, supervisión y evaluación;
 
@@ -3374,14 +3396,16 @@ Para el cumplimiento de las medidas socio-educativas el Estado podrá suscribir 
 
 Es privativo  de  la  Policía  Nacional  Especializada  de  la  Niñez  y  Adolescencia  el  control  de  la seguridad externa de los centros de internamiento de adolescentes infractores.
 
-##### Art.  386.-  Condiciones  mínimas  para  el  funcionamiento  de  un  Centro.-
-Los  centros  de internamiento de adolescentes infractores cumplirán obligatoriamente con las condiciones de infraestructura, equipamiento, seguridad y recursos humanos que sean indispensables de conformidad con el respectivo Reglamento.
+##### Art. 386.- Condiciones mínimas para el funcionamiento de un Centro.-
+Los centros de internamiento de adolescentes infractores cumplirán obligatoriamente con las condiciones de infraestructura, equipamiento, seguridad y recursos humanos que sean indispensables de conformidad con el respectivo Reglamento.
 
-Es obligación del Estado y de los municipios, proveer oportunamente los recursos suficientes para el funcionamiento de estos centros. La falta de entrega de estos recursos se considerará como violación institucional de los derechos de los adolescentes.
+Es obligación del Estado y de los municipios, proveer oportunamente los recursos suficientes
 
 [[END OF PAGE 74]]
 
 [[START OF PAGE 75]]
+
+para el funcionamiento de estos centros. La falta de entrega de estos recursos se considerará como violación institucional de los derechos de los adolescentes.
 
 ### TITULO VI LA PREVENCION DE LA INFRACCION PENAL DE ADOLESCENTES
 
@@ -3414,7 +3438,7 @@ Quinta.- Los cargos antes referidos se sujetarán a lo prescrito en la Ley Orgá
 
 [[START OF PAGE 76]]
 
-Sexta.Las partidas presupuestarias correspondientes a los grupos de gasto de: remuneraciones, bienes y servicios de consumo y servicios  generales;  y  los  bienes  muebles  asignados al funcionamiento de la Corte Nacional de Menores, las Cortes Distritales de Menores  y los Tribunales  de  Menores,  se  transferirán  del  Presupuesto  de  Bienestar  Social  al  presupuesto  de  la Función  Judicial.  En  el  plazo  máximo  de  noventa  días  el  Ministerio  de  Economía  y  Finanzas  y  el Ministerio  de  Bienestar  Social  por  parte  de  la  Función  Ejecutiva  y  los  organismos  competentes de la Función  Judicial,  procederán  a  adoptar  las  medidas  pertinentes  para  el  cumplimiento  de  estas disposiciones.
+Sexta.- Las partidas presupuestarias correspondientes a los grupos de gasto de: remuneraciones, bienes y servicios de consumo y servicios  generales;  y  los  bienes  muebles  asignados al funcionamiento de la Corte Nacional de Menores, las Cortes Distritales de Menores  y los Tribunales  de  Menores,  se  transferirán  del  Presupuesto  de  Bienestar  Social  al  presupuesto  de  la Función  Judicial.  En  el  plazo  máximo  de  noventa  días  el  Ministerio  de  Economía  y  Finanzas  y  el Ministerio  de  Bienestar  Social  por  parte  de  la  Función  Ejecutiva  y  los  organismos  competentes de la Función  Judicial,  procederán  a  adoptar  las  medidas  pertinentes  para  el  cumplimiento  de  estas disposiciones.
 
 Séptima.- El Consejo Nacional de la Judicatura tomará todas las medidas necesarias para la plena aplicación de estas disposiciones, así como para organizar, nombrar e integrar los Juzgados de Niñez y Adolescencia y las oficinas técnicas dentro de los sesenta días posteriores a la publicación en el Registro Oficial de este Código.
 
@@ -3436,11 +3460,13 @@ En caso de no haberse integrado los organismos pertinentes a nivel cantonal, dic
 
 Décimo Tercera.- Dentro de los sesenta días siguientes a su posesión, los Jueces de Niñez y Adolescencia  visitarán  los  actuales  centros  de  internamiento  de  adolescentes  infractores  de  su jurisdicción para el control de la legalidad de las privaciones de la libertad.
 
-Décimo  Cuarta.-  El  reajuste  a  que  refiere  el  artículo  139  de  este  Código,  se  aplicará  a  las prestaciones de alimentos fijadas con anterioridad a la entrada en vigencia del presente Código, dentro de los treinta días siguientes a la publicación de este Código en el Registro Oficial.
+Décimo  Cuarta.-  El  reajuste  a  que  refiere  el  artículo  139  de  este  Código,  se  aplicará  a  las
 
 [[END OF PAGE 76]]
 
 [[START OF PAGE 77]]
+
+prestaciones de alimentos fijadas con anterioridad a la entrada en vigencia del presente Código, dentro de los treinta días siguientes a la publicación de este Código en el Registro Oficial.
 
 Décimo Quinta.- Se encarga al Ministerio de Educación y Cultura la preparación de una edición del presente Código con su exposición de motivos y un anexo con la Convención sobre los Derechos del Niño, en un número suficiente para ser distribuido gratuitamente a todos los alumnos de los colegios y escuelas públicas de la República, y a precio de costo a los de establecimiento privado. El presente encargo deberá ejecutarse en el plazo máximo de un año.
 
