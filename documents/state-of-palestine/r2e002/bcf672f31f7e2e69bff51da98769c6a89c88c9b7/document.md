@@ -60,6 +60,10 @@ State of Palestine
 
 Advisory & legislation Bureau
 
+دولة فلسطين
+
+ديوان الفتوى والتشريع
+
 ## Article (1) Definitions
 
 The following words and phrases stated in the decree shall have the meanings assigned below unless stated otherwise:
@@ -111,10 +115,6 @@ Tel: 02 - 2986007
 : فاكس
 
 02 - 2986008
-
-دولة فلسطين
-
-ديوان الفتوى والتشريع
 
 [[END OF PAGE 2]]
 
@@ -266,7 +266,7 @@ Bureau
 
 ## Article (5) Compulsory Education
 
-- Education shall be compulsory up to the end of the 10 th grade (primary education stage).
+- Education shall be compulsory up to the end of the 10th grade (primary education stage).
 
 - Education shall be free in all governmental education institutions.
 
@@ -284,11 +284,7 @@ The general education system consists of the following stages:
 
 - The Ministry shall establish kindergartens in accordance with certain standards and training and rehabilitation centers for the educators of this stage upon a decision by the Minister.
 
-- 2.
-
-- Kindergartens shall commit themselves to obtaining licensing from the ministry. The Minister shall issue necessary instructions to license kindergarten and organize them
-
-- administratively and technically.
+- Kindergartens shall commit themselves to obtaining licensing from the ministry. The Minister shall issue necessary instructions to license kindergarten and organize them administratively and technically.
 
 - The Ministry shall work to expand its preschool services to make this education stage compulsory in accordance with a standardized systemic framework approved by the ministry.
 
@@ -320,6 +316,10 @@ State of Palestine
 
 Advisory & legislation Bureau
 
+دولة فلسطين
+
+ديوان الفتوى والتشريع
+
 ## Article (8) Pre-school Stage Goals
 
 Pre-school stage aims to achieve the following:
@@ -340,7 +340,7 @@ Pre-school stage aims to achieve the following:
 
 ## Article (10) School Admission Age
 
-- The child who is admitted to the first primary grade must be (5) years and (7) months of age or before 31 st August of that school year.
+- The child who is admitted to the first primary grade must be (5) years and (7) months of age or before 31st August of that school year.
 
 - The admission age for students with disabilities shall be determined according to instructions issued by the minister in conformance with the relevant international standards and conventions, following coordination with the relevant authorities.
 
@@ -364,10 +364,6 @@ Tel: 02 - 2986007
 
 02 - 2986008
 
-دولة فلسطين
-
-ديوان الفتوى والتشريع
-
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
@@ -379,6 +375,10 @@ State of Palestine
 Advisory & legislation
 
 Bureau
+
+دولة فلسطين
+
+ديوان الفتوى والتشريع
 
 ## Article (11) Secondary Education
 
@@ -427,10 +427,6 @@ Tel: 02 - 2986007
 : فاكس
 
 02 - 2986008
-
-دولة فلسطين
-
-ديوان الفتوى والتشريع
 
 [[END OF PAGE 7]]
 
@@ -622,6 +618,10 @@ State of Palestine
 
 Advisory & legislation Bureau
 
+دولة فلسطين
+
+ديوان الفتوى والتشريع
+
 ## Article (23) Establishment of the Directorate
 
 The Ministry shall establish a directorate in each educational district in accordance with its need and the approved organizational structure. This directorate shall be headed by the Education Director, assisted by administrative and technical staff.
@@ -659,10 +659,6 @@ Tel: 02 - 2986007
 : فاكس
 
 02 - 2986008
-
-دولة فلسطين
-
-ديوان الفتوى والتشريع
 
 [[END OF PAGE 11]]
 
@@ -730,6 +726,10 @@ State of Palestine
 
 Advisory & legislation Bureau
 
+دولة فلسطين
+
+ديوان الفتوى والتشريع
+
 ## Article (30) Job Nature Allowance
 
 - Teachers of governmental schools shall have a job nature allowance commensurate with the rank they have.
@@ -757,10 +757,6 @@ Ramallah - Tel: 02 - 2971654
 Tel: 02 - 2986007
 
 2986008 -02                       Fax:
-
-دولة فلسطين
-
-ديوان الفتوى والتشريع
 
 02 - 2971654
 
@@ -844,6 +840,10 @@ State of Palestine
 
 Advisory & legislation Bureau
 
+دولة فلسطين
+
+ديوان الفتوى والتشريع
+
 ## Article (37) Activities
 
 The activities included in school text books shall be organized in accordance with the educational objectives which match students' educational capacities with the ministry setting forth the necessary programs and plans in its annual plan.
@@ -882,10 +882,6 @@ Tel: 02 - 2986007
 
 02 - 2986008
 
-دولة فلسطين
-
-ديوان الفتوى والتشريع
-
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
@@ -895,6 +891,10 @@ Unofficial translation
 State of Palestine
 
 Advisory & legislation Bureau
+
+دولة فلسطين
+
+ديوان الفتوى والتشريع
 
 ## Article (41) Community Organizations
 
@@ -906,7 +906,7 @@ Education is considered to be a joint responsibility for all CBOs, so the Minist
 
 ## Article (42) Programs and Plans
 
-- The Ministry shall set forth necessary programs, according to the needs of dropouts or the students with absences due to compelling conditions determined by the Ministry, to be reenrolled in the school system in coordination with the relevant authorities.
+- The Ministry shall set forth necessary programs, according to the needs of dropouts or the students with absences due to compelling conditions determined by the Ministry, to be re-enrolled in the school system in coordination with the relevant authorities.
 
 - The school sets the programs and plans aimed at improving students' achievement and performance in cooperation with relevant experts and educators on the level of the community and civil society organizations and in accordance with instructions issued by the minister.
 
@@ -936,10 +936,6 @@ Tel: 02 - 2986007
 
 02 - 2986008
 
-دولة فلسطين
-
-ديوان الفتوى والتشريع
-
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
@@ -949,6 +945,10 @@ Unofficial translation
 State of Palestine
 
 Advisory & legislation Bureau
+
+دولة فلسطين
+
+ديوان الفتوى والتشريع
 
 ## Article (45) Fundraising
 
@@ -983,10 +983,6 @@ Tel: 02 - 2986007
 : فاكس
 
 02 - 2986008
-
-دولة فلسطين
-
-ديوان الفتوى والتشريع
 
 [[END OF PAGE 17]]
 
@@ -1050,6 +1046,10 @@ State of Palestine
 
 Advisory & legislation Bureau
 
+دولة فلسطين
+
+ديوان الفتوى والتشريع
+
 ## Article (51) Education in Emergencies
 
 The Ministry shall provide education in emergencies and maintain the minimum standards of the quality of the education services under such conditions. It shall also cooperate with local, regional and international organizations which the State doesn't ban or their activities don't conflict with the national interest of the people of Palestine.
@@ -1087,10 +1087,6 @@ Tel: 02 - 2986007
 : فاكس
 
 02 - 2986008
-
-دولة فلسطين
-
-ديوان الفتوى والتشريع
 
 [[END OF PAGE 19]]
 
