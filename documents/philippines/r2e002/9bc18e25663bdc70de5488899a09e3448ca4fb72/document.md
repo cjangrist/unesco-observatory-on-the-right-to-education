@@ -10,15 +10,11 @@ Republic Act No. 6655             May 26, 1988
 
 # AN ACT ESTABLISHING AND PROVIDING FOR A FREE PUBLIC SECONDARY EDUCATION AND FOR OTHER PURPOSES
 
-Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled: :
+Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled::
 
-## Section 1. Title .
+## Section 1. Title.
 
-- This Act shall be known as the
-
-1988
-
-."
+- This Act shall be known as the "Free Public Secondary Education Act of 1988."
 
 ## Section 2. Declaration of Policy .
 
@@ -30,11 +26,7 @@ secondary education to all qualified citizens and to promote quality education a
 
 - For purposes of this Act, the following terms shall mean:
 
-Free Public Secondary Education
-
-a)
-
-. - Means that the students enrolled in secondary
+a) Free Public Secondary Education. — Means that the students enrolled in secondary
 
 course offerings in national high schools, general comprehensive high schools, trade,
 
@@ -46,19 +38,11 @@ municipal and barangay high schools, and those public high schools which may be
 
 established by law, shall be free from payment of tuition and other schools fees;
 
-Tuition Fee
-
-b)
-
-. - Refers to the fee representing direct costs of instruction, training and
+b) Tuition Fee. — Refers to the fee representing direct costs of instruction, training and
 
 other related activities and for the students' use of the instruction and training facilities;
 
-Other School Fees
-
-c)
-
-. - Refer to those fees which cover the other necessary costs
+c) Other School Fees. — Refer to those fees which cover the other necessary costs
 
 supportive of instruction, including but not limited to medical and dental, athletic, library,
 
@@ -92,9 +76,10 @@ any benefit which the national or local government may have granted to the stude
 
 and other school personnel of these public high schools prior to the enactment of this Act.
 
-"
+[[END OF PAGE 1]]
 
-Free Public Secondary Education Act of
+[[START OF PAGE 2]]
+
 ## Section 5. Formulation of a Secondary Education Curriculum .
 - The Department of Education, Culture and Sports shall formulate a secondary education curriculum in order to upgrade its quality, efficiency and access.n addition to providing the high school students with general skills, knowledge and values, such a curriculum must include vocational and technical courses that will give the students gainful employment.
 ## Section 6. Limitation .
@@ -110,12 +95,8 @@ Free Public Secondary Education Act of
 ## Section 11. Repealing Clause .
 - All laws or parts thereof, inconsistent with any provision of this Act shall be deemed repealed or modified as the case may be.
 ## Section 12. Effectivity .
-- This Act shall take effect upon its approval. Approved: May 26, 1988.
+- This Act shall take effect upon its approval.
 
-[[END OF PAGE 1]]
-
-[[START OF PAGE 2]]
-
-(this page came through the extractor with no text)
+Approved: May 26, 1988.
 
 [[END OF PAGE 2]]
