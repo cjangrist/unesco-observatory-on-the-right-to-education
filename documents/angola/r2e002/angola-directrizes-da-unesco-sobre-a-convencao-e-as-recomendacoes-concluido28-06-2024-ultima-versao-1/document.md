@@ -16,7 +16,7 @@ O direito à educação para todos, sem qualquer forma de discriminação, é um
 
 Embora tenham sido feitos progressos significativos na melhoria do acesso à educação nas últimas décadas, cerca de 250 milhões de crianças e jovens ainda estão fora da escola.
 
-A Convenção e Recomendação de 1960 contra a Discriminação na Educação -principais instrumentos normativos globais que protegem o direito à educação -refletir  A  missão  da  UNESCO  que,  de  acordo  com  a  sua  Constituição,  é 'promover o ideal de igualdade de op ortunidades educacionais, independentemente  de  raça,  sexo  ou  quaisquer  distinções,  econômico  ou social.'
+A Convenção e Recomendação de 1960 contra a Discriminação na Educação – principais instrumentos normativos globais que protegem o direito à educação – refletir A missão da UNESCO que, de acordo com a sua Constituição, é “promover o ideal de igualdade de oportunidades educacionais, independentemente de raça, sexo ou quaisquer distinções, econômico ou social.”
 
 Nos termos do Artigo VIII da Constituição da UNESCO, os Estados Membros são obrigados a apresentar relatórios regulares sobre as medidas que tomaram para implementar as convenções e recomendações adotadas pela Organização.
 
@@ -68,7 +68,7 @@ Como  o  âmbito  e  o  conteúdo  das  obrigações  legais  no  âmbito  do  d
 
 Além  do  ODS  4,  a  Convenção  também  está  estreitamente  alinhada  com  o conteúdo  normativo  sobre  o  direito  à  educação  de  outros  instrumentos internacionais de direitos humanos, como o Pacto Internacional sobre Direitos Económicos,  Sociais  e  Culturais  (1966),  Convenção  sobre  a  Eliminação  de Todas as Formas de Discriminação contra as Mulheres (1979), a Convenção sobre  os  Direitos  da  Criança  (1989)  e  a  Convenção  sobre  os  Direitos  das Pessoas com Deficiência (2006).
 
-Além disso, esta Consulta é uma oportunidade para informar a Iniciativa  da UNESCO  sobre  a  Evoluir  o  direito  à  educação  numa  perspetiva  de aprendizagem ao longo da vida (lançado em dezembro de 2021). A Iniciativa investiga  como o direito à educação poderia ser reforçado, inserindo-o numa perspectiva  de  aprendizagem  e  à  luz  das  novas  exigências  colocadas  à educação. Esta Iniciativa constrói sobre o Relatório da Comissão Internacional sobre o Futuro da Educação ,  o  que  sugere  ampliar  a  nossa compreensão do direito à educação para aplicá-lo claramente a todas as idades e  em  todos  os  tempos  e  espaços.  A  iniciativa  também  está  alinhada  com  a Declaração  de  Visão  do  Secretário  das  Nações  Unidas  Geral  sobre  a Educação  Transformadora e  o Relatório  da  Cimeira  sobre  a  Educação Transformadora de 2022 , que apela à transformação dos sistemas educativos para 'incluir todos, independentemente de circunstância, contexto ou antecedentes'. A Iniciativa sobre a Evolução do Direito à Educação visa abrir uma discussão colaborativa  e  participativa  sobre  o  quadro  internacional  para garantir a eficácia aplicação do direito à educação e à aprendizagem ao longo da vida para todos. Por último, a Iniciativa baseia-se diálogos intergovernamentais recentes, incluindo o Quadro de Acção de Marraquexe para a  Educação  de  Adultos  e  Educação5  e  a  Declaração  de  Tashkent  sobre Cuidados e Educação na Primeira Infância.
+Além disso, esta Consulta é uma oportunidade para informar a Iniciativa da UNESCO sobre a Evoluir o direito à educação numa perspetiva de aprendizagem ao longo da vida (lançado em dezembro de 2021). A Iniciativa investiga como o direito à educação poderia ser reforçado, inserindo-o numa perspectiva de aprendizagem e à luz das novas exigências colocadas à educação. Esta Iniciativa constrói sobre o Relatório da Comissão Internacional sobre o Futuro da Educação, o que sugere ampliar a nossa compreensão do direito à educação para aplicá-lo claramente a todas as idades e em todos os tempos e espaços. A iniciativa também está alinhada com a Declaração de Visão do Secretário das Nações Unidas Geral sobre a Educação Transformadora e o Relatório da Cimeira sobre a Educação Transformadora de 2022, que apela à transformação dos sistemas educativos para 'incluir todos, independentemente de circunstância, contexto ou antecedentes'. A Iniciativa sobre a Evolução do Direito à Educação visa abrir uma discussão colaborativa e participativa sobre o quadro internacional para garantir a eficácia aplicação do direito à educação e à aprendizagem ao longo da vida para todos. Por último, a Iniciativa baseia-se diálogos intergovernamentais recentes, incluindo o Quadro de Acção de Marraquexe para a Educação de Adultos e Educação⁵ e a Declaração de Tashkent sobre Cuidados e Educação na Primeira Infância.
 
 É também importante notar que as consultas anteriores sobre a Convenção e a Recomendação revelou que os países compreendem agora o direito à educação de  uma  forma  alargada.  O  A  11ª  consulta  baseia-se  nas  conclusões  dos relatórios nacionais anteriores para incluir várias áreas que têm repercussões diretas no direito à educação, como, por exemplo, aprendizagem digital, clima considerações,  o  direito  à  aprendizagem  ao  longo  da  vida  e  o  papel  dos intervenientes não estatais na educação.
 
@@ -100,7 +100,7 @@ A preparação de relatórios nacionais proporciona uma boa oportunidade para os
 
 [[START OF PAGE 5]]
 
-Na preparação dos relatórios, os Estados-Membros são incentivados a fornecer informações substanciais e relevantes informações de forma concisa . Além de uma descrição dos aspectos constitucionais, legislativos, quadro administrativo  e  político  estabelecido  para  a  implementação  das  disposições garantidas  pelos  instrumentos,  as  informações  fornecidas  pelos  EstadosMembros deverão demonstrar como as normas jurídicas e práticas cumprem a Convenção e a Recomendação.
+Na preparação dos relatórios, os Estados-Membros são incentivados a fornecer informações substanciais e relevantes informações de forma concisa. Além de uma descrição dos aspectos constitucionais, legislativos, quadro administrativo e político estabelecido para a implementação das disposições garantidas pelos instrumentos, as informações fornecidas pelos Estados-Membros deverão demonstrar como as normas jurídicas e práticas cumprem a Convenção e a Recomendação.
 
 As  informações  relevantes  fornecidas  para  outras  instâncias  de  notificação podem  ser  reproduzidas  ou  referidas  com  indicação  precisa  quanto  à  sua recuperação. Da mesma forma, hiperlinks para quaisquer documentos úteis ou informações legais e relevantes textos políticos são muito bem-vindos e textos também podem ser adicionados no anexo.
 
@@ -126,11 +126,11 @@ Com o objetivo  de  simplificar  as  Diretrizes  e,  ao  mesmo  tempo,  fornecer
 
 [[START OF PAGE 6]]
 
-- Informações  adicionais  destinadas  a  orientar  os  Estados-Membros  na estrutura  e  detalhe  das  suas  respostas  às  perguntas  abertas  (incluindo comentários sobre como responder de forma eficiente às questões levantadas). Esses elementos são apresentados em itálico.
+(2) Informações adicionais destinadas a orientar os Estados-Membros na estrutura e detalhe das suas respostas às perguntas abertas (incluindo comentários sobre como responder de forma eficiente às questões levantadas). Esses elementos são apresentados em itálico.
 
 INFORMAÇÕES GERAIS:
 
-## Ratificação e aplicabilidade da Convenção contra a Discriminação na Educação
+## I. Ratificação e aplicabilidade da Convenção contra a Discriminação na Educação
 
 - O seu país é um Estado Parte na Convenção?
 
@@ -190,7 +190,7 @@ Sim X
 
 Não
 
-- Os tribunais, os tribunais e/ou as autoridades administrativas pronunciaram-se sobre questões ou violações relativas ao direito à educação? 11º
+- Os tribunais, os tribunais e/ou as autoridades administrativas pronunciaram-se sobre questões ou violações relativas ao direito à educação?¹¹
 
  Não
 
@@ -236,19 +236,14 @@ Poderão também ser dadas informações sobre as autoridades judiciais, adminis
 
 Para referência: Esta secção refere-se ao objectivo principal da Convenção/Recomendação que é sublinhar a obrigação do Estado de proibir qualquer forma de discriminação na educação, promovendo ao mesmo tempo a igualdade de oportunidades educacionais oportunidade conforme estabelecido nos artigos/parágrafos 1(1), 2 e 3 da Convenção/Recomendação.
 
-Corresponde  ainda  à  aspiração  geral  do  ODS4,  que  visa 'garantir  uma qualidade inclusiva e equitativa educação e promover oportunidades de aprendizagem ao longo da vida para todos' até 2030. Embora abranja todas as metas do ODS4, também cobre especificamente a meta 4.5.12 do ODS.
+Corresponde ainda à aspiração geral do ODS4, que visa 'garantir uma qualidade inclusiva e equitativa educação e promover oportunidades de aprendizagem ao longo da vida para todos' até 2030. Embora abranja todas as metas do ODS4, também cobre especificamente a meta 4.5.¹² do ODS.
 
--Indique se os direitos e princípios estabelecidos na Convenção/Recomendação  foram  informados  a  elaboração  do  quadro jurídico e/ou político da educação:
-
-- Se sim, forneça referência :
-
--Constituição da República de Angola , Artigos 1.º e 2.º; 21.º - 23.º; 26.º e 27.º
-
--Decreto Presidencial N.º 225/23, de 30 de Novembro, que aprova o Plano de Desenvolvimento Nacional 2023-2027 (PDN 2023-2027);
-
+- Indique se os direitos e princípios estabelecidos na Convenção/Recomendação foram informados a elaboração do quadro jurídico e/ou político da educação:
 Sim X
-
 Não
+- Se sim, forneça referência:
+- Constituição da República de Angola, Artigos 1.º e 2.º; 21.º - 23.º; 26.º e 27.º
+- Decreto Presidencial N.º 225/23, de 30 de Novembro, que aprova o Plano de Desenvolvimento Nacional 2023-2027 (PDN 2023-2027);
 
 8
 
@@ -606,7 +601,7 @@ São concedidos incentivos financeiros e bolsas de estudo para percursos de apre
 
  Educação não formal e/ou programas alternativos são fornecidos: Sim
 
- São oferecidas aulas de idiomas para recém- chegados: Não
+ São oferecidas aulas de idiomas para recém-chegados: Não
 
  Multilinguismo e educação intercultural são encorajados: Sim
 
@@ -699,9 +694,9 @@ Decreto presidencial nº 163/22 de 21 de agosto no Artigo 10.º-B estabelece: An
 
 #### 2.1 Cuidados e educação na primeira infância
 
-Para referência: Os cuidados e a educação na primeira infância (ECPI) não estão explicitamente previstos na Convenção/Recomendação. No entanto, a comunidade  internacional  tem  reconhecido  cada  vez  mais  a  importância  da ECCE  ao  longo  dos  anos.  O  Comité  dos  Direitos  da  Criança  reconheceu inicialmente 'o direito à educação durante a primeira infância como começando no nascimento' (Comentário Geral N º. 7). Isso se tornou mais explícito com o Quadro de Acção e Cooperação de Moscovo de 2010 e, mais recentemente, com o Quadro de Acção e Cooperação de Tashkent
+Para referência: Os cuidados e a educação na primeira infância (ECPI) não estão explicitamente previstos na Convenção/Recomendação. No entanto, a comunidade internacional tem reconhecido cada vez mais a importância da ECCE ao longo dos anos. O Comité dos Direitos da Criança reconheceu inicialmente 'o direito à educação durante a primeira infância como começando no nascimento' (Comentário Geral Nº. 7). Isso se tornou mais explícito com o Quadro de Acção e Cooperação de Moscovo de 2010 e, mais recentemente, com o Quadro de Acção e Cooperação de Tashkent
 
-Declaração  e  Compromissos  de  Acção  para  Transformar  os  Cuidados  e  a Educação na Primeira Infância. No contexto actual da Agenda Educação 2030, no âmbito da meta 4.2 do ODS, os estados comprometeram-se agora com 'a oferta de, pelo menos, um ano de Educação Pré-E scolar gratuita e obrigatória'.
+Declaração e Compromissos de Acção para Transformar os Cuidados e a Educação na Primeira Infância. No contexto actual da Agenda Educação 2030, no âmbito da meta 4.2 do ODS, os estados comprometeram-se agora com 'a oferta de, pelo menos, um ano de Educação Pré-Escolar gratuita e obrigatória'.
 
 19
 
@@ -717,7 +712,7 @@ Declaração  e  Compromissos  de  Acção  para  Transformar  os  Cuidados  e  
 
  Os serviços de ECPI são acessíveis de forma não discriminatória:
 
- Os serviços  de  Educação  Pré- Escolar e cuidados para a infância respeitam  a  necessidade  de  uma criança, desde cedo, o desenvolvimento cognitivo e social, a aprendizagem fundamental, o cuidado responsivo, a nutrição, a saúde, a segurança, a protecção e a diversão:
+ Os serviços de Educação Pré-Escolar e cuidados para a infância respeitam a necessidade de uma criança, desde cedo, o desenvolvimento cognitivo e social, a aprendizagem fundamental, o cuidado responsivo, a nutrição, a saúde, a segurança, a protecção e a diversão:
 
 - Por favor, explique mais detalhadamente as medidas tomadas:
 
@@ -763,7 +758,7 @@ Que desafios foram encontrados na concretização dos cuidados e da Educação n
 
 #### 2.2 Ensino Primário e Secundário
 
-Para referência: O Artigo/Parágrafo 4(a) da Convenção/Recomendação prevê o Ensino  Primário  Universal  e  Ensino  Secundário.  No  contexto  da  agenda Educação 2030, a meta 4.1 do ODS apela aos Estados para fornecer '12 anos de Ensino Primário e Secundário gratuito, com financiamento público, inclusiva, equitativa e de qualidade -dos quais pelo menos nove anos são obrigatórios.'
+Para referência: O Artigo/Parágrafo 4(a) da Convenção/Recomendação prevê o Ensino Primário Universal e Ensino Secundário. No contexto da agenda Educação 2030, a meta 4.1 do ODS apela aos Estados para fornecer '12 anos de Ensino Primário e Secundário gratuito, com financiamento público, inclusiva, equitativa e de qualidade – dos quais pelo menos nove anos são obrigatórios.'
 
 21
 
@@ -853,13 +848,15 @@ Nesta parte, forneça informações sobre a disponibilidade geral e acessibilida
 
 - Indique se a idade mínima legal para o emprego está alinhada com o fim da obrigatoriedade da Educação:
 
-Para  referência:  As  leis  trabalhistas  e  aquelas  relacionadas  à  escolaridade obrigatória são interdependentes e reforçam-se mutuamente. Se a idade mínima de emprego for inferior à da escolaridade obrigatória, a criança corre o risco de abandonar  a  escola  para  trabalhar  e,  portanto,  não  concluir  a  escolaridade obrigatória.  Por  outro  lado,  se  a  escolaridade  obrigatória  for  inferior  à  idade mínima  de  admissão  ao  emprego,  uma  vez  que  a  criança  completou  a escolaridade obrigatória, a porta está aberta à exploração infantil e à violação das leis laborais.
+Para referência: As leis trabalhistas e aquelas relacionadas à escolaridade obrigatória são interdependentes e reforçam-se mutuamente. Se a idade mínima de emprego for inferior à da escolaridade obrigatória, a criança corre o risco de
 
 23
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
+
+abandonar a escola para trabalhar e, portanto, não concluir a escolaridade obrigatória. Por outro lado, se a escolaridade obrigatória for inferior à idade mínima de admissão ao emprego, uma vez que a criança completou a escolaridade obrigatória, a porta está aberta à exploração infantil e à violação das leis laborais.
 
 o Sim o Não
 
@@ -897,7 +894,7 @@ o Sim o Não
 
 #### 2.3 Ensino superior
 
-Para referência: O Artigo/Parágrafo 4(a) da Convenção/Recomendação prevê o ensino superior. Garantir o ensino superior é essencial para alcançar o ODS4, ambas as metas 4.339 e 4.440. Artigo 4º da Convenção exige que os estados tornem  'o  ensino  superior  igualmente  acessível  a  todos  com  base  em capacidade  individual'. Artigo 13.º do  Pacto  Internacional  sobre Direitos Económicos,  Sociais  e  Culturais  (1966)  acrescenta  ainda  que  isto  deve  ser consegui do por 'todos os meios a propriados, e em particular pela introdução progressiva da educação gratuita'. O ensino superior inclui o ensino técnico e profissional e formação.
+Para referência: O Artigo/Parágrafo 4(a) da Convenção/Recomendação prevê o ensino superior. Garantir o ensino superior é essencial para alcançar o ODS4, ambas as metas 4.3³⁹ e 4.4⁴⁰. Artigo 4º da Convenção exige que os estados tornem “o ensino superior igualmente acessível a todos com base em capacidade individual”. Artigo 13.º do Pacto Internacional sobre Direitos Económicos, Sociais e Culturais (1966) acrescenta ainda que isto deve ser conseguido por “todos os meios apropriados, e em particular pela introdução progressiva da educação gratuita”. O ensino superior inclui o ensino técnico e profissional e formação.
 
 - Indique  os  esforços  envidados  para  garantir  que  o  ensino  superior, incluindo  o  ensino  técnico  profissional  e  treinamento,  seja  igualmente acessível a todos com base na capacidade individual e/ou esteja disponível gratuitamente (vários itens podem ser assinalados):
 
@@ -935,7 +932,7 @@ Decreto presidencial n 124/20 de 4 de Maio 'Regulamento sobre Propinas, Taxas e 
 
  Outros:
 
- Baixo  número  de  professores profissionais capacitados:  S im
+ Baixo  número  de  professores profissionais capacitados: Sim
 
  Mecanismos  insuficientes  para garantir  uma  boa  transição  do secundário para o terciário: Não
 
@@ -947,21 +944,21 @@ Infraestrutura deficiente.
 
 -Por favor, apresente breves informações quantitativas podem  ser adicionadas
 
--No  ano  académico  2021-2022  o  subsistema  do  ensino  superior  era constituído por 98 instituições sendo 30 públicas e 68 privadas.
+- No ano académico 2021-2022 o subsistema do ensino superior era constituído por 98 instituições sendo 30 públicas e 68 privadas.
 
-- Rácio Estudantes/Docentes :  no ano académico 2021-2022, Angola tinha 28 estudantes por docentes;
+- Rácio Estudantes/Docentes: no ano académico 2021-2022, Angola tinha 28 estudantes por docentes;
 
--Índice de paridade da População Estudantil: N o  ano académico 20212022, Angola tinha um 0.95;
+- Índice de paridade da População Estudantil: No ano académico 2021-2022, Angola tinha um 0.95;
 
-- Taxa Bruta de Escolarização: N o ano académico 2021-2022 e de 7,8%;
+- Taxa Bruta de Escolarização: No ano académico 2021-2022 e de 7,8%;
 
--Taxa Líquida de Escolarização (%): No ano  académico 2021-2022 e de 3,2%
+- Taxa Líquida de Escolarização (%): No ano académico 2021-2022 e de 3,2%
 
 Fonte: Gabinete de Estudos, Planeamento e Estatística do MESCTI
 
 #### 2.4 Educação de adultos e aprendizagem alternativa
 
-Para referência: O Artigo/Parágrafo 4(c) da Convenção/Recomendação prevê a educação de adultos e aprendizagem alternativa. Embora o ODS4 vise 'garantir uma educação de qualidade inclusiva, equitativa e promover oportunidades de aprendizagem ao longo da vida para todos', a meta 4.6 apela especificamente aos estados para 'garantirem que todos os jovens e uma proporção substancial de  adultos,  tanto  homens  como  mulheres,  alcançam  a  alfabetização  e  a numeracia'. Além disso, no âmbito da meta 4.4, os estados são chamados a
+Para referência: O Artigo/Parágrafo 4(c) da Convenção/Recomendação prevê a educação de adultos e aprendizagem alternativa. Embora o ODS4 vise “garantir uma educação de qualidade inclusiva, equitativa e promover oportunidades de aprendizagem ao longo da vida para todos”, a meta 4.6 apela especificamente aos estados para “garantirem que todos os jovens e uma proporção substancial de adultos, tanto homens como mulheres, alcançam a alfabetização e a numeracia”. Além disso, no âmbito da meta 4.4, os estados são chamados a
 
 26
 
@@ -969,7 +966,7 @@ Para referência: O Artigo/Parágrafo 4(c) da Convenção/Recomendação prevê 
 
 [[START OF PAGE 27]]
 
-'aumentar e a  diversificar  as  oportunidades  de  aprendizagem, utilizando uma ampla gama de modalidades de educação e formação, para que todos os jovens e adultos, especialmente meninas e mulheres, possam adquirir conhecimentos, habilidades e competências relevantes para um trabalho e uma vida decentes .'
+“aumentar e a diversificar as oportunidades de aprendizagem, utilizando uma ampla gama de modalidades de educação e formação, para que todos os jovens e adultos, especialmente meninas e mulheres, possam adquirir conhecimentos, habilidades e competências relevantes para um trabalho e uma vida decentes.”
 
 - Indique as medidas tomadas para estabelecer um sistema de educação contínuo  e  acesso  equitativo  às  oportunidades  de  aprendizagem  e formação (vários itens podem ser assinalados):
 
@@ -1017,13 +1014,13 @@ Para referência: O Artigo/Parágrafo 4(c) da Convenção/Recomendação prevê 
 
 - Por  favor,  apresente  breves  informações  quantitativas  podem  ser adicionadas.
 
-### Oferta de educação e ambiente de aprendizagem de qualidade
+### 3. Oferta de educação e ambiente de aprendizagem de qualidade
 
-Para referência: Os artigos/parágrafos 2, 4(b) e 5(b) da Convenção/Recomendação prevêem Educação de qualidade. A educação de qualidade  é  fundamental  para  atingir  todas  as  metas  do  ODS4.  Também  é particularmente destacado na meta 4.a do ODS, que recomenda aos estados 'construir e a ctualizar instalações educacionais que sejam sensíveis à criança, à  deficiência  e  ao  género,  bem  como  proporcionar  uma  aprendizagem  em ambiente seguro , não violenta, inclusiva e eficaz para todos'.
+Para referência: Os artigos/parágrafos 2, 4(b) e 5(b) da Convenção/Recomendação prevêem Educação de qualidade. A educação de qualidade é fundamental para atingir todas as metas do ODS4. Também é particularmente destacado na meta 4.a do ODS, que recomenda aos estados “construir e actualizar instalações educacionais que sejam sensíveis à criança, à deficiência e ao género, bem como proporcionar uma aprendizagem em ambiente seguro, não violenta, inclusiva e eficaz para todos”.
 
 #### 3.1 Medidas gerais
 
-- Indicar se o quadro jurídico ou regulamentar estabelece as condições e normas mínimas de ensino para a criação e o funcionamento de estabelecimentos de ensino públicos no que diz respeito:
+1. Indicar se o quadro jurídico ou regulamentar estabelece as condições e normas mínimas de ensino para a criação e o funcionamento de estabelecimentos de ensino públicos no que diz respeito:
 
  Controlo e inspecções do Estado:
 
@@ -1055,8 +1052,6 @@ Pode incluir informações sobre políticas, protocolos ou códigos de conduta.
 
 -Decreto Executivo N.º 337/22 de 10 de Agosto, que aprova o regulamento que estabelece as Regras e os Procedimentos para a Criação e Licenciamento de Instituição de Ensino Superior e Cursos de Graduação e Pós-Graduação;
 
-- Por favor, pode ser acrescida informações quantitativas sucintas.
-
 - Quais são dificuldades encontradas para a realização de uma educação de qualidade :
 
  Ambientes de aprendizagem não favoráveis ou inadequados: Sim
@@ -1065,9 +1060,7 @@ Pode incluir informações sobre políticas, protocolos ou códigos de conduta.
 
  Custo da educação: Sim
 
- Conflitos ou crises:
-
-Não
+ Conflitos ou crises: Não
 
  Outro:
 
@@ -1077,6 +1070,8 @@ Não
 
  Longas distâncias até escolas: Sim
 
+- Por favor, pode ser acrescida informações quantitativas sucintas.
+
 29
 
 [[END OF PAGE 29]]
@@ -1085,7 +1080,7 @@ Não
 
 #### 3.2 Pessoal Educativo
 
-Para referência: O Artigo/Parágrafo 4(d) da Convenção/Recomendação prevê a educação pessoal. Isto  corresponde  à  meta  4.c  do  ODS,  que  é  inteiramente dedicada  à  profissão  docente,  uma  vez  que  apela  aos  estados  para  que 'aumentem substancialmente a oferta de professores qualificados'.
+Para referência: O Artigo/Parágrafo 4(d) da Convenção/Recomendação prevê a educação pessoal. Isto corresponde à meta 4.c do ODS, que é inteiramente dedicada à profissão docente, uma vez que apela aos estados para que “aumentem substancialmente a oferta de professores qualificados”.
 
 - Queira indicar as medidas tomadas para melhorar as condições de ensino e de trabalho do pessoal educativo, com  particularidade para os professores de todos os níveis, assim como a formação para o exercício da profissão de professor:
 
@@ -1111,7 +1106,7 @@ Para referência: O Artigo/Parágrafo 4(d) da Convenção/Recomendação prevê 
 
 -Decreto Presidencial N.º 162/22, de 21 de Junho, que estabelece o Regulamento para as actividades de controlo, fiscalização e verificação das condições de organização e funcionamento das IES;
 
--Decreto Presidencial N.º121/20, de 27 de Abril -que aprova o Regime de Avaliação de Desempenho do Pessoal Docente do Ensino Superior;
+- Decreto Presidencial N.º121/20, de 27 de Abril – que aprova o Regime de Avaliação de Desempenho do Pessoal Docente do Ensino Superior;
 
 30
 
@@ -1121,7 +1116,7 @@ Para referência: O Artigo/Parágrafo 4(d) da Convenção/Recomendação prevê 
 
 -
 
--Decreto Presidencial N.º239/20, de 25 de Setembro -que aprova o Regulamento do Regime de Contratação do Pessoal Docente Especialmente Contratado das IES.
+- Decreto Presidencial N.º239/20, de 25 de Setembro – que aprova o Regulamento do Regime de Contratação do Pessoal Docente Especialmente Contratado das IES.
 
 -Programa  de  Formação  de  Quadros  N.º  13  do  PDN  2023-2027 : orienta a implementação do Plano de Formação e Gestão do Pessoal Docente.
 
@@ -1149,7 +1144,7 @@ Para referência: O Artigo/Parágrafo 4(d) da Convenção/Recomendação prevê 
 
 #### 3.3 Respeito pelos direitos humanos e pelas liberdades fundamentais
 
-Para referência: O Artigo/Parágrafo 5(1)(a) da Convenção/Recomendação prevê o respeito por direitos humanos e liberdades fundamentais. Isto é coberto pela meta 4.7.41 do ODS. Observe que este secção contribui para o monitoramento geral do Artigo/Parágrafo 5(1)(a) do Convenção/Recomendação e que a futura consulta  sobre  a  Recomendação  de  1974  relativa a  Educação  para  a Compreensão Internacional, Cooperação e Paz e Educação Relacionada com a Humanidade Direitos, Liberdades Fundamentais // A Recomendação de 2023 sobre [….] será usada especificamente para monitoramento do indicador ODS4 4.7.1.
+Para referência: O Artigo/Parágrafo 5(1)(a) da Convenção/Recomendação prevê o respeito por direitos humanos e liberdades fundamentais. Isto é coberto pela meta 4.7.⁴¹ do ODS. Observe que este secção contribui para o monitoramento geral do Artigo/Parágrafo 5(1)(a) do Convenção/Recomendação e que a futura consulta sobre a Recomendação de 1974 relativa a Educação para a Compreensão Internacional, Cooperação e Paz e Educação Relacionada com a Humanidade Direitos, Liberdades Fundamentais // A Recomendação de 2023 sobre [….] será usada especificamente para monitoramento do indicador ODS4 4.7.1.
 
 - Por favor, indique os esforços nacionais empreendidos para direccionar a educação para o pleno desenvolvimento do ser humano, personalidade e o fortalecimento do respeito pelos direitos humanos e pelas liberdades fundamentais (vários itens podem estar marcados):
 
@@ -1223,15 +1218,11 @@ O quadro legal ou regulamentar estabelece as condições e os padrões mínimos 
 
  Currículo: Sim
 
- Proporção aluno-professor:
-
-Sim
+ Proporção aluno-professor: Sim
 
  Propinas/comparticipações: Sim
 
- Encerramento de escolas:
-
-Sim
+ Encerramento de escolas: Sim
 
  Outros
 
@@ -1285,7 +1276,7 @@ Indique o texto e as disposições relevantes:
 
  As medidas abordam a exclusão digital, incluindo a garantia do acesso a electricidade  fiável,  conectividade  à  Internet  na  escola  e  em  casa, dispositivos adequados para aprendizagem e ensino, seguros e software sustentável  e  plataformas  seguras  e  sistemas  integrados  de  dados educacionais: Não
 
- Um orçamento bem estabelecido, sustentável e com boa relação custobenefício,  garantido  por  uma  variedade  de  fontes  de  financiamento  e
+ Um orçamento bem estabelecido, sustentável e com boa relação custo-benefício, garantido por uma variedade de fontes de financiamento e
 
 35
 
@@ -1325,7 +1316,7 @@ Por favor, elabore. Breves informações quantitativas podem ser adicionadas.
 
 ### 4 Reforçar os sistemas de governação
 
-Para  referência:  O  Quadro  de  Acção  Educação  2030  afirma  "garantir  uma educação  de  qualidade  e  condições  para  resultados  educativos  eficazes,  os governos  devem  reforçar  os  sistemas  educativos,  instituindo  e  melhorando mecanismos  de  governação  e  responsabilização  apropriados,  eficazes  e inclusivos; Garantia da Qualidade; Sistemas de Gestão de Informação; procedimentos  e  mecanismos  de  financiamento  transparentes  e  eficazes;  e arranjos  de  gestão  institucional,  bem  como  garantir  que  dados  robustos, oportunos e acessíveis estejam disponíveis' (parágrafo 18).
+Para referência: O Quadro de Acção Educação 2030 afirma "garantir uma educação de qualidade e condições para resultados educativos eficazes, os
 
 36
 
@@ -1333,7 +1324,9 @@ Para  referência:  O  Quadro  de  Acção  Educação  2030  afirma  "garantir 
 
 [[START OF PAGE 37]]
 
--  Indique  as  medidas  tomadas  em  termos  de  governação  (podem  ser assinalados vários itens):
+governos devem reforçar os sistemas educativos, instituindo e melhorando mecanismos de governação e responsabilização apropriados, eficazes e inclusivos; Garantia da Qualidade; Sistemas de Gestão de Informação; procedimentos e mecanismos de financiamento transparentes e eficazes; e arranjos de gestão institucional, bem como garantir que dados robustos, oportunos e acessíveis estejam disponíveis” (parágrafo 18).
+
+- Indique as medidas tomadas em termos de governação (podem ser assinalados vários itens):
 
 - Mecanismos  de  monitoramento  para  avaliar  o  cumprimento  das obrigações do direito à educação, incluindo através de sistemas de informação gerencial.
 
@@ -1361,8 +1354,9 @@ Para  referência:  O  Quadro  de  Acção  Educação  2030  afirma  "garantir 
 
 - Que desafios foram encontrados em termos de governação?
 
-▪ ▪ | Sim das ▪ Ausência suporte/incoerente/obsoleto
---- | ---
+▪ Restrições orçamentais: Sim
+▪ Falta de envolvimento das partes interessadas relevantes
+▪ Ausência de suporte/incoerente/obsoleto
 
 37
 
@@ -1370,19 +1364,15 @@ Para  referência:  O  Quadro  de  Acção  Educação  2030  afirma  "garantir 
 
 [[START OF PAGE 38]]
 
-- e falta de cooperação/coordenação em Níveis diferentes: Sim
-
-- Fraco diálogo com os sindicatos de professores: Não
-
-- Outros:
-
-- ambiente jurídico e político: Não
-
-- Falta ou fraqueza dos sistemas de monitoramento - incluindo a falta de dados fiáveis: Sim
+e falta de cooperação/coordenação em Níveis diferentes: Sim
+▪ Fraco diálogo com os sindicatos de professores: Não
+▪ Outros:
+ambiente jurídico e político: Não
+▪ Falta ou fraqueza dos sistemas de monitoramento – incluindo a falta de dados fiáveis: Sim
 
 - Por favor, elabore. Breves informações quantitativas podem  ser adicionadas.
 
-## Métodos utilizados para chamar a atenção das diversas autoridades do país para os instrumentos
+## III. Métodos utilizados para chamar a atenção das diversas autoridades do país para os instrumentos
 
 Para referência: os órgãos dirigentes da UNESCO sublinharam a necessidade de  sensibilização.  Considerando  a  importância  da  ação  normativa  em  nível nacional, a ampla divulgação da Convenção deve ser assegurada, com o apoio das Comissões Nacionais da UNESCO.
 
