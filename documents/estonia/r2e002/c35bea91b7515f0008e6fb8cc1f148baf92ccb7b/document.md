@@ -32,15 +32,15 @@ Child protection is provided through state and local government bodies and non-g
 
 [[START OF PAGE 2]]
 
-- State child protection is legislative, investment and supervision activities financed from the state budget and the social fund for the organisation of children's health care, education, work, rest, recreational activities and welfare.
+(1) State child protection is legislative, investment and supervision activities financed from the state budget and the social fund for the organisation of children's health care, education, work, rest, recreational activities and welfare.
 
-- The Ministry of Social Affairs co-ordinates activities concerning state child protection. (26.06.96 entered into force 26.07.96 - RT I 1996, 49, 953)
+(2) The Ministry of Social Affairs co-ordinates activities concerning state child protection. (26.06.96 entered into force 26.07.96 - RT I 1996, 49, 953)
 
 ### § 6. Child protection by local governments
 
-- Child protection provided by local governments is the organisation of and supervision over child protection and assistance by the social services departments of the local governments.
+(1) Child protection provided by local governments is the organisation of and supervision over child protection and assistance by the social services departments of the local governments.
 
-- Child protection provided by social services departments shall be carried out by persons who have special qualifications and are suitable for such employment.
+(2) Child protection provided by social services departments shall be carried out by persons who have special qualifications and are suitable for such employment.
 
 ### § 7. Child protection by non-governmental organisations
 
@@ -53,9 +53,9 @@ Every child has an inherent right to life, health, development, work and well-be
 
 ### § 9. Right of child to identity
 
-- Every child shall be registered immediately after birth in a medical care institution. Every child has the right from birth to a name, nationality, general education in his or her national culture, and to know and be cared for by his or her parents.
+(1) Every child shall be registered immediately after birth in a medical care institution. Every child has the right from birth to a name, nationality, general education in his or her national culture, and to know and be cared for by his or her parents.
 
-- The child shall be registered by a state agency during the first month of life.
+(2) The child shall be registered by a state agency during the first month of life.
 
 ### § 10. Equal right of child to receive assistance and care
 
@@ -70,23 +70,23 @@ The child has the right to freedom of thought, conscience, religion and experien
 
 ### § 12. Right of child to rest and leisure
 
-- Every child has the right to rest and leisure in order to engage in recreational activities appropriate to the age of the child in accordance with his or her health, wishes and opportunities.
+(1) Every child has the right to rest and leisure in order to engage in recreational activities appropriate to the age of the child in accordance with his or her health, wishes and opportunities.
 
-- The child shall be guaranteed opportunities and conditions to engage in play.
+(2) The child shall be guaranteed opportunities and conditions to engage in play.
 
 ### § 13. Right of child to privacy
 
-- Every child has the right to privacy, acquaintances and friends.
+(1) Every child has the right to privacy, acquaintances and friends.
 
-- The right of the child to privacy shall not be subjected to arbitrary or unlawful interference which harms the child's honour, dignity, convictions or reputation.
+(2) The right of the child to privacy shall not be subjected to arbitrary or unlawful interference which harms the child's honour, dignity, convictions or reputation.
 
-- Repeated blatant interference in the privacy of the child may provide grounds for administrative or disciplinary measures or for the deprivation of parental rights.
+(3) Repeated blatant interference in the privacy of the child may provide grounds for administrative or disciplinary measures or for the deprivation of parental rights.
 
 ### § 14. Right of child to protection from economic, physical and mental exploitation
 
-- The child shall be protected from economic exploitation and from performing work which is hazardous, beyond the child's capabilities, harmful to the child's development or may interfere with the child's education.
+(1) The child shall be protected from economic exploitation and from performing work which is hazardous, beyond the child's capabilities, harmful to the child's development or may interfere with the child's education.
 
-- The child shall not be subjected to physical or mental exploitation.
+(2) The child shall not be subjected to physical or mental exploitation.
 
 ### § 15. Right of orphan or child deprived of parental care to maintenance by state
 An orphan or child deprived of parental care has the right to full maintenance by the state.
@@ -100,7 +100,7 @@ The child has the right to participate in the development of child protection pr
 
 [[START OF PAGE 4]]
 
-- The social rights of the child may only be restricted on such bases as are provided by law, taking the child into consideration to: 1)         protect the rights of other persons, including protection of reputation, if the actions of the child are apparently wrongful or malicious; 2)         protect public order, morals and health; 3)         guarantee the child's own development.
+(1) The social rights of the child may only be restricted on such bases as are provided by law, taking the child into consideration to: 1)         protect the rights of other persons, including protection of reputation, if the actions of the child are apparently wrongful or malicious; 2)         protect public order, morals and health; 3)         guarantee the child's own development.
 (2)        In disputes involving the restriction of the social rights of the child, the social services departments shall seek the opinion of an appropriate expert.
 ## III. Duties of Child
 ### § 18. Duties of child toward his or her parents and family
@@ -117,7 +117,7 @@ The child is a worthy member of society. The duties of the child toward society 
 
 [[START OF PAGE 5]]
 
-- Voluntary work appropriate to the age of the child is an important condition for the normal development of the child. The child shall care for himself or herself and shall participate in the common activities and work of his or her family.
+(1) Voluntary work appropriate to the age of the child is an important condition for the normal development of the child. The child shall care for himself or herself and shall participate in the common activities and work of his or her family.
 
 (2)        The state and local governments shall create conditions necessary for work by the child. The social services departments shall monitor compliance of work performed by children with the requirements for safety and health at work and with the principles of this Act.
 
@@ -129,15 +129,15 @@ The child shall attend school in accordance with the Republic of Estonia Educati
 
 Every child shall maintain and not harm his or her health in order to become a worthy perpetuator of life.
 
-### § 23 1 . Restriction of freedom of movement of minors
+### § 23¹. Restriction of freedom of movement of minors
 
-- Children are required to observe public order.
+(1) Children are required to observe public order.
 
-- It is prohibited for a minor under 16 years of age to be in a public place from 23.00 to 06.00 without being accompanied by an adult. During the period from 1 June to 31 August, it is prohibited for a minor to be in a public place from 00.00 to 05.00 without being accompanied by an adult.
+(2) It is prohibited for a minor under 16 years of age to be in a public place from 23.00 to 06.00 without being accompanied by an adult. During the period from 1 June to 31 August, it is prohibited for a minor to be in a public place from 00.00 to 05.00 without being accompanied by an adult.
 
-- Local governments have the right to temporarily shorten the restriction of movement provided for in this section.
+(3) Local governments have the right to temporarily shorten the restriction of movement provided for in this section.
 
-- Upon non-observance of the requirement provided for in this section, administrative liability shall be imposed pursuant to section 142 of the Code of Administrative Offences (RT 1992, 29, 396; 1997, 66-68, 1109; 73, 1201; 81, 1361, 1362; 86, 1459, 1461; 87, 1466, 1467; 93, 1563, 1561, 1564, 1565; 1998, 2, 42; 17, 265).
+(4) Upon non-observance of the requirement provided for in this section, administrative liability shall be imposed pursuant to section 142 of the Code of Administrative Offences (RT 1992, 29, 396; 1997, 66-68, 1109; 73, 1201; 81, 1361, 1362; 86, 1459, 1461; 87, 1466, 1467; 93, 1563, 1561, 1564, 1565; 1998, 2, 42; 17, 265).
 
 (28.01.98 entered into force 08.03.98 - RT I 1998, 17, 264)
 
@@ -145,19 +145,19 @@ Every child shall maintain and not harm his or her health in order to become a w
 
 ### § 24. Support of families with children
 
-- The natural environment for the development and growth of the child is the family. Families with children shall receive protection and support from the state.
+(1) The natural environment for the development and growth of the child is the family. Families with children shall receive protection and support from the state.
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
-- The recording and support of families in need of assistance shall be organised by the social services departments.
+(2) The recording and support of families in need of assistance shall be organised by the social services departments.
 
 ### § 25. Getting to know child
 
-- The parents or caregivers of a child are required to get to know and understand the child in order to competently support the child's development. For such purpose, they have the right to receive consultation free of charge from a social services department.
+(1) The parents or caregivers of a child are required to get to know and understand the child in order to competently support the child's development. For such purpose, they have the right to receive consultation free of charge from a social services department.
 
-- The state and local governments shall promote the development of children with special abilities and talents through special programmes and benefits.
+(2) The state and local governments shall promote the development of children with special abilities and talents through special programmes and benefits.
 
 ### § 26. Single parent families
 
@@ -165,11 +165,11 @@ Single parent families and two parent families have an equal obligation to raise
 
 ### § 27. Separation of child from family
 
-- The child and his or her parents shall not be separated against their will except if such separation is in the best interests of the child, if the child is endangered and such separation is unavoidable, or if such separation is demanded by law or a judgment which has entered into force.
+(1) The child and his or her parents shall not be separated against their will except if such separation is in the best interests of the child, if the child is endangered and such separation is unavoidable, or if such separation is demanded by law or a judgment which has entered into force.
 
-- If a child is separated from his or her parents, the opinions and wishes of the child shall be heard and annexed to the documentation concerning the separation. The opinions of the child shall be heard and documented by a social services department.
+(2) If a child is separated from his or her parents, the opinions and wishes of the child shall be heard and annexed to the documentation concerning the separation. The opinions of the child shall be heard and documented by a social services department.
 
-- The justification for the separation of the child shall be monitored by the social services departments.
+(3) The justification for the separation of the child shall be monitored by the social services departments.
 
 ### § 28. Relations with parents who are separated
 
@@ -187,27 +187,27 @@ The child has the right to obtain information concerning an absent parent, unles
 
 (1)        A child whose parents reside in different states has the right to direct contacts and personal relations with both parents.
 
-- For the purpose of family reunification, the child or his or her parents have the right to freely leave the Republic of Estonia or enter the Republic of Estonia pursuant to the established procedure.
+(2) For the purpose of family reunification, the child or his or her parents have the right to freely leave the Republic of Estonia or enter the Republic of Estonia pursuant to the established procedure.
 
 ## V. Treatment and Punishment of Child
 
 ### § 31. General principle of treatment of child
 
-- Every child shall at all times be treated as an individual with consideration for his or her character, age and sex. It is prohibited to humiliate, frighten or punish the child in any way which abuses the child, causes bodily harm or otherwise endangers his or her mental or physical health.
+(1) Every child shall at all times be treated as an individual with consideration for his or her character, age and sex. It is prohibited to humiliate, frighten or punish the child in any way which abuses the child, causes bodily harm or otherwise endangers his or her mental or physical health.
 
-- If an adult treats a child in a prohibited manner, the social services departments are competent to intervene in order to resolve the conflict and, if necessary, to apply for punishment of the person at fault under administration or criminal procedure.
+(2) If an adult treats a child in a prohibited manner, the social services departments are competent to intervene in order to resolve the conflict and, if necessary, to apply for punishment of the person at fault under administration or criminal procedure.
 
-- A child who has suffered violent treatment or mistreatment shall be accorded necessary assistance.
+(3) A child who has suffered violent treatment or mistreatment shall be accorded necessary assistance.
 
-- An adult who treats a child violently shall also receive counselling in order to prevent further mistreatment.
+(4) An adult who treats a child violently shall also receive counselling in order to prevent further mistreatment.
 
 ### § 32. Child in danger
 
-A child is in need of immediate assistance if: the child is in a situation which endangers his or her life or health;
+(1) A child is in need of immediate assistance if:
+1) the child is in a situation which endangers his or her life or health;
+2) the child endangers his or her health and development through his or her own behaviour or actions.
 
-- the child endangers his or her health and development through his or her own behaviour or actions.
-
-- On the decision of a competent employee of the social services department, a child who is in danger shall be placed in safety immediately until such a time as the danger passes or a decision regarding the care of the child is made, without request of the consent of the child's parents or caregivers.
+(2) On the decision of a competent employee of the social services department, a child who is in danger shall be placed in safety immediately until such a time as the danger passes or a decision regarding the care of the child is made, without request of the consent of the child's parents or caregivers.
 
 ### § 33. Protection from sexual abuse
 
@@ -217,35 +217,35 @@ A child is in need of immediate assistance if: the child is in a situation which
 
 The child shall be protected from all forms of sexual exploitation; the following is prohibited for adults:
 
-- inducement of a child to engage in sexual activity;
+1) inducement of a child to engage in sexual activity;
 
-- exploitative use of children in prostitution;
+2) exploitative use of children in prostitution;
 
-- exploitative use of children for pornographic purposes.
+3) exploitative use of children for pornographic purposes.
 
 ### § 34. Punishment of child
 
 (1)        A child who has committed a legal offence is personally responsible for his or her actions unless otherwise provided by law.
 
-- If a child who has committed a criminal offence is punished, criminal punishment, particularly imprisonment, shall be used only as a measure of last resort and is to be avoided.
+(2) If a child who has committed a criminal offence is punished, criminal punishment, particularly imprisonment, shall be used only as a measure of last resort and is to be avoided.
 
-- In the case of a child who has committed a criminal offence, measures such as counselling, probation, reconciliation, curatorship and educational programmes for the prevention of legal offences shall first be applied.
+(3) In the case of a child who has committed a criminal offence, measures such as counselling, probation, reconciliation, curatorship and educational programmes for the prevention of legal offences shall first be applied.
 
 ### § 35. Use of expert opinions in determining punishment for child who has violated law or in determining fate of child
 
-- Before a child is separated from his or her parents, the liberty of a child is restricted or a child's case is heard in court, a teacher or psychologist and a physician shall be commissioned to evaluate the child's condition and to present recommendations in order to find the best solutions and apply the most effective measures.
+(1) Before a child is separated from his or her parents, the liberty of a child is restricted or a child's case is heard in court, a teacher or psychologist and a physician shall be commissioned to evaluate the child's condition and to present recommendations in order to find the best solutions and apply the most effective measures.
 
-- An expert opinion is required in all court cases involving a minor, and the social services departments shall monitor compliance with this requirement.
+(2) An expert opinion is required in all court cases involving a minor, and the social services departments shall monitor compliance with this requirement.
 
 ### § 36. Restricting liberty of child
 
-- The parents, guardian or curator of a child and the social services department shall be notified immediately if the child is detained or his or her liberty is restricted.
+(1) The parents, guardian or curator of a child and the social services department shall be notified immediately if the child is detained or his or her liberty is restricted.
 
-- If the liberty of a child is restricted, including if the child is imprisoned as a measure of last resort, the child shall not be deprived of living and developmental conditions appropriate to the age of the child.
+(2) If the liberty of a child is restricted, including if the child is imprisoned as a measure of last resort, the child shall not be deprived of living and developmental conditions appropriate to the age of the child.
 
 ### § 37. Treatment of child in detention
 
-- A child whose liberty is restricted or who is detained shall be treated in a manner appropriate for a child, without harm to his or her dignity.
+(1) A child whose liberty is restricted or who is detained shall be treated in a manner appropriate for a child, without harm to his or her dignity.
 
 [[END OF PAGE 8]]
 
@@ -253,9 +253,9 @@ The child shall be protected from all forms of sexual exploitation; the followin
 
 (2)        A child who is detained shall be guaranteed free access to meet with his or her parents, persons close to him or her, his or her guardian or curator, and shall be guaranteed nutritious food and requisite medical and spiritual assistance.
 
-- A child in detention shall be separated from adults in detention.
+(3) A child in detention shall be separated from adults in detention.
 
-- Every child who is released from detention shall receive support and assistance from his or her parents, persons close to him or her, his or her guardian or curator and from the social services department in organising his or her life.
+(4) Every child who is released from detention shall receive support and assistance from his or her parents, persons close to him or her, his or her guardian or curator and from the social services department in organising his or her life.
 
 ### § 38. Monitoring of living conditions of child in detention or with restricted liberty
 Representatives of social services departments may monitor the living conditions of a child who is in detention, has restricted liberty or is in a special educational institution and may issue precepts if necessary.
@@ -266,19 +266,19 @@ Representatives of social services departments may monitor the living conditions
 
 Every child has the right to an education which develops the child's mental and physical abilities and forms a healthy personality, including:
 
-- develops respect for the child's parents, fellow human beings, himself or herself and all living things;
+1) develops respect for the child's parents, fellow human beings, himself or herself and all living things;
 
-- develops respect for the child's native language, the Estonian national culture and other languages and cultures;
+2) develops respect for the child's native language, the Estonian national culture and other languages and cultures;
 
-- prepares the child for responsible life in a free society in the spirit of tolerance, equality and respect for human rights;
+3) prepares the child for responsible life in a free society in the spirit of tolerance, equality and respect for human rights;
 
-- teaches the child to protect nature, the environment and his or her health.
+4) teaches the child to protect nature, the environment and his or her health.
 
 ### § 40. Freedom of study
 
-- Instruction shall not involve physical violence or mental abuse.
+(1) Instruction shall not involve physical violence or mental abuse.
 
-- Instruction shall not be ideologically biased or promote hate or violence.
+(2) Instruction shall not be ideologically biased or promote hate or violence.
 
 ### § 41. Principles of instruction
 
@@ -295,37 +295,37 @@ The teachers and educators of children with special needs shall comply with the 
 
 ### § 43. Admission of child to employment
 
-- A child who has completed general education and who does not wish or is not able to continue with his or her studies may be admitted to employment pursuant to law.
+(1) A child who has completed general education and who does not wish or is not able to continue with his or her studies may be admitted to employment pursuant to law.
 
-- The employment offices together with the social services departments shall decide whether a child who has not completed general education, who is an orphan or who has been deprived of parental care may be admitted to employment.
+(2) The employment offices together with the social services departments shall decide whether a child who has not completed general education, who is an orphan or who has been deprived of parental care may be admitted to employment.
 
 ### § 44. Organisation of work for children
 
-- Schools are required to notify the social services departments of all children who discontinue general education before completion.
+(1) Schools are required to notify the social services departments of all children who discontinue general education before completion.
 
-- The employment offices are required to maintain records of children who do not work or study and to notify the social services departments of such children.
+(2) The employment offices are required to maintain records of children who do not work or study and to notify the social services departments of such children.
 
-- The social services departments are required to assist children who do not study or work in organising their education and employment.
+(3) The social services departments are required to assist children who do not study or work in organising their education and employment.
 
 ## VII. Child and Environment
 
 ### § 45. Right of child to clean environment
 
-- Future generations have the right to a clean environment.
+(1) Future generations have the right to a clean environment.
 
-- All persons and institutions are required to avoid harming the environment in their activities in order not to violate the right of born and unborn children to life, health and development.
+(2) All persons and institutions are required to avoid harming the environment in their activities in order not to violate the right of born and unborn children to life, health and development.
 
 ### § 46. Protection of environment of child
 
-- Representatives of the social services departments shall participate in the development, evaluation and approval of projects involving the interests of children.
+(1) Representatives of the social services departments shall participate in the development, evaluation and approval of projects involving the interests of children.
 
-- The social services departments have the right to apply for the termination of projects which may harm the environment or apparently endanger a person's health or development.
+(2) The social services departments have the right to apply for the termination of projects which may harm the environment or apparently endanger a person's health or development.
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
-(3)        Rooms, buildings and structures intended for use by children shall be suitable and healthy for the child; their design, construction, and interior decoration shall be based on the characteristics, interests, health and needs of the child, and their establishment shall be coordinated with the social services departments.
+(3) Rooms, buildings and structures intended for use by children shall be suitable and healthy for the child; their design, construction, and interior decoration shall be based on the characteristics, interests, health and needs of the child, and their establishment shall be co-ordinated with the social services departments.
 
 (4)        Environmental factors which harm the health and development of children shall be rendered safe.
 
@@ -337,17 +337,17 @@ The teachers and educators of children with special needs shall comply with the 
 
 (26.06.96 entered into force 26.07.96 - RT I 1996, 49, 953)
 
-- All packaging of food intended for children shall include the exact ingredients, caloric energy and possible contraindications of the product.
+(2) All packaging of food intended for children shall include the exact ingredients, caloric energy and possible contraindications of the product.
 
-- The child shall be provided the opportunity to maintain a special diet.
+(3) The child shall be provided the opportunity to maintain a special diet.
 
 ### § 48. Inadmissibility of promotion of violence
 
-- It is prohibited in the Republic of Estonia to manufacture or sell toys which imitate objects used to destroy people and other living beings. Exceptions may be made for sports equipment and equipment for games of skill if used for the intended purpose.
+(1) It is prohibited in the Republic of Estonia to manufacture or sell toys which imitate objects used to destroy people and other living beings. Exceptions may be made for sports equipment and equipment for games of skill if used for the intended purpose.
 
-- It is prohibited to manufacture or show printed matter, films, audio and video recordings and objects which promote cruelty and violence, intended for children.
+(2) It is prohibited to manufacture or show printed matter, films, audio and video recordings and objects which promote cruelty and violence, intended for children.
 
-- Pursuant to law, the officials of the Consumer Protection Board, Police Administration and social services departments authorised by rural municipality councils or city councils shall monitor adherence to the requirements provided for in subsections 47 (2), 48 (1) and (2), and 50 (1).
+(3) Pursuant to law, the officials of the Consumer Protection Board, Police Administration and social services departments authorised by rural municipality councils or city councils shall monitor adherence to the requirements provided for in subsections 47 (2), 48 (1) and (2), and 50 (1).
 
 (26.06.96 entered into force 26.07.96 - RT I 1996, 49, 953)
 
@@ -361,9 +361,9 @@ All possible measures shall be taken to protect children from the use of narcoti
 
 ### § 50. Child and obscenity
 
-- It is prohibited in Estonia to produce or distribute obscene (pornographic) materials, printed matter and films for or among children.
+(1) It is prohibited in Estonia to produce or distribute obscene (pornographic) materials, printed matter and films for or among children.
 
-- It is prohibited to use children in the production and distribution of obscene materials.
+(2) It is prohibited to use children in the production and distribution of obscene materials.
 
 ### § 51. Social guarantees for child
 
@@ -373,21 +373,21 @@ The child has the right to social guarantees, which shall be regulated by corres
 
 ### § 52. Right of disabled child to active life and opportunities equal to those of able children
 
-- The physically or mentally disabled child has the right to life in conditions which promote dignity, self-reliance and development.
+(1) The physically or mentally disabled child has the right to life in conditions which promote dignity, self-reliance and development.
 
-- The disabled child shall have opportunities for education, development and selfrealisation equal to those of able children.
+(2) The disabled child shall have opportunities for education, development and self-realisation equal to those of able children.
 
 ### § 53. Care for disabled child
 
-- The disabled child has the right to special care in accordance with the child's specific needs. The child and his or her caregiver shall have access to multifaceted social, medical and spiritual assistance.
+(1) The disabled child has the right to special care in accordance with the child's specific needs. The child and his or her caregiver shall have access to multifaceted social, medical and spiritual assistance.
 
-- The specific educational and living arrangements and conditions for the disabled child shall be regulated by the statutes of the corresponding schools and educational institutions, and other legislation, in accordance with the principles of this Act.
+(2) The specific educational and living arrangements and conditions for the disabled child shall be regulated by the statutes of the corresponding schools and educational institutions, and other legislation, in accordance with the principles of this Act.
 
 ### § 54. Satisfaction of needs of disabled child
 
-- Public buildings, roads and means of transport used by disabled children shall be adapted to accommodate movement by wheelchair, crutches or other aids.
+(1) Public buildings, roads and means of transport used by disabled children shall be adapted to accommodate movement by wheelchair, crutches or other aids.
 
-- Buildings intended for use by the child shall include special facilities to satisfy the sanitary needs of the disabled child.
+(2) Buildings intended for use by the child shall include special facilities to satisfy the sanitary needs of the disabled child.
 
 ### § 55. Expenditure for disabled child
 
@@ -395,9 +395,9 @@ The child has the right to social guarantees, which shall be regulated by corres
 
 [[START OF PAGE 13]]
 
-- The parents of a disabled child have the right to paid care for the child in the home if the child is not able or permitted to attend an institution for children due to his or her disability.
+(1) The parents of a disabled child have the right to paid care for the child in the home if the child is not able or permitted to attend an institution for children due to his or her disability.
 
-- The parents or caregivers of a disabled child shall receive support from the state for care of the child in the home in accordance with the law.
+(2) The parents or caregivers of a disabled child shall receive support from the state for care of the child in the home in accordance with the law.
 
 ### § 56. Adoption of disabled child
 
@@ -415,9 +415,9 @@ The objective of child assistance, including the objective of guardianship and c
 
 ### § 59. Notification of child in need of assistance
 
-- Every person is required to immediately notify the social services departments, police or some other body providing assistance if the person knows of a child who is in need of protection or assistance.
+(1) Every person is required to immediately notify the social services departments, police or some other body providing assistance if the person knows of a child who is in need of protection or assistance.
 
-- The social services departments have the right and are required to act immediately, regardless of the region or group to which the child belongs.
+(2) The social services departments have the right and are required to act immediately, regardless of the region or group to which the child belongs.
 
 ### § 60. Treatment of child being assisted
 
@@ -433,27 +433,27 @@ A child being assisted shall not be degraded or have his or her helplessness or 
 
 (2)        In the designation of a support family, the wishes of the child and the suitability of the support family or support person shall be taken into consideration.
 
-- The social services department shall enter into a contract with the support family or support person.
+(3) The social services department shall enter into a contract with the support family or support person.
 
 ### § 62. Shelters (safe houses)
 
 (1)        Temporary assistance, support and protection shall be provided to the child by shelters (safe houses), the activities of which shall be regulated by a corresponding statute.
 
-- The director of a shelter (safe house) is required to advise the social services departments and police department of the place of residence of the child of any child who enters the shelter (safe house).
+(2) The director of a shelter (safe house) is required to advise the social services departments and police department of the place of residence of the child of any child who enters the shelter (safe house).
 
 ### § 63. Organisation of guardianship and curatorship
 
-- In assisting a child in the form of guardianship or curatorship, the social services departments of the local governments are the guardianship and curatorship authorities.
+(1) In assisting a child in the form of guardianship or curatorship, the social services departments of the local governments are the guardianship and curatorship authorities.
 
-- The legal basis for the organisation of guardianship and curatorship is provided by the Family Law Act (RT I 1994, 75, 1326; 1996, 40, 773; 49, 953; 1997, 28, 422; 35, 538; 2000, 50, 317; 2001, 16, 69; 53, 307; 2002, 53, 336; 2003, 78, 527; 2004, 14, 92; 22, 148) and the statutes of the guardianship and curatorship authorities.
+(2) The legal basis for the organisation of guardianship and curatorship is provided by the Family Law Act (RT I 1994, 75, 1326; 1996, 40, 773; 49, 953; 1997, 28, 422; 35, 538; 2000, 50, 317; 2001, 16, 69; 53, 307; 2002, 53, 336; 2003, 78, 527; 2004, 14, 92; 22, 148) and the statutes of the guardianship and curatorship authorities.
 
 (26.06.96 entered into force 26.07.96 - RT I 1996, 49, 953)
 
-- In addition to individuals and public child care institutions, support families, private care institutions and other institutions approved by the social services departments may be guardians or curators of children.
+(3) In addition to individuals and public child care institutions, support families, private care institutions and other institutions approved by the social services departments may be guardians or curators of children.
 
-- The procedure for child assistance, guardianship and curatorship in families or private care institutions shall be provided by corresponding laws and statutes.
+(4) The procedure for child assistance, guardianship and curatorship in families or private care institutions shall be provided by corresponding laws and statutes.
 
-- The social services departments shall exercise supervision over guardianship and curatorship.
+(5) The social services departments shall exercise supervision over guardianship and curatorship.
 
 ### § 64. Parental contact
 
@@ -463,37 +463,35 @@ A child being assisted shall not be degraded or have his or her helplessness or 
 
 [[START OF PAGE 15]]
 
-- endangers the health and development of the child;
+1) endangers the health and development of the child;
 
-- endangers the security of caregivers or the staff or other children of the social welfare institution.
+2) endangers the security of caregivers or the staff or other children of the social welfare institution.
 
 (2)        The social services departments and care institutions shall take all measures to promote the initiation and continuation of contacts between the child and his or her parents and close relatives by blood, but they have the right to restrict such contacts on the grounds provided for in subsection (1) of this section.
 
-- The social services departments may refuse to disclose the whereabouts of a child to his or her parents or close relatives by blood on the grounds provided for in subsection (1) of this section.
+(3) The social services departments may refuse to disclose the whereabouts of a child to his or her parents or close relatives by blood on the grounds provided for in subsection (1) of this section.
 
 ### § 65. Continued care
 
-- After termination of guardianship, the social services departments shall provide the child with continued care to assist and provide advice to the child in organising his or her life.
+(1) After termination of guardianship, the social services departments shall provide the child with continued care to assist and provide advice to the child in organising his or her life.
 
-- Continued care shall be provided to all children who are released from detention or special care.
+(2) Continued care shall be provided to all children who are released from detention or special care.
 
 ### § 66. Adoption
 
-- Adoption shall be carried out pursuant to the procedure prescribed in the Family Law
-
-- Act and in accordance with the principles of this Act.
+(1) Adoption shall be carried out pursuant to the procedure prescribed in the Family Law Act and in accordance with the principles of this Act.
 
 (26.06.96 entered into force 26.07.96 - RT I 1996, 49, 953)
 
-- Inter-country adoption shall occur primarily if it is not possible to care for the child to the necessary extent in the Republic of Estonia.
+(2) Inter-country adoption shall occur primarily if it is not possible to care for the child to the necessary extent in the Republic of Estonia.
 
 ### § 67. Refugees
 
-- If a child is considered to be a refugee in accordance with international or national law, the child shall receive protection and assistance regardless of whether the child is accompanied or unaccompanied by his or her parents or any other person.
+(1) If a child is considered to be a refugee in accordance with international or national law, the child shall receive protection and assistance regardless of whether the child is accompanied or unaccompanied by his or her parents or any other person.
 
-- The social services departments shall begin to trace the child's parents and determine possibilities for the child's return.
+(2) The social services departments shall begin to trace the child's parents and determine possibilities for the child's return.
 
-- If the child's parents are not found, the child shall be accorded the same protection as is accorded to any other child who has been temporarily or permanently deprived of his or her family environment.
+(3) If the child's parents are not found, the child shall be accorded the same protection as is accorded to any other child who has been temporarily or permanently deprived of his or her family environment.
 
 [[END OF PAGE 15]]
 
