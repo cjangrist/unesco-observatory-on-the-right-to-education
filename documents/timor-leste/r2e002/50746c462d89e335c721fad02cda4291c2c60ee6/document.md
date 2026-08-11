@@ -6,67 +6,289 @@
 
 [[START OF PAGE 2]]
 
-Preamble
-
-Sections
-
-TIMOR -LESTE
-
 ______________________________________________________
+
+TIMOR-LESTE
 
 # INDEX
 
-PART I FUNDAMENTAL PRINCIPLES
+Preamble
 
+PART I
+FUNDAMENTAL PRINCIPLES
+Sections
+1 The Republic
+2 Sovereignty and constitutionality
+3 Citizenship
+4 Territory
+5 Decentralisation
+6 Objectives of the State
+7 Universal suffrage and multi-party system
+8 International relations
+9 International law
+10 Solidarity
+11 Valorisation of Resistance
+12 State and religious denominations
+13 Official languages and national languages
+14 National symbols
+15 National flag
+PART II
+FUNDAMENTAL RIGHTS, DUTIES, LIBERTIES AND GUARANTEES
+TITLE I
+GENERAL PRINCIPLES
+16 Universality and equality
+17 Equality between women and men
+18 Child protection
+19 Youth
+20 Senior citizens
+21 Disabled citizen
+22 East Timorese citizens overseas
+23 Interpretation of fundamental rights
+24 Restrictive laws
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-(this page came through the extractor with no text)
+25 State of exception
+26 Access to courts
+27 Ombudsman
+28 Right to resistance and self-defence
+TITLE II
+PERSONAL RIGHTS, LIBERTIES AND GUARANTEES
+29 Right to life
+30 Right to personal freedom, security and integrity
+31 Application of criminal law
+32 Limits on sentences and security measures
+33 Habeas Corpus
+34 Guarantees in criminal proceedings
+35 Extradition and expulsion
+36 Right to honour and privacy
+37 Inviolability of home and correspondence
+38 Protection of personal data
+39 Family, marriage and maternity
+40 Freedom of speech and information
+41 Freedom of the press and mass media
+42 Freedom to assemble and demonstrate
+43 Freedom of association
+44 Freedom of movement
+45 Freedom of conscience, religion and worship
+46 Right to political participation
+47 Right to vote
+48 Right to petition
+49 Defence of sovereignty
+TITLE III
+ECONOMIC, SOCIAL AND CULTURAL RIGHTS AND DUTIES
+50 Right to work
+51 Right to strike and prohibition of lock-out
+52 Trade union freedom
+53 Consumer rights
+54 Right to private property
+55 Obligations of the taxpayer
+56 Social security and assistance
+57 Health
+58 Housing
+59 Education and culture
+60 Intellectual property
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
 61 Environment
+PART III
+ORGANISATION OF POLITICAL POWER
+TITLE I
+GENERAL PRINCIPLES
+62 Source and exercise of power
+63 Participation by citizens in political life
+64 Principle of renewal
+65 Elections
+66 Referendum
+67 Organs of sovereignty
+68 Incompatibilities
+69 Principle of separation of powers
+70 Political parties and right of opposition
+71 Administrative organisation
+72 Local government
+73 Publication of legislation and decisions
+TITLE II
+PRESIDENT OF THE REPUBLIC
+CHAPTER I
+STATUS, ELECTION AND APPOINTMENT
+74 Definition
+75 Eligibility
+76 Election
+77 Inauguration and swearing-in
+78 Incompatibilities
+79 Criminal liability and constitutional obligations
+80 Absence
+81 Resignation of office
+82 Death, resignation or permanent disability
+83 Exceptional cases
+84 Replacement and interim office
+CHAPTER II
+COMPETENCIES
+85 Competencies
+86 Competencies with regard to other organs
+87 Competencies with regard to international relations
+88 Promulgation and veto
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-(this page came through the extractor with no text)
+89 Powers of an interim President of the Republic
+CHAPTER III
+COUNCIL OF STATE
+90 Council of State
+91 Competencies, organisation and functioning of the Council of State
+TITLE III
+NATIONAL PARLIAMENT
+CHAPTER I
+STATUS AND ELECTION
+92 Definition
+93 Election and composition
+94 Immunities
+CHAPTER II
+COMPETENCE
+95 Competence of the National Parliament
+96 Legislative authorisation
+97 Legislative initiative
+98 Parliamentary appraisal of statutes
+CHAPTER III
+ORGANISATION AND FUNCTIONING
+99 Legislative term
+100 Dissolution
+101 Attendance by members of the Government
+CHAPTER IV
+STANDING COMMITTEE
+102 Standing Committee
+TITLE IV
+GOVERNMENT
+CHAPTER I
+DEFINITION AND STRUCTURE
+103 Definition
+104 Composition
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
 105 Council of Ministers
-
 CHAPTER II
-
+FORMATION AND RESPONSIBILITY
+106 Appointment
+107 Responsibility of the Government
+108 The Programme of the Government
+109 Consideration of the Programme of the Government
+110 Request for vote of confidence
+111 Vote of no confidence
+112 Dismissal of the Government
+113 Criminal liability of members of Government
+114 Immunity for members of the Government
+CHAPTER III
+COMPETENCIES
+115 Competencies of the Government
+116 Competencies of the Council of Ministers
+117 Competencies of the members of Government
+TITLE V
+COURTS
+CHAPTER I
+COURTS, PUBLIC PROSECUTION AND LAWYERS
+118 Jurisdiction
+119 Independence
+120 Review of unconstitutionality
+121 Judges
+122 Exclusiveness
+123 Categories of courts
+124 Supreme Court of Justice
+125 Functioning and composition
+126 Electoral and constitutional competence
+127 Eligibility
+128 Superior Council for the Judiciary
+129 High Administrative, Tax and Audit Court
+130 Military courts
+131 Court hearings
+CHAPTER II
 PUBLIC PROSECUTION
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-(this page came through the extractor with no text)
+132 Function and status
+133 Office of the Prosecutor-General
+134 Superior Council for the Public Prosecution
+CHAPTER III
+LAWYERS
+135 Lawyers
+136 Guarantees in the activity of lawyers
+TITLE VI
+PUBLIC ADMINISTRATION
+137 Public Administration general principles
+PART IV
+ECONOMIC AND FINANCIAL ORGANISATION
+TITLE I
+GENERAL PRINCIPLES
+138 Economic organisation
+139 Natural resources
+140 Investments
+141 Land
+TITLE II
+FINANCIAL AND TAX SYSTEM
+142 Financial system
+143 Central Bank
+144 Tax system
+145 State Budget
+PART V
+NATIONAL DEFENCE AND SECURITY
+146 Defence Force
+147 Police and security forces
+148 Superior Council for Defence and Security
+PART VI
+GUARANTEE AND REVISION OF THE CONSTITUTION
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
 TITLE I
-
+GUARANTEE OF THE CONSTITUTION
+149 Anticipatory review of constitutionality
+150 Abstract review of constitutionality
+151 Unconstitutionality by omission
+152 Appeals on constitutionality
+153 Decisions of the Supreme Court of Justice
+TITLE II
+CONSTITUTIONAL REVISION
+154 Initiative and time of revision
+155 Approval and promulgation
+156 Limits on matters of revision
+157 Limits on time of revision
+PART VII
+FINAL AND TRANSITIONAL PROVISIONS
+158 Treaties, agreements and alliances
+159 Working languages
+160 Serious crimes
+161 Illegal appropriation of assets
+162 Reconciliation
+163 Transitional judicial organisation
+164 Transitional competence of the Supreme Court of Justice
+165 Previous law
+166 National Anthem
+167 Transformation of the Constituent Assembly
+168 Second Transitional Government
+169 Presidential election of 2002
+170 Entry into force of the Constitution
 # PREAMBLE
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-Following  the  liberation  of  the  Timorese  People  from  colonisation  and  illegal occupation  of  the  Maubere  Motherland  by  foreign  powers,  the  independence  of  East Timor, proclaimed on the 28 th of  November  1975 by Frente Revolucionária do TimorLeste Independente (FRETILIN), is recognised internationally on the 20 th of May 2002.
+Following the liberation of the Timorese People from colonisation and illegal occupation of the Maubere Motherland by foreign powers, the independence of East Timor, proclaimed on the 28th of November 1975 by Frente Revolucionária do Timor-Leste Independente (FRETILIN), is recognised internationally on the 20th of May 2002.
 
-The preparation and adoption of the Constitution of the Democratic Republic of East  Timor  is  the  culmination  of  the  historical  resistance  of  the  Timorese  People intensified following the invasion of the 7 th of December 1975.
+The preparation and adoption of the Constitution of the Democratic Republic of East Timor is the culmination of the historical resistance of the Timorese People intensified following the invasion of the 7th of December 1975.
 
 The struggle waged  against the enemy, initially under the leadership of FRETILIN, gave way to more comprehensive forms of political participation, particularly in  the  wake  of  the  establishment  of  the  National  Council  of  the  Maubere  Resistance (CNRM) in 1987 and the National Council of Timorese Resistance (CNRT) in 1998.
 
@@ -82,9 +304,9 @@ In  its  cultural  and  humane  perspective,  the  Catholic  Church  in  East  T
 
 Ultimately, the present Constitution represents a heart-felt tribute to all martyrs of the Motherland.
 
-Thus, the Members of the Constituent Assembly, in their capacity as legitimate representatives of the People elected on the 30 th of August 2001,
+Thus, the Members of the Constituent Assembly, in their capacity as legitimate representatives of the People elected on the 30th of August 2001,
 
-Based on the results of the referendum of the 30 th of August 1999 organised under the  auspices  of  the  United  Nations  which  confirmed  the  self-determined  will  for independence;
+Based on the results of the referendum of the 30th of August 1999 organised under the auspices of the United Nations which confirmed the self-determined will for independence;
 
 Fully conscious of the need to build a democratic and institutional culture proper appropriate to a State based on the rule of law where respect for the Constitution, for the laws and for democratically elected institutions constitute its unquestionable foundation;
 
@@ -96,7 +318,7 @@ Interpreting the profound sentiments, the aspirations and the faith in God of th
 
 Solemnly reaffirm their determination to fight all forms of tyranny, oppression, social, cultural or religious domination and segregation, to defend national independence, to respect and guarantee human rights and the fundamental rights of the citizen,  to  ensure  the  principle  of  the  separation  of  powers  in  the  organisation  of  the State,  and  to  establish  the  essential  rules  of  multi-party  democracy,  with  a  view  to building  a  just  and  prosperous  nation  and  developing  a  society  of  solidarity  and fraternity.
 
-The Constituent Assembly, meeting in plenary session on the 22 nd of March 2002, approves  and  decrees  the  following  Constitution  of  the  Democratic  Republic  of  East Timor:
+The Constituent Assembly, meeting in plenary session on the 22nd of March 2002, approves and decrees the following Constitution of the Democratic Republic of East Timor:
 
 # CONSTITUTION OF THE DEMOCRATIC REPUBLIC OF EAST TIMOR
 
@@ -110,7 +332,7 @@ The Constituent Assembly, meeting in plenary session on the 22 nd of March 2002,
 
 - The Democratic Republic of East Timor is a democratic, sovereign, independent and unitary State based on the rule of law, the will of the people and the respect for the dignity of the human person.
 
-- The  28 th of  November  1975  is  the  Day  of  Proclamation  of  Independence  of  the Democratic Republic of East Timor.
+- The 28th of November 1975 is the Day of Proclamation of Independence of the Democratic Republic of East Timor.
 
 #### Section 2 (Sovereignty and constitutionality)
 
@@ -148,7 +370,7 @@ The Constituent Assembly, meeting in plenary session on the 22 nd of March 2002,
 
 #### Section 4 (Territory)
 
-- The territory of the Democratic Republic of East Timor comprises the land surface, the maritime zone and the air space demarcated by the national boundaries that historically comprise the eastern part of Timor Island, the enclave of Oe c ussi, the island of Ataúro and the islet of Jaco.
+- The territory of the Democratic Republic of East Timor comprises the land surface, the maritime zone and the air space demarcated by the national boundaries that historically comprise the eastern part of Timor Island, the enclave of Oecussi, the island of Ataúro and the islet of Jaco.
 
 - The extent and limits of territorial waters and the exclusive economic zone, and the rights of East Timor to the adjacent seabed and continental shelf shall be laid down in the law.
 
@@ -204,7 +426,7 @@ The fundamental objectives of the State shall be:
 
 [[START OF PAGE 14]]
 
-- The Democratic Republic of East Timor shall establish relations of friendship and co­ operation with all other peoples, aiming at the peaceful  settlement of conflicts, the general, simultaneous and controlled disarmament, the establishment of a system of collective security and establishment of a new international economic order capable of ensuring peace and justice in the relations among peoples.
+- The Democratic Republic of East Timor shall establish relations of friendship and co-operation with all other peoples, aiming at the peaceful settlement of conflicts, the general, simultaneous and controlled disarmament, the establishment of a system of collective security and establishment of a new international economic order capable of ensuring peace and justice in the relations among peoples.
 
 - The  Democratic  Republic  of  East  Timor  shall  maintain  privileged  ties  with  the countries whose official language is Portuguese.
 
@@ -228,7 +450,7 @@ The fundamental objectives of the State shall be:
 
 - The  Democratic  Republic  of  East  Timor  acknowledges  and  values  the  historical resistance of the Maubere People against foreign domination and the contribution of all those who fought for national independence.
 
-- The  State  acknowledges  and  values  the  participation  of  the    CatholicChurch  in  the process of national liberation of East Timor.
+- The State acknowledges and values the participation of the Catholic Church in the process of national liberation of East Timor.
 
 [[END OF PAGE 14]]
 
@@ -698,7 +920,7 @@ Political power lies with the people and is exercised in accordance with the ter
 
 - Direct and active participation by men and women in political life is a requirement of, and a fundamental instrument for consolidating, the democratic system.
 
-- The  law shall promote equality in the exercise of civil and political rights and  non­ discrimination on the basis of gender for access to political positions.
+- The  law shall promote equality in the exercise of civil and political rights and  non-discrimination on the basis of gender for access to political positions.
 
 #### Section 64 (Principle of Renewal)
 
@@ -826,7 +1048,7 @@ Organs  of  sovereignty,  in  their  reciprocal  relationship  and  exercise  of
 
 - The election of the President of the Republic shall be conducted through the system based on the majority of validly expressed votes, excluding blank votes.
 
-- Where no candidate gets more than half of the votes, a second round shall take place on the 30 th day following the first voting.
+- Where no candidate gets more than half of the votes, a second round shall take place on the 30th day following the first voting.
 
 - Only the two candidates obtaining the highest number of votes shall be eligible to stand in a run-off election, provided they have not withdrawn their candidacies.
 
@@ -842,7 +1064,7 @@ Organs  of  sovereignty,  in  their  reciprocal  relationship  and  exercise  of
 
 - At the swearing-in ceremony, the President of the Republic shall take the following oath:
 
-' I swear to God, to the people and on my honour that I will fulfil with loyalty the functions that have been invested in me, will abide by and  enforce the Constitution and the laws and will dedicate all my energies and knowledge to the defence and consolidation of independence and national unity.'
+“I swear to God, to the people and on my honour that I will fulfil with loyalty the functions that have been invested in me, will abide by and  enforce the Constitution and the laws and will dedicate all my energies and knowledge to the defence and consolidation of independence and national unity.”
 
 #### Section 78 (Incompatibilities)
 
@@ -1220,7 +1442,7 @@ The National Parliament is the organ of sovereignty of the Democratic Republic o
 
 [[START OF PAGE 44]]
 
-- Bills and draft legislation that have not been voted on shall not need to be re­ introduced in the ensuing legislative session, except in case of end of the legislative term.
+- Bills and draft legislation that have not been voted on shall not need to be re-introduced in the ensuing legislative session, except in case of end of the legislative term.
 
 - Draft legislation shall lapse with the dismissal of the Government.
 
@@ -1335,8 +1557,6 @@ The Government is the organ of sovereignty responsible for conducting and execut
 #### Section 107 (Responsibility of the Government)
 
 The Government shall be accountable to the President of the Republic and to the National Parliament for conducting and executing the domestic and foreign policy in accordance with the Constitution and the law.
-
-α
 
 #### Section 108 (The Programme of the Government)
 
@@ -1698,13 +1918,13 @@ Court hearings shall be public, unless the court hearing a matter rules otherwis
 
 [[START OF PAGE 58]]
 
-- Deputy  Prosecutor-General  s  shall  be  appointed,  dismissed  or  removed  from office  by  the  President  of  the  Republic  after  consultation  with  the  Superior Council for the Public Prosecution.
+- Deputy Prosecutor-Generals shall be appointed, dismissed or removed from office by the President of the Republic after consultation with the Superior Council for the Public Prosecution.
 
 #### Section 134 (Superior Council for the Public Prosecution)
 
 - The Superior Council for the Public Prosecution is an integral part of the office of the Prosecutor-General .
 
-- The Superior Council for the Public Prosecution shall be headed by the ProsecutorGeneral  and shall comprise the following members:
+- The Superior Council for the Public Prosecution shall be headed by the Prosecutor-General and shall comprise the following members:
 
 - One designated by the President of the Republic;
 
@@ -1754,7 +1974,7 @@ permitted without the presence of the competent magistrate and, whenever possibl
 
 #### Section 138 (Economic organisation)
 
-The economic organisation of East Timor shall be based on the combination of community forms with free initiative and business management, as well as on the co­ existence of the public sector, the private sector and the co-operative and social sector of ownership of means of production.
+The economic organisation of East Timor shall be based on the combination of community forms with free initiative and business management, as well as on the co-existence of the public sector, the private sector and the co-operative and social sector of ownership of means of production.
 
 #### Section 139 (Natural resources)
 
@@ -1764,7 +1984,7 @@ The economic organisation of East Timor shall be based on the combination of com
 
 [[START OF PAGE 60]]
 
-- the State and shall be used in a fair and equitable manner in accordance with national interests.
+the State and shall be used in a fair and equitable manner in accordance with national interests.
 
 - The conditions for the exploitation of the natural resources referred to in item 1 above should lend themselves to the establishment of mandatory financial reserves, in accordance with the law.
 
@@ -1976,7 +2196,7 @@ Indonesian and English shall be working languages within civil service side by s
 
 #### Section 160 (Serious Crimes)
 
-Acts committed between the 25 th of April 1974 and the 31 st of December 1999 that can be considered crimes against humanity of genocide or of war shall be liable to criminal proceedings with the national or international courts.
+Acts committed between the 25th of April 1974 and the 31st of December 1999 that can be considered crimes against humanity of genocide or of war shall be liable to criminal proceedings with the national or international courts.
 
 #### Section 161 (Illegal appropriation of assets )
 
@@ -1990,7 +2210,7 @@ Illegal appropriation of mobile and fixed assets that took place before the entr
 
 #### Section 163 (Transitional judicial organization)
 
-- The  collective  judicial  instance  existing  in  East  Timor,  composed  of  national  and international  judges  with  competencies  to  judge  serious  crimes  committed  between the 1 st of January and the 25 th of October 1999, shall remain operational for the time deemed strictly necessary to conclude the cases under investigation.
+- The collective judicial instance existing in East Timor, composed of national and international judges with competencies to judge serious crimes committed between the 1st of January and the 25th of October 1999, shall remain operational for the time deemed strictly necessary to conclude the cases under investigation.
 
 - The judicial Organization existing in East Timor on the day the present Constitution enters into force shall remain operational until such a time as the new judicial system is established and starts its functions.
 
@@ -2010,7 +2230,7 @@ Laws and regulations in force in East Timor shall continue to be applicable to a
 
 #### Section 166 (National Anthem)
 
-Until the national anthem is approved by the ordinary law pursuant to item 2 of Section 14  'Pátria,  Pátria,  Pátria  ,  Timor  -Leste  a  nossa  nação  '  shall  be  sung  in  official ceremonies.
+Until the national anthem is approved by the ordinary law pursuant to item 2 of Section 14 “Pátria, Pátria, Pátria , Timor -Leste a nossa nação “ shall be sung in official ceremonies.
 
 #### Section 167 (Transformation of the Constitutional Assembly)
 
@@ -2036,6 +2256,6 @@ The  President  elected  under  UNTAET  Regulation  No.  2002/01  shall  take  o
 
 #### Section 170 (Entry into force of the Constitution)
 
-The Constitution of the Democratic Republic of East Timor shall enter into force on the 20 th of May of 2002.
+The Constitution of the Democratic Republic of East Timor shall enter into force on the 20th of May of 2002.
 
 [[END OF PAGE 68]]
