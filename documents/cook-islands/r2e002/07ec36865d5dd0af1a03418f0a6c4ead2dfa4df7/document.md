@@ -1,8 +1,8 @@
 [[START OF PAGE 1]]
 
-# Learning for Life Cook Islands Education Master Plan 2008-2023
+# Learning for Life Cook Islands Education Master Plan 2008–2023
 
-'All people in the Cook Islands will have equal access to quality learning opportunities across the full spectrum of human endeavour from birth.'
+“All people in the Cook Islands will have equal access to quality learning opportunities across the full spectrum of human endeavour from birth.”
 
 Final Draft December 2007
 
@@ -10,37 +10,41 @@ Final Draft December 2007
 
 [[START OF PAGE 2]]
 
-Learning for Life Cook Islands Education Master Plan 2008-2023
+Learning for Life Cook Islands Education Master Plan 2008–2023
 
 ## Kia Orana
 
-As Minister of Education, it gives me great pleasure to introduce this important step forward, for both government and for those, who are the focus of our 'learning for life' efforts - our children.  The Education Master Plan captures our forward-looking tools and sets a key foundation to ensure better futures for all our youth, and hence, the well-being of our nation.
+As Minister of Education, it gives me great pleasure to introduce this important step forward, for both government and for those, who are the focus of our “learning for life” efforts – our children. The Education Master Plan captures our forward-looking tools and sets a key foundation to ensure better futures for all our youth, and hence, the well-being of our nation.
 
-Of particular signifi  cance is the invigorated approach to Education whereby strategy aims to build real meaning and bring results to target areas of development.  It is also encouraging that the Master Plan underpins a long-standing policy of Government, which speaks directly to equal access to opportunity - a policy that has been part of our national outlook for many years.
+Of particular significance is the invigorated approach to Education whereby strategy aims to build real meaning and bring results to target areas of development. It is also encouraging that the Master Plan underpins a long-standing policy of Government, which speaks directly to equal access to opportunity – a policy that has been part of our national outlook for many years.
 
-I welcome the interest of those, who may wish to investigate further the department's aims and objectives, and invite the additional opportunity to promote the Education Master Plan to the broader community.  The sharing of the strategies contained herein will help gain the deeper appreciation that these goals require and enhance our efforts to explore ways in which to build on the results.
+I welcome the interest of those, who may wish to investigate further the department’s aims and objectives, and invite the additional opportunity to promote the Education Master Plan to the broader community. The sharing of the strategies contained herein will help gain the deeper appreciation that these goals require and enhance our efforts to explore ways in which to build on the results.
 
-Kia Manuia Hon. Jim Marurai
+Kia Manuia
+Hon. Jim Marurai
+Minister of Education
 
-Minister of Education The Cook Islands Education Master Plan (EMP) sets the direction in education for the next 15 years. It is grounded in the Education Sector Policy Framework. It forms links with the goals of the National Sustainable Development Plan (NSDP), the Cook Islands Millennium Development Plan and takes cognizance of the recommendations presented in previous Education Sector reviews. In essence, EMP embraces learning for life with a commitment to the provision of quality learning opportunities for all people in the Cook Islands from birth.
+The Cook Islands Education Master Plan (EMP) sets the direction in education for the next 15 years. It is grounded in the Education Sector Policy Framework. It forms links with the goals of the National Sustainable Development Plan (NSDP), the Cook Islands Millennium Development Plan and takes cognizance of the recommendations presented in previous Education Sector reviews. In essence, EMP embraces learning for life with a commitment to the provision of quality learning opportunities for all people in the Cook Islands from birth.
 
 The Education Master Plan creates a range of pathways for students and adults to realise their learning journeys. Strength in language, culture and nationhood will enable our people to face the challenges of a world that is forever changing.
 
 This plan recognises the wealth of knowledge, skills and expertise prevalent at both the local and global level and the utmost importance of the need to work collaboratively and collectively in partnerships at various levels. Many of these partnerships have already been strengthened during the development of this plan and I would like to thank all those who have given their time, expertise and input so freely.
 
-The challenge for all those involved in the implementation of this plan will be to listen to each other and the wider community, to be responsive to what they hear and to focus on the outcome for the many learners this plan is designed to support. I wish all involved the knowledge, foresight, patience and perseverance that will be required. I do so with the belief that the implementation of this plan will give all Cook Islanders access to quality education across a range of programmes that fulfi  l personal interests and provide the knowledge and skills to be successful in their chosen pathway.
+The challenge for all those involved in the implementation of this plan will be to listen to each other and the wider community, to be responsive to what they hear and to focus on the outcome for the many learners this plan is designed to support. I wish all involved the knowledge, foresight, patience and perseverance that will be required. I do so with the belief that the implementation of this plan will give all Cook Islanders access to quality education across a range of programmes that fulfil personal interests and provide the knowledge and skills to be successful in their chosen pathway.
 
-Kia Manuia John J Herrmann Secretary of Education
+Kia Manuia
+John J Herrmann
+Secretary of Education
 
 ## Introduction
 
 The Education Master Plan presents a strategic direction for education over the next 15 years. The plan acknowledges that education is not the sole responsibility of any one group. Through collaboration we can make the most of opportunities to develop new ideas and initiatives. These opportunities will provide a foundation for success and excellence for all. The plan describes what we are aiming for and how we intend to get there.
 
-Recent reviews of education have identifi  ed where the education system needs to build on existing initiatives and deliver further results. These reviews have provided us with four areas on which to focus our strategy.
+Recent reviews of education have identified where the education system needs to build on existing initiatives and deliver further results. These reviews have provided us with four areas on which to focus our strategy.
 
 These are:
 
-- T aku Ipukarea Kia Rangatira
+- Taku Ipukarea Kia Rangatira
 
 - Learning and Teaching
 
@@ -48,7 +52,7 @@ These are:
 
 - Infrastructure and Support
 
-Taku Ipukarea Kia Rangatira is intended to strengthen a learner's identity as a Cook Islander. It is grounded in the language, culture, thinking, visions and aspirations of the people and has a sense of belonging and pride. It is for a future that is vibrant and fulfi  lling.
+Taku Ipukarea Kia Rangatira is intended to strengthen a learner’s identity as a Cook Islander. It is grounded in the language, culture, thinking, visions and aspirations of the people and has a sense of belonging and pride. It is for a future that is vibrant and fulfilling.
 
 This strength in Cook Islands identity is not at the expense of any other area of our lives. Learning and Teaching and Learning and the Community in particular create opportunities for success across a range of contexts for learners.
 
@@ -78,11 +82,11 @@ The strategic vision for Eduction is:
 
 …to build the skills, knowledge, attitudes and values of Cook Islanders to put their capabilities to best use in all areas of their lives.
 
-Seven principles have guided  the development of this plan. They are Effi  ciency, Equity, Excellence, Partnerships, Quality, Relevancy and Sustainability. The purpose of these principles is to support the overall outcome of improved educational achievement for all Cook Islanders.
+Seven principles have guided the development of this plan. They are Efficiency, Equity, Excellence, Partnerships, Quality, Relevancy and Sustainability. The purpose of these principles is to support the overall outcome of improved educational achievement for all Cook Islanders.
 
-2 COOK ISLANDS EDUCATION MASTER PLAN 2008 - 2023
+2 COOK ISLANDS EDUCATION MASTER PLAN 2008 – 2023
 
-COOK ISLANDS EDUCATION MASTER PLAN 2008 - 2023 3
+COOK ISLANDS EDUCATION MASTER PLAN 2008 – 2023 3
 
 [[END OF PAGE 2]]
 
@@ -90,13 +94,13 @@ COOK ISLANDS EDUCATION MASTER PLAN 2008 - 2023 3
 
 ## Taku Ipukarea Kia Rangatira
 
-Focus: Involves strength in Maori language, culture, perspectives aspirations and will provide a fi  rm foundation for engagement with the wider world.
+Focus: Involves strength in Maori language, culture, perspectives aspirations and will provide a firm foundation for engagement with the wider world.
 
 ### Goals:
 
 - Improved Maori  literacy at all levels of education
 
-- Relevant learning and teaching styles and methods identifi  ed and developed
+- Relevant learning and teaching styles and methods identified and developed
 
 - Develop as a centre of excellence for all things Cook Islands
 
@@ -144,7 +148,7 @@ Focus: Equitable access to quality learning and the experience of success throug
 
 - Systems that enhance student wellbeing
 
-- Signifi  cantly increased participation in tertiary education
+- Significantly increased participation in tertiary education
 
 - Increased numbers of accredited institutions and courses available in-country
 
@@ -158,7 +162,7 @@ Focus: Equitable access to quality learning and the experience of success throug
 
 - Providing 100% access for all learners to programmes that meet their individual needs
 
-- Ensuring 75% of students entering NCEA L1 for the fi  rst time at year 11 will achieve the qualifi  cation
+- Ensuring 75% of students entering NCEA L1 for the first time at year 11 will achieve the qualification
 
 - Achieving 90% student retention beyond the minimum leaving age either in formal schooling or another recognized  course of learning
 
@@ -176,7 +180,7 @@ Focus: Equitable access to quality learning and the experience of success throug
 
 - Developing an accredited Cook Islands institute with a wide scope of NQF standards
 
-- Providing access to other accredited industry specifi  c programmes eg London City and Guilds
+- Providing access to other accredited industry specific programmes eg London City and Guilds
 
 ### These goals and aims will be achieved by developing and implementing action plans that:
 
@@ -202,11 +206,9 @@ Focus: Equitable access to quality learning and the experience of success throug
 
 - Develop, implement and resource an active tertiary sector within the Cook Islands.
 
-COOK ISLANDS EDUCATION MASTER PLAN 2008 - 2023
+4 COOK ISLANDS EDUCATION MASTER PLAN 2008 – 2023
 
-5
-
-4 COOK ISLANDS EDUCATION MASTER PLAN 2008 - 2023
+COOK ISLANDS EDUCATION MASTER PLAN 2008 – 2023 5
 
 [[END OF PAGE 3]]
 
@@ -256,7 +258,7 @@ Focus: The provision of appropriate legislation, research, guidelines and standa
 
 - High quality buildings, grounds and facilities
 
-- Well qualifi  ed and resourced teachers, administrators and support staff
+- Well qualified and resourced teachers, administrators and support staff
 
 - High quality management systems
 
@@ -286,17 +288,17 @@ Focus: The provision of appropriate legislation, research, guidelines and standa
 
 - Provide for the establishment and resourcing of specialist areas eg ICT, Performing Arts
 
-- Provide learning centres with support in fi  nancial, administration and other matters.
+- Provide learning centres with support in financial, administration and other matters.
 
-6 COOK ISLANDS EDUCATION MASTER PLAN 2008 - 2023
+6 COOK ISLANDS EDUCATION MASTER PLAN 2008 – 2023
 
-COOK ISLANDS EDUCATION MASTER PLAN 2008 - 2023 7
+COOK ISLANDS EDUCATION MASTER PLAN 2008 – 2023 7
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-Learning for Life Cook Islands Education Master Plan 2008-2023
+Learning for Life Cook Islands Education Master Plan 2008–2023
 
 ## As a result of this plan
 
@@ -310,11 +312,11 @@ Learning for Life Cook Islands Education Master Plan 2008-2023
 
 - Function as highly literate and numerate members of society
 
-- T ake advantage of opportunities locally, regionally and globally to further their development
+- Take advantage of opportunities locally, regionally and globally to further their development
 
 ### Adults in the Cook Islands will be able to:
 
-- Access opportunities for second chance learning to achieve qualifi  cations, skills and training
+- Access opportunities for second chance learning to achieve qualifications, skills and training
 
 - Access a wide range of courses to equip them for the career and lifestyle of their choice
 
@@ -322,11 +324,11 @@ Learning for Life Cook Islands Education Master Plan 2008-2023
 
 ### Parents in the Cook Islands will be able to:
 
-- Actively participate in their child's learning from birth
+- Actively participate in their child’s learning from birth
 
-- Participate in all decision making processes for their child's schooling
+- Participate in all decision making processes for their child’s schooling
 
-- Enjoy confi  dence in the quality of their child's education
+- Enjoy confidence in the quality of their child’s education
 
 ### Businesses in the Cook Islands will be able to:
 
@@ -334,18 +336,16 @@ Learning for Life Cook Islands Education Master Plan 2008-2023
 
 - Provide career pathways
 
-- Value increased productivity of it's workforce
+- Value increased productivity of it’s workforce
 
 - Create opportunity for new industries
 
 ### The Cook Islands will be able to:
 
-- Fulfi  l it's obligations to its people and the region
+- Fulfil it’s obligations to its people and the region
 
 - Project a dynamic, prosperous and  stable society.
 
-COOK ISLANDS EDUCATION MASTER PLAN 2008 - 2023
-
-8
+8 COOK ISLANDS EDUCATION MASTER PLAN 2008 – 2023
 
 [[END OF PAGE 5]]
