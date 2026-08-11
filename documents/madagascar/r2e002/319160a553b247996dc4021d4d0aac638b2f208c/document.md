@@ -203,11 +203,10 @@ Les modalités relatives à l'organisation et au fonctionnement de ce Comité so
 
 [[START OF PAGE 7]]
 
-##### Article 44
-
 ### SOUS-TITRE PREMIER DE L'EXECUTIF
 
-.- La fonction exécutive est exercée par le Président de la République et le Gouvernement.
+##### Article 44 .-
+La fonction exécutive est exercée par le Président de la République et le Gouvernement.
 
 #### CHAPITRE PREMIER DU PRESIDENT DE LA REPUBLIQUE
 
@@ -216,7 +215,7 @@ Le Président de la République est le Chef de l'Etat.  Il est élu au suffrage 
 
 Il est le garant, par son arbitrage, du fonctionnement régulier des pouvoirs publics, de l'indépendance  nationale  et  de  l'intégrité  territoriale.  Il  veille  à  la  sauvegarde  et  au  respect  de  la souveraineté nationale tant à l'intérieur qu'à l'extérieur. Il est le garant de l'Unité nationale. Le Président de la République assure ces missions dans le cadre des pouvoirs qui lui sont conférés par la présente Constitution.
 
-##### Article  46.
+##### Article 46.-
 Tout  candidat  aux  fonctions  de  Président  de  la  République  doit  être  de  nationalité malagasy, jouir de ses droits civils et politiques, avoir au moins trente cinq ans à la date de clôture du dépôt des candidatures, résider sur le territoire de la République de Madagascar depuis au moins six mois avant le jour de la date limite fixée pour le dépôt des candidatures.
 
 Le  Président  de  la  République  en  exercice  qui  se  porte  candidat  aux  élections  présidentielles démissionne  de  son  poste  soixante  jours  avant  la  date  du  scrutin  présidentiel.  Dans  ce  cas,  le Président  du  Sénat  exercice  les  attributions  présidentielles  courantes  jusqu'à  l'investiture  du nouveau Président.
@@ -235,11 +234,11 @@ La  passation  officielle  du  pouvoir  se  fait  entre  le  Président  sortant
 
 Avant son entrée en fonction le Président de la République, en audience solennelle de la Haute Cour Constitutionnelle, devant la Nation, et en présence du Gouvernement, de l'Assemblée Nationale, du Sénat et de la Cour Suprême, prête le serment suivant :
 
-" Eto anatrehan'Andriamanitra Andriananahary sy ny Firenena ary ny Vahoaka, mianiana aho fa hanantanteraka an - tsakany sy an - davany ary amim -pahamarinana ny andraikitra lehibe maha Filohan'ny Firenena Malagasy ahy. Mianiana aho fa hampiasa ny fahefana natolotra ahy ary hanokana ny heriko rehetra hiarovana sy
+" Eto anatrehan'Andriamanitra Andriananahary sy ny Firenena ary ny Vahoaka, mianiana aho fa hanantanteraka an - tsakany sy an - davany ary amim -pahamarinana ny andraikitra lehibe maha - Filohan'ny Firenena Malagasy ahy. Mianiana aho fa hampiasa ny fahefana natolotra ahy ary hanokana ny heriko rehetra hiarovana sy
 
 hanamafisana ny firaisam- pirenena sy ny zon'olombelona.
 
-Mianiana aho fa hanaja sy hitandrina toy ny anakandriamaso ny Lalàmpanorenana sy ny lalàmpanjakana, hikatsaka hatrany ny soa ho an'ny Vahoaka malagasy tsy ankanavaka ".
+Mianiana aho fa hanaja sy hitandrina toy ny anakandriamaso ny Lalàmpanorenana sy ny lalàm-panjakana, hikatsaka hatrany ny soa ho an'ny Vahoaka malagasy tsy ankanavaka ".
 
 Le mandat présidentiel commence à partir du jour de la prestation de serment.
 
@@ -409,7 +408,7 @@ Les membres du Sénat portent le titre de « Sénateur de Madagascar ». Leur ma
 ##### Article  81 .-
 Le  Sénat  représente  les  Collectivités  Territoriales  Décentralisées  et  les  organisations économiques  et  sociales.  Il  comprend,  pour  deux  tiers,  des  membres  élus  en  nombre  égal  pour chaque Province, et pour un tiers, des membres nommés par le Président de la République, pour partie,  sur  présentation  des  groupements  les  plus  représentatifs  issus  des  forces  économiques sociales et culturelles et pour partie en raison de leur compétence particulière.
 
-##### Article 82.
+##### Article 82.-
 Les règles de fonctionnement du Sénat, sa composition ainsi que les modalités d'élection et de désignation de ses membres sont fixées par une loi organique.
 
 ##### Article  83 .-
@@ -584,7 +583,7 @@ Tout  projet  ou  proposition  de  loi  est  examiné  en  premier  lieu  par  l
 Les  matières  autres  que  celles  qui  sont  du  domaine  de  la  loi  ont  un  caractère réglementaire. Les textes de forme législative intervenus en ces matières peuvent être modifiés par décret pris après avis de la Haute Cour Constitutionnelle. Ceux  de  ces  textes  qui  interviendraient  après  l'entrée  en  vigueur  de  la  présente  Constitution  ne pourront  être  modifiés  par  décret  que  si  la  Haute  Cour  Constitutionnelle  a  déclaré  qu'ils  ont  un caractère réglementaire en vertu de l'alinéa précédent.
 
 ##### Article 98 .-
-Le Gouvernement, en engageant sa responsabilité dans les conditions prévues à l'article 100 ci-dessous, peut exiger de chacune des Assemblées de se prononcer par un seul vote sur tout ou partie des dispositions des textes en discussion : -  lors des sessions extraordinaires, à condition que ces textes aient été déposés dans les quarantehuit heures de l'ouverture de la session ;
+Le Gouvernement, en engageant sa responsabilité dans les conditions prévues à l'article 100 ci-dessous, peut exiger de chacune des Assemblées de se prononcer par un seul vote sur tout ou partie des dispositions des textes en discussion : -  lors des sessions extraordinaires, à condition que ces textes aient été déposés dans les quarante-huit heures de l'ouverture de la session ;
 
 - dans les huit derniers jours de chacune des sessions ordinaires.
 
@@ -662,20 +661,24 @@ activité professionnelle rémunérée, sauf l'enseignement. Tout Magistrat en e
 Tout Magistrat exerçant un mandat public électif est placé d'office en position de détachement.
 
 ##### Article  112 .-
-L'Inspection  Générale  de  la  Justice,  composée  de  représentants  du  Parlement,  de représentants du Gouvernement, de représentants du Haut Conseil pour la Défense de la Démocratie et de l'Etat de droit, et de représentants de la Magistrature, est chargée de contrôler le respect des règles  déontologiques  particulières  aux  Magistrats,  ainsi  que  les  agissements  du  personnel  de  la
+L'Inspection Générale de la Justice, composée de représentants du Parlement, de représentants du Gouvernement, de représentants du Haut Conseil pour la Défense de la Démocratie et de l'Etat de droit, et de représentants de la Magistrature, est chargée de contrôler le respect des règles déontologiques particulières aux Magistrats, ainsi que les agissements du personnel de la justice.
 
-Le Président de la République, le Parlement, le Gouvernement, les Chefs de Cour, les associations légalement constituées et toute personne justifiant d'un intérêt peuvent saisir l'Inspection générale
+Elle est rattachée à la Présidence de la République.
 
-justice. Elle est rattachée à la Présidence de la République. de la Justice.
+Le Président de la République, le Parlement, le Gouvernement, les Chefs de Cour, les associations légalement constituées et toute personne justifiant d'un intérêt peuvent saisir l'Inspection générale de la Justice.
 
 Les règles relatives à l'organisation, au fonctionnement et aux attributions de l'Inspection générale de la justice sont fixées par la loi.
 
 ##### Article 113 .-
-Le Conseil National de la Justice, organe consultatif composé du Premier Président de la Cour Suprême, Président, du Procureur général de la Cour Suprême, et des Chefs de Cours d'appel, de représentants du pouvoir exécutif, du pouvoir législatif, de la Haute Cour Constitutionnelle, du Conseil  Supérieur  de  la  Magistrature  et  des  auxiliaires  de  la  justice  en  général.  A  ce  titre,  il  peut proposer au Gouvernement des mesures d'ordre législatif ou règlementaire relatives à l'organisation et au fonctionnement des juridictions, au statut des Magistrats et des auxiliaires de la justice. Les règles relatives à l'organisation, au fonctionnement et aux attributions du Conseil National de la Justice sont fixées par la loi.
+Le Conseil National de la Justice, organe consultatif composé du Premier Président de la Cour Suprême, Président, du Procureur général de la Cour Suprême, et des Chefs de Cours d'appel, de représentants du pouvoir exécutif, du pouvoir législatif, de la Haute Cour Constitutionnelle, du Conseil Supérieur de la Magistrature et des auxiliaires de la justice en général. A ce titre, il peut
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
+
+proposer au Gouvernement des mesures d'ordre législatif ou règlementaire relatives à l'organisation et au fonctionnement des juridictions, au statut des Magistrats et des auxiliaires de la justice.
+
+Les règles relatives à l'organisation, au fonctionnement et aux attributions du Conseil National de la Justice sont fixées par la loi.
 
 #### CHAPITRE II DE LA HAUTE COUR CONSTITUTIONNELLE
 
@@ -738,11 +741,13 @@ Le Premier Président de la Cour Suprême est secondé par trois vice-président
 ##### Article 124 .-
 Le Parquet général de la Cour Suprême comprend : - un Parquet général de la Cour de cassation ; - un Commissariat général de la loi pour le Conseil d'Etat ; - un Commissariat général du Trésor public pour la Cour des Comptes. Le Procureur général de la Cour Suprême est secondé par les trois chefs de ces Parquets généraux.
 
-Le  chef  du  Parquet  général  de  la  Cour  de  Cassation,  du  Commissariat  général  de  la  loi  ou  du Commissariat  général  du  Trésor  public  est  nommé  en  Conseil  des  Ministres  conformément  aux désignations du Conseil Supérieur de la Magistrature,  de  préférence  parmi  les  Magistrats  les  plus  anciens  dans  le  grade  le  plus  élevé respectivement de l'ordre judiciaire, administratif et financier.
+Le chef du Parquet général de la Cour de Cassation, du Commissariat général de la loi ou du Commissariat général du Trésor public est nommé en Conseil des Ministres conformément aux désignations du Conseil Supérieur de la
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
+
+Magistrature, de préférence parmi les Magistrats les plus anciens dans le grade le plus élevé respectivement de l'ordre judiciaire, administratif et financier.
 
 ##### Article 125 .-
 Outre les attributions qui lui sont dévolues par des lois particulières, la Cour Suprême règle les conflits de compétence entre deux juridictions d'ordre différent.
