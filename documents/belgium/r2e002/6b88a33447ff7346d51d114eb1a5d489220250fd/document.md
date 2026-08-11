@@ -147,15 +147,15 @@ inséré par L. 18-02-1977; modifié par L. 15-07-1985; D. 31-05-1989
 ### Article 5bis. -
 § 1er. Le Roi détermine, après avis du Conseil supérieur compétent, sauf pour le littera e, le règlement général des enseignements supérieurs, technique, économique,  agricole, paramédical, social, artistique, pédagogique  et maritime et notamment :
 
-- la durée des études;
+a) la durée des études;
 
-- les règles de sanction des études;
+b) les règles de sanction des études;
 
-- les titres de capacité à conférer, leurs qualifications, leurs formes et mentions;
+c) les titres de capacité à conférer, leurs qualifications, leurs formes et mentions;
 
-- le nombre minimum et le nombre maximum d'heures de cours et d'activités qui peuvent être imposées en vue de l'obtention des différents titres de capacité;
+d) le nombre minimum et le nombre maximum d'heures de cours et d'activités qui peuvent être imposées en vue de l'obtention des différents titres de capacité;
 
-- les  conditions  d'organisation  des  enseignements,  cycles,  sections,  options  et autres subdivisions dans les établissements de l'Etat.
+e) les conditions d'organisation des enseignements, cycles, sections, options et autres subdivisions dans les établissements de l'Etat.
 
 L. 07-07-1970 mis à jour au 20/03/2009
 
@@ -177,11 +177,11 @@ p.4
 
 § 3. Les Ministres de l'Education nationale, le Ministre de la Culture française et le Ministre de la Culture néerlandaise déterminent, chacun pour ce qui le concerne :
 
-- le programme des études et la répartition des matières et des activités dans l'enseignement de l'Etat;
+a) le programme des études et la répartition des matières et des activités dans l'enseignement de l'Etat;
 
-- le règlement organique des établissements de l'Etat;
+b) le règlement organique des établissements de l'Etat;
 
-- les enseignements, cycles, sections, options et autres subdivisions à organiser dans des établissements de l'Etat.
+c) les enseignements, cycles, sections, options et autres subdivisions à organiser dans des établissements de l'Etat.
 
 ## CHAPITRE III. - Conseils supérieurs et conseil permanent
 
@@ -192,7 +192,7 @@ modifié par L. 27-07-1971; complété par L. 15-07-1985 ; D. 21-12-2000
 modifié par L. 15-07-1985
 
 ### Article 7. -
-§ 1er. Est créé, auprès du département de l'Education nationale et de la  Culture  néerlandaise  et  auprès  du  département  de  l'Education  nationale  et  de  la Culture française, un Conseil permanent de l'Enseignement supérieur, dénommé ciaprès "Conseil permanent".
+§ 1er. Est créé, auprès du département de l'Education nationale et de la Culture néerlandaise et auprès du département de l'Education nationale et de la Culture française, un Conseil permanent de l'Enseignement supérieur, dénommé ci-après "Conseil permanent".
 
 Les  deux  Conseils  permanents  siègent  ensemble  pour  toutes  les  questions d'intérêt national.
 
@@ -292,13 +292,13 @@ Nul  ne  peut  exercer  temporairement  une  des  fonctions  précisées  au  pr
 
 § 2. Pour l'exercice d'une des fonctions de chargé de cours, de chef de travaux ou d'assistant,  dans  l'enseignement  supérieur  de  type  long,  un  des  titres  de  capacité suivants est exigé:
 
-- les diplômes visés au § 1er;
+a) les diplômes visés au § 1er;
 
-- le diplôme de licencié délivré par une université belge ou un établissement y assimilé ou par un jury constitué par le Roi, si la durée des études est de quatre ans au moins;
+b) le diplôme de licencié délivré par une université belge ou un établissement y assimilé ou par un jury constitué par le Roi, si la durée des études est de quatre ans au moins;
 
-- le  diplôme  de  fin  d'études  du  deuxième  cycle  délivré  par  un  établissement d'enseignement supérieur de type long ou par un jury constitué par le Roi, ou un titre dont le porteur a obtenu l'assimilation à un tel diplôme;
+c) le diplôme de fin d'études du deuxième cycle délivré par un établissement d'enseignement supérieur de type long ou par un jury constitué par le Roi, ou un titre dont le porteur a obtenu l'assimilation à un tel diplôme;
 
-- le  diplôme  de  fin  d'études  délivré  par  un  établissement  d'enseignement technique supérieur classé au troisième degré ou par un établissement d'enseignement artistique du niveau supérieur classé au troisième degré.
+d) le diplôme de fin d'études délivré par un établissement d'enseignement technique supérieur classé au troisième degré ou par un établissement d'enseignement artistique du niveau supérieur classé au troisième degré.
 
 § 3. Les titres de capacité visés aux §§ 1er et 2 ci-dessus peuvent aussi être des titres  étrangers  reconnus  équivalents  en  application  de  l'article  36  du  décret  du  5 septembre 1994 relatif au régime des études universitaires et des grades académiques, et de la loi du 19 mars 1971 relative à l'équivalence des diplômes et certificats d'études étrangers.
 
@@ -306,7 +306,7 @@ Nul  ne  peut  exercer  temporairement  une  des  fonctions  précisées  au  pr
 
 § 4bis. Nul  ne  peut  être  nommé  assistant  technicien  s'il  n'a  pas  obtenu  la reconnaissance de sa notoriété professionnelle en rapport avec la ou les spécialité(s) enseignée(s). Cette notoriété est reconnue par le ministre de l'Education nationale sur
 
-> 1 L'article 10, §§ 1 er  à 8, est inapplicable aux membres du personnel soumis au D. 08-021999 (M.B. 29-04-1999) (cf ce même décret, article 41)
+> 1 L'article 10, §§ 1 er  à 8, est inapplicable aux membres du personnel soumis au D. 08-02-1999 (M.B. 29-04-1999) (cf ce même décret, article 41)
 
 Centre de documentation administrative Secrétariat général
 
@@ -334,9 +334,9 @@ proposition du Conseil supérieur permanent. Nul ne peut exercer temporairement 
 
 § 6. Pour  l'enseignement  de  certaines  matières  qu'Il  fixe  ou  pour  l'exercice  de certaines  fonctions  qu'Il  précise,  le  Roi  peut,  après  l'avis  du  Conseil  supérieur compétent :
 
-- préciser la spécificité de certains titres prévus au présent article;
+a) préciser la spécificité de certains titres prévus au présent article;
 
-- admettre d'autres titres.
+b) admettre d'autres titres.
 
 Les membres du personnel qui satisfont aux dispositions du présent paragraphe peuvent être nommés à titre définitif.
 
@@ -344,9 +344,9 @@ Les membres du personnel qui satisfont aux dispositions du présent paragraphe p
 
 Cette expérience est réduite à 3 ans au moins pour un membre du personnel :
 
-- qui a presté au moins 3 années dans une fonction à prestations complètes du personnel directeur et enseignant et y a été nommé à titre définitif;
+a) qui a presté au moins 3 années dans une fonction à prestations complètes du personnel directeur et enseignant et y a été nommé à titre définitif;
 
-- ou  qui  est  porteur  d'un  certificat  d'aptitudes  pédagogiques  approprié  à l'enseignement supérieur et dont le Roi fixe les conditions d'obtention.
+b) ou qui est porteur d'un certificat d'aptitudes pédagogiques approprié à l'enseignement supérieur et dont le Roi fixe les conditions d'obtention.
 
 § 8. Pour l'exercice de toute fonction dans l'enseignement supérieur, le Roi peut exiger une expérience utile dont il précise la nature et la durée.
 
@@ -382,11 +382,11 @@ V.A.03 p.8
 
 § 2. Les titres de capacité visés au § 1er peuvent aussi être des titres reconnus : 1° équivalents en application de la loi du 19 mars 1971 relative à l'équivalence des  diplômes  et  certificats  d'études  étrangers  ou  de  l'article  36  du  décret  du  5 septembre 1994 relatif au régime des études universitaires et des grades académiques;
 
-- 2° correspondants en application de l'article 62, alinéa 1 er , l° du décret du 16 avril 1991 organisant l'enseignement de promotion sociale.
+- 2° correspondants en application de l'article 62, alinéa 1 er , 1° du décret du 16 avril 1991 organisant l'enseignement de promotion sociale.
 
 § 3 . La notoriété professionnelle et scientifique acquise en vertu de l'article 4, § 3 du décret du 8 février 1999 relatif aux fonctions et titres des membres du personnel enseignant  des  hautes  écoles  organisées  ou  subventionnées  par  la  Communauté française, tient lieu, à titre personnel des titres exigés au § 1er.
 
-### Article 10quater.
+### Article 10quater. -
 La spécificité des titres requis pour l'exercice de la fonction d'assistant  dans  l'enseignement  supérieur  de  promotion  sociale  et  type  long  est précisée dans l'annexe 2 du décret du 8 février 1999 relatif aux fonctions et titres des membres du personnel enseignant des hautes écoles organisées ou subventionnées par la Communauté française.
 
 La  spécificité  des  titres  requis  pour  l'enseignement  supérieur  de  promotion sociale et de type long est précisée dans l'annexe 3 du décret du 8 février 1999 relatif aux  fonctions  et  titres  des  membres  du  personnel  enseignant  des  hautes  écoles organisées ou subventionnées par la Communauté française.
@@ -477,11 +477,11 @@ Le  remplacement  d'une  section  d'enseignement  supérieur  de  type court par
 Cela ne peut cependant se faire que sur avis favorable des Conseils permanents.
 
 ### Article 15. -
-Pour l'application des articles 11, 12, 13 et 14 susmentionnés, toute section  ou  établissement  n'ayant  pas  fonctionné  pendant  l'année  académique  19691970 sont considérés comme nouveaux.
+Pour l'application des articles 11, 12, 13 et 14 susmentionnés, toute section ou établissement n'ayant pas fonctionné pendant l'année académique 1969-1970 sont considérés comme nouveaux.
 
 inséré par D. 11-01-2008
 
-### Article 15bis.
+### Article 15bis. -
 En  cas  de  fusion, reprise,  ou  transfert,  impliquant  un  ou plusieurs établissements du même pouvoir organisateur ou de pouvoirs organisateurs différents, les modalités relatives à l'emploi et aux conditions de travail des membres du personnel concernés font l'objet d'une négociation préalable entre les représentants du  pouvoir  organisateur  et  selon  le  cas,  avec  les  représentants  des  membres  du personnel élus au comité de concertation de base, avec les représentants des membres du personnel élus à la commission paritaire locale ou avec la délégation syndicale.
 
 ## CHAPITRE VII. - Dispositions transitoires et finales
